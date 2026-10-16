@@ -14,20 +14,15 @@
 naiḥṣyandikau nādhareṇa lakṣyete manasā ca tau || 6.13 ||
 ```
 
-VAK 6.13 classifies the breaths that serve as the object-range of the Prajñā
+VAK 6.13 classifies the breaths that serve as the cognitive field of the Prajñā
 analyzed in 6.12. Inhalation and exhalation belong to the same level as the
 body, are counted within the sentient continuum, remain unappropriated, arise
 as homogeneous-flow products, and are apprehended by cognition of their own or
 a higher level rather than by a lower-level cognition.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ānāpānau | yataḥ | kāyaḥ | sattva-ākhyau | anupāttakau |
-naiḥṣyandikau | na | adhareṇa | lakṣyete | manasā | ca | tau
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ānāpānau` | nominative dual masculine compound | inhalation and exhalation |
 | `yataḥ` | relative adverb | from whatever level; wherefrom |
@@ -41,6 +36,11 @@ naiḥṣyandikau | na | adhareṇa | lakṣyete | manasā | ca | tau
 | `manasā` | instrumental singular neuter of `manas` | by mind or cognition |
 | `ca` | conjunction | and, also |
 | `tau` | nominative dual masculine demonstrative | those two |
+
+```text
+ānāpānau | yataḥ | kāyaḥ | sattva-ākhyau | anupāttakau |
+naiḥṣyandikau | na | adhareṇa | lakṣyete | manasā | ca | tau
+```
 
 The dual morphology consistently treats inhalation and exhalation as two
 members of one classified process. The Bhāṣya supplies the comparison implicit
@@ -91,6 +91,21 @@ na adhareṇa manasā lakṣyete
 The positive comparison in brackets is explicit in the Bhāṣya and should not
 be mistaken for wording present in the kārikā.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+BREATH[PHASES=inhalation+exhalation, GROUND=body-ground,
+       CONTINUUM=sentient, APPROPRIATION=unappropriated,
+       CAUSAL-TYPE=homogeneous-flow]
+  ← ānāpānau + yataḥ kāyaḥ + sattvākhyau
+    + anupāttakau + naiḥṣyandikau
+DISCERNMENT[TARGET=the-two-breaths, MIN-GROUND=breath-ground]
+  ← na adhareṇa manasā lakṣyete + [own/higher-ground prose]
+```
+
+The dual agreement and negated lower-ground instrument are source grammar.
+The feature slots offer a future reflective model of their distinct relations.
+
 ## 5. Translation
 
 ### Literal Translation
@@ -102,25 +117,23 @@ be mistaken for wording present in the kārikā.
 
 ### Bhāṣya-informed study translation
 
-> Inhalation and exhalation belong to the same `bhūmi` as the body because they
-> are bodily parts. They occur only in dependence upon a particular
-> configuration of body and citta; they are absent where that configuration is
-> absent, including the formless domain, the embryonic `kalala` state,
-> non-cognitive attainment, and fourth dhyāna. Although counted within the
-> sentient continuum, they are unappropriated because separable from the
-> faculties. They are homogeneous-flow products rather than products of bodily
-> accumulation or karmic maturation, and cognition of their own or a higher
-> level apprehends them, not cognition of a lower level.
+> Inhalation and exhalation share the body's ground and are counted within a
+> sentient continuum, yet remain unappropriated because they are separable
+> from the faculties. They are products of homogeneous flow. Consciousness on
+> their own or a higher ground can discern them; consciousness on a lower
+> ground cannot.
 
-The body–citta condition, absence cases, reason for non-appropriation, excluded
+### Translation note
+
+The body–consciousness condition, absence cases, reason for non-appropriation, excluded
 causal types, and positive cognition-range are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-> Breath becomes an adequate object of Prajñā only when its distinct relations
+> Breath becomes an adequate cognitive field of Prajñā only when its distinct relations
 > are discriminated. It belongs to embodied life without being an appropriated
 > faculty; it continues causally without being a substance or direct maturation
-> product; it depends upon a specific body–citta configuration rather than
+> product; it depends upon a specific body–consciousness (`citta`) configuration rather than
 > accompanying every possible embodied state; and its accessibility varies
 > with cognitive level. The possessive immediacy “my breath” is therefore
 > resolved into level, continuum, appropriation, causal, conditional, and
@@ -131,14 +144,14 @@ The verse and Bhāṣya jointly establish:
 ```text
 adequate cognition
     requires
-adequately differentiated object-relations
+adequately differentiated process relations
 ```
 
 ## 7. Technical Vocabulary
 
 **`Ānāpāna` — inhalation and exhalation**
 
-The paired wind-process classified here after 6.12 identified it as the object
+The paired wind-process classified here after 6.12 identified it as the cognitive field
 of breath-recollection. The dual form preserves inhalation and exhalation as
 distinguishable phases within one conditioned process.
 
@@ -148,7 +161,7 @@ The Bhāṣya's expanded rule. Breath belongs to the body's `bhūmi` because it 
 a bodily part. This is a level-classification, not merely the claim that breath
 is spatially located inside a body.
 
-**`Kāyacittaviśeṣasaṃniśrita` — dependent upon a specific body–citta condition**
+**`Kāyacittaviśeṣasaṃniśrita` — dependent upon a specific body–consciousness configuration**
 
 Breathing occurs only when the requisite bodily openness and cognition of a
 breathing-level are present. This prevents the body alone from being treated as
@@ -156,8 +169,8 @@ a sufficient cause.
 
 **States without breathing**
 
-The Bhāṣya excludes the formless domain, the `kalala` embryonic state,
-non-cognitive attainment, and fourth dhyāna. Breath begins at birth and upon
+The Bhāṣya excludes the formless realm, the `kalala` embryonic state,
+attainment without consciousness, and fourth dhyāna. Breath begins at birth and upon
 emergence from fourth dhyāna; it ceases at death and upon entry into fourth
 dhyāna.
 
@@ -283,7 +296,7 @@ Level(cognition) < Level(breath)
 ## 9. Interpretive Note
 
 **Breath is not universally present wherever there is body.** A specific
-body–citta configuration is required. The absence and transition cases make
+body–consciousness (`citta`) configuration is required. The absence and transition cases make
 that dependency explicit.
 
 **Belonging is not appropriation.** `Sattvākhyā` includes breath within the
@@ -292,7 +305,7 @@ two predicates establish a middle determination rather than contradicting one
 another.
 
 **Causal flow is not substance.** `Naiḥṣyandika` identifies a conditioned
-continuity whose recurrence depends upon prior conditions. The breath-object
+continuity whose recurrence depends upon prior conditions. The breath-process
 of 6.12 is therefore a process, not a self-identical thing passing unchanged
 through time.
 
@@ -300,16 +313,16 @@ through time.
 Abhidharma precision: a lower `bhūmi` cognition cannot apprehend the relevant
 breath, while same- or higher-level cognition can.
 
-**Prajñā and object must be determined together.** VAK 6.12 classified the
+**Prajñā and its cognitive field must be determined together.** VAK 6.12 classified the
 cognition; 6.13 classifies the wind-process it knows. Neither a powerful
-cognitive label nor an underdetermined object is sufficient for Path-science.
+cognitive label nor an underdetermined cognitive field is sufficient for Path-science.
 
-**Organon interpretation.** VAK 6.13 supplies a native schema for the Object of
-Practical Meaning. This is project synthesis:
+**Organon interpretation.** VAK 6.13 supplies determinations from which the
+Object of this breath-process can be comprehended. This is project synthesis:
 
 ```text
-object identity
-    BreathProcess
+Object as comprehended truth
+    BreathProcess with its full determinations
 
 position
     same bhūmi as body
@@ -332,7 +345,7 @@ access condition
 Meaning does not arise by replacing breath with a dictionary gloss or by
 appropriating it as “mine.” It emerges through the system of determinations
 that make this process what it is and specify how Prajñā can apprehend it. The
-Path does not arbitrarily create the object; it discriminates the lawful
+Path does not arbitrarily create the cognitive field; it discriminates the lawful
 relations already required for adequate knowing.
 
 ## 10. OWL++ Seed

@@ -17,28 +17,28 @@ nāmobhayārthaviṣayāḥ śrutamayyādikā dhiyaḥ || 6.5 ||
 VAK 6.05 begins the practitioner's preparation for seeing the truths. One who
 is established in conduct and possesses learning and reflection applies
 oneself to cultivation. The three cognitions formed from learning, reflection,
-and cultivation are then distinguished by their objects: name, both name and
+and cultivation are then distinguished by their cognitive fields: name, both name and
 Meaning, and Meaning.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
+
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `vṛtta-sthaḥ` | nominative singular masculine compound | established in disciplined conduct |
+| `śruta-cintā-vān` | nominative singular masculine possessive compound | possessing learning and reflection |
+| `bhāvanāyām` | locative singular feminine | in cultivation |
+| `prayujyate` | third-person singular present middle/passive of `pra-√yuj` | applies or engages oneself |
+| `nāma-ubhaya-artha-viṣayāḥ` | nominative plural feminine distributive compound | ranging over name, both name and Meaning, and Meaning respectively |
+| `śruta-mayī-ādikāḥ` | nominative plural feminine | beginning with that formed from learning |
+| `dhiyaḥ` | nominative plural feminine of `dhī` | cognitions or understandings |
 
 ```text
 vṛtta-sthaḥ | śruta-cintā-vān | bhāvanāyām | prayujyate |
 nāma-ubhaya-artha-viṣayāḥ | śruta-mayī-ādikāḥ | dhiyaḥ
 ```
 
-| Form | Morphology | Contextual sense |
-|---|---|---|
-| `vṛtta-sthaḥ` | nominative singular masculine compound | established in disciplined conduct |
-| `śruta-cintā-vān` | nominative singular masculine possessive compound | possessing learning and reflection |
-| `bhāvanāyām` | locative singular feminine | in cultivation |
-| `prayujyate` | third-person singular present middle/passive of `pra-√yuj` | applies or engages oneself |
-| `nāma-ubhaya-artha-viṣayāḥ` | nominative plural feminine distributive compound | having name, both, and Meaning as their respective objects |
-| `śruta-mayī-ādikāḥ` | nominative plural feminine | beginning with that formed from learning |
-| `dhiyaḥ` | nominative plural feminine of `dhī` | cognitions or understandings |
-
 `Ubhaya` abbreviates `nāma-artha`, name and Meaning together. The compact
-compound distributes three objects across the three cognitions in sequence:
+compound distributes three cognitive fields across the three cognitions in sequence:
 
 ```text
 nāma
@@ -47,7 +47,7 @@ artha
 ```
 
 The Bhāṣya consistently names these cognitions as three forms of `prajñā` and
-then supplements the object-based distribution with a causal account of how
+then supplements the field-based distribution with a causal account of how
 each is generated.
 
 ## 4. Grammar
@@ -71,7 +71,7 @@ the Meaning, reflects without inversion, and then engages in cultivation.
 
 The second half has the plural subject `dhiyaḥ`, qualified by
 `śrutamayyādikāḥ`. The compound `nāmobhayārthaviṣayāḥ` supplies three
-successive object-relations:
+successive field-relations:
 
 ```text
 śrutamayī dhī
@@ -84,10 +84,25 @@ bhāvanāmayī dhī
     artha-viṣayā
 ```
 
-The Bhāṣya renders these as object-supports (`ālambana`). It then reports an
+The Bhāṣya renders these as cognitive Conditions (`ālambana`). It then reports an
 objection: alternating between name and Meaning does not securely establish
 the intrinsic distinction of reflective Prajñā. Vasubandhu therefore offers a
 causal definition based on authoritative teaching, reasoning, and samādhi.
+
+**Feature Grammar direction.** The singular practitioner of the first half
+governs `prayujyate`; the feminine plural `dhiyaḥ` governs the second half.
+The three members of `nāma-ubhaya-artha-viṣayāḥ` distribute in order over the
+three Prajñās:
+
+```text
+PRACTITIONER[NUM=sg, HAS=śruta+cintā] → ENGAGES[bhāvanā]
+DHĪ[NUM=pl, SERIES=śrutamayī+cintāmayī+bhāvanāmayī]
+    → VIṢAYA-SERIES[nāma+(nāma+artha)+artha]
+```
+
+This specifies agreement and ordered distribution for a later NLTK Feature
+Grammar. The Bhāṣya's causal alternative is a separate semantic relation,
+not another parse of the compound.
 
 ## 5. Translation
 
@@ -95,22 +110,15 @@ causal definition based on authoritative teaching, reasoning, and samādhi.
 
 > Established in conduct and possessing learning and reflection, one applies
 > oneself to cultivation. The cognitions beginning with that formed from
-> learning have, respectively, name, both [name and Meaning], and Meaning as
-> their objects.
+> learning range respectively over name, both [name and Meaning], and Meaning.
 
 ### Bhāṣya-informed study translation
 
-> A practitioner established in disciplined conduct and equipped with learning
-> and non-inverted reflection engages in cultivation. Prajñā formed from
-> learning initially relies upon name; Prajñā formed from reflection moves
-> between name and Meaning; and Prajñā formed from cultivation operates toward
-> Meaning without dependence upon verbal expression. More decisively, these
-> are distinguished by genesis: certainty born from reliable teaching,
-> reflective Prajñā born from reasoned examination, and cultivational Prajñā
-> born from samādhi.
-
-The qualification of reflection as non-inverted, the genetic dependence among
-the three Prajñās, and their causal definitions are supplied by the Bhāṣya.
+> Established in disciplined conduct, having received teaching and reflected
+> without inversion, one applies oneself to cultivation. The three forms of
+> Prajñā, formed from learning, reflection, and cultivation, range in order
+> over name, name together with Meaning, and Meaning without dependence on
+> words.
 
 ## 6. Philosophical Translation
 
@@ -124,7 +132,7 @@ the three Prajñās, and their causal definitions are supplied by the Bhāṣya.
 Two structures must be held together:
 
 ```text
-object structure
+cognitive-field structure
     name → name-and-Meaning → Meaning
 
 genetic structure
@@ -132,7 +140,7 @@ genetic structure
 ```
 
 The Bhāṣya preserves the middle term by insisting that cognition is determined
-not only by what it takes as object but also by the ground from which it arises.
+not only by what it takes as cognitive field but also by the ground from which it arises.
 
 ## 7. Technical Vocabulary
 
@@ -151,27 +159,27 @@ starting determination upon which later Prajñā relies.
 **`Cintā` — reflection**
 
 Reasoned examination that must be non-inverted before cultivation begins. In
-the object model, it mediates name and Meaning in both directions. In the
+the field model, it mediates name and Meaning in both directions. In the
 causal model, it is Prajñā born from `yukti-nidhyāna`, sustained examination
 through reasoning.
 
 **`Bhāvanā` — cultivation**
 
 The stage into which the qualified practitioner enters. The Bhāṣya's strongest
-definition is not mere repetition and not Meaning-object alone:
+definition is not mere repetition and not Meaning as cognitive field alone:
 `bhāvanāmayī prajñā` is born from samādhi.
 
 **`Śrutamayī prajñā` — Prajñā formed from learning**
 
-According to the kārikā model, its object-support is name. Vasubandhu's causal
+According to the kārikā model, its cognitive Condition is name. Vasubandhu's causal
 definition identifies it as certainty (`niścaya`) born from the authority or
 validity of reliable teaching (`āptavacana-prāmāṇya`).
 
 **`Cintāmayī prajñā` — Prajñā formed from reflection**
 
-According to the object model, it moves from expression to Meaning and from
+According to the field model, it moves from expression to Meaning and from
 Meaning back to expression. Other teachers object that this alternating
-object-relation fails to define it securely. Vasubandhu's causal account
+field-relation fails to define it securely. Vasubandhu's causal account
 distinguishes it as born from reasoning and examination.
 
 **`Bhāvanāmayī prajñā` — Prajñā formed from cultivation**
@@ -192,11 +200,12 @@ What the teaching is about and what cultivational Prajñā takes independently
 of verbal formulation. Capitalized **Meaning** marks our controlled project
 usage; it does not add a separate Sanskrit technical term beyond `artha`.
 
-**`Viṣaya / ālambana` — object / object-support**
+**`Viṣaya / ālambana` — cognitive field / cognitive Condition**
 
 The kārikā says `viṣaya`; the Bhāṣya explains through `ālambana`. This
-object-axis is genuine but insufficient by itself to define all three forms of
-Prajñā without ambiguity.
+range of cognitive Conditions is genuine but insufficient by itself to define
+all three forms of Prajñā without ambiguity. It is distinct from Object, the
+comprehended truth of a Thing.
 
 **`Niśritya` — relying upon**
 
@@ -221,12 +230,13 @@ Bhāṣya determination, not wording present in the kārikā.
 **`Yukti-nidhyāna` — reasoned examination**
 
 The generating ground of reflective Prajñā. It prevents the middle form from
-being reduced to an unstable alternation between two object types.
+being reduced to an unstable alternation between two field types.
 
 **`Samādhija` — born from samādhi**
 
 The generating ground of cultivational Prajñā. This is the verse-unit's
-strongest determination of how Meaning becomes a direct Path-object.
+strongest determination of how Prajñā proceeds toward Meaning without
+verbal dependence.
 
 **`Vyañjana-nirapekṣa` — independent of verbal formulation**
 
@@ -245,17 +255,17 @@ AND Possesses(person, NonInvertedReflection)
     → EngagesIn(person, Cultivation)
 ```
 
-The kārikā's object model is:
+The kārikā's cognitive-field model is:
 
 ```text
 SrutamayiPrajna
-    hasObject Name
+    hasCognitiveField Name
 
 CintamayiPrajna
-    hasObject NameAndMeaning
+    hasCognitiveField NameAndMeaning
 
 BhavanamayiPrajna
-    hasObject Meaning
+    hasCognitiveField Meaning
     AND independentOf VerbalFormulation
 ```
 
@@ -269,13 +279,13 @@ CintamayiPrajna
     → basisFor BhavanamayiPrajna
 ```
 
-The objection exposes underdetermination by object alone:
+The objection exposes underdetermination by field alone:
 
 ```text
-HasObject(cognition, Name)
+HasCognitiveField(cognition, Name)
     → candidate SrutamayiPrajna
 
-HasObject(cognition, Meaning)
+HasCognitiveField(cognition, Meaning)
     → candidate BhavanamayiPrajna
 
 AlternatesBetween(Name, Meaning)
@@ -300,7 +310,7 @@ Thus:
 ```text
 CognitionIdentity
     requires
-ObjectStructure + GeneticGround
+CognitiveFieldStructure + GeneticGround
 ```
 
 ## 9. Interpretive Note
@@ -319,11 +329,11 @@ releases and regains it; cultivation crosses without needing that support. The
 analogy concerns support, not the erasure of the preceding formation.
 
 **The Bhāṣya criticizes the elegant surface triad.** Name, both, and Meaning
-give a useful object progression, but the middle cognition threatens to
+give a useful field progression, but the middle cognition threatens to
 collapse. The causal definition restores it through its distinctive genesis in
 reasoning.
 
-**Bhāvanā requires samādhi.** Meaning as direct object does not by itself
+**Bhāvanā requires samādhi.** Meaning as direct cognitive field does not by itself
 constitute cultivation-born Prajñā. Its determining ground is samādhi. This is
 the textual basis for speaking of a required cultivation-ground without yet
 importing the later Organon term `saṃyama-bhūmi` into Vasubandhu's wording.
@@ -364,13 +374,13 @@ Class: CintamayiPrajna
     SubClassOf: Prajna
 Class: BhavanamayiPrajna
     SubClassOf: Prajna
-Class: CognitiveObject
+Class: CognitiveField
 Class: Name
-    SubClassOf: CognitiveObject
+    SubClassOf: CognitiveField
 Class: Meaning
-    SubClassOf: CognitiveObject
+    SubClassOf: CognitiveField
 Class: NameMeaningComplex
-    SubClassOf: CognitiveObject
+    SubClassOf: CognitiveField
 Class: GeneticGround
 Class: ReliableTeaching
     SubClassOf: GeneticGround
@@ -383,9 +393,9 @@ ObjectProperty: establishedIn
     Domain: Practitioner
     Range: DisciplinedConduct
 
-ObjectProperty: hasObject
+ObjectProperty: hasCognitiveField
     Domain: Prajna
-    Range: CognitiveObject
+    Range: CognitiveField
 
 ObjectProperty: bornFrom
     Domain: Prajna
@@ -399,9 +409,9 @@ ObjectProperty: preparesFor
     Domain: Prajna
     Range: PathOperation
 
-Axiom: SrutamayiPrajna SubClassOf hasObject some Name
-Axiom: CintamayiPrajna SubClassOf hasObject some NameMeaningComplex
-Axiom: BhavanamayiPrajna SubClassOf hasObject some Meaning
+Axiom: SrutamayiPrajna SubClassOf hasCognitiveField some Name
+Axiom: CintamayiPrajna SubClassOf hasCognitiveField some NameMeaningComplex
+Axiom: BhavanamayiPrajna SubClassOf hasCognitiveField some Meaning
 
 Axiom: SrutamayiPrajna SubClassOf bornFrom some ReliableTeaching
 Axiom: CintamayiPrajna SubClassOf bornFrom some ReasonedExamination
@@ -411,16 +421,16 @@ Assertion: CintamayiPrajna reliesUpon SrutamayiPrajna
 Assertion: BhavanamayiPrajna reliesUpon CintamayiPrajna
 Assertion: BhavanamayiPrajna independentOf VerbalFormulation
 
-Constraint: ClassificationByObjectAlone
+Constraint: ClassificationByFieldAlone
     insufficientFor DistinguishingAllThreePrajna
 
 View: ThreePrajnaPathGenesis
     Preserves: PractitionerQualification, PrajnaIdentity,
-               CognitiveObject, GeneticGround, DependenceRelation,
+               CognitiveField, GeneticGround, DependenceRelation,
                VerbalSupportStatus, SourceAttribution,
                SourceProvenance
 ```
 
-The seed keeps object-support and genetic ground as distinct dimensions. It
+The seed keeps cognitive field and genetic ground as distinct dimensions. It
 represents the essential Bhāṣya result: cultivational Prajñā is not merely
 about Meaning but is generated from samādhi.

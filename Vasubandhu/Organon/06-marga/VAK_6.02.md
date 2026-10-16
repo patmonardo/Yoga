@@ -18,14 +18,9 @@ VAK 6.02 names the four truths and states the principle governing their order.
 They are not placed in causal sequence. They are taught in the order in which
 they are directly realized.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-satyāni | uktāni | catvāri | duḥkham | samudayaḥ | tathā |
-nirodhaḥ | mārgaḥ | iti | eṣām | yathā-abhisamayam | kramaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `satyāni` | nominative plural neuter of `satya` | truths |
 | `uktāni` | nominative plural neuter past passive participle of `√vac` | have been stated |
@@ -39,6 +34,11 @@ nirodhaḥ | mārgaḥ | iti | eṣām | yathā-abhisamayam | kramaḥ
 | `eṣām` | genitive plural of `idam` | of these |
 | `yathā-abhisamayam` | adverbial compound | according to direct realization |
 | `kramaḥ` | nominative singular masculine | order, sequence |
+
+```text
+satyāni | uktāni | catvāri | duḥkham | samudayaḥ | tathā |
+nirodhaḥ | mārgaḥ | iti | eṣām | yathā-abhisamayam | kramaḥ
+```
 
 `Yathābhisamayam` determines the kind of order asserted. The Bhāṣya glosses
 `abhisamaya` with `abhisaṃbodha`, direct or complete awakening-knowing, and
@@ -89,14 +89,8 @@ its cause.
 ### Bhāṣya-informed study translation
 
 > Four truths have been taught: suffering, its origin, cessation, and the Path.
-> They are ordered according to the sequence of their direct realization: one
-> first examines the suffering in which one is situated, then seeks its origin,
-> then its cessation, and finally the Path to that cessation. This direct
-> realization is right knowing according to reality and oriented toward
-> nirvāṇa.
-
-The diagnostic sequence, the definition of `abhisamaya`, and its orientation
-toward nirvāṇa are supplied by the Bhāṣya rather than stated in the kārikā.
+> They are set out in the order of direct realization: suffering is examined
+> first, then its cause, then its cessation, and finally the Path to cessation.
 
 ## 6. Philosophical Translation
 
@@ -174,6 +168,12 @@ nirvāṇābhimukha
 Its uncontaminated status depends not on immediacy alone but on truth,
 orientation, and liberating direction together.
 
+**`Abhisaṃbodha` — full awakening-knowing**
+
+The Bhāṣya's explicit gloss on `abhisamaya`. It names right knowing of the
+truths according to reality and oriented toward nirvāṇa; the gloss must not
+be treated as a fifth truth or as a synonym for preparatory examination.
+
 **`Vyavacāraṇā-avasthā` — stage of examination**
 
 The preparatory discrimination of the truths. The Bhāṣya says examination
@@ -190,6 +190,13 @@ prepared trajectory.
 The truths do not become false for non-noble beings. Noble ones see their
 non-inverted determination as it is; others apprehend them through inversion.
 The title concerns adequacy of seeing, not a knower-relative truth.
+
+**`Phala-hetu-bhāva` — result-and-cause relation**
+
+The Bhāṣya determines appropriated aggregates as suffering when result and
+as origin when cause. This is a difference of designation, `nāmato`, rather
+than two distinct entities, `dravyataḥ`; cessation and Path differ in reality
+as well.
 
 ## 8. Logical Determination
 
@@ -285,6 +292,12 @@ and knowledge. It is the relational and transformative order in which the
 truths become Path-capacity. The textual controls are `yathābhisamayam`, the
 diagnostic sequence, and the Bhāṣya's definition of realization as right
 knowing according to reality and oriented toward nirvāṇa.
+
+The Logical Determination above records the source's first-order relations.
+A later higher-order account can ask how Relative Essence Reflection orders
+the examination of the four truths and how Absolute Essence Reflection
+determines their unity for the Yoga of the Agent. Those are further Organon
+questions, not additional assertions of this kārikā.
 
 ## 10. OWL++ Seed
 

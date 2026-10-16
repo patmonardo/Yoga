@@ -19,14 +19,13 @@ contaminated formations—agreeable, disagreeable, and the remainder—belong to
 the truth of suffering, without remainder but according to the mode applicable
 to each.
 
-## 3. Padaccheda and Lexical Analysis
+**Textual caution.** The running Bhāṣya witness prints `manāṣā` in the verse
+where the separate kārikā has `manāpā`; the study retains the separate
+kārikā's form and the Bhāṣya study preserves its witness reading.
 
-```text
-duḥkhāḥ | tri-duḥkhatā-yogāt | yathā-yogam | aśeṣataḥ |
-manāpāḥ | amanāpāḥ | ca | tad-anye | ca | eva | sa-āsravāḥ
-```
+## 3. Lexical Analysis
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `duḥkhāḥ` | nominative plural masculine | are suffering; belong to the truth of suffering |
 | `tri-duḥkhatā-yogāt` | ablative singular compound | because of connection with the three modes of suffering |
@@ -38,6 +37,11 @@ manāpāḥ | amanāpāḥ | ca | tad-anye | ca | eva | sa-āsravāḥ
 | `tad-anye` | nominative plural masculine | those other than these |
 | `ca eva` | connective plus emphatic particle | and precisely or indeed |
 | `sāsravāḥ` | nominative plural masculine | contaminated, accompanied by influx |
+
+```text
+duḥkhāḥ | tri-duḥkhatā-yogāt | yathā-yogam | aśeṣataḥ |
+manāpāḥ | amanāpāḥ | ca | tad-anye | ca | eva | sa-āsravāḥ
+```
 
 The understood substantive is supplied by the Bhāṣya as `saṃskārāḥ`,
 formations. `Yathāyogam` distributes the relevant modes without claiming that
@@ -91,6 +95,21 @@ pain-suffering, and formation-suffering. It then adds an essential refinement:
 `saṃskāra-duḥkhatā` is the universal depth-condition of contaminated
 formations, not only an exclusive property of the neutral remainder.
 
+**Feature Grammar direction.** The nominative plural masculine forms
+`manāpāḥ`, `amanāpāḥ`, `tadanye`, `sāsravāḥ`, and `duḥkhāḥ` share the
+understood head `saṃskārāḥ`. A future NLTK grammar can unify their agreement
+features while assigning `yathāyogam` a distributive scope and `aśeṣataḥ`
+an exhaustive scope:
+
+```text
+saṃskārāḥ [CASE=nom, NUM=pl, GEND=masc, INFLOW=with]
+    → duḥkhāḥ [CASE=nom, NUM=pl, GEND=masc]
+       [SCOPE=all, DISTRIBUTION=as-applicable]
+```
+
+This is a feature specification for later implementation, not an executable
+NLTK grammar or an extra claim made by the Sanskrit.
+
 ## 5. Translation
 
 ### Literal Translation
@@ -101,18 +120,10 @@ formations, not only an exclusive property of the neutral remainder.
 
 ### Bhāṣya-informed study translation
 
-> Every contaminated formation belongs to the truth of suffering through its
-> connection, as applicable, with the three modes of suffering. What is
-> disagreeable bears suffering as pain; what is agreeable bears suffering
-> through transformation; and the remaining formations disclose suffering
-> through conditioned formation. More deeply, formation-suffering pervades the
-> contaminated conditioned field as such. This classification does not deny
-> that pleasant feeling is genuinely pleasant by its own characteristic; it
-> sees that same pleasure under impermanence, transformation, and its capacity
-> to sustain attachment.
-
-The universal reach of formation-suffering and the preservation of pleasure's
-own characteristic are explicit determinations of the Bhāṣya.
+> All contaminated formations are suffering without exception, each according
+> to its connection with the three modes of suffering: the agreeable through
+> transformation, the disagreeable through pain, and the others through their
+> conditioned formation.
 
 ## 6. Philosophical Translation
 

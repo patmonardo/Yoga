@@ -22,14 +22,9 @@ representation from the bones of the feet until only half the skull remains.
 The transmitted `pādāsthna` is morphologically difficult. Its practical sense
 is secured by the Bhāṣya: progressive removal begins with the bones of the feet.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ā-samudra | asthi-vistāra-saṃkṣepāt | ādikarmikaḥ |
-pāda-asthna | ā-kapāla-ardha-tyāgāt | kṛta-jayaḥ | smṛtaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ā-samudra` | prepositional compound | as far as the ocean |
 | `asthi-vistāra-saṃkṣepāt` | ablative singular compound | through expansion and contraction of the skeletal representation |
@@ -38,6 +33,11 @@ pāda-asthna | ā-kapāla-ardha-tyāgāt | kṛta-jayaḥ | smṛtaḥ
 | `ā-kapāla-ardha-tyāgāt` | ablative singular compound | through relinquishing progressively up to half the skull |
 | `kṛta-jayaḥ` | nominative singular masculine compound | one who has achieved mastery |
 | `smṛtaḥ` | nominative singular masculine past passive participle of `√smṛ` | is considered or designated |
+
+```text
+ā-samudra | asthi-vistāra-saṃkṣepāt | ādikarmikaḥ |
+pāda-asthna | ā-kapāla-ardha-tyāgāt | kṛta-jayaḥ | smṛtaḥ
+```
 
 The paired ablatives specify the operations by which the two practitioner
 stages are known. The Bhāṣya uses the fuller expression `kṛtaparijaya` for the
@@ -79,7 +79,22 @@ kṛtajayaḥ smṛtaḥ
 ```
 
 The prose makes clear that only half the skull remains after the progressive
-subtraction; the counter-object has been brought under controlled removal.
+subtraction; the counter-representation has been brought under controlled removal.
+
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PRACTITIONER[STAGE=beginner, OPERATION=expand+contract,
+             SCOPE=own-body→ocean→own-body]
+  ← āsamudrāsthi-vistāra-saṃkṣepāt + ādikarmikaḥ
+PRACTITIONER[STAGE=mastered, OPERATION=progressive-relinquishment,
+             START=foot-bones, REMAINDER=half-skull]
+  ← pādāsthna + ā-kapālārdha-tyāgāt + kṛtajayaḥ
+```
+
+The ablatives mark the operations by which each stage is designated. The
+prose supplies the order of expansion and the half-skull remainder; the
+features sketch a future reflective model of those relations.
 
 ## 5. Translation
 
@@ -90,19 +105,19 @@ subtraction; the counter-object has been brought under controlled removal.
 > represented bones] beginning with those of the feet until half the skull
 > [remains], one is considered to have achieved mastery.
 
+### Literal translation note
+
 The supplied references to representation and the final remainder follow the
 Bhāṣya's explicit practice-description.
 
 ### Bhāṣya-informed study translation
 
-> The beginner first fixes attention upon a part of the body, imaginatively
-> removes its coverings until the complete skeleton appears, extends that
-> skeletal determination through other bodies and the surrounding world as far
-> as the ocean, and then contracts the field back to the practitioner's own
-> skeleton. Expansion increases determinate imaginative resolution; contraction
-> gathers citta. Having mastered these operations, the practitioner progressively
-> relinquishes the counter-representation itself, beginning with the bones of
-> the feet and continuing until only half the skull remains.
+> A beginner expands the contemplated skeleton across the world as far as the
+> ocean, then contracts it back to the skeleton of their own body. A
+> practitioner who has gained mastery progressively relinquishes the bones
+> from the feet upward, until only half the skull remains in attention.
+
+### Translation note
 
 The local starting point, the removal of coverings, the purposes of expansion
 and contraction, and the exact procedure of subtraction are supplied by the
@@ -138,7 +153,7 @@ contraction before proceeding to its systematic removal.
 **`Asthi` — bone or skeletal framework**
 
 The counter-representational material selected in 6.09 for all forms of bodily
-desire. Here it is not a static object but a field subjected to controlled
+desire. Here it is not a static image but a field subjected to controlled
 cognitive operations.
 
 **`Asthi-vistāra` — expansion of the skeletal representation**
@@ -151,7 +166,7 @@ The Bhāṣya assigns this operation the purpose of increasing `adhimokṣa`.
 
 The return from the ocean-wide skeletal field to the singular representation
 of one's own skeleton. Its stated purpose is `citta-saṃkṣepa`, gathering or
-contracting the mind.
+contracting consciousness.
 
 **`Adhimokṣa` — determinate imaginative resolution**
 
@@ -160,7 +175,7 @@ be held across an increasingly broad field. The operation is deliberate
 resolution, not a claim that the earth is literally perceived as filled with
 skeletons.
 
-**`Citta-saṃkṣepa` — gathering of citta**
+**`Citta-saṃkṣepa` — gathering of consciousness**
 
 The function of contraction. The representation is drawn back from universal
 extension into a stable concentrated field.
@@ -174,7 +189,7 @@ not merely by maintaining the complete skeleton more forcefully.
 **`Tyāga` — relinquishment**
 
 Removal of the represented bones in an ordered sequence. Because the
-counter-object itself is relinquished, `aśubha` is shown to be instrumental
+counter-representation itself is relinquished, `aśubha` is shown to be instrumental
 rather than an ultimate picture to which cognition must remain attached.
 
 **`Kapālārdha` — half the skull**
@@ -251,7 +266,8 @@ with skeletons is the governed scope of the counter-representation, not a claim
 about the world's literal appearance.
 
 **Contraction is not reversal through failure.** It performs another task:
-gathering citta. The practitioner must command both extension and concentration.
+gathering consciousness (`citta`). The practitioner must command both extension
+and concentration.
 
 **Mastery includes relinquishing the antidote.** The skeleton is a functional
 `pratipakṣa`, not a replacement dogma about what the body ultimately is. A
@@ -259,7 +275,7 @@ therapeutic representation that cannot be released would remain another
 dependency.
 
 **The practice remains preparatory.** This mastery concerns the construction
-and governance of an object-support. It does not erase 6.09's distinction
+and governance of a cognitive Condition. It does not erase 6.09's distinction
 between suppression and definitive abandonment.
 
 **Organon interpretation.** VAK 6.10 exhibits bhāvanāmayī Prajñā as governed
@@ -270,7 +286,7 @@ construct
     produce the counter-determination
 
 extend
-    apply it across the relevant object-field
+    apply it across the relevant cognitive field
 
 contract
     gather it into concentrated cognition

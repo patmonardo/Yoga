@@ -18,16 +18,11 @@ VAK 6.09 moves from the general preparation of the practitioner to diagnostic
 entry into cultivation. Cultivation of the unattractive addresses a character
 dominated by desire; recollection of inhalation and exhalation addresses one
 dominated by discursive thought. The skeletal representation supplies a common
-counter-object for all forms of bodily desire.
+counter-presentation for all forms of bodily desire.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tatra | avatāraḥ | aśubhayā | ca | ānāpāna-smṛtena | ca |
-adhi-rāga-vitarkāṇām | śaṃkalā | sarva-rāgiṇām
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tatra` | adverb | there; into that cultivation |
 | `avatāraḥ` | nominative singular masculine | entry or introduction |
@@ -38,10 +33,15 @@ adhi-rāga-vitarkāṇām | śaṃkalā | sarva-rāgiṇām
 | `śaṃkalā` | nominative singular feminine | skeletal framework or skeleton |
 | `sarva-rāgiṇām` | genitive plural masculine | for all those affected by desire |
 
+```text
+tatra | avatāraḥ | aśubhayā | ca | ānāpāna-smṛtena | ca |
+adhi-rāga-vitarkāṇām | śaṃkalā | sarva-rāgiṇām
+```
+
 The two instrumental forms state means of entry. The Bhāṣya distributes them
 diagnostically rather than cumulatively: `aśubha` for the desire-dominant and
 `ānāpānasmṛti` for the thought-dominant. The final genitive marks the skeleton
-as the recommended common object for every subtype of bodily desire.
+as the recommended common support for every subtype of bodily desire.
 
 ## 4. Grammar
 
@@ -86,9 +86,23 @@ sarvarāgiṇām
     for all those affected by desire
 ```
 
-The supplied object relation and recommendation come from the Bhāṣya. It
+The supplied `ālambana` relation and recommendation come from the Bhāṣya. It
 explains that the skeleton jointly removes the attractive supports upon which
 the differentiated forms of bodily desire depend.
+
+**Future Feature Grammar sketch (not executable):**
+
+```text
+ENTRY[PRACTICE=aśubha, CHARACTER=rāga-dominant]
+  ← aśubhayā + adhirāgavitarkāṇām[yathākramam, first]
+ENTRY[PRACTICE=ānāpānasmṛti, CHARACTER=vitarka-dominant]
+  ← ānāpānasmṛtena + adhirāgavitarkāṇām[yathākramam, second]
+SUPPORT[FORM=skeleton, RANGE=all bodily desire]
+  ← śaṃkalā + sarvarāgiṇām
+```
+
+The Bhāṣya's `yathākramam` governs the paired distribution. The labels are a
+future representation of that distribution, not an executable source grammar.
 
 ## 5. Translation
 
@@ -96,22 +110,22 @@ the differentiated forms of bodily desire depend.
 
 > Entry there is through the unattractive and through recollection of
 > inhalation and exhalation, for those dominated by desire and discursive
-> thought [respectively]. The skeleton is [the object] for all those affected
+> thought [respectively]. The skeleton is [the support] for all those affected
 > by desire.
 
-The respective distribution and the supplied object relation are fixed by the
+### Literal translation note
+
+The respective distribution and the supplied support relation are fixed by the
 Bhāṣya.
 
 ### Bhāṣya-informed study translation
 
-> Once the practitioner has become a suitable vessel, entry into cultivation
-> is selected according to the predominant obstruction. One whose character is
-> dominated by desire enters through cultivation of the unattractive; one
-> dominated by discursive thought enters through recollection of inhalation and
-> exhalation. The several forms of bodily desire receive differentiated
-> unattractive counter-objects, while the skeletal representation serves as a
-> common object for them all. This practice suppresses active desire but does
-> not yet accomplish its definitive abandonment.
+> Entry into cultivation is through contemplation of the unattractive for
+> those dominated by desire, and through recollection of breathing for those
+> dominated by discursive thought. For every kind of bodily desire, the
+> skeleton serves as a common contemplative support.
+
+### Translation note
 
 Suitability of the practitioner, the diagnostic types, the differentiated
 forms of desire, and the suppression/abandonment boundary are supplied by the
@@ -130,7 +144,7 @@ The basic architecture is:
 
 ```text
 diagnosed predominance
-    → corresponding object-support
+    → corresponding cognitive Condition
     → typed counter-operation
     → suppression
     → preparation for deeper Path-capacity
@@ -147,27 +161,27 @@ question in terms of one who has become a suitable vessel (`pātrībhūta`).
 **`Aśubha-bhāvanā` — cultivation of the unattractive**
 
 The entry-practice for the desire-dominant practitioner. It counters the
-constructed attractiveness of the body by presenting an object-support from
+constructed attractiveness of the body by presenting a cognitive Condition from
 which the relevant attractive feature is absent.
 
 **`Ānāpānasmṛti` — recollection of inhalation and exhalation**
 
 The entry-practice for the practitioner dominated by discursive thought. One
-reported explanation emphasizes its non-variegated object-support: cognition
+reported explanation emphasizes its non-variegated cognitive Condition: cognition
 is constrained to the simple recurring process of breathing.
 
 **`Rāgacarita` — desire-dominant character**
 
 A practitioner-type defined by the predominance of desire. This diagnosis
 selects `aśubha`, but the Bhāṣya further differentiates desire before assigning
-particular counter-objects.
+particular counter-presentations.
 
 **`Vitarkacarita` — discursive-thought-dominant character**
 
 A practitioner-type defined by excessive `vitarka`. Breath-recollection is
 selected for its capacity to reduce proliferating cognitive movement.
 
-**`Avicitrālambana` — non-variegated object-support**
+**`Avicitrālambana` — non-variegated cognitive Condition**
 
 One attributed explanation of why breath-recollection counteracts discursive
 thought. Multiplicity supplies proliferation with material; a simple repeated
@@ -196,7 +210,7 @@ The inert corpse counters this practical presentation.
 
 **`Śaṃkalā` — skeletal framework**
 
-The common counter-object for all forms of desire because the attractive
+The common counter-presentation for all forms of bodily desire because the attractive
 features supporting color, configuration, touch, and animated presentation are
 absent together. It is not merely one more special image but a general
 analytical reduction of the attractive body.
@@ -235,7 +249,7 @@ The two intervention types are distinct:
 
 ```text
 AsubhaCultivation
-    transforms RepresentedObject
+    transforms RepresentedBody
     counteracts Desire
 
 BreathRecollection
@@ -243,7 +257,7 @@ BreathRecollection
     counteracts DiscursiveProliferation
 ```
 
-The desire subtypes require differentiated object-supports:
+The desire subtypes require differentiated cognitive Conditions:
 
 ```text
 ColorDesire
@@ -263,7 +277,7 @@ LacksTogether(
     AttractiveTouch,
     AnimatedPresentation
 )
-    → GeneralCounterObjectFor(SkeletonRepresentation, BodilyDesire)
+    → GeneralCounterSupportFor(SkeletonRepresentation, BodilyDesire)
 ```
 
 The efficacy boundary is:
@@ -288,16 +302,16 @@ CounteractiveEfficacy
 identical first practice. The counterforce must correspond to the obstruction
 actually governing the practitioner.
 
-**Affliction can dominate object or process.** Desire depends upon how the body
+**Affliction can dominate representation or process.** Desire depends upon how the body
 is represented; discursive thought depends upon how cognition proliferates.
 The two practices intervene at these different functional sites.
 
 **Aśubha is a family of counter-representations.** The four types of desire
 prevent “contemplation of the unattractive” from becoming an undifferentiated
-generic technique. Its object-support is selected according to the feature
+generic technique. Its cognitive Condition is selected according to the feature
 through which attraction operates.
 
-**The skeleton is a common analytical object.** Its universality lies in the
+**The skeleton is a common analytical support.** Its universality lies in the
 joint absence of the several attractive supports. It dismantles the synthetic
 presentation upon which bodily desire relies.
 
@@ -314,10 +328,10 @@ Feature
     predominant afflictive relation
 
 diagnosis
-    determine whether distortion governs object or process
+    determine whether distortion governs representation or process
 
 Plan
-    select the corresponding counter-object and practice
+    select the corresponding counter-presentation and practice
 
 effect
     record suppression without falsely asserting abandonment
@@ -383,7 +397,7 @@ ObjectProperty: counteracts
     Domain: PathEntryPractice
     Range: Affliction
 
-ObjectProperty: hasObjectSupport
+ObjectProperty: hasCognitiveCondition
     Domain: PathEntryPractice
     Range: CognitiveSupport
 
@@ -398,11 +412,11 @@ ObjectProperty: operatesOn
 Assertion: DesireDominantCharacter selectsPractice AsubhaCultivation
 Assertion: DiscursiveThoughtDominantCharacter selectsPractice BreathRecollection
 Assertion: AsubhaCultivation counteracts Desire
-Assertion: AsubhaCultivation operatesOn RepresentedObject
+Assertion: AsubhaCultivation operatesOn RepresentedBody
 Assertion: BreathRecollection counteracts DiscursiveProliferation
 Assertion: BreathRecollection operatesOn CognitiveProcess
-Assertion: AsubhaCultivation hasObjectSupport SkeletonRepresentation
-Assertion: BreathRecollection hasObjectSupport BreathingProcess
+Assertion: AsubhaCultivation hasCognitiveCondition SkeletonRepresentation
+Assertion: BreathRecollection hasCognitiveCondition BreathingProcess
 Assertion: AsubhaCultivation producesEffect Suppression
 
 Constraint: AsubhaCultivation
@@ -411,7 +425,7 @@ Constraint: AsubhaCultivation
 View: DiagnosticPathEntry
     Preserves: PractitionerIdentity, PredominantCharacter,
                AfflictionSubtype, SelectedPractice,
-               ObjectSupport, InterventionSite,
+               CognitiveCondition, InterventionSite,
                EffectType, EffectScope,
                SourceAttribution, SourceProvenance
 ```

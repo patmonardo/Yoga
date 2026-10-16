@@ -9,12 +9,11 @@ Samāpatti.
 
 ## Pre-Techne
 
-[Pre-Techne for the Organon Kośa (Yoga Techne)](../Essays/technical-expressions-vol-i-ii.md)
-sets the controlled terminology and project-level distinctions for Volumes
-I–II. It frames the Metaphysical Sciences of Form, Essence, and Principle
-around the Essence:Form Engine; it is an entry into that architecture, not a
-bare glossary. It precedes, and remains distinct from, any occurrence
-concordance.
+[Volume I technical expressions](../Essays/technical-expressions-vol-i.md)
+governs Dhātu–Indriya; [Volume II technical expressions](../Essays/technical-expressions-vol-ii.md)
+governs Loka–Karma. Each sets source-bound translation controls beside its
+Organon determinations. The [combined Pre-Techne](../Essays/technical-expressions-vol-i-ii.md)
+retains the extended architectural argument behind the two references.
 
 [Volume III technical expressions](../Essays/technical-expressions-vol-iii.md)
 begins the controlled vocabulary for Anuśaya–Mārga and Jñāna–Samāpatti.

@@ -1,91 +1,313 @@
 # VAK_6.03 Bhāṣya — Dharma Talk: Three Modes of Suffering and the Reality of Pleasure
 
-This is a major Bhāṣya, not a gloss. The verse is a door. The talk runs Pradhan
-328|23–333|02 in [`kosabhasya.txt`](../../../Sources/kosabhasya.txt).
-
 ## 1. Kārikā Anchor
 
-> duḥkhās triduḥkhatāyogād yathāyogam aśeṣataḥ |
-> manāpā amanāpāś ca tadanye caiva sāsravāḥ || 6.03 ||
+> duḥkhās tri-duḥkhatā-yogād yathāyogam aśeṣataḥ |
+> manāpā amanāpāś ca tadanye caiva sāsravāḥ || 6.3 ||
 
-> They are suffering by connection with the three modes of suffering, as
-> applicable, without remainder: the agreeable, the disagreeable, and the other
-> contaminated [formations].
+> All contaminated formations are suffering without exception, each according
+> to its connection with the three modes of suffering: the agreeable through
+> transformation, the disagreeable through pain, and the others through their
+> conditioned formation.
 
-Running witness prints `manāṣā` for `manāpā` at 328|26 and again later. Kept as
-a source fault, not adopted.
+The Bhāṣya supplies the three specific assignments. Its subsequent argument
+explains why formation-suffering reaches the whole contaminated field and why
+pleasure remains genuinely pleasant in its own characteristic.
 
-Kārikā study: [`VAK_6.03.md`](./VAK_6.03.md). First-pass talk:
-[`../../06-marga/VAK_6.03_bhasya.md`](../../06-marga/VAK_6.03_bhasya.md).
+## 2. Continuous Sanskrit
 
-Next door (two realities): 6.04. After 333|02 the running text turns to
-samudaya; that is not this talk.
+```iast
+yathā vedanaikadeśo duḥkhasvabhāvaḥ /
 
-## 2. Continuous Sanskrit (talk unit)
+kathaṃ sarve sāsravāḥ saṃskārā duḥkhamityucyante /
 
-Read as one argument. Word-division supplied. Running faults noted, not hidden.
+     duḥkhāstriduḥkhatāyogādyathāyogamaśeṣataḥ /
+     manāṣā amanāpāśca tadanye caiva sāsravāḥ // VAkK_6.3 //
 
-> yathā vedanaikadeśo duḥkhasvabhāvaḥ / kathaṃ sarve sāsravāḥ saṃskārā duḥkham ity ucyante /
->
-> duḥkhās triduḥkhatāyogād yathāyogam aśeṣataḥ /
-> manāpā amanāpāś ca tadanye caiva sāsravāḥ // 6.03 //
->
-> tisro hi duḥkhatā: duḥkhaduḥkhatā saṃskāraduḥkhatā vipariṇāmaduḥkhatā ca /
-> tābhir yathāyogam aśeṣataḥ sarve sāsravāḥ saṃskārā duḥkhāḥ /
-> tatra manāpā vipariṇāmaduḥkhatayā / amanāpā duḥkhaduḥkhatayā / tebhyo 'nye saṃskāraduḥkhatayā /
->
-> ke punar manāpāḥ ke 'manāpāḥ ke nobhayathā /
-> tisro vedanā yathākramaṃ; tadvaśena sukhavedanīyādayo 'pi saṃskārā manāpādisaṃjñāṃ labhante /
-> sukhāyā hi vedanāyā vipariṇāmena duḥkhatā /
-> sūtra uktaṃ: sukhā vedanā utpādasukhā sthitisukhā vipariṇāmaduḥkhā /
-> duḥkhāyā duḥkhasvabhāvenaiva duḥkhatā /
-> aduḥkhāsukhāyāḥ saṃskāreṇaiva duḥkhatā /
-> pratyayābhisaṃskaraṇād yad anityaṃ tad duḥkham /
->
-> asādhāraṇatvāt manāpāmanāpānāṃ vipariṇāmaduḥkhaduḥkhate ukte /
-> sarve tu saṃskārāḥ saṃskāraduḥkhatayā duḥkhāḥ /
-> tāṃs tv āryā eva paśyanti /
->
-> ūrṇāpakṣma yathaiva hi karatalasaṃsthaṃ na vedyate pumbhiḥ /
-> akṣigataṃ tu … janayaty aratiṃ ca pīḍāṃ ca /
-> karatalasadṛśo bālo na vetti saṃskāraduḥkhatāpakṣma /
-> akṣisadṛśas tu vidvāṃs tenaivodvijyate gāḍham /
->
-> na hi bālānām āvīcikeṣv api skandheṣu tathā duḥkhabuddhiḥ pravartate yathāryāṇāṃ bhavāgrikeṣv api /
->
-> evaṃ tarhi mārgasyāpi saṃskāraduḥkhatāprasaṅgaḥ / saṃskṛtatvāt /
-> pratikūlaṃ hi duḥkham iti lakṣaṇān na mārgo duḥkham /
-> na hi tasyotpāda āryāṇāṃ pratikūlaḥ sarvaduḥkhakṣayāvāhanāt /
->
-> sahaiva tu sukhena sarvaṃ bhavam āryā duḥkhataḥ paśyanti / saṃskāraduḥkhataikarasatvāt /
-> katham idānīṃ sukhasvabhāvāṃ vedanāṃ duḥkhataḥ paśyanti /
-> anityatayā pratikūlatvāt /
-> udayavyayadharmitvād anityaṃ paśyanti / pratikūlatvād duḥkham /
-> anityaṃ tu dṛśyamānaṃ pratikūlaṃ bhavatīty anityākāro duḥkhākāram ākarṣati /
->
-> nāsty eva sukhā vedanety ekīyāḥ / duḥkhaiva tu sarvā /
-> asty evety ābhidhārmikāḥ /
-> kim idaṃ duḥkhaṃ nāma / upaghātakaṃ cet / anugrāhakaṃ sukham iti siddham /
-> anabhipretaṃ cet / abhipretaṃ sukham iti siddham /
-> yā hi vedanā svena lakṣaṇenābhipretā nāsau tenaiva jātv anabhipretā bhavati /
-> tathā hy enām ākārāntareṇa vidūṣayanty āryāḥ … na tu khalu svalakṣaṇākāreṇa /
-> tasmād asty eva svalakṣaṇataḥ sukhā vedanā /
->
-> yat kiñcid veditam idam atra duḥkhasya — ābhiprāyikam etad vākyam /
-> sukhatvaṃ ca svabhāvato manāpatvād duḥkhatvaṃ ca paryāyato vipariṇāmānityadharmatvāt /
-> sā tu sukhato dṛśyamānā bandhāya kalpate tadāsvādanāt /
-> duḥkhato dṛśyamānā mokṣāya kalpate tadvairāgyāt /
-> yathā dṛśyamānā mokṣāya kalpate tathaināṃ draṣṭum ājñāpayanti buddhāḥ /
->
-> tasmād asty eva sukhā vedaneti siddham /
-> triduḥkhatāyogād vā sarvaṃ sāsravaṃ duḥkham iti /
+tisro hi duḥkhatā duḥkhaduḥkhatā saṃskāraduḥkhatā vipariṇāmaduḥkhatā ca /
 
-**Witness faults (not adopted).** `manāṣā`; `ābhivārmikāḥ` at 330|22 for
-`ābhidhārmikāḥ`; several broken sūtra-citations. This is not a critical edition.
+tābhiryathāyogamaśeṣataḥ sarva sāsravāḥ saṃskārā duḥkhāḥ /
 
-**Voices.** Vasubandhu; objector (path-prasaṅga; then sukha-apavāda); Abhidharmikas
-(`asty evety ābhidhārmikāḥ`); cited sūtra and gāthā; apare on a narrower
-definition of duḥkhatā.
+tatra manāṣā vipariṇāmaduḥkhatayā /
+
+amanāṣā duḥkhaduḥkhatayā /
+tebhyo 'nye saṃskāraduḥkhatayā /
+
+ke punarmanāpāḥ ke 'manāṣāḥ ke knobhayathā /
+
+tisro vedanā yathākramaṃ tadvaśena sukhavedanīyādayo 'pi saṃskārā manāpādisaṃjñāṃ labhante /
+
+sukhāyā hi vedanāyā vipariṇāmena duḥkhatā /
+
+sūtra uktaṃ "sukhā vedanā utpādamukhā sthitisukhā vipariṇāmaduḥkh"ti /
+
+duḥkhāyāḥ duḥkhasvabhāvenaiva duḥkhatā /
+
+"duḥkhā vedanā utpādaduḥkhā sthitiduḥkhā" iti sūtre /
+
+aduḥkhāsukhāvedanāyāḥ saṃskāreṇaiva duḥkhatā /
+
+"pratyayābhisaṃskaraṇādyadanityaṃ tadduḥkhami"ti /
+
+vedanāvattadvedanīyā api saṃskārā ucyante /
+
+duḥkhameva duḥkhatā duḥkhaduḥkhatā /
+evaṃ yāvat saṃskārā eva duḥkhatetyapare /
+
+asādhāraṇatvāt manāṣā 'manāpānāṃ vipariṇāmaduḥkhaduḥkhate ukte /
+
+sarve tusaṃskārāḥ saṃskāraduḥkhatayā duḥkhāḥ /
+
+tāṃstvāryā eva paśyanti //
+āha cātra /
+
+     "ūrṇāpakṣma yathaiva hi karatalasaṃsthaṃ na vedyate pumbhiḥ
+     akṣigataṃ tu tathaiva hi janayatyaratiṃ ca pīḍaṃ ca /
+     karatalasadṛśo bālo na vetti saṃskāraduḥkhatāpakṣma
+     akṣisadṛśastu vidvāṃstenaivodvijyate gāḍhami"ti //
+
+na hi bālānāmāvīcikeṣvapi skandheṣu tathā duḥkhabuddhiḥ pravartate yathāryāṇāṃ bhāvāgrikeṣvapīti /
+
+evaṃ tarhi mārgasyāpi saṃskāraduḥkhatāprasaṅgaḥ /
+
+saṃskṛtatvāt /
+pratikūlaṃ hi duḥkhamiti lakṣaṇānna mārgo duḥkham /
+
+na hi tasyotpāda āryāṇāṃ pratikūlaḥ sarvaduḥkhakṣayāvāhanāt /
+
+yadāpi te nirvāṇaṃ śāntataḥ paśyanti tadāpi yadeva duḥkhato dṛṣṭaṃ tasyaiva nirodhaṃ śāntataḥ paśyantina mārgasya /
+
+yadāpi duḥkhamapyatrāsti tasmāt duḥkhamevāryasatyamucyate /
+
+sukhasyālpatvāt mūdgādibhāve 'pi māṣarāśyapadeśavadityeke /
+
+ko hi vidvān pariṣekasukhāṇukena gaṇḍasukhamiti vyavasyet /
+
+āha khalvapi
+
+     "duḥkhasya ca hetutvāt duḥkhaiścānalpakaiḥ samuditatvāt /
+     duḥkhe ca sati tadiṣṭerduḥkhaṃ sukhamiti vyavasyanti" iti //
+
+sahaiva tu sukhena sarvaṃ bhavamāryā duḥkhataḥ paśyanti /
+saṃskāraduḥkhataikarasatvāt /
+
+ato duḥkhamevāryāsatyaṃ vyavasthāpyate na sukham /
+
+kathamidānīṃ sukhasvabhāvāṃ vedanāṃ duḥkhataḥ paśyanti /
+
+anityatayā pratikūlatvāt /
+yathā rūpasaṃjñādīnyapi duḥkhataḥ paśyanti /
+
+na catānyevaṃ duḥkhāni yathā duḥkhavedaneti /
+yastu manyate duḥkhahetutvāditi /
+
+tasyāsau samudayākāraḥ syānna duḥkhakāraḥ /
+
+āryāṇāṃ carūpārupyopapattau kathaṃ duḥkhasaṃjñā pravarteta /
+
+na hi punasteṣāṃ duḥkhavedanāhetuḥ skandhā bhavanti /
+
+saṃskāraduḥkhatā ca sūtre kimarthaṃ pṛthaguktā bhavet /
+
+yadi tarhyanityatvāt duḥkhataḥpaśyanti /
+
+anityaduḥkhākārayoḥ kaḥ prativiśeṣaḥ /
+
+udayavyayadharmitvādanityaṃ paśyanti /
+
+pratikūlatvāt duḥkham /
+
+anityaṃ tu dṛśyamānaṃ pratikūlaṃ bhavatītyanityākāro duḥkhākāramākarṣati /
+
+nāstyeva sukha vedanetyekīyā duḥkhaiva tu sarvā /
+
+kathamidaṃ gamyate /
+sūtrādyuktitaśca /
+kathaṃ tāvatsūtrāt /
+
+uktaṃ hi bhagavatā "yatkiñcidveditamidamatra duḥkhasye"ti /
+
+"duḥkhā vedanā duḥkhato draṣṭavye"ti /
+
+"duḥkhe sukhamiti saṃjñāviparyāsa" iti /
+evaṃ tāvatsūtrāt /
+kathaṃ yuktitaḥ /
+
+sukhahetvavyavasthānāt /
+
+ya eva hi kecitpānabhojanaśītoṣṇādaya iṣyante sukhahetavasta evātyupayuktā akālopayuktāśca punarduḥkhahetavaḥ saṃpadyante /
+
+na ca yuktā sukhahetubṛddhacyā samena vā 'nyasminkāle duḥkhotpattirityādita eva te duḥkhahetavo na sukhasya /
+
+ante tu tadduḥkhaṃ vṛddhimāpannaṃ vyaktimāpadyata iti /
+
+evamīryāpathavikalpe 'pi vaktavyam /
+
+duḥkhapratikāre ca sukhabuddherduḥkhavikalpe ca /
+
+na hi tāvat sukhamiti vedyate kiñcidyāvanna duḥkhāntareṇopadruto bhavati kṣutpipāsāśītoṣṇaśramakāmarāgaprabhaveṇa /
+
+tasmāt pratīkāra evāviduṣāṃ sukhabuddhirnasukhe duḥkhavikalpe ca vālaḥ sukhabuddhimutpādaynti yathāṃśādaṃśaṃ bhāraṃ saṃcārayantaḥ /
+
+tasmānnāstyeva sukhamiti /
+astyevetyābhivārmikāḥ /
+eṣa eva canyāyaḥ /
+
+kathaṃ kṛtvā /
+
+idaṃ hi tāvadayaṃ praṣṭavyaḥ sukhāpavādī /
+kimidaṃ duḥkhaṃ nāma /
+
+yadvādhanātmakaṃ cet /
+
+kathamiti vaktavyam /
+upaghātakaṃ cet /
+anugrāhakaṃ sukhamiti siddham /
+
+anabhipretaṃ cet /
+
+abhipretaṃ sukhamiti siddham /
+
+tadeva hyabhipretaṃ punaranabhipretaṃ bhavatyāryāṇāṃ naivālpakāle /
+
+tasmādaniṣpanamabhipretatvaṃ cet /
+na /
+anyathā 'nabhipretatvāt /
+
+yā hi vedanā svena lakṣaṇenābhipretā nāsau pouonastenaiva jātvanabhipretā bhavati /
+
+tathā hyenāmākārāntareṇa vidūṣayantyāryāḥ pramādapadaṃ caināṃ paśyanti mahābhisaṃskārasādhyāṃ ca vipariṇāminīṃ cānityāṃ cayenānabhipretā bhavati /
+
+na tu khalu svalakṣaṇākāreṇa /
+
+yadi cāsau svenātmanānabhipretā bhavennaiva tasyāṃ kasyacidrāgo bhavedyato vairāgyārthaṃ prakārāntareṇāpi doṣavatīṃ paśyeyuḥ /
+
+tasmādastyeva svalakṣaṇataḥ sukha vedanā //
+
+yattu bhagavatoktaṃ "yatkiñcidveditamidamatra duḥkhasye"ti tadbhagavataiva nītārthaṃ "saṃskārānityatāmānanda mayā saṃghāya bhāṣitaṃ saṃskāraviopariṇāmatāṃ ca yatkiñcidveditamidamatra duḥkhasye"ti /
+
+ato na duḥkha-dukhatāṃ saṃdhāyaitaduktamiti siddhaṃ bhavati /
+
+yadica svabhāvata eva sarvaṃ veditavyaṃ duḥkhamabhaviṣyatkimarthamāryānanda evaṃ bhagavantamaprakṣyat /
+
+tisra ime vedanā uktā bhagavatā sukhā duḥkhā 'duḥkhāsukhā ca /
+
+uktaṃ cedaṃ bhagavatā "yatkiñcidveditamidamatra duḥkhasye"ti /
+
+kiṃ nu saṃdhāya bhagavatā bhāṣitam yatkiñcidveditamidamatra duḥkhasyeti /
+
+evaṃ hi so 'prakṣyat kiṃ nu saṃdhāya bhāṣitaṃ tisro vedanā iti /
+
+bhagavānaṣyeva vyākariṣyat /
+
+idaṃ mayā saṃdhāya bhāṣitaṃ tisro vedanā iti /
+
+na tvevamāha /
+tasmātsantyeva svabhāvatastisro vedanāḥ /
+
+idaṃ tu saṃdhāya mayā bhāṣitaṃ yatkimcidveditamidamatra duḥkhasyetyābhīprāyikametadvākyaṃ darśayati /
+
+yadaṣyuktaṃ "sukhā vedanā duḥkheti draṣṭavye"ti /
+ubhayaṃ tasyāmasti /
+
+sukhatvaṃ ca svabhāvatomanāpatvād duḥkhatvaṃ ca paryāyato vipariṇāmānityadharmatvāt /
+
+sā tu sukhato dṛśyamānā bandhāya kalpate tadāsvādanāt /
+
+duḥkhato dṛśyamānā mokṣāya kalpate /
+
+tadvairāgyāditi /
+
+yathā dṛśyamānā mokṣāya kalpate tathaināṃ draṣṭumājñāpayanti buddhāḥ /
+
+kathamidaṃ gamyate svabhāvataḥ sā sukheti /
+ya dāha
+
+     "saṃskārānityatāṃ jñātvā atho vipariṇāmatām /
+     vedanā duḥkhataḥ proktā saṃbuddhena prajānaneti" //
+
+yadapi coktaṃ "duḥkhe sukhamiti saṃjñāviparyāsa" iti /
+ābhiprāyika eṣa nirdeśaḥ /
+
+lokasya hi sukhasaṃjñā vedanāyāṃ kāmaguṇeṣūpapattau ca /
+
+tatra sūkhaṃ vedanāṃ paryāyeṇa duḥkhaṃ satīmekāntasukhāṃ paśyato viparyāsaḥ /
+
+evamupapattim /
+
+tasmānnātaḥ sukhavedanā 'bhāvasiddhiḥ /
+
+yadi tu svabhāvata eva sarvaṃ veditaṃ duḥkhamabhaviṣyat tisro vedanā iti vacane koguṇo 'bhaviṣyat /
+
+lokānuvṛttyeti cet na /
+
+sarvaveditaduḥkhatvasya saṃskāravipariṇāmānityatāṃ saṃdhāya bhāṣitavacanāt yathābhūtavacanācca /
+
+"yacca sukhendriyaṃ yacca saumanasyendriyaṃ sukhaiṣā vedanā draṣṭavye" ti vistareṇoktvā "yenemāni pañcendriyāṇyevaṃ yathābhūtaṃ samyak prajñayā dṛṣṭāni trīṇi cāsya saṃyojanāni prahīṇāni bhavantī" tyevamādi /
+
+loko 'pi ca kathaṃ duḥkhāṃ vedanāṃ trividhāṃ vyavasyet /
+
+mṛdvadhimātramadhyāsu yathākramaṃ sukhādibuddhiriti cet /
+na /
+
+sukhasyāpi trividhatvāt mṛdvādiṣu duḥkheṣvadhimātrā disukhabuddhiḥ syāt /
+
+yadā ca gandharasaspraṣṭavyaviśeṣajaṃ sukhaṃ vedayate tadā katamat duḥkhaṃ mṛdubhūtaṃ yatrāsya sukhabuddhirbhavati /
+
+anutpannavinaṣṭe catasminmṛduni duḥkhe sutarāṃ sukabuddhiḥ syāt /
+
+aśeṣaduḥkhāpagamāt /
+evaṃ kāmasukhasaṃmukhībhāve 'pi vaktavyam /
+
+kathaṃ ca nāmedaṃ yojyate yanmṛdunivedite suvyaktastīvro 'nubhavo gṛhyate madhye punaravyakta iti /
+
+triṣu ca dhyāneṣu sukhavacanāt mṛdu duḥkhaṃ syāt /
+
+ūrdhvamaduḥkhasukhavacanānmadhyaṃ duḥkhamiti na yujyate mṛdvādiṣu duḥkheṣu duḥkheṣu sukhādivedanāvyavasthānam /
+
+uktaṃ ca bhagavatā "rūpaṃ cenmahānāmannekāntaduḥkhamabhaviṣyanna sukhaṃ na sukhānugatami"tyevamādi /
+
+tasmādapyasti kiñcitsukham /
+
+evaṃ tāvanna sūtrātsukhavedanā 'bhāvaḥ sidhyati /
+
+yatpunaḥ sukhahetvavyavasthānādityuktam /
+hetvaparijñānādidamucyate /
+
+āśrayaviśeṣāpekṣo hi viṣayaḥ sukhaheturvā bhavati duḥkhaheturvā /
+na kevalo viṣayaḥ /
+
+sa yāṃ kāmavasthāṃ prāpya sukhaheturbhavati na tāṃ punaḥ prāpya kadācinna bhavatīti vyavasthita eva sukhahetuḥ /
+
+tadyathā sa evāgniḥ pākyabhūtaviśeṣāpekṣaḥ svādupākaheturbhavati sa evāsvādapākahetuḥ na tu yāṃ pākyabhūtāvasthāṃ prāpya svadupākahetustāṃ punaḥ prāpya na heturityeṣa dṛṣṭāntaḥ /
+
+dhyāneṣu ca kathaṃ na vyavasthitaḥ sukhahetuḥ /
+
+yattu punaḥ duḥkhapratikāre sukhabuddhirityuktaṃ tatra vihitaḥ pratīkāraḥ /
+
+yadā gandhādiviśeṣajaṃ sukhaṃ vedayate tadā kasya pratīkāreṣu sukhabuddhirbhavatyanutpannavinaṣṭe ca tasmin duḥkhe sutarāṃ sukhabuddhiḥ syāt /
+
+dhyānaje sukhe kaḥ kasya pratīkāra ityevamādi /
+
+bhāvasaṃcāre 'pi cāvasthāntarajaṃ sukhamevotpadyate /
+
+yāvadasau tādṛśī kāyāvasthā 'ntarghīyate /
+
+anyathā hi paścādbhūyasī sukhabuddhiḥ syāt /
+
+evaṃ śrāntasyeryāpathavikalpeṣu veditavyam /
+
+     "ante kuto duḥkhabuddhirārambho yadi nādita" iti
+
+cet /
+kāyapariṇāmaviśeṣānmadyādīnāmante mādhuryaśuktatāvat /
+
+tasmādastyeva sukhā vedaneti siddham /
+
+triduḥkhatāyogādvā sarvaṃ sāsravaṃ duḥkhamiti /
+```
+
+This is the complete running unit at [328|23–333|02] in `Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line breaks are editorial. The running `manāṣā`, `ābhivārmikāḥ`, and damaged citations are retained, not silently corrected. The next question at [333|02–333|03] begins the origin-truth discussion.
 
 ## 3. Continuous Conventional Translation
 
@@ -119,6 +341,12 @@ definition of duḥkhatā.
 > Then the path too should be formation-suffering, because it is conditioned?
 > No. Suffering is what is *adverse*. The arising of the path is not adverse to
 > the noble ones: it brings about the exhaustion of all suffering.
+> When they see nirvāṇa as peace, they see the cessation of what they had seen
+> as suffering, rather than the cessation of the Path. Some explain the name
+> “truth of suffering” by saying that the pleasure present in existence is
+> slight beside its pain. The commentary tests that explanation with an image
+> of a small comfort associated with a painful swelling and returns to the
+> structural account of formation-suffering.
 >
 > The noble ones see all existence, together with its pleasures, as suffering —
 > one flavor of formation-suffering. How then do they see a feeling whose own
@@ -126,12 +354,24 @@ definition of duḥkhatā.
 > see the impermanent as what arises and passes. They see suffering as what is
 > adverse. What is seen as impermanent *becomes* adverse: the aspect of
 > impermanence draws forth the aspect of suffering.
+> Yet suffering is not merely another name for the cause of later pain: that
+> would describe an aspect of origin, not the aspect of suffering. The nobles
+> can see suffering even in form and formless rebirth, where the aggregates
+> are not causes of painful feeling for them. Thus the separately named
+> formation-suffering retains its work. Impermanence means arising and
+> passing; suffering means adversity. Seeing the former draws forth the
+> latter without making their aspects identical.
 >
 > Some say: there is no pleasant feeling at all; all feeling is only pain.
 > Scripture and reasoning are offered: every felt thing is said to be of
 > suffering; “pleasant” is an inverted designation; supposed causes of pleasure
 > become causes of pain when overused or mistimed; what is called pleasure is
 > only relief from another pain, or a shift of burden.
+> The deniers argue that food, drink, heat, and cold, thought to cause
+> pleasure, cause pain when excessive or ill-timed; increasing a true cause
+> of pleasure should not produce pain. They take apparent pleasure to be
+> relief from hunger, thirst, fatigue, or another discomfort, comparing it
+> with shifting a burden from one shoulder to the other.
 >
 > The Abhidharmikas say: it exists. Ask the denier what pain *is*. If pain is
 > what damages, then what benefits is pleasure. If pain is what is unwanted,
@@ -140,6 +380,12 @@ definition of duḥkhatā.
 > *another* aspect — a basis of heedlessness, hard-won, transformable,
 > impermanent — not under the aspect of its own characteristic. Therefore
 > pleasant feeling exists as pleasant by own-characteristic.
+> If pleasant feeling were unwanted in its own characteristic, attachment to
+> it would not arise and there would be no need to regard it under another
+> aspect for the sake of dispassion. The commentary also appeals to the
+> teaching of three feelings and to the distinction between the Buddha's
+> intended sense in saying that all feeling is of suffering and his direct
+> acknowledgment of pleasant feeling.
 >
 > “Whatever is felt is here of suffering” is a statement with purport, not a
 > wiping-out of the three feelings the Blessed One also taught. Pleasantness is
@@ -147,11 +393,19 @@ definition of duḥkhatā.
 > because of transformation and impermanence. Seen as pleasure and relished, it
 > conduces to bondage. Seen as suffering, it conduces to release, by dispassion.
 > The Buddhas command that it be seen in the way that conduces to release.
+> Treating pleasure as suffering under transformation and impermanence does
+> not cancel the three feelings. Nor does calling the misperception of
+> pleasure an inversion prove pleasant feeling nonexistent: the inversion
+> consists in regarding what is conditionally suffering as pleasure without
+> qualification. Against the proposed reduction of the three feelings to
+> mere degrees of pain, the commentary asks what mild pain corresponds to
+> distinct pleasures of smell, taste, and touch, and presses the same point
+> with changes of bodily condition and posture.
 >
 > Therefore: pleasant feeling exists. Or, equivalently: all that is contaminated
 > is suffering by connection with the three modes.
 
-## 4. Movement of the Talk
+## 4. Movement of the Commentary
 
 ```text
 question → verse → three-feeling map → distinctive modes / universal depth
@@ -159,18 +413,25 @@ who sees (hair; Avīci / bhavāgra) → path-bar → anitya draws duḥkha
 denial of pleasure → Abhidharmika defense → bondage / release → double close
 ```
 
-## 5. What the Talk Refuses
+## 5. Translation and Organon Study
 
-- `aśeṣataḥ` is not “every moment feels like pain.”
-- `yathāyogam` is not “every mode on every item identically.”
-- `saṃskāra-duḥkhatā` is not locked to the neutral remainder.
-- `saṃskṛta` is not enough to put the path under duḥkha-satya.
-- Sūtra lines that sound total (“whatever is felt…”) are `ābhiprāyika` here.
-- Seeing pleasure as duḥkha is not a change of its svalakṣaṇa.
-- The fool’s missing cognition is not proof that formation-suffering is absent
-  at bhavāgra.
+**Translation decisions.** The kārikā's `aśeṣataḥ` makes the contaminated
+field exhaustive, while `yathāyogam` distributes the named modes. The
+Bhāṣya's `asādhāraṇatvāt` explains why pain and transformation are assigned
+distinctively to the disagreeable and agreeable; its `sarve tu saṃskārāḥ`
+prevents treating formation-suffering as confined to the neutral remainder.
+This explanation remains in the continuous Bhāṣya translation rather than
+expanding the kārikā anchor into a prose summary.
 
-## 6. The Two Controls, Side by Side
+**Organon determination.** The conditioned Path is a Concept whose power
+includes seeing the same pleasant feeling under distinct relations without
+canceling its own pleasant characteristic. A later Feature Grammar can encode
+the nominative agreement and distributive scope of this verse. A higher-order
+logic of Relative and Absolute Essence Reflection can then ask how the
+resulting practical determinations are unified for the Yoga of the Agent.
+Neither formalism is attributed to the source passage.
+
+## 6. The Scope and Distribution Controls
 
 | control | work |
 |---|---|
@@ -200,7 +461,8 @@ denial of pleasure → Abhidharmika defense → bondage / release → double clo
 
 ## 8. Logical Determination
 
-These are the talk's own joints. Not imported science.
+These relations summarize the commentary's distinctions. They are a
+formal reconstruction, not predicates written in the source.
 
 ```text
 sāsrava-saṃskāra(x)  →  duḥkha-satya(x)
@@ -251,18 +513,13 @@ cancel the three feelings the same teacher named.
 field is this first truth. The path is conditioned and not this truth. Those are
 Vasubandhu's closes, not ours.
 
-**This section is reconstruction.**
-
-Path here is Concept-work: typed aspects, typed results. Not Jñāna as Idea. Vidyā
-sees both determinations of one content and does not smash either. Appearance
-would cancel pleasure or cancel the first truth. The denial-school takes the
-first cancellation and calls it holiness.
+**Organon reconstruction.** Path as conditioned Concept differentiates
+pleasure's own characteristic from its place in the truth of suffering. The
+logic must preserve both determinations of one content and the different
+practical consequences of how it is seen.
 
 The hair is content, not empty light. Same saṃskāra-hair; palm does not know it;
 eye cannot not know it. That is seeing's śakti from 6.01 in a body-image.
-
-Sāṃkhya hears transformation and formation. Do not import Puman. Do not “refute
-Puruṣa” with this talk. Pudgala is not on the table.
 
 The Buddhas command the seeing that releases. They do not command a lie that the
 feeling was never pleasant.
@@ -298,6 +555,7 @@ Declarative seed, not executable OWL.
 
 ## 11. Review Status
 
-Major QA against running source 328|23–333|02; first-pass parent bhāṣya; Organon
-kārikā. Stages 8–9 restored as Logical Determination and Interpretive Note.
-Hinge at 333|02–03 left for samudaya. Not a critical edition. Provisional.
+Provisional. The complete unit was checked against the running witness at
+[328|23–333|02]. Its damaged forms and citations remain visible for later
+textual comparison. The origin-truth question at [333|02–333|03] belongs to
+6.04.

@@ -2,97 +2,142 @@
 
 ## 1. Kārikā Anchor
 
-> tatrāvatāro 'śubhayā cānāpānasmṛtena ca |
-> adhirāgavitarkāṇāṃ śaṃkalā sarvarāgiṇām || 6.09 ||
+> tatrāvatāro ’śubhayā cānāpānasmṛtena ca |
+> adhirāgavitarkāṇāṃ śaṃkalā sarvarāgiṇām || 6.9 ||
 
-Literal (from the kārikā study):
+> Entry into cultivation is through contemplation of the unattractive for
+> those dominated by desire, and through recollection of breathing for those
+> dominated by discursive thought. For every kind of bodily desire, the
+> skeleton serves as a common contemplative support.
 
-> Entry there is through the unattractive and through recollection of
-> inhalation and exhalation, for those dominated by desire and discursive
-> thought [respectively]. The skeleton is [the object] for all those affected
-> by desire.
+The Bhāṣya distributes the two entry practices, differentiates desire's
+counter-supports, and limits the effect of unattractive contemplation to
+suppression rather than definitive abandonment.
 
-Kārikā study: [`VAK_6.09.md`](./VAK_6.09.md). Next: 6.10, three yogācāras.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+tasya tvevaṃ pātrobhūtasya katham tasyāṃ bhāvanāyāmavatāro bhavati /
 
-> tasya tv evaṃ pātrībhūtasya kathaṃ tasyāṃ bhāvanāyām avatāro bhavati /
-> tatrāvatāro 'śubhayā cānāpānasmṛtena ca /
-> smṛtir eva smṛtam /
-> keṣāṃ punar aśubhayā keṣām ānāpānasmṛtyā / yathākramam /
-> adhirāgavitarkāṇām /
-> adhiko rāgo vitarkaś caiṣāṃ ta ime adhirāgavitarkāḥ /
-> yo hi … rāgacaritas tasyāśubhayā / yo hi vitarkacaritas tasyānāpānasmṛtyeti /
-> avicitrālambanatvād eṣāṃ vitarkopacchedāya saṃvartata ity eke /
-> aśubhā tu yatra saṃsthānaviśeṣālambanatvād vitarkam āvahatīti /
-> … bahirmukhī / … ity apare /
-> tatra punaś caturvidho rāgaḥ varṇarāgaḥ saṃsthānarāgaḥ sparśarāga upacārarāgaś ca /
-> … śaṃkalā sarvarāgiṇām // 6.09 //
-> asthisaṃkalāyāṃ hi sarvam etac caturvidhaṃ rāgas tu nāstīti /
-> adhimuktiprādeśikamanaskāratvād aśubhayā na kleśaprahāṇam viṣkambhaṇaṃ tu /
+     tatrāvatāro 'śubhayā cānāpānasmṛtena ca /
 
-**Witness.** Pradhan 337|07–338|02. Voices: Vasubandhu; eke / apare on why
-breath cuts vitarka. Running faults (`pātrobhūtasya`, `saṃkaklāyām`) not
-adopted. 6.10 begins 338|02–03.
+smṛtireva smṛtam /
+keṣāṃ punaraśubhayā keṣāmānāpānasmṛtyā /
+yathākramam
+
+     adhirāgavitarkāṇām
+
+adhiko rāgo vitarkaścaiṣāṃ ta ime adhirāgavitarkāḥ /
+
+yo hi pratyāsannamatyarthaṃ rāgacaritastasyāśubhayā /
+
+yo hi vitarkacaritastasyānāpānasmṛtyeti /
+
+avicitrālambanatvādeṣāṃ vitarkopacchedāya saṃvartata ityeke /
+
+aśubhā tu yatra saṃsthānaviśeṣālambanatvādvitarkamāvahatīti /
+
+avahimukhatvādityapare /
+
+aśubhā hi cakṣurvijñānavadbahirmukhī /
+
+tadviṣayopanidhyānāt /
+
+tatra punaścaturvidho rāgaḥ varṇarāgaḥ saṃsthānarāgaḥ sparśarāga upacārarāgaśca /
+
+prathamasya pratipakṣeṇa vinolakādyālambanāmaśubhāṃ varjayanti /
+
+dvitiyasya vikhāditakavikṣiptālambanāṃ tṛtīyasya vipaṭumnā pūyanibaddhāsthyālambanāṃ caturthasya niśceṣṭamṛtkāyālambanām /
+
+abhadena tu śasyate
+
+     śaṅkalā sarvarāgiṇām // VAkK_6.9 //
+
+asthisaṃkaklāyāṃ hi sarvametaccaturvidhaṃ rāgastu nāstīti adhimuktiprādeśikamanaskāratvādaśubhayā na kleśaprahāṇam viṣkambhaṇaṃ tu /
+```
+
+This is the complete running unit at [337|07–338|02] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line breaks
+are editorial. The transmitted `pātrobhūtasya`, `avahimukhatvād`,
+`vinolakādyālambanāmaśubhāṃ varjayanti`, `śaṅkalā`, and `saṃkaklāyām` remain
+visible. The separate kārikā has `śaṃkalā`; the running witness has `śaṅkalā`.
+The next prose unit at [338|02–338|03] opens 6.10.
 
 ## 3. Continuous Conventional Translation
 
-> For one who has thus become a fit vessel, how is there entry into that
-> cultivation? Entry there is through the unattractive and through recollection
-> of inhalation and exhalation. “Recollection” is what the form means. For whom
-> which? In order: for those in whom desire or discursive thought predominates.
-> One whose character is strongly desire-given enters by the unattractive. One
-> whose character is thought-given enters by recollection of breathing.
->
-> Some: breathing cuts discursive thought because its support is not variegated;
-> the unattractive, taking a particular configuration as support, can bring
-> discursive thought on. Others: the unattractive is outward-facing, like
-> eye-vijñāna, by attention to that outer field.
->
-> Desire is fourfold: for color, for configuration, for touch, for bearing and
-> activity. Against the first they use discolored and like supports; against the
-> second, the gnawed or scattered body; against the third, putrefaction and bone
-> bound with pus; against the fourth, the motionless corpse. In common the
-> skeleton is recommended for all who have desire: in the bone-framework those
-> four attractive features are not there. Because the unattractive is resolutive
-> attention on a limited field, it does not abandon the affliction. It suppresses
-> it.
+For one thus become a suitable vessel, how does entry into cultivation occur?
+It is through the unattractive and through recollection of inhalation and
+exhalation. The commentary explains the form `smṛtam` by `smṛti`. For whom is
+each practice intended? In order, for those dominated by desire and those
+dominated by discursive thought. The first enters by the unattractive; the
+second by recollection of breathing.
+
+Some explain that breath recollection cuts off discursive thought because its
+cognitive Condition is not variegated, whereas the unattractive, taking a
+particular bodily configuration as its Condition, can occasion further thought.
+Others explain the difference through outward orientation: contemplation of the
+unattractive is outward-facing like eye-cognition (`cakṣurvijñāna`), through
+attention to its cognitive field. The running text's wording for this second
+explanation is uneven, so its precise phrasing remains provisional.
+
+Desire is then divided into attachment to color, configuration, touch, and
+bodily bearing or presentation. The commentary assigns a corresponding
+unattractive presentation to each: discoloration for color; a gnawed or
+scattered body for configuration; putrefaction or exposed bone for touch; and
+the motionless corpse for bodily bearing. For all these types, the skeletal
+framework is recommended in common, since none of the four attractive features
+is present in it. Because contemplation of the unattractive employs resolutive
+attention to a limited field, it does not abandon the affliction; it suppresses
+it.
 
 ## 4. Movement of the Commentary
 
-```text
-pātrībhūta → how enter?
-rāgacarita → aśubha; vitarkacarita → ānāpānasmṛti
-four rāgas, four supports; skeleton for all
-na kleśaprahāṇam / viṣkambhaṇaṃ tu
-```
+The question about entry comes after the practitioner has been prepared by
+6.05–6.08. The commentary first assigns two practices in order to two
+dominant characters. It reports two explanations for breath recollection's
+relation to discursive thought. It then differentiates four forms of bodily
+desire and their counter-presentations, before recommending the skeleton for
+all of them. The final sentence distinguishes suppression from definitive
+abandonment.
 
-## 5. Suppression ≠ Abandonment
+## 5. Translation and Organon Study
 
-This is still not 6.01’s seeing-path śakti. The last sentence is the bar.
-`Vijñāna` in the outward-facing comparison stays Knowing, not emptied
-“consciousness.”
+**Translation decisions.** `Yathākramam` supplies the respective distribution
+of two instrumentals over two practitioner types. `Śaṃkalā` is a common
+contemplative support for all desire-dominant subtypes, not a third entry
+practice paired with the first two. The anchor stays close to these kārikā
+determinations. The prose gives the finer subtype mapping and the decisive
+limit: `viṣkambhaṇaṃ tu` rather than `kleśa-prahāṇam`. In the attributed
+explanation, `cakṣurvijñāna` is eye-cognition; `viṣaya` is its cognitive field
+and `ālambana` the practice's cognitive Condition.
 
-## 6. Diagnosis
+**Organon determination.** Entry is diagnostic: a predominant obstruction
+selects an adequate counter-operation. One practice changes the represented
+body, while the other steadies attention to breathing. Their preparatory
+success must be recorded as suppression, leaving definitive abandonment as a
+further Path determination. A future LogicFrame can track character,
+selected practice, cognitive Condition, and effect scope separately.
 
-| predominance | entry |
+## 6. Diagnosis and Effect
+
+| Predominant character | Entry practice |
 |---|---|
-| rāga | aśubha |
-| vitarka | ānāpānasmṛti |
+| Desire (`rāga`) | Contemplation of the unattractive (`aśubha`) |
+| Discursive thought (`vitarka`) | Recollection of breathing (`ānāpānasmṛti`) |
 
-| rāga | counter-support |
+| Desire subtype | Counter-presentation |
 |---|---|
-| varṇa / saṃsthāna / sparśa / upacāra | matching aśubha image |
-| all four | śaṃkalā |
+| Color | Discoloration |
+| Configuration | Gnawed or scattered body |
+| Touch | Putrefaction or exposed bone |
+| Bearing or presentation | Motionless corpse |
+| All four | Skeletal framework |
 
-## 7. The Bhāṣya's Decisions for the Kārikā
+The stated effect of unattractive contemplation is suppression
+(`viṣkambhaṇa`), not definitive abandonment (`kleśa-prahāṇa`).
 
-- `yathākramam` splits the two instrumentals;
-- skeleton = common object because the four attractions are absent there;
-- aśubha = viṣkambhaṇa, not prahāṇa.
+## 7. Review Status
 
-## 8. Review Status
-
-Upgrade against kārikā Literal, first-pass parent, running source 337|07–338|02.
-Verse-English copied from [`VAK_6.09.md`](./VAK_6.09.md) §5 Literal. Provisional.
-Next: 6.10.
+Provisional. The complete unit was checked against the running witness at
+[337|07–338|02]. Its uncertain forms remain visible for later textual review.
+The kārikā anchor exactly matches the study translation.

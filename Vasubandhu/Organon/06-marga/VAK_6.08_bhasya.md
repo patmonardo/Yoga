@@ -3,92 +3,128 @@
 ## 1. Kārikā Anchor
 
 > karmāntena tribhir vṛttis tṛṣṇotpāda-vipakṣataḥ |
-> mamāhaṃkāra-vastv-icchā tat-kālātyanta-śāntaye || 6.08 ||
+> mamāhaṃkāra-vastv-icchā tat-kālātyanta-śāntaye || 6.8 ||
 
-Literal (from the kārikā study):
+> Three noble lineages sustain livelihood through contentment with robes,
+> alms-food, and lodging; the fourth makes abandonment and cultivation the
+> practitioner's work. Together they counter four ways thirst arises. The
+> first three presently quiet desire for what is made “mine”; the fourth aims
+> to end desire for both “mine” and the existence made “I.”
 
-> Livelihood is by the three, and work by [the fourth], because they are
-> counterforces to productions of thirst. [They are prescribed] for the
-> present and final pacification of desire concerning objects of mine-making
-> and I-making.
+The Bhāṣya assigns the four lineages to livelihood and work, then divides
+their counteractive effects between present and final pacification.
 
-Kārikā study: [`VAK_6.08.md`](./VAK_6.08.md). Next: 6.09, entry into cultivation.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+atha caturbhirāryavaṃśaiḥ kiṃ darśitaṃ bhagavatā /
 
-> atha caturbhir āryavaṃśaiḥ kiṃ darśitaṃ bhagavatā /
-> karmāntena tribhir vṛttiḥ /
-> dharmasvāminā hi bhagavatā parityaktasvavṛttikarmāntebhyaḥ śiṣyebhyo mokṣārtham abhyupagatebhyo dvayaṃ prajñaptaṃ vṛttiś ca karma ca /
-> tribhir āryavaṃśair vṛttiś caturthena karma /
-> anayā vṛttyedaṃ karma kurvāṇā … na cirān mokṣaṃ prāpsyantīti /
-> kasmāt punar iyam īdṛśī vṛttir idaṃ ca karma prajñaptam /
-> tṛṣṇotpādavipakṣataḥ /
-> catvāras tṛṣṇotpādāḥ sūtra uktāḥ /
-> cīvarahetoḥ … piṇḍapātahetoḥ śayyāsanahetoḥ … bhavavibhavahetoḥ … /
-> eṣāṃ pratipakṣeṇa catvāra āryavaṃśā deśitāḥ /
-> mamāhaṃkāravastvicchā tat-kālātyanta-śāntaye // 6.08 //
-> sa evārthaḥ punaḥ pariśeṣeṇocyate /
-> mamakāravastu cīvarādayo 'haṃkāravastv ātmabhāvaḥ /
-> tatra icchā tṛṣṇā /
-> tatra mamakāravastvicchāyās tat-kāla-śāntaye traya āryavaṃśā bhavanti /
-> ubhayecchātyanta-śāntaye caturtha iti /
-> uktam idaṃ yathā bhūtasya bhāvanā saṃpadyate /
+     karmāntena tribhirvṛttiḥ
 
-**Witness.** Pradhan 336|13–337|06. Voices: Vasubandhu; sūtra on four tṛṣṇotpādas
-(citation syntax uneven — not silently repaired). 6.09 begins 337|07.
+dharmasvāminā hi bhagavatā parityaktasvavṛttikarmāntebhyaḥ śiṣyebhyo mokṣārthamabhyupagatebhyo dvayaṃ prajñaptaṃ vṛttiśca karma ca /
+
+tribhirāryavaṃśairvṛttiścaturyena karma /
+
+anayā vṛttyedaṃ karma kurvāṇā bhavantī na cirānmokṣaṃ prāpsyantīti /
+
+kasmātpunariyamīdṛśī vṛttiridaṃ ca karma prajñaptam /
+
+     tṛṣṇotpādavipakṣataḥ /
+
+catvārastṛṣṇotpādāḥ sūtra uktāḥ /
+
+"cīvarahetorbhikṣostṛṣṇotpadyamānā utpadyate pratitiṣṭhanti pratitiṣṭhati abhiniviśamānā 'bhiniviśate /
+
+piṇḍapātahetoḥ śayyāsanahetoriti /
+
+bhavavibhavahetorbhikṣostṛṣṇotpadyamānā utpadyata" iti vistaraḥ /
+
+eṣāṃ pratipakṣeṇa catvāra āryavaṃśā deśitāḥ /
+
+     mamāha kāravastvicchātatkālātyantaśāntaye // VAkK_6.8 //
+
+sa evārthaḥ punaḥ pariśeṣeṇocyate /
+
+mamakāravastu cīvarādayo 'haṃ kāravastvātmabhāvaḥ /
+
+tatrecchā tṛṣṇā /
+
+tatra mamakāravastvicchāyāstatkālaśāntaye traya āryavaṃśā bhavanti /
+
+ubhayecchātyantaśāntaye caturtha iti /
+
+uktāmidaṃ yathā bhūtasya bhāvanā saṃpadyate /
+```
+
+This is the complete running unit at [336|13–337|06] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line breaks
+are editorial. The running reading `caturyena` in the three-plus-one
+explanation, the uneven sūtra quotation, the spaced `mamāha kāra`, and
+`uktāmidaṃ` remain as transmitted. The local argument supplies their sense.
+The question at [337|07] opens 6.09.
 
 ## 3. Continuous Conventional Translation
 
-> What did the Blessed One show by the four noble lineages? Livelihood is by the
-> three; work by the fourth. The Blessed One, master of Dharma, prescribed two
-> things for disciples who had left their own former livelihood and occupation
-> and taken up the aim of liberation: livelihood and work. Livelihood is by the
-> three noble lineages; work by the fourth. Living by this livelihood and doing
-> this work, they will reach liberation before long.
->
-> Why was just this livelihood and this work prescribed? Because they are
-> counterforces to productions of thirst. The sūtra names four: on account of
-> robes, of alms-food, of lodging, of existence or non-existence. The four noble
-> lineages were taught as their counterforces.
->
-> The same meaning, completed: for present and final pacification of desire
-> toward objects of mine-making and of I-making. Objects of mine-making are
-> robes and the like. The object of I-making is one’s own existence
-> (ātmabhāva). Desire there is thirst. The three lineages are for present
-> pacification of desire toward objects of mine-making. The fourth is for final
-> pacification of both desires. This is how cultivation comes about for such a
-> person.
+What did the Blessed One show through the four noble lineages? Livelihood by
+the three and work by the fourth. The Blessed One, master of Dharma, prescribed
+these two to disciples who had left their former livelihoods and occupations
+and undertaken the aim of liberation. By the three lineages they have a
+livelihood; by the fourth they have work. Sustaining themselves in this way and
+doing this work, they will reach liberation before long.
+
+Why prescribe this livelihood and this work? Because they oppose the production
+of thirst. A sūtra names four occasions of its arising: robes, alms-food,
+lodging, and existence or non-existence. The four noble lineages were taught as
+counterforces to these. The cited sūtra's transmitted wording is uneven; its
+four occasions are explicit.
+
+The verse restates the same meaning in full: the lineages serve the present and
+final pacification of desire concerning the bases of mine-making and I-making.
+Robes and the like are bases of mine-making; one's own existence (`ātmabhāva`)
+is the basis of I-making. Desire here is thirst. The three lineages presently
+pacify desire for the bases of mine-making. The fourth finally pacifies both
+desires. This completes the account of how cultivation succeeds for such a
+practitioner.
 
 ## 4. Movement of the Commentary
 
-```text
-what do the four show? → vṛtti by three / karma by fourth
-why this pair? → four tṛṣṇotpādas
-mamakāra-vastu vs ahaṃkāra-vastu (ātmabhāva)
-tat-kāla-śānti vs atyanta-śānti
-```
+The opening question asks what the four lineages show. The answer divides
+livelihood among the first three and work to the fourth. A second question
+asks why this pair was prescribed. The answer maps the lineages to four
+productions of thirst. The closing prose resolves the verse's compact dative
+purpose: present pacification of desire for what is made “mine” belongs to the
+first three; final pacification of both “mine” and “I” belongs to the fourth.
 
-## 5. Livelihood ≠ the Work
+## 5. Translation and Organon Study
 
-The three do not finish appropriation. They bound maintenance now. Final
-pacification of both “mine” and “I” is reserved to the fourth. Simplicity of
-gear is not the Path of Seeing.
+**Translation decisions.** `Tribhiḥ` receives the first three lineages from
+6.07. `Karmāntena` identifies the work assigned to the fourth, which the prose
+names simply `karma`. `Tṛṣṇotpāda-vipakṣataḥ` gives the reason for prescribing
+this combination. The compound around `mama`, `ahaṃkāra`, `vastu`, and `icchā`
+is resolved by the prose as two kinds of appropriative basis and their desires.
+The anchor uses “basis” for `vastu`; it reserves technical “Object” for the
+Organon's own usage.
 
-## 6. The Three-plus-One
+**Organon determination.** The three contentment lineages sustain the
+practitioner; the fourth determines the work for which that livelihood is
+sustained. Present restraint of possessive thirst and final pacification of
+both possessive and self-directed thirst have different scopes. A future
+LogicFrame may represent this three-plus-one allocation and its two
+pacification ranges, while the source supplies the distinctions themselves.
 
-| | counters | pacifies |
-|---|---|---|
-| robes / alms / lodging | tṛṣṇā for those supports | mine-making, for the present |
-| delight in abandonment and cultivation | tṛṣṇā for bhava / vibhava | both mine-making and I-making, finally |
+## 6. The Three and the Fourth
 
-## 7. The Bhāṣya's Decisions for the Kārikā
+| Lineages | Function | Counteracted thirst | Pacification |
+|---|---|---|---|
+| Robes, alms-food, lodging | Livelihood | Thirst for those supports | Desire for bases of mine-making, for the present |
+| Delight in abandonment and cultivation | Work | Thirst tied to existence or non-existence | Both mine-making and I-making desire, finally |
 
-- `tribhiḥ vṛttiḥ` / `caturthena karma` is the split of the first pāda;
-- `ahaṃkāra-vastu` = ātmabhāva;
-- `tat-kāla` on the three; `atyanta` on the fourth covering both icchās.
+The fourth's work gives a practical end to the first three's bounded
+maintenance; the text does not equate having few possessions with the
+completion of that work.
 
-## 8. Review Status
+## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 336|13–337|06.
-Verse-English copied from [`VAK_6.08.md`](./VAK_6.08.md) §5 Literal. Provisional.
-Next: 6.09.
+Provisional. The complete unit was checked against the running witness at
+[336|13–337|06]; its uneven readings and cited sūtra wording remain visible.
+The kārikā anchor exactly matches the study translation.

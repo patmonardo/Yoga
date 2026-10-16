@@ -1,5 +1,9 @@
 # Pre-Techne for the Organon Kośa
 
+The active volume references are [Volume I: Dhātu–Indriya](technical-expressions-vol-i.md)
+and [Volume II: Loka–Karma](technical-expressions-vol-ii.md). This combined
+Pre-Techne preserves the extended architectural argument and earlier controls.
+
 ## Yoga Techne: Technical Expressions for Volumes I–II
 
 ## Purpose and Scope

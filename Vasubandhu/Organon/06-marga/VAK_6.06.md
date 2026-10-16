@@ -19,14 +19,9 @@ in 6.05 can be accomplished. The practitioner requires twofold withdrawal,
 which is easy for one of few desires and contentment but not for one governed
 by discontent or great desire.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-vyapakarṣa-dvaya-vataḥ | na | asantuṣṭa-mahecchayoḥ |
-labdhe | bhūyaḥ-spṛhā | atuṣṭiḥ | alabdha-icchā | mahecchatā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `vyapakarṣa-dvaya-vataḥ` | genitive singular masculine possessive compound | of one possessing the two withdrawals |
 | `na` | negative particle | not |
@@ -36,6 +31,11 @@ labdhe | bhūyaḥ-spṛhā | atuṣṭiḥ | alabdha-icchā | mahecchatā
 | `atuṣṭiḥ` | nominative singular feminine | discontent or dissatisfaction |
 | `alabdha-icchā` | nominative singular feminine compound | desire for what has not been obtained |
 | `mahecchatā` | nominative singular feminine abstract noun | great desire |
+
+```text
+vyapakarṣa-dvaya-vataḥ | na | asantuṣṭa-mahecchayoḥ |
+labdhe | bhūyaḥ-spṛhā | atuṣṭiḥ | alabdha-icchā | mahecchatā
+```
 
 The first half is elliptical. The Bhāṣya supplies the governing question: for
 whom is the twofold withdrawal needed for cultivation readily accomplished?
@@ -82,7 +82,25 @@ desire with respect to what is unobtained
 
 The Bhāṣya identifies a logical instability: the additional amount desired in
 the first definition is itself not yet obtained. Vasubandhu therefore replaces
-mere object-status with two distinct intentional relations.
+mere possession-status with two distinct intentional relations.
+
+**Feature Grammar direction.** The genitive singular possessor of the two
+withdrawals contrasts with the genitive dual of the excluded dispositions.
+The second half gives two nominal definitions, each with its own locative
+qualification:
+
+```text
+PERSON[CASE=gen, NUM=sg, HAS=two-withdrawals]
+    → CULTIVATION[FEASIBILITY=easy]
+PERSON[CASE=gen, NUM=du, TYPE=discontented+greatly-desirous]
+    → CULTIVATION[FEASIBILITY=not-easy]
+
+DISCONTENT[LOC=obtained, DESIRE=more]
+GREAT-DESIRE[LOC=unobtained, DESIRE=present]
+```
+
+The Bhāṣya then tests and revises the two definitions. That semantic revision
+cannot be supplied by agreement features alone.
 
 ## 5. Translation
 
@@ -98,16 +116,11 @@ answer.
 
 ### Bhāṣya-informed study translation
 
-> Cultivation is practicable for one withdrawn in both body and mind—one of
-> few desires and contentment—not for one governed by discontent or great
-> desire. The inherited formulation calls longing for more of what one already
-> has discontent and desire for what one lacks great desire. Vasubandhu refines
-> this: discontent is vexation because present possessions seem inferior or
-> insufficient, whereas great desire projects itself toward superior and
-> abundant goods not yet possessed.
-
-The bodily/mental division, the positive qualifications, and the revised
-definitions belong to the Bhāṣya.
+> Cultivation is readily sustained by one withdrawn in body and consciousness,
+> content and of few desires; it is not so for the discontented or greatly
+> desirous. Discontent is vexation over what one has as neither excellent nor
+> abundant; great desire seeks excellent and abundant things one has not
+> obtained.
 
 ## 6. Philosophical Translation
 
@@ -150,6 +163,8 @@ acquisitive and unskillful activity.
 Distancing the practitioner from `akuśala-vitarka`, unskillful thought. It is
 not reducible to physical solitude, since the relevant entanglement may
 continue as mental activity after the external occasion is removed.
+The *citta* is the site of a disciplined withdrawal from a specific class of
+thought, not something extinguished by the operation.
 
 **`Saṃsarga` — association or entanglement**
 

@@ -3,92 +3,122 @@
 ## 1. Kārikā Anchor
 
 > viparyāsāt tad-vipakṣau tri-dhātv-āptāv amalau ca tau |
-> alobha āryavaṃśāś ca teṣāṃ tuṣṭy-ātmakās trayaḥ || 6.07 ||
+> alobha āryavaṃśāś ca teṣāṃ tuṣṭy-ātmakās trayaḥ || 6.7 ||
 
-Literal (from the kārikā study):
+> Reversing discontent and great desire yields contentment and fewness of
+> desires as their two counterforces. Both occur in all three realms and may
+> also be without influx; both have non-greed as their nature. The four noble
+> lineages share that nature, and three are forms of contentment.
 
-> By reversal, the two counterforces to those [two defects] belong to the three
-> domains and are also uncontaminated. Those two are non-greed. There are also
-> the noble lineages; among them, three have contentment as their nature.
+The Bhāṣya names the counterforces, explains their scope and shared nature,
+and specifies the four noble lineages.
 
-Kārikā study: [`VAK_6.07.md`](./VAK_6.07.md). Next: 6.08.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+viparyāsāttadvipakṣau
 
-> viparyāsāt tad-vipakṣau /
-> asaṃtuṣṭimahecchatāviparyayeṇa tatpratipakṣau veditavyau /
-> saṃtuṣṭiś cālpecchatā ceti /
-> tridhātvāptāv amalau ca tau /
-> tad-vipakṣāv iti vartate /
-> tridhātukau ca … sāsravānāsravatvāt /
-> asaṃtuṣṭimahecchate ca kāmāvacaryāv eva /
-> kaḥ punar anayor alpecchatāsaṃtuṣṭyoḥ svabhāva ity āha /
-> alobhaḥ / alobhasvabhāve hy ete /
-> āryavaṃśāś ca / alobha iti vartate /
-> āryāṇām ebhyaḥ prasavād āryavaṃśāś catvāraḥ /
-> te 'py alobhasvabhāvāḥ /
-> teṣāṃ tuṣṭyātmakās trayaḥ // 6.07 //
-> saṃtuṣṭisvabhāvāḥ / cīvarapiṇḍapātaśayanāsanasaṃtuṣṭayaḥ /
-> prahāṇabhāvanārāmatā caturtha āryavaṃśaḥ katham alobhasvabhāvaḥ /
-> bhavakāmarāgavaimukhyāt /
+asaṃtuṣṭimahecchatāviparyayeṇa tatpratipakṣau veditavyau /
 
-**Witness.** Pradhan 335|19–336|12. Voice: Vasubandhu, exposition. Running
-faults not adopted (`poratisaṃyuktau`, `tuṣṭacyātmakās`, `jsaṃtuṣṭisvabhāvāḥ`).
-6.08 begins 336|13.
+saṃtuṣṭiścālpecchatā ceti /
+
+     tridhātvāptāmalau ca tau /
+
+tadvipakṣāviti vartate /
+tridhātukau ca poratisaṃyuktau ca /
+sāsravānāsravatvāt /
+
+asaṃtuṣṭimahecchate ca kāmāvacaryāveva /
+
+kaḥ punaranayoralpecchatāsaṃtuṣṭacyoḥ svabhāva ityāha /
+
+     alobhaḥ
+
+alobhasvabhāve hyete /
+
+     āryavaṃśāśca
+
+alobha iti vartate /
+āryāṇāmebhyaḥ prasavādāryavaṃśāścatvāraḥ /
+
+te 'pyalobhasvabhāvāḥ /
+
+     teṣāṃ tuṣṭacyātmakāstrayaḥ // VAkK_6.7 //
+
+jsaṃtuṣṭisvabhāvāḥ /
+cīvarapiṇḍapātaśayanāsanasaṃtuṣṭayaḥ /
+
+prahāṇabhāvanārāmatā caturtha āryavaṃśaḥ kathamalobhasvabhāvaḥ /
+
+bhavakāmarāgavaimukhyāt /
+```
+
+This is the complete running unit at [335|19–336|12] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line breaks
+are editorial. The forms `poratisaṃyuktau`, `tuṣṭacyātmakās`, and
+`jsaṃtuṣṭisvabhāvāḥ` remain as transmitted; the English follows the locally
+explicit argument. The next question at [336|13] opens 6.08.
 
 ## 3. Continuous Conventional Translation
 
-> By reversal of discontent and great desire, their two counterforces are to be
-> known: contentment and fewness of wishes. Those two belong to the three
-> domains and are also uncontaminated — they occur in all three domains, and
-> they may be contaminated or uncontaminated. Discontent and great desire belong
-> only to the desire-domain.
->
-> What is the own-nature of these two, fewness of wishes and contentment?
-> Non-greed. They have non-greed as own-nature.
->
-> The noble lineages also: non-greed continues. They are four, lineages of the
-> noble because noble ones arise from them. They too have non-greed as
-> own-nature. Among them three have contentment as their nature: contentment
-> with robes, with alms-food, and with lodging. The fourth is delight in the
-> cultivation of abandonment. How is that also non-greed by nature? Because it
-> turns away from craving for existence and from sensual desire.
+By reversal of discontent and great desire, their two counterforces are to be
+understood: contentment and fewness of desires. These two occur in all three
+realms and are also without influx. The commentary explains this as their
+capacity to be either with or without influx. Discontent and great desire,
+by contrast, belong only to the desire-realm.
+
+What is the intrinsic nature of fewness of desires and contentment? Non-greed:
+that is the nature of both. The four noble lineages likewise have non-greed as
+their nature. They are called noble lineages because noble persons arise from
+them. Three are forms of contentment: contentment with robes, alms-food, and
+lodging. The fourth is delight in cultivating abandonment. Why does this too
+have non-greed as its nature? Because it turns away from craving for existence
+and from sensual desire.
 
 ## 4. Movement of the Commentary
 
-```text
-reverse the two defects → saṃtuṣṭi / alpecchatā
-wider range than the defects; both sāsrava and anāsrava possible
-one svabhāva: alobha
-four āryavaṃśa; three are contentment; fourth is prahāṇa-bhāvanā-rāmatā
-```
+The commentary reverses the two defects described in 6.06, naming their
+positive counterforces. It then distinguishes the counterforces' three-realm
+range and possible absence of influx from the defects' restriction to the
+desire-realm. A question about intrinsic nature yields non-greed as the common
+answer. The verse extends this nature to the noble lineages; the commentary
+counts and names them, then explains why the fourth also has non-greed as its
+nature.
 
-## 5. Reversal ≠ Mere Absence
+## 5. Translation and Organon Study
 
-The defects stay in kāmadhātu. The counterforces do not. Virtue-name does not
-by itself fix Path-status: the same two may be contaminated or not. The fourth
-lineage is not greed-for-practice; the prose gives vaimukhya as the reason.
+**Translation decisions.** `Viparyāsāt` marks reversal of the two preceding
+defects, rather than a new list of cognitive inversions. The dual forms keep
+contentment and fewness of desires together through `tri-dhātv-āptau`,
+`amalau`, and `tau`. `Amalau` permits the without-influx case; the prose adds
+that the pair may also be with influx. The anchor follows the verse's concise
+count of three contentment lineages; the conventional translation gives the
+Bhāṣya's names and its explanation of the fourth.
 
-## 6. The Two Pairs and the Four
+**Organon determination.** A counterforce has positive practical form:
+non-greed becomes contentment in relation to what is possessed and fewness of
+desires in relation to what is sought. The common nature does not erase these
+distinct relations. The noble lineages organize that nature into repeatable
+practice. A future LogicFrame may model reversal, shared nature, practical
+range, and influx status as different relations. This is a project
+formalization, not source terminology.
 
-| defect | counterforce |
+## 6. The Two Pairs and Four Lineages
+
+| Defect | Counterforce | Shared nature |
+|---|---|---|
+| `asaṃtuṣṭi` | `saṃtuṣṭi` | `alobha` |
+| `mahecchatā` | `alpecchatā` | `alobha` |
+
+| Noble lineage | Practical determination |
 |---|---|
-| asaṃtuṣṭi | saṃtuṣṭi |
-| mahecchatā | alpecchatā |
+| Contentment with robes | `saṃtuṣṭi` |
+| Contentment with alms-food | `saṃtuṣṭi` |
+| Contentment with lodging | `saṃtuṣṭi` |
+| Delight in cultivating abandonment | `alobha` through turning from craving for existence and sensual desire |
 
-| āryavaṃśa | nature |
-|---|---|
-| robes / alms / lodging | saṃtuṣṭi |
-| delight in cultivating abandonment | alobha by turning from bhava- and kāma-rāga |
+## 7. Review Status
 
-## 7. The Bhāṣya's Decisions for the Kārikā
-
-- `tad-vipakṣau` named: saṃtuṣṭi, alpecchatā;
-- `alobhaḥ` = svabhāva of both, and of the lineages;
-- four lineages; three are the contentments the verse counted.
-
-## 8. Review Status
-
-Upgrade against kārikā Literal, first-pass parent, running source 335|19–336|12.
-Verse-English copied from [`VAK_6.07.md`](./VAK_6.07.md) §5 Literal. Provisional.
-Next: 6.08.
+Provisional. The complete unit was checked against the running witness at
+[335|19–336|12]. Its three conspicuous transmitted forms remain visible for
+later textual review. The kārikā anchor exactly matches the study translation.

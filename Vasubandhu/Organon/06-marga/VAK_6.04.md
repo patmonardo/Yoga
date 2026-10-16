@@ -19,26 +19,26 @@ the Four Truths and the extension of duḥkha-satya. It distinguishes
 conventional and ultimate reality by testing whether the corresponding
 cognition survives physical division or cognitive analysis.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
+
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `yatra` | relative adverb | where; in the case in which |
+| `bhinnena` | instrumental singular past participle of `√bhid` | when divided or broken |
+| `tad-buddhiḥ` | nominative singular feminine compound | cognition of that, of the named unity |
+| `anya-apohe` | locative singular compound | when other dharmas are removed or excluded |
+| `dhiyā` | instrumental singular feminine of `dhī` | by cognition, through analysis |
+| `ca` | conjunction | and, or in the paired test |
+| `tat` | nominative singular neuter correlative pronoun | that |
+| `ghaṭa-artha-vat` | comparative compound | as with the meaning “pot”; the Bhāṣya gives a pot as the example |
+| `saṃvṛti-sat` | nominative singular neuter | conventionally real |
+| `paramārtha-sat` | nominative singular neuter | ultimately real |
+| `anyathā` | adverb | otherwise |
 
 ```text
 yatra | bhinnena | tad-buddhiḥ | anya-apohe | dhiyā | ca | tat |
 ghaṭa-artha-vat | saṃvṛti-sat | paramārtha-sat | anyathā
 ```
-
-| Form | Morphology | Contextual sense |
-|---|---|---|
-| `yatra` | relative adverb | where; in the case in which |
-| `bhinnena` | instrumental singular past participle of `√bhid` | when divided or broken |
-| `tad-buddhiḥ` | nominative singular feminine compound | cognition of that object |
-| `anya-apohe` | locative singular compound | when other dharmas are removed or excluded |
-| `dhiyā` | instrumental singular feminine of `dhī` | by cognition, through analysis |
-| `ca` | conjunction | and, or in the paired test |
-| `tat` | nominative singular neuter correlative pronoun | that |
-| `ghaṭa-artha-vat` | comparative compound | like the object or referent “pot” |
-| `saṃvṛti-sat` | nominative singular neuter | conventionally real |
-| `paramārtha-sat` | nominative singular neuter | ultimately real |
-| `anyathā` | adverb | otherwise |
 
 The verse is highly compressed. The negative force—cognition of the named
 object no longer occurs—is supplied by the Bhāṣya's explicit prose. `Anyathā`
@@ -87,31 +87,41 @@ paramārthasat anyathā
 The prose expands `anyathā`: cognition of the relevant own nature remains even
 after atom-by-atom division or exclusion of other dharmas.
 
+**Feature Grammar direction.** The relative `yatra` and correlative `tat`
+form the classification frame. `Tad-buddhiḥ` supplies the cognition tested
+under two operations; `anyathā` reverses the result for *paramārtha-sat*:
+
+```text
+REL[yatra, TEST=division-or-exclusion, RESULT=loss-of-that-cognition]
+    → CORR[tat, STATUS=saṃvṛti-sat]
+
+OTHERWISE[TEST=division-or-exclusion, RESULT=own-nature-cognition-remains]
+    → STATUS[paramārtha-sat]
+```
+
+This is a feature specification for later NLTK work; the Bhāṣya supplies the
+negative predicate and the positive converse.
+
 ## 5. Translation
 
 ### Literal Translation
 
 > That in the case of which cognition of it [ceases] when it is divided, or
-> when other [dharmas] are excluded by cognition, is conventionally real, like
-> the object “pot.” The ultimately real is otherwise.
+> when other [dharmas] are excluded by cognition, is conventionally real, as
+> with the meaning “pot.” The ultimately real is otherwise.
 
 ### Bhāṣya-informed study translation
 
-> An object is conventionally real when cognition of it no longer occurs after
-> the composite has been divided, as pot-cognition disappears when a pot is
-> broken into shards, or after its supporting dharmas are excluded in analysis,
-> as water-cognition disappears when dharmas such as visible form are removed
-> in thought. What is ultimately real is otherwise: cognition of its own nature
-> remains under the relevant decomposition, as cognition of visible form
-> remains after atomization and discrimination from associated dharmas.
-
-The pot/water distinction, the atomization example, and the reference to
-own-nature cognition are supplied by the Bhāṣya.
+> What is conventionally real loses its distinct cognition when its parts are
+> divided, as a pot loses pot-cognition when broken into shards, or when other
+> dharmas are excluded in thought, as water loses water-cognition. What is
+> ultimately real is otherwise: its own-nature cognition remains through such
+> division or exclusion, as with visible form and feeling.
 
 ## 6. Philosophical Translation
 
 > Reality is discriminated by asking what determination remains when an
-> apparent unity is decomposed. A conventional object is genuinely available
+> apparent unity is decomposed. A conventional unity is genuinely available
 > for truthful discourse, yet its cognition depends upon a configuration that
 > analysis can dissolve. An ultimate object is not placed beyond analysis; it
 > is the determination whose own-nature cognition withstands the relevant
@@ -177,11 +187,11 @@ dharmas are excluded in thought to test whether cognition of the proposed
 object remains. This local use should not be silently equated with every later
 Buddhist theory bearing the name `apoha`.
 
-**`Ghaṭārtha` — the object or referent “pot”**
+**`Ghaṭārtha` — the meaning “pot”**
 
-The example of a composite whose named unity fails the persistence test. In
-this compound `artha` is most safely rendered object or referent, without
-reducing the verse to a modern linguistic theory of meaning.
+The named meaning depends on a composite pot whose cognition fails the
+persistence test when the pot is broken. `Artha` remains Meaning; the
+Bhāṣya's concrete example is the pot, not a new technical use of Object.
 
 **`Ambu` — water**
 

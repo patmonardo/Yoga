@@ -17,27 +17,27 @@ kāmāśrayā na bāhyānāṃ ṣaḍvidhā gaṇanādibhiḥ || 6.12 ||
 VAK 6.12 classifies recollection of inhalation and exhalation and introduces
 its sixfold completion. Although the practice is named `smṛti`, its intrinsic
 nature is Prajñā. It occurs on five grounds, takes breath as wind for its
-object-range, depends upon a desire-domain support, does not belong to
+cognitive field, depends upon a desire-realm support, does not belong to
 outsiders, and develops through six operations beginning with counting.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ānāpāna-smṛtiḥ | prajñā | pañca-bhūḥ | vāyuḥ-gocarā |
-kāma-āśrayā | na | bāhyānām | ṣaṭ-vidhā | gaṇana-ādibhiḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ānāpāna-smṛtiḥ` | nominative singular feminine compound | recollection of inhalation and exhalation |
 | `prajñā` | nominative singular feminine | discriminative knowing; intrinsic nature of the practice |
 | `pañca-bhūḥ` | nominative singular compound | belonging to five grounds |
 | `vāyuḥ-gocarā` | nominative singular feminine compound | having wind as its cognitive range |
-| `kāma-āśrayā` | nominative singular feminine compound | having a desire-domain support |
+| `kāma-āśrayā` | nominative singular feminine compound | having a desire-realm basis |
 | `na` | negative particle | not |
 | `bāhyānām` | genitive plural masculine | belonging to outsiders |
 | `ṣaṭ-vidhā` | nominative singular feminine compound | sixfold |
 | `gaṇana-ādibhiḥ` | instrumental plural compound | through counting and the other operations |
+
+```text
+ānāpāna-smṛtiḥ | prajñā | pañca-bhūḥ | vāyuḥ-gocarā |
+kāma-āśrayā | na | bāhyānām | ṣaṭ-vidhā | gaṇana-ādibhiḥ
+```
 
 The predicates classify a single practice along independent dimensions. The
 Bhāṣya distinguishes name from intrinsic nature: `smṛti` names the force by
@@ -66,10 +66,10 @@ pañcabhūḥ
     on how many grounds? five
 
 vāyurgocarā
-    what is its object-range? wind
+    what is its cognitive field? wind
 
 kāmāśrayā
-    what is its support? the desire-domain
+    what is its basis? the desire-realm
 
 na bāhyānām
     to whom does it not belong? outsiders
@@ -78,31 +78,45 @@ na bāhyānām
     how is it completed? through six operations beginning with counting
 ```
 
-The standard five-ground count is fixed by the Bhāṣya as the desire-domain,
+The standard five-ground count is fixed by the Bhāṣya as the desire-realm,
 three preliminary concentrations, and the intermediate concentration. It also
 reports an alternative eight-ground count if equanimity is admitted in the
 principal dhyānas.
+
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PRACTICE[NAME=ānāpānasmṛti, NATURE=prajñā,
+         GROUNDS=five, FIELD=wind, BASIS=desire-realm,
+         ACCESS=not-outsiders, MODES=six]
+  ← ānāpānasmṛtiḥ + prajñā + pañcabhūḥ + vāyurgocarā
+    + kāmāśrayā + na bāhyānām + ṣaḍvidhā gaṇanādibhiḥ
+MODE[ORDER=count→follow→establish→discern→turn→purify]
+  ← gaṇanādibhiḥ + [the Bhāṣya's sixfold expansion]
+```
+
+The feature slots keep the verse's predicates distinct. The Bhāṣya supplies
+the full sequence and its functions; these labels are a future reflective
+model, not executable source grammar.
 
 ## 5. Translation
 
 ### Literal Translation
 
 > Recollection of inhalation and exhalation is Prajñā; it belongs to five
-> grounds and has wind as its cognitive range. It has a desire-domain support,
+> grounds and has wind as its cognitive field. It has a desire-realm basis,
 > does not belong to outsiders, and is sixfold through counting and the other
 > operations.
 
 ### Bhāṣya-informed study translation
 
-> Breath-recollection is Prajñā by intrinsic nature, though it is named
-> recollection because it functions through recollective support. In the
-> standard account it occurs on five grounds—the desire-domain, three
-> preliminary concentrations, and the intermediate concentration—takes the
-> inhaled and exhaled wind-process as its object, and depends upon a
-> desire-domain embodied support. It is unavailable to outsiders who lack the
-> requisite instruction and cannot independently awaken to these subtle
-> dharmas. The practice becomes complete through counting, following,
-> establishing, discerning, turning, and purification.
+> Recollection of breathing is Prajñā by nature, though named for the
+> recollection that sustains it. It occurs on five grounds, ranges over breath
+> as wind, and rests on a desire-realm basis. It does not belong to outsiders
+> without the requisite teaching. Its six modes begin with counting and end
+> in purification.
+
+### Translation note
 
 The definition of name versus nature, the exact ground-count, the reasons
 concerning outsiders, and the six operations are supplied by the Bhāṣya.
@@ -113,7 +127,7 @@ concerning outsiders, and the six operations are supplied by the Bhāṣya.
 > through an ordered transformation of cognition. Recollection supplies
 > continuity; Prajñā discriminates what that continuity contains. Counting
 > establishes reliable sequence, following tracks process, establishing
-> stabilizes the object, discerning opens breath into its dharma-complex,
+> stabilizes the cognitive Condition, discerning opens breath into its dharma-complex,
 > turning redirects the practice toward the highest mundane Path-conditions,
 > and purification enters Seeing and the subsequent Paths. The breath is not
 > itself liberating; its disciplined determination becomes continuous with
@@ -124,7 +138,7 @@ The movement is:
 ```text
 embodied wind-process
     → recollected sequence
-    → stable object-support
+    → stable cognitive Condition
     → discriminated aggregate-field
     → higher wholesome roots
     → Path of Seeing and beyond
@@ -136,7 +150,7 @@ embodied wind-process
 
 The Bhāṣya defines these as winds entering and leaving the body. The practice
 therefore takes an elemental process rather than an enduring breather-self as
-its immediate object-range.
+its immediate cognitive field.
 
 **`Ānāpānasmṛti` — recollection of inhalation and exhalation**
 
@@ -153,26 +167,26 @@ through reliance upon the power of recollection.
 
 The intrinsic nature of breath-recollection. This prevents the practice from
 being reduced to bare attention to sensation. Its development discriminates
-elements, derivative form, citta and caittas, and ultimately the five
+elements, derivative form, consciousness (`citta`) and mental factors (`caitta`), and ultimately the five
 aggregates.
 
 **`Pañcabhū` — belonging to five grounds**
 
-The standard Bhāṣya enumeration comprises the desire-domain, three preliminary
+The standard Bhāṣya enumeration comprises the desire-realm, three preliminary
 concentrations, and the intermediate concentration because the practice is
 associated with equanimity. An attributed alternative expands the range to
 eight grounds if equanimity is allowed in the principal dhyānas.
 
-**`Vāyur-gocarā` — having wind as cognitive range**
+**`Vāyur-gocarā` — having wind as cognitive field**
 
-The object is the breath as a moving wind-process. `Gocara` marks what the
+The cognitive field is breath as a moving wind-process. `Gocara` marks what the
 cognition ranges over and must remain distinct from `āśraya`, the support upon
 which the practice arises.
 
-**`Kāmāśraya` — having a desire-domain support**
+**`Kāmāśraya` — having a desire-realm basis**
 
-The embodied basis of the practice belongs to the desire-domain even when the
-cognition itself occurs on a more refined meditative ground. Object, support,
+The embodied basis of the practice belongs to the desire-realm even when the
+cognition itself occurs on a more refined meditative ground. Cognitive field, basis,
 and level are independent coordinates.
 
 **`Na bāhyānām` — not belonging to outsiders**
@@ -191,7 +205,7 @@ accounts conflict with the actual process.
 **`Gaṇanā` — counting**
 
 Counting inhalations and exhalations from one to ten through recollection,
-without forcing body or mind. Distraction requires restarting until samādhi is
+without forcing body or consciousness. Distraction requires restarting until samādhi is
 obtained.
 
 **The three counting faults**
@@ -229,7 +243,7 @@ Analytical expansion of the breath beyond “mere wind”:
 ```text
 four great elements
     → derivative material form
-    → dependent citta and caittas
+    → dependent consciousness (`citta`) and mental factors (`caitta`)
     → five aggregates
 ```
 
@@ -238,7 +252,7 @@ complex.
 
 **`Vivarta` — turning**
 
-Turning away from mere increase of cognition centered on the wind-object and
+Turning away from mere increase of cognition centered on the wind Condition and
 connecting the practice with higher wholesome roots through the Highest
 Mundane Dharmas. It redirects stabilization into explicit Path-preparation.
 
@@ -257,7 +271,7 @@ Anapanasmrti {
     intrinsicNature: Prajna
     functionalSupport: Recollection
     standardLevelRange: FiveGrounds
-    objectRange: BreathAsWind
+    cognitiveField: BreathAsWind
     existentialSupport: DesireDomainEmbodiment
     productionLocus: GodsAndHumans
     attentionMode: TattvaManaskara
@@ -321,8 +335,8 @@ AND CannotSelfAwakenTo(person, SubtleDharmas)
 force; Prajñā defines the practice. A Dataset that classifies only by the
 surface name would miss its operative cognitive type.
 
-**Object, support, and ground remain distinct.** The breath-wind is the object;
-desire-domain embodiment is the support; five meditative grounds give the
+**Field, basis, and ground remain distinct.** The breath-wind is the cognitive
+field; desire-realm embodiment is the basis; five meditative grounds give the
 standard operating range. None should be inferred from either of the others.
 
 **The ground-count has an attributed alternative.** The five-ground account is
@@ -334,14 +348,14 @@ must be retained.
 failures of sequence, cardinality, and event-type discrimination. Restarting
 after distraction trains faithful continuity rather than forced respiration.
 
-**Discerning changes the scale of the object.** Breath begins as vāyu but opens
+**Discerning changes the scale of the cognitive field.** Breath begins as vāyu but opens
 into elements, derived form, mental dependence, and the five aggregates. The
 practice does not remain enclosed within one isolated sensation.
 
 **Purification enters Mārga.** The final operations transform a stabilizing
 exercise into continuity with the Highest Mundane Dharmas, the Path of Seeing,
 and subsequent Paths. This is stronger than a generic claim that breath calms
-the mind.
+consciousness.
 
 **Organon interpretation.** VAK 6.12 offers an extraordinary native pipeline of
 Practical Meaning. This is project synthesis, while the six operations and
@@ -371,7 +385,7 @@ Meaning emerges here neither from the word “breath” nor from sensation in
 isolation. It emerges through the ordered relations that connect elemental
 process, recollection, Prajñā, aggregate analysis, wholesome roots, and Path.
 This is a native Kośa model of how an empirical process becomes a vehicle of
-Mārga without being mistaken for an independently liberating object.
+Mārga without being mistaken for an independently liberating process.
 
 ## 10. OWL++ Seed
 
@@ -387,11 +401,13 @@ Class: Prajna
 Class: MeditativeGround
 Class: FiveGroundRange
 Class: EightGroundAlternative
-Class: CognitiveObject
+Class: CognitiveField
+Class: CognitiveCondition
 Class: WindProcess
-    SubClassOf: CognitiveObject
+    SubClassOf: CognitiveField
+    SubClassOf: CognitiveCondition
 Class: PracticeSupport
-Class: DesireDomainEmbodiment
+Class: DesireRealmEmbodiment
     SubClassOf: PracticeSupport
 Class: AttentionMode
 Class: TattvaManaskara
@@ -429,9 +445,13 @@ ObjectProperty: validOnGround
     Domain: Practice
     Range: MeditativeGround
 
-ObjectProperty: hasObjectRange
+ObjectProperty: hasCognitiveField
     Domain: Practice
-    Range: CognitiveObject
+    Range: CognitiveField
+
+ObjectProperty: hasCognitiveCondition
+    Domain: Practice
+    Range: CognitiveCondition
 
 ObjectProperty: hasSupport
     Domain: Practice
@@ -456,8 +476,9 @@ ObjectProperty: produces
 Assertion: BreathRecollection hasIntrinsicNature Prajna
 Assertion: BreathRecollection functionsThrough Recollection
 Assertion: BreathRecollection validOnGround FiveGroundRange
-Assertion: BreathRecollection hasObjectRange WindProcess
-Assertion: BreathRecollection hasSupport DesireDomainEmbodiment
+Assertion: BreathRecollection hasCognitiveField WindProcess
+Assertion: BreathRecollection hasCognitiveCondition WindProcess
+Assertion: BreathRecollection hasSupport DesireRealmEmbodiment
 Assertion: BreathRecollection usesAttentionMode TattvaManaskara
 
 Assertion: Counting precedes Following
@@ -480,7 +501,7 @@ AlternativeAssertion: BreathRecollection validOnGround EightGroundAlternative
 View: SixfoldBreathRecollectionPipeline
     Preserves: PracticeName, IntrinsicNature,
                FunctionalSupport, GroundRange,
-               ObjectRange, ExistentialSupport,
+               CognitiveField, ExistentialSupport,
                AttentionMode, OperationOrder,
                OperationOutput, ErrorType,
                DoctrinalAlternative, SourceAttribution,

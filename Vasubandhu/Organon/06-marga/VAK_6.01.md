@@ -19,14 +19,9 @@ are abandoned through seeing the truths and through cultivation. It now asks
 whether the Paths performing these two modes of abandonment are contaminated
 or uncontaminated.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kleśa-prahāṇam | ākhyātam | satya-darśana-bhāvanāt |
-dvi-vidhaḥ | bhāvanā-mārgaḥ | darśana-ākhyaḥ | tu | anāsravaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kleśa-prahāṇam` | nominative singular neuter compound | abandonment of the afflictions |
 | `ākhyātam` | nominative singular neuter past passive participle of `ā-√khyā` | has been declared or explained |
@@ -36,6 +31,11 @@ dvi-vidhaḥ | bhāvanā-mārgaḥ | darśana-ākhyaḥ | tu | anāsravaḥ
 | `darśana-ākhyaḥ` | nominative singular masculine | the Path called Seeing |
 | `tu` | contrastive particle | but, whereas |
 | `anāsravaḥ` | nominative singular masculine | without influx, uncontaminated |
+
+```text
+kleśa-prahāṇam | ākhyātam | satya-darśana-bhāvanāt |
+dvi-vidhaḥ | bhāvanā-mārgaḥ | darśana-ākhyaḥ | tu | anāsravaḥ
+```
 
 The Bhāṣya resolves the two forms of cultivation as `laukika` and
 `lokottara`, mundane and supramundane. The contrastive `tu` excludes the same
@@ -85,15 +85,10 @@ interchangeable outside the present argument.
 
 ### Bhāṣya-informed study translation
 
-> Afflictions have been explained as abandoned either through seeing the
-> truths or through cultivation. The Path of Cultivation is of two kinds,
-> mundane and supramundane. The Path of Seeing, however, is exclusively
-> supramundane and uncontaminated, because it functions as counteragent to all
-> three domains and abandons at once the nine kinds of affliction abandoned
-> through seeing—an efficacy no mundane Path possesses.
-
-The two grounds of seeing's status—three-domain counteraction and its single
-decisive abandonment—are supplied explicitly by the Bhāṣya.
+> The abandonment of afflictions has been explained through seeing the truths
+> and through cultivation. The Path of Cultivation is twofold, mundane and
+> supramundane; the Path called Seeing, however, is without influx and solely
+> supramundane.
 
 ## 6. Philosophical Translation
 
@@ -105,8 +100,11 @@ decisive abandonment—are supplied explicitly by the Bhāṣya.
 > Path. A Path is thus determined here not by the extraordinariness of an
 > experience but by the scope and efficacy of its counteraction.
 
-The chapter begins from an operational question: which cognition has the
-power to abandon which afflictive structure?
+The chapter begins from an operational question: which Path has the power to
+abandon which afflictive structure? The Understanding can determine this Path
+as a conditioned Concept through its operations and their limits. The Pure
+Idea of practical knowing belongs to the later Jñāna:Samāpatti inquiry; this
+is the Organon transition, not a predicate supplied by this kārikā.
 
 ## 7. Technical Vocabulary
 
@@ -147,6 +145,12 @@ types.
 
 The kārikā's predicate of the Path of Seeing. It indicates that the Path is
 not governed by the influx-structure it opposes.
+
+**`Sāsrava` — with influx, contaminated**
+
+The Bhāṣya's explicit alternative in the question whether the two Paths are
+`anāsrava` or `sāsrava`. The answer assigns an uncontaminated status to the
+Path of Seeing while allowing a mundane form of cultivation.
 
 **`Laukika` — mundane**
 
@@ -236,7 +240,10 @@ unexplained elevation of consciousness but by its counteractive reach.
 mundane Path lacks the power to abandon the nine seeing-abandonable types at
 once. The distinction is operational rather than honorific.
 
-**Organon interpretation.** A later Dataset should model Path-status through
+**Organon interpretation.** Path is the conditioned Concept at the terminus
+of Anuśaya:Mārga: its determinate efficacy is intelligible to the
+Understanding. The subsequent Jñāna:Samāpatti movement takes up practical
+knowing and truth as Idea. A later Dataset should model Path-status through
 typed efficacy assertions:
 
 ```text

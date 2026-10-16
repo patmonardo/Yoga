@@ -1,92 +1,136 @@
-# VAK_6.13 Bhāṣya — The Breaths Typed as Object
+# VAK_6.13 Bhāṣya — The Breaths Classified
 
 ## 1. Kārikā Anchor
 
 > ānāpānau yataḥ kāyaḥ sattvākhyāv anupāttakau |
 > naiḥṣyandikau nādhareṇa lakṣyete manasā ca tau || 6.13 ||
 
-Literal (from the kārikā study):
+> Inhalation and exhalation share the body's ground and are counted within a
+> sentient continuum, yet remain unappropriated because they are separable
+> from the faculties. They are products of homogeneous flow. Consciousness on
+> their own or a higher ground can discern them; consciousness on a lower
+> ground cannot.
 
-> Inhalation and exhalation belong to whatever level the body [belongs to].
-> They are designated within a sentient being, are unappropriated, and are
-> homogeneous-flow products. Those two are not apprehended by a lower-level
-> mind [but by cognition of their own or a higher level].
+The Bhāṣya gives the conditions under which breathing occurs and explains
+how it can belong to a sentient continuum while remaining unappropriated.
 
-Kārikā study: [`VAK_6.13.md`](./VAK_6.13.md). Next: 6.14, the two entry-mouths closed.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+tatra punarveditavyau
 
-> tatra punar veditavyau / ānāpānau yataḥ kāyaḥ /
-> yadbhūmiko hi kāyaḥ tadbhūmikāv etau / kāyaikadeśatvāt /
-> kāyacittaviśeṣasaṃniśritā āśvāsapraśvāsā vartante /
-> ārūpyakalalādigatānām abhāvāt acitta-caturthadhyānasamāpannānāṃ ca /
-> yadi hi kāyaḥ śuṣiro bhavati āśvāsapraśvāsabhūmikaṃ ca cittaṃ saṃmukhībhūtam evaṃ te vartante /
-> jāyamānasya caturthadhyānād vyuttiṣṭhamānasya ca praviśanti /
-> mriyamāṇasya caturthaṃ ca dhyānaṃ samāpadyamānasya niṣkrāmanti /
-> etau cānāpānau sattvākhyau / nāsattvasaṃkhyātau /
-> anupāttakau / indriyavinirbhāgitvāt /
-> naiḥṣyandikau / naupacayika-vipākajau /
-> … chinnānāṃ punaḥ pratisaṃdhānāc ca /
-> nādhareṇa lakṣyete manasā ca tau // 6.13 //
-> svabhūmy-uparibhūmikena ca tayoś cittenopalakṣaṇam / nāvareṇa … /
+     ānāpātau yataḥ kāyaḥ /
 
-**Witness.** Pradhan 340|15–341|06. Voice: Vasubandhu, classification. Last clause
-on īryāpathika / nairmāṇika left open pending collation. 6.14 at 341|07.
+yadbhūmiko hi kāyaḥ tadbhūmikāvetai /
+kāyaikadeśatvāt /
+
+kāyacittaviśeṣasaṃniśritā āśvāsapraśvāsā vartante /
+
+ārupyakalalādigatānāmabhāvāt acittacaturthadhyānasamāpannānāṃ ca /
+
+yadi hi kāyaḥ śuṣiro bhavati āśvāsapraśvāsabhūmikaṃ ca cittaṃ saṃmukhībhūtamevaṃ te varttante /
+
+jāyamānasya caturthadhyānādvyuttiṣṭhamānasya ca praviśanti bhiyamāṇasya caturthaṃ ca dhyānaṃ samāpadyamānasya niṣkrāmanti /
+
+etau cānāpānau /
+
+     sattvākhyau
+
+nāsattvasaṃkhyātau /
+
+     anupāttakau /
+
+indriyavinirbhāgitvāt /
+
+     naiḥṣyandikau
+
+naupacayikavipākajau /
+kāyopacayanānupacayāt chhinnānāṃ punaḥ pratisaṃdhānācca /
+
+nahyetadvipākarūpasyāsti /
+
+     nādhareṇa lakṣayete manasā ca tau // VAkK_6.13 //
+
+svabhūmyuparibhūmikena ca tayościttenopalakṣaṇam /
+nāvareṇeryāpathika nairmāṇikena /
+```
+
+This is the complete running unit at [340|15–341|06] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line breaks
+are editorial. The forms `bhiyamāṇasya`, `chhinnānāṃ`, `lakṣayete`, and the
+compressed final `nāvareṇeryāpathika nairmāṇikena` remain as transmitted.
+The latter clause is not silently resolved; the next unit starts at [341|07].
 
 ## 3. Continuous Conventional Translation
 
-> These two must be understood further. Inhalation and exhalation belong to
-> whatever level the body belongs to, because they are a part of the body. They
-> occur depending on a particular condition of body and citta. They are absent
-> for those in the formless domain, in the early embryo and like states, and for
-> those absorbed without citta or in fourth dhyāna. When the body is open enough
-> and citta of a breathing-level is present, they occur. They enter for one being
-> born and one rising from fourth dhyāna; they leave for one dying and one
-> entering fourth dhyāna.
->
-> These two are counted within a sentient being, not among what is not so
-> counted. They are unappropriated, because separable from the faculties. They
-> are homogeneous-flow products, not products of bodily increase or of ripening:
-> they do not increase simply as the body increases, and after a break they can
-> join again. That last is not a mark of ripening-born form.
->
-> They are not discerned by a lower-level mind. Cognition of their own or a
-> higher level discerns them, not a lower one.
+The two breaths must be understood further. Inhalation and exhalation belong
+to the same ground as the body, because they are parts of it. They occur in
+dependence on a specific configuration of body and consciousness (`citta`).
+They are absent in the formless realm, the early embryonic state and similar
+conditions, and in states without consciousness or in fourth dhyāna. Breathing
+occurs when the body has the requisite openness and consciousness belonging to
+a ground where breathing occurs is present. The breaths enter at birth and on
+emerging from fourth dhyāna; they leave at death and on entering fourth
+dhyāna. The transmitted word for the dying person is uneven, but the sequence
+fixes the local sense.
+
+The two are counted within a sentient being, rather than among what is not so
+counted. They remain unappropriated because they can be separated from the
+faculties. They are products of homogeneous flow, not products of bodily
+accumulation or karmic maturation: bodily increase does not entail a matching
+increase in breathing, and breathing can resume after interruption. The prose
+says that this resumption does not belong to maturation-born form.
+
+The breaths are not discerned by a lower-ground mind. The commentary states
+the positive range: consciousness of their own or a higher ground discerns
+them. The final transmitted clause also mentions `īryāpathika` and
+`nairmāṇika` after the lower-ground exclusion; its syntax remains unsettled
+in this witness.
 
 ## 4. Movement of the Commentary
 
-```text
-same bhūmi as body (part of body)
-occurs only if body + citta of a breathing-level
-in the continuum, not appropriated as indriya
-flow-product, not heap, not vipāka
-same-or-higher cognition only
-```
+The commentary first specifies the breath's ground from its bodily relation,
+then gives the bodily and conscious conditions required for its occurrence. It
+places breathing within a sentient continuum while denying faculty
+appropriation. Two causal exclusions clarify its homogeneous-flow status. The
+closing comparison determines which ground of consciousness can discern the
+breaths, with one compressed final clause left for textual review.
 
-## 5. “My Breath” Is Not a Type
+## 5. Translation and Organon Study
 
-Counted in the living continuum ≠ appropriated faculty. Present body ≠ always
-breathing. Lower bhūmi cannot take the object. That is the medicine: type the
-object before you claim the knowing.
+**Translation decisions.** `Yataḥ kāyaḥ` is expanded by the prose to a
+same-ground relation between body and breath. `Sattvākhyau` says how the
+breaths are counted; `anupāttakau` says that they are separable from the
+faculties, so the predicates are compatible. `Naiḥṣyandikau` gives their
+causal type. `Nādhareṇa` negates apprehension by a lower ground; the prose
+adds apprehension by consciousness of their own or a higher ground. The
+ambiguous `īryāpathika` and `nairmāṇika` phrase remains unresolved rather
+than being made a stronger doctrinal claim.
 
-## 6. Five Axes
+**Organon determination.** Adequate knowing of this bodily process requires
+separate determinations of ground, occurrence conditions, continuum status,
+appropriation, causal type, and cognitive access. A future Feature Grammar
+can expose these as independent features on the Model Reflective Surface,
+while a LogicFrame can ask which combinations permit breathing or its
+discernment. This is a project formalization of the source's relations.
 
-| axis | determination |
+## 6. Classification of the Breaths
+
+| Axis | Determination |
 |---|---|
-| level | same as body |
-| continuum | sattvākhya |
-| appropriation | anupāttaka |
-| cause | naiḥṣyandika |
-| access | own or higher bhūmi |
+| Ground | Same as the body |
+| Occurrence | Appropriate body and consciousness configuration |
+| Continuum | Counted within a sentient being |
+| Appropriation | Unappropriated; separable from faculties |
+| Causal type | Homogeneous flow |
+| Cognitive access | Discerned by consciousness on their own or a higher ground |
 
-## 7. The Bhāṣya's Decisions for the Kārikā
+The breath's membership in embodied life does not make it an appropriated
+faculty. Its presence is conditional, rather than automatic in every bodily
+state.
 
-- `yataḥ kāyaḥ` = yadbhūmikaḥ kāyas tadbhūmikau;
-- `anupāttaka` reasoned by separability from indriyas;
-- `nādhareṇa` filled by svabhūmi / uparibhūmi.
+## 7. Review Status
 
-## 8. Review Status
-
-Upgrade against kārikā Literal, first-pass parent, running source 340|15–341|06.
-Verse-English copied from [`VAK_6.13.md`](./VAK_6.13.md) §5 Literal. Provisional.
-Next: 6.14.
+Provisional. The complete unit was checked against the running witness at
+[340|15–341|06]. Its final compressed clause remains open for textual review.
+The kārikā anchor exactly matches the study translation.

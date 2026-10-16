@@ -5,99 +5,209 @@
 > ānāpānasmṛtiḥ prajñā pañcabhūr vāyur-gocarā |
 > kāmāśrayā na bāhyānāṃ ṣaḍvidhā gaṇanādibhiḥ || 6.12 ||
 
-Literal (from the kārikā study):
+> Recollection of breathing is Prajñā by nature, though named for the
+> recollection that sustains it. It occurs on five grounds, ranges over breath
+> as wind, and rests on a desire-realm basis. It does not belong to outsiders
+> without the requisite teaching. Its six modes begin with counting and end
+> in purification.
 
-> Recollection of inhalation and exhalation is Prajñā; it belongs to five
-> grounds and has wind as its cognitive range. It has a desire-domain support,
-> does not belong to outsiders, and is sixfold through counting and the other
-> operations.
+The Bhāṣya distinguishes nature, name, ground, cognitive field, and basis,
+then develops the six modes through which this practice becomes complete.
 
-Kārikā study: [`VAK_6.12.md`](./VAK_6.12.md). Next: 6.13, the winds themselves.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+ānāpānasmṛtiḥ prajñā pañcabhūrvāyurgīcarā /
 
-> ānāpānasmṛtiḥ prajñā pañcabhūr vāyurgocarā / kāmāśrayā /
-> ānanaṃ āna āśvāso yo vāyuḥ praviśati / apānam apānaḥ praśvāso yo vāyuḥ niṣkrāmati /
-> tayoḥ smṛtir ānāpānasmṛtiḥ / saiva prajñāsvabhāvā /
-> smṛtivacanaṃ tu smṛtyupasthānavat tad-balādhāna-vṛttitvāt /
-> pañcasu bhūmiṣu … kāmadhātau ca upekṣāsaṃprayogitvāt /
-> ye tu mauleṣv api dhyāneṣu … aṣṭabhūmikā /
-> vāyvālambanā caiṣā kāmadhātvāśrayā /
-> devamanuṣyeṣu prāyogikī vairāgyalābhikī ca / tattvamanaskāraś caiṣā /
-> na bāhyānām / upadeśābhāvāt / svayaṃ ca sūkṣmadharmānabhisaṃbodhāt /
-> ṣaḍvidhā gaṇanādibhiḥ // 6.12 //
-> ṣaṭkāraṇayuktā caiṣā paripūrṇā bhavati /
-> gaṇanayā 'nugamena sthāpanayā upalakṣaṇayā vivartena pariśuddhyā ca /
+     kāmāśrayā
 
-**Witness.** Pradhan 339|05–340|14. Voices: Vasubandhu; alternative eight grounds;
-apare on vivarta/pariśuddhi. Faults not adopted (`gīcarā`, `pariśūddhacyā`).
-6.13 begins 340|15.
+ānanamāna āśvāso yo vāyuḥ praviśati /
+
+apānanamapānaḥ praśvāso yo vāyuḥ niṣkrāmati /
+
+tayoḥ smṛtirānāpānasmṛtiḥ /
+saiva prajñāsvabhāvā /
+
+smṛtivacanaṃ tu smṛtyupasthānavattadvalādhānavṛttitvāt /
+
+pañcasu bhūmisu triṣu sāmantakeṣu dhyānāntare kāmadhātau copekṣāsaṃprayogitvāt /
+
+vitarkānuguṇatvāt kila lsukhaduḥkhayostatpratipakṣasya tābhyāmasaṃprayogaḥ /
+
+sukhasaumanasyayoścāvadhānaparipanthitvāt tasyāścāvadhāne sādhyatvāditi /
+
+ye tu mauleṣvapi dhyāneṣu samāpannasyopekṣāmicchanti neṣāmaṣṭabhūmikā /
+
+pareṇāśvāsapraśvāsānamabhūmitvāt /
+
+vāyvālambanā caiṣā kāmadhātvāśrayā /
+
+devamanuṣyeṣu prāyogikī vairāgyalābhiko ca /
+
+tatvamanaskāraścaiṣā /
+
+idaṃ dharmāṇāmeva /
+
+     na bāhyānām
+
+upadeśābhāvāt /
+svayaṃ ca sūkṣmadharmānabhisaṃbodhāt /
+sā ceyaṃ
+
+     ṣaḍvidhā gaṇanādibhiḥ // VAkK_6.12 //
+
+ṣaṭkāraṇayuktā caiṣā paripūrṇā bhavati /
+
+gaṇanayā 'nugamena sthāpanayā upalakṣaṇayā vivarttena pariśūddhacyā ca /
+
+tatra ca gaṇanā nāma āśvāsapraśvāseṣu cittaṃ dattvā 'nabhisamskāreṇa kāyaṃ cittaṃ cādhyupekṣya smṛtimātreṇa gaṇayatyekaṃ dvau yāvaddaśa /
+
+cittābhisaṃkṣepa vikṣepabhayānnālpavahutarā /
+
+tasyāṃ tu trayo doṣāḥ /
+
+ūnagaṇanā yadi dvāvekaṃ gṛhlāti /
+
+adhikagaṇanā yadyekaṃ dvāviti /
+
+saṃkaro yadyāśvāsaṃ praśvāsato gṛhlāti viparyayādvā /
+
+ato 'nyathā samyaggaṇanā /
+
+antaravikṣepe punarādito gaṇayitavyaṃ tāvadyāvatsamādhi labhate /
+
+anugamo nāma anabhisaṃskāreṇāśvāsapraśvāsānāṃ gatimanugacchati /
+
+kiyaddūramete praviśanti vā niṣkrāmanti vā kimete sarvaśarīravyāopina ekadeśacāriṇa iti /
+
+tān praviśataḥ kaṇṭhahṛdayanābhikaṭyurujaṅghāpraveśakram4ṇa yāvat pādāvanugacchati /
+
+niṣkrāmato vitastivyāmāntaraṃ yāvadvāyumaṇḍalaṃ vairambhāśca vāyava ityapare /
+
+tadetattatvamanasikāratvānna yuktam /
+
+sthāpanā nāma nāsikāgre yāvat pādanṅguṣṭhe sthitāṃ paśyati /
+
+maṇisūtravat /
+
+kimanugrāhakā ete upadhātakāḥ śītā uṣṇā iti /
+
+upalakṣaṇā nāma naite kevalā vāyava eva /
+
+catvāryetāni mahābhūtāni mahābhūtābhinirvṛttamupādāyarūpaṃ tadāśritāścittacaittā iti pañcaskandhānupalakṣayati /
+
+vivarto nāma vāyvālambanāṃ vṛddhiṃ vivarttyottareṣu kuśalamūleṣu saṃniyojanaṃ yāvadagradharmeṣu /
+
+pariśuddhirdarśanamārgādiṣvavatāraḥ /
+
+smṛtyupasthānādivajropamasamādhyantā vivarta ityapare /
+kṣayajñānādiśuddhiriti /
+
+     "gaṇanānugamaḥ sthānaṃ lakṣaṇārthavivarttnā
+     pariśuddhiśca ṣoḍheyamānāpānasmṛtirmatā" iti saṃgrahaślokāḥ /
+```
+
+This is the complete running unit at [339|05–340|14] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line breaks
+are editorial. Its forms `gīcarā`, `lsukhaduḥkhayoḥ`, `pariśūddhacyā`,
+`praveśakram4ṇa`, and other uneven readings remain as transmitted. The
+attributed alternative (`apare`) and the closing summary verse are included.
+The next unit begins at [340|15].
 
 ## 3. Continuous Conventional Translation
 
-> Inhalation is the wind that enters. Exhalation is the wind that leaves.
-> Recollection of those two is recollection of inhalation and exhalation. That
-> same thing is Prajñā by own-nature. It is called recollection as the
-> establishments of recollection are: it functions by taking the strength of
-> recollection.
->
-> On five grounds: three neighboring concentrations, the intermediate dhyāna,
-> and the desire-domain — because it is joined with equanimity. Those who want
-> equanimity even in the principal dhyānas make it eight-grounded. Above that
-> range there is no inhalation and exhalation. Object-support is wind; support
-> is the desire-domain. Among gods and humans it is produced by application or
-> gained by detachment. It is attention to what is so.
->
-> This belongs to those of the Dharma, not to outsiders: no instruction, and they
-> do not wake by themselves to the subtle dharmas. It is complete when joined to
-> six causes: counting, following, establishing, discerning, turning,
-> purification.
->
-> Counting: set citta on in-breath and out-breath, leave body and citta unforced,
-> count by recollection alone one, two, up to ten. Three faults: two as one; one
-> as two; mixing in-breath with out-breath or the reverse. If attention breaks,
-> start again until samādhi is got. Following: track the course without forcing.
-> Some send it through the whole body and out into the great winds; that does not
-> fit, because this is attention to what is so. Establishing: see it stationed
-> from the nose-tip to the toe, like a thread of jewels. Discerning: these are
-> not wind only — four great elements, derived form, citta and caittas there:
-> the five aggregates. Turning: turn the growth founded on the wind-object onto
-> the higher wholesome roots, up to the highest mundane dharmas. Purification:
-> entry into the Path of Seeing and what follows.
+The verse calls recollection of inhalation and exhalation Prajñā, occurring on
+five grounds, with wind as its cognitive field and a desire-realm basis.
+Inhalation is wind entering; exhalation is wind leaving. Recollection of the
+two is called recollection of breathing, yet its intrinsic nature is Prajñā.
+It is called recollection, as with the establishments of recollection, because
+its activity draws on recollection's power.
+
+The five grounds are the three neighboring concentrations, the intermediate
+concentration, and the desire-realm, because the practice is associated with
+equanimity. The prose connects this with its counteractive relation to
+discursive thought and with conditions for attention; that sentence is
+textually uneven. Those who admit equanimity in the principal dhyānas instead
+make it eight-grounded. Beyond that range, inhalation and exhalation are not
+grounded. Wind is its cognitive Condition (`ālambana`); the desire-realm is its
+basis (`āśraya`). It occurs among gods and humans and may be developed through
+application or gained through detachment. It is attention according to
+actuality (`tattva-manaskāra`). The practice belongs to those of the Dharma,
+not outsiders, who lack instruction and do not themselves awaken to the subtle
+dharmas.
+
+The verse calls it sixfold beginning with counting. The six factors that make
+it complete are counting, following, establishing, discerning, turning, and
+purification. In counting, one attends to inhalations and exhalations while
+leaving body and consciousness (`citta`) unforced, counting by recollection
+alone from one to ten. The count is not shorter or longer, lest consciousness
+be scattered. Its three faults are counting two as one, counting one as two,
+and mistaking inhalation for exhalation or the reverse. Correct counting avoids
+these errors. If attention wanders, one starts again until concentration is
+attained.
+
+Following tracks the breath's course without forcing it, asking how far it
+enters or leaves and whether it moves through the whole body or a part. An
+attributed account follows it from throat through successive bodily regions
+to the feet, then outward to distant winds. The commentary rejects that
+extension as incompatible with attention according to actuality.
+Establishing observes the breath as stationed from the nose-tip to the big
+toe, like jewels on a thread, while considering whether it helps or harms and
+whether it is cold or warm.
+
+Discerning recognizes that these are more than wind alone: the four great
+elements, derivative material form, and the consciousness and mental factors
+that depend on them disclose the five aggregates. Turning redirects the
+development that used wind as its Condition toward higher wholesome roots, as
+far as the highest mundane dharmas. Purification is entry into the Path of
+Seeing and subsequent Paths. Others extend turning from the establishments
+of recollection through the diamond-like concentration, and reserve
+purification for knowledge of exhaustion and what follows. The unit closes
+with a summary verse naming the six modes.
 
 ## 4. Movement of the Commentary
 
-```text
-name smṛti / nature Prajñā
-vāyu = gocara; kāmadhātu = āśraya; five grounds (eight reported)
-not outsiders
-six operations → darśana-mārga
-```
+The commentary first explains why a practice named for recollection has
+Prajñā as its nature. It distinguishes five grounds from an attributed
+eight-ground alternative, then separates wind as cognitive field and Condition
+from the desire-realm basis. It specifies practitioners and the grounds of the
+exclusion of outsiders. The second half unfolds the six modes, their
+operational checks, and an alternative allocation of the final two stages.
 
-## 5. Breath Is Not the Path
+## 5. Translation and Organon Study
 
-Wind is the range. Prajñā is the nature. Purification is Path-entry, not calmer
-air. `Tattva-manaskāra` cuts the cosmic-breath story.
+**Translation decisions.** `Smṛti` names a supporting power, while `prajñā`
+names intrinsic nature. `Gocara` gives a cognitive field; the prose's
+`ālambana` specifies the cognitive Condition, and `āśraya` names the
+supporting basis. The anchor's five grounds follow the verse's standard count;
+the eight-ground position is attributed in the prose. `Na bāhyānām` concerns
+this taught practice, not whether outsiders breathe. `Gaṇanādibhiḥ`
+announces six modes, whose names and ordered account belong to the Bhāṣya.
 
-## 6. Six Operations
+**Organon determination.** The source offers a structured transition from a
+repeatable bodily event to discriminative knowing. On a future reflective
+surface, name, nature, field, basis, ground, instruction, mode, and outcome
+should remain separate features. A later LogicFrame can express how counting
+supports following, discerning, and Path entry. This is a project
+formalization of the source's sequence.
 
-| | work |
+## 6. Six Modes of Completion
+
+| Mode | Immediate work |
 |---|---|
-| gaṇanā | sequence |
-| anugama | actual course |
-| sthāpanā | station |
-| upalakṣaṇā | five aggregates |
-| vivarta | higher kuśala-mūlas |
-| pariśuddhi | Seeing-path and after |
+| Counting (`gaṇanā`) | Maintain a correct one-to-ten sequence without forcing body or consciousness |
+| Following (`anugama`) | Track the actual course of breath |
+| Establishing (`sthāpanā`) | Steady attention at a bodily location |
+| Discerning (`upalakṣaṇā`) | Recognize elements, derivative form, and the five aggregates |
+| Turning (`vivarta`) | Connect the practice to higher wholesome roots |
+| Purification (`pariśuddhi`) | Enter the Path of Seeing and what follows |
 
-## 7. The Bhāṣya's Decisions for the Kārikā
+The Bhāṣya reports another allocation for turning and purification, extending
+them farther along the Path. The two accounts remain attributed separately.
 
-- `prajñā` = svabhāva; `smṛti` = how it runs;
-- five grounds standard; eight attributed;
-- six names filled as an ordered completion, not six hobbies.
+## 7. Review Status
 
-## 8. Review Status
-
-Upgrade against kārikā Literal, first-pass parent, running source 339|05–340|14.
-Verse-English copied from [`VAK_6.12.md`](./VAK_6.12.md) §5 Literal. Provisional.
-Next: 6.13.
+Provisional. The complete unit was checked against the running witness at
+[339|05–340|14], including the closing summary verse and the alternative
+account of the final two modes. The kārikā anchor exactly matches the study
+translation.

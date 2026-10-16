@@ -17,23 +17,23 @@ kāya-vic-citta-dharmāṇāṃ dvi-lakṣaṇa-parīkṣaṇāt || 6.14 ||
 VAK 6.14 marks the transition from the two preparatory entrance-practices to
 systematic examination. Having obtained samādhi and accomplished śamatha, the
 practitioner cultivates the four establishments of recollection in order to
-complete vipaśyanā, examining body, feeling, citta, and dharmas according to
+complete vipaśyanā, examining body, feeling, consciousness (`citta`), and dharmas according to
 their intrinsic and universal determinations.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
+
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `niṣpanna-śamathaḥ` | nominative singular masculine compound | one whose śamatha has been accomplished |
+| `kuryāt` | third-person singular optative active of `√kṛ` | should perform or cultivate |
+| `smṛti-upasthāna-bhāvanām` | accusative singular feminine compound | cultivation of the establishments of recollection |
+| `kāya-vit-citta-dharmāṇām` | genitive plural compound | of body, feeling, consciousness, and dharmas |
+| `dvi-lakṣaṇa-parīkṣaṇāt` | ablative singular compound | through examination according to two determinations |
 
 ```text
 niṣpanna-śamathaḥ | kuryāt | smṛti-upasthāna-bhāvanām |
 kāya-vit-citta-dharmāṇām | dvi-lakṣaṇa-parīkṣaṇāt
 ```
-
-| Form | Morphology | Contextual sense |
-|---|---|---|
-| `niṣpanna-śamathaḥ` | nominative singular masculine compound | one whose śamatha has been accomplished |
-| `kuryāt` | third-person singular optative active of `√kṛ` | should perform or cultivate |
-| `smṛti-upasthāna-bhāvanām` | accusative singular feminine compound | cultivation of the establishments of recollection |
-| `kāya-vit-citta-dharmāṇām` | genitive plural compound | of body, feeling, citta, and dharmas |
-| `dvi-lakṣaṇa-parīkṣaṇāt` | ablative singular compound | through examination according to two determinations |
 
 The compressed `vit` member is resolved by the Bhāṣya as `vedanā`, feeling.
 The prose explicitly enumerates the four fields and identifies the two
@@ -71,7 +71,7 @@ cittasya
 dharmāṇām
     dvilakṣaṇaparīkṣaṇāt
 
-through examining body, feeling, citta, and dharmas
+through examining body, feeling, consciousness, and dharmas
 according to two determinations
 ```
 
@@ -85,23 +85,44 @@ sāmānyalakṣaṇa
     the universal determination under which it falls
 ```
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PRACTITIONER[PREREQUISITE=accomplished-śamatha,
+             OPERATION=smṛtyupasthāna-bhāvanā,
+             PURPOSE=complete-vipaśyanā]
+  ← niṣpanna-śamathaḥ + kuryāt + smṛtyupasthāna-bhāvanām
+EXAMINATION[FIELD=body|feeling|consciousness|dharmas,
+            MARK=own+common]
+  ← kāya-vic-citta-dharmāṇām + dvi-lakṣaṇa-parīkṣaṇāt
+COMMON-MARK[impermanence→conditioned,
+            suffering→with-influx,
+            emptiness+not-self→all-dharmas]
+  ← [Bhāṣya's scoped distribution]
+```
+
+The verse supplies the optative instruction and two-mark examination. The
+Bhāṣya specifies the purpose and each common mark's range; the feature labels
+model that structure for later reflection.
+
 ## 5. Translation
 
 ### Literal Translation
 
 > One whose śamatha has been accomplished should cultivate the establishments
-> of recollection through examination of body, feeling, citta, and dharmas
+> of recollection through examination of body, feeling, consciousness, and dharmas
 > according to two determinations.
 
 ### Bhāṣya-informed study translation
 
-> Having obtained samādhi through cultivation of the unattractive or
-> recollection of breathing and thereby accomplished śamatha, the practitioner
-> should cultivate the four establishments of recollection in order to complete
-> vipaśyanā. Body, feeling, citta, and dharmas are each examined according to
-> their intrinsic nature and their universal determination: impermanence for
-> conditioned dharmas, suffering for contaminated dharmas, and emptiness and
-> not-self for all dharmas.
+> After the two entry practices yield concentration and accomplished śamatha,
+> the practitioner cultivates the four establishments of recollection to
+> complete vipaśyanā. Body, feeling, consciousness, and dharmas are examined
+> by their own characteristics and by the common characteristics that apply:
+> impermanence of the conditioned, suffering of the contaminated, and
+> emptiness and not-self of all dharmas.
+
+### Translation note
 
 The two entrance-practices, samādhi, vipaśyanā as telos, and the exact
 distribution of universal determinations are supplied by the Bhāṣya.
@@ -110,7 +131,7 @@ distribution of universal determinations are supplied by the Bhāṣya.
 
 > Stabilization establishes a field in which disciplined examination can
 > occur; it does not complete that examination. Recollection now preserves
-> body, feeling, citta, and dharmas as distinct fields while Prajñā determines
+> body, feeling, consciousness, and dharmas as distinct fields while Prajñā determines
 > each both in its own specificity and under the universal law appropriate to
 > its range. The Path therefore neither dissolves particulars into abstract
 > universality nor isolates them as unrelated data. Vipaśyanā is completed
@@ -120,7 +141,7 @@ The transition is:
 
 ```text
 stable cognitive field
-    → differentiated object-fields
+    → differentiated cognitive fields
     → intrinsic determination
     → scoped universal determination
     → completed vipaśyanā
@@ -149,7 +170,7 @@ identical.
 **`Smṛtyupasthāna` — establishment of recollection**
 
 The disciplined establishment of recollection in relation to four fields:
-body, feeling, citta, and dharmas. The intrinsic nature of these establishments
+body, feeling, consciousness, and dharmas. The intrinsic nature of these establishments
 is taken up in 6.15; this verse determines their cultivation-method.
 
 **`Smṛtyupasthāna-bhāvanā` — cultivation of the establishments of recollection**
@@ -210,9 +231,9 @@ The second field, compressed in the kārikā compound as `vit` and explicitly
 named in the Bhāṣya. It must be examined both as feeling in its specificity and
 under the universal determinations appropriate to its status.
 
-**`Citta` — cognition**
+**`Citta` — consciousness**
 
-The third field. Citta is made an object of disciplined examination rather
+The third field. Consciousness is made a field of disciplined examination rather
 than assumed as an unexamined observer standing outside the field.
 
 **`Dharma` — dharmas or determinations**
@@ -295,7 +316,7 @@ AND Sees(person, Body, MomentByMoment)
 be completed through another operation.
 
 **The Path returns to the empirical field.** Having stabilized cognition, the
-practitioner does not abandon body, feeling, citta, and dharmas. These become
+practitioner does not abandon body, feeling, consciousness, and dharmas. These become
 the differentiated content of liberating examination.
 
 **Intrinsic and universal determination are reciprocal requirements.** Without
@@ -308,9 +329,9 @@ would erase the 6.03 distinction concerning the Path. The Bhāṣya instead says
 conditioned dharmas are impermanent, contaminated dharmas are suffering, and
 all dharmas are empty and not-self.
 
-**Citta belongs within the examined field.** The structure does not posit an
-unexamined knower outside every determination. Citta itself is one of the four
-objects whose intrinsic and universal characteristics must be discriminated.
+**Consciousness belongs within the examined field.** The structure does not posit an
+unexamined knower outside every determination. Consciousness (`citta`) itself is one of the four
+fields whose intrinsic and universal characteristics must be discriminated.
 
 **Organon interpretation.** VAK 6.14 gives the first explicit two-level
 semantic examination of the stabilized Path-field. This is project synthesis:

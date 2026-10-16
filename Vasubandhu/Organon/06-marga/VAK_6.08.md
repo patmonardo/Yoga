@@ -17,24 +17,24 @@ mamāhaṃkāra-vastv-icchā tat-kālātyanta-śāntaye || 6.8 ||
 VAK 6.08 completes the four noble lineages introduced in 6.07. The first three
 provide a bounded livelihood; the fourth supplies the work of abandonment and
 cultivation. Together they counter four productions of thirst and distinguish
-present pacification of desire for objects made “mine” from final pacification
+present pacification of desire for what is made “mine” from final pacification
 of desire centered on both “mine” and “I.”
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-karmāntena | tribhiḥ | vṛttiḥ | tṛṣṇā-utpāda-vipakṣataḥ |
-mama-ahaṃkāra-vastu-icchā | tat-kāla-atyanta-śāntaye
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `karmāntena` | instrumental singular masculine/neuter | by the work; through the fourth lineage as work |
 | `tribhiḥ` | instrumental plural | by the three [noble lineages] |
 | `vṛttiḥ` | nominative singular feminine | livelihood, maintenance |
 | `tṛṣṇā-utpāda-vipakṣataḥ` | ablative in adverbial causal use | because of being counterforces to productions of thirst |
-| `mama-ahaṃkāra-vastu-icchā` | compound with nominative singular feminine head | desire concerning objects of mine-making and I-making |
+| `mama-ahaṃkāra-vastu-icchā` | compound with nominative singular feminine head | desire concerning the bases of mine-making and I-making |
 | `tat-kāla-atyanta-śāntaye` | dative singular compound | for pacification at the present time and final pacification |
+
+```text
+karmāntena | tribhiḥ | vṛttiḥ | tṛṣṇā-utpāda-vipakṣataḥ |
+mama-ahaṃkāra-vastu-icchā | tat-kāla-atyanta-śāntaye
+```
 
 The opening is compressed and is resolved by the Bhāṣya as a distributive
 three-plus-one construction:
@@ -48,7 +48,7 @@ tribhiḥ vṛttiḥ
 ```
 
 The second half likewise receives a distributive explanation: the first three
-produce present pacification of desire toward mine-making objects; the fourth
+produce present pacification of desire toward bases of mine-making; the fourth
 aims at final pacification of both mine-making and I-making desire.
 
 ## 4. Grammar
@@ -97,8 +97,26 @@ atyanta-śāntaye
 ```
 
 The Bhāṣya controls the distribution. The first three presently pacify desire
-for objects of mine-making; the fourth finally pacifies desire directed toward
+for bases of mine-making; the fourth finally pacifies desire directed toward
 both mine-making and I-making.
+
+**Future Feature Grammar sketch (not executable):**
+
+```text
+LINEAGE[COUNT=three, FUNCTION=livelihood]
+  ← tribhiḥ + vṛttiḥ
+LINEAGE[COUNT=one, ORDINAL=fourth, FUNCTION=work]
+  ← karmāntena + [caturthena supplied by Bhāṣya]
+COUNTERFORCE[COUNT=four, TARGET=thirst-production]
+  ← tṛṣṇotpāda-vipakṣataḥ
+PACIFICATION[TIME=present, BASIS=mine-making]
+  ← tat-kāla-śāntaye + [trayaḥ supplied by Bhāṣya]
+PACIFICATION[EXTENT=final, BASIS=mine-making+I-making]
+  ← atyanta-śāntaye + [caturthaḥ supplied by Bhāṣya]
+```
+
+The feature assignments express the prose's resolution of ellipsis and scope;
+they are not an executable grammar or source terminology.
 
 ## 5. Translation
 
@@ -106,21 +124,23 @@ both mine-making and I-making.
 
 > Livelihood is by the three, and work by [the fourth], because they are
 > counterforces to productions of thirst. [They are prescribed] for the
-> present and final pacification of desire concerning objects of mine-making
+> present and final pacification of desire concerning bases of mine-making
 > and I-making.
+
+### Literal translation note
 
 The bracketed distribution follows the Bhāṣya's explicit resolution of the
 kārikā's ellipsis.
 
 ### Bhāṣya-informed study translation
 
-> The first three noble lineages provide the practitioner's bounded livelihood;
-> the fourth—delight in abandonment and cultivation—provides the work to be
-> done. They are prescribed as counterforces to the four productions of thirst
-> associated with robes, alms-food, lodging, and existence or non-existence.
-> The first three pacify for the present desire toward objects appropriated as
-> “mine”; the fourth aims at final pacification of desire centered on both
-> “mine” and one's own existence as “I.”
+> Three noble lineages sustain livelihood through contentment with robes,
+> alms-food, and lodging; the fourth makes abandonment and cultivation the
+> practitioner's work. Together they counter four ways thirst arises. The
+> first three presently quiet desire for what is made “mine”; the fourth aims
+> to end desire for both “mine” and the existence made “I.”
+
+### Translation note
 
 The livelihood/work distinction, the four thirsts, and the allocation of
 present and final pacification are supplied by the Bhāṣya.
@@ -183,7 +203,7 @@ established in 6.07.
 Appropriation of robes, food, lodging, and similar supports as “mine.” The
 first three lineages regulate desire in this material field.
 
-**`Mamakāra-vastu` — object of mine-making**
+**`Mamakāra-vastu` — basis of mine-making**
 
 The support appropriated into the possessive relation. The Bhāṣya identifies
 the three immediate classes as robes, food, and lodging.
@@ -194,14 +214,20 @@ The appropriative determination centered on one's own existence or personal
 continuum. It should not be reduced here to a mere linguistic use of the
 pronoun “I.”
 
-**`Ahaṃkāra-vastu` — object of I-making**
+**`Ahaṃkāra-vastu` — basis of I-making**
 
 Identified by the Bhāṣya as `ātmabhāva`, one's own existence or embodied
 personal continuum. The fourth lineage addresses craving at this deeper level.
 
+**`Vastu` — basis**
+
+The term marks what is taken up by the appropriative act. Here robes and the
+other supports are bases of mine-making, while one's own existence is the
+basis of I-making. It does not name Object in the Organon's technical sense.
+
 **`Tat-kāla-śānti` — pacification for the present**
 
-The limited effect of the first three noble lineages upon desire for objects
+The limited effect of the first three noble lineages upon desire for bases
 of mine-making. It stabilizes livelihood but does not by itself complete the
 destruction of appropriation.
 
@@ -250,11 +276,11 @@ The pacification ranges are asymmetric:
 
 ```text
 FirstThreeNobleLineages
-    presentlyPacify DesireForMineMakingObjects
+    presentlyPacify DesireForMineMakingBases
 
 FourthNobleLineage
-    finallyPacifies DesireForMineMakingObjects
-    AND finallyPacifies DesireForIMakingObject
+    finallyPacifies DesireForMineMakingBases
+    AND finallyPacifies DesireForIMakingBasis
 ```
 
 Maintenance is functionally subordinated to work:
@@ -281,8 +307,8 @@ telos. Life is maintained for a work rather than maintenance becoming the
 final aim.
 
 **The two forms of appropriation must remain distinct.** `Mamakāra` concerns
-objects established as mine; `ahaṃkāra` concerns one's own existence as the
-object of I-making. Restricting possessions does not by itself eliminate the
+bases established as mine; `ahaṃkāra` concerns one's own existence as the
+basis of I-making. Restricting possessions does not by itself eliminate the
 deeper appropriation of the personal continuum.
 
 **Present pacification is not final pacification.** The first three lineages

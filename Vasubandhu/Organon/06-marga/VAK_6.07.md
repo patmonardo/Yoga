@@ -16,22 +16,17 @@ alobha āryavaṃśāś ca teṣāṃ tuṣṭy-ātmakās trayaḥ || 6.7 ||
 
 VAK 6.07 positively determines the counterforces to the two obstacles analyzed
 in 6.06. Contentment and fewness of desires oppose discontent and great desire.
-They extend across all three domains, may also be uncontaminated, and share
+They extend across all three realms, may also be uncontaminated, and share
 non-greed as their intrinsic nature. The verse then introduces the noble
 lineages, three of which have contentment as their nature.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-viparyāsāt | tad-vipakṣau | tri-dhātu-āptau | amalau | ca | tau |
-alobhaḥ | ārya-vaṃśāḥ | ca | teṣām | tuṣṭi-ātmakāḥ | trayaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `viparyāsāt` | ablative singular masculine | by reversal or inversion |
 | `tad-vipakṣau` | nominative dual masculine compound | the two counterforces to those |
-| `tri-dhātu-āptau` | nominative dual masculine compound | belonging to the three domains |
+| `tri-dhātu-āptau` | nominative dual masculine compound | occurring in the three realms |
 | `amalau` | nominative dual masculine | stainless or uncontaminated |
 | `ca` | conjunction | and, also |
 | `tau` | nominative dual masculine demonstrative | those two |
@@ -41,6 +36,11 @@ alobhaḥ | ārya-vaṃśāḥ | ca | teṣām | tuṣṭi-ātmakāḥ | traya�
 | `teṣām` | genitive plural masculine | among them |
 | `tuṣṭi-ātmakāḥ` | nominative plural masculine compound | having contentment as their nature |
 | `trayaḥ` | nominative plural masculine | three |
+
+```text
+viparyāsāt | tad-vipakṣau | tri-dhātu-āptau | amalau | ca | tau |
+alobhaḥ | ārya-vaṃśāḥ | ca | teṣām | tuṣṭi-ātmakāḥ | trayaḥ
+```
 
 `Tad` refers back to discontent and great desire. The Bhāṣya explicitly names
 their counterforces as `saṃtuṣṭi` and `alpecchatā`. The dual forms
@@ -72,7 +72,7 @@ The next predicates state their range and status:
 
 ```text
 tri-dhātv-āptau
-    belonging to all three domains
+    occurring in all three realms
 
 amalau ca
     and also uncontaminated
@@ -80,7 +80,7 @@ amalau ca
 
 The prose clarifies the complete contrast: the two counterforces may be
 contaminated or uncontaminated, whereas the two defects belong only to the
-desire domain.
+desire-realm.
 
 The nominal predication `alobhaḥ [anayoḥ svabhāvaḥ]` is completed by the
 Bhāṣya's explicit question about intrinsic nature. The final clause begins a
@@ -100,25 +100,40 @@ tuṣṭyātmakāḥ
 The number four and the particular objects of the three forms of contentment
 are Bhāṣya expansions.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+COUNTERFORCE[NUM=dual, ANTECEDENT=asaṃtuṣṭi+mahecchatā]
+  ← tad-vipakṣau
+COUNTERFORCE[NUM=dual, REALM=three, INFLUX=optional]
+  ← tri-dhātv-āptau + amalau + tau
+LINEAGE[NUM=plural, COUNT=four, NATURE=alobha]
+  ← āryavaṃśāḥ + [alobhaḥ understood]
+LINEAGE[NUM=plural, COUNT=three, NATURE=saṃtuṣṭi]
+  ← teṣāṃ + tuṣṭy-ātmakāḥ + trayaḥ
+```
+
+The shared dual agreement and the shift to the plural lineage subject are
+source grammar; these feature labels are a later Organon representation.
+
 ## 5. Translation
 
 ### Literal Translation
 
 > By reversal, the two counterforces to those [two defects] belong to the three
-> domains and are also uncontaminated. Those two are non-greed. There are also
+> realms and are also uncontaminated. Those two are non-greed. There are also
 > the noble lineages; among them, three have contentment as their nature.
 
 ### Bhāṣya-informed study translation
 
-> The positive counterforces obtained by reversing discontent and great desire
-> are contentment and fewness of desires. Unlike the defects, which are confined
-> to the desire domain, these counterforces extend through all three domains and
-> may be either contaminated or uncontaminated. Both have non-greed as their
-> intrinsic nature. The same non-greed is articulated in four noble lineages:
-> contentment with robes, alms-food, and lodging, followed by delight in the
-> cultivation of abandonment.
+> Reversing discontent and great desire yields contentment and fewness of
+> desires as their two counterforces. Both occur in all three realms and may
+> also be without influx; both have non-greed as their nature. The four noble
+> lineages share that nature, and three are forms of contentment.
 
-The full domain contrast, the fourfold count, the objects of the first three,
+### Translation note
+
+The full realm contrast, the fourfold count, the objects of the first three,
 and the name of the fourth lineage are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
@@ -126,7 +141,7 @@ and the name of the fourth lineage are supplied by the Bhāṣya.
 > The Path does not answer appropriation with mere deprivation. It generates
 > determinate counterforces. Contentment interrupts greed after possession;
 > fewness of desires interrupts it before acquisition. These are two practical
-> functions of one root, non-greed, whose range can extend beyond the domain in
+> functions of one root, non-greed, whose range can extend beyond the realm in
 > which the opposed defects arise and enter the uncontaminated Path itself.
 > Organized as noble lineage, this counterforce becomes a reproducible form of
 > life from which noble realization can arise.
@@ -157,7 +172,7 @@ it develops the contrary determination capable of opposing it.
 **`Saṃtuṣṭi` — contentment**
 
 The counterforce to discontent. In the light of 6.06, it concerns the relation
-to what is already possessed: the present object is not converted into a basis
+to what is already possessed: what is present is not converted into a basis
 for vexation and indefinite demand.
 
 **`Alpecchatā` — fewness of desires**
@@ -166,11 +181,11 @@ The counterforce to great desire. It concerns the unpossessed field and limits
 projection toward superior and abundant acquisitions. It is a transformation
 of desire's range, not merely the accidental fact of owning little.
 
-**`Tri-dhātv-āpta` — belonging to the three domains**
+**`Tri-dhātv-āpta` — occurring in the three realms**
 
 Contentment and fewness of desires may occur in the desire, form, and formless
-domains. Their scope is wider than that of the defects, which the Bhāṣya
-confines to the desire domain.
+realms. Their scope is wider than that of the defects, which the Bhāṣya
+confines to the desire-realm.
 
 **`Amala` — stainless or uncontaminated**
 
@@ -284,8 +299,8 @@ operative contraries.
 of desires according to whether it determines the possessed or unpossessed
 field. Identity of intrinsic nature does not erase difference of relation.
 
-**The counterforce exceeds the defect's range.** The defects are desire-domain
-states, while their counterforces can belong throughout the three domains and
+**The counterforce exceeds the defect's range.** The defects are desire-realm
+states, while their counterforces can belong throughout the three realms and
 can become uncontaminated. Path-capacity is not a mirror image restricted to
 the exact extension of what it opposes.
 
@@ -306,7 +321,7 @@ afflictive relation
     not merely deleted
 
 counterforce
-    generated with a determinate object-range
+    generated with a determinate practical range
 
 common root
     differentiated into practical functions
@@ -362,7 +377,7 @@ ObjectProperty: hasIntrinsicNature
     Domain: PathCondition
     Range: WholesomeRoot
 
-ObjectProperty: hasObjectRange
+ObjectProperty: hasPracticalRange
     Domain: PathCondition
     Range: PracticalField
 
@@ -382,8 +397,8 @@ Assertion: Contentment counteracts Discontent
 Assertion: FewnessOfDesires counteracts GreatDesire
 Assertion: Contentment hasIntrinsicNature NonGreed
 Assertion: FewnessOfDesires hasIntrinsicNature NonGreed
-Assertion: Contentment hasObjectRange PossessedField
-Assertion: FewnessOfDesires hasObjectRange UnpossessedField
+Assertion: Contentment hasPracticalRange PossessedField
+Assertion: FewnessOfDesires hasPracticalRange UnpossessedField
 
 Assertion: RobeContentmentLineage hasIntrinsicNature NonGreed
 Assertion: AlmsFoodContentmentLineage hasIntrinsicNature NonGreed
@@ -400,7 +415,7 @@ Constraint: FewnessOfDesires
 
 View: PositiveCounterforceLineage
     Preserves: DefectIdentity, CounterforceIdentity,
-               IntrinsicNature, ObjectRange, DomainRange,
+               IntrinsicNature, PracticalRange, DomainRange,
                ContaminationStatus, LineageFunction,
                SourceAttribution, SourceProvenance
 ```
