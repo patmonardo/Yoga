@@ -1,214 +1,275 @@
-# VAK 6.18 — Formation, Strengthening, and Acceptance
+# VAK_6.18 — Formation, Strengthening, and Acceptance
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 उभयाकरणं धर्मेणान्यैरपि तु वर्धनम् ।
 तेभ्यः क्षान्तिर्द्विधा तद्वत् क्षान्त्या धर्मेण वर्धनम् ॥ ६.१८ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 ubhayākaraṇaṃ dharmeṇānyair api tu vardhanam |
 tebhyaḥ kṣāntir dvidhā tadvat kṣāntyā dharmeṇa vardhanam || 6.18 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+Heat and the Summits share a manner of initial formation, while their later
+strengthening can involve all four establishments. Acceptance arises from
+their development, but its strengthening follows a narrower rule.
 
-**Padaccheda**
+## 3. Lexical Analysis
 
-ubhaya-ākaraṇam | dharmeṇa | anyaiḥ | api | tu | vardhanam |
-tebhyaḥ | kṣāntiḥ | dvidhā | tadvat | kṣāntyāḥ | dharmeṇa | vardhanam
-
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| **ubhaya-ākaraṇam** | neuter nominative singular compound | the initial formation of both Heat and the Summits |
-| **dharmeṇa** | instrumental singular | through the dharma-foundation of mindfulness |
-| **anyaiḥ** | instrumental plural | through the others; through the other three foundations |
-| **api tu** | particles | but also; marks a broader means of subsequent strengthening |
-| **vardhanam** | neuter nominative singular action noun | increase, development, strengthening |
-| **tebhyaḥ** | ablative plural | from those; from the progressively strengthened Summits |
-| **kṣāntiḥ** | feminine nominative singular | Acceptance, receptivity toward the Truths |
-| **dvidhā** | indeclinable adverb | in two forms or grades |
-| **tadvat** | indeclinable | like that; in the same manner as the preceding stages |
-| **kṣāntyāḥ** | feminine genitive singular | of Acceptance |
-| **dharmeṇa** | instrumental singular | through the dharma-foundation alone, as specified by the Bhāṣya |
-| **vardhanam** | neuter nominative singular | the strengthening or development |
+| `ubhayākaraṇam` | nominative singular neuter compound | initial formation of both Heat and Summits |
+| `dharmeṇa` | instrumental singular | through the dharma establishment |
+| `anyaiḥ api tu` | instrumental plural with particles | also through the other establishments, for strengthening |
+| `vardhanam` | nominative singular neuter action noun | strengthening or development |
+| `tebhyaḥ` | ablative plural | from the developed Summits |
+| `kṣāntiḥ` | nominative singular feminine | Acceptance |
+| `dvidhā` | adverb | in two grades here |
+| `tadvat` | indeclinable | in the same manner as the preceding formation |
+| `kṣāntyā` | transmitted form in the compound construction | of Acceptance, in the Bhāṣya's reading of the final clause |
+| `dharmeṇa vardhanam` | instrumental and action noun | strengthening through the dharma establishment |
 
-In the transmitted line, **kṣāntyāḥ dharmeṇa** appears under sandhi as **kṣāntyā dharmeṇa**. The underlying genitive gives the construction “the strengthening of Acceptance,” while **dharmeṇa** states its means.
+```text
+ubhaya-ākaraṇam | dharmeṇa | anyaiḥ | api | tu | vardhanam |
+tebhyaḥ | kṣāntiḥ | dvidhā | tadvat | kṣāntyā | dharmeṇa | vardhanam
+```
+
+The Bhāṣya resolves `ubhaya` as Heat and Summits. It specifies `dvidhā` as
+weak and medium Acceptance and makes the final instrumental exclusive:
+strengthening through the dharma establishment alone.
 
 ## 4. Grammar
 
-The first half contains two parallel nominal clauses sharing Heat and Summit as their understood domain:
+The first nominal pair divides initial formation from later strengthening:
 
 ```text
 ubhayākaraṇaṃ dharmeṇa
-the formation of both is through the dharma-foundation
-
+    both initially form through the dharma establishment
 anyair api tu vardhanam
-but their strengthening is also through the others
+    but may also be strengthened through the others
 ```
 
-**ubhaya** refers, according to the Bhāṣya, to the two preceding stages: Heat and the Summits. The instrumental **dharmeṇa** abbreviates *dharma-smṛtyupasthānena*, “through the foundation concerning dharmas.” **anyaiḥ** likewise has the other foundations as its understood referent.
+`Tebhyaḥ kṣāntiḥ` adds a genetic ablative: Acceptance arises from the
+progressively strengthened Summits. `Dvidhā tadvat` relates its weak and
+medium grades to their manner of initial formation. The closing
+`kṣāntyā dharmeṇa vardhanam` concerns strengthening of Acceptance; the
+prose adds `smṛtyupasthānenaiva nānyena`, through that establishment alone.
 
-In **tebhyaḥ kṣāntiḥ**, the ablative establishes a genetic relation: “from those [Summits] arises Acceptance.” The verb “arises” is supplied from the context.
+**Future Feature Grammar sketch (not executable):**
 
-**dvidhā tadvat** is compressed. The Bhāṣya restricts “in two forms” to weak and medium Acceptance: these two are initially formed in the same manner as the Summits. The highest grade is reserved for the next determination.
+```text
+STAGE[NAME=Heat|Summits, FORMATION=dharma-establishment,
+      STRENGTHENING=all-four-establishments]
+  ← ubhayākaraṇaṃ dharmeṇa + anyair api tu vardhanam
+STAGE[NAME=Acceptance, GENESIS=developed-Summits,
+      FORMATION=Summit-like-for-weak+medium,
+      STRENGTHENING=dharma-establishment-only]
+  ← tebhyaḥ kṣāntiḥ + dvidhā tadvat
+    + kṣāntyā dharmeṇa vardhanam
+```
 
-The closing nominal clause, **kṣāntyāḥ dharmeṇa vardhanam**, states: “the strengthening of Acceptance is through the dharma-foundation.” The Bhāṣya adds the exclusivity—through that foundation alone, not through the other three.
+The features preserve the difference between formation and strengthening,
+as well as the distinct scope of each operation.
 
 ## 5. Translation
 
 ### Literal Translation
 
-The formation of both is through [the foundation concerning] dharmas, but their strengthening is also through the others. From them arises Acceptance; in two [grades] it is like that. The strengthening of Acceptance is through [the foundation concerning] dharmas.
+> Both are formed through the dharma establishment, but strengthened also
+> through the others. From them arises Acceptance; in two grades it is formed
+> likewise. Acceptance is strengthened through the dharma establishment.
 
 ### Bhāṣya-informed study translation
 
-Heat and the Summits are initially formed through the dharma-foundation by first placing the sixteen modes upon the Four Truths; afterward they may be strengthened through all four foundations of mindfulness. From the strengthened Summits arises Acceptance. Its weak and medium grades are formed in the same manner, but every grade of Acceptance is strengthened through the dharma-foundation alone.
+> Heat and the Summits first form through the dharma establishment, when the
+> aspects are placed on the Truths; all four establishments can then
+> strengthen them. Acceptance arises from the developed Summits. Its weak and
+> medium grades form in the same way, while every grade of Acceptance is
+> strengthened through the dharma establishment alone.
+
+### Translation note
+
+The first placement of aspects, the two grades meant by `dvidhā`, and the
+exclusivity of Acceptance's strengthening are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
-The Path now distinguishes the construction of a truth-structured cognition from its growing power. Heat and Summit are first formed when the sixteen modes are determinately placed upon the Four Truths. Once formed, this structure can be strengthened through the complete practice of the four foundations.
+> The Path first constitutes a determinate relation to the Truths by placing
+> their aspects. It then strengthens that relation through repeated practice.
+> Acceptance arises from the developed Summits and gives this truth relation
+> a further grade. Its strengthening is concentrated in the dharma
+> establishment, while earlier grades can recede from present attention
+> without ceasing to belong to the process that produced it.
 
-From their graded maturation arises Acceptance: the Truth-structure begins to be received with a stability that resists reversal. Its lower two grades preserve the preceding mode of formation, while its strengthening is concentrated entirely within the comprehensive dharma-foundation.
-
-Thus advancement is neither the mere repetition of identical cognition nor the simple addition of new content. A stronger grade develops from what was formed, while earlier attained grades need not remain manifest.
+```text
+first placement of truth aspects
+    → Heat and Summits formed
+    → strengthening through four establishments
+    → Acceptance from developed Summits
+    → strengthening through the dharma establishment alone
+```
 
 ## 7. Technical Vocabulary
 
-**ākaraṇa**
+**`Ākaraṇa` — initial formation**
 
-In ordinary usage **ākaraṇa** can mean making or producing. Here the Bhāṣya defines it precisely as **satyeṣv ākārāṇāṃ prathamato vinyasanam**: the first placement of the modes upon the Truths. It is the initial construction of the four-by-four cognitive articulation introduced in 6.17.
+The Bhāṣya defines it as `satyeṣv ākārāṇāṃ prathamato vinyasanam`, first
+placing the aspects on the Truths. The witness's `akārāṇāṃ` is uneven, but
+the context of the sixteen aspects in 6.17 secures the practical sense.
+Formation makes the truth-aspect structure operative for the first time.
 
-**vardhana**
+**`Vardhana` — strengthening**
 
-**Vardhana** is the development of a stage through practice. The Bhāṣya says previously attained grades become *non-present* (`asaṃmukhībhāva`) as the series develops, owing to reduced regard for them. Their genetic role does not require their continued manifestation.
+Development of a formed stage through practice. Heat and Summits can be
+strengthened through all four establishments; Acceptance, at every grade,
+through the dharma establishment alone. The means of initial formation and
+later strengthening are distinct.
 
-Formation and strengthening therefore answer different questions:
+**`Dharma-smṛtyupasthāna` — dharma establishment**
 
-```text
-ākaraṇa: How is the determinate structure first constituted?
-vardhana: How does that constituted structure gain operative strength?
-```
+The sole means of initially forming Heat and Summits, and the sole means of
+strengthening Acceptance. It is the combined cognitive Condition developed
+in 6.16, now serving a new generative role.
 
-**The four foundations in formation and strengthening**
+**`Anye smṛtyupasthānāni` — the other establishments**
 
-Heat and Summit are formed through the dharma-foundation. Their subsequent development can proceed through all four foundations: body, feeling, citta, and dharmas. In Acceptance the scope narrows: every grade is strengthened through the dharma-foundation alone.
+Body, feeling, and consciousness (`citta`) join the dharma establishment as
+means of strengthening Heat and Summits. `Anyaiḥ api` allows these additional
+means after initial formation.
 
-**kṣānti**
+**`Kṣānti` — Acceptance**
 
-Here **kṣānti** does not mean ordinary patience or endurance. It names Acceptance or receptivity toward the Four Truths as a preparatory Path-stage. The Bhāṣya connects its name with accepting the strongest grade without falling away (*aparihāṇi*).
+A preparatory stage arising from the matured Summits. It is not merely
+ordinary patience. The commentary connects the name with acceptance of the
+highest grade without decline and distinguishes weak, medium, and strong
+grades.
 
-Acceptance has three grades:
+**`Mṛdu / madhya / adhimātra` — weak / medium / strong**
 
-- **mṛdu** — weak;
-- **madhya** — medium;
-- **adhimātra** — strong or highest.
+The three grades of Acceptance. The verse's `dvidhā tadvat` concerns the
+weak and medium grades, formed as the Summits were. Strong Acceptance's
+further specification begins in 6.19.
 
-The present verse expressly assimilates the first two grades to the preceding mode of formation. The highest Acceptance receives its further determination in 6.19.
+**`Asaṃmukhībhāva` — non-presence**
 
-**asaṃmukhībhāva**
+The Bhāṣya says earlier attained grades cease to be present as development
+continues, through diminished regard (`avahumānatva`). Its transmitted form
+is uneven; the note preserves the distinction between genetic succession
+and what is currently manifest.
 
-The Bhāṣya's **asaṃmukhībhāva** is the non-presence of previously attained grades during later development. Its reason is `avahumānatva`, diminished regard for those earlier grades. This qualifies the relation between genetic succession and what is presently operative.
+**`Aparihāṇi` — non-decline**
 
-**aparihāṇi**
-
-**Aparihāṇi** means non-decline or non-falling-away. In the Bhāṣya it explains the name Acceptance by reference to the strongest stage. This does not authorize importing all details of highest Acceptance into the present verse; it identifies the telos toward which the graded kṣānti-series develops.
+The commentary uses it in explaining the name Acceptance, tied to accepting
+the highest grade without falling away. It does not make every earlier
+preparatory grade irreversible.
 
 ## 8. Logical Determination
 
-The verse differentiates two operations across three stages:
+The formation and strengthening relations are:
 
-| Stage | Initial formation | Strengthening |
+| Stage | Formation | Strengthening |
 |---|---|---|
-| Heat | dharma-foundation | all four foundations |
-| Summit | dharma-foundation | all four foundations |
-| Acceptance | weak and medium formed like Summit | dharma-foundation alone |
+| Heat | Dharma establishment | All four establishments |
+| Summits | Dharma establishment | All four establishments |
+| Weak and medium Acceptance | As with Summits | Dharma establishment alone |
+| Strong Acceptance | Further specified in 6.19 | Dharma establishment alone |
 
-Its genetic sequence is:
-
-```text
-first placement of modes upon Truths
-    → Heat
-    → graded strengthening
-    → Summit
-    → weak / medium / strong increase
-    → Acceptance
-```
-
-The crucial determination is the difference between identity of structure and mode of possession:
+The genetic relation is:
 
 ```text
-same Four Truths
-+ same sixteen modes
-+ later grade attained through cultivation
-+ increased stability
-= new Path-capacity
+PlacesAspectsOnTruths(DharmaEstablishment)
+    → InitiallyForms(Heat, Summits)
+
+DevelopedSummits
+    → Arises(Acceptance)
 ```
 
-The source and Bhāṣya establish formation, strengthening, graded increase, and the arising of Acceptance. In Organon terms, explicitly as project synthesis, **formation** constitutes determinate Meaning, while **strengthening** makes that Meaning practically governing. Acceptance marks the beginning of its stabilization as a Path-operation.
+A later LogicFrame can distinguish a stage's provenance from whether an
+earlier grade remains presently operative.
 
 ## 9. Interpretive Note
 
-VAK 6.17 showed that Heat and Summit can share the same object and formal structure while differing in strength. VAK 6.18 distinguishes their first formation from later development. The modes are first placed upon the Truths; the resulting stages are then cultivated through graded succession, without requiring earlier grades to remain manifest.
+**Formation has a specific content.** The commentary defines it through the
+first placement of the aspects on the Truths. This is more precise than a
+generic declaration that a new stage has been reached.
 
-The verse therefore provides a precise alternative to treating Meaning as a static representation. A truth-content is not yet a Path merely because it has been correctly formulated. It must first be organized into a determinate cognitive structure and then strengthened until it governs apprehension.
+**Strengthening has a different range.** Heat and Summits can grow through
+all four establishments. Acceptance is strengthened through the dharma
+establishment alone, even though its weak and medium grades begin like the
+Summits.
 
-Acceptance names the emerging stability of this structure. Yet the concentration of its development in the dharma-foundation should be read technically: the comprehensive Truth-field becomes the exclusive basis of its strengthening. It need not be converted into a claim that body, feeling, or citta cease to matter; their prior determinations have already entered the comprehensive field.
-
-The definition of ākaraṇa, the non-presence of previously attained grades during development, the three grades of Acceptance, and the restriction of its development to the dharma-foundation are Bhāṣya determinations. The language of determinate Meaning becoming practically governing is the Organon's reconstruction.
+**Organon interpretation.** A reflective Model can preserve the truth-aspect
+structure, the operation that first forms it, and the operations that increase
+its practical force. This keeps Meaning's determination connected to the
+Path-capacity it can develop, while the terms themselves remain source-bound.
 
 ## 10. OWL++ Seed
 
 ```text
-Class: PathOperation
-Class: InitialFormation
-  SanskritLabel: ākaraṇa
-  SubClassOf: PathOperation
-Class: Strengthening
-  SanskritLabel: vardhana
-  SubClassOf: PathOperation
-
+Class: PreparatoryStage
 Class: Heat
+    SubClassOf: PreparatoryStage
 Class: Summit
+    SubClassOf: PreparatoryStage
 Class: Acceptance
-  SanskritLabel: kṣānti
+    SubClassOf: PreparatoryStage
 Class: WeakAcceptance
-  SubClassOf: Acceptance
+    SubClassOf: Acceptance
 Class: MediumAcceptance
-  SubClassOf: Acceptance
+    SubClassOf: Acceptance
 Class: StrongAcceptance
-  SubClassOf: Acceptance
+    SubClassOf: Acceptance
+Class: EstablishmentOfRecollection
+Class: DharmaEstablishment
+    SubClassOf: EstablishmentOfRecollection
+Class: BodyEstablishment
+    SubClassOf: EstablishmentOfRecollection
+Class: FeelingEstablishment
+    SubClassOf: EstablishmentOfRecollection
+Class: ConsciousnessEstablishment
+    SubClassOf: EstablishmentOfRecollection
+Class: PracticeOperation
+Class: InitialFormation
+    SubClassOf: PracticeOperation
+Class: Strengthening
+    SubClassOf: PracticeOperation
 
-Class: DharmaFoundation
-Class: FourFoundations
-Class: TruthModePlacement
-Class: GradedAttainment
+ObjectProperty: initiallyFormedThrough
+    Domain: PreparatoryStage
+    Range: EstablishmentOfRecollection
 
-ObjectProperty: initiallyFormedBy
-ObjectProperty: strengthenedBy
+ObjectProperty: strengthenedThrough
+    Domain: PreparatoryStage
+    Range: EstablishmentOfRecollection
+
 ObjectProperty: arisesFrom
-ObjectProperty: hasGrade
-ObjectProperty: increases
+    Domain: PreparatoryStage
+    Range: PreparatoryStage
 
-Heat Facts:
-  initiallyFormedBy DharmaFoundation
-  strengthenedBy FourFoundations
+Assertion: Heat initiallyFormedThrough DharmaEstablishment
+Assertion: Summit initiallyFormedThrough DharmaEstablishment
+Assertion: Heat strengthenedThrough BodyEstablishment
+Assertion: Heat strengthenedThrough FeelingEstablishment
+Assertion: Heat strengthenedThrough ConsciousnessEstablishment
+Assertion: Heat strengthenedThrough DharmaEstablishment
+Assertion: Summit strengthenedThrough BodyEstablishment
+Assertion: Summit strengthenedThrough FeelingEstablishment
+Assertion: Summit strengthenedThrough ConsciousnessEstablishment
+Assertion: Summit strengthenedThrough DharmaEstablishment
+Assertion: Acceptance arisesFrom Summit
+Assertion: Acceptance strengthenedThrough DharmaEstablishment
 
-Summit Facts:
-  initiallyFormedBy DharmaFoundation
-  strengthenedBy FourFoundations
+Constraint: Acceptance strengthensThroughOnly DharmaEstablishment
+Constraint: WeakAcceptance and MediumAcceptance formAs Summit
 
-Acceptance Facts:
-  arisesFrom Summit
-  hasGrade WeakAcceptance
-  hasGrade MediumAcceptance
-  hasGrade StrongAcceptance
-  strengthenedBy DharmaFoundation
-
-InitialFormation increases TruthModePlacement
-Strengthening develops GradedAttainment
-
-Constraint: Initial formation and subsequent strengthening are distinct Path operations.
-Constraint: WeakAcceptance and MediumAcceptance are initially formed in the manner of Summit.
-BhāṣyaRule: Every grade of Acceptance is strengthened through DharmaFoundation alone.
-ProjectRule: PracticalMeaning requires both determinate formation and operative strengthening.
+View: FormationAndStrengthening
+    Preserves: Stage, Grade, InitialFormation, Strengthening,
+               Means, TruthAspectPlacement, Presentness,
+               SourceProvenance
 ```
+
+The seed keeps the initial means and later means distinct for each stage.

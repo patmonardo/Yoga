@@ -1,67 +1,94 @@
-# VAK_6.16 Bhāṣya — Combined Field; Four-Mode Seeing
+# VAK_6.16 Bhāṣya — Combined Condition and Four Aspects
 
 ## 1. Kārikā Anchor
 
 > sa dharmasmṛtyupasthāne samastālambane sthitaḥ |
 > ānityaduḥkhataḥ śūnyānātmatas tān vipaśyati || 6.16 ||
 
-Literal (from the kārikā study):
+> Having cultivated the establishments for body, feeling, consciousness, and
+> dharmas, the practitioner stands in the dharma establishment with a combined
+> cognitive Condition. They gather those fields together and see them in four
+> aspects: as impermanent, suffering, empty, and not-self.
 
-> Established in the foundation of mindfulness concerning dharmas, whose
-> object-support is the whole, he sees those [fields] distinctly as
-> impermanent, suffering, empty, and not-self.
+The Bhāṣya resolves the combined Condition as all four examined fields and
+names each aspect in parallel form.
 
-Kārikā study: [`VAK_6.16.md`](./VAK_6.16.md). Heat (`ūṣmagata`) begins 6.17.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+evaṃ kāyādyālambanāni smṛtyupasthānānyabhyasya
 
-> evaṃ kāyādyālambanāni smṛtyupasthānāny abhyasya /
-> sa dharmasmṛtyupasthāne samastālambane sthitaḥ /
-> … tān vipaśyati // 6.16 //
-> saṃbhinnālambane dharmasmṛtyupasthāne sthitas tān kāyādīn sarvān abhisamasya caturbhir ākāraiḥ paśyati /
-> anityato duḥkhataḥ śūnyato 'nātmataś ca /
+     sa dharmasmṛtyupasthāne samastālambane sthitaḥ /
+     ānatyaduḥkhataḥ śūnyānātmatastānvipaśyati // VAkK_6.16 //
 
-**Witness.** Pradhan 343|04–343|09. Voice: Vasubandhu. Fault `ānatyaduḥkhataḥ`
-not adopted. 6.17 at 343|10 (`tat ūṣmagatotpattiḥ`).
+saṃbhinnalambane dharmasmṛtyupasthāne sthitastān kāyādīn sarvānabhisamasya caturbhirākāraiḥ paśyati /
+
+anityato duḥkhataḥ śūnyato 'nātmataśca /
+```
+
+This is the complete running unit at [343|04–343|09] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line breaks
+are editorial. The running verse has `ānatyduḥkhataḥ`, where the separate
+kārikā reads `ānityaduḥkhataḥ`; the prose has `anityataḥ`. The first statement
+about Heat at [343|10] opens 6.17.
 
 ## 3. Continuous Conventional Translation
 
-> Having thus practiced the establishments with body and the other fields as
-> supports, he stands in the dharma-establishment whose support is the whole,
-> and sees those [fields] as impermanent, suffering, empty, and not-self. That
-> is: standing in the dharma-establishment with a combined support, he gathers
-> all beginning with body and sees them by four modes — as impermanent, as
-> suffering, as empty, as not-self.
+Having thus cultivated the establishments of recollection with body and the
+other fields as their cognitive Conditions, the practitioner is established
+in the dharma establishment whose cognitive Condition is combined. They see
+those fields as impermanent, suffering, empty, and not-self.
+
+The commentary explains: established in the dharma establishment with a
+combined Condition, the practitioner gathers all the fields beginning with
+body and sees them in four aspects: as impermanent, as suffering, as empty,
+and as not-self. The earlier distribution of these aspects by their
+applicability remains in force.
 
 ## 4. Movement of the Commentary
 
-```text
-abhyasya the four → sthita in dharma-field as samasta/ṃaṃbhinna
-tān = the fields kept, not cancelled
-four ākāras = the seeing, not a slogan-list
-Heat is the next sentence, next verse
-```
+The text moves from cultivation of the separately examined fields to an
+established contemplation whose cognitive Condition combines them. The
+Bhāṣya identifies the pronoun `tān` as all the fields beginning with body and
+expands the verse's compact four-aspect expression into four parallel forms.
+The unit ends there; the next sentence begins the account of Heat.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Combined = { fields: ["kaya","vedana","citta","dharma"]; mixed: true };
-type Akara = "anitya" | "duhkha" | "sunya" | "anatman";
-type Act = { stand: "dharma_smrtyupasthana"; see: Combined; through: Akara[] };
-// Combined retains Field[]; it is not Field.erase()
-```
+**Translation decisions.** `Samasta-ālambana` is a combined cognitive
+Condition, matching the `saṃbhinna-ālambana` described at the end of 6.15.
+The whole comprises body, feeling, consciousness, and dharmas; `tān` retains
+their plurality. The verse's `ānitya-` and running `ānaty-` are read through
+the prose's unambiguous `anityataḥ`. The four adverbial aspects belong to the
+act of distinct seeing (`vipaśyati`). Their scopes were specified in 6.14 and
+are not overwritten by the combined Condition.
 
-Whole here is the four kept together. That is the medicine against the split
-that wants either body-only or dharma-only.
+**Organon determination.** The practitioner sees an articulated whole: four
+fields retained in one cognitive Condition. Each applicable aspect can be
+predicated over that whole with its correct range. A future Feature Grammar
+can preserve field membership, combination, aspect, and applicability as
+separate features; a LogicFrame can test the resulting predications. The
+source provides the combined contemplation, while the formal model belongs
+to the project layer.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+## 6. Combined Field and Scoped Aspects
 
-- `samasta` = `saṃbhinna-ālambana`;
-- `tān` = kāya and the rest, gathered;
-- four modes named in parallel ablatives.
+| Field membership | Relation in this unit |
+|---|---|
+| Body, feeling, consciousness, dharmas | Combined as the cognitive Condition of the dharma establishment |
+
+| Aspect | Applicability established in 6.14 |
+|---|---|
+| Impermanent | Conditioned dharmas |
+| Suffering | Dharmas with influx |
+| Empty | All dharmas |
+| Not-self | All dharmas |
+
+The four aspects are seen together without converting their different
+applicability ranges into one indiscriminate predicate.
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 343|04–09.
-Verse-English copied from [`VAK_6.16.md`](./VAK_6.16.md) §5 Literal. Provisional.
-Next: 6.17 Heat.
+Provisional. The complete unit was checked against [343|04–343|09]. The
+running verse's unusual form remains visible for later textual review. The
+kārikā anchor exactly matches the study translation.

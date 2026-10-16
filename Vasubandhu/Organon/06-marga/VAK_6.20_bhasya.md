@@ -1,85 +1,137 @@
-# VAK_6.20 Bhāṣya — Four Roots Conducive to Penetration
+# VAK_6.20 Bhāṣya — The Four Roots Conducive to Penetration
 
 ## 1. Kārikā Anchor
 
 > iti nirvedhabhāgīyaṃ caturdhā bhāvanāmayam |
 > anāgamyāntaradhyānabhūmikaṃ dve tv adho 'pi vā || 6.20 ||
 
-Literal (from the kārikā study):
+> Heat, Summits, Acceptance, and the Highest Mundane Dharmas are the four
+> cultivation-born wholesome roots that bring on determinate penetration by
+> the Noble Path. Their six grounds are the preliminary concentration, the
+> intermediate concentration, and the four dhyānas. Bhadanta Ghoṣaka also
+> allows Heat and Summits on the desire-realm level.
 
-> Thus, what is conducive to penetration is fourfold and cultivation-born. It
-> belongs to the grounds of the preliminary concentration, the intermediate
-> concentration, and the dhyānas; but the two may also [occur] below, according
-> to another view.
+The commentary determines penetration, the roots' efficacy, their grounds,
+and the scope of the attributed alternative.
 
-Kārikā study: [`VAK_6.20.md`](./VAK_6.20.md). Next: 6.21, supports.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+iti nirvedhabhāgīyaṃ caturdhā
 
-> iti nirvedhabhāgīyaṃ caturdhā /
-> ity etāni catvāri nirvedhabhāgīyāni kuśalamūlāni yad uta ūṣmagataṃ mūrdhānaḥ kṣāntayo 'gradharmāś ca /
-> eṣāṃ dve mṛdūnī calatvāt parihāṇitaḥ kṣāntayo madhyamā agradharmā adhimātram /
-> nirvedhabhāgīyānīti ko 'rthaḥ / vidha vibhāge /
-> niścito vedho nirvedhaḥ āryamārgas tena vicikitsā prahāṇāt satyānāṃ ca vibhajanāt … /
-> tasya āvāhakatvena hitatvān nirvedhabhāgīyāni /
-> … bhāvanāmayam / na śrutacintāmayam /
-> anāgamyāntaradhyānabhūmikam / … nordhvaṃ … /
-> pūripūrakāṇy evānākṣepakāṇi / bhavadveṣitvāt /
-> dve tv adho 'pi vā // 6.20 // / vāśabdo matavikalpārthaḥ /
-> bhadantaghoṣakasya tu dve prathame … saptabhūmike kāmāvacare 'pi … /
+ityetāni catvāri nirvedhabhāgīyāni kuśalamūlāni yadutoṣmagataṃ mūrdhānaḥ kṣāntayo 'gradharmāśca /
 
-**Witness.** Pradhan 345|21–346|16. Voices: Vasubandhu; Ghoṣaka alternative. 6.21 at 346|17.
+eṣāṃ dve mṛdūnī calatvāt parihāṇitaḥ kṣāntayo madhyamagradharmā adhimātram /
+
+nirvedhabhāgīyānīti ko 'rthaḥ /
+vidha vibhāge /
+
+niścito vedhā nirvedhaḥ āryamārgastena vicikitsā prahāṇāt satyānāṃ ca vibhajanādidaṃ duḥkhamayaṃ yāvat mārga iti /
+
+tasya bhāgo darśanamārgaikadeśaḥ /
+
+tasyāvāhakatvena hitatvānnirvedhabhāgīyāni /
+
+taccaitaccaturvidhamapoi nirvedhabhāgīyam
+
+     bhāvanāmayam /
+
+na śrutacintāmayam /
+
+     anāgamyāntaradhyānabhūmikam
+
+anāgamyaṃ dhyānāntaraṃ catvāri ca dhyānānyasya bhūmistatsaṃgṛhītatvāt /
+
+nordhva darśanamārgaparivāratvāt /
+tadabhāvaḥ kāmadhātvālambanatvāt /
+
+tasya ca pūrvaparijñeyapraheyatvāt /
+
+teṣāṃ rūpadhātau pañcaskandhako vipākaḥ /
+
+pūripūrakāṇyevanākṣepakāṇi /
+
+bhavadveṣitvāt /
+
+     dve tvadho 'pi vā // VAkK_6.20 //
+
+vāśabdo matavikalpārthaḥ /
+
+bhadantaghoṣakasya tu dve prathame nirvedhabhāgīye saptabhūmike kāmāvacare api taḥ /
+```
+
+This is the complete running unit at [345|21–346|16] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line
+breaks are editorial. The witness retains `apoi`, `vedhā`, `duḥkhamayaṃ`,
+`nordhva`, and the closing `taḥ` as transmitted; their exact readings await
+collation. The next unit starts at [346|17].
 
 ## 3. Continuous Conventional Translation
 
-> These four wholesome roots conducive to penetration: Heat, Summits,
-> Acceptances, Highest Dharmas. The first two are weak — unstable, liable to
-> decline; Acceptances medium; Highest Dharmas strongest.
->
-> What does the name mean? √vidh is division. Determinate penetration is the
-> Noble Path: by it doubt is abandoned and the Truths are cut as “this is
-> suffering” through “this is Path.” A portion of that is a portion of the Path
-> of Seeing. These roots are beneficial as what *brings it on*.
->
-> All four are cultivation-born, not hearing-born or reflection-born. Grounds:
-> anāgamya, intermediate concentration, four dhyānas. Not higher: they belong to
-> the retinue of Seeing, whose first object to know and abandon is the
-> desire-domain. In the form-domain their ripening is five aggregates. They
-> complete; they do not project a further existence — they turn against becoming.
->
-> “The two also below” is another view. `vā` marks a split of opinion. For
-> Bhadanta Ghoṣaka, Heat and Summits have seven grounds, including the
-> desire-domain.
+“Thus the class conducive to penetration is fourfold”: these are the four
+wholesome roots, Heat, Summits, Acceptances, and the Highest Dharmas. The
+first two are weak because they are unstable and can be lost. Acceptances
+are of medium strength; the Highest Dharmas are strongest.
+
+What does “conducive to penetration” mean? The root *vidh* means division.
+Determinate penetration is the Noble Path: through it doubt is abandoned
+and the truths are distinguished as suffering and so on through Path.
+A part of it is a portion of the Path of Seeing. These four roots are called
+conducive to penetration because they are beneficial in bringing it on.
+
+This fourfold class is cultivation-born, not born of hearing or reflection.
+Its grounds are the preliminary concentration, the intermediate
+concentration, and the four dhyānas, because it is included in those
+levels. It does not occur above them: these roots accompany the Path of
+Seeing, which is absent above because it takes the desire-realm as its
+cognitive Condition, and that realm must first be fully known and
+abandoned. In the form realm the roots have a five-aggregate maturation.
+They are completing rather than projecting causes, because they turn
+against continued existence.
+
+“The two may also be below”: *vā* marks a difference of opinion. For
+Bhadanta Ghoṣaka, the first two roots have seven possible grounds, because
+they also occur on the desire-realm level.
 
 ## 4. Movement of the Commentary
 
-```text
-iti closes 6.17–19 as one class
-nirvedha = ārya-mārga as cut + doubt-abandon
-bhāgīya = āvāhaka, not already the Path
-bhāvanāmaya only; six grounds; Ghoṣaka +kāma for first two
-```
+The Bhāṣya first names and ranks the four roots. It defines their common
+end as the Noble Path's determinate penetration, distinguishes the roots
+that bring it on from penetration itself, and locates them on six
+concentration grounds. It then explains their maturation and preserves
+Ghoṣaka's additional ground for the first two alone.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Nirvedhabhagiya = Heat | Summit | Ksanti | Agradharma;
-type Mode = "bhavana"; // not "sruta" | "cinta"
-type Ground = "anagamya" | "dhyanantara" | Dhyana1to4;
-// Ghosaka: Heat | Summit may add "kamadhatu"
-// Avahaka<Nirvedha> ≠ Identity<Nirvedha>
-```
+**Translation decisions.** `Nirvedha` denotes a determinate penetration
+that abandons doubt and discriminates the truths; `bhāgīya` names the
+roots' beneficial, bringing-on relation to it. The text does not identify
+these mundane roots with the Noble Path. `Bhāvanāmayam` excludes both
+hearing-born and reflection-born formation. The commentary's
+`kāmadhātvālambana` is the desire-realm as cognitive Condition, while the
+final `kāmāvacare` is a proposed ground on which the first two roots may
+occur. The irregular readings listed above remain visible rather than being
+silently regularized.
 
-Techne: hearing and thinking do not mint these roots. Cultivation does.
+**Organon determination.** The four stages share a cultivated function
+while differing in strength and stability. A reflective Model may hold
+stage, efficacy, ground, and attributed view as distinct features. The
+Path's penetration is the result toward which they are directed, not an
+additional label for the roots themselves. This is project synthesis.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+## 6. Ground, Strength, and Causal Direction
 
-- four named; strength ranked;
-- `vā` = matavikalpa, Ghoṣaka;
-- pūripūraka not ākṣepaka.
+| Determination | Principal account | Ghoṣaka's alternative |
+|---|---|---|
+| Stages | Heat, Summits, Acceptances, Highest Mundane Dharmas | Same four |
+| Grounds | Preliminary concentration, intermediate concentration, four dhyānas | Desire-realm added for Heat and Summits only |
+| Strength | First two weak; Acceptances medium; Highest Dharmas strongest | No different ranking stated |
+| Production | Cultivation-born, excluding hearing and reflection | No different mode stated |
+| Causal role | Bring on penetration; complete rather than project continued existence | No different causal role stated |
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 345|21–346|16.
-Verse-English from [`VAK_6.20.md`](./VAK_6.20.md) §5 Literal. Provisional.
-Next: 6.21.
+The complete source unit [345|21–346|16] is present. The irregular source
+forms are marked for future collation; the continuous translation renders
+the contextually secure sense without pretending to settle them. The
+kārikā anchor matches the study translation exactly.

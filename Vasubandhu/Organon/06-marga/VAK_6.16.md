@@ -1,206 +1,262 @@
-# VAK 6.16 — The Combined Field and Fourfold Universal Seeing
+# VAK_6.16 — The Combined Cognitive Condition and Four Aspects of Seeing
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 स धर्मस्मृत्युपस्थाने समस्तालम्बने स्थितः ।
 आनित्यदुःखतः शून्यानात्मतस्तान् विपश्यति ॥ ६.१६ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 sa dharmasmṛtyupasthāne samastālambane sthitaḥ |
 ānityaduḥkhataḥ śūnyānātmatas tān vipaśyati || 6.16 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The preceding establishments preserve body, feeling, consciousness, and
+dharmas as distinct fields. This verse joins them in the combined cognitive
+Condition of the dharma establishment and specifies four aspects of seeing.
 
-**Padaccheda**
+## 3. Lexical Analysis
 
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `saḥ` | nominative singular masculine pronoun | the practitioner formed by the preceding cultivation |
+| `dharmasmṛtyupasthāne` | locative singular neuter compound | in the establishment of recollection concerning dharmas |
+| `samastālambane` | locative singular neuter compound | with a combined cognitive Condition |
+| `sthitaḥ` | nominative singular masculine participle of `√sthā` | established in that practice |
+| `ānitya-` | first member of a compressed series | as impermanent; explained by prose `anityataḥ` |
+| `duḥkhataḥ` | adverbial ablative | as suffering |
+| `śūnyataḥ` | adverbial ablative | as empty |
+| `anātmataḥ` | adverbial ablative | as not-self |
+| `tān` | accusative plural masculine pronoun | those fields beginning with body |
+| `vipaśyati` | third-person singular present of `vi-√paś` | sees distinctly |
+
+```text
 saḥ | dharma-smṛti-upasthāne | samasta-ālambane | sthitaḥ |
 ānitya-duḥkhataḥ | śūnya-anātmataḥ | tān | vipaśyati
+```
 
-| Form | Analysis | Contextual force |
-|---|---|---|
-| **saḥ** | masculine nominative singular pronoun | he; the practitioner who has cultivated the preceding foundations |
-| **dharma-smṛtyupasthāne** | neuter locative singular compound | in the foundation of mindfulness concerning dharmas |
-| **samasta-ālambane** | neuter locative singular, agreeing with *dharma-smṛtyupasthāne* | having the whole or combined field as its object-support |
-| **sthitaḥ** | masculine nominative singular past passive participle from √sthā | established, situated, having taken a stable stand |
-| **ānitya-** | first member of a compressed series | with respect to impermanence; explained in the Bhāṣya by *anityataḥ* |
-| **duḥkhataḥ** | adverbial ablative formation | as suffering or unsatisfactory |
-| **śūnyataḥ** | adverbial ablative formation | as empty |
-| **anātmataḥ** | adverbial ablative formation | as not-self |
-| **tān** | masculine accusative plural pronoun | those; the previously examined fields beginning with body |
-| **vipaśyati** | third-person singular present active from *vi-√paś* | sees distinctly, discerns analytically |
-
-The local kārikā witness reads **ānitya-**, while the Bhāṣya glosses the four modes with **anityataḥ duḥkhataḥ śūnyataḥ anātmataḥ**. The study therefore preserves **ānitya-** in the witness and construes it through the Bhāṣya as “with respect to impermanence” or “as impermanent.”
+The separate kārikā has `ānitya-`; the running verse has `ānaty-`, while the
+prose gives `anityataḥ`. The latter fixes the local sense without silently
+altering either Sanskrit witness.
 
 ## 4. Grammar
 
-The main construction is **saḥ ... sthitaḥ ... tān vipaśyati**: “he, established [there], sees those [fields] distinctly.” The masculine nominative **saḥ** and participle **sthitaḥ** share the practitioner as their subject; **vipaśyati** supplies the finite verbal action.
+The main construction is `saḥ ... sthitaḥ ... tān vipaśyati`: the practitioner,
+established in the dharma establishment, sees those previously distinguished
+fields. The locatives `dharmasmṛtyupasthāne` and `samastālambane` agree; the
+second specifies its combined cognitive Condition. The Bhāṣya calls this a
+`saṃbhinna-ālambana`.
 
-The two locatives **dharmasmṛtyupasthāne** and **samastālambane** are in apposition. The practitioner is established in the foundation concerning dharmas, further determined as having the total field for its object-support. The Bhāṣya specifies this as a **saṃbhinna-ālambana**, a combined object-support.
-
-The accusative plural **tān** refers back to the several fields beginning with body: body, feeling, citta, and dharmas. They are not erased in the totality. They remain the differentiated contents now comprehended together.
-
-The four adverbial forms determine the manner in which the practitioner sees those fields. The Bhāṣya makes their parallel syntax explicit:
+`Tān` refers to body, feeling, consciousness (`citta`), and dharmas together.
+The prose resolves the four seeing-aspects as parallel expressions:
 
 ```text
-anityataḥ  — as impermanent
-duḥkhataḥ  — as suffering
-śūnyataḥ   — as empty
-anātmataḥ  — as not-self
+anityataḥ   as impermanent
+duḥkhataḥ   as suffering
+śūnyataḥ    as empty
+anātmataḥ   as not-self
 ```
 
-The grammar therefore joins three determinations in one act: an established standpoint, a combined object-support, and a four-mode distinct seeing.
+The scope rule from 6.14 still governs: impermanence applies to the
+conditioned, suffering to what is with influx, and emptiness and not-self to
+all dharmas. Combination of the fields does not erase those differences.
+
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PRACTITIONER[STATE=established, PRACTICE=dharma-establishment]
+  ← saḥ + dharmasmṛtyupasthāne + sthitaḥ
+CONDITION[COMPOSITION=combined,
+          FIELDS=body+feeling+consciousness+dharmas]
+  ← samastālambane + tān
+SEEING[ASPECTS=impermanent+suffering+empty+not-self,
+       SCOPE=conditioned|with-influx|all-dharmas]
+  ← vipaśyati + [four adverbial aspects, Bhāṣya resolution]
+```
+
+The source supplies the locative construction and the four aspects. The
+feature slots preserve combined scope and the distinct applicability rules
+for later reflective modeling.
 
 ## 5. Translation
 
 ### Literal Translation
 
-Established in the foundation of mindfulness concerning dharmas, whose object-support is the whole, he sees those [fields] distinctly as impermanent, suffering, empty, and not-self.
+> Established in the dharma establishment with a combined cognitive Condition,
+> the practitioner sees those [fields] as impermanent, suffering, empty, and
+> not-self.
 
 ### Bhāṣya-informed study translation
 
-Having become established in the foundation concerning dharmas with a combined object-support, the practitioner comprehends body, feeling, citta, and dharmas together and sees them through four modes: as impermanent, as suffering, as empty, and as not-self.
+> Having cultivated the establishments for body, feeling, consciousness, and
+> dharmas, the practitioner stands in the dharma establishment with a combined
+> cognitive Condition. They gather those fields together and see them in four
+> aspects: as impermanent, suffering, empty, and not-self.
+
+### Translation note
+
+The combined Condition and the referent of `tān` are specified by the Bhāṣya.
+The applicability of the four aspects follows the preceding unit's scope rule.
 
 ## 6. Philosophical Translation
 
-The four fields have first been distinguished; they are now gathered without losing their distinctions. Established in the dharma-foundation whose support is this articulated whole, the practitioner sees body, feeling, citta, and dharmas under four universal determinations: impermanence, suffering, emptiness, and not-self.
+> The practitioner has examined four fields and can now hold them together as
+> one articulated cognitive Condition. Distinct seeing works across that
+> whole through impermanence, suffering, emptiness, and not-self, while each
+> aspect keeps the range proper to it. The synthesis belongs to the operation
+> of Prajñā rather than to a loss of the fields' differences.
 
-The movement is not from analysis back into an indeterminate unity. It is from differentiated examination to a comprehension in which the differences are retained and jointly subjected to universal seeing. This synthetic contemplation becomes the immediate condition from which the next Path-capacity can arise.
+The movement in this unit is:
+
+```text
+separately examined fields
+    → combined cognitive Condition
+    → four scoped aspects of distinct seeing
+```
 
 ## 7. Technical Vocabulary
 
-**dharma-smṛtyupasthāna**
+**`Dharma-smṛtyupasthāna` — establishment of recollection concerning dharmas**
 
-The fourth foundation of mindfulness can take dharmas alone as an unmixed support, or it can take two, three, or all four of the fields together. VAK 6.16 concerns this second, comprehensive operation. Because Prajñā is the intrinsic nature of the foundation, “mindfulness concerning dharmas” here names a discriminative contemplative operation, not passive recollection.
+The fourth establishment can take dharmas alone or, as here, a combined
+Condition comprising body, feeling, consciousness, and dharmas. Prajñā remains
+its intrinsic nature under the distinction established in 6.15.
 
-**samasta-ālambana and saṃbhinna-ālambana**
+**`Samasta-ālambana` — combined cognitive Condition**
 
-The kārikā calls the support **samasta**, whole or total. The Bhāṣya determines this more precisely as **saṃbhinna-ālambana**, a combined or mixed object-support. “Combined” does not mean confused. Body, feeling, citta, and dharmas were first examined according to their respective determinations and are now taken together.
+The kārikā names the whole taken up in this contemplation. Its components
+remain differentiated; the total Condition is their articulated combination.
 
-The contrast is:
+**`Saṃbhinna-ālambana` / `asaṃbhinna-ālambana` — mixed / unmixed Condition**
 
-```text
-asaṃbhinna-ālambana — an unmixed, single-field support
-saṃbhinna-ālambana  — a support combining several or all fields
-```
+The Bhāṣya calls the Condition in 6.16 `saṃbhinna`. The end of 6.15 contrasts
+it with an unmixed Condition that takes one field alone. The distinction
+concerns composition of the cognitive Condition, not clarity or confusion.
 
-**sthita**
+**`Sthita` — established**
 
-The practitioner is **established** in the foundation. The term marks more than the occurrence of a passing thought: the contemplative standpoint has acquired sufficient stability for the whole differentiated field to be sustained as one support.
+The practitioner has a stable standpoint in the dharma establishment. The
+participle qualifies the agent of `vipaśyati`; it does not itself name a new
+Path stage.
 
-**vipaśyati**
+**`Tān` — those fields**
 
-From *vi-√paś*, **vipaśyati** expresses distinct or discriminative seeing. Its four adverbial determinations specify the modes of that seeing. The verb thus connects the foundations of mindfulness directly with the development of vipaśyanā announced in VAK 6.14.
+The plural retains body, feeling, consciousness, and dharmas within the
+combined Condition. The Bhāṣya explicitly resolves the reference as all the
+fields beginning with body.
 
-**The four universal modes**
+**`Vipaśyati` — sees distinctly**
 
-- **anitya** — impermanent: conditioned formations arise and cease;
-- **duḥkha** — suffering or unsatisfactory: what is conditioned and contaminated cannot provide secure satisfaction;
-- **śūnya** — empty: empty of a self belonging to or governing the series;
-- **anātman** — not-self: neither an independent self nor what belongs to such a self.
+The verb names the discriminative act developed from the examination
+prescribed in 6.14. Its four adverbial expressions specify aspects under
+which the combined field is seen.
 
-The last two should not be collapsed. In the Kośa analysis, emptiness and not-self are coordinated but distinct modes of examination.
+**`Anityataḥ / duḥkhataḥ / śūnyataḥ / anātmataḥ` — as impermanent / suffering / empty / not-self**
 
-**uṣmagata as the Bhāṣya's consequence**
-
-The verse itself ends with the four-mode seeing. Immediately afterward, the Bhāṣya states that from the gradual cultivation of this dharma-foundation there arises the wholesome root called **uṣmagata**, Heat. Heat is described as the preliminary sign (*pūrvarūpa*) of the fire of the Noble Path that will burn the fuel of the afflictions.
-
-This consequence belongs to the Bhāṣya's continuation and anticipates VAK 6.17; it is not additional wording contained in 6.16.
+These are the prose's parallel forms. The separate kārikā starts with
+`ānitya-`, while the running verse transmits `ānaty-`. The preceding Bhāṣya
+assigns impermanence to conditioned dharmas, suffering to those with influx,
+and emptiness and not-self to all dharmas. The combined Condition does not
+broaden the first two beyond those ranges.
 
 ## 8. Logical Determination
 
-VAK 6.15 distinguished three relational senses of a foundation: intrinsic nature, associated complex, and object-support. VAK 6.16 now develops the object-support at its most comprehensive point.
+The source's structure can be represented as:
 
 ```text
-body ──────┐
-feeling ───┤
-citta ─────┼→ combined object-support
-dharmas ───┘
+Members(CombinedCondition) = {Body, Feeling, Consciousness, Dharmas}
+EstablishedIn(practitioner, DharmaEstablishment)
+TakesCondition(DharmaEstablishment, CombinedCondition)
+SeesThrough(practitioner, CombinedCondition,
+            {Impermanence, Suffering, Emptiness, NotSelf})
 ```
 
-This combination supports four universal predications:
+The inherited applicability constraints remain:
 
 ```text
-CombinedField → seenAs Impermanent
-CombinedField → seenAs Suffering
-CombinedField → seenAs Empty
-CombinedField → seenAs NotSelf
+Conditioned(x) → Applicable(Impermanence, x)
+WithInflux(x)  → Applicable(Suffering, x)
+Dharma(x)     → Applicable(Emptiness, x)
+Dharma(x)     → Applicable(NotSelf, x)
 ```
 
-The structure is therefore neither a bare aggregation nor an abstract universal imposed before analysis:
-
-```text
-differentiation of fields
-    → retention of their determinations
-    → combination as one object-support
-    → universal four-mode seeing
-    → maturation toward a new Path stage
-```
-
-The source establishes the combined field and its four modes. The final genetic arrow is warranted by the immediately following Bhāṣya, which says that repeated cultivation gives rise to Heat.
-
-In Organon terms, explicitly as project synthesis, this is a transition from relationally articulated content to practical universality. The universal characteristics are meaningful because they operate across a field whose differences have already been determined. The whole is therefore the system of its retained differences, not their cancellation.
+A later LogicFrame can evaluate these predications for each member without
+turning a combined Condition into an undifferentiated class.
 
 ## 9. Interpretive Note
 
-The force of **samasta-ālambana** is architectural. The preceding foundations do not disappear when the dharma-foundation becomes comprehensive. Their results are preserved within a combined support, allowing Prajñā to see a single articulated field through characteristics that hold universally across it.
+**The whole retains its fields.** The practitioner sees the four examined
+fields together; `tān` and the Bhāṣya's `kāyādīn sarvān` preserve their
+plurality.
 
-This yields an important form of Path Meaning. The four characteristics are not merely propositions known about phenomena. They become modes under which the practitioner actually apprehends the total field. Meaning therefore passes from classificatory content into a stable operation of seeing.
+**Four aspects are acts of seeing.** `Vipaśyati` governs the aspect terms.
+Their role is to determine how the field is comprehended in practice, with
+the applicability rules established in 6.14.
 
-The distinction between source doctrine and Organon reconstruction must remain visible. Vasubandhu's text and Bhāṣya establish the combined object-support, the four modes, and the arising of Heat from repeated cultivation. The description of this movement as “practical universality” and as the whole retaining its articulated differences is the Organon's logical interpretation.
-
-At this point Paramārtha is approached as Path rather than possessed as detached Knowledge. The practitioner does not merely affirm impermanence, suffering, emptiness, and not-self; the entire differentiated field is reorganized under their active contemplative force. That transformed apprehension is capable of generating the next stage.
+**Organon interpretation.** The combined Condition offers a reflective
+surface on which a field's identity, membership, and applicable aspects can
+be held together. A future Model can carry those features into LogicFrame
+without suppressing the differences required for correct predication. This
+is project formalization of the source's contemplative relation.
 
 ## 10. OWL++ Seed
 
 ```text
-Class: FoundationOfMindfulness
-Class: DharmaFoundation
-  SubClassOf: FoundationOfMindfulness
-
-Class: ObjectSupport
-Class: UnmixedObjectSupport
-  SubClassOf: ObjectSupport
-Class: CombinedObjectSupport
-  SubClassOf: ObjectSupport
-
+Class: EstablishmentOfRecollection
+Class: DharmaEstablishment
+    SubClassOf: EstablishmentOfRecollection
+Class: CognitiveCondition
+Class: CombinedCondition
+    SubClassOf: CognitiveCondition
+Class: ExaminationField
 Class: BodyField
+    SubClassOf: ExaminationField
 Class: FeelingField
-Class: CittaField
+    SubClassOf: ExaminationField
+Class: ConsciousnessField
+    SubClassOf: ExaminationField
 Class: DharmaField
-Class: DistinctSeeing
-Class: UniversalMode
-Class: ImpermanenceMode
-  SubClassOf: UniversalMode
-Class: SufferingMode
-  SubClassOf: UniversalMode
-Class: EmptinessMode
-  SubClassOf: UniversalMode
-Class: NotSelfMode
-  SubClassOf: UniversalMode
+    SubClassOf: ExaminationField
+Class: SeeingAspect
+Class: ImpermanenceAspect
+    SubClassOf: SeeingAspect
+Class: SufferingAspect
+    SubClassOf: SeeingAspect
+Class: EmptinessAspect
+    SubClassOf: SeeingAspect
+Class: NotSelfAspect
+    SubClassOf: SeeingAspect
 
-ObjectProperty: hasObjectSupport
+ObjectProperty: hasCognitiveCondition
+    Domain: EstablishmentOfRecollection
+    Range: CognitiveCondition
+
 ObjectProperty: combinesField
-ObjectProperty: seesThroughMode
-ObjectProperty: arisesFromCultivationOf
+    Domain: CombinedCondition
+    Range: ExaminationField
 
-DharmaFoundation SubClassOf
-  hasObjectSupport some CombinedObjectSupport
+ObjectProperty: seesThroughAspect
+    Domain: DharmaEstablishment
+    Range: SeeingAspect
 
-CombinedObjectSupport Facts:
-  combinesField BodyField
-  combinesField FeelingField
-  combinesField CittaField
-  combinesField DharmaField
+Assertion: DharmaEstablishment hasCognitiveCondition CombinedCondition
+Assertion: CombinedCondition combinesField BodyField
+Assertion: CombinedCondition combinesField FeelingField
+Assertion: CombinedCondition combinesField ConsciousnessField
+Assertion: CombinedCondition combinesField DharmaField
 
-DistinctSeeing Facts:
-  seesThroughMode ImpermanenceMode
-  seesThroughMode SufferingMode
-  seesThroughMode EmptinessMode
-  seesThroughMode NotSelfMode
+Constraint: ImpermanenceAspect appliesTo ConditionedDharma
+Constraint: SufferingAspect appliesTo WithInfluxDharma
+Constraint: EmptinessAspect appliesTo AllDharmas
+Constraint: NotSelfAspect appliesTo AllDharmas
 
-Constraint: A CombinedObjectSupport retains the differentiated fields that it combines.
-Constraint: Universal seeing operates upon the articulated combined field.
-BhāṣyaRule: Heat arisesFromCultivationOf the repeatedly cultivated DharmaFoundation with CombinedObjectSupport.
-ProjectRule: PracticalUniversality = retained differences + combined support + universal contemplative modes.
+View: CombinedFourAspectSeeing
+    Preserves: FieldIdentity, CombinedMembership, CognitiveCondition,
+               SeeingAspect, ApplicabilityScope, SourceProvenance
 ```
+
+The seed is a project schema for the combined Condition and the aspects of
+seeing. It carries forward the scope distinctions from 6.14.

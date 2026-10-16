@@ -1,23 +1,22 @@
 # VAK 6.20 — The Four Factors Conducive to Penetration
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 इति निर्वेधभागीयं चतुर्धा भावनामयम् ।
 अनागम्यान्तरध्यानभूमिकं द्वे त्वधोऽपि वा ॥ ६.२० ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 iti nirvedhabhāgīyaṃ caturdhā bhāvanāmayam |
-anāgamyāntaradhyānabhūmikaṃ dve tv adho ’pi vā || 6.20 ||
+anāgamyāntaradhyānabhūmikaṃ dve tv adho 'pi vā || 6.20 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-**Padaccheda**
-
-iti | nirvedha-bhāgīyam | caturdhā | bhāvanā-mayam |
-anāgamya-antara-dhyāna-bhūmikam | dve | tu | adhaḥ | api | vā
-
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **iti** | concluding particle | thus; gathers and closes the sequence from Heat through the Highest Mundane Dharmas |
 | **nirvedha-bhāgīyam** | neuter nominative singular derivative compound | conducive to or bringing on determinate penetration |
@@ -26,10 +25,15 @@ anāgamya-antara-dhyāna-bhūmikam | dve | tu | adhaḥ | api | vā
 | **anāgamya-antara-dhyāna-bhūmikam** | neuter nominative singular compound | grounded in the preliminary concentration, intermediate concentration, and four dhyānas |
 | **dve** | neuter nominative dual | the two; Heat and the Summits |
 | **tu** | contrastive particle | but; introduces a qualification to the principal account |
-| **adhaḥ api** | adverb plus particle | also below; also on the desire-domain level |
+| **adhaḥ api** | adverb plus particle | also below; also on the desire-realm level |
 | **vā** | alternative particle | or; marks another doctrinal opinion |
 
 The compact compound **anāgamyāntaradhyānabhūmikam** enumerates six grounds: the *anāgamya*, the intermediate concentration, and the four principal dhyānas. The Bhāṣya attributes the alternative seventh ground for the first two stages to Bhadanta Ghoṣaka.
+
+```text
+iti | nirvedha-bhāgīyam | caturdhā | bhāvanā-mayam |
+anāgamya-antara-dhyāna-bhūmikam | dve | tu | adhaḥ | api | vā
+```
 
 ## 4. Grammar
 
@@ -39,23 +43,50 @@ The opening nominal sentence has **nirvedhabhāgīyam** as its central predicate
 
 **anāgamyāntaradhyānabhūmikam** supplies another predicate: the class belongs to the grounds of the preliminary concentration, intermediate concentration, and dhyānas. The singular **bhūmikam** applies distributively to the fourfold complex.
 
-In **dve tv adho ’pi vā**, the dual **dve** selects the first two members of the preceding fourfold class. **vā** is not mere hesitation; the Bhāṣya says it marks an alternative opinion. On that view, Heat and Summits may also occur “below,” in the desire-domain.
+In **dve tv adho 'pi vā**, the dual **dve** selects the first two members of the preceding fourfold class. **vā** marks an alternative opinion in the Bhāṣya. On that view, Heat and Summits may also occur below, in the desire-realm.
+
+**Future Feature Grammar sketch (not executable):**
+
+```text
+CLASS[NAME=nirvedhabhāgīya, MEMBERS=Heat+Summits+Acceptance+Highest-Mundane-Dharmas,
+      MODE=cultivation-born, FUNCTION=brings-on-penetration]
+  ← iti nirvedhabhāgīyaṃ caturdhā bhāvanāmayam
+CLASS[GROUND=preliminary-concentration+intermediate-concentration+four-dhyānas]
+  ← anāgamyāntaradhyānabhūmikaṃ
+VIEW[Ghoṣaka, MEMBERS=Heat+Summits, ADDITIONAL-GROUND=desire-realm]
+  ← dve tv adho 'pi vā
+```
+
+The ground extension is a named Bhāṣya alternative, not a seventh ground asserted for all four stages.
 
 ## 5. Translation
 
 ### Literal Translation
 
-Thus, what is conducive to penetration is fourfold and cultivation-born. It belongs to the grounds of the preliminary concentration, the intermediate concentration, and the dhyānas; but the two may also [occur] below, according to another view.
+> Thus the class conducive to penetration is fourfold and cultivation-born. It
+> belongs to the preliminary concentration, the intermediate concentration,
+> and the dhyānas as grounds; on another view, the first two may also occur
+> below.
 
 ### Bhāṣya-informed study translation
 
-Heat, Summits, Acceptance, and the Highest Mundane Dharmas constitute the fourfold class of wholesome roots that bring on determinate penetration. All are produced through cultivation and principally occur on six concentration-grounds: the preliminary concentration, the intermediate concentration, and the four dhyānas. According to Bhadanta Ghoṣaka's alternative position, Heat and Summits can also occur in the desire-domain.
+> Heat, Summits, Acceptance, and the Highest Mundane Dharmas are the four
+> cultivation-born wholesome roots that bring on determinate penetration by
+> the Noble Path. Their six grounds are the preliminary concentration, the
+> intermediate concentration, and the four dhyānas. Bhadanta Ghoṣaka also
+> allows Heat and Summits on the desire-realm level.
+
+### Translation note
+
+The Bhāṣya supplies the four names, the roots' role in bringing on the
+Noble Path's penetration, the enumeration of six grounds, and the attribution
+of the lower-ground alternative to Ghoṣaka.
 
 ## 6. Philosophical Translation
 
 The preparatory sequence is now comprehended as one function differentiated into four degrees. Its unity lies in bringing on penetration; its internal differences mark increasing stability and force. These roots are no longer merely heard or reflectively entertained determinations. They are Prajñā made operative through cultivation.
 
-Their meditative grounds specify the conditions under which this practical cognition can arise. The principal account assigns all four to six concentration-levels, while a preserved alternative widens the basis of the first two stages to include the desire-domain.
+Their meditative grounds specify the conditions under which this practical cognition can arise. The principal account assigns all four to six concentration-levels, while a preserved alternative widens the basis of the first two stages to include the desire-realm.
 
 The preparations do not yet perform the Noble Path's penetration. They become its determinate conditions: cultivated truth-cognition is progressively organized until it can bring on the Path that abandons doubt and discriminates the Truths decisively.
 
@@ -119,15 +150,15 @@ The principal account locates all four stages on six grounds:
 5. third dhyāna;
 6. fourth dhyāna.
 
-The Bhāṣya does not place them above these grounds. They belong to the entourage of the Path of Seeing, which must first fully know and abandon the desire-domain that serves as its object.
+The Bhāṣya does not place them above these grounds. They belong to the entourage of the Path of Seeing, which takes the desire-realm as its cognitive Condition; that realm must first be fully known and abandoned.
 
 **The alternative of Bhadanta Ghoṣaka**
 
-The final **vā** preserves a named alternative. For Bhadanta Ghoṣaka, the first two nirvedhabhāgīyas—Heat and Summits—have seven possible grounds because they can occur in the desire-domain as well. Acceptance and the Highest Mundane Dharmas are not included in this extension.
+The final **vā** preserves a named alternative. For Bhadanta Ghoṣaka, the first two nirvedhabhāgīyas—Heat and Summits—have seven possible grounds because they can occur in the desire-realm as well. Acceptance and the Highest Mundane Dharmas are not included in this extension.
 
 **pūripūraka and ākṣepaka**
 
-The Bhāṣya adds that in the form-domain these roots yield a five-aggregate maturation. They function as **pūripūraka**, completing causes, rather than **ākṣepaka**, causes that project a new existence. Their causal orientation opposes continued becoming (*bhava-dveṣitva*).
+The Bhāṣya adds that in the form realm these roots yield a five-aggregate maturation. They function as **pūripūraka**, completing causes, rather than **ākṣepaka**, causes that project a new existence. Their causal orientation opposes continued becoming (*bhava-dveṣitva*).
 
 This is a Bhāṣya determination rather than wording contained in the kārikā.
 
@@ -147,7 +178,7 @@ With the attributed alternative:
 ```text
 Heat and Summits
     principal account: six grounds
-    Ghoṣaka's account:  six grounds + desire-domain
+    Ghoṣaka's account:  six grounds + desire-realm
 ```
 
 The four stages can now be represented as a single graded function:
@@ -174,7 +205,7 @@ The concluding **iti** matters. VAK 6.17–6.19 did not merely accumulate stage 
 
 This gives **nirvedhabhāgīya** an especially strong role in a Pipeline of Practical Meaning. Each stage is determined by what precedes it, the transformation it performs, and the breakthrough it is capable of bringing on. Its meaning is inseparable from its position and efficacy within the system.
 
-The distinction among hearing-born, reflection-born, and cultivation-born Prajñā is also decisive. Correctly received or reasoned truth does not yet constitute this preparatory Path. The same determinations must become operative as cultivated cognition. Paramārtha is approached here through this transformation of the mode of cognition, not by adding a detached item of Knowledge.
+The distinction among hearing-born, reflection-born, and cultivation-born Prajñā is also decisive. Correctly received or reasoned truth does not yet constitute this preparatory Path. The same determinations must become operative as cultivated cognition. Paramārtha is approached here through this transformation of the mode of cognition.
 
 The kārikā states the fourfold class, its cultivation-born character, its six grounds, and an alternative lower location for the first two. The definition of penetration, the graded strength of the four roots, their completing rather than projecting efficacy, the reason for excluding higher grounds, and the attribution to Ghoṣaka are Bhāṣya determinations. “Threshold-form” and the Pipeline formulation are Organon reconstructions.
 
@@ -200,7 +231,7 @@ Class: FirstDhyāna
 Class: SecondDhyāna
 Class: ThirdDhyāna
 Class: FourthDhyāna
-Class: DesireDomain
+Class: DesireRealm
 
 ObjectProperty: producedThrough
 ObjectProperty: bringsOn
@@ -222,8 +253,8 @@ Acceptance strongerThan Summit
 HighestMundaneDharma strongerThan Acceptance
 
 AlternativeView_Ghoṣaka:
-  Heat mayOccurOnGround DesireDomain
-  Summit mayOccurOnGround DesireDomain
+  Heat mayOccurOnGround DesireRealm
+  Summit mayOccurOnGround DesireRealm
 
 Constraint: The four preparatory stages are cultivation-born, not hearing-born or reflection-born.
 Constraint: Being conducive to penetration does not entail already being DeterminatePenetration.

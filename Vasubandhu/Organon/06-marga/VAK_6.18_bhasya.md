@@ -1,74 +1,122 @@
-# VAK_6.18 Bhāṣya — First Placement; Strengthening; Acceptance
+# VAK_6.18 Bhāṣya — Formation, Strengthening, and Acceptance
 
 ## 1. Kārikā Anchor
 
 > ubhayākaraṇaṃ dharmeṇānyair api tu vardhanam |
 > tebhyaḥ kṣāntir dvidhā tadvat kṣāntyā dharmeṇa vardhanam || 6.18 ||
 
-Literal (from the kārikā study):
+> Heat and the Summits first form through the dharma establishment, when the
+> aspects are placed on the Truths; all four establishments can then
+> strengthen them. Acceptance arises from the developed Summits. Its weak and
+> medium grades form in the same way, while every grade of Acceptance is
+> strengthened through the dharma establishment alone.
 
-> The formation of both is through [the foundation concerning] dharmas, but
-> their strengthening is also through the others. From them arises Acceptance;
-> in two [grades] it is like that. The strengthening of Acceptance is through
-> [the foundation concerning] dharmas.
+The Bhāṣya defines formation as first placing the aspects on the Truths,
+then differentiates the means of strengthening Heat, Summits, and Acceptance.
 
-Kārikā study: [`VAK_6.18.md`](./VAK_6.18.md). Next: 6.19, highest Acceptance.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+ubhayākaraṇaṃ dharmeṇa
 
-> ubhayākaraṇaṃ dharmeṇa /
-> eṣāṃ punar ubhayoṣ ūṣmagata-mūrdhnāṃ dharmasmṛtyupasthānenākaraṇam /
-> kim idam ākaraṇam / satyeṣv ākārāṇāṃ prathamato vinyasanam /
-> anyair api tu vardhanam / caturbhir api smṛtyupasthānair eṣāṃ vardhanam /
-> vivardhayataḥ pūrvapratilabdhānām asaṃmukhībhāvo 'vahumānatvāt /
-> … tebhyaḥ kṣāntiḥ / adhimātrasya kṣamaṇād aparihāṇitaḥ /
-> sā 'pi triprakārā mṛdvī madhyā 'dhimātrā ca /
-> dvidhā tadvat / yathā mūrdhāna uktāḥ evaṃ mṛdu-madhye kṣāntī tathaivākaraṇāt /
-> sarvasyāḥ kṣāntyā dharmeṇa vardhanam // 6.18 // / … nānyena /
+eṣāṃ punarubhayeṣamūṣmagatamūrdhnāṃ dharmasmṛtyupasthānenākaraṇam /
 
-**Witness.** Pradhan 344|03–344|15. Voice: Vasubandhu. Do not read
-`asaṃmukhībhāva` as increased presence. 6.19 at 344|16.
+kimidamākaraṇam /
+
+satyeṣvakārāṇāṃ prathamatovinyasanam /
+
+     anyairapi tu vardhanam /
+
+caturbhirapi smṛtyupasthānaireṣāṃ vardhanam /
+
+vivardhayataḥ pūrvapratilabdhānāmaṃsaṃmukhībhābo 'vahumānatvāt /
+
+mṛdumadhyādhimātrakramābhivṛddhebhyaḥ punarutpadyate
+
+     tebhyaḥ kṣāntiḥ
+
+adhimātrasya kṣamaṇādaparihāṇitaḥ /
+sā 'pi triprakārā mṛdvī madhyā 'dhimātrā ca /
+
+     dvidhā tadvat
+
+yathā mūrdhāna uktāḥ evaṃ mṛdumadhye kṣāntī tathaivākaraṇāt /
+
+vivardhane tvayaṃ viśeṣaḥ /
+
+sarvasyāḥ
+
+     kṣāntyā dharmeṇa vardhanam // VAkK_6.18 //
+
+smṛtyupasthānenaiva nānyena /
+```
+
+This is the complete running unit at [344|03–344|15] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line breaks
+are editorial. The transmitted `ākārāṇāṃ` appears in the source as
+`akārāṇāṃ`; `aṃsaṃmukhībhābo` is also left as transmitted. The local
+argument supports first placement of aspects and non-presence of earlier
+grades, but those forms remain available for textual review. The next unit
+begins at [344|16].
 
 ## 3. Continuous Conventional Translation
 
-> The formation of both Heat and the Summits is through the dharma-establishment.
-> What is this formation? The first placing of the modes upon the Truths. Their
-> strengthening may also use the others: all four establishments. As they are
-> strengthened, previously attained grades cease to be present, from lesser
-> regard for them. From those, grown as weak, medium, and strong, Acceptance
-> arises.
->
-> It is called Acceptance from accepting the highest without decline. It too is
-> threefold: weak, medium, strong. Weak and medium are formed as the Summits were.
-> In strengthening this difference: every Acceptance is strengthened through the
-> dharma-establishment alone, not through another.
+The initial formation of both Heat and the Summits is through the dharma
+establishment. What is formation? It is the first placement of aspects on the
+Truths. Their strengthening, however, can also occur through the other
+establishments: all four may strengthen them. As their development proceeds,
+previously attained grades cease to be present, owing to diminished regard
+for them. The transmitted word for non-presence is uneven; this reading
+follows the local explanation of development.
+
+From those Summits, strengthened through weak, medium, and high grades,
+Acceptance arises. Why is it called Acceptance? Because the highest grade is
+accepted without falling away. Acceptance itself has three grades: weak,
+medium, and high. Its weak and medium grades are initially formed as the
+Summits were. There is a difference in strengthening: every grade of
+Acceptance is strengthened through the dharma establishment alone, and not
+through another.
 
 ## 4. Movement of the Commentary
 
-```text
-ākaraṇa = first vinyasana of 16 modes on 4 truths (dharma-establishment)
-vardhana of Heat/Summit = all four establishments
-prior grades → asaṃmukhī (not stacked as simultaneous loot)
-kṣānti from Summits; all its vardhana = dharma-establishment only
-```
+The commentary defines `ākaraṇa` as first placement of aspects upon the
+Truths. It lets all four establishments strengthen Heat and Summits, while
+noting that earlier grades need not remain present during later development.
+It derives Acceptance from the developed Summits, names three grades, and
+limits Summit-like formation to the first two. All three grades of Acceptance
+are strengthened through the dharma establishment alone.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Akaranam = { place: "16_akaras_on_4_satyas"; via: "dharma_smrtyupasthana" };
-type VardhanaHeatSummit = { via: "all_four" };
-type VardhanaKsanti = { via: "dharma_only" };
-// prior grade.asammuukhi ≠ prior grade.deleted_from_genesis
-```
+**Translation decisions.** `Ubhaya` refers to Heat and Summits. `Anyaiḥ`
+permits the other three establishments in addition to the dharma
+establishment, giving all four. `Tebhyaḥ` refers to the developing Summits.
+The prose resolves `dvidhā tadvat` as weak and medium Acceptance formed like
+the Summits; it also adds a strong grade. The final `dharmeṇa` is exclusive
+for strengthening Acceptance because the commentary says
+`smṛtyupasthānenaiva nānyena`.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** Formation establishes a determinate truth-aspect
+structure; strengthening increases its efficacy. The same establishment can
+participate differently in these two operations. A future reflective Feature
+Grammar can keep stage, grade, operation, and means in separate slots, while
+a LogicFrame can express how Acceptance arises from the developed Summits.
+This formalization belongs to the project layer.
 
-- `ubhaya` = Heat and Summits;
-- `ākaraṇa` defined as first placement;
-- `dvidhā tadvat` = weak and medium Acceptance formed like Summits.
+## 6. Formation and Strengthening
+
+| Stage | Initial formation | Strengthening |
+|---|---|---|
+| Heat | Dharma establishment | All four establishments |
+| Summits | Dharma establishment | All four establishments |
+| Weak and medium Acceptance | Like the Summits | Dharma establishment alone |
+| Strong Acceptance | Further determination begins in 6.19 | Dharma establishment alone |
+
+The commentary distinguishes the prior grade's genetic role from its
+continued presence during later development.
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 344|03–15.
-First-pass `saṃmukhībhāva` as “increased presence” rejected. Verse-English from
-[`VAK_6.18.md`](./VAK_6.18.md) §5 Literal. Provisional. Next: 6.19.
+Provisional. The complete unit was checked against [344|03–344|15]. The
+uneven source forms remain visible for later textual review. The kārikā
+anchor exactly matches the study translation.

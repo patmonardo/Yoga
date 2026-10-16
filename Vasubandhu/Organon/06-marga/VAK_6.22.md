@@ -1,23 +1,22 @@
 # VAK 6.22 — Regression, Reacquisition, and Non-Possession
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 आद्ये द्वे परिहाण्या च मौलेस्तत्रैव सत्यदृक् ।
 अपूर्वाप्तिर्विहीनेषु हानी द्वे असमन्वितिः ॥ ६.२२ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 ādye dve parihāṇyā ca maules tatraiva satyadṛk |
 apūrvāptir vihīneṣu hānī dve asamanvitiḥ || 6.22 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-**Padaccheda**
-
-ādye | dve | parihāṇyā | ca | mauleḥ | tatra | eva | satya-dṛk |
-apūrva-āptiḥ | vihīneṣu | hānī | dve | asamanvitiḥ
-
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **ādye dve** | neuter nominative dual | the first two preparatory roots: Heat and the Summits |
 | **parihāṇyā** | feminine instrumental singular | through regression or decline |
@@ -29,6 +28,11 @@ apūrva-āptiḥ | vihīneṣu | hānī | dve | asamanvitiḥ
 | **vihīneṣu** | locative plural past passive participle from *vi-√hā* | when the preparatory roots have been relinquished or lost |
 | **hānī dve** | feminine nominative dual | the two losses: relinquishment and regression |
 | **asamanvitiḥ** | feminine nominative singular | non-possession, no longer being endowed with the relevant dharmas |
+
+```text
+ādye | dve | parihāṇyā | ca | mauleḥ | tatra | eva | satya-dṛk |
+apūrva-āptiḥ | vihīneṣu | hānī | dve | asamanvitiḥ
+```
 
 The kārikā uses **asamanvitiḥ** for the common character of the two losses; the Bhāṣya formulates the same determination with the technical noun **asamanvāgama**.
 
@@ -42,15 +46,50 @@ In **apūrvāptir vihīneṣu**, the locative absolute-like expression supplies 
 
 The final equation **hānī dve asamanvitiḥ** has a dual subject and singular predicate: “the two losses are non-possession.” Their resultant status is common even though the Bhāṣya distinguishes their causes.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+LOSS[MEMBERS=Heat+Summits, MODE=regression, AGENT=ordinary]
+  ← ādye dve parihāṇyā ca
+TRUTH-SEEING[GROUND=principal-dhyāna, TIME=same-life]
+  ← maules tatraiva satyadṛk
+ACQUISITION[AFTER=loss, IDENTITY=numerically-new]
+  ← apūrvāptir vihīneṣu
+LOSS[COUNT=two, RESULT=non-possession]
+  ← hānī dve asamanvitiḥ
+```
+
+The prose restricts regression to an ordinary practitioner, explains
+`maula` and `tatraiva`, and distinguishes the two causes of non-possession.
+
 ## 5. Translation
 
 ### Literal Translation
 
-The first two [are lost] also through regression. [One whose preparation belongs] to a principal [dhyāna] sees the Truths there itself. When [the preparations] have been lost, there is a new acquisition. The two losses are non-possession.
+> The first two may also be lost through regression. One whose preparation
+> belongs to a principal dhyāna sees the Truths in that life. When lost
+> roots are obtained again, the acquisition is new. Both losses are
+> non-possession.
 
 ### Bhāṣya-informed study translation
 
-Heat and the Summits may be lost through regression, whereas even an ordinary practitioner does not regress from Acceptance or the Highest Mundane Dharmas. Whoever produces the preparatory roots on a principal-dhyāna ground necessarily sees the Truths in that same life. If relinquished roots are later obtained again, the acquisition consists of numerically new dharmas. Relinquishment and regression both result in non-possession, although only regression is necessarily fault-conditioned.
+> An ordinary practitioner may lose Heat and Summits through regression as
+> well as death; even such a practitioner does not regress from Acceptance
+> or the Highest Mundane Dharmas. Preparation on a principal-dhyāna ground
+> leads to seeing the Truths in that same life. Reacquired roots are new
+> dharmas, not the very ones lost. Relinquishment and regression both end
+> possession, but regression is caused by a fault while relinquishment may
+> follow a change in quality. Even after regression from Heat, one remains
+> oriented toward final nirvāṇa and nearer to seeing the Truths if no
+> obstacle intervenes.
+
+### Translation note
+
+The Bhāṣya specifies the practitioner's status, the stability of Acceptance
+and Highest Mundane Dharmas, and the cause of same-life seeing. It also
+explains new acquisition, the distinct causes of non-possession, and the
+qualified consequence of regression from Heat. The compressed explanation
+of renewed effort is handled in the continuous translation.
 
 ## 6. Philosophical Translation
 
@@ -190,7 +229,7 @@ Regression Facts:
 
 Relinquishment Facts:
   hasResult NonPossession
-  causedBy SuperiorTransition
+  mayBeCausedBy SuperiorTransition
 
 PrincipalDhyānaPreparation ensures SameLifeTruthSeeing
 NewAcquisition reacquiresAs NewPreparatoryDharma

@@ -1,74 +1,120 @@
-# VAK_6.17 Bhāṣya — Heat; Sixteen Modes; Summits
+# VAK_6.17 Bhāṣya — Heat, Sixteen Aspects, and the Summits
 
 ## 1. Kārikā Anchor
 
 > tata ūṣmagatotpattis tac catuḥsatyagocaram |
-> ṣoḍaśākāram ūṣmabhyo mūrdhānas te 'pi tādṛśāḥ || 6.17 ||
+> ṣoḍaśākāram ūṣmabhyo mūrdhānas te ’pi tādṛśāḥ || 6.17 ||
 
-Literal (from the kārikā study):
+> Repeated cultivation of the dharma establishment gradually gives rise to
+> Heat, a wholesome root signaling the approaching Noble Path. Heat takes the
+> Four Truths as its cognitive field through sixteen aspects, four for each
+> truth. From Heat arise the Summits: they retain the same Four Truths and
+> sixteen aspects, yet surpass Heat in development and may still fall away.
 
-> From that arises Heat. It has the Four Truths as its range and possesses
-> sixteen modes. From the Heats arise the Summits; they too are of that kind.
+The Bhāṣya supplies the fire image, lists the sixteen aspects, and delimits
+what the Summits share with Heat.
 
-Kārikā study: [`VAK_6.17.md`](./VAK_6.17.md). Next: 6.18, initiating and increasing.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+tat ūṣmagatotpattiḥ
 
-> tat ūṣmagatotpattiḥ /
-> tasmād dharmasmṛtyupasthānād evam abhyastāt krameṇa ūṣmagataṃ nāma kuśalamūlam utpadyate /
-> ūṣmagatam ivoṣmagatam / kleśendhanadahanasyāryamārgāgneḥ pūrvarūpatvāt /
-> tac catuḥsatyagocaram / … catuḥsatyālambanam /
-> ṣoḍaśākāram /
-> duḥkhaṃ … anityato duḥkhataḥ śūnyato 'nātmataś ca /
-> samudayaṃ … hetutaḥ samudayataḥ prabhavataḥ pratyayataś ca /
-> nirodhaṃ … nirodhataḥ śāntataḥ praṇītato niḥsaraṇataś ca /
-> mārgaṃ … mārgato nyāyataḥ pratipattito nairyāṇikataś ca /
-> eṣāṃ tu viśeṣaṇam paścād vakṣyāmaḥ /
-> ūṣmabhyo mūrdhānaḥ / te 'pi tādṛśāḥ // 6.17 //
-> … utkṛṣṭataratvāt tu nāmāntaraṃ … calakuśalamūlamūrdhatvāt mūrdhānaḥ /
-> ebhyo hi pāto 'tikramo vā /
+tasmāddharmasmṛtyupasthānādevamabhyastāt krameṇeṣmagataṃ nāma kuśāmūlamutpadyate /
 
-**Witness.** Pradhan 343|10–344|02. Voice: Vasubandhu. 6.18 at 344|03.
+ūṣmagatamivoṣmagatam /
+kleśendhanadahanasyāryamārgāgneḥ pūrvarūpatvāt /
+
+     taccatuḥsatyagocaram /
+
+tadūṣmagataṃ prākarṣikatvāccatuḥsatyālambanam /
+
+     ṣoḍaśākāram
+
+duḥkhaṃ caturbhirākāraiḥ paśyatyanityato duḥkhatḥ śūnyato 'nātmataśca /
+
+samudayaṃ caturbhirhetutaḥ samudayataḥ prabhavataḥ pratyayataśca /
+
+nirodhaṃ caturbhiḥ nirodhataḥ śāntataḥ praṇītato niḥsaraṇataśca /
+
+mārgaṃ caturbhirmārgato nyāyataḥ pratipattito nairyāṇikataśca /
+
+eṣāṃ tu viśeṣaṇam paścādvakṣayāmaḥ /
+
+     ūṣmabhyo mūrdhānaḥ
+
+     te 'pi tādṛśāḥ // VAkK_6.17 //
+
+yādṛśā ūṣmāṇaścatuḥsatyālambanāḥ ṣoḍaśākārāśca /
+
+utkṛṣṭataratvāttu nāmāntaraṃ cala kuśalamūlamūrdhatvāt mūrdhānaḥ /
+
+ebhyo hi pāto 'tikramo vā /
+```
+
+This is the complete running unit at [343|10–344|02] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line breaks
+are editorial. The forms `kuśāmūlam`, `duḥkhatḥ`, and the compressed
+`cala kuśalamūlamūrdhatvāt` remain as transmitted. The following unit opens
+at [344|03].
 
 ## 3. Continuous Conventional Translation
 
-> From that dharma-establishment practiced in this way there gradually arises a
-> wholesome root named Heat. It is called Heat as heat: the preliminary mark of
-> the fire of the Noble Path, which burns the fuel of the afflictions. Heat has
-> the Four Truths as range. Sixteen modes: suffering as impermanent, suffering,
-> empty, not-self; origin as cause, arising, production, condition; cessation as
-> cessation, peace, excellent, going-out; Path as path, right method, practice,
-> leading-out. The particular of these modes we will state later.
->
-> From the Heats, the Summits. They too are of that kind: Four Truths as support,
-> sixteen modes. Another name because they are more excellent — the summit of the
-> unstable wholesome roots. From here: fall, or passing beyond.
+From the dharma establishment repeatedly cultivated in this way there
+gradually arises a wholesome root called Heat. It is called Heat because it
+is the preliminary sign of the fire of the Noble Path, which burns the fuel
+of the afflictions. Heat ranges over the Four Truths and takes them as its
+cognitive Condition. It has sixteen aspects: suffering is seen as
+impermanent, suffering, empty, and not-self; origin as cause, arising,
+production, and condition; cessation as cessation, peace, excellence, and
+release; and the Path as Path, right method, practice, and leading out. The
+commentary says the particular explanation of these aspects will come later.
+
+From the Heats arise the Summits. They too take the Four Truths as cognitive
+Condition and have sixteen aspects. They receive a distinct name because
+they are more developed and stand at the summit of the unstable wholesome
+roots. From the Summits there may be falling away or passing beyond.
 
 ## 4. Movement of the Commentary
 
-```text
-6.16 cultivation → kuśalamūla Heat (pūrvarūpa, not the fire)
-same object + sixteen ākāras → Summits (more force, still cala)
-pāta | atikrama
-```
+The commentary resolves the pronoun `tataḥ` as the dharma establishment
+cultivated in 6.16 and names Heat as its gradually arising wholesome root.
+It explains the fire image, gives the Four Truths as the cognitive field,
+and distributes sixteen aspects across them. It then explains `tādṛśāḥ`:
+the Summits share Heat's truth Condition and aspect structure, but are more
+developed. The possibility of fall or passage beyond remains explicit.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Heat = { object: FourTruths; modes: 16; kind: "purvarupa_of_arya_fire" };
-type Summit = Heat & { grade: "utkrstatara"; family: "cala_kusalamula" };
-type Exit = "pata" | "atikrama";
-// same Meaning-structure; Path-power up; not yet irreversible
-```
+**Translation decisions.** `Uṣmagata` is a wholesome root and preliminary
+sign, not the Noble Path fire itself. `Catuḥsatya-gocara` gives Heat's
+cognitive field; the prose additionally calls the Four Truths its
+`ālambana`, cognitive Condition. `Ṣoḍaśākāra` distributes four aspects to
+each truth. `Tādṛśāḥ` preserves that field and aspect structure in the
+Summits, while the prose supplies greater development and their still
+unstable status. The anchor includes the prose's contrast without assigning
+Summits a new truth field.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** The truth field and aspect structure can remain
+constant while a wholesome root acquires greater practical force. A future
+Feature Grammar can carry field, Condition, aspects, development, and
+reversibility separately; a LogicFrame can express which predicates are
+inherited from Heat by the Summits. This is project formalization of the
+source's distinctions.
 
-- `tataḥ` = from the 6.16 dharma-establishment so practiced;
-- sixteen modes listed, analysis deferred;
-- `tādṛśa` = same object and modes; difference is excellence + instability-summit.
+## 6. Four Truths and Sixteen Aspects
+
+| Truth | Four aspects |
+|---|---|
+| Suffering | Impermanent, suffering, empty, not-self |
+| Origin | Cause, arising, production, condition |
+| Cessation | Cessation, peace, excellent, release |
+| Path | Path, right method, practice, leading out |
+
+The Summits retain all four truth Conditions and the sixteen-aspect pattern.
+Greater development does not make the stage irreversible.
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 343|10–344|02.
-Verse-English copied from [`VAK_6.17.md`](./VAK_6.17.md) §5 Literal. Provisional.
-Next: 6.18.
+Provisional. The complete unit was checked against [343|10–344|02]. Its
+unusual witness forms remain visible for textual review. The kārikā anchor
+exactly matches the study translation.

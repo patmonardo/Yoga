@@ -1,23 +1,22 @@
 # VAK 6.24 — Liberation-Conducive Roots and the Threefold Maturation
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 आबोधेः सर्वमेकत्र ध्यानान्त्ये शास्तृखड्गयोः ।
 प्राक्तेभ्यो मोक्षभागीयं क्षिप्रं मोक्षस्त्रिभिर्भवैः ॥ ६.२४ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 ābodheḥ sarvam ekatra dhyānāntye śāstṛkhaḍgayoḥ |
 prāk tebhyo mokṣabhāgīyaṃ kṣipraṃ mokṣas tribhir bhavaiḥ || 6.24 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-**Padaccheda**
-
-ā | bodheḥ | sarvam | ekatra | dhyāna-antye | śāstṛ-khaḍgayoḥ |
-prāk | tebhyaḥ | mokṣa-bhāgīyam | kṣipram | mokṣaḥ | tribhiḥ | bhavaiḥ
-
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **ā bodheḥ** | prepositional expression with ablative | up to Awakening |
 | **sarvam** | neuter nominative or accusative singular | the entire decisive sequence |
@@ -29,6 +28,11 @@ prāk | tebhyaḥ | mokṣa-bhāgīyam | kṣipram | mokṣaḥ | tribhiḥ | bh
 | **kṣipram** | adverb | quickly; in the fastest ordinary case |
 | **mokṣaḥ** | masculine nominative singular | liberation |
 | **tribhiḥ bhavaiḥ** | masculine instrumental plural | through or within three existences |
+
+```text
+ā | bodheḥ | sarvam | ekatra | dhyāna-antye | śāstṛ-khaḍgayoḥ |
+prāk | tebhyaḥ | mokṣa-bhāgīyam | kṣipram | mokṣaḥ | tribhiḥ | bhavaiḥ
+```
 
 The Bhāṣya expands **ekatra** as **ekatra eva āsane**, “in one and the same seat.” It also identifies **khaḍga** as the rhinoceros-like Pratyekabuddha and **dhyānāntya** as the fourth principal dhyāna.
 
@@ -42,15 +46,50 @@ The second line contains two nominal statements. **prāk tebhyaḥ mokṣabhāg�
 
 The grammar therefore juxtaposes an exceptional one-sitting completion with the fastest ordinary maturation across three lives.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+SEQUENCE[AGENT=Teacher|rhinoceros-like-Pratyekabuddha,
+         START=penetration-conducive-roots, END=Awakening,
+         SPAN=one-sitting, GROUND=fourth-dhyāna]
+  ← ābodheḥ sarvam ekatra dhyānāntye śāstṛkhaḍgayoḥ
+PREREQUISITE[NAME=liberation-conducive-root, BEFORE=penetration-conducive-roots]
+  ← prāk tebhyo mokṣabhāgīyaṃ
+SEQUENCE[GOAL=liberation, MINIMUM-SPAN=three-existences]
+  ← kṣipraṃ mokṣas tribhir bhavaiḥ
+```
+
+The Bhāṣya supplies the one-seat reading, the fourth-dhyāna explanation,
+and the three-life distribution of entry, maturation, and release.
+
 ## 5. Translation
 
 ### Literal Translation
 
-For the Teacher and the Rhinoceros-like [Pratyekabuddha], the whole [sequence] up to Awakening occurs in one [sitting], in the final dhyāna. Prior to those is what is conducive to liberation. In the rapid case, liberation occurs through three existences.
+> For the Teacher and the rhinoceros-like solitary Buddha, the whole course
+> up to Awakening takes place in one sitting on the final dhyāna. Before
+> these roots comes one conducive to liberation; at the quickest, liberation
+> takes three existences.
 
 ### Bhāṣya-informed study translation
 
-The Buddha and the rhinoceros-like Pratyekabuddha produce the complete decisive sequence, from the factors conducive to penetration through Awakening, in one uninterrupted sitting supported by the fourth dhyāna. Ordinarily, however, a wholesome root conducive to liberation must arise before the penetration-conducive roots. In the fastest such course, liberative entry, preparatory maturation, and the Noble Path unfold across three lives.
+> The Buddha and the rhinoceros-like Pratyekabuddha bring the entire course
+> from the roots conducive to penetration through Awakening to completion
+> in one sitting, supported by the fourth dhyāna's steady, sharp samādhi.
+> Before those roots, a root conducive to liberation must arise. In the
+> quickest course it arises in one life, the penetration-conducive roots
+> mature in the next, and the Noble Path arises in a third: entry,
+> maturation, and liberation. This first root is hearing-born or
+> reflection-born, and aspiration for liberation can direct even a single
+> gift or training rule toward it.
+
+### Translation note
+
+The Bhāṣya supplies the identity of the two practitioners, the one-seat
+and fourth-dhyāna reading, the three-life distribution, and the mode of
+the earlier root. It also reports an alternative beginning the one-seat
+course with contemplation of the impure and adds a qualification concerning
+other kinds of Pratyekabuddha; both remain in the continuous translation.
 
 ## 6. Philosophical Translation
 

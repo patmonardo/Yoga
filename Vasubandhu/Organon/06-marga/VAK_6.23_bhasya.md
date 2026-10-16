@@ -1,73 +1,140 @@
-# VAK_6.23 Bhāṣya — Closed Futures; Lineage Limits
+# VAK_6.23 Bhāṣya — Closed Futures and Lineage Limits
 
 ## 1. Kārikā Anchor
 
 > mūrdhalābhī na mūlacchit kṣāntilābhy anapāyagaḥ |
 > śiṣyagotrān nivartya dve buddhaḥ syāt trīṇy apītaraḥ || 6.23 ||
 
-Literal (from the kārikā study):
+> Even after regression, one who attained Summits does not sever the wholesome
+> roots, though grave actions and painful destinies remain possible. Even
+> after Acceptance is lost, one who attained it does not enter a painful
+> destiny; its cultivation renders specified future states unable to arise.
+> From the disciple lineage, one may turn toward complete Buddhahood after
+> Heat and Summits, but not after Acceptance, when that lineage has become
+> non-reversible. After the first three preparations, a turn toward
+> Pratyekabuddhahood remains possible.
 
-> One who has attained the Summits does not sever the roots; one who has attained
-> Acceptance does not go to a painful destiny. Having turned away from the
-> disciple-lineage after two, one may become a Buddha; after even three, the
-> other [Buddha].
+The commentary determines distinct protections and stage-dependent limits
+on lineage redirection.
 
-Kārikā study: [`VAK_6.23.md`](./VAK_6.23.md). Next: 6.24.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+mūrdhalābhī na mūlacchit
 
-> mūrdhalābhī na mūlacchit / parihīṇo 'pi … kuśalamūlāni na samucchinatti /
-> apāyāṃs tu … kuryāt /
-> kṣāntilābhy anapāyagaḥ / vihīnāyām api kṣāntau na punar apāyān yāti … /
-> … keṣāñcid anutpattidharmatāṃ pratilabhate /
-> nirvedhabhāgīyāni trigotrāṇi … /
-> śiṣyagotrān nivartya dve buddhaḥ syāt / … kṣāntau tu labdhāyāṃ nāsty eva saṃbhavaḥ /
-> tasyaiva tu gotrasyāvivartyatvād asaṃbhavaḥ /
-> trīṇy apītaraḥ // 6.23 // / … pratyekabuddha ity arthaḥ /
+parihīṇo 'pi mūrdhalābhī kuśalamūlāni na samucchinatti /
 
-**Witness.** Pradhan 348|01–348|19. Voice: Vasubandhu; one `kila` explanation. 6.24 at 348|20.
+apāyāṃstu pāpādānantaryāṇyapi kuryāt /
+
+     kṣāntilābhyanapāyagaḥ /
+
+vihīnāyāmapi kṣāntau na punarapāyānyāti tadbhūmikakarmakleśadūrīkaraṇāt /
+
+kṣāntilābhādeva hi gatiyonyupapattyāśrayāṣṭamādibhavakleśānāṃ keṣāñcidanutpattidharmatā pratilabhate /
+
+apāyagatīnāmaṇḍajasaṃsvedajayonyorasaṃjñisattvottarakurumahābrahmopapattināṃ śaṇḍhapaṇḍakobhayavyañjanāśrayāṇāmaṣṭamādibhavānāṃ darśanaheyakleśānāṃ ca /
+
+tāṃ tu yathāyogaṃ mṛdvadhimātrāyāṃ ca /
+mṛdvacyāmapāyagatīnām /
+
+adhimātrāyāmitareṣām /
+nirvedhabhāgīyāni trigotrāṇi śrāvakādigotrabhedāt /
+tatra
+
+     śiṣyagotrā nnivartya dve buddhaḥ syāt
+
+ūṣmagataṃ mūrdhānaṃ ca śrāvakagotrādutpannaṃ vyāvartya punarbuddhaḥ syādityasti saṃbhavaḥ /
+
+kṣāntau tu labdhāyāṃ nāstyeva saṃbhavaḥ /
+kiṃ kāraṇam /
+
+apāyānāṃ kila vyāvṛttatvāt /
+
+bodhisattvāśca parahitkriyāpāratantryādapāyānapyavagāhanta iti /
+
+tasyaiva tu gotrasyāvivartyatvādasaṃbhavaḥ /
+
+     trīṇyapītaraḥ // VAkK_6.23 //
+
+vivartya syāditi vartate /
+
+trīṇyapi nirvedhabhāgīyāni śrāvakagotrādvacyāvartya buddhādibhavaḥ syāt pratyekabuddha ityarthaḥ /
+
+pratyekabuddhagotrāṇi tu vyāvartayitumaśakyāni /
+```
+
+This is the complete running unit at [348|01–348|19] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line
+breaks are editorial. The transmitted `mṛdvacyā`, `vacyāvartya`, and
+`parahitkriyā` remain unregularized; their precise segmentation awaits
+collation. The next unit begins at [348|20].
 
 ## 3. Continuous Conventional Translation
 
-> Even after regression, one who has attained Summit does not cut the wholesome
-> roots. That one may still go to painful destinies and do grave acts. One who
-> has attained Acceptance does not go again to a painful destiny, even if
-> Acceptance is later lost — those-level karma and afflictions have been driven
-> far off. From Acceptance itself, certain futures take on non-arising: painful
-> destinies, specified births and supports, an eighth existence and after, and
-> afflictions abandoned by Seeing. Weak Acceptance: the destinies. Highest: the
-> rest of the list.
->
-> The roots come in three lineages. From a disciple-lineage Heat and Summit one
-> may still turn toward Buddhahood. After Acceptance, no. One explanation: destinies
-> already barred, while Bodhisattvas may enter them for others. Firmer: that lineage
-> itself is non-reversible. “The other” is the Pratyekabuddha: after three, that
-> turn is still possible. A Pratyekabuddha lineage cannot itself be turned.
+Even after regression, one who attained the Summits does not cut off the
+wholesome roots. Such a practitioner may nevertheless enter painful
+destinies and commit evil deeds, including those of immediate consequence.
+One who attained Acceptance does not return to painful destinies even
+when Acceptance has been lost, because the karma and afflictions connected
+with those levels have been driven far away.
+
+From obtaining Acceptance one acquires a condition in which certain future
+states cannot arise. The commentary lists painful destinies; egg-born and
+moisture-born modes of birth; births among non-percipient beings, in
+Uttarakuru, and among Great Brahmās; particular bodily supports named in
+the received classification; an eighth and later existence; and afflictions
+abandoned through seeing. These exclusions are distributed by grade: weak
+Acceptance excludes painful destinies, while strong Acceptance excludes
+the other listed possibilities. The exact scope of the list remains
+subject to collation where the witness is compressed.
+
+The roots conducive to penetration occur in three lineages, differentiated
+beginning with the disciple lineage. One may turn away after Heat and
+Summits have arisen in the disciple lineage and subsequently become a
+Buddha. Once Acceptance has been obtained, that redirection is no longer
+possible. Why? A reported explanation says painful destinies have been
+excluded, whereas Bodhisattvas may enter them for others' benefit. The
+commentary then gives the lineage's own non-reversibility as the reason.
+
+“The other” means a Pratyekabuddha: even after three roots have arisen in
+the disciple lineage, this redirection remains possible. A
+Pratyekabuddha lineage itself cannot be redirected.
 
 ## 4. Movement of the Commentary
 
-```text
-Summit closes mūlaccheda (even after loss)
-Acceptance closes apāya + graded anutpattidharmatā
-gotra three; śrāvaka→Buddha only before kṣānti
-```
+The Bhāṣya first states what remains impossible after attaining Summits
+and Acceptance, even if the attainments are later lost. It then details
+Acceptance's graded exclusions. Finally it locates the preparations in
+three lineages and gives different limits for turning from the disciple
+lineage toward complete Buddhahood or Pratyekabuddhahood.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type AfterSummit = { can: "grave_act" | "apaya"; cannot: "cut_kusala_mula" };
-type AfterKsanti = { cannot: "apaya"; plus: "anutpattidharmata" };
-// gotra.avivartya ≠ same as arhat-obsession
-```
+**Translation decisions.** `Mūlacchit` concerns severance of wholesome
+roots, not all grave action. `Anapāyaga` excludes painful destiny after
+Acceptance, including after its loss. `Anutpattidharmatā` expresses the
+non-arising of specified futures, with a grade-dependent scope. `Itaraḥ`
+is explicitly resolved as Pratyekabuddha. The `kila` explanation about
+Bodhisattvas and painful destinies is reported as such; the commentary's
+following `tu` favors non-reversibility of the lineage itself.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** A reflective Model may register attained stage,
+excluded futures, current possession, lineage, and still-open redirection
+separately. The two protections survive loss of present possession, but
+they exclude different futures. This is project synthesis.
 
-- protections survive loss;
-- `itaraḥ` = Pratyekabuddha;
-- preferred reason: gotra non-reversibility.
+## 6. Protections and Lineage Limits
+
+| Prior attainment or trajectory | Excluded future | Remaining possibility |
+|---|---|---|
+| Summits | Severance of wholesome roots | Grave action and painful destiny remain possible |
+| Acceptance | Painful destiny, with further grade-specific exclusions | Its past attainment still matters after loss |
+| Disciple lineage after first two | Complete Buddhahood still reachable by redirection | Acceptance will close this turn |
+| Disciple lineage after first three | Pratyekabuddhahood still reachable by redirection | Different limit from complete Buddhahood |
+| Pratyekabuddha lineage | Redirection from that lineage is unavailable | Lineage is fixed in this account |
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 348|01–19.
-Verse-English from [`VAK_6.23.md`](./VAK_6.23.md) §5 Literal. List collation later.
-Next: 6.24. Siesta after 6.27.
+The complete source unit [348|01–348|19] is present. The detailed
+non-arising list and compressed forms remain marked for collation. The
+kārikā anchor exactly matches the study's Bhāṣya-informed translation.

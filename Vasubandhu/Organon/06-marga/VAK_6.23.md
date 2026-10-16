@@ -1,23 +1,22 @@
 # VAK 6.23 — Successive Irreversibilities and the Direction of Lineage
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 मूर्धलाभी न मूलच्छित् क्षान्तिलाभ्यनपायगः ।
 शिष्यगोत्रान्निवर्त्य द्वे बुद्धः स्यात् त्रीण्यपीतरः ॥ ६.२३ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 mūrdhalābhī na mūlacchit kṣāntilābhy anapāyagaḥ |
 śiṣyagotrān nivartya dve buddhaḥ syāt trīṇy apītaraḥ || 6.23 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-**Padaccheda**
-
-mūrdha-lābhī | na | mūla-cchit | kṣānti-lābhī | anapāya-gaḥ |
-śiṣya-gotrāt | nivartya | dve | buddhaḥ | syāt | trīṇi | api | itaraḥ
-
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **mūrdha-lābhī** | masculine nominative singular possessive formation | one who has attained the Summits |
 | **na mūla-cchit** | negative plus masculine nominative agent noun | not one who severs the roots; does not cut off the wholesome roots |
@@ -29,6 +28,11 @@ mūrdha-lābhī | na | mūla-cchit | kṣānti-lābhī | anapāya-gaḥ |
 | **buddhaḥ syāt** | nominative plus third-person optative of √as | one may become a Buddha |
 | **trīṇi api** | neuter accusative plural | even the first three preparations: Heat, Summits, and Acceptance |
 | **itaraḥ** | masculine nominative singular | the other [Buddha], interpreted as a Pratyekabuddha |
+
+```text
+mūrdha-lābhī | na | mūla-cchit | kṣānti-lābhī | anapāya-gaḥ |
+śiṣya-gotrāt | nivartya | dve | buddhaḥ | syāt | trīṇi | api | itaraḥ
+```
 
 The transmitted sandhi **śiṣyagotrān nivartya** is resolved as **śiṣyagotrāt nivartya**: “having turned away from the disciple-lineage.” The Bhāṣya determines **buddhaḥ** as complete Buddhahood and **itaraḥ** as Pratyekabuddhahood.
 
@@ -47,15 +51,49 @@ after even three, the other may redirect toward Pratyekabuddhahood.
 
 “Two” means Heat and Summits. “Three” adds Acceptance. The verse therefore states different limits for two possible redirections rather than one undifferentiated freedom of lineage-choice.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+ATTAINMENT[NAME=Summits, EXCLUDES=severance-of-wholesome-roots]
+  ← mūrdhalābhī na mūlacchit
+ATTAINMENT[NAME=Acceptance, EXCLUDES=painful-destiny]
+  ← kṣāntilābhy anapāyagaḥ
+REDIRECTION[FROM=disciple-lineage, AFTER=Heat+Summits, TO=full-Buddhahood]
+  ← śiṣyagotrān nivartya dve buddhaḥ syāt
+REDIRECTION[FROM=disciple-lineage, AFTER=Heat+Summits+Acceptance,
+            TO=Pratyekabuddhahood]
+  ← trīṇy apītaraḥ
+```
+
+The prose supplies persistence after regression, the graded non-arising
+account, and the lineage constraints behind the two redirection limits.
+
 ## 5. Translation
 
 ### Literal Translation
 
-One who has attained the Summits does not sever the roots; one who has attained Acceptance does not go to a painful destiny. Having turned away from the disciple-lineage after two, one may become a Buddha; after even three, the other [Buddha].
+> One who has attained Summits does not sever the roots; one who has attained
+> Acceptance does not go to a painful destiny. After turning from disciple
+> lineage with two preparations, one may become a Buddha; with even three,
+> one may become the other [Buddha].
 
 ### Bhāṣya-informed study translation
 
-Even if later regressing, one who has attained the Summits will no longer sever the wholesome roots. Even if Acceptance is later lost, one who has attained it will no longer enter a painful destiny. A practitioner whose first two preparations arose within the Śrāvaka lineage may still redirect the course toward complete Buddhahood; after the first three, redirection toward Pratyekabuddhahood remains possible.
+> Even after regression, one who attained Summits does not sever the wholesome
+> roots, though grave actions and painful destinies remain possible. Even
+> after Acceptance is lost, one who attained it does not enter a painful
+> destiny; its cultivation renders specified future states unable to arise.
+> From the disciple lineage, one may turn toward complete Buddhahood after
+> Heat and Summits, but not after Acceptance, when that lineage has become
+> non-reversible. After the first three preparations, a turn toward
+> Pratyekabuddhahood remains possible.
+
+### Translation note
+
+The Bhāṣya supplies the protections' persistence after loss, the limits of
+Summit's protection, the graded account of non-arising, and the lineage
+interpretation of the verse's compressed second half. The preferred reason
+for the Buddhahood limit is lineage non-reversibility.
 
 ## 6. Philosophical Translation
 
