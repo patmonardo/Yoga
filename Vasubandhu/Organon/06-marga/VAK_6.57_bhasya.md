@@ -1,70 +1,160 @@
-# VAK_6.57 Bhāṣya — Some Born to the Type; Some Sharpened Into It
+# VAK_6.57 Bhāṣya — Original and Sharpened Arhat Dispositions
 
 ## 1. Kārikā Anchor
 
-> ato 'samayamukto 'sau dṛṣṭiprāptānvayaś ca saḥ |
+> ato ’samayamukto ’sau dṛṣṭiprāptānvayaś ca saḥ |
 > tadgotrā āditaḥ kecit kecid uttāpanāgatāḥ || 6.57 ||
 
-Literal (from the kārikā study):
+> The immovable arhat is liberated without waiting for a suitable
+> occasion: concentration can become manifest at will. This arhat
+> comes from the seeing-attained trainee line. Among the six arhat
+> dispositions, some are present from the start; others are reached
+> by sharpening the faculties, even up to immovability. The type
+> names mark capacities—what can happen—not events that must occur.
 
-> Therefore this one is liberated independently of occasion, and he belongs to the
-> succession of the seeing-attained. Some are of their respective disposition from
-> the beginning; others have arrived [at it] through sharpening.
+The commentary treats the six type-names as capacities. An arhat may
+have a disposition from the start or reach it by sharpening faculties.
 
-Kārikā study: [`VAK_6.57.md`](./VAK_6.57.md). Next: 6.58.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+ato 'samayamukto 'sau
 
-> ata evāsamayavimukta ucyate / … icchātaḥ samādhisaṃmukhībhāvāt /
-> sa cākopyadharmā dṛṣṭiprāptapūrvako veditavyaḥ /
-> kaścit prathamata eva … / kaścit punaḥ parihāṇadharmā bhūtvendriyāṇām uttāpanayā … gataḥ /
-> evaṃ yāvad akopyadharmatāṃ gato veditavyaḥ /
-> … saṃbhavaṃ tu praty evam ucyate /
+ata evāsamayavimukti ucyate /
+sa hyasamayāpekṣāvimuktiśca /
 
-**Witness.** Pradhan 373|09–374|08. Voice: Vasubandhu. 6.58 at 374|09.
+icchātaḥ samādhisaṃmukhībhāvāt /
+
+kālāntarātyantavimuktito vā kopyākopyadharmaṇoḥ samayāsamaye vimuktatvaṃ parihāṇisaṃbhavāsaṃbhavataḥ /
+
+     dṛṣṭipraptānvayaśca saḥ /
+
+sa cākopyadharmā dṛṣṭiprāptapūrvako veditavyaḥ /
+
+kiṃ punarete ṣaḍarhanta ādita eva tadgotrā bhavantyatha paścāt /
+
+     tadgotrā āditaḥ kecitkeciduttāpanāgatāḥ // VAkK_6.57 //
+
+kaścitprathamata eva cetanādharmagotrako bhavati /
+
+kaścitpunaḥ parihāṇadharmā bhūtvendriyāṇāmuttāpanayā cetanādharmatāṃ gataḥ /
+
+evaṃ yāvadakoopyadharmatāṃ gato veditavyaḥ /
+
+tatra parihāṇadharmā yaḥ parihātuṃ bhavyo na cetanādidharmā /
+
+cetanādharmā yaścetayituṃ bhavyaḥ /
+anurakṣaṇādharmā yo 'nurakṣituṃ bhavyaḥ /
+
+sthitākampyo yaḥ parihāṇipratyayaṃ balavantamantareṇānurakṣannapi sthātuṃ bhavyo na hātuṃ nāpi vardhayituṃ vinābhiyogena /
+
+prativedhanābhavyo yo 'kopyaḥ prativeddhaṃ bhavyaḥ /
+
+akopyadharmā yo naiva parihātuṃ bhavyaḥ /
+
+prathamau dvau pūrvameva śaikṣāvasthāyāṃ sātatyasatkṛtyaprayogavikalau /
+
+tṛtīyaḥ sātatyaprayogī /
+caturthaḥ satkṛtyaprayogī /
+
+pañcama ubhayathāprayogī mṛdvindriyastu /
+
+ṣaṣṭha ubhayathāprayogī tīkṣṇendriyaśca /
+
+nacāvaśyaṃ varihāṇadharmā parihīyate nāpi yāvat prativedhanābhavyaḥ pratividhyati /
+
+saṃbhavaṃ tu pratyevamucyate /
+
+evaṃ kṛtvā dhātutraye 'piṣaḍarhanto yujyante /
+
+yeṣāṃ tvavaśyaṃ parihīyate yāvat pratividhyati teṣāṃ kāmadhātau ṣaṭ rūpārupyadhātvoḥ sthitākampyo 'kopyadharmā ca /
+
+tayoḥparihāṇicetanendriyasaṃcārābhāvāt /
+```
+
+This is the complete running unit [373|09]–[374|08] in
+`Vasubandhu/Sources/kosabhasya.txt`; source labels are removed and
+line breaks editorial. The question at [374|09] begins 6.58.
+Source irregularities such as `akoopyadharmatāṃ` and `varihāṇadharmā`
+remain as transmitted.
 
 ## 3. Continuous Conventional Translation
 
-> Therefore he is called liberated without regard to occasion: concentration comes
-> forward at will. He was a seeing-attained first.
->
-> Are the six of their type from the start, or later? Some from the start. Some get
-> there by sharpening the faculties — even as far as the unshakeable type.
->
-> Liable to fall: can fall. Volitional: can will the relevant act. Guarding: can
-> guard. Stable: can stay without guarding unless a strong fall-condition hits;
-> without effort, neither loss nor gain. Able to pierce through: can reach the
-> unshakeable. Unshakeable: cannot fall.
->
-> The first two were already thin in continuous and intensive application as
-> trainees. Third: continuous. Fourth: intensive. Fifth: both, dull faculties.
-> Sixth: both, sharp faculties. The one who can fall need not fall. The one who can
-> pierce through need not. The names are by *possibility*. Read that way, all six
-> fit in all three domains.
+Therefore the immovable arhat is called liberated independently of
+occasion. Liberation does not depend on a suitable occasion, since
+concentration can become manifest at will. An alternative explanation
+compares liberation at different times for those whose liberation can
+and cannot be shaken, according to the possibility or impossibility
+of falling away. The immovable arhat belongs to the seeing-attained
+line: that arhat was formerly a seeing-attained trainee.
+
+Are these six arhats of their respective dispositions from the
+beginning, or do they reach them later? Some have their type from the
+start. Others reach a type by sharpening their faculties: someone may
+begin as liable to fall away and become of the volition-characterized
+type, and so on up to immovable nature.
+
+The names specify capacities. One liable to fall away is capable of
+regression; one characterized by volition is capable of the relevant
+act of willing; one characterized by guarding can guard. One who can
+remain steady can do so without continual guarding unless a powerful
+condition for regression intervenes; without exertion, that person
+neither declines nor advances. One capable of penetration can reach
+immovability. One of immovable nature cannot regress.
+
+In the trainee stage, the first two lacked both continuous and
+careful application. The third had continuous application; the
+fourth, careful application; the fifth, both, but mild faculties;
+the sixth, both and sharp faculties. A person capable of regression
+does not necessarily regress, and one capable of penetration does
+not necessarily penetrate. The names refer to possibility. On this
+reading, all six arhat types can exist in all three realms. If one
+instead takes the named events as necessary, one admits six in the
+desire realm but only the steady and immovable types in the form and
+formless realms, where the relevant regression, volitional action,
+and faculty-change are absent.
 
 ## 4. Movement of the Commentary
 
-```text
-akopya ← dṛṣṭiprāpta; concentration at will
-gotra movable by indriya-sharpening
-saṃbhava ≠ destiny
-```
+The Bhāṣya first completes the contrast with 6.56: the immovable
+arhat is independent of occasion and belongs to the seeing-attained
+line. It then distinguishes original from faculty-sharpened
+`gotra`, defines each arhat name by capacity, traces these capacities
+to trainee application and faculty quality, and contrasts possible
+with necessary events in the three-realm distribution.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Gotra = { fromStart?: true } | { via: "uttapana" };
-// can ≠ must
-```
+**Translation decisions.** `Asamaya-vimukta` is independence from
+suitable occasion, with concentration manifest at will.
+`Dṛṣṭiprāptānvaya` is the seeing-attained trainee line.
+`Uttāpana` is explicitly `indriyāṇām uttāpanā`, sharpening faculties.
+`Cetayitum` is kept as the relevant act of willing because this unit
+does not specify a broader operation. The last realm contrast is
+attributed to those who take the events as necessary; the commentary's
+capacity reading permits all six types in all three realms.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** A type-name denotes an available capacity,
+which may be original or cultivated. Reading the sharpening of
+faculties as transformation of Path-capacity is project synthesis;
+it does not turn possibility into inevitability.
 
-- *uttāpana* = *indriyāṇām uttāpanā*;
-- *tadgotrāḥ* = all six types, not only the sixth;
-- *cetayitum* stays tight until later verses unpack it.
+## 6. Six Capacities and Their Formation
+
+| Arhat type | Capacity named | Training or faculty note |
+|---|---|---|
+| Liable to fall away | Can regress | Lacked continuous and careful application |
+| Volition-characterized | Can perform the relevant willing | Lacked both applications |
+| Guarding-characterized | Can guard | Continuous application |
+| Steady | Can remain without constant guarding absent strong adverse condition | Careful application |
+| Penetration-capable | Can reach immovability | Both applications, mild faculties |
+| Immovable | Cannot regress | Both applications, sharp faculties |
+
+These are possibilities and capacities; their named events do not
+necessarily occur in every eligible person.
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 373|09–374|08.
-Verse-English from [`VAK_6.57.md`](./VAK_6.57.md) §5 Literal. Family verse.
-Next: 6.58.
+The full running unit [373|09]–[374|08] is present, including the
+three-realm contrast. The kārikā anchor copies the study's
+Bhāṣya-informed translation exactly. Next: 6.58.

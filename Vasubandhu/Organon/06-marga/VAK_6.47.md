@@ -1,34 +1,42 @@
-# VAK 6.47 — Local Path-Support and Universal Counteractive Range
+# VAK_6.47 — Local Path-Support and Universal Counteractive Range
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 भवाग्राधविमुक्तोर्ध्वजातवत्त्वसमन्वयः ।
 अनास्रवेण वैराग्यमनागम्येन सर्वतः ॥ ६.४७ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 bhavāgrādhavimuktordhvajātavattvasamanvayaḥ |
 anāsraveṇa vairāgyam anāgāmyena sarvataḥ || 6.47 ||
+```
 
-The opening compound is textually unstable in the working witness. The Bhāṣya explicitly explains it through **bhavāgrād ardha-prakāra-vimukta**, “one liberated from half the grades of *bhavāgra*.” The transmitted line is preserved above; the Bhāṣya-controlled construe is used below without silently emending the Sanskrit.
+The opening compound is compressed in the working witness. The Bhāṣya
+uses `bhavāgrād ardha prakāra vimukta` for someone partly freed from
+the summit. The transmitted verse remains above; the study follows
+the prose for its sense without fixing the exact division implied by
+`ardha prakāra`.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-bhavāgrāt | ardha-prakāra-vimuktaḥ | ūrdhva-jāta-vat | tu | asamanvayaḥ |
-anāsraveṇa | vairāgyam | anāgāmyena | sarvataḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
 | **bhavāgrāt** | neuter ablative singular | from the summit of existence |
-| **ardha-prakāra-vimuktaḥ** | Bhāṣya-controlled masculine nominative compound | one liberated from half the grades |
+| **ardha-prakāra-vimuktaḥ** | Bhāṣya-controlled masculine nominative compound | one partly liberated from the summit |
 | **ūrdhva-jāta-vat** | masculine nominative comparative compound | as with one born above a lower level |
 | **asamanvayaḥ** | masculine nominative singular | non-possession; no renewed connection with the afflictions |
 | **anāsraveṇa** | masculine instrumental singular | by an uncontaminated Path |
 | **vairāgyam** | neuter nominative/accusative singular | dispassion, detachment |
 | **anāgāmyena** | masculine instrumental singular | by [the Path based on] the preliminary concentration *anāgamya* |
 | **sarvataḥ** | ablatival adverb | from every level; glossed as extending through *bhavāgra* |
+
+```text
+bhavāgrāt | ardha-prakāra-vimuktaḥ | ūrdhva-jāta-vat | tu | asamanvayaḥ |
+anāsraveṇa | vairāgyam | anāgāmyena | sarvataḥ
+```
 
 The segmented first line follows the Bhāṣya's prose rather than pretending that the compressed witness is philologically secure. The second line is structurally clear.
 
@@ -38,15 +46,44 @@ The first half completes the argument of VAK 6.46. The Bhāṣya construes two c
 
 In the second half, both **anāsraveṇa** and **anāgāmyena** are instrumentals. The former determines the Path as uncontaminated; the latter specifies its meditative support. **sarvataḥ**, glossed **ābhavāgrāt**, gives the range of dispassion: from every relevant level up through the summit of existence.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+COUNTEREXAMPLE[CASE=partly-freed-from-summit]
+  → STATUS[affliction-not-repossessed-after-attainment-loss]
+COUNTEREXAMPLE[CASE=born-above-first-dhyāna]
+  → STATUS[lower-affliction-not-repossessed]
+PATH[QUALITY=uncontaminated, SUPPORT=anāgamya]
+  → DISPASSION[RANGE=through-summit]
+```
+
+The first two relations complete 6.46's argument. The last gives the
+new range claim of 6.47.
+
 ## 5. Translation
 
 ### Literal Translation
 
-As with one liberated from half [the grades] of the summit of existence, or with one born above, there is no [renewed] possession. Through an uncontaminated [Path] based on *anāgamya*, dispassion is attained from every level.
+> As with one partly freed from the summit of existence, or with one
+> born above, there is no renewed possession. Through an uncontaminated
+> Path based on *anāgamya*, dispassion is attained from every level.
 
 ### Bhāṣya-informed study translation
 
-One liberated from half the grades of *bhavāgra* does not reacquire those afflictions when the corresponding supramundane separation-acquisition is relinquished; similarly, one born above a lower level does not reacquire that lower level's afflictions. Moreover, an uncontaminated Path supported by the preliminary concentration *anāgamya* can produce dispassion from every conditioned level up through the summit of existence.
+> One partly freed from the summit does not reacquire its afflictions
+> when the supramundane attainment of separation is relinquished;
+> likewise, someone reborn above the first dhyāna does not reacquire
+> desire-realm afflictions after losing a mundane attainment. An
+> uncontaminated Path supported by the preliminary concentration
+> *anāgamya* can bring dispassion from every ground through the summit.
+
+### Translation note
+
+The first half repeats the counterexamples whose explanation closes
+6.46. The Bhāṣya glosses `sarvataḥ` as `ābhavāgrāt`, extending the
+second half's range through the summit. The compressed first compound
+and the prose's `ardha prakāra` remain open for textual collation; the
+study does not force a numeric reading of “half.”
 
 ## 6. Philosophical Translation
 
@@ -56,18 +93,19 @@ Nor is the efficacy of the Path bounded by the locality of its support. A prelim
 
 ## 7. Technical Vocabulary
 
-**The Bhāṣya-controlled correction**
+**`Bhavāgrād ardha prakāra vimukta` — partly freed from the summit**
 
-The exploratory witness provisionally read the opening as “liberated from what lies below *bhavāgra*.” The Bhāṣya instead gives the precise example:
+The running verse compresses the example; the prose expands it:
 
 ```text
 bhavāgrād ardha-prakāra-vimukta
-    one liberated from half the grades of bhavāgra
+    one partly freed from bhavāgra
 ```
 
-This is doctrinally decisive because no mundane Path can produce dispassion from *bhavāgra*. The case therefore tests whether continued non-possession requires a duplicate mundane acquisition.
+No mundane Path can produce dispassion from *bhavāgra*. This case tests
+whether continued non-possession requires a duplicate mundane acquisition.
 
-**First counterexample**
+**`Bhavāgra-vimukti` — summit counterexample**
 
 For the person partly liberated from *bhavāgra*:
 
@@ -79,7 +117,7 @@ no mundane separation-acquisition exists
 
 The feared consequence proposed in VAK 6.46 does not follow.
 
-**Second counterexample**
+**`Ūrdhvajāta` — higher-rebirth counterexample**
 
 An ordinary person born above the first dhyāna may relinquish a mundane attainment of separation from desire-realm afflictions without becoming possessed of those afflictions again:
 
@@ -90,13 +128,13 @@ loss of visaṃyoga-prāpti
 
 Vasubandhu accordingly judges the earlier proof **ajñāpaka**, non-probative.
 
-**anāgamya**
+**`Anāgamya` — preliminary concentration**
 
 **Anāgamya** is the preliminary concentration accessible before the first dhyāna. Here it functions as a local meditative basis capable of supporting an uncontaminated cultivation Path.
 
 Its status as “preliminary” does not imply a narrow liberating range. The Bhāṣya says that the Path based upon it can produce dispassion from every level up through *bhavāgra*.
 
-**anāsrava-mārga**
+**`Anāsrava-mārga` — uncontaminated Path**
 
 The uncontaminated Path differs from mundane comparative ascent. Its counteractive operation is not restricted to afflictions belonging to its immediate meditative ground:
 
@@ -111,7 +149,7 @@ counteractive range:
     every level through bhavāgra
 ```
 
-**Support and range**
+**`Āśraya / sarvataḥ` — support and range**
 
 The verse establishes a strict non-identity:
 

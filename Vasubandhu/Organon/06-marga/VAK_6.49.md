@@ -1,23 +1,26 @@
-# VAK 6.49 — Mundane Path as Comparative Determination
+# VAK_6.49 — Mundane Path as Comparative Determination
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 विमुक्त्यानन्तर्यपथा लौकिकास्तु यथाक्रमम् ।
 शान्ताद्युदाराद्याकाराः उत्तराधरगोचराः ॥ ६.४९ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 vimuktyānantaryapathā laukikās tu yathākramam |
 śāntādyudārādyākārā uttarādharagocarāḥ || 6.49 ||
+```
 
-The transmitted kārikā has the compressed sequence **śāntādyudārādyākārāḥ**. The Bhāṣya unpacks its second series as **audārikādi-ākāra**, aspects beginning with coarseness; that commentary-controlled sense governs the analysis without silently altering the witness.
+The running verse compresses the two aspect series as
+`śāntādyudārādyākārāḥ`; its prose supplies `audārikādi-ākāra` for
+the second. The running verse also reads `uktarādharagocarāḥ` where
+the study has `uttarādharagocarāḥ`; the prose names higher and lower
+grounds. Both source forms remain visible in the Bhāṣya.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-vimukti-pathāḥ | ānantarya-pathāḥ | laukikāḥ | tu | yathā-kramam |
-śānta-ādi-ākārāḥ | audārika-ādi-ākārāḥ | uttara-adhara-gocarāḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -25,10 +28,15 @@ vimukti-pathāḥ | ānantarya-pathāḥ | laukikāḥ | tu | yathā-kramam |
 | **ānantarya-pathāḥ** | masculine nominative plural compound | uninterrupted paths; moments directly abandoning the relevant defilement-grade |
 | **laukikāḥ** | masculine nominative plural | mundane; belonging to conditioned comparative cultivation |
 | **tu** | adversative particle | but; contrasts these paths with the supramundane paths of 6.48 |
-| **yathākramam** | indeclinable | respectively; maps the two path-types onto two aspect-series and object-fields |
+| **yathākramam** | indeclinable | respectively; maps the two path-types onto two aspect-series and cognitive fields |
 | **śānta-ādi-ākārāḥ** | masculine nominative plural compound | having aspects beginning with peacefulness |
 | **audārika-ādi-ākārāḥ** | Bhāṣya-controlled masculine nominative plural compound | having aspects beginning with coarseness |
-| **uttara-adhara-gocarāḥ** | masculine nominative plural compound | having respectively the higher and lower grounds as object-fields |
+| **uttara-adhara-gocarāḥ** | masculine nominative plural compound | having respectively the higher and lower grounds as cognitive fields |
+
+```text
+vimukti-pathāḥ | ānantarya-pathāḥ | laukikāḥ | tu | yathā-kramam |
+śānta-ādi-ākārāḥ | audārika-ādi-ākārāḥ | uttara-adhara-gocarāḥ
+```
 
 The Bhāṣya supplies each triad. The higher ground is cognized as **śānta**, **praṇīta**, and **niḥsaraṇa**—peaceful, excellent, and an exit. The lower is cognized as **audārika**, **duḥkhila**, and **sthūlabhittika**—coarse, defective or painful, and like a thick obstructing wall.
 
@@ -46,17 +54,45 @@ vimukti-pathāḥ
     → adhara-gocarāḥ
 ```
 
-The compounds ending in **-ākāra** describe the cognitive forms under which each path apprehends its object. Those ending in **-gocara** specify the object-field. The verse therefore differentiates the two paths not merely by succession, but by the distinct relational judgments they make concerning the two grounds.
+The compounds ending in **-ākāra** describe the cognitive forms under which each path apprehends its ground. Those ending in **-gocara** specify the cognitive field. The verse therefore differentiates the two paths not merely by succession, but by the distinct relational judgments they make concerning the two grounds.
+
+**Future Feature Grammar sketch (not executable):**
+
+```text
+MUNDANE-LIBERATION-PATH[FIELD=higher-ground]
+  → ASPECTS[peaceful, excellent, exit]
+MUNDANE-UNINTERRUPTED-PATH[FIELD=lower-ground]
+  → ASPECTS[coarse, painful, wall-like]
+```
+
+`Yathākramam` licenses the respective mapping of Path type, cognitive
+field, and aspect series; the Bhāṣya supplies the full triads.
 
 ## 5. Translation
 
 ### Literal Translation
 
-But the mundane liberation-paths and uninterrupted paths have, respectively, aspects beginning with peacefulness and aspects beginning with coarseness, and the higher and lower [grounds] as their object-fields.
+> Mundane liberation and uninterrupted Paths have, respectively,
+> aspects beginning with peacefulness and with coarseness; their
+> cognitive fields are respectively higher and lower grounds.
 
 ### Bhāṣya-informed study translation
 
-Mundane liberation-paths apprehend the higher ground as peaceful, excellent, and an exit; mundane uninterrupted paths apprehend the lower ground as coarse, defective, and like an obstructing wall. In this way the former takes the higher ground, and the latter the lower ground, as its respective object-field.
+> A mundane liberation Path takes the higher ground as its cognitive
+> field, considering it peaceful, excellent, and an exit. A mundane
+> uninterrupted Path takes the lower ground as its cognitive field,
+> considering it coarse, painful, and wall-like: a ground that affords
+> no exit from itself. The two Path functions thus proceed through
+> opposed aspects of the higher and lower grounds.
+
+### Translation note
+
+The Bhāṣya expands each `-ādi` into three aspects. `Duḥkhila` is
+rendered “painful” here, with the commentary explaining greater
+`dauṣṭhulya`; `sthūlabhittika` is wall-like because the lower ground
+provides no exit from itself. The source verse's `uktarādhara` is
+preserved in the continuous witness; `uttarādhara` follows the prose's
+higher/lower opposition in the study.
 
 ## 6. Philosophical Translation
 
@@ -66,23 +102,24 @@ The two path-moments are thus one articulated movement of rejection and adoption
 
 ## 7. Technical Vocabulary
 
-**Mundane and supramundane cognitive form**
+**`Laukika / lokottara` — mundane and supramundane Path forms**
 
-VAK 6.48 closed by explaining that supramundane uninterrupted and liberation paths have the Truths as object and therefore operate in truth-forms. The adversative **tu** now marks a different constitution:
+VAK 6.48 closed by explaining that supramundane uninterrupted and liberation paths have the Truths as cognitive Condition and therefore operate in truth-forms. The adversative **tu** now marks a different constitution:
 
 ```text
 supramundane Path
-    object = Truths
+    cognitive Condition = Truths
     form = truth-aspects
 
 mundane Path
-    objects = lower and higher conditioned grounds
+    cognitive fields = lower and higher conditioned grounds
     form = comparative evaluative aspects
 ```
 
-This is a difference in determining object and cognitive form, not merely a difference of contemplative intensity.
+The two Path types differ in cognitive Condition or field and in form;
+contemplative intensity alone does not describe the distinction.
 
-**The lower triad**
+**`Audārika / duḥkhila / sthūlabhittika` — lower-ground aspects**
 
 The Bhāṣya explains the negative aspects as follows:
 
@@ -92,7 +129,7 @@ The Bhāṣya explains the negative aspects as follows:
 
 These are relational determinations. The lower ground is not called coarse in isolation; it is cognized as coarse relative to the higher ground sought.
 
-**The higher triad**
+**`Śānta / praṇīta / niḥsaraṇa` — higher-ground aspects**
 
 The positive aspects are the contraries of the lower triad:
 
@@ -104,9 +141,9 @@ sthūlabhittika ↔ niḥsaraṇa
 
 Thus **śānta** determines comparative peacefulness, **praṇīta** comparative excellence, and **niḥsaraṇa** an exit from the lower ground. The Bhāṣya adds **saṃbhavataḥ**: these aspects apply as appropriate to the particular transition.
 
-**Action and fruit within the pair**
+**`Ānantarya / vimukti` — counteraction and attained separation**
 
-The uninterrupted path performs the immediate counteraction against the lower ground's affliction-grade. The following liberation-path possesses the separation thereby achieved. Their distinct objects in the mundane case sharpen, rather than erase, the distinction:
+The uninterrupted path performs the immediate counteraction against the lower ground's affliction-grade. The following liberation-path possesses the separation thereby achieved. Their distinct cognitive fields in the mundane case sharpen, rather than erase, the distinction:
 
 ```text
 ānantarya-mārga
@@ -125,13 +162,13 @@ LowerGround(x)
     → apprehendedAs(x, Coarse)
     → apprehendedAs(x, Defective)
     → apprehendedAs(x, Obstructive)
-    → objectOf(x, UninterruptedPath)
+    → cognitiveFieldOf(x, UninterruptedPath)
 
 HigherGround(y)
     → apprehendedAs(y, Peaceful)
     → apprehendedAs(y, Excellent)
     → apprehendedAs(y, Exit)
-    → objectOf(y, LiberationPath)
+    → cognitiveFieldOf(y, LiberationPath)
 ```
 
 The opposing determinations are reciprocal:
@@ -166,7 +203,7 @@ VAK 6.49 displays a more precise “Middle and extremes” than a static diagram
 
 In the Organon reconstruction, this is an objective genesis of a course of action. An End operates within the movement as the positive determination of the higher ground, while the beginning is retrospectively determined as coarse and obstructive. The *ānantarya-mārga* and *vimukti-mārga* are distinct moments of that one course: counteractive action and attained relative release.
 
-This reconstruction must retain the limit stated by the text and Bhāṣya. The movement is **laukika**. Its End is another conditioned ground, whereas the supramundane Path has the Truths—not a merely preferable state—as its determining object.
+This reconstruction must retain the limit stated by the text and Bhāṣya. The movement is **laukika**. Its End is another conditioned ground, whereas the supramundane Path takes the Truths as its cognitive Condition.
 
 ## 10. OWL++ Seed
 
@@ -191,17 +228,17 @@ Class: ExcellentAspect
 Class: ExitAspect
   SanskritLabel: niḥsaraṇa-ākāra
 
-ObjectProperty: hasObjectField
+ObjectProperty: hasCognitiveField
 ObjectProperty: apprehendsUnderAspect
 ObjectProperty: isContraryOf
 ObjectProperty: immediatelyAbandons
 ObjectProperty: possessesRelativeReleaseInto
 
-MundaneUninterruptedPath hasObjectField LowerGround
+MundaneUninterruptedPath hasCognitiveField LowerGround
 MundaneUninterruptedPath apprehendsUnderAspect CoarseAspect
 MundaneUninterruptedPath apprehendsUnderAspect DefectiveAspect
 MundaneUninterruptedPath apprehendsUnderAspect BarrierAspect
-MundaneLiberationPath hasObjectField HigherGround
+MundaneLiberationPath hasCognitiveField HigherGround
 MundaneLiberationPath apprehendsUnderAspect PeacefulAspect
 MundaneLiberationPath apprehendsUnderAspect ExcellentAspect
 MundaneLiberationPath apprehendsUnderAspect ExitAspect

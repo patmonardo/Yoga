@@ -1,23 +1,22 @@
-# VAK 6.56 — Six Arhats and the Modality of Completed Liberation
+# VAK_6.56 — Six Arhats and the Modality of Completed Liberation
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 षडर्हन्तो मतास्तेषां पञ्च श्रद्धाधिमुक्तिजाः ।
 विमुक्तिः सामयिक्येषामकोप्याकोप्यधर्मणः ॥ ६.५६ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 ṣaḍarhanto matās teṣāṃ pañca śraddhādhimuktijāḥ |
 vimuktiḥ sāmayiky eṣām akopyākopyadharmaṇaḥ || 6.56 ||
+```
 
 The Bhāṣya names all six Arhat-types, but this verse establishes principally their five-plus-one division. Because the precise functions of the first five are developed in following verses, their English labels remain provisional here.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-ṣaṭ | arhantaḥ | matāḥ | teṣām | pañca | śraddhādhimukti-jāḥ |
-vimuktiḥ | sāmayikī | eṣām | akopyā | akopya-dharmaṇaḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -32,7 +31,17 @@ vimuktiḥ | sāmayikī | eṣām | akopyā | akopya-dharmaṇaḥ
 | **akopyā** | feminine nominative singular | unshakeable, incapable of disturbance |
 | **akopya-dharmaṇaḥ** | masculine genitive singular compound | of the one whose disposition is unshakeable |
 
-The Bhāṣya relates **sāmayikī** to **samayāpekṣā**, dependence upon a suitable conjunction of conditions, and defines **akopyā** through the impossibility of regression.
+```text
+ṣaṭ | arhantaḥ | matāḥ | teṣām | pañca | śraddhādhimukti-jāḥ |
+vimuktiḥ | sāmayikī | eṣām | akopyā | akopya-dharmaṇaḥ
+```
+
+The running verse reads `śraddhādhhimuktijāḥ` and `sāmayikyeṣām`
+where the study uses the grammatical separation above. Its prose
+explicitly gives the former faith-resolved status and `sāmayikī`
+liberation. The Bhāṣya relates **sāmayikī** to **samayāpekṣā**,
+dependence upon suitable conditions, and defines **akopyā** through
+the impossibility of regression.
 
 ## 4. Grammar
 
@@ -50,25 +59,58 @@ one akopyadharman
     → akopyā vimukti
 ```
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+ARHAT[CLASS=first-five, PRIOR=faith-resolved]
+  → LIBERATION[MODE=condition-dependent]
+  → CONCENTRATION-MANIFESTATION[REQUIRES=requisites-health-place]
+ARHAT[CLASS=sixth, TYPE=immovable]
+  → LIBERATION[MODE=unshakeable]
+  → REGRESSION[POSSIBLE=false]
+```
+
+The concrete requisites explain the Bhāṣya's `samayāpekṣā`;
+classification by modality does not change the fruit rank.
+
 ## 5. Translation
 
 ### Literal Translation
 
-Six Arhats are recognized. Of them, five arise from the faith-resolved [type]. Their liberation is condition-dependent; [the liberation] of the one whose disposition is unshakeable is unshakeable.
+> Six arhats are recognized. Five arise from the faith-resolved
+> type, and their liberation depends on suitable conditions. The
+> liberation of the one with immovable nature is unshakeable.
 
 ### Bhāṣya-informed study translation
 
-Six kinds of Arhats are recognized. Five develop from practitioners who were formerly faith-resolved; their liberation is condition-dependent in that its manifestation in concentration requires continual guarding and suitable circumstances. The sixth is the *akopyadharman*, whose liberation cannot be shaken because falling away is impossible.
+> The sūtra distinguishes six kinds of arhats. Five were formerly
+> faith-resolved trainees; their liberation of consciousness requires
+> continual guarding, and concentration becomes manifest when
+> requisites, health, and place are suitable. They are liberated in
+> dependence on occasion. The sixth, the *akopyadharman*, has
+> unshakeable liberation: it cannot be disturbed or lost.
+
+### Translation note
+
+The Bhāṣya names six arhat types, then groups the first five by their
+prior faith-resolved training. `Sāmayikī` denotes dependence on an
+occasion or suitable conditions for concentration's manifestation;
+it does not mean that these five lack arhat fruit between occasions.
+`Cetovimukti` is liberation of consciousness. `Akopyā` names the
+sixth type's impossibility of falling away. The running verse's
+irregular forms remain in the Bhāṣya witness.
 
 ## 6. Philosophical Translation
 
 Completion does not erase the Path-history through which it was reached. All six have attained Arhatship, yet the attained liberation has different modalities. In five, its contemplative manifestation remains related to guarding and concrete supporting conditions; in the sixth, liberation has become objectively incapable of regression.
 
-The distinction is not between freedom and non-freedom. It concerns how the same final fruit is held: as an attainment whose presence must still be supported, or as an attainment whose stability can no longer be displaced.
+The distinction concerns how the same final fruit is held. For the
+first five, concentration's manifestation requires suitable conditions;
+for the sixth, the attained liberation cannot be displaced.
 
 ## 7. Technical Vocabulary
 
-**The sixfold list**
+**`Ṣaḍ arhantaḥ` — six recognized arhat types**
 
 The Bhāṣya cites a sūtra naming:
 
@@ -83,7 +125,7 @@ The Bhāṣya cites a sūtra naming:
 
 Provisionally, these indicate a regression-susceptible type, a volition-characterized type, a guarding-dependent type, a stably abiding type, one capable of further penetration, and the unshakeable type. Their exact functional definitions belong to the following analysis and should not be imported prematurely into this verse.
 
-**Genetic relation to śraddhādhimukti**
+**`Śraddhādhimukti-jāḥ` — arising from faith-resolved trainees**
 
 The Bhāṣya explains **śraddhādhimuktijāḥ** as **śraddhādhimukti-pūrvakāḥ**: excluding the *akopyadharman*, the five were formerly faith-resolved trainees.
 
@@ -95,7 +137,7 @@ mode of training
 
 The Arhat classification is therefore a differentiation of Path-results by their developmental histories, not an external taxonomy added after the Path is complete.
 
-**sāmayikī vimukti**
+**`Sāmayikī cetovimukti` — occasion-dependent liberation of consciousness**
 
 The Bhāṣya characterizes the liberation of the five as **sāmayikī kāntā cetovimukti** and calls them **samayavimukta**. Its decisive gloss is **samayāpekṣā**, dependence upon a suitable occasion or conjunction of conditions.
 
@@ -114,7 +156,7 @@ deśaviśeṣa
 
 Because this liberation must be continually guarded (**nityānurakṣyatva**), regression remains doctrinally possible. Yet the five remain genuine Arhats.
 
-**akopyā vimukti**
+**`Akopyā vimukti` — unshakeable liberation**
 
 The *akopyadharman* possesses liberation that cannot be disturbed:
 
@@ -124,9 +166,9 @@ akopyā vimukti
     → parihāṇi impossible
 ```
 
-This is the objective Path-condition required for the knowledge of non-arising distinguished in 6.50. It is not merely stronger confidence in an otherwise identical modal situation.
+This is the objective Path-condition required for the Knowing of non-arising distinguished in 6.50. It is not merely stronger confidence in an otherwise identical modal situation.
 
-**Attainment and accessibility**
+**`Samādhi-saṃmukhībhāva` — concentration becoming manifest**
 
 The Bhāṣya's concrete conditions require a careful distinction:
 

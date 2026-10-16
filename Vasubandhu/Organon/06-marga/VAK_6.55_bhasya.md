@@ -1,83 +1,130 @@
-# VAK_6.55 Bhāṣya — Here the Path Begins; There It Completes
-
-Genuine Dharma Talk. Vajropama was a principle. This is the argument.
+# VAK_6.55 Bhāṣya — Where Seeing Begins and Arhatship Completes
 
 ## 1. Kārikā Anchor
 
 > kāme trayāptir antyasya triṣu nordhvaṃ hi dṛkpathaḥ |
 > asaṃvegād iha vidhā tatra niṣṭheti cāgamāt || 6.55 ||
 
-Literal (from the kārikā study):
+> The first three śrāmaṇya-fruits are attained only in the desire
+> realm; arhatship can be attained in any of the three realms. Seeing
+> does not begin above the desire realm. In the formless realm there
+> is no hearing of Dharma, and lower realms are not taken as cognitive
+> Conditions. Form-realm ordinary beings, attached to meditative
+> attainments and without painful feeling, lack the *saṃvega* needed
+> for noble Path-entry. As scripture says of the relevant non-returners,
+> “Here the Path begins; there it reaches completion.”
 
-> In the desire domain there is attainment of the three; [attainment] of the final
-> [fruit] is in the three. For the Path of Seeing is not above, because of the
-> absence of *saṃvega*, and because scripture says: “Here is the commencement;
-> there is the completion.”
+The first three fruits require attainment in the desire realm; the
+last can be attained in any of the three realms. The commentary then
+explains why Seeing begins below even when the Path completes above.
 
-Kārikā study: [`VAK_6.55.md`](./VAK_6.55.md). Next: 6.56, six Arhats.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+atha kasmindhātau kati śrāmaṇyaphalāni prāpyante /
 
-> atha kasmin dhātau kati śrāmaṇyaphalāni prāpyante /
-> kāmadhātāv eva trayāṇām … nānyatra / antyaṃ … arhatvaṃ tasya triṣu dhātuṣu prāptiḥ /
-> phaladvayasya tāvad avītarāgaprāpyatvād ūrdhvam aprāptir yuktā /
-> tṛtīyasya tu kasmād aprāptiḥ / ūrdhvaṃ hi kāmadhātor darśanamārgo nāsti /
-> ārūpyeṣu tāvat śravaṇābhāvād adhodhātvanālambanāc ca / rūpadhātau tu … /
-> rūpāvacarā hi pṛthagjanāḥ samāpattimukhasaṅgā duḥkhavedanābhāvāc ca na saṃvijante /
-> iyaṃ tāvad yuktiḥ / āgamo 'py ayam … iha vidhā tatra niṣṭhā … /
-> vidhā hi mārgārambho nirvāṇopāyatvāt /
+     kāme trayāptiḥ
 
-**Witness.** Pradhan 372|01–15. Voice: Vasubandhu. 6.56 at 372|16.
+kāmadhātāveva trayāṇāṃ śrāmaṇyaphalānāṃ prāptirnānyatra /
+
+     antyasya triṣu
+
+antyaṃ śrāmaṇyaphalamarhatvaṃ tasya triṣu dhātuṣu prāptiḥ /
+
+phaladvayasya tāvadavītarāgaprāpyatvādūrdhvamaprāptiryuktā /
+
+tṛtīyasya tu kasmādaprāptiḥ /
+
+     nordhvaṃ hi dṛkpathaḥ /
+
+ūrdhvaṃ hi kāmadhātordarśanamārgo nāsti /
+
+na ca tena vinā 'sti vītarāgasyānāgāmi phalaprāptirityetat kāraṇam /
+
+kiṃ punaḥ kāraṇaṃ tatra darśanamārgo nāsti /
+
+ārupyeṣu tāvat śravaṇābhāvādadhodhātvanālambanācca /
+rūpadhātau tu
+
+     asaṃvegādiha vidhā tatra niṣṭheti cāgamāt // VAkK_6.55 //
+
+rūpāvacarā hi pṛthagjanāḥ samāpattimukhasaṅgā duḥkhavedanābhāvācca na saṃvijante /
+
+na ca vinā saṃgenāryamārgaḥ śakto labdhum /
+
+iyaṃ tāvadyuktiḥ /
+
+āgamo 'pyayaṃ "pañcānāṃ pudgalānāmiha vidhā tatra niṣṭhā antarāparinirvāyiṇo yāvadūrdhvaṃsrotasa" iti /
+
+vidhā hi mārgarambho nirvāṇopāyatvāt /
+```
+
+This is the complete running unit [372|01]–[372|15] in
+`Vasubandhu/Sources/kosabhasya.txt`; source labels are removed and line
+breaks editorial. The next discussion begins at [372|16]. The prose
+form `saṃgenā` remains as transmitted beside the explicit `asaṃvega`
+and `saṃvijante` context.
 
 ## 3. Continuous Conventional Translation
 
-> In which domain are how many śrāmaṇya-fruits got? The first three only in the
-> desire-domain, nowhere else. The last fruit is Arhatship: that is got in all three
-> domains.
->
-> For the first two, that is already reasonable: they are got by those not yet free
-> of desire-domain passion, so not above. Why not the third? Because above the
-> desire-domain there is no Path of Seeing; and without that, one already free of
-> that passion does not get the non-returner fruit.
->
-> Why is there no Path of Seeing there? In the formless: no hearing of Dharma, and
-> the lower domains are not taken as the needed object. In the form-domain:
-> ordinary beings cling to the gates of attainment, painful feeling is absent, they
-> do not take *saṃvega*. Without that urgency the noble Path is not got. That is
-> the reasoning.
->
-> Scripture too: of five persons, from the mid-parinirvāṇin through the one who
-> streams upward — “here the *vidhā*, there the *niṣṭhā*.” *Vidhā* is the start of
-> the Path, because the Path is the means to nirvāṇa.
+In which realm are how many fruits of śrāmaṇya attained? The first
+three are attained in the desire realm alone. The final fruit,
+arhatship, can be attained in all three realms. The first two cannot
+be attained higher up, since they are attained by those who have not
+yet become dispassionate from desire. Why cannot the third fruit be
+attained there? The Path of Seeing does not arise above the desire
+realm, and a person already dispassionate from desire cannot attain
+the non-returner fruit without it.
+
+Why does Seeing not arise there? In the formless realm, there is no
+hearing of Dharma, and lower realms are not taken as cognitive
+Conditions. In the form realm, ordinary beings cling to entrances
+into meditative attainment and do not feel painful feeling; they do
+not experience *saṃvega*. Without that urgency, the noble Path cannot
+be acquired. This is the argument by reasoning (*yukti*).
+
+There is also scriptural witness (*āgama*): of five persons, from the
+one who attains final Nirvāṇa in an intermediate state through the
+upstream practitioner, it says, “Here is commencement; there is
+completion.” `Vidhā` means the beginning of the Path, since the Path
+is the means to Nirvāṇa.
 
 ## 4. Movement of the Commentary
 
-```text
-three fruits: kāma only
-Arhat: all three domains
-Seeing does not start above
-  ārūpya: no hearing, no lower object
-  rūpa: no saṃvega
-yukti first, then āgama
-iha = mārgārambha; tatra = niṣṭhā
-```
+The commentary distributes the fruits across the three realms,
+explains why the third requires the Path of Seeing, and gives
+different reasons for Seeing's absence in formless and form realms.
+It then adds a scriptural here/there formulation and glosses `vidhā`
+as commencement of the Path.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Path = { begins: "kamadhatu"; mayComplete: "any_of_three" };
-// loft can finish what it cannot start
-// samapatti ≠ Seeing
-```
+**Translation decisions.** `Dhātu` here is the three existential
+realms. `Adhodhātvanālambana` concerns lower realms as cognitive
+Conditions, not spatial objects. `Asaṃvega` is applied to form-realm
+ordinary beings; the formless-realm explanation concerns hearing and
+cognitive Condition. The source's `saṃgenā` is preserved in §2;
+the English follows the surrounding *saṃvega* argument. `Vidhā` is
+explicitly glossed `mārgārambha`.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** A Path may complete in a realm where its
+Seeing cannot first arise. The account of a determinate beginning
+carried toward completion is project synthesis; the source gives
+the concrete constraints and the cited scriptural formulation.
 
-- *asaṃvegāt* is the form-domain reason, not a blanket for both upper domains;
-- *vidhā* = *mārgārambha*, not a vague institution;
-- *dhātu* here = the three existential domains.
+## 6. Realm, Fruit, and Path-Entry
+
+| Realm | Seeing first arises? | Fruit attainment |
+|---|---|---|
+| Desire | Yes | First three fruits and arhatship |
+| Form | No: ordinary beings lack *saṃvega* | Arhatship can complete |
+| Formless | No: no hearing and no lower-realm cognitive Condition | Arhatship can complete |
+
+The first two fruits require a practitioner not yet free of desire;
+the third requires Seeing. Completion of arhatship is possible
+throughout the three realms.
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 372|01–15.
-Verse-English from [`VAK_6.55.md`](./VAK_6.55.md) §5 Literal. Dharma Talk: argument followed through.
-Next: 6.56.
+The full running unit [372|01]–[372|15] is present. The kārikā anchor
+copies the study's Bhāṣya-informed translation exactly. Next: 6.56.

@@ -1,67 +1,117 @@
-# VAK_6.56 Bhāṣya — Six Arhats; Condition-Held and Unshakeable
-
-Family verse. The Talk on Arhats is coming. They all get the due.
+# VAK_6.56 Bhāṣya — Six Arhats and Two Modes of Liberation
 
 ## 1. Kārikā Anchor
 
 > ṣaḍarhanto matās teṣāṃ pañca śraddhādhimuktijāḥ |
 > vimuktiḥ sāmayiky eṣām akopyākopyadharmaṇaḥ || 6.56 ||
 
-Literal (from the kārikā study):
+> The sūtra distinguishes six kinds of arhats. Five were formerly
+> faith-resolved trainees; their liberation of consciousness requires
+> continual guarding, and concentration becomes manifest when
+> requisites, health, and place are suitable. They are liberated in
+> dependence on occasion. The sixth, the *akopyadharman*, has
+> unshakeable liberation: it cannot be disturbed or lost.
 
-> Six Arhats are recognized. Of them, five arise from the faith-resolved [type]. Their
-> liberation is condition-dependent; [the liberation] of the one whose disposition is
-> unshakeable is unshakeable.
+All six possess arhat fruit. The verse groups five by their earlier
+training and distinguishes their condition-dependent liberation from
+the sixth type's unshakeable liberation.
 
-Kārikā study: [`VAK_6.56.md`](./VAK_6.56.md). Next: 6.57.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+idamuktaṃ "yadyakopyaḥ kṣayajñānādanutpādamati" riti /
 
-> tatra kim arhatām apy asti bhedaḥ / astīty ucyate /
-> sūtra uktaṃ ṣaḍarhantaḥ parihāṇadharmā cetanādharmā anurakṣaṇādharmā sthitākampyaḥ prativedhanābhavyo 'kopyadharmā ceti /
-> akopyadharmāṇaṃ varjayitvā 'nye pañca śraddhādhimukti-pūrvakāḥ /
-> eṣāṃ ca pañcānāṃ sāmayikī … cetovimuktir veditavyā / nityānurakṣyatvāt /
-> … samādhisaṃmukhībhāva upakaraṇārogyadeśaviśeṣāpekṣatvāt /
-> akopyadharmaṇas tv akopyā vimuktiḥ / kopayitum aśakyatvād aparihāṇitaḥ /
+tatra kimarhatamapyasti bhedaḥ /
 
-**Witness.** Pradhan 372|16–373|08. Voice: Vasubandhu; sūtra list. 6.57 at 373|15.
+astītyucyate /
+
+     ṣaḍarhanto matāḥ
+
+sūtra uktaṃ ṣaḍarhantaḥ parihāṇadharmā cetanādharmā anurakṣaṇā dharmā sthitākampoyaḥ prativedhanābhavyo 'kopyadharmā ceti /
+
+     teṣāṃ pañca śraddhādhhimuktijāḥ /
+
+akokpyadharmāṇaṃ varjayitvā 'nye pañca śraddhādhimukti pūrvakāḥ /
+
+     vimuktiḥ sāmayikyeṣām /
+
+eṣāṃ ca pañcānāṃ sāmayikī kānta cetovimuktirveditavyā /
+
+nityānurakṣyatvāt /
+
+ata evaite samayavimuktā ucyante /
+
+samayāpekṣāścaite 'dhimuktāśceti samayavimuktā madhyapadalopāt dhṛtaghaṭavat /
+
+eṣāṃ hi samayāpekṣāsamādhisaṃmukhībhāva upakaraṇārogyadeśaviśeṣāpekṣatvāt /
+
+     akopyākopyadharmaṇaḥ // VAkK_6.56 //
+
+akopyadharmaṇastvakopyā vimuktiḥ /
+kopayitumaśakyatvādaparihāṇitaḥ /
+```
+
+This is the complete running unit [372|16]–[373|08] in
+`Vasubandhu/Sources/kosabhasya.txt`; source labels are removed and line
+breaks editorial. The next kārikā begins at [373|09]. Source forms
+such as `śraddhādhhimuktijāḥ`, `akokpyadharmāṇaṃ`, and
+`sāmayikyeṣām` remain as transmitted.
 
 ## 3. Continuous Conventional Translation
 
-> Is there distinction even among Arhats? Yes. Sūtra names six: liable to fall;
-> marked by volition; needing guard; stably unshaken; able to penetrate through;
-> unshakeable.
->
-> Five of them were faith-resolved first. Their liberation of mind is
-> condition-held: it must be guarded without pause. Concentration coming to the
-> front depends on supports, health, place. That is why they are called liberated
-> with regard to occasion. The sixth: liberation that cannot be shaken, because
-> falling away is impossible.
+The earlier discussion said that, if the arhat is immovable, Knowing
+of non-arising follows Knowing of exhaustion. Are there distinctions
+even among arhats? Yes. The sūtra names six: one liable to fall away,
+one characterized by volition, one who needs guarding, one able to
+remain steady, one capable of further penetration, and one of
+immovable nature. These labels are listed here; the following verses
+explain their exact functions.
+
+Excluding the immovable one, the other five were formerly
+faith-resolved trainees. The liberation of consciousness for these
+five is occasion-dependent and desirable. It must be guarded
+continually. They are therefore called liberated in dependence on
+occasion. The source explains the compound by ellipsis of a middle
+word, comparing another compound of that kind. Concentration's
+becoming manifest depends on a suitable occasion: requisites,
+health, and a suitable place. The arhat of immovable nature has
+unshakeable liberation. It cannot be disturbed, because falling
+away does not occur.
 
 ## 4. Movement of the Commentary
 
-```text
-six Arhats, one fruit-rank
-five: history = śraddhādhimukti; hold needs samaya
-sixth: akopya; no parihāṇi
-names of the five stay provisional until later verses
-```
+The Bhāṣya recalls 6.50's distinction, cites the six arhat types,
+and groups the first five by their earlier faith-resolved training.
+It then explains `sāmayikī` through guarding and concrete conditions
+for concentration's manifestation, while defining the sixth type's
+`akopyā` liberation by the impossibility of falling away.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Arhat = { fruit: true; guarded?: boolean };
-// condition-held ≠ not-an-Arhat
-```
+**Translation decisions.** The six names are sūtra-listed and their
+functional meanings remain provisional until the next verses.
+`Śraddhādhimukti-jāḥ` is explained as formerly faith-resolved.
+`Sāmayikī` is dependence on occasion, not intermittent possession
+of arhat fruit. `Cetovimukti` is liberation of consciousness;
+`samādhi-saṃmukhībhāva` is concentration becoming manifest.
+`Akopyā` rules out falling away for the sixth type.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** The six share one attained fruit rank but
+differ in prior training and the conditions under which liberation
+of consciousness is manifest or unshakeable. Reading these as
+modalities of completed Path-status is project synthesis.
 
-- *sāmayikī* = *samayāpekṣā*, not “sometimes free”;
-- all six are Arhats;
-- exact jobs of the five wait on the family verses.
+## 6. Six Types and the Five–One Division
+
+| Type or group | Source determination | Mode of liberation |
+|---|---|---|
+| First five named arhat types | Formerly faith-resolved | Occasion-dependent, guarded |
+| Immovable arhat | `akopyadharman` | Unshakeable; no falling away |
+
+The five's concentration becoming manifest depends on requisites,
+health, and place. The source does not deny their arhatship.
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 372|16–373|08.
-Verse-English from [`VAK_6.56.md`](./VAK_6.56.md) §5 Literal. Family opener.
-Next: 6.57.
+The full running unit [372|16]–[373|08] is present. The kārikā anchor
+copies the study's Bhāṣya-informed translation exactly. Next: 6.57.

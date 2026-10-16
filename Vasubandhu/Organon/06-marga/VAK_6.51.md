@@ -1,23 +1,24 @@
-# VAK 6.51 — Śrāmaṇya and the Twofold Fruit
+# VAK_6.51 — Śrāmaṇya and the Twofold Fruit
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 श्रामण्यममलो मार्गः संस्कृतासंस्कृतं फलम् ।
 एकोननवतिस्तानि मुक्तिमार्गाः सह क्षयैः ॥ ६.५१ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
-śrāmaṇyam amalo mārgaḥ |
-saṃskṛtāsaṃskṛtaṃ phalam |
+```text
+śrāmaṇyam amalo mārgaḥ saṃskṛtāsaṃskṛtaṃ phalam |
 ekānnavatis tāni muktimārgāḥ saha kṣayaiḥ || 6.51 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The uncontaminated Path is the strict sense of śrāmaṇya. Its fruits
+are conditioned liberation Paths and unconditioned abandonments,
+paired across eighty-nine cases.
 
-**Padaccheda**
-
-śrāmaṇyam | amalaḥ | mārgaḥ |
-saṃskṛta-asaṃskṛtam | phalam |
-ekānnavatiḥ | tāni | mukti-mārgāḥ | saha | kṣayaiḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -31,7 +32,14 @@ ekānnavatiḥ | tāni | mukti-mārgāḥ | saha | kṣayaiḥ
 | **mukti-mārgāḥ** | masculine nominative plural compound | liberation-paths; the Bhāṣya uses *vimukti-mārga* |
 | **saha kṣayaiḥ** | indeclinable plus masculine instrumental plural | together with the corresponding exhaustions or cessations |
 
-The kārikā states the paired total but does not display its arithmetic. The Bhāṣya derives eighty-nine from eight abandonments by seeing plus eighty-one abandonments by cultivation.
+```text
+śrāmaṇyam | amalaḥ | mārgaḥ | saṃskṛta-asaṃskṛtam | phalam |
+ekānnavatiḥ | tāni | mukti-mārgāḥ | saha | kṣayaiḥ
+```
+
+The running verse reads `śrāvaṇyamamalo mārgaṃḥ` where the study
+uses `śrāmaṇyam amalo mārgaḥ`, in keeping with the prose
+`śramaṇyam` and the chapter's question about `śrāmaṇya`. The kārikā states the paired total but does not display its arithmetic. The Bhāṣya derives eighty-nine from eight abandonments by seeing plus eighty-one abandonments by cultivation.
 
 ## 4. Grammar
 
@@ -41,15 +49,45 @@ The next sentence predicates a coordinated character of **phalam**: it is both *
 
 In the final statement, **tāni** resumes the fruits collectively and **ekānnavatiḥ** gives their enumeration. **mukti-mārgāḥ saha kṣayaiḥ** explains the pairing: the liberation-paths together with their corresponding cessations. The Bhāṣya counts eighty-nine paired cases, not 178 unrelated kinds of fruit.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+UNCONTAMINATED-PATH[ROLE=śrāmaṇya]
+  → FRUIT[TYPE=conditioned, INSTANCE=liberation-Path]
+  → FRUIT[TYPE=unconditioned, INSTANCE=affliction-abandonment]
+PAIRING[SEEING=8, CULTIVATION=9×9]
+  → CASES[COUNT=89]
+```
+
+The source distinguishes the uninterrupted Path as śrāmaṇya from
+the liberation Path and abandonment as its fruits.
+
 ## 5. Translation
 
 ### Literal Translation
 
-The stainless Path is śrāmaṇya. Its fruit is conditioned and unconditioned. Those are eighty-nine: the liberation-paths together with the cessations.
+> Śrāmaṇya is the stainless Path. Its fruit is conditioned and
+> unconditioned. The cases number eighty-nine: liberation Paths
+> together with their corresponding exhaustions.
 
 ### Bhāṣya-informed study translation
 
-Śrāmaṇya in the strict sense is the uncontaminated Path. Its conditioned fruits are the eighty-nine liberation-paths, and its unconditioned fruits are the corresponding eighty-nine abandonments of affliction. The total comprises eight liberation-paths associated with abandonment by seeing and eighty-one associated with abandonment by cultivation, each paired with its cessation.
+> Śrāmaṇya, in the strict sense, is the uncontaminated Path that
+> pacifies affliction. Its conditioned fruits are liberation Paths;
+> its unconditioned fruits are the corresponding abandonments of
+> affliction. There are eighty-nine paired cases: eight from what is
+> abandoned by seeing and eighty-one from nine grades across nine
+> grounds of cultivation. The uninterrupted Paths do the abandoning;
+> their liberation Paths and the abandonments are the two kinds of fruit.
+
+### Translation note
+
+The running verse has `śrāvaṇyamamalo mārgaṃḥ`; the study follows the
+commentary's explicit definition of `śramaṇya` by the uncontaminated
+Path. `Kṣaya` here is the unconditioned abandonment corresponding to
+a conditioned liberation Path. The Bhāṣya counts eight cases of
+abandonment by seeing and nine grades in each of nine grounds of
+abandonment by cultivation: 8 + 81 = 89 paired cases.
 
 ## 6. Philosophical Translation
 
@@ -59,7 +97,7 @@ The conditioned does not manufacture the unconditioned. Rather, one liberating c
 
 ## 7. Technical Vocabulary
 
-**śrāmaṇya**
+**`Śrāmaṇya / amala-mārga` — the stainless Path**
 
 The Bhāṣya gives the exact equivalence:
 
@@ -71,7 +109,7 @@ The Bhāṣya gives the exact equivalence:
 
 The term does not primarily designate social membership in a renunciant order. The Path is *śrāmaṇya* because afflictive and unwholesome dharmas are pacified through it. The Bhāṣya therefore says that an ordinary person is not a **paramārtha-śramaṇa**, a śramaṇa in the ultimate or strict sense, because the pacification is not complete.
 
-**Path and fruit**
+**`Ānantarya / vimukti / kṣaya` — Path work and two fruits**
 
 The Bhāṣya makes a distinction more exact than the compressed kārikā alone:
 
@@ -89,7 +127,7 @@ kṣaya / kleśa-prahāṇa
 
 The liberation-path is fruit as both **niṣyanda-phala**, an outflow-result, and **puruṣakāra-phala**, a result of the preceding activity. The corresponding abandonment is unconditioned and must not be identified with the cognition that possesses it.
 
-**The eighty-nine pairs**
+**`Ekānnavati` — eighty-nine paired cases**
 
 The Bhāṣya supplies the enumeration:
 
@@ -108,7 +146,7 @@ abandonment by cultivation
 
 Each liberation-path corresponds to one abandonment or cessation. The number eighty-nine therefore indexes one complete series under two fruit-aspects; it does not collapse the aspects or count them as 178 independent fruit-types.
 
-**Conditioned possession and unconditioned cessation**
+**`Saṃskṛta / asaṃskṛta` — conditioned and unconditioned fruit**
 
 The liberation-path is an arisen cognition and is therefore conditioned. The affliction's abandonment is unconditioned. Their relation is not identity:
 
@@ -120,7 +158,7 @@ unconditioned kṣaya
     is the cessation possessed
 ```
 
-This also clarifies 6.50: *kṣaya*, *kṣayajñāna*, and *anutpādajñāna* are respectively cessation, knowledge of its accomplishment, and—in the immovable case—knowledge of its non-recurrence.
+This also clarifies 6.50: *kṣaya*, *kṣayajñāna*, and *anutpādajñāna* are respectively cessation, Knowing of its accomplishment, and—in the immovable case—Knowing of its non-recurrence.
 
 ## 8. Logical Determination
 

@@ -1,21 +1,24 @@
-# VAK 6.46 — Accomplished Separation and Its Acquisition-Forms
+# VAK_6.46 — Accomplished Separation and Its Acquisition-Forms
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 लौकिकेनार्यवैराग्ये विसंयोगाप्तयो द्विधा ।
 लोकोत्तरेण चेत्येके त्यक्ते क्लेशासमन्वयात् ॥ ६.४६ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 laukikenārya-vairāgye visaṃyogāptayo dvidhā |
 lokottareṇa cety eke tyakte kleśāsamanvayāt || 6.46 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The verse distinguishes an established twofold acquisition after mundane
+dispassion from a reported extension to supramundane dispassion. The
+Bhāṣya tests the proposed reason for that extension.
 
-**Padaccheda**
-
-laukikena | ārya-vairāgye | visaṃyoga-āptayaḥ | dvidhā |
-lokottareṇa | ca | iti | eke | tyakte | kleśa-samanvayāt
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -28,7 +31,13 @@ lokottareṇa | ca | iti | eke | tyakte | kleśa-samanvayāt
 | **tyakte** | locative absolute or compact conditional form | when the relevant attainment is relinquished |
 | **kleśa-samanvayāt** | masculine ablative singular compound | because [otherwise] possession of the affliction would follow |
 
-The last phrase belongs to the reason advanced for the position marked **eke**. It must not be translated as Vasubandhu's unqualified conclusion. The witness has minor textual instability around **tyakte**, but the Bhāṣya makes the argument's function clear.
+```text
+laukikena | ārya-vairāgye | visaṃyoga-āptayaḥ | dvidhā |
+lokottareṇa | ca | iti | eke | tyakte | kleśa-samanvayāt
+```
+
+The running verse reads `tyavate` where the study gives the normalized
+`tyakte`; this needs collation. The last phrase belongs to the reason advanced for the position marked **eke**. It must not be translated as Vasubandhu's unqualified conclusion. The Bhāṣya makes the argument's function clear.
 
 ## 4. Grammar
 
@@ -38,15 +47,46 @@ The stable first statement is **laukikena ... āryavairāgye visaṃyogāptayo d
 
 The Bhāṣya rejects the probative force of that reason. Translation must therefore preserve thesis, reported extension, argument, and Vasubandhu's later counterexample as distinct voices.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+ĀRYA[DISPASSION-PATH=mundane]
+  → SEPARATION-ATTAINMENT[TYPE=mundane-and-supramundane]
+SOME[THESIS=supramundane-path-also-yields-both]
+  → REASON[LOSS-OF-ATTAINMENT-implies-RETURN-OF-AFFLICTION]
+COMMENTATOR[COUNTEREXAMPLES=two]
+  → VERDICT[reason=non-probative]
+```
+
+The reported thesis and its reason are attributed; the counterexamples
+belong to the Bhāṣya's response.
+
 ## 5. Translation
 
 ### Literal Translation
 
-When an Ārya gains dispassion by the mundane [Path], the attainments of separation are twofold. Some say [they are twofold] also by the supramundane [Path], because, when [its attainment] is relinquished, possession of the afflictions [would otherwise follow].
+> When an Ārya gains dispassion by the mundane Path, the attainments
+> of separation are twofold. Some say they are twofold also by the
+> supramundane Path, arguing that when its attainment is relinquished,
+> possession of the afflictions would otherwise follow.
 
 ### Bhāṣya-informed study translation
 
-When an Ārya attains dispassion through a mundane Path, both mundane and supramundane attainments of separation arise. Some extend this twofold acquisition to dispassion produced supramundanely, arguing that otherwise relinquishing the supramundane Path-acquisition during faculty transformation would restore possession of the abandoned afflictions. Vasubandhu rejects this reason as non-probative: loss of a particular separation-acquisition does not necessarily undo the abandonment already accomplished.
+> When an Ārya gains dispassion through a mundane Path, both mundane
+> and supramundane attainments of separation arise. Some say the same
+> happens through a supramundane Path: if no mundane attainment arose,
+> they argue, relinquishing the supramundane one during a change of
+> faculties would restore possession of the afflictions. The Bhāṣya
+> answers with two counterexamples. Loss of an attainment does not by
+> itself prove renewed possession of an abandoned affliction.
+
+### Translation note
+
+The first twofold result is asserted; `eke` attributes the extension to
+some interlocutors. The final clause gives their reason, which the
+Bhāṣya judges `ajñāpaka`, non-probative. The witness reads `tyavate`
+in that clause, while this study uses `tyakte` to follow the prose's
+relinquishment scenario; the textual difference remains open.
 
 ## 6. Philosophical Translation
 
@@ -56,7 +96,7 @@ The continuum therefore preserves its genesis. Its present inventory of acquisit
 
 ## 7. Technical Vocabulary
 
-**The undisputed mundane case**
+**`Laukika āryavairāgya` — mundane dispassion of an Ārya**
 
 When an Ārya attains dispassion through a mundane Path, two attainments of separation arise:
 
@@ -68,7 +108,7 @@ one abandonment
 
 The affliction is not destroyed twice. One achieved separation is possessed under two distinct Path-registers.
 
-**The reported supramundane extension**
+**`Lokottareṇa cety eke` — some extend the rule supramundanely**
 
 Some hold that dispassion produced by a supramundane Path must likewise generate both acquisition-types:
 
@@ -82,9 +122,9 @@ supramundane dispassion
 
 The second rule is reported under **eke** and is not simply Vasubandhu's own assertion.
 
-**The defender's argument**
+**`Indriyasaṃcāra / mārgatyāga` — faculty change and Path relinquishment**
 
-The proposed reason considers an Ārya who gained supramundane dispassion from the Essence of nothingness and later changes faculties while relying upon dhyāna. The former Path-acquisition is relinquished during this transition.
+The proposed reason considers an Ārya who gained supramundane dispassion from the sphere of nothingness and later changes faculties while relying upon dhyāna. The former Path-acquisition is relinquished during this transition.
 
 The defender infers:
 
@@ -95,7 +135,7 @@ if no parallel mundane separation-acquisition exists:
         → abandoned kleśa becomes possessed again
 ```
 
-**Vasubandhu's bhavāgra counterexample**
+**`Bhavāgra-vimukti` — the summit counterexample**
 
 Dispassion from *bhavāgra* can arise only supramundanely, so no mundane separation-acquisition is available there. Yet relinquishing a supramundane acquisition in the technical context of faculty transformation does not restore the abandoned *bhavāgra* afflictions.
 
@@ -107,15 +147,15 @@ no mundane visaṃyoga-prāpti
     ⇏ renewed kleśa-possession
 ```
 
-**The rebirth counterexample**
+**`Ūrdhvajāta / kāmāvacarakleśa` — higher rebirth and lower affliction**
 
 An ordinary person reborn above the first dhyāna may relinquish a previous mundane attainment of separation from desire-realm afflictions without thereby reacquiring those afflictions. Again, loss of the acquisition does not prove restoration of the abandoned determination.
 
-**ajñāpaka**
+**`Ajñāpaka` — a non-probative reason**
 
-Vasubandhu concludes that the proposed reason is **ajñāpaka**, non-indicative or non-probative. He does not need to prove the reported thesis false in every formulation; the counterexamples establish that this particular inference fails.
+Vasubandhu concludes that the proposed reason is **`Ajñāpaka` — a non-probative reason**, non-indicative or non-probative. He does not need to prove the reported thesis false in every formulation; the counterexamples establish that this particular inference fails.
 
-**Three non-identical determinations**
+**`Prahāṇa / prāpti / asamanvāgama` — abandonment, attainment, non-possession**
 
 The passage requires strict discrimination among:
 
@@ -174,7 +214,7 @@ VAK 6.46 gives the precise correction to a simple action–fruit wheel. The resu
 
 This means that recollection is not mere retention of an unchanged token. The Path may transform its own acquisition-forms while preserving what their history accomplished. To infer renewed bondage from the disappearance of one *prāpti* would mistake the current syntax of possession for the full semantic determination of liberation.
 
-The twofold mundane case, reported supramundane extension, and its proposed reason belong to the kārikā. The faculty-transformation scenario, two counterexamples, threefold distinction, and **ajñāpaka** verdict belong to the Bhāṣya. The interpretation of fruit as genetically preserved actuality rather than a detachable state-token is Organon synthesis.
+The twofold mundane case, reported supramundane extension, and its proposed reason belong to the kārikā. The faculty-transformation scenario, two counterexamples, threefold distinction, and **`Ajñāpaka` — a non-probative reason** verdict belong to the Bhāṣya. The interpretation of fruit as genetically preserved actuality rather than a detachable state-token is Organon synthesis.
 
 ## 10. OWL++ Seed
 

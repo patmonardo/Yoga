@@ -1,69 +1,118 @@
-# VAK_6.48 Bhāṣya — Last Liberation Path; Eight Noble Bases
+# VAK_6.48 Bhāṣya — Final Liberation Path and Eight Noble Bases
 
 ## 1. Kārikā Anchor
 
 > dhyānāt sāmantakād vāntyo muktimārgas tribhūjaye |
 > nordhvaṃ sāmantakād āryair aṣṭābhiḥ svordhvabhūjayaḥ || 6.48 ||
 
-Literal (from the kārikā study):
+> In completing dispassion from the desire realm, first dhyāna,
+> and second dhyāna, the final liberation Path can arise from either a
+> preliminary or a fundamental concentration. Above these three
+> grounds it arises only from a fundamental concentration. The eight
+> noble uncontaminated bases—the four dhyānas, the intermediate
+> dhyāna, and three formless attainments—can bring dispassion from
+> their own and higher grounds; lower grounds are already abandoned.
 
-> In the conquest of three grounds, the final liberation-path is from a dhyāna or
-> from a preliminary concentration; above [that], it is not from a preliminary
-> concentration. By the eight noble [bases] there is conquest of their own and
-> higher grounds.
+The first claim concerns the support of the final liberation Path;
+the second concerns the counteractive range of eight noble bases.
 
-Kārikā study: [`VAK_6.48.md`](./VAK_6.48.md). Next: 6.49.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+dhyānātsāmantakādvā 'ntyo mukti mārgastribhūjaye /
 
-> nava hy upapattibhūmayaḥ / … yāvad dvitīyadhyānavairāgyaṃ tribhūmijayaḥ /
-> tasmin paścimo vimuktimārgaḥ sāmantakād bhavati dhyānād vā maulāt /
-> tribhūmijayād ūrdhvaṃ maulād eva … upekṣendriyasāmānyāt /
-> … indriyasaṃcārasya duṣkaratvāt /
-> anāsravair aṣṭābhir dhyānadhyānāntarārūpyaiḥ svasyā ūrdhvāyāś ca bhūmer vairāgyaṃ nādharāyā vītarāgatvāt /
-> tatra lokottarā ānantaryavimuktimārgāḥ satyālambanatvāt satyākārapravṛttā iti siddham /
+nava hyapapattibhūmayaḥ /
+sarvakāmadhāturaṣṭau ca dhyānārupyāḥ /
 
-**Witness.** Pradhan 367|13–368|07. Voice: Vasubandhu. 6.49 at 368|08.
+tatra yāvat dvitīyadhyānavairāgyaṃ tribhūmijayaḥ /
+
+tasmin paścimo vimuktimārgaḥ sāmantakādbhavati dhyānādvā maulāt /
+
+     nordhvaṃ sāmantakāt
+
+tribhūmijayādūrdhvaṃ maulādeva na punaḥ sāmantakādupekṣendriyasāmānyāt /
+
+triṣu hi dhyāneṣu sāmantakamaulayorindriyabhedāt kaścinna śaknoti maulaṃ dhyānaṃ praveṣṭum /
+
+indriyasaṃcārasya duṣkaratvāt /
+
+atastribhūmivairāgye dhyānasāmantakādapyanyo vimuktimārgo bhavati /
+
+"anāsraveṇa vairāgyamanāgamyena sarvata" ityuktamanyaistu noktam /
+ata ucyate
+
+     āryairaṣṭābhiḥ svordhvabhūjayaḥ // VAkK_6.48 //
+
+anāsravairaṣṭābhirdhyānadhyānāntarārupyaiḥ svasyā ūrdhvāyāśca bhūmervairāgyaṃ nādharāyā vītarāgatvāt /
+
+tatra lokottarā ānantaryavimuktimārgāḥ satyālambanatvātsatyākārapravṛttā iti siddham /
+```
+
+This is the complete running unit [367|15]–[368|07] in
+`Vasubandhu/Sources/kosabhasya.txt`; source labels are removed and
+line breaks editorial. The next verse begins at [368|08]. Uneven
+spacing and compounds remain as transmitted.
 
 ## 3. Continuous Conventional Translation
 
-> Nine rebirth-grounds: the whole desire-domain plus eight dhyāna and formless.
-> Conquest of three grounds = through dispassion from the second dhyāna. There the
-> last liberation Path may come from the preliminary or from the fundamental dhyāna.
-> Above that: only from the fundamental. Why the option below? Faculty differs
-> between threshold and seat; shifting faculty is hard. Why not above? Equanimity
-> faculty is common.
->
-> 6.47 said *anāgamya* reaches everywhere. The others were not said. So: by eight
-> noble uncontaminated bases — four dhyānas, the mid-dhyāna, three formless —
-> dispassion from one's own ground and higher, not from lower (already free).
-> Supramundane uninterrupted and liberation Paths have the Truths as object, so they
-> run in truth-forms. That is established.
+In conquering three grounds, the last liberation Path can arise from
+a fundamental dhyāna or from its preliminary concentration. There
+are nine rebirth grounds: the whole desire realm and eight dhyāna and
+formless grounds. Dispassion through the second dhyāna is the conquest
+of three grounds. The last liberation Path in that conquest can arise
+from the preliminary concentration or from the fundamental dhyāna.
+Above the three-ground conquest it arises only from the fundamental
+concentration, not from a preliminary concentration, because the
+faculty of equanimity is shared there. In the first three dhyānas,
+preliminary and fundamental concentrations differ in faculty; some
+practitioners cannot enter the fundamental dhyāna, since a change of
+faculty is difficult. Thus, within the conquest of three grounds, the
+last liberation Path can arise from the preliminary concentration as
+well as the dhyāna.
+
+The preceding verse said that an uncontaminated Path based on
+*anāgamya* can produce dispassion from every ground, but had not
+yet stated what the other bases can do. Eight noble uncontaminated
+bases—the four dhyānas, the intermediate dhyāna, and three formless
+attainments—produce dispassion from their own and higher grounds,
+not lower ones, since those have already been abandoned. Supramundane
+uninterrupted and liberation Paths take the Truths as their cognitive
+Condition, and so proceed in the forms of the Truths.
 
 ## 4. Movement of the Commentary
 
-```text
-tribhūmi-jaya: last vimukti = sāmantaka OR maula
-above: maula only
-eight bases → own + higher
-why upward reach: satya as ālambana
-```
+The commentary first fixes the three-ground scope and explains why
+the last liberation Path can sometimes use a preliminary support.
+It then excludes that support above the three-ground conquest. A new
+question extends the preceding verse's *anāgamya* claim to eight
+noble bases, fixes their own-and-higher range, and identifies Truths
+as the cognitive Condition of supramundane Paths.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type NoblePath = { support: string; object: "satya"; range: "own|higher" };
-// support ≠ function ≠ range
-```
+**Translation decisions.** `Antyaḥ` limits the support alternative
+to the final liberation Path. `Tribhūjaya` counts desire realm, first
+dhyāna, and second dhyāna. `Āryair aṣṭābhiḥ` is unpacked as four
+dhyānas, intermediate dhyāna, and three formless attainments.
+`Satyālambanatva` is Truths as cognitive Condition, not a spatial
+object; `satyākāra-pravṛtti` names operation in Truth-forms.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** Meditative support, Path function, and
+counteractive range form distinct determinations. Their integration
+as one Path operation is project synthesis; the specific constraints
+on each come from the verse and commentary.
 
-- not every vimukti floats off the threshold;
-- lower grounds are not reconquered;
-- truth-form is the Bhāṣya's reason for upward reach.
+## 6. Support, Range, and Truth-Form
+
+| Determination | Source ground | Consequence |
+|---|---|---|
+| Three-ground conquest | Desire realm through second dhyāna | Last liberation Path from preliminary or fundamental support |
+| Above three grounds | Equanimity faculty shared | Last liberation Path from fundamental concentration only |
+| Eight noble bases | Four dhyānas, intermediate dhyāna, three formless attainments | Own and higher grounds counteracted |
+| Lower grounds | Already abandoned | No renewed conquest |
+| Supramundane Path | Truths as cognitive Condition | Uninterrupted and liberation Paths proceed in Truth-forms |
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 367|13–368|07.
-Verse-English from [`VAK_6.48.md`](./VAK_6.48.md) §5 Literal. Medium.
-Next: 6.49.
+The full running unit [367|15]–[368|07] is present. The kārikā anchor
+copies the study's Bhāṣya-informed translation exactly. Next: 6.49.

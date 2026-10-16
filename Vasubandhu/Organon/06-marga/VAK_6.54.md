@@ -1,23 +1,22 @@
-# VAK 6.54 — Dharma-Wheel as the Transmission of Path-Meaning
+# VAK_6.54 — Dharma-Wheel as the Transmission of Path-Meaning
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 ब्राह्मण्यं ब्रह्मचक्रं च तदेव ब्रह्मवर्तनात् ।
 धर्मचक्रं तु दृङ्मार्ग आशुगत्वादरादिभिः ॥ ६.५४ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 brāhmaṇyaṃ brahmacakraṃ ca tad eva brahmavartanāt |
 dharmacakraṃ tu dṛṅmārga āśugatvād arādibhiḥ || 6.54 ||
+```
 
 The Bhāṣya does not reduce **dharmacakra** to one uncontested identification. It records the Path of Seeing, Bhadanta Ghoṣaka's eightfold-Path wheel, the three-turning Dharma exposition, and the whole noble Path entering another continuum. These attributed determinations are kept distinct below.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-brāhmaṇyam | brahma-cakram | ca | tat | eva | brahma-vartanāt |
-dharma-cakram | tu | dṛk-mārgaḥ | āśu-gatvāt | ara-ādibhiḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -31,7 +30,16 @@ dharma-cakram | tu | dṛk-mārgaḥ | āśu-gatvāt | ara-ādibhiḥ
 | **āśu-gatvāt** | neuter ablative singular abstract compound | because of swift movement |
 | **ara-ādibhiḥ** | masculine instrumental plural compound | through resemblance to spokes and the other wheel-parts |
 
-The Bhāṣya derives **brāhmaṇya** from the carrying away of afflictions and calls the Buddha “Brahmā” through his unsurpassed relation to that liberating efficacy. The wheel is his because he sets it in motion.
+```text
+brāhmaṇyam | brahma-cakram | ca | tat | eva | brahma-vartanāt |
+dharma-cakram | tu | dṛk-mārgaḥ | āśu-gatvāt | ara-ādibhiḥ
+```
+
+The running source divides the kārikā across several prose lines;
+its opening reads `brāhmaṇyaṃ brahmacakraṃ ca tadeva`. The Bhāṣya
+derives **brāhmaṇya** from the carrying away of afflictions and calls
+the Buddha “Brahmā” through his unsurpassed relation to that liberating
+efficacy. The wheel is his because he sets it in motion.
 
 ## 4. Grammar
 
@@ -41,15 +49,52 @@ In the second half, **dharma-cakram** and **dṛk-mārgaḥ** stand in appositio
 
 The Bhāṣya subjects this compact identification to analysis. It first unfolds several senses of wheel-like motion, then records alternative explanations, and finally questions whether the Path of Seeing alone can account for the traditional three turnings and twelve aspects.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+UNCONTAMINATED-PATH[AS=brāhmaṇya]
+  → FUNCTION[carries-away-afflictions]
+UNCONTAMINATED-PATH[AS=brahma-wheel]
+  → AGENT[Buddha-sets-in-motion]
+PATH-OF-SEEING[AS=Dharma-wheel]
+  → ANALOGY[swift-wheel-motion]
+DHARMA-EXPOSITION[AS=Dharma-wheel]
+  → STRUCTURE[three-turnings, twelve-aspects]
+DHARMA[ENTERING=other-continuum]
+  → MEDIATION[Meaning-made-known, Seeing-arises]
+```
+
+The first three relations explain the verse; the latter two reflect
+the commentary's debate and further account of turning.
+
 ## 5. Translation
 
 ### Literal Translation
 
-That very [śrāmaṇya] is also brāhmaṇya and the Brahma-wheel, because it is set in motion by Brahmā. But the Dharma-wheel is the Path of Seeing, because of its swift movement and through [resemblance to] spokes and the other [parts].
+> That same śrāmaṇya is brāhmaṇya and the Brahma-wheel, because
+> Brahmā sets it in motion. The Dharma-wheel is the Path of Seeing,
+> through swift movement and likeness to spokes and other wheel-parts.
 
 ### Bhāṣya-informed study translation
 
-The same uncontaminated Path is called brāhmaṇya insofar as it carries away afflictions, and the Brahma-wheel insofar as the Buddha—called Brahmā through unsurpassed brāhmaṇya—sets it in motion. The Path of Seeing is called the Dharma-wheel because it moves swiftly and effectively like a wheel. Other explanations identify the wheel with the functionally organized noble eightfold Path, with the three-turning and twelve-aspect Dharma exposition, or with the whole noble Path insofar as its meaning enters another practitioner's continuum and produces Seeing there.
+> The uncontaminated Path is brāhmaṇya because it carries away
+> afflictions, and the Brahma-wheel because the Buddha, called Brahmā
+> for unsurpassed brāhmaṇya, sets it in motion. The Path of Seeing is
+> called the Dharma-wheel for its swift, wheel-like action. Ghoṣaka
+> describes the eightfold Path through spokes, hub, and rim. The
+> three-turning, twelve-aspect wheel also fits the Dharma exposition:
+> its Meaning is made known and enters another continuum, where
+> Seeing arises. The whole noble Path can likewise be called a wheel
+> as it moves through the continuums of those being trained.
+
+### Translation note
+
+The kārikā names brāhmaṇya, Brahma-wheel, and the Path of Seeing as
+Dharma-wheel. Ghoṣaka's wheel-part analysis, the Vaibhāṣika mapping
+of three turnings, the objection to restricting all three to Seeing,
+and the Dharma exposition or whole-Path accounts are Bhāṣya voices.
+`Artha-jñāpana` is making Meaning known; its success is the Dharma's
+going into another continuum, with Seeing arising there.
 
 ## 6. Philosophical Translation
 
@@ -59,7 +104,7 @@ The wheel is therefore neither a static emblem nor a bare repetition of words. I
 
 ## 7. Technical Vocabulary
 
-**brāhmaṇya and brahmacakra**
+**`Brāhmaṇya / brahmacakra` — Path efficacy and Buddha-set wheel**
 
 The Bhāṣya explains the three names functionally:
 
@@ -76,7 +121,7 @@ brahmacakra
 
 The Buddha is called **Brahmā** here because of his unsurpassed *brāhmaṇya*, not through identification with a cosmological creator.
 
-**Wheel-like movement**
+**`Āśugatva / ara` — swift motion and wheel-parts**
 
 The Bhāṣya unpacks the Path of Seeing's resemblance to a moving wheel through:
 
@@ -90,7 +135,7 @@ rising and descending
 
 The analogy concerns an ordered and effective operation, not visual circularity alone.
 
-**Bhadanta Ghoṣaka's eightfold wheel**
+**`Āryāṣṭāṅga-mārga` — Ghoṣaka’s eightfold wheel**
 
 Bhadanta Ghoṣaka identifies the wheel with the noble eightfold Path and assigns its members to wheel-parts:
 
@@ -112,7 +157,7 @@ rim
 
 This is an attributed explanation. Its value lies in functional articulation: the factors operate as one wheel rather than as a heap.
 
-**Three turnings and twelve aspects**
+**`Triparivarta / dvādaśākāra` — three turnings and twelve aspects**
 
 The traditional formula gives each Truth three determinations:
 
@@ -138,7 +183,7 @@ four Truths × three determinations
 
 The Vaibhāṣikas associate the three turnings with Seeing, cultivation, and beyond-training. Vasubandhu objects that this cannot make the Path of Seeing **alone** three-turning and twelve-aspect. He therefore regards the Dharma exposition itself as the more fitting bearer of that formula.
 
-**Turning as transmission of meaning**
+**`Artha-jñāpana / para-saṃtāna-gamana` — Meaning entering another continuum**
 
 The Bhāṣya's strongest definition is:
 

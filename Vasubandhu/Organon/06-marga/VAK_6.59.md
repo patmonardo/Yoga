@@ -1,23 +1,22 @@
-# VAK 6.59 — Three Modes of Regression: Possession, Advance, and Actualization
+# VAK_6.59 — Three Modes of Regression: Possession, Advance, and Actualization
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 परिहाणिस्त्रिधा ज्ञेया प्राप्ताप्राप्तोपभोगतः ।
 अन्त्या शास्तुरकोप्यस्य मध्या चान्यस्य तु त्रिधा ॥ ६.५९ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 parihāṇis tridhā jñeyā prāptāprāptopabhogataḥ |
 antyā śāstur akopyasya madhyā cānyasya tu tridhā || 6.59 ||
+```
 
 The first-pass witness left the distribution of **antyā**, **madhyā**, and **anya** uncertain. The Bhāṣya resolves it: the Buddha is subject only to the final type, the unshakeable Arhat to the middle and final types, and another Arhat to all three.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-parihāṇiḥ | tridhā | jñeyā | prāpta-aprāpta-upabhogataḥ |
-antyā | śāstuḥ | akopyasya | madhyā | ca | anyasya | tu | tridhā
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -35,7 +34,14 @@ antyā | śāstuḥ | akopyasya | madhyā | ca | anyasya | tu | tridhā
 | **anyasya** | masculine genitive singular | of another Arhat |
 | **tridhā** | indeclinable | in all three ways |
 
-The Bhāṣya expands the three members as **prāpta-parihāṇi**, **aprāpta-parihāṇi**, and **upabhoga-parihāṇi** and defines the last through failure to make an attained quality immediately present.
+```text
+parihāṇiḥ | tridhā | jñeyā | prāpta-aprāpta-upabhogataḥ |
+antyā | śāstuḥ | akopyasya | madhyā | ca | anyasya | tu | tridhā
+```
+
+The Bhāṣya expands the three members as **prāpta-parihāṇi**,
+**aprāpta-parihāṇi**, and **upabhoga-parihāṇi**. The last means
+failure to make an attained quality immediately present.
 
 ## 4. Grammar
 
@@ -56,15 +62,50 @@ another Arhat
     → first + second + third
 ```
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+REGRESSION[TYPE=attained-quality-loss]
+  → CONDITION[held-quality-ceases]
+REGRESSION[TYPE=further-attainment-failure]
+  → CONDITION[attainable-quality-not-acquired]
+REGRESSION[TYPE=present-use-failure]
+  → CONDITION[held-quality-not-manifest]
+TEACHER → ALLOWED[present-use-failure]
+IMMOVABLE-ARHAT → ALLOWED[further-attainment-failure, present-use-failure]
+OTHER-ARHAT → ALLOWED[all-three, within-received-classification]
+```
+
+The last line is qualified by the non-regression speaker's challenge
+to loss of uncontaminated liberation.
+
 ## 5. Translation
 
 ### Literal Translation
 
-Regression should be understood in three ways: with respect to what has been attained, what has not been attained, and enjoyment. The last belongs to the Teacher; the middle also belongs to the unshakeable one; but for another it is threefold.
+> Falling away is understood in three ways: from what has been
+> attained, from what has yet to be attained, and from the present use
+> of what is attained. The Teacher has the last; the immovable arhat
+> has the middle as well; another arhat has all three.
 
 ### Bhāṣya-informed study translation
 
-“Regression” has three distinct meanings: actual loss of a quality already attained, failure to acquire a further attainable quality, and failure to bring an attained quality into present exercise. Only the third applies to the Buddha; the second and third apply to the unshakeable Arhat; another Arhat may undergo all three.
+> “Falling away” can mean losing a quality already attained,
+> failing to acquire a further attainable quality, or not bringing
+> an attained quality into present use. The Buddha is subject only
+> to the third; the immovable arhat may also miss a further special
+> quality; another arhat may be described under all three. These
+> senses separate loss of possession from missed development and
+> from a pause in manifestation.
+
+### Translation note
+
+The Bhāṣya defines the three types as `prāpta-`, `aprāpta-`, and
+`upabhoga-parihāṇi`. The third concerns a quality still possessed
+but not made immediately present (`saṃmukhīkaroti`). The Buddha,
+immovable arhat, and other arhat receive the three kinds in increasing
+scope. A closing non-regression speaker insists that uncontaminated
+liberation is unshakeable for all; that claim remains attributed.
 
 ## 6. Philosophical Translation
 
@@ -74,11 +115,11 @@ The stronger Path-status is therefore not defined by uninterrupted empirical dis
 
 ## 7. Technical Vocabulary
 
-**The sūtra problem**
+**`Dṛṣṭadharma-sukha-vihāra / akopyā cetovimukti` — the sūtra contrast**
 
-The Bhāṣya begins from scriptural statements allowing regression from superior pleasant abidings in the present life while denying regression from unshakeable liberation of mind. The apparent conflict arises only if **parihāṇi** is treated as one univocal event.
+The Bhāṣya begins from scriptural statements allowing regression from superior pleasant abidings in the present life while denying regression from unshakeable liberation of mind. The quoted statements motivate distinguishing the senses of **parihāṇi**.
 
-**prāpta-parihāṇi**
+**`Prāpta-parihāṇi` — loss of an attained quality**
 
 The strongest kind is actual loss of a quality already obtained:
 
@@ -89,7 +130,7 @@ quality attained
 
 This alone is regression from an achieved determination in the strict possessive sense.
 
-**aprāpta-parihāṇi**
+**`Aprāpta-parihāṇi` — failure to attain a further quality**
 
 The middle kind is failure to obtain a further quality that remains capable of attainment:
 
@@ -103,7 +144,7 @@ already possessed quality
 
 For the unshakeable Arhat, the Bhāṣya explains this as failure to acquire a special quality belonging to a distinctive kind of person (**pudgala-viśeṣa-dharma**). Immovability does not imply possession of every possible excellence.
 
-**upabhoga-parihāṇi**
+**`Upabhoga-parihāṇi` — failure to make a held quality present**
 
 The final kind occurs when an attained quality is not brought into immediate presence:
 
@@ -115,7 +156,7 @@ quality remains possessed
 
 The Bhāṣya's verb is **saṃmukhīkaroti**, to make present or bring face-to-face. “Loss of enjoyment” must therefore not be mistaken for loss of acquisition.
 
-**Distribution among persons**
+**`Śāstṛ / akopyadharman / anya arhat` — three scopes of decline**
 
 ```text
 Buddha
@@ -133,7 +174,7 @@ another Arhat
 
 The first two rows are compatible with secure liberation because neither necessarily includes loss of that liberation.
 
-**Uncontaminated liberation and the special person-type**
+**`Anāsravā vimukti / akopyadharman` — liberation and person-type**
 
 The Bhāṣya states in the concluding exchange that uncontaminated liberation is unshakeable, while the special establishment of the *akopyadharman* must be understood according to the prior classification. This compact remark continues the dispute of 6.58 and should not be expanded into a single uncontested theory.
 

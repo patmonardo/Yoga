@@ -1,23 +1,22 @@
-# VAK 6.58 — Bounded Regression and the Irreversibility of Seeing
+# VAK_6.58 — Bounded Regression and the Irreversibility of Seeing
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 गोत्राच्चतुर्णां पञ्चानां फलाद्धानिर्न पूर्वकात् ।
 शैक्षानार्याश्च षड्गोत्राः संचारो नास्ति दर्शने ॥ ६.५८ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 gotrāc caturṇāṃ pañcānāṃ phalād dhānir na pūrvakāt |
 śaikṣānāryāś ca ṣaḍgotrāḥ saṃcāro nāsti darśane || 6.58 ||
+```
 
 The phrase **na pūrvakāt** means, according to the Bhāṣya, that neither one's first disposition nor one's first noble fruit is lost. The assertion that five regress from Arhat-fruit belongs to the Vaibhāṣika classification and is explicitly contested by the Sautrāntikas.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-gotrāt | caturṇām | pañcānām | phalāt | hāniḥ | na | pūrvakāt |
-śaikṣāḥ | anāryāḥ | ca | ṣaṭ-gotrāḥ | saṃcāraḥ | na | asti | darśane
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -33,6 +32,13 @@ gotrāt | caturṇām | pañcānām | phalāt | hāniḥ | na | pūrvakāt |
 | **saṃcāraḥ** | masculine nominative singular | transition or change, explained as transition of faculties |
 | **darśane** | masculine locative singular | during the Path of Seeing |
 
+```text
+gotrāt | caturṇām | pañcānām | phalāt | hāniḥ | na | pūrvakāt |
+śaikṣāḥ | anāryāḥ | ca | ṣaṭ-gotrāḥ | saṃcāraḥ | na | asti | darśane
+```
+
+The running verse writes its clauses separately at [374|10],
+[374|14], [377|08], and [377|10]; the study joins them as two lines.
 The kārikā uses **hāni** generally; the Bhāṣya distinguishes **gotra-parihāṇi** from **phala-parihāṇi** and explains **saṃcāra** as **indriya-saṃcāra**.
 
 ## 4. Grammar
@@ -43,15 +49,52 @@ The first line distributes two ablative objects of regression. **gotrāt** belon
 
 In the second line, **śaikṣāḥ** and **anāryāḥ** are coordinated subjects of **ṣaḍgotrāḥ**: trainees and ordinary persons also possess the six dispositions. The impersonal assertion **saṃcāro nāsti darśane** excludes transition of faculties during Seeing, not from the Path generally.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+ARHAT[TYPE=middle-four, DISPOSITION=later-acquired]
+  → REGRESSION[FROM=acquired-disposition, POSSIBLE=true]
+ARHAT[TYPE=first-five, SCHOOL=Vaibhāṣika]
+  → REGRESSION[FROM=arhat-fruit, POSSIBLE=true]
+PERSON[FIRST-DISPOSITION-or-FIRST-NOBLE-FRUIT]
+  → REGRESSION[POSSIBLE=false]
+TRAINEE-or-ORDINARY[DISPOSITIONS=six]
+PATH-OF-SEEING
+  → FACULTY-TRANSITION[POSSIBLE=false, REASON=no-preparatory-application]
+```
+
+The fruit-regression rule is explicitly school-dependent; the
+Sautrāntika counterargument rejects it.
+
 ## 5. Translation
 
 ### Literal Translation
 
-For four there is loss from disposition, and for five loss from fruit, but not from what was first. Trainees and non-noble persons also have six dispositions. There is no transition during Seeing.
+> Four can decline from a disposition and five from a fruit,
+> but none from what was first. Trainees and ordinary persons also
+> have six dispositions. Faculty transition does not occur during
+> the Path of Seeing.
 
 ### Bhāṣya-informed study translation
 
-Four Arhat-types—from the *cetanādharman* through the *prativedhanābhavya*—can lose a stronger disposition acquired through faculty-sharpening. In the Vaibhāṣika system, the first five Arhat-types can also regress from Arhatship, though no one loses an original disposition or a first noble fruit. The Sautrāntikas reject regression from Arhatship and locate the instability instead in meditative attainments. The same six dispositions occur among trainees and ordinary persons, but transition of faculties never takes place during the Path of Seeing because the preparatory effort it requires is impossible there.
+> Four arhat types can lose a stronger disposition gained by
+> sharpening their faculties. The Vaibhāṣika account also allows
+> the first five to fall from arhat fruit, while holding that no one
+> loses an original disposition or a first noble fruit. The
+> Sautrāntikas dispute loss of arhatship and place the instability
+> in meditative attainment. Trainees and ordinary persons likewise
+> have six dispositions; during Seeing, however, faculties do not
+> change, because that transition requires preparatory practice.
+
+### Translation note
+
+`Na pūrvakāt` limits both kinds of loss: the first disposition and
+the first noble fruit remain firm. The fruit-regression statement is
+the Vaibhāṣika account; the Bhāṣya then records the Sautrāntika
+objection and its distinction between arhatship and conditionally
+manifest meditative attainment. `Saṃcāra` is faculty transition,
+excluded during Seeing because the required preparatory practice
+cannot occur in that immediate Path sequence.
 
 ## 6. Philosophical Translation
 
@@ -61,7 +104,7 @@ Nor can every transformation occur in every Path-moment. Seeing is an uninterrup
 
 ## 7. Technical Vocabulary
 
-**Regression from disposition**
+**`Gotra-parihāṇi` — regression from acquired disposition**
 
 The Bhāṣya assigns **gotra-parihāṇi** to four types:
 
@@ -75,7 +118,7 @@ prativedhanābhavya
 
 The *parihāṇadharman* has no lower disposition beneath its own from which to regress, while the *akopyadharman* is excluded by immovability.
 
-**What was first and what was later acquired**
+**`Na pūrvakāt` — the first disposition and fruit remain firm**
 
 The Bhāṣya interprets **na pūrvakāt** through a strict distinction:
 
@@ -93,9 +136,9 @@ uttāpana-pratilabdha-gotra
 
 The same principle applies to fruit. One does not regress from one's first noble fruit; consequently stream-entry is never lost. Regression cannot erase the entire noble history.
 
-**Why Seeing's abandonment is irreversible**
+**`Darśanaheya / avastuka / vitathālambana` — Seeing and false apprehension**
 
-The Bhāṣya describes afflictions abandoned by Seeing as **avastuka** in a technical sense. This does not mean that they take no object. They take real aggregates as objects but apprehend them falsely (**vitathālambana**) by superimposing agent, experiencer, controller, or self.
+The Bhāṣya describes afflictions abandoned by Seeing as **avastuka** in a technical sense. This does not mean that they have no cognitive Condition. They take real aggregates as cognitive Conditions but apprehend them falsely (**vitathālambana**) by superimposing agent, experiencer, controller, or self.
 
 ```text
 real aggregates
@@ -108,7 +151,7 @@ noble Seeing destroys that error
 
 Cultivation-afflictions such as attachment and aversion can arise toward actually given agreeable or disagreeable features and are termed **savastuka** in this contrast. A lapse of mindfulness can reactivate them, whereas the self-view destroyed by Seeing is not restored in the same way.
 
-**The Vaibhāṣika position on fruit-regression**
+**`Vaibhāṣika phala-parihāṇi` — possible loss of arhat fruit**
 
 The kārikā's **pañcānāṃ phalād dhāniḥ** presents the Vaibhāṣika thesis:
 
@@ -122,7 +165,7 @@ akopyadharman
 
 This is a school determination, not an uncontested conclusion of the Bhāṣya.
 
-**The Sautrāntika objection**
+**`Sautrāntika aparihāṇi` — no loss of arhatship**
 
 The Sautrāntikas deny regression from Arhatship. They interpret condition-dependent liberation as a fundamental concentration brought into presence under suitable conditions for pleasant abiding in this life, not as defeasible destruction of the afflictions.
 
@@ -149,7 +192,7 @@ Sautrāntika
     only meditative ease or attainment is unstable
 ```
 
-**Six dispositions throughout Path-development**
+**`Ṣaḍ-gotra` — dispositions across trainee and ordinary stages**
 
 The Bhāṣya extends the taxonomy genetically:
 
@@ -161,7 +204,7 @@ pṛthagjana disposition
 
 The final types continue capacities already present and cultivated before Arhatship; they are not invented only at the endpoint.
 
-**No transition within Seeing**
+**`Darśane na saṃcāraḥ` — no faculty change within Seeing**
 
 The Bhāṣya explains:
 
@@ -183,9 +226,9 @@ The possible losses must be typed by their object:
 
 ```text
 Regression(x)
-    requires objectOfRegression(x)
+    requires targetOfRegression(x)
 
-objectOfRegression
+targetOfRegression
     = AcquiredDisposition
       or, for Vaibhāṣika, ArhatFruit
       or, for Sautrāntika, MeditativeAttainment
@@ -251,7 +294,7 @@ Class: FacultyTransition
   SanskritLabel: indriya-saṃcāra
 Class: PreparatoryApplication
   SanskritLabel: prayoga
-Class: FalseObjectApprehension
+Class: FalseConditionApprehension
   SanskritLabel: vitatha-ālambana
 Class: VaibhasikaPosition
 Class: SautrantikaPosition

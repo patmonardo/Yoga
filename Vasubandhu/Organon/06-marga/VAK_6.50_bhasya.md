@@ -1,62 +1,99 @@
-# VAK_6.50 Bhāṣya — Exhaustion Known; Non-Arising Only if Immovable
-
-Back from the 6.49 side-path. After first *kṣayajñāna*, what arises?
+# VAK_6.50 Bhāṣya — Knowing After Exhaustion and Right View
 
 ## 1. Kārikā Anchor
 
 > yady akopyaḥ kṣayajñānād anutpādamatiḥ na cet |
-> kṣayajñānam aśaikṣo vā dṛṣṭiḥ sarvasya sārhataḥ || 6.50 ||
+> kṣayajñānam aśaikṣī vā dṛṣṭiḥ sarvasya sā 'rhataḥ || 6.50 ||
 
-Literal (from the kārikā study):
+> For an immovable arhat, Knowing of non-arising follows the first
+> Knowing of exhaustion immediately. For an arhat still capable of
+> falling away, another Knowing of exhaustion or right view beyond
+> training follows instead; Knowing of non-arising does not arise.
+> Right view beyond training belongs to every arhat, including the
+> immovable one, whose later cognition may also be that right view.
 
-> If [the Arhat] is immovable, after knowledge of exhaustion there is cognition of
-> non-arising. If not, there is knowledge of exhaustion or right view beyond
-> training. That [right view] belongs to every Arhat.
+The successor of Knowing of exhaustion depends on whether falling
+away remains possible. Right view beyond training belongs to every
+arhat in either case.
 
-Kārikā study: [`VAK_6.50.md`](./VAK_6.50.md). Next: 6.51, śrāmaṇya fruit.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+idaṃ tu vaktavyam /
 
-> atha kṣayajñānānantaraṃ kim utpadyate /
-> akopyadharmā ced arhan bhavati … samanantaram anutpādajñānam asyotpadyate /
-> na ced … kṣayajñānam evotpadyate aśaikṣī vā samyagdṛṣṭiḥ /
-> na tv anutpādajñānaṃ parihāṇisaṃbhavāt /
-> sarvasya sā 'rhataḥ /
-> akopyadharmaṇo 'py … kadācid anutpādajñānam … kadācid aśaikṣī samyagdṛṣṭiḥ /
+atha kṣayajñānākanantaraṃ kimutpadyate
 
-**Witness.** Pradhan 368|18–369|07. Voices: Vasubandhu; brief objector. 6.51 at 369|08.
+     yadyakopyaḥ kṣayajñānādanutpādamatiḥ
+
+akopyadharmā cedarhanbhavati kṣayajñānātsamanantaramanutpādajñānamasyotpadyate /
+
+     na cet /
+
+     kṣayajñānamaśaikṣī vā dṛṣṭiḥ
+
+na cedakopyadharmā bhavati kṣayajñānāt kṣavajñānamevotpadyate aśaikṣī vā samyagdṛṣṭiḥ /
+
+na tvanutpādajñānaṃ parihāṇisaṃbhavāt /
+
+kiṃ punarakopoyadharmaṇaḥ sā naivotpadyate /
+
+     sarvasya sā 'rhataḥ // VAkK_6.50 //
+
+akopyadharmaṇo 'pyanutpādajñānātkadācidanutpādajñānamevotpadyate kadācidaśaikṣī samyagdṛṣṭiḥ /
+```
+
+This is the complete running unit [368|18]–[369|07] in
+`Vasubandhu/Sources/kosabhasya.txt`; source labels are removed and line
+breaks editorial. The prose's `kṣavajñāna` and `akopoyadharma` are
+retained as transmitted forms; their contextual senses are
+`kṣayajñāna` and `akopyadharma`. The next question begins at [369|08].
 
 ## 3. Continuous Conventional Translation
 
-> What arises right after knowledge of exhaustion? If she is of immovable nature:
-> knowledge of non-arising, immediately. If not: knowledge of exhaustion again, or
-> right view beyond training. Not knowledge of non-arising — falling away is still
-> possible. Does the immovable then lack that right view? No. It belongs to every
-> Arhat. After non-arising, the immovable may have non-arising again, or that view.
+The subsidiary discussion has ended. What arises after Knowing of
+exhaustion? If the arhat has an immovable nature, Knowing of
+non-arising arises immediately after Knowing of exhaustion. If the
+arhat is not immovable, Knowing of exhaustion arises again or right
+view beyond training arises. Knowing of non-arising does not arise in
+that case because falling away remains possible.
+
+Does that mean right view never arises for the immovable arhat? It
+belongs to every arhat. For one of immovable nature, after Knowing of
+non-arising there may arise another Knowing of non-arising or right
+view beyond training. Thus the immediately following cognition is
+conditioned by immovability, while right view is common to all arhats.
 
 ## 4. Movement of the Commentary
 
-```text
-kṣaya known ≠ anutpāda known
-aśaikṣa ≠ automatically akopya
-every Arhat has aśaikṣī samyagdṛṣṭi
-```
+The commentary asks what follows the first Knowing of exhaustion,
+splits the answer by immovable and non-immovable arhat status, and
+explains the exclusion of Knowing of non-arising where falling away
+is possible. A question about right view prompts the universal answer:
+it belongs to every arhat, including the immovable one.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Arhat = { exhausted: true; immovable?: boolean; rightView: true };
-// she is due either way; non-arising is not a nicer mood
-```
+**Translation decisions.** `Anutpādamatiḥ` in the verse is identified
+by the prose as `anutpādajñāna`, Knowing of non-arising. The source's
+`kṣavajñāna` and `akopoyadharma` remain in §2; their contextual
+forms guide the English. `Sarvasya sā 'rhataḥ` refers to right view
+beyond training and does not assert that it immediately follows the
+first Knowing of exhaustion for every arhat.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** Knowing of completed exhaustion and Knowing
+of irreversible non-arising are distinct. The source conditions the
+latter on an immovable arhat status. The account of cognition as an
+expression of Path-status is project synthesis.
 
-- *parihāṇisaṃbhavāt* blocks *anutpādajñāna* only;
-- both types are Arhats;
-- right view is common, not the movable's consolation prize.
+## 6. Successor Cognition by Arhat Status
+
+| Arhat status | Immediately after first Knowing of exhaustion | Further determination |
+|---|---|---|
+| Immovable | Knowing of non-arising | Later Knowing of non-arising or right view |
+| Still capable of falling away | Knowing of exhaustion again or right view | Knowing of non-arising excluded |
+| Every arhat | Right view belongs to the status | No single immediate successor inferred |
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 368|18–369|07.
-Verse-English from [`VAK_6.50.md`](./VAK_6.50.md) §5 Literal. Medium hinge.
-Next: 6.51.
+The full running unit [368|18]–[369|07] is present. The kārikā anchor
+copies the study's Bhāṣya-informed translation exactly. Next: 6.51.

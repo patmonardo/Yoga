@@ -1,23 +1,22 @@
-# VAK 6.57 — Transformable Disposition and Modal Path-Capacity
+# VAK_6.57 — Transformable Disposition and Modal Path-Capacity
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 अतोऽसमयमुक्तोऽसौ दृष्टिप्राप्तान्वयश्च सः ।
 तद्गोत्रा आदितः केचित्केचिदुत्तापनागताः ॥ ६.५७ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 ato ’samayamukto ’sau dṛṣṭiprāptānvayaś ca saḥ |
 tadgotrā āditaḥ kecit kecid uttāpanāgatāḥ || 6.57 ||
+```
 
 The Bhāṣya makes two decisive clarifications. **uttāpana** is specifically the sharpening of the faculties, and **tadgotrāḥ** concerns the respective dispositions of all six Arhat-types rather than only the *akopyadharman*.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-ataḥ | asamaya-muktaḥ | asau | dṛṣṭi-prāpta-anvayaḥ | ca | saḥ |
-tat-gotrāḥ | āditaḥ | kecit | kecit | uttāpana-āgatāḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -30,7 +29,17 @@ tat-gotrāḥ | āditaḥ | kecit | kecit | uttāpana-āgatāḥ
 | **kecit ... kecit** | paired indefinite pronouns | some ... others |
 | **uttāpana-āgatāḥ** | masculine nominative plural compound | arrived [at that disposition] through sharpening |
 
-The Bhāṣya supplies the full phrase **indriyāṇām uttāpanā**, sharpening or intensification of the faculties, and interprets the six type-names through **saṃbhava**, capacity or possibility.
+```text
+ataḥ | asamaya-muktaḥ | asau | dṛṣṭi-prāpta-anvayaḥ | ca | saḥ |
+tat-gotrāḥ | āditaḥ | kecit | kecit | uttāpana-āgatāḥ
+```
+
+The running source presents the verse in three separate lines, with
+`dṛṣṭipraptānvayaśca` and a compressed second half. The study
+normalizes spacing without changing the expressed relations.
+The Bhāṣya supplies the full phrase **indriyāṇām uttāpanā**,
+sharpening of the faculties, and interprets the six type-names
+through **saṃbhava**, capacity or possibility.
 
 ## 4. Grammar
 
@@ -46,15 +55,47 @@ original disposition
 acquired stronger disposition through faculty-sharpening
 ```
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+IMMOVABLE-ARHAT[PRIOR=seeing-attained]
+  → LIBERATION[OCCASION-INDEPENDENT]
+  → CONCENTRATION[MANIFESTABLE-AT-WILL]
+ARHAT-DISPOSITION[ORIGIN=initial]
+  OR ARHAT-DISPOSITION[ORIGIN=faculty-sharpening]
+TYPE-NAME[MODE=capacity]
+  → EVENT[NECESSARY=false]
+```
+
+The source's later realm comparison turns on this capacity reading;
+it is not a claim that all six histories occur in one person.
+
 ## 5. Translation
 
 ### Literal Translation
 
-Therefore this one is liberated independently of occasion, and he belongs to the succession of the seeing-attained. Some are of their respective disposition from the beginning; others have arrived [at it] through sharpening.
+> Therefore this one is liberated without dependence on occasion
+> and belongs to the line of the seeing-attained. Some have their
+> respective disposition from the beginning; others reach it through
+> sharpening.
 
 ### Bhāṣya-informed study translation
 
-The unshakeable Arhat is consequently called one liberated independently of suitable occasion: concentration can be brought into presence at will. He develops from the earlier seeing-attained type. Of the six Arhat dispositions, some are present from the beginning, while others are reached through sharpening the faculties—potentially all the way to the unshakeable condition.
+> The immovable arhat is liberated without waiting for a suitable
+> occasion: concentration can become manifest at will. This arhat
+> comes from the seeing-attained trainee line. Among the six arhat
+> dispositions, some are present from the start; others are reached
+> by sharpening the faculties, even up to immovability. The type
+> names mark capacities—what can happen—not events that must occur.
+
+### Translation note
+
+The Bhāṣya explains `asamaya-mukta` by concentration becoming manifest
+at will and `dṛṣṭiprāptānvaya` by prior seeing-attained training. It
+glosses `uttāpana` as sharpening the faculties. The later prose
+specifies six capacities and insists that a regression-susceptible
+arhat need not regress and a penetration-capable one need not advance.
+This modal reading admits all six types across the three realms.
 
 ## 6. Philosophical Translation
 
@@ -64,7 +105,7 @@ Classification therefore records a real modal power, not an immutable essence or
 
 ## 7. Technical Vocabulary
 
-**asamayavimukta**
+**`Asamaya-vimukta` — liberated without occasion-dependence**
 
 The term is the contrary of *samayavimukta*:
 
@@ -80,7 +121,7 @@ asamayavimukta
 
 The Bhāṣya also records an alternative explanation concerning final liberation at death and the possibility or impossibility of regression. The governing determination remains independence from a suitable *samaya*, not an abstract timelessness.
 
-**The two training lineages**
+**`Śraddhādhimukta / dṛṣṭiprāpta` — two prior trainee lines**
 
 VAK 6.56–6.57 align the trainee-types and Arhat-types genetically:
 
@@ -96,7 +137,7 @@ dṛṣṭiprāpta
 
 This is a developmental derivation, not a claim that the final type is reducible to its earlier name.
 
-**gotra as transformable disposition**
+**`Gotra` — transformable disposition**
 
 Here **gotra** indicates a determinate spiritual disposition or capacity. Because the Bhāṣya explicitly permits movement among types through cultivation, it cannot be treated in this passage as an immutable personal essence:
 
@@ -108,7 +149,7 @@ gotra
     ≠ necessarily fixed essence
 ```
 
-**indriyāṇām uttāpana**
+**`Indriyāṇām uttāpana` — sharpening the faculties**
 
 The mechanism of transformation is sharpening of the faculties. Vasubandhu gives the example of a *parihāṇadharman* becoming a *cetanādharman* and generalizes the possibility through the sequence up to *akopyadharmatā*.
 
@@ -120,7 +161,7 @@ initial capacity
 
 The six types are not six mandatory chronological stages. Some persons possess a stronger disposition originally.
 
-**The six capacities**
+**`Saṃbhava` — six type-names as capacities**
 
 The Bhāṣya now defines the list introduced in 6.56:
 
@@ -131,7 +172,7 @@ The Bhāṣya now defines the list introduced in 6.56:
 - **prativedhanābhavya** — one capable of penetrating through to the unshakeable condition.
 - **akopyadharman** — one for whom regression is impossible.
 
-**Training morphology**
+**`Sātatya / satkṛtya / indriya` — application and faculty**
 
 The Bhāṣya traces these outcomes to continuity and intensity of application and to faculty-quality during training:
 
@@ -154,7 +195,7 @@ sixth
 
 The completed disposition thus retains the determinate history of how the Path was practiced.
 
-**Capacity is not necessity**
+**`Saṃbhava / avaśya` — possibility and necessity**
 
 Vasubandhu explicitly says that the regression-susceptible person need not regress and the penetration-capable person need not advance. The names concern **saṃbhava**:
 

@@ -1,21 +1,24 @@
-# VAK 6.44 — The Diamond-Like Path at the Final Obstruction
+# VAK_6.44 — The Diamond-Like Path at the Final Obstruction
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 आभवाग्राष्टभागक्षिदर्हत्त्वे प्रतिपन्नकः ।
 नवमस्याप्यानन्तर्यपथे वज्रोपमश्च सः ॥ ६.४४ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 ā-bhavāgrāṣṭa-bhāga-kṣid arhattve pratipannakaḥ |
 navamasyāpy ānantarya-pathe vajropamaś ca saḥ || 6.44 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The non-returner proceeds toward arhatship throughout higher-realm
+cultivation. Even the final uninterrupted Path against the ninth grade
+at the summit of existence remains within that candidacy.
 
-**Padaccheda**
-
-ā-bhava-agra-aṣṭa-bhāga-kṣit | arhattve | pratipannakaḥ |
-navamasya | api | ānantarya-pathe | vajra-upamaḥ | ca | saḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -28,7 +31,15 @@ navamasya | api | ānantarya-pathe | vajra-upamaḥ | ca | saḥ
 | **vajra-upamaḥ** | masculine nominative singular | comparable to a diamond |
 | **ca saḥ** | conjunction plus pronoun | and that [Path/practitioner] |
 
-The compact first compound is clarified by the Bhāṣya: arhatship-candidacy extends from abandonment of the first higher-realm cultivation grade through abandonment of the eighth grade at *bhavāgra*. It does not begin only after eight *bhavāgra* grades have fallen.
+```text
+ā-bhava-agra-aṣṭa-bhāga-kṣit | arhattve | pratipannakaḥ |
+navamasya | api | ānantarya-pathe | vajra-upamaḥ | ca | saḥ
+```
+
+The running verse has `pratipakṣakaḥ` where the study has
+`pratipannakaḥ`; its prose repeatedly identifies the practitioner as
+proceeding toward arhatship. The first compound spans higher-realm
+cultivation up to eight grades abandoned at `bhavāgra`.
 
 ## 4. Grammar
 
@@ -38,15 +49,45 @@ The compact first compound is clarified by the Bhāṣya: arhatship-candidacy ex
 
 The kārikā names the final Path and its candidate-status. Its maximal power, actual target, and many scholastic variants belong to the Bhāṣya.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+NON-RETURNER[HIGHER-GRADE-REMOVAL=first..eighth-at-bhavāgra]
+  → ROLE[candidate-for-arhatship]
+PATH[FUNCTION=uninterrupted, TARGET=ninth-bhavāgra-grade]
+  → QUALITY[diamond-like]
+PRACTITIONER[ON=final-uninterrupted-Path]
+  → ROLE[candidate-for-arhatship]
+```
+
+The Path's capacity to break all latent afflictions is supplied by the
+Bhāṣya. It does not imply that every affliction is presently a target.
+
 ## 5. Translation
 
 ### Literal Translation
 
-Destroying [the grades] up through the eighth portion at the summit of existence, one is proceeding toward arhatship. Even on the uninterrupted Path against the ninth, that [Path] is diamond-like.
+> Destroying grades through the eighth at the summit of existence, one
+> proceeds toward arhatship. Even on the uninterrupted Path against the
+> ninth, that Path is diamond-like.
 
 ### Bhāṣya-informed study translation
 
-From abandonment of the first cultivation-removable grade of the first dhyāna onward, through abandonment of eight grades at the summit of existence, the non-returner is a candidate for arhatship. The final uninterrupted Path that destroys the ninth and last *bhavāgra* grade is called diamond-like concentration because it is the strongest uninterrupted Path and is capable of breaking every latent affliction.
+> From the first grade abandoned in the first dhyāna through the eighth
+> at the summit of existence, the non-returner proceeds toward arhatship.
+> Even on the uninterrupted Path against the final ninth grade, the
+> practitioner is still a candidate. That Path is called diamond-like
+> concentration: the strongest uninterrupted Path, capable of breaking
+> every latent affliction, though only the last grade remains to be broken.
+
+### Translation note
+
+The Bhāṣya supplies the full candidate range, extends candidacy
+through the final uninterrupted Path, and explains the diamond image
+through counteractive power. The source verse's `pratipakṣakaḥ` is
+retained in the continuous witness; `pratipannakaḥ` follows the
+explicit prose gloss in this study. Arhatship as attained fruit belongs
+to the following transition.
 
 ## 6. Philosophical Translation
 
@@ -56,7 +97,7 @@ Nevertheless, universal capacity does not erase the history of the Path. Earlier
 
 ## 7. Technical Vocabulary
 
-**arhattva-pratipannaka**
+**`Arhattva-pratipannaka` — candidate for arhatship**
 
 The **candidate for arhatship** is the non-returner actively traversing the final cultivation course. The Bhāṣya makes its span explicit:
 
@@ -71,11 +112,11 @@ first higher-realm cultivation grade abandoned
 
 Candidate-status is determined by the active End of the course, not only by immediate proximity to completion.
 
-**The ninth bhavāgra grade**
+**`Bhavāgra-navamaprakāra` — the ninth summit grade**
 
 The final cultivation-removable grade at the summit of existence is the last obstruction before arhatship. Its uninterrupted Path performs the final abandonment, but arhat fruit arises only with the immediately following liberation Path described in VAK 6.45.
 
-**vajropama-samādhi**
+**`Vajropama-samādhi` — diamond-like concentration**
 
 The final uninterrupted Path is called **diamond-like concentration** because it can break every latent afflictive tendency. The Bhāṣya identifies it as the strongest of all uninterrupted Paths:
 
@@ -87,7 +128,7 @@ maximal uninterrupted-Path strength
 
 The diamond image marks irresistible counteractive capacity rather than decorative hardness or mere chronological finality.
 
-**Actual destruction and universal capacity**
+**`Bhedana / śakti` — present breaking and capacity**
 
 Vasubandhu carefully distinguishes what this Path destroys now from what it is capable of destroying:
 
@@ -101,7 +142,7 @@ intrinsic counteractive range:
 
 Calling it capable of breaking all *anuśayas* does not restore already abandoned afflictions in order to destroy them again. Universal competence is manifested through the exact task that remains.
 
-**Ānantarya and vimukti remain distinct**
+**`Ānantarya / vimukti-mārga` — uninterrupted and liberation Paths**
 
 The final transition preserves the structure established earlier:
 
@@ -115,9 +156,9 @@ vimukti-mārga
 
 Maximal Path-power does not collapse action and fruit into one moment.
 
-**Multiplicity of diamond-like Paths**
+**`Jñāna-ākāra-ālambana-bheda` — variants by Knowing, aspect, and Condition**
 
-The Bhāṣya reports Vaibhāṣika differentiations of diamond-like concentrations by object, knowledge-aspect, meditative ground, lineage, and faculty. One count gives 52 variants associated with the preliminary concentration; another doctrinal option increases such counts, and further multiplication follows from lineage and faculty.
+The Bhāṣya reports differentiations of diamond-like concentrations by cognitive Condition, Knowing aspect, meditative ground, lineage, and faculty. One count gives 52 variants associated with the preliminary concentration; another doctrinal option increases such counts, and further multiplication follows from lineage and faculty.
 
 The arithmetic is a fine scholastic analysis rather than the minimal doctrinal core. Its important implication is functional:
 
@@ -145,10 +186,10 @@ FinalUninterruptedPath targets NinthGrade
 The capacity distinction is:
 
 ```text
-ActualObject(DiamondLikePath) = LastRemainingGrade
+PresentTarget(DiamondLikePath) = LastRemainingGrade
 CounteractiveCapacity(DiamondLikePath) = AllAnusayas
 
-ActualObject ≠ CounteractiveCapacity
+PresentTarget ≠ CounteractiveCapacity
 ```
 
 The fruit-transition remains mediated:
@@ -169,7 +210,7 @@ In Organon terms, explicitly as project synthesis, complete universality is not 
 
 VAK 6.44 provides another exact reason not to burden Seeing with total reflective machinery. The diamond-like Path does not represent and reprocess the entire history of affliction. Its power is universal, but its present perception and operation are perfectly local: the final remaining grade is seen and broken.
 
-This is the mature relation between universality and determinacy. A merely abstract universal would survey all possible objects. The concrete universal is the capacity adequate to the whole field while acting without remainder upon the single obstruction that is actual now.
+This is the mature relation between universality and determinacy. A merely abstract universal would survey all possible conditions. The concrete universal is the capacity adequate to the whole field while acting without remainder upon the single obstruction that is actual now.
 
 The arhatship-candidate range, final uninterrupted Path, and diamond-like designation belong to the kārikā. Their expanded range, strongest-Path explanation, capacity/actuality distinction, and many scholastic variants belong to the Bhāṣya; the numerical variants are reported Vaibhāṣika analysis. The concrete-universal interpretation and its relation to non-reflective Seeing are Organon synthesis.
 

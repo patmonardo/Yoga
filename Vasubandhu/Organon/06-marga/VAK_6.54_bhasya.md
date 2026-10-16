@@ -1,76 +1,179 @@
-# VAK_6.54 Bhāṣya — Brāhmaṇya; Brahma-Wheel; Dharma-Wheel
-
-The verse you asked for. Same Path, three names. Then a fight over what the wheel *is*.
+# VAK_6.54 Bhāṣya — Brāhmaṇya, Brahma-Wheel, and Dharma-Wheel
 
 ## 1. Kārikā Anchor
 
 > brāhmaṇyaṃ brahmacakraṃ ca tad eva brahmavartanāt |
 > dharmacakraṃ tu dṛṅmārga āśugatvād arādibhiḥ || 6.54 ||
 
-Literal (from the kārikā study):
+> The uncontaminated Path is brāhmaṇya because it carries away
+> afflictions, and the Brahma-wheel because the Buddha, called Brahmā
+> for unsurpassed brāhmaṇya, sets it in motion. The Path of Seeing is
+> called the Dharma-wheel for its swift, wheel-like action. Ghoṣaka
+> describes the eightfold Path through spokes, hub, and rim. The
+> three-turning, twelve-aspect wheel also fits the Dharma exposition:
+> its Meaning is made known and enters another continuum, where
+> Seeing arises. The whole noble Path can likewise be called a wheel
+> as it moves through the continuums of those being trained.
 
-> That very [śrāmaṇya] is also brāhmaṇya and the Brahma-wheel, because it is set in
-> motion by Brahmā. But the Dharma-wheel is the Path of Seeing, because of its swift
-> movement and through [resemblance to] spokes and the other [parts].
+The verse first gives further names for the uncontaminated Path;
+the commentary then examines several explanations of the Dharma-wheel.
 
-Kārikā study: [`VAK_6.54.md`](./VAK_6.54.md). Next: 6.55.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+yadeva caitacchrāmaṇyayuktaṃ /
 
-> kleśānāṃ vāhanād brāhmaṇyam / … anuttarabrahmaṇyayogāt bhagavān brahmā /
-> tasyedaṃ cakram iti brāhmaṃ tena pravartitatvāt /
-> caṅkramaṇāc cakraṃ … darśanamārgo dharmacakram /
-> āryāṣṭāṅgo mārgaś cakram iti bhadantaghoṣakaḥ /
-> āryakauṇḍinyasya tadutpattau "pravartitaṃ dharmacakram" iti /
-> … darśanabhāvanāśaikṣamārgā yathāsaṃkhyaṃ … iti vaibhāṣikāḥ /
-> yady evaṃ na tarhi darśanamārga eva triparivarto dvādaśākāra iti /
-> tasmāt sa eva dharmaparyāyo dharmacakraṃ … yujyate /
-> tasya punaḥ pravartanaṃ parasaṃtāne gamanam arthajñāpanāt /
+     brāhmaṇyaṃ brahmacakraṃ ca tadeva
 
-**Witness.** Pradhan 370|22–371|24. Voices: Vasubandhu; Ghoṣaka; Vaibhāṣika. Next unit after turning-definition.
+kleśānāṃ vāhanādvāhmaṇyaṃ brahmacakraṃ tu
+
+     brahmāvartanāt /
+
+anuttarabrahmaṇyayogāt bhagavānbrahmā /
+
+"eṣa hi bhagavān brahmā ityapi śāntaḥ śītībhūta ityapī"ti sūtrāt /
+
+tasyedaṃ cakramiti brāhmaṃ tena prartitatvāt /
+
+     dharmacakraṃ tu dṛṅmārgaḥ
+
+caṅkramaṇāccakraṃ tatsādharmyāddarśanamārgo dharmacakram /
+kathamasya sādharmyam /
+
+     āśugatvādyarādibhiḥ // VAkK_6.54 //
+
+āśugatvāttyajanakramaṇāt ajitajayajitādhyavasanādutpatananipattanācca /
+
+evamāśugatvādibhiḥ arādibhiḥ sādharmyādāryāṣṭāṅṅgo mārgaścakramiti bhadantaghoṣakaḥ /
+
+samyagdṛṣṭisaṃkalpavyāyāmasmṛtayo hyarasthānīyāḥ /
+
+samyagvākkarmāntājīvā nābhisthānīyāḥ samādhirnemisthānīya iti darśanamārgo dharmacakramiti /
+
+kuta etat āryakauṇḍinyasya tadutpattau "pravarttitaṃ dharmacakrami"ti vacanāt /
+
+kathaṃ tattriparivartaṃ dvādaśākāraṃ ca /
+
+idaṃ duḥkhamāryasatyam /
+
+tat khalu parijñeyaṃ tat khalu parijñātamityete trayaḥ parivartāḥ /
+
+ekaikasmiṃśca parivarte cakṣurudapādi jñānaṃ vidyā buddhirudapādi ityete dvādaśākārāḥ /
+
+pratisatyemevaṃ bhavanti /
+
+trikadvādaśakasādharmyāttu triparivartaṃ dvādaśākāramuktam /
+
+dvayasaptasthānakauśalādeśanāvat /
+
+ebhiśca parivartairdarśanabhāvanāśaikṣamārgā yathāsaṃkhyaṃ darśatā iti vaibhāṣikāḥ /
+
+yadyevaṃ na tarhi darśanamārga eva triparivartto dvādaśākāra iti kathamasau dharmacakraṃ vyavasthāpyate /
+
+tasmātsa eva dharmaparyāyo dharmacakraṃ triparirtaṃ dvādaśākāraṃ ca yujyate /
+
+kathaṃ ca punastriparivartam /
+
+satyānāṃ triḥ parivarttanāt /
+kathaṃ dvādaśākāram /
+caturṇāṃ satyānāṃ tridhākaraṇāt /
+
+duḥkhaṃ samudayo nirodho mārga iti /
+
+parijñeyaṃ praheyaṃ sākṣātkartavyaṃ bhāvayitavyamiti /
+
+parijñātaṃ prahīṇaṃ sākṣātkṛtaṃ bhāvitamiti /
+
+tasya punaḥ pravartanaṃ parasaṃtāne gamanamarthajñāpanāt /
+
+athavā sarva evāryamārgo dharmacakraṃ veneyasaṃtānakramaṇāt /
+
+tattu parasaṃtāne darśanamārgotpādanādvartayitumārabdhamataḥ pravartitamityucyate /
+```
+
+This is the complete running unit [370|22–23]–[371|23–24] in
+`Vasubandhu/Sources/kosabhasya.txt`; source labels are removed and
+line breaks editorial. The next question begins at [372|01].
+Source irregularities such as `prartitatvāt` and `triparirtaṃ` remain
+as transmitted.
 
 ## 3. Continuous Conventional Translation
 
-> That same śrāmaṇya is brāhmaṇya: it carries the afflictions off. Brahma-wheel:
-> the Blessed One is called Brahmā by unsurpassed brāhmaṇya; this is his wheel
-> because he set it turning.
->
-> Dharma-wheel, they say, is the Path of Seeing: a wheel by going, swift, leaving
-> and advancing, conquering the unconquered, holding the conquered, rising and
-> falling. Ghoṣaka: the eightfold Path is the wheel — view, intention, effort,
-> recollection as spokes; speech, action, livelihood as hub; concentration as rim.
-> Why Seeing? When Kauṇḍinya got it, they said the wheel had turned.
->
-> Three turnings, twelve aspects: "this is suffering; it is to be known; it has been
-> known" — and so for each Truth. Vaibhāṣikas map the three turnings onto Seeing,
-> cultivation, beyond-training. Vasubandhu: then Seeing alone is not three-turning.
-> So the Dharma-exposition itself fits that formula better. Turning: the Dharma goes
-> into another continuum by making the meaning known.
+The same śrāmaṇya is called brāhmaṇya and the Brahma-wheel. It is
+brāhmaṇya because it carries away afflictions. The Blessed One is
+called Brahmā through his unsurpassed brāhmaṇya, as the cited sūtra
+also calls him peaceful and cooled. The wheel is his because he set
+it in motion.
+
+The Dharma-wheel is said to be the Path of Seeing. A wheel travels;
+Seeing resembles it through swift motion, leaving one position for
+another, conquering what was unconquered, holding what has been
+conquered, and rising and falling. Bhadanta Ghoṣaka identifies the
+noble eightfold Path with the wheel: right view, intention, effort,
+and recollection are like spokes; right speech, action, and livelihood
+are like the hub; right concentration is like the rim. The Path of
+Seeing is called the Dharma-wheel because when it arose in Noble
+Kauṇḍinya, the wheel was said to have been turned.
+
+But how is this wheel three-turning and twelve-aspect? For the Truth
+of suffering: “this is suffering,” “it is to be fully known,” and
+“it has been fully known” are three turnings. At each turning, eye,
+Knowing, insight, and understanding arise; this pattern applies to
+each Truth. The source also compares the three-by-four structure to
+another teaching scheme. The Vaibhāṣikas map the three turnings to
+the Paths of Seeing, cultivation, and beyond-training, respectively.
+An objection follows: if so, the Path of Seeing alone cannot be
+three-turning and twelve-aspect. The Dharma exposition itself is a
+more fitting bearer of those descriptions.
+
+The commentary then spells out the exposition's structure. Each of
+the four Truths—suffering, origin, cessation, and Path—is presented,
+assigned a task (fully know, abandon, directly realize, cultivate),
+and presented as accomplished (fully known, abandoned, directly
+realized, cultivated). These are three turnings of the Truths and
+twelve aspects across the four. The exposition is turned when,
+through making Meaning known, it goes into another continuum.
+Alternatively, the whole noble Path may be called the Dharma-wheel
+because it moves through the continuums of those to be trained; its
+turning begins when the Path of Seeing arises in another continuum.
 
 ## 4. Movement of the Commentary
 
-```text
-śrāmaṇya = brāhmaṇya = brahmacakra (same Path, three functions)
-dharmacakra: Seeing / eightfold / exposition / whole Path in another
-Vasubandhu will not let Seeing alone wear all twelve aspects
-```
+The commentary derives brāhmaṇya and Brahma-wheel from Path efficacy
+and the Buddha's setting it in motion. It offers the swift Path of
+Seeing and Ghoṣaka's eightfold wheel analogy, then asks how Seeing
+alone could bear the three-turning twelve-aspect formula. After
+reporting the Vaibhāṣika mapping, it favors the Dharma exposition
+for that formula and defines turning by Meaning entering another
+continuum. A final alternative extends wheel to the whole noble Path.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Wheel = { turnedWhen: "meaning_enters_other_continuum" };
-// Bhagavān called Brahmā here by function, not by a creator-shop
-// names stay distinct; do not mash the debate
-```
+**Translation decisions.** `Tat eva` resumes the uncontaminated Path.
+The Buddha's Brahmā-name is explained by unsurpassed brāhmaṇya;
+`dharmacakra` is then contested across the Path of Seeing, the
+functionally articulated eightfold Path, the Dharma exposition, and
+the whole noble Path. Ghoṣaka and the Vaibhāṣikas are explicitly
+attributed. `Artha-jñāpana` is making Meaning known, and
+`para-saṃtāna-gamana` its entry into another continuum.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** The source presents teaching, reception,
+and arising of Seeing as a genuine Path transmission. Interpreting
+this as an operation of Meaning across continuums is project
+synthesis; it does not erase the commentary's multiple wheel accounts.
 
-- *tad eva* = that same stainless Path;
-- Brahmā-name is *anuttara-brāhmaṇya*, sūtra-backed;
-- three-turning formula sits better on *dharmaparyāya* than on Seeing alone.
+## 6. Wheel Accounts and Their Grounds
+
+| Account | Source attribution | Determination |
+|---|---|---|
+| Path of Seeing | Kārikā and initial commentary | Swift movement and effective conquest |
+| Eightfold Path | Bhadanta Ghoṣaka | Factors as spokes, hub, rim |
+| Three turns and twelve aspects | Vaibhāṣika mapping, then objection | Seeing alone cannot carry all three turns |
+| Dharma exposition | Commentary's answer to objection | Truth, task, completion; Meaning made known |
+| Whole noble Path | Final alternative | Moves through trainee continuums; Seeing first arises in another |
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 370|22–371|24.
-Verse-English from [`VAK_6.54.md`](./VAK_6.54.md) §5 Literal. Major named verse. Medium-dense.
-Next: 6.55.
+The full running unit [370|22–23]–[371|23–24] is present, with its
+attributed accounts and source irregularities. The kārikā anchor
+copies the study's Bhāṣya-informed translation exactly. Next: 6.55.

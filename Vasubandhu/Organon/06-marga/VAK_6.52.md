@@ -1,23 +1,22 @@
-# VAK 6.52 — Principal Fruit as Integrated Path-Position
+# VAK_6.52 — Principal Fruit as Integrated Path-Position
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 चतुष्फलव्यवस्था तु पञ्चकारणसम्भवात् ।
 पूर्वत्यागोऽन्यमार्गाप्तिः क्षयसंकलनं फले ॥ ६.५२ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 catuṣphalavyavasthā tu pañcakāraṇasaṃbhavāt |
 pūrvatyāgo ’nyamārgāptiḥ kṣayasaṃkalanaṃ phale || 6.52 ||
+```
 
 The verse announces five reasons but states three. The remaining two appear in the opening of 6.53. They are registered here only insofar as the Bhāṣya requires them to explain the announced fivefold criterion; their proper textual analysis belongs to the next kārikā.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-catuḥ-phala-vyavasthā | tu | pañca-kāraṇa-saṃbhavāt |
-pūrva-tyāgaḥ | anya-mārga-āptiḥ | kṣaya-saṃkalanam | phale
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -29,7 +28,17 @@ pūrva-tyāgaḥ | anya-mārga-āptiḥ | kṣaya-saṃkalanam | phale
 | **kṣaya-saṃkalanam** | neuter nominative singular compound | gathering together of cessations or abandonments |
 | **phale** | neuter locative singular | in or at the fruit |
 
-The Bhāṣya sharpens **pūrva** to the previous candidate-for-fruit Path, **anya-mārga** to a previously unattained Path, and **kṣaya-saṃkalana** to the integration of abandonments through one acquisition of the whole.
+```text
+catuḥ-phala-vyavasthā | tu | pañca-kāraṇa-saṃbhavāt |
+pūrva-tyāgaḥ | anya-mārga-āptiḥ | kṣaya-saṃkalanam | phale
+```
+
+The running verse has `pañakāraṇasaṃbhavāt` where the study uses
+`pañcakāraṇasaṃbhavāt`; its prose explicitly speaks of five reasons.
+The Bhāṣya sharpens **pūrva** to the previous candidate-for-fruit Path,
+**anya-mārga** to a previously unattained Path, and
+**kṣaya-saṃkalana** to the integration of abandonments through one
+acquisition of the whole.
 
 ## 4. Grammar
 
@@ -47,15 +56,47 @@ attainment of fruit-path
 
 The third is not another transition alongside them, but the integration of relevant abandonments within the newly attained fruit. The remaining two members of the announced fivefold list are syntactically continued in 6.53.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PRINCIPAL-FRUIT[COUNT=four]
+  → CRITERIA[COUNT=five, ALL-AT-EACH-FRUIT]
+CRITERION[1=previous-Path-relinquished]
+CRITERION[2=new-Path-attained]
+CRITERION[3=abandonments-gathered-by-one-attainment]
+CRITERION[4=eight-Knowings-acquired]
+CRITERION[5=sixteen-Truth-aspects-cultivated]
+```
+
+The current verse names the first three; the shared source passage
+continues the list in 6.53's opening line.
+
 ## 5. Translation
 
 ### Literal Translation
 
-But the establishment of four fruits is due to the occurrence of five reasons: relinquishment of the preceding [Path], attainment of another Path, and the gathering of cessations in the fruit.
+> Four fruits are established because five reasons occur: relinquishing
+> the preceding Path, attaining another Path, and gathering the
+> abandonments at the fruit.
 
 ### Bhāṣya-informed study translation
 
-Although the Path produces many individual fruits, only four principal fruit-positions are established. At each, the practitioner relinquishes the preceding candidate-for-fruit Path, acquires a previously unattained fruit-Path, and gathers the relevant abandonments into a single attainment. These are the first three of the five criteria; the next verse supplies acquisition of the eight knowledges and cultivation of the sixteen truth-aspects.
+> Although the Path has many individual fruits, four principal
+> fruits are established where five conditions occur together. At
+> each, the candidate's preceding Path is relinquished, a previously
+> unattained fruit Path is acquired, and the abandonments are gathered
+> under one attainment. These are the three conditions named here;
+> the next kārikā adds acquisition of the eight Knowings and cultivation
+> of the sixteen Truth-aspects.
+
+### Translation note
+
+The Bhāṣya reads `pūrvatyāga` as relinquishment of the candidate's
+previous Path and `anyamārgāpti` as acquisition of a previously
+unattained fruit Path. `Kṣayasaṃkalana` is the gathering of
+abandonments through one attainment. The source verse's `pañakāraṇa`
+is retained in the Bhāṣya; the prose confirms five criteria and
+continues the final two in 6.53's opening line.
 
 ## 6. Philosophical Translation
 
@@ -65,7 +106,7 @@ What came before is therefore neither simply retained nor simply erased. It is r
 
 ## 7. Technical Vocabulary
 
-**Eighty-nine fruits and four principal fruits**
+**`Ekānnavati / catuṣphala` — many Path fruits and four principal fruits**
 
 VAK 6.51 enumerated eighty-nine liberation-paths and their corresponding cessations. VAK 6.52 answers why the canonical organization nevertheless has only four fruits:
 
@@ -79,13 +120,13 @@ four
 
 These counts answer different questions. A fruit in the broad technical sense need not constitute a new principal fruit-position.
 
-**pūrva-tyāga**
+**`Pūrva-mārga-tyāga` — relinquishing the previous Path**
 
 The Bhāṣya expands this as **pūrva-mārga-tyāga**, relinquishment of the previous Path. More exactly, the Path belonging to the candidate-for-fruit (*pratipannaka*) is relinquished when the fruit-Path is acquired.
 
 This is not loss of the abandonments already accomplished. What is relinquished is the previous Path's status as the practitioner's presently governing determination.
 
-**anya-mārga-āpti**
+**`Apūrva-mārga-āpti` — attaining a new Path**
 
 The Bhāṣya glosses “another Path” as **apūrva-mārga**, a Path not previously attained. A principal fruit therefore requires more than continuation within an unchanged series:
 
@@ -97,7 +138,7 @@ previously unattained fruit-status
     → acquired
 ```
 
-**kṣaya-saṃkalana**
+**`Prahāṇa-saṃkalana / eka-prāpti` — gathering abandonments**
 
 The Bhāṣya gives **prahāṇa-saṃkalana**, integration of abandonments, and explains it through **eka-prāpti**, one attainment of the whole. Multiple accomplished cessations are not left as externally juxtaposed items:
 
@@ -109,7 +150,7 @@ many relevant abandonments
 
 The fruit does not create those cessations anew. It unifies their possession under a newly attained Path-status.
 
-**The complete fivefold criterion**
+**`Pañca-kāraṇa` — five jointly occurring criteria**
 
 The Bhāṣya necessarily reads 6.52 with the opening of 6.53. The five conditions occurring at each principal fruit are:
 
@@ -117,8 +158,8 @@ The Bhāṣya necessarily reads 6.52 with the opening of 6.53. The five conditio
 1. relinquishment of the previous Path
 2. attainment of a previously unattained Path
 3. integration of abandonments in one attainment
-4. acquisition of the eight knowledges
-5. cultivation of the sixteen truth-aspects
+4. acquisition of the eight Knowings
+5. cultivation of the sixteen Truth-aspects
 ```
 
 Only the first three are kārikā-text in 6.52; the final two will be analyzed with 6.53.
