@@ -1,14 +1,16 @@
 # VAK 5.39 Bhāṣya — Why They Are Called Anuśayas
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > aṇavo 'nugatāś caite dvidhā cāpy anuśerate |
 > anubadhnanti yasmāc ca tasmād anuśayāḥ smṛtāḥ || 5.39 ||
 
-> These are subtle and accompany; they also lie along in two
-> ways. Because they continue to bind, they are called anuśayas.
+> These are subtle and accompany the continuum through prāpti; they lie along
+> in two ways, through object-support and conjunction. Because they continue
+> to bind, becoming manifest repeatedly even without deliberate effort and
+> despite attempted restraint, they are called anuśayas.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 atha ko 'yam anuśayārthaḥ kaś ca yāvad upādānārthaḥ?
@@ -32,7 +34,7 @@ This unit runs [308|08–13] in
 [308|14–15] begins the remaining explanations in 5.40.
 Word division and punctuation are editorial.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Now, what does *anuśaya* mean, and what do the terms through
 *upādāna* mean? “These are subtle and accompany; they also
@@ -48,7 +50,7 @@ because, without deliberate application and even when one
 tries to restrain them, they repeatedly become manifest.
 For these reasons they are called anuśayas.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The Bhāṣya gives four connected reasons for the name, not
 a single synonym for “latent”:
@@ -77,7 +79,7 @@ abandonment of what continues to bind. The passage does not
 here specify all conditions for that renewed manifestation;
 5.34 treated conditions for arising separately.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** “Lie along” keeps the verbal
 force of `anuśerate` and avoids importing a theory of an
@@ -98,7 +100,7 @@ must be distinguished from that ground. This is a
 project-level interpretation, not a replacement for the
 Kośa's `prāpti` doctrine or a claim of implementation.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The opening question, complete verse,
 four prose explanations, and boundary with 5.40 were

@@ -1,22 +1,16 @@
 # VAK 5.65 Bhāṣya — Nine Parijñās Completed
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> anyā avarabhāgīyarūpasarvāsravakṣayāḥ |
-> tisraḥ parijñāḥ ṣaṭ kṣāntiphalaṃ jñānasya śeṣitāḥ || 5.65 ||
+> anyā avarabhāgīya-rūpa-sarvāsrava-kṣayāḥ |
+> tisraḥ parijñāḥ ṣaṭ kṣānti-phalaṃ jñānasya śeṣitāḥ || 5.65 ||
 
-> The other three *parijñās* concern abandonment of the
-> lower-part bonds, of the form influx, and of all influxes.
-> Six are fruits of *kṣānti*; the remaining three belong
-> to *jñāna*.
+> The other three *parijñās* are the abandonment of the lower-part fetters,
+> the form influx, and all influxes—the last completing the exhaustion of all
+> fetters. The six seeing-abandonment *parijñās* are fruits of *kṣānti*; the
+> remaining three, attained through cultivation, are fruits of *jñāna*.
 
-The compact first line is interpreted through the Bhāṣya's
-three explicit glosses. `Kṣānti` and `jñāna` are retained
-as distinct technical terms; their relation is explained
-after the verse rather than flattened into a general
-contrast between patience and knowledge.
-
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     anyā avarabhāgīyarūpasarvāsravakṣayāḥ /
@@ -52,8 +46,11 @@ Word and line division, punctuation, and removal of the
 source verse identifier are editorial. The running text's
 `ārūpyāptānāṃ` and compact `sarvasaṃyojanaparyādāna
 parijñā` are kept for later review.
+The anchor copies the separate kārikā; its compact first line is interpreted
+through the prose's three explicit glosses. *Kṣānti* and *jñāna* remain
+distinct technical terms.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 The other three *parijñās* are the exhaustion of the
 lower-part bonds, the form influx, and all influxes. The
@@ -81,7 +78,7 @@ of the knowledges, as a designation concerning a king can
 be extended to his retinue, and because they have one fruit
 together with knowledge.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The first six *parijñās* in 5.64 are completed
 **seeing-abandonments**. This unit adds three completed
@@ -119,7 +116,7 @@ shares a fruit with it. The royal analogy explains a
 transfer of designation within a structured relation, not
 a collapse of the two technical terms.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Avarabhāgīya` is kept as
 “lower-part” because the verse alone does not enumerate the
@@ -139,7 +136,7 @@ Bhāṣya's stated distinctions; the source's kṣānti–jñāna
 relation remains more precise than an abstract sequence of
 “reception, then knowledge.”
 
-## Review Status
+## 6. Review Status
 
 Provisional. The full 5.65 unit and boundary with 5.66 were
 checked against the running IAST source. The compact ninth

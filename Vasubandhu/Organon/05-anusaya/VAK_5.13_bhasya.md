@@ -1,18 +1,18 @@
 # VAK 5.13 Bhāṣya — Higher-Domain Supports and Co-Arising
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> navordhvālambanā eṣāṃ dṛṣṭidvayavivarjitāḥ |
-> prāptivarjyāḥ sahabhuvo ye 'py ebhis te 'pi sarvagāḥ || 5.13 ||
+> navordhvālambanā eṣāṃ dṛṣṭi-dvaya-vivarjitāḥ |
+> prāpti-varjyāḥ sahabhuvo ye 'py ebhis te 'pi sarvagāḥ || 5.13 ||
 
-> Of these, nine have higher domains as cognitive supports, excluding
-> two views. Dharmas co-arising with the universal anuśayas are also
-> universal, except acquisitions.
+> Of these eleven, nine—excluding satkāya-view and extreme-grasping view—can take
+> higher domains as cognitive supports; dharmas co-arising with the universal
+> anuśayas are likewise universally ranging, except acquisitions.
 
 The first half divides the eleven of 5.12 by cross-domain object-range;
 the second asks how universal status extends to co-arisen dharmas.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 va ete sabhāgadhātusarvatragā ekādaśānuśayā uktāḥ.
@@ -57,7 +57,7 @@ forms remain visible. The research excerpt omits the quoted
 three-way higher-domain support formula and the explicit final
 instruction to supply the third and fourth corners.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 The eleven anuśayas universally ranging within a corresponding
 domain have been stated. “Of these, nine have higher domains as
@@ -65,10 +65,10 @@ cognitive supports, excluding two views.” Apart from
 satkāya-view and extreme-grasping view, the other nine can range
 universally toward a different domain. Sometimes their support
 is one other domain, sometimes two. The cited formulation gives
-desire-domain-connected anuśayas supported by form-domain items,
-by formless-domain items, or by items of both higher domains.
+desire-realm-connected anuśayas supported by form-realm items,
+by formless-realm items, or by items of both higher domains.
 
-An objection asks: when someone in the desire-domain forms a view
+An objection asks: when someone in the desire-realm forms a view
 of Brahmā as a being and as permanent, how could satkāya-view
 and extreme-grasping view lack a higher-domain support? The
 answer says Brahmā is not grasped as self or mine; extreme-grasping
@@ -88,12 +88,12 @@ the first corner; past and present dharmas co-arising with them
 form the second. The third and fourth corners are to be supplied
 accordingly; this passage does not spell them out.
 
-## Argument and Voices
+## 4. Argument and Voices
 
 The nine are not all eleven: satkāya-view requires the self/mine
 relation, and extreme-grasping view depends on that appropriation.
 The quoted Abhidharma formula supports the possibility of one
-or two higher domains as cognitive supports for desire-domain
+or two higher domains as cognitive supports for desire-realm
 anuśayas. The Brahmā counterexample then tests whether the
 two excluded views really cannot take such a support.
 
@@ -112,7 +112,7 @@ distinguishes being such an anuśaya from standing in the
 reader. Supplying them as though they were explicit prose here
 would change the source's presentation.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Ūrdhvālambana` is a higher-domain
 cognitive support, while the prose also says `visabhāgadhātu`,
@@ -130,7 +130,7 @@ The strongest methodological point is the source's demand to
 *demonstrate* a distinction when a counterexample challenges
 it; merely adding a type name does not answer the objection.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.13 unit has been checked against the running
 source, including the quoted support formula and the final

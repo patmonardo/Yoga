@@ -1,20 +1,16 @@
 # VAK 5.67 Bhāṣya — Path and Knowledge as Fruit Grounds
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > āryamārgasya sarvāḥ dve laukikasya anvayasya ca |
 > dharmajñānasya tisras tu ṣaṭ tatpakṣasya pañca ca || 5.67 ||
 
-> All nine *parijñās* are fruits of the noble path. Two
-> are fruits of the mundane path, and two of
-> *anvayajñāna*. Three are fruits of *dharmajñāna*;
-> six belong to its side, and five to the other side.
+> All nine *parijñās* are fruits of the noble path. Two are fruits of the
+> mundane path and two of *anvayajñāna*; three are fruits of *dharmajñāna*.
+> When the corresponding *kṣānti* and *jñāna* moments are counted together,
+> the *dharmajñāna* side has six as fruits and the *anvayajñāna* side five.
 
-The last “side” is supplied as *anvayajñāna-pakṣa* by the
-prose. `Pakṣa` includes the corresponding *kṣānti* and
-*jñāna* moments, not a second name for one knowledge alone.
-
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     āryamārgasya sarvāḥ
@@ -49,8 +45,10 @@ The complete unit runs [324|03–13] in
 division, line division, and omission of the verse
 identifier are editorial; the compact final gloss needs
 later textual review.
+The last “side” is supplied as *anvayajñāna-pakṣa* by the prose. `Pakṣa`
+includes corresponding *kṣānti* and *jñāna* moments, not one knowledge alone.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 All nine *parijñās* are fruits of the noble path. Two are
 fruits of the mundane path: the *parijñās* of abandonment
@@ -66,7 +64,7 @@ are fruits of the *anvayajñāna* side, those belonging to
 its corresponding *kṣānti* and *jñāna* moments. Saying
 “side” includes both *kṣānti* and *jñāna*.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The subject is still the same nine completed abandonments.
 Verse 5.66 classified them by **meditative basis**; this
@@ -95,7 +93,7 @@ here list each of the six and five separately; those
 members should be reconstructed from the earlier ninefold
 scheme in the later clarification pass.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** “Fruit” preserves `phala` as
 the source relation rather than reducing it to a generic
@@ -115,7 +113,7 @@ fruit relation. It is a project-level formal consequence
 of the Kośa's explicit distinctions, not an additional
 source taxonomy.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The whole 5.67 unit and the opening question of
 5.68 were checked against the running IAST source. The

@@ -18,30 +18,30 @@ VAK 5.52 completes the abandonment classification of the ten
 paryavasthānas, extends the same status to the six stains, and then determines
 the ethical value of the upakleśas according to domain.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
+
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `tat-anye` | nominative plural masculine | the others apart from those [five of VAK 5.51] |
+| `bhāvanā-heyāḥ` | nominative plural masculine compound | to be abandoned through cultivation |
+| `sva-tantrāḥ` | nominative plural masculine | independent in the stated classificatory sense |
+| `ca tathā malāḥ` | coordinated nominative plural | and the stains likewise |
+| `kāme` | locative singular | in the desire-realm |
+| `aśubhāḥ` | nominative plural masculine | unwholesome |
+| `trayaḥ` | nominative plural masculine | three |
+| `dvidhā` | indeclinable adverb | twofold, here in ethical value |
+| `pareṇa` | instrumental singular used adverbially | beyond it, above the desire-realm |
+| `avyākṛtāḥ` | nominative plural masculine | ethically indeterminate |
+| `tataḥ` | ablatival adverb | from there, therefore or beyond that point |
 
 ```text
 tat-anye | bhāvanā-heyāḥ | sva-tantrāḥ | ca | tathā | malāḥ |
 kāme | aśubhāḥ | trayaḥ | dvidhā | pareṇa | avyākṛtāḥ | tataḥ
 ```
 
-| Form | Morphology | Contextual sense |
-|---|---|---|
-| `tat-anye` | nominative plural masculine | the others apart from those [five of VAK 5.51] |
-| `bhāvanā-heyāḥ` | nominative plural masculine compound | to be abandoned through cultivation |
-| `sva-tantrāḥ` | nominative plural masculine | independent in the stated classificatory sense |
-| `ca tathā malāḥ` | coordinated nominative plural | and the stains likewise |
-| `kāme` | locative singular | in the desire-domain |
-| `aśubhāḥ` | nominative plural masculine | unwholesome |
-| `trayaḥ` | nominative plural masculine | three |
-| `dvidhā` | indeclinable adverb | twofold, here in ethical value |
-| `pareṇa` | instrumental singular used adverbially | beyond it, above the desire-domain |
-| `avyākṛtāḥ` | nominative plural masculine | ethically indeterminate |
-| `tataḥ` | ablatival adverb | from there, therefore or beyond that point |
-
 `Dvidhā` no longer refers to the two abandonment modes of VAK 5.51. The
 Bhāṣya identifies a new axis: torpor, excitation, and sleepiness may each be
-unwholesome or indeterminate within the desire-domain.
+unwholesome or indeterminate within the desire-realm.
 
 ## 4. Grammar
 
@@ -78,8 +78,8 @@ pareṇa tataḥ
     [yathāsaṃbhavam] avyākṛtāḥ
 ```
 
-The general desire-domain rule is qualified internally by the three. Above the
-desire-domain, only upakleśas that occur there “as applicable” are called
+The general desire-realm rule is qualified internally by the three. Above the
+desire-realm, only upakleśas that occur there “as applicable” are called
 indeterminate.
 
 ## 5. Translation
@@ -87,22 +87,16 @@ indeterminate.
 ### Literal Translation
 
 > The others are to be abandoned through cultivation and are independent; the
-> stains are likewise. In the desire-domain they are unwholesome, although
+> stains are likewise. In the desire-realm they are unwholesome, although
 > three are twofold; beyond it they are indeterminate.
 
 ### Bhāṣya-informed study translation
 
-> Envy, avarice, remorse, anger, and concealment—the five envelopments other
-> than those listed in VAK 5.51—are abandoned only through cultivation and are
-> independently classified because of their intense mode of association. The
-> six stains have these same two statuses. The upakleśas under discussion are
-> generally unwholesome in the desire-domain, but torpor, excitation, and
-> sleepiness may there be either unwholesome or indeterminate. Above the
-> desire-domain, those upakleśas that occur there, as applicable, are
-> indeterminate.
-
-The exact five factors, ground of independence, three ethically twofold
-factors, and higher-domain scope restriction are supplied by the Bhāṣya.
+> The five remaining envelopments are to be abandoned through cultivation and
+> are independent; the six stains are likewise. In the desire-realm these
+> secondary afflictions are unwholesome, except that torpor, excitation, and
+> sleepiness can also be indeterminate. Above that domain, those occurring as
+> applicable are indeterminate.
 
 ## 6. Philosophical Translation
 
@@ -164,13 +158,13 @@ māyā | śāṭhya | mada | pradāśa | upanāha | vihiṃsā
 
 **`Akuśala` / `aśubha` — unwholesome**
 
-The general ethical value of the stated upakleśas in the desire-domain, subject
+The general ethical value of the stated upakleśas in the desire-realm, subject
 to the three-factor exception.
 
 **`Avyākṛta` — ethically indeterminate**
 
 Neither wholesome nor unwholesome. It applies as one possible value to three
-factors in the desire-domain and generally to applicable upakleśas above it.
+factors in the desire-realm and generally to applicable upakleśas above it.
 
 **The ethically twofold three**
 
@@ -180,7 +174,7 @@ auddhatya    excitation
 middha       sleepiness
 ```
 
-Each may be `akuśala` or `avyākṛta` within the desire-domain.
+Each may be `akuśala` or `avyākṛta` within the desire-realm.
 
 **`Yathāsaṃbhavam` — according to applicability**
 
@@ -257,7 +251,7 @@ here: two ethical values within one domain
 The repetition itself tests whether the analysis follows semantic function or
 merely carries a prior gloss forward.
 
-**Higher-domain caution.** Above the desire-domain, the occurring upakleśas are
+**Higher-domain caution.** Above the desire-realm, the occurring upakleśas are
 indeterminate only `yathāsaṃbhavam`. A range assertion must first establish
 that the factor can occur in the domain; ethical value cannot manufacture
 occurrence.

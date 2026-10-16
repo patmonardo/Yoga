@@ -1,16 +1,16 @@
 # VAK 5.53 Bhāṣya — Where the Sixteen Upakleśas Occur
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > māyā śāṭhyaṃ ca kāmādya-dhyānayor brahma-vañcanāt |
 > styānauddhatya-madā dhātu-traye 'nye kāma-dhātujāḥ || 5.53 ||
 
-> Deceit and crookedness occur in the desire domain and
-> first dhyāna, as the Brahmā-world deception shows.
-> Torpor, excitation, and intoxication occur in all three
-> domains; the others belong to the desire domain.
+> Deceit and crookedness occur in the desire-realm and first dhyāna, as
+> shown by Mahābrahmā's attempted deception. Torpor, excitation, and
+> intoxication occur in all three domains; the other eleven secondary
+> afflictions arise only in the desire-realm.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 kati punar eṣāṃ kutastyā veditavyāḥ?
@@ -43,7 +43,7 @@ the prose. Word division and punctuation are editorial.
 The running source writes `kutastyā`; the contextual
 question is how many of these factors belong where.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 How many of these factors are to be understood as occurring
 in which places? Deceit and crookedness occur in the desire
@@ -55,12 +55,12 @@ Crookedness, though already mentioned, is stated again
 because it has become relevant to this question.
 
 Torpor, excitation, and intoxication occur in all three
-domains. The other factors belong to the desire domain.
+domains. The other factors belong to the desire-realm.
 Taking five with a wider range away from the sixteen
 upakleśas leaves eleven that occur only in the desire
 domain. The kleśas and upakleśas have now been explained.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The passage gives three ranges over the sixteen factors
 under discussion (ten *paryavasthānas* plus six
@@ -68,9 +68,9 @@ under discussion (ten *paryavasthānas* plus six
 
 | Factors | Stated range |
 |---|---|
-| Deceit and crookedness | Desire domain and first dhyāna |
+| Deceit and crookedness | desire-realm and first dhyāna |
 | Torpor, excitation, intoxication | All three domains |
-| Remaining eleven | Desire domain only |
+| Remaining eleven | desire-realm only |
 
 The Brahmā example supports the first range concretely.
 The source says **Mahābrahmā attempted to deceive Aśvajit**
@@ -81,18 +81,18 @@ establishes the possibility of deceit in the first dhyāna,
 not a general theory of all higher-domain deception.
 
 The arithmetic is explicit: sixteen minus the five that
-extend beyond the desire domain leaves eleven restricted to
+extend beyond the desire-realm leaves eleven restricted to
 it. This range determination is separate from 5.52's
-ethical status. A factor occurring above the desire domain
+ethical status. A factor occurring above the desire-realm
 is not thereby wholesome; the preceding rule calls
 applicable higher-domain upakleśas indeterminate. The
 closing `uktā kleśāḥ upakleśāś ca` marks the end of this
-section before the next consciousness-level inquiry.
+section before the next cognition-level inquiry.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Kāmādyadhyānayoḥ` is read as
-desire domain and *first* dhyāna, as the prose explicitly
+desire-realm and *first* dhyāna, as the prose explicitly
 states. `Traidhātuka` means belonging to all three domains;
 it does not assert identical ethical value in each.
 `Vitathātmasaṃdarśanatā` is false self-presentation, the
@@ -105,7 +105,7 @@ matrix makes that requirement concrete for the Science of
 Citta. It is a project-level reading of the Kośa's completed
 classification, not an implemented system.
 
-## Review Status
+## 6. Review Status
 
 Provisional. All distributed verse fragments, the Brahmā
 example, the sixteen-minus-five count, and the explicit

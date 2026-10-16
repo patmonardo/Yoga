@@ -1,15 +1,16 @@
 # VAK 5.19 Bhāṣya — Affliction and Ethical Classification
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> ūrdhvam avyākṛtāḥ sarve kāme satkāyadarśanam |
+> ūrdhvam avyākṛtāḥ sarve kāme satkāya-darśanam |
 > antagrāhaḥ sahābhyāṃ ca mohaḥ śeṣās tv ihāśubhāḥ || 5.19 ||
 
-> Above, all are ethically indeterminate. In the desire domain,
-> self-view, extreme-view, and the delusion associated with those two
-> are indeterminate; the remaining anuśayas here are unwholesome.
+> All anuśayas of the form and formless domains are ethically indeterminate;
+> in the desire-realm, satkāya-view, extreme-grasping view, and the ignorance
+> associated with them are likewise indeterminate, while the rest are
+> unwholesome.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 eṣām aṣṭānavater anuśayānāṃ katy akuśalāḥ katy avyākṛtāḥ?
@@ -51,7 +52,7 @@ immediate prose and the official Kārikā study, so this division
 is an explicit conjecture. The compound `aparapīḍāpravṛttatvāt` is also
 left as transmitted; its negative scope needs care.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Of the ninety-eight anuśayas, how many are unwholesome and how
 many ethically indeterminate? “Above, all are indeterminate.”
@@ -61,7 +62,7 @@ they would have painful maturation. But that is absent in those
 two domains because the cause consisting in harm to others is
 absent.
 
-“In the desire domain, self-view, extreme-view, and the delusion
+“In the desire-realm, self-view, extreme-view, and the delusion
 associated with those two” are indeterminate. In the desire
 domain, self-view and extreme-view, together with the ignorance
 associated with them, are indeterminate. Why? They are not
@@ -79,15 +80,15 @@ and for the conceit “I am.” Innate self-view, which occurs even
 in deer and birds, is indeterminate. Conceptually constructed
 self-view, however, is unwholesome, according to the earlier
 teachers. “The remaining anuśayas here are unwholesome”: the
-remaining desire-domain anuśayas are unwholesome.
+remaining desire-realm anuśayas are unwholesome.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The verse classifies **ethical status**, not the presence or
 absence of affliction. An anuśaya can be `kliṣṭa` and yet
 `avyākṛta`. For the higher domains the Bhāṣya argues through
 painful karmic maturation and the absence of a cause involving
-harm to others. Within the desire domain it selects two views
+harm to others. Within the desire-realm it selects two views
 and precisely the ignorance conjoined with them.
 
 The argument from giving and discipline establishes compatibility,
@@ -105,7 +106,7 @@ The passage does not spell out a full independent answer for both
 cases raised in the objection, so that argumentative gap remains
 visible.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Avyākṛta` names an ethical
 classification; it does not mean unafflicted. `Sahābhyāṃ` and
@@ -123,7 +124,7 @@ supports must be determined separately. This is a project-level
 use of the Kośa's distinctions, not a claim that Vasubandhu
 formulated the Organon's architecture.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete running IAST unit has been checked for
 its boundaries. The working text's `tayoirnāsti`, the scope of

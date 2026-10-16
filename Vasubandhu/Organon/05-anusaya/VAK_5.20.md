@@ -24,25 +24,26 @@ The verse moves from the ethical classification of VAK 5.19 to generative
 ground: which determinations function as roots of the unwholesome and of the
 ethically indeterminate.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kāme | akuśala-mūlāni | rāga-pratigha-mūḍhayaḥ |
-trīṇi | avyākṛta-mūlāni | tṛṣṇā | avidyā | matiḥ | ca | sā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `kāme` | locative singular | in the desire-domain |
+| `kāme` | locative singular | in the desire-realm |
 | `akuśala-mūlāni` | nominative plural neuter | roots of the unwholesome |
 | `rāga-pratigha-mūḍhayaḥ` | nominative plural expression | attachment, hostility, and deluded ignorance |
 | `trīṇi` | nominative plural neuter numeral | three |
 | `avyākṛta-mūlāni` | nominative plural neuter | roots of the ethically indeterminate |
 | `tṛṣṇā` | nominative singular feminine | craving, thirst |
 | `avidyā` | nominative singular feminine | ignorance |
-| `matiḥ` | nominative singular feminine | cognition, discriminative understanding |
+| `matiḥ` | nominative singular feminine | discriminative cognition; glossed as `prajñā` in the Bhāṣya |
 | `ca` | conjunction | and |
-| `sā` | nominative singular feminine pronoun | that [indeterminate one]; marking the indeterminate mode |
+| `sā` | nominative singular feminine pronoun | that; marking the indeterminate mode of the triad in the Bhāṣya |
+
+Padaccheda: `kāme | akuśala-mūlāni | rāga-pratigha-mūḍhayaḥ |
+trīṇi | avyākṛta-mūlāni | tṛṣṇā | avidyā | matiḥ | ca | sā`.
+The running verse repeats `akuśala-mūlāni` in the third pāda;
+the study's `avyākṛta-mūlāni` follows the explicit subsequent
+Bhāṣya question and enumeration. The witness difference remains open.
 
 The Bhāṣya restates `rāga`, `pratigha`, and delusion as `lobha`, `dveṣa`, and
 `moha`, and glosses `mati` as `prajñā`.
@@ -56,7 +57,7 @@ kāme
 rāga-pratigha-mūḍhayaḥ
 akuśala-mūlāni [trīṇi]
 
-in the desire-domain,
+in the desire-realm,
 attachment, hostility, and deluded ignorance
 are [three] roots of the unwholesome
 ```
@@ -77,25 +78,23 @@ craving, ignorance, and that cognition
 
 According to the Bhāṣya, `sā` shows that the named factors are meant in their
 indeterminate form. It is not a fourth member of the triad.
+The prose distinguishes the factor's ethical status from its root-function
+and attributes the broad inclusion of indeterminate, even maturation-born,
+`prajñā` to the Kāśmīra teachers.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> In the desire-domain, attachment, hostility, and deluded ignorance are roots
+> In the desire-realm, attachment, hostility, and deluded ignorance are roots
 > of the unwholesome. The roots of the indeterminate are three: craving,
 > ignorance, and that cognition.
 
 ### Bhāṣya-informed study translation
 
-> In the desire-domain, attachment, hostility, and unwholesome delusion are the
-> three roots of unwholesome dharmas. The roots of ethically indeterminate
-> dharmas are likewise three: indeterminate craving, ignorance, and
-> discriminative cognition. According to the Kāśmīra position, this includes
-> every indeterminate instance of these, even cognition born of maturation.
-
-The qualification of delusion, the force of `sā`, the gloss `mati = prajñā`,
-and the broad final classification are supplied by the Bhāṣya.
+> In the desire-realm, attachment, hostility, and delusion are roots of the
+> unwholesome; the three roots of the ethically indeterminate are craving,
+> ignorance, and discriminative cognition in their indeterminate forms.
 
 ## 6. Philosophical Translation
 

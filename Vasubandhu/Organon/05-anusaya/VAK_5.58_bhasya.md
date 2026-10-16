@@ -1,17 +1,18 @@
 # VAK 5.58 Bhāṣya — Feeling Range and Level
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > māyā śāṭhyam atho mrakṣo middhaṃ cobhayathā madaḥ |
-> sukhābhyāṃ sarvagā upekṣā catvāry anyāni pañcabhiḥ || 5.58 ||
+> sukhābhyāṃ sarvagopekṣā catvāry anyāni pañcabhiḥ || 5.58 ||
 
-> Deception, crookedness, concealment, and sleep go with
-> either mental gladness or mental distress. Intoxication
-> goes with the two pleasant feelings; neutral feeling is
-> universally compatible. The other four go with all five
-> feeling faculties.
+> Deceit, crookedness, concealment, and sleepiness are conjoined with either
+> mental gladness or mental distress. Intoxication is conjoined with mental
+> gladness below the third dhyāna, bodily pleasure in the third, and neutral
+> feeling above it; neutral feeling is compatible with all the anuśayas.
+> Shamelessness, lack of moral concern, torpor, and excitation are conjoined
+> with all five feeling-faculties.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     māyā śāṭhyamathī bhrakṣo middhaṃ cobhayathā
@@ -49,7 +50,7 @@ term for the first of the four is `āhrīkya`. Word division,
 punctuation, and removal of the verse identifier are
 editorial. These discrepancies remain for textual review.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Deception, crookedness, concealment, and sleep are
 conjoined in both ways, with mental gladness and mental
@@ -70,7 +71,7 @@ reproach, torpor, and restlessness. These four
 faculties, because they belong respectively to the great
 unwholesome and the great afflictive classes of factors.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 `Ubhayathā` is not left indefinite: the prose specifies
 `saumanasya` and `daurmanasya`. The example of deceiving
@@ -105,7 +106,7 @@ great factors, the second to the afflictive great factors.
 Class membership is the stated reason for broad feeling
 range, not a claim that feeling and affliction are identical.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** The anchor follows the separate
 kārikā witness where the running text is visibly irregular.
@@ -124,7 +125,7 @@ membership ground. These are project-level distinctions for
 the Science of Citta, drawn from the source's argument and
 kept separate from a proposed implementation.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The full distributed verse and commentary were
 checked against the running IAST source. The damaged verse

@@ -18,14 +18,9 @@ VAK 5.44 records an alternative explanation for the three lower fetters
 singled out in VAK 5.43. They correspond to three obstacles encountered in
 directed travel and, by analogy, in going toward liberation.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-a-gantu-kāmatā | mārga-vibhramaḥ | mārga-saṃśayaḥ | iti |
-antarāyāḥ | mokṣasya | gamane | ataḥ | tri-deśanā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `a-gantu-kāmatā` | nominative singular feminine abstract formation | unwillingness or lack of desire to go |
 | `mārga-vibhramaḥ` | nominative singular masculine compound | deviation or going astray from the route |
@@ -36,6 +31,11 @@ antarāyāḥ | mokṣasya | gamane | ataḥ | tri-deśanā
 | `gamane` | locative singular neuter action noun | in going or proceeding |
 | `ataḥ` | ablatival adverb | therefore, for this reason |
 | `tri-deśanā` | nominative singular feminine compound | teaching of the three, threefold teaching |
+
+```text
+a-gantu-kāmatā | mārga-vibhramaḥ | mārga-saṃśayaḥ | iti |
+antarāyāḥ | mokṣasya | gamane | ataḥ | tri-deśanā
+```
 
 The compounds locate three distinct interruptions within one directed process:
 refusal to begin, deviation through a different route, and uncertainty about
@@ -85,18 +85,8 @@ the `mukha-mūla-graha` account of VAK 5.43.
 
 ### Bhāṣya-informed study translation
 
-> According to an alternative explanation, travel to another region can fail
-> through unwillingness to depart, deviation caused by adopting another
-> route, or doubt about the route. The same three obstacles govern movement
-> toward liberation: personality-view produces fright at liberation and thus
-> unwillingness to go; grasping at discipline and observance leads one to adopt
-> another path and deviate from liberation; and doubt produces uncertainty
-> concerning the Path. To make the abandonment of these three obstacles
-> evident, the Blessed One taught the abandonment of precisely these three
-> afflictions.
-
-The ordinary-travel analogy, three affliction-obstacle mappings, and
-pedagogical rationale are supplied by the Bhāṣya.
+> Unwillingness to go, deviation by taking another path, and doubt about the
+> path obstruct going toward liberation; therefore three fetters are taught.
 
 ## 6. Philosophical Translation
 

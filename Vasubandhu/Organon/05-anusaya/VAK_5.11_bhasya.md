@@ -1,19 +1,19 @@
 # VAK 5.11 Bhāṣya — View-Nourished Afflictions
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > vibhavecchā na cāryasya saṃbhavanti vidhādayaḥ |
 > nāsmitā dṛṣṭipuṣṭatvāt kaukṛtyaṃ nāpi cāśubham || 5.11 ||
 
-> The wish for nonexistence, the conceit-modes, and I-am conceit do
-> not arise in a noble practitioner, because they are nourished by
-> views; nor does unwholesome remorse arise.
+> For a noble practitioner, the wish for nonexistence and the series from the
+> conceit-modes onward do not arise, nor does I-am conceit, because these are
+> nourished by views; neither does unwholesome remorse arise.
 
 The verse continues the `tathā` at the end of 5.10. Its problem is
 why something classed as cultivation-abandonable need not manifest
 in a noble practitioner.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 vibhavecchā.
@@ -53,7 +53,7 @@ their rough forms need witness comparison. The research excerpt
 omits the Airāvaṇa example, whose function is to specify a
 particular `bhavatṛṣṇā` included by `tathā`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 “The wish for nonexistence.” Thirst for nonexistence too is to be
 abandoned through cultivation. What is the dharma here called
@@ -79,7 +79,7 @@ particular thirst for existence by eternalist view.
 also classed as to be abandoned through cultivation, yet it does
 not occur in the noble practitioner because it arises from doubt.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The decisive relation is `dṛṣṭipuṣṭatva`, being nourished by a
 view. The commentary specifies four dependencies rather than
@@ -103,7 +103,7 @@ in an ārya because the view on which their manifestation depends
 has been abandoned through seeing. The text does not equate an
 unabandoned class with a currently operative event.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** The final `na ... aśubham` negates the
 occurrence of **unwholesome remorse**; it does not deny that
@@ -120,7 +120,7 @@ present/absent flag. It can inform our Science of Citta while the
 Kośa's exact dependency claims remain distinct from any later
 formal or executable representation.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.11 unit has been checked against the running
 source and stops before 5.12. The restored Airāvaṇa example and

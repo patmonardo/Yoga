@@ -1,15 +1,15 @@
 # VAK 5.57 Bhāṣya — Feeling and the Secondary Afflictions
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > daurmanasyena kaukṛtyam īrṣyā krodho vihiṃsanam |
 > upanāhaḥ pradāśaś ca mātsaryaṃ tu viparyayāt || 5.57 ||
 
-> Regret, envy, anger, harmfulness, rancor, and obstinate
-> indignation are conjoined with mental distress; avarice,
-> however, with its opposite, mental gladness.
+> Remorse, envy, anger, harmfulness, sustained resentment, and obstinate
+> fault-clinging are conjoined with mental distress. Avarice, by contrast,
+> is conjoined with mental gladness.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 upakleśānāṃ punaḥ
@@ -33,10 +33,10 @@ the separate kārikā witness has nominative `upanāhaḥ`.
 The transmitted form is preserved here. Line division and
 the removal of the source's verse identifier are editorial.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
-Now, concerning the secondary afflictions: regret, envy,
-anger, harmfulness, rancor, and obstinate indignation are
+Now, concerning the secondary afflictions: remorse, envy,
+anger, harmfulness, sustained resentment, and obstinate fault-clinging are
 conjoined with mental distress. The words “are conjoined”
 are to be supplied. These factors operate in a mode of
 dejection and belong to the mental level.
@@ -45,7 +45,7 @@ Avarice, however, goes with the opposite feeling: that is,
 with mental gladness. It belongs to the lineage of greed
 and operates in a mode of exhilaration.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 After the kleśas' conjunction with feeling faculties in
 5.55–5.56, `upakleśānāṃ punaḥ` opens the corresponding
@@ -69,13 +69,13 @@ mode, and actual conjunction with gladness are related
 determinations, not three names for one thing. The
 pleasant feeling does not make avarice wholesome.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** “With its opposite” renders the
 verse's `viparyayāt`; “mental gladness” makes explicit the
-Bhāṣya's resolution. “Obstinate indignation” for
-`pradāśa` is provisional: this local prose specifies its
-feeling association but does not define the factor.
+Bhāṣya's resolution. “Obstinate fault-clinging” follows
+the definition given in 5.50; this unit specifies its
+feeling association rather than redefining it.
 The mismatch `upanāhaṃ` / `upanāhaḥ` awaits textual review.
 
 **Organon reconstruction.** This passage supports separate
@@ -87,9 +87,8 @@ factor's lineage. This is a project-level inference from
 the Bhāṣya's explanatory order, not a claim that Vasubandhu
 supplies such a schema.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete 5.57 unit and its transition to
 5.58 were checked against the running IAST source. The
-`upanāhaṃ` variant and the translation of `pradāśa` remain
-for the later textual review.
+`upanāhaṃ` variant remains for the later textual review.

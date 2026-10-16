@@ -23,14 +23,9 @@ prose explains the bond-triad through dependence upon the three feelings. The
 transmitted kārikā reading is preserved here without silent emendation; its
 precise restoration requires comparison with critical and printed witnesses.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-pañcadhā | eva | ūrdhva-bhāgīyam | dvau | rāgau | rūpi-arūpi-jau |
-auddhatya-māna-mohāḥ | ca | vidvaśāt | bandhana-trayam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `pañcadhā eva` | indeclinable adverb with restrictive particle | precisely fivefold |
 | `ūrdhva-bhāgīyam` | nominative singular neuter collective adjective | belonging to the higher part |
@@ -39,6 +34,11 @@ auddhatya-māna-mohāḥ | ca | vidvaśāt | bandhana-trayam
 | `auddhatya-māna-mohāḥ ca` | nominative plural coordinative expression | and restlessness, conceit, and delusion or ignorance |
 | `vidvaśāt` | transmitted ablative form, textually suspect | exact lexical force unresolved; prose points to governance by the three feelings |
 | `bandhana-trayam` | nominative singular neuter compound | triad of bonds |
+
+```text
+pañcadhā | eva | ūrdhva-bhāgīyam | dvau | rāgau | rūpi-arūpi-jau |
+auddhatya-māna-mohāḥ | ca | vidvaśāt | bandhana-trayam
+```
 
 The first five items are fixed by the Bhāṣya as form-attachment, formless-
 attachment, restlessness, conceit, and ignorance. `Bandhana-trayam` does not
@@ -100,23 +100,14 @@ license silently rewriting the kārikā in the official study.
 
 ### Bhāṣya-informed study translation
 
-> The five higher-part fetters are attachment to the form-domain, attachment
-> to the formless-domain, restlessness, conceit, and ignorance. Because these
-> remain unabandoned, one does not pass beyond the higher domains. This
-> completes the discussion of fetters. A new classification then begins: all
-> desire, all hostility, and all delusion constitute the three bonds. They are
-> taught as three through their relation to the three feelings—desire lies
-> latent with respect to pleasant feeling through object-support and
-> conjunction, hostility with respect to painful feeling, and delusion with
-> respect to neither-painful-nor-pleasant feeling.
-
-The hard boundary between fetter and bond, the three bond-members, their
-feeling-relations, and the alternative own-continuum restriction are supplied
-by the Bhāṣya.
+> The higher-part fetters are likewise five: attachment to form, attachment
+> to the formless, restlessness, conceit, and ignorance. The three bonds—
+> desire, hostility, and delusion—are distinguished by their relation to the
+> three feelings.
 
 ## 6. Philosophical Translation
 
-> Passage beyond the desire-domain does not itself end bondage: five subtler
+> Passage beyond the desire-realm does not itself end bondage: five subtler
 > fetters retain the continuum within the higher domains until they too are
 > abandoned. Yet the verse then changes its question. It no longer asks what
 > prevents cosmological transcendence, but how affliction binds across the
@@ -141,8 +132,8 @@ of the fetters themselves.
 **The five higher fetters**
 
 ```text
-rūpa-rāga       attachment to the form-domain
-ārūpya-rāga     attachment to the formless-domain
+rūpa-rāga       attachment to the form-realm
+ārūpya-rāga     attachment to the formless-realm
 auddhatya       restlessness or excitation
 māna            conceit
 avidyā           ignorance

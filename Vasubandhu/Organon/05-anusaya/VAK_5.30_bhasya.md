@@ -1,17 +1,17 @@
 # VAK 5.30 Bhāṣya — Form and Formless Objects in the Matrix
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > svakādharatrayordhvaikāmalānāṃ rūpadhātujāḥ |
 > ārūpyajāstridhātvāptatrayānāsravagocarāḥ || 5.30 ||
 
-> Form-domain dharmas are objects of three cittas of their own
-> domain, three of the lower domain, one of the higher domain,
-> and undefiled citta. Formless-domain dharmas are objects of
-> the corresponding three cittas in each domain and of
-> undefiled citta.
+> The form-realm dharmas of those three classes are objects of three
+> corresponding cittas in their own domain, three in the lower domain, one
+> cultivation-abandonable citta in the higher domain, and undefiled cognition.
+> The formless-realm dharmas of those classes are objects of three
+> corresponding cittas in each of the three domains and undefiled cognition.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     svadādharatrayordhvaikāmalānāṃ rūpadhātujāḥ.
@@ -39,34 +39,34 @@ Kārikā anchor has `svakādhara-`. The Sanskrit block retains
 the running form; the prose explicitly resolves the intended
 own, lower, and higher distribution.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
-“Form-domain dharmas are objects of their own [three], the
+“form-realm dharmas are objects of their own [three], the
 lower three, one higher, and the undefiled.” The same three
-classes of form-domain dharmas are objects of eight cittas:
+classes of form-realm dharmas are objects of eight cittas:
 the corresponding three of their own domain, the corresponding
 three of the lower domain, one citta of the higher domain
 that is abandoned through cultivation, and undefiled citta.
 
-“Formless-domain dharmas are objects of the corresponding
+“formless-realm dharmas are objects of the corresponding
 three from the three domains and of the undefiled.” The same
-three classes of formless-domain dharmas are objects of ten
+three classes of formless-realm dharmas are objects of ten
 cittas: the corresponding three classes in each of the three
 domains, plus undefiled citta. This completes the account
 of the dharmas in the three domains abandoned by seeing
 suffering, seeing origination, and cultivation.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The object classes remain fixed while the domain changes.
-For form-domain objects, the count is **3 + 3 + 1 + 1 = 8**:
-three corresponding form-domain cittas, three desire-domain
-cittas below, one cultivation-abandonable formless-domain
+For form-realm objects, the count is **3 + 3 + 1 + 1 = 8**:
+three corresponding form-realm cittas, three desire-realm
+cittas below, one cultivation-abandonable formless-realm
 citta above, and one undefiled citta. The prose restricts
 the higher citta to the cultivation-abandonable class; it
 does not license three higher-domain cittas in this row.
 
-For formless-domain objects, the count is **3 + 3 + 3 + 1 = 10**:
+For formless-realm objects, the count is **3 + 3 + 3 + 1 = 10**:
 the corresponding three citta classes in each of the desire,
 form, and formless domains, plus the undefiled class. The
 closing sentence confirms that 5.29–5.30 have exhausted
@@ -79,7 +79,7 @@ afflicted or prove that every anuśaya adheres there. The
 matrix supplies the object relations needed for that later
 inference.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Svadhātuka`, `adharadhātuka`,
 and `ūrdhvadhātuka` in the prose determine the compact
@@ -96,7 +96,7 @@ them to calculate admissible object access before assessing
 afflictive adherence. This is a project-level reconstruction,
 not a claim about an implemented data structure.
 
-## Review Status
+## 6. Review Status
 
 Provisional. Both halves of the distributed verse and their
 explanatory prose were checked against the running IAST source.

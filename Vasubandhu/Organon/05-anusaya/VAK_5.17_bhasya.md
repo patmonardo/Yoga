@@ -1,18 +1,18 @@
 # VAK 5.17 Bhāṣya — Adherence Through Cognitive Support
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > sarvatragā anuśayāḥ sakalām anuśerate |
 > svabhūmim ālambanataḥ svanikāyam asarvagāḥ || 5.17 ||
 
-> The universal anuśayas adhere, by way of cognitive support,
-> to their entire own level; the non-universal ones adhere to
-> their own class within that level.
+> Universal anuśayas adhere through cognitive support to their entire own
+> level, comprising all five abandonment classes; non-universal anuśayas
+> adhere only to their own abandonment class within that level.
 
 The verse gives a general rule for one mode of `anuśayana`.
 The Bhāṣya announces that the next verse will qualify it.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 eṣām aṣṭānavater anuśayānāṃ katy ālambanato 'nuśerate
@@ -37,7 +37,7 @@ half of 5.18 begins the exception. Word division and punctuation
 above are editorial. The closing sentence is Vasubandhu's
 transition: after the general rule, he states a qualification.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Of the ninety-eight anuśayas, how many adhere by way of their
 cognitive support, and how many solely by association?
@@ -54,7 +54,7 @@ abandoned through cultivation: they take only their own
 corresponding class. Having given the general rule, he turns
 to an exception.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The opening question distinguishes `ālambanataḥ`, through a
 cognitive support, from `saṃprayogataḥ`, through association.
@@ -70,7 +70,7 @@ It also does not settle the association side of the opening
 question. The next verse states exceptions to the support rule
 and then supplies the distinct association rule.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Anuśerate` is rendered “adhere”
 to keep its relational force; “lie latent inside” would already
@@ -86,7 +86,7 @@ Citta would have to preserve those two scopes as well as the
 separate association relation. That is a prospective constraint,
 not a claim of current implementation.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.17 unit has been checked against the running
 source. It ends with the author's announcement of the exception;

@@ -1,18 +1,18 @@
 # VAK 5.12 Bhāṣya — Universal Range Within a Domain
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> sarvatragā duḥkhahetudṛggheyā dṛṣṭayas tathā |
-> vimatiḥ saha tābhiś ca yā 'vidyā 'veṇikī ca yā || 5.12 ||
+> sarvatragā duḥkha-hetu-dṛg-gheyā dṛṣṭayas tathā |
+> vimatiḥ saha tābhiś ca yāvidyā 'veṇikī ca yā || 5.12 ||
 
-> Universally ranging are the views to be abandoned through seeing
-> suffering and origination; likewise doubt, the ignorance associated
-> with those views, and independent ignorance.
+> The views abandoned through seeing suffering and origination range
+> throughout their own domain; likewise the corresponding doubts, ignorance
+> associated with those views, and independent ignorance.
 
 The new question is the range of the ninety-eight anuśayas, rather
 than their count or their mode of abandonment alone.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 athaiṣām aṣṭānavater anuśayānāṃ kati sarvatragāḥ
@@ -54,7 +54,7 @@ compressed; its precise quantifier force needs comparison rather
 than expansion into a claim that every object is apprehended in
 one simultaneous cognition.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Of these ninety-eight anuśayas, how many range universally and
 how many do not? The verse identifies the views abandoned through
@@ -66,7 +66,7 @@ support extends over the whole of their own domain.
 
 Do they take that support all at once or in sequence? If in
 sequence, the same claim would extend to other afflictions. If
-all at once, who takes the whole desire-domain as something
+all at once, who takes the whole desire-realm as something
 purifying, or the whole domain's non-causes as causes? Calling
 the range “whole” does not say that every item is taken at one
 moment; the reply instead speaks of all five relevant modes
@@ -87,7 +87,7 @@ particular characteristics, not afflictions concerning a
 general characteristic. Therefore they are not universally
 ranging.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The count `7 + 2 + 2 = 11` is explicit. `Sarvatraga` here concerns
 range within the **corresponding domain** (`sabhāgadhātu`), not
@@ -114,7 +114,7 @@ characteristic (`sāmānya`). The reply is explicitly attributed
 to the Vaibhāṣikas; the preceding alternatives are dialectical,
 not a single settled authorial rule.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Ālambana` is kept as “cognitive
 support,” preserving the technical relation that defines range.
@@ -133,7 +133,7 @@ between general and particular affliction. We can use that
 distinction without converting the eleven source classes into
 an unverified software-wide “global state.”
 
-## Review Status
+## 6. Review Status
 
 The complete 5.12 unit has been checked against the running
 source and stops before 5.13. The compressed `pañcaprakāram`

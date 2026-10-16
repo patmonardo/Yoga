@@ -14,29 +14,25 @@ daśaite sapta saptāṣṭau tri-dvi-dṛṣṭi-vivarjitāḥ |
 yathākramaṃ prahīyante kāme duḥkhādi-darśanaiḥ || 5.4 ||
 ```
 
-The ten basic anuśayas of VAK 5.03 are now placed within the desire-domain and
-distributed according to the truth-seeing through which they are abandoned.
+## 3. Lexical Analysis
 
-## 3. Padaccheda and Lexical Analysis
-
-```text
-daśa | ete | sapta | sapta | aṣṭau |
-tri-dvi-dṛṣṭi-vivarjitāḥ |
-yathā-kramam | prahīyante | kāme | duḥkha-ādi-darśanaiḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `daśa` | numeral | ten |
-| `ete` | nominative plural masculine pronoun | these anuśayas |
-| `sapta` | numeral | seven |
-| `sapta` | numeral | seven |
-| `aṣṭau` | numeral | eight |
-| `tri-dvi-dṛṣṭi-vivarjitāḥ` | nominative plural masculine compound | respectively deprived of three and two views |
-| `yathā-kramam` | adverbial compound | in the stated order, respectively |
-| `prahīyante` | third-person plural present passive | are abandoned, relinquished, removed |
-| `kāme` | locative singular masculine | in the desire-domain |
-| `duḥkha-ādi-darśanaiḥ` | instrumental plural compound | through seeing suffering and the remaining truths |
+| daśa | numeral | ten anuśayas in the first group |
+| ete | pronoun; masculine; nominative plural (lemma: idam) | these, the ten just established |
+| sapta | numeral | seven in the second group |
+| sapta | numeral | seven in the third group |
+| aṣṭau | numeral | eight in the fourth group |
+| tri-dvi-dṛṣṭi-vivarjitāḥ | compound adjective; masculine; nominative plural | reduced groups lacking three or two views |
+| yathā-kramam | indeclinable compound | in corresponding order |
+| prahīyante | verb; present passive; third-person plural (lemma: pra-√hā) | are abandoned |
+| kāme | noun; masculine; locative singular (lemma: kāma) | in the desire-realm |
+| duḥkha-ādi-darśanaiḥ | compound noun; neuter; instrumental plural | through seeing suffering and the other truths |
+
+Word division: *daśaite* = *daśa ete*; *saptāṣṭau* = *sapta aṣṭau*;
+*duḥkhādi* = *duḥkha ādi*. The ten anuśayas of 5.03 are now distributed
+within the desire-realm according to the truth-seeing through which they
+are abandoned.
 
 The sequence indicated by `duḥkhādi` is suffering, origination, cessation, and
 the Path. `Kāme` is a concise locative for `kāmadhātau`. Here “domain” is
@@ -76,52 +72,36 @@ they are abandoned
 ```
 
 `Tri-dvi-dṛṣṭi-vivarjitāḥ` gives the subtraction rule. The two groups of seven
-lack three views; the group of eight lacks two. The Bhāṣya identifies the
-shared three exclusions for the sevenfold groups as `satkāyadṛṣṭi`,
-`antagrahadṛṣṭi`, and `śīlavrataparāmarśa`; the eightfold group excludes the
-first two.
+lack three views; the group of eight lacks two. The Bhāṣya names the three
+excluded for cessation as `satkāyadṛṣṭi`, `antagrahadṛṣṭi`, and
+`śīlavrataparāmarśa`, and the two excluded for Path as the first two. In this
+unit it gives only the count for origination, without naming its three
+excluded views.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> In the desire-domain, these [anuśayas]—ten, seven, seven, and eight, the
+> In the desire-realm, these [anuśayas]—ten, seven, seven, and eight, the
 > latter groups respectively lacking three and two views—are abandoned in
 > sequence through seeing suffering and the remaining truths.
 
 ### Bhāṣya-informed study translation
 
-> In the desire-domain, all ten basic anuśayas are abandoned through seeing
-> suffering. Seven are abandoned through seeing origination and seven through
-> seeing cessation, each group excluding satkāya-view, extreme-grasping view,
-> and adherence to discipline and observance. Eight are abandoned through
-> seeing the Path, excluding satkāya-view and extreme-grasping view. These
-> thirty-two are the desire-domain anuśayas abandoned through seeing the
-> truths.
-
-The named exclusions, the subtotal of thirty-two, and the explanation that
-these are removed through the mere seeing of the truths are supplied by the
-Bhāṣya.
-
-The commentary also supplies the complementary desire-domain group:
-
-```text
-rāga | pratigha | māna | avidyā
-```
-
-These four are abandoned after the truths have been seen, through cultivation
-or repeated practice of the Path. Together with the thirty-two, they produce
-the desire-domain total of thirty-six announced after VAK 5.03.
+> In the desire-realm, these anuśayas—ten through seeing suffering, seven
+> through seeing origination, seven through seeing cessation, and eight
+> through seeing the Path—are abandoned in order. The two groups of seven
+> lack three views each, and the group of eight lacks two.
 
 ## 6. Philosophical Translation
 
 > An affliction is not completely known when it has merely been named. Within
-> the desire-domain it must be related to the truth whose disclosure removes
+> the desire-realm it must be related to the truth whose disclosure removes
 > its cognitive standing. All ten basic forms can be abandoned through seeing
 > suffering, while only specifically admissible groups are correlated with
 > seeing origination, cessation, and the Path. The resulting thirty-two are
-> removed through truth-disclosure itself; four further affective
-> determinations require the sustained cultivation of what has been seen.
+> removed through truth-disclosure itself; the following verse opens the
+> complementary cultivation classification.
 > Thus the subjective field is articulated by domain, object, and mode of
 > transformation rather than treated as an aggregate of private mental states.
 
@@ -133,12 +113,12 @@ truth is seen
         → the anuśaya is abandoned
 ```
 
-The Bhāṣya nevertheless distinguishes decisive seeing from the repeated Path
-practice required to remove dispositions that persist after disclosure.
+The next verse distinguishes this seeing from the cultivation required for
+other anuśayas after disclosure.
 
 ## 7. Technical Vocabulary
 
-**`Kāma` / `kāmadhātu` — desire-domain**
+**`Kāma` / `kāmadhātu` — desire-realm**
 
 The first existential domain in which the tenfold anuśaya scheme is worked
 out. This is a contextual use of `dhātu` as an encompassing domain:
@@ -177,15 +157,14 @@ truths.
 
 **`Bhāvanāprahātavya` — to be abandoned through cultivation**
 
-The complementary classification. Attachment, aversion, conceit, and
-non-knowing persist as cultivation-removable forms after the truths have been
-seen.
+The complementary classification is introduced in the preceding prose and
+taken up by the next verse. Its four desire-realm members are established
+there.
 
 **`Mārgābhyāsa` — repeated practice of the Path**
 
-The Bhāṣya's explanation of the second removal mode. Seeing establishes a
-truth; cultivation repeatedly realizes its practical force against persisting
-afflictive determination.
+The following unit explains the second removal mode through Path practice;
+it does not belong to this verse's Bhāṣya unit.
 
 **`Prahāṇa` — abandonment**
 
@@ -198,7 +177,7 @@ abandonment remain for later units.
 | Truth seen | Basic field | Excluded views | Abandoned |
 |---|---:|---|---:|
 | suffering | 10 | none | 10 |
-| origination | 10 | satkāya, extreme-grasping, discipline-and-observance adherence | 7 |
+| origination | 10 | three views, unnamed in this unit | 7 |
 | cessation | 10 | satkāya, extreme-grasping, discipline-and-observance adherence | 7 |
 | Path | 10 | satkāya, extreme-grasping | 8 |
 
@@ -236,11 +215,11 @@ The Bhāṣya introduces a further difference within transformation:
 ```text
 darśana
     decisive disclosure
-    → 32 desire-domain cases
+    → 32 desire-realm cases
 
 bhāvanā
     cultivation after disclosure
-    → 4 desire-domain cases
+    → taken up in the next verse
 ```
 
 ## 9. Interpretive Note
@@ -278,10 +257,9 @@ determination is not merely the label “false.” Its truth includes the exact
 disclosure capable of cancelling its authority. The correction relation
 belongs to the meaning of the error itself.
 
-Yet VAK 5.04 also prevents intellectualism. Some afflictions lose their ground
-through seeing; attachment, aversion, conceit, and non-knowing can persist and
-require `mārgābhyāsa`. Knowing the truth and having transformed the entire
-operative disposition are distinct moments of one Path.
+This fourfold seeing matrix establishes one mode of abandonment. The next
+verse introduces the complementary cultivation mode; the distinction between
+seeing and sustained practice belongs to the developing Path account.
 
 This language of subjective and objective moments is Organon reconstruction.
 The textual basis is Vasubandhu's exact correlation of domain, afflicted view,
@@ -301,9 +279,7 @@ vak:DesireDomainSeeingMatrix a vak:AbandonmentMatrix ;
                 vak:SeeingOriginationCase,
                 vak:SeeingCessationCase,
                 vak:SeeingPathCase ;
-    vak:hasSeeingAbandonedCount 32 ;
-    vak:hasCultivationAbandonedCount 4 ;
-    vak:hasDomainTotal 36 .
+    vak:hasSeeingAbandonedCount 32 .
 
 vak:SeeingSufferingCase
     vak:hasTruth vak:SufferingTruth ;
@@ -311,9 +287,7 @@ vak:SeeingSufferingCase
 
 vak:SeeingOriginationCase
     vak:hasTruth vak:OriginationTruth ;
-    vak:excludesView vak:SatkayaDrsti,
-                     vak:AntagrahaDrsti,
-                     vak:SilavrataParamarsa ;
+    vak:excludesViewCount 3 ;
     vak:hasAbandonedCount 7 .
 
 vak:SeeingCessationCase
@@ -329,14 +303,8 @@ vak:SeeingPathCase
                      vak:AntagrahaDrsti ;
     vak:hasAbandonedCount 8 .
 
-vak:CultivationAbandonment
-    vak:requires vak:RepeatedPathPractice ;
-    vak:removes vak:Raga,
-                vak:Pratigha,
-                vak:Mana,
-                vak:Avidya .
 ```
 
 The seed treats `KamaDhatu` as the situated domain of the matrix and keeps
-truth-seeing distinct from the later cultivation through which persisting
-afflictions are removed.
+the four truth-seeings distinct. The cultivation cases belong to the next
+verse's determination.

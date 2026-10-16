@@ -1,16 +1,15 @@
 # VAK 5.22 Bhāṣya — Four Ways to Answer a Question
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > ekāṃśato vyākaraṇaṃ vibhajya paripṛcchya ca |
 > sthāpyaṃ ca maraṇotpatti-viśiṣṭātmānyatādivat || 5.22 ||
 
-> A question calls for a categorical answer, an answer after
-> division, an answer after asking in return, or setting aside;
-> compare death, rebirth, relative superiority, and whether
-> a being is other than the aggregates.
+> An answer is given categorically, after division, or after questioning in
+> return; a question is also set aside—as with death, rebirth, relative
+> superiority, and a being's otherness from the aggregates, respectively.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 yāni sūtre caturdaśāvyākṛtavastūni kiṃ tāni avyākṛtatvāt?
@@ -110,7 +109,7 @@ movement. Spacing and punctuation are editorial. Forms such as
 and the damaged self-identification in the cited sūtra are
 retained from the IAST witness rather than silently repaired.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 The sūtra speaks of fourteen undetermined matters. Are they
 called `avyākṛta` because they have the ethically indeterminate
@@ -146,10 +145,10 @@ answer it.
 The Ābhidharmikas then offer a more developed account. Categorical
 answers concern such determinations as the Buddha's awakening,
 the well-taught Dharma, the well-practicing community, and the
-impermanence of form through consciousness; these bear directly
+impermanence of form through cognition; these bear directly
 on the intended matter. An answer by division progressively
 specifies a request to “speak of dharmas”: past, future, or
-present; then form through consciousness; then wholesome,
+present; then form through cognition; then wholesome,
 unwholesome, or indeterminate form; then kinds of abstention;
 then abstention arising from non-greed, non-hatred, or
 non-delusion; and finally manifest and unmanifest forms of
@@ -173,7 +172,7 @@ about an eternal or non-eternal, finite or infinite world, the
 Tathāgata after death, and whether life is other than the body
 are set aside.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The opening distinction is lexical and logical. `Avyākṛta`
 in 5.19–5.21 classifies the ethical status of dharmas. Here it
@@ -197,7 +196,7 @@ The Mahāsāṅghika citation preserves another set of examples;
 its damaged line about self should not carry more doctrinal
 weight than the witness can support.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Sthāpanīya` means that the question
 is to be set aside as posed. `Vyākaraṇa` is an answer or
@@ -217,7 +216,7 @@ cases, comparison relation, and presuppositions. That is an
 Organon reading of the Bhāṣya, not a source claim about a
 completed formal system.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The full unit and transition to 5.23 were checked
 against the running IAST source. The cited sūtra's damaged

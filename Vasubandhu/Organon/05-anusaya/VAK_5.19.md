@@ -17,31 +17,32 @@ antagrāhaḥ sahābhyāṃ ca mohaḥ śeṣās tv ihāśubhāḥ || 5.19 ||
 The verse changes the classificatory axis. It asks which of the ninety-eight
 anuśayas are unwholesome and which are ethically indeterminate.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ūrdhvam | avyākṛtāḥ | sarve | kāme | satkāya-darśanam |
-anta-grāhaḥ | saha | ābhyām | ca | mohaḥ | śeṣāḥ | tu | iha | aśubhāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ūrdhvam` | adverbial accusative | above; in the form and formless domains |
 | `avyākṛtāḥ` | nominative plural masculine | ethically indeterminate |
 | `sarve` | nominative plural masculine | all |
-| `kāme` | locative singular | in the desire-domain |
+| `kāme` | locative singular | in the desire-realm |
 | `satkāya-darśanam` | nominative singular neuter | body-view; viewing the aggregate-complex as self or mine |
 | `anta-grāhaḥ` | nominative singular masculine | grasping an extreme; extreme-view |
 | `saha ābhyām` | indeclinable plus instrumental dual | together or conjoined with those two |
 | `mohaḥ` | nominative singular masculine | delusion, ignorance |
 | `śeṣāḥ` | nominative plural masculine | the remaining anuśayas |
 | `tu` | adversative particle | but |
-| `iha` | adverb | here, in the desire-domain |
+| `iha` | adverb | here, in the desire-realm |
 | `aśubhāḥ` | nominative plural masculine | unwholesome; explained as `akuśala` |
+
+Padaccheda: `ūrdhvam | avyākṛtāḥ | sarve | kāme |
+satkāya-darśanam | anta-grāhaḥ | saha | ābhyām | ca | mohaḥ |
+śeṣāḥ | tu | iha | aśubhāḥ`. The instrumental dual in
+`sahābhyām` refers to the two named views; the Bhāṣya accordingly
+restricts the relevant `moha` to ignorance conjoined with them.
 
 The instrumental dual in `sahābhyām` restricts `moha`: the indeterminate
 ignorance is the ignorance conjoined with the two named views, not every form
-of ignorance in the desire-domain.
+of ignorance in the desire-realm.
 
 ## 4. Grammar
 
@@ -56,7 +57,7 @@ above, all [anuśayas] are ethically indeterminate
 `Ūrdhvam` is interpreted by the Bhāṣya as the form and formless domains.
 `Sarve` and `avyākṛtāḥ` agree with the understood `anuśayāḥ`.
 
-**Desire-domain exceptions**
+**desire-realm exceptions**
 
 ```text
 kāme
@@ -78,27 +79,26 @@ but the remaining ones here are unwholesome
 ```
 
 `Iha` returns to `kāme`; the residual classification concerns the remaining
-desire-domain anuśayas.
+desire-realm anuśayas.
+The Bhāṣya argues through karmic maturation and compatibility with giving
+and ethical discipline. It also reports an earlier teachers' distinction
+between innate and conceptually constructed satkāya-view; that disputed
+qualification does not change the verse's stated class list.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Above, all are ethically indeterminate. In the desire-domain, body-view,
+> Above, all are ethically indeterminate. In the desire-realm, body-view,
 > grasping an extreme, and the delusion conjoined with those two [are
 > indeterminate]; but the remaining ones here are unwholesome.
 
 ### Bhāṣya-informed study translation
 
-> All anuśayas of the form and formless domains are ethically indeterminate.
-> In the desire-domain, body-view, extreme-view, and the ignorance conjoined
-> with those two are likewise indeterminate; the remaining desire-domain
-> anuśayas are unwholesome. The innate form of body-view is indeterminate,
-> whereas earlier teachers classify its conceptually constructed form as
+> All anuśayas of the form and formless domains are ethically indeterminate;
+> in the desire-realm, satkāya-view, extreme-grasping view, and the ignorance
+> associated with them are likewise indeterminate, while the rest are
 > unwholesome.
-
-The karmic rationale, the innate/constructed distinction, and its attribution
-to earlier teachers are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -132,7 +132,7 @@ not mean cognitively correct, unafflicted, or soteriologically complete.
 **`Aśubha / akuśala` — unwholesome**
 
 The kārikā uses `aśubha`; the Bhāṣya explicitly explains the remaining
-desire-domain anuśayas as `akuśala`. Their classification concerns ethical and
+desire-realm anuśayas as `akuśala`. Their classification concerns ethical and
 karmic efficacy, not simply the presence of cognitive error.
 
 **`Kliṣṭa` — contaminated or afflicted**
@@ -203,7 +203,7 @@ LacksCause(x, OtherDirectedInjury)
     → EthicallyIndeterminate(x)
 ```
 
-The desire-domain exception adds conjunction and genesis:
+The desire-realm exception adds conjunction and genesis:
 
 ```text
 ConjoinedWith(Ignorance, IndeterminateView)

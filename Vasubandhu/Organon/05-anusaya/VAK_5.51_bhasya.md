@@ -1,16 +1,16 @@
 # VAK 5.51 Bhāṣya — Sources of Two Stains and Two Modes of Abandonment
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > dṛṣṭyāmarśāt pradāśas tu śāṭhyaṃ dṛṣṭi-samutthitam |
 > tatrāhrīkyānapatrāpyastyānamiddhoddhavā dvidhā || 5.51 ||
 
-> Obstinate fault-clinging arises from grasping at view,
-> and crookedness from view. Among the enveloping
-> afflictions, shamelessness, lack of moral concern, torpor,
-> sleepiness, and excitation have two modes of abandonment.
+> Obstinate fault-clinging arises from grasping at view, while crookedness is
+> a derivative of view. Among the ten envelopments, shamelessness, lack of
+> moral concern, torpor, sleepiness, and excitation are twofold: they can be
+> abandoned through seeing or through cultivation.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     dṛṣṭyāmarśāt pradāśas tu śāṭhyaṃ dṛṣṭisamutthitam.
@@ -37,7 +37,7 @@ punctuation are editorial. The running verse has
 `āhlīkya` and `uddhava`; the official Kārikā study
 prints `āhrīkya` and also `uddhava`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Obstinate fault-clinging arises from grasping at view,
 while crookedness arises from view. The latter is fitting
@@ -53,7 +53,7 @@ conjoined with kleśas of both kinds. A factor conjoined
 with a kleśa abandoned by a particular seeing is itself
 abandoned by that corresponding seeing.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The first half completes the six stains' source relations
 left open in 5.50. *Pradāśa* derives from `dṛṣṭyāmarśa`,
@@ -74,7 +74,7 @@ The analogous cultivation side is supplied by the twofold
 explanation, while the next verse treats the remaining
 factors.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Dṛṣṭyāmarśa` is kept as
 “grasping at view,” distinct from bare `dṛṣṭi`, the source
@@ -94,7 +94,7 @@ serves the Science of Citta, but the source doctrine remains
 the specified `saṃprayoga` rule rather than a claim about
 an implemented data model.
 
-## Review Status
+## 6. Review Status
 
 Provisional. Both parts of the distributed verse, the
 intervening transition, and the boundary with 5.52 were

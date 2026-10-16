@@ -1,15 +1,16 @@
 # VAK 5.41 Bhāṣya — Five Divisions and Two View Fetters
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > saṃyojanādi-bhedena punas te pañcadhoditāḥ |
 > dravyāmarśana-sāmānyād dṛṣṭī saṃyojanāntaram || 5.41 ||
 
-> Those same [anuśayas] are again stated fivefold, beginning
-> with fetters. The two groups of views are distinct fetters
-> through commonality of constituent factors and of grasping.
+> Those same anuśayas are again taught in five divisions: fetter, bond,
+> anuśaya, secondary affliction, and envelopment. The views form two distinct
+> fetters: three views and two grasping views, grouped by their equal counts of
+> real factors and, for the latter pair, their common grasping character.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     saṃyojanādibhedena punas te pañcadhoditāḥ.
@@ -59,7 +60,7 @@ editorial. The running source's `anunvaya`, `dṣṭi`,
 The official Kārikā witness joins `dravyāmarśana-sāmānyāt`;
 the running source separates `dravyāmarśana sāmānyāt`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Those same anuśayas are again divided fivefold: fetter
 (*saṃyojana*), bond (*bandhana*), anuśaya, secondary
@@ -95,7 +96,7 @@ two also share the nature of grasping, and are separately
 grouped on that ground, with a distinction between what is
 grasped and what grasps.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The opening fivefold scheme names **five ways of dividing the
 same anuśayas**. The passage develops its first member,
@@ -125,7 +126,7 @@ grasped and the grasper, but the source states it compactly;
 its exact reach requires review. `Kila` again qualifies
 the reported enumerative rationale.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Dṛṣṭī` is dual because it
 refers to two *groups* of views, not merely two individual
@@ -147,7 +148,7 @@ grasping. These are project-level consequences, separate
 from the Kośa's technical account and from any implemented
 data model.
 
-## Review Status
+## 6. Review Status
 
 Provisional. Both halves of the distributed verse and the
 complete intervening argument were checked against the

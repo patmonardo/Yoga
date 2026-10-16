@@ -1,20 +1,20 @@
 # VAK 5.06 Bhāṣya — Who Abandons What, and How
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > bhavāgrajāḥ kṣāntivadhyā dṛggheyā eva śeṣajāḥ |
 > dṛgbhāvanābhyām akṣāntivadhyā bhāvanayaiva tu || 5.06 ||
 
-> Those born at the summit of existence and counteracted by kṣānti
-> are abandoned only through seeing. Those born on the remaining
-> levels and counteracted by kṣānti are abandoned through seeing or
-> cultivation, according to the practitioner. Those not counteracted
-> by kṣānti are abandoned only through cultivation.
+> The anuśayas born at the summit of existence and counteracted by *kṣānti*
+> are abandoned only through seeing. Those born on the remaining levels and
+> likewise counteracted by *kṣānti* are abandoned through seeing for noble
+> practitioners or through cultivation for ordinary persons. Those not
+> counteracted by *kṣānti* are abandoned only through cultivation.
 
 The Bhāṣya supplies the distribution hidden in the verse's
 `dṛgbhāvanābhyām`.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 ya ime darśanaprahātavyānuśayā uktāḥ, kim ete niyataṃ
@@ -56,7 +56,7 @@ punctuation above are editorial. The source's line tag
 continuous. `Dharma-anvaya-jñāna-kṣānti` remains a compressed
 compound whose distributive force is indicated by `yathāyogam`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 It was said that certain anuśayas are to be abandoned through
 seeing. Are they necessarily abandoned only through seeing? No.
@@ -80,19 +80,19 @@ are always abandoned through cultivation for both groups.
 Some others say that outsiders never abandon those anuśayas classed
 as to be abandoned through seeing. They appeal to the
 Mahākarmavibhāgasūtra: it reports the occurrence of views taking
-the desire-domain as cognitive support among people free from
+the desire-realm as cognitive support among people free from
 desire who speculate about the past, including eternalists,
 partial eternalists, and proponents of uncaused arising.
-Form-domain afflictions cannot, they argue, have the desire-domain
+form-realm afflictions cannot, they argue, have the desire-realm
 as support for people free from desire. These views must therefore
-remain connected with the desire-domain and un-abandoned.
+remain connected with the desire-realm and un-abandoned.
 
 The Vaibhāṣikas answer that the relevant earlier afflictions fell
 away at the very moment the views arose, as in the case of
 Devadatta. The comparison is compressed; this local unit does not
 explain the Devadatta case further.
 
-## Argument and Voices
+## 4. Argument and Voices
 
 The first answer qualifies the previous classification. An
 affliction's being called `darśanaprahātavya` does not entail one
@@ -118,7 +118,7 @@ vaibhāṣikāḥ` explicitly assigns the final answer to the
 Vaibhāṣikas. The compressed Devadatta analogy warrants no stronger
 historical or causal reconstruction from this passage alone.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Ārya` and `pṛthagjana` are rendered
 “noble practitioner” and “ordinary person” to preserve the
@@ -135,7 +135,7 @@ would lose this relational determination. That is a conceptual
 constraint for our Science of Citta, not a claim that the Kośa
 already specifies a software architecture.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.06 unit, including the attributed disagreement,
 has been checked against the running source. The malformed source

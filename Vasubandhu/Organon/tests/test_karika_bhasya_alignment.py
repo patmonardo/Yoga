@@ -64,11 +64,11 @@ def informed_subsection(text: str) -> str:
 
 
 def verse_text(text: str, chapter: int, verse: int) -> str:
-    marker_pattern = rf"//\s*{chapter}\.0?{verse}\s*//"
+    marker_pattern = rf"(?:\/\/|\|\|)\s*{chapter}\.0?{verse}\s*(?:\/\/|\|\|)"
     marker = re.search(marker_pattern, text)
     if not marker:
         return ""
-    iast_block = re.search(r"```iast\s*(.*?)```", text, re.S | re.I)
+    iast_block = re.search(r"```(?:iast|text)\s*(.*?)```", text, re.S | re.I)
     if iast_block:
         joined = iast_block.group(1)
     else:
@@ -112,7 +112,10 @@ def anchor_translation(anchor: str, chapter: int, verse: int) -> str:
             else normalized_block(explicit)
         )
 
-    marker = re.search(rf"//\s*{chapter}\.0?{verse}\s*//", anchor)
+    marker = re.search(
+        rf"(?:\/\/|\|\|)\s*{chapter}\.0?{verse}\s*(?:\/\/|\|\|)",
+        anchor,
+    )
     if not marker:
         return ""
     translation = []
@@ -126,6 +129,25 @@ def anchor_translation(anchor: str, chapter: int, verse: int) -> str:
 
 
 class KarikaBhasyaAlignmentTests(unittest.TestCase):
+    def test_bhasya_sections_are_numbered(self):
+        for verse in range(START, END + 1):
+            stem = f"VAK_{CHAPTER}.{verse:02d}"
+            bhasya = (STUDY_DIR / f"{stem}_bhasya.md").read_text(
+                encoding="utf-8"
+            )
+            headings = re.findall(r"^## (.+)$", bhasya, re.M)
+            with self.subTest(verse=verse):
+                self.assertTrue(headings, f"{stem} has no Bhāṣya sections")
+                self.assertEqual(headings[0], "1. Kārikā Anchor")
+                self.assertTrue(headings[1].startswith("2. Continuous Sanskrit"))
+                self.assertEqual(headings[2], "3. Continuous Conventional Translation")
+                self.assertRegex(headings[-1], rf"^{len(headings)}\. Review Status$")
+                for number, heading in enumerate(headings, 1):
+                    self.assertTrue(
+                        heading.startswith(f"{number}. "),
+                        f"{stem} has an unnumbered or out-of-order section: {heading}",
+                    )
+
     def test_dhatu_lexical_analysis_starts_with_canonical_table(self):
         if CHAPTER != 1:
             self.skipTest("Dhātu lexical layout rule")
@@ -176,7 +198,7 @@ class KarikaBhasyaAlignmentTests(unittest.TestCase):
                     karika, r"^## 2\. Sanskrit \(IAST\)\s*$"
                 )
                 anchor = section(
-                    bhasya, r"^## 1\. Kārikā Anchor\s*$"
+                    bhasya, r"^## (?:1\. )?Kārikā Anchor\s*$"
                 )
                 if CHAPTER == 3:
                     informed_translation = quoted_block(informed_translation)

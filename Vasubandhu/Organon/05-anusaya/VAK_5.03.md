@@ -14,35 +14,24 @@ dṛṣṭayaḥ pañca satkāya-mithyā-antagraha-dṛṣṭayaḥ |
 dṛṣṭi-śīlavrata-parāmarśāv iti punar daśa || 5.3 ||
 ```
 
-The continuous compounds compress five technical forms of view. Once the
-single `dṛṣṭi` of VAK 5.01 is unfolded into these five, the six initial
-anuśayas are recalculated as ten.
+## 3. Lexical Analysis
 
-## 3. Padaccheda and Lexical Analysis
-
-```text
-dṛṣṭayaḥ | pañca |
-satkāya-dṛṣṭiḥ | mithyā-dṛṣṭiḥ | antagraha-dṛṣṭiḥ |
-dṛṣṭi-parāmarśaḥ | śīla-vrata-parāmarśaḥ |
-iti | punaḥ | daśa
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `dṛṣṭayaḥ` | nominative plural feminine | views |
-| `pañca` | numeral | five |
-| `satkāya-dṛṣṭiḥ` | nominative singular feminine compound | satkāya-view; view concerning the existing aggregate-complex |
-| `mithyā-dṛṣṭiḥ` | nominative singular feminine compound | false view |
-| `antagraha-dṛṣṭiḥ` | nominative singular feminine compound | extreme-grasping view |
-| `dṛṣṭi-parāmarśaḥ` | first member represented in a masculine dual | adherence to or overvaluation of views |
-| `śīla-vrata-parāmarśaḥ` | second member represented in a masculine dual | adherence to discipline and observance |
-| `iti` | quotative and delimitative particle | thus; closes the enumeration |
-| `punaḥ` / `punar` | adverb | again, in turn |
-| `daśa` | numeral | ten |
+| dṛṣṭayaḥ | noun; feminine; nominative plural (lemma: dṛṣṭi) | views, the class now divided |
+| pañca | numeral | five species of view |
+| satkāya-mithyā-antagraha-dṛṣṭayaḥ | compressed coordination; feminine; nominative plural | satkāya-view, false view, and extreme-grasping view |
+| dṛṣṭi-śīlavrata-parāmarśau | compressed coordination; masculine; nominative dual | adherence to views and adherence to discipline and observance |
+| iti | indeclinable | closes the fivefold enumeration |
+| punar | indeclinable (form of punaḥ before voiced d) | again, in turn |
+| daśa | numeral | ten anuśayas after the view division |
 
-The local Bhāṣya witness writes `śīlavṛta` in its continuous Sanskrit. The
-official kārikā retains the metrically transmitted `śīlavrata`; no silent
-claim about the commentary witness is made.
+The first compressed expression supplies a shared *dṛṣṭi* ending to three
+view names: *satkāyadṛṣṭi*, *mithyādṛṣṭi*, and *antagrahadṛṣṭi*. The dual
+*parāmarśau* supplies a shared ending to *dṛṣṭiparāmarśa* and
+*śīlavrataparāmarśa*. The local Bhāṣya witness writes *śīlavṛta* and
+*antagrāha* in its continuous Sanskrit; the kārikā study retains its
+transmitted *śīlavrata* and *antagraha* forms.
 
 ## 4. Grammar
 
@@ -90,25 +79,9 @@ among the six anuśayas fivefold, they become ten.
 
 ### Bhāṣya-informed study translation
 
-> View is differentiated into five forms: satkāya-view, false view,
-> extreme-grasping view, adherence to views, and adherence to discipline and
-> observance. Replacing the single view among the original six anuśayas with
-> these five gives the ten basic anuśayas: five whose nature is view, together
-> with attachment, aversion, conceit, non-knowing, and doubt.
-
-The Bhāṣya immediately adds that Abhidharma differentiates these ten into
-ninety-eight operative cases:
-
-```text
-desire-domain       36
-form-domain         31
-formless-domain     31
-                   ---
-                    98
-```
-
-This total and its two further discriminators—domain and mode of
-abandonment—are commentary determinations that prepare VAK 5.04 and following.
+> The views are five: satkāya-view, false view, extreme-grasping view,
+> adherence to views, and adherence to discipline and observance. With the
+> single view among the six anuśayas counted as five, they are in turn ten.
 
 ## 6. Philosophical Translation
 

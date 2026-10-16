@@ -1,17 +1,17 @@
 # VAK 5.52 Bhāṣya — Abandonment, Independence, and Ethical Value
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > tad-anye bhāvanā-heyāḥ svatantrāś ca tathā malāḥ |
 > kāme 'śubhāḥ trayo dvidhā pareṇāvyākṛtās tataḥ || 5.52 ||
 
-> The remaining [envelopments] are abandoned through
-> cultivation and are independent; the stains are likewise.
-> In the desire domain these upakleśas are unwholesome,
-> except that three have two ethical values. Above it,
-> those that occur are indeterminate.
+> The five remaining envelopments are to be abandoned through cultivation and
+> are independent; the six stains are likewise. In the desire-realm these
+> secondary afflictions are unwholesome, except that torpor, excitation, and
+> sleepiness can also be indeterminate. Above that domain, those occurring as
+> applicable are indeterminate.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     tadanye bhāvanāheyāḥ.
@@ -50,7 +50,7 @@ compound are editorial. The running source reads `irṣyā`
 and `bhrakṣa` in that compound; these are preserved rather
 than silently normalized.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 The other upakleśas included among the enveloping
 afflictions, beyond the five just discussed, are abandoned
@@ -61,13 +61,13 @@ of conjunction. As these five are cultivation-abandoned
 and independent, so too are the six afflictive stains.
 
 The upakleśas under discussion are unwholesome in the
-desire domain. Even there, three have two possible ethical
+desire-realm. Even there, three have two possible ethical
 values: torpor, excitation, and sleepiness can be
-unwholesome or indeterminate. Above the desire domain,
+unwholesome or indeterminate. Above the desire-realm,
 the upakleśas that occur there are indeterminate, as
 applicable.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The first part complements 5.51's five envelopments whose
 mode of abandonment can be twofold. The remaining five
@@ -80,9 +80,9 @@ factors causally unconditioned or metaphysically
 self-sufficient.
 
 The second part changes axis to ethical value by domain.
-The general desire-domain rule is `akuśala`, but torpor,
+The general desire-realm rule is `akuśala`, but torpor,
 excitation, and sleepiness may be either `akuśala` or
-`avyākṛta` there. Above the desire domain, occurring
+`avyākṛta` there. Above the desire-realm, occurring
 upakleśas are `avyākṛta` **as applicable**; the statement
 does not assert that all sixteen discussed factors occur
 in every higher domain. The next verse determines that
@@ -92,17 +92,17 @@ distribution.
 in 5.51. There it distinguished seeing-abandonment and
 cultivation-abandonment. Here it distinguishes unwholesome
 and indeterminate ethical status for three factors within
-the desire domain. Carrying the earlier gloss forward would
+the desire-realm. Carrying the earlier gloss forward would
 misread the verse's active classification.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Tadanye` refers to the five
 envelopments other than 5.51's named five. `Aśubha` is
 resolved by the prose's `akuśala`, “unwholesome.”
 `Avyākṛta` is “ethically indeterminate,” not wholesome or
 unaffected. `Pareṇa ... tataḥ` is read through the prose as
-above the desire domain. `Yathāsaṃbhavam` restricts the
+above the desire-realm. `Yathāsaṃbhavam` restricts the
 claim to factors that can occur there.
 
 **Organon reconstruction.** Path status, independence, domain
@@ -113,7 +113,7 @@ is a project-level lesson for the Science of Citta, separate
 from the Kośa's stated classifications and any implemented
 schema.
 
-## Review Status
+## 6. Review Status
 
 Provisional. All distributed verse fragments and the
 boundary with 5.53 were checked against the running IAST

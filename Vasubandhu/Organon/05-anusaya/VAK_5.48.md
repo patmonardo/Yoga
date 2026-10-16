@@ -24,14 +24,9 @@ three-way dispute concerning concealment.
 `niḥṣyanda`. They remain witness-level variants and are not silently inserted
 into the kārikā.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-krodha-mrakṣau | ca | rāga-utthāḥ | āhrīkya-auddhatya-matsarāḥ |
-mrakṣe | vivādaḥ | avidyātaḥ | styāna-middha-anapatrapāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `krodha-mrakṣau` | nominative dual masculine | anger and concealment |
 | `ca` | conjunction | and, adding them to the prior eight |
@@ -41,6 +36,11 @@ mrakṣe | vivādaḥ | avidyātaḥ | styāna-middha-anapatrapāḥ
 | `vivādaḥ` | nominative singular masculine | disagreement or dispute |
 | `avidyātaḥ` | ablative singular feminine | from ignorance |
 | `styāna-middha-anapatrapāḥ` | nominative plural masculine coordinative compound | torpor, sleepiness, and lack of moral concern |
+
+```text
+krodha-mrakṣau | ca | rāga-utthāḥ | āhrīkya-auddhatya-matsarāḥ |
+mrakṣe | vivādaḥ | avidyātaḥ | styāna-middha-anapatrapāḥ
+```
 
 The ablatives in `rāgotthāḥ` and `avidyātaḥ` mark source-relations. The
 Bhāṣya determines these more precisely as `rāga-niḥṣyanda` and
@@ -93,16 +93,10 @@ Bhāṣya again supplies `niḥṣyanda` as the exact relation.
 
 ### Bhāṣya-informed study translation
 
-> Anger and concealment complete the Vaibhāṣika list of ten envelopments.
-> Shamelessness, excitation, and avarice are derivatives or outflows of
-> attachment. Concealment of a fault has a disputed source: some call it a
-> derivative of craving, others a derivative of ignorance, and still others a
-> derivative of both, with the compressed explanation referring respectively
-> to known and unknown faults. Torpor, sleepiness, and lack of moral concern
-> are derivatives of ignorance.
-
-The technical relation `niḥṣyanda`, three reported positions, and known/unknown
-qualification are supplied by the Bhāṣya.
+> Anger and concealment complete the ten envelopments. Shamelessness,
+> excitation, and avarice arise as derivatives of attachment; concealment's
+> source is disputed. Torpor, sleepiness, and lack of moral concern arise as
+> derivatives of ignorance.
 
 ## 6. Philosophical Translation
 

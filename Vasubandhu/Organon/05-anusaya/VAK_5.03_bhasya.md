@@ -1,15 +1,15 @@
 # VAK 5.03 Bhāṣya — Five Views and the Tenfold Base
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> dṛṣṭayaḥ pañca satkāyamithyāntagrāhadṛṣṭayaḥ |
-> dṛṣṭiśīlavṛtaparāmarśāv iti punar daśa || 5.03 ||
+> dṛṣṭayaḥ pañca satkāya-mithyā-antagraha-dṛṣṭayaḥ |
+> dṛṣṭi-śīlavrata-parāmarśāv iti punar daśa || 5.03 ||
 
 > The views are five: satkāya-view, false view, extreme-grasping view,
-> adherence to views, and adherence to discipline and observance. Thus,
-> in turn, the anuśayas are ten.
+> adherence to views, and adherence to discipline and observance. With the
+> single view among the six anuśayas counted as five, they are in turn ten.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 punar ete ṣaḍanuśayā abhidharme daśa kriyante. kathaṃ kṛtvā?
@@ -34,7 +34,7 @@ darśanaprahātavyā dvātriṃśat. katame ta ity āha:
 This unit begins with the transitional question at [279|13–14] and
 ends at [279|23] in `Vasubandhu/Sources/kosabhasya.txt`. The next
 verse answers `katame taḥ` with the detailed thirty-twofold
-desire-domain enumeration. Spacing and punctuation above are editorial.
+desire-realm enumeration. Spacing and punctuation above are editorial.
 The running source misnumbers the line containing `yathā
 dṛṣṭisvabhāvāḥ` as [278|18–19] and transmits the rough
 `rāgahpratidhho`. Its `yathā` appears to require a negative for the
@@ -42,7 +42,7 @@ contrast with the preceding five; no such negative has been silently
 inserted. The research excerpt supplies a corrected `rāgaḥ pratigho`
 but likewise preserves `yathā`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Again, these six anuśayas are made into ten in the Abhidharma. How?
 “The views are five: satkāya-view, false view, extreme-grasping view,
@@ -55,14 +55,14 @@ ignorance, and doubt are the other five [the source's connecting
 word is uncertain].
 
 These ten anuśayas, again, are made ninety-eight in the Abhidharma:
-thirty-six belonging to the desire-domain, thirty-one to the
-form-domain, and thirty-one to the formless-domain. How? In summary,
+thirty-six belonging to the desire-realm, thirty-one to the
+form-realm, and thirty-one to the formless-realm. How? In summary,
 the anuśayas of the three domains are to be abandoned either through
 seeing or through cultivation. Among those belonging to the
-desire-domain, thirty-two are to be abandoned through seeing. Which
+desire-realm, thirty-two are to be abandoned through seeing. Which
 are they? The next verse states them.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The operation is precise: the single `dṛṣṭi` in the original six is
 replaced by five forms of view. Thus `6 − 1 + 5 = 10`. The prose lists
@@ -81,7 +81,7 @@ of abandonment. They cannot yet be collapsed into a generic “error
 removal” operation, and the five views cannot be treated as five
 mere opinions detached from their domain and path relations.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** The five view names remain technical
 compounds because this unit counts them but does not define them.
@@ -98,7 +98,7 @@ and any later Rust or TypeScript representation remain separately
 accountable. This passage supplies a classificatory procedure; it
 does not itself implement or authorize a software type system.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.03 unit, including its lead-in and the question that
 hands off to 5.04, has been checked against the running source. The

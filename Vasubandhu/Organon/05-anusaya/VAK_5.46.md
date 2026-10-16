@@ -19,14 +19,9 @@ fetter and bond classifications. The Bhāṣya establishes `upakleśa` as a broa
 mind-defiling designation that includes every kleśa as well as additional
 afflicted mental factors.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ye | api | anye | caitasāḥ | kliṣṭāḥ | saṃskāra-skandha-saṃjñitāḥ |
-kleśebhyaḥ | te | api | upakleśāḥ | te | tu | na | kleśa-saṃjñitāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ye ... te` | nominative plural masculine relative-correlative pair | those which ... they |
 | `api` | additive particle | also |
@@ -38,6 +33,11 @@ kleśebhyaḥ | te | api | upakleśāḥ | te | tu | na | kleśa-saṃjñitāḥ
 | `upakleśāḥ` | nominative plural masculine | mind-defilements or secondary afflictions |
 | `tu` | adversative particle | but, however |
 | `na kleśa-saṃjñitāḥ` | negation with nominative plural compound | not designated as kleśas |
+
+```text
+ye | api | anye | caitasāḥ | kliṣṭāḥ | saṃskāra-skandha-saṃjñitāḥ |
+kleśebhyaḥ | te | api | upakleśāḥ | te | tu | na | kleśa-saṃjñitāḥ
+```
 
 The governing construction is `anye kleśebhyaḥ`, “other than the kleśas.”
 The ablative is separative, not causal; the verse does not say that these
@@ -95,15 +95,9 @@ disjoint.
 
 ### Bhāṣya-informed study translation
 
-> Every kleśa is also an upakleśa insofar as it defiles citta. In addition,
-> other afflicted mental factors included in the formations aggregate and
-> distinct from the kleśas are upakleśas, although they do not receive the
-> stricter designation “kleśa.” The broader inventory is taught in the
-> Kṣudravastuka; here Vasubandhu will discuss only those included among the
-> paryavasthānas and the afflictive stains.
-
-The inclusion of every kleśa, the reference to the Kṣudravastuka, and the
-local scope restriction are supplied by the Bhāṣya.
+> Other afflicted mental factors in the formations aggregate, beyond those
+> designated kleśas, also count as upakleśas because they defile citta; they
+> do not themselves bear the narrower name kleśa.
 
 ## 6. Philosophical Translation
 

@@ -1,21 +1,17 @@
 # VAK 5.66 Bhāṣya — Meditative Bases of the Nine Parijñās
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> anāgamyaphalaṃ sarvā dhyānānāṃ pañca vāthavā |
-> aṣṭau sāmantakasyaikā maulārūpyatrayasya ca || 5.66 ||
+> anāgamya-phalaṃ sarvā dhyānānāṃ pañca vāthavā |
+> aṣṭau sāmantakasyaikā maulārūpya-trayasya ca || 5.66 ||
 
-> All nine *parijñās* may be fruits of *anāgamya*.
-> The fundamental dhyānas have five, or alternatively
-> eight, as fruits. The preliminary stage of the first
-> formless attainment has one; so do the three fundamental
-> formless attainments.
+> All nine *parijñās* can be fruits of *anāgamya*. The fundamental dhyānas
+> have five as fruits according to the Vaibhāṣikas, or eight according to
+> Bhadanta Ghoṣaka. The preliminary concentration for the sphere of infinite
+> space has one—the destruction of attachment to form—and each of the three
+> fundamental formless attainments has one: exhaustion of all fetters.
 
-The “five or eight” is a disagreement over attribution of
-fruits to a meditative basis, not a disagreement over the
-ninefold enumeration of 5.64–5.65.
-
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     anāgamyaphalaṃ sarvā dhyānānāṃ pañca vāthavā /
@@ -49,17 +45,19 @@ The complete distributed unit runs [323|13–324|02] in
 their agreement and spelling need later textual review.
 Line division and omission of the source's verse identifier
 are editorial.
+The “five or eight” is a disagreement over attribution of fruits to a
+meditative basis, not over the ninefold enumeration of 5.64–5.65.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 All the *parijñās* are fruits of *anāgamya*. For the
 fundamental dhyānas, according to the Vaibhāṣikas, five
 *parijñās* are fruits: those consisting in the abandonment
 of afflictions belonging to the form and formless domains.
-Abandonment of desire-domain afflictions is instead a fruit
+Abandonment of desire-realm afflictions is instead a fruit
 of *anāgamya*. According to Bhadanta Ghoṣaka, there are
 eight. He holds that even for one already free from desire
-the abandonment through seeing of desire-domain afflictions
+the abandonment through seeing of desire-realm afflictions
 is a fruit of the path of seeing, because an uncontaminated
 acquisition of disconnection is obtained. The *parijñā* of
 abandonment of the lower-part bonds, however, remains a
@@ -73,7 +71,7 @@ attachment to form as its fruit. The three fundamental
 formless attainments have only one kind of *parijñā* as
 fruit, the complete exhaustion of all fetters.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The nine completed abandonments have now been named. The
 new question is **which meditative basis can yield which
@@ -84,9 +82,9 @@ wide range; the assignment itself is the source claim.
 The Vaibhāṣika count for the fundamental dhyānas is five:
 the three higher-domain seeing-abandonments of 5.64 plus
 the form and final formless cultivation-abandonments of
-5.65. The desire-domain completions are attributed to
+5.65. The desire-realm completions are attributed to
 *anāgamya*. Ghoṣaka counts eight by also allowing the three
-desire-domain seeing-abandonments as fruits of the path of
+desire-realm seeing-abandonments as fruits of the path of
 seeing from a fundamental dhyāna. His reason is the fresh
 acquisition of **uncontaminated disconnection** even for
 one already free from desire. This exemplifies 5.63's
@@ -103,7 +101,7 @@ their fruit. The source does not assign a distinct final
 height of meditative level by itself imply a larger set of
 available abandonments.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Phala` is left as “fruit,” a
 relation between meditative basis and completed
@@ -122,7 +120,7 @@ why attribution needs an explicit doctrinal voice. This
 is a project-level representation of the source dispute,
 not a new resolution of it.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The full unit and transition to 5.67 were
 checked against the running IAST source. Ghoṣaka's compact

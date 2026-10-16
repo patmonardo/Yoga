@@ -17,14 +17,9 @@ anāsravās tridhātvantyatrayānāsravagocarāḥ || 5.31 ||
 The Bhāṣya treats this verse as the completion of the sixteen-citta by
 sixteen-dharma object-support ordering begun in VAK 5.29.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-nirodha-dṛk-heyāḥ | mārga-dṛk-heyāḥ | sarve | sva-adhika-gocarāḥ |
-anāsravāḥ | tri-dhātu-antya-traya-anāsrava-gocarāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `nirodha-dṛk-heyāḥ` | nominative plural compound | dharmas to be abandoned by seeing cessation |
 | `mārga-dṛk-heyāḥ` | nominative plural compound | dharmas to be abandoned by seeing the path |
@@ -33,6 +28,11 @@ anāsravāḥ | tri-dhātu-antya-traya-anāsrava-gocarāḥ
 | `anāsravāḥ` | nominative plural masculine | undefiled dharmas |
 | `tri-dhātu-antya-traya` | compound member | the final three citta-types in each of the three domains |
 | `anāsrava-gocarāḥ` | nominative plural compound | objects also of undefiled citta |
+
+```text
+nirodha-dṛk-heyāḥ | mārga-dṛk-heyāḥ | sarve | sva-adhika-gocarāḥ |
+anāsravāḥ | tri-dhātu-antya-traya-anāsrava-gocarāḥ
+```
 
 The bare compound `svādhika` could sound like an indefinite “own and
 additional” range. The Bhāṣya determines it exactly: the previously established
@@ -75,16 +75,11 @@ The final `anāsrava` adds undefiled citta itself.
 
 ### Bhāṣya-informed study translation
 
-> In every domain, dharmas abandoned by seeing cessation or seeing the path
-> retain the object-range previously established for that domain and add the
-> citta belonging to their own corresponding abandonment-class. Their ranges
-> therefore contain six cittas in the desire-domain, nine in the form-domain,
-> and eleven in the formless-domain. Undefiled dharmas are objects of ten
-> cittas: the cessation-seeing, path-seeing, and cultivation classes in each
-> of the three domains, together with undefiled citta.
-
-The additive operation, its resulting counts, and the identification of the
-“final three” are explicit determinations of the Bhāṣya.
+> In every domain, dharmas abandoned by seeing cessation or the path are
+> objects of their previously established range with their own corresponding
+> citta added. Undefiled dharmas are objects of the final three citta classes—
+> those abandoned by seeing cessation, seeing the path, and cultivation—in
+> each of the three domains, and of undefiled cognition.
 
 ## 6. Philosophical Translation
 

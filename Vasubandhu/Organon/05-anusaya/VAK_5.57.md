@@ -18,26 +18,26 @@ Having closed the feeling-association analysis of the principal kleśas, VAK
 5.57 begins the corresponding classification of the upakleśas. It divides
 seven factors between mental distress and its contrary, mental gladness.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-daurmanasyena | kaukṛtyam | īrṣyā | krodhaḥ | vihiṃsanam |
-upanāhaḥ | pradāśaḥ | ca | mātsaryam | tu | viparyayāt
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `daurmanasyena` | instrumental singular neuter | with mental distress or dejection |
 | `kaukṛtyam` | nominative singular neuter | regret or remorse; regarding something as badly done |
 | `īrṣyā` | nominative singular feminine | envy or jealousy |
 | `krodhaḥ` | nominative singular masculine | anger |
 | `vihiṃsanam` | nominative singular neuter | harmfulness or injurious intention |
-| `upanāhaḥ` | nominative singular masculine | rancor, retained hostility, grudge |
-| `pradāśaḥ` | nominative singular masculine | obstinate indignation or refusal of correction |
+| `upanāhaḥ` | nominative singular masculine | sustained resentment |
+| `pradāśaḥ` | nominative singular masculine | obstinate fault-clinging or refusal of correction |
 | `ca` | conjunction | and |
 | `mātsaryam` | nominative singular neuter | avarice or miserly withholding |
 | `tu` | contrastive particle | but, however |
 | `viparyayāt` | ablative singular | by reversal; with the contrary feeling |
+
+```text
+daurmanasyena | kaukṛtyam | īrṣyā | krodhaḥ | vihiṃsanam |
+upanāhaḥ | pradāśaḥ | ca | mātsaryam | tu | viparyayāt
+```
 
 The working Bhāṣya prose transmits `upanāhaṃ` where the kārikā has nominative
 `upanāhaḥ`. The witnesses are preserved as transmitted; no silent
@@ -71,25 +71,21 @@ the ellipsis explicit: `saumanasyena ity arthaḥ`.
 
 ### Literal Translation
 
-> Regret, envy, anger, harmfulness, rancor, and obstinate indignation are
+> Remorse, envy, anger, harmfulness, sustained resentment, and obstinate
+> fault-clinging are
 > [associated] with mental distress; avarice, however, by reversal [with the
 > contrary].
 
 ### Bhāṣya-informed study translation
 
-> Regret, envy, anger, harmfulness, retained hostility, and obstinate refusal
-> of correction are associated with mental distress, because they operate in
-> a mode of dejection and belong to the mental plane. Avarice, however, is
-> associated with the contrary—mental gladness—because it belongs to the
-> lineage of greed and operates in a mode of exhilaration.
-
-The operative modes and the greed-lineage explanation belong to the Bhāṣya;
-they articulate rather than replace the kārikā's twofold distribution.
+> Remorse, envy, anger, harmfulness, sustained resentment, and obstinate
+> fault-clinging are conjoined with mental distress. Avarice, by contrast,
+> is conjoined with mental gladness.
 
 ## 6. Philosophical Translation
 
-> Regret turns against what has been done; envy suffers another's good; anger,
-> harmfulness, rancor, and obstinate indignation sustain or intensify an
+> Remorse turns against what has been done; envy suffers another's good; anger,
+> harmfulness, sustained resentment, and obstinate fault-clinging sustain or intensify an
 > aversive relation. These derivative afflictions therefore occur under the
 > mental tone of dejection. Avarice has a different orientation: grounded in
 > greed, it takes satisfaction in retaining and withholding what is possessed.
@@ -121,12 +117,12 @@ An acute intensification of hostility in response to opposition or injury.
 The practical direction of hostility toward injuring or diminishing another.
 It is not identical with the painful feeling that accompanies it.
 
-**`Upanāha` — rancor or retained hostility**
+**`Upanāha` — sustained resentment**
 
-The continuation and preservation of anger after its immediate occasion: a
-hostile determination held within the continuum.
+The repeated enlargement of a basis of injury or resentment, as defined in
+5.50.
 
-**`Pradāśa` — obstinate indignation**
+**`Pradāśa` — obstinate fault-clinging**
 
 Hostile insistence that rejects correction and maintains a defective position
 or conduct. “Refusal of correction” preserves the functional emphasis of the

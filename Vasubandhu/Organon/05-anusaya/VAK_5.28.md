@@ -18,14 +18,9 @@ The Bhāṣya introduces the verse by testing whether abandonment (`prahāṇa`)
 disconnection (`visaṃyoga`) are equivalent. They are not: disconnection entails
 abandonment, but abandonment need not yet entail disconnection.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-prahīṇe | duḥkha-dṛk-gheye | saṃyuktaḥ | śeṣa-sarva-gaiḥ |
-prāk | prahīṇe | prakāre | ca | śeṣaiḥ | tad-viṣayaiḥ | malaiḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `prahīṇe` | locative singular past passive participle from `pra-√hā` | when it has been abandoned |
 | `duḥkha-dṛk-gheye` | locative singular compound, equivalent to `duḥkha-darśana-heye` | in the class to be abandoned by seeing suffering |
@@ -36,6 +31,13 @@ prāk | prahīṇe | prakāre | ca | śeṣaiḥ | tad-viṣayaiḥ | malaiḥ
 | `śeṣaiḥ` | instrumental plural | through the remaining ones |
 | `tad-viṣayaiḥ` | instrumental plural compound | having that as their object |
 | `malaiḥ` | instrumental plural masculine | through stains or defilements |
+
+Padaccheda: `prahīṇe | duḥkha-dṛk-gheye | saṃyuktaḥ |
+śeṣa-sarva-gaiḥ | prāk | prahīṇe | prakāre | ca |
+śeṣaiḥ | tad-viṣayaiḥ | malaiḥ`.
+The second clause carries forward `saṃyuktaḥ`; the Bhāṣya
+identifies the first remaining afflictions as those abandoned by
+seeing origination and the second setting as nine cultivation grades.
 
 The kārikā says `tadviṣaya`, “having that as object.” The Bhāṣya sharpens the
 same relation with `tadālambana`, “having that as object-support.”
@@ -70,6 +72,9 @@ and when a grade has previously been abandoned,
 `Saṃyuktaḥ` is carried forward from the first half. `Tadviṣayaiḥ` qualifies
 `malaiḥ`, and `śeṣaiḥ` distinguishes the grades not yet abandoned from the
 grade already removed.
+The Bhāṣya's opening question distinguishes abandonment of a class or
+grade from disconnection from it: the continuing bond comes through another
+affliction taking what was abandoned as its object.
 
 ## 5. Translation
 
@@ -82,15 +87,10 @@ grade already removed.
 
 ### Bhāṣya-informed study translation
 
-> Once the class abandoned by seeing suffering has been eliminated, the
-> practitioner may still be connected with it through universally ranging
-> afflictions abandoned only by the subsequent seeing of origination, because
-> these still take that class as object. Likewise, after one of the nine grades
-> abandoned through cultivation has been eliminated, the remaining grades can
-> continue the connection by taking the eliminated grade as their object.
-
-The specification of the two path intervals and the nine cultivation grades
-comes from the Bhāṣya.
+> After the class abandoned by seeing suffering has been removed, one remains
+> connected with it through the remaining universal afflictions; likewise,
+> after an earlier cultivation grade is removed, one remains connected with it
+> through defilements that still take that grade as their object.
 
 ## 6. Philosophical Translation
 

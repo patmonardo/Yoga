@@ -1,19 +1,20 @@
 # VAK 5.05 Bhāṣya — From Thirty-Six to Ninety-Eight
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > catvāro bhāvanāheyās ta evāpratighāḥ punaḥ |
 > rūpadhātau tathārūpye ity aṣṭānavatir matāḥ || 5.05 ||
 
-> Four are to be abandoned through cultivation. Those same classes,
-> again without resistance, occur in the form-domain and likewise in
-> the formless domain. Thus ninety-eight are held.
+> Four—attachment, resistance, conceit, and ignorance—are abandoned through
+> cultivation. The same thirty-sixfold desire-realm classification, with
+> resistance removed, recurs in the form domain and likewise in the formless
+> domain. Thus the anuśayas are reckoned as ninety-eight.
 
 The half-verses are interleaved with prose. In `ta eva`, “those same”
-resumes the completed desire-domain classification, not merely the
+resumes the completed desire-realm classification, not merely the
 four cultivation-abandoned kinds.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 catvāro bhāvanāheyāḥ.
@@ -57,7 +58,7 @@ The transmitted `śīlavrataparāmaṛśo`, `pañca mānāṃ`, and
 `āmidhārmikāṇām` are retained as rough readings. The research
 excerpt preserves them too.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 “Four are to be abandoned through cultivation”: attachment,
 resistance, conceit, and ignorance. They are abandoned through
@@ -80,18 +81,18 @@ given truth are themselves abandoned through seeing that truth;
 the remainder are abandoned through cultivation. Thus there are
 twelve views, four doubts, five attachments, five resistances, five
 conceits, and five instances of ignorance. These are thirty-six
-anuśayas belonging to the desire-domain.
+anuśayas belonging to the desire-realm.
 
-“Those same, again without resistance, in the form-domain”: removing
-the five modes of resistance leaves thirty-one in the form-domain.
+“Those same, again without resistance, in the form-realm”: removing
+the five modes of resistance leaves thirty-one in the form-realm.
 “Likewise in the formless domain”: there too are thirty-one.
 “Thus ninety-eight are held.” In this way, the Abhidharmikas hold
 that the six anuśayas amount to ninety-eight through distinctions
 of aspect, mode, and domain.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
-The commentary completes the desire-domain count begun in 5.04:
+The commentary completes the desire-realm count begun in 5.04:
 
 | Kind | Cases |
 |---|---:|
@@ -101,7 +102,7 @@ The commentary completes the desire-domain count begun in 5.04:
 | Resistance | 5 |
 | Conceit | 5 |
 | Ignorance | 5 |
-| **Desire-domain total** | **36** |
+| **desire-realm total** | **36** |
 
 The two higher domains repeat the classification minus the five
 resistance cases: `36 − 5 = 31` in each. Hence `36 + 31 + 31 = 98`.
@@ -118,7 +119,7 @@ the relevant truth's abandonment class is assigned to that seeing;
 the remainder are assigned to cultivation. This is the text's
 rule for generating the matrix, not mere arithmetic after the fact.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Mārgābhyāsa` is cultivation of the path
 after the truths have been seen; it does not erase the distinction
@@ -134,7 +135,7 @@ eventual formalization must preserve the source's distinctions
 before using them in our Science of Citta; no software behavior is
 claimed by this textual result.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.05 unit has been checked against the running source,
 including the split Kārikā halves. The one-mode status of

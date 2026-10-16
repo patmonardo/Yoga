@@ -1,15 +1,14 @@
 # VAK 5.42 Bhāṣya — Envy, Avarice, and a Counterexample
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > ekāntākuśalaṃ yasmāt svatantraṃ cobhayaṃ yataḥ |
 > īrṣyā-mātsaryam eṣūktaṃ pṛthak saṃyojana-dvayam || 5.42 ||
 
-> Because both are invariably unwholesome and independent,
-> envy and avarice are stated separately among these as two
-> fetters.
+> Because both envy and avarice are invariably unwholesome and independent,
+> they are each stated separately among these as a fetter.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 atha kasmād īṣryāmātsarye saṃyojane pṛthak
@@ -34,7 +33,7 @@ source reads `īṣryā` in the question and verse, while the
 official Kārikā study prints `īrṣyā`. This difference is
 preserved for textual review.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Why are envy and avarice each stated separately as a fetter,
 but no other enveloping affliction is? “Because both are
@@ -48,7 +47,7 @@ afflictions. But for someone who counts ten, anger and
 concealment also have both traits. Therefore, others say,
 this is not a sufficient answer.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The question follows the nine fetters of 5.41. Its
 comparison class is the *paryavasthānas*: why do envy and
@@ -68,7 +67,7 @@ and avarice are unwholesome or independent. The text leaves
 this challenge in place; no replacement criterion is given
 within the 5.42 unit.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Ekānta` gives the force of
 “invariably” in the first mark. `Svatantra` is kept as
@@ -87,7 +86,7 @@ members. This is a project-level formulation of the
 Bhāṣya's actual counterexample, separate from a settled
 source doctrine about which enumeration is final.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete question, verse, objection, and
 boundary with 5.43 were checked against the running IAST

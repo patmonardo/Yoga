@@ -1,19 +1,19 @@
 # VAK 5.18 Bhāṣya — Object and Association as Distinct Adherence
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> nānāsravordhvaviṣayā asvīkārād vipakṣataḥ |
+> nānāsravordhva-viṣayāḥ asvīkārād vipakṣataḥ |
 > yena yaḥ saṃprayuktas tu sa tasmin saṃprayogataḥ || 5.18 ||
 
-> Anuśayas with uncontaminated or higher objects do not adhere in
-> those objects, because the objects are not appropriated and stand
-> opposed. But an anuśaya associated with a dharma adheres in it
-> through that association.
+> Anuśayas directed toward uncontaminated or higher objects do not adhere in
+> them through their objects: they cannot appropriate them, and those objects
+> oppose them. But an unabandoned anuśaya adheres by conjunction in the
+> dharma with which it is associated.
 
 The first half qualifies 5.17's general rule of adherence through
 an object; the second gives adherence through association.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 nānāsravordhvaviṣayāḥ.
@@ -56,7 +56,7 @@ compressed final `syur ... syur` remain as transmitted. The
 research excerpt stops at [290|06] and omits the final two
 sentences; their exact conditional force remains provisional.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 “Those whose objects are uncontaminated or higher do not
 adhere.” Anuśayas taking uncontaminated supports do not adhere
@@ -90,7 +90,7 @@ adherence by object, and reopen the status of afflictions ranging
 across different levels. Their compressed syntax does not permit
 a more exact classification here without further witness work.
 
-## Argument and Voices
+## 4. Argument and Voices
 
 This passage distinguishes three relations: taking something as
 `ālambana`, appropriating it through self-view and thirst, and
@@ -113,7 +113,7 @@ the running explanation; the vāta analogy belongs to the
 reported alternative. Neither analogy should be converted into
 a literal physical substrate theory of anuśaya.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** The initial `nānāsrava-` divides as
 `na anāsrava-`, not as an independent “various.” `Asvīkāra`
@@ -132,7 +132,7 @@ affliction; one must determine how the object is taken up and
 which other factors participate. This remains a project-level
 use of the Kośa, separate from any implemented architecture.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.18 unit has been checked against the running
 source, including the two sentences omitted by the research

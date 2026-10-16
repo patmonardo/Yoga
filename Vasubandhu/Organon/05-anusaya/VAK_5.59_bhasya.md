@@ -1,24 +1,17 @@
 # VAK 5.59 Bhāṣya — Five Hindrances and Their Grounds
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> kāme nivaraṇāni ekavipakṣāhārakṛtyataḥ |
-> dvyekatā pañcatā skandhavidhātavicikitsanāt || 5.59 ||
+> kāme nivaraṇāny ekavipakṣāhārakṛtyataḥ |
+> dvayakaitāḥ pañcatā skandhavighātavicikitsanāt || 5.59 ||
 
-> The hindrances belong to the desire domain. Each pair
-> counts as one through a common counteragent, nourishment,
-> and function. They are five because of obstruction of the
-> Path aggregates and doubt.
+> The five hindrances belong to the desire-realm. Torpor with sleepiness and
+> restlessness with remorse each count as one because each pair shares a
+> counteragent, nourishment, and function. They are five because they obstruct
+> the Path-aggregates of discipline, concentration, and discernment, and leave
+> doubt concerning the Truths.
 
-This anchor follows the running Bhāṣya's distributed verse.
-The separate kārikā file prints `dvayakaitāḥ` and
-`skandhavighātavicikitsanāt`; the running text has
-`dvyekatā` and `skandhavidhātavicikitsanāt`. The prose
-explicitly glosses `dvyekatā` as `dvayor ekatā` and
-explains the latter compound as obstruction. These are
-real witness differences, not silently reconciled forms.
-
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 yāni sūtre pañca nivaraṇāni uktāni kāmacchando vyāpādaḥ
@@ -90,8 +83,11 @@ text's `nata` at two transitions, `dvyekatā`,
 `styānamiddhamauddhatyakaukṛtyaṃ` are retained. Line
 division and omission of the source's verse identifier are
 editorial; the syntax and variant readings need later review.
+The anchor copies the separate kārikā witness exactly. The running text's
+`dvyekatā` is glossed as `dvayor ekatā`; it also reads
+`skandhavidhāta` where the separate kārikā has `skandhavighāta`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 The sūtra teaches five hindrances: sensual desire, ill will,
 torpor and sleepiness, restlessness and remorse, and doubt.
@@ -99,7 +95,7 @@ Does it include torpor, restlessness, and doubt occurring in
 all three domains, or only those connected with the desire
 domain? The sūtra calls the five hindrances a complete mass
 of the unwholesome. Since they are declared exclusively
-unwholesome, the hindrances belong to the desire domain,
+unwholesome, the hindrances belong to the desire-realm,
 not another domain.
 
 Why are torpor and sleepiness, though two, called one
@@ -148,13 +144,13 @@ to obstruct calming and insight in the stated sequence.
 Even after emerging, doubt obstructs reflection on Dharma.
 That is why five hindrances are taught.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The first question fixes **domain**, not the possible range
 of each factor under every classification. The reason given
 is the cited sūtra's designation of the five hindrances as
 exclusively unwholesome. “Hindrance” here is the technical
-fivefold set in the desire domain; it does not deny that a
+fivefold set in the desire-realm; it does not deny that a
 factor bearing the same name may be discussed elsewhere.
 
 The paired factors retain their distinct names and
@@ -168,8 +164,8 @@ effects for each pair. Torpor and sleepiness tend toward
 readiness, not one generic “distraction.”
 
 The fivefold explanation concerns **śīla-, samādhi-, and
-prajñā-skandhas**, not the five aggregates of 5.58's
-earlier taxonomy. The first proposed assignment places
+prajñā-skandhas**, not the five appropriated aggregates.
+The first proposed assignment places
 torpor/sleepiness against discernment and
 restlessness/remorse against concentration. The prose then
 objects on grounds of **list order** and reports `apare`,
@@ -179,7 +175,7 @@ as competing explanations; it does not explicitly erase
 their disagreement or settle every mapping among
 `śamatha`, `vipaśyanā`, and doubt in the last account.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** The running verse's `dvyekatā`
 is translated through its explicit prose gloss, “unity of
@@ -200,7 +196,7 @@ functions. This is a project-level account of systematic
 classification; the source itself supplies the concrete
 pairings and preserves rival analyses.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The whole commentary unit, distributed verse,
 and opening boundary of 5.60 were checked against the

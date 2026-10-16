@@ -18,14 +18,9 @@ The verse concentrates the objections to the preferred Sarvāstivāda theory of
 VAK 5.26. The Bhāṣya then develops a positive alternative based on genuine
 arising, cessation, and transformation of the continuum.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kim | vighnam | tat | katham | na | anyat | adhva-yogaḥ | tathā |
-sataḥ | ajāta-naṣṭatā | kena | gambhīrā | khalu | dharmatā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kim` | interrogative pronoun | what? |
 | `vighnam` | nominative or accusative singular neuter | obstacle, impediment |
@@ -39,6 +34,12 @@ sataḥ | ajāta-naṣṭatā | kena | gambhīrā | khalu | dharmatā
 | `gambhīrā` | nominative singular feminine | profound, difficult to penetrate |
 | `khalu` | emphatic particle | indeed |
 | `dharmatā` | nominative singular feminine | nature or law of dharmas |
+
+Padaccheda: `kim | vighnam | tat | katham | na | anyat |
+adhva-yogaḥ | tathā | sataḥ | ajāta-naṣṭatā | kena |
+gambhīrā | khalu | dharmatā`. The Bhāṣya supplies `kāritra`
+as the referent of `tat` and places the final declaration in the
+Vaibhāṣika reply.
 
 The terse interrogatives summarize a longer exchange: what restricts function,
 whether function differs from the dharma, how temporal assignment is grounded,
@@ -84,6 +85,10 @@ the nature of dharmas is indeed profound
 
 The Bhāṣya places this after an extended dispute. It should not be treated as
 Vasubandhu's simple surrender of the problem to mystery.
+The longer commentary answers the arguments for substantial past and future
+existence through temporally qualified objects and a specially transformed
+continuum; these proposals belong to the Bhāṣya discussion, not the
+verse's question sequence.
 
 ## 5. Translation
 
@@ -95,18 +100,10 @@ Vasubandhu's simple surrender of the problem to mystery.
 
 ### Bhāṣya-informed study translation
 
-> If a dharma exists substantially in all three times, what prevents it from
-> functioning continuously? If operative activity differs from the dharma, its
-> own temporality must be explained; if it does not differ, how can it determine
-> the dharma as past, present, or future? And if future and past dharmas exist
-> just as the present does, by what are they genuinely unborn or destroyed?
-> Vasubandhu answers constructively: the past is what formerly occurred, the
-> future is what will occur when its cause is present, and delayed fruit arises
-> through a special transformation of the continuum rather than from a
-> substantially persisting past cause.
-
-The critique of substantial three-time existence, the contextual account of
-past and future, and `saṃtāna-viśeṣa` are developed in the Bhāṣya.
+> What obstructs that activity? How is it not distinct from the dharma? How
+> can something that exists in the same way belong to a particular time, and
+> by what is it unborn or destroyed? “The nature of dharmas is indeed
+> profound,” replies the Vaibhāṣika.
 
 ## 6. Philosophical Translation
 

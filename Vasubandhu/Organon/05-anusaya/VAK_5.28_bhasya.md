@@ -1,17 +1,16 @@
 # VAK 5.28 Bhāṣya — Abandonment and Disconnection
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > prahīṇe duḥkhadṛggheye saṃyuktaḥ śeṣasarvagaiḥ |
 > prāk prahīṇe prakāre ca śeṣais tadviṣayair malaiḥ || 5.28 ||
 
-> Even when the class abandoned by seeing suffering has been
-> abandoned, one remains bound to it through other universal
-> afflictions. Likewise, one can remain bound to a previously
-> abandoned grade through the remaining defilements that take
-> that grade as their object.
+> After the class abandoned by seeing suffering has been removed, one remains
+> connected with it through the remaining universal afflictions; likewise,
+> after an earlier cultivation grade is removed, one remains connected with it
+> through defilements that still take that grade as their object.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 idānīm idaṃ vicāryate: yad vastu prahīṇaṃ visaṃyuktaḥ
@@ -39,7 +38,7 @@ introduces the condensed account beginning in 5.29. Spacing,
 punctuation, and the joining of the running source's
 `visaṃ yuktaḥ` are editorial.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Now this is examined. If a `vastu` has been abandoned, is
 the person disconnected from that `vastu`? Conversely,
@@ -64,7 +63,7 @@ has been abandoned one must understand that connection with
 it can continue through remaining afflictions that take it
 as their support.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The Bhāṣya tests two implications. Disconnection from a
 `vastu` entails its abandonment for that person. The converse
@@ -88,7 +87,7 @@ does not say that the abandoned affliction itself remains
 operative. It locates the remaining bond in other afflictions
 whose object is the already abandoned class or grade.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Vastu` is kept as “object” or
 “matter” rather than being equated automatically with an
@@ -105,7 +104,7 @@ factor has ceased but which remaining factors still take
 that field as object. This relational reading is project-level;
 the specific path sequence remains the Kośa's doctrine.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The verse, its two examples, and the next
 question's boundary were checked against the running IAST

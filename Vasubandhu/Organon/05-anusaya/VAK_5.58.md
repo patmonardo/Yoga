@@ -24,20 +24,15 @@ pervasive factors compatible with all five feeling-faculties.
 `atho mrakṣo` and to `āhrīkya`. The corrupted prose forms remain untouched in
 the research witness and are not silently substituted into the verse.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-māyā | śāṭhyam | atho | mrakṣaḥ | middham | ca | ubhayathā |
-madaḥ | sukha-ābhyām | sarva-gā | upekṣā | catvāri | anyāni | pañcabhiḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `māyā` | nominative singular feminine | deception; falsification of outward presentation |
 | `śāṭhyam` | nominative singular neuter | crookedness; falsification or concealment of intention |
 | `atho` | connective particle | and further, then also |
 | `mrakṣaḥ` | nominative singular masculine | concealment of one's fault |
-| `middham` | nominative singular neuter | sleep as a derivative afflictive factor |
+| `middham` | nominative singular neuter | sleepiness as an afflicted factor here |
 | `ca` | conjunction | and |
 | `ubhayathā` | indeclinable adverb | in both ways: with mental gladness or distress |
 | `madaḥ` | nominative singular masculine | intoxication or inflated self-satisfaction |
@@ -46,6 +41,11 @@ madaḥ | sukha-ābhyām | sarva-gā | upekṣā | catvāri | anyāni | pañcabh
 | `upekṣā` | nominative singular feminine | neutral or equanimous feeling-faculty |
 | `catvāri anyāni` | nominative plural neuter | the other four specified paryavasthānas |
 | `pañcabhiḥ` | instrumental plural | with all five feeling-faculties |
+
+```text
+māyā | śāṭhyam | atho | mrakṣaḥ | middham | ca | ubhayathā |
+madaḥ | sukha-ābhyām | sarva-gā | upekṣā | catvāri | anyāni | pañcabhiḥ
+```
 
 `Sarvagā` agrees with `upekṣā`: equanimity “goes with all.” It does not turn
 equanimity into an affliction or assert that every equanimous event is
@@ -95,22 +95,18 @@ The Bhāṣya identifies the four as `āhrīkya`, `anapatrāpya`, `styāna`, and
 
 ### Literal Translation
 
-> Deception, crookedness, concealment, and sleep are [associated] in both
+> Deceit, crookedness, concealment, and sleepiness are [associated] in both
 > ways. Intoxication is [associated] with the two pleasant [feelings].
 > Equanimity goes with all. The other four are [associated] with all five.
 
 ### Bhāṣya-informed study translation
 
-> Deception, crookedness, concealment of faults, and sleep can be associated
-> with either mental gladness or mental distress. Intoxication is associated
-> with the feeling appropriate to its level: with mental gladness below the
-> third dhyāna, bodily pleasure in the third dhyāna, and equanimity above it.
-> Equanimity is compatible with all the anuśayas. The other four—shamelessness,
-> lack of moral concern, torpor, and excitation—are associated with all five
-> feeling-faculties.
-
-The level-sensitive account of mada and the identities and doctrinal grounds
-of the final four are supplied by the Bhāṣya.
+> Deceit, crookedness, concealment, and sleepiness are conjoined with either
+> mental gladness or mental distress. Intoxication is conjoined with mental
+> gladness below the third dhyāna, bodily pleasure in the third, and neutral
+> feeling above it; neutral feeling is compatible with all the anuśayas.
+> Shamelessness, lack of moral concern, torpor, and excitation are conjoined
+> with all five feeling-faculties.
 
 ## 6. Philosophical Translation
 
@@ -149,10 +145,10 @@ māyā even though both share the same twofold feeling range.
 
 Concealment of one's own fault, especially against disclosure or correction.
 
-**`Middha` — sleep**
+**`Middha` — sleepiness**
 
-Sleep classified here as a derivative afflictive factor. The verse concerns
-its possible feeling-conjunctions, not sleep without qualification in every
+Sleepiness classified here as a derivative afflictive factor. The verse concerns
+its possible feeling-conjunctions, not sleepiness without qualification in every
 context.
 
 **`Mada` — intoxication**

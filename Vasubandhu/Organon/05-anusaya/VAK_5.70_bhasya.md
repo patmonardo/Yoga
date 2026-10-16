@@ -1,19 +1,21 @@
 # VAK 5.70 Bhāṣya — Consolidation and Change of Parijñā Possession
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > tāsāṃ saṃkalanaṃ dhātuvairāgyaphalalābhataḥ |
-> ekāṃ dve pañca ṣaṭ kaścijjahātyāpnoti pañca na || 5.70 ||
+> ekāṃ dve pañca ṣaṭ kaścij jahāty āpnoti pañca na || 5.70 ||
 
-> Their consolidation follows dispassion from a domain and attainment
-> of a fruit. Someone relinquishes one, two, five, or six; one acquires
-> [one, two, or six], never five.
+> Previously distinct *parijñās* are established as one when dispassion from
+> a realm and attainment of a fruit coincide: the completed abandonments are
+> gathered under one designation. At the specified Path transitions, a
+> practitioner relinquishes one, two, five, or six *parijñās* and acquires
+> one, two, or six; no one acquires five.
 
 The first half answers 5.69's closing question about why the
 non-returner and arhat are each established with one *parijñā*. The
 second half accounts for changes in present possession.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 yasmāt
@@ -23,7 +25,7 @@ yasmāt
 dvābhyāṃ kāraṇābhyāṃ parijñānāṃ saṃkalanaṃ bhavatyekatvena
 vyavasthāpanaṃ dhātuvairāgyāt phalaprāptitaśca /
 tayoścāvasthayoretadubhayaṃ bhavati /
-tataḥ sarvaṃ prahāṇaṃ saṃkalayyaikā parijñocyate /
+ataḥ sarvaṃ prahāṇaṃ saṃkalayyaikā parijñocyate /
 
 atha kaḥ kati parijñāstyajati labhate vā /
 
@@ -55,7 +57,7 @@ Forms including `ānupoūrvikaḥ`, `apūrvā`, and `nai` are retained as
 transmitted. The fifth-chapter colophon at [326|15–326|16] follows the
 closure and is noted below rather than absorbed into the argument.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Because their consolidation occurs through dispassion from a domain
 and attainment of a fruit. Two causes bring about the consolidation
@@ -66,14 +68,14 @@ designated.
 
 Now who relinquishes or acquires how many *parijñās*? Someone
 relinquishes one, two, five, or six; one acquires [one, two, or six],
-but not five. One who falls from arhatship or from desire-domain
+but not five. One who falls from arhatship or from desire-realm
 dispassion relinquishes one. A non-returner free from passion for form
-who falls from desire-domain dispassion relinquishes two. One who was
+who falls from desire-realm dispassion relinquishes two. One who was
 previously free from passion relinquishes five at subsequent knowledge
 concerning the path: in acquiring the *parijñā* of abandonment of the
 lower-part fetters, that person relinquishes the former five. One
 proceeding in sequence relinquishes six upon attainment of
-desire-domain dispassion.
+desire-realm dispassion.
 
 The account of acquisition is analogous. Someone acquires one
 *parijñā*: any person who acquires one not previously possessed.
@@ -82,7 +84,7 @@ acquires two; someone who falls from the fruit of non-returning
 acquires six. No one acquires five. Thus the discussion of *parijñā*
 is complete.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 `Saṃkalana` is immediately glossed as `ekatvena vyavasthāpana`,
 establishment as one. The prose names two grounds, domain-dispassion
@@ -96,10 +98,10 @@ The four relinquishment counts name different transitions:
 
 | Relinquished | Stated transition |
 |---:|---|
-| 1 | Fall from arhatship or desire-domain dispassion |
-| 2 | Form-dispassionate non-returner falls from desire-domain dispassion |
+| 1 | Fall from arhatship or desire-realm dispassion |
+| 2 | Form-dispassionate non-returner falls from desire-realm dispassion |
 | 5 | Previously dispassionate practitioner reaches `mārga-anvayajñāna` and acquires the lower-part abandonment *parijñā* |
-| 6 | Sequential practitioner attains desire-domain dispassion |
+| 6 | Sequential practitioner attains desire-realm dispassion |
 
 Five is especially revealing: the prior five designations are
 relinquished **upon acquisition** of a more inclusive designation.
@@ -109,13 +111,13 @@ specific transition must determine what has been lost.
 
 Acquisition is asymmetric: the prose states one, two, and six, and
 explicitly excludes five. The two-count case follows loss of
-formless-domain dispassion alone; the six-count case follows loss of
+formless-realm dispassion alone; the six-count case follows loss of
 the non-returner's fruit. The text supplies these cases, but does not
 spell out a general proof that no conceivable path transition could
 produce five. Its categorical `pañca tu nai kaścillabhate` is retained
 as the doctrinal rule here.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Dhātu-vairāgya` means dispassion from a
 domain; `phala-lābha` is attainment of a fruit. `Saṃkalana` is
@@ -133,7 +135,7 @@ while acquiring a more inclusive one; a fall may change that set in
 another way. This is a project model of the source's path accounting,
 not a formalism attributed to Vasubandhu.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The unit was checked against the running IAST witness.
 The chapter closes after `samāptaḥ parijñāprasaṅgaḥ`; the following

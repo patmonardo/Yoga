@@ -1,15 +1,17 @@
 # VAK 5.32 Bhāṣya — Bearing Anuśaya and the First Genetic Sequence
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > dvidhā sānuśayaṃ kliṣṭam akliṣṭam anuśāyakaiḥ |
 > mohākāṅkṣā tato mithyādṛṣṭiḥ satkāyadṛk tataḥ || 5.32 ||
 
-> Defiled citta bears anuśaya in two ways; non-defiled
-> citta does so through anuśayas that actually adhere.
-> From delusion comes doubt, then false view, then self-view.
+> Defiled citta bears anuśaya in two ways: through anuśayas that adhere and
+> through conjoined anuśayas that no longer adhere. Non-defiled citta bears it
+> only through anuśayas that adhere by taking it as object. From delusion
+> arises doubt, from doubt false view, and from false view the view of the
+> aggregates as self.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 yair anuśayair yac cittaṃ sānuśayaṃ te 'nuśayās tasmiṃś
@@ -55,7 +57,7 @@ above are editorial. The source's `avidyāyyogāt` and
 `ityevmādi` are retained; their intended readings are
 recoverable in context but not silently repaired.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 If a citta is called `sānuśaya` through certain anuśayas,
 do those anuśayas actually adhere in it? Some do: those
@@ -84,7 +86,7 @@ is the example. From false view, it is said, self-view
 emerges: one rejects the aggregates as suffering and
 fixates on them as self.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The first half returns to a relation that the object matrix
 alone could not decide. `Sānuśaya`, “bearing anuśaya,” has
@@ -109,7 +111,7 @@ before the final transition marks the explanation as
 reported in the Bhāṣya's voice; its status should remain
 visible rather than made an unqualified psychological law.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Sānuśaya` is rendered “bearing
 anuśaya,” while `anuśerate` is “adheres”; they are not
@@ -130,7 +132,7 @@ That is a project-level analytical use of the Kośa, separate
 from a claim that the sequence exhausts all possible paths
 of thought or has been implemented in software.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete 5.32 unit and its boundary with
 5.33 were checked against the running IAST source. The

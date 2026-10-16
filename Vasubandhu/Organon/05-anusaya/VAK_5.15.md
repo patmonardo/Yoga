@@ -17,23 +17,24 @@ tad-gocarāṇāṃ viṣayo mārgo hy anyo 'nya-hetukaḥ || 5.15 ||
 The verse specifies the object-range of the cessation-oriented and
 path-oriented anuśayas identified in VAK 5.14.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sva-bhūmi-uparamaḥ | mārgaḥ | ṣaḍ-bhūmiḥ | nava-bhūmikaḥ |
-tad-gocarāṇām | viṣayaḥ | mārgaḥ | hi | anyaḥ | anya-hetukaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sva-bhūmi-uparamaḥ` | nominative singular masculine compound | cessation belonging to its own level |
 | `mārgaḥ` | nominative singular masculine | path |
-| `ṣaḍ-bhūmiḥ` | nominative singular masculine compound | belonging to six levels |
+| `ṣaḍ-bhūmi` | first member of the compound `ṣaḍbhūmi-navabhūmikaḥ` | the six-level side of the path |
 | `nava-bhūmikaḥ` | nominative singular masculine adjective | belonging to nine levels |
 | `tad-gocarāṇām` | genitive plural | of those whose cognitive range is that |
 | `viṣayaḥ` | nominative singular masculine | object, determinate field |
 | `hi` | explanatory particle | for, because |
 | `anyaḥ anya-hetukaḥ` | nominative singular construction | one has another as cause; one is causally related to another |
+
+Padaccheda: `sva-bhūmi-uparamaḥ | mārgaḥ |
+ṣaḍ-bhūmi-nava-bhūmikaḥ | tad-gocarāṇām | viṣayaḥ |
+mārgaḥ | hi | anyaḥ | anya-hetukaḥ`.
+The six- and nine-level designations are compressed into one compound;
+the Bhāṣya distributes them across the two knowledge-sides of the Path.
 
 The compact first pāda requires the Bhāṣya to distribute the six- and
 nine-level predicates. They do not qualify cessation: they distinguish two
@@ -64,7 +65,7 @@ is the object of those whose range is that
 ```
 
 The Bhāṣya resolves the compressed construction: the six-level
-`dharmajñāna` side is the object for desire-domain path-oriented anuśayas; the
+`dharmajñāna` side is the object for desire-realm path-oriented anuśayas; the
 nine-level `anvayajñāna` side is the object for those of the form and formless
 domains.
 
@@ -79,6 +80,8 @@ for one path has another as cause
 The distributive force of `anyaḥ ... anya-` expresses causal connection among
 distinct path moments. The Bhāṣya also speaks of mutual causality, while still
 restricting object-range according to counteragent function.
+The restriction by `pratipakṣa`, counteragent function, belongs to the
+Bhāṣya's subsequent objections and qualifies the path's possible range.
 
 ## 5. Translation
 
@@ -90,15 +93,9 @@ restricting object-range according to counteragent function.
 
 ### Bhāṣya-informed study translation
 
-> An anuśaya taking cessation as object takes only the cessation of its own
-> level. For desire-domain anuśayas taking path as object, the six-level path
-> on the side of `dharmajñāna` is their cognitive support. For path-oriented
-> anuśayas of the form and formless domains, the nine-level path on the side of
-> `anvayajñāna` is their support, because distinct path moments stand in causal
-> relations to one another.
-
-The allocation of the two level-counts and the restriction by counteragent
-function are supplied by the Bhāṣya.
+> Cessation is confined to its own level. Those whose range is the Path take
+> as object the six-level dharmajñāna Path or the nine-level anvayajñāna Path,
+> according to domain, since one path is a cause of another.
 
 ## 6. Philosophical Translation
 
@@ -127,7 +124,7 @@ structure.
 
 **`Svabhūmy-uparama` — cessation of one's own level**
 
-For an anuśaya belonging to the desire domain, only cessation of the desire
+For an anuśaya belonging to the desire-realm, only cessation of the desire
 domain is its cessation-object; the same own-level rule continues through the
 summit of existence. Cessation is determinate termination, not bare absence.
 
@@ -139,21 +136,21 @@ mere spatial location.
 
 **`Dharmajñāna-pakṣa` — the dharma-knowledge side of the path**
 
-The Bhāṣya assigns this six-level path to the object-range of desire-domain
+The Bhāṣya assigns this six-level path to the object-range of desire-realm
 path-oriented anuśayas. Its fuller determination belongs to the later Path
 and Knowledge chapters.
 
 **`Anvayajñāna-pakṣa` — the subsequent or corresponding-knowledge side**
 
 The Bhāṣya assigns this nine-level path to the object-range of form- and
-formless-domain path-oriented anuśayas, including levels not directly seen.
+formless-realm path-oriented anuśayas, including levels not directly seen.
 The provisional English remains subordinate to its later technical analysis.
 
 **`Pratipakṣa` — counteragent**
 
 Object-range is not established by causal connectedness alone. The Bhāṣya
-notes that `anvayajñāna` is not the counteragent to the desire domain; hence
-desire-domain path-oriented anuśayas do not take that side as support.
+notes that `anvayajñāna` is not the counteragent to the desire-realm; hence
+desire-realm path-oriented anuśayas do not take that side as support.
 
 **`Anyo 'nya-hetuka` — one path caused by another**
 

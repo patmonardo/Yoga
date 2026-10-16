@@ -14,34 +14,28 @@
 ahetvamārge tad-dṛṣṭir etās tāḥ pañca dṛṣṭayaḥ || 5.7 ||
 ```
 
-VAK 5.03 named five views. VAK 5.07 determines their intrinsic character
-(`svabhāva`) through five compressed predicative contents.
+## 3. Lexical Analysis
 
-## 3. Padaccheda and Lexical Analysis
-
-```text
-ātma-ātmīya-dṛṣṭiḥ |
-dhruva-uccheda-dṛṣṭiḥ |
-nāsti-dṛṣṭiḥ |
-hīna-agra-dṛṣṭiḥ |
-ahetu-amārge | tad-dṛṣṭiḥ |
-etāḥ | tāḥ | pañca | dṛṣṭayaḥ
-```
-
-| Expression | Morphological force | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `ātma-ātmīya` | coordinated nominal compound | self or belonging to self |
-| `dhruva-uccheda` | coordinated nominal compound | permanence or annihilation |
-| `na asti` | negative existential judgment | it does not exist |
-| `hīna-agra` | object-predicate relation in compression | the inferior as highest |
-| `ahetu` | privative compound | what is not a cause |
-| `amārga` | privative compound | what is not a path |
-| `tad-dṛṣṭiḥ` | nominative singular feminine | the view of that |
-| `etāḥ tāḥ pañca dṛṣṭayaḥ` | nominative plural feminine | these are those five views |
+| ātma-ātmīya | compound members; masculine noun and possessive adjective | self or what belongs to self |
+| dhruva-uccheda | compound members; adjective and masculine noun | permanence or annihilation |
+| na-asti | negative particle with present verb | the judgment “it does not exist” |
+| hīna-agra | compound members; adjective and neuter noun | the inferior taken as highest |
+| dṛṣṭayaḥ | noun; feminine; nominative plural (lemma: dṛṣṭi) | the views compressed in the first half-verse |
+| ahetu | privative compound; masculine noun | what is not a cause |
+| amārge | privative compound; masculine; locative singular | in what is not a path |
+| tad-dṛṣṭiḥ | compound noun; feminine; nominative singular | the view taking those as cause or path |
+| etāḥ | pronoun; feminine; nominative plural (lemma: etad) | these just defined |
+| tāḥ | pronoun; feminine; nominative plural (lemma: tad) | those five named in 5.03 |
+| pañca | numeral | five |
+| dṛṣṭayaḥ | noun; feminine; nominative plural (lemma: dṛṣṭi) | the five views resumed in the closing judgment |
 
-The local source contains typographical compression around
-`hīnāgra-dṛṣṭayaḥ`. The separation follows the grammar resolved by the
-Bhāṣya rather than reproducing source-label noise.
+The first half-verse compresses several defining contents under the plural
+*dṛṣṭayaḥ*. The Bhāṣya distributes them across five named views. The local
+source has spacing and transliteration damage near *hīnāgra-dṛṣṭayaḥ*;
+the separation here follows the Bhāṣya's syntax without silently changing
+the running witness.
 
 ## 4. Grammar
 
@@ -88,16 +82,11 @@ previously enumerated.
 
 ### Bhāṣya-informed study translation
 
-> The five views are: taking the five aggregates of appropriation as self or
-> belonging to self; regarding that supposed self as permanent or annihilated;
-> denying truths such as suffering that in fact obtain; elevating what belongs
-> to the inferior, sāsrava field as supreme; and taking what is not an
-> effective cause or liberating path as cause or path.
-
-The Bhāṣya defines `satkāya` as the five aggregates of appropriation, specifies
-the object of the two extremes, fixes the paradigmatic range of `nāsti`,
-identifies the inferior with the sāsrava field, and supplies examples of false
-causal and Path attribution.
+> These are the five views: seeing the five aggregates of appropriation as
+> self or belonging to self; seeing that supposed self as permanent or
+> annihilated; saying of an existing truth that it does not exist; taking
+> what is inferior as supreme; and seeing a non-cause as cause or a non-path
+> as Path.
 
 ## 6. Philosophical Translation
 

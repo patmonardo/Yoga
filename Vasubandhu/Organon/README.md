@@ -16,6 +16,11 @@ around the Essence:Form Engine; it is an entry into that architecture, not a
 bare glossary. It precedes, and remains distinct from, any occurrence
 concordance.
 
+[Volume III technical expressions](../Essays/technical-expressions-vol-iii.md)
+begins the controlled vocabulary for Anuśaya–Mārga and Jñāna–Samāpatti.
+Its chapter-level determinations are applied and revised one kārikā at a
+time.
+
 [Dharma Principle Dossier](../Essays/dharmadhatu-dossier.md) gathers the chapter's
 Dharmadhātu witnesses in a source-first study sequence and keeps its Pure
 Māyā inquiry explicitly separate from the Kośa's stated classifications.
@@ -49,12 +54,11 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   sections.
 - Draft and settle the Bhāṣya-informed kārikā translation in the kārikā
   study, one verse at a time, using the corresponding Sanskrit Bhāṣya to
-  determine compressed wording. This is the kārikā translation intended
-  for the paired Bhāṣya study. Transfer it there only after it has been
-  reviewed; that transfer is a later editing pass. The literal rendering
-  stays a syntactic check in the kārikā study and is not carried over by
-  default. The Bhāṣya's continuous conventional translation translates
-  the commentary passage in its own right.
+  determine compressed wording. Copy the settled translation exactly into
+  the paired Bhāṣya's Kārikā Anchor during that verse's review. The literal
+  rendering stays a syntactic check in the kārikā study. The Bhāṣya's
+  continuous conventional translation translates the commentary passage
+  in its own right.
 - Every kārikā study uses the same ten numbered stage headings, in the same
   order: Sanskrit (Devanāgarī), Sanskrit (IAST), Lexical
   Analysis, Grammar, Translation, Philosophical Translation,
@@ -78,6 +82,37 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   explicitly.
 - Each study remains provisional until it has been read and critically
   reviewed.
+
+## Bhāṣya Method
+
+Number every top-level Bhāṣya section consecutively. The opening and closing
+sections are:
+
+1. `Kārikā Anchor`
+2. `Continuous Sanskrit` (or `Continuous Sanskrit Witness` when needed)
+3. `Continuous Conventional Translation`
+4. A section tracing the Bhāṣya's argument, such as `Movement of the Commentary`
+5. Further source-specific analysis, translation decisions, and Organon study,
+   each with the next section number
+6. `Review Status`, with the next and final section number
+
+Thus `## 1. Kārikā Anchor` begins every reviewed Bhāṣya study, and the
+numbers continue without gaps to `Review Status`. The middle is determined
+by the passage; the list above does not impose a fixed total of six sections.
+
+Under the one anchor heading, place the Sanskrit kārikā first, then one
+English block quote: the exact **Bhāṣya-informed study translation** from
+section 5 of the paired kārikā study. Do not add a `Literal Translation` or
+`Bhāṣya-informed study translation` subheading inside the anchor. Put any
+explanation of the translation after the quote, or in the Bhāṣya analysis.
+The anchor gives the reader the verse and its settled reading; the continuous
+conventional translation gives the Bhāṣya prose.
+
+Check the chapter's technical expressions during each verse review. Establish
+the Sanskrit term's local force, the English used in translation, and any
+Organon determination in their respective layers. Add or revise a controlled
+expression when the passage requires it; do not stamp a chapter-wide gloss
+onto each occurrence.
 
 ## Chapter Sequence
 

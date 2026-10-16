@@ -19,14 +19,9 @@ the same completed abandonments by comprehensive Path-class, determinate
 knowledge-operation, and the wider operative side to which a knowledge
 belongs.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ārya-mārgasya | sarvāḥ | dve | laukikasya | anvayasya | ca |
-dharma-jñānasya | tisraḥ | tu | ṣaṭ | tat-pakṣasya | pañca | ca
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `āryamārgasya` | genitive singular masculine | of the noble path |
 | `sarvāḥ` | nominative plural feminine | all nine parijñās |
@@ -40,6 +35,11 @@ dharma-jñānasya | tisraḥ | tu | ṣaṭ | tat-pakṣasya | pañca | ca
 | `ṣaṭ` | numeral | six |
 | `tat-pakṣasya` | genitive singular masculine | of its side, the dharmajñāna family |
 | `pañca` | numeral | five, of the other knowledge-side |
+
+```text
+ārya-mārgasya | sarvāḥ | dve | laukikasya | anvayasya | ca |
+dharma-jñānasya | tisraḥ | tu | ṣaṭ | tat-pakṣasya | pañca | ca
+```
 
 The final `pañca` is supplied by the Bhāṣya as the count for the
 `anvayajñāna-pakṣa`. The compact `tatpakṣa` clause cannot be safely expanded
@@ -89,16 +89,10 @@ knowledge-event.
 
 ### Bhāṣya-informed study translation
 
-> All nine parijñās are fruits of the noble path. The mundane path has two as
-> fruits: abandonment of the lower-part fetters and destruction of attachment
-> to form. `Anvayajñāna` has the last two parijñās as fruits, whereas
-> `dharmajñāna` has the last three because it counters cultivation-abandonable
-> afflictions in all three domains. When each knowledge is taken together with
-> the corresponding patience- and knowledge-moments, the dharmajñāna-side has
-> six parijñās as fruits and the anvayajñāna-side five.
-
-The verse classifies shared results from several valid standpoints; it does
-not divide the nine into six mutually exclusive inventories.
+> All nine *parijñās* are fruits of the noble path. Two are fruits of the
+> mundane path and two of *anvayajñāna*; three are fruits of *dharmajñāna*.
+> When the corresponding *kṣānti* and *jñāna* moments are counted together,
+> the *dharmajñāna* side has six as fruits and the *anvayajñāna* side five.
 
 ## 6. Philosophical Translation
 
@@ -148,10 +142,10 @@ Its fruits are the final three parijñās. The Bhāṣya's exact ground is
 `tridhātuka-bhāvanāheya-pratipakṣatva`: it functions as counteragent to
 cultivation-abandonable afflictions throughout all three domains.
 
-**Object-range and counteractive range**
+**Reference range and counteractive range**
 
-Dharmajñāna is named in relation to the desire-domain truths, yet its
-cultivation-path efficacy extends through all three domains. The object after
+Dharmajñāna is named in relation to the desire-realm truths, yet its
+cultivation-path efficacy extends through all three domains. The truth-range after
 which a knowledge is named does not by itself delimit every operation it can
 perform.
 
@@ -233,9 +227,9 @@ operation a completed abandonment counts as fruit.
 real parijñā completions. The passage does not reduce them to mere temporary
 appearance, yet it reserves the complete ninefold range for the noble Path.
 
-**Object does not exhaust efficacy.** Dharmajñāna's name is desire-domain
+**Reference does not exhaust efficacy.** Dharmajñāna's name is desire-realm
 indexed, but its counteractive function on the cultivation path spans all
-three domains. Object-relation and operational range must be modeled
+three domains. Its truth-reference and operational range must be modeled
 separately.
 
 **Knowledge versus knowledge-family.** Moving from `jñāna` to `pakṣa` changes

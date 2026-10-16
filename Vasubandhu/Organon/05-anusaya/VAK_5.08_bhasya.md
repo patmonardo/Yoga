@@ -1,18 +1,18 @@
 # VAK 5.08 Bhāṣya — Causal Fixation and Its Limit
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> īśvarādiṣu nityātmaviparyāsāt pravartate |
-> kāraṇābhiniveśo 'to duḥkhadṛggheya eva saḥ || 5.08 ||
+> īśvarādiṣu nityātma-viparyāsāt pravartate |
+> kāraṇābhiniveśo 'to duḥkha-dṛg-gheya eva saḥ || 5.8 ||
 
-> Fixation upon a cause such as Īśvara proceeds from inversion
-> concerning permanence and self. Therefore it is to be abandoned
-> precisely through seeing suffering.
+> With regard to Īśvara and the like, fixation on a cause arises from taking
+> that supposed cause as permanent and as self; therefore this fixation is
+> abandoned precisely through seeing suffering.
 
 The argument begins with a question left by the definition of
 `śīlavrataparāmarśa` in 5.07 and ends with a critical reservation.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 satyakāraṇe kāraṇadṛṣṭiḥ śilavrataparāmarśaḥ. kasmād ayaṃ na
@@ -63,7 +63,7 @@ The opening `satyakāraṇe` is especially compressed: the exact force
 of “a true/actual cause” needs witness comparison and the following
 argument, rather than a quick doctrinal paraphrase.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 A view of a cause in connection with an actual causal matter can be
 adherence to discipline and observance. Why is it not abandoned
@@ -104,7 +104,7 @@ to what is abandoned through seeing origination or cessation,
 why is that view not abandoned through seeing the respective
 truth? **Therefore this matter must be examined.**
 
-## Argument and Voices
+## 4. Argument and Voices
 
 The initial genetic explanation is clear within its scope:
 fixation on a creator-cause follows grasping that supposed cause
@@ -126,7 +126,7 @@ speaker is attached to them here.
 a reason for the creator-cause case but does not claim to have
 settled every case of `śīlavrataparāmarśa` by one effortless rule.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Kāraṇābhiniveśa` is “causal fixation,”
 not neutral inquiry into causes. `Viparyāsa` is inversion, and
@@ -143,7 +143,7 @@ reservation prevents a neat universal mapping from each error to
 exactly one corrective truth. Any formalization of the path
 matrix must preserve that unresolved source pressure.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.08 exchange has been checked against the running
 source, including the quotation and the terminal reservation.

@@ -1,18 +1,18 @@
 # VAK 5.14 Bhāṣya — Six With Uncontaminated Supports
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> mithyādṛgvimatī tābhyāṃ yuktā 'vidyā 'tha kevalā |
-> nirodhamārgadṛggheyāḥ ṣaḍ anāsravagocarāḥ || 5.14 ||
+> mithyādṛg-vimatī tābhyāṃ yuktāvidyātha kevalā |
+> nirodha-mārga-dṛg-gheyāḥ ṣaḍ anāsrava-gocarāḥ || 5.14 ||
 
-> False view, doubt, and ignorance associated with those two or
-> independent of them: six cases abandoned through seeing cessation
-> and the path have uncontaminated cognitive supports.
+> False view and doubt, ignorance associated with them and independent
+> ignorance: these six, abandoned through seeing cessation or the Path,
+> range over uncontaminated cognitive supports.
 
 This is a classification of the anuśaya's **support**, not a
 statement that the affliction itself is uncontaminated.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 eṣām aṣṭānavater anuśayānāṃ kati sāsravālambanāḥ
@@ -38,7 +38,7 @@ suggests associated and independent ignorance, but the exact
 wording requires comparison with another witness. The research
 excerpt repeats the same damaged sequence.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Of the ninety-eight anuśayas, how many take a support with outflows
 and how many a support without outflows? The verse identifies
@@ -56,7 +56,7 @@ uncontaminated cognitive supports. The remainder are thereby
 established as having supports with outflows. “Now, concerning
 these further—” leads into the next unit.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The count is three types in each of two truth-specific classes:
 
@@ -78,7 +78,7 @@ for the path. It would be wrong to count the two ignorance
 descriptions as two additional entries in each truth-specific
 set without further source evidence.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Sāsrava` and `anāsrava` are kept as
 technical status terms, glossed here as “with outflows” and
@@ -94,7 +94,7 @@ does not itself guarantee adequate cognition of it. This is a
 project inference from the source's relational classification,
 not an additional doctrine in the Kārikā.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.14 unit has been checked against the running
 source and stops at the handoff to 5.15. The damaged ignorance

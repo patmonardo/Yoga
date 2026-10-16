@@ -1,18 +1,17 @@
 # VAK 5.69 Bhāṣya — Present Possession of the Parijñās
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > naikayā pañcabhiryāvad darśanasthaḥ samanvitaḥ |
 > bhāvanāsthaḥ punaḥ ṣaḍbhir ekayā vā dvayena vā || 5.69 ||
 
-> One standing in seeing is endowed with none, then with as many as five;
-> one standing in cultivation, in turn, with six, or one, or two.
+> One standing in the Path of Seeing is endowed first with no *parijñā*,
+> then with one through five as seeing proceeds. One standing in cultivation
+> has six if desire-realm dispassion has not been attained or has been lost;
+> with the specified dispassions and attainments, that practitioner is endowed
+> instead with one or two *parijñās*.
 
-The question is `kaḥ katibhiḥ parijñābhiḥ samanvāgataḥ`: who is endowed
-with how many *parijñās*? The numbers describe present endowment at
-specified path positions, not the number of abandonments ever produced.
-
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 kaḥ katibhiḥ parijñābhiḥ samanvāgataḥ /
@@ -50,8 +49,11 @@ This is the running witness at [325|12–325|25] in
 through the prose. Indentation, line breaks, and omission of the source
 identifier are editorial; witness forms such as `ṣaṅbhir`, `ṣaḍibhiḥ`,
 `tisṛbhhir`, and `dvabhyām` are retained rather than silently repaired.
+The question is `kaḥ katibhiḥ parijñābhiḥ samanvāgataḥ`: who is endowed
+with how many *parijñās*? The numbers describe present endowment at
+specified Path positions, not the number of abandonments ever produced.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Who is endowed with how many *parijñās*? One standing in the path of
 seeing is endowed first with none and then with as many as five. An
@@ -66,21 +68,21 @@ concerning the path, with five.
 One standing in the path of cultivation is endowed with six, or with
 one, or with two. At subsequent knowledge concerning the path, the noble
 person on the cultivation path is endowed with six *parijñās* so long
-as desire-domain dispassion has not been attained, **or has been lost**.
-Someone who has attained desire-domain dispassion, whether before or
+as desire-realm dispassion has not been attained, **or has been lost**.
+Someone who has attained desire-realm dispassion, whether before or
 after, is endowed with one: the *parijñā* of abandonment of the
 lower-part fetters. Someone who has attained arhatship is likewise
 endowed with one, but this is the *parijñā* of complete exhaustion of
-all fetters. Even one who has fallen through a form-domain afflictive
+all fetters. Even one who has fallen through a form-realm afflictive
 envelopment is endowed with the one *parijñā* of abandonment of the
 lower-part fetters. One who has attained dispassion from form is endowed
 with two: abandonment of the lower-part fetters and exhaustion of
-attachment to form. Even after a fall through a formless-domain
+attachment to form. Even after a fall through a formless-realm
 afflictive envelopment, one remains endowed with those same two.
 Why, then, is only one *parijñā*, rather than more, established for the
 non-returner and the arhat?
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The seeing-path count is fixed to knowledge moments: none through
 `samudaya-dharmajñāna-kṣānti`; one at `samudaya-dharmajñāna`; two at
@@ -90,7 +92,7 @@ possession sequence, while 5.68 explained why an earlier individual
 abandonment does not yet qualify for the technical name *parijñā*.
 
 At `mārga-anvayajñāna` the count becomes six for the cultivation-path
-person without desire-domain dispassion. The clause `parihīṇo vā tataḥ`
+person without desire-realm dispassion. The clause `parihīṇo vā tataḥ`
 also belongs to this six-count case: **or one who has fallen from that
 dispassion**. The next words, `kāmavairāgyaṃ prāptaḥ pūrvaṃ paścād vā`,
 start the one-count case, whether that dispassion was attained earlier
@@ -100,10 +102,10 @@ The running source has no punctuation to settle the split by itself;
 the two finite possession predicates and the contrast of six with one
 support this construal. It remains a marked interpretive decision.
 
-Equal counts need not have equal content. Desire-domain dispassion
+Equal counts need not have equal content. desire-realm dispassion
 brings the *avarabhāgīya-prahāṇa-parijñā*; arhatship brings the
 *sarva-saṃyojana-paryādāna-parijñā*. Each counts as one, with a
-different range of abandonment. Form-domain dispassion brings two;
+different range of abandonment. form-realm dispassion brings two;
 the specified form or formless afflictive falls leave the stated
 one- or twofold possession in place. These are determinate cases of
 *samanvāgama*, not a counter that must increase with progress.
@@ -112,7 +114,7 @@ The closing question asks why the non-returner and arhat each have
 only one established *parijñā*. The answer through *saṃkalana* belongs
 to 5.70; this unit raises the question and stops there.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Samanvāgata` and `samanvita` mean “endowed
 with” in the technical, present-possession question. `Naikayā` is read
@@ -129,7 +131,7 @@ the identities of the completed abandonments at that position.
 That is a proposed representation of the source's distinctions, not
 Vasubandhu's own formal vocabulary.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete unit and its boundary with 5.70 were checked
 against the running IAST witness. The punctuation of `parihīṇo vā

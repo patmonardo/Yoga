@@ -19,14 +19,9 @@ is mixed into the appropriation-complexes, while the former view-yoke is
 divided into appropriation through views and appropriation through discipline
 and observance.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-yathā-uktāḥ | eva | sa-avidyāḥ | dvidhā | dṛṣṭi-vivecanāt |
-upādānāni | avidyā | tu | grāhikā | na | iti | miśritā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `yathā-uktāḥ eva` | nominative plural masculine with restrictive particle | precisely those previously stated, namely the yokes |
 | `sa-avidyāḥ` | nominative plural masculine compound | together with ignorance |
@@ -37,6 +32,11 @@ upādānāni | avidyā | tu | grāhikā | na | iti | miśritā
 | `grāhikā` | nominative singular feminine agent adjective | grasping or seizing |
 | `na iti` | negation followed by reason-marking `iti` | on the ground that it is not |
 | `miśritā` | nominative singular feminine past passive participle | mixed or included in combination |
+
+```text
+yathā-uktāḥ | eva | sa-avidyāḥ | dvidhā | dṛṣṭi-vivecanāt |
+upādānāni | avidyā | tu | grāhikā | na | iti | miśritā
+```
 
 `Upādāna`, from `upa-ā-√dā`, denotes taking up, laying hold of, or
 appropriating. Here it names a functional classification of afflictions, not a
@@ -84,17 +84,9 @@ sharp.
 
 ### Bhāṣya-informed study translation
 
-> The previously established yokes become four appropriations when ignorance
-> is distributed into them and the view-yoke is divided in two. Desire-yoke
-> with ignorance becomes appropriation of desire; existence-yoke with
-> ignorance becomes appropriation of self-doctrine; thirty of the views become
-> appropriation through views; and the six discipline-and-observance views
-> become their own appropriation. Ignorance does not constitute a fifth
-> appropriation because its non-discerning, unsharp operation does not itself
-> seize; it is therefore included within the other appropriation-complexes.
-
-The identities of the four classes, their exact counts, and the reasons for
-separating discipline-and-observance are supplied by the Bhāṣya.
+> The yokes just described, with ignorance included, become four
+> appropriations when the views are divided into two. Ignorance is mixed into
+> them rather than counted separately, because it does not itself grasp.
 
 ## 6. Philosophical Translation
 
@@ -120,7 +112,7 @@ The Bhāṣya explains the term through `bhava-grahaṇa`, grasping existence.
 
 **`Kāmopādāna` — appropriation of desire**
 
-The desire-yoke recombined with desire-domain ignorance: thirty-four items,
+The desire-yoke recombined with desire-realm ignorance: thirty-four items,
 consisting of twenty instances of craving, hostility, conceit, and ignorance,
 four doubts, and ten paryavasthānas.
 

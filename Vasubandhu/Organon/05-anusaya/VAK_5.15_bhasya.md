@@ -1,19 +1,19 @@
 # VAK 5.15 Bhāṣya — Own-Level Cessation and the Path's Range
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> svabhūmyuparamo mārgaḥ ṣaḍbhūminavabhūmikaḥ |
-> tadgocarāṇāṃ viṣayo mārgo hy anyo 'nyahetukaḥ || 5.15 ||
+> svabhūmy-uparamo mārgaḥ ṣaḍbhūmi-navabhūmikaḥ |
+> tad-gocarāṇāṃ viṣayo mārgo hy anyo 'nya-hetukaḥ || 5.15 ||
 
-> Cessation belongs to one's own level; the path, of six or nine
-> levels, is the object of those whose range is the path, because
-> path moments stand in causal relation to one another.
+> Cessation is confined to its own level. Those whose range is the Path take
+> as object the six-level dharmajñāna Path or the nine-level anvayajñāna Path,
+> according to domain, since one path is a cause of another.
 
 The first clause carries `nirodha` from 5.14. The Bhāṣya
 distributes the six- and nine-level qualifications across the
 two knowledge-sides of the path.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 tatra punaḥ:
@@ -53,15 +53,15 @@ The research excerpt stops at [288|18] and omits the final
 objection about whether the dharmajñāna side could support
 higher-domain afflictions.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 For false view and the other anuśayas that take cessation as
 support, only the cessation of their own level is their support:
-for desire-domain anuśayas, only cessation of the desire-domain,
+for desire-realm anuśayas, only cessation of the desire-realm,
 and so on up to those at the summit of existence, for which the
 cessation of that summit alone is the support.
 
-For desire-domain anuśayas taking the path as support, the whole
+For desire-realm anuśayas taking the path as support, the whole
 six-level path on the side of `dharmajñāna` is their support,
 including its portion that counteracts the form and formless
 domains. For afflictions belonging to those higher domains,
@@ -72,8 +72,8 @@ own-level cessation.
 
 An objection notes that `dharmajñāna` and `anvayajñāna` are
 also mutual causes. The answer restricts the range: the
-`anvayajñāna` side is not a counteragent to the desire-domain,
-so desire-domain path-supporting anuśayas do not take it as
+`anvayajñāna` side is not a counteragent to the desire-realm,
+so desire-realm path-supporting anuśayas do not take it as
 their support.
 
 But then, since `dharmajñāna` counteracts the form and formless
@@ -85,19 +85,19 @@ counteragent for all seeing-abandonable afflictions across both
 higher domains. The claimed comprehensive support relation
 therefore fails.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The key contrast is local cessation versus a path articulated
 across multiple levels. For cessation-supporting afflictions,
 `svabhūminirodha` fixes the support to the affliction's own
 level. For path-supporting afflictions, the prose identifies
-six-level `dharmajñānapakṣa` for the desire-domain and
+six-level `dharmajñānapakṣa` for the desire-realm and
 nine-level `anvayajñānapakṣa` for the higher domains.
 
 The two objections prevent a crude “mutual cause means any path
 can support any path-related affliction” reading. Causal
 connection matters, but so does the specific `pratipakṣa`
-relation. `Anvayajñāna` does not counteract the desire-domain;
+relation. `Anvayajñāna` does not counteract the desire-realm;
 the `dharmajñāna` side does not comprehensively counteract
 the higher-domain cases. The technical range of `ālambana`
 thus requires both the path's causal relations and its actual
@@ -110,7 +110,7 @@ provisional pending another witness. The source supports a
 restricted conclusion, not a simple one-way contrast between
 the two kinds of knowledge.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Dharmajñāna` and `anvayajñāna`
 remain transliterated; rendering either as generic “knowledge”
@@ -126,7 +126,7 @@ Our Science of Citta can make use of that precision when it
 relates cessation and path to knowing. No formal data model is
 licensed merely by the verse's six- and nine-level numbers.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.15 unit has been checked against the running
 source, including the objection omitted by the research

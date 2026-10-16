@@ -1,23 +1,16 @@
 # VAK 5.68 Bhāṣya — When Abandonment Counts as Parijñā
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> anāsravaviyogāpter bhavāgravikalīkṛteḥ |
-> hetudvayasamudghātāt parijñā dhātvatikramāt || 5.68 ||
+> anāsrava-viyogāpter bhavāgra-vikalīkṛteḥ |
+> hetu-dvaya-samudghātāt parijñā dhātv-atikramāt || 5.68 ||
 
-> Abandonment receives the name *parijñā* through
-> uncontaminated acquisition of disconnection, disabling
-> of the summit of existence, and eradication of the two
-> causes; for knowledge-fruit abandonment, also through
-> transcendence of a domain.
+> An abandonment counts as *parijñā* when uncontaminated disconnection is
+> acquired, the summit of existence is rendered ineffective, and the two
+> causes are eradicated. For a fruit of *jñāna*, complete transcendence of a
+> domain provides a fourth ground.
 
-The four grounds are distributed by the prose. The first
-three qualify the *kṣānti*-fruit cases; domain-transcendence
-is introduced as an additional ground for *jñāna*-fruit
-abandonment. The verse alone should not be turned into a
-four-condition rule for every one of the nine *parijñās*.
-
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 kasmānnaikaikaṃ prahāṇaṃ parijñā vyavasthāpyate /
@@ -63,8 +56,11 @@ identifier are editorial. `Hetudvaya` is not explicitly
 unpacked into two named causes in this unit; the text does
 identify the still-unabandoned universal cause belonging
 to the origin-seeing class.
+The first three grounds qualify *kṣānti*-fruit cases; the prose adds domain
+transcendence for *jñāna*-fruit abandonment. This does not make all four
+grounds an undifferentiated condition for every *parijñā*.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Why is not each individual abandonment established as a
 *parijñā*? First, abandonment that is a fruit of *kṣānti*
@@ -95,12 +91,12 @@ transcendence of a domain, when one passes beyond that
 domain. Others propose a fifth ground, disconnection from
 both bonds upon complete dispassion toward a whole domain:
 when a type has been abandoned, one is also disconnected
-there from another affliction taking it as object. The
+there from another affliction taking it as its cognitive Condition. The
 expositor does not count this separately, because it is
 already covered by eradication of the two causes and
 transcendence of the domain.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The inquiry is about **the threshold for a technical
 designation**, not whether an individual affliction can be
@@ -128,9 +124,9 @@ The reported `apare` view proposes a fifth qualification,
 disconnection but rejects its **independent count**: it is
 already included under the third and fourth grounds. This
 is a genuine disagreement over classification, not a denial
-that object-taking afflictions may cease to bind.
+that afflictions taking it as their cognitive Condition may cease to bind.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Anāsrava` is “without
 outflows” or “uncontaminated” here; `viyogāpti` is the
@@ -148,7 +144,7 @@ afflictive item ceases to appear. This project-level
 formulation follows the source's staged test while leaving
 its twofold causal terminology open for textual study.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete unit and boundary with 5.69 were
 checked against the running IAST source. The unenumerated

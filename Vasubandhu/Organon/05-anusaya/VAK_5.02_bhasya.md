@@ -1,19 +1,20 @@
 # VAK 5.02 Bhāṣya — Seven Anuśayas and Attachment to Existence
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> ṣaḍ rāgabhedāt saptoktāḥ bhavarāgo dvidhātujaḥ |
+> ṣaḍrāgabhedāt saptoktāḥ bhavarāgo dvidhātujaḥ |
 > antarmukhatvāt tanmokṣasaṃjñāvyāvṛttaye kṛtaḥ || 5.02 ||
 
-> Because attachment is divided, the six are stated as seven. Attachment
-> to existence arises in two domains. It is so designated because it
-> turns inward and to exclude the conception that this is liberation.
+> Because attachment is divided, the six anuśayas are spoken of as seven.
+> Attachment to existence arises in the form and formless domains; because
+> it turns inward, it is separately designated to prevent those domains
+> from being conceived as liberation.
 
 The first words complete the suspended `te punaḥ` of 5.01. The full
 commentary unit includes a substantial debate before the prose reaches
 `bhavarāga`.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 ṣaḍrāgabhedāt saptoktāḥ.
@@ -89,7 +90,7 @@ punctuation above are editorial. The e-text's `mānānuśyaḥ`,
 retained as rough readings. The source's `kleśakṛtamevecchati` is
 divided as `kleśakṛtam evecchati` without changing its letters.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 “Because attachment is divided, the six are stated as seven.” The six
 anuśayas are spoken of as seven in the sūtra by dividing attachment in
@@ -113,10 +114,11 @@ and similarly down to doubt. Asked about the sūtra, they answer that
 the sūtra uses “anuśaya” figuratively for acquisition or possession,
 as in calling fire painful. In Abhidharma's proper technical usage,
 the kleśa itself is the anuśaya. Thus anuśayas are associated with
-mind. They argue that anuśayas afflict citta, obstruct it, and oppose
-the wholesome: they make citta afflicted, prevent a new wholesome
-state from arising, and cause decline from an arisen one. Hence, they
-say, anuśayas cannot be separate from associated mind. A separate
+consciousness. They argue that anuśayas afflict consciousness (*citta*),
+obstruct it, and oppose the wholesome: they make consciousness afflicted,
+prevent a new wholesome state from arising, and cause decline from an
+arisen one. Hence, they say anuśayas cannot be separate from associated
+consciousness. A separate
 anuśaya always present would make wholesome states impossible, yet
 wholesome states are observed.
 
@@ -154,7 +156,7 @@ attachment savor samāpatti together with its support, and so savor
 their own mode of existence. That attachment is therefore called
 `bhavarāga`.
 
-## Argument and Voices
+## 4. Argument and Voices
 
 The long opening dispute is indispensable to 5.02. The Vaibhāṣikas
 identify anuśaya with the associated kleśa and interpret the sūtra's
@@ -171,10 +173,10 @@ liberation-conception explanation as a reported view. The ensuing
 enjoyed. The source identifies **attachment to samāpatti**, rather
 than samāpatti itself, as the continuing rāga.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
-**Translation decisions.** `Citta` remains visible at the first
-occurrence because it is the stated locus of affliction in the
+**Translation decisions.** Consciousness (*citta*) remains visible at the
+first occurrence because it is the stated locus of affliction in the
 Vaibhāṣika argument; “mind” would obscure the technical question.
 `Saṃprayukta` concerns association with faculties and citta;
 `viprayukta` concerns a purportedly dissociated item. Neither term
@@ -193,7 +195,7 @@ inward refinement can still be appropriated as one's mode of
 existence. That criterion concerns the relation of rāga to samāpatti,
 not the worth of samāpatti as such.
 
-## Review Status
+## 6. Review Status
 
 The complete source unit has been restored from the running text and
 translated, including the debate omitted by the research excerpt.

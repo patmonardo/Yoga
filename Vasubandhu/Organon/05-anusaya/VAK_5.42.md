@@ -19,14 +19,9 @@ counted independently among the nine fetters introduced in VAK 5.41. It offers
 two differentiating marks, which the Bhāṣya immediately tests against competing
 enumerations.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ekānta-akuśalam | yasmāt | sva-tantram | ca | ubhayam | yataḥ |
-īrṣyā-mātsaryam | eṣu | uktam | pṛthak | saṃyojana-dvayam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ekānta-akuśalam` | nominative singular neuter predicate | exclusively or invariably unwholesome |
 | `yasmāt` | ablative singular relative pronoun used causally | because, since |
@@ -39,6 +34,11 @@ ekānta-akuśalam | yasmāt | sva-tantram | ca | ubhayam | yataḥ |
 | `uktam` | nominative singular neuter past passive participle | stated or taught |
 | `pṛthak` | indeclinable adverb | separately, each apart |
 | `saṃyojana-dvayam` | nominative singular neuter | a pair of fetters, two fetters |
+
+```text
+ekānta-akuśalam | yasmāt | sva-tantram | ca | ubhayam | yataḥ |
+īrṣyā-mātsaryam | eṣu | uktam | pṛthak | saṃyojana-dvayam
+```
 
 The working Bhāṣya e-text transmits `īṣryā` where standard Sanskrit has
 `īrṣyā`. The anomalous prose spelling remains a witness-level issue and is not
@@ -87,15 +87,8 @@ enumeration.
 
 ### Bhāṣya-informed study translation
 
-> Envy and avarice are proposed as two separately counted fetters because both
-> are invariably unwholesome and independently established. This answer
-> uniquely distinguishes them if the comparison class contains eight
-> paryavasthānas. If ten are accepted, however, anger and concealment possess
-> both marks as well; others therefore object that the proposed reason does not
-> adequately explain why envy and avarice alone receive separate fetter-status.
-
-The restriction to paryavasthānas, the rival eightfold and tenfold counts, and
-the objection are supplied by the Bhāṣya.
+> Because both envy and avarice are invariably unwholesome and independent,
+> they are each stated separately among these as a fetter.
 
 ## 6. Philosophical Translation
 

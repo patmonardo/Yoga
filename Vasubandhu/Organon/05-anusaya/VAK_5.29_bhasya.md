@@ -1,16 +1,16 @@
 # VAK 5.29 Bhāṣya — The First Entry in the Object Matrix
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > duḥkhahetudṛgabhyāsapraheyāḥ kāmadhātujāḥ |
 > svakatrayaikarūpāptāmalavijñānagocarāḥ || 5.29 ||
 
-> Desire-domain dharmas abandoned through seeing suffering,
-> seeing its cause, or cultivation are objects of three
-> corresponding cittas of their own domain, one form-domain
-> citta, and undefiled cognition.
+> desire-realm dharmas abandoned through seeing suffering, seeing origination,
+> or cultivation are objects for three corresponding cittas of their own
+> domain, one form-realm citta abandoned through cultivation, and undefiled
+> cognition.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 kasmin vastuni katy anuśayā anuśerata iti etat
@@ -42,7 +42,7 @@ punctuation are editorial; the Sanskrit is drawn from the
 running IAST source. The prose itself unpacks the compact
 compound `svakatrayaikarūpāpta`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 If one stated separately how many anuśayas adhere in each
 `vastu`, there would be a great deal to say. Therefore a
@@ -54,17 +54,17 @@ are divided into these same sixteen classes. Once one knows
 which dharma is the `ālambana` of which citta, one should infer
 how many anuśayas adhere with respect to that object.
 
-First, desire-domain dharmas abandoned through seeing suffering,
+First, desire-realm dharmas abandoned through seeing suffering,
 seeing origination, or cultivation are objects of their own
-three citta classes, one form-domain citta, and undefiled
+three citta classes, one form-realm citta, and undefiled
 cognition. The prose resolves “own three” as the three
-corresponding desire-domain cittas and “one form-domain” as
-the form-domain citta abandoned through cultivation. Thus
+corresponding desire-realm cittas and “one form-realm” as
+the form-realm citta abandoned through cultivation. Thus
 these three dharma classes are objects of five citta classes
 in all: three in their own domain, one in the higher domain,
 and one undefiled.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The `piṇḍavibhāṣā` compresses a combinatorial problem.
 The text first classifies both possible objects and cognitions
@@ -76,16 +76,16 @@ anuśaya may adhere. An object's availability to a citta is
 therefore a necessary step in the calculation, not by itself
 a claim that every such cognition is afflicted.
 
-The first entry concerns three desire-domain object classes:
+The first entry concerns three desire-realm object classes:
 those abandoned by seeing suffering, by seeing origination,
-and by cultivation. The corresponding three desire-domain
+and by cultivation. The corresponding three desire-realm
 cittas can take them as objects. The cultivation-abandonable
-form-domain citta and an undefiled citta can also do so.
+form-realm citta and an undefiled citta can also do so.
 Thus the object's domain and abandonment class do not
 automatically determine the ethical status or domain of the
 cognition that takes it as its object.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Hetudṛk` is read through the
 prose's `samudayadarśana`, seeing origination or cause.
@@ -103,7 +103,7 @@ relation, and only then assess anuśaya-adherence. That is
 a project-level use of the Kośa's matrix, separate from
 any implemented data model.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The introductory method, full 5.29 verse, and
 its explanation were checked against the running IAST source.

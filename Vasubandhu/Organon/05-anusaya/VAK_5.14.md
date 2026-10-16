@@ -17,17 +17,11 @@ nirodha-mārga-dṛg-gheyāḥ ṣaḍ anāsrava-gocarāḥ || 5.14 ||
 The verse introduces a new axis for classifying the ninety-eight anuśayas:
 whether their cognitive field is contaminated or uncontaminated.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-mithyā-dṛk | vimatiḥ | tābhyām | yuktā | avidyā | atha | kevalā |
-nirodha-mārga-dṛk-gheyāḥ | ṣaṭ | anāsrava-gocarāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `mithyā-dṛk` | nominative singular feminine | false view |
-| `vimatiḥ` | nominative singular feminine | doubt; divided or uncertain judgment |
+| `mithyādṛg-vimatī` | nominative dual feminine compound | false view and doubt |
 | `tābhyām` | instrumental dual feminine | with those two [false view and doubt] |
 | `yuktā` | nominative singular feminine | conjoined, associated |
 | `avidyā` | nominative singular feminine | ignorance |
@@ -36,6 +30,13 @@ nirodha-mārga-dṛk-gheyāḥ | ṣaṭ | anāsrava-gocarāḥ
 | `nirodha-mārga-dṛk-gheyāḥ` | nominative plural masculine | abandoned through seeing cessation and path |
 | `ṣaṭ` | cardinal numeral | six |
 | `anāsrava-gocarāḥ` | nominative plural masculine | having an uncontaminated range or cognitive field |
+
+Padaccheda: `mithyā-dṛk | vimatiḥ | tābhyām | yuktā | avidyā |
+atha | kevalā | nirodha-mārga-dṛk-gheyāḥ | ṣaṭ |
+anāsrava-gocarāḥ`. The opening pair is expressed by a dual compound;
+`tābhyām` refers back to its two members. The Bhāṣya's ignorance
+sentence has damaged punctuation, so its exact Sanskrit syntax remains
+provisional.
 
 `Dṛk-gheya` compresses “to be abandoned through seeing.” `Gocara` denotes the
 field over which cognition ranges and is functionally parallel here to the
@@ -71,6 +72,8 @@ Although the verse distinguishes associated and independent modes of
 ignorance, the Bhāṣya counts three anuśaya species in each truth-field:
 false view, doubt, and ignorance. Thus the total is three times two, not four
 times two.
+The Bhāṣya also establishes that the remaining anuśayas have supports with
+outflows; this complement is not enumerated in the verse.
 
 ## 5. Translation
 
@@ -82,14 +85,9 @@ times two.
 
 ### Bhāṣya-informed study translation
 
-> Six anuśayas have uncontaminated cognitive supports: false view, doubt, and
-> ignorance concerning cessation, and the same three concerning the path.
-> Ignorance may be associated with false view or doubt, or it may occur
-> independently. All the remaining anuśayas have contaminated cognitive
-> supports.
-
-The three-per-truth count and the contaminated status of the complement are
-made explicit by the Bhāṣya.
+> False view and doubt, ignorance associated with them and independent
+> ignorance: these six, abandoned through seeing cessation or the Path,
+> range over uncontaminated cognitive supports.
 
 ## 6. Philosophical Translation
 

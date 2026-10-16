@@ -19,14 +19,9 @@ abandonable afflictions. VAK 5.65 supplies the remaining three cultivation-
 Path completions and overlays the nine with a patience/knowledge result
 classification.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-anyāḥ | avara-bhāgīya-kṣayaḥ | rūpa-kṣayaḥ | sarva-āsrava-kṣayaḥ |
-tisraḥ | parijñāḥ | ṣaṭ | kṣānti-phalam | jñānasya | śeṣitāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `anyāḥ` | nominative plural feminine | the other, remaining parijñās |
 | `avarabhāgīya-kṣayaḥ` | nominative singular masculine compound | destruction or abandonment of the lower-part fetters |
@@ -37,6 +32,11 @@ tisraḥ | parijñāḥ | ṣaṭ | kṣānti-phalam | jñānasya | śeṣitā�
 | `kṣānti-phalam` | nominative singular neuter used collectively | fruit of patience |
 | `jñānasya` | genitive singular neuter | of knowledge |
 | `śeṣitāḥ` | nominative plural feminine | the remaining ones |
+
+```text
+anyāḥ | avara-bhāgīya-kṣayaḥ | rūpa-kṣayaḥ | sarva-āsrava-kṣayaḥ |
+tisraḥ | parijñāḥ | ṣaṭ | kṣānti-phalam | jñānasya | śeṣitāḥ
+```
 
 The first pāda compactly coordinates three `kṣaya` compounds with the three
 remaining parijñās. Their precise technical expansions are fixed by the
@@ -82,15 +82,10 @@ remaining three are fruits of the cultivation path. It then qualifies the
 
 ### Bhāṣya-informed study translation
 
-> The remaining three parijñās are abandonment of the lower-part fetters;
-> abandonment of the form-influx, called the parijñā of destroying attachment
-> to form; and abandonment of all influxes, called the parijñā of completely
-> exhausting all fetters. The six seeing-abandonment parijñās are designated
-> fruits of patience, while these remaining three, as fruits of the path of
-> cultivation, are fruits of knowledge.
-
-The Bhāṣya explains the first designation by saying that the patiences belong
-to the retinue of the knowledges and share one fruit with them.
+> The other three *parijñās* are the abandonment of the lower-part fetters,
+> the form influx, and all influxes—the last completing the exhaustion of all
+> fetters. The six seeing-abandonment *parijñās* are fruits of *kṣānti*; the
+> remaining three, attained through cultivation, are fruits of *jñāna*.
 
 ## 6. Philosophical Translation
 
@@ -226,7 +221,7 @@ problem with two relations: retinue and shared fruit. Calling the six
 `kṣānti-phala` therefore depends on structured association rather than an
 unqualified causal slogan.
 
-**Completed ninefold system.** The nine coordinate object-range, truth-class,
+**Completed ninefold system.** The nine coordinate afflictive range, truth-class,
 mode of abandonment, counteragent, disconnection, and result-designation.
 They are neither nine propositions nor nine repeated destructions.
 

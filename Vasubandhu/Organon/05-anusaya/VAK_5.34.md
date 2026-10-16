@@ -17,14 +17,9 @@ ayoniśo manaskārāt kleśaḥ saṃpūrṇakāraṇaḥ || 5.34 ||
 VAK 5.32–5.33 described the ordered genesis of the ten kleśas. VAK 5.34 now
 asks what conditions are required for a kleśa actually to manifest.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-aprahīṇāt | anuśayāt | viṣayāt | pratyupasthitāt |
-ayoniśaḥ | manaskārāt | kleśaḥ | saṃpūrṇa-kāraṇaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aprahīṇāt` | ablative singular past passive participle with negative prefix | from what has not been abandoned |
 | `anuśayāt` | ablative singular masculine | from an anuśaya, a latent afflictive disposition |
@@ -34,6 +29,11 @@ ayoniśaḥ | manaskārāt | kleśaḥ | saṃpūrṇa-kāraṇaḥ
 | `manaskārāt` | ablative singular masculine | from attention or mental application |
 | `kleśaḥ` | nominative singular masculine | manifest affliction |
 | `saṃpūrṇa-kāraṇaḥ` | nominative singular masculine compound | having its causal complex complete |
+
+```text
+aprahīṇāt | anuśayāt | viṣayāt | pratyupasthitāt |
+ayoniśaḥ | manaskārāt | kleśaḥ | saṃpūrṇa-kāraṇaḥ
+```
 
 The three ablative constructions name the conditions from which the nominative
 `kleśaḥ` arises. The Bhāṣya explicitly correlates them, in order, with three
@@ -79,15 +79,9 @@ therefore not be converted into an exceptionless biconditional.
 
 ### Bhāṣya-informed study translation
 
-> A manifest affliction ordinarily arises when three causal powers converge:
-> an anuśaya remains unabandoned and not fully comprehended; an object capable
-> of occasioning that affliction has become present; and unwise attention is
-> applied to that object. These are respectively the powers of cause, object,
-> and application. When their complex is complete, the latent disposition
-> becomes manifest kleśa.
-
-The qualification “not fully comprehended,” the names of the three powers, and
-the ordinary rather than exceptionless scope of the rule come from the Bhāṣya.
+> Ordinarily, a kleśa arises with its causal complex complete: from an
+> unabandoned anuśaya, an object that has become present, and unwise attention
+> to it—the powers of cause, object, and application, respectively.
 
 ## 6. Philosophical Translation
 

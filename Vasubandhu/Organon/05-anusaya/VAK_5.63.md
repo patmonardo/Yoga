@@ -18,14 +18,9 @@ VAK 5.63 asks whether progress through further Path-stages repeatedly destroys
 an already destroyed affliction. Its answer distinguishes the single event of
 destruction from repeated acquisition of disconnection.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sakṛt | kṣayaḥ | visaṃyoga-lābhaḥ | teṣām | punaḥ punaḥ |
-pratipakṣa-udaya | phala-prāpti | indriya-vivṛddhiṣu
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sakṛt` | indeclinable adverb | once, on one occasion |
 | `kṣayaḥ` | nominative singular masculine | destruction or exhaustion of the affliction |
@@ -35,6 +30,11 @@ pratipakṣa-udaya | phala-prāpti | indriya-vivṛddhiṣu
 | `pratipakṣa-udaya` | member of locative series | arising of the counteragent, here the liberation path |
 | `phala-prāpti` | member of locative series | attainment of a fruit of śramaṇa-hood |
 | `indriya-vivṛddhiṣu` | locative plural feminine | upon development or transition of the faculties |
+
+```text
+sakṛt | kṣayaḥ | visaṃyoga-lābhaḥ | teṣām | punaḥ punaḥ |
+pratipakṣa-udaya | phala-prāpti | indriya-vivṛddhiṣu
+```
 
 The final compound is a locative series naming occasions of repeated
 `visaṃyoga-lābha`. `Punaḥ punaḥ` modifies acquisition of disconnection, not
@@ -77,15 +77,9 @@ disconnection is acquired at all six.
 
 ### Bhāṣya-informed study translation
 
-> Each affliction is destroyed only once, by the Path that abandons it. Yet
-> the same disconnection from that affliction can be acquired repeatedly, as
-> appropriate, on six possible occasions: with the arising of the liberation
-> path, with attainment of each of the four fruits of śramaṇa-hood, and with a
-> transition or development of the spiritual faculties.
-
-Some disconnections are acquired on all six occasions and others on as few as
-two. The repeated acquisition must therefore remain indexed to the relevant
-affliction and Path-condition.
+> The afflictions are destroyed once, but disconnection from them can be
+> acquired repeatedly: when the liberation path arises, when a fruit of the
+> ascetic path is attained, or when the faculties develop, as appropriate.
 
 ## 6. Philosophical Translation
 
@@ -188,7 +182,7 @@ MayAcquireAt(visaṃyoga, occasion)
 Three levels must remain distinct:
 
 ```text
-ObjectLevel:       Destroyed(kleśa)
+AfflictionLevel:   Destroyed(kleśa)
 AttainmentLevel:   Acquired(practitioner, visaṃyoga)
 DesignationLevel:  BearsName(visaṃyogaAtState, Parijñā)
 ```

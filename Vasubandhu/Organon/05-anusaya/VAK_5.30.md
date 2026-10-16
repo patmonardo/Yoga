@@ -16,25 +16,25 @@ svakādharatrayordhvaikāmalānāṃ rūpadhātujāḥ |
 
 The verse continues the condensed object-support matrix begun in VAK 5.29.
 The same three abandonment-classes are retained while their domain is varied
-from the form-domain to the formless-domain.
+from the form-realm to the formless-realm.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-svaka | adhara-traya | ūrdhva-eka | amalānām | rūpa-dhātu-jāḥ |
-ārūpya-jāḥ | tri-dhātu-āpta-traya | anāsrava-gocarāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `svaka` | compound member | belonging to their own domain |
 | `adhara-traya` | compound member | the corresponding three cittas of the lower domain |
 | `ūrdhva-eka` | compound member | one citta of the higher domain |
 | `amalānām` | genitive plural | of the undefiled [cittas] |
-| `rūpa-dhātu-jāḥ` | nominative plural compound | dharmas belonging to the form-domain |
-| `ārūpya-jāḥ` | nominative plural compound | dharmas belonging to the formless-domain |
+| `rūpa-dhātu-jāḥ` | nominative plural compound | dharmas belonging to the form-realm |
+| `ārūpya-jāḥ` | nominative plural compound | dharmas belonging to the formless-realm |
 | `tri-dhātu-āpta-traya` | compound member | the corresponding three cittas belonging to each of the three domains |
 | `anāsrava-gocarāḥ` | nominative plural compound | objects of undefiled citta |
+
+```text
+svaka | adhara-traya | ūrdhva-eka | amalānām | rūpa-dhātu-jāḥ |
+ārūpya-jāḥ | tri-dhātu-āpta-traya | anāsrava-gocarāḥ
+```
 
 The Bhāṣya carries forward from VAK 5.29 the three classes abandoned by seeing
 suffering, seeing origination, and cultivation. They are not restated in the
@@ -42,7 +42,7 @@ kārikā's second half.
 
 ## 4. Grammar
 
-**Form-domain dharmas**
+**form-realm dharmas**
 
 ```text
 rūpa-dhātu-jāḥ
@@ -54,10 +54,10 @@ rūpa-dhātu-jāḥ
 
 The governing `gocara` relation is compressed across the first half and made
 explicit at the end of the verse. The Bhāṣya expands the count: three cittas
-of their own form-domain, three of the lower desire-domain, one cultivation-
-abandonable citta of the higher formless-domain, and undefiled citta.
+of their own form-realm, three of the lower desire-realm, one cultivation-
+abandonable citta of the higher formless-realm, and undefiled citta.
 
-**Formless-domain dharmas**
+**formless-realm dharmas**
 
 ```text
 ārūpya-jāḥ
@@ -80,30 +80,25 @@ variant should remain open for a later textual-witness review.
 
 ### Literal Translation
 
-> Those belonging to the form-domain are objects of their own three [cittas],
+> Those belonging to the form-realm are objects of their own three [cittas],
 > the lower three, one higher [citta], and the undefiled [citta]. Those belonging
-> to the formless-domain are objects of the corresponding three belonging to
+> to the formless-realm are objects of the corresponding three belonging to
 > the three domains and of undefiled [citta].
 
 ### Bhāṣya-informed study translation
 
-> The three indicated classes of form-domain dharmas can be objects of eight
-> cittas: the corresponding three cittas of their own domain, the corresponding
-> three of the lower desire-domain, the cultivation-abandonable citta of the
-> higher formless-domain, and undefiled citta. The same three classes of
-> formless-domain dharmas can be objects of ten cittas: the corresponding three
-> in each of the three domains, together with undefiled citta.
-
-The exact totals, the carried-forward three classes, and the restriction of
-the single higher citta to the cultivation-abandonable class are supplied by
-the Bhāṣya.
+> The form-realm dharmas of those three classes are objects of three
+> corresponding cittas in their own domain, three in the lower domain, one
+> cultivation-abandonable citta in the higher domain, and undefiled cognition.
+> The formless-realm dharmas of those classes are objects of three
+> corresponding cittas in each of the three domains and undefiled cognition.
 
 ## 6. Philosophical Translation
 
 > Domain-membership determines where a dharma belongs, but not the complete
-> range of cognition from which it can be presented. Form-domain dharmas may be
+> range of cognition from which it can be presented. form-realm dharmas may be
 > apprehended from below, within their own domain, from one specified standpoint
-> above, and by undefiled cognition. Formless-domain dharmas are accessible to
+> above, and by undefiled cognition. formless-realm dharmas are accessible to
 > the corresponding cognition-types in all three domains and to undefiled
 > cognition. The hierarchy is therefore an ordered field of determinate access,
 > not a set of cognitively sealed compartments.
@@ -114,13 +109,13 @@ object-relation.
 
 ## 7. Technical Vocabulary
 
-**`Rūpadhātujā` — belonging to the form-domain**
+**`Rūpadhātujā` — belonging to the form-realm**
 
-Here it qualifies the same three dharma-classes treated for the desire-domain
+Here it qualifies the same three dharma-classes treated for the desire-realm
 in VAK 5.29: those abandoned by seeing suffering, seeing origination, and
 cultivation.
 
-**`Ārūpyaja` — belonging to the formless-domain**
+**`Ārūpyaja` — belonging to the formless-realm**
 
 The corresponding three dharma-classes at the highest of the three conditioned
 domains.
@@ -146,10 +141,10 @@ undefiled citta-class appended to each contaminated domain-based count.
 The Bhāṣya makes the compressed arithmetic explicit:
 
 ```text
-form-domain dharmas:
+form-realm dharmas:
     3 own + 3 lower + 1 higher + 1 undefiled = 8
 
-formless-domain dharmas:
+formless-realm dharmas:
     (3 corresponding × 3 domains) + 1 undefiled = 10
 ```
 
@@ -200,8 +195,8 @@ conditions determine whether this presentation becomes an afflictive
 ## 9. Interpretive Note
 
 **Source determination.** The variable held constant is abandonment-type; the
-variable changed is domain. Form-domain objects admit eight citta-relations,
-and formless-domain objects admit ten. Together with VAK 5.29, this closes the
+variable changed is domain. form-realm objects admit eight citta-relations,
+and formless-realm objects admit ten. Together with VAK 5.29, this closes the
 first block of the matrix: the three domain-specific classes abandoned by
 seeing suffering, seeing origination, and cultivation.
 

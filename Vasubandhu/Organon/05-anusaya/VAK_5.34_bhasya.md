@@ -1,15 +1,15 @@
 # VAK 5.34 Bhāṣya — Conditions for an Affliction to Arise
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > aprahīṇād anuśayād viṣayāt pratyupasthitāt |
 > ayoniśo manaskārāt kleśaḥ saṃpūrṇakāraṇaḥ || 5.34 ||
 
-> An affliction arises with its causal conditions complete:
-> from an unabandoned anuśaya, a present object, and
-> unwise attention.
+> Ordinarily, a kleśa arises with its causal complex complete: from an
+> unabandoned anuśaya, an object that has become present, and unwise attention
+> to it—the powers of cause, object, and application, respectively.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 utpadyamānas tu tribhiḥ kāraṇair utpadyate:
@@ -39,7 +39,7 @@ editorial. The post-verse `kadācitkial` is retained as
 transmitted; the likely particle `kila` remains a proposed
 reading, not a silent correction.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 When an affliction arises, it arises through three conditions:
 an unabandoned anuśaya, an object that has appeared, and
@@ -58,7 +58,7 @@ the cause. The example given is an arhat liable to fall
 away. The transmitted particle in this exception is damaged,
 so the force of the report remains provisional.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 Verses 5.32–5.33 gave an order of development among the ten
 afflictions. This verse asks what makes a particular affliction
@@ -80,7 +80,7 @@ are related in this causal account, but their exact ontological
 relation should not be settled by a simple latent-versus-manifest
 equation.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Pratyupasthita` describes an
 object appearing before cognition, while `ābhāsagata`
@@ -100,7 +100,7 @@ than storing a single “afflicted” flag. The causal schema
 is a project-level use of the Kośa and retains the text's
 exception.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The full verse, example, and post-verse
 qualification were checked against the running IAST source.

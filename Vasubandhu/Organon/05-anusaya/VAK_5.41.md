@@ -19,14 +19,9 @@ anuśaya, secondary affliction, and paryavasthāna. Within the first division,
 the five views are consolidated into two distinct fetters on explicitly stated
 grounds.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-saṃyojana-ādi-bhedena | punaḥ | te | pañcadhā | uditāḥ |
-dravya-āmarśana-sāmānyāt | dṛṣṭī | saṃyojana-antaram
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `saṃyojana-ādi-bhedena` | instrumental singular masculine compound | through the division beginning with fetters |
 | `punaḥ` | indeclinable adverb | again, under another division |
@@ -36,6 +31,11 @@ dravya-āmarśana-sāmānyāt | dṛṣṭī | saṃyojana-antaram
 | `dravya-āmarśana-sāmānyāt` | ablative singular neuter compound | because of commonality in real-item constitution and in grasping |
 | `dṛṣṭī` | nominative dual feminine | the two classes of views |
 | `saṃyojana-antaram` | nominative singular neuter used distributively | each a distinct fetter, another fetter-class |
+
+```text
+saṃyojana-ādi-bhedena | punaḥ | te | pañcadhā | uditāḥ |
+dravya-āmarśana-sāmānyāt | dṛṣṭī | saṃyojana-antaram
+```
 
 The dual `dṛṣṭī` refers to two grouped classes, not two individual views. The
 Bhāṣya identifies them as the three views comprising the view-fetter and the
@@ -85,17 +85,10 @@ two parāmarśa-views.
 
 ### Bhāṣya-informed study translation
 
-> The same anuśayas are divided again into five modes: fetter, bond, anuśaya,
-> secondary affliction, and paryavasthāna. In the fetter classification there
-> are nine classes. Three views form the view-fetter and comprise eighteen
-> real items; the two grasping-views form the grasping-fetter and likewise
-> comprise eighteen. The pair is separately established both through this
-> commonality in dravya-constitution and through the grasping character shared
-> by the two parāmarśa-views, with a distinction between what is grasped and
-> what grasps.
-
-The five headings, nine fetters, exact view distribution, two eighteen-item
-counts, and path-stage example are supplied by the Bhāṣya.
+> Those same anuśayas are again taught in five divisions: fetter, bond,
+> anuśaya, secondary affliction, and envelopment. The views form two distinct
+> fetters: three views and two grasping views, grouped by their equal counts of
+> real factors and, for the latter pair, their common grasping character.
 
 ## 6. Philosophical Translation
 

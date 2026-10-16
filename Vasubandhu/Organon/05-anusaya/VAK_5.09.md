@@ -18,14 +18,9 @@ The verse defines a technically restricted class of inversion. Four
 `viparyāsas` arise from three views; recognition and consciousness are called
 inverted through being governed by those primary view-inversions.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dṛṣṭi-trayāt | viparyāsa-catuṣkam | viparītataḥ |
-nitīraṇāt | samāropāt | saṃjñā-citte | tu | tad-vaśāt
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dṛṣṭi-trayāt` | ablative singular compound | from three views |
 | `viparyāsa-catuṣkam` | nominative singular neuter compound | the fourfold inversion |
@@ -35,6 +30,12 @@ nitīraṇāt | samāropāt | saṃjñā-citte | tu | tad-vaśāt
 | `saṃjñā-citte` | nominative dual neuter | recognition and consciousness |
 | `tu` | contrastive particle | but, however |
 | `tad-vaśāt` | ablative singular compound used adverbially | through being under its power |
+
+Padaccheda: `dṛṣṭi-trayāt | viparyāsa-catuṣkam | viparītataḥ |
+nitīraṇāt | samāropāt | saṃjñā-citte | tu | tad-vaśāt`.
+The ablative `tad-vaśāt` refers back to the governing view-inversion;
+the Bhāṣya names the associated `saṃjñā` and `citta` as its derivative
+bearers.
 
 The Bhāṣya supports `nitīraṇa` through the explanatory vocabulary
 `nitīraka` and `santīraka`: decisively determining or fixing the cognitive
@@ -89,6 +90,8 @@ recognition and consciousness, however,
 
 The Bhāṣya makes `dṛṣṭi-viparyāsa` primary. Recognition and consciousness
 receive the designation through association with and governance by the view.
+The mapping, the three defining conditions, and the primacy of `dṛṣṭi` are
+Bhāṣya determinations.
 
 ## 5. Translation
 
@@ -100,17 +103,9 @@ receive the designation through association with and governance by the view.
 
 ### Bhāṣya-informed study translation
 
-> Four proper inversions arise from three views: the eternalist extreme-view
-> produces the inversion of taking the impermanent as permanent;
-> view-adherence produces the inversions of taking suffering as pleasure and
-> the impure as pure; and satkāya-view produces the inversion of taking
-> non-self as self. Each is contrary to its cognitive support, decisively fixes
-> that support, and positively superimposes the opposite determination.
-> Recognition and consciousness are called inverted derivatively because they
-> operate under the power of these governing view-inversions.
-
-The mapping, the three defining conditions, and the primacy of `dṛṣṭi` are
-Bhāṣya determinations.
+> From three views come four inversions, marked by contrariness, decisive
+> determination, and superimposition; recognition and consciousness are
+> called inverted through the power of those views.
 
 ## 6. Philosophical Translation
 

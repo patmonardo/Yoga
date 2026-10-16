@@ -1,18 +1,20 @@
 # VAK 5.07 Bhāṣya — The Five Views Defined
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> ātmātmīyadruvocchedanāstihīnāgradṛṣṭayaḥ |
-> ahetvamārge taddṛṣṭir etās tāḥ pañca dṛṣṭayaḥ || 5.07 ||
+> ātmātmīya-dhruvoccheda-nāsti-hīnāgra-dṛṣṭayaḥ |
+> ahetvamārge tad-dṛṣṭir etās tāḥ pañca dṛṣṭayaḥ || 5.07 ||
 
-> The views of self or mine, of permanence or annihilation, of
-> nonexistence, of the inferior as supreme, and of a non-cause or
-> non-path as cause or path: these are the five views.
+> These are the five views: seeing the five aggregates of appropriation as
+> self or belonging to self; seeing that supposed self as permanent or
+> annihilated; saying of an existing truth that it does not exist; taking
+> what is inferior as supreme; and seeing a non-cause as cause or a non-path
+> as Path.
 
 The Bhāṣya moves from the names given in 5.03 to the determinate
 character of each view.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 dṛṣṭayaḥ paṇca nāmato nirdiṣṭā na tu svabhāvatas; tat kas tāsāṃ
@@ -60,7 +62,7 @@ editorial. The running e-text's `paṇca`, `druvo`, `hīnā gra`,
 forms need witness comparison. At [282|13] a fresh question about
 viewing a genuine cause as cause begins the 5.08 argument.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 The five views have been specified by name, but not by their own
 character. What is that character? The verse gives views concerning
@@ -104,7 +106,7 @@ mere discipline and observances, or the knowledges of Sāṃkhya and
 Yoga, constitute a path to liberation. Here too an “and so forth”
 is said to be omitted. These are the five views.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The five forms are not interchangeable: satkāya-view appropriates
 the aggregates as self or mine; extreme-grasping view fixes that
@@ -128,7 +130,7 @@ transcendental use of Ātman, Sāṃkhya, or Yoga. The local target of
 `satkāyadṛṣṭi` is specifically grasping the five appropriated
 aggregates as a self or its possessions.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Satkāya` remains visible because its
 Bhāṣya etymology and its reference to the five aggregates matter.
@@ -145,7 +147,7 @@ Kośa's classification. It does not settle Māṇḍūkya 7's positive
 Self-determination by substituting the aggregate-self targeted
 here for that distinct question.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.07 definition unit has been checked against the
 running source and stops before 5.08's causal question. The rough

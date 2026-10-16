@@ -1,18 +1,18 @@
 # VAK 5.09 Bhāṣya — Four Inversions and Their Reach
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> dṛṣṭitrayād viparyāsacatuṣkaṃ viparītataḥ |
-> nitīraṇāt samāropāt saṃjñācitte tu tadvaśāt || 5.09 ||
+> dṛṣṭi-trayād viparyāsa-catuṣkaṃ viparītataḥ |
+> nitīraṇāt samāropāt saṃjñā-citte tu tad-vaśāt || 5.9 ||
 
-> Four inversions arise from three views: through contrariness,
-> decisive determination, and superimposition. Saṃjñā and citta
-> are called inverted through dependence on those views.
+> From three views come four inversions, marked by contrariness, decisive
+> determination, and superimposition; recognition and consciousness are
+> called inverted through the power of those views.
 
 The Bhāṣya first delimits `viparyāsa`, then disputes how far the
 designation extends to saṃjñā and citta in a noble practitioner.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 yad uktaṃ “nityātmaviparyāsādi” ti: kim etāv eva dvau
@@ -97,7 +97,7 @@ the sūtra quotation marks the source's own `yāvat` abbreviation,
 not omitted prose from this study. The research excerpt stops at
 [284|06] and omits the subsequent school disagreement.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 The preceding discussion mentioned inversions concerning
 permanence and self. Are there only two? There are four: taking
@@ -157,7 +157,7 @@ too are abandoned through knowing the noble truths as they
 really are; the quoted instruction names a means, so it need
 not contradict the sūtra.
 
-## Argument and Voices
+## 4. Argument and Voices
 
 The main determination is a restricted, positive `viparyāsa`:
 contrariness, decisive fixation, and superimposition must all
@@ -180,7 +180,7 @@ evidence for naming, not proof that these three have the same
 function. Nor does the survival of sensual attachment by itself
 settle which technical inversions remain.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Saṃjñā` remains visible as a technical
 term; “recognition” is an approximate gloss. `Citta` is retained
@@ -196,7 +196,7 @@ inversion. Our Science of Citta can use that division without
 turning citta into a container or erasing the source's dispute
 over how the designation survives after truth-seeing.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.09 commentary through [284|21] has been restored
 from the running source and translated. The research excerpt's

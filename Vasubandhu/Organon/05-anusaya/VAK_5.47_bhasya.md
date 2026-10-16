@@ -1,15 +1,14 @@
 # VAK 5.47 Bhāṣya — Eight Enveloping Afflictions
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > āhrīkyam anapatrāpyam īrṣyā mātsaryam uddhavaḥ |
 > kaukṛtyaṃ styānamiddhaṃ ca paryavasthānam aṣṭadhā || 5.47 ||
 
-> Shamelessness, lack of moral concern, envy, avarice,
-> excitation, remorse, torpor, and sleepiness: the
-> enveloping afflictions are eightfold.
+> In the Prakaraṇaśāstra, envelopment is eightfold: shamelessness, lack of
+> moral concern, envy, avarice, excitation, remorse, torpor, and sleepiness.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 kāni punaḥ paryavasthānānīty āha:
@@ -32,7 +31,7 @@ editorial. The running verse reads `āhlīkyam` and
 `uddhavaḥ`; the official Kārikā study prints `āhrīkyam`
 and also has `uddhavaḥ`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 What are the enveloping afflictions? The term can also
 include the kleśas themselves here, since a sūtra speaks
@@ -42,7 +41,7 @@ shamelessness, lack of moral concern, envy, avarice,
 excitation, remorse, torpor, and sleepiness. The following
 passage adds the Vaibhāṣika tenfold count.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The passage distinguishes three **contexts of use**. The
 sūtra wording permits a kleśa such as desire itself to be
@@ -59,7 +58,7 @@ treating the eightfold list as the term's fixed extension.
 The individual definitions await the prose following the
 5.48 fragment.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** The source form `āhlīkyam` is
 kept in the continuous Sanskrit; “shamelessness” gives its
@@ -77,7 +76,7 @@ alongside each membership assertion. This is a project-level
 use of the source's distinct enumerations, not a claim that
 one unqualified list exhausts the concept.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The verse and its preceding sūtra comparison
 were checked against the running IAST source. The tenfold

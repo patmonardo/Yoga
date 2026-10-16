@@ -1,17 +1,16 @@
 # VAK 5.56 Bhāṣya — Doubt, Equanimity, and Higher Levels
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > daurmanasyena kāṅkṣā anye saumanasyena kāmajāḥ |
 > sarve 'py upekṣayā svaiḥ svair yathā-bhūmy ūrdhva-bhūmikāḥ || 5.56 ||
 
-> Doubt is conjoined with mental distress; the other four
-> views and conceit, when desire-domain born, with mental
-> gladness. All can also be conjoined with equanimity;
-> higher-level anuśayas take their proper faculties
-> according to the level.
+> Doubt is conjoined with mental distress; the four other views and conceit,
+> when born in the desire-realm, with mental gladness. All the anuśayas are
+> also conjoined with equanimity. Those on higher levels are conjoined with
+> the feeling-faculties proper to each level.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     daurmanasyena kāṅkṣā.
@@ -53,14 +52,14 @@ and punctuation are editorial. The running text's
 `adhobhūmikāḥ` beside a verse about `ūrdhvabhūmikāḥ`
 remain visible as witness problems for later review.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Doubt is conjoined with mental distress, for a person in
 doubt seeks certainty and becomes distressed. The other
 anuśayas are conjoined with mental gladness: the four other
 views and conceit, because they operate in a glad mode.
 These specific conjunctions concern anuśayas arising in
-the desire domain.
+the desire-realm.
 
 After stating their specific conjunctions, the text speaks
 generally: all these anuśayas can also be conjoined with
@@ -69,19 +68,19 @@ necessarily remains when the stream of the kleśas is being
 cut off. Higher-level anuśayas are conjoined with the
 feeling faculties proper to their respective levels,
 according to which faculties are present there. Within
-those levels, factors belonging to four consciousness
+those levels, factors belonging to four cognition
 groups go with the corresponding faculties, and mental-
 level factors with mental-level faculties, as applicable.
 Thus the kleśas' conjunction with faculties has been
 explained.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 `Anye` is explicitly restricted by the prose to **four
 views other than the false view just treated, plus conceit**.
 It cannot be translated as every remaining affliction.
 `Kāmajāḥ` limits these fixed feeling assignments to
-desire-domain occurrences. Doubt and distress are conjoined,
+desire-realm occurrences. Doubt and distress are conjoined,
 not identified; the commentary gives the doubter's search
 for certainty as their local connection.
 
@@ -96,13 +95,13 @@ and does not by itself establish freedom from affliction.
 
 The final clause adds a level constraint. Higher-level
 anuśayas take the faculties available on their own *bhūmi*;
-the desire-domain matrix is not copied upward without that
+the desire-realm matrix is not copied upward without that
 restriction. The prose further distinguishes factors of
-the four consciousness groups from those confined to the
+the four cognition groups from those confined to the
 mental level. This preserves the cognitive-support axis of
 5.54 alongside the feeling-conjunction axis here.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Kāṅkṣā` is afflictive doubt in
 this context. `Upekṣā` is the neutral feeling faculty, not
@@ -120,7 +119,7 @@ project-level use of the Kośa's constraints for the Science
 of Citta, separate from the source's doctrinal claim and
 from any implemented schema.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete distributed verse and explicit
 closure before 5.57 were checked against the running IAST

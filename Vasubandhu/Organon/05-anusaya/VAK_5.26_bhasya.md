@@ -1,15 +1,16 @@
 # VAK 5.26 Bhāṣya — Four Accounts of Temporal Difference
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> te bhāvalakṣaṇāvasthānyathānyathikasaṃjñitāḥ |
+> te bhāva-lakṣaṇāvasthānyathānyathika-saṃjñitāḥ |
 > tṛtīyaḥ śobhano 'dhvānaḥ kāritreṇa vyavasthitāḥ || 5.26 ||
 
-> The four are named for difference in mode, characteristic,
-> state, and relative position. The third is preferable:
-> the times are distinguished by operative activity.
+> Dharmatrāta, Ghoṣaka, Vasumitra, and Buddhadeva are named for difference in
+> mode of being, characteristic, state, and relative position, respectively;
+> Vasumitra's third account is preferable, for the three times are
+> distinguished by operative activity.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     te bhāvalakṣaṇāvasthā 'nyathā 'nyathikasaṃjñitāḥ.
@@ -74,7 +75,7 @@ positions. Spacing and punctuation above are editorial.
 The running witness's `lakṣāṇānyathiko` is retained despite
 the expected `lakṣaṇa-` form.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 The four Sarvāstivādin positions are named according to a
 change in mode, characteristic, state, or relative position.
@@ -121,7 +122,7 @@ a dharma is future when it does not perform its activity,
 present while performing it, and past when, having performed
 it, it has ceased.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 All four proposals preserve the Sarvāstivādin claim that a
 dharma does not become another substance across time. They
@@ -144,7 +145,7 @@ The next verse will challenge whether operation itself can
 carry the burden of defining future, present, and past; the
 preference here should not be read as the end of the debate.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Bhāva`, `lakṣaṇa`, `avasthā`, and
 `anyathānyathika` name four different accounts of temporal
@@ -164,7 +165,7 @@ but it must explain the occurrence of operation itself. This
 is a project-level reconstruction of the argument, separate
 from any claim of implemented architecture.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The full distributed verse and its exposition
 were checked against the running IAST source. The transmitted

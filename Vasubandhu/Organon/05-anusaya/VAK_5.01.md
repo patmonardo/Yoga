@@ -14,32 +14,29 @@ mūlaṃ bhavasyānuśayāḥ ṣaḍ rāgaḥ pratighas tathā |
 māno 'vidyā ca dṛṣṭiś ca vicikitsā ca te punaḥ || 5.1 ||
 ```
 
-The suspended `te punaḥ`, “these, again,” carries the classification into VAK
-5.02. The present verse first names six anuśayas; it does not yet complete
-their further division.
+## 3. Lexical Analysis
 
-## 3. Padaccheda and Lexical Analysis
-
-```text
-mūlam | bhavasya | anuśayāḥ | ṣaṭ | rāgaḥ | pratighaḥ | tathā |
-mānaḥ | avidyā | ca | dṛṣṭiḥ | ca | vicikitsā | ca | te | punaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `mūlam` | nominative singular neuter | root, originating and sustaining basis |
-| `bhavasya` | genitive singular masculine | of existence, of conditioned becoming |
-| `anuśayāḥ` | nominative plural masculine | anuśayas; underlying afflictive determinations |
-| `ṣaṭ` | numeral | six |
-| `rāgaḥ` | nominative singular masculine | attachment, passion |
-| `pratighaḥ` | nominative singular masculine | resistance, aversion, hostility |
-| `tathā` | adverb | likewise, also |
-| `mānaḥ` | nominative singular masculine | conceit, comparative self-estimation |
-| `avidyā` | nominative singular feminine | non-knowing, ignorance |
-| `dṛṣṭiḥ` | nominative singular feminine | view |
-| `vicikitsā` | nominative singular feminine | doubt, irresolution |
-| `te` | nominative plural masculine pronoun | those, they |
-| `punaḥ` | adverb | again, in turn, further |
+| mūlam | noun; neuter; nominative singular (lemma: mūla) | root; collective predicate of the anuśayas |
+| bhavasya | noun; masculine; genitive singular (lemma: bhava) | of existence, here conditioned existence |
+| anuśayāḥ | noun; masculine; nominative plural (lemma: anuśaya) | the six anuśayas, subject of the first judgment |
+| ṣaṭ | numeral | six; introduces the enumeration |
+| rāgaḥ | noun; masculine; nominative singular (lemma: rāga) | attachment, first member |
+| pratighaḥ | noun; masculine; nominative singular (lemma: pratigha) | resistance, second member |
+| tathā | indeclinable | likewise; continues the enumeration |
+| mānaḥ | noun; masculine; nominative singular (lemma: māna) | conceit, third member |
+| avidyā | noun; feminine; nominative singular (lemma: avidyā) | ignorance, fourth member |
+| ca | indeclinable | and; coordinates the listed members |
+| dṛṣṭiḥ | noun; feminine; nominative singular (lemma: dṛṣṭi) | view, fifth member |
+| vicikitsā | noun; feminine; nominative singular (lemma: vicikitsā) | doubt, sixth member |
+| te | pronoun; masculine; nominative plural (lemma: tad) | these anuśayas, recalled for further division |
+| punaḥ | indeclinable | in turn; leaves the division open |
+
+Sandhi and word division: *bhavasyānuśayāḥ* = *bhavasya anuśayāḥ*;
+*pratighas tathā* = *pratighaḥ tathā*; *māno 'vidyā* = *mānaḥ avidyā*;
+*dṛṣṭiś ca* = *dṛṣṭiḥ ca*. The repeated *ca* is represented once in the
+table because it has the same coordinating function at each occurrence.
 
 The technical term `anuśaya` remains visible in the translation. “Latent
 tendency” would decide too early how anuśaya is related to an occurrent
@@ -78,38 +75,23 @@ te punaḥ ...
 ```
 
 The sentence is deliberately incomplete. Its predicate is supplied by VAK
-5.02, so an official translation should retain the open transition rather
-than importing the next verse into this one.
+5.02, so the translation retains the open transition. The Bhāṣya's opening
+sentence determines *mūla* causally: karma accumulates under the power of
+the anuśayas and cannot produce *bhava* without them. That mediation belongs
+in the explanation, rather than as extra wording in the verse translation.
 
 ## 5. Translation
 
 ### Literal Translation
 
 > The anuśayas are the root of existence. They are six: attachment,
-> resistance, conceit, non-knowing, view, and doubt. These, in turn—
+> resistance, conceit, ignorance, view, and doubt. These, in turn—
 
 ### Bhāṣya-informed study translation
 
-> The anuśayas are the root through whose governing power karma accumulates
-> and becomes capable of producing conditioned existence. Six are initially
-> distinguished: attachment, aversion, conceit, non-knowing, view, and doubt.
-> These, in turn, are further differentiated—
-
-The causal mediation through karma, the sense of accumulation, and the
-productive force of `mūla` are supplied by the Bhāṣya. They are not all
-explicitly stated in the kārikā.
-
-The Bhāṣya opens by recalling VAK 4.01:
-
-```text
-karmajaṃ lokavaicitryam
-    the differentiation of the world is born from karma
-```
-
-It then states that karmas accumulate under the power of the anuśayas and,
-without them, cannot bring `bhava` into manifestation. This establishes the
-transition from the accomplished analysis of karma to the inquiry into its
-afflictive ground.
+> The anuśayas are the root of conditioned existence. They are six:
+> attachment, resistance, conceit, ignorance, view, and doubt. These,
+> in turn—
 
 ## 6. Philosophical Translation
 
@@ -125,7 +107,7 @@ The Bhāṣya describes an active `kleśa` as performing ten functions: it
 strengthens the root, establishes the continuum, prepares the field, produces
 an outflow, brings forth karmic existence, takes up its supporting
 accumulation, deludes regarding the cognitive support, bends the stream of
-`vijñāna`, turns away from the wholesome side, and spreads for the purpose of
+**Cognition** (*vijñāna*), turns away from the wholesome side, and spreads for the purpose of
 binding. This is commentary determination, not additional wording hidden in
 the verse.
 
@@ -178,7 +160,7 @@ further articulation.
 | `bhavābhinirvartana` | bringing conditioned existence into manifestation |
 | `saṃtati` | the continuum established by active affliction |
 | `karmabhava` | karmic existence brought forth by active affliction |
-| `vijñānasrotas` | stream of differentiated cognition bent by affliction |
+| `vijñānasrotas` | stream of Cognition bent by affliction; distinct from consciousness (*citta*) |
 | `kuśalapakṣa` | wholesome side from which affliction causes departure |
 | `bandhana` | binding, the culminative function of active affliction |
 

@@ -18,14 +18,9 @@ VAK 5.37 extends the influx classification of VAK 5.35–5.36 to floods and
 yokes, but changes the partition by separating views according to their
 distinctive sharpness.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tathā | ogha-yogāḥ | dṛṣṭīnām | pṛthak-bhāvaḥ | tu | pāṭavāt |
-na | āsraveṣu | asahāyānām | na | kila | āsya-anukūlatā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tathā` | indeclinable adverb | likewise, in the same manner |
 | `ogha-yogāḥ` | nominative plural masculine compound | the floods and yokes |
@@ -37,6 +32,11 @@ na | āsraveṣu | asahāyānām | na | kila | āsya-anukūlatā
 | `asahāyānām` | genitive plural | of those without assistance; when alone |
 | `na kila` | negation with reportative particle | it is said that there is not |
 | `āsya-anukūlatā` | nominative singular feminine | suitability for the operation of making settle or remain |
+
+```text
+tathā | ogha-yogāḥ | dṛṣṭīnām | pṛthak-bhāvaḥ | tu | pāṭavāt |
+na | āsraveṣu | asahāyānām | na | kila | āsya-anukūlatā
+```
 
 The transmitted continuous form `asyānukūlatā` is interpreted through the
 Bhāṣya's `āsyānukūlāḥ` and its promised derivation `āsayantīty āsravāṇām`.
@@ -85,17 +85,10 @@ influx.
 
 ### Bhāṣya-informed study translation
 
-> The floods and yokes reproduce the preceding fourfold scheme, except that
-> views are set apart as an independent flood and yoke because of their
-> sharpness. Views do not form a separate influx: by themselves their acute
-> operation is not suited to the settling or sustaining function of an influx,
-> so within the influx classification they are included together with the
-> other afflictions.
-
-The four floods contain respectively twenty-nine desire factors, twenty-eight
-existence factors, thirty-six views, and fifteen ignorance factors. The four
-yokes have the same membership. These enumerations and the explanation of
-`asahāya` are supplied by the Bhāṣya.
+> Floods and yokes follow the same classification, except that views stand
+> separately because of their sharpness. Among the āsravas, views have no
+> separate place, for unaided views, it is said, are unsuited to the settling
+> function.
 
 ## 6. Philosophical Translation
 

@@ -23,17 +23,11 @@ tṛṣṇā-dṛṅ-māna-mohās te dhyāyitṛtvād avidyayā || 5.21 ||
 The verse tests the Kāśmīra account of indeterminate roots from VAK 5.20 and
 then records an alternative four-root doctrine.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dvaidha-ūrdhva-vṛtteḥ | na | ataḥ | anyau | catvāri | eva | iti |
-bāhyakāḥ | tṛṣṇā | dṛk | māna | mohāḥ | te | dhyāyitṛ-tvāt | avidyayā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `dvaidha-vṛtteḥ` | ablative singular compound | because of divided or twofold movement |
-| `ūrdhva-vṛtteḥ` | ablative singular compound | because of upward movement |
+| `dvaidhordhva-vṛtteḥ` | ablative singular compound, distributed by the Bhāṣya | because doubt's movement is divided and conceit's upward |
 | `na ataḥ anyau` | negative, ablative adverb, nominative dual | therefore the other two are not [roots] |
 | `catvāri eva` | nominative neuter plural numeral with restriction | four only |
 | `iti bāhyakāḥ` | quotative plus nominative plural | thus the outside authorities maintain |
@@ -41,6 +35,13 @@ bāhyakāḥ | tṛṣṇā | dṛk | māna | mohāḥ | te | dhyāyitṛ-tvāt 
 | `te` | nominative plural pronoun | those; those indeterminate ones |
 | `dhyāyitṛ-tvāt` | ablative singular abstract noun | because of the existence of meditator-types |
 | `avidyayā` | instrumental singular | through or under the power of ignorance |
+
+Padaccheda: `dvaidha-ūrdhva-vṛtteḥ | na | ataḥ | anyau |
+catvāri | eva | iti | bāhyakāḥ | tṛṣṇā | dṛk | māna |
+mohāḥ | te | dhyāyitṛ-tvāt | avidyayā`.
+The Bhāṣya supplies the two separate subjects for the opening
+ablative and construes `te` as limiting the four to their
+indeterminate instances.
 
 The Bhāṣya applies the two members of the initial compound separately:
 `dvaidha-vṛtti` to doubt and `ūrdhva-vṛtti` to conceit.
@@ -85,6 +86,8 @@ under the power of ignorance
 
 The Bhāṣya supplies the threefold distribution: meditators dominated by
 craving, view, or conceit, all governed by ignorance.
+The analogy used to justify stable, downward-rooting ground has difficult
+transmitted wording; its exact Sanskrit construal remains provisional.
 
 ## 5. Translation
 
@@ -97,15 +100,10 @@ craving, view, or conceit, all governed by ignorance.
 
 ### Bhāṣya-informed study translation
 
-> On the Kāśmīra account, doubt is not a root because it moves in two directions
-> and is unstable, while conceit is not a root because its defining movement is
-> upward; roots are stable and downward-growing. Outside authorities instead
-> recognize four indeterminate roots—craving, view, conceit, and ignorance—on
-> the evidence of three kinds of meditator dominated respectively by craving,
-> view, and conceit, all operating under the power of ignorance.
-
-The stability and downward-growth criterion, the three meditator-types, and
-the governing role of ignorance are supplied by the Bhāṣya.
+> Doubt and conceit are excluded as further roots for their divided and upward
+> movements; outside authorities instead count four indeterminate roots—craving,
+> view, conceit, and ignorance—because meditators dominated by the first
+> three arise under ignorance.
 
 ## 6. Philosophical Translation
 

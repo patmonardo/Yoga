@@ -18,20 +18,20 @@ VAK 5.68 asks why every individual abandonment is not independently called a
 `parijñā`. The designation marks an abandonment that has reached the required
 configuration of completion, not the mere cessation of one afflictive factor.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-anāsrava-viyoga-āpteḥ | bhava-agra-vikalīkṛteḥ |
-hetu-dvaya-samudghātāt | parijñā | dhātu-atikramāt
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `anāsrava-viyogāpteḥ` | ablative singular feminine compound | because of acquisition of uncontaminated disconnection |
 | `bhavāgra-vikalīkṛteḥ` | ablative singular feminine compound | because the summit of existence has been rendered ineffective |
 | `hetu-dvaya-samudghātāt` | ablative singular masculine compound | because of eradication of the two causes |
 | `parijñā` | nominative singular feminine | completed abandonment bearing the technical designation parijñā |
 | `dhātv-atikramāt` | ablative singular masculine compound | because of complete transcendence of a domain |
+
+```text
+anāsrava-viyoga-āpteḥ | bhava-agra-vikalīkṛteḥ |
+hetu-dvaya-samudghātāt | parijñā | dhātu-atikramāt
+```
 
 The four ablatives supply grounds for the designation. The Bhāṣya distributes
 them by type and stage rather than requiring every individual parijñā to
@@ -75,17 +75,10 @@ scope and cumulative application across Path-stages.
 
 ### Bhāṣya-informed study translation
 
-> An abandonment that is a fruit of patience receives the designation
-> `parijñā` when three conditions coincide: uncontaminated disconnection has
-> been acquired, the summit of existence has been rendered ineffective, and
-> the relevant twofold causal basis has been eradicated. An abandonment that
-> is a fruit of knowledge receives the designation through these three
-> conditions and, where applicable, through complete transcendence of a
-> domain as a fourth.
-
-The passage does not independently name both members of the “two causes.” It
-explicitly identifies the still-unabandoned origin-class universal cause as
-the reason the threshold has not yet been reached at the suffering stage.
+> An abandonment counts as *parijñā* when uncontaminated disconnection is
+> acquired, the summit of existence is rendered ineffective, and the two
+> causes are eradicated. For a fruit of *jñāna*, complete transcendence of a
+> domain provides a fourth ground.
 
 ## 6. Philosophical Translation
 
@@ -141,7 +134,7 @@ not receive the parijñā designation.
 
 A fifth cause proposed by other teachers (`apare`): through complete
 dispassion toward an entire domain, one is also disconnected from another
-affliction taking the abandoned type as object.
+affliction taking the abandoned type as its cognitive Condition.
 
 Vasubandhu accepts no independent fifth member because this feature is already
 included under eradication of the two causes and transcendence of the domain.

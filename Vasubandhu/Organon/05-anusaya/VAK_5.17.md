@@ -18,14 +18,9 @@ The verse states the general rule for the scope of adherence by cognitive
 support. VAK 5.18 will introduce its exceptions and the distinct relation of
 adherence by conjunction.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sarvatragāḥ | anuśayāḥ | sakalām | anuśerate | sva-bhūmim |
-ālambanataḥ | sva-nikāyam | asarvagāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sarvatragāḥ` | nominative plural masculine | universally ranging anuśayas |
 | `anuśayāḥ` | nominative plural masculine | underlying afflictive dispositions |
@@ -35,6 +30,11 @@ sarvatragāḥ | anuśayāḥ | sakalām | anuśerate | sva-bhūmim |
 | `ālambanataḥ` | ablative used adverbially | by way of cognitive support |
 | `sva-nikāyam` | accusative singular masculine | their own abandonment-class |
 | `asarvagāḥ` | nominative plural masculine | non-universal anuśayas |
+
+Padaccheda: `sarvatragāḥ | anuśayāḥ | sakalām | anuśerate |
+sva-bhūmim | ālambanataḥ | sva-nikāyam | asarvagāḥ`.
+The second clause carries forward both `anuśerate` and `ālambanataḥ`;
+the contrast is between two ranges of adherence by cognitive support.
 
 The Bhāṣya fixes `nikāya` here as one of the five classes determined by mode of
 abandonment, not an unspecified collection or social group.
@@ -70,6 +70,9 @@ adhere [by way of cognitive support] to their own class
 The verb and adverbial qualifier are understood by ellipsis from the first
 half. The contrast is therefore within one and the same object-support
 relation: whole-level range versus own-class restriction.
+The Bhāṣya specifies five abandonment classes within the whole level and
+calls this statement an `utsarga`, a general rule before the exception in
+5.18.
 
 ## 5. Translation
 
@@ -80,13 +83,9 @@ relation: whole-level range versus own-class restriction.
 
 ### Bhāṣya-informed study translation
 
-> Universal anuśayas adhere by taking their entire own `bhūmi`, across all five
-> abandonment-classes, as cognitive support. Non-universal anuśayas adhere
-> within their own `bhūmi` only to their own truth- or cultivation-specific
-> abandonment-class, and not to another.
-
-The fivefold extension of the level and the technical sense of `svanikāya` are
-supplied by the Bhāṣya.
+> Universal anuśayas adhere through cognitive support to their entire own
+> level, comprising all five abandonment classes; non-universal anuśayas
+> adhere only to their own abandonment class within that level.
 
 ## 6. Philosophical Translation
 

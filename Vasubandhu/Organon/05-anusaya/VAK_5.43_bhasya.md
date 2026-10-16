@@ -1,15 +1,17 @@
 # VAK 5.43 Bhāṣya — The Five Lower Fetters and the Named Three
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > pañcadhāvarabhāgīyaṃ dvābhyāṃ kāmānatikramaḥ |
 > tribhis tu punarāvṛttir mukha-mūla-grahāt trayam || 5.43 ||
 
-> The lower fetters are fivefold. Two prevent passage beyond
-> the desire domain; three bring return. The three are named
-> because naming them takes the entrances and roots.
+> The lower-part fetters are fivefold: desire for sense-objects and hostility
+> prevent passage beyond the desire-realm, while personality-view, grasping
+> at discipline and observance, and doubt bring return even after passage
+> beyond it. This triad is named because it represents the entrances to the
+> broader groups and the roots of the omitted views.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 punar anyatra bhagavatā saṃyojanam uktaṃ
@@ -57,7 +59,7 @@ division and punctuation are editorial. The running text's
 `etānv` and `vicikitsāpravatitā` are retained for later
 textual review.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Elsewhere the Blessed One taught five lower fetters:
 personality view, grasping at discipline and observance,
@@ -71,7 +73,7 @@ of a gatekeeper and attendants.
 Others explain “lower” along two axes: the three prevent
 passing beyond the lower condition of a being, ordinary
 person status; the two prevent passing beyond the lower
-domain, the desire domain. On this account too they are
+domain, the desire-realm. On this account too they are
 called lower fetters.
 
 If a stream entrant's complete abandonment of the three
@@ -86,11 +88,11 @@ view is set in motion by personality view, grasping at views
 by grasping at discipline and observance, and false view by
 doubt. Thus the roots are taken.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The first account distinguishes **retention** from **return**.
 Desire for sense objects and hostility hold one within the
-desire domain; the other three can bring one back after
+desire-realm; the other three can bring one back after
 passage beyond it. The gatekeeper comparison belongs to
 that account. The `apare` account instead distinguishes a
 lower condition of being (`pṛthagjanatva`) from a lower
@@ -116,10 +118,10 @@ account for the wider six, while leaving the exact force
 of the causal verb and the abandonment relation for later
 review.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Avarabhāga` is first identified
-with the desire domain, then receives the `apare` reading
+with the desire-realm, then receives the `apare` reading
 that also considers ordinary person status. `Mukha-mūla-
 graha` explains the teacher's selection of names; it does
 not say that these afflictions grasp entrances as objects.
@@ -137,7 +139,7 @@ claim of implicit inclusion. This is a project-level use
 of the passage, separate from the source's own explanation
 and from any implemented model.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete distributed verse and its
 boundary with 5.44 were checked against the running IAST

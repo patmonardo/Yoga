@@ -18,25 +18,25 @@ VAK 5.43 presents the five lower-part fetters, divides them functionally into
 two and three, and explains why scripture names a triad although six
 afflictions are abandoned at stream-entry.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
+
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `pañcadhā` | indeclinable adverb | fivefold, in five ways |
+| `avara-bhāgīyam` | nominative singular neuter collective adjective | belonging or conducive to the lower part |
+| `dvābhyām` | instrumental dual | through the two fetters |
+| `kāma-anatikramaḥ` | nominative singular masculine compound | failure to pass beyond the desire-realm |
+| `tribhiḥ tu` | instrumental plural with adversative particle | through the three, however |
+| `punaḥ-āvṛttiḥ` | nominative singular feminine compound | return again |
+| `mukha-mūla-grahāt` | ablative singular compound | because the entrances and roots are included by naming them |
+| `trayam` | nominative singular neuter collective | the triad, the group of three |
 
 ```text
 pañcadhā | avara-bhāgīyam | dvābhyām | kāma-anatikramaḥ |
 tribhiḥ | tu | punaḥ-āvṛttiḥ | mukha-mūla-grahāt | trayam
 ```
 
-| Form | Morphology | Contextual sense |
-|---|---|---|
-| `pañcadhā` | indeclinable adverb | fivefold, in five ways |
-| `avara-bhāgīyam` | nominative singular neuter collective adjective | belonging or conducive to the lower part |
-| `dvābhyām` | instrumental dual | through the two fetters |
-| `kāma-anatikramaḥ` | nominative singular masculine compound | failure to pass beyond the desire-domain |
-| `tribhiḥ tu` | instrumental plural with adversative particle | through the three, however |
-| `punaḥ-āvṛttiḥ` | nominative singular feminine compound | return again |
-| `mukha-mūla-grahāt` | ablative singular compound | because the entrances and roots are included by naming them |
-| `trayam` | nominative singular neuter collective | the triad, the group of three |
-
-The Bhāṣya fixes `avara-bhāga` primarily as the desire-domain. Its alternative
+The Bhāṣya fixes `avara-bhāga` primarily as the desire-realm. Its alternative
 explanation also distinguishes a lower condition of being—ordinary-person
 status—from the lower cosmological domain.
 
@@ -64,7 +64,7 @@ tribhiḥ tu
 ```
 
 The instrumentals state the causal means. Desire for sense-objects and
-hostility prevent passage beyond the desire-domain. Through the three
+hostility prevent passage beyond the desire-realm. Through the three
 beginning with personality-view, one returns even after having passed beyond.
 
 **Reason for naming the triad**
@@ -84,24 +84,17 @@ fetters themselves grasp an entrance and root as their objects.
 ### Literal Translation
 
 > The lower-part [fetter-group] is fivefold. Through two there is failure to
-> pass beyond the desire-domain; through three, however, there is return again.
+> pass beyond the desire-realm; through three, however, there is return again.
 > The triad [is taught] because the entrances and roots are taken [by naming
 > it].
 
 ### Bhāṣya-informed study translation
 
-> The five lower-part fetters are personality-view, grasping at discipline and
-> observance, doubt, desire for sense-objects, and hostility. Desire and
-> hostility prevent transcendence of the desire-domain; the other three cause
-> return even after it has been passed beyond. Although six afflictions are
-> abandoned when the stream-enterer abandons these three fetters, scripture
-> names only the triad because its members represent entrances to the broader
-> afflictive groupings and are roots of the omitted views: personality-view
-> sets extreme view in motion, discipline-and-observance grasping sets
-> view-grasping in motion, and doubt sets false view in motion.
-
-The five members, gatekeeper simile, alternative interpretation, sixfold
-abandonment, and three root-derivative pairs are supplied by the Bhāṣya.
+> The lower-part fetters are fivefold: desire for sense-objects and hostility
+> prevent passage beyond the desire-realm, while personality-view, grasping
+> at discipline and observance, and doubt bring return even after passage
+> beyond it. This triad is named because it represents the entrances to the
+> broader groups and the roots of the omitted views.
 
 ## 6. Philosophical Translation
 
@@ -137,9 +130,9 @@ vyāpāda                    hostility
 ```
 
 The first three form the named triad; the last two directly prevent passage
-beyond the desire-domain.
+beyond the desire-realm.
 
-**`Kāmānatikrama` — failure to transcend the desire-domain**
+**`Kāmānatikrama` — failure to transcend the desire-realm**
 
 The retentive function of desire for sense-objects and hostility. The Bhāṣya
 states explicitly: through these two one does not pass beyond `kāmadhātu`.
@@ -147,7 +140,7 @@ states explicitly: through these two one does not pass beyond `kāmadhātu`.
 **`Punarāvṛtti` — return again**
 
 The function of the triad under the primary explanation. Even after passage
-beyond the desire-domain, these fetters bring about return.
+beyond the desire-realm, these fetters bring about return.
 
 **`Dauvārika-anucara-sādharmya` — likeness to a gatekeeper and attendants**
 
@@ -163,7 +156,7 @@ status.
 
 **`Dhātvavaratā` — lower status of the domain**
 
-Identified with the desire-domain. On the alternative account, the two prevent
+Identified with the desire-realm. On the alternative account, the two prevent
 transcendence of this cosmological level.
 
 **`Mukha-graha` — inclusion of the entrance or leading representative**
@@ -251,7 +244,7 @@ and stronger versions of one bondage:
 
 ```text
 desire and hostility
-    → retain within the desire-domain
+    → retain within the desire-realm
 
 personality-view, discipline-and-observance grasping, and doubt
     → produce return after passage beyond

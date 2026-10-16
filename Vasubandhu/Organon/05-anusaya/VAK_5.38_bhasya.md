@@ -1,15 +1,15 @@
 # VAK 5.38 Bhāṣya — Four Appropriations and Ignorance
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > yathoktā eva sāvidyā dvidhā dṛṣṭivivecanāt |
 > upādānāni avidyā tu grāhikā neti miśritā || 5.38 ||
 
-> The previously stated [yokes], with ignorance included,
-> become the appropriations; the views are divided in two.
-> Ignorance is mixed among them because it does not itself grasp.
+> The yokes just described, with ignorance included, become four
+> appropriations when the views are divided into two. Ignorance is mixed into
+> them rather than counted separately, because it does not itself grasp.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     yathoktā eva sā 'vidyā dvidhā dṛṣṭivivecanāt |
@@ -61,7 +61,7 @@ running source has `sā 'vidyā`, `dṛṣṭyu pādānaṃ`, and
 for textual review. The official Kārikā witness prints
 `sāvidyā`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 The yokes already stated, together with ignorance, are the
 appropriations, while the views are divided in two. The
@@ -96,7 +96,7 @@ desire-craving in regard to desires and the other objects.
 The point already made is that the very anuśayas are called
 influxes, floods, yokes, and appropriations in the sūtras.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The four appropriations are counted as follows:
 
@@ -133,7 +133,7 @@ It does not demonstrate that every use of the names has
 identical extension; the more precise relation remains for
 the later textual review.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Grāhikā` means an active grasper
 in the local explanation, while `asaṃprakhyāna` is
@@ -152,7 +152,7 @@ ascribed to it. Those are proposed relations for the Science
 of Citta, separate from the Kośa's explicit classifications
 and from any implemented data model.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The running-source unit was checked through
 its closing sentence at [308|07]. The anomalous forms, the

@@ -18,14 +18,9 @@ The verse explains why attachment, resistance, conceit, and the two
 overvaluations cannot take the uncontaminated cessation and path as their
 cognitive supports.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-na | rāgaḥ | tasya | varjyatvāt | na | dveṣaḥ | anapakārataḥ |
-na | mānaḥ | na | parāmarśau | śānta-śuddhi-agra-bhāvataḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `na` | negative particle | not |
 | `rāgaḥ` | nominative singular masculine | attachment, passion |
@@ -36,6 +31,12 @@ na | mānaḥ | na | parāmarśau | śānta-śuddhi-agra-bhāvataḥ
 | `mānaḥ` | nominative singular masculine | conceit, self-elevation |
 | `parāmarśau` | nominative dual masculine | the two overvaluing adherences |
 | `śānta-śuddhi-agra-bhāvataḥ` | ablative compound | because of being peaceful, pure, and supreme |
+
+Padaccheda: `na | rāgaḥ | tasya | varjyatvāt | na | dveṣaḥ |
+anapakārataḥ | na | mānaḥ | na | parāmarśau |
+śānta-śuddhi-agra-bhāvataḥ`. The Bhāṣya resolves `tasya` as
+attachment itself and distributes the final three grounds across
+conceit and the two adherences.
 
 The dual `parāmarśau` denotes `dṛṣṭiparāmarśa` and
 `śīlavrataparāmarśa`. The repeated ablatives give reasons for the exclusions,
@@ -79,6 +80,9 @@ parāmarśau na
 The Bhāṣya distributes the rationale: peace excludes self-elevation; actual
 purity excludes the false purity-grasp of discipline-overvaluation; genuine
 supremacy excludes grasping an inferior view as supreme.
+Its comparison with `kuśaladharmacchanda`, wholesome aspiration toward a
+wholesome dharma, clarifies why a positive orientation to the Path is not
+automatically `rāga`.
 
 ## 5. Translation
 
@@ -91,14 +95,10 @@ supremacy excludes grasping an inferior view as supreme.
 
 ### Bhāṣya-informed study translation
 
-> Attachment cannot take cessation or path as an uncontaminated cognitive
-> support, because afflicted attachment is itself relinquishable, unlike
-> wholesome aspiration toward a wholesome dharma. Resistance cannot, because
-> cessation and path cause no injury. Conceit and the two overvaluations cannot,
-> because cessation and path are genuinely peaceful, pure, and supreme.
-
-The contrast with wholesome aspiration and the precise allocation of the
-three object-characters are supplied by the Bhāṣya.
+> Attachment does not take cessation or the Path as its support, since
+> attachment is to be relinquished; nor does aversion, since they cause no
+> injury; nor conceit or the two adherences, since they are peaceful,
+> genuinely pure, and supreme.
 
 ## 6. Philosophical Translation
 

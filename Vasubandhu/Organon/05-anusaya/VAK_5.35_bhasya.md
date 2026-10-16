@@ -1,17 +1,16 @@
 # VAK 5.35 Bhāṣya — Desire and Existence Āsravas
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > kāme saparyavasthānāḥ kleśāḥ kāmāsravo vinā |
 > mohenānuśayā eva rūpārūpye bhavāsravaḥ || 5.35 ||
 
-> In the desire domain, afflictions together with the
-> paryavasthānas, apart from ignorance, constitute the
-> desire āsrava. In the form and formless domains, the
-> anuśayas alone, again apart from ignorance, constitute
-> the existence āsrava.
+> In the desire-realm, afflictions together with paryavasthānas, apart from
+> ignorance, constitute the desire āsrava. In the form and formless domains,
+> only the anuśayas, again apart from ignorance, constitute the existence
+> āsrava.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 eta evānuśayāḥ sūtre bhagavatā traya āsravā uktāḥ:
@@ -50,7 +49,7 @@ domains are grouped. The verse is distributed among the
 prose. Spacing and punctuation are editorial. The running
 source's `dṛṣṭyobho` is retained and remains uncertain.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 The same anuśayas are taught in sūtra as three āsravas:
 desire, existence, and ignorance; as four floods: desire,
@@ -58,7 +57,7 @@ existence, views, and ignorance; as four yokes with the
 same names; and as four appropriations: of desire, views,
 discipline and observance, and a doctrine of self.
 
-First, in the desire domain the afflictions together with
+First, in the desire-realm the afflictions together with
 the paryavasthānas, excluding ignorance, constitute the
 desire āsrava. There are forty-one counted factors:
 thirty-one anuśayas after excluding the five modes of
@@ -74,7 +73,7 @@ paryavasthānas among the existence āsrava's factors?
 Why are they omitted here? The Kāśmīra teachers answer:
 because they lack independence.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The opening says `eta eva anuśayāḥ`: a previously analyzed
 afflictive field is being reorganized under several
@@ -84,7 +83,7 @@ along with non-ignorance afflictions; the existence āsrava
 counts only non-ignorance anuśayas. Ignorance is excluded
 from both because it receives its own category.
 
-The arithmetic is exact: in the desire domain, 36 anuśayas
+The arithmetic is exact: in the desire-realm, 36 anuśayas
 minus five modes of ignorance gives 31, plus ten
 paryavasthānas gives 41. Each higher domain has 31
 anuśayas; removing its five ignorance modes leaves 26,
@@ -98,7 +97,7 @@ occurrence.
 The reason for combining the higher domains under one
 existence āsrava is taken up in 5.36.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Āsrava` remains transliterated
 in the main study because “influx” and “outflow” each
@@ -118,7 +117,7 @@ counted independently. This is a project-level use of
 the Kośa's classifications, separate from the Kāśmīra
 position and from any implemented system.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete 5.35 explanation and its
 boundary with 5.36 were checked against the running IAST

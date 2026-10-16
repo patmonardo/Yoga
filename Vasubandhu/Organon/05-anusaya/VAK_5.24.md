@@ -18,19 +18,14 @@ The verse completes the contrast between particular-character and general-
 character afflictions by determining their binding range across cognitive
 locus, temporal object, and future mode of actualization.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sarvatra | anāgataiḥ | ebhiḥ | mānasaiḥ | sva-ādhvike | paraiḥ |
-ajaiḥ | sarvatra | śeṣaiḥ | tu | sarvaiḥ | sarvatra | saṃyutaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sarvatra` | indeclinable adverb | everywhere; with respect to every object |
 | `anāgataiḥ` | instrumental plural | by future afflictions |
 | `ebhiḥ` | instrumental plural pronoun | by these [attachment, aversion, and conceit] |
-| `mānasaiḥ` | instrumental plural adjective | mental; belonging to mind-consciousness |
+| `mānasaiḥ` | instrumental plural adjective | mental; belonging to mind-cognition |
 | `sva-ādhvike` | locative singular adjective used substantivally | in what belongs to their own temporal period |
 | `paraiḥ` | instrumental plural | by the others |
 | `ajaiḥ` | instrumental plural | by the non-arising ones; those not destined to arise |
@@ -38,6 +33,12 @@ ajaiḥ | sarvatra | śeṣaiḥ | tu | sarvaiḥ | sarvatra | saṃyutaḥ
 | `tu` | adversative particle | but |
 | `sarvaiḥ` | instrumental plural | by all, in every temporal mode |
 | `saṃyutaḥ` | nominative singular masculine | connected, bound |
+
+Padaccheda: `sarvatra | anāgataiḥ | ebhiḥ | mānasaiḥ |
+sva-ādhvike | paraiḥ | ajaiḥ | sarvatra | śeṣaiḥ | tu |
+sarvaiḥ | sarvatra | saṃyutaḥ`. The Bhāṣya identifies `ebhiḥ`
+with the triad of 5.23, `paraiḥ` with future sensory attachment
+and aversion, and `ajaiḥ` with those not destined to arise.
 
 The Bhāṣya resolves the compact expressions: `paraiḥ` denotes future sensory
 attachment and aversion; `ajaiḥ` is glossed as `anutpattidharma`, having the
@@ -69,7 +70,7 @@ one is connected with objects of their own time
 ```
 
 The “others” are attachment and aversion belonging to the five sensory
-consciousness-groups. Conceit is absent because it belongs to the mental plane.
+cognition-groups. Conceit is absent because it belongs to the mental plane.
 
 **Non-arising and remaining cases**
 
@@ -83,6 +84,9 @@ but by all the remaining afflictions, one is bound everywhere
 
 The standing qualification from VAK 5.23—so long as the afflictions remain
 unabandoned—continues throughout, according to the Bhāṣya.
+The `śeṣaiḥ` are view, doubt, and ignorance in their past, present,
+and future forms; their general-character status grounds the final
+universal range.
 
 ## 5. Translation
 
@@ -95,17 +99,11 @@ unabandoned—continues throughout, according to the Bhāṣya.
 
 ### Bhāṣya-informed study translation
 
-> Future attachment, aversion, and conceit belonging to mind-consciousness bind
-> with respect to objects of all three times. Future attachment and aversion
-> belonging to the five sensory consciousnesses, when destined to arise, bind
-> only to future objects. Yet those same sensory afflictions, when not destined
-> to arise, bind with respect to every temporal object. All past, present, and
-> future views, doubts, and ignorances bind universally because they are
-> general-character afflictions, so long as they remain unabandoned.
-
-The cognitive loci, the destined/non-destined distinction, the identity of the
-remaining afflictions, and the continued abandonment condition are supplied by
-the Bhāṣya.
+> Future mental attachment, aversion, and conceit bind one across the three
+> times; future sensory attachment and aversion destined to arise bind one only
+> to future objects. Their non-arising counterparts bind one across the three
+> times, while views, doubts, and ignorances of every time bind one everywhere,
+> so long as they remain unabandoned.
 
 ## 6. Philosophical Translation
 
@@ -133,7 +131,7 @@ But modal non-actualization does not by itself equal abandonment.
 **`Mānasa / manobhūmika` — belonging to the mental plane**
 
 The Bhāṣya applies this to future attachment, aversion, and conceit associated
-with mind-consciousness. Because mental cognition can take past, present, and
+with mind-cognition. Because mental cognition can take past, present, and
 future objects, these afflictions bind across all three times.
 
 **`Tryadhva-viṣayatva` — having the three times as object-range**
@@ -142,7 +140,7 @@ The explicit Bhāṣya rationale for the universal temporal scope of future
 mental afflictions. The carrier's cognitive range determines the affliction's
 binding range.
 
-**`Pañca-vijñāna-kāyika` — belonging to the five consciousness-groups**
+**`Pañca-vijñāna-kāyika` — belonging to the five cognition-groups**
 
 This identifies `paraiḥ` as sensory attachment and aversion. When destined to
 arise, they bind only to future objects because sensory cognition takes an
@@ -177,7 +175,7 @@ The mental-carrier rule is:
 ```text
 Future(x)
 AND ParticularAffliction(x)
-AND CarriedBy(x, MindConsciousness)
+AND CarriedBy(x, MindCognition)
 AND NotAbandoned(x)
     → BindingRange(x, PastPresentFutureObjects)
 ```
@@ -257,15 +255,15 @@ phala
     the binding range generated across temporal objects
 
 āśraya
-    mind- or sense-consciousness as the operative cognitive locus
+    mind- or sense-cognition as the operative cognitive locus
 
 ālambana
     past, present, or future objects within the carrier's range
 ```
 
 Here `āśraya` is especially concrete. The same broad affliction receives a
-different range according to whether mind-consciousness or sensory
-consciousness carries it. The `ālambana` is correspondingly tri-temporal or
+different range according to whether mind-cognition or sensory
+cognition carries it. The `ālambana` is correspondingly tri-temporal or
 own-period. From their relation the binding `phala` follows.
 
 The general-character afflictions reveal a further danger. A view, doubt, or
@@ -289,18 +287,18 @@ vak:VAK_5_24 a vak:Karika ;
                  vak:ModalAfflictionStatus .
 
 vak:FutureMentalAfflictionRule a vak:BindingScopeRule ;
-    vak:requires vak:MindConsciousnessCarrier,
+    vak:requires vak:MindCognitionCarrier,
                  vak:UnabandonedStatus ;
     vak:produces vak:ThreeTimeBindingRange .
 
 vak:FutureSensoryArisingRule a vak:BindingScopeRule ;
-    vak:requires vak:SenseConsciousnessCarrier,
+    vak:requires vak:SenseCognitionCarrier,
                  vak:DestinedToArise,
                  vak:UnabandonedStatus ;
     vak:produces vak:FutureObjectBindingRange .
 
 vak:FutureSensoryNonArisingRule a vak:BindingScopeRule ;
-    vak:requires vak:SenseConsciousnessCarrier,
+    vak:requires vak:SenseCognitionCarrier,
                  vak:NotDestinedToArise,
                  vak:UnabandonedStatus ;
     vak:produces vak:ThreeTimeBindingRange .

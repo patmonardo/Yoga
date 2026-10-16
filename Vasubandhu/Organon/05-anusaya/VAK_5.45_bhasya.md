@@ -1,16 +1,16 @@
 # VAK 5.45 Bhāṣya — Five Higher Fetters and Three Bonds
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > pañcadhaivordhvabhāgīyaṃ dvau rāgau rūpyarūpijau |
 > auddhatyamānamohāś ca vidvaśād bandhanatrayam || 5.45 ||
 
-> The higher fetters too are five: the two attachments born
-> in form and the formless, together with restlessness,
-> conceit, and ignorance. [A new classification follows:]
-> three bonds, under the uncertain reading `vidvaśād`.
+> The higher-part fetters are likewise five: attachment to form, attachment
+> to the formless, restlessness, conceit, and ignorance. The three bonds—
+> desire, hostility, and delusion—are distinguished by their relation to the
+> three feelings.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 yathā bhagavatā pañcavidham avarabhāgīyaṃ
@@ -55,7 +55,7 @@ are editorial. The running Kārikā has `vidvaśād`, and
 its explanatory prose has `trivedanāvaśārttīṇi`;
 both are retained as uncertain transmitted forms.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Just as the Blessed One taught five lower fetters, so the
 higher fetters too are five: attachment to form, attachment
@@ -79,7 +79,7 @@ afflictions are next. All afflictions (*kleśas*) are also
 secondary afflictions (*upakleśas*) insofar as they afflict
 the citta.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The Bhāṣya explicitly says `samāptaḥ saṃyojanaprasaṅgaḥ`:
 the account of fetters has ended. This controls the
@@ -107,7 +107,7 @@ kleśas are also upakleśas gives a broad inclusion on the
 ground that they afflict citta; 5.46 will distinguish other
 afflicted mental factors from the kleśas.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** The Kārikā's `vidvaśād` cannot
 be securely translated from this witness alone. The prose
@@ -128,7 +128,7 @@ to feeling explains the three bonds. That is a project-level
 method for the Science of Citta, separate from the source's
 own claims and from any implementation.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The distributed verse, explicit fetter closure,
 bond triad, and transition toward 5.46 were checked against

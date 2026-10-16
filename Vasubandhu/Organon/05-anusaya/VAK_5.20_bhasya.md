@@ -1,18 +1,18 @@
 # VAK 5.20 Bhāṣya — Roots of the Unwholesome and Indeterminate
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> kāme 'kuśalamūlāni rāgapratighamūḍhayaḥ |
-> trīṇy avyākṛtamūlāni tṛṣṇāvidyā matiś ca sā || 5.20 ||
+> kāme 'kuśala-mūlāni rāga-pratigha-mūḍhayaḥ |
+> trīṇy avyākṛta-mūlāni tṛṣṇāvidyā matiś ca sā || 5.20 ||
 
-> In the desire domain, attachment, hostility, and delusion are
-> roots of the unwholesome. The roots of the indeterminate are
-> three: craving, ignorance, and cognition in that mode.
+> In the desire-realm, attachment, hostility, and delusion are roots of the
+> unwholesome; the three roots of the ethically indeterminate are craving,
+> ignorance, and discriminative cognition in their indeterminate forms.
 
 The third pāda here is the official study's contextual reading;
 the running IAST text differs, as noted below.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 katy akuśalamūlāni kati na?
@@ -48,11 +48,11 @@ study's contextual correction `avyākṛtamūlāni`; the continuous
 Sanskrit retains the running witness's reading. The separation
 of `avyākṛta mūlāni` in the prose is also retained.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 How many are roots of the unwholesome, and how many are not?
-“In the desire domain, attachment, hostility, and delusion are
-roots of the unwholesome.” In the desire domain, all attachment,
+“In the desire-realm, attachment, hostility, and delusion are
+roots of the unwholesome.” In the desire-realm, all attachment,
 all hostility, and all delusion are included, except the delusion
 associated with self-view and extreme-view, respectively.
 
@@ -70,7 +70,7 @@ discriminative cognition that is indeterminate, even if born
 of maturation, is an indeterminate root, according to the
 Kāśmīra teachers.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The question has changed from the **ethical status** of an
 anuśaya in 5.19 to its status as a **root**. For an
@@ -97,7 +97,7 @@ adopts `avyākṛtamūlāni` for its third pāda. Both textual facts
 must remain visible; the doctrinal argument does not by itself
 establish the history of the verse's wording.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Mūla` is a root relation, not a
 synonym for having the same ethical status. The prose names
@@ -116,7 +116,7 @@ of citta and caitta relations. It is a project-level use of
 the Bhāṣya, separate from the Kāśmīra attribution and from
 any claim about implemented software.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The whole unit was checked against the running
 IAST source. The third-pāda discrepancy and the compressed

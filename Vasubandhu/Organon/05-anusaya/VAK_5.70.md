@@ -19,7 +19,7 @@ possessed parijñās later established as only one? It then closes the parijñā
 discussion and the Anuśayanirdeśa by specifying the possible relinquishment
 and acquisition counts.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
 ```text
 tāsām | saṃkalanam | dhātu-vairāgya-phala-lābhataḥ |
@@ -84,15 +84,11 @@ set but not the acquisition set.
 
 ### Bhāṣya-informed study translation
 
-> Previously distinct parijñās are established as one when dispassion toward
-> an entire domain and attainment of a Path-fruit occur; the relevant
-> abandonments are then gathered under one parijñā designation. Depending on
-> the Path-transition, a practitioner may relinquish one, two, five, or six
-> parijñās, and may acquire one, two, or six—but no one newly acquires five.
-
-Relinquishing a parijñā in this accounting does not itself mean that the
-affliction destroyed by the earlier Path is thereby destroyed a second time
-or that every prior liberative effect is simply reversed.
+> Previously distinct *parijñās* are established as one when dispassion from
+> a realm and attainment of a fruit coincide: the completed abandonments are
+> gathered under one designation. At the specified Path transitions, a
+> practitioner relinquishes one, two, five, or six *parijñās* and acquires
+> one, two, or six; no one acquires five.
 
 ## 6. Philosophical Translation
 
@@ -108,6 +104,9 @@ or that every prior liberative effect is simply reversed.
 The source defines consolidation as establishment as one; it does not here
 warrant a stronger claim about ontological fusion or the fate of every earlier
 acquisition.
+Relinquishing a parijñā in this accounting does not itself mean that the
+affliction destroyed by the earlier Path is thereby destroyed a second time
+or that every prior liberative effect is simply reversed.
 
 ## 7. Technical Vocabulary
 
@@ -118,7 +117,7 @@ All relevant abandonments are gathered and one parijñā is designated. This is
 securely a technical classification of completed abandonments; deeper claims
 about fusion of dharmas are not made here.
 
-**`Dhātu-vairāgya` — dispassion toward a domain**
+**`Dhātu-vairāgya` — dispassion from a realm**
 
 One trigger of consolidation. It concerns freedom from the binding range of
 an entire domain, not merely temporary absence of one local affliction.
@@ -142,12 +141,12 @@ are one, two, or six; five is excluded.
 
 **One relinquished**
 
-One who falls from arhatship or from desire-domain dispassion relinquishes one
+One who falls from arhatship or from desire-realm dispassion relinquishes one
 parijñā.
 
 **Two relinquished**
 
-A non-returner free from passion for form who falls from desire-domain
+A non-returner free from passion for form who falls from desire-realm
 dispassion relinquishes two.
 
 **Five relinquished**
@@ -159,12 +158,12 @@ parijñā.
 **Six relinquished**
 
 An `ānupūrvika`, one proceeding in regular sequence, relinquishes six upon
-attainment of desire-domain dispassion.
+attainment of desire-realm dispassion.
 
 **The acquisition cases**
 
 One acquires a parijñā not previously possessed; two are acquired by one who
-falls solely from formless-domain dispassion; six are acquired by one who
+falls solely from formless-realm dispassion; six are acquired by one who
 falls from the fruit of non-returning. No transition produces five as a newly
 acquired possession-set.
 

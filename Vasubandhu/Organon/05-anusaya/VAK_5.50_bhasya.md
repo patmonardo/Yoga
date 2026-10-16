@@ -1,16 +1,15 @@
 # VAK 5.50 Bhāṣya — Six Stains, Four Stated Sources
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > pradāśa upanāhaś ca vihiṃsā ceti rāgajau |
 > māyā-madau pratighaje upanāha-vihiṃsane || 5.50 ||
 
-> Obstinate fault-clinging, sustained resentment, and
-> harmfulness complete the six stains. Deceit and
-> intoxication are born of attachment; resentment and
-> harmfulness are born of hostility.
+> Obstinate fault-clinging, sustained resentment, and harmfulness complete the
+> six stains. Deceit and intoxication are born from attachment; sustained
+> resentment and harmfulness are born from hostility.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     pradāśa upanāhaś ca vihiṃsā ceti.
@@ -39,7 +38,7 @@ punctuation are editorial. The source's `viheṭhnaṃ` and
 the compact remainder of the `śāṭhya` definition remain
 for textual review.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Obstinate fault-clinging, sustained resentment, and
 harmfulness complete the six stains. Of these, deceit is
@@ -58,7 +57,7 @@ harmfulness are the two born of hostility. The source
 affiliations of obstinate fault-clinging and crookedness
 come in the next verse.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The source establishes the complete six-member class by
 joining 5.49's deceit, crookedness, and intoxication to
@@ -84,7 +83,7 @@ and refuses correction; this is not defined here as exposing
 someone else's fault. The text gives no further mechanism
 for why attachment generates its two named stains.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** “Obstinate fault-clinging” keeps
 the `dṛḍhagrāhitā` of the prose visible, while the rendering
@@ -103,7 +102,7 @@ The Science of Citta can preserve that partial but exact
 state of knowledge. This is a project-level use of the
 Bhāṣya, not an implementation claim.
 
-## Review Status
+## 6. Review Status
 
 Provisional. Both fragments of 5.50, the definitions between
 them, and the boundary with 5.51 were checked against the

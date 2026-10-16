@@ -15,29 +15,29 @@ sarve 'py upekṣayā svaiḥ svair yathā-bhūmy ūrdhva-bhūmikāḥ || 5.56 |
 ```
 
 VAK 5.56 completes the anuśaya–feeling analysis begun in 5.55. It first
-specifies further desire-domain pairings, then states a general equanimity
+specifies further desire-realm pairings, then states a general equanimity
 rule, and finally constrains higher-level conjunctions by the faculties
 available in each level.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-daurmanasyena | kāṅkṣā | anye | saumanasyena | kāma-jāḥ |
-sarve | api | upekṣayā | svaiḥ | svaiḥ | yathā-bhūmi | ūrdhva-bhūmikāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `daurmanasyena` | instrumental singular neuter | with mental distress or dejection |
 | `kāṅkṣā` | nominative singular feminine | afflictive doubt; the Bhāṣya treats it as unresolved seeking for certainty |
 | `anye` | nominative plural masculine | the others: specifically the other four views and conceit |
 | `saumanasyena` | instrumental singular neuter | with mental gladness |
-| `kāma-jāḥ` | nominative plural masculine | arising in the desire-domain |
+| `kāma-jāḥ` | nominative plural masculine | arising in the desire-realm |
 | `sarve api` | nominative plural plus particle | all also; all the anuśayas under discussion |
 | `upekṣayā` | instrumental singular feminine | with the faculty of neutral or equanimous feeling |
 | `svaiḥ svaiḥ` | repeated instrumental plural masculine/neuter | with their own respective faculties |
 | `yathā-bhūmi` | adverbial compound | according to the level or domain |
 | `ūrdhva-bhūmikāḥ` | nominative plural masculine | afflictions belonging to higher levels |
+
+```text
+daurmanasyena | kāṅkṣā | anye | saumanasyena | kāma-jāḥ |
+sarve | api | upekṣayā | svaiḥ | svaiḥ | yathā-bhūmi | ūrdhva-bhūmikāḥ
+```
 
 `Kāmajāḥ` limits the determinate pairings in the first half to the desire-
 domain. `Yathābhūmi` makes the final rule domain-relative rather than a simple
@@ -81,7 +81,7 @@ The final clause is distributive:
 
 The repeated `svaiḥ svaiḥ` assigns to each higher-level affliction the
 faculties proper to its own level. The Bhāṣya further preserves the distinction
-between factors belonging to consciousness-bodies and those restricted to the
+between factors belonging to cognition-bodies and those restricted to the
 mental plane.
 
 ## 5. Translation
@@ -95,22 +95,16 @@ mental plane.
 
 ### Bhāṣya-informed study translation
 
-> Doubt is associated with mental distress. The other four views and conceit,
-> when arising in the desire-domain, are associated with mental gladness. All
-> these anuśayas can also be associated with the faculty of equanimity.
-> Afflictions belonging to higher levels are associated with the feeling-
-> faculties proper to their respective levels, according to which faculties
-> are available there.
-
-The identification of `anye`, the scope of `kāmajāḥ`, and the reference of
-`svaiḥ svaiḥ` to the available faculties are supplied explicitly by the
-Bhāṣya.
+> Doubt is conjoined with mental distress; the four other views and conceit,
+> when born in the desire-realm, with mental gladness. All the anuśayas are
+> also conjoined with equanimity. Those on higher levels are conjoined with
+> the feeling-faculties proper to each level.
 
 ## 6. Philosophical Translation
 
 > Afflictive doubt seeks determination yet remains unable to attain it, and
 > therefore occurs with mental distress. The remaining four views and conceit
-> can affirm themselves with gladness in the desire-domain. Yet characteristic
+> can affirm themselves with gladness in the desire-realm. Yet characteristic
 > affect is not exclusive affect: every anuśaya can also persist with neutral
 > feeling. In higher levels, possible conjunction is governed by the affective
 > and cognitive constitution of each field. Calmness, subtlety, and elevation
@@ -142,7 +136,7 @@ conceit
 These are associated with gladness because they operate in a mode of
 exhilaration or elation (`harṣākāravartitva`).
 
-**`Kāmaja` — arising in the desire-domain**
+**`Kāmaja` — arising in the desire-realm**
 
 A domain predicate delimiting the specific conjunctions established across
 VAK 5.55–5.56. It does not mean merely sensual in an ordinary psychological
@@ -178,7 +172,7 @@ its own available faculties and cognitive supports.
 
 ## 8. Logical Determination
 
-The specific desire-domain rules are:
+The specific desire-realm rules are:
 
 ```text
 PermitsConjunction(Kāṅkṣā, Daurmanasya, DesireDomain)

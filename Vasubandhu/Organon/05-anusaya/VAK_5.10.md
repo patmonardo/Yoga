@@ -18,15 +18,9 @@ The chapter moves from malformed view and inversion to afflicted
 self-measurement. The final `tathā`, “likewise,” also carries the
 cultivation-abandonment rule forward into VAK 5.11.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sapta | mānāḥ | nava-vidhāḥ | tribhyaḥ |
-dṛk-bhāvanā-kṣayāḥ |
-vadha-ādi-paryavasthānam | heyam | bhāvanayā | tathā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sapta` | numeral | seven |
 | `mānāḥ` | nominative plural masculine | conceits, afflicted self-estimations |
@@ -37,6 +31,12 @@ vadha-ādi-paryavasthānam | heyam | bhāvanayā | tathā
 | `heyam` | nominative singular neuter gerundive | to be abandoned |
 | `bhāvanayā` | instrumental singular feminine | through cultivation |
 | `tathā` | adverb | likewise; in the same manner |
+
+Padaccheda: `sapta | mānāḥ | nava-vidhāḥ | tribhyaḥ |
+dṛk-bhāvanā-kṣayāḥ | vadha-ādi-paryavasthānam | heyam |
+bhāvanayā | tathā`. In the Bhāṣya's compact
+`mānātimānonamānebhyaḥ`, the three sources of the nine modes are
+`māna`, `atimāna`, and `ūnamāna`.
 
 `Māna` is related to √mā, “measure,” but the Bhāṣya gives the operative
 definition `cittasya unnati`, elevation of consciousness. Its sevenfold
@@ -55,7 +55,7 @@ sapta mānāḥ [santi]
 ```
 
 The Bhāṣya identifies the three generators of the secondary ninefold scheme
-as `mānātimāna`, `ūnamāna`, and `māna`. The nine are not a second independent
+as `māna`, `atimāna`, and `ūnamāna`. The nine are not a second independent
 list added to the seven.
 
 **Two modes of exhaustion**
@@ -80,6 +80,8 @@ afflictive occupation beginning with killing
 
 `Tathā` completes the present comparison and opens the continuation into VAK
 5.11.
+The seven definitions, the three sources of the nine modes, and the range of
+`vadhādi` are supplied by the Bhāṣya.
 
 ## 5. Translation
 
@@ -91,17 +93,10 @@ afflictive occupation beginning with killing
 
 ### Bhāṣya-informed study translation
 
-> Conceit, generically the elevation of consciousness, has seven forms
-> according to differences in its operation. A secondary ninefold scheme is
-> generated from three of these—mānātimāna, ūnamāna, and māna. Determinate
-> occurrences of the seven are exhausted through seeing or cultivation.
-> Afflictive occupation under which one deliberately acts from killing through
-> false speech is cultivation-abandonable because it takes cultivation-
-> abandonable dharmas as its cognitive support; the same rule continues into
-> the next verse.
-
-The seven definitions, the generators of the nine, the distributive force of
-the two Path modes, and the range of `vadhādi` are supplied by the Bhāṣya.
+> Conceit has seven forms, and three of them yield nine modes; its forms are
+> exhausted through seeing or cultivation. The afflictive occupation leading
+> to deliberate killing and similar acts is abandoned through cultivation;
+> likewise—
 
 ## 6. Philosophical Translation
 
@@ -156,7 +151,7 @@ enumeration while preserving this source caution.
 
 The nine judgments concern being superior, equal, or inferior, together with
 having or not having someone superior, equal, or inferior. The Bhāṣya derives
-them from `mānātimāna`, `ūnamāna`, and `māna`, with their allocation varying
+them from `māna`, `atimāna`, and `ūnamāna`, with their allocation varying
 according to the comparative relation intended.
 
 **`Pravṛttibheda` — difference in operation**
@@ -186,7 +181,7 @@ Mana
 The secondary comparative system is:
 
 ```text
-mānātimāna
+atimāna
 ūnamāna
 māna
     → nine conventional self-positionings
@@ -290,7 +285,7 @@ vak:SevenManaTypes
                   vak:Mithyamana .
 
 vak:NinefoldManaScheme
-    vak:generatedFrom vak:Manatimana,
+    vak:generatedFrom vak:Atimana,
                       vak:Unamana,
                       vak:Mana .
 

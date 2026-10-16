@@ -14,28 +14,24 @@ bhavāgrajāḥ kṣāntivadhyā dṛggheyā eva śeṣajāḥ |
 dṛgbhāvanābhyām akṣāntivadhyā bhāvanayaiva tu || 5.6 ||
 ```
 
-The compressed verse qualifies the seeing/cultivation division developed in
-VAK 5.04–5.05. The Bhāṣya denies that every anuśaya classified as
-`darśanaprahātavya` must, in every case, be abandoned only through seeing.
+## 3. Lexical Analysis
 
-## 3. Padaccheda and Lexical Analysis
-
-```text
-bhava-agra-jāḥ | kṣānti-vadhyāḥ | dṛk-heyāḥ | eva | śeṣa-jāḥ |
-dṛk-bhāvanābhyām | a-kṣānti-vadhyāḥ | bhāvanayā | eva | tu
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `bhava-agra-jāḥ` | nominative plural masculine compound | born on the summit-level of existence |
-| `kṣānti-vadhyāḥ` | nominative plural masculine compound | counteracted or destroyable by kṣānti |
-| `dṛk-heyāḥ` | nominative plural masculine compound | to be abandoned through seeing |
-| `eva` | restrictive particle | only, precisely |
-| `śeṣa-jāḥ` | nominative plural masculine compound | born on the remaining levels |
-| `dṛk-bhāvanābhyām` | instrumental dual | through seeing and cultivation |
-| `a-kṣānti-vadhyāḥ` | nominative plural masculine compound | not counteracted by kṣānti |
-| `bhāvanayā` | instrumental singular | through cultivation |
-| `tu` | contrastive particle | but, however |
+| bhavāgra-jāḥ | compound adjective; masculine; nominative plural | born at the summit of existence |
+| kṣānti-vadhyāḥ | compound adjective; masculine; nominative plural | counteracted by *kṣānti* |
+| dṛg-heyāḥ | compound adjective; masculine; nominative plural | to be abandoned through seeing |
+| eva | indeclinable | restricts the first and final removal modes to “only” |
+| śeṣa-jāḥ | compound adjective; masculine; nominative plural | born on the remaining levels |
+| dṛg-bhāvanābhyām | coordinative compound; feminine; instrumental dual | through seeing and cultivation, distributed by practitioner |
+| a-kṣānti-vadhyāḥ | privative compound adjective; masculine; nominative plural | not counteracted by *kṣānti* |
+| bhāvanayā | noun; feminine; instrumental singular (lemma: bhāvanā) | through cultivation |
+| tu | indeclinable | contrasts the final class |
+
+Sandhi and word division: *dṛggheyā* = *dṛg-heyāḥ*;
+*dṛgbhāvanābhyām* = *dṛg-bhāvanābhyām*; *bhāvanayaiva* =
+*bhāvanayā eva*. The first *eva* restricts seeing at the summit; the second
+restricts cultivation for the class not counteracted by *kṣānti*.
 
 The Bhāṣya interprets `akṣāntivadhya` positively as `jñānavadhya`, counteracted
 by knowledge. `Kṣānti` is therefore retained as a technical Path term and not
@@ -93,17 +89,11 @@ The Bhāṣya applies this rule on every level and to both kinds of practitioner
 
 ### Bhāṣya-informed study translation
 
-> The kṣānti-counteracted anuśayas born at the summit of existence are
-> abandoned only through seeing. On the remaining levels, anuśayas
-> counteracted as appropriate by dharma-knowledge-kṣānti or
-> anvaya-knowledge-kṣānti are abandoned through seeing by noble practitioners,
-> but through cultivation by ordinary persons. Anuśayas counteracted by
-> knowledge rather than kṣānti are always abandoned through cultivation for
-> both.
-
-The named forms of kṣānti, the practitioner-dependent distribution of
-`dṛgbhāvanābhyām`, and the equivalence of the final class with
-`jñānavadhya` are Bhāṣya determinations.
+> The anuśayas born at the summit of existence and counteracted by *kṣānti*
+> are abandoned only through seeing. Those born on the remaining levels and
+> likewise counteracted by *kṣānti* are abandoned through seeing for noble
+> practitioners or through cultivation for ordinary persons. Those not
+> counteracted by *kṣānti* are abandoned only through cultivation.
 
 ## 6. Philosophical Translation
 
@@ -218,7 +208,7 @@ knowing and acting capacity of the practitioner differs.
 **Appended doctrinal dispute**
 
 Other teachers argue that outsiders do not abandon what is properly
-seeing-abandonable. They cite the later occurrence of desire-domain-supported
+seeing-abandonable. They cite the later occurrence of desire-realm-supported
 speculative views among persons free from sensual attachment. The Vaibhāṣikas
 reply that earlier afflictions had fallen away at the very moment those later
 views arose. The local passage does not fully explain the Devadatta comparison,

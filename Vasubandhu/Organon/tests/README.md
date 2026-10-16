@@ -16,6 +16,8 @@ python Vasubandhu/Organon/tests/audit_karika_sections.py \
   --chapter 4 --check
 python Vasubandhu/Organon/tests/audit_karika_sections.py \
   --chapter 4 --start 42 --end 66 --check
+python Vasubandhu/Organon/tests/audit_bhasya_sections.py \
+  --chapter 5 --start 1 --end 69 --check
 python Vasubandhu/Organon/tests/test_karika_bhasya_alignment.py \
   --chapter 4 --start 1 --end 16
 python -m unittest discover \
@@ -48,11 +50,21 @@ assessment. Without `--check`, the audit inventories exact top-level heading
 patterns without enforcing them. Add repeated `--require-section` or
 `--forbid-section` options for additional scoped checks.
 
-The paired-alignment test normally checks that the kārikā study has a
-Bhāṣya-informed translation. It does not require that translation, or the
-literal rendering, to be copied into the Bhāṣya study. Historical paired
-wording can be inspected explicitly with `--translation-match exact|prefix`;
-these optional comparisons do not define the editorial rule. For chapter 3,
-the optional comparison uses the quoted translation blocks and ignores prose
-following them. The scientific-terminology regression module remains specific
-to the reviewed Dhātu studies and their controlled mappings.
+The Bhāṣya Method in the Organon README numbers every top-level section
+consecutively, beginning with `## 1. Kārikā Anchor` and ending with a numbered
+`Review Status`. It calls for the reviewed kārikā's
+Bhāṣya-informed study translation to appear exactly once in the paired
+Bhāṣya's Kārikā Anchor, with no translation subheading there. The literal
+rendering remains in the kārikā study. The paired-alignment test's default
+mode checks for the informed translation; an exact comparison can be requested
+with `--translation-match exact` for pairs updated to the current method.
+Historical pairs may still have older anchor layouts. The scientific-terminology
+regression module remains specific to the reviewed Dhātu studies and their
+controlled mappings.
+
+`audit_bhasya_sections.py` inventories top-level Bhāṣya patterns by default.
+With `--check`, it requires consecutive section numbers, the standard first
+three sections, a numbered final `Review Status`, and one Sanskrit quote plus
+one English quote directly under the anchor. Use a verse range to audit only
+the pairs already brought up to the current Method; an unreviewed pair such
+as 5.02 should fail.

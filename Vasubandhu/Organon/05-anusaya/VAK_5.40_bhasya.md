@@ -1,15 +1,16 @@
 # VAK 5.40 Bhāṣya — The Operations Named by Āsrava, Ogha, Yoga, and Upādāna
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > āsayanty āsravanty ete haranti śleṣayanty atha |
 > upagṛhṇanti cety eṣām āsravādi-niruktayaḥ || 5.40 ||
 
-> These cause to remain and flow; they carry away,
-> fasten, and take hold. These are the explanations of
-> their names beginning with *āsrava*.
+> These cause beings to remain in saṃsāra and flow, hence “influxes”; they
+> carry away, hence “floods”; fasten, hence “yokes”; and take hold, hence
+> “appropriations.” Such are the explanations of these names beginning with
+> āsrava.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     āsayanty āsravanty ete haranti śleṣayanty atha |
@@ -41,7 +42,7 @@ first explanation, and the boat quotation has
 `gratiprasravdhyā`; both are preserved rather than silently
 repaired. The latter is particularly uncertain.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 “These cause to remain and flow; they carry away, fasten,
 and take hold. These are the explanations of their names
@@ -67,7 +68,7 @@ extremely intense manifestation. Or they are appropriations
 because of frequent adherence through taking up desire and
 the other objects.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The verse's **five verbs explain four names**. `Āsayanti`
 and `āsravanti` both first explain *āsrava*; the remaining
@@ -95,7 +96,7 @@ marks an alternative derivation of appropriation through
 frequent adherence; it should not be flattened into the
 first `upagṛhṇanti` gloss.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** “Cause to remain” supplies the
 unstated object of `āsayanti` from the commentary's
@@ -116,7 +117,7 @@ gains precision when its affected continuum, object, and
 causal operation are specified. This is a project-level
 reading, separate from the source's own niruktis.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete unit and its boundary with 5.41
 were checked against the running IAST witness. The sūtra

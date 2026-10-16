@@ -18,14 +18,9 @@ The verse completes the genetic sequence of the ten anuśayas begun in VAK
 5.32. The Bhāṣya calls the whole series their `pravṛttikrama`, their order of
 arising or manifestation.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tataḥ | anta-grahaṇam | tasmāt | śīla-āmarśaḥ | tataḥ | dṛśaḥ |
-rāgaḥ | sva-dṛṣṭau | mānaḥ | ca | dveṣaḥ | anyatra | iti | anukramaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tataḥ` | ablatival adverb | from that, thereafter |
 | `anta-grahaṇam` | nominative singular neuter | grasping an extreme |
@@ -38,6 +33,11 @@ rāgaḥ | sva-dṛṣṭau | mānaḥ | ca | dveṣaḥ | anyatra | iti | anukr
 | `dveṣaḥ` | nominative singular masculine | hostility or aversion |
 | `anyatra` | locative adverb | elsewhere; toward what is other or opposed |
 | `iti anukramaḥ` | closing nominal statement | such is the sequence |
+
+```text
+tataḥ | anta-grahaṇam | tasmāt | śīla-āmarśaḥ | tataḥ | dṛśaḥ |
+rāgaḥ | sva-dṛṣṭau | mānaḥ | ca | dveṣaḥ | anyatra | iti | anukramaḥ
+```
 
 The Bhāṣya explicitly carries `āmarśa` forward in the compressed `tato dṛśaḥ`,
 yielding `dṛṣṭiparāmarśa`, attachment to or overvaluation of views.
@@ -85,17 +85,11 @@ it to the `pravṛttikrama` of the ten kleśas.
 
 ### Bhāṣya-informed study translation
 
-> From personality-view comes the extreme view that grasps the self as either
-> permanent or annihilated. From this comes attachment to discipline and
-> observance, because purity is expected through the very extreme adopted.
-> That supposed means is then grasped as supreme, producing attachment to
-> views. One clings to one's own view and becomes elevated through it, while
-> hostility arises toward a view opposed to it. Such is the order in which the
-> ten afflictions arise.
-
-The permanent/annihilated alternatives, expected purification, explicit
-`dṛṣṭiparāmarśa`, and grounds of attachment, conceit, and hostility are supplied
-by the Bhāṣya.
+> From self-view arises grasping the self as permanent or annihilated; from
+> that, attachment to discipline and observance as a means of purity; from
+> that, attachment to the view held supreme. Attachment and conceit arise
+> toward one's own view, and hostility toward an opposed view: such is the
+> order of arising.
 
 ## 6. Philosophical Translation
 

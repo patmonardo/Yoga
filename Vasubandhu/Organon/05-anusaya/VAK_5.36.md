@@ -11,21 +11,16 @@
 
 ```text
 avyākṛtāntarmukhā hi te samāhitabhūmikāḥ |
-ata ekīkṛtā mūlam avidyety āsravaḥ pṛthak || 5.36 ||
+ata ekīkṛtāḥ mūlam avidyety āsravaḥ pṛthak || 5.36 ||
 ```
 
 VAK 5.36 gives the reasons for the classifications introduced in VAK 5.35:
 the two higher domains are unified by a threefold shared mode, while ignorance
 is separated because it is the root.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-avyākṛtāḥ | antarmukhāḥ | hi | te | samāhita-bhūmikāḥ |
-ataḥ | ekīkṛtāḥ | mūlam | avidyā | iti | āsravaḥ | pṛthak
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `avyākṛtāḥ` | nominative plural masculine | ethically indeterminate |
 | `antarmukhāḥ` | nominative plural masculine | inward-facing or inward-directed |
@@ -34,10 +29,15 @@ ataḥ | ekīkṛtāḥ | mūlam | avidyā | iti | āsravaḥ | pṛthak
 | `samāhita-bhūmikāḥ` | nominative plural compound | belonging to concentrated planes |
 | `ataḥ` | ablatival adverb | therefore, for this reason |
 | `ekīkṛtāḥ` | nominative plural past passive participle | made one, unified |
-| `mūlam` | nominative neuter singular | root |
+| `mūlam` | nominative or accusative neuter singular | root |
 | `avidyā` | nominative singular feminine | ignorance |
 | `iti` | quotative or reason-marking particle | on the determination that |
 | `āsravaḥ pṛthak` | nominative singular with adverb | a separate influx |
+
+```text
+avyākṛtāḥ | antarmukhāḥ | hi | te | samāhita-bhūmikāḥ |
+ataḥ | ekīkṛtāḥ | mūlam | avidyā | iti | āsravaḥ | pṛthak
+```
 
 The first half predicates three common determinations of `te`; the second draws
 two opposed classificatory consequences: unification by similarity and
@@ -55,7 +55,7 @@ te hi
 ataḥ ekīkṛtāḥ
 ```
 
-`Te` refers to the form- and formless-domain anuśayas of VAK 5.35. The three
+`Te` refers to the form- and formless-realm anuśayas of VAK 5.35. The three
 coordinated predicates give the reason introduced by `hi`; `ataḥ` then marks
 the conclusion that they are gathered into one `bhavāsrava`.
 
@@ -87,15 +87,10 @@ introduced into the kārikā.
 
 ### Bhāṣya-informed study translation
 
-> The anuśayas of the form- and formless-domains are combined into the single
-> existence-influx because both groups share three functional determinations:
-> they are ethically indeterminate, inward-directed in operation, and situated
-> on concentrated planes. Ignorance across the three domains, however, forms
-> a distinct ignorance-influx of fifteen items because ignorance is the root
-> of all the other afflictions.
-
-The explicit threefold similarity and the count of fifteen ignorance-items are
-supplied by the Bhāṣya.
+> The form- and formless-realm anuśayas are unified as one existence āsrava
+> because they are ethically indeterminate, inward-directed, and situated on
+> concentrated planes. Ignorance, the root of all these afflictions, is
+> classified as a separate āsrava.
 
 ## 6. Philosophical Translation
 
@@ -114,7 +109,7 @@ is the distinctness of its office within that field.
 
 **`Avyākṛta` — ethically indeterminate**
 
-One shared determination of form- and formless-domain affliction. It does not
+One shared determination of form- and formless-realm affliction. It does not
 mean causally inert or liberating.
 
 **`Antarmukha-pravṛtta` — inward-directed in operation**
@@ -135,7 +130,7 @@ existence-influx.
 **`Ekīkṛta` — unified**
 
 Gathered under a single functional classification. This does not erase the
-distinction between the form- and formless-domains.
+distinction between the form- and formless-realms.
 
 **`Mūla` — root**
 

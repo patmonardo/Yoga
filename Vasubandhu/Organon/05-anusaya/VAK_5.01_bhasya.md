@@ -1,17 +1,18 @@
 # VAK 5.01 Bhāṣya — The Root of Conditioned Existence
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > mūlaṃ bhavasyānuśayāḥ ṣaḍ rāgaḥ pratighas tathā |
 > māno 'vidyā ca dṛṣṭiś ca vicikitsā ca te punaḥ || 5.01 ||
 
-> The anuśayas are the root of existence. They are six: attachment,
-> resistance, conceit, ignorance, view, and doubt. These, in turn—
+> The anuśayas are the root of conditioned existence. They are six:
+> attachment, resistance, conceit, ignorance, view, and doubt. These,
+> in turn—
 
 The suspended ending continues in 5.02. The present study ends with the
 Bhāṣya's corresponding `te punaḥ`.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 "karmajaṃ lokavaicitrya" m ity uktam. tāni karmāṇy anuśayavaśād
@@ -46,7 +47,7 @@ The research excerpt already changes `pandhanārthaṃ` to
 `bandhanārthaṃ`. The compact `athāgrahaṇaṃ` also needs independent
 comparison before its precise grammatical force can be fixed.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 It was said that “the diversity of the world is born from karma.” Those
 actions accumulate under the power of the anuśayas; without the anuśayas
@@ -56,8 +57,8 @@ understand: “The anuśayas are the root of existence.”
 For an affliction in operation performs ten functions: it strengthens
 the root, establishes the continuum, prepares the field, produces an
 outflow, brings forth karmic existence, takes up its own accumulation,
-deludes with regard to the cognitive support, bends the stream of
-consciousness, departs from the wholesome side, and extends for the sake
+deludes with regard to the cognitive condition, bends the stream of
+Cognition, departs from the wholesome side, and extends for the sake
 of binding, in the mode of not passing beyond the realm.
 
 How many anuśayas are there? In summary, six. Which? “Attachment,
@@ -72,7 +73,7 @@ uses the likely sense of `bandhana` while retaining the witness form in
 the Sanskrit above. The explanation of `athāgrahaṇaṃ` remains
 provisional as well.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 Vasubandhu recalls Chapter 4's thesis about karma and adds the condition
 under which karma becomes productive: the anuśayas govern its
@@ -94,12 +95,13 @@ closing `te punaḥ` is syntactically open and must be read with 5.02,
 where attachment is divided. No prose from that next unit belongs to
 this study.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Bhava` means conditioned existence here:
 the prose specifies its production by accumulated karma. `Ālambana`
-is rendered “cognitive support”; it should not be merged without
-argument with every use of “object.” `Anuśaya` remains transliterated
+is rendered “cognitive condition”; it should not be merged with Object,
+the comprehended truth of a thing. `Vijñānasrotas` is the stream of
+Cognition, not a term for consciousness (*citta*). `Anuśaya` remains transliterated
 until the chapter's own analysis establishes its relation to active
 affliction. “Lies upon” in the final explanatory sentence is a
 provisional rendering of `anuśāyita`, not a claim that the six are
@@ -113,7 +115,7 @@ Kārikā itself. The ten functions also show why a path must address the
 orientation and reproduction of a continuum, rather than isolate one
 visible episode of attachment or aversion.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.01 unit has been checked against the running source and
 translated. The three readings `arigṛhṇāti`, `pandhanārthaṃ`, and

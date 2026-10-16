@@ -1,21 +1,16 @@
 # VAK 5.62 Bhāṣya — Four Grounds of Distance
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> vailakṣaṇyād vipakṣatvād deśaviccheda-kālataḥ |
-> bhūta-śīla-pradeśādhvadvayānām iva dūratā || 5.62 ||
+> vailakṣaṇyād vipakṣatvād deśa-viccheda-kālataḥ |
+> bhūta-śīla-pradeśādhva-dvayānām iva dūratāḥ || 5.62 ||
 
-> Distance arises through unlike characteristics, opposition,
-> separation in place, or time: as among the great elements,
-> between discipline and misconduct, between distant places,
-> and between the past and future.
+> Distance has four grounds: unlike characteristics, as among the co-arising
+> great elements; opposition, as between discipline and misconduct; separation
+> in place, as between the eastern and western oceans; and time, as for the
+> future and past in relation to a dharma's own characteristic.
 
-The anchor follows the running verse's singular `dūratā`;
-the separate kārikā has plural `dūratāḥ`. The Bhāṣya's
-examples determine the compact second half. Neither
-reading makes these four grounds one temporal sequence.
-
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 dūrībhāva ityucyate /
@@ -59,8 +54,10 @@ further abandonment opens 5.63. The running witness's
 division, and removal of the verse identifier are
 editorial. The rapid question-and-answer sequence is not
 assigned to named historical speakers by the text.
+The anchor copies the separate kārikā's plural `dūratāḥ`;
+the running verse has singular `dūratā`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 This is called distancing. How many kinds of distance are
 there? Distance is said to be fourfold: through unlike
@@ -94,7 +91,7 @@ account is that the future is distant from a dharma's own
 characteristic because it has not yet attained it, while
 the past is distant because it has fallen away from it.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The first three cases show why `dūrībhāva` cannot be read
 as physical spacing alone. Co-arisen great elements are
@@ -125,7 +122,7 @@ an easy equation of nearness with present activity or lack
 of spatial interval. The source does not here identify
 `ākāśa` with the spatial separation of the two oceans.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Vailakṣaṇya` means difference
 of characteristic; `vipakṣatva` means opposition, not mere
@@ -144,7 +141,7 @@ else in space. The fourfold source classification disciplines
 that project reading; it does not itself present a universal
 theory of every kind of otherness.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete dialectic and its boundary with
 5.63 were checked against the running IAST source. The

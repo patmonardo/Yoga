@@ -1,16 +1,16 @@
 # VAK 5.48 Bhāṣya — The Ten Envelopments and Their Sources
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > krodha-mrakṣau ca rāgotthā āhrīkya-auddhatya-matsarāḥ |
 > mrakṣe vivādaḥ avidyātaḥ styāna-middha-anapatrapāḥ || 5.48 ||
 
-> Anger and concealment are added. Shamelessness, excitation,
-> and avarice arise from attachment; concealment is disputed.
-> Torpor, sleepiness, and lack of moral concern arise from
-> ignorance.
+> Anger and concealment complete the ten envelopments. Shamelessness,
+> excitation, and avarice arise as derivatives of attachment; concealment's
+> source is disputed. Torpor, sleepiness, and lack of moral concern arise as
+> derivatives of ignorance.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 vaibhāṣikanyāyena punar daśa paryavasthānāny
@@ -55,7 +55,7 @@ punctuation are editorial. The running source's `āhlīkya`,
 They differ from the official Kārikā's `āhrīkya`, `mrakṣa`,
 and the prose's other `niḥṣyanda` forms.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 According to the Vaibhāṣika method, there are ten
 enveloping afflictions: the preceding eight, plus anger and
@@ -82,7 +82,7 @@ three positions. Torpor, sleepiness, and lack of moral
 concern arise from ignorance; these three are called
 derivatives of ignorance.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The opening `krodhabhrakṣau ca` completes the Vaibhāṣika
 tenfold enumeration announced immediately after 5.47.
@@ -109,7 +109,7 @@ craving, ignorance, or both are reported. The source's
 known and unknown cases, but the available wording is too
 compressed to assign every case securely.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** The manuscript-like e-text's
 `bhrakṣa` is retained in continuous Sanskrit while
@@ -129,7 +129,7 @@ project-level way to preserve the Bhāṣya's explicit
 disagreement, separate from a completed theory of those
 afflictions or any implemented graph.
 
-## Review Status
+## 6. Review Status
 
 Provisional. All fragments of 5.48, the intervening
 definitions, and the boundary with 5.49 were checked

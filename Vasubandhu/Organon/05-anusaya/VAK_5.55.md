@@ -18,14 +18,9 @@ VAK 5.54 distributed afflictive factors by cognitive support. VAK 5.55 now
 asks with which of the five feeling-faculties each kleśa or upakleśa can be
 conjoined.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sukha-ābhyām | saṃprayuktaḥ | hi | rāgaḥ | dveṣaḥ | viparyayāt |
-mohaḥ | sarvaiḥ | asat-dṛṣṭiḥ | manas-duḥkha-sukhena | tu
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sukhābhyām` | instrumental dual neuter | with the two pleasant feeling-faculties: bodily pleasure and mental gladness |
 | `saṃprayuktaḥ` | nominative singular masculine, past passive participle of `sam-pra-√yuj` | conjoined or associated within one cognitive event |
@@ -38,6 +33,11 @@ mohaḥ | sarvaiḥ | asat-dṛṣṭiḥ | manas-duḥkha-sukhena | tu
 | `asaddṛṣṭiḥ` | nominative singular feminine compound | false view; identified by the Bhāṣya as `mithyādṛṣṭi` |
 | `mano-duḥkha-sukhena` | instrumental singular neuter collective compound | with mental pain and mental pleasure, namely distress and gladness |
 | `tu` | contrastive particle | but, however |
+
+```text
+sukha-ābhyām | saṃprayuktaḥ | hi | rāgaḥ | dveṣaḥ | viparyayāt |
+mohaḥ | sarvaiḥ | asat-dṛṣṭiḥ | manas-duḥkha-sukhena | tu
+```
 
 The verse does not call feeling an affliction. Its instrumental forms mark the
 feeling with which an independently determined affliction is compatible.
@@ -90,15 +90,10 @@ The singular collective compound embraces the two mental members,
 
 ### Bhāṣya-informed study translation
 
-> Attachment is associated with the two pleasant feeling-faculties—bodily
-> pleasure and mental gladness—whereas hostility is associated with their
-> reverse, bodily pain and mental distress. Delusion is associated with all
-> five feeling-faculties. False view (`mithyādṛṣṭi`), however, is associated
-> with mental distress and mental gladness.
-
-The Bhāṣya relates the distress and gladness accompanying false view,
-respectively, to meritorious and evil actions. That explanation determines
-the relevant feeling-pair without making the feeling itself false view.
+> Attachment is conjoined with bodily pleasure and mental gladness; hostility
+> with the reverse pair, bodily pain and mental distress. Delusion is conjoined
+> with all five feeling-faculties; false view with mental distress and mental
+> gladness.
 
 ## 6. Philosophical Translation
 
@@ -138,7 +133,7 @@ kārikā continues and qualifies the matrix.
 
 The Bhāṣya resolves the dual as bodily pleasure and mental gladness.
 Attachment is compatible with both because rāga can occur in sensory as well
-as mental consciousness.
+as mental cognition.
 
 **`Viparyayāt` — by reversal**
 
@@ -165,19 +160,20 @@ and hostility operate.
 
 ## 8. Logical Determination
 
-The verse specifies permitted conjunctions:
+The verse names these conjunctions; the next verse adds a general equanimity
+rule, so these sets are not exhaustive compatibility ranges:
 
 ```text
-CompatibleFeeling(Rāga)
+NamedFeelingHere(Rāga)
     = {Sukha, Saumanasya}
 
-CompatibleFeeling(Dveṣa)
+NamedFeelingHere(Dveṣa)
     = {Duḥkha, Daurmanasya}
 
-CompatibleFeeling(Moha)
+NamedFeelingHere(Moha)
     = {Sukha, Duḥkha, Saumanasya, Daurmanasya, Upekṣā}
 
-CompatibleFeeling(Mithyādṛṣṭi)
+NamedFeelingHere(Mithyādṛṣṭi)
     = {Daurmanasya, Saumanasya}
 ```
 
@@ -196,7 +192,7 @@ VAK 5.54 and 5.55 therefore supply independent coordinates:
 
 ```text
 AfflictiveOccurrence
-    hasCognitiveSupport ConsciousnessGroup
+    hasCognitiveSupport CognitionGroup
     hasConjoinedFeeling FeelingFaculty
 ```
 
@@ -231,7 +227,7 @@ affliction as distinct Features joined through a provenance-bearing event:
 CognitiveEvent
     hasFeeling FeelingFaculty
     hasAfflictiveOrientation Klesa
-    hasConsciousnessSupport ConsciousnessGroup
+    hasCognitionSupport CognitionGroup
     supportedBy SourceSpan
 ```
 
@@ -285,12 +281,14 @@ Relation: permitsConjunctionWith
     Domain: Klesa
     Range: FeelingFaculty
 
-Assertion: Raga permitsConjunctionWith {Sukha, Saumanasya}
-Assertion: Dvesa permitsConjunctionWith {Duhkha, Daurmanasya}
-Assertion: Moha permitsConjunctionWith
+Assertion: Raga hasFeelingNamedHere {Sukha, Saumanasya}
+Assertion: Dvesa hasFeelingNamedHere {Duhkha, Daurmanasya}
+Assertion: Moha hasFeelingNamedHere
            {Sukha, Duhkha, Saumanasya, Daurmanasya, Upeksa}
-Assertion: Mithyadrsti permitsConjunctionWith
+Assertion: Mithyadrsti hasFeelingNamedHere
            {Daurmanasya, Saumanasya}
+
+Constraint: hasFeelingNamedHere doesNotEntail ExhaustiveFeelingRange
 
 Constraint: hasConjoinedFeeling disjointInMeaningFrom hasAfflictiveOrientation
 Constraint: permitsConjunctionWith doesNotEntail causedBy

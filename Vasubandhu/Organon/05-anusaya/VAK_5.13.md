@@ -18,14 +18,9 @@ The verse further determines the `sarvatraga` classification introduced in
 VAK 5.12: nine anuśayas can range upward, and most dharmas co-arising with a
 universal anuśaya share its universal status.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-nava | ūrdhva-ālambanāḥ | eṣām | dṛṣṭi-dvaya-vivarjitāḥ |
-prāpti-varjyāḥ | saha-bhuvaḥ | ye | api | ebhiḥ | te | api | sarvagāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `nava` | cardinal numeral | nine |
 | `ūrdhva-ālambanāḥ` | nominative plural masculine | having a higher domain as object-support |
@@ -36,6 +31,10 @@ prāpti-varjyāḥ | saha-bhuvaḥ | ye | api | ebhiḥ | te | api | sarvagāḥ
 | `ebhiḥ` | instrumental plural pronoun | with these [universal anuśayas] |
 | `ye ... te` | correlative pronouns, nominative plural | whichever ... those |
 | `sarvagāḥ` | nominative plural masculine | universal; universally ranging |
+
+Padaccheda: `nava | ūrdhva-ālambanāḥ | eṣām |
+dṛṣṭi-dvaya-vivarjitāḥ | prāpti-varjyāḥ | saha-bhuvaḥ |
+ye | api | ebhiḥ | te | api | sarvagāḥ`.
 
 The initial sandhi is decisive:
 
@@ -79,6 +78,10 @@ those too are universal
 The `ye ... te` construction makes co-arising the condition for extension of
 the predicate. `Prāpti-varjyāḥ` marks an explicit exception; co-occurrence
 alone does not license indiscriminate inheritance.
+The Bhāṣya identifies the excluded pair as `satkāyadṛṣṭi` and
+`antagrāhadṛṣṭi`. It describes the nine's support as a different, higher
+domain and explains the exclusion of acquisitions by their heterogeneous
+results.
 
 ## 5. Translation
 
@@ -90,13 +93,9 @@ alone does not license indiscriminate inheritance.
 
 ### Bhāṣya-informed study translation
 
-> Of the eleven universal anuśayas, nine can take a higher or different domain
-> as their object-support; body-view and extreme-view are excluded. Other
-> dharmas co-arising with a universal anuśaya also share its universal status,
-> but acquisitions do not, because their results are heterogeneous.
-
-The identity of the two views, the different-domain formulation, and the
-reason for excluding acquisition are supplied by the Bhāṣya.
+> Of these eleven, nine—excluding satkāya-view and extreme-grasping view—can take
+> higher domains as cognitive supports; dharmas co-arising with the universal
+> anuśayas are likewise universally ranging, except acquisitions.
 
 ## 6. Philosophical Translation
 
@@ -144,7 +143,7 @@ Sameness or difference of domain specifies the direction of the
 
 **`Mithyājñāna` — false cognition**
 
-When an inhabitant of the desire domain regards Brahmā as a being and as
+When an inhabitant of the desire-realm regards Brahmā as a being and as
 permanent, the Abhidharmikas classify this cognition as false cognition rather
 than either of the two excluded views. Vasubandhu challenges the distinction:
 the thesis must be demonstrated, not merely asserted.

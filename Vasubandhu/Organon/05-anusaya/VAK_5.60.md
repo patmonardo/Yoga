@@ -15,32 +15,32 @@
 ```
 
 VAK 5.60 opens an analysis of affliction-exhaustion. It rejects the assumption
-that every affliction disappears precisely when its own object is directly
+that every affliction disappears precisely when its own condition is directly
 known and distinguishes four grounds of exhaustion.
 
 **Textual caution.** At the kārikā line corresponding to `ālambana-prahāṇāt`,
 the working Bhāṣya e-text prints `ālambanagrahāṇāc ca`; its immediately
-following prose explanation requires abandonment of the object-support. The
+following prose explanation requires abandonment of the cognitive condition. The
 kārikā witness is preserved above, and the research witness remains unaltered.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
+
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `ālambana-parijñānāt` | ablative singular neuter compound | through complete knowledge of the cognitive condition |
+| `tad-ālambana-saṃkṣayāt` | ablative singular masculine compound | through exhaustion of what takes that as its cognitive condition |
+| `ālambana-prahāṇāt` | ablative singular neuter compound | through abandonment of the cognitive condition |
+| `ca` | conjunction | and |
+| `pratipakṣa-udayāt` | ablative singular masculine compound | through arising of the counteragent |
+| `kṣayaḥ` | nominative singular masculine | exhaustion or destruction of the affliction |
 
 ```text
 ālambana-parijñānāt | tad-ālambana-saṃkṣayāt |
 ālambana-prahāṇāt | ca | pratipakṣa-udayāt | kṣayaḥ
 ```
 
-| Form | Morphology | Contextual sense |
-|---|---|---|
-| `ālambana-parijñānāt` | ablative singular neuter compound | through complete knowledge of the object-support |
-| `tad-ālambana-saṃkṣayāt` | ablative singular masculine compound | through exhaustion of that which takes it as object-support |
-| `ālambana-prahāṇāt` | ablative singular neuter compound | through abandonment of the object-support |
-| `ca` | conjunction | and |
-| `pratipakṣa-udayāt` | ablative singular masculine compound | through arising of the counteragent |
-| `kṣayaḥ` | nominative singular masculine | exhaustion or destruction of the affliction |
-
-`Tad-ālambana` is relational: “having that as object-support.” It must not be
-collapsed into the object itself. The Bhāṣya identifies its particular
+`Tad-ālambana` is relational: “taking that as cognitive condition.” The factor
+that takes the condition remains distinct from the condition it takes. The Bhāṣya identifies its particular
 same-domain and different-domain universal-affliction context.
 
 ## 4. Grammar
@@ -63,77 +63,71 @@ appropriate when unfolding the verse.
 The opening problem depends upon temporal non-coincidence:
 
 ```text
-when the object is completely known
+when the condition is completely known
     the affliction may not then be abandoned
 
 when the affliction is abandoned
-    its object may not then be what is being completely known
+    its condition may not then be what is being completely known
 ```
 
 Hence `parijñāna`, `saṃkṣaya`, `prahāṇa`, and `udaya` name different relations
-and must retain their different subjects and objects.
+and must retain their different subjects and conditions.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Exhaustion occurs through complete knowledge of the object-support, through
-> exhaustion of that which has it as object-support, through abandonment of
-> the object-support, and through the arising of the counteragent.
+> Exhaustion occurs through complete knowledge of the cognitive condition,
+> through exhaustion of what has that as its condition, through abandonment
+> of the condition, and through the arising of the counteragent.
 
 ### Bhāṣya-informed study translation
 
-> An affliction is exhausted in one of four ways: through complete knowledge
-> of its object-support; through exhaustion of the afflictive factors that
-> take the relevant factor as their object; through abandonment of the
-> object-support on which it relationally depends; or, for an affliction to be
-> abandoned through cultivation, through arising of its corresponding Path-
-> counteragent.
-
-The four are alternative structural modes, not four successive phases through
-which every affliction passes.
+> An affliction is exhausted through complete knowledge of its cognitive
+> condition, through exhaustion of what takes it as a cognitive condition,
+> through abandonment of its cognitive condition, or through the arising of
+> its counteragent.
 
 ## 6. Philosophical Translation
 
-> Error is not always removed by directly knowing the object about which it
-> errs. An affliction may cease when its object is comprehensively known, but
-> it may also lose its standing through exhaustion of an object-taking
-> afflictive complex, through removal of its object-support, or through the
+> An affliction is not always removed by directly knowing its cognitive
+> condition. It may cease when that condition is comprehensively known, but
+> it may also lose its standing through exhaustion of a condition-taking
+> afflictive complex, through removal of its cognitive condition, or through the
 > arising of a contrary Path-operation. Abandonment is therefore determined by
 > the relation that sustains the affliction, not by one universal act of
 > replacing ignorance with information.
 
 The affliction is neither an isolated atom nor merely a false proposition. Its
-persistence is situated in a structured field of objects, object-taking
+persistence is situated in a structured field of conditions, condition-taking
 factors, domains, abandonment classes, and counteragents.
 
 ## 7. Technical Vocabulary
 
-**`Ālambana` — object-support**
+**`Ālambana` — cognitive condition**
 
-That in dependence upon which a cognition or affliction takes its object. It
-preserves an objective relation without being reduced either to a wholly
-external thing or to a private representation.
+The support a cognition or affliction takes in its operation. It is a cognitive
+Condition, distinct from Object as the comprehended truth of a thing.
 
-**`Ālambana-parijñāna` — complete knowledge of the object-support**
+**`Ālambana-parijñāna` — complete knowledge of the cognitive condition**
 
 The mode applying to afflictions abandoned by seeing suffering and origin
-that take own-level objects, and also to the stated uncontaminated-object
-cases. Here determination of the object removes the corresponding error.
+that take own-level conditions, and also to the stated uncontaminated-condition
+cases. Here determination of the condition removes the corresponding error.
 
-**`Tad-ālambana-saṃkṣaya` — exhaustion of what has that as object**
+**`Tad-ālambana-saṃkṣaya` — exhaustion of what has that as condition**
 
 The mode assigned to universal afflictions of a different domain. The Bhāṣya
 grounds their abandonment through exhaustion of the same-domain universal
-factors participating in the relevant object-relation. This specialized
+factors participating in the relevant conditioning relation. This specialized
 direction must not be generalized beyond the stated case without evidence.
 
-**`Ālambana-prahāṇa` — abandonment of the object-support**
+**`Ālambana-prahāṇa` — abandonment of the cognitive condition**
 
-The mode applying to contaminated-object afflictions abandoned by seeing
+The mode applying to contaminated-condition afflictions abandoned by seeing
 cessation and the Path. Their exhaustion is mediated by abandonment within
-the supporting object-relation, not by present direct cognition of their own
-contaminated object.
+the supporting conditioning relation, not by present direct cognition of their own
+contaminated condition.
 
 **`Pratipakṣodaya` — arising of the counteragent**
 
@@ -143,7 +137,7 @@ opposes a particular grade of affliction arises, that grade is abandoned.
 **`Darśana-heya` — to be abandoned through seeing**
 
 The first three modes are distributed among specified subclasses of these
-afflictions according to their objects and domain relations.
+afflictions according to their conditions and domain relations.
 
 **`Bhāvanā-heya` — to be abandoned through cultivation**
 
@@ -154,7 +148,7 @@ but not developed in this passage.
 **`Visabhāgadhātu-sarvatraga` and `sabhāgadhātu-sarvatraga`**
 
 Universal afflictions belonging respectively to a different domain and the
-same domain. Their object-relation supplies the specialized mediated case
+same domain. Their conditioning relation supplies the specialized mediated case
 under `tad-ālambana-saṃkṣaya`.
 
 ## 8. Logical Determination
@@ -163,25 +157,25 @@ The naive biconditional is rejected:
 
 ```text
 AfflictionExhausted(k)
-    ↔ ItsObjectCompletelyKnown(k)
+    ↔ ItsConditionCompletelyKnown(k)
 ```
 
 The Bhāṣya instead allocates four modes:
 
 ```text
 Mode 1:
-    CompletelyKnown(ObjectSupport(k))
+    CompletelyKnown(CognitiveCondition(k))
         → Exhausted(k)
     for the specified seeing-abandonable cases
 
 Mode 2:
-    TakesAsObject(b, a)
+    TakesAsCondition(b, a)
     AND Exhausted(b)
         → Exhausted(a)
     within the stated same-domain/different-domain universal relation
 
 Mode 3:
-    Abandoned(ObjectSupport(k))
+    Abandoned(CognitiveCondition(k))
         → Exhausted(k)
     for the stated cessation/Path seeing-abandonables
 
@@ -194,8 +188,8 @@ Mode 4:
 These relations remain non-identical:
 
 ```text
-CompletelyKnows(cognition, object)
-    ≠ TakesAsObject(factor, object)
+CompletelyKnows(cognition, condition)
+    ≠ TakesAsCondition(factor, condition)
     ≠ Abandons(pathOperation, support)
     ≠ Counteracts(path, affliction)
 ```
@@ -205,18 +199,18 @@ Nor do the four modes form a universal sequence:
 ```text
 ExhaustionMode(k, m)
     is selected by
-AbandonmentClass(k) + ObjectType(k) + DomainRelation(k)
+AbandonmentClass(k) + ConditionType(k) + DomainRelation(k)
 ```
 
 ## 9. Interpretive Note
 
 **The Bhāṣya begins with a problem.** For different-domain universal
 afflictions and specified cessation/Path seeing-abandonables, knowing the
-object and abandoning the affliction do not coincide. This counterexample
+condition and abandoning the affliction do not coincide. This counterexample
 forces the fourfold account.
 
 **Direct and mediated removal.** In the first mode knowledge directly answers
-the erroneous object-relation. In the second and third, the target is
+the erroneous conditioning relation. In the second and third, the target is
 exhausted through alteration of a relational structure in which it stands.
 Indirect abandonment is therefore principled, not accidental.
 
@@ -236,7 +230,7 @@ exhaustion assertion with qualified roles:
 ExhaustionAssertion
     concernsAffliction
     hasExhaustionMode
-    hasObjectSupport
+    hasCognitiveCondition
     hasAbandonmentClass
     hasDomainRelation
     hasCounteragent
@@ -251,16 +245,16 @@ source.
 
 ```text
 Class: Affliction
-Class: ObjectSupport
+Class: CognitiveCondition
 Class: PathOperation
 Class: CounteragentPath
 Class: ExhaustionAssertion
 Class: ExhaustionMode
-Class: ObjectKnowledgeMode
+Class: ConditionKnowledgeMode
     SubClassOf: ExhaustionMode
-Class: ObjectTakerExhaustionMode
+Class: ConditionTakerExhaustionMode
     SubClassOf: ExhaustionMode
-Class: ObjectSupportAbandonmentMode
+Class: CognitiveConditionAbandonmentMode
     SubClassOf: ExhaustionMode
 Class: CounteragentArisingMode
     SubClassOf: ExhaustionMode
@@ -278,11 +272,11 @@ ObjectProperty: hasExhaustionMode
     Domain: ExhaustionAssertion
     Range: ExhaustionMode
 
-ObjectProperty: hasObjectSupport
+ObjectProperty: hasCognitiveCondition
     Domain: Affliction
-    Range: ObjectSupport
+    Range: CognitiveCondition
 
-ObjectProperty: takesAsObject
+ObjectProperty: takesAsCondition
     Domain: Affliction
     Range: Affliction
 
@@ -301,21 +295,21 @@ Rule: CultivationAbandonable(?k)
 
 Rule: SpecifiedSeeingAbandonable(?k)
       AND CompletelyKnown(?o)
-      AND hasObjectSupport(?k, ?o)
-    -> ExhaustedThrough(?k, ObjectKnowledgeMode)
+      AND hasCognitiveCondition(?k, ?o)
+    -> ExhaustedThrough(?k, ConditionKnowledgeMode)
 
 Constraint: Exhausted(?k)
-    doesNotEntail ItsObjectPresentlyKnown(?k)
+    doesNotEntail ItsConditionPresentlyKnown(?k)
 
 Constraint: ExhaustionAssertion(?a)
     hasExactlyOneExhaustionModeForSpecifiedCase true
 
 View: RelationIndexedAfflictionExhaustion
-    Preserves: AfflictionIdentity, ObjectSupport, ObjectTakingRelation,
+    Preserves: AfflictionIdentity, CognitiveCondition, ConditionTakingRelation,
                AbandonmentClass, DomainRelation, Counteragent,
                ExhaustionMode, SourceProvenance
 ```
 
 The seed preserves the decisive result: the ground of exhaustion is selected
-by the affliction's precise relational position, not by object-knowledge
+by the affliction's precise relational position, not by condition-knowledge
 alone.

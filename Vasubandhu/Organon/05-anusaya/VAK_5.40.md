@@ -18,14 +18,9 @@ VAK 5.40 completes the semantic sequence begun in VAK 5.39. It explains the
 designations `āsrava`, `ogha`, `yoga`, and `upādāna` through the characteristic
 operations of the same afflictive factors.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-āsayanti | āsravanti | ete | haranti | śleṣayanti | atha |
-upagṛhṇanti | ca | iti | eṣām | āsrava-ādi-niruktayaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `āsayanti` | third-person plural present causative of `ā-√śī` | they cause to remain or settle |
 | `āsravanti` | third-person plural present of `ā-√sru` | they flow or stream |
@@ -37,6 +32,11 @@ upagṛhṇanti | ca | iti | eṣām | āsrava-ādi-niruktayaḥ
 | `ca iti` | conjunction followed by quotative particle | and thus |
 | `eṣām` | genitive plural masculine | of these [terms or factors] |
 | `āsrava-ādi-niruktayaḥ` | nominative plural feminine compound | explanations of the terms beginning with `āsrava` |
+
+```text
+āsayanti | āsravanti | ete | haranti | śleṣayanti | atha |
+upagṛhṇanti | ca | iti | eṣām | āsrava-ādi-niruktayaḥ
+```
 
 Although the verse contains five verbs, it does not define five classifications.
 The Bhāṣya explicitly assigns both `āsayanti` and `āsravanti` to `āsrava`; the
@@ -96,17 +96,10 @@ objects through the afflictions.
 
 ### Bhāṣya-informed study translation
 
-> They are initially called influxes because they cause beings to remain in
-> saṃsāra and flow through the six Essence-wounds from the summit
-> of existence down to Avīci; floods because they carry away; yokes because
-> they fasten; and appropriations because they take hold. Vasubandhu then
-> offers the better functional account: through influxes the continuum flows
-> toward its objects; floods carry one away by excessive force; yokes bind one
-> to manifold suffering even without extreme manifestation; and appropriations
-> establish recurrent adherence through graspings beginning with desire.
-
-The cosmic range, six Essence-wounds, boat simile, and preferred causal
-explanations are supplied by the Bhāṣya.
+> These cause beings to remain in saṃsāra and flow, hence “influxes”; they
+> carry away, hence “floods”; fasten, hence “yokes”; and take hold, hence
+> “appropriations.” Such are the explanations of these names beginning with
+> āsrava.
 
 ## 6. Philosophical Translation
 

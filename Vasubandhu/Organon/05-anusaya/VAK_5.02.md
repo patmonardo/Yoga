@@ -14,28 +14,23 @@
 antarmukhatvāt tanmokṣasaṃjñāvyāvṛttaye kṛtaḥ || 5.2 ||
 ```
 
-The opening completes the suspended `te punaḥ` of VAK 5.01. The six initial
-anuśayas are stated as seven because `rāga` is internally divided.
+## 3. Lexical Analysis
 
-## 3. Padaccheda and Lexical Analysis
-
-```text
-ṣaṭ | rāga-bhedāt | sapta | uktāḥ |
-bhava-rāgaḥ | dvi-dhātu-jaḥ |
-antar-mukhatvāt | tat-mokṣa-saṃjñā-vyāvṛttaye | kṛtaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `ṣaṭ` | numeral | six |
-| `rāga-bhedāt` | ablative singular compound | because of the division of attachment |
-| `sapta` | numeral | seven |
-| `uktāḥ` | nominative plural masculine past passive participle | stated, spoken of |
-| `bhava-rāgaḥ` | nominative singular masculine compound | attachment to existence or one's mode of existence |
-| `dvi-dhātu-jaḥ` | nominative singular masculine compound | arising in, or belonging to, two domains |
-| `antar-mukhatvāt` | ablative singular abstract noun | because of inward-directedness |
-| `tat-mokṣa-saṃjñā-vyāvṛttaye` | dative singular purpose compound | for excluding the conception of that as liberation |
-| `kṛtaḥ` | nominative singular masculine past passive participle | made, established, designated |
+| ṣaṭ | numeral | the six anuśayas carried forward from 5.01 |
+| rāga-bhedāt | compound noun; masculine; ablative singular (lemma: rāga-bheda) | because attachment is divided |
+| sapta | numeral | seven after the division |
+| uktāḥ | past passive participle; masculine; nominative plural (lemma: ukta) | are spoken of or counted |
+| bhava-rāgaḥ | compound noun; masculine; nominative singular (lemma: bhava-rāga) | attachment to existence, the second form of rāga |
+| dvi-dhātu-jaḥ | compound adjective; masculine; nominative singular (lemma: dvi-dhātu-ja) | arising in two domains; qualifies *bhavarāgaḥ* |
+| antar-mukhatvāt | abstract noun; neuter; ablative singular (lemma: antar-mukhatva) | because of its inward direction |
+| tat-mokṣa-saṃjñā-vyāvṛttaye | compound noun; feminine; dative singular (lemma: tat-mokṣa-saṃjñā-vyāvṛtti) | in order to exclude a conception of those domains as liberation |
+| kṛtaḥ | past passive participle; masculine; nominative singular (lemma: kṛta) | designated as a distinct attachment |
+
+Word division and sandhi: *ṣaḍrāgabhedāt* = *ṣaṭ rāga-bhedāt*;
+*saptoktāḥ* = *sapta uktāḥ*; *antarmukhatvāt* = *antar-mukhatvāt*;
+*tanmokṣasaṃjñāvyāvṛttaye* begins with *tat* before *mokṣa*.
 
 The Bhāṣya identifies the division presupposed by `rāga-bheda`:
 
@@ -47,7 +42,8 @@ rāga
 
 It also identifies the two domains of `dvidhātuja` as `rūpadhātu` and
 `ārūpyadhātu`. These specifications come from the commentary rather than from
-the compounds considered in isolation.
+the compounds considered in isolation. The opening completes the suspended
+`te punaḥ` of 5.01.
 
 ## 4. Grammar
 
@@ -108,17 +104,10 @@ excludes the conception that the two higher domains are liberation.
 
 ### Bhāṣya-informed study translation
 
-> Because attachment is divided into attachment to sensual desire and
-> attachment to existence, the six anuśayas are stated as seven. Bhavarāga is
-> attachment arising in the form and formless domains. There it is principally
-> attachment to samāpatti and proceeds inwardly; it is therefore distinguished
-> so that those higher modes of conditioned existence are not conceived as
-> liberation.
-
-The Bhāṣya further explains that beings free from sensual attachment may savor
-samāpatti together with its support and thereby savor their own constituted
-mode of existence (`ātmabhāva`). That explanation fixes the force of
-`bhavarāga` more precisely than the kārikā alone.
+> Because attachment is divided, the six anuśayas are spoken of as seven.
+> Attachment to existence arises in the form and formless domains; because
+> it turns inward, it is separately designated to prevent those domains
+> from being conceived as liberation.
 
 ## 6. Philosophical Translation
 
@@ -168,10 +157,10 @@ present refined mode of conditioned existence.
 
 ```text
 rūpadhātu
-    form-domain
+    form-realm
 
 ārūpyadhātu
-    formless-domain
+    formless-realm
 ```
 
 `Dhātu` here means domain, not physical element. The two domains are grouped
@@ -200,6 +189,21 @@ marks the explanation concerning the two domains as a reported position,
 
 The active relation by which beings enjoy samāpatti together with its support
 and thereby enjoy their own `ātmabhāva`.
+
+**`Anuśaya`, `kleśa`, and `paryavasthāna` — disputed relation**
+
+The Bhāṣya presents the Vaibhāṣika claim that the affliction itself is
+*anuśaya*, then favors the Sautrāntika account: a dormant affliction is
+called *anuśaya* and its manifest operation *paryavasthāna*. Dormancy is
+the continuum's acquired capacity to produce affliction again, not a
+separate hidden substance. These are positions in the commentary's dispute,
+not extra words in the kārikā.
+
+**`Saṃprayukta` and `viprayukta` — associated and dissociated**
+
+The debate asks whether an anuśaya is associated with consciousness and
+faculties or exists as a dissociated item. The favored account rejects a
+separate item to which either relation would apply.
 
 ## 8. Logical Determination
 

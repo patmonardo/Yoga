@@ -1,15 +1,15 @@
 # VAK 5.49 Bhāṣya — Completing the Ten, Opening the Six Stains
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > kaukṛtyaṃ vicikitsātaḥ krodherṣye pratighānvaye |
 > anye ca ṣaṭ kleśa-malāḥ māyā śāṭhyaṃ madas tathā || 5.49 ||
 
-> Remorse arises from doubt; anger and envy from hostility.
-> There are also six other afflictive stains, beginning
-> with deceit, crookedness, and intoxication.
+> Remorse arises from doubt; anger and envy arise from hostility. There are
+> also six other stains of affliction, beginning with deceit, crookedness, and
+> intoxication.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     kaukṛtyaṃ vicikitsātaḥ kodherṣye pratighānvaye.
@@ -33,7 +33,7 @@ has `kodherṣye`, whereas the official Kārikā prints
 `krodherṣye`; the prose's `pratighasamutthe` secures the
 local meaning while leaving the spelling for review.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Remorse arises from doubt. Anger and envy belong to
 hostility; the prose explains that they arise from it.
@@ -42,7 +42,7 @@ kleśas. There are also six other afflictive stains. Which
 ones? Deceit, crookedness, intoxication, and—as the next
 verse continues—three more.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The first half closes the source-affiliation account of the
 ten Vaibhāṣika *paryavasthānas*. `Pratighānvaye` is glossed
@@ -59,7 +59,7 @@ unit; their source affiliations follow its later half.
 Class membership is thus established before the present
 passage gives the six factors' complete identity or origin.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Kaukṛtya` is “remorse” in this
 list. `Pratighānvaya` is rendered through the Bhāṣya's
@@ -75,7 +75,7 @@ such an incomplete determination while marking the exact
 next step. This is a project-level reading of the textual
 movement, separate from any implemented model.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The verse and its boundary at [313|11] were
 checked against the running IAST source. An earlier draft

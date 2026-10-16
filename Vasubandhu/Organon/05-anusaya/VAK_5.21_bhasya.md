@@ -1,19 +1,19 @@
 # VAK 5.21 Bhāṣya — Rival Accounts of Indeterminate Roots
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> dvaidhordhvavṛtter nāto 'nyau catvāry eveti bāhyakāḥ |
-> tṛṣṇādṛṅmānamohās te dhyāyitṛtvād avidyayā || 5.21 ||
+> dvaidhordhva-vṛtter nāto 'nyau catvāry eveti bāhyakāḥ |
+> tṛṣṇā-dṛṅ-māna-mohās te dhyāyitṛtvād avidyayā || 5.21 ||
 
-> The other two are excluded because of divided and upward movement.
-> Outside authorities instead say there are four: craving, view,
-> conceit, and delusion, in their indeterminate forms, because of
-> the three kinds of meditator under ignorance.
+> Doubt and conceit are excluded as further roots for their divided and upward
+> movements; outside authorities instead count four indeterminate roots—craving,
+> view, conceit, and ignorance—because meditators dominated by the first
+> three arise under ignorance.
 
 The verse continues 5.20's dispute about roots of the ethically
 indeterminate. `Bāhyakāḥ` marks a rival position in this local debate.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     dvaidhordhvavṛtter nāto 'nyau.
@@ -45,7 +45,7 @@ editorial. The running IAST source reads `vividhasmṛtimūlāni`
 and `dṛṣṭānnīti`; both are retained rather than conjecturally
 repaired. The former is difficult to construe in this context.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 “The other two are not roots, because of divided and upward
 movement.” Doubt, it is said, cannot be a root because its
@@ -64,7 +64,7 @@ ignorance.” There are three sorts of meditator, dominated
 respectively by craving, view, and conceit; these arise under
 the power of ignorance.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The opening defense of the Kāśmīra triad in 5.20 excludes two
 candidates. `Vicikitsā` wavers between alternatives and is
@@ -83,7 +83,7 @@ The text reports this argument without establishing a more
 specific identity for the outside authorities or resolving
 the rivalry in this unit.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Kila` marks the reported explanation.
 `Dvaidha-vṛtti` describes doubt's divided movement; `ūrdhva-vṛtti`
@@ -100,7 +100,7 @@ meditative experience. For the Science of Citta, those are
 distinct kinds of evidence. This comparison is a project-level
 reconstruction, separate from either school's stated doctrine.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete IAST unit and the next discussion's
 boundary were checked. The two difficult transmitted forms

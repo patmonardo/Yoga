@@ -1,16 +1,16 @@
 # VAK 5.27 Bhāṣya — Testing Existence Across the Three Times
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> kiṃ vighnaṃ tat kathaṃ nānyad adhvāyogas tathā sataḥ |
-> ajātanaṣṭatā kena gambhīrā khalu dharmatā || 5.27 ||
+> kiṃ vighnaṃ tat kathaṃ nānyad adhva-yogas tathā sataḥ |
+> ajāta-naṣṭatā kena gambhīrā khalu dharmatā || 5.27 ||
 
-> What prevents its activity? How is activity not other than
-> the dharma? How can one existing in that way belong to a
-> definite time, and by what can it be unborn or destroyed?
-> The nature of dharmas is indeed profound.
+> What obstructs that activity? How is it not distinct from the dharma? How
+> can something that exists in the same way belong to a particular time, and
+> by what is it unborn or destroyed? “The nature of dharmas is indeed
+> profound,” replies the Vaibhāṣika.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 parigatametatsarvam /
@@ -212,7 +212,7 @@ text. In particular, the compressed or damaged readings in
 the cited sayings remain visible. The verse itself is spread
 through the exchange and closes only at [301|13].
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 After the state-and-function account of 5.26, the questioner
 asks: if past and future dharmas exist substantially, why are
@@ -256,7 +256,7 @@ arises and is stored nowhere when it ceases: it comes to be
 having not been, and passes away having been.
 
 The cognition argument is tested next. The opponent's formula
-has consciousness arising from a pair, faculty and object.
+has cognition arising from a pair, faculty and object.
 Are past and future dharmas a producing condition like the
 faculty, or merely objects? A future object far removed in
 time, or one that may never arise, cannot straightforwardly
@@ -274,7 +274,7 @@ and leave only rearrangement, without real arising or
 cessation. The same move cannot explain remembered feelings
 and other non-atomic dharmas. Further examples concern the
 notion of a thirteenth Essence and the absence of a sound.
-They press the conclusion that consciousness may take both
+They press the conclusion that cognition may take both
 being and absence as its object. The quoted Bodhisattva
 statement about knowing only what exists is read as rejecting
 false projection, not as proving that every cognition has a
@@ -306,7 +306,7 @@ ceases; even a temporal course may be said to arise in a
 specified sense. The discussion then returns to its main
 sequence.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The Kārikā's questions are not free-standing puzzles.
 They test the strongest of the four temporal theories from
@@ -338,7 +338,7 @@ objections. The study therefore keeps the line's dramatic
 place rather than treating it as Vasubandhu's final appeal
 to mystery.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Dravyataḥ` and `svabhāva` name
 the substantial-existence claim under dispute. `Kāritra`
@@ -359,7 +359,7 @@ transformation of the continuum. This is a project-level
 comparison prompted by the Bhāṣya, separate from either
 school's doctrinal voice and from implemented architecture.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The entire long unit and its transition to 5.28
 were checked against the running IAST source. Its quoted

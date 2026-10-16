@@ -22,14 +22,9 @@ how many?
 IAST and syntax resolve the phrase as `ṣaḍbhir ekayā`, “with six, or with
 one.” The witness is preserved verbatim rather than silently regularized.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-na | ekayā | pañcabhiḥ | yāvat | darśana-sthaḥ | samanvitaḥ |
-bhāvanā-sthaḥ | punaḥ | ṣaḍbhiḥ | ekayā | vā | dvayena | vā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `na` | negation | not, none |
 | `ekayā` | instrumental singular feminine | with one parijñā |
@@ -42,6 +37,11 @@ bhāvanā-sthaḥ | punaḥ | ṣaḍbhiḥ | ekayā | vā | dvayena | vā
 | `ṣaḍbhiḥ` | instrumental plural | with six parijñās |
 | `ekayā vā` | instrumental singular plus particle | or with one |
 | `dvayena vā` | instrumental singular neuter collective expression | or with two |
+
+```text
+na | ekayā | pañcabhiḥ | yāvat | darśana-sthaḥ | samanvitaḥ |
+bhāvanā-sthaḥ | punaḥ | ṣaḍbhiḥ | ekayā | vā | dvayena | vā
+```
 
 The understood noun after every numeral is `parijñā`. The governing relation
 is current endowment, not the historical occurrence of every prior attainment.
@@ -84,18 +84,11 @@ presently possessed.
 
 ### Bhāṣya-informed study translation
 
-> A worldling and a noble practitioner through the patience of dharma-
-> knowledge concerning origin possess no parijñā. During the Path of Seeing,
-> the count becomes one at origin-dharma-knowledge, two at origin-subsequent-
-> knowledge, three at cessation-dharma-knowledge, four at cessation-
-> subsequent-knowledge, and five at Path-dharma-knowledge. At Path-subsequent-
-> knowledge, now standing in cultivation, the practitioner possesses six so
-> long as desire-domain dispassion has not been attained. According to later
-> dispassion and attainment states, the practitioner is instead endowed with
-> one or two specified parijñās.
-
-The reason several earlier parijñās are then established as one is raised but
-not answered here; VAK 5.70 supplies that explanation.
+> One standing in the Path of Seeing is endowed first with no *parijñā*,
+> then with one through five as seeing proceeds. One standing in cultivation
+> has six if desire-realm dispassion has not been attained or has been lost;
+> with the specified dispassions and attainments, that practitioner is endowed
+> instead with one or two *parijñās*.
 
 ## 6. Philosophical Translation
 
@@ -138,21 +131,21 @@ This sequence confirms the completion threshold established in VAK 5.68.
 **`Bhāvanāstha` — standing in the Path of Cultivation**
 
 At `mārga-anvayajñāna` the noble practitioner is treated as cultivation-
-standing and possesses six seeing-abandonment parijñās, provided desire-domain
-dispassion has not been attained.
+standing and possesses six seeing-abandonment parijñās, provided desire-realm
+dispassion has not been attained or has been lost.
 
-**`Kāmavairāgya` — dispassion from the desire-domain**
+**`Kāmavairāgya` — dispassion from the desire-realm**
 
 Whether obtained earlier or later, its relevant possession-state is one:
 `avarabhāgīya-prahāṇa-parijñā`, abandonment of the lower-part fetters. The
-same one remains in the stated fall through a form-domain paryavasthāna.
+same one remains in the stated fall through a form-realm paryavasthāna.
 
 **Arhatship**
 
 The arhat is endowed with one parijñā of a different and terminal scope:
 `sarva-saṃyojana-paryādāna-parijñā`, complete exhaustion of all fetters.
 
-**`Rūpavairāgya` — dispassion from the form-domain**
+**`Rūpavairāgya` — dispassion from the form-realm**
 
 Its possession-state comprises two:
 
@@ -161,7 +154,7 @@ avarabhāgīya-prahāṇa-parijñā
 rūparāga-kṣaya-parijñā
 ```
 
-These two remain even after the stated fall through a formless-domain
+These two remain even after the stated fall through a formless-realm
 paryavasthāna.
 
 **`Paryavasthāna` — active afflictive enveloping**
@@ -198,7 +191,7 @@ At entry into cultivation:
 ```text
 CountAt(MārgaAnvayajñāna)
     = 6
-    if NotYetAttained(Kāmavairāgya)
+    if NotYetAttained(Kāmavairāgya) OR FallenFrom(Kāmavairāgya)
 ```
 
 Later cases include:
@@ -225,7 +218,7 @@ SameCount(personA, personB)
     ⇏ SameParijñāScope(personA, personB)
 ```
 
-One at desire-domain dispassion and one at arhatship have equal cardinality
+One at desire-realm dispassion and one at arhatship have equal cardinality
 but radically different parijñā identities and ranges.
 
 ## 9. Interpretive Note
@@ -247,8 +240,8 @@ parijñā is established for the non-returner and arhat. The explanation through
 `saṃkalana` belongs to VAK 5.70 and should not be back-filled into this verse
 as though already stated.
 
-**Falls preserve specified completions.** A form-domain paryavasthāna leaves
-the lower-part-fetter parijñā; a formless-domain paryavasthāna leaves both the
+**Falls preserve specified completions.** A form-realm paryavasthāna leaves
+the lower-part-fetter parijñā; a formless-realm paryavasthāna leaves both the
 lower-part and form-attachment completions. Possession depends on which
 disconnections remain established.
 

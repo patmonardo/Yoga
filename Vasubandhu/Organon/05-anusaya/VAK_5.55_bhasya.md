@@ -1,16 +1,16 @@
 # VAK 5.55 Bhāṣya — Afflictions and Feeling Faculties
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > sukhābhyāṃ saṃprayukto hi rāgo dveṣo viparyayāt |
 > mohaḥ sarvair asaddṛṣṭir mano-duḥkha-sukhena tu || 5.55 ||
 
-> Craving is conjoined with the two pleasant feelings;
-> hostility with the reverse, painful pair. Delusion is
-> conjoined with all five; false view with mental distress
-> and mental gladness.
+> Attachment is conjoined with bodily pleasure and mental gladness; hostility
+> with the reverse pair, bodily pain and mental distress. Delusion is conjoined
+> with all five feeling-faculties; false view with mental distress and mental
+> gladness.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 yānīmāni sukhādīni pañcendriyāṇi eṣāṃ
@@ -47,7 +47,7 @@ editorial. The running source has `sukhabhyāṃ` in the
 first fragment while the official Kārikā study prints
 `sukhābhyāṃ`; this difference remains for review.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Of the five feeling faculties beginning with pleasure,
 which can be conjoined with each kleśa or upakleśa?
@@ -55,7 +55,7 @@ Craving is conjoined with the two pleasant faculties:
 bodily pleasure and mental gladness. Hostility is conjoined
 with their reverse, bodily pain and mental distress.
 Craving and hostility have respectively glad and dejected
-modes and can occur in the six-consciousness field.
+modes and can occur in the six-cognition field.
 
 Delusion is conjoined with all five feeling faculties,
 because ignorance can be conjoined with every kleśa.
@@ -64,7 +64,7 @@ mental distress and mental gladness. The prose identifies
 the factor as *mithyādṛṣṭi* and relates the two feelings,
 respectively, to meritorious and evil actions.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The passage maps **conjunction** (`saṃprayoga`), not
 identity or genetic production. The Bhāṣya resolves the
@@ -92,7 +92,7 @@ The secure point is that false view can occur with either
 mental polarity. Feeling supplies an affective register;
 false view remains a distinct cognitive affliction.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Sukhābhyām` refers to bodily
 pleasure plus mental gladness, not to two indistinguishable
@@ -103,7 +103,7 @@ than “defective view” in general. `Sarvaiḥ` ranges over
 all five feeling faculties, including equanimity.
 
 **Organon reconstruction.** A cognitive event can be
-determined by its feeling faculty, consciousness support,
+determined by its feeling faculty, cognition support,
 and afflictive factor without identifying those relations.
 Conjunction does not by itself make a pleasant feeling
 wholesome or make the feeling the cause of the kleśa.
@@ -111,7 +111,7 @@ This is a project-level distinction for the Science of
 Citta, separate from the source's explicit compatibility
 statements.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The distributed verse, pair glosses, and
 boundary with 5.56 were checked against the running IAST

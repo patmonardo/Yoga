@@ -18,14 +18,9 @@ VAK 5.64–5.65 established what the nine parijñās are. VAK 5.66 now relates
 those completed abandonments to the meditative bases whose Paths can yield
 them as fruits.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-anāgamya-phalam | sarvāḥ | dhyānānām | pañca | vā | athavā |
-aṣṭau | sāmantakasya | ekā | maula-ārūpya-trayasya | ca
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `anāgamya-phalam` | nominative singular neuter compound, predicative | fruit of the preliminary concentration below the first dhyāna |
 | `sarvāḥ` | nominative plural feminine | all nine parijñās |
@@ -33,10 +28,15 @@ aṣṭau | sāmantakasya | ekā | maula-ārūpya-trayasya | ca
 | `pañca` | numeral | five parijñās, on the Vaibhāṣika account |
 | `vā athavā` | disjunctive particles | or, alternatively |
 | `aṣṭau` | numeral | eight parijñās, according to Bhadanta Ghoṣaka |
-| `sāmantakasya` | genitive singular neuter | of the preliminary concentration of the Essence of infinite space |
+| `sāmantakasya` | genitive singular neuter | of the preliminary concentration for the sphere of infinite space |
 | `ekā` | nominative singular feminine | one parijñā |
 | `maula-ārūpya-trayasya` | genitive singular compound | of the three fundamental formless attainments |
 | `ca` | conjunction | and |
+
+```text
+anāgamya-phalam | sarvāḥ | dhyānānām | pañca | vā | athavā |
+aṣṭau | sāmantakasya | ekā | maula-ārūpya-trayasya | ca
+```
 
 `Phala` expresses a result relation, not identity: the meditative basis
 supports a Path whose result is a determinate parijñā.
@@ -86,17 +86,11 @@ treated like the dhyānas.
 
 ### Bhāṣya-informed study translation
 
-> All nine parijñās can be fruits of the preliminary concentration below the
-> first dhyāna. According to the Vaibhāṣikas, the fundamental dhyānas have five
-> as fruits—the five consisting in abandonment of form- and formless-domain
-> afflictions. According to Bhadanta Ghoṣaka they have eight, adding the three
-> desire-domain seeing-abandonment parijñās, while abandonment of the lower-
-> part fetters remains exclusively a fruit of anāgamya. The preliminary
-> concentration of the Essence of infinite space yields the destruction of
-> attachment to form; each of the three fundamental formless attainments can
-> yield the complete exhaustion of all fetters.
-
-The intermediate dhyāna follows the same rule as the fundamental dhyānas.
+> All nine *parijñās* can be fruits of *anāgamya*. The fundamental dhyānas
+> have five as fruits according to the Vaibhāṣikas, or eight according to
+> Bhadanta Ghoṣaka. The preliminary concentration for the sphere of infinite
+> space has one—the destruction of attachment to form—and each of the three
+> fundamental formless attainments has one: exhaustion of all fetters.
 
 ## 6. Philosophical Translation
 
@@ -134,13 +128,13 @@ complete exhaustion of all fetters
 **The Vaibhāṣika five**
 
 These five have as their nature abandonment of afflictions belonging to the
-form and formless domains. Desire-domain abandonment is excluded because it
+form and formless domains. desire-realm abandonment is excluded because it
 is assigned as a fruit of anāgamya.
 
 **Bhadanta Ghoṣaka's eight**
 
-Ghoṣaka adds the three desire-domain seeing-abandonment parijñās. Even one
-already free from desire-domain passion can obtain through the Path of seeing
+Ghoṣaka adds the three desire-realm seeing-abandonment parijñās. Even one
+already free from desire-realm passion can obtain through the Path of seeing
 a fresh undefiled acquisition of disconnection
 (`anāsrava-visaṃyoga-prāpti-lābha`).
 
@@ -154,7 +148,7 @@ anāgamya and fundamental dhyāna.
 
 Explicitly treated like the dhyānas for the present fruit-distribution.
 
-**`Ākāśānantyāyatana-sāmantaka` — preliminary concentration of infinite space**
+**`Ākāśānantyāyatana-sāmantaka` — preliminary concentration for the sphere of infinite space**
 
 Its single parijñā-fruit is `rūparāga-kṣaya`, destruction of attachment to
 form.
@@ -226,7 +220,7 @@ whose fruit each completion is. Content and production-basis must remain
 distinct.
 
 **Stable ontology, disputed attribution.** Vaibhāṣikas and Ghoṣaka accept the
-nine parijñās. Their disagreement concerns whether three desire-domain
+nine parijñās. Their disagreement concerns whether three desire-realm
 seeing-completions can also count as fruits of fundamental dhyāna.
 
 **Internal confirmation of VAK 5.63.** Ghoṣaka's account requires fresh

@@ -1,16 +1,17 @@
 # VAK 5.33 Bhāṣya — From Self-View to Attachment and Hostility
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > tato 'ntagrahaṇaṃ tasmāc chīlāmarśas tato dṛśaḥ |
 > rāgaḥ svadṛṣṭau mānaś ca dveṣo 'nyatrety anukramaḥ || 5.33 ||
 
-> From self-view comes grasping an extreme; from that comes
-> overvaluation of discipline and observance, then of view.
-> Attachment and conceit arise toward one's own view, and
-> hostility toward what opposes it. Such is the sequence.
+> From self-view arises grasping the self as permanent or annihilated; from
+> that, attachment to discipline and observance as a means of purity; from
+> that, attachment to the view held supreme. Attachment and conceit arise
+> toward one's own view, and hostility toward an opposed view: such is the
+> order of arising.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     tato 'ntagrahaṇaṃ.
@@ -55,7 +56,7 @@ editorial. The alternative explanation beginning `apare`
 has compressed syntax, so its precise referent remains
 provisional.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 “From that comes grasping an extreme.” From self-view comes
 extreme-view: one grasps the self as permanent or as subject
@@ -79,7 +80,7 @@ afflictions abandoned through seeing take a view within
 one's own continuum as object. “Such is the sequence”:
 this is the order of operation of the ten afflictions.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The verse completes the sequence opened in 5.32. Its transitions
 are determinate. Self-view supplies the supposed subject
@@ -104,7 +105,7 @@ of the ten kleśas. It is a reported doctrinal sequence,
 not a claim that every person always passes through these
 stages in a fixed psychological chronology.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** The Bhāṣya expands `antagrahaṇa`
 to `antagrāhadṛṣṭi` and `śīlāmarśa` to
@@ -124,7 +125,7 @@ concern about clinging to view and clinging to death. That
 contact is an Organon reading of the Kośa's sequence, not
 an attribution of our framework to Vasubandhu.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The full distributed verse and closing prose
 were checked against the running IAST source. The `apare`

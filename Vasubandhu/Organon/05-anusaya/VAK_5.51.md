@@ -24,14 +24,9 @@ the doctrinal factor is identified as `auddhatya`. The Bhāṣya e-text also has
 `āhlīkya` for expected `āhrīkya`. Witness and interpreted technical form remain
 distinct.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dṛṣṭi-āmarśāt | pradāśaḥ | tu | śāṭhyam | dṛṣṭi-samutthitam |
-tatra | āhrīkyam | anapatrāpyam | styānam | middham | uddhavaḥ | dvidhā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dṛṣṭi-āmarśāt` | ablative singular compound | from grasping at view |
 | `pradāśaḥ` | nominative singular masculine | obstinate fault-clinging or resistance to correction |
@@ -45,6 +40,11 @@ tatra | āhrīkyam | anapatrāpyam | styānam | middham | uddhavaḥ | dvidhā
 | `middham` | nominative singular neuter | sleepiness |
 | `uddhavaḥ` | transmitted nominative singular masculine | excitation or restlessness (`auddhatya`) |
 | `dvidhā` | indeclinable adverb | twofold with respect to abandonment |
+
+```text
+dṛṣṭi-āmarśāt | pradāśaḥ | tu | śāṭhyam | dṛṣṭi-samutthitam |
+tatra | āhrīkyam | anapatrāpyam | styānam | middham | uddhavaḥ | dvidhā
+```
 
 The Bhāṣya specifies `dvidhā` as `darśana-bhāvanā-prahātavya`: abandoned
 through seeing or through cultivation.
@@ -102,16 +102,10 @@ not an unexplained intrinsic duplication of each named factor.
 
 ### Bhāṣya-informed study translation
 
-> Obstinate fault-clinging arises from grasping at view, while crookedness is a
-> derivative of view. This completes the source-affiliations of the six stains.
-> The analysis then turns to abandonment: among the ten envelopments,
-> shamelessness, lack of moral concern, torpor, sleepiness, and excitation can
-> be abandoned through seeing or through cultivation because they are conjoined
-> with kleśas of both types. An instance conjoined with a kleśa abandoned by a
-> particular seeing is itself abandoned through that corresponding seeing.
-
-The explicit `dṛṣṭi-niḥṣyanda` relation, the two abandonment modes, and the
-conjunction rule are supplied by the Bhāṣya.
+> Obstinate fault-clinging arises from grasping at view, while crookedness is
+> a derivative of view. Among the ten envelopments, shamelessness, lack of
+> moral concern, torpor, sleepiness, and excitation are twofold: they can be
+> abandoned through seeing or through cultivation.
 
 ## 6. Philosophical Translation
 

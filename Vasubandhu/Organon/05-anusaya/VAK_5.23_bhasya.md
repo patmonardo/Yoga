@@ -1,15 +1,14 @@
 # VAK 5.23 Bhāṣya — Bondage to a Particular Object
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> rāgapratighamānaiḥ syād atītapratyupasthitaiḥ |
-> yatrotpannā 'prahīṇās te tasmin vastuni saṃyutaḥ || 5.23 ||
+> rāga-pratigha-mānaiḥ syād atīta-pratyupasthitaiḥ |
+> yatrotpannāprahīṇās te tasmin vastuni saṃyutaḥ || 5.23 ||
 
-> Through past or present attachment, aversion, and conceit,
-> one is bound to the object with respect to which they arose,
-> so long as they have not been abandoned.
+> By past or present attachment, aversion, and conceit, one is bound to the
+> very object regarding which they arose, provided they remain unabandoned.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 yasya pudgalasya yo 'nuśayo yasminn ālambane 'nuśete
@@ -43,7 +42,7 @@ their exact forms are uncertain, so they remain visible here.
 The verse and its explanatory prose securely identify the
 first triad as `rāga`, `pratigha`, and `māna`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Whichever anuśaya of a person adheres to a given support connects
 that person with that support through the anuśaya. What remains
@@ -63,7 +62,7 @@ they have not been abandoned. Because they are particular-character
 afflictions, they do not necessarily arise for everyone with
 respect to every object.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The transition links `anuśaya`, its `ālambana`, the person, and
 the resulting bond. The rule then asks for a more exact account
@@ -87,7 +86,7 @@ difference. The local argument establishes the person's
 object-indexed bond through an affliction, without requiring
 all these relation terms to be synonyms.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Pratyupasthita` in the verse is
 explained by `pratyutpanna` in the prose, so “present” is
@@ -105,7 +104,7 @@ from the status of the bond. This is a project-level formal
 reading of the Bhāṣya, not an assertion that such a model
 has already been implemented.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The bridge after 5.22 and the 5.24 boundary were
 checked against the running IAST source. The two damaged

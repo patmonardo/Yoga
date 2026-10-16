@@ -19,14 +19,9 @@ yoke, and appropriation, VAK 5.39 explains the name `anuśaya` through four
 determinations: subtlety, accompaniment, twofold lying-along, and continued
 binding.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-aṇavaḥ | anugatāḥ | ca | ete | dvidhā | ca | api | anuśerate |
-anubadhnanti | yasmāt | ca | tasmāt | anuśayāḥ | smṛtāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aṇavaḥ` | nominative plural masculine | subtle or minute in operation |
 | `anugatāḥ` | nominative plural masculine past passive participle of `anu-√gam` | accompanying or following along |
@@ -38,6 +33,11 @@ anubadhnanti | yasmāt | ca | tasmāt | anuśayāḥ | smṛtāḥ
 | `yasmāt ... tasmāt` | ablatival relative-correlative pair | because ... therefore |
 | `anuśayāḥ` | nominative plural masculine | anuśayas, underlying afflictive tendencies |
 | `smṛtāḥ` | nominative plural masculine past passive participle | are called, recognized, or traditionally designated |
+
+```text
+aṇavaḥ | anugatāḥ | ca | ete | dvidhā | ca | api | anuśerate |
+anubadhnanti | yasmāt | ca | tasmāt | anuśayāḥ | smṛtāḥ
+```
 
 `Aṇu` here concerns subtle operation and consequent difficulty of discernment;
 it does not by itself assert that an anuśaya is a material atom. `Anuśerate`
@@ -103,15 +103,10 @@ functional reasons.
 
 ### Bhāṣya-informed study translation
 
-> The anuśayas operate subtly and are therefore difficult to discern; they
-> accompany the continuum through association with acquisition (`prāpti`);
-> and they lie along in two determinate relations, through object-support and
-> through conjunction. They continue to bind because, even without deliberate
-> application and even when one tries to restrain them, they repeatedly become
-> manifest. For these reasons they are called anuśayas.
-
-The association with `prāpti`, the two modes of lying-along, and the criterion
-of recurrent manifestation are supplied by the Bhāṣya.
+> These are subtle and accompany the continuum through prāpti; they lie along
+> in two ways, through object-support and conjunction. Because they continue
+> to bind, becoming manifest repeatedly even without deliberate effort and
+> despite attempted restraint, they are called anuśayas.
 
 ## 6. Philosophical Translation
 

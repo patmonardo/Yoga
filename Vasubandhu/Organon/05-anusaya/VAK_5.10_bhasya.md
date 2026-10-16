@@ -1,18 +1,19 @@
 # VAK 5.10 Bhāṣya — Seven Conceits and Their Manifestation
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> sapta mānā navavidhās tribhyo dṛgbhāvanākṣayāḥ |
-> vadhādiparyavasthānaṃ heyaṃ bhāvanayā tathā || 5.10 ||
+> sapta mānāḥ navavidhās tribhyo dṛg-bhāvanā-kṣayāḥ |
+> vadhādi-paryavasthānaṃ heyaṃ bhāvanayā tathā || 5.10 ||
 
-> Conceits are seven; nine modes arise from three. They are
-> exhausted through seeing and cultivation. Afflictive occupation
-> beginning with killing is abandoned through cultivation; likewise—
+> Conceit has seven forms, and three of them yield nine modes; its forms are
+> exhausted through seeing or cultivation. The afflictive occupation leading
+> to deliberate killing and similar acts is abandoned through cultivation;
+> likewise—
 
 The final `tathā` carries the comparison into 5.11. The present
 unit stops before that verse's `vibhavecchā`.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 atha kiṃ dṛṣṭyanuśayasya eva bhedo nānyasya? mānasyāpy asti.
@@ -84,7 +85,7 @@ textual irregularity. The source's `cittasyonnatirmāna uktāḥ`,
 retained without silent correction. Word spacing in the three
 ninefold lists remains provisional.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Is view the only anuśaya that admits an internal division? Conceit
 does too. It has seven forms: māna, atimāna, mānātimāna,
@@ -124,7 +125,7 @@ belongs to what is abandoned through cultivation because its
 cognitive support belongs to that class. The verse closes with
 “likewise,” carrying this point forward.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The generic definition `cittasya unnati` does not turn citta into
 a psychological container. It identifies conceit's operation as
@@ -146,7 +147,7 @@ necessarily manifesting now in an ārya. `Aprahīṇa` and
 is about a deliberate afflictive occupation (`saṃcintya`), not
 about the bare occurrence of bodily movement.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Māna` stays visible because
 “conceit” only approximates its comparative operation.
@@ -161,7 +162,7 @@ of citta must preserve those relations before drawing conclusions
 from a reported or observed episode. This is a conceptual use of
 the Kośa, not a claim about executable Rust or TypeScript types.
 
-## Review Status
+## 6. Review Status
 
 The full 5.10 unit has been checked against the running source,
 including its split Kārikā and terminal `tathā`. The double use

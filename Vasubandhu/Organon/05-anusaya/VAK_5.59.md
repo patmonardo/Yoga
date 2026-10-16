@@ -23,23 +23,23 @@ the prose explicitly explains `dvayor ekatā dvyekatā`, “the unity of two.”
 The transmitted verse above is preserved verbatim. The translation follows
 the prose-secured sense without silently replacing the witness.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kāme | nivaraṇāni | eka-vipakṣa-āhāra-kṛtyataḥ |
-[dvy-ekatā / transmitted dvayakaitāḥ] | pañcatā |
-skandha-vighāta-vicikitsanāt
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `kāme` | locative singular neuter | in the desire-domain |
+| `kāme` | locative singular neuter | in the desire-realm |
 | `nivaraṇāni` | nominative plural neuter | hindrances; factors classified by Path-obstructing function |
 | `eka-vipakṣa-āhāra-kṛtyataḥ` | ablative singular compound | because of one counter-condition, nourishment, and function |
 | `dvayakaitāḥ` | transmitted, grammatically problematic form | resolved by the Bhāṣya through `dvyekatā`, the unity of two |
 | `pañcatā` | nominative singular feminine abstract noun | fivefoldness, the state of being five |
 | `skandha-vighāta` | compound member | obstruction of the Path-aggregates; Bhāṣya anchor reads `vidhāta` |
 | `vicikitsanāt` | ablative singular action noun | because of doubting or uncertainty |
+
+```text
+kāme | nivaraṇāni | eka-vipakṣa-āhāra-kṛtyataḥ |
+[dvy-ekatā / transmitted dvayakaitāḥ] | pañcatā |
+skandha-vighāta-vicikitsanāt
+```
 
 Here `skandha` is controlled by the prose as the organized Path-complex of
 ethical discipline, concentration, and discernment—not the ordinary list of
@@ -54,7 +54,7 @@ nivaraṇāni
     kāme [santi]
 ```
 
-The technical five hindrances belong to the desire-domain. The long ablative
+The technical five hindrances belong to the desire-realm. The long ablative
 compound gives the reason that each of two pairs counts as one hindrance:
 
 ```text
@@ -81,22 +81,17 @@ settling them through grammar alone.
 
 ### Literal Translation
 
-> The hindrances are in the desire-domain. [There is] unity of two because of
+> The hindrances are in the desire-realm. [There is] unity of two because of
 > one counter-condition, nourishment, and function. [There is] fivefoldness
 > because of obstruction of the aggregates and doubt.
 
 ### Bhāṣya-informed study translation
 
-> The five hindrances belong to the desire-domain. Torpor and sleepiness count
-> as one hindrance, and agitation and remorse as another, because the members
-> of each pair share one nourishment, one non-nourishment or counteragent, and
-> one operative effect. The classification is fivefold because these
-> hindrances obstruct the Path-aggregates of discipline, concentration, and
-> discernment, while doubt prevents determination regarding the Truths.
-
-The Bhāṣya preserves more than one account of how the paired hindrances are
-assigned to concentration and discernment; the study translation therefore
-does not force a single disputed ordering into the kārikā.
+> The five hindrances belong to the desire-realm. Torpor with sleepiness and
+> restlessness with remorse each count as one because each pair shares a
+> counteragent, nourishment, and function. They are five because they obstruct
+> the Path-aggregates of discipline, concentration, and discernment, and leave
+> doubt concerning the Truths.
 
 ## 6. Philosophical Translation
 
@@ -123,7 +118,7 @@ The verse thus shifts the question from “what kind of factor is this?” to
 5. vicikitsā            doubt
 ```
 
-The technical fivefold class belongs to the desire-domain because the sūtra
+The technical fivefold class belongs to the desire-realm because the sūtra
 characterizes it as a complete unwholesome mass.
 
 **`Nivaraṇa` — hindrance**
@@ -232,9 +227,9 @@ single source position.
 
 ## 9. Interpretive Note
 
-**Desire-domain restriction.** Torpor, agitation, and doubt may be discussed
+**desire-realm restriction.** Torpor, agitation, and doubt may be discussed
 across domains elsewhere, but the canonical set of five nivaraṇas is here
-restricted to the desire-domain through its characterization as wholly
+restricted to the desire-realm through its characterization as wholly
 unwholesome.
 
 **Factor identity versus intervention-unit identity.** Torpor is not

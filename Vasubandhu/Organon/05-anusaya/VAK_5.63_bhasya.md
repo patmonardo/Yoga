@@ -1,20 +1,15 @@
 # VAK 5.63 Bhāṣya — One Exhaustion, Repeated Disconnection
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> sakṛt kṣayo visaṃyogalābhas teṣāṃ punaḥ punaḥ |
-> pratipakṣodayaphalaprāptīndriyavivṛddhiṣu || 5.63 ||
+> sakṛt kṣayo visaṃyoga-lābhas teṣāṃ punaḥ punaḥ |
+> pratipakṣodaya-phala-prāptīndriya-vivṛddhiṣu || 5.63 ||
 
-> Their exhaustion occurs once; acquisition of disconnection
-> from them occurs repeatedly, when the counteragent arises,
-> the fruits are attained, and the faculties develop.
+> The afflictions are destroyed once, but disconnection from them can be
+> acquired repeatedly: when the liberation path arises, when a fruit of the
+> ascetic path is attained, or when the faculties develop, as appropriate.
 
-`Teṣām` refers to the afflictions of the prose question.
-The three expressions in the second line name six possible
-occasions in the Bhāṣya's count: one counteragent occasion,
-four fruit attainments, and one faculty transition.
-
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 kim mārgaviśeṣagamanāt kleśānāṃ punaḥ prahāṇaviśeṣo bhavati /
@@ -52,8 +47,12 @@ belongs here because it explains why the same disconnection
 just discussed receives that designation. The verse is
 distributed through prose; word division, line division,
 and removal of its source identifier are editorial.
+`Teṣām` refers to the afflictions of the prose question. The three
+expressions in the verse's second line name six possible occasions in the
+Bhāṣya's count: one liberation path, four fruit attainments, and one faculty
+transition.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Does advancing to a further special stage of the path
 produce a further abandonment of the afflictions? No. Every
@@ -79,7 +78,7 @@ That very same disconnection receives the designation
 (`sāsravaṃ jñānam`); the latter is abandonment itself.
 The name of the cause is applied to its result.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The question distinguishes **further path progress** from
 **further destruction of an already destroyed kleśa**.
@@ -108,7 +107,7 @@ expected form. This transitional gloss is necessary for
 reading the next verse's question about how many
 abandonment-*parijñās* there are.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Kṣaya` is the affliction's
 exhaustion; `visaṃyogalābha` is acquisition of disconnection
@@ -126,7 +125,7 @@ state the source's difference between `kṣaya` and
 `visaṃyogalābha`; it does not posit renewed production of
 the destroyed kleśa or an implemented state machine.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The full 5.63 unit, including its `parijñā`
 transition, was checked against the running IAST source.

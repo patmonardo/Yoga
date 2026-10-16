@@ -18,14 +18,9 @@ The verse makes explicit the temporal ontology presupposed by VAK 5.23–5.24:
 if past and future dharmas can be objects, bind, and bear causal relations,
 they cannot be reduced to sheer nonbeing.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sarva-kāla-astitā | ukta-tvāt | dvayāt | sat-viṣayāt | phalāt |
-tat-asti-vādāt | sarva-asti-vādāḥ | iṣṭāḥ | catur-vidhāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sarva-kāla-astitā` | nominative singular feminine compound | existence in all times |
 | `ukta-tvāt` | ablative singular abstract noun | because it has been stated |
@@ -36,6 +31,12 @@ tat-asti-vādāt | sarva-asti-vādāḥ | iṣṭāḥ | catur-vidhāḥ
 | `sarva-asti-vādāḥ` | nominative plural masculine | proponents of the doctrine that all exists |
 | `iṣṭāḥ` | nominative plural masculine past participle | accepted, admitted, recognized |
 | `catur-vidhāḥ` | nominative plural masculine | fourfold, of four kinds |
+
+Padaccheda: `sarva-kāla-astitā | ukta-tvāt | dvayāt |
+sat-viṣayāt | phalāt | tat-asti-vādāt |
+sarva-asti-vādāḥ | iṣṭāḥ | catur-vidhāḥ`.
+The Bhāṣya identifies `dvaya` as faculty and object and treats the
+first two grounds as scriptural, the latter two as reasons.
 
 The Bhāṣya resolves the compressed `dvaya` as the perceptual-cognitive pair:
 eye and forms through mind and dharmas. Cognition arises dependent upon these
@@ -77,6 +78,9 @@ they are fourfold
 
 The verse announces but does not enumerate the four positions. Their distinct
 principles of temporal differentiation follow in VAK 5.26.
+The Bhāṣya's fruit argument concerns past karma bearing future maturation;
+its claim that three-time existence need not make conditioned dharmas
+permanent remains part of the reported Vaibhāṣika defense.
 
 ## 5. Translation
 
@@ -89,15 +93,10 @@ principles of temporal differentiation follow in VAK 5.26.
 
 ### Bhāṣya-informed study translation
 
-> The existence of dharmas in all three times is maintained on four grounds:
-> scripture states the existence of past and future dharmas; cognition arises
-> dependent upon the pair of faculty and object; cognition requires an existent
-> object; and past karma must remain capable of producing future maturation.
-> Those who affirm the existence of past, present, and future are called
-> Sarvāstivādins, of whom four interpretations are admitted.
-
-The division into scriptural and rational grounds, the identity of `dvaya`,
-and the karmic argument are supplied by the Bhāṣya.
+> Existence in all three times is maintained because scripture states it,
+> cognition depends on a faculty–object pair, cognition requires an
+> existent object, and karma bears fruit. Those who affirm existence in all
+> three times are called Sarvāstivādins; four accounts are recognized.
 
 ## 6. Philosophical Translation
 

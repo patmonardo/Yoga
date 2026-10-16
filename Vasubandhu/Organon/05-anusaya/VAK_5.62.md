@@ -18,14 +18,9 @@ The distancing counteragent of VAK 5.61 raises a prior question: what can
 “distance” mean? VAK 5.62 distinguishes four grounds of remoteness and the
 Bhāṣya supplies an example for each.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-vailakṣaṇyāt | vipakṣatvāt | deśa-vicchedāt | kālataḥ |
-bhūta-śīla-pradeśa-adhva-dvayānām | iva | dūratāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `vailakṣaṇyāt` | ablative singular neuter | through difference of characteristic |
 | `vipakṣatvāt` | ablative singular neuter | through being opposed or contrary |
@@ -37,6 +32,11 @@ bhūta-śīla-pradeśa-adhva-dvayānām | iva | dūratāḥ
 | `adhva-dvayānām` | genitive plural/dual sense within compound | of the two temporal courses, past and future |
 | `iva` | comparative particle | as, like, as in the cases of |
 | `dūratāḥ` | nominative plural feminine | distances or modes of remoteness |
+
+```text
+vailakṣaṇyāt | vipakṣatvāt | deśa-vicchedāt | kālataḥ |
+bhūta-śīla-pradeśa-adhva-dvayānām | iva | dūratāḥ
+```
 
 The Bhāṣya resolves the compressed illustrative compound: great elements;
 discipline and misconduct; eastern and western oceans; past and future.
@@ -78,15 +78,10 @@ the fourth kind.
 
 ### Bhāṣya-informed study translation
 
-> Remoteness is fourfold: the great elements are remote from one another by
-> difference of characteristic even when they arise together; discipline and
-> misconduct are remote as contraries; the eastern and western oceans are
-> remote through spatial separation; and the future and past are temporally
-> remote because a dharma has not yet attained its own characteristic or has
-> fallen away from it.
-
-The final explanation is Vasubandhu's preferred resolution after several
-proposed accounts of temporal remoteness have been tested and rejected.
+> Distance has four grounds: unlike characteristics, as among the co-arising
+> great elements; opposition, as between discipline and misconduct; separation
+> in place, as between the eastern and western oceans; and time, as for the
+> future and past in relation to a dharma's own characteristic.
 
 ## 6. Philosophical Translation
 

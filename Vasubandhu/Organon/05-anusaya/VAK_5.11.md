@@ -18,15 +18,9 @@ The verse continues the `tathā` of VAK 5.10. It asks why several formations
 classified as cultivation-abandonable nevertheless do not manifest in an
 `ārya`.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-vibhava-icchā | na | ca | āryasya | saṃbhavanti |
-vidhā-ādayaḥ | na | asmitā | dṛṣṭi-puṣṭatvāt |
-kaukṛtyam | na | api | ca | aśubham
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `vibhava-icchā` | nominative singular feminine compound | wish or thirst for nonexistence |
 | `āryasya` | genitive singular masculine | for or in the noble practitioner |
@@ -36,6 +30,12 @@ kaukṛtyam | na | api | ca | aśubham
 | `dṛṣṭi-puṣṭatvāt` | ablative singular compound | because of being nourished by views |
 | `kaukṛtyam` | nominative singular neuter | remorse, regret over what has been done |
 | `aśubham` | nominative singular neuter | unwholesome |
+
+Padaccheda: `vibhava-icchā | na | ca | āryasya | saṃbhavanti |
+vidhā-ādayaḥ | na | asmitā | dṛṣṭi-puṣṭatvāt |
+kaukṛtyam | na | api | ca | aśubham`. The final `aśubham`
+qualifies `kaukṛtyam`; the Bhāṣya treats them as one subject,
+unwholesome remorse.
 
 The Bhāṣya glosses `vibhavecchā` as `vibhavatṛṣṇā`, thirst for nonexistence,
 and reads the series marked by `ādi` as extending through that thirst.
@@ -83,6 +83,11 @@ The Bhāṣya shows that `aśubham` qualifies `kaukṛtyam`; it is not the predi
 “remorse is not unwholesome.” The context `āryasya` and the verb “arise” remain
 understood.
 
+The Bhāṣya supplies the extent of the series marked by `ādi` and the
+particular views that nourish its members. These dependencies explain the
+non-manifestation asserted in the verse; they do not enter its translation
+as a second list.
+
 ## 5. Translation
 
 ### Literal Translation
@@ -93,17 +98,9 @@ understood.
 
 ### Bhāṣya-informed study translation
 
-> Although they remain classified as cultivation-abandonable, the conceit-
-> modes, I-am conceit, the afflictive occupation beginning with deliberate
-> killing, the relevant thirsts for existence and nonexistence, and unwholesome
-> remorse do not manifest in a noble practitioner. Each depends upon a view
-> already destroyed through seeing: satkāya-view nourishes the conceits;
-> false view nourishes harmful occupation; annihilationist view nourishes
-> thirst for nonexistence; eternalist view nourishes a portion of thirst for
-> existence; and doubt generates unwholesome remorse.
-
-The extended series and its specific dependency relations are supplied by the
-Bhāṣya.
+> For a noble practitioner, the wish for nonexistence and the series from the
+> conceit-modes onward do not arise, nor does I-am conceit, because these are
+> nourished by views; neither does unwholesome remorse arise.
 
 ## 6. Philosophical Translation
 

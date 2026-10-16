@@ -1,17 +1,17 @@
 # VAK 5.24 Bhāṣya — Future Afflictions and the Range of Bondage
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > sarvatrānāgatairebhir mānasaiḥ svādhvike paraiḥ |
 > ajaiḥ sarvatra śeṣais tu sarvaiḥ sarvatra saṃyutaḥ || 5.24 ||
 
-> By these future afflictions when mental, one is bound with
-> respect to objects in all three times; by the other future
-> afflictions, to objects in their own time. By those that will
-> not arise, one is bound everywhere; by all the remaining
-> afflictions, everywhere.
+> Future mental attachment, aversion, and conceit bind one across the three
+> times; future sensory attachment and aversion destined to arise bind one only
+> to future objects. Their non-arising counterparts bind one across the three
+> times, while views, doubts, and ignorances of every time bind one everywhere,
+> so long as they remain unabandoned.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     sarvatrānāgatairebhir mānasaiḥ.
@@ -48,7 +48,7 @@ are editorial; the Sanskrit is taken from the running IAST
 source. The Kārikā is dispersed through the prose, and its
 four parts have been kept at their source positions.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 “By these future mental afflictions, everywhere.” The earlier
 condition “where they have not been abandoned” continues.
@@ -60,7 +60,7 @@ from all three times.
 “By the others, to what belongs to their own time.” Through
 other future attachment and aversion, one is connected only
 with future objects. Which others? Attachment and aversion
-belonging to the five groups of sense consciousness, in the
+belonging to the five groups of sense cognition, in the
 case of those destined to arise.
 
 “But by those that will not arise, everywhere.” Even through
@@ -75,7 +75,7 @@ is connected with every object, because they are
 general-character afflictions. The governing condition
 “so long as they have not been abandoned” still applies.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 This verse completes the object-range account begun in 5.23.
 Its distinctions depend on **temporal position**, **cognitive
@@ -86,7 +86,7 @@ the reason explicitly: mental afflictions have objects in
 all three times (`tryadhvaviṣayatva`).
 
 The “others” (`paraiḥ`) are future attachment and aversion
-associated with the five sense consciousnesses. For those
+associated with the five sense cognitions. For those
 that will arise (`utpattidharma`), bondage is limited to a
 future object, their own temporal field. The compact `ajaiḥ`
 is then explained as `anutpattidharma`: future sensory
@@ -101,7 +101,7 @@ these rules remain under the condition `yāvad aprahīṇāḥ`.
 The table of possible bonds must not be read as a claim
 that abandoned afflictions continue to bind.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Mānasaiḥ` is restricted by the
 prose to the three afflictions inherited from 5.23;
@@ -122,7 +122,7 @@ condition is abandonment. This is a conceptual use of the
 Kośa for the Science of Citta, separate from any implemented
 architecture.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The whole distributed Kārikā and its prose were
 checked against the running IAST source. The next question

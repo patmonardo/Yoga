@@ -1,16 +1,16 @@
 # VAK 5.37 Bhāṣya — Views among Influxes, Floods, and Yokes
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > tathaughayogā dṛṣṭīnāṃ pṛthagbhāvas tu pāṭavāt |
 > nāsraveṣv asahāyānāṃ na kilāsyānukūlatā || 5.37 ||
 
-> Floods and yokes are understood correspondingly, but views
-> receive a separate place because of their sharpness. Among
-> influxes they do not: views on their own, it is said, are
-> unsuited to the influx's settling function.
+> Floods and yokes follow the same classification, except that views stand
+> separately because of their sharpness. Among the āsravas, views have no
+> separate place, for unaided views, it is said, are unsuited to the settling
+> function.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 yathā caite āsravā uktā veditavyāḥ
@@ -43,7 +43,7 @@ source's `pṛṭhak`, `dṛṣṭyogha`, and
 `paryavasthānānīti` are retained for later textual review.
 The quotation at [307|13] begins 5.38.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 The floods and yokes should be understood as these influxes
 were stated, but views are separately established because
@@ -69,7 +69,7 @@ doubt. The view flood contains thirty-six; the ignorance
 flood, fifteen. The yokes are to be understood in the same
 way as the floods.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The commentary changes the **partition**, not the inventory.
 In the flood and yoke classifications, the thirty-six views
@@ -90,7 +90,7 @@ not the exclusion of views from the influxes. The two
 `kila` qualifications present the explanation as received;
 the passage does not pause to test its etymology.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** The second half of the verse is
 elliptical. Its subject, views, and its contrast with their
@@ -111,7 +111,7 @@ membership. This is a project-level formal reading of the
 Kośa's classification, not an additional source doctrine or
 an implementation claim.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The whole commentary unit and its boundary
 with 5.38 were checked against the running IAST source.

@@ -1,16 +1,16 @@
 # VAK 5.36 Bhāṣya — One Existence Āsrava, Separate Ignorance
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > avyākṛtāntarmukhā hi te samāhitabhūmikāḥ |
-> ata ekīkṛtā mūlam avidyety āsravaḥ pṛthak || 5.36 ||
+> ata ekīkṛtāḥ mūlam avidyety āsravaḥ pṛthak || 5.36 ||
 
-> The higher-domain anuśayas are ethically indeterminate,
-> inward directed, and situated on concentrated levels;
-> therefore they are grouped together. Ignorance is a
-> separate āsrava because it is the root.
+> The form- and formless-realm anuśayas are unified as one existence āsrava
+> because they are ethically indeterminate, inward-directed, and situated on
+> concentrated planes. Ignorance, the root of all these afflictions, is
+> classified as a separate āsrava.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 kiṃ punaḥ kāraṇaṃ rūpārūpyāvacarā anuśayāḥ
@@ -37,11 +37,10 @@ distributed across the prose. Word division and punctuation
 are editorial. The running source's `bhavāgra`, `ūbhaye`,
 and `sādhamyerṇa` are retained as transmitted. Their local
 sense is recoverable, but their exact forms remain for the
-later textual reliability pass. The running verse has
-`ekīkṛtāḥ`, whereas the official Kārikā study prints
-`ekīkṛtā`; this difference also remains visible.
+later textual reliability pass. The Kārikā anchor follows
+the witness and running verse in reading `ekīkṛtāḥ`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Why are the anuśayas belonging to the form and formless
 domains gathered together as one existence āsrava?
@@ -56,7 +55,7 @@ the ignorance āsrava, totaling fifteen factors. Why is it
 set apart? “Because ignorance is the root of all of these,
 the āsrava is separate.”
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The grouping of form and formless afflictions is grounded
 in a **threefold shared character**: their ethical status
@@ -76,7 +75,7 @@ within the same afflictive field. These are source-level
 claims of the present classification, not a claim that
 ignorance is outside conditioned existence.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Avyākṛta` retains the ethical
 sense established in 5.19; it does not mean unafflicted.
@@ -95,9 +94,8 @@ this is a reminder that membership and explanatory priority
 are different relations. This is a project-level use of
 the Kośa, separate from any implemented formal system.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The whole distributed verse and the boundary
 with 5.37 were checked against the running IAST source.
-The malformed words and `ekīkṛtāḥ` / `ekīkṛtā` difference
-remain open for later philological review.
+The malformed words remain open for later philological review.

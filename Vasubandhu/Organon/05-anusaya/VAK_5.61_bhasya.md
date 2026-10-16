@@ -1,24 +1,15 @@
 # VAK 5.61 Bhāṣya — Counteragents and the Criterion of Abandonment
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> prahāṇādhārabhūtatvadūṣaṇāruyaś caturvidhaḥ |
-> pratipakṣaḥ prahātavyaḥ kleśa ālambanāt mataḥ || 5.61 ||
+> prahāṇādhārabhūtatva-dūṣaṇākhyaś caturvidhaḥ |
+> pratipakṣaḥ prahātavyaḥ kleśa ālambanān mataḥ || 5.61 ||
 
-> The counteragent is fourfold: one that abandons, one
-> that sustains abandonment, one that distances, and one
-> that discredits. An affliction is held to be abandoned
-> with respect to its object.
+> The four counteragents abandon, support the abandonment attained, distance
+> the severed acquisition, and discredit a domain by seeing its defects. An
+> affliction is said to be abandoned with respect to its cognitive Condition.
 
-The first pāda follows the damaged running IAST reading.
-Its four English terms come from the Bhāṣya's explicit
-glosses, **not** from a secure division of that pāda. The
-separate kārikā instead has
-`prahāṇādhārabhūtatva-dūṣaṇākhyaś` and ends
-`ālambanān mataḥ`; neither witness alone transparently
-states the four names that the prose then supplies.
-
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 katividhaśca pratipakṣa ityāha
@@ -67,8 +58,12 @@ line division, and removal of verse identifiers are
 editorial. The damaged first pāda needs separate textual
 review; its doctrinal enumeration is recoverable from the
 prose, not from conjectural repair of the verse.
+The anchor copies the separate kārikā witness. Its four English functions
+come from the explicit Bhāṣya glosses, not a secure division of the damaged
+first pāda. The running verse has `ālambanāt` where the separate kārikā
+prints `ālambanān`.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 How many kinds of counteragent are there? Four. The
 counteragent of abandonment is the uninterrupted path
@@ -84,28 +79,28 @@ it.
 
 Yet a better order would be: first, the discrediting
 counteragent, the preparatory path taking suffering and
-origin as its objects; then the abandonment counteragent,
+origin as its conditions; then the abandonment counteragent,
 every uninterrupted path; then the supporting counteragent,
 the path of liberation; and then the distancing counteragent,
 the path of further distinction (`viśeṣamārga`).
 
 From what is an affliction, as it is abandoned, to be
-separated? The verse says: from its object. An affliction
+separated? The verse says: from its condition. An affliction
 cannot be separated from its associated factors, but it
-can be separated from its object, since it no longer arises
-taking that object. This might be said of a future
+can be separated from its condition, since it no longer arises
+taking that condition. This might be said of a future
 affliction; how does it apply to one already past? If the
 verse instead means that an affliction is abandoned through
-complete knowledge of its object, that too is not
+complete knowledge of its condition, that too is not
 universally valid. We must therefore ask what warrants
 saying an affliction has been abandoned. For an affliction
 in one's own continuum, it is severance of its acquisition
 (`prāpti`). For an affliction in another continuum, as also
 for all material form and an unafflicted dharma, the relevant
 criterion is the abandonment of afflictions in one's own
-continuum that take it as their object.
+continuum that take it as their condition.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The prose securely names four **functions of opposition**:
 abandoning (`prahāṇa`), maintaining the achieved abandonment
@@ -120,11 +115,11 @@ explicitly distinguished by the source. The support
 counteragent sustains *abandonment*, not the affliction.
 
 The second half probes the formula “abandoned from its
-object.” Separation from simultaneous association is
-rejected; separation from the object is provisionally
+condition.” Separation from simultaneous association is
+rejected; separation from the condition is provisionally
 explained as non-recurrence toward it. The already-past
 affliction exposes that explanation's temporal limit.
-The proposed alternative, complete knowledge of the object,
+The proposed alternative, complete knowledge of the condition,
 is also rejected as universal (`eṣo 'pi naikāntaḥ`), in
 agreement with 5.60. The inquiry therefore changes from
 *where separation is described* to *what licenses a claim
@@ -134,23 +129,23 @@ The resulting criterion is indexed to **continuum**. For
 one's own affliction, the severance of `prāpti` is decisive.
 For an affliction in another continuum, or for the named
 non-afflictive factors, the relation is to one's own
-object-taking afflictions and their abandonment. This does
+condition-taking afflictions and their abandonment. This does
 not say that another person's affliction or material form
 is annihilated when one's own affliction ceases. It
 distinguishes the removal of a binding relation from
-destruction of its object.
+destruction of its condition.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** The anchor gives the prose's
 four terms in English while retaining the damaged running
 Sanskrit in the continuous section. `Ādhāra` is rendered
-“supporting” only with its expressed object, the obtained
+“supporting” only with what it supports, the obtained
 abandonment. `Dūrībhāva` concerns the severed acquisition;
 `vidūṣaṇā` concerns seeing a domain as defective. The
 separate kārikā's `ālambanān` and running source's
 `ālambanāt` remain a textual question, though both point
-to the object relation in this context.
+to the condition relation in this context.
 
 **Organon reconstruction.** Our Anuśaya:Mārga dyad can
 now distinguish preparation, severance, maintenance, and
@@ -158,10 +153,10 @@ further distancing without treating these as one negative
 act. The Kośa itself supplies that functional order. The
 project-level extension is to read the Path as a determinate
 response to the structure of afflictive binding, while
-keeping object, association, acquisition, and continuum
+keeping condition, association, acquisition, and continuum
 as separate relations.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The distributed 5.61 verse, full commentary,
 and opening boundary of 5.62 were checked against the

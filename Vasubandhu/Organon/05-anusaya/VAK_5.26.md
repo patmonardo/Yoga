@@ -18,15 +18,9 @@ The verse names the four Sarvāstivāda explanations announced in VAK 5.25 and
 provisionally prefers the third, which determines temporal courses through
 operative activity.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-te | bhāva-anyathika | lakṣaṇa-anyathika | avasthā-anyathika |
-anyathā-anyathika | saṃjñitāḥ | tṛtīyaḥ | śobhanaḥ | adhvānaḥ |
-kāritreṇa | vyavasthitāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `te` | nominative plural masculine | those [four Sarvāstivāda positions] |
 | `bhāva-anyathika` | compound designation | explaining temporal difference through alteration of mode of being |
@@ -39,6 +33,12 @@ kāritreṇa | vyavasthitāḥ
 | `adhvānaḥ` | nominative plural masculine | temporal courses: past, present, and future |
 | `kāritreṇa` | instrumental singular neuter | by operative activity or function |
 | `vyavasthitāḥ` | nominative plural masculine past participle | distinguished, established in order |
+
+Padaccheda: `te | bhāva-anyathika | lakṣaṇa-anyathika |
+avasthā-anyathika | anyathā-anyathika | saṃjñitāḥ |
+tṛtīyaḥ | śobhanaḥ | adhvānaḥ | kāritreṇa | vyavasthitāḥ`.
+The four designations are compressed into a compound; the Bhāṣya
+unpacks them in that order and names their four proponents.
 
 The four compressed designations are unpacked by the Bhāṣya and attributed to
 Dharmatrāta, Ghoṣaka, Vasumitra, and Buddhadeva respectively.
@@ -74,6 +74,8 @@ the temporal courses are distinguished by operative activity
 The singular `tṛtīyaḥ` refers to the state-difference theory. `Adhvānaḥ` is
 the plural subject of `vyavasthitāḥ`; `kāritreṇa` names the differentiating
 instrument or principle.
+The Bhāṣya's judgment that the third is preferable is comparative among
+these four; its further challenge to the role of activity begins in 5.27.
 
 ## 5. Translation
 
@@ -85,16 +87,10 @@ instrument or principle.
 
 ### Bhāṣya-informed study translation
 
-> Dharmatrāta explains temporal difference by alteration of mode, Ghoṣaka by
-> alteration of characteristic, Vasumitra by alteration of state, and
-> Buddhadeva by relative difference. Of these, Vasumitra's third account is the
-> most satisfactory internally: a dharma is future when it has not yet
-> performed its function, present while performing it, and past when its
-> function has been performed and it has ceased. Vasubandhu nevertheless
-> subjects this preferred account to renewed criticism.
-
-The teachers, analogies, operational definitions, and subsequent critique are
-supplied by the Bhāṣya.
+> Dharmatrāta, Ghoṣaka, Vasumitra, and Buddhadeva are named for difference in
+> mode of being, characteristic, state, and relative position, respectively;
+> Vasumitra's third account is preferable, for the three times are
+> distinguished by operative activity.
 
 ## 6. Philosophical Translation
 

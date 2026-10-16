@@ -18,14 +18,9 @@ VAK 5.50 completes the six stains of affliction begun in VAK 5.49 and assigns
 four of them to two afflictive sources. The remaining sources of `pradāśa` and
 `śāṭhya` are stated in VAK 5.51.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-pradāśaḥ | upanāhaḥ | ca | vihiṃsā | ca | iti |
-rāga-jau | māyā-madau | pratigha-je | upanāha-vihiṃsane
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `pradāśaḥ` | nominative singular masculine | obstinate fault-clinging or resistance to correction |
 | `upanāhaḥ` | nominative singular masculine | sustained resentment or rancor |
@@ -35,6 +30,11 @@ rāga-jau | māyā-madau | pratigha-je | upanāha-vihiṃsane
 | `māyā-madau` | nominative dual masculine | deceit and intoxication |
 | `pratigha-je` | nominative dual feminine | the two born from hostility |
 | `upanāha-vihiṃsane` | nominative dual feminine | sustained resentment and harmfulness |
+
+```text
+pradāśaḥ | upanāhaḥ | ca | vihiṃsā | ca | iti |
+rāga-jau | māyā-madau | pratigha-je | upanāha-vihiṃsane
+```
 
 The two paired constructions are syntactically exact:
 
@@ -91,18 +91,9 @@ left to the next verse.
 
 ### Bhāṣya-informed study translation
 
-> The six stains are deceit, crookedness, intoxication, obstinate adherence to
-> a blameworthy matter, sustained resentment, and harmfulness. Deceit is the
-> deceiving of another; crookedness prevents straightforward disclosure;
-> `pradāśa` firmly clings to a blameworthy position and rejects proper
-> admonition; `upanāha` repeatedly intensifies a basis of resentment; and
-> `vihiṃsā` injures others through striking, harshness, and similar acts. Of
-> these six, deceit and intoxication are born from attachment, while sustained
-> resentment and harmfulness are born from hostility. The origins of
-> `pradāśa` and crookedness remain for VAK 5.51.
-
-The definitions and controlled four-member genealogy are supplied by the
-Bhāṣya.
+> Obstinate fault-clinging, sustained resentment, and harmfulness complete the
+> six stains. Deceit and intoxication are born from attachment; sustained
+> resentment and harmfulness are born from hostility.
 
 ## 6. Philosophical Translation
 

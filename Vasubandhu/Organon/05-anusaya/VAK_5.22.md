@@ -19,14 +19,9 @@ occasion is lexical: the ethically indeterminate `avyākṛta` of VAK 5.19–5.2
 must not be confused with a question called `avyākṛta` because it is to be set
 aside.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-eka-aṃśataḥ | vyākaraṇam | vibhajya | paripṛcchya | ca | sthāpyam |
-ca | maraṇa-utpatti-viśiṣṭa-ātma-anyatā-ādi-vat
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ekāṃśataḥ` | indeclinable adverb | categorically, from one determinate side |
 | `vyākaraṇam` | nominative or accusative singular neuter | answer, exposition, determinate declaration |
@@ -38,6 +33,12 @@ ca | maraṇa-utpatti-viśiṣṭa-ātma-anyatā-ādi-vat
 | `viśiṣṭa` | compound member | superior, distinguished |
 | `ātma-anyatā` | compound member | otherness of self; clarified through being and aggregates |
 | `ādi-vat` | indeclinable compound | as in these and similar examples |
+
+Padaccheda: `eka-aṃśataḥ | vyākaraṇam | vibhajya |
+paripṛcchya | ca | sthāpyam | ca |
+maraṇa-utpatti-viśiṣṭa-ātma-anyatā-ādi-vat`.
+The final compound supplies four examples in the same order as the
+four answer modes; the Bhāṣya gives each example its full question.
 
 The final compound gives the four examples in order. The Bhāṣya clarifies the
 last as the question whether a being is other than or non-other than the
@@ -75,6 +76,8 @@ viśiṣṭa-vat
 
 The examples do not define the modes mechanically. The Bhāṣya preserves
 disagreement over how particular questions should be assigned.
+It also distinguishes `avyākṛta` as a question to be set aside from
+`avyākṛta` as the ethical status discussed in 5.19–5.21.
 
 ## 5. Translation
 
@@ -86,14 +89,9 @@ disagreement over how particular questions should be assigned.
 
 ### Bhāṣya-informed study translation
 
-> A question may require a categorical answer, an answer after distinguishing
-> its cases, or an answer after questioning the interlocutor in return; another
-> question must be set aside as posed. The four modes are illustrated by asking
-> whether all beings die, whether all arise again, whether a human is superior,
-> and whether a being is other than or non-other than the aggregates.
-
-The exact examples, the reason for setting aside the fourth question, and the
-debate over their allocation are supplied by the Bhāṣya.
+> An answer is given categorically, after division, or after questioning in
+> return; a question is also set aside—as with death, rebirth, relative
+> superiority, and a being's otherness from the aggregates, respectively.
 
 ## 6. Philosophical Translation
 

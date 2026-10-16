@@ -14,38 +14,37 @@ catvāro bhāvanāheyās ta evāpratighāḥ punaḥ |
 rūpadhātau tathārūpye ity aṣṭānavatir matāḥ || 5.5 ||
 ```
 
-The verse completes the opening construction of the ninety-eight anuśayas.
-The Bhāṣya is indispensable for resolving the range of `te eva`: it resumes
-the entire thirty-sixfold desire-domain classification, not merely the four
-anuśayas named at the beginning of the verse.
+## 3. Lexical Analysis
 
-## 3. Padaccheda and Lexical Analysis
-
-```text
-catvāraḥ | bhāvanā-heyāḥ | te | eva | apratighāḥ | punaḥ |
-rūpa-dhātau | tathā | ārūpye | iti | aṣṭā-navatiḥ | matāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `catvāraḥ` | nominative plural masculine | four |
-| `bhāvanā-heyāḥ` | nominative plural masculine compound | to be abandoned through cultivation |
-| `te eva` | pronoun with emphatic particle | those very same classes |
-| `apratighāḥ` | nominative plural masculine | without resistance or aversion |
-| `punaḥ` | adverb | again, in turn |
-| `rūpa-dhātau` | locative singular masculine | in the form-domain |
-| `tathā` | adverb | likewise, in the same manner |
-| `ārūpye` | locative singular neuter | in the formless domain |
-| `iti` | concluding particle | thus |
-| `aṣṭā-navatiḥ` | numeral | ninety-eight |
-| `matāḥ` | nominative plural masculine past passive participle | held, regarded, accepted |
+| catvāraḥ | numeral; masculine; nominative plural | four desire-realm anuśayas |
+| bhāvanā-heyāḥ | compound adjective; masculine; nominative plural | to be abandoned through cultivation |
+| te | pronoun; masculine; nominative plural (lemma: tad) | those same classes in the completed desire-realm system |
+| eva | indeclinable | precisely those same |
+| apratighāḥ | privative adjective; masculine; nominative plural | without resistance (*pratigha*) |
+| punaḥ | indeclinable | again, in turn |
+| rūpa-dhātau | compound noun; masculine; locative singular | in the form domain |
+| tathā | indeclinable | likewise |
+| ārūpye | noun; neuter; locative singular | in the formless domain |
+| iti | indeclinable | concludes the enumeration |
+| aṣṭā-navatiḥ | numeral; feminine; nominative singular | ninety-eight |
+| matāḥ | past passive participle; masculine; nominative plural (lemma: mata) | held or reckoned of the anuśayas |
+
+Sandhi and word division: *bhāvanāheyās ta* = *bhāvanāheyāḥ te*;
+*evāpratighāḥ* = *eva apratighāḥ*; *tathārūpye* = *tathā ārūpye*;
+*ity aṣṭānavatir matāḥ* = *iti aṣṭānavatiḥ matāḥ*.
+
+The Bhāṣya resolves the range of *te eva*: it resumes the entire
+thirty-sixfold desire-realm classification, not just the four anuśayas
+named at the beginning of the verse.
 
 `A-pratigha` is privative: the higher-domain systems repeat the prior
 classification with the five modes of `pratigha` removed.
 
 ## 4. Grammar
 
-**Cultivation remainder in the desire-domain**
+**Cultivation remainder in the desire-realm**
 
 ```text
 catvāraḥ bhāvanā-heyāḥ [santi]
@@ -63,11 +62,11 @@ cultivation of the Path.
 te eva apratighāḥ punaḥ rūpadhātau
 
 those same [classes], again without resistance,
-[occur] in the form-domain
+[occur] in the form-realm
 ```
 
 Although proximity could make `te eva` appear to refer only to the four just
-mentioned, the Bhāṣya first completes the thirty-six desire-domain cases and
+mentioned, the Bhāṣya first completes the thirty-six desire-realm cases and
 then explicitly removes their five `pratigha` modes. The referent is therefore
 the complete prior system.
 
@@ -81,34 +80,27 @@ iti aṣṭānavatiḥ matāḥ
     thus they are held to be ninety-eight
 ```
 
-The form-domain and formless-domain each contain thirty-one cases.
+The form-realm and formless-realm each contain thirty-one cases.
 
 ## 5. Translation
 
 ### Literal Translation
 
 > Four are to be abandoned through cultivation. Those same [classes], again
-> without resistance, occur in the form-domain and likewise in the formless
+> without resistance, occur in the form-realm and likewise in the formless
 > domain. Thus they are held to be ninety-eight.
 
 ### Bhāṣya-informed study translation
 
-> Four desire-domain anuśayas—attachment, resistance, conceit, and
-> non-knowing—are abandoned after the truths have been seen, through
-> cultivation of the Path. The complete thirty-sixfold desire-domain system
-> recurs in the form-domain without the five modes of resistance, yielding
-> thirty-one; the same holds for the formless domain. Thus the six basic
-> anuśayas are held by the Abhidharmikas to become ninety-eight through
-> distinctions of aspect, mode, and domain.
-
-The identities of the four, the reference of `te eva`, the fivefold removal of
-`pratigha`, the domain subtotals, and the final generative formula are all
-fixed by the Bhāṣya.
+> Four—attachment, resistance, conceit, and ignorance—are abandoned through
+> cultivation. The same thirty-sixfold desire-realm classification, with
+> resistance removed, recurs in the form domain and likewise in the formless
+> domain. Thus the anuśayas are reckoned as ninety-eight.
 
 ## 6. Philosophical Translation
 
 > The abstract sixfold root-system becomes a complete field only through its
-> relations. In the desire-domain, each anuśaya is differentiated according to
+> relations. In the desire-realm, each anuśaya is differentiated according to
 > the cognitive support on which it rests and whether it is abandoned by
 > truth-seeing or by subsequent cultivation. The resulting thirty-sixfold
 > system is then transposed into the two higher domains under a determinate
@@ -131,7 +123,7 @@ anuśaya falls outside those seeing-specific cases
 
 **`Bhāvanāheya` — to be abandoned through cultivation**
 
-The four in the desire-domain are attachment, resistance, conceit, and
+The four in the desire-realm are attachment, resistance, conceit, and
 non-knowing. Their cultivation-mode is not a fifth truth but a distinct manner
 of removal after the truths have been seen.
 
@@ -183,7 +175,7 @@ psychological explanation of why resistance is absent there.
 
 ## 8. Logical Determination
 
-The desire-domain is generated by removal-mode:
+The desire-realm is generated by removal-mode:
 
 ```text
 12 views
@@ -193,16 +185,16 @@ The desire-domain is generated by removal-mode:
  5 conceits
  5 non-knowings
 --
-36 desire-domain cases
+36 desire-realm cases
 ```
 
 The two higher domains are constrained transformations of that system:
 
 ```text
-form-domain:
+form-realm:
     36 - 5 pratigha modes = 31
 
-formless-domain:
+formless-realm:
     36 - 5 pratigha modes = 31
 
 total:
@@ -216,10 +208,10 @@ six basic anuśayas
     ↓ aspect and internal species
 ten basic classes
     ↓ cognitive support and removal-mode
-thirty-six desire-domain cases
+thirty-six desire-realm cases
     ↓ domain constraint excluding pratigha
-thirty-one form-domain cases
-    + thirty-one formless-domain cases
+thirty-one form-realm cases
+    + thirty-one formless-realm cases
     ↓
 ninety-eight determinate positions
 ```
@@ -243,7 +235,7 @@ VAK 5.05 completes the movement from root to system:
 5.01    anuśaya as root of bhava
 5.02    internal division of attachment
 5.03    internal division of view
-5.04    truth-specific removal in the desire-domain
+5.04    truth-specific removal in the desire-realm
 5.05    cross-domain completion of the ninety-eight
 ```
 

@@ -1,15 +1,14 @@
 # VAK 5.44 Bhāṣya — Three Obstacles to Going toward Liberation
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > agantukāmatā mārgavibhramo mārgasaṃśayaḥ |
 > ity antarāyā mokṣasya gamane 'tas trideśanā || 5.44 ||
 
-> Unwillingness to go, deviation from the route, and doubt
-> about the route obstruct going toward liberation; hence
-> the teaching singles out three.
+> Unwillingness to go, deviation by taking another path, and doubt about the
+> path obstruct going toward liberation; therefore three fetters are taught.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 apare punar āhuḥ:
@@ -35,7 +34,7 @@ The unit runs [310|17–311|06] in
 division and punctuation are editorial. The opening
 `apare punar āhuḥ` attributes this explanation to “others.”
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Others say: “Unwillingness to go, deviation from the route,
 and doubt about the route are obstacles to going toward
@@ -52,7 +51,7 @@ the Path. To make evident the abandonment of these
 obstacles, the Blessed One taught the abandonment of these
 three afflictions in particular.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 This is an **attributed alternative** to 5.43's account of
 the three through entrances and roots. The prose first
@@ -76,7 +75,7 @@ making evident the abandonment of these three obstacle
 types, rather than supplying a new list of all afflictions
 abandoned at stream entry.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Agantukāmatā` is lack of desire
 to go, rendered “unwillingness to go.” `Mārga-vibhrama`
@@ -94,7 +93,7 @@ practical orientation, but it remains our reconstruction
 of a reported explanation, separate from Vasubandhu's
 unattributed doctrinal claims.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The complete attributed explanation and its
 boundary with 5.45 were checked against the running IAST

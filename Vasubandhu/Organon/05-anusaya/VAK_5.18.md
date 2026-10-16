@@ -18,14 +18,9 @@ The verse states exceptions to VAK 5.17's general rule of adherence by
 object-support and then establishes adherence through conjunction as a second,
 distinct relation.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-na | anāsrava-ūrdhva-viṣayāḥ | a-svīkārāt | vipakṣataḥ |
-yena | yaḥ | saṃprayuktaḥ | tu | saḥ | tasmin | saṃprayogataḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `na` | negative particle | not [adhere by object-support] |
 | `anāsrava-ūrdhva-viṣayāḥ` | nominative plural masculine compound | those having uncontaminated or higher objects |
@@ -38,6 +33,11 @@ yena | yaḥ | saṃprayuktaḥ | tu | saḥ | tasmin | saṃprayogataḥ
 | `saḥ` | nominative singular masculine correlative pronoun | that [anuśaya] |
 | `tasmin` | locative singular | in that [dharma] |
 | `saṃprayogataḥ` | ablative used adverbially | by way of conjunction |
+
+Padaccheda: `na | anāsrava-ūrdhva-viṣayāḥ | a-svīkārāt |
+vipakṣataḥ | yena | yaḥ | saṃprayuktaḥ | tu | saḥ | tasmin |
+saṃprayogataḥ`. The opening `nānāsrava-` is the sandhi of
+`na + anāsrava-`; the verb `anuśerate` continues from 5.17.
 
 The initial sandhi resolves as `na + anāsrava`, not as an independent word
 `nānā`. The verb `anuśerate`, “adhere,” is carried forward from VAK 5.17.
@@ -76,6 +76,9 @@ it adheres in that dharma by conjunction
 
 The Bhāṣya gives `tu` restrictive force: this rule holds only so long as the
 anuśaya remains unabandoned.
+It also distinguishes taking an object from gaining afflictive footing in
+it: non-appropriation and counteragency block the latter without denying
+that the object can be cognized.
 
 ## 5. Translation
 
@@ -88,14 +91,10 @@ anuśaya remains unabandoned.
 
 ### Bhāṣya-informed study translation
 
-> Anuśayas taking uncontaminated dharmas or higher levels as their objects do
-> not adhere in those objects by way of cognitive support, because the objects
-> are not appropriated into the afflicted structure and stand opposed to it as
-> counteragents. But an anuśaya adheres through conjunction to the dharma with
-> which it is conjoined, so long as that anuśaya has not been abandoned.
-
-The continued verb, the distinction between object-reference and afflictive
-footing, and the temporal qualification are supplied by the Bhāṣya.
+> Anuśayas directed toward uncontaminated or higher objects do not adhere in
+> them through their objects: they cannot appropriate them, and those objects
+> oppose them. But an unabandoned anuśaya adheres by conjunction in the
+> dharma with which it is associated.
 
 ## 6. Philosophical Translation
 

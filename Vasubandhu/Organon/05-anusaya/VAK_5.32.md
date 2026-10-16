@@ -17,14 +17,9 @@ mohākāṅkṣā tato mithyādṛṣṭiḥ satkāyadṛk tataḥ || 5.32 ||
 The verse first applies the completed object-support ordering to the predicate
 `sānuśaya`, then opens a genetic account of how the ten anuśayas arise.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dvidhā | sa-anuśayam | kliṣṭam | akliṣṭam | anuśāyakaiḥ |
-moha | ākāṅkṣā | tataḥ | mithyā-dṛṣṭiḥ | satkāya-dṛk | tataḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dvidhā` | adverb | in two ways |
 | `sa-anuśayam` | nominative or accusative neuter singular | bearing or accompanied by anuśaya |
@@ -36,6 +31,11 @@ moha | ākāṅkṣā | tataḥ | mithyā-dṛṣṭiḥ | satkāya-dṛk | tata
 | `tataḥ` | ablatival adverb | from that, thereafter |
 | `mithyā-dṛṣṭiḥ` | nominative singular feminine | false view |
 | `satkāya-dṛk` | nominative singular feminine, shortened from `satkāya-dṛṣṭi` | view of a real collection, self-view |
+
+```text
+dvidhā | sa-anuśayam | kliṣṭam | akliṣṭam | anuśāyakaiḥ |
+moha | ākāṅkṣā | tataḥ | mithyā-dṛṣṭiḥ | satkāya-dṛk | tataḥ
+```
 
 The Bhāṣya requires the cautious translation “non-defiled” for `akliṣṭa` here:
 such a citta is not conjoined with affliction, yet may still stand as object of
@@ -83,18 +83,11 @@ official study does not silently emend the witness.
 
 ### Bhāṣya-informed study translation
 
-> A defiled citta is called `sānuśaya` on two grounds: through an unabandoned
-> anuśaya actually adhering by conjunction or object-relation, and through
-> direct accompaniment by a conjoined anuśaya even when strict latent adherence
-> is not predicated. A non-defiled citta is called `sānuśaya` only when an
-> unabandoned anuśaya takes it as object and thereby actually adheres. In the
-> genesis of the ten anuśayas, ignorance produces delusion concerning the
-> truths; delusion gives rise to doubt, doubt is wrongly resolved as false view,
-> and false view becomes fixation upon the aggregates as self.
-
-The distinction between accompaniment and actual `anuśayana`, the role of
-false ascertainment, and the explanation of self-view are supplied by the
-Bhāṣya.
+> Defiled citta bears anuśaya in two ways: through anuśayas that adhere and
+> through conjoined anuśayas that no longer adhere. Non-defiled citta bears it
+> only through anuśayas that adhere by taking it as object. From delusion
+> arises doubt, from doubt false view, and from false view the view of the
+> aggregates as self.
 
 ## 6. Philosophical Translation
 

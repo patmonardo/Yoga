@@ -23,22 +23,22 @@ uncertain. The working Bhāṣya e-text has the still less transparent
 `prahāṇa`, `ādhāra`, `dūrībhāva`, and `vidūṣaṇā`. The kārikā witness above is
 preserved verbatim; the four-member interpretation is Bhāṣya-controlled.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-[prahāṇa-ādhāra-dūrībhāva-vidūṣaṇā]-ākhyaḥ | catur-vidhaḥ |
-pratipakṣaḥ | prahātavyaḥ | kleśaḥ | ālambanāt | mataḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `[prahāṇa-ādhāra-dūrībhāva-vidūṣaṇā]-ākhyaḥ` | reconstructed interpretive division, nominative singular masculine | called abandonment, support, distancing, and discrediting |
 | `caturvidhaḥ` | nominative singular masculine | fourfold |
 | `pratipakṣaḥ` | nominative singular masculine | counteragent or opposing Path-operation |
 | `prahātavyaḥ` | nominative singular masculine gerundive of `pra-√hā` | to be abandoned |
 | `kleśaḥ` | nominative singular masculine | affliction |
-| `ālambanāt` | ablative singular neuter | from or with respect to the object-support |
+| `ālambanān` | transmitted ablative form; the running verse has `ālambanāt` | from or with respect to the cognitive Condition |
 | `mataḥ` | nominative singular masculine past passive participle of `√man` | held, considered |
+
+```text
+[prahāṇa-ādhāra-dūrībhāva-vidūṣaṇā]-ākhyaḥ | catur-vidhaḥ |
+pratipakṣaḥ | prahātavyaḥ | kleśaḥ | ālambanān | mataḥ
+```
 
 The lexical division in brackets is not claimed as a silent critical
 emendation. It records the four names supplied by the explanatory prose.
@@ -64,8 +64,8 @@ kleśaḥ
 ```
 
 The gerundive agrees with `kleśaḥ`; `mataḥ` marks the position as “held” or
-“considered.” The ablative initially identifies separation from the object-
-support: the affliction no longer arises taking that object. The Bhāṣya then
+“considered.” The ablative initially identifies separation from the cognitive
+Condition: the affliction no longer arises taking that condition. The Bhāṣya then
 tests and qualifies this answer, especially for past affliction.
 
 The received enumeration order differs from the operational Path-order later
@@ -77,23 +77,14 @@ for temporal sequence.
 ### Literal Translation
 
 > The counteragent is held to be fourfold, called abandonment, support,
-> distancing, and discrediting. An affliction is considered to be abandoned
-> with respect to its object-support.
+> distancing, and discrediting. An affliction is considered abandoned with
+> respect to its cognitive Condition.
 
 ### Bhāṣya-informed study translation
 
-> Counteraction has four functions: the uninterrupted path directly abandons
-> the affliction; the immediately following noble path supports and maintains
-> the abandonment obtained; a subsequent path distances the already severed
-> acquisition; and a preparatory path discredits a domain by seeing it as
-> defective. An affliction is initially said to be abandoned with respect to
-> its object-support because it no longer arises toward that support, but for
-> an affliction in one's own continuum the decisive criterion is severance of
-> its acquisition.
-
-Other teachers include the path of liberation itself among the distancing
-counteragents. This alternative remains attributed rather than absorbed into
-Vasubandhu's primary allocation.
+> The four counteragents abandon, support the abandonment attained, distance
+> the severed acquisition, and discredit a domain by seeing its defects. An
+> affliction is said to be abandoned with respect to its cognitive Condition.
 
 ## 6. Philosophical Translation
 
@@ -102,8 +93,8 @@ Vasubandhu's primary allocation.
 > maintained, and the abolished acquisition is placed progressively farther
 > away. These functions converge upon abandonment without becoming synonyms.
 > Nor is an affliction exhausted merely by detaching it from associated mental
-> factors or by knowing an object: abandonment must be determined through the
-> precise object-, association-, and acquisition-relations of the continuum.
+> factors or by knowing a condition: abandonment must be determined through the
+> precise condition-, association-, and acquisition-relations of the continuum.
 
 The Path is thus an articulated transformation whose preparatory, decisive,
 stabilizing, and distancing operations must be kept distinct.
@@ -131,7 +122,7 @@ include the liberation path because it already performs distancing.
 
 The Path-operation that regards a domain as defective and undermines its
 attractive standing. Vasubandhu places this first operationally as the
-`prayoga-mārga` when suffering and origin are its objects.
+`prayoga-mārga` when suffering and origin are its conditions.
 
 **Received order and operational order**
 
@@ -150,10 +141,10 @@ An affliction cannot simply be detached from the mental factors conjoined
 with it as though it persisted separately. Hence abandonment is not explained
 as separation from its associated factors.
 
-**`Ālambana` — object-support**
+**`Ālambana` — cognitive Condition**
 
 The initial standpoint from which abandonment is described: the affliction no
-longer arises taking that object-support. This explanation is intelligible for
+longer arises taking that cognitive Condition. This explanation is intelligible for
 future affliction but does not settle the past case universally.
 
 **`Prāpti-cheda` — severance of acquisition**
@@ -161,7 +152,7 @@ future affliction but does not settle the past case universally.
 The decisive criterion for saying that an affliction belonging to one's own
 continuum has been abandoned. For afflictions in another continuum and for
 material or undefiled dharmas, the relevant abandonment concerns one's own
-afflictions that take them as objects.
+afflictions that take them as conditions.
 
 ## 8. Logical Determination
 
@@ -198,7 +189,7 @@ TaxonomicOrder(fourCounteragents)
 The second half distinguishes three relations:
 
 ```text
-TakesAsObject(kleśa, ālambana)
+TakesAsCondition(kleśa, ālambana)
 ConjoinedWith(kleśa, associatedFactor)
 PossessedThrough(continuum, prāptiOfKleśa)
 ```
@@ -213,7 +204,7 @@ Severed(PrāptiOf(kleśa, ownContinuum))
 Therefore neither of these is universally sufficient:
 
 ```text
-CompletelyKnown(ObjectSupport(kleśa))
+CompletelyKnown(CognitiveCondition(kleśa))
     ⇏ Abandoned(kleśa)
 
 SeparatedFromAssociatedFactors(kleśa)
@@ -236,9 +227,9 @@ difference.
 already begun. The edition preserves the disagreement rather than selecting a
 synthetic formulation.
 
-**The object answer is provisional.** The statement that affliction is
-abandoned from its object-support generates a temporal difficulty for past
-affliction. Vasubandhu also rejects complete knowledge of the object as an
+**The condition answer is provisional.** The statement that affliction is
+abandoned from its cognitive Condition generates a temporal difficulty for past
+affliction. Vasubandhu also rejects complete knowledge of the condition as an
 exceptionless replacement and turns to severance of acquisition in one's own
 continuum.
 
@@ -269,7 +260,7 @@ Class: CounteragentFunction
 Class: Path
 Class: Affliction
 Class: Acquisition
-Class: ObjectSupport
+Class: CognitiveCondition
 Class: SourceVoice
 
 Individual: DiscreditingCounteragent
@@ -293,9 +284,9 @@ ObjectProperty: distancesAcquisition
     Domain: Path
     Range: Acquisition
 
-ObjectProperty: takesAsObject
+ObjectProperty: takesAsCondition
     Domain: Affliction
-    Range: ObjectSupport
+    Range: CognitiveCondition
 
 ObjectProperty: hasAcquisition
     Domain: Continuum
@@ -321,12 +312,12 @@ Rule: OwnContinuumAffliction(?k)
 Constraint: TaxonomicPrecedence(?x, ?y)
     doesNotEntail OperationalPrecedence(?x, ?y)
 
-Constraint: CompletelyKnown(?o) AND takesAsObject(?k, ?o)
+Constraint: CompletelyKnown(?o) AND takesAsCondition(?k, ?o)
     doesNotEntail Abandoned(?k)
 
 View: FourfoldCounteragentPathMap
     Preserves: CounteragentFunction, PathStage, TaxonomicOrder,
-               OperationalOrder, ObjectRelation, AcquisitionRelation,
+               OperationalOrder, ConditionRelation, AcquisitionRelation,
                SourceVoice, SourceProvenance
 ```
 

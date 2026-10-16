@@ -18,14 +18,9 @@ The verse begins a new relational analysis of bondage. The Bhāṣya introduces
 attachment, aversion, and conceit as particular-character afflictions and
 contrasts them with the general-character afflictions treated in VAK 5.24.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-rāga-pratigha-mānaiḥ | syāt | atīta-pratyupasthitaiḥ | yatra |
-utpannāḥ | aprahīṇāḥ | te | tasmin | vastuni | saṃyutaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `rāga-pratigha-mānaiḥ` | instrumental plural compound | through attachment, aversion, and conceit |
 | `syāt` | third-person singular optative of `√as` | one would be; one is considered |
@@ -36,6 +31,12 @@ utpannāḥ | aprahīṇāḥ | te | tasmin | vastuni | saṃyutaḥ
 | `te` | nominative plural pronoun | those [afflictions] |
 | `tasmin vastuni` | locative singular | in or with respect to that object or matter |
 | `saṃyutaḥ` | nominative singular masculine | connected, bound |
+
+Padaccheda: `rāga-pratigha-mānaiḥ | syāt |
+atīta-pratyupasthitaiḥ | yatra | utpannāḥ | aprahīṇāḥ |
+te | tasmin | vastuni | saṃyutaḥ`. The Bhāṣya glosses
+`pratyupasthita` with `pratyutpanna`, confirming the past/present
+contrast, and names this triad particular-character afflictions.
 
 The Bhāṣya glosses the kārikā's `pratyupasthita` with `pratyutpanna`, fixing
 the relevant temporal contrast as past and present.
@@ -71,6 +72,9 @@ one is connected with that object through them
 `Yatra ... tasmin` ensures identity of the object of arising and the object of
 continued bondage. `Aprahīṇāḥ` is not a synonym for “present”; it qualifies
 past and present afflictions alike.
+The Bhāṣya's classification as `svalakṣaṇa-kleśa` explains why this rule
+requires actual arising with respect to the particular object rather than
+assuming every person is bound toward every object.
 
 ## 5. Translation
 
@@ -82,14 +86,8 @@ past and present afflictions alike.
 
 ### Bhāṣya-informed study translation
 
-> Attachment, aversion, and conceit are particular-character afflictions. A
-> person is bound through a past or present instance of one of them precisely
-> to the particular object regarding which it arose, so long as the affliction
-> has not been abandoned. These afflictions do not necessarily arise in every
-> person or toward every object.
-
-The classification as `svalakṣaṇa-kleśa` and the threefold denial of universal
-occurrence are supplied by the Bhāṣya.
+> By past or present attachment, aversion, and conceit, one is bound to the
+> very object regarding which they arose, provided they remain unabandoned.
 
 ## 6. Philosophical Translation
 

@@ -17,14 +17,9 @@ vimatiḥ saha tābhiś ca yāvidyā 'veṇikī ca yā || 5.12 ||
 The verse begins a new classification of the ninety-eight anuśayas: those
 whose range is universal within their own domain and those whose range is not.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sarvatragāḥ | duḥkha-hetu-dṛk-gheyāḥ | dṛṣṭayaḥ | tathā |
-vimatiḥ | saha | tābhiḥ | ca | yā | avidyā | āveṇikī | ca | yā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sarvatragāḥ` | nominative plural feminine | universally ranging; extending throughout the appropriate domain |
 | `duḥkha-hetu-dṛk-gheyāḥ` | nominative plural feminine compound | to be abandoned by seeing suffering and its cause/origination |
@@ -34,6 +29,11 @@ vimatiḥ | saha | tābhiḥ | ca | yā | avidyā | āveṇikī | ca | yā
 | `saha tābhiḥ` | indeclinable plus instrumental plural feminine | together or associated with those [views] |
 | `avidyā` | nominative singular feminine | ignorance |
 | `āveṇikī` | nominative singular feminine adjective | independent, unassociated |
+
+Padaccheda: `sarvatragāḥ | duḥkha-hetu-dṛk-gheyāḥ | dṛṣṭayaḥ |
+tathā | vimatiḥ | saha | tābhiḥ | ca | yā | avidyā | āveṇikī |
+ca | yā`. The Bhāṣya reads `hetu` here as `samudaya`, origination,
+and restricts `sarvatraga` to the corresponding domain.
 
 Here `hetu` does not name cause in an unrestricted sense. In the paired
 expression `duḥkha-hetu`, the Bhāṣya resolves it as `duḥkha-samudaya`: the
@@ -69,6 +69,9 @@ and the ignorance that is independent
 The two relative expressions marked by `yā` distinguish associated ignorance
 from independent ignorance. The Bhāṣya supplies the understood restriction:
 each is among the classes abandoned by seeing suffering and origination.
+Its count of eleven combines seven views, two doubts, and two truth-specific
+ignorance classes; association and independence do not add two more to that
+count. Their range is the whole of their corresponding domain.
 
 ## 5. Translation
 
@@ -80,14 +83,9 @@ each is among the classes abandoned by seeing suffering and origination.
 
 ### Bhāṣya-informed study translation
 
-> Eleven anuśayas range universally within their own corresponding domain:
-> the seven views and two doubts abandoned through seeing suffering and
-> origination, together with the two forms of ignorance there—ignorance
-> associated with those views and independent ignorance. They are universal
-> because their object-range can extend across the whole of their own domain.
-
-The enumeration, the same-domain restriction, and the explanation by
-object-range are supplied by the Bhāṣya.
+> The views abandoned through seeing suffering and origination range
+> throughout their own domain; likewise the corresponding doubts, ignorance
+> associated with those views, and independent ignorance.
 
 ## 6. Philosophical Translation
 

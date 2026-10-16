@@ -1,15 +1,15 @@
 # VAK 5.46 Bhāṣya — Upakleśa Beyond the Kleśas
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > ye 'py anye caitasāḥ kliṣṭāḥ saṃskāraskandha-saṃjñitāḥ |
 > kleśebhyas te 'py upakleśās te tu na kleśa-saṃjñitāḥ || 5.46 ||
 
-> Other afflicted mental factors belonging to the aggregate
-> of formations, distinct from the kleśas, are also
-> upakleśas; they are not, however, called kleśas.
+> Other afflicted mental factors in the formations aggregate, beyond those
+> designated kleśas, also count as upakleśas because they defile citta; they
+> do not themselves bear the narrower name kleśa.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     ye 'py anye caitasāḥ kliṣṭāḥ
@@ -32,7 +32,7 @@ reads `paryasthāna` in the final sentence, while the next
 question and verse use `paryavasthāna`; the variant remains
 visible for textual review.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 “Other afflicted mental factors belonging to the aggregate
 of formations, distinct from the kleśas, are also
@@ -49,7 +49,7 @@ afflict citta. This verse adds upakleśas outside the stricter
 kleśa class, rather than setting the two classes apart
 entirely.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The grammar is decisive: `anye kleśebhyaḥ` means “other
 than the kleśas.” The ablative is governed by `anye` and
@@ -67,7 +67,7 @@ to the *Kṣudravastuka* points to a wider inventory; the
 present chapter explicitly narrows its coming treatment to
 enveloping afflictions and afflictive stains.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Caitasāḥ` and the prose's
 `caitasikāḥ` are rendered “mental factors,” while citta is
@@ -85,7 +85,7 @@ grounds. This is a project-level reading of an overlapping
 classification, separate from the Kośa's source doctrine
 and any implemented model.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The verse, prose explanation, scope sentence,
 and boundary with 5.47 were checked against the running

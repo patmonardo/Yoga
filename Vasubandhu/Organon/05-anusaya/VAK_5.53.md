@@ -18,26 +18,26 @@ VAK 5.53 completes the upakleśa analysis by distributing the sixteen factors
 across domains. The Bhāṣya gives three ranges and then explicitly closes the
 discussion of kleśas and upakleśas.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
+
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `māyā` | nominative singular feminine | deceit |
+| `śāṭhyam` | nominative singular neuter | crookedness or duplicity |
+| `ca` | conjunction | and |
+| `kāma-ādya-dhyānayoḥ` | locative dual compound | in the desire-realm and first dhyāna |
+| `brahma-vañcanāt` | ablative singular neuter compound | because of the deception of Brahmā |
+| `styāna-auddhatya-madāḥ` | nominative plural masculine coordinative compound | torpor, excitation, and intoxication |
+| `dhātu-traye` | locative singular neuter | in the three domains |
+| `anye` | nominative plural masculine | the others |
+| `kāma-dhātu-jāḥ` | nominative plural masculine compound | arising or occurring in the desire-realm |
 
 ```text
 māyā | śāṭhyam | ca | kāma-ādya-dhyānayoḥ | brahma-vañcanāt |
 styāna-auddhatya-madāḥ | dhātu-traye | anye | kāma-dhātu-jāḥ
 ```
 
-| Form | Morphology | Contextual sense |
-|---|---|---|
-| `māyā` | nominative singular feminine | deceit |
-| `śāṭhyam` | nominative singular neuter | crookedness or duplicity |
-| `ca` | conjunction | and |
-| `kāma-ādya-dhyānayoḥ` | locative dual compound | in the desire-domain and first dhyāna |
-| `brahma-vañcanāt` | ablative singular neuter compound | because of the deception of Brahmā |
-| `styāna-auddhatya-madāḥ` | nominative plural masculine coordinative compound | torpor, excitation, and intoxication |
-| `dhātu-traye` | locative singular neuter | in the three domains |
-| `anye` | nominative plural masculine | the others |
-| `kāma-dhātu-jāḥ` | nominative plural masculine compound | arising or occurring in the desire-domain |
-
-The locative dual does not mean the desire-domain and all meditative states. It
+The locative dual does not mean the desire-realm and all meditative states. It
 specifically joins `kāma` with `ādya-dhyāna`, the first dhyāna.
 
 ## 4. Grammar
@@ -64,7 +64,7 @@ styāna-auddhatya-madāḥ
 The plural compound takes a plural elided copula. The Bhāṣya restates the three
 as `traidhātuka`, belonging to all three domains.
 
-**Desire-domain complement**
+**desire-realm complement**
 
 ```text
 anye
@@ -78,28 +78,22 @@ sixteen-member upakleśa field. The Bhāṣya calculates the result as eleven.
 
 ### Literal Translation
 
-> Deceit and crookedness occur in the desire-domain and the first dhyāna,
+> Deceit and crookedness occur in the desire-realm and the first dhyāna,
 > because of the deception of Brahmā. Torpor, excitation, and intoxication
-> occur in the three domains; the others arise in the desire-domain.
+> occur in the three domains; the others arise in the desire-realm.
 
 ### Bhāṣya-informed study translation
 
-> Deceit and crookedness occur in both the desire-domain and the first dhyāna.
-> Deceit is admitted in the Brahmā world because Mahābrahmā attempted to deceive
-> the venerable Aśvajit by falsely presenting himself. Torpor, excitation, and
-> intoxication belong to all three domains. Of the sixteen upakleśas, removing
-> these five wider-ranging factors leaves eleven that occur only in the
-> desire-domain. With this distribution the analysis of kleśas and upakleśas
-> is complete.
-
-The narrative evidence, threefold range, sixteen-minus-five arithmetic, and
-section closure are supplied by the Bhāṣya.
+> Deceit and crookedness occur in the desire-realm and first dhyāna, as
+> shown by Mahābrahmā's attempted deception. Torpor, excitation, and
+> intoxication occur in all three domains; the other eleven secondary
+> afflictions arise only in the desire-realm.
 
 ## 6. Philosophical Translation
 
 > Class-membership does not determine range of occurrence. Two upakleśas cross
-> from the desire-domain into the first dhyāna; three range through the entire
-> three-domain field; eleven remain restricted to the desire-domain. These
+> from the desire-realm into the first dhyāna; three range through the entire
+> three-domain field; eleven remain restricted to the desire-realm. These
 > ranges are additional determinations alongside origin, operation, ethical
 > value, and mode of abandonment. The Brahmā case also grounds possibility by
 > an attested doctrinal example: higher cosmological position does not by itself
@@ -119,7 +113,7 @@ are to be understood as belonging to which locations?
 
 **`Māyā` — deceit**
 
-Occurs in the desire-domain and first dhyāna. Its first-dhyāna occurrence is
+Occurs in the desire-realm and first dhyāna. Its first-dhyāna occurrence is
 supported by Mahābrahmā's attempted deception of Aśvajit.
 
 **`Śāṭhya` — crookedness or duplicity**
@@ -159,7 +153,7 @@ Range over `kāmadhātu`, `rūpadhātu`, and `ārūpyadhātu`. It does not mean 
 the factor has the same ethical value in each domain; VAK 5.52 determines that
 axis separately.
 
-**`Kāmāvacara` / `kāmadhātuja` — desire-domain occurrence**
+**`Kāmāvacara` / `kāmadhātuja` — desire-realm occurrence**
 
 The restricted range of the remaining eleven upakleśas.
 
@@ -167,8 +161,8 @@ The restricted range of the remaining eleven upakleśas.
 
 ```text
 16 total upakleśas
-− 5 with range beyond desire-domain
-= 11 desire-domain-only upakleśas
+− 5 with range beyond desire-realm
+= 11 desire-realm-only upakleśas
 ```
 
 The five removed are deceit, crookedness, torpor, excitation, and intoxication.

@@ -1,19 +1,19 @@
 # VAK 5.16 Bhāṣya — Why Five Afflictions Do Not Take the Uncontaminated
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > na rāgas tasya varjyatvān na dveṣo 'napakārataḥ |
-> na māno na parāmarśau śāntaśuddhyagrabhāvataḥ || 5.16 ||
+> na māno na parāmarśau śānta-śuddhy-agrabhāvataḥ || 5.16 ||
 
-> Attachment does not, because it is relinquishable; nor aversion,
-> because there is no injury. Neither conceit nor the two forms of
-> adherence do, because cessation and path are peaceful, pure,
-> and supreme.
+> Attachment does not take cessation or the Path as its support, since
+> attachment is to be relinquished; nor does aversion, since they cause no
+> injury; nor conceit or the two adherences, since they are peaceful,
+> genuinely pure, and supreme.
 
 The subject carried from 5.14–5.15 is whether these afflictions
 can take cessation or the path as an uncontaminated cognitive support.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 atha kasmād rāgapratighamānā dṛṣṭiśīlavṛataparāmarśau
@@ -44,7 +44,7 @@ opens 5.17. Word division and punctuation are editorial.
 The e-text's `śīlavṛataparāmarśau`, `nirodhamāgauṃ`, and
 `śāntaśuddhayagrabhāvataḥ` remain visible as rough forms.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Why are attachment, aversion, conceit, and the two forms of
 adherence not admitted as taking an uncontaminated support?
@@ -66,7 +66,7 @@ adherence to views consists in taking what is inferior as
 supreme. Hence it is inappropriate to assign these five
 afflictions uncontaminated cognitive supports.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 Each exclusion has a different ground. The comparison with
 `kuśaladharmacchanda` distinguishes wholesome aspiration toward
@@ -89,7 +89,7 @@ view, doubt, and ignorance may be directed toward cessation and
 path; the five types here are excluded by the character of
 their own operation in relation to those supports.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Tasya varjyatvāt` is resolved by the
 prose `varjanīyo hi rāgaḥ`: what is relinquishable is rāga
@@ -105,7 +105,7 @@ matters. This is a source-grounded constraint for our Science
 of Citta, kept distinct from any claim of an implemented type
 or rule in the Imperium Organon.
 
-## Review Status
+## 6. Review Status
 
 The complete 5.16 unit has been checked against the running
 source. The three rough e-text forms above remain marked for

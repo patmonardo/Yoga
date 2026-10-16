@@ -1,17 +1,17 @@
 # VAK 5.31 Bhāṣya — Completing and Applying the Object Matrix
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
 > nirodhamārgadṛggheyāḥ sarve svādhikagocarāḥ |
 > anāsravās tridhātvantyatrayānāsravagocarāḥ || 5.31 ||
 
-> In all three domains, dharmas abandoned by seeing cessation
-> or the path are objects of their previously established range
-> with their corresponding citta added. Undefiled dharmas are
-> objects of the final three citta classes in each domain and
-> of undefiled cognition.
+> In every domain, dharmas abandoned by seeing cessation or the path are
+> objects of their previously established range with their own corresponding
+> citta added. Undefiled dharmas are objects of the final three citta classes—
+> those abandoned by seeing cessation, seeing the path, and cultivation—in
+> each of the three domains, and of undefiled cognition.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
     nirodhamārgadṛggheyāḥ sarve svādhikagocarāḥ.
@@ -81,15 +81,15 @@ two halves are separated by prose; the additional verse
 introduced as a summary (`saṃgraha`) is kept distinct from
 the 5.31 Kārikā. Spacing and punctuation are editorial.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 “In all three domains, those to be abandoned by seeing cessation
 or the path have their own corresponding citta added to their
 object range.” Each such class is an object of the five, eight,
 or ten cittas previously given for its domain, plus the citta
-of its own abandonment class. Thus the desire-domain classes
-are objects of six cittas; the form-domain classes of nine;
-and the formless-domain classes of eleven. The five classes
+of its own abandonment class. Thus the desire-realm classes
+are objects of six cittas; the form-realm classes of nine;
+and the formless-realm classes of eleven. The five classes
 in each of the three domains have now been covered.
 
 “Undefiled dharmas are objects of the last three citta classes
@@ -103,11 +103,11 @@ With the sixteen citta classes and sixteen object classes now
 ordered, how should one apply this to anuśayas? The Bhāṣya
 gives an indication. Consider a cognition whose object is
 the pleasure faculty (`sukhendriya`). That faculty has seven
-forms: one desire-domain cultivation class, five form-domain
+forms: one desire-realm cultivation class, five form-realm
 classes, and one undefiled class. Together they can be objects
-of twelve citta classes: four desire-domain classes excluding
-the cessation-seeing class, all five form-domain classes,
-two formless-domain classes (path-seeing and cultivation),
+of twelve citta classes: four desire-realm classes excluding
+the cessation-seeing class, all five form-realm classes,
+two formless-realm classes (path-seeing and cultivation),
 and undefiled citta. For a citta in this twelvefold range,
 the applicable anuśayas must then be determined according
 to domain, abandonment class, and whether they take
@@ -116,13 +116,13 @@ conditioned things as objects.
 The Bhāṣya then asks about a cognition whose object is a
 cognition that takes the pleasure faculty as its object.
 The first such cognition has twelve types. As an object,
-it is accessible to those twelve and two further formless-domain
+it is accessible to those twelve and two further formless-realm
 citta classes abandoned by seeing suffering and origination:
 fourteen types in all. One accordingly expands the possible
-anuśaya calculation by those two formless-domain classes.
+anuśaya calculation by those two formless-realm classes.
 Other questions should be followed by the same method.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 `Svādhika` is an operation on an already established row of
 the matrix: preserve its previous range and add the citta
@@ -147,7 +147,7 @@ anuśaya adherence remain distinct. The prose says
 `yathāsaṃbhavam`, “as applicable,” before listing the
 relevant anuśayas.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Svādhika` is “with its own
 corresponding citta added,” as fixed by the prose. `Antyatraya`
@@ -166,7 +166,7 @@ object relation without collapsing it into immediate
 perception. That is a project-level reading of the Kośa's
 method, not a claim about existing software.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The entire distributed verse, summary verse,
 and worked example through the return to a new question

@@ -1,23 +1,17 @@
 # VAK 5.64 Bhāṣya — The First Six of Nine Parijñās
 
-## Kārikā Anchor
+## 1. Kārikā Anchor
 
-> parijñā nava kāmādyaprakāradvayasaṃkṣayaḥ |
-> ekā dvayoḥ kṣaye dve te tathordhvaṃ nisra eva tāḥ || 5.64 ||
+> parijñā nava kāmādya-prakāra-dvaya-saṃkṣayaḥ |
+> ekā dvayoḥ kṣaye dve te tathordhvaṃ tisra eva tāḥ || 5.64 ||
 
-> There are nine *parijñās*. In the desire domain,
-> exhaustion of the first two classes is one; exhaustion
-> of the other two yields two. Likewise in the higher
-> domains, there are three.
+> There are nine completed abandonments called *parijñās*. In the
+> desire-realm, exhausting the afflictions abandoned by seeing suffering and
+> origin counts as one; exhausting those abandoned by seeing cessation and by
+> seeing the Path counts as two more. The same threefold count applies to the
+> form and formless domains together.
 
-The running verse has `nisra` in its last member; the
-separate kārikā reads `tisra`. The English follows the
-unambiguous threefold prose explanation while the running
-form remains visible below. This verse enumerates **six**
-seeing-abandonment *parijñās* of the announced nine; 5.65
-supplies the remaining three.
-
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 kimekaiva parijñā sarvaprahāṇam /
@@ -60,17 +54,20 @@ line division and omission of the source's verse identifier
 are editorial. The terminology of two *parijñās* was
 introduced at the end of 5.63; the present count concerns
 *prahāṇa-parijñā*, completed abandonments.
+The anchor copies the separate kārikā's `tisra`; the running verse reads
+`nisra`. The prose fixes the threefold sense. This verse enumerates six
+seeing-abandonment *parijñās* of the announced nine.
 
-## Continuous Conventional Translation
+## 3. Continuous Conventional Translation
 
 Is all abandonment just one *parijñā*? No. There are nine.
-First, in the desire domain, abandoning the first pair of
+First, in the desire-realm, abandoning the first pair of
 classes—those abandoned by seeing suffering and by seeing
 origin—is one *parijñā*. When the other two are exhausted,
 there are two more: abandoning the class abandoned by seeing
 cessation is one, and abandoning the class abandoned by
 seeing the path is another. Thus three completed
-abandonments concern factors in the desire domain.
+abandonments concern factors in the desire-realm.
 
 Likewise, for factors in the form and formless domains,
 abandonments through seeing are three: abandoning the
@@ -79,7 +76,7 @@ cessation class is the second, and abandoning the path
 class is the third. Across the three domains, therefore,
 there are six *parijñās* of afflictions abandoned by seeing.
 
-## Argument and Doctrinal Determination
+## 4. Argument and Doctrinal Determination
 
 The question takes up 5.63's distinction between knowledge
 as *parijñā* and abandonment as *parijñā*. The nine counted
@@ -109,10 +106,10 @@ in 5.63, the transfer of a cause-name to its result. That
 semantic connection does not make `jñāna` and `prahāṇa`
 interchangeable operations.
 
-## Translation and Organon Study
+## 5. Translation and Organon Study
 
 **Translation decisions.** `Kāmādya-prakāradvaya` is
-resolved by the prose as the desire-domain pair of
+resolved by the prose as the desire-realm pair of
 suffering-seeing and origin-seeing abandonables. `Dvayoḥ`
 then refers to the two remaining truth-indexed classes,
 cessation and path. `Ūrdhvam` covers form and formless
@@ -128,7 +125,7 @@ and achieved abandonment. This is a project-level schema
 for the source's count, not an explanation of the grouping
 that the Bhāṣya itself does not supply here.
 
-## Review Status
+## 6. Review Status
 
 Provisional. The full sixfold enumeration and its boundary
 with 5.65 were checked against the running IAST source.
