@@ -1,106 +1,285 @@
-# VAK_6.34 Bhāṣya — Stream-Entry; Seven-at-Most; Family-to-Family
+# VAK_6.34 Bhāṣya — Stream-Entry, Seven at Most, Family-to-Family
 
 ## 1. Kārikā Anchor
 
-> akṣīṇabhāvanāheyaḥ phalasthaḥ saptakṛtparaḥ |
-> tricaturvidhamuktas tu dvitrijanmā kulaṃkulaḥ || 6.34 ||
+> akṣīṇa-bhāvanā-heyaḥ phalasthaḥ saptakṛt-paraḥ |
+> tri-catur-vidha-muktas tu dvi-tri-janmā kulaṃkulaḥ || 6.34 ||
 
-Literal (from the kārikā study):
+> A stream-enterer established in the first fruit with even one
+> cultivation-abandonable grade remaining is seven-at-most: seven bounds
+> further births without requiring them all. One who has abandoned three or
+> four grades is family-to-family, with two or three births remaining. The
+> stream is the Path toward Nirvāṇa, which ends suffering by removing the
+> obstruction to Nirvāṇa's attainment.
 
-> One established in the fruit whose factors abandonable by cultivation are not
-> exhausted is a seven-at-most. But one freed from three or four grades, having
-> two or three births, is a family-to-family practitioner.
+The verse differentiates positions within the first fruit by residual
+cultivation-work and the bounds of future birth.
 
-Kārikā study: [`VAK_6.34.md`](./VAK_6.34.md). Next: 6.35.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+evaṃ navaprakāreṣu kleśeṣu sarvatra
 
-> evaṃ navaprakāreṣu kleśeṣu sarvatra / akṣīṇabhāvanāheyaḥ phalasthaḥ saptakṛtparaḥ /
-> yasya hi phalasthasyaiko 'pi bhāvanāheyaḥ prakāro 'prahīṇaḥ sa srota-āpannaḥ /
-> … saptakṛtvaḥparama iti sūtrapāṭhaḥ /
-> nirvāṇasroto hi mārgas tena tatra gamanāt / … srota-āpannaḥ /
-> … aṣṭamako 'pi syāt / … bhūyo vītarāgo 'pi syāt /
-> … sakalasroto 'bhisamayāc ca mārgānvayajñāne /
-> … asthānam anavakāśo yad dṛṣṭisampannaḥ pudgalo 'ṣṭamaṃ bhavam abhinirvartayiṣyati /
-> … kāśyapīyāḥ paṭhanti /
-> duḥkhasyāntaṃ karotīti ko duḥkhasyāntaḥ / … athavā nirvāṇam antaḥ /
-> kathaṃ nirvāṇaṃ karoti / tatprāptivibandhāpanayanāt /
-> tricaturvidhamuktas tu … kulaṃkulaḥ / … tribhiḥ / kleśaprahāṇataḥ / indriyataḥ / janmataḥ /
-> kasmān na pañcaprakāraprahāṇāt / tatprahāṇe ṣaṣṭhasyāvaśyaṃ prahāṇāt /
+     akṣīṇabhāvanāheyaḥ phalasthaḥ saptakṛtparaḥ /
 
-**Witness.** Pradhan 355|22–357|20. Voices: Vasubandhu; Vaibhāṣika; Kāśyapīya reading. 6.35 at 357|20.
+yasya hi phalasthasyaiko 'pi bhāvanāheyaḥ prakāro 'prahīṇaḥ sa srota āpanaḥ /
+
+saptajanmāni karotīti saptakṛta /
+
+paraḥ sarvāntyaḥ /
+
+na hi sarvasaptakṛditi /
+
+saptakṛtvaḥparama iti sūtrapāṭhaḥ /
+saptakṛtvaḥ paramaṃ janmā 'syetyarthaḥ /
+
+prakarṣe paramaśabdaḥ /
+nirvāṇasroto hi mārgastena tatra gamanāt /
+
+tadasāvāpanna āgataḥ prāpta iti srota āpannaḥ /
+
+kathamāpannaḥ /
+
+ādyamārgalābhāccet aṣṭamako 'pi syāt /
+
+ādyaphalalābhāccet bhūyo vītarāgo 'pi syāt /
+kāmavītarāgaḥ /
+
+sarvaphalaprāpiṇamadhikṛtyādyaphalalābhāt /
+kiṃ punaḥ kāraṇaṃ sa eva nāṣṭamakaḥ /
+
+pratipannakaphalamārgalābhāt darśanabhāvanāmārgalābhāt sakalasroto 'bhisamayācca mārgānvayajñāne /
+
+sa eva tasmādanyānsaptopapattibhavānmanuṣyeṣu pratisaṃdadhāti saptāntarābhavān /
+
+evaṃ deveṣvityaṣṭāviṃśatiyavān pratisaṃdadhāti /
+
+saptakasāmānyāttu saptakṛtvaḥ /
+
+parama uktaḥ /
+saptasthānakauśalasaptaparṇavaditi vaibhāṣikāḥ /
+
+yattarhhi sūtra uktaṃ "asthānamanavakāśo yaddaṣṭisaṃpannaḥ pudgalo 'ṣṭamaṃ bhavamabhinirvartayiṣyati /
+
+nedaṃ sthānaṃ vidyata" iti /
+ekasyāṃ gatāvityabhiprāyaḥ /
+
+yathārutaṃ vā kalpyamāne 'ntarābhavo 'pi na syāt evamapyūredhvasrotaso bhavāgraparamasyaikasyāṃ gatāvaṣṭama upapattibhāvo na prāpnoti /
+
+kāmadhātvabhi saṃdhivacanādadoṣaḥ /
+
+kimatra jñāpakaṃ sūtraṃ yuktirvā /
+
+iha caiva kiṃ jñāpakaṃ pratyekaṃ devamanuṣyeṣu saptakṛtvo na pounarubhayeṣveva saptakṛtva iti /
+
+evaṃ hi paṭhacyate /
+
+"saptakṛtvo devāśca manuṣyāśce"ti /
+pratyekamapi tu kāśyapīyāḥ paṭhanti /
+
+"saptakṛtvo devān saptakṛtvo manuṣyāni"ti /
+nātrābhiniveṣṭavyam /
+
+yaśca manuṣyesu srota āpanno bhavati sa tānevāgamya parinirvāti /
+
+yo deveṣu sa tāneva /
+
+kiṃ punaḥ kāraṇamaṣṭamaṃ bhavaṃ nābhinirvartayati /
+
+tāvatā kakalenāvaśyaṃ saṃtatiparipākāt /
+
+mārgo hi sa tajjātīyaḥ /
+saptapadāśīviṣa daṣṭavaccāturthakajvaravacca /
+
+saptasaṃyojanāvaśeṣatvācca /
+dve avarabhāgīye pañca cordhvabhāgīyānīti /
+
+antareṇāpyāryamārgaṃ saṃmukhīkurvāṇo na parinirvāti /
+
+tāvat bhavavedanīyasya karmaṇo valādhānāt /
+
+asati buddhotpādagrahastha evārhattvaṃ prāpnoti /
+
+agāraṃ tu pounarnādhyāvasati /
+
+dharmatāpratilambhikaṃ tu bhikṣuliṅga pratilabhate /
+
+anyāśramikaṃ liṅgenetyapare /
+
+kasmādavinipātakadharmā bhavati /
+
+tadgāmi karmānupacayādupacitavipākadānavaiguṇyācca saṃtaterbalavatkuśalā dhivāsanātprayogāśayaśuddhitaḥ /
+
+apāyanipāte tu karmaṇyasau kṣāntimapi notpādayet /
+āha cātra
+
+     "kṛtvā budho 'lpamapi pāpamadhaḥ prayāti
+     kṛtvā budho mahadapi prajahātyanartham
+     majjanyadho 'lpamapi vāriṇi saṃhataṃ hi
+     pātrikṛtaṃ mahadapi plavate tadeva" iti /
+
+duḥkhasyāntaṃ karotīti ko duḥkhasyāntaḥ /
+
+yasmāt pareṇa duḥkhaṃ nāsti /
+
+apratisaṃdhikaṃ duḥkhaṃ karotītyarthaḥ /
+athavā nirvāṇamantaḥ /
+kathaṃ nirvāṇaṃ karoti /
+
+tatprāptivivandhāpanayanāt /
+yathākāśaṃ kuru maṇḍapaṃ pātayeti bhavanti vaktāraḥ /
+
+anyo 'pi ca syātsaptakṛtvaḥ paramo na tu niyata iti nocyate /
+
+evaṃ tāvadakṣīṇabhāvanāheyaḥ phalasthaḥ saptakṛtvaḥ paramo bhavati /
+
+     tricaturvidhamuktastu dvitrijanmā kulaṅkulaḥ // VAkK_6.34 //
+
+sa eva srota āpannastribhiḥ /
+
+kleśaprahāṇatastricatuḥporakāraprahīṇatvāt /
+
+indriyatastatpratipakṣānāsravendriyalābhāt /
+
+janmato dvitrijanmāvaśeṣatvāt /
+
+śloke tu dvayorgrahaṇaṃ srota āpannasya paścātprahīṇe sati tatpratipakṣānāsravendriyasyānuktasiddhatvāt /
+
+janma tu kadācidalpīyaḥ syāt /[35715]
+pareṇa bhavyatvād /
+
+ato 'sya grahaṇam /
+
+kasmānna pañcaprakāraprahāṇāt /
+
+tatprahāṇe ṣaṣṭhasyāvaśyaṃ prahāṇāt nahi tasyaikaḥ prakāraḥ phalaṃ vighnayituṃ samarthaḥ /
+
+ekavīcikasyeva dhātvanatikramāt /
+
+sa eva kulaṅkulo dvividhaḥ /
+
+devakulaṅkulo yo deveṣa dve trīṇi vā kulāni saṃśritya parinirvāti tatra vā 'nyatra vā devanikāye /
+
+manuṣyakulaṅkulo yo manuṣyeṣu tatra vā 'nyatra va dvīpe parinirvāti /
+```
+
+This is the complete running unit from [355|22] through [357|19-357|20]
+in `Vasubandhu/Sources/kosabhasya.txt`; [357|20] begins the next unit.
+Source labels are removed and line breaks editorial; the source has an
+anomalous `[257|05]` label within this unit. Readings including
+`srota āpanaḥ`, `pounarubhayeṣv`, `tatprāptivivandha`, and `kulaṅkulaḥ`
+remain uncorrected in the witness.
+The study verse prints `kulaṃkulaḥ`.
 
 ## 3. Continuous Conventional Translation
 
-> With nine grades everywhere: one standing in the fruit who has not exhausted what
-> cultivation abandons is seven-at-most. Even one remaining cultivation-grade: still
-> a stream-enterer. “Seven times” = births. “At most” = the cap. The sūtra reads
-> seven-times-at-most, not seven in every case.
->
-> The Path is the stream toward Nirvāṇa; one who has entered, come, attained it is
-> a stream-enterer. If first Path-moment alone made the name, the eighth person would
-> already be one. If first fruit alone, the already-detached would be one without
-> further mark. He locates the name in fruit-Path, Seeing and Cultivation Paths, and
-> complete realization of the stream at Path-Anvaya-Knowledge.
->
-> How seven is counted: humans, gods, intermediates — argued, not just listed.
-> Vaibhāṣikas: common sevenfold. Sūtra: one endowed with view does not produce an
-> eighth existence. Reply: in one destination; or the statement is desire-domain.
-> Kāśyapīyas read seven among gods and seven among humans. Do not cling to one
-> wording. A human stream-enterer finishes among humans; a divine one among gods.
->
-> Why no eighth? By then the series must ripen. The Path is of that kind — venom,
-> quartan fever. Seven fetters left: two lower, five upper. Parinirvāṇa does not
-> happen without bringing the Noble Path to presence. Even without a Buddha appearing,
-> arhatship as householder is possible; household is not taken up again; monastic mark
-> comes by dharmatā (others: another ascetic mark).
->
-> Why no fall to a bad destiny? That karma is not built up; the series will not give
-> the old ripening; wholesome imprint, application, and intention are strong. If
-> bad-destiny karma were about to ripen, even Acceptance would not arise. Cited verse:
-> uncontained water sinks with a little; the same mass in a vessel floats.
->
-> “Makes an end of suffering” — what end? That beyond which there is no rebirth-linked
-> suffering. Or the end is Nirvāṇa. How does one *make* Nirvāṇa? By taking away the
-> obstacle to attaining it — as one says “make space” by dropping the pavilion. Seven
-> is a maximum, not a sentence.
->
-> Freed from three or four grades, two or three births, family-to-family: same
-> stream-enterer, three determinations — abandonment, opposing uncontaminated faculty,
-> remaining births. Verse names the first and third; faculty follows the abandonment.
-> Births may be fewer; the text takes the bound. Why not five grades? If the fifth
-> goes, the sixth must go: one remaining grade cannot block the next fruit. Two kinds:
-> divine families, human families.
+With nine affliction grades everywhere, the person established in a fruit
+who has not exhausted what cultivation must abandon is seven-at-most.
+Even if just one cultivation-abandonable grade remains, that person is a
+stream-enterer. The name speaks of seven births at most, not necessarily
+seven. The scriptural wording is “seven times at most”: *parama* gives
+an upper limit.
+
+The Path is the stream toward Nirvāṇa, and the person who has reached it
+is a stream-enterer. If initial acquisition of the Path alone sufficed,
+the “eighth person” would have this name too. If acquisition of the first
+fruit alone sufficed without qualification, the person already detached
+from the desire-realm would also be so named. The reply considers the
+first fruit common to fruit-attainers and the acquisition of the Path
+proper to its candidate, both Seeing and Cultivation Paths, and complete
+realization of the stream at Anvaya-Knowing concerning the Path.
+
+The Vaibhāṣikas count seven human births, seven intermediate existences
+between them, and corresponding divine births and intermediate
+existences, while retaining the general designation “seven at most.”
+The scriptural statement that a person endowed with Seeing cannot
+produce an eighth existence prompts a restriction to one destination.
+A literal application to every destination would also exclude
+intermediate existence and conflict with a case of an upward-streaming
+practitioner; the reply limits the statement's intent to the desire-realm.
+What proves the proposed distribution? One recitation speaks of seven
+times among gods and humans together; the Kāśyapīya recitation speaks
+of seven times among gods and seven among humans. The commentary says
+not to insist on one reading. One who enters the stream among humans
+reaches final Nirvāṇa among humans; one who does so among gods, among gods.
+
+Why is no eighth existence produced? By that time the continuum must
+ripen. The Path has this character, compared to the course after a
+seven-step serpent bite or a quartan fever. Seven fetters remain: two
+lower and five higher. Final Nirvāṇa is not reached without bringing
+the Noble Path into presence; until then, action capable of bearing
+another life still has force. Even without the appearance of a Buddha,
+the practitioner may attain arhatship while a householder, yet does
+not resume domestic life. The monastic sign is acquired by the order
+of Dharma; others say the sign of another kind of renunciant.
+
+Why can this person no longer fall into a bad destination? Action that
+would lead there is not newly accumulated, and the continuum is no
+longer apt to yield the fruit of such action already accumulated.
+Strong wholesome habituation, application, and purity of intention
+support this. Were bad-destination action about to ripen, even
+Acceptance would not arise. The cited verse contrasts a small amount
+of water that sinks when uncontained with a larger amount that floats
+when held in a vessel: the condition of support changes its effect.
+
+What is the “end of suffering” that the stream-enterer makes? It may
+mean a limit beyond which no suffering connected with rebirth occurs.
+Or the end is Nirvāṇa. Nirvāṇa itself is not produced: one “makes” it
+by removing the obstruction to attaining it, as one can “make space”
+by taking down a pavilion. Another person may also finish sooner than
+seven births; the seven are not prescribed in every case. This completes
+the account of a first-fruit practitioner whose cultivation-abandonable
+afflictions are not exhausted.
+
+The same stream-enterer, freed from three or four grades, with two or
+three births left, is called family-to-family. The designation is
+established on three grounds: abandonment of three or four affliction
+grades, acquisition of the uncontaminated faculty opposing those grades,
+and the number of remaining births. The verse states abandonment and
+birth; acquisition of the opposing faculty follows from the former.
+Births can be fewer; the verse gives the upper range. Why is one who
+has abandoned five grades not separately classified here? With the
+fifth, the sixth must necessarily be abandoned: a single remaining
+grade cannot obstruct the next fruit, as in the case of one with one
+interval remaining before crossing the realm. Family-to-family is
+of two types: among divine families, one reaches final Nirvāṇa after
+two or three families in that or another divine class; among human
+families, in that or another continent.
 
 ## 4. Movement of the Commentary
 
-```text
-fruit + residue = seven-at-most (cap, not itinerary)
-stream = Path toward Nirvāṇa; name after complete stream-realization
-count is disputed (Vaibhāṣika / Kāśyapīya); do not freeze the wording
-Nirvāṇa is not produced; the block to attainment is removed
-3–4 grades + faculty + 2–3 births = kulaṃkula
-5 forces 6; threshold, not a smooth count
-```
+The commentary first determines the seven-birth maximum and tests the
+name “stream-enterer.” It then compares counts and scriptural recensions,
+explains the irreversible limit and protection from bad rebirth, and
+clarifies the non-production of Nirvāṇa. Finally it establishes
+family-to-family by abandonment, antidotal faculty, and remaining births,
+then explains why five abandoned grades do not form a separate position.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Stream = { fruit: "srotaapatti"; residue: "bhavana_heya" };
-type Bound = { maxBirths: 7; required: false };
-// Nirvāṇa: remove vibandha, do not mint an unconditioned object
-// not a mood; not an eighth existence as furniture
-```
+**Translation decisions.** `Akṣīṇa` includes even one unabandoned grade;
+`para` is a maximum. `Srotas` is the Path toward Nirvāṇa. The debate over
+seven counts is attributed rather than harmonized. `Tatprāptivivandhāpanayana`
+is rendered as removal of obstruction to attainment; the witness's
+`vivandha` is retained in Sanskrit. The witness's `kulaṅkulaḥ` is
+represented by the study's established designation “family-to-family.”
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** The attained fruit, residual grades,
+acquired antidotal faculty, and birth bound are separate coordinates
+of a Path position. The removal of an obstruction changes what can be
+attained; it does not manufacture Nirvāṇa. This is project synthesis.
 
-- `akṣīṇa` = even one grade left;
-- `para` = maximum;
-- kulaṃkula = three axes, not a nickname;
-- fifth/sixth is a necessary jump.
+## 6. First-Fruit Positions and Their Bounds
+
+| Position | Residual or removed grades | Birth bound | Bhāṣya qualification |
+|---|---|---|---|
+| Seven-at-most | At least one cultivation-abandonable grade remains | Seven at most | Maximum, with contested counting across destinations |
+| Family-to-family | Three or four grades abandoned | Two or three at most | Also defined by acquired opposing faculty; divine and human cases |
+| Five-grade case | Fifth abandoned | No separate family-to-family position | Sixth must be abandoned; transition toward the next fruit |
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 355|22–357|20.
-Verse-English from [`VAK_6.34.md`](./VAK_6.34.md) §5 Literal. Major talk; later QA on count and damaged forms.
+The complete running source unit [355|22]–[357|19-357|20] is present.
+The source's anomalous label and uneven readings await collation.
+The kārikā anchor copies the study's Bhāṣya-informed translation exactly.
 Next: 6.35.

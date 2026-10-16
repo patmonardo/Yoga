@@ -1,89 +1,177 @@
-# VAK_6.28 Bhāṣya — Uninterrupted Path; Liberation Path; Fifteen Moments
+# VAK_6.28 Bhāṣya — Uninterrupted and Liberation Paths; Fifteen Moments
 
 ## 1. Kārikā Anchor
 
 > kṣāntijñānāny ānantaryamuktimārgā yathākramam |
 > adṛṣṭadṛṣṭer dṛṅmārgas tatra pañcadaśa kṣaṇāḥ || 6.28 ||
 
-Literal (from the kārikā study):
+> Each Acceptance is an uninterrupted path that severs possession of the
+> corresponding affliction; each ensuing Knowing is a liberation path
+> arising with acquisition of disconnection. This is the Path of Seeing
+> insofar as it sees a Truth not previously seen. Its first fifteen moments
+> run from Dharma-Knowing-Acceptance concerning suffering through
+> Anvaya-Knowing-Acceptance concerning Path. The sixteenth moment,
+> Anvaya-Knowing concerning Path, belongs to the Path of Cultivation:
+> it develops what has already been seen.
 
-> The Acceptances and Knowledges are respectively uninterrupted paths and
-> liberation paths. Because it sees what had not been seen, it is the Path of
-> Seeing; therein are fifteen moments.
+The commentary assigns the two path-functions and distinguishes the
+sixteen-moment realization from the fifteen-moment Path of Seeing.
 
-Kārikā study: [`VAK_6.28.md`](./VAK_6.28.md). Next: 6.29, persons on the Path.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+kasmāt punaḥ kṣāntayo jñānāni cavaśyaṃ bhavanti /
+yasmāt
 
-> kasmāt punaḥ kṣāntayo jñānāni cāvaśyaṃ bhavanti / yasmāt
-> kṣāntijñānāny ānantarya-muktimārgā yathākramam /
-> ānantaryamārgāḥ kṣāntayaḥ kleśaprāptivicchedaṃ praty antarayitum aśakyatvāt /
-> vimuktimārgās tu jñānāni / kleśaprāptivimuktānāṃ visaṃyogaprāptisahotpādāt /
-> ata ubhayair avaśyaṃ bhavitavyam / dvābhyāṃ cauraniṣkāsana-kapāṭapidhānavat /
-> … kṣāntīnāṃ jñānaparivāratvāt /
-> adṛṣṭadṛṣṭer dṛṅmārgas tatra pañcadaśa kṣaṇāḥ // 6.28 //
-> … yāvat mārge 'nvayajñānakṣāntir ete pañcadaśa … darśanamārgaḥ /
-> ṣoḍaśe tu … yathādṛṣṭābhyasanād bhāvanāmārga eva /
+     kṣāntijñānānyanantarya muktimārgā yathākramam /
 
-**Witness.** Pradhan 352|12–353|11. Voice: Vasubandhu with objections. 6.29 at 353|12.
+anantaryamārgāḥ kṣāntayaḥ kleśaprāptivicchedaṃ pratyantarayitumaśakyatvāt /
+
+vimuktimārgāstu jñānāni /
+
+kleśaprāptivimuktānāṃ visaṃyogaprāptisahotpādāt /
+
+ata ubhayairavaśyaṃ bhavitavyam /
+
+dvābhyāṃ cauraniṣkāsanakapāṭapidhānavat /
+
+yadi punardvitīyenānantaryamārgeṇaiva saha visaṃyogaprāptirutpadyeta kiṃ syāt /
+
+prahīṇavicikitsaṃ jñānaṃ tatraivālambane notpannaṃ syāt /
+
+kṣāntibhiḥ kleśaprahāṇānnava saṃyojananikāyā jñānavadhyā iti śāstravirodha iti cet /
+
+na /
+
+kṣāntīnāṃ jñānaparivāratvāt /
+rājaparivārakṛtasya rājakṛtavyapadeśavat /
+
+kiṃ punaḥ sarvāṇi ṣoḍaśacittāni satyadarśanāddarśanamārgaḥ /
+netyāha /
+kiṃ tarhi /
+
+     adṛṣṭadṛṣṭerdṛṇṭṅmārgastatra pañcadaśa kṣaṇāḥ // VAkK_6.28 //
+
+duḥkhadharmajñānakṣāntimārabhya yāvat mārge 'nvayajñāna kṣāntirete pañcadaśa kṣāṇā darśanamārgaḥ /
+
+ki kāraṇam /
+adṛṣṭasatyadarśanāt /
+
+ṣoḍaśe tu nāstyapoūrvaṃ dravyamiti /
+
+yathādraṣṭābhyasanādbhāvanāmārga eva /
+
+nanu ca tenāṣyadṛṣṭaṃ paśyati mārge 'nvayajñānakṣāntim /
+
+satyaṃ prati cintā na kṣaṇam /
+
+na hi kṣaṇenādṛṣṭena satyamadṛṣṭaṃ bhavati /
+
+yathā naikena luṅgenālūnena dedāramalūnaṃ bhavati /
+
+phalatvādaṣṭajñānaṣoḍaśākārabhāvanāt pūrvamārgavihāneḥ pravandhikatvācca mārgānvayajñānaṃ bhāvanāmārgaḥ /
+
+aparihāṇistudarśanaheyakleśaprahāṇasaṃdhāraṇāt /
+
+ata eva darśanamārga iti cet /
+na /
+atiprasaṅgāt /
+
+sapta jñānāni kasmāddarśanamārgaḥ /
+
+darśanasyāsamāptatvāt /
+
+na hi sarvaṃ satyadarśanaṃ samāptamiti tadantarālatvāttanyappi darśanamārgaḥ /
+
+uktaṃ yathā darśanamārgo bhāvanāmārga ścotpadyate /
+```
+
+This is the complete running unit at [352|12–353|11] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line
+breaks are editorial. The source transmits `dṛṇṭṅmārga` in the second
+kārikā line; the study uses the separate kārikā reading `dṛṅmārga`.
+Other uneven forms, including `kṣāṇā`, `apoūrvaṃ`, `dedāram`, and
+`pravandhikatvācca`, remain unregularized for collation. The next unit
+begins at [353|12].
 
 ## 3. Continuous Conventional Translation
 
-> Why must there be Acceptances and Knowledges? Because they are, in that order,
-> uninterrupted paths and liberation paths. Acceptances: the cutting of afflictive
-> possession cannot be blocked. Knowledges: with those freed from that possession,
-> acquisition of disconnection arises together. So both are required — like throwing
-> a thief out and shutting the door. If disconnection arose only with the next
-> uninterrupted path, knowledge free of the abandoned doubt would not arise on that
-> same object.
->
-> If Acceptances abandon afflictions, does that fight the treatise “nine groups of
-> fetters are destroyed by Knowledge”? No. Acceptances are Knowledge’s retinue;
-> what the king’s retinue does may be called the king’s act.
->
-> Are all sixteen cittas the Path of Seeing, since they see Truths? No. Seeing what
-> had not been seen: fifteen moments. From Dharma-Knowledge-Acceptance of suffering
-> through Anvaya-Knowledge-Acceptance of Path: those fifteen are Seeing, because they
-> see a Truth not previously seen. In the sixteenth there is no new truth-object; it
-> is Cultivation, practice of what has been seen.
->
-> Does the sixteenth see the preceding Acceptance, which was unseen? The criterion
-> is the Truth, not the moment. One unseen moment does not make the Truth unseen —
-> as one uncut strip does not make the field unharvested. Path-Anvaya-Knowledge is
-> Cultivation as fruit, as cultivating eight Knowledges and sixteen modes, and by
-> continuity with the prior Path. It holds the abandonment already done by Seeing.
-> Does that make it Seeing? No — the stretch would run too far. Why then are the
-> first seven Knowledges Seeing? Because Seeing is not yet finished. They fall in
-> the interval of an incomplete first seeing of all the Truths.
+Why must there be both Acceptances and Knowings? Because, in that order,
+they are uninterrupted paths and liberation paths. Acceptances are
+uninterrupted paths because the severance of afflictive acquisition cannot
+be blocked. Knowings are liberation paths because acquisition of
+disconnection arises together with those freed from afflictive
+acquisition. Both are therefore necessary, like expelling a thief and
+closing the door.
+
+If acquisition of disconnection arose only with the next uninterrupted
+path, a Knowing free of the abandoned doubt would not arise concerning
+the same cognitive Condition. Someone objects that a treatise calls nine
+groups of fetters “destroyed by Knowing,” although Acceptance abandons
+afflictions. The reply is that Acceptances belong to Knowing's retinue;
+what the king's retinue does can be called the king's act.
+
+Are all sixteen moments of consciousness the Path of Seeing because they
+see Truths? No. The Path of Seeing sees what was previously unseen; it
+comprises fifteen moments, from Dharma-Knowing-Acceptance concerning
+suffering through Anvaya-Knowing-Acceptance concerning Path. These moments
+see a Truth not previously seen. In the sixteenth, no previously unseen
+Truth remains; this is the Path of Cultivation because it develops what
+has already been seen.
+
+An objection says the sixteenth moment sees the preceding
+Anvaya-Knowing-Acceptance concerning Path, which itself had not been seen.
+The reply fixes the criterion on the Truth rather than on an individual
+moment. A moment that has not been seen does not make the Truth unseen,
+just as one unharvested strip does not make an entire field unharvested.
+Anvaya-Knowing concerning Path is Cultivation because it is a result,
+because it cultivates eight Knowings and sixteen aspects, and because it
+continues the earlier Path. It also maintains the abandonment of
+seeing-abandonable afflictions. If that maintenance made it Seeing, the
+classification would extend too far. The preceding seven Knowing moments
+still belong to Seeing because the overall first-seeing of the Truths is
+not yet complete; they occur within that unfinished sequence.
+
+The commentary closes by saying that the arising of the Paths of Seeing
+and Cultivation has been stated and turns next to the classification of
+persons who have entered the Noble Path.
 
 ## 4. Movement of the Commentary
 
-```text
-kṣānti = ānantaryamārga → cuts kleśaprāpti
-jñāna  = muktimārga      → visaṃyogaprāpti with it
-moments 1–15 = darśanamārga (unseen Truth)
-moment 16    = bhāvanāmārga (already seen)
-Truth ≠ novelty of a kṣaṇa
-```
+The Bhāṣya pairs Acceptance with uninterrupted severance and Knowing with
+liberation and acquisition of disconnection. It answers an attribution
+objection, then asks why a sixteen-moment realization has only fifteen
+Seeing moments. The answer distinguishes novelty of a Truth from novelty
+of an individual moment and assigns the final Knowing to Cultivation.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Pair = { ksanti: "cut_hold"; jnana: "shut_door" };
-type Seeing = { moments: 15; criterion: "unseen_satya" };
-// Darśana = Seeing = Intuition of the Truth-object
-// not "Indian philosophy"
-// jnana here is still Path-function, not Ch.7 Idea-lecture
-```
+**Translation decisions.** `Yathākramam` distributes the two path
+functions in order. `Kleśaprāpti` is afflictive acquisition;
+`visaṃyogaprāpti` is acquisition of disconnection. `Adṛṣṭadṛṣṭi` refers
+to seeing a previously unseen Truth, not simply a new moment. The damaged
+source form `dṛṇṭṅmārga` is preserved in the witness while the kārikā
+anchor follows the study's separate reading. The source's objections are
+kept distinct from the replies.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** A reflective Model can type each moment's
+path function, afflictive acquisition, disconnection, Truth condition,
+and place in the whole sequence. The completion condition for first seeing
+then explains the transition to Cultivation. This is project synthesis.
 
-- `yathākramam` distributes 1:1;
-- Seeing ends at fifteenth (Path-Anvaya-Acceptance);
-- seventh jñāna still Seeing because the *total* first-seeing is unfinished.
+## 6. Paired Function and Path Boundary
+
+| Moment | Function | Path classification |
+|---|---|---|
+| Acceptances 1–8 | Uninterrupted severance | Moments 1, 3, 5, 7, 9, 11, 13, and 15 of Seeing |
+| Knowings 1–7 | Liberation and acquisition of disconnection | Still within Seeing while first-seeing remains unfinished |
+| Knowing 8 | Liberation and acquisition of disconnection | Begins Cultivation after all Truths have been first seen |
+
+The fifteen Seeing moments run through Acceptance 8, the fifteenth
+moment of the ordered series. Knowing 8 is the sixteenth moment.
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 352|12–353|11.
-Verse-English from [`VAK_6.28.md`](./VAK_6.28.md) §5 Literal. Provisional.
-Next: 6.29.
+The complete source unit [352|12–353|11] is present, including its
+objections and analogies. Damaged readings are marked for collation. The
+kārikā anchor exactly matches the study's Bhāṣya-informed translation.

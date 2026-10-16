@@ -1,21 +1,24 @@
-# VAK 6.37 — Five Modes of Non-Return and the Upward Stream
+# VAK_6.37 — Five Modes of Non-Return and the Upward Stream
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 सोऽन्तरोत्पन्नसंस्कारासंस्कारपरिनिर्वृतिः ।
 ऊर्ध्वस्रोताश्च स ध्याने व्यवकीर्णोऽकनिष्ठगः ॥ ६.३७ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 so 'ntarotpanna-saṃskārāsaṃskāra-parinirvṛtiḥ |
 ūrdhvasrotāś ca sa dhyāne vyavakīrṇo 'kaniṣṭhagaḥ || 6.37 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The non-returner has five modes of completing the Path. The verse then
+specifies one upward-stream case: intermingled dhyāna leads to
+Akaniṣṭha.
 
-**Padaccheda**
-
-saḥ | antara-utpanna-saṃskāra-asaṃskāra-parinirvṛtiḥ |
-ūrdhva-srotāḥ | ca | saḥ | dhyāne | vyavakīrṇaḥ | akaniṣṭha-gaḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -30,7 +33,14 @@ saḥ | antara-utpanna-saṃskāra-asaṃskāra-parinirvṛtiḥ |
 | **vyavakīrṇaḥ** | masculine nominative singular | intermingled or mixed |
 | **akaniṣṭha-gaḥ** | masculine nominative singular compound | one who goes to Akaniṣṭha |
 
-The first line compresses four technical person-designations. **ūrdhvasrotas** supplies the fifth; the remainder begins its subdivision by meditative cause and destination.
+```text
+saḥ | antara-utpanna-saṃskāra-asaṃskāra-parinirvṛtiḥ |
+ūrdhva-srotāḥ | ca | saḥ | dhyāne | vyavakīrṇaḥ | akaniṣṭha-gaḥ
+```
+
+The long first compound compresses four alternative designations;
+`ūrdhvasrotas` adds a fifth. The second half specifies a cause and
+destination within that fifth type.
 
 ## 4. Grammar
 
@@ -40,15 +50,43 @@ The initial **saḥ** carries forward the **anāgāmin** of VAK 6.36. The long c
 
 The literal syntax says that the upward-streamer is mixed “in dhyāna.” The Bhāṣya supplies the causal construe: one whose dhyāna is intermingled goes to Akaniṣṭha and reaches final nirvāṇa there.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PERSON[FRUIT=non-return, COMPLETION=intermediate|after-arising|
+       with-effort|without-effort|upward-stream]
+UPWARD-STREAMER[DHYĀNA=intermingled]
+  → DESTINATION[Akaniṣṭha]
+```
+
+The fivefold expansion and the causal reading of intermingled dhyāna
+come from the commentary.
+
 ## 5. Translation
 
 ### Literal Translation
 
-That one attains final nirvāṇa in the intermediate state, after arising, with exertion, or without exertion; and [that one may be] an upward-streamer. When intermingled with respect to dhyāna, that one goes to Akaniṣṭha.
+> That one attains final nirvāṇa in the intermediate state, after
+> arising, with exertion, or without exertion; or is an upward-streamer.
+> With dhyāna intermingled, that one goes to Akaniṣṭha.
 
 ### Bhāṣya-informed study translation
 
-The non-returner is fivefold: one who attains final nirvāṇa in the intermediate existence, shortly after rebirth, with renewed exertion, without renewed exertion, or by an upward-moving course through higher existences. The upward-streamer whose dhyāna is intermingled proceeds to Akaniṣṭha and reaches final nirvāṇa there.
+> The non-returner completes the course in one of five ways: in an
+> intermediate existence, soon after rebirth, through renewed effort,
+> without renewed effort, or by an upward-moving stream through higher
+> existences. The upward-streamer whose dhyāna is intermingled goes to
+> Akaniṣṭha and reaches final Nirvāṇa there; the commentary distinguishes
+> this course by its meditative cause and its furthest destination.
+
+### Translation note
+
+The Bhāṣya unfolds four compressed designations and adds the
+upward-streamer as a fifth. It reads the effort distinction in terms
+of Path application, rejects an alternative based on conditioned and
+unconditioned cognitive Conditions, and specifies the intermingled
+dhyāna case by Akaniṣṭha as its endpoint. The contrasting upward-stream
+case belongs to the following verse.
 
 ## 6. Philosophical Translation
 
@@ -58,7 +96,7 @@ The Path-person is thus the determinate form of a remaining trajectory. What has
 
 ## 7. Technical Vocabulary
 
-**The five non-returners**
+**`Anāgāmin` — five modes of non-return**
 
 The Bhāṣya unfolds the kārikā into five principal types:
 
@@ -73,17 +111,17 @@ anāgāmin
 
 They are not five fruits. They are five modes in which the continuum already established in the third fruit proceeds to final nirvāṇa.
 
-**antarāparinirvāyin**
+**`Antarāparinirvāyin` — completion in an intermediate existence**
 
 This non-returner reaches final nirvāṇa during the intermediate existence, before a new rebirth is established. The classification is determined by the temporal locus at which the remaining course terminates.
 
-**upapadyaparinirvāyin**
+**`Upapadyaparinirvāyin` — completion after arising**
 
 This type reaches final nirvāṇa shortly after rebirth. The Bhāṣya associates the rapid completion with a strongly developed carrying Path (*vāhi-mārga*) and weaker residual tendencies.
 
 An alternative view concerning whether this completion is nirvāṇa with or without remainder is reported; the latter account is rejected here because the practitioner lacks mastery over relinquishing lifespan. The disagreement should remain attributed rather than silently harmonized.
 
-**sābhisaṃskāra and anabhisaṃskāra**
+**`Sābhisaṃskāra / anabhisaṃskāra` — with or without renewed effort**
 
 The effortful type reaches completion through continued deliberate exertion; its *prayoga* has not relaxed. The effortless type reaches completion without such renewed exertion:
 
@@ -97,7 +135,7 @@ anabhisaṃskāra
 
 The Bhāṣya rejects the alternative explanation that merely contrasts Paths taking conditioned and unconditioned objects, because that interpretation would overextend the classification. The operative distinction is attainment through effort or without effort.
 
-**Path-current and residual anuśaya**
+**`Vāhimārga / anuśaya` — carrying Path and residual affliction**
 
 Time to completion is jointly determined by both sides of the process:
 
@@ -109,7 +147,7 @@ greater carrying strength of Path
 
 Thus an attained fruit underdetermines the manner of completion; the continuing relation between Path-power and residue remains decisive.
 
-**ūrdhvasrotas**
+**`Ūrdhvasrotas` — upward-streamer**
 
 The **upward-streamer** does not reach final nirvāṇa in the first place of higher rebirth. The course proceeds upward through successive loci. The Bhāṣya treats *srotas*, stream, and *gati*, course or movement, as equivalent in this context.
 
@@ -125,13 +163,13 @@ result:
 
 This verse states the intermingled-dhyāna and Akaniṣṭha member; the contrasting case follows in VAK 6.38.
 
-**vyavakīrṇa-dhyāna**
+**`Vyavakīrṇa-dhyāna` — intermingled dhyāna**
 
 At this point the Bhāṣya establishes only its local Path-function: the technical history or configuration of dhyāna causally determines the upward trajectory and maximal destination. **Vyavakīrṇa** should not be reduced to ordinary psychological distraction or mixture.
 
 Nor should this technical Kośa classification be identified with the project's dhyāna on OM-Artha. That practice concerns the semantic relation enacted through OM; this passage concerns a specific Abhidharma meditative condition governing post-desire-realm rebirth.
 
-**Akaniṣṭha**
+**`Akaniṣṭha` — endpoint of this upward course**
 
 Akaniṣṭha is the maximal destination of the intermingled-dhyāna upward-streamer in this classification. The verse makes a meditative determination causally effective as an objective trajectory.
 

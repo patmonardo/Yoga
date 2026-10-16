@@ -1,63 +1,117 @@
-# VAK_6.40 Bhāṣya — Seven Good Courses; No Return
+# VAK_6.40 Bhāṣya — Seven Good-Person Courses
 
 ## 1. Kārikā Anchor
 
-> ūrdhvasrotur abhedena sapta sadgatayo matāḥ |
-> sadasadvṛttyavṛttibhyāṃ gatāpratyāgateś ca tāḥ || 6.40 ||
+> ūrdhva-srotur abhedena sapta sad-gatayo matāḥ |
+> sad-asad-vṛtty-avṛttibhyāṃ gatāpratyāgateś ca tāḥ || 6.40 ||
 
-Literal (from the kārikā study):
+> The sūtra counts seven courses of the good person by treating the
+> upward-streamer as one, without dividing its routes. These courses
+> are good in the strict sense: wholesome action operates, unwholesome
+> action does not, and those who enter them do not return. Other
+> trainees may also be called good persons in a qualified sense, but
+> the present classification concerns these seven without qualification.
 
-> Because the upward-streamer is not subdivided, seven courses of the good person
-> are accepted. They are such because of activity in the good, non-activity in the
-> non-good, and because, once gone [into them], there is no return.
+The commentary reconciles the sevenfold sūtra count with the finer
+non-returner classification and specifies the sense of “good person.”
 
-Kārikā study: [`VAK_6.40.md`](./VAK_6.40.md). Next: 6.41.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+kathaṃ tarhi sūtre sapta satpuruṣagatayo deśitāḥ /
 
-> kathaṃ tarhi sūtre sapta satpuruṣagatayo deśitāḥ /
-> ūrdhvasrotur abhedena sapta sadgatayo matāḥ /
-> … tasyābhedanirdeśāt … /
-> etā hi gatayo … vṛttiḥ kuśale asaty avṛttir akuśale / … na punaḥ pratyāgatir asti /
-> … anyeṣām apy asti paryāyikaṃ satpuruṣatvam / … yeṣāṃ tu niṣparyāyeṇa teṣām ihādhikāraḥ /
+     ūrdhvaṃsroturabhedena sapta sadgatayo matāḥ /
 
-**Witness.** Pradhan 361|04–361|14. Voice: Vasubandhu. 6.41 at 361|15.
+ūrdhvaṃ sravaṇadharmā ūrdhvaṃsrotā /
+
+tasyābhedanirdeśātsapta satpuruṣagatayaḥ sūtre 'bhihitāḥ /
+
+kasmāt punaretā eva satpuruṣagatayo nānyāḥ śaikṣagatayaḥ /
+
+etā hi gatayo yeṣāṃ teṣāṃ satyeva karmāṇi vṛttiḥ kuśale asatyavṛttirakuśale /
+
+etāśca gatīrgatānāṃ na punaḥ pratyāgatirasti /
+
+natvetadyathoktamanyatrāsti /
+ataḥ
+
+     sadasadvṛttyavṛttibhyāṃ gatāopratyāgateśca tāḥ // VAkK_6.40 //
+
+sapta satpuruṣagatayo nānyā iti /
+
+yattarhi sūtre evoktaṃ "satpuruṣāḥ katamaḥ /
+
+śaikṣyaḥ samyagdṛṣṭacyā samanvāgata" iti vistaraḥ /
+
+anyeṣāmapyasti poāryāyikaṃ satpuruṣatvam /
+
+pañcavidhasya pāpasyātyantamakaraṇasaṃvarapratilambhāt prāyeṇākuśalaprahāṇācca /
+
+yeṣāṃ tu niṣparyāyeṇa teṣāmihādhhikāraḥ /
+```
+
+This is the complete running unit from [361|04] through [361|14] in
+`Vasubandhu/Sources/kosabhasya.txt`; [361|15] opens the next inquiry.
+Source labels are removed and line breaks editorial. Uneven readings
+including `gatāopratyāgateśca`, `dṛṣṭacyā`, `poāryāyikaṃ`, and
+`adhhikāraḥ` remain uncorrected pending collation.
 
 ## 3. Continuous Conventional Translation
 
-> How then does the sūtra teach seven courses of the good person? By not splitting
-> the upward-streamer. The streamer is one whose course flows upward. Named without
-> internal division: seven. Why these, not other trainee-courses? In them activity
-> is in the wholesome and not in the unwholesome. Having entered, they do not come
-> back. That strict pair does not hold elsewhere the same way.
->
-> A sūtra also calls a trainee with right view a good person. Others have qualified
-> good-personhood: restraint from five evils, unwholesome mostly gone. Here the
-> topic is those for whom the name holds without qualification.
+How, then, does the sūtra teach seven courses of the good person?
+Because the upward-streamer is stated without subdivision. One whose
+current flows upward is an upward-streamer; by naming that course
+without distinguishing its routes, scripture teaches seven good-person
+courses.
+
+Why are these called good-person courses rather than the courses of
+other trainees? In those who follow them, action operates in what is
+wholesome and does not operate in what is unwholesome. Those who have
+entered these courses do not return. The other trainee courses do not
+have this combination in precisely the way just stated. Hence these,
+and not the others, are taught as the seven good-person courses.
+
+But does the same sūtra not also call a trainee endowed with right
+view a “good person”? Others too have good-personhood in a qualified
+sense. They have acquired restraint from ever committing five kinds
+of wrong and have, for the most part, abandoned the unwholesome.
+Here the subject is those for whom the designation holds without
+qualification.
 
 ## 4. Movement of the Commentary
 
-```text
-fine count (6.37–39) vs sūtra seven
-abheda of ūrdhvasrotas closes the gap
-kuśala-on / akuśala-off / no return
-strict vs qualified satpuruṣa
-```
+The prose first resolves the numerical discrepancy by counting the
+upward-streamer as one. It then derives the special name from
+wholesome operation, unwholesome non-operation, and non-return. A
+scriptural counterexample prompts a final distinction between
+qualified and strict uses of “good person.”
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Resolution = "fine_abhidharma" | "sutra_seven";
-// not two truths; two grains of one Techne
-```
+**Translation decisions.** `Abheda` governs the count by leaving the
+upward-streamer undivided. `Sat/asat` is read with the prose's
+`kuśala/akuśala` and with `vṛtti/avṛtti`, rather than as abstract
+Being and non-being. `Gatāpratyāgati` names non-return after entering
+these courses. The prose explicitly admits `paryāyika` good-personhood
+for other trainees and reserves the unqualified (`niṣparyāya`) use
+for the present seven.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** The same Path field can be enumerated at
+finer or coarser resolution. The present count preserves the course's
+operative criteria even as it gathers internal upward-stream routes
+under one name. This is project synthesis.
 
-- sat/asat = kuśala/akuśala here, not Being/Non-being;
-- seven is compression, not a rival ladder.
+## 6. Sevenfold Count and Strict Criteria
+
+| Question | Bhāṣya determination | Function |
+|---|---|---|
+| Why seven? | Upward-streamer counted without subdivision | Canonical enumeration |
+| Why “good”? | Wholesome activity, unwholesome non-activity | Practical operation |
+| Why a distinct course? | No return once entered | Directional constraint |
+| What of other trainees? | Qualified good-personhood also applies | Scope of the designation |
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 361|04–14.
-Verse-English from [`VAK_6.40.md`](./VAK_6.40.md) §5 Literal. Medium.
-Next: 6.41.
+The complete running unit [361|04]–[361|14] is present. Uneven source
+readings await collation. The kārikā anchor copies the study's
+Bhāṣya-informed translation exactly. Next: 6.41.

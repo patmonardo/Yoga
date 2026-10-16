@@ -1,90 +1,174 @@
-# VAK_6.27 Bhāṣya — Sixteen Cittas; Three Senses of Realization
+# VAK_6.27 Bhāṣya — Sixteen Moments and Three Senses of Realization
 
 ## 1. Kārikā Anchor
 
 > iti ṣoḍaśacitto 'yaṃ satyābhisamayas tridhā |
 > darśanālambakāryākhyaḥ so 'gradharmaikabhūmikaḥ || 6.27 ||
 
-Literal (from the kārikā study):
+> The sixteen successive moments of consciousness constitute direct
+> realization of the Four Truths. It is described in three senses: seeing
+> through uncontaminated Prajñā; sharing a Truth as cognitive Condition
+> through associated mental factors; and accomplishing work that extends
+> even to dissociated factors. Seeing remains ordered by the distinct
+> Truths, while the Path's work is integrated across them. All sixteen
+> moments arise on the same meditative ground as the preceding Highest
+> Mundane Dharmas.
 
-> Thus, this direct realization of the Truths consists of sixteen cognitive
-> moments. It is threefold, called [realization as] seeing, object-support, and
-> function. It belongs to the same ground as the Highest Mundane Dharmas.
+The commentary distinguishes unity of work from the successive seeing
+of the Truths and specifies the scope of each sense of realization.
 
-Kārikā study: [`VAK_6.27.md`](./VAK_6.27.md). Next: 6.28, why both kṣānti and jñāna.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+iti ṣoḍaśacitto 'yaṃ satyābhisamayaḥ
 
-> iti ṣoḍaśacitto 'yaṃ satyābhisamayaḥ / ity anena krameṇa … ṣoḍaśacittako bhavati /
-> ye tarhi nikāyāntarīyāḥ satyānām ekābhisamayaṃ varṇayanti / abhiprāya eṣa draṣṭavyaḥ /
-> tridhā / darśanālambakāryākhyaḥ /
-> darśanābhisamayo 'nāsravayā prajñayā satyānām /
-> ālambanābhisamayas tatsaṃprayuktair vedanādibhir api /
-> kāryābhisamayo viprayuktair api śīlajātyādibhiḥ /
-> … ayuktaṃ brūyād ākārabhedāt / … yathādarśanaṃ bhāvanāt /
-> so 'gradharmaikabhūmikaḥ // 6.27 // /
+ityanena krameṇāyaṃ satyānāmabhisamayaḥ ṣoḍaśacittako bhavati /
 
-**Witness.** Pradhan 351|07–352|12. Voices: Vasubandhu; nikāyāntarīya “one realization.”
-Damaged forms kept. 6.28 after this unit.
+ye tarhi nikāyāntarīyāḥ satyānāmekābhisamayaṃ varṇayanti /
+
+abhiprāya eṣa draṣṭavyaḥ /
+
+abhedena hyabhisamaya ucyate satyeṣu
+
+     tridhā /
+
+     darśanālambakāryākhyaḥ
+
+darśanābhisamayo 'nāsravayā prajñayā satyānām /
+
+ālambanābhisamayastatsaṃprayuktairvedanādibhirapi /
+
+kāryābhisamayo viprayuktairapi śīlajātyādibhiḥ /
+
+duḥkhe hi dṛśyamāne tasya trividho 'bhisamayaḥ samudayādīnāṃ kāryābhisamayaḥ /
+
+prahāṇasākṣātkaraṇabhāvanāt /
+
+tadyadi satyānāṃ darśanābhisamayaṃ pratyekābhisamayaṃ brūyāt /
+
+ayuktaṃ brūyādākārabhedāt /
+athāpyanātmākāreṇa sarveṣāṃ darśanamiti brūyāt /
+
+na tarhi satyānāṃ duḥkhādito darśanaṃ syāt /
+evaṃ ca sūtravirodhaḥ /
+
+"ihāryaśravakasya duḥkhaṃ vā duḥkhato manasi kūrvataḥ samudayaṃ vā samudayato yāvat mārga vā mārgato manasi kurvato 'nāsraveṇa manasikāreṇa saṃprayukto yo dharmāṇo pravicaya" iti /
+
+bhāvanāmārga evamiti cet /
+na /
+yathādarśanaṃ bhāvanāt /
+
+athāpyekasya darśanāccheṣeṣu va4itvalābhādekābhisamayaṃ brūyānna doṣaḥ syāt /
+
+antarā tu vyutthānamasti nāstīti vicāryaṃ syāt /
+
+atha punarbrūyāt duḥkhameva parijānansamudayaṃ prajahāti nirodhaṃ sākṣāt karoti mārgaṃ bhāvayati /
+
+ata ikābhisamaya iti /
+
+evamapi na doṣaḥ syādekasya darśane śeṣāṇāṃ kāryābhisamayavacanāt /
+
+darśanābhisamayaṃ tu prati sūtre satyānāṃ krameṇābhisamaya ukto lakṣyate /
+
+"nahaiva gṛhapate satyānāmekābhisamayo 'pi pūrvābhisayaya" iti vistareṇa sadṛṣṭāntāni trīṇi sūtrāṇi /
+
+"yo duḥkhe niṣkāṅkṣo nirvicikitso buddhe 'pi sa" iti sūtrādekābhisamaya iti cet /
+
+na /
+asaṃmudācārāvaśyaṃprahāṇābhisaṃdhivacanāt /
+
+ya eṣauktaḥ ṣoḍhaśacittako 'bhisamayaḥ
+
+     so 'gradharmaikabhūmikaḥ // VAkK_6.27 //
+
+yadbhūmiko 'gradharmastadbhūmikānyetāni ṣoḍaśa cittāni /
+
+ta punaḥ ṣaḍbhūmikā ityuktaṃ prāk /
+```
+
+This is the complete running unit at [351|07–352|11] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line
+breaks are editorial. The forms `va4itvalābha`, `ikābhisamaya`,
+`pūrvābhisayaya`, and `ṣoḍhaśacittako` remain as transmitted; their
+precise readings await collation. The next discussion begins at [352|12].
 
 ## 3. Continuous Conventional Translation
 
-> By this sequence, realization of the Truths is sixteen-citta. Other schools speak
-> of one realization of the Truths: look at what they intend. Realization of the
-> Truths is named without split as threefold: seeing, object-support, function.
-> Seeing: uncontaminated prajñā of the Truths. Object-support: also the associated
-> factors — feeling and the rest. Function: even dissociated factors, discipline
-> and status and the like. While suffering is being seen, that Truth has the three;
-> origin and the others have functional realization — abandoning, making present,
-> cultivating.
->
-> If one claims seeing itself is one for all Truths: untenable — the aspects differ.
-> If all are seen under the not-self aspect: then they are not seen as suffering and
-> the rest; that fights the sūtra (disciple attending to suffering as suffering,
-> origin as origin, through Path as Path, with uncontaminated attention and
-> discrimination of dharmas). If that is only Cultivation-Path: no — cultivation
-> is according to seeing.
->
-> If one means: seeing one yields capacity regarding the rest — no fault; whether
-> emergence intervenes still to examine. If one means: fully knowing suffering one
-> abandons origin, realizes cessation, cultivates Path — also no fault, because that
-> is functional realization of the others. But as to seeing, the sūtra marks
-> sequential realization. Another sūtra on freedom from doubt does not prove one
-> simultaneous seeing.
->
-> These sixteen cittas are of the same ground as the Highest Mundane Dharma. Six
-> grounds were already said.
+By the sequence just set out, direct realization of the Truths comprises
+sixteen moments of consciousness. Other schools speak of a single direct
+realization of the Truths. Their intended meaning must be examined.
+Realization is spoken of in three senses: seeing, cognitive Condition, and
+work. Seeing-realization occurs through uncontaminated Prajñā regarding
+the Truths. Realization by cognitive Condition includes associated factors
+such as feeling. Realization by work extends even to dissociated factors,
+such as discipline and status. While suffering is seen, it is realized in
+all three senses; the other Truths are realized by work, through
+abandoning, directly actualizing, and cultivating.
+
+If someone claims one seeing-realization for all Truths simultaneously,
+that does not hold: their aspects differ. If the claim is that all four
+are seen under the aspect of not-self, they would not then be seen as
+suffering and the other Truths specifically. The commentary cites a
+sūtra describing a Noble disciple attending to suffering as suffering,
+origin as origin, and so on through Path, with uncontaminated attention
+and discrimination of dharmas. If one replies that this specificity
+belongs only to the Path of Cultivation, the commentary answers that
+cultivation proceeds according to Seeing.
+
+If “one realization” instead means that seeing one Truth confers a
+capacity regarding the others, there is no immediate objection, though
+the possibility of an intervening emergence still requires examination.
+If it means that fully knowing suffering also abandons origin, directly
+actualizes cessation, and cultivates Path, there is likewise no objection:
+these are work-realizations of the other Truths. Regarding strict seeing,
+however, scripture indicates successive realization of the Truths. The
+commentary adduces three sūtras with examples about prior realization,
+and answers a further sūtra about freedom from doubt by pointing to its
+intended sense of non-manifestation and necessary abandonment. These
+scriptural references do not establish simultaneous seeing.
+
+The sixteen moments of consciousness have the same meditative ground as
+the preceding Highest Mundane Dharmas. The six possible grounds were
+specified earlier.
 
 ## 4. Movement of the Commentary
 
-```text
-one satyābhisamaya = this krama of 16
-darśana = anāsrava prajñā (not every caitta)
-ālambana = saṃprayukta share the Truth-object
-kārya = work even in viprayukta
-unity of function ≠ simultaneous seeing (ākārabheda)
-yathādarśanaṃ bhāvanāt
-```
+The Bhāṣya counts the ordered moments as one direct realization, defines
+its three senses, and tests the other schools' claim of single realization.
+It allows unity through acquired capacity or coordinated work while
+rejecting simultaneous Truth-seeing. Finally it keeps the ground of the
+sixteen moments continuous with the final mundane preparation.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Abhisamaya =
-  | { as: "darsana"; agent: "anasrava_prajna" }
-  | { as: "alambana"; with: "samprayukta" }
-  | { as: "karya"; even: "viprayukta" };
-// one system, sequential seeing
-// anatm-akara does not replace truth-specific ākāra
-```
+**Translation decisions.** `Ṣoḍaśacitta` is rendered “sixteen moments of
+consciousness,” retaining the controlled distinction between `citta` and
+`vijñāna`. `Darśanābhisamaya` belongs specifically to uncontaminated
+Prajñā; `ālambanābhisamaya` includes associated factors sharing the
+Truth as cognitive Condition; `kāryābhisamaya` extends even to
+dissociated factors through accomplished work. The reported
+`nikāyāntarīya` position and the Bhāṣya's qualified replies remain
+attributed separately.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** A reflective Model can register ordered seeing,
+shared cognitive Condition, and system-wide Path work as distinct
+relations. Functional integration of the Truths does not make their
+seeing simultaneous. This is project synthesis.
 
-- `iti` = the 6.25–26 krama;
-- three names distributed;
-- same bhūmi as agradharma, not a new floor at the jump.
+## 6. Three Senses and One Sequence
+
+| Sense | Immediate range | Relation to the other Truths |
+|---|---|---|
+| Seeing | Uncontaminated Prajñā | Successive and Truth-specific |
+| Cognitive Condition | Associated factors, including feeling | Share the currently taken Truth |
+| Work | Even dissociated factors, including discipline and status | Tasks concerning other Truths can be accomplished together |
+
+All sixteen moments remain on the same meditative ground as the Highest
+Mundane Dharmas that immediately precede them. The change in purity and
+Path function does not itself require a change of ground.
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 351|07–352|12.
-Verse-English from [`VAK_6.27.md`](./VAK_6.27.md) §5 Literal. Major talk; later QA.
-Witness damage noted. Siesta here. Next: 6.28.
+The complete source unit [351|07–352|11] is present. Damaged and
+compressed witness forms are marked for later collation. The kārikā
+anchor exactly matches the study's Bhāṣya-informed translation.

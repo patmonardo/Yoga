@@ -1,33 +1,59 @@
-# VAK 6.39 — Karma, Kleśa, and Indriya as Path-Determining Variables
+# VAK_6.39 — Threefold Non-Returners and Their Determining Conditions
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
+पुनस्त्रींस्त्रिविधान्कृत्वा नव रूपोपगाः स्मृताः ।
 तद्विशेषः पुनः कर्मक्लेशेन्द्रियविशेषतः ॥ ६.३९ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
+punas trīṃs trividhān kṛtvā nava rūpopagāḥ smṛtāḥ |
 tad-viśeṣaḥ punaḥ karma-kleśendriya-viśeṣataḥ || 6.39 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+Three form-going non-returner types each admit a threefold
+differentiation, making nine. The verse then names the conditions of
+that differentiation: karma, residual affliction, and faculty.
 
-**Padaccheda**
-
-tat-viśeṣaḥ | punaḥ | karma-kleśa-indriya-viśeṣataḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
+| **punaḥ** | indeclinable | again; introduces the further subdivision |
+| **trīn / trīṃs** | masculine accusative plural | three non-returner types being subdivided |
+| **trividhān** | masculine accusative plural | made threefold, each of three kinds |
+| **kṛtvā** | absolutive of √kṛ | having made or classified |
+| **nava** | numeral | nine resulting form-going types |
+| **rūpopagāḥ** | masculine nominative plural | those going to the form realm |
+| **smṛtāḥ** | masculine nominative plural past participle | are reckoned or held to be |
 | **tat-viśeṣaḥ** | masculine nominative singular compound | the differentiation of those previously classified non-returners |
-| **punaḥ** | indeclinable | again, further, in turn |
 | **karma-** | neuter compound member | karma and the temporal disposition of its result |
 | **kleśa-** | masculine compound member | residual affliction in active manifestation |
 | **indriya-** | neuter compound member | faculty and its degree of strength |
 | **viśeṣataḥ** | ablatival adverb | because of differentiation, owing to specific difference |
 
-The verse is extremely compressed. It states the three grounds of differentiation; the particular correlations and generation of nine non-returner types are supplied by the Bhāṣya.
+```text
+punaḥ | trīn | trividhān | kṛtvā | nava | rūpopagāḥ | smṛtāḥ |
+tat-viśeṣaḥ | punaḥ | karma-kleśa-indriya-viśeṣataḥ
+```
+
+The source writes `rupopagāḥ` without the long `ū` shown in this
+study's restored first line. Its prose explains the three base types
+and their threefold subdivisions; the verse states the ninefold count
+and the three determining conditions.
 
 ## 4. Grammar
 
-**tat** in **tad-viśeṣaḥ** refers back to the distinction among the practitioner-types just enumerated. The singular **viśeṣaḥ** treats their differentiation as one systematic fact requiring explanation.
+The absolutive **kṛtvā** governs **trīṃs trividhān**: having made the
+three types threefold. **Nava rūpopagāḥ** is the resulting nominative
+plural, with **smṛtāḥ** as its predicate: nine form-going
+non-returners are reckoned. The opening **punaḥ** marks a renewed
+classification.
+
+**tat** in **tad-viśeṣaḥ** refers back to the distinction among these practitioner-types. The singular **viśeṣaḥ** treats their differentiation as one systematic fact requiring explanation.
 
 The final ablatival expression gives its causal basis: **karma-kleśa-indriya-viśeṣataḥ**, “because of differences in karma, affliction, and faculty.” The repeated semantic force of **viśeṣa** is important:
 
@@ -39,15 +65,42 @@ difference among determining conditions
 
 The syntax does not reduce the three conditions to one another or explicitly rank them. Their detailed covariance belongs to the commentary.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+FORM-GOING-NON-RETURNER[BASE-TYPE=intermediate|after-arising|upward]
+  × SUBTYPE[one-of-three] → CLASSIFICATION[COUNT=9]
+SUBTYPE[DIFFERENCE=karma|kleśa|indriya]
+```
+
+The source's first half supplies the ninefold count. The commentary
+specifies the three base types and how their subdivisions work.
+
 ## 5. Translation
 
 ### Literal Translation
 
-Their further differentiation is due to differences in karma, affliction, and faculty.
+> By making the three types threefold again, nine form-going
+> non-returners are reckoned. Their further differentiation is due to
+> differences in karma, affliction, and faculty.
 
 ### Bhāṣya-informed study translation
 
-The several non-returner trajectories are differentiated by the temporal kinds of karma that remain to bear fruit, by the degree of residual afflictive manifestation, and by the strength of the practitioner's faculties. Through these variables, three principal types are further articulated as nine.
+> Three form-going non-returner types—those completing in an
+> intermediate existence, after rebirth, or along an upward course—are
+> each divided three ways, yielding nine. Their different trajectories
+> depend on when accumulated karma bears fruit, how strongly residual
+> afflictions manifest, and the strength of the practitioner's faculty:
+> milder affliction accompanies stronger faculty, and conversely.
+
+### Translation note
+
+The first half, absent from the previous study text, is restored from
+the running source. The Bhāṣya identifies the three base types and
+offers more than one way to subdivide them; it then correlates types
+with temporal karma, active affliction, and faculty strength. The
+study's long `ū` in `rūpopagāḥ` remains a normalization of source
+`rupopagāḥ`, not an unmarked witness reading.
 
 ## 6. Philosophical Translation
 
@@ -57,7 +110,7 @@ The Path-person is therefore not an underlying essence bearing accidental labels
 
 ## 7. Technical Vocabulary
 
-**From three to nine non-returners**
+**`Trīn trividhān / nava rūpopagāḥ` — three types made nine**
 
 The Bhāṣya first reorganizes the preceding taxonomy. Three principal types are each differentiated threefold:
 
@@ -80,7 +133,7 @@ upward-streamer:
 
 This yields nine form-realm non-returners. The nine are refinements of trajectories within one fruit, not nine additional fruits.
 
-**karma**
+**`Karma` — temporal disposition of results**
 
 The Bhāṣya distinguishes three forms of karma according to when their result is experienced:
 
@@ -97,11 +150,11 @@ aparaparyāya-vedanīya-karman
 
 These terms should remain in Sanskrit because forced modern equivalents can obscure their technical scope. Their local function is clear: accumulated karma temporally distributes the possible course of completion.
 
-**kleśa-samudācāra**
+**`Kleśa-samudācāra` — manifestation of affliction**
 
 The relevant **kleśa** is not merely an affliction possessed abstractly. The Bhāṣya grades its **samudācāra**, active manifestation or occurrence, as mild, medium, or strong. This remaining activity helps determine how quickly and by what route completion occurs.
 
-**indriya**
+**`Indriya` — operative faculty**
 
 **Indriya** is the strength of the operative faculty. The Bhāṣya orders it inversely to afflictive manifestation:
 
@@ -113,7 +166,7 @@ The relevant **kleśa** is not merely an affliction possessed abstractly. The Bh
 
 Faculty is therefore not an inert possession. It is the capacity by which the continuum can enact and sustain its Path under the remaining conditions.
 
-**The principal causal correlation**
+**`Karma-kleśendriya-viśeṣa` — three determining differences**
 
 The three variables function together:
 
@@ -126,15 +179,17 @@ temporal disposition of karma
 
 For the first two triads, the Bhāṣya emphasizes differentiation by affliction and faculty. For the three upward-streamers, the route-difference is tied especially to karma bearing fruit in a later subsequent existence.
 
-**Ninefold recurrence**
+**`Nava-prakāra` — recurrence of the ninefold scale**
 
 The conclusion returns to VAK 6.33: because afflictions and faculties admit ninefold differentiation, nine non-returners can be distinguished. The same formal morphology that graded removal now grades the remaining modes of completion.
 
 ## 8. Logical Determination
 
-The kārikā defines practitioner-type as a function of three variables:
+The kārikā first counts three form-going types, each differentiated
+threefold, and then names the three grounds of distinction:
 
 ```text
+3 base types × 3 subdivisions = 9 form-going non-returners
 PathPersonType = f(Karma, Klesa, Indriya)
 ```
 
@@ -194,7 +249,13 @@ This strongly confirms our earlier insight. **Karma** carries the objective cour
 
 None is sufficient alone. Karma without faculty would specify a result-history without the capacity of transformation. Faculty without the residual afflictive field would lack a determinate task. Kleśa without karma would not explain when or where its unresolved course bears existential consequence. Their copular relation is the concrete Path-person.
 
-The three determining terms belong to the kārikā. The three-to-nine derivation, technical karmic species, graded afflictive manifestation, inverse ordering of faculty, and allocation across triads belong to the Bhāṣya. The interpretation of Karma, Kleśa, and Indriya as objective disposition, residual subjective movement, and Path-morphology is Organon synthesis.
+The three-to-nine count and three determining terms belong to the
+kārikā. Identification of the three base types, their subdivisions,
+technical karmic species, graded afflictive manifestation, inverse
+ordering of faculty, and allocation across triads belong to the
+Bhāṣya. The interpretation of Karma, Kleśa, and Indriya as objective
+disposition, residual subjective movement, and Path morphology is
+Organon synthesis.
 
 ## 10. OWL++ Seed
 
@@ -234,6 +295,7 @@ PathConfiguration generatesTrajectory CompletionTrajectory
 CompletionTrajectory determinesType NonReturnerType
 
 KārikāRule: Practitioner differentiation arises from differences in karma, kleśa, and indriya.
+KārikāRule: Three form-going types each subdivided threefold yield nine.
 BhāṣyaRule: Mild affliction correlates with strong faculty, and strong affliction with mild faculty.
 BhāṣyaRule: The three principal non-returner types are each differentiated threefold.
 ProjectRule: PathMorphology is the determinate relation of temporal disposition, residual movement, and operative faculty.

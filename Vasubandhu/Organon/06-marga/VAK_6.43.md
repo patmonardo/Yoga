@@ -1,21 +1,24 @@
-# VAK 6.43 — The Bodily Witness and Temporally Articulated Realization
+# VAK_6.43 — The Bodily Witness and Temporally Articulated Realization
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 तत्पाञ्चविध्यात् पञ्चैव शुद्धावासोपपत्तयः ।
 निरोधलाभ्यनागामी कायसाक्षी पुनर्मतः ॥ ६.४३ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 tad-pāñcavidhyāt pañcaiva śuddhāvāsopapattayaḥ |
 nirodha-lābhy anāgāmī kāya-sākṣī punar mataḥ || 6.43 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The five grades of intermingled cultivation correspond to five Pure
+Abodes. The non-returner who attains cessation receives the further
+designation “bodily witness.”
 
-**Padaccheda**
-
-tat-pañca-vidhyāt | pañca | eva | śuddha-āvāsa-upapattayaḥ |
-nirodha-lābhī | anāgāmī | kāya-sākṣī | punaḥ | mataḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -28,7 +31,13 @@ nirodha-lābhī | anāgāmī | kāya-sākṣī | punaḥ | mataḥ
 | **punaḥ** | indeclinable | further, in turn |
 | **mataḥ** | masculine nominative singular past participle | is regarded or held to be |
 
-The first **tat** refers to the mixed cultivation of the preceding verse. The second line gives a definition by apposition: the cessation-attaining non-returner is called a bodily witness.
+```text
+tat-pañca-vidhyāt | pañca | eva | śuddha-āvāsa-upapattayaḥ |
+nirodha-lābhī | anāgāmī | kāya-sākṣī | punaḥ | mataḥ
+```
+
+The first `tat` refers to intermingled cultivation in 6.42. The
+second line adds a designation to an already established non-returner.
 
 ## 4. Grammar
 
@@ -38,15 +47,44 @@ In the second line, **nirodhalābhī** qualifies **anāgāmī**. **kāyasākṣ�
 
 The five grades, their moment counts, the causal role of the contaminated component, and the explanation of bodily witnessing belong to the Bhāṣya.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+MIXED-CULTIVATION[GRADE=1|2|3|4|5]
+  → PURE-ABODE-REBIRTH[CORRESPONDING-GRADE]
+NON-RETURNER[CESSATION-ATTAINMENT=acquired]
+  → DESIGNATION[body-witness]
+```
+
+The verse supplies the correspondence and designation. The prose
+specifies the contaminated rebirth cause and the ordered relation of
+attainment and later Knowing.
+
 ## 5. Translation
 
 ### Literal Translation
 
-Because of its fivefold differentiation, there are exactly five rebirths in the Pure Abodes. A non-returner who possesses attainment of cessation is further regarded as a bodily witness.
+> Because that cultivation is fivefold, there are exactly five
+> Pure-Abode rebirths. A non-returner who attains cessation is further
+> called a bodily witness.
 
 ### Bhāṣya-informed study translation
 
-The five progressively developed grades of mixed cultivation yield, in corresponding order, rebirth in the five Pure Abodes; the contaminated component of each cultivation supplies the rebirth-producing cause. A non-returner who has attained the cessation attainment is called a bodily witness because, upon emerging from noncognitive cessation, the practitioner experiences unprecedented bodily tranquility and recognizes cessation as peaceful and resembling nirvāṇa.
+> Five grades of intermingled cultivation correspond in order to five
+> Pure-Abode rebirths; the contaminated portion of the cultivation
+> conditions those births. A non-returner who has attained cessation is
+> called a bodily witness. Cognition is absent during that attainment;
+> on emerging, the practitioner receives unprecedented bodily peace and
+> knows the cessation to be peaceful and like Nirvāṇa.
+
+### Translation note
+
+The Bhāṣya gives the three-to-fifteen *citta* counts, assigns rebirth
+to the contaminated component, and reports an alternative faculty
+account of the number five. It first explains bodily witnessing through
+the bodily basis during cessation, then refines the explanation through
+peace experienced on emergence and Knowing. The fine arithmetic of
+non-returner types remains in the continuous translation.
 
 ## 6. Philosophical Translation
 
@@ -56,7 +94,7 @@ Likewise, direct realization need not be one homogeneous conscious instant. Cess
 
 ## 7. Technical Vocabulary
 
-**Fivefold mixed cultivation**
+**`Vyavakīrṇa-bhāvanā` — five grades of intermingled cultivation**
 
 The Bhāṣya grades mixed cultivation in five progressively developed forms. It gives the following cognitive counts:
 
@@ -70,7 +108,7 @@ The Bhāṣya grades mixed cultivation in five progressively developed forms. It
 
 Each grade preserves the same contaminated–uncontaminated architecture while extending its cultivated scope. The numbers belong to the reported technical analysis; they should be read with VAK 6.42's caution concerning exact moment-level control.
 
-**Five Pure Abodes**
+**`Śuddhāvāsa-upapatti` — five Pure-Abode rebirths**
 
 The five cultivation grades correspond in order to the five Pure-Abode rebirths:
 
@@ -83,11 +121,11 @@ The Bhāṣya says specifically that the **sāsrava**, contaminated, component c
 
 A reported alternative derives the five Pure Abodes from predominance of the five faculties beginning with faith. The Bhāṣya records but does not develop that view here.
 
-**nirodha-lābhin**
+**`Nirodha-lābhin` — attainer of cessation**
 
 A **nirodhalābhin** possesses attainment of **nirodha-samāpatti**, the attainment of cessation. In the present classification this person is already a non-returner.
 
-**kāya-sākṣin**
+**`Kāya-sākṣin` — bodily witness**
 
 Any non-returner who has attained cessation is called a **bodily witness**. The initial explanation says that a nirvāṇa-like dharma is directly realized through the body because cognition is absent and the occurrence depends upon the bodily support.
 
@@ -105,7 +143,7 @@ entry into cessation attainment
 
 The body bears the attained transformation; cognition recognizes its peace upon emergence.
 
-**sākṣātkriyā**
+**`Sākṣātkriyā` — direct realization**
 
 The Bhāṣya defines direct realization or making-present through two factors:
 
@@ -114,19 +152,21 @@ prāpti
     attainment
 
 jñāna
-    knowledge
+    Knowing
 
 prāpti + jñāna
     → pratyakṣīkāra / sākṣātkriyā
 ```
 
-These factors need not occur as one simultaneous conscious event. In this case, attainment belongs to noncognitive cessation and knowledge to the emergence from it.
+These factors need not occur as one simultaneous conscious event. In
+this case, attainment belongs to noncognitive cessation and Knowing
+to emergence from it.
 
-**Not an additional trainee class**
+**`Śaikṣa-bheda` — no additional trainee class**
 
 The bodily witness is not separately counted among the eighteen trainees. Those basic classifications rest upon the three uncontaminated trainings and their fruits, whereas cessation attainment is neither specifically a trainee nor non-trainee fruit. **Kāyasākṣin** is therefore a cross-cutting qualification of a non-returner, not another Noble fruit-position.
 
-**Coarse and fine classification**
+**`Sthūla / sūkṣma-bheda` — coarse and fine classification**
 
 Vasubandhu closes by calling the foregoing non-returner distinctions coarse. Fine differentiation yields thousands of variants through faculty grade, ground, lineage-type, station, and degree of detachment. The named classes are stable projections over a much richer causal field, not exhaustive personal essences.
 

@@ -1,29 +1,39 @@
-# VAK 6.29 — Faculty, Following Meaning, and the First Fruit
+# VAK_6.29 — Faculty, Following Meaning, and the First Fruit
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 मृदुतीक्ष्णेन्द्रियौ तेषु श्रद्धाधर्मानुसारिणौ ।
-अहीनभावनाहेयौ फलाद्युप्रतिपन्नकौ ॥ ६.२९ ॥
+अहीनभावनाहेयौ फलाद्यप्रतिपन्नकौ ॥ ६.२९ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 mṛdutīkṣṇendriyau teṣu śraddhādharmānusāriṇau |
-ahīnabhāvanāheyau phalādyupapratipannakau || 6.29 ||
+ahīnabhāvanāheyau phalādyapratipannakau || 6.29 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The fifteen moments of Seeing are now classified by the faculties of the
+practitioners who traverse them and by the fruit toward which they proceed.
 
-**Padaccheda**
+## 3. Lexical Analysis
 
-mṛdu-tīkṣṇa-indriyau | teṣu | śraddhā-dharma-anusāriṇau |
-ahīna-bhāvanā-heyau | phala-ādya-upapratipannakau
-
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| **mṛdu-tīkṣṇa-indriyau** | masculine nominative dual compound | the practitioners of gentle and sharp faculties, respectively |
-| **teṣu** | locative plural pronoun | within those fifteen moments of the Path of Seeing |
-| **śraddhā-dharma-anusāriṇau** | masculine nominative dual coordinate compound | the Faith-Follower and Dharma-Follower, respectively |
-| **ahīna-bhāvanā-heyau** | masculine nominative dual compound | the two for whom cultivation-abandonable defilements have not previously been abandoned |
-| **phala-ādya-upapratipannakau** | masculine nominative dual compound | the two proceeding toward the first fruit |
+| `mṛdu-tīkṣṇa-indriyau` | masculine nominative dual compound | the practitioners of gentle and sharp faculties, respectively |
+| `teṣu` | locative plural pronoun | within those fifteen moments of the Path of Seeing |
+| `śraddhā-dharma-anusāriṇau` | masculine nominative dual coordinate compound | the Faith-Follower and Dharma-Follower, respectively |
+| `ahīna-bhāvanā-heyau` | masculine nominative dual compound | the two for whom cultivation-abandonable afflictions have not previously been abandoned |
+| `phala-ādya-pratipannakau` | masculine nominative dual compound | the two proceeding toward the first fruit |
+
+```text
+mṛdu-tīkṣṇa-indriyau | teṣu | śraddhā-dharma-anusāriṇau |
+ahīna-bhāvanā-heyau | phala-ādya-pratipannakau
+```
+
+The earlier study had an extra `upa` in the final compound. The present
+reading follows the running kārikā at [353|19].
 
 The two paired compounds are distributed in order: gentle faculty corresponds to the Faith-Follower, and sharp faculty to the Dharma-Follower. **phalādya** denotes the fruit that is first among the Noble fruits, identified by the Bhāṣya as stream-entry.
 
@@ -40,17 +50,47 @@ tīkṣṇa-indriya → dharmānusārin
 
 **ahīnabhāvanāheyau** adds a shared condition. The relevant defilements are those abandonable through cultivation, and **ahīna** means that they have not been abandoned beforehand.
 
-**phalādyupapratipannakau** supplies the resulting status of both persons: they are proceeding toward the first fruit. The compound does not yet call them persons established in that fruit.
+**phalādyapratipannakau** supplies the resulting status of both persons: they are proceeding toward the first fruit. The compound does not yet call them persons established in that fruit.
+
+**Future Feature Grammar sketch (not executable):**
+
+```text
+FOLLOWER[FACULTY=gentle, NAME=Faith-Follower, PATH=Seeing-moments-1..15]
+  ← mṛdu-indriya + śraddhānusārin + teṣu
+FOLLOWER[FACULTY=sharp, NAME=Dharma-Follower, PATH=Seeing-moments-1..15]
+  ← tīkṣṇa-indriya + dharmānusārin + teṣu
+FOLLOWER[PRIOR-CULTIVATION-ABANDONMENT=none, TARGET=first-fruit]
+  ← ahīnabhāvanāheyau phalādyapratipannakau
+```
+
+The prose supplies the two earlier ways of following Meaning and names
+stream-entry as the first fruit.
 
 ## 5. Translation
 
 ### Literal Translation
 
-Within those [moments], the persons of gentle and sharp faculties are respectively the Faith-Follower and the Dharma-Follower. When the cultivation-abandonable [defilements] have not been abandoned, the two are proceeding toward the first fruit.
+> Within those moments, practitioners of gentle and sharp faculty are,
+> respectively, Faith-Follower and Dharma-Follower. If they have not
+> abandoned what cultivation must abandon, they proceed toward the first
+> fruit.
 
 ### Bhāṣya-informed study translation
 
-During the fifteen moments of the Path of Seeing, the practitioner of gentle faculty is called a Faith-Follower, while the practitioner of sharp faculty is called a Dharma-Follower. If neither has previously abandoned cultivation-removable defilements through a mundane path, both retain the complete binding and are candidates proceeding toward the first fruit, stream-entry.
+> During the fifteen moments of the Path of Seeing, a practitioner of gentle
+> faculty is a Faith-Follower, one who previously followed Meaning through
+> another's assurance. A practitioner of sharp faculty is a Dharma-Follower,
+> one who previously followed Meaning independently through the sūtras and
+> other dharmas. If neither has already abandoned cultivation-abandonable
+> afflictions through a mundane path, both remain fully bound and proceed
+> toward the first fruit, stream-entry.
+
+### Translation note
+
+The Bhāṣya supplies the earlier routes of following `artha`, Meaning,
+identifies the first fruit as stream-entry, and specifies the mundane path
+as the possible source of prior abandonment. `Pratipannaka` names progress
+toward that fruit, not possession of it.
 
 ## 6. Philosophical Translation
 
@@ -60,7 +100,7 @@ The Path also receives the practitioner's prior causal history. If cultivation-r
 
 ## 7. Technical Vocabulary
 
-**mṛdvindriya and tīkṣṇendriya**
+**`Mṛdvindriya` and `tīkṣṇendriya` — gentle and sharp faculties**
 
 The Bhāṣya distinguishes a gentle or weaker faculty from a sharp faculty. This does not mean that one practitioner sees an inferior Truth. Both traverse the same uncontaminated Path of Seeing; the distinction concerns the governing capacity through which the Path becomes effective.
 
@@ -69,13 +109,13 @@ mṛdvindriya    → Faith-Follower
 tīkṣṇendriya   → Dharma-Follower
 ```
 
-**śraddhānusārin**
+**`Śraddhānusārin` — Faith-Follower**
 
 A **Faith-Follower** is the gentle-faculty practitioner proceeding through the fifteen moments. Vasubandhu explains the name as one who follows by means of faith or is disposed to follow through faith.
 
 The Bhāṣya then gives the important historical determination: before Noble Path-entry, this practitioner followed **artha**, Meaning, through reliance upon another's assurance (*parasaṃpratyaya*). Faith is therefore not adequately rendered as irrational belief; it is the mediating confidence through which Meaning was followed.
 
-**dharmānusārin**
+**`Dharmānusārin` — Dharma-Follower**
 
 A **Dharma-Follower** is the sharp-faculty practitioner within the same fifteen moments. Before Noble Path-entry, this person followed Meaning by oneself through dharmas such as the sūtras.
 
@@ -92,25 +132,25 @@ different prior route:
 
 The terms do not oppose faith to knowledge in a generic modern sense. They classify two histories of access to the same Meaning and their corresponding faculty-types.
 
-**pudgalavyavasthāna**
+**`Pudgalavyavasthāna` — classification of Path persons**
 
 The Bhāṣya announces a new task: classification of the persons in whom the Noble Path has arisen. This does not posit a substantial self. A person is systematically determined through path-moment, faculty, previous abandonment, and prospective fruit.
 
-**bhāvanā-heya**
+**`Bhāvanā-heya` — afflictions abandoned through cultivation**
 
 These are defilements abandonable through the Path of Cultivation. They differ from the defilements abandoned by Seeing during the fifteen-moment sequence.
 
 Some cultivation-abandonable defilements may already have been removed through a mundane path of detachment before the supramundane Path begins. VAK 6.29 treats the simplest case in which none has been previously abandoned.
 
-**sakalabandhana**
+**`Sakalabandhana` — complete binding**
 
 The Bhāṣya calls such a practitioner one with the complete binding intact. This incoming condition determines which fruit is next, even though the Path of Seeing itself is uncontaminated.
 
-**pratipannaka and phalastha**
+**`Pratipannaka` and `phalastha` — approaching and established in fruit**
 
 A **pratipannaka** is one proceeding toward a fruit; a **phalastha** is one established in it. During the fifteen moments, the practitioners described here are proceeding toward stream-entry. They are not yet established in its fruit.
 
-**srotaāpattiphala**
+**`Srotāpattiphala` — fruit of stream-entry**
 
 The first Noble fruit is stream-entry because it is the first attained in the ordered fruit-series. When no cultivation-abandonable grades were removed beforehand, this is the fruit toward which both followers proceed.
 
@@ -156,7 +196,7 @@ In Organon terms, explicitly as project synthesis, Indriya here appears as proto
 
 ## 9. Interpretive Note
 
-VAK 6.28 determined the objective operation of the Path: Acceptance severs, Knowledge secures release, and Seeing terminates when its End is achieved. VAK 6.29 now determines who traverses that operation.
+VAK 6.28 determined the objective operation of the Path: Acceptance severs, Knowing secures release, and Seeing terminates when its End is achieved. VAK 6.29 now determines who traverses that operation.
 
 The verse demonstrates why the Kośa's Indriya stage was already a proto-Mārga. The same objective course assumes a different subjective morphology according to the strength and history of the faculty. Yet the difference does not fragment the common Truth or common End.
 

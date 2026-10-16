@@ -1,21 +1,25 @@
-# VAK 6.40 — Seven Good Courses as Canonical Compression
+# VAK_6.40 — Seven Good Courses as Canonical Compression
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 ऊर्ध्वस्रोतुरभेदेन सप्त सद्गतयो मताः ।
 सदसद्वृत्त्यवृत्तिभ्यां गताप्रत्यागतेश्च ताः ॥ ६.४० ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 ūrdhva-srotur abhedena sapta sad-gatayo matāḥ |
 sad-asad-vṛtty-avṛttibhyāṃ gatāpratyāgateś ca tāḥ || 6.40 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The Bhāṣya asks why a sūtra teaches seven good-person courses after
+the finer ninefold account. Counting the upward-streamer without its
+subdivisions gives the canonical seven; the verse then states why
+these courses receive the designation.
 
-**Padaccheda**
-
-ūrdhva-srotuḥ | abhedena | sapta | sat-gatayaḥ | matāḥ |
-sat-asat-vṛtti-avṛttibhyām | gata-apratyāgateḥ | ca | tāḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -29,7 +33,15 @@ sat-asat-vṛtti-avṛttibhyām | gata-apratyāgateḥ | ca | tāḥ
 | **ca** | indeclinable | and |
 | **tāḥ** | feminine nominative plural pronoun | those [seven courses] |
 
-The bare compounds in the second line are semantically underdetermined without the Bhāṣya. In particular, **sat/asat** is explained through wholesome and unwholesome activity, not as an abstract opposition of being and non-being.
+```text
+ūrdhva-srotuḥ | abhedena | sapta | sat-gatayaḥ | matāḥ |
+sat-asat-vṛtti-avṛttibhyām | gata-apratyāgateḥ | ca | tāḥ
+```
+
+The running source has `gatāopratyāgateśca`; this study keeps the
+received `gatāpratyāgateś ca` in its verse. The prose construes
+`sat/asat` through wholesome and unwholesome operation, rather than
+an abstract opposition of being and non-being.
 
 ## 4. Grammar
 
@@ -39,15 +51,41 @@ The instrumental dual **vṛtty-avṛttibhyām** gives two grounds: positive act
 
 Thus the verse contains both an enumeration rule and a criterion of membership.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+CANONICAL-COUNT[UPWARD-STREAMER=undivided] → COURSES[COUNT=7]
+GOOD-PERSON-COURSE[WHOLESOME=active, UNWHOLESOME=inactive,
+                   RETURN=excluded]
+```
+
+The first rule concerns level of enumeration; the second concerns the
+criteria given for these seven in the commentary.
+
 ## 5. Translation
 
 ### Literal Translation
 
-Because the upward-streamer is not subdivided, seven courses of the good person are accepted. They are such because of activity in the good, non-activity in the non-good, and because, once gone [into them], there is no return.
+> Because the upward-streamer is not subdivided, seven courses of the
+> good person are reckoned. They are such through activity in the good,
+> non-activity in the bad, and no return once these courses are entered.
 
 ### Bhāṣya-informed study translation
 
-The sūtra teaches seven strict courses of the good person because it counts the upward-streamer as one type without the finer route-divisions of Abhidharma. These courses are distinguished by wholesome activity, cessation of unwholesome activity, and irreversibility: once entered, they are not traversed backward.
+> The sūtra counts seven courses of the good person by treating the
+> upward-streamer as one, without dividing its routes. These courses
+> are good in the strict sense: wholesome action operates, unwholesome
+> action does not, and those who enter them do not return. Other
+> trainees may also be called good persons in a qualified sense, but
+> the present classification concerns these seven without qualification.
+
+### Translation note
+
+The Bhāṣya reconciles the sūtra's seven with the finer Abhidharma
+count by leaving the upward-streamer undivided. It construes `sat/asat`
+through wholesome and unwholesome activity and distinguishes strict
+from qualified uses of “good person.” The witness's uneven
+`gatāopratyāgateśca` remains visible in the continuous Sanskrit.
 
 ## 6. Philosophical Translation
 
@@ -57,13 +95,13 @@ That unity is not merely nominal. A good course is one whose operation has becom
 
 ## 7. Technical Vocabulary
 
-**sapta satpuruṣa-gatayaḥ**
+**`Sapta satpuruṣa-gatayaḥ` — seven good-person courses**
 
 The Bhāṣya identifies the **seven good courses** as the sūtra's seven *satpuruṣa-gatis*. The problem is reconciliatory: preceding Abhidharma analysis produced more finely differentiated non-returners, whereas the sūtra names seven.
 
 The difference is classificatory resolution, not contradictory doctrine.
 
-**abheda-nirdeśa**
+**`Abheda-nirdeśa` — enumeration without subdivision**
 
 The sūtra reaches seven because the upward-streamer is stated **without subdivision**:
 
@@ -82,11 +120,11 @@ sūtra resolution:
 
 Abstraction here preserves the functional unity while suppressing route-specific detail.
 
-**kuśala-vṛtti**
+**`Kuśala-vṛtti` — wholesome operation**
 
 The first strict criterion is activity in the wholesome. The practitioner is defined positively by the operation that now governs the course, not merely by absence of a defect.
 
-**akuśala-avṛtti**
+**`Akuśala-avṛtti` — unwholesome non-operation**
 
 The second criterion is non-activity in the unwholesome. **Avṛtti** is not bare non-being; it is the cessation or exclusion of an operation that could otherwise determine conduct and continuation.
 
@@ -100,11 +138,11 @@ negative determination:
     unwholesome operation does not occur
 ```
 
-**gata-apratyāgati**
+**`Gata-apratyāgati` — no return after entry**
 
 The third criterion is directional irreversibility. Once the practitioner has entered these courses, there is no return. This does not mean immobility; it means that further movement cannot reinstate the lower rule already overcome.
 
-**Strict and qualified satpuruṣa**
+**`Paryāyika / niṣparyāya satpuruṣatva` — qualified and strict good-personhood**
 
 The Bhāṣya acknowledges that other trainees may also be called good persons in a qualified or contextual sense because they possess restraint from five forms of wrongdoing and have largely abandoned the unwholesome.
 

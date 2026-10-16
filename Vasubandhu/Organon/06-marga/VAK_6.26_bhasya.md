@@ -1,77 +1,135 @@
-# VAK_6.26 Bhāṣya — Dharma then Anvaya; Four Truths
+# VAK_6.26 Bhāṣya — Dharma and Anvaya in the Four Truths
 
 ## 1. Kārikā Anchor
 
 > kāmaduḥkhe tato 'traiva dharmajñānaṃ tathā punaḥ |
 > śeṣe duḥkhe 'nvayakṣāntijñāne satyatraye tathā || 6.26 ||
 
-Literal (from the kārikā study):
+> Immediately after Dharma-Knowing-Acceptance concerning desire-realm
+> suffering, Dharma-Knowing arises with that same suffering as its cognitive
+> Condition. Anvaya-Knowing-Acceptance then takes the suffering of the form
+> and formless realms together as its Condition, followed by Anvaya-Knowing.
+> This four-moment order occurs again for origin, cessation, and Path,
+> each moment arising immediately after the last and all remaining
+> uncontaminated.
 
-> Thereafter, with regard to suffering in the desire-domain, Dharma-Knowledge
-> [arises] here itself. Then likewise again, with regard to the remaining
-> suffering, [arise] Anvaya-Acceptance and Knowledge. It is likewise with regard
-> to the three Truths.
+The commentary expands the verse's ellipses into an ordered series of
+Acceptance and Knowing for each Truth and domain range.
 
-Kārikā study: [`VAK_6.26.md`](./VAK_6.26.md). Next: 6.27, sixteen-citta abhisamaya.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+tato 'traiva dharmajñānaṃ
 
-> tato 'traiva dharmajñānam / … anantaram atraiva kāmāvacare duḥkhe dharmajñānam utpadyate /
-> anāsravādhikāraḥ sarvatra veditavyaḥ /
-> … śeṣe duḥkhe 'nvayakṣāntijñāne /
-> … rūpārūpyāvacare duḥkhe samastālambanānvayajñānakṣāntir utpadyate /
-> tato 'nvayajñānam utpadyate /
-> prathamato dharmatattvajñānād dharmajñānam / tad anvayād ūrdhvaṃ … anvayajñānam / tathaivānugamanāt /
-> satyatraye tathā // 6.26 //
-> … samanantarotpattikrameṇa …
+tataḥ punarduḥkhe dharmajñānakṣānteranantaramatraia kāmāvacare duḥkhe dharmajñānamutpadyate /
 
-**Witness.** Pradhan 350|12–351|06. Voice: Vasubandhu. 6.27 at 351|07.
+tat duḥkhe dharmajñānamityucyate /
+anāsravādhikāraḥ sarvatra veditavyaḥ /
+
+yathā ca kāmāvacare duḥkhe dharmajñānakṣāntirdharmajñānaṃ cotpadyate
+
+     tathā punaḥ /
+
+     śeṣe duḥkhe 'nvayakṣāntijñāne
+
+duḥkhe dharmajñānānantaraṃ rūpārupyāvacare duḥkhe samastālambanānvayajñānakṣāntirutpadyate /
+
+sā duḥkhe 'nvayajñānakṣāntirityucyate /
+tato 'nvayajñānamutpadyate /
+
+tat duḥkhe 'nvaya jñānamityucyate /
+
+prathamatodharmatattvajñānāddharmajñānam /
+
+tadanvayādūrdhvaṃ duḥkhālambanamanvayajñānam /
+
+tathaivānugamanāt /
+
+yathā caitāni duḥkhasatye catvāri kṣāntijñānānyutpadyante
+
+     satyatraye tathā // VAkK_6.26 //
+
+duḥkhānvayajñānādanantaraṃ kāmāvacare samudaye dharmajñānakṣāntirutpadyate /
+
+tataḥ samudaye dharmajñānam /
+
+evaṃ samanantarotpattikrameṇa śeṣe samudaye 'nvayajñānakṣāntiḥ samudaye 'nvayajñānam kāmāvacaraduḥkhanirodhe dharmajñānakṣāntirnirodhe dharmajñānaṃ śeṣe nirodhe 'nvayajñānakṣāntirnirodhe 'nvayajñānaṃ kāmavacaraduḥkhapratipakṣamārge dharmajñānakṣāntirmārge dharmajñānaṃ śeṣe mārge 'nvayajñānakṣāntirmārge 'nvayajñānam /
+```
+
+This is the complete running unit at [350|12–351|06] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line
+breaks are editorial. The transmitted `atraia`, `anvaya jñānam`, and
+`kāmavacara` remain unregularized; their readings await collation. The
+next unit begins at [351|07].
 
 ## 3. Continuous Conventional Translation
 
-> Immediately after Dharma-Knowledge-Acceptance regarding desire-domain suffering,
-> Dharma-Knowledge arises on that same suffering. Uncontaminated status holds
-> throughout.
->
-> As that pair arises for desire-domain suffering, so for the remaining suffering:
-> Anvaya-Acceptance and Anvaya-Knowledge. After Dharma-Knowledge, Anvaya-Acceptance
-> takes form- and formless-domain suffering together as support; then Anvaya-
-> Knowledge. Dharma-Knowledge: first knowing the truth of the dharma. Anvaya-
-> Knowledge: the higher-domain object, because it follows in accordance with that.
->
-> As these four arise on the Truth of suffering, so on the other three. Immediately
-> after Anvaya-Knowledge of suffering: origin in the desire-domain, Acceptance then
-> Knowledge; then the Anvaya pair for remaining origin; then cessation; then Path.
-> Desire-domain Path-object: the Path that counters desire-domain suffering. The
-> order is immediately successive arising.
+Immediately after Dharma-Knowing-Acceptance concerning suffering in the
+desire-realm, Dharma-Knowing arises concerning that same suffering. It is
+called Dharma-Knowing regarding suffering. Uncontaminated status is to be
+understood throughout this sequence.
+
+As that Acceptance and Knowing arise concerning desire-realm suffering,
+so, concerning the remaining suffering, arise Anvaya-Knowing-Acceptance
+and Anvaya-Knowing. Immediately after Dharma-Knowing concerning suffering,
+Anvaya-Knowing-Acceptance arises with suffering in the form and formless
+realms taken together as its cognitive Condition. It is called
+Anvaya-Knowing-Acceptance regarding suffering; then Anvaya-Knowing arises
+regarding that suffering. Dharma-Knowing is named from the first knowing
+of the truth of the dharma. Anvaya-Knowing concerning higher suffering
+follows in accordance with that earlier knowing.
+
+As these four Acceptance and Knowing moments arise concerning the Truth
+of suffering, so they arise concerning the remaining three Truths.
+Immediately after Anvaya-Knowing of suffering arises
+Dharma-Knowing-Acceptance concerning desire-realm origin, followed by
+Dharma-Knowing concerning origin. The same immediate succession then
+gives Anvaya-Knowing-Acceptance and Anvaya-Knowing concerning remaining
+origin; Dharma-Knowing-Acceptance and Dharma-Knowing concerning cessation
+of desire-realm suffering; the Anvaya pair concerning remaining
+cessation; the Dharma pair concerning the Path that counters desire-realm
+suffering; and the Anvaya pair concerning the remaining Path.
 
 ## 4. Movement of the Commentary
 
-```text
-kṣānti → jñāna (same object)
-kāma-field = dharma pair; ūrdhva together = anvaya pair
-4 truths × 4 moments = 16
-anvaya = anugamana, not a second truth
-```
+The Bhāṣya carries the first uncontaminated Acceptance of 6.25 into its
+succeeding Knowing, then moves to the corresponding higher-domain pair.
+It explains the `anvaya` designation by accordance with the prior
+realization and repeats the same immediately successive order for the
+other three Truths.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Pair = ["ksanti", "jnana"];
-type Unit = { dharma: Pair; anvaya: Pair }; // anvaya follows, does not infer
-type Seeing = Unit[]; // four truths, samanantara
-```
+**Translation decisions.** `Atraiva` holds the desire-realm suffering
+Condition constant for the first Dharma pair. `Śeṣe duḥkhe` gathers the
+form and formless realms as one `samastālambana`, a combined cognitive
+Condition. `Anvaya` marks following in accordance with prior Knowing;
+this passage does not require an inference from one realm to another.
+`Satyatraye tathā` extends the four-moment pattern to origin, cessation,
+and Path. The Bhāṣya explicitly says uncontaminated status holds
+throughout.
 
-Anvaya here is following-through. Inferential lock stays off.
+**Organon determination.** A reflective Model can register Truth, domain,
+cognitive Condition, moment function, purity, and immediate predecessor
+for each arising. The ordered correspondence across domain ranges is a
+feature of direct realization. This is project synthesis.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+## 6. Four Moments for Each Truth
 
-- `atraiva` = same kāma-duḥkha;
-- `śeṣe` = rūpa+ārūpya as samasta;
-- ānantarya/vimukti names wait for 6.28.
+| Order | Moment | Cognitive Condition |
+|---|---|---|
+| 1 | Dharma-Knowing-Acceptance | Desire-realm form of the Truth |
+| 2 | Dharma-Knowing | The same desire-realm Truth |
+| 3 | Anvaya-Knowing-Acceptance | Higher-domain form of the Truth, taken together |
+| 4 | Anvaya-Knowing | The same combined higher-domain Truth |
+
+The Bhāṣya applies this sequence in immediate succession to suffering,
+origin, cessation, and Path. Its Path clause specifies the counteraction
+of desire-realm suffering for the Dharma pair.
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 350|12–351|06.
-Verse-English from [`VAK_6.26.md`](./VAK_6.26.md) §5 Literal. Provisional.
-Next: 6.27, then siesta.
+The complete source unit [350|12–351|06] is present, including the
+explicit enumeration for the remaining three Truths. Uneven transmitted
+forms are marked for collation. The kārikā anchor exactly matches the
+study's Bhāṣya-informed translation.

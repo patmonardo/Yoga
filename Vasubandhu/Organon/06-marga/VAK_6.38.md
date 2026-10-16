@@ -1,21 +1,24 @@
-# VAK 6.38 — Routes of Ascent, Formless Destination, and Completion Here
+# VAK_6.38 — Routes of Ascent, Formless Destination, and Completion Here
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 स प्लुतोऽर्धप्लुतः सर्वच्युतश्चान्यो भवाग्रगः ।
 आरूप्यगश्चतुर्धान्य इह निर्वापकोऽपरः ॥ ६.३८ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 sa pluto 'rdha-plutaḥ sarva-cyutaś cānyo bhavāgragaḥ |
 ārūpyagaś caturdhānya iha nirvāpako 'paraḥ || 6.38 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The Akaniṣṭha-bound upward-streamer has three possible routes. The verse
+then adds an upward course to the summit of existence, a fourfold
+formless-realm type, and completion in this life.
 
-**Padaccheda**
-
-saḥ | plutaḥ | ardha-plutaḥ | sarva-cyutaḥ | ca | anyaḥ | bhava-agra-gaḥ |
-ārūpya-gaḥ | caturdhā | anyaḥ | iha | nirvāpakaḥ | aparaḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -32,7 +35,14 @@ saḥ | plutaḥ | ardha-plutaḥ | sarva-cyutaḥ | ca | anyaḥ | bhava-agra-g
 | **nirvāpakaḥ** | masculine nominative singular | one who attains extinction or final nirvāṇa |
 | **aparaḥ** | masculine nominative singular | another, a further type |
 
-The Bhāṣya controls the technical force of **sarvacyuta**, whose bare etymology could mislead, and supplies the internal expansions of the compact taxonomy.
+```text
+saḥ | plutaḥ | ardha-plutaḥ | sarva-cyutaḥ | ca | anyaḥ | bhava-agra-gaḥ |
+ārūpya-gaḥ | caturdhā | anyaḥ | iha | nirvāpakaḥ | aparaḥ
+```
+
+The Bhāṣya controls the technical force of `sarvacyuta`, whose bare
+etymology could mislead, and expands the compact taxonomy. Its source
+verse reads `ārugyagaḥ` where this study has `ārūpyagaḥ`.
 
 ## 4. Grammar
 
@@ -42,15 +52,45 @@ The opening **saḥ** resumes the Akaniṣṭha-bound upward-streamer of VAK 6.3
 
 The verse lists routes and destinations. Their relation to mixed or unmixed dhyāna, insight or calm disposition, and the exact fourfold expansion are Bhāṣya determinations.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+UPWARD-STREAMER[MAXIMUM=Akaniṣṭha, ROUTE=leap|half-leap|all-stations]
+UPWARD-STREAMER[DHYĀNA=unmixed, MAXIMUM=summit-of-existence]
+NON-RETURNER[DESTINATION=formless, COMPLETION-MODE=one-of-four]
+NON-RETURNER[COMPLETION=present-life]
+```
+
+The kārikā names the types. The prose specifies the traversed stations,
+meditative conditions, and the fact that maximal destinations do not
+prescribe every practitioner's actual itinerary.
+
 ## 5. Translation
 
 ### Literal Translation
 
-That one is a leaper, a half-leaper, or one who passes through all [the stations]; another goes to the summit of existence. Another who goes to the formless realm is fourfold; a further one attains final nirvāṇa here.
+> That one is a leaper, a half-leaper, or one who passes through all
+> the stations; another goes to the summit of existence. Another who
+> goes to the formless realm is fourfold; a further one attains final
+> Nirvāṇa here.
 
 ### Bhāṣya-informed study translation
 
-The Akaniṣṭha-bound upward-streamer has three routes: one skips the intermediate stations, one skips only part of them, and one passes successively through them all. Another upward-streamer, whose dhyāna is unmixed, proceeds through the successive attainments to the summit of existence. The non-returner reborn in the formless realm is fourfold, while a further type reaches final nirvāṇa in this very life.
+> The Akaniṣṭha-bound upward-streamer may leap over the intervening
+> stations, skip only some, or pass through them all. Another
+> upward-streamer, whose dhyāna is unmixed, proceeds through higher
+> attainments toward the summit of existence. Akaniṣṭha and that summit
+> are maximal destinations, so final Nirvāṇa may come sooner. A
+> non-returner reborn in the formless realm has four completion modes.
+> A further type reaches final Nirvāṇa here, in this very life.
+
+### Translation note
+
+The Bhāṣya expands the three Akaniṣṭha routes, assigns unmixed dhyāna
+and a calm disposition to the summit-bound course, and explains both
+endpoints as maxima. It identifies the fourfold formless-realm type by
+the completion modes that remain available there and names the
+present-life completer `dṛṣṭadharmaparinirvāyin`.
 
 ## 6. Philosophical Translation
 
@@ -60,7 +100,7 @@ But no future trajectory is absolutely required: the remaining course may also b
 
 ## 7. Technical Vocabulary
 
-**Three Akaniṣṭha routes**
+**`Pluta / ardhapluta / sarvacyuta` — three Akaniṣṭha routes**
 
 The Akaniṣṭha-bound upward-streamer is threefold:
 
@@ -77,27 +117,27 @@ sarvacyuta
 
 These are route-differences within one fruit and one maximal destination. They do not name distinct Noble fruits.
 
-**pluta**
+**`Pluta` — leaper**
 
 The leaper is first reborn in a lower form-realm station and then, through the force of prior cultivation, reaches Akaniṣṭha without sinking into the intermediate stations. Its ascent is discontinuous with respect to the available loci.
 
-**ardhapluta**
+**`Ardhapluta` — half-leaper**
 
 The half-leaper enters the Pure-Abode sequence but bypasses one or more stations before Akaniṣṭha. The path traverses part of the articulated field rather than either skipping or occupying all of it.
 
-**sarvacyuta**
+**`Sarvacyuta` — traverser of every station**
 
 Here **sarvacyuta** must not be rendered from bare etymology as simply “fallen from everything.” The Bhāṣya explicitly explains the practitioner as passing through all relevant intermediate stations before entering Akaniṣṭha.
 
 The route remains strictly directional: the non-returner does not take a second birth in the same sphere and does not return to a lower state. This is **viśeṣagāmitva**, movement toward a superior condition.
 
-**bhavāgraga**
+**`Bhavāgraga` — summit-bound upward-streamer**
 
 Another upward-streamer has *bhavāgra*, the summit of existence, as the maximal destination. The Bhāṣya associates this route with unmixed dhyāna. The practitioner delights successively in the intervening attainments, traverses the form and formless stations, reaches the summit, and attains final nirvāṇa there.
 
 Akaniṣṭha and *bhavāgra* are maximal possible termini, not mandatory destinations in every case. Like “seven-at-most,” the designation fixes an upper bound; completion may occur earlier.
 
-**śamatha-carita and vipaśyanā-carita**
+**`Śamatha-carita / vipaśyanā-carita` — calm and insight dispositions**
 
 The Bhāṣya relates trajectory to cultivated contemplative disposition:
 
@@ -113,13 +153,13 @@ vipaśyanā-carita
 
 This is a local Abhidharma causal classification. It should not be expanded here into a claim that insight and calm universally entail these destinations.
 
-**ārūpyaga**
+**`Ārūpyaga` — formless-realm goer**
 
 The formless-realm non-returner is already detached from form and is reborn among the formless attainments. This type is fourfold: post-arising, effortful, effortless, or upward-streaming. The intermediate-state completion type is absent, consistently with the lack of an intermediate-state form-body in the formless trajectory.
 
 In this verse **ārūpya** names the literal formless existential realm and its attainments. It must remain distinct from the project's broader use of “formless” for transcendental non-fixation upon achieved forms.
 
-**iha nirvāpaka**
+**`Iha nirvāpaka` — one who completes here**
 
 The final type is the **dṛṣṭadharma-parinirvāyin**, one who attains final nirvāṇa here in the presently experienced existence. Its inclusion prevents the higher-domain map from becoming a compulsory metaphysical itinerary.
 

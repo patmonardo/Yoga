@@ -1,21 +1,24 @@
-# VAK 6.36 — The Final Interval and Crossing Beyond the Desire Realm
+# VAK_6.36 — The Final Interval and Crossing Beyond the Desire Realm
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 क्षीणसप्ताष्टदोषांश एकजन्मैकवीचिकः ।
 तृतीयप्रतिपन्नश्च सोऽनागामि नवक्षयात् ॥ ६.३६ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 kṣīṇa-saptāṣṭa-doṣāṃśa ekajanmaikavīcikaḥ |
 tṛtīya-pratipannaś ca so 'nāgāmi nava-kṣayāt || 6.36 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+Seven or eight grades abandoned mark the one-interval practitioner
+proceeding toward the third fruit. Destruction of all nine changes the
+designation to non-returner.
 
-**Padaccheda**
-
-kṣīṇa-sapta-aṣṭa-doṣa-aṃśaḥ | eka-janma | eka-vīcikaḥ |
-tṛtīya-pratipannaḥ | ca | saḥ | anāgāmī | nava-kṣayāt
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -28,7 +31,14 @@ tṛtīya-pratipannaḥ | ca | saḥ | anāgāmī | nava-kṣayāt
 | **anāgāmī** | masculine nominative singular | non-returner |
 | **nava-kṣayāt** | masculine ablative singular | because of or upon destruction of the ninth grade |
 
-The opening compounds jointly characterize the practitioner after seven or eight abandonments. The final ablative gives the causal threshold for non-returning.
+```text
+kṣīṇa-sapta-aṣṭa-doṣa-aṃśaḥ | eka-janma | eka-vīcikaḥ |
+tṛtīya-pratipannaḥ | ca | saḥ | anāgāmī | nava-kṣayāt
+```
+
+The opening compounds characterize the practitioner after seven or
+eight abandonments. The final ablative gives the causal threshold for
+non-returning.
 
 ## 4. Grammar
 
@@ -38,15 +48,43 @@ The pronoun **saḥ** preserves continuity: it is that same practitioner who bec
 
 The kārikā gives the grade-count, intermediate designations, candidate-status, and fruit-threshold. The two explanations of *vīci*, acquisition of the counter-faculty, domain-crossing, and the qualification concerning prior abandonment belong to the Bhāṣya.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PERSON[CURRENT-FRUIT=second, GRADES-ABANDONED=7|8,
+       COUNTER-FACULTY=acquired, REMAINING-BIRTHS=1]
+  → ROLE[one-interval, TARGET-FRUIT=third]
+PERSON[GRADES-ABANDONED=9]
+  → ROLE[fruit-established, FRUIT=third, NAME=non-returner]
+```
+
+The verse supplies the two grade ranges and names. The faculty and
+the requirement that a superior Path be present come from the prose.
+
 ## 5. Translation
 
 ### Literal Translation
 
-One in whom seven or eight portions of the faults have been exhausted is one-birth, one-interval, and proceeding toward the third [fruit]. From destruction of the ninth, that one is a non-returner.
+> One who has exhausted seven or eight portions of fault has one birth
+> remaining, is one-interval, and proceeds toward the third fruit. With
+> destruction of the ninth, that one is a non-returner.
 
 ### Bhāṣya-informed study translation
 
-After abandoning seven or eight grades of the desire-realm cultivation-removable afflictions, the once-returner becomes a one-interval practitioner and candidate for the third fruit, with only one birth remaining. When the ninth and final grade is destroyed, that same practitioner attains non-returning and will not return to the desire realm.
+> The once-returner who has abandoned seven or eight desire-realm
+> affliction grades, acquired the opposing uncontaminated faculty, and
+> has one birth remaining is one-interval, proceeding toward the third
+> fruit. One remaining grade can still bar that fruit because the Path
+> must cross a realm. When the ninth grade is destroyed, the practitioner
+> becomes a non-returner, with no further return to the desire-realm.
+
+### Translation note
+
+The three grounds for the one-interval designation, the domain-crossing
+argument, and the explanation of non-returning come from the Bhāṣya.
+Its `vīci` can point to the one remaining birth before Nirvāṇa or the
+one affliction grade before the third fruit. Previously abandoned grades
+do not confer this position until the superior Path becomes present.
 
 ## 6. Philosophical Translation
 
@@ -56,7 +94,7 @@ Destruction of the ninth grade is therefore more than the last addition to a sum
 
 ## 7. Technical Vocabulary
 
-**ekavīcika**
+**`Ekavīcika` — one-interval practitioner**
 
 The Bhāṣya glosses **vīci** as an interval or gap and preserves two related explanations:
 
@@ -70,7 +108,7 @@ Path-functional interval:
 
 Both express extreme proximity, but they should not be flattened into one identical count. The term relates remaining existence to remaining Path-work.
 
-**Three determining conditions**
+**`Prahāṇa / anāsravendriya / janma` — abandonment, faculty, birth**
 
 The Bhāṣya explains the one-interval position through three determinations:
 
@@ -83,11 +121,11 @@ seven or eight grades abandoned
 
 The Path-person is determined positively as well as negatively. Progress is not only subtraction of fault; it is acquisition of the uncontaminated capacity opposed to that fault.
 
-**tṛtīya-pratipanna**
+**`Tṛtīya-pratipanna` — candidate for the third fruit**
 
 After destruction of seven or eight grades, the practitioner is proceeding toward the third fruit, non-returning. The seventh and eighth abandonments belong to a renewed superior Path beyond the fruit of once-returning.
 
-**Actualized superior Path**
+**`Phalaviśiṣṭa-mārga / saṃmukhīkṛta` — superior Path made present**
 
 The Bhāṣya explicitly returns to the rule of VAK 6.32. If relevant grades had been abandoned before fruit-attainment, that stored condition does not immediately make the person *kulaṃkula* or *ekavīcika*. The Path superior to the attained fruit must be **made present** (*samukhīkṛta*).
 
@@ -100,17 +138,17 @@ prior abandonment
     → new candidate designation
 ```
 
-**dhātvatikrama**
+**`Dhātvatikrama` — crossing a realm**
 
 Why can one weak remaining grade obstruct the fruit? The Bhāṣya answers: because the transition is a **crossing beyond a domain**. The final grade is numerically small but structurally decisive. Until it is destroyed, the desire realm remains a possible domain of return.
 
 Here **dhātu** is the existential desire realm, not the eighteen cognition-domains of Chapter 1.
 
-**anāgāmin**
+**`Anāgāmin` — non-returner**
 
 Upon destruction of all nine desire-realm grades, the practitioner becomes a **non-returner** because there is no return to *kāmadhātu*. The third fruit is thus defined by complete desire-realm afflictive abandonment.
 
-**Five lower fetters**
+**`Pañcāvarabhāgīya-saṃyojana` — five lower fetters**
 
 The Bhāṣya also invokes abandonment of the five lower fetters. It warns that this is a grouped description: two or three had necessarily been abandoned earlier. The canonical formula summarizes a completed structure; it does not imply simultaneous destruction of all five at the final instant.
 

@@ -1,21 +1,24 @@
-# VAK 6.34 — First-Fruit Positions and Their Existential Bounds
+# VAK_6.34 — First-Fruit Positions and Their Existential Bounds
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 अक्षीणभावनाहेयः फलस्थः सप्तकृत्परः ।
 त्रिचतुर्विधमुक्तस्तु द्वित्रिजन्मा कुलंकुलः ॥ ६.३४ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 akṣīṇa-bhāvanā-heyaḥ phalasthaḥ saptakṛt-paraḥ |
 tri-catur-vidha-muktas tu dvi-tri-janmā kulaṃkulaḥ || 6.34 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The first fruit contains distinguishable positions: a stream-enterer with
+cultivation-abandonable grades remaining has a bounded course, while one
+who has abandoned three or four grades is family-to-family.
 
-**Padaccheda**
-
-akṣīṇa-bhāvanā-heyaḥ | phala-sthaḥ | sapta-kṛt-paraḥ |
-tri-catur-vidha-muktaḥ | tu | dvi-tri-janmā | kulam-kulaḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -25,9 +28,16 @@ tri-catur-vidha-muktaḥ | tu | dvi-tri-janmā | kulam-kulaḥ
 | **tri-catur-vidha-muktaḥ** | masculine nominative singular compound | freed from three or four grades |
 | **tu** | indeclinable | but; marks the second classification |
 | **dvi-tri-janmā** | masculine nominative singular compound | one having two or three births |
-| **kulam-kulaḥ** | masculine nominative singular technical designation | one going from family to family |
+| **kulaṃkulaḥ** | masculine nominative singular technical designation | one going from family to family |
 
-Both halves classify persons established in stream-entry. The kārikā correlates remaining cultivation-work with a bounded number of births; the detailed rationale belongs to the Bhāṣya.
+```text
+akṣīṇa-bhāvanā-heyaḥ | phala-sthaḥ | sapta-kṛt-paraḥ |
+tri-catur-vidha-muktaḥ | tu | dvi-tri-janmā | kulaṃ-kulaḥ
+```
+
+The source witness writes `kulaṅkulaḥ`; this study keeps the received
+`kulaṃkulaḥ` in its verse. Both halves classify positions in stream-entry;
+the Bhāṣya supplies the arguments for their birth bounds.
 
 ## 4. Grammar
 
@@ -37,15 +47,42 @@ In the second half, **tu** contrasts a more advanced first-fruit position. **tri
 
 **para** in **sapta-kṛt-para** fixes an upper limit. It does not require exactly seven births. The compound is therefore construed as “seven at most.”
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PERSON[FRUIT=stream-entry, RESIDUE=cultivation-abandonable]
+  → TYPE[seven-at-most, MAX-BIRTHS=7]
+PERSON[FRUIT=stream-entry, GRADES-ABANDONED=3|4]
+  → TYPE[family-to-family, REMAINING-BIRTHS=2|3]
+```
+
+The two birth constraints are given in the kārikā; the Bhāṣya explains
+their qualified scope and the unavailable five-grade resting position.
+
 ## 5. Translation
 
 ### Literal Translation
 
-One established in the fruit whose factors abandonable by cultivation are not exhausted is a seven-at-most. But one freed from three or four grades, having two or three births, is a family-to-family practitioner.
+> One established in the fruit whose factors abandonable by cultivation are
+> not exhausted is seven-at-most. But one freed from three or four grades,
+> having two or three births, is family-to-family.
 
 ### Bhāṣya-informed study translation
 
-A stream-enterer established in the first fruit while any cultivation-removable affliction remains is classified as one whose further births are bounded by seven at most. A stream-enterer already freed from three or four such grades is family-to-family, with only two or three births remaining.
+> A stream-enterer established in the first fruit with even one
+> cultivation-abandonable grade remaining is seven-at-most: seven bounds
+> further births without requiring them all. One who has abandoned three or
+> four grades is family-to-family, with two or three births remaining. The
+> stream is the Path toward Nirvāṇa, which ends suffering by removing the
+> obstruction to Nirvāṇa's attainment.
+
+### Translation note
+
+The prose makes `akṣīṇa` include even one grade remaining, reads `para`
+as an upper limit, and explains *srota-āpanna* through the stream of the
+Path. It also distinguishes ending suffering from producing Nirvāṇa.
+The count of births and the family-to-family designation are debated and
+qualified in the continuous Bhāṣya translation.
 
 ## 6. Philosophical Translation
 
@@ -55,7 +92,7 @@ Path-position therefore becomes existentially effective. As cultivation removes 
 
 ## 7. Technical Vocabulary
 
-**phalastha and bhāvanā-heya**
+**`Phalastha / bhāvanā-heya` — fruit-established / cultivation-abandonable**
 
 The **phalastha** here is established in stream-entry, the first Noble fruit. This completion of the Path of Seeing is compatible with remaining **bhāvanā-heya**, afflictions abandonable through cultivation:
 
@@ -67,19 +104,19 @@ Seeing completed
 
 Fruit and residual task are not contradictory determinations. They identify completion at one Path-level and incompletion at another.
 
-**srota-āpanna**
+**`Srota-āpanna` — stream-enterer**
 
 The Bhāṣya analyzes **srota-āpanna** as one who has entered or attained the stream. The stream is the Path directed toward Nirvāṇa (*nirvāṇa-srotas*). The designation is thus Path-functional: the person's course has acquired an irreversible orientation.
 
 Vasubandhu tests the precise boundary of this name against the initial “eighth person” and the already detached practitioner. His explanation associates full stream-entry with complete realization of the relevant stream, not merely first temporal contact with a Path moment.
 
-**saptakṛtvaḥparama**
+**`Saptakṛtvaḥparama` — seven at most**
 
 The **seven-at-most** practitioner is a stream-enterer with cultivation-removable affliction still remaining. Seven is a maximum causal range rather than a mandatory itinerary; liberation may occur sooner.
 
 The Bhāṣya discusses alternative analyses of what the scriptural number counts among gods, humans, and intermediate existences. The stable determination needed here is the upper bound, not one harmonized sectarian arithmetic.
 
-**The end of suffering**
+**`Duḥkhasyānta / tat-prāpti-vibandha` — end of suffering / obstruction to attainment**
 
 The stream-enterer will make an end beyond which no new suffering connected with rebirth occurs. The Bhāṣya clarifies that Nirvāṇa is not thereby produced. What is removed is the obstruction to its attainment (*tat-prāpti-vibandha*):
 
@@ -89,7 +126,7 @@ obstruction to attainment is removed
     → the end of suffering is accomplished
 ```
 
-**kulaṃkula**
+**`Kulaṃkula` — family-to-family**
 
 The **family-to-family** practitioner has abandoned three or four cultivation-removable grades and has two or three births remaining. The Bhāṣya distinguishes divine and human forms according to the domain in which those remaining births occur.
 
@@ -101,7 +138,7 @@ affliction-grades abandoned
     ↔ remaining birth-range
 ```
 
-**The five-six threshold**
+**`Pañca / ṣaṣṭha-prakāra` — the fifth and sixth grades**
 
 The Bhāṣya asks why abandonment of five grades does not define another family-to-family position. Once the fifth is abandoned, the sixth must also be abandoned because that one remaining grade cannot obstruct the next fruit. Thus three or four grades constitute the family-to-family range; five cannot remain a stable classification.
 

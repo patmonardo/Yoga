@@ -1,21 +1,24 @@
-# VAK 6.42 — Mixed Dhyāna and the Proper Granularity of Practice
+# VAK_6.42 — Mixed Dhyāna and the Proper Granularity of Practice
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 आकीर्यते चतुर्थं प्राक् निष्पत्तिक्षणमिश्रणात् ।
 उपपत्तिविहारार्थं क्लेशभीरुतयापि च ॥ ६.४२ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 ākīryate caturthaṃ prāk niṣpatti-kṣaṇa-miśraṇāt |
 upapatti-vihārārthaṃ kleśa-bhīrutayāpi ca || 6.42 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The fourth dhyāna is intermingled first; the verse then names
+moment-mixing and three purposes for the practice. The Bhāṣya tests
+whether the proposed moment-level completion is practicable.
 
-**Padaccheda**
-
-ākīryate | caturtham | prāk | niṣpattiḥ | kṣaṇa-miśraṇāt |
-upapatti-vihāra-artham | kleśa-bhīrutayā | api | ca
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -28,7 +31,15 @@ upapatti-vihāra-artham | kleśa-bhīrutayā | api | ca
 | **kleśa-bhīrutayā** | feminine instrumental singular | because of fear or wariness of affliction |
 | **api ca** | indeclinables | and also |
 
-The mounted research witness notes a reading issue around **caturthaṃ**; the kārikā and Bhāṣya construe the fourth dhyāna as the subject of mixing. The exact moment-mixing mechanism is not unqualified kārikā doctrine: the Bhāṣya attributes it to the Vaibhāṣikas and then restricts it.
+```text
+ākīryate | caturtham | prāk | niṣpattiḥ | kṣaṇa-miśraṇāt |
+upapatti-vihāra-artham | kleśa-bhīrutayā | api | ca
+```
+
+The source prints `niṣpatti` without a final visarga in its kārikā
+line; the study construes the noun as `niṣpattiḥ`. The moment-mixing
+mechanism is assigned to the Vaibhāṣikas in the prose and then
+challenged by Vasubandhu.
 
 ## 4. Grammar
 
@@ -38,15 +49,43 @@ The next phrase is best punctuated as **niṣpattiḥ kṣaṇa-miśraṇāt**: 
 
 **upapatti-vihārārtham** gives two purposes, rebirth and abiding. **kleśabhīrutayā api ca** adds another motivation, wariness of affliction. The Bhāṣya distributes these purposes according to practitioner-type and faculty strength.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+MIXED-DHYĀNA[GROUND=fourth, ORDER=first]
+COMPLETION[VAIBHĀṢIKA-GRAIN=moment, AUTHOR-GRAIN=three-streams]
+PURPOSE[REBIRTH|PRESENT-ABIDING|PROTECTION-FROM-AFFLICTION]
+  ← PRACTITIONER[FRUIT=non-returner|arhat, FACULTY=sharp|mild]
+```
+
+The verse states priority and purposes. The competing grains of
+completion and the purpose-to-practitioner allocation come from the
+Bhāṣya.
+
 ## 5. Translation
 
 ### Literal Translation
 
-The fourth [dhyāna] is mixed first; completion is through the mixing of moments—for the sake of rebirth and abiding, and also because of fear of the afflictions.
+> The fourth dhyāna is intermingled first; completion is through mixing
+> moments. This is for rebirth, for abiding, and also from fear of affliction.
 
 ### Bhāṣya-informed study translation
 
-The fourth dhyāna is intermingled first because it is maximally serviceable. Mixed dhyāna is cultivated to condition rebirth in the Pure Abodes, to provide pleasant abiding in the present life, and, for practitioners vulnerable to regression, to protect against renewed afflictive influence. The Vaibhāṣikas analyze its completion through exact alternation of contaminated and uncontaminated moments; Vasubandhu limits such moment-level control to a Buddha and accepts voluntary mastery of three continuous streams.
+> The fourth dhyāna is intermingled first because it is serviceable for
+> every task. The practice can support rebirth in the Pure Abodes,
+> pleasant abiding here, or protection from renewed affliction, according
+> to the practitioner's faculty and fruit. The Vaibhāṣikas locate its
+> completion in a contaminated moment between two uncontaminated ones;
+> Vasubandhu holds that only a Buddha could mix individual moments, so
+> for other practitioners completion is mastery of three continuous streams.
+
+### Translation note
+
+The Bhāṣya gives the fourth dhyāna's functional priority, sets out
+the Vaibhāṣika sequence, and then explicitly disputes its achievable
+temporal resolution. The three purposes are assigned differently to
+sharp- and mild-faculty non-returners and arhats. The source's uneven
+readings remain visible in the continuous Sanskrit.
 
 ## 6. Philosophical Translation
 
@@ -56,7 +95,7 @@ Yet formal precision must not be confused with realizable practice. A microscopi
 
 ## 7. Technical Vocabulary
 
-**Why the fourth dhyāna is first**
+**`Caturtha-dhyāna` — the fourth dhyāna mixed first**
 
 The Bhāṣya describes the fourth dhyāna as a samādhi capable of every function because it is supreme among pleasant modes of practice. Once it has been mixed, the other dhyānas can be mixed through its power.
 
@@ -66,7 +105,7 @@ fourth dhyāna mixed first
     → other dhyānas become mixable through its strength
 ```
 
-**vyavakiraṇa**
+**`Vyavakiraṇa` — intermingling**
 
 Mixed dhyāna alternates uncontaminated and contaminated forms of the same attainment. Both the Vaibhāṣika account and Vasubandhu's preferred account preserve this ordered alternation:
 
@@ -78,7 +117,7 @@ anāsrava
 
 The disagreement concerns the controllable temporal resolution of that structure.
 
-**The Vaibhāṣika procedure**
+**`Kṣaṇa-miśraṇa` — the Vaibhāṣika moment account**
 
 The reported preparation begins with continuous streams and progressively shortens them:
 
@@ -100,7 +139,7 @@ claimed completion:
 
 The Vaibhāṣikas compare the two uncontaminated moments with uninterrupted Paths and the third moment with a liberation Path. This imports the severance–release form into the analysis of meditative construction.
 
-**Vasubandhu's restriction**
+**`Pravāha-traya-samāpatti` — mastery of three streams**
 
 Vasubandhu responds that moment-by-moment intermingling is impossible for anyone other than a Buddha. He understands completion instead as the ability to enter the three larger streams at will:
 
@@ -114,19 +153,19 @@ voluntary mastery of three streams
 
 He does not reject alternation; he rejects attributing Buddha-level temporal control to an ordinary practitioner.
 
-**upapatti**
+**`Upapatti` — rebirth purpose**
 
 For the sharp-faculty non-returner, mixed dhyāna conditions rebirth in the Pure Abodes. Meditative formation thereby becomes a causal preparation of a later existential domain.
 
-**vihāra**
+**`Vihāra` — present abiding**
 
 For sharp-faculty non-returners and arhats, the practice also serves pleasant abiding in the presently experienced life. The same operation can therefore have a present experiential function as well as a future rebirth function.
 
-**kleśa-bhīrutā**
+**`Kleśa-bhīrutā` — wariness of affliction**
 
 The mild-faculty non-returner or arhat additionally cultivates mixed dhyāna from wariness of affliction. It distances samādhi associated with savoring and protects against falling away. This is not generalized anxiety; it is technically directed caution appropriate to a less stable faculty.
 
-**Practitioner-relative function**
+**`Indriya / phala / upapatti-vihārārtham` — faculty, fruit, and stated purposes**
 
 The operation does not possess one purpose in isolation:
 

@@ -1,32 +1,39 @@
-# VAK 6.30 — Prior Abandonment and the Direction toward Fruit
+# VAK_6.30 — Prior Abandonment and the Direction toward Fruit
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 यावत्पञ्चप्रकारघ्नौ द्वितीयेऽर्वाङ्नवक्षयात् ।
 कामाद्विरक्तावूर्ध्वं वा तृतीयप्रतिपन्नकौ ॥ ६.३० ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
-yāvat pañcaprakāraghnau dvitīye ’rvāṅ navakṣayāt |
+```text
+yāvat pañcaprakāraghnau dvitīye 'rvāṅ navakṣayāt |
 kāmād viraktāv ūrdhvaṃ vā tṛtīyapratipannakau || 6.30 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The same two followers traverse Seeing with different degrees of prior
+detachment. The Bhāṣya maps those degrees to the fruit each approaches.
 
-**Padaccheda**
+## 3. Lexical Analysis
 
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `yāvat` | indeclinable | up to; sets the upper limit of five previously abandoned grades |
+| `pañca-prakāra-ghnau` | masculine nominative dual compound | the two who have destroyed as many as five grades |
+| `dvitīye` | neuter locative singular | toward the second fruit, with *phale* understood |
+| `arvāk nava-kṣayāt` | adverb with ablative singular | short of destruction of all nine grades |
+| `kāmāt` | ablative singular | from the desire-realm |
+| `viraktau` | masculine nominative dual | the two detached or free from attachment |
+| `ūrdhvam vā` | adverb plus alternative particle | or [with detachment extending] higher |
+| `tṛtīya-pratipannakau` | masculine nominative dual compound | the two proceeding toward the third fruit |
+
+```text
 yāvat | pañca-prakāra-ghnau | dvitīye | arvāk | nava-kṣayāt |
 kāmāt | viraktau | ūrdhvam | vā | tṛtīya-pratipannakau
-
-| Form | Analysis | Contextual force |
-|---|---|---|
-| **yāvat** | indeclinable | up to; sets the upper limit of five previously abandoned grades |
-| **pañca-prakāra-ghnau** | masculine nominative dual compound | the two who have destroyed as many as five grades |
-| **dvitīye** | neuter locative singular | toward the second fruit, with *phale* understood |
-| **arvāk nava-kṣayāt** | adverb with ablative singular | short of destruction of all nine grades |
-| **kāmāt** | ablative singular | from the desire-domain |
-| **viraktau** | masculine nominative dual | the two detached or free from attachment |
-| **ūrdhvam vā** | adverb plus alternative particle | or [with detachment extending] higher |
-| **tṛtīya-pratipannakau** | masculine nominative dual compound | the two proceeding toward the third fruit |
+```
 
 The dual forms continue to refer to the Faith-Follower and Dharma-Follower. The kārikā is elliptical at the boundary between the first- and second-fruit ranges; the Bhāṣya explicitly supplies the omitted classification.
 
@@ -36,9 +43,9 @@ The opening **yāvat pañcaprakāraghnau** carries forward the predicate from 6.
 
 The next construction, **dvitīye ’rvāṅ navakṣayāt**, supplies a new fruit-position short of complete ninefold destruction. The Bhāṣya restricts this otherwise compressed interval to six, seven, or eight grades: “[they are candidates] for the second [fruit] before destruction of the ninth.”
 
-In **kāmād viraktau**, the ablative marks the domain from which attachment has been removed. Complete desire-domain detachment requires abandonment of all nine grades. **ūrdhvaṃ vā** extends the possible prior detachment into higher levels.
+In **kāmād viraktau**, the ablative marks the domain from which attachment has been removed. Complete desire-realm detachment requires abandonment of all nine grades. **ūrdhvaṃ vā** extends the possible prior detachment into higher levels.
 
-**tṛtīyapratipannakau** is the final shared predicate: in either case—complete desire-domain detachment or detachment extending higher—the two are candidates proceeding toward the third fruit.
+**tṛtīyapratipannakau** is the final shared predicate: in either case—complete desire-realm detachment or detachment extending higher—the two are candidates proceeding toward the third fruit.
 
 The Bhāṣya-controlled construe is therefore:
 
@@ -48,15 +55,47 @@ six through eight destroyed → toward the second fruit;
 all nine, or detachment higher → toward the third fruit.
 ```
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+FOLLOWERS[PRIOR-DESIRE-REALM-GRADES-ABANDONED=0..5,
+          TARGET=stream-entry]
+  ← yāvat pañcaprakāraghnau
+FOLLOWERS[PRIOR-DESIRE-REALM-GRADES-ABANDONED=6..8,
+          TARGET=once-return]
+  ← dvitīye 'rvāṅ navakṣayāt
+FOLLOWERS[PRIOR-DESIRE-REALM-GRADES-ABANDONED=9|higher-detachment,
+          TARGET=non-return]
+  ← kāmād viraktāv ūrdhvaṃ vā tṛtīyapratipannakau
+```
+
+The prose supplies the precise grade ranges, the three fruit names, and
+the upper extent of higher detachment.
+
 ## 5. Translation
 
 ### Literal Translation
 
-The two who have destroyed as many as five grades [remain candidates for the first fruit]; short of destruction of the ninth, [they proceed] toward the second. When detached from the desire-domain, or [when detachment extends] higher, the two are proceeding toward the third [fruit].
+> Up to five grades destroyed, the two [still approach the first fruit];
+> short of destroying the ninth, [they approach] the second. Detached from
+> the desire-realm or higher, they approach the third fruit.
 
 ### Bhāṣya-informed study translation
 
-If the Faith-Follower and Dharma-Follower had previously abandoned zero through five grades of desire-domain cultivation-removable defilement, they remain candidates for stream-entry. If they had abandoned six, seven, or eight grades, they proceed toward once-return. If all nine grades had been abandoned—or prior detachment extends into higher levels—they proceed toward non-return.
+> The Faith-Follower and Dharma-Follower still proceed toward stream-entry
+> if a mundane path had previously abandoned no more than five grades of
+> desire-realm affliction. If it had abandoned six, seven, or eight grades,
+> they proceed toward once-return. If all nine desire-realm grades have
+> been abandoned, or detachment extends higher, they proceed toward
+> non-return. Their fifteen-moment Path of Seeing remains the same;
+> the prior degree of detachment determines the fruit approached.
+
+### Translation note
+
+The Bhāṣya explicitly fills the verse's first-fruit ellipsis, assigns
+six through eight grades to the second fruit, and names the three fruits.
+It extends the higher-detachment case as far as the Essence of Nothingness;
+that limit is kept in the continuous translation and vocabulary.
 
 ## 6. Philosophical Translation
 
@@ -66,11 +105,11 @@ The same universal operation therefore yields different prospective positions wi
 
 ## 7. Technical Vocabulary
 
-**prakāra**
+**`Prakāra` — grade of cultivation-abandonable affliction**
 
-Here **prakāra** is one grade within the ninefold division of cultivation-abandonable defilement. The explicit ninefold scheme is stated later, but the present verse already uses the grade-count as an operative variable.
+Here **prakāra** is one grade within the ninefold division of cultivation-abandonable affliction. The explicit ninefold scheme is stated later, but the present verse already uses the grade-count as an operative variable.
 
-The desire-domain classification is:
+The desire-realm classification is:
 
 ```text
 0–5 grades previously abandoned → first-fruit candidate
@@ -78,31 +117,31 @@ The desire-domain classification is:
 9 grades previously abandoned   → third-fruit candidate
 ```
 
-**pūrvaprahīṇa**
+**`Pūrvaprahīṇa` — previously abandoned**
 
-The Bhāṣya specifies that these grades were **previously abandoned** through a mundane path, before entry into the fifteen moments of Noble Seeing. They are not the seeing-abandonable defilements being removed by the present uncontaminated sequence.
+The Bhāṣya specifies that these grades were **previously abandoned** through a mundane path, before entry into the fifteen moments of Noble Seeing. They are not the seeing-abandonable afflictions being removed by the present uncontaminated sequence.
 
-**Why zero through five remain first-fruit candidates**
+**`Yāvat pañca` — through five grades, still the first fruit**
 
-Partial mundane abandonment through the fifth grade does not yet alter the Noble fruit immediately approached. Both followers remain candidates toward **srotaāpattiphala**, stream-entry.
+Partial mundane abandonment through the fifth grade does not yet alter the Noble fruit immediately approached. Both followers remain candidates toward **srotāpattiphala**, stream-entry.
 
 This is the point most easily lost in a surface reading of the compressed kārikā. The Bhāṣya's explicit prose must control the range.
 
-**dvitīyaphalapratipannaka**
+**`Dvitīyaphalapratipannaka` — approaching the second fruit**
 
-When six, seven, or eight desire-domain grades were already abandoned, the practitioner is proceeding toward the second fruit, **sakṛdāgāmiphala**, once-return.
+When six, seven, or eight desire-realm grades were already abandoned, the practitioner is proceeding toward the second fruit, **sakṛdāgāmiphala**, once-return.
 
 The phrase **arvāk navakṣayāt** sets the upper boundary: the second-fruit classification lasts only short of destruction of the ninth grade.
 
-**kāmadhātu-vairāgya**
+**`Kāmadhātu-vairāgya` — detachment from the desire-realm**
 
-With abandonment of the ninth grade, the practitioner is detached from the desire-domain. This complete desire-domain dispassion changes the prospective status to candidate for the third fruit.
+With abandonment of the ninth grade, the practitioner is detached from the desire-realm. This complete desire-realm dispassion changes the prospective status to candidate for the third fruit.
 
-**tṛtīyaphalapratipannaka**
+**`Tṛtīyaphalapratipannaka` — approaching the third fruit**
 
-The third fruit is **anāgāmiphala**, non-return. A practitioner who enters Seeing with all nine desire-domain grades already abandoned proceeds toward this fruit.
+The third fruit is **anāgāmiphala**, non-return. A practitioner who enters Seeing with all nine desire-realm grades already abandoned proceeds toward this fruit.
 
-**ūrdhvaṃ vā**
+**`Ūrdhvaṃ vā` — higher detachment**
 
 The Bhāṣya allows prior mundane detachment to extend still higher, as far as the Essence of Nothingness. Even then the practitioner within the fifteen moments remains a candidate for the third fruit rather than immediately becoming an arhat-candidate. The reason for that upper limit in fruit-status belongs to the following verse.
 
@@ -117,7 +156,7 @@ sharp faculty  → Dharma-Follower
 
 VAK 6.30 supplies prior abandonment as a second:
 
-| Prior desire-domain grades abandoned | Candidate-status |
+| Prior desire-realm grades abandoned | Candidate-status |
 |---|---|
 | 0–5 | first fruit: stream-entry |
 | 6–8 | second fruit: once-return |
@@ -197,7 +236,7 @@ ThirdFruitCandidate progressesToward NonReturnFruit
 Constraint: All candidate-types traverse the same fifteen-moment Path of Seeing.
 Constraint: Zero through five previously abandoned grades still imply first-fruit candidacy.
 Constraint: Six through eight previously abandoned grades imply second-fruit candidacy.
-Constraint: Complete desire-domain detachment implies third-fruit candidacy.
+Constraint: Complete desire-realm detachment implies third-fruit candidacy.
 BhāṣyaRule: Prior mundane abandonment is preserved as an input to Noble fruit-classification.
 ProjectRule: DeterminateEnd = InvariantPathRule appliedTo ActualBeginningState.
 ```

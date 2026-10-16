@@ -1,34 +1,42 @@
-# VAK 6.32 — Fruit as Position and Renewed Application as Transition
+# VAK_6.32 — Fruit as Position and Renewed Application as Transition
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 फले फलविशिष्टस्य लाभो मार्गस्य नास्त्यतः ।
 नाप्रयुक्तो विशेषाय फलस्थः प्रतिपन्नकः ॥ ६.३२ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 phale phalaviśiṣṭasya lābho mārgasya nāsty ataḥ |
 nāprayukto viśeṣāya phalasthaḥ pratipannakaḥ || 6.32 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+Attaining a fruit establishes a position. The Bhāṣya asks what renewed
+application is needed before the practitioner is again proceeding toward
+a further fruit.
 
-**Padaccheda**
+## 3. Lexical Analysis
 
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `phale` | neuter locative singular | when a fruit is being attained or while established in it |
+| `phala-viśiṣṭasya` | masculine genitive singular compound qualifying *mārgasya* | of the path distinguished beyond or superior to that fruit |
+| `lābhaḥ` | masculine nominative singular | attainment, acquisition |
+| `mārgasya` | masculine genitive singular | of the Path |
+| `na asti` | negated existential construction | is not present, is not attained |
+| `ataḥ` | indeclinable | therefore, for this reason |
+| `na aprayuktaḥ` | negative plus masculine nominative singular participial adjective | not [a candidate when] not applied or engaged |
+| `viśeṣāya` | masculine dative singular | toward further distinction, superiority, or higher attainment |
+| `phala-sthaḥ` | masculine nominative singular compound | one established in a fruit |
+| `pratipannakaḥ` | masculine nominative singular | one actively proceeding toward a fruit |
+
+```text
 phale | phala-viśiṣṭasya | lābhaḥ | mārgasya | na | asti | ataḥ |
 na | aprayuktaḥ | viśeṣāya | phala-sthaḥ | pratipannakaḥ
-
-| Form | Analysis | Contextual force |
-|---|---|---|
-| **phale** | neuter locative singular | when a fruit is being attained or while established in it |
-| **phala-viśiṣṭasya** | masculine genitive singular compound qualifying *mārgasya* | of the path distinguished beyond or superior to that fruit |
-| **lābhaḥ** | masculine nominative singular | attainment, acquisition |
-| **mārgasya** | masculine genitive singular | of the Path |
-| **na asti** | negated existential construction | is not present, is not attained |
-| **ataḥ** | indeclinable | therefore, for this reason |
-| **na aprayuktaḥ** | negative plus masculine nominative singular participial adjective | not [a candidate when] not applied or engaged |
-| **viśeṣāya** | masculine dative singular | toward further distinction, superiority, or higher attainment |
-| **phala-sthaḥ** | masculine nominative singular compound | one established in a fruit |
-| **pratipannakaḥ** | masculine nominative singular | one actively proceeding toward a fruit |
+```
 
 The double negative in the second line must be construed carefully: a fruit-established person **who has not applied himself toward further distinction is not** a candidate for a higher fruit.
 
@@ -48,15 +56,43 @@ a fruit-established person is not a further-fruit candidate
 until actively engaged toward further distinction.
 ```
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+ATTAINMENT[EVENT=present-fruit, EXCLUDES=simultaneous-superior-Path]
+  ← phale phalaviśiṣṭasya lābho mārgasya nāsty ataḥ
+PERSON[STATUS=fruit-established, APPLICATION=further-distinction-absent,
+       HIGHER-FRUIT-CANDIDATE=false]
+  ← nāprayukto viśeṣāya phalasthaḥ pratipannakaḥ
+```
+
+The prose generalizes the rule across fruits and states a local
+qualification involving third-dhyāna detachment and a lower supporting
+ground.
+
 ## 5. Translation
 
 ### Literal Translation
 
-When [one is established] in the fruit, there is no attainment of the Path superior to that fruit. Therefore, a fruit-established person who is not applied toward further distinction is not one proceeding [toward another fruit].
+> When a fruit is attained, the Path superior to that fruit is not
+> attained. Therefore, a person established in fruit without applying
+> himself toward further distinction is not proceeding toward another.
 
 ### Bhāṣya-informed study translation
 
-Attaining a Noble fruit does not simultaneously confer the superior Path leading beyond that fruit. Consequently, a person established in a fruit is not called a candidate for another fruit until that person undertakes renewed application toward further attainment.
+> At the sixteenth moment, even one who had previously abandoned five
+> desire-realm grades is established in stream-entry, rather than already
+> proceeding toward once-return. Attaining a fruit does not at that same
+> moment confer the Path leading beyond it. A fruit-established person is
+> called a candidate for another fruit only upon applying himself toward
+> further attainment. The same rule applies to the other fruits.
+
+### Translation note
+
+The Bhāṣya frames the rule as an answer to the five-grade case and
+generalizes it. It also records a specific third-dhyāna qualification,
+retained in the continuous translation rather than flattened into the
+general rule.
 
 ## 6. Philosophical Translation
 
@@ -66,7 +102,7 @@ Further movement requires a new practical determination. The practitioner must a
 
 ## 7. Technical Vocabulary
 
-**phalastha**
+**`Phalastha` — established in fruit**
 
 A **phalastha** is one established in an attained Noble fruit. This designation concerns achieved position:
 
@@ -78,7 +114,7 @@ completed Path-phase
 
 The position is real and sufficient under its own determination. It does not secretly contain every superior Path as already active.
 
-**pratipannaka**
+**`Pratipannaka` — proceeding toward fruit**
 
 A **pratipannaka** is one in whom a Path toward a determinate fruit is presently operative. The term is dynamic and teleological, not merely comparative: being below a higher fruit does not by itself make someone a candidate for it.
 
@@ -87,11 +123,11 @@ phalastha     = possesses an attained result
 pratipannaka  = actively traverses a Path toward a result
 ```
 
-**phalaviśiṣṭa-mārga**
+**`Phalaviśiṣṭa-mārga` — Path beyond the present fruit**
 
 The **Path superior to the fruit** is the new course capable of carrying the practitioner beyond the present attainment. The Bhāṣya states as a fixed rule (*niyama*) that fruit-attainment and acquisition of this superior Path do not occur as one event.
 
-**prayoga**
+**`Prayoga` — application toward further attainment**
 
 **Prayoga** is active application, engagement, or directed effort. After fruit-establishment, renewed application is required to constitute the next transition:
 
@@ -104,11 +140,11 @@ present fruit
 
 Elapsed time or passive possession of the current fruit cannot substitute for this operation.
 
-**viśeṣa**
+**`Viśeṣa` — further distinction**
 
 **Viśeṣa** here is further distinction or higher attainment. It supplies the new End toward which *prayoga* is directed. Application without such a determinate End would not constitute the superior Path in question.
 
-**General scope of the rule**
+**The rule across fruits**
 
 The Bhāṣya says the same rule applies to the other fruits. It is not an exceptional explanation confined to a stream-enterer who had previously abandoned five grades:
 
@@ -119,13 +155,13 @@ attain fruit N
     → become candidate toward fruit N+1
 ```
 
-**Technical qualification**
+**Third-dhyāna qualification**
 
 The Bhāṣya records a special case: one already detached from the third dhyāna who enters the determinate Noble order while relying upon a lower ground must necessarily make the superior Path present. The reason concerns later rebirth and possession of the pleasure faculty.
 
 This is a local qualification involving supporting ground and faculty. It does not cancel the general distinction between fruit-position and renewed transition.
 
-**ānupūrvika**
+**`Ānupūrvika` — the gradual sequence**
 
 At the end of the passage, Vasubandhu closes the classification of those entering the Noble order with varying degrees of prior detachment and announces the gradual or sequential case (*ānupūrvika*). This transition prepares the following analysis but does not belong to the kārikā's wording.
 

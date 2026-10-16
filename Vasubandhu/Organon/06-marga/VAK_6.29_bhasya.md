@@ -1,70 +1,115 @@
-# VAK_6.29 Bhāṣya — Gentle and Sharp Faculty; Proceeding to First Fruit
+# VAK_6.29 Bhāṣya — Two Followers Proceeding toward the First Fruit
 
 ## 1. Kārikā Anchor
 
 > mṛdutīkṣṇendriyau teṣu śraddhādharmānusāriṇau |
-> ahīnbhāvanāheyau phalādyupapratipannakau || 6.29 ||
+> ahīnabhāvanāheyau phalādyapratipannakau || 6.29 ||
 
-Literal (from the kārikā study):
+> During the fifteen moments of the Path of Seeing, a practitioner of gentle
+> faculty is a Faith-Follower, one who previously followed Meaning through
+> another's assurance. A practitioner of sharp faculty is a Dharma-Follower,
+> one who previously followed Meaning independently through the sūtras and
+> other dharmas. If neither has already abandoned cultivation-abandonable
+> afflictions through a mundane path, both remain fully bound and proceed
+> toward the first fruit, stream-entry.
 
-> Within those [moments], the persons of gentle and sharp faculties are
-> respectively the Faith-Follower and the Dharma-Follower. When the
-> cultivation-abandonable [defilements] have not been abandoned, the two are
-> proceeding toward the first fruit.
+The commentary classifies two practitioners within the same Seeing sequence
+by faculty, earlier access to Meaning, and prior abandonment.
 
-Kārikā study: [`VAK_6.29.md`](./VAK_6.29.md). Next: 6.30, prior abandonment changes the fruit.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+yathedānīmutpannāryamārgāṇāṃ pudgalānāṃ vyavasthānaṃ tathā vakṣyāmaḥ /
 
-> yathedānīm utpannāryamārgāṇāṃ pudgalānāṃ vyavasthānaṃ tathā vakṣyāmaḥ /
-> … pañcadaśa kṣaṇā … mṛdutīkṣṇendriyau teṣu śraddhādharmānusāriṇau /
-> mṛdvindriyas teṣu vartamānaḥ śraddhānusārīty ucyate / tīkṣṇendriyo dharmānusārī /
-> … pūrvaṃ parasaṃpratyayenārthānusaraṇāt /
-> … pūrvaṃ svayam eva sūtrādibhir dharmair arthānusaraṇāt /
-> ahīnbhāvanāheyau … / phalānām ādyaṃ srota-āpattiphalam … /
-> … sakalabandhanau … srota-āpattiphalapratipannakāv ucyete /
+ya ete darśanamārgasvabhāvāḥ pañcādaśa kṣaṇa uktā veditavyau
 
-**Witness.** Pradhan 353|12–353|22. Voice: Vasubandhu. 6.30 at 353|23.
+     mṛdutīkṣṇendriyau teṣu śraddhādharmānusariṇau /
+
+mṛddhindriyastesu vartamānaḥ śraddhānusārītyucyate /
+tīkṣṇendriyo dharmānusārīti /
+
+śraddhayānusāraḥ śraddhānusāraḥ /
+so 'syāstīti śraddhānusārī /
+
+śraddhayānusartuṃ śīlamasyeti vā /
+
+pūrvaṃ parasaṃpratyayenārthānusaraṇāt /
+evaṃ dharmānusārī /
+
+pūrvaṃ svayameva sūtrādibhirdharmairarthānusaraṇāt /
+
+tau punaḥ
+
+     ahīnabhāvanāheyau phalādyapratipannakau // VAkK_6.29 //
+
+phalānāmādyaṃ srota āpattiphalaṃ sarvaphalaprāptau tasya prathamatvāt /
+
+tāveva śraddhādharmānusāriṇau yadi pūrvaṃ laukikena mārgeṇāprahīṇabhāvanāheyau bhavataḥ sakalavandhanau to srota āpattiphalapratipannakāvucyete /
+```
+
+This is the complete running unit at [353|12–353|22] in
+`Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line
+breaks are editorial. The source has `phalādyapratipannakau`, replacing
+the extra `upa` in the prior study. Forms including `pañcādaśa kṣaṇa`,
+`mṛddhindriya`, `tesu`, `sakalavandhanau`, and `to` are retained as
+transmitted pending collation. The next unit starts at [353|23].
 
 ## 3. Continuous Conventional Translation
 
-> Now, how persons in whom the Noble Path has arisen are classified. In the fifteen
-> moments of the nature of Seeing: gentle faculty among them is called Faith-Follower;
-> sharp faculty, Dharma-Follower. Following by faith — that following is his; or he is
-> disposed to follow by faith. From formerly following meaning by another's assurance.
-> Likewise the Dharma-Follower: formerly following meaning by himself, through dharmas
-> such as the sūtras.
->
-> If those two have not abandoned what cultivation abandons, they proceed toward the
-> first fruit. First of the fruits: stream-entry, because it is first in the attaining of
-> the fruits. If Faith- and Dharma-Follower have not previously abandoned cultivation-
-> removable [defilements] by a mundane path, and remain fully bound, they are called
-> persons proceeding toward the fruit of stream-entry.
+The commentary now explains how persons in whom the Noble Path has arisen
+are classified. The fifteen moments described as belonging to the Path
+of Seeing are the relevant span. In them, one of gentle faculty is called
+a Faith-Follower, and one of sharp faculty is called a Dharma-Follower.
+A Faith-Follower follows by faith, or has a disposition to follow by
+faith. Earlier this person followed Meaning through another's assurance.
+The Dharma-Follower earlier followed Meaning independently through
+Dharma, such as the sūtras.
+
+When these two have not abandoned the afflictions that cultivation must
+abandon, they proceed toward the first fruit. The first of the fruits is
+stream-entry, because it comes first in the order of attaining the fruits.
+If neither follower previously abandoned cultivation-abandonable
+afflictions by a mundane path, both remain fully bound and are called
+practitioners proceeding toward the fruit of stream-entry.
 
 ## 4. Movement of the Commentary
 
-```text
-same 15 moments; two faculties → two names
-both followed artha; route differs (other / dharma-oneself)
-no prior bhāvanā-heya gone → pratipannaka to stream-entry
-```
+The Bhāṣya places both followers in the same fifteen Seeing moments,
+distinguishes them by gentle or sharp faculty, and explains their names
+through two earlier modes of following Meaning. It then adds the condition
+of no prior mundane abandonment and identifies their shared destination
+as the first fruit.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Follower = { faculty: "mrdu" | "tiksna"; followed: "artha" };
-// śraddhā ≠ mood; Seeing ≠ psychology seminar
-// pudgala here = path-slot, not a self we take
-```
+**Translation decisions.** `Teṣu` refers to the fifteen moments.
+`Śraddhānusārin` and `dharmānusārin` name the two faculty types; the
+prose makes both prior routes acts of following `artha`, Meaning.
+`Ahīnabhāvanāheyau` concerns afflictions that cultivation abandons,
+not the seeing-abandoned afflictions being countered in these moments.
+`Phalādyapratipannakau` marks progress toward the first fruit,
+stream-entry, without claiming that the fruit is already attained.
+The uneven readings listed above remain visible in the witness.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** A reflective Model can retain the invariant
+Seeing sequence while typing faculty, prior mode of following Meaning,
+prior abandonment, and prospective fruit separately. The practitioner
+classification depends on these relations. This is project synthesis.
 
-- `teṣu` = the fifteen;
-- first fruit = srota-āpatti;
-- `pratipannaka` ≠ already `phalastha`.
+## 6. Faculty, Meaning, and Fruit
+
+| Faculty | Practitioner | Prior following of Meaning |
+|---|---|---|
+| Gentle | Faith-Follower | Through another's assurance |
+| Sharp | Dharma-Follower | Independently through Dharma, including sūtras |
+
+When cultivation-abandonable afflictions have not previously been
+abandoned through a mundane path, both remain fully bound and proceed
+toward stream-entry. This is the candidate status, not possession of the
+fruit.
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 353|12–22.
-Verse-English from [`VAK_6.29.md`](./VAK_6.29.md) §5 Literal. Provisional.
-Next: 6.30.
+The complete source unit [353|12–353|22] is present. Uneven forms remain
+marked for collation. The kārikā anchor exactly matches the study's
+Bhāṣya-informed translation.

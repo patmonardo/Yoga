@@ -1,61 +1,100 @@
-# VAK 6.28 — Uninterrupted Path, Liberation Path, and the End of Seeing
+# VAK_6.28 — Uninterrupted Path, Liberation Path, and the End of Seeing
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 क्षान्तिज्ञानान्यनन्तर्यमुक्तिमार्गा यथाक्रमम् ।
 अदृष्टदृष्टेर्दृङ्मार्गस्तत्र पञ्चदश क्षणाः ॥ ६.२८ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 kṣāntijñānāny ānantaryamuktimārgā yathākramam |
 adṛṣṭadṛṣṭer dṛṅmārgas tatra pañcadaśa kṣaṇāḥ || 6.28 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+Acceptance and Knowing have distinct Path functions. The Bhāṣya then
+locates the boundary of the Path of Seeing at its fifteenth moment.
 
-**Padaccheda**
+## 3. Lexical Analysis
 
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `kṣānti-jñānāni` | neuter nominative plural coordinate compound | the eight Acceptances and eight Knowings |
+| `ānantarya-mukti-mārgāḥ` | masculine nominative plural coordinate predicate | uninterrupted paths and liberation paths |
+| `yathā-kramam` | indeclinable adverb | respectively, according to the stated order |
+| `adṛṣṭa-dṛṣṭeḥ` | genitive singular compound expressing reason or definition | because of seeing what had not been seen; seeing the previously unseen Truth |
+| `dṛk-mārgaḥ` | masculine nominative singular compound | Path of Seeing, equivalent to *darśanamārga* |
+| `tatra` | indeclinable | therein; within the sixteen-moment realization |
+| `pañcadaśa kṣaṇāḥ` | masculine nominative plural | fifteen moments |
+
+```text
 kṣānti-jñānāni | ānantarya-mukti-mārgāḥ | yathā-kramam |
 adṛṣṭa-dṛṣṭeḥ | dṛk-mārgaḥ | tatra | pañcadaśa | kṣaṇāḥ
+```
 
-| Form | Analysis | Contextual force |
-|---|---|---|
-| **kṣānti-jñānāni** | neuter nominative plural coordinate compound | the eight Acceptances and eight Knowledges |
-| **ānantarya-mukti-mārgāḥ** | masculine nominative plural coordinate predicate | uninterrupted paths and liberation paths |
-| **yathā-kramam** | indeclinable adverb | respectively, according to the stated order |
-| **adṛṣṭa-dṛṣṭeḥ** | genitive singular compound expressing reason or definition | because of seeing what had not been seen; seeing the previously unseen Truth |
-| **dṛk-mārgaḥ** | masculine nominative singular compound | Path of Seeing, equivalent to *darśanamārga* |
-| **tatra** | indeclinable | therein; within the sixteen-moment realization |
-| **pañcadaśa kṣaṇāḥ** | masculine nominative plural | fifteen moments |
-
-The distribution controlled by **yathākramam** is exact: the Acceptances are uninterrupted paths, and the Knowledges are liberation paths. The two members must not be assigned indiscriminately to both functions.
+The distribution controlled by **yathākramam** is exact: the Acceptances are uninterrupted paths, and the Knowings are liberation paths. The two members must not be assigned indiscriminately to both functions.
 
 ## 4. Grammar
 
 The first line is a nominal equation with coordinated subjects and predicates. **kṣāntijñānāni** names the two alternating kinds of moment; **ānantaryamuktimārgāḥ** supplies their respective path-functions; **yathākramam** explicitly enforces the one-to-one distribution.
 
-The second line defines **dṛṅmārgaḥ** by the genitive compound **adṛṣṭadṛṣṭeḥ**: it is the Path of Seeing because it sees what was previously unseen. This is not a definition by the mere occurrence of a novel temporal moment. The Bhāṣya clarifies that the relevant novelty belongs to the Truth as object.
+The second line defines **dṛṅmārgaḥ** by the genitive compound **adṛṣṭadṛṣṭeḥ**: it is the Path of Seeing because it sees what was previously unseen. This is not a definition by the mere occurrence of a novel temporal moment. The Bhāṣya clarifies that the relevant novelty belongs to the Truth as cognitive Condition.
 
 **tatra pañcadaśa kṣaṇāḥ** restricts the strict Path of Seeing to fifteen moments within the sixteen-moment direct realization. The verse therefore distinguishes the extension of *satyābhisamaya* from the extension of *darśanamārga*.
+
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PATH-MOMENT[NAME=Acceptance, FUNCTION=uninterrupted-path,
+            OPERATION=sever-afflictive-acquisition]
+  ← kṣānti + ānantaryamārga
+PATH-MOMENT[NAME=Knowing, FUNCTION=liberation-path,
+            RESULT=acquisition-of-disconnection]
+  ← jñāna + muktimārga + yathākramam
+PATH[NAME=Seeing, CRITERION=first-seeing-of-Truth, MOMENTS=1..15]
+  ← adṛṣṭadṛṣṭer dṛṅmārgas tatra pañcadaśa kṣaṇāḥ
+```
+
+The prose specifies the operations and assigns the sixteenth moment to
+the Path of Cultivation.
 
 ## 5. Translation
 
 ### Literal Translation
 
-The Acceptances and Knowledges are respectively uninterrupted paths and liberation paths. Because it sees what had not been seen, it is the Path of Seeing; therein are fifteen moments.
+> Acceptances and Knowings are, respectively, uninterrupted paths and
+> liberation paths. Seeing what had not been seen defines the Path of
+> Seeing; fifteen moments belong to it.
 
 ### Bhāṣya-informed study translation
 
-Each Acceptance is an uninterrupted path that directly severs possession of the corresponding affliction; each Knowledge is the ensuing liberation path that arises together with acquisition of disconnection. The sequence is called the Path of Seeing because it directly sees Truths not previously seen. Strictly, only the first fifteen moments belong to Seeing; the sixteenth begins the Path of Cultivation because the entire Truth-field has by then already been seen.
+> Each Acceptance is an uninterrupted path that severs possession of the
+> corresponding affliction; each ensuing Knowing is a liberation path
+> arising with acquisition of disconnection. This is the Path of Seeing
+> insofar as it sees a Truth not previously seen. Its first fifteen moments
+> run from Dharma-Knowing-Acceptance concerning suffering through
+> Anvaya-Knowing-Acceptance concerning Path. The sixteenth moment,
+> Anvaya-Knowing concerning Path, belongs to the Path of Cultivation:
+> it develops what has already been seen.
+
+### Translation note
+
+The Bhāṣya supplies severance and acquisition of disconnection as the
+paired operations. It explicitly identifies the fifteenth and sixteenth
+moments and distinguishes first seeing of a Truth from the novelty of a
+moment within the sequence.
 
 ## 6. Philosophical Translation
 
-Every realization-pair performs one complete operation. Acceptance interrupts the affliction's hold without interval; Knowledge establishes the achieved disconnection on that same object-field. The first moment removes the obstruction, and the second possesses the resulting freedom.
+Every realization-pair performs one complete operation. Acceptance interrupts the affliction's hold without interval; Knowing establishes the achieved disconnection on that same cognitive field. The first moment removes the obstruction, and the second possesses the resulting freedom.
 
 This operation is finite by its own End. The Path of Seeing exists only while some Truth remains not yet directly seen. By accomplishing its purpose at the fifteenth moment, it removes the condition under which it could continue as Seeing. The sixteenth moment must therefore become Cultivation: the development of the field already disclosed.
 
 ## 7. Technical Vocabulary
 
-**ānantaryamārga**
+**`Ānantaryamārga` — uninterrupted path**
 
 An **uninterrupted path** is a path-moment whose operation of severing the relevant afflictive acquisition cannot be interrupted. The Bhāṣya assigns this function to each **kṣānti**.
 
@@ -69,9 +108,9 @@ kleśaprāpti
 
 Kṣānti is therefore not ordinary patience or merely assent to a proposition. It is an uncontaminated counteractive operation.
 
-**muktimārga**
+**`Muktimārga` — liberation path**
 
-A **liberation path** is the Knowledge-moment arising immediately after the corresponding Acceptance. The Bhāṣya states that **visaṃyogaprāpti**, acquisition of disconnection, arises together with it:
+A **liberation path** is the Knowing-moment arising immediately after the corresponding Acceptance. The Bhāṣya states that **visaṃyogaprāpti**, acquisition of disconnection, arises together with it:
 
 ```text
 afflictive possession severed
@@ -79,9 +118,9 @@ afflictive possession severed
     → acquisition of disconnection
 ```
 
-The liberated field is not simply abandoned behind the process. Knowledge arises with that same object-support after doubt concerning it has been removed.
+The liberated field is not simply abandoned behind the process. Knowing arises with that same cognitive Condition after doubt concerning it has been removed.
 
-**Why both moments are necessary**
+**`Kṣānti` and `jñāna` — why both are necessary**
 
 The Bhāṣya compares the pair to expelling a thief and shutting the door:
 
@@ -92,22 +131,22 @@ jñāna  → shut the door
 
 Removal and established exclusion are inseparable but not identical. This explains why the sixteen-moment sequence alternates two functions instead of repeating synonymous cognitions.
 
-**Why afflictions may nevertheless be called “destroyed by Knowledge”**
+**`Jñānaparivāra` — why Knowing receives broader attribution**
 
-An objection notes that canonical language calls groups of fetters “destroyed by Knowledge.” Vasubandhu answers that the Acceptances belong to the retinue or complex of Knowledge (*jñānaparivāra*). An act performed by the king's retinue may conventionally be attributed to the king.
+An objection notes that canonical language calls groups of fetters “destroyed by Knowing.” Vasubandhu answers that the Acceptances belong to the retinue or complex of Knowing (*jñānaparivāra*). An act performed by the king's retinue may conventionally be attributed to the king.
 
 The broader attribution does not erase the strict functional distinction:
 
 ```text
 Acceptance performs the immediate severance.
-Knowledge is the governing realization-complex to which it belongs.
+Knowing is the governing realization-complex to which it belongs.
 ```
 
-**adṛṣṭadṛṣṭi**
+**`Adṛṣṭadṛṣṭi` — seeing what was previously unseen**
 
 The Path of Seeing is defined by seeing a Truth not previously directly seen. The Truths were heard, reflected upon, and cultivated in preparation; what is new is their uncontaminated direct disclosure.
 
-The object-structural criterion matters:
+The Truth-specific criterion matters:
 
 ```text
 a newly arisen moment ≠ a previously unseen Truth
@@ -115,27 +154,27 @@ a newly arisen moment ≠ a previously unseen Truth
 
 Otherwise every new moment would trivially renew the Path of Seeing.
 
-**Why fifteen moments**
+**`Pañcadaśa kṣaṇāḥ` — the fifteen moments of Seeing**
 
 The strict Path of Seeing extends:
 
 ```text
 moment 1:
-    Dharma-Knowledge-Acceptance concerning suffering
+    Dharma-Knowing-Acceptance concerning suffering
 
 through moment 15:
-    Anvaya-Knowledge-Acceptance concerning Path
+    Anvaya-Knowing-Acceptance concerning Path
 ```
 
 At the fifteenth moment, the final obstruction opposed to first seeing is severed. The complete Truth-field has now been directly seen.
 
-The sixteenth moment is Anvaya-Knowledge concerning Path. It remains part of the sixteen-moment direct realization but no longer performs a first seeing.
+The sixteenth moment is Anvaya-Knowing concerning Path. It remains part of the sixteen-moment direct realization but no longer performs a first seeing.
 
-**bhāvanāmārga**
+**`Bhāvanāmārga` — cultivation of what has been seen**
 
-The sixteenth moment begins the Path of Cultivation because it develops what has already been seen (*yathādṛṣṭābhyasana*). It functions as result and continues the established Knowledge-and-aspect structure.
+The sixteenth moment begins the Path of Cultivation because it develops what has already been seen (*yathādṛṣṭābhyasana*). It functions as result and continues the established Knowing-and-aspect structure.
 
-The first seven Knowledge-moments still count within the Path of Seeing because the total first-seeing operation is not yet complete. The eighth and final Knowledge differs because nothing remains unseen at the level of the Four-Truth sequence.
+The first seven Knowing-moments still count within the Path of Seeing because the total first-seeing operation is not yet complete. The eighth and final Knowing differs because nothing remains unseen at the level of the Four-Truth sequence.
 
 ## 8. Logical Determination
 
@@ -147,7 +186,7 @@ Acceptance {
     operation: sever AfflictivePossession
 }
 
-Knowledge {
+Knowing {
     pathType: LiberationPath
     operation: establish AcquisitionOfDisconnection
 }
@@ -180,7 +219,7 @@ In Organon terms, explicitly as project synthesis, this realizes the root princi
 
 ```text
 Beginning = a determinate unseen Truth and its afflictive obstruction
-Course    = Acceptance → Knowledge
+Course    = Acceptance → Knowing
 End       = Truth seen and disconnection established
 ```
 
@@ -188,19 +227,19 @@ The End governs the course from its beginning and, once achieved, changes the ki
 
 ## 9. Interpretive Note
 
-VAK 6.27 showed one realization through seeing, object-support, and accomplished function. VAK 6.28 identifies the microstructure of that function. Acceptance severs; Knowledge secures release. Every pair is a finite course of liberative action.
+VAK 6.27 showed one realization through seeing, cognitive Condition, and accomplished function. VAK 6.28 identifies the microstructure of that function. Acceptance severs; Knowing secures release. Every pair is a finite course of liberative action.
 
 This gives a precise Mārga form of the earlier Karma insight. Karma presented objective courses of action as proto-Dharma. Here the course becomes explicitly Truth-governed and self-terminating: it operates upon a determinate obstruction until its End has been accomplished.
 
 The Path of Seeing exemplifies why every movement requires an End. If first seeing were an infinite task, no Truth would become seen and Cultivation could never begin. Instead, Seeing contains a completion-condition. Fulfilment at the fifteenth moment is simultaneously the negation of further first-seeing and the positive genesis of Cultivation.
 
-The kārikā states the respective path-functions of Acceptance and Knowledge, defines Seeing by the previously unseen, and restricts it to fifteen moments. Severance of *kleśaprāpti*, acquisition of disconnection, the thief-and-door analogy, the defense of conventional attribution to Knowledge, and the classification of the sixteenth moment are Bhāṣya determinations. The Beginning–Course–End formulation is Organon synthesis.
+The kārikā states the respective path-functions of Acceptance and Knowing, defines Seeing by the previously unseen, and restricts it to fifteen moments. Severance of *kleśaprāpti*, acquisition of disconnection, the thief-and-door analogy, the defense of conventional attribution to Knowing, and the classification of the sixteenth moment are Bhāṣya determinations. The Beginning–Course–End formulation is Organon synthesis.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: AcceptanceMoment
-Class: KnowledgeMoment
+Class: KnowingMoment
 Class: UninterruptedPath
   SanskritLabel: ānantaryamārga
 Class: LiberationPath
@@ -227,7 +266,7 @@ AcceptanceMoment Facts:
   hasPathFunction UninterruptedPath
   severs AfflictivePossession
 
-KnowledgeMoment Facts:
+KnowingMoment Facts:
   hasPathFunction LiberationPath
   arisesWith AcquisitionOfDisconnection
 
@@ -239,10 +278,10 @@ PathOfSeeing Facts:
 FifteenthMoment completes PathOfSeeing
 SixteenthMoment initiates PathOfCultivation
 
-Constraint: Acceptance and Knowledge perform distinct but necessarily paired functions.
+Constraint: Acceptance and Knowing perform distinct but necessarily paired functions.
 Constraint: The Path of Seeing contains fifteen, not sixteen, moments.
-Constraint: Novelty of a moment does not entail that its Truth-object remains unseen.
-BhāṣyaRule: The first seven Knowledge-moments remain within Seeing because the total first-seeing sequence is unfinished.
+Constraint: Novelty of a moment does not entail that its Truth as cognitive Condition remains unseen.
+BhāṣyaRule: The first seven Knowing-moments remain within Seeing because the total first-seeing sequence is unfinished.
 ProjectRule: FinitePathOperation = determinate Beginning + ordered Course + completion-governed End.
 ProjectRule: Accomplishing an End terminates one movement and generates its successor.
 ```

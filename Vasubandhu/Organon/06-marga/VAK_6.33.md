@@ -1,33 +1,41 @@
-# VAK 6.33 — The Ninefold Refinement of Fault and Path
+# VAK_6.33 — The Ninefold Refinement of Fault and Path
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 नवप्रकारा दोषा हि भूमौ भूमौ तथा गुणाः ।
 मृदुमध्याधिमात्राणां पुनर्मृद्वादिभेदतः ॥ ६.३३ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 nava-prakārā doṣā hi bhūmau bhūmau tathā guṇāḥ |
 mṛdu-madhyādhimātrāṇāṃ punar mṛdv-ādi-bhedataḥ || 6.33 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The gradual analysis begins by grading both affliction and its opposing
+Path within each ground. The Bhāṣya explains the nine grades and their
+inverse pairing.
 
-**Padaccheda**
+## 3. Lexical Analysis
 
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `nava-prakārāḥ` | masculine nominative plural | having nine modes or grades |
+| `doṣāḥ` | masculine nominative plural | faults; here, afflictive factors to be abandoned |
+| `hi` | indeclinable | for, indeed; introduces the explanatory ground |
+| `bhūmau bhūmau` | feminine locative singular repeated distributively | in each ground or level |
+| `tathā` | indeclinable | likewise, in the same manner |
+| `guṇāḥ` | masculine nominative plural | qualities; the opposing Path-factors |
+| `mṛdu-madhya-adhimātrāṇām` | genitive plural compound | of the mild, medium, and strong grades |
+| `punaḥ` | indeclinable | again; marks recursive subdivision |
+| `mṛdu-ādi-bhedataḥ` | masculine ablative singular compound | because of differentiation beginning with mild |
+
+```text
 nava-prakārāḥ | doṣāḥ | hi | bhūmau bhūmau | tathā | guṇāḥ |
 mṛdu-madhya-adhimātrāṇām | punaḥ | mṛdu-ādi-bhedataḥ
-
-| Form | Analysis | Contextual force |
-|---|---|---|
-| **nava-prakārāḥ** | masculine nominative plural | having nine modes or grades |
-| **doṣāḥ** | masculine nominative plural | faults; here, afflictive factors to be abandoned |
-| **hi** | indeclinable | for, indeed; introduces the explanatory ground |
-| **bhūmau bhūmau** | feminine locative singular repeated distributively | in each ground or level |
-| **tathā** | indeclinable | likewise, in the same manner |
-| **guṇāḥ** | masculine nominative plural | qualities; the opposing Path-factors |
-| **mṛdu-madhya-adhimātrāṇām** | genitive plural compound | of the mild, medium, and strong grades |
-| **punaḥ** | indeclinable | again; marks recursive subdivision |
-| **mṛdu-ādi-bhedataḥ** | masculine ablative singular compound | because of differentiation beginning with mild |
+```
 
 The kārikā supplies the common ninefold scale. The Bhāṣya identifies the *guṇas* more precisely as the uninterrupted and liberation paths and explains their inverse pairing with the faults.
 
@@ -46,15 +54,43 @@ mild, medium, strong
 
 The verse itself states neither the order in which the faults are abandoned nor the exact pairing of Path-grade with fault-grade. Those are Bhāṣya determinations.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+GRADE[PRIMARY=mild|medium|strong, INTERNAL=mild|medium|strong]
+  ← mṛdumadhyādhimātrāṇāṃ punar mṛdvādibhedataḥ
+GROUND[FAULT-GRADES=9, OPPOSING-PATH-GRADES=9]
+  ← navaprakārā doṣā hi bhūmau bhūmau tathā guṇāḥ
+PAIRING[PATH-POWER=ascending, FAULT-STRENGTH=descending]
+  ← Bhāṣya: mṛdumṛdunā mārgeṇa ... adhimātrādhimātrasya kleśasya prahāṇam
+```
+
+The inverse pairing is supplied by the prose; the verse itself gives the
+recursive ninefold grading in each ground.
+
 ## 5. Translation
 
 ### Literal Translation
 
-For in each ground the faults are of nine kinds, and likewise the qualities, because the mild, medium, and strong are again differentiated beginning with mild.
+> In every ground, faults are of nine kinds, and so are the qualities,
+> because mild, medium, and strong are each divided again beginning
+> with mild.
 
 ### Bhāṣya-informed study translation
 
-In every relevant ground, the afflictions are arranged in nine grades, and the opposing uninterrupted and liberation Paths are graded in the same way. The nine arise because each of the three primary degrees—mild, medium, and strong—is itself divided into mild, medium, and strong.
+> In every ground through the summit of existence, afflictions and their
+> opposing uninterrupted and liberation Paths each have nine grades.
+> Mild, medium, and strong are each divided again into three. The mildest
+> Path removes the strongest affliction first; stronger Path grades then
+> remove increasingly subtle residues, until the strongest Path removes
+> the mildest affliction.
+
+### Translation note
+
+The Bhāṣya identifies the `guṇas` as the paired Path functions, extends
+the grading through the summit of existence, and gives the inverse order
+of Path-power and affliction. The cloth and light analogies remain in the
+continuous translation.
 
 ## 6. Philosophical Translation
 
@@ -64,7 +100,7 @@ Yet these series do not rise together. The coarse obstruction is exposed and rem
 
 ## 7. Technical Vocabulary
 
-**nava-prakāra**
+**`Nava-prakāra` — nine grades**
 
 The nine grades result from recursively applying one threefold distinction:
 
@@ -76,19 +112,19 @@ The nine grades result from recursively applying one threefold distinction:
 
 This is an ordered qualitative matrix, not a numerical measurement.
 
-**bhūmi**
+**`Bhūmi` — each ground**
 
 Here **bhūmi** is a ground or level within the graded path-field. The repeated locative gives distributive force. The Bhāṣya extends the recurrence as far as the summit of existence (*bhavāgra*).
 
-**doṣa**
+**`Doṣa` — fault or affliction**
 
 **Doṣa** denotes the fault or afflictive factor to be abandoned. The Bhāṣya treats the early object as coarse and powerful, while the final residue is mild but subtle. Magnitude and difficulty of discrimination must therefore be distinguished.
 
-**guṇa**
+**`Guṇa` — opposing Path quality**
 
 The Bhāṣya specifies the positive series as the qualities called **ānantarya-mārga** and **vimukti-mārga**: the uninterrupted Path that effects abandonment and the liberation Path that possesses the resulting disconnection. Each pair is graded within the ninefold progression.
 
-**Inverse correspondence**
+**Inverse correspondence — Path grade and fault grade**
 
 The Bhāṣya pairs Path-power and affliction in reverse order:
 
@@ -106,11 +142,11 @@ The Bhāṣya pairs Path-power and affliction in reverse order:
 
 The strongest Path cannot be present at the outset; once it is present, the strongest affliction cannot remain. The order must therefore be developmental rather than a direct matching of equal strengths.
 
-**Coarse and subtle**
+**Coarse and subtle — order of removal**
 
 Vasubandhu compares the process to cleaning cloth: coarse dirt is removed before subtle dirt. He also compares it to illumination: slight light dispels coarse darkness, while stronger light is required to eliminate subtle darkness. The final task is difficult not because its affliction is greater, but because its residue is finer.
 
-**Bright and dark dharmas**
+**Bright and dark dharmas — causal asymmetry**
 
 The Bhāṣya says that bright or wholesome dharmas are powerful whereas dark or unwholesome dharmas are weak. This explains why even a momentary mild Noble Path can uproot a strong affliction reinforced throughout beginningless saṃsāra. This is a local account of causal asymmetry, not a general metaphysics of good and evil.
 

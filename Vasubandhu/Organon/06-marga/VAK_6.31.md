@@ -1,34 +1,41 @@
-# VAK 6.31 — From Fruit-Candidate to Fruit-Established
+# VAK_6.31 — From Fruit-Candidate to Fruit-Established
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 षोडशे तु फलस्थौ तौ यत्र यः प्रतिपन्नकः ।
 श्रद्धाधिमुक्तदृष्ट्याप्तौ मृदुतीक्ष्णेन्द्रियौ तदा ॥ ६.३१ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 ṣoḍaśe tu phalasthau tau yatra yaḥ pratipannakaḥ |
 śraddhādhimuktadṛṣṭyāptau mṛdutīkṣṇendriyau tadā || 6.31 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The sixteenth moment establishes each follower in the fruit previously
+approached. Faculty persists, while the practitioner's designation changes.
 
-**Padaccheda**
+## 3. Lexical Analysis
 
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| `ṣoḍaśe` | locative singular | at the sixteenth moment of consciousness |
+| `tu` | transitional or contrastive particle | but, however; marks the change from candidacy to attained fruit |
+| `phala-sthau` | masculine nominative dual compound | the two established in a fruit |
+| `tau` | masculine nominative dual demonstrative | those two: the former Faith- and Dharma-Followers |
+| `yatra yaḥ pratipannakaḥ` | distributive relative construction | whichever fruit each had been proceeding toward |
+| `śraddhā-adhimukta-dṛṣṭi-āptau` | masculine nominative dual coordinate compound | the Faith-Resolved and the one Attained through Seeing |
+| `mṛdu-tīkṣṇa-indriyau` | masculine nominative dual compound | the practitioners of gentle and sharp faculties, respectively |
+| `tadā` | indeclinable | then, at the sixteenth moment |
+
+```text
 ṣoḍaśe | tu | phala-sthau | tau | yatra | yaḥ | pratipannakaḥ |
 śraddhā-adhimukta-dṛṣṭi-āptau | mṛdu-tīkṣṇa-indriyau | tadā
+```
 
-| Form | Analysis | Contextual force |
-|---|---|---|
-| **ṣoḍaśe** | locative singular | at the sixteenth cognitive moment |
-| **tu** | transitional or contrastive particle | but, however; marks the change from candidacy to attained fruit |
-| **phala-sthau** | masculine nominative dual compound | the two established in a fruit |
-| **tau** | masculine nominative dual demonstrative | those two: the former Faith- and Dharma-Followers |
-| **yatra yaḥ pratipannakaḥ** | distributive relative construction | whichever fruit each had been proceeding toward |
-| **śraddhā-adhimukta-dṛṣṭi-āptau** | masculine nominative dual coordinate compound | the Faith-Resolved and the one Attained through View |
-| **mṛdu-tīkṣṇa-indriyau** | masculine nominative dual compound | the practitioners of gentle and sharp faculties, respectively |
-| **tadā** | indeclinable | then, at the sixteenth moment |
-
-The kārikā's compact **dṛṣṭyāpta** is explained in the Bhāṣya through the standard designation **dṛṣṭiprāpta**, “one who has attained through seeing or view.” **śraddhādhimukta** is retained in Sanskrit because no single English rendering captures its technical range without possible overstatement.
+The kārikā's compact **dṛṣṭyāpta** is explained in the Bhāṣya through the standard designation **dṛṣṭiprāpta**, one who has attained through Seeing. **śraddhādhimukta** is retained in Sanskrit because no single English rendering captures its technical range without possible overstatement.
 
 ## 4. Grammar
 
@@ -45,15 +52,46 @@ tīkṣṇa-indriya → dṛṣṭiprāpta
 
 **tadā** links the new names to the same sixteenth-moment transition. The faculty remains; path-position and technical designation change.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PERSON[PRIOR=fruit-candidate, MOMENT=16, STATUS=fruit-established,
+       FRUIT=same-as-candidate-target]
+  ← ṣoḍaśe tu phalasthau tau yatra yaḥ pratipannakaḥ
+PERSON[PRIOR=Faith-Follower, FACULTY=gentle, NAME=śraddhādhimukta]
+  ← śraddhādhimukta + mṛdu-indriya + tadā
+PERSON[PRIOR=Dharma-Follower, FACULTY=sharp, NAME=dṛṣṭiprāpta]
+  ← dṛṣṭyāpta + tīkṣṇa-indriya + tadā
+```
+
+The prose names the three possible fruits and explains why arhatship is
+not attained immediately at this moment.
+
 ## 5. Translation
 
 ### Literal Translation
 
-But at the sixteenth [moment], those two are established in the fruit toward which each had been proceeding. Then the practitioners of gentle and sharp faculties are respectively the Faith-Resolved and the one Attained through View.
+> At the sixteenth moment, the two are established in whichever fruit each
+> had been approaching. Then the practitioners of gentle and sharp faculty
+> are respectively the Faith-Resolved and the one Attained through Seeing.
 
 ### Bhāṣya-informed study translation
 
-When the sixteenth cognitive moment arises, the Faith-Follower and Dharma-Follower cease to be candidates and become established in the particular fruit each had approached—stream-entry, once-return, or non-return. The gentle-faculty practitioner is then called *śraddhādhimukta*, Faith-Resolved, while the sharp-faculty practitioner is called *dṛṣṭiprāpta*, one who has attained through Seeing.
+> When the sixteenth moment of consciousness arises, the Faith-Follower and
+> Dharma-Follower cease to be candidates and stand in the fruit each had
+> approached: stream-entry, once-return, or non-return. The gentle-faculty
+> practitioner is then *śraddhādhimukta*, Faith-Resolved; the sharp-faculty
+> practitioner is *dṛṣṭiprāpta*, one who has attained through Seeing.
+> Arhatship is not reached at this first completion: Seeing leaves
+> cultivation-abandonable afflictions, and prior mundane detachment cannot
+> reach the summit of existence.
+
+### Translation note
+
+The Bhāṣya supplies the three possible fruits, the two reasons immediate
+arhatship is excluded, and the predominance of faith and resolve or Prajñā
+and Seeing in the new names. The running witness's damaged second kārikā
+line is preserved in the continuous Sanskrit section.
 
 ## 6. Philosophical Translation
 
@@ -63,11 +101,11 @@ The same continuum therefore receives a new name according to its accomplished s
 
 ## 7. Technical Vocabulary
 
-**pratipannaka**
+**`Pratipannaka` — proceeding toward fruit**
 
 A **pratipannaka** is one who has entered upon and proceeds toward a fruit. During the fifteen moments of the Path of Seeing, the fruit is the determinate End being approached, not yet the position occupied.
 
-**phalastha**
+**`Phalastha` — established in fruit**
 
 A **phalastha** is one established in a Noble fruit. At the sixteenth moment, candidacy ceases and each practitioner stands in the fruit already determined by the prior abandonment-state:
 
@@ -79,7 +117,7 @@ A **phalastha** is one established in a Noble fruit. At the sixteenth moment, ca
 
 The sixteenth moment does not select a new result arbitrarily. It actualizes the trajectory determined in 6.29–6.30.
 
-**śraddhādhimukta**
+**`Śraddhādhimukta` — Faith-Resolved**
 
 The gentle-faculty practitioner formerly called **śraddhānusārin** is now **śraddhādhimukta**. “Faith-Resolved” preserves the predominance of faith and decisive inclination without implying that every work of liberation has already been completed.
 
@@ -92,7 +130,7 @@ gentle faculty
     → śraddhādhimukta
 ```
 
-**dṛṣṭiprāpta**
+**`Dṛṣṭiprāpta` — attained through Seeing**
 
 The sharp-faculty practitioner formerly called **dharmānusārin** is now **dṛṣṭiprāpta**, one who has attained through Seeing or View. The Bhāṣya relates this designation to the predominance of Prajñā and *dṛṣṭi*.
 
@@ -105,7 +143,7 @@ sharp faculty
 
 The pair is not a contrast between irrational devotion and rational knowledge. It is a technical differentiation by predominating faculties within the attained Noble continuum.
 
-**Why immediate arhatship is excluded**
+**`Arhattva` — why immediate arhatship is excluded**
 
 The Bhāṣya states that arhatship cannot be attained immediately through this first completion of Seeing. It gives two reasons:
 
@@ -114,7 +152,7 @@ The Bhāṣya states that arhatship cannot be attained immediately through this 
 
 Seeing has a determinate scope: it abandons seeing-removable afflictions. Even extensive prior mundane detachment has a determinate upper limit. No admissible starting-state therefore makes immediate arhatship the fruit of this sixteenth moment.
 
-**Path-functional names**
+**Path-functional names — designation follows attained status**
 
 The same continuum passes through two designations:
 

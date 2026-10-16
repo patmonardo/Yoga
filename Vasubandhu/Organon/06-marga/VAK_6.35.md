@@ -1,21 +1,24 @@
-# VAK 6.35 — The Sixth Grade as the Second-Fruit Threshold
+# VAK_6.35 — The Sixth Grade as the Second-Fruit Threshold
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 आपञ्चमप्रकारघ्नो द्वितीयप्रतिपन्नकः ।
 क्षीणषष्ठप्रकारस्तु सकृदागाम्यसौ पुनः ॥ ६.३५ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 ā-pañcama-prakāra-ghno dvitīya-pratipannakaḥ |
 kṣīṇa-ṣaṣṭha-prakāras tu sakṛd-āgāmy asau punaḥ || 6.35 ||
+```
 
-## 3. Padaccheda and Lexical Analysis
+The verse follows the same fruit-established practitioner into the
+next Path: abandonment through the fifth grade marks candidacy for the
+second fruit; exhaustion of the sixth marks its attainment.
 
-**Padaccheda**
-
-ā-pañcama-prakāra-ghnaḥ | dvitīya-pratipannakaḥ |
-kṣīṇa-ṣaṣṭha-prakāraḥ | tu | sakṛt-āgāmī | asau | punaḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -27,7 +30,15 @@ kṣīṇa-ṣaṣṭha-prakāraḥ | tu | sakṛt-āgāmī | asau | punaḥ
 | **asau** | masculine nominative singular pronoun | that one; the practitioner under discussion |
 | **punaḥ** | indeclinable | again, in turn; advances the sequential classification |
 
-The first line predicates candidate-status throughout a range of abandonment. The second predicates fruit-status once its boundary is crossed.
+```text
+ā-pañcama-prakāra-ghnaḥ | dvitīya-pratipannakaḥ |
+kṣīṇa-ṣaṣṭha-prakāraḥ | tu | sakṛt-āgāmī | asau | punaḥ
+```
+
+The first line predicates candidate status throughout a range of
+abandonment; the second predicates fruit status at its threshold.
+The running source writes `dvitīyapratīpannakaḥ`, with a long `ī` in
+the second member; the study keeps the received `pratipannakaḥ`.
 
 ## 4. Grammar
 
@@ -37,15 +48,43 @@ In the contrasting clause, **kṣīṇa-ṣaṣṭha-prakāraḥ** is a possessi
 
 The verse itself states the grade-boundary. Its restriction to cultivation-abandonable desire-realm afflictions and the causal explanation of once-returning are supplied by the Bhāṣya.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PERSON[CURRENT-FRUIT=first, GRADES-ABANDONED=1..5]
+  → ROLE[candidate, TARGET-FRUIT=second]
+PERSON[CURRENT-FRUIT=first, SIXTH-GRADE=exhausted]
+  → ROLE[fruit-established, FRUIT=second, NAME=once-returner]
+```
+
+The source explicitly calls the first case a candidate and the second
+an attainer of the second fruit. The prior-fruit condition comes from
+the prose's `phalasthaḥ`, not from the isolated kārikā line.
+
 ## 5. Translation
 
 ### Literal Translation
 
-One who destroys up through the fifth grade is a candidate for the second [fruit]. But when the sixth grade is exhausted, that one in turn is a once-returner.
+> One who destroys up through the fifth grade is a candidate for the
+> second fruit. But when the sixth grade is exhausted, that one becomes
+> a once-returner.
 
 ### Bhāṣya-informed study translation
 
-A stream-enterer who, through renewed cultivation, has abandoned from one through five grades of the desire-realm cultivation-removable afflictions is proceeding toward the second fruit. With destruction of the sixth grade, that same practitioner attains the second fruit and becomes a once-returner.
+> The practitioner established in stream-entry who has abandoned any
+> one through five of the desire-realm cultivation-abandonable grades
+> proceeds toward the second fruit. When the sixth grade is exhausted,
+> that same practitioner attains the second fruit and is a once-returner:
+> after reaching the gods, there is one further coming to the human world.
+> Greed, hatred, and delusion have grown thin because only mild grades remain.
+
+### Translation note
+
+The Bhāṣya supplies the prior fruit-position, explicitly identifies
+sixth-grade exhaustion with attainment of the second fruit, and explains
+both the once-return name and attenuation of the three afflictions. The
+source's `pareṇa janmāghāvāt` is uneven; its precise contribution to the
+birth account remains provisional.
 
 ## 6. Philosophical Translation
 
@@ -55,7 +94,7 @@ This End is causally expressed in existence. With only mild afflictive grades re
 
 ## 7. Technical Vocabulary
 
-**dvitīya-pratipannaka**
+**`Dvitīya-pratipannaka` — candidate for the second fruit**
 
 The **candidate for the second fruit** is not a separate personal kind. It is the stream-enterer, already established in the first fruit, whose renewed cultivation has abandoned one through five grades:
 
@@ -68,7 +107,7 @@ first fruit possessed
 
 The Bhāṣya stresses the sequential context. The same number of prior abandonments can have a different classification when it occurs before the Path of Seeing; here the abandonments occur after stream-entry within the Path of Cultivation.
 
-**pratipannaka and phalastha**
+**`Pratipannaka / phalastha` — candidate / fruit-established**
 
 The verse instantiates the distinction established in VAK 6.32:
 
@@ -82,15 +121,15 @@ phalastha
 
 The same continuum can alternate between these determinations. Fruit-establishment is not a permanent personal identity, and candidacy is not merely the absence of a fruit; each names a present function in the Path.
 
-**ṣaṣṭha-prakāra**
+**`Ṣaṣṭha-prakāra` — sixth grade**
 
 The sixth cultivation-removable grade is the threshold of the second fruit. Its destruction is not merely another increment after the fifth. It completes the determinate course toward once-returning and changes the practitioner's classification.
 
-**sakṛdāgāmin**
+**`Sakṛdāgāmin` — once-returner**
 
 The **once-returner** is one who has attained the second fruit. The Bhāṣya explains the name through one further coming to the human world after existence among the gods. This remaining range externally manifests an internal causal condition rather than an arbitrary itinerary.
 
-**tanutva**
+**`Tanutva` — attenuation**
 
 The Bhāṣya says that greed, hatred, and delusion have become attenuated because only their mild grades remain. Thus:
 
@@ -138,7 +177,11 @@ In Organon terms, explicitly as project synthesis, grades one through five artic
 
 ## 9. Interpretive Note
 
-VAK 6.34 anticipated that abandonment of the fifth grade cannot form a stable resting position: the sixth must follow. VAK 6.35 states the positive result of that necessity. Up through five, the practitioner is still *pratipannaka*; with six exhausted, the practitioner is *phalastha* in the second fruit.
+VAK 6.34 excludes five abandoned grades as a family-to-family fruit
+classification; this verse does classify that case as a candidate
+proceeding toward the second fruit. Up through five, the practitioner is
+still *pratipannaka*; with six exhausted, the practitioner is *phalastha*
+in the second fruit.
 
 This is the objective genesis of the next Path-position. The result is neither externally conferred nor merely contemplated in advance. It arises when the cultivation-process has removed the precise obstruction defining the boundary. The achieved End then constrains Loka because the remaining afflictive morphology can sustain only a sharply reduced range of return.
 
