@@ -55,13 +55,11 @@ Ten are abandoned by cultivation, and five. The last three are threefold. Nothin
 
 ### Bhāṣya-informed study translation
 
-The ten of form, and the five cognition-principles, are abandoned by cultivation. The last three, in the order of recitation, are the mind-principle, the dharma-principle, and the mind-cognition principle. These three are of three kinds. The eighty-eight latent afflictions, what arises with them, their acquisitions, and their attendants are abandoned by seeing. The remaining Impure are abandoned by cultivation. The Pure are not abandoned.
-
-Is there not something else abandoned by seeing: ordinary-person status, and body and speech action leading to a bad destination, because they oppose the noble path? They are not abandoned by seeing. This is the summary. Nothing unafflicted is abandoned by seeing, nor form, nor what is not born from the sixth.
-
-Ordinary-person status is unafflicted and indeterminate. Even those whose wholesome roots are cut, and those freed from attachment, possess it. Body and speech action is form. Therefore it is not abandoned by seeing. And because there is no misapprehension concerning the truths, and because ordinary-person status would follow at the receptivity to dharma-knowledge concerning suffering.
-
-Nor what is not born from the sixth. The sixth is the mind-essence. What is born elsewhere, and what is born of the five organs, is not abandoned by seeing.
+The ten Form Principles and the five sensory Cognition Principles are
+abandoned by cultivation. The last three—the Mind, Dharma, and
+Mind-Cognition Principles—may be abandoned by seeing, abandoned by
+cultivation, or not abandoned. Nothing unafflicted or of Form, nor anything
+born apart from the sixth—the Mind Essence—is abandoned by seeing.
 
 ## 6. Philosophical Translation
 

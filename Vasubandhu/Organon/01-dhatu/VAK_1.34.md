@@ -49,13 +49,7 @@ Seven citta-principles take an object, and a half with respect to the dharma-pri
 
 ### Bhāṣya-informed study translation
 
-How many take an object, how many do not? The seven citta-principles take an object: the eye, ear, nose, tongue, and body cognition-principles, the mind-cognition principle, and the mind-principle. They take an object because they grasp a condition. And a half of the dharma-principle: the portion whose nature is the mental factors. So the ten whose nature is form, and the unassociated portion of the dharma-principle, do not take an object.
-
-How many are appropriated, how many unappropriated? Nine are unappropriated. Which nine? The seven just stated as taking an object, together with a half of the eighth, are recalled. Those eight, and sound: the seven citta-principles, the dharma-principle, and the sound-principle. The other nine are twofold, appropriated and unappropriated.
-
-Of these, eye, ear, nose, tongue, and body, when present, are appropriated. Past and future, they are unappropriated. The visible, smell, taste, and tangible principles, when present and not separate from the organ, are appropriated. The others are unappropriated: hair, body-hair, nails, and teeth apart from the root; feces, urine, saliva, mucus, blood, and the like; earth, water, and the like.
-
-What does appropriated mean? What citta and the mental factors have taken up as a basis, because they follow one another in benefit and injury. What the world calls animate.
+The seven mind-principles and the mental-factor portion of the dharma-principle take objects. Nine principles—the seven mind-principles, the dharma-principle, and sound—are unappropriated. The other nine may be appropriated or unappropriated, according to whether they are presently taken up as the living basis of consciousness.
 
 ## 6. Philosophical Translation
 

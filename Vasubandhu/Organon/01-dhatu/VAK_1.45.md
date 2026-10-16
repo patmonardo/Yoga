@@ -47,9 +47,10 @@ Because of being altered by their alteration, the eye and the rest are supports.
 
 ### Bhāṣya-informed study translation
 
-Cognition arises depending on both. Why are the eye and the rest alone called supports, and not visibles and the rest? Because of being altered by their alteration, the eye and the rest are supports. Principles is the governing topic. When the eye and the rest are altered, their cognitions are altered, following benefit or impairment, acuity or dullness. There is no such alteration from an alteration of visibles and the rest. Therefore, because the dependence is stronger, they alone are supports, not visibles and the rest.
-
-Why, though visibles and the rest are cognized by them, is it called eye-cognition through mind-cognition, and not form-cognition through dharma-cognition? Those, the eye and the rest, are their supports. Therefore, because they are not in common, cognition is designated by them. How are they not in common? An eye cannot be the support of another cognition. A visible, however, is the object of mind-cognition and of another eye-cognition as well. So through the body. Therefore, from being the support and from not being in common, cognition is designated by that very support, not by visibles and the rest, as drum-sound and barley-sprout.
+The Eye and the other Faculties are supports because their Cognitions change
+when they change. Cognition is named after its Faculty support because that
+support is specific to it, whereas visible Form can be apprehended by more
+than one Cognition.
 
 ## 6. Philosophical Translation
 

@@ -44,13 +44,16 @@ tatrākāśam anāvṛtiḥ
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
 The pure are the Truth of the Path and also the threefold unconditioned: space and the two cessations. Among these, space is non-obstruction.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-Which dharmas are pure? The Truth of the Path, and the threefold unconditioned. The three are space and the two cessations: cessation through discrimination, and cessation not through discrimination. These, together with the Truth of the Path, are the pure dharmas, because the *āsravas* do not persist in them. Space is non-obstruction. Its nature is non-obstruction. It is where form can move.
+The Truth of the Path, though conditioned, and the three unconditioned
+dharmas—space, cessation through discrimination, and cessation not through
+discrimination—are Pure because the *āsravas* do not persist in them. Among
+these, space is non-obstruction, where Form can move.
 
 ## 6. Philosophical Translation
 

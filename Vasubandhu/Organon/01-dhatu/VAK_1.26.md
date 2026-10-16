@@ -52,11 +52,7 @@ Some say the measure is a treatise; an exposition of each of the bases and the r
 
 ### Bhāṣya-informed study translation
 
-What is the measure of a dharma-collection? Some say a treatise is its measure. They mean the Abhidharma treatise named Dharmaskandha. That is six thousand. The unit is not stated.
-
-Others say: an exposition of each of the bases and the rest. An exposition of each of the bases, the essences, the principles, dependent arising, the truths, the nutriments, the concentrations, the immeasurables, the formless attainments, the liberations, the masteries, the totalities, the factors of awakening, the higher knowledges, the discriminations, knowledge through resolve, freedom from conflict, and the rest, is a dharma-collection.
-
-But a dharma-collection is described as a counteragent to a disposition. They explain it thus. Beings have eighty thousand dispositions, differentiated by attachment, hatred, delusion, pride, and the other dispositions. As counteragents to these, the Blessed One taught eighty thousand dharma-collections.
+Some take a treatise as the measure of one dharma-collection; others take the exposition of each aggregate and related topic as one. But a dharma-collection is described as the counteragent to a disposition: the Buddha taught eighty thousand such collections to counter the eighty thousand dispositions of beings.
 
 ## 6. Philosophical Translation
 

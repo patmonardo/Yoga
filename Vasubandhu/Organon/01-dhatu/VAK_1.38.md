@@ -58,13 +58,12 @@ The others are of three kinds. One is dravya-bearing. The last three are momenta
 
 ### Bhāṣya-informed study translation
 
-The others, the remaining four, visible, taste, smell, and tangible, are of three kinds: maturation-born, accumulative, and of homogeneous continuation. The unconditioned is dravya because it is the core. That is in the dharma-principle. Therefore the dharma-principle alone is dravya-bearing.
-
-The last three, in the order of recitation, are the mind-principle, the dharma-principle, and the mind-cognition principle. In the first Pure complex, the receptivity to dharma-knowledge concerning suffering, they are without homogeneous continuation for one moment. Therefore they are called momentary. No other conditioned dharma lacks homogeneous continuation. The citta associated with that receptivity is the mind-principle and the mind-cognition principle. The rest arising with it are the dharma-principle.
-
-Acquisition of the eye-principle and of the eye-cognition principle may be separate, and also together. The eye without the cognition: gradually acquiring the eye in the desire realm, or falling from the formless and being born in the second or a higher dhyāna. The cognition without the eye: born in the second or a higher dhyāna and bringing the eye-cognition to presence, or falling from there and being born below. Both: falling from the formless and being born in the desire realm or the Brahmā world. Neither: the other cases.
-
-Possession is fourfold in the same way. The particle also includes the same working for the eye-principle and visible, and for the eye-cognition principle and visible.
+The four remaining Principles—Visible Form, Taste, Smell, and Tangible—arise
+through maturation, reinforcement, or causal continuity. The Dharma Principle
+alone bears *dravya*, since it includes the unconditioned. The last three—the
+Mind, Dharma, and Mind-Cognition Principles—are momentary in the first Pure
+moment, when they lack causal continuation. The Eye Principle and the
+Eye-Cognition Principle may be acquired separately or together.
 
 ## 6. Philosophical Translation
 

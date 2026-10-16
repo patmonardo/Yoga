@@ -14,7 +14,7 @@
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | vijñānam | nominative neuter | cognition |
 | prativijñaptiḥ | nominative feminine | respective apprehension |
@@ -37,7 +37,10 @@ Cognition is respective apprehension. And that is the mind-essence. Seven princi
 
 ### Bhāṣya-informed study translation
 
-The cognition-base is apprehension with respect to each condition: six groups, from the eye-cognition to the mental cognition. Cognition-essence is mind-essence. Of the seven principles, six are cognition-principles, and the seventh cognition-principle is the mind-principle.
+The Cognition Base is apprehension with respect to each condition, occurring
+in six groups from Eye-Cognition through Mind-Cognition. That same Base is
+the Mind Essence in the Essence arrangement and, in the Principle arrangement,
+seven Principles: the six Cognition Principles and the Mind Principle.
 
 ## 6. Philosophical Translation
 
@@ -60,7 +63,12 @@ The base is cognition, respective apprehension, in six groups. The essence of th
 
 The close is five bases, twelve essences, eighteen principles.
 
-## 9. OWL++ Seed
+## 9. Interpretive Note
+
+The verse cross-classifies the Cognition Base as Mind Essence and seven
+Principles. The next verse specifies the support-role of the Mind Principle.
+
+## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .

@@ -14,14 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-jāti-gocara-vijñāna-sāmānyāt → from commonality of kind, range, and cognition
-eka-dhātutā                    → the status of one principle
-dvitve api                      → even in duality
-śobhā-artham                    → for the sake of beauty
-dvaya-udbhavaḥ                  → arising as a pair
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | jāti | compound member | kind; the nature of the eye |
@@ -58,7 +50,9 @@ From commonality of kind, range, and principle, there is the status of one princ
 
 ### Bhāṣya-informed study translation
 
-There are not twenty-one principles. The two eyes are one eye-principle, because both have the nature of the eye, both take visible form, and both are supports of one eye-principle. The same holds for ear and nose. That they arise as a pair is for the beauty of the support. Otherwise there would be great disfigurement.
+Although the eyes, ears, and nostrils occur in pairs, each pair counts as one
+Principle: its members share a kind, a range, and the Cognition they support.
+Yet they arise in pairs for the beauty of the bodily support.
 
 ## 6. Philosophical Translation
 

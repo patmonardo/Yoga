@@ -14,17 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-pṛthivī            → earth, the ordinary name
-varṇa-saṃsthānam  → color and configuration
-ucyate            → is called
-loka-saṃjñayā    → by worldly designation
-āpas tejaś ca     → water and fire too
-vāyus tu          → wind, however
-dhātur eva        → the principle itself
-tathāpi ca        → and yet also in that way
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | pṛthivī | nominative feminine | the worldly name |
@@ -67,12 +56,7 @@ fire too. Wind, however, is the principle itself — and yet also in that way.
 
 ### Bhāṣya-informed study translation
 
-What people point out as earth, water, or fire is color and configuration,
-not the corresponding principle. What the world calls wind may be the
-principled wind itself. Yet a blue storm or a circular storm is also called
-wind, by color or configuration. The commentary then asks why the whole
-series through *avijñapti* is called the form-base. The reason offered is
-being affected. The grounding of *avijñapti* remains contested.
+What ordinary speech calls earth, water, and fire is color and configuration, rather than the corresponding elements themselves. What it calls wind can be the wind-element itself, though wind can also be named from its visible color or configuration.
 
 ## 6. Philosophical Translation
 

@@ -43,13 +43,16 @@ The first line enumerates. The second defines the five faculties. They are clari
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
 Form is the five faculties, the five meanings, and *avijñapti*. The clarities of form, beginning with the eye, are supports of the corresponding cognition.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-The form-base is the five faculties — eye, ear, nose, tongue, body — the five meanings of those faculties, each its own, and *avijñapti*. The meanings are visible form, sound, odor, taste, and the tangible. The five are clarities of form. In order they support the cognition of visible form, of sound, of odor, of taste, and of the tangible. *Avijñapti* is named, not defined. The five meanings remain to be indicated.
+The Form Base comprises five Faculties—eye, ear, nose, tongue, and body—their
+five corresponding meanings—visible Form, sound, odor, taste, and the
+tangible—and *avijñapti*. The five Faculties are clarities of Form, each
+serving as the support of the Cognition corresponding to its meaning.
 
 ## 6. Philosophical Translation
 

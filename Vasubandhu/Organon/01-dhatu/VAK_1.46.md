@@ -51,13 +51,7 @@ The eye is not lower than the body. A visible is not higher than the eye. Cognit
 
 ### Bhāṣya-informed study translation
 
-Where one stands in a body and sees visibles by the eye, are the body, the eye, the visible, and the cognition of one plane only, or of other planes as well? He says: there is difference in all of them.
-
-For one born in the desire realm who sees his own visibles by his own eye, all are of his own plane. The next sentence is damaged: his own visibles, first-dhyāna planes, and all three of that plane are set side by side, and the construction is not kept. For one who sees his own visibles by an eye of the second dhyāna, body and visible are of his own plane, the eye of that plane, and cognition of the first dhyāna. For one who sees visibles of the first dhyāna, cognition and visible are of that plane, the body of the desire realm, and the eye of the second dhyāna. For one who sees visibles of the second dhyāna, eye and visible are of that plane, the body of the desire realm, and cognition of the first plane. So it is to be applied for one who, by an eye of the third or fourth dhyāna, sees visibles of that plane or of a lower plane.
-
-For one born in the first dhyāna who sees his own visibles by his own eye, all are of his own plane. When he sees lower visibles, three are of his own plane. When he sees visibles of his own plane by an eye of the second dhyāna, three are of his own plane and the eye of that plane. When he sees visibles of the desire realm, body and cognition are of his own plane, the visibles are lower, and the eye is of that plane. When he sees visibles of the second dhyāna, eye and visible are of that plane and the rest of his own. So it is to be applied with an eye of the third dhyāna. For one born in the second dhyāna or above, the cases of seeing visibles of his own plane or another, by an eye of his own plane or another, are to be applied as they fit.
-
-This, however, is the fixed rule. The eye is not lower than the body. Of whatever plane the body is, the eye is of that plane or of a higher plane, never of a lower. Of whatever plane the eye is, a visible of that plane or of a lower plane is its object. A visible is not higher than the eye. A visible of a higher plane can never be seen by an eye of a lower plane. Cognition too is not higher than the eye, as a visible is not. Relative to this cognition just stated, a visible is an object in every way: higher, lower, and of its own plane. And relative to the body, both, the visible and the cognition, are in every way.
+In seeing, the eye is of the body's plane or a higher one, never a lower one. Visible Form and Eye-Cognition cannot be of a plane higher than the eye's. Relative to Eye-Cognition, visible Form may be of a higher, lower, or the same plane; relative to the body, both visible Form and Eye-Cognition may be of any of those planes.
 
 ## 6. Philosophical Translation
 

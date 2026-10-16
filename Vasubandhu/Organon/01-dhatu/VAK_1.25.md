@@ -52,9 +52,7 @@ The eighty thousand dharma-collections which the Sage proclaimed — speech, or 
 
 ### Bhāṣya-informed study translation
 
-Other things designated in the sūtras as bases, essences, and principles are also found. Are they included in these very classifications, or do they stand apart? They are included in these very classifications. They do not stand apart.
-
-First, the eighty thousand dharma-collections which the Sage proclaimed. For those who hold that Buddha-word is speech by nature, they are included in the form-base. For those who hold that it is name by nature, they are included in the formations-base.
+The eighty thousand dharma-collections taught by the Sage are included in the stated aggregates: if the Buddha's word is speech by nature, they belong to the form aggregate; if it is name by nature, they belong to the formations aggregate.
 
 ## 6. Philosophical Translation
 

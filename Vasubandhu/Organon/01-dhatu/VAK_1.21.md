@@ -14,15 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-vivāda-mūla-saṃsāra-hetutvāt → because they are causes of the roots of dispute and of saṃsāra
-krama-kāraṇāt                → because of the reason of order
-caittebhyaḥ                  → apart from the other mental factors
-vedanā-saṃjñe                → feeling and reflection
-pṛthak-skandhau              → two distinct bases
-niveśitau                   → placed, established
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | vivāda-mūla | compound | roots of dispute |
@@ -57,7 +48,7 @@ Because they are causes of the roots of dispute and of saṃsāra, and because o
 
 ### Bhāṣya-informed study translation
 
-Feeling and reflection receive distinct bases because they are principal causes of the two roots of dispute. Savoring feeling leads to fixation upon sensual desire. Inverted reflection leads to fixation upon views. Both are also principal causes of saṃsāra. The order of the bases is a further reason, and it is explained next.
+Feeling and perception are placed in separate aggregates among the mental factors because they are principal causes of the roots of dispute and of saṃsāra: attachment to feeling leads toward sensual desire, and distorted perception toward views. Their place in the order of the aggregates is another reason for distinguishing them.
 
 ## 6. Philosophical Translation
 

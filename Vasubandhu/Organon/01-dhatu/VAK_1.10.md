@@ -45,13 +45,13 @@ Five counts. The twentyfold is the same visible form, not a second meaning and n
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
 Visible form is twofold and twentyfold. Sound, however, is eightfold. Taste is sixfold. Odor is fourfold. The tangible has eleven as its nature.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-Visible form is twofold, color and configuration, and the same is counted as twenty. Sound is eightfold. Taste is sixfold. Odor is fourfold. The tangible has eleven as its nature: the four great elements, and seven further. The counts are the verse. How a cognition takes one or many is the prose.
+Visible form is twofold, color and configuration, and is further counted in twenty kinds. Sound has eight kinds, taste six, and odor four. The tangible has eleven kinds: the four great elements and seven derived tangibles.
 
 ## 6. Philosophical Translation
 

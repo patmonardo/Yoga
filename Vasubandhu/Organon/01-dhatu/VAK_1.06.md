@@ -43,13 +43,17 @@ The first is attained through discrimination. The second is not. Neither is a co
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
 Cessation through discrimination is disjunction, separately and separately. The other cessation, not through discrimination, is the absolute obstruction of arising.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-Disjunction from impure dharmas is cessation through discrimination. Discrimination is a particular prajñā, the consideration of the Noble Truths, beginning with suffering. The expression drops the middle member, as in ox-cart. It is not one disjunction for all impure dharmas. There are as many disjunctions as there are conjunctions. The other cessation is the absolute obstruction of a future arising. It is not attained by that prajñā. It is got by deficiency of conditions.
+Cessation through discrimination is disjunction from Impure dharmas, attained
+separately in each case through the prajñā that discerns the Noble Truths:
+there are as many disjunctions as conjunctions. The other cessation, not
+attained through that discrimination, is the absolute obstruction of a future
+dharma's arising when its conditions are lacking.
 
 ## 6. Philosophical Translation
 

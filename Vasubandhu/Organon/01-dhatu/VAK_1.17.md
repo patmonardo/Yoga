@@ -14,14 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-ṣaṇṇām anantarātītam       → of the six, immediately past
-yad dhi                    → whichever, indeed
-tan manaḥ                  → that is mind
-ṣaṣṭha-āśraya-prasiddhi-artham → in order to establish the sixth support
-dhātavaḥ aṣṭādaśa         → eighteen principles
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | ṣaṇṇām | genitive plural | of the six |
@@ -56,9 +48,9 @@ Whichever cognition among the six is immediately past, that indeed is mind. The 
 
 ### Bhāṣya-informed study translation
 
-Mind is not a seventh cognition beside the six. Whichever of those six has just ceased is called mind, and called the mind-principle, in its office as support. The five have supports of their own. The mental cognition has no further support of that kind. Eighteen are taught so that this sixth support be established.
-
-The support does not require a successor. An arhat's final consciousness remains mind. Another cause is wanting, and no next cognition arises.
+Of the six Cognitions, whichever has just ceased is Mind, the Mind Principle
+in its role as support. Eighteen Principles are taught so that Mind may be
+established as the sixth support for Mind-Cognition.
 
 ## 6. Philosophical Translation
 

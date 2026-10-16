@@ -14,15 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-vikṣiptācittakasya   → vikṣipta + acittakasya
-api                  → even
-yo 'nubandhaḥ         → yaḥ + anubandhaḥ
-śubhāśubhaḥ           → śubha + aśubhaḥ
-mahābhūtāny upādāya → mahābhūtāni + upādāya
-sa hy avijñaptiḥ     → saḥ + hi + avijñaptiḥ + ucyate
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | vikṣipta-acittakasya | genitive singular | of one otherwise directed, or without consciousness |
@@ -63,13 +54,10 @@ absent: that indeed is called *avijñapti*.
 
 ### Bhāṣya-informed study translation
 
-*Avijñapti* is a wholesome or unwholesome stream. It continues when
-consciousness is directed elsewhere, in the two attainments without
-consciousness, and also while consciousness is present and not distracted.
-Dependence on the great elements distinguishes it from a similar stream of
-acquisition. It has the nature of form and action, and does not inform
-another as *vijñapti* does. In summary, it is wholesome or unwholesome form
-arisen from *vijñapti* or from absorption.
+The wholesome or unwholesome continuity that persists even when consciousness
+is directed elsewhere or absent—and also when it is present and undistracted—
+depends on the Great Elements and is called *avijñapti*. It is form and action
+that does not inform another as *vijñapti* does.
 
 ## 6. Philosophical Translation
 

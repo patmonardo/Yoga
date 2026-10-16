@@ -43,13 +43,13 @@ The first quarter divides. The second names the impure member. The third and fou
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
 Dharmas are impure and pure. Conditioned, excluding the Path, are impure, because the *āsravas* persist in them.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-This is the summary designation of all dharmas. They are impure and pure. The impure are the conditioned, excluding the Truth of the Path, because the *āsravas* persist through them. An *āsrava* may arise taking the Truth of Cessation or the Truth of the Path as its *ālambana*. It does not persist through those two. They are not thereby impure. How it does not persist there is deferred to the Exposition of the Anuśayas.
+The dharmas are impure or pure. The impure are the conditioned dharmas apart from the Truth of the Path, because the āsravas persist in them; the Path, though conditioned, is pure.
 
 ## 6. Philosophical Translation
 

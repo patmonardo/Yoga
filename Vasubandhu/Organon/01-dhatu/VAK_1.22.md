@@ -14,17 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-skandheṣu asaṃskṛtam → the unconditioned, among the bases
-na uktam            → is not stated
-artha-ayogāt       → because the meaning does not apply
-kramaḥ punaḥ         → the order, again
-yathā-audārika      → according to grossness
-saṃkleśa            → affliction
-bhājana-ādi-artha   → the meaning beginning with a vessel
-dhātutaḥ            → according to principle, as the levels
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | skandheṣu | locative plural | among the bases |
@@ -65,7 +54,10 @@ The unconditioned is not stated among the bases, because the meaning does not ap
 
 ### Bhāṣya-informed study translation
 
-A base is a collection. The unconditioned is not gathered that way, so it is neither one of the five nor a sixth base. It remains in the dharma-essence and the dharma-principle. The five are ordered from gross to subtle; by the progress of affliction; as vessel, food, seasoning, maker, and eater; and by the levels, from the desire-principle to the summit. For these reasons there are five, neither fewer nor more.
+The unconditioned is not counted among the Bases, since it cannot be gathered
+as a collection. The Bases are ordered by relative grossness, by the course
+of affliction, by their roles beginning with a vessel, and by the Principles
+of existence, from desire to the summit.
 
 ## 6. Philosophical Translation
 

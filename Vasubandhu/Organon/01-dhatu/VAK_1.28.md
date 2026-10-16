@@ -12,16 +12,9 @@
 >
 > vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ // 1.28 //
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-**Padaccheda**
-
-```text
-chidram | ākāśa-dhātu-ākhyam | āloka-tamasī | kila |
-vijñāna-dhātuḥ | vijñānam | sa-āsravam | janma-niśrayāḥ
-```
-
-| Form | Morphology | Force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | chidram | nominative neuter singular | opening, aperture |
 | ākāśa-dhātu-ākhyam | nominative neuter singular compound | named the space-principle |
@@ -77,16 +70,9 @@ Impure.
 
 ### Bhāṣya-informed study translation
 
-> In the six-principle teaching, the space-principle is an opening,
-> explained in a reported account through light and darkness. The cognition-
-> principle is Impure cognition. All six are supports of birth,
-> common to the course from rebirth-linking cognition through death
-> cognition.
-
-The Bhāṣya supplies the sixfold subject and the life-span explanation.
-Its final sentence also assigns the first four, the elements, to the tangible-
-principle, the fifth to the form-principle, and the sixth among the seven
-cognition-principles.
+> In the teaching of six Principles, an opening is called the Space Principle:
+> light and darkness, it is said. The Cognition Principle is Impure Cognition;
+> these six Principles are supports of birth.
 
 ## 6. Philosophical Translation
 

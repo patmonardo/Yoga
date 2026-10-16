@@ -52,13 +52,7 @@ Likewise the ear. Of the three, however, everything is of its own plane. Body-co
 
 ### Bhāṣya-informed study translation
 
-As this has been stated of the eye, so it is to be understood in detail of the ear. The ear is not lower than the body. Sound is not higher than the ear. Cognition too. Relative to this, sound. And relative to the body, both, in every way. It is to be applied in detail.
-
-Of the three, however, everything is of its own plane. Of the nose, tongue, and body, the organ, the object, and the cognition are of their own plane only. Having made the general rule with this distinction, an exception is begun in order to qualify it.
-
-Body-cognition is of a lower plane or its own. The body and the tangible are always of their own plane. Body-cognition is of its own plane for some, as for those born in the desire realm or the first dhyāna. Of a lower plane for some, as for those born in the second dhyāna or above.
-
-Mind is not fixed. Sometimes mind is of the same plane as the body, mind-cognition, and the dharmas. Sometimes of a higher or a lower plane. For even in a body of the five planes, mind and the rest are of all planes, as fits, at the time of attainment and of rebirth. It will be explained in detail in the chapter on attainments. It is not explained again here, to avoid the burden of too long a text. The benefit would be small and the labor great. So the incidental discussion is concluded.
+The rule for the eye also applies to the ear. For the three Faculties beginning with the nose, Faculty, condition, and cognition belong to their own plane; body-cognition, however, may be of the body's plane or a lower one. Mind is not confined to a fixed plane.
 
 ## 6. Philosophical Translation
 

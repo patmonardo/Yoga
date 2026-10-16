@@ -52,13 +52,7 @@ For the sake of distinction, because of primacy, and because many dharmas and th
 
 ### Bhāṣya-informed study translation
 
-Why, among the ten essences included in the form-base, is one called the form-essence? And why, though all are dharma by own-nature, is one called the dharma-essence? For distinction. So that each of the ten is known as an essence, arranged as condition and what has the condition, not as one collective. Eye and the rest already have their names. What is form, and is not called eye or by those other names, is known as the form-essence. No further name is given.
-
-Or the form-essence is named from primacy. It resists: contact with the hand and the rest makes it form. It can be shown: this, here, there. In the world too, that is what is recognized as form, not the others.
-
-For distinction, one dharma-essence is named, not all. Many dharmas, beginning with feeling, are gathered there, so the general name dharma is used. The highest dharma, nirvāṇa, is gathered there, and not in the others.
-
-Others say the one is called the form-essence because it is gross by its twentyfold variety, and because it is the range of three eyes: the fleshly, the divine, and the noble eye of wisdom.
+One essence is specifically called the form-essence, and one the dharma-essence, to distinguish each from the other essences. Form receives that name also because of its prominence among forms. The dharma-essence receives its general name because it gathers many dharmas, including the highest dharma, nirvāṇa.
 
 ## 6. Philosophical Translation
 

@@ -14,44 +14,33 @@
 
 ## 3. Lexical Analysis
 
-### Sandhi resolution
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| prajñā | noun; feminine; nominative singular | subject of the first definition |
+| amalā | adjective; feminine; nominative singular (lemma: amala) | stainless in Literal and Bhāṣya-informed |
+| sānucarā | adjective; feminine; nominative singular (lemma: sa-anucara) | qualifies `prajñā`: with attendants |
+| abhidharmaḥ | noun; masculine; nominative singular (lemma: abhidharma) | predicate nominative |
+| tatprāptaye | compound noun; feminine; dative singular (lemma: tad-prāpti) | purpose: for attainment of that |
+| yā | relative pronoun; feminine; nominative singular (lemma: yad) | supplies a second `prajñā` by ellipsis |
+| api | indeclinable | inclusion: also |
+| ca | indeclinable | coordination |
+| yat | relative pronoun; neuter; nominative singular (lemma: yad) | qualifies `śāstram` |
+| ca | indeclinable | coordination |
+| śāstram | noun; neuter; nominative singular (lemma: śāstra) | treatise included in the definition |
+| tasya | pronoun; masculine/neuter; genitive singular (lemma: tad) | of that Abhidharma |
+| arthataḥ | indeclinable ablatival adverb (lemma: artha) | by meaning; in respect of meaning |
+| asmin | pronoun; masculine/neuter; locative singular (lemma: idam) | in this treatise |
+| samanupraveśāt | action noun; masculine; ablative singular (lemma: sam-anu-praveśa) | causal: because of comprehensive entry |
+| saḥ | pronoun; masculine; nominative singular (lemma: tad) | that Abhidharma |
+| ca | indeclinable | introduces the further derivation |
+| āśrayaḥ | noun; masculine; nominative singular (lemma: āśraya) | predicate: supporting basis |
+| asya | pronoun; masculine/neuter; genitive singular (lemma: idam) | of this treatise |
+| iti | indeclinable | closes the title derivation |
+| abhidharmakośam | compound noun; neuter; accusative singular (lemma: abhidharma-kośa) | the title predicated of the treatise |
 
-```text
-prajñāmalā                 → prajñā amalā
-sānucarābhidharmaḥ         → sa-anucarā abhidharmaḥ
-tatprāptaye                → tat-prāptaye
-yāpi                       → yā api
-yacca                      → yat ca
-tasyārthato 'smin          → tasya arthataḥ asmin
-sa cāśrayo 'syety          → saḥ ca āśrayaḥ asya iti
-abhidharmakośam            → abhidharma-kośam
-```
-
-### Pada and feature analysis
-
-| Surface form | Pada / lemma | Morphological features | Local force |
-|---|---|---|---|
-| prajñā | prajñā | noun; feminine; nominative singular | subject of the first definition |
-| amalā | amala | adjective; feminine; nominative singular | stainless in Literal and Bhāṣya-informed |
-| sānucarā | sa-anucara | adjective; feminine; nominative singular | qualifies `prajñā`: with attendants |
-| abhidharmaḥ | abhidharma | noun; masculine; nominative singular | predicate nominative |
-| tatprāptaye | tad-prāpti | compound noun; feminine; dative singular | purpose: for attainment of that |
-| yā | yad | relative pronoun; feminine; nominative singular | supplies a second `prajñā` by ellipsis |
-| api | api | indeclinable | inclusion: also |
-| ca | ca | indeclinable | coordination |
-| yat | yad | relative pronoun; neuter; nominative singular | qualifies `śāstram` |
-| ca | ca | indeclinable | coordination |
-| śāstram | śāstra | noun; neuter; nominative singular | treatise included in the definition |
-| tasya | tad | pronoun; masculine/neuter; genitive singular | of that Abhidharma |
-| arthataḥ | artha | indeclinable ablatival adverb | by meaning; in respect of meaning |
-| asmin | idam | pronoun; masculine/neuter; locative singular | in this treatise |
-| samanupraveśāt | sam-anu-praveśa | action noun; masculine; ablative singular | causal: because of comprehensive entry |
-| saḥ | tad | pronoun; masculine; nominative singular | that Abhidharma |
-| ca | ca | indeclinable | introduces the further derivation |
-| āśrayaḥ | āśraya | noun; masculine; nominative singular | predicate: supporting basis |
-| asya | idam | pronoun; masculine/neuter; genitive singular | of this treatise |
-| iti | iti | indeclinable | closes the title derivation |
-| abhidharmakośam | abhidharma-kośa | compound noun; neuter; nominative singular | the title predicated of the treatise |
+Sandhi to retain: *sānucarā* = *sa-anucarā*; *tasyārthato 'smin* =
+*tasya arthataḥ asmin*; *sa cāśrayo 'syety* =
+*saḥ ca āśrayaḥ asya iti*.
 
 The supplied nouns in the elliptical sequence must remain visible:
 
@@ -132,11 +121,15 @@ In the first derivation, this treatise occupies the place of a treasury because 
 
 > Stainless prajñā, with its attendants, is Abhidharma; so also is whatever [prajñā] is for the attainment of that, and whatever treatise [is for its attainment]. Because that enters into this by meaning—and because that is the supporting basis of this—[this treatise is called] the *Abhidharmakośa*.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> Stainless prajñā together with its attendants is Abhidharma in the ultimate sense: the discrimination of dharmas, with its retinue, a stainless complex of the five aggregates. In the conventional sense, so too are the prajñā with outflows constituted by hearing, reflection, and cultivation, and the prajñā acquired by birth, each with its attendants, and the treatise that is equipment for attaining that stainless prajñā. A dharma is so called because it bears its own mark. Abhidharma is this dharma facing the ultimate dharma, nirvāṇa, or facing the mark of a dharma. This work is called the *Abhidharmakośa* either because the principal meaning of śāstric Abhidharma is contained within it, or because it has been drawn from Abhidharma as its supporting treasury.
-
-The second translation makes the Bhāṣya's determinations explicit. It is not a word-for-word rendering of the Kārikā alone. Neither facing in the name-definition is dropped. *Amalā* stays stainless in this line.
+> Stainless prajñā, the discrimination of dharmas together with its attendants,
+> is Abhidharma in the ultimate sense. In the conventional sense, prajñā with
+> outflows acquired through hearing, reflection, cultivation, or birth, with
+> its attendants, and the treatise that serves as equipment for attaining
+> stainless prajñā are also Abhidharma. This work is called the
+> *Abhidharmakośa* because the principal meaning of Abhidharma is contained
+> in it, or because Abhidharma is the treasury from which this work is drawn.
 
 ## 6. Philosophical Translation
 

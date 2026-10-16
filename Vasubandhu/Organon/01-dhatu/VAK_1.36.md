@@ -52,13 +52,7 @@ The outer tetrad of principles cuts and is cut. It is burned, and it weighs. Lik
 
 ### Bhāṣya-informed study translation
 
-Of the eighteen principles, which cuts, which is cut, which burns, which is burned, which weighs, which is weighed? The outer tetrad of principles cuts and is cut: the one called visible, smell, taste, and tangible, designated as axe, wood, and the like. What dharma is this cutting? The production, as divided, of a stream of aggregates that arises in connection.
-
-The body-organ and the others are not cut. When a limb is cut off without remainder, they are not made twofold by that. Organs do not become two. The severed limb is without the organ. Nor do they cut, because of clarity, like the radiance of a jewel.
-
-As the outer tetrad cuts and is cut, so it is burned and it weighs. That same one is burned. That same one weighs. The organs do not, because of clarity, like the radiance of a jewel. Nor does sound, because it is cut off.
-
-There is a dispute about the burner and the weigher. Some say that same tetrad of principles is the burner and the weigher. Some say the principled fire alone is the burner, and heaviness alone is what is weighed.
+The four external principles—visible form, smell, taste, and the tangible—cut and are cut; they are also burned, and they weigh. Whether that same fourfold group is itself the burner and the weigher is disputed.
 
 ## 6. Philosophical Translation
 

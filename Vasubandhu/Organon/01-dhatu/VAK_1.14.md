@@ -14,16 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-indriya-arthāḥ     → the organs and the meanings
-te eva             → these very ones
-iṣṭāḥ             → are accepted
-daśa āyatana-dhātavaḥ → ten essences and ten principles
-vedanā anubhavaḥ  → feeling is undergoing
-saṃjñā             → reflection
-nimitta-udgrahaṇa-ātmikā → whose nature is the taking up of the mark
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | indriyārthāḥ | nominative plural | organs and meanings; the ten already stated |
@@ -66,12 +56,11 @@ as its nature.
 
 ### Bhāṣya-informed study translation
 
-The five organs and the five meanings already stated in the form-base are
-accepted as ten essences, and as the same ten principles. *Avijñapti* is not
-among the ten. Feeling is undergoing: pleasant, painful, or neither. Divided,
-six groups, from eye-contact through mind-contact. Reflection takes up the
-mark: blue and yellow, long and short, woman and man, and the rest. Divided,
-six groups, as with feeling.
+The same five Faculties and five meanings of the Form Base, without
+*avijñapti*, are counted as ten Essences and as the same ten Principles.
+Feeling is undergoing, whether pleasant, painful, or neither, in six groups
+distinguished by contact from eye through Mind. Reflection takes up marks
+such as color and shape and is likewise divided into six groups.
 
 ## 6. Philosophical Translation
 

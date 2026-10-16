@@ -14,13 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-rāśi-āya-dvāra-gotra-arthāḥ → meanings of collection, arrival, door, source-kind
-skandha-āyatana-dhātavaḥ     → bases, essences, principles
-moha-indriya-ruci-traidhāt  → because confusion, faculty, inclination are threefold
-tisraḥ skandha-ādi-deśanāḥ    → three teachings, beginning with the bases
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | rāśi | compound member | collection; gathered into one |
@@ -28,19 +21,15 @@ tisraḥ skandha-ādi-deśanāḥ    → three teachings, beginning with the bas
 | dvāra | compound member | door |
 | gotra | compound member | source-kind; the mine |
 | arthāḥ | nominative plural | having these meanings, distributed |
+| skandha-āyatana-dhātavaḥ | nominative plural compound | Bases, Essences, and Principles, in that order |
 | moha | compound member | confusion |
 | indriya | compound member | the learner's faculty |
 | ruci | compound member | inclination |
 | traidhāt | ablatival | because of the threefold |
 | tisraḥ deśanāḥ | nominative feminine plural | three teachings |
 
-The first compound distributes. It does not pile four meanings on one word.
-
-```text
-base      → collection
-essence   → door of arrival
-principle → source-kind
-```
+The first compound distributes: Base means collection, Essence means door
+of arrival, and Principle means source-kind.
 
 ## 4. Grammar
 
@@ -62,7 +51,10 @@ Bases, essences, and principles have the meanings of collection, door of arrival
 
 ### Bhāṣya-informed study translation
 
-A base is a collection: whatever form is past, future, or present, gathered into one, is reckoned the form-base. An essence is the door through which consciousness and the mental factors arrive and extend. A principle is a source-kind, as the mines in one mountain. For the conditioned, that source is a homogeneous cause of its own kind. The unconditioned are principles as kind and own-nature, not as that cause. The three teachings are Base, Essence, Principle, in that order, for three confusions, three faculties, and three inclinations.
+Bases mean collections; Essences are doors through which consciousness and
+mental factors extend; Principles are source-kinds. Because those to be
+trained differ in confusion, Faculty, and inclination, each in three ways,
+there are three corresponding teachings: of Bases, Essences, and Principles.
 
 ## 6. Philosophical Translation
 

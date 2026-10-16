@@ -53,9 +53,7 @@ The others are threefold. All are connected with the desire realm. In the form r
 
 ### Bhāṣya-informed study translation
 
-The ten that remain after the eight indeterminate are wholesome, unwholesome, and indeterminate. The Cognition Principle, the seven — six cognition-principles and the mind-principle — is wholesome when associated with non-greed and the rest, unwholesome when associated with greed and the rest, and otherwise indeterminate. The dharma-principle is wholesome by the nature of non-greed, by association, or by arising from it, and so is the cessation through discrimination. It is unwholesome by greed in the same three ways. The rest of it is indeterminate. Visible form and sound are wholesome or unwholesome when they are bodily or verbal vijñapti arisen from a wholesome or unwholesome consciousness. Otherwise they are indeterminate.
-
-All eighteen are connected with the desire realm. Connected means not separated from it. In the form realm there are fourteen. Smell and taste are absent, because they are morsel food and those born there are free of passion for that food. Nose-cognition and tongue-cognition are absent because the support is absent. The nose and the tongue remain.
+The other ten principles can be wholesome, unwholesome, or indeterminate. All eighteen occur in the desire realm. In the form realm there are fourteen, excluding smell and taste and the corresponding nose-cognition and tongue-cognition principles.
 
 ## 6. Philosophical Translation
 

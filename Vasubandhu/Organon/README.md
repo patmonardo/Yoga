@@ -33,11 +33,36 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   and Organon interpretation are kept visibly distinct.
 - The literal translation is distinguished from the readable study
   translation.
+- In section 5, both the close (or literal) rendering and the
+  **Bhāṣya-informed study translation** are translations of the kārikā.
+  Each must be readable continuously as English for the verse. The close
+  rendering follows the verse's wording and syntax, marking supplied words.
+  The Bhāṣya-informed rendering is the preferred reading translation: it resolves
+  ellipsis and technical referents with the paired Bhāṣya while preserving
+  the verse's order, claims, and argumentative voice. It must not turn into
+  a summary of what the Bhāṣya says or a list of its explanations.
+- Put the translation text alone under each translation label, preferably
+  as one block quotation. Explain lexical choices, supplied subjects,
+  textual uncertainty, and the Bhāṣya's reasoning in Grammar, Technical
+  Vocabulary, or the paired Bhāṣya study. Do not append commentary within
+  a translation subsection. Keep Organon reconstruction in the interpretive
+  sections.
+- Draft and settle the Bhāṣya-informed kārikā translation in the kārikā
+  study, one verse at a time, using the corresponding Sanskrit Bhāṣya to
+  determine compressed wording. This is the kārikā translation intended
+  for the paired Bhāṣya study. Transfer it there only after it has been
+  reviewed; that transfer is a later editing pass. The literal rendering
+  stays a syntactic check in the kārikā study and is not carried over by
+  default. The Bhāṣya's continuous conventional translation translates
+  the commentary passage in its own right.
 - Every kārikā study uses the same ten numbered stage headings, in the same
-  order: Sanskrit (Devanāgarī), Sanskrit (IAST), Padaccheda and Lexical
+  order: Sanskrit (Devanāgarī), Sanskrit (IAST), Lexical
   Analysis, Grammar, Translation, Philosophical Translation,
   Technical Vocabulary, Logical Determination, Interpretive Note, and OWL++
   Seed.
+- Lexical Analysis begins with one table of `Pada`, `Morphology`, and
+  `Force in this passage`. Keep useful sandhi or textual notes after the
+  table; a separate prefatory Padaccheda block is unnecessary.
 - Only `Literal Translation` and `Bhāṣya-informed study translation` are
   subsection headings. Verse-specific divisions inside the other stages are
   bold editorial signposts, not additional report sections.

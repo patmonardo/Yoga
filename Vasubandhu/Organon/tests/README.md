@@ -2,6 +2,12 @@
 
 The structural audit and paired Kārikā/Bhāṣya alignment test accept a chapter
 and verse range, so the same checks can be applied to different study volumes.
+For Dhātu, the paired test also enforces the exact two Translation subsection
+names and table-first Lexical Analysis layout stated in the Organon README.
+For the translation-boundary inventory across chapters 1–4, run
+`python3 Vasubandhu/Organon/tests/audit_translation_boundaries.py` from the
+repository root; see [the QA record](translation-qa-2026-10-15.md). This
+inventory flags editorial symptoms and does not judge translation fidelity.
 
 ```sh
 python Vasubandhu/Organon/tests/audit_karika_sections.py \
@@ -42,10 +48,11 @@ assessment. Without `--check`, the audit inventories exact top-level heading
 patterns without enforcing them. Add repeated `--require-section` or
 `--forbid-section` options for additional scoped checks.
 
-The paired-alignment test defaults to exact translation parity. Chapter 4
-uses prefix matching because its Bhāṣya anchors contain the paired translation
-while the Kārikā translation may continue with editorial study notes; override
-this with `--translation-match exact|prefix` when needed. For chapter 3, the
-test compares the quoted translation blocks and ignores explanatory prose
+The paired-alignment test normally checks that the kārikā study has a
+Bhāṣya-informed translation. It does not require that translation, or the
+literal rendering, to be copied into the Bhāṣya study. Historical paired
+wording can be inspected explicitly with `--translation-match exact|prefix`;
+these optional comparisons do not define the editorial rule. For chapter 3,
+the optional comparison uses the quoted translation blocks and ignores prose
 following them. The scientific-terminology regression module remains specific
 to the reviewed Dhātu studies and their controlled mappings.

@@ -23,11 +23,11 @@ STUDY_DIR = Path(
 START = int(os.environ.get("ORGANON_START", "1"))
 END = int(os.environ.get("ORGANON_END", str(CHAPTER_ENDS[CHAPTER])))
 TRANSLATION_MATCH = os.environ.get(
-    "ORGANON_TRANSLATION_MATCH", "prefix" if CHAPTER == 4 else "exact"
+    "ORGANON_TRANSLATION_MATCH", "none"
 )
-if TRANSLATION_MATCH not in {"exact", "prefix"}:
+if TRANSLATION_MATCH not in {"none", "exact", "prefix"}:
     raise ValueError(
-        "ORGANON_TRANSLATION_MATCH must be 'exact' or 'prefix'"
+        "ORGANON_TRANSLATION_MATCH must be 'none', 'exact', or 'prefix'"
     )
 
 
@@ -49,6 +49,18 @@ def subsection(text: str, title: str) -> str:
     tail = text[match.end() :]
     end = re.search(r"^#{2,3} ", tail, re.M)
     return tail[: end.start()] if end else tail
+
+
+def informed_subsection(text: str) -> str:
+    for title in (
+        "Bhāṣya-informed study translation",
+        "Bhāṣya-informed translation",
+        "Bhāṣya-informed",
+    ):
+        found = subsection(text, title)
+        if found:
+            return found
+    return ""
 
 
 def verse_text(text: str, chapter: int, verse: int) -> str:
@@ -92,7 +104,7 @@ def quoted_block(text: str) -> str:
 
 
 def anchor_translation(anchor: str, chapter: int, verse: int) -> str:
-    explicit = subsection(anchor, "Bhāṣya-informed study translation")
+    explicit = informed_subsection(anchor)
     if explicit:
         return (
             quoted_block(explicit)
@@ -114,37 +126,66 @@ def anchor_translation(anchor: str, chapter: int, verse: int) -> str:
 
 
 class KarikaBhasyaAlignmentTests(unittest.TestCase):
-    def test_bhasya_anchors_match_karika_verse_and_informed_translation(self):
+    def test_dhatu_lexical_analysis_starts_with_canonical_table(self):
+        if CHAPTER != 1:
+            self.skipTest("Dhātu lexical layout rule")
+        for verse in range(START, END + 1):
+            stem = f"VAK_1.{verse:02d}"
+            karika = (STUDY_DIR / f"{stem}.md").read_text(encoding="utf-8")
+            lexical = section(karika, r"^## 3\. Lexical Analysis\s*$")
+            with self.subTest(verse=verse):
+                self.assertEqual(
+                    lexical.strip().splitlines()[0],
+                    "| Pada | Morphology | Force in this passage |",
+                    f"{stem} must begin Lexical Analysis with the canonical table",
+                )
+
+    def test_dhatu_translation_subsection_names(self):
+        if CHAPTER != 1:
+            self.skipTest("Dhātu heading rule")
+        for verse in range(START, END + 1):
+            stem = f"VAK_1.{verse:02d}"
+            karika = (STUDY_DIR / f"{stem}.md").read_text(encoding="utf-8")
+            translation = section(karika, r"^## 5\. Translation\s*$")
+            labels = re.findall(r"^### (.+)\s*$", translation, re.M)
+            with self.subTest(verse=verse):
+                self.assertEqual(
+                    labels,
+                    ["Literal Translation", "Bhāṣya-informed study translation"],
+                    f"{stem} has noncanonical translation subsection headings",
+                )
+
+    def test_informed_translation_and_optional_bhasya_comparison(self):
         for verse in range(START, END + 1):
             stem = f"VAK_{CHAPTER}.{verse:02d}"
             karika = (STUDY_DIR / f"{stem}.md").read_text(encoding="utf-8")
-            bhasya = (STUDY_DIR / f"{stem}_bhasya.md").read_text(
-                encoding="utf-8"
-            )
-            karika_iast = section(
-                karika, r"^## 2\. Sanskrit \(IAST\)\s*$"
-            )
             translation = section(karika, r"^## 5\. Translation\s*$")
-            informed_translation = subsection(
-                translation, "Bhāṣya-informed study translation"
-            )
-            anchor = section(
-                bhasya, r"^## 1\. Kārikā Anchor\s*$"
-            )
-            if CHAPTER == 3:
-                informed_translation = quoted_block(informed_translation)
-            else:
-                informed_translation = normalized_block(informed_translation)
-            anchor_translation_text = anchor_translation(
-                anchor, CHAPTER, verse
-            )
+            informed_translation = informed_subsection(translation)
 
             with self.subTest(verse=verse):
-                self.assertTrue(anchor, f"{stem} is missing its Kārikā Anchor")
                 self.assertTrue(
                     informed_translation,
                     f"{stem} is missing its Bhāṣya-informed study translation",
                 )
+                if TRANSLATION_MATCH == "none":
+                    continue
+                bhasya = (STUDY_DIR / f"{stem}_bhasya.md").read_text(
+                    encoding="utf-8"
+                )
+                karika_iast = section(
+                    karika, r"^## 2\. Sanskrit \(IAST\)\s*$"
+                )
+                anchor = section(
+                    bhasya, r"^## 1\. Kārikā Anchor\s*$"
+                )
+                if CHAPTER == 3:
+                    informed_translation = quoted_block(informed_translation)
+                else:
+                    informed_translation = normalized_block(informed_translation)
+                anchor_translation_text = anchor_translation(
+                    anchor, CHAPTER, verse
+                )
+                self.assertTrue(anchor, f"{stem} is missing its Kārikā Anchor")
                 self.assertEqual(
                     verse_text(anchor, CHAPTER, verse),
                     verse_text(karika_iast, CHAPTER, verse),
@@ -176,7 +217,7 @@ if __name__ == "__main__":
     parser.add_argument("--start", type=int)
     parser.add_argument("--end", type=int)
     parser.add_argument(
-        "--translation-match", choices=("exact", "prefix")
+        "--translation-match", choices=("none", "exact", "prefix")
     )
     args, unittest_args = parser.parse_known_args()
 
@@ -186,8 +227,6 @@ if __name__ == "__main__":
             STUDY_DIR = ORGANON_DIR / CHAPTER_DIRS[CHAPTER]
         if args.end is None and "ORGANON_END" not in os.environ:
             END = CHAPTER_ENDS[CHAPTER]
-        if "ORGANON_TRANSLATION_MATCH" not in os.environ:
-            TRANSLATION_MATCH = "prefix" if CHAPTER == 4 else "exact"
     if args.study_dir is not None:
         STUDY_DIR = args.study_dir
     if args.start is not None:

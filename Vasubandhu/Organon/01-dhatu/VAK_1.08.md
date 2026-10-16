@@ -43,13 +43,13 @@ One field under a summary division. The second line names that same Impure field
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
 Those which are Impure are the bases of appropriation. They are also with conflict. They are suffering, origin, world, the station of views, and becoming.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-Not every base is a base of appropriation: there are Pure formations, and the Path is Conditioned and Pure. The appropriations are the afflictions. The bases are so called because they arise from the afflictions, because they are governed by them, or because the afflictions arise from them. Conflict persists latently in them. The five names are coextensive with this Impure field. Each has its own ground.
+The Impure among those conditioned dharmas are Bases of appropriation, bound to the afflictions that arise from, govern, or arise through them. Because afflictive conflict lies latent in them, they are also with conflict. These same dharmas are suffering, origin, world, the station of views, and becoming.
 
 ## 6. Philosophical Translation
 

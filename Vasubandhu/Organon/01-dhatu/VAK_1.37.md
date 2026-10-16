@@ -14,15 +14,7 @@
 
 ## 3. Lexical Analysis
 
-```text
-vipākajaupacayikāḥ      → vipākajāḥ aupacayikāḥ
-pañcādhyātmam           → pañca adhyātmam
-vipākajaḥ na śabdaḥ     → vipākajaḥ na śabdaḥ
-'pratighāḥ              → apratighāḥ
-naiḥṣyandika-vipākajāḥ  → naiḥṣyandikāḥ vipākajāḥ
-```
-
-| Form | Morphology | Lexical force here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | vipākajāḥ | nominative masculine plural compound | maturation-born |
 | aupacayikāḥ | nominative masculine plural adjective | reinforced through upacaya |
@@ -31,9 +23,12 @@ naiḥṣyandika-vipākajāḥ  → naiḥṣyandikāḥ vipākajāḥ
 | na | negative particle | not |
 | śabdaḥ | nominative masculine singular | Sound Principle |
 | a-pratighāḥ | nominative masculine plural adjective | non-resistant, non-obstructive |
-| aṣṭau | numeral | seven Cognition Principles plus the Essence Principle |
+| aṣṭau | numeral | seven Cognition Principles plus the Dharma Principle |
 | naiḥṣyandikāḥ | nominative masculine plural adjective | continuity-born through homogeneous causal succession |
 | vipākajāḥ | nominative masculine plural adjective | maturation-born |
+
+The line break joins *vipākajaḥ* with *na śabdaḥ*: Sound is not
+maturation-born.
 
 `Naiḥṣyandika` should not be confused with `sāsrava`, “with outflows.” Here
 it names production through a corresponding causal flow or homogeneous
@@ -90,17 +85,16 @@ Principles.
 
 ## 5. Translation
 
-### Close syntactic construe
+### Literal Translation
 
 > The five internal [Faculty Principles] are maturation-born and upacaya-reinforced. Sound is not maturation-born. The eight non-resistant Principles include continuity-born and maturation-born instances.
 
-### Bhāṣya-informed translation
+### Bhāṣya-informed study translation
 
-> The five sensory Faculties are maturation-born and upacaya-reinforced through nourishment, conditioning, sleep, and distinctions of concentration. Sound is not itself maturation-born because its immediate production proceeds from effort, although it may be upacaya-reinforced or arise through causal continuity. The seven Cognition Principles together with the Essence Principle include continuity-born and maturation-born instances, but are not upacaya-reinforced.
-
-For the eight Principles, these are permitted causal classes among their
-instances; the verse does not say that each instance is produced
-simultaneously by both causes.
+> The five internal Faculty Principles are maturation-born and can be
+> reinforced by increase. Sound is not maturation-born. The eight
+> non-resistant Principles—the seven Cognition Principles and the Dharma
+> Principle—have continuity-born and maturation-born instances.
 
 ## 6. Philosophical Translation
 

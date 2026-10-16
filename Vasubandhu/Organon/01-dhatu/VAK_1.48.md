@@ -51,15 +51,7 @@ The five external are knowable by two. Unconditioned dharmas are permanent. A po
 
 ### Bhāṣya-informed study translation
 
-This is now examined. Of the eighteen principles and the six cognitions, which is knowable by which? The five external are knowable by two. The principles of visible, sound, smell, taste, and tangible, experienced respectively by eye-cognition, ear-cognition, nose-cognition, tongue-cognition, and body-cognition, are cognized by mind-cognition. So each of these is knowable by two cognitions. The remaining thirteen principles, not being the object of the five cognition-groups, are knowable by mind-cognition alone. That is stated.
-
-Of these eighteen principles, how many are permanent, how many impermanent? No principle is permanent in its entirety. Unconditioned dharmas are permanent. So a portion of the dharma-principle is permanent. The rest are impermanent.
-
-How many are faculty, how many are not? A portion of the dharma is faculty, and the twelve called internal. Twenty-two faculties are stated in the sūtra: eye, ear, nose, tongue, body, mind, female, male, life, pleasure, pain, gladness, distress, equanimity, faith, vigor, mindfulness, concentration, prajñā, "I shall know what is not known," knowing, and one who has known. The Ābhidharmikas, however, following the arrangement of the six bases, recite the mind-faculty immediately after the life-faculty, because it takes an object.
-
-Here the portion of the dharma is the eleven faculties beginning with life, and a portion of three more, because they are a portion of the dharma-principle. Of the twelve internal, the five beginning with the eye are stated under their own names. The seven mind-principles are the mind-faculty. The female and male faculties are a portion of the body-principle, as will be stated later. So it is established that the remaining five principles and a portion of the dharma-principle are not faculty.
-
-In the Abhidharmakośabhāṣya, the first chapter, called the Exposition of the Principles, is complete.
+The five external object-principles are each knowable by two cognitions: the corresponding sensory cognition and mind-cognition. Unconditioned dharmas, a portion of the dharma-principle, are permanent. A portion of that principle and the twelve internal principles are faculties.
 
 ## 6. Philosophical Translation
 

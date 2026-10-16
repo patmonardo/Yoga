@@ -14,14 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-bhūtāni                 → the elements
-pṛthivī-dhātuḥ           → the principled earth
-ap-tejo-vāyu-dhātavaḥ  → principled water, fire, and wind
-dhṛti-ādi-karma-saṃsiddhāḥ → established in functions beginning with support
-khara-sneha-uṣṇatā-īraṇāḥ → hardness, cohesion, heat, impulsion
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | bhūtāni | nominative neuter plural | the elements; the four |
@@ -61,14 +53,10 @@ hardness, cohesion, heat, and impulsion.
 
 ### Bhāṣya-informed study translation
 
-The four great elements are those four elements, principled. They are called principled
-because they hold their own-character and derived form. Their greatness is
-magnitude, as support of all other form, or a great gathering in the masses
-of earth, water, fire, and wind, where the corresponding element operates
-prominently. The functions, in order, are support, gathering, ripening, and
-spreading. The own-characters are hardness, cohesion, heat, and impulsion.
-Lightness, named in the treatises, is derived form. Wind is the element
-whose own-character is impulsion. The function makes that character evident.
+The four Great Elements are the Earth, Water, Fire, and Wind Principles, each
+sustaining its own-character and derived Form. In that order, their functions
+are support, gathering, ripening, and spreading (growth and extension), while
+their own-characters are hardness, cohesion, heat, and impulsion.
 
 ## 6. Philosophical Translation
 

@@ -21,13 +21,7 @@ claiming that the transmitted ending has been resolved.
 
 ## 3. Lexical Analysis
 
-```text
-nāsti → na asti                         kleśaiś ca → kleśaiḥ ca
-bhavārṇave → bhava-arṇave              lokas → lokaḥ
-taddhetor → tad-dhetoḥ                 kilaiṣa → kila eṣaḥ
-```
-
-| Pada | Features | Local force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | dharmāṇām | genitive plural | objects of discrimination |
 | pravicayam | accusative singular | governed by `antareṇa` |
@@ -66,13 +60,16 @@ It also attributes to the Vaibhāṣikas—not unqualifiedly to Vasubandhu—the
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
 Since without discrimination of dharmas there is no means for the pacification of the afflictions, and since through the afflictions the world wanders here in the ocean of becoming, for that reason this treatise is said to have been taught.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-Because a disciple cannot discriminate dharmas without Abhidharma instruction, and because such discrimination is indispensable to pacifying the afflictions that cause the world to wander in saṃsāra, this śāstra is said to have been taught.
+Because there is no means to pacify the afflictions without discrimination of
+dharmas, and because those afflictions cause the world to wander in the ocean
+of becoming, this Abhidharma treatise is said to have been taught by the
+Buddha so that disciples can develop that discrimination.
 
 ## 6. Philosophical Translation
 

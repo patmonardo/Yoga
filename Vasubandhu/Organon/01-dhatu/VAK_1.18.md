@@ -14,16 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-sarva-saṃgrahaḥ     → the inclusion of all
-ekena              → by one; distributes across the three
-skandhena          → by a base
-āyatanena         → by an essence
-dhātunā            → by a principle
-svabhāvena         → by own-nature
-parabhāva-viyogataḥ → because of separation from another's nature
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | sarva-saṃgrahaḥ | nominative | the inclusion of all |
@@ -65,12 +55,9 @@ by own-nature, because of separation from another's nature.
 
 ### Bhāṣya-informed study translation
 
-All dharmas are included jointly by the form-base, the mind-essence, and the
-dharma-principle. The inclusion is by a dharma's own nature, not by another's
-nature, from which it is separate.
-
-Bases include the conditioned. Bases of appropriation include the Impure.
-Essences and principles include all dharmas, the unconditioned among them.
+All dharmas are included together by one Base, the Form Base; one Essence,
+the Mind Essence; and one Principle, the Dharma Principle. Each is included
+by its own nature, since it is separate from the nature of another.
 
 ## 6. Philosophical Translation
 

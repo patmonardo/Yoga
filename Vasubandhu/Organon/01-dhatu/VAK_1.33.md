@@ -45,13 +45,7 @@ They are without vikalpa in respect of examining and recollective vikalpa. Those
 
 ### Bhāṣya-informed study translation
 
-If the five cognition-principles are with vitarka and vicāra, how are they called without vikalpa?
-
-They are without vikalpa in respect of examining and recollective vikalpa. Vikalpa is threefold: intrinsic, examining, and recollective. These cognitions have the intrinsic, not the other two. So they are called without vikalpa, as a horse with one foot is called footless.
-
-Intrinsic vikalpa is vitarka. It is explained later among the mental factors.
-
-The other two, in order, are unconcentrated mental prajñā and all mental smṛti. Prajñā associated with mind-cognition is called mental. Unconcentrated is vyagrā. That is examining vikalpa. All mental smṛti, concentrated or not, is recollective vikalpa.
+The five sensory cognitions are called without conceptual discrimination because they lack examining and recollective discrimination, though they have intrinsic discrimination. The latter is vitarka; examining discrimination is unconcentrated mental prajñā, and recollective discrimination is mental mindfulness, whether concentrated or not.
 
 ## 6. Philosophical Translation
 

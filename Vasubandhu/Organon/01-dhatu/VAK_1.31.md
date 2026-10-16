@@ -51,9 +51,9 @@ Connected with the formless are the mind-principle, the dharma-principle, and th
 
 ### Bhāṣya-informed study translation
 
-Those free of passion for form are born there. So the ten principles whose nature is form do not occur there, nor do the five cognition-principles that have those as support and object. The three that remain are the mind-principle, the dharma-principle, and the mind-cognition principle.
-
-How many are Impure, how many Pure? These three are both. What is included in the truth of the path, or in the unconditioned, is Pure. The others are Impure. The remaining fifteen are exclusively Impure.
+The Mind Principle, Dharma Principle, and Mind-Cognition Principle occur in
+the formless realm. Each of these three admits both Impure and Pure instances;
+the remaining fifteen Principles are exclusively Impure.
 
 ## 6. Philosophical Translation
 

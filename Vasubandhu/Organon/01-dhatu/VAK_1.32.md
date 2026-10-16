@@ -49,17 +49,7 @@ The five cognition-principles are with vitarka and with vicāra. The last three 
 
 ### Bhāṣya-informed study translation
 
-How many are with both? How many are without vitarka and with vicāra alone? How many are without both?
-
-The five cognition-principles are always with both. Hi restricts.
-
-The last three are of three kinds: the mind-principle, the dharma-principle, and the mind-cognition principle. The mind-principle, the mind-cognition principle, and the associated portion of the dharma-principle, apart from vitarka and vicāra themselves, are with both in the desire realm and the first concentration. In the intermediate concentration they are without vitarka and with vicāra alone. From the second concentration through the summit of existence they are without both.
-
-The whole unassociated dharma-principle, and vicāra in the intermediate concentration, are without both. Vitarka itself is always without a second vitarka and with vicāra alone: there is no second vitarka, and it is associated with vicāra. Vicāra in the desire realm and the first concentration does not fall in the three kinds. It is without vicāra and with vitarka alone: there is no second vicāra, and it is associated with vitarka.
-
-So on a level with both, dharmas are of four kinds. Associated dharmas other than vitarka and vicāra are with both. Vitarka is without vitarka and with vicāra alone. Unassociated dharmas are without both. Vicāra is without vicāra and with vitarka alone.
-
-The remaining ten, whose nature is form, are always without both, because they are not associated.
+The five sensory cognition-principles are accompanied by both vitarka and vicāra. The last three principles—the mind-principle, dharma-principle, and mind-cognition principle—admit three modes: with both, with vicāra alone, or with neither, according to their constituent dharmas and level of concentration. The remaining ten principles, being form, have neither.
 
 ## 6. Philosophical Translation
 

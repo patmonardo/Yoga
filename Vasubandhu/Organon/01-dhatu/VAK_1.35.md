@@ -48,15 +48,7 @@ The tangible is twofold. The other nine whose nature is form are derived. And a 
 
 ### Bhāṣya-informed study translation
 
-How many principles are of the nature of the elements, how many derived? The tangible is twofold: the elements, and the derived. The elements are four. The derived is sevenfold, smoothness and the rest, because it occurs in the elements. The other nine whose nature is form are only derived: the five organ-principles and the four conditions. And a portion of the dharma-principle, the one called avijñapti, is derived. The rest, the citta-principles and the dharma-principle apart from avijñapti, are neither.
-
-The venerable Buddhadeva says the ten essences are only elements. Not so. The sūtra determines the elements as four, with the character of hardness and the rest. And they are tangible. Hardness and the rest are not grasped by the eye and the others. Color and the rest are not grasped by the body-organ.
-
-A sūtra says the eye, monk, is an internal essence, a clarity of form depending on the four great elements, whose nature is form, invisible, resistant. So through the body. Visible form is an external essence, depending on the four great elements, whose nature is form, visible, resistant. Sound depends on the four great elements, whose nature is form, invisible, resistant. So smell and taste. The tangible is an external essence: the four great elements, and form depending on the four great elements, whose nature is form, invisible, resistant. The elements are included in one portion of the tangible essence. The rest is shown not to be elements.
-
-What of the sūtra, whatever in the fleshy mass of the eye is hard has the character of hardness? That is an instruction about the fleshy mass, not separate from the organ. A person, monk, consists of six principles: in the account of descent into the womb, this shows the constituents of a being. The six contact-essences are mentioned again. Otherwise the mental factors would be absent. It is not reasonable that the mental factors are just citta. A sūtra says reflection and feeling are mental essences, following citta and depending on citta. And there is citta with passion and the rest. So the elements and the derived are as stated.
-
-How many are aggregated, how many not? The ten whose nature is form are aggregated: the five organs and the five meanings. They are aggregates of atoms. The remaining principles are not aggregated.
+The tangible is twofold: the four great elements and the derived tangibles. The other nine principles whose nature is form, together with the avijñapti portion of the dharma-principle, are derived from the elements. The ten principles whose nature is form are aggregates of atoms.
 
 ## 6. Philosophical Translation
 

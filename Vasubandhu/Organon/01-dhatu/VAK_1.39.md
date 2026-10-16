@@ -54,19 +54,10 @@ Twelve are inner, having set aside those beginning with visible. The one called 
 
 ### Bhāṣya-informed study translation
 
-Twelve principles are inner: the six cognitions and the six supports. The six object-principles beginning with visible are outer. There is no self. Citta is designated self because it is the support of the I-maker. The eye and the rest are inner because they are near that citta as its supports. Those beginning with visible are outer because they are objects.
-
-The six cognition-principles do not fail the mark. When they have not yet become the mind-principle they are not the support of citta. When they have, they are that. Otherwise the mind-principle would be past only, and not future or present. The eighteen principles are admitted in the three times. The mark does not fail across the times.
-
-The one called dharma is sabhāga without exception. There is no dharma-principle in which endless mind-cognition has not arisen or will not arise. For every noble person this citta must arise: all dharmas are without self. Apart from its own-nature and what arises with it, all dharmas are its object-support. That moment of citta is the object-support of another. In two moments, all dharmas are object-support. Therefore the dharma-principle is always sabhāga.
-
-The rest are also sabhāga, and tat-sabhāga when they do not do their own work. An eye by which visibles were seen, are seen, or will be seen is a sabhāga eye. So on through mind, each by its own operation on its object. For the Kāśmīras a tat-sabhāga eye is fourfold: ceased, ceasing, or about to cease without having seen, and not of a nature to arise. For the Westerners it is fivefold: that last case is split into connected with cognition and not connected. So on through the body-organ. Mind is tat-sabhāga only when not of a nature to arise.
-
-Visibles seen, being seen, or to be seen are sabhāga. Tat-sabhāga visibles are fourfold: ceased, ceasing, or about to cease unseen, and not of a nature to arise. So on through tangible, each by the operation of its organ.
-
-An eye that is sabhāga for one is so for all. Visible is sabhāga for the one who sees it and tat-sabhāga for the one who does not. One visible may be seen by many, as the moon, a performer, or a wrestler. Two cannot see by one eye. The eye is uncommon, so it is settled by one continuum. Visible is common, so it is settled by many. Sound, smell, taste, and tangible follow visible. Smell and the rest are grasped on contact, and so seem uncommon. They are common with respect to possibility: the same smell that might produce one person's cognition might produce another's. That is not so of the eye. The cognitions are sabhāga or tat-sabhāga by being of a nature to arise or not, as with the mind-principle.
-
-Bhāga is the mutual taking-up of organ, object, and cognition, or the taking-up of the operation. They have that, so they are sabhāga. Or because contact is their common result. Those that are not sabhāga are tat-sabhāga because they share the kind of the ones that are.
+Twelve Principles are inner—the six supports and their six Cognitions—once
+the six beginning with Visible Form are set aside. The Dharma Principle is
+always *sabhāga*, exercising its function; the remaining Principles are
+*sabhāga* when they do their own work and *tat-sabhāga* when they do not.
 
 ## 6. Philosophical Translation
 

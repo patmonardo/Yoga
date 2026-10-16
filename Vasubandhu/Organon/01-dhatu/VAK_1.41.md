@@ -55,13 +55,9 @@ A portion of the eye and a portion of the dharma-principle are view, eightfold. 
 
 ### Bhāṣya-informed study translation
 
-Of the eighteen, how many are view, how many are not? A portion of the eye-principle and a portion of the dharma-principle are view. Which portion? Eightfold. The five views beginning with the view of a real body, worldly right view, the trainee's view, and the adept's view: this eightfold dharma-principle is view. The remainder is not view. The five beginning with the view of a real body are explained at the exposition of the latent afflictions.
-
-Worldly right view is wholesome Impure prajñā associated with mind-cognition. The Pure view of a trainee is the trainee's view. That of one beyond training is the adept's view. Seeing dharmas by afflicted and unafflicted worldly view, by the trainee's view, and by the adept's view is like seeing visibles by night or by day, with cloud or without cloud.
-
-Why is worldly right view said to be associated with mind-cognition only? Because Discrimination born with the five cognitions is not view, since it does not ascertain. View ascertains, because it proceeds by attentive examination. Prajñā born with the five cognitions is not like that. Therefore it is not view. For this reason other prajñā too, afflicted or unafflicted, is not view.
-
-If the eye does not ascertain, how is it view? By the sense of disclosing visibles. For the eye sees visibles.
+A portion of the Eye Principle and an eightfold portion of the Dharma
+Principle count as view. Discrimination arising together with the five
+sensory Cognitions, however, is not view, because it does not ascertain.
 
 ## 6. Philosophical Translation
 

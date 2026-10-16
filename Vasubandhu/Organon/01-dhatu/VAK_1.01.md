@@ -14,20 +14,20 @@
 
 ## 3. Lexical Analysis
 
-| Form | Padaccheda | Meaning |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| yaḥ | yaḥ | he who |
-| sarvathā | sarvathā | in every way |
-| sarva-hata-andhakāraḥ | sarva-hata-andhakāraḥ | whose darkness is destroyed concerning everything |
-| saṃsāra-paṅkāt | saṃsāra-paṅkāt | from the mire of saṃsāra |
-| jagat | jagat | the world |
-| ujjahāra | ujjahāra | lifted up, raised out |
-| tasmai | tasmai | to him |
-| namaskṛtya | namaskṛtya | having bowed |
-| yathārtha-śāstre | yathārtha-śāstṛ | to the teacher according to reality / teacher of reality (dative singular) |
-| śāstram | śāstram | treatise, teaching |
-| pravakṣyāmi | pravakṣyāmi | I shall proclaim |
-| abhidharmakośam | abhidharma-kośam | Treasury of Abhidharma |
+| yaḥ | nominative masculine singular | he who |
+| sarvathā | indeclinable | in every way |
+| sarva-hata-andhakāraḥ | nominative masculine singular | whose darkness is destroyed concerning everything |
+| saṃsāra-paṅkāt | ablative singular | from the mire of saṃsāra |
+| jagat | accusative neuter singular | the world |
+| ujjahāra | third-person singular perfect | lifted up, raised out |
+| tasmai | dative masculine singular | to him |
+| namaskṛtya | absolutive | having bowed |
+| yathārtha-śāstre | dative singular of *yathārtha-śāstṛ* | to the teacher according to reality |
+| śāstram | accusative neuter singular | treatise, teaching |
+| pravakṣyāmi | first-person singular future | I shall proclaim |
+| abhidharmakośam | accusative neuter singular | Treasury of Abhidharma |
 
 ## 4. Grammar
 
@@ -57,13 +57,13 @@ The dative `yathārtha-śāstre` stands in apposition to `tasmai`: homage is off
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
 Having bowed to him whose darkness has been destroyed in every way and concerning everything, who raised the world from the mire of saṃsāra — to that teacher according to reality — I shall proclaim the treatise, the *Abhidharmakośa*.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-Darkness is ignorance, the obstruction of seeing things as they are. In the Buddha it has been destroyed by attainment of the counteragent, and it cannot arise again, in any way, with respect to anything knowable. Pratyekabuddhas and śrāvakas have afflicted delusion removed, but not in every way: non-afflicted ignorance may remain. He raised the world by instruction according to reality, not by supernormal feats or the granting of boons. The treatise is a śāstra because it instructs disciples.
+Having bowed to the Buddha, who has destroyed the ignorance that obscures reality in every way and with respect to everything knowable, and who raised the world from the mire of saṃsāra by teaching according to reality, I shall expound the treatise called the Abhidharmakośa.
 
 ## 6. Philosophical Translation
 

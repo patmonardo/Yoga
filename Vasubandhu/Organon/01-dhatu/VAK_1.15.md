@@ -14,15 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-caturbhyaḥ anye     → the others, apart from the four
-saṃskāra-skandhaḥ  → the formations-base
-ete punaḥ trayaḥ   → these three, again
-dharma-āyatana-dhātu-ākhyāḥ → called the dharma-essence and the dharma-principle
-saha              → together with
-avijñapti-asaṃskṛtaiḥ → avijñapti and the unconditioned
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | caturbhyaḥ | ablative plural | apart from the four |
@@ -63,14 +54,7 @@ and the dharma-principle.
 
 ### Bhāṣya-informed study translation
 
-The formations apart from form, feeling, reflection, and the cognition-base
-are the formations-base. The sūtra names six groups of volition because of its
-predominance. The remaining associated factors and the dissociated formations
-must be included, or they would fall outside suffering and origin, and outside
-full comprehension and abandonment. These three — feeling, reflection, and
-formations — together with *avijñapti* and the unconditioned, are called the
-dharma-essence and the dharma-principle. The commentary counts seven: the three
-bases, *avijñapti*, and the three unconditioned.
+The formations aggregate consists of conditioned dharmas other than form, feeling, perception, and consciousness. Those three aggregates—feeling, perception, and formations—together with avijñapti and the unconditioned, are also called the dharma-essence and the dharma-principle.
 
 ## 6. Philosophical Translation
 

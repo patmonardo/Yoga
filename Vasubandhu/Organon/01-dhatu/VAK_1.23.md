@@ -14,15 +14,6 @@
 
 ## 3. Lexical Analysis
 
-```text
-prāk pañca                 → the five come first
-vārttamāna-arthyāt        → because their objects are present
-bhautika-arthyāt catuṣṭayam → the four, because their objects are derived form
-dūra-āśutara-vṛttyā anyat → the rest, by farther or quicker operation
-yathā-sthānam             → according to location
-kramaḥ athavā             → or, alternatively, the order
-```
-
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | prāk | indeclinable | first |
@@ -33,6 +24,7 @@ kramaḥ athavā             → or, alternatively, the order
 | dūra-āśutara-vṛttyā | instrumental | by farther or quicker operation |
 | anyat | neuter | the remainder |
 | yathā-sthānam | adverbial | according to site |
+| kramaḥ | nominative singular | the order |
 | athavā | particle | an alternative |
 
 The long instrumental is kept. The prose repeats it.
@@ -64,7 +56,11 @@ The five come first, because their objects are present. The four, because their 
 
 ### Bhāṣya-informed study translation
 
-The five, beginning with the eye, are stated first, because they take a present object. Mind is not restricted to the present. Of the five, four are stated first, because their object is derived form. The body's object is sometimes the great elements, sometimes derived form, sometimes both. Eye and ear take a distant object, and the eye operates farther than the ear. Nose is stated before tongue, because it takes the odor of food before the food reaches the tongue. Or the order follows the sites in the body. Mind depends on those organs and is not situated in a place.
+The five Faculties beginning with the eye precede Mind because they take
+present Conditions. Of those five, the first four precede Body because their
+Conditions are Element-dependent Form. The remaining order follows how far
+or how quickly they operate; alternatively, it follows the positions of their
+sites in the body.
 
 ## 6. Philosophical Translation
 

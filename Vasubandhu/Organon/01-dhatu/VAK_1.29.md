@@ -56,11 +56,10 @@ One here is visible: form. Ten are resistant. Eight form-bearing ones are indete
 
 ### Bhāṣya-informed study translation
 
-Of the eighteen principles, one is visible: the visible-form principle. It can be pointed out: this, here, there. The rest are not visible.
-
-Ten are resistant: the ten principles included in the form-base. Resistance here is obstruction, the blocking of a place. The other two resistances are distinguished. They do not make the count.
-
-Eight of those ten are indeterminate: the five organs, and the smell, taste, and tangible principles. Visible form and sound are excluded, because bodily and verbal action can be wholesome or unwholesome.
+Among the eighteen Principles, one is visible: the Visible Form Principle.
+The ten Principles included in the Form Base are resistant by obstruction.
+Eight of those ten are indeterminate, neither wholesome nor unwholesome:
+those same ten excluding Visible Form and Sound.
 
 ## 6. Philosophical Translation
 

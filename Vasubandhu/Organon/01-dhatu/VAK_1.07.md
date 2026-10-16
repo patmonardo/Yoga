@@ -44,13 +44,13 @@ sa eva
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
 
 Those Conditioned dharmas are the five bases beginning with form. That same field is the course, the *kathāvastu*, the *saniḥsāra*, and the *savastuka*.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-They are called Conditioned because conditions come together and act together, and nothing is produced by one condition. The courses are gone, going, and about to go. The Prakaraṇa includes the *kathāvastu* in the eighteen principles. The prose glosses *niḥsāra* as nirvāṇa, the going-out from everything Conditioned. The Vaibhāṣikas say, *kila*, that the word *vastu* expresses cause. Those are glosses. They are not the quad.
+The conditioned dharmas are the five Bases beginning with Form. Those same dharmas traverse past, present, and future; they are matters of discourse, have an exit in nirvāṇa, and have causes.
 
 ## 6. Philosophical Translation
 

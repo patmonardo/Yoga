@@ -53,15 +53,7 @@ Likewise, other bases, essences, and principles also are to be assigned, as appr
 
 ### Bhāṣya-informed study translation
 
-Just as these eighty thousand dharma-collections have been placed in these very five bases, so other bases, essences, and principles stated in other sūtras are to be assigned among those already stated, having determined each one's own characteristic as set out in this treatise.
-
-Of the five collections — discipline, concentration, wisdom, liberation, and knowledge-and-vision — the discipline-collection is included in the form-base. The remaining four are included in the formations-base. The running compound does not repeat liberation before knowledge-and-vision. That relation is supplied.
-
-Of the ten totalities, eight, being non-greed by nature, are included in the dharma-essence. Together with their attendants, being five bases by nature, they are included in the mind-essence and the dharma-essence. So too the masteries.
-
-The totalities of infinite space and infinite cognition, and the four attainments beginning with infinite space, are four bases by nature, and are included in the mind-essence and the dharma-essence. The five liberations, being wisdom by nature, are included in the dharma-essence. Together with their attendants, they are included in the sound-essence, the mind-essence, and the dharma-essence.
-
-Of the two further cases, non-percipient beings are included in ten essences, smell and taste being absent. Beings in neither-perception-nor-non-perception are included in the mind-essence and the dharma-essence. In the discourse of many principles, sixty-two principles are taught. Their inclusion is to be known as appropriate.
+Other aggregates, essences, and principles taught elsewhere are likewise to be assigned, as appropriate, among those already stated, after determining each one's own characteristic.
 
 ## 6. Philosophical Translation
 
