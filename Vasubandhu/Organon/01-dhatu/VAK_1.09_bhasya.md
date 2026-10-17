@@ -82,6 +82,20 @@ The base starts here. Eleven members, and the cognition not among them. The facu
 
 *Vijñāna* on this page is cognition. Principle is not this verse. The eye is already called an internal essence. That citation is the door, not the enumeration.
 
+**Grammar–Logic pilot.** The paired kārikā now parses the enumeration and
+the Faculty predication with the Chapter 8 feature-grammar pattern.
+Lambda semantics composes the Faculty definition; separate FOL records
+the exhaustive Form classification and the five corresponding support
+relations. The finite model distinguishes Form Base from visible Form and
+support from identity. It does not infer that a Faculty alone suffices to
+produce Cognition.
+
+For the Organon inquiry, the important opening is positive: Form includes
+the capacities supporting Cognition, not only what is visibly presented.
+The cited internal Essence and its dependence on the four Great Elements
+require further determination. Neither an anti-metaphysical prohibition
+nor a completed transcendental theory is supplied by this unit.
+
 ## 6. Decisions for the Kārikā
 
 1. *Rūpa* is form, the form-base, eleven.
@@ -94,4 +108,9 @@ The base starts here. Eleven members, and the cognition not among them. The facu
 
 ## 7. Review Status
 
-The verse and the commentary use the same literal. The witness is not patched. The five meanings are not opened.
+The Bhāṣya-informed study translation matches the paired kārikā anchor.
+The Sanskrit witness and continuous translation are preserved. Sections
+4 and 8 of the kārikā carry the feature grammar, chart checkpoints,
+dependency grammar, lambda semantics, FOL theories, and finite valuation.
+This pilot is confined to 1.09; the detailed analysis of the five meanings
+is not opened.

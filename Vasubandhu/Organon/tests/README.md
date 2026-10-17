@@ -34,8 +34,21 @@ python Vasubandhu/Organon/tests/audit_nltk_blocks.py --chapter 8
 ```
 
 It checks that the grammar parses its `# tokens:` line once, every formula
-parses, and every predicate is declared in the valuation. Chapters 1–7 are
-not yet converted and report failures.
+parses, and every predicate is declared in the valuation. Chapters 1–7 are not yet converted chapter-wide. VAK 1.04 and 1.09 are
+Dhātu pilots using the same feature grammar, lambda semantics, FOL, and
+valuation pattern. Validate each verse separately:
+
+```sh
+python Vasubandhu/Organon/tests/audit_nltk_blocks.py \
+  --chapter 1 --start 4 --end 4
+python Vasubandhu/Organon/tests/audit_nltk_blocks.py \
+  --chapter 1 --start 9 --end 9
+```
+
+Each pilot's accepted theories should report `T`; its `rejected_...` theories
+should report `F`, demonstrating the commentary's counterexamples in the
+finite valuation. The audit reports truth values but does not itself enforce
+these expected results. Unconverted verses still report missing-block failures.
 
 The heading audit applies strict Dhātu Pattern 3 rules to chapter 1 and one
 exact ten-section template to every Loka and Karman kārikā study:

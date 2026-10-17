@@ -30,18 +30,52 @@ tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ // 1.09 //
 
 ## 4. Grammar
 
-```text
-rūpam
-    = pañca indriyāṇi
-    + arthāḥ pañca
-    + avijñaptiḥ eva ca
+The feature chart parses the enumeration and the Faculty predication.
+The root `SEM` composes the latter only; the enumeration is represented
+separately in section 8. Tokens normalize external sandhi and divide
+*pañcendriyāṇi*, without altering the witness.
 
-cakṣur-ādayaḥ
-    = rūpa-prasādāḥ
-    = tad-vijñāna-āśrayāḥ
+```nltk-fcfg
+% start S
+# tokens: rūpam pañca indriyāṇi arthāḥ pañca avijñaptiḥ eva ca tadvijñānāśrayāḥ rūpaprasādāḥ cakṣurādayaḥ
+S[SEM=?definition] -> CL[K=enumerate] CL[K=define,SEM=?definition]
+CL[K=enumerate] -> N[CASE=nom,NUM=sg,GEN=n,K=form] NUMR[COUNT=five] N[CASE=nom,NUM=pl,GEN=n,K=faculty] N[CASE=nom,NUM=pl,GEN=m,K=meaning] NUMR[COUNT=five] N[CASE=nom,NUM=sg,GEN=f,K=avijnapti] PTCL[FOCUS=yes] CONJ[COORD=and]
+CL[K=define,SEM=<?q(\x.(?s(x) & ?p(x)))>] -> N[CASE=nom,NUM=?n,GEN=?g,K=support,SEM=?s] N[CASE=nom,NUM=?n,GEN=?g,K=clarity,SEM=?p] N[CASE=nom,NUM=?n,GEN=?g,K=faculties,SEM=?q]
+N[CASE=nom,NUM=sg,GEN=n,K=form] -> 'rūpam'
+NUMR[COUNT=five] -> 'pañca'
+N[CASE=nom,NUM=pl,GEN=n,K=faculty] -> 'indriyāṇi'
+N[CASE=nom,NUM=pl,GEN=m,K=meaning] -> 'arthāḥ'
+N[CASE=nom,NUM=sg,GEN=f,K=avijnapti] -> 'avijñaptiḥ'
+PTCL[FOCUS=yes] -> 'eva'
+CONJ[COORD=and] -> 'ca'
+N[CASE=nom,NUM=pl,GEN=m,K=support,SEM=<\x.exists c.(Cognition(c) & Corresponds(c,x) & Supports(x,c))>] -> 'tadvijñānāśrayāḥ'
+N[CASE=nom,NUM=pl,GEN=m,K=clarity,SEM=<\x.ClarityOfForm(x)>] -> 'rūpaprasādāḥ'
+N[CASE=nom,NUM=pl,GEN=m,K=faculties,SEM=<\P.all x.(Faculty(x) -> P(x))>] -> 'cakṣurādayaḥ'
 ```
 
-The first line enumerates. The second defines the five Faculties. They are clarities of Form, and supports of the Cognition that corresponds. Cognition is not a member of the count.
+```nltk-dep
+'rūpam' -> 'indriyāṇi' | 'arthāḥ' | 'avijñaptiḥ'
+'indriyāṇi' -> 'pañca'
+'arthāḥ' -> 'pañca'
+'avijñaptiḥ' -> 'eva' | 'ca'
+'cakṣurādayaḥ' -> 'tadvijñānāśrayāḥ' | 'rūpaprasādāḥ'
+```
+
+**Feature chart checkpoints.** Half-open spans index the eleven normalized
+tokens. The parser must produce one complete parse.
+
+| Span | Constituent | Feature / semantic determination |
+|---|---|---|
+| [0, 8) | `CL[K=enumerate]` | heterogeneous nominal enumeration; two counts of five |
+| [8, 11) | `CL[K=define]` | nominative plural masculine agreement across three terms |
+| [0, 11) | `S` | Faculty predication's composed `SEM` |
+
+The singular *rūpam* names the collection, not an agreement controller
+requiring all its members to be singular neuter. The second line is a
+nominal predication with an understood copula. Its three terms agree.
+The Bhāṣya resolves *cakṣurādayaḥ* as the five named Faculties and the
+*tad-* reference as the corresponding sensory Cognitions. The grammar
+does not insert Cognition into the Form enumeration.
 
 ## 5. Translation
 
@@ -86,31 +120,116 @@ Meaning stays lowercase. The commentary glosses it as condition. Faculty and mea
 
 ## 8. Logical Determination
 
-```text
-Form Base
-    = five Faculties
-    + five meanings
-    + avijñapti
-    = eleven
+The feature grammar follows the Chapter 8 pattern: lambda composition
+derives the Faculty definition; explicit FOL records the enumeration and
+the Bhāṣya's correspondence. `[verse]` and `[prose]` distinguish provenance.
+This is a formal analysis of classification and support, not an account
+of the genesis of Cognition.
 
-Faculty
-    = clarity of Form
-    = support of the corresponding Cognition
-    Eye → Eye-Cognition
-    and so on
+**Signature.** `FormMember(x)` (membership in the Form Base here),
+`Faculty(x)`, `Meaning(x)` (one of the five sensory meanings),
+`Avijnapti(x)`, `ClarityOfForm(x)`, `Cognition(c)`,
+`Corresponds(c,f)`, and `Supports(f,c)`. `VisibleMeaning(x)` singles out
+visible Form among the meanings. The constants name representative kinds,
+not an eleven-item census of concrete occurrences.
 
-Cognition
-    supported
-    not counted
+**Lambda composition.** The subject quantifies over the five Faculties
+specified by the prose. The compound's support relation is binary;
+it is not identity between Faculty and Cognition.
 
-Meaning
-    glossed as condition
-    not a second inventory
+```nltk-sem
+faculties : \P.all x.(Faculty(x) -> P(x))
+clarities : \x.ClarityOfForm(x)
+supports : \x.exists c.(Cognition(c) & Corresponds(c,x) & Supports(x,c))
+definition : (\P.all x.(Faculty(x) -> P(x)))(\x.((\x.exists c.(Cognition(c) & Corresponds(c,x) & Supports(x,c)))(x) & ClarityOfForm(x)))
 ```
+
+**Root `SEM` and source-controlled theory.** The first formula is exactly
+the simplified semantic result of the feature parse.
+
+```nltk-fol
+# THEORY verse
+# [verse; prose resolves the five Faculties and corresponding Cognitions]
+all x.(Faculty(x) -> (exists c.(Cognition(c) & Corresponds(c,x) & Supports(x,c)) & ClarityOfForm(x)))
+# [verse; prose: etavan rupaskandhah] exhaustive membership by the three groups
+all x.(FormMember(x) <-> (Faculty(x) | Meaning(x) | Avijnapti(x)))
+
+# THEORY prose
+# [prose] the two fivefold lists, with avijnapti named but not defined
+all x.(Faculty(x) <-> (x = eye | x = ear | x = nose | x = tongue | x = body))
+all x.(Meaning(x) <-> (x = visible | x = sound | x = odor | x = taste | x = tangible))
+all x.(Avijnapti(x) <-> x = avijnapti)
+# [prose] corresponding support, not arbitrary support of any Cognition
+Supports(eye,eyecognition) & Corresponds(eyecognition,eye)
+Supports(ear,earcognition) & Corresponds(earcognition,ear)
+Supports(nose,nosecognition) & Corresponds(nosecognition,nose)
+Supports(tongue,tonguecognition) & Corresponds(tonguecognition,tongue)
+Supports(body,bodycognition) & Corresponds(bodycognition,body)
+# [verse enumeration; prose closure] supported Cognition is not an extra member
+all c.(Cognition(c) -> -FormMember(c))
+
+# THEORY counterexamples
+exists f c.(Faculty(f) & Cognition(c) & Supports(f,c) & -(f = c))
+exists x.(FormMember(x) & -VisibleMeaning(x))
+
+# THEORY rejected_support_is_identity
+all f c.(Supports(f,c) -> f = c)
+
+# THEORY rejected_form_is_only_visible
+all x.(FormMember(x) -> VisibleMeaning(x))
+```
+
+**Finite valuation.** Eleven distinct representatives instantiate the
+Form classification: five Faculties, five meanings, and *avijñapti*.
+Five Cognition representatives remain outside it. Distinct denotations
+are a choice of this model; FOL does not supply a unique-names assumption.
+
+```nltk-valuation
+eye => eye
+ear => ear
+nose => nose
+tongue => tongue
+body => body
+visible => visible
+sound => sound
+odor => odor
+taste => taste
+tangible => tangible
+avijnapti => avijnapti
+eyecognition => eyecognition
+earcognition => earcognition
+nosecognition => nosecognition
+tonguecognition => tonguecognition
+bodycognition => bodycognition
+FormMember => {eye, ear, nose, tongue, body, visible, sound, odor, taste, tangible, avijnapti}
+Faculty => {eye, ear, nose, tongue, body}
+Meaning => {visible, sound, odor, taste, tangible}
+Avijnapti => {avijnapti}
+ClarityOfForm => {eye, ear, nose, tongue, body}
+Cognition => {eyecognition, earcognition, nosecognition, tonguecognition, bodycognition}
+Corresponds => {(eyecognition,eye), (earcognition,ear), (nosecognition,nose), (tonguecognition,tongue), (bodycognition,body)}
+Supports => {(eye,eyecognition), (ear,earcognition), (nose,nosecognition), (tongue,tonguecognition), (body,bodycognition)}
+VisibleMeaning => {visible}
+```
+
+**Expected checks.** `verse`, `prose`, and `counterexamples` evaluate true.
+Both `rejected_...` theories evaluate false in this model. The test
+distinguishes support from identity and Form Base from visible Form alone.
+It does not prove that support suffices for Cognition to arise, define
+*avijñapti*, or resolve *āśraya* throughout the system.
 
 ## 9. Interpretive Note
 
 The hinge is the count, then the support. The five Faculties are indicated. The five meanings are named and left for the next verse. The scripture calls the eye an internal Essence, a clarity of Form depending on the four Great Elements. That citation is not this enumeration. The Prakaraṇa agrees: the eye is a clarity of Form that supports Eye-Cognition.
+
+**Organon Light.** The passage makes Form more extensive than visible
+appearance and gives the Faculties a relational determination through
+the Cognition they support. These are positive grounds for metaphysical
+inquiry, not merely a list of sensible things. The formal layer preserves
+that opening without identifying a support with what it supports or
+claiming a transcendental deduction. The scriptural Essence determination
+and dependence on the four Great Elements remain commentary witnesses,
+not silently added conclusions of the verse's feature parse.
 
 ## 10. OWL++ Seed
 
