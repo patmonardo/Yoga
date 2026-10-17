@@ -18,7 +18,7 @@ The seven Bodhi-aligned groups are not assigned as mutually exclusive possession
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **ādi-karmike** | masculine locative singular | in the beginner or beginning practitioner |
 | **nirvedha-bhāgīyeṣu** | masculine locative plural | in the four wholesome roots conducive to penetration |

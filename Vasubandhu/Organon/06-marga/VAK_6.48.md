@@ -20,7 +20,7 @@ noble uncontaminated meditative bases.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **dhyānāt** | neuter ablative singular | from a fundamental concentration; clarified by the Bhāṣya as *maula-dhyāna* |
 | **sāmantakāt** | neuter ablative singular | from a preliminary or neighboring concentration |

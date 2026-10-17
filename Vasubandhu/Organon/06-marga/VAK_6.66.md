@@ -18,7 +18,7 @@ The electronic kārikā witness also transmits **dhanyābhijñā**, but the expl
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **dhyāneṣu** | neuter locative plural | in the four principal dhyānas |
 | **mārgaḥ** | masculine nominative singular | the Path under consideration |

@@ -21,7 +21,7 @@ these courses receive the designation.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **ūrdhva-srotuḥ** | masculine genitive singular | of the upward-streamer |
 | **abhedena** | masculine instrumental singular | by non-division, through being stated without subdivision |

@@ -18,7 +18,7 @@ The Bhāṣya immediately continues the verse with **mārgaś ca**, “and the P
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **lābhaḥ** | masculine nominative singular | acquisition, here of verified confidence |
 | **mārga-abhisamaye** | masculine locative singular | at direct realization of the Path-truth |

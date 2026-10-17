@@ -18,7 +18,7 @@ The opening completes the preceding account of relative completeness. The remain
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **aśaikṣa-paripūrṇatvam** | neuter nominative singular compound | completeness proper to one beyond training |
 | **dvābhyām** | instrumental dual | by two respects: faculty and attainment |

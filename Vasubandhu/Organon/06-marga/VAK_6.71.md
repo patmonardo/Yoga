@@ -18,7 +18,7 @@ The verse introduces two independent determinations of the same thirty-sevenfold
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **anāsravāṇi** | neuter nominative plural | without outflows; uncontaminated |
 | **bodhyaṅgāni** | neuter nominative plural | factors of awakening |

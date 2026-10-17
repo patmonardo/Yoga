@@ -20,7 +20,7 @@ practitioner and a Noble born in a higher realm.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **na** | negative particle | does not |
 | **parāvṛtta-janmā** | masculine nominative singular compound | one who has undergone another or changed birth |

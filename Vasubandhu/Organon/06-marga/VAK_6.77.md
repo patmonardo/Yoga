@@ -1,12 +1,12 @@
 # VAK 6.77 — The Path Abandons; the Aśaikṣa Mind Arises Free
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
 विमुच्यते जायमानमशैक्षं चित्तमावृतेः ।
 
 निरुध्यमानो मार्गस्तु प्रजहाति तदावृतिम् ॥ ६.७७ ॥
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
 vimucyate jāyamānam aśaikṣaṃ cittam āvṛteḥ |
 
@@ -14,24 +14,19 @@ nirudhyamāno mārgas tu prajahāti tad-āvṛtim || 6.77 ||
 
 The verse distinguishes the presently operative final Path-moment from the Aśaikṣa mind arising immediately after it. Abandonment and liberated actuality are contiguous, causally ordered, and non-identical.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-**Padaccheda**
-
-vimucyate | jāyamānam | aśaikṣam | cittam | āvṛteḥ |
-nirudhyamānaḥ | mārgaḥ | tu | prajahāti | tad-āvṛtim
-
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| **vimucyate** | third-person singular present passive of *vi-√muc* | is released or freed |
-| **jāyamānam** | neuter nominative singular present middle participle of *√jan* | while arising |
-| **aśaikṣam cittam** | neuter nominative singular | mind beyond training |
-| **āvṛteḥ** | feminine ablative singular | from the obstruction |
-| **nirudhyamānaḥ** | masculine nominative singular present passive participle of *ni-√rudh* | while ceasing; glossed by the Bhāṣya as “while present” |
-| **mārgaḥ** | masculine nominative singular | the final Path-moment, vajropama-samādhi |
-| **tu** | adversative particle | but, distinguishing the Path’s function |
-| **prajahāti** | third-person singular present active of *pra-√hā* | abandons |
-| **tad-āvṛtim** | feminine accusative singular | that obstruction |
+| vimucyate | third-person singular present passive of *vi-√muc* | is released or freed |
+| jāyamānam | neuter nominative singular present middle participle of *√jan* | while arising |
+| aśaikṣam cittam | neuter nominative singular | mind beyond training |
+| āvṛteḥ | feminine ablative singular | from the obstruction |
+| nirudhyamānaḥ | masculine nominative singular present passive participle of *ni-√rudh* | while ceasing; glossed by the Bhāṣya as “while present” |
+| mārgaḥ | masculine nominative singular | the final Path-moment, vajropama-samādhi |
+| tu | adversative particle | but, distinguishing the Path’s function |
+| prajahāti | third-person singular present active of *pra-√hā* | abandons |
+| tad-āvṛtim | feminine accusative singular | that obstruction |
 
 The repeated obstruction is not affliction taken vaguely. The Bhāṣya identifies it precisely as **kleśa-prāpti**, acquisition or possession of the afflictions, insofar as it obstructs the arising of the Aśaikṣa mind.
 

@@ -18,7 +18,7 @@ VAK 6.67 announced that the thirty-seven Bodhi-aligned functions reduce to ten u
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **śraddhā** | feminine nominative singular | confidence or lucid trust |
 | **vīryam** | neuter nominative singular | energy, exertion |

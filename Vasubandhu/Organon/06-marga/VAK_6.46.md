@@ -20,7 +20,7 @@ Bhāṣya tests the proposed reason for that extension.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **laukikena** | masculine instrumental singular | by the mundane Path |
 | **ārya-vairāgye** | neuter locative singular compound | when an Ārya attains dispassion |

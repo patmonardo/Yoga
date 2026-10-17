@@ -20,7 +20,7 @@ paired across eighty-nine cases.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **śrāmaṇyam** | neuter nominative singular abstract noun | the defining efficacy or practice of a śramaṇa |
 | **amalaḥ** | masculine nominative singular | stainless; glossed by the Bhāṣya as uncontaminated, *anāsrava* |

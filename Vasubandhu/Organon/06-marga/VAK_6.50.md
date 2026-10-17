@@ -22,7 +22,7 @@ for every arhat.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **yadi** | conditional particle | if |
 | **akopyaḥ** | masculine nominative singular | immovable; incapable of falling away |

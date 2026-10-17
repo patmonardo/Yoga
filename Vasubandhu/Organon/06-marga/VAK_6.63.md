@@ -18,7 +18,7 @@ The verse does not present seven serial stages. The Bhāṣya derives seven desi
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **prayoga** | masculine compound member | application or mode of undertaking the Path |
 | **akṣa** | masculine compound member | faculty; interpreted by the Bhāṣya as *indriya* |

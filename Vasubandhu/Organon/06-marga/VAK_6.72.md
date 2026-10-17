@@ -18,7 +18,7 @@ The distribution begun in 6.71 continues through the higher dhyānas, the interm
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **dvitīye** | neuter locative singular | in the second dhyāna |
 | **anyatra** | indeclinable | except, apart from |

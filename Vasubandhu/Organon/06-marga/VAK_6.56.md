@@ -18,7 +18,7 @@ The Bhāṣya names all six Arhat-types, but this verse establishes principally 
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **ṣaṭ arhantaḥ** | masculine nominative plural with numeral | six kinds of Arhats |
 | **matāḥ** | masculine nominative plural past passive participle | are recognized or held to be |

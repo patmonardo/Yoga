@@ -18,7 +18,7 @@ The Bhāṣya introduces this verse by saying that **this same Mārga** now rece
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **anutpāda-kṣaya-jñāne** | neuter nominative dual compound | Knowing of non-arising and Knowing of exhaustion |
 | **bodhiḥ** | feminine nominative singular | awakening, technically constituted here by the two Knowings |

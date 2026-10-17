@@ -18,7 +18,7 @@ The first half continues the Vaibhāṣika account permitting regression from Ar
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **mriyate** | third-person singular present middle | dies |
 | **na** | negative particle | not |

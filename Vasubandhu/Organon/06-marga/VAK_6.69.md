@@ -18,7 +18,7 @@ The verse completes the examples begun in 6.68 and then states their governing r
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **vīryam** | neuter nominative singular | energy as principal dharma of the right abandonments |
 | **samyak-prahāṇa-ākhyam** | neuter nominative singular compound | bearing the designation “right abandonments” |

@@ -20,7 +20,7 @@ from the two ways available for lower grounds.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **tat-kṣaya-āptyā** | feminine instrumental singular compound | with or through attainment of the destruction of that final grade |
 | **kṣaya-jñānam** | neuter nominative singular compound | Knowing of exhaustion |

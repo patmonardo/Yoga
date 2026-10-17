@@ -20,7 +20,7 @@ whether the proposed moment-level completion is practicable.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **ākīryate** | present passive third-person singular of ā-√kṝ | is intermingled or mixed |
 | **caturtham** | neuter nominative singular | the fourth, namely the fourth dhyāna |

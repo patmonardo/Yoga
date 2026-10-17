@@ -18,7 +18,7 @@ The verse announces five reasons but states three. The remaining two appear in t
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **catuḥ-phala-vyavasthā** | feminine nominative singular compound | establishment or systematic determination of four principal fruits |
 | **tu** | adversative particle | but; contrasts the fourfold organization with the numerous fruits of 6.51 |

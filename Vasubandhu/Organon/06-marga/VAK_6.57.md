@@ -18,7 +18,7 @@ The Bhāṣya makes two decisive clarifications. **uttāpana** is specifically t
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **ataḥ** | ablatival adverb | therefore; from the non-dependence established in 6.56 |
 | **asamaya-muktaḥ** | masculine nominative singular compound | liberated without dependence upon a suitable occasion |

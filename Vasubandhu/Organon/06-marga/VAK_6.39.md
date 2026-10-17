@@ -20,7 +20,7 @@ that differentiation: karma, residual affliction, and faculty.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **punaḥ** | indeclinable | again; introduces the further subdivision |
 | **trīn / trīṃs** | masculine accusative plural | three non-returner types being subdivided |

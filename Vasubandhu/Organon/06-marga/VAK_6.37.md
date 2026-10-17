@@ -20,7 +20,7 @@ Akaniṣṭha.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **saḥ** | masculine nominative singular pronoun | that same non-returner from the preceding verse |
 | **antara-** | first member of compressed classificatory series | attaining final nirvāṇa in the intermediate existence |

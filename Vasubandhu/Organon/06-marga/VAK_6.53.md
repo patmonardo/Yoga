@@ -18,7 +18,7 @@ The second half is syntactically compressed in the working witness. The Bhāṣy
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **jñāna-aṣṭakasya** | neuter genitive singular compound | of the group of eight Knowings |
 | **lābhaḥ** | masculine nominative singular | acquisition |

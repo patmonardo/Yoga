@@ -18,7 +18,7 @@ The first-pass witness left the distribution of **antyā**, **madhyā**, and **a
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **parihāṇiḥ** | feminine nominative singular | regression, decline, falling away |
 | **tridhā** | indeclinable numeral-adverb | in three ways |

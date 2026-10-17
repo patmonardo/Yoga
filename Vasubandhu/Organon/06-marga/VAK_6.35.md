@@ -20,7 +20,7 @@ second fruit; exhaustion of the sixth marks its attainment.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **ā-pañcama-prakāra-ghnaḥ** | masculine nominative singular compound | destroying up to and including the fifth grade |
 | **dvitīya-pratipannakaḥ** | masculine nominative singular | one proceeding toward the second fruit |

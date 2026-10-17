@@ -18,7 +18,7 @@ The first half defines the final two persons named in 6.63. The second half turn
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **nirodha-lābhī** | masculine nominative singular possessive compound | one possessing the attainment of cessation |
 | **ubhayataḥ-vimuktaḥ** | masculine nominative singular | liberated in both respects |

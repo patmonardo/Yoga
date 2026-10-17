@@ -22,7 +22,7 @@ grounds. Both source forms remain visible in the Bhāṣya.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **vimukti-pathāḥ** | masculine nominative plural compound | liberation-paths; moments possessing the separation just produced |
 | **ānantarya-pathāḥ** | masculine nominative plural compound | uninterrupted paths; moments directly abandoning the relevant defilement-grade |

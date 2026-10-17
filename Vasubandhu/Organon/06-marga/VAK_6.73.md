@@ -18,7 +18,7 @@ The first half completes the distribution of the thirty-seven factors by ground.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **kāma-dhātau** | masculine locative singular | in the desire realm, here as a ground to which factors are assigned |
 | **bhava-agre** | neuter locative singular | at the summit of existence, the highest formless ground |

@@ -20,7 +20,7 @@ designation to non-returner.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **kṣīṇa-sapta-aṣṭa-doṣāṃśaḥ** | masculine nominative singular compound | one in whom seven or eight portions of the faults are exhausted |
 | **eka-janma** | masculine nominative singular compound | one having a single birth remaining |

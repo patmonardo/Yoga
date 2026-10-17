@@ -22,7 +22,7 @@ the prose for its sense without fixing the exact division implied by
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **bhavāgrāt** | neuter ablative singular | from the summit of existence |
 | **ardha-prakāra-vimuktaḥ** | Bhāṣya-controlled masculine nominative compound | one partly liberated from the summit |

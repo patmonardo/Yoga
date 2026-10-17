@@ -20,7 +20,7 @@ at the summit of existence remains within that candidacy.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **ā-bhavāgra-** | compound prefix with inclusive limit | extending up to the summit of existence |
 | **aṣṭa-bhāga-kṣit** | masculine nominative singular agent compound | one who destroys eight portions or grades |

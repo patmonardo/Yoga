@@ -18,7 +18,7 @@ The first pāda begins with the Bhāṣya continuation required by 6.74: Dharma 
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **mārgaḥ ca** | masculine nominative singular with conjunction | and the Path-truth is included in Dharma |
 | **dravyataḥ** | indeclinable ablatival adverb | according to underlying operative dharma |

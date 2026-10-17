@@ -18,7 +18,7 @@ The kārikā compresses the reasons for the absence of the Path of Seeing above 
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **kāme** | masculine locative singular | in the desire realm, *kāmadhātu* |
 | **traya-āptiḥ** | feminine nominative singular compound | attainment of the three [first fruits] |

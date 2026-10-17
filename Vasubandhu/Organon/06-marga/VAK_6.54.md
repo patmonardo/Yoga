@@ -18,7 +18,7 @@ The Bhāṣya does not reduce **dharmacakra** to one uncontested identification.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **brāhmaṇyam** | neuter nominative singular abstract noun | brāhmaṇa-efficacy; the uncontaminated Path as remover of affliction |
 | **brahma-cakram** | neuter nominative singular compound | Brahma-wheel; the Path as set in motion by the Buddha |

@@ -18,7 +18,7 @@ The verse is metrically compressed. The Bhāṣya supplies the decisive resoluti
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **asaṃskṛtā** | feminine nominative singular | unconditioned [liberation] |
 | **kleśa-hānam** | neuter nominative singular | abandonment or loss of the afflictions |

@@ -20,7 +20,7 @@ who has abandoned three or four grades is family-to-family.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **akṣīṇa-bhāvanā-heyaḥ** | masculine nominative singular compound | one whose factors abandonable by cultivation have not been exhausted |
 | **phala-sthaḥ** | masculine nominative singular compound | one established in the fruit |

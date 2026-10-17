@@ -1,12 +1,12 @@
 # VAK 6.79 — Object, Efficacy, and the Fourfold Path-Conclusion
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
 निर्विद्यते दुःखहेतुक्षान्तिज्ञानैर्विरज्यते ।
 
 सर्वैर्जहाति यैरेवं चतुष्कोटिकसम्भवः ॥ ६.७९ ॥
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
 nirvidyate duḥkha-hetu-kṣānti-jñānair virajyate |
 
@@ -14,24 +14,19 @@ sarvair jahāti yair evaṃ catuṣkoṭika-saṃbhavaḥ || 6.79 ||
 
 The final verse distinguishes disenchantment from dispassion. Their relation cannot be inferred from truth-cognition alone; it depends jointly on the cognition’s object and whether that cognition actually abandons an affliction.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-**Padaccheda**
-
-nirvidyate | duḥkha-hetu-kṣānti-jñānaiḥ | virajyate |
-sarvaiḥ | jahāti | yaiḥ | evam | catuṣkoṭika-saṃbhavaḥ
-
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| **nirvidyate** | third-person singular present middle of *nir-√vid* | becomes disenchanted, turns away through comprehension |
-| **duḥkha-hetu** | compound | suffering and its cause, explained as duḥkha and samudaya |
-| **kṣānti-jñānaiḥ** | neuter instrumental plural compound | through receptivities and knowledges |
-| **virajyate** | third-person singular present middle of *vi-√rañj* | becomes dispassionate, freed from attachment |
-| **sarvaiḥ** | instrumental plural | through any of the receptivities and knowledges of all Four Truths |
-| **jahāti** | third-person singular present active of *√hā* | abandons |
-| **yaiḥ** | relative instrumental plural | through those by which [one abandons afflictions] |
-| **evam** | indeclinable | thus, in this manner |
-| **catuṣkoṭika-saṃbhavaḥ** | masculine nominative singular compound | possibility of a four-cornered analysis |
+| nirvidyate | third-person singular present middle of *nir-√vid* | becomes disenchanted, turns away through comprehension |
+| duḥkha-hetu | compound | suffering and its cause, explained as duḥkha and samudaya |
+| kṣānti-jñānaiḥ | neuter instrumental plural compound | through receptivities and knowledges |
+| virajyate | third-person singular present middle of *vi-√rañj* | becomes dispassionate, freed from attachment |
+| sarvaiḥ | instrumental plural | through any of the receptivities and knowledges of all Four Truths |
+| jahāti | third-person singular present active of *√hā* | abandons |
+| yaiḥ | relative instrumental plural | through those by which [one abandons afflictions] |
+| evam | indeclinable | thus, in this manner |
+| catuṣkoṭika-saṃbhavaḥ | masculine nominative singular compound | possibility of a four-cornered analysis |
 
 The Kārikā’s **sarvaiḥ** is restricted by **yaiḥ [kleśān] jahāti**. The Bhāṣya makes explicit that not every cognition of every Truth automatically produces virāga.
 

@@ -18,7 +18,7 @@ The running verse has a damaged first word, `dṛṣṭacyāptatāyām`, which t
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **dṛṣṭi-āptatāyām** | feminine locative singular abstract compound | in the production of the seeing-attained condition, *dṛṣṭiprāptatā* |
 | **eka-ekaḥ** | distributive numeral | one each; one uninterrupted and one liberation-path |

@@ -20,7 +20,7 @@ designation “bodily witness.”
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **tat-pañca-vidhyāt** | neuter ablative singular compound | because of its fivefold differentiation |
 | **pañca eva** | numeral plus emphatic particle | exactly five |

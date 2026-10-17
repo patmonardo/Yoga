@@ -1,12 +1,12 @@
 # VAK 6.78 — Three Dhātus of One Unconditioned Liberation
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
 असंस्कृतैव धात्वाख्या विरागो रागसंक्षयः ।
 
 प्रहाणधातुरन्येषां निरोधाख्यस्तु वस्तुनः ॥ ६.७८ ॥
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
 asaṃskṛtaiva dhātvākhyā virāgo rāgasaṃkṣayaḥ |
 
@@ -14,25 +14,20 @@ prahāṇadhātur anyeṣāṃ nirodhākhyas tu vastunaḥ || 6.78 ||
 
 The Bhāṣya asks what distinguishes the three liberation-domains and answers that they are three names of the same unconditioned liberation, differentiated according to the terminus of cessation.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-**Padaccheda**
-
-asaṃskṛtā | eva | dhātu-ākhyā | virāgaḥ | rāga-saṃkṣayaḥ |
-prahāṇa-dhātuḥ | anyeṣām | nirodha-ākhyaḥ | tu | vastunaḥ
-
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| **asaṃskṛtā** | feminine nominative singular | unconditioned [liberation] |
-| **eva** | restrictive particle | precisely, exclusively |
-| **dhātu-ākhyā** | feminine nominative singular compound | bearing the designations “dhātu” |
-| **virāgaḥ** | masculine nominative singular | dispassion; domain named from abandonment of rāga |
-| **rāga-saṃkṣayaḥ** | masculine nominative singular | complete exhaustion of attachment |
-| **prahāṇa-dhātuḥ** | masculine nominative singular | domain of abandonment |
-| **anyeṣām** | masculine genitive plural | of the others, namely afflictions other than rāga |
-| **nirodha-ākhyaḥ** | masculine nominative singular | bearing the name cessation |
-| **tu** | adversative particle | whereas, distinguishing the third designation |
-| **vastunaḥ** | neuter genitive singular | of the basis already freed from affliction, according to the Bhāṣya |
+| asaṃskṛtā | feminine nominative singular | unconditioned [liberation] |
+| eva | restrictive particle | precisely, exclusively |
+| dhātu-ākhyā | feminine nominative singular compound | bearing the designations “dhātu” |
+| virāgaḥ | masculine nominative singular | dispassion; domain named from abandonment of rāga |
+| rāga-saṃkṣayaḥ | masculine nominative singular | complete exhaustion of attachment |
+| prahāṇa-dhātuḥ | masculine nominative singular | domain of abandonment |
+| anyeṣām | masculine genitive plural | of the others, namely afflictions other than rāga |
+| nirodha-ākhyaḥ | masculine nominative singular | bearing the name cessation |
+| tu | adversative particle | whereas, distinguishing the third designation |
+| vastunaḥ | neuter genitive singular | of the basis already freed from affliction, according to the Bhāṣya |
 
 The sense of **saṃkṣaya**, complete exhaustion, carries through the compact clauses. The Bhāṣya supplies **kleśanirmuktasya** as the decisive restriction on **vastunaḥ**.
 

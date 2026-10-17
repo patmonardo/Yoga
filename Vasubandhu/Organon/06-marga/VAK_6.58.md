@@ -18,7 +18,7 @@ The phrase **na pūrvakāt** means, according to the Bhāṣya, that neither one
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **gotrāt** | neuter ablative singular | from a disposition or spiritual capacity |
 | **caturṇām** | genitive plural numeral | of four; the four beginning with *cetanādharman* |

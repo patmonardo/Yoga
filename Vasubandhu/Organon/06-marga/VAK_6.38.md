@@ -20,7 +20,7 @@ formless-realm type, and completion in this life.
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **saḥ** | masculine nominative singular pronoun | that Akaniṣṭha-bound upward-streamer |
 | **plutaḥ** | masculine nominative singular | leaper; one who skips the intermediate stations |

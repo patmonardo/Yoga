@@ -18,7 +18,7 @@ The Bhāṣya prevents two conflations. Faculty-strengthening replaces the weak-
 
 ## 3. Lexical Analysis
 
-| Form | Analysis | Contextual force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | **sa-viśeṣam** | neuter accusative singular possessive compound | together with its specific determination |
 | **phalam** | neuter accusative singular | fruit |
