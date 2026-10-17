@@ -26,24 +26,16 @@ python -m unittest discover \
 
 ## NLTK block audit
 
-Chapter 8 (Samāpatti) writes Grammar and Logical Determination as NLTK
-objects in fenced blocks. The heading audit ignores fenced code, so
-`audit_nltk_blocks.py` validates them (it requires NLTK):
+Chapter 8 writes Grammar and Logical Determination as `nltk-*` fenced blocks,
+which the heading audit ignores. Validate them (requires NLTK) with:
 
 ```sh
-python Vasubandhu/Organon/tests/audit_nltk_blocks.py \
-  --chapter 8 --start 1 --end 43
+python Vasubandhu/Organon/tests/audit_nltk_blocks.py --chapter 8
 ```
 
-- Section 4: exactly one `nltk-fcfg` block (with a `# tokens:` line that
-  parses exactly once) and one `nltk-dep` block.
-- Section 8: `nltk-sem`, `nltk-fol` and `nltk-valuation` blocks. Every formula
-  parses, every predicate and constant is declared in the valuation (NLTK
-  raises `Undefined` otherwise), and each `# THEORY` is reported T or F in the
-  valuation. F is legitimate for a disputed theory; the report is
-  informational and only load, declaration or parse failures fail the run.
-
-Chapters 1–7 have not yet been converted and report failures.
+It checks that the grammar parses its `# tokens:` line once, every formula
+parses, and every predicate is declared in the valuation. Chapters 1–7 are
+not yet converted and report failures.
 
 The heading audit applies strict Dhātu Pattern 3 rules to chapter 1 and one
 exact ten-section template to every Loka and Karman kārikā study:

@@ -66,19 +66,10 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
 - Lexical Analysis begins with one table of `Pada`, `Morphology`, and
   `Force in this passage`. Keep useful sandhi or textual notes after the
   table; a separate prefatory Padaccheda block is unnecessary.
-- In chapter 8, Grammar and Logical Determination are NLTK objects in fenced
-  blocks, validated by `tests/audit_nltk_blocks.py`. Grammar holds an
-  `nltk-fcfg` feature grammar (agreement by unification; a `# tokens:` line
-  names the leaves it parses; `SUPPLIED=prose` marks covert elements) and an
-  `nltk-dep` dependency grammar, then a short note and the unchanged Close
-  construe. Logical Determination holds a signature, `nltk-sem` lambda
-  composition where a real composition occurs, `nltk-fol` rules grouped by
-  `# THEORY name` (disputed positions stay separate theories), an
-  `nltk-valuation` finite model of the facts (every predicate declared, empty
-  ones as `{}`), stated results, and scope cautions. Constants are ASCII and
-  longer than one letter, since NLTK reads `d1` as a variable. Claim only
-  what was run: use Resolution for contradictions and a finite model for
-  consistency.
+- In chapter 8, Grammar is an NLTK feature grammar (`nltk-fcfg`) plus a
+  dependency grammar (`nltk-dep`). Logical Determination is NLTK FOL/lambda
+  (`nltk-sem`, `nltk-fol` by `# THEORY`, `nltk-valuation`). Check them with
+  `tests/audit_nltk_blocks.py`; claim only what was run.
 - Only `Literal Translation` and `Bhāṣya-informed study translation` are
   subsection headings. Verse-specific divisions inside the other stages are
   bold editorial signposts, not additional report sections.
