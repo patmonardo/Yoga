@@ -6,7 +6,8 @@
 >
 > tataḥ anyau tu pratyayau tadviparyayāt // 2.63 //
 
-> Two causes perform their activity toward ceasing, the present: the co-arisen and the associated, whose operation is on a fruit arisen together with them. Three do so toward arising, the future: the homogeneous, the pervasive, and the maturation cause. The other conditions act by the reverse. The immediately antecedent acts toward arising, by giving an opening; the object-condition acts toward ceasing, because present mind and factors apprehend. The predominant condition stands in every state, by non-obstruction.
+> Of the five causes, two act toward the ceasing present and three toward
+> the arising future. The other two conditions act in the reverse way.
 
 ## 2. Continuous Sanskrit Witness
 

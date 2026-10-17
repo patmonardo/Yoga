@@ -6,7 +6,8 @@
 >
 > vartamānātītau dvau eko 'tītaḥ prayacchati // 2.59 //
 
-> Five causes, while present, take their fruit; a cause takes its fruit by assuming seed-status toward it. Two give it while present; two give it while present or past; and one, the maturation cause, gives it only when past.
+> Five causes take their fruit while present. Two give fruit while
+> present, two while present or past, and one gives it only when past.
 
 ## 2. Continuous Sanskrit Witness
 

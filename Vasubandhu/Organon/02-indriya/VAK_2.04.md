@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> आज्ञास्याम्याख्यमाज्ञाख्यमाज्ञातावीन्द्रियं तथा ।
->
-> उत्तरोत्तरसंप्राप्तिनिर्वाणाद्याधिपत्यतः ॥ २.४ ॥
+```sanskrit
+आज्ञास्याम्याख्यमाज्ञाख्यमाज्ञातावीन्द्रियं तथा ।
+उत्तरोत्तरसंप्राप्तिनिर्वाणाद्याधिपत्यतः ॥ २.४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ājñāsyāmyākhyam ājñākhyam ājñātāvīndriyaṃ tathā /
->
-> uttarottarasaṃprāptinirvāṇādyādhipatyataḥ // 2.4 //
+```text
+ājñāsyāmyākhyam ājñākhyam ājñātāvīndriyaṃ tathā /
+uttarottarasaṃprāptinirvāṇādyādhipatyataḥ // 2.4 //
+```
 
 ## 3. Lexical Analysis
 
@@ -43,11 +45,14 @@ NP[NAME=has-known] -> 'one who has known'
 
 ### Literal Translation
 
-Likewise, the one called “I shall know,” the one called knowledge, and the faculty of one who has known, because of governing efficacy over successive attainment, nirvāṇa, and the rest.
+> Likewise, the one called “I shall know,” the one called knowledge, and the
+> faculty of one who has known, because of governing efficacy over
+> successive attainment, nirvāṇa, and the rest.
 
 ### Bhāṣya-informed study translation
 
-> The three complete the series. The first governs attainment of the next, the second governs attainment of the last, and the third governs parinirvāṇa. They are not tenses of one act.
+> Likewise, the Faculties called “I shall know,” “knowledge,” and “one who
+> has known” govern successive attainment, nirvāṇa, and what follows.
 
 ## 6. Philosophical Translation
 
@@ -95,6 +100,11 @@ successive attainment
 The names are not future, present, and past.
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): The three complete the series. The first governs
+attainment of the next, the second governs attainment of the last, and the
+third governs parinirvāṇa. They are not tenses of one act.
 
 2.03 took five of the eight. This verse takes the three that remain, and the twenty-two are named. Their constitution is not yet analyzed.
 

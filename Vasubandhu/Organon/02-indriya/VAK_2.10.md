@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विपाको जीवितं द्वेधा द्वादश अन्त्याष्टकादृते ।
->
-> दौर्मनस्याच्च तत्त्वेकं सविपाकं दश द्विधा ॥ २.१० ॥
+```sanskrit
+विपाको जीवितं द्वेधा द्वादश अन्त्याष्टकादृते ।
+दौर्मनस्याच्च तत्त्वेकं सविपाकं दश द्विधा ॥ २.१० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vipāko jīvitaṃ dvedhā dvādaśa antyāṣṭakādṛte /
->
-> daurmanasyāc ca tattv ekaṃ savipākaṃ daśa dvidhā // 2.10 //
+```text
+vipāko jīvitaṃ dvedhā dvādaśa antyāṣṭakādṛte /
+daurmanasyāc ca tattv ekaṃ savipākaṃ daśa dvidhā // 2.10 //
+```
 
 ## 3. Lexical Analysis
 
@@ -43,11 +45,14 @@ S[IS=?i, HAS=?h] -> Twelve
 
 ### Literal Translation
 
-Life is maturation. Twelve are twofold, apart from the final eight and distress. That one alone possesses maturation as its result. Ten are twofold.
+> Life is maturation. Twelve are twofold, apart from the final eight and
+> distress. That one alone possesses maturation as its result. Ten are
+> twofold.
 
 ### Bhāṣya-informed study translation
 
-> What the instance is, and what it produces, are separate. Life is received maturation, except the life concentration projects. Distress is never received. It is produced and calmed by present construction, yet always produces future maturation. Ten can either produce it or not.
+> Life is maturation. Twelve are twofold except the final eight and
+> distress; of these, that one alone is with maturation. Ten are twofold.
 
 ## 6. Philosophical Translation
 
@@ -60,7 +65,7 @@ Life is maturation. Twelve are twofold, apart from the final eight and distress.
 | vipāka | maturation | the present result of prior action |
 | savipāka | possessing maturation | produces a future result |
 | antya-aṣṭaka | final eight | the five and the three |
-| upacayika | from development | a material faculty that is not maturation |
+| upacayika | from development | a Form faculty that is not maturation |
 | airyāpathika | deportment | indeterminate; not maturation |
 | śailpasthānika | craft | indeterminate |
 | nairmāṇika | magical creation | indeterminate |
@@ -102,7 +107,14 @@ never produce
 
 ## 9. Interpretive Note
 
-The opening rule is qualified before the twelve are counted. Concentration-generated life is not maturation. Resource-maturation converted to lifespan, a remainder drawn forward, and Ghoṣaka's great elements are reported alternatives. The adopted explanation is the turned impetus. The digression on why, where, and the Buddha's three months is marked incidental. It is not a practical instruction.
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): What the instance is, and what it produces, are
+separate. Life is received maturation, except the life concentration
+projects. Distress is never received. It is produced and calmed by present
+construction, yet always produces future maturation. Ten can either
+produce it or not.
+
+The opening rule is qualified before the twelve are counted. Concentration-generated life is not maturation. Resource-maturation converted to lifespan, a remainder drawn forward, and Ghoṣaka's Great Elements are reported alternatives. The adopted explanation is the turned impetus. The digression on why, where, and the Buddha's three months is marked incidental. It is not a practical instruction.
 
 Distress and the sūtra of three actions stay apart. Association is not maturation. The Vaibhāṣika reasons are construction, the immediate-offense counterexample, and absence in those free from attachment. Gladness still has room to be maturation. Distress does not.
 

@@ -1,23 +1,26 @@
-# VAK_2.66 — Twelve Kinds of Mind
+# VAK_2.66 — Twelve Kinds of consciousness
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कामेऽकुशलं चित्तं निवृतानिवृतं च /
-> रूपारूप्येष्वकुशलात् ऋते अनास्रवं द्विधा // २.६६ //
+```sanskrit
+कामेऽकुशलं चित्तं निवृतानिवृतं च /
+रूपारूप्येष्वकुशलात् ऋते अनास्रवं द्विधा // २.६६ //
+```
 
 ## 2. Sanskrit (IAST)
 
-> kāme 'kuśalaṃ cittaṃ nivṛtānivṛtaṃ ca /
->
-> rūpārūpyeṣv akuśalād ṛte anāsravaṃ dvidhā // 2.66 //
+```text
+kāme 'kuśalaṃ cittaṃ nivṛtānivṛtaṃ ca /
+rūpārūpyeṣv akuśalād ṛte anāsravaṃ dvidhā // 2.66 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kāme | loc. sg. | In the desire realm. |
 | akuśalam | adj. | Unwholesome. |
-| cittam | n. sg. | Mind. |
+| cittam | n. sg. | consciousness. |
 | nivṛtam | adj. | Obscured. |
 | anivṛtam | adj. | Unobscured. |
 | ca | pcl. | And. |
@@ -31,10 +34,10 @@
 
 ```text
 % start S
-S[MIND=twelve] -> Desire[FOUR=true] | Form[THREE=true] | Formless[THREE=true] | Uncontaminated[TWO=true]
+S[CONSCIOUSNESS=twelve] -> Desire[FOUR=true] | Form[THREE=true] | Formless[THREE=true] | Uncontaminated[TWO=true]
 ```
 
-Twelve kinds of mind.  
+Twelve kinds of consciousness.  
 Desire four.  
 Form and formless three each, no unwholesome.  
 Uncontaminated twofold, trainee and beyond-training.  
@@ -44,15 +47,18 @@ Succession is not yet.
 
 ### Literal Translation
 
-In the desire realm, mind is wholesome and unwholesome, obscured and unobscured. In the form and formless realms, except the unwholesome. Uncontaminated mind is twofold.
-
+> In the desire realm, consciousness is unwholesome, obscured, and
+> unobscured; in Form and formless realms, [it is so] except for
+> unwholesome. Uncontaminated consciousness is twofold.
 ### Bhāṣya-informed study translation
 
-> Mind is of twelve kinds. In the desire realm it is fourfold: wholesome, unwholesome, obscured-indeterminate, and unobscured-indeterminate. In the form realm it is threefold, without the unwholesome, and likewise in the formless. These ten are contaminated. Uncontaminated mind is twofold: trainee and beyond-training.
-
+> Consciousness is fourfold in the desire realm: wholesome, unwholesome,
+> obscured-indeterminate, and unobscured-indeterminate. In Form and
+> formless realms it is threefold, without the unwholesome; uncontaminated
+> consciousness is twofold.
 ## 6. Philosophical Translation
 
-> Twelve kinds of mind. Desire four. Form and formless three each, no unwholesome. Uncontaminated twofold, trainee and beyond-training. Succession is not yet.
+> Twelve kinds of consciousness. Desire four. Form and formless three each, no unwholesome. Uncontaminated twofold, trainee and beyond-training. Succession is not yet.
 
 ## 7. Technical Vocabulary
 
@@ -68,18 +74,25 @@ In the desire realm, mind is wholesome and unwholesome, obscured and unobscured.
 
 ## 8. Logical Determination
 
-Twelve kinds of mind. Succession is not yet.
+Twelve kinds of consciousness. Succession is not yet.
 
 ## 9. Interpretive Note
 
-Twelve kinds of mind. Desire four. Form and formless three each, no unwholesome. Uncontaminated twofold, trainee and beyond-training. Succession is not yet.
+**Translation note.** The Bhāṣya supplies twelve kinds in all: four in
+desire, three in Form, three in formless, and two uncontaminated. The ten
+contaminated kinds are the first ten; the uncontaminated kinds are trainee
+and beyond-training. The verse begins the transition from the general
+immediately-antecedent condition to the specific succession of
+consciousnesses.
+
+Twelve kinds of consciousness. Desire four. Form and formless three each, no unwholesome. Uncontaminated twofold, trainee and beyond-training. Succession is not yet.
 
 ## 10. OWL++ Seed
 
 ```turtle
-:DesireMind :kinds 4 .
-:FormMind :kinds 3 ; :hasUnwholesome false .
-:FormlessMind :kinds 3 ; :hasUnwholesome false .
-:UncontaminatedMind :kinds 2 .
+:DesireConsciousness :kinds 4 .
+:FormConsciousness :kinds 3 ; :hasUnwholesome false .
+:FormlessConsciousness :kinds 3 ; :hasUnwholesome false .
+:UncontaminatedConsciousness :kinds 2 .
 :Succession :notYet true .
 ```

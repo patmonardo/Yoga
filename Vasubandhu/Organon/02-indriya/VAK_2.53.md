@@ -2,26 +2,28 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> प्रयोगजास्तयोरेव श्रुतचिन्तामयादिकाः ।
->
-> संप्रयुक्तकहेतुस्तु चित्तचैत्ताः समाश्रयाः ॥ २.५३ ॥
+```sanskrit
+प्रयोगजास्तयोरेव श्रुतचिन्तामयादिकाः ।
+संप्रयुक्तकहेतुस्तु चित्तचैत्ताः समाश्रयाः ॥ २.५३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> prayogajās tayor eva śrutacintāmayādikāḥ /
->
-> saṃprayuktakahetus tu cittacaittāḥ samāśrayāḥ // 2.53 //
+```text
+prayogajās tayor eva śrutacintāmayādikāḥ /
+saṃprayuktakahetus tu cittacaittāḥ samāśrayāḥ // 2.53 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| prayogajāḥ | produced by application |
-| tayoḥ eva | of those two only |
-| śruta-cintā-maya-ādikāḥ | born of hearing, of thought, and the rest |
-| saṃprayuktaka-hetuḥ | associated cause |
-| citta-caittāḥ | consciousness and the mental factors |
-| samāśrayāḥ | of the same support |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| prayogajāḥ | masculine nominative plural compound adjective | produced by application |
+| tayoḥ eva | genitive/locative dual pronoun + emphatic particle | of those two only |
+| śruta-cintā-maya-ādikāḥ | masculine nominative plural compound adjective | born of hearing, of thought, and the rest |
+| saṃprayuktaka-hetuḥ | masculine nominative singular compound | associated cause |
+| citta-caittāḥ | masculine nominative plural coordinated compound | consciousness and the mental factors |
+| samāśrayāḥ | masculine nominative plural compound adjective | of the same support |
 
 ## 4. Grammar
 
@@ -39,12 +41,15 @@ Also co-arisen, not conversely.
 
 ### Literal Translation
 
-Produced by application, of those two only: born of hearing, of thought, and the rest. But the associated cause: consciousness and the mental factors, of the same support.
-
+> Application-produced [qualities] are causes of those two alone: those
+> born of hearing, thought, and the rest. The associated cause is
+> consciousness and mental factors of the same support.
 ### Bhāṣya-informed study translation
 
-> Produced by application is homogeneous cause of the equal or the superior only. Hearing, thought, cultivation, by realm. Associated cause is consciousness and the mental factors of the same support, five equalities. Also co-arisen, not conversely. Cintā is thought, not reflection.
-
+> Application-produced qualities are homogeneous causes of the equal or
+> superior only: those born of hearing, thought, and cultivation.
+> Associated cause is consciousness and mental factors sharing one
+> support.
 ## 6. Philosophical Translation
 
 > Application-produced is equal or superior only. Associated is the same support, five equalities. Also co-arisen, not the converse. Same support is non-different, not same kind.
@@ -73,6 +78,13 @@ co-arisen
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya explains the “two” as equal and superior
+and lists hearing, thought, and cultivation. Association is defined through
+five equalities on a single support; associated factors are also co-arisen,
+but co-arisen factors are not necessarily associated. Here cintā means
+thought, not reflection. The verse's damaged wording concerning the unarisen
+case is not used to establish a new rule.
 
 The damaged unarisen-contaminated reading is against the example, an uncontaminated receptivity. Not repaired as a new rule. The pervasive cause is next.
 

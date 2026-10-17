@@ -6,7 +6,10 @@
 >
 > dvābhyām anye samutpadyante neśvarādeḥ kramādibhiḥ // 2.64 //
 
-> Mind and the mental factors arise through four conditions: the five causes as cause-condition, the preceding mind and factors as immediately antecedent, the object as appropriate, and every other dharma as predominant. The pair of attainments arises through three, having no object. The others, dissociated and form, arise through two: cause-condition and predominant condition. Nothing arises from Īśvara, Puruṣa, Pradhāna, or the like as one cause of the whole world: a single sufficient cause would yield the world at once, whereas succession is observed. Beings' own actions generate them in their births.
+> Consciousness and mental factors arise through four conditions, the pair
+> of attainments through three, and the rest through two. The world does
+> not arise from Īśvara and the like as one cause, given observed
+> succession.
 
 ## 2. Continuous Sanskrit Witness
 

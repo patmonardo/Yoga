@@ -6,7 +6,9 @@
 >
 > madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // 2.33 //
 
-> Vitarka and vicāra are coarseness and subtlety of consciousness: vitarka is its coarseness, vicāra its subtlety. Conceit is elevation of consciousness through a constructed distinction relative to another. Intoxication is the taking-over of consciousness in one attached precisely to one's own qualities.
+> Vitarka and vicāra are coarseness and subtlety of consciousness. Conceit
+> is elevation of consciousness; intoxication is the taking-over of
+> consciousness in one attached to one's own qualities.
 
 ## 2. Continuous Sanskrit Witness
 

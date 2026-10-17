@@ -2,28 +2,30 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कारणं सहभूश्चैव सभागः संप्रयुक्तकः ।
->
-> सर्वत्रगो विपाकाख्यः षड्विधो हेतुरिष्यते ॥ २.४९ ॥
+```sanskrit
+कारणं सहभूश्चैव सभागः संप्रयुक्तकः ।
+सर्वत्रगो विपाकाख्यः षड्विधो हेतुरिष्यते ॥ २.४९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kāraṇaṃ sahabhūś caiva sabhāgaḥ saṃprayuktakaḥ /
->
-> sarvatrago vipākākhyaḥ ṣaḍvidho hetur iṣyate // 2.49 //
+```text
+kāraṇaṃ sahabhūś caiva sabhāgaḥ saṃprayuktakaḥ /
+sarvatrago vipākākhyaḥ ṣaḍvidho hetur iṣyate // 2.49 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| kāraṇam | conditioning cause |
-| sahabhūḥ | co-arisen |
-| sabhāgaḥ | homogeneous |
-| saṃprayuktakaḥ | associated |
-| sarvatragaḥ | pervasive |
-| vipāka-ākhyaḥ | called maturation |
-| ṣaḍvidhaḥ hetuḥ | cause, sixfold |
-| iṣyate | is held |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| kāraṇam | neuter nominative singular | conditioning cause |
+| sahabhūḥ | masculine nominative singular adjective | co-arisen |
+| sabhāgaḥ | masculine nominative singular adjective | homogeneous |
+| saṃprayuktakaḥ | masculine nominative singular adjective | associated |
+| sarvatragaḥ | masculine nominative singular adjective | pervasive |
+| vipāka-ākhyaḥ | masculine nominative singular compound adjective | called maturation |
+| ṣaḍvidhaḥ hetuḥ | masculine nominative singular phrase | cause, sixfold |
+| iṣyate | 3rd singular present passive | is held |
 
 ## 4. Grammar
 
@@ -42,12 +44,12 @@ Principal also produces. Not agency.
 
 ### Literal Translation
 
-Conditioning, and co-arisen, homogeneous, associated, pervasive, and that called maturation: cause is held to be sixfold.
-
+> Conditioning, co-arisen, homogeneous, associated, pervasive, and that
+> called maturation: these are held to be the six causes.
 ### Bhāṣya-informed study translation
 
-> Cause is held to be sixfold: conditioning, co-arisen, homogeneous, associated, pervasive, and that called maturation. The conditioning cause is every dharma other than itself, by non-obstruction toward what is arising; a principal conditioning cause, such as eye and visible form, food, or seed, may also produce.
-
+> Cause is held to be sixfold: conditioning, co-arisen, homogeneous,
+> associated, pervasive, and that called maturation.
 ## 6. Philosophical Translation
 
 > Six causes held, not proved. Conditioning is non-obstruction toward what arises. Principal also produces. Not agency. Pratyaya is not this list.
@@ -84,6 +86,12 @@ pratyaya
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya defines the conditioning cause as every
+dharma other than itself, by non-obstruction toward what is arising. Some
+principal cases also produce, including eye and visible Form, food, and
+seed. Non-obstruction is not productive agency; another account gives causes
+mediated efficacy through a succession of causes.
 
 The first clause of the next verse is this definition. The co-arisen cause is the next study. Not opened.
 

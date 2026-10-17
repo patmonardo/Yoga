@@ -2,11 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-> vipāko jīvitaṃ dvedhā dvādaśa antyāṣṭakād ṛte /
->
-> daurmanasyāc ca tat tv ekaṃ savipākaṃ daśa dvidhā // 2.10 //
+> vipāko jīvitaṃ dvedhā dvādaśa antyāṣṭakādṛte /
+> daurmanasyāc ca tattv ekaṃ savipākaṃ daśa dvidhā // 2.10 //
 
-> What the instance is, and what it produces, are separate. Life is received maturation, except the life concentration projects. Distress is never received. It is produced and calmed by present construction, yet always produces future maturation. Ten can either produce it or not.
+> Life is maturation. Twelve are twofold except the final eight and
+> distress; of these, that one alone is with maturation. Ten are twofold.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -18,7 +18,7 @@ The reading text retains the running wording, including defective forms. Context
 
 How many faculties are maturation, and how many are not? First, categorically: life is maturation. But when an arhat monk sustains the lifespan-formations, of what is that life-faculty the maturation? The treatise: an arhat with extraordinary powers and mastery of mind gives a bowl, a robe, or another requisite, directs his resolve, and enters the prāntakoṭika fourth dhyāna. Emerging, he forms the intention: may what would mature as resources mature as lifespan. It does. Those who hold that a remainder of maturation ripens say he draws forth, by the power of cultivation, the remaining maturation of action done in a previous birth.
 
-Relinquishing is the same act reversed: may what would mature as lifespan mature as resources. Ghoṣaka says that by the power of dhyāna he produces, in that same support, form-realm great elements favorable or adverse to lifespan. The explanation that should stand: such is the power of concentration that they turn aside the impetus, born of prior action, that determines the duration of the faculties and great elements, and project a new impetus born of concentration. That life-faculty is not maturation. Life other than that is.
+Relinquishing is the same act reversed: may what would mature as lifespan mature as resources. Ghoṣaka says that by the power of dhyāna he produces, in that same support, form-realm Great Elements favorable or adverse to lifespan. The explanation that should stand: such is the power of concentration that they turn aside the impetus, born of prior action, that determines the duration of the faculties and Great Elements, and project a new impetus born of concentration. That life-faculty is not maturation. Life other than that is.
 
 Why sustain them? For the benefit of others, or the continuance of the teaching. They see their lifespan exhausted and no other person capable. Why relinquish? Little benefit to others in remaining, and the body overcome by illness. As it is said: when this holy life has been well lived and the path well cultivated, one is content at the exhaustion of lifespan, as at the departure of an illness.
 
@@ -26,7 +26,7 @@ Where, and in whom? Only among humans in the three continents, a woman or a man,
 
 The sūtra: the Blessed One, having sustained the life-formations, relinquished the lifespan-formations. Some say no difference. The life-faculty is lifespan belonging to the three realms. Others: lifespan-formations are the fruit of previous action, life-formations the fruit of present action. Or lifespan-formations are those by which the homogeneous class persists, life-formations those by which one lives a further period. The plural is many moments. A single moment cannot be relinquished and sustained. Some: there is no single lifespan-entity enduring through a time. Others: lifespan is a name for many formations. Otherwise the word formations would not have been used.
 
-Why did the Blessed One relinquish and sustain them? To show mastery over death, and mastery over life. Three months, not longer, because no task remained for those to be trained. Also to fulfill the declaration that with the four bases of extraordinary power he could remain a kalpa or the remainder of a kalpa. The Vaibhāṣikas: to conquer the Māras of the aggregates and of death. Affliction and the divine son had been conquered at the seat of awakening. The incidental discussion is concluded.
+Why did the Blessed One relinquish and sustain them? To show mastery over death, and mastery over life. Three months, not longer, because no task remained for those to be trained. Also to fulfill the declaration that with the four bases of extraordinary power he could remain a kalpa or the remainder of a kalpa. The Vaibhāṣikas: to conquer the Māras of the Bases and of death. Affliction and the divine son had been conquered at the seat of awakening. The incidental discussion is concluded.
 
 The topic resumes. Twelve are twofold. Which twelve? Apart from the final eight and distress. Apart from those beginning with faith, and distress, the twelve other than life are maturation and not. Of the seven beginning with the eye, those from development are not maturation. The rest are. Mind, pain, pleasure, gladness, and neutral feeling, when wholesome or afflicted, are not. Nor the instances of deportment, craft, and magical creation, as applicable. The rest are. The faculties left after life and those twelve are not maturation.
 

@@ -6,7 +6,10 @@
 >
 > akliṣṭāvyākṛtāprāptiḥ sātītājātayos tridhā // 2.39 //
 
-> Acquisition of obscured-indeterminate manifest form is co-arisen only. Desire-realm form has no prior acquisition; co-arisen and subsequent are admitted. Non-acquisition is always unobscured-indeterminate. Of past and future dharmas it is threefold. Of a present dharma, present only, on the provisional reading.
+> Acquisition of obscured-indeterminate Form is co-arisen only. Desire-realm
+> Form has no prior acquisition. Non-acquisition is unobscured-
+> indeterminate; for past and future dharmas it is threefold, while for a
+> present dharma it is present only on the provisional reading.
 
 ## 2. Continuous Sanskrit Witness
 

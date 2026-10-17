@@ -2,18 +2,21 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विपाकोऽव्याकृतो धर्मः सत्त्वाख्यो व्याकृतोद्भवः /
-> निःष्यन्दो हेतुसदृशः विसंयोगः क्षयो धिया // २.५७ //
+```sanskrit
+विपाकोऽव्याकृतो धर्मः सत्त्वाख्यो व्याकृतोद्भवः /
+निःष्यन्दो हेतुसदृशः विसंयोगः क्षयो धिया // २.५७ //
+```
 
 ## 2. Sanskrit (IAST)
 
-> vipāko 'vyākṛto dharmaḥ sattvākhyo vyākṛtodbhavaḥ /
->
-> niḥṣyando hetusadṛśaḥ visaṃyogaḥ kṣayo dhiyā // 2.57 //
+```text
+vipāko 'vyākṛto dharmaḥ sattvākhyo vyākṛtodbhavaḥ /
+niḥṣyando hetusadṛśaḥ visaṃyogaḥ kṣayo dhiyā // 2.57 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | vipākaḥ | m. sg. | Maturation. |
 | avyākṛtaḥ | adj. | Indeterminate. |
@@ -43,12 +46,14 @@ Disconnection is cessation by Discrimination. Mechanism not given.
 
 ### Literal Translation
 
-Maturation is an indeterminate dharma, classed with a sentient being, arisen from the determinate. Homogeneous outflow is similar to its cause. Disconnection is cessation by Discrimination.
-
+> Maturation is an indeterminate dharma, classed with a sentient being,
+> arising from the determinate. Homogeneous outflow is like its cause;
+> disconnection is cessation by Discrimination.
 ### Bhāṣya-informed study translation
 
-> Maturation is an indeterminate dharma, unobscured and classed with a sentient being, arisen from the determinate. It comes later, neither together with its cause nor immediately after it, and it is unshared: no one experiences the maturation of another's karma. Homogeneous outflow is similar to its cause; in the pervasive, the likeness lies in level and affliction. Disconnection is cessation by Discrimination.
-
+> Maturation is an indeterminate dharma, classed with a sentient being and
+> arisen from the determinate. Homogeneous outflow resembles its cause;
+> disconnection is cessation by Discrimination.
 ## 6. Philosophical Translation
 
 > Maturation is later, unshared, indeterminate, from the determinate. Outflow is similar; pervasive likeness is level and affliction, not type. Disconnection is cessation by Discrimination. Mechanism not given.
@@ -67,6 +72,12 @@ Maturation is an indeterminate dharma, classed with a sentient being, arisen fro
 Maturation is unshared. Outflow is similar. Disconnection has no mechanism given.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya specifies maturation as
+unobscured-indeterminate, later than its cause, neither simultaneous with
+nor immediately following it, and unshared: no one experiences another's
+karma-maturation. In the pervasive cause, likeness concerns level and
+affliction rather than type. No mechanism for disconnection is supplied.
 
 Not a seventh cause. Maturation is later, unshared, indeterminate, from the determinate. Outflow is similar. Disconnection is cessation by Discrimination. Mechanism not given.
 

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कामाप्तममलं हित्वा रूपाप्तं स्त्रीपुमिन्द्रिये ।
->
-> दुःखे च हित्वा आरूप्याप्तं सुखे चापोह्य रूपि च ॥ २.१२ ॥
+```sanskrit
+कामाप्तममलं हित्वा रूपाप्तं स्त्रीपुमिन्द्रिये ।
+दुःखे च हित्वा आरूप्याप्तं सुखे चापोह्य रूपि च ॥ २.१२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kāmāptam amalaṃ hitvā rūpāptaṃ strīpumindriye /
->
-> duḥkhe ca hitvā ārūpyāptaṃ sukhe cāpohya rūpi ca // 2.12 //
+```text
+kāmāptam amalaṃ hitvā rūpāptaṃ strīpumindriye /
+duḥkhe ca hitvā ārūpyāptaṃ sukhe cāpohya rūpi ca // 2.12 //
+```
 
 ## 3. Lexical Analysis
 
@@ -44,11 +46,18 @@ Exclusions are feature constraints. The triad never unifies with a realm.
 
 ### Literal Translation
 
-Excluding the stainless, desire-realm-connected. Excluding the female and male faculties and the two painful faculties, form-realm-connected. Excluding also the two pleasant faculties and what possesses form, formless-realm-connected.
+> Excluding the stainless, desire-realm-connected. Excluding the female and
+> male faculties and the two painful faculties, form-realm-connected.
+> Excluding also the two pleasant faculties and what possesses form,
+> formless-realm-connected.
 
 ### Bhāṣya-informed study translation
 
-> Excluding the stainless triad, which is connected with no realm, the faculties are connected with the desire realm. Excluding also the female and male faculties and the two painful faculties, pain and distress, they are connected with the form realm. Excluding in addition the two pleasant faculties and whatever possesses form, they are connected with the formless realm: mind, life, neutral feeling, and the five beginning with faith, and no others.
+> Except for the stainless triad, the Faculties are connected with the
+> desire realm. Excluding the female and male Faculties and the two painful
+> Faculties, the remainder are connected with the Form realm. Excluding also
+> pleasure and the Form-bearing Faculties, the remainder are connected with
+> the formless realm.
 
 ## 6. Philosophical Translation
 
@@ -97,6 +106,15 @@ The stainless triad never unifies with a realm.
 `exclude` is the relational operator the MetaPlan applies.
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): Excluding the stainless triad, which is connected with
+no realm, the faculties are connected with the desire realm. Excluding
+also the female and male faculties and the two painful faculties, pain and
+distress, they are connected with the form realm. Excluding in addition
+the two pleasant faculties and whatever possesses form, they are connected
+with the formless realm: mind, life, neutral feeling, and the five
+beginning with faith, and no others.
 
 The axes now include function, feeling, path-name, outflow, maturation, what produces maturation, ethical quality, and realm-connection. None settles the others.
 

@@ -2,32 +2,33 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विप्रयुक्तास्तु संस्काराः प्राप्त्यप्राप्ती सभागता ।
->
-> आसंज्ञिकं समापत्ती जीवितं लक्षणानि च ॥ २.३५ ॥
+```sanskrit
+विप्रयुक्तास्तु संस्काराः प्राप्त्यप्राप्ती सभागता ।
+आसंज्ञिकं समापत्ती जीवितं लक्षणानि च ॥ २.३५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> viprayuktās tu saṃskārāḥ prāptyaprāptī sabhāgatā /
->
-> āsaṃjñikaṃ samāpattī jīvitaṃ lakṣaṇāni ca // 2.35 //
+```text
+viprayuktās tu saṃskārāḥ prāptyaprāptī sabhāgatā /
+āsaṃjñikaṃ samāpattī jīvitaṃ lakṣaṇāni ca // 2.35 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| viprayuktāḥ | nominative | dissociated |
+| viprayuktāḥ | nom. pl. m.; past passive participle | dissociated |
 | tu | particle | the new class |
-| saṃskārāḥ | nominative | formations |
-| prāpti-aprāptī | dual | acquisition and non-acquisition |
-| sabhāgatā | nominative | commonality |
-| āsaṃjñikam | nominative | listed; English not locked |
-| samāpattī | dual | two attainments |
-| jīvitam | nominative | life |
-| lakṣaṇāni | plural | the marks |
+| saṃskārāḥ | nom. pl. m. | formations |
+| prāpti-aprāptī | nom. dual f. | acquisition and non-acquisition |
+| sabhāgatā | nom. sg. f. | commonality |
+| āsaṃjñikam | nom. sg. n. | listed; English not locked |
+| samāpattī | nom. dual f. | two attainments |
+| jīvitam | nom. sg. n. | life |
+| lakṣaṇāni | nom. pl. n. | the marks |
 
 Dissociated is the class-name. Not unconditioned. Not causally disconnected.
-
 ## 4. Grammar
 
 ```text
@@ -44,12 +45,12 @@ The members are named, not yet defined.
 
 ### Literal Translation
 
-The dissociated formations, now: acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, and the marks.
-
+> The dissociated formations are acquisition and non-acquisition,
+> commonality, āsaṃjñika, the two attainments, life, and the marks.
 ### Bhāṣya-informed study translation
 
-> The dissociated formations are acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, the marks, and the groups of names and the rest. They are called dissociated because they are not associated with consciousness and do not have the nature of form.
-
+> The dissociated formations are acquisition and non-acquisition,
+> commonality, āsaṃjñika, the two attainments, life, and the marks.
 ## 6. Philosophical Translation
 
 > Dissociated is not unconditioned and not form. The list names; it does not establish each as a distinct real.
@@ -83,6 +84,8 @@ Not associated, not form, still conditioned.
 The list is not a set of established reals.
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary adds the groups of names and the rest, and explains dissociated formations as neither associated with consciousness nor possessing the nature of Form. It does not define the listed attainments, life, or marks here.
 
 The class opens after the close of consciousness and the mental factors. No objection. No school. The members follow separately.
 

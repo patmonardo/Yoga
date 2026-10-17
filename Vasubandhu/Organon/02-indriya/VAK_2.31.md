@@ -2,31 +2,32 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कौकृत्यमिद्धाकुशलान्याद्ये ध्याने न सन्त्यतः ।
->
-> ध्यानान्तरे वितर्कश्च विचारश्चाप्यतः परम् ॥ २.३१ ॥
+```sanskrit
+कौकृत्यमिद्धाकुशलान्याद्ये ध्याने न सन्त्यतः ।
+ध्यानान्तरे वितर्कश्च विचारश्चाप्यतः परम् ॥ २.३१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kaukṛtyamiddhākuśalāny ādye dhyāne na santy ataḥ /
->
-> dhyānāntare vitarkaś ca vicāraś cāpy ataḥ param // 2.31 //
+```text
+kaukṛtyamiddhākuśalāny ādye dhyāne na santy ataḥ /
+dhyānāntare vitarkaś ca vicāraś cāpy ataḥ param // 2.31 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| kaukṛtya-middha-akuśalāni | nominative | regret, torpor, and the unwholesome |
-| ādye dhyāne | locative | in the first dhyāna |
-| na santi | | are not present |
-| ataḥ | indeclinable | of what was stated |
-| dhyāna-antare | locative | in the intermediate dhyāna |
-| vitarkaḥ ca | | vitarka also |
-| vicāraḥ ca api | | vicāra also |
-| ataḥ param | | beyond this |
+| kaukṛtya-middha-akuśalāni | nom. pl. n.; coordinated compound | regret, torpor, and the unwholesome |
+| ādye dhyāne | loc. sg. n. + loc. sg. n. | in the first dhyāna |
+| na santi | negation + 3 pl. present indicative | are not present |
+| ataḥ | abl. sg. pronoun, adverbial | of what was stated |
+| dhyāna-antare | loc. sg. n. | in the intermediate dhyāna |
+| vitarkaḥ ca | nom. sg. m. + particle | vitarka also |
+| vicāraḥ ca api | nom. sg. m. + particles | vicāra also |
+| ataḥ param | adverbial phrase | beyond this |
 
 Ataḥ points back to the desire-realm distribution. Not a cause.
-
 ## 4. Grammar
 
 ```text
@@ -44,12 +45,14 @@ Intoxication is not named in the further drop.
 
 ### Literal Translation
 
-Regret, torpor, and the unwholesome are not present in the first dhyāna, of these. In the intermediate dhyāna, vitarka also. Beyond this, vicāra also.
-
+> Regret, torpor, and the unwholesome factors are absent in the first
+> dhyāna. In the intermediate dhyāna, vitarka too is absent; beyond it,
+> vicāra too.
 ### Bhāṣya-informed study translation
 
-> Regret, torpor, and the unwholesome are absent in the first dhyāna. In the intermediate, vitarka also. Beyond, vicāra also, and deception and crookedness. Exclusions accumulate. The rest remains as before. Crookedness reaches only as far as Brahmā.
-
+> Regret, torpor, and unwholesome factors are absent in the first dhyāna. In
+> the intermediate dhyāna, vitarka is also absent; beyond it, vicāra is also
+> absent.
 ## 6. Philosophical Translation
 
 > The higher levels drop factors; they do not invent new ones. Unwholesome is excluded; not every affliction is. The accumulation is the rule.
@@ -84,6 +87,8 @@ Unwholesome is excluded; not every affliction.
 Intoxication is not named in the further drop.
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary specifies the omitted unwholesome factors: hostility; the anger-group except crookedness, intoxication, and deception; shamelessness; and lack of moral caution. Crookedness is limited to the company of Brahmā; its narrative is damaged, including titles and parts of the reply. The rule retains the other factors as before.
 
 The Brahmā episode supports the upper limit of crookedness. The question is Aśvajit's. The titles are Brahmā's. The commentary calls the response an evasion made without knowing. Not an assertion of creative authority. The story is not completed from elsewhere. Assembly-dependence is stated for crookedness. Not expanded into a theory of both factors.
 

@@ -2,18 +2,21 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> यद्वलाज्जायते यत्तत्फलं पुरुषकारजम् /
-> अपूर्वः संस्कृतस्यैव संस्कृतोऽधिपतेः फलम् // २.५८ //
+```sanskrit
+यद्वलाज्जायते यत्तत्फलं पुरुषकारजम् /
+अपूर्वः संस्कृतस्यैव संस्कृतोऽधिपतेः फलम् // २.५८ //
+```
 
 ## 2. Sanskrit (IAST)
 
-> yadvalāj jāyate yat tatphalaṃ puruṣakārajam /
->
-> apūrvaḥ saṃskṛtasyaiva saṃskṛto 'dhipateḥ phalam // 2.58 //
+```text
+yadvalāj jāyate yat tatphalaṃ puruṣakārajam /
+apūrvaḥ saṃskṛtasyaiva saṃskṛto 'dhipateḥ phalam // 2.58 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | yadvalāt | abl. sg. | Through the force of which. |
 | jāyate | 3 sg. | Arises. |
@@ -44,12 +47,14 @@ Agent gets both; non-agent predominance only.
 
 ### Literal Translation
 
-Whatever arises through the force of which, that is the fruit born of efficacy. A conditioned dharma not earlier arisen is the fruit of predominance of the conditioned alone.
-
+> Whatever arises through the force of something is its fruit born of
+> efficacy. A conditioned dharma not arisen earlier is the fruit of
+> predominance, of the conditioned alone.
 ### Bhāṣya-informed study translation
 
-> Whatever arises through the force of which, that is its fruit born of efficacy: a higher-level concentration from a lower application-mind, an uncontaminated one from a contaminated one, a transformation-mind from a concentration-mind, and the like. Of cessation by Discrimination one says only that it is attained through that force, not that it arises. A conditioned dharma not earlier arisen is the fruit of predominance of every conditioned dharma, and of the conditioned alone. The fruit of efficacy belongs to the agent; the fruit of predominance, even to the non-agent.
-
+> Whatever arises through the force of a dharma is its efficacy-fruit. A
+> conditioned dharma not arisen before is the predominance-fruit of
+> conditioned dharmas alone.
 ## 6. Philosophical Translation
 
 > Efficacy is arising through a force. Cessation by Discrimination is attained, not arisen. Predominance is not-earlier conditioned, of the conditioned alone. Agent gets both; non-agent predominance only.
@@ -67,6 +72,13 @@ Whatever arises through the force of which, that is the fruit born of efficacy. 
 Efficacy is arising. Predominance is not-earlier. Agent gets both.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya gives examples of a higher-level
+concentration from a lower application-consciousness, an uncontaminated
+concentration from a contaminated one, and a transformation-consciousness
+from a concentration-consciousness. Cessation by Discrimination is attained
+through a force, not said to arise. Efficacy-fruit belongs to an agent;
+predominance-fruit can belong even to a non-agent.
 
 Efficacy is arising through a force. Predominance is not-earlier conditioned, of the conditioned alone. Agent gets both; non-agent predominance only.
 

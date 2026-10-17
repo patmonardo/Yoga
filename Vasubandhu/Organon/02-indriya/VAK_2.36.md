@@ -2,30 +2,31 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> नामकायादयश्चेति प्राप्तिर्लाभः समन्वयः ।
->
-> प्राप्त्यप्राप्ती स्वसंतानपतितानां निरोधयोः ॥ २.३६ ॥
+```sanskrit
+नामकायादयश्चेति प्राप्तिर्लाभः समन्वयः ।
+प्राप्त्यप्राप्ती स्वसंतानपतितानां निरोधयोः ॥ २.३६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> nāmakāyādayaś ceti prāptir lābhaḥ samanvayaḥ /
->
-> prāptyaprāptī svasaṃtānapatitānāṃ nirodhayoḥ // 2.36 //
+```text
+nāmakāyādayaś ceti prāptir lābhaḥ samanvayaḥ /
+prāptyaprāptī svasaṃtānapatitānāṃ nirodhayoḥ // 2.36 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| nāma-kāya-ādayaḥ | nominative | groups of names and so forth |
-| iti | | thus, the list |
-| prāptiḥ | nominative | acquisition |
-| lābhaḥ | nominative | obtaining |
-| samanvayaḥ | nominative | possession |
-| sva-saṃtāna-patitānām | genitive | of what belongs to one's own continuum |
-| nirodhayoḥ | genitive dual | of the two cessations |
+| nāma-kāya-ādayaḥ | nom. pl. m.; compound | groups of names and so forth |
+| iti | indeclinable | thus, the list |
+| prāptiḥ | nom. sg. f. | acquisition |
+| lābhaḥ | nom. sg. m. | obtaining |
+| samanvayaḥ | nom. sg. m. | possession |
+| sva-saṃtāna-patitānām | gen. pl. m.; compound | of what belongs to one's own continuum |
+| nirodhayoḥ | gen. dual m. | of the two cessations |
 
 Two explanations of one word. Gender does not block that.
-
 ## 4. Grammar
 
 ```text
@@ -43,12 +44,14 @@ Space has neither acquisition nor non-acquisition.
 
 ### Literal Translation
 
-And the groups of names and so forth. Acquisition is obtaining and possession. Acquisition and non-acquisition of what belongs to one's own continuum, and of the two cessations.
-
+> And the groups of names and the rest. Acquisition is obtaining and
+> possession. Acquisition and non-acquisition concern what belongs to one's
+> own continuum and the two cessations.
 ### Bhāṣya-informed study translation
 
-> And the groups of names and the rest. Acquisition is obtaining and possession: obtaining what was not obtained or had been relinquished, and possessing what has been obtained. Acquisition and non-acquisition concern what belongs to one's own continuum, and the two cessations; not what belongs to another, nor the non-sentient, nor space.
-
+> And the groups of names and the rest. Acquisition is obtaining and
+> possession; acquisition and non-acquisition concern what belongs to one's
+> own continuum and the two cessations.
 ## 6. Philosophical Translation
 
 > Acquisition is obtaining and possession. Own continuum, and the two cessations. Space is neither. Real entity against designation from seed-capacity is not settled.
@@ -100,6 +103,8 @@ abandonment
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary distinguishes obtaining what was not obtained or had been relinquished from possessing what has been obtained. It excludes what belongs to another continuum, the non-sentient, and space. It tests scriptural wording, causal production, noble status, and possible regress; the contested initial-moment exception and local sense of tolerating remain unsettled.
 
 The list is completed and left. The inquiry is acquisition. Scriptural wording, causal work, and noble status are tested in that order. Production is disowned. Status remains the problem, because worldly consciousness does not display the path.
 

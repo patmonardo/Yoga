@@ -6,7 +6,10 @@
 >
 > kāmarūpāśraye bhūte nirodhākhyādito nṛṣu // 2.44 //
 
-> For the Sage the two attainments are acquired with awakening, and not before it, since awakening is reached in thirty-four moments. Both arise when a desire- or form-realm support is present. The attainment called cessation is first produced among humans; later, in the form realm, it is produced only by one who had lost it.
+> For the Sage, [the attainments] are acquired with awakening, not
+> beforehand, since awakening is reached in thirty-four moments. With a
+> desire- or form-realm support present, the attainment called cessation is
+> first produced among humans.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -25,7 +28,7 @@ Loss is stated. Otherwise the Udāyin sūtra is contradicted. A monk enters and 
 
 Differences: level, application, continuum, result, maturation, first production. The names follow what the preparation opposes. The cessation is of consciousness and the mental factors.
 
-Return of consciousness: the past as immediately preceding condition; consciousness and the faculty-body as seeds of one another; an attainment that has consciousness; without consciousness. How an attainment: equilibrium of the great elements, and entry by the consciousness of entry. Real, because of obstruction? The entry-consciousness itself obstructs. Mere non-operation is designated. They do not accept it. The two attainments have been explained.
+Return of consciousness: the past as immediately preceding condition; consciousness and the faculty-body as seeds of one another; an attainment that has consciousness; without consciousness. How an attainment: equilibrium of the Great Elements, and entry by the consciousness of entry. Real, because of obstruction? The entry-consciousness itself obstructs. Mere non-operation is designated. They do not accept it. The two attainments have been explained.
 
 ## 4. Movement and Voice
 

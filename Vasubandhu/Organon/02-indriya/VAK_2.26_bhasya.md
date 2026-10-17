@@ -6,7 +6,9 @@
 >
 > kliṣṭe sadaivākuśale tv āhrīkyam anapatrapā // 2.26 //
 
-> Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation occur always, and only, in afflicted consciousness. Delusion is ignorance; heedlessness is the non-cultivation of wholesome dharmas; laziness is the absence of energetic arousal; lack of faith is the absence of clarity; sluggishness is the unworkability of body and consciousness; agitation is the non-pacification of consciousness. In unwholesome consciousness, shamelessness and lack of moral caution are invariably present.
+> Delusion, heedlessness, laziness, lack of faith, sluggishness, and
+> agitation are always present in afflicted consciousness; shamelessness and
+> lack of moral caution are present in unwholesome consciousness.
 
 ## 2. Continuous Sanskrit Witness
 

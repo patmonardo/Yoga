@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> एकादशभिरर्हत्त्वमुक्तं त्वेकस्य संभवात् ।
->
-> उपेक्षाजीवितमनोयुक्तोऽवश्यं त्रयान्वितः ॥ २.१७ ॥
+```sanskrit
+एकादशभिरर्हत्त्वमुक्तं त्वेकस्य संभवात् ।
+उपेक्षाजीवितमनोयुक्तोऽवश्यं त्रयान्वितः ॥ २.१७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ekādaśabhir arhattvam uktaṃ tv ekasya saṃbhavāt /
->
-> upekṣājīvitamanoyukto 'vaśyaṃ trayānvitaḥ // 2.17 //
+```text
+ekādaśabhir arhattvam uktaṃ tv ekasya saṃbhavāt /
+upekṣājīvitamanoyukto 'vaśyaṃ trayānvitaḥ // 2.17 //
+```
 
 ## 3. Lexical Analysis
 
@@ -39,11 +41,15 @@ The triad forces co-possession. Other faculties carry exclusion features.
 
 ### Literal Translation
 
-Arhatship is said through eleven, however, because of the possibility for one person. One endowed with neutral feeling, life, or mind is necessarily accompanied by the three.
+> Arhatship is said through eleven, however, because of the possibility for
+> one person. One endowed with neutral feeling, life, or mind is necessarily
+> accompanied by the three.
 
 ### Bhāṣya-informed study translation
 
-> One who possesses any one of neutral feeling, life, or mind necessarily possesses the three. None of them is possessed without the others. With the remaining faculties there is no fixed rule. Possession is excluded by birth, by non-acquisition or loss, by dispassion, by severed roots, and by path-status. Where not excluded, possession stands.
+> Arhatship is said to be attained through eleven, however, because one
+> person may possess them. One joined with neutral feeling, life, or mind is
+> necessarily accompanied by the triad.
 
 ## 6. Philosophical Translation
 
@@ -90,6 +96,14 @@ not acquired
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): One who possesses any one of neutral feeling, life, or
+mind necessarily possesses the three. None of them is possessed without
+the others. With the remaining faculties there is no fixed rule.
+Possession is excluded by birth, by non-acquisition or loss, by
+dispassion, by severed roots, and by path-status. Where not excluded,
+possession stands.
 
 The eleven stands in 2.16. This verse changes the predicate.
 

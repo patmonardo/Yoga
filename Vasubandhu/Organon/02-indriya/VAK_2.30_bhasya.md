@@ -6,7 +6,9 @@
 >
 > middhaṃ sarvāvirodhitvād yatra syād adhikaṃ hi tat // 2.30 //
 
-> In the obscured-indeterminate, eighteen: the ten universal, the six of the affliction great ground, and vitarka and vicāra; the view adds none. In the other, unobscured indeterminate, twelve are accepted: the ten universal with vitarka and vicāra. Torpor is incompatible with none of these, being wholesome, unwholesome, or indeterminate; wherever it occurs it is additional, and twenty-two becomes twenty-three.
+> In obscured-indeterminate consciousness, eighteen factors are accepted; in
+> the other indeterminate, twelve. Torpor is compatible with all and is
+> additional wherever it occurs.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -30,7 +32,7 @@ The unit is printed 58.18–59.02 in `Vasubandhu/Sources/kosabhasya.txt`. Aynatr
 
 ## 3. Continuous Conventional Translation
 
-In the obscured, eighteen. In the desire realm, consciousness associated with the view of a self in the personal aggregate or with a view grasping an extreme is obscured-indeterminate. Eighteen mental factors: ten universal great-ground factors, six affliction great-ground factors, and vitarka and vicāra. As before, the view is not an addition. In the other indeterminate, twelve are accepted. The indeterminate other than the obscured is the unobscured-indeterminate. Twelve are accepted: ten universal great-ground factors, and vitarka and vicāra. Teachers of the outer regions also accept indeterminate regret. On their account, consciousness associated with it has thirteen.
+In the obscured, eighteen. In the desire realm, consciousness associated with the view of a self in the personal Bases or with a view grasping an extreme is obscured-indeterminate. Eighteen mental factors: ten universal great-ground factors, six affliction great-ground factors, and vitarka and vicāra. As before, the view is not an addition. In the other indeterminate, twelve are accepted. The indeterminate other than the obscured is the unobscured-indeterminate. Twelve are accepted: ten universal great-ground factors, and vitarka and vicāra. Teachers of the outer regions also accept indeterminate regret. On their account, consciousness associated with it has thirteen.
 
 Because torpor is incompatible with none, wherever it occurs it is additional. Torpor is not incompatible with any of the mental factors already stated, since it can be wholesome, unwholesome, or indeterminate. Wherever it occurs, it is additional. Where twenty-two, twenty-three. Where twenty-three, twenty-four. And so forth.
 

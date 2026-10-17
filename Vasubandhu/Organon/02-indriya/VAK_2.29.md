@@ -2,31 +2,32 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> आवेणिके त्वकुशले दृष्टियुक्ते च विंशतिः ।
->
-> क्लेशैश्चतुर्भिः क्रोधाद्यैः कौकृत्येनैकविंशतिः ॥ २.२९ ॥
+```sanskrit
+आवेणिके त्वकुशले दृष्टियुक्ते च विंशतिः ।
+क्लेशैश्चतुर्भिः क्रोधाद्यैः कौकृत्येनैकविंशतिः ॥ २.२९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> āveṇike tv akuśale dṛṣṭiyukte ca viṃśatiḥ /
->
-> kleśaiś caturbhiḥ krodhādyaiḥ kaukṛtyenaikaviṃśatiḥ // 2.29 //
+```text
+āveṇike tv akuśale dṛṣṭiyukte ca viṃśatiḥ /
+kleśaiś caturbhiḥ krodhādyaiḥ kaukṛtyenaikaviṃśatiḥ // 2.29 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| āveṇike | locative | in the isolated |
-| akuśale | locative | in unwholesome consciousness |
-| dṛṣṭi-yukte | locative | associated with a view |
-| viṃśatiḥ | numeral | twenty |
-| kleśaiḥ caturbhiḥ | instrumental | with one of four afflictions |
-| krodha-ādyaiḥ | instrumental | with one secondary beginning with anger |
-| kaukṛtyena | instrumental | with regret |
-| ekaviṃśatiḥ | numeral | twenty-one |
+| āveṇike | loc. sg. n. | in the isolated |
+| akuśale | loc. sg. n. | in unwholesome consciousness |
+| dṛṣṭi-yukte | loc. sg. n.; compound participle | associated with a view |
+| viṃśatiḥ | nom. sg. f.; numeral | twenty |
+| kleśaiḥ caturbhiḥ | instr. pl. m. | with one of four afflictions |
+| krodha-ādyaiḥ | instr. pl. m.; compound | with one secondary beginning with anger |
+| kaukṛtyena | instr. sg. n. | with regret |
+| ekaviṃśatiḥ | nom. sg. f.; numeral | twenty-one |
 
 The instrumentals distribute. Not one joint list.
-
 ## 4. Grammar
 
 ```text
@@ -44,12 +45,15 @@ One added associate (four afflictions, secondary, or regret) increments the coun
 
 ### Literal Translation
 
-But in isolated unwholesome consciousness, and in that associated with a view, twenty. With the four afflictions, with those beginning with anger, or with regret, twenty-one.
-
+> In isolated unwholesome consciousness, and in unwholesome consciousness
+> associated with a view, there are twenty. With one of the four
+> afflictions, one of those beginning with anger, or regret, there are
+> twenty-one.
 ### Bhāṣya-informed study translation
 
-> In isolated unwholesome consciousness, and in that associated with a view, twenty. The view is a special form of prajñā, already counted among the universal factors. With one of the four afflictions, a secondary beginning with anger, or regret, twenty-one. Addition increments; specialization does not.
-
+> In isolated unwholesome consciousness and in that associated with a view,
+> twenty factors occur. With one of the four afflictions, one of the anger-
+> group, or regret, the count is twenty-one.
 ## 6. Philosophical Translation
 
 > Isolated is ignorance alone. View specializes Discrimination. One added associate changes the count. Different name is not different factor.
@@ -83,6 +87,8 @@ Addition increments it.
 View is not a second factor.
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary treats a view as a special form of prajñā already counted among universal factors, so specialization adds no factor. The instrumentals distribute among alternative single additions, not one combined set. It identifies the three views and distinguishes the unwholesome regret here from the wholesome case in 2.28; torpor is addressed later.
 
 Ignorance alone does not remove heedlessness, laziness, lack of faith, sluggishness, and agitation. Those are the afflicted ground. The restriction is another affliction such as attachment.
 

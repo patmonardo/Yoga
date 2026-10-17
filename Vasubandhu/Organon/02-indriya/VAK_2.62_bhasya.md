@@ -6,7 +6,10 @@
 >
 > sarve dharmā ālambanāḥ kāraṇākhyo 'dhipaḥ smṛtaḥ // 2.62 //
 
-> The immediately antecedent condition is arisen mind and mental factors other than the final, excluding an arhat's final mind and factors: the whole complex is the condition of the next whole complex. The object-condition is all dharmas, as appropriate: visible form for eye-cognition, all dharmas for mental cognition. What is named the conditioning cause is held to be the predominant condition.
+> Arisen consciousness and mental factors, except the final ones, are the
+> immediately antecedent condition. All dharmas are object-conditions.
+> What is called the conditioning cause is held to be the predominant
+> condition.
 
 ## 2. Continuous Sanskrit Witness
 

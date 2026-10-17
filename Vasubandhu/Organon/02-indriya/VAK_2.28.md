@@ -2,29 +2,30 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सवितर्कविचारत्वात् कुशले कामचेतसि ।
->
-> द्वाविंशतिश्चैतसिकाः कौकृत्यमधिकं क्वचित् ॥ २.२८ ॥
+```sanskrit
+सवितर्कविचारत्वात् कुशले कामचेतसि ।
+द्वाविंशतिश्चैतसिकाः कौकृत्यमधिकं क्वचित् ॥ २.२८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> savitarkavicāratvāt kuśale kāmacetasi /
->
-> dvāviṃśatiś caitasikāḥ kaukṛtyam adhikaṃ kvacit // 2.28 //
+```text
+savitarkavicāratvāt kuśale kāmacetasi /
+dvāviṃśatiś caitasikāḥ kaukṛtyam adhikaṃ kvacit // 2.28 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| sa-vitarka-vicāratvāt | ablative | because accompanied by vitarka and vicāra |
-| kuśale kāma-cetasi | locative | in wholesome desire-realm consciousness |
-| dvāviṃśatiḥ | numeral | twenty-two |
-| caitasikāḥ | nominative | mental factors |
-| kaukṛtyam | nominative | regret |
-| adhikam kvacit | | additional, in some cases |
+| sa-vitarka-vicāratvāt | abl. sg. n.; compound | because accompanied by vitarka and vicāra |
+| kuśale kāma-cetasi | loc. sg. n. + loc. sg. n. | in wholesome desire-realm consciousness |
+| dvāviṃśatiḥ | nom. sg. f.; numeral | twenty-two |
+| caitasikāḥ | nom. pl. m. | mental factors |
+| kaukṛtyam | nom. sg. n. | regret |
+| adhikam kvacit | adjective + adverb | additional, in some cases |
 
 Kvacit keeps regret out of the wholesome ground. Consciousness itself is not one of the twenty-two.
-
 ## 4. Grammar
 
 ```text
@@ -40,12 +41,13 @@ Regret is optional; it does not redefine the base.
 
 ### Literal Translation
 
-Because accompanied by vitarka and vicāra, in wholesome desire-realm consciousness, twenty-two mental factors. Regret additional, in some cases.
-
+> In wholesome desire-realm consciousness, because it is accompanied by
+> vitarka and vicāra, there are twenty-two mental factors; regret may be
+> additional in some cases.
 ### Bhāṣya-informed study translation
 
-> In wholesome desire-realm consciousness twenty-two mental factors necessarily occur: the ten universal, the ten wholesome, vitarka, and vicāra. Regret is additional where present, making twenty-three. Kaukṛtya names the regret that has the badly done as support; the name is transferred. Wholesome regret follows failure to do the wholesome or doing the unwholesome.
-
+> In wholesome desire-realm consciousness, twenty-two mental factors occur
+> with vitarka and vicāra; regret may be additional where present.
 ## 6. Philosophical Translation
 
 > The count is necessity, not inventory. Regret is optional. The name kaukṛtya is transferred from the basis; it is not the basis itself.
@@ -79,6 +81,8 @@ Twenty-three is the optional addition.
 The name is transferred; it is not the basis.
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary enumerates the twenty-two as the ten universal, ten wholesome, vitarka, and vicāra. It explains kaukṛtya through the badly done, while also considering transfer from object to name and from cause to effect. Wholesome regret may follow failure to do the wholesome or doing the unwholesome; kvacit marks its unfixed occurrence.
 
 Five cases are announced. This verse is the wholesome one. Isolated is not consciousness without factors. Obscured and unobscured stay apart. Twenty-two faculties were another count. These are mental factors.
 

@@ -6,7 +6,9 @@
 >
 > kāyendriyī navadravyaḥ daśadravyo 'parendriyaḥ // 2.22 //
 
-> Distinct character does not imply separate arising. In the desire realm the soundless minimal aggregate without a faculty is eight: the four great elements and visible form, odor, taste, and the tangible. With the body-faculty it is nine. With another faculty it is ten. Sound adds one. The minimal aggregate is the smallest that still co-arises.
+> In the desire realm, the soundless minimal cluster without a Faculty has
+> eight constituents; one with the body-Faculty has nine, and one with
+> another Faculty has ten.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -40,11 +42,11 @@ The unit is printed 52.19–54.02 in `Vasubandhu/Sources/kosabhasya.txt`. The wi
 
 This is now considered. Do these conditioned dharmas, just as they have distinct characteristics, also arise separately, or are there some that necessarily arise together? There are, he says. All these dharmas are five: form, mind, mental factors, formations dissociated from mind, and the unconditioned. The unconditioned does not arise at all. For material dharmas, this rule.
 
-In the desire realm, a soundless minimal aggregate without a faculty consists of eight constituents. The most subtle aggregate of form is called a paramāṇu, beyond which a further smaller aggregate could not be discerned. In the desire realm, without sound and without a faculty, it arises with eight, lacking none. The eight are the four great elements and four derived forms: visible form, odor, taste, and the tangible. A soundless aggregate possessing a faculty arises with nine or ten. One possessing the body-faculty has nine: those eight and the body-faculty. One possessing another faculty has ten: those nine and one among eye, ear, nose, and tongue. With sound, they arise with nine, ten, and eleven. There is also sound inseparable from a faculty, caused by appropriated great elements.
+In the desire realm, a soundless minimal cluster without a faculty consists of eight constituents. The most subtle cluster of form is called a paramāṇu, beyond which a further smaller cluster could not be discerned. In the desire realm, without sound and without a faculty, it arises with eight, lacking none. The eight are the four Great Elements and four derived forms: visible form, odor, taste, and the tangible. A soundless cluster possessing a faculty arises with nine or ten. One possessing the body-faculty has nine: those eight and the body-faculty. One possessing another faculty has ten: those nine and one among eye, ear, nose, and tongue. With sound, they arise with nine, ten, and eleven. There is also sound inseparable from a faculty, caused by appropriated Great Elements.
 
-If the elements are inseparable, how does one aggregate arise hard, another fluid, hot, or moving? Whichever is most intense, standing out by its efficacy, is apprehended there. How is the rest known to be present? From their activities: holding together, sustaining, ripening, and spreading; and because, when conditions are available, the hard becomes fluid and so forth. Others say heat in water is known from the greater degree of cold. A greater degree of cold could occur without admixture, as with sound or feeling. Others say the elements are present as seeds, not in their own form, from the statement that there are various elements in this log.
+If the elements are inseparable, how does one cluster arise hard, another fluid, hot, or moving? Whichever is most intense, standing out by its efficacy, is apprehended there. How is the rest known to be present? From their activities: holding together, sustaining, ripening, and spreading; and because, when conditions are available, the hard becomes fluid and so forth. Others say heat in water is known from the greater degree of cold. A greater degree of cold could occur without admixture, as with sound or feeling. Others say the elements are present as seeds, not in their own form, from the statement that there are various elements in this log.
 
-How is visible color present in wind? To be accepted, not inferred. Odor is apprehended from moving air, and odor does not occur without visible color. Odor and taste are absent in the form realm. The aggregates there are of six, seven, or eight. Already indicated, not restated.
+How is visible color present in wind? To be accepted, not inferred. Odor is apprehended from moving air, and odor does not occur without visible color. Odor and taste are absent in the form realm. The clusters there are of six, seven, or eight. Already indicated, not restated.
 
 Is constituent an individual real, or an essence? If individual, eight is too little: shape, heaviness or lightness, smoothness or roughness, and sometimes cold, hunger, and thirst. If essence, eight is too much: four, since the elements also belong to the tangible essence. Here support is counted as constituent, and what is supported as essence. Even so the elemental constituents would be more, each derived form depending on its own quartet. They are counted by kind. The other quartets do not go beyond their kinds. Why the effort of these distinctions? Words may be used as one chooses. The meaning is to be examined.
 
@@ -56,7 +58,7 @@ Two positions are others: degrees of cold, and presence as seed. No school is na
 
 ## 5. The Counts
 
-| Aggregate | Without sound | With sound |
+| Cluster | Without sound | With sound |
 |---|---:|---:|
 | No faculty | 8 | 9 |
 | Body-faculty | 9 | 10 |
@@ -64,7 +66,7 @@ Two positions are others: degrees of cold, and presence as seed. No school is na
 
 The tangible in the eight is derived tangible form. Not the whole tangible essence, which would already include the elements. That distinction becomes the later objection.
 
-Another faculty is the four named. Not all twenty-two. Sound adds one. It does not make every faculty-bearing aggregate continuously sound-producing.
+Another faculty is the four named. Not all twenty-two. Sound adds one. It does not make every faculty-bearing cluster continuously sound-producing.
 
 Form realm: odor and taste removed, six, seven, eight. No second table. Not a universal eight.
 
@@ -88,7 +90,7 @@ Eight is not eight particles. The passage examines the convention. The appeal to
 
 ## 8. The Bhāṣya's Decisions for Translation
 
-Paramāṇu is the most subtle aggregate of form. Beyond which a further smaller aggregate could not be discerned is a contextual construal of a terse clause. Not particle physics.
+Paramāṇu is the most subtle cluster of form. Beyond which a further smaller cluster could not be discerned is a contextual construal of a terse clause. Not particle physics.
 
 Defects stay in the source. Desire-realm, eight constituents, sustaining, absence of admixture, and the question about the effort are contextual readings, not emendations. The needle compound and the shape clause are less secure. Their functions are predominance and additional determinations. The wording wants collation.
 

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चित्ताश्रयस्तद्विकल्पः स्थितिः संक्लेश एव च ।
->
-> संभारो व्यवदानं च यावता तावदिन्द्रियम् ॥ २.५ ॥
+```sanskrit
+चित्ताश्रयस्तद्विकल्पः स्थितिः संक्लेश एव च ।
+संभारो व्यवदानं च यावता तावदिन्द्रियम् ॥ २.५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> cittāśrayas tadvikalpaḥ sthitiḥ saṃkleśa eva ca /
->
-> saṃbhāro vyavadānaṃ ca yāvatā tāvad indriyam // 2.5 //
+```text
+cittāśrayas tadvikalpaḥ sthitiḥ saṃkleśa eva ca /
+saṃbhāro vyavadānaṃ ca yāvatā tāvad indriyam // 2.5 //
+```
 
 ## 3. Lexical Analysis
 
@@ -41,11 +43,14 @@ Only the six functions carry `SIX=true`. Anything outside fails to unify.
 
 ### Literal Translation
 
-Support of mind, its differentiation, persistence, and defilement; equipment and purification: as far as that, so far faculty.
+> Support of mind, its differentiation, persistence, and defilement;
+> equipment and purification: as far as that, so far faculty.
 
 ### Bhāṣya-informed study translation
 
-> Faculty is the support of mind, its differentiation, its persistence, and its defilement, together with its equipment and its purification: as far as these extend, so far is faculty. The six faculties are the support of mind; their differentiation is through the female and male faculties, their persistence through life, their defilement through the feelings, the provision for purification through the five, and purification through the three. Ignorance and the rest, and speech and the other action-organs, are therefore not counted.
+> The support of consciousness, its differentiation and persistence, its
+> defilement, equipment, and purification: as far as these extend, so far
+> extends Faculty.
 
 ## 6. Philosophical Translation
 
@@ -96,6 +101,16 @@ ignorance, speech, hand, foot, anus, genital organ
 Six plus two plus one plus five plus five plus three. The genital organ proposed for pleasure is not the female and male faculties of 2.02. The relation differs.
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): Faculty is the support of mind, its differentiation,
+its persistence, and its defilement, together with its equipment and its
+purification: as far as these extend, so far is faculty. The six faculties
+are the support of mind; their differentiation is through the female and
+male faculties, their persistence through life, their defilement through
+the feelings, the provision for purification through the five, and
+purification through the three. Ignorance and the rest, and speech and the
+other action-organs, are therefore not counted.
 
 2.01 gave the predicate. 2.02 narrowed it to apprehension. 2.03 and 2.04 filled defilement and purification. This verse stops the count.
 

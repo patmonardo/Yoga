@@ -2,28 +2,29 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सभागता सा तु पुनर्विपाकोऽप्याप्तयो द्विधा ।
->
-> लक्षणानि च निःष्यन्दाः समापत्त्यसमन्वयाः ॥ २.४८ ॥
+```sanskrit
+सभागता सा तु पुनर्विपाकोऽप्याप्तयो द्विधा ।
+लक्षणानि च निःष्यन्दाः समापत्त्यसमन्वयाः ॥ २.४८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sabhāgatā sā tu punar vipāko 'py āptayo dvidhā /
->
-> lakṣaṇāni ca niḥṣyandāḥ samāpatty-asamanvayāḥ // 2.48 //
+```text
+sabhāgatā sā tu punar vipāko 'py āptayo dvidhā /
+lakṣaṇāni ca niḥṣyandāḥ samāpatty-asamanvayāḥ // 2.48 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| sabhāgatā | same-class |
-| sā tu punaḥ | that, however, further |
-| vipākaḥ api | also maturation |
-| āptayaḥ dvidhā | acquisitions, twofold |
-| lakṣaṇāni ca | and the marks |
-| niḥṣyandāḥ | homogeneous outflows |
-| samāpatti-asamanvaya | the attainments and non-acquisition |
-
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| sabhāgatā | nom. sg. f. | same-class |
+| sā tu punaḥ | nom. sg. f. + particles | that, however, further |
+| vipākaḥ api | nom. sg. m. + particle | also maturation |
+| āptayaḥ dvidhā | nom. pl. f. + adverb | acquisitions, twofold |
+| lakṣaṇāni ca | nom. pl. n. + particle | and the marks |
+| niḥṣyandāḥ | nom. pl. m. | homogeneous outflows |
+| samāpatti-asamanvaya | nom. pl. f.; compound | the attainments and non-acquisition |
 ## 4. Grammar
 
 ```text
@@ -41,12 +42,16 @@ The two attainments and non-acquisition are homogeneous outflow only.
 
 ### Literal Translation
 
-Same-class, that however is further also maturation. Acquisitions are twofold, and the marks. Homogeneous outflows: the attainments and non-acquisition.
-
+> Same-class shares those classifications and is also maturation.
+> Acquisitions are twofold, and the marks are also twofold: homogeneous
+> outflows or maturation. The attainments and non-acquisition are
+> homogeneous outflows.
 ### Bhāṣya-informed study translation
 
-> Same-class shares the classifications of the groups of names, and is also maturation. Acquisitions are twofold, and so are the marks: homogeneous outflow or maturation. The two attainments and non-acquisition are homogeneous outflows only.
-
+> Same-class shares the classifications of the groups of names and the rest,
+> and is also maturation. Acquisitions are twofold, as are the marks:
+> homogeneous outflows or maturation. The attainments and non-acquisition
+> are homogeneous outflows.
 ## 6. Philosophical Translation
 
 > Same-class is also maturation. Acquisition and marks are twofold. The two attainments and non-acquisition are homogeneous outflow only. The dissociated formations close. Causes and conditions are the next question.
@@ -76,6 +81,8 @@ causes and conditions
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary carries forward the classifications of the groups of names from 2.47, states that same-class is also maturation, and divides acquisition and marks into two kinds. The two attainments and non-acquisition are classified as homogeneous outflows only. This closes the dissociated formations; the next inquiry turns to causes and conditions.
 
 The pronoun carries 2.47. The sort closes the dissociated formations. Stopping here, as asked.
 

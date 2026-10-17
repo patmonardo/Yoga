@@ -2,18 +2,21 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विपाकफलमन्त्यस्य पूर्वस्याधिपजं फलम् /
-> सभागसर्वत्रगयोर्निष्यन्दः पौरुषं द्वयोः // २.५६ //
+```sanskrit
+विपाकफलमन्त्यस्य पूर्वस्याधिपजं फलम् /
+सभागसर्वत्रगयोर्निष्यन्दः पौरुषं द्वयोः // २.५६ //
+```
 
 ## 2. Sanskrit (IAST)
 
-> vipākaphalam antyasya pūrvasya adhipajaṃ phalam /
->
-> sabhāgasarvatragayor niṣyandaḥ pauruṣaṃ dvayoḥ // 2.56 //
+```text
+vipākaphalam antyasya pūrvasya adhipajaṃ phalam /
+sabhāgasarvatragayor niṣyandaḥ pauruṣaṃ dvayoḥ // 2.56 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | vipākaphalam | n. sg. | Maturation-fruit. |
 | antyasya | gen. sg. | Of the last, the maturation cause. |
@@ -42,12 +45,15 @@ Not exclusive. Efficacy is a figure, not Puruṣa.
 
 ### Literal Translation
 
-Maturation-fruit of the last. Predominance of the first. Homogeneous outflow of homogeneous and pervasive. Efficacy of the two.
-
+> Maturation-fruit belongs to the last; the first has a fruit born of
+> predominance. Homogeneous outflow belongs to the homogeneous and
+> pervasive; efficacy is the fruit of the two.
 ### Bhāṣya-informed study translation
 
-> The last has maturation as its fruit; the first has the fruit born of predominance, which is its very non-obstruction. The homogeneous and the pervasive have homogeneous outflow as their fruit. The two, the co-arisen and the associated, have the fruit of efficacy: the activity a dharma performs, called a person's activity by resemblance.
-
+> The last, maturation cause, has maturation as its fruit; the first,
+> conditioning cause, has predominance-born fruit. The homogeneous and
+> pervasive have homogeneous outflow; the co-arisen and associated have
+> efficacy as fruit.
 ## 6. Philosophical Translation
 
 > Last maturation, first predominance, homogeneous and pervasive outflow, two efficacy. Not exclusive. Efficacy is a figure, not Puruṣa. Distant crop is not settled.
@@ -66,6 +72,12 @@ Maturation-fruit of the last. Predominance of the first. Homogeneous outflow of 
 The assignment is principal, not exclusive. Efficacy is a figure.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya explains predominance-fruit as the cause's
+very non-obstruction, while allowing a contributory role. Efficacy is the
+activity a dharma performs, called a person's activity by resemblance. These
+are principal assignments, not exclusive ones; the account of distant crop
+remains unresolved.
 
 The six causes are assigned their principal fruits. The assignment is not exclusive. Efficacy is a figure, not Puruṣa.
 

@@ -6,7 +6,9 @@
 >
 > māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
 
-> Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions, being associated only with ignorance that is to be abandoned by cultivation and belongs to the mental sphere. These are five classes of mental factors; there are also others, unfixed: initial examination, sustained examination, regret, and torpor.
+> Anger, resentment, crookedness, envy, spite, concealment, stinginess,
+> deception, intoxication, and harmfulness belong to the ground of limited
+> afflictions.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -56,7 +58,7 @@ Fivefold is the sequence treated. The acknowledgment of others keeps it from bei
 
 The instrumentals stay on the associated ignorance. The analytical account can then state the restrictions without turning the sentence into three unrelated assertions.
 
-Ground remains sphere of operation. Limited affliction and secondary affliction are different expressions. One is this class. One is the discussion deferred to. Not identified.
+Ground remains range of operation. Limited affliction and secondary affliction are different expressions. One is this class. One is the discussion deferred to. Not identified.
 
 The next question stays with 2.28.
 

@@ -2,33 +2,34 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> निवृतेऽष्टादशान्यत्र द्वादशाव्याकृते मताः ।
->
-> मिद्धं सर्वाविरोधित्वाद्यत्र स्यादधिकं हि तत् ॥ २.३० ॥
+```sanskrit
+निवृतेऽष्टादशान्यत्र द्वादशाव्याकृते मताः ।
+मिद्धं सर्वाविरोधित्वाद्यत्र स्यादधिकं हि तत् ॥ २.३० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> nivṛte 'ṣṭādaśānyatra dvādaśāvyākṛte matāḥ /
->
-> middhaṃ sarvāvirodhitvād yatra syād adhikaṃ hi tat // 2.30 //
+```text
+nivṛte 'ṣṭādaśānyatra dvādaśāvyākṛte matāḥ /
+middhaṃ sarvāvirodhitvād yatra syād adhikaṃ hi tat // 2.30 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| nivṛte | locative | in the obscured |
-| aṣṭādaśa | numeral | eighteen |
-| anyatra | indeclinable | in the other |
-| dvādaśa | numeral | twelve |
-| avyākṛte | locative | in the indeterminate |
-| matāḥ | nominative | are accepted |
-| middham | nominative | torpor |
-| sarva-avirodhitvāt | ablative | because incompatible with none |
-| yatra syāt | | wherever it may occur |
-| adhikam | | additional |
+| nivṛte | loc. sg. n. | in the obscured |
+| aṣṭādaśa | numeral, indeclinable use | eighteen |
+| anyatra | adverb | in the other |
+| dvādaśa | numeral, indeclinable use | twelve |
+| avyākṛte | loc. sg. n. | in the indeterminate |
+| matāḥ | nom. pl. m.; past passive participle | are accepted |
+| middham | nom. sg. n. | torpor |
+| sarva-avirodhitvāt | abl. sg. n.; compound | because incompatible with none |
+| yatra syāt | relative adverb + 3 sg. optative | wherever it may occur |
+| adhikam | neuter adjective used adverbially | additional |
 
 Indeterminate is karmic. Not the unfixed of 2.27. Torpor is not sluggishness.
-
 ## 4. Grammar
 
 ```text
@@ -47,12 +48,14 @@ Torpor is compatible with all three ethical classes and increments wherever it o
 
 ### Literal Translation
 
-In the obscured, eighteen. In the other indeterminate, twelve are accepted. Because torpor is incompatible with none, wherever it may occur, that is additional.
-
+> In obscured-indeterminate consciousness, there are eighteen; in the other
+> indeterminate consciousness, twelve. Torpor, being incompatible with none,
+> may be additional wherever it occurs.
 ### Bhāṣya-informed study translation
 
-> In the obscured-indeterminate, eighteen: the ten universal, the six of the affliction great ground, and vitarka and vicāra; the view adds none. In the other, unobscured indeterminate, twelve are accepted: the ten universal with vitarka and vicāra. Torpor is incompatible with none of these, being wholesome, unwholesome, or indeterminate; wherever it occurs it is additional, and twenty-two becomes twenty-three.
-
+> In obscured-indeterminate consciousness, eighteen factors are accepted; in
+> the other indeterminate, twelve. Torpor is compatible with all and is
+> additional wherever it occurs.
 ## 6. Philosophical Translation
 
 > Obscured and unobscured are two indeterminate classes. View specializes. Torpor increments; it does not redefine the base.
@@ -63,7 +66,7 @@ In the obscured, eighteen. In the other indeterminate, twelve are accepted. Beca
 |---|---|---|
 | nivṛta-avyākṛta | obscured-indeterminate | afflicted, not unwholesome |
 | anivṛta-avyākṛta | unobscured-indeterminate | the other |
-| satkāya-dṛṣṭi | view of a self in the aggregate | named; not defined here |
+| satkāya-dṛṣṭi | view of a self in the Bases | named; not defined here |
 | antagrāha-dṛṣṭi | extreme view | named; not defined here |
 | bahirdeśaka | outer-region teachers | the attributed thirteen |
 | middha | torpor | not styāna |
@@ -85,6 +88,8 @@ Torpor is compatible with all three; compatibility is not presence.
 The increment is local.
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary derives eighteen from the ten universal, six affliction-great-ground factors, vitarka, and vicāra; the view adds none. The unobscured-indeterminate count is the ten universal with vitarka and vicāra. Because torpor may be wholesome, unwholesome, or indeterminate, it may add one to either count.
 
 The desire-realm five are now counted. Wholesome was 2.28. Unwholesome was 2.29. These two close the set. Higher levels are the next transition.
 

@@ -2,18 +2,21 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> वर्तमानाः फलं पञ्च गृह्णन्ति द्वौ प्रयच्छतः /
-> वर्तमानातीतौ द्वौ एकोऽतीतः प्रयच्छति // २.५९ //
+```sanskrit
+वर्तमानाः फलं पञ्च गृह्णन्ति द्वौ प्रयच्छतः /
+वर्तमानातीतौ द्वौ एकोऽतीतः प्रयच्छति // २.५९ //
+```
 
 ## 2. Sanskrit (IAST)
 
-> vartamānāḥ phalaṃ pañca gṛhṇanti dvau prayacchataḥ /
->
-> vartamānātītau dvau eko 'tītaḥ prayacchati // 2.59 //
+```text
+vartamānāḥ phalaṃ pañca gṛhṇanti dvau prayacchataḥ /
+vartamānātītau dvau eko 'tītaḥ prayacchati // 2.59 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | vartamānāḥ | adj. pl. | Present. |
 | phalam | n. sg. | Fruit. |
@@ -46,12 +49,12 @@ Taking is seed-status, not a store. Taking does not imply giving.
 
 ### Literal Translation
 
-Five, present, take the fruit. Two give. Two, present and past. One, past, gives.
-
+> Five, while present, take their fruit; two give it while present; two
+> give it while present or past; one gives it only when past.
 ### Bhāṣya-informed study translation
 
-> Five causes, while present, take their fruit; a cause takes its fruit by assuming seed-status toward it. Two give it while present; two give it while present or past; and one, the maturation cause, gives it only when past.
-
+> Five causes take their fruit while present. Two give fruit while
+> present, two while present or past, and one gives it only when past.
 ## 6. Philosophical Translation
 
 > Five take while present. Two give present. Two give present or past. Maturation gives past only. Taking is seed-status, not a store. Taking does not imply giving.
@@ -69,6 +72,12 @@ Five, present, take the fruit. Two give. Two, present and past. One, past, gives
 Taking is seed-status. Taking does not imply giving. Maturation gives past only.
 
 ## 9. Interpretive Note
+
+**Translation note.** A fruit is “taken” by assuming seed-status toward it.
+The Bhāṣya specifies the two present givers as co-arisen and associated, the
+two present-or-past givers as homogeneous and pervasive, and the past-only
+giver as maturation. The conditioning cause is not listed with taking
+because it need not have a fruit. Taking and giving do not always coincide.
 
 Five take while present. Two give present. Two give present or past. Maturation gives past only. Taking is seed-status, not a store. Taking does not imply giving.
 

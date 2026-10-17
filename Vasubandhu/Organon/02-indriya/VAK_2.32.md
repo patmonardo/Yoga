@@ -2,33 +2,34 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अह्रीरगुरुता अवद्ये भयादर्शित्वमत्रपा ।
->
-> प्रेम श्रद्धा गुरुत्वं ह्रीः ते पुनः कामरूपयोः ॥ २.३२ ॥
+```sanskrit
+अह्रीरगुरुता अवद्ये भयादर्शित्वमत्रपा ।
+प्रेम श्रद्धा गुरुत्वं ह्रीः ते पुनः कामरूपयोः ॥ २.३२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ahrīr agurutā avadye bhayādarśitvam atrapā /
->
-> prema śraddhā gurutvaṃ hrīḥ te punaḥ kāmarūpayoḥ // 2.32 //
+```text
+ahrīr agurutā avadye bhayādarśitvam atrapā /
+prema śraddhā gurutvaṃ hrīḥ te punaḥ kāmarūpayoḥ // 2.32 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| ahrīḥ | nominative | shamelessness |
-| a-gurutā | nominative | lack of respect |
-| avadye | locative | in the blameworthy |
-| bhaya-adarśitvam | nominative | failure to see danger |
-| atrapā | nominative | lack of moral caution |
-| prema | nominative | affection |
-| śraddhā | nominative | faith |
-| gurutvam | nominative | respect |
-| hrīḥ | nominative | moral shame |
-| kāma-rūpayoḥ | locative dual | in the desire and form realms |
+| ahrīḥ | nom. sg. f. | shamelessness |
+| a-gurutā | nom. sg. f.; compound | lack of respect |
+| avadye | loc. sg. n. | in the blameworthy |
+| bhaya-adarśitvam | nom. sg. n.; compound | failure to see danger |
+| atrapā | nom. sg. f. | lack of moral caution |
+| prema | nom. sg. n. | affection |
+| śraddhā | nom. sg. f. | faith |
+| gurutvam | nom. sg. n. | respect |
+| hrīḥ | nom. sg. f. | moral shame |
+| kāma-rūpayoḥ | loc. dual; compound | in the desire and form realms |
 
 The verse equates. The commentary qualifies.
-
 ## 4. Grammar
 
 ```text
@@ -47,12 +48,14 @@ They do not unify with the formless.
 
 ### Literal Translation
 
-Shamelessness is lack of respect. Lack of moral caution is failure to see danger in the blameworthy. Affection is faith. Respect is moral shame. Those, further, in the desire and form realms.
-
+> Shamelessness is lack of respect. Lack of moral caution is failure to see
+> danger in what is blameworthy. Affection is faith; respect is moral shame.
+> These occur in the desire and form realms.
 ### Bhāṣya-informed study translation
 
-> Shamelessness is lack of respect. Lack of moral caution is failure to see danger in the blameworthy. Affection is the person-directed form of faith; respect is the person-directed form of moral shame. Those occur in the desire and form realms, not the formless. Identity is claimed; alternatives are recorded.
-
+> Shamelessness is lack of respect; lack of moral caution is failure to see
+> danger in the blameworthy. Affection is faith, and respect is moral shame.
+> These occur in the desire and form realms.
 ## 6. Philosophical Translation
 
 > The formulas identify. The alternatives refuse identity. Affection and respect are the person-directed forms; they do not reach the formless.
@@ -99,6 +102,8 @@ dharma-directed
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary qualifies affection and respect as person-directed forms of faith and moral shame, and says the pair is absent from the formless realm. It records alternative accounts and examples in which affection and faith, or respect and shame, may separate. The reversal of the negative pair is textually damaged; disposition is not treated as an extra latent entity.
 
 The counts deferred these definitions. Lack of moral caution was counted apart from Discrimination and from delusion. The reply keeps that count.
 

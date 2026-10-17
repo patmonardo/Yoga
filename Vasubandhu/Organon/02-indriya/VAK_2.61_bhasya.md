@@ -6,7 +6,9 @@
 >
 > catvāraḥ pratyayā uktāḥ hetvākhyaḥ pañca hetavaḥ // 2.61 //
 
-> Mind and the mental factors are alike, and the others too, excluding the associated cause. Four conditions are taught in the sūtra: the cause-condition, the immediately antecedent condition, the object-condition, and the predominant condition. Of these, the one named cause is the five causes, the five apart from the conditioning cause.
+> Consciousness and mental factors, and the other [dharmas] likewise,
+> except for the associated cause. Four conditions are taught; the
+> cause-condition is the five causes.
 
 ## 2. Continuous Sanskrit Witness
 

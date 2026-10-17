@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> मनोऽन्यवित्तिश्रद्धादीन्यष्टकं कुशलं द्विधा ।
->
-> दौर्मनस्यं मनोऽन्या च वित्तिस्त्रेधा अन्यदेकधा ॥ २.११ ॥
+```sanskrit
+मनोऽन्यवित्तिश्रद्धादीन्यष्टकं कुशलं द्विधा ।
+दौर्मनस्यं मनोऽन्या च वित्तिस्त्रेधा अन्यदेकधा ॥ २.११ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> mano 'nyavittiśraddhādīny aṣṭakaṃ kuśalaṃ dvidhā /
->
-> daurmanasyaṃ mano 'nyā ca vittis tredhā anyad ekadhā // 2.11 //
+```text
+mano 'nyavittiśraddhādīny aṣṭakaṃ kuśalaṃ dvidhā /
+daurmanasyaṃ mano 'nyā ca vittis tredhā anyad ekadhā // 2.11 //
+```
 
 ## 3. Lexical Analysis
 
@@ -46,11 +48,15 @@ Ethical quality is a feature, not the faculty itself.
 
 ### Literal Translation
 
-Mind, the other feelings, and those beginning with faith. The eight are wholesome. Distress is twofold. Mind and the other feeling are threefold. The remainder is onefold.
+> Mind, the other feelings, and those beginning with faith. The eight are
+> wholesome. Distress is twofold. Mind and the other feeling are threefold.
+> The remainder is onefold.
 
 ### Bhāṣya-informed study translation
 
-> The eight are wholesome by the very operation that defines them. Distress always bears a quality and is never indeterminate. Mind and the remaining feelings keep one function across the three qualities. The rest govern, yet remain exclusively indeterminate.
+> Mind, the other feelings, and those beginning with faith: the eight are
+> wholesome. Distress is twofold; mind and the other feelings are threefold;
+> the remainder is onefold.
 
 ## 6. Philosophical Translation
 
@@ -100,6 +106,12 @@ never maturation
 Threefold is the range of instances, not three qualities in one instance.
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): The eight are wholesome by the very operation that
+defines them. Distress always bears a quality and is never indeterminate.
+Mind and the remaining feelings keep one function across the three
+qualities. The rest govern, yet remain exclusively indeterminate.
 
 The opening closes 2.10. Without that carry, the first words look like the wholesome eight. They are the ten.
 

@@ -2,32 +2,33 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> निरोधाख्या तथैवेयं विहारार्थं भवाग्रजा ।
->
-> शुभा द्विवेद्यानियता चार्यस्याप्या प्रयोगतः ॥ २.४३ ॥
+```sanskrit
+निरोधाख्या तथैवेयं विहारार्थं भवाग्रजा ।
+शुभा द्विवेद्यानियता चार्यस्याप्या प्रयोगतः ॥ २.४३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> nirodhākhyā tathaiveyaṃ vihārārthaṃ bhavāgrajā /
->
-> śubhā dvivedyāniyatā cāryasyāpyā prayogataḥ // 2.43 //
+```text
+nirodhākhyā tathaiveyaṃ vihārārthaṃ bhavāgrajā /
+śubhā dvivedyāniyatā cāryasyāpyā prayogataḥ // 2.43 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| nirodha-ākhyā | called cessation |
-| tathā eva | likewise, that much |
-| vihāra-artham | for the sake of abiding |
-| bhava-agra-jā | born of the summit of existence |
-| śubhā | wholesome |
-| dvi-vedyā | to be experienced at two times |
-| aniyatā | unfixed |
-| āryasya | a noble person's |
-| āpyā prayogataḥ | acquired through application |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| nirodha-ākhyā | nom. sg. f.; compound | called cessation |
+| tathā eva | adverb + particle | likewise, that much |
+| vihāra-artham | acc. sg. n.; compound | for the sake of abiding |
+| bhava-agra-jā | nom. sg. f.; compound | born of the summit of existence |
+| śubhā | nom. sg. f. | wholesome |
+| dvi-vedyā | nom. sg. f. + compound | to be experienced at two times |
+| aniyatā | nom. sg. f. | unfixed |
+| āryasya | gen. sg. m. | a noble person's |
+| āpyā prayogataḥ | nom. sg. f. + instr. sg. n. | acquired through application |
 
 Vihāra here is abiding. Not the academy. Saṃjñā is reflection. The level is the essence of neither reflection nor non-reflection.
-
 ## 4. Grammar
 
 ```text
@@ -45,12 +46,15 @@ Noble, through application. Not by dispassion.
 
 ### Literal Translation
 
-This, called cessation, is likewise, for the sake of abiding, born of the summit of existence. Wholesome, to be experienced at two times and unfixed. A noble person's, acquired through application.
-
+> This attainment, called cessation, is likewise for the sake of abiding and
+> is born of the summit of existence. It is wholesome, to be experienced at
+> two times or unfixed, belongs to a noble person, and is acquired through
+> application.
 ### Bhāṣya-informed study translation
 
-> Likewise again carries only the cessation of consciousness and the mental factors. This attainment is for abiding, born of the summit of existence. Wholesome, to be experienced at two times or unfixed. Exclusively a noble person's, acquired through application. Not by dispassion. For the Buddha, acquired with the knowledge of exhaustion.
-
+> This attainment called cessation is likewise for abiding and is born of
+> the summit of existence. It is wholesome, experienced at two times or
+> unfixed, belongs to a noble person, and is acquired through application.
 ## 6. Philosophical Translation
 
 > Likewise is the shared cessation. For abiding, not escape. Summit, not fourth dhyāna. Noble, through application. The Buddha exception is knowledge of exhaustion, not application.
@@ -76,7 +80,7 @@ likewise
     ≠ same attainment
 abiding, summit, noble, application
     against escape, fourth dhyāna, ordinary, necessary next rebirth
-four aggregates
+four Bases
     against five
 final nirvāṇa here
     → maturation may not occur
@@ -90,6 +94,8 @@ thirty-four
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary says it is entered through attention preceded by the conception of peaceful abiding, and distinguishes it from the non-reflective attainment entered as escape. It describes the summit as the level of neither reflection nor non-reflection, gives the maturation as next-life or later, or unfixed, and says the attainment is not obtained by dispassion. For the Buddha it is acquired with knowledge of exhaustion; details of disputed accounts remain in the commentary.
 
 The first half of the next verse is already in this prose: for the Sage, acquired through awakening. The second half, the common support of the two attainments, is not this unit. Kila stays on the thirty-four. The uncertain sentence on not emerging is not repaired into a permission to interrupt.
 

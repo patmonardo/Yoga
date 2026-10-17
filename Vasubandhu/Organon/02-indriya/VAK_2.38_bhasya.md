@@ -6,7 +6,10 @@
 >
 > avyākṛtāptiḥ sahajābhijñānairmāṇikād ṛte // 2.38 //
 
-> Acquisition of what is neither trainee nor beyond training may itself be any of the three. Of what is not to be abandoned, acquisition is abandoned by cultivation or itself not to be abandoned. Indeterminate acquisition is co-arisen, except the two indeterminate superknowledges and the magical-creation mind, whose acquisition may precede, accompany, and follow.
+> Acquisition of what is neither in training nor beyond training is
+> threefold. Of what is not to be abandoned, it is twofold. Indeterminate
+> acquisition is co-arisen, except for the superknowledges and the magical-
+> creation mind.
 
 ## 2. Continuous Sanskrit Witness
 

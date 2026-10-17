@@ -2,33 +2,34 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> मोहः प्रमादः कौशीद्यमाश्रद्ध्यं स्त्यानमौद्धत्यम् ।
->
-> क्लिष्टे सदैवाकुशले त्वाह्रीक्यमनपत्रपा ॥ २.२६ ॥
+```sanskrit
+मोहः प्रमादः कौशीद्यमाश्रद्ध्यं स्त्यानमौद्धत्यम् ।
+क्लिष्टे सदैवाकुशले त्वाह्रीक्यमनपत्रपा ॥ २.२६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> mohaḥ pramādaḥ kauśīdyam āśraddhyaṃ styānam auddhatyam /
->
-> kliṣṭe sadaivākuśale tv āhrīkyam anapatrapā // 2.26 //
+```text
+mohaḥ pramādaḥ kauśīdyam āśraddhyaṃ styānam auddhatyam /
+kliṣṭe sadaivākuśale tv āhrīkyam anapatrapā // 2.26 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| mohaḥ | nominative | delusion |
-| pramādaḥ | nominative | heedlessness |
-| kauśīdyam | nominative | laziness |
-| āśraddhyam | nominative | lack of faith |
-| styānam | nominative | sluggishness |
-| auddhatyam | nominative | agitation |
-| kliṣṭe sadā eva | locative | always in the afflicted |
-| akuśale tu | locative | but in the unwholesome |
-| āhrīkyam | nominative | shamelessness |
-| anapatrapā | nominative | lack of moral caution |
+| mohaḥ | nom. sg. m. | delusion |
+| pramādaḥ | nom. sg. m. | heedlessness |
+| kauśīdyam | nom. sg. n. | laziness |
+| āśraddhyam | nom. sg. n. | lack of faith |
+| styānam | nom. sg. n. | sluggishness |
+| auddhatyam | nom. sg. n. | agitation |
+| kliṣṭe sadā eva | loc. sg. n. + adverbs | always in the afflicted |
+| akuśale tu | loc. sg. n. + particle | but in the unwholesome |
+| āhrīkyam | nom. sg. n. | shamelessness |
+| anapatrapā | nom. sg. f. | lack of moral caution |
 
 Afflicted and unwholesome are not the same range.
-
 ## 4. Grammar
 
 ```text
@@ -45,12 +46,14 @@ The ten-recitation includes afflicted modes of the universal ten; they are not a
 
 ### Literal Translation
 
-Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation, always in the afflicted. But in the unwholesome, shamelessness and lack of moral caution.
-
+> Delusion, heedlessness, laziness, lack of faith, sluggishness, and
+> agitation are always present in the afflicted. But shamelessness and lack
+> of moral caution are always present in the unwholesome.
 ### Bhāṣya-informed study translation
 
-> Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation occur always, and only, in afflicted consciousness. Delusion is ignorance; heedlessness is the non-cultivation of wholesome dharmas; laziness is the absence of energetic arousal; lack of faith is the absence of clarity; sluggishness is the unworkability of body and consciousness; agitation is the non-pacification of consciousness. In unwholesome consciousness, shamelessness and lack of moral caution are invariably present.
-
+> Delusion, heedlessness, laziness, lack of faith, sluggishness, and
+> agitation are always present in afflicted consciousness; shamelessness and
+> lack of moral caution are present in unwholesome consciousness.
 ## 6. Philosophical Translation
 
 > Afflicted ground is exclusive. The six are not the ten. Afflicted modes of the universal factors remain universal. Predominance names; it does not split the pair.
@@ -84,6 +87,8 @@ The six are exclusive to afflicted consciousness.
 The unwholesome adds the pair.  
 Afflicted modes of universal factors remain universal.
 ## 9. Interpretive Note
+
+**Translation note.** The commentary identifies delusion with ignorance; heedlessness with failure to cultivate wholesome dharmas; laziness with lack of energetic arousal; lack of faith with lack of clarity; sluggishness with unworkability of body and consciousness; and agitation with non-pacification of consciousness. It discusses whether the first group is only afflicted and records a damaged retort, a recitation example, and a bodily-sluggishness analogy.
 
 Five of the ten are kept as the separately counted afflicted factors, with sluggishness added to make six. The other five are modes. And so on completes them: lack of clear comprehension is Discrimination afflicted, improper attention is attention afflicted, false resolution is resolution afflicted. Not extra definitions spelled out here.
 

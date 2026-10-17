@@ -6,7 +6,9 @@
 >
 > niḥṣyando hetusadṛśaḥ visaṃyogaḥ kṣayo dhiyā // 2.57 //
 
-> Maturation is an indeterminate dharma, unobscured and classed with a sentient being, arisen from the determinate. It comes later, neither together with its cause nor immediately after it, and it is unshared: no one experiences the maturation of another's karma. Homogeneous outflow is similar to its cause; in the pervasive, the likeness lies in level and affliction. Disconnection is cessation by Discrimination.
+> Maturation is an indeterminate dharma, classed with a sentient being and
+> arisen from the determinate. Homogeneous outflow resembles its cause;
+> disconnection is cessation by Discrimination.
 
 ## 2. Continuous Sanskrit Witness
 

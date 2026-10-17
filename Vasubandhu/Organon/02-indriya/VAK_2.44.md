@@ -2,32 +2,33 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> बोधिलभ्या मुनेर्न प्राक् चतुस्त्रिंशत्क्षणाप्तितः ।
->
-> कामरूपाश्रये भूते निरोधाख्यादितो नृषु ॥ २.४४ ॥
+```sanskrit
+बोधिलभ्या मुनेर्न प्राक् चतुस्त्रिंशत्क्षणाप्तितः ।
+कामरूपाश्रये भूते निरोधाख्यादितो नृषु ॥ २.४४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> bodhilabhyā muner na prāk catustriṃśatkṣaṇāptitaḥ /
->
-> kāmarūpāśraye bhūte nirodhākhyādito nṛṣu // 2.44 //
+```text
+bodhilabhyā muner na prāk catustriṃśatkṣaṇāptitaḥ /
+kāmarūpāśraye bhūte nirodhākhyādito nṛṣu // 2.44 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| bodhi-labhyā | acquired with awakening |
-| muneḥ | the Sage |
-| na prāk | not beforehand |
-| catustriṃśat-kṣaṇa | thirty-four moments |
-| kāma-rūpa-āśraye | with a desire- or form-realm support |
-| bhūte | when that support is present |
-| nirodha-ākhyā | the attainment called cessation |
-| āditaḥ | at first |
-| nṛṣu | among humans |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| bodhi-labhyā | nom. sg. f.; compound | acquired with awakening |
+| muneḥ | gen. sg. m. | the Sage |
+| na prāk | negation + adverb | not beforehand |
+| catustriṃśat-kṣaṇa | abl. sg. m.; numeral compound | thirty-four moments |
+| kāma-rūpa-āśraye | loc. sg. n.; compound | with a desire- or form-realm support |
+| bhūte | loc. sg. n. past participle | when that support is present |
+| nirodha-ākhyā | nom. sg. f.; compound | the attainment called cessation |
+| āditaḥ | adverb | at first |
+| nṛṣu | loc. pl. m. | among humans |
 
 Support is not the level. The attainment of cessation remains of the summit.
-
 ## 4. Grammar
 
 ```text
@@ -46,12 +47,16 @@ Cessation first among humans; later in the form realm only after loss.
 
 ### Literal Translation
 
-For the Sage, acquired with awakening, not beforehand, because attained in thirty-four moments. When a desire- or form-realm support is present. The one called cessation, at first, among humans.
-
+> For the Sage, the two attainments are acquired with awakening, not
+> beforehand, since awakening is reached in thirty-four moments. They arise
+> when a desire- or form-realm support is present. The attainment called
+> cessation is first produced among humans.
 ### Bhāṣya-informed study translation
 
-> For the Sage the two attainments are acquired with awakening, and not before it, since awakening is reached in thirty-four moments. Both arise when a desire- or form-realm support is present. The attainment called cessation is first produced among humans; later, in the form realm, it is produced only by one who had lost it.
-
+> For the Sage, [the attainments] are acquired with awakening, not
+> beforehand, since awakening is reached in thirty-four moments. With a
+> desire- or form-realm support present, the attainment called cessation is
+> first produced among humans.
 ## 6. Philosophical Translation
 
 > Support and level stay apart. First production is human; later entry presupposes loss. The names follow the preparation, not the range of the cessation. Return of consciousness is the live dispute. Designation from non-operation is not accepted.
@@ -90,6 +95,8 @@ return
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary identifies both attainments as arising with a desire- or form-realm support, while cessation remains an attainment of the summit. It says cessation is later produced in the form realm only by one who has lost it, and examines a sūtra counterexample and competing explanations of support and return to consciousness. The damaged phrase on the support is not expanded beyond the stated alternatives.
 
 The five-destiny reading of the damaged phrase is not adopted. The counterexample concerns form-realm existence. Not a collation. Life begins the next topic.
 

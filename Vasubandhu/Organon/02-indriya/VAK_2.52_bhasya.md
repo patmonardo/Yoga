@@ -6,7 +6,9 @@
 >
 > anyo 'nyaṃ navabhūmis tu mārgaḥ samaviśiṣṭayoḥ // 2.52 //
 
-> Homogeneous cause is similar, of its own class and level, prior-born. Future is not. The Path of nine levels is homogeneous cause across them, of the equal or the superior only. Not same-class. Prior still required. Not the co-arisen reciprocity.
+> A homogeneous cause is similar, of its own class and level, and
+> prior-born. The Path crosses the nine levels as cause for the equal or
+> the superior.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -2,30 +2,31 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> जातिजात्यादयस्तेषां तेऽष्टधर्मैकवृत्तयः ।
->
-> जन्यस्य जनिका जातिर्न हेतुप्रत्ययैर्विना ॥ २.४६ ॥
+```sanskrit
+जातिजात्यादयस्तेषां तेऽष्टधर्मैकवृत्तयः ।
+जन्यस्य जनिका जातिर्न हेतुप्रत्ययैर्विना ॥ २.४६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> jātijātyādayas teṣāṃ te 'ṣṭadharmaikavṛttayaḥ /
->
-> janyasya janikā jātir na hetupratyayair vinā // 2.46 //
+```text
+jātijātyādayas teṣāṃ te 'ṣṭadharmaikavṛttayaḥ /
+janyasya janikā jātir na hetupratyayair vinā // 2.46 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| jāti-jāti-ādayaḥ | arising-of-arising and the rest |
-| teṣām | of those primary marks |
-| aṣṭa-dharma-eka-vṛttayaḥ | operating on eight, and on one |
-| janyasya | of what is to be generated |
-| janikā | the generator |
-| na vinā | not without |
-| hetu-pratyayaiḥ | causes and conditions |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| jāti-jāti-ādayaḥ | nom. pl. m.; compound | arising-of-arising and the rest |
+| teṣām | gen. pl. m. | of those primary marks |
+| aṣṭa-dharma-eka-vṛttayaḥ | nom. pl. m.; compound adjective | operating on eight, and on one |
+| janyasya | gen. sg. n.; past passive participle | of what is to be generated |
+| janikā | nom. sg. f. | the generator |
+| na vinā | negation + instr. | not without |
+| hetu-pratyayaiḥ | instr. pl. m.; compound | causes and conditions |
 
 Operation is activity, efficacy. Not a third synonym for the mark.
-
 ## 4. Grammar
 
 ```text
@@ -43,12 +44,14 @@ The power seen is the conjunction, on the critical account.
 
 ### Literal Translation
 
-Arising-of-arising and the rest, of those. They operate on eight dharmas, and on one. Arising is the generator of what is to be generated, not without causes and conditions.
-
+> The marks of arising and the rest have marks of their own. The primary
+> marks operate on eight dharmas, the secondary on one. Arising generates
+> what is to be generated, not without causes and conditions.
 ### Bhāṣya-informed study translation
 
-> The primary marks, being conditioned, have marks of their own: arising-of-arising and the rest. The primary marks operate on eight dharmas, the secondary on one, so that no regress arises. Arising is the generator of what is to be generated, and generates it only with causes and conditions.
-
+> Arising-of-arising and the rest belong to those [primary marks]. The
+> primary marks operate on eight dharmas, the secondary on one. Arising
+> generates what is generated only with causes and conditions.
 ## 6. Philosophical Translation
 
 > Primary operate on eight, secondary on one. The stipulation stops the regress; it does not show the entities. Arising generates only with causes and conditions. The power seen is the conjunction. Arising is the transition, not a producer beside it. The marks are maintained as real. Not settled.
@@ -90,6 +93,8 @@ reply
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary lists arising-of-arising, persistence-of-persistence, aging-of-aging, and impermanence-of-impermanence, then uses the eight/one distinction to block an endless regress: arising generates eight, its secondary mark generates one. It explains generation through conjunction of causes and conditions and records, without settling, the dispute over whether the marks are real entities.
 
 The first half belongs with the marks of 2.45. The second half is the objection the restriction invites. Grammar is not ontology. The close is that the marks have been explained, with the dispute recorded.
 

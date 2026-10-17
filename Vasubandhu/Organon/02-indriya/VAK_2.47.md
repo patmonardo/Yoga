@@ -2,29 +2,30 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> नामकायादयः संज्ञावाक्याक्षरसमुक्तयः ।
->
-> कामरूपाप्तसत्त्वाख्या निःष्यन्दाव्याकृतास्तथा ॥ २.४७ ॥
+```sanskrit
+नामकायादयः संज्ञावाक्याक्षरसमुक्तयः ।
+कामरूपाप्तसत्त्वाख्या निःष्यन्दाव्याकृतास्तथा ॥ २.४७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> nāmakāyādayaḥ saṃjñāvākyākṣarasamuktayaḥ /
->
-> kāmarūpāptasattvākhyā niḥṣyandāvyākṛtās tathā // 2.47 //
+```text
+nāmakāyādayaḥ saṃjñāvākyākṣarasamuktayaḥ /
+kāmarūpāptasattvākhyā niḥṣyandāvyākṛtās tathā // 2.47 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| nāma-kāya-ādayaḥ | groups of names and the rest |
-| saṃjñā-vākya-akṣara | designation, sentence, phonetic element |
-| samukti | collection |
-| kāma-rūpa-āpta | included in desire and form realms |
-| sattva-ākhyā | classed with sentient beings |
-| niḥṣyanda | homogeneous outflow |
-| avyākṛta | indeterminate |
-| tathā | likewise |
-
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| nāma-kāya-ādayaḥ | nom. pl. m.; compound | groups of names and the rest |
+| saṃjñā-vākya-akṣara | nom. sg. f. + nom. sg. n. + nom. sg. n.; compound | designation, sentence, phonetic element |
+| samukti | nom. pl. f.; compound | collection |
+| kāma-rūpa-āpta | nom. pl. m.; compound | included in desire and form realms |
+| sattva-ākhyā | nom. pl. m.; compound | classed with sentient beings |
+| niḥṣyanda | nom. pl. m.; compound | homogeneous outflow |
+| avyākṛta | nom. pl. m.; adjective | indeterminate |
+| tathā | adverb | likewise |
 ## 4. Grammar
 
 ```text
@@ -42,12 +43,14 @@ Others place them in the formless, inexpressible.
 
 ### Literal Translation
 
-Groups of names and the rest are collections of designations, sentences, and phonetic elements. Included in the desire and form realms, classed with sentient beings, homogeneous outflows, and likewise indeterminate.
-
+> The groups of names and the rest are collections of designation, sentence,
+> and phonetic element. They are included in the desire and form realms,
+> classed with sentient beings, homogeneous outflows, and indeterminate.
 ### Bhāṣya-informed study translation
 
-> The groups of names and the rest are collections of designation, sentence, and phonetic element: a name makes a designation, a sentence completes a meaning, and a phonetic element is the audible minimum. They are included in the desire and form realms, classed with the sentient being who signifies, and are homogeneous outflows, unobscured-indeterminate.
-
+> The groups of names and the rest are collections of designation, sentence,
+> and phonetic element; they are included in the desire and form realms,
+> classed with sentient beings, homogeneous outflows, and indeterminate.
 ## 6. Philosophical Translation
 
 > Three groups. Classed with the signifier, not the signified. Homogeneous outflow, unobscured-indeterminate. Succession pressures a single name-entity. The groups are maintained. Not settled.
@@ -81,6 +84,8 @@ entity
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary explains a name as making designation, a sentence as completing meaning, and a phonetic element as the audible minimum. It records other teachers' formless and inexpressible classifications, and debates whether a succession presupposes a single enduring name-entity. The groups themselves are maintained; the issue is not settled.
 
 The verse is cited in parts. The prose completes it. Tathā is the last word, after the classifications. The next verse sorts results. Causes are not this unit.
 

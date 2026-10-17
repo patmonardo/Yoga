@@ -2,22 +2,25 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> तस्मात् चत्वारि चित्तनि द्वादशैतानि विंशतिः /
-> प्रयोगिकोपपत्त्याप्तं शुभं भित्त्वा त्रिषु द्विधा // २.७१ //
+```sanskrit
+तस्मात् चत्वारि चित्तनि द्वादशैतानि विंशतिः /
+प्रयोगिकोपपत्त्याप्तं शुभं भित्त्वा त्रिषु द्विधा // २.७१ //
+```
 
 ## 2. Sanskrit (IAST)
 
-> tasmāc catvāri cittāni dvādaśaitāni viṃśatiḥ /
->
-> prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // 2.71 //
+```text
+tasmāc catvāri cittāni dvādaśaitāni viṃśatiḥ /
+prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // 2.71 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | tasmāt | abl. sg. | From that. |
 | catvāri | num. | Four. |
-| cittāni | n. pl. | Minds. |
+| cittāni | n. pl. | Consciousnesses. |
 | dvādaśa | num. | Twelve. |
 | etāni | n. pl. | These. |
 | viṃśatiḥ | num. | Twenty. |
@@ -44,12 +47,12 @@ The rest is the next verse.
 
 ### Literal Translation
 
-From that, four minds. These twelve are twenty, having divided wholesome in the three twofold: application-produced and obtained through birth.
-
+> From that, four consciousnesses. These twelve are twenty, by dividing
+> wholesome [consciousness] in the three realms twofold.
 ### Bhāṣya-informed study translation
 
-> Four minds follow beyond-training: the wholesome of the three realms, and beyond-training itself. These twelve are made twenty by dividing the wholesome mind of the three realms twofold: the application-produced, and that obtained through birth. The two are alternatives; no single kind is both.
-
+> Four consciousnesses follow beyond-training. These twelve become twenty
+> by dividing wholesome consciousness in the three realms into two kinds.
 ## 6. Philosophical Translation
 
 > The four close the twelve. The twenty are not completed by this cut alone. Three wholesome kinds become six. That is fifteen. The rest is the next verse.
@@ -67,6 +70,12 @@ From that, four minds. These twelve are twenty, having divided wholesome in the 
 The four close the twelve. The twenty are not completed by this cut alone. Three wholesome kinds become six. That is fifteen.
 
 ## 9. Interpretive Note
+
+**Translation note.** The four are the wholesome consciousnesses of the
+three realms and beyond-training. The twelve become twenty by distinguishing
+application-produced wholesome consciousness from wholesome consciousness
+obtained through birth. These are alternatives, not two modes possessed by
+one and the same kind; the division continues beyond this verse.
 
 The four close the twelve. The twenty are not completed by this cut alone. Three wholesome kinds become six. That is fifteen. The rest is the next verse.
 

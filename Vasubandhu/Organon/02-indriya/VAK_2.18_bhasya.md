@@ -6,7 +6,9 @@
 >
 > saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān // 2.18 //
 
-> Possession is not uniform. Pleasure and body each require four. The eye and the rest, and gladness, require five. Pain requires seven. The female faculty and those gathered with it require eight. The five beginning with faith require a different eight. The necessary companions are fixed by the faculty possessed; there is no single rule for the remainder.
+> One with pleasure or body has four; one possessing the eye and the rest,
+> five; one with gladness also, five; one with pain, however, seven; one
+> possessing the female Faculty and so forth has eight.
 
 Eight is aṣṭābhiḥ, the opening of 2.19. The reading includes the prose that completes the eight. The eleven and thirteen are not this unit.
 

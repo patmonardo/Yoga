@@ -2,31 +2,32 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> वितर्कचारावौदार्यसूक्ष्मते मान उन्नतिः ।
->
-> मदः स्वधर्मे रक्तस्य पर्यादानं तु चेतसः ॥ २.३३ ॥
+```sanskrit
+वितर्कचारावौदार्यसूक्ष्मते मान उन्नतिः ।
+मदः स्वधर्मे रक्तस्य पर्यादानं तु चेतसः ॥ २.३३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vitarkacārāv audāryasūkṣmate māna unnatiḥ /
->
-> madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // 2.33 //
+```text
+vitarkacārāv audāryasūkṣmate māna unnatiḥ /
+madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // 2.33 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| vitarka-cārau | dual | vitarka and vicāra |
-| audārya-sūkṣmate | dual | coarseness and subtlety |
-| mānaḥ | nominative | conceit |
-| unnatiḥ | nominative | elevation |
-| madaḥ | nominative | intoxication |
-| sva-dharme raktasya | | of one attached to one's own qualities |
-| paryādānam | nominative | taking-over |
-| cetasaḥ | genitive | of consciousness |
+| vitarka-cārau | nom. dual m. | vitarka and vicāra |
+| audārya-sūkṣmate | nom. dual n. | coarseness and subtlety |
+| mānaḥ | nom. sg. m. | conceit |
+| unnatiḥ | nom. sg. f. | elevation |
+| madaḥ | nom. sg. m. | intoxication |
+| sva-dharme raktasya | loc. sg. n. + gen. sg. m. participle | of one attached to one's own qualities |
+| paryādānam | nom. sg. n. | taking-over |
+| cetasaḥ | gen. sg. n. | of consciousness |
 
 Of consciousness is supplied later. It covers the three definitions.
-
 ## 4. Grammar
 
 ```text
@@ -44,12 +45,14 @@ Conceit compares; intoxication takes over one's own.
 
 ### Literal Translation
 
-Vitarka and vicāra are coarseness and subtlety. Conceit is elevation. Intoxication is the taking-over of the consciousness of one attached to one's own qualities.
-
+> Vitarka and vicāra are coarseness and subtlety. Conceit is elevation.
+> Intoxication is the taking-over of the consciousness of one attached to
+> one's own qualities.
 ### Bhāṣya-informed study translation
 
-> Vitarka and vicāra are coarseness and subtlety of consciousness: vitarka is its coarseness, vicāra its subtlety. Conceit is elevation of consciousness through a constructed distinction relative to another. Intoxication is the taking-over of consciousness in one attached precisely to one's own qualities.
-
+> Vitarka and vicāra are coarseness and subtlety of consciousness. Conceit
+> is elevation of consciousness; intoxication is the taking-over of
+> consciousness in one attached to one's own qualities.
 ## 6. Philosophical Translation
 
 > Coarseness and subtlety do not by themselves settle co-presence. Conceit compares. Intoxication takes over one's own. Level-attribution is not moment-co-presence.
@@ -90,6 +93,8 @@ liquor
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary supplies consciousness as the locus and says conceit involves constructed distinction relative to another. It presents three positions on the relation of vitarka and vicāra—balancing, speech-formation, or denial of co-presence—without harmonizing them. The butter example and a quoted reply are damaged; the summit objection concerns the exclusions of 2.31.
 
 Three positions: balancing, speech-formation, denial of co-presence. No harmonization is appended. The butter example is damaged. Cast into water follows the reply's water and heat. Not a restored reading. The speech quotation is damaged. Its sense is kept.
 

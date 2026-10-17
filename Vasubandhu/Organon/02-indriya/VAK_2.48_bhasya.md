@@ -6,7 +6,10 @@
 >
 > lakṣaṇāni ca niḥṣyandāḥ samāpatty-asamanvayāḥ // 2.48 //
 
-> Same-class shares the classifications of the groups of names, and is also maturation. Acquisitions are twofold, and so are the marks: homogeneous outflow or maturation. The two attainments and non-acquisition are homogeneous outflows only.
+> Same-class shares the classifications of the groups of names and the rest,
+> and is also maturation. Acquisitions are twofold, as are the marks:
+> homogeneous outflows or maturation. The attainments and non-acquisition
+> are homogeneous outflows.
 
 ## 2. Continuous Sanskrit Witness
 

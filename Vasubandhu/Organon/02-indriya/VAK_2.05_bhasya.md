@@ -6,7 +6,9 @@
 >
 > saṃbhāro vyavadānaṃ ca yāvatā tāvad indriyam // 2.05 //
 
-> Faculty is the support of mind, its differentiation, its persistence, and its defilement, together with its equipment and its purification: as far as these extend, so far is faculty. The six faculties are the support of mind; their differentiation is through the female and male faculties, their persistence through life, their defilement through the feelings, the provision for purification through the five, and purification through the three. Ignorance and the rest, and speech and the other action-organs, are therefore not counted.
+> The support of consciousness, its differentiation and persistence, its
+> defilement, equipment, and purification: as far as these extend, so far
+> extends Faculty.
 
 ## 2. Continuous Sanskrit Witness
 

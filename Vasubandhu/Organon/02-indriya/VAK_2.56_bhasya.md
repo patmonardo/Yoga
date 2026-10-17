@@ -6,7 +6,10 @@
 >
 > sabhāgasarvatragayor niṣyandaḥ pauruṣaṃ dvayoḥ // 2.56 //
 
-> The last has maturation as its fruit; the first has the fruit born of predominance, which is its very non-obstruction. The homogeneous and the pervasive have homogeneous outflow as their fruit. The two, the co-arisen and the associated, have the fruit of efficacy: the activity a dharma performs, called a person's activity by resemblance.
+> The last, maturation cause, has maturation as its fruit; the first,
+> conditioning cause, has predominance-born fruit. The homogeneous and
+> pervasive have homogeneous outflow; the co-arisen and associated have
+> efficacy as fruit.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -6,7 +6,9 @@
 >
 > rūpīṇi jīvitaṃ duḥkhe sāsravāṇi dvidhā nava // 2.09 //
 
-> The three are not three further items. They are the same nine, named by the path-task. The triad is stainless. Those possessing form, life, and the two painful faculties are with outflows. Nine, as types, can be either.
+> On the paths of seeing, cultivation, and no-more-training, the nine are
+> threefold; the triad is stainless. Those possessing Form, life, and the
+> two painful Faculties have outflows; nine are twofold.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -63,7 +65,7 @@ Word division is editorial. Repairs follow the research bhāṣya: sraddhā → 
 
 On the paths of seeing, cultivation, and no-more-training, the nine are the three. The nine are mind, pleasure, gladness, neutral feeling, and the five beginning with faith. These nine faculties are called three faculties on the three paths: on the path of seeing, the faculty “I shall know what has not been known”; on the path of cultivation, the knowledge-faculty; on the path of no-more-training, the faculty of one who has known. Why? On the path of seeing, one is engaged in knowing what has not been known. On the path of cultivation, there is nothing unprecedented to be known. One knows that same thing for the sake of abandoning the remaining latent afflictions. On the path of no-more-training, the ascertainment “it has been known” is called ājñātāva. One who possesses this is ājñātāvin. Or the name means one whose disposition is to preserve what has been known, because of attaining the knowledges of exhaustion and non-arising. The faculty of one in such a condition — suffering has been fully known by me; it is not to be fully known again — is the faculty of one who has known.
 
-Having explained their own nature, their distinctions of kind must be stated: how many faculties are with outflows, how many without outflows, and so forth. First, the group just mentioned, beginning with the faculty “I shall know,” is the stainless triad. This means without outflows, since stain is another designation for outflow. Those possessing form, life, and the two painful faculties are with outflows. The seven possessing form, the life-faculty, and the faculties of pain and distress are exclusively with outflows. The seven are eye, ear, nose, tongue, body, female, and male, because they are included in the form aggregate. Nine are twofold: mind, pleasure, gladness, neutral feeling, and the five beginning with faith are both with outflows and without outflows.
+Having explained their own nature, their distinctions of kind must be stated: how many faculties are with outflows, how many without outflows, and so forth. First, the group just mentioned, beginning with the faculty “I shall know,” is the stainless triad. This means without outflows, since stain is another designation for outflow. Those possessing form, life, and the two painful faculties are with outflows. The seven possessing form, the life-faculty, and the faculties of pain and distress are exclusively with outflows. The seven are eye, ear, nose, tongue, body, female, and male, because they are included in the Base of Form. Nine are twofold: mind, pleasure, gladness, neutral feeling, and the five beginning with faith are both with outflows and without outflows.
 
 Some say that those beginning with faith are exclusively without outflows. For the Blessed One said: one in whom these five faculties are altogether absent I call an outsider, standing among ordinary persons. This does not establish the claim, because the statement was made with reference to the faculties without outflows. For he first set out the classification of noble persons and then said one in whom these. Or ordinary persons are of two kinds: an insider whose wholesome roots have not been severed, and an outsider whose wholesome roots have been severed. With reference to the latter he says: I call an outsider, standing among ordinary persons.
 
@@ -95,7 +97,7 @@ Seeing is what was not known. Cultivation continues that knowing against remaini
 
 The two nines are the same list under two questions. Twofold types do not make the triad partly with outflows. The triad is without outflows.
 
-Twofold is either status across instances, not both in one instance. With outflows is not unwholesome, and not personally afflicted. Material faculties and life are in the class, and bodily feeling in an arhat was already allowed. Outflow, ethical quality, and the bearer's attainment stay apart. This passage does not classify conditioned and unconditioned.
+Twofold is either status across instances, not both in one instance. With outflows is not unwholesome, and not personally afflicted. Form faculties and life are in the class, and bodily feeling in an arhat was already allowed. Outflow, ethical quality, and the bearer's attainment stay apart. This passage does not classify conditioned and unconditioned.
 
 ## 7. Why the Five Are Not Exclusively Without Outflows
 

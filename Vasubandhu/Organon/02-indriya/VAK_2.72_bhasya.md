@@ -6,7 +6,9 @@
 >
 > caturdhāvyākṛtaṃ kāme rūpe śilpavivarjitam // 2.72 //
 
-> The unobscured-indeterminate mind in the desire realm is fourfold: maturation-born, deportment, craft, and creation. In the form realm it is without craft, and so threefold; in the formless these activities are absent. These are mental cognitions; the five sensory cognitions prepare deportment and craft, and the creation-mind is the supernormal one.
+> Unobscured-indeterminate consciousness is fourfold in the desire realm:
+> maturation-born, deportment, craft, and creation; in the Form realm, it
+> is without craft.
 
 ## 2. Continuous Sanskrit Witness
 

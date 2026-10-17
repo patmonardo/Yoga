@@ -6,7 +6,9 @@
 >
 > prema śraddhā gurutvaṃ hrīḥ te punaḥ kāmarūpayoḥ // 2.32 //
 
-> Shamelessness is lack of respect. Lack of moral caution is failure to see danger in the blameworthy. Affection is the person-directed form of faith; respect is the person-directed form of moral shame. Those occur in the desire and form realms, not the formless. Identity is claimed; alternatives are recorded.
+> Shamelessness is lack of respect; lack of moral caution is failure to see
+> danger in the blameworthy. Affection is faith, and respect is moral shame.
+> These occur in the desire and form realms.
 
 ## 2. Continuous Sanskrit Witness
 

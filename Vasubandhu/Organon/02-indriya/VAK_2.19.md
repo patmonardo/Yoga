@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अष्टाभिरेकादशभिस्त्वाज्ञाज्ञातेन्द्रियान्वितः ।
->
-> आज्ञास्यामीन्द्रियोपेतस्त्रयोदशभिरन्वितः ॥ २.१९ ॥
+```sanskrit
+अष्टाभिरेकादशभिस्त्वाज्ञाज्ञातेन्द्रियान्वितः ।
+आज्ञास्यामीन्द्रियोपेतस्त्रयोदशभिरन्वितः ॥ २.१९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> aṣṭābhir ekādaśabhis tv ājñājñātendriyānvitaḥ /
->
-> ājñāsyāmīndriyopetas trayodaśabhir anvitaḥ // 2.19 //
+```text
+aṣṭābhir ekādaśabhis tv ājñājñātendriyānvitaḥ /
+ājñāsyāmīndriyopetas trayodaśabhir anvitaḥ // 2.19 //
+```
 
 ## 3. Lexical Analysis
 
@@ -41,11 +43,15 @@ Thirteen unifies only on the uninterrupted path.
 
 ### Literal Translation
 
-With eight. But one accompanied by the knowledge-faculty or the faculty of one who has known, with eleven. One furnished with the faculty “I shall know” is accompanied by thirteen.
+> With eight. But one accompanied by the knowledge-faculty or the faculty of
+> one who has known, with eleven. One furnished with the faculty “I shall
+> know” is accompanied by thirteen.
 
 ### Bhāṣya-informed study translation
 
-> The knowledge-faculty and the faculty of one who has known each require eleven. “I shall know” requires thirteen. The difference is not further realization. It is the presence of body and the fourth feeling on the uninterrupted path.
+> With eight; but one accompanied by the knowledge-Faculty or the Faculty of
+> one who has known has eleven. One possessing the “I shall know” Faculty is
+> accompanied by thirteen.
 
 ## 6. Philosophical Translation
 
@@ -98,6 +104,12 @@ omitted
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): The knowledge-faculty and the faculty of one who has
+known each require eleven. “I shall know” requires thirteen. The
+difference is not further realization. It is the presence of body and the
+fourth feeling on the uninterrupted path.
 
 The eight stands in 2.18. Pratyekam still holds: female, male, distress, and each of the five are separate eights.
 

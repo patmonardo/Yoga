@@ -2,34 +2,35 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> क्रोधोपनाहशाठ्येर्ष्याप्रदासम्रक्षमत्सराः ।
->
-> मायामदविहिंसाश्च परीत्तक्लेशभूमिकाः ॥ २.२७ ॥
+```sanskrit
+क्रोधोपनाहशाठ्येर्ष्याप्रदासम्रक्षमत्सराः ।
+मायामदविहिंसाश्च परीत्तक्लेशभूमिकाः ॥ २.२७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ /
->
-> māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
+```text
+krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ /
+māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| krodha | compound | anger |
-| upanāha | compound | resentment |
-| śāṭhya | compound | crookedness |
-| īrṣyā | compound | envy |
-| pradāsa | compound | spite |
-| mrakṣa | compound | concealment |
-| matsara | compound | stinginess |
-| māyā | compound | deception |
-| mada | compound | intoxication |
-| vihiṃsā | compound | harmfulness |
-| parītta-kleśa-bhūmikāḥ | nominative | of the limited-affliction ground |
+| krodha | nom. sg. m. | anger |
+| upanāha | nom. sg. m. | resentment |
+| śāṭhya | nom. sg. n. | crookedness |
+| īrṣyā | nom. sg. f. | envy |
+| pradāsa | nom. sg. m. | spite |
+| mrakṣa | nom. sg. n. | concealment |
+| matsara | nom. sg. m. | stinginess |
+| māyā | nom. sg. f. | deception |
+| mada | nom. sg. m. | intoxication |
+| vihiṃsā | nom. sg. f. | harmfulness |
+| parītta-kleśa-bhūmikāḥ | nom. pl. f.; compound | of the limited-affliction ground |
 
 The English of the ten is provisional. Definitions are deferred.
-
 ## 4. Grammar
 
 ```text
@@ -46,12 +47,14 @@ Association is only with ignorance abandonable by cultivation and of the mental 
 
 ### Literal Translation
 
-Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the limited-affliction ground.
-
+> Anger, resentment, crookedness, envy, spite, concealment, stinginess,
+> deception, intoxication, and harmfulness belong to the ground of limited
+> afflictions.
 ### Bhāṣya-informed study translation
 
-> Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions, being associated only with ignorance that is to be abandoned by cultivation and belongs to the mental sphere. These are five classes of mental factors; there are also others, unfixed: initial examination, sustained examination, regret, and torpor.
-
+> Anger, resentment, crookedness, envy, spite, concealment, stinginess,
+> deception, intoxication, and harmfulness belong to the ground of limited
+> afflictions.
 ## 6. Philosophical Translation
 
 > Limited-affliction ground is restriction, not universality. The ten share the same associated ignorance; they do not share one moment.
@@ -82,9 +85,11 @@ The five classes are stated; others remain unfixed.
 
 ## 9. Interpretive Note
 
+**Translation note.** The commentary associates this class only with ignorance abandoned by cultivation in the mental sphere, then names five classes of mental factors and unfixed examples: initial and sustained examination, regret, and torpor. It defers the factors' definitions and leaves the list open.
+
 Anger is not resentment. Crookedness is not deception. Spite is not harmfulness. The distinctions are named. They are not yet explained. Concealment and intoxication are not complete definitions. Intoxication is not settled as a substance.
 
-Secondary affliction is the deferred discussion. It is not identified with this class. Ground remains sphere of operation.
+Secondary affliction is the deferred discussion. It is not identified with this class. Ground remains range of operation.
 
 The unfixed examples leave the list open. Their distributions wait on the count of what must be in a given consciousness.
 

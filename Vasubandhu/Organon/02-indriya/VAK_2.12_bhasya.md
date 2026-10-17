@@ -6,7 +6,11 @@
 >
 > duḥkhe ca hitvā ārūpyāptaṃ sukhe cāpohya rūpi ca // 2.12 //
 
-> Excluding the stainless triad, which is connected with no realm, the faculties are connected with the desire realm. Excluding also the female and male faculties and the two painful faculties, pain and distress, they are connected with the form realm. Excluding in addition the two pleasant faculties and whatever possesses form, they are connected with the formless realm: mind, life, neutral feeling, and the five beginning with faith, and no others.
+> Except for the stainless triad, the Faculties are connected with the
+> desire realm. Excluding the female and male Faculties and the two painful
+> Faculties, the remainder are connected with the Form realm. Excluding also
+> pleasure and the Form-bearing Faculties, the remainder are connected with
+> the formless realm.
 
 ## 2. Continuous Sanskrit Witness
 

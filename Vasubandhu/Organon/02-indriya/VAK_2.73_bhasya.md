@@ -6,7 +6,9 @@
 >
 > trayāṇāṃ rūpaje śaikṣe caturṇāṃ tasya śeṣite // 2.73 //
 
-> When an afflicted mind of the three realms is manifest, acquisition is of six, of six, and of two. With the desire afflicted, six: desire wholesome, by restoration of wholesome roots through doubt and by return; desire unwholesome and obscured, and form afflicted, by return and by decline; formless afflicted and trainee, by decline. With the form afflicted, six: the three form kinds and desire unobscured, by return; formless afflicted and trainee, by decline. With the formless afflicted, two: itself and trainee, by decline. With form wholesome, three: itself, and desire and form unobscured. With trainee, four: itself, desire and form unobscured, and formless wholesome, on dispassion from desire and form by the path. With the rest, acquisition is of that mind itself, and of no other.
+> For afflicted consciousnesses across the three realms, acquisition is of
+> six, six, and two; for wholesome consciousness, of three; for trainee,
+> of four; for the remainder, of that consciousness itself.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -19,7 +21,7 @@ The unit is printed 109.26–110.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defe
 
 ## 3. Continuous Conventional Translation
 
-When desire afflicted is manifest, six: desire wholesome, by restoration of wholesome roots through doubt and by return; desire unwholesome and obscured, and form afflicted, by return and by decline; formless afflicted and trainee, by decline. Form afflicted, six: the three form kinds and desire unobscured, by return; formless afflicted and trainee, by decline. Formless afflicted, two: itself and trainee, by decline. Form wholesome, three: itself, and desire and form unobscured. Trainee, four: itself, desire and form unobscured, and formless wholesome, on dispassion from desire and form by the path. Where acquisition was not explained, of that mind itself, not another. Others, without the distinctions: nine with afflicted, six with wholesome, itself with indeterminate. The wholesome aggregate should be seven. A summary: at rebirth, attainment, dispassion, decline, and restoration of wholesome roots, acquisition is for one who does not possess it. The discussion of conditions is complete. The second chapter, the Exposition of the Rules, is complete.
+When desire afflicted is manifest, six: desire wholesome, by restoration of wholesome roots through doubt and by return; desire unwholesome and obscured, and form afflicted, by return and by decline; formless afflicted and trainee, by decline. Form afflicted, six: the three form kinds and desire unobscured, by return; formless afflicted and trainee, by decline. Formless afflicted, two: itself and trainee, by decline. Form wholesome, three: itself, and desire and form unobscured. Trainee, four: itself, desire and form unobscured, and formless wholesome, on dispassion from desire and form by the path. Where acquisition was not explained, of that mind itself, not another. Others, without the distinctions: nine with afflicted, six with wholesome, itself with indeterminate. The wholesome total should be seven. A summary: at rebirth, attainment, dispassion, decline, and restoration of wholesome roots, acquisition is for one who does not possess it. The discussion of conditions is complete. The second chapter, the Exposition of the Rules, is complete.
 
 ## 4. Organon Reading
 

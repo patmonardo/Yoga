@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सर्वाल्पैर्निःशुभोऽष्टाभिर्विन्मनःकायजीवितैः ।
->
-> युक्तो बालस्तथारूप्ये उपेक्षायुर्मनःशुभैः ॥ २.२० ॥
+```sanskrit
+सर्वाल्पैर्निःशुभोऽष्टाभिर्विन्मनःकायजीवितैः ।
+युक्तो बालस्तथारूप्ये उपेक्षायुर्मनःशुभैः ॥ २.२० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sarvālpair niḥśubho 'ṣṭābhir vinmanaḥkāyajīvitaiḥ /
->
-> yukto bālas tathārūpye upekṣāyurmanaḥśubhaiḥ // 2.20 //
+```text
+sarvālpair niḥśubho 'ṣṭābhir vinmanaḥkāyajīvitaiḥ /
+yukto bālas tathārūpye upekṣāyurmanaḥśubhaiḥ // 2.20 //
+```
 
 ## 3. Lexical Analysis
 
@@ -42,11 +44,15 @@ Path-faculties fail to unify with `PERSON=ordinary` and `MIN=8`.
 
 ### Literal Translation
 
-One without the wholesome is endowed, at the least, with eight: feeling, mind, body, and life. Likewise an ordinary person in the formless realm, with neutral feeling, life, mind, and the wholesome faculties.
+> One without the wholesome is endowed, at the least, with eight: feeling,
+> mind, body, and life. Likewise an ordinary person in the formless realm,
+> with neutral feeling, life, mind, and the wholesome faculties.
 
 ### Bhāṣya-informed study translation
 
-> The fewest is eight. One whose wholesome roots are severed is endowed with the five feelings, body, mind, and life. An ordinary person in the formless realm is endowed with neutral feeling, life, mind, and the five beginning with faith. The path-faculties are excluded because the subject is eight and the subject is an ordinary person.
+> At least, one deprived of the wholesome is endowed with eight: feelings,
+> mind, body, and life. Likewise, an ordinary person in the formless realm
+> is endowed with neutral feeling, life, mind, and the wholesome Faculties.
 
 ## 6. Philosophical Translation
 
@@ -75,7 +81,7 @@ severed roots
 
 formless ordinary person
     = neutral feeling, life, mind, five
-    material faculties absent from the minimum
+    Form faculties absent from the minimum
     the three not included
 
 same count
@@ -88,6 +94,14 @@ at the least
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): The fewest is eight. One whose wholesome roots are
+severed is endowed with the five feelings, body, mind, and life. An
+ordinary person in the formless realm is endowed with neutral feeling,
+life, mind, and the five beginning with faith. The path-faculties are
+excluded because the subject is eight and the subject is an ordinary
+person.
 
 The question has changed. Not what one faculty entails. What is the fewest a possessor can have.
 

@@ -6,7 +6,9 @@
 >
 > tasmāt caturbhiḥ nivṛtaṃ tathā // 2.67 //
 
-> In the desire realm, nine minds follow a wholesome mind: the four of its own level; two of the form realm, wholesome at entry into attainment and obscured at rebirth-linking; formless obscured, at rebirth-linking; and trainee and beyond-training. Formless wholesome does not follow it, being too remote by the four remotenesses of support, aspect, object, and counteragent. That wholesome mind itself follows only eight: the four of its own level; form wholesome, at emergence; form obscured, when one pressed by an afflicted attainment resorts to the wholesome supporting level; and trainee and beyond-training, at emergence. Unwholesome mind follows ten, excluding trainee and beyond-training, by rebirth-linking after all form and formless minds; four follow it, of its own level only. The obscured is likewise: it follows ten, and four follow it.
+> In the desire realm, nine consciousnesses follow the wholesome, which
+> follows eight. Ten follow the unwholesome, which is followed by four;
+> the obscured likewise follows ten and is followed by four.
 
 ## 2. Continuous Sanskrit Witness
 

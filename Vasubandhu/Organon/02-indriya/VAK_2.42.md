@@ -2,31 +2,32 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> तथासंज्ञिसमापत्तिर्ध्यानेऽन्त्ये निःसृतीच्छया ।
->
-> शुभा उपपद्यवेद्यैव नार्यस्यैकाध्विकाप्यते ॥ २.४२ ॥
+```sanskrit
+तथासंज्ञिसमापत्तिर्ध्यानेऽन्त्ये निःसृतीच्छया ।
+शुभा उपपद्यवेद्यैव नार्यस्यैकाध्विकाप्यते ॥ २.४२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> tathāsaṃjñisamāpattir dhyāne 'ntye niḥsṛtīcchayā /
->
-> śubhā upapadyavedyaiva nāryasyaikādhvikāpyate // 2.42 //
+```text
+tathāsaṃjñisamāpattir dhyāne 'ntye niḥsṛtīcchayā /
+śubhā upapadyavedyaiva nāryasyaikādhvikāpyate // 2.42 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| tathā | likewise, that much |
-| asaṃjñi-samāpattiḥ | non-reflective attainment |
-| dhyāne antye | in the final dhyāna |
-| niḥsṛti-icchayā | by the wish for release |
-| śubhā | wholesome |
-| upapadya-vedyā eva | to be experienced only in the next rebirth |
-| na āryasya | not a noble person's |
-| eka-adhvikā āpyate | acquired in one time |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| tathā | adverb | likewise, that much |
+| asaṃjñi-samāpattiḥ | nom. sg. f.; compound | non-reflective attainment |
+| dhyāne antye | loc. sg. n. + loc. sg. n. | in the final dhyāna |
+| niḥsṛti-icchayā | instr. sg. f.; compound | by the wish for release |
+| śubhā | nom. sg. f. | wholesome |
+| upapadya-vedyā eva | nom. sg. f. + particle | to be experienced only in the next rebirth |
+| na āryasya | gen. sg. m.; negation | not a noble person's |
+| eka-adhvikā āpyate | nom. sg. f. + 3 sg. present passive | acquired in one time |
 
 Two name-construals: attainment of the non-reflective beings, or attainment that is non-reflective. The sequence stated is attainment, then maturation. Not rebirth first.
-
 ## 4. Grammar
 
 ```text
@@ -45,12 +46,14 @@ Not the noble. One time is present acquisition.
 
 ### Literal Translation
 
-Likewise the non-reflective attainment, in the final dhyāna, by the wish for release. Wholesome, to be experienced only in the next rebirth. Not a noble person's. Acquired in one time.
-
+> Likewise, the non-reflective attainment is in the final dhyāna and is
+> entered with the wish for release. It is wholesome, experienced only in
+> the next rebirth, not a noble person's, and acquired in one time.
 ### Bhāṣya-informed study translation
 
-> Likewise carries only the cessation of consciousness and the mental factors. The attainment belongs to the fourth dhyāna and is entered by the wish for release. It is wholesome; its maturation is indeterminate and is experienced only in the next rebirth. Not a noble person's. Acquired in one time: the present instance only.
-
+> Likewise, the non-reflective attainment is in the final dhyāna, entered
+> with the wish for release. It is wholesome, experienced only in the next
+> rebirth, not a noble person's, and acquired in one time.
 ## 6. Philosophical Translation
 
 > Likewise is the shared cessation, not the shared result. Wholesome attainment, indeterminate next-rebirth maturation. Not the noble. One time is present acquisition.
@@ -88,6 +91,8 @@ future instance
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary identifies the final dhyāna as the fourth and explains the wish for release. Its maturation is indeterminate and experienced only in the next rebirth; even after falling away, the attainment is said to be produced again. Noble persons do not enter it. Acquisition is present-instance only, compared with the restraint of individual liberation; no future instance is cultivated because the attainment is without consciousness.
 
 Kila marks the necessary rebirth after falling away. Report, not a recommendation. The restraint of individual liberation is the analogy for present-only acquisition. Not an identity of the two.
 

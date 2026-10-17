@@ -6,7 +6,9 @@
 >
 > manaskāro 'dhimokṣaś ca samādhiḥ sarvacetasi // 2.24 //
 
-> These ten are present together in every moment of consciousness. Feeling is experience, volition is mental action, reflection is take-up of the mark, contact is the touching born of faculty, meaning, and cognition, Discrimination is prajñā. The distinction of consciousness and factors is subtle, harder in moments than in streams.
+> Feeling, volition, reflection, wish to perform, contact, discriminative
+> comprehension, mindfulness, attention, resolution, and concentration are
+> present in every consciousness.
 
 ## 2. Continuous Sanskrit Witness
 

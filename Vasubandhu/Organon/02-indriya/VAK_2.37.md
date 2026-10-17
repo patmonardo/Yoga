@@ -2,30 +2,32 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> त्रैयध्विकानां त्रिविधा शुभादीनां शुभादिका ।
->
-> स्वधातुका तदाप्तानामनाप्तानां चतुर्विधा ॥ २.३७ ॥
+```sanskrit
+त्रैयध्विकानां त्रिविधा शुभादीनां शुभादिका ।
+स्वधातुका तदाप्तानामनाप्तानां चतुर्विधा ॥ २.३७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> traiyadhvikānāṃ trividhā śubhādīnāṃ śubhādikā /
->
-> svadhātukā tadāptānām anāptānāṃ caturvidhā // 2.37 //
+```text
+traiyadhvikānāṃ trividhā śubhādīnāṃ śubhādikā /
+svadhātukā tadāptānām anāptānāṃ caturvidhā // 2.37 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| traiyadhvikānām | of dharmas of the three times |
-| trividhā | threefold |
-| śubhādikā | correspondingly wholesome and so forth |
-| svadhātukā | of the same realm |
-| tadāptānām | of those included in that realm |
-| anāptānām | of those not included in a realm |
-| caturvidhā | fourfold |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| traiyadhvikānām | gen. pl. m.; adjective | of dharmas of the three times |
+| trividhā | nom. sg. f. | threefold |
+| śubhādīnām | gen. pl. m.; compound | of wholesome and the rest |
+| śubhādikā | nom. sg. f.; compound | correspondingly wholesome and so forth |
+| svadhātukā | nom. sg. f.; adjective | of the same realm |
+| tadāptānām | gen. pl. m.; compound | of those included in that realm |
+| anāptānām | gen. pl. m.; past passive participle | of those not included in a realm |
+| caturvidhā | nom. sg. f. | fourfold |
 
 Realm is the three. Not the eighteen. Not Domain.
-
 ## 4. Grammar
 
 ```text
@@ -44,12 +46,16 @@ Space remains excluded.
 
 ### Literal Translation
 
-Of those of the three times, threefold. Of the wholesome and the rest, wholesome and the rest. Of the same realm, of those included in that. Of those not included, fourfold.
-
+> For dharmas of the three times, acquisition is threefold. For wholesome
+> and the rest, it has the corresponding ethical status. Of those included
+> in a realm, it belongs to that same realm; of those not included, it is
+> fourfold.
 ### Bhāṣya-informed study translation
 
-> Acquisition of a past, future, or present dharma may itself be past, future, or present. Of a wholesome, unwholesome, or indeterminate dharma, the acquisition has that ethical status. Of a dharma included in a realm, the acquisition belongs to that realm. Of a dharma not included, the acquisition may be of the desire, form, or formless realm, or uncontaminated. Uncontaminated is not a fourth realm.
-
+> For dharmas of the three times, acquisition is threefold; of wholesome,
+> unwholesome, or indeterminate dharmas, it has that status. Acquisition of
+> a realm-included dharma belongs to that realm; of one not included in a
+> realm, it is fourfold.
 ## 6. Philosophical Translation
 
 > Four indices. Time of the dharma and time of the acquisition are distinct. Uncontaminated is not a fourth realm. Space remains excluded.
@@ -79,6 +85,8 @@ space
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary specifies the four cases for what is not realm-included: desire, form, or formless realm, and uncontaminated. The last is not a fourth realm. It further classifies acquisition by path and abandonment, details supplied by the commentary rather than this verse.
 
 The matrix is what a bare possesses leaves out. When, of what quality, in which realm, and, in the commentary, by what path and what abandonment. The fourfold rule is not arbitrary. It is the union of the eligible cases. Not an implementation.
 

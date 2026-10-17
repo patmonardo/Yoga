@@ -6,7 +6,10 @@
 >
 > saṃprayuktakahetus tu cittacaittāḥ samāśrayāḥ // 2.53 //
 
-> Produced by application is homogeneous cause of the equal or the superior only. Hearing, thought, cultivation, by realm. Associated cause is consciousness and the mental factors of the same support, five equalities. Also co-arisen, not conversely. Cintā is thought, not reflection.
+> Application-produced qualities are homogeneous causes of the equal or
+> superior only: those born of hearing, thought, and cultivation.
+> Associated cause is consciousness and mental factors sharing one
+> support.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> प्रवृत्तेराश्रयोत्पत्तिस्थितिप्रत्युपभोगतः ।
->
-> चतुर्दश तथान्यानि निवृत्तेरिन्द्रियाणि वा ॥ २.६ ॥
+```sanskrit
+प्रवृत्तेराश्रयोत्पत्तिस्थितिप्रत्युपभोगतः ।
+चतुर्दश तथान्यानि निवृत्तेरिन्द्रियाणि वा ॥ २.६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> pravṛtter āśrayotpattisthitipratyupabhogataḥ /
->
-> caturdaśa tathānyāni nivṛtter indriyāṇi vā // 2.6 //
+```text
+pravṛtter āśrayotpattisthitipratyupabhogataḥ /
+caturdaśa tathānyāni nivṛtter indriyāṇi vā // 2.6 //
+```
 
 ## 3. Lexical Analysis
 
@@ -42,11 +44,14 @@ Same four places, two courses. `COURSE` keeps them apart.
 
 ### Literal Translation
 
-Or, as to support, arising, persistence, and experience of engagement, fourteen; likewise the others are faculties of withdrawal.
+> Or, as to support, arising, persistence, and experience of engagement,
+> fourteen; likewise the others are faculties of withdrawal.
 
 ### Bhāṣya-informed study translation
 
-> Or the same twenty-two under another order. Fourteen govern engagement through support, arising, persistence, and experience. Eight govern withdrawal in those same four places. Withdrawal is not bare absence; it has its own support, arising, persistence, and experience.
+> Or, for engagement, fourteen [Faculties] with respect to support, arising,
+> persistence, and experience; likewise, the others are Faculties of
+> withdrawal.
 
 ## 6. Philosophical Translation
 
@@ -91,6 +96,12 @@ speech, hand, foot, anus, genital organ
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): Or the same twenty-two under another order. Fourteen
+govern engagement through support, arising, persistence, and experience.
+Eight govern withdrawal in those same four places. Withdrawal is not bare
+absence; it has its own support, arising, persistence, and experience.
 
 Tathā is the point. Withdrawal has the same four places as engagement. The members differ. Feeling-experience is not the experience of one who has known. They occupy the corresponding place.
 

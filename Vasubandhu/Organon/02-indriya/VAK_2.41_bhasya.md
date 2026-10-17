@@ -6,7 +6,9 @@
 >
 > nirodhaś cittacaittānāṃ vipākaḥ te bṛhatphalāḥ // 2.41 //
 
-> Same-class is sameness among beings. The non-reflective, among the non-reflective, is the cessation of consciousness and the mental factors, a maturation of the attainment. Those so born are the Great Fruit; they are reflective at birth and at death, and the arising of reflection ends their stay.
+> Same-class is sameness among beings; the non-reflective attainment is
+> cessation of consciousness and the mental factors, a maturation. Those
+> born among the non-reflective are the Great Fruit.
 
 ## 2. Continuous Sanskrit Witness
 

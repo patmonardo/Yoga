@@ -6,7 +6,10 @@
 >
 > prāptyā vā pañcadhā caittā mahābhūmyādibhedataḥ // 2.23 //
 
-> Consciousness and the mental factors necessarily co-arise; neither exists without the other. Everything conditioned arises with the marks. Acquisition accompanies only what is designated as belonging to a sentient being. Mental factors are fivefold by the division beginning with the great ground. The great-ground factors occur in every consciousness.
+> Consciousness and mental factors necessarily arise together. All
+> conditioned things arise together with the marks of the conditioned; or,
+> only those designated as sentient arise with acquisition. Mental factors
+> are fivefold by divisions beginning with the great ground.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -38,7 +41,7 @@ Word division is editorial. Sahavaśyaṃ is read as sahāvaśyaṃ. Satvākhyam
 
 The rule of co-arising for material dharmas has been stated. That for the remaining dharmas must now be stated. First: consciousness and mental factors necessarily arise together. For they cannot exist without one another. Everything with the marks of the conditioned. Necessarily together is carried forward. Whatever arises, material form, consciousness, mental factors, or dissociated formations, arises together with the marks of the conditioned. Or with acquisition. Only what is designated as belonging to a sentient being arises together with acquisition, not anything else. Thus or expresses a distinction of cases.
 
-Mental factors have been mentioned. What are they? Mental factors are fivefold, according to the division beginning with the great ground. Five classes: great-ground, wholesome great-ground, affliction great-ground, unwholesome great-ground, and limited-affliction great-ground. A ground means a sphere of operation. Whatever is something's sphere of operation is called its ground. Those whose ground is extensive are the great-ground factors. They occur in every consciousness.
+Mental factors have been mentioned. What are they? Mental factors are fivefold, according to the division beginning with the great ground. Five classes: great-ground, wholesome great-ground, affliction great-ground, unwholesome great-ground, and limited-affliction great-ground. A ground means a range of operation. Whatever is something's range of operation is called its ground. Those whose ground is extensive are the great-ground factors. They occur in every consciousness.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -66,7 +69,7 @@ Or distinguishes the cases. It does not substitute acquisition for the marks, an
 
 ## 7. Ground and the Five Names
 
-Ground is sphere of operation. The consciousnesses in which the factors occur. Not a place. Not automatically a meditative level or a path-stage.
+Ground is range of operation. The consciousnesses in which the factors occur. Not a place. Not automatically a meditative level or a path-stage.
 
 Great is breadth: every consciousness. That does not make the class wholesome. The wholesome class stays distinct.
 

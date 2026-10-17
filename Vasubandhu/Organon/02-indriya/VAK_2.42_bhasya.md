@@ -6,7 +6,9 @@
 >
 > śubhā upapadyavedyaiva nāryasyaikādhvikāpyate // 2.42 //
 
-> Likewise carries only the cessation of consciousness and the mental factors. The attainment belongs to the fourth dhyāna and is entered by the wish for release. It is wholesome; its maturation is indeterminate and is experienced only in the next rebirth. Not a noble person's. Acquired in one time: the present instance only.
+> Likewise, the non-reflective attainment is in the final dhyāna, entered
+> with the wish for release. It is wholesome, experienced only in the next
+> rebirth, not a noble person's, and acquired in one time.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -23,7 +25,7 @@ The unit is printed 68.28–69.23 in `Vasubandhu/Sources/kosabhasya.txt`. The wi
 
 What are the two attainments? The non-reflective attainment and the attainment of cessation. What is the non-reflective attainment? Just as the non-reflective was called cessation of consciousness and the mental factors, so is this. Attainment of the non-reflective beings, or attainment that is non-reflective. It too is that cessation. That much likewise carries. It is in the final dhyāna, the fourth, not another ground. Why do they enter it? By the wish for release. They consider it an escape, and enter wishing for liberation.
 
-The result, being maturation, is indeterminate. This attainment is wholesome. Its maturation among the non-reflective is five aggregates. Exclusively to be experienced in the next rebirth. Not in this life, and not of indeterminate timing. Even one who produces it and falls away, it is said, necessarily produces it again and is born among them. Therefore one who has obtained it does not enter the certainty. It is accepted for an ordinary person, not a noble person. Noble persons do not enter it, seeing a place of downfall. Those who enter it regard it as escape.
+The result, being maturation, is indeterminate. This attainment is wholesome. Its maturation among the non-reflective is five Bases. Exclusively to be experienced in the next rebirth. Not in this life, and not of indeterminate timing. Even one who produces it and falls away, it is said, necessarily produces it again and is born among them. Therefore one who has obtained it does not enter the certainty. It is accepted for an ordinary person, not a noble person. Noble persons do not enter it, seeing a place of downfall. Those who enter it regard it as escape.
 
 Do the noble, by obtaining the fourth dhyāna, acquire its past and future, as with the dhyāna? Others do not acquire it that way either. Even when familiar, it takes great formative effort, and it is without consciousness. Acquired in one time: the present instance only, as the restraint of individual liberation. From the second moment one also possesses the past instance, until it is relinquished. Because it is without consciousness, no future instance is cultivated.
 
@@ -33,7 +35,7 @@ The two attainments are named. The first is taken up. Likewise is limited. Level
 
 ## 5. Attainment and Result
 
-Wholesome cause. Indeterminate maturation. Likewise does not transfer the result's determinations. Five aggregates are the resultant existence. Birth and death are reflective. The interval is not specified moment by moment. Wholesome does not by itself fix next-rebirth timing. Here it is stated for this attainment.
+Wholesome cause. Indeterminate maturation. Likewise does not transfer the result's determinations. Five Bases are the resultant existence. Birth and death are reflective. The interval is not specified moment by moment. Wholesome does not by itself fix next-rebirth timing. Here it is stated for this attainment.
 
 ## 6. Wish and the Noble
 

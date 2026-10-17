@@ -2,18 +2,21 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> क्लिष्टे त्रैधातुके लाभः षण्णां षण्णां द्वयोः शुभे /
-> त्रयाणां रूपजे शैक्षे चतुर्णां तस्य शेषिते // २.७३ //
+```sanskrit
+क्लिष्टे त्रैधातुके लाभः षण्णां षण्णां द्वयोः शुभे /
+त्रयाणां रूपजे शैक्षे चतुर्णां तस्य शेषिते // २.७३ //
+```
 
 ## 2. Sanskrit (IAST)
 
-> kliṣṭe traidhātuke lābhaḥ ṣaṇṇāṃ ṣaṇṇāṃ dvayoḥ śubhe /
->
-> trayāṇāṃ rūpaje śaikṣe caturṇāṃ tasya śeṣite // 2.73 //
+```text
+kliṣṭe traidhātuke lābhaḥ ṣaṇṇāṃ ṣaṇṇāṃ dvayoḥ śubhe /
+trayāṇāṃ rūpaje śaikṣe caturṇāṃ tasya śeṣite // 2.73 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kliṣṭe | loc. sg. | In afflicted. |
 | traidhātuke | loc. sg. | Of the three realms. |
@@ -42,21 +45,23 @@ Back to the twelve.
 Acquisition, not succession.  
 Two belongs to formless afflicted.  
 Three belongs to form wholesome.  
-The remainder is that mind itself.
+The remainder is that consciousness itself.
 
 ## 5. Translation
 
 ### Literal Translation
 
-In afflicted mind of the three realms, acquisition of six, of six, of two. In wholesome form-realm, of three. In trainee, of four. In the rest, of that.
-
+> Among afflicted consciousnesses of the three realms, acquisition is of
+> six, six, and two; among wholesome, of three; among trainee, of four;
+> for the rest, of that consciousness itself.
 ### Bhāṣya-informed study translation
 
-> When an afflicted mind of the three realms is manifest, acquisition is of six, of six, and of two. With the desire afflicted, six: desire wholesome, by restoration of wholesome roots through doubt and by return; desire unwholesome and obscured, and form afflicted, by return and by decline; formless afflicted and trainee, by decline. With the form afflicted, six: the three form kinds and desire unobscured, by return; formless afflicted and trainee, by decline. With the formless afflicted, two: itself and trainee, by decline. With form wholesome, three: itself, and desire and form unobscured. With trainee, four: itself, desire and form unobscured, and formless wholesome, on dispassion from desire and form by the path. With the rest, acquisition is of that mind itself, and of no other.
-
+> For afflicted consciousnesses across the three realms, acquisition is of
+> six, six, and two; for wholesome consciousness, of three; for trainee,
+> of four; for the remainder, of that consciousness itself.
 ## 6. Philosophical Translation
 
-> Back to the twelve. Acquisition, not succession. Two belongs to formless afflicted. Three belongs to form wholesome. The remainder is that mind itself.
+> Back to the twelve. Acquisition, not succession. Two belongs to formless afflicted. Three belongs to form wholesome. The remainder is that consciousness itself.
 
 ## 7. Technical Vocabulary
 
@@ -70,11 +75,26 @@ In afflicted mind of the three realms, acquisition of six, of six, of two. In wh
 
 ## 8. Logical Determination
 
-Back to the twelve. Acquisition, not succession. The remainder is that mind itself.
+Back to the twelve. Acquisition, not succession. The remainder is that consciousness itself.
 
 ## 9. Interpretive Note
 
-Back to the twelve. Acquisition, not succession. Two belongs to formless afflicted. Three belongs to form wholesome. The remainder is that mind itself.
+**Translation note.** The Bhāṣya assigns the first six acquisitions to
+desire-afflicted consciousness: desire-wholesome through restoration of
+wholesome roots by doubt and return; desire-unwholesome and desire-obscured,
+and Form-afflicted, through return or decline; and formless-afflicted and
+trainee through decline. Form-afflicted consciousness acquires six: its
+three Form kinds and desire-unobscured through return, plus
+formless-afflicted and trainee through decline. Formless-afflicted acquires
+two, itself and trainee, through decline. Form-wholesome acquires three:
+itself and desire- and Form-unobscured. Trainee acquires four: itself,
+desire- and Form-unobscured, and formless wholesome upon dispassion from
+desire and Form through the Path. For every remaining kind, acquisition is
+of that consciousness itself and no other. The prose also gives broader
+totals and summarizes acquisition at rebirth, attainment, dispassion,
+decline, and restoration of wholesome roots.
+
+Back to the twelve. Acquisition, not succession. Two belongs to formless afflicted. Three belongs to form wholesome. The remainder is that consciousness itself.
 
 ## 10. OWL++ Seed
 

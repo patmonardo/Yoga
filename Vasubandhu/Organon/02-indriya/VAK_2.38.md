@@ -2,30 +2,30 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> त्रिधा नशैक्षाशैक्षाणामहेयानां द्विधा मता ।
->
-> अव्याकृताप्तिः सहजाभिज्ञानैर्माणिकादृते ॥ २.३८ ॥
+```sanskrit
+त्रिधा नशैक्षाशैक्षाणामहेयानां द्विधा मता ।
+अव्याकृताप्तिः सहजाभिज्ञानैर्माणिकादृते ॥ २.३८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> tridhā naśaikṣāśaikṣāṇām aheyānāṃ dvidhā matā /
->
-> avyākṛtāptiḥ sahajābhijñānairmāṇikād ṛte // 2.38 //
+```text
+tridhā naśaikṣāśaikṣāṇām aheyānāṃ dvidhā matā /
+avyākṛtāptiḥ sahajābhijñānairmāṇikād ṛte // 2.38 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| na-śaikṣa-aśaikṣāṇām | of what is neither trainee nor beyond training |
-| tridhā | threefold |
-| aheyānām | of what is not to be abandoned |
-| dvidhā | twofold |
-| avyākṛta-āptiḥ | acquisition of the indeterminate |
-| sahajā | co-arisen |
-| ṛte | except |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| na-śaikṣa-aśaikṣāṇām | gen. pl. m.; compound | of what is neither trainee nor beyond training |
+| tridhā | adverb | threefold |
+| aheyānām | gen. pl. m.; past passive participle | of what is not to be abandoned |
+| dvidhā | adverb | twofold |
+| avyākṛta-āptiḥ | nom. sg. f.; compound | acquisition of the indeterminate |
+| sahajābhijñānairmāṇikād ṛte | nom. sg. f. + instr. pl. n. + abl. sg. n. + indeclinable (sandhied phrase) | co-arisen; except the superknowledges and magical-creation mind |
 
-Sahajā is simultaneous. Not innate.
-
+The Bhāṣya specifies two indeterminate superknowledges and the magical-creation mind as exceptions. The verse retains the sandhied form; sahajā is simultaneous, not innate.
 ## 4. Grammar
 
 ```text
@@ -43,12 +43,16 @@ Indeterminate acquisition is co-arisen, with the stated exceptions.
 
 ### Literal Translation
 
-Threefold, of what is neither trainee nor beyond training. Of what is not to be abandoned, held to be twofold. Acquisition of the indeterminate is co-arisen, except the superknowledges and the magical creation.
-
+> Acquisition of what is neither trainee nor beyond training is threefold.
+> Acquisition of what is not to be abandoned is twofold. Acquisition of the
+> indeterminate is co-arisen, except the superknowledges and the magical-
+> creation mind.
 ### Bhāṣya-informed study translation
 
-> Acquisition of what is neither trainee nor beyond training may itself be any of the three. Of what is not to be abandoned, acquisition is abandoned by cultivation or itself not to be abandoned. Indeterminate acquisition is co-arisen, except the two indeterminate superknowledges and the magical-creation mind, whose acquisition may precede, accompany, and follow.
-
+> Acquisition of what is neither in training nor beyond training is
+> threefold. Of what is not to be abandoned, it is twofold. Indeterminate
+> acquisition is co-arisen, except for the superknowledges and the magical-
+> creation mind.
 ## 6. Philosophical Translation
 
 > Status of the credit need not inherit the status of the dharma. Indeterminate acquisition is co-arisen, with exceptions. Co-arising is not innateness.
@@ -81,6 +85,8 @@ indeterminate
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary specifies that the indeterminate superknowledges and magical-creation mind may have acquisition that precedes, accompanies, or follows them through special preparatory practice. It continues with obscured form and desire-realm form in 2.39. The relation of acquisition to the path that obtained it is commentary, not part of the verse's threefold predicate.
 
 An exception engine on the matrix of 2.37. Cessation through Discrimination is neither trainee nor beyond, in itself. Its credit follows the path that obtained it. The continuation into obscured form and desire-realm form is 2.39.
 

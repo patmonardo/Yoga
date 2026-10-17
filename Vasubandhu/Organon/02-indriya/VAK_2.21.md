@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> बहुभिर्युक्त एकान्नविंशत्यामलवर्जितैः ।
->
-> द्विलिङ्ग आर्यो रागी एकलिङ्गद्वयामलवर्जितैः ॥ २.२१ ॥
+```sanskrit
+बहुभिर्युक्त एकान्नविंशत्यामलवर्जितैः ।
+द्विलिङ्ग आर्यो रागी एकलिङ्गद्वयामलवर्जितैः ॥ २.२१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> bahubhir yukta ekānnaviṃśatyāmalavarjitaiḥ /
->
-> dviliṅga āryo rāgī ekaliṅgadvayāmalavarjitaiḥ // 2.21 //
+```text
+bahubhir yukta ekānnaviṃśatyāmalavarjitaiḥ /
+dviliṅga āryo rāgī ekaliṅgadvayāmalavarjitaiḥ // 2.21 //
+```
 
 ## 3. Lexical Analysis
 
@@ -39,11 +41,16 @@ Nineteen is the maximum that still carries attachment or both sex faculties.
 
 ### Literal Translation
 
-Endowed with the greatest number, nineteen, excluding the stainless: one possessing both sex faculties. A noble person still possessing attachment, excluding one sex faculty and two stainless faculties.
+> Endowed with the greatest number, nineteen, excluding the stainless: one
+> possessing both sex faculties. A noble person still possessing attachment,
+> excluding one sex faculty and two stainless faculties.
 
 ### Bhāṣya-informed study translation
 
-> The greatest number is nineteen. One possessing both sex faculties is endowed with nineteen, excluding the stainless triad. A trainee still possessing attachment is also endowed with nineteen, excluding one sex faculty and two of the stainless. The maximum is not the full twenty-two. It is the complete ordinary or still-attached noble continuum.
+> One is endowed with the greatest number, nineteen, excluding the
+> stainless; one possessing both sex faculties. A noble person still
+> possessing attachment has nineteen, excluding one sex faculty and two
+> stainless faculties.
 
 ## 6. Philosophical Translation
 
@@ -83,6 +90,14 @@ greatest number
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): The greatest number is nineteen. One possessing both
+sex faculties is endowed with nineteen, excluding the stainless triad. A
+trainee still possessing attachment is also endowed with nineteen,
+excluding one sex faculty and two of the stainless. The maximum is not the
+full twenty-two. It is the complete ordinary or still-attached noble
+continuum.
 
 The first case reaches nineteen by lacking every realization-faculty. Abundance and absence of noble realization coincide. Both sex characteristics do not by themselves supply the nineteen. Complete is the qualification.
 

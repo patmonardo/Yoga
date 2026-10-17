@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> दुःखेन्द्रियमशाता या कायिकी वेदना सुखम् ।
->
-> शाता ध्याने तृतीये तु चैतसी सा सुखेन्द्रियम् ॥ २.७ ॥
+```sanskrit
+दुःखेन्द्रियमशाता या कायिकी वेदना सुखम् ।
+शाता ध्याने तृतीये तु चैतसी सा सुखेन्द्रियम् ॥ २.७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> duḥkhendriyam aśātā yā kāyikī vedanā sukham /
->
-> śātā dhyāne tṛtīye tu caitasī sā sukhendriyam // 2.7 //
+```text
+duḥkhendriyam aśātā yā kāyikī vedanā sukham /
+śātā dhyāne tṛtīye tu caitasī sā sukhendriyam // 2.7 //
+```
 
 ## 3. Lexical Analysis
 
@@ -42,11 +44,14 @@ Default is bodily. The third-dhyāna feature overrides `MODE`.
 
 ### Literal Translation
 
-The pain-faculty is whichever bodily feeling is disagreeable. Pleasure is agreeable. But in the third dhyāna, that, mental, is the pleasure-faculty.
+> The pain-faculty is whichever bodily feeling is disagreeable. Pleasure is
+> agreeable. But in the third dhyāna, that, mental, is the pleasure-faculty.
 
 ### Bhāṣya-informed study translation
 
-> Pain is disagreeable bodily feeling. Pleasure is agreeable bodily feeling. The exception is narrow: in the third dhyāna the five cognition-groups are absent, so agreeable mental feeling takes the pleasure-faculty. Mental feeling is not thereby bodily.
+> Pain-Faculty is whichever bodily feeling is disagreeable; pleasure is
+> agreeable feeling. But in the third dhyāna, the agreeable mental feeling
+> is Pleasure-Faculty.
 
 ## 6. Philosophical Translation
 
@@ -91,13 +96,19 @@ The exception does not make every agreeable mental feeling the pleasure-faculty.
 
 ## 9. Interpretive Note
 
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): Pain is disagreeable bodily feeling. Pleasure is
+agreeable bodily feeling. The exception is narrow: in the third dhyāna the
+five cognition-groups are absent, so agreeable mental feeling takes the
+pleasure-faculty. Mental feeling is not thereby bodily.
+
 2.03 assigned the feelings to defilement. 2.06 assigned them to the experience of engagement. This verse begins the internal cut.
 
 Injurious and supportive are the commentary's glosses. They are not moral wholesomeness. Pain and pleasure are faculty-names. They are not every suffering and every happiness.
 
 Sā resumes the agreeable feeling. It is not one bodily feeling turning into a mental entity. Absence of the five cognition-groups explains why the feeling is not bodily. It does not yet say why the name is pleasure rather than gladness. That is the next unit.
 
-Eye through male is the range already treated. It is not a count of ten material faculties. Mind is in that range. Life is deferred because dissociated. The five beginning with faith are deferred to the mental factors.
+Eye through male is the range already treated. It is not a count of ten Form faculties. Mind is in that range. Life is deferred because dissociated. The five beginning with faith are deferred to the mental factors.
 
 Organon reading: the network projects the same place under another mode when the level changes. Not the verse English.
 

@@ -6,7 +6,9 @@
 >
 > mūladvayam ahiṃsā ca vīryaṃ ca kuśale sadā // 2.25 //
 
-> These ten occur always in wholesome consciousness. Faith is clarity, heedfulness is cultivation of the wholesome, pliancy is workability, equanimity is evenness. The two roots are non-greed and non-hatred. Non-delusion is prajñā and is already counted among the great-ground factors. Name by favor is not nature.
+> Faith, heedfulness, pliancy, equanimity, moral shame and moral caution,
+> the two roots, non-harming, and vigor are always present in wholesome
+> consciousness.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -62,7 +64,7 @@ Those whose extensive ground is the wholesome are the wholesome great-ground fac
 
 Faith is clarity of consciousness. Others say conviction concerning the truths, the Jewels, and the results of action. Heedfulness is the cultivation of wholesome dharmas. What cultivation is there apart from those dharmas? Attentive care concerning them. Members of another school read in their sūtra, guarding of consciousness.
 
-Pliancy is the workability of consciousness. But is bodily pliancy not also stated in the sūtra? It is stated. It should be understood as bodily feeling is. How, then, is it included among the factors of awakening? In that context, bodily pliancy is the workability of the body. How is it called a factor of awakening? Because it is favorable to the factors of awakening. That workability of the body brings about workability of consciousness, a factor of awakening. Is anything of this kind seen elsewhere? It is. The Blessed One called joy and the dharmas that provide a basis for joy the awakening factor of joy. Aversion and the sign of aversion were called the hindrance of ill will. Right view, intention, and effort were called the aggregate of prajñā. Intention and effort are not prajñā by nature. Because they are favorable to it, they receive its designation. In the same way, bodily pliancy receives the designation factor of awakening because it is favorable to a factor of awakening.
+Pliancy is the workability of consciousness. But is bodily pliancy not also stated in the sūtra? It is stated. It should be understood as bodily feeling is. How, then, is it included among the factors of awakening? In that context, bodily pliancy is the workability of the body. How is it called a factor of awakening? Because it is favorable to the factors of awakening. That workability of the body brings about workability of consciousness, a factor of awakening. Is anything of this kind seen elsewhere? It is. The Blessed One called joy and the dharmas that provide a basis for joy the awakening factor of joy. Aversion and the sign of aversion were called the hindrance of ill will. Right view, intention, and effort were called the Base of prajñā. Intention and effort are not prajñā by nature. Because they are favorable to it, they receive its designation. In the same way, bodily pliancy receives the designation factor of awakening because it is favorable to a factor of awakening.
 
 Equanimity is evenness of consciousness, non-application of consciousness. How can this be reconciled: in that very same consciousness, attention whose nature is application, and equanimity whose nature is non-application? Was it not said that their distinction is difficult to know? Even what is difficult to know can be known. This is exceedingly difficult: no opposition even where there is opposition. Application in one respect, non-application in another. What opposition is there? Then it would follow that not all associated factors have one support. Other questions of this kind will also arise. The method applied to those should be understood to apply to this.
 

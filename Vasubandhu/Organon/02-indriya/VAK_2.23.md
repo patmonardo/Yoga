@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चित्तं चैत्ताः सहावश्यं सर्वसंस्कृतलक्षणैः ।
->
-> प्राप्त्या वा पञ्चधा चैत्ता महाभूम्यादिभेदतः ॥ २.२३ ॥
+```sanskrit
+चित्तं चैत्ताः सहावश्यं सर्वसंस्कृतलक्षणैः ।
+प्राप्त्या वा पञ्चधा चैत्ता महाभूम्यादिभेदतः ॥ २.२३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> cittaṃ caittāḥ sahāvaśyaṃ sarvasaṃskṛtalakṣaṇaiḥ /
->
-> prāptyā vā pañcadhā caittā mahābhūmyādibhedataḥ // 2.23 //
+```text
+cittaṃ caittāḥ sahāvaśyaṃ sarvasaṃskṛtalakṣaṇaiḥ /
+prāptyā vā pañcadhā caittā mahābhūmyādibhedataḥ // 2.23 //
+```
 
 ## 3. Lexical Analysis
 
@@ -45,15 +47,20 @@ The five classes are features of caitta, not further co-arising minima.
 
 ### Literal Translation
 
-Consciousness and the mental factors, necessarily together. Everything with the marks of the conditioned. Or with acquisition. Mental factors are fivefold, by the division beginning with the great ground.
+> Consciousness and the mental factors, necessarily together. Everything
+> with the marks of the conditioned. Or with acquisition. Mental factors are
+> fivefold, by the division beginning with the great ground.
 
 ### Bhāṣya-informed study translation
 
-> Consciousness and the mental factors necessarily co-arise; neither exists without the other. Everything conditioned arises with the marks. Acquisition accompanies only what is designated as belonging to a sentient being. Mental factors are fivefold by the division beginning with the great ground. The great-ground factors occur in every consciousness.
+> Consciousness and mental factors necessarily arise together. All
+> conditioned things arise together with the marks of the conditioned; or,
+> only those designated as sentient arise with acquisition. Mental factors
+> are fivefold by divisions beginning with the great ground.
 
 ## 6. Philosophical Translation
 
-> Co-arising is mutual necessity, not identity. Acquisition is restricted to sentient designation. The five classes name spheres of operation, not further co-arising units.
+> Co-arising is mutual necessity, not identity. Acquisition is restricted to sentient designation. The five classes name ranges of operation, not further co-arising units.
 
 ## 7. Technical Vocabulary
 
@@ -64,7 +71,7 @@ Consciousness and the mental factors, necessarily together. Everything with the 
 | saṃskṛta-lakṣaṇa | mark of the conditioned | not enumerated |
 | prāpti | acquisition | sentient designation only |
 | sattvākhya | designated as belonging to a sentient being | the restriction |
-| bhūmi | ground | gativiṣaya, sphere of operation |
+| bhūmi | ground | gativiṣaya, range of operation |
 | mahābhūmika | great-ground | every consciousness |
 | parītta-kleśa-mahābhūmika | limited-affliction great-ground | the fifth name, kept |
 
@@ -88,9 +95,17 @@ Great-ground is the class that occurs in every consciousness.
 
 ## 9. Interpretive Note
 
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): Consciousness and the mental factors necessarily
+co-arise; neither exists without the other. Everything conditioned arises
+with the marks. Acquisition accompanies only what is designated as
+belonging to a sentient being. Mental factors are fivefold by the division
+beginning with the great ground. The great-ground factors occur in every
+consciousness.
+
 Three relations, not one together. Reciprocal for consciousness and factors. Universal for the marks. Restricted for acquisition.
 
-Ground is sphere of operation. Not a place, not automatically a meditative level, not a path-stage. The five names are not yet five exclusive sets. Members and ranges wait.
+Ground is range of operation. Not a place, not automatically a meditative level, not a path-stage. The five names are not yet five exclusive sets. Members and ranges wait.
 
 Universality of the first class does not make it wholesome. The wholesome class stays available for the next verses.
 

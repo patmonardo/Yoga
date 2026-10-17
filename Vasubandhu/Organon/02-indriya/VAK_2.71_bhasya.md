@@ -6,7 +6,8 @@
 >
 > prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // 2.71 //
 
-> Four minds follow beyond-training: the wholesome of the three realms, and beyond-training itself. These twelve are made twenty by dividing the wholesome mind of the three realms twofold: the application-produced, and that obtained through birth. The two are alternatives; no single kind is both.
+> Four consciousnesses follow beyond-training. These twelve become twenty
+> by dividing wholesome consciousness in the three realms into two kinds.
 
 ## 2. Continuous Sanskrit Witness
 

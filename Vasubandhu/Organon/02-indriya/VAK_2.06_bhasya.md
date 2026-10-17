@@ -6,7 +6,9 @@
 >
 > caturdaśa tathānyāni nivṛtter indriyāṇi vā // 2.06 //
 
-> Or the same twenty-two under another order. Fourteen govern engagement through support, arising, persistence, and experience. Eight govern withdrawal in those same four places. Withdrawal is not bare absence; it has its own support, arising, persistence, and experience.
+> Or, for engagement, fourteen [Faculties] with respect to support, arising,
+> persistence, and experience; likewise, the others are Faculties of
+> withdrawal.
 
 ## 2. Continuous Sanskrit Witness
 

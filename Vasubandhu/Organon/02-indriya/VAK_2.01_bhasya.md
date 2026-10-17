@@ -6,7 +6,9 @@
 >
 > caturṇāṃ pañcakasyāṣṭānāṃ saṃkleśavyavadānayoḥ // 2.01 //
 
-> The five govern four meanings of embodied life and disclosure; the four govern distinction and continuity; the fivefold group governs defilement and the eight govern purification. Faculty is governing efficacy, not the items themselves.
+> The five have governing efficacy with respect to four meanings; the four,
+> indeed, with respect to two; the fivefold group and the eight, with
+> respect to defilement and purification.
 
 ## 2. Continuous Sanskrit Witness
 

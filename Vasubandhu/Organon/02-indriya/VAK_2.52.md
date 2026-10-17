@@ -2,27 +2,29 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सभागहेतुः सदृशाः स्वनिकायभुवोऽग्रजाः ।
->
-> अन्योऽन्यं नवभूमिस्तु मार्गः समविशिष्टयोः ॥ २.५२ ॥
+```sanskrit
+सभागहेतुः सदृशाः स्वनिकायभुवोऽग्रजाः ।
+अन्योऽन्यं नवभूमिस्तु मार्गः समविशिष्टयोः ॥ २.५२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sabhāgahetuḥ sadṛśāḥ svanikāyabhuvo 'grajāḥ /
->
-> anyo 'nyaṃ navabhūmis tu mārgaḥ samaviśiṣṭayoḥ // 2.52 //
+```text
+sabhāgahetuḥ sadṛśāḥ svanikāyabhuvo 'grajāḥ /
+anyo 'nyaṃ navabhūmis tu mārgaḥ samaviśiṣṭayoḥ // 2.52 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| sabhāga-hetuḥ | homogeneous cause |
-| sadṛśāḥ | similar |
-| sva-nikāya-bhuvaḥ | of their own class and level |
-| agrajāḥ | prior-born |
-| anyo 'nyam | of one another |
-| nava-bhūmiḥ mārgaḥ | the Path of nine levels |
-| sama-viśiṣṭayoḥ | of the equal and the superior |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| sabhāga-hetuḥ | masculine nominative singular compound | homogeneous cause |
+| sadṛśāḥ | masculine nominative plural adjective | similar |
+| sva-nikāya-bhuvaḥ | masculine nominative plural compound adjective | of their own class and level |
+| agrajāḥ | masculine nominative plural adjective | prior-born |
+| anyo 'nyam | reciprocal adverb, accusative singular form | of one another |
+| nava-bhūmiḥ mārgaḥ | masculine nominative singular compound + masculine nominative singular | the Path of nine levels |
+| sama-viśiṣṭayoḥ | genitive/locative dual compound adjective | of the equal and the superior |
 
 ## 4. Grammar
 
@@ -41,12 +43,14 @@ Not same-class.
 
 ### Literal Translation
 
-Homogeneous cause: similar, of their own class and level, prior-born. But the Path of nine levels, of one another, of the equal and the superior.
-
+> Homogeneous causes are similar, of their own class and level, and
+> prior-born. The Path of nine levels is of one another, at the equal and
+> superior levels.
 ### Bhāṣya-informed study translation
 
-> Homogeneous cause is similar, of its own class and level, prior-born. Future is not. The Path of nine levels is homogeneous cause across them, of the equal or the superior only. Not same-class. Prior still required. Not the co-arisen reciprocity.
-
+> A homogeneous cause is similar, of its own class and level, and
+> prior-born. The Path crosses the nine levels as cause for the equal or
+> the superior.
 ## 6. Philosophical Translation
 
 > Homogeneous is similar, own class and level, prior-born. Future is not. Path crosses nine levels, equal or superior only. Not same-class. State, not substance.
@@ -77,6 +81,12 @@ maturation cause
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya requires prior arising, not future arising,
+and explains that the Path crosses levels without relaxing the prior-born
+condition. The Path case is not confined to the same class. The text
+distinguishes level or state from substance; the local witness's contrary
+“inferior” wording remains a noted uncertainty.
 
 The witness says cause of the inferior. The governing clause is equal or superior. The negative is supplied. Not a collation. Worldly qualities produced by application are the next verse.
 

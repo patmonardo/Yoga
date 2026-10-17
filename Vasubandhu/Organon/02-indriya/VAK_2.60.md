@@ -2,18 +2,21 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> क्लिष्टा विपाकजाः शेषाः प्रथमं चानास्रवम् /
-> विपाकं सर्वगं हित्वा तौ सभागं च शेषजाः // २.६० //
+```sanskrit
+क्लिष्टा विपाकजाः शेषाः प्रथमं चानास्रवम् /
+विपाकं सर्वगं हित्वा तौ सभागं च शेषजाः // २.६० //
+```
 
 ## 2. Sanskrit (IAST)
 
-> kliṣṭā vipākajāḥ śeṣāḥ prathamaṃ cānāsravam /
->
-> vipākaṃ sarvagaṃ hitvā tau sabhāgaṃ ca śeṣajāḥ // 2.60 //
+```text
+kliṣṭā vipākajāḥ śeṣāḥ prathamaṃ cānāsravam /
+vipākaṃ sarvagaṃ hitvā tau sabhāgaṃ ca śeṣajāḥ // 2.60 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kliṣṭā | adj. pl. | Afflicted. |
 | vipākajāḥ | adj. pl. | Maturation-born. |
@@ -48,12 +51,14 @@ None from one cause.
 
 ### Literal Translation
 
-Afflicted, maturation-born, remaining, and first noble, respectively, excluding maturation, the pervasive, those two, and those two with the homogeneous: born from the rest.
-
+> Afflicted, maturation-born, remaining, and first uncontaminated
+> [dharmas] arise from the causes left after excluding maturation, the
+> pervasive, those two, and those two plus the homogeneous, respectively.
 ### Bhāṣya-informed study translation
 
-> Four classes are distinguished: the afflicted, the maturation-born, the first uncontaminated, and the remaining. The afflicted arise from five causes, excluding maturation. The maturation-born arise from five, excluding the pervasive. The remaining arise from four, excluding those two. The first uncontaminated arises from three, excluding those two and the homogeneous. These counts are of mind and the mental factors; form, and what is dissociated from mind, are likewise, but without the associated cause. No dharma arises from one cause alone.
-
+> Afflicted, maturation-born, remaining, and first uncontaminated dharmas
+> arise from the causes left after excluding maturation, the pervasive,
+> both, and both plus the homogeneous, respectively.
 ## 6. Philosophical Translation
 
 > Four classes by exclusion. Afflicted omit maturation. Maturation-born omit pervasive. Remaining omit both. First uncontaminated also omits homogeneous, and is not causeless. Form and dissociated also omit associated. None from one cause.
@@ -72,6 +77,14 @@ Afflicted, maturation-born, remaining, and first noble, respectively, excluding 
 Four classes by exclusion. None from one cause.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya counts five causes for the afflicted, five
+for maturation-born, four for the remaining, and three for the first
+uncontaminated. These counts concern consciousness and mental factors; Form
+and dharmas dissociated from consciousness follow likewise but without the
+associated cause. The remaining class includes indeterminate dharmas apart
+from maturation-born and wholesome dharmas apart from the first
+uncontaminated moment. No dharma arises from a single cause.
 
 Four classes by exclusion. Afflicted omit maturation. Maturation-born omit pervasive. Remaining omit both. First uncontaminated also omits homogeneous, and is not causeless. None from one cause.
 

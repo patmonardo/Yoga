@@ -2,18 +2,21 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कामे नव शुभात् तच्च अष्टाभ्यः दशभिः अकुशलात् /
-> तस्मात् चतुर्भिः निवृतं तथा // २.६७ //
+```sanskrit
+कामे नव शुभात् तच्च अष्टाभ्यः दशभिः अकुशलात् /
+तस्मात् चतुर्भिः निवृतं तथा // २.६७ //
+```
 
 ## 2. Sanskrit (IAST)
 
-> kāme nava śubhāt tac ca aṣṭābhyaḥ daśabhir akuśalāt /
->
-> tasmāt caturbhiḥ nivṛtaṃ tathā // 2.67 //
+```text
+kāme nava śubhāt tac ca aṣṭābhyaḥ daśabhir akuśalāt /
+tasmāt caturbhiḥ nivṛtaṃ tathā // 2.67 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | kāme | loc. sg. | In the desire realm. |
 | nava | num. | Nine. |
@@ -46,12 +49,14 @@ Unwholesome and obscured follow ten, followed by four.
 
 ### Literal Translation
 
-In the desire realm, nine minds from a wholesome mind. That, only from eight. Unwholesome from ten. From it, four. Obscured, likewise.
-
+> In the desire realm, nine follow the wholesome; that wholesome follows
+> eight. Ten follow the unwholesome; four follow it. The obscured follows
+> and is followed likewise.
 ### Bhāṣya-informed study translation
 
-> In the desire realm, nine minds follow a wholesome mind: the four of its own level; two of the form realm, wholesome at entry into attainment and obscured at rebirth-linking; formless obscured, at rebirth-linking; and trainee and beyond-training. Formless wholesome does not follow it, being too remote by the four remotenesses of support, aspect, object, and counteragent. That wholesome mind itself follows only eight: the four of its own level; form wholesome, at emergence; form obscured, when one pressed by an afflicted attainment resorts to the wholesome supporting level; and trainee and beyond-training, at emergence. Unwholesome mind follows ten, excluding trainee and beyond-training, by rebirth-linking after all form and formless minds; four follow it, of its own level only. The obscured is likewise: it follows ten, and four follow it.
-
+> In the desire realm, nine consciousnesses follow the wholesome, which
+> follows eight. Ten follow the unwholesome, which is followed by four;
+> the obscured likewise follows ten and is followed by four.
 ## 6. Philosophical Translation
 
 > Desire wholesome followed by nine, follows eight. Asymmetry is formless obscured. Formless wholesome excluded by four remotenesses. Unwholesome and obscured follow ten, followed by four.
@@ -69,6 +74,19 @@ In the desire realm, nine minds from a wholesome mind. That, only from eight. Un
 Desire wholesome followed by nine, follows eight. Asymmetry is formless obscured. Four remotenesses exclude formless wholesome.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya enumerates the nine successors of wholesome
+desire-consciousness: its four own-level kinds, Form wholesome at
+attainment-entry, Form obscured at rebirth-linking, formless obscured at
+rebirth-linking, trainee, and beyond-training. It excludes formless
+wholesome by four remotenesses—support, aspect, object, and counteragent.
+The eight predecessors of wholesome are its four own-level kinds, Form
+wholesome at emergence, Form obscured when one pressured by afflicted
+attainment resorts to a wholesome supporting level, trainee, and
+beyond-training at emergence. Ten follow unwholesome, excluding the two
+uncontaminated kinds, by rebirth-linking after every Form and formless kind;
+four of its own level follow it. Obscured likewise follows ten and is
+followed by four.
 
 Desire wholesome followed by nine, follows eight. Asymmetry is formless obscured. Formless wholesome excluded by four remotenesses. Unwholesome and obscured follow ten, followed by four.
 

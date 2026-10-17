@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> मनोवित्तित्रयं त्रेधा द्विहेया दुर्मनस्कता ।
->
-> नव भावनया पञ्च त्वहेयान्यपि न त्रयम् ॥ २.१३ ॥
+```sanskrit
+मनोवित्तित्रयं त्रेधा द्विहेया दुर्मनस्कता ।
+नव भावनया पञ्च त्वहेयान्यपि न त्रयम् ॥ २.१३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> manovittitrayaṃ tredhā dviheyā durmanaskatā /
->
-> nava bhāvanayā pañca tv aheyāny api na trayam // 2.13 //
+```text
+manovittitrayaṃ tredhā dviheyā durmanaskatā /
+nava bhāvanayā pañca tv aheyāny api na trayam // 2.13 //
+```
 
 ## 3. Lexical Analysis
 
@@ -45,11 +47,15 @@ Abandonment is a feature of the qualified instance.
 
 ### Literal Translation
 
-Mind and the triad of feelings are threefold. Distress is to be abandoned in two ways. Nine by cultivation. The five, however, also not to be abandoned. Not the triad.
+> Mind and the triad of feelings are threefold. Distress is to be abandoned
+> in two ways. Nine by cultivation. The five, however, also not to be
+> abandoned. Not the triad.
 
 ### Bhāṣya-informed study translation
 
-> Mind and the three feelings, pleasure, gladness, and neutral feeling, are threefold: to be abandoned by seeing, by cultivation, or not at all. Distress is to be abandoned in two ways, by seeing and by cultivation. Nine, the eye and the rest with life as the eighth, together with pain, are to be abandoned by cultivation alone. The five beginning with faith are both to be abandoned by cultivation and not to be abandoned, according as they are with or without outflows. The triad is not to be abandoned at all, for what is faultless is not fit to be abandoned.
+> Mind and the triad of feelings are threefold in abandonment. Distress is
+> to be abandoned in two ways; nine by cultivation. The five, too, are both
+> to be abandoned and not abandoned; the triad is not to be abandoned.
 
 ## 6. Philosophical Translation
 
@@ -104,6 +110,17 @@ same type, different outflow
 Threefold here is not the ethical threefold of 2.11. Pain has moved.
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): Mind and the three feelings, pleasure, gladness, and
+neutral feeling, are threefold: to be abandoned by seeing, by cultivation,
+or not at all. Distress is to be abandoned in two ways, by seeing and by
+cultivation. Nine, the eye and the rest with life as the eighth, together
+with pain, are to be abandoned by cultivation alone. The five beginning
+with faith are both to be abandoned by cultivation and not to be
+abandoned, according as they are with or without outflows. The triad is
+not to be abandoned at all, for what is faultless is not fit to be
+abandoned.
 
 This closes the distinctions of kind opened at 2.09: outflow, maturation, ethical quality, realm-connection, abandonment. Acquisition is the next question. It is not another name for this.
 

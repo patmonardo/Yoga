@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अन्यत्र सा सौमनस्यमशाता चैतसी पुनः ।
->
-> दौर्मनस्यमुपेक्षा तु मध्या उभयी अविकल्पनात् ॥ २.८ ॥
+```sanskrit
+अन्यत्र सा सौमनस्यमशाता चैतसी पुनः ।
+दौर्मनस्यमुपेक्षा तु मध्या उभयी अविकल्पनात् ॥ २.८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> anyatra sā saumanasyam aśātā caitasī punaḥ /
->
-> daurmanasyam upekṣā tu madhyā ubhayī avikalpanāt // 2.8 //
+```text
+anyatra sā saumanasyam aśātā caitasī punaḥ /
+daurmanasyam upekṣā tu madhyā ubhayī avikalpanāt // 2.8 //
+```
 
 ## 3. Lexical Analysis
 
@@ -45,11 +47,15 @@ Neutral unifies with both modes because `TONE=neutral` does not split.
 
 ### Literal Translation
 
-Elsewhere, that is gladness. Disagreeable mental feeling, in turn, is distress. Neutral feeling, however, is the middle, of both kinds, because of non-differentiation.
+> Elsewhere, that is gladness. Disagreeable mental feeling, in turn, is
+> distress. Neutral feeling, however, is the middle, of both kinds, because
+> of non-differentiation.
 
 ### Bhāṣya-informed study translation
 
-> Elsewhere, outside the third dhyāna, that agreeable mental feeling is gladness. Disagreeable mental feeling, in turn, is distress. Neutral feeling, neither agreeable nor disagreeable, is the middle; it is of both kinds, bodily and mental, yet one faculty, because in remaining neutral there is no difference between them.
+> Elsewhere, that is gladness; disagreeable mental feeling, in turn, is
+> distress. Neutral feeling, however, is the middle, of both bodily and
+> mental kinds, because there is no distinction between them.
 
 ## 6. Philosophical Translation
 
@@ -65,7 +71,7 @@ Elsewhere, that is gladness. Disagreeable mental feeling, in turn, is distress. 
 | upekṣā | neutral feeling | the middle; not every equanimity |
 | madhyā | middle | neither agreeable nor disagreeable |
 | ubhayī | of both kinds | bodily and mental; one faculty |
-| vikalpana | differentiation | how mental pleasure and pain mostly arise; not Discrimination |
+| vikalpana | differentiation | how mental pleasure and pain mostly arise; not prajñā |
 | avikalpana | non-differentiation | why neutral feeling is one |
 | viṣaya-vaśa | force of the viṣaya | bodily pleasure and pain, even in an arhat |
 | svarasena | in its own course | how neutral feeling arises |
@@ -102,6 +108,13 @@ no difference in remaining neutral
 Different mode does not force two faculties. Same tone does not force one.
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): Elsewhere, outside the third dhyāna, that agreeable
+mental feeling is gladness. Disagreeable mental feeling, in turn, is
+distress. Neutral feeling, neither agreeable nor disagreeable, is the
+middle; it is of both kinds, bodily and mental, yet one faculty, because
+in remaining neutral there is no difference between them.
 
 2.07 left the name. This verse gives it. Elsewhere is specified: desire realm, first dhyāna, second dhyāna. Absence of the five cognition-groups explained why the third-dhyāna feeling is mental. Dispassion toward rapture explains why it is not gladness. Rapture is gladness is the local statement. It is not a rule for every text.
 

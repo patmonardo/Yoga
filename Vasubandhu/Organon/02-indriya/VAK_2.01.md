@@ -2,17 +2,19 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चतुर्ष्वर्थेषु पञ्चानामाधिपत्यं द्वयोः किल ।
->
-> चतुर्णां पञ्चकस्याष्टानां संक्लेशव्यवदानयोः ॥ २.१ ॥
+```sanskrit
+चतुर्ष्वर्थेषु पञ्चानामाधिपत्यं द्वयोः किल ।
+चतुर्णां पञ्चकस्याष्टानां संक्लेशव्यवदानयोः ॥ २.१ ॥
+```
 
 The immediate source compresses the final group (`चतुर्ण्णां पञ्चकाष्टानां`). The study follows the Bhāṣya: the four govern two, the fivefold group governs defilement, and the eight govern purification.
 
 ## 2. Sanskrit (IAST)
 
-> caturṣv artheṣu pañcānām ādhipatyaṃ dvayoḥ kila /
->
-> caturṇāṃ pañcakasyāṣṭānāṃ saṃkleśavyavadānayoḥ // 2.1 //
+```text
+caturṣv artheṣu pañcānām ādhipatyaṃ dvayoḥ kila /
+caturṇāṃ pañcakasyāṣṭānāṃ saṃkleśavyavadānayoḥ // 2.1 //
+```
 
 ## 3. Lexical Analysis
 
@@ -51,11 +53,15 @@ Feature `GOVERN=true` is the predicate. Group features discriminate membership. 
 
 ### Literal Translation
 
-Of the five, governing efficacy with respect to four meanings; of the four, indeed, with respect to two; of the fivefold and of the eight, with respect to defilement and purification.
+> Of the five, governing efficacy with respect to four meanings; of the
+> four, indeed, with respect to two; of the fivefold and of the eight, with
+> respect to defilement and purification.
 
 ### Bhāṣya-informed study translation
 
-> The five govern four meanings of embodied life and disclosure; the four govern distinction and continuity; the fivefold group governs defilement and the eight govern purification. Faculty is governing efficacy, not the items themselves.
+> The five have governing efficacy with respect to four meanings; the four,
+> indeed, with respect to two; the fivefold group and the eight, with
+> respect to defilement and purification.
 
 ## 6. Philosophical Translation
 
@@ -78,7 +84,7 @@ Of the five, governing efficacy with respect to four meanings; of the four, inde
 | manaindriya | mind-faculty | renewed existence and mastery; a production, not a thinker |
 | saṃkleśa | defilement | the five feelings, on the first account |
 | vyavadāna | purification | the eight; the feelings also, on the other account |
-| prajñā | Discrimination | the faculty in the eight; never discernment |
+| prajñā | discriminative comprehension | the faculty in the eight; not discernment |
 
 ## 8. Logical Determination
 
@@ -128,9 +134,15 @@ Some principles are faculties. Some portions are faculties. The five external ar
 
 ## 9. Interpretive Note
 
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): The five govern four meanings of embodied life and
+disclosure; the four govern distinction and continuity; the fivefold group
+governs defilement and the eight govern purification. Faculty is governing
+efficacy, not the items themselves.
+
 Chapter 1 closed by locating faculty: a portion of the dharma-principle, and the twelve internal. This verse changes the question. The common name is ādhipatya.
 
-The twenty-two are not one natural kind. Eye through body, female and male, life, mind, the five feelings, faith, vigor, mindfulness, concentration, Discrimination, and the three of realization, are one class because each governs.
+The twenty-two are not one natural kind. Eye through body, female and male, life, mind, the five feelings, faith, vigor, mindfulness, concentration, discriminative comprehension, and the three of realization, are one class because each governs.
 
 The four matters of the five already exceed bare sensation: attractiveness, preservation, cognition with its associates, specific cause. Feeling is not itself affliction. The eight purify. The other account keeps feeling inside purification as well: the mind of one who is happy concentrates; suffering supports faith; gladness and the rest stand on renunciation.
 

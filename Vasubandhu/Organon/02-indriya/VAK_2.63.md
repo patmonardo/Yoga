@@ -2,19 +2,21 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> द्वौ हेतू पञ्च च /
->
-> ततः अन्याव् तु प्रत्ययौ तद्विपर्ययात् // २.६३ //
+```sanskrit
+द्वौ हेतू पञ्च च /
+ततः अन्याव् तु प्रत्ययौ तद्विपर्ययात् // २.६३ //
+```
 
 ## 2. Sanskrit (IAST)
 
-> dvau hetū pañca ca /
->
-> tataḥ anyau tu pratyayau tadviparyayāt // 2.63 //
+```text
+dvau hetū pañca ca /
+tataḥ anyau tu pratyayau tadviparyayāt // 2.63 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | dvau | num. | Two. |
 | hetū | m. dual | Causes. |
@@ -47,12 +49,12 @@ Target is not the cause.
 
 ### Literal Translation
 
-Two causes perform activity toward the ceasing. Three, toward the arising. The other two conditions, by the reverse of that.
-
+> Of the five causes, two act toward ceasing and three toward arising; the
+> other two conditions act in the reverse way.
 ### Bhāṣya-informed study translation
 
-> Two causes perform their activity toward ceasing, the present: the co-arisen and the associated, whose operation is on a fruit arisen together with them. Three do so toward arising, the future: the homogeneous, the pervasive, and the maturation cause. The other conditions act by the reverse. The immediately antecedent acts toward arising, by giving an opening; the object-condition acts toward ceasing, because present mind and factors apprehend. The predominant condition stands in every state, by non-obstruction.
-
+> Of the five causes, two act toward the ceasing present and three toward
+> the arising future. The other two conditions act in the reverse way.
 ## 6. Philosophical Translation
 
 > Two causes act toward the present directed to cessation. Three toward the future directed to arising. Antecedent gives an opening toward arising. Object is present apprehension. Predominance is non-obstruction in every state. Target is not the cause.
@@ -70,6 +72,13 @@ Two causes perform activity toward the ceasing. Three, toward the arising. The o
 Two act toward cessation. Three toward arising. Antecedent gives an opening. Object is present apprehension. Predominance is non-obstruction.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya identifies the two as co-arisen and
+associated and the three as homogeneous, pervasive, and maturation. The
+immediately antecedent condition acts toward arising by giving an opening;
+the object-condition acts toward ceasing because present consciousness and
+factors apprehend. The predominant condition operates in every state through
+non-obstruction. A target state is not thereby the cause itself.
 
 Two causes act toward the present directed to cessation. Three toward the future directed to arising. Antecedent gives an opening toward arising. Object is present apprehension. Predominance is non-obstruction in every state.
 

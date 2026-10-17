@@ -6,7 +6,9 @@
 >
 > janyasya janikā jātir na hetupratyayair vinā // 2.46 //
 
-> The primary marks, being conditioned, have marks of their own: arising-of-arising and the rest. The primary marks operate on eight dharmas, the secondary on one, so that no regress arises. Arising is the generator of what is to be generated, and generates it only with causes and conditions.
+> Arising-of-arising and the rest belong to those [primary marks]. The
+> primary marks operate on eight dharmas, the secondary on one. Arising
+> generates what is generated only with causes and conditions.
 
 ## 2. Continuous Sanskrit Witness
 

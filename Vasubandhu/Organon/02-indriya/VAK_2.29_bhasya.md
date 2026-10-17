@@ -6,7 +6,9 @@
 >
 > kleśaiś caturbhiḥ krodhādyaiḥ kaukṛtyenaikaviṃśatiḥ // 2.29 //
 
-> In isolated unwholesome consciousness, and in that associated with a view, twenty. The view is a special form of prajñā, already counted among the universal factors. With one of the four afflictions, a secondary beginning with anger, or regret, twenty-one. Addition increments; specialization does not.
+> In isolated unwholesome consciousness and in that associated with a view,
+> twenty factors occur. With one of the four afflictions, one of the anger-
+> group, or regret, the count is twenty-one.
 
 ## 2. Continuous Sanskrit Witness
 

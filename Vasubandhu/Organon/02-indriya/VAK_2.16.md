@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> क्रममृत्यौ तु चत्वारि शुभे सर्वत्र पञ्च च ।
->
-> नवाप्तिरन्त्यफलयोः सप्ताष्टनवभिर्द्वयोः ॥ २.१६ ॥
+```sanskrit
+क्रममृत्यौ तु चत्वारि शुभे सर्वत्र पञ्च च ।
+नवाप्तिरन्त्यफलयोः सप्ताष्टनवभिर्द्वयोः ॥ २.१६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kramamṛtyau tu catvāri śubhe sarvatra pañca ca /
->
-> navāptir antyaphalayoḥ saptāṣṭanavabhir dvayoḥ // 2.16 //
+```text
+kramamṛtyau tu catvāri śubhe sarvatra pañca ca /
+navāptir antyaphalayoḥ saptāṣṭanavabhir dvayoḥ // 2.16 //
+```
 
 ## 3. Lexical Analysis
 
@@ -42,11 +44,15 @@ Eleven unifies only under `PERSON=one` across successive feelings.
 
 ### Literal Translation
 
-In gradual death, however, four. With a wholesome mind, everywhere five in addition. Attainment of the two extreme fruits is through nine. Of the two, through seven, eight, or nine.
+> In gradual death, however, four. With a wholesome mind, everywhere five in
+> addition. Attainment of the two extreme fruits is through nine. Of the
+> two, through seven, eight, or nine.
 
 ### Bhāṣya-informed study translation
 
-> The extreme fruits are attained through nine. Stream-entry takes the five beginning with faith, excluding one who has known, with mind and neutral feeling. Arhatship takes the five, excluding “I shall know,” with mind and any one feeling. The middle fruits take seven, eight, or nine according to route. Eleven is not a simultaneous count. It is one person attaining again across different feelings.
+> In gradual death, however, four; with a wholesome [consciousness], five
+> everywhere as well. Attainment of the two extreme fruits is through nine;
+> of the two middle fruits, through seven, eight, or nine.
 
 ## 6. Philosophical Translation
 
@@ -103,13 +109,21 @@ same count
 
 ## 9. Interpretive Note
 
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): The extreme fruits are attained through nine.
+Stream-entry takes the five beginning with faith, excluding one who has
+known, with mind and neutral feeling. Arhatship takes the five, excluding
+“I shall know,” with mind and any one feeling. The middle fruits take
+seven, eight, or nine according to route. Eleven is not a simultaneous
+count. It is one person attaining again across different feelings.
+
 The death clauses stand in 2.15. Four do not cease separately. Five are added on a wholesome mind.
 
 Extreme is first and last, not the last two. The stream-entry nine includes two path-names. They are not nine factors in one moment. Arhatship says any one feeling, not three together. That prepares the eleven.
 
 Eight may be the knowledge-faculty added, or gladness added across the path-moments. The number does not identify the route.
 
-Eleven aggregates a history. The reply denies the three feelings at one time. A fallen non-returner does not regain the fruit with pleasure. Prior dispassion, attained through both paths, does not fall away. No general theory of relapse is added.
+Eleven gathers a history. The reply denies the three feelings at one time. A fallen non-returner does not regain the fruit with pleasure. Prior dispassion, attained through both paths, does not fall away. No general theory of relapse is added.
 
 Organon reading: the result is invariant. The mediating membership is not. Not the verse English.
 

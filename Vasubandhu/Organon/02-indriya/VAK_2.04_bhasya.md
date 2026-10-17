@@ -6,7 +6,8 @@
 >
 > uttarottarasaṃprāptinirvāṇādyādhipatyataḥ // 2.04 //
 
-> The three complete the series. The first governs attainment of the next, the second governs attainment of the last, and the third governs parinirvāṇa. They are not tenses of one act.
+> Likewise, the Faculties called “I shall know,” “knowledge,” and “one who
+> has known” govern successive attainment, nirvāṇa, and what follows.
 
 ## 2. Continuous Sanskrit Witness
 

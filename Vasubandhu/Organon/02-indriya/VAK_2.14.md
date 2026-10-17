@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कामेष्वादौ विपाको द्वे लभ्यते नोपपादुकैः ।
->
-> तैः षड्वा सप्त वा अष्टौ वा षड् रूपेषु एकमुत्तरे ॥ २.१४ ॥
+```sanskrit
+कामेष्वादौ विपाको द्वे लभ्यते नोपपादुकैः ।
+तैः षड्वा सप्त वा अष्टौ वा षड् रूपेषु एकमुत्तरे ॥ २.१४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kāmeṣv ādau vipāko dve labhyate nopapādukaiḥ /
->
-> teḥ ṣaḍ vā sapta vā aṣṭau vā ṣaḍ rūpeṣu ekam uttare // 2.14 //
+```text
+kāmeṣv ādau vipāko dve labhyate nopapādukaiḥ /
+teḥ ṣaḍ vā sapta vā aṣṭau vā ṣaḍ rūpeṣu ekam uttare // 2.14 //
+```
 
 ## 3. Lexical Analysis
 
@@ -45,11 +47,15 @@ S[ACQUIRE=first, REALM=formless] -> Life
 
 ### Literal Translation
 
-In the desire realm, initially, two are acquired as maturation, not by the spontaneously born. By them, six or seven or eight. Six in the form realm. One in the higher.
+> In the desire realm, initially, two are acquired as maturation, not by the
+> spontaneously born. By them, six or seven or eight. Six in the form realm.
+> One in the higher.
 
 ### Bhāṣya-informed study translation
 
-> In the desire realm, at the beginning, two faculties are acquired as maturation, the body-faculty and the life-faculty, but not by the spontaneously born. By the spontaneously born, six, seven, or eight are acquired: six without sexual characteristic, seven with one, eight with both. In the form realm, six. In the higher, the formless, one: life alone. Mind and neutral feeling are not among these, because at relinking both are necessarily afflicted.
+> In the desire realm, two are first acquired as maturation, but not by the
+> spontaneously born. By them, six, seven, or eight; in the Form realm, six;
+> in the higher realm, one.
 
 ## 6. Philosophical Translation
 
@@ -103,6 +109,15 @@ mind and neutral feeling
 The six are not the six of mind. Life is in them. Mind is not.
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): In the desire realm, at the beginning, two faculties
+are acquired as maturation, the body-faculty and the life-faculty, but not
+by the spontaneously born. By the spontaneously born, six, seven, or eight
+are acquired: six without sexual characteristic, seven with one, eight
+with both. In the form realm, six. In the higher, the formless, one: life
+alone. Mind and neutral feeling are not among these, because at relinking
+both are necessarily afflicted.
 
 2.13 closed the distinctions of kind. This opens acquisition. What can be connected with a realm does not settle what is first acquired there as maturation. The formless eight of 2.12 are another question. One here is the maturation-count, not the absence of mind.
 

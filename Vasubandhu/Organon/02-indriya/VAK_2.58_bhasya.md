@@ -6,7 +6,9 @@
 >
 > apūrvaḥ saṃskṛtasyaiva saṃskṛto 'dhipateḥ phalam // 2.58 //
 
-> Whatever arises through the force of which, that is its fruit born of efficacy: a higher-level concentration from a lower application-mind, an uncontaminated one from a contaminated one, a transformation-mind from a concentration-mind, and the like. Of cessation by Discrimination one says only that it is attained through that force, not that it arises. A conditioned dharma not earlier arisen is the fruit of predominance of every conditioned dharma, and of the conditioned alone. The fruit of efficacy belongs to the agent; the fruit of predominance, even to the non-agent.
+> Whatever arises through the force of a dharma is its efficacy-fruit. A
+> conditioned dharma not arisen before is the predominance-fruit of
+> conditioned dharmas alone.
 
 ## 2. Continuous Sanskrit Witness
 

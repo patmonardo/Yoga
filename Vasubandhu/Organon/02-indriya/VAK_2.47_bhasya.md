@@ -6,7 +6,9 @@
 >
 > kāmarūpāptasattvākhyā niḥṣyandāvyākṛtās tathā // 2.47 //
 
-> The groups of names and the rest are collections of designation, sentence, and phonetic element: a name makes a designation, a sentence completes a meaning, and a phonetic element is the audible minimum. They are included in the desire and form realms, classed with the sentient being who signifies, and are homogeneous outflows, unobscured-indeterminate.
+> The groups of names and the rest are collections of designation, sentence,
+> and phonetic element; they are included in the desire and form realms,
+> classed with sentient beings, homogeneous outflows, and indeterminate.
 
 ## 2. Continuous Sanskrit Witness
 

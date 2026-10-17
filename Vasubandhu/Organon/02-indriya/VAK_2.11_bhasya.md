@@ -6,7 +6,9 @@
 >
 > daurmanasyaṃ mano 'nyā ca vittis tredhā anyad ekadhā // 2.11 //
 
-> The eight are wholesome by the very operation that defines them. Distress always bears a quality and is never indeterminate. Mind and the remaining feelings keep one function across the three qualities. The rest govern, yet remain exclusively indeterminate.
+> Mind, the other feelings, and those beginning with faith: the eight are
+> wholesome. Distress is twofold; mind and the other feelings are threefold;
+> the remainder is onefold.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -6,7 +6,9 @@
 >
 > cittānuvartinaḥ kālaphalādiśubhatādibhiḥ // 2.51 //
 
-> The mental factors, the two restraints, and the marks of those and of consciousness are followers of consciousness, by time, result, and the rest, and by wholesomeness and the rest: together with it in arising, persistence, cessation, and period; in result, maturation, and homogeneous outflow; and in ethical status.
+> The mental factors, the two restraints, and their marks, together with
+> the marks of consciousness, follow consciousness in time, result, and
+> ethical status.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -6,7 +6,8 @@
 >
 > lakṣaṇāni punar jātir jarā sthitir anityatā // 2.45 //
 
-> Life is lifespan, the support of warmth and cognition: when lifespan, warmth, and cognition leave the body, it lies cast aside like senseless wood. The marks, in turn, are arising, aging, persistence, and impermanence.
+> Life is lifespan, the support of warmth and Cognition. The marks, in turn,
+> are arising, aging, persistence, and impermanence.
 
 ## 2. Continuous Sanskrit Witness
 

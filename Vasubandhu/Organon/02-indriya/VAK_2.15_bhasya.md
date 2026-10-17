@@ -6,7 +6,9 @@
 >
 > upekṣāṃ caiva rūpe 'ṣṭau kāme daśa navāṣṭau vā // 2.15 //
 
-> One dying in the formless realm brings to cessation life, mind, and neutral feeling. In the form realm, eight: those three and the five beginning with the eye. In the desire realm, ten, nine, or eight, according to sexual characteristic: ten with both sex faculties, nine with one, eight with neither.
+> At death in the formless realm, life, mind, and neutral feeling are
+> brought to cessation. In the Form realm, eight; in the desire realm, ten,
+> nine, or eight.
 
 The opening follows the commentary's question about dying. Uparamān nārūpye is kept as uncertain. The death unit continues into the next verse's first clauses: in gradual death, four; with a wholesome mind, everywhere five in addition. Those complete the counts. The fruit inquiry is not this unit.
 

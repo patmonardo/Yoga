@@ -2,26 +2,28 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चैत्ता द्वौ संवरौ तेषां चेतसो लक्षणानि च ।
->
-> चित्तानुवर्तिनः कालफलादिशुभतादिभिः ॥ २.५१ ॥
+```sanskrit
+चैत्ता द्वौ संवरौ तेषां चेतसो लक्षणानि च ।
+चित्तानुवर्तिनः कालफलादिशुभतादिभिः ॥ २.५१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> caittā dvau saṃvarau teṣāṃ cetaso lakṣaṇāni ca /
->
-> cittānuvartinaḥ kālaphalādiśubhatādibhiḥ // 2.51 //
+```text
+caittā dvau saṃvarau teṣāṃ cetaso lakṣaṇāni ca /
+cittānuvartinaḥ kālaphalādiśubhatādibhiḥ // 2.51 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| caittāḥ | the mental factors |
-| dvau saṃvarau | the two restraints |
-| teṣām cetasaḥ lakṣaṇāni | their marks and consciousness's |
-| cittānuvartinaḥ | followers of consciousness |
-| kāla-phala-ādi | by time, result, and the rest |
-| śubhatā-ādibhiḥ | by wholesomeness and the rest |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| caittāḥ | masculine nominative plural | the mental factors |
+| dvau saṃvarau | masculine nominative dual | the two restraints |
+| teṣām cetasaḥ lakṣaṇāni | genitive plural + genitive singular + neuter nominative plural | their marks and consciousness's |
+| cittānuvartinaḥ | masculine nominative plural compound adjective | followers of consciousness |
+| kāla-phala-ādi | instrumental singular compound (ādi indeclinable) | by time, result, and the rest |
+| śubhatā-ādibhiḥ | instrumental plural feminine compound | by wholesomeness and the rest |
 
 ## 4. Grammar
 
@@ -41,12 +43,14 @@ Co-arisen is wider than the co-arisen cause.
 
 ### Literal Translation
 
-The mental factors, the two restraints, and the marks of those and of consciousness, are followers of consciousness, by time, result, and the rest, and by wholesomeness and the rest.
-
+> The mental factors, the two restraints, and the marks of those and of
+> consciousness are followers of consciousness, by time, result, and the
+> rest, and by wholesomeness and the rest.
 ### Bhāṣya-informed study translation
 
-> The mental factors, the two restraints, and the marks of those and of consciousness are followers of consciousness, by time, result, and the rest, and by wholesomeness and the rest: together with it in arising, persistence, cessation, and period; in result, maturation, and homogeneous outflow; and in ethical status.
-
+> The mental factors, the two restraints, and their marks, together with
+> the marks of consciousness, follow consciousness in time, result, and
+> ethical status.
 ## 6. Philosophical Translation
 
 > Followers are defined in ten respects. The counts are 58 out, 54 in. Co-arisen is wider than the cause. Simultaneous causation is not an uncontested proof.
@@ -82,6 +86,13 @@ simultaneous causation
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya specifies ten correspondences: shared
+arising, persistence, cessation, and period; shared result, maturation, and
+homogeneous outflow; and shared ethical status. It counts fifty-eight
+factors outside and fifty-four within the relevant class, refusing fourteen.
+It also distinguishes co-arisen from co-arisen cause; simultaneous causation
+is not established without qualification.
 
 The homogeneous cause is the next question. Not this unit. The closing concession is difficult. The conclusion is kept. Not a collation.
 

@@ -2,41 +2,42 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> आयुर्जीवितमाधार ऊष्मविज्ञायोर्हि यः ।
->
-> लक्षणानि पुनर्जातिर्जरा स्थितिरनित्यता ॥ २.४५ ॥
+```sanskrit
+आयुर्जीवितमाधार ऊष्मविज्ञायोर्हि यः ।
+लक्षणानि पुनर्जातिर्जरा स्थितिरनित्यता ॥ २.४५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> āyur jīvitam ādhāra ūṣmavijñāyor hi yaḥ /
->
-> lakṣaṇāni punar jātir jarā sthitir anityatā // 2.45 //
+```text
+āyur jīvitam ādhāra ūṣmavijñāyor hi yaḥ /
+lakṣaṇāni punar jātir jarā sthitir anityatā // 2.45 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| āyuḥ | lifespan |
-| jīvitam | life |
-| ādhāraḥ | support |
-| ūṣma-vijñānayoḥ | of warmth and cognition |
-| jātiḥ | arising |
-| jarā | aging |
-| sthitiḥ | persistence |
-| anityatā | impermanence |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| āyuḥ | nom. sg. n. | lifespan |
+| jīvitam | nom. sg. n. | life |
+| ādhāraḥ | nom. sg. m. | support |
+| ūṣma-vijñānayoḥ | gen. dual m.; compound | of warmth and Cognition |
+| jātiḥ | nom. sg. f. | arising |
+| jarā | nom. sg. f. | aging |
+| sthitiḥ | nom. sg. f. | persistence |
+| anityatā | nom. sg. f. | impermanence |
 
 Verse order puts aging before persistence. The commentary's genetic order is arising, persistence, aging, impermanence. Both stay.
-
 ## 4. Grammar
 
 ```text
 % start S
-S[NAME=life] -> Lifespan[SUPPORT=warmth-and-cognition]
+S[NAME=life] -> Lifespan[SUPPORT=warmth-and-Cognition]
 S[NAME=marks] -> Arising | Aging | Persistence | Impermanence
 S[DEATH=four] -> LifespanExhaustion | MeritExhaustion | Both | Harm
 ```
 
-Life is lifespan, support of warmth and cognition.  
+Life is lifespan, support of warmth and Cognition.  
 Not a distinct real against the projection of group same-class.  
 Death is fourfold. Marks are of the stream, on the critical account.
 
@@ -44,22 +45,22 @@ Death is fourfold. Marks are of the stream, on the critical account.
 
 ### Literal Translation
 
-Life is lifespan, the support of warmth and cognition. The marks, in turn, are arising, aging, persistence, and impermanence.
-
+> Life is lifespan, the support of warmth and Cognition. The marks are
+> arising, aging, persistence, and impermanence.
 ### Bhāṣya-informed study translation
 
-> Life is lifespan, the support of warmth and cognition: when lifespan, warmth, and cognition leave the body, it lies cast aside like senseless wood. The marks, in turn, are arising, aging, persistence, and impermanence.
-
+> Life is lifespan, the support of warmth and Cognition. The marks, in turn,
+> are arising, aging, persistence, and impermanence.
 ## 6. Philosophical Translation
 
-> Life is the projected duration of the group same-class, not a distinct entity. Warmth and cognition are what it supports. The arrow is the test. Death is fourfold. The marks are of the stream, on the critical account. Three in the sūtra, four in the treatise. Not settled.
+> Life is the projected duration of the group same-class, not a distinct entity. Warmth and Cognition are what it supports. The arrow is the test. Death is fourfold. The marks are of the stream, on the critical account. Three in the sūtra, four in the treatise. Not settled.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Running word | Determination |
 |---|---|---|
 | jīvita | life | lifespan; disputed real |
-| ādhāra | support | of warmth and cognition |
+| ādhāra | support | of warmth and Cognition |
 | nikāya-sabhāga | group same-class | what karma projects a duration for |
 | sthiti-kālāvedha | projected duration | the critical account |
 | jāti | arising | beginning |
@@ -72,7 +73,7 @@ Life is lifespan, the support of warmth and cognition. The marks, in turn, are a
 
 ```text
 life, Vaibhāṣika
-    = real support of warmth and cognition
+    = real support of warmth and Cognition
 life, critical
     = projected duration of group same-class
     not a distinct entity
@@ -89,6 +90,8 @@ marks, critical
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary says lifespan, warmth, and Cognition leave the body, which lies cast aside like senseless wood. It rejects mutual support as the explanation of lifespan and considers karma as projecting duration; the relation of karma and Cognition remains part of the discussion, not the verse translation.
 
 Life closes at the explanation of lifespan. The marks are the second topic. The first half of the next verse is cited inside the marks. Not opened here. The list of protected lives is damaged. Not restored.
 

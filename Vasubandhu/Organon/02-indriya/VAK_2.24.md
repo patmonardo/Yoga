@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> वेदना चेतना संज्ञा छन्दः स्पर्शो मतिः स्मृतिः ।
->
-> मनस्कारोऽधिमोक्षश्च समाधिः सर्वचेतसि ॥ २.२४ ॥
+```sanskrit
+वेदना चेतना संज्ञा छन्दः स्पर्शो मतिः स्मृतिः ।
+मनस्कारोऽधिमोक्षश्च समाधिः सर्वचेतसि ॥ २.२४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vedanā cetanā saṃjñā cchandaḥ sparśo matiḥ smṛtiḥ /
->
-> manaskāro 'dhimokṣaś ca samādhiḥ sarvacetasi // 2.24 //
+```text
+vedanā cetanā saṃjñā cchandaḥ sparśo matiḥ smṛtiḥ /
+manaskāro 'dhimokṣaś ca samādhiḥ sarvacetasi // 2.24 //
+```
 
 ## 3. Lexical Analysis
 
@@ -21,21 +23,21 @@
 | saṃjñā | nominative | reflection |
 | chandaḥ | nominative | wish to perform |
 | sparśaḥ | nominative | contact |
-| matiḥ | nominative | Discrimination |
+| matiḥ | nominative | discriminative comprehension |
 | smṛtiḥ | nominative | mindfulness |
 | manaskāraḥ | nominative | attention |
 | adhimokṣaḥ | nominative | resolution |
 | samādhiḥ | nominative | concentration |
 | sarva-cetasi | locative | in every consciousness |
 
-Mati is prajñā. Discrimination, not discernment. Smṛti is non-loss of the support. Samādhi is one-pointedness, not the perfected absorption.
+Mati is prajñā: discriminative comprehension, not discernment. Smṛti is non-loss of the support. Samādhi is one-pointedness, not the perfected absorption.
 
 ## 4. Grammar
 
 ```text
 % start S
 S[GROUND=every-consciousness] -> Ten[PRESENT=together]
-Ten -> Feeling | Volition | Reflection | Wish | Contact | Discrimination | Mindfulness | Attention | Resolution | Concentration
+Ten -> Feeling | Volition | Reflection | Wish | Contact | DiscriminativeComprehension | Mindfulness | Attention | Resolution | Concentration
 ```
 
 `GROUND=every-consciousness` forces co-presence of the ten.  
@@ -45,11 +47,15 @@ Ten -> Feeling | Volition | Reflection | Wish | Contact | Discrimination | Mindf
 
 ### Literal Translation
 
-Feeling, volition, reflection, wish to perform, contact, Discrimination, mindfulness, attention, resolution, and concentration, in every consciousness.
+> Feeling, volition, reflection, wish to perform, contact, discriminative
+> comprehension, mindfulness, attention, resolution, and concentration, in
+> every consciousness.
 
 ### Bhāṣya-informed study translation
 
-> These ten are present together in every moment of consciousness. Feeling is experience, volition is mental action, reflection is take-up of the mark, contact is the touching born of faculty, meaning, and cognition, Discrimination is prajñā. The distinction of consciousness and factors is subtle, harder in moments than in streams.
+> Feeling, volition, reflection, wish to perform, contact, discriminative
+> comprehension, mindfulness, attention, resolution, and concentration are
+> present in every consciousness.
 
 ## 6. Philosophical Translation
 
@@ -64,7 +70,7 @@ Feeling, volition, reflection, wish to perform, contact, Discrimination, mindful
 | saṃjñā | reflection | take-up of the mark; gloss damaged |
 | chanda | wish to perform | kartṛkāmatā; not craving |
 | sparśa | contact | faculty, viṣaya, cognition |
-| mati | Discrimination | prajñā; not every discrimination correct |
+| mati | discriminative comprehension | prajñā; not every act of discrimination is correct |
 | smṛti | mindfulness | non-loss of the support |
 | manaskāra | attention | application of consciousness |
 | adhimokṣa | resolution | adhimukti, settling upon |
@@ -77,7 +83,7 @@ Feeling, volition, reflection, wish to perform, contact, Discrimination, mindful
 from nltk.sem.logic import LogicParser
 lp = LogicParser()
 
-ten = lp.parse(r'all c.(Consciousness(c) -> (Feeling(c) & Volition(c) & Reflection(c) & Contact(c) & Discrimination(c) & ...))')
+ten = lp.parse(r'all c.(Consciousness(c) -> (Feeling(c) & Volition(c) & Reflection(c) & Contact(c) & DiscriminativeComprehension(c) & ...))')
 not_strength = lp.parse(r'-all c x.(Present(c,x) -> EqualStrength(c,x))')
 ```
 
@@ -86,9 +92,16 @@ The ground is every consciousness; the support is not the ground.
 
 ## 9. Interpretive Note
 
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): These ten are present together in every moment of
+consciousness. Feeling is experience, volition is mental action,
+reflection is take-up of the mark, contact is the touching born of
+faculty, meaning, and cognition, Discriminative comprehension is prajñā. The distinction
+of consciousness and factors is subtle, harder in moments than in streams.
+
 The question was left at 2.23. These are the great-ground factors because the ground is every consciousness. Not because they are exalted.
 
-Volition and wish to perform are different. Reflection and Discrimination are different. The recognition-gloss is damaged. The distinction of the two entries does not depend on restoring it.
+Volition and wish to perform are different. Reflection and discriminative comprehension are different. The recognition-gloss is damaged. The distinction of the two entries does not depend on restoring it.
 
 Contact is not confined to bodily touch. Viṣaya in that definition is not decided as an external thing by this sentence. Mindfulness is non-loss of the support, not only memory of a past event. The ground is every consciousness. That does not make every consciousness their common support.
 
@@ -110,7 +123,7 @@ vak:VAK_2_24
     vak:belongsTo vak:Indriyanirdesa .
 
 vak:GreatGroundTen vak:inEveryConsciousness true .
-vak:Mati vak:is vak:Discrimination .
+vak:Mati vak:is vak:DiscriminativeComprehension .
 
 organon:PresenceNotAdequacy
     organon:notTheVerseEnglish true .

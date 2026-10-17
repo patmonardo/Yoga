@@ -6,7 +6,8 @@
 >
 > dvāviṃśatiś caitasikāḥ kaukṛtyam adhikaṃ kvacit // 2.28 //
 
-> In wholesome desire-realm consciousness twenty-two mental factors necessarily occur: the ten universal, the ten wholesome, vitarka, and vicāra. Regret is additional where present, making twenty-three. Kaukṛtya names the regret that has the badly done as support; the name is transferred. Wholesome regret follows failure to do the wholesome or doing the unwholesome.
+> In wholesome desire-realm consciousness, twenty-two mental factors occur
+> with vitarka and vicāra; regret may be additional where present.
 
 ## 2. Continuous Sanskrit Witness
 

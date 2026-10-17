@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> निरोधयत्युपरमान्नारूप्ये जीवितं मनः ।
->
-> उपेक्षां चैव रूपेऽष्टौ कामे दश नवाष्टौ वा ॥ २.१५ ॥
+```sanskrit
+निरोधयत्युपरमान्नारूप्ये जीवितं मनः ।
+उपेक्षां चैव रूपेऽष्टौ कामे दश नवाष्टौ वा ॥ २.१५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> nirodhayaty uparamān nārūpye jīvitaṃ manaḥ /
->
-> upekṣāṃ caiva rūpe 'ṣṭau kāme daśa navāṣṭau vā // 2.15 //
+```text
+nirodhayaty uparamān nārūpye jīvitaṃ manaḥ /
+upekṣāṃ caiva rūpe 'ṣṭau kāme daśa navāṣṭau vā // 2.15 //
+```
 
 ## 3. Lexical Analysis
 
@@ -42,11 +44,15 @@ Cessation features do not invert the acquisition features.
 
 ### Literal Translation
 
-Brings to cessation, at death in the formless realm, life, mind, and neutral feeling. In the form realm, eight. In the desire realm, ten, nine, or eight.
+> Brings to cessation, at death in the formless realm, life, mind, and
+> neutral feeling. In the form realm, eight. In the desire realm, ten, nine,
+> or eight.
 
 ### Bhāṣya-informed study translation
 
-> One dying in the formless realm brings to cessation life, mind, and neutral feeling. In the form realm, eight: those three and the five beginning with the eye. In the desire realm, ten, nine, or eight, according to sexual characteristic: ten with both sex faculties, nine with one, eight with neither.
+> At death in the formless realm, life, mind, and neutral feeling are
+> brought to cessation. In the Form realm, eight; in the desire realm, ten,
+> nine, or eight.
 
 ## 6. Philosophical Translation
 
@@ -95,6 +101,13 @@ cessation at death
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): One dying in the formless realm brings to cessation
+life, mind, and neutral feeling. In the form realm, eight: those three and
+the five beginning with the eye. In the desire realm, ten, nine, or eight,
+according to sexual characteristic: ten with both sex faculties, nine with
+one, eight with neither.
 
 2.14 asked what is first acquired as maturation. Mind and neutral feeling were present and not in that count. Here they cease. The inventories are not the same list run backward.
 

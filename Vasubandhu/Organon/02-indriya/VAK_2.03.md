@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> निकायस्थितिसंक्लेशव्यवदानाधिपत्यतः ।
->
-> जीवितं वेदनाः पञ्च श्रद्धाद्याश्चेन्द्रियं मताः ॥ २.३ ॥
+```sanskrit
+निकायस्थितिसंक्लेशव्यवदानाधिपत्यतः ।
+जीवितं वेदनाः पञ्च श्रद्धाद्याश्चेन्द्रियं मताः ॥ २.३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> nikāyasthitisaṃkleśavyavadānādhipatyataḥ /
->
-> jīvitaṃ vedanāḥ pañca śraddhādyāś cendriyaṃ matāḥ // 2.3 //
+```text
+nikāyasthitisaṃkleśavyavadānādhipatyataḥ /
+jīvitaṃ vedanāḥ pañca śraddhādyāś cendriyaṃ matāḥ // 2.3 //
+```
 
 ## 3. Lexical Analysis
 
@@ -45,11 +47,15 @@ Each function is both the subject feature and the governed feature. Unification 
 
 ### Literal Translation
 
-Because of governing efficacy over class-persistence, defilement, and purification, life, the five feelings, and those beginning with faith are held to be faculty.
+> Because of governing efficacy over class-persistence, defilement, and
+> purification, life, the five feelings, and those beginning with faith are
+> held to be faculty.
 
 ### Bhāṣya-informed study translation
 
-> Life governs the standing of the class, not its arising. The five feelings govern the tones on which affliction lies. Those beginning with faith govern purification by checking the afflictions and drawing the path forward. Each is faculty by that efficacy.
+> Life, the five feelings, and those beginning with faith are held to be
+> Faculties through governing, respectively, class-persistence, defilement,
+> and purification.
 
 ## 6. Philosophical Translation
 
@@ -69,7 +75,7 @@ Because of governing efficacy over class-persistence, defilement, and purificati
 | vīrya | vigor | |
 | smṛti | mindfulness | |
 | samādhi | concentration | |
-| prajñā | Discrimination | never discernment |
+| prajñā | discriminative comprehension | not discernment |
 | viṣkambha | checking | not final abandonment |
 | āvāhana | drawing forward | the path brought on |
 
@@ -78,7 +84,7 @@ Because of governing efficacy over class-persistence, defilement, and purificati
 ```text
 life
     → persistence of the homogeneous class
-    ↛ creates the aggregates
+    ↛ creates the Bases
 
 pleasant feeling
     → attachment lies latent
@@ -102,6 +108,12 @@ purification
 The five of the verse are not the eight of 2.01. The remaining three are not this unit.
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): Life governs the standing of the class, not its
+arising. The five feelings govern the tones on which affliction lies.
+Those beginning with faith govern purification by checking the afflictions
+and drawing the path forward. Each is faculty by that efficacy.
 
 2.01 named defilement and purification as the last distribution. 2.02 revised the six and the body-portion. This verse gives the predicate of the rest that are in view: life, the five feelings, and five of the eight.
 

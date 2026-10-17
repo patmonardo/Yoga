@@ -6,7 +6,9 @@
 >
 > śubhā dvivedyāniyatā cāryasyāpyā prayogataḥ // 2.43 //
 
-> Likewise again carries only the cessation of consciousness and the mental factors. This attainment is for abiding, born of the summit of existence. Wholesome, to be experienced at two times or unfixed. Exclusively a noble person's, acquired through application. Not by dispassion. For the Buddha, acquired with the knowledge of exhaustion.
+> This attainment called cessation is likewise for abiding and is born of
+> the summit of existence. It is wholesome, experienced at two times or
+> unfixed, belongs to a noble person, and is acquired through application.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -21,7 +23,7 @@ The unit is printed 69.24–71.15 in `Vasubandhu/Sources/kosabhasya.txt`. The wi
 
 ## 3. Continuous Conventional Translation
 
-What is the attainment of cessation? This, called cessation, is likewise. Likewise the non-reflective attainment: likewise carries cessation of consciousness and the mental factors. The difference is for abiding. Entered by attention preceded by the conception of peaceful abiding. The other, by the conception of escape. That one is of the fourth dhyāna. This is born of the summit of existence, the essence of neither reflection nor non-reflection only. Wholesome. Not afflicted, not indeterminate. To be experienced in the next rebirth or a later life, and unfixed with respect to maturation. It may not mature, if one attains final nirvāṇa here. Four aggregates at the summit.
+What is the attainment of cessation? This, called cessation, is likewise. Likewise the non-reflective attainment: likewise carries cessation of consciousness and the mental factors. The difference is for abiding. Entered by attention preceded by the conception of peaceful abiding. The other, by the conception of escape. That one is of the fourth dhyāna. This is born of the summit of existence, the essence of neither reflection nor non-reflection only. Wholesome. Not afflicted, not indeterminate. To be experienced in the next rebirth or a later life, and unfixed with respect to maturation. It may not mature, if one attains final nirvāṇa here. Four Bases at the summit.
 
 Exclusively a noble person's. Ordinary persons cannot produce it, from fear of annihilation, from the power of the noble path, and from resolve toward nirvāṇa in this life. Not obtained by dispassion. Acquired through application. Past not acquired. Future not cultivated. Cultivation is through the power of consciousness.
 
@@ -37,7 +39,7 @@ One feature carried. Not every property. Peaceful abiding, not escape. Summit, n
 
 ## 6. Maturation and Application
 
-Two times are next rebirth and a later life. Unfixed is not the ethical indeterminate. The attainment is wholesome. Four aggregates against the five of the other result. Application, not dispassion. The exclusion of past and future is the mode of obtaining. The power of consciousness explains cultivation. It does not say the preparation lacks consciousness.
+Two times are next rebirth and a later life. Unfixed is not the ethical indeterminate. The attainment is wholesome. Four Bases against the five of the other result. Application, not dispassion. The exclusion of past and future is the mode of obtaining. The power of consciousness explains cultivation. It does not say the preparation lacks consciousness.
 
 ## 7. The Dispute
 

@@ -2,33 +2,34 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चित्तं मनोऽथ विज्ञानमेकार्थं चित्तचैतसाः ।
->
-> साश्रयालम्बनाकाराः संप्रयुक्ताश्च पञ्चधा ॥ २.३४ ॥
+```sanskrit
+चित्तं मनोऽथ विज्ञानमेकार्थं चित्तचैतसाः ।
+साश्रयालम्बनाकाराः संप्रयुक्ताश्च पञ्चधा ॥ २.३४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> cittaṃ mano 'tha vijñānam ekārthaṃ cittacaitasāḥ /
->
-> sāśrayālambanākārāḥ saṃprayuktāś ca pañcadhā // 2.34 //
+```text
+cittaṃ mano 'tha vijñānam ekārthaṃ cittacaitasāḥ /
+sāśrayālambanākārāḥ saṃprayuktāś ca pañcadhā // 2.34 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| cittam | nominative | consciousness |
-| manaḥ | nominative | mind |
-| vijñānam | nominative | cognition |
-| eka-artham | nominative | one meaning |
-| citta-caitasāḥ | nominative | consciousness and the mental factors |
-| sa-āśraya | | having a support |
-| ālambana | | cognitive support |
-| ākāra | | manner |
-| saṃprayuktāḥ | | associated |
-| pañcadhā | | fivefold |
+| cittam | nom. sg. n. | consciousness |
+| manaḥ | nom. sg. n. | mind |
+| vijñānam | nom. sg. n. | Cognition |
+| eka-artham | nom. sg. n.; compound | one meaning |
+| citta-caitasāḥ | nom. pl. m.; compound | consciousness and the mental factors |
+| sa-āśraya | compound adjective, nom. pl. m. | having a support |
+| ālambana | nom. sg. n. | cognitive support |
+| ākāra | nom. sg. n. | manner |
+| saṃprayuktāḥ | nom. pl. m.; past passive participle | associated |
+| pañcadhā | adverb | fivefold |
 
-Artha is meaning. Vijñāna is cognition. Not principle.
-
+Artha is meaning. Vijñāna is Cognition. Not Principle.
 ## 4. Grammar
 
 ```text
@@ -44,12 +45,13 @@ Association is five equalities, not identity of factors.
 
 ### Literal Translation
 
-Consciousness, mind, and cognition have one meaning. Consciousness and the mental factors have support, cognitive support, and manner, and are associated fivefold.
-
+> Consciousness, mind, and Cognition have one meaning. Consciousness and the
+> mental factors are associated in five ways.
 ### Bhāṣya-informed study translation
 
-> Citta, manas, and vijñāna have one meaning here, three functions. Consciousness and the mental factors are associated fivefold: equality of support, cognitive support, manner, time, and instance. One consciousness, one of each factor. The referent is one; the roles are not.
-
+> Consciousness, mind, and Cognition have one meaning. Consciousness and the
+> mental factors are associated through support, object, aspect, time, and
+> instance.
 ## 6. Philosophical Translation
 
 > One occurrence, three functions. Association is five equalities. Produced occurrence is not Citta the Universal. Dravya-equality is one instance, not substance.
@@ -60,7 +62,7 @@ Consciousness, mind, and cognition have one meaning. Consciousness and the menta
 |---|---|---|
 | citta | consciousness | gathers; or variegated |
 | manas | mind | support-function of the same occurrence |
-| vijñāna | cognition | supported cognition; not principle |
+| vijñāna | Cognition | supported Cognition; not Principle |
 | ekārtha | one meaning | contextual; not every text |
 | āśraya | support | the faculty depended on |
 | ālambana | cognitive support | what is apprehended |
@@ -85,6 +87,8 @@ Five equalities, not identity.
 One of each is not all factors one entity.
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary gives the five relations as equality of support, cognitive object, aspect, time, and instance, illustrated by one consciousness and one of each factor. It treats manner as distinct from support and object. Its fivefold account does not resolve the previously noted questions about shared support or simultaneous occurrence.
 
 The section closes. Distributions and particular distinctions give way to the names. Others are not a named school. The questions introduce explanations, not a developed objection.
 

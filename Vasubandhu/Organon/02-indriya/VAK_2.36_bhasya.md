@@ -6,7 +6,9 @@
 >
 > prāptyaprāptī svasaṃtānapatitānāṃ nirodhayoḥ // 2.36 //
 
-> And the groups of names and the rest. Acquisition is obtaining and possession: obtaining what was not obtained or had been relinquished, and possessing what has been obtained. Acquisition and non-acquisition concern what belongs to one's own continuum, and the two cessations; not what belongs to another, nor the non-sentient, nor space.
+> And the groups of names and the rest. Acquisition is obtaining and
+> possession; acquisition and non-acquisition concern what belongs to one's
+> own continuum and the two cessations.
 
 ## 2. Continuous Sanskrit Witness
 

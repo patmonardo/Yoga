@@ -6,7 +6,9 @@
 >
 > dhyānāntare vitarkaś ca vicāraś cāpy ataḥ param // 2.31 //
 
-> Regret, torpor, and the unwholesome are absent in the first dhyāna. In the intermediate, vitarka also. Beyond, vicāra also, and deception and crookedness. Exclusions accumulate. The rest remains as before. Crookedness reaches only as far as Brahmā.
+> Regret, torpor, and unwholesome factors are absent in the first dhyāna. In
+> the intermediate dhyāna, vitarka is also absent; beyond it, vicāra is also
+> absent.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -35,7 +37,7 @@ The unit is printed 59.02–59.15 in `Vasubandhu/Sources/kosabhasya.txt`. Catav�
 
 Taking the rule for mental factors already stated for the desire realm: regret, torpor, and the unwholesome are not present in the first dhyāna, of these. Of what has been described, regret and torpor are entirely absent in the first dhyāna, as is whatever is unwholesome: hostility; the factors beginning with anger, except crookedness, intoxication, and deception; and shamelessness and lack of moral caution. Everything else remains as before. Those absent in the first dhyāna are also absent in the intermediate dhyāna, together with vitarka. The remainder is as before. Beyond this, vicāra also. Beyond the intermediate dhyāna, in the second and subsequent dhyānas and in the formless levels, what was previously excluded is absent, as is vicāra. Also includes deception and crookedness. The remainder is as before.
 
-Crookedness is recounted only as far as Brahmā, not above, because connected with an assembly. When the monk Aśvajit asked him in his own assembly, where, Brahmā, do these four great elements cease without remainder, he did not know and made an evasion: I am Brahmā, the Lord, the Maker, the Fashioner, the Creator, the Producer, the Father of beings. Thus it has been stated how many mental factors occur in which consciousness at which level.
+Crookedness is recounted only as far as Brahmā, not above, because connected with an assembly. When the monk Aśvajit asked him in his own assembly, where, Brahmā, do these four Great Elements cease without remainder, he did not know and made an evasion: I am Brahmā, the Lord, the Maker, the Fashioner, the Creator, the Producer, the Father of beings. Thus it has been stated how many mental factors occur in which consciousness at which level.
 
 Creator, Producer is provisional for the damaged title sequence. Not a collation.
 
@@ -65,7 +67,7 @@ Also includes deception and crookedness. It does not include intoxication. The t
 
 ## 7. The Brahmā Example
 
-Connected with an assembly. Asked before his assembly, he does not answer and recites titles. Lack of knowledge and evasion are supplied by the commentary. The question is where the four great elements cease without remainder. This unit does not answer it and does not complete the encounter.
+Connected with an assembly. Asked before his assembly, he does not answer and recites titles. Lack of knowledge and evasion are supplied by the commentary. The question is where the four Great Elements cease without remainder. This unit does not answer it and does not complete the encounter.
 
 Assembly-dependence is stated for crookedness. The joint exclusion of deception and crookedness is not expanded into a theory of both. The example stays in the distribution argument.
 

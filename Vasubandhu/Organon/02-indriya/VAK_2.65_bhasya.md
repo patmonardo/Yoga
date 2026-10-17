@@ -6,7 +6,9 @@
 >
 > rūpaṃ rūpasya tridhā bhūtānām ekadhaiva tat // 2.65 //
 
-> The elements are cause-condition of the elements in two ways, as homogeneous and as co-arisen. Of derived form they are cause in five: generation, dependent support, foundation, sustaining, and increase, which is the conditioning cause divided fivefold. Derived form is cause of derived form in three ways: co-arisen, homogeneous, and maturation. Of the elements, derived form is cause in one way only: as bodily and verbal action whose maturation is the elements.
+> Elements are cause-condition for Elements in two ways and for derived
+> Form in five. Form is cause-condition for Form in three ways; of the
+> Elements, in one way only.
 
 ## 2. Continuous Sanskrit Witness
 

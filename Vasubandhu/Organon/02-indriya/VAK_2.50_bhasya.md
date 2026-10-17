@@ -6,7 +6,10 @@
 >
 > bhūtavac cittacittānuvartilakṣaṇalakṣyavat // 2.50 //
 
-> The conditioning cause is what is other than itself. Co-arisen causes are those that are mutually results: the four great elements, of one another; consciousness, of the dharmas that follow it, and they of it; the marks, of the marked, and it of them. Even without mutual result, a dharma is a co-arisen cause of its secondary marks, though they are not of it.
+> What is other than itself is the conditioning cause. Co-arisen causes
+> are mutually resultant: the four Great Elements; consciousness and the
+> dharmas that follow it, each of the other; and the marks and what is
+> marked, each of the other.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -22,7 +25,7 @@ The unit is printed 83.18–83.24 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 ## 3. Continuous Conventional Translation
 
-Co-arisen causes are those that are mutually results. Reciprocally one another's results, co-arisen causes of one another. The four great elements, of one another. Consciousness, of the dharmas that follow it, and they of it. The conditioned marks, of the marked, and it of them. Every conditioned dharma, as appropriate. A qualification: even without mutual result, a dharma is a co-arisen cause of its secondary marks. They are not of it.
+Co-arisen causes are those that are mutually results. Reciprocally one another's results, co-arisen causes of one another. The four Great Elements, of one another. Consciousness, of the dharmas that follow it, and they of it. The conditioned marks, of the marked, and it of them. Every conditioned dharma, as appropriate. A qualification: even without mutual result, a dharma is a co-arisen cause of its secondary marks. They are not of it.
 
 ## 4. Organon Reading
 

@@ -2,27 +2,29 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सर्वत्रगाख्यः क्लिष्टानां स्वभूमौ पूर्वसर्वगाः ।
->
-> विपाकहेतुरशुभाः कुशलाश्चैव सास्रवाः ॥ २.५४ ॥
+```sanskrit
+सर्वत्रगाख्यः क्लिष्टानां स्वभूमौ पूर्वसर्वगाः ।
+विपाकहेतुरशुभाः कुशलाश्चैव सास्रवाः ॥ २.५४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sarvatragākhyaḥ kliṣṭānāṃ svabhūmau pūrvasarvagāḥ /
->
-> vipākahetur aśubhāḥ kuśalāś caiva sāsravāḥ // 2.54 //
+```text
+sarvatragākhyaḥ kliṣṭānāṃ svabhūmau pūrvasarvagāḥ /
+vipākahetur aśubhāḥ kuśalāś caiva sāsravāḥ // 2.54 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| sarvatraga-ākhyaḥ | called pervasive |
-| kliṣṭānām | of the afflicted |
-| sva-bhūmau | on their own level |
-| pūrva-sarvagāḥ | prior pervasive dharmas |
-| vipāka-hetuḥ | maturation cause |
-| aśubhāḥ | unwholesome |
-| kuśalāḥ sāsravāḥ | wholesome with influx |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| sarvatraga-ākhyaḥ | masculine nominative singular compound adjective | called pervasive |
+| kliṣṭānām | genitive plural | of the afflicted |
+| sva-bhūmau | locative singular compound | on their own level |
+| pūrva-sarvagāḥ | masculine nominative plural compound adjective | prior pervasive dharmas |
+| vipāka-hetuḥ | masculine nominative singular compound | maturation cause |
+| aśubhāḥ | masculine nominative plural adjective | unwholesome |
+| kuśalāḥ sāsravāḥ | masculine nominative plural adjectives | wholesome with influx |
 
 ## 4. Grammar
 
@@ -40,12 +42,14 @@ Indeterminate weak. Uncontaminated not moistened.
 
 ### Literal Translation
 
-Called pervasive, of the afflicted, on their own level: the prior pervasive. Maturation cause: the unwholesome, and the wholesome with influx.
-
+> The cause called pervasive consists of prior pervasive dharmas of their
+> own level, for the afflicted there. Maturation cause is unwholesome and
+> wholesome with influx.
 ### Bhāṣya-informed study translation
 
-> The cause called pervasive is the prior pervasive dharmas of a level, for the afflicted dharmas that follow them on their own level, even of another class. The maturation cause is the unwholesome and the wholesome with influx; indeterminate dharmas are too weak to mature, and uncontaminated ones are not moistened by craving.
-
+> The cause called pervasive is the prior pervasive dharmas of a level,
+> for later afflicted dharmas on that same level. Maturation cause is
+> unwholesome and wholesome with influx.
 ## 6. Philosophical Translation
 
 > Pervasive is prior, own level, later afflicted, other class allowed. Maturation is unwholesome and wholesome with influx. Indeterminate weak. Uncontaminated not moistened. Series required. Not settled.
@@ -78,6 +82,13 @@ series
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya adds that a prior pervasive dharma may
+cause later affliction of another class on that level. Indeterminate dharmas
+are too weak to mature, while uncontaminated dharmas are not moistened by
+craving. It preserves competing accounts of maturation as dissimilar result
+or as the culmination of a transformed continuum; the precise account
+remains unsettled.
 
 The latent-tendency list is not this chapter. Non-percipient is withdrawn where the attainment is named. The temporal classification of the six is the next verse.
 

@@ -6,7 +6,9 @@
 >
 > rūpe daśaikaṃ ca śubhāt navabhyas tadanantaram // 2.68 //
 
-> The desire-realm unobscured-indeterminate follows five: the four of its own level and form wholesome, from which the mind of supernormal creation arises. Seven follow it: the four of its own level; form wholesome, after the creation-mind; form obscured, at rebirth-linking; and formless obscured, at rebirth-linking. In the form realm, eleven follow the wholesome, all but the formless unobscured-indeterminate; and it follows nine, excluding the two afflicted desire kinds and the formless unobscured-indeterminate.
+> Desire-realm unobscured-indeterminate follows five, and seven follow it.
+> In the Form realm, eleven follow wholesome consciousness, which itself
+> follows nine.
 
 ## 2. Continuous Sanskrit Witness
 

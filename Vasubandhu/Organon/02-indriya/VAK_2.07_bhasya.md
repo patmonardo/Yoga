@@ -6,7 +6,9 @@
 >
 > śātā dhyāne tṛtīye tu caitasī sā sukhendriyam // 2.07 //
 
-> Pain is disagreeable bodily feeling. Pleasure is agreeable bodily feeling. The exception is narrow: in the third dhyāna the five cognition-groups are absent, so agreeable mental feeling takes the pleasure-faculty. Mental feeling is not thereby bodily.
+> Pain-Faculty is whichever bodily feeling is disagreeable; pleasure is
+> agreeable feeling. But in the third dhyāna, the agreeable mental feeling
+> is Pleasure-Faculty.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -39,7 +41,7 @@ Disagreeable bodily feeling is the pain-faculty. Disagreeable means injurious: t
 
 The preceding units explained faculty-status, scope, and an alternative order. This passage turns to definitions and distributes the rest of the chapter. Life belongs among the dissociated. The five beginning with faith belong among the mental factors. Feeling and the three are explained now.
 
-Eye through the male faculty is the range already treated. It does not say ten material faculties. Mind is in that sequence.
+Eye through the male faculty is the range already treated. It does not say ten Form faculties. Mind is in that sequence.
 
 No opponent. No named school.
 

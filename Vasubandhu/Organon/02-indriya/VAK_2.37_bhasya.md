@@ -6,7 +6,10 @@
 >
 > svadhātukā tadāptānām anāptānāṃ caturvidhā // 2.37 //
 
-> Acquisition of a past, future, or present dharma may itself be past, future, or present. Of a wholesome, unwholesome, or indeterminate dharma, the acquisition has that ethical status. Of a dharma included in a realm, the acquisition belongs to that realm. Of a dharma not included, the acquisition may be of the desire, form, or formless realm, or uncontaminated. Uncontaminated is not a fourth realm.
+> For dharmas of the three times, acquisition is threefold; of wholesome,
+> unwholesome, or indeterminate dharmas, it has that status. Acquisition of
+> a realm-included dharma belongs to that realm; of one not included in a
+> realm, it is fourfold.
 
 ## 2. Continuous Sanskrit Witness
 

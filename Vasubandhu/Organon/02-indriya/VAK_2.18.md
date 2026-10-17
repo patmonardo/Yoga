@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चतुर्भिः सुखकायाभ्यां पञ्चभिश्चक्षुरादिमान् ।
->
-> सौमनस्यी च दुःखी तु सप्तभिः स्त्रीन्द्रियादिमान् ॥ २.१८ ॥
+```sanskrit
+चतुर्भिः सुखकायाभ्यां पञ्चभिश्चक्षुरादिमान् ।
+सौमनस्यी च दुःखी तु सप्तभिः स्त्रीन्द्रियादिमान् ॥ २.१८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> caturbhiḥ sukhakāyābhyāṃ pañcabhiś cakṣurādimān /
->
-> saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān // 2.18 //
+```text
+caturbhiḥ sukhakāyābhyāṃ pañcabhiś cakṣurādimān /
+saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān // 2.18 //
+```
 
 ## 3. Lexical Analysis
 
@@ -43,11 +45,15 @@ The count is a feature determined by the possessed faculty.
 
 ### Literal Translation
 
-With four, in the cases of pleasure and body. One possessing the eye and so forth, with five, and one possessing gladness. One possessing pain, however, with seven. One possessing the female faculty and so forth.
+> With four, in the cases of pleasure and body. One possessing the eye and
+> so forth, with five, and one possessing gladness. One possessing pain,
+> however, with seven. One possessing the female faculty and so forth.
 
 ### Bhāṣya-informed study translation
 
-> Possession is not uniform. Pleasure and body each require four. The eye and the rest, and gladness, require five. Pain requires seven. The female faculty and those gathered with it require eight. The five beginning with faith require a different eight. The necessary companions are fixed by the faculty possessed; there is no single rule for the remainder.
+> One with pleasure or body has four; one possessing the eye and the rest,
+> five; one with gladness also, five; one with pain, however, seven; one
+> possessing the female Faculty and so forth has eight.
 
 ## 6. Philosophical Translation
 
@@ -103,6 +109,14 @@ same count
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): Possession is not uniform. Pleasure and body each
+require four. The eye and the rest, and gladness, require five. Pain
+requires seven. The female faculty and those gathered with it require
+eight. The five beginning with faith require a different eight. The
+necessary companions are fixed by the faculty possessed; there is no
+single rule for the remainder.
 
 The closures are minimums. They do not say no other faculty can be possessed.
 

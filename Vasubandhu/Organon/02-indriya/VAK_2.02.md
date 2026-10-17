@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> स्वार्थोपलब्ध्याधिपत्यात् सर्वस्य च षडिन्द्रियम् ।
->
-> स्त्रीत्वपुंस्त्वाधिपत्यात्तु कायात् स्त्रीपुरुषेन्द्रिये ॥ २.२ ॥
+```sanskrit
+स्वार्थोपलब्ध्याधिपत्यात् सर्वस्य च षडिन्द्रियम् ।
+स्त्रीत्वपुंस्त्वाधिपत्यात्तु कायात् स्त्रीपुरुषेन्द्रिये ॥ २.२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> svārthopalabdhyādhipatyāt sarvasya ca ṣaḍindriyam /
->
-> strītvapuṃstvādhipatyāt tu kāyāt strīpuruṣendriye // 2.2 //
+```text
+svārthopalabdhyādhipatyāt sarvasya ca ṣaḍindriyam /
+strītvapuṃstvādhipatyāt tu kāyāt strīpuruṣendriye // 2.2 //
+```
 
 ## 3. Lexical Analysis
 
@@ -43,11 +45,16 @@ S[TYPE=faculty] -> NP[MODE=sex] VP[FROM=body]
 
 ### Literal Translation
 
-Because of governing efficacy in the apprehension of their own meaning, and of all, the six are faculty. But because of governing efficacy over female-being and male-being, the female and male faculties are from the body.
+> Because of governing efficacy in the apprehension of their own meaning,
+> and of all, the six are faculty. But because of governing efficacy over
+> female-being and male-being, the female and male faculties are from the
+> body.
 
 ### Bhāṣya-informed study translation
 
-> The six are faculty by governing apprehension—five of their own meaning, mind of all. The female and male faculties are not further substances; they are the body-faculty named apart because they govern female-being and male-being.
+> The five are Faculties by governing apprehension of their own meanings;
+> mind is so by apprehending all. The female and male Faculties are from the
+> body through governing female-being and male-being.
 
 ## 6. Philosophical Translation
 
@@ -99,6 +106,12 @@ female, male
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): The six are faculty by governing apprehension—five of
+their own meaning, mind of all. The female and male faculties are not
+further substances; they are the body-faculty named apart because they
+govern female-being and male-being.
 
 2.01 distributed four matters, two, defilement, and purification. This verse is the revision of the first distribution. The unnamed others keep cognition as the place of governing efficacy, and refuse a second operation called seeing. The reply is svārthopalabdhi.
 

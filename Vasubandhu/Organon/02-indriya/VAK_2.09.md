@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> दृग्भावनाशैक्षपथे नव त्रीणि अमलं त्रयम् ।
->
-> रूपीणि जीवितं दुःखे सास्रवाणि द्विधा नव ॥ २.९ ॥
+```sanskrit
+दृग्भावनाशैक्षपथे नव त्रीणि अमलं त्रयम् ।
+रूपीणि जीवितं दुःखे सास्रवाणि द्विधा नव ॥ २.९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> dṛgbhāvanāśaikṣapathe nava trīṇi amalaṃ trayam /
->
-> rūpīṇi jīvitaṃ duḥkhe sāsravāṇi dvidhā nava // 2.9 //
+```text
+dṛgbhāvanāśaikṣapathe nava trīṇi amalaṃ trayam /
+rūpīṇi jīvitaṃ duḥkhe sāsravāṇi dvidhā nava // 2.9 //
+```
 
 ## 3. Lexical Analysis
 
@@ -46,11 +48,15 @@ Path names the nine. Outflow status is a separate feature.
 
 ### Literal Translation
 
-On the paths of seeing, cultivation, and no-more-training, the nine are the three. The triad is stainless. Those possessing form, life, and the two painful faculties are with outflows. Nine are twofold.
+> On the paths of seeing, cultivation, and no-more-training, the nine are
+> the three. The triad is stainless. Those possessing form, life, and the
+> two painful faculties are with outflows. Nine are twofold.
 
 ### Bhāṣya-informed study translation
 
-> The three are not three further items. They are the same nine, named by the path-task. The triad is stainless. Those possessing form, life, and the two painful faculties are with outflows. Nine, as types, can be either.
+> On the paths of seeing, cultivation, and no-more-training, the nine are
+> threefold; the triad is stainless. Those possessing Form, life, and the
+> two painful Faculties have outflows; nine are twofold.
 
 ## 6. Philosophical Translation
 
@@ -67,7 +73,7 @@ On the paths of seeing, cultivation, and no-more-training, the nine are the thre
 | sāsrava | with outflows | the ten, and the nine in one way |
 | anāsrava | without outflows | the triad; not causally inert |
 | dvidhā | twofold | either, not both at once |
-| rūpin | possessing form | seven, in the form aggregate |
+| rūpin | possessing Form | seven, in the Form Base |
 | duḥkhe | pain and distress | dual |
 | kṣaya-jñāna | knowledge of exhaustion | |
 | anutpāda-jñāna | knowledge of non-arising | |
@@ -77,7 +83,7 @@ On the paths of seeing, cultivation, and no-more-training, the nine are the thre
 ```text
 nine
     = mind, pleasure, gladness, neutral feeling,
-      faith, vigor, mindfulness, concentration, Discrimination
+      faith, vigor, mindfulness, concentration, discriminative comprehension
 
 seeing
     → I shall know
@@ -104,6 +110,12 @@ five beginning with faith
 Nine types are not nine factors co-present in every path-event.
 
 ## 9. Interpretive Note
+
+**Translation note.** Earlier explanatory rendering (moved out of the
+verse translation): The three are not three further items. They are the
+same nine, named by the path-task. The triad is stainless. Those
+possessing form, life, and the two painful faculties are with outflows.
+Nine, as types, can be either.
 
 The chapter has named the twenty-two and defined the feelings. This verse qualifies them by path and by outflow.
 

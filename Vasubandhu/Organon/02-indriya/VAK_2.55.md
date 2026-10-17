@@ -2,27 +2,29 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सर्वत्रगः सभागश्च द्वयध्वगौ त्र्यध्वगास्त्रयः ।
->
-> संस्कृतं सविसंयोगं फलं नासंस्कृतस्य ते ॥ २.५५ ॥
+```sanskrit
+सर्वत्रगः सभागश्च द्वयध्वगौ त्र्यध्वगास्त्रयः ।
+संस्कृतं सविसंयोगं फलं नासंस्कृतस्य ते ॥ २.५५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sarvatragaḥ sabhāgaś ca dvayadhvagau tryadhvagās trayaḥ /
->
-> saṃskṛtaṃ savisaṃyogaṃ phalaṃ nāsaṃskṛtasya te // 2.55 //
+```text
+sarvatragaḥ sabhāgaś ca dvayadhvagau tryadhvagās trayaḥ /
+saṃskṛtaṃ savisaṃyogaṃ phalaṃ nāsaṃskṛtasya te // 2.55 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| sarvatragaḥ sabhāgaḥ | pervasive and homogeneous |
-| dvayadhvagau | ranging over two times |
-| tryadhvagāḥ trayaḥ | three, ranging over three times |
-| saṃskṛtam | the conditioned |
-| savisaṃyogam | together with disconnection |
-| phalam | fruit |
-| nāsaṃskṛtasya te | those are not of the unconditioned |
+| Pada | Morphology | Force in this passage |
+|---|---|---|
+| sarvatragaḥ sabhāgaḥ | masculine nominative singular adjectives | pervasive and homogeneous |
+| dvayadhvagau | masculine nominative dual compound adjective | ranging over two times |
+| tryadhvagāḥ trayaḥ | masculine nominative plural compound adjective + masculine nominative plural numeral | three, ranging over three times |
+| saṃskṛtam | neuter nominative singular adjective | the conditioned |
+| savisaṃyogam | neuter nominative singular compound adjective | together with disconnection |
+| phalam | neuter nominative singular | fruit |
+| nāsaṃskṛtasya te | genitive singular compound adjective + nominative plural pronoun | those are not of the unconditioned |
 
 ## 4. Grammar
 
@@ -43,12 +45,15 @@ Disconnection is a fruit of the Path and not its product.
 
 ### Literal Translation
 
-Pervasive and homogeneous range over two times. Three range over three times. The fruit is the conditioned, together with disconnection. Those are not of the unconditioned.
-
+> The pervasive and homogeneous range over two times; three causes range
+> over three. The conditioned, together with disconnection, is fruit;
+> those causes are not fruits of the unconditioned.
 ### Bhāṣya-informed study translation
 
-> The pervasive and the homogeneous range over two times, past and present. The co-arisen, the associated, and the maturation cause range over three. The conditioning cause is of all times and dissociated from time. The fruit is the conditioned together with disconnection, cessation by Discrimination; these causes do not have the unconditioned as their fruit. The Path produces the acquisition and brings one to disconnection, without being its cause.
-
+> The pervasive and homogeneous causes span two times, past and present;
+> the co-arisen, associated, and maturation causes span all three. Fruit
+> is conditioned dharma together with disconnection; those causes are not
+> fruits of the unconditioned.
 ## 6. Philosophical Translation
 
 > Pervasive and homogeneous are past and present. The three are three times. Conditioning is all times and not in time. Disconnection is a fruit of the Path and not its product. Entity or absence is not settled.
@@ -82,6 +87,11 @@ entity or absence
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya identifies disconnection as cessation by
+discriminative comprehension. The Path produces acquisition and brings one
+to disconnection, but is not its cause. The status of the unconditioned
+within the cause-and-fruit matrix is debated rather than settled.
 
 The assignment of which fruit to which cause is the next verse. The debate is recorded, not closed.
 

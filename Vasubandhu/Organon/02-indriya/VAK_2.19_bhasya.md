@@ -6,7 +6,9 @@
 >
 > ājñāsyāmīndriyopetas trayodaśabhir anvitaḥ // 2.19 //
 
-> The knowledge-faculty and the faculty of one who has known each require eleven. “I shall know” requires thirteen. The difference is not further realization. It is the presence of body and the fourth feeling on the uninterrupted path.
+> With eight; but one accompanied by the knowledge-Faculty or the Faculty of
+> one who has known has eleven. One possessing the “I shall know” Faculty is
+> accompanied by thirteen.
 
 The eight completed 2.18. This unit begins at eleven and ends with the thirteen. The smallest total is the next question.
 

@@ -2,33 +2,34 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> श्रद्धाप्रमादः प्रश्रब्धिरुपेक्षा ह्रीरपत्रपा ।
->
-> मूलद्वयमहिंसा च वीर्यं च कुशले सदा ॥ २.२५ ॥
+```sanskrit
+श्रद्धाप्रमादः प्रश्रब्धिरुपेक्षा ह्रीरपत्रपा ।
+मूलद्वयमहिंसा च वीर्यं च कुशले सदा ॥ २.२५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> śraddhāpramādaḥ praśrabdhir upekṣā hrīr apatrapā /
->
-> mūladvayam ahiṃsā ca vīryaṃ ca kuśale sadā // 2.25 //
+```text
+śraddhāpramādaḥ praśrabdhir upekṣā hrīr apatrapā /
+mūladvayam ahiṃsā ca vīryaṃ ca kuśale sadā // 2.25 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| śraddhā | nominative | faith |
-| apramādaḥ | nominative | heedfulness |
-| praśrabdhiḥ | nominative | pliancy |
-| upekṣā | nominative | equanimity; not neutral feeling |
-| hrīḥ | nominative | moral shame; explained later |
-| apatrapā | nominative | moral caution; explained later |
-| mūla-dvayam | nominative | two roots: non-greed, non-hatred |
-| ahiṃsā | nominative | non-harming |
-| vīryam | nominative | vigor |
-| kuśale sadā | locative | always in the wholesome |
+| śraddhā | nom. sg. f. | faith |
+| apramādaḥ | nom. sg. m. | heedfulness |
+| praśrabdhiḥ | nom. sg. f. | pliancy |
+| upekṣā | nom. sg. f. | equanimity; not neutral feeling |
+| hrīḥ | nom. sg. f. | moral shame; explained later |
+| apatrapā | nom. sg. f. | moral caution; explained later |
+| mūla-dvayam | nom. sg. n.; numeral compound | two roots: non-greed, non-hatred |
+| ahiṃsā | nom. sg. f. | non-harming |
+| vīryam | nom. sg. n. | vigor |
+| kuśale sadā | loc. sg. n. + adverb | always in the wholesome |
 
 Ten, counting the two roots separately. Non-delusion is prajñā, already in the universal ten. Not counted again.
-
 ## 4. Grammar
 
 ```text
@@ -44,12 +45,13 @@ The universal ten of 2.24 remain. Non-delusion is already prajñā and is not a 
 
 ### Literal Translation
 
-Faith, heedfulness, pliancy, equanimity, moral shame, moral caution, the two roots, non-harming, and vigor, always in the wholesome.
-
+> Faith, heedfulness, pliancy, equanimity, moral shame and moral caution,
+> the two roots, non-harming, and vigor are always present in the wholesome.
 ### Bhāṣya-informed study translation
 
-> These ten occur always in wholesome consciousness. Faith is clarity, heedfulness is cultivation of the wholesome, pliancy is workability, equanimity is evenness. The two roots are non-greed and non-hatred. Non-delusion is prajñā and is already counted among the great-ground factors. Name by favor is not nature.
-
+> Faith, heedfulness, pliancy, equanimity, moral shame and moral caution,
+> the two roots, non-harming, and vigor are always present in wholesome
+> consciousness.
 ## 6. Philosophical Translation
 
 > The wholesome ground is narrower than every consciousness. Non-delusion is not a second member. Equanimity and attention are not opposed in nature; the distinction is of respect.
@@ -87,6 +89,8 @@ Name by favor is not nature.tention and equanimity
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary explains faith as clarity; heedfulness as cultivation of the wholesome; pliancy as workability; and equanimity as evenness. The two roots are non-greed and non-hatred. Non-delusion is prajñā, already included among the great-ground factors. It also distinguishes a name assigned by favor from a factor's nature. Definitions of shame, caution, non-harming, and vigor remain brief or deferred.
 
 The ground is every wholesome consciousness. Not ten stages. Not a claim that these arise only when a skill is developed.
 

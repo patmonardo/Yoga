@@ -6,7 +6,9 @@
 >
 > strītvapuṃstvādhipatyāt tu kāyāt strīpuruṣendriye // 2.02 //
 
-> The six are faculty by governing apprehension—five of their own meaning, mind of all. The female and male faculties are not further substances; they are the body-faculty named apart because they govern female-being and male-being.
+> The five are Faculties by governing apprehension of their own meanings;
+> mind is so by apprehending all. The female and male Faculties are from the
+> body through governing female-being and male-being.
 
 ## 2. Continuous Sanskrit Witness
 

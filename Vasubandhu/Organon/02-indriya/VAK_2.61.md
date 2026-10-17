@@ -2,20 +2,23 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चित्तचैत्ताः समानाः शेषाः सम्प्रयुक्ताद् ऋते /
-> चत्वारः प्रत्यया उक्ताः हेत्वाख्यः पञ्च हेतवः // २.६१ //
+```sanskrit
+चित्तचैत्ताः समानाः शेषाः सम्प्रयुक्ताद् ऋते /
+चत्वारः प्रत्यया उक्ताः हेत्वाख्यः पञ्च हेतवः // २.६१ //
+```
 
 ## 2. Sanskrit (IAST)
 
-> cittacaittāḥ samānāḥ śeṣāḥ saṃprayuktād ṛte /
->
-> catvāraḥ pratyayā uktāḥ hetvākhyaḥ pañca hetavaḥ // 2.61 //
+```text
+cittacaittāḥ samānāḥ śeṣāḥ saṃprayuktād ṛte /
+catvāraḥ pratyayā uktāḥ hetvākhyaḥ pañca hetavaḥ // 2.61 //
+```
 
 ## 3. Lexical Analysis
 
-| Pada | Morphology | Force |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| cittacaittāḥ | m. pl. | Mind and mental factors. |
+| cittacaittāḥ | m. pl. | consciousness and mental factors. |
 | samānāḥ | adj. | Likewise. |
 | śeṣāḥ | adj. | The others. |
 | saṃprayuktāt | abl. sg. | From the associated. |
@@ -44,12 +47,14 @@ Other three named, not defined.
 
 ### Literal Translation
 
-Mind and the mental factors, likewise. The others also, excluding the associated cause. Four conditions are taught. The one named cause is the five causes.
-
+> Consciousness and mental factors, and the others likewise except the
+> associated [cause]. Four conditions are taught; the cause-named
+> condition is five causes.
 ### Bhāṣya-informed study translation
 
-> Mind and the mental factors are alike, and the others too, excluding the associated cause. Four conditions are taught in the sūtra: the cause-condition, the immediately antecedent condition, the object-condition, and the predominant condition. Of these, the one named cause is the five causes, the five apart from the conditioning cause.
-
+> Consciousness and mental factors, and the other [dharmas] likewise,
+> except for the associated cause. Four conditions are taught; the
+> cause-condition is the five causes.
 ## 6. Philosophical Translation
 
 > Four conditions named. Cause-condition is five causes, not the conditioning cause. Associated exclusion is a different question. Other three named, not defined.
@@ -69,6 +74,13 @@ Mind and the mental factors, likewise. The others also, excluding the associated
 Four conditions named. Cause-condition is five causes, not the conditioning cause.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya names the four conditions as cause,
+immediately antecedent, object, and predominant. The “cause-condition”
+consists of the five causes other than the conditioning cause; these
+similarly named notions are distinct. The associated-cause exclusion
+continues the preceding discussion and does not redefine the four
+conditions.
 
 Four conditions named. Cause-condition is five causes, not the conditioning cause. Associated exclusion is a different question. Other three named, not defined.
 
