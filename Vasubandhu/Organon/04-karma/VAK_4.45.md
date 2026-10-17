@@ -115,25 +115,17 @@ experienced as neither pain nor pleasure.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Karma that is secure, insecure, or other is wholesome, unwholesome, or
 > other, respectively. It is also meritorious, demeritorious, or immovable,
 > and threefold beginning with that which is to be experienced as pleasure.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Wholesome karma is secure: it brings desirable maturation and conduces to
-> nirvāṇa by protecting from suffering. Unwholesome karma is insecure,
-> opposed to security both at the time and ultimately, and brings undesirable
-> maturation; indeterminate karma is neither. Karma is further classified as
-> meritorious, demeritorious, or immovable, and by whether its result is to be
-> experienced as pleasure, pain, or neither pleasure nor pain.
-
-The desirable and undesirable maturations, nirvāṇa-direction, protection from
-suffering, identification of the residual class as `avyākṛta`, and expansion
-of the final triad are supplied by the Bhāṣya.
-
+> Karma is secure, insecure, or otherwise—that is, wholesome, unwholesome, or
+> indeterminate, respectively. It is also meritorious, demeritorious, or
+> immovable, and threefold according to whether it is to be experienced as
+> pleasure, pain, or neither.
 ## 6. Philosophical Translation
 
 > Karma that is secure, insecure, or other is wholesome, unwholesome, or other, respectively. It is also meritorious, demeritorious, or immovable, and threefold beginning with that which is to be experienced as pleasure.
@@ -255,6 +247,13 @@ classes. The following exposition supplies those determinations.
 
 ## 9. Interpretive Note
 
+**Translation note.** The desirable and undesirable maturations, nirvāṇa-direction,
+protection from suffering, identification of the residual class as `avyākṛta`, and
+expansion of the final triad are supplied by the Bhāṣya. The commentary identifies
+the “other” class as indeterminate (`avyākṛta`) and explains security through
+desirable maturation and movement toward nirvāṇa; these explanations are not part of
+the verse's list.
+
 **The beginning of “Karma in the Sūtras”**
 
 Vasubandhu explicitly announces the transition:
@@ -288,8 +287,7 @@ This is the Organon contact. The Bhāṣya's definitions and classifications
 remain distinct from the project connection between volition, maturation,
 and experienced result.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Karma receives its ethical determination through the actuality it produces
 > and the direction in which it moves the continuum. Wholesome action is
 > secure because its maturation is desirable and its ultimate tendency is

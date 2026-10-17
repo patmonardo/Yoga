@@ -90,26 +90,17 @@ of shared attribution.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > For one who has died simultaneously or beforehand, there is no principal
 > course, because another support arises. In armies and similar collectives,
 > because there is one common undertaking, all are connected like the doer.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > For one who dies simultaneously with the victim or beforehand, there is no
 > principal course, because another support arises. In an army and similar
 > undertakings, all are connected with the course like the doer because they
 > participate in one common operation.
-
-The Bhāṣya explains that the later support did not undertake the preparation,
-so the completed course is not transferred to it. By contrast, participants
-in a common killing-project are connected with the course like its immediate
-performer because they function as mutual instigators.
-
-The arranged-killing scenario, the later-support reasoning, the collective
-examples, and mutual-instigation analysis are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -239,6 +230,14 @@ settled refusal of the killing-project
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya explains that the later support did not undertake the preparation,
+so the completed course is not transferred to it. By contrast, participants
+in a common killing-project are connected with the course like its immediate
+performer because they function as mutual instigators.
+
+The arranged-killing scenario, the later-support reasoning, the collective
+examples, and mutual-instigation analysis are supplied by the Bhāṣya.
+
 **Agency is not identical with physical execution**
 
 The verse refuses a “whose hand did it?” reduction. In a shared operation,
@@ -278,8 +277,7 @@ related examples, mutual instigation, and stringent refusal exception belong
 to the Bhāṣya; the formulation in terms of two forms of Practical Unity is the
 project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Causal efficacy by itself does not determine who bears the principal karmic
 > completion. Across time, attribution is restricted when the support that
 > initiated the project has ceased before the defining result occurs. Across

@@ -83,29 +83,16 @@ universalized beyond that context.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Volition occurs simultaneously with up to eight unwholesome Courses of
 > Action; with up to ten wholesome Courses of Action, but not with one, eight,
 > or five.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Volition occurs simultaneously with up to eight unwholesome Courses of
 > Action; with up to ten wholesome Courses of Action, but not with one, eight,
 > or five.
->
-> The Bhāṣya specifies that the unwholesome count ranges from one to eight,
-> depending on which mental Course of Action is manifest and which bodily or
-> verbal Courses of Action reach completion together. In the principal
-> wholesome conjunction scheme, one volition can accompany two, three, four,
-> six, seven, nine, or ten wholesome Courses of Action; totals of one, five,
-> and eight are excluded there. Outside that restraint-based scheme, however,
-> the Bhāṣya explicitly permits one, five, or eight through other configurations
-> of undertaken abstention.
-
-The constructed numerical cases, general-rule/exception analysis, and final
-contextual qualification are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -259,6 +246,17 @@ conditions govern joint possibility.
 
 ## 9. Interpretive Note
 
+**Translation note.** The constructed numerical cases, general-rule/exception
+analysis, and final contextual qualification are supplied by the Bhāṣya. The
+Bhāṣya specifies that the unwholesome count ranges from one to eight,
+depending on which mental Course of Action is manifest and which bodily or
+verbal Courses of Action reach completion together. In the principal wholesome
+conjunction scheme, one volition can accompany two, three, four, six, seven,
+nine, or ten wholesome Courses of Action; totals of one, five, and eight are
+excluded there. Outside that restraint-based scheme, however, the Bhāṣya
+explicitly permits one, five, or eight through other configurations of
+undertaken abstention.
+
 **One event, many determinations**
 
 The verse prevents the equation:
@@ -298,8 +296,7 @@ restraint configurations, and qualification of the exclusions belong to the
 Bhāṣya; the explicit constrained-compossibility formulation is the project
 synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > One volition can organize several determinate Courses of Action at once. Yet
 > individually possible Courses of Action do not thereby form an arbitrary
 > possible whole: their co-presence depends upon mental orientation, Form-based

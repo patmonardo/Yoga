@@ -51,7 +51,7 @@ bhettā
 > is endowed with it.
 
 The Bhāṣya specifies that this false speech co-arises with the Saṅgha
-division as verbal manifestation and non-disclosing continuity. It is the
+division as verbal disclosure and non-disclosing continuity. It is the
 divider's action, not the Saṅgha's resulting state of non-concord.
 
 **Maturation and increased pains**
@@ -75,25 +75,16 @@ causes of pain.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The culpable action associated with that is false speech, and the divider
 > is endowed with it. He undergoes maturation in Avīci for a kalpa; with
 > additional actions of *ānantarya*, the pains are greater.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The culpable action that produces the Saṅgha's division is false speech,
-> and it is this verbal action—not the community's condition of non-concord—
-> that belongs to the divider. More precisely, it comprises verbal
-> manifestation and non-disclosing continuity co-arising with the division.
-> This action matures in the great Avīci hell for one intermediate kalpa.
-> When additional actions of *ānantarya* are present, the support becomes
-> denser and more sensitive, and the causes of pain become more numerous and
-> more intense.
-
-The manifestation/non-disclosing-continuity analysis, intermediate-kalpa
-duration, and explanation of increased pain are Bhāṣya determinations.
+> The culpable action in Saṅgha division is false speech, and the divider is
+> endowed with it. He undergoes maturation in Avīci for a kalpa; with additional
+> actions of immediate retribution, the pains are greater.
 
 ## 6. Philosophical Translation
 
@@ -105,7 +96,7 @@ duration, and explanation of increased pain are Bhāṣya determinations.
   Saṅgha division.
 - **False speech** (*mṛṣāvāda*) — the divider's verbal action in this case.
 - **Divider** (*bhettā*) — the agent who possesses the culpable speech.
-- **Verbal manifestation** (*vāg-vijñapti*) and **non-disclosing continuity**
+- **Verbal disclosure** (*vāg-vijñapti*) and **non-disclosing continuity**
   (*vāg-avijñapti*) — the two verbal factors the Bhāṣya says arise together
   with the Saṅgha division. Keep this pair distinct from the resulting
   non-concord.
@@ -151,6 +142,9 @@ more ānantarya actions
 
 ## 9. Interpretive Note
 
+**Translation note.** The disclosure/non-disclosing-continuity analysis, intermediate-kalpa
+duration, and explanation of increased pain are Bhāṣya determinations. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: The culpable action that produces the Saṅgha's division is false speech, and it is this verbal action—not the community's condition of non-concord— that belongs to the divider. More precisely, it comprises verbal disclosure and non-disclosing continuity co-arising with the division. This action matures in the great Avīci hell for one intermediate kalpa. When additional actions of *ānantarya* are present, the support becomes denser and more sensitive, and the causes of pain become more numerous and more intense.
+
 VAK 4.98 assigns the resulting non-concord to the Saṅgha. VAK 4.99
 completes the attribution by assigning culpable false speech to the
 divider, then describes the maturation of that action. The Bhāṣya's
@@ -158,21 +152,19 @@ account of multiple actions intensifying the painful support resolves the
 question of how several *ānantarya* actions relate without treating each
 as a separate intervening birth.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The divider's culpable speech belongs to the agent; the non-concord it
 > produces belongs to the Saṅgha; the later maturation belongs to the
 > divider's continuum. One causal course links these distinct determinations
 > without collapsing action, collective result, and experienced maturation
 > into one bearer or one moment.
-
 ## 10. OWL++ Seed
 
 ```text
 Class: Action
 Class: FalseSpeechAction
   SubClassOf: Action
-Class: VerbalManifestation
+Class: VerbalDisclosure
 Class: NonDisclosingContinuity
 Class: SaṅghaDivision
 Class: NonConcord
@@ -191,7 +183,7 @@ ObjectProperty: maturesAs
 Rule: DividerCulpableAction
   action = FalseSpeechAction
   performedBy = Divider
-  factors = {VerbalManifestation, NonDisclosingContinuity}
+  factors = {VerbalDisclosure, NonDisclosingContinuity}
 Rule: SaṅghaDivisionMaturation
   action = FalseSpeechAction
   maturesAs = AviciMaturation

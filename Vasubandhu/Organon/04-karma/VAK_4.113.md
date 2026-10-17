@@ -72,27 +72,16 @@ or verbal action is brought forth.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Giving is that through which something is given from the wish to honor
 > or benefit others. It is bodily or verbal action together with its
 > activation, and it has abundant enjoyment as its result.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Giving is that through which something is given from the wish to honor
-> or benefit others. It is bodily or verbal action together with its
-> activation, and it has abundant enjoyment as its result. A thing may
-> also be handed over through passion and other afflictions, but the
-> Bhāṣya excludes those cases from the giving defined here. It explains
-> the activation as a cluster of factors that brings the action into
-> operation. A cited verse says that when a person gives a personal
-> resource with a wholesome Mind, the wholesome Bases present at that
-> moment are called giving.
-
-The distinction between thing given and giving-action, the motive
-qualification, the activating cluster, the cited verse, and the
-abundant-enjoyment result are supplied or explained by the Bhāṣya.
+> Giving is that through which something is given from the wish to honor or benefit
+> others. It is bodily or verbal action together with its activation, and it has
+> abundant enjoyment as its result.
 
 ## 6. Philosophical Translation
 
@@ -145,6 +134,10 @@ thing alone.
 
 ## 9. Interpretive Note
 
+**Translation note.** The distinction between thing given and giving-action, the motive
+qualification, the activating cluster, the cited verse, and the
+abundant-enjoyment result are supplied or explained by the Bhāṣya. The informed translation also included: A thing may also be handed over through passion and other afflictions, but the Bhāṣya excludes those cases from the giving defined here. It explains the activation as a cluster of factors that brings the action into operation. A cited verse says that when a person gives a personal resource with a wholesome Mind, the wholesome Bases present at that moment are called giving.
+
 The preceding verse explicitly names *cetanā* in its analysis of
 meritorious activity. This verse does not: its definition names the wish
 to honor or benefit, bodily or verbal action, and an activating cluster.
@@ -164,8 +157,7 @@ relative-correlative syntax. The cited verse has `tat kṣaṇaṃ` as two
 words. The study stops at the colon introducing the next topic at
 `[268|20]`; 4.114 begins at `[268|21]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Giving is not merely the resource that changes hands, nor is it any
 > transfer regardless of motive. The Bhāṣya defines it through a
 > recipient-directed wish, bodily or verbal action, and the factors that

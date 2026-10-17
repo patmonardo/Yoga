@@ -2,15 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-prātimokṣasthito nityam atyāgād vartamānayā /
-avijñaptyānvitaḥ pūrvāt kṣaṇād ūrdhvam atītayā // 4.19 //
-```
+> prātimokṣasthito nityam atyāgād vartamānayā /
+> avijñaptyānvitaḥ pūrvāt kṣaṇād ūrdhvam atītayā // 4.19 //
 
 > One established in prātimokṣa restraint is continually endowed with present
-> avijñapti for as long as that restraint has not been relinquished. From the
-> moment following the first, he is also endowed with past avijñapti, likewise
-> so long as the restraint has not been relinquished.
+> *avijñapti* while it has not been abandoned; after the first moment, with past
+> *avijñapti* as well.
 
 The complete running unit for this verse extends from [209|04] through
 [209|11–12] in `Vasubandhu/Sources/kosabhasya.txt`. The next sentence

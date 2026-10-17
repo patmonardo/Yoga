@@ -2,15 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-tiṣyastotreṇa vīryasya dhīsamādhyor anantaram /
-puṇyaṃ kriyātha tadvastu trayaṃ karmapathā yathā // 4.112 //
-```
+> tiṣyastotreṇa vīryasya dhīsamādhyor anantaram /
+> puṇyaṃ kriyātha tadvastu trayaṃ karmapathā yathā // 4.112 //
 
-> Through praise of Tiṣya, vigor was completed; the Science of Principles
-> and concentration were completed immediately before awakening. Then, as
-> with paths of karma, the triad is merit, activity, and basis according
-> to function.
+> Through praise of Tiṣya, vigor is completed; immediately before awakening,
+> discriminative comprehension and concentration are completed. Then, as with paths
+> of karma, the triad is merit, activity, and basis according to function.
 
 The repository joins both lines as 4.112, while the Bhāṣya source places
 the Tiṣya and perfection material before the explicit verse marker on the

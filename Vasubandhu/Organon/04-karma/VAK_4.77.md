@@ -74,31 +74,16 @@ desire as such.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Others say that afflicted speech other than these is disordered
 > discourse, as with flattering talk, song, drama, and corrupt treatises.
 > Covetousness, however, is wrongful longing for another's possession.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Others say that afflicted speech other than these is disordered
-> discourse, as with flattering talk, song, drama, and corrupt treatises.
-> Covetousness, however, is wrongful longing for another's possession.
->
-> The residual account excludes false, divisive, and harsh speech from the
-> fourth class. The examples show that expressive forms are not intrinsically
-> unwholesome: their classification depends on their afflictive orientation,
-> and some afflicted talk may fail to reach karmapatha status. One account
-> defines covetousness as the wrongful wish to make another's possession one's
-> own by force or stratagem. Other views call all desire-realm craving
-> `abhidhyā`, while another holds that not every instance of this broad class
-> reaches karmapatha status: the courses select gross and decisive forms of
-> misconduct. It is not desire in general under every account, and it is
-> distinct from bodily theft.
-
-The examples, song qualification, non-karmapatha chatter, and competing
-extensions of `abhidhyā` are supplied by the Bhāṣya.
+> Others say that afflicted speech other than these is disordered discourse,
+> as with flattering talk, song, drama, and corrupt treatises. Covetousness,
+> however, is wrongful longing for another's possession.
 
 ## 6. Philosophical Translation
 
@@ -243,6 +228,19 @@ principal forms from a wider conduct-field.
 
 ## 9. Interpretive Note
 
+**Translation note.** The examples, song qualification, non-karmapatha
+chatter, and competing extensions of `abhidhyā` are supplied by the Bhāṣya.
+The residual account excludes false, divisive, and harsh speech from the
+fourth class. The examples show that expressive forms are not intrinsically
+unwholesome: their classification depends on their afflictive orientation, and
+some afflicted talk may fail to reach karmapatha status. One account defines
+covetousness as the wrongful wish to make another's possession one's own by
+force or stratagem. Other views call all desire-realm craving `abhidhyā`,
+while another holds that not every instance of this broad class reaches
+karmapatha status: the courses select gross and decisive forms of misconduct.
+It is not desire in general under every account, and it is distinct from
+bodily theft.
+
 **A mental course is already practical**
 
 `Abhidhyā` is not an inert private item hidden inside a subject. It has an
@@ -277,8 +275,7 @@ song qualification, three extensions of `abhidhyā`, and selection principle
 belong to the Bhāṣya; the projected-relational-transition analysis is the
 project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Formal coherence does not guarantee wholesome discourse. Speech may possess
 > grammar, rhythm, dramatic organization, or systematic argument while its
 > practical orientation remains afflicted. Likewise, desire becomes the

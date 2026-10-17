@@ -2,16 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-buddhasaṃghakarān dharmān aśaikṣān ubhayāṃś ca saḥ /
-nirvāṇaṃ ceti śaraṇaṃ yo yāti śaraṇatrayam // 4.32 //
-```
+> buddhasaṃghakarān dharmān aśaikṣān ubhayāṃś ca saḥ /
+> nirvāṇaṃ ceti śaraṇaṃ yo yāti śaraṇatrayam // 4.32 //
 
-> Whoever goes to the Three Refuges takes refuge in the aśaikṣa dharmas that
-> constitute one as a Buddha, especially knowledge of exhaustion and its
-> associated factors; in the śaikṣa and aśaikṣa Path-dharmas through which the
-> eight noble persons constitute the Saṅgha; and in nirvāṇa, specifically
-> cessation through discriminative comprehension, as the Dharma-refuge.
+> Whoever goes to the three refuges takes refuge in the aśaikṣa qualities that
+> constitute a Buddha, in both kinds of qualities that constitute the Saṅgha,
+> and in nirvāṇa.
 
 The natural unit starts with the question about restraint and refuge
 at [216|13–14] and ends with refuge as the gateway to undertaking

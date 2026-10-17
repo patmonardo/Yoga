@@ -27,7 +27,7 @@ kārikā reading printed above.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `prātimokṣasthitaḥ` | nominative masculine singular compound | one established in prātimokṣa restraint |
 | `nityam` | adverbial accusative | continually; throughout the relevant duration |
@@ -125,21 +125,16 @@ atyāgāt
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > One established in prātimokṣa restraint is continually endowed with present
 > avijñapti because it has not been abandoned; after the first moment, he is
 > also endowed with past avijñapti.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > One established in prātimokṣa restraint is continually endowed with present
-> avijñapti for as long as that restraint has not been relinquished. From the
-> moment following the first, he is also endowed with past avijñapti, likewise
-> so long as the restraint has not been relinquished.
-
-The repetition of the non-abandonment condition in English makes explicit the
-scope stated by the Bhāṣya.
+> *avijñapti* while it has not been abandoned; after the first moment, with past
+> *avijñapti* as well.
 
 ## 6. Philosophical Translation
 
@@ -247,6 +242,9 @@ through ordered temporal predication.
 
 ## 9. Interpretive Note
 
+**Translation note.** The repetition of the non-abandonment condition in English makes explicit the
+scope stated by the Bhāṣya.
+
 **The vow is a temporal rule**
 
 VAK 4.17 established that prātimokṣa restraint does not merely follow the
@@ -325,8 +323,7 @@ This is an Organon development. Vasubandhu’s explicit determination remains:
 continuous possession of present avijñapti, and possession of past avijñapti
 after the first moment, all governed by `atyāga`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The bearer of prātimokṣa restraint continuously possesses avijñapti in its
 > present mode while the restraint remains un-abandoned. At the first moment,
 > only present avijñapti is possessed. Thereafter each current occurrence is

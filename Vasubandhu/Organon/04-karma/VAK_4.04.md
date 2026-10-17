@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> त्रिविधामलरूपोक्तिवृद्ध्यकुर्वत्पथादिभिः ।
->
-> क्षणादूर्ध्वमविज्ञप्तिः कामाप्तातीतभूतजा ॥ ४.४ ॥
+```sanskrit
+त्रिविधामलरूपोक्तिवृद्ध्यकुर्वत्पथादिभिः ।
+क्षणादूर्ध्वमविज्ञप्तिः कामाप्तातीतभूतजा ॥ ४.४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> trividhāmalarūpoktivṛddhyakurvatpathādibhiḥ /
->
-> kṣaṇād ūrdhvam avijñaptiḥ kāmāptātītabhūtajā // 4.4 //
+```text
+trividhāmalarūpoktivṛddhyakurvatpathādibhiḥ /
+kṣaṇād ūrdhvam avijñaptiḥ kāmāptātītabhūtajā // 4.4 //
+```
 
 The first pāda is a compressed Vaibhāṣika proof-dossier for the real existence
 of `avijñapti`. It invokes scriptural classifications of Form, the continuing
@@ -19,7 +21,7 @@ performing the final deed, and further related grounds. The Bhāṣya then answe
 this dossier at length from Sautrāntika and Yogācāra positions.
 
 The second pāda turns from proof to material genealogy. It specifies how
-desire-domain `avijñapti` is generated after its first moment.
+desire realm `avijñapti` is generated after its first moment.
 
 ## 3. Lexical Analysis
 
@@ -37,7 +39,7 @@ desire-domain `avijñapti` is generated after its first moment.
 | kṣaṇāt | ablative singular | after or beyond the moment |
 | ūrdhvam | adverb | subsequently; from then onward |
 | avijñaptiḥ | nominative feminine singular | non-disclosing continuity; its status is disputed in the Bhāṣya |
-| kāmāpta | compound adjective | belonging to or included in the desire domain |
+| kāmāpta | compound adjective | belonging to or included in the desire realm |
 | atīta | compound member | past |
 | bhūta | compound member | Element; `mahābhūta` is supplied by the Bhāṣya |
 | jā | feminine nominative singular compound ending | born from / generated from |
@@ -57,7 +59,7 @@ The final compound is likewise commentary-resolved:
 
 ```text
 kāmāpta avijñapti
-    desire-domain avijñapti
+    desire realm avijñapti
 
 atīta-mahābhūta-jā
     generated from past Great Elements
@@ -69,34 +71,27 @@ The first pāda is an instrumental phrase listing grounds in `-uktyā`, `-vṛdd
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > [Its existence is argued] from the teaching of threefold and uncontaminated
 > Form, from increase, from the action-path of one not personally acting, and
-> from further grounds. Beyond the first moment, desire-domain `avijñapti` is
+> from further grounds. Beyond the first moment, desire realm `avijñapti` is
 > born from past Great Elements.
 
 The bracketed conclusion, the separation of the two `rūpa` teachings, the
 reference of `patha` to an action-path, and the expansion of `bhūta` to great
 material determinations are supplied by the Bhāṣya.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The Vaibhāṣikas argue for a distinct real Form Dharma from
-> the scriptural teaching of three classes of Form and uncontaminated Form,
-> from the continued increase of merit, from completion of an action-course
-> when its instigator does not personally perform the final deed, and from
-> further considerations such as restraint and the completeness of the Noble
-> Eightfold Path. Beyond its first moment, desire-domain `avijñapti` is
-> generated from past Great Elements as its producing basis, while present
-> bodily Great Elements supply its continuing support.
-
-The attribution to the Vaibhāṣikas, the further examples, and the distinction
-between producing and sustaining material bases are commentary determinations.
+> The Vaibhāṣikas establish *avijñapti* as a distinct real Form Dharma from
+> teachings on three kinds of Form and on uncontaminated Form, the increase of
+> merit, action-paths completed through another's agency, and other grounds.
+> Beyond its first moment, desire-realm *avijñapti* is born from past Great
+> Elements.
 
 ## 6. Philosophical Translation
 
-> [Existence is argued] from the teaching of threefold and uncontaminated Form, from increase, from the action-path of one not personally acting, and from further grounds. Beyond the first moment, desire-domain non-disclosing continuity is born from past Great Elements.
+> [Existence is argued] from the teaching of threefold and uncontaminated Form, from increase, from the action-path of one not personally acting, and from further grounds. Beyond the first moment, desire realm non-disclosing continuity is born from past Great Elements.
 
 ## 7. Technical Vocabulary
 
@@ -145,13 +140,13 @@ An instrumental series names the stated grounds; the second pāda predicates des
 
 ## 9. Interpretive Note
 
+**Translation note.** The attribution to the Vaibhāṣikas is explicit in the Bhāṣya, which argues for *avijñapti* as a distinct real Form Dharma. Further examples include restraint and the completeness of the Noble Eightfold Path. In the material genealogy, the Bhāṣya distinguishes past Great Elements as the producing basis from present bodily Great Elements as continuing support.
+
 The Bhāṣya presents two explanations of continuity. The Vaibhāṣikas defend
 `avijñapti` as a distinct real Form Dharma; the Sautrāntikas explain the
 cited cases through a specific transformation of the continuum. The Path,
 restraint, merit, and commissioned-action examples are arguments within this
 dispute, not a general claim that one account applies to every kind of action.
-
-### Former Philosophical Translation
 
 ### Bhāṣya-Based Synthesis
 

@@ -2,18 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-yadviraktaḥ sthiro bālas tatra notpadyavedyakṛt /
-nānyavedyakṛd apy āryaḥ kāme 'gre vāsthiro 'pi na // 4.52 //
-```
+> yadviraktaḥ sthiro bālas tatra notpadyavedyakṛt /
+> nānyavedyakṛd apy āryaḥ kāme 'gre vāsthiro 'pi na // 4.52 //
 
-> An ordinary person who is stably detached from a level produces no karma
-> to be experienced in the next birth in that level. A stable noble person
-> produces neither next-birth-result nor later-life karma for a level from
-> which that person is detached, because return to the lower level is no
-> longer possible.
-> Even a noble person liable to fall back cannot produce those future karmas
-> with respect to the Desire Realm or the summit of existence.
+> A stable ordinary person detached from a level produces no karma to be
+> experienced there in the next birth. A stable noble person produces neither
+> next-birth nor later-life karma for that level; even an unstable noble person
+> produces no such karma with respect to the Desire Realm or the summit.
 
 The unit begins at [230|26] and ends with a forward reference at
 [231|07–08]. The question about karma in the intermediate existence

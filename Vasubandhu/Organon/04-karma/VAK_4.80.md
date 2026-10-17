@@ -97,33 +97,18 @@ result.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > A woman or a man whose disposition is governed by view severs them; that
 > severance is non-endowment. Reconnection occurs through doubt or the view
 > that karmic ground and result exist, but not here for one who has committed
 > an immediate-retribution action.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > A woman or a man whose disposition is governed by view severs them; that
 > severance is non-endowment. Reconnection occurs through doubt or the view
 > that karmic ground and result exist, but not here for one who has committed
 > an immediate-retribution action.
->
-> The Bhāṣya specifies that the view-governed disposition must be firmly
-> established; a person governed by unstable craving does not complete this
-> severance. Non-endowment arises when acquisition of the wholesome roots no
-> longer recurs and non-acquisition arises. Doubt about karmic ground and
-> result breaks the certainty of denial; the view that karmic ground and
-> result exist is glossed as right view. All nine grades reconnect together,
-> although their manifestation returns successively. An immediate-retribution
-> actor cannot reconnect in the present life, but reconnection is not excluded
-> thereafter.
-
-The craving/view contrast, technical acquisition account, simultaneous
-reconnection, gradual manifestation, and temporal scope of the exception are
-supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -281,6 +266,18 @@ determined by completed action.
 
 ## 9. Interpretive Note
 
+**Translation note.** The craving/view contrast, technical acquisition
+account, simultaneous reconnection, gradual manifestation, and temporal scope
+of the exception are supplied by the Bhāṣya. The Bhāṣya specifies that the
+view-governed disposition must be firmly established; a person governed by
+unstable craving does not complete this severance. Non-endowment arises when
+acquisition of the wholesome roots no longer recurs and non-acquisition
+arises. Doubt about karmic ground and result breaks the certainty of denial;
+the view that karmic ground and result exist is glossed as right view. All
+nine grades reconnect together, although their manifestation returns
+successively. An immediate-retribution actor cannot reconnect in the present
+life, but reconnection is not excluded thereafter.
+
 **Fixed view and unstable craving**
 
 The Bhāṣya's contrast is not praise of view as such. It identifies the greater
@@ -313,8 +310,7 @@ account, conditions of reconnection, nine-grade asymmetry, and `ānantarya`
 exception belong to the Bhāṣya; the distinction between restored capacity and
 progressive exercise is the project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Radical ethical collapse is a loss of operative endowment, not the
 > annihilation of a permanent entity. Recovery begins when the governing
 > certainty of denial is destabilized: doubt can reopen the practical field

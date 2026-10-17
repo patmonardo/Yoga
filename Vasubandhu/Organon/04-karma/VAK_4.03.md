@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> न कस्यचिदहेतोः स्याद्धेतुः स्याच्च विनाशकः ।
->
-> द्विग्राह्यं स्यान्न चाणौ तद्वाग्विज्ञप्तिस्तु वाग्ध्वनिः ॥ ४.३ ॥
+```sanskrit
+न कस्यचिदहेतोः स्याद्धेतुः स्याच्च विनाशकः ।
+द्विग्राह्यं स्यान्न चाणौ तद्वाग्विज्ञप्तिस्तु वाग्ध्वनिः ॥ ४.३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> na kasyacid ahetoḥ syād hetuḥ syāc ca vināśakaḥ /
->
-> dvigrāhyaṃ syān na cāṇau tad vāgvijñaptis tu vāgdhvaniḥ // 4.3 //
+```text
+na kasyacid ahetoḥ syād hetuḥ syāc ca vināśakaḥ /
+dvigrāhyaṃ syān na cāṇau tad vāgvijñaptis tu vāgdhvaniḥ // 4.3 //
+```
 
 This unusually compressed verse completes the argument against a separate
 cause of destruction, turns the resulting momentariness against enduring
@@ -71,8 +73,7 @@ The first two clauses use the optative `syāt` with `ahetoḥ` and `hetuḥ ... 
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > For nothing would [destruction] be causeless, and the cause would become a
 > destroyer. [Configuration] would be apprehensible by two [faculties], and it
 > does not exist in a single atom. Verbal manifestation, however, is vocal
@@ -81,19 +82,12 @@ The first two clauses use the optative `syāt` with `ahetoḥ` and `hetuḥ ... 
 The bracketed subjects and the conditional force of the first sentence are
 supplied from the continuous Bhāṣya argument.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > If destruction required a cause as arising does, no destruction would be
-> causeless; yet momentary cognitions, sounds, and flames cease without a
-> separate destroyer, and a productive cause would otherwise have to function
-> as a destroyer. Moreover, if bodily configuration were an independently real
-> material determination, the same form would be directly apprehensible by
-> both sight and touch, although no such configuration exists within a single
-> atom. Verbal manifestation, by contrast, is speech-sound.
-
-The interpretation of `dvigrāhya` as apprehension by eye and bodily faculty,
-the inference from atomic absence, and the formulation in terms of independent
-material reality are Bhāṣya determinations.
+> causeless, and the productive cause would become a destroyer. Configuration
+> would be apprehended by sight and touch, yet is absent from a single atom.
+> Verbal manifestation, however, is speech-sound.
 
 ## 6. Philosophical Translation
 
@@ -147,13 +141,13 @@ The verse moves from its two clauses about cause and destruction, to a predicati
 
 ## 9. Interpretive Note
 
+**Translation note.** The conditional premise—that destruction would require a cause as arising does—and the examples of momentary cognition, sound, and flame ceasing without a separate destroyer are supplied by the Bhāṣya. It resolves *dvigrāhya* as apprehension by eye and bodily faculty, infers from configuration's absence in one atom, and frames the Sautrāntika challenge as a denial of an independently real material entity.
+
 The Bhāṣya preserves distinct positions rather than giving one unqualified
 account of configuration: the Sautrāntikas treat it as a grounded
 designation, while the Vaibhāṣikas retain it as real. It also distinguishes
 planning Cetanā from operative Cetanā in its account of bodily action.
 `Avijñapti` is mentioned but its further dispute is deferred to 4.04.
-
-### Former Philosophical Translation
 
 ### Bhāṣya-Based Synthesis
 

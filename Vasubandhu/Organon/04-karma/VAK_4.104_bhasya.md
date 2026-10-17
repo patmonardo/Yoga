@@ -2,16 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-buddhe na tāḍanecchasya prahārān nordhvam arhati /
-nānantaryaprayuktasya vairāgyaphalasaṃbhavaḥ // 4.104 //
-```
+> buddhe na tāḍanecchasya prahārān nordhvam arhati /
+> nānantaryaprayuktasya vairāgyaphalasaṃbhavaḥ // 4.104 //
 
-> Intention merely to strike in the Buddha case does not produce the
-> immediate-result classification; nor does an earlier action against a
-> non-arhat become an arhat-killing action if the person becomes an arhat
-> only afterward. For one engaged in an immediate-result action, the
-> possibility of dispassion or a Path fruit does not arise.
+> In the Buddha case, one who intends only to strike [does not incur immediate
+> retribution]; nor does an earlier blow against a non-arhat become an
+> arhat-killing action if the target becomes an arhat only afterward. For one
+> engaged in immediate-retribution action, dispassion or its fruit cannot arise.
 
 ## 2. Continuous Sanskrit Witness
 

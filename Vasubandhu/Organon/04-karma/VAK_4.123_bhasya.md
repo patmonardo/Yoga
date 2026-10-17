@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dauḥśīlyataddhetvahataṃ tadvipakṣaśamāśritam /
-samāhitaṃ tu kuśalaṃ bhāvanā cittavāsanāt // 4.123 //
-```
+> dauḥśīlyataddhetvahataṃ tadvipakṣaśamāśritam /
+> samāhitaṃ tu kuśalaṃ bhāvanā cittavāsanāt // 4.123 //
 
-> Purified discipline is unharmed by misconduct and its causes, rests on
-> their counteragent and on peace. Cultivation, however, is concentrated
-> wholesomeness because it conditions Consciousness.
+> Purified discipline is unharmed by misconduct and its causes, rests on their
+> counteragent and on peace. Cultivation, however, is concentrated wholesomeness
+> because it conditions consciousness.
 
 The first hemistich was quoted and explained with 4.122. The local
 commentary begins by defining the second hemistich.
@@ -66,7 +64,7 @@ a substance absorbing fragrance.
 The first hemistich's four qualities belong to the preceding Bhāṣya unit
 on 4.122. Keep them distinct from this local explanation of cultivation.
 
-## 5. Textual and Scope Notes
+## 5. Review Status
 
 The Sanskrit phrase `samādhisvabhāvaṃ sahabhū yat` is retained in its
 compact form and translated as “what has the nature of concentration and

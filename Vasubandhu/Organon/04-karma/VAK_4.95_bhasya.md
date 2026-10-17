@@ -2,18 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ekaṃ janmākṣipaty ekam anekaṃ paripūrakam /
-nākṣepike samāpattī acitte prāptayo na ca // 4.95 //
-```
+> ekaṃ janmākṣipaty ekam anekaṃ paripūrakam /
+> nākṣepike samāpattī acitte prāptayo na ca // 4.95 //
 
-### Bhāṣya-informed study translation
-
-> One action projects one `nikāyasabhāga`, one common class of beings, and
-> does not project many such births. Many actions may project one class
-> together, rather than projecting it in fragments. Many completing actions
-> fill out that birth's particular features. The two non-mental attainments
-> do not project a birth-class, nor do acquisitions.
+> One action projects one birth; many actions complete it. The two non-mental
+> attainments do not project birth, nor do acquisitions.
 
 ## 2. Continuous Sanskrit Witness
 

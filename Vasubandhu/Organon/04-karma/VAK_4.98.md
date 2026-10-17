@@ -65,22 +65,14 @@ is the Saṅgha, not the agent who caused the division.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > But Saṅgha division has non-concord as its nature; it is a dissociated,
 > non-afflicted, indeterminate Dharma. The Saṅgha is endowed with it.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The division itself must be distinguished from the action that produces
-> it. Strictly considered, Saṅgha division is the condition of non-concord,
-> a conditioned formation dissociated from consciousness and classified as
-> non-afflicted and indeterminate. This resulting condition belongs to the
-> Saṅgha that has been divided, not to the agent who divided it.
-
-The causal use of “Saṅgha division,” the classification of non-concord, and
-the explicit distinction between divider and bearer are supplied by the
-Bhāṣya.
+> Saṅgha division has non-concord as its nature; it is a dissociated,
+> non-afflicted, indeterminate Dharma. The Saṅgha is endowed with it.
 
 ## 6. Philosophical Translation
 
@@ -133,19 +125,21 @@ condition remain distinct.
 
 ## 9. Interpretive Note
 
+**Translation note.** The causal use of “Saṅgha division,” the classification of non-concord, and
+the explicit distinction between divider and bearer are supplied by the
+Bhāṣya. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: The division itself must be distinguished from the action that produces it. Strictly considered, Saṅgha division is the condition of non-concord, a conditioned formation dissociated from consciousness and classified as non-afflicted and indeterminate. This resulting condition belongs to the Saṅgha that has been divided, not to the agent who divided it.
+
 The verse gives a precise attribution rule: the divider performs the
 causal action, while the Saṅgha is endowed with the resulting non-concord.
 The result's classification as non-afflicted and indeterminate is not a
 reclassification of the action that produced it. The Bhāṣya thereby
 separates causal agency, conditioned result, and bearer.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The cause of a division and the divided condition are distinct
 > determinations. The action belongs to the divider; the resulting
 > non-concord is borne by the Saṅgha. Naming the cause by its result does
 > not make them one and the same Dharma.
-
 ## 10. OWL++ Seed
 
 ```text

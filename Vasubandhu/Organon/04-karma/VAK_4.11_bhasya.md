@@ -5,11 +5,10 @@
 > pravartakaṃ dṛṣṭiheyaṃ vijñānam ubhayaṃ punaḥ /
 > mānasaṃ bhāvanāheyaṃ pañcakaṃ tv anuvartakam // 4.11 //
 
-> Cognition abandoned by seeing initiates manifestation but does not
-> accompany its performance. Mind-Cognition abandoned through cultivation
-> can both initiate and accompany manifestation. The five sensory
-> Cognitions accompany it only. The Bhāṣya adds uncontaminated Cognition as
-> neither initiating nor accompanying.
+
+> Cognition abandoned by seeing is initiating. Mind-Cognition abandoned through
+> cultivation does both; the five sensory Cognitions, however, are accompanying
+> only.
 
 The Bhāṣya completes the distribution by adding uncontaminated Cognition as
 neither initiating nor accompanying. The kārikā study is `VAK_4.11.md`.

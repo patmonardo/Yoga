@@ -87,28 +87,16 @@ alternative residual definition begins in VAK 4.77.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Divisive speech is the utterance of one whose consciousness is afflicted,
 > directed toward dividing others. Harsh speech is disagreeable speech.
 > All afflicted speech is disordered discourse.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Divisive speech is the utterance of one whose consciousness is afflicted,
-> directed toward dividing others. Harsh speech is disagreeable speech.
-> All afflicted speech is disordered discourse.
->
-> The Bhāṣya specifies that divisive speech aims to produce estrangement and
-> carries forward the conditions that the recipient understand the meaning
-> and that the intended person not be mistaken. Those conditions also govern
-> harsh speech, which is afflicted, disagreeable address understood by the
-> person actually intended. Here the fourth course is defined broadly as all
-> afflicted utterance; the alternative residual definition begins in VAK 4.77.
-
-The aimed estrangement, inherited comprehension and non-mistake conditions,
-the definition of the fourth course as all afflicted speech are supplied
-by the Bhāṣya.
+> directed toward dividing others. Harsh speech is disagreeable speech. All
+> afflicted speech is disordered discourse.
 
 ## 6. Philosophical Translation
 
@@ -199,6 +187,16 @@ present source unit.
 
 ## 9. Interpretive Note
 
+**Translation note.** The aimed estrangement, inherited comprehension and non-
+mistake conditions, the definition of the fourth course as all afflicted
+speech are supplied by the Bhāṣya. The Bhāṣya specifies that divisive speech
+aims to produce estrangement and carries forward the conditions that the
+recipient understand the meaning and that the intended person not be mistaken.
+Those conditions also govern harsh speech, which is afflicted, disagreeable
+address understood by the person actually intended. Here the fourth course is
+defined broadly as all afflicted utterance; the alternative residual
+definition begins in VAK 4.77.
+
 **Speech acts upon relations**
 
 The verbal courses cannot be classified through propositional truth alone.
@@ -233,8 +231,7 @@ completion-conditions, and broad fourth-course classification belong to the
 Bhāṣya; the four-relations model of verbal Practical Form is the project
 synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Speech becomes karmically determinate through the practical relation it
 > realizes. It may corrupt the speaker's relation to meaning through
 > falsehood, rupture relations among others through division, reach an

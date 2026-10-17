@@ -5,11 +5,10 @@
 > te tu vijñaptyavijñaptī kāyavijñaptir iṣyate /
 > saṃsthānaṃ na gatir yasmāt saṃskṛtaṃ kṣaṇikaṃ vyayāt // 4.02 //
 
-> Bodily and verbal action each possess a manifest and a non-manifest mode.
-> Bodily manifestation is held to be the body's determinate configuration
-> under the direction of consciousness, not the motion of one enduring thing
-> from place to place; for whatever is conditioned is momentary and perishes
-> where it arises.
+
+> Those two actions, bodily and verbal, each have manifestation and
+> non-disclosing continuity. Bodily manifestation is configuration, not motion,
+> because whatever is conditioned perishes in the moment it arises.
 
 `Te` resumes the bodily and verbal actions generated from Cetanā
 (volition/intending) in 4.01.

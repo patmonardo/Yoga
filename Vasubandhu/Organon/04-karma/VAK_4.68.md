@@ -95,29 +95,16 @@ unwholesome roots, not that all three must occur together.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The proximate actions, however, are manifest action; non-manifest
 > determination may or may not occur. The subsequent actions are conversely.
 > Preparation, however, is born from the three roots.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > The proximate actions are manifest action; non-manifest action may or may
 > not arise. The subsequent actions are the converse. Preparation, however,
 > is born from the three roots.
-
-The Bhāṣya explains that preparation for a bodily or verbal course is
-necessarily manifest; it generates non-manifest determination only under
-conditions of sufficiently intense afflictive force. After principal
-completion, non-manifest determination necessarily continues, while further
-manifest action occurs only if the agent continues to act in conformity with
-the completed course. Preparation for an unwholesome course may arise from
-greed, hatred, or delusion.
-
-The conditions for `avijñapti`, the exact converse distribution, and the
-restriction of the three-root claim to preparatory genesis are supplied by the
-Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -258,6 +245,18 @@ it is not imposed uniformly upon all ten.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya explains that preparation for a bodily or verbal course is
+necessarily manifest; it generates non-manifest determination only under
+conditions of sufficiently intense afflictive force. After principal
+completion, non-manifest determination necessarily continues, while further
+manifest action occurs only if the agent continues to act in conformity with
+the completed course. Preparation for an unwholesome course may arise from
+greed, hatred, or delusion.
+
+The conditions for `avijñapti`, the exact converse distribution, and the
+restriction of the three-root claim to preparatory genesis are supplied by the
+Bhāṣya.
+
 **The course as a process of determination**
 
 The ten courses of action now cease to look like a static moral list. A course
@@ -312,8 +311,7 @@ modal distribution, mental-course exception, examples, and completion problem
 belong to the Bhāṣya; the formulation as a mediated Practical Form is the
 project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A bodily or verbal course of action is a differentiated practical process.
 > Before fulfillment, it exists through action directed toward completion;
 > at fulfillment, it becomes the principal karmic course; after fulfillment,

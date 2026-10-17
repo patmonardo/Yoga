@@ -14,13 +14,6 @@ viparyayāt sucaritaṃ tadaudārikasaṃgrahāt /
 daśa karmapathā uktā yathāyogaṃ śubhāśubhāḥ // 4.66 //
 ```
 
-Word division:
-
-```iast
-viparyayāt sucaritam tat-audārika-saṃgrahāt /
-daśa karma-pathāḥ uktāḥ yathā-yogam śubha-aśubhāḥ //
-```
-
 The ten courses are selected from the broader fields of good and bad conduct;
 they are not presented as an exhaustive inventory of ethically qualified acts.
 
@@ -30,13 +23,13 @@ they are not presented as an exhaustive inventory of ethically qualified acts.
 |---|---|---|
 | `viparyayāt` | ablative masculine singular | by reversal; from the contrary |
 | `sucaritam` | nominative neuter singular | good conduct |
-| `tat` | compound member | of that wider conduct-field |
-| `audārika` | compound member | gross or salient; selected as principal here |
-| `saṃgrahāt` | ablative masculine singular | because of comprehension or selection |
+| `tat` | compound member of `tat-audārika-saṃgraha` | of that wider conduct-field |
+| `audārika` | compound member of `tat-audārika-saṃgraha` | gross or salient; selected as principal here |
+| `saṃgrahāt` | ablative masculine singular of `tat-audārika-saṃgraha` | because of comprehension or selection |
 | `daśa` | numeral | ten |
-| `karmapathāḥ` | nominative masculine plural compound | courses of karma |
+| `karma-pathāḥ` | nominative masculine plural compound | courses of karma |
 | `uktāḥ` | nominative masculine plural past participle | stated; taught |
-| `yathāyogam` | adverb | as applicable; according to the relevant relation |
+| `yathā-yogam` | adverb | as applicable; according to the relevant relation |
 | `śubha-aśubhāḥ` | nominative masculine plural | wholesome and unwholesome |
 
 **`viparyaya`**
@@ -88,30 +81,16 @@ unwholesome courses from bad conduct.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > By reversal there is good conduct. Because the principal forms of that
 > conduct are comprehended, ten courses of karma are taught, wholesome and
 > unwholesome as applicable.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Good conduct is the converse [of bad conduct]. By selecting the salient
 > forms of those conducts, ten courses of karma are taught, wholesome or
 > unwholesome as applicable.
-
-The Bhāṣya identifies good conduct as wholesome bodily, verbal, and mental
-karma together with non-covetousness, non-hostility, and right view. It explains
-that views have ethical quality as roots of beneficial or harmful conduct,
-even without a present intention to benefit or harm another. The ten courses
-select salient forms from the broader fields of good and bad conduct.
-Preparatory and subsequent phases, lesser bodily misconduct, the uncertain
-verbal example, giving, abstention from intoxicants, pleasant speech, and
-mental volition as such remain ethically significant without belonging to
-the selected ten.
-
-The positive extension of good conduct, selection criterion, and examples
-outside the ten are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -245,6 +224,19 @@ these phases more exactly.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya identifies good conduct as wholesome bodily, verbal, and mental
+karma together with non-covetousness, non-hostility, and right view. It explains
+that views have ethical quality as roots of beneficial or harmful conduct,
+even without a present intention to benefit or harm another. The ten courses
+select salient forms from the broader fields of good and bad conduct.
+Preparatory and subsequent phases, lesser bodily misconduct, the uncertain
+verbal example, giving, abstention from intoxicants, pleasant speech, and
+mental volition as such remain ethically significant without belonging to
+the selected ten.
+
+The positive extension of good conduct, selection criterion, and examples
+outside the ten are supplied by the Bhāṣya.
+
 **Transcendental Form Theory**
 
 The ten karmapathas are forms organizing the practical field:
@@ -299,8 +291,7 @@ This is the Organon contact. The positive conduct-list, question about views,
 root explanation, selection criterion, and excluded examples belong to the
 Bhāṣya; Transcendental Form Theory is the project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The complete practical field contains more determinations than its canonical
 > taxonomy. Through discrimination, the principal forms are selected as ten
 > courses that make the operative structure of wholesome and unwholesome

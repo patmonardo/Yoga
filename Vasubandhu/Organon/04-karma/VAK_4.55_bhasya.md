@@ -2,18 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dṛṣṭadharmaphalaṃ karma kṣetrāśayaviśeṣataḥ /
-tadbhūmyatyantavairāgyād vipāke niyataṃ hi yat // 4.55 //
-```
+> dṛṣṭadharmaphalaṃ karma kṣetrāśayaviśeṣataḥ /
+> tadbhūmyatyantavairāgyād vipāke niyataṃ hi yat // 4.55 //
 
-> Karma may have its result in the present life because of an exceptional
-> recipient-field or exceptional underlying intention. It may also have its
-> result in the present life through complete detachment from the level to which
-> it belongs, but only if its maturation is certain and its temporal stage is
-> not fixed. Karma fixed to another stage matures there, so complete detachment
-> from that level cannot precede it; indeterminate karma instead fails to
-> mature through complete detachment.
+> Karma may have its result in the present life because of an exceptional field
+> or intention; it may also do so through complete detachment from its level,
+> when its maturation is determinate.
 
 The unit opens with the question at [232|05] and ends at [232|15–16].
 The question about which fields guarantee a present-life result at

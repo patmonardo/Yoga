@@ -87,24 +87,16 @@ of the four dhyānas.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The volition in the ninth [uninterrupted path] is for the exhaustion of
 > black-and-white karma; that arising in the final uninterrupted paths of
 > detachment from the dhyānas is for the exhaustion of white karma.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The volition in the ninth uninterrupted path of detachment from the Desire
-> Realm abandons black-and-white wholesome karma and the ninth, final type of
-> black unwholesome karma. Volition in the final uninterrupted path for
-> detachment from each of the four dhyānas abandons white karma. Wholesome
-> karma is not destroyed in its intrinsic nature; its abandonment consists in
-> removing every remaining affliction that can take it as an object.
-
-The double target of the ninth path, fourfold dhyāna distribution, and
-relational account of wholesome abandonment are supplied by the Bhāṣya.
-
+> Volition in the ninth uninterrupted path serves to exhaust black-and-white
+> karma; volition in the final uninterrupted paths of detachment from the
+> dhyānas serves to exhaust white karma.
 ## 6. Philosophical Translation
 
 > The volition in the ninth [uninterrupted path] is for the exhaustion of black-and-white karma; that arising in the final uninterrupted paths of detachment from the dhyānas is for the exhaustion of white karma.
@@ -217,6 +209,14 @@ Finality belongs to the exhaustion of the system of relations.
 
 ## 9. Interpretive Note
 
+**Translation note.** The double target of the ninth path, fourfold dhyāna
+distribution, and relational account of wholesome abandonment are supplied by the
+Bhāṣya. The ninth uninterrupted path of detachment from the Desire Realm abandons
+both black-and-white wholesome karma and the ninth grade of black unwholesome karma.
+The final uninterrupted path for each of the four dhyānas abandons white karma.
+Wholesome karma is not destroyed in its own nature: abandonment removes the
+remaining afflictions that take it as object.
+
 **This is the exact logic of `tadabhāva`**
 
 The non-being at issue is not necessarily the non-being of the positive
@@ -261,8 +261,7 @@ This is the Organon contact. The double target, four dhyāna-paths, rejection of
 intrinsic destruction, and object-taking-affliction account belong to the
 Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The Path negates unwholesome and wholesome karmic determinations in different
 > ways. The final Desire-Realm operation completes the abandonment of the last
 > black type and the mixed wholesome field. White karma, however, is not

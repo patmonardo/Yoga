@@ -76,31 +76,17 @@ mokṣaḥ tu
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,”
 > “stainless,” and “excellent” are designations for Dharmas. Conditioned
 > wholesome Dharmas are to be cultivated; liberation, however, is
 > unsurpassed.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,”
-> “stainless,” and “excellent” are designations for Dharmas. Conditioned
-> wholesome Dharmas are to be cultivated; liberation, however, is
-> unsurpassed. The Bhāṣya calls the first three alternative designations
-> for afflicted Dharmas, and specifies “excellent” as a designation for
-> wholesome Dharmas without influx. It infers an intermediate rank between
-> inferior and excellent. Conditioned wholesome Dharmas are to be
-> practiced; the remainder are not. The unconditioned is not itself
-> practiced as a habituated cause, because it cannot be repeatedly
-> cultivated and yields no further fruit; practice is undertaken for
-> fruit. All other Dharmas have something higher than themselves, but
-> liberation is unsurpassed: nothing is more excellent than nirvāṇa,
-> which is superior to all because it is wholesome and permanent.
-
-The synonym relations, intermediate rank, account of practice, and final
-explanation of nirvāṇa are given by the Bhāṣya.
+> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,” “stainless,”
+> and “excellent” are designations for Dharmas. Conditioned wholesome Dharmas are to
+> be cultivated; liberation, however, is unsurpassed.
 
 ## 6. Philosophical Translation
 
@@ -158,6 +144,9 @@ cultivable means ≠ unsurpassed end
 
 ## 9. Interpretive Note
 
+**Translation note.** The synonym relations, intermediate rank, account of practice, and final
+explanation of nirvāṇa are given by the Bhāṣya. The informed translation also included: The Bhāṣya calls the first three alternative designations for afflicted Dharmas, and specifies “excellent” as a designation for wholesome Dharmas without influx. It infers an intermediate rank between inferior and excellent. Conditioned wholesome Dharmas are to be practiced; the remainder are not. The unconditioned is not itself practiced as a habituated cause, because it cannot be repeatedly cultivated and yields no further fruit; practice is undertaken for fruit. All other Dharmas have something higher than themselves, but liberation is unsurpassed: nothing is more excellent than nirvāṇa, which is superior to all because it is wholesome and permanent.
+
 VAK 4.127 closes the chapter by joining three questions: how Dharmas are
 evaluated, which conditioned Dharmas are to be practiced, and what stands
 unsurpassed. The opening `paryāya` keeps the first movement relational:
@@ -192,8 +181,7 @@ The verse and Bhāṣya occupy `[275|07]–[275|19]`. The colophon at
 `[275|20–21]` closes the fourth Kośa chapter, the Karmanirdeśa; the fifth
 chapter begins immediately afterward.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Affliction marks a defective and obscured mode of determination.
 > Conditioned wholesome activity is to be practiced because it has a
 > causal role; yet that practice is not self-justifying, and its

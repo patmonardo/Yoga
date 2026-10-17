@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-saṃvaraḥ sarvasattvebhyo vibhāṣā tv aṅgakāraṇaiḥ /
-asaṃvaras tu sarvebhyaḥ sarvāṅgebhyo na kāraṇaiḥ // 4.36 //
-```
+> saṃvaraḥ sarvasattvebhyo vibhāṣā tv aṅgakāraṇaiḥ /
+> asaṃvaras tu sarvebhyaḥ sarvāṅgebhyo na kāraṇaiḥ // 4.36 //
 
-> Prātimokṣa restraint necessarily extends to all beings, although its
-> karmapatha-limbs vary with the kind of restraint undertaken and its causal
-> strength may be weak, medium, or strong. According to the Vaibhāṣikas,
-> non-restraint likewise extends to all beings and includes all the relevant
-> karmapathas, but it is acquired through only one degree of mind at a time,
-> not through weak, medium, and strong minds simultaneously.
+> Restraint is acquired with respect to all beings, though its limbs and
+> causes admit distinctions. Non-restraint is acquired with respect to all
+> beings and through all limbs, but not through causes.
 
 The natural source unit runs from [220|04–05] through [222|07] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question, **how**

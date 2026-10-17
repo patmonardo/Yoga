@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-aśubhaṃ kāyakarmādi mataṃ duścaritatrayam /
-akarmāpi tv abhidhyādi manoduścaritaṃ tridhā // 4.65 //
-```
+> aśubhaṃ kāyakarmādi mataṃ duścaritatrayam /
+> akarmāpi tv abhidhyādi manoduścaritaṃ tridhā // 4.65 //
 
-> Unwholesome bodily action and the rest are held to be the three
-> kinds of bad conduct. Yet mental bad conduct beginning with
-> covetousness is threefold, even though it is not itself karma.
+> Unwholesome bodily action and the rest are held to be the three kinds of bad
+> conduct. Yet mental bad conduct beginning with covetousness is threefold,
+> even though it is not itself karma.
 
 The second half widens `manoduścarita` beyond mental karma as
 strictly identified with `cetanā`.

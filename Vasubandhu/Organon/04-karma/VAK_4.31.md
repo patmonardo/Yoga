@@ -14,12 +14,7 @@ sarve cet saṃvṛtā ekadeśakāryādayaḥ katham /
 tatpālanāt kila proktā mṛdvāditvaṃ yathā manaḥ // 4.31 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-sarve cet saṃvṛtāḥ eka-deśa-kāri-ādayaḥ katham /
-tat-pālanāt kila proktāḥ mṛdu-ādi-tvam yathā manaḥ //
-```
 
 The verse continues the dispute over whether every upāsaka necessarily
 possesses lay restraint. The reportive `kila` is essential: the explanation
@@ -28,7 +23,7 @@ answer, not as an uncontested conclusion of the Bhāṣya.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sarve` | nominative masculine plural | all; all the upāsakas under discussion |
 | `cet` | conditional particle | if |
@@ -41,6 +36,9 @@ answer, not as an uncontested conclusion of the Bhāṣya.
 | `mṛdvāditvam` | nominative or accusative neuter singular abstract compound | weakness and the remaining degrees; being weak, medium, or strong |
 | `yathā` | comparative particle | just as; in the same manner as |
 | `manaḥ` | nominative neuter singular | mind |
+
+
+**Word division (verse order).** `sarve cet saṃvṛtāḥ eka-deśa-kāri-ādayaḥ katham / tat-pālanāt kila proktāḥ mṛdu-ādi-tvam yathā manaḥ //`
 
 **`ekadeśakāryādayaḥ`**
 
@@ -157,25 +155,16 @@ not numerical division into parts.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > If all are restrained, how are there one-part practitioners and the rest?
 > They are said to be so because of preserving those [parts]; [restraint] has
 > weakness and the other degrees, just as mind does.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> If all upāsakas are established in lay restraint, how can the Buddha speak
-> of one-part, partial, predominantly practicing, and fully practicing lay
-> followers? According to the received explanation, they are designated by
-> the particular training rules they preserve. Restraint itself, however, may
-> be weak, medium, or strong, just as the mind of the person who bears it may
-> be weak, medium, or strong.
-
-The four practitioner classes and the explicit threefold scale are supplied
-by the Bhāṣya. “According to the received explanation” renders the force of
-`kila`; it prevents the first answer from being presented as Vasubandhu’s
-unqualified conclusion.
+> If all are restrained, how can there be one-part practitioners and the rest?
+> They are said to be so according to what they preserve, it is said;
+> [restraint] has degrees of weakness and the like, as does the mind.
 
 ## 6. Philosophical Translation
 
@@ -329,6 +318,11 @@ distinct.
 
 ## 9. Interpretive Note
 
+**Translation note.** The four practitioner classes and the explicit threefold scale are supplied
+by the Bhāṣya. “According to the received explanation” renders the force of
+`kila`; it prevents the first answer from being presented as Vasubandhu’s
+unqualified conclusion.
+
 **The universal form and its actuality**
 
 VAK 4.31 initially appears to support a clean Organon distinction:
@@ -398,8 +392,7 @@ This is an Organon contact point. The scriptural classifications, the
 reported answer, the `utsūtra` criticism, the institutional dispute, and the
 three degrees of strength belong to the Bhāṣya itself.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Possessing a practical form, preserving its particular rules, and bearing
 > it with a certain intensity are different determinations. The received
 > account says that every upāsaka possesses lay restraint while practical

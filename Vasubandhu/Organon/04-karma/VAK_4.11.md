@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> प्रवर्तकं दृष्टिहेयं विज्ञानमुभयं पुनः ।
->
-> मानसं भावनाहेयं पञ्चकं त्वनुवर्तकम् ॥ ४.११ ॥
+```sanskrit
+प्रवर्तकं दृष्टिहेयं विज्ञानमुभयं पुनः ।
+मानसं भावनाहेयं पञ्चकं त्वनुवर्तकम् ॥ ४.११ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> pravartakaṃ dṛṣṭiheyaṃ vijñānam ubhayaṃ punaḥ /
->
-> mānasaṃ bhāvanāheyaṃ pañcakaṃ tv anuvartakam // 4.11 //
+```text
+pravartakaṃ dṛṣṭiheyaṃ vijñānam ubhayaṃ punaḥ /
+mānasaṃ bhāvanāheyaṃ pañcakaṃ tv anuvartakam // 4.11 //
+```
 
 VAK 4.10 distinguished origination that initiates an action from origination
 that accompanies its performance. VAK 4.11 assigns those roles to kinds of
@@ -38,23 +40,16 @@ The first clause identifies `dṛṣṭiheyaṃ vijñānam` as `pravartakam`. Th
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Cognition abandoned by seeing is initiating. Mind-Cognition abandoned
 > through cultivation does both; the five [sensory Cognitions], however, are
 > accompanying.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Cognition abandoned by seeing initiates manifestation but does not
-> accompany its performance. Mind-Cognition abandoned through cultivation
-> can both initiate and accompany manifestation. The five sensory
-> Cognitions accompany it only. The Bhāṣya adds uncontaminated Cognition as
-> neither initiating nor accompanying.
-
-The fourth case and the identification of the fivefold group as the five
-sensory Cognitions come from the Bhāṣya, not from an explicit fourth member
-in the verse.
+> Cognition abandoned by seeing is initiating. Mind-Cognition abandoned through
+> cultivation does both; the five sensory Cognitions, however, are accompanying
+> only.
 
 ## 6. Philosophical Translation
 
@@ -80,6 +75,8 @@ in the verse.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya adds a fourth case: uncontaminated Cognition is neither initiating nor accompanying. It also identifies the fivefold group as the five sensory Cognitions; the kārikā does not name this fourth member explicitly.
+
 ### Textual Notes
 
 The Bhāṣya unit begins with `tatra ca` at [203|19], gives the first
@@ -91,8 +88,6 @@ The running witness alternates `pravartaka` and `pravarttaka`. The exchange
 concerning produced Form, Great Elements, and abandonment is compressed;
 fine speaker assignments and the exact scope of the cited Abhidharma claim
 remain provisional. The fourfold conclusion itself is explicit.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

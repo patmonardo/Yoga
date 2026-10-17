@@ -62,24 +62,16 @@ reunited before the night has elapsed.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > A monk governed by view and established in conduct divides the immature
 > elsewhere. Upon acceptance of another teacher and another path, the Saṅgha
 > is divided; that division does not last through the night.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > A monk governed by view and established in conduct divides the immature
-> elsewhere. Upon acceptance of another teacher and another path, the Saṅgha
-> is divided; that division does not last through the night. The Bhāṣya
-> specifies that the monk is not governed by craving or of broken conduct,
-> that the division occurs away from the Blessed One's presence, and that
-> reunion is necessary before the night has passed.
-
-The witness's `bhikṣurdu kvacarito vṛttī` at `[261|09]` is damaged around
-`dṛkcarito`; the verse form supplies the normalized anchor above. The
-opening prose question's `bhanatti` is normalized to `bhinatti`.
+> elsewhere. The Saṅgha is divided upon acceptance of another teacher and
+> path; that division does not last through the night.
 
 ## 6. Philosophical Translation
 
@@ -119,6 +111,10 @@ This unit does not itself name *cetanā* or restate the action taxonomy.
 
 ## 9. Interpretive Note
 
+**Translation note.** The witness's `bhikṣurdu kvacarito vṛttī` at `[261|09]` is damaged around
+`dṛkcarito`; the verse form supplies the normalized anchor above. The
+opening prose question's `bhanatti` is normalized to `bhinatti`. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: A monk governed by view and established in conduct divides the immature elsewhere. Upon acceptance of another teacher and another path, the Saṅgha is divided; that division does not last through the night. The Bhāṣya specifies that the monk is not governed by craving or of broken conduct, that the division occurs away from the Blessed One's presence, and that reunion is necessary before the night has passed.
+
 The source unit runs from the question at `[261|07–08]` through the
 reunion statement at `[261|23]`; it stops before the next statement,
 `cakrabhedaḥ`, at `[261|24]`. Its focus is the agent, recipients, and
@@ -128,14 +124,12 @@ marked in the paired study. The discussion distinguishes this collective
 result from 4.99's culpable verbal action without inserting *cetanā* where
 the passage does not name it.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A collective division is completed not by the divider's standing or
 > utterance alone, but when susceptible members accept both a different
 > teacher and a different path. This recognized alternative establishes a
 > temporary non-concord in the Saṅgha, which is necessarily repaired before
 > the night has passed.
-
 ## 10. OWL++ Seed
 
 ```text

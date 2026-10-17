@@ -67,27 +67,17 @@ separately elaborate their respective functions here.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Giving is complete for one who gives everything everywhere from
 > compassion. Patience and discipline are complete for one still
 > possessing passion who does not become angry even when bodily parts
 > are being cut.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Giving is complete for one who gives everything everywhere from
-> compassion. Patience and discipline are complete for one still
-> possessing passion who does not become angry even when bodily parts
-> are being cut. The Bhāṣya specifies giving everything to everyone,
-> extending from the eye to the marrow, without seeking exceptional
-> personal advancement. It explains that, although passion has not
-> yet been abandoned, not even the slightest anger arises during the
-> bodily injury.
-
-The bodily examples are the Bhāṣya's account of the perfection-test, not
-a behavioral recommendation. The source's qualification that passion
-remains is retained.
+> Giving is complete for one who gives everything everywhere from compassion.
+> Patience and discipline are complete for one still possessing passion who does not
+> become angry even when bodily parts are being cut.
 
 ## 6. Philosophical Translation
 
@@ -132,6 +122,10 @@ criterion for discipline or further describe conduct in response to injury.
 
 ## 9. Interpretive Note
 
+**Translation note.** The bodily examples are the Bhāṣya's account of the perfection-test, not
+a behavioral recommendation. The source's qualification that passion
+remains is retained. The informed translation also included: The Bhāṣya specifies giving everything to everyone, extending from the eye to the marrow, without seeking exceptional personal advancement. It explains that, although passion has not yet been abandoned, not even the slightest anger arises during the bodily injury.
+
 The verse specifies compassion as the ground of giving and non-anger as
 the decisive condition shared by patience and discipline. It does not
 name *cetanā* here; the motive is expressed through compassion and the
@@ -143,8 +137,7 @@ are preserved without turning them into practical advice. The study covers
 `[267|03]–[267|09]`; 4.112 begins at `[267|10]` with the perfection of
 vigor.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Giving reaches completion when its whole field and extent are governed
 > by compassion rather than the giver's pursuit of special advancement.
 > Patience and discipline reach completion under a different test: even

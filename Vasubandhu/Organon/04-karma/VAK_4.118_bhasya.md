@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-mātṛpitṛglānadhārmakathikebhyo 'ntyajanmane /
-bodhisattvāya cāmeyā anāryebhyo 'pi dakṣiṇā // 4.118 //
-```
+> mātṛpitṛglānadhārmakathikebhyo 'ntyajanmane /
+> bodhisattvāya cāmeyā anāryebhyo 'pi dakṣiṇā // 4.118 //
 
-> An offering to one's mother, father, a sick person, a Dharma speaker, or
-> a Bodhisattva in the final birth is immeasurable, even when these
-> recipients are not noble persons.
+> An offering to one's mother, father, a sick person, a Dharma speaker, or a
+> Bodhisattva in the final birth is immeasurable, even when these recipients are not
+> noble persons.
 
 `Antyajanmane bodhisattvāya` names one recipient: a Bodhisattva in the
 final birth. The Bhāṣya confirms five fields in the verse.

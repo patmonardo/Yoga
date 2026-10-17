@@ -82,28 +82,15 @@ possession one's own.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Destruction of life is the deliberate, non-mistaken killing of another.
 > Taking what is not given is the non-mistaken appropriation of another's
 > possession by force or stealth.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Killing is the deliberate, non-mistaken killing of another. Taking what is
 > not given is the appropriation of another's possession by force or stealth.
->
-> The Bhāṣya specifies that killing is completed when one resolves to kill a
-> particular being and kills that very being. Even initial uncertainty does
-> not prevent completion if one settles on “whoever it is” and strikes with
-> that resolve. Taking what is not given is completed when one non-mistakenly
-> makes another's possession one's own by force or stealth. Mere production
-> of death or displacement of property does not by itself establish either
-> course.
-
-The doubtful-target case, the extension of `abhrānti` to theft, and the
-distinction between physical causation and karmic authorship are supplied by
-the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -196,7 +183,7 @@ mere causal contribution
 
 **Life under momentariness**
 
-The Bhāṣya asks how killing is possible if the aggregates are momentary. Its
+The Bhāṣya asks how killing is possible if the Bases are momentary. Its
 answer does not posit a permanent living substance:
 
 ```text
@@ -247,6 +234,16 @@ making another's ungiven possession one's own
 
 ## 9. Interpretive Note
 
+**Translation note.** The doubtful-target case, the extension of `abhrānti` to
+theft, and the distinction between physical causation and karmic authorship
+are supplied by the Bhāṣya. The Bhāṣya specifies that killing is completed
+when one resolves to kill a particular being and kills that very being. Even
+initial uncertainty does not prevent completion if one settles on “whoever it
+is” and strikes with that resolve. Taking what is not given is completed when
+one non-mistakenly makes another's possession one's own by force or stealth.
+Mere production of death or displacement of property does not by itself
+establish either course.
+
 **From event to action to karmapatha**
 
 ```text
@@ -290,8 +287,7 @@ analysis, Nirgrantha dispute, property cases, and postponed person-question
 belong to the Bhāṣya; the event-action-karmapatha sequence is the project
 synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A bodily event becomes a determinate karmic course through the unity of
 > intentional direction, objective relation, execution, and fulfilled result.
 > Killing is not death considered merely as a physical occurrence; it is the

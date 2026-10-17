@@ -28,7 +28,7 @@ beginning of action whose maturation produces the marks.
 | `lakṣaṇa-karma-kṛt` | nominative masculine singular compound | one undertaking action directed to the marks; the Bhāṣya specifies action whose maturation produces them |
 | `su-gatiḥ` | nominative masculine singular compound | one whose rebirth destination is favorable |
 | `kula-jaḥ` | nominative masculine singular compound | born in an eminent family |
-| `a-vyakṣaḥ` | nominative masculine singular | not impaired in faculties, as glossed by the Bhāṣya |
+| `a-vyakṣaḥ` | nominative masculine singular | not impaired in Faculties, as glossed by the Bhāṣya |
 | `pumān` | nominative masculine singular | male |
 | `jāti-smaraḥ` | nominative masculine singular compound | remembering former births |
 | `a-nivṛt` | nominative masculine singular | not turning back; non-retrogressing |
@@ -59,33 +59,22 @@ sugatiḥ | kulajaḥ | avyakṣaḥ | pumān | jātismaraḥ | anivṛt
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > From what point onward is one called a bodhisattva? From the time one
 > undertakes action whose maturation produces the marks. Thereafter: a
 > favorable rebirth destination, birth in an eminent family, unimpaired
-> faculties, male embodiment, memory of former births, and non-retrogression.
+> Faculties, male embodiment, memory of former births, and non-retrogression.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> From what point onward is one called a bodhisattva? From the time one
-> undertakes action whose maturation produces the marks. Thereafter: a
-> favorable rebirth destination, birth in an eminent family, unimpaired
-> faculties, male embodiment, memory of former births, and non-retrogression.
-> The Bhāṣya says that from this point onward these conditions apply
-> continually and that the person has entered certainty. It explains favorable
-> destination as birth among gods or humans; specifies kṣatriya, brahmin, and
-> wealthy householder families; and glosses `avyakṣa` as having unimpaired
-> faculties. It defines non-retrogression practically: suffering and the
-> opposition of beings do not wear down the commitment to their welfare.
-
-The family and bodily qualifications are reported as the Bhāṣya's own
-historical claims, not as a general norm. Its servant image and social
-language are likewise attributed to the source.
+> From what point onward is one called a bodhisattva? From the time one undertakes
+> action whose maturation produces the marks. Thereafter: a favorable rebirth
+> destination, birth in an eminent family, unimpaired Faculties, male embodiment,
+> memory of former births, and non-retrogression.
 
 ## 6. Philosophical Translation
 
-> From what point onward is one called a bodhisattva? From the time one undertakes action whose maturation produces the marks. Thereafter: a favorable rebirth destination, birth in an eminent family, unimpaired faculties, male embodiment, memory of former births, and non-retrogression.
+> From what point onward is one called a bodhisattva? From the time one undertakes action whose maturation produces the marks. Thereafter: a favorable rebirth destination, birth in an eminent family, unimpaired Faculties, male embodiment, memory of former births, and non-retrogression.
 
 ## 7. Technical Vocabulary
 
@@ -98,7 +87,7 @@ language are likewise attributed to the source.
 - **`Kulaja`** — born in an eminent family. The Bhāṣya names kṣatriya,
   brahmin, and wealthy householder lineages; this is its inherited social
   classification.
-- **`Avyakṣa`** — unimpaired in faculties, explicitly glossed by the Bhāṣya
+- **`Avyakṣa`** — unimpaired in Faculties, explicitly glossed by the Bhāṣya
   as `avikalendriya`.
 - **`Jātismara`** — remembering former births.
 - **`Anivṛt` / `anivartaka`** — not turning back. The Bhāṣya explains this
@@ -116,7 +105,7 @@ Beginning of action whose maturation produces the marks
     → continual career predicates:
         favorable rebirth destination
         eminent family, as defined by the source
-        unimpaired faculties
+        unimpaired Faculties
         male embodiment, as stated by the source
         memory of former births
         non-retrogression in the welfare of beings
@@ -127,6 +116,15 @@ account. The family and bodily restrictions remain attributed source claims;
 they are not generalized into universal Organon axioms.
 
 ## 9. Interpretive Note
+
+**Translation note.** The family and bodily qualifications are reported as the Bhāṣya's own
+historical claims, not as a general norm. Its servant image and social
+language are likewise attributed to the source. The informed translation also included: The Bhāṣya says that from this point onward these conditions apply
+continually and that the person has entered certainty. It explains favorable
+destination as birth among gods or humans; specifies kṣatriya, brahmin, and
+wealthy householder families; and glosses `avyakṣa` as having unimpaired
+Faculties. It defines non-retrogression practically: suffering and the
+opposition of beings do not wear down the commitment to their welfare.
 
 Here the text does give a clear “from then onward” account. The Bhāṣya says
 `tasmāt kālāt prabhṛti nityam`—from that time onward, continually—and
@@ -149,12 +147,11 @@ The source unit is `[265|10–11]–[265|26]`. It stops before the next question
 at `[265|26–27]`, which introduces how the action producing the marks is
 undertaken.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The technical designation begins not with aspiration alone, nor only when
 > the marks are already manifest, but when action whose maturation is those
 > marks has begun. The Bhāṣya treats this as entry into certainty: a future
-> career is now organized through recurring rebirth, faculties, memory, and
+> career is now organized through recurring rebirth, Faculties, memory, and
 > practical non-retrogression.
 
 ## 10. OWL++ Seed

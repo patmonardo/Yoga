@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-navame cetanā yā sā kṛṣṇaśuklakṣayāya ca /
-śuklasya dhyānavairāgyeṣv antyānantaryamārgajā // 4.62 //
-```
+> navame cetanā yā sā kṛṣṇaśuklakṣayāya ca /
+> śuklasya dhyānavairāgyeṣv antyānantaryamārgajā // 4.62 //
 
-> The volition in the ninth uninterrupted path of detachment from the Desire
-> Realm abandons black-and-white wholesome karma and the ninth, final type of
-> black unwholesome karma. Volition in the final uninterrupted path for
-> detachment from each of the four dhyānas abandons white karma. Wholesome
-> karma is not destroyed in its intrinsic nature; its abandonment consists in
-> removing every remaining affliction that can take it as an object.
+> Volition in the ninth uninterrupted path serves to exhaust black-and-white
+> karma; volition in the final uninterrupted paths of detachment from the
+> dhyānas serves to exhaust white karma.
 
 The prose specifies what the first half adds to 4.61: the ninth
 Desire-Realm path concerns both the mixed class and the final

@@ -2,19 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-bhūmisaṃcārahānibhyāṃ dhyānāptaṃ tyajyate śubham /
-tathārūpyāptam āryaṃ tu phalāptyutpattihānibhiḥ // 4.40 //
-```
+> bhūmisaṃcārahānibhyāṃ dhyānāptaṃ tyajyate śubham /
+> tathārūpyāptam āryaṃ tu phalāptyutpattihānibhiḥ // 4.40 //
 
-> Wholesome dharmas acquired through dhyāna are lost when the practitioner
-> passes to another ground or falls away from the attainment; wholesome
-> dharmas belonging to the formless attainments are lost in the same two ways.
-> Uncontaminated noble dharmas have three modes of relinquishment: attainment
-> of a fruit relinquishes the preceding Path, strengthening the faculties
-> relinquishes the Path associated with weaker faculties, and regression
-> relinquishes a higher Path or, where possible, a fruit or an attainment
-> distinguished by that fruit.
+> Wholesome determination acquired through dhyāna is relinquished through
+> transition of ground or falling away; that acquired through formless
+> attainments likewise. Noble determination, however, is relinquished through
+> fruit-attainment, strengthening of the faculties, or falling away.
 
 The Kārikā witness reads `phalāptyutpattihānibhiḥ`, but the
 running Bhāṣya verse reads `phalāptyuttaptihānibhiḥ`; its prose

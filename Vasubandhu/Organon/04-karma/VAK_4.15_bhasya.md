@@ -5,14 +5,10 @@
 > pañcāṣṭadaśasarvebhyo varjyebhyo viratigrahāt /
 > upāsakopavāsasthaśramaṇoddeśabhikṣutā // 4.15 //
 
-> One is established in lay restraint by undertaking abstention from five
-> prohibited actions; in the *upavāsa* observance by undertaking eight;
-> in novice restraint by undertaking ten; and in monk restraint by
-> undertaking abstention from all prohibited bodily and verbal actions.
-> The Bhāṣya explains that the eightfold undertaking groups adornment
-> with entertainment, while the novice's tenfold count separates those
-> two fields and adds abstention from accepting gold and silver. It calls
-> the complete undertaking *prātimokṣa* restraint.
+
+> By undertaking abstention from five, eight, ten, or all avoidable actions, one
+> respectively becomes a lay follower, an observer of *upavāsa*, a novice, or a
+> monk.
 
 This is the Bhāṣya-informed study translation in `VAK_4.15.md`. The
 prose unit runs from [206|22] through [207|07]; the next kārikā begins

@@ -14,12 +14,7 @@ asaṃvaraḥ saṃvarāptimṛtyudvivyañjanodayaiḥ /
 vegādānakriyārthāyurmūlacchedais tu madhyamā // 4.41 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-asaṃvaraḥ saṃvara-āpti-mṛtyu-dvi-vyañjana-udayaiḥ /
-vega-ādāna-kriyā-artha-āyus-mūla-cchedaiḥ tu madhyamā //
-```
 
 The second compound names six causes of loss. Here `artha` is the Idea as a
 purposive determination realized in an enduring `vastu`, not merely an external
@@ -27,7 +22,7 @@ thing and not an abstract meaning detached from practical realization.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `asaṃvaraḥ` | nominative masculine singular | non-restraint |
 | `saṃvarāpti` | compound member | acquisition of restraint |
@@ -43,6 +38,9 @@ thing and not an abstract meaning detached from practical realization.
 | `cchedaiḥ` | instrumental plural from `cheda` under sandhi | through severances |
 | `tu` | contrastive particle | but; however |
 | `madhyamā` | nominative feminine singular | the intermediate [avijñapti] |
+
+
+**Word division (verse order).** `asaṃvaraḥ saṃvara-āpti-mṛtyu-dvi-vyañjana-udayaiḥ / vega-ādāna-kriyā-artha-āyus-mūla-cchedaiḥ tu madhyamā //`
 
 **`saṃvarāpti`**
 
@@ -122,27 +120,19 @@ prose as relinquishment of the undertaking. The understood feminine
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Non-restraint is relinquished through acquisition of restraint, death, or
 > the arising of both sexual characteristics. The intermediate [avijñapti],
 > however, is relinquished through severance of force, undertaking, activity,
 > Idea, lifespan, or root.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Established non-restraint is cut off when a stronger contrary restraint is
-> acquired, when the bearer dies, or when the qualifying bodily support is
-> disrupted by the arising of both sexual characteristics. Avijñapti that is
-> neither complete restraint nor complete non-restraint ceases in six ways:
-> when its projected force is exhausted, its undertaking is relinquished, its
-> activity is discontinued, the enduring realization of its Idea is destroyed, its
-> bearer’s life ends, or its supporting wholesome roots are severed.
-
-The superior strength of the contrary restraint and the sixfold prose
-distribution are supplied by the Bhāṣya; its examples show the `vastu` through
-which the `artha`, the practical Idea, remains realized.
-supplied by the Bhāṣya.
+> Non-restraint is relinquished through acquisition of restraint, death, or
+> the arising of both sexual characteristics. Other non-disclosing continuity
+> ceases through exhaustion of force, relinquishment of its undertaking,
+> cessation of activity, fulfillment of purpose, end of lifespan, or severance
+> of roots.
 
 ## 6. Philosophical Translation
 
@@ -350,6 +340,11 @@ different transitions.
 
 ## 9. Interpretive Note
 
+**Translation note.** The superior strength of the contrary restraint and the sixfold prose
+distribution are supplied by the Bhāṣya; its examples show the `vastu` through
+which the `artha`, the practical Idea, remains realized.
+supplied by the Bhāṣya.
+
 **Stopping is not conversion**
 
 VAK 4.41 gives a severe but lucid practical teaching. A harmful occupation is
@@ -415,8 +410,7 @@ This is the Organon contact. Strong contrary determination, the medical and
 potter’s-wheel analogies, the anonymous upavāsa dispute, and the six
 dependency severances belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A comprehensive harmful form and a project-specific persistent form do not
 > cease by the same logic. Established non-restraint requires a stronger
 > contrary determination; mere inactivity removes neither its acquired form

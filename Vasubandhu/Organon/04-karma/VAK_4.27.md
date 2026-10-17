@@ -14,12 +14,7 @@ yāvajjīvaṃ samādānam ahorātraṃ ca saṃvṛteḥ /
 nāsaṃvaro 'sty ahorātraṃ na kilaivaṃ pragṛhyate // 4.27 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-yāvat-jīvam samādānam aho-rātram ca saṃvṛteḥ /
-na asaṃvaraḥ asti aho-rātram na kila evam pragṛhyate //
-```
 
 The witness reads `saṃvṛteḥ`. The Bhāṣya makes clear that the subject is the
 undertaking of prātimokṣa restraint; the form must not be confused with
@@ -27,7 +22,7 @@ undertaking of prātimokṣa restraint; the form must not be confused with
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `yāvajjīvam` | indeclinable adverbial compound | for as long as life lasts |
 | `samādānam` | nominative/accusative neuter singular | undertaking; intentional assumption |
@@ -38,6 +33,9 @@ undertaking of prātimokṣa restraint; the form must not be confused with
 | `kila` | reportive particle | according to the received account; it is said |
 | `evam` | adverb | in this manner |
 | `pragṛhyate` | third-person singular present passive of `pra-grah` | is undertaken; is formally assumed |
+
+
+**Word division (verse order).** `yāvat-jīvam samādānam aho-rātram ca saṃvṛteḥ / na asaṃvaraḥ asti aho-rātram na kila evam pragṛhyate //`
 
 **`samādāna`**
 
@@ -121,25 +119,15 @@ Bhāṣya does not treat this first answer as the end of inquiry.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Restraint is undertaken for life or for one day and night. Non-restraint is
 > not recognized for merely one day and night, since it is not ordinarily
 > undertaken in that manner.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The seven lifelong classes of prātimokṣa restraint are undertaken for the
-> duration of life, while upavāsa restraint is undertaken for one complete day
-> and night. Non-restraint is not ordinarily classified as a one-day-and-night
-> determination because no one is observed deliberately undertaking it in the
-> manner of upavāsa—although Vasubandhu concedes that, if someone genuinely
-> sought and undertook such non-restraint for a limited period, it would be
-> acquired.
-
-The distribution of the restraint classes, the empirical qualification, and
-the concession concerning possible limited non-restraint are Bhāṣya
-determinations.
+> Restraint is undertaken for life or for one day and night; non-restraint is
+> not ordinarily undertaken for merely one day and night.
 
 ## 6. Philosophical Translation
 
@@ -305,6 +293,10 @@ by a feature-for-feature metaphysical prohibition.
 
 ## 9. Interpretive Note
 
+**Translation note.** The distribution of the restraint classes, the empirical qualification, and
+the concession concerning possible limited non-restraint are Bhāṣya
+determinations.
+
 **The vow produces its own time**
 
 VAK 4.27 does not treat a vow as a timeless content later placed inside an
@@ -361,7 +353,7 @@ asaṃvara
 
 Here persistence is carried by the intentional continuum itself. This makes
 `cetanā` or intentional determination a powerful candidate for the immediate
-ground differentiating manifestation and non-manifest continuity.
+ground differentiating disclosure and non-disclosing continuity.
 
 But the distinction of levels remains necessary:
 
@@ -373,10 +365,10 @@ cetanā / āśaya / abhisaṃdhi
     determining practical interior
 
 vijñapti
-    manifestation of action
+    disclosure of action
 
 avijñapti or anubandha
-    persistence beyond manifestation
+    persistence beyond disclosure
 ```
 
 The question is whether avijñapti must be hypostatized as a separate entity or
@@ -405,8 +397,7 @@ This is an Organon development. Vasubandhu explicitly raises the rational
 question about longer upavāsa, qualifies the one-day non-restraint rule, and
 records the Sautrāntika intentional reconstruction.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A practical form includes its temporal limit within the manner of its
 > acquisition. Lifelong restraint and day-and-night upavāsa are complete but
 > differently bounded vows. Standing non-restraint ordinarily arises not from

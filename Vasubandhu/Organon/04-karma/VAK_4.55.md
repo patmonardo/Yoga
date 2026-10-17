@@ -93,25 +93,16 @@ indeterminate.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Karma has its result in the present life because of an exceptional field or
 > intention; likewise through complete detachment from its corresponding level,
 > when it is fixed with respect to maturation.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Karma may have its result in the present life because of an exceptional
-> recipient-field or exceptional underlying intention. It may also have its
-> result in the present life through complete detachment from the level to which
-> it belongs, but only if its maturation is certain and its temporal stage is
-> not fixed. Karma fixed to another stage matures there, so complete detachment
-> from that level cannot precede it; indeterminate karma instead fails to
-> mature through complete detachment.
-
-The examples of exceptional field and intention and the exact modal limitation
-on the detachment rule are supplied by the Bhāṣya.
-
+> Karma may have its result in the present life because of an exceptional field
+> or intention; it may also do so through complete detachment from its level,
+> when its maturation is determinate.
 ## 6. Philosophical Translation
 
 > Karma has its result in the present life because of an exceptional field or intention; likewise through complete detachment from its corresponding level, when it is fixed with respect to maturation.
@@ -223,6 +214,15 @@ its modal status.
 
 ## 9. Interpretive Note
 
+**Translation note.** The examples of exceptional field and intention and the exact
+modal limitation on the detachment rule are supplied by the Bhāṣya. The commentary
+illustrates the exceptional field with an act involving a woman associated with the
+Saṅgha, and exceptional intention with a `śaṇḍha` freeing cattle from castration;
+the first compressed action remains uncertain. Complete detachment makes the karma
+present-life-result only when maturation is fixed but its temporal stage is not
+fixed. Karma fixed to another stage matures there; indeterminate karma instead fails
+to mature through detachment.
+
 **Karma as Ground**
 
 The Dharmapāda connection is exact at the level of sufficient ground:
@@ -270,8 +270,7 @@ This is the Organon contact. The three routes, traditional examples, and modal
 limitations belong to the Bhāṣya; Karma as Absolute Ground is the project
 synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Complete detachment has different consequences for karmas with different
 > modal status. If maturation is certain but its temporal stage is unfixed,
 > detachment from the karma's level is accompanied by a present-life result. If

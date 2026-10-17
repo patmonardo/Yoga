@@ -2,15 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-cakrabhedaḥ sa ca mato jambūdvīpe navādibhiḥ /
-karmabhedas triṣu dvīpeṣv aṣṭabhir adhikaiś ca saḥ // 4.101 //
-```
+> cakrabhedaḥ sa ca mato jambūdvīpe navādibhiḥ /
+> karmabhedas triṣu dvīpeṣv aṣṭabhir adhikaiś ca saḥ // 4.101 //
 
-> The division of the Dharma Chakra described in the preceding verses is
-> held to be wheel-division in Jambūdvīpa with nine or more monks; division
-> of communal action occurs in the three continents where the Teaching is
-> established, with eight or more monks.
+> That is held to be wheel-division in Jambūdvīpa with nine or more [monks];
+> division of communal action occurs in the three continents with eight or more.
 
 ## 2. Continuous Sanskrit Witness
 

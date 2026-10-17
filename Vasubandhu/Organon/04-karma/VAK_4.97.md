@@ -81,35 +81,18 @@ non-percipient beings among gods as instances of the latter.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The *ānantarya* action-class is accepted in the three continents, but not
 > for persons classified as *śaṇḍha* and related cases, because of lesser
 > beneficence and absence of the relevant inhibition. The remaining two
 > obstructions are found in the five destinies.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Among these obstructions, where is each to be understood? The actions of
-> *ānantarya* are admitted in the three continents—not in Uttarakuru, the
-> other destinies, or another Principle; even there, only for women and men.
-> They are not admitted for persons classified in the text as *śaṇḍha* and
-> related cases. The Bhāṣya recalls its earlier explanation concerning
-> non-restraint and adds lesser parental beneficence and lesser inhibition
-> toward parents, assigning these reasons respectively to the parents and
-> the persons. It attributes the claimed difference in beneficence to
-> embodied condition and parental affection. It extends the exclusion to
-> animals and pretas, while Bhadanta allows a possible case among those of
-> exceptional intelligence, such as a well-bred horse. A human who kills
-> nonhuman parents is also said not to incur *ānantarya*. The Bhāṣya then
-> clarifies that the “remaining” two are affliction-obstruction and
-> maturation-obstruction, which occur across the five destinies; it
-> identifies the Kuru condition among humans and non-percipient beings
-> among gods as instances of the latter.
-
-The agent restrictions and their rationale are the Bhāṣya's classifications,
-not general empirical claims. The source's category *śaṇḍha* is retained
-without equating it with any present-day identity.
+> Actions of immediate retribution are admitted in the three continents, but not
+> for persons classified as *śaṇḍha* and related cases, because of lesser
+> beneficence and lack of inhibition. The remaining two obstructions occur in
+> the five destinies.
 
 ## 6. Philosophical Translation
 
@@ -171,6 +154,10 @@ qualifications remain attributed positions, not universalized rules.
 
 ## 9. Interpretive Note
 
+**Translation note.** The agent restrictions and their rationale are the Bhāṣya's classifications,
+not general empirical claims. The source's category *śaṇḍha* is retained
+without equating it with any present-day identity. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Among these obstructions, where is each to be understood? The actions of *ānantarya* are admitted in the three continents—not in Uttarakuru, the other destinies, or another Principle; even there, only for women and men. They are not admitted for persons classified in the text as *śaṇḍha* and related cases. The Bhāṣya recalls its earlier explanation concerning non-restraint and adds lesser parental beneficence and lesser inhibition toward parents, assigning these reasons respectively to the parents and the persons. It attributes the claimed difference in beneficence to embodied condition and parental affection. It extends the exclusion to animals and pretas, while Bhadanta allows a possible case among those of exceptional intelligence, such as a well-bred horse. A human who kills nonhuman parents is also said not to incur *ānantarya*. The Bhāṣya then clarifies that the “remaining” two are affliction-obstruction and maturation-obstruction, which occur across the five destinies; it identifies the Kuru condition among humans and non-percipient beings among gods as instances of the latter.
+
 The verse clarifies the scope of the three-obstruction scheme rather than
 adding another action-type. Its compressed `śeṣe` depends on the structure
 of 4.96: the two obstructions remaining after action-obstruction are the
@@ -179,15 +166,13 @@ classification is ethically difficult; this study preserves its argument
 and attributions while refusing to project its categories onto present-day
 persons.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The technical classification of *ānantarya* is restricted by the source
 > to specified world-loci and agent conditions. The visible description of
 > an act is therefore not enough, within this system, to establish that
 > classification. The verse then distinguishes this restricted action-class
 > from affliction-obstruction and maturation-obstruction, whose scope
 > extends across the five destinies.
-
 ## 10. OWL++ Seed
 
 ```text

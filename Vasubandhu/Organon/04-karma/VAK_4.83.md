@@ -101,31 +101,18 @@ three realms.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Here in Uttarakuru, the seventh Course of Action also occurs by present
 > manifestation. Elsewhere in the Desire-Realm, all ten unwholesome Courses of
 > Action also occur by present manifestation. But the three wholesome mental
 > Courses of Action occur everywhere by present manifestation and acquisition.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Here in Uttarakuru, the seventh Course of Action also occurs by present
 > manifestation. Elsewhere in the Desire-Realm, all ten unwholesome Courses of
 > Action also occur by present manifestation. But the three wholesome mental
 > Courses of Action occur everywhere by present manifestation and acquisition.
->
-> The seventh is disordered or frivolous afflicted speech: its inhabitants
-> sometimes sing with afflicted consciousness, although the three unwholesome
-> mental Courses of Action remain merely endowed there. “Elsewhere” excludes
-> hell and Uttarakuru. The three wholesome Courses of Action are
-> non-covetousness, non-hostility, and right view; each can belong to a
-> continuum and become presently manifest in all five destinies throughout
-> all three realms.
-
-The identification of the seventh, its mode of occurrence, the exact scope of
-`anyatra`, and the universal expansion of `sarvatra` are supplied by the
-Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -289,6 +276,16 @@ of permissions.
 
 ## 9. Interpretive Note
 
+**Translation note.** The identification of the seventh, its mode of
+occurrence, the exact scope of `anyatra`, and the universal expansion of
+`sarvatra` are supplied by the Bhāṣya. The seventh is disordered or frivolous
+afflicted speech: its inhabitants sometimes sing with afflicted consciousness,
+although the three unwholesome mental Courses of Action remain merely endowed
+there. “Elsewhere” excludes hell and Uttarakuru. The three wholesome Courses
+of Action are non-covetousness, non-hostility, and right view; each can belong
+to a continuum and become presently manifest in all five destinies throughout
+all three realms.
+
 **Universal determination and local realizability**
 
 The Course of Action is not created by the world-setting, but its manifestation is locally
@@ -323,8 +320,7 @@ The Bhāṣya's distribution across the Desire-Realm, the seventh-Course
 example, absence-reasons, restraint distinction, and universal wholesome
 scope ground the four-level modal articulation.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A favorable world-setting does not mechanically eliminate every
 > unwholesome event: a specific verbal Course of Action can still become
 > actual when its immediate afflictive condition is present. Conversely,

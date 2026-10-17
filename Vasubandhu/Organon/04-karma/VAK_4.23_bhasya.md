@@ -2,16 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-vijñaptyā tu punaḥ sarve kurvanto madhyayānvitāḥ /
-atītayā kṣaṇād ūrdhvam atyāgān nāsty ajātayā // 4.23 //
-```
+> vijñaptyā tu punaḥ sarve kurvanto madhyayānvitāḥ /
+> atītayā kṣaṇād ūrdhvam atyāgān nāsty ajātayā // 4.23 //
 
-> But now, turning again to manifest action: everyone—whether established in
-> restraint, non-restraint, or neither—possesses present vijñapti for exactly
-> as long as he is producing it. After its first moment, and so long as it has
-> not been abandoned, he also possesses that vijñapti as past. No one possesses
-> a future, not-yet-arisen vijñapti.
+> All who act possess disclosure as present while they perform it; after its
+> first moment, if it has not been abandoned, they also possess it as past. No
+> one possesses future disclosure.
 
 The running unit begins at [210|20] and ends at [211|01] in
 `Vasubandhu/Sources/kosabhasya.txt`. The preceding sentence closes

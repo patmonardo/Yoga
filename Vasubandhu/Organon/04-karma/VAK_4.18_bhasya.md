@@ -2,15 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-anāgamye prahāṇākhyau tāv ānantaryamārgajau /
-saṃprajñānasmṛtī dve tu manaindriyasaṃvarau // 4.18 //
-```
+> anāgamye prahāṇākhyau tāv ānantaryamārgajau /
+> saṃprajñānasmṛtī dve tu manaindriyasaṃvarau // 4.18 //
 
-> In the preliminary concentration, meditation-born and uncontaminated
-> restraint, when born in the nine uninterrupted paths, are called
-> abandonment restraints. Mind-restraint and faculty-restraint, however, each
-> have a twofold nature: recollection and clear comprehension.
+> In preliminary concentration, those two born in uninterrupted paths are called
+> abandonment [restraints]. Mind-restraint and Faculty-restraint, however, each
+> comprise clear comprehension and recollection.
 
 The running Bhāṣya unit begins at [208|13] and ends at [209|03] in
 `Vasubandhu/Sources/kosabhasya.txt`. Its first question resumes the two

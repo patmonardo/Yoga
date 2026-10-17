@@ -14,12 +14,7 @@ kāmāptaṃ kuśalārūpaṃ mūlacchedordhvajanmataḥ /
 pratipakṣodayāt kliṣṭam arūpaṃ tu vihīyate // 4.42 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-kāma-āptam kuśala-arūpam mūla-cchedāt ūrdhva-janmataḥ /
-pratipakṣa-udayāt kliṣṭam arūpam tu vihīyate //
-```
 
 The Bhāṣya explicitly glosses both classes as `arūpasvabhāva`, non-Form
 by nature. `Arūpa` here does not mean avijñapti, which Sarvāstivāda classifies
@@ -27,7 +22,7 @@ as `rūpa`, and it does not mean the formless realm (`ārūpya`).
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kāmāptam` | nominative neuter singular compound | belonging to the desire realm |
 | `kuśalārūpam` | nominative neuter singular compound | wholesome non-Form dharma |
@@ -38,6 +33,9 @@ as `rūpa`, and it does not mean the formless realm (`ārūpya`).
 | `arūpam` | nominative neuter singular | non-Form dharma |
 | `tu` | contrastive particle | but; however |
 | `vihīyate` | third-person singular present passive from `vi-√hā` | is abandoned, lost, left behind |
+
+
+**Word division (verse order).** `kāma-āptam kuśala-arūpam mūla-cchedāt ūrdhva-janmataḥ / pratipakṣa-udayāt kliṣṭam arūpam tu vihīyate //`
 
 **`arūpa` and `ārūpya`**
 
@@ -53,7 +51,7 @@ avijñapti
     imperceptible but classified as Form (`rūpa`)
 ```
 
-The first-pass report incorrectly associated `arūpa` with avijñapti. The
+The earlier report incorrectly associated `arūpa` with avijñapti. The
 Bhāṣya rules that out.
 
 **`kāmāpta`**
@@ -120,24 +118,16 @@ desire-realm wholesome dharmas.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Wholesome non-Form dharma belonging to the desire realm is abandoned
 > through severance of the root or through birth above. Defiled non-Form
 > dharma, however, is abandoned through the arising of its counteragent.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> A wholesome non-Form dharma belonging to the desire realm is lost either
-> when the wholesome roots are severed or when the person is reborn above the
-> desire realm, in the Form or Formless Realm. Every defiled non-Form
-> dharma, however, is abandoned only when its corresponding counteragent—the
-> specific Path of abandonment opposed to that kind of defilement—arises and
-> removes it together with its associated factors.
-
-The specification of the two higher realms and the strict correspondence
-between each defilement and its Path of abandonment are supplied by the
-Bhāṣya.
+> A wholesome non-Form dharma belonging to the desire realm is lost through
+> severance of the roots or birth in a higher realm; a defiled non-Form
+> dharma, however, is abandoned through arising of its counteragent.
 
 ## 6. Philosophical Translation
 
@@ -267,6 +257,10 @@ difference between `arūpa`, `rūpa`, and `ārūpya`.
 
 ## 9. Interpretive Note
 
+**Translation note.** The specification of the two higher realms and the strict correspondence
+between each defilement and its Path of abandonment are supplied by the
+Bhāṣya.
+
 **Abandonment is not disappearance**
 
 The second half gives the strongest result:
@@ -306,7 +300,7 @@ because the realm to which it belongs is no longer the current configuration.
 This does not turn `dhātu` into a temporal bridge or hidden substance. It
 states the realm-index of the determination.
 
-**Correction of the first pass**
+**Correction of the earlier wording**
 
 The earlier association of `arūpa` with avijñapti confused imperceptibility
 with non-Form nature. Avijñapti may be imperceptible, but within the
@@ -317,8 +311,7 @@ This is the Organon contact: causal support, realm-compatibility, and
 specific mediated opposition. The doctrinal classes and strict counteragent
 relation remain Bhāṣya determinations.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A wholesome determination may cease because its generative root is
 > destroyed or because the continuum leaves the realm in which that
 > determination belongs. A defiled determination requires another logic: it

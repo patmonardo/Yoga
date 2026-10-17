@@ -75,28 +75,18 @@ them. It likewise expands the result-complex into four distinct outcomes.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > A giver distinguished by faith and related qualities gives respectfully
 > and in other specified ways. Consequently, there is receipt of honor,
 > taste for excellent enjoyments, timely acquisition, and acquisition not
 > liable to seizure or destruction.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> A giver distinguished by faith and related qualities gives respectfully
-> and in other specified ways. Consequently, there is receipt of honor,
-> taste for excellent enjoyments, timely acquisition, and acquisition not
-> liable to seizure or destruction. The Bhāṣya specifies the manners as
-> respectful giving, giving with one's own hand, giving at the proper
-> time, and giving without harming others. It pairs these, respectively,
-> with receiving honor, developing a taste for excellent enjoyments,
-> acquiring resources at the proper time, and acquiring resources that
-> others do not take away and that are not destroyed by fire or similar
-> causes.
-
-The four manners, their ordered correspondence, and the explanatory
-examples of seizure and destruction are supplied by the Bhāṣya.
+> A giver distinguished by faith and related qualities gives respectfully and in
+> other specified ways. Consequently, there is receipt of honor, taste for excellent
+> enjoyments, timely acquisition, and acquisition not liable to seizure or
+> destruction.
 
 ## 6. Philosophical Translation
 
@@ -148,6 +138,9 @@ property security.
 
 ## 9. Interpretive Note
 
+**Translation note.** The four manners, their ordered correspondence, and the explanatory
+examples of seizure and destruction are supplied by the Bhāṣya. The informed translation also included: The Bhāṣya specifies the manners as respectful giving, giving with one's own hand, giving at the proper time, and giving without harming others. It pairs these, respectively, with receiving honor, developing a taste for excellent enjoyments, acquiring resources at the proper time, and acquiring resources that others do not take away and that are not destroyed by fire or similar causes.
+
 VAK 4.114 named the giver, the thing given, and the recipient field as
 distinct determinants of giving's further distinction. VAK 4.115 isolates
 the giver and traces a sequence from qualities, to manner, to result. These
@@ -163,8 +156,7 @@ which says the enjoyments are not taken by others or destroyed by fire and
 similar causes. The study stops before the question about the thing given
 at `[269|20]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The giver's qualities become manifest in the manner of the deed, and
 > the Bhāṣya maps those manners to corresponding features of maturation.
 > Respect, personal involvement, timing, and non-injury are not interchangeable

@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-sarve 'dhipatiniṣyandavipākaphaladā matāḥ /
-duḥkhanān māraṇād ojonāśanāt trividhaṃ phalam // 4.85 //
-```
+> sarve 'dhipatiniṣyandavipākaphaladā matāḥ /
+> duḥkhanān māraṇād ojonāśanāt trividhaṃ phalam // 4.85 //
 
-> All Courses of Action are held to give dominant, corresponding, and
-> maturation results. From causing suffering, killing, and destroying
-> vitality, the result is threefold.
+> All wholesome and unwholesome Courses of Action are held to give dominant,
+> corresponding, and maturation results. The result is threefold: from causing
+> suffering, from killing, and from destroying vitality.
 
 “All” gathers the ten unwholesome and ten wholesome Courses of Action whose
 distribution was completed in 4.82–4.84. The Bhāṣya first enumerates the

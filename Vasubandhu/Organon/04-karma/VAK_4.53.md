@@ -100,25 +100,16 @@ temporal classification.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > In the Desire Realm, intermediate existence produces twenty-two kinds of
 > karma. Its determinate portion has its fruit in the present existence, for
 > that rebirth-class continuum is one and the same.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> In Desire-Realm intermediate existence, karma can be produced for each of
-> eleven stages—the intermediate state itself, five embryonic stages, and five
-> stages after birth—with each kind either determinate or indeterminate, making
-> twenty-two. The eleven determinate kinds count as present-existence-result
-> karma because intermediate existence and the ten stages that follow form one
-> and the same karmically projected rebirth-class continuum.
-
-The eleven stages, multiplication by modal status, and restriction of the
-present-existence designation to the determinate cases are supplied by the
-Bhāṣya.
-
+> In the Desire Realm, intermediate existence projects twenty-two kinds of
+> karma. The determinate kinds have their result in the present existence, since
+> the rebirth-class continuum is one and the same.
 ## 6. Philosophical Translation
 
 > In the Desire Realm, intermediate existence produces twenty-two kinds of karma. Its determinate portion has its fruit in the present existence, for that rebirth-class continuum is one and the same.
@@ -229,6 +220,15 @@ projects the rebirth-class continuum.
 
 ## 9. Interpretive Note
 
+**Translation note.** The eleven stages, multiplication by modal status, and
+restriction of the present-existence designation to the determinate cases are
+supplied by the Bhāṣya. The twenty-two consist of eleven stages, each with
+determinate and indeterminate forms: intermediate existence, five embryonic stages
+(`kalala`, `arbuda`, `peśī`, `ghana`, `praśākhā`), and five post-birth stages. The
+third post-birth label is compressed in the witness. The present-existence
+designation applies to the eleven determinate forms because intermediate existence
+and the ensuing stages belong to one rebirth-class continuum.
+
 **The life is a causal unit, not a visible body**
 
 The classification refuses to identify “this life” with the currently visible
@@ -264,8 +264,7 @@ Kriyā/Karma theory becomes.
 This is the Organon contact. The eleven-stage enumeration, twenty-twofold
 derivation, and one-continuum explanation belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A karmically projected continuum maintains its identity through radical
 > changes of developmental form. Karma produced in intermediate existence may
 > mature in embryonic development, childhood, maturity, or old age and still

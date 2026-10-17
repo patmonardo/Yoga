@@ -85,28 +85,16 @@ The omitted complements are restored by the Bhāṣya's explicit explanation.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Hostility is hatred of living beings. False view is the view that
 > wholesome and unwholesome karma do not exist. Here the three are routes
 > of karma, while the seven are both karma and routes of karma.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Hostility is hatred of living beings. False view is the view that
-> wholesome and unwholesome karma do not exist. Here the three are routes
-> of karma, while the seven are both karma and routes of karma.
->
-> The Bhāṣya specifies that hostility proceeds as harming another. It
-> expands false view beyond the verse's initial example to repudiation of
-> karma, result, and the noble ones. Covetousness, ill will, and false view
-> are Courses of Action because associated volition is carried along their
-> direction and formed under their influence. The bodily and verbal courses
-> are themselves karma and also routes along which their originating
-> volition proceeds.
-
-The harmful orientation, full range of false view, and dynamic explanation of
-`karmapatha` are supplied by the Bhāṣya.
+> Hostility is hatred of living beings. False view is the view that wholesome
+> and unwholesome karma do not exist. Here the three are routes of karma,
+> while the seven are both karma and routes of karma.
 
 ## 6. Philosophical Translation
 
@@ -260,6 +248,15 @@ second-order judgment.
 
 ## 9. Interpretive Note
 
+**Translation note.** The harmful orientation, full range of false view, and
+dynamic explanation of `karmapatha` are supplied by the Bhāṣya. The Bhāṣya
+specifies that hostility proceeds as harming another. It expands false view
+beyond the verse's initial example to repudiation of karma, result, and the
+noble ones. Covetousness, ill will, and false view are Courses of Action
+because associated volition is carried along their direction and formed under
+their influence. The bodily and verbal courses are themselves karma and also
+routes along which their originating volition proceeds.
+
 **Determination as channeling**
 
 The strongest result is the Bhāṣya's own genetic image:
@@ -300,8 +297,7 @@ This is the Organon contact. The definitions, expanded false-view range,
 conveyance account, and Vaibhāṣika asymmetry belong to the Bhāṣya; the explicit
 root-orientation-volition-realization sequence is the project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The three mental courses are determinate orientations through which
 > volition becomes karmically formed. Covetousness projects appropriation;
 > ill will projects harm to a living being; false view repudiates the

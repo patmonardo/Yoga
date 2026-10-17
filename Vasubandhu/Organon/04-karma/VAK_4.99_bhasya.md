@@ -2,21 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-tad-avadyaṃ mṛṣāvādas tena bhettā samanvitaḥ /
-avīcau pacyate kalpam adhikair adhikā rujaḥ // 4.99 //
-```
+> tad-avadyaṃ mṛṣāvādas tena bhettā samanvitaḥ /
+> avīcau pacyate kalpam adhikair adhikā rujaḥ // 4.99 //
 
-### Bhāṣya-informed study translation
-
-> The culpable action that produces the Saṅgha's division is false speech,
-> and it is this verbal action—not the community's condition of non-concord—
-> that belongs to the divider. More precisely, it comprises verbal
-> manifestation and non-disclosing continuity co-arising with the division.
-> This action matures in the great Avīci hell for one intermediate kalpa.
-> When additional actions of *ānantarya* are present, the support becomes
-> denser and more sensitive, and the causes of pain become more numerous and
-> more intense.
+> The culpable action in Saṅgha division is false speech, and the divider is
+> endowed with it. He undergoes maturation in Avīci for a kalpa; with additional
+> actions of immediate retribution, the pains are greater.
 
 ## 2. Continuous Sanskrit Witness
 

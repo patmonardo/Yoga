@@ -2,10 +2,8 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-agamyagamanaṃ kāmamithyācāraścaturvidhaḥ /
-anyathāsaṃjñino vākyamarthābhijñe mṛṣāvacaḥ // 4.74 //
-```
+> agamyagamanaṃ kāmamithyācāraścaturvidhaḥ /
+> anyathāsaṃjñino vākyamarthābhijñe mṛṣāvacaḥ // 4.74 //
 
 > Sexual misconduct is fourfold approach to what is not to be approached.
 > False speech is the statement of one whose recognition is otherwise,

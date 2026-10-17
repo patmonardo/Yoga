@@ -91,23 +91,16 @@ instrumental numerals therefore do not imply identical result-sets.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > In the Path of Abandonment with stain, action possesses five results. In
 > the Path of Abandonment without stain it possesses four; so too does other
 > action with Influx, whether wholesome or unwholesome.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> In the Path of Abandonment with stain, action stands in all five
-> result-relations: maturation result, corresponding result,
-> disconnection-result, activity-produced result, and dominant result.
-> Action in the Path of Abandonment without Influx has four results, because
-> it lacks maturation-result. Other action with Influx, whether wholesome or
-> unwholesome, likewise has four, but lacks disconnection-result.
-
-The identification of the uninterrupted Path, the five memberships, and the two
-different exclusions are supplied by the Bhāṣya.
+> In the stained Path of Abandonment, action possesses five results. In the
+> unstained Path of Abandonment, it possesses four; other action with Influx,
+> wholesome or unwholesome, also possesses four.
 
 ## 6. Philosophical Translation
 
@@ -267,6 +260,9 @@ assignment.
 
 ## 9. Interpretive Note
 
+**Translation note.** The identification of the uninterrupted Path, the five memberships, and the two
+different exclusions are supplied by the Bhāṣya. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: In the Path of Abandonment with stain, action stands in all five result-relations: maturation result, corresponding result, disconnection-result, activity-produced result, and dominant result. Action in the Path of Abandonment without Influx has four results, because it lacks maturation-result. Other action with Influx, whether wholesome or unwholesome, likewise has four, but lacks disconnection-result.
+
 VAK 4.87 turns the five results into a logic of causal powers. Each
 result-type answers a different question about what an operation can
 accomplish. The taxonomy is therefore not an enumeration added after the
@@ -300,8 +296,7 @@ has overcome maturation while preserving disconnection; the other preserves
 maturation because it lacks the power of disconnection. Their equality is
 quantitative, but their truth is structurally opposed.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The result-profile of an operation is determined by what the operation is
 > capable of doing within its concrete field. Action in the Path of
 > Abandonment with stain can still reproduce conditioned existence and yet,
@@ -330,7 +325,6 @@ other action with Influx
 The same numerical total—four—can therefore express opposite logical
 determinations. What matters is not quantity alone but the Concept of the
 operation expressed through the exact structure of its results.
-
 ## 10. OWL++ Seed
 
 ```text

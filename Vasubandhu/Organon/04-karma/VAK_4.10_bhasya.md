@@ -5,12 +5,9 @@
 > samutthānaṃ dvidhā hetu-tat-kṣaṇotthāna-saṃjñitam /
 > pravartakaṃ tayoḥ ādyam dvitīyam anuvartakam // 4.10 //
 
-> There are two kinds of originating condition: one that projects and
-> initiates an action, and one present during the moment of its performance.
-> The first sets the action in motion; the second accompanies its execution.
-> Without the latter, an action already projected would not occur, like an
-> action in a corpse. The Bhāṣya leaves open how this account applies to
-> restraint arising without consciousness.
+
+> Origination is twofold: causal origination and origination in that very
+> moment. Of these, the first initiates, and the second accompanies.
 
 The distinction responds to questions left by the account of ethical
 classification in VAK 4.09. The kārikā study is `VAK_4.10.md`.

@@ -14,12 +14,7 @@ vijñaptyā tu punaḥ sarve kurvanto madhyayānvitāḥ /
 atītayā kṣaṇād ūrdhvam atyāgān nāsty ajātayā // 4.23 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-vijñaptyā tu punaḥ sarve kurvantaḥ madhyayā anvitāḥ /
-atītayā kṣaṇāt ūrdhvam atyāgāt na asti ajātayā //
-```
 
 The preceding Bhāṣya explicitly closes the avijñapti topic. `Tu punaḥ`, “but
 now, in turn,” therefore marks a real transition back to the temporal
@@ -27,9 +22,9 @@ possession of `vijñapti`.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `vijñaptyā` | instrumental feminine singular | with manifest action; with vijñapti |
+| `vijñaptyā` | instrumental feminine singular | with disclosure; with vijñapti |
 | `tu` | adversative/transition particle | but; now in contrast |
 | `punaḥ` | adverb | again; in turn; now returning to |
 | `sarve` | nominative masculine plural | all [three practical classes] |
@@ -42,6 +37,9 @@ possession of `vijñapti`.
 | `atyāgāt` | ablative singular | because of non-abandonment |
 | `na asti` | negated existential construction | there is not; no one possesses |
 | `ajātayā` | instrumental feminine singular | with not-yet-arisen, future [vijñapti] |
+
+
+**Word division (verse order).** `vijñaptyā tu punaḥ sarve kurvantaḥ madhyayā anvitāḥ / atītayā kṣaṇāt ūrdhvam atyāgāt na asti ajātayā //`
 
 **`tu punaḥ`**
 
@@ -68,7 +66,7 @@ one established in non-restraint
 one established in neither
 ```
 
-The temporal rule for manifestation applies irrespective of standing ethical
+The temporal rule for disclosure applies irrespective of standing ethical
 status.
 
 **`madhyā`**
@@ -91,7 +89,7 @@ sarve kurvantaḥ
 vijñaptyā madhyayā anvitāḥ
 ```
 
-> All, while producing [manifest action], are endowed with present vijñapti.
+> All, while producing [disclosure], are endowed with present vijñapti.
 
 The Bhāṣya supplies an exact coextension:
 
@@ -125,26 +123,20 @@ na asti ajātayā [vijñaptyā samanvāgataḥ]
 
 This is a rule about `samanvāgama`, technical possession. It does not deny
 that future actions may later be performed; it denies that their not-yet-
-arisen manifestation is presently possessed as vijñapti.
+arisen disclosure is presently possessed as vijñapti.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > But now, with vijñapti in turn: all who are acting are endowed with it as
 > present. After the first moment, provided it has not been abandoned, they are
 > also endowed with it as past. No one is endowed with future vijñapti.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> But now, turning again to manifest action: everyone—whether established in
-> restraint, non-restraint, or neither—possesses present vijñapti for exactly
-> as long as he is producing it. After its first moment, and so long as it has
-> not been abandoned, he also possesses that vijñapti as past. No one possesses
-> a future, not-yet-arisen vijñapti.
-
-The identification of “all,” the exact duration of present possession, and the
-universal force of the final denial are supplied by the Bhāṣya.
+> All who act possess disclosure as present while they perform it; after its
+> first moment, if it has not been abandoned, they also possess it as past. No
+> one possesses future disclosure.
 
 ## 6. Philosophical Translation
 
@@ -178,14 +170,14 @@ the agent’s action.
 
 **No future possession**
 
-No agent possesses a future vijñapti because manifestation requires actual
+No agent possesses a future vijñapti because disclosure requires actual
 arising. This distinguishes a presently operative disposition or projected
 possibility from an action that has become manifest.
 
 **`atyāga`**
 
 Non-abandonment governs possession of past vijñapti. The verse does not claim
-that every performed manifestation remains indefinitely attributable under
+that every performed disclosure remains indefinitely attributable under
 all conditions.
 
 **Transition marker**
@@ -205,7 +197,7 @@ reciprocation belong to the Organon interpretation.
 
 ## 8. Logical Determination
 
-**Temporal grammar of manifestation**
+**Temporal grammar of disclosure**
 
 ```text
 actual production
@@ -231,7 +223,7 @@ same temporal rule while producing vijñapti
 ```
 
 Standing ethical classification affects the quality and wider karmic context
-of action, but not this elementary temporal form of manifestation.
+of action, but not this basic temporal form of disclosure.
 
 **Reciprocation is not temporal symmetry**
 
@@ -262,6 +254,9 @@ The predicate `vijñapti` becomes valid only with the act’s manifest arising.
 
 ## 9. Interpretive Note
 
+**Translation note.** The identification of “all,” the exact duration of present possession, and the
+universal force of the final denial are supplied by the Bhāṣya.
+
 **The return to vijñapti**
 
 The textual movement now exhibits the Wheel’s dyadic plane with unusual
@@ -275,7 +270,7 @@ avijñapti
     non-manifest persistence and efficacy
         ↓
 vijñapti again
-    manifestation newly determined through the contrast
+    disclosure newly determined through the contrast
 ```
 
 The final term is not a return to the untouched starting point. After the
@@ -294,11 +289,11 @@ The reciprocation can be stated exactly:
 
 ```text
 vijñapti → avijñapti
-    manifestation posits a determination
-    that persists beyond manifestation
+    disclosure posits a determination
+    that persists beyond disclosure
 
 avijñapti → vijñapti
-    persistence returns to manifestation
+    persistence returns to disclosure
     as its ground, expression, and possible renewal
 ```
 
@@ -315,8 +310,8 @@ the field of vijñapti.
 **Reciprocation preserves asymmetry**
 
 A dialectical return is not a flattening symmetry. VAK 4.23 draws a strict
-temporal boundary around manifestation. Future vijñapti cannot be possessed;
-manifestation must actually arise. Some forms of avijñapti, however, have a
+temporal boundary around disclosure. Future vijñapti cannot be possessed;
+disclosure must actually arise. Some forms of avijñapti, however, have a
 future temporal range.
 
 The terms reciprocate semantically precisely because they contribute
@@ -360,12 +355,11 @@ This is our Organon synthesis. Vasubandhu explicitly supplies the structural
 return to vijñapti and its temporal possession-rule; he does not formulate the
 Paramārthika Wheel in these terms.
 
-### Former Philosophical Translation
-
-> Manifest action belongs to the present only in its actual production. Once a
+**Former Philosophical Translation.**
+> Disclosure belongs to the present only in its actual production. Once a
 > moment of that production has passed, the action is also possessed under the
 > determination of pastness, provided it has not been abandoned. But
-> manifestation cannot be possessed in advance as future manifestation: what
+> disclosure cannot be possessed in advance as future disclosure: what
 > has not yet arisen may be intended or otherwise conditioned, but it is not
 > yet `vijñapti` as an actually expressed bodily or verbal act.
 

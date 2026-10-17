@@ -5,13 +5,12 @@
 > nāvyākṛtāsty avijñaptiḥ tridhānyat aśubhaṃ punaḥ /
 > kāme rūpe 'py avijñaptir vijñaptiḥ savicārayoḥ // 4.07 //
 
-> Non-disclosing continuity is never ethically indeterminate: it is either
-> wholesome or unwholesome. Manifestation and volition, by contrast, may each
-> be wholesome, unwholesome, or indeterminate. Unwholesome karma is confined
-> to the desire realm. Non-disclosing continuity occurs in both the desire
-> realm and the Form realm, but not in the formless realms. Bodily and verbal
-> manifestation occurs only in the two levels where `vicāra` remains
-> operative—the desire realm and the first dhyāna.
+
+> Non-disclosing continuity is never ethically indeterminate, but is wholesome
+> or unwholesome. Manifestation and volition, by contrast, are threefold.
+> Unwholesome karma occurs in the desire realm, and non-disclosing continuity
+> also occurs in the Form realm. Manifestation occurs in the two levels with
+> *vicāra*.
 
 The Bhāṣya identifies “the other” as both `vijñapti` and `cetanā`, and
 the two levels as the desire realm and first dhyāna. The Kārikā study

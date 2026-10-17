@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-vyāpādaḥ sattvavidveṣo nāstidṛṣṭiḥ śubhāśubhe /
-mithyādṛṣṭistrayo hyatra panthānaḥ sapta karma ca // 4.78 //
-```
+> vyāpādaḥ sattvavidveṣo nāstidṛṣṭiḥ śubhāśubhe /
+> mithyādṛṣṭistrayo hyatra panthānaḥ sapta karma ca // 4.78 //
 
-> Hostility is hatred of living beings. False view is the view that
-> wholesome and unwholesome karma do not exist. Here the three are routes
-> of karma, while the seven are both karma and routes of karma.
+> Hostility is hatred of living beings. False view is the view that wholesome
+> and unwholesome karma do not exist. Here the three are routes of karma,
+> while the seven are both karma and routes of karma.
 
 The verse completes the definitions of the mental courses and then explains
 the compound `karmapatha`. In the Vaibhāṣika account, the mental three

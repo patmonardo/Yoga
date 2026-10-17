@@ -102,25 +102,17 @@ the temporal status of the candidate result-dharmas.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > For past action, dharmas of all three times stand under four
 > result-relations. For present action, future dharmas stand under those
 > same four, and present dharmas under two. For future action, future dharmas
 > stand under three result-relations.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Past action relates to past, present, and future dharmas through maturation,
-> corresponding, activity-produced, and dominant results; disconnection is
-> excluded. Present action relates to future dharmas through those same four
-> results, but to present dharmas through only activity-produced and dominant
-> results. Future action relates to future dharmas through maturation,
-> activity-produced, and dominant results; corresponding and disconnection
-> are excluded.
-
-The temporal distribution and every exact result-membership are supplied by
-the Bhāṣya.
+> Past action has four result-relations with past, present, and future dharmas.
+> Present action has those same four relations with future dharmas, and two with
+> present dharmas. Future action has three result-relations with future dharmas.
 
 ## 6. Philosophical Translation
 
@@ -254,6 +246,9 @@ corresponding results require a differently mediated temporal relation.
 
 ## 9. Interpretive Note
 
+**Translation note.** The temporal distribution and every exact result-membership are supplied by
+the Bhāṣya. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Past action relates to past, present, and future dharmas through maturation, corresponding, activity-produced, and dominant results; disconnection is excluded. Present action relates to future dharmas through those same four results, but to present dharmas through only activity-produced and dominant results. Future action relates to future dharmas through maturation, activity-produced, and dominant results; corresponding and disconnection are excluded.
+
 VAK 4.90 adds time to the result matrix completed in 4.88–4.89. The same
 source action supports different result-sets according to the temporal
 position of its candidate result. Causal identity is the unity of these
@@ -287,8 +282,7 @@ the bond itself is no longer reproduced. The truth of action is thus not
 timeless escape from causality, but disciplined transformation of its temporal
 actualization.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Causal efficacy has no complete determination apart from the temporal
 > relation of its terms. The same present action has one result-profile
 > with simultaneously present dharmas and another with future dharmas. Its
@@ -310,7 +304,6 @@ Hegelian-transcendental comprehension makes time internal to the causal
 relation. Past, present, and future are not empty containers in which a fixed
 cause is placed. They determine which form of efficacy the cause can have:
 immediate production, dominant conditioning, correspondence, or maturation.
-
 ## 10. OWL++ Seed
 
 ```text

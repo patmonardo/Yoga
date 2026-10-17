@@ -2,22 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dharmāḥ śaikṣādikā ekaṃ phalaṃ trīṇy api ca dvayam /
-tābhyām anyasya śaikṣādyā dve dve pañca phalāni ca // 4.92 //
-```
+> dharmāḥ śaikṣādikā ekaṃ phalaṃ trīṇy api ca dvayam /
+> tābhyām anyasya śaikṣādyā dve dve pañca phalāni ca // 4.92 //
 
-> For beyond-training action, trainee dharmas stand as one result: the
-> dominant result. Dharmas belonging to one beyond training stand as three
-> results, with maturation and disconnection excluded; the corresponding,
-> activity-produced, and dominant results remain. Dharmas belonging to
-> neither trainee nor one beyond training stand as two results:
-> activity-produced and dominant. For action belonging to neither trainee
-> nor one beyond training, trainee dharmas stand as two results:
-> activity-produced and dominant. Dharmas belonging to one beyond training
-> stand in the same way. Dharmas belonging to neither status stand as all
-> five results: maturation, corresponding, disconnection, activity-produced,
-> and dominant.
+> For beyond-training action, dharmas beginning with the trainee class have one,
+> three, and two results, respectively. For action belonging to neither of those
+> two classes, they have two, two, and five results, respectively.
 
 ## 2. Continuous Sanskrit Witness
 

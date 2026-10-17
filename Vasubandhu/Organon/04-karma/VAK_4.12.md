@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> प्रवर्तके शुभादौ हि स्यात्त्रिधाप्यनुवर्तकम् ।
->
-> तुल्यं मुनेः शुभं यावन्नोभयं तु विपाकजम् ॥ ४.१२ ॥
+```sanskrit
+प्रवर्तके शुभादौ हि स्यात्त्रिधाप्यनुवर्तकम् ।
+तुल्यं मुनेः शुभं यावन्नोभयं तु विपाकजम् ॥ ४.१२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> pravartake śubhādau hi syāt tridhāpy anuvartakam /
->
-> tulyaṃ muneḥ śubhaṃ yāvan nobhayaṃ tu vipākajam // 4.12 //
+```text
+pravartake śubhādau hi syāt tridhāpy anuvartakam /
+tulyaṃ muneḥ śubhaṃ yāvan nobhayaṃ tu vipākajam // 4.12 //
+```
 
 VAK 4.10 distinguished initiating from accompanying cognition; VAK 4.11
 classified kinds of Cognition by those functions. VAK 4.12 asks whether
@@ -46,26 +48,17 @@ The first clause places the initiating condition in the locative `pravartake śu
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > When the initiator is wholesome and so forth, the accompanying Cognition
 > may nevertheless be threefold. For the Sage, [the two are] corresponding,
 > within the wholesome limit. Maturation-born [Cognition], however, is
 > neither.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> In an ordinary action-series, the accompanying Cognition may be wholesome,
-> unwholesome, or indeterminate, whatever the ethical class of the initiator.
-> In the Buddha the relation is constrained: a wholesome initiator has a
-> wholesome accompanier; an indeterminate initiator may have an indeterminate
-> or wholesome accompanier, but a wholesome initiator is never followed by
-> an indeterminate one. Maturation-born consciousness is neither initiator
-> nor accompanier because it proceeds without deliberate constructive
-> activity.
-
-The threefold ordinary range, the details of the Buddha-case, and the reason
-for excluding maturation-born consciousness are supplied by the Bhāṣya.
+> When the initiator is wholesome and so forth, the accompanier may nevertheless
+> be of any of the three ethical kinds. For the Sage, they correspond within the
+> wholesome range. Maturation-born consciousness is neither.
 
 ## 6. Philosophical Translation
 
@@ -93,6 +86,8 @@ for excluding maturation-born consciousness are supplied by the Bhāṣya.
 
 ## 9. Interpretive Note
 
+**Translation note.** For ordinary action-series, the accompanier may be wholesome, unwholesome, or indeterminate whatever the initiator's quality. For the Buddha, a wholesome initiator has a wholesome accompanier; an indeterminate initiator may be followed by an indeterminate or wholesome accompanier, while a wholesome initiator is not followed by an indeterminate one. Maturation-born consciousness is neither initiating nor accompanying because it proceeds without deliberate construction. These qualifications come from the Bhāṣya.
+
 ### Textual Notes
 
 The Bhāṣya unit begins with `kiṃ khalu yathā pravartakaṃ tathaivānuvartakaṃ
@@ -106,8 +101,6 @@ The final phrase `anyavyavahitaṃ hetusamutthānaṃ` is translated
 provisionally as causal origination separated by an intervening cognition.
 The closing objection and this qualification require further witness
 comparison.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

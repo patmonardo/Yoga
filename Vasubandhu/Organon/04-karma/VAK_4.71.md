@@ -102,27 +102,16 @@ bases successively across the four groups of courses.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > False view, however, reaches completion through delusion; the remaining
 > courses are held to reach completion through the three. Living being and
 > possession, name-and-form, and name are the bases.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > False view reaches completion through delusion; the remaining courses are
 > held to reach completion through the three. Living being and object of
 > enjoyment, name-and-form, and name are their respective bases.
-
-The Bhāṣya says intensified delusion brings false view to completion, and
-identifies the remaining courses as false speech, divisive speech, and
-disordered speech, each completable through greed, hatred, or delusion. It
-distributes the ten courses into four groups—three, three, one, and three—
-with living being, object of enjoyment, name-and-form, and name-complex as
-their respective bases.
-
-The identities of the remainder, the intensified-delusion explanation, and
-the exact `3 + 3 + 1 + 3` distribution are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -266,6 +255,16 @@ their afflictive function varies.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya says intensified delusion brings false view to completion, and
+identifies the remaining courses as false speech, divisive speech, and
+disordered speech, each completable through greed, hatred, or delusion. It
+distributes the ten courses into four groups—three, three, one, and three—
+with living being, object of enjoyment, name-and-form, and name-complex as
+their respective bases.
+
+The identities of the remainder, the intensified-delusion explanation, and
+the exact `3 + 3 + 1 + 3` distribution are supplied by the Bhāṣya.
+
 **From internal root to objective determination**
 
 The introduction of `adhiṣṭhāna` prevents the analysis from remaining an
@@ -301,8 +300,7 @@ This is the Organon contact. The completion mappings, four bases, and exact
 group distribution belong to the Kārikā and Bhāṣya; the account of their unity
 as relational Practical Form is the project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A course of action is determined neither by inward affliction alone nor by
 > an outward event considered in isolation. An afflictive root becomes
 > determinate as a particular karmapatha, and that course realizes its

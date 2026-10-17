@@ -2,18 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ye nirodhāraṇāmaitrīdarśanārhatphalotthitāḥ /
-teṣu kārāpakārasya phalaṃ sadyo 'nubhūyate // 4.56 //
-```
+> ye nirodhāraṇāmaitrīdarśanārhatphalotthitāḥ /
+> teṣu kārāpakārasya phalaṃ sadyo 'nubhūyate // 4.56 //
 
-> The Bhāṣya also names the Bhikṣu Saṅgha headed by the Buddha as a field. The
-> result of benefit or injury directed toward someone freshly emerged from
-> cessation attainment, non-contention, loving-kindness, the Path of Seeing, or
-> the fruit of arhatship is certainly experienced in this life. The recipient
-> is described as newly peaceful, benevolently oriented, or purified. The verse
-> says `sadyaḥ` (“at once”), while the prose specifies present-life certainty
-> without fixing an exact interval.
+> For those emerging from cessation, non-contention, loving-kindness, the Path
+> of Seeing, or the fruit of arhatship, the result of benefit or harm is
+> experienced at once.
 
 The Bhāṣya's prose specifies that this result is certain **in the
 present life**. The verse's `sadyaḥ` does not establish an exact

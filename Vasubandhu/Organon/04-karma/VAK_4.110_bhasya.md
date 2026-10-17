@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ekaikaṃ puṇyaśatajam asaṃkhyeyatrayāntyajāḥ /
-vipaśyī dīpakṛd ratnaśikhī śākyamuniḥ purā // 4.110 //
-```
+> ekaikaṃ puṇyaśatajam asaṃkhyeyatrayāntyajāḥ /
+> vipaśyī dīpakṛd ratnaśikhī śākyamuniḥ purā // 4.110 //
 
-> Each individual mark is born from a hundred merits. Vipaśyin,
-> Dīpaṃkara, and Ratnaśikhin occur at the ends of the three incalculable
-> periods; earlier was Śākyamuni.
+> Each individual mark is born from a hundred merits. Vipaśyin, Dīpaṃkara, and
+> Ratnaśikhin occur at the ends of the three incalculable periods; earlier was
+> Śākyamuni.
 
 The Bhāṣya asks how much one merit measures, supplies the period-by-period
 chronology, and identifies an earlier Buddha Śākyamuni as the setting of

@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-viparyayāt sucaritaṃ tadaudārikasaṃgrahāt /
-daśa karmapathā uktā yathāyogaṃ śubhāśubhāḥ // 4.66 //
-```
+> viparyayāt sucaritaṃ tadaudārikasaṃgrahāt /
+> daśa karmapathā uktā yathāyogaṃ śubhāśubhāḥ // 4.66 //
 
-> Good conduct is the converse [of bad conduct]. By selecting the
-> salient forms of those conducts, ten courses of karma are taught,
-> wholesome or unwholesome as applicable.
+> Good conduct is the converse [of bad conduct]. By selecting the salient
+> forms of those conducts, ten courses of karma are taught, wholesome or
+> unwholesome as applicable.
 
 The ten are a selection from a wider ethical field, not an
 exhaustive list of everything good or bad one can do.

@@ -90,28 +90,16 @@ present manifestation there.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > In hell, disordered or frivolous speech, harsh speech, and ill will occur in
 > both modes; covetousness and false view occur by endowment. In Kuru, the
 > three occur by endowment.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > In hell, disordered or frivolous speech, harsh speech, and ill will occur in
 > both modes; covetousness and false view occur by endowment. In Kuru, the
 > three occur by endowment.
->
-> The Bhāṣya explains that the first three Courses of Action are both
-> endowments and presently manifest: lamentation manifests disordered speech,
-> mutual torment harsh speech, and mutual hatred ill will. Covetousness and
-> false view remain endowed but do not manifest in hell, where there is no
-> attractive basis and karmic result is directly evident. In Uttarakuru,
-> covetousness, ill will, and false view remain endowed but unmanifest because
-> possessiveness, a hostile basis, and an unwholesome disposition are absent.
-
-The two modes, the manifestation examples, and the explanations of absence are
-supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -286,6 +274,16 @@ endowed
 
 ## 9. Interpretive Note
 
+**Translation note.** The two modes, the manifestation examples, and the
+explanations of absence are supplied by the Bhāṣya. The Bhāṣya explains that
+the first three Courses of Action are both endowments and presently manifest:
+lamentation manifests disordered speech, mutual torment harsh speech, and
+mutual hatred ill will. Covetousness and false view remain endowed but do not
+manifest in hell, where there is no attractive basis and karmic result is
+directly evident. In Uttarakuru, covetousness, ill will, and false view remain
+endowed but unmanifest because possessiveness, a hostile basis, and an
+unwholesome disposition are absent.
+
 **Endowment, possibility, and actuality**
 
 The text requires three levels:
@@ -321,8 +319,7 @@ The Bhāṣya's destiny-specific examples ground the three-level modal model:
 endowment, manifestability, and manifestation remain distinct, with each
 Course of Action tested against its own constitutive conditions.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A karmic determination can belong operatively to a continuum without being
 > actual in the present event. Manifestation requires more than endowment: the
 > destiny-setting must supply the relevant relational basis, motive, practical

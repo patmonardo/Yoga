@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कामेऽपि निवृता नास्ति समुत्थानमसद्यतः ।
->
-> परमार्थशुभो मोक्षः स्वतो मूलह्य्रपत्रपाः ॥ ४.८ ॥
+```sanskrit
+कामेऽपि निवृता नास्ति समुत्थानमसद्यतः ।
+परमार्थशुभो मोक्षः स्वतो मूलह्य्रपत्रपाः ॥ ४.८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kāme 'pi nivṛtā nāsti samutthānam asad yataḥ /
->
-> paramārthaśubho mokṣaḥ svato mūlahryapatrapāḥ // 4.8 //
+```text
+kāme 'pi nivṛtā nāsti samutthānam asad yataḥ /
+paramārthaśubho mokṣaḥ svato mūlahryapatrapāḥ // 4.8 //
+```
 
 VAK 4.07 classified karma by ethical quality and realm. VAK 4.08 first
 explains the absence of obscured-indeterminate manifestation in the desire
@@ -44,25 +46,16 @@ The first pāda places the understood subject in the locative `kāme`; `yataḥ`
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Even in the desire realm, obscured [manifestation] does not occur, because
 > its originating condition is absent. Liberation is wholesome ultimately;
 > the roots, `hrī`, and `apatrāpya` are wholesome intrinsically.
 
-### Bhāṣya-informed Study Translation
+### Bhāṣya-informed study translation
 
-> Obscured-indeterminate manifestation does not occur in the desire realm; the
-> Bhāṣya reports it in Brahmaloka. The commentary explains its absence in the
-> desire realm, and above Brahmaloka, by the absence of the required
-> originating consciousness. Liberation—nirvāṇa—is wholesome ultimately,
-> because it is the complete pacification of suffering and supreme security.
-> The three wholesome roots, `hrī`, and `apatrāpya` are wholesome by intrinsic
-> nature, not through dependence on another wholesome factor.
-
-The Brahmaloka example, the alternative higher-dhyāna account, the
-`vitarka`-`vicāra` condition, and the explanations of the two ethical grounds
-are supplied by the Bhāṣya.
+> Even in the desire realm, obscured manifestation does not arise because its
+> originating condition is absent. Liberation is ultimately wholesome; the
+> roots, *hrī*, and *apatrāpya* are wholesome by their own nature.
 
 ## 6. Philosophical Translation
 
@@ -93,6 +86,8 @@ are supplied by the Bhāṣya.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya reports the Brahmaloka example and offers an alternative account at higher dhyāna levels, including the *vitarka*–*vicāra* condition. It explains liberation's ultimate wholesomeness as complete pacification of suffering and supreme security; the roots, *hrī*, and *apatrāpya* are wholesome intrinsically, not through another wholesome factor.
+
 ### Textual Notes
 
 The natural unit runs from [201|18] through [202|12] in
@@ -106,8 +101,6 @@ silently normalizing the witness. The Sanskrit describes Mahābrahmā's
 deceitful act as bodily action, while the [parallel Chinese translations](https://www2.hf.uio.no/polyglotta/index.php?cid=503127&level=1&page=fulltext&vid=511&view=fulltext)
 describe speech and self-praise. The precise form of that anecdotal act
 remains unsettled.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

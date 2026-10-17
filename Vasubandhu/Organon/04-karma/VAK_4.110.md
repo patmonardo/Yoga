@@ -66,25 +66,16 @@ the vow to become a Buddha of that kind.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Each individual mark is born from a hundred merits. Vipaśyin,
 > Dīpaṃkara, and Ratnaśikhin occur at the ends of the three incalculable
 > periods; earlier was Śākyamuni.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Each individual mark is born from a hundred merits. Vipaśyin,
-> Dīpaṃkara, and Ratnaśikhin occur at the ends of the three incalculable
-> periods; earlier was Śākyamuni. The Bhāṣya reverses the names into
-> chronological order: Ratnaśikhin ends the first period, Dīpaṃkara the
-> second, and Vipaśyin the third. Before these, an earlier Buddha named
-> Śākyamuni was present when the Bodhisattva first vowed, “May I become
-> a Buddha of just this kind.”
-
-The Bhāṣya asks what one merit measures and reports three different
-answers. It also gives counts of Buddhas attended in each period. These
-explanations and the first-vow episode are not all stated in the kārikā.
+> Each individual mark is born from a hundred merits. Vipaśyin, Dīpaṃkara, and
+> Ratnaśikhin occur at the ends of the three incalculable periods; earlier was
+> Śākyamuni.
 
 ## 6. Philosophical Translation
 
@@ -132,6 +123,10 @@ or present the numbers as one speaker's account.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya asks what one merit measures and reports three different
+answers. It also gives counts of Buddhas attended in each period. These
+explanations and the first-vow episode are not all stated in the kārikā. The informed translation also included: The Bhāṣya reverses the names into chronological order: Ratnaśikhin ends the first period, Dīpaṃkara the second, and Vipaśyin the third. Before these, an earlier Buddha named Śākyamuni was present when the Bodhisattva first vowed, “May I become a Buddha of just this kind.”
+
 The hundredfold statement gives each mark its own merit-ground. The
 Bhāṣya then resists reducing “one merit” to a convenient human unit:
 reported estimates range from the enjoyment-result of beings to the
@@ -153,8 +148,7 @@ teaching is rough in this witness and is not conjecturally reconstructed.
 The unit covers `[266|11]–[267|02]` and stops before the question about
 the perfections at `[267|03]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Each mark has a determinate hundredfold merit-ground, while the measure
 > of a single merit is disputed or reserved to Buddha-knowledge. The mark
 > is thus presented as a specific result of accumulated action, not a

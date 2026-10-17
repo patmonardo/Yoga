@@ -14,12 +14,7 @@ asaṃvarasya kriyayā lābho 'bhyupagamena vā /
 śeṣāvijñaptilābhas tu kṣetrādānādarehanāt // 4.37 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-asaṃvarasya kriyayā lābhaḥ abhyupagamena vā /
-śeṣa-avijñapti-lābhaḥ tu kṣetra-ādāna-ādara-īhanāt //
-```
 
 The second half is densely compressed. The Bhāṣya controls its distribution:
 remaining avijñapti arises through a specially efficacious field, through a
@@ -27,7 +22,7 @@ deliberate undertaking, or through action pursued with sufficient earnestness.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `asaṃvarasya` | genitive masculine singular | of non-restraint |
 | `kriyayā` | instrumental feminine singular | through action or performance |
@@ -40,6 +35,9 @@ deliberate undertaking, or through action pursued with sufficient earnestness.
 | `ādāna` | compound member | taking up; clarified as `samādāna` |
 | `ādara` | compound member | earnestness, seriousness, intensity |
 | `īhana` | ablative member from `īhā` | striving, active performance |
+
+
+**Word division (verse order).** `asaṃvarasya kriyayā lābhaḥ abhyupagamena vā / śeṣa-avijñapti-lābhaḥ tu kṣetra-ādāna-ādara-īhanāt //`
 
 **`kriyā`**
 
@@ -142,23 +140,16 @@ list would obscure the relation between earnestness and striving.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Non-restraint is acquired through action or through deliberate adoption.
 > The remaining avijñapti, however, is acquired through a field, undertaking,
 > or earnest striving.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Non-restraint is acquired either by performing the harmful occupational
-> activity or by deliberately adopting that livelihood as one’s own. Other
-> avijñapti—neither complete restraint nor complete non-restraint—arises
-> through relation to a specially efficacious field, through taking up a
-> continuing practice, or through pursuing a wholesome or unwholesome action
-> with sufficient earnestness and effort.
-
-The occupational distinction, the material-support example, and the joining
-of earnestness with performance are supplied by the Bhāṣya.
+> Non-restraint is acquired through action or deliberate undertaking. Other
+> non-disclosing continuity is acquired through a field, undertaking, and
+> earnest endeavor.
 
 ## 6. Philosophical Translation
 
@@ -334,6 +325,9 @@ different genetic relation.
 
 ## 9. Interpretive Note
 
+**Translation note.** The occupational distinction, the material-support example, and the joining
+of earnestness with performance are supplied by the Bhāṣya.
+
 **How activity becomes form**
 
 VAK 4.37 asks the central genetic question directly:
@@ -404,8 +398,7 @@ arises, but how it is abandoned.
 This is the Organon contact. The occupational cases, three routes for other
 avijñapti, and explicit transition to abandonment belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A persistent practical form can arise in more than one direction. Repeated
 > life-activity may generate a standing non-restraint, while deliberate
 > adoption of a harmful livelihood may institute that standing form in

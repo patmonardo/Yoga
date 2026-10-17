@@ -14,21 +14,16 @@ vijñaptyaivānvitaḥ kurvan madhyastho mṛducetanaḥ /
 tyaktānutpannavijñaptir avijñapty āryapudgalaḥ // 4.25 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-vijñaptyā eva anvitaḥ kurvan madhyasthaḥ mṛdu-cetanaḥ /
-tyakta-anutpanna-vijñaptiḥ avijñaptyā ārya-pudgalaḥ //
-```
 
 The verse gives the two crossed cases announced by the Bhāṣya’s
 `catuṣkoṭika`: vijñapti without avijñapti, then avijñapti without vijñapti.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `vijñaptyā` | instrumental feminine singular | with manifestation; with manifest action |
+| `vijñaptyā` | instrumental feminine singular | with disclosure; with disclosure |
 | `eva` | restrictive particle | only; precisely |
 | `anvitaḥ` | nominative masculine singular | endowed with; possessed of |
 | `kurvan` | nominative masculine singular present participle | acting; while performing |
@@ -37,8 +32,11 @@ The verse gives the two crossed cases announced by the Bhāṣya’s
 | `tyakta` | compound member, past passive participle | abandoned; relinquished |
 | `anutpanna` | compound member, past passive participle with privative prefix | not arisen; not yet produced |
 | `vijñaptiḥ` | compound-final feminine noun | whose vijñapti is abandoned or unarisen |
-| `avijñaptyā` | instrumental feminine singular | with non-manifest action |
+| `avijñaptyā` | instrumental feminine singular | with non-disclosing continuity |
 | `āryapudgalaḥ` | nominative masculine singular | noble person |
+
+
+**Word division (verse order).** `vijñaptyā eva anvitaḥ kurvan madhyasthaḥ mṛdu-cetanaḥ / tyakta-anutpanna-vijñaptiḥ avijñaptyā ārya-pudgalaḥ //`
 
 **`mṛducetanā`**
 
@@ -66,7 +64,7 @@ vijñaptyā eva
     not with avijñapti
 ```
 
-The verse is not merely emphasizing manifestation; it excludes the other mode
+The verse is not merely emphasizing disclosure; it excludes the other mode
 of possession in this case.
 
 **`tyaktānutpannavijñapti`**
@@ -131,27 +129,22 @@ In either circumstance the noble person remains endowed with avijñapti.
 
 ## 5. Translation
 
-### Literal
+### Literal Translation
+> A person established in neither restraint nor non-restraint, acting with
+> weak intention, is endowed only with disclosure. A noble person whose
+> disclosure has been abandoned or has not arisen is endowed with
+> non-disclosing continuity.
+
+### Bhāṣya-informed study translation
 
 > A person established in neither restraint nor non-restraint, acting with
-> weak intention, is endowed only with manifestation. A noble person whose
-> manifestation has been abandoned or has not arisen is endowed with
-> non-manifest action.
-
-### Bhāṣya-informed
-
-> A middle-position person performing wholesome or unwholesome action with
-> weak intention possesses the manifest action alone, without avijñapti. A
-> noble person whose corresponding manifestation has either not yet arisen
-> after transition into another birth or has been abandoned possesses
-> avijñapti alone, without vijñapti.
-
-The ethical range of the first action, the new-birth setting, and both explicit
-exclusions are supplied by the Bhāṣya.
+> weak intention, is endowed with disclosure alone. A noble person whose
+> disclosure is relinquished or has not arisen is endowed with non-disclosing
+> continuity alone.
 
 ## 6. Philosophical Translation
 
-> A person established in neither restraint nor non-restraint, acting with weak intention, is endowed only with manifestation. A noble person whose manifestation has been abandoned or has not arisen is endowed with non-manifest action.
+> A person established in neither restraint nor non-restraint, acting with weak intention, is endowed only with disclosure. A noble person whose disclosure has been abandoned or has not arisen is endowed with non-disclosing continuity.
 
 ## 7. Technical Vocabulary
 
@@ -161,7 +154,7 @@ The `madhyastha` possesses neither the comprehensive restraint system nor the
 comprehensive non-restraint system. A particular act can therefore remain an
 episode rather than establishing either standing form.
 
-**Weak intention and manifest action**
+**Weak intention and disclosure**
 
 ```text
 weak cetanā
@@ -251,7 +244,7 @@ cetanā
     determines the force and direction of action
 
 vijñapti
-    determines actual manifestation
+    determines actual disclosure
 
 avijñapti
     determines continuing non-manifest possession
@@ -261,6 +254,9 @@ Weak cetanā explains one separation-case. It does not make vijñapti and
 avijñapti mere names for volitional strength.
 
 ## 9. Interpretive Note
+
+**Translation note.** The ethical range of the first action, the new-birth setting, and both explicit
+exclusions are supplied by the Bhāṣya.
 
 **Reciprocation is stronger than inseparability**
 
@@ -281,10 +277,10 @@ the other while remaining capable of independent possession.
 
 ```text
 vijñapti → avijñapti
-    when manifest action institutes persistent determination
+    when disclosure institutes persistent determination
 
 vijñapti ↛ avijñapti
-    when weak intention leaves the act at manifestation
+    when weak intention leaves the act at disclosure
 
 avijñapti → vijñapti
     when persistent determination becomes expressed again
@@ -311,7 +307,7 @@ Karma as Concept
 ```
 
 But the sequence must remain reciprocal. Persistent form can return into new
-manifestation, and current manifestation can either generate or fail to
+disclosure, and current disclosure can either generate or fail to
 generate persistent form. Karma is the Concept holding these differentiated
 relations together.
 
@@ -336,13 +332,12 @@ This is an Organon reconstruction. Vasubandhu explicitly establishes the two
 crossed possession-cases and closes the local arrangement of vijñapti and
 avijñapti.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Manifestation and non-manifest karmic determination can be separated in
 > either direction. Weak volition may produce an actual bodily or verbal
-> manifestation without instituting a continuing avijñapti. Conversely, the
+> disclosure without instituting a continuing avijñapti. Conversely, the
 > noble Path’s non-manifest restraint can remain possessed when no
-> corresponding manifestation is presently possessed—whether because it has
+> corresponding disclosure is presently possessed—whether because it has
 > not yet arisen in the new birth or because it has been relinquished.
 
 The verse establishes distinct possession-relations. It does not reduce

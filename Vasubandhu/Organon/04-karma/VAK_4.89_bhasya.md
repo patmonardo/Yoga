@@ -2,18 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-aśubhasya śubhādyā dve trīṇi catvāry anukramam /
-avyākṛtasya dve trīṇi trīṇi caite śubhādayaḥ // 4.89 //
-```
+> aśubhasya śubhādyā dve trīṇi catvāry anukramam /
+> avyākṛtasya dve trīṇi trīṇi caite śubhādayaḥ // 4.89 //
 
-> Wholesome dharmas stand to unwholesome action through activity-produced
-> and dominant results; unwholesome dharmas through corresponding,
-> activity-produced, and dominant results; and indeterminate dharmas through
-> maturation, corresponding, activity-produced, and dominant results.
-> Wholesome dharmas stand to indeterminate action through activity-produced
-> and dominant results; both unwholesome and indeterminate dharmas stand to
-> it through corresponding, activity-produced, and dominant results.
+> For unwholesome action, wholesome, unwholesome, and indeterminate dharmas have
+> two, three, and four results, respectively. For indeterminate action, those
+> three classes have two, three, and three results, respectively.
 
 Together with 4.88, this verse completes a three-by-three matrix relating the
 ethical quality of action to the ethical quality of dharmas functioning as

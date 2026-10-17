@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> नैःष्यन्दिकी च सत्त्वाख्या निष्यन्दोपात्तभूतजा ।
->
-> समाधिजौपचयिकानुपात्ताभिन्नभूतजा ॥ ४.६ ॥
+```sanskrit
+नैःष्यन्दिकी च सत्त्वाख्या निष्यन्दोपात्तभूतजा ।
+समाधिजौपचयिकानुपात्ताभिन्नभूतजा ॥ ४.६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> naiḥṣyandikī ca sattvākhyā niṣyandopātta-bhūtajā /
->
-> samādhijā aupacayikānupāttābhinna-bhūtajā // 4.6 //
+```text
+naiḥṣyandikī ca sattvākhyā niṣyandopātta-bhūtajā /
+samādhijā aupacayikānupāttābhinna-bhūtajā // 4.6 //
+```
 
 VAK 4.05 determined the level-relative Great-Element support of bodily and verbal
 karma. VAK 4.06 now differentiates `avijñapti` according to its genesis and
@@ -51,28 +53,19 @@ Both hemistichs share the understood subject `avijñaptiḥ`. The first coordina
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > [Non-disclosing continuity] is homogeneous-outflow-derived and designated in
 > relation to a sentient being, born from homogeneous-outflow-derived,
 > appropriated Great Elements. That born from samādhi is
 > cultivation-produced, non-appropriated, and born from an undivided
 > Great-Element basis.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> At a non-concentrated level, `avijñapti` is a homogeneous causal
-> continuation designated in relation to a sentient continuum. It arises in
-> dependence upon outflow-derived, appropriated Great Elements and upon
-> consciousness and mental factors. The `avijñapti` born from samādhi—the
-> restraints of dhyāna and of the uncontaminated path—is produced through
-> cultivation and is non-appropriated. Its seven abstentions arise from one
-> undivided, common Great-Element basis, unlike the seven distinct bases of
-> prātimokṣa restraint.
-
-Dependence upon `citta-caitta`, the non-concentrated level, the identification
-of the two samādhi restraints, the enumeration of seven abstentions, and the
-contrast with `prātimokṣa` are determinations supplied by the Bhāṣya.
+> [Non-disclosing continuity] is homogeneous-outflow-derived and designated in
+> relation to a sentient being; it is born from appropriated Great Elements
+> produced by homogeneous outflow. Samādhi-born [non-disclosing continuity] is
+> cultivation-produced and born from non-appropriated, undivided Great Elements.
 
 ## 6. Philosophical Translation
 
@@ -120,14 +113,14 @@ Ordinary non-disclosing continuity → the first set of predicates; meditation-b
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya places the first kind at the non-concentrated level and adds dependence on consciousness and mental factors. It identifies the two samādhi-born forms as dhyāna restraint and uncontaminated restraint. Their seven abstentions depend on one undivided, common Great-Element basis, unlike the seven distinct bases of prātimokṣa restraint.
+
 The Bhāṣya distinguishes two sources of `avijñapti`: ordinary causal
 continuation, supported by appropriated Great Elements and mental factors,
 and restraint born from samādhi, supported by a common undivided set of Great
 Elements. It contrasts the latter with prātimokṣa restraint, whose seven
 non-disclosing continuities have distinct bases. This unit does not develop a
 broader account of the Path or of samādhi's place in the whole chapter.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

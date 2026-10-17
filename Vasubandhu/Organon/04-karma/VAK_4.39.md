@@ -14,12 +14,7 @@ patanīyena cety eke saddharmāntardhito 'pare /
 dhanarṇavat tu kāśmīrair āpannasyeṣyate dvayam // 4.39 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-patanīyena ca iti eke sat-dharma-antardhitaḥ apare /
-dhana-ṛṇa-vat tu kāśmīraiḥ āpannasya iṣyate dvayam //
-```
 
 The verse reports three positions. It does not identify the Kāśmīra
 wealth-and-debt analogy as Vasubandhu’s own final conclusion. The Bhāṣya
@@ -27,7 +22,7 @@ subjects that position to sustained criticism.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `patanīyena` | instrumental neuter singular | through an offense entailing downfall or defeat |
 | `ca` | conjunction | also; as an additional cause |
@@ -41,6 +36,9 @@ subjects that position to sustained criticism.
 | `āpannasya` | genitive masculine singular | of one who has incurred the offense |
 | `iṣyate` | third-person singular present passive | is maintained; is accepted doctrinally |
 | `dvayam` | nominative neuter singular | the pair; both restraint and misconduct |
+
+
+**Word division (verse order).** `patanīyena ca iti eke sat-dharma-antardhitaḥ apare / dhana-ṛṇa-vat tu kāśmīraiḥ āpannasya iṣyate dvayam //`
 
 **`patanīya`**
 
@@ -130,26 +128,17 @@ determinations.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Some say [prātimokṣa restraint is abandoned] also through a downfall
 > offense; others, through disappearance of the true Dharma. The Kāśmīras,
 > however, maintain that the offender has both [restraint and misconduct], as
 > one may have both wealth and debt.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Some authorities hold that committing one of the four root downfall
-> offenses destroys bhikṣu or śrāmaṇera restraint. Others hold that
-> prātimokṣa restraint is lost when the true Dharma and its disciplinary
-> institutions disappear. The Kāśmīra Vaibhāṣikas reject both simple losses
-> and maintain instead that the grave offender still possesses the earlier
-> restraint together with the newly incurred misconduct, just as one person
-> may possess both wealth and debt.
-
-The identification of the four offenses, the monastic restraint-types, and
-the pair as `śīla` and `dauḥśīlya` are supplied by the Bhāṣya. Its subsequent
-argument does not leave the Kāśmīra position unchallenged.
+> Some say restraint is lost through a downfall offense, others when the true
+> Dharma disappears; the Kāśmīras hold that the offender possesses both
+> restraint and non-restraint, as with wealth and debt.
 
 ## 6. Philosophical Translation
 
@@ -182,7 +171,7 @@ continuum is not reduced to a single moral-status flag.
 
 **`āviṣkaraṇa`**
 
-Disclosure or manifestation of the offense is compared to paying a debt. In
+Disclosure or disclosure of the offense is compared to paying a debt. In
 the Kāśmīra model, it removes the outstanding characterization by misconduct
 without requiring the claim that restraint had vanished and been newly
 created.
@@ -351,6 +340,10 @@ Kāśmīra claim that even a root downfall leaves the whole restraint intact.
 
 ## 9. Interpretive Note
 
+**Translation note.** The identification of the four offenses, the monastic restraint-types, and
+the pair as `śīla` and `dauḥśīlya` are supplied by the Bhāṣya. Its subsequent
+argument does not leave the Kāśmīra position unchallenged.
+
 **Contradiction can be immanent without being terminal**
 
 The Kāśmīra model captures an important practical truth:
@@ -412,8 +405,7 @@ This is the Organon contact: coexistence, root-destruction, residual form,
 generative capacity, and institutional acquisition. The school positions,
 scriptural dispute, and final conclusion belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A contrary determination need not automatically erase a previously
 > acquired practical form; opposition and non-possession are different. Yet
 > this coexistence principle has a limit. A grave act may not merely oppose

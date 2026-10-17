@@ -2,15 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-saṃghabhede mṛṣāvādo mahāvadyatamo mataḥ /
-bhavāgracetanā loke mahāphalatamā śubhe // 4.105 //
-```
+> saṃghabhede mṛṣāvādo mahāvadyatamo mataḥ /
+> bhavāgracetanā loke mahāphalatamā śubhe // 4.105 //
 
-> Among the immediate-result actions, false speech producing Saṅgha
-> division is regarded as the most culpable. Among wholesome actions in
-> the world, volition at the summit of becoming is greatest with respect
-> to maturation-result.
+> In Saṅgha division, false speech is regarded as the most culpable. Among
+> wholesome actions in the world, volition at the summit of becoming has the
+> greatest maturation-result.
 
 ## 2. Continuous Sanskrit Witness
 

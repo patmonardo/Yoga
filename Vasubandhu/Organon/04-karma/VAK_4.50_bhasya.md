@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-niyatāniyataṃ tac ca niyataṃ trividhaṃ punaḥ /
-dṛṣṭadharmādivedyatvāt pañcadhā karma kecana // 4.50 //
-```
+> niyatāniyataṃ tac ca niyataṃ trividhaṃ punaḥ /
+> dṛṣṭadharmādivedyatvāt pañcadhā karma kecana // 4.50 //
 
-> Karma is either determinate—its maturation must be experienced—or
-> indeterminate, whose maturation is not necessary. Determinate karma is
-> threefold: it matures in the present life, in the immediately following
-> rebirth, or in a later life. Together with indeterminate karma these make
-> four classes. Some authorities count five by dividing indeterminate karma
-> according to whether its maturation is itself determinate or indeterminate.
+> Karma is determinate or indeterminate. Determinate karma is again threefold,
+> beginning with what is to be experienced in the present life. Some authorities
+> count karma as fivefold.
 
 The complete unit begins at [229|19] and continues through the
 Vaibhāṣika seed analogy at [230|07]. The next kārikā begins at

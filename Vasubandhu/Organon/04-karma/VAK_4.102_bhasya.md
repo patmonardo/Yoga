@@ -2,15 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ādāv ante 'rbudāt pūrvaṃ yugāc coparate munau /
-sīmāyāṃ cāpy abaddhāyāṃ cakrabhedo na jāyate // 4.102 //
-```
+> ādāv ante 'rbudāt pūrvaṃ yugāc coparate munau /
+> sīmāyāṃ cāpy abaddhāyāṃ cakrabhedo na jāyate // 4.102 //
 
-> Division of the Dharma Chakra does not arise at the beginning or end,
-> before defects of discipline and view have arisen, before the foremost
-> pair of disciples has appeared, after the Sage has passed away, or while
-> the communal boundary remains unbound.
+> Wheel-division does not arise at the beginning or end, before the *arbuda*,
+> before the pair [of foremost disciples], after the Sage has passed away, or
+> while the boundary is unbound.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-asaṃvarasthaḥ śubhayāśubhayā saṃvare sthitaḥ /
-avijñaptyānvito yāvat prasādakleśavegavān // 4.22 //
-```
+> asaṃvarasthaḥ śubhayāśubhayā saṃvare sthitaḥ /
+> avijñaptyānvito yāvat prasādakleśavegavān // 4.22 //
 
-> A person established in non-restraint may generate wholesome avijñapti while
-> acting under a powerful movement of `prasāda`, such as in praise or
-> reverence. Conversely, a person established in restraint may generate
-> unwholesome avijñapti while acting under a powerful defilement, as in killing,
-> binding, or striking. Each contrary avijñapti continues only for as long as
-> its generating force continues.
+> One established in non-restraint is endowed with wholesome non-disclosing
+> continuity, and one established in restraint with unwholesome non-disclosing
+> continuity, for as long as the force of prasāda or defilement continues.
 
 The running source unit begins with the question at [210|11–12] and
 ends with the explicit avijñapti closing sentence at [210|19] in

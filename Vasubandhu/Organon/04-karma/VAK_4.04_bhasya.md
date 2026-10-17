@@ -5,14 +5,12 @@
 > trividhāmalarūpoktivṛddhyakurvatpathādibhiḥ /
 > kṣaṇād ūrdhvam avijñaptiḥ kāmāptātītabhūtajā // 4.04 //
 
-> The Vaibhāṣikas argue for a distinct real Form Dharma from
-> the scriptural teaching of three classes of Form and uncontaminated Form,
-> from the continued increase of merit, from completion of an action-course
-> when its instigator does not personally perform the final deed, and from
-> further considerations such as restraint and the completeness of the Noble
-> Eightfold Path. Beyond its first moment, desire-domain `avijñapti` is
-> generated from past Great Elements as its producing basis, while present
-> bodily Great Elements supply its continuing support.
+
+> The Vaibhāṣikas establish *avijñapti* as a distinct real Form Dharma from
+> teachings on three kinds of Form and on uncontaminated Form, the increase of
+> merit, action-paths completed through another's agency, and other grounds.
+> Beyond its first moment, desire-realm *avijñapti* is born from past Great
+> Elements.
 
 The first pāda condenses the Vaibhāṣika case for a distinct `avijñapti`.
 The Bhāṣya supplies an extended Sautrāntika reply before its final account

@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dharmadānaṃ yathābhūtasūtrādyakliṣṭadeśanā /
-puṇyanirvāṇanirvedhabhāgīyaṃ kuśalaṃ tridhā // 4.125 //
-```
+> dharmadānaṃ yathābhūtasūtrādyakliṣṭadeśanā /
+> puṇyanirvāṇanirvedhabhāgīyaṃ kuśalaṃ tridhā // 4.125 //
 
-> Dharma-giving is the unafflicted exposition of sūtra and related
-> teachings as they are. Wholesome activity is threefold: merit-oriented,
-> nirvāṇa-oriented, and penetration-oriented.
+> Dharma-giving is the unafflicted exposition of sūtra and related teachings as they
+> are. Wholesome activity is threefold: merit-oriented, nirvāṇa-oriented, and
+> penetration-oriented.
 
 The verse uses `nirvāṇabhāgīya`; the Bhāṣya explains this middle category
 as `mokṣabhāgīya`, liberation-oriented.
@@ -96,7 +94,7 @@ existing liberation-oriented wholesome root. The sprout-and-seed
 comparison explains the inference; it does not make the response itself
 the root or establish it as a necessary sign for every hearer.
 
-## 5. Textual and Scope Notes
+## 5. Review Status
 
 The source unit begins by closing material giving at `[274|14]`. The
 verse's first statement occurs at `[274|15]`; its threefold classification

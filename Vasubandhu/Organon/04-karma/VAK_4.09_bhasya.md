@@ -5,17 +5,11 @@
 > saṃprayogeṇa tadyuktāḥ samutthānāt kriyādayaḥ /
 > viparyayeṇākuśalaṃ paramāvyākṛte dhruve // 4.09 //
 
-> Dharmas associated with the wholesome roots, `hrī`, and `apatrāpya` are
-> wholesome through association. Bodily and verbal actions and related
-> products are wholesome through originating from such wholesome Dharmas,
-> although the Bhāṣya leaves a difficulty about certain acquisitions
-> unresolved. The unwholesome follows the contrary pattern: saṃsāra is
-> unwholesome ultimately; unwholesome roots and factors are unwholesome
-> intrinsically; associated Dharmas and their products are unwholesome through
-> association and origination. Relative to karmic maturation, contaminated
-> Dharmas may be wholesome or indeterminate. Space and non-analytical
-> cessation are the two unconditioned Dharmas that are indeterminate without
-> qualification.
+
+> Those associated with the wholesome roots are wholesome through association;
+> actions and related formations are wholesome through origination. The contrary
+> applies to the unwholesome. Space and non-analytical cessation, the two
+> permanent Dharmas, are ultimately indeterminate.
 
 “Those factors” refers to the wholesome roots, `hrī`, and `apatrāpya` in
 VAK 4.08. The kārikā study is `VAK_4.09.md`.

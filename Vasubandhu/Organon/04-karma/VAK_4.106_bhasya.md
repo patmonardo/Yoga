@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dūṣaṇaṃ mātur arhantyā niyatisthasya māraṇam /
-bodhisattvasya śaikṣasya saṃghāyadvārahārikā // 4.106 //
-```
+> dūṣaṇaṃ mātur arhantyā niyatisthasya māraṇam /
+> bodhisattvasya śaikṣasya saṃghāyadvārahārikā // 4.106 //
 
-> Violation of one's mother when she is an arhat; killing a bodhisattva
-> established in certainty; killing a trainee; and taking away an access
-> or means associated with the Saṅgha's comfort.
+> Violation of one's mother when she is an arhat; killing a bodhisattva established
+> in certainty; killing a trainee; and taking away an access or means associated
+> with the Saṅgha's comfort.
 
 The kārikā gives four members. The Bhāṣya completes the set with the fifth
 member named in the opening half of 4.107.

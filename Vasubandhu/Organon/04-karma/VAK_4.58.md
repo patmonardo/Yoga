@@ -47,8 +47,8 @@ afflictive distraction.
 
 **`manaścitta`**
 
-The Bhāṣya glosses this as `manovijñāna`, the mental knowledge-series. The five
-sensory knowledge-series are excluded because they are `avikalpaka`.
+The Bhāṣya glosses this as `manovijñāna`, the mental cognition-series. The five
+sensory cognition-series are excluded because they are `avikalpaka`.
 
 **`vipākaja`**
 
@@ -104,27 +104,16 @@ range of beings in the text's cosmology.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Mental derangement occurs in mental cognition. It may be born from karmic
 > maturation and may also arise through fear, injury, bodily imbalance, or
 > grief among those designated by the disputed `akurukāminām`.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Mental derangement occurs in `manovijñāna`, not in the five non-conceptual
-> sensory knowledge-series. It can arise downstream from karmic maturation:
-> the direct maturation disturbs the bodily or elemental constitution, and the
-> resulting disequilibrium disorders mental cognition and recollection. It may
-> also arise through fear, physical injury, bodily imbalance, or grief. The
-> Bhāṣya parses the population phrase as `akuruṇāṃ kāminām` (“those without
-> compassion in the Desire Realm”); a competing division of `akurukāminām` is
-> `a-kuru-kāminām` (“Desire-Realm beings outside the Kurus”). The intended
-> division and population range remain uncertain.
-
-The exclusion of the sensory series and the mediate bodily causal sequence are
-supplied by the Bhāṣya.
-
+> Mental derangement occurs in mental cognition; it is born from karmic
+> maturation, and also from fear, injury, imbalance, and grief among those
+> called `akurukāminām`.
 ## 6. Philosophical Translation
 
 > Mental derangement occurs in mental cognition. It may be born from karmic maturation and may also arise through fear, injury, bodily imbalance, or grief among those designated by the disputed `akurukāminām`.
@@ -251,6 +240,15 @@ as moral or afflictive fault.
 
 ## 9. Interpretive Note
 
+**Translation note.** The exclusion of the sensory series and the mediate bodily
+causal sequence are supplied by the Bhāṣya. The Bhāṣya excludes the five sensory
+cognition-series and explains a mediate route: karmic maturation disturbs the bodily
+constitution through the Great Elements, after which mental cognition and
+recollection are disordered. It reads the population phrase as `akuruṇāṃ kāminām`
+(“those without compassion in the Desire Realm”); the competing division
+`a-kuru-kāminām` (“Desire-Realm beings outside the Kurus”) remains possible, so the
+population range is unresolved.
+
 **Practical Dependent Origination**
 
 This verse displays the operational form directly:
@@ -281,9 +279,9 @@ The Kośa brings the second into application without severing it from the first.
 
 **Dhātu enters as a mediating constitution**
 
-The physiological `dhātu` in the Bhāṣya names a constitutional factor or
+The physiological `dhātu` (Principle) in the Bhāṣya names a constitutional factor or
 condition through which karma becomes effective. It should not be confused
-without analysis with the three cosmological dhātus or the eighteen-element
+without analysis with the three cosmological Realms or the eighteen-Principle
 classification. The shared term marks determination of a functioning field,
 but its local reference must remain controlled.
 
@@ -297,8 +295,7 @@ This is the Organon contact. The sensory exclusion, examples, mediate bodily
 cause, humoral language, and fourfold distinction belong to the Bhāṣya; the
 twofold Dependent Origination formulation is project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A karmic Ground need not appear immediately in the form of its final
 > consequence. Past action first becomes actual as a matured bodily condition;
 > that transformed basis then conditions a disturbance of mental functioning.
@@ -325,7 +322,7 @@ Class: AfflictiveDistraction
 Class: Fear
 Class: Injury
 Class: Grief
-Class: DesireDomainBeing
+Class: DesireRealmBeing
 Class: KuruBeing
 Class: RemoteGround
 Class: ProximateCondition

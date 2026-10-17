@@ -93,31 +93,18 @@ Bhāṣya identifies the Kurus as the inhabitants of Uttarakuru.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > In the Formless Realm and among non-percipient beings, the seven wholesome
 > bodily and verbal Courses of Action occur by acquisition. In the remainder
 > they also occur by present manifestation, excluding hell beings and the
 > Kurus.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > In the Formless Realm and among non-percipient beings, the seven wholesome
 > bodily and verbal Courses of Action occur by acquisition. In the remainder
 > they also occur by present manifestation, excluding hell beings and the
 > Kurus.
->
-> The Bhāṣya specifies endowment alone in these two cases: noble beings born
-> in the Formless Realm remain endowed with past and future without-Influx
-> restraint, while non-percipient beings are endowed through
-> concentration-born restraint. In the remaining realms and destinies, the
-> seven can become presently manifest. Their manifestation is independent of
-> formal restraint among animals and pretas, included within restraint in the
-> Form Realm, and either way elsewhere.
-
-The identifications of the seven, the qualified formless case, the two kinds
-of restraint, and the final threefold distribution are supplied by the
-Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -253,6 +240,16 @@ seven wholesome bodily-verbal Courses of Action
 
 ## 9. Interpretive Note
 
+**Translation note.** The identifications of the seven, the qualified formless
+case, the two kinds of restraint, and the final threefold distribution are
+supplied by the Bhāṣya. The Bhāṣya specifies endowment alone in these two
+cases: noble beings born in the Formless Realm remain endowed with past and
+future without-Influx restraint, while non-percipient beings are endowed
+through concentration-born restraint. In the remaining realms and destinies,
+the seven can become presently manifest. Their manifestation is independent of
+formal restraint among animals and pretas, included within restraint in the
+Form Realm, and either way elsewhere.
+
 VAK 4.84 prevents a behaviorist reduction of wholesome karma. The verse first
 separates belonging from occurring: a restraint can remain an operative
 determination of a continuum even when the bodily and verbal supports
@@ -275,8 +272,7 @@ For the Organon, this articulates capacity and actualization together:
 wholesome restraint can remain operative without being a current bodily or
 verbal deed.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A wholesome Course of Action is not exhausted by a presently observable
 > deed. It may belong operatively to a continuum even where the bodily or
 > verbal conditions for its current enactment are absent. Conversely, present

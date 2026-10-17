@@ -67,26 +67,17 @@ training-status classes; the Bhāṣya identifies this as neither-status action.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > For action belonging to one beyond training, dharmas beginning with the
 > trainee class are respectively one, three, and two results. For action
 > belonging to neither trainee nor one beyond training, the same ordered
 > classes are respectively two, two, and five results.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> For beyond-training action, trainee dharmas stand as one result: the
-> dominant result. Dharmas belonging to one beyond training stand as three
-> results, with maturation and disconnection excluded; the corresponding,
-> activity-produced, and dominant results remain. Dharmas belonging to
-> neither trainee nor one beyond training stand as two results:
-> activity-produced and dominant. For action belonging to neither trainee
-> nor one beyond training, trainee dharmas stand as two results:
-> activity-produced and dominant. Dharmas belonging to one beyond training
-> stand in the same way. Dharmas belonging to neither status stand as all
-> five results: maturation, corresponding, disconnection, activity-produced,
-> and dominant.
+> For beyond-training action, dharmas beginning with the trainee class have one,
+> three, and two results, respectively. For action belonging to neither of those
+> two classes, they have two, two, and five results, respectively.
 
 ## 6. Philosophical Translation
 
@@ -134,6 +125,8 @@ the set.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya-based expansion formerly embedded in the study translation is retained here: For beyond-training action, trainee dharmas stand as one result: the dominant result. Dharmas belonging to one beyond training stand as three results, with maturation and disconnection excluded; the corresponding, activity-produced, and dominant results remain. Dharmas belonging to neither trainee nor one beyond training stand as two results: activity-produced and dominant. For action belonging to neither trainee nor one beyond training, trainee dharmas stand as two results: activity-produced and dominant. Dharmas belonging to one beyond training stand in the same way. Dharmas belonging to neither status stand as all five results: maturation, corresponding, disconnection, activity-produced, and dominant.
+
 The completed matrix makes action-status and result-status jointly
 determinative. The Bhāṣya gives an exact set of result-relations for each
 ordered pair; a count is only a compressed statement of that set. In the
@@ -143,8 +136,7 @@ differentiation through action and result-status. Its five-result
 neither-to-neither cell expresses the breadth of that classified relation,
 not a ranking of spiritual worth.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The result-profile of action belonging to one beyond training is
 > asymmetrical across the three result-status classes: one result, three,
 > and two. Action belonging to neither status has a different profile: two,

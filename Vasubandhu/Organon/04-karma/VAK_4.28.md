@@ -14,12 +14,7 @@ kālyaṃ grāhyo 'nyato nīcaiḥ sthitenoktānuvāditā /
 upavāsaḥ samagrāṅgo nirbhūṣeṇāniśākṣayāt // 4.28 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-kālyam grāhyaḥ anyataḥ nīcaiḥ sthitena ukta-anuvāditā /
-upavāsaḥ samagra-aṅgaḥ nirbhūṣeṇa ā-niśā-kṣayāt //
-```
 
 The Bhāṣya resolves `kālyam` as sunrise and `āniśākṣayāt` as continuing until
 the following sunrise. It also restricts `nirbhūṣeṇa`: exceptional adornment
@@ -27,7 +22,7 @@ is excluded, but habitual adornment need not be removed.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kālyam` | adverbial form | at the proper time; at sunrise |
 | `grāhyaḥ` | nominative masculine singular gerundive | is to be received or undertaken |
@@ -39,6 +34,9 @@ is excluded, but habitual adornment need not be removed.
 | `samagrāṅgaḥ` | nominative masculine singular compound | complete in all its limbs |
 | `nirbhūṣeṇa` | instrumental masculine singular | by one without exceptional adornment |
 | `āniśākṣayāt` | temporal compound with ablative terminus | until the exhaustion of the night; until next sunrise |
+
+
+**Word division (verse order).** `kālyam grāhyaḥ anyataḥ nīcaiḥ sthitena ukta-anuvāditā / upavāsaḥ samagra-aṅgaḥ nirbhūṣeṇa ā-niśā-kṣayāt //`
 
 **`kālyam`**
 
@@ -140,26 +138,17 @@ samagra-aṅgaḥ
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The upavāsa restraint is to be received at sunrise from another, by one
 > positioned deferentially and repeating the words after they are spoken. It
 > is to be complete in all its limbs, undertaken without adornment, and
 > maintained until the end of the night.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Ordinarily, the upavāsa restraint is received at sunrise from another
-> person. The recipient assumes a deferential posture and repeats the formula
-> only after the giver has spoken it. The observance must be undertaken with
-> all eight limbs, without exceptional adornment that fosters vanity, and
-> maintained until the following sunrise. Habitual adornment is not excluded,
-> and one with a prior standing commitment to observe the eight may receive
-> the restraint even after eating.
-
-The exact sunrise boundaries, the prior-undertaking exception, sequential
-speech rule, eightfold completeness, and qualification concerning habitual
-adornment are supplied by the Bhāṣya.
+> Upavāsa restraint is received at sunrise from another, by one seated lower
+> and repeating after the giver; it is complete in all its limbs, undertaken
+> without adornment, and maintained until the night ends.
 
 ## 6. Philosophical Translation
 
@@ -274,7 +263,7 @@ proper time
     → formally acquired upavāsa restraint
 ```
 
-The elements are coordinated conditions of one acquisition, not independent
+The components are coordinated conditions of one acquisition, not independent
 ritual decorations.
 
 **Good conduct does not entail vow-status**
@@ -314,6 +303,10 @@ Removing a limb changes the acquired form rather than merely reducing its
 quantity.
 
 ## 9. Interpretive Note
+
+**Translation note.** The exact sunrise boundaries, the prior-undertaking exception, sequential
+speech rule, eightfold completeness, and qualification concerning habitual
+adornment are supplied by the Bhāṣya.
 
 **The vow is generated, not merely intended**
 
@@ -387,8 +380,7 @@ This is an Organon reconstruction. Vasubandhu explicitly teaches the complete
 procedure, its exceptions, and the distinction between mere good conduct and
 upavāsa restraint.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A finite vow becomes actual through a complete practical mediation. Its
 > temporal beginning and end are fixed; another person gives its articulated
 > form; the recipient bodily expresses respect, receives the words in their

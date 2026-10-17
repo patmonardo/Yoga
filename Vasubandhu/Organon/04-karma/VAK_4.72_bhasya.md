@@ -2,15 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-samaṃ prāk ca mṛtasyāsti na maulo 'nyāśrayodayāt /
-senādiṣvekakāryatvāt sarve kartṛvadanvitāḥ // 4.72 //
-```
+> samaṃ prāk ca mṛtasyāsti na maulo 'nyāśrayodayāt /
+> senādiṣvekakāryatvāt sarve kartṛvadanvitāḥ // 4.72 //
 
-> For one who dies simultaneously with the victim or beforehand, there
-> is no principal course, because another support arises. In an army and
-> similar undertakings, all are connected with the course like the doer
-> because they participate in one common operation.
+> For one who dies simultaneously with the victim or beforehand, there is no
+> principal course, because another support arises. In an army and similar
+> undertakings, all are connected with the course like the doer because they
+> participate in one common operation.
 
 The verse places two attribution problems together. Across rebirth, a
 change of support can break principal completion. Across a coordinated

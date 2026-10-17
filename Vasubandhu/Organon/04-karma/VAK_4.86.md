@@ -85,30 +85,16 @@ necessities.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Bodily or verbal action born from greed is wrong livelihood. It is treated
 > separately because it is difficult to purify. If wrong livelihood is said
 > to arise only from greed for requisites—no, not according to the sūtra.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Bodily or verbal action born from greed is wrong livelihood. It is treated
-> separately because it is difficult to purify. If wrong livelihood is said
-> to arise only from greed for requisites—no, not according to the sūtra.
->
-> Wrong livelihood is not a third kind of expressive action beside wrong
-> speech and wrong bodily action. Greed has a dragging power, making
-> consciousness especially difficult to guard against actions that arise
-> from it and livelihood especially difficult to purify. Nor may wrong
-> livelihood be restricted to greed-driven acquisition of food, clothing,
-> shelter, medicine, and other requisites. The sūtra includes a wider economy
-> of improper engagement and enjoyment, exemplified by attendance at
-> spectacles such as elephant fights.
-
-The dragging character of greed, the pedagogical purpose of separate naming,
-the vulnerability created by dependence on support, and the scriptural
-example are Bhāṣya determinations.
+> separately because it is difficult to purify. If it is claimed to arise only
+> from greed for requisites—no, not according to the sūtra.
 
 ## 6. Philosophical Translation
 
@@ -246,6 +232,10 @@ is justified by the practical work it enables.
 
 ## 9. Interpretive Note
 
+**Translation note.** The dragging character of greed, the pedagogical purpose of separate naming,
+the vulnerability created by dependence on support, and the scriptural
+example are Bhāṣya determinations. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Bodily or verbal action born from greed is wrong livelihood. It is treated separately because it is difficult to purify. If wrong livelihood is said to arise only from greed for requisites—no, not according to the sūtra. Wrong livelihood is not a third kind of expressive action beside wrong speech and wrong bodily action. Greed has a dragging power, making consciousness especially difficult to guard against actions that arise from it and livelihood especially difficult to purify. Nor may wrong livelihood be restricted to greed-driven acquisition of food, clothing, shelter, medicine, and other requisites. The sūtra includes a wider economy of improper engagement and enjoyment, exemplified by attendance at spectacles such as elephant fights.
+
 VAK 4.86 demonstrates that ethical meaning cannot be read directly from an
 isolated bodily movement or utterance. The same expressive medium receives
 different determination according to its root and its station within the
@@ -275,8 +265,7 @@ it expresses an inversion of mediation and demands a distinct discipline of
 correction. The category is not ontologically primitive; it is practically
 necessary. Its truth lies in the self-transformation it makes possible.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Wrong livelihood is not recognizable from the visible shape of an act
 > alone. Bodily and verbal action take this classification when greed governs
 > their participation in the practical economy through which life sustains
@@ -305,7 +294,6 @@ Within the wider Karman framework, volition (*cetanā*) is distinct from the
 causal root: volition enacts the practical determination, while greed
 organizes this bodily or verbal action as livelihood. The two must not be
 collapsed.
-
 ## 10. OWL++ Seed
 
 ```text

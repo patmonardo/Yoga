@@ -96,25 +96,16 @@ which the action is performed.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > For those emerged from cessation, non-contention, loving-kindness, the Path
 > of Seeing, or the fruit of arhatship, the result of benefit or injury done
 > toward them is experienced immediately.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The Bhāṣya also names the Bhikṣu Saṅgha headed by the Buddha as a field. The
-> result of benefit or injury directed toward someone freshly emerged from
-> cessation attainment, non-contention, loving-kindness, the Path of Seeing, or
-> the fruit of arhatship is certainly experienced in this life. The recipient
-> is described as newly peaceful, benevolently oriented, or purified. The verse
-> says `sadyaḥ` (“at once”), while the prose specifies present-life certainty
-> without fixing an exact interval.
-
-The emphasis on freshness, the state of each continuum, and the present-life
-necessity of the result are supplied by the Bhāṣya.
-
+> For those emerging from cessation, non-contention, loving-kindness, the Path
+> of Seeing, or the fruit of arhatship, the result of benefit or harm is
+> experienced at once.
 ## 6. Philosophical Translation
 
 > For those emerged from cessation, non-contention, loving-kindness, the Path of Seeing, or the fruit of arhatship, the result of benefit or injury done toward them is experienced immediately.
@@ -214,6 +205,13 @@ This specifies one of the field-based grounds introduced in VAK 4.54–4.55.
 
 ## 9. Interpretive Note
 
+**Translation note.** The emphasis on freshness, the state of each continuum, and
+the present-life necessity of the result are supplied by the Bhāṣya. The Bhāṣya also
+includes the community of monks headed by the Buddha as a field, then characterizes
+the five recipients as freshly peaceful, benevolently oriented, or purified. Their
+benefit or injury certainly yields a result in this life; the verse says “at once”
+(`sadyaḥ`), while the prose does not fix an exact interval.
+
 **The recipient is an active moment of Karma as Ground**
 
 ```text
@@ -257,8 +255,7 @@ with a spiritually accomplished person into the technical rule stated here.
 This is the Organon contact. The five fields, their transformed states, and
 the negative boundary belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The causal force of an action depends partly on the state of its recipient
 > field. A continuum emerged from cessation, immeasurable benevolence, seeing,
 > or arhat-fruition is not treated as interchangeable with one in another

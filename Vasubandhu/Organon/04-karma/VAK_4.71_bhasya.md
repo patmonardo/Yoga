@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-mithyādṛṣṭes tu mohena śeṣāṇāṃ tribhir iṣyate /
-sattvabhogāv adhiṣṭhānaṃ nāmarūpaṃ ca nāma ca // 4.71 //
-```
+> mithyādṛṣṭes tu mohena śeṣāṇāṃ tribhir iṣyate /
+> sattvabhogāv adhiṣṭhānaṃ nāmarūpaṃ ca nāma ca // 4.71 //
 
-> False view reaches completion through delusion; the remaining courses
-> are held to reach completion through the three. Living being and object
-> of enjoyment, name-and-form, and name are their respective bases.
+> False view reaches completion through delusion; the remaining courses are
+> held to reach completion through the three. Living being and object of
+> enjoyment, name-and-form, and name are their respective bases.
 
 The first half completes the classification by root begun in VAK 4.70.
 The second reorganizes the ten courses into four groups according to the

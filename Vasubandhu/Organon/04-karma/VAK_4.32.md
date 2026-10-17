@@ -14,12 +14,7 @@ buddhasaṃghakarān dharmān aśaikṣān ubhayāṃś ca saḥ /
 nirvāṇaṃ ceti śaraṇaṃ yo yāti śaraṇatrayam // 4.32 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-buddha-saṃgha-karān dharmān aśaikṣān ubhayān ca saḥ /
-nirvāṇam ca iti śaraṇam yaḥ yāti śaraṇa-trayam //
-```
 
 The compound is distributed by the Bhāṣya. Buddha-refuge concerns the
 `aśaikṣa` dharmas that make one a Buddha; Saṅgha-refuge concerns both
@@ -28,7 +23,7 @@ concerns nirvāṇa.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `buddhasaṃghakarān` | accusative masculine plural compound | making or constituting Buddha and Saṅgha |
 | `dharmān` | accusative masculine plural | dharmas; determinate factors |
@@ -42,6 +37,9 @@ concerns nirvāṇa.
 | `yaḥ` | nominative masculine singular relative pronoun | whoever; the person who |
 | `yāti` | third-person singular present from `√yā` | goes; approaches |
 | `śaraṇatrayam` | accusative neuter singular | the triad of refuges; the Three Refuges |
+
+
+**Word division (verse order).** `buddha-saṃgha-karān dharmān aśaikṣān ubhayān ca saḥ / nirvāṇam ca iti śaraṇam yaḥ yāti śaraṇa-trayam //`
 
 **Distribution of the compressed compound**
 
@@ -153,23 +151,15 @@ comprehension.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Whoever goes to the Three Refuges takes as refuge the aśaikṣa dharmas that
 > make a Buddha, both kinds of dharmas that make the Saṅgha, and nirvāṇa.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Whoever goes to the Three Refuges takes refuge in the aśaikṣa dharmas that
-> constitute one as a Buddha, especially knowledge of exhaustion and its
-> associated factors; in the śaikṣa and aśaikṣa Path-dharmas through which the
-> eight noble persons constitute the Saṅgha; and in nirvāṇa, specifically
-> cessation through discriminative comprehension, as the Dharma-refuge.
-
-The examples `kṣayajñāna`, the eight noble persons, and
-`pratisaṃkhyānirodha` are Bhāṣya determinations. “Constitute” renders `-kara`
-without turning the constituting dharmas into a complete identity-definition
-of Buddha or Saṅgha.
+> Whoever goes to the three refuges takes refuge in the aśaikṣa qualities that
+> constitute a Buddha, in both kinds of qualities that constitute the Saṅgha,
+> and in nirvāṇa.
 
 ## 6. Philosophical Translation
 
@@ -235,7 +225,7 @@ answers:
 
 ```text
 śaraṇagamana
-    has verbal manifestation as its intrinsic nature
+    has verbal disclosure as its intrinsic nature
 ```
 
 Refuge is therefore an enacted verbal determination, not merely an unspoken
@@ -329,6 +319,11 @@ made possible.
 
 ## 9. Interpretive Note
 
+**Translation note.** The examples `kṣayajñāna`, the eight noble persons, and
+`pratisaṃkhyānirodha` are Bhāṣya determinations. “Constitute” renders `-kara`
+without turning the constituting dharmas into a complete identity-definition
+of Buddha or Saṅgha.
+
 **Determination constitutes the bearer**
 
 This passage offers an unusually exact account of constitution:
@@ -367,7 +362,7 @@ spoken Dharma
 
 The bearer remains; refuge apprehends it according to its Path-significance.
 
-**Verbal manifestation returns to the center**
+**Verbal disclosure returns to the center**
 
 VAK 4.32 brings the refuge discussion back to `vijñapti`. Going for refuge is
 not defined as a concealed interior state but as `vāgvijñapti`, a verbal act
@@ -396,8 +391,7 @@ This is the restrained Organon contact: constitutive determination, manifest
 practical institution, and liberation-directed Meaning. No independent
 governing intelligence or transcendent bearer is introduced.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Refuge passes through the visible bearer to the liberating determinations
 > through which that bearer is what it is. The Buddha is neither reduced to a
 > physical body nor identified without remainder with an abstract collection:
@@ -501,5 +495,5 @@ Constraint: PathUniversalityPreservesPlurality
 
 The seed formalizes the constitutive relation without reducing Buddha or
 Saṅgha either to visible bodies or to disembodied bundles. It also preserves
-the sequence from verbal manifestation through protection to the undertaking
+the sequence from verbal disclosure through protection to the undertaking
 of restraint.

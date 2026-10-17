@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-jambūdvīpe pumān eva saṃmukhaṃ buddhacetanaḥ /
-cintāmayaṃ kalpaśate śeṣam ākṣipate hi tat // 4.109 //
-```
+> jambūdvīpe pumān eva saṃmukhaṃ buddhacetanaḥ /
+> cintāmayaṃ kalpaśate śeṣam ākṣipate hi tat // 4.109 //
 
-> Only in Jambūdvīpa, as a man, face-to-face with the Teacher and with
-> volition taking a Buddha as its object, does the bodhisattva project the
-> reflection-formed remainder of that karma over one hundred kalpas.
+> Only in Jambūdvīpa, as a man, face-to-face with the Teacher and with volition
+> taking a Buddha as its object, does the bodhisattva project the reflection-formed
+> remainder of that karma over one hundred kalpas.
 
 The Bhāṣya explains this as the projection of the action whose maturation
 produces the marks, introduced in 4.108.

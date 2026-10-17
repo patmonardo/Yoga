@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ānantaryasabhāgāni pañcamaṃ stūpabhedanam /
-kṣāntyanāgāmitārhattvaprāptau karmātivighnakṛt // 4.107 //
-```
+> ānantaryasabhāgāni pañcamaṃ stūpabhedanam /
+> kṣāntyanāgāmitārhattvaprāptau karmātivighnakṛt // 4.107 //
 
-> The analogues of the immediate-result actions; destruction of a stūpa
-> is the fifth. Karma is a powerful obstruction at the attainments of
-> acceptance, non-returnership, and arhatship.
+> The analogues of the immediate-result actions; destruction of a stūpa is the
+> fifth. Karma is a powerful obstruction at the attainments of acceptance,
+> non-returnership, and arhatship.
 
 The first half completes the set begun in 4.106. The second half introduces
 three distinct attainment thresholds and their corresponding obstructions.

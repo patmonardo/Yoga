@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ato 'nyat kliṣṭamityanye lapanāgītanāṭyavat /
-kuśāstravaccābhidhyā tu parasvaviṣamaspṛhā // 4.77 //
-```
+> ato 'nyat kliṣṭamityanye lapanāgītanāṭyavat /
+> kuśāstravaccābhidhyā tu parasvaviṣamaspṛhā // 4.77 //
 
-> Others say that afflicted speech other than these is disordered
-> discourse, as with flattering talk, song, drama, and corrupt treatises.
-> Covetousness, however, is wrongful longing for another's possession.
+> Others say that afflicted speech other than these is disordered discourse,
+> as with flattering talk, song, drama, and corrupt treatises. Covetousness,
+> however, is wrongful longing for another's possession.
 
 The first half records an alternative, residual definition of the fourth
 verbal course. The second turns to the first mental course and identifies

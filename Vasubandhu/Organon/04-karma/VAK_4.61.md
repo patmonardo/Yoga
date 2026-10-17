@@ -21,7 +21,7 @@ dharma-kṣāntiṣu vairāgye ca ānantarya-patha-aṣṭake /
 yā cetanā dvādaśadhā karma kṛṣṇa-kṣayāya tat //
 ```
 
-The Bhāṣya identifies the four patiences as `dharmajñānakṣānti` on the Path of
+The Bhāṣya identifies the four kṣāntis as `dharmajñānakṣānti` on the Path of
 Seeing and the eight paths as uninterrupted paths of detachment from the Desire
 Realm.
 
@@ -29,7 +29,7 @@ Realm.
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `dharmakṣāntiṣu` | locative feminine plural compound | in the dharma-knowledge patiences |
+| `dharmakṣāntiṣu` | locative feminine plural compound | in the dharma-knowledge kṣāntis |
 | `vairāgye` | locative neuter singular | in detachment; here detachment from the Desire Realm |
 | `ānantaryapathāṣṭake` | locative neuter singular compound | in the set of eight uninterrupted paths |
 | `yā` | nominative feminine singular relative pronoun | whatever; the volition which |
@@ -41,7 +41,7 @@ Realm.
 
 **`dharmajñānakṣānti`**
 
-The four dharma-knowledge patiences are Path-of-Seeing moments corresponding
+The four dharma-knowledge kṣāntis are Path-of-Seeing moments corresponding
 to the four truths. Their associated volitions participate in abandoning
 black karma.
 
@@ -69,7 +69,7 @@ yā cetanā
 sā dvādaśadhā [bhavati]
 ```
 
-> The volition present in the dharma-knowledge patiences and in the eight
+> The volition present in the dharma-knowledge kṣāntis and in the eight
 > uninterrupted paths of detachment from the Desire Realm is twelvefold.
 
 The locatives state the path-moments in which the volition occurs. The number
@@ -89,27 +89,17 @@ The dative expresses the target and direction of the path-volition's activity.
 
 ## 5. Translation
 
-### Literal
-
-> The volition in the dharma-patiences and in the eight uninterrupted paths of
+### Literal Translation
+> The volition in the dharma-kṣāntis and in the eight uninterrupted paths of
 > detachment is twelvefold; that karma is for the exhaustion of black karma.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Four volitions occur in the dharma-knowledge patiences of the Path of Seeing,
-> and eight occur in the first eight uninterrupted paths of detachment from the
-> Desire Realm. These twelve volitions are karma without influxes whose specific
-> function is the abandonment of black karma. Not every karma without influxes
-> exhausts all three productive karmic classes; the Path's abandonment function
-> is differentiated by stage and target.
-
-The exact identities of the four and eight, the restriction to detachment from
-the Desire Realm, and the gloss of exhaustion as abandonment are supplied by the
-Bhāṣya.
-
+> Volition in the dharma-knowledge kṣāntis and the eight uninterrupted paths of
+> detachment is twelvefold; this karma serves to exhaust black karma.
 ## 6. Philosophical Translation
 
-> The volition in the dharma-patiences and in the eight uninterrupted paths of detachment is twelvefold; that karma is for the exhaustion of black karma.
+> The volition in the dharma-kṣāntis and in the eight uninterrupted paths of detachment is twelvefold; that karma is for the exhaustion of black karma.
 
 ## 7. Technical Vocabulary
 
@@ -117,7 +107,7 @@ Bhāṣya.
 
 ```text
 Path of Seeing
-    4 dharma-knowledge patiences
+    4 dharma-knowledge kṣāntis
 
 detachment from the Desire Realm
     first 8 uninterrupted paths
@@ -223,6 +213,13 @@ The counter-ground is specified by its target-relation.
 
 ## 9. Interpretive Note
 
+**Translation note.** The exact identities of the four and eight, the restriction to
+detachment from the Desire Realm, and the gloss of exhaustion as abandonment are
+supplied by the Bhāṣya. The Bhāṣya identifies the four as `dharmajñānakṣānti`
+moments on the Path of Seeing and the eight as uninterrupted paths in detachment
+from the Desire Realm. This twelvefold volition abandons black karma; not every
+outflow-free karma exhausts all three productive classes.
+
 **`Tadabhāva` requires a method of removal**
 
 If kleśa is the Ground of crooked, corrupting, or staining activity, its
@@ -261,8 +258,7 @@ This is the Organon contact. The initial rejection, arithmetic, Path locations,
 and abandonment target belong to the Bhāṣya; the counter-ground formulation is
 project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Liberating activity is not an empty negation of karma in general. Each
 > path-volition is a positive determination whose function is the removal of a
 > corresponding practical determination. Four seeing-path operations and eight
@@ -281,7 +277,7 @@ Class: BlackKarma
 Class: KarmaWithoutInfluxes
 Class: Volition
 Class: PathVolition
-Class: DharmaKnowledgePatience
+Class: DharmaKnowledgeKshanti
 Class: PathOfSeeing
 Class: DesireRealmDetachment
 Class: UninterruptedPath
@@ -298,12 +294,12 @@ ObjectProperty: conducesTo
 BlackKarma SubClassOf Karma
 KarmaWithoutInfluxes SubClassOf Karma
 PathVolition SubClassOf Volition
-DharmaKnowledgePatience SubClassOf PathOfSeeing
+DharmaKnowledgeKshanti SubClassOf PathOfSeeing
 FirstEightUninterruptedPaths SubClassOf UninterruptedPath
 
-Rule: FourPatienceVolitionsTargetBlackKarma
+Rule: FourKshantiVolitionsTargetBlackKarma
     PathVolition(?c)
-    and occursInPathStage(?c, DharmaKnowledgePatience)
+    and occursInPathStage(?c, DharmaKnowledgeKshanti)
     -> targetsForAbandonment(?c, BlackKarma)
 
 Rule: EightDesireRealmDetachmentVolitionsTargetBlackKarma
@@ -317,7 +313,7 @@ Rule: TargetedPathVolitionPerformsAbandonment
     -> performsAbandonment(?c, ?k)
 
 Constraint: TwelvefoldCount
-    four DharmaKnowledgePatience volitions
+    four DharmaKnowledgeKshanti volitions
     plus eight FirstEightUninterruptedPaths volitions
     equals twelve PathVolitions
 

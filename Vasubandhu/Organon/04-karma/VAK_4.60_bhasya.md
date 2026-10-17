@@ -2,18 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-aśubhaṃ rūpakāmāptaṃ śubhaṃ caiva yathākramam /
-kṛṣṇaśuklobhayaṃ karma tatkṣayāya nirāsravam // 4.60 //
-```
+> aśubhaṃ rūpakāmāptaṃ śubhaṃ caiva yathākramam /
+> kṛṣṇaśuklobhayaṃ karma tatkṣayāya nirāsravam // 4.60 //
 
-> Unwholesome karma is black and has unpleasant black maturation. Wholesome
-> karma of the Form Realm is white and has pleasant white maturation. Wholesome
-> karma of the Desire Realm is called black-and-white with respect to the
-> continuum, where wholesome and unwholesome karmas and their results are
-> interspersed; no single karma is intrinsically both. Karma without influxes
-> is neither black nor white in this classification, produces no maturation,
-> and conduces to the exhaustion of the preceding three karmic classes.
+> Unwholesome karma, wholesome karma of the Form Realm, and wholesome karma of
+> the Desire Realm are respectively black, white, and black-and-white. Karma
+> without influxes serves to exhaust those [three].
 
 The Bhāṣya specifies that “both” concerns the mixture of karmas
 within a continuum, not a single intrinsically black-and-white act.

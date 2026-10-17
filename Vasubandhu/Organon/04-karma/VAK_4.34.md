@@ -14,12 +14,7 @@ mṛṣāvādaprasaṅgāc ca sarvaśikṣāvyatikrame /
 pratikṣepaṇasāvadyān madyād evānyaguptaye // 4.34 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-mṛṣā-vāda-prasaṅgāt ca sarva-śikṣā-vyatikrame /
-pratikṣepaṇa-sāvadyāt madyāt eva anya-guptaye //
-```
 
 The two halves answer different questions. The first explains why false
 speech is selected among verbal faults for the lay restraint. The second
@@ -28,7 +23,7 @@ explains why intoxicants are selected among acts regarded by the
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `mṛṣāvādaprasaṅgāt` | ablative singular compound | because an occasion or liability for false speech arises |
 | `ca` | conjunction | and; additionally |
@@ -37,6 +32,9 @@ explains why intoxicants are selected among acts regarded by the
 | `madyāt` | ablative singular | from intoxicants; abstention from intoxicants |
 | `eva` | restrictive particle | specifically; alone |
 | `anyaguptaye` | dative singular compound | for guarding or protecting the others |
+
+
+**Word division (verse order).** `mṛṣā-vāda-prasaṅgāt ca sarva-śikṣā-vyatikrame / pratikṣepaṇa-sāvadyāt madyāt eva anya-guptaye //`
 
 **`mṛṣāvādaprasaṅga`**
 
@@ -133,24 +131,16 @@ changes questions before introducing intoxicants.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > And because an occasion for false speech arises upon transgression of any
 > training rule. Among what is blameworthy by prohibition, [abstention]
 > specifically from intoxicants [is prescribed], for guarding the others.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Abstention from false speech is singled out among the verbal rules because
-> violation of any training rule can create an occasion for lying when the
-> transgressor is questioned and tempted to deny the act. Among acts regarded
-> by the Ābhidharmikas as blameworthy because prohibited, abstention from
-> intoxicants is specifically included in lay restraint because intoxication
-> may leave all the other training limbs unguarded.
-
-The questioning situation and the Ābhidharmika attribution are supplied by
-the Bhāṣya. The latter attribution matters because the Vinayadharas dispute
-the classification of intoxicants.
+> When any training rule is transgressed, an occasion for false speech arises;
+> and, because prohibited acts are censurable, abstention from intoxicants
+> alone is for guarding the others.
 
 ## 6. Philosophical Translation
 
@@ -319,6 +309,10 @@ challenging an unrestricted natural-fault classification.
 
 ## 9. Interpretive Note
 
+**Translation note.** The questioning situation and the Ābhidharmika attribution are supplied by
+the Bhāṣya. The latter attribution matters because the Vinayadharas dispute
+the classification of intoxicants.
+
 **Discipline protects its own conditions**
 
 VAK 4.34 reveals a reflexive structure within practical discipline:
@@ -380,8 +374,7 @@ determinations and the inward conditions of their continued actuality. The
 school positions and concrete causal sequence remain the controlling textual
 layer.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The lay discipline contains rules that protect its own continued integrity.
 > Truthfulness preserves accountable acknowledgement when another rule has
 > already been breached; abstention from intoxicants preserves the

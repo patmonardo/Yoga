@@ -90,24 +90,14 @@ that license the designation `vedanīya`.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The condition of being “to be experienced” is fivefold: by intrinsic nature,
 > association, object-support, maturation, and present manifestation.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Something may be called “to be experienced” on five different grounds:
-> feeling by its own nature; contact through association with feeling; an
-> object through serving as feeling's cognitive support; karma through the
-> maturation it produces; and a feeling through its present manifestation.
-> Karma is therefore called pleasant-, painful-, or neutral-to-be-experienced
-> not because it is itself feeling, but because its maturation is characterized
-> by that feeling.
-
-The assignment of examples to the five grounds and the concluding application
-to karma are supplied by the Bhāṣya.
-
+> Being designated “to be experienced” is fivefold: through its own nature,
+> association, an object, maturation, and present manifestation.
 ## 6. Philosophical Translation
 
 > The condition of being “to be experienced” is fivefold: by intrinsic nature, association, object-support, maturation, and present manifestation.
@@ -217,6 +207,14 @@ predication.
 
 ## 9. Interpretive Note
 
+**Translation note.** The assignment of examples to the five grounds and the
+concluding application to karma are supplied by the Bhāṣya. The five grounds are
+illustrated respectively by feeling itself, contact associated with feeling, an
+object taken through feeling, karma through its maturation, and a feeling through
+present occurrence. On this basis karma is called pleasant-, painful-, or
+neutral-to-be-experienced because of its maturation, not because karma itself is
+feeling.
+
 **Vasubandhu analyzes the semantic copula**
 
 This verse directly supports the project's insistence that surface syntax
@@ -254,8 +252,7 @@ The actualization of the feeling is itself the relevant experiential event.
 This is the Organon contact. The five grounds, their examples, and the return
 to karmic designation belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > One predicate can be valid through several irreducibly different mediations.
 > To say that something “is experienced” may express own-nature, association,
 > object-relation, causal production, or present actuality. The surface copula

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अष्टधा प्रातिमोक्षाख्यो द्रव्यतस्तु चतुर्विधः ।
->
-> लिङ्गतो नामसंचारात् पृथक् ते चाविरोधिनः ॥ ४.१४ ॥
+```sanskrit
+अष्टधा प्रातिमोक्षाख्यो द्रव्यतस्तु चतुर्विधः ।
+लिङ्गतो नामसंचारात् पृथक् ते चाविरोधिनः ॥ ४.१४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> aṣṭadhā prātimokṣākhyo dravyatas tu caturvidhaḥ /
->
-> liṅgato nāmasaṃcārāt pṛthak te cāvirodhinaḥ // 4.14 //
+```text
+aṣṭadhā prātimokṣākhyo dravyatas tu caturvidhaḥ /
+liṅgato nāmasaṃcārāt pṛthak te cāvirodhinaḥ // 4.14 //
+```
 
 VAK 4.13 distinguishes restraint, non-restraint, and a third class that is
 neither. This verse does not explain that third class. It follows the
@@ -42,26 +44,17 @@ The first pāda predicates `aṣṭadhā` and `caturvidhaḥ` of the understood 
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > *Prātimokṣa* restraint is eightfold by designation, but fourfold by
 > distinct restraint-type. Because names transfer according to *liṅga*,
 > those [successively undertaken restraints] are separate and also
 > compatible.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> *Prātimokṣa* restraint has eight disciplinary designations but four
-> distinct restraint-types. The Bhāṣya explains that some designations
-> transfer with a change in the sex-characteristic it describes, without
-> requiring the abandonment of an existing restraint or the acquisition
-> of a new one. Lay, novice, and monastic restraints undertaken in
-> succession, by contrast, arise separately because their causal grounds
-> differ. They can nevertheless coexist: undertaking a later restraint
-> does not abandon an earlier one.
-
-The explanations of name-transfer, causal grounds, and coexistence come
-from the Bhāṣya; the kārikā states the counts and their contrast.
+> Prātimokṣa restraint is eightfold by designation, but fourfold in substance.
+> Its designations shift with *liṅga*, and the distinct restraints remain
+> without conflict.
 
 ## 6. Philosophical Translation
 
@@ -75,6 +68,8 @@ Eight designations → four restraint-types; name-transfer is distinct from type
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya explains that some designations transfer when the sex-characteristic changes, without abandonment of an existing restraint or acquisition of a new one. Successively undertaken lay, novice, and monastic restraints arise separately from different causes but can coexist; undertaking a later one does not abandon an earlier one.
+
 ### Textual Notes
 
 The Bhāṣya unit runs from [205|19] through [206|21] in
@@ -87,8 +82,6 @@ Bhāṣya study normalizes these provisionally as `bahutarāṇi`,
 `madapramādapadebhyo`, and `dvayor`. The compressed expression
 `pañcadaśa viṃśativat dīnāraśateravacca` is retained without conjectural
 reconstruction. These readings remain open for collation.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

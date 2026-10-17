@@ -14,19 +14,14 @@ sarvobhayebhyaḥ kāmāpto vartamānebhya āpyate /
 maulebhyaḥ sarvakālebhyo dhyānānāsravasaṃvarau // 4.35 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-sarva-ubhayebhyaḥ kāma-āptaḥ vartamānebhyaḥ āpyate /
-maulebhyaḥ sarva-kālebhyaḥ dhyāna-anāsrava-saṃvarau //
-```
 
 The compact `sarva-ubhaya` receives two separate decompositions in the
 Bhāṣya. Neither “all” nor “both” may be left as a vague universal.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sarvobhayebhyaḥ` | ablative plural compound | with respect to all three stages and both relevant divisions |
 | `kāmāptaḥ` | nominative masculine singular compound | belonging to the desire realm; prātimokṣa restraint |
@@ -35,6 +30,9 @@ Bhāṣya. Neither “all” nor “both” may be left as a vague universal.
 | `maulebhyaḥ` | ablative plural from `maula` | from or with respect to root karmapathas |
 | `sarvakālebhyaḥ` | ablative plural compound | from bases belonging to all times |
 | `dhyānānāsravasaṃvarau` | nominative masculine dual compound | meditation-born and uncontaminated restraints |
+
+
+**Word division (verse order).** `sarva-ubhayebhyaḥ kāma-āptaḥ vartamānebhyaḥ āpyate / maulebhyaḥ sarva-kālebhyaḥ dhyāna-anāsrava-saṃvarau //`
 
 **`kāmāpta`**
 
@@ -166,25 +164,16 @@ present act is already occurring.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Desire-realm restraint is acquired, from present bases, with respect to all
 > and both. Meditation-born and uncontaminated restraint are acquired with
 > respect to root [karmapathas], from bases belonging to all times.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Prātimokṣa restraint, which belongs to the desire realm, is acquired from
-> presently existing Bases, Essences, and Principles with respect to all
-> three stages of misconduct—the root act, its preparation, and its
-> aftermath—and with respect to both
-> sentient and non-sentient bases and both naturally blameworthy and
-> prohibition-based faults. Meditation-born and uncontaminated restraints are
-> acquired only with respect to root karmapathas, but from Bases, Essences,
-> and Principles belonging to the past, present, and future.
-
-The three stages, the two binary divisions, and the `skandha`–`āyatana`–
-`dhātu` account of temporal bases are determinations supplied by the Bhāṣya.
+> Desire-realm restraint is acquired from presently existing Bases, Essences,
+> and Principles, across all three stages and both kinds; meditation-born and
+> uncontaminated restraint are acquired from root acts in all three times.
 
 ## 6. Philosophical Translation
 
@@ -326,6 +315,9 @@ from being collapsed.
 
 ## 9. Interpretive Note
 
+**Translation note.** The three stages, the two binary divisions, and the `skandha`–`āyatana`–
+`dhātu` account of temporal bases are determinations supplied by the Bhāṣya.
+
 **Universality is multidimensional**
 
 VAK 4.35 is a strong correction to a habitual picture of spiritual ascent:
@@ -395,8 +387,7 @@ acquisition.
 This is the Organon contact. The full decompositions, temporal doctrine, and
 four corners remain Bhāṣya determinations rather than additions to the verse.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The three restraints do not form a scalar hierarchy in which each higher
 > form simply contains everything below it. Prātimokṣa is temporally grounded
 > in present embodied relations yet ranges broadly across preparation, root

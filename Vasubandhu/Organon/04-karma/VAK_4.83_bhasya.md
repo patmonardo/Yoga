@@ -2,10 +2,8 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-saptamaḥ svayam apy atra kāme 'nyatra daśāśubhāḥ /
-śubhās trayas tu sarvatra saṃmukhībhāvalābhataḥ // 4.83 //
-```
+> saptamaḥ svayam apy atra kāme 'nyatra daśāśubhāḥ /
+> śubhās trayas tu sarvatra saṃmukhībhāvalābhataḥ // 4.83 //
 
 > Here in Uttarakuru, the seventh Course of Action also occurs by present
 > manifestation. Elsewhere in the Desire-Realm, all ten unwholesome Courses of

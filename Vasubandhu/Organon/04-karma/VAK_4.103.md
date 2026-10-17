@@ -61,30 +61,17 @@ technical maternity and practical caregiving to the Bhāṣya.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Because of repudiating a benefactor and destroying a field of qualities.
 > Even with a change in sexual characteristic, parentage may remain; the
 > mother is the one from whose maternal blood the living being arose.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The immediate-result classification arises from repudiating a benefactor
-> and destroying a field of qualities. A change in sexual characteristic
-> does not erase parentage; for the technical maternity criterion, the
-> mother is the woman from whose maternal blood the living being arose.
-> The Bhāṣya explains parental killing through the agent's relation to
-> parents from whom embodied existence arose, and arhat-killing through
-> the arhat's status as a field of qualities. In its exceptional case of
-> two maternal relations, the source assigns technical maternity by
-> maternal origin while preserving the other woman's roles of bearing,
-> nourishing, and rearing. The further cases distinguish intended target,
-> actual victim, status at the time of action, and the number of
-> manifestation and non-disclosing-continuity factors.
-
-The maternal-blood criterion is the Bhāṣya's historical doctrine, not a
-modern biological definition. The caregiving relation remains explicit
-in the same passage.
+> Because of abandoning a benefactor and destroying a field of qualities, an
+> immediate-retribution action is incurred. Even if sexual characteristics have
+> changed, parentage may remain: the mother is she from whose blood the living
+> being arose.
 
 ## 6. Philosophical Translation
 
@@ -105,7 +92,7 @@ in the same passage.
 - **`Ānantarya`** — the immediate-result classification discussed in this
   passage; render the associated *karman* as action, not as an automatic
   moral reward or result.
-- **`Vijñapti / avijñapti`** — manifestation / non-disclosing continuity.
+- **`Vijñapti / avijñapti`** — disclosure / non-disclosing continuity.
   The Bhāṣya records differing counts of these factors in one case.
 - **`Abhiprāya`** — intention in the distinctions between intending to
   kill and intending only to strike. This passage does not use
@@ -140,12 +127,16 @@ bearing + nourishing + rearing
 ```
 
 Where one action affects two victims, the Bhāṣya counts two
-non-disclosing continuities; its account of manifestation is disputed by
+non-disclosing continuities; its account of disclosure is disputed by
 Bhadanta Ghoṣaka. A father who is also an arhat is one support and receives
 one immediate-result classification in the Bhāṣya's analysis, though a
 cited account speaks of two grounds.
 
 ## 9. Interpretive Note
+
+**Translation note.** The maternal-blood criterion is the Bhāṣya's historical doctrine, not a
+modern biological definition. The caregiving relation remains explicit
+in the same passage. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: The immediate-result classification arises from repudiating a benefactor and destroying a field of qualities. A change in sexual characteristic does not erase parentage; for the technical maternity criterion, the mother is the woman from whose maternal blood the living being arose. The Bhāṣya explains parental killing through the agent's relation to parents from whom embodied existence arose, and arhat-killing through the arhat's status as a field of qualities. In its exceptional case of two maternal relations, the source assigns technical maternity by maternal origin while preserving the other woman's roles of bearing, nourishing, and rearing. The further cases distinguish intended target, actual victim, status at the time of action, and the number of disclosure and non-disclosing-continuity factors.
 
 This unit continues the action analysis from 4.102 by examining how
 exceptional status depends on relations, not merely on a bodily event.
@@ -163,8 +154,7 @@ technical question.
 The source unit runs from the question at `[262|20]` through the answer at
 `[263|23]`, ending before the next question at `[263|23–24]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The exceptional classification depends on the relation that grounds the
 > action's target: parents are treated as benefactors through the origin of
 > the agent's embodied existence, while an arhat is treated as a field of
@@ -172,7 +162,6 @@ The source unit runs from the question at `[262|20]` through the answer at
 > and care, selecting one relation for the technical rule without denying
 > the others. The remaining cases show that intended target, actual victim,
 > and the target's status at the time of action are not interchangeable.
-
 ## 10. OWL++ Seed
 
 ```text
@@ -184,7 +173,7 @@ Class: MaternalOriginRelation
 Class: BearingRelation
 Class: NourishingRelation
 Class: RearingRelation
-Class: Manifestation
+Class: Disclosure
 Class: NonDisclosingContinuity
 
 ObjectProperty: directedAt
@@ -211,5 +200,5 @@ Rule: DistinctMaternalRelations
 
 Rule: MultipleVictimActionFactors
   bhāṣyaPosition = TwoNonDisclosingContinuities
-  manifestationCount = Disputed
+  disclosureCount = Disputed
 ```

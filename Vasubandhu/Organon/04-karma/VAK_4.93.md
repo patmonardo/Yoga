@@ -62,25 +62,18 @@ bhāvanā-heya-karmaṇaḥ
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > For action to be abandoned through seeing, result-dharmas beginning with
 > that class are respectively three, four, and one results. For action to be
 > abandoned through cultivation, those same result-classes are respectively
 > two, four, and three results.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Action to be abandoned through seeing has result-dharmas to be abandoned
-> through seeing as three results, excluding maturation and disconnection;
-> result-dharmas to be abandoned through cultivation as four results,
-> excluding disconnection; and dharmas not to be abandoned as one result:
-> the dominant result. Action to be abandoned through cultivation has
-> result-dharmas to be abandoned through seeing as two results:
-> activity-produced and dominant; result-dharmas to be abandoned through
-> cultivation as four results, excluding disconnection; and dharmas not to
-> be abandoned as three results, excluding maturation and the corresponding
-> result.
+> For action to be abandoned through seeing, dharmas to be abandoned through
+> seeing, through cultivation, and not to be abandoned have three, four, and one
+> results, respectively. For action to be abandoned through cultivation, those
+> classes have two, four, and three results, respectively.
 
 ## 6. Philosophical Translation
 
@@ -116,14 +109,15 @@ of each cell.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Action to be abandoned through seeing has result-dharmas to be abandoned through seeing as three results, excluding maturation and disconnection; result-dharmas to be abandoned through cultivation as four results, excluding disconnection; and dharmas not to be abandoned as one result: the dominant result. Action to be abandoned through cultivation has result-dharmas to be abandoned through seeing as two results: activity-produced and dominant; result-dharmas to be abandoned through cultivation as four results, excluding disconnection; and dharmas not to be abandoned as three results, excluding maturation and the corresponding result.
+
 This verse begins the result matrix indexed by abandonment status. It
 classifies the causal relations of action and resulting dharmas; it does not
 identify the action itself with the Path operation that abandons a dharma.
 The Bhāṣya's exclusions and named results show why the numerical sequence is
 not enough on its own: each count stands for a specific set of relations.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The mode by which an action is to be abandoned does not alone determine
 > its result-profile. The result-dharma's own abandonment status also
 > matters: the ordered source-target pair selects the available result

@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-asaṃvarasya kriyayā lābho 'bhyupagamena vā /
-śeṣāvijñaptilābhas tu kṣetrādānādarehanāt // 4.37 //
-```
+> asaṃvarasya kriyayā lābho 'bhyupagamena vā /
+> śeṣāvijñaptilābhas tu kṣetrādānādarehanāt // 4.37 //
 
-> Non-restraint is acquired either by performing the harmful occupational
-> activity or by deliberately adopting that livelihood as one’s own. Other
-> avijñapti—neither complete restraint nor complete non-restraint—arises
-> through relation to a specially efficacious field, through taking up a
-> continuing practice, or through pursuing a wholesome or unwholesome action
-> with sufficient earnestness and effort.
+> Non-restraint is acquired through action or deliberate undertaking. Other
+> non-disclosing continuity is acquired through a field, undertaking, and
+> earnest endeavor.
 
 The complete unit runs from [222|08] through [222|16–17] in
 `Vasubandhu/Sources/kosabhasya.txt`. The announcement of the

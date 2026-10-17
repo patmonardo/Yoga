@@ -69,30 +69,16 @@ further distinction.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Giving is for one's own benefit, another's benefit, both, or neither.
 > Its further distinction depends on the distinction of the giver, the
 > thing given, and the recipient field.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Giving is for one's own benefit, another's benefit, both, or neither.
-> Its further distinction depends on the distinction of the giver, the
-> thing given, and the recipient field. A gift to a caitya benefits the
-> donor alone when the donor can still receive future maturation, because
-> the caitya receives no assistance. A dispassionate noble who gives to
-> living beings benefits them, but—setting aside a result experienced in
-> this life—does not receive future maturation because that maturation
-> ground has been passed beyond. Giving to living beings benefits both
-> when the donor can still receive future maturation. A dispassionate
-> noble's gift to a caitya, setting aside a present-life result, benefits
-> neither in these two senses; the Bhāṣya says it is given from reverence
-> and gratitude.
-
-The four cases and the present-life-result qualifications are supplied by
-the Bhāṣya. “Neither” does not mean that the final gift is unwholesome or
-without a positive ground.
+> Giving is for one's own benefit, another's benefit, both, or neither. Its further
+> distinction depends on the distinction of the giver, the thing given, and the
+> recipient field.
 
 ## 6. Philosophical Translation
 
@@ -150,6 +136,10 @@ giver + thing given + recipient field
 
 ## 9. Interpretive Note
 
+**Translation note.** The four cases and the present-life-result qualifications are supplied by
+the Bhāṣya. “Neither” does not mean that the final gift is unwholesome or
+without a positive ground. The informed translation also included: A gift to a caitya benefits the donor alone when the donor can still receive future maturation, because the caitya receives no assistance. A dispassionate noble who gives to living beings benefits them, but—setting aside a result experienced in this life—does not receive future maturation because that maturation ground has been passed beyond. Giving to living beings benefits both when the donor can still receive future maturation. A dispassionate noble's gift to a caitya, setting aside a present-life result, benefits neither in these two senses; the Bhāṣya says it is given from reverence and gratitude.
+
 The four categories concern relations within the giving-event, not an
 undivided Mind. Read with 4.113, the project treats the Skandhas/Bases as
 gathered **content and frames** of the event, not Mind itself. Here the
@@ -165,8 +155,7 @@ benefit to the giver, thing, and field that distinguish the giving. The
 source unit is `[268|21]–[269|06]`, with `tat khalv etad dānam` at
 `[268|20]` as a lead-in; the next analysis begins at `[269|07]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A giving-event can be evaluated by two distinct relations: who actually
 > benefits, and what makes the gift distinct in its causal significance.
 > Assistance to a recipient and future maturation for the giver can separate:

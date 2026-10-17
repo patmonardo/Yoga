@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> पञ्चाष्टदशसर्वेभ्यो वर्ज्येभ्यो विरतिग्रहात् ।
->
-> उपासकोपवासस्थश्रमणोद्देशभिक्षुता ॥ ४.१५ ॥
+```sanskrit
+पञ्चाष्टदशसर्वेभ्यो वर्ज्येभ्यो विरतिग्रहात् ।
+उपासकोपवासस्थश्रमणोद्देशभिक्षुता ॥ ४.१५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> pañcāṣṭadaśasarvebhyo varjyebhyo viratigrahāt /
->
-> upāsakopavāsasthaśramaṇoddeśabhikṣutā // 4.15 //
+```text
+pañcāṣṭadaśasarvebhyo varjyebhyo viratigrahāt /
+upāsakopavāsasthaśramaṇoddeśabhikṣutā // 4.15 //
+```
 
 VAK 4.14 distinguished eight disciplinary names from four restraint-types.
 This verse identifies those four by the scope of abstention undertaken:
@@ -42,24 +44,16 @@ The coordinated numerals `pañca`, `aṣṭa`, `daśa`, and `sarvebhyaḥ` quali
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Through undertaking abstention from five, eight, ten, or all things to
 > be avoided, there is, respectively, lay-follower status, the status of
 > one established in *upavāsa*, novice designation, and monk status.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> One is established in lay restraint by undertaking abstention from five
-> prohibited actions; in the *upavāsa* observance by undertaking eight;
-> in novice restraint by undertaking ten; and in monk restraint by
-> undertaking abstention from all prohibited bodily and verbal actions.
-> The Bhāṣya explains that the eightfold undertaking groups adornment
-> with entertainment, while the novice's tenfold count separates those
-> two fields and adds abstention from accepting gold and silver. It calls
-> the complete undertaking *prātimokṣa* restraint.
-
-The respective order and enumeration are specified in the Bhāṣya.
+> By undertaking abstention from five, eight, ten, or all avoidable actions, one
+> respectively becomes a lay follower, an observer of *upavāsa*, a novice, or a
+> monk.
 
 ## 6. Philosophical Translation
 
@@ -73,6 +67,8 @@ Five / eight / ten / all abstentions → the four restraint statuses in the list
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya specifies the respective order and enumeration. In the eightfold undertaking, adornment is grouped with entertainment; the novice's tenfold count separates them and adds abstention from accepting gold and silver. The Bhāṣya calls the complete undertaking *prātimokṣa* restraint.
+
 ### Textual Notes
 
 The Bhāṣya unit runs from [206|22] through [207|07] in
@@ -83,8 +79,6 @@ continuous Sanskrit text; the kārikā has `pañca`. The list at [207|03–06]
 is densely compounded. Its category divisions are provisional and follow
 the stated totals and the Bhāṣya's instruction that adornment and
 entertainment be counted separately for the tenfold undertaking.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

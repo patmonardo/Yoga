@@ -92,26 +92,16 @@ three numerals explicit through `anukramam`, “respectively.”
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The remaining action without Influx, and whatever action is indeterminate,
 > each have three results. For wholesome action, the result counts for
 > dharmas beginning with wholesome are four, two, and three, respectively.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Action without Influx outside the Path of Abandonment, and indeterminate
-> action, each have three results: corresponding, activity-produced, and
-> dominant; maturation and disconnection are absent. For wholesome action,
-> the result counts for dharmas beginning with wholesome are four, two, and
-> three, respectively. Wholesome dharmas relate through
-> corresponding, disconnection, activity-produced, and dominant results;
-> unwholesome dharmas through activity-produced and dominant results; and
-> indeterminate dharmas through maturation, activity-produced, and dominant
-> results.
-
-The exact memberships, the ordered reading of the counts, and the exclusions
-are supplied by the Bhāṣya.
+> Other action without Influx, and indeterminate action, each have three
+> results. For wholesome action, dharmas beginning with wholesome have four,
+> unwholesome two, and indeterminate three results, respectively.
 
 ## 6. Philosophical Translation
 
@@ -268,6 +258,9 @@ later events.
 
 ## 9. Interpretive Note
 
+**Translation note.** The exact memberships, the ordered reading of the counts, and the exclusions
+are supplied by the Bhāṣya. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Action without Influx outside the Path of Abandonment, and indeterminate action, each have three results: corresponding, activity-produced, and dominant; maturation and disconnection are absent. For wholesome action, the result counts for dharmas beginning with wholesome are four, two, and three, respectively. Wholesome dharmas relate through corresponding, disconnection, activity-produced, and dominant results; unwholesome dharmas through activity-produced and dominant results; and indeterminate dharmas through maturation, activity-produced, and dominant results.
+
 VAK 4.88 marks a major advance in the causal logic of the action chapter. Up
 to this point, the question could still appear to be a property of one causal
 class: how many results does this action possess? The second half makes clear
@@ -302,8 +295,7 @@ structured network through which qualities, operations, and fields determine
 one another. The agent that emerges from this network will enter Anuśaya as
 the inwardly conditioned result of these objective mediations.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > An action does not transmit its ethical quality unchanged into every
 > result. Wholesome action relates differently to wholesome, unwholesome, and
 > indeterminate dharmas because causal efficacy is mediated by distinct
@@ -327,7 +319,6 @@ Hegelian-transcendental comprehension shows why this matrix is necessary.
 Cause and effect are not fixed things connected by an external arrow; each is
 determined through the specific mediation that joins it to the other. The
 five results name those mediations.
-
 ## 10. OWL++ Seed
 
 ```text

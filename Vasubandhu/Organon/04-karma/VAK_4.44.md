@@ -26,7 +26,7 @@ The Bhāṣya supplies the exact distribution compressed by the verse.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kāma` | compound member | Desire Realm |
 | `rūpa` | compound member | Form Realm |
@@ -115,26 +115,18 @@ not by present manifestation.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Meditation-born [restraint belongs] to gods born in the Desire and Form
 > Realms. Uncontaminated [restraint], in turn, [belongs to those born in those
 > Realms], excluding those born in the intermediate dhyāna and non-percipient
 > beings, and also to formless beings.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Meditation-born restraint occurs among gods born in the Desire and Form
-> Realms; above the Form Realm it does not occur. Uncontaminated restraint
-> occurs among those born in the Desire and Form Realms, excluding those born
-> in the intermediate dhyāna and non-percipient beings. Formless beings also
-> possess uncontaminated restraint, but there it is possessed as an acquired
-> determination and is not presently manifest.
-
-The upper limit of meditation-born restraint, the restored range of
-uncontaminated restraint, and the distinction between possession and present
-manifestation are supplied by the Bhāṣya.
-
+> Realms. Uncontaminated restraint occurs among beings born in those Realms,
+> except those born in the intermediate dhyāna and non-percipient beings; it
+> also occurs among the formless.
 ## 6. Philosophical Translation
 
 > Meditation-born [restraint belongs] to gods born in the Desire and Form Realms. Uncontaminated [restraint], in turn, [belongs to those born in those Realms], excluding those born in the intermediate dhyāna and non-percipient beings, and also to formless beings.
@@ -254,6 +246,13 @@ formless being
 
 ## 9. Interpretive Note
 
+**Translation note.** The upper limit of meditation-born restraint, the restored
+range of uncontaminated restraint, and the distinction between possession and
+present manifestation are supplied by the Bhāṣya. The prose specifies that
+meditation-born restraint does not occur above the Form Realm. Formless beings
+possess uncontaminated restraint without its present manifestation; the verse does
+not state that qualification explicitly.
+
 **The nonmanifest is not the nonexistent**
 
 VAK 4.44 supplies an especially clear determination of persistence:
@@ -306,8 +305,7 @@ whether it can presently appear.
 This is the Organon contact. The realm distribution, exclusions, and
 `samanvāgama`–`saṃmukhībhāva` distinction belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A practical determination need not be presently manifest in order to belong
 > to a continuum. Meditation-born restraint requires a meditative actuality
 > whose range ends with the Form Realm. Uncontaminated restraint follows the

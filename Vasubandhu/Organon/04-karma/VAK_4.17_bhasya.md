@@ -2,15 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-prātimokṣānvitā aṣṭau dhyānajena tadanvitaḥ /
-anāsraveṇāryasattvāḥ antyau cittānuvartinau // 4.17 //
-```
+> prātimokṣānvitā aṣṭau dhyānajena tadanvitaḥ /
+> anāsraveṇāryasattvāḥ antyau cittānuvartinau // 4.17 //
 
-> The eight disciplinary classes are endowed with prātimokṣa restraint.
-> Whoever is endowed with dhyāna is necessarily endowed with the restraint
-> born from or in dhyāna. Noble beings are endowed with uncontaminated
-> restraint. Of the three restraints, the latter two follow consciousness.
+> The eight [disciplinary classes] are endowed with prātimokṣa restraint; one
+> endowed with dhyāna is endowed with meditation-born restraint. Noble beings
+> have uncontaminated restraint. The latter two follow consciousness.
 
 The Bhāṣya unit runs from [207|22] through [208|13] of
 `Vasubandhu/Sources/kosabhasya.txt`. The next sentence introduces the

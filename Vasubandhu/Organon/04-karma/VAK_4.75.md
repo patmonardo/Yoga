@@ -87,28 +87,16 @@ account in the prose.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > What is experienced through consciousness associated with the eye, ear,
 > and Mind, and through the three other consciousnesses, is called seen,
 > heard, known, and thought, respectively.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> What is experienced through consciousness associated with the eye, ear,
-> and Mind, and through the three other consciousnesses, is called seen,
-> heard, known, and thought, respectively.
->
-> The Bhāṣya interprets this through the Vaibhāṣika allocation: visual
-> Cognition is called seen; auditory Cognition, heard; Mind-Cognition, known;
-> and olfactory, gustatory, or tactile Cognition, thought. It then challenges the
-> scriptural and classificatory proof offered for this table and records
-> alternative accounts in which the four expressions are determined by the
-> mode of access: direct sensory presence, report from another, reasoning or
-> consideration, and inward realization.
-
-The attribution of the table, its offered proof, the criticism, and the
-alternative definitions all belong to the Bhāṣya.
+> What is experienced through consciousness associated with the eye, ear, and
+> Mind, and through the three other consciousnesses, is called seen, heard,
+> known, and thought, respectively.
 
 ## 6. Philosophical Translation
 
@@ -251,9 +239,19 @@ But which account governs that status is precisely what the Bhāṣya keeps open
 
 ## 9. Interpretive Note
 
+**Translation note.** The attribution of the table, its offered proof, the
+criticism, and the alternative definitions all belong to the Bhāṣya. The
+Bhāṣya interprets this through the Vaibhāṣika allocation: visual Cognition is
+called seen; auditory Cognition, heard; Mind-Cognition, known; and olfactory,
+gustatory, or tactile Cognition, thought. It then challenges the scriptural
+and classificatory proof offered for this table and records alternative
+accounts in which the four expressions are determined by the mode of access:
+direct sensory presence, report from another, reasoning or consideration, and
+inward realization.
+
 **Do not flatten dispute into ontology**
 
-The first-pass witness treated the verse as a settled provenance taxonomy.
+The earlier reading treated the verse as a settled provenance taxonomy.
 The Bhāṣya shows that this is too quick. Provenance becomes a legitimate
 interpretive development only under the alternative access-based positions;
 it is not the immediate and uncontested meaning of the Kārikā.
@@ -285,8 +283,7 @@ criticism, alternative accounts, and earlier-teacher account belong to the
 Bhāṣya; the explicit contrast between two grounds of differentiation is the
 project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Truthful speech requires a determination of the sense in which a matter is
 > seen, heard, thought, or known. One account fixes these expressions by the
 > cognitive basis or Condition-field; competing accounts fix them by how the

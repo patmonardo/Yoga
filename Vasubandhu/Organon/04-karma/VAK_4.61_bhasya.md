@@ -2,17 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dharmakṣāntiṣu vairāgye cānantaryapathāṣṭake /
-yā cetanā dvādaśadhā karma kṛṣṇakṣayāya tat // 4.61 //
-```
+> dharmakṣāntiṣu vairāgye cānantaryapathāṣṭake /
+> yā cetanā dvādaśadhā karma kṛṣṇakṣayāya tat // 4.61 //
 
-> Four volitions occur in the dharma-knowledge patiences of the Path of Seeing,
-> and eight occur in the first eight uninterrupted paths of detachment from the
-> Desire Realm. These twelve volitions are karma without influxes whose specific
-> function is the abandonment of black karma. Not every karma without influxes
-> exhausts all three productive karmic classes; the Path's abandonment function
-> is differentiated by stage and target.
+> Volition in the dharma-knowledge kṣāntis and the eight uninterrupted paths of
+> detachment is twelvefold; this karma serves to exhaust black karma.
 
 ## 2. Continuous Sanskrit Witness
 

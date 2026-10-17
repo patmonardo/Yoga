@@ -2,14 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-saṃcetanasamāptibhyāṃ niṣkaukṛtyavipakṣataḥ /
-parivārād vipākāc ca karmopacitam ucyate // 4.120 //
-```
+> saṃcetanasamāptibhyāṃ niṣkaukṛtyavipakṣataḥ /
+> parivārād vipākāc ca karmopacitam ucyate // 4.120 //
 
-> An action is called accumulated through deliberate intention, completion,
-> absence of remorse and counteraction, accompaniment, and determination
-> toward maturation.
+> An action is called accumulated through deliberate intention, completion, absence
+> of remorse and counteraction, accompaniment, and determination toward maturation.
 
 The Bhāṣya counts five conditions. It treats absence of remorse and absence
 of an opposing factor together as one.

@@ -64,24 +64,15 @@ the Bhāṣya does not derive that number as two groups of four.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > That is held to be division of the wheel in Jambūdvīpa with nine or more;
 > division of communal action occurs in the three continents with eight or
 > more.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The division of the Dharma Chakra described in the preceding verses is
-> held to be wheel-division in Jambūdvīpa with nine or more monks; division
-> of communal action occurs in the three continents where the Teaching is
-> established, with eight or more monks.
-
-The Bhāṣya specifies that the first count comprises eight monks who
-constitute a Saṅgha and a ninth who divides it. Two parties must be
-represented, but their relative size is not specified. For the second
-division, the source gives eight or more monks without further deriving
-their distribution.
+> That is held to be wheel-division in Jambūdvīpa with nine or more [monks];
+> division of communal action occurs in the three continents with eight or more.
 
 ## 6. Philosophical Translation
 
@@ -128,6 +119,12 @@ second is not simply another name for the first.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya specifies that the first count comprises eight monks who
+constitute a Saṅgha and a ninth who divides it. Two parties must be
+represented, but their relative size is not specified. For the second
+division, the source gives eight or more monks without further deriving
+their distribution. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: The division of the Dharma Chakra described in the preceding verses is held to be wheel-division in Jambūdvīpa with nine or more monks; division of communal action occurs in the three continents where the Teaching is established, with eight or more monks.
+
 This passage gives a concrete test for the emerging BEP-protocol reading:
 it distinguishes what is divided—the Dharma Chakra's Path-operation or
 communal action—and, for `karmabheda`, specifies the shared boundary in
@@ -141,14 +138,12 @@ not occur, at `[262|10]`. The witness phrase `cakrādaścocyate` is
 retained and interpreted by context as naming both wheel-division and
 Saṅgha-division.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Collective division has distinct forms. In one, the operation of the Path
 > within the Dharma Chakra is displaced; in the other, communal action is
 > performed in a divided manner within one shared boundary. The two forms
 > differ in what is divided, where they occur, and the stated minimum
 > number of monks.
-
 ## 10. OWL++ Seed
 
 ```text

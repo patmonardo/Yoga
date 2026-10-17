@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अविज्ञप्तिस्त्रिधा ज्ञेया संवरासंवरेतरा ।
->
-> संवरः प्रातिमोक्षाख्यो ध्यानजोऽनास्रवस्तथा ॥ ४.१३ ॥
+```sanskrit
+अविज्ञप्तिस्त्रिधा ज्ञेया संवरासंवरेतरा ।
+संवरः प्रातिमोक्षाख्यो ध्यानजोऽनास्रवस्तथा ॥ ४.१३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> avijñaptis tridhā jñeyā saṃvarāsaṃvaretarā /
->
-> saṃvaraḥ prātimokṣākhyo dhyānajo 'nāsravas tathā // 4.13 //
+```text
+avijñaptis tridhā jñeyā saṃvarāsaṃvaretarā /
+saṃvaraḥ prātimokṣākhyo dhyānajo 'nāsravas tathā // 4.13 //
+```
 
 VAK 4.01–4.12 traced karma through volition, manifestation, causal
 continuity, and ethical determination. VAK 4.13 turns to the practical
@@ -42,20 +44,15 @@ The first pāda predicates `tridhā jñeyā` of `avijñaptiḥ`; the compound `s
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Non-disclosing continuity is to be understood as threefold: restraint,
 > non-restraint, and that which is neither. Restraint is called
 > *prātimokṣa*, is meditation-born, and is likewise uncontaminated.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Non-disclosing continuity is classified as restraint, non-restraint, or
-> neither. Restraint checks the spread of misconduct. It is threefold:
-> *prātimokṣa* restraint, identified by the Bhāṣya with desire-realm
-> discipline; meditation-born restraint, identified with Form-realm
-> discipline; and uncontaminated restraint, identified with uncontaminated
-> discipline.
+> Non-disclosing continuity is threefold: restraint, non-restraint, and neither.
+> Restraint is prātimokṣa, meditation-born, and likewise uncontaminated.
 
 ## 6. Philosophical Translation
 
@@ -79,6 +76,8 @@ The first pāda predicates `tridhā jñeyā` of `avijñaptiḥ`; the compound `s
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya identifies the three forms as *prātimokṣa*, meditation-born, and uncontaminated restraint, associating them respectively with desire-realm discipline, Form-realm discipline, and uncontaminated discipline. It also glosses restraint as checking the spread of misconduct; these explanations are not stated in the kārikā.
+
 ### Textual Notes
 
 The Bhāṣya unit runs from [205|12] through [205|18] in
@@ -90,8 +89,6 @@ The witness reads `tābhyāṃ cetaro`; the division `tābhyāṃ ca itaraḥ` i
 editorial. The following `naiva saṃvaro nāsaṃvaraḥ` secures the sense
 “neither.” The exact force of `ihatyānām` in the commentary's
 realm-identification remains provisional.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

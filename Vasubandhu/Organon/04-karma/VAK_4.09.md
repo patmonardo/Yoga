@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> संप्रयोगेण तद्युक्ताः समुत्थानात् क्रियादयः ।
->
-> विपर्ययेणाकुशलं परमाव्याकृते ध्रुवे ॥ ४.९ ॥
+```sanskrit
+संप्रयोगेण तद्युक्ताः समुत्थानात् क्रियादयः ।
+विपर्ययेणाकुशलं परमाव्याकृते ध्रुवे ॥ ४.९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> saṃprayogeṇa tadyuktāḥ samutthānāt kriyādayaḥ /
->
-> viparyayeṇākuśalaṃ paramāvyākṛte dhruve // 4.9 //
+```text
+saṃprayogeṇa tadyuktāḥ samutthānāt kriyādayaḥ /
+viparyayeṇākuśalaṃ paramāvyākṛte dhruve // 4.9 //
+```
 
 VAK 4.08 introduced four grounds of ethical classification. VAK 4.09
 completes the account: it explains wholesomeness and unwholesomeness through
@@ -40,26 +42,18 @@ The first pāda uses `saṃprayogeṇa` and `samutthānāt` as the grounds for t
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Those associated with them are wholesome through association; actions and
 > the rest are wholesome through their originating condition. The unwholesome
 > is classified conversely. The two permanent [Dharmas] are ultimately
 > indeterminate.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Dharmas associated with the wholesome roots, `hrī`, and `apatrāpya` are
-> wholesome through association. Bodily and verbal actions and related
-> products are wholesome through originating from such wholesome Dharmas,
-> although the Bhāṣya leaves a difficulty about certain acquisitions
-> unresolved. The unwholesome follows the contrary pattern: saṃsāra is
-> unwholesome ultimately; unwholesome roots and factors are unwholesome
-> intrinsically; associated Dharmas and their products are unwholesome through
-> association and origination. Relative to karmic maturation, contaminated
-> Dharmas may be wholesome or indeterminate. Space and non-analytical
-> cessation are the two unconditioned Dharmas that are indeterminate without
-> qualification.
+> Those associated with the wholesome roots are wholesome through association;
+> actions and related formations are wholesome through origination. The contrary
+> applies to the unwholesome. Space and non-analytical cessation, the two
+> permanent Dharmas, are ultimately indeterminate.
 
 ## 6. Philosophical Translation
 
@@ -84,6 +78,8 @@ The first pāda uses `saṃprayogeṇa` and `samutthānāt` as the grounds for t
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya resolves “those associated with them” as Dharmas associated with the wholesome roots, *hrī*, and *apatrāpya*. It classifies bodily and verbal actions and related formations by origination, applies the contrary criteria to the unwholesome, and identifies space and non-analytical cessation as the two permanent Dharmas that are ultimately indeterminate. Relative to karmic maturation, contaminated Dharmas may be wholesome or indeterminate. The status of certain acquisitions remains unresolved.
+
 ### Textual Notes
 
 The natural unit runs from [202|13] through [203|05] in
@@ -97,8 +93,6 @@ record and marks its editorial readings in the translation. The compressed
 `nirodhasamāpatti`, and `asaṃjñisamāpatti`, following their separate
 treatment in Chapter 2. The difficulty about certain `prāptis` is left open
 by the Bhāṣya itself.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

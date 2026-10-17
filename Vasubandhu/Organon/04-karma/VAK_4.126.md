@@ -65,25 +65,16 @@ mental collecting or reckoning of Dharmas.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Action set in motion by a specific method, together with what gives rise
 > to it, is threefold: writing and sealing; calculation and poetry; and
 > reckoning, in the corresponding order.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Action set in motion by a specific method, together with what gives rise
-> to it, is threefold: writing and sealing; calculation and poetry; and
-> reckoning, in the corresponding order. The Bhāṣya identifies the three
-> modes as bodily, verbal, and mental action: writing and sealing are
-> bodily; calculation and poetry are verbal; and `saṃkhyā` is mental
-> action, the mind's collecting or reckoning of Dharmas. It says the first
-> four activities are of the nature of the five Bases.
-
-The verse supplies the ordered examples; the body–speech–mind assignments,
-the definition of `saṃkhyā`, and the five-Base determination are supplied
-by the Bhāṣya.
+> Action set in motion by a specific method, together with what gives rise to it, is
+> threefold: writing and sealing; calculation and poetry; and reckoning, in the
+> corresponding order.
 
 ## 6. Philosophical Translation
 
@@ -135,6 +126,10 @@ calculation expressed through speech ≠ mental reckoning of Dharmas
 
 ## 9. Interpretive Note
 
+**Translation note.** The verse supplies the ordered examples; the body–speech–mind assignments,
+the definition of `saṃkhyā`, and the five-Base determination are supplied
+by the Bhāṣya. The informed translation also included: The Bhāṣya identifies the three modes as bodily, verbal, and mental action: writing and sealing are bodily; calculation and poetry are verbal; and `saṃkhyā` is mental action, the mind's collecting or reckoning of Dharmas. It says the first four activities are of the nature of the five Bases.
+
 VAK 4.125 classifies wholesome activity by its developmental orientation:
 merit, nirvāṇa, or penetration. VAK 4.126 turns to a different question:
 how familiar worldly skills are set in motion and instantiated as action.
@@ -157,8 +152,7 @@ The source span is `[275|01]–[275|06]`. The question at `[275|01]` asks
 about the nature of familiar worldly practices; the next passage, beginning
 at `[275|07]`, turns to designations for kinds of Dharmas.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A learned activity is not defined only by its product or subject matter.
 > It is methodically set in motion, considered together with what brings
 > it about, and differentiated according to its mode of action. Writing

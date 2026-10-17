@@ -2,15 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-aśubhāḥ ṣaḍ avijñaptir dvidhaikaḥ te 'pi kurvataḥ /
-dvividhāḥ sapta kuśalāḥ avijñaptiḥ samādhijāḥ // 4.67 //
-```
+> aśubhāḥ ṣaḍ avijñaptir dvidhaikaḥ te 'pi kurvataḥ /
+> dvividhāḥ sapta kuśalāḥ avijñaptiḥ samādhijāḥ // 4.67 //
 
-> Six unwholesome courses are non-manifest; one is twofold. Those six
-> too are twofold for one who performs them personally. The seven
-> wholesome courses are twofold; those born from concentration are
-> non-manifest.
+> Six unwholesome courses are non-manifest; one is twofold. Those six too are
+> twofold for one who performs them personally. The seven wholesome courses
+> are twofold; those born from concentration are non-manifest.
 
 The verse classifies the seven bodily and verbal courses according to
 their mode of karmic existence: `vijñapti`, `avijñapti`, or both.

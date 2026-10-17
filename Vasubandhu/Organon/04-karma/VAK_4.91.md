@@ -105,29 +105,16 @@ predicate and numerical distribution occur in VAK 4.92.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Dharmas of the same level have four results; those of another level have
 > three or two. For trainee action, dharmas beginning with the trainee class
 > have three results; but for the action of one beyond training—
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Result-dharmas belonging to the same level as their causal action can stand
-> to it through maturation, corresponding, activity-produced, and dominant
-> results; disconnection is excluded. Different-level dharmas without Influx
-> can be results through corresponding, activity-produced, and dominant
-> relations; because they do not fall within a realm, maturation is
-> unavailable, and disconnection is also excluded. Different-level dharmas
-> with Influx can be results only through activity-produced and dominant
-> relations. For trainee action, trainee and beyond-training dharmas are
-> results through corresponding, activity-produced, and dominant relations,
-> while dharmas of neither status are results through disconnection,
-> activity-produced, and dominant relations. The classification of
-> beyond-training action begins here and continues in the next verse.
-
-The exact memberships, the Influx division, and the complete trainee
-row are Bhāṣya determinations.
+> Dharmas of the same level as the action have four results; those of another
+> level have three or two. For trainee action, dharmas beginning with the
+> trainee class have three results; but for beyond-training action—
 
 ## 6. Philosophical Translation
 
@@ -156,7 +143,7 @@ candidate result's Influx status is also specified.
 
 The Bhāṣya's reason that a different-level dharma without Influx cannot be a
 maturation-result: it does not fall within a realm. The compound concerns
-realm-status here, not a physical Element.
+realm-status here, not a physical component.
 
 **`Śaikṣa` — trainee**
 
@@ -272,6 +259,9 @@ canonical logical sequence.
 
 ## 9. Interpretive Note
 
+**Translation note.** The exact memberships, the Influx division, and the complete trainee
+row are Bhāṣya determinations. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Result-dharmas belonging to the same level as their causal action can stand to it through maturation, corresponding, activity-produced, and dominant results; disconnection is excluded. Different-level dharmas without Influx can be results through corresponding, activity-produced, and dominant relations; because they do not fall within a realm, maturation is unavailable, and disconnection is also excluded. Different-level dharmas with Influx can be results only through activity-produced and dominant relations. For trainee action, trainee and beyond-training dharmas are results through corresponding, activity-produced, and dominant relations, while dharmas of neither status are results through disconnection, activity-produced, and dominant relations. The classification of beyond-training action begins here and continues in the next verse.
+
 VAK 4.91 demonstrates again that meaning lies in systematic relation. `Bhūmi`
 cannot be adequately translated and then left as an isolated noun meaning
 “level.” Its causal meaning emerges through the opposition of own-level and
@@ -306,8 +296,7 @@ not supplied as an isolated definition; its causal meaning emerges only in
 the continuation of the matrix. The syntax requires the next verse because
 the Concept being expressed exceeds the boundary of this one.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Causal efficacy is restricted not simply by the level of an isolated term,
 > but by the relation between the levels of source and result. Activity is most
 > richly continuous within its own ground; across grounds, correspondence and
@@ -331,7 +320,6 @@ Hegelian-transcendental comprehension reveals `bhūmi` as a determinate ground:
 not a container in which causes happen to reside, but an organized field that
 conditions what can reproduce itself, cross into another level, or become a
 liberative result.
-
 ## 10. OWL++ Seed
 
 ```text

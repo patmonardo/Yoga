@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kāmāptaṃ kuśalārūpaṃ mūlacchedordhvajanmataḥ /
-pratipakṣodayāt kliṣṭam arūpaṃ tu vihīyate // 4.42 //
-```
+> kāmāptaṃ kuśalārūpaṃ mūlacchedordhvajanmataḥ /
+> pratipakṣodayāt kliṣṭam arūpaṃ tu vihīyate // 4.42 //
 
-> A wholesome non-Form dharma belonging to the desire realm is lost either
-> when the wholesome roots are severed or when the person is reborn above the
-> desire realm, in the Form or Formless Realm. Every defiled non-Form dharma,
-> however, is abandoned only when its corresponding counteragent—the specific
-> Path of abandonment opposed to that kind of defilement—arises and removes it
-> together with its associated factors.
+> A wholesome non-Form dharma belonging to the desire realm is lost through
+> severance of the roots or birth in a higher realm; a defiled non-Form
+> dharma, however, is abandoned through arising of its counteragent.
 
 The complete running unit is [225|22]–[226|01–02] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about which

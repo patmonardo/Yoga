@@ -2,18 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-tathaivāsaṃvarastho 'pi dhyānasaṃvaravān sadā /
-atītājātayā āryas tu prathame nābhyatītayā // 4.20 //
-```
+> tathaivāsaṃvarastho 'pi dhyānasaṃvaravān sadā /
+> atītājātayā āryas tu prathame nābhyatītayā // 4.20 //
 
-> One established in non-restraint follows the same pattern: while it has not
-> been abandoned, he possesses present avijñapti and, after the first moment,
-> past avijñapti as well. One possessing meditation-born restraint continually
-> possesses past and future avijñapti, together with the present restraint
-> accompanying the corresponding consciousness. A noble person similarly
-> possesses uncontaminated restraint, except that at the first noble Path
-> moment no past uncontaminated avijñapti is yet possessed.
+> So too for one established in non-restraint. One possessing meditation-born
+> restraint is continually endowed with past and future *avijñapti*. A noble
+> person likewise, except that at the first moment past [uncontaminated
+> *avijñapti*] is absent.
 
 The running Bhāṣya unit extends from [209|12] through [209|21–22] in
 `Vasubandhu/Sources/kosabhasya.txt`. The governing condition `atyāgāt`

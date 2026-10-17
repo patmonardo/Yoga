@@ -2,29 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-triṣu dvīpeṣv ānantaryaṃ śaṇḍhādīnāṃ tu neṣyate /
-alpopakārālajjitvāc cheṣe gatiṣu pañcasu // 4.97 //
-```
+> triṣu dvīpeṣv ānantaryaṃ śaṇḍhādīnāṃ tu neṣyate /
+> alpopakārālajjitvāc cheṣe gatiṣu pañcasu // 4.97 //
 
-### Bhāṣya-informed study translation
-
-> Among these obstructions, where is each to be understood? The actions of
-> *ānantarya* are admitted in the three continents—not in Uttarakuru, the
-> other destinies, or another Principle; even there, only for women and men.
-> They are not admitted for persons classified in the text as *śaṇḍha* and
-> related cases. The Bhāṣya recalls its earlier explanation concerning
-> non-restraint and adds lesser parental beneficence and lesser inhibition
-> toward parents, assigning these reasons respectively to the parents and
-> the persons. It attributes the claimed difference in beneficence to
-> embodied condition and parental affection. It extends the exclusion to
-> animals and pretas, while Bhadanta allows a possible case among those of
-> exceptional intelligence, such as a well-bred horse. A human who kills
-> nonhuman parents is also said not to incur *ānantarya*. The Bhāṣya then
-> clarifies that the “remaining” two are affliction-obstruction and
-> maturation-obstruction, which occur across the five destinies; it
-> identifies the Kuru condition among humans and non-percipient beings
-> among gods as instances of the latter.
+> Actions of immediate retribution are admitted in the three continents, but not
+> for persons classified as *śaṇḍha* and related cases, because of lesser
+> beneficence and lack of inhibition. The remaining two obstructions occur in
+> the five destinies.
 
 ## 2. Continuous Sanskrit Witness
 

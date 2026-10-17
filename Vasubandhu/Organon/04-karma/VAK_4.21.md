@@ -27,7 +27,7 @@ concentration and the practitioner entered into the noble Path.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `samāhita` | prior-participial/adjectival member of a compressed dual construction | concentrated; entered into concentration |
 | `āryamārgasthau` | nominative masculine dual construction as resolved by the prose | the concentrated practitioner and one established in the noble Path |
@@ -132,25 +132,16 @@ non-abandonment, continues to govern this possession.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The concentrated practitioner and the one established in the noble Path are
 > joined with present avijñapti. If one standing in the middle possesses
 > avijñapti, at first it is possessed as present, and afterward in two times.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The practitioner actually entered into concentration and the practitioner
-> actually entered into the noble Path are respectively endowed with present
-> meditation-born and uncontaminated avijñapti; they are not so endowed as
-> present when they have emerged from those states. If a person established in
-> neither restraint nor non-restraint possesses an occasional avijñapti, it is
-> possessed only as present in its first moment and as both past and present
-> thereafter, so long as it has not been abandoned.
-
-The identifications of the two restraints, the emerged-state qualification,
-the definition of `madhyastha`, and the continuing non-abandonment condition
-are supplied by the Bhāṣya.
+> The one in concentration and the one established on the noble Path are endowed
+> with present [*avijñapti*]. If one in the middle possesses *avijñapti*, at
+> first it is present; afterward it belongs to both past and present.
 
 ## 6. Philosophical Translation
 
@@ -268,6 +259,10 @@ exhaustive binary.
 
 ## 9. Interpretive Note
 
+**Translation note.** The identifications of the two restraints, the emerged-state qualification,
+the definition of `madhyastha`, and the continuing non-abandonment condition
+are supplied by the Bhāṣya.
+
 **A vow is a system, not an isolated good deed**
 
 VAK 4.21 helps distinguish a vow from an occasional action. A middle person
@@ -348,8 +343,7 @@ This is an Organon reconstruction. Vasubandhu’s explicit claims concern
 present possession during concentration or Path, its absence when emerged,
 and the conditional temporal possession of a middle person’s avijñapti.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Mind-following restraint exists presently only with its corresponding
 > consciousness: meditation restraint while concentration is occurring, and
 > uncontaminated restraint while the noble Path is occurring. A person

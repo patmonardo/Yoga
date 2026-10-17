@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-bhikṣur dṛkcarito vṛttī bhinatty anyatra bāliśān /
-śāstṛmārgāntarakṣāntau bhinno na vivasaty asau // 4.100 //
-```
+> bhikṣur dṛkcarito vṛttī bhinatty anyatra bāliśān /
+> śāstṛmārgāntarakṣāntau bhinno na vivasaty asau // 4.100 //
 
 > A monk governed by view and established in conduct divides the immature
-> elsewhere. Upon acceptance of another teacher and another path, the Saṅgha
-> is divided; that division does not last through the night.
+> elsewhere. The Saṅgha is divided upon acceptance of another teacher and
+> path; that division does not last through the night.
 
 ## 2. Continuous Sanskrit Witness
 

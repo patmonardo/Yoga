@@ -2,18 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-nṛṇām asaṃvaro hitvā śaṇḍhapaṇḍadvidhākṛtīn /
-kurūṃś ca saṃvaro 'py evaṃ devānāṃ ca nṛṇāṃ trayaḥ // 4.43 //
-```
+> nṛṇām asaṃvaro hitvā śaṇḍhapaṇḍadvidhākṛtīn /
+> kurūṃś ca saṃvaro 'py evaṃ devānāṃ ca nṛṇāṃ trayaḥ // 4.43 //
 
-> Acquired non-restraint occurs only in the human mode of existence, excluding
-> the bodily categories listed by the text and the inhabitants of Uttarakuru.
-> Acquired restraint occurs among eligible humans under the corresponding
-> exclusions and also among gods. Eligible humans can possess all three forms:
-> prātimokṣa restraint, meditation-born restraint, and uncontaminated
-> restraint; the forms available among gods are specified in the following
-> verse.
+> Non-restraint occurs among humans, except the śaṇḍhas, paṇḍakas, persons of
+> twofold bodily constitution, and the Kurus. Restraint occurs likewise and also
+> among gods. Among humans, all three [forms of restraint] are found.
 
 The natural unit runs from the opening question at [226|03]
 through [226|24] in `Vasubandhu/Sources/kosabhasya.txt`.

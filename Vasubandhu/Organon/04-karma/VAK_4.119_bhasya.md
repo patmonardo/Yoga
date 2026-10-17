@@ -2,13 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-pṛṣṭhaṃ kṣetram adhiṣṭhānaṃ prayogaś cetanāśayaḥ /
-eṣāṃ mṛdvadhimātratvāt karmamṛdvadhimātratā // 4.119 //
-```
+> pṛṣṭhaṃ kṣetram adhiṣṭhānaṃ prayogaś cetanāśayaḥ /
+> eṣāṃ mṛdvadhimātratvāt karmamṛdvadhimātratā // 4.119 //
 
-> Repetition, field, action-course, undertaking, volition, and resolve:
-> according to whether these are mild or intense, action is mild or intense.
+> Repetition, field, action-course, undertaking, volition, and resolve: according to
+> whether these are mild or intense, action is mild or intense.
 
 The Bhāṣya introduces the six as causes for understanding the heaviness or
 lightness of action. It parses `cetanāśayaḥ` as two factors, `cetanā` and

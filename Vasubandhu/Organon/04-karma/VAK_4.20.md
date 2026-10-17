@@ -27,7 +27,7 @@ translation.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tathā` | adverb | in that manner; likewise |
 | `eva` | emphatic particle | precisely; just |
@@ -125,26 +125,18 @@ restraint are possessed, but no past instance exists.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > One established in non-restraint is likewise. One possessing meditation
 > restraint is continually endowed with past and future avijñapti. The noble
 > person is likewise, but in the first moment is not endowed with past
 > avijñapti.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> One established in non-restraint follows the same pattern: while it has not
-> been abandoned, he possesses present avijñapti and, after the first moment,
-> past avijñapti as well. One possessing meditation-born restraint continually
-> possesses past and future avijñapti, together with the present restraint
-> accompanying the corresponding consciousness. A noble person similarly
-> possesses uncontaminated restraint, except that at the first noble Path
-> moment no past uncontaminated avijñapti is yet possessed.
-
-The expanded first clause, the explicit present mode, and the identification
-of uncontaminated restraint are determinations supplied by the Bhāṣya and the
-immediately preceding verses.
+> So too for one established in non-restraint. One possessing meditation-born
+> restraint is continually endowed with past and future *avijñapti*. A noble
+> person likewise, except that at the first moment past [uncontaminated
+> *avijñapti*] is absent.
 
 ## 6. Philosophical Translation
 
@@ -269,6 +261,8 @@ uncontaminated restraint throughout the Bhāṣya’s discussion.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya extends the preceding pattern to non-restraint: present *avijñapti* persists until abandonment, and after the first moment past *avijñapti* is also possessed. With meditation-born restraint, past and future *avijñapti* accompany present restraint while the corresponding consciousness is active. The noble person's uncontaminated restraint follows this pattern except that past *avijñapti* is absent at the first moment.
+
 **The present does not contain its whole truth immediately**
 
 VAK 4.20 demonstrates that present actuality cannot by itself disclose the
@@ -336,8 +330,7 @@ a determination without a prior instance becomes actual and opens a new
 future. This is an Organon development of the contrast Vasubandhu explicitly
 draws between recovered meditation restraint and the unprecedented noble Path.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The temporal range of a practical determination depends upon its history in
 > the continuum. Non-restraint continues like prātimokṣa restraint through
 > present possession and, after its first moment, possession as past.

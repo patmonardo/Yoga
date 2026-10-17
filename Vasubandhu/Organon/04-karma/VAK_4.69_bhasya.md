@@ -2,15 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-tadanantarasaṃbhūterabhidhyādyāstrimūlajāḥ /
-kuśalāḥ saprayogāntā alobhadveṣamohajāḥ // 4.69 //
-```
+> tadanantarasaṃbhūterabhidhyādyāstrimūlajāḥ /
+> kuśalāḥ saprayogāntā alobhadveṣamohajāḥ // 4.69 //
 
-> Because they arise immediately after them, covetousness and the other
-> mental courses are born from the three roots. The wholesome courses,
-> together with their preparation and aftermath, are born from non-greed,
-> non-hatred, and non-delusion.
+> Because they arise immediately after them, covetousness and the other mental
+> courses are born from the three roots. The wholesome courses, together with
+> their preparation and aftermath, are born from non-greed, non-hatred, and
+> non-delusion.
 
 The first half completes the preceding inquiry into the three unwholesome
 roots. The second applies the three-phase form of VAK 4.68 to wholesome

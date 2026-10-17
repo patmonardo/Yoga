@@ -59,26 +59,14 @@ eṣām mṛdu-adhimātratvāt
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Repetition, field, action-course, undertaking, volition, and resolve:
 > according to whether these are mild or intense, action is mild or intense.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Repetition, field, action-course, undertaking, volition, and resolve:
-> according to whether these are mild or intense, action is mild or intense.
-> The Bhāṣya defines repetition as renewed enactment after an act has been
-> done; field as that in which benefit or harm is performed; action-course as
-> the course of action itself; undertaking as bodily or verbal activity for
-> that course; volition as that by which the course is completed; and resolve
-> as the intention, “I will do this in this way; I will not do that in that
-> way.” In some cases repetition alone, field alone, or the action-course
-> within a field makes an action heavy. When all six factors are intense, the
-> action is extremely heavy; when they are mild, it is extremely mild.
-
-The definitions, examples of a single factor's force, and limiting cases are
-provided by the Bhāṣya.
+> Repetition, field, action-course, undertaking, volition, and resolve: according to
+> whether these are mild or intense, action is mild or intense.
 
 ## 6. Philosophical Translation
 
@@ -132,6 +120,9 @@ course is not evaluated apart from the field.
 
 ## 9. Interpretive Note
 
+**Translation note.** The definitions, examples of a single factor's force, and limiting cases are
+provided by the Bhāṣya. The informed translation also included: The Bhāṣya defines repetition as renewed enactment after an act has been done; field as that in which benefit or harm is performed; action-course as the course of action itself; undertaking as bodily or verbal activity for that course; volition as that by which the course is completed; and resolve as the intention, “I will do this in this way; I will not do that in that way.” In some cases repetition alone, field alone, or the action-course within a field makes an action heavy. When all six factors are intense, the action is extremely heavy; when they are mild, it is extremely mild.
+
 After 4.114–4.118 distinguish the giver, thing given, and recipient field
 within giving, 4.119 generalizes the inquiry to factors that determine
 action-weight. It especially clarifies the role of `cetanā`: this passage
@@ -149,8 +140,7 @@ in the verse, normalized here as `prayogaḥ`, and `mātāitroḥ` in the
 parental example, normalized as `mātāpitror`. The next question at
 `[271|19]` concerns when an action is said to be done and accumulated.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The action is not weighted by volition in isolation. The Bhāṣya gives
 > volition a precise and decisive function: it completes the action-course.
 > That function is distinct from the resolve that frames what one will or

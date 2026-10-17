@@ -14,12 +14,7 @@ anyasyāpy upavāso 'sti śaraṇaṃ tv agatasya na /
 upāsakatvopagamāt saṃvṛt uktis tu bhikṣuvat // 4.30 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-anyasya api upavāsaḥ asti śaraṇam tu agatasya na /
-upāsakatva-upagamāt saṃvṛt uktiḥ tu bhikṣu-vat //
-```
 
 The transmitted `saṃvṛt` is compressed. The Bhāṣya resolves it through
 `upāsakasaṃvaro jāyate`: lay restraint arises from undertaking upāsaka status.
@@ -28,7 +23,7 @@ rules rather than first producing the restraint.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `anyasya` | genitive masculine singular | for another; for one not already an observer |
 | `api` | particle | also; even |
@@ -42,6 +37,9 @@ rules rather than first producing the restraint.
 | `uktiḥ` | nominative feminine singular | statement; verbal articulation |
 | `tu` | contrastive particle | however; in turn |
 | `bhikṣuvat` | indeclinable comparative | as in the case of a monk |
+
+
+**Word division (verse order).** `anyasya api upavāsaḥ asti śaraṇam tu agatasya na / upāsakatva-upagamāt saṃvṛt uktiḥ tu bhikṣu-vat //`
 
 **`anyasya`**
 
@@ -129,25 +127,16 @@ understand its determinate content.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Upavāsa restraint may also arise for another, but not for one who has not
 > gone for refuge. From entering upāsaka status restraint arises; the statement
 > [of the rules] is subsequent, as in the case of a monk.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> A person not previously established as an upavāsaka may acquire the
-> day-and-night restraint by first going for refuge to Buddha, Dharma, and
-> Saṃgha and then undertaking the observance; it does not otherwise arise,
-> apart from the qualification of ignorance. According to the Kāśmīra account,
-> lay restraint arises from undertaking upāsaka status itself. The subsequent
-> statement of the training rules serves to instruct the new upāsaka in the
-> restraint already acquired, just as monks and novices are taught their rules
-> after acquisition.
-
-The Three Refuges, the school attribution, the ignorance qualification, and
-the instructional function of rule-recitation are supplied by the Bhāṣya.
+> Upavāsa restraint may also belong to another, but not to one who has not
+> gone for refuge. Restraint arises from undertaking upāsaka status, while its
+> declaration follows, as in the case of a monk.
 
 ## 6. Philosophical Translation
 
@@ -271,6 +260,9 @@ restraint is rejected.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Three Refuges, the school attribution, the ignorance qualification, and
+the instructional function of rule-recitation are supplied by the Bhāṣya.
+
 **Vasubandhu distinguishes genesis from exposition**
 
 This is precisely the kind of distinction that makes Vasubandhu “one of us.”
@@ -352,8 +344,7 @@ This is an Organon development. The school positions, acquisition sequence,
 and distinction between restraint and subsequent instruction are explicit in
 the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Religious orientation, acquisition of practical status, and explicit
 > knowledge of that status’s rules are distinct moments. Refuge turns the
 > person toward Buddha, Dharma, and Saṃgha; undertaking upāsaka status

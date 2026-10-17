@@ -2,15 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-gatiduḥkhopakāritvaguṇaiḥ kṣetraṃ viśiṣyate /
-agraṃ muktasya muktāya bodhisattvasya cāṣṭamam // 4.117 //
-```
+> gatiduḥkhopakāritvaguṇaiḥ kṣetraṃ viśiṣyate /
+> agraṃ muktasya muktāya bodhisattvasya cāṣṭamam // 4.117 //
 
-> The recipient field is distinguished by destiny, suffering, beneficence,
-> and qualities. Foremost is the gift from one who is free to one who is
-> free; a gift to a Bodhisattva is also foremost; and, in another set of
-> eight gifts, the eighth is foremost.
+> The recipient field is distinguished by destiny, suffering, beneficence, and
+> qualities. Foremost is the gift from one who is free to one who is free; a gift to
+> a Bodhisattva is also foremost; and, in another set of eight gifts, the eighth is
+> foremost.
 
 The compressed second half contains three distinct judgments. The Bhāṣya
 separates them before explaining the eightfold list.

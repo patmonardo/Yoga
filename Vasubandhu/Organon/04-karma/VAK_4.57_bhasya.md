@@ -2,17 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kuśalasyāvitarkasya karmaṇo vedanā matā /
-vipākaś caitasiky eva kāyiky evāśubhasya tu // 4.57 //
-```
+> kuśalasyāvitarkasya karmaṇo vedanā matā /
+> vipākaś caitasiky eva kāyiky evāśubhasya tu // 4.57 //
 
-> For wholesome karma belonging to the non-discursive range—from the
-> intermediate dhyāna through the summit of existence—the feeling that
-> constitutes its maturation is exclusively mental, because bodily feeling
-> necessarily belongs to a vitarka-and-vicāra mode. For unwholesome karma, the
-> painful maturation-feeling is exclusively bodily, because mental painful
-> feeling is `daurmanasya`, and `daurmanasya` is not itself karmic maturation.
+> For wholesome karma without `vitarka`, the feeling held to be its maturation
+> is exclusively mental; for unwholesome karma, it is exclusively bodily.
 
 This classifies *feeling as maturation*, not every feeling that may
 occur in the life of someone affected by such karma.

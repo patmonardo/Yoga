@@ -5,14 +5,10 @@
 > aṣṭadhā prātimokṣākhyo dravyatas tu caturvidhaḥ /
 > liṅgato nāmasaṃcārāt pṛthak te cāvirodhinaḥ // 4.14 //
 
-> *Prātimokṣa* restraint has eight disciplinary designations but four
-> distinct restraint-types. The Bhāṣya explains that some designations
-> transfer with a change in the sex-characteristic it describes, without
-> requiring the abandonment of an existing restraint or the acquisition
-> of a new one. Lay, novice, and monastic restraints undertaken in
-> succession, by contrast, arise separately because their causal grounds
-> differ. They can nevertheless coexist: undertaking a later restraint
-> does not abandon an earlier one.
+
+> Prātimokṣa restraint is eightfold by designation, but fourfold in substance.
+> Its designations shift with *liṅga*, and the distinct restraints remain
+> without conflict.
 
 This is the Bhāṣya-informed study translation in `VAK_4.14.md`. The prose
 unit runs from [205|19] through [206|21]; the next question begins at

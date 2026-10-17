@@ -2,15 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dātā viśiṣṭaḥ śraddhādyaiḥ satkṛtyādi dadāty ataḥ /
-satkārodārarucitā kālānācchedyalābhitā // 4.115 //
-```
+> dātā viśiṣṭaḥ śraddhādyaiḥ satkṛtyādi dadāty ataḥ /
+> satkārodārarucitā kālānācchedyalābhitā // 4.115 //
 
-> A giver distinguished by faith and related qualities gives respectfully
-> and in other specified ways. Consequently, there is receipt of honor,
-> taste for excellent enjoyments, timely acquisition, and acquisition not
-> liable to seizure or destruction.
+> A giver distinguished by faith and related qualities gives respectfully and in
+> other specified ways. Consequently, there is receipt of honor, taste for excellent
+> enjoyments, timely acquisition, and acquisition not liable to seizure or
+> destruction.
 
 This develops the giver-determinant named in 4.114. The Bhāṣya expands
 the compressed `satkṛtyādi` and explicitly pairs four manners with four

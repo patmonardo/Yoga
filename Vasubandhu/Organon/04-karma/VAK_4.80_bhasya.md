@@ -2,10 +2,8 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-chinatti strī pumān dṛṣṭicaritaḥ so 'samanvayaḥ /
-saṃdhiḥ kāṅkṣāstidṛṣṭibhyāṃ nehānantaryakāriṇaḥ // 4.80 //
-```
+> chinatti strī pumān dṛṣṭicaritaḥ so 'samanvayaḥ /
+> saṃdhiḥ kāṅkṣāstidṛṣṭibhyāṃ nehānantaryakāriṇaḥ // 4.80 //
 
 > A woman or a man whose disposition is governed by view severs them; that
 > severance is non-endowment. Reconnection occurs through doubt or the view

@@ -62,25 +62,16 @@ not add a fifth quality of the gift-object.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The gift-object is distinguished by excellence of color and the other
 > qualities. From giving such an object arise beauty, renown, belovedness,
 > delicacy of limbs, and limbs pleasant to touch according to the seasons.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The gift-object is distinguished by excellence of color and the other
-> qualities. From giving such an object arise beauty, renown, belovedness,
-> delicacy of limbs, and limbs pleasant to touch according to the seasons.
-> The Bhāṣya specifies color, smell, taste, and touch: giving something
-> excellent in color yields beauty; something fragrant yields renown;
-> something excellent in taste yields belovedness; and something excellent
-> in touch yields delicate limbs and limbs pleasant to touch according to
-> the seasons.
-
-The four qualities and their ordered correspondence are explicit in the
-Bhāṣya, not separately enumerated in the compact kārikā.
+> The gift-object is distinguished by excellence of color and the other qualities.
+> From giving such an object arise beauty, renown, belovedness, delicacy of limbs,
+> and limbs pleasant to touch according to the seasons.
 
 ## 6. Philosophical Translation
 
@@ -124,6 +115,9 @@ agreeableness, belong to the Bhāṣya's explanation.
 
 ## 9. Interpretive Note
 
+**Translation note.** The four qualities and their ordered correspondence are explicit in the
+Bhāṣya, not separately enumerated in the compact kārikā. The informed translation also included: The Bhāṣya specifies color, smell, taste, and touch: giving something excellent in color yields beauty; something fragrant yields renown; something excellent in taste yields belovedness; and something excellent in touch yields delicate limbs and limbs pleasant to touch according to the seasons.
+
 VAK 4.115 considered the giver and manner of giving; 4.116 considers the
 thing given. The giving-event thus has distinct relational determinations:
 volition is not the gift-object, and neither the object nor the recipient
@@ -140,8 +134,7 @@ as a term in this kārikā. The source span is `[269|20]–[270|03]`. At
 repository kārikā gives `surūpatvaṃ`. The next recipient-field question
 begins at `[270|04]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Giving does not become determinate through intention alone: the thing
 > given has its own qualities and makes a particular form of benefit
 > available. The Bhāṣya reads maturation as corresponding to those

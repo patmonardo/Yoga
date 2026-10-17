@@ -14,12 +14,7 @@
 catvāry ekaṃ tathā trīṇi smṛtināśo madaś ca taiḥ // 4.29 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-śīla-aṅgāni apramāda-aṅgam vrata-aṅgāni yathā-kramam /
-catvāri ekam tathā trīṇi smṛti-nāśaḥ madaḥ ca taiḥ //
-```
 
 The final instrumental `taiḥ`, “through those,” is compressed. The Bhāṣya
 distributes the causal functions: intoxicants destroy recollection, indulgent
@@ -28,7 +23,7 @@ recollection of the observance and `saṃvega`.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `śīlāṅgāni` | nominative neuter plural compound | limbs of discipline |
 | `apramādāṅgam` | nominative neuter singular compound | limb of non-negligence or heedfulness |
@@ -40,6 +35,9 @@ recollection of the observance and `saṃvega`.
 | `smṛtināśaḥ` | nominative masculine singular compound | destruction of recollection |
 | `madaḥ` | nominative masculine singular | intoxication, self-inflation, indulgent exhilaration |
 | `taiḥ` | instrumental masculine/neuter plural pronoun | through those; by those factors |
+
+
+**Word division (verse order).** `śīla-aṅgāni apramāda-aṅgam vrata-aṅgāni yathā-kramam / catvāri ekam tathā trīṇi smṛti-nāśaḥ madaḥ ca taiḥ //`
 
 **`śīlāṅga`**
 
@@ -144,23 +142,16 @@ departure from ordinary meal-time
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Respectively, four are limbs of discipline, one is a limb of heedfulness,
 > and three are limbs of observance. Through those [contrary factors] there is
 > destruction of recollection and intoxicated self-indulgence.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Of the eight upavāsa limbs, the first four are limbs of discipline, the fifth
-> is the limb safeguarding heedfulness, and the final three are limbs shaping
-> the special observance. Intoxicants destroy recollection of what should and
-> should not be done; luxury and entertainment produce intoxicated
-> self-indulgence, bringing breach of discipline near; and abstention from
-> untimely eating sustains recollection of the upavāsa and sober urgency.
-
-The individual assignments and positive function of meal-time restriction are
-Bhāṣya determinations.
+> Four are limbs of discipline, one is a limb of heedfulness, and three are
+> limbs of observance, in order. Through those [factors] recollection is lost,
+> and intoxicated self-indulgence arises.
 
 ## 6. Philosophical Translation
 
@@ -221,13 +212,13 @@ with:
 
 ```text
 samudāya
-    articulated aggregate or whole
+    articulated total or whole
 
 avayava / aṅga
     constituent part or limb
 ```
 
-The upavāsa is the eightfold aggregate. There is no ninth upavāsa-entity
+The upavāsa is the eightfold total. There is no ninth upavāsa-entity
 standing behind its limbs.
 
 **Whole and limb in different relations**
@@ -284,7 +275,7 @@ not:
 
 The whole is real as organization, not as an extra member added to the list.
 
-**Aggregate is not mere collection**
+**A total is not mere collection**
 
 ```text
 eight unrelated prohibitions
@@ -307,6 +298,9 @@ determination D as complete form in relation R1
 Identity of the determination-type does not force identity of logical role.
 
 ## 9. Interpretive Note
+
+**Translation note.** The individual assignments and positive function of meal-time restriction are
+Bhāṣya determinations.
 
 **The logic of aṣṭāṅga**
 
@@ -376,15 +370,14 @@ the Wheel
 ```
 
 This is not merely a metaphor imported into the text. It develops the
-Bhāṣya’s explicit account of aggregate, constituent, function, and temporal
+Bhāṣya’s explicit account of total, constituent, function, and temporal
 relation.
 
 This remains an Organon synthesis. Vasubandhu explicitly supplies the
 threefold functional classification and the whole–part analysis of the
 eightfold upavāsa.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The eightfold vow is an articulated practical whole. Four limbs directly
 > constitute ethical discipline; one preserves the vigilance without which
 > that discipline would be forgotten; three organize the surrounding mode of

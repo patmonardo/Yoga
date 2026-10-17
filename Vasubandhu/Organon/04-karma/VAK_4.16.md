@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> शीलं सुचरितं कर्म संवरश्चोच्यते पुनः ।
->
-> आद्ये विज्ञप्त्यविज्ञप्ती प्रातिमोक्षक्रियापथः ॥ ४.१६ ॥
+```sanskrit
+शीलं सुचरितं कर्म संवरश्चोच्यते पुनः ।
+आद्ये विज्ञप्त्यविज्ञप्ती प्रातिमोक्षक्रियापथः ॥ ४.१६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> śīlaṃ sucaritaṃ karma saṃvaraś cocyate punaḥ /
->
-> ādye vijñaptyavijñaptī prātimokṣakriyāpathaḥ // 4.16 //
+```text
+śīlaṃ sucaritaṃ karma saṃvaraś cocyate punaḥ /
+ādye vijñaptyavijñaptī prātimokṣakriyāpathaḥ // 4.16 //
+```
 
 The verse gives four names for *prātimokṣa* restraint and then distinguishes
 the first moment of undertaking it. The Bhāṣya explains how restraint can
@@ -40,31 +42,16 @@ The first pāda coordinates four names—`śīlam`, `sucaritam`, `karma`, and `s
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Restraint is also called discipline, good conduct, action, and
 > containment. In the first [moment], manifestation and non-disclosing
 > continuity are the course of *prātimokṣa* activity.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Restraint is called discipline because it is undertaken as abstention
-> from improper actions; good conduct because learned persons praise it;
-> action because its nature is activity; and restraint because it
-> contains body and speech. The objection that non-disclosing continuity
-> is non-action is answered by distinguishing the deed prevented from
-> the restraint itself: evil is not performed through the restraint, yet
-> the restraint is produced through manifestation and consciousness.
-> Others explain it as a cause and a result of activity. In the first
-> moment of undertaking restraint, both manifestation and non-disclosing
-> continuity are called *prātimokṣa*; in later moments, the continuing
-> state is *prātimokṣasaṃvara*, not *prātimokṣa* in that strict sense.
-> The commentary also calls it an action-course insofar as it belongs
-> to the fundamental phase.
-
-The cause-and-result explanation is explicitly attributed to “others.”
-The first-moment gloss and the distinction between *kriyāpatha* and
-*karmapatha* come from the Bhāṣya.
+> It is called discipline, good conduct, action, and restraint. In the first
+> moment, manifestation and non-disclosing continuity are the *prātimokṣa*
+> course of action.
 
 ## 6. Philosophical Translation
 
@@ -78,6 +65,8 @@ Restraint receives four names; the first undertaking moment pairs manifestation 
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya explains *śīla* through abstention from improper actions, good conduct through learned praise, action through activity, and restraint through containing body and speech. In response to the objection that *avijñapti* is non-action, it distinguishes the prevented evil deed from the restraint itself, which is produced through manifestation and consciousness. “Others” explain it as cause and result of activity. The first-moment manifestation and non-disclosing continuity are called *prātimokṣa*; the later continuing state is *prātimokṣasaṃvara*, not *prātimokṣa* strictly. It is called an action-course insofar as it belongs to the fundamental phase.
+
 ### Textual Notes
 
 The Bhāṣya unit runs from [207|07] through [207|21] in
@@ -89,8 +78,6 @@ citation has *prātimokṣakiyāpathaḥ*, while the explanatory prose uses
 *karmapatha*. The word-formation sentence at [207|19] is retained in
 the Bhāṣya study without conjectural interpretation. The witness's
 `kṣaṇeṣui` at [207|20–21] is normalized as *kṣaṇeṣu*.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

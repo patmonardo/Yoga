@@ -25,16 +25,11 @@ Bhāṣya-anchor reading of the final expression:
 na saṃtateḥ
 ```
 
-Padapāṭha-style separation:
 
-```iast
-mithyā-ācāra-ati-garhya-tvāt saukaryāt akriyā-āptitaḥ /
-yathā-abhyupagamam lābhaḥ saṃvarasya na saṃtate[h] //
-```
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `mithyācārātigarhyatvāt` | ablative singular abstract compound | because sexual misconduct is especially blameworthy |
 | `saukaryāt` | ablative singular from `saukarya` | because of practicability; because it is comparatively easy |
@@ -45,6 +40,9 @@ yathā-abhyupagamam lābhaḥ saṃvarasya na saṃtate[h] //
 | `na` | negative particle | not |
 | `saṃtate` | transmitted form in the kārikā witness | does not extend; contextually connected with the continuum |
 | `saṃtateḥ` | reading in the Bhāṣya anchor | from or with respect to the continuum |
+
+
+**Word division (verse order).** `mithyā-ācāra-ati-garhya-tvāt saukaryāt akriyā-āptitaḥ / yathā-abhyupagamam lābhaḥ saṃvarasya na saṃtate[h] //`
 
 **`mithyācāra`**
 
@@ -156,28 +154,17 @@ qualification into a doctrine about every possible implication of every vow.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Because sexual misconduct is especially blameworthy, because [abstention
 > from it] is practicable, and because fixed non-performance is acquired,
 > restraint is acquired according to the undertaking, not [as an unrestricted
 > celibate determination] of the continuum.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Abstention from sexual misconduct—rather than complete celibacy—is
-> established as the lay follower’s training rule because sexual misconduct
-> is especially blameworthy, because householders can practicably abstain from
-> it, and because noble persons acquire a fixed restraint of non-performance
-> with respect to it. The restraint acquired corresponds to the actual
-> undertaking: “I abstain from sexual misconduct.” It does not thereby become
-> an undertaking of complete celibacy extending through the person’s
-> continuum.
-
-The contrast with complete celibacy, the householder, the noble persons, and
-the two undertaking formulas are supplied by the Bhāṣya. The translation of
-the final clause follows its explanation while preserving the textual
-uncertainty.
+> Because sexual misconduct is especially blameworthy, abstention is
+> practicable, and non-performance is acquired, restraint is acquired
+> according to the undertaking, not for the continuum as a whole.
 
 ## 6. Philosophical Translation
 
@@ -320,6 +307,11 @@ theory. It determines the scope of this particular lay precept.
 
 ## 9. Interpretive Note
 
+**Translation note.** The contrast with complete celibacy, the householder, the noble persons, and
+the two undertaking formulas are supplied by the Bhāṣya. The translation of
+the final clause follows its explanation while preserving the textual
+uncertainty.
+
 **A practical universal must be determinate**
 
 The philosophical force of the verse lies in refusing a false measure of
@@ -368,7 +360,7 @@ the action is held under a standing prohibition
 
 The second has practical continuity because it is grounded in an undertaken
 determination. This is the positive, disciplined sense in which restraint
-persists without requiring a manifest action at every moment.
+persists without requiring a disclosure at every moment.
 
 **Semantic restraint in interpretation**
 
@@ -392,8 +384,7 @@ the full content of an undertaking
 This remains an Organon contact point. The sexual-precept contrast, the three
 reasons, the marriage objection, and its answer belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A practical determination acquires its universality through the stability
 > of its determinate content, not through unlimited enlargement of its
 > predicate. The lay follower renounces sexual misconduct universally as

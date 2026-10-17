@@ -90,24 +90,15 @@ clause.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > For wholesome karma without vitarka, the feeling held to constitute its
 > maturation is exclusively mental; for unwholesome karma, however, it is
 > exclusively bodily.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> For wholesome karma belonging to the non-discursive range—from the
-> intermediate dhyāna through the summit of existence—the feeling that
-> constitutes its maturation is exclusively mental, because bodily feeling
-> necessarily belongs to a vitarka-and-vicāra mode. For unwholesome karma, the
-> painful maturation-feeling is exclusively bodily, because mental painful
-> feeling is `daurmanasya`, and `daurmanasya` is not itself karmic maturation.
-
-The exact meditative range and both exclusion arguments are supplied by the
-Bhāṣya.
-
+> For wholesome karma without `vitarka`, the feeling held to be its maturation
+> is exclusively mental; for unwholesome karma, it is exclusively bodily.
 ## 6. Philosophical Translation
 
 > For wholesome karma without vitarka, the feeling held to constitute its maturation is exclusively mental; for unwholesome karma, however, it is exclusively bodily.
@@ -221,6 +212,12 @@ it does not reduce that architecture to a generic Subject called
 
 ## 9. Interpretive Note
 
+**Translation note.** The exact meditative range and both exclusion arguments are
+supplied by the Bhāṣya. The Bhāṣya places `avitarka` from intermediate dhyāna
+through the summit of existence. Bodily feeling necessarily involves `vitarka` and
+`vicāra`; mental painful feeling is `daurmanasya`, which is not itself maturation.
+These are the two explanations for the stated exclusivity.
+
 **Karma determines the admissible mode of actuality**
 
 Ground is not complete until it determines where and how its result can arise:
@@ -257,8 +254,7 @@ through quality, field, time, and locus.
 This is the Organon contact. The range of `avitarka`, bodily-feeling condition,
 and exclusion of `daurmanasya` from vipāka belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A karmic result is determined not only by its affective quality but by the
 > locus in which that quality can become actual. The structure of higher
 > wholesome karma excludes bodily feeling as its maturation; the structure of

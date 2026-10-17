@@ -5,12 +5,10 @@
 > svāni bhūtāny upādāya kāyavākkarma sāsravam /
 > anāsravaṃ yatra jāto 'vijñaptir anupāttikā // 4.05 //
 
-> Contaminated bodily and verbal karma depends upon the Great Elements of
-> its own level. Uncontaminated bodily and verbal karma has no separate
-> uncontaminated Great-Element support; it depends upon the Great Elements
-> of the level where its producer is born and arises through their force.
-> The Bhāṣya identifies `avijñapti` as non-disclosing continuity and states
-> that it is non-appropriated.
+
+> Contaminated bodily and verbal action depends on its own Great Elements.
+> Uncontaminated bodily and verbal action depends on the Great Elements of the
+> level where one is born. Non-disclosing continuity is non-appropriated.
 
 The Kārikā study is `VAK_4.05.md`. After 4.04's debate over the reality
 of `avijñapti`, this unit asks which Great Elements support bodily and

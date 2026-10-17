@@ -2,18 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-sarve 'tītasya catvāri madhyamasyāpy anāgatāḥ /
-madhyamā dve 'jātasya phalāni trīṇy anāgatāḥ // 4.90 //
-```
+> sarve 'tītasya catvāri madhyamasyāpy anāgatāḥ /
+> madhyamā dve 'jātasya phalāni trīṇy anāgatāḥ // 4.90 //
 
-> Past action relates to past, present, and future dharmas through maturation,
-> corresponding, activity-produced, and dominant results; disconnection is
-> excluded. Present action relates to future dharmas through those same four
-> results, but to present dharmas through only activity-produced and dominant
-> results. Future action relates to future dharmas through maturation,
-> activity-produced, and dominant results; corresponding and disconnection
-> are excluded.
+> Past action has four result-relations with past, present, and future dharmas.
+> Present action has those same four relations with future dharmas, and two with
+> present dharmas. Future action has three result-relations with future dharmas.
 
 The verse rotates the causal matrix again. After classifying action and result
 by ethical quality, it now indexes both sides of the result relation by time.

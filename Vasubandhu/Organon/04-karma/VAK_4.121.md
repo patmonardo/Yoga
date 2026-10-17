@@ -66,29 +66,16 @@ the fruit or make it absent, but does not make the fruit undesirable.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > At a shrine, merit connected with relinquishment arises as with
 > loving-kindness, even without a recipient. Even in a deficient field,
 > there is desirable fruit because fruit does not invert the seed.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> At a shrine, merit connected with relinquishment arises as with
-> loving-kindness, even without a recipient. Even in a deficient field,
-> there is desirable fruit because fruit does not invert the seed. The
-> Bhāṣya distinguishes merit arising from relinquishment itself from merit
-> arising through the recipient's use of what is given. A shrine offering
-> has the former, not the latter. Merit can also arise from the giver's
-> own mental cultivation, as in loving-kindness and cultivation of right
-> view. Yet an offering or act of honor is not useless: devotion expressed
-> through bodily and verbal action is more intense than devotion alone.
-> A gift-seed moved by the resolve for another's welfare retains desirable
-> fruit in a deficient field, although the field's defect can reduce the
-> fruit or prevent it.
-
-The two kinds of merit, the role of enacted devotion, and the limits of
-the seed-and-field comparison are explained by the Bhāṣya.
+> At a shrine, merit connected with relinquishment arises as with loving-kindness,
+> even without a recipient. Even in a deficient field, there is desirable fruit
+> because fruit does not invert the seed.
 
 ## 6. Philosophical Translation
 
@@ -150,6 +137,9 @@ the field to condition whether, and to what degree, fruit occurs.
 
 ## 9. Interpretive Note
 
+**Translation note.** The two kinds of merit, the role of enacted devotion, and the limits of
+the seed-and-field comparison are explained by the Bhāṣya. The informed translation also included: The Bhāṣya distinguishes merit arising from relinquishment itself from merit arising through the recipient's use of what is given. A shrine offering has the former, not the latter. Merit can also arise from the giver's own mental cultivation, as in loving-kindness and cultivation of right view. Yet an offering or act of honor is not useless: devotion expressed through bodily and verbal action is more intense than devotion alone. A gift-seed moved by the resolve for another's welfare retains desirable fruit in a deficient field, although the field's defect can reduce the fruit or prevent it.
+
 Read with 4.119–4.120, this passage does not make merit a matter of
 intention alone or of recipient-benefit alone. The Bhāṣya distinguishes
 relinquishment, mental cultivation, enacted devotion, recipient use, and
@@ -169,8 +159,7 @@ at `[272|07]`, normalized as `tyāgānvayaṃ`, and a compressed form near
 follows the Bhāṣya's no-recipient explanation. The giving-based merit
 discussion closes at `[273|01]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Benefit to a recipient is not the only source of merit. Relinquishment
 > has its own causal force, and mental cultivation can generate merit even
 > without a recipient's acceptance. But the bodily or verbal enactment of

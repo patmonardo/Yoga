@@ -2,24 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-apraheyasya te tv ekaṃ dve catvāri yathākramam /
-ayogavihitaṃ kliṣṭaṃ vidhibhraṣṭaṃ ca kecana // 4.94 //
-```
+> apraheyasya te tv ekaṃ dve catvāri yathākramam /
+> ayogavihitaṃ kliṣṭaṃ vidhibhraṣṭaṃ ca kecana // 4.94 //
 
-> Action not to be abandoned has, in order, one, two, and four results when
-> related to dharmas to be abandoned through seeing, to be abandoned through
-> cultivation, and not to be abandoned: the dominant result; the
-> activity-produced and dominant results; and the corresponding,
-> disconnection, activity-produced, and dominant results. The Bhāṣya explains
-> that the repeated “respectively” preserves the order through its abbreviated
-> middle statement. The inquiry then distinguishes action properly
-> constituted, improperly constituted, and neither. One view classifies
-> afflicted action as improperly constituted because it arises from
-> non-methodical attention; another also includes action that departs from
-> the appropriate procedure. Other teachers identify wholesome action as
-> properly constituted and not deviating from procedure, with action outside
-> these classes neither properly nor improperly constituted.
+> For action related to dharmas not to be abandoned, the three classes have one,
+> two, and four results, respectively. Some say that afflicted action and action
+> deviating from prescribed procedure are improperly constituted.
 
 ## 2. Continuous Sanskrit Witness
 

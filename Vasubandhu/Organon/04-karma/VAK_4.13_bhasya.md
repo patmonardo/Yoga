@@ -5,12 +5,9 @@
 > avijñaptis tridhā jñeyā saṃvarāsaṃvaretarā /
 > saṃvaraḥ prātimokṣākhyo dhyānajo 'nāsravas tathā // 4.13 //
 
-> Non-disclosing continuity is classified as restraint, non-restraint, or
-> neither. Restraint checks the spread of misconduct. It is threefold:
-> *prātimokṣa* restraint, identified by the Bhāṣya with desire-realm
-> discipline; meditation-born restraint, identified with Form-realm
-> discipline; and uncontaminated restraint, identified with uncontaminated
-> discipline.
+
+> Non-disclosing continuity is threefold: restraint, non-restraint, and neither.
+> Restraint is prātimokṣa, meditation-born, and likewise uncontaminated.
 
 This is the Bhāṣya-informed study translation in `VAK_4.13.md`. The source
 unit runs from [205|12] through [205|18]; the following verse opens the

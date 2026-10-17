@@ -14,12 +14,7 @@ nivṛtānivṛtābhyāṃ ca nātītābhyāṃ samanvitaḥ /
 asaṃvaro duścaritaṃ dauḥśīlyaṃ karma tatpathaḥ // 4.24 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-nivṛta-anivṛtābhyām ca na atītābhyām samanvitaḥ /
-asaṃvaraḥ duścaritam dauḥśīlyam karma tat-pathaḥ //
-```
 
 The prepared Bhāṣya witness begins with the second half of the kārikā. The
 commentary on the first half has therefore been read directly from the local
@@ -27,7 +22,7 @@ primary Sanskrit witness and is identified as Bhāṣya material below.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `nivṛtānivṛtābhyām` | instrumental dual | with the obscured and unobscured [neutral vijñaptis] |
 | `ca` | conjunction | and; further |
@@ -39,6 +34,9 @@ primary Sanskrit witness and is identified as Bhāṣya material below.
 | `dauḥśīlyam` | nominative neuter singular | bad discipline; opposition to śīla |
 | `karma` | nominative neuter singular | action; karma |
 | `tatpathaḥ` | nominative masculine singular | its path; the corresponding action-course |
+
+
+**Word division (verse order).** `nivṛta-anivṛtābhyām ca na atītābhyām samanvitaḥ / asaṃvaraḥ duścaritam dauḥśīlyam karma tat-pathaḥ //`
 
 **The omitted `avyākṛta`**
 
@@ -142,23 +140,16 @@ karmapatha
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > And no one is endowed with the past obscured-indeterminate or
 > unobscured-indeterminate vijñaptis. Non-restraint is [also called]
 > misconduct, bad discipline, action, and the corresponding path of action.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> No one remains endowed with past manifest action of either neutral kind,
-> obscured or unobscured, because the acquisition of such a weak dharma does
-> not continue. Non-restraint is also called misconduct because it is censured
-> and produces undesirable fruit, bad discipline because it opposes śīla,
-> karma because it is bodily and verbal action, and a path of action because it
-> belongs to the fundamental phase of the karmic course.
-
-The causal explanation and the grounds for the alternative names are supplied
-by the Bhāṣya.
+> No one is endowed with past obscured-indeterminate or
+> unobscured-indeterminate disclosure. Non-restraint is also called
+> misconduct, bad discipline, bodily and verbal action, and an action-course.
 
 ## 6. Philosophical Translation
 
@@ -169,7 +160,7 @@ by the Bhāṣya.
 **`nivṛtāvyākṛta`**
 
 Obscured-indeterminate action is ethically neutral yet associated with an
-obscuring condition. The verse concerns past manifest action of this class,
+obscuring condition. The verse concerns past disclosure of this class,
 not every obscured-neutral dharma.
 
 **`anivṛtāvyākṛta`**
@@ -241,8 +232,8 @@ attachment.
 **Dependency does not mean unreality**
 
 The Bhāṣya calls vijñapti dependent and inert. This explains the weakness of a
-neutral manifestation produced by weak consciousness; it does not deny that
-the manifest action occurred.
+neutral disclosure produced by weak consciousness; it does not deny that
+the disclosure occurred.
 
 **Determinate negation**
 
@@ -274,18 +265,21 @@ together.
 
 ## 9. Interpretive Note
 
+**Translation note.** The causal explanation and the grounds for the alternative names are supplied
+by the Bhāṣya.
+
 **The return to vijñapti gains a limit**
 
-VAK 4.23 returned from avijñapti to vijñapti and established manifestation as
+VAK 4.23 returned from avijñapti to vijñapti and established disclosure as
 present during production, past afterward, and never possessed as future.
 VAK 4.24 now prevents that rule from becoming mechanical. Not every past
-manifestation remains acquired. Neutral vijñapti lacks the strength to attach
+disclosure remains acquired. Neutral vijñapti lacks the strength to attach
 itself as a continuing past possession.
 
-Thus the return to manifestation is already internally differentiated:
+Thus the return to disclosure is already internally differentiated:
 
 ```text
-manifest action
+disclosure
     → actual occurrence
     → ethical-causal qualification
     → corresponding strength or weakness of acquisition
@@ -307,7 +301,7 @@ asaṃvara
 ```
 
 As with `vijñapti / avijñapti`, the negative member is not nothing. But the
-structure is not identical. `Avijñapti` negates manifestation while preserving
+structure is not identical. `Avijñapti` negates disclosure while preserving
 karmic efficacy; `asaṃvara` negates restraint by instituting the contrary
 practical orientation.
 
@@ -380,9 +374,8 @@ This is an Organon synthesis. Vasubandhu’s explicit teaching is the absence of
 past possession for neutral vijñapti and the five grounded designations of
 non-restraint.
 
-### Former Philosophical Translation
-
-> Manifest action does not acquire the same temporal persistence in every
+**Former Philosophical Translation.**
+> Disclosure does not acquire the same temporal persistence in every
 > ethical class: past neutral vijñapti, whether obscured or unobscured, is too
 > weakly acquired to remain attached to the continuum. Non-restraint, by
 > contrast, is not empty lack but an organized contrary practical form. The
@@ -471,5 +464,5 @@ Constraint: GroundsRemainDistinct
 ```
 
 The formal seed preserves both halves of the verse: the non-possession of past
-neutral manifestation and the aspectually differentiated predicates of one
+neutral disclosure and the aspectually differentiated predicates of one
 non-restraint complex.

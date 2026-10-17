@@ -2,18 +2,20 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> स्वानि भूतान्युपादाय कायवाक्कर्म सास्रवम् ।
->
-> अनास्रवं यत्र जातोऽविज्ञप्तिरनुपात्तिका ॥ ४.५ ॥
+```sanskrit
+स्वानि भूतान्युपादाय कायवाक्कर्म सास्रवम् ।
+अनास्रवं यत्र जातोऽविज्ञप्तिरनुपात्तिका ॥ ४.५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> svāni bhūtāny upādāya kāyavākkarma sāsravam /
->
-> anāsravaṃ yatra jāto 'vijñaptir anupāttikā // 4.5 //
+```text
+svāni bhūtāny upādāya kāyavākkarma sāsravam /
+anāsravaṃ yatra jāto 'vijñaptir anupāttikā // 4.5 //
+```
 
 VAK 4.04 distinguished the past producing basis from the present sustaining
-support of desire-domain `avijñapti`. VAK 4.05 now asks which Great Elements
+support of desire realm `avijñapti`. VAK 4.05 now asks which Great Elements
 support bodily and verbal karma at each level. It crosses two
 independent classifications:
 
@@ -47,26 +49,18 @@ The first pāda predicates `sāsravam` of `kāya-vāk-karma`; `svāni bhūtāni 
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Contaminated bodily and verbal karma depends upon its own Great Elements.
 > Uncontaminated [karma depends upon the Great Elements of the level] where
 > [its producer] is born. Non-disclosing continuity is non-appropriated.
 
 The bracketed terms are syntactically supplied from the Bhāṣya.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Contaminated bodily and verbal karma depends upon the Great Elements of
-> its own level. Uncontaminated bodily and verbal karma has no separate
-> uncontaminated Great-Element support; it depends upon the Great Elements
-> of the level where its producer is born and arises through their force.
-> The Bhāṣya identifies `avijñapti` as non-disclosing continuity and states
-> that it is non-appropriated.
-
-The same-level series through the fourth dhyāna, the absence of
-uncontaminated Great Elements, and the explicit referent of `jātaḥ` are
-Bhāṣya determinations.
+> Contaminated bodily and verbal action depends on its own Great Elements.
+> Uncontaminated bodily and verbal action depends on the Great Elements of the
+> level where one is born. Non-disclosing continuity is non-appropriated.
 
 ## 6. Philosophical Translation
 
@@ -112,12 +106,12 @@ Contaminated bodily and verbal action → its own Elements; the second pāda qua
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya establishes the same-level series through the fourth dhyāna and says that no uncontaminated Great Elements exist. It specifies that *jātaḥ* refers to the person born at the level, and that uncontaminated action arises by the force of that level's Great Elements.
+
 The Bhāṣya distinguishes the level of the karma from the level of the Great
 Principles that support it. It then states that `avijñapti` is
 non-appropriated, without explaining this property further in the present
 unit.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

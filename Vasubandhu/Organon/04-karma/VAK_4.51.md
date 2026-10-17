@@ -53,7 +53,7 @@ vipāka-niyata
 
 **`nikāyasabhāga`**
 
-The Bhāṣya uses `nikāyasabhāga` for the homogeneous aggregate-continuum or
+The Bhāṣya uses `nikāyasabhāga` for the homogeneous rebirth-continuum or
 class-continuity established in rebirth. No permanent bearer is implied.
 
 **`ākṣepaṇa`**
@@ -105,26 +105,16 @@ The Bhāṣya marks the first as the general rule and the second as its exceptio
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Others analyze karma through four alternatives. A rebirth-continuum is
 > projected by three [of the four temporal kinds]. In general all four kinds
 > may be undertaken throughout; in hell wholesome karma is threefold.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The Dārṣṭāntikas analyze karma through four alternatives by distinguishing
-> whether its temporal stage is fixed and whether maturation itself is fixed.
-> Of the four temporal kinds, three can project a future rebirth-continuum;
-> present-life-result karma cannot, since it fruits within the life already
-> established. All four kinds may generally be undertaken throughout the three
-> Realms and destinies as applicable. In hell, however, wholesome karma is only
-> threefold because present-life-result wholesome karma has no desirable
-> maturation there.
-
-The identity of the two axes, exclusion of present-life karma from projection,
-and explanation of the hell exception are supplied by the Bhāṣya.
-
+> Others set out four alternatives. Three kinds project a rebirth-continuum. In
+> general, all four kinds may be undertaken everywhere; wholesome karma in hell
+> is threefold.
 ## 6. Philosophical Translation
 
 > Others analyze karma through four alternatives. A rebirth-continuum is projected by three [of the four temporal kinds]. In general all four kinds may be undertaken throughout; in hell wholesome karma is threefold.
@@ -232,6 +222,13 @@ The concrete structure of the destination restricts the applicable class.
 
 ## 9. Interpretive Note
 
+**Translation note.** The identity of the two axes, exclusion of present-life karma
+from projection, and explanation of the hell exception are supplied by the Bhāṣya.
+The four alternatives cross certainty of temporal stage with certainty of
+maturation. Present-life-result karma cannot project a future rebirth-continuum;
+“everywhere” means the three Realms and destinies as applicable. Hell excludes
+present-life-result wholesome karma because no desirable maturation occurs there.
+
 **Degrees of karmic actuality**
 
 The courtroom analogy becomes exact only after distinguishing:
@@ -267,8 +264,7 @@ without requiring a permanent self beneath them.
 This is the Organon contact. The Dārṣṭāntika matrix, single-moment example,
 projection rule, distribution, and hell exception belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Karmic determination is not exhausted by a single opposition between fixed
 > and unfixed. The necessity of fruition and the necessity of its temporal
 > placement are orthogonal: a karma may be fixed in one respect and unfixed in

@@ -91,30 +91,15 @@ graded rather than instantaneous.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Severance of the wholesome roots occurs through false view. It concerns
 > Desire-Realm roots acquired by birth, through a view denying result and
 > ground; completely, successively, among humans.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Severance of the wholesome roots occurs through false view. It concerns
-> Desire-Realm roots acquired by birth, through a view denying result and
-> ground; completely, successively, among humans.
->
-> The Bhāṣya specifies that the view must be fully intensified and that its
-> full extension repudiates karma, result, and the noble ones. Only
-> Desire-Realm roots acquired by birth are directly severed; practice-
-> produced roots have already fallen away, while higher-domain roots are
-> rendered remote through the continuum's unsuitability for acquiring them.
-> The preferred account has nine grades of false view successively sever
-> nine grades of roots; an alternative holds that all nine are severed at
-> once.
-
-Full intensification, the birth-acquired/practice-produced distinction, the
-nine-grade mechanism, and the competing temporal accounts are supplied by the
-Bhāṣya.
+> Among humans, false view denying causal ground and result severs the Desire-
+> Realm wholesome roots acquired by birth, completely and in sequence.
 
 ## 6. Philosophical Translation
 
@@ -196,7 +181,7 @@ false view that severs them.
 
 **`Bhājana` / `abhājana` — suitable or unsuitable basis**
 
-The continuum becomes unsuitable for acquiring higher-domain wholesome roots.
+The continuum becomes unsuitable for acquiring higher-realm wholesome roots.
 This explains how direct severance of Desire-Realm roots also places those
 higher acquisitions far away.
 
@@ -224,7 +209,7 @@ Desire-Realm birth-acquired wholesome roots
 practice-produced wholesome roots
     → already lost before final severance
 
-higher-domain wholesome roots
+higher-realm wholesome roots
     → not directly cut here;
       their acquisition is rendered remote
       because the continuum is unsuitable
@@ -289,6 +274,16 @@ continents and rejects an overly narrow Jambūdvīpa-only account.
 
 ## 9. Interpretive Note
 
+**Translation note.** Full intensification, the birth-acquired/practice-
+produced distinction, the nine-grade mechanism, and the competing temporal
+accounts are supplied by the Bhāṣya. The Bhāṣya specifies that the view must
+be fully intensified and that its full extension repudiates karma, result, and
+the noble ones. Only Desire-Realm roots acquired by birth are directly
+severed; practice- produced roots have already fallen away, while higher-realm
+roots are rendered remote through the continuum's unsuitability for acquiring
+them. The preferred account has nine grades of false view successively sever
+nine grades of roots; an alternative holds that all nine are severed at once.
+
 **Error within a system and denial of the system**
 
 An ordinary unwholesome course violates a determinate practical relation
@@ -326,12 +321,11 @@ The whole negation is not an abstract nothing applied at once in the preferred
 account; it is the outcome of determinate graded severances.
 
 This is the Organon contact. The object of severance, intensification rule,
-causal attribution, nine-grade dispute, human restriction, and domain
+causal attribution, nine-grade dispute, human restriction, and realm
 distinctions belong to the Bhāṣya; the contrast between internal violation and
 destruction of generative capacity is the project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > False view becomes root-severing not through error alone but when its denial
 > of karmic ground and consequence becomes fully formative for the continuum.
 > It progressively removes the generative capacities through which wholesome
@@ -357,7 +351,7 @@ denial of ground
 Class: WholesomeRoot
 Class: BirthAcquiredWholesomeRoot
 Class: PracticeProducedWholesomeRoot
-Class: HigherDomainWholesomeRoot
+Class: HigherRealmWholesomeRoot
 Class: FalseView
 Class: FullyIntensifiedFalseView
 Class: GroundDenial
@@ -370,7 +364,7 @@ Class: GradeOfWholesomeRoot
 ObjectProperty: directlySevers
 ObjectProperty: indirectlySupports
 ObjectProperty: acquiredBy
-ObjectProperty: belongsToDomain
+ObjectProperty: belongsToRealm
 ObjectProperty: progressivelyRemoves
 ObjectProperty: rendersUnsuitableFor
 ObjectProperty: denies
@@ -384,7 +378,7 @@ Rule: FullyIntensifiedFalseViewSeversRoots
     and denies(?view, KarmicGround)
     and denies(?view, KarmicResult)
     and BirthAcquiredWholesomeRoot(?root)
-    and belongsToDomain(?root, DesireDomain)
+    and belongsToRealm(?root, DesireRealm)
     and HumanContinuum(?continuum)
     -> directlySevers(?view, ?root)
 

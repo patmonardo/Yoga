@@ -60,28 +60,15 @@ accumulated. Thus occurrence alone does not entail `upacita`.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > An action is called accumulated through deliberate intention, completion,
 > absence of remorse and counteraction, accompaniment, and determination
 > toward maturation.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> An action is called accumulated through deliberate intention, completion,
-> absence of remorse and counteraction, accompaniment, and determination
-> toward maturation. The Bhāṣya says deliberate action is done after
-> consideration, not without prior awareness or suddenly. Completion is
-> relative to the number of misconducts or action-courses required in a
-> particular case: until that course is complete, action has been done but
-> is not accumulated; when complete, it is accumulated. The other
-> conditions are that the action is without remorse and without an opposing
-> factor, that unwholesome action has unwholesome accompaniment (and
-> wholesome action is to be analyzed correspondingly), and that its giving
-> of maturation is determinate.
-
-The Bhāṣya's completion examples and its application to wholesome action
-are preserved in the paired study.
+> An action is called accumulated through deliberate intention, completion, absence
+> of remorse and counteraction, accompaniment, and determination toward maturation.
 
 ## 6. Philosophical Translation
 
@@ -136,6 +123,9 @@ fixed numerical rule for all actions.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya's completion examples and its application to wholesome action
+are preserved in the paired study. The informed translation also included: The Bhāṣya says deliberate action is done after consideration, not without prior awareness or suddenly. Completion is relative to the number of misconducts or action-courses required in a particular case: until that course is complete, action has been done but is not accumulated; when complete, it is accumulated. The other conditions are that the action is without remorse and without an opposing factor, that unwholesome action has unwholesome accompaniment (and wholesome action is to be analyzed correspondingly), and that its giving of maturation is determinate.
+
 VAK 4.119 asks how the mildness or intensity of six factors determines
 action-weight. VAK 4.120 asks when an action that has occurred is also
 accumulated. These are different questions: an action can be done without
@@ -153,8 +143,7 @@ in the first explanatory question, normalized as `saṃcetanataḥ`, and has
 the compressed `vipākadāna niyataṃ`, parsed here as `vipākadāne niyatam`.
 The next topic opens at `[272|04]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A performed action and an accumulated action are not identical
 > determinations. Deliberate intention matters, but is not enough by
 > itself: the required course must be complete, the action must remain

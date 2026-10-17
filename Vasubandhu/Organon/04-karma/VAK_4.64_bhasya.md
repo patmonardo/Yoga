@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-aśaikṣaṃ kāyavākkarma manaś caiva yathākramam /
-maunatrayaṃ tridhā śaucaṃ sarvaṃ sucaritatrayam // 4.64 //
-```
+> aśaikṣaṃ kāyavākkarma manaś caiva yathākramam /
+> maunatrayaṃ tridhā śaucaṃ sarvaṃ sucaritatrayam // 4.64 //
 
-> The bodily and verbal actions, and the Mind, of one beyond
-> training are respectively the three silences. Threefold purity
-> is the whole threefold range of good conduct.
+> The bodily and verbal actions, and the Mind, of one beyond training are
+> respectively the three silences. Threefold purity is the whole threefold
+> range of good conduct.
 
 The Kārikā names **Mind**, not “mental karma,” as the third silence;
 the Bhāṣya makes that distinction explicit. The official Kārikā

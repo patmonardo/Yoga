@@ -78,23 +78,16 @@ bringing a karmapatha to completed status.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The completion of killing, hostility, and harsh speech is through hatred.
 > From greed comes the completion of going to another's wife, covetousness,
 > and taking what is not given.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Killing, hostility, and harsh speech reach completion through hatred.
 > Through greed comes the completion of sexual misconduct, covetousness, and
 > taking what is not given.
-
-The Bhāṣya explains the hatred-triad through the immediate presence of a
-rejecting and harsh consciousness. Its discussion here completes the two
-triads named by the Kārikā. VAK 4.71 continues the classification by assigning
-false view to intense delusion and the three remaining speech-courses to any
-of the three roots.
 
 ## 6. Philosophical Translation
 
@@ -236,6 +229,12 @@ principial course brought to completion through intensified delusion.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya explains the hatred-triad through the immediate presence of a
+rejecting and harsh consciousness. Its discussion here completes the two
+triads named by the Kārikā. VAK 4.71 continues the classification by assigning
+false view to intense delusion and the three remaining speech-courses to any
+of the three roots.
+
 **Two axes of ethical determination**
 
 The ten courses name objective practical forms; the roots name the afflictive
@@ -279,8 +278,7 @@ source layers; the
 two-axis account of course-form and completion-ground is the project
 synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The affliction that first generates an action-process need not be the
 > affliction under which its defining course reaches fulfillment. At
 > completion, destructive rejection gives killing, hostility, and harsh

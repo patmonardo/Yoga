@@ -64,30 +64,18 @@ the Bodhisattva as “the eighth.”
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The recipient field is distinguished by destiny, suffering, beneficence,
 > and qualities. Foremost is the gift from one who is free to one who is
 > free; a gift to a Bodhisattva is also foremost; and, in another set of
 > eight gifts, the eighth is foremost.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The recipient field is distinguished by destiny, suffering, beneficence,
-> and qualities. Foremost is the gift from one who is free to one who is
-> free; a gift to a Bodhisattva is also foremost; and, in another set of
-> eight gifts, the eighth is foremost.
-
-The Bhāṣya clarifies that the first case is foremost among gifts of
-material things and concerns those free from passion. The Bodhisattva gift
-is foremost because the Bodhisattva is a cause of benefit to all living
-beings, even when both giver and recipient are not yet free. In the
-separate eightfold classification, the eighth gift is for the adornment
-and purification of Mind, as equipment for yoga and for attaining the
-highest goal.
-
-The examples grounding the four field-distinctions and the separate
-eightfold list are supplied by the Bhāṣya.
+> The recipient field is distinguished by destiny, suffering, beneficence, and
+> qualities. Foremost is the gift from one who is free to one who is free; a gift to
+> a Bodhisattva is also foremost; and, in another set of eight gifts, the eighth is
+> foremost.
 
 ## 6. Philosophical Translation
 
@@ -146,6 +134,17 @@ preserved in the Bhāṣya study without an invented numbered reconstruction.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya clarifies that the first case is foremost among gifts of
+material things and concerns those free from passion. The Bodhisattva gift
+is foremost because the Bodhisattva is a cause of benefit to all living
+beings, even when both giver and recipient are not yet free. In the
+separate eightfold classification, the eighth gift is for the adornment
+and purification of Mind, as equipment for yoga and for attaining the
+highest goal.
+
+The examples grounding the four field-distinctions and the separate
+eightfold list are supplied by the Bhāṣya.
+
 VAK 4.114 named the giver, thing given, and recipient field as distinct
 determinants of giving. The sequence through 4.115–4.117 has now considered
 each in turn. This verse makes the field relational: a recipient's suffering
@@ -165,8 +164,7 @@ Bhāṣya study. The passage at `[270|21–25]` gives a compressed eightfold
 list and explicitly explains only its first two entries; the next topic
 begins at `[270|26]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The recipient is not an incidental endpoint of an already complete
 > giving. The recipient's destination, need, relation to the giver, and
 > qualities help determine what this action is. The Bhāṣya also presents

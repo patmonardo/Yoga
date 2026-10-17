@@ -6,14 +6,11 @@
 >
 > samādhijā aupacayikānupāttābhinna-bhūtajā // 4.6 //
 
-> At a non-concentrated level, `avijñapti` is a homogeneous causal
-> continuation designated in relation to a sentient continuum. It arises in
-> dependence upon outflow-derived, appropriated Great Elements and upon
-> consciousness and mental factors. The `avijñapti` born from samādhi—the
-> restraints of dhyāna and of the uncontaminated path—is produced through
-> cultivation and is non-appropriated. Its seven abstentions arise from one
-> undivided, common Great-Element basis, unlike the seven distinct bases of
-> prātimokṣa restraint.
+
+> [Non-disclosing continuity] is homogeneous-outflow-derived and designated in
+> relation to a sentient being; it is born from appropriated Great Elements
+> produced by homogeneous outflow. Samādhi-born [non-disclosing continuity] is
+> cultivation-produced and born from non-appropriated, undivided Great Elements.
 
 The second line follows the running witness's rough spelling; the
 Kārikā study `VAK_4.06.md` gives `anupāttā` where it reads `anupātā`.

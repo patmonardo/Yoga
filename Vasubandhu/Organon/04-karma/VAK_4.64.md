@@ -14,13 +14,6 @@ aśaikṣaṃ kāyavākkarma manaś caiva yathākramam /
 maunatrayaṃ tridhā śaucaṃ sarvaṃ sucaritatrayam // 4.64 //
 ```
 
-Word division:
-
-```iast
-a-śaikṣam kāya-vāk-karma manaḥ ca eva yathā-kramam /
-mauna-trayam tridhā śaucam sarvam sucarita-trayam //
-```
-
 The base kārikā witness prints `sarva`; the official study follows the
 Bhāṣya-supported syntactic normalization `sarvaṃ` in agreement with neuter
 `sucaritatrayam`, while recording the witness variation here.
@@ -29,16 +22,16 @@ Bhāṣya-supported syntactic normalization `sarvaṃ` in agreement with neuter
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `aśaikṣam` | nominative neuter singular | beyond training; belonging to the arhat |
-| `kāyavākkarma` | nominative neuter singular compound | bodily and verbal karma |
+| `a-śaikṣam` | nominative neuter singular | beyond training; belonging to the arhat |
+| `kāya-vāk-karma` | nominative neuter singular compound | bodily and verbal karma |
 | `manaḥ` | nominative neuter singular | Mind |
 | `ca eva` | particles | and precisely; and also |
 | `yathākramam` | adverb | respectively; in order |
-| `maunatrayam` | nominative neuter singular compound | the three silences |
+| `mauna-trayam` | nominative neuter singular compound | the three silences |
 | `tridhā` | adverb | threefold; in three ways |
 | `śaucam` | nominative neuter singular | purity |
 | `sarvam` | nominative neuter singular | all; the complete whole |
-| `sucaritatrayam` | nominative neuter singular compound | the threefold good conduct |
+| `sucarita-trayam` | nominative neuter singular compound | the threefold good conduct |
 
 **`aśaikṣa`**
 
@@ -94,29 +87,16 @@ indicates the whole extension of each.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The bodily karma, verbal karma, and Mind of one beyond training are,
 > respectively, the three silences. Threefold purity is the complete threefold
 > good conduct.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > The bodily and verbal actions, and the Mind, of one beyond training are
 > respectively the three silences. Threefold purity is the whole threefold
 > range of good conduct.
-
-The Bhāṣya specifies that bodily and verbal silence are the bodily and verbal
-karma of one beyond training, while the third is Mind itself, not mental
-karma. It calls consciousness the sage in the highest sense and says that
-consciousness is inferred from bodily and verbal karma. Since silence means
-abstention, Mind itself, when restrained, is called silence. The arhat
-qualifies because all afflictive chatter has ceased. Purity comprises all
-bodily, verbal, and mental good conduct, removing the stain of bad conduct
-temporarily or completely.
-
-The asymmetry of the mental member, absence of mental `vijñapti`, restriction
-to the arhat, and genetic definition of purity are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -239,6 +219,18 @@ Purity is determined through its genetic relation to the contrary it removes.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya specifies that bodily and verbal silence are the bodily and verbal
+karma of one beyond training, while the third is Mind itself, not mental
+karma. It calls consciousness the sage in the highest sense and says that
+consciousness is inferred from bodily and verbal karma. Since silence means
+abstention, Mind itself, when restrained, is called silence. The arhat
+qualifies because all afflictive chatter has ceased. Purity comprises all
+bodily, verbal, and mental good conduct, removing the stain of bad conduct
+temporarily or completely.
+
+The asymmetry of the mental member, absence of mental `vijñapti`, restriction
+to the arhat, and genetic definition of purity are supplied by the Bhāṣya.
+
 **The *abhāva* of kleśa becomes silence**
 
 VAK 4.64 gives positive content to cessation:
@@ -280,8 +272,7 @@ This is the Organon contact. The mental asymmetry, inference, abstention,
 afflictive chatter, three purities, and pedagogical purpose belong to the
 Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > True silence is not blank muteness but perfected abstention. Bodily and
 > verbal karma can be abstentions by nature; mental silence is Mind itself
 > when restrained, not a third mental manifestation parallel to bodily and

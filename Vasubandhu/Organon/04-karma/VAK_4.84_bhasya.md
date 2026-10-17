@@ -2,10 +2,8 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ārūpyāsaṃjñisattveṣu lābhataḥ sapta śeṣite /
-saṃmukhībhāvataś cāpi hitvā sanarakān kurūn // 4.84 //
-```
+> ārūpyāsaṃjñisattveṣu lābhataḥ sapta śeṣite /
+> saṃmukhībhāvataś cāpi hitvā sanarakān kurūn // 4.84 //
 
 > In the Formless Realm and among non-percipient beings, the seven wholesome
 > bodily and verbal Courses of Action occur by acquisition. In the remainder

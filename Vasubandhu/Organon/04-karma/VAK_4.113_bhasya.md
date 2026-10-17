@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dīyate yena tad dānaṃ pūjānugrahakāmyayā /
-kāyavākkarma sotthānaṃ mahābhogyaphalaṃ ca tat // 4.113 //
-```
+> dīyate yena tad dānaṃ pūjānugrahakāmyayā /
+> kāyavākkarma sotthānaṃ mahābhogyaphalaṃ ca tat // 4.113 //
 
-> Giving is that through which something is given from the wish to honor
-> or benefit others. It is bodily or verbal action together with its
-> activation, and it has abundant enjoyment as its result.
+> Giving is that through which something is given from the wish to honor or benefit
+> others. It is bodily or verbal action together with its activation, and it has
+> abundant enjoyment as its result.
 
 The Bhāṣya distinguishes the thing given from the giving-action, then
 specifies its motive, means, activating factors, and result.

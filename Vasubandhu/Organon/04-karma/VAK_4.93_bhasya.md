@@ -2,21 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-trīṇi catvāri caikaṃ ca dṛg-gheyasya tad-ādayaḥ /
-te dve catvāry atha trīṇi bhāvanā-heya-karmaṇaḥ // 4.93 //
-```
+> trīṇi catvāri caikaṃ ca dṛg-gheyasya tad-ādayaḥ /
+> te dve catvāry atha trīṇi bhāvanā-heya-karmaṇaḥ // 4.93 //
 
-> Action to be abandoned through seeing has result-dharmas to be abandoned
-> through seeing as three results, excluding maturation and disconnection;
-> result-dharmas to be abandoned through cultivation as four results,
-> excluding disconnection; and dharmas not to be abandoned as one result:
-> the dominant result. Action to be abandoned through cultivation has
-> result-dharmas to be abandoned through seeing as two results:
-> activity-produced and dominant; result-dharmas to be abandoned through
-> cultivation as four results, excluding disconnection; and dharmas not to
-> be abandoned as three results, excluding maturation and the corresponding
-> result.
+> For action to be abandoned through seeing, dharmas to be abandoned through
+> seeing, through cultivation, and not to be abandoned have three, four, and one
+> results, respectively. For action to be abandoned through cultivation, those
+> classes have two, four, and three results, respectively.
 
 ## 2. Continuous Sanskrit Witness
 

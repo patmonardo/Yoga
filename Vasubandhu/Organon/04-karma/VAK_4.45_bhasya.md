@@ -2,17 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kṣemākṣemetarat karma kuśalākuśaletarat /
-puṇyāpuṇyam aniñjaṃ ca sukhavedyādi ca trayam // 4.45 //
-```
+> kṣemākṣemetarat karma kuśalākuśaletarat /
+> puṇyāpuṇyam aniñjaṃ ca sukhavedyādi ca trayam // 4.45 //
 
-> Wholesome karma is secure: it brings desirable maturation and conduces to
-> nirvāṇa by protecting from suffering. Unwholesome karma is insecure,
-> opposed to security both at the time and ultimately, and brings undesirable
-> maturation; indeterminate karma is neither. Karma is further classified as
-> meritorious, demeritorious, or immovable, and by whether its result is to be
-> experienced as pleasure, pain, or neither pleasure nor pain.
+> Karma is secure, insecure, or otherwise—that is, wholesome, unwholesome, or
+> indeterminate, respectively. It is also meritorious, demeritorious, or
+> immovable, and threefold according to whether it is to be experienced as
+> pleasure, pain, or neither.
 
 At [227|04] in `Vasubandhu/Sources/kosabhasya.txt`, Vasubandhu
 explicitly begins explaining the karmas named in the sūtras.

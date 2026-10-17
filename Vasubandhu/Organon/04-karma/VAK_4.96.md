@@ -65,23 +65,16 @@ three bad destinies + Uttarakuru + non-percipient existence
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The actions of *ānantarya*, recurrent affliction, and then bad destinies,
 > people of Uttarakuru, and non-percipient beings are held to be the three
 > obstructions.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The five actions of *ānantarya* are action-obstruction. Recurrent
-> affliction, not merely affliction of occasional extreme force, is
-> affliction-obstruction. The three bad destinies, people of Uttarakuru, and
-> non-percipient beings are maturation-obstruction. These conditions obstruct
-> the noble Path and the wholesome roots preparatory to it.
-
-The five actions, the recurrent-versus-intense distinction, the target of
-obstruction, and the explanations of *ānantarya* are specified by the
-Bhāṣya.
+> The actions of immediate retribution, persistent affliction, and then bad
+> destinies, inhabitants of Uttarakuru, and non-percipient beings are held to be
+> the three obstructions.
 
 ## 6. Philosophical Translation
 
@@ -141,6 +134,10 @@ recurrent affliction
 
 ## 9. Interpretive Note
 
+**Translation note.** The five actions, the recurrent-versus-intense distinction, the target of
+obstruction, and the explanations of *ānantarya* are specified by the
+Bhāṣya. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: The five actions of *ānantarya* are action-obstruction. Recurrent affliction, not merely affliction of occasional extreme force, is affliction-obstruction. The three bad destinies, people of Uttarakuru, and non-percipient beings are maturation-obstruction. These conditions obstruct the noble Path and the wholesome roots preparatory to it.
+
 The Bhāṣya's common criterion is practical: the obstructions concern the
 noble Path and the wholesome roots that prepare for it. The three bad
 destinies are not the whole of maturation-obstruction; Uttarakuru and
@@ -148,15 +145,13 @@ non-percipient existence are also included, showing that painfulness alone
 does not define the class. The argument about affliction likewise turns on
 recurrence and opportunity for counter-effort, not simply peak force.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Access to the noble Path and its preparation can be closed through three
 > distinct determinations: an action whose maturation cannot be displaced,
 > an affliction whose recurrence leaves no interval for counter-effort, or a
 > resultant mode of existence incompatible with Path-preparation. The
 > criterion is not simply painfulness or intensity; each obstruction names
 > a different way the practical conditions for the Path are unavailable.
-
 ## 10. OWL++ Seed
 
 ```text

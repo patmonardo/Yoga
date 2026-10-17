@@ -79,30 +79,16 @@ the hearer understands the meaning asserted.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Going where one should not approach is sexual misconduct, and it is
 > fourfold. The statement of one whose recognition is otherwise, when the
 > hearer understands its meaning, is false speech.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Sexual misconduct is fourfold approach to what is not to be approached.
 > False speech is the statement of one whose recognition is otherwise,
 > directed to one capable of understanding its meaning.
->
-> The Bhāṣya classifies sexual misconduct by the person or relation, bodily
-> locus, place, or time, and carries forward the non-mistake condition. It
-> reports disagreement about cases in which intended and actual partners do
-> not coincide. False speech is completed when a speaker asserts a meaning
-> contrary to their own recognition and the recipient understands that
-> meaning. If understanding does not occur, the speech is classified instead
-> as disordered speech; whether actual understanding or only capacity is
-> required remains disputed in the commentary.
-
-The four dimensions, their historically specific cases, the disputed
-object-recognition analysis, and the treatment of failed comprehension belong
-to the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -251,6 +237,17 @@ Semantic production and semantic completion are distinct moments.
 
 ## 9. Interpretive Note
 
+**Translation note.** The four dimensions, their historically specific cases,
+the disputed object-recognition analysis, and the treatment of failed
+comprehension belong to the Bhāṣya. The Bhāṣya classifies sexual misconduct by
+the person or relation, bodily locus, place, or time, and carries forward the
+non-mistake condition. It reports disagreement about cases in which intended
+and actual partners do not coincide. False speech is completed when a speaker
+asserts a meaning contrary to their own recognition and the recipient
+understands that meaning. If understanding does not occur, the speech is
+classified instead as disordered speech; whether actual understanding or only
+capacity is required remains disputed in the commentary.
+
 **Verbal karma is semantic action**
 
 False speech cannot be reconstructed from acoustic output alone. Its complete
@@ -286,8 +283,7 @@ object-recognition dispute, comprehension rule, and phonetic completion point
 belong to the Bhāṣya; the formulation as relational and semantic Practical
 Form is the project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Bodily and verbal acts receive their practical determination only within the
 > relations they realize. Sexual activity is classified through the governing
 > interpersonal, bodily, spatial, and temporal conditions of its performance.

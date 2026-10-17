@@ -2,15 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-anye narakavedyānyakāmavedyaṃ dvayaṃ viduḥ /
-dṛgdheyaṃ kṛṣṇam anye 'nyat kṛṣṇaśuklaṃ tu kāmajam // 4.63 //
-```
+> anye narakavedyānyakāmavedyaṃ dvayaṃ viduḥ /
+> dṛgdheyaṃ kṛṣṇam anye 'nyat kṛṣṇaśuklaṃ tu kāmajam // 4.63 //
 
-> Other teachers understand the pair as karma to be experienced in hell and
-> karma to be experienced elsewhere in the Desire Realm, respectively. Still
-> others call karma abandoned by seeing black; the remaining Desire-Realm
-> karma is black-and-white.
+> Some teachers identify the pair respectively with karma to be experienced in
+> hell and karma to be experienced elsewhere in the Desire Realm. Others
+> classify karma abandoned by seeing as black and the remaining Desire-Realm
+> karma as black-and-white.
 
 The verse reports **other teachers'** classifications; it does
 not silently replace Vasubandhu's preceding allocation.

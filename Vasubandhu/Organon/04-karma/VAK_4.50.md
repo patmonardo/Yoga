@@ -103,25 +103,16 @@ divide indeterminate karma into two.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > That karma is determinate or indeterminate. Determinate karma is again
 > threefold because it is to be experienced beginning in the present life.
 > Some authorities hold karma to be fivefold.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Karma is either determinate—its maturation must be experienced—or
-> indeterminate, whose maturation is not necessary. Determinate karma is
-> threefold: it matures in the present life, in the immediately following
-> rebirth, or in a later life. Together with indeterminate karma these make
-> four classes. Some authorities count five by dividing indeterminate karma
-> according to whether its maturation is itself determinate or indeterminate.
-
-The definition of indeterminate karma, expansion of the three temporal forms,
-standard fourfold count, and explanation of the alternative fifth class are
-supplied by the Bhāṣya.
-
+> Karma is determinate or indeterminate. Determinate karma is again threefold,
+> beginning with what is to be experienced in the present life. Some authorities
+> count karma as fivefold.
 ## 6. Philosophical Translation
 
 > That karma is determinate or indeterminate. Determinate karma is again threefold because it is to be experienced beginning in the present life. Some authorities hold karma to be fivefold.
@@ -243,6 +234,14 @@ causal formation, not as a merely accidental postponement.
 
 ## 9. Interpretive Note
 
+**Translation note.** The definition of indeterminate karma, expansion of the three
+temporal forms, standard fourfold count, and explanation of the alternative fifth
+class are supplied by the Bhāṣya. The three determinate temporal forms are result in
+this life, the next birth, and a later occasion; together with indeterminate karma
+they form the standard four. The alternative fifth class divides indeterminate karma
+according to whether maturation is determinate. The Bhāṣya also preserves a disputed
+account of temporal naming and the Vaibhāṣika response.
+
 **Kriyā and karma separate more sharply**
 
 The visible performance of an action does not disclose the complete temporal
@@ -284,8 +283,7 @@ in the report.
 This is the Organon contact. The modal gloss, fourfold and fivefold counts,
 controversy, and seed analogy belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Karmic causality includes distinct modal and temporal determinations. First
 > one asks whether the causal formation must attain fruition at all. Only if
 > fruition is necessary does one then determine its temporal index: this life,

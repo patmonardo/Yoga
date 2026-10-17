@@ -2,20 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-cittakṣepo manaścitte sa ca karmavipākajaḥ /
-bhayopaghātavaiṣamyaśokaiś cākurukāminām // 4.58 //
-```
+> cittakṣepo manaścitte sa ca karmavipākajaḥ /
+> bhayopaghātavaiṣamyaśokaiś cākurukāminām // 4.58 //
 
-> Mental derangement occurs in `manovijñāna`, not in the five non-conceptual
-> sensory knowledge-series. It can arise downstream from karmic maturation:
-> the direct maturation disturbs the bodily or elemental constitution, and the
-> resulting disequilibrium disorders mental cognition and recollection. It may
-> also arise through fear, physical injury, bodily imbalance, or grief. The
-> Bhāṣya parses the population phrase as `akuruṇāṃ kāminām` (“those without
-> compassion in the Desire Realm”); a competing division of `akurukāminām` is
-> `a-kuru-kāminām` (“Desire-Realm beings outside the Kurus”). The intended
-> division and population range remain uncertain.
+> Mental derangement occurs in mental cognition; it is born from karmic
+> maturation, and also from fear, injury, imbalance, and grief among those
+> called `akurukāminām`.
 
 The last phrase follows the Bhāṣya's own expansion of the compressed
 `akurukāminām`; its exact word division deserves further review.
@@ -106,7 +98,7 @@ phlegm become aggravated. Grief is illustrated by Vāsiṣṭhī and
 others. If the disturbance is in mental consciousness and is born
 of karmic maturation, why does this not make mental feeling itself
 a maturation, contrary to 4.57? We do not say that the disturbed mind
-itself is the maturation. The aggravation of the great elements is
+itself is the maturation. The aggravation of the Great Elements is
 the maturation; the disturbance arises from that, and is therefore
 called *born from* maturation. Through karmically produced imbalance
 of the elements, the mind becomes confused, helpless, and deprived of
@@ -138,7 +130,7 @@ nor through grief, because they know the nature of things.
 
 The central reply preserves 4.57: `vipākaja`, *arising from
 maturation*, is not identical with `vipāka`, *maturation itself*.
-Here the aggravated great elements are classed as maturation; the
+Here the aggravated Great Elements are classed as maturation; the
 mental disturbance follows from their imbalance. This is the
 passage's technical claim, distinct from any present-day medical
 account of mental distress.

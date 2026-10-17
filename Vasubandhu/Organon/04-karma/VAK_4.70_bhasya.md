@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-vadhavyāpādapāruṣyaniṣṭhā dveṣeṇa lobhataḥ /
-parastrīgamanābhidhyā 'dattādānasamāpanam // 4.70 //
-```
+> vadhavyāpādapāruṣyaniṣṭhā dveṣeṇa lobhataḥ /
+> parastrīgamanābhidhyā 'dattādānasamāpanam // 4.70 //
 
 > Killing, hostility, and harsh speech reach completion through hatred.
-> Through greed comes the completion of sexual misconduct, covetousness,
-> and taking what is not given.
+> Through greed comes the completion of sexual misconduct, covetousness, and
+> taking what is not given.
 
 VAK 4.68 classified the roots from which preparation can arise. VAK 4.70
 now asks which root is immediately operative when a particular course

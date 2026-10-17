@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-sukhavedyaṃ śubhaṃ dhyānād ā tṛtīyād ataḥ param /
-aduḥkhāsukhavedyaṃ tu duḥkhavedyam ihāśubham // 4.47 //
-```
+> sukhavedyaṃ śubhaṃ dhyānād ā tṛtīyād ataḥ param /
+> aduḥkhāsukhavedyaṃ tu duḥkhavedyam ihāśubham // 4.47 //
 
-> Wholesome karma belonging to the Desire Realm and the first three dhyānas
-> matures with pleasant feeling. Above the third dhyāna, wholesome karma
-> matures with feeling that is neither painful nor pleasant. Here in the
-> Desire Realm, unwholesome karma matures with painful feeling. These names
-> characterize the maturation by its feeling, although feeling is not the
-> whole fruit: its associated complex matures with it.
+> Wholesome karma is to be experienced pleasantly up to the third dhyāna; above
+> that, it is to be experienced as neither painful nor pleasant. Here,
+> unwholesome karma is to be experienced painfully.
 
 The Bhāṣya unit runs from [228|04] through [228|13] in the running
 source. Its `sasaṃbhārā` conclusion belongs to this unit. The next

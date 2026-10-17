@@ -103,33 +103,16 @@ second to restraint born from meditative concentration.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Six unwholesome courses are non-manifest; one is twofold. Those too are
 > twofold for one who performs them. The seven wholesome courses are twofold;
 > those born from concentration are non-manifest.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Six unwholesome courses are non-manifest; one is twofold. Those six too are
 > twofold for one who performs them personally. The seven wholesome courses
 > are twofold; those born from concentration are non-manifest.
-
-The Bhāṣya identifies the six as killing, taking what is not given, and the
-four unwholesome verbal courses. When an instigator has another perform one
-of these, the instigator lacks the principal manifest action but the course
-is completed through non-manifest determination. Sexual misconduct is the
-exception because its completion must be personal, so it is both manifest and
-non-manifest. If one personally performs the other six, they are twofold when
-death occurs at the time; if death occurs later, only non-manifest
-determination remains at the principal completion. The seven wholesome
-bodily and verbal courses grounded in undertaken discipline are twofold;
-restraint born from concentration is non-manifest alone because it depends
-upon consciousness alone.
-
-The identities of the six, the delegated-action rationale, the temporal
-qualification, and the contrast between undertaken and concentration-born
-restraint are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -248,6 +231,22 @@ difference between the ways restraint is acquired.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya identifies the six as killing, taking what is not given, and the
+four unwholesome verbal courses. When an instigator has another perform one
+of these, the instigator lacks the principal manifest action but the course
+is completed through non-manifest determination. Sexual misconduct is the
+exception because its completion must be personal, so it is both manifest and
+non-manifest. If one personally performs the other six, they are twofold when
+death occurs at the time; if death occurs later, only non-manifest
+determination remains at the principal completion. The seven wholesome
+bodily and verbal courses grounded in undertaken discipline are twofold;
+restraint born from concentration is non-manifest alone because it depends
+upon consciousness alone.
+
+The identities of the six, the delegated-action rationale, the temporal
+qualification, and the contrast between undertaken and concentration-born
+restraint are supplied by the Bhāṣya.
+
 **Moral efficacy exceeds appearance**
 
 VAK 4.67 makes visible behavior insufficient as the complete measure of
@@ -288,8 +287,7 @@ and delayed-completion analyses, and the two kinds of restraint belong to the
 Bhāṣya; the formulation in terms of relational objectivity and Practical Form
 is the project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A karmic course is not exhausted by the action that becomes outwardly
 > visible. Its agent of execution, bearer of responsibility, and moment of
 > completion need not coincide. The course may therefore attain effective

@@ -71,28 +71,16 @@ constitutes this Brahmā-merit.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Discipline principally conduces to heaven; cultivation principally
 > conduces to disjunction. The merit of the four [persons] is called
 > Brahmā-merit because of delighting in heaven for a kalpa.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Discipline principally conduces to heaven; cultivation principally
-> conduces to disjunction. The merit of the four [persons] is called
-> Brahmā-merit because of delighting in heaven for a kalpa. The Bhāṣya
-> clarifies that giving also conduces to heaven, while discipline also
-> conduces to disjunction. The Vaibhāṣikas connect Brahmā-merit with the
-> measure used for action whose maturation produces the Buddha's marks.
-> Former teachers define it by result: the merit through which one delights
-> in the heavens for a kalpa, in accord with the kalpa-long lifespan of
-> Brahmā's ministers. Another collection transmits a verse stating this
-> result.
-
-The two measures and the comparison among giving, discipline, and
-cultivation are Bhāṣya explanations; the four persons' identities are not
-provided here.
+> Discipline principally conduces to heaven; cultivation principally conduces to
+> disjunction. The merit of the four [persons] is called Brahmā-merit because of
+> delighting in heaven for a kalpa.
 
 ## 6. Philosophical Translation
 
@@ -107,7 +95,7 @@ provided here.
 - **`Visaṃyoga`** — disjunction; the result principally associated with
   cultivation.
 - **`Bhāvanā`** — cultivation, defined in 4.123 through concentrated
-  wholesomeness conditioning Consciousness.
+  wholesomeness conditioning consciousness.
 - **`Brāhmapuṇya`** — Brahmā-merit, whose measure is disputed in the
   Bhāṣya.
 - **Vaibhāṣika account** — links Brahmā-merit with the measure for action
@@ -147,6 +135,10 @@ two explanations into one.
 
 ## 9. Interpretive Note
 
+**Translation note.** The two measures and the comparison among giving, discipline, and
+cultivation are Bhāṣya explanations; the four persons' identities are not
+provided here. The informed translation also included: The Bhāṣya clarifies that giving also conduces to heaven, while discipline also conduces to disjunction. The Vaibhāṣikas connect Brahmā-merit with the measure used for action whose maturation produces the Buddha's marks. Former teachers define it by result: the merit through which one delights in the heavens for a kalpa, in accord with the kalpa-long lifespan of Brahmā's ministers. Another collection transmits a verse stating this result.
+
 VAK 4.124 completes the discussion of giving, discipline, and cultivation
 by describing their predominant results. The Bhāṣya's `prādhānyāt`
 prevents a rigid one-practice/one-result scheme: giving may conduce to
@@ -164,8 +156,7 @@ to the earlier account of action producing the Buddha's marks; the
 measure is not repeated here. The next topic begins with material giving
 at `[274|14]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The practices are distinguished by what they principally conduce to,
 > not by exclusive ownership of a single result. Giving can support
 > heavenly existence; discipline chiefly orders action toward it, while

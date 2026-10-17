@@ -14,13 +14,7 @@ dhyānajo dhyānabhūmyaiva labhyate 'nāsravas tayā /
 āryayā prātimokṣākhyaḥ paravijñāpanādibhiḥ // 4.26 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-dhyāna-jaḥ dhyāna-bhūmyā eva labhyate /
-anāsravaḥ tayā āryayā /
-prātimokṣa-ākhyaḥ para-vijñāpana-ādibhiḥ //
-```
 
 The verb `labhyate`, “is acquired,” governs all three restraints. The particle
 `ādi`, “and the others,” is doctrinally important: the ordinary interpersonal
@@ -28,7 +22,7 @@ procedure is not the only recognized acquisition of prātimokṣa restraint.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dhyānajaḥ` | nominative masculine singular compound | meditation-born [restraint] |
 | `dhyānabhūmyā` | instrumental feminine singular | through a dhyāna ground or level |
@@ -39,6 +33,9 @@ procedure is not the only recognized acquisition of prātimokṣa restraint.
 | `āryayā` | instrumental feminine singular | through it as noble |
 | `prātimokṣākhyaḥ` | nominative masculine singular compound | the restraint called prātimokṣa |
 | `paravijñāpanādibhiḥ` | instrumental plural compound | through notification by another and the other recognized means |
+
+
+**Word division (verse order).** `dhyāna-jaḥ dhyāna-bhūmyā eva labhyate / anāsravaḥ tayā āryayā / prātimokṣa-ākhyaḥ para-vijñāpana-ādibhiḥ //`
 
 **`dhyānaja`**
 
@@ -130,25 +127,17 @@ The instrumental plural prevents reduction to a single universal ceremony.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Meditation-born restraint is acquired only through a dhyāna ground;
 > uncontaminated restraint is acquired through that same ground in its noble
 > form; the restraint called prātimokṣa is acquired through notification by
 > another and related means.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Meditation-born restraint is acquired together with contaminated
-> dhyāna-level consciousness—whether fundamental or preparatory—because the
-> two co-arise. Uncontaminated restraint is acquired when that meditative
-> ground is itself acquired as noble and uncontaminated. Prātimokṣa restraint
-> is ordinarily acquired through formal notification by another person or the
-> Saṃgha, while the verse’s “and the others” includes additional recognized
-> Vinaya modes that do not all depend upon another person’s manifestation.
-
-The types of meditative consciousness, co-arising relation, Saṃgha/individual
-distinction, and procedural plurality are Bhāṣya determinations.
+> Meditation-born restraint is acquired through a dhyāna ground;
+> uncontaminated restraint through that ground when noble; and prātimokṣa
+> restraint through notification by another and related means.
 
 ## 6. Philosophical Translation
 
@@ -271,15 +260,18 @@ describes an already acquired vow nor creates it through arbitrary words.
 
 ```text
 ordinary prātimokṣa acquisition
-    often depends on interpersonal manifestation
+    often depends on interpersonal disclosure
 
 all prātimokṣa acquisition
-    does not universally depend on interpersonal manifestation
+    does not universally depend on interpersonal disclosure
 ```
 
 The exceptional cases belong to the definition of the acquisition field.
 
 ## 9. Interpretive Note
+
+**Translation note.** The types of meditative consciousness, co-arising relation, Saṃgha/individual
+distinction, and procedural plurality are Bhāṣya determinations.
 
 **From possession to genesis**
 
@@ -379,8 +371,7 @@ This is an Organon reconstruction. Vasubandhu explicitly teaches the three
 acquisition grounds, co-arising with meditative consciousness, and the Vinaya
 plurality included by `ādi`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Each restraint becomes actual through a ground adequate to its nature.
 > Meditation restraint co-arises with attained meditative consciousness;
 > uncontaminated restraint co-arises with that ground transformed into noble

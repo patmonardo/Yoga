@@ -25,7 +25,7 @@ puṇyaṃ kriyātha tadvastu trayaṃ karmapathā yathā // 4.112 //
 |---|---|---|
 | `tiṣya-stotreṇa` | instrumental singular compound | through praise of Tiṣya |
 | `vīryasya` | genitive neuter singular | of vigor, the perfection completed through the praise |
-| `dhī-samādhyoḥ` | genitive dual | of the Science of Principles and concentration, as explained by the Bhāṣya |
+| `dhī-samādhyoḥ` | genitive dual | of discriminative comprehension and concentration, as explained by the Bhāṣya |
 | `anantaram` | adverbial form | immediately; the Bhāṣya specifies immediately before awakening |
 | `puṇyam` | nominative neuter singular | merit |
 | `kriyā` | nominative feminine singular | activity |
@@ -36,12 +36,12 @@ puṇyaṃ kriyātha tadvastu trayaṃ karmapathā yathā // 4.112 //
 | `yathā` | comparative adverb | as, just as |
 
 The Bhāṣya glosses `dhī` as `prajñā` and pairs it with `dhyāna`;
-in the project's terminology, `prajñā` is the **Science of Principles**.
+in the project's terminology, `prajñā` is the **discriminative comprehension**.
 
 ## 4. Grammar
 
 The opening line names the completion of vigor through praise and the
-completion of concentration and the Science of Principles before awakening:
+completion of concentration and the discriminative comprehension before awakening:
 
 ```text
 tiṣya-stotreṇa vīryasya [paripūriḥ]
@@ -71,35 +71,21 @@ to their function.
 
 ## 5. Translation
 
-### Literal
-
-> Through praise of Tiṣya, vigor is completed; the Science of Principles
+### Literal Translation
+> Through praise of Tiṣya, vigor is completed; discriminative comprehension
 > and concentration are completed immediately before awakening. Then, as
 > with paths of karma, the triad is merit, activity, and basis according
 > to function.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Through praise of Tiṣya, vigor was completed; the Science of Principles
-> and concentration were completed immediately before awakening. Then, as
-> with paths of karma, the triad is merit, activity, and basis according
-> to function.
-
-The Bhāṣya describes the Bodhisattva praising the Buddha Tiṣya for seven
-days with a single verse while standing on one foot; this completion is
-said also to have shortened the career by nine kalpas. Concentration and
-the Science of Principles were completed in diamond-like concentration
-immediately before awakening, not immediately after the praise. The
-analysis then turns to giving, discipline, and cultivation, the three bases
-of meritorious activity, and classifies their factors by function.
-
-The Tiṣya episode, the nine-kalpa contraction, the timing before awakening,
-the scriptural triad, and the factor-by-factor analysis are supplied by the
-Bhāṣya.
+> Through praise of Tiṣya, vigor is completed; immediately before awakening,
+> discriminative comprehension and concentration are completed. Then, as with paths
+> of karma, the triad is merit, activity, and basis according to function.
 
 ## 6. Philosophical Translation
 
-> Through praise of Tiṣya, vigor is completed; the Science of Principles and concentration are completed immediately before awakening. Then, as with paths of karma, the triad is merit, activity, and basis according to function.
+> Through praise of Tiṣya, vigor is completed; discriminative comprehension and concentration are completed immediately before awakening. Then, as with paths of karma, the triad is merit, activity, and basis according to function.
 
 ## 7. Technical Vocabulary
 
@@ -108,9 +94,9 @@ Bhāṣya.
 - **`Vīrya-pāramitā`** — perfection of vigor, completed through the Tiṣya
   episode; the Bhāṣya says nine kalpas were turned back.
 - **`Dhī` / `prajñā`** — the Bhāṣya glosses `dhī` as `prajñā`, the
-  **Science of Principles**.
+  **discriminative comprehension**.
 - **`Samādhi` / `dhyāna`** — concentration; the Bhāṣya places its
-  completion together with the Science of Principles in diamond-like
+  completion together with the discriminative comprehension in diamond-like
   concentration immediately before awakening.
 - **`Pāramitā`** — perfection. The Bhāṣya explains the designation through
   reaching the far shore of the capacity's own excellence.
@@ -132,7 +118,7 @@ Perfection completion:
     praise of Tiṣya
         → completion of vigor
     immediately before awakening, in diamond-like concentration
-        → completion of concentration and Science of Principles
+        → completion of concentration and discriminative comprehension
 
 Merit-activity analysis:
     three structures = giving, discipline, cultivation
@@ -157,6 +143,18 @@ them a rigid taxonomy for every context.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya describes the Bodhisattva praising the Buddha Tiṣya for seven
+days with a single verse while standing on one foot; this completion is
+said also to have shortened the career by nine kalpas. Concentration and
+the discriminative comprehension were completed in diamond-like concentration
+immediately before awakening, not immediately after the praise. The
+analysis then turns to giving, discipline, and cultivation, the three bases
+of meritorious activity, and classifies their factors by function.
+
+The Tiṣya episode, the nine-kalpa contraction, the timing before awakening,
+the scriptural triad, and the factor-by-factor analysis are supplied by the
+Bhāṣya.
+
 This passage makes *cetanā* explicit in the classification of action. In
 the giving-formed structure, the volition that brings bodily or verbal
 action forth is both merit and activity, while the accompanying factors
@@ -168,17 +166,16 @@ one attributed analysis, not a silent replacement for the preceding
 factor-by-factor account.
 
 The Tiṣya praise completes vigor; it is not the moment immediately before
-the completion of concentration and the Science of Principles. The latter
+the completion of concentration and the discriminative comprehension. The latter
 are placed in diamond-like concentration immediately before awakening.
 The source unit runs from `[267|10]` through `[268|08]`, including both
 successive topics and the transition to the three bases. It stops before
 the question about giving at `[268|09]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A perfection is completed at the threshold determined by its own
 > activity: vigor through praise of Tiṣya, and concentration and the
-> Science of Principles immediately before awakening. The later analysis
+> discriminative comprehension immediately before awakening. The later analysis
 > refuses to treat merit, activity, and basis as fixed synonyms. A factor's
 > role depends on its place in the concrete structure of giving, discipline,
 > or cultivation.

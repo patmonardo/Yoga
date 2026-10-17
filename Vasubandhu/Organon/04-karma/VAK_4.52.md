@@ -22,7 +22,7 @@ na anya-vedya-kṛt api āryaḥ kāme agre vā asthiraḥ api na //
 ```
 
 The source's `vāsthiraḥ` resolves as `vā asthiraḥ`, “or even unstable.” The
-first-pass separation as `vā sthiraḥ` conflicts with both the source sandhi and
+proposed separation as `vā sthiraḥ` conflicts with both the source sandhi and
 the Bhāṣya's explicit explanation of an Ārya liable to fall back.
 
 ## 3. Lexical Analysis
@@ -101,27 +101,18 @@ The sandhi `vāsthiraḥ` must be resolved as `vā asthiraḥ` for this syntax.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > A stable ordinary person detached from a given level does not produce karma
 > to be experienced there in the next rebirth. A stable noble person does not
 > produce the other future-result karma either; with respect to the Desire
 > Realm or the summit, even an unstable noble person does not.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> An ordinary person who is stably detached from a level produces no karma
-> to be experienced in the next birth in that level. A stable noble person
-> produces neither next-birth-result nor later-life karma for a level from
-> which that person is detached, because return to the lower level is no
-> longer possible.
-> Even a noble person liable to fall back cannot produce those future karmas
-> with respect to the Desire Realm or the summit of existence.
-
-The continuation of `sthira`, the scope of the two future karmas, the
-impossibility of return, and the special rule for an unstable noble person are
-supplied by the Bhāṣya.
-
+> A stable ordinary person detached from a level produces no karma to be
+> experienced there in the next birth. A stable noble person produces neither
+> next-birth nor later-life karma for that level; even an unstable noble person
+> produces no such karma with respect to the Desire Realm or the summit.
 ## 6. Philosophical Translation
 
 > A stable ordinary person detached from a given level does not produce karma to be experienced there in the next rebirth. A stable noble person does not produce the other future-result karma either; with respect to the Desire Realm or the summit, even an unstable noble person does not.
@@ -225,6 +216,15 @@ Genesis and continued possession remain different questions.
 
 ## 9. Interpretive Note
 
+**Translation note.** The continuation of `sthira`, the scope of the two future
+karmas, the impossibility of return, and the special rule for an unstable noble
+person are supplied by the Bhāṣya. The Bhāṣya carries “stable” into the noble-person
+clause and reads the prohibition as covering both next-birth and later-life karma;
+an ordinary stable person is restricted only as stated. The noble person may still
+make indeterminate karma, or present-life karma when born at that level. For an
+unstable noble person the exclusion concerns the Desire Realm and summit, where
+falling back from the fruit prevents those future results.
+
 **The Path transforms practical possibility**
 
 Attainment is not an ornamental status added to an unchanged agent. It changes
@@ -262,8 +262,7 @@ Bhāṣya's entire final explanation intelligible.
 This is the Organon contact. The practitioner distinctions, impossibility of
 return, and fall-from-fruit explanation belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The Path changes the modal range of karmic production. Stable detachment does
 > not merely make a future rebirth unlikely; it removes the capacity to produce
 > the karma whose fruition would require return to the abandoned level. The

@@ -5,13 +5,11 @@
 > na kasyacid ahetoḥ syād hetuḥ syāc ca vināśakaḥ /
 > dvigrāhyaṃ syān na cāṇau tad vāgvijñaptis tu vāgdhvaniḥ // 4.03 //
 
+
 > If destruction required a cause as arising does, no destruction would be
-> causeless; yet momentary cognitions, sounds, and flames cease without a
-> separate destroyer, and a productive cause would otherwise have to function
-> as a destroyer. Moreover, if bodily configuration were an independently real
-> material determination, the same form would be directly apprehensible by
-> both sight and touch, although no such configuration exists within a single
-> atom. Verbal manifestation, by contrast, is speech-sound.
+> causeless, and the productive cause would become a destroyer. Configuration
+> would be apprehended by sight and touch, yet is absent from a single atom.
+> Verbal manifestation, however, is speech-sound.
 
 The first two pādas continue the proof of momentariness opened by 4.02. The
 last two test the reality of bodily configuration and identify verbal
@@ -227,7 +225,7 @@ varieties of cooked qualities arising through contact with alkali, frost,
 acid, sun, water, or earth?
 
 What, then, does fire do when boiling water dwindles? It increases the
-power of the fire element. Under that influence the aggregate of water
+power of the fire Element. Under that influence the mass of water
 becomes progressively attenuated until it no longer continues its series.
 That is what contact with fire does here. Things have no separate cause
 of destruction; being perishable, they cease as soon as they arise.
@@ -269,7 +267,7 @@ configurations called a line or circle in arrangements of ants. Another
 asks why longness is seen in a distant post even when its color cannot
 be distinguished. The answer is that indistinct visible material is
 seen and construed as long, as one may construe a distant line as an
-army. Sometimes only an indeterminate aggregate is seen: “something is
+army. Sometimes only an indeterminate mass is seen: “something is
 there.”
 
 The question then presses the Sautrāntikas: having rejected bodily motion
@@ -351,7 +349,7 @@ materially real resistant dharma should occur in an atom, whereas
 longness does not.
 
 The objection from a distant post is especially instructive: an
-indeterminate visible aggregate may support a judgment of length even
+indeterminate visible mass may support a judgment of length even
 when a particular color is not discriminated. The Sautrāntika reply
 treats that as a judgment made upon indistinct visible material, not
 proof of an independently real shape.

@@ -67,27 +67,17 @@ qualities the Bhāṣya supplies by quoting the first half of 4.123.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Misconduct is unwholesome Form; discipline is abstention from it in two
 > modes, and also abstention from what the Buddha has prohibited. Purified
 > discipline, however, has four qualities.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Misconduct is unwholesome Form; discipline is abstention from it in two
-> modes, and also abstention from what the Buddha has prohibited. Purified
-> discipline, however, has four qualities. The two modes are manifestation,
-> through which one refrains, and non-disclosing continuity, which is that
-> abstention. The same twofold abstention applies to what is not misconduct
-> by nature but has been prohibited by the Buddha, such as eating at an
-> improper time; for one who has undertaken the training, acting contrary
-> to that rule becomes misconduct. The four qualities are that discipline
-> is unharmed by misconduct and its causes, rests on its counteragent, and
-> is directed toward peace and nirvāṇa rather than a particular rebirth.
-
-The two modes, the training qualification, the example of improper-time
-eating, and the four qualities are explained in the Bhāṣya.
+> Misconduct is unwholesome Form; discipline is abstention from it in two modes:
+> disclosure (*vijñapti*), through which one refrains, and non-disclosing continuity
+> (*avijñapti*), which is that abstention. Discipline also abstains from what the
+> Buddha has prohibited; purified discipline has four qualities.
 
 ## 6. Philosophical Translation
 
@@ -99,7 +89,7 @@ eating, and the four qualities are explained in the Bhāṣya.
 - **`Śīla`** — discipline, defined here as abstention.
 - **`Virati`** — abstention or restraint; in this passage it has two
   modes.
-- **`Vijñapti`** — manifestation or disclosure; here, the mode through
+- **`Vijñapti`** — disclosure; here, the mode through
   which abstention is enacted.
 - **`Avijñapti`** — non-disclosing continuity; the Bhāṣya identifies
   this with the abstention itself. Keep it distinct from `vijñapti`.
@@ -143,12 +133,15 @@ of discipline listed by other teachers later in the Bhāṣya.
 
 ## 9. Interpretive Note
 
+**Translation note.** The two modes, the training qualification, the example of improper-time
+eating, and the four qualities are explained in the Bhāṣya. The informed translation also included: The two modes are disclosure, through which one refrains, and non-disclosing continuity, which is that abstention. The same twofold abstention applies to what is not misconduct by nature but has been prohibited by the Buddha, such as eating at an improper time; for one who has undertaken the training, acting contrary to that rule becomes misconduct. The four qualities are that discipline is unharmed by misconduct and its causes, rests on its counteragent, and is directed toward peace and nirvāṇa rather than a particular rebirth.
+
 The Bhāṣya closes the giving-based basis of meritorious action and turns
 to discipline. It treats abstention as an action-form with a manifest
 mode and a non-disclosing continuity; it does not reduce discipline to
 an empty gap in behavior. At the same time, `avijñapti` remains distinct
 from `vijñapti`, as required by the Dhātu dyad, rather than becoming a
-second name for the same manifestation.
+second name for the same disclosure.
 
 The distinction between misconduct by nature and a prohibited training
 rule also matters: the same behavior can have different status depending
@@ -162,10 +155,9 @@ quotation of 4.123a, which supplies the four qualities. The witness has
 forms in the paired study are local normalizations. The next study
 continues with the second half of 4.123 at `[273|23]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Discipline is not mere non-occurrence. It is an abstention with two
-> distinguishable determinations: its manifestation and the
+> distinguishable determinations: its disclosure and the
 > non-disclosing continuity that is the abstention itself. Its scope also
 > depends on the training undertaken: some conduct is unwholesome by
 > nature, while other conduct becomes misconduct through violating a

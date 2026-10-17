@@ -2,15 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-sarvatra sarvaṃ dadataḥ kāruṇyād dānapūraṇam /
-aṅgacchede 'py akopāt tu rāgiṇaḥ kṣāntiśīlayoḥ // 4.111 //
-```
+> sarvatra sarvaṃ dadataḥ kāruṇyād dānapūraṇam /
+> aṅgacchede 'py akopāt tu rāgiṇaḥ kṣāntiśīlayoḥ // 4.111 //
 
-> Giving is complete for one who gives everything everywhere from
-> compassion. Patience and discipline are complete for one still
-> possessing passion who does not become angry even when bodily parts
-> are being cut.
+> Giving is complete for one who gives everything everywhere from compassion.
+> Patience and discipline are complete for one still possessing passion who does not
+> become angry even when bodily parts are being cut.
 
 The Bhāṣya treats the verse as specifying when three perfections are
 complete: giving in the first half, patience and discipline in the second.

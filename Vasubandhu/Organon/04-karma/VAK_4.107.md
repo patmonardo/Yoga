@@ -58,30 +58,16 @@ maturation.”
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The analogues of the immediate-result actions; destruction of a stūpa
 > is the fifth. Karma is a powerful obstruction at the attainments of
 > acceptance, non-returnership, and arhatship.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The analogues of the immediate-result actions; destruction of a stūpa
-> is the fifth. Karma is a powerful obstruction at the attainments of
-> acceptance, non-returnership, and arhatship. The Bhāṣya makes clear that
-> this second claim is not confined to the five analogues: other karma
-> possessing maturation can obstruct at these thresholds. As one advances
-> from the summit stage toward acceptance, karma leading to bad destinies
-> obstructs because its maturation ground is being passed beyond. Desire-realm
-> karma similarly obstructs one approaching the fruit of non-returnership,
-> except for action whose maturation is to be experienced in the present
-> life. Form- and formless-realm karma similarly obstruct one approaching
-> arhatship.
-
-The creditor simile explains the first case: claims appear when someone is
-about to leave the country. It illustrates why karma presses as its
-maturation ground is being left; it does not say that every obstructing
-action necessarily prevents attainment.
+> The analogues of the immediate-result actions; destruction of a stūpa is the
+> fifth. Karma is a powerful obstruction at the attainments of acceptance,
+> non-returnership, and arhatship.
 
 ## 6. Philosophical Translation
 
@@ -129,6 +115,19 @@ must succeed.
 
 ## 9. Interpretive Note
 
+**Translation note.** The creditor simile explains the first case: claims appear when someone is
+about to leave the country. It illustrates why karma presses as its
+maturation ground is being left; it does not say that every obstructing
+action necessarily prevents attainment. The informed translation also included: The Bhāṣya makes clear that
+this second claim is not confined to the five analogues: other karma
+possessing maturation can obstruct at these thresholds. As one advances
+from the summit stage toward acceptance, karma leading to bad destinies
+obstructs because its maturation ground is being passed beyond. Desire-realm
+karma similarly obstructs one approaching the fruit of non-returnership,
+except for action whose maturation is to be experienced in the present
+life. Form- and formless-realm karma similarly obstruct one approaching
+arhatship.
+
 This verse sharpens the preceding discussion of future trajectory. The
 obstruction arises at a transition beyond the field in which a result could
 mature; the creditor simile makes that temporal pressure vivid. This offers
@@ -149,8 +148,7 @@ overlaps 4.106 because the Bhāṣya completes the five analogues before
 turning to the three thresholds. The study stops before the next question
 at `[265|10–11]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A Path threshold can become the point at which an action's maturation
 > presses most strongly. As the practitioner passes beyond the field in
 > which a result could ripen, that outstanding maturation acts like a

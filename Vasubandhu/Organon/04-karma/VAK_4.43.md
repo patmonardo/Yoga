@@ -27,7 +27,7 @@ onto modern identities.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `nṛṇām` | genitive masculine plural | among humans |
 | `asaṃvaraḥ` | nominative masculine singular | acquired non-restraint |
@@ -119,25 +119,16 @@ existence.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Non-restraint occurs among humans, excluding the śaṇḍhas, paṇḍakas, persons
 > of twofold constitution, and the Kurus. Restraint occurs likewise and also
 > among gods. Among humans are the three [restraints].
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Acquired non-restraint occurs only in the human mode of existence, excluding
-> the bodily categories listed by the text and the inhabitants of Uttarakuru.
-> Acquired restraint occurs among eligible humans under the corresponding
-> exclusions and also among gods. Eligible humans can possess all three forms:
-> prātimokṣa restraint, meditation-born restraint, and uncontaminated
-> restraint; the forms available among gods are specified in the following
-> verse.
-
-The phrase “only in the human mode,” the identification of the three, and the
-enjambment into VAK 4.44 are supplied by the Bhāṣya.
-
+> Non-restraint occurs among humans, except the śaṇḍhas, paṇḍakas, persons of
+> twofold bodily constitution, and the Kurus. Restraint occurs likewise and also
+> among gods. Among humans, all three [forms of restraint] are found.
 ## 6. Philosophical Translation
 
 > Non-restraint occurs among humans, excluding the śaṇḍhas, paṇḍakas, persons of twofold constitution, and the Kurus. Restraint occurs likewise and also among gods. Among humans are the three [restraints].
@@ -282,6 +273,14 @@ The syntactic compression must not anticipate the missing distribution.
 
 ## 9. Interpretive Note
 
+**Translation note.** The phrase “only in the human mode,” the identification of the
+three, and the enjambment into VAK 4.44 are supplied by the Bhāṣya. The Bhāṣya reads
+the human range as human birth only, identifies the Kurus as the inhabitants of
+Uttarakuru, and explains the three restraints as prātimokṣa, meditation-born, and
+uncontaminated. The excluded terms reflect inherited bodily and Vinaya
+classifications, not modern identities; the distribution among gods continues in
+4.44.
+
 **The bearer is a condition of actuality**
 
 The verse moves from the internal structure of karmic forms to their concrete
@@ -345,8 +344,7 @@ VAK 4.44 completes the realm-distribution of the three restraints.
 This is the Organon contact. The inherited categories, causal explanations,
 barren-field analogy, and nāga case belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A wholesome or harmful act may occur without producing the technical
 > standing form called restraint or non-restraint. Acquisition requires a
 > support held by this doctrine to possess the stability, discrimination, and

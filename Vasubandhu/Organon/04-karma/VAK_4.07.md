@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> नाव्याकृतास्त्यविज्ञप्तिस्त्रिधान्यत्ताशुभं पुनः ।
->
-> कामे रूपेऽप्यविज्ञप्तिर्विज्ञप्तिः सविचारयोः ॥ ४.७ ॥
+```sanskrit
+नाव्याकृतास्त्यविज्ञप्तिस्त्रिधान्यत्ताशुभं पुनः ।
+कामे रूपेऽप्यविज्ञप्तिर्विज्ञप्तिः सविचारयोः ॥ ४.७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> nāvyākṛtāsty avijñaptiḥ tridhānyat aśubhaṃ punaḥ /
->
-> kāme rūpe 'py avijñaptir vijñaptiḥ savicārayoḥ // 4.7 //
+```text
+nāvyākṛtāsty avijñaptiḥ tridhānyat aśubhaṃ punaḥ /
+kāme rūpe 'py avijñaptir vijñaptiḥ savicārayoḥ // 4.7 //
+```
 
 VAK 4.06 classified `avijñapti` by its causal production and material support.
 
@@ -54,8 +56,7 @@ The opening clause negates the existence of `avyākṛtā avijñaptiḥ`; `tridh
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > There is no ethically indeterminate non-disclosing continuity; the
 > remaining [karmas] are threefold. The unwholesome, however, exists in the
 > desire realm. Non-disclosing continuity exists also in the Form realm;
@@ -65,19 +66,13 @@ The opening clause negates the existence of `avyākṛtā avijñaptiḥ`; `tridh
 The plural “remaining karmas” is supplied from the Bhāṣya's explicit
 identification of `vijñapti` and `cetanā`.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Non-disclosing continuity is never ethically indeterminate: it is either
-> wholesome or unwholesome. Manifestation and volition, by contrast, may each
-> be wholesome, unwholesome, or indeterminate. Unwholesome karma is confined
-> to the desire realm. Non-disclosing continuity occurs in both the desire
-> realm and the Form realm, but not in the formless realms. Bodily and verbal
-> manifestation occurs only in the two levels where `vicāra` remains
-> operative—the desire realm and the first dhyāna.
-
-The absence of `avijñapti` from the formless realms, the identification of the
-two `savicāra` levels, and the inclusion of `cetanā` under `anyat` are Bhāṣya
-determinations.
+> Non-disclosing continuity is never ethically indeterminate, but is wholesome
+> or unwholesome. Manifestation and volition, by contrast, are threefold.
+> Unwholesome karma occurs in the desire realm, and non-disclosing continuity
+> also occurs in the Form realm. Manifestation occurs in the two levels with
+> *vicāra*.
 
 ## 6. Philosophical Translation
 
@@ -135,6 +130,8 @@ The verse excludes ethically indeterminate non-disclosing continuity; classifies
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya says unwholesome karma is confined to the desire realm. It excludes *avijñapti* from the formless realms and identifies the two *savicāra* levels as the desire realm and first dhyāna. It identifies “the other” karma as manifestation and volition, including *cetanā*.
+
 ### Review Status
 
 The natural unit through [201|17] is translated and the study stops before
@@ -142,8 +139,6 @@ The natural unit through [201|17] is translated and the study stops before
 exchange remain provisional. The omitted `tatra` is restored and two
 editorial repairs are identified. Research witnesses and the running source
 were left intact.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

@@ -63,25 +63,16 @@ Saṅgha's comfort.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Violation of one's mother when she is an arhat; killing a bodhisattva
 > established in certainty; killing a trainee; and taking away an access
 > or means associated with the Saṅgha's comfort.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Violation of one's mother when she is an arhat; killing a bodhisattva
-> established in certainty; killing a trainee; and taking away an access
-> or means associated with the Saṅgha's comfort. The Bhāṣya identifies
-> these as the first four actions analogous to the five immediate-result
-> actions; destruction of a stūpa, stated in 4.107, is the fifth. It says
-> that these analogues necessarily lead to a hell rebirth, while reporting
-> another view that the rebirth need not immediately follow.
-
-The analogy, the first act's sexual sense, the fifth member, and the
-qualification about timing are supplied by the Bhāṣya, not all stated in
-this kārikā.
+> Violation of one's mother when she is an arhat; killing a bodhisattva established
+> in certainty; killing a trainee; and taking away an access or means associated
+> with the Saṅgha's comfort.
 
 ## 6. Philosophical Translation
 
@@ -130,6 +121,14 @@ undisputed.
 
 ## 9. Interpretive Note
 
+**Translation note.** The analogy, the first act's sexual sense, the fifth member, and the
+qualification about timing are supplied by the Bhāṣya, not all stated in
+this kārikā. The informed translation also included: The Bhāṣya identifies
+these as the first four actions analogous to the five immediate-result
+actions; destruction of a stūpa, stated in 4.107, is the fifth. It says
+that these analogues necessarily lead to a hell rebirth, while reporting
+another view that the rebirth need not immediately follow.
+
 The verse does bring Path-determined persons into the account: a bodhisattva
 established in certainty and a trainee. This gives the action-classification
 a genuine Path and *ārya*-related resonance, especially in the case of
@@ -150,8 +149,7 @@ The source unit for this verse-pair begins with the question at `[264|22]`
 and runs through the prose list at `[265|04]`. It includes the opening half
 of 4.107 because the Bhāṣya uses it to complete the five-member set.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A course of action may resemble an established karmic class without
 > becoming numerically identical to it. Here the Bhāṣya groups five grave
 > acts by ordered analogy with the five immediate-result actions, yet

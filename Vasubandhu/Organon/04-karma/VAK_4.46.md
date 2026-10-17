@@ -113,24 +113,16 @@ na iñjati
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Wholesome karma in the Desire Realm is meritorious; wholesome karma
 > produced above is immovable, because with respect to maturation karma does
 > not shift from those levels.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Wholesome karma belonging to the Desire Realm is called meritorious, while
-> wholesome karma belonging to the Form and Formless Realms is called
-> immovable. It is immovable specifically with respect to maturation: karma
-> produced for one of those higher levels cannot mature in another level.
-> Unwholesome karma is what ordinary usage calls demeritorious.
-
-The extension of `śubha` to the higher-realm clause, the identification of
-the higher realms, the exact fixity of maturation, and the closing statement
-about `apuṇya` are supplied by the Bhāṣya.
-
+> Wholesome karma in the Desire Realm is meritorious; wholesome karma born above
+> is immovable, because it does not shift from its level with respect to
+> maturation.
 ## 6. Philosophical Translation
 
 > Wholesome karma in the Desire Realm is meritorious; wholesome karma produced above is immovable, because with respect to maturation karma does not shift from those levels.
@@ -270,6 +262,14 @@ position required by this karmic law.
 
 ## 9. Interpretive Note
 
+**Translation note.** The extension of `śubha` to the higher-realm clause, the
+identification of the higher realms, the exact fixity of maturation, and the closing
+statement about `apuṇya` are supplied by the Bhāṣya. The Bhāṣya carries “wholesome”
+into the higher-realm clause and identifies the Form and Formless Realms. It
+contrasts movable Desire-Realm maturation with the higher karma's fixed maturation
+placement; the ordinary designation “demeritorious” for unwholesome karma is also
+commentary.
+
 **The first application confirms and refines the Principle**
 
 VAK 4.46 does not use the three dhātus as containers into which already formed
@@ -326,8 +326,7 @@ This is the Organon contact. The objection, scriptural comparison, examples of
 mobile maturation, and definition through fixed maturation belong to the
 Bhāṣya; the explicit Principle framework is project interpretation.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Karma is determined not only by ethical quality but by the relation between
 > its realm of production and its level of maturation. Desire-Realm karma is
 > comparatively mobile: intervening conditions can alter the destiny or class

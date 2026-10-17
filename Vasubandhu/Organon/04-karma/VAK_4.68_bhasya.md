@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-sāmantakās tu vijñaptir avijñaptir bhaven na vā /
-viparyayeṇa pṛṣṭhāni prayogas tu trimūlajaḥ // 4.68 //
-```
+> sāmantakās tu vijñaptir avijñaptir bhaven na vā /
+> viparyayeṇa pṛṣṭhāni prayogas tu trimūlajaḥ // 4.68 //
 
-> The proximate actions are manifest action; non-manifest action may or
-> may not arise. The subsequent actions are the converse. Preparation,
-> however, is born from the three roots.
+> The proximate actions are manifest action; non-manifest action may or may
+> not arise. The subsequent actions are the converse. Preparation, however,
+> is born from the three roots.
 
 The Bhāṣya articulates the bodily and verbal course as preparation
 (`prayoga` or `sāmantaka`), principal completion (`maula`), and aftermath

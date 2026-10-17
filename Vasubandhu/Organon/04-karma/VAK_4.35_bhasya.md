@@ -2,19 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-sarvobhayebhyaḥ kāmāpto vartamānebhya āpyate /
-maulebhyaḥ sarvakālebhyo dhyānānāsravasaṃvarau // 4.35 //
-```
+> sarvobhayebhyaḥ kāmāpto vartamānebhya āpyate /
+> maulebhyaḥ sarvakālebhyo dhyānānāsravasaṃvarau // 4.35 //
 
-> Prātimokṣa restraint, which belongs to the desire realm, is acquired from
-> presently existing Bases, Essences, and Principles with respect to all
-> three stages of misconduct—the root act, its preparation, and its
-> aftermath—and with respect to both sentient and non-sentient bases and both
-> naturally blameworthy and prohibition-based faults. Meditation-born and
-> uncontaminated restraints are acquired only with respect to root
-> karmapathas, but from Bases, Essences, and Principles belonging to the
-> past, present, and future.
+> Desire-realm restraint is acquired from presently existing Bases, Essences,
+> and Principles, across all three stages and both kinds; meditation-born and
+> uncontaminated restraint are acquired from root acts in all three times.
 
 The running unit extends from the opening question at [219|11–12]
 through the correction about future restraint at [220|02–03] in

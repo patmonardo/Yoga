@@ -2,23 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-svabhūmidharmāś catvāri trīṇi dve vānyabhūmikāḥ /
-śaikṣasya trīṇi śaikṣādyā aśaikṣasya tu karmaṇaḥ // 4.91 //
-```
+> svabhūmidharmāś catvāri trīṇi dve vānyabhūmikāḥ /
+> śaikṣasya trīṇi śaikṣādyā aśaikṣasya tu karmaṇaḥ // 4.91 //
 
-> Result-dharmas belonging to the same level as their causal action can stand
-> to it through maturation, corresponding, activity-produced, and dominant
-> results; disconnection is excluded. Different-level dharmas without Influx
-> can be results through corresponding, activity-produced, and dominant
-> relations; because they do not fall within a realm, maturation is
-> unavailable, and disconnection is also excluded. Different-level dharmas
-> with Influx can be results only through activity-produced and dominant
-> relations. For trainee action, trainee and beyond-training dharmas are
-> results through corresponding, activity-produced, and dominant relations,
-> while dharmas of neither status are results through disconnection,
-> activity-produced, and dominant relations. The classification of
-> beyond-training action begins here and continues in the next verse.
+> Dharmas of the same level as the action have four results; those of another
+> level have three or two. For trainee action, dharmas beginning with the
+> trainee class have three results; but for beyond-training action—
 
 The final construction is intentionally incomplete. The first row of the
 training-status matrix is explained here; the verse then opens the

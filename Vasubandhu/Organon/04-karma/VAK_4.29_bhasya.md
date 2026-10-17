@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-śīlāṅgāny apramādāṅgaṃ vratāṅgāni yathākramam /
-catvāry ekaṃ tathā trīṇi smṛtināśo madaś ca taiḥ // 4.29 //
-```
+> śīlāṅgāny apramādāṅgaṃ vratāṅgāni yathākramam /
+> catvāry ekaṃ tathā trīṇi smṛtināśo madaś ca taiḥ // 4.29 //
 
-> Of the eight upavāsa limbs, the first four are limbs of discipline, the
-> fifth is the limb safeguarding heedfulness, and the final three are limbs
-> shaping the special observance. Intoxicants destroy recollection of what
-> should and should not be done; luxury and entertainment produce intoxicated
-> self-indulgence, bringing breach of discipline near; and abstention from
-> untimely eating sustains recollection of the upavāsa and sober urgency.
+> Four are limbs of discipline, one is a limb of heedfulness, and three are
+> limbs of observance, in order. Through those [factors] recollection is lost,
+> and intoxicated self-indulgence arises.
 
 The running Bhāṣya unit begins with the question at [214|03] and
 ends with the first-moment objection at [214|23–24] in
@@ -100,7 +95,7 @@ calls abstention from untimely eating the eighth limb through which
 one follows the training of the noble Arhats.
 
 What, then, is the upavāsa whose limbs these are? Limbs are parts of
-an aggregate. Just as one speaks of a four-part army or a
+a whole. Just as one speaks of a four-part army or a
 five-part musical ensemble, upavāsa is to be understood as an
 eightfold whole. Abstention from untimely eating may be called both
 upavāsa and a limb of upavāsa, as right view may be called both

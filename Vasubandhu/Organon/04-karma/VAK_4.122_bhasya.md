@@ -2,14 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dauḥśīlyam aśubhaṃ rūpaṃ śīlaṃ tadviratir dvidhā /
-pratikṣiptāc ca buddhena viśuddhaṃ tu caturguṇam // 4.122 //
-```
+> dauḥśīlyam aśubhaṃ rūpaṃ śīlaṃ tadviratir dvidhā /
+> pratikṣiptāc ca buddhena viśuddhaṃ tu caturguṇam // 4.122 //
 
-> Misconduct is unwholesome Form; discipline is abstention from it in two
-> modes, and also abstention from what the Buddha has prohibited. Purified
-> discipline, however, has four qualities.
+> Misconduct is unwholesome Form; discipline is abstention from it in two modes:
+> disclosure (*vijñapti*), through which one refrains, and non-disclosing continuity
+> (*avijñapti*), which is that abstention. Discipline also abstains from what the
+> Buddha has prohibited; purified discipline has four qualities.
 
 The Bhāṣya first explains the two modes of abstention, then quotes 4.123a
 to identify the four qualities of purified discipline.

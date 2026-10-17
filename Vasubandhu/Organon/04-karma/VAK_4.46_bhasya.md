@@ -2,16 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kāmadhātau śubhaṃ karma puṇyam āneñjam ūrdhvajam /
-tadbhūmiṣu yataḥ karmavipākaṃ prati neñjati // 4.46 //
-```
+> kāmadhātau śubhaṃ karma puṇyam āneñjam ūrdhvajam /
+> tadbhūmiṣu yataḥ karmavipākaṃ prati neñjati // 4.46 //
 
-> Wholesome karma belonging to the Desire Realm is called meritorious, while
-> wholesome karma belonging to the Form and Formless Realms is called
-> immovable. It is immovable specifically with respect to maturation: karma
-> produced for one of those higher levels cannot mature in another level.
-> Unwholesome karma is what ordinary usage calls demeritorious.
+> Wholesome karma in the Desire Realm is meritorious; wholesome karma born above
+> is immovable, because it does not shift from its level with respect to
+> maturation.
 
 The Bhāṣya unit begins with `tatra tāvat` at [227|13] and ends at
 `sa eṣa kriyate` at [228|03]. The next kārikā begins at [228|04].

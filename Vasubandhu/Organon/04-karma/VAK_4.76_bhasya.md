@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-paiśunyaṃ kliṣṭacittasya vacanaṃ parabhedane /
-pāruṣyamapriyaṃ sarvaṃ kliṣṭaṃ bhinna pralāpitā // 4.76 //
-```
+> paiśunyaṃ kliṣṭacittasya vacanaṃ parabhedane /
+> pāruṣyamapriyaṃ sarvaṃ kliṣṭaṃ bhinna pralāpitā // 4.76 //
 
 > Divisive speech is the utterance of one whose consciousness is afflicted,
-> directed toward dividing others. Harsh speech is disagreeable speech.
-> All afflicted speech is disordered discourse.
+> directed toward dividing others. Harsh speech is disagreeable speech. All
+> afflicted speech is disordered discourse.
 
 The verse completes the definitions of the verbal courses. This unit gives
 the broad definition of the fourth course. The alternative residual account

@@ -14,12 +14,7 @@ prātimokṣadamas tyāgaḥ śikṣānikṣepaṇāc cyuteḥ /
 ubhayavyañjanotpatter mūlacchedān niśātyayāt // 4.38 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-prātimokṣa-damaḥ tyāgaḥ śikṣā-nikṣepaṇāt cyuteḥ /
-ubhaya-vyañjana-utpatteḥ mūla-cchedāt niśā-atyayāt //
-```
 
 The Bhāṣya distributes the list: ordinary prātimokṣa restraint has four
 causes of abandonment; upavāsa restraint has those four plus expiration at
@@ -27,7 +22,7 @@ the end of the night.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `prātimokṣadamaḥ` | nominative masculine singular compound | prātimokṣa discipline or restraint |
 | `tyāgaḥ` | nominative masculine singular | abandonment, relinquishment, loss |
@@ -36,6 +31,9 @@ the end of the night.
 | `ubhayavyañjanotpatter` | ablative feminine singular compound before sandhi | through the arising of both sexual characteristics |
 | `mūlacchedāt` | ablative singular compound | through severance of the roots |
 | `niśātyayāt` | ablative singular compound | through the passing or expiration of the night |
+
+
+**Word division (verse order).** `prātimokṣa-damaḥ tyāgaḥ śikṣā-nikṣepaṇāt cyuteḥ / ubhaya-vyañjana-utpatteḥ mūla-cchedāt niśā-atyayāt //`
 
 **`dama`**
 
@@ -77,7 +75,7 @@ of this prātimokṣa status.
 
 **`ubhayavyañjanotpatti`**
 
-The Bhāṣya specifies the simultaneous manifestation of both sexual
+The Bhāṣya specifies the simultaneous disclosure of both sexual
 characteristics. Within the disciplinary system presupposed by the text, this
 is treated as disruption of the qualifying bodily support.
 
@@ -151,24 +149,17 @@ remain distinct.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Prātimokṣa restraint is abandoned through laying down the training, through
 > death, through the arising of both sexual characteristics, and through
 > severance of the roots; [upavāsa restraint is also abandoned] through the
 > passing of the night.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Ordinary prātimokṣa restraint is lost in four ways: through formally laying
-> down the training, through death, through the simultaneous arising of both
-> sexual characteristics, or through severance of the wholesome roots.
-> Upavāsa restraint is lost through those same four causes and additionally
-> when the night ends and the duration projected by its undertaking is
-> complete.
-
-The formal communicative condition, the specification of wholesome roots,
-and the distribution of the fifth cause are supplied by the Bhāṣya.
+> Prātimokṣa restraint is relinquished by laying down the training, death, the
+> arising of both sexual characteristics, or severance of the roots; upavāsa
+> restraint is relinquished also when the night ends.
 
 ## 6. Philosophical Translation
 
@@ -187,9 +178,9 @@ training rules repudiated
     → laying down the training
 ```
 
-The decisive ground is `samādānaviruddhavijñapti`: a manifestation contrary
+The decisive ground is `samādānaviruddhavijñapti`: a disclosure contrary
 to the original undertaking. The prior vow was instituted through a manifest
-practical act; its formal relinquishment likewise requires manifestation.
+practical act; its formal relinquishment likewise requires disclosure.
 
 **Breach and abandonment**
 
@@ -252,7 +243,7 @@ far, not indefinitely.
 
 | Event | Ground of loss | Dimension |
 |---|---|---|
-| Laying down training | contrary manifestation | commitment |
+| Laying down training | contrary disclosure | commitment |
 | Death | loss of support | bearer |
 | Both sexual characteristics arise | disruption of support | bodily qualification |
 | Wholesome roots severed | causal basis severed | sustaining ground |
@@ -337,6 +328,9 @@ for VAK 4.39.
 
 ## 9. Interpretive Note
 
+**Translation note.** The formal communicative condition, the specification of wholesome roots,
+and the distribution of the fifth cause are supplied by the Bhāṣya.
+
 **Cessation requires its ground**
 
 Vasubandhu does not stop after naming the five events. He asks why each event
@@ -398,8 +392,7 @@ Upavāsa ends because it succeeds in persisting exactly as long as undertaken.
 This is the Organon contact. The five events, their distribution, and the five
 grounds of efficacy belong explicitly to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A standing discipline does not disappear through one homogeneous negation.
 > It can cease because the bearer manifests a declaration contrary to the
 > undertaking, because death removes its living support, because the

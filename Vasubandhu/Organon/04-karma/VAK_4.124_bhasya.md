@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-svargāya śīlaṃ prādhānyāt visaṃyogāya bhāvanā /
-caturṇāṃ brāhmapuṇyatvaṃ kalpaṃ svargeṣu modanāt // 4.124 //
-```
+> svargāya śīlaṃ prādhānyāt visaṃyogāya bhāvanā /
+> caturṇāṃ brāhmapuṇyatvaṃ kalpaṃ svargeṣu modanāt // 4.124 //
 
-> Discipline principally conduces to heaven; cultivation principally
-> conduces to disjunction. The merit of the four [persons] is called
-> Brahmā-merit because of delighting in heaven for a kalpa.
+> Discipline principally conduces to heaven; cultivation principally conduces to
+> disjunction. The merit of the four [persons] is called Brahmā-merit because of
+> delighting in heaven for a kalpa.
 
 `Prādhānyāt` marks predominance, not an exclusive result. The four persons
 are not identified in this local passage.

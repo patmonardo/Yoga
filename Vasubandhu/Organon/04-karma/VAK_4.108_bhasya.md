@@ -2,15 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-bodhisattvaḥ kuto yāvat yato lakṣaṇakarmakṛt /
-sugatiḥ kulajo 'vyakṣaḥ pumān jātismaro 'nivṛt // 4.108 //
-```
+> bodhisattvaḥ kuto yāvat yato lakṣaṇakarmakṛt /
+> sugatiḥ kulajo 'vyakṣaḥ pumān jātismaro 'nivṛt // 4.108 //
 
-> From what point onward is one called a bodhisattva? From the time one
-> undertakes action whose maturation produces the marks. Thereafter: a
-> favorable rebirth destination, birth in an eminent family, unimpaired
-> faculties, male embodiment, memory of former births, and non-retrogression.
+> From what point onward is one called a bodhisattva? From the time one undertakes
+> action whose maturation produces the marks. Thereafter: a favorable rebirth
+> destination, birth in an eminent family, unimpaired Faculties, male embodiment,
+> memory of former births, and non-retrogression.
 
 This answers the preceding question about killing a bodhisattva established
 in certainty. The Bhāṣya gives a technical threshold for that designation;

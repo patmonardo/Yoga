@@ -2,19 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-mithyācārātigarhyatvāt saukaryād akriyāptitaḥ /
-yathābhyupagamaṃ lābhaḥ saṃvarasya na saṃtate // 4.33 //
-```
+> mithyācārātigarhyatvāt saukaryād akriyāptitaḥ /
+> yathābhyupagamaṃ lābhaḥ saṃvarasya na saṃtate // 4.33 //
 
-> Abstention from sexual misconduct—rather than complete celibacy—is
-> established as the lay follower’s training rule because sexual misconduct
-> is especially blameworthy, because householders can practicably abstain from
-> it, and because noble persons acquire a fixed restraint of non-performance
-> with respect to it. The restraint acquired corresponds to the actual
-> undertaking: “I abstain from sexual misconduct.” It does not thereby become
-> an undertaking of complete celibacy extending through the person’s
-> continuum.
+> Because sexual misconduct is especially blameworthy, abstention is
+> practicable, and non-performance is acquired, restraint is acquired
+> according to the undertaking, not for the continuum as a whole.
 
 The Kārikā witness reads `na saṃtate`; the separate Bhāṣya citation
 reads `na saṃtateḥ` at [218|05]. The anchor above follows the

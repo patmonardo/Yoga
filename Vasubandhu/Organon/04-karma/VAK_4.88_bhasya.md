@@ -2,20 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-anāsravaṃ punaḥ śeṣaṃ tribhir avyākṛtaṃ ca yat /
-catvāri dve tathā trīṇi kuśalasya śubhādayaḥ // 4.88 //
-```
+> anāsravaṃ punaḥ śeṣaṃ tribhir avyākṛtaṃ ca yat /
+> catvāri dve tathā trīṇi kuśalasya śubhādayaḥ // 4.88 //
 
-> Action without Influx outside the Path of Abandonment, and indeterminate
-> action, each have three results: corresponding, activity-produced, and
-> dominant; maturation and disconnection are absent. For wholesome action,
-> the result counts for dharmas beginning with wholesome are four, two, and
-> three, respectively. Wholesome dharmas relate through
-> corresponding, disconnection, activity-produced, and dominant results;
-> unwholesome dharmas through activity-produced and dominant results; and
-> indeterminate dharmas through maturation, activity-produced, and dominant
-> results.
+> Other action without Influx, and indeterminate action, each have three
+> results. For wholesome action, dharmas beginning with wholesome have four,
+> unwholesome two, and indeterminate three results, respectively.
 
 The first half completes the classification begun in 4.87. The second begins
 a new matrix whose rows are the ethical qualities of action and whose columns

@@ -98,25 +98,16 @@ preceding productive karmic system.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Unwholesome karma, wholesome karma belonging to the Form Realm, and
 > wholesome karma belonging to the Desire Realm are respectively black,
 > white, and both. Karma without influxes is for the exhaustion of those.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Unwholesome karma is black and has unpleasant black maturation. Wholesome
-> karma of the Form Realm is white and has pleasant white maturation. Wholesome
-> karma of the Desire Realm is called black-and-white with respect to the continuum,
-> where wholesome and unwholesome karmas and their results are interspersed;
-> no single karma is intrinsically both. Karma without influxes is neither
-> black nor white in this classification, produces no maturation, and
-> conduces to the exhaustion of the preceding three karmic classes.
-
-The continuum-relative account of mixture, qualification of “not white,” and
-the absence of ordinary maturation are supplied by the Bhāṣya.
-
+> Unwholesome karma, wholesome karma of the Form Realm, and wholesome karma of
+> the Desire Realm are respectively black, white, and black-and-white. Karma
+> without influxes serves to exhaust those [three].
 ## 6. Philosophical Translation
 
 > Unwholesome karma, wholesome karma belonging to the Form Realm, and wholesome karma belonging to the Desire Realm are respectively black, white, and both. Karma without influxes is for the exhaustion of those.
@@ -253,6 +244,15 @@ The category “karma” therefore contains both production and exhaustion.
 
 ## 9. Interpretive Note
 
+**Translation note.** The continuum-relative account of mixture, qualification of
+“not white,” and the absence of ordinary maturation are supplied by the Bhāṣya. The
+Bhāṣya explains black and white through affliction and pleasant or unpleasant
+maturation; black-and-white describes a continuum in which wholesome and unwholesome
+karma are interspersed, not a single intrinsically mixed karma. It explains why the
+Formless Realm is omitted in this formulation, calls outflow-free karma neither
+black nor white and without maturation, and says it exhausts the other three
+classes.
+
 **Kleśa as Ground and its absence**
 
 The first three classes remain within action grounded by conditioned
@@ -301,8 +301,7 @@ This is the Organon contact. The four allocations, continuum distinction,
 ārūpya scope, asymmetry, and semantic qualification of `aśukla` belong to the
 Bhāṣya; the `tadabhāva` formulation is project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Productive karma differentiates into dark, bright, and mixed continuums of
 > conditioned maturation. The mixture belongs to the articulated whole, not
 > to the intrinsic nature of one member: opposed determinations can coexist in

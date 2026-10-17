@@ -65,28 +65,18 @@ has become wholly opposed to it.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > In the Buddha case, [there is no immediate-result classification] for
 > one whose intention is only to strike; nor [does it apply] when the person
 > becomes an arhat after the blow. For one engaged in an immediate-result
 > action, the possibility of dispassion or fruit does not arise.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Intention merely to strike in the Buddha case does not produce the
-> immediate-result classification; nor does an earlier action against a
-> non-arhat become an arhat-killing action if the person becomes an arhat
-> only afterward. For one engaged in an immediate-result action, the
-> possibility of dispassion or a Path fruit does not arise. The Bhāṣya's
-> question specifies that the preparation remains unreversed. It then
-> contrasts this with another action-course: when the noble Path arises,
-> that course does not arise again because its support is wholly opposed
-> to it.
-
-The final contrast is Bhāṣya prose, not an additional clause of the
-kārikā. The witness's `anyakarmaphalapathaprayogaṃ` in that prose is
-uncertain; the precise compound is not silently normalized here.
+> In the Buddha case, one who intends only to strike [does not incur immediate
+> retribution]; nor does an earlier blow against a non-arhat become an
+> arhat-killing action if the target becomes an arhat only afterward. For one
+> engaged in immediate-retribution action, dispassion or its fruit cannot arise.
 
 ## 6. Philosophical Translation
 
@@ -138,6 +128,10 @@ Sanskrit compound is uncertain in the witness.
 
 ## 9. Interpretive Note
 
+**Translation note.** The final contrast is Bhāṣya prose, not an additional clause of the
+kārikā. The witness's `anyakarmaphalapathaprayogaṃ` in that prose is
+uncertain; the precise compound is not silently normalized here. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Intention merely to strike in the Buddha case does not produce the immediate-result classification; nor does an earlier action against a non-arhat become an arhat-killing action if the person becomes an arhat only afterward. For one engaged in an immediate-result action, the possibility of dispassion or a Path fruit does not arise. The Bhāṣya's question specifies that the preparation remains unreversed. It then contrasts this with another action-course: when the noble Path arises, that course does not arise again because its support is wholly opposed to it.
+
 The passage separates intention, preparation, field-status, completion,
 and later attainment rather than treating the physical result as a
 self-sufficient classification. It also distinguishes two process
@@ -154,8 +148,7 @@ The complete paired unit overlaps the previous commentary at
 `[263|25]`, and ends with the explanation at `[264|01–02]`. It stops
 before the next question at `[264|03]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The classification depends on the field toward which the action is
 > prepared and on that field's status at the time of preparation. A later
 > change in the victim's status does not retroactively alter the earlier
@@ -163,7 +156,6 @@ before the next question at `[264|03]`.
 > preparation; the Bhāṣya qualifies it as unreversed. In the contrasting
 > case, the arising of the noble Path changes the support so that an
 > incompatible ordinary action-course does not arise again.
-
 ## 10. OWL++ Seed
 
 ```text

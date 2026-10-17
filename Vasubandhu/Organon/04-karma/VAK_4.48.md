@@ -103,26 +103,16 @@ three within the meditative hierarchy.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Some maintain that the middle class exists even below, because it is the
 > maturation of the intermediate dhyāna, and because a maturation of the three
 > is accepted in which none is prior or posterior.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Some authorities maintain that karma whose maturation is experienced as
-> neither pain nor pleasure also occurs below the fourth dhyāna. The
-> intermediate dhyāna, where neither pleasant nor painful feeling occurs, is
-> invoked as one ground; scripture also recognizes the simultaneous maturation
-> of pleasant-, painful-, and neutral-result karmas, something possible only in
-> the Desire Realm. The distribution stated in VAK 4.47 is therefore the
-> predominant rule rather than an exceptionless one.
-
-The simultaneous force of `apūrvācarama`, the Desire-Realm restriction, and
-the qualification of the preceding rule as predominant are supplied by the
-Bhāṣya.
-
+> Some maintain that the middle class also exists below, because it is the
+> maturation of the intermediate dhyāna and because the maturation of the three
+> is accepted as neither prior nor posterior.
 ## 6. Philosophical Translation
 
 > Some maintain that the middle class exists even below, because it is the maturation of the intermediate dhyāna, and because a maturation of the three is accepted in which none is prior or posterior.
@@ -242,6 +232,13 @@ one dhātu
 
 ## 9. Interpretive Note
 
+**Translation note.** The simultaneous force of `apūrvācarama`, the Desire-Realm
+restriction, and the qualification of the preceding rule as predominant are supplied
+by the Bhāṣya. The Bhāṣya identifies the middle class as neutral-result karma and
+reads the three maturations as simultaneous, possible together only in the Desire
+Realm. It records differing explanations of the intermediate-dhyāna result and
+treats the preceding distribution as predominant, not exceptionless.
+
 **The field corrects the abstract rule**
 
 VAK 4.47 gave a clean distribution by level. VAK 4.48 tests it against the
@@ -280,8 +277,7 @@ This is the Organon contact. The alternative views, śāstra rejection, sūtra
 distribution, Desire-Realm restriction, and `bāhulika` qualification belong
 to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A general classification must be revised when the concrete field presents a
 > boundary case. The intermediate dhyāna lacks the feelings assigned by the
 > neighboring categories, while the Desire Realm permits all three karmic

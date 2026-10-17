@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> ते तु विज्ञप्त्यविज्ञप्ती कायविज्ञप्तिरिष्यते ।
->
-> संस्थानं न गतिर्यस्मात् संस्कृतं क्षणिकं व्ययात् ॥ ४.२ ॥
+```sanskrit
+ते तु विज्ञप्त्यविज्ञप्ती कायविज्ञप्तिरिष्यते ।
+संस्थानं न गतिर्यस्मात् संस्कृतं क्षणिकं व्ययात् ॥ ४.२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> te tu vijñaptyavijñaptī kāyavijñaptir iṣyate /
->
-> saṃsthānaṃ na gatir yasmāt saṃskṛtaṃ kṣaṇikaṃ vyayāt // 4.2 //
+```text
+te tu vijñaptyavijñaptī kāyavijñaptir iṣyate /
+saṃsthānaṃ na gatir yasmāt saṃskṛtaṃ kṣaṇikaṃ vyayāt // 4.2 //
+```
 
 VAK 4.01 identifies Cetanā as mental karma and distinguishes the bodily and
 verbal actions produced after intending. `Te` resumes those two actions. The
@@ -57,23 +59,16 @@ established by the following units.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Those two, however, are manifestation and non-manifestation. Bodily
 > manifestation is held to be configuration, not motion, because the
 > conditioned is momentary owing to its perishing.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Bodily and verbal action each possess a manifest and a non-manifest mode.
-> Bodily manifestation is held to be the body's determinate configuration
-> under the direction of consciousness, not the motion of one enduring thing
-> from place to place; for whatever is conditioned is momentary and perishes
-> where it arises.
-
-The distributive **each**, the body's being configured `cittavaśena`, “under
-the direction of consciousness,” and the denial of passage by one identical
-thing into another place are Bhāṣya determinations.
+> Those two actions, bodily and verbal, each have manifestation and
+> non-disclosing continuity. Bodily manifestation is configuration, not motion,
+> because whatever is conditioned perishes in the moment it arises.
 
 ## 6. Philosophical Translation
 
@@ -121,6 +116,10 @@ Bodily and verbal action → the two forms named in the verse; bodily manifestat
 
 ## 9. Interpretive Note
 
+**Translation note.** The distributive **each**, the body's being configured `cittavaśena`, “under
+the direction of consciousness,” and the denial of passage by one identical
+thing into another place are Bhāṣya determinations.
+
 ### Textual Connection
 
 VAK 4.01 identifies Cetanā as mental karma and distinguishes the bodily and
@@ -129,8 +128,6 @@ states that each has both modes, and examines bodily manifestation. The
 Bhāṣya's account of configuration and momentariness addresses bodily action;
 the positive constitution of `avijñapti` and the wider account of karmic
 continuity remain for the following verses.
-
-### Former Philosophical Translation
 
 ### Cetanā and Bodily Manifestation
 

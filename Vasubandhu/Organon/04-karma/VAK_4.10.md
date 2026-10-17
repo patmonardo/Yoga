@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> समुत्थानं द्विधा हेतुतत्क्षणोत्थानसंज्ञितम् ।
->
-> प्रवर्तकं तयोः आद्यं द्वितीयमनुवर्तकम् ॥ ४.१० ॥
+```sanskrit
+समुत्थानं द्विधा हेतुतत्क्षणोत्थानसंज्ञितम् ।
+प्रवर्तकं तयोः आद्यं द्वितीयमनुवर्तकम् ॥ ४.१० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> samutthānaṃ dvidhā hetu-tat-kṣaṇotthāna-saṃjñitam /
->
-> pravartakaṃ tayoḥ ādyam dvitīyam anuvartakam // 4.10 //
+```text
+samutthānaṃ dvidhā hetu-tat-kṣaṇotthāna-saṃjñitam /
+pravartakaṃ tayoḥ ādyam dvitīyam anuvartakam // 4.10 //
+```
 
 VAK 4.09 described actions and related products as wholesome or unwholesome
 through their originating condition. VAK 4.10 distinguishes two functions
@@ -40,20 +42,15 @@ The first pāda predicates `dvidhā` of `samutthānam` and names its two forms i
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Origination is twofold, designated as causal origination and origination in
 > that very moment. Of those two, the first is initiating; the second is
 > accompanying.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> There are two kinds of originating condition: one that projects and
-> initiates an action, and one present during the moment of its performance.
-> The first sets the action in motion; the second accompanies its execution.
-> Without the latter, an action already projected would not occur, like an
-> action in a corpse. The Bhāṣya leaves open how this account applies to
-> restraint arising without consciousness.
+> Origination is twofold: causal origination and origination in that very
+> moment. Of these, the first initiates, and the second accompanies.
 
 ## 6. Philosophical Translation
 
@@ -79,6 +76,8 @@ The first pāda predicates `dvidhā` of `samutthānam` and names its two forms i
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya explains the first origination as the prior condition that projects action and the second as the condition present during its performance; without the latter, the projected action would not occur, like action in a corpse. It raises but leaves unresolved the ethical classification of Great Elements and concentration-born *avijñapti*, especially restraint arising without consciousness.
+
 ### Textual Notes
 
 The Bhāṣya unit begins at [203|05–06] and runs through [203|18–19] in
@@ -91,8 +90,6 @@ as transmitted rather than silently completed. The opening questions about
 the ethical status of the Great Elements, concentration-born
 `avijñapti`, and the divine Eye and Ear are explicitly left for further
 effort in the Bhāṣya.
-
-### Former Philosophical Translation
 
 ### Interpretation
 

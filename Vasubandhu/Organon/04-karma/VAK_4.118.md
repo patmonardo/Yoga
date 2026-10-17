@@ -53,26 +53,16 @@ It does not make the five recipients into one spiritual-status class.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > An offering to one's mother, father, a sick person, a Dharma speaker, or
 > a Bodhisattva in the final birth is immeasurable, even when these
 > recipients are not noble persons.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> An offering to one's mother, father, a sick person, a Dharma speaker, or
-> a Bodhisattva in the final birth is immeasurable, even when these
-> recipients are not noble persons. The Bhāṣya says the result of offering
-> to these five is immeasurable even when they are ordinary persons.
-> It classifies the Dharma speaker among benefactors: a great beneficial
-> friend who gives the eye of the Science of Principles to people blinded
-> by ignorance, makes clear what is even and uneven, and—through a
-> textually uncertain verb—brings about the Dharma-body without influx.
-> In brief, the Dharma speaker performs Buddha-work.
-
-The fivefold count, the ordinary-person qualification, and the placement
-of the Dharma speaker among benefactors come from the Bhāṣya.
+> An offering to one's mother, father, a sick person, a Dharma speaker, or a
+> Bodhisattva in the final birth is immeasurable, even when these recipients are not
+> noble persons.
 
 ## 6. Philosophical Translation
 
@@ -98,7 +88,7 @@ of the Dharma speaker among benefactors come from the Bhāṣya.
 - **`Antyajanman` / `caramabhavika`** — final birth / one in the final
   existence; the Bhāṣya identifies this recipient as the Bodhisattva
   approaching Buddhahood.
-- **`Prajñācakṣus`** — the “eye” of the Science of Principles, which the
+- **`Prajñācakṣus`** — the “eye” of the discriminative comprehension, which the
   Dharma speaker gives to those blinded by ignorance.
 - **`Anāsrava-dharmakāya`** — Dharma-body without influx. The Bhāṣya
   witness's verb governing this phrase is uncertain.
@@ -135,6 +125,9 @@ preserves each term's local role.
 
 ## 9. Interpretive Note
 
+**Translation note.** The fivefold count, the ordinary-person qualification, and the placement
+of the Dharma speaker among benefactors come from the Bhāṣya. The informed translation also included: The Bhāṣya says the result of offering to these five is immeasurable even when they are ordinary persons. It classifies the Dharma speaker among benefactors: a great beneficial friend who gives the eye of the discriminative comprehension to people blinded by ignorance, makes clear what is even and uneven, and—through a textually uncertain verb—brings about the Dharma-body without influx. In brief, the Dharma speaker performs Buddha-work.
+
 VAK 4.117 distinguished recipient fields by destination, suffering,
 beneficence, and qualities. VAK 4.118 applies that account to five cases.
 The Dharma speaker is explicitly placed under beneficence, not merely
@@ -154,8 +147,7 @@ it reads `ātinivartayitā`; `abhinirvartayitā` is also conjectural. The
 translation marks the latter phrase's verb as uncertain rather than
 presenting the correction as certain.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The field of an offering is not measured by the recipient's noble status
 > alone. The Bhāṣya identifies distinct grounds: prior relation to parents,
 > present need in the sick, beneficent instruction from the Dharma speaker,

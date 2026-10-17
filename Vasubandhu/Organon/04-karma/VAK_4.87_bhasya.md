@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-prahāṇamārge samale saphalaṃ karma pañcabhiḥ /
-caturbhir amale 'nyac ca sāsravaṃ yac chubhāśubham // 4.87 //
-```
+> prahāṇamārge samale saphalaṃ karma pañcabhiḥ /
+> caturbhir amale 'nyac ca sāsravaṃ yac chubhāśubham // 4.87 //
 
-> In the Path of Abandonment with stain, action stands in all five
-> result-relations: maturation result, corresponding result,
-> disconnection-result, activity-produced result, and dominant result.
-> Action in the Path of Abandonment without Influx has four results, because
-> it lacks maturation-result. Other action with Influx, whether wholesome or
-> unwholesome, likewise has four, but lacks disconnection-result.
+> In the stained Path of Abandonment, action possesses five results. In the
+> unstained Path of Abandonment, it possesses four; other action with Influx,
+> wholesome or unwholesome, also possesses four.
 
 VAK 4.85 used a threefold practical account of results. This verse returns to
 the complete Abhidharma taxonomy of five results and asks which result

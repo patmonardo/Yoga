@@ -27,7 +27,7 @@ Bhāṣya: both restraints have both `smṛti` and `saṃprajñāna` as their na
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `anāgamye` | locative singular neuter of `anāgamya` | in the preliminary or threshold concentration |
 | `prahāṇākhyau` | nominative masculine dual, `prahāṇa-ākhya` | the two called “abandonment restraint” |
@@ -151,22 +151,17 @@ clear comprehension.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > In the preliminary concentration the two are called abandonment
 > restraints—those two born in the uninterrupted paths. Mind-restraint and
 > faculty-restraint, however, are [each] the two: clear comprehension and
 > recollection.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> In the preliminary concentration, meditation-born and uncontaminated
-> restraint, when born in the nine uninterrupted paths, are called
-> abandonment restraints. Mind-restraint and faculty-restraint, however, each
-> have a twofold nature: recollection and clear comprehension.
-
-“Meditation-born and uncontaminated,” “nine,” and “each have a twofold nature”
-are Bhāṣya-supplied resolutions of the kārikā’s compressed references.
+> In preliminary concentration, those two born in uninterrupted paths are called
+> abandonment [restraints]. Mind-restraint and Faculty-restraint, however, each
+> comprise clear comprehension and recollection.
 
 ## 6. Philosophical Translation
 
@@ -308,6 +303,8 @@ would leave the restraint incomplete.
 
 ## 9. Interpretive Note
 
+**Translation note.** “Meditation-born and uncontaminated,” the count of nine uninterrupted paths, and the distributive “each” are Bhāṣya-supplied resolutions of the compressed verse.
+
 **Yama reaches the producer of misconduct**
 
 The profound advance in VAK 4.18 is that restraint is no longer considered
@@ -390,8 +387,7 @@ teaching is the conditional designation of abandonment restraint, the
 cross-cutting classifications, and the dual cognitive nature of both
 mind-restraint and faculty-restraint.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Meditation-born and uncontaminated restraint acquire the further name
 > “abandonment restraint” only when, in the preliminary concentration, they
 > function within the nine uninterrupted paths to abandon misconduct and the

@@ -93,31 +93,18 @@ remainder with the seeing-abandoned class.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Other teachers understand the pair as karma to be experienced in hell and
 > karma to be experienced elsewhere in the Desire Realm, respectively. Still
 > others call karma abandoned by seeing black; the remaining Desire-Realm
 > karma is black-and-white.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Other teachers understand the pair as karma to be experienced in hell and
-> karma to be experienced elsewhere in the Desire Realm, respectively. Still
-> others call karma abandoned by seeing black; the remaining Desire-Realm
-> karma is black-and-white.
-
-The first group correlates the pair with black and black-and-white karma,
-respectively. In hell, only unwholesome karma matures; elsewhere in the
-Desire Realm, both wholesome and unwholesome karma mature. The second group
-calls karma abandoned by the Path of Seeing black because it is unmixed with
-wholesome karma. The remaining Desire-Realm karma is abandoned through
-cultivation and is black-and-white because it comprises both wholesome and
-unwholesome karma.
-
-The grounds supplied for both alternatives and the identification of the
-remainder are supplied by the Bhāṣya.
-
+> Some teachers identify the pair respectively with karma to be experienced in
+> hell and karma to be experienced elsewhere in the Desire Realm. Others
+> classify karma abandoned by seeing as black and the remaining Desire-Realm
+> karma as black-and-white.
 ## 6. Philosophical Translation
 
 > Other teachers understand the pair as karma to be experienced in hell and karma to be experienced elsewhere in the Desire Realm, respectively. Still others call karma abandoned by seeing black; the remaining Desire-Realm karma is black-and-white.
@@ -223,6 +210,22 @@ The same karma-field can be discriminated through either relation.
 
 ## 9. Interpretive Note
 
+**Translation note.** The first group correlates the pair with black and
+black-and-white karma, respectively. In hell, only unwholesome karma matures;
+elsewhere in the Desire Realm, both wholesome and unwholesome karma mature. The
+second group calls karma abandoned by the Path of Seeing black because it is unmixed
+with wholesome karma. The remaining Desire-Realm karma is abandoned through
+cultivation and is black-and-white because it comprises both wholesome and
+unwholesome karma. The first teachers correlate the pair with black and
+black-and-white karma: in hell only unwholesome karma matures, whereas elsewhere in
+the Desire Realm both wholesome and unwholesome karma mature. The other teachers
+call the karma abandoned by seeing black because it is unmixed with wholesome karma;
+the remaining Desire-Realm karma is abandoned by cultivation and contains both
+classes.
+
+The grounds supplied for both alternatives and the identification of the
+remainder are supplied by the Bhāṣya.
+
 **Abhidharma is a science of controlled discrimination**
 
 The verse does not leave us with arbitrary polysemy. It shows how different
@@ -270,8 +273,7 @@ This is the Organon contact. The alternative teachers, maturation-field
 arguments, and abandonment-mode arguments belong to the Bhāṣya; the explicit
 Rational/Practical formulation is project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A classificatory predicate receives determinate Meaning only through its
 > ground of division. “Black” can name karma by intrinsic ethical quality, by
 > the field in which its maturation occurs, or by the Path-operation through

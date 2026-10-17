@@ -2,15 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-mūlacchedastvasaddṛṣṭyā kāmāptotpattilābhinām /
-phalahetvapavādinyā sarvathā kramaśo nṛṣu // 4.79 //
-```
+> mūlacchedastvasaddṛṣṭyā kāmāptotpattilābhinām /
+> phalahetvapavādinyā sarvathā kramaśo nṛṣu // 4.79 //
 
-
-> Severance of the wholesome roots occurs through false view. It concerns
-> Desire-Realm roots acquired by birth, through a view denying result and
-> ground; completely, successively, among humans.
+> Among humans, false view denying causal ground and result severs the Desire-
+> Realm wholesome roots acquired by birth, completely and in sequence.
 
 False view now appears at its strongest practical degree. It no longer
 merely misclassifies one action: it can remove the generative bases through

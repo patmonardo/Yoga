@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-varṇādisampadā vastu surūpatvaṃ yaśasvi vā /
-priyatā sukumārartusukhasparśāṅgatā tataḥ // 4.116 //
-```
+> varṇādisampadā vastu surūpatvaṃ yaśasvi vā /
+> priyatā sukumārartusukhasparśāṅgatā tataḥ // 4.116 //
 
-> The gift-object is distinguished by excellence of color and the other
-> qualities. From giving such an object arise beauty, renown, belovedness,
-> delicacy of limbs, and limbs pleasant to touch according to the seasons.
+> The gift-object is distinguished by excellence of color and the other qualities.
+> From giving such an object arise beauty, renown, belovedness, delicacy of limbs,
+> and limbs pleasant to touch according to the seasons.
 
 The Bhāṣya specifies four qualities of the thing given and pairs them in
 order with the results. Touch carries two related bodily results.

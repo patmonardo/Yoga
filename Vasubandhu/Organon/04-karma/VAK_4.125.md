@@ -64,31 +64,16 @@ sequence beginning with `uṣman`.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Dharma-giving is the unafflicted exposition of sūtra and related
 > teachings as they are. Wholesome activity is threefold: merit-oriented,
 > nirvāṇa-oriented, and penetration-oriented.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Dharma-giving is the unafflicted exposition of sūtra and related
-> teachings as they are. Wholesome activity is threefold: merit-oriented,
-> nirvāṇa-oriented, and penetration-oriented. The Bhāṣya says that
-> exposition of an inverted Dharma, or exposition with an afflicted mind
-> seeking gain, honor, or fame, causes a great loss of merit. It explains
-> merit-oriented wholesomeness as having desirable maturation;
-> liberation-oriented wholesomeness, when it arises, makes one certain to
-> be destined for final nirvāṇa; and penetration-oriented wholesomeness as
-> the fourfold sequence beginning with `uṣman`, which it will explain
-> later. The Bhāṣya also treats horripilation and tears on hearing a
-> teaching about saṃsāra's drawbacks, non-self, and nirvāṇa's qualities
-> as a sign of an existing liberation-oriented wholesome root, like a
-> sprout indicating a seed.
-
-The verse states the three orientations; the explanation of their
-respective characteristics, the teaching-response sign, and the warning
-about afflicted exposition come from the Bhāṣya.
+> Dharma-giving is the unafflicted exposition of sūtra and related teachings as they
+> are. Wholesome activity is threefold: merit-oriented, nirvāṇa-oriented, and
+> penetration-oriented.
 
 ## 6. Philosophical Translation
 
@@ -152,6 +137,10 @@ penetration → fourfold sequence beginning with uṣman
 
 ## 9. Interpretive Note
 
+**Translation note.** The verse states the three orientations; the explanation of their
+respective characteristics, the teaching-response sign, and the warning
+about afflicted exposition come from the Bhāṣya. The informed translation also included: The Bhāṣya says that exposition of an inverted Dharma, or exposition with an afflicted mind seeking gain, honor, or fame, causes a great loss of merit. It explains merit-oriented wholesomeness as having desirable maturation; liberation-oriented wholesomeness, when it arises, makes one certain to be destined for final nirvāṇa; and penetration-oriented wholesomeness as the fourfold sequence beginning with `uṣman`, which it will explain later. The Bhāṣya also treats horripilation and tears on hearing a teaching about saṃsāra's drawbacks, non-self, and nirvāṇa's qualities as a sign of an existing liberation-oriented wholesome root, like a sprout indicating a seed.
+
 VAK 4.125 turns from material giving to Dharma-giving, then distinguishes
 three orientations of wholesome activity. The first definition makes
 transmission answerable both to the teaching's content and to the
@@ -179,8 +168,7 @@ discussion of material giving and ends by deferring the four stages of
 penetration for later explanation. The next topic, at `[275|01]`, asks
 about writing, seals, calculation, poetry, and number.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Dharma-giving is not mere transmission of words. It requires teaching
 > as things are and an unafflicted act of exposition. The two conditions
 > meet in a volitional practice: the teaching's content is not inverted,

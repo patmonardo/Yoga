@@ -65,25 +65,16 @@ names a different maximum for the fruit of disconnection.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > In Saṅgha division, false speech is regarded as the most culpable.
 > Among wholesome actions in the world, volition at the summit of becoming
 > has the greatest fruit.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Among the immediate-result actions, false speech producing Saṅgha
-> division is regarded as the most culpable. Among wholesome actions in
-> the world, volition at the summit of becoming is greatest with respect
-> to maturation-result. Its maturation is exceptionally tranquil and
-> endures for eighty thousand kalpas. With respect to disconnection-result,
-> however, volition of diamond-like concentration is greatest because its
-> fruit is the exhaustion of all fetters.
-
-The grounds for ranking Saṅgha-dividing false speech, the effects of
-division on communal practice, and the distinction between maturation-
-and disconnection-result are explained by the Bhāṣya.
+> In Saṅgha division, false speech is regarded as the most culpable. Among
+> wholesome actions in the world, volition at the summit of becoming has the
+> greatest maturation-result.
 
 ## 6. Philosophical Translation
 
@@ -139,6 +130,10 @@ the mapping is kept as the text presents it.
 
 ## 9. Interpretive Note
 
+**Translation note.** The grounds for ranking Saṅgha-dividing false speech, the effects of
+division on communal practice, and the distinction between maturation-
+and disconnection-result are explained by the Bhāṣya. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Among the immediate-result actions, false speech producing Saṅgha division is regarded as the most culpable. Among wholesome actions in the world, volition at the summit of becoming is greatest with respect to maturation-result. Its maturation is exceptionally tranquil and endures for eighty thousand kalpas. With respect to disconnection-result, however, volition of diamond-like concentration is greatest because its fruit is the exhaustion of all fetters.
+
 This verse puts *cetanā* at the center of its second comparison. It
 distinguishes the greatest wholesome volition **within the world** from
 the volition whose fruit is disconnection from all fetters. The first
@@ -157,15 +152,13 @@ explanation of `loke` at `[264|21]`. It stops before the next question,
 on whether only immediate-result actions necessarily lead to rebirth in
 hell, at `[264|22]`.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > “Greatest” is relative to what is being compared and to the kind of
 > result being measured. Volition at the summit of becoming has the
 > greatest maturation-result within wholesome action in the world; it is
 > not thereby the greatest with respect to liberation. The volition of
 > diamond-like concentration is greatest on the distinct axis of
 > disconnection-result.
-
 ## 10. OWL++ Seed
 
 ```text

@@ -30,7 +30,7 @@ The Bhāṣya resolves the compressed second quarter: one who is endowed with
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `prātimokṣānvitāḥ` | nominative masculine plural of `prātimokṣa-anvita` | endowed with prātimokṣa restraint |
 | `aṣṭau` | nominative masculine plural numeral | the eight disciplinary classes |
@@ -138,22 +138,16 @@ They—not prātimokṣa restraint—are predicated as following consciousness.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > The eight are endowed with prātimokṣa restraint. One endowed with that
 > [dhyāna] is endowed with the restraint born from dhyāna. Noble beings are
 > endowed with uncontaminated restraint. The latter two follow consciousness.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> The eight disciplinary classes are endowed with prātimokṣa restraint.
-> Whoever is endowed with dhyāna is necessarily endowed with the restraint
-> born from or in dhyāna. Noble beings are endowed with uncontaminated
-> restraint. Of the three restraints, the latter two follow consciousness.
-
-The words “disciplinary classes,” “necessarily,” “restraint,” and “of the
-three restraints” make explicit determinations supplied by the Bhāṣya. They
-are not additional words of the kārikā.
+> The eight [disciplinary classes] are endowed with prātimokṣa restraint; one
+> endowed with dhyāna is endowed with meditation-born restraint. Noble beings
+> have uncontaminated restraint. The latter two follow consciousness.
 
 ## 6. Philosophical Translation
 
@@ -297,6 +291,10 @@ Its end belongs to what kind of restraint it is.
 
 ## 9. Interpretive Note
 
+**Translation note.** The words “disciplinary classes,” “necessarily,” “restraint,” and “of the
+three restraints” make explicit determinations supplied by the Bhāṣya. They
+are not additional words of the kārikā.
+
 **Restraint persists according to its ground**
 
 VAK 4.16 showed restraint arising through the manifest and non-manifest
@@ -364,8 +362,7 @@ or with the Sarvāstivāda theory of avijñapti. It isolates a shared practical
 problem: how a discipline becomes continuously efficacious rather than
 remaining an occasional intention.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The three forms of restraint are distributed according to their bearers
 > and their grounds. Prātimokṣa restraint belongs to the eight classes that
 > undertake it. Restraint born from meditative absorption belongs necessarily

@@ -60,25 +60,16 @@ depends on action.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > At the beginning, at the end, before the excrescence, before the pair,
 > when the Sage has passed away, and while the boundary is unbound, division
 > of the wheel does not arise.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Division of the Dharma Chakra does not arise at the beginning or end,
-> before defects of discipline and view have arisen, before the foremost
-> pair of disciples has appeared, after the Sage has passed away, or while
-> the communal boundary remains unbound.
-
-The commentary explains that the beginning and end are times when the
-Saṅgha is `ekarasa`, one in tenor; that the two `arbuda` are defects of
-discipline and view; and that the pair is the foremost pair of disciples.
-It further says that division does not arise after the Sage has passed
-away because no rival remains, or before a common boundary is established.
-Its concluding qualification is that actual division depends on action.
+> Wheel-division does not arise at the beginning or end, before the *arbuda*,
+> before the pair [of foremost disciples], after the Sage has passed away, or
+> while the boundary is unbound.
 
 ## 6. Philosophical Translation
 
@@ -125,6 +116,13 @@ boundary to an actual `cakrabheda`.
 
 ## 9. Interpretive Note
 
+**Translation note.** The commentary explains that the beginning and end are times when the
+Saṅgha is `ekarasa`, one in tenor; that the two `arbuda` are defects of
+discipline and view; and that the pair is the foremost pair of disciples.
+It further says that division does not arise after the Sage has passed
+away because no rival remains, or before a common boundary is established.
+Its concluding qualification is that actual division depends on action. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Division of the Dharma Chakra does not arise at the beginning or end, before defects of discipline and view have arisen, before the foremost pair of disciples has appeared, after the Sage has passed away, or while the communal boundary remains unbound.
+
 The passage distinguishes conditions that make this division unavailable
 from the action on which its actual occurrence depends. It is therefore a
 useful causal-pipeline example: historical phase, internal condition,
@@ -141,15 +139,13 @@ about why killing parents and related actions count as actions of
 immediate result at `[262|20]`. The difficult phrase concerning the
 foremost pair is retained as uncertain.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > The Dharma Chakra's division is excluded where its historical or
 > institutional conditions are absent: before internal defects have
 > appeared, before the agents associated with reconciliation are present,
 > after the Teacher has passed away, and before one common boundary can
 > hold the two parties. Even when those conditions are available, division
 > is not automatic; its occurrence remains action-dependent.
-
 ## 10. OWL++ Seed
 
 ```text

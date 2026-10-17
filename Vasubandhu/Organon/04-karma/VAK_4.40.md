@@ -28,16 +28,11 @@ Bhāṣya-supported final compound:
 phalāpti-uttapti-hānibhiḥ
 ```
 
-Padapāṭha-style separation:
 
-```iast
-bhūmi-saṃcāra-hānibhyām dhyāna-āptam tyajyate śubham /
-tathā ārūpya-āptam āryam tu phala-āpti-uttapti-hānibhiḥ //
-```
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `bhūmisaṃcārahānibhyām` | ablative dual compound | through transition of ground and through falling away |
 | `dhyānāptam` | nominative neuter singular compound | acquired through dhyāna |
@@ -49,6 +44,9 @@ tathā ārūpya-āptam āryam tu phala-āpti-uttapti-hānibhiḥ //
 | `phalāpti` | compound member | attainment of a fruit |
 | `uttapti` | compound member | strengthening or sharpening |
 | `hāni` | compound member | falling away, regression, loss |
+
+
+**Word division (verse order).** `bhūmi-saṃcāra-hānibhyām dhyāna-āptam tyajyate śubham / tathā ārūpya-āptam āryam tu phala-āpti-uttapti-hānibhiḥ //`
 
 **`bhūmisaṃcāra`**
 
@@ -131,27 +129,19 @@ dharmas.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Wholesome determination acquired through dhyāna is relinquished through
 > transition of ground or falling away; that acquired through the formless
 > attainments is relinquished likewise. Noble determination, however, is
 > relinquished through attainment of a fruit, strengthening [of the
 > faculties], or falling away.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Wholesome dharmas acquired through dhyāna are lost when the practitioner
-> passes to another ground or falls away from the attainment; wholesome
-> dharmas belonging to the formless attainments are lost in the same two ways.
-> Uncontaminated noble dharmas have three modes of relinquishment: attainment
-> of a fruit relinquishes the preceding Path, strengthening the faculties
-> relinquishes the Path associated with weaker faculties, and regression
-> relinquishes a higher Path or, where possible, a fruit or an attainment
-> distinguished by that fruit.
-
-The specific dharmas relinquished under each noble cause are supplied by the
-Bhāṣya.
+> Wholesome determination acquired through dhyāna is relinquished through
+> transition of ground or falling away; that acquired through formless
+> attainments likewise. Noble determination, however, is relinquished through
+> fruit-attainment, strengthening of the faculties, or falling away.
 
 ## 6. Philosophical Translation
 
@@ -298,6 +288,9 @@ on the philological correction.
 
 ## 9. Interpretive Note
 
+**Translation note.** The specific dharmas relinquished under each noble cause are supplied by the
+Bhāṣya.
+
 **A form may cease because it succeeds**
 
 VAK 4.40 makes `tyāga` richer than simple destruction:
@@ -361,8 +354,7 @@ of determination that was acquired.
 This is the Organon contact. The two meditative causes, three noble causes,
 and the `uttapti` correction belong explicitly to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A determination may cease because its sustaining ground has been left, its
 > attainment has collapsed, its function has successfully produced its fruit,
 > or its subjective capacity has been strengthened beyond the form appropriate

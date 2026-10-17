@@ -64,7 +64,7 @@ aśubhasya [karmaṇaḥ]
 > under two, three, and four relations, respectively.
 
 `Anukramam` fixes the distribution and prevents the numerals from being read
-as an unstructured aggregate.
+as an unstructured collection.
 
 **Indeterminate causal action**
 
@@ -82,24 +82,16 @@ and their order. The distributive force of `anukramam` continues by ellipsis.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > For unwholesome action, the results for dharmas beginning with wholesome
 > number two, three, and four, respectively. For indeterminate action, these
 > same result-quality classes number two, three, and three.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Wholesome dharmas stand to unwholesome action through activity-produced
-> and dominant results; unwholesome dharmas through corresponding,
-> activity-produced, and dominant results; and indeterminate dharmas through
-> maturation, corresponding, activity-produced, and dominant results.
-> Wholesome dharmas stand to indeterminate action through activity-produced
-> and dominant results; both unwholesome and indeterminate dharmas stand to
-> it through corresponding, activity-produced, and dominant results.
-
-The exact relation-memberships and the cross-quality examples involving
-personality-view and extreme-view are supplied by the Bhāṣya.
+> For unwholesome action, wholesome, unwholesome, and indeterminate dharmas have
+> two, three, and four results, respectively. For indeterminate action, those
+> three classes have two, three, and three results, respectively.
 
 ## 6. Philosophical Translation
 
@@ -275,6 +267,9 @@ because its operation has the causal system itself as its practical content.
 
 ## 9. Interpretive Note
 
+**Translation note.** The exact relation-memberships and the cross-quality examples involving
+personality-view and extreme-view are supplied by the Bhāṣya. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Wholesome dharmas stand to unwholesome action through activity-produced and dominant results; unwholesome dharmas through corresponding, activity-produced, and dominant results; and indeterminate dharmas through maturation, corresponding, activity-produced, and dominant results. Wholesome dharmas stand to indeterminate action through activity-produced and dominant results; both unwholesome and indeterminate dharmas stand to it through corresponding, activity-produced, and dominant results.
+
 VAK 4.89 completes one of the most powerful pieces of causal analysis in the
 action chapter. The two verses encode a ternary relation: action quality,
 result-type, and resulting-dharma quality. A dictionary can define each
@@ -313,8 +308,7 @@ the Path is not an external remedy appended after the analysis of action: it
 is the immanent truth toward which the concept of Course of Action has been
 moving.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Causality does not proceed by copying the ethical quality of an action into
 > every result. Unwholesome and indeterminate actions can stand in determinate
 > relations to dharmas of every ethical quality. What joins source and result
@@ -338,7 +332,6 @@ The Path is not externally opposed to action. It is action raised to reflexive
 universality: a Course of Action capable of acting upon the causal form of
 Courses of Action. It is therefore the truth of a Course of Action, not
 merely one more item beside it.
-
 ## 10. OWL++ Seed
 
 ```text

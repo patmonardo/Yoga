@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-svaparārthobhayārthāya nobhayārthāya dīyate /
-tadviśeṣaḥ punar dātṛvastukṣetraviśeṣataḥ // 4.114 //
-```
+> svaparārthobhayārthāya nobhayārthāya dīyate /
+> tadviśeṣaḥ punar dātṛvastukṣetraviśeṣataḥ // 4.114 //
 
-> Giving is for one's own benefit, another's benefit, both, or neither.
-> Its further distinction depends on the distinction of the giver, the
-> thing given, and the recipient field.
+> Giving is for one's own benefit, another's benefit, both, or neither. Its further
+> distinction depends on the distinction of the giver, the thing given, and the
+> recipient field.
 
 The Bhāṣya separates benefit-scope from the further distinctions of giver,
 thing, and field.

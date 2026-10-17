@@ -2,18 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ānantaryāṇi karmāṇi tīvrakleśo 'tha durgatiḥ /
-kauravāsaṃjñisattvāś ca matam āvaraṇatrayam // 4.96 //
-```
+> ānantaryāṇi karmāṇi tīvrakleśo 'tha durgatiḥ /
+> kauravāsaṃjñisattvāś ca matam āvaraṇatrayam // 4.96 //
 
-### Bhāṣya-informed study translation
-
-> The five actions of *ānantarya* are action-obstruction. Recurrent
-> affliction, not merely affliction of occasional extreme force, is
-> affliction-obstruction. The three bad destinies, people of Uttarakuru, and
-> non-percipient beings are maturation-obstruction. These conditions obstruct
-> the noble Path and the wholesome roots preparatory to it.
+> The actions of immediate retribution, persistent affliction, and then bad
+> destinies, inhabitants of Uttarakuru, and non-percipient beings are held to be
+> the three obstructions.
 
 ## 2. Continuous Sanskrit Witness
 

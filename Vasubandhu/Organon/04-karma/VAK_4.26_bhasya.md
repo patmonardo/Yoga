@@ -2,18 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dhyānajo dhyānabhūmyaiva labhyate 'nāsravas tayā /
-āryayā prātimokṣākhyaḥ paravijñāpanādibhiḥ // 4.26 //
-```
+> dhyānajo dhyānabhūmyaiva labhyate 'nāsravas tayā /
+> āryayā prātimokṣākhyaḥ paravijñāpanādibhiḥ // 4.26 //
 
-> Meditation-born restraint is acquired together with contaminated
-> dhyāna-level consciousness—whether fundamental or preparatory—because the
-> two co-arise. Uncontaminated restraint is acquired when that meditative
-> ground is itself acquired as noble and uncontaminated. Prātimokṣa restraint
-> is ordinarily acquired through formal notification by another person or the
-> Saṃgha, while the verse’s “and the others” includes additional recognized
-> Vinaya modes that do not all depend upon another person’s manifestation.
+> Meditation-born restraint is acquired through a dhyāna ground;
+> uncontaminated restraint through that ground when noble; and prātimokṣa
+> restraint through notification by another and related means.
 
 The running unit starts with the question at [211|22] and ends with
 the conclusion at [212|09] in `Vasubandhu/Sources/kosabhasya.txt`.

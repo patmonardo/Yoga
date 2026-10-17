@@ -2,17 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kāmarūpajadevānāṃ dhyānajaḥ anāsravaḥ punaḥ /
-dhyānāntarāsaṃjñisattvavarjyānām apy arūpiṇām // 4.44 //
-```
+> kāmarūpajadevānāṃ dhyānajaḥ anāsravaḥ punaḥ /
+> dhyānāntarāsaṃjñisattvavarjyānām apy arūpiṇām // 4.44 //
 
 > Meditation-born restraint occurs among gods born in the Desire and Form
-> Realms; above the Form Realm it does not occur. Uncontaminated restraint
-> occurs among those born in the Desire and Form Realms, excluding those born
-> in the intermediate dhyāna and non-percipient beings. Formless beings also
-> possess uncontaminated restraint, but there it is possessed as an acquired
-> determination and is not presently manifest.
+> Realms. Uncontaminated restraint occurs among beings born in those Realms,
+> except those born in the intermediate dhyāna and non-percipient beings; it
+> also occurs among the formless.
 
 The verse continues the distribution begun in 4.43. Its complete
 Bhāṣya unit is [226|25]–[227|03] in

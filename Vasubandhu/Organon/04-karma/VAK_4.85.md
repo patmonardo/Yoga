@@ -104,29 +104,16 @@ example of killing.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > All Courses of Action are held to give dominant, corresponding, and
 > maturation results. From causing suffering, killing, and destroying
 > vitality, the result is threefold.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> All Courses of Action are held to give dominant, corresponding, and
-> maturation results. From causing suffering, killing, and destroying
-> vitality, the result is threefold.
->
-> The Bhāṣya specifies that this includes all ten unwholesome and ten
-> wholesome Courses of Action. It demonstrates the three relations through
-> killing: causing suffering corresponds to maturation in hell, killing to a
-> later short life, and destroying vitality to weakened external conditions.
-> It extends the same threefold structure to the other Courses of Action and
-> says wholesome results follow by reversal. The short-life case is not
-> simple production: killing is analyzed as an obstruction-ground relative
-> to human lifespan.
-
-The rebirth, human, environmental, obstruction-ground, and wholesome-reversal
-details belong to the Bhāṣya's explanation.
+> All wholesome and unwholesome Courses of Action are held to give dominant,
+> corresponding, and maturation results. The result is threefold: from causing
+> suffering, from killing, and from destroying vitality.
 
 ## 6. Philosophical Translation
 
@@ -273,6 +260,9 @@ through the agent, its subsequent relations, and its world.
 
 ## 9. Interpretive Note
 
+**Translation note.** The rebirth, human, environmental, obstruction-ground, and wholesome-reversal
+details belong to the Bhāṣya's explanation. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: All Courses of Action are held to give dominant, corresponding, and maturation results. From causing suffering, killing, and destroying vitality, the result is threefold. The Bhāṣya specifies that this includes all ten unwholesome and ten wholesome Courses of Action. It demonstrates the three relations through killing: causing suffering corresponds to maturation in hell, killing to a later short life, and destroying vitality to weakened external conditions. It extends the same threefold structure to the other Courses of Action and says wholesome results follow by reversal. The short-life case is not simple production: killing is analyzed as an obstruction-ground relative to human lifespan.
+
 VAK 4.85 gives a rational articulation of karmic consequence rather than a
 catalogue of supernatural rewards and punishments. The Bhāṣya asks what aspect
 of the deed is actualized in each result. Causing suffering, ending life, and
@@ -305,8 +295,7 @@ completion when objectivity reveals itself as the result of action and returns
 as the presupposition of the acting subject. Anuśaya can then begin from that
 result as inwardly sedimented conditioning.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A deed does not vanish into the past when its visible performance ends. Its
 > determination becomes objective in several irreducible relations: it forms
 > the agent's future actuality, returns as a corresponding determination of
@@ -333,7 +322,6 @@ It completes as a world-producing and agent-producing determination. This is
 why the Karma chapter can conclude Objective Logic and prepare the transition
 to Anuśaya: what action has produced objectively will appear next as the
 conditioned interior organization of the agent.
-
 ## 10. OWL++ Seed
 
 ```text

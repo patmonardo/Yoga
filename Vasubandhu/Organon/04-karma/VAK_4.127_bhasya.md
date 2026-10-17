@@ -2,15 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-sāvadyā nivṛtā hīnāḥ kliṣṭā dharmāḥ śubhāmalāḥ /
-praṇītāḥ saṃskṛtaśubhāḥ sevyāḥ mokṣas tv anuttaraḥ // 4.127 //
-```
+> sāvadyā nivṛtā hīnāḥ kliṣṭā dharmāḥ śubhāmalāḥ /
+> praṇītāḥ saṃskṛtaśubhāḥ sevyāḥ mokṣas tv anuttaraḥ // 4.127 //
 
-> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,”
-> “stainless,” and “excellent” are designations for Dharmas. Conditioned
-> wholesome Dharmas are to be cultivated; liberation, however, is
-> unsurpassed.
+> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,” “stainless,”
+> and “excellent” are designations for Dharmas. Conditioned wholesome Dharmas are to
+> be cultivated; liberation, however, is unsurpassed.
 
 The Bhāṣya explicitly glosses `praṇīta` (“excellent”) as a designation
 for wholesome Dharmas without influx.
@@ -110,7 +107,7 @@ wholesome and permanent. The chapter's causal analysis has a limit: its
 means can be classified and cultivated, but liberation is not one more
 conditioned product within that scheme.
 
-## 5. Textual and Scope Notes
+## 5. Review Status
 
 The verse's `śubhāmalāḥ` and `praṇītāḥ` are retained as separate
 expressions. The explicit Bhāṣya gloss ties `praṇīta` to wholesome

@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-cakṣuḥ śrotramanaścittairanubhūtaṃ tribhiśca yat /
-taddṛṣṭaśrutavijñātaṃ mataṃ coktaṃ yathākramam // 4.75 //
-```
+> cakṣuḥ śrotramanaścittairanubhūtaṃ tribhiśca yat /
+> taddṛṣṭaśrutavijñātaṃ mataṃ coktaṃ yathākramam // 4.75 //
 
-> What is experienced through consciousness associated with the eye, ear,
-> and Mind, and through the three other consciousnesses, is called seen,
-> heard, known, and thought, respectively.
+> What is experienced through consciousness associated with the eye, ear, and
+> Mind, and through the three other consciousnesses, is called seen, heard,
+> known, and thought, respectively.
 
 The verse states a Vaibhāṣika allocation of four modes of assertion to the
 six kinds of sensory and mental Cognition. The Bhāṣya presents its scriptural

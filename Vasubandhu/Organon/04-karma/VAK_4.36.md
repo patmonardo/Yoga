@@ -14,12 +14,7 @@ saṃvaraḥ sarvasattvebhyo vibhāṣā tv aṅgakāraṇaiḥ /
 asaṃvaras tu sarvebhyaḥ sarvāṅgebhyo na kāraṇaiḥ // 4.36 //
 ```
 
-Padapāṭha-style separation:
 
-```iast
-saṃvaraḥ sarva-sattvebhyaḥ vibhāṣā tu aṅga-kāraṇaiḥ /
-asaṃvaraḥ tu sarvebhyaḥ sarva-aṅgebhyaḥ na kāraṇaiḥ //
-```
 
 The verse analyzes restraint and non-restraint along three axes: beings,
 karmic limbs, and causes. The Bhāṣya gives two possible meanings of `kāraṇa`,
@@ -27,7 +22,7 @@ then uses degrees of mental strength in its detailed classification.
 
 ## 3. Lexical Analysis
 
-| Form | Morphology | Lexical value here |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `saṃvaraḥ` | nominative masculine singular | restraint |
 | `sarvasattvebhyaḥ` | ablative plural compound | with respect to all beings |
@@ -38,6 +33,9 @@ then uses degrees of mental strength in its detailed classification.
 | `sarvebhyaḥ` | ablative plural | with respect to all [beings] |
 | `sarvāṅgebhyaḥ` | ablative plural compound | with respect to all karmic limbs |
 | `na kāraṇaiḥ` | instrumental plural under negation | not through all causes |
+
+
+**Word division (verse order).** `saṃvaraḥ sarva-sattvebhyaḥ vibhāṣā tu aṅga-kāraṇaiḥ / asaṃvaraḥ tu sarvebhyaḥ sarva-aṅgebhyaḥ na kāraṇaiḥ //`
 
 **`sarvasattvebhyaḥ`**
 
@@ -147,24 +145,17 @@ fewer beings within those predicates
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Restraint is acquired with respect to all beings, but there are
 > differentiated alternatives according to its limbs and causes.
 > Non-restraint, however, is acquired with respect to all beings and all
 > limbs, though not through all causes.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> Prātimokṣa restraint necessarily extends to all beings, although its
-> karmapatha-limbs vary with the kind of restraint undertaken and its causal
-> strength may be weak, medium, or strong. According to the Vaibhāṣikas,
-> non-restraint likewise extends to all beings and includes all the relevant
-> karmapathas, but it is acquired through only one degree of mind at a time,
-> not through weak, medium, and strong minds simultaneously.
-
-The identification of causes with degrees of mind and the attribution of the
-complete non-restraint account to the Vaibhāṣikas are supplied by the Bhāṣya.
+> Restraint is acquired with respect to all beings, though its limbs and
+> causes admit distinctions. Non-restraint is acquired with respect to all
+> beings and through all limbs, but not through causes.
 
 ## 6. Philosophical Translation
 
@@ -264,11 +255,11 @@ decrease whenever a being moved into or out of practical reach.
 
 A person may acquire non-restraint with a weak mind and later perform a strong
 manifest killing. The standing non-restraint remains weak; the current
-killing-manifestation may be strong.
+killing-disclosure may be strong.
 
 ```text
 strength of acquired non-restraint
-    ≠ strength of every later manifestation
+    ≠ strength of every later disclosure
 ```
 
 **School dispute over partial forms**
@@ -347,12 +338,15 @@ strength at acquisition
     determines standing non-restraint
 
 strength of later mind
-    determines current manifestation
+    determines current disclosure
 ```
 
 Later intensity does not retrospectively rewrite the acquired form.
 
 ## 9. Interpretive Note
+
+**Translation note.** The identification of causes with degrees of mind and the attribution of the
+complete non-restraint account to the Vaibhāṣikas are supplied by the Bhāṣya.
 
 **A universal practical relation**
 
@@ -412,8 +406,7 @@ restraint or non-restraint.
 This is the Organon contact. The three axes, four combinations, five possible
 restrictions, reachability argument, and school dispute belong to the Bhāṣya.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A restraint can be universal in extension without containing every possible
 > practical predicate. Its non-killing limb, for example, excludes every
 > being from the class of permitted victims, while the particular discipline

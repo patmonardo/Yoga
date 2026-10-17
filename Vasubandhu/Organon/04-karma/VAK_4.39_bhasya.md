@@ -2,18 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-patanīyena cety eke saddharmāntardhito 'pare /
-dhanarṇavat tu kāśmīrair āpannasyeṣyate dvayam // 4.39 //
-```
+> patanīyena cety eke saddharmāntardhito 'pare /
+> dhanarṇavat tu kāśmīrair āpannasyeṣyate dvayam // 4.39 //
 
-> Some authorities hold that committing one of the four root downfall
-> offenses destroys bhikṣu or śrāmaṇera restraint. Others hold that
-> prātimokṣa restraint is lost when the true Dharma and its disciplinary
-> institutions disappear. The Kāśmīra Vaibhāṣikas reject both simple losses
-> and maintain instead that the grave offender still possesses the earlier
-> restraint together with the newly incurred misconduct, just as one person
-> may possess both wealth and debt.
+> Some say restraint is lost through a downfall offense, others when the true
+> Dharma disappears; the Kāśmīras hold that the offender possesses both
+> restraint and non-restraint, as with wealth and debt.
 
 The complete unit runs from [223|01] through [224|17–18] in
 `Vasubandhu/Sources/kosabhasya.txt`. The new question about

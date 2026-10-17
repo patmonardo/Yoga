@@ -2,14 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-prāṇātipātaḥ saṃcintya parasyābhrāntimāraṇam /
-adattādānamanyasvasvīkriyā balacauryataḥ // 4.73 //
-```
+> prāṇātipātaḥ saṃcintya parasyābhrāntimāraṇam /
+> adattādānamanyasvasvīkriyā balacauryataḥ // 4.73 //
 
-> Killing is the deliberate, non-mistaken killing of another. Taking what
-> is not given is the appropriation of another's possession by force or
-> stealth.
+> Killing is the deliberate, non-mistaken killing of another. Taking what is
+> not given is the appropriation of another's possession by force or stealth.
 
 The Bhāṣya begins the `lakṣaṇa`, the constitutive definition, of each
 course. The visible event is insufficient: intention, recognition of the
@@ -119,7 +116,7 @@ decision before striking: “Whoever it is, let it be.” This already
 constitutes a `tyāga-citta`, a consciousness resolved on relinquishing
 life.
 
-How can killing occur when the aggregates are momentary? One account calls
+How can killing occur when the Bases are momentary? One account calls
 `prāṇa` a vital wind supported by body and consciousness: killing brings
 that to an end, as one extinguishes a lamp or stops the sound of a bell.
 Alternatively, `prāṇa` is the Life Faculty, and one brings that to

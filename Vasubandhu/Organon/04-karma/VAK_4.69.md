@@ -100,28 +100,18 @@ here as the aftermath rather than merely an abstract ending.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Because they arise immediately after those roots, covetousness and the
 > others are born from the three roots. The wholesome courses, together with
 > preparation and aftermath, are born from non-greed, non-hatred, and
 > non-delusion.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Because they arise immediately after them, covetousness and the other mental
 > courses are born from the three roots. The wholesome courses, together with
 > their preparation and aftermath, are born from non-greed, non-hatred, and
 > non-delusion.
-
-The Bhāṣya classifies each mental course by the unwholesome root immediately
-preceding its occurrence. It explains that wholesome courses arise from
-wholesome consciousness, necessarily associated with non-greed, non-hatred,
-and non-delusion. Their preparation, principal phase, and aftermath are
-abstentions from the corresponding phases of an unwholesome course.
-
-The rule of immediate antecedence, the wholesome-consciousness explanation,
-and the threefold abstention analysis are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -273,6 +263,15 @@ determination as well as wrongdoing.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya classifies each mental course by the unwholesome root immediately
+preceding its occurrence. It explains that wholesome courses arise from
+wholesome consciousness, necessarily associated with non-greed, non-hatred,
+and non-delusion. Their preparation, principal phase, and aftermath are
+abstentions from the corresponding phases of an unwholesome course.
+
+The rule of immediate antecedence, the wholesome-consciousness explanation,
+and the threefold abstention analysis are supplied by the Bhāṣya.
+
 **Ground becomes operative through process**
 
 The root does not stand beside the course as an isolated explanatory label.
@@ -315,8 +314,7 @@ association with wholesome roots, abstention across the three phases, and the
 ordination example belong to the Bhāṣya; the account of their unity as the
 genesis of Practical Form is the project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > A root is not yet a determinate course of action. On the unwholesome side,
 > the root becomes causally legible through the mental course that immediately
 > follows it. On the wholesome side, non-greed, non-hatred, and non-delusion

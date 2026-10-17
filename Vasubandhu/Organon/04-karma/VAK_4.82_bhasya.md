@@ -2,10 +2,8 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-bhinnapralāpapāruṣyavyāpādā narake dvidhā /
-samanvāgamato 'bhidhyāmithyādṛṣṭī kurau trayaḥ // 4.82 //
-```
+> bhinnapralāpapāruṣyavyāpādā narake dvidhā /
+> samanvāgamato 'bhidhyāmithyādṛṣṭī kurau trayaḥ // 4.82 //
 
 > In hell, disordered or frivolous speech, harsh speech, and ill will occur in
 > both modes; covetousness and false view occur by endowment. In Kuru, the

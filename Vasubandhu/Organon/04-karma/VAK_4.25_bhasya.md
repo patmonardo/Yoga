@@ -2,16 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-vijñaptyaivānvitaḥ kurvan madhyastho mṛducetanaḥ /
-tyaktānutpannavijñaptir avijñapty āryapudgalaḥ // 4.25 //
-```
+> vijñaptyaivānvitaḥ kurvan madhyastho mṛducetanaḥ /
+> tyaktānutpannavijñaptir avijñapty āryapudgalaḥ // 4.25 //
 
-> A middle-position person performing wholesome or unwholesome action with
-> weak intention possesses the manifest action alone, without avijñapti. A
-> noble person whose corresponding manifestation has either not yet arisen
-> after transition into another birth or has been abandoned possesses
-> avijñapti alone, without vijñapti.
+> A person established in neither restraint nor non-restraint, acting with
+> weak intention, is endowed with disclosure alone. A noble person whose
+> disclosure is relinquished or has not arisen is endowed with non-disclosing
+> continuity alone.
 
 The Bhāṣya unit begins with the four-cornered question at [211|12]
 and runs through its closing statement at [211|20–21] in

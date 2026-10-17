@@ -5,19 +5,10 @@
 > śīlaṃ sucaritaṃ karma saṃvaraś cocyate punaḥ /
 > ādye vijñaptyavijñaptī prātimokṣakriyāpathaḥ // 4.16 //
 
-> Restraint is called discipline because it is undertaken as abstention
-> from improper actions; good conduct because learned persons praise it;
-> action because its nature is activity; and restraint because it
-> contains body and speech. The objection that non-disclosing continuity
-> is non-action is answered by distinguishing the deed prevented from
-> the restraint itself: evil is not performed through the restraint, yet
-> the restraint is produced through manifestation and consciousness.
-> Others explain it as a cause and a result of activity. In the first
-> moment of undertaking restraint, both manifestation and non-disclosing
-> continuity are called *prātimokṣa*; in later moments, the continuing
-> state is *prātimokṣasaṃvara*, not *prātimokṣa* in that strict sense.
-> The commentary also calls it an action-course insofar as it belongs
-> to the fundamental phase.
+
+> It is called discipline, good conduct, action, and restraint. In the first
+> moment, manifestation and non-disclosing continuity are the *prātimokṣa*
+> course of action.
 
 This is the Bhāṣya-informed study translation in `VAK_4.16.md`. The
 commentary unit runs from [207|07] through [207|21]; the next question

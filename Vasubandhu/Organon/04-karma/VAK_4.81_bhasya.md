@@ -2,10 +2,8 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-yugapad yāvad aṣṭābhir aśubhaiḥ saha vartate /
-cetanā daśabhir yāvac chubhair naikāṣṭapañcabhiḥ // 4.81 //
-```
+> yugapad yāvad aṣṭābhir aśubhaiḥ saha vartate /
+> cetanā daśabhir yāvac chubhair naikāṣṭapañcabhiḥ // 4.81 //
 
 > Volition occurs simultaneously with up to eight unwholesome Courses of
 > Action; with up to ten wholesome Courses of Action, but not with one, eight,

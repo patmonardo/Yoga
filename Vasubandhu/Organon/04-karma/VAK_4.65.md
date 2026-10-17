@@ -14,13 +14,6 @@ aśubhaṃ kāyakarmādi mataṃ duścaritatrayam /
 akarmāpi tv abhidhyādi manoduścaritaṃ tridhā // 4.65 //
 ```
 
-Word division:
-
-```iast
-aśubham kāya-karma-ādi matam duścarita-trayam /
-akarma api tu abhidhyā-ādi manaḥ-duścaritam tridhā //
-```
-
 The second half explicitly includes three mental bad conducts that are not
 karma in their own nature.
 
@@ -29,14 +22,13 @@ karma in their own nature.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aśubham` | nominative neuter singular | unwholesome |
-| `kāyakarmādi` | nominative neuter singular compound | bodily karma and the remaining verbal and mental karmas |
+| `kāya-karma-ādi` | nominative neuter singular compound | bodily karma and the remaining verbal and mental karmas |
 | `matam` | nominative neuter singular past participle | held; considered |
-| `duścaritatrayam` | nominative neuter singular compound | the threefold bad conduct |
+| `duścarita-trayam` | nominative neuter singular compound | the threefold bad conduct |
 | `akarma` | nominative neuter singular | not karma in the strict sense |
 | `api tu` | concessive and contrastive particles | even though; but nevertheless |
-| `abhidhyā` | compound member | covetousness |
-| `ādi` | compound member | beginning with; including the remaining two |
-| `manoduścaritam` | nominative neuter singular compound | mental bad conduct |
+| `abhidhyā-ādi` | compound | covetousness and the other two mental courses |
+| `manaḥ-duścaritam` | nominative neuter singular compound | mental bad conduct |
 | `tridhā` | adverb | threefold |
 
 **The three mental bad conducts**
@@ -98,27 +90,16 @@ conduct does not entail classification as karma.
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > Unwholesome bodily karma and the rest are held to be the threefold bad
 > conduct. But covetousness and the others, although not karma, constitute
 > threefold mental bad conduct.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
 > Unwholesome bodily action and the rest are held to be the three kinds of bad
 > conduct. Yet mental bad conduct beginning with covetousness is threefold,
 > even though it is not itself karma.
-
-The Bhāṣya identifies the first three as unwholesome bodily, verbal, and
-mental karma, each classified as the corresponding bad conduct. It adds that
-covetousness, ill will, and false view are distinct in meaning from volition
-and are not karma in their own nature. The Vaibhāṣika explanation is that
-volition proceeds through these afflictive avenues; the sūtra indicates
-volition through them without identifying affliction with karma.
-
-The Dārṣṭāntika position, Vaibhāṣika resolution, and distinction from `cetanā`
-are supplied by the Bhāṣya.
 
 ## 6. Philosophical Translation
 
@@ -261,6 +242,16 @@ The practical field is broader than the field of executed karmic acts.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya identifies the first three as unwholesome bodily, verbal, and
+mental karma, each classified as the corresponding bad conduct. It adds that
+covetousness, ill will, and false view are distinct in meaning from volition
+and are not karma in their own nature. The Vaibhāṣika explanation is that
+volition proceeds through these afflictive avenues; the sūtra indicates
+volition through them without identifying affliction with karma.
+
+The Dārṣṭāntika position, Vaibhāṣika resolution, and distinction from `cetanā`
+are supplied by the Bhāṣya.
+
 **Kleśa as a volitional avenue, not karma**
 
 The Bhāṣya supports a mediated relation, not an identity:
@@ -315,8 +306,7 @@ This is the Organon contact. The school dispute, categorical objection,
 scriptural resolution, and undesirable-result definition belong to the Bhāṣya;
 Rational Karma is project synthesis.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Bad conduct has a broader extension than strict karma. Covetousness, hostility,
 > and false view already constitute bad mental conduct because they configure
 > the avenue through which volition proceeds, yet they are not themselves

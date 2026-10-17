@@ -2,15 +2,13 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-upakāriguṇakṣetranirākṛtivipādanāt /
-vyañjanāntarito 'pi syān mātā yacchoṇitodbhavaḥ // 4.103 //
-```
+> upakāriguṇakṣetranirākṛtivipādanāt /
+> vyañjanāntarito 'pi syān mātā yacchoṇitodbhavaḥ // 4.103 //
 
-> The immediate-result classification arises from repudiating a benefactor
-> and destroying a field of qualities. A change in sexual characteristic
-> does not erase parentage; for the technical maternity criterion, the
-> mother is the woman from whose maternal blood the living being arose.
+> Because of abandoning a benefactor and destroying a field of qualities, an
+> immediate-retribution action is incurred. Even if sexual characteristics have
+> changed, parentage may remain: the mother is she from whose blood the living
+> being arose.
 
 ## 2. Continuous Sanskrit Witness
 

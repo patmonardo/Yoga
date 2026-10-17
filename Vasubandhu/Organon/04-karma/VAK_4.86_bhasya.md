@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-lobhajaṃ kāyavākkarma mithyājīvaḥ pṛthak kṛtaḥ /
-duḥśodhatvāt pariṣkāralobhotthaṃ cen na sūtrataḥ // 4.86 //
-```
+> lobhajaṃ kāyavākkarma mithyājīvaḥ pṛthak kṛtaḥ /
+> duḥśodhatvāt pariṣkāralobhotthaṃ cen na sūtrataḥ // 4.86 //
 
 > Bodily or verbal action born from greed is wrong livelihood. It is treated
-> separately because it is difficult to purify. If wrong livelihood is said
-> to arise only from greed for requisites—no, not according to the sūtra.
+> separately because it is difficult to purify. If it is claimed to arise only
+> from greed for requisites—no, not according to the sūtra.
 
 The verse explains why the Noble Eightfold Path names wrong livelihood in
 addition to wrong speech and wrong action. The difference is one of causal

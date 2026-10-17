@@ -2,19 +2,14 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-asaṃvaraḥ saṃvarāptimṛtyudvivyañjanodayaiḥ /
-vegādānakriyārthāyurmūlacchedais tu madhyamā // 4.41 //
-```
+> asaṃvaraḥ saṃvarāptimṛtyudvivyañjanodayaiḥ /
+> vegādānakriyārthāyurmūlacchedais tu madhyamā // 4.41 //
 
-> Established non-restraint is cut off when a stronger contrary restraint is
-> acquired, when the bearer dies, or when the qualifying bodily support is
-> disrupted by the arising of both sexual characteristics. Avijñapti that is
-> neither complete restraint nor complete non-restraint ceases in six ways:
-> when its projected force is exhausted, its undertaking is relinquished, its
-> activity is discontinued, the enduring realization of its Idea is
-> destroyed, its bearer’s life ends, or its supporting wholesome roots are
-> severed.
+> Non-restraint is relinquished through acquisition of restraint, death, or
+> the arising of both sexual characteristics. Other non-disclosing continuity
+> ceases through exhaustion of force, relinquishment of its undertaking,
+> cessation of activity, fulfillment of purpose, end of lifespan, or severance
+> of roots.
 
 The natural unit starts at [225|03] and ends at [225|20–21] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next verse begins with

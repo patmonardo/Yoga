@@ -5,13 +5,10 @@
 > kāme 'pi nivṛtā nāsti samutthānam asad yataḥ /
 > paramārthaśubho mokṣaḥ svato mūlahryapatrapāḥ // 4.08 //
 
-> Obscured-indeterminate manifestation does not occur in the desire realm; the
-> Bhāṣya reports it in Brahmaloka. The commentary explains its absence in the
-> desire realm, and above Brahmaloka, by the absence of the required
-> originating consciousness. Liberation—nirvāṇa—is wholesome ultimately,
-> because it is the complete pacification of suffering and supreme security.
-> The three wholesome roots, `hrī`, and `apatrāpya` are wholesome by intrinsic
-> nature, not through dependence on another wholesome factor.
+
+> Even in the desire realm, obscured manifestation does not arise because its
+> originating condition is absent. Liberation is ultimately wholesome; the
+> roots, *hrī*, and *apatrāpya* are wholesome by their own nature.
 
 `Vijñapti` is understood in the first clause and supplied explicitly by the
 Bhāṣya. The commentary introduces four grounds of ethical predication; this

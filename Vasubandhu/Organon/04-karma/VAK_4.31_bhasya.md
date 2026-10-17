@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-sarve cet saṃvṛtā ekadeśakāryādayaḥ katham /
-tatpālanāt kila proktā mṛdvāditvaṃ yathā manaḥ // 4.31 //
-```
+> sarve cet saṃvṛtā ekadeśakāryādayaḥ katham /
+> tatpālanāt kila proktā mṛdvāditvaṃ yathā manaḥ // 4.31 //
 
-> If all upāsakas are established in lay restraint, how can the Buddha speak
-> of one-part, partial, predominantly practicing, and fully practicing lay
-> followers? According to the received explanation, they are designated by
-> the particular training rules they preserve. Restraint itself, however, may
-> be weak, medium, or strong, just as the mind of the person who bears it may
-> be weak, medium, or strong.
+> If all are restrained, how can there be one-part practitioners and the rest?
+> They are said to be so according to what they preserve, it is said;
+> [restraint] has degrees of weakness and the like, as does the mind.
 
 The running unit extends from [215|14] through [216|12–13] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about refuge at

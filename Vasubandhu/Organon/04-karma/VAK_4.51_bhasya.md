@@ -2,19 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-catuṣkoṭikam ity anye nikāyākṣepaṇaṃ tribhiḥ /
-sarvatra catur ākṣepaḥ śubhasya narake tridhā // 4.51 //
-```
+> catuṣkoṭikam ity anye nikāyākṣepaṇaṃ tribhiḥ /
+> sarvatra catur ākṣepaḥ śubhasya narake tridhā // 4.51 //
 
-> The Dārṣṭāntikas analyze karma through four alternatives by distinguishing
-> whether its temporal stage is fixed and whether maturation itself is fixed.
-> Of the four temporal kinds, three can project a future rebirth-continuum;
-> present-life-result karma cannot, since it fruits within the life already
-> established. All four kinds may generally be undertaken throughout the three
-> Realms and destinies as applicable. In hell, however, wholesome karma is only
-> threefold because present-life-result wholesome karma has no desirable
-> maturation there.
+> Others set out four alternatives. Three kinds project a rebirth-continuum. In
+> general, all four kinds may be undertaken everywhere; wholesome karma in hell
+> is threefold.
 
 The unit runs from [230|08] through the explanation of the hell
 exception at [230|24–25]. The next kārikā begins at [230|26].

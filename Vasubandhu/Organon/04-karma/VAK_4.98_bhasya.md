@@ -2,18 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-saṃghabhedas tv asāmagrīsvabhāvo viprayuktakaḥ /
-akliṣṭāvyākṛto dharmaḥ saṃghas tena samanvitaḥ // 4.98 //
-```
+> saṃghabhedas tv asāmagrīsvabhāvo viprayuktakaḥ /
+> akliṣṭāvyākṛto dharmaḥ saṃghas tena samanvitaḥ // 4.98 //
 
-### Bhāṣya-informed study translation
-
-> The division itself must be distinguished from the action that produces
-> it. Strictly considered, Saṅgha division is the condition of non-concord,
-> a conditioned formation dissociated from consciousness and classified as
-> non-afflicted and indeterminate. This resulting condition belongs to the
-> Saṅgha that has been divided, not to the agent who divided it.
+> Saṅgha division has non-concord as its nature; it is a dissociated,
+> non-afflicted, indeterminate Dharma. The Saṅgha is endowed with it.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dvāviṃśatividhaṃ kāmeṣv ākṣipaty antarābhavaḥ /
-dṛṣṭadharmaphalaṃ tac ca nikāyo hy eka eva saḥ // 4.53 //
-```
+> dvāviṃśatividhaṃ kāmeṣv ākṣipaty antarābhavaḥ /
+> dṛṣṭadharmaphalaṃ tac ca nikāyo hy eka eva saḥ // 4.53 //
 
-> In Desire-Realm intermediate existence, karma can be produced for each of
-> eleven stages—the intermediate state itself, five embryonic stages, and five
-> stages after birth—with each kind either determinate or indeterminate, making
-> twenty-two. The eleven determinate kinds count as present-existence-result
-> karma because intermediate existence and the ten stages that follow form one
-> and the same karmically projected rebirth-class continuum.
+> In the Desire Realm, intermediate existence projects twenty-two kinds of
+> karma. The determinate kinds have their result in the present existence, since
+> the rebirth-class continuum is one and the same.
 
 The Bhāṣya unit begins with the question at [231|09] and ends at
 [231|20–21]. The next question, about which karma is determinate,

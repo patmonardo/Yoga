@@ -73,22 +73,14 @@ are excluded separately, not described as “non-mental acquisitions.”
 
 ## 5. Translation
 
-### Literal
-
+### Literal Translation
 > One action projects one birth; the completing action is multiple. The two
 > non-mental attainments are not projectors, nor are acquisitions.
 
-### Bhāṣya-informed
+### Bhāṣya-informed study translation
 
-> One action projects one `nikāyasabhāga`, one common class of beings, and
-> does not project many such births. Many actions may project one class
-> together, rather than projecting it in fragments. Many completing actions
-> fill out that birth's particular features. The two non-mental attainments
-> do not project a birth-class, nor do acquisitions.
-
-The Aniruddha example, the two explanations of his remembered births, the
-painter analogy, and the stated grounds for excluding attainments and
-acquisitions belong to the Bhāṣya.
+> One action projects one birth; many actions complete it. The two non-mental
+> attainments do not project birth, nor do acquisitions.
 
 ## 6. Philosophical Translation
 
@@ -138,6 +130,10 @@ beyond what the passage states.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Aniruddha example, the two explanations of his remembered births, the
+painter analogy, and the stated grounds for excluding attainments and
+acquisitions belong to the Bhāṣya. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: One action projects one `nikāyasabhāga`, one common class of beings, and does not project many such births. Many actions may project one class together, rather than projecting it in fragments. Many completing actions fill out that birth's particular features. The two non-mental attainments do not project a birth-class, nor do acquisitions.
+
 The painter example distinguishes unity of projected class from multiplicity
 of completed features: an outline establishes a figure, then many strokes
 differentiate it. The Aniruddha exchange similarly distinguishes a singular
@@ -145,8 +141,7 @@ reported occasion from a causal history that may include further action or a
 stream of volitions. The Bhāṣya's own qualifications prevent the formula
 “one action, one birth” from becoming an absolute one-to-one law.
 
-### Former Philosophical Translation
-
+**Former Philosophical Translation.**
 > Projection establishes the unity of a birth-class; completion differentiates
 > its particular features. The unity is not a one-cause/one-life arithmetic:
 > one projecting action does not extend to many births, but multiple actions
@@ -158,7 +153,6 @@ stream of volitions. The Bhāṣya's own qualifications prevent the formula
 This reading stays with the Bhāṣya's claim about `nikāyasabhāga`; it does not
 reduce the full constitution of a life to a single cause or infer that
 projecting and completing exhaust every causal contribution.
-
 ## 10. OWL++ Seed
 
 ```text

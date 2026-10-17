@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-yogapravartitaṃ karma sasamutthāpakaṃ tridhā /
-lipimudre sagaṇanaṃ kāvyaṃ saṃkhyā yathākramam // 4.126 //
-```
+> yogapravartitaṃ karma sasamutthāpakaṃ tridhā /
+> lipimudre sagaṇanaṃ kāvyaṃ saṃkhyā yathākramam // 4.126 //
 
-> Action set in motion by a specific method, together with what gives rise
-> to it, is threefold: writing and sealing; calculation and poetry; and
-> reckoning, in the corresponding order.
+> Action set in motion by a specific method, together with what gives rise to it, is
+> threefold: writing and sealing; calculation and poetry; and reckoning, in the
+> corresponding order.
 
 The Bhāṣya identifies the three modes as bodily, verbal, and mental
 action.
@@ -80,7 +78,7 @@ verse distinguished wholesome actions by their developmental direction;
 this verse distinguishes worldly actions by their operative mode. Ends
 and modes answer different questions and must not be collapsed.
 
-## 5. Textual and Scope Notes
+## 5. Review Status
 
 The verse's `saṃkhyā` is kept distinct from the Bhāṣya's preceding
 `gaṇanā`: the latter is assigned with poetry to verbal action, while the

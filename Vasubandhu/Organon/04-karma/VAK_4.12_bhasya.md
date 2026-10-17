@@ -5,14 +5,10 @@
 > pravartake śubha-ādau hi syāt tridhāpy anuvartakam /
 > tulyaṃ muneḥ śubhaṃ yāvan nobhayaṃ tu vipāka-jam // 4.12 //
 
-> In an ordinary action-series, the accompanying Cognition may be wholesome,
-> unwholesome, or indeterminate, whatever the ethical class of the initiator.
-> In the Buddha the relation is constrained: a wholesome initiator has a
-> wholesome accompanier; an indeterminate initiator may have an indeterminate
-> or wholesome accompanier, but a wholesome initiator is never followed by
-> an indeterminate one. Maturation-born consciousness is neither initiator
-> nor accompanier because it proceeds without deliberate constructive
-> activity.
+
+> When the initiator is wholesome and so forth, the accompanier may nevertheless
+> be of any of the three ethical kinds. For the Sage, they correspond within the
+> wholesome range. Maturation-born consciousness is neither.
 
 The Bhāṣya specifies the ordinary threefold range, qualifies the
 Buddha-case, and completes the final clause by identifying maturation-born

@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-caitye tyāgānvayaṃ puṇyaṃ maitryādivad agṛhṇati /
-kukṣetre 'pīṣṭaphalatā phalabījāviparyayāt // 4.121 //
-```
+> caitye tyāgānvayaṃ puṇyaṃ maitryādivad agṛhṇati /
+> kukṣetre 'pīṣṭaphalatā phalabījāviparyayāt // 4.121 //
 
-> At a shrine, merit connected with relinquishment arises as with
-> loving-kindness, even without a recipient. Even in a deficient field,
-> there is desirable fruit because fruit does not invert the seed.
+> At a shrine, merit connected with relinquishment arises as with loving-kindness,
+> even without a recipient. Even in a deficient field, there is desirable fruit
+> because fruit does not invert the seed.
 
 The Bhāṣya explains the difficult `agṛhṇati` through merit arising without
 a recipient who accepts or uses the offering.

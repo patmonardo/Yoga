@@ -2,17 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-nivṛtānivṛtābhyāṃ ca nātītābhyāṃ samanvitaḥ /
-asaṃvaro duścaritaṃ dauḥśīlyaṃ karma tatpathaḥ // 4.24 //
-```
+> nivṛtānivṛtābhyāṃ ca nātītābhyāṃ samanvitaḥ /
+> asaṃvaro duścaritaṃ dauḥśīlyaṃ karma tatpathaḥ // 4.24 //
 
-> No one remains endowed with past manifest action of either neutral kind,
-> obscured or unobscured, because the acquisition of such a weak dharma does
-> not continue. Non-restraint is also called misconduct because it is censured
-> and produces undesirable fruit, bad discipline because it opposes śīla,
-> karma because it is bodily and verbal action, and a path of action because it
-> belongs to the fundamental phase of the karmic course.
+> No one is endowed with past obscured-indeterminate or
+> unobscured-indeterminate disclosure. Non-restraint is also called
+> misconduct, bad discipline, bodily and verbal action, and an action-course.
 
 The running Bhāṣya unit extends from [211|02] through the explanation
 of `karmapathaḥ` at [211|12] in

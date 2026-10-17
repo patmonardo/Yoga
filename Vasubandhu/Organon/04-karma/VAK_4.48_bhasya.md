@@ -2,18 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-adho 'pi madhyam asty eke dhyānāntaravipākataḥ /
-apūrvācaramaḥ pākas trayāṇāṃ ceṣyate yataḥ // 4.48 //
-```
+> adho 'pi madhyam asty eke dhyānāntaravipākataḥ /
+> apūrvācaramaḥ pākas trayāṇāṃ ceṣyate yataḥ // 4.48 //
 
-> Some authorities maintain that karma whose maturation is experienced as
-> neither pain nor pleasure also occurs below the fourth dhyāna. The
-> intermediate dhyāna, where neither pleasant nor painful feeling occurs, is
-> invoked as one ground; scripture also recognizes the simultaneous maturation
-> of pleasant-, painful-, and neutral-result karmas, something possible only in
-> the Desire Realm. The distribution stated in VAK 4.47 is therefore the
-> predominant rule rather than an exceptionless one.
+> Some maintain that the middle class also exists below, because it is the
+> maturation of the intermediate dhyāna and because the maturation of the three
+> is accepted as neither prior nor posterior.
 
 The unit begins at [228|14]. The Bhāṣya continues beyond the
 research witness's endpoint [229|03], explaining `vedanīya` through
