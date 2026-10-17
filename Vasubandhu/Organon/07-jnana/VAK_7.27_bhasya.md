@@ -5,8 +5,8 @@
 > pratilambhaniṣevākhye śubhasaṃskṛtabhāvane |
 > pratipakṣavinirdhāvabhāvane sāsravasya tu || 7.27 ||
 
-> The two called acquisition and practice are cultivations of wholesome
-> conditioned dharmas. The two cultivations of counteraction and expulsion,
+> The two called acquisition and practice are cultivation of wholesome
+> conditioned dharmas; the two cultivations of counteraction and expulsion,
 > however, concern the contaminated.
 
 Two nominative duals, not locatives. Question opening the unit: is acquisition
@@ -90,7 +90,7 @@ print “cultivation = more of X.”
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.27.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.27_bhasya.md` (Pradhan 410|18–411|07).
+QA drafted against Organon `VAK_7.27.md`
+(Pradhan 410|18–411|07).
 Damaged sixfold quotation unrestored. `kosabhasya.txt` collation pending.
 Provisional.

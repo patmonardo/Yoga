@@ -5,9 +5,10 @@
 > svabhūmikena nirmāṇaṃ bhāṣaṇaṃ tvadhareṇa ca |
 > nirmātraiva sahāśāstuḥ adhiṣṭhāyānyavarttanāt || 7.51 ||
 
-> Construction is by a mind of its own ground; speech, however, also by a lower
-> one. For one other than the Teacher, [it speaks] only with the constructor.
-> Having sustained it, another mind operates.
+> A construction is produced by a construction-consciousness of its own ground;
+> speech, however, may also be produced by a lower-ground consciousness. For
+> one other than the Teacher, [a manifestation speaks] only with its
+> constructor. Once it is sustained, another mind initiates speech.
 
 `Sahāśāstuḥ` = saha a-śāstuḥ. Persistence after death: 7.52.
 
@@ -55,8 +56,8 @@ sustain then other-mind speech (not two simultaneous minds)
 
 ## 5. Three Coordinates
 
-Source dhyāna (7.50) ≠ immediate producing mind ≠ product. First-pass that
-bound simultaneous speech to the Teacher is reversed. Sustaining here is not
+Source dhyāna (7.50) ≠ immediate producing mind ≠ product. Simultaneous
+speech is not bound to the Teacher. Sustaining here is not
 said to be Buddha-only. Manifestations are not given their own continua.
 Death-limit not yet asked.
 
@@ -84,6 +85,6 @@ Technē.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.51.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.51_bhasya.md` (Pradhan 427|05–428|01).
+QA drafted against Organon `VAK_7.51.md`
+(Pradhan 427|05–428|01).
 `kosabhasya.txt` collation pending. Provisional.

@@ -76,14 +76,10 @@ discriminating knowledges, and so forth, as applicable.
 
 ### Bhāṣya-informed study translation
 
+
 > Other excellent qualities of Buddhas are shared with śrāvaka disciples,
 > and some also with ordinary persons, as appropriate: araṇā, resolve-
 > knowledge, discriminating knowledges, and so forth.
-
-Source: Pradhan 416|17–417|02. The immediate continuation
-introduces araṇā before its classification in VAK 7.36;
-that introduction is noted below without advancing the
-official verse sequence.
 
 ## 6. Philosophical Translation
 
@@ -190,6 +186,11 @@ study does not turn the introductory wording into an
 unqualified power to eliminate every affliction in others.
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: Pradhan 416|17–417|02. The immediate continuation
+introduces araṇā before its classification in VAK 7.36;
+that introduction is noted below without advancing the
+official verse sequence.
 
 **Do not infer distribution from the list alone.** The
 catalogue and its bearer-classes are related by `yathāyogam`.

@@ -81,19 +81,13 @@ just as the [corresponding] power. Five [are] in the four dhyānas.
 
 ### Bhāṣya-informed study translation
 
+
 > Four higher knowledges—extraordinary efficacy, divine hearing, former-
 > abode recollection, and death-and-reappearance—have conventional knowledge
 > as their nature. Other-mind higher knowledge comprises five knowledge
 > categories: dharma, anvaya, Path, conventional, and other-mind knowledge.
 > Influx-exhaustion higher knowledge is as the corresponding power; the
 > other five are supported on the four dhyānas.
-
-Source: the local Bhāṣya witness, Pradhan 421|13–422|14.
-The cross-reference is controlled by the studies of
-[VAK 7.29](./VAK_7.29.md) and [VAK 7.30](./VAK_7.30.md).
-The following prose explains acquisition and the exclusion
-of formless grounds; it is developed below rather than
-silently inserted into the verse translation.
 
 ## 6. Philosophical Translation
 
@@ -225,6 +219,13 @@ Both:
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: the local Bhāṣya witness, Pradhan 421|13–422|14.
+The cross-reference is controlled by the studies of
+[VAK 7.29](./VAK_7.29.md) and [VAK 7.30](./VAK_7.30.md).
+The following prose explains acquisition and the exclusion
+of formless grounds; it is developed below rather than
+silently inserted into the verse translation.
 
 **Corrections to the research kārikā.** The research file
 calls the conventional group “the first four,” thereby

@@ -36,7 +36,7 @@ Kārikā study: [`VAK_7.01.md`](./VAK_7.01.md).
 > dṛśaś ca ṣaṭ /
 > pañca dṛṣṭayo laukikī ca samyagdṛṣṭiḥ /
 
-**Witness.** First-pass citation: Pradhan 391|02–391|15. Local e-text
+**Witness.** Citation: Pradhan 391|02–391|15. Local e-text
 transmits compressed or irregular forms including `nāmalā`, `agrahīṇatvāt`,
 `santiraṇātmakattvāt`, `kṣayānamanutpādajñānaṃ`, and in one kārikā witness
 `dak` for `dṛk`. The running text above normalizes sandhi and obvious

@@ -86,13 +86,11 @@ fourfold. Those two, however, first arisen …
 
 ### Bhāṣya-informed study translation
 
+
 > The same dharma- and anvaya-knowledges divide by truth-object into four:
 > knowledge of suffering, origination, cessation, and the Path. These
 > fourfold knowledges are exhaustion- and non-arising-knowledge. When these
 > two first arise, however …
-
-The Bhāṣya specifies that these names apply when the knowledges have a
-non-view nature; the final clause remains syntactically open.
 
 ## 6. Philosophical Translation
 
@@ -167,6 +165,9 @@ occurrence, nor should the general fourfold range be projected onto each
 first occurrence.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya specifies that these names apply when the knowledges have a
+non-view nature; the final clause remains syntactically open.
 
 **Bhāṣya correction.** The exploratory kārikā study took `prathamodite`
 as “first stated” and referred it backward to the first two knowledges.

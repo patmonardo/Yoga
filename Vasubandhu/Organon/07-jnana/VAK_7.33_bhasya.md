@@ -5,9 +5,9 @@
 > mahākṛpā saṃvṛtidhīḥ saṃbhārākāragocaraiḥ |
 > samatvād ādhimātryāc ca nānākaraṇam aṣṭadhā || 7.33 ||
 
-> Great compassion is conventional knowing. It is great through accumulation,
-> aspect, and object-field, through equality and surpassing intensity. The
-> differentiation is eightfold.
+> Great compassion has conventional knowledge as its nature. It is great
+> through accumulation, aspect, and object-field, through equality and
+> surpassing intensity. Its distinction from compassion is eightfold.
 
 Last of the eighteen. Prose uses `mahākaruṇā`. Five grounds of greatness ≠
 the eightfold comparison with ordinary compassion.
@@ -100,7 +100,7 @@ Protection is Technē. Revelation is not “conventional, therefore great.”
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.33.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.33_bhasya.md` (Pradhan 414|17–415|10). Eighth
+QA drafted against Organon `VAK_7.33.md`
+(Pradhan 414|17–415|10). Eighth
 pair and intensity-duplicate open. `kosabhasya.txt` collation pending.
 Provisional.

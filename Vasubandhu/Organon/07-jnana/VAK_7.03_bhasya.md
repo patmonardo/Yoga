@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.03.md`](./VAK_7.03.md).
 > anvayajñānaṃ tūrdhvaduḥkhādigocaram /
 > anvayajñānasya rūpārūpyāvacaraṃ duḥkhaṃ tat-samudaya-nirodha-pratipakṣāś cālambanam /
 
-**Witness.** First-pass citation: Pradhan 392|06–392|12. Local e-text has
+**Witness.** Citation: Pradhan 392|06–392|12. Local e-text has
 compressed or damaged forms (`saṣkṛtāsaṃskṛtā`, `dharmakhyam`, `dukhaṃ`,
 `rūpārupyāvacaraṃ`). The running text above is a reading normalization,
 not a collated edition. Voice is Vasubandhu throughout; no opponent.

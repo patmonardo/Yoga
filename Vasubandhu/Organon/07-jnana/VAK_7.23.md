@@ -81,14 +81,11 @@ the group of eight liberation paths.
 
 ### Bhāṣya-informed study translation
 
+
 > Seven knowledges are cultivated on uninterrupted paths in the contexts of
 > conquest of seven levels, higher knowledge, attainment of immovability, and
 > mixed cultivation; beyond that, they are cultivated on the eight liberation
 > paths as well.
-
-At immovability, the Bhāṣya excludes conventional knowledge and records an
-uncertain replacement for the seventh; its seven-item list for the eight
-liberation paths is explicit.
 
 ## 6. Philosophical Translation
 
@@ -179,6 +176,10 @@ Bhavāgra or to all higher uninterrupted paths. The continuation
 must control the remaining cases.
 
 ## 9. Interpretive Note
+
+**Translation note.** At immovability, the Bhāṣya excludes conventional knowledge and records an
+uncertain replacement for the seventh; its seven-item list for the eight
+liberation paths is explicit.
 
 **The doubtful seventh at immovability.** The running source
 prints `tatra jayajñānaṃ saptamaṃ veditavyam`. The research

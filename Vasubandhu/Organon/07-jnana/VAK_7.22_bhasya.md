@@ -5,10 +5,9 @@
 > ṣoḍaśe ṣaṭ sarāgasya vītarāgasya sapta tu |
 > sarāgabhāvanāmārge tadūrdhvaṃ saptabhāvanā || 7.22 ||
 
-> At the sixteenth moment, six knowledges are cultivated for one still
-> undetached, but seven for one detached. After that, in the Path of
-> Cultivation while the practitioner remains undetached, there is
-> cultivation of seven.
+> At the sixteenth [moment], six knowledges are cultivated for one not detached
+> from desire, but seven for one detached from desire. Thereafter, in the Path
+> of Cultivation, seven are cultivated for one still not detached.
 
 Sixteenth = Path-anvaya-knowledge, Cultivation (VAK 6.28), not strict Seeing.
 
@@ -95,6 +94,6 @@ Revelation is not a cultivation-count. Dialectic stays Ideal.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.22.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.22_bhasya.md` (Pradhan 407|18–408|07).
+QA drafted against Organon `VAK_7.22.md`
+(Pradhan 407|18–408|07).
 `Purāgatāni` open. `kosabhasya.txt` collation pending. Provisional.

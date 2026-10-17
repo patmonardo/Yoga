@@ -5,9 +5,9 @@
 > śaikṣottāpanamuktau vā ṣaṭ saptajñānabhāvanā |
 > ānantaryapathe ṣaṇṇāṃ bhavāgravijaye tathā || 7.24 ||
 
-> In the liberation path of strengthening a trainee's faculties, there is
-> cultivation of six or seven knowledges. In the uninterrupted path,
-> cultivation is of six; likewise in the conquest of the summit of existence.
+> In a trainee's liberation path of Faculty-strengthening, cultivation is of
+> six or seven knowledges. In the uninterrupted path, cultivation is of six;
+> likewise in conquest of Bhavāgra.
 
 `Vā` marks a difference of opinion (`matavikalpa`), not a loose “or.”
 
@@ -26,7 +26,7 @@ Kārikā study: [`VAK_7.24.md`](./VAK_7.24.md).
 > bhavāgravairāgye 'py ānantaryamārgeṣu ṣaṇṇāṃ bhāvanā tathaiva /
 
 **Witness.** Pradhan 408|20–409|07. Conventional-exclusion sentence at 409|03
-restored (missing from the first-pass excerpt). `Pratipiddhatvāt` unrestored.
+restored. `Pratipiddhatvāt` unrestored.
 Voices: Vasubandhu; `kecit`. No school name.
 
 ## 3. Continuous Conventional Translation
@@ -97,6 +97,6 @@ to the work*. Revelation is not an eighth knowledge added by `kecit`.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.24.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.24_bhasya.md` (Pradhan 408|20–409|07).
+QA drafted against Organon `VAK_7.24.md`
+(Pradhan 408|20–409|07).
 `Kecit` unnamed. `kosabhasya.txt` collation pending. Provisional.

@@ -5,9 +5,11 @@
 > avyākṛte śrotracakṣurabhijñe itarāḥ śubhāḥ |
 > tisro vidyāḥ avidyāyāḥ pūrvāntādau nivarttanāt || 7.45 ||
 
-> The higher knowledges of hearing and sight are ethically indeterminate; the
-> others are wholesome. Three are vidyās because they turn back ignorance
-> concerning the prior limit and the rest.
+> Divine hearing and divine sight are ethically indeterminate; the other four
+> [higher knowledges] are wholesome. Three [knowledges—former-abode
+> recollection, death-and-rebirth, and influx-exhaustion—] are vidyās because
+> they dispel ignorance concerning the prior limit, the future limit, and the
+> middle, respectively.
 
 Beyond-training split: 7.46. Do not pull `aśaikṣya` analysis into this file.
 
@@ -89,6 +91,6 @@ Technē of aśaikṣa-status waits one verse.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.45.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.45_bhasya.md` (stop at 423|20). `kosabhasya.txt`
+QA drafted against Organon `VAK_7.45.md`
+(stop at 423|20). `kosabhasya.txt`
 collation pending. Provisional.

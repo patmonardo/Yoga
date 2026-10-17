@@ -5,9 +5,12 @@
 > catasraḥ saṃvṛtijñānaṃ cetasi jñānapañcakam |
 > kṣayābhijñā balaṃ yadvat pañca dhyānacatuṣṭaye || 7.43 ||
 
-> Four are conventional knowledge; concerning mind, a group of five knowledges.
-> Exhaustion-higher-knowledge is as the corresponding power. Five are in the
-> four dhyānas.
+> Four higher knowledges—extraordinary efficacy, divine hearing, former-
+> abode recollection, and death-and-reappearance—have conventional knowledge
+> as their nature. Other-mind higher knowledge comprises five knowledge
+> categories: dharma, anvaya, Path, conventional, and other-mind knowledge.
+> Influx-exhaustion higher knowledge is as the corresponding power; the
+> other five are supported on the four dhyānas.
 
 Four = 1, 2, 4, 5 of 7.42 — not “the first four.” Object-range: 7.44.
 
@@ -95,7 +98,7 @@ training-wheels as the power.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.43.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.43_bhasya.md` (Pradhan 421|13–422|14).
+QA drafted against Organon `VAK_7.43.md`
+(Pradhan 421|13–422|14).
 Damaged recollection-sequence open. `kosabhasya.txt` collation pending.
 Provisional.

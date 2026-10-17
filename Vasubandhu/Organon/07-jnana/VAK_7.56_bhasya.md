@@ -5,9 +5,11 @@
 > cetojñānaṃ tu tattredhā tarkavidyākṛtaṃ ca yat |
 > jānate nārakā ādau nṛṇāṃ notpattilabhikam || 7.56 ||
 
-> That [birth-acquired] knowledge of another mind is threefold, as is what is
-> produced through inference or vidyā. Hell-beings know at the beginning. For
-> humans, it is not acquired through birth.
+> Birth-acquired knowledge of another's consciousness is threefold [wholesome,
+> unwholesome, or indeterminate], as is knowledge produced through inference or
+> vidyā. Hell-beings initially know through birth-acquired knowledge of
+> another's consciousness and former-abode recollection; the previously
+> described capacities are not acquired through birth by humans.
 
 `Tat` resumes 7.55's birth-acquired line. Colophon: seventh kośasthāna.
 
@@ -89,6 +91,6 @@ first. Samāpatti next, on a further signal.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.56.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.56_bhasya.md` (Pradhan 430|11–431|04).
+QA drafted against Organon `VAK_7.56.md`
+(Pradhan 430|11–431|04).
 `kosabhasya.txt` collation pending. Sequence complete; status still provisional.

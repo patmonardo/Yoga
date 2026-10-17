@@ -85,12 +85,10 @@ also, at the three anvaya-knowledges, conventional knowledge
 
 ### Bhāṣya-informed study translation
 
+
 > In Seeing, future acceptances and knowledges are cultivated according to the
 > kinds that have arisen. There too, conventional knowledge is cultivated at
 > the three anvaya-knowledge moments.
-
-The three moments concern suffering, origination, and cessation; the future set
-comprises the four matching aspects.
 
 ## 6. Philosophical Translation
 
@@ -195,6 +193,9 @@ categories are not simply repeated as the future cultivation
 range of each subsequent moment.
 
 ## 9. Interpretive Note
+
+**Translation note.** The three moments concern suffering, origination, and cessation; the future set
+comprises the four matching aspects.
 
 **The availability claim needs qualification.**
 The exploratory study described cultivation as reproducible

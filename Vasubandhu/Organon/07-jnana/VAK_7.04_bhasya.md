@@ -6,9 +6,9 @@
 > anutpādakṣayajñāne te punaḥ prathamodite || 7.4 ||
 
 > The same dharma- and anvaya-knowledges divide by truth-object into four:
-> knowledge of suffering, origination, cessation, and the Path. As fourfold
-> knowledge without the nature of view, they are also called exhaustion-
-> knowledge and non-arising-knowledge. When these two first arise, however …
+> knowledge of suffering, origination, cessation, and the Path. These
+> fourfold knowledges are exhaustion- and non-arising-knowledge. When these
+> two first arise, however …
 
 The last clause is unfinished. Its predicate is the opening of 7.05. The
 Bhāṣya reads `prathamodite` as `prathamotpanne` — first arisen, not first
@@ -31,7 +31,7 @@ quoted only to fix the syntax of this unit, not as a completed 7.05 study:
 
 > prathamotpanne tu kṣayajñānānutpādajñāne duḥkhasamudayānvayajñāne …
 
-**Witness.** First-pass citation: Pradhan 392|13–20, with the 393|01–03
+**Witness.** Citation: Pradhan 392|13–20, with the 393|01–03
 opening as boundary-control. Voice: Vasubandhu. No opponent.
 
 ## 3. Continuous Conventional Translation
@@ -100,7 +100,7 @@ non-view status is not two definitions.
 `Prathamodite` = when first arisen (`prathamotpanne`). Not “first stated,”
 not “the first two names on the list.” General fourfold range and range at
 first arising must stay apart. 7.05 will say the first arising is
-suffering-anvaya and origination-anvaya toward the bhavāgra aggregates.
+suffering-anvaya and origination-anvaya toward the bhavāgra Bases.
 That object and those aspects are 7.05's work. They are noted here only so
 the hanging clause is not falsely closed.
 

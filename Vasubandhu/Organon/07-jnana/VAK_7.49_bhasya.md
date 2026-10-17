@@ -5,9 +5,10 @@
 > kāmāptaṃ nirmitaṃ bāhyaṃ caturāyatanaṃ dvidhā |
 > rūpāptaṃ dve tu nirmāṇacittaistāni caturdaśa || 7.49 ||
 
-> A desire-domain constructed manifestation is external, consists of four
-> Essences, and is twofold. A form-domain one consists of two. [They are
-> produced] by construction-minds; those minds are fourteen.
+> A desire-domain construction is external and consists of four Essences; it is
+> twofold. A form-domain construction consists of two [Essences]. [The
+> constructions are produced] by construction-consciousnesses; those
+> [consciousnesses] are fourteen.
 
 Dhyāna distribution of the fourteen: 7.50.
 
@@ -85,6 +86,6 @@ mints bodies. Technē waits for 7.50's lawful downward reach.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.49.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.49_bhasya.md` (stop 426|11). Alternative line
+QA drafted against Organon `VAK_7.49.md`
+(stop 426|11). Alternative line
 open. `kosabhasya.txt` collation pending. Provisional.

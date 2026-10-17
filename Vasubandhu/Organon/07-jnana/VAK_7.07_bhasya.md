@@ -35,8 +35,8 @@ Kārikā study: [`VAK_7.07.md`](./VAK_7.07.md).
 > śāstre jñāpita iti kāśmīrāḥ /
 > anāsraveṇāpy evaṃ jānātīty apare /
 
-**Witness.** First-pass extract: Pradhan 394|05–14, stopping at `iti
-kāśmīrāḥ`. Organon kārikā and the running source continue with the other
+**Witness.** Pradhan 394|05–14 reaches `iti kāśmīrāḥ`; the running source
+continues with the other
 teachers: uncontaminated knowledge itself may know in this form (394|12–15).
 Both voices are kept. E-text irregularities (`na pounaḥ`, `sākṣātakṛto`,
 `jñāpiota`) normalized only for reading. The damaged `darśana` discussion
@@ -123,8 +123,8 @@ apare
     one knows thus by uncontaminated knowledge also
 ```
 
-First-pass quotation stops at the Kashmiris and treats subsequent cognition
-as *the* refinement. That leaks a school answer into the unit's conclusion.
+Stopping at the Kashmiris would treat subsequent cognition as *the*
+refinement. That leaks a school answer into the unit's conclusion.
 Both accounts remain attributed. The first-person wording is a formulation
 used to define content; its cognitive status is exactly what is disputed.
 

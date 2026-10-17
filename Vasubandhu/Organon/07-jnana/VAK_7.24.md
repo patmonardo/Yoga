@@ -84,12 +84,10 @@ in the uninterrupted paths of conquest of Bhavāgra.
 
 ### Bhāṣya-informed study translation
 
+
 > In a trainee's liberation path of Faculty-strengthening, cultivation is of
 > six or seven knowledges. In the uninterrupted path, cultivation is of six;
 > likewise in conquest of Bhavāgra.
-
-The alternative `or` marks a reported difference over including conventional
-knowledge; the principal count varies with detachment.
 
 ## 6. Philosophical Translation
 
@@ -198,6 +196,9 @@ The exclusions are not a sufficient-condition theorem.
 possession alone establish cultivation at a given moment.
 
 ## 9. Interpretive Note
+
+**Translation note.** The alternative `or` marks a reported difference over including conventional
+knowledge; the principal count varies with detachment.
 
 **The omitted sentence changes the explanation.** The research
 excerpt moves directly from the sixfold uninterrupted count

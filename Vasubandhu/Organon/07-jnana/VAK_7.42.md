@@ -77,16 +77,12 @@ to liberation paths.
 
 ### Bhāṣya-informed study translation
 
+
 > The six higher knowledges are direct cognitive realizations concerning
 > extraordinary efficacy, divine hearing, another’s mental course, former
 > abodes, the death and reappearance of beings, and exhaustion of the
 > influxes. Their nature is discriminative comprehension of the liberation
 > path.
-
-Source: Pradhan 421|03–421|12. The category and level
-distributions begin immediately afterward in VAK 7.43;
-they should control further claims about the difference
-between the first five and the sixth.
 
 ## 6. Philosophical Translation
 
@@ -184,6 +180,11 @@ It does not make the six abhijñās identical with the
 four fruits or add those fruits to the sixfold inventory.
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: Pradhan 421|03–421|12. The category and level
+distributions begin immediately afterward in VAK 7.43;
+they should control further claims about the difference
+between the first five and the sixth.
 
 **Correction to the earlier draft’s progression.** The research
 kārikā organizes the six as increasingly comprehensive

@@ -76,12 +76,10 @@ practitioner remains undetached, there is cultivation of seven.
 
 ### Bhāṣya-informed study translation
 
+
 > At the sixteenth [moment], six knowledges are cultivated for one not detached
 > from desire, but seven for one detached from desire. Thereafter, in the Path
 > of Cultivation, seven are cultivated for one still not detached.
-
-The counts are cultivated knowledge categories, distinct from the two knowledges
-present at the sixteenth moment: Path-knowledge and Path-anvaya-knowledge.
 
 ## 6. Philosophical Translation
 
@@ -179,6 +177,9 @@ cultivatesKnowledgeCategory
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The counts are cultivated knowledge categories, distinct from the two knowledges
+present at the sixteenth moment: Path-knowledge and Path-anvaya-knowledge.
 
 **A doubtful word is not an explanatory foundation.** The running
 source reads `purāgatāni ṣaṭ bhāvyante`. The research Bhāṣya

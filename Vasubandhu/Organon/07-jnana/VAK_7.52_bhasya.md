@@ -5,9 +5,11 @@
 > mṛtasyāpyastyadhiṣṭhānaṃ nāsthirasya apare tu na |
 > ādāvekamanekena jitāyāṃ tu viparyayāt || 7.52 ||
 
-> Sustaining determination remains even of one who has died, but not of an
-> unstable thing; others, however, deny this. At first one [is constructed]
-> through many; when mastered, the relation is reversed.
+> According to one account, sustaining determination may remain after a
+> person's death, but not for an unstable thing; other teachers deny post-
+> mortem sustaining determination. At first, many construction-consciousnesses
+> produce one manifestation; when the higher knowledge is mastered, one
+> consciousness produces many, as many as desired.
 
 Ethical status of construction-minds and five sources of ṛiddhi: 7.53.
 
@@ -86,6 +88,6 @@ cheap magic.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.52.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.52_bhasya.md` (Pradhan 428|01–12). Flesh line
+QA drafted against Organon `VAK_7.52.md`
+(Pradhan 428|01–12). Flesh line
 open. `kosabhasya.txt` collation pending. Provisional.

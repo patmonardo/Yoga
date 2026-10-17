@@ -5,9 +5,10 @@
 > vaiśāradyaṃ caturdhā tu yathādyadaśame bale |
 > dvitīyasaptame caiva smṛtiprajñātmakaṃ trayam || 7.32 ||
 
-> Fearlessness is fourfold, corresponding to the first and tenth powers, and
-> likewise to the second and seventh. The triad has mindfulness and
-> discriminative knowing as its nature.
+> The four fearlessnesses correspond, in order, to the first and tenth
+> powers, and likewise to the second and seventh. The three establishments
+> of mindfulness have mindfulness and discriminative comprehension as their
+> nature.
 
 Duals name power-pairs. Not “located in” those powers. Next of the eighteen:
 four + three. Great compassion is 7.33.
@@ -91,6 +92,6 @@ includes the assembly's response. Appearance would print “fearlessness = power
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.32.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.32_bhasya.md` (Pradhan 413|20–414|16).
+QA drafted against Organon `VAK_7.32.md`
+(Pradhan 413|20–414|16).
 Sūtra wording abbreviated. `kosabhasya.txt` collation pending. Provisional.

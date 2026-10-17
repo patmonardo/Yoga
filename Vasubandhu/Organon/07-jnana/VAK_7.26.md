@@ -90,13 +90,11 @@ cultivated]. What has been acquired before is not cultivated
 
 ### Bhāṣya-informed study translation
 
+
 > For whichever level detachment is sought, and whichever level is acquired,
 > knowledge is cultivated there and below. At knowledge of exhaustion,
 > contaminated qualities too are cultivated; what was acquired before is not
 > cultivated.
-
-The commentary distinguishes first acquisition from reacquisition after loss:
-the previously cultivated item is not cultivated anew.
 
 ## 6. Philosophical Translation
 
@@ -189,6 +187,9 @@ unqualified wording at 410|15 as an independent universal
 maxim would erase the clarification that immediately follows.
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary distinguishes first acquisition from reacquisition after loss:
+the previously cultivated item is not cultivated anew.
 
 **Qualities, not “impure knowledges.”** The research kārikā
 study translates `sāsravāḥ` as impure knowledges. The prose's

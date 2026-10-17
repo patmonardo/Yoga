@@ -5,9 +5,10 @@
 > saptabhūmijayābhijñākopyāptyākīrṇabhāvite |
 > ānantaryapatheṣūrdhvaṃ muktimārgāṣṭake 'pi ca || 7.23 ||
 
-> In the conquest of seven levels, the higher knowledges, attainment of
-> immovability, and mixed cultivation, seven knowledges are cultivated on
-> the uninterrupted paths; and above that, also in the eight liberation paths.
+> Seven knowledges are cultivated on uninterrupted paths in the contexts of
+> conquest of seven levels, higher knowledge, attainment of immovability, and
+> mixed cultivation; beyond that, they are cultivated on the eight liberation
+> paths as well.
 
 Predicate carried: `sapta jñānāni bhāvyante`. Membership changes.
 
@@ -66,8 +67,8 @@ same count, new settings on ānantarya-paths
 Seven target levels ≠ 7.21's support-levels. `Jaya` = vairāgya, not merely
 entering the attainment. Five abhijñās only here.
 
-`Bhavāgrāpratipakṣatva` = *not* being a counteragent to Bhavāgra. First-pass
-positive gloss is reversed.
+`Bhavāgrāpratipakṣatva` = *not* being a counteragent to Bhavāgra. A positive
+gloss would reverse it.
 
 Do not mint `jayajñāna` as a category. Possible `kṣayajñāna` is conjecture.
 Count seven; replacement unnamed until a checked witness.
@@ -97,6 +98,6 @@ not the Absolute as Appearans. Revelation is not a seventh cell.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.23.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.23_bhasya.md` (Pradhan 408|08–19).
+QA drafted against Organon `VAK_7.23.md`
+(Pradhan 408|08–19).
 Immovability seventh open. `kosabhasya.txt` collation pending. Provisional.

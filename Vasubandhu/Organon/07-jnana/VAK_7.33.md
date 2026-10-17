@@ -79,14 +79,10 @@ from compassion is eightfold.
 
 ### Bhāṣya-informed study translation
 
+
 > Great compassion has conventional knowledge as its nature. It is great
 > through accumulation, aspect, and object-field, through equality and
 > surpassing intensity. Its distinction from compassion is eightfold.
-
-Source: Pradhan 414|17–415|10. The first six paired
-distinctions are explicit. The last two are retained
-with the limits of the local wording rather than supplied
-from an unverified reconstruction.
 
 ## 6. Philosophical Translation
 
@@ -188,6 +184,11 @@ Bhavāgra detachment is a third relation, not another
 name for either object or support.
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: Pradhan 414|17–415|10. The first six paired
+distinctions are explicit. The last two are retained
+with the limits of the local wording rather than supplied
+from an unverified reconstruction.
 
 **Constitution and scope explain one another.** The source
 states that without conventional knowledge the universal

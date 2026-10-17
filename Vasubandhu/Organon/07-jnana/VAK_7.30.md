@@ -82,12 +82,10 @@ unobstructed.
 
 ### Bhāṣya-informed study translation
 
+
 > The powers of knowledge of former abodes and of passing away and arising are
 > in the dhyānas; the remainder is in all levels. Why is his power unobstructed
 > throughout all levels? Because his knowing operates without obstruction.
-
-The first compound refers to two powers, placed in the four dhyānas; the
-remaining eight range across eleven levels.
 
 ## 6. Philosophical Translation
 
@@ -183,6 +181,9 @@ stories in full; details about remote deeds, dates, or
 the Buddha's subsequent interventions are not supplied here.
 
 ## 9. Interpretive Note
+
+**Translation note.** The first compound refers to two powers, placed in the four dhyānas; the
+remaining eight range across eleven levels.
 
 **Support is not reach.** The two powers can have a
 restricted meditative support while their Buddha-specific

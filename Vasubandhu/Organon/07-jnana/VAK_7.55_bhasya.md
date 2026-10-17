@@ -2,21 +2,18 @@
 
 ## 1. Kārikā Anchor
 
-Quoted contrast (not the numbered verse):
-
-> dūrastham āvṛtaṃ sūkṣmaṃ sarvataś ca na paśyati |
-> māṃsacakṣur yato rūpam ato divyaṃ dṛgiṣyate ||
-
-Numbered:
-
 > dvitrisāhasrakāsaṃkhyadṛśo 'rhatkhaḍgadaiśikāḥ |
-> anyad apy upapattyāptaṃ taddṛśyo nāntarībhavaḥ || 7.55 ||
+> anyadapyupapattyāptaṃ taddṛśyo nāntarībhavaḥ || 7.55 ||
 
-> With exertion: arhat, solitary Buddha, and Teacher see the two-thousandfold,
-> three-thousandfold, and innumerable world-systems. Other [capacities] too are
-> acquired through birth. The intermediate being is not visible to that eye.
+> With deliberate exertion, śrāvaka Arhats, pratyekabuddhas, and the Teacher
+> see the two-thousandfold, three-thousandfold, and innumerable world-systems,
+> respectively. Other [higher-knowledge capacities] are also acquired through
+> birth; the intermediate being is not visible to that [birth-acquired divine]
+> eye.
 
-Chapter close is 7.56, not this verse.
+The Bhāṣya also quotes a contrast verse: `dūrastham āvṛtaṃ sūkṣmaṃ sarvataś ca
+na paśyati | māṃsacakṣur yato rūpam ato divyaṃ dṛgiṣyate ||`. Chapter close
+is 7.56, not this verse.
 
 Kārikā study: [`VAK_7.55.md`](./VAK_7.55.md).
 
@@ -91,6 +88,6 @@ stamp every far-sight abhijñā. Ārya-path still does not confuse birth-gift wi
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.55.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.55_bhasya.md` (Pradhan 429|16–430|10).
+QA drafted against Organon `VAK_7.55.md`
+(Pradhan 429|16–430|10).
 `kosabhasya.txt` collation pending. Provisional.

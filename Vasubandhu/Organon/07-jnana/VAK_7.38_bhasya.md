@@ -5,9 +5,9 @@
 > tisro nāmārthavāgjñānam avivartyaṃ yathākramam |
 > caturthī yuktamuktābhilāpamārgavaśitvayoḥ || 7.38 ||
 
-> The three are respectively unfailing knowledge of name, meaning, and speech.
-> The fourth is [such knowledge] concerning fitting and free expression and
-> mastery of the Path.
+> The first three are, respectively, unfailing knowledge concerning name,
+> meaning, and speech. The fourth is likewise unfailing knowledge,
+> concerning fitting and unimpeded expression and mastery of the Path.
 
 `Tīsro` / `nāmatha` unrestored. Fourth keeps `avivartyaṃ jñānam` — not
 mastery instead of knowledge. Level and category: 7.39.
@@ -79,6 +79,6 @@ inside it. Pratibhāna is Technē of fitting speech under Path — still knowled
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.38.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.38_bhasya.md` (Pradhan 418|13–18). Fourth-member
+QA drafted against Organon `VAK_7.38.md`
+(Pradhan 418|13–18). Fourth-member
 prose damaged. `kosabhasya.txt` collation pending. Provisional.

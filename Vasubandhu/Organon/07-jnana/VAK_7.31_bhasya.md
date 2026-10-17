@@ -5,9 +5,9 @@
 > nārāyaṇabalaṃ kāye saṃdhiṣv anye daśādhikam |
 > hastyādisaptakabalaṃ spraṣṭavyāyatanaṃ ca tat || 7.31 ||
 
-> Nārāyaṇa-strength is in the body; others [place it] in the joints. The
-> strength of the sevenfold series beginning with the elephant increases
-> tenfold. That [strength] belongs to the Tangible Essence.
+> The Buddha's strength is Nārāyaṇa-strength in the body; others say it is in
+> the joints. The strength of the seven beginning with the elephant increases
+> tenfold; that strength is the tangible Essence.
 
 Same word `bala`. Not an eleventh knowledge-power. Ayatana here = Essence
 (capacity/field), not “Essence.”
@@ -45,7 +45,7 @@ closes the powers before 7.32.
 > [Another series.] As it is greater, so it is fitting.
 >
 > That bodily strength, of everyone, has the nature of the Tangible Essence —
-> a special determination of the great elements. Others: derived form, a
+> a special determination of the Great Elements. Others: derived form, a
 > distinct item from the seven.
 
 ## 4. Movement of the Commentary
@@ -68,7 +68,7 @@ knowledge-range equals mechanical force. Preference for the larger reckoning
 
 `Sarvasyaiva`: tangible classification is general. Magnitude claims above it
 are Buddha-specific. Seven derived tangibles ≠ the whole tangible inventory
-(great elements remain).
+(Great Elements remain).
 
 Joint-images (nāgagranthi / chain / peg for Buddha, pratyekabuddha, cakravartin)
 are images, not anatomy.
@@ -97,6 +97,6 @@ the word matches.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.31.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.31_bhasya.md` (Pradhan 413|04–19). Alternative
+QA drafted against Organon `VAK_7.31.md`
+(Pradhan 413|04–19). Alternative
 series compressed. `kosabhasya.txt` collation pending. Provisional.

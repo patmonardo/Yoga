@@ -89,14 +89,10 @@ and mastery of the Path.
 
 ### Bhāṣya-informed study translation
 
+
 > The first three are, respectively, unfailing knowledge concerning name,
 > meaning, and speech. The fourth is likewise unfailing knowledge,
 > concerning fitting and unimpeded expression and mastery of the Path.
-
-Source: Pradhan 418|13–418|18. The immediate continuation
-at 418|19–20 confirms speech and Path as the fourth's
-object-fields. Their full knowledge-category and level
-analysis belongs to VAK 7.39.
 
 ## 6. Philosophical Translation
 
@@ -181,6 +177,11 @@ gloss, not permission to anticipate its complete analysis
 here.
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: Pradhan 418|13–418|18. The immediate continuation
+at 418|19–20 confirms speech and Path as the fourth's
+object-fields. Their full knowledge-category and level
+analysis belongs to VAK 7.39.
 
 **A precise correction to the earlier draft.** Rendering
 the fourth simply as “mastery concerning expression

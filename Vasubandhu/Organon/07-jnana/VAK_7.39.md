@@ -87,15 +87,12 @@ at every level. The other two are conventional knowledge.
 
 ### Bhāṣya-informed study translation
 
+
 > The fourth discriminating knowledge takes speech and the Path as its
 > objects, comprises nine knowledge categories, and occurs on every level.
 > Meaning-discrimination comprises ten categories when its field is all
 > dharmas, or six when its field is nirvāṇa; it too occurs on every level.
 > The other two have conventional knowledge as their nature.
-
-Source: Pradhan 418|19–419|11. The level restrictions
-of the latter two discriminating knowledges begin with
-VAK 7.40 and are not imported into the present verse.
 
 ## 6. Philosophical Translation
 
@@ -185,6 +182,10 @@ individual support restrictions already established
 for particular knowledge categories.
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: Pradhan 418|19–419|11. The level restrictions
+of the latter two discriminating knowledges begin with
+VAK 7.40 and are not imported into the present verse.
 
 **Meaning determines the count.** This verse gives a
 particularly clear instance of the project's principle

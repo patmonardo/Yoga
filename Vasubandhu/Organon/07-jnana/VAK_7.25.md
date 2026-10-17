@@ -86,12 +86,10 @@ the stated cases, there is cultivation of eight.
 
 ### Bhāṣya-informed study translation
 
+
 > At knowledge of exhaustion there is cultivation of nine; for one of immovable
 > nature, ten. At the final liberation path, in transition to that state, there
 > is cultivation of ten; in the remaining stated cases, eight.
-
-The nine excludes knowledge of non-arising; ten includes it. Eight is the count
-in the enumerated remaining trainee cases.
 
 ## 6. Philosophical Translation
 
@@ -206,6 +204,9 @@ This closing restriction at 410|02 precedes the new question
 about the levels of cultivated knowledge in VAK 7.26.
 
 ## 9. Interpretive Note
+
+**Translation note.** The nine excludes knowledge of non-arising; ten includes it. Eight is the count
+in the enumerated remaining trainee cases.
 
 **The full continuation matters.** The research Bhāṣya file
 quotes through the trainee qualification and summarizes

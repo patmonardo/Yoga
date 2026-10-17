@@ -5,10 +5,11 @@
 > svādhobhūviṣayāḥ labhyā ucitās tu virāgataḥ |
 > tṛtīyā trīṇy upasthānāni ādyaṃ śrotrarddhir cakṣuṣi || 7.44 ||
 
-> [The five] have their own and lower grounds as objects. Previously cultivated
-> ones, however, are obtainable through detachment. The third is three
-> applications of mindfulness. [Extraordinary efficacy, divine hearing, and
-> divine sight are] the first application.
+> The five [higher knowledges] take their own and lower grounds as objects.
+> Those cultivated in previous lives, however, are acquired through detachment.
+> The third [higher knowledge comprises] three applications of mindfulness;
+> [extraordinary efficacy, divine hearing, and divine sight comprise] the first
+> [application].
 
 Last pāda syntax uncertain; subjects from prose. Ethical status and three
 vidyās: 7.45.
@@ -95,6 +96,6 @@ glance.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.44.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.44_bhasya.md` (Pradhan 422|15–423|09). Final
+QA drafted against Organon `VAK_7.44.md`
+(Pradhan 422|15–423|09). Final
 pāda open. `kosabhasya.txt` collation pending. Provisional.

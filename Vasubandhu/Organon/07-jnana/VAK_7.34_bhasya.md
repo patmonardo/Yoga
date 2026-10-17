@@ -5,9 +5,9 @@
 > saṃbhāradharmakāyābhyāṃ jagataś cārthacaryayā |
 > samatā sarvabuddhānāṃ nāyurjātipramāṇataḥ || 7.34 ||
 
-> All Buddhas are equal through accumulation and Dharma-body, and through
-> activity for the welfare of the world; not with respect to lifespan, birth,
-> or bodily measure.
+> All Buddhas are equal through accumulation, perfection of the Dharma-body,
+> and activity for the world's welfare; they differ in lifespan, birth, and
+> bodily measure.
 
 Question: alike in every respect? No. Closes the eighteen. Shared qualities
 with disciples begin at 7.35.
@@ -102,7 +102,7 @@ science, not two dialectics. Appearance would say “all Buddhas identical” or
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.34.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.34_bhasya.md` (Pradhan 415|11–416|17).
+QA drafted against Organon `VAK_7.34.md`
+(Pradhan 415|11–416|17).
 Catalogues and closing quotation limited. `kosabhasya.txt` collation pending.
 Provisional.

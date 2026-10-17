@@ -5,9 +5,9 @@
 > aṣṭādaśāveṇikās tu buddhadharmā balādayaḥ |
 > sthānāsthāne daśa jñānāni aṣṭau karmaphale nava || 7.28 ||
 
-> The distinctive qualities of a Buddha are eighteen, beginning with the
-> powers. Concerning possibility and impossibility there are ten knowledges;
-> concerning the result of action, eight. Nine [continued next].
+> Eighteen are the unshared Buddha-qualities, beginning with the powers. For
+> possibility and impossibility, ten knowledges; for karmic maturation, eight;
+> and nine.
 
 `Nava` is not a third completed count in this verse. `Buddhadharma` here =
 quality of a Buddha, not the teaching.
@@ -92,6 +92,6 @@ continuum. Revelation is not the ten-count lighting up.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.28.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.28_bhasya.md` (Pradhan 411|07–17). Remaining
+QA drafted against Organon `VAK_7.28.md`
+(Pradhan 411|07–17). Remaining
 powers in 7.29. `kosabhasya.txt` collation pending. Provisional.

@@ -5,9 +5,9 @@
 > prāṅnivāsacyutotpādabalaṃ dhyāneṣu śeṣitam |
 > sarvabhūmiṣu kenāsya balam avyāhataṃ yataḥ || 7.30 ||
 
-> The powers of former abodes and death and rebirth are in the dhyānas; the
-> remaining powers are in all levels. Why is it power in his case? Because
-> it is unobstructed.
+> The powers of knowledge of former abodes and of passing away and arising are
+> in the dhyānas; the remainder is in all levels. Why is his power unobstructed
+> throughout all levels? Because his knowing operates without obstruction.
 
 Constitution was 7.28–7.29. Level now. `Asya` = the Buddha.
 
@@ -90,6 +90,6 @@ eleven levels. Buddha Mind remains Singular.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.30.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.30_bhasya.md` (Pradhan 412|10–413|03).
+QA drafted against Organon `VAK_7.30.md`
+(Pradhan 412|10–413|03).
 Damaged lemma unrestored. `kosabhasya.txt` collation pending. Provisional.

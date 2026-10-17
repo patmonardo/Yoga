@@ -5,9 +5,12 @@
 > tathaiva praṇidhijñānaṃ sarvālambaṃ tu tat tathā |
 > dharmārthayor niruktau ca pratibhāne ca saṃvidaḥ || 7.37 ||
 
-> Resolve-knowledge is likewise, but it has all as its object-range. Likewise
-> are the knowledges concerning dharma and meaning, linguistic expression,
-> and ready articulation.
+> Resolve-knowledge is likewise conventional knowledge, grounded in the
+> fourth dhyāna, belonging to an immovable arhat and arising with human
+> support; unlike araṇā, its object-range is all dharmas. The four
+> discriminating knowledges likewise share the immovable-arhat and human-
+> support conditions: they concern dharma and meaning, linguistic
+> expression, and ready articulation.
 
 Two “likewise” — different inheritances. Definitions of the four: 7.38.
 
@@ -92,7 +95,7 @@ definitions — do not lock English on `artha` yet. Appearance would print
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.37.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.37_bhasya.md` (Pradhan 417|18–418|12).
+QA drafted against Organon `VAK_7.37.md`
+(Pradhan 417|18–418|12).
 Formless-access phrase compressed. `kosabhasya.txt` collation pending.
 Provisional.

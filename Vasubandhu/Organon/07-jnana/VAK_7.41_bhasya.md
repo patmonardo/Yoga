@@ -5,9 +5,9 @@
 > tat ṣaḍvidhaṃ sarvabhūmyanulomitam |
 > vṛddhikāṣṭhāgataṃ tac ca buddhānyasya prayogajāḥ || 7.41 ||
 
-> That [final-limit dhyāna] is sixfold, made conformable to all levels, and
-> brought to the summit of increase. For one other than a Buddha, these
-> [qualities] arise from deliberate application.
+> That final-limit dhyāna is sixfold, conformed in sequence to all levels,
+> and brought to the summit of increase. For one other than a Buddha, these
+> qualities arise through deliberate application.
 
 `Buddhānyasya` = buddhād anyasya. Next: six abhijñās.
 
@@ -93,6 +93,6 @@ Appearance would call that “spontaneous” and forget the two axes.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.41.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.41_bhasya.md` (Pradhan 420|07–421|03).
+QA drafted against Organon `VAK_7.41.md`
+(Pradhan 420|07–421|03).
 `kosabhasya.txt` collation pending. Provisional.

@@ -79,13 +79,10 @@ connected with determinate objects as its field.
 
 ### Bhāṣya-informed study translation
 
+
 > Araṇā is conventional knowledge, grounded in the final dhyāna, of an
 > immovable arhat. It arises among humans and has unarisen desire-domain
 > afflictions connected with determinate objects as its field.
-
-Source: Pradhan 417|02–417|18. The introduction overlaps
-the bounded preview in VAK 7.35; the present study gives
-the full definition and restrictions.
 
 ## 6. Philosophical Translation
 
@@ -187,6 +184,10 @@ prose does not prescribe a detailed method of changing
 speech, appearance, or movement in each encounter.
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: Pradhan 417|02–417|18. The introduction overlaps
+the bounded preview in VAK 7.35; the present study gives
+the full definition and restrictions.
 
 **A necessary restriction is not a sufficient rule.**
 The research study describes the immovable-arhat argument

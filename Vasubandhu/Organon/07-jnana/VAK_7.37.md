@@ -75,16 +75,13 @@ and ready articulation.
 
 ### Bhāṣya-informed study translation
 
+
 > Resolve-knowledge is likewise conventional knowledge, grounded in the
 > fourth dhyāna, belonging to an immovable arhat and arising with human
 > support; unlike araṇā, its object-range is all dharmas. The four
 > discriminating knowledges likewise share the immovable-arhat and human-
 > support conditions: they concern dharma and meaning, linguistic
 > expression, and ready articulation.
-
-Source: Pradhan 417|18–418|12. The damaged final page-line
-marker does not interrupt the natural argument. VAK 7.38
-begins the promised differentiated definitions.
 
 ## 6. Philosophical Translation
 
@@ -178,6 +175,10 @@ source explicitly reserves differences of `ālambana`,
 `bhūmi`, and `svabhāva` for separate treatment.
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: Pradhan 417|18–418|12. The damaged final page-line
+marker does not interrupt the natural argument. VAK 7.38
+begins the promised differentiated definitions.
 
 **Selective inheritance is the central grammatical control.**
 The research translation leaves the second “likewise”

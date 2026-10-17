@@ -313,4 +313,4 @@ ProjectConstraint: Retain uncertainty in the nine-ayatana explanation.
 
 This is a declarative project seed, not executable OWL.
 VAK 7.54 next examines the divine ear and eye as refined
-material faculties grounded in dhyāna.
+Form faculties grounded in dhyāna.

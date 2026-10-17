@@ -5,9 +5,11 @@
 > ṛddhiśrotramanaḥpūrvajanmacyutyudayakṣaye |
 > jñātasākṣīkriyābhijñāḥ ṣaḍvidhā muktimārgadhīḥ || 7.42 ||
 
-> The higher knowledges are sixfold direct cognitive realizations concerning
-> extraordinary efficacy, hearing, mind, former birth, death and arising, and
-> exhaustion. They are cognitions of the liberation path.
+> The six higher knowledges are direct cognitive realizations concerning
+> extraordinary efficacy, divine hearing, another’s mental course, former
+> abodes, the death and reappearance of beings, and exhaustion of the
+> influxes. Their nature is discriminative comprehension of the liberation
+> path.
 
 `Jñātasākṣīkriyā` compressed; prose `jñānasākṣātkriyā`. Category and level:
 7.43.
@@ -88,6 +90,6 @@ without closing it.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.42.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.42_bhasya.md` (Pradhan 421|03–12).
+QA drafted against Organon `VAK_7.42.md`
+(Pradhan 421|03–12).
 `kosabhasya.txt` collation pending. Provisional.

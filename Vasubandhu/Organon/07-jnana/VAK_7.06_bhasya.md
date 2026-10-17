@@ -85,7 +85,7 @@ occurs in darśanamārga    = false for paracittajñāna
 can take darśanamārga as object    = true
 ```
 
-First-pass reading that the two moments fail to know each other is refused.
+The reading that the two moments fail to know each other is refused.
 
 ## 6. Preparation and Rank
 
@@ -101,7 +101,7 @@ they are no longer the present target when preparation finishes.
 | Buddha | all Seeing-moments | `aprayogataḥ` |
 
 “All” is scoped to Seeing. VAK 6.28: fifteen Seeing-moments; sixteenth
-begins Cultivation. Do not import “all sixteen” from the first-pass summary.
+begins Cultivation. Do not import “all sixteen”.
 `Aprayogataḥ` is absence of this intervening preparation, not absence of
 every condition or all prior cultivation.
 

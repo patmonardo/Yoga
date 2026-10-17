@@ -70,13 +70,10 @@ measure.
 
 ### Bhāṣya-informed study translation
 
+
 > All Buddhas are equal through accumulation, perfection of the Dharma-body,
 > and activity for the world's welfare; they differ in lifespan, birth, and
 > bodily measure.
-
-Source: Pradhan 415|11–416|17. The full closing passage,
-including its devotional argument, belongs to this study.
-Clan is a Bhāṣya expansion, not an inserted kārikā word.
 
 ## 6. Philosophical Translation
 
@@ -197,6 +194,10 @@ verse is not printed here. The source then explicitly
 closes the eighteen distinctive Buddha-dharmas.
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: Pradhan 415|11–416|17. The full closing passage,
+including its devotional argument, belongs to this study.
+Clan is a Bhāṣya expansion, not an inserted kārikā word.
 
 **The closing praise is part of the argument.** The text
 moves from analysis of excellences to the love and reverence

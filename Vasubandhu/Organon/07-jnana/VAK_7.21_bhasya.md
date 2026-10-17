@@ -5,10 +5,10 @@
 > ato 'bhisamayāntyākhyaṃ tad anutpattidharmakam |
 > svādhobhūmi nirodhe 'ntyaṃ svasatyākāraṃ yatnikam || 7.21 ||
 
-> Therefore it is called knowledge at the end of direct realization; it is
-> of a nature not to arise. It belongs to its own and lower levels. In the
-> case of cessation, it is the last [application of mindfulness]. It has
-> the aspects of its own truth and is produced through application.
+> Therefore it is called knowledge of the end of direct realization, having
+> non-arising as its nature. It belongs to its own and lower levels. At
+> cessation it is the final [application of mindfulness], bearing the aspects
+> of its own truth and produced through effort.
 
 Subject: the special conventional knowledge of 7.20, not conventional
 knowledge in general, not anutpādajñāna. `Yatnikam` (lemma) over `yātnikam`.
@@ -96,7 +96,7 @@ Do not merge. Do not pick in §1–7.
 Levels: Seeing-level and below (e.g. anāgamya-Seeing → two; fourth-dhyāna
 Seeing → seven). Aspects and object = the truth just completed. Cessation:
 dharma-mindfulness only; the other two completions: four applications as
-range. Four/five aggregates = entourage, not knowledge itself.
+range. Four/five Bases = entourage, not knowledge itself.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -125,6 +125,6 @@ Taking as non-self remains method. Dialectic remains Ideal.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.21.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.21_bhasya.md` (Pradhan 406|07–407|17).
+QA drafted against Organon `VAK_7.21.md`
+(Pradhan 406|07–407|17).
 `Gautrikaṃ` unrestored. `kosabhasya.txt` collation pending. Provisional.

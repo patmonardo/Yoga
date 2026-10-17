@@ -81,13 +81,10 @@ these [qualities] arise from deliberate application.
 
 ### Bhāṣya-informed study translation
 
+
 > That final-limit dhyāna is sixfold, conformed in sequence to all levels,
 > and brought to the summit of increase. For one other than a Buddha, these
 > qualities arise through deliberate application.
-
-Source: Pradhan 420|07–421|03. The last Buddha/non-Buddha
-distinction is stated by the Bhāṣya and should not be
-reduced to an unstated psychology of habituation.
 
 ## 6. Philosophical Translation
 
@@ -217,6 +214,10 @@ It does not entail simultaneous manifestation without
 intention or collapse intention into the resulting quality.
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: Pradhan 420|07–421|03. The last Buddha/non-Buddha
+distinction is stated by the Bhāṣya and should not be
+reduced to an unstated psychology of habituation.
 
 **Procedure and result must remain connected.** The research
 kārikā file interprets all-level conformity mainly as

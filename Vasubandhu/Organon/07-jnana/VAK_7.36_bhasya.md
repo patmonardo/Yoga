@@ -5,9 +5,9 @@
 > saṃvṛtijñānam araṇā dhyāne 'ntye 'kopyadharmaṇaḥ |
 > nṛjā anutpannakāmāptasavastukleśagocarāḥ || 7.36 ||
 
-> Freedom from conflict is conventional knowledge, in the final dhyāna, of
-> an immovable practitioner. It arises among humans and has unarisen
-> desire-domain determinate-object afflictions as its field.
+> Araṇā is conventional knowledge, grounded in the final dhyāna, of an
+> immovable arhat. It arises among humans and has unarisen desire-domain
+> afflictions connected with determinate objects as its field.
 
 Transmitted `gocarāḥ` vs singular araṇā recorded, not repaired. Next sentence
 of the source opens 7.37.
@@ -99,7 +99,7 @@ works in the visible enclosure, not above it.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.36.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.36_bhasya.md` (Pradhan 417|02–18). Final
+QA drafted against Organon `VAK_7.36.md`
+(Pradhan 417|02–18). Final
 agreement and purpose-clause open. `kosabhasya.txt` collation pending.
 Provisional.

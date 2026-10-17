@@ -84,11 +84,10 @@ concerning karmic result, eight; nine [in the following fields].
 
 ### Bhāṣya-informed study translation
 
+
 > Eighteen are the unshared Buddha-qualities, beginning with the powers. For
 > possibility and impossibility, ten knowledges; for karmic maturation, eight;
 > and nine.
-
-The final count continues into the next verse.
 
 ## 6. Philosophical Translation
 
@@ -192,6 +191,8 @@ eighteen new knowledge categories or that the Buddha
 actualizes all their constituents simultaneously.
 
 ## 9. Interpretive Note
+
+**Translation note.** The final count continues into the next verse.
 
 **The transition preserves the cultivation question.** The
 opening prose recalls the general account of qualities

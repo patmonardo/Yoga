@@ -5,9 +5,9 @@
 > yathotpannāni bhāvyante kṣāntijñānāni darśane |
 > anāgatāni tatraiva sāṃvṛtaṃ cānvayatraye || 7.20 ||
 
-> In Seeing, future acceptances and knowledges are cultivated according to
-> what has arisen. There also, at the three anvaya-knowledges, conventional
-> knowledge is cultivated.
+> In Seeing, future acceptances and knowledges are cultivated according to the
+> kinds that have arisen. There too, conventional knowledge is cultivated at
+> the three anvaya-knowledge moments.
 
 New question: at which stage are which knowledges cultivated? Possession
 was 7.19. Actualization of this special conventional knowledge is 7.21.
@@ -55,7 +55,7 @@ cultivates (future, same kind)
 
 Not the seven possessed names replayed at every moment. Not the present
 event occurring twice. `Anāgata` is temporal status of what is cultivated,
-not a guarantee it will later arise. First-pass “recollection / teaching”
+not a guarantee it will later arise. “Recollection / teaching”
 uses are not in this prose.
 
 Acceptances are cultivated here though they are not jñāna (7.01). The
@@ -99,6 +99,6 @@ made present. Do not pick the winner here.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.20.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.20_bhasya.md` (Pradhan 405|18–406|06).
+QA drafted against Organon `VAK_7.20.md`
+(Pradhan 405|18–406|06).
 `Gotra` clause open. `kosabhasya.txt` collation pending. Provisional.

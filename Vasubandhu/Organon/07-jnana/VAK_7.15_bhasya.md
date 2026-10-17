@@ -57,7 +57,7 @@ bhūmi                 meditative level          (7.14–7.15)
 pratipakṣa            counteractive range       (7.09)
 ```
 
-`Kāmarūpāśrayam` is not the minds known. First-pass object-reading is
+`Kāmarūpāśrayam` is not the minds known. An object-reading is
 refused. `Saṃmukhīkriyate` = this knowledge is brought into presence.
 Uncontaminated minds can still be objects (7.11) while support is only
 kāma/rūpa.

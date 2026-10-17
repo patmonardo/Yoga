@@ -5,10 +5,11 @@
 > kāmadhyāneṣu dharme vit vāci prathamakāmayoḥ |
 > vikalābhir na tallābhī ṣaḍ ete prāntakoṭikāḥ || 7.40 ||
 
-> The discriminating knowledge concerning dharma is in the desire domain and
-> the dhyānas; that concerning speech is in the first dhyāna and desire domain.
-> One does not acquire that with incomplete members. These six are final-limit
-> qualities.
+> Dharma-discrimination occurs on five levels: the desire domain and the
+> four dhyānas. Nirukti-discrimination occurs in the desire domain and first
+> dhyāna. Whoever has acquired one of the four has all four; an incomplete
+> set is not their acquisition. These six qualities are acquired through
+> final-limit dhyāna.
 
 `Dharme vit` kept. Prose: `dharmapratisaṃvit pañcabhūmikā`. Definition of
 prāntakoṭika-dhyāna: 7.41.
@@ -93,6 +94,6 @@ allow a partial trophy. 7.41 will name that power.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.40.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.40_bhasya.md` (Pradhan 419|12–420|11). `Dharme
+QA drafted against Organon `VAK_7.40.md`
+(Pradhan 419|12–420|11). `Dharme
 vit` and prep-list open. `kosabhasya.txt` collation pending. Provisional.

@@ -87,13 +87,10 @@ knowledge. Concerning influx-exhaustion, six or ten.
 
 ### Bhāṣya-informed study translation
 
+
 > For dhyānas and related attainments, Faculties, inclinations, and
 > dispositions, the count is nine; for courses, however, it is ten or nine. The
 > two [powers] are conventional knowledge; at exhaustion, six or ten.
-
-The course count varies with inclusion of its fruit; the exhaustion count varies
-according to whether it means cessation-knowledge or knowledge in the continuum
-of one whose influxes are exhausted.
 
 ## 6. Philosophical Translation
 
@@ -195,6 +192,10 @@ practitioner. VAK 7.30 asks what warrants the designation
 “power” for the Buddha in particular.
 
 ## 9. Interpretive Note
+
+**Translation note.** The course count varies with inclusion of its fruit; the exhaustion count varies
+according to whether it means cessation-knowledge or knowledge in the continuum
+of one whose influxes are exhausted.
 
 **Meaning before counting.** The Bhāṣya supplies the reason
 for its alternatives through the scope of the expression.

@@ -6,15 +6,15 @@
 > bhūmyakṣapudgalotkrāntaṃ naṣṭājātaṃ na vetti tat || 7.5 ||
 
 > At their first arising, exhaustion- and non-arising-knowledge are
-> suffering- and origination-anvaya-knowledge, taking the summit-of-existence
-> aggregates as object. Knowledge of another mind belongs to four knowledge
+> suffering- and origination-anvaya-knowledge, taking the Base at the summit
+> of existence as object. Knowledge of another mind belongs to four knowledge
 > classes—dharma, anvaya, Path, and conventional—and cannot know a mind
 > beyond its level, faculty, or practitioner standing, nor one already
 > ceased or not yet arisen.
 
 Two statements. The opening dual completes 7.04. `Caturbhyaḥ paracittavit`
-begins a new determination. First-pass files that attached the dual to the
-fourfold paracitta list are corrected here, as already in the Organon kārikā.
+begins a new determination; the dual does not attach to the fourfold
+paracitta list.
 
 Kārikā study: [`VAK_7.05.md`](./VAK_7.05.md).
 
@@ -49,7 +49,7 @@ continuation, not to a paracitta debate.
 
 > When exhaustion-knowledge and non-arising-knowledge first arise, they are
 > suffering- and origination-anvaya-knowledges, because they take the
-> aggregates of the summit of existence as object-support under the aspects
+> Bases of the summit of existence as object-support under the aspects
 > of suffering and origination.
 >
 > Does the vajra-like Path also have the same object-support as those two?
@@ -76,7 +76,7 @@ continuation, not to a paracitta debate.
 
 ```text
 close 7.04: first arising = duḥkha- / samudaya-anvaya
-    object: bhavāgra aggregates; aspects: suffering, origination
+    object: bhavāgra Bases; aspects: suffering, origination
     side question: vajropama same object? — only if it takes those two truths
 new unit: paracittajñāna
     classified from four (not produced by four)
@@ -121,8 +121,8 @@ in the chapter.
 - Opening dual completes 7.04; it is not the content of `caturbhyaḥ`.
 - `Vit` = knowledge (`vetti` → `jñānam`), not a person-type.
 - Four = dharma, anvaya, Path, conventional — by 394|23, against the
-  damaged local list and against the first-pass attachment to suffering/
-  origination only.
+  damaged local list and against restricting it to suffering/
+  origination.
 - Ablative ≠ causal production.
 - `Akṣa` = faculty-grade via `indriya`.
 

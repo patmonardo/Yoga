@@ -81,14 +81,11 @@ its own truth's aspects and is produced through application.
 
 ### Bhāṣya-informed study translation
 
+
 > Therefore it is called knowledge of the end of direct realization, having
 > non-arising as its nature. It belongs to its own and lower levels. At
 > cessation it is the final [application of mindfulness], bearing the aspects
 > of its own truth and produced through effort.
-
-These predicates characterize the special conventional knowledge cultivated at
-the three anvaya moments. The reading `yatnikam` follows the Devanāgarī and the
-Bhāṣya lemma; the running source's `yātnikam` remains a textual uncertainty.
 
 ## 6. Philosophical Translation
 
@@ -189,6 +186,10 @@ endpoints. “Four applications” describes the cultivated range,
 not four simultaneously occurring cognitive acts.
 
 ## 9. Interpretive Note
+
+**Translation note.** These predicates characterize the special conventional knowledge cultivated at
+the three anvaya moments. The reading `yatnikam` follows the Devanāgarī and the
+Bhāṣya lemma; the running source's `yātnikam` remains a textual uncertainty.
 
 **Acquisition needs explanatory content.** The commentary's
 criticism is sharper than a neutral listing of alternatives.

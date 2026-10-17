@@ -11,8 +11,8 @@
 > conventional knowledge can know, as non-self, all dharmas outside
 > its own co-arising complex.
 
-This is the assignment announced at the close of 7.17. First-pass marks
-7.01–7.18 as an editorial block. That cut is ours, not the text's stop.
+This is the assignment announced at the close of 7.17. Treating
+7.01–7.18 as a block is an editorial cut, not the text's stop.
 
 Kārikā study: [`VAK_7.18.md`](./VAK_7.18.md).
 

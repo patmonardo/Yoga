@@ -5,10 +5,10 @@
 > yadvairāgyāya yallābhas tatra cādhaś ca bhāvyate |
 > sāsravāś ca kṣayajñāne labdhapūrvaṃ na bhāvyate || 7.26 ||
 
-> For whichever level's detachment the path operates, and whichever level is
-> acquired, there and below [uncontaminated knowledge] is cultivated. At
-> exhaustion-knowledge, contaminated [qualities] also [are cultivated]. What
-> has been acquired before is not cultivated.
+> For whichever level detachment is sought, and whichever level is acquired,
+> knowledge is cultivated there and below. At knowledge of exhaustion,
+> contaminated qualities too are cultivated; what was acquired before is not
+> cultivated.
 
 New question: on which path, knowledge of how many *levels*. Category-count
 was 7.22–7.25. Four senses of cultivation: 7.27.
@@ -95,6 +95,6 @@ acquisition alone.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.26.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.26_bhasya.md` (Pradhan 410|03–17). Damaged
+QA drafted against Organon `VAK_7.26.md`
+(Pradhan 410|03–17). Damaged
 list-head and similes open. `kosabhasya.txt` collation pending. Provisional.

@@ -5,9 +5,11 @@
 > aśaikṣyantyā tadākhye dve tatsaṃtānamudbhavāt |
 > iṣṭe śaikṣasya nokte tu vidye sāvidyasaṃtateḥ || 7.46 ||
 
-> The last is beyond training. The two bear that designation because they arise
-> in that continuum. They are admitted for the learner, but are not called
-> vidyās, because the continuum is accompanied by ignorance.
+> Of the three vidyās, the last—direct realization of influx-exhaustion—is
+> beyond training in the strict sense. The other two bear that designation
+> because they arise in a beyond-training continuum. They are admitted for a
+> learner, but are not called vidyās for that learner, because the continuum is
+> accompanied by ignorance.
 
 `Tatsaṃtānamudbhavāt` unrestored; meaning from prose. Next: three prātihāryas.
 
@@ -79,6 +81,6 @@ cut is designation, not contempt for the learner.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.46.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.46_bhasya.md` (Pradhan 423|20–424|07).
+QA drafted against Organon `VAK_7.46.md`
+(Pradhan 423|20–424|07).
 Junction unrestored. `kosabhasya.txt` collation pending. Provisional.

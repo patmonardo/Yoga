@@ -5,9 +5,11 @@
 > vāṅmārgālambanā cāsau nava jñānāni sarvabhūḥ |
 > daśa ṣaḍvārthasaṃvit sā sarvatrānye tu sāṃvṛtam || 7.39 ||
 
-> That [fourth] has speech and the Path as its objects; nine knowledges; every
-> level. Meaning-discrimination: ten or six, everywhere. The other two:
-> conventional knowledge.
+> The fourth discriminating knowledge takes speech and the Path as its
+> objects, comprises nine knowledge categories, and occurs on every level.
+> Meaning-discrimination comprises ten categories when its field is all
+> dharmas, or six when its field is nirvāṇa; it too occurs on every level.
+> The other two have conventional knowledge as their nature.
 
 `Asau` = pratibhāna. Dharma- and nirukti-levels: 7.40.
 
@@ -83,6 +85,6 @@ Appearance would store “artha-pratisaṃvid = 10.”
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.39.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.39_bhasya.md` (Pradhan 418|19–419|11).
+QA drafted against Organon `VAK_7.39.md`
+(Pradhan 418|19–419|11).
 `kosabhasya.txt` collation pending. Provisional.

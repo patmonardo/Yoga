@@ -3,11 +3,11 @@
 ## 1. Kārikā Anchor
 
 > avyākṛtaṃ bhāvanājaṃ trividhaṃ tūpapattijam |
-> ṛiddhirmantrauṣadhābhyāṃ ca karmajā ceti pañcadhā || 7.53 ||
+> ṛddhirmantrauṣadhābhyāṃ ca karmajā ceti pañcadhā || 7.53 ||
 
-> The cultivation-produced construction-mind is ethically indeterminate; the
-> birth-produced one, however, is threefold. Ṛiddhi also arises through mantra
-> and medicinal means, and from karma: thus it is fivefold.
+> A construction-consciousness resulting from cultivation is ethically
+> indeterminate; one acquired through birth is threefold. Ṛddhi also arises
+> through mantra, medicinal means, and karma: thus it is fivefold.
 
 Divine ear and eye: 7.54.
 
@@ -87,6 +87,6 @@ before it names the ethical cell. Technē of mantra or medicine is not our work.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.53.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.53_bhasya.md` (Pradhan 428|12–429|03).
+QA drafted against Organon `VAK_7.53.md`
+(Pradhan 428|12–429|03).
 Nine-āyatana explanation open. `kosabhasya.txt` collation pending. Provisional.

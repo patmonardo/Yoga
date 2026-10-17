@@ -78,13 +78,10 @@ Essence.
 
 ### Bhāṣya-informed study translation
 
+
 > The Buddha's strength is Nārāyaṇa-strength in the body; others say it is in
 > the joints. The strength of the seven beginning with the elephant increases
 > tenfold; that strength is the tangible Essence.
-
-The Bhāṣya reads the elephant series as successive tenfold grades and identifies
-bodily strength as a determination of the Tangible Essence; its competing
-accounts remain in the analysis.
 
 ## 6. Philosophical Translation
 
@@ -182,6 +179,10 @@ into a quantity of bodily force.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya reads the elephant series as successive tenfold grades and identifies
+bodily strength as a determination of the Tangible Essence; its competing
+accounts remain in the analysis.
+
 **The strength is bodily, the classification general.**
 The examples concern the Buddha's extraordinary strength,
 but the final prose says `sarvasyaiva`, of everyone.
@@ -218,7 +219,7 @@ and avoiding a literal engineering inference from boundless
 knowledge to infinite mechanical force.
 
 The principal material account is equally significant.
-Strength is a determination of the great elements; the
+Strength is a determination of the Great Elements; the
 alternative treats it as derived Form. Technē therefore
 needs a determinate account of bodily capacity, rather
 than treating every use of `bala` as the same kind of

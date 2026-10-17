@@ -81,12 +81,10 @@ concern contaminated dharmas.
 
 ### Bhāṣya-informed study translation
 
+
 > The two called acquisition and practice are cultivation of wholesome
 > conditioned dharmas; the two cultivations of counteraction and expulsion,
 > however, concern the contaminated.
-
-The verse names two paired modes: acquisition and practice, then counteraction
-and expulsion.
 
 ## 6. Philosophical Translation
 
@@ -191,6 +189,9 @@ study does not infer a separate detailed proof of each
 mapping from this compressed sentence.
 
 ## 9. Interpretive Note
+
+**Translation note.** The verse names two paired modes: acquisition and practice, then counteraction
+and expulsion.
 
 **The four right efforts are not the local explanation.**
 The research kārikā study says the Bhāṣya aligns these

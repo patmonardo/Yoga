@@ -5,9 +5,9 @@
 > śiṣyasādhāraṇā anye dharmāḥ kecit pṛthagjanaiḥ |
 > araṇāpraṇidhijñānapratisaṃvidguṇādayaḥ || 7.35 ||
 
-> Other qualities are shared with disciples, some with ordinary persons —
-> qualities beginning with freedom from conflict, knowledge through resolve,
-> and discriminating knowledges.
+> Other excellent qualities of Buddhas are shared with śrāvaka disciples,
+> and some also with ordinary persons, as appropriate: araṇā, resolve-
+> knowledge, discriminating knowledges, and so forth.
 
 Eighteen closed. These are still Buddha-qualities; sharing is the new
 relation. `Kecit` and `yathāyogam` govern the ordinary-person clause.
@@ -31,7 +31,7 @@ introduction 417|02–05 belongs to 7.36's determination. Voice: Vasubandhu.
 > But other excellent qualities of Buddhas are shared with śrāvakas. Some
 > with ordinary persons. Which? As applicable: freedom from conflict,
 > knowledge through resolve, discriminating knowledges, higher knowledges,
-> dhyānas, formless attainments, immeasurables, liberations, spheres of
+> dhyānas, formless attainments, immeasurables, liberations, Essences of
 > mastery, totality-Essences, and so on.
 
 ## 4. Movement of the Commentary
@@ -80,6 +80,6 @@ individual analyses supply the masks.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.35.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.35_bhasya.md` (Pradhan 416|17–417|02).
+QA drafted against Organon `VAK_7.35.md`
+(Pradhan 416|17–417|02).
 Possession-table deferred. `kosabhasya.txt` collation pending. Provisional.

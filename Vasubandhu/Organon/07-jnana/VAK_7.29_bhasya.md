@@ -5,9 +5,9 @@
 > dhyānādyakṣādhimokṣeṣu dhātau ca pratipatsu tu |
 > daśa vā saṃvṛtijñānaṃ dvayoḥ ṣaṭ daśa vā kṣaye || 7.29 ||
 
-> Concerning dhyānas and related attainments, faculties, inclinations, and
-> domains, [nine knowledges]; concerning paths, however, ten or [nine]. Of
-> the two [powers], conventional knowledge. Concerning exhaustion, six or ten.
+> For dhyānas and related attainments, Faculties, inclinations, and
+> dispositions, the count is nine; for courses, however, it is ten or nine. The
+> two [powers] are conventional knowledge; at exhaustion, six or ten.
 
 `Nava` carried from 7.28. These are still the ten *powers* as qualities —
 not a new knowledge-inventory.
@@ -97,6 +97,6 @@ the number. Appearance would store “path-power = 10.”
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.29.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.29_bhasya.md` (Pradhan 411|18–412|09).
+QA drafted against Organon `VAK_7.29.md`
+(Pradhan 411|18–412|09).
 Incomplete dual-line flagged. `kosabhasya.txt` collation pending. Provisional.

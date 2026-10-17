@@ -32,7 +32,7 @@ Kārikā study: [`VAK_7.08.md`](./VAK_7.08.md).
 > kṛtakṛtyataḥ kṣayajñānaṃ kṛtakṛtyasaṃtāne … /
 > hetūpacayato 'nutpādajñānaṃ sarvānāsravahetukatvāt /
 
-**Witness.** First-pass and Organon kārikā: Pradhan 395|03–09. Verse e-text
+**Witness.** Pradhan 395|03–09. Verse e-text
 has `pratipakṣānyām`, `hetūpacayoto`; study readings `pratipakṣābhyām`,
 `hetūpacayato`. Prose has damaged domain-forms (`kāmathāturdhvadhātu`).
 `Prathamataḥ` between exhaustion and causal-accumulation explanations is

@@ -91,15 +91,12 @@ qualities.
 
 ### Bhāṣya-informed study translation
 
+
 > Dharma-discrimination occurs on five levels: the desire domain and the
 > four dhyānas. Nirukti-discrimination occurs in the desire domain and first
 > dhyāna. Whoever has acquired one of the four has all four; an incomplete
 > set is not their acquisition. These six qualities are acquired through
 > final-limit dhyāna.
-
-Source: Pradhan 419|12–420|11. The definition of final-limit
-dhyāna begins immediately after this verse and is completed
-under VAK 7.41.
 
 ## 6. Philosophical Translation
 
@@ -229,6 +226,10 @@ the desire domain and first dhyāna. Shared acquisition-
 ground does not imply identical intrinsic support.
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: Pradhan 419|12–420|11. The definition of final-limit
+dhyāna begins immediately after this verse and is completed
+under VAK 7.41.
 
 **The syntax is controlled without being erased.** The
 research file rightly warns about `dharme vit`, but the

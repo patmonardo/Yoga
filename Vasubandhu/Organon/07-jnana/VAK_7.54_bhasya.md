@@ -1,13 +1,13 @@
-# VAK_7.54 Bhāṣya — Divine Eye and Ear: Material Faculties and Operative Range
+# VAK_7.54 Bhāṣya — Divine Eye and Ear: Form Faculties and Operative Range
 
 ## 1. Kārikā Anchor
 
 > divyaśrotrākṣiṇī rūpaprasādau dhyānabhūmikau |
 > sabhāgāvikale nityaṃ dūrasūkṣmādigocare || 7.54 ||
 
-> The divine ear and eye are two refined material faculties belonging to dhyāna
-> grounds. They are invariably operative and unimpaired, with distant, subtle,
-> and related objects as their range.
+> The divine ear and eye are two refined Form faculties belonging to dhyāna
+> grounds. They are invariably accompanied by the corresponding Cognition,
+> unimpaired, and have distant, subtle, and related objects as their range.
 
 Quantitative range and exertion: 7.55. Do not pull those numbers into this file.
 
@@ -26,7 +26,7 @@ Vasubandhu.
 ## 3. Continuous Conventional Translation
 
 > For one entered into dhyāna, by application directed to sound and light, two
-> refined material faculties come about from dhyāna-ground elements, near the eye
+> refined Form faculties come about from dhyāna-ground Great Elements, near the eye
 > and ear, as causes of seeing visible form and hearing sound. From belonging to
 > the dhyāna ground they are divine.
 >
@@ -60,7 +60,7 @@ formless substitute in this unit.
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
 - dual = ear and eye;
-- `rūpaprasāda` = material faculty, not faith;
+- `rūpaprasāda` = Form faculty, not faith;
 - `sabhāga` vs tatsabhāga by vijñāna.
 
 ## 8. Philosophical and Organon Study
@@ -73,6 +73,6 @@ How far: next verse.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.54.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.54_bhasya.md` (stop before range-numbers).
+QA drafted against Organon `VAK_7.54.md`
+(stop before range-numbers).
 `kosabhasya.txt` collation pending. Provisional.

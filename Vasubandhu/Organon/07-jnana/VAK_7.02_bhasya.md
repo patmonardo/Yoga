@@ -32,7 +32,7 @@ Kārikā study: [`VAK_7.02.md`](./VAK_7.02.md).
 > anāsravaṃ jñānaṃ dvidhā bhidyate /
 > dharmajñānam anvayajñānaṃ ca /
 
-**Witness.** First-pass citation: Pradhan 391|14–392|04. The running e-text
+**Witness.** Citation: Pradhan 391|14–392|04. The running e-text
 has a malformed page marker near this span; it is not treated as content.
 Kārikā quotation and verse e-text transmit `saṃvṛtijñāpakam`; the prose
 identification is `saṃvṛtijñānam`. The Organon kārikā displays

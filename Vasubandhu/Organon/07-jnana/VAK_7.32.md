@@ -77,15 +77,11 @@ has mindfulness and discriminative comprehension as its nature.
 
 ### Bhāṣya-informed study translation
 
+
 > The four fearlessnesses correspond, in order, to the first and tenth
 > powers, and likewise to the second and seventh. The three establishments
 > of mindfulness have mindfulness and discriminative comprehension as their
 > nature.
-
-Source: Pradhan 413|20–414|16. The passage refers to the
-sūtras but quotes only abbreviated formulations. This
-study does not reconstruct complete sūtra declarations
-from those fragments.
 
 ## 6. Philosophical Translation
 
@@ -185,6 +181,11 @@ It should not be reduced to a repetition of the first or
 turned into a claim that disciples can never show composure.
 
 ## 9. Interpretive Note
+
+**Translation note.** Source: Pradhan 413|20–414|16. The passage refers to the
+sūtras but quotes only abbreviated formulations. This
+study does not reconstruct complete sūtra declarations
+from those fragments.
 
 **Do not collapse ground and result.** The statement
 `jñānakṛtaṃ vaiśāradyaṃ yujyate / na jñānam eva` directly

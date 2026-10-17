@@ -5,9 +5,10 @@
 > ādyā tṛtīyā ṣaṣṭhī ca prātihāryāṇi śāsanam |
 > agryam avyabhicāritvāddhiteṣṭaphalayojanāt || 7.47 ||
 
-> The first, third, and sixth are the prātihāryas. Instruction is foremost
-> because of non-deviation and because it connects with beneficial and desired
-> fruit.
+> The first, third, and sixth [higher knowledges] are the prātihāryas:
+> extraordinary efficacy, indication, and instruction, respectively.
+> Instruction is foremost because it does not deviate and because it joins
+> [those instructed] with beneficial and desired fruit.
 
 Ordinals from the six abhijñās. Next: ṛiddhi as samādhi and modes of going.
 
@@ -86,6 +87,6 @@ miracle stacked on the first two.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.47.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.47_bhasya.md` (Pradhan 424|08–425|03). Closing
+QA drafted against Organon `VAK_7.47.md`
+(Pradhan 424|08–425|03). Closing
 phrase compressed. `kosabhasya.txt` collation pending. Provisional.

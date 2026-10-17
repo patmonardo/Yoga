@@ -5,9 +5,9 @@
 > navānāṃ tu kṣayajñāne akopyasya daśa bhāvanā |
 > tatsaṃcare 'ntyamuktau ca proktaśeṣe 'ṣṭabhāvanā || 7.25 ||
 
-> At knowledge of exhaustion, there is cultivation of nine knowledges; for
-> the immovable practitioner, of ten. Also at the final liberation path in
-> transition to that state, ten. In the remaining stated cases, eight.
+> At knowledge of exhaustion there is cultivation of nine; for one of immovable
+> nature, ten. At the final liberation path, in transition to that state, there
+> is cultivation of ten; in the remaining stated cases, eight.
 
 Ninth Bhavāgra-liberation path = kṣayajñāna. Completes 7.23's eight vimukti
 paths and 7.24's Bhavāgra-ānantarya six.
@@ -101,7 +101,7 @@ is acquired. The Absolute as Appearans is not “all ten cultivated.”
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.25.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.25_bhasya.md` (Pradhan 409|08–410|02).
+QA drafted against Organon `VAK_7.25.md`
+(Pradhan 409|08–410|02).
 Compressed remainder and aśaikṣa distribution open. `kosabhasya.txt`
 collation pending. Provisional.

@@ -5,9 +5,11 @@
 > yathākramaṃ dhyānaphalaṃ dve yāvat pañca nordhvajam |
 > tallābho dhyānavat śuddhāttatsvataśca tato 'pi te || 7.50 ||
 
-> In order, two up to five are results of dhyāna; none belongs to a higher
-> ground [than its source]. Their acquisition is like that of dhyāna. That mind
-> arises from pure dhyāna and from its own kind; from it, in turn, those two arise.
+> In order, the first through fourth dhyānas produce two, three, four, and five
+> construction-consciousnesses, respectively; no lower dhyāna produces one of a
+> higher ground. Their acquisition is like that of dhyāna. A construction-
+> consciousness arises immediately after pure dhyāna or another construction-
+> consciousness, and after it, in turn, either of those two arises.
 
 Product-matching and speech: 7.51.
 
@@ -87,6 +89,6 @@ meta-nirodha hint we do not yet name as nirodha.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.50.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.50_bhasya.md` (Pradhan 426|11–427|05). Damaged
+QA drafted against Organon `VAK_7.50.md`
+(Pradhan 426|11–427|05). Damaged
 strings and `gatitaḥ` open. `kosabhasya.txt` collation pending. Provisional.

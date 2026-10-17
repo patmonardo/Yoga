@@ -2,12 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-> ṛiddhiḥ samādhiḥ gamanaṃ nirmāṇaṃ ca gatistridhā |
+> ṛddhiḥ samādhiḥ gamanaṃ nirmāṇaṃ ca gatistridhā |
 > śāsturmanojavā anyeṣāṃ vāhinyapyādhimokṣikī || 7.48 ||
 
-> Ṛiddhi is concentration; movement and construction [are accomplished through
-> it]. Movement is threefold. The Teacher has mind-swift movement; others have
-> body-conveying and also resolve-based movement.
+> According to the Vaibhāṣika account, ṛddhi is samādhi, through which going
+> and construction are accomplished. Movement is threefold: the Teacher's is
+> swift as mind; others' is body-conveying and resolve-based.
 
 Vaibhāṣika account. Construction details: 7.49.
 
@@ -85,6 +85,6 @@ spectacle remains spectacle. Appearance would print “can fly.”
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.48.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.48_bhasya.md` (Pradhan 425|04–18). Speed-gloss
+QA drafted against Organon `VAK_7.48.md`
+(Pradhan 425|04–18). Speed-gloss
 open. `kosabhasya.txt` collation pending. Provisional.
