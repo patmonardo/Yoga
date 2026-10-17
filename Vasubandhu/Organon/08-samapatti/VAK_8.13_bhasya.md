@@ -5,9 +5,10 @@
 > kāyākṣiśrotravijñānaṃ vijñaptyutthāpakaṃ ca yat |
 > dvitīyādau tadādyāptam akliṣṭāvyākṛtaṃ ca tat || 8.13 ||
 
-> Body-, eye-, and ear-knowledge, and that which initiates manifest action — in
-> the second and subsequent [dhyānas], that belongs to the first, and it is
-> undefiled and indeterminate.
+> In the second and higher dhyāna rebirths, the body-, eye-, and
+> ear-Cognition, together with the Cognition that initiates manifest
+> action, belongs to the first dhyāna; and that Cognition is
+> undefiled and ethically indeterminate.
 
 Local close of the dhyāna stretch. Acquisition of attainments: 8.14.
 
@@ -46,7 +47,7 @@ ethical cell: akliṣṭa-avyākṛta
 local close; chapter not over
 ```
 
-## 5. Level of Being ≠ Level of Operation
+## 5. Level of Rebirth ≠ Level of Operation
 
 Rebirth question, not a sitting that stays fourth while the eyes work. Neutral
 here ≠ upekṣā-feeling ≠ anāsrava. Nirmāṇacitta is comparison, not “all seeing
@@ -67,7 +68,7 @@ is magic.” No module-stack.
 - `dvitīyādau` = those reborn there;
 - two reasons for the ethical cell.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -79,6 +80,6 @@ fourth.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.13.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.13_bhasya.md` (Pradhan 442|07–18).
-`kosabhasya.txt` collation pending. Provisional.
+Pair with Organon `VAK_8.13.md` (Pradhan 442|07–18), upgraded to the
+current Method: kārikā translations and anchor standardized; terminology
+upgraded. `kosabhasya.txt` collation pending. Provisional.

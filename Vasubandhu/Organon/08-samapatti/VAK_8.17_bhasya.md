@@ -5,9 +5,11 @@
 > caturdhā śuddhakaṃ hānabhāgīyādi yathākramam |
 > kleśotpattisvabhūmyūrdhvānāsravānuguṇaṃ hi tat || 8.17 ||
 
-> Pure attainment is fourfold, beginning with that conducive to decline. For it
-> is respectively conducive to the arising of defilements, to its own level, to
-> a higher level, and to the uncontaminated.
+> Pure attainment is of four kinds, beginning with the decline-conducive
+> and followed in order by the stability-conducive, the
+> distinction-conducive, and the penetration-conducive; for, in that
+> order, it is conducive to the arising of defilements, to its own
+> level, to a higher level, and to the uncontaminated.
 
 Successor counts among the four: 8.18.
 
@@ -66,7 +68,7 @@ next (counts: 8.18).
 - mapping, not the first list-order;
 - `tasmāt` = from the last type.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -79,6 +81,6 @@ the chakra as it is: Knowing with content.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.17.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.17_bhasya.md` (Pradhan 445|02–10).
-`kosabhasya.txt` collation pending. Provisional.
+Pair with Organon `VAK_8.17.md` (Pradhan 445|02–10), upgraded to the
+current Method: kārikā translations and anchor standardized; terminology
+upgraded. `kosabhasya.txt` collation pending. Provisional.

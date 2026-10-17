@@ -5,9 +5,10 @@
 > aṣṭau sāmantakāny eṣāṃ śuddhāduḥkhāsukhāni hi |
 > āryaṃ cādyaṃ tridhā kecid atarkaṃ dhyānam antaram || 8.22 ||
 
-> There are eight access attainments for these; they are pure and neither painful
-> nor pleasant. The first is also noble. Some [say it is] threefold. Intermediate
-> dhyāna is without vitarka.
+> For these eight principal attainments there are eight access
+> attainments, one for each; they are pure and neither painful nor
+> pleasant. The first access attainment is also noble. Some say it is
+> threefold. The intermediate dhyāna is a dhyāna without vitarka.
 
 Modes and result of intermediate dhyāna: 8.23. Chapter not closed.
 
@@ -69,7 +70,7 @@ mind. `Tridhā kecit` ≠ the later three samādhis by vitarka/vicāra.
 - `āryam` = anāsrava of anāgamya;
 - last pāda opens dhyānāntara, finished next.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -80,6 +81,7 @@ the same shine. Two intermediates, two determinations.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.22.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.22_bhasya.md` (Pradhan 447|18–448|11).
-`kosabhasya.txt` collation pending. Provisional.
+Pair with Organon `VAK_8.22.md` (Pradhan 447|18–448|11), upgraded to the
+current Method: kārikā translations and anchor standardized; terminology
+upgraded. Damaged `yantabāhyatvāt` left unresolved. `kosabhasya.txt`
+collation pending. Provisional.

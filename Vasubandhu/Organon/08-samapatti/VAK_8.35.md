@@ -1,4 +1,4 @@
-# VAK_8.35 — Eight Bases of Mastery
+# VAK_8.35 — Eight Essences of Mastery
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -19,16 +19,11 @@ removed. The running source distributes its clauses
 through the commentary. The spelling abhibhvāyatana
 is retained; its analytical expansion is given below.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-abhibhū-āyatanāni | aṣṭau | dvayam | ādya-vimokṣa-vat |
-dve | dvitīya-vat | anyāni | punaḥ | śubha-vimokṣa-vat
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `abhibhvāyatanāni` | nominative plural neuter compound | bases of mastery |
+| `abhibhvāyatanāni` | nominative plural neuter compound (abhibhū + āyatana) | Essences of mastery |
 | `aṣṭau` | numeral | eight |
 | `dvayam` | nominative singular neuter collective | a pair, the first two |
 | `ādyavimokṣavat` | indeclinable comparison in `-vat` | like the first release |
@@ -67,11 +62,11 @@ make the two practice classifications interchangeable.
 
 **Punaḥ marks the remaining group.** It does not
 instruct the practitioner to repeat the beautiful
-release after each of the preceding mastery bases.
+release after each of the preceding Essences of mastery.
 This verse classifies rather than prescribing an
 invariable temporal sequence of exercises.
 
-**Close construe.** There are eight bases of mastery:
+**Close construe.** There are eight Essences of mastery:
 the first pair is like the first release;
 the next two are like the second release;
 the remaining four are like the beautiful release.
@@ -80,41 +75,26 @@ the remaining four are like the beautiful release.
 
 ### Literal Translation
 
-> There are eight bases of mastery. A pair
+> There are eight Essences of mastery. A pair
 > is like the first release; two are like
 > the second; the others, in turn, are like
 > the beautiful release.
 
 ### Bhāṣya-informed study translation
 
-> The eight bases of mastery are arranged as follows.
-> With internal perception of form, one sees external
-> forms, limited or extensive, attractive or unattractive,
-> and knows and sees them as mastered. These
-> first two bases correspond to the first release.
->
-> Without internal perception of form, the same
-> limited/extensive distinction gives the third and fourth
-> bases, corresponding to the second release. Again
-> without internal perception of form, seeing blue,
-> yellow, red, and white gives the remaining four,
-> corresponding to the beautiful release.
->
-> The distinction is this: through the releases
-> there is merely turning away; through these
-> bases there is mastery of the object, through
-> determination at will and the non-arising of affliction.
-
-Source: Pradhan 457|01–457|12, checked against the local
-Bhāṣya study and running source. The enumeration
-and operational distinction are commentary, not additional
-words silently inserted into the kārikā.
+> The eight Essences of mastery are these. The first two are like
+> the first release: with internal perception of form, one sees external
+> forms, limited or extensive, attractive or unattractive, and knows and
+> sees them as mastered. The next two are like the second release,
+> the same without internal perception of form. The remaining four are
+> like the beautiful release: without internal perception of form, one
+> sees blue, yellow, red, and white as mastered.
 
 ## 6. Philosophical Translation
 
 > A shared contemplative pattern can sustain distinct
 > practical functions. The first three releases provide
-> the patterns for eight bases of mastery. Mastery
+> the patterns for eight Essences of mastery. Mastery
 > is specified by intentional command in relation
 > to the object together with non-arising of affliction.
 > The object relation and its affective consequence
@@ -127,7 +107,7 @@ to change external things.
 
 ## 7. Technical Vocabulary
 
-**`Abhibhvāyatana`.** Essence of mastery (conventionally, base of mastery).
+**`Abhibhvāyatana`.** Essence of mastery (Pradhan 457|01–12).
 The commentary explains the term through mastery
 of the ālambana, the object of contemplation.
 The field's scale and appearance are articulated
@@ -140,7 +120,7 @@ the enumerative formula. Absence of internal form-perception
 does not remove the external visible-form object.
 
 **`Parītta / adhimātra`.** Limited / extensive.
-The second base repeats the first formula with
+The second Essence repeats the first formula with
 the extensive field; the next pair repeats this
 distinction without internal form-perception.
 
@@ -161,7 +141,7 @@ in the accomplished relation of mastery.
 
 **`Vaimukhyamātra`.** Mere turning away. This is
 the commentary's local comparative characterization of
-release in distinguishing it from the mastery bases.
+release in distinguishing it from the Essences of mastery.
 
 **`Ālambanābhibhavana`.** Mastery of the object.
 Ālambana here is the object-support of contemplation,
@@ -177,7 +157,7 @@ converted into permanent eradication of every kleśa.
 
 **The eight members.**
 
-| Base | Internal form-perception | External form | Release correspondence |
+| Essence | Internal form-perception | External form | Release correspondence |
 |---|---|---|---|
 | 1 | Present | Limited, attractive or unattractive | First release |
 | 2 | Present | Extensive, attractive or unattractive | First release |
@@ -189,13 +169,13 @@ converted into permanent eradication of every kleśa.
 | 8 | Absent | White | Beautiful release |
 
 Attractive and unattractive are included within the
-first four formulas. Counting them as separate bases
+first four formulas. Counting them as separate Essences
 would inflate the stated total. Likewise the final
 four are not further multiplied by the limited/extensive
 distinction in this enumeration.
 
 **The source's explicit cross-reference.** The prose
-names the first and second mastery bases under
+names the first and second Essences of mastery under
 the first release and the third and fourth
 under the second. It then assigns the remaining
 four to the beautiful release. These ordinal
@@ -205,10 +185,10 @@ third dhyāna respectively.
 **Correspondence with a difference.** The final prose
 first affirms the comparisons and then adds
 ayaṃ tu viśeṣaḥ, “but this is the distinction.”
-The bases share the relevant release patterns
+The Essences share the relevant release patterns
 while their distinguishing function is ālambanābhibhavana.
 The comparison cannot therefore be encoded as
-identity between a release and a mastery base.
+identity between a release and an Essence of mastery.
 
 **Two grounds for mastery.** The ablative expressions
 yatheccham adhimokṣāt and kleśānutpādāt are joined
@@ -222,7 +202,7 @@ omit the first.
 study already described mastery of attainment among
 the general purposes of release cultivation. Here
 the narrower comparison identifies the distinctive
-object-mastery of the eight bases. Reading “mere
+object-mastery of the eight Essences. Reading “mere
 turning away” as a denial of all positive
 functions of releases would flatten that context.
 
@@ -272,7 +252,7 @@ the running source. Research originals remain untouched.
 ## 10. OWL++ Seed
 
 ```text
-Class: MasteryBase
+Class: MasteryEssence
 Class: ReleasePattern
 Class: InternalFormPerceptionStatus
 Class: ContemplativeObjectDetermination
@@ -282,7 +262,7 @@ ObjectProperty: hasInternalFormPerceptionStatus
 ObjectProperty: hasObjectDetermination
 ObjectProperty: characterizedBy
 
-EightMasteryBases:
+EightMasteryEssences:
     memberCount: 8
     partitionSizes: 2, 2, 4
 
@@ -298,12 +278,12 @@ SecondMasteryPair:
     objectDistinction: Limited, Extensive
     appearanceRange: AttractiveOrUnattractive
 
-FinalFourMasteryBases:
+FinalFourMasteryEssences:
     patternedAfter: BeautifulRelease
     internalFormPerception: Absent
     separatelyEnumeratedObjects: Blue, Yellow, Red, White
 
-MasteryBaseDistinctiveFunction:
+MasteryEssenceDistinctiveFunction:
     function: MasteryOfContemplativeObject
     explanatoryGrounds: DeterminationAtWill, NonArisingOfAffliction
 

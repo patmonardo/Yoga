@@ -21,14 +21,9 @@ have tv arūpiṇaḥ; that script difference is
 retained and disclosed rather than treated as
 a distinct doctrinal reading.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kāma-āpta-dṛśya-viṣayāḥ | prathamāḥ | ye | tu | arūpiṇaḥ |
-te | anvaya-jñāna-pakṣa-ūrdhva-sva-bhū-duḥkha-ādi-gocarāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kāmāptadṛśyaviṣayāḥ` | nominative plural masculine compound adjective | having desire-domain visible form as object |
 | `prathamāḥ` | nominative plural masculine ordinal | the first releases, here the first three |
@@ -39,10 +34,8 @@ te | anvaya-jñāna-pakṣa-ūrdhva-sva-bhū-duḥkha-ādi-gocarāḥ
 | `duḥkhādi` | compound member | suffering and the associated following items |
 | `gocarāḥ` | nominative plural compound ending | having as their object-field |
 
-`Kāma + āpta` yields `kāmāpta`;
-`pakṣa + ūrdhva` yields `pakṣordhva`;
-`duḥkha + ādi` yields `duḥkhādi`.
-The prose unpacks the final compound into distinct
+Sandhi: `kāma + āpta` > `kāmāpta`; `pakṣa + ūrdhva` > `pakṣordhva`;
+`duḥkha + ādi` > `duḥkhādi`. The prose unpacks the final compound into distinct
 object categories rather than one unrestricted truth-field.
 
 ## 4. Grammar
@@ -88,20 +81,11 @@ in the commentary.
 
 ### Bhāṣya-informed study translation
 
-> The first three releases take visible form
-> of the desire domain as object, unpleasant
-> or pleasant according to the release.
->
-> The formless releases take suffering of their
-> own and higher levels, its cause and cessation,
-> and the whole path belonging to the anvayajñāna
-> side. Non-analytical cessation must also be included,
-> and space for one of these releases.
-
-Source: Pradhan 456|09–456|24, checked against the local
-Bhāṣya study and running source. The remaining
-prose in this span explains the level distribution,
-beautiful-release cultivation, and the purposes of release practice.
+> The first three releases have as their object visible form of the
+> desire domain, unpleasant or pleasant as the case may be. The formless
+> releases have as their field suffering of their own and higher levels
+> and its cause and cessation, together with the whole path on the
+> anvayajñāna side, and also non-analytical cessation and, for one of them, space.
 
 ## 6. Philosophical Translation
 
@@ -286,4 +270,4 @@ ProjectConstraint: Special realization wording does not invalidate other release
 ```
 
 This is a declarative project seed, not executable OWL.
-VAK 8.35 next introduces the eight bases of mastery.
+VAK 8.35 next introduces the eight Essences of mastery.

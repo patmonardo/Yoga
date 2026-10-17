@@ -5,9 +5,11 @@
 > kliṣṭāt svaṃ śuddhakaṃ kliṣṭam evaṃ cādharaśuddhakam |
 > cyutau tu śuddhakāt kliṣṭaṃ sarvaṃ kliṣṭāt tu nottaram || 8.16 ||
 
-> After a defiled [attainment]: its own pure and defiled, and likewise a lower
-> pure. At death, however, after a pure: every [level of] defiled; after a
-> defiled, not a higher one.
+> After a defiled attainment, a pure or defiled attainment of its own
+> level arises, and likewise a lower pure attainment. At the time of
+> death, however, after a pure attainment acquired through rebirth a
+> defiled state of any level may arise, while after a defiled
+> attainment no higher defiled state arises.
 
 Pure subtypes and further cuts: 8.17.
 
@@ -69,7 +71,7 @@ every state at once. Immediate ban ≠ never later through a sequence.
 - `sarvam` = all grounds of kliṣṭa;
 - death-pure = upapattilābhika.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -80,6 +82,6 @@ Neither.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.16.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.16_bhasya.md` (Pradhan 444|09–445|02).
-`kosabhasya.txt` collation pending. Provisional.
+Pair with Organon `VAK_8.16.md` (Pradhan 444|09–445|02), upgraded to the
+current Method: kārikā translations and anchor standardized; terminology
+upgraded. `kosabhasya.txt` collation pending. Provisional.

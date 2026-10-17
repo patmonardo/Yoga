@@ -5,9 +5,10 @@
 > āryākiñcanyasāṃmukhyād bhavāgre tv āsravakṣayaḥ |
 > satṛṣṇāḥ svabhavālambāḥ dhyānaṃ sadviṣayaṃ śubham || 8.20 ||
 
-> At the summit of existence, however, destruction of the outflows occurs through
-> the direct presence of noble nothingness. Those accompanied by craving take
-> their own existence as object. Wholesome dhyāna has what exists as its object.
+> At the summit of existence, however, the destruction of the outflows
+> occurs through the direct presence of the noble nothingness. Those
+> accompanied by craving take as their object the existence of their
+> own level. Wholesome dhyāna has whatever exists as its object.
 
 Reading: `sadviṣayam` (what exists), not `ṣaḍviṣayam` (six fields). Formless
 object cuts: 8.21.
@@ -68,7 +69,7 @@ clause to wholesome ārūpya yet.
 - `sadviṣayam` = sarvālambana;
 - śubha here includes śuddhaka and anāsrava dhyāna.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -80,6 +81,7 @@ glow. Appearance would call sarvālambana a blank “all.” It is the field of 
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.20.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.20_bhasya.md` (Pradhan 446|22–447|07).
-Six-object first-pass withdrawn. `kosabhasya.txt` collation pending. Provisional.
+Pair with Organon `VAK_8.20.md` (Pradhan 446|22–447|07), upgraded to the
+current Method: kārikā translations and anchor standardized; terminology
+upgraded. The six-object reading (`ṣaḍviṣayam`) is withdrawn.
+`kosabhasya.txt` collation pending. Provisional.

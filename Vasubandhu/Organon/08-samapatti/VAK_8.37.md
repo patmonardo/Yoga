@@ -18,14 +18,9 @@ The local verse is retained with analytical hyphens
 removed. The running source presents the same
 clauses separately within the explanatory prose.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-nirodhaḥ | uktaḥ | vairāgya-prayoga-āptam | tu | śeṣitam |
-tri-dhātu-āśrayam | ārūpya-saṃjñam | śeṣam | manuṣya-jam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `nirodhaḥ` | nominative singular masculine | cessation, here cessation-release |
 | `uktaḥ` | nominative singular masculine past passive participle of √vac | has been explained |
@@ -37,8 +32,8 @@ tri-dhātu-āśrayam | ārūpya-saṃjñam | śeṣam | manuṣya-jam
 | `śeṣam` | nominative singular neuter, substantivized | the rest after the formless group is distinguished |
 | `manuṣyajam` | nominative singular neuter compound adjective | human-born; generated on human support |
 
-Dhātu + āśraya gives dhātvāśraya; prayoga + āpta
-gives prayogāpta. Āpta is the acquired/obtained
+Sandhi: `dhātu + āśraya` > `dhātvāśraya`; `prayoga + āpta`
+> `prayogāpta`. Āpta is the acquired/obtained
 participle of √āp. The neuter singulars collect
 several practices under one description.
 
@@ -93,24 +88,10 @@ on human support.
 
 ### Bhāṣya-informed study translation
 
-> Cessation-release has already been explained in all
-> its relevant respects. The other releases and
-> related practices can be obtained through dispassion
-> or through deliberate application, according to prior
-> habituation or lack of habituation.
->
-> The formless releases and the two formless
-> totalities can have support in any of
-> the three domains. The remaining practices require
-> human support for their production, because they
-> are generated through the efficacy of instruction.
-
-Source: Pradhan 458|11–458|18, through upadeśasāmarthyenotpādanāt,
-checked against the local research witnesses and
-running source. The preceding ordinary/noble bearer statement
-belongs to the closing discussion of 8.36.
-The following question about production in the
-form and formless domains opens the next discussion.
+> Cessation-release has been explained. The remainder, however, is
+> acquired through dispassion or through application. What is designated
+> formless has support in the three domains; the rest is human-born,
+> produced on human support.
 
 ## 6. Philosophical Translation
 
@@ -193,14 +174,14 @@ specify a practice-duration threshold in this unit.
 | Four formless releases | Support possible in all three domains |
 | Two formless totalities | Support possible in all three domains |
 | Remaining three form-related releases | Human support for production |
-| Eight bases of mastery | Human support for production |
+| Eight Essences of mastery | Human support for production |
 | First eight totalities | Human support for production |
 | Cessation-release | Previously treated; not newly classified by the remainder rule |
 
 The enumeration expands the prose's explicit formless
 group and its remainder using the preceding
-inventories. There are no additional “formless mastery
-bases” inserted into the eightfold mastery classification.
+inventories. There are no additional “formless Essences
+of mastery” inserted into the eightfold mastery classification.
 
 **Support is neither object nor attainment-level.** A
 formless practice may have a human bearer in
@@ -226,15 +207,13 @@ higher domains; its answer belongs to the next unit.
 
 ## 9. Interpretive Note
 
-**Correction of the first-pass construe.** The research
-kārikā translation attaches the human-generation statement
-to the formless group and broadens three-domain
-support to the whole remainder. The local
-Bhāṣya study corrects this, and the running
-prose explicitly confirms the correction: formless releases
+**Construe of the support clause.** Three-domain
+support belongs to the formless group only, not to the whole remainder, and
+human-generation belongs to the rest. The Bhāṣya
+prose explicitly confirms this: formless releases
 and formless totalities have three-domain support; the
-rest have human support. The official translation
-follows that controlled construe. Originals remain untouched.
+rest have human support. The translations
+follow that controlled construe.
 
 **Source voice and limits.** The passage is
 expository and introduces no competing school authority.
@@ -264,8 +243,8 @@ The cessation exclusion, two acquisition routes, habituation
 explanation, restricted three-domain support, human-production rule,
 and instructional reason have been checked against
 the local witnesses and running source. The
-first-pass support reversal is corrected in this
-official study without changing the research files.
+support reversal is excluded in this
+study.
 
 ## 10. OWL++ Seed
 
@@ -296,7 +275,7 @@ FormlessSupportGroup:
     possibleSupportDomains: Desire, Form, Formless
 
 HumanProductionGroup:
-    members: FirstThreeReleases, EightMasteryBases, FirstEightTotalities
+    members: FirstThreeReleases, EightMasteryEssences, FirstEightTotalities
     productionSupport: Human
     productionExplanation: EfficacyOfInstruction
 

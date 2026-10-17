@@ -5,10 +5,9 @@
 > sāsravāḥ nṛṣu akopyasya saptasāmantavarjitāḥ |
 > samādhibhāvanā dhyānaṃ śubham ādyaṃ sukhāya hi || 8.27 ||
 
-> They are contaminated, among humans, of the unshakeable one, excluding seven
-> access stages. Wholesome first dhyāna is cultivation of samādhi for happiness.
-
-The other three cultivations: 8.28.
+> The further samādhis are contaminated; they arise among human beings, for the
+> unshakeable arhat, excluding the seven access stages. The first cultivation of
+> samādhi is wholesome first dhyāna, for pleasant abiding in the present life.
 
 Kārikā study: [`VAK_8.27.md`](./VAK_8.27.md).
 
@@ -65,7 +64,7 @@ feeling faculty.
 - seven excluded ≠ anāgamya excluded;
 - `sukhāya` = dṛṣṭadharmasukhavihāra.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -77,6 +76,6 @@ vibe. Neither.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.27.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.27_bhasya.md` (Pradhan 450|20–451|13).
-`kosabhasya.txt` collation pending. Provisional.
+Kārikā translations and anchor standardized; terminology upgraded to the
+current Method. Organon pair `VAK_8.27.md` / this Bhāṣya (Pradhan
+450|20–451|13). `kosabhasya.txt` collation pending. Provisional.

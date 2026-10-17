@@ -20,14 +20,9 @@ to `kliṣṭaṃ`. The prose's repeated kliṣṭa forms support
 that reading. The compressed opening is retained;
 its range is determined by the commentary's examples.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tṛtīyāt | yāvat | ūrdhva-adhaḥ | anāsrava-anantaram | śubham |
-utpadyate | tathā | śuddhāt | kliṣṭam | ca | api | sva-bhūmikam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tṛtīyāt` | ablative singular ordinal | the third, marking the limit in the compressed expression |
 | `yāvat` | limiting particle | as far as; up to |
@@ -96,24 +91,12 @@ attainment of its own level may arise.
 
 ### Bhāṣya-informed study translation
 
-> An uncontaminated attainment may be followed immediately
-> by a pure or uncontaminated attainment on the same
-> level, or up to two levels higher or lower, wherever
-> those modes exist. The limit counts the starting
-> level as the first. At the summit of existence,
-> only the pure mode is available.
->
-> The same general wholesome-successor rule applies
-> after a pure attainment, with the additional possibility
-> of a defiled attainment on that same level. A
-> defiled attainment does not arise immediately after
-> an uncontaminated attainment.
-
-Source: Pradhan 443|13–444|08, checked against the local
-Bhāṣya study and running source. The knowledge-condition
-for entering ārūpya is stated below. These are general
-mode-and-level rules; the later analysis further differentiates
-pure attainments by subtype.
+> Immediately after an uncontaminated attainment, a wholesome
+> attainment, whether pure or uncontaminated, arises on the same
+> level or upward or downward as far as the third, counting the
+> starting level as the first. Likewise after a pure attainment, and
+> in addition a defiled attainment belonging to its own level may
+> arise.
 
 ## 6. Philosophical Translation
 
@@ -130,6 +113,12 @@ succession and does not by itself settle every later
 state in a person's continuum.
 
 ## 7. Technical Vocabulary
+
+**Source.** Pradhan 443|13–444|08, checked against the local Bhāṣya
+study and running source. These are general mode-and-level rules: at the
+summit of existence only the pure mode is available; entry into the
+formless attainments follows anvayajñāna; later analysis differentiates
+pure attainments by subtype.
 
 **`Anantara / samanantara`.** Immediately following.
 This concerns the next occurrence, not simply an

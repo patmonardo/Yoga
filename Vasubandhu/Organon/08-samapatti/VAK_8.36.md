@@ -22,15 +22,9 @@ has śuddhakārūpyasvabhāve. The analysis below follows
 the prose-supported śuddhaka-ārūpya without silently altering
 the displayed witnesses.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-daśa | kṛtsnāni | alobhāḥ | aṣṭau | dhyāne | antye |
-gocaraḥ | punaḥ | kāmāḥ | dve | śuddhaka-ārūpye |
-sva-catuḥ-skandha-gocare
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `daśa` | numeral | ten |
 | `kṛtsnāni` | nominative plural neuter | totalities, expanded as totality-Essences in prose |
@@ -43,10 +37,10 @@ sva-catuḥ-skandha-gocare
 | `kāmāḥ` | nominative plural masculine | desire-domain objects, narrowed by the prose |
 | `dve` | nominative dual neuter | the two remaining totalities |
 | `śuddhakārūpye` | nominative dual neuter, prose-supported analysis | pure formless attainments |
-| `svacatuḥskandhagocare` | nominative dual neuter compound adjective | having the four aggregates of their own level as object-field |
+| `svacatuḥskandhagocare` | nominative dual neuter compound adjective | having the four Bases of their own level as object-field |
 
-Alobhāḥ + aṣṭau gives alobhāṣṭau. Dhyāne + antye
-is displayed with avagraha as dhyāne 'ntye.
+Sandhi: `alobhāḥ + aṣṭau` > `alobhāṣṭau`; `dhyāne + antye` is displayed
+with avagraha as `dhyāne 'ntye`.
 Sva in the final compound is specified by
 the prose's svabhūmika, “belonging to one's own level.”
 
@@ -78,7 +72,7 @@ Neither statement replaces the other.
 
 **Own level is distributive across the final pair.**
 Svacatuḥskandhagocare assigns each totality the four
-aggregates of its respective level. It does
+Bases of its respective level. It does
 not place both totalities in one common level
 or say that both take the same individual
 mental event as their object.
@@ -88,7 +82,7 @@ first eight have non-greed as nature and occur
 in the last dhyāna; their object-field is
 in the desire domain. The remaining two are
 pure formless attainments, each with the four
-aggregates of its own level as object-field.
+Bases of its own level as object-field.
 
 ## 5. Translation
 
@@ -97,32 +91,18 @@ aggregates of its own level as object-field.
 > There are ten totalities. Eight are non-greed,
 > in the last dhyāna; their object-field, again,
 > is desire-domain objects. Two are pure formless
-> attainments, having the four aggregates of their
+> attainments, having the four Bases of their
 > own level as their object-field.
 
 ### Bhāṣya-informed study translation
 
-> There are ten totality-Essences, so called because
-> of uninterrupted complete pervasion: earth, water,
-> fire, wind, blue, yellow, red, white, and
-> the totalities corresponding to the Essences of infinite
-> space and infinite knowledge.
->
-> The first eight have non-greed as their
-> nature and belong exclusively to the fourth
-> dhyāna. Their object is desire-domain visible form.
-> Some authorities, however, assign the tangible field
-> as the object of the wind totality.
->
-> The final two have the nature of pure
-> formless attainments. Each takes the four aggregates
-> belonging to its own level as object.
-
-Source: Pradhan 457|13–458|10, checked against the local
-kārikā and Bhāṣya studies and the running source.
-The end of this span also discusses the
-relation between the three practice groups and
-the persons in whose continuities they can occur.
+> There are ten totalities, called Essences from their uninterrupted
+> complete pervasion: earth, water, fire, wind, blue, yellow, red, white,
+> and the totalities of infinite space and infinite knowledge. The first
+> eight have non-greed as their nature and belong to the last, the fourth,
+> dhyāna; their object-field is desire-domain visible form. The last two,
+> pure formless attainments, have as their object-field the four Bases
+> of their own level.
 
 ## 6. Philosophical Translation
 
@@ -175,10 +155,10 @@ is rendered “knowledge” according to the project's
 standing vocabulary, without equating it with liberative
 prajñā merely on that basis.
 
-**`Svabhūmikāś catvāraḥ skandhāḥ`.** The four aggregates
-of the respective level: feeling, recognition, formations,
+**`Svabhūmikāś catvāraḥ skandhāḥ`.** The four Bases
+of the respective level (Pradhan 457|13–458|10): feeling, recognition, formations,
 and knowledge. The formless context excludes the
-form aggregate from this fourfold range.
+Form Base from this fourfold range.
 
 **`Prāveśika / uttarottaraviśiṣṭatva`.** Entry-related /
 successive superiority. The first term links the
@@ -198,8 +178,8 @@ level, object, and technical mode.
 |---|---|---|
 | Earth, water, fire, wind | Non-greed; fourth dhyāna only | Desire-domain visible form in the principal account |
 | Blue, yellow, red, white | Non-greed; fourth dhyāna only | Desire-domain visible form |
-| Infinite-space totality | Pure formless attainment of the infinite-space level | Four aggregates of its own level |
-| Infinite-knowledge totality | Pure formless attainment of the infinite-knowledge level | Four aggregates of its own level |
+| Infinite-space totality | Pure formless attainment of the infinite-space level | Four Bases of its own level |
+| Infinite-knowledge totality | Pure formless attainment of the infinite-knowledge level | Four Bases of its own level |
 | Wind, according to some | Alternative object account | Tangible field |
 
 The final row records a view about one
@@ -223,8 +203,8 @@ contradict the first assignment.
 **The entry relation needs a controlled rendering.**
 The running source reads vimokṣaprāveśikāny abhibhvāyatanāni
 and abhibhvāyatanaprāveśikāni kṛtsnāyatanāni, followed by
-uttarottaraviśiṣṭatvāt. It thus relates mastery bases
-to releases and totalities to mastery bases,
+uttarottaraviśiṣṭatvāt. It thus relates Essences of mastery
+to releases and totalities to Essences of mastery,
 explicitly invoking the superiority of each subsequent
 group. The local research varies in how
 it paraphrases the direction of “entry.”
@@ -256,7 +236,7 @@ no school identity is supplied beyond the witness.
 **Witness cautions.** The śuddha-compound discrepancy
 between scripts and running text is disclosed
 above. The prose also prints anyor in the
-four-aggregate sentence, where the context supplies the
+four-Base sentence, where the context supplies the
 reference to the final two. The study follows
 that clear dual reference without editing the source.
 The directional force of the entry compounds
@@ -315,12 +295,12 @@ WindAlternativeObjectAccount:
 InfiniteSpaceTotality:
     mode: PureFormless
     level: InfiniteSpace
-    objects: FourAggregatesOfOwnLevel
+    objects: FourBasesOfOwnLevel
 
 InfiniteKnowledgeTotality:
     mode: PureFormless
     level: InfiniteKnowledge
-    objects: FourAggregatesOfOwnLevel
+    objects: FourBasesOfOwnLevel
 
 ReleaseMasteryTotalityRelation:
     gradedOrder: Release, MasteryBase, TotalityEssence

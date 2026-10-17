@@ -5,10 +5,12 @@
 > saddharmo dvividhaḥ śāstur āgamādhigamātmakaḥ |
 > dhātāras tasya vaktāraḥ pratipattāra eva ca || 8.39 ||
 
-> The Teacher's true Dharma is twofold, consisting of transmission and realization.
-> Its bearers are precisely the expounders and the practitioners.
+> The Teacher's true Dharma is twofold, consisting of transmission, which is
+> Sūtra, Vinaya, and Abhidharma, and of realization, which is the factors
+> conducive to awakening. Its bearers are precisely the expounders, who
+> sustain transmission, and the practitioners, who sustain realization.
 
-Orientation, error, authority: 8.40 — last of the chapter.
+Orientation, error, authority: 8.40.
 
 Kārikā study: [`VAK_8.39.md`](./VAK_8.39.md).
 
@@ -60,7 +62,7 @@ are not a diagnosis of this age. “Empty transmission” is not the source's na
 - `dhātāraḥ` unpacked as retainers + speakers vs practitioners;
 - duration reports stay attributed.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -72,6 +74,7 @@ not this verse. This verse names who carries the teaching.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.39.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.39_bhasya.md` (Pradhan 459|07–14).
-`kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.39.md` / `VAK_8.39_bhasya.md`, upgraded to the current
+Method: kārikā translations and anchor standardized; terminology upgraded
+(Pradhan 459|07–14 witness reference). `kosabhasya.txt` collation pending.
+Provisional.

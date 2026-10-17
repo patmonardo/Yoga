@@ -5,11 +5,9 @@
 > dhyānayor muditā anyāni ṣaṭsu kecit tu pañcasu |
 > na taiḥ prahāṇaṃ nṛṣv eva janyante tryanvito dhruvam || 8.31 ||
 
-> Sympathetic joy is in the two dhyānas; the others on six levels, though some
-> say five. Abandonment is not effected by them. They are generated only among
-> humans. [The attainer] is certainly endowed with three.
-
-Eight liberations: 8.32.
+> Sympathetic joy is in the two dhyānas; the other three are on six levels,
+> though some say five. There is no abandonment by them. They are generated
+> only among humans. One who has attained them is invariably endowed with three.
 
 Kārikā study: [`VAK_8.31.md`](./VAK_8.31.md).
 
@@ -73,7 +71,7 @@ the only allowed start. Guṇagrāhin ≠ every person is the same.
 - `na taiḥ prahāṇam` kept strong;
 - `tryanvitaḥ` = the attainer.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -85,6 +83,6 @@ in the House while that wait continues.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.31.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.31_bhasya.md` (Pradhan 453|11–454|23).
-`kosabhasya.txt` collation pending. Provisional.
+Kārikā translations and anchor standardized; terminology upgraded to the
+current Method. Organon pair `VAK_8.31.md` / this Bhāṣya (Pradhan
+453|11–454|23). `kosabhasya.txt` collation pending. Provisional.

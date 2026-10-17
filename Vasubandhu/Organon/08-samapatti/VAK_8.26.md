@@ -20,14 +20,9 @@ aśaikṣa in the explanatory prose supports the local
 reading. The last clause's compressed cessation expression
 is resolved explicitly as apratisaṃkhyānirodha.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ālambete | aśaikṣam | dvau | śūnyataḥ | ca | api | anityataḥ |
-ānimitta-ānimittaḥ | tu | śāntataḥ | asaṃkhyayā | kṣayam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ālambete` | third-person dual present middle of ā-√lamb | the two take as object |
 | `aśaikṣam` | accusative singular masculine, qualifying understood samādhim | an adept's [samādhi], belonging to one beyond training |
@@ -81,31 +76,15 @@ of an adept's signless samādhi under peace.
 ### Literal Translation
 
 > The two take an adept's [samādhi] as object,
-> under emptiness and impermanence. Signlessness-of-signlessness,
+> under emptiness and under impermanence. Signlessness-of-signlessness,
 > however, [takes] cessation without analysis under
 > the aspect of peace.
 
 ### Bhāṣya-informed study translation
 
-> Emptiness-of-emptiness takes an adept's emptiness samādhi
-> as object under the aspect of emptiness. Non-directedness-of-non-directedness
-> takes an adept's non-directed samādhi under impermanence.
-> It does not use suffering or origin-aspects, because
-> the uncontaminated object lacks those characteristics;
-> nor does it use path-aspects, because the object
-> is here approached in depreciation rather than
-> praised as path.
->
-> Signlessness-of-signlessness takes the non-analytical cessation
-> of an adept's signless samādhi as object under
-> peace. The object is not analytical cessation,
-> because an uncontaminated dharma has no such cessation
-> in the relevant sense. The other three cessation-aspects
-> are excluded for the reasons supplied in the commentary.
-
-Source: Pradhan 450|12–450|20, checked against the local
-Bhāṣya study and running source. The final reasons
-are distinguished individually below.
+> The two [further samādhis] take an adept's samādhi as object, under emptiness
+> and under impermanence respectively; but signlessness-of-signlessness takes
+> non-analytical cessation as its object, under the aspect of peace.
 
 ## 6. Philosophical Translation
 
@@ -217,7 +196,7 @@ to infer their own mode prematurely.
 
 ## 9. Interpretive Note
 
-**Correction of the first-pass cessation rendering.**
+**Correction of the cessation rendering.**
 “Cessation through non-discrimination” is too open-ended
 without the technical identification. The Bhāṣya
 expressly names apratisaṃkhyānirodha and attaches it

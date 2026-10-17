@@ -19,14 +19,9 @@ Bhāṣya supplies the identities behind the level
 counts, an additional ten-level account, and the
 subject of the final possession statement.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dhyānayoḥ | muditā | anyāni | ṣaṭsu | kecit | tu | pañcasu |
-na | taiḥ | prahāṇam | nṛṣu | eva | janyante | tri-anvitaḥ | dhruvam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dhyānayoḥ` | locative dual | in the two dhyānas |
 | `muditā` | nominative singular feminine | sympathetic joy |
@@ -95,25 +90,9 @@ endowed with three.
 
 ### Bhāṣya-informed study translation
 
-> Sympathetic joy occurs in first and second
-> dhyāna because its nature is gladness. Friendliness,
-> compassion, and equanimity occur on six levels:
-> anāgamya, intermediate dhyāna, and the four dhyānas.
-> Some exclude anāgamya and count five; others
-> count ten under a broader inclusion of preparation
-> and collected or uncollected forms.
->
-> The immeasurables do not themselves abandon defilements.
-> Their preparation suppresses ill will and related
-> tendencies; the paths of abandonment perform abandonment.
-> They are initially generated among humans. An
-> attainer invariably possesses the other three,
-> but need not possess sympathetic joy: one reborn
-> in third or fourth dhyāna lacks it.
-
-Source: Pradhan 453|11–454|23, checked against the local
-Bhāṣya study and running source. The extensive
-training explanation within this span is preserved below.
+> Sympathetic joy is in the two dhyānas; the other three are on six levels,
+> though some say five. There is no abandonment by them. They are generated
+> only among humans. One who has attained them is invariably endowed with three.
 
 ## 6. Philosophical Translation
 

@@ -19,14 +19,9 @@ prose controls the direction of rebirth, the restriction
 to a non-possessor, and the additional cases that the
 compressed verse does not enumerate.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-atadvān | labhate | śuddham | vairāgyeṇa | upapattitaḥ |
-anāsravam | tu | vairāgyāt | kliṣṭam | hāni-upapattitaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `atadvān` | nominative singular masculine of negated tad-vat | one not possessing that |
 | `labhate` | third-person singular present middle of √labh | acquires, obtains |
@@ -81,35 +76,18 @@ The commentary determines the scope of each route.
 
 ### Literal Translation
 
-> One who does not possess it acquires the pure
-> [attainment] through dispassion or rebirth; the
-> uncontaminated, however, through dispassion; the
-> defiled through decline or rebirth.
+> One who does not possess it acquires the pure [dhyāna or formless
+> attainment] through dispassion or rebirth; the uncontaminated,
+> however, through dispassion; the defiled through decline or rebirth.
 
 ### Bhāṣya-informed study translation
 
-> Someone not endowed with the relevant pure dhyāna
-> or formless attainment acquires it through dispassion
-> toward a lower level or through rebirth at a lower
-> level. The rebirth route excludes the summit of
-> existence: that attainment is not acquired through
-> rebirth by one who does not possess it.
->
-> For someone not possessing the relevant uncontaminated
-> attainment, the verse states acquisition through
-> dispassion. The commentary qualifies the scope of
-> this rule and discusses other acquisition circumstances.
->
-> Someone not possessing the relevant defiled attainment
-> acquires it through decline from dispassion toward
-> that level, or through rebirth from a higher level
-> into a lower one.
-
-Source: Pradhan 442|19–443|12, checked against the local
-Bhāṣya study and running source. The supplemental
-possessor cases and the objection about entry into
-certainty are unfolded below rather than suppressed
-by the verse's compact formulation.
+> One who does not yet possess an attainment acquires its pure form
+> through dispassion toward a lower level or through rebirth at a
+> lower level, except at the summit of existence; acquires its
+> uncontaminated form through dispassion; and acquires its defiled
+> form through decline from that dispassion or through rebirth from a
+> higher level into a lower.
 
 ## 6. Philosophical Translation
 
@@ -126,6 +104,11 @@ in the next moment. The following verses pose the
 separate question of immediate succession between attainments.
 
 ## 7. Technical Vocabulary
+
+**Source.** Pradhan 442|19–443|12, checked against the local Bhāṣya
+study and running source. The supplemental possessor cases and the
+objection about entry into certainty are unfolded in the Bhāṣya rather
+than in the verse's compact formulation.
 
 **`Atadvān / tadvān`.** Non-possessor / possessor of
 that which is under discussion. These are relational

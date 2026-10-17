@@ -20,15 +20,9 @@ its commentary explicitly names Buddhas and Buddha-sons.
 The local reading is therefore retained with the
 running-source discrepancy disclosed.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kāśmīra-vaibhāṣika-nīti-siddhaḥ | prāyaḥ | mayā | ayam |
-kathitaḥ | abhidharmaḥ | yat | durgṛhītam | tat |
-iha | asmat-āgaḥ | sat-dharma-nītau | munayaḥ | pramāṇam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kāśmīravaibhāṣikanītisiddhaḥ` | nominative singular masculine compound adjective | established according to the Kāśmīra Vaibhāṣika method |
 | `prāyaḥ` | adverbial form | chiefly; for the most part |
@@ -44,9 +38,9 @@ iha | asmat-āgaḥ | sat-dharma-nītau | munayaḥ | pramāṇam
 | `munayaḥ` | nominative plural masculine | sages |
 | `pramāṇam` | nominative singular neuter predicate noun | authority, authoritative measure |
 
-Mayā + ayam gives mayāyam; iha + asmadāgaḥ
-gives ihāsmadāgaḥ. In the analytical asmat-āgas
-compound, the final consonant of asmat is
+Sandhi: `mayā + ayam` > `mayāyam`; `iha + asmadāgaḥ`
+> `ihāsmadāgaḥ`. In the analytical `asmat-āgas`
+compound, the final consonant of `asmat` is
 voiced before the following vowel. Āgaḥ is
 the surface singular form of the neuter āgas,
 not a plural list of separate errors.
@@ -103,20 +97,11 @@ Dharma's interpretation, the sages are the authority.
 
 ### Bhāṣya-informed study translation
 
-> I have expounded this Abhidharma for the
-> most part according to the Kāśmīra Vaibhāṣika
-> line of interpretation. Whatever we have misunderstood
-> here is our own error. In matters
-> concerning the interpretation of the true Dharma,
-> the Buddhas themselves and the Buddha-sons are
-> the authority.
-
-Source: Pradhan 459|15–460|03, checked against the local
-kārikā and Bhāṣya studies and the running source.
-The prose names the referents of the verse's
-“sages” and confirms the author's responsibility for
-faulty understanding. The next verse begins the
-lament concerning the condition of the teaching.
+> This Abhidharma has been expounded by me, established for the most
+> part according to the method of the Kāśmīra Vaibhāṣikas. Whatever has
+> been badly grasped here is our fault; in the guidance of the true
+> Dharma, the sages, the Buddhas themselves and the Buddha-sons,
+> are the authority.
 
 ## 6. Philosophical Translation
 

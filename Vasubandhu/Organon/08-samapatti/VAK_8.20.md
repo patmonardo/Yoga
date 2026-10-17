@@ -22,14 +22,9 @@ renders the adopted reading. The running source's
 ākiñcanya and the research IAST ākiṃcanya differ in
 nasal spelling; the former is used here.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ārya-ākiñcanya-sāṃmukhyāt | bhava-agre | tu | āsrava-kṣayaḥ |
-sa-tṛṣṇāḥ | sva-bhava-ālambāḥ | dhyānam | sat-viṣayam | śubham
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `āryākiñcanyasāṃmukhyāt` | ablative singular compound | through making noble nothingness directly present |
 | `bhavāgre` | locative singular neuter compound | at the summit of existence |
@@ -90,26 +85,10 @@ what exists as its object.
 
 ### Bhāṣya-informed study translation
 
-> For a being reborn at the summit of existence,
-> destruction of the outflows occurs through bringing
-> the uncontaminated Essence of nothingness into operation.
-> This is possible because the summit lacks an
-> uncontaminated attainment of its own and because
-> that nothingness attainment has been cultivated.
->
-> Attainments associated with savoring take contaminated
-> objects belonging to their own level. They do
-> not take lower-level objects, higher-level objects,
-> or uncontaminated objects.
->
-> Wholesome dhyāna, including pure and uncontaminated
-> modes, has the full object-range of whatever
-> exists, whether conditioned or unconditioned.
-
-Source: Pradhan 446|22–447|07, checked against the local
-Bhāṣya study and running source. “Full object-range”
-states the class-level range given by sarvālambana;
-it does not assert simultaneous apprehension of everything.
+> At the summit of existence, however, the destruction of the outflows
+> occurs through the direct presence of the noble nothingness. Those
+> accompanied by craving take as their object the existence of their
+> own level. Wholesome dhyāna has whatever exists as its object.
 
 ## 6. Philosophical Translation
 
@@ -127,6 +106,17 @@ relations. Their distinction is essential both to
 the summit exception and to the new object analysis.
 
 ## 7. Technical Vocabulary
+
+**Source.** Pradhan 446|22–447|07, checked against the local Bhāṣya
+study and running source. For one reborn at the summit, the nothingness
+made present is the uncontaminated Essence, because the summit has no
+uncontaminated attainment of its own and that attainment has been
+cultivated. “Those accompanied by craving” are the savoring-associated
+attainments; their object is contaminated existence of their own level,
+not lower, higher, or uncontaminated objects. “Whatever exists” states
+the class-level range given by *sarvālambana* (conditioned or
+unconditioned); it does not assert simultaneous apprehension of
+everything.
 
 **`Utsarga / apavāda`.** General rule / exception.
 The prose explicitly uses this structure to connect

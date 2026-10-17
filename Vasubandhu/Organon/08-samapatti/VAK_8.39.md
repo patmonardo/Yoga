@@ -18,14 +18,9 @@ The local verse agrees with the clauses embedded
 in the running source. Word separation and verse
 numbering follow the official study convention.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sat-dharmaḥ | dvi-vidhaḥ | śāstuḥ | āgama-adhigama-ātmakaḥ |
-dhātāraḥ | tasya | vaktāraḥ | pratipattāraḥ | eva | ca
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `saddharmaḥ` | nominative singular masculine compound | the true teaching; true Dharma |
 | `dvividhaḥ` | nominative singular masculine adjective | twofold |
@@ -38,9 +33,9 @@ dhātāraḥ | tasya | vaktāraḥ | pratipattāraḥ | eva | ca
 | `eva` | emphatic particle | precisely; indeed |
 | `ca` | conjunction | and |
 
-Sat + dharma gives saddharma. Āgama + adhigama
-and adhigama + ātmaka give the long vowels
-in āgamādhigamātmaka. Śāstuḥ before āgamādhigamātmaka
+Sandhi: `sat + dharma` > `saddharma`; `āgama + adhigama` and
+`adhigama + ātmaka` give the long vowels
+in `āgamādhigamātmaka`. `śāstuḥ` before `āgamādhigamātmaka`
 appears as śāstur; the final visargas of
 dhātāraḥ and pratipattāraḥ likewise undergo the displayed sandhi.
 
@@ -84,22 +79,10 @@ sustainers are the expounders and the practitioners.
 
 ### Bhāṣya-informed study translation
 
-> The Teacher's true teaching has two forms.
-> Transmission consists of Sūtra, Vinaya, and Abhidharma;
-> realization consists of the factors conducive to awakening.
->
-> Transmission is sustained by those who preserve
-> and expound it, and realization by those
-> who practice. The true teaching is to
-> be understood as remaining for as long
-> as these bearers remain.
-
-Source: Pradhan 459|07–459|14, checked against the local
-kārikā and Bhāṣya witnesses and the running source.
-The opening question asks how long this teaching,
-in which such varieties of dharmas are discerned,
-will remain. The closing prose reports differing
-duration accounts, treated separately below.
+> The Teacher's true Dharma is twofold, consisting of transmission, which is
+> Sūtra, Vinaya, and Abhidharma, and of realization, which is the factors
+> conducive to awakening. Its bearers are precisely the expounders, who
+> sustain transmission, and the practitioners, who sustain realization.
 
 ## 6. Philosophical Translation
 
@@ -228,13 +211,12 @@ and apare. The official study preserves those
 attributions rather than presenting one unqualified prediction
 as the conclusion of the kārikā.
 
-**Refinement of the first-pass interpretation.** The research
-usefully stresses transmission and realization together, but
-its stronger claim of inseparability obscures the
+**Transmission and realization.** Transmission and realization are
+stressed together, but a stronger claim of inseparability obscures the
 reported unequal durations. Likewise “empty transmission” is
-an evaluative research expression, not the source's
+an evaluative expression, not the source's
 name for āgama surviving longer than adhigama.
-The official account retains the two forms
+The account retains the two forms
 and their functional relation without that extra judgment.
 
 **Witness caution.** The running source separates varṣasahasra

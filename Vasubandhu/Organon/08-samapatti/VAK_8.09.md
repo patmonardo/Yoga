@@ -19,34 +19,24 @@ Bhāṣya quotes the pleasure clause as `prasrabdhisukhamādyayoḥ`;
 the local verse's explicit `prasrabdhiḥ sukham` is retained.
 The prose unambiguously determines the count as eleven.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dravyataḥ | daśa | ca | ekam | ca | prasrabdhiḥ | sukham | ādyayoḥ |
-śraddhā | prasādaḥ | prītiḥ | tu | saumanasyam | dvidhā | āgamāt
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dravyataḥ` | adverb with -tas | by substance; counting distinct dharmas |
-| `daśa` | numeral | ten |
+| `daśa` | numeral (`daśa ca ekam` → `daśa caikam`) | ten |
 | `ca … ca` | coordinating particles | and; joins ten and one |
 | `ekam` | nominative singular neuter numeral | one [additional factor] |
 | `prasrabdhiḥ` | nominative singular feminine | pliancy |
 | `sukham` | nominative singular neuter | pleasure or ease, contextually determined |
-| `ādyayoḥ` | locative dual of ādya | in the first two [dhyānas] |
+| `ādyayoḥ` | locative dual of `ādya` | in the first two [dhyānas] |
 | `śraddhā` | nominative singular feminine | confidence or faith |
 | `prasādaḥ` | nominative singular masculine | clarity, here inward clarity |
-| `prītiḥ` | nominative singular feminine | rapture or joy |
+| `prītiḥ` | nominative singular feminine (`prītiḥ tu` → `prītis tu`) | rapture or joy |
 | `tu` | particle | however; marks the next determination |
 | `saumanasyam` | nominative singular neuter | pleasant-mindedness; mental joy |
-| `dvidhā` | adverb | in two ways, here through two scriptural statements |
-| `āgamāt` | ablative singular masculine | because of scriptural testimony |
-
-`Daśa ca ekam ca` becomes `daśa caikaṃ ca`.
-`Prītiḥ tu` becomes `prītis tu`; `dvidhā āgamāt`
-becomes `dvidhāgamāt`. The last expression supplies
-the warrant for identifying prīti with saumanasya.
+| `dvidhā` | adverb (`dvidhā āgamāt` → `dvidhāgamāt`) | in two ways, here through two scriptural statements |
+| `āgamāt` | ablative singular masculine | because of scriptural testimony; supplies the warrant for identifying prīti with saumanasya |
 
 ## 4. Grammar
 
@@ -87,23 +77,10 @@ on the grounds of two scriptural statements.
 
 ### Bhāṣya-informed study translation
 
-> The eighteen factors counted by name amount to eleven
-> distinct dharmas. The first dhyāna supplies five; the
-> second adds inward clarity; the third adds equanimity,
-> mindfulness, clear comprehension, and pleasure as
-> feeling; the fourth adds neither-pain-nor-pleasure feeling.
->
-> The pleasure counted in the first two dhyānas is pliancy,
-> whereas the third's pleasure is a distinct feeling.
-> Inward clarity is confidence. Rapture is mental joy:
-> two scriptural statements support distinguishing this
-> joy, which has ceased in the third dhyāna, from the
-> pleasure that ceases in the fourth.
-
-Source: Pradhan 438|12–440|22, checked in the local
-Bhāṣya study and the running source. This translation
-states the kārikā's determinations. The extended prose
-also reports and examines competing accounts, distinguished below.
+> The eighteen factors counted by name are, by substance, ten and
+> one, that is, eleven distinct dharmas. In the first two dhyānas
+> the pleasure is pliancy; inward clarity is confidence; rapture,
+> however, is mental joy, as scripture states it in two ways.
 
 ## 6. Philosophical Translation
 

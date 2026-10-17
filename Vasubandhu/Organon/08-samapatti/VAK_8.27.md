@@ -19,14 +19,9 @@ its separated opening words. The first half continues
 the further-samādhi discussion; the second introduces
 the first of four cultivations of samādhi.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sa-āsravāḥ | nṛṣu | akopyasya | sapta-sāmanta-varjitāḥ |
-samādhi-bhāvanā | dhyānam | śubham | ādyam | sukhāya | hi
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `sāsravāḥ` | nominative plural masculine adjective | contaminated, accompanied by outflows |
 | `nṛṣu` | locative plural of nṛ | among human beings |
@@ -82,33 +77,16 @@ is cultivation of samādhi for present-life pleasant abiding.
 
 ### Literal Translation
 
-> They are contaminated, among humans, of the
+> [The further samādhis] are contaminated, [arising] among humans, [for] the
 > unshakeable one, excluding seven access stages.
-> Wholesome first dhyāna is cultivation of samādhi
+> The [first] cultivation of samādhi is wholesome first dhyāna,
 > for happiness.
 
 ### Bhāṣya-informed study translation
 
-> The three further samādhis are exclusively contaminated,
-> because their stance is opposed to the noble
-> path. They arise only among human beings, not
-> devas, and only in the unshakeable arhat. They
-> occur on eleven levels: the desire domain,
-> anāgamya, intermediate dhyāna, the four dhyānas,
-> and the four formless levels. The other seven
-> access stages are excluded.
->
-> A new fourfold classification of samādhi cultivation
-> begins. Its first member is cultivation for
-> pleasant abiding in the present life: wholesome
-> first dhyāna, whether pure or uncontaminated. The
-> other dhyānas are also to be understood, the
-> first being the beginning of the series. Pleasant
-> abiding in a later existence is not necessarily implied.
-
-Source: Pradhan 450|20–451|13, checked against the local
-Bhāṣya study and running source. The compressed
-final counterexample is treated cautiously below.
+> The further samādhis are contaminated; they arise among human beings, for the
+> unshakeable arhat, excluding the seven access stages. The first cultivation of
+> samādhi is wholesome first dhyāna, for pleasant abiding in the present life.
 
 ## 6. Philosophical Translation
 
@@ -225,7 +203,7 @@ invented complete taxonomy of those cases.
 
 ## 9. Interpretive Note
 
-**Corrections to the research first pass.** “Conditioned”
+**Corrections to earlier readings.** “Conditioned”
 is insufficient for sāsrava, and “completed rather
 than preliminary ground” misses the express inclusion
 of anāgamya. The present study retains contaminated

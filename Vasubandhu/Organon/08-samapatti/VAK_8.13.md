@@ -19,14 +19,9 @@ Bhāṣya resolves “belonging to the first” as belonging
 to the first-dhyāna level and locates the question in
 beings reborn at the second and higher dhyāna levels.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kāya-akṣi-śrotra-vijñānam | vijñapti-utthāpakam | ca | yat |
-dvitīya-ādau | tat | ādya-āptam | akliṣṭa-avyākṛtam | ca | tat
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kāyākṣiśrotravijñānam` | nominative singular neuter compound, distributively understood | body-, eye-, and ear-knowledge |
 | `vijñaptyutthāpakam` | nominative singular neuter adjective, with vijñānam understood | knowledge that initiates manifest action |
@@ -78,33 +73,17 @@ the first dhyāna; that knowledge is undefiled-neutral.
 
 ### Literal Translation
 
-> Body-, eye-, and ear-knowledge, and that which
+> Body-, eye-, and ear-Cognition, and that which
 > initiates manifest action—in the second and subsequent
 > [dhyānas], that belongs to the first, and it is
 > undefiled and indeterminate.
 
 ### Bhāṣya-informed study translation
 
-> Beings reborn in the second and higher dhyānas do
-> not altogether lack eye-knowledge and the other
-> relevant knowledges. These simply do not belong to
-> their own level. They bring into operation eye-,
-> ear-, and body-knowledge belonging to the first
-> dhyāna, together with the knowledge that initiates
-> manifest action. Through these they see, hear,
-> touch, and produce manifestation, as in the case
-> of a mind for producing a magical creation.
->
-> The first-dhyāna knowledge they bring into operation
-> is unobstructed-neutral: it is not defiled, because
-> they are free from passion [for the lower level],
-> and it is not wholesome, because it is inferior
-> [relative to their level].
-
-Source: Pradhan 442|07–442|18, checked against the local
-Bhāṣya study and running source. Brackets make the
-contextual scope of the final reasons explicit.
-“Knowledge” retains the project rendering of vijñāna.
+> In the second and higher dhyāna rebirths, the body-, eye-, and
+> ear-Cognition, together with the Cognition that initiates manifest
+> action, belongs to the first dhyāna; and that Cognition is
+> undefiled and ethically indeterminate.
 
 ## 6. Philosophical Translation
 
@@ -123,6 +102,12 @@ mental layers or an unchanged higher attainment running
 alongside sensory knowledge.
 
 ## 7. Technical Vocabulary
+
+**Source.** Pradhan 442|07–442|18, checked against the local Bhāṣya
+study and running source. The study translation uses **Cognition**
+for *vijñāna*; “knowledge” in the surrounding notes is the older
+research rendering of the same term. Brackets in the Bhāṣya
+translation make the scope of the final reasons explicit.
 
 **`Kāya / akṣi / śrotra-vijñāna`.** Body-, eye-, and
 ear-knowledge: the three sensory kinds named here.

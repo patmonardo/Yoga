@@ -5,9 +5,12 @@
 > atadvān labhate śuddhaṃ vairāgyeṇopapattitaḥ |
 > anāsravaṃ tu vairāgyāt kliṣṭaṃ hānyupapattitaḥ || 8.14 ||
 
-> One who does not possess it acquires the pure through dispassion or rebirth;
-> the uncontaminated, however, through dispassion; the defiled through decline
-> or rebirth.
+> One who does not yet possess an attainment acquires its pure form
+> through dispassion toward a lower level or through rebirth at a
+> lower level, except at the summit of existence; acquires its
+> uncontaminated form through dispassion; and acquires its defiled
+> form through decline from that dispassion or through rebirth from a
+> higher level into a lower.
 
 Immediate succession of attainments: 8.15. Lābha ≠ next sitting.
 
@@ -76,7 +79,7 @@ Rebirth for *pure* is lower-ground (`adhobhūmi`), not a free climb. Hānabhāg�
 - `upapattitaḥ` directed by prose;
 - verse = necessary route, not every event.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -86,7 +89,7 @@ as attainment. Bhavāgra already refused that.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.14.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.14_bhasya.md` (Pradhan 442|19–443|12).
-First-pass upward-birth paraphrase not followed. `kosabhasya.txt` collation
+Pair with Organon `VAK_8.14.md` (Pradhan 442|19–443|12), upgraded to the
+current Method: kārikā translations and anchor standardized; terminology
+upgraded. Upward-birth paraphrase not followed. `kosabhasya.txt` collation
 pending. Provisional.

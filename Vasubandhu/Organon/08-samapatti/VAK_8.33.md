@@ -22,14 +22,9 @@ that alternative. The official study retains the
 verse's noble determination and marks the prose
 conflict rather than silently changing either witness.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-nirodhaḥ | tu | samāpattiḥ | sūkṣma-sūkṣmāt | anantaram |
-sva-śuddhaka-adhara-āryeṇa | vyutthānam | cetasā | tataḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `nirodhaḥ` | nominative singular masculine | cessation, here the eighth release |
 | `samāpattiḥ` | nominative singular feminine | attainment |
@@ -91,26 +86,9 @@ a lower-level noble mind.
 
 ### Bhāṣya-informed study translation
 
-> The eighth release is cessation of perception
-> and feeling, the cessation-attainment discussed earlier.
-> It is called release through turning away from
-> perception and feeling, or from all conditioned
-> dharmas. Others explain the name through release
-> from an obstruction to attainment.
->
-> At the summit of existence perception is already
-> subtle. Making it still subtler, one enters
-> cessation immediately afterward. Emergence occurs
-> through a pure mind of the summit level
-> or through a mind of the lower nothingness
-> level. The verse calls the latter noble;
-> the transmitted prose instead prints contaminated,
-> a conflict not resolved by the local witnesses.
-
-Source: Pradhan 455|20–456|09, checked against the local
-Bhāṣya study and running source. The mode of
-the second emergence alternative and the compressed
-closing summary require further textual verification.
+> Cessation, however, is an attainment entered immediately after the
+> subtlest of the subtle [perception]. From it, emergence occurs through a
+> pure mind of its own [summit] level or through a noble mind of a lower level.
 
 ## 6. Philosophical Translation
 
@@ -224,7 +202,7 @@ stays within that account.
 
 **The source conflict is material, not cosmetic.**
 Sāsrava and ārya are not interchangeable spellings.
-The first-pass four-item construe is corrected to
+The earlier four-item construe is corrected to
 two paired alternatives, but the running prose's
 mode conflict cannot be solved merely by grammatical
 segmentation. Additional witness comparison would be

@@ -23,16 +23,9 @@ The running spelling gunaghātibhir, does not by itself establish that reading.
 There is no separate prose gloss in the
 running source to settle the compound.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-gate | atha | śāntim | paramām | svayaṃbhuvi |
-svayaṃbhuvaḥ | śāsana-dhūrdhareṣu | ca | jagati |
-anāthe | gaṇa-ghātibhiḥ | mataiḥ | niraṅkuśaiḥ |
-svairam | iha | adya | caryate
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `gate` | locative singular past passive participle of √gam | having gone |
 | `atha` | indeclinable | then; continuing the lament |
@@ -50,8 +43,11 @@ svairam | iha | adya | caryate
 | `iha / adya` | indeclinables | here / now, today |
 | `caryate` | third-person singular present passive of √car | impersonal: movement or activity takes place |
 
-Jagati + anāthe gives jagaty anāthe; iha +
-adya gives ihādya. The instrumental forms gaṇaghātibhiḥ,
+Sandhi: `jagati + anāthe` > `jagaty anāthe`; `iha +
+adya` > `ihādya`. Text: the translations provisionally follow the local
+`gaṇaghātin`; the running source (Pradhan 460|07–11) prints `gunaghātin`,
+so the kind of harm remains unsettled. No separate prose gloss accompanies
+the verse. The instrumental forms `gaṇaghātibhiḥ`,
 mataiḥ, and niraṅkuśaiḥ undergo the displayed visarga
 sandhi. Their shared case connects the description
 of harm and lack of restraint to the views.
@@ -108,22 +104,9 @@ the local gaṇa reading is retained.
 
 ### Bhāṣya-informed study translation
 
-> After the Self-Arisen had entered supreme peace,
-> and those who bore the burden of
-> his teaching had also departed, the world
-> was left without a protector. Here now,
-> unchecked views harmful to the community circulate freely.
-
-Both translations provisionally follow the local gaṇaghātin.
-The kind of harm remains textually unsettled
-because the running source prints gunaghātin instead.
-
-Source: Pradhan 460|07–460|11, checked against the local
-kārikā, research Bhāṣya file, and running source.
-No separate transmitted prose gloss accompanies the
-verse. The required study-translation heading is retained
-for consistency; the readable translation is not
-presented as an otherwise unattested prose commentary.
+> Then, with the Self-Arisen gone to supreme peace, and the bearers of the
+> Self-Arisen's teaching also departed, in a world without a protector,
+> unrestrained views destructive of the community now roam freely here.
 
 ## 6. Philosophical Translation
 
@@ -189,7 +172,7 @@ a date supplied by the modern study.
 
 **The sequence represented in the verse.**
 
-| Element | Stated determination |
+| Feature | Stated determination |
 |---|---|
 | Teacher | Gone to supreme peace |
 | Teaching-bearers | Also departed, by ellipsis |

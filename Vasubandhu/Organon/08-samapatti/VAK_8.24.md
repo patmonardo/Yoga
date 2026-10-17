@@ -22,14 +22,9 @@ but this semantic control does not itself establish
 a critical correction of the consonant. The adopted
 reading remains explicitly provisional.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ānimittaḥ | śama-ākāraiḥ | śūnyatā | anātma-śūnyataḥ |
-pravartate | apraṇihitaḥ | satya-ākāraiḥ | ataḥ | paraiḥ
-```
-
-| Form | Morphology or status | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ānimittaḥ` | nominative singular masculine | signless [samādhi] |
 | `śamākāraiḥ` | instrumental plural masculine; provisional reading | through the aspects of peace, resolved as cessation aspects |
@@ -83,30 +78,15 @@ truth-aspects.
 ### Literal Translation
 
 > Signless [samādhi proceeds] through the aspects of
-> peace; emptiness proceeds through non-self and emptiness.
+> peace; [samādhi of] emptiness [proceeds] through non-self and emptiness.
 > Non-directed [samādhi proceeds] through the other
 > aspects of the truths.
 
 ### Bhāṣya-informed study translation
 
-> Signless samādhi is associated with the four
-> aspects of the truth of cessation. Its object
-> is nirvāṇa, called signless because it is free
-> from ten signs.
->
-> Emptiness samādhi is associated with two aspects:
-> non-self and emptiness. Non-directed samādhi is
-> associated with the remaining ten truth-aspects.
-> Impermanence, suffering, and their causes occasion
-> recoil; the path too must ultimately be relinquished,
-> like a raft. Samādhi proceeding through those
-> aspects is directed toward passing beyond them.
-> The same recoil does not apply to emptiness
-> and non-self, because they are common to nirvāṇa.
-
-Source: Pradhan 449|07–450|01, checked against the local
-Bhāṣya study and running source. The following sentence
-opens the two-mode classification treated in VAK 8.25.
+> Signless samādhi proceeds through the four aspects of cessation;
+> emptiness samādhi through the two aspects, non-self and emptiness;
+> and non-directed samādhi through the remaining aspects of the truths.
 
 ## 6. Philosophical Translation
 

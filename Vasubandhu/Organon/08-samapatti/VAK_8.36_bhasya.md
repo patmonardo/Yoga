@@ -3,11 +3,15 @@
 ## 1. Kārikā Anchor
 
 > daśa kṛtsnāni alobhāṣṭau dhyāne 'ntye gocaraḥ punaḥ |
-> kāmāḥ dve śuddhakārūpye svacatuḥskandhagocare || 8.36 ||
+> kāmāḥ dve śuddhākārūpye svacatuḥskandhagocare || 8.36 ||
 
-> There are ten totalities. Eight are non-greed, in the last dhyāna; their
-> object-field, again, is desire-domain objects. Two are pure formless attainments,
-> having the four aggregates of their own level as their object-field.
+> There are ten totalities, called Essences from their uninterrupted
+> complete pervasion: earth, water, fire, wind, blue, yellow, red, white,
+> and the totalities of infinite space and infinite knowledge. The first
+> eight have non-greed as their nature and belong to the last, the fourth,
+> dhyāna; their object-field is desire-domain visible form. The last two,
+> pure formless attainments, have as their object-field the four Bases
+> of their own level.
 
 Acquisition and supports: 8.37. `Vijñāna` in the tenth = knowledge, not emptied
 consciousness.
@@ -36,9 +40,9 @@ Kārikā study: [`VAK_8.36.md`](./VAK_8.36.md).
 > Object: desire-domain visible form. Some: wind takes the tangible field.
 >
 > The last two have the nature of pure formless attainments. Object: the four
-> aggregates of their own ground.
+> Bases of their own ground.
 >
-> Mastery-bases are entry-related to the releases; totalities to the mastery-bases
+> Essences of mastery are entry-related to the releases; totalities to the Essences of mastery
 > — each later more distinguished. All these, from the releases on, can belong to
 > ordinary or noble continuities — except cessation-release.
 
@@ -68,7 +72,7 @@ mandatory itinerary for every person. Vijñāna-totality is not emptied Cit.
 - `kāmāḥ` = rūpāyatana;
 - `sva` = svabhūmika.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -80,7 +84,9 @@ work. The gate is not the totality. Yama waits outside for Pure Reason.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.36.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.36_bhasya.md` (Pradhan 457|13–458|10).
-Prāveśika direction still a review point. `kosabhasya.txt` collation pending.
-Provisional.
+Organon pair `VAK_8.36.md` / `VAK_8.36_bhasya.md`, upgraded to the current
+Method: kārikā translations and anchor standardized; terminology upgraded
+(Pradhan 457|13–458|10 witness reference). The verse's Devanāgarī and IAST
+spellings of śuddhākārūpye differ; the anchor follows the kārikā study's
+IAST. Prāveśika direction still a review point. `kosabhasya.txt` collation
+pending. Provisional.

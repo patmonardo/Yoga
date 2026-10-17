@@ -19,14 +19,9 @@ the separation after tridhā. The running commentary
 quotes its clauses separately. The referent of tat
 is the intermediate dhyāna introduced in VAK 8.22.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tridhā | aduḥkha-asukham | tat | ca | mahābrahma-phalam | ca | tat |
-sa-vitarka-vicāraḥ | adhaḥ-samādhiḥ | parataḥ | a-dvayaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tridhā` | adverb | threefold, here in attainment mode |
 | `aduḥkhāsukham` | nominative singular neuter | neither painful nor pleasant |
@@ -84,33 +79,16 @@ itself lacks vitarka while retaining vicāra.
 
 ### Literal Translation
 
-> That is threefold and neither painful nor pleasant,
-> and it has Mahābrahmā as its result. Samādhi
+> That [intermediate dhyāna] is threefold and neither painful nor pleasant,
+> and that [dhyāna] has Mahābrahmā as its result. Samādhi
 > below it is accompanied by vitarka and vicāra;
 > beyond it, samādhi is without the two.
 
 ### Bhāṣya-informed study translation
 
-> Intermediate dhyāna occurs in savoring-associated,
-> pure, and uncontaminated modes. It is associated
-> with the faculty of neutral feeling and is
-> not accompanied by rapture, because its course
-> involves effort. For that same reason its mode
-> of progress is difficult. Its cultivation has
-> the Mahābrahmā state as a distinctive result.
->
-> The sūtra classifies samādhi in three ways.
-> First dhyāna and its first access, anāgamya,
-> have both vitarka and vicāra. Intermediate dhyāna
-> lacks vitarka but retains vicāra. From the access
-> to second dhyāna through the summit of existence,
-> samādhi lacks both.
-
-Source: Pradhan 448|11–449|07, checked against the local
-Bhāṣya study and running source. The result statement
-is preserved as the source's cultivation claim; it
-is not converted into an assertion that every mode
-or every occurrence produces rebirth as Mahābrahmā.
+> That intermediate dhyāna is threefold, neither painful nor pleasant,
+> and has Mahābrahmā as its result. Samādhi below it is accompanied
+> by vitarka and vicāra; beyond it, samādhi is without both.
 
 ## 6. Philosophical Translation
 
@@ -153,7 +131,9 @@ pratipad answer different questions.
 The prose says that through cultivation of intermediate
 dhyāna one becomes Mahābrahmā. This is a cosmological
 result, not a synonym for liberation or knowledge
-of destruction.
+of destruction. Source: Pradhan 448|11–449|07. The result statement
+is preserved as the source's cultivation claim, not as an assertion
+that every mode or occurrence produces rebirth as Mahābrahmā.
 
 **`Savitarka savicāra`.** With both vitarka and vicāra.
 The prose includes anāgamya as well as first dhyāna

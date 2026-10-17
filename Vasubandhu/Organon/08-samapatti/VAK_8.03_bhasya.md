@@ -5,9 +5,12 @@
 > vibhūtarūpasaṃjñākhyāḥ saha sāmantakais tribhiḥ |
 > nārūpye rūpasadbhāvaḥ rūpotpattis tu cittataḥ || 8.03 ||
 
-> They are designated as having form-perception passed away, together with three
-> access attainments. There is no presence of form in the formless domain; the
-> arising of form, however, is from citta.
+> The four formless attainments, together with the access
+> stages of the latter three, are designated as having
+> form-perception passed away. There is no presence of Form
+> in the formless domain; the arising of Form, however, is
+> from consciousness conditioned by the cause whose maturation
+> that Form is.
 
 Modes of attention that name the four: 8.04.
 
@@ -29,7 +32,7 @@ canonical dependence; how after many kalpas?; how citta without form?).
 ## 3. Continuous Conventional Translation
 
 > Access to infinite space does not receive the designation: its object is still
-> the fourth dhyāna, so form-perception has not gone. The four-aggregate claim
+> the fourth dhyāna, so form-perception has not gone. The four-Base claim
 > must be established: there is no form in the formless.
 >
 > If form were there, why call them formless? Because of slight form, like a
@@ -61,7 +64,7 @@ cittataḥ qualified by vipāka-cause
 
 Access ≠ principal attainment. Domain constitution ≠ a sitting meditator's body
 vanishing. Later form ≠ the same old lump stored somewhere. `Cittataḥ` ≠ mind
-makes matter at will.
+makes Form at will.
 
 ## 6. Who Gets the Name
 
@@ -77,7 +80,7 @@ makes matter at will.
 - first half = present constitution;
 - second half = later genesis.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -88,7 +91,7 @@ rebirth-body. Do not sell "Meaning = regenerate the file."
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.03.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.03_bhasya.md` (Pradhan 434|10–435|26).
-Middle objection stretch compressed in the witness. `kosabhasya.txt` collation
-pending. Provisional.
+Organon pair `VAK_8.03.md` / `VAK_8.03_bhasya.md`, against Pradhan
+434|10–435|26. Kārikā translations and anchor standardized; terminology
+upgraded to the current Method. Middle objection stretch compressed in the
+witness. `kosabhasya.txt` collation pending. Provisional.

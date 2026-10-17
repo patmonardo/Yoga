@@ -16,17 +16,11 @@ maitry adveṣo 'pi karuṇā muditā sumanaskatā || 8.29 ||
 
 The Sanskrit follows the local kārikā witness. The
 Bhāṣya resolves compassion as non-hatred, like friendliness.
-The research first pass's grouping of compassion
-with gladness is corrected in this official study.
+A grouping of compassion with gladness is not supported by the prose.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-apramāṇāni | catvāri | vyāpāda-ādi-vipakṣataḥ |
-maitrī | adveṣaḥ | api | karuṇā | muditā | sumanaskatā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `apramāṇāni` | nominative plural neuter | immeasurables |
 | `catvāri` | nominative plural neuter numeral | four |
@@ -76,30 +70,15 @@ compassion likewise; sympathetic joy is gladness.
 
 ### Literal Translation
 
-> There are four immeasurables because they oppose
-> ill will and the others. Friendliness is non-hatred,
-> compassion also; sympathetic joy is gladness.
+> There are four immeasurables [friendliness, compassion, sympathetic joy,
+> and equanimity] because they oppose ill will and the others. Friendliness
+> is non-hatred, compassion also; sympathetic joy is gladness.
 
 ### Bhāṣya-informed study translation
 
-> The four immeasurables are friendliness, compassion,
-> sympathetic joy, and equanimity. They are called
-> immeasurable because they take immeasurable living
-> beings as object. Their fourfold number corresponds
-> to counteracting ill will, harmfulness, discontent,
-> and predominance of sensual desire and ill will,
-> respectively.
->
-> Friendliness has non-hatred as its nature, and
-> compassion has the same nature in this account.
-> Sympathetic joy has pleasant-mindedness or gladness
-> as its nature. Equanimity's nature is determined
-> in the following verse.
-
-Source: Pradhan 452|04–452|17, checked against the local
-Bhāṣya study and running source. The discussion
-of impurity contemplation and equanimity within this
-span is attributed separately below.
+> There are four immeasurables, because they oppose ill will and the rest:
+> friendliness, compassion, sympathetic joy, and equanimity. Friendliness
+> is non-hatred, and compassion is so too; sympathetic joy is gladness.
 
 ## 6. Philosophical Translation
 

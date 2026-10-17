@@ -20,14 +20,9 @@ contemplation, not silently changed to the adjective
 aśubhau. The commentary explains the first two
 as having aśubhā as their nature.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-aṣṭau | vimokṣāḥ | prathamau | aśubhā | dhyānayoḥ | dvayoḥ |
-tṛtīyaḥ | antye | saḥ | ca | alobhaḥ | śubha-ārūpyāḥ | samāhitāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aṣṭau` | numeral | eight |
 | `vimokṣāḥ` | nominative plural masculine | releases or deliverances |
@@ -89,33 +84,9 @@ collected formless attainments constitute the formless releases.
 
 ### Bhāṣya-informed study translation
 
-> The eight releases comprise three form-related
-> releases, four formless attainments, and cessation
-> of perception and feeling as the eighth.
->
-> The first two have the nature of unattractive
-> contemplation, using bluish and related aspects.
-> They occur in first and second dhyāna, where
-> the respective level-based counteraction concerns attachment
-> to color or appearance of the desire domain
-> and of first dhyāna.
->
-> The third, beautiful release belongs to fourth
-> dhyāna. It has non-greed as its nature but
-> is not unattractive contemplation, because its aspect
-> is beautiful. With their associated factors, these
-> first three comprise the five aggregates.
->
-> The four formless attainments receive the release
-> designation when wholesome and collected. Access-stage
-> liberation paths also receive the name; uninterrupted
-> paths do not, because they take the lower
-> level as object. The commentary explains release
-> here as turning away.
-
-Source: Pradhan 454|24–455|19, checked against the local
-Bhāṣya study and running source. A textual caution
-about the introductory second-release formula follows below.
+> There are eight releases. The first two, in the first two dhyānas, are
+> unattractive contemplation. The third, in the last dhyāna, is non-greed.
+> The formless releases are wholesome and collected.
 
 ## 6. Philosophical Translation
 
@@ -124,7 +95,7 @@ about the introductory second-release formula follows below.
 > The third release's beautiful aspect does not
 > make it greedy, just as the first two's
 > unattractive aspects do not supply the entire
-> constitution of their associated aggregate complexes.
+> constitution of their associated Base complexes.
 > Formless level membership alone does not suffice
 > for the release designation.
 
@@ -154,7 +125,7 @@ a subjective report of feeling pleasant or unpleasant.
 
 **`Saparivāra`.** With associated factors or accompaniment.
 The first three, considered in this full manner,
-have the five aggregates as their nature. This
+have the five Bases as their nature. This
 is a different scope from identifying their central
 mental factor as non-greed.
 
@@ -257,7 +228,7 @@ a shared mental nature can receive different
 determinations through aspect and level.
 
 For Organon representation, keep central-factor identity
-separate from the five-aggregate accompanied complex,
+separate from the five-Base accompanied complex,
 and preserve both eligibility conditions for formless
 release. A disputed introductory formula must remain
 marked rather than converted into a definitive
@@ -266,7 +237,7 @@ doctrine attributed to Vasubandhu.
 
 **Review status.** Provisional, Bhāṣya-controlled study.
 The eightfold outline, first-two method and levels,
-third-release distinctions, five-aggregate accompaniment,
+third-release distinctions, five-Base accompaniment,
 formless eligibility, reported uncollected extension,
 and access-path distinction have been checked against
 the local research and running source. The second
@@ -300,7 +271,7 @@ ThirdRelease:
     aspect: Beautiful
 
 FirstThreeWithAccompaniment:
-    constitution: FiveAggregates
+    constitution: FiveBases
 
 FormlessReleaseEligibility:
     requiredConditions: Wholesome, Collected
@@ -311,7 +282,7 @@ AccessPaths:
 
 ProjectConstraint: Beautiful aspect and wholesome mode are contextual senses of subha.
 ProjectConstraint: Preserve the uncertain second-release introductory formula.
-ProjectConstraint: Factor nature differs from accompanied aggregate constitution.
+ProjectConstraint: Factor nature differs from accompanied Base constitution.
 ProjectConstraint: Release naming does not alone establish final outflow destruction.
 ProjectConstraint: Preserve the attributed extension of uncollected occurrences.
 ```

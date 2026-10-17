@@ -5,9 +5,10 @@
 > kliṣṭeṣv asat prītisukhaṃ prasādaḥ saṃpradhīḥ smṛtiḥ |
 > upekṣāsmṛtiśuddhiś ca kecit prasrabdhyupekṣaṇe || 8.10 ||
 
-> In the defiled [dhyānas], rapture-and-pleasure, clarity, clear comprehension
-> and mindfulness, and purification of equanimity and mindfulness are absent.
-> Some [say] pliancy and equanimity [are absent].
+> In the defiled dhyānas, respectively, rapture and pleasure,
+> inward clarity, clear comprehension and mindfulness, and the
+> purification of equanimity and mindfulness are absent. Some say
+> that pliancy and equanimity are what is absent.
 
 Fourth dhyāna's immovability: 8.11.
 
@@ -74,7 +75,7 @@ upekṣā remains. Knowing is not emptied as a skandha; a named limb fails.
 - `saṃpradhīḥ smṛtiḥ` = smṛtisaṃprajanya;
 - second pāda after `kecit` is another school.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -85,6 +86,7 @@ with the oil poured out. Neither.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.10.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.10_bhasya.md` (Pradhan 441|01–11).
-`kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.10.md` / `VAK_8.10_bhasya.md`, against Pradhan
+441|01–11. Kārikā translations and anchor standardized; terminology
+upgraded to the current Method. `kosabhasya.txt` collation pending.
+Provisional.

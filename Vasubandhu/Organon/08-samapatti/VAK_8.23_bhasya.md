@@ -5,11 +5,9 @@
 > tridhā aduḥkhāsukhaṃ tac ca mahābrahmaphalaṃ ca tat |
 > savitarkavicāro 'dhaḥsamādhiḥ parato 'dvayaḥ || 8.23 ||
 
-> That is threefold and neither painful nor pleasant, and it has Mahābrahmā as
-> its result. Samādhi below it is accompanied by vitarka and vicāra; beyond it,
-> samādhi is without the two.
-
-Emptiness / wishlessness / signlessness: 8.24. Chapter continues.
+> That intermediate dhyāna is threefold, neither painful nor pleasant,
+> and has Mahābrahmā as its result. Samādhi below it is accompanied
+> by vitarka and vicāra; beyond it, samādhi is without both.
 
 Kārikā study: [`VAK_8.23.md`](./VAK_8.23.md).
 
@@ -66,7 +64,7 @@ liberative jñāna, and not blindly assigned to the anāsrava mode.
 - `aduḥkhāsukham` = upekṣendriya;
 - `advayaḥ` = no vitarka and no vicāra.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -77,6 +75,6 @@ It is the absence of two named factors.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.23.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.23_bhasya.md` (Pradhan 448|11–449|07).
-`kosabhasya.txt` collation pending. Provisional.
+Kārikā translations and anchor standardized; terminology upgraded to the
+current Method. Organon pair `VAK_8.23.md` / this Bhāṣya (Pradhan
+448|11–449|07). `kosabhasya.txt` collation pending. Provisional.

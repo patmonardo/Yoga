@@ -18,14 +18,9 @@ The local verse is retained with analytical hyphens
 removed. The running source embeds the two lines
 in the commentary explaining their respective conditions.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-hetu-karma-balāt | dhātvoḥ | ārūpya-utpādanam | dvayoḥ |
-dhyānānām | rūpa-dhātau | tu | tābhyām | dharmatayā | api | ca
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `hetukarmabalāt` | ablative singular neuter compound | through the power of cause and karma |
 | `dhātvoḥ` | locative dual masculine in this construction | in the two domains |
@@ -38,8 +33,8 @@ dhyānānām | rūpa-dhātau | tu | tābhyām | dharmatayā | api | ca
 | `dharmatayā` | instrumental singular feminine | through dharmatā, lawful regularity |
 | `api ca` | indeclinables | and also |
 
-Ārūpya + utpādana gives ārūpyotpādana; dharmatayā +
-api gives dharmatayāpi. Dhātvoḥ is formally compatible
+Sandhi: `ārūpya + utpādana` > `ārūpyotpādana`; `dharmatayā +
+api` > `dharmatayāpi`. Dhātvoḥ is formally compatible
 with genitive or locative dual, but the
 production-in-a-domain construction supplies its locative function.
 
@@ -88,33 +83,10 @@ and also through dharmatā.
 
 ### Bhāṣya-informed study translation
 
-> Formless samāpattis are produced in the form
-> and formless domains through causal power or
-> karmic power. Causal power is recent and
-> repeated cultivation. Karmic power is the impending
-> maturation of higher-level karma whose result is
-> to be experienced in a later existence.
-> For one cannot be born above while
-> still attached to what is below.
->
-> Dhyānas are produced in the form domain
-> through those same powers and also through
-> dharmatā at the time of cosmic contraction.
-> At that time all the beings of
-> the relevant lower levels produce the corresponding
-> dhyāna. The prose explains this through the
-> coming into manifest operation of all the dharmas.
-
-Source: Pradhan 458|18–459|07, beginning with the question
-about production of special attainments and ending
-with kṛtsnānāṃ dharmāṇāmudbhūtavṛttitvāt. The instruction
-clause before that question closes 8.37. The
-following question about the duration of the
-true teaching introduces the next unit.
-
-The final explanatory phrase is compressed. Its
-literal force is preserved here without deriving
-an independent cosmological mechanism from it.
+> Through the power of cause and of karma, formless attainments are
+> produced in the two domains, form and formless. The dhyānas are
+> produced in the form domain through those two powers and also through
+> dharmatā, the lawful course at the time of cosmic contraction.
 
 ## 6. Philosophical Translation
 
@@ -157,7 +129,9 @@ assignment with the imminence of its result.
 **`Dharmatā`.** Lawful regularity. The prose invokes
 it at cosmic contraction. “Suchness” without this
 context would obscure the specific explanatory work
-performed by the term in this passage.
+performed by the term in this passage (Pradhan 458|18–459|07,
+ending kṛtsnānāṃ dharmāṇām udbhūtavṛttitvāt; that final explanatory
+phrase is compressed and is not used to derive a separate cosmology).
 
 **`Saṃvartanīkāla`.** Time of cosmic contraction or
 dissolution. The research's “re-formation” is corrected

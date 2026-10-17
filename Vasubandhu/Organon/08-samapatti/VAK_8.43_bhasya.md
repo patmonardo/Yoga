@@ -5,9 +5,9 @@
 > iti kaṇṭhagataprāṇaṃ viditvā śāsanaṃ muneḥ |
 > balakālaṃ malānāṃ ca na pramādyaṃ mumukṣubhiḥ || 8.43 ||
 
-> Having thus known the Sage's teaching to have its life-breath at the throat,
-> and this to be a time of strength for the defilements, those desiring liberation
-> must not be negligent.
+> Having thus known the Sage's teaching to be near death, with its
+> life-breath at the throat, and this to be a time of strength for the
+> defilements, those who wish for liberation must not be negligent.
 
 No separate prose. Colophon closes the eighth Kośasthāna. Next work, as planned:
 Chapter 6 Marga redo.
@@ -59,7 +59,7 @@ Finishing these files ≠ realization. The ninth Kośasthāna follows in the run
 - `pramādyam` is gerundive obligation;
 - colophon names Samāpattinirdeśa.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -71,7 +71,7 @@ mumukṣu in kāmadhātu. Next: Marga hell, as you said.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.43.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.43_bhasya.md` (Pradhan 460|12–14). Chapter 8
-verse sequence complete through the colophon. `kosabhasya.txt` collation pending.
-Provisional.
+Organon pair `VAK_8.43.md` / `VAK_8.43_bhasya.md`, upgraded to the current
+Method: kārikā translations and anchor standardized; terminology upgraded
+(Pradhan 460|12–14 witness reference). Chapter 8 verse sequence complete
+through the colophon. `kosabhasya.txt` collation pending. Provisional.

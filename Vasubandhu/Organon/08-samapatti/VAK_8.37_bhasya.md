@@ -5,9 +5,10 @@
 > nirodha uktaḥ vairāgyaprayogāptaṃ tu śeṣitam |
 > tridhātvāśrayam ārūpyasaṃjñaṃ śeṣaṃ manuṣyajam || 8.37 ||
 
-> Cessation has been explained. The remainder, however, is acquired through
-> dispassion or application. What is designated formless has support in the three
-> domains; the rest is human-born.
+> Cessation-release has been explained. The remainder, however, is
+> acquired through dispassion or through application. What is designated
+> formless has support in the three domains; the rest is human-born,
+> produced on human support.
 
 Causes of production in rūpa and ārūpya: 8.38.
 
@@ -50,7 +51,7 @@ every rebirth. Instruction here ≠ no teaching exists outside humans as a cosmi
 |---|---|
 | acquisition (minus nirodha) | vairāgya if habituated; prayoga if not |
 | three-domain support | four formless releases + two formless totalities |
-| human production | first three releases, eight mastery-bases, first eight totalities |
+| human production | first three releases, eight Essences of mastery, first eight totalities |
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
@@ -58,7 +59,7 @@ every rebirth. Instruction here ≠ no teaching exists outside humans as a cosmi
 - `ārūpyasaṃjñam` is the three-domain subject;
 - second `śeṣam` is the human-production group.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -69,7 +70,8 @@ not Mara that pedagogy. He still asks whether samādhi was raised to Pure Reason
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.37.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.37_bhasya.md` (Pradhan 458|11–18).
-First-pass support reversal already corrected in the official kārikā. `kosabhasya.txt`
-collation pending. Provisional.
+Organon pair `VAK_8.37.md` / `VAK_8.37_bhasya.md`, upgraded to the current
+Method: kārikā translations and anchor standardized; terminology upgraded
+(Pradhan 458|11–18 witness reference). The support clause follows the
+Bhāṣya construe: three-domain support for the formless group, human support
+for the rest. `kosabhasya.txt` collation pending. Provisional.

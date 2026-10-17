@@ -19,31 +19,20 @@ source's `smṛṭiḥ` differs from its `smṛtiḥ`. The prose
 controls the distribution across the four dhyānas and
 the interpretation of the compressed `saṃpradhīḥ`.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kliṣṭeṣu | asat | prīti-sukham | prasādaḥ | saṃpradhīḥ | smṛtiḥ |
-upekṣā-smṛti-śuddhiḥ | ca | kecit | prasrabdhi-upekṣaṇe
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `kliṣṭeṣu` | locative plural | in the defiled [dhyānas] |
-| `asat` | neuter singular of negated sant, participle of √as | absent; not present |
-| `prītisukham` | neuter singular collective expression | rapture and pleasure |
+| `kliṣṭeṣu` | locative plural (`kliṣṭeṣu + asat` → `kliṣṭeṣv asat`) | in the defiled [dhyānas] |
+| `asat` | neuter singular of negated `sant`, participle of √as | absent; not present |
+| `prīti-sukham` | neuter singular collective expression | rapture and pleasure |
 | `prasādaḥ` | nominative singular masculine | inward clarity |
 | `saṃpradhīḥ` | nominative singular feminine, compressed designation | clear comprehension, resolved by the prose |
 | `smṛtiḥ` | nominative singular feminine | mindfulness or recollection |
-| `upekṣāsmṛtiśuddhiḥ` | nominative singular feminine compound | purification of equanimity and mindfulness |
+| `upekṣā-smṛti-śuddhiḥ` | nominative singular feminine compound (`śuddhiḥ + ca` → `śuddhiś ca`) | purification of equanimity and mindfulness |
 | `ca` | conjunction | and |
 | `kecit` | nominative plural masculine indefinite pronoun | some [authorities] |
-| `prasrabdhyupekṣaṇe` | coordinated dual expression | pliancy and equanimity |
-
-`Kliṣṭeṣu + asat` yields `kliṣṭeṣv asat`;
-`śuddhiḥ + ca` yields `śuddhiś ca`; `prasrabdhi +
-upekṣaṇe` yields `prasrabdhyupekṣaṇe`. The last member
-is resolved as upekṣā by the prose. Its surface form
-is retained rather than silently replaced.
+| `prasrabdhi-upekṣaṇe` | coordinated dual expression (`prasrabdhyupekṣaṇe`) | pliancy and equanimity; `upekṣaṇa` is resolved as `upekṣā` by the prose, and the surface form is retained |
 
 ## 4. Grammar
 
@@ -95,24 +84,10 @@ in the first pair and the last pair.
 
 ### Bhāṣya-informed study translation
 
-> Some explain the absences in this way. The defiled
-> first dhyāna lacks rapture and pleasure born of
-> separation, because it is not separated from defilements.
-> The second lacks inward clarity, because defilements
-> make it turbid. The third lacks mindfulness and clear
-> comprehension, because defiled pleasure bewilders it.
-> The fourth lacks purification of equanimity and
-> mindfulness, because defilements stain it.
->
-> Others say that the first and second defiled dhyānas
-> lack pliancy, and the third and fourth lack equanimity,
-> because these two factors belong to the class common
-> to wholesome states.
-
-Source: Pradhan 441|01–441|11, checked against the local
-Bhāṣya study and running source. The following sentence
-at 441|11–12 introduces the next verse's discussion of
-movement and immovability.
+> In the defiled dhyānas, respectively, rapture and pleasure,
+> inward clarity, clear comprehension and mindfulness, and the
+> purification of equanimity and mindfulness are absent. Some say
+> that pliancy and equanimity are what is absent.
 
 ## 6. Philosophical Translation
 

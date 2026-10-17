@@ -21,28 +21,20 @@ transposed consonants, with the prose's `kuśalacittaikāgratā`
 controlling the meaning. This normalization is disclosed,
 not presented as a mechanically identical transcription.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dvidhā | dhyānāni | catvāri | proktāḥ | tad-upapattayaḥ |
-samāpattiḥ | śubha-ekāgryam | pañca-skandhāḥ | tu | sa-anugam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dvidhā` | adverb | twofold, as birth and attainment |
 | `dhyānāni` | nominative plural neuter | dhyānas |
 | `catvāri` | nominative plural neuter numeral | four |
-| `proktāḥ` | nominative plural feminine participle here | already explained, agreeing with the rebirths |
-| `tadupapattayaḥ` | nominative plural feminine compound | the births corresponding to those dhyānas |
+| `proktāḥ` | nominative plural feminine participle (with `proktās tad-` sandhi) | already explained; agrees with the rebirths, not with neuter `dhyānāni` |
+| `tad-upapattayaḥ` | nominative plural feminine compound | the births corresponding to those dhyānas |
 | `samāpattiḥ` | nominative singular feminine | attainment, here attainment-dhyāna |
-| `śubhaikāgryam` | nominative singular neuter compound | wholesome one-pointedness |
-| `pañcaskandhāḥ` | nominative plural masculine | the five aggregates |
-| `sānugam` | neuter singular compound adjective used in the compressed construction | with its accompaniment |
-
-`Śubha + ekāgrya` yields `śubhaikāgrya`; `sa + anuga`
-yields `sānuga`. The feminine plural `proktāḥ` refers
-to `upapattayaḥ`, not to the neuter `dhyānāni`.
+| `śubha-ekāgryam` | nominative singular neuter compound (`śubha + ekāgrya` → `śubhaikāgrya`) | wholesome one-pointedness |
+| `pañca-skandhāḥ` | nominative plural masculine | the five Bases |
+| `tu` | particle | contrast: defining nature versus accompanied constitution |
+| `sa-anugam` | neuter singular compound adjective (`sa + anuga` → `sānuga`) | with its accompaniment |
 
 ## 4. Grammar
 
@@ -76,7 +68,7 @@ to call `sānugam` an intrinsically indeclinable word.
 **Close construe.** The four dhyānas are twofold. Their
 corresponding births have been explained. As attainment,
 dhyāna is wholesome one-pointedness; with its accompaniment,
-however, it has the constitution of the five aggregates.
+however, it has the constitution of the five Bases.
 
 ## 5. Translation
 
@@ -85,25 +77,15 @@ however, it has the constitution of the five aggregates.
 > The four dhyānas are twofold; their corresponding
 > births have been explained. Attainment is wholesome
 > one-pointedness; with its accompaniment, however,
-> it is the five aggregates.
+> it is the five Bases.
 
 ### Bhāṣya-informed study translation
 
-> The four dhyānas are considered as corresponding
-> rebirths and as meditative attainments. The rebirths
-> were explained in the chapter on the world; the present
-> account concerns attainment-dhyāna.
->
-> In its defining nature, dhyāna is wholesome one-pointedness
-> of mind, since its nature is samādhi. Taken together
-> with its accompaniment, it has the nature of all five
-> aggregates. One-pointedness is having one object-support.
-
-Source: Pradhan 432|02–433|14, local Bhāṣya checked
-against the running source. The subsequent dispute about
-samādhi and the explanation of the name dhyāna are
-developed below, rather than inserted wholesale into
-the verse translation.
+> The four dhyānas are twofold, as corresponding rebirths
+> and as attainment; the rebirths have been explained.
+> Attainment-dhyāna is wholesome one-pointedness of mind;
+> taken with its accompaniment, however, it has the
+> nature of the five Bases.
 
 ## 6. Philosophical Translation
 
@@ -151,9 +133,9 @@ universal developed collectedness; the reply invokes
 weakness of samādhi. Presence and strength are distinguished.
 
 **`Saparivāra / sānuga`.** With accompaniment or retinue.
-The accompanied dhyāna is five-aggregate in constitution.
+The accompanied dhyāna is five-Base in constitution.
 The passage does not enumerate every accompanying dharma
-here or turn the five aggregates into five dhyāna factors.
+here or turn the five Bases into five dhyāna factors.
 
 **`Aṅgasamāyukta`.** Endowed with factors. This identifies
 the excellent samādhi to which the name dhyāna applies
@@ -188,7 +170,7 @@ meditative concentration.
 | In what two respects? | Birth and attainment |
 | Which respect is developed here? | Attainment |
 | Defining nature? | Wholesome one-pointedness, samādhi |
-| With accompaniment? | Five aggregates |
+| With accompaniment? | Five Bases |
 
 **The samādhi dispute.** The first objection says that
 if one-pointedness means one object-support, the minds
@@ -247,11 +229,11 @@ This explains an extension of the name without removing
 
 ## 9. Interpretive Note
 
-**Definition and accompaniment.** “Five aggregates” must
+**Definition and accompaniment.** “Five Bases” must
 not erase the defining samādhi determination, while
 “one-pointedness” must not erase the accompanied constitution.
 These answer different questions. Likewise, the five
-aggregates are not the numerical list of limbs of the
+Bases are not the numerical list of limbs of the
 first dhyāna.
 
 **Voice discipline.** The associated-factor reply and
@@ -295,7 +277,7 @@ our reconstruction before a larger architecture is imposed.
 
 **Review status.** Provisional, Bhāṣya-controlled study.
 The twofold four-dhyāna classification, local attainment
-definition, accompanied five-aggregate constitution,
+definition, accompanied five-Base constitution,
 samādhi dispute, strength distinction, knowing-based
 explanation, and qualified use of the dhyāna name have
 been checked against the local extract and running source.
@@ -320,7 +302,7 @@ FourDhyanas:
 
 AttainmentDhyana:
     definingNature: WholesomeOnePointednessOfMind
-    accompaniedConstitution: FiveAggregates
+    accompaniedConstitution: FiveBases
 
 OnePointedness:
     initialExplanation: OneObjectSupport
@@ -338,7 +320,7 @@ ExcellentSamadhi:
     cognitiveRelation: CollectedMindKnowsAsThingsAre
 
 ProjectConstraint: Birth-dhyana differs from attainment-dhyana.
-ProjectConstraint: Five aggregates are not five dhyana factors.
+ProjectConstraint: Five Bases are not five dhyana factors.
 ProjectConstraint: Preserve the competing samadhi accounts.
 ProjectConstraint: One object alone does not settle the explanation of collectedness.
 ProjectConstraint: Qualified afflicted naming does not erase the wholesome definition.

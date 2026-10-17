@@ -20,33 +20,22 @@ Devanāgarī renders the same reading. The prose resolves
 qualifications of the fourth dhyāna's equanimity and
 mindfulness.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tṛtīye | pañca | tu | upekṣā | smṛtiḥ | prajñā | sukham | sthitiḥ |
-catvāri | ante | asukha-aduḥkha-upekṣā-smṛti-samādhayaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tṛtīye` | locative singular neuter ordinal | in the third [dhyāna] |
 | `pañca` | numeral | five [factors] |
-| `tu` | transition or contrast particle | however; now |
+| `tu` | transition or contrast particle (`tu + upekṣā` → `tūpekṣā`) | however; now |
 | `upekṣā` | nominative singular feminine | equanimity |
 | `smṛtiḥ` | nominative singular feminine | mindfulness or recollection |
 | `prajñā` | nominative singular feminine | discriminative knowing, glossed as clear comprehension |
 | `sukham` | nominative singular neuter | ease or pleasure |
 | `sthitiḥ` | nominative singular feminine | stability, here samādhi |
-| `catvāri` | nominative plural neuter numeral | four [factors] |
-| `ante` | locative singular | in the last, the fourth dhyāna |
-| `asukhāduḥkha` | compound member | neither pleasure nor pain |
-| `upekṣāsmṛtisamādhayaḥ` | ending of the coordinated compound | equanimity, mindfulness, and concentration |
-
-`Tu + upekṣā` yields `tūpekṣā`; `catvāri + ante`
-yields `catvāry ante`; `ante + asukha-` yields
-`ante 'sukha-`. The prose reverses the order of the
-feeling adjectives to `aduḥkhāsukhā vedanā` without
-changing the neither-pain-nor-pleasure determination.
+| `catvāri` | nominative plural neuter numeral (`catvāry ante`) | four [factors] |
+| `ante` | locative singular (`ante 'sukha-`) | in the last, the fourth dhyāna |
+| `asukha-aduḥkha` | compound member | neither pleasure nor pain; the prose reverses the order to `aduḥkhāsukhā vedanā` without changing the determination |
+| `upekṣā-smṛti-samādhayaḥ` | ending of the coordinated compound | equanimity, mindfulness, and concentration |
 
 ## 4. Grammar
 
@@ -89,22 +78,10 @@ and samādhi.
 
 ### Bhāṣya-informed study translation
 
-> The third dhyāna has five factors: equanimity,
-> mindfulness, clear comprehension, ease, and samādhi.
-> “Stability” names samādhi here, as supported by the
-> cited definition of right concentration as stability
-> of mind.
->
-> The fourth dhyāna has four factors: neither-pain-nor-
-> pleasure feeling, purification of equanimity, purification
-> of mindfulness, and samādhi. Together with the first
-> two dhyānas, these give eighteen factors by name:
-> five, four, five, and four.
-
-Source: Pradhan 438|04–438|12, local Bhāṣya checked
-against the running source. The following count by
-distinct dharmas begins with VAK 8.09 and is reserved
-for the next study.
+> In the third dhyāna are five factors: equanimity, mindfulness,
+> clear comprehension, ease, and stability, that is, samādhi. In
+> the last are four: feeling that is neither pleasure nor pain,
+> purified equanimity, purified mindfulness, and samādhi.
 
 ## 6. Philosophical Translation
 
@@ -143,7 +120,7 @@ an unchanging mind or a permanent mental substance.
 **`Aduḥkhāsukhā vedanā`.** Feeling that is neither
 painful nor pleasant. The source names a feeling,
 not the absence of every feeling. Its presence is
-compatible with the five-aggregate accompanied dhyāna
+compatible with the five-Base accompanied dhyāna
 constitution discussed earlier.
 
 **`Upekṣāpariśuddhi / smṛtipariśuddhi`.** Purification
@@ -177,8 +154,8 @@ of every dharma associated with an attainment.
 
 **A positive feeling determination.** The fourth list
 contains neutral feeling. It should not be modeled
-as simply deleting sukha and leaving the feeling
-aggregate empty. Likewise, its purified equanimity
+as simply deleting sukha and leaving the Feeling
+Base empty. Likewise, its purified equanimity
 and mindfulness must remain explicit rather than
 being reduced to unqualified labels.
 
@@ -207,7 +184,7 @@ technical meaning of sthiti.
 
 **Relation to earlier distinctions.** The counts concern
 factors, not the three attainment modes, the five
-aggregates, or the four formless attainments. A state
+Bases, or the four formless attainments. A state
 can be located in more than one classification, but
 those classifications answer different questions.
 

@@ -6,8 +6,8 @@
 > jagaty anāthe gaṇaghātibhir matair niraṅkuśaiḥ svairam ihādya caryate || 8.42 ||
 
 > Then, with the Self-Arisen gone to supreme peace, and the bearers of the
-> Self-Arisen's teaching also departed, in a world without a protector, there is
-> free roaming here now by unrestrained views destructive of the community.
+> Self-Arisen's teaching also departed, in a world without a protector,
+> unrestrained views destructive of the community now roam freely here.
 
 Local: `gaṇaghātibhiḥ`. Running: `gunaghātibhir`. Harm-object unsettled. No separate
 prose. Exhortation: 8.43.
@@ -57,7 +57,7 @@ now. No named school is tagged. Community-fragmentation depends on `gaṇa`.
 - impersonal `caryate`;
 - compound of harm left dual-witness.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -69,6 +69,7 @@ gone.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.42.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.42_bhasya.md` (Pradhan 460|07–11). No separate
-prose. `gaṇa`/`guna` open. `kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.42.md` / `VAK_8.42_bhasya.md`, upgraded to the current
+Method: kārikā translations and anchor standardized; terminology upgraded
+(Pradhan 460|07–11 witness reference). No separate prose. `gaṇa`/`guna`
+open. `kosabhasya.txt` collation pending. Provisional.

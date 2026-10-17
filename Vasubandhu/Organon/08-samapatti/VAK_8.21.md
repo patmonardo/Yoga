@@ -19,14 +19,9 @@ running source quotes `samantakena` in the final clause,
 while its explanatory prose uses `sāmantakena`; the
 local verse's long vowel is retained.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-na | maulāḥ | kuśala-ārūpyāḥ | sāsrava-adhara-gocarāḥ |
-anāsraveṇa | hīyante | kleśāḥ | sāmantakena | ca
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `na` | negation | not |
 | `maulāḥ` | nominative plural adjective | principal, as distinct from access attainments |
@@ -88,27 +83,10 @@ perform this work even when pure.
 
 ### Bhāṣya-informed study translation
 
-> Principal wholesome formless attainments do not take
-> lower-level contaminated objects: their contaminated
-> object-range concerns their own or higher levels.
-> Uncontaminated objects are admitted with further
-> qualifications: the anvayajñāna side is included,
-> the dharmajñāna side and cessation belonging to
-> a lower level are excluded. By contrast, the
-> uninterrupted paths of access attainments take the
-> lower level as object.
->
-> Among the principal dhyānas and formless attainments,
-> the uncontaminated mode abandons defilements; the
-> pure mode does not, still less the defiled mode.
-> Access attainment, however, abandons lower-level defilements
-> even when pure, because it functions as the
-> antidote to that lower level.
-
-Source: Pradhan 447|08–447|17, checked against the local
-Bhāṣya study and running source. The knowledge-side
-qualification is rendered contextually; the compressed
-prose wording is noted below.
+> The principal wholesome formless attainments do not take
+> contaminated lower-level objects as their range. Defilements are
+> abandoned by uncontaminated attainment and also by access attainment,
+> even when it is pure.
 
 ## 6. Philosophical Translation
 
@@ -126,6 +104,16 @@ access always starts an abandonment that an uncontaminated
 principal attainment must then finish.
 
 ## 7. Technical Vocabulary
+
+**Source.** Pradhan 447|08–447|17, checked against the local Bhāṣya
+study and running source. The Bhāṣya adds that the principal formless
+attainments take their own or higher level as contaminated range;
+uncontaminated objects are admitted with qualification (the anvayajñāna
+side, not the dharmajñāna side nor lower-level cessation), whereas the
+uninterrupted paths of access take the lower level as object. Among the
+principal attainments only the uncontaminated abandons defilements; access
+abandons lower-level defilements even when pure, as antidote to that
+lower level. The knowledge-side qualification is compressed in the prose.
 
 **`Maula`.** Principal or fundamental attainment. It
 is contrasted with the neighboring access stage.

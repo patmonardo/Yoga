@@ -5,9 +5,11 @@
 > vicāraprītisukhavat pūrvapūrvāṅgavarjitam |
 > tathārūpyāś catuḥskandhā adhobhūmivivekajāḥ || 8.02 ||
 
-> The first possesses vicāra, joy, and ease; the remaining dhyānas are
-> successively deprived of preceding factors. Likewise the formless attainments:
-> four-aggregate, arising through separation from the lower ground.
+> The first dhyāna possesses vicāra, joy, and ease, with vitarka
+> understood along with vicāra; the remaining dhyānas are
+> successively deprived of the preceding factors. Likewise the
+> formless attainments, with accompaniment, have four Bases, and
+> each arises through separation from the lower ground.
 
 Form-absence debate and naming: 8.03. Do not pull that stretch into this file.
 
@@ -38,7 +40,7 @@ Kārikā study: [`VAK_8.02.md`](./VAK_8.02.md).
 >
 > The formless too are twofold, birth and attainment. Births already stated. As
 > attainments, without distinction, wholesome one-pointedness. With retinue:
-> four aggregates — because accompanying form is absent.
+> four Bases — because accompanying form is absent.
 >
 > From separation from the fourth dhyāna: infinite space; from that: infinite
 > consciousness; from that: nothingness; from that: neither perception nor
@@ -51,16 +53,16 @@ Kārikā study: [`VAK_8.02.md`](./VAK_8.02.md).
 one defining nature throughout
 first: vitarka implied with vicāra
 2 / 3 / 4: successive subtraction of named factors
-ārūpya likewise two aspects; four aggregates
+ārūpya likewise two aspects; four Bases
 viveka = release-path via vairāgya, not a Yoga import
 ```
 
 ## 5. Same Nature, Different Retinue
 
 Selected factors ≠ complete aṅga lists. Smoke-and-fire does not prove the
-converse everywhere. Fourth dhyāna is not factorless cognition. Four aggregates
+converse everywhere. Fourth dhyāna is not factorless cognition. Four Bases
 ≠ four isolated consciousnesses. Practitioner's body not said to vanish in the
-attainment. `Tathā` = specified analogies, not identity of five-aggregate build.
+attainment. `Tathā` = specified analogies, not identity of five-Base build.
 
 ## 6. Progressions
 
@@ -84,7 +86,7 @@ attainment. `Tathā` = specified analogies, not identity of five-aggregate build
 - `śubhaikāgrya` understood through the rest;
 - `viveka` defined in-place.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -96,6 +98,7 @@ this verse's inventory.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.02.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.02_bhasya.md` (stop 434|10). `kosabhasya.txt`
+Organon pair `VAK_8.02.md` / `VAK_8.02_bhasya.md`, against Pradhan (stop
+434|10). Kārikā translations and anchor standardized; terminology upgraded to
+the current Method. `kosabhasya.txt`
 collation pending. Provisional.

@@ -19,14 +19,9 @@ Bhāṣya explicitly distinguishes attainment-time from
 death-time and qualifies the pure predecessor in
 the latter case as acquired through rebirth.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kliṣṭāt | svam | śuddhakam | kliṣṭam | evam | ca | adhara-śuddhakam |
-cyutau | tu | śuddhakāt | kliṣṭam | sarvam | kliṣṭāt | tu | na | uttaram
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kliṣṭāt` | ablative singular neuter | immediately after a defiled attainment |
 | `svam` | nominative singular neuter adjective | of its own level |
@@ -100,23 +95,11 @@ defiled successor.
 
 ### Bhāṣya-informed study translation
 
-> During meditative succession, a defiled attainment
-> may be followed immediately by a pure or defiled
-> attainment of the same level, or by a lower pure
-> attainment. An uncontaminated attainment never arises
-> immediately after a defiled one.
->
-> At death the rule differs. A pure state acquired
-> through rebirth may be followed immediately by a
-> defiled state belonging to any level. After a
-> defiled dhyāna or formless state at death, the
-> defiled successor belongs to the same or a lower
-> level, never a higher one.
-
-Source: Pradhan 444|09–445|02, checked against the local
-Bhāṣya study and running source. The explanation by
-prior resolve belongs to the lower-pure transition
-and is developed below.
+> After a defiled attainment, a pure or defiled attainment of its own
+> level arises, and likewise a lower pure attainment. At the time of
+> death, however, after a pure attainment acquired through rebirth a
+> defiled state of any level may arise, while after a defiled
+> attainment no higher defiled state arises.
 
 ## 6. Philosophical Translation
 
@@ -134,6 +117,10 @@ make temporal adjacency a complete explanation of
 why the successor occurs.
 
 ## 7. Technical Vocabulary
+
+**Source.** Pradhan 444|09–445|02, checked against the local Bhāṣya
+study and running source. The explanation by prior resolve belongs to
+the lower-pure transition and is developed in the Bhāṣya.
 
 **`Samāpattikāla`.** Attainment-time, the context to
 which the first succession rules apply. The prose

@@ -5,8 +5,10 @@
 > aṣṭāpakṣālamuktatvād āniñjaṃ tu caturthakam |
 > vitarkacārau śvāsau ca sukhādi ca catuṣṭayam || 8.11 ||
 
-> Because it is free from eight disturbances, the fourth is immovable: vitarka
-> and vicāra, the two breaths, and the four beginning with pleasure.
+> The fourth dhyāna, however, is immovable because it is free
+> from eight disturbances: vitarka and vicāra, the two breaths,
+> and the four beginning with pleasure, namely pleasure, pain,
+> pleasant-mindedness, and displeasure.
 
 Feelings of dhyāna *rebirth*: 8.12. Do not move this list there.
 
@@ -66,7 +68,7 @@ permanent ≠ liberated.
 - `śvāsau` = both breaths;
 - second explanation is `apare`.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -77,6 +79,7 @@ It is an image for unshaken attainment.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.11.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.11_bhasya.md` (Pradhan 441|11–19).
-`kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.11.md` / `VAK_8.11_bhasya.md`, against Pradhan
+441|11–19. Kārikā translations and anchor standardized; terminology
+upgraded to the current Method. `kosabhasya.txt` collation pending.
+Provisional.

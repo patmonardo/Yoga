@@ -5,9 +5,11 @@
 > dvidhā dhyānāni catvāri proktās tadupapattayaḥ |
 > samāpattiḥ śubhaikāgryaṃ pañcaskandhās tu sānugam || 8.01 ||
 
-> The four dhyānas are twofold; their corresponding births have been explained.
-> Attainment is wholesome one-pointedness; with its accompaniment, however, it
-> is the five aggregates.
+> The four dhyānas are twofold, as corresponding rebirths
+> and as attainment; the rebirths have been explained.
+> Attainment-dhyāna is wholesome one-pointedness of mind;
+> taken with its accompaniment, however, it has the
+> nature of the five Bases.
 
 Birth-side already in Lokanirdeśa. This chapter takes the attainment-side.
 Differentiation of the four, and ārūpya: 8.02.
@@ -44,7 +46,7 @@ line. Voices: Vasubandhu; objector (minds themselves? every mind? every samādhi
 > Attainment-dhyāna is what must be stated.
 >
 > Without distinction, dhyāna is wholesome one-pointedness of mind — because its
-> nature is samādhi. With its retinue it is to be known as five-aggregate in
+> nature is samādhi. With its retinue it is to be known as five-Base in
 > nature. What is this one-pointedness? Having one object-support.
 >
 > Then would the minds themselves, being one-supported, be samādhi, and no
@@ -68,7 +70,7 @@ line. Voices: Vasubandhu; objector (minds themselves? every mind? every samādhi
 Ch. 7 qualities → dhyāna as support
 four dhyānas × two aspects; births already done
 defining nature: kuśala-citta-ekāgratā
-with retinue: five aggregates
+with retinue: five Bases
 ekāgratā = one ālambana → is samādhi a separate factor?
 two accounts kept apart
 name reserved for factor-endowed, yoked śamatha–vipaśyanā
@@ -77,7 +79,7 @@ afflicted naming by resemblance
 
 ## 5. Defining Nature ≠ Retinue
 
-Five aggregates ≠ the five first-dhyāna factors. One object ≠ the full account
+Five Bases ≠ the five first-dhyāna factors. One object ≠ the full account
 of collectedness. Universal occurrence ≠ equal strength. Do not merge `apare`
 into the distinct-factor reply. Afflicted naming does not cancel `śubha` in the
 definition. `Sarvaguṇāśraya` is why this chapter starts here — not that every
@@ -94,9 +96,9 @@ property of everything is born from concentration.
 
 - `dvidhā` = birth / attainment;
 - `samāpattiḥ` = attainment-dhyāna;
-- `sānugam` = with retinue, five-aggregate.
+- `sānugam` = with retinue, five-Base.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -109,7 +111,7 @@ work of collectedness. Do not import Marga Hell yet.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.01.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.01_bhasya.md` (Pradhan 432|02–433|14).
-Opening line and momentariness stretch compressed. `kosabhasya.txt` collation
-pending. Provisional.
+Organon pair `VAK_8.01.md` / `VAK_8.01_bhasya.md`, against Pradhan
+432|02–433|14. Kārikā translations and anchor standardized; terminology
+upgraded to the current Method. Opening line and momentariness stretch
+compressed. `kosabhasya.txt` collation pending. Provisional.

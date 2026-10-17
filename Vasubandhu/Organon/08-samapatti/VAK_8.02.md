@@ -20,27 +20,16 @@ VAK 8.01's wholesome one-pointedness and distributes
 associated factors rather than defining four unrelated
 kinds of cognition.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-vicāra-prīti-sukha-vat | pūrva-pūrva-aṅga-varjitam |
-tathā | ārūpyāḥ | catuḥ-skandhāḥ | adho-bhūmi-viveka-jāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `vicāraprītisukhavat` | nominative singular neuter possessive adjective | possessing vicāra, joy, and ease |
-| `pūrvapūrvāṅgavarjitam` | nominative singular neuter compound adjective | successively deprived of the preceding factors |
-| `tathā` | adverb | likewise, in the respects specified by prose |
-| `ārūpyāḥ` | nominative plural masculine | the formless attainments or states |
-| `catuḥskandhāḥ` | nominative plural masculine compound adjective | constituted by four aggregates |
-| `adhobhūmivivekajāḥ` | nominative plural masculine compound adjective | arising through separation from a lower ground |
-
-`Tathā + ārūpyāḥ` yields `tathārūpyāḥ`;
-`pūrva + aṅga` yields `pūrvāṅga`. The repeated `pūrva`
-has distributive force across the sequence. The plural
-predicates of the second half apply to the formless
-states, not to the four dhyānas as five-aggregate attainments.
+| `vicāra-prīti-sukha-vat` | nominative singular neuter possessive adjective | possessing vicāra, joy, and ease |
+| `pūrva-pūrva-aṅga-varjitam` | nominative singular neuter compound adjective (`pūrva + aṅga` → `pūrvāṅga`) | successively deprived of the preceding factors; repeated `pūrva` is distributive |
+| `tathā` | adverb (`tathā + ārūpyāḥ` → `tathārūpyāḥ`) | likewise, in the respects specified by prose |
+| `ārūpyāḥ` | nominative plural masculine | the formless attainments or states; the plural predicates apply to these, not to the four dhyānas |
+| `catuḥ-skandhāḥ` | nominative plural masculine compound adjective | constituted by four Bases |
+| `adho-bhūmi-viveka-jāḥ` | nominative plural masculine compound adjective | arising through separation from a lower ground |
 
 ## 4. Grammar
 
@@ -69,19 +58,19 @@ they too are four, are considered as birth and attainment,
 have their births already explained, and as attainments
 have wholesome one-pointedness as their general nature.
 The analogy does not transfer the dhyānas' complete
-aggregate constitution to them.
+Base constitution to them.
 
-**Four aggregates with accompaniment.** The prose carries
+**Four Bases with accompaniment.** The prose carries
 forward `saparivāra`, with accompaniment. The fourfold
 constitution is explained by absence of accompanying
 rūpa. It does not say that one-pointedness is itself
-four distinct aggregates.
+four distinct Bases.
 
 **Close construe.** The first dhyāna possesses vicāra,
 joy, and ease; the remaining dhyānas successively lack
 the preceding factors. Likewise [in the specified respects]
 are the formless states: with accompaniment they consist
-of four aggregates and arise through separation from
+of four Bases and arise through separation from
 the lower ground.
 
 ## 5. Translation
@@ -90,38 +79,24 @@ the lower ground.
 
 > The first possesses vicāra, joy, and ease; the remaining
 > dhyānas are successively deprived of preceding factors.
-> Likewise are the formless attainments: four-aggregate
+> Likewise are the formless attainments: four-Base
 > in constitution and arising through separation from
 > the lower ground.
 
 ### Bhāṣya-informed study translation
 
-> The first dhyāna is wholesome one-pointedness associated
-> with vicāra, joy, and ease; vitarka is included in
-> this configuration. The second retains joy and ease
-> without vicāra; the third lacks vicāra and joy; the
-> fourth lacks vicāra, joy, and ease. Wholesome one-pointedness
-> remains understood throughout.
->
-> The four formless states likewise have birth and
-> attainment aspects. As attainments, their general
-> nature is wholesome one-pointedness. With accompaniment,
-> they comprise four aggregates because accompanying
-> material form is absent. Each arises through release
-> from the immediately lower ground, by the path of
-> proceeding to dispassion.
-
-Source: Pradhan 433|15–434|10, local Bhāṣya checked
-against the running source. The extended controversy
-about form in the formless states occurs after the
-opening of VAK 8.03 and is reserved for that study.
+> The first dhyāna possesses vicāra, joy, and ease, with vitarka
+> understood along with vicāra; the remaining dhyānas are
+> successively deprived of the preceding factors. Likewise the
+> formless attainments, with accompaniment, have four Bases, and
+> each arises through separation from the lower ground.
 
 ## 6. Philosophical Translation
 
 > A common defining determination persists while the
 > associated factors distinguish successive attainments.
 > The formless series shares that general determination
-> but differs in accompanied aggregate constitution.
+> but differs in accompanied Base constitution.
 > Its order is explained through release from a lower
 > ground, not merely through assigning new names to states.
 
@@ -161,7 +136,7 @@ asserted immaterial self.
 
 **`Anuparivartirūpābhāva`.** Absence of accompanying
 material form. This is the immediate explanation for
-four aggregates. It must not be expanded into a claim
+four Bases. It must not be expanded into a claim
 that a human practitioner has physically lost the body
 while entering an attainment.
 
@@ -211,12 +186,12 @@ practice procedure for entering these states.
 ```text
 Dhyana attainment:
     general defining nature: Wholesome one-pointedness
-    with accompaniment: Five aggregates
+    with accompaniment: Five Bases
 
 Formless attainment:
     general defining nature: Wholesome one-pointedness
-    with accompaniment: Four aggregates
-    omitted accompanying aggregate: Rupa
+    with accompaniment: Four Bases
+    omitted accompanying Base: Rupa
 ```
 
 The four are feeling, perception, formations, and
@@ -238,7 +213,7 @@ subtle form in the formless domain. The running source
 has already opened VAK 8.03 with the naming of the
 formless states and their access stages at 434|11.
 That later argument is not silently treated as entirely
-belonging to 8.02. Here the four-aggregate claim is
+belonging to 8.02. Here the four-Base claim is
 established with its immediate reason; its ensuing
 challenge and defense remain the next study's work.
 
@@ -259,7 +234,7 @@ No underlying witness has been changed.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā articulates the common determination and
-the distinctions among associated factors and aggregate
+the distinctions among associated factors and Base
 constitution. Yoga Technē, its kriyā–karma companion,
 concerns the path of release through which the succeeding
 attainment arises. The passage keeps both structural
@@ -282,7 +257,7 @@ from the lower ground through dispassion.
 **Review status.** Provisional, Bhāṣya-controlled study.
 The inherited wholesome one-pointedness, first-dhyāna
 vitarka inclusion, selected factor progression, specified
-analogy with formless states, four aggregates, fourfold
+analogy with formless states, four Bases, fourfold
 sequence, and local definition of viveka have been
 checked against the local extract and running source.
 The extended form-absence debate remains for VAK 8.03.
@@ -314,8 +289,8 @@ FourthDhyana:
 
 FormlessAttainments:
     aspects: Birth, Attainment
-    accompaniedConstitution: FourAggregates
-    absentAccompanyingAggregate: Rupa
+    accompaniedConstitution: FourBases
+    absentAccompanyingBase: Rupa
 
 InfiniteSpace:
     releasedGround: FourthDhyana
@@ -331,7 +306,7 @@ VivekaHere:
 
 ProjectConstraint: Selected factors are not complete dhyana factor inventories.
 ProjectConstraint: First-dhyana concomitance does not prove its converse universally.
-ProjectConstraint: Four aggregates concern accompanied attainment constitution.
+ProjectConstraint: Four Bases concern accompanied attainment constitution.
 ProjectConstraint: Tatha preserves specified analogies, not complete identity.
 ProjectConstraint: Extended form-absence debate continues in VAK 8.03.
 ```

@@ -20,14 +20,9 @@ the study joins the expression. The second half
 begins a construction continued in VAK 8.19, whose
 opening the Bhāṣya quotes before explaining the preparation.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dve | trīṇi | trīṇi | ca | ekam | ca | hānabhāga-ādi-anantaram |
-gatvā | āgamya | dvidhā | bhūmīḥ | aṣṭau | śliṣṭa-eka-laṅghitāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dve` | nominative neuter numeral | two [pure types] |
 | `trīṇi` | nominative neuter numeral | three [pure types] |
@@ -95,32 +90,12 @@ contiguously and then skipping one intervening level,
 > in two modes, contiguously and with one [level]
 > skipped …
 
-The ellipsis marks the verse-boundary continuation;
-it does not indicate missing witness text.
-
 ### Bhāṣya-informed study translation
 
-> Among the four pure types, the decline-conducive
-> is immediately followed by either itself or the
-> stability-conducive. The stability-conducive permits
-> three, excluding the penetration-conducive. The distinction-conducive
-> permits three, excluding the decline-conducive. After
-> the penetration-conducive, only that same pure type follows.
->
-> For the preparation in skipping attainments, one
-> first masters forward and reverse entry through
-> eight contaminated levels and seven uncontaminated
-> levels in sequence. Thereafter one practices skipping
-> one intervening level, forward and in reverse,
-> in the contaminated series and likewise in the
-> uncontaminated series. This is the preparation;
-> the perfected form is determined next.
-
-Source: Pradhan 445|11–446|06, checked against the local
-Bhāṣya study and running source. The source quotes
-the opening of VAK 8.19 within this span. The
-present study stops at the explicit conclusion identifying
-this procedure as preparation.
+> Immediately after the decline-conducive and the other pure types,
+> two, three, three, and one [types] respectively arise. Having gone
+> forward and returned, in two ways, through the levels, eight in
+> all, contiguously and with one skipped each time …
 
 ## 6. Philosophical Translation
 
@@ -137,6 +112,15 @@ the first concerns pure subtypes, the second the
 ordered dhyāna and formless levels under two modes.
 
 ## 7. Technical Vocabulary
+
+**Source.** Pradhan 445|11–446|06, checked against the local Bhāṣya
+study and running source. The ellipsis closing the translations marks the
+verse-boundary continuation into VAK 8.19, not missing witness text; the
+source quotes the opening of VAK 8.19 within this span. The numerals
+two, three, three, one are the Bhāṣya's neighbor-sets among the four
+pure types, and the eight levels are the contaminated series (the
+uncontaminated series has seven). The study stops at the commentary's
+conclusion identifying this procedure as preparation.
 
 **`Hānabhāgīya / sthitibhāgīya / viśeṣabhāgīya /
 nirvedhabhāgīya`.** The four pure types defined in

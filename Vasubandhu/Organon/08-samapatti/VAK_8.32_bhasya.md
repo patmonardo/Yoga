@@ -5,11 +5,9 @@
 > aṣṭau vimokṣāḥ prathamāv aśubhā dhyānayor dvayoḥ |
 > tṛtīyo 'ntye sa cālobhaḥ śubhārūpyāḥ samāhitāḥ || 8.32 ||
 
-> There are eight releases. The first two are unattractive contemplation in the
-> two dhyānas. The third is in the last, and it is non-greed. The wholesome
-> formless [releases] are collected.
-
-Eighth (cessation): 8.33. These eight ≠ the three vimokṣamukha of 8.25.
+> There are eight releases. The first two, in the first two dhyānas, are
+> unattractive contemplation. The third, in the last dhyāna, is non-greed.
+> The formless releases are wholesome and collected.
 
 Kārikā study: [`VAK_8.32.md`](./VAK_8.32.md).
 
@@ -39,7 +37,7 @@ formula flagged: running text does not securely negate internal form-perception.
 > aspects — in first and second dhyāna only. They counter, in order, attachment to
 > appearance of the desire domain and of first dhyāna. The third is in fourth
 > dhyāna. Non-greed as nature, *not* unattractive — its aspect is beautiful. With
-> accompaniment: five aggregates.
+> accompaniment: five Bases.
 >
 > Formless releases: wholesome and collected only — not defiled, not uncollected
 > (e.g. at death). Others say uncollected occur at other times too. Access
@@ -73,7 +71,7 @@ kuśala. This inventory ≠ 8.25's gates.
 - `śubhārūpyāḥ` = wholesome formless;
 - `vimokṣa` glossed vaimukhya.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -85,6 +83,7 @@ the sitting was raised to Pure Reason. The verse does not answer him. It names e
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.32.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.32_bhasya.md` (Pradhan 454|24–455|19).
-Second formula pending witness work. `kosabhasya.txt` collation pending. Provisional.
+Kārikā translations and anchor standardized; terminology upgraded to the
+current Method. Organon pair `VAK_8.32.md` / this Bhāṣya (Pradhan
+454|24–455|19). Second formula pending witness work. `kosabhasya.txt`
+collation pending. Provisional.

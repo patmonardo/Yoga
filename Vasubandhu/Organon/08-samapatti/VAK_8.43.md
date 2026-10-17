@@ -19,14 +19,9 @@ No separate prose gloss follows it. The source
 next supplies the colophon closing the eighth
 Kośasthāna, the exposition of attainments.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-iti | kaṇṭha-gata-prāṇam | viditvā | śāsanam | muneḥ |
-bala-kālam | malānām | ca | na | pramādyam | mumukṣubhiḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `iti` | indeclinable | thus, taking up the preceding account |
 | `kaṇṭhagataprāṇam` | accusative singular neuter possessive compound | with life-breath gone to the throat |
@@ -44,7 +39,9 @@ Kaṇṭha-gata-prāṇa describes the teaching through a
 bodily image. Mumukṣu is a desiderative formation
 related to √muc, “release”: its sense is
 one who wishes to be liberated, not
-one whose liberation is already asserted.
+one whose liberation is already asserted. Source: Pradhan
+460|12–14; the verse occupies the first two numbered lines, the final line
+is the chapter colophon, and there is no separate prose gloss.
 
 ## 4. Grammar
 
@@ -100,19 +97,9 @@ liberation must not be negligent.
 
 ### Bhāṣya-informed study translation
 
-> Recognizing that the Sage's teaching is near
-> death and that the defilements are in
-> their season of strength, those who seek
-> liberation must not become heedless.
-
-Source: Pradhan 460|12–460|14, checked against the local
-kārikā, research Bhāṣya file, and running source.
-The verse occupies the first two numbered lines
-of this span; the final line is
-the chapter colophon. There is no separate
-transmitted prose gloss. The required subsection title
-is retained as part of the study format,
-without implying an additional commentary translation.
+> Having thus known the Sage's teaching to be near death, with its
+> life-breath at the throat, and this to be a time of strength for the
+> defilements, those who wish for liberation must not be negligent.
 
 ## 6. Philosophical Translation
 
@@ -175,7 +162,7 @@ new knowledge-attainment added to the preceding chapters.
 
 **The exhortation's structure.**
 
-| Element | Determination |
+| Feature | Determination |
 |---|---|
 | First recognized condition | The Sage's teaching is near death |
 | Second recognized condition | Defilements are in their time of strength |

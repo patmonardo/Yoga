@@ -5,12 +5,12 @@
 > nirodhas tu samāpattiḥ sūkṣmasūkṣmād anantaram |
 > svaśuddhakādharāryeṇa vyutthānaṃ cetasā tataḥ || 8.33 ||
 
-> Cessation, however, is an attainment, immediately after the most subtle of the
-> subtle. From it emergence occurs through an own-level pure or lower-level noble
-> mind.
+> Cessation, however, is an attainment entered immediately after the
+> subtlest of the subtle [perception]. From it, emergence occurs through a
+> pure mind of its own [summit] level or through a noble mind of a lower level.
 
 Verse: `adharārya`. Running prose of the second alternative: `sāsraveṇa`. Both
-kept. Objects of the releases: 8.34.
+kept.
 
 Kārikā study: [`VAK_8.33.md`](./VAK_8.33.md).
 
@@ -62,7 +62,7 @@ attainment. Deferred: sublation = nirodha — not applied here.
 - `sūkṣmasūkṣma` is an operation, not a nickname;
 - mode of exit B left dual-witness.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -74,6 +74,7 @@ it. He asks whether Pure Reason was raised. The verse names a samāpatti.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.33.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.33_bhasya.md` (Pradhan 455|20–456|09).
-Mode-conflict unresolved. `kosabhasya.txt` collation pending. Provisional.
+Kārikā translations and anchor standardized; terminology upgraded to the
+current Method. Organon pair `VAK_8.33.md` / this Bhāṣya (Pradhan
+455|20–456|09). Mode-conflict unresolved. `kosabhasya.txt` collation
+pending. Provisional.

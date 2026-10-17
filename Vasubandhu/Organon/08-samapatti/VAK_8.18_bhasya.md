@@ -5,9 +5,10 @@
 > dve trīṇi trīṇi caikaṃ ca hānabhāgādyanantaram |
 > gatvāgamya dvidhā bhūmīr aṣṭau śliṣṭaikalaṅghitāḥ || 8.18 ||
 
-> Immediately after the decline-conducive and subsequent [types]: two, three,
-> three, and one. Having gone and returned through the eight grounds in two
-> modes, contiguously and with one skipped …
+> Immediately after the decline-conducive and the other pure types,
+> two, three, three, and one [types] respectively arise. Having gone
+> forward and returned, in two ways, through the levels, eight in
+> all, contiguously and with one skipped each time …
 
 Perfected skip-attainment: 8.19. Second half continues there.
 
@@ -72,7 +73,7 @@ kliṣṭa. Skip is not ignorance of the middle.
 - `dvidhā` = two *modes*, not two directions (directions already gatvā/āgamya);
 - this unit ends at prayoga.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -83,6 +84,6 @@ step it does not take.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.18.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.18_bhasya.md` (Pradhan 445|11–446|06).
-`kosabhasya.txt` collation pending. Provisional.
+Pair with Organon `VAK_8.18.md` (Pradhan 445|11–446|06), upgraded to the
+current Method: kārikā translations and anchor standardized; terminology
+upgraded. `kosabhasya.txt` collation pending. Provisional.

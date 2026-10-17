@@ -21,14 +21,9 @@ clause reads `atarka dhyānamantaram`; the local
 study supplies atarkaṃ. The explicit prose identification
 supports the meaning “without vitarka.”
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-aṣṭau | sāmantakāni | eṣām | śuddha-aduḥkha-asukhāni | hi |
-āryam | ca | ādyam | tridhā | kecit | atarkam | dhyānam | antaram
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aṣṭau` | numeral | eight |
 | `sāmantakāni` | nominative plural neuter | access or neighboring attainments |
@@ -98,27 +93,10 @@ is dhyāna without vitarka.
 
 ### Bhāṣya-informed study translation
 
-> Each of the eight principal attainments has an
-> access attainment through which it is entered.
-> These are pure and associated with the faculty
-> of neutral feeling. In the principal account,
-> collected access attainment is not associated with savoring.
->
-> The first access attainment, anāgamya, can be pure
-> or uncontaminated. Defiled rebirth-linking through an
-> access-level mind does not establish a defiled
-> collected attainment. Some authorities nevertheless admit
-> a savoring-associated anāgamya as well, making it threefold.
->
-> Access attainment and intermediate dhyāna are distinct:
-> access is a path of dispassion, while intermediate
-> dhyāna is a particular dhyāna without vitarka.
-
-Source: Pradhan 447|18–448|11, checked against the local
-Bhāṣya study and running source. The modes, feeling,
-and result of intermediate dhyāna are continued in
-VAK 8.23 rather than incorporated into this verse's
-first-access disagreement.
+> For these eight principal attainments there are eight access
+> attainments, one for each; they are pure and neither painful nor
+> pleasant. The first access attainment is also noble. Some say it is
+> threefold. The intermediate dhyāna is a dhyāna without vitarka.
 
 ## 6. Philosophical Translation
 
@@ -134,6 +112,15 @@ therefore does not establish a single undifferentiated
 kind of meditative state.
 
 ## 7. Technical Vocabulary
+
+**Source.** Pradhan 447|18–448|11, checked against the local Bhāṣya
+study and running source. The Bhāṣya resolves “neither painful nor
+pleasant” as association with the faculty of neutral feeling; in the
+principal account, access is not savoring-associated, being a path of
+dispassion. The first access, anāgamya, is both pure and uncontaminated
+(“noble”); “threefold” adds a savoring-associated mode on some
+authorities' view. The modes, feeling, and result of intermediate dhyāna
+continue in VAK 8.23.
 
 **`Sāmantaka`.** Access or neighboring attainment, one
 for each principal attainment. Its dispassion-path

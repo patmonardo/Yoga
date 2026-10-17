@@ -19,30 +19,20 @@ Devanāgarī renders the same reading. The prose expands
 `tarkacārau` as vitarka and vicāra, without requiring
 those expanded words to be substituted into the verse.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-pañca | ādye | tarka-cārau | ca | prīti-saukhya-samādhayaḥ |
-prīti-ādayaḥ | prasādaḥ | ca | dvitīye | aṅga-catuṣṭayam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `pañca` | numeral | five [factors] |
+| `pañca` | numeral (`pañca + ādye` → `pañcādye`) | five [factors] |
 | `ādye` | locative singular neuter adjective | in the first [dhyāna] |
-| `tarkacārau` | nominative dual coordinated compound | vitarka and vicāra |
+| `tarka-cārau` | nominative dual coordinated compound | vitarka and vicāra |
 | `ca` | conjunction | and |
-| `prītisaukhyasamādhayaḥ` | nominative plural coordinated compound | joy, ease, and concentration |
-| `prītyādayaḥ` | nominative plural compound | those beginning with joy, the preceding three |
+| `prīti-saukhya-samādhayaḥ` | nominative plural coordinated compound | joy, ease, and concentration |
+| `prīti-ādayaḥ` | nominative plural compound (`prītyādayaḥ`) | those beginning with joy, the preceding three |
 | `prasādaḥ` | nominative singular masculine | clarity, expanded as inward serenity |
-| `dvitīye` | locative singular neuter ordinal | in the second [dhyāna] |
-| `aṅgacatuṣṭayam` | nominative singular neuter collective compound | a set of four factors |
-
-`Pañca + ādye` yields `pañcādye`;
-`prīti + ādayaḥ` yields `prītyādayaḥ`;
-`dvitīye + aṅgacatuṣṭayam` yields `dvitīye 'ṅgacatuṣṭayam`.
-The dual pair and plural triad together give the first
-fivefold count.
+| `ca` | conjunction | and |
+| `dvitīye` | locative singular neuter ordinal (`dvitīye 'ṅga-`) | in the second [dhyāna] |
+| `aṅga-catuṣṭayam` | nominative singular neuter collective compound | a set of four factors; the dual pair and plural triad together give the first fivefold count |
 
 ## 4. Grammar
 
@@ -50,7 +40,7 @@ fivefold count.
 explicit in the prose. `Ādye` fixes the first dhyāna
 as the locus. The following words enumerate two plus
 three: vitarka and vicāra, then joy, ease, and samādhi.
-They are not five aggregates or five separate attainments.
+They are not five Bases or five separate attainments.
 
 **An abbreviated reference to the retained three.**
 `Prītyādayaḥ` refers to the immediately preceding triad
@@ -84,19 +74,9 @@ clarity, forming a set of four factors.
 
 ### Bhāṣya-informed study translation
 
-> The first dhyāna has five factors: vitarka, vicāra,
-> joy, ease, and one-pointedness of mind. Samādhi is
-> said to be both a factor and dhyāna itself; the
-> remaining items are its other factors. Just as an
-> army is called four-limbed, this dhyāna is five-limbed.
->
-> The second dhyāna has four factors: inward clarity,
-> joy, ease, and one-pointedness of mind.
-
-Source: Pradhan 437|13–438|03, local Bhāṣya checked
-against the running source. “Inward clarity” renders
-`adhyātmasaṃprasāda` provisionally without anticipating
-its fuller technical identification later in the chapter.
+> In the first dhyāna are five factors: vitarka and vicāra, joy,
+> ease, and concentration. In the second, the three beginning
+> with joy, together with clarity, form the set of four factors.
 
 ## 6. Philosophical Translation
 
@@ -117,7 +97,7 @@ The present question is what is counted as an aṅga.
 **`Aṅga`.** Factor or limb of the attainment. These
 are the selected dhyāna factors, not an exhaustive
 list of every associated mental dharma and not a list
-of the aggregates.
+of the Bases.
 
 **`Vitarka / vicāra`.** Initial application and sustained
 examination, retained as technical terms in the translation.
@@ -297,7 +277,7 @@ Prasada:
     proseExpansion: AdhyatmaSamprasada
     detailedIdentification: ReservedForLaterFactorAnalysis
 
-ProjectConstraint: Counted factors are not aggregates.
+ProjectConstraint: Counted factors are not Bases.
 ProjectConstraint: Named factor inventory is not every associated dharma.
 ProjectConstraint: Non-selection as a factor does not alone prove total absence.
 ProjectConstraint: Preserve defining nature and accompanied constitution.

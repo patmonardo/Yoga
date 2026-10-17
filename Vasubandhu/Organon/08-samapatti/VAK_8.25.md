@@ -19,14 +19,9 @@ second half introduces names whose precise objects
 and aspects are determined in VAK 8.26. Its brief
 naming explanation must be read with that continuation.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-śuddha-amalāḥ | nirmalāḥ | tu | te | vimokṣa-mukha-trayam |
-śūnyatā-śūnyatā-ādi-ākhyāḥ | trayaḥ | apara-samādhayaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `śuddhāmalāḥ` | nominative plural compound | pure and stainless, as alternative modes |
 | `nirmalāḥ` | nominative plural masculine adjective | stainless, here uncontaminated |
@@ -77,33 +72,15 @@ the one named emptiness-of-emptiness.
 
 ### Literal Translation
 
-> They are pure or stainless; the stainless ones,
-> however, are the three gates of liberation.
-> There are three further samādhis named emptiness-of-emptiness
-> and so forth.
+> [The three samādhis] are pure or stainless; those that are stainless,
+> however, are the triad of gates of liberation. There are three further
+> samādhis named emptiness-of-emptiness and so forth.
 
 ### Bhāṣya-informed study translation
 
-> Emptiness, non-directed, and signless samādhis each
-> have worldly-pure and supramundane uncontaminated forms.
-> The worldly forms occur on eleven levels; the
-> supramundane forms occur where the path is found.
->
-> Their uncontaminated forms are called the three
-> gates of liberation because they are doors to
-> liberation: emptiness, non-directedness, and signlessness.
->
-> Three further samādhis are also named: emptiness-of-emptiness,
-> non-directedness-of-non-directedness, and signlessness-of-signlessness.
-> Their names derive from their object relation
-> to emptiness samādhi and the corresponding cases;
-> the next verse specifies those relations precisely.
-
-Source: Pradhan 450|01–450|11, checked against the
-local Bhāṣya study and running source. The opening
-sentence concluding the previous rationale remains part
-of VAK 8.24's argument; the present study begins
-with the twofold classification.
+> The three samādhis are of two kinds, worldly-pure and uncontaminated;
+> but the uncontaminated ones are called the three gates of liberation.
+> There are three further samādhis, named emptiness-of-emptiness and so forth.
 
 ## 6. Philosophical Translation
 

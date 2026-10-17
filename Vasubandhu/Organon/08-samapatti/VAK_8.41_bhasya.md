@@ -5,9 +5,9 @@
 > nimīlite śāstari lokacakṣuṣi kṣayaṃ gate sākṣijane ca bhūyasā |
 > adṛṣṭatattvair niravagrahaiḥ kṛtaṃ kutārkikaiḥ śāsanam etad ākulam || 8.41 ||
 
-> With the Teacher, the Eye of the World, closed, and the body of witnesses
-> largely passed away, this teaching has been made confused by unrestrained bad
-> reasoners who have not seen reality.
+> With the Teacher, the Eye of the World, closed, and the body of
+> witnesses largely passed away, this teaching has been made confused
+> by unrestrained bad reasoners who have not seen reality.
 
 No separate prose gloss in the running witness. Lament continues: 8.42.
 
@@ -53,7 +53,7 @@ This file has no extra Bhāṣya to invent.
 - three adjectives, one group;
 - `ku-` kept on the reasoners.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -65,6 +65,7 @@ is a lament when the Eye is shut and most witnesses are gone.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.41.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.41_bhasya.md` (Pradhan 460|04–07). No separate
-prose. `kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.41.md` / `VAK_8.41_bhasya.md`, upgraded to the current
+Method: kārikā translations and anchor standardized; terminology upgraded
+(Pradhan 460|04–07 witness reference). No separate prose. `kosabhasya.txt`
+collation pending. Provisional.

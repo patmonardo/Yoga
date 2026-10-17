@@ -5,8 +5,9 @@
 > pañcādye tarkacārau ca prītisaukhyasamādhayaḥ |
 > prītyādayaḥ prasādaś ca dvitīye 'ṅgacatuṣṭayam || 8.07 ||
 
-> In the first are five: vitarka and vicāra, joy, ease, and concentration. In
-> the second, the three beginning with joy and clarity form the set of four.
+> In the first dhyāna are five factors: vitarka and vicāra, joy,
+> ease, and concentration. In the second, the three beginning
+> with joy, together with clarity, form the set of four factors.
 
 Third and fourth dhyāna factors: 8.08.
 
@@ -65,7 +66,7 @@ absent there. Prīti ≠ sukha. Lists ≠ a practice recipe.
 - `prītyādayaḥ` = the triad already named;
 - `prasāda` = adhyātmasaṃprasāda.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -76,6 +77,7 @@ Technē of ascent is not mere deletion: a positive limb is selected.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.07.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.07_bhasya.md` (Pradhan 437|13–438|03).
-`kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.07.md` / `VAK_8.07_bhasya.md`, against Pradhan
+437|13–438|03. Kārikā translations and anchor standardized; terminology
+upgraded to the current Method. `kosabhasya.txt` collation pending.
+Provisional.

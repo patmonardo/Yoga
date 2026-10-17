@@ -5,9 +5,10 @@
 > dravyato daśa caikaṃ ca prasrabdhiḥ sukham ādyayoḥ |
 > śraddhā prasādaḥ prītis tu saumanasyaṃ dvidhāgamāt || 8.09 ||
 
-> By substance, ten and one. In the first two, pleasure is pliancy. Clarity is
-> confidence; rapture, however, is pleasant-mindedness, from scripture in two
-> forms.
+> The eighteen factors counted by name are, by substance, ten and
+> one, that is, eleven distinct dharmas. In the first two dhyānas
+> the pleasure is pliancy; inward clarity is confidence; rapture,
+> however, is mental joy, as scripture states it in two ways.
 
 Which factors fail in defiled dhyāna: 8.10.
 
@@ -73,7 +74,7 @@ account to the principal list.
 - `ādyayoḥ` limits pliancy-sukha;
 - `dvidhāgamāt` = two āgama passages, not two occurrences of prīti.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -85,7 +86,7 @@ item. The debate is not closed by us.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.09.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.09_bhasya.md` (Pradhan 438|12–440|22).
-Middle stretch compressed; `vicāryam` kept. `kosabhasya.txt` collation pending.
-Provisional.
+Organon pair `VAK_8.09.md` / `VAK_8.09_bhasya.md`, against Pradhan
+438|12–440|22. Kārikā translations and anchor standardized; terminology
+upgraded to the current Method. Middle stretch compressed; `vicāryam` kept.
+`kosabhasya.txt` collation pending. Provisional.

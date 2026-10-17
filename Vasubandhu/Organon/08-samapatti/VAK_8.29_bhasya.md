@@ -5,10 +5,9 @@
 > apramāṇāni catvāri vyāpādādivipakṣataḥ |
 > maitry adveṣo 'pi karuṇā muditā sumanaskatā || 8.29 ||
 
-> There are four immeasurables because they oppose ill will and the others.
-> Friendliness is non-hatred, compassion also; sympathetic joy is gladness.
-
-Equanimity's nature and the forms of contemplation: 8.30.
+> There are four immeasurables, because they oppose ill will and the rest:
+> friendliness, compassion, sympathetic joy, and equanimity. Friendliness
+> is non-hatred, and compassion is so too; sympathetic joy is gladness.
 
 Kārikā study: [`VAK_8.29.md`](./VAK_8.29.md).
 
@@ -67,7 +66,7 @@ liberation. Equanimity's nature waits.
 - `sumanaskatā` binds muditā only;
 - two impurity/equanimity accounts kept distinct.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -80,6 +79,6 @@ beings in kāmadhātu.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.29.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.29_bhasya.md` (Pradhan 452|04–17).
-`kosabhasya.txt` collation pending. Provisional.
+Kārikā translations and anchor standardized; terminology upgraded to the
+current Method. Organon pair `VAK_8.29.md` / this Bhāṣya (Pradhan
+452|04–17). `kosabhasya.txt` collation pending. Provisional.

@@ -5,9 +5,11 @@
 > kāśmīravaibhāṣikanītisiddhaḥ prāyo mayāyaṃ kathito 'bhidharmaḥ |
 > yad durgṛhītaṃ tad ihāsmadāgaḥ saddharmanītau munayaḥ pramāṇam || 8.40 ||
 
-> This Abhidharma, established chiefly according to the method of the Kāśmīra
-> Vaibhāṣikas, has been expounded by me. Whatever has been badly grasped here is
-> our fault; in the interpretation of the true Dharma, the sages are the authority.
+> This Abhidharma has been expounded by me, established for the most
+> part according to the method of the Kāśmīra Vaibhāṣikas. Whatever has
+> been badly grasped here is our fault; in the guidance of the true
+> Dharma, the sages, the Buddhas themselves and the Buddha-sons,
+> are the authority.
 
 Local verse: `munayaḥ`. Running verse prints `manayaḥ`. Prose names Buddhas and
 Buddha-sons. Official kārikā points next to a lament-coda (8.41).
@@ -57,7 +59,7 @@ method named → error owned → measure placed above school and book
 - `āgaḥ` = aparādha;
 - `munayaḥ` specified as Buddhas and Buddha-sons.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -70,7 +72,7 @@ Buddhas. After Chapter 8: Marga hell, as planned.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.40.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.40_bhasya.md` (Pradhan 459|15–460|03).
-`kosabhasya.txt` collation pending. Chapter 8 bhāṣya QA through 8.40 complete.
-Provisional. Coda 8.41 if taken next.
+Organon pair `VAK_8.40.md` / `VAK_8.40_bhasya.md`, upgraded to the current
+Method: kārikā translations and anchor standardized; terminology upgraded
+(Pradhan 459|15–460|03 witness reference). `kosabhasya.txt` collation
+pending. Provisional.

@@ -19,14 +19,9 @@ final continuous expression must be resolved through
 the prose as sā āsravakṣayabhāvanā, not as a
 compound beginning with sāsrava, contaminated.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-darśanāya | akṣi-abhijñā | iṣṭā | dhī-bhedāya | prayoga-jāḥ |
-vajra-upamaḥ | antye | yaḥ | dhyāne | sā | āsrava-kṣaya-bhāvanā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `darśanāya` | dative singular neuter | for seeing, expanded as knowledge-and-seeing |
 | `akṣyabhijñā` | nominative singular feminine compound | superknowledge of the eye |
@@ -91,22 +86,10 @@ of the outflows.
 
 ### Bhāṣya-informed study translation
 
-> Divine-eye superknowledge is cultivation of samādhi
-> for knowledge-and-seeing. All qualities born of
-> deliberate application, belonging to the three domains
-> or uncontaminated, constitute cultivation for differentiation
-> of prajñā. The vajra-like samādhi in fourth
-> dhyāna is cultivation for destruction of the outflows.
->
-> The commentary reports that this teaching of
-> the Blessed One is related to his own case.
-> It then closes the present exposition of samādhis
-> and announces the qualities dependent upon samādhi.
-
-Source: Pradhan 451|14–452|04, checked against the local
-Bhāṣya study and running source. The reported
-self-reference and its compressed continuation are distinguished
-from a universal restriction below.
+> Cultivation of samādhi is intended in the divine-eye superknowledge, for
+> knowledge-and-seeing, and in the qualities born of application, for the
+> differentiation of understanding. The vajra-like samādhi in the last,
+> fourth dhyāna is the cultivation for destruction of the outflows.
 
 ## 6. Philosophical Translation
 

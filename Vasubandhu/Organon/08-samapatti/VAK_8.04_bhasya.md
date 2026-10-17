@@ -5,9 +5,11 @@
 > ākāśānantya-vijñānānantyākiṃcanya-saṃjñakāḥ |
 > tathāprayogān māndyāt tu naivasaṃjñānāsaṃjñakaḥ || 8.04 ||
 
-> The first three are designated infinity of space, infinity of consciousness,
-> and nothingness because of application in those ways. The fourth, however, is
-> designated neither-perception-nor-non-perception because of attenuation.
+> The first three are designated infinity of space, infinity of
+> consciousness, and nothingness, according to the way they are
+> applied; the fourth, however, is designated
+> neither-perception-nor-non-perception because perception in
+> it is attenuated.
 
 Eight fundamental attainments by savoring, purity, influx-free: 8.05.
 
@@ -52,7 +54,7 @@ evaluative preparation admitted; naming-reason is attenuation
 ## 5. Name ≠ Inventory
 
 `Vijñāna` here is consciousness, not Chapter-7 jñāna and not omniscience.
-“There is nothing” ≠ no dharmas (four aggregates still). Fourth ≠ nirodha-
+“There is nothing” ≠ no dharmas (four Bases still). Fourth ≠ nirodha-
 samāpatti. Preparation exists for the fourth too; it is not the naming ground.
 
 ## 6. Two Naming Grounds
@@ -68,7 +70,7 @@ samāpatti. Preparation exists for the fourth too; it is not the naming ground.
 - `tathāprayogāt` governs the three;
 - `māndyāt` = mildness of saṃjñā.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -80,6 +82,7 @@ close translation.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.04.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.04_bhasya.md` (Pradhan 436|01–11).
-`kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.04.md` / `VAK_8.04_bhasya.md`, against Pradhan
+436|01–11. Kārikā translations and anchor standardized; terminology
+upgraded to the current Method. `kosabhasya.txt` collation pending.
+Provisional.

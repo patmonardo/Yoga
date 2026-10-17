@@ -20,30 +20,20 @@ varies in vowel length in `ārupya` and `rupotpatti`;
 the local study's forms are retained with that difference
 explicit.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-vibhūta-rūpa-saṃjñā-ākhyāḥ | saha | sāmantakaiḥ | tribhiḥ |
-na | ārūpye | rūpa-sadbhāvaḥ | rūpa-utpattiḥ | tu | cittataḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `vibhūtarūpasaṃjñākhyāḥ` | nominative plural masculine compound adjective | designated as having form-perception passed away |
+| `vibhūta-rūpa-saṃjñā-ākhyāḥ` | nominative plural masculine compound adjective (`saṃjñā + ākhyāḥ` → `saṃjñākhyāḥ`) | designated as having form-perception passed away; the prose glosses `vibhūtā` with `vigatā`, gone away: disappearance, not manifestation |
 | `saha` | indeclinable governing instrumental | together with |
 | `sāmantakaiḥ` | instrumental plural neuter | neighboring or access attainments |
 | `tribhiḥ` | instrumental plural numeral | three |
+| `na` | negative particle (`na + ārūpye` → `nārūpye`) | negates presence of Form |
 | `ārūpye` | locative singular | in the formless domain |
-| `rūpasadbhāvaḥ` | nominative singular masculine compound | presence or existence of material form |
-| `rūpotpattiḥ` | nominative singular feminine compound | arising of material form |
+| `rūpa-sadbhāvaḥ` | nominative singular masculine compound | presence or existence of Form |
+| `rūpa-utpattiḥ` | nominative singular feminine compound (`rūpotpattiḥ`) | arising of Form |
 | `tu` | contrastive particle | however |
-| `cittataḥ` | ablatival adverb | from citta, mind |
-
-`Saṃjñā + ākhyāḥ` yields `saṃjñākhyāḥ`;
-`na + ārūpye` yields `nārūpye`; `rūpa + utpattiḥ`
-yields `rūpotpattiḥ`. The prose glosses `vibhūtā` with
-`vigatā`, gone away. The local sense is disappearance,
-not manifestation or magnificence.
+| `cittataḥ` | ablatival adverb | from citta, consciousness |
 
 ## 4. Grammar
 
@@ -68,8 +58,8 @@ hidden form throughout the interval.
 **The causal ablative.** `Cittataḥ` supplies the source
 of renewed form. The prose qualifies that citta through
 `tadvipākahetuparibhāvita`, conditioned by the cause
-whose maturation is the relevant form. Bare “mind creates
-matter” would omit the qualification decisive to the answer.
+whose maturation is the relevant form. Bare “consciousness creates
+Form” would omit the qualification decisive to the answer.
 
 **Close construe.** The formless attainments, together
 with three access attainments, receive the designation
@@ -83,29 +73,17 @@ is from causally conditioned citta.
 
 > They are designated as having form-perception passed
 > away, together with three access attainments. There
-> is no presence of form in the formless domain; the
-> arising of form, however, is from citta.
+> is no presence of Form in the formless domain; the
+> arising of Form, however, is from consciousness.
 
 ### Bhāṣya-informed study translation
 
-> The four formless attainments and the access stages
-> of the latter three receive the designation that
-> perception of form has disappeared. Access to infinite
-> space is excluded, since it still takes the fourth
-> dhyāna as object.
->
-> The formless domain contains no material form, even
-> as a subtle remainder. When form arises again after
-> departure from that existence, it arises from citta
-> conditioned by the karmic cause whose maturation is
-> that form, when the relevant causal functioning becomes
-> available.
-
-Source: Pradhan 434|10–435|26, local Bhāṣya checked
-against the complete running passage. The last expression
-renders the compressed `labdhavṛtti` provisionally; it
-is not a fully specified account of every condition
-of renewed embodiment.
+> The four formless attainments, together with the access
+> stages of the latter three, are designated as having
+> form-perception passed away. There is no presence of Form
+> in the formless domain; the arising of Form, however, is
+> from consciousness conditioned by the cause whose maturation
+> that Form is.
 
 ## 6. Philosophical Translation
 
@@ -135,8 +113,8 @@ confused.
 
 **`Rūpajāti`.** The class of material form. The reply
 insists that this entire class is transcended, whereas
-the classes of feeling and the other nonmaterial aggregates
-are not. This supports the four-aggregate constitution
+the classes of feeling and the other nonmaterial Bases
+are not. This supports the four-Base constitution
 stated in VAK 8.02.
 
 **`Bhūta / bhautika`.** Material elements and what is
@@ -192,10 +170,10 @@ criterion's scope rather than relying on the name alone.
 opponent invokes life with heat, the mutual support
 of name and form, name-and-form conditioned by consciousness,
 and the denial of consciousness proceeding apart from
-the other aggregates. Vasubandhu asks what each statement
+the other Bases. Vasubandhu asks what each statement
 quantifies over: which domains, whether all consciousness,
 and whether absence of all supports or of any single
-aggregate is intended.
+Base is intended.
 
 Unrestricted readings would wrongly extend life-dependence
 to external heat, mental dependence to all external form,
@@ -210,7 +188,7 @@ is challenged: dhyānas too leave lower grounds behind,
 while formless states specifically transcend the form
 class. Feeling and the other nonmaterial classes remain.
 
-The aggregate enumerations provide a final comparison:
+The Base enumerations provide a final comparison:
 dhyāna descriptions begin with material form and continue
 through consciousness; the formless description begins
 with feeling. The omission is used as evidence within
@@ -288,7 +266,7 @@ storage theory as Vasubandhu's doctrine.
 **Review status.** Provisional, Bhāṣya-controlled study.
 The seven included principal/access states, first-access
 exclusion, subtle-form challenge, scriptural-scope debate,
-aggregate argument, and qualified renewed-form account
+Base argument, and qualified renewed-form account
 have been checked against the local excerpt and complete
 running passage. Compressed causal wording and source
 defects remain explicit.

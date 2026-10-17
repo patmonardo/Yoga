@@ -5,9 +5,10 @@
 > tṛtīye pañca tūpekṣā smṛtiḥ prajñā sukhaṃ sthitiḥ |
 > catvāry ante 'sukhāduḥkhopekṣāsmṛtisamādhayaḥ || 8.08 ||
 
-> In the third are five: equanimity, mindfulness, discriminative knowing, ease,
-> and stability. In the last are four: neither pleasure nor pain, equanimity,
-> mindfulness, and concentration.
+> In the third dhyāna are five factors: equanimity, mindfulness,
+> clear comprehension, ease, and stability, that is, samādhi. In
+> the last are four: feeling that is neither pleasure nor pain,
+> purified equanimity, purified mindfulness, and samādhi.
 
 Count by distinct dharma: 8.09.
 
@@ -64,7 +65,7 @@ there. Ante = fourth dhyāna, not bhavāgra.
 - `sthiti` = samādhi;
 - fourth upekṣā/smṛti carry pariśuddhi.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -76,6 +77,7 @@ verse's answer.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.08.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.08_bhasya.md` (Pradhan 438|04–12).
-`kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.08.md` / `VAK_8.08_bhasya.md`, against Pradhan
+438|04–12. Kārikā translations and anchor standardized; terminology
+upgraded to the current Method. `kosabhasya.txt` collation pending.
+Provisional.

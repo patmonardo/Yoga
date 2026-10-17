@@ -5,11 +5,9 @@
 > ānimittaḥ śamākāraiḥ śūnyatānātmaśūnyataḥ |
 > pravartate 'praṇihitaḥ satyākārair ataḥ paraiḥ || 8.24 ||
 
-> Signless [samādhi proceeds] through the aspects of peace; emptiness through
-> non-self and emptiness. Non-directed through the other aspects of the truths.
-
-`Śamākāraiḥ` provisional (running `samākāraiḥ`); sense fixed as nirodha-aspects.
-Modes and vimokṣamukha: 8.25.
+> Signless samādhi proceeds through the four aspects of cessation;
+> emptiness samādhi through the two aspects, non-self and emptiness;
+> and non-directed samādhi through the remaining aspects of the truths.
 
 Kārikā study: [`VAK_8.24.md`](./VAK_8.24.md).
 
@@ -66,7 +64,7 @@ Do not call every instance already a gate of liberation — that is 8.25.
 - `ataḥ paraiḥ` = the remainder of sixteen;
 - name of ānimitta from the object.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -78,6 +76,7 @@ shine with no content. The text gives ten signs *and* four aspects.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.24.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.24_bhasya.md` (Pradhan 449|07–450|01).
-`kosabhasya.txt` collation pending. Provisional.
+Kārikā translations and anchor standardized; terminology upgraded to the
+current Method. Organon pair `VAK_8.24.md` / this Bhāṣya (Pradhan
+449|07–450|01). `kosabhasya.txt` collation pending. `Śamākāraiḥ` is
+provisional (running witness `samākāraiḥ`). Provisional.

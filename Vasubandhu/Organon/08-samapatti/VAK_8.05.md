@@ -20,32 +20,19 @@ Devanāgarī renders that reading. The running source has
 controls the three categories despite these vowel-length
 differences.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-iti | maulam | samāpatti-dravyam | aṣṭa-vidham | tridhā |
-sapta | āsvādana-vat-śuddha-anāsravāṇi | aṣṭamam | dvidhā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `iti` | summarizing particle | thus; gathering the preceding series |
 | `maulam` | nominative singular neuter adjective | fundamental or principal |
-| `samāpattidravyam` | nominative singular neuter compound | the substantive inventory of attainments |
-| `aṣṭavidham` | nominative singular neuter adjective | eightfold |
+| `samāpatti-dravyam` | nominative singular neuter compound | the substantive inventory of attainments |
+| `aṣṭa-vidham` | nominative singular neuter adjective | eightfold |
 | `tridhā` | adverb | threefold in the classification that follows |
 | `sapta` | numeral | seven [principal attainments] |
-| `āsvādanavat` | compound member with possessive suffix | accompanied by savoring |
-| `śuddha` | compound member | pure |
-| `anāsravāṇi` | neuter plural ending of the coordinated expression | uncontaminated; without influxes |
+| `āsvādana-vat-śuddha-anāsravāṇi` | neuter plural coordinated expression; `vat + śuddha` → `vacchuddha`, `śuddha + anāsrava` → `śuddhānāsrava` | three alternatives, expanded by the prose as `āsvādanāsaṃprayuktāni`, `śuddhakāni`, `anāsravāṇi`: associated with savoring, pure, uncontaminated |
 | `aṣṭamam` | nominative singular neuter ordinal | the eighth [attainment] |
 | `dvidhā` | adverb | twofold |
-
-The tightly joined expression enumerates three alternatives.
-The prose expands them as `āsvādanāsaṃprayuktāni`,
-`śuddhakāni`, and `anāsravāṇi`. `Vat + śuddha` accounts
-for the junction `vacchuddha`; `śuddha + anāsrava`
-yields `śuddhānāsrava` in the local reading.
 
 ## 4. Grammar
 
@@ -94,17 +81,10 @@ pure, and uncontaminated—while the eighth is twofold.
 ### Bhāṣya-informed study translation
 
 > The four dhyānas and four formless attainments constitute
-> the eight principal attainments. The first seven each
-> admit three modes: associated with savoring, pure,
-> and uncontaminated.
->
-> The eighth, the summit of existence—neither-perception-
-> nor-non-perception—admits only savoring-associated and
-> pure modes. It has no uncontaminated form.
-
-Source: Pradhan 436|12–437|02, local Bhāṣya checked
-against the running source. The definitions of the three
-modes begin with VAK 8.06 and are reserved for that study.
+> the fundamental attainment inventory, which is thus eightfold.
+> Seven of them are threefold: associated with savoring, pure,
+> and uncontaminated. The eighth, the summit of existence, is
+> twofold: savoring-associated and pure.
 
 ## 6. Philosophical Translation
 

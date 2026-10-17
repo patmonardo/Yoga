@@ -5,9 +5,10 @@
 > vyutkrāntakasamāpattir visabhāgatṛtīyagā |
 > svādhobhūmyāśrayā eva dhyānārūpyāḥ vṛthādharam || 8.19 ||
 
-> Skipping attainment goes to the third in a dissimilar mode. The dhyānas and
-> formless attainments have supports only at their own or lower levels. The
-> lower is without use.
+> Skipping attainment is accomplished by going to the third item in a
+> dissimilar mode. Dhyānas and formless attainments are made present
+> only on supports belonging to their own or a lower level; for one
+> reborn above, a lower attainment is without use.
 
 Exception to the support rule: 8.20.
 
@@ -69,7 +70,7 @@ Then reverse. Who: both qualifications, three continents.
 - `visabhāga` = sāsrava/anāsrava, not kliṣṭa/kuśala;
 - `vṛthā` scoped to ūrdhvopapanna.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -80,6 +81,6 @@ The hop is full: two determinations move at once.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.19.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.19_bhasya.md` (Pradhan 446|06–21).
-`kosabhasya.txt` collation pending. Provisional.
+Pair with Organon `VAK_8.19.md` (Pradhan 446|06–21), upgraded to the
+current Method: kārikā translations and anchor standardized; terminology
+upgraded. `kosabhasya.txt` collation pending. Provisional.

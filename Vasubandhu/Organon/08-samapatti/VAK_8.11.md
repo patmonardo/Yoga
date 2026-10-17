@@ -19,30 +19,20 @@ prose expands the compressed pairs and the fourfold
 feeling group. Its related form `āneñjya` is retained
 in discussion without replacing the verse's `āniñja`.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-aṣṭa-apakṣāla-muktatvāt | āniñjam | tu | caturthakam |
-vitarka-cārau | śvāsau | ca | sukha-ādi | ca | catuṣṭayam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `aṣṭa` | numeral within compound | eight |
-| `apakṣāla` | nominal compound member | disturbance or fault, contextually specified |
-| `muktatvāt` | ablative singular of abstract mukta-tva | because of being free |
+| `aṣṭa-apakṣāla-muktatvāt` | ablative singular of abstract `mukta-tva` with compound members `aṣṭa` (eight) and `apakṣāla` (disturbance or fault); `aṣṭa + apakṣāla` → `aṣṭāpakṣāla`; `muktatvāt + āniñjam` → `muktatvād āniñjam` | because of freedom from eight disturbances |
 | `āniñjam` | nominative singular neuter | immovable; unshaken |
 | `tu` | contrast particle | but; marks the fourth against the first three |
 | `caturthakam` | nominative singular neuter ordinal | the fourth [dhyāna] |
-| `vitarkacārau` | nominative dual | vitarka and vicāra, as expanded in prose |
+| `vitarka-cārau` | nominative dual | vitarka and vicāra, as expanded in prose |
 | `śvāsau` | nominative dual | the two breaths, śvāsa and praśvāsa |
 | `ca` | conjunction | and |
-| `sukhādi` | nominative singular neuter adjective | beginning with pleasure |
+| `sukha-ādi` | nominative singular neuter adjective | beginning with pleasure |
+| `ca` | conjunction | and |
 | `catuṣṭayam` | nominative singular neuter collective noun | a group of four |
-
-`Aṣṭa + apakṣāla` yields `aṣṭāpakṣāla`;
-`muktatvāt + āniñjam` yields `muktatvād āniñjam`.
-`Sukha + ādi` yields `sukhādi`.
 
 ## 4. Grammar
 
@@ -84,20 +74,10 @@ four beginning with pleasure.
 
 ### Bhāṣya-informed study translation
 
-> The fourth dhyāna is called immovable because not
-> even one of eight disturbances is present there:
-> vitarka, vicāra, inhalation, exhalation, pleasure,
-> pain, pleasant-mindedness, and displeasure.
->
-> Others explain its immovability as its inability
-> to be shaken by vitarka, vicāra, rapture, or pleasure,
-> citing the sūtra's illustration of a lamp in a
-> windless place.
-
-Source: Pradhan 441|11–441|19, checked against the local
-Bhāṣya study and running source. The final sentence
-of that span reviews the feelings in attainment and
-prepares the next question about dhyāna rebirth.
+> The fourth dhyāna, however, is immovable because it is free
+> from eight disturbances: vitarka and vicāra, the two breaths,
+> and the four beginning with pleasure, namely pleasure, pain,
+> pleasant-mindedness, and displeasure.
 
 ## 6. Philosophical Translation
 

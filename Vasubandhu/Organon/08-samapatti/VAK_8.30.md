@@ -20,14 +20,9 @@ showing the alobha division. The prose supplies
 all four contemplative forms, including equanimity's
 attention simply to beings.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-upekṣā | alobhaḥ | ākāraḥ | sukhitāḥ | duḥkhitāḥ | vata |
-modantām | iti | sattvāḥ | ca | kāma-sattvāḥ | tu | gocaraḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `upekṣā` | nominative singular feminine | equanimity, here the immeasurable |
 | `alobhaḥ` | nominative singular masculine | non-greed |
@@ -85,31 +80,16 @@ beings of the desire domain.
 
 ### Literal Translation
 
-> Equanimity is non-greed. The forms are “happy,”
+> [The nature of] equanimity is non-greed. The forms are “happy,”
 > “alas, suffering,” “may they rejoice,” and “beings.”
 > Beings of the desire domain are their object-field.
 
 ### Bhāṣya-informed study translation
 
-> Equanimity has non-greed as its nature. This
-> can oppose ill will because ill will is drawn
-> by greed; the commentary then judges a nature
-> comprising both non-greed and non-hatred appropriate.
->
-> One enters friendliness by attending with the
-> intention “May beings be happy,” compassion by
-> attending “Alas, beings suffer,” sympathetic joy
-> with “May beings rejoice,” and equanimity by
-> attending simply to “beings,” through impartiality.
->
-> These immeasurables take desire-domain beings as
-> objects, because they oppose ill will and the
-> related tendencies that take those beings as objects.
-
-Source: Pradhan 452|18–453|11, checked against the local
-Bhāṣya study and running source. The discussion
-of aspiration and apparent error is preserved in
-the argument below.
+> Equanimity has non-greed as its nature. The aspects of the immeasurables
+> are: “How happy beings are!”, “Alas, beings suffer!”, “May beings
+> rejoice!”, and simply “beings.” Their object-field is beings of the desire
+> domain.
 
 ## 6. Philosophical Translation
 
@@ -222,7 +202,7 @@ restriction on their objects.
 
 ## 9. Interpretive Note
 
-**Refinements to the research first pass.** The
+**Refinements to earlier readings.** The
 fourth form, simply beings, must be included.
 The adjective sukhitāḥ acquires its aspirational
 interpretation from the prose reply, not from

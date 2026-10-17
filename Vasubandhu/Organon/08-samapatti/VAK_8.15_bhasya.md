@@ -5,9 +5,12 @@
 > tṛtīyādyāvad ūrdhvādho 'nāsravānantaraṃ śubham |
 > utpadyate tathā śuddhāt kliṣṭaṃ cāpi svabhūmikam || 8.15 ||
 
-> Immediately after an uncontaminated [attainment], a wholesome [attainment]
-> arises upward or downward as far as the third. Likewise after a pure; also a
-> defiled belonging to its own level.
+> Immediately after an uncontaminated attainment, a wholesome
+> attainment, whether pure or uncontaminated, arises on the same
+> level or upward or downward as far as the third, counting the
+> starting level as the first. Likewise after a pure attainment, and
+> in addition a defiled attainment belonging to its own level may
+> arise.
 
 Defiled predecessors and death-time: 8.16.
 
@@ -68,7 +71,7 @@ is another verse.
 - `tathā` carries the wholesome rule;
 - `svabhūmikam` binds only the extra defiled.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -79,6 +82,6 @@ anāsrava drop straight into stain. The text forbids that *next* moment.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.15.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.15_bhasya.md` (Pradhan 443|13–444|08).
-`kosabhasya.txt` collation pending. Provisional.
+Pair with Organon `VAK_8.15.md` (Pradhan 443|13–444|08), upgraded to the
+current Method: kārikā translations and anchor standardized; terminology
+upgraded. `kosabhasya.txt` collation pending. Provisional.

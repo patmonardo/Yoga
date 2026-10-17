@@ -5,10 +5,10 @@
 > upekṣālobhaḥ ākāraḥ sukhitā duḥkhitā vata |
 > modantām iti sattvāś ca kāmasattvās tu gocaraḥ || 8.30 ||
 
-> Equanimity is non-greed. The forms are “happy,” “alas, suffering,” “may they
-> rejoice,” and “beings.” Beings of the desire domain are their object-field.
-
-Levels and how far the counter-work goes: 8.31.
+> Equanimity has non-greed as its nature. The aspects of the immeasurables
+> are: “How happy beings are!”, “Alas, beings suffer!”, “May beings
+> rejoice!”, and simply “beings.” Their object-field is beings of the desire
+> domain.
 
 Kārikā study: [`VAK_8.30.md`](./VAK_8.30.md).
 
@@ -68,7 +68,7 @@ Immeasurable count of beings ≠ all domains as objects. Direction ≠ empty spa
 - `gocara` = kāmāvacara beings;
 - combined nature offered after the verse's alobha.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -79,6 +79,6 @@ Yama still waits outside the verse. The verse teaches how one stands.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.30.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.30_bhasya.md` (Pradhan 452|18–453|11).
-`kosabhasya.txt` collation pending. Provisional.
+Kārikā translations and anchor standardized; terminology upgraded to the
+current Method. Organon pair `VAK_8.30.md` / this Bhāṣya (Pradhan
+452|18–453|11). `kosabhasya.txt` collation pending. Provisional.

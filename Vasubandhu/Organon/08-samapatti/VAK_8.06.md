@@ -19,30 +19,21 @@ Devanāgarī renders the same reading. The running source
 has `lokattaram` where the local verse and explanatory
 prose establish `lokottaram`.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-āsvādanā-saṃprayuktam | sa-tṛṣṇam | laukikam | śubham |
-śuddhakam | tat | tad-āsvādyam | lokottaram | anāsravam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `āsvādanāsaṃprayuktam` | nominative singular neuter compound adjective | associated with savoring |
-| `satṛṣṇam` | nominative singular neuter compound adjective | accompanied by craving |
+| `āsvādanā-saṃprayuktam` | nominative singular neuter compound adjective | associated with savoring |
+| `sa-tṛṣṇam` | nominative singular neuter compound adjective | accompanied by craving |
 | `laukikam` | nominative singular neuter adjective | worldly |
 | `śubham` | nominative singular neuter adjective | wholesome |
 | `śuddhakam` | nominative singular neuter adjective | pure |
-| `tat` | nominative singular neuter pronoun | that [pure attainment] |
-| `tadāsvādyam` | nominative singular neuter compound with gerundive | to be savored by that [savoring-associated attainment] |
+| `tat` | nominative singular neuter pronoun (`tat + tad-` → `tattad-`) | that pure attainment |
+| `tad-āsvādyam` | nominative singular neuter compound with gerundive | to be savored by the savoring-associated attainment, which takes the pure attainment as object |
 | `lokottaram` | nominative singular neuter adjective | supramundane |
 | `anāsravam` | nominative singular neuter adjective | uncontaminated, without influxes |
 
-The understood noun is `samāpattidravyam`, the attainment
-under classification. `Tat + tadāsvādyam` gives the
-compressed `tattadāsvādyam`. The prose resolves the
-two references as the pure attainment and the savoring-
-associated attainment that takes it as object.
+The understood noun is `samāpatti-dravyam`, the attainment under classification.
 
 ## 4. Grammar
 
@@ -86,20 +77,10 @@ one. Supramundane attainment is uncontaminated.
 
 ### Bhāṣya-informed study translation
 
-> Savoring here is craving. The attainment conjoined
-> with it is therefore accompanied by craving. Worldly
-> wholesome attainment is called pure because it is
-> conjoined with pure dharmas such as non-greed.
->
-> The savoring-associated attainment savors the pure
-> attainment that has just immediately passed. The
-> practitioner has emerged from the attainment being
-> savored and has entered the attainment through which
-> it is savored. Supramundane attainment is uncontaminated.
-
-Source: Pradhan 437|03–437|13, local Bhāṣya checked
-against the running source. The following transition
-to dhyāna-factor analysis is reserved for VAK 8.07.
+> Savoring-associated attainment is accompanied by craving.
+> Worldly wholesome attainment is pure; that pure attainment is
+> what the savoring-associated attainment savors. Supramundane
+> attainment is uncontaminated.
 
 ## 6. Philosophical Translation
 

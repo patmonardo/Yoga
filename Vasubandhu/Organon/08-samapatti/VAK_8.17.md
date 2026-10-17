@@ -20,14 +20,9 @@ continuous presentation. The prose's initial enumeration
 and its later functional mapping differ in order;
 that difference is disclosed below.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-caturdhā | śuddhakam | hāna-bhāgīya-ādi | yathā-kramam |
-kleśa-utpatti-sva-bhūmi-ūrdhva-anāsrava-anuguṇam | hi | tat
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `caturdhā` | numeral adverb | fourfold; in four ways |
 | `śuddhakam` | nominative singular neuter | pure attainment |
@@ -91,25 +86,11 @@ uncontaminated attainment.
 
 ### Bhāṣya-informed study translation
 
-> Not every pure attainment is followed by an
-> uncontaminated attainment. Pure attainment has four
-> types: conducive to decline, to stability, to
-> distinction, and to penetration.
->
-> The decline-conducive type favors the arising of
-> defilements; the stability-conducive type favors its
-> own level; the distinction-conducive type favors
-> a higher level; and the penetration-conducive type
-> favors the uncontaminated. From this last type,
-> uncontaminated attainment arises.
->
-> At the summit of existence there are only three
-> types: the distinction-conducive type is absent.
-
-Source: Pradhan 445|02–445|10, checked against the local
-Bhāṣya study and running source. The opening qualification
-belongs to the transition into the verse and is
-necessary to its relation with VAK 8.15.
+> Pure attainment is of four kinds, beginning with the decline-conducive
+> and followed in order by the stability-conducive, the
+> distinction-conducive, and the penetration-conducive; for, in that
+> order, it is conducive to the arising of defilements, to its own
+> level, to a higher level, and to the uncontaminated.
 
 ## 6. Philosophical Translation
 
@@ -127,6 +108,14 @@ verse separately enumerates immediate successors among
 the four pure types themselves.
 
 ## 7. Technical Vocabulary
+
+**Source.** Pradhan 445|02–445|10, checked against the local Bhāṣya
+study and running source. The Bhāṣya's opening qualification (not every
+pure attainment is followed by an uncontaminated one) ties the verse to
+VAK 8.15; at the summit of existence only three types occur, the
+distinction-conducive being absent. The verse's `ādi` is filled by the
+three further names in the commentary's order, while the mapping to
+functions follows `yathākramam`.
 
 **`Śuddhaka`.** Pure attainment: wholesome but contaminated,
 kept distinct from anāsrava. Each of the four types

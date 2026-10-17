@@ -5,12 +5,12 @@
 > darśanāyākṣyabhijñeṣṭā dhībhedāya prayogajāḥ |
 > vajropamo 'ntye yo dhyāne sāsravakṣayabhāvanā || 8.28 ||
 
-> For seeing, the superknowledge of the eye is intended; for differentiation of
-> understanding, those born of application. The vajra-like [samādhi] in the last
-> dhyāna is cultivation for destruction of the outflows.
+> Cultivation of samādhi is intended in the divine-eye superknowledge, for
+> knowledge-and-seeing, and in the qualities born of application, for the
+> differentiation of understanding. The vajra-like samādhi in the last,
+> fourth dhyāna is the cultivation for destruction of the outflows.
 
-Last clause: `sā āsravakṣayabhāvanā`, not a compound `sāsrava-`. Immeasurables:
-8.29. Samādhi-exposition locally closed; chapter continues.
+Last clause: `sā āsravakṣayabhāvanā`, not a compound `sāsrava-`.
 
 Kārikā study: [`VAK_8.28.md`](./VAK_8.28.md).
 
@@ -63,7 +63,7 @@ liberation. Reported own-case ≠ universal lock. Four functions ≠ four lives.
 - `dhī` = prajñā;
 - last sandhi split after `sā`.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -74,6 +74,6 @@ with the Idea. The text lists functions, then turns to qualities that *depend*.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.28.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.28_bhasya.md` (Pradhan 451|14–452|04).
-`kosabhasya.txt` collation pending. Provisional.
+Kārikā translations and anchor standardized; terminology upgraded to the
+current Method. Organon pair `VAK_8.28.md` / this Bhāṣya (Pradhan
+451|14–452|04). `kosabhasya.txt` collation pending. Provisional.

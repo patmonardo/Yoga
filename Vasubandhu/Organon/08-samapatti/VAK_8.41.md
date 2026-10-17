@@ -19,15 +19,9 @@ the running source. No separate prose gloss
 follows this verse in the witness used here;
 the next transmitted unit is VAK 8.42.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-nimīlite | śāstari | loka-cakṣuṣi | kṣayam | gate |
-sākṣi-jane | ca | bhūyasā | adṛṣṭa-tattvaiḥ |
-niravagrahaiḥ | kṛtam | ku-tārkikaiḥ | śāsanam | etat | ākulam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `nimīlite` | locative singular participle | having closed; here of the Teacher as world-eye |
 | `śāstari` | locative singular masculine of `śāstṛ` | when the Teacher |
@@ -44,8 +38,8 @@ niravagrahaiḥ | kṛtam | ku-tārkikaiḥ | śāsanam | etat | ākulam
 | `etat` | nominative singular neuter demonstrative | this |
 | `ākulam` | nominative singular neuter predicate adjective | confused, disordered |
 
-The endings in adṛṣṭatattvair and etad reflect
-sandhi; the analytical forms are adṛṣṭatattvaiḥ and
+Sandhi: the endings in `adṛṣṭatattvair` and `etad` reflect
+sandhi; the analytical forms are `adṛṣṭatattvaiḥ` and
 etat. Ku- supplies the pejorative force in
 kutārkika; it must not disappear in translation.
 
@@ -101,19 +95,9 @@ reasoners who have not seen reality.
 
 ### Bhāṣya-informed study translation
 
-> After the Teacher—the world's eye—had passed away,
-> and the community of witnesses had largely
-> disappeared, this teaching was thrown into disorder
-> by unchecked sophistical reasoners who had not
-> seen reality.
-
-Source: Pradhan 460|04–460|07, checked against the local
-kārikā and research Bhāṣya file and the running
-source. The required subsection heading is retained,
-but there is no additional transmitted prose
-commentary for this verse. The study translation
-makes the verse's metaphor readable; it does
-not represent a separate Bhāṣya gloss.
+> With the Teacher, the Eye of the World, closed, and the body of
+> witnesses largely passed away, this teaching has been made confused
+> by unrestrained bad reasoners who have not seen reality.
 
 ## 6. Philosophical Translation
 
@@ -181,7 +165,7 @@ is not itself a statement of complete disappearance.
 
 **The verse's stated relations.**
 
-| Element | Determination |
+| Feature | Determination |
 |---|---|
 | First circumstance | Passing of the Teacher, expressed through the closed world-eye |
 | Second circumstance | Largely diminished body of witnesses |

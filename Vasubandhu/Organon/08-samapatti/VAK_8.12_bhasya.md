@@ -5,9 +5,11 @@
 > saumanasyasukhopekṣā upekṣāsumanaskate |
 > sukhopekṣe upekṣā pravido dhyānopapattiṣu || 8.12 ||
 
-> In the dhyāna rebirths: pleasant-mindedness, pleasure, and neutral feeling;
-> neutral feeling and pleasant-mindedness; pleasure and neutral feeling; neutral
-> feeling.
+> In the rebirths corresponding to the dhyānas, the feelings are,
+> respectively: pleasant-mindedness, pleasure, and neutral feeling in
+> the first; neutral feeling and pleasant-mindedness in the second;
+> pleasure and neutral feeling in the third; and neutral feeling alone
+> in the fourth.
 
 `Pravido` left unresolved. Knowledge operating at higher rebirth: 8.13.
 
@@ -70,7 +72,7 @@ are types available, not simultaneous feelings in one kṣaṇa.
 - four groups = four rebirths;
 - second lacks sukha by missing vijñānakāya.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -81,6 +83,7 @@ heaven and call them one.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.12.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.12_bhasya.md` (Pradhan 441|19–442|06).
-`Pravido` unresolved. `kosabhasya.txt` collation pending. Provisional.
+Pair with Organon `VAK_8.12.md` (Pradhan 441|19–442|06), upgraded to the
+current Method: kārikā translations and anchor standardized; terminology
+upgraded. `Pravido` unresolved. `kosabhasya.txt` collation pending.
+Provisional.

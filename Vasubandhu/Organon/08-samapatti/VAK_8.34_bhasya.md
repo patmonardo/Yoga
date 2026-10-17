@@ -5,11 +5,13 @@
 > kāmāptadṛśyaviṣayāḥ prathamāḥ ye tv arūpiṇaḥ |
 > te 'nvayajñānapakṣordhvasvabhūduḥkhādigocarāḥ || 8.34 ||
 
-> The first releases have desire-domain visible objects. Those that are formless
-> have as their field the anvayajñāna side and suffering and the following items
-> of higher and own levels.
+> The first three releases have as their object visible form of the
+> desire domain, unpleasant or pleasant as the case may be. The formless
+> releases have as their field suffering of their own and higher levels
+> and its cause and cessation, together with the whole path on the
+> anvayajñāna side, and also non-analytical cessation and, for one of them, space.
 
-Eight bases of mastery: 8.35. Anvayajñāna stays the ūrdhva-side Path-form — not
+Eight Essences of mastery: 8.35. Anvayajñāna stays the ūrdhva-side Path-form — not
 English “inference.”
 
 Kārikā study: [`VAK_8.34.md`](./VAK_8.34.md).
@@ -69,7 +71,7 @@ unreal. Riddhi examples are reported, not a manual.
 - anvayajñāna-side binds the *path* object;
 - `ādi` unpacked in prose.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -81,6 +83,7 @@ Paramārtha in kāmadhātu includes this check.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.34.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.34_bhasya.md` (Pradhan 456|09–24).
-`kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.34.md` / `VAK_8.34_bhasya.md`, upgraded to the current
+Method: kārikā translations and anchor standardized; terminology upgraded.
+Pradhan 456|09–24 witness reference. `kosabhasya.txt` collation pending.
+Provisional.

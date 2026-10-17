@@ -5,11 +5,9 @@
 > ālambete aśaikṣaṃ dvau śūnyataś cāpy anityataḥ |
 > ānimittānimittas tu śāntato 'saṃkhyayā kṣayam || 8.26 ||
 
-> The two take an adept's [samādhi] as object, under emptiness and under
-> impermanence. Signlessness-of-signlessness, however, [takes] cessation without
-> analysis under the aspect of peace.
-
-Mode and who produces them: 8.27.
+> The two [further samādhis] take an adept's samādhi as object, under emptiness
+> and under impermanence respectively; but signlessness-of-signlessness takes
+> non-analytical cessation as its object, under the aspect of peace.
 
 Kārikā study: [`VAK_8.26.md`](./VAK_8.26.md).
 
@@ -66,7 +64,7 @@ already anāsrava (8.27).
 - `asaṃkhyayā kṣayam` = apratisaṃkhyānirodha;
 - `tu` splits the object-construction.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -77,6 +75,6 @@ text names a different cessation.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.26.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.26_bhasya.md` (Pradhan 450|12–20).
-`kosabhasya.txt` collation pending. Provisional.
+Kārikā translations and anchor standardized; terminology upgraded to the
+current Method. Organon pair `VAK_8.26.md` / this Bhāṣya (Pradhan
+450|12–20). `kosabhasya.txt` collation pending. Provisional.

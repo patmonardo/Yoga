@@ -22,29 +22,18 @@ The running source also has `ākiñcanya` and a different,
 damaged final pāda. These differences are not silently
 presented as one uniform witness.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ākāśa-ānantya-vijñāna-ānantya-ākiṃcanya-saṃjñakāḥ |
-tathā-prayogāt | māndyāt | tu | na-eva-saṃjñā-na-asaṃjñakaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `ākāśānantya` | compound member | infinity of space |
-| `vijñānānantya` | compound member | infinity of consciousness, vijñāna |
+| `ākāśa-ānantya` | compound member (`ākāśānantya`) | infinity of space |
+| `vijñāna-ānantya` | compound member (`vijñānānantya`) | infinity of consciousness; `vijñāna` is consciousness here, consistent with the preceding formless series |
 | `ākiṃcanya` | abstract noun in compound | nothingness |
 | `saṃjñakāḥ` | nominative plural masculine adjective | bearing the specified names |
-| `tathāprayogāt` | ablative singular masculine compound | because of application in those respective ways |
+| `tathā-prayogāt` | ablative singular masculine compound; final `t` assimilated before `m` in local `prayogān māndyāt` | because of application in those respective ways; not an accusative plural “those practices” |
 | `māndyāt` | ablative singular neuter abstract noun | because of attenuation or weakness |
 | `tu` | contrastive particle | however |
-| `naivasaṃjñānāsaṃjñakaḥ` | nominative singular masculine compound adjective | designated neither-perception-nor-non-perception |
-
-`Ākāśa + ānantya` yields `ākāśānantya`;
-`vijñāna + ānantya` yields `vijñānānantya`.
-The final `t` of `prayogāt` is assimilated before
-`m` in the local `prayogān māndyāt`. It is not an
-accusative plural meaning “those practices.”
+| `na-eva-saṃjñā-na-asaṃjñakaḥ` | nominative singular masculine compound adjective | designated neither-perception-nor-non-perception |
 
 ## 4. Grammar
 
@@ -88,29 +77,15 @@ because perception is attenuated.
 > infinity of consciousness, and nothingness because
 > of application in those ways. The fourth, however,
 > is designated neither-perception-nor-non-perception
-> because of attenuation.
+> because perception is attenuated.
 
 ### Bhāṣya-informed study translation
 
-> The first three formless attainments receive their
-> names from the way practitioners apply themselves
-> to them, attending respectively: “space is infinite,”
-> “consciousness is infinite,” and “there is nothing.”
-> Their names do not establish those as their exclusive
-> objects.
->
-> The fourth is called neither-perception-nor-non-perception
-> because perception is weak: it is not strongly operative,
-> but neither is it entirely absent. Although an evaluative
-> preparation also approaches this attainment as peaceful
-> and excellent, attenuation of perception explains
-> why it is understood in that way.
-
-Source: Pradhan 436|01–436|11, local Bhāṣya checked
-against the running source. `Vijñāna` is rendered here
-as consciousness consistently with the preceding official
-formless series; the research file's “knowledge” remains
-a project vocabulary choice, not a change to the Sanskrit.
+> The first three are designated infinity of space, infinity of
+> consciousness, and nothingness, according to the way they are
+> applied; the fourth, however, is designated
+> neither-perception-nor-non-perception because perception in
+> it is attenuated.
 
 ## 6. Philosophical Translation
 
@@ -148,7 +123,7 @@ knowledge, or every category of jñāna in Chapter 7.
 **`Nāsti kiñcit`.** “There is nothing.” Here this is
 the reported mode of attending associated with nothingness.
 It is not a universal denial that any dharmas exist.
-The four-aggregate constitution remains in place.
+The four-Base constitution remains in place.
 
 **`Māndya / mṛdutva`.** Attenuation, weakness, or mildness.
 The prose specifies the condition of saṃjñā. The term
@@ -201,7 +176,7 @@ Naming explanation:
 
 This is not the attainment of cessation. The explanation
 explicitly retains perception, and no statement here
-eliminates the other nonmaterial aggregates.
+eliminates the other nonmaterial Bases.
 
 **Why preparation alone is not the final explanation.**
 The prose acknowledges that practitioners also prepare
@@ -226,7 +201,7 @@ is generated without any mode of attention or practice.
 The preceding progression through release from lower
 grounds remains applicable. This verse answers how
 the states are named; it does not repeal their earlier
-acquisition sequence or aggregate constitution.
+acquisition sequence or Base constitution.
 
 ## 9. Interpretive Note
 

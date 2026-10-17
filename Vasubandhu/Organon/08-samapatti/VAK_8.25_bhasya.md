@@ -5,11 +5,9 @@
 > śuddhāmalāḥ nirmalās tu te vimokṣamukhatrayam |
 > śūnyatāśūnyatādyākhyās trayo 'parasamādhayaḥ || 8.25 ||
 
-> They are pure or stainless; the stainless ones, however, are the three gates
-> of liberation. There are three further samādhis named emptiness-of-emptiness
-> and so forth.
-
-Objects and aspects of the further three: 8.26.
+> The three samādhis are of two kinds, worldly-pure and uncontaminated;
+> but the uncontaminated ones are called the three gates of liberation.
+> There are three further samādhis, named emptiness-of-emptiness and so forth.
 
 Kārikā study: [`VAK_8.25.md`](./VAK_8.25.md).
 
@@ -62,7 +60,7 @@ third.
 - `nirmalās tu te` restricts the gate name;
 - `ādi` filled as the other two doubled names.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -73,6 +71,6 @@ shine looking at a shine. Wait for 8.26: the third is not a copy.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.25.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.25_bhasya.md` (Pradhan 450|01–11).
-`kosabhasya.txt` collation pending. Provisional.
+Kārikā translations and anchor standardized; terminology upgraded to the
+current Method. Organon pair `VAK_8.25.md` / this Bhāṣya (Pradhan
+450|01–11). `kosabhasya.txt` collation pending. Provisional.

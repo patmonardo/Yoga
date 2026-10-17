@@ -2,11 +2,14 @@
 
 ## 1. Kārikā Anchor
 
-> iti maulaṃ samāpattidravyaṃ aṣṭavidhaṃ tridhā |
+> iti maulaṃ samāpattidravyam aṣṭavidhaṃ tridhā |
 > sapta āsvādanavacchuddhānāsravāṇi aṣṭamaṃ dvidhā || 8.05 ||
 
-> Thus the fundamental attainment inventory is eightfold. Seven are threefold:
-> savoring-associated, pure, and uncontaminated. The eighth is twofold.
+> The four dhyānas and four formless attainments constitute
+> the fundamental attainment inventory, which is thus eightfold.
+> Seven of them are threefold: associated with savoring, pure,
+> and uncontaminated. The eighth, the summit of existence, is
+> twofold: savoring-associated and pure.
 
 Definitions of the three modes: 8.06. Do not pull them back into this file.
 
@@ -57,7 +60,7 @@ say "because." Highest conditioned ≠ liberated.
 - `sapta` = all except bhavāgra;
 - `aṣṭamam` = neither-perception-nor-non-perception.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -72,6 +75,7 @@ the overlay does not rewrite śuddha/anāsrava as that "pure."
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.05.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.05_bhasya.md` (Pradhan 436|12–437|02).
-`kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.05.md` / `VAK_8.05_bhasya.md`, against Pradhan
+436|12–437|02. Kārikā translations and anchor standardized; terminology
+upgraded to the current Method. `kosabhasya.txt` collation pending.
+Provisional.

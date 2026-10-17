@@ -20,14 +20,9 @@ opening completes the construction begun in VAK 8.18.
 The general support rule receives an explicitly announced
 exception in the following verse.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-vyutkrāntaka-samāpattiḥ | visabhāga-tṛtīya-gā |
-sva-adho-bhūmi-āśrayāḥ | eva | dhyāna-ārūpyāḥ | vṛthā | adharam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `vyutkrāntakasamāpattiḥ` | nominative singular feminine compound | skipping attainment |
 | `visabhāgatṛtīyagā` | nominative singular feminine compound adjective | going to the third attainment in a dissimilar mode |
@@ -93,30 +88,10 @@ lower attainment serves no purpose in the stated account.
 
 ### Bhāṣya-informed study translation
 
-> Skipping attainment is accomplished when, after the
-> preparation, one enters the third attainment in
-> a different mode: for example, from contaminated
-> first dhyāna to uncontaminated third dhyāna, then
-> to contaminated infinite space, then to uncontaminated
-> nothingness, and likewise in reverse. A jump to
-> the fourth relative station is too distant.
->
-> In the three continents, only an arhat liberated
-> independently of occasion produces this attainment,
-> because both freedom from defilement and mastery
-> over samādhi are required.
->
-> As a general rule, dhyānas and formless attainments
-> are made present on supports at their own level
-> or below. Someone reborn above does not make a
-> lower attainment present because, being inferior,
-> it supplies no relevant purpose. The following
-> verse states an exception to this general rule.
-
-Source: Pradhan 446|06–446|21, checked against the local
-Bhāṣya study and running source. The transition at
-446|22 explicitly announces the exception; its detailed
-analysis remains for VAK 8.20.
+> Skipping attainment is accomplished by going to the third item in a
+> dissimilar mode. Dhyānas and formless attainments are made present
+> only on supports belonging to their own or a lower level; for one
+> reborn above, a lower attainment is without use.
 
 ## 6. Philosophical Translation
 
@@ -134,6 +109,15 @@ having mastered a higher attainment, since reverse
 traversal is explicitly part of this very account.
 
 ## 7. Technical Vocabulary
+
+**Source.** Pradhan 446|06–446|21, checked against the local Bhāṣya
+study and running source. The Bhāṣya's example runs from contaminated
+first dhyāna to uncontaminated third dhyāna, to contaminated infinite
+space, to uncontaminated nothingness, and likewise in reverse; a fourth
+relative station is too distant. In the three continents only an arhat
+liberated independently of occasion produces it, requiring both freedom
+from defilement and mastery over samādhi. The transition at 446|22
+announces the exception analyzed in VAK 8.20.
 
 **`Visabhāga`.** Dissimilar in mode: contaminated versus
 uncontaminated in the example. It does not mean

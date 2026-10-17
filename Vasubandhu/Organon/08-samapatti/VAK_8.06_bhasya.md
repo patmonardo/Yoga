@@ -3,11 +3,12 @@
 ## 1. Kārikā Anchor
 
 > āsvādanāsaṃprayuktaṃ satṛṣṇaṃ laukikaṃ śubham |
-> śuddhakaṃ tattadāsvādyaṃ lokottaram anāsravam || 8.06 ||
+> śuddhakaṃ tattadāsvādyaṃ lokottaramanāsravam || 8.06 ||
 
-> Savoring-associated attainment is accompanied by craving. Worldly wholesome
-> attainment is pure; that is what the savoring-associated attainment savors.
-> Supramundane attainment is uncontaminated.
+> Savoring-associated attainment is accompanied by craving.
+> Worldly wholesome attainment is pure; that pure attainment is
+> what the savoring-associated attainment savors. Supramundane
+> attainment is uncontaminated.
 
 First- and second-dhyāna factors: 8.07.
 
@@ -63,7 +64,7 @@ anāsrava-bhavāgra still stands.
 - `tat` = the pure item;
 - `tena` = the savoring item.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -74,6 +75,7 @@ the altitude. Appearance would call the aftertaste “still dhyāna.”
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.06.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.06_bhasya.md` (Pradhan 437|03–13).
-`kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.06.md` / `VAK_8.06_bhasya.md`, against Pradhan
+437|03–13. Kārikā translations and anchor standardized; terminology
+upgraded to the current Method. `kosabhasya.txt` collation pending.
+Provisional.

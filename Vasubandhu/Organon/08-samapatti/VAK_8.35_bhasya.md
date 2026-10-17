@@ -1,12 +1,17 @@
-# VAK_8.35 Bhāṣya — Eight Bases of Mastery
+# VAK_8.35 Bhāṣya — Eight Essences of Mastery
 
 ## 1. Kārikā Anchor
 
 > abhibhvāyatanāny aṣṭau dvayam ādyavimokṣavat |
 > dve dvitīyavat anyāni punaḥ śubhavimokṣavat || 8.35 ||
 
-> There are eight bases of mastery. A pair is like the first release; two are
-> like the second; the others, in turn, are like the beautiful release.
+> The eight Essences of mastery are these. The first two are like
+> the first release: with internal perception of form, one sees external
+> forms, limited or extensive, attractive or unattractive, and knows and
+> sees them as mastered. The next two are like the second release,
+> the same without internal perception of form. The remaining four are
+> like the beautiful release: without internal perception of form, one
+> sees blue, yellow, red, and white as mastered.
 
 Ten kṛtsnāyatanas: 8.36.
 
@@ -60,11 +65,11 @@ forever.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
-- `dvayam` = bases 1–2;
+- `dvayam` = Essences 1–2;
 - `dve` = 3–4;
 - `anyāni` = four colors.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -76,6 +81,7 @@ contemplative sphere of an object, not yet Essence in the Organon sense.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.35.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.35_bhasya.md` (Pradhan 457|01–12).
-`kosabhasya.txt` collation pending. Provisional.
+Organon pair `VAK_8.35.md` / `VAK_8.35_bhasya.md`, upgraded to the current
+Method: kārikā translations and anchor standardized; terminology upgraded.
+Pradhan 457|01–12 witness reference. `kosabhasya.txt` collation pending.
+Provisional.

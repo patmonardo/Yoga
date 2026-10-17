@@ -20,14 +20,9 @@ the fourfold distribution without resolving that reading.
 The running source's `sukhhopekṣe` is not substituted
 for the local verse's `sukhopekṣe`.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-saumanasya-sukha-upekṣāḥ | upekṣā-sumanaskate |
-sukha-upekṣe | upekṣā | pravido [unresolved] | dhyāna-upapattiṣu
-```
-
-| Form | Morphology or textual status | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `saumanasyasukhopekṣāḥ` | coordinated plural, final visarga lost before the following vowel | pleasant-mindedness, pleasure, and neutral feeling |
 | `upekṣāsumanaskate` | coordinated dual expression | neutral feeling and pleasant-mindedness |
@@ -82,30 +77,13 @@ and neutral feeling; and neutral feeling alone.
 > and neutral feeling; neutral feeling and pleasant-mindedness;
 > pleasure and neutral feeling; neutral feeling.
 
-The transmitted `pravido` is left unresolved rather
-than assigned a speculative literal equivalent.
-
 ### Bhāṣya-informed study translation
 
-> The feelings in dhyāna rebirth are not simply the
-> same as those in meditative attainment. In first-dhyāna
-> rebirth there are three: pleasure associated with
-> three knowledge-bodies, pleasant-mindedness belonging
-> to the mental level, and neutral feeling associated
-> with four knowledge-bodies.
->
-> In second-dhyāna rebirth there are two: pleasant-mindedness
-> and neutral feeling, both mental. The relevant pleasure
-> is absent because its knowledge-body is absent.
->
-> In third-dhyāna rebirth there are pleasure and neutral
-> feeling, both mental. In fourth-dhyāna rebirth there
-> is neutral feeling alone.
-
-Source: Pradhan 441|19–442|06, checked against the local
-Bhāṣya study and running source. “Knowledge-body” retains
-the research study's rendering of vijñānakāya; it means
-a class of knowledge, not an anatomical body.
+> In the rebirths corresponding to the dhyānas, the feelings are,
+> respectively: pleasant-mindedness, pleasure, and neutral feeling in
+> the first; neutral feeling and pleasant-mindedness in the second;
+> pleasure and neutral feeling in the third; and neutral feeling alone
+> in the fourth.
 
 ## 6. Philosophical Translation
 
@@ -134,7 +112,11 @@ Its feeling inventory is the present subject. Rebirth
 at a level does not mean continuous occurrence of
 that level's meditative attainment.
 
-**`Vijñānakāya`.** Knowledge-body or class of knowledge.
+**Source.** Pradhan 441|19–442|06, checked against the local
+Bhāṣya study and running source.
+
+**`Vijñānakāya`.** Knowledge-body or class of knowledge; it is not an
+anatomical body.
 The compounds with three and four enumerate classes
 with which a feeling is associated. They do not count
 three or four simultaneous feelings.

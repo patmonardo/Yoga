@@ -5,9 +5,10 @@
 > na maulāḥ kuśalārūpyāḥ sāsravādharagocarāḥ |
 > anāsraveṇa hīyante kleśāḥ sāmantakena ca || 8.21 ||
 
-> The principal wholesome formless attainments do not take contaminated
-> lower-level objects as their range. Defilements are abandoned by uncontaminated
-> attainment and also by the neighboring attainment.
+> The principal wholesome formless attainments do not take
+> contaminated lower-level objects as their range. Defilements are
+> abandoned by uncontaminated attainment and also by access attainment,
+> even when it is pure.
 
 Access count and feeling: 8.22.
 
@@ -67,7 +68,7 @@ Path-form — not English “inference.”
 - second half includes dhyāna;
 - `śuddhakenāpi` is the access exception.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -78,6 +79,6 @@ item is wholesome and still not the pratipakṣa of its own ground.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.21.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.21_bhasya.md` (Pradhan 447|08–17).
-`kosabhasya.txt` collation pending. Provisional.
+Pair with Organon `VAK_8.21.md` (Pradhan 447|08–17), upgraded to the
+current Method: kārikā translations and anchor standardized; terminology
+upgraded. `kosabhasya.txt` collation pending. Provisional.

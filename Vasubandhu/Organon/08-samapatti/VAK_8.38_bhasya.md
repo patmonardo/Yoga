@@ -5,9 +5,10 @@
 > hetukarmabalād dhātvor ārūpyotpādanaṃ dvayoḥ |
 > dhyānānāṃ rūpadhātau tu tābhyāṃ dharmatayāpi ca || 8.38 ||
 
-> Through the power of cause and karma, formless attainments are produced in the
-> two domains. The dhyānas, however, are produced in the form domain through those
-> two and also through dharmatā.
+> Through the power of cause and of karma, formless attainments are
+> produced in the two domains, form and formless. The dhyānas are
+> produced in the form domain through those two powers and also through
+> dharmatā, the lawful course at the time of cosmic contraction.
 
 True teaching — transmission and realization: 8.39.
 
@@ -65,7 +66,7 @@ production rule for the named non-formless special practices.
 - `tābhyām` = the two powers, not the two domains;
 - `dharmatayā` timed to saṃvartanī.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 
@@ -77,7 +78,8 @@ Validity of Knowledge is not derived from these three powers.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_8.38.md` and first-pass
-`Vasubandhu/VAK/08-samapatti/VAK_8.38_bhasya.md` (Pradhan 458|18–459|07).
-First-pass “re-formation” corrected to contraction. `kosabhasya.txt` collation
-pending. Provisional.
+Organon pair `VAK_8.38.md` / `VAK_8.38_bhasya.md`, upgraded to the current
+Method: kārikā translations and anchor standardized; terminology upgraded
+(Pradhan 458|18–459|07 witness reference). Saṃvartanī is read as
+contraction, not re-formation. `kosabhasya.txt` collation pending.
+Provisional.
