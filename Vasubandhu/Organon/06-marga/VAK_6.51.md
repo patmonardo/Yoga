@@ -72,13 +72,7 @@ the liberation Path and abandonment as its fruits.
 
 ### Bhāṣya-informed study translation
 
-> Śrāmaṇya, in the strict sense, is the uncontaminated Path that
-> pacifies affliction. Its conditioned fruits are liberation Paths;
-> its unconditioned fruits are the corresponding abandonments of
-> affliction. There are eighty-nine paired cases: eight from what is
-> abandoned by seeing and eighty-one from nine grades across nine
-> grounds of cultivation. The uninterrupted Paths do the abandoning;
-> their liberation Paths and the abandonments are the two kinds of fruit.
+> Śrāmaṇya, in the strict sense, is the uncontaminated Path that pacifies affliction. Its conditioned fruits are liberation Paths; its unconditioned fruits are the corresponding abandonments of affliction. There are eighty-nine paired cases: eight from what is abandoned by seeing and eighty-one from nine grades across nine grounds of cultivation. The uninterrupted Paths do the abandoning; their liberation Paths and the abandonments are the two kinds of fruit.
 
 ### Translation note
 

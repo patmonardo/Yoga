@@ -70,12 +70,7 @@ attainment and later Knowing.
 
 ### Bhāṣya-informed study translation
 
-> Five grades of intermingled cultivation correspond in order to five
-> Pure-Abode rebirths; the contaminated portion of the cultivation
-> conditions those births. A non-returner who has attained cessation is
-> called a bodily witness. Cognition is absent during that attainment;
-> on emerging, the practitioner receives unprecedented bodily peace and
-> knows the cessation to be peaceful and like Nirvāṇa.
+> Five grades of intermingled cultivation correspond in order to five Pure-Abode rebirths; the contaminated portion of the cultivation conditions those births. A non-returner who has attained cessation is called a bodily witness. Cognition is absent during that attainment; on emerging, the practitioner receives unprecedented bodily peace and knows the cessation to be peaceful and like Nirvāṇa.
 
 ### Translation note
 

@@ -1,23 +1,22 @@
 # VAK 6.60 — Structural Memory and the Transformation of Faculty
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 म्रियते न फलभ्रष्टस्तदकार्यं करोति न ।
 विमुक्त्यानन्तर्यपथा नवाकोप्येऽतिसेवनात् ॥ ६.६० ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 mriyate na phalabhraṣṭas tadakāryaṃ karoti na |
 vimuktyānantaryapathā navākopye ’tisevanāt || 6.60 ||
+```
 
 The first half continues the Vaibhāṣika account permitting regression from Arhat-fruit. The second half concerns transformation into the unshakeable disposition. The Bhāṣya clarifies **atisevanā** as the deep habituation of the former weak-faculty disposition, explaining why nine pairs of Paths are required.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-mriyate | na | phala-bhraṣṭaḥ | tat-akāryam | karoti | na |
-vimukti-ānantarya-pathāḥ | nava | akopye | ati-sevanāt
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -31,6 +30,11 @@ vimukti-ānantarya-pathāḥ | nava | akopye | ati-sevanāt
 | **akopye** | neuter locative singular | in the transition to the unshakeable disposition |
 | **ati-sevanāt** | neuter ablative singular compound | because of deep or repeated habituation |
 
+```text
+mriyate | na | phala-bhraṣṭaḥ | tat-akāryam | karoti | na |
+vimukti-ānantarya-pathāḥ | nava | akopye | ati-sevanāt
+```
+
 The Bhāṣya specifies the transforming practitioner as the *prativedhanābhavya* entering **akopya-gotra**, and the entrenched disposition as **mṛdvindriya-gotra**, a weak-faculty configuration.
 
 ## 4. Grammar
@@ -41,15 +45,30 @@ In the second half, **nava** distributes over both members of **vimuktyānantary
 
 The line does not say merely that repetition produces immovability. It explains why entrenched prior formation requires a graded counter-transformation.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+FALLEN-ARHAT[FRUIT=arhat, SCHOOL=Vaibhāṣika]
+  → DEATH-WHILE-FALLEN[ALLOWED=false]
+  → FRUIT-OPPOSED-ACTION[ALLOWED=false]
+FACULTY-CHANGE[TARGET=akopya-gotra, PRIOR=mṛdvindriya-gotra]
+  → PATH-PAIR[ĀNANTARYA=9, VIMUKTI=9]
+  → CAUSE[deep-habituation-of-prior-disposition]
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-One fallen from the fruit does not die, nor does he perform what is incompatible with it. In [the transition to] the unshakeable [disposition], there are nine liberation-paths and uninterrupted paths because of deep habituation.
+> One fallen from the fruit does not die, nor does he perform what is incompatible with it. In [the transition to] the unshakeable [disposition], there are nine liberation-paths and uninterrupted paths because of deep habituation.
 
 ### Bhāṣya-informed study translation
 
-Within the Vaibhāṣika account, an Arhat who has fallen from the fruit does not die while remaining fallen and performs no action contrary to that fruit; recovery necessarily intervenes. To transform a *prativedhanābhavya* into the unshakeable disposition requires nine uninterrupted paths and nine corresponding liberation-paths, because the former weak-faculty disposition has been deeply habituated and made firm throughout both training and beyond-training.
+> If an arhat falls from the fruit, the fall neither ends in death nor permits conduct opposed to that fruit. Reaching the unshakeable disposition requires nine uninterrupted Paths and nine liberation Paths, because the former faculty disposition has been deeply habituated.
+
+### Translation note
+
+The first half continues the Vaibhāṣika account of possible fruit-regression, contested by the non-regression speaker in 6.58–59. The Bhāṣya distributes **nava** to each Path type and explains **atisevanāt** by the firmness acquired through trainee and beyond-training practice. The running witness reads `navokopye`, while the study normalizes `navākopye` in the continuous verse.
 
 ## 6. Philosophical Translation
 
@@ -59,7 +78,7 @@ That same persistence explains the labor of further transformation. A faculty-mo
 
 ## 7. Technical Vocabulary
 
-**Scope of the regression claim**
+**`Phala-parihāṇi / phalabhraṣṭa` — scope of fruit-regression**
 
 The first half develops the Vaibhāṣika position described in 6.58. The Sautrāntikas deny that Arhatship itself can be lost. VAK 6.60 should therefore not be reported as an uncontested assertion that every tradition accepts regression from Arhat-fruit.
 
@@ -72,7 +91,7 @@ fall from Arhat-fruit
     → recovery before the life-course ends
 ```
 
-**No death while fallen**
+**`Mriyate na phalabhraṣṭaḥ` — no death while fallen**
 
 The Bhāṣya asks whether one who falls from Arhatship is born again and answers no. A sūtra citation indicates that a noble disciple's lapse of mindfulness is rapidly brought to an end. Otherwise, Vasubandhu argues, the holy life would provide no assurance (**anāśvāsika**).
 
@@ -86,7 +105,7 @@ possible regression
 
 The cited wording is textually difficult in the working prose witness, so only its argumentative force is stabilized here.
 
-**No action contrary to the fruit**
+**`Tadakārya / phala-viruddhā kriyā` — no fruit-opposed act**
 
 The Bhāṣya glosses **tadakāryam** as **tatphala-viruddhā kriyā**, action opposed to the fruit. Even while fallen, the practitioner does not perform it.
 
@@ -100,7 +119,7 @@ the hero's formed constitution is not erased
 
 The prior fruit has changed the person's practical possibilities more deeply than its present loss can undo.
 
-**Nine uninterrupted and nine liberation paths**
+**`Ānantarya-mārga / vimukti-mārga` — nine paired Paths**
 
 The transition of faculties reproduces the paired structure familiar from abandonment:
 
@@ -114,7 +133,7 @@ The transition of faculties reproduces the paired structure familiar from abando
 
 The Bhāṣya compares this sequence to attaining Arhatship itself. Becoming unshakeable is not an instantaneous change of label.
 
-**atisevanā**
+**`Atisevanā` — deep habituation of the former disposition**
 
 The reason nine pairs are needed is the former disposition's deep habituation:
 
@@ -128,7 +147,7 @@ mṛdvindriya-gotra
 
 Thus **atisevanā** primarily characterizes the entrenched weak-faculty configuration whose transformation demands intensive counter-cultivation.
 
-**prativedhanābhavya to akopyadharman**
+**`Prativedhanābhavya / akopya-gotra` — capacity for unshakeable disposition**
 
 The practitioner is the fifth Arhat-type, capable of penetrating to the unshakeable condition:
 

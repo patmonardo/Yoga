@@ -5,14 +5,7 @@
 > kāme trayāptir antyasya triṣu nordhvaṃ hi dṛkpathaḥ |
 > asaṃvegād iha vidhā tatra niṣṭheti cāgamāt || 6.55 ||
 
-> The first three śrāmaṇya-fruits are attained only in the desire
-> realm; arhatship can be attained in any of the three realms. Seeing
-> does not begin above the desire realm. In the formless realm there
-> is no hearing of Dharma, and lower realms are not taken as cognitive
-> Conditions. Form-realm ordinary beings, attached to meditative
-> attainments and without painful feeling, lack the *saṃvega* needed
-> for noble Path-entry. As scripture says of the relevant non-returners,
-> “Here the Path begins; there it reaches completion.”
+> The first three śrāmaṇya-fruits are attained only in the desire realm; arhatship can be attained in any of the three realms. Seeing does not begin above the desire realm. In the formless realm there is no hearing of Dharma, and lower realms are not taken as cognitive Conditions. Form-realm ordinary beings, attached to meditative attainments and without painful feeling, lack the *saṃvega* needed for noble Path-entry. As scripture says of the relevant non-returners, “Here the Path begins; there it reaches completion.”
 
 The first three fruits require attainment in the desire realm; the
 last can be attained in any of the three realms. The commentary then

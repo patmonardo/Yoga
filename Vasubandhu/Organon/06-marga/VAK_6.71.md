@@ -1,23 +1,22 @@
 # VAK 6.71 — Purity and Ground of the Bodhi-Aligned Factors
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 अनास्रवाणि बोध्यङ्गमार्गाङ्गानि द्विधेतरे ।
 सकलाः प्रथमे ध्याने अनागम्ये प्रीतिवर्जिताः ॥ ६.७१ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 anāsravāṇi bodhyaṅgamārgāṅgāni dvidhetare |
 sakalāḥ prathame dhyāne anāgamye prītivarjitāḥ || 6.71 ||
+```
 
 The verse introduces two independent determinations of the same thirty-sevenfold system: purity-status and meditative ground. Neither the underlying dharma nor its functional name alone exhausts the factor’s concrete Path-status.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-anāsravāṇi | bodhi-aṅga-mārga-aṅgāni | dvidhā | itare |
-sakalāḥ | prathame | dhyāne | anāgamye | prīti-varjitāḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -30,6 +29,11 @@ sakalāḥ | prathame | dhyāne | anāgamye | prīti-varjitāḥ
 | **prathame dhyāne** | neuter locative singular | in the first dhyāna |
 | **anāgamye** | neuter locative singular | in the preliminary concentration |
 | **prīti-varjitāḥ** | masculine nominative plural compound | deprived of or excluding joy |
+
+```text
+anāsravāṇi | bodhi-aṅga-mārga-aṅgāni | dvidhā | itare |
+sakalāḥ | prathame | dhyāne | anāgamye | prīti-varjitāḥ
+```
 
 The gender shift from neuter group-names to masculine **itare / sakalāḥ / varjitāḥ** reflects the understood plural **bodhipakṣā dharmāḥ**.
 
@@ -49,15 +53,29 @@ anāgamye
 
 The omitted predicate in the second clause is recovered from **sakalāḥ**. The verse therefore asks first what purity-status the groups bear and then where the full or reduced configuration can occur.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+AWAKENING-FACTOR[STATUS=uncontaminated]
+NOBLE-PATH-FACTOR[STATUS=uncontaminated]
+OTHER-FIVE-GROUPS[STATUS=contaminated | uncontaminated]
+FIRST-DHYĀNA[FACTOR-COUNT=37]
+PRELIMINARY-CONCENTRATION[FACTOR-COUNT=36, EXCLUDED=joy]
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-The factors of awakening and factors of the Path are without outflows; the others are twofold. All are present in the first dhyāna; in the preliminary concentration they are without joy.
+> The factors of awakening and factors of the Path are without outflows; the others are twofold. All are present in the first dhyāna; in the preliminary concentration they are without joy.
 
 ### Bhāṣya-informed study translation
 
-The seven factors of awakening and eight factors of the Noble Path are technically uncontaminated because these designations are established within the noble Paths of Cultivation and Seeing, although mundane analogues of such qualities also occur. The other five groups may be either contaminated or uncontaminated. All thirty-seven functions are available in the first dhyāna; the preliminary concentration supports them except for joy, because its effortful and unsettled relation to the lower ground does not sustain prīti.
+> Awakening factors and Noble Path factors are uncontaminated in their strict Path use; the other five groups can occur in contaminated or uncontaminated form. The first dhyāna supports all thirty-seven factors, while preliminary concentration lacks joy because its effortful footing cannot sustain it.
+
+### Translation note
+
+The Bhāṣya establishes the awakening and Noble Path factors in cultivation and Seeing, while acknowledging mundane counterparts such as right view that do not receive the strict Noble Path name. **Dvidhā itare** allows both purity statuses for the other five groups. In **anāgamya**, joy is absent because the preliminary ground is effortful and remains unsettled with respect to the lower ground.
 
 ## 6. Philosophical Translation
 
@@ -67,7 +85,7 @@ The first dhyāna supplies a field capable of sustaining the complete thirty-sev
 
 ## 7. Technical Vocabulary
 
-**Two questions, two axes**
+**`Sāsrava / anāsrava / bhūmi` — purity and ground**
 
 The Bhāṣya asks:
 
@@ -91,7 +109,7 @@ ground-distribution
 
 A ground does not automatically determine the complete doctrinal status of every factor appearing within it.
 
-**Bodhyaṅga and Mārgāṅga are anāsrava**
+**`Bodhyaṅga / mārgāṅga` — uncontaminated Path factors**
 
 The technical reason is their establishment with reference to:
 
@@ -105,7 +123,7 @@ darśanamārga
 
 As strict canonical group-designations, the seven Bodhyaṅgas and eight Mārgāṅgas belong to noble Path-actuality and are therefore without outflows.
 
-**Mundane analogues**
+**`Laukika samyagdṛṣṭi` — mundane counterparts**
 
 Vasubandhu immediately prevents an overstatement:
 
@@ -128,7 +146,7 @@ functional resemblance
 
 The verse’s purity claim concerns the factors under their technical Bodhyaṅga and Mārgāṅga determinations, not the impossibility of wholesome mundane counterparts.
 
-**The other five groups are twofold**
+**`Dvidhā itare` — two statuses for the other five groups**
 
 ```text
 4 smṛtyupasthānas
@@ -150,7 +168,7 @@ within noble Path-actuality
 
 The same named practice therefore changes soteriological status according to its Path-location.
 
-**All thirty-seven in the first dhyāna**
+**`Sakalāḥ prathame dhyāne` — the full thirty-seven**
 
 The Bhāṣya is explicit:
 
@@ -163,7 +181,7 @@ in the first dhyāna
 
 The first dhyāna is thus the first meditative ground supporting the complete named configuration. This accords with 6.66, where the principal dhyānas were easy courses because the relevant factors are possessed and śamatha and vipaśyanā are balanced.
 
-**The preliminary ground lacks prīti**
+**`Anāgamye prīti-varjitāḥ` — no joy in the preliminary ground**
 
 In **anāgamya**, all occur except joy. The Bhāṣya supplies two connected reasons:
 
@@ -177,11 +195,11 @@ the preliminary ground
 
 Prīti is absent not by arbitrary numerical subtraction but because the preliminary field lacks the settled favorable character capable of sustaining it.
 
-**Anāgamya as contemplative ground**
+**`Anāgamya` — preliminary concentration**
 
 Here **anāgamya** is the preliminary concentration approaching the first dhyāna. It is not the person called an Anāgāmin, “non-returner.” The shared surface form must not collapse ground and person.
 
-**Purity beyond underlying identity**
+**`Dravya / nāman / status / bhūmi` — full Path determination**
 
 The ten-dharma reduction of 6.68 remains true, but is insufficient by itself:
 

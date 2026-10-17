@@ -5,13 +5,7 @@
 > jñānāṣṭakasya lābho ’tha ṣoḍaśākārabhāvanā |
 > laukikāptaṃ tu miśratvād anāsravāptir dhṛteḥ phalam || 6.53 ||
 
-> At each principal fruit, the eight Knowings are acquired together
-> and the sixteen Truth-aspects are cultivated. An abandonment gained
-> through a mundane Path can still belong to the once-returner or
-> non-returner fruit: it is joined with abandonments of the Path of
-> Seeing, gathered under one attainment of separation, and maintained
-> by an uncontaminated attainment. Its mundane origin remains part
-> of the fruit's history.
+> At each principal fruit, the eight Knowings are acquired together and the sixteen Truth-aspects are cultivated. An abandonment gained through a mundane Path can still belong to the once-returner or non-returner fruit: it is joined with abandonments of the Path of Seeing, gathered under one attainment of separation, and maintained by an uncontaminated attainment. Its mundane origin remains part of the fruit's history.
 
 The first half completes the five criteria from 6.52. The second
 explains how a mundanely attained abandonment can belong to a fruit

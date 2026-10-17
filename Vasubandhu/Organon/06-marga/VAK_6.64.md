@@ -1,23 +1,22 @@
 # VAK 6.64 — Two Liberations and the Complete Trainee
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 निरोधलाभ्युभयतोविमुक्तः प्रज्ञयेतरः ।
 समापत्तीन्द्रियफलैः पूर्णः शैक्षोऽभिधीयते ॥ ६.६४ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 nirodhalābhy ubhayatovimuktaḥ prajñayetaraḥ |
 samāpattīndriyaphalaiḥ pūrṇaḥ śaikṣo ’bhidhīyate || 6.64 ||
+```
 
 The first half defines the final two persons named in 6.63. The second half turns from the completed Arhat to the ways in which a trainee may properly be called complete.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-nirodha-lābhī | ubhayataḥ-vimuktaḥ | prajñayā | itaraḥ |
-samāpatti-indriya-phalaiḥ | pūrṇaḥ | śaikṣaḥ | abhidhīyate
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -31,6 +30,11 @@ samāpatti-indriya-phalaiḥ | pūrṇaḥ | śaikṣaḥ | abhidhīyate
 | **pūrṇaḥ** | masculine nominative singular | complete under the relevant determination |
 | **śaikṣaḥ** | masculine nominative singular | a trainee, one who still has training to perform |
 | **abhidhīyate** | third-person singular present passive of *abhi-√dhā* | is designated, is called |
+
+```text
+nirodha-lābhī | ubhayataḥ-vimuktaḥ | prajñayā | itaraḥ |
+samāpatti-indriya-phalaiḥ | pūrṇaḥ | śaikṣaḥ | abhidhīyate
+```
 
 The Bhāṣya expands the compact instrumentals into axes of classification. It does not treat them as three possessions that every complete trainee must jointly have.
 
@@ -50,15 +54,31 @@ trainee
     classified by respect of completeness
 ```
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+ARHAT[CESSATION-ATTAINMENT=true]
+  → LIBERATION[RESPECTS=prajñā+samādhi]
+ARHAT[CESSATION-ATTAINMENT=false]
+  → LIBERATION[RESPECT=prajñā]
+TRAINEE[COMPLETE=true]
+  → COMPLETENESS[RESPECT=attainment | faculty | fruit]
+ATTAINMENT-COMPLETENESS → REQUIRES[fruit-completeness]
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-One who has attained cessation is liberated in both respects; the other is liberated through prajñā. A trainee is designated complete with respect to contemplative attainments, faculties, and fruits.
+> One who has attained cessation is liberated in both respects; the other is liberated through prajñā. A trainee is designated complete with respect to contemplative attainments, faculties, and fruits.
 
 ### Bhāṣya-informed study translation
 
-The Arhat who possesses the attainment of cessation is liberated in both respects—through the powers of prajñā and samādhi—whereas the other Arhat is liberated through prajñā. A trainee may be called complete under three determinations: fruit, faculty, and contemplative attainment, singly or in the combinations allowed by their dependencies; this need not mean completeness in all three at once.
+> An arhat with cessation-attainment is liberated in both respects: Prajñā has removed afflictive obstruction, and samādhi has removed obstruction to the meditative releases. The other arhat is liberated through Prajñā. A trainee is called complete according to attainment, faculty, or fruit, as each is fulfilled.
+
+### Translation note
+
+The Bhāṣya specifies the two respects of liberation as release from **kleśāvaraṇa** through Prajñā and **vimokṣāvaraṇa** through samādhi. `Itaraḥ` is the other arhat, whose afflictive liberation is complete. The three instrumental terms in the second half supply respects of trainee completeness, not a demand that all three always occur together. The prose also rules out attainment-completeness without fruit.
 
 ## 6. Philosophical Translation
 
@@ -68,7 +88,7 @@ A trainee’s completeness is likewise determinate rather than abstract. One may
 
 ## 7. Technical Vocabulary
 
-**The doubly liberated Arhat**
+**`Nirodha-lābhī / ubhayatovimukta` — liberation in both respects**
 
 The Bhāṣya defines the designation directly:
 
@@ -89,7 +109,7 @@ samādhi-bala
 
 **nirodhasamāpatti** is the attainment of cessation, specifically the cessation of perception and feeling. Its possession supplies the additional contemplative determination.
 
-**The prajñā-liberated Arhat**
+**`Prajñayā itaraḥ` — liberation through Prajñā**
 
 The **itara**, “the other,” is **prajñāvimukta**:
 
@@ -109,7 +129,7 @@ that liberation together with
 the complete meditative releases
 ```
 
-**Three respects of trainee completeness**
+**`Samāpatti / indriya / phala` — respects of trainee completeness**
 
 Vasubandhu states:
 
@@ -126,9 +146,10 @@ samāpatti
 
 These are irreducible but coordinated dimensions of one Path-person.
 
-**Allowed configurations**
+**`Paripūri` — examples of trainee completeness**
 
-The Bhāṣya gives five forms:
+The Bhāṣya gives five example clauses. Their headings name these
+respects or combinations:
 
 ```text
 phala
@@ -138,17 +159,22 @@ phala + samāpatti
 phala + indriya + samāpatti
 ```
 
-Examples include:
+The examples include:
 
 - a faith-resolved non-returner who is not a body-witness: complete by fruit;
 - a seeing-attained person who is not yet dispassionate: complete by faculty;
-- a seeing-attained non-returner: complete by fruit and faculty;
+- a seeing-attained body-witness who is a non-returner, listed under fruit and faculty;
 - a faith-resolved body-witness: complete by fruit and attainment;
 - a seeing-attained body-witness: complete in all three respects.
 
-The transmitted prose around the compound descriptions is highly compressed. The secure doctrinal result is the pattern of dimensions and dependencies, rather than an expansion of every compound beyond what the Bhāṣya licenses.
+The fruit-and-faculty example also calls its practitioner a
+**kāyasākṣin**, a body-witness. That designation ordinarily entails
+cessation-attainment. The witness therefore does not support treating
+these headings as five mutually exclusive sets of properties. The
+three respects and the explicit exclusion below are firmer than an
+exclusive five-cell taxonomy.
 
-**Excluded configurations**
+**`Vinā phalena` — no attainment-completeness without fruit**
 
 The Bhāṣya explicitly excludes:
 
@@ -161,7 +187,7 @@ without phala
 
 Thus samāpatti is not an autonomous measure of noble completion. Where attainment participates in a trainee’s completeness, fruit is presupposed.
 
-**Relative completeness**
+**`Pūrṇa śaikṣa` — completion within training**
 
 ```text
 paripūrṇa śaikṣa

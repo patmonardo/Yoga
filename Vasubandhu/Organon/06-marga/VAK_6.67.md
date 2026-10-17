@@ -1,28 +1,27 @@
 # VAK 6.67 — Bodhi and Its Thirty-Seven Path-Functions
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 अनुत्पादक्षयज्ञाने बोधिस्तदनुलोम्यतः ।
 सप्तत्रिंशत्तु तत्पक्ष्याः नामतो द्रव्यतो दश ॥ ६.६७ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 anutpādakṣayajñāne bodhis tad-anulomyataḥ |
 saptatriṃśat tu tat-pakṣyā nāmato dravyato daśa || 6.67 ||
+```
 
 The Bhāṣya introduces this verse by saying that **this same Mārga** now receives the designation *bodhipakṣya*. The chapter has not left Path for a disconnected catalogue; it determines Path from the side of awakening.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-anutpāda-kṣaya-jñāne | bodhiḥ | tad-anulomyataḥ |
-sapta-triṃśat | tu | tat-pakṣyāḥ | nāmataḥ | dravyataḥ | daśa
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
-| **anutpāda-kṣaya-jñāne** | neuter nominative dual compound | knowledge of non-arising and knowledge of exhaustion |
-| **bodhiḥ** | feminine nominative singular | awakening, technically constituted here by the two knowledges |
+| **anutpāda-kṣaya-jñāne** | neuter nominative dual compound | Knowing of non-arising and Knowing of exhaustion |
+| **bodhiḥ** | feminine nominative singular | awakening, technically constituted here by the two Knowings |
 | **tad-anulomyataḥ** | ablatival adverbial compound | because of conformity with that Bodhi |
 | **sapta-triṃśat** | numeral | thirty-seven |
 | **tu** | adversative or resumptive particle | but, now, as for |
@@ -30,6 +29,11 @@ sapta-triṃśat | tu | tat-pakṣyāḥ | nāmataḥ | dravyataḥ | daśa
 | **nāmataḥ** | indeclinable ablatival adverb | according to designation or name |
 | **dravyataḥ** | indeclinable ablatival adverb | according to underlying operative dharma-reality |
 | **daśa** | numeral | ten |
+
+```text
+anutpāda-kṣaya-jñāne | bodhiḥ | tad-anulomyataḥ |
+sapta-triṃśat | tu | tat-pakṣyāḥ | nāmataḥ | dravyataḥ | daśa
+```
 
 The dual **jñāne** is predicated of singular **bodhiḥ**: one awakening is formally articulated through two consummate knowledges.
 
@@ -56,15 +60,29 @@ dravyataḥ
 
 The syntax does not dismiss the names as unreal. It counts the same system under two different relations.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+BODHI[KNOWING={exhaustion, non-arising}]
+  → TASK[done=true, to-be-done-again=false]
+BODHI-ALIGNED-DHARMA[RELATION=conforms-to-Bodhi]
+  → COUNT[BY=Path-name, VALUE=37]
+  → COUNT[BY=underlying-dharma, VALUE=10]
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-Bodhi is knowledge of non-arising and knowledge of exhaustion. Because of conformity with that, those belonging to its side are thirty-seven by designation, but ten according to underlying dharma-reality.
+> Bodhi is Knowing of non-arising and Knowing of exhaustion. Because of conformity with that, those belonging to its side are thirty-seven by designation, but ten according to underlying dharma-reality.
 
 ### Bhāṣya-informed study translation
 
-Awakening is constituted by knowledge that exhaustion has been accomplished and knowledge that what has been exhausted will not arise again. The Path-factors are called Bodhi-aligned because their operation conforms to this awakening. They number thirty-seven as distinct named Path-functions, but reduce to ten when counted as underlying operative dharmas. According to differences of person, the Bhāṣya distinguishes Śrāvaka awakening, Pratyekabuddha awakening, and unsurpassed complete awakening without changing this formal definition of Bodhi.
+> Awakening is Knowing that exhaustion has been achieved and that what is exhausted will not arise again: the work is done and does not need repeating. The factors conforming to this Awakening are thirty-seven by their Path names, but ten when counted as underlying dharmas.
+
+### Translation note
+
+The Bhāṣya glosses **kṣayajñāna** and **anutpādajñāna** as the two Knowings through which the practitioner understands that the work has been done and will not need repeating. **Tad-anulomyataḥ** grounds the designation *bodhipakṣya* in conformity with Bodhi. **Nāmataḥ / dravyataḥ** distinguishes the count of thirty-seven named functions from ten constituent dharmas; 6.68 supplies their list.
 
 ## 6. Philosophical Translation
 
@@ -74,7 +92,7 @@ Their plurality is functional rather than a multiplication of underlying realiti
 
 ## 7. Technical Vocabulary
 
-**Bodhi as two knowledges**
+**`Kṣayajñāna / anutpādajñāna` — Bodhi as two Knowings**
 
 The Bhāṣya directly glosses:
 
@@ -102,7 +120,7 @@ together
 
 The Bhāṣya grounds this in the abandonment of ignorance without remainder (**aśeṣāvidyāprahāṇa**). Bodhi is therefore knowledge of both completion and irreversibility.
 
-**Three Bodhis according to person**
+**`Śrāvakabodhi / pratyekabodhi / samyaksaṃbodhi` — three awakenings by person**
 
 The Kārikā gives one formal definition. The Bhāṣya then distinguishes three realizations according to **pudgala-bheda**:
 
@@ -121,7 +139,7 @@ This is the decisive source-layer answer to whether the thirty-seven belong excl
 
 The verse itself does not present a separate Bodhisattva curriculum. Later Mahāyāna can cultivate these factors under the vows, perfections, emptiness, compassion, and complete Buddhahood, but that is a further determination rather than their original restriction.
 
-**The thirty-seven Bodhipakṣya dharmas**
+**`Saptatriṃśad bodhipakṣyāḥ` — thirty-seven Bodhi-aligned dharmas**
 
 The Bhāṣya enumerates seven groups:
 
@@ -154,7 +172,7 @@ Numerically:
 4 + 4 + 4 + 5 + 5 + 7 + 8 = 37
 ```
 
-**Bodhipakṣya**
+**`Bodhipakṣya / anulomya` — conformity with Awakening**
 
 The governing relation is **anulomya**, conformity or accord:
 
@@ -177,7 +195,7 @@ bodhipakṣya
     tends toward and accords with Bodhi
 ```
 
-**Thirty-seven by name**
+**`Nāmataḥ` — thirty-seven by name**
 
 **Nāmataḥ** counts determinate functions. A single dharma can receive different names when it occupies different roles in cultivation.
 
@@ -189,7 +207,7 @@ one operative capacity
 
 The thirty-seven names are therefore not merely dispensable words. They preserve distinctions in what the dharmas do.
 
-**Ten by dravya**
+**`Dravyataḥ` — ten constituent dharmas**
 
 **Dravyataḥ** asks how many underlying operative dharmas actually perform those functions. The answer is ten; VAK 6.68 will enumerate them.
 
@@ -203,7 +221,7 @@ The thirty-seven names are therefore not merely dispensable words. They preserve
 
 This is a many-to-fewer mapping, not a contrast between illusion and reality.
 
-**Continuity of the same Mārga**
+**`Eṣa mārgaḥ` — continuity of the same Path**
 
 The sequence is now explicit:
 

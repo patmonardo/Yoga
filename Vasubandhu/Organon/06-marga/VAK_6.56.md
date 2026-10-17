@@ -83,12 +83,7 @@ classification by modality does not change the fruit rank.
 
 ### Bhāṣya-informed study translation
 
-> The sūtra distinguishes six kinds of arhats. Five were formerly
-> faith-resolved trainees; their liberation of consciousness requires
-> continual guarding, and concentration becomes manifest when
-> requisites, health, and place are suitable. They are liberated in
-> dependence on occasion. The sixth, the *akopyadharman*, has
-> unshakeable liberation: it cannot be disturbed or lost.
+> The sūtra distinguishes six kinds of arhats. Five were formerly faith-resolved trainees; their liberation of consciousness requires continual guarding, and concentration becomes manifest when requisites, health, and place are suitable. They are liberated in dependence on occasion. The sixth, the *akopyadharman*, has unshakeable liberation: it cannot be disturbed or lost.
 
 ### Translation note
 

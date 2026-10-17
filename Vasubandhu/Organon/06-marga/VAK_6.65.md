@@ -1,23 +1,22 @@
 # VAK 6.65 — The Fourfold Operation of Mārga
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 अशैक्षपरिपूर्णत्वं द्वाभ्यां मार्गः समासतः ।
 विशेषमुक्त्यानन्तर्यप्रयोगाख्यश्चतुर्विधः ॥ ६.६५ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 aśaikṣaparipūrṇatvaṃ dvābhyāṃ mārgaḥ samāsataḥ |
 viśeṣamuktyānantaryaprayogākhyaś caturvidhaḥ || 6.65 ||
+```
 
 The opening completes the preceding account of relative completeness. The remainder changes level: after the many divisions of persons and Path-stages, the Bhāṣya asks what Mārga is **in summary**.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-aśaikṣa-paripūrṇatvam | dvābhyām | mārgaḥ | samāsataḥ |
-viśeṣa-mukti-ānantarya-prayoga-ākhyaḥ | catur-vidhaḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -31,6 +30,11 @@ viśeṣa-mukti-ānantarya-prayoga-ākhyaḥ | catur-vidhaḥ
 | **prayoga** | compound member | application or effective preparation |
 | **ākhyaḥ** | masculine nominative singular | bearing the names, called |
 | **catur-vidhaḥ** | masculine nominative singular | fourfold |
+
+```text
+aśaikṣa-paripūrṇatvam | dvābhyām | mārgaḥ | samāsataḥ |
+viśeṣa-mukti-ānantarya-prayoga-ākhyaḥ | catur-vidhaḥ
+```
 
 The metrical order of the four names is **viśeṣa–mukti–ānantarya–prayoga**. Their explanatory operational order is **prayoga–ānantarya–vimukti–viśeṣa**.
 
@@ -55,15 +59,31 @@ vimukti
 
 **Viśeṣa** is then defined residually as Path other than those three.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+BEYOND-TRAINING[COMPLETE-RESPECTS=faculty+attainment]
+  → PRESUPPOSES[final-fruit]
+PATH[CLASSIFICATION=summary, MODES=4]
+  → APPLICATION[PREPARES=immediacy]
+  → IMMEDIACY[ABANDONS=obstruction]
+  → RELEASE[FIRST-ARISES-FREE-OF=obstruction]
+  → FURTHER-DISTINCTION[OTHER-THAN=preceding-three]
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-The completeness of one beyond training is through two. In summary, the Path is fourfold, bearing the names Further Distinction, Release, Immediacy, and Application.
+> The completeness of one beyond training is through two. In summary, the Path is fourfold, bearing the names Further Distinction, Release, Immediacy, and Application.
 
 ### Bhāṣya-informed study translation
 
-An Aśaikṣa is classified as complete with respect to two dimensions, faculty and contemplative attainment, since possession of the final fruit is already entailed by being beyond training. Considered comprehensively, Mārga is fourfold: the Path of Application, which immediately prepares the effective Path; the Path of Immediacy, which abandons the obstruction; the Path of Release, which first arises free from it; and the Path of Further Distinction, comprising Path-development beyond those three.
+> One beyond training is called complete by faculty and meditative attainment; fruit is already secured in being beyond training. In summary, the Path has four functions: Application prepares the direct work, Immediacy abandons obstruction, Release first arises free of it, and Further Distinction is Path beyond those three.
+
+### Translation note
+
+The Bhāṣya supplies **indriya** and **samāpatti** for the verse’s instrumental dual; fruit is constitutive of the Aśaikṣa status and therefore is not another variable measure. The verse lists the Path-names in metrical order, while the study translation follows their operative relation. **Viśeṣa** is defined initially as the Path other than the first three; its further grounds for being Path belong to the commentary.
 
 ## 6. Philosophical Translation
 
@@ -73,7 +93,7 @@ When the classifications of persons are gathered back into Mārga itself, the Pa
 
 ## 7. Technical Vocabulary
 
-**Aśaikṣa completeness**
+**`Aśaikṣa-paripūrṇatva / dvābhyām` — two measures beyond training**
 
 For a trainee, 6.64 allowed fruit to function as one dimension of relative completeness. For an Aśaikṣa:
 
@@ -107,7 +127,7 @@ faculty + attainment
 
 These differences concern the fullness of capacity and attainment, not whether liberation from the afflictions has been achieved.
 
-**The many Path-divisions**
+**`Mārgaḥ samāsataḥ` — the Path in summary**
 
 Vasubandhu observes that many valid distinctions have accumulated:
 
@@ -119,7 +139,7 @@ Application / Immediacy / Release / Further Distinction
 
 The question **samāsataḥ** asks for their operative summary, not the cancellation of the earlier classifications.
 
-**Prayoga-mārga — Path of Application**
+**`Prayoga-mārga` — Path of Application**
 
 The Bhāṣya defines it relationally as that immediately after which the Path of Immediacy arises.
 
@@ -131,7 +151,7 @@ prayoga-mārga
 
 It is not application in the generic sense of any effort. It is effective preparation for the abandoning operation.
 
-**Ānantarya-mārga — Path of Immediacy**
+**`Ānantarya-mārga` — Path of Immediacy**
 
 This is the Path by which the relevant **āvaraṇa**, obstruction, is abandoned.
 
@@ -142,7 +162,7 @@ This is the Path by which the relevant **āvaraṇa**, obstruction, is abandoned
 
 “Immediacy” preserves the absence of an intervening moment between this effective operation and the release that follows. “Uninterrupted Path” is a possible conventional rendering, but should not obscure its direct abandoning function.
 
-**Vimukti-mārga — Path of Release**
+**`Vimukti-mārga` — Path of Release**
 
 The Bhāṣya distinguishes removal from the first actuality free of what was removed:
 
@@ -156,7 +176,7 @@ vimukti
 
 Thus determinate negation and released actuality are adjacent but non-identical Path-functions.
 
-**Viśeṣa-mārga — Path of Further Distinction**
+**`Viśeṣa-mārga` — Path of Further Distinction**
 
 Vasubandhu first defines this broadly:
 
@@ -175,7 +195,7 @@ entry into nirvāṇa without remainder
 
 These explanations show positive advancement, but the residual definition cautions against forcing every occurrence into one rigid fourth temporal moment.
 
-**Why all four are Mārga**
+**`Nirvāṇasya panthā` — why all four count as Path**
 
 The Bhāṣya defines Mārga teleologically:
 

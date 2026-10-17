@@ -81,13 +81,7 @@ continues the list in 6.53's opening line.
 
 ### Bhāṣya-informed study translation
 
-> Although the Path has many individual fruits, four principal
-> fruits are established where five conditions occur together. At
-> each, the candidate's preceding Path is relinquished, a previously
-> unattained fruit Path is acquired, and the abandonments are gathered
-> under one attainment. These are the three conditions named here;
-> the next kārikā adds acquisition of the eight Knowings and cultivation
-> of the sixteen Truth-aspects.
+> Although the Path has many individual fruits, four principal fruits are established where five conditions occur together. At each, the candidate's preceding Path is relinquished, a previously unattained fruit Path is acquired, and the abandonments are gathered under one attainment. These are the three conditions named here; the next kārikā adds acquisition of the eight Knowings and cultivation of the sixteen Truth-aspects.
 
 ### Translation note
 

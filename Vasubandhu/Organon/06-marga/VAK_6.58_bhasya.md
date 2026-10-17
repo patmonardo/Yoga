@@ -5,14 +5,7 @@
 > gotrāc caturṇāṃ pañcānāṃ phalād dhānir na pūrvakāt |
 > śaikṣānāryāś ca ṣaḍgotrāḥ saṃcāro nāsti darśane || 6.58 ||
 
-> Four arhat types can lose a stronger disposition gained by
-> sharpening their faculties. The Vaibhāṣika account also allows
-> the first five to fall from arhat fruit, while holding that no one
-> loses an original disposition or a first noble fruit. The
-> Sautrāntikas dispute loss of arhatship and place the instability
-> in meditative attainment. Trainees and ordinary persons likewise
-> have six dispositions; during Seeing, however, faculties do not
-> change, because that transition requires preparatory practice.
+> Four arhat types can lose a stronger disposition gained by sharpening their faculties. The Vaibhāṣika account also allows the first five to fall from arhat fruit, while holding that no one loses an original disposition or a first noble fruit. The Sautrāntikas dispute loss of arhatship and place the instability in meditative attainment. Trainees and ordinary persons likewise have six dispositions; during Seeing, however, faculties do not change, because that transition requires preparatory practice.
 
 The commentary distinguishes a later acquired disposition from an
 original one, and records opposing accounts of regression from

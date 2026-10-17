@@ -1,23 +1,22 @@
 # VAK 6.69 — Predominance within the Whole Practice
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 वीर्यं सम्यक्प्रहाणाख्यमृद्धिपादाः समाधयः ।
 प्रधानग्रहणं सर्वे गुणाः प्रायोगिकास्तु ते ॥ ६.६९ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 vīryaṃ samyakprahāṇākhyam ṛddhipādāḥ samādhayaḥ |
 pradhānagrahaṇaṃ sarve guṇāḥ prāyogikās tu te || 6.69 ||
+```
 
 The verse completes the examples begun in 6.68 and then states their governing rule. A Bodhi-aligned practice is classified through its principal factor without being compositionally reduced to that factor.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-vīryam | samyak-prahāṇa-ākhyam | ṛddhi-pādāḥ | samādhayaḥ |
-pradhāna-grahaṇam | sarve | guṇāḥ | prāyogikāḥ | tu | te
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -31,6 +30,11 @@ pradhāna-grahaṇam | sarve | guṇāḥ | prāyogikāḥ | tu | te
 | **prāyogikāḥ** | masculine nominative plural | belonging to application or cultivated practice |
 | **tu** | adversative particle | but, however |
 | **te** | masculine nominative plural pronoun | those practice-groups / those qualities in them |
+
+```text
+vīryam | samyak-prahāṇa-ākhyam | ṛddhi-pādāḥ | samādhayaḥ |
+pradhāna-grahaṇam | sarve | guṇāḥ | prāyogikāḥ | tu | te
+```
 
 The final pronoun is compact, but the Bhāṣya makes the referent operationally clear: the three practice-groups contain all qualities belonging to application.
 
@@ -57,15 +61,29 @@ all applied qualities belong to the concrete practice
 
 Thus **tu** prevents the nominal equations from becoming reductions of wholes to isolated parts.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+RIGHT-ABANDONMENTS[PRINCIPAL=energy]
+BASES-OF-POWER[PRINCIPAL=samādhi]
+PRACTICE-COMPLEX[NAME-FROM=principal-factor]
+  → INCLUDES[all-applied-qualities]
+PRINCIPAL-FACTOR ≠ EXCLUSIVE-CONTENT
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-Energy is what is called the right abandonments, and the bases of spiritual power are samādhis. This is taking the principal factor; but all the qualities belonging to application are in them.
+> Energy is what is called the right abandonments, and the bases of spiritual power are samādhis. This is taking the principal factor; but all the qualities belonging to application are in them.
 
 ### Bhāṣya-informed study translation
 
-The four right abandonments are classified principally as energy because through energy body, speech, and mind are correctly directed. The four bases of spiritual power are classified principally as samādhi because attainment of all the qualities is grounded upon collectedness. These identifications take the predominant factor; each concrete practice nevertheless comprises all the associated wholesome qualities belonging to its cultivation.
+> Energy gives the right abandonments their operative character; samādhi does the same for the bases of spiritual power. Each name takes the predominant factor, while the complete practice still includes all the qualities active in its application.
+
+### Translation note
+
+The Bhāṣya explains the right abandonments through energy’s direction of body, speech, and mind, and the bases of power through samādhi as the support of accomplished qualities. **Pradhānagrahaṇa** governs both identifications and the preceding identification of recollection establishments with Prajñā. The verse’s **tu** preserves all the qualities active in each practice-complex. The further disputes over bases of power and the faculty/power distinction remain in the commentary.
 
 ## 6. Philosophical Translation
 
@@ -75,7 +93,7 @@ The Path is consequently neither an aggregate of independent factors nor an abst
 
 ## 7. Technical Vocabulary
 
-**Pradhānagrahaṇa**
+**`Pradhānagrahaṇa` — naming by the predominant factor**
 
 The Bhāṣya explicitly corrects an overly literal reading of 6.68:
 
@@ -105,7 +123,7 @@ samyakprahāṇa
 
 “Principally” is indispensable. None of these formulations states that the complete practice contains only the named dharma.
 
-**All qualities belonging to application**
+**`Sarve prāyogikā guṇāḥ` — all applied qualities**
 
 The Bhāṣya names the three groups together:
 
@@ -120,7 +138,7 @@ all prāyogika-guṇas
 
 The associated qualities are not incidental decorations. They are constitutive conditions of the practice’s concrete operation, although one factor governs its classification.
 
-**Why right abandonment is vīrya**
+**`Samyakprahāṇa / vīrya` — right abandonment governed by energy**
 
 Vasubandhu derives the name functionally:
 
@@ -132,7 +150,7 @@ through vīrya
 
 The semantic force of **samyakprahāṇa** therefore includes correct exertion as well as abandonment. Vīrya predominates because it performs this directing operation.
 
-**Why the bases of spiritual power are samādhis**
+**`Ṛddhipāda / samādhi` — bases of power governed by collectedness**
 
 The Bhāṣya explains:
 
@@ -144,7 +162,7 @@ samādhi
 
 Samādhi is principal without being solitary. Precisely as stable ground, it supports the coordinated qualities by which accomplishment becomes possible.
 
-**Rejected alternative concerning ṛddhipāda**
+**`Ṛddhipāda / chanda / citta` — rejected alternative count**
 
 An unattributed alternative proposes:
 
@@ -170,7 +188,7 @@ these are related
 
 The immediate passage does not identify the school holding the alternative, so no attribution should be imposed.
 
-**Indriya and bala**
+**`Indriya / bala` — faculty and power by degree**
 
 The Bhāṣya then asks why the same five dharmas receive both names:
 
@@ -196,7 +214,7 @@ adhimātra
 
 Thus the designation changes because operative stability changes, while the underlying five dharmas remain the same.
 
-**The genetic order of the five faculties**
+**`Śraddhā → vīrya → smṛti → samādhi → prajñā` — the faculty order**
 
 Their sequence is practical rather than merely enumerative:
 

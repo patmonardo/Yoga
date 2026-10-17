@@ -1,23 +1,22 @@
 # VAK 6.72 — Ground-Conditioned Path Configurations
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 द्वितीयेऽन्यत्र संकल्पाद् द्वयोस्तद्द्वयवर्जिताः ।
 ध्यानान्तरे च शीलाङ्गैस्ताभ्यां च त्रिष्वरूपिषु ॥ ६.७२ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 dvitīye ’nyatra saṃkalpād dvayos tad-dvaya-varjitāḥ |
 dhyānāntare ca śīlāṅgais tābhyāṃ ca triṣv arūpiṣu || 6.72 ||
+```
 
 The distribution begun in 6.71 continues through the higher dhyānas, the intermediate concentration, and the first three formless attainments. The governing question remains: which Bodhi-aligned functions can a given contemplative ground sustain?
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-dvitīye | anyatra | saṃkalpāt | dvayoḥ | tad-dvaya-varjitāḥ |
-dhyāna-antare | ca | śīla-aṅgaiḥ | tābhyām | ca | triṣu | arūpiṣu
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -30,6 +29,11 @@ dhyāna-antare | ca | śīla-aṅgaiḥ | tābhyām | ca | triṣu | arūpiṣu
 | **śīla-aṅgaiḥ** | neuter instrumental plural | by the ethical Path-limbs |
 | **tābhyām** | instrumental dual | by those two, prīti and saṃkalpa |
 | **triṣu arūpiṣu** | neuter locative plural | in the first three formless attainments |
+
+```text
+dvitīye | anyatra | saṃkalpāt | dvayoḥ | tad-dvaya-varjitāḥ |
+dhyāna-antare | ca | śīla-aṅgaiḥ | tābhyām | ca | triṣu | arūpiṣu
+```
 
 The understood subject throughout is the Bodhi-aligned factors. The following verse treats Bhavāgra separately, so **triṣv arūpiṣu** denotes the three lower formless attainments.
 
@@ -51,15 +55,29 @@ tābhyām
 
 The compact syntax therefore expresses successive subtraction from the full thirty-sevenfold configuration.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+SECOND-DHYĀNA[EXCLUDED=right-resolve]
+THIRD-DHYĀNA[EXCLUDED=joy, right-resolve]
+FOURTH-DHYĀNA[EXCLUDED=joy, right-resolve]
+INTERMEDIATE-CONCENTRATION[EXCLUDED=joy, right-resolve]
+LOWER-FORMLESS[EXCLUDED=joy, right-resolve, right-speech, right-action, right-livelihood]
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-In the second [dhyāna], except for resolve; in the two [higher dhyānas] they are deprived of that pair, and likewise in the intermediate dhyāna. In the three formless [attainments] they are deprived of the ethical limbs and those two.
+> In the second [dhyāna], except for resolve; in the two [higher dhyānas] they are deprived of that pair, and likewise in the intermediate dhyāna. In the three formless [attainments] they are deprived of the ethical limbs and those two.
 
 ### Bhāṣya-informed study translation
 
-The second dhyāna contains thirty-six Bodhi-aligned factors, lacking right resolve because vitarka is absent. The third and fourth dhyānas and the intermediate concentration contain thirty-five, lacking both joy and right resolve. The first three formless attainments contain thirty-two, lacking joy and resolve together with right speech, right action, and right livelihood.
+> In the second dhyāna the Path loses right resolve, since discursive thought is absent. In the third and fourth dhyānas, and in intermediate concentration, joy falls away with resolve. The three lower formless attainments lack those two and the ethical Path factors of speech, action, and livelihood.
+
+### Translation note
+
+The Bhāṣya identifies the second dhyāna's missing `saṃkalpa` as right resolve and explicitly traces it to the absence of `vitarka`. It resolves `tad-dvaya` as joy and resolve, and `śīlāṅga` as right speech, right action, and right livelihood. Its counts are thirty-six, thirty-five, and thirty-two respectively; the study translation keeps the verse's sequence of exclusions in view.
 
 ## 6. Philosophical Translation
 
@@ -69,7 +87,7 @@ Higher abstraction is therefore not simple completeness. Each contemplative dete
 
 ## 7. Technical Vocabulary
 
-**Exact distribution by ground**
+**`Bhūmi / bodhipakṣya` — factor counts by ground**
 
 | Ground | Count | Factors absent |
 |---|---:|---|
@@ -83,7 +101,7 @@ Higher abstraction is therefore not simple completeness. Each contemplative dete
 
 These counts concern the thirty-seven named functions, not a count of the ten underlying dravyas.
 
-**Second dhyāna: right resolve excluded**
+**`Dvitīya-dhyāna / samyaksaṃkalpa` — resolve absent in the second dhyāna**
 
 The Bhāṣya states the dependency directly:
 
@@ -94,7 +112,7 @@ absence of vitarka
 
 Here **saṃkalpa** is treated under its relation to applied thought. When that operation is not supported by the second dhyāna, the corresponding Noble Path-function cannot occur there.
 
-**The pair: prīti and saṃkalpa**
+**`Prīti / saṃkalpa` — the excluded pair**
 
 The shorthand **tad-dvaya** gathers:
 
@@ -108,7 +126,7 @@ samyaksaṃkalpa
 
 The third and fourth dhyānas lack this pair. The intermediate concentration receives the same count in the immediate classification.
 
-**The three lower formless attainments**
+**`Triṣu arūpiṣu` — the three lower formless attainments**
 
 These are:
 
@@ -117,7 +135,7 @@ These are:
     Essence of infinite space
 
 vijñānānantyāyatana
-    Essence of infinite consciousness
+    Essence of infinite Cognition
 
 ākiṃcanyāyatana
     Essence of nothingness
@@ -125,7 +143,7 @@ vijñānānantyāyatana
 
 Bhavāgra, the Essence of neither perception nor non-perception, is reserved for 6.73.
 
-**The ethical limbs**
+**`Śīlāṅga` — three ethical Path factors**
 
 The three are:
 
@@ -142,7 +160,7 @@ samyagājīva
 
 The verse directly excludes them from the formless attainments. The standard doctrinal rationale is their dependence upon bodily and verbal form, which the formless contemplative grounds do not support; the immediate Bhāṣya unit gives the distribution without separately arguing that rationale.
 
-**Ground is not merely location**
+**`Bhūmi` — ground as condition of Path operation**
 
 A **bhūmi** supplies conditions of possible operation:
 
@@ -158,7 +176,7 @@ Ground
 
 The factors are not transported unchanged into a neutral container. Their possible actuality is determined by the field.
 
-**Not a simple scale of superiority**
+**`Saṃkhyā / bhūmi` — factor count and ground**
 
 The count declines as the analysis rises through certain contemplative grounds, but this does not establish:
 

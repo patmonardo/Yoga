@@ -1,23 +1,22 @@
 # VAK 6.61 — The Measure and Ground of Faculty-Transformation
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 दृष्ट्याप्ततायामेकैकः अनास्रवाः नृषु वर्धनम् ।
 अशैक्षो नव निश्रित्य भूमीः शैक्षस्तु षट् यतः ॥ ६.६१ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 dṛṣṭyāptatāyām ekaikaḥ anāsravāḥ nṛṣu vardhanam |
 aśaikṣo nava niśritya bhūmīḥ śaikṣas tu ṣaṭ yataḥ || 6.61 ||
+```
 
-The working verse is textually awkward, and the corresponding prose witness has a damaged form where it immediately glosses the intended reference as **dṛṣṭiprāptāyāṃ pratividhyamānāyām**. The Bhāṣya securely determines the doctrinal sense without warranting a silent reconstruction of the kārikā.
+The running verse has a damaged first word, `dṛṣṭacyāptatāyām`, which the following prose glosses as **dṛṣṭiprāptāyāṃ pratividhyamānāyām**. The Bhāṣya determines the intended condition; the source reading remains visible in the paired witness.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-dṛṣṭi-āptatāyām | eka-ekaḥ | anāsravāḥ | nṛṣu | vardhanam |
-aśaikṣaḥ | nava | niśritya | bhūmīḥ | śaikṣaḥ | tu | ṣaṭ | yataḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -32,6 +31,11 @@ aśaikṣaḥ | nava | niśritya | bhūmīḥ | śaikṣaḥ | tu | ṣaṭ | ya
 | **śaikṣaḥ** | masculine nominative singular | trainee |
 | **ṣaṭ** | numeral | six [grounds] |
 | **yataḥ** | causal relative/adverb | because; its explanation continues into 6.62 |
+
+```text
+dṛṣṭi-āptatāyām | eka-ekaḥ | anāsravāḥ | nṛṣu | vardhanam |
+aśaikṣaḥ | nava | niśritya | bhūmīḥ | śaikṣaḥ | tu | ṣaṭ | yataḥ
+```
 
 The first pāda's agreement is compressed. The Bhāṣya resolves **ekaikaḥ** by explicitly stating one **ānantarya-mārga** and one **vimukti-mārga**.
 
@@ -50,15 +54,32 @@ existential basis
 available contemplative grounds
 ```
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+FACULTY-CHANGE[TARGET=dṛṣṭiprāpta]
+  → PREPARATORY-PATH[COUNT=1]
+  → UNINTERRUPTED-PATH[COUNT=1, QUALITY=uncontaminated]
+  → LIBERATION-PATH[COUNT=1, QUALITY=uncontaminated]
+FACULTY-STRENGTHENING[LOCATION=human]
+BEYOND-TRAINING[SUPPORT-GROUNDS=9]
+TRAINEE[SUPPORT-GROUNDS=6, EXCLUDED=formless]
+REASON[FOR=trainee-ground-exclusion, CONTINUES-IN=6.62]
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-In attaining the seeing-attained condition, there is one of each; [the Paths] are uncontaminated. Strengthening occurs among humans. The one beyond training relies upon nine grounds, but the trainee upon six, because—
+> In attaining the seeing-attained condition, there is one of each; [the Paths] are uncontaminated. Strengthening occurs among humans. The one beyond training relies upon nine grounds, but the trainee upon six, because—
 
 ### Bhāṣya-informed study translation
 
-Transformation into the *dṛṣṭiprāpta* condition requires one uninterrupted Path and one liberation-path, preceded in every case by a single preparatory Path. All Paths effecting faculty-transition for noble persons are uncontaminated, and such strengthening occurs only among humans, where regression is possible. An Aśaikṣa can rely upon nine contemplative grounds, whereas a Śaikṣa can rely upon six, excluding the formless attainments; the causal explanation continues into the next verse.
+> For one becoming seeing-attained, faculty change requires one uninterrupted Path and one liberation Path. These Paths are uncontaminated, and the strengthening occurs among humans. One beyond training can rely on nine grounds, a trainee on six—the reason for that limit follows.
+
+### Translation note
+
+The running verse reads `dṛṣṭacyāptatāyām`; the study displays a normalized `dṛṣṭyāptatāyām` while following the prose gloss `dṛṣṭiprāptāyāṃ pratividhyamānāyām`. The phrase `parihāṇyasaṃbhavāt` is construed relative to the excluded nonhuman settings. `Yataḥ` opens the ground-explanation that continues in 6.62; it should not be supplied with a rationale drawn from 6.55.
 
 ## 6. Philosophical Translation
 
@@ -68,7 +89,7 @@ Nor does pure Path-capacity operate from an abstract nowhere. It requires an unc
 
 ## 7. Technical Vocabulary
 
-**One pair for the dṛṣṭiprāpta transition**
+**`Dṛṣṭiprāpta / ekaikaḥ` — one Path of each type**
 
 The Bhāṣya gives the exact structure:
 
@@ -81,7 +102,7 @@ one prayoga-mārga
 
 The preparatory Path is one in every faculty-transition. What varies is the number of direct counteractions and liberating acquisitions: one pair here, but nine pairs for transition to *akopya* in 6.60.
 
-**Depth and measure of transformation**
+**`Indriyasaṃcāra` — the measure of faculty-change**
 
 ```text
 dṛṣṭiprāpta transition
@@ -95,7 +116,7 @@ akopya transition
 
 The number of Path-moments corresponds to the resistance of the prior faculty-configuration, not merely to the rank of the desired label.
 
-**All Paths are uncontaminated**
+**`Anāsrava` — uncontaminated Path-pairs**
 
 The Bhāṣya states that noble faculty-transition cannot occur through a contaminated Path:
 
@@ -109,19 +130,19 @@ anāsrava-mārga
 
 This does not deny worldly preparation generally. It specifies the quality of the Paths that directly accomplish the noble faculty-transition under discussion.
 
-**The human basis**
+**`Nṛṣu vardhanam` — the human basis**
 
-The Bhāṣya's reason is narrow and technical: faculty-transition occurs among humans because **parihāṇi**, regression, is possible there.
+The Bhāṣya's reason is narrow and technical: faculty-transition occurs among humans; the compact causal phrase **parihāṇyasaṃbhavāt** points to regression being impossible in the excluded settings.
 
 ```text
 human field
-    admits relevant mobility and regression
-    → admits indriya-saṃcāra
+    alone admits the relevant faculty-transition
+    → indriya-saṃcāra occurs there
 ```
 
 The verse does not explain this through suffering, *saṃvega*, or a general superiority of human life. Those determinations from 6.55 should not be imported into this distinct argument.
 
-**Nine grounds for the Aśaikṣa**
+**`Aśaikṣa / nava bhūmīḥ` — nine grounds beyond training**
 
 The Bhāṣya enumerates:
 
@@ -136,7 +157,7 @@ three lower ārūpyas      3
 
 These are bases from which the one beyond training can effect faculty-transition.
 
-**Six grounds for the Śaikṣa**
+**`Śaikṣa / ṣaṭ bhūmīḥ` — six grounds for the trainee**
 
 The trainee's range excludes the formless grounds:
 
@@ -150,7 +171,7 @@ four dhyānas             4
 
 The reason is supplied by the immediate continuation into 6.62: faculty-strengthening replaces a fruit together with its weak-faculty Path by the corresponding sharp-faculty fruit/Path, and no Anāgāmin fruit is included in a formless ground. This explanation is recorded here only to resolve **yataḥ**; its full analysis belongs to 6.62.
 
-**Transformation as replacement**
+**`Yataḥ` — the reason carried into 6.62**
 
 The continuation also blocks an additive model:
 

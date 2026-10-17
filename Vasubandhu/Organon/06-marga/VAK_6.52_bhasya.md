@@ -5,13 +5,7 @@
 > catuṣphalavyavasthā tu pañcakāraṇasaṃbhavāt |
 > pūrvatyāgo ’nyamārgāptiḥ kṣayasaṃkalanaṃ phale || 6.52 ||
 
-> Although the Path has many individual fruits, four principal
-> fruits are established where five conditions occur together. At
-> each, the candidate's preceding Path is relinquished, a previously
-> unattained fruit Path is acquired, and the abandonments are gathered
-> under one attainment. These are the three conditions named here;
-> the next kārikā adds acquisition of the eight Knowings and cultivation
-> of the sixteen Truth-aspects.
+> Although the Path has many individual fruits, four principal fruits are established where five conditions occur together. At each, the candidate's preceding Path is relinquished, a previously unattained fruit Path is acquired, and the abandonments are gathered under one attainment. These are the three conditions named here; the next kārikā adds acquisition of the eight Knowings and cultivation of the sixteen Truth-aspects.
 
 The four principal fruits are positions where five criteria concur.
 This kārikā names the first three; the source immediately continues

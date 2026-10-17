@@ -1,64 +1,75 @@
-# VAK_6.61 Bhāṣya — One Pair to Seeing-Attained; Grounds Split
-
-*Yataḥ* hangs into 6.62. Reason recorded only as far as this verse needs.
+# VAK_6.61 Bhāṣya — Faculty Change: Path Counts, Human Basis, and Grounds
 
 ## 1. Kārikā Anchor
 
 > dṛṣṭyāptatāyām ekaikaḥ anāsravāḥ nṛṣu vardhanam |
 > aśaikṣo nava niśritya bhūmīḥ śaikṣas tu ṣaṭ yataḥ || 6.61 ||
 
-Literal (from the kārikā study):
+> For one becoming seeing-attained, faculty change requires one uninterrupted Path and one liberation Path. These Paths are uncontaminated, and the strengthening occurs among humans. One beyond training can rely on nine grounds, a trainee on six—the reason for that limit follows.
 
-> In attaining the seeing-attained condition, there is one of each; [the Paths] are
-> uncontaminated. Strengthening occurs among humans. The one beyond training relies
-> upon nine grounds, but the trainee upon six, because—
+The verse ends with `yataḥ`; its reason for the trainee's six-ground limit begins with 6.62.
 
-Kārikā study: [`VAK_6.61.md`](./VAK_6.61.md). Next: 6.62.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+dṛṣṭacyāptatāyāmekaikaḥ
 
-> dṛṣṭiprāptāyāṃ pratividhyamānāyām eka evānantaryamārgo bhavaty eko vimuktimārgaḥ /
-> prayogamārgas tu sarvatraika eva /
-> na hi sāsraveṇa mārgeṇāryāṇām indriyasaṃcāraḥ /
-> manuṣyeṣv evendriyasaṃcāro nānyatra / parihāṇisaṃbhavāt /
-> anāgamya … catvāri dhyānāni trīṇi cārūpyāṇi / śaikṣas tu ṣaṭ / ārūpyavarjyaḥ /
+dṛṣṭiprāptāyāṃ pratividhyamānāyāmeka evānantaryamārgo bhavatyeko vimuktimārgaḥ /
 
-**Witness.** Pradhan 378|20–379|12. Voice: Vasubandhu. Cause finishes in 6.62.
+prayogamārgastu sarvatraika eva /
+te punaḥ sarva evānantaryavimuktimārgāḥ
+
+     anāsravāḥ
+
+na hi sāsraveṇa mārgeṇāryāṇāmindriyasaṃcāraḥ /
+kva punarindriyāṇi vardhante /
+
+     nṛṣu vardhanam /
+
+manuṣyeṣvevendriyasaṃcāro nānyatra /
+parihāṇyasaṃbhavāt /
+
+kaḥ punaḥ katamāṃ bhūmi niśrityendriyāṇi saṃcarati /
+
+     aśaikṣo nava niśritya bhūmīḥ
+
+anāgamyasyānantaraṃ catvāri dhyānāni trīṇi cārupyāṇi /
+
+     śaikṣastu ṣaṭ
+
+ārupyavarjyaḥ /
+kiṃ kāraṇam /
+
+     yataḥ // VAkK_6.61 //
+```
+
+This is the complete running unit [378|20]–[379|12] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The first kārikā fragment reads `dṛṣṭacyāptatāyāmekaikaḥ`; the study normalizes the verse using the prose's explicit `dṛṣṭiprāptāyāṃ`. The causal `yataḥ` marks a continuation rather than a complete explanation within this unit.
 
 ## 3. Continuous Conventional Translation
 
-> When the seeing-attained condition is being brought about: one uninterrupted Path,
-> one liberation Path. Preparatory Path is one everywhere. Those Paths are all
-> uncontaminated. Āryas do not shift faculties by a contaminated Path.
->
-> Where do faculties strengthen? Among humans only. Because fall is possible there.
->
-> Who, on which ground? One beyond training: nine — *anāgamya*, *dhyānāntara*, four
-> dhyānas, three lower formless. Trainee: six, formless left out. Why — next verse.
+When the seeing-attained condition is being entered, there is just one uninterrupted Path and one liberation Path. The preparatory Path is one in every case. All of those uninterrupted and liberation Paths are uncontaminated: noble persons do not change their faculties by means of a contaminated Path.
+
+Where are faculties strengthened? Among humans. Faculty change occurs among humans only, not elsewhere, because regression is impossible in the excluded settings. The commentary then asks which grounds a practitioner relies upon to change faculties. One beyond training relies upon nine: the access concentration, the intermediate concentration, four concentrations, and three formless attainments. A trainee relies upon six, excluding the formless grounds. Why this difference? The verse ends with “because,” and the answer begins in 6.62.
 
 ## 4. Movement of the Commentary
 
-```text
-dṛṣṭiprāpta: 1+1
-akopya (6.60): 9+9
-noble shift = anāsrava, human
-śaikṣa 6 / aśaikṣa 9
-```
+The commentary specifies `ekaikaḥ` as one of each paired Path and adds that the preparatory Path is one throughout. It determines the quality of these Paths as uncontaminated, locates faculty strengthening among humans, and enumerates nine supports for one beyond training against six for a trainee. It leaves the reason for excluding the trainee from formless grounds open at the verse boundary.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Shift = { prayoga: 1; pairs: 1 | 9; field: "human"; path: "anasrava" };
-```
+**Translation decisions.** `Dṛṣṭacyāptatāyām` is kept in the source witness; the study's normalized verse follows the prose gloss of attaining `dṛṣṭiprāpta`. `Parihāṇyasaṃbhavāt` is read with the nearby `nānyatra`: regression is impossible in the excluded settings. `Anāgamyasyānantaraṃ` provides the first two of the nine supports, followed by four concentrations and three formless attainments. The text does not give the complete causal account for the trainee's exclusion until 6.62.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** Faculty change depends on an appropriate uncontaminated Path, practitioner status, and available ground. This is a synthesis of the passage's constraints. The comparison with nine pairs for unshakeability comes from 6.60 and should not collapse the one-pair operation here into the same event.
 
-- *ekaikaḥ* = one of each Path, not one Path total;
-- human basis here = *parihāṇi* possible, not 6.55's *saṃvega* talk;
-- *yataḥ* is not closed on this page.
+## 6. Counts and Conditions
+
+| Transition or practitioner | Path or ground count | Source determination |
+|---|---|---|
+| Becoming `dṛṣṭiprāpta` | One uninterrupted and one liberation Path | One preparatory Path is common to all transitions |
+| Noble faculty change | Uncontaminated Paths | Contaminated Path cannot effect it |
+| One beyond training | Nine grounds | Access, intermediate, four concentrations, three formless |
+| Trainee | Six grounds | Formless grounds excluded; reason follows in 6.62 |
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 378|20–379|12.
-Verse-English from [`VAK_6.61.md`](./VAK_6.61.md) §5 Literal. Family verse.
-Next: 6.62.
+The full running unit [378|20]–[379|12] is present without ellipsis. The kārikā anchor copies the study's Bhāṣya-informed translation exactly. Next: 6.62.

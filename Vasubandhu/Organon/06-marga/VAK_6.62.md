@@ -1,23 +1,22 @@
 # VAK 6.62 — Redetermination of Fruit and Faculty-Grounded Personhood
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 सविशेषं फलं त्यक्त्वा फलमाप्नोति वर्धयन् ।
 द्वौ बुद्धौ श्रावकाः सप्त नवैते नवधेन्द्रियाः ॥ ६.६२ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 saviśeṣaṃ phalaṃ tyaktvā phalam āpnoti vardhayan |
 dvau buddhau śrāvakāḥ sapta navaite navadhendriyāḥ || 6.62 ||
+```
 
 The Bhāṣya prevents two conflations. Faculty-strengthening replaces the weak-faculty fruit-and-Path complex with its sharp-faculty counterpart; it is not merely an unchanged fruit receiving an added quality. Also, the seven Śrāvakas counted here are not the separate sevenfold enumeration of all noble persons introduced after this verse.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-sa-viśeṣam | phalam | tyaktvā | phalam | āpnoti | vardhayan |
-dvau | buddhau | śrāvakāḥ | sapta | nava | ete | navadhā | indriyāḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -31,6 +30,11 @@ dvau | buddhau | śrāvakāḥ | sapta | nava | ete | navadhā | indriyāḥ
 | **nava ete** | masculine nominative plural | these nine |
 | **navadhā** | indeclinable numeral-adverb | ninefold |
 | **indriyāḥ** | masculine nominative plural | persons differentiated according to faculty; the Bhāṣya explains a ninefold faculty-gradation |
+
+```text
+sa-viśeṣam | phalam | tyaktvā | phalam | āpnoti | vardhayan |
+dvau | buddhau | śrāvakāḥ | sapta | nava | ete | navadhā | indriyāḥ
+```
 
 The Bhāṣya makes **viśeṣa** concrete as the weak-faculty Path qualifying the fruit and identifies what is newly acquired as the corresponding fruit-and-Path of the sharp-faculty disposition.
 
@@ -48,15 +52,31 @@ two Buddhas
 
 **navadhā indriyāḥ** gives the principle of division: these persons are nine because the faculties are graded ninefold. The plural **indriyāḥ** functions metonymically in the compressed verse; the Bhāṣya explicitly speaks of nine *pudgalas* generated through differences of faculty.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+FACULTY-STRENGTHENING[OLD=weak-faculty-fruit-and-path]
+  → RELINQUISH[OLD]
+  → ACQUIRE[NEW=sharp-faculty-fruit-and-path]
+NINE-PERSON-COUNT[PRINCIPLE=faculty-grade]
+  → ŚRĀVAKA[COUNT=7, IMMUTABLE-SUBTYPES=2]
+  → BUDDHA[COUNT=2, TYPES=pratyekabuddha+fully-awakened]
+NEXT-CLASSIFICATION[SEVEN-NOBLE-PERSONS, BEGINS=6.63]
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-One strengthening [the faculties], having relinquished the fruit together with its specific determination, attains [the] fruit. There are two Buddhas and seven Śrāvakas; these nine are [distinguished] through the ninefold faculties.
+> One strengthening [the faculties], having relinquished the fruit together with its specific determination, attains [the] fruit. There are two Buddhas and seven Śrāvakas; these nine are [distinguished] through the ninefold faculties.
 
 ### Bhāṣya-informed study translation
 
-In strengthening the faculties, a practitioner relinquishes the fruit together with the Path specifically qualified by weak faculties and acquires the corresponding fruit-and-Path of the sharp-faculty disposition. The principal fruit-level need not change, but its determinate Path-complex does. The nine faculty-based persons are seven Śrāvakas—the five condition-dependent Arhat-types plus two kinds of unshakeable Arhat—and two Buddhas, Pratyekabuddha and fully awakened Buddha.
+> One who strengthens the faculties relinquishes the fruit together with its weak-faculty Path and gains the fruit with a sharp-faculty Path. By their nine grades of faculty, the persons so distinguished are two Buddhas and seven disciples.
+
+### Translation note
+
+The opening answers the `yataḥ` of 6.61. The Bhāṣya glosses **saviśeṣaṃ phalam** through the fruit and weak-faculty Path that are relinquished, and the sharp-faculty fruit and Path then acquired. The same principal fruit rank need not be exchanged for a higher one. The seven Śrāvakas here are Arhat subtypes within a faculty-based ninefold count; the different sevenfold classification of all noble persons starts after this unit.
 
 ## 6. Philosophical Translation
 
@@ -66,7 +86,7 @@ The resulting persons are not independent substances ranked from outside. They a
 
 ## 7. Technical Vocabulary
 
-**Completion of the six-ground explanation**
+**`Yataḥ / anāgāmi-phala / ārūpya-bhūmi` — the six-ground reason**
 
 The first half resolves the causal **yataḥ** at the end of 6.61. A Śaikṣa cannot strengthen the faculties on a formless ground because the Anāgāmin fruit is not included there:
 
@@ -85,7 +105,7 @@ therefore
 
 The limitation is relational and doctrinal, not merely a claim that the trainee possesses less contemplative power.
 
-**saviśeṣa phala**
+**`Saviśeṣaṃ phalam` — fruit with its Path specification**
 
 The Bhāṣya explains the specific determination as **phala-viśiṣṭa mṛdvindriya-mārga**, the fruit together with its weak-faculty Path. What is given up is therefore a concrete complex:
 
@@ -101,7 +121,7 @@ corresponding sharp-faculty fruit
 
 The practitioner does not necessarily advance from one of the four principal fruits to the next. The same fruit-level is reconstituted under another faculty-disposition.
 
-**Six Arhats become seven Śrāvakas**
+**`Ṣaḍ arhantaḥ / sapta śrāvakāḥ` — the Arhat subdivision**
 
 The five condition-dependent Arhat-types remain five. The *akopyadharman* is subdivided by genesis:
 
@@ -120,7 +140,7 @@ seven Śrāvakas
 
 This subdivision does not add a seventh liberation-mode. It differentiates the sixth mode according to whether its disposition is original or acquired.
 
-**The two Buddhas**
+**`Dvau buddhau` — two Buddha types**
 
 The Bhāṣya identifies:
 
@@ -132,7 +152,7 @@ Pratyekabuddha
 
 Adding these to the seven Śrāvakas yields nine persons.
 
-**Nine grades of faculty**
+**`Navadhā indriyāḥ` — nine faculty grades**
 
 The Bhāṣya grounds the enumeration in the ninefold scale beginning with mild-mild:
 
@@ -152,7 +172,7 @@ strong-strong
 
 The structural claim is that **indriya-bheda**, differentiation of faculties, generates the nine-person classification. The passage need not be forced into a simplistic one-label-to-one-grade table beyond what the Bhāṣya states.
 
-**A separate sevenfold noble-person classification**
+**`Sapta āryapudgalāḥ` — the next classification**
 
 Immediately after explaining this verse, Vasubandhu introduces seven noble persons—from *śraddhānusārin* through *ubhayatovimukta*. That is a new classification by mode and stage of noble realization, not the seven Śrāvakas inside the present faculty-based ninefold scheme. Its analysis belongs to 6.63.
 

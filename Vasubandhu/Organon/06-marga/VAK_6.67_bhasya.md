@@ -1,72 +1,84 @@
-# VAK_6.67 Bhāṣya — Bodhi Is Two Knowledges; Thirty-Seven Belong to Its Side
-
-Same Path. Now named from the End.
+# VAK_6.67 Bhāṣya — Two Knowings, Thirty-Seven Names, Ten Dharmas
 
 ## 1. Kārikā Anchor
 
 > anutpādakṣayajñāne bodhis tad-anulomyataḥ |
 > saptatriṃśat tu tat-pakṣyā nāmato dravyato daśa || 6.67 ||
 
-Literal (from the kārikā study):
+> Awakening is Knowing that exhaustion has been achieved and that what is exhausted will not arise again: the work is done and does not need repeating. The factors conforming to this Awakening are thirty-seven by their Path names, but ten when counted as underlying dharmas.
 
-> Bodhi is knowledge of non-arising and knowledge of exhaustion. Because of
-> conformity with that, those belonging to its side are thirty-seven by designation,
-> but ten according to underlying dharma-reality.
+The same Path is now designated from its conformity with Awakening.
 
-Kārikā study: [`VAK_6.67.md`](./VAK_6.67.md). Next: 6.68.
+## 2. Continuous Sanskrit
 
-## 2. Continuous Sanskrit Witness
+```iast
+punarapyeṣa mārgo bodhipakṣyākhyāṃ labhate /
 
-> punar apy eṣa mārgo bodhipakṣyākhyāṃ labhate /
-> saptatriṃśad bodhipakṣā dharmāḥ / catvāri smṛtyupasthānāni / … āryāṣṭāṅgo mārgaḥ /
-> kṣayajñānam anutpādajñānaṃ ca /
-> pudgalabhedena tisro bodhaya utpadyante / śrāvakabodhiḥ pratyekabodhir anuttarā samyaksaṃbodhir iti /
-> aśeṣāvidyāprahāṇāt / tābhyāṃ … kṛtāpunaḥkartavyatāvabodhāc ca /
-> bodher anulomatvād bodhipakṣyāḥ saptatriṃśad utpadyante /
-> daśa dravyāṇi sarve bodhipakṣyāḥ /
+saptatriṃśadvodhipakṣā dharmāḥ /
+catvāri smṛtyupasthānāni /
 
-**Witness.** Pradhan 382|20–383|08. Voice: Vasubandhu. Ten named in 6.68.
+catvāri samyak prahāṇāni /
+catvāra ṛddhipādāḥ /
+pañcendriyāṇi /
+
+pañca balāni /
+
+sapta bodhyaṅgāni /
+āryāṣṭāṅgo mārgaḥ iti /
+tatra
+
+     anutpādakṣayajñāne bodhiḥ
+
+kṣayajñānamanutpādajñānaṃ ca /
+pudgalabhedena tisro bodhaya utpadyante /
+
+śrāvakabodhiḥ pratyekabodhiranuttarā samyaksaṃbodhiriti /
+
+aśeṣāvidyāprahāṇāt /
+
+tābhyāṃ svarthasya yathābhūta kṛtāpunaḥkartavyatāvavodhācca /
+
+     tādanulomyataḥ /
+
+     saptatriṃśattu tatpakṣyāḥ
+
+bodheranulomatvādbodhipakṣyāḥ saptatriṃśadutpadyante /
+
+     nāmato dravyato daśa // VAkK_6.67 //
+
+daśa dravyāṇi sarve bodhipakṣyāḥ /
+katamāni daśa /
+```
+
+This is the complete running unit [382|20–21]–[383|08] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The opening transition also closes 6.66; it is repeated here because it introduces the thirty-sevenfold classification. The question at [383|08] asks which ten dharmas are meant; their list begins at [383|09] with 6.68.
 
 ## 3. Continuous Conventional Translation
 
-> Again this Path takes the name *bodhipakṣya*. Thirty-seven: four establishments of
-> mindfulness; four right abandonments; four bases of power; five faculties; five
-> powers; seven awakening-limbs; the noble eightfold Path.
->
-> Bodhi is knowledge of exhaustion and knowledge of non-arising. By difference of
-> person, three awakenings arise: Śrāvaka, Pratyekabuddha, unsurpassed complete.
-> Ignorance abandoned without remainder. Through those two knowledges: the work is
-> done, and it is not to be done again.
->
-> Because they run with Bodhi, thirty-seven arise on its side. By name, thirty-seven.
-> By *dravya*, ten. Which ten — next verse.
+This same Path again receives the designation *bodhipakṣya*, Bodhi-aligned. There are thirty-seven Bodhi-aligned dharmas: four establishments of recollection, four right abandonments, four bases of spiritual power, five faculties, five powers, seven factors of Awakening, and the noble eightfold Path.
+
+Bodhi consists of Knowing of non-arising and Knowing of exhaustion. The commentary names three awakenings according to the difference of person: the disciple's awakening, the solitary Buddha's awakening, and unsurpassed complete awakening. Ignorance has been abandoned without remainder; through the two Knowings the practitioner understands the accomplished task as it actually is—done and not to be done again.
+
+Because they conform to Bodhi, the Bodhi-aligned dharmas arise as thirty-seven. That is their count by name. Counted as constituent dharmas, all the Bodhi-aligned factors are ten. The commentary then asks which ten these are; the answer follows in 6.68.
 
 ## 4. Movement of the Commentary
 
-```text
-Bodhi = kṣaya-jñāna + anutpāda-jñāna
-three persons, one definition
-37 functions ≠ 37 stuffs
-10 come in 6.68
-```
+The passage first connects the same Mārga to Bodhi and enumerates its thirty-seven aligned factors. It defines Bodhi through the two Knowings, distinguishes three modes of awakening by person, and explains why the factors belong to Bodhi's side. It then changes the counting criterion from names to constituent dharmas and leaves their enumeration to the next verse.
 
-## 5. Organon Light (typed)
+## 5. Translation and Organon Study
 
-```ts
-type Bodhi = { ksaya: true; anutpada: true };
-type Count = { name: 37; dravya: 10 };
-// done ≠ still-to-do
-```
+**Translation decisions.** `Jñāna` is consistently **Knowing**. `Anutpādakṣayajñāne` is a dual, while `bodhiḥ` is singular: two Knowings articulate one awakening. `Tad-anulomyataḥ` gives the reason the factors are called Bodhi-aligned. `Nāmataḥ` counts thirty-seven designations; `dravyataḥ` counts ten constituent dharmas. The source does not say that the thirty-seven names are merely unreal or that the ten are individual persons.
 
-## 6. The Bhāṣya's Decisions for the Kārikā
+**Organon determination.** The Path can be one while its factors have several valid names and fewer constituent dharmas. Their alignment with Bodhi expresses a relation to the completed End; that project interpretation follows the commentary's explicit conformity claim without substituting a new definition of Bodhi.
 
-- *pakṣya* = conformity, not a bag of extras;
-- Śrāvaka Bodhi is Bodhi;
-- *dravya* here is operative dharma-count, not a Western substance.
+## 6. Two Counting Relations
+
+| Count | Basis | Source determination |
+|---|---|---|
+| 37 | Names of Bodhi-aligned factors | Seven enumerated groups: 4 + 4 + 4 + 5 + 5 + 7 + 8 |
+| 10 | Constituent dharmas | Announced here; named in 6.68 |
+
+The three awakenings distinguish persons while the verse's two-Knowing definition remains the common formal account.
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 382|20–383|08.
-Verse-English from [`VAK_6.67.md`](./VAK_6.67.md) §5 Literal. Culmination.
-Written under `Vasubandhu/Organon/`.
-Next: 6.68.
+The full running unit [382|20–21]–[383|08] is present, including the seven groups, three awakenings, and the question leading to the next verse. The kārikā anchor copies the study's Bhāṣya-informed translation exactly. Next: 6.68.

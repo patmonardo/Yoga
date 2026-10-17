@@ -1,23 +1,22 @@
 # VAK 6.68 — Ten Dharmas beneath Thirty-Seven Functions
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 श्रद्धा वीर्यं स्मृतिः प्रज्ञा समाधिः प्रीत्युपेक्षणे ।
 प्रश्रब्धिशीलसंकल्पाः प्रज्ञा हि स्मृत्युपस्थितिः ॥ ६.६८ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 śraddhā vīryaṃ smṛtiḥ prajñā samādhiḥ prītyupekṣaṇe |
 praśrabdhiśīlasaṃkalpāḥ prajñā hi smṛtyupasthitiḥ || 6.68 ||
+```
 
 VAK 6.67 announced that the thirty-seven Bodhi-aligned functions reduce to ten underlying dharmas. This verse enumerates the ten and begins demonstrating the reduction through the first canonical group.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-śraddhā | vīryam | smṛtiḥ | prajñā | samādhiḥ | prīti-upekṣaṇe |
-praśrabdhi-śīla-saṃkalpāḥ | prajñā | hi | smṛti-upasthitiḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -33,6 +32,11 @@ praśrabdhi-śīla-saṃkalpāḥ | prajñā | hi | smṛti-upasthitiḥ
 | **saṃkalpāḥ** | masculine nominative plural, closing a coordinated list | resolves or orientations |
 | **hi** | explanatory particle | for, indeed |
 | **smṛtyupasthitiḥ** | feminine nominative singular used collectively | establishment of recollection; the group of four |
+
+```text
+śraddhā | vīryam | smṛtiḥ | prajñā | samādhiḥ | prīti-upekṣaṇe |
+praśrabdhi-śīla-saṃkalpāḥ | prajñā | hi | smṛti-upasthitiḥ
+```
 
 The mixed genders and numbers are coordinated as a ten-member nominal list. The second sentence explains the first reduction rather than adding an eleventh item.
 
@@ -52,15 +56,31 @@ In **prajñā hi smṛtyupasthitiḥ**, both nouns are nominative. The construct
 
 The particle **hi** marks an explanation: the four establishments do not add four new dravyas because they are counted principally as prajñā.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+BODHI-ALIGNED-FACTORS[NAMED-FUNCTIONS=37]
+  → CONSTITUENT-DHARMAS[COUNT=10]
+CONSTITUENT-DHARMAS
+  → {confidence, energy, recollection, Prajñā, collectedness,
+     joy, equanimity, pliancy, ethical-discipline, resolve}
+ESTABLISHMENT-OF-RECOLLECTION[PRINCIPAL-DHARMA=Prajñā]
+  → NAME-RELATION[recollection]
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-Confidence, energy, recollection, prajñā, collectedness, joy, equanimity, pliancy, ethical discipline, and resolve are [the ten]. For the establishment of recollection is prajñā.
+> Confidence, energy, recollection, prajñā, collectedness, joy, equanimity, pliancy, ethical discipline, and resolve are [the ten]. For the establishment of recollection is prajñā.
 
 ### Bhāṣya-informed study translation
 
-The thirty-seven Bodhi-aligned functions are constituted principally by ten operative dharmas: confidence, energy, recollection, discriminative understanding, collectedness, joy, equanimity, calm pliancy, ethical discipline, and resolve. The four establishments of recollection are counted under prajñā because discriminative examination is their predominant operative nature, although recollection and other associated qualities remain present.
+> The thirty-seven Bodhi-aligned functions rest on ten dharmas: confidence, energy, recollection, Prajñā, collectedness, joy, equanimity, pliancy, ethical discipline, and resolve. The establishments of recollection count as Prajñā because discernment is their governing operation.
+
+### Translation note
+
+The ten-member list answers the question left at the end of 6.67. **Prajñā hi smṛtyupasthitiḥ** identifies the establishments of recollection by their principal operative dharma; it does not assert that recollection and Prajñā are identical in every respect. The Bhāṣya maps other named factors to the same ten dharmas and records the Vaibhāṣika count of eleven when bodily and verbal ethical actions are separated.
 
 ## 6. Philosophical Translation
 
@@ -70,7 +90,7 @@ The establishments retain their objects through recollection, but their defining
 
 ## 7. Technical Vocabulary
 
-**The ten operative dharmas**
+**`Daśa dravyāṇi` — ten constituent dharmas**
 
 ```text
 śraddhā
@@ -106,7 +126,7 @@ saṃkalpa
 
 These are not ten factors added beside the thirty-seven. They are the recurring dharma-realities by which the thirty-seven positions are principally constituted.
 
-**The reduction map**
+**`Bodhipakṣya / dravya` — the reduction map**
 
 The Bhāṣya unfolds the main recurrences:
 
@@ -125,7 +145,7 @@ The Bhāṣya unfolds the main recurrences:
 
 The faculties and powers are grasped directly according to their names (**nāmagrāhikayā**). The more instructive cases are those in which the name of a practice-group differs from its principal dharma.
 
-**Why smṛtyupasthāna is counted as prajñā**
+**`Prajñā hi smṛtyupasthitiḥ` — recollection establishments counted by Prajñā**
 
 The sentence must not be flattened into:
 
@@ -149,7 +169,7 @@ smṛtyupasthāna
 
 The Bhāṣya states that the establishments, right abandonments, and bases of spiritual power respectively have the natures (**svabhāva**) of prajñā, vīrya, and samādhi. VAK 6.69 immediately qualifies this as designation through the predominant factor.
 
-**Principal dharma is not the whole practice**
+**`Svabhāva / pradhāna` — principal dharma within a practice**
 
 The reduction counts the leading operation:
 
@@ -161,7 +181,7 @@ named practice-complex
 
 Consequently, identifying the principal dharma neither eliminates the companions nor converts the whole practice into an isolated mental atom.
 
-**The Vaibhāṣika count of eleven**
+**`Vaibhāṣikāṇām ekādaśa` — the alternate count of eleven**
 
 The Bhāṣya records a school qualification:
 
@@ -178,7 +198,7 @@ Vaibhāṣika count
 
 Their reason is the non-merging (**asaṃbhinnatva**) of bodily and verbal karma. The dispute shows that *dravya* is an analytical criterion of operative differentiation, not a self-evident metaphysical substance.
 
-**Nāman and dravya revisited**
+**`Nāman / dravya` — name and constituent dharma**
 
 ```text
 nāman

@@ -81,12 +81,7 @@ it is not a claim that all six histories occur in one person.
 
 ### Bhāṣya-informed study translation
 
-> The immovable arhat is liberated without waiting for a suitable
-> occasion: concentration can become manifest at will. This arhat
-> comes from the seeing-attained trainee line. Among the six arhat
-> dispositions, some are present from the start; others are reached
-> by sharpening the faculties, even up to immovability. The type
-> names mark capacities—what can happen—not events that must occur.
+> The immovable arhat is liberated without waiting for a suitable occasion: concentration can become manifest at will. This arhat comes from the seeing-attained trainee line. Among the six arhat dispositions, some are present from the start; others are reached by sharpening the faculties, even up to immovability. The type names mark capacities—what can happen—not events that must occur.
 
 ### Translation note
 

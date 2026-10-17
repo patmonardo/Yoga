@@ -1,23 +1,22 @@
 # VAK 6.74 — Four Verified Confidences, Two Operative Realities
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 लाभो मार्गाभिसमये बुद्धतत्संघयोरपि ।
 धर्मः सत्यत्रयं बोधिसत्त्वप्रत्येकबुद्धयोः ॥ ६.७४ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 lābho mārgābhisamaye buddha-tat-saṃghayor api |
 dharmaḥ satya-trayaṃ bodhisattva-pratyekabuddhayoḥ || 6.74 ||
+```
 
 The Bhāṣya immediately continues the verse with **mārgaś ca**, “and the Path,” thereby including all four Truths in Dharma-confidence. The final compound **bodhisattva-pratyekabuddhayoḥ** is not separately explained in the surviving prose of this unit and must remain philologically open.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-lābhaḥ | mārga-abhisamaye | buddha-tat-saṃghayoḥ | api |
-dharmaḥ | satya-trayam | bodhisattva-pratyekabuddhayoḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -28,6 +27,11 @@ dharmaḥ | satya-trayam | bodhisattva-pratyekabuddhayoḥ
 | **dharmaḥ** | masculine nominative singular | Dharma as an object of verified confidence |
 | **satya-trayam** | neuter nominative singular | the triad of suffering, origin, and cessation |
 | **bodhisattva-pratyekabuddhayoḥ** | masculine dual compound in genitive/locative form | compressed reference to Bodhisattva and Pratyekabuddha; immediate syntactic function uncertain |
+
+```text
+lābhaḥ | mārga-abhisamaye | buddha-tat-saṃghayoḥ | api |
+dharmaḥ | satya-trayam | bodhisattva-pratyekabuddhayoḥ
+```
 
 The prose continuation **mārgaś ca** coordinates the Path with **satya-trayam**. Therefore “Dharma” in the completed Bhāṣya analysis includes all Four Truths rather than only the first three.
 
@@ -57,15 +61,28 @@ Dharma-object here
 
 No secure governing relation for **bodhisattvapratyekabuddhayoḥ** is supplied by the immediate prose. Its presence must be recorded without manufacturing a syntactic resolution.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+PATH-REALIZATION[ACQUIRED=BUDDHA-CONFIDENCE, SAṂGHA-CONFIDENCE]
+API[INCLUDES=DHARMA-CONFIDENCE, NOBLE-ETHICAL-CONFIDENCE]
+DHARMA-CONFIDENCE[OBJECT=THREE-TRUTHS + PATH-TRUTH]
+BODHISATTVA-PRATYEKABUDDHA-DUAL[ATTACHMENT=unresolved]
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-At direct realization of the Path there is also acquisition [of verified confidence] concerning the Buddha and his Saṃgha. Dharma is the triad of Truths—[and, according to the Bhāṣya, the Path also]. The Bodhisattva–Pratyekabuddha dual remains compressed in the transmitted verse.
+> At direct realization of the Path there is also acquisition [of verified confidence] concerning the Buddha and his Saṃgha. Dharma is the triad of Truths—[and, according to the Bhāṣya, the Path also]. The Bodhisattva–Pratyekabuddha dual remains compressed in the transmitted verse.
 
 ### Bhāṣya-informed study translation
 
-Direct realization of the Path-truth produces verified confidence in the Buddha and his community of noble disciples, while also including confidence in Dharma and noble ethical discipline. Dharma-confidence is ultimately grounded in direct realization of all Four Truths. The four verified confidences differ according to their objects, but reduce to two operative dharmas: confidence for Buddha, Dharma, and Saṃgha, and ethical discipline for the fourth. All four are uncontaminated, being settled confidence generated after the Truths have been understood as they really are.
+> At Seeing the Path, verified confidence in Buddha and his Saṃgha is also gained. Dharma embraces the three Truths and the Path; the verse names Bodhisattvas and solitary Buddhas without settling how they qualify this claim.
+
+### Translation note
+
+The Bhāṣya reads `api` as including Dharma and ethical confidence at Path-realization. It adds `mārgaś ca` to the three Truths, making all four Truths objects of Dharma-confidence. Its further analysis reduces the four confidences by object to two operative dharmas, `śraddhā` and `śīla`; this belongs in the Bhāṣya study rather than the verse translation. The transmitted Bodhisattva–Pratyekabuddha dual has no secure attachment in the immediate prose.
 
 ## 6. Philosophical Translation
 
@@ -75,7 +92,7 @@ These are four valid orientations because their objects differ, yet their operat
 
 ## 7. Technical Vocabulary
 
-**Completion of the four avetyaprasādas**
+**`Avetyaprasāda` — four verified confidences**
 
 The four named objects are:
 
@@ -100,7 +117,7 @@ seeing mārga
     → also Dharma- and ethical confidence
 ```
 
-**Dharma includes all Four Truths**
+**`Dharma / satyatraya / mārga` — Dharma includes all four Truths**
 
 The Kārikā says **dharmaḥ satyatrayam**, but the Bhāṣya immediately adds **mārgaś ca**. Its explicit conclusion is:
 
@@ -111,7 +128,7 @@ realization of all Four Truths
 
 The three-truth wording belongs to the distribution of acquisition begun in 6.73; it must not become a general reduction of Dharma to only three Truths.
 
-**Four by name, two by dravya**
+**`Nāman / dravya` — four names, two operative dharmas**
 
 The Bhāṣya repeats the analytical form used for the thirty-seven factors:
 
@@ -131,7 +148,7 @@ The three confidences are one underlying **śraddhā**, differentiated by their 
 
 This reduction does not erase the four objects. Object-difference is exactly what generates the four valid Path-determinations.
 
-**All four are pure**
+**`Nirmala / anāsrava` — all four are uncontaminated**
 
 The Bhāṣya asks whether they can be contaminated or uncontaminated and answers:
 
@@ -142,7 +159,7 @@ nirmalāḥ
 
 Avetyaprasāda is therefore not ordinary confidence merely directed toward Buddhist objects. It belongs to noble realization and is exclusively **anāsrava**.
 
-**Definition of avetyaprasāda**
+**`Yathābhūta-avabodha / saṃpratyaya` — the genesis of verified confidence**
 
 The decisive sentence is:
 
@@ -166,7 +183,7 @@ avetyaprasāda
 
 Knowledge is explanatory prior. Confidence is the stabilization generated by realization, not a substitute for it.
 
-**Buddha and Saṃgha as Path-objects**
+**`Buddha / Saṃgha` — objects of Path confidence**
 
 The preceding Bhāṣya explanation determines them through dharmas:
 
@@ -181,7 +198,7 @@ Saṃgha
 
 Confidence in Buddha and Saṃgha therefore arises internally from Path-realization. They are not unrelated devotional objects added after knowledge.
 
-**The practical analogies**
+**`Vaidya / bhaiṣajya / deśika` — practical analogies**
 
 In emergent reflection, the Bhāṣya orders the four confidences through two analogy-systems:
 
@@ -195,7 +212,7 @@ Buddha        Dharma       Saṃgha        ethical discipline
 
 These analogies do not define the dravyas; they display the four objects as one practical system of orientation.
 
-**The unresolved dual compound**
+**`Bodhisattva-pratyekabuddhayoḥ` — unresolved dual compound**
 
 The transmitted **bodhisattvapratyekabuddhayoḥ** is textually present but receives no separate explanation in the preserved prose for this unit. It should therefore remain marked:
 

@@ -1,23 +1,22 @@
 # VAK 6.66 — Four Courses of Path-Progress
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 ध्यानेषु मार्गः प्रतिपत्सुखा दुःखान्यभूमिषु ।
 दन्धाभिज्ञा मृदुमतेः क्षिप्राभिज्ञेतरस्य तु ॥ ६.६६ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 dhyāneṣu mārgaḥ pratipat sukhā duḥkhānyabhūmiṣu |
 dhandhābhijñā mṛdumateḥ kṣiprābhijñetarasya tu || 6.66 ||
+```
 
 The electronic kārikā witness also transmits **dhanyābhijñā**, but the explanatory prose consistently reads and defines the technical contrast **dhandhābhijñā / kṣiprābhijñā**, slow and quick realization. The controlled reading follows that explicit Bhāṣya determination.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-dhyāneṣu | mārgaḥ | pratipat | sukhā | duḥkhā | anya-bhūmiṣu |
-dhandha-abhijñā | mṛdu-mateḥ | kṣipra-abhijñā | itarasya | tu
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -32,6 +31,11 @@ dhandha-abhijñā | mṛdu-mateḥ | kṣipra-abhijñā | itarasya | tu
 | **kṣipra-abhijñā** | feminine nominative singular compound | having quick realization |
 | **itarasya** | masculine genitive singular | for the other, one of sharp faculty |
 | **tu** | adversative particle | but, by contrast |
+
+```text
+dhyāneṣu | mārgaḥ | pratipat | sukhā | duḥkhā | anya-bhūmiṣu |
+dhandha-abhijñā | mṛdu-mateḥ | kṣipra-abhijñā | itarasya | tu
+```
 
 The Bhāṣya replaces the verse’s **mati** language with the technical faculty contrast **mṛdvindriya / tīkṣṇendriya**.
 
@@ -59,15 +63,29 @@ easy / difficult
 slow / quick realization
 ```
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+COURSE[GROUND=four-dhyānas, EASE=easy]
+COURSE[GROUND=other-contemplative-grounds, EASE=difficult]
+COURSE[FACULTY=mild, REALIZATION=slow]
+COURSE[FACULTY=sharp, REALIZATION=quick]
+EASE × SPEED → FOUR-POSSIBLE-COURSES
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-In the dhyānas the Path is an easy course; in the other grounds it is difficult. For one of mild faculty it has slow realization, but for the other it has quick realization.
+> In the dhyānas the Path is an easy course; in the other grounds it is difficult. For one of mild faculty it has slow realization, but for the other it has quick realization.
 
 ### Bhāṣya-informed study translation
 
-The Path is an easy course in the four dhyānas, where its requisite factors are present, calm and insight are balanced, and progress flows without strenuous effort. In the preparatory concentration, intermediate concentration, and immaterial grounds it is difficult because the Path-factors are incomplete and calm or insight is deficient. Independently, realization is slow for one of dull faculty and quick for one of sharp faculty, producing four possible courses of progress.
+> In the four dhyānas, where calm and insight are balanced, the Path is an easy course; on the other grounds their imbalance makes it difficult. Whether realization is slow or quick depends on faculty: it is slow for one of mild faculty and quick for one of sharp faculty.
+
+### Translation note
+
+The Bhāṣya grounds **sukhā** in possessed factors, balanced calm and insight, and progress without strain; other grounds lack that balance. The verse’s second distinction concerns faculty, not ground, so easy progress can be slow and difficult progress quick. The running verse reads `dhanyābhijñā`, while the prose repeatedly gives and explains `dhandhābhijñā`; the study follows the latter and records the former in the source witness.
 
 ## 6. Philosophical Translation
 
@@ -77,7 +95,7 @@ Ease and speed are therefore not the same determination. An easy field may be tr
 
 ## 7. Technical Vocabulary
 
-**Mārga as pratipad**
+**`Mārga / pratipad` — Path as course of progress**
 
 The Bhāṣya says that Mārga is also called **pratipad** because it conducts one to nirvāṇa:
 
@@ -91,7 +109,7 @@ pratipad
 
 This is a change of determination, not the introduction of another Path.
 
-**The four courses**
+**`Sukhā / duḥkhā × dhandhā / kṣiprā` — four courses**
 
 Vasubandhu enumerates:
 
@@ -109,7 +127,7 @@ They result from a two-axis matrix:
 | Four dhyānas | easy and slow | easy and quick |
 | Other grounds | difficult and slow | difficult and quick |
 
-**Easy progress in the four dhyānas**
+**`Sukhā pratipad / dhyāna` — easy progress in the four dhyānas**
 
 The Bhāṣya gives three determinations:
 
@@ -126,7 +144,7 @@ ayatna-vāhitva
 
 Accordingly, **sukhā** does not principally mean pleasant sensation. It means a course adequately supported by its contemplative structure.
 
-**Difficult progress in the other grounds**
+**`Duḥkhā pratipad / anya-bhūmi` — difficult progress elsewhere**
 
 The relevant grounds are:
 
@@ -155,7 +173,7 @@ Because the requisite configuration is incomplete, the course proceeds through e
 
 These **ārūpya-bhūmis** are contemplative grounds. They should not be confused with the existential Ārūpyadhātu, although the attainments have a systematic relation to that domain.
 
-**Slow and quick realization**
+**`Dhandhābhijñā / kṣiprābhijñā` — pace of realization**
 
 The second axis is determined by faculty:
 
@@ -171,11 +189,11 @@ tīkṣṇendriya
 
 The Bhāṣya allows the compound **dhandhābhijñā** to be construed either as a course on which realization is slow or as the course belonging to a slow person. Both construals preserve faculty-strength as the operative determination.
 
-**Textual caution**
+**`Dhanyābhijñā / dhandhābhijñā` — witness and prose reading**
 
 The kārikā line is transmitted as **dhanyābhijñā** in one electronic form. The Bhāṣya repeatedly gives **dhandhābhijñā**, defines its meaning, and pairs it with **kṣiprābhijñā**. The latter is therefore adopted as the doctrinally controlled text while the variant remains recorded.
 
-**Transition to Bodhipakṣya**
+**`Bodhipakṣya` — the Path named from its relation to Awakening**
 
 At the close of the passage, the Bhāṣya says:
 

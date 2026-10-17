@@ -1,27 +1,26 @@
 # VAK 6.73 — Limits of Ground and Verified Confidence
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 कामधातौ भवाग्रे च बोधिमार्गाङ्गवर्जिताः ।
 त्रिसत्यदर्शने शीलधर्मावेत्यप्रसादयोः ॥ ६.७३ ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 kāmadhātau bhavāgre ca bodhimārgāṅgavarjitāḥ |
 trisatyadarśane śīladharmāvetyaprasādayoḥ || 6.73 ||
+```
 
 The first half completes the distribution of the thirty-seven factors by ground. The second opens a new question within the Bodhi-aligned Path: when does verified confidence arise, and which object does direct realization verify?
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-kāma-dhātau | bhava-agre | ca | bodhi-aṅga-mārga-aṅga-varjitāḥ |
-tri-satya-darśane | śīla-dharma-avetya-prasādayoḥ
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
-| **kāma-dhātau** | masculine locative singular | in the desire domain, here as a ground to which factors are assigned |
+| **kāma-dhātau** | masculine locative singular | in the desire realm, here as a ground to which factors are assigned |
 | **bhava-agre** | neuter locative singular | at the summit of existence, the highest formless ground |
 | **bodhi-aṅga** | compound member | factor of awakening |
 | **mārga-aṅga** | compound member | factor of the Noble Path |
@@ -29,7 +28,12 @@ tri-satya-darśane | śīla-dharma-avetya-prasādayoḥ
 | **tri-satya-darśane** | neuter locative singular compound | at the seeing of the first three Truths |
 | **śīla** | compound member | ethical discipline dear to the noble ones |
 | **dharma** | compound member | Dharma as object of verified confidence |
-| **avetya-prasādayoḥ** | masculine locative dual | in the two verified confidences; syntactically compressed acquisition-context |
+| **avetya-prasādayoḥ** | masculine genitive or locative dual | of or in the two verified confidences; syntactically compressed acquisition-context |
+
+```text
+kāma-dhātau | bhava-agre | ca | bodhi-aṅga-mārga-aṅga-varjitāḥ |
+tri-satya-darśane | śīla-dharma-avetya-prasādayoḥ
+```
 
 The second half is elliptical. The Bhāṣya supplies “acquisition” (**pratilambha**) and explains the dual as confidence concerning Dharma and concerning noble ethical discipline.
 
@@ -52,25 +56,37 @@ tri-satya-darśane
 
 The fourth Truth and the other two confidences are supplied by the Bhāṣya and completed in 6.74.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+DESIRE-REALM[AWAKENING-FACTORS=absent, NOBLE-PATH-FACTORS=absent]
+BHAVĀGRA[AWAKENING-FACTORS=absent, NOBLE-PATH-FACTORS=absent]
+FIRST-THREE-TRUTHS[SEEN=true, ACQUIRED=DHARMA-CONFIDENCE, NOBLE-ETHICAL-CONFIDENCE]
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-In the desire domain and at the summit of existence, they are deprived of the factors of awakening and factors of the Path. At the seeing of the three Truths, [there is acquisition] of the two verified confidences concerning ethical discipline and Dharma.
+> In the desire realm and at the summit of existence, they are deprived of the factors of awakening and factors of the Path. At the seeing of the three Truths, [there is acquisition] of the two verified confidences concerning ethical discipline and Dharma.
 
 ### Bhāṣya-informed study translation
 
-Only twenty-two Bodhi-aligned factors are assigned to Kāmadhātu and Bhavāgra, since neither ground supports the uncontaminated Path and therefore neither contains the seven Bodhyaṅgas or eight Noble Mārgāṅgas. When suffering, origin, and cessation are directly realized, the practitioner acquires verified confidence in Dharma and in the ethical discipline cherished by the noble ones. Realization of the Path-truth will supply verified confidence in Buddha and Saṃgha while also including the former two.
+> In the desire realm and at the summit of existence, awakening and Noble Path factors are absent: neither ground supports the uncontaminated Path. Seeing suffering, origin, and cessation brings verified confidence in Dharma and in the ethical discipline dear to the noble ones.
+
+### Translation note
+
+The Bhāṣya counts twenty-two factors in each ground and explains the missing groups by the absence of an uncontaminated Path there. It supplies acquisition (`lābha`) for the compressed second line and names suffering, origin, and cessation as the three Truths. The Path-truth and the remaining confidences open 6.74, so they are left out of this verse translation.
 
 ## 6. Philosophical Translation
 
-The highest conditioned ground and the ordinary desire domain meet at one limit: neither is itself a ground of uncontaminated Path-operation. Extremes of sensuous involvement and conditioned formless refinement therefore lack the specifically noble awakening- and Path-functions, although other Bodhi-aligned cultivation remains possible.
+The highest conditioned ground and the ordinary desire realm meet at one limit: neither is itself a ground of uncontaminated Path-operation. Extremes of sensuous involvement and conditioned formless refinement therefore lack the specifically noble awakening- and Path-functions, although other Bodhi-aligned cultivation remains possible.
 
 Direct Seeing then transforms confidence. Prasāda is no longer anticipatory trust directed toward an unseen result; it becomes settled clarity grounded in comprehension of Truth. The Path generates its own verified orientation through realization.
 
 ## 7. Technical Vocabulary
 
-**Twenty-two factors in Kāmadhātu and Bhavāgra**
+**`Kāmadhātu / Bhavāgra` — twenty-two factors in each ground**
 
 The count is:
 
@@ -91,7 +107,7 @@ no anāsrava-mārga assigned to the ground
 
 The five remaining groups may be contaminated or uncontaminated in principle, as 6.71 established; here the ground itself lacks the uncontaminated Path-functions technically designated by the final two groups.
 
-**Kāmadhātu as ground, not personal incapacity**
+**`Kāmadhātu / bhūmi` — ground assignment and the practitioner's realm**
 
 This statement must not be inferred:
 
@@ -100,7 +116,7 @@ a being presently born in Kāmadhātu
     cannot generate the Noble Path
 ```
 
-The distribution concerns the **bhūmi** to which a Path-dharma belongs. A practitioner with a desire-domain existential basis can generate an uncontaminated Path belonging to an eligible contemplative ground such as anāgamya or a dhyāna.
+The distribution concerns the **bhūmi** to which a Path-dharma belongs. A practitioner with a desire-realm existential basis can generate an uncontaminated Path belonging to an eligible contemplative ground such as anāgamya or a dhyāna.
 
 Thus:
 
@@ -112,7 +128,7 @@ Path-dharma’s contemplative ground
 
 This distinction prevents the existential Kāmadhātu from being treated as an absolute prohibition on awakening.
 
-**Bhavāgra**
+**`Bhavāgra` — the summit of conditioned existence**
 
 Bhavāgra is the summit of conditioned existence, the attainment of neither perception nor non-perception:
 
@@ -123,7 +139,7 @@ highest conditioned refinement
 
 Its subtlety does not convert it into the unconditioned. In the present system it supports twenty-two Bodhi-aligned functions but not the Bodhyaṅgas and Noble Mārgāṅgas.
 
-**Transition from distribution to acquisition**
+**`Bodhipakṣya / lābha` — from distribution to acquisition**
 
 Vasubandhu asks:
 
@@ -143,7 +159,7 @@ what direct realization generates
 in the practitioner
 ```
 
-**Avetyaprasāda**
+**`Avetyaprasāda` — verified confidence**
 
 The compound joins:
 
@@ -165,7 +181,7 @@ direct realization
 
 This is not blind belief and not merely assent to a proposition.
 
-**Seeing the first three Truths**
+**`Trisatya-darśana` — Seeing the first three Truths**
 
 Direct realization of:
 
@@ -192,7 +208,7 @@ Dharma
 
 The ethical confidence is not verification of conventional morality in isolation. It concerns the uncontaminated ethical discipline belonging to noble Path-actuality.
 
-**The fourth Truth and four confidences**
+**`Mārga-satya` — the fourth Truth and four confidences**
 
 The Bhāṣya anticipates the continuation:
 
@@ -205,7 +221,7 @@ seeing Mārga-satya
 
 The word **api** carrying this inclusion belongs to the next verse’s construal and should not be inserted into the primary translation of 6.73.
 
-**Dharmic constitution of Buddha and Saṃgha**
+**`Buddha / Saṃgha` — their dharmic constitution**
 
 The Bhāṣya explains confidence in these objects through their dharmic constitution:
 

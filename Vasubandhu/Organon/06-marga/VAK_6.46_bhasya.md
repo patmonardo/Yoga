@@ -5,13 +5,7 @@
 > laukikenārya-vairāgye visaṃyogāptayo dvidhā |
 > lokottareṇa cety eke tyakte kleśāsamanvayāt || 6.46 ||
 
-> When an Ārya gains dispassion through a mundane Path, both mundane
-> and supramundane attainments of separation arise. Some say the same
-> happens through a supramundane Path: if no mundane attainment arose,
-> they argue, relinquishing the supramundane one during a change of
-> faculties would restore possession of the afflictions. The Bhāṣya
-> answers with two counterexamples. Loss of an attainment does not by
-> itself prove renewed possession of an abandoned affliction.
+> When an Ārya gains dispassion through a mundane Path, both mundane and supramundane attainments of separation arise. Some say the same happens through a supramundane Path: if no mundane attainment arose, they argue, relinquishing the supramundane one during a change of faculties would restore possession of the afflictions. The Bhāṣya answers with two counterexamples. Loss of an attainment does not by itself prove renewed possession of an abandoned affliction.
 
 The first twofold acquisition is asserted. `Eke` introduces a
 reported extension, and the Bhāṣya tests the argument for it.

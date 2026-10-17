@@ -1,23 +1,22 @@
 # VAK 6.70 — Developmental Predominance of the Seven Groups
 
-## 1. Sanskrit Devanāgarī
+## 1. Sanskrit (Devanāgarī)
 
+```sanskrit
 आदिकर्मिकनिर्वेधभागीयेषु प्रभाविताः ।
 भावने दर्शने चैव सप्त वर्गा यथाक्रमम् ॥ ६.७० ॥
+```
 
-## 2. Sanskrit IAST
+## 2. Sanskrit (IAST)
 
+```text
 ādikarmika-nirvedhabhāgīyeṣu prabhāvitāḥ |
 bhāvane darśane caiva sapta vargā yathākramam || 6.70 ||
+```
 
 The seven Bodhi-aligned groups are not assigned as mutually exclusive possessions. The governing term is **prabhāvitāḥ**: each group is especially developed or brought to predominance at a corresponding developmental position.
 
-## 3. Padaccheda and Lexical Analysis
-
-**Padaccheda**
-
-ādi-karmike | nirvedha-bhāgīyeṣu | prabhāvitāḥ |
-bhāvane | darśane | ca | eva | sapta | vargāḥ | yathā-kramam
+## 3. Lexical Analysis
 
 | Form | Analysis | Contextual force |
 |---|---|---|
@@ -30,6 +29,11 @@ bhāvane | darśane | ca | eva | sapta | vargāḥ | yathā-kramam
 | **sapta** | numeral | seven |
 | **vargāḥ** | masculine nominative plural | groups or classes |
 | **yathā-kramam** | indeclinable | in corresponding order, according to sequence |
+
+```text
+ādi-karmike | nirvedha-bhāgīyeṣu | prabhāvitāḥ |
+bhāvane | darśane | ca | eva | sapta | vargāḥ | yathā-kramam
+```
 
 The plural **nirvedhabhāgīyeṣu** supplies four internal positions—Heat, Summits, Receptivity, and Highest Mundane Dharmas—so the four locative expressions yield seven stages altogether.
 
@@ -53,15 +57,33 @@ beginner
 
 The grammar expresses ordered predominance, not exclusive presence. Other Bodhi-aligned qualities remain operative at every stage.
 
+**Future Feature Grammar sketch (not executable):**
+
+```text
+SEVEN-BODHI-ALIGNED-GROUPS[RELATION=predominant-at]
+  → BEGINNER[GROUP=establishments-of-recollection]
+  → HEAT[GROUP=right-abandonments]
+  → SUMMITS[GROUP=bases-of-power]
+  → ACCEPTANCE[GROUP=faculties]
+  → HIGHEST-MUNDANE-DHARMAS[GROUP=powers]
+  → CULTIVATION[GROUP=awakening-factors]
+  → SEEING[GROUP=Path-factors]
+PREDOMINANT-AT ≠ PRESENT-ONLY-AT
+```
+
 ## 5. Translation
 
 ### Literal Translation
 
-The seven groups are especially developed, in corresponding sequence, in the beginner, in the factors conducive to penetration, in Cultivation, and in Seeing.
+> The seven groups are especially developed, in corresponding sequence, in the beginner, in the factors conducive to penetration, in Cultivation, and in Seeing.
 
 ### Bhāṣya-informed study translation
 
-The seven Bodhi-aligned groups are brought successively to predominance: the establishments of recollection in the beginner; the right abandonments at Heat; the bases of spiritual power at the Summits; the faculties at Receptivity; the powers at the Highest Mundane Dharmas; the factors of awakening in the Path of Cultivation; and the factors of the Noble Path in the Path of Seeing. This primary allocation marks characteristic predominance rather than exclusive occurrence; the Bhāṣya also preserves an alternative distribution of the final two groups.
+> The seven Bodhi-aligned groups come to the fore in sequence. Establishments of recollection guide the beginner; right abandonments, bases of power, faculties, and powers mark Heat, Summits, Acceptance, and the Highest Mundane Dharmas respectively; awakening factors predominate in cultivation, and Path factors in Seeing.
+
+### Translation note
+
+**Prabhāvitāḥ** describes characteristic development, not exclusive occurrence. The Bhāṣya unfolds the four stages inside **nirvedhabhāgīyeṣu** as Heat, Summits, Acceptance, and Highest Mundane Dharmas. The anchor follows the first allocation of the last two groups, cultivation then Seeing. An attributed alternative places awakening factors in Seeing and extends the eightfold Path across Seeing and cultivation; the full Bhāṣya keeps the two accounts distinct.
 
 ## 6. Philosophical Translation
 
@@ -71,7 +93,7 @@ Development is therefore neither replacement nor simple accumulation. Earlier fu
 
 ## 7. Technical Vocabulary
 
-**The primary sevenfold distribution**
+**`Sapta vargāḥ / yathākramam` — primary sevenfold distribution**
 
 | Developmental position | Predominant group | Bhāṣya’s primary reason |
 |---|---|---|
@@ -85,7 +107,7 @@ Development is therefore neither replacement nor simple accumulation. Earlier fu
 
 The seven are stated before the eight to maintain the ascending numerical order of the canonical groups. The order of enumeration is therefore not itself proof that the seven Bodhyaṅgas must precede the eight Mārgāṅgas temporally in every account.
 
-**Prabhāvita: predominance, not exclusion**
+**`Prabhāvita` — characteristic predominance**
 
 The question opening the Bhāṣya is:
 
@@ -106,7 +128,7 @@ associated groups
 
 No group simply vanishes when the next becomes principal.
 
-**Beginner: the establishments of recollection**
+**`Ādikarmika / smṛtyupasthāna` — the beginning practitioner**
 
 Their immediate task is **kāyādyupalakṣaṇa**, discerning body and the remaining fields. The alternative masters add that recollection restrains cognition dispersed among many objects and removes conceptual positings connected with craving.
 
@@ -116,7 +138,7 @@ scattered cognition
     → discriminative examination becomes possible
 ```
 
-**Heat: the right abandonments**
+**`Uṣmagata / samyakprahāṇa` — right abandonment at Heat**
 
 Once a special attainment has begun, vīrya becomes decisive for the four tasks:
 
@@ -127,15 +149,15 @@ produce the unarisen wholesome
 develop the arisen wholesome
 ```
 
-**Summits: the bases of spiritual power**
+**`Mūrdhan / ṛddhipāda` — bases of power at the Summits**
 
 The practitioner has entered wholesome roots characterized as non-declining (**aparihāṇīya-kuśalamūla**). Samādhi can now function as the stable basis of accomplishment.
 
-**Receptivity: the faculties**
+**`Kṣānti / indriya` — faculties at Acceptance**
 
 The factors acquire **ādhipatya**, governing efficacy, with respect to supramundane dharmas. This is the Path-form of Indriya: not an inert capacity but a rule capable of determining subsequent operation.
 
-**Highest Mundane Dharmas: the powers**
+**`Laukikāgradharma / bala` — powers at the Highest Mundane Dharmas**
 
 The same five factors become **balas** once their contrary factors can no longer overcome them:
 
@@ -149,7 +171,7 @@ power
 
 No new five dravyas are introduced; efficacy has reached a new degree.
 
-**The primary final allocation**
+**`Bhāvanā / darśana` — the primary final allocation**
 
 The Kārikā’s direct sequential construal, as explained first by the Bhāṣya, is:
 
@@ -165,7 +187,7 @@ darśanamārga
 
 The Vaibhāṣikas add that investigation of dharmas is both Bodhi and a factor of Bodhi, while right view is both Path and a factor of Path.
 
-**Alternative masters on the final groups**
+**`Apare` — alternate allocation of the final groups**
 
 The Bhāṣya preserves another account (**apare**):
 
@@ -181,7 +203,7 @@ darśanamārga + bhāvanāmārga
 
 This alternative agrees on the developmental sequence while modifying the placement of the last two groups. It should not be silently merged into the primary allocation.
 
-**The alternative genetic explanation**
+**`Ānupūrvī` — the alternate developmental sequence**
 
 Its full movement is:
 
