@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > parihāṇis tridhā jñeyā prāptāprāptopabhogataḥ |
+>
 > antyā śāstur akopyasya madhyā cānyasya tu tridhā || 6.59 ||
 
 > “Falling away” can mean losing a quality already attained,

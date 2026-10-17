@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ādye dve parihāṇyā ca maules tatraiva satyadṛk |
+>
 > apūrvāptir vihīneṣu hānī dve asamanvitiḥ || 6.22 ||
 
 > An ordinary practitioner may lose Heat and Summits through regression as

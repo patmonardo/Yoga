@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > sa dharmasmṛtyupasthāne samastālambane sthitaḥ |
+>
 > ānityaduḥkhataḥ śūnyānātmatas tān vipaśyati || 6.16 ||
 
 > Having cultivated the establishments for body, feeling, consciousness, and

@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ādikarmika-nirvedhabhāgīyeṣu prabhāvitāḥ |
+>
 > bhāvane darśane caiva sapta vargā yathākramam || 6.70 ||
 
 > The seven Bodhi-aligned groups come to the fore in sequence. Establishments of recollection guide the beginner; right abandonments, bases of power, faculties, and powers mark Heat, Summits, Acceptance, and the Highest Mundane Dharmas respectively; awakening factors predominate in cultivation, and Path factors in Seeing.

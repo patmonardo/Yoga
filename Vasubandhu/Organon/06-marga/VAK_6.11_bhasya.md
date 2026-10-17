@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > atikrānta-manaskāro bhrūmadhye citta-dhāraṇāt |
+>
 > alobho daśabhūḥ kāma-dṛśyālambā nṛjāśubhā || 6.11 ||
 
 > Having released even the remaining half-skull, the practitioner holds

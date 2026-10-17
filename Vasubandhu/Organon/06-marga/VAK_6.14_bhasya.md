@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > niṣpanna-śamathaḥ kuryāt smṛtyupasthāna-bhāvanām |
+>
 > kāya-vic-citta-dharmāṇāṃ dvi-lakṣaṇa-parīkṣaṇāt || 6.14 ||
 
 > After the two entry practices yield concentration and accomplished śamatha,

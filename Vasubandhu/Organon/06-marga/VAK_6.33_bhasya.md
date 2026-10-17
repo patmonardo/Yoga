@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > nava-prakārā doṣā hi bhūmau bhūmau tathā guṇāḥ |
+>
 > mṛdu-madhyādhimātrāṇāṃ punar mṛdv-ādi-bhedataḥ || 6.33 ||
 
 > In every ground through the summit of existence, afflictions and their

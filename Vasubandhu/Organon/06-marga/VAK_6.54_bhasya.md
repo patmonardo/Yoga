@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > brāhmaṇyaṃ brahmacakraṃ ca tad eva brahmavartanāt |
+>
 > dharmacakraṃ tu dṛṅmārga āśugatvād arādibhiḥ || 6.54 ||
 
 > The uncontaminated Path is brāhmaṇya because it carries away afflictions, and the Brahma-wheel because the Buddha, called Brahmā for unsurpassed brāhmaṇya, sets it in motion. The Path of Seeing is called the Dharma-wheel for its swift, wheel-like action. Ghoṣaka describes the eightfold Path through spokes, hub, and rim. The three-turning, twelve-aspect wheel also fits the Dharma exposition: its Meaning is made known and enters another continuum, where Seeing arises. The whole noble Path can likewise be called a wheel as it moves through the continuums of those being trained.

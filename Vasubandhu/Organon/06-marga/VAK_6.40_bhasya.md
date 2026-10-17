@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ūrdhva-srotur abhedena sapta sad-gatayo matāḥ |
+>
 > sad-asad-vṛtty-avṛttibhyāṃ gatāpratyāgateś ca tāḥ || 6.40 ||
 
 > The sūtra counts seven courses of the good person by treating the

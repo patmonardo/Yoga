@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > śrutacintāmayaṃ trīṇi karmāṇy ākṣipyate nṛṣu |
+>
 > laukikebhyo 'gradharmebhyo dharmakṣāntir anāsravā || 6.25 ||
 
 > The root conducive to liberation is hearing-born or reflection-born and

@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > duḥkhās tri-duḥkhatā-yogād yathāyogam aśeṣataḥ |
+>
 > manāpā amanāpāś ca tadanye caiva sāsravāḥ || 6.3 ||
 
 > All contaminated formations are suffering without exception, each according

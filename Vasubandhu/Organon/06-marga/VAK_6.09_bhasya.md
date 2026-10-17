@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > tatrāvatāro ’śubhayā cānāpānasmṛtena ca |
+>
 > adhirāgavitarkāṇāṃ śaṃkalā sarvarāgiṇām || 6.9 ||
 
 > Entry into cultivation is through contemplation of the unattractive for

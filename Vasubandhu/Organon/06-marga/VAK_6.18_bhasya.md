@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ubhayākaraṇaṃ dharmeṇānyair api tu vardhanam |
+>
 > tebhyaḥ kṣāntir dvidhā tadvat kṣāntyā dharmeṇa vardhanam || 6.18 ||
 
 > Heat and the Summits first form through the dharma establishment, when the

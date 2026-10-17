@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > yatra bhinnena tadbuddhir anyāpohe dhiyā ca tat |
+>
 > ghaṭārthavat saṃvṛtisat paramārthasad anyathā || 6.4 ||
 
 > What is conventionally real loses its distinct cognition when its parts are

@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > tat-kṣayāptyā kṣaya-jñānam aśaikṣo 'rhann asau tadā |
+>
 > lokottareṇa vairāgyaṃ bhavāgrād anyato dvidhā || 6.45 ||
 
 > When the last summit grade has been broken by diamond-like concentration,

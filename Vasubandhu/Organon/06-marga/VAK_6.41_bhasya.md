@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > na parāvṛtta-janmāryaḥ kāme dhātv-antaropagaḥ |
+>
 > sa cordhva-jaś ca naivākṣa-saṃcāra-parihāṇi-bhāk || 6.41 ||
 
 > A Noble who has undergone another birth in the desire-realm reaches

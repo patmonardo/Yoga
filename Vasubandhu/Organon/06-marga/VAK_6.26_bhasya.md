@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > kāmaduḥkhe tato 'traiva dharmajñānaṃ tathā punaḥ |
+>
 > śeṣe duḥkhe 'nvayakṣāntijñāne satyatraye tathā || 6.26 ||
 
 > Immediately after Dharma-Knowing-Acceptance concerning desire-realm

@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > prajñā śrutādimayī anye saṃsargālambanāḥ kramaḥ |
+>
 > yathotpatti catuṣkaṃ tu viparyāsavipakṣataḥ || 6.15 ||
 
 > By nature, an establishment of recollection is Prajñā formed through

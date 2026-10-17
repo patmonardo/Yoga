@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ākīryate caturthaṃ prāk niṣpatti-kṣaṇa-miśraṇāt |
+>
 > upapatti-vihārārthaṃ kleśa-bhīrutayāpi ca || 6.42 ||
 
 > The fourth dhyāna is intermingled first because it is serviceable for every task. The practice can support rebirth in the Pure Abodes, pleasant abiding here, or protection from renewed affliction, according to the practitioner's faculty and fruit. The Vaibhāṣikas locate its completion in a contaminated moment between two uncontaminated ones; Vasubandhu holds that only a Buddha could mix individual moments, so for other practitioners completion is mastery of three continuous streams.

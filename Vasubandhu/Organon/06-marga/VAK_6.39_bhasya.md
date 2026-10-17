@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > punas trīṃs trividhān kṛtvā nava rūpopagāḥ smṛtāḥ |
+>
 > tad-viśeṣaḥ punaḥ karma-kleśendriya-viśeṣataḥ || 6.39 ||
 
 > Three form-going non-returner types—those completing in an

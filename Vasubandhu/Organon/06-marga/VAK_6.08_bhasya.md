@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > karmāntena tribhir vṛttis tṛṣṇotpāda-vipakṣataḥ |
+>
 > mamāhaṃkāra-vastv-icchā tat-kālātyanta-śāntaye || 6.8 ||
 
 > Three noble lineages sustain livelihood through contentment with robes,

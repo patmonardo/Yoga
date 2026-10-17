@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > lābho mārgābhisamaye buddha-tat-saṃghayor api |
+>
 > dharmaḥ satya-trayaṃ bodhisattva-pratyekabuddhayoḥ || 6.74 ||
 
 > At Seeing the Path, verified confidence in Buddha and his Saṃgha is also gained. Dharma embraces the three Truths and the Path; the verse names Bodhisattvas and solitary Buddhas without settling how they qualify this claim.

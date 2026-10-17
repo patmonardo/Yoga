@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > kṣīṇa-saptāṣṭa-doṣāṃśa ekajanmaikavīcikaḥ |
+>
 > tṛtīya-pratipannaś ca so 'nāgāmi nava-kṣayāt || 6.36 ||
 
 > The once-returner who has abandoned seven or eight desire-realm

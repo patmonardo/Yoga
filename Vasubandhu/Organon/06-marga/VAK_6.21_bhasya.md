@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > kāmāśrayāṇy agradharmān dvayāśrayān labhate 'ṅganā |
+>
 > bhūmityāgāt tyajaty āryas tāny anāryas tu mṛtyunā || 6.21 ||
 
 > All four roots conducive to penetration have a living support in the

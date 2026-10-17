@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > phale phalaviśiṣṭasya lābho mārgasya nāsty ataḥ |
+>
 > nāprayukto viśeṣāya phalasthaḥ pratipannakaḥ || 6.32 ||
 
 > At the sixteenth moment, even one who had previously abandoned five

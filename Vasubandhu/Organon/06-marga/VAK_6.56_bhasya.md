@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ṣaḍarhanto matās teṣāṃ pañca śraddhādhimuktijāḥ |
+>
 > vimuktiḥ sāmayiky eṣām akopyākopyadharmaṇaḥ || 6.56 ||
 
 > The sūtra distinguishes six kinds of arhats. Five were formerly faith-resolved trainees; their liberation of consciousness requires continual guarding, and concentration becomes manifest when requisites, health, and place are suitable. They are liberated in dependence on occasion. The sixth, the *akopyadharman*, has unshakeable liberation: it cannot be disturbed or lost.

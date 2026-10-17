@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > asaṃskṛtā kleśahānam adhimuktas tu saṃskṛtā |
+>
 > sāṅgaḥ saiva vimuktī dve jñānaṃ bodhir yathoditā || 6.76 ||
 
 > Unconditioned liberation is the abandonment of afflictions; conditioned liberation is the determination of one beyond training. The unconditioned is counted with that one's Path factors; the conditioned is called liberation of consciousness and liberation through Prajñā. Right Knowing is Bodhi as already stated: Knowing of exhaustion and non-arising.

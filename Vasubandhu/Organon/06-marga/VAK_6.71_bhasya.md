@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > anāsravāṇi bodhyaṅgamārgāṅgāni dvidhetare |
+>
 > sakalāḥ prathame dhyāne anāgamye prītivarjitāḥ || 6.71 ||
 
 > Awakening factors and Noble Path factors are uncontaminated in their strict Path use; the other five groups can occur in contaminated or uncontaminated form. The first dhyāna supports all thirty-seven factors, while preliminary concentration lacks joy because its effortful footing cannot sustain it.

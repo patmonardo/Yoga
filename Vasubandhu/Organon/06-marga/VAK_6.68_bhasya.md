@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > śraddhā vīryaṃ smṛtiḥ prajñā samādhiḥ prītyupekṣaṇe |
+>
 > praśrabdhiśīlasaṃkalpāḥ prajñā hi smṛtyupasthitiḥ || 6.68 ||
 
 > The thirty-seven Bodhi-aligned functions rest on ten dharmas: confidence, energy, recollection, Prajñā, collectedness, joy, equanimity, pliancy, ethical discipline, and resolve. The establishments of recollection count as Prajñā because discernment is their governing operation.

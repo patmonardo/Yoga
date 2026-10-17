@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > kṣāntijñānāny ānantaryamuktimārgā yathākramam |
+>
 > adṛṣṭadṛṣṭer dṛṅmārgas tatra pañcadaśa kṣaṇāḥ || 6.28 ||
 
 > Each Acceptance is an uninterrupted path that severs possession of the

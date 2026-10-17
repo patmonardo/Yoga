@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > vyapakarṣa-dvayavato nāsantuṣṭa-mahecchayoḥ |
+>
 > labdhe bhūyaḥ-spṛhātuṣṭir alabdhēcchā mahecchatā || 6.6 ||
 
 > Cultivation is readily sustained by one withdrawn in body and consciousness,

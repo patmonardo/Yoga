@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > mārgaś ca dravyatas tu dve śraddhā śīlaṃ ca nirmalāḥ |
+>
 > noktā vimuktiḥ śaikṣāṅgaṃ baddhatvāt sā punar dvidhā || 6.75 ||
 
 > Dharma includes the Path. The four verified confidences are two in substance—confidence and ethical discipline—and are stainless. Liberation is no factor of the trainee, who remains bound; for one beyond training, it is twofold: the unconditioned abandonment of afflictions and conditioned liberative determination.

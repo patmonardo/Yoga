@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ābodheḥ sarvam ekatra dhyānāntye śāstṛkhaḍgayoḥ |
+>
 > prāk tebhyo mokṣabhāgīyaṃ kṣipraṃ mokṣas tribhir bhavaiḥ || 6.24 ||
 
 > The Buddha and the rhinoceros-like Pratyekabuddha bring the entire course

@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ānāpānau yataḥ kāyaḥ sattvākhyāv anupāttakau |
+>
 > naiḥṣyandikau nādhareṇa lakṣyete manasā ca tau || 6.13 ||
 
 > Inhalation and exhalation share the body's ground and are counted within a

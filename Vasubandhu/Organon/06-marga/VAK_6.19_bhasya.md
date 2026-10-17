@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > kāmāptaduḥkhaviṣayā tv adhimātrā kṣaṇaṃ ca sā |
+>
 > tathāgradharmāḥ sarve tu pañcaskandhā vināptibhiḥ || 6.19 ||
 
 > Strong Acceptance takes desire-realm suffering alone as its cognitive field

@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > satyāny uktāni catvāri duḥkhaṃ samudayas tathā |
+>
 > nirodho mārga ity eṣāṃ yathābhisamayaṃ kramaḥ || 6.2 ||
 
 > Four truths have been taught: suffering, its origin, cessation, and the Path.

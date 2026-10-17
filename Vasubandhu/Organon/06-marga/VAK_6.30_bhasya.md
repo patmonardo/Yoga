@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > yāvat pañcaprakāraghnau dvitīye 'rvāṅ navakṣayāt |
+>
 > kāmād viraktāv ūrdhvaṃ vā tṛtīyapratipannakau || 6.30 ||
 
 > The Faith-Follower and Dharma-Follower still proceed toward stream-entry

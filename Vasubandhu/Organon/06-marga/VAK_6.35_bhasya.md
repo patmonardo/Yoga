@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ā-pañcama-prakāra-ghno dvitīya-pratipannakaḥ |
+>
 > kṣīṇa-ṣaṣṭha-prakāras tu sakṛd-āgāmy asau punaḥ || 6.35 ||
 
 > The practitioner established in stream-entry who has abandoned any

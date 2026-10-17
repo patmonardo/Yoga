@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > kleśa-prahāṇam ākhyātaṃ satya-darśana-bhāvanāt |
+>
 > dvividho bhāvanā-mārgo darśanākhyas tv anāsravaḥ || 6.1 ||
 
 > The abandonment of afflictions has been explained through seeing the truths

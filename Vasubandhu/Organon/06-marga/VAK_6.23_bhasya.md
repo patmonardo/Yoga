@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > mūrdhalābhī na mūlacchit kṣāntilābhy anapāyagaḥ |
+>
 > śiṣyagotrān nivartya dve buddhaḥ syāt trīṇy apītaraḥ || 6.23 ||
 
 > Even after regression, one who attained Summits does not sever the wholesome

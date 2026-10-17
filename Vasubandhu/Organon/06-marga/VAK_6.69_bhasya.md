@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > vīryaṃ samyakprahāṇākhyam ṛddhipādāḥ samādhayaḥ |
+>
 > pradhānagrahaṇaṃ sarve guṇāḥ prāyogikās tu te || 6.69 ||
 
 > Energy gives the right abandonments their operative character; samādhi does the same for the bases of spiritual power. Each name takes the predominant factor, while the complete practice still includes all the qualities active in its application.

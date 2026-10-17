@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > vṛttasthaḥ śrutacintāvān bhāvanāyāṃ prayujyate |
+>
 > nāmobhayārthaviṣayāḥ śrutamayyādikā dhiyaḥ || 6.5 ||
 
 > Established in disciplined conduct, having received teaching and reflected

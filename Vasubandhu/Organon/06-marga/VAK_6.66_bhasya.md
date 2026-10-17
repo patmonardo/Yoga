@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > dhyāneṣu mārgaḥ pratipat sukhā duḥkhānyabhūmiṣu |
+>
 > dhandhābhijñā mṛdumateḥ kṣiprābhijñetarasya tu || 6.66 ||
 
 > In the four dhyānas, where calm and insight are balanced, the Path is an easy course; on the other grounds their imbalance makes it difficult. Whether realization is slow or quick depends on faculty: it is slow for one of mild faculty and quick for one of sharp faculty.

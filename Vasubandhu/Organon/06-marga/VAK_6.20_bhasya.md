@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > iti nirvedhabhāgīyaṃ caturdhā bhāvanāmayam |
+>
 > anāgamyāntaradhyānabhūmikaṃ dve tv adho 'pi vā || 6.20 ||
 
 > Heat, Summits, Acceptance, and the Highest Mundane Dharmas are the four

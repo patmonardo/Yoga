@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > āsamudrāsthi-vistāra-saṃkṣepād ādikarmikaḥ |
+>
 > pādāsthna ā kapālārdha-tyāgāt kṛtajayaḥ smṛtaḥ || 6.10 ||
 
 > A beginner expands the contemplated skeleton across the world as far as the

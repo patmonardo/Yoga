@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ā-bhavāgrāṣṭa-bhāga-kṣid arhattve pratipannakaḥ |
+>
 > navamasyāpy ānantarya-pathe vajropamaś ca saḥ || 6.44 ||
 
 > From the first grade abandoned in the first dhyāna through the eighth

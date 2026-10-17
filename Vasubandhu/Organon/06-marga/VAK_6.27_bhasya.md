@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > iti ṣoḍaśacitto 'yaṃ satyābhisamayas tridhā |
+>
 > darśanālambakāryākhyaḥ so 'gradharmaikabhūmikaḥ || 6.27 ||
 
 > The sixteen successive moments of consciousness constitute direct

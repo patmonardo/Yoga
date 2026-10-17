@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > mriyate na phalabhraṣṭas tadakāryaṃ karoti na |
+>
 > vimuktyānantaryapathā navākopye ’tisevanāt || 6.60 ||
 
 > If an arhat falls from the fruit, the fall neither ends in death nor permits conduct opposed to that fruit. Reaching the unshakeable disposition requires nine uninterrupted Paths and nine liberation Paths, because the former faculty disposition has been deeply habituated.

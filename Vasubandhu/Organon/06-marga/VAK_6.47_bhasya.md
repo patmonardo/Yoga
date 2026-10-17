@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > bhavāgrādhavimuktordhvajātavattvasamanvayaḥ |
+>
 > anāsraveṇa vairāgyam anāgāmyena sarvataḥ || 6.47 ||
 
 > One partly freed from the summit does not reacquire its afflictions

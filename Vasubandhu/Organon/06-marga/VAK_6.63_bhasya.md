@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > prayogākṣasamāpattivimuktyubhayataḥ kṛtāḥ |
+>
 > pudgalāḥ sapta ṣaṭ tv ete dvau dvau mārgatraye yataḥ || 6.63 ||
 
 > Seven noble-person names arise according to application, faculty, meditative attainment, liberation, or attainment and liberation together. Yet they mark six positions in the Path: the same two lines appear under changing names in Seeing, cultivation, and beyond-training.

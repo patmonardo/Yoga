@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > vimuktyānantaryapathā laukikās tu yathākramam |
+>
 > śāntādyudārādyākārā uttarādharagocarāḥ || 6.49 ||
 
 > A mundane liberation Path takes the higher ground as its cognitive

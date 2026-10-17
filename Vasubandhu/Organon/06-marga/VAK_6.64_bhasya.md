@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > nirodhalābhy ubhayatovimuktaḥ prajñayetaraḥ |
+>
 > samāpattīndriyaphalaiḥ pūrṇaḥ śaikṣo ’bhidhīyate || 6.64 ||
 
 > An arhat with cessation-attainment is liberated in both respects: Prajñā has removed afflictive obstruction, and samādhi has removed obstruction to the meditative releases. The other arhat is liberated through Prajñā. A trainee is called complete according to attainment, faculty, or fruit, as each is fulfilled.

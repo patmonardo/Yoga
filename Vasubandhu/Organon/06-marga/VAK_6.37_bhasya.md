@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > so 'ntarotpanna-saṃskārāsaṃskāra-parinirvṛtiḥ |
+>
 > ūrdhvasrotāś ca sa dhyāne vyavakīrṇo 'kaniṣṭhagaḥ || 6.37 ||
 
 > The non-returner completes the course in one of five ways: in an

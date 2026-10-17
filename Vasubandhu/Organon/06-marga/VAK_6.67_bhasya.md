@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > anutpādakṣayajñāne bodhis tad-anulomyataḥ |
+>
 > saptatriṃśat tu tat-pakṣyā nāmato dravyato daśa || 6.67 ||
 
 > Awakening is Knowing that exhaustion has been achieved and that what is exhausted will not arise again: the work is done and does not need repeating. The factors conforming to this Awakening are thirty-seven by their Path names, but ten when counted as underlying dharmas.

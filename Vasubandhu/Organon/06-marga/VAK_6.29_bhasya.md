@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > mṛdutīkṣṇendriyau teṣu śraddhādharmānusāriṇau |
+>
 > ahīnabhāvanāheyau phalādyapratipannakau || 6.29 ||
 
 > During the fifteen moments of the Path of Seeing, a practitioner of gentle

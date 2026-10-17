@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ānāpānasmṛtiḥ prajñā pañcabhūr vāyur-gocarā |
+>
 > kāmāśrayā na bāhyānāṃ ṣaḍvidhā gaṇanādibhiḥ || 6.12 ||
 
 > Recollection of breathing is Prajñā by nature, though named for the

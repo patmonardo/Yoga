@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > dhyānāt sāmantakād vāntyo muktimārgas tribhūjaye |
+>
 > nordhvaṃ sāmantakād āryair aṣṭābhiḥ svordhvabhūjayaḥ || 6.48 ||
 
 > In completing dispassion from the desire realm, first dhyāna,

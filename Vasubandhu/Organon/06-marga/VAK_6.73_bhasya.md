@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > kāmadhātau bhavāgre ca bodhimārgāṅgavarjitāḥ |
+>
 > trisatyadarśane śīladharmāvetyaprasādayoḥ || 6.73 ||
 
 > In the desire realm and at the summit of existence, awakening and Noble Path factors are absent: neither ground supports the uncontaminated Path. Seeing suffering, origin, and cessation brings verified confidence in Dharma and in the ethical discipline dear to the noble ones.

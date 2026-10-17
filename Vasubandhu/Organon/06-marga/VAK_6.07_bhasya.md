@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > viparyāsāt tad-vipakṣau tri-dhātv-āptāv amalau ca tau |
+>
 > alobha āryavaṃśāś ca teṣāṃ tuṣṭy-ātmakās trayaḥ || 6.7 ||
 
 > Reversing discontent and great desire yields contentment and fewness of

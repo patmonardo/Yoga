@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > yady akopyaḥ kṣayajñānād anutpādamatiḥ na cet |
+>
 > kṣayajñānam aśaikṣī vā dṛṣṭiḥ sarvasya sā 'rhataḥ || 6.50 ||
 
 > For an immovable arhat, Knowing of non-arising follows the first

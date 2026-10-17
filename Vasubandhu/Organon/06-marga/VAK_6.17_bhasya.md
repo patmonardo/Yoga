@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > tata ūṣmagatotpattis tac catuḥsatyagocaram |
+>
 > ṣoḍaśākāram ūṣmabhyo mūrdhānas te ’pi tādṛśāḥ || 6.17 ||
 
 > Repeated cultivation of the dharma establishment gradually gives rise to

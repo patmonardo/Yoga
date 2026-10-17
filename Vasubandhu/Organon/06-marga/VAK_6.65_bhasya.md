@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > aśaikṣaparipūrṇatvaṃ dvābhyāṃ mārgaḥ samāsataḥ |
+>
 > viśeṣamuktyānantaryaprayogākhyaś caturvidhaḥ || 6.65 ||
 
 > One beyond training is called complete by faculty and meditative attainment; fruit is already secured in being beyond training. In summary, the Path has four functions: Application prepares the direct work, Immediacy abandons obstruction, Release first arises free of it, and Further Distinction is Path beyond those three.

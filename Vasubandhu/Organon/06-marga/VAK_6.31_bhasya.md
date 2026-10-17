@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > ṣoḍaśe tu phalasthau tau yatra yaḥ pratipannakaḥ |
+>
 > śraddhādhimuktadṛṣṭyāptau mṛdutīkṣṇendriyau tadā || 6.31 ||
 
 > When the sixteenth moment of consciousness arises, the Faith-Follower and

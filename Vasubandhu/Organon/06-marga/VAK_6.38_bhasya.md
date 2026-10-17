@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > sa pluto 'rdha-plutaḥ sarva-cyutaś cānyo bhavāgragaḥ |
+>
 > ārūpyagaś caturdhānya iha nirvāpako 'paraḥ || 6.38 ||
 
 > The Akaniṣṭha-bound upward-streamer may leap over the intervening

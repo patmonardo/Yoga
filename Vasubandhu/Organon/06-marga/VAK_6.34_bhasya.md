@@ -3,6 +3,7 @@
 ## 1. Kārikā Anchor
 
 > akṣīṇa-bhāvanā-heyaḥ phalasthaḥ saptakṛt-paraḥ |
+>
 > tri-catur-vidha-muktas tu dvi-tri-janmā kulaṃkulaḥ || 6.34 ||
 
 > A stream-enterer established in the first fruit with even one
