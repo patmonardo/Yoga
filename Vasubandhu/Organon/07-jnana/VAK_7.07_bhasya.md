@@ -5,9 +5,10 @@
 > kṣayajñānaṃ hi satyeṣu parijñātādiniścayaḥ |
 > na parijñeyam ity ādir anutpādamatir matā || 7.7 ||
 
-> Knowledge of exhaustion is indeed ascertainment concerning the truths,
-> beginning with “fully known.” That beginning with “not to be fully known”
-> is held to be cognition of non-arising.
+> Exhaustion-knowledge is the ascertainment: “I have fully known suffering;
+> origination has been abandoned, cessation realized, and the Path
+> cultivated.” Non-arising-knowledge ascertains these completed tasks with
+> the further determination: none is to be performed again.
 
 The Bhāṣya asks what distinguishes the two terminal knowledges already
 located in 7.04–7.05, then unfolds `parijñāta-ādi` and `na parijñeyam ity
@@ -171,8 +172,7 @@ without leftover task. This verse only defines the two modes. 1.01's
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.07.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.07_bhasya.md`, with the other-teachers clause
-restored from the kārikā study's source span (394|12–15). Damaged `darśana`
-explanation unrestored. `kosabhasya.txt` line-collation still pending.
-Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan 394|05–15
+span recorded here, including the other-teachers clause. The anchor now
+reproduces the Bhāṣya-informed study translation exactly. The damaged
+`darśana` explanation and exact source-line collation remain open.

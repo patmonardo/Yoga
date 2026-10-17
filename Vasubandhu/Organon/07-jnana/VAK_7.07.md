@@ -19,29 +19,20 @@ terminal knowledges within the knowledge classification, the Bhāṣya now
 asks what distinguishes them. The answer concerns the four truth-tasks:
 their accomplishment and their not needing to be performed again.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kṣaya-jñānam | hi | satyeṣu | parijñāta-ādi-niścayaḥ |
-na | parijñeyam | iti | ādiḥ | anutpāda-matiḥ | matā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kṣaya-jñānam` | nominative singular neuter compound | knowledge of exhaustion |
 | `hi` | explanatory/emphatic particle | for, indeed |
 | `satyeṣu` | locative plural neuter | with respect to the truths |
-| `parijñāta-ādi-niścayaḥ` | nominative singular masculine compound | ascertainment beginning with “fully known” |
+| `parijñāta-ādi-niścayaḥ` | nominative singular masculine compound; `parijñāta` is a completed passive participle | ascertainment beginning with “fully known”; the Bhāṣya unfolds four accomplished truth-tasks |
 | `na` | negative particle | not |
-| `parijñeyam` | nominative singular neuter gerundive of `pari-√jñā` | to be fully known |
+| `parijñeyam` | nominative singular neuter gerundive of `pari-√jñā` | to be fully known; with `na`, the task is not to be repeated |
 | `iti` | quotation marker | marks the preceding formulation |
-| `ādiḥ` | nominative singular masculine in the abbreviated expression | beginning with [that formulation], and so forth |
+| `ādiḥ` | nominative singular masculine in the abbreviated expression | beginning with that formulation and the other truth-tasks; the Bhāṣya supplies `punaḥ`, “again” |
 | `anutpāda-matiḥ` | nominative singular feminine compound | cognition of non-arising |
 | `matā` | nominative singular feminine past passive participle of `√man` | held, regarded, designated |
-
-`Parijñāta` is a past passive participle: “fully known.” The contrast with
-the gerundive `parijñeya`, “to be fully known,” is the grammatical hinge.
-The Bhāṣya supplies `punaḥ`, “again,” in unfolding the second formulation.
 
 ## 4. Grammar
 
@@ -99,24 +90,10 @@ non-arising.
 
 ### Bhāṣya-informed study translation
 
-> Exhaustion-knowledge is characterized through the ascertainment:
-> “I have fully known suffering; its origination has been abandoned;
-> cessation has been realized; the Path has been cultivated.”
->
-> Non-arising-knowledge is characterized through the further ascertainment:
-> “I have fully known suffering, and it is not again to be fully known;
-> origination has been abandoned, and is not again to be abandoned;
-> cessation has been realized, and is not again to be realized;
-> the Path has been cultivated, and is not again to be cultivated.”
-
-These expansions follow Pradhan 394|08–394|12. The Bhāṣya then questions
-how uncontaminated knowledge knows in this form. In the Kashmiri account,
-the explicit knowing occurs through subsequently acquired cognition upon
-emergence; the difference between those subsequent cognitions indicates
-the difference between the two knowledges. Other teachers say that one
-knows in this way through uncontaminated knowledge itself as well
-(394|12–394|15). The first-person formulations therefore have differently
-explained cognitive status within the source discussion.
+> Exhaustion-knowledge is the ascertainment: “I have fully known suffering;
+> origination has been abandoned, cessation realized, and the Path
+> cultivated.” Non-arising-knowledge ascertains these completed tasks with
+> the further determination: none is to be performed again.
 
 ## 6. Philosophical Translation
 
@@ -140,46 +117,16 @@ visible before drawing a project-level conclusion about reflection.
 
 ## 7. Technical Vocabulary
 
-**`Niścaya` — ascertainment / certainty.** The predicate defining
-exhaustion-knowledge. Here certainty has a specified content and task-field;
-it is not merely a feeling of assurance.
-
-**`Parijñāna` — full knowing.** The task assigned to suffering. Its
-completion is expressed by `parijñātam`; the prospective task by
-`parijñeyam`. The other truths receive their own differentiated operations.
-
-**`Prahāṇa`, `sākṣātkaraṇa`, `bhāvanā` — abandonment, realization,
-cultivation.** The respective tasks of origination, cessation, and Path.
-The Bhāṣya's participles present their accomplished forms. They should
-not be flattened into four identical instances of “understanding.”
-
-**`Kṣayajñāna` — exhaustion-knowledge.** Knowledge characterized through
-the completed truth-tasks. The supplied definition gives the term a
-determinate practical content beyond the isolated gloss “exhaustion.”
-
-**`Anutpādamati` / `anutpādajñāna` — cognition / knowledge of non-arising.**
-The verse's designation and the prose's equivalent technical name.
-Its definition adds that the completed tasks are not again to be performed.
-The claim is scoped to this liberative work; it does not prohibit every
-subsequent wholesome activity or all further exercise of knowledge.
-
-**`Tatpṛṣṭhalabdha` — acquired subsequently to that.** The instrumental
-`tatpṛṣṭhalabdhena` supplies the cognition through which, according to
-the Kashmiri explanation, one knows in the explicit stated form.
-The uncontaminated knowledge and the subsequent cognition should not
-be merged into a single undifferentiated event in reporting this account.
-
-**`Vyutthita` — emerged.** The subject's condition in the Kashmiri
-explanation: having emerged, one knows in this way through the subsequently
-acquired cognition. The word marks the transition relevant to the
-explanation, without itself supplying a complete theory of reflection.
-
-**`Jñāna`, `darśana`, `vidyā`, `buddhi`, `bodhi`, `prajñā`, `āloka`,
-`abhisamaya`.** The cited śāstra formula gathers these designations around
-the knowing in question. Their co-occurrence does not erase all technical
-distinctions among them. In particular, the appearance of `darśana`
-requires attention alongside the exclusion from technical view-status
-established in VAK 7.01.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `niścaya` | ascertainment / certainty | Content-specific ascertainment of the truth-tasks, not a feeling of assurance. |
+| `parijñāna` / `parijñātam` / `parijñeyam` | full knowing / fully known / to be fully known | Task of suffering in its completed and prospective forms. |
+| `prahāṇa` / `sākṣātkaraṇa` / `bhāvanā` | abandonment / realization / cultivation | Distinct tasks of origination, cessation, and Path; their completed forms are supplied by the Bhāṣya. |
+| `kṣayajñāna` | exhaustion-knowledge | Ascertainment of the four completed truth-tasks. |
+| `anutpādamati` / `anutpādajñāna` | cognition / knowledge of non-arising | Verse and prose names for knowing that the completed liberative tasks need not be performed again. |
+| `tatpṛṣṭhalabdha` | acquired subsequently to that | In the Kashmiri account, subsequently acquired cognition articulates the completion after uncontaminated knowing. |
+| `vyutthita` | emerged | Condition of the knower in the Kashmiri account; it does not alone define a theory of reflection. |
+| `jñāna` / `darśana` / `vidyā` / `buddhi` / `bodhi` / `prajñā` / `āloka` / `abhisamaya` | knowledge / seeing / science / understanding / awakening / discriminative comprehension / illumination / penetration | Cited śāstra names around this knowing; their co-occurrence does not erase technical distinctions, especially 7.01's exclusion from view. |
 
 ## 8. Logical Determination
 
@@ -233,6 +180,14 @@ source continues with `anāsraveṇāpy evaṃ jānātīty apare`: others say
 that one knows thus through uncontaminated knowledge also. This official
 study includes that qualification rather than treating the Kashmiri
 explanation as an unopposed conclusion.
+
+**Bhāṣya control.** Pradhan 394|08–394|15 supplies the four completed
+truth-tasks and the prospective non-repetition clause. It then offers two
+attributed accounts of how the first-person formulation is known:
+the Kashmiri account invokes subsequently acquired cognition upon
+emergence; other teachers allow uncontaminated cognition itself as well.
+The study translation renders the kārikā's definition, leaving this
+dispute in the Bhāṣya analysis.
 
 **The word `darśana`.** The following prose discusses its occurrence
 in the cited formula. The e-text includes the difficult

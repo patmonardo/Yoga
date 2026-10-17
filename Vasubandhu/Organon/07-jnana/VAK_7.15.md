@@ -19,25 +19,20 @@ the level-distribution from VAK 7.14; the rest specifies support.
 The Bhāṣya closes by declaring the determination of `bhūmi` and
 `āśraya` complete, confirming that these are distinct relations.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dhyāneṣu | anya-mano-jñānam | kāma-rūpa-āśrayam | ca | tat |
-kāma-āśrayam | tu | dharma-ākhyam | anyat | traidhātuka-āśrayam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `dhyāneṣu` | locative plural masculine | in the dhyānas |
-| `anyamanojñānam` | nominative singular neuter compound | knowledge of another mind |
-| `kāmarūpāśrayam` | nominative singular neuter possessive compound | having desire- and form-domain support |
+| `dhyāneṣu` | locative plural masculine | in the four dhyānas only, as the Bhāṣya specifies |
+| `anyamanojñānam` | nominative singular neuter compound (`anya-mano-jñāna`) | knowledge of another mind |
+| `kāmarūpāśrayam` | nominative singular neuter possessive compound (`kāma-rūpa-āśraya`) | having desire- or form-domain support for its actualization |
 | `ca` | conjunction | and |
 | `tat` | nominative singular neuter pronoun | that [other-mind knowledge] |
-| `kāmāśrayam` | nominative singular neuter possessive compound | having desire-domain support |
+| `kāmāśrayam` | nominative singular neuter possessive compound (`kāma-āśraya`) | having desire-domain support for its actualization |
 | `tu` | contrastive particle | whereas, however |
-| `dharmākhyam` | nominative singular neuter adjective | that called dharma-[knowledge] |
-| `anyat` | nominative singular neuter pronoun, collective here | the rest [of the knowledge field] |
-| `traidhātukāśrayam` | nominative singular neuter possessive compound | having support in the three domains |
+| `dharmākhyam` | nominative singular neuter adjective (`dharma-ākhyam`) | that called dharma-[knowledge] |
+| `anyat` | nominative singular neuter pronoun, collective here | the remaining knowledge field, excluding the two named kinds |
+| `traidhātukāśrayam` | nominative singular neuter possessive compound (`traidhātuka-āśraya`) | having possible support across the three domains |
 
 `Manas` appears as `mano-` in the compound; `rūpa + āśraya` yields
 `rūpāśraya`. The domains in the support compounds concern the
@@ -84,6 +79,10 @@ be interpreted with the already stated restrictions intact.
 that [knowledge has] desire-and-form support. Dharma-[knowledge],
 however, [has] desire support; the rest [has] three-domain support.
 
+The Bhāṣya's language of being made present explains `āśraya`, not
+object-range. It concerns actualization, without denying every possible
+relation of possession to knowledge that is not currently made present.
+
 ## 5. Translation
 
 ### Literal Translation
@@ -95,18 +94,10 @@ however, [has] desire support; the rest [has] three-domain support.
 
 ### Bhāṣya-informed study translation
 
-> Knowledge of another mind belongs only to the four dhyānas,
-> nowhere else. It can be made present with support in the desire
-> or form domain. Dharma-knowledge has desire-domain support only;
-> it is not made present with support in the form or formless
-> domains. Apart from other-mind knowledge and dharma-knowledge,
-> the remaining knowledge field has support across the three domains.
-
-This follows Pradhan 402|19–403|07. The expressions about being
-made present explain `āśraya`; they do not state the knowledge's
-object-range. The qualification also concerns actualization,
-not a blanket denial of every possible relation of possession
-to a knowledge that is not currently made present.
+> Other-mind knowledge belongs to the four dhyānas alone and is made
+> present with desire- or form-domain support. Dharma-knowledge is made
+> present only with desire-domain support; the remaining knowledge field
+> has possible support across the three domains.
 
 ## 6. Philosophical Translation
 
@@ -124,40 +115,15 @@ under conditions in VAK 7.09, remove the present support restriction.
 
 ## 7. Technical Vocabulary
 
-**`Bhūmi` — meditative level.** The opening `dhyāneṣu` completes
-this distribution. The level of a cognitive attainment is not
-automatically identical to the domain of the practitioner who
-actualizes it.
-
-**`Āśraya` — support.** Here the domain-support of the knowing
-continuum in which a knowledge can be made present. “Embodied
-support” may clarify the desire and form cases, but the term's
-three-domain range also includes the formless domain; it should
-not be reduced to a material body in every case.
-
-**`Ālambana` — object-support.** A distinct, previously established
-relation: what the knowledge apprehends. The verse does not use
-this term, and `āśraya` should not be translated as though it did.
-
-**`Saṃmukhīkriyate` — is made present / actualized.** The Bhāṣya's
-governing explanatory verb for the support statements. It specifies
-where the knowledge can actually occur, without itself giving a
-full account of its acquisition, retention, or future availability.
-
-**`Caturṣv eva dhyāneṣu nānyatra` — in the four dhyānas only,
-nowhere else.** The explicit level restriction of other-mind
-knowledge. The numeral and exclusion are supplied by the prose.
-
-**`Traidhātukāśraya` — having support in the three domains.**
-Desire, form, and formless support across the remaining field.
-This is a range of possible support, not three simultaneous
-supports for a single cognitive occurrence.
-
-**`Anyat` / `nirmukta` — the remainder / excluding.** The reference
-must preserve both exclusions and the overlapping classification.
-For example, a truth-knowledge specifically included under dharma-
-knowledge does not evade desire-domain support merely because
-its truth-name also appears in the broader remaining list.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `bhūmi` | meditative level | The opening `dhyāneṣu` completes the level distribution; level differs from the domain of the support from which knowledge is actualized. |
+| `āśraya` | support of actualization | The domain-support of the knowing continuum in which knowledge is made present; in the formless case this need not be a material body. |
+| `ālambana` | object-support | What knowledge apprehends, a distinct relation; this term does not occur in the verse. |
+| `saṃmukhīkriyate` | is made present | The Bhāṣya's verb controls the support clauses without settling acquisition or retention. |
+| `caturṣv eva dhyāneṣu nānyatra` | in the four dhyānas only | The Bhāṣya specifies the numeral and exclusion left compressed in `dhyāneṣu`. |
+| `traidhātukāśraya` | having support across the three domains | A range of possible supports for the remaining field, not three simultaneous supports for one occurrence. |
+| `anyat` / `nirmukta` | the remainder / excluding | Excludes other-mind and dharma-knowledge; overlapping truth-designations retain the more specific support rule. The transmitted remainder gloss is damaged. |
 
 ## 8. Logical Determination
 

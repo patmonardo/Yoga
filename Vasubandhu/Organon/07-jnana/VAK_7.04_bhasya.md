@@ -5,9 +5,10 @@
 > te eva satyabhedena catvāri ete caturvidhe |
 > anutpādakṣayajñāne te punaḥ prathamodite || 7.4 ||
 
-> Those very two are four through distinction according to the truths.
-> These two—knowledge of non-arising and knowledge of exhaustion—are
-> fourfold. Those two, however, when first arisen …
+> The same dharma- and anvaya-knowledges divide by truth-object into four:
+> knowledge of suffering, origination, cessation, and the Path. As fourfold
+> knowledge without the nature of view, they are also called exhaustion-
+> knowledge and non-arising-knowledge. When these two first arise, however …
 
 The last clause is unfinished. Its predicate is the opening of 7.05. The
 Bhāṣya reads `prathamodite` as `prathamotpanne` — first arisen, not first
@@ -119,8 +120,9 @@ Attributed to the commentary:
 - `prathamotpanne` as gloss;
 - any preview of 7.05's objects and aspects.
 
-The Organon kārikā already carries the correction from an earlier “first
-stated” reading. No further rewrite of the literal line is required.
+The revised Organon kārikā retains the correction from an earlier “first
+stated” reading. Its informed translation now gives the Bhāṣya's four names
+and non-view qualification while leaving the final clause open.
 
 ## 8. Philosophical and Organon Study
 
@@ -153,7 +155,7 @@ turning it into a Concept-triad.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.04.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.04_bhasya.md` (Pradhan 392|13–20; boundary
-393|01–03). 7.05 not independently reviewed. `kosabhasya.txt` collation
-pending. Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan 392|13–20
+span recorded here, with 393|01–03 used only to control the verse boundary.
+The anchor reproduces the Bhāṣya-informed study translation exactly. Source
+line collation remains provisional.

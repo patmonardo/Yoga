@@ -19,25 +19,20 @@ asks who possesses how many knowledges. This changes the inquiry
 from the classification of possible knowledge to the possession
 of knowledge by a practitioner at a particular Path-moment.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-eka-jñāna-anvitaḥ | rāgī | prathame | anāsrava-kṣaṇe |
-dvitīye | tribhiḥ | ūrdhvaḥ | tu | caturṣu | eka-eka-vṛddhimān
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `ekajñānānvitaḥ` | nominative singular masculine compound | endowed with one knowledge |
-| `rāgī` | nominative singular masculine of `rāgin` | one with attachment; here not detached from the desire domain |
-| `prathame` | locative singular masculine adjective | in the first |
-| `anāsravakṣaṇe` | locative singular masculine compound | uncontaminated moment |
-| `dvitīye` | locative singular masculine adjective | in the second [moment] |
-| `tribhiḥ` | instrumental plural numeral | with three [knowledges] |
-| `ūrdhvaḥ` | nominative singular masculine adjective, compressed contextual usage | further advanced, subsequently |
+| `ekajñānānvitaḥ` | nominative singular masculine compound (`eka-jñāna-anvita`) | possessed of one knowledge-category, conventional knowledge |
+| `rāgī` | nominative singular masculine of `rāgin` | one not detached from the desire domain |
+| `prathame` | locative singular masculine adjective | at the first [moment], suffering-dharma acceptance |
+| `anāsravakṣaṇe` | locative singular masculine compound (`anāsrava-kṣaṇa`) | uncontaminated Path-moment |
+| `dvitīye` | locative singular masculine adjective | at the second [moment], suffering-dharma knowledge |
+| `tribhiḥ` | instrumental plural numeral | possessed of three knowledge-categories |
+| `ūrdhvaḥ` | nominative singular masculine adjective, compressed contextual usage | subsequently, as the practitioner advances |
 | `tu` | connective particle | then, however |
-| `caturṣu` | locative plural numeral | at four [further moments] |
-| `ekaikavṛddhimān` | nominative singular masculine possessive adjective | having an increase of one at each |
+| `caturṣu` | locative plural numeral | at four specified later moments |
+| `ekaikavṛddhimān` | nominative singular masculine possessive adjective (`eka-eka-vṛddhi-mat`) | gaining one new knowledge-category at each |
 
 `Jñāna + anvita` gives `jñānānvita`; this is possession-language,
 not the technical name `anvayajñāna`. `Eka + eka` gives the
@@ -69,6 +64,12 @@ endowed with one knowledge in the first uncontaminated moment;
 in the second, with three. Further advanced, at four [moments]
 he has an increase of one at each.
 
+The prose identifies the four additions as anvaya-, origination-,
+cessation-, and Path-knowledge. It also gives the previously detached
+practitioner other-mind knowledge in addition throughout; that is a
+commentarial contrast, not a second subject in the verse (Pradhan
+405|07–17). Cultivation becomes the next inquiry in 7.20.
+
 ## 5. Translation
 
 ### Literal Translation
@@ -79,24 +80,12 @@ he has an increase of one at each.
 
 ### Bhāṣya-informed study translation
 
-> A practitioner not previously detached from the desire domain
-> possesses conventional knowledge alone at the first
-> uncontaminated moment, the acceptance of dharma-knowledge
-> concerning suffering. At suffering-dharma-knowledge, the
-> second moment, three knowledge-categories are possessed:
-> conventional, dharma, and suffering knowledge. Thereafter
-> anvaya-knowledge is added at suffering-anvaya-knowledge;
-> origination-, cessation-, and Path-knowledge are added at
-> their respective dharma-knowledge moments. At Path-dharma-
-> knowledge the practitioner possesses seven. The previously
-> detached practitioner is described as possessing other-mind
-> knowledge in addition throughout this sequence.
-
-This follows Pradhan 405|07–405|17. The prose begins with the
-ordinary practitioner's conventional knowledge and the detached
-case's additional other-mind knowledge, then specifies the noble
-sequence. The question of which knowledges are cultivated is
-introduced only afterward, for VAK 7.20.
+> One still attached to the desire domain possesses one knowledge
+> at the first uncontaminated moment, suffering-dharma acceptance:
+> conventional knowledge. At the second, he possesses three:
+> conventional, dharma, and suffering knowledge. At four later
+> moments his possession grows by one knowledge each time, reaching
+> seven at Path-dharma knowledge.
 
 ## 6. Philosophical Translation
 
@@ -117,38 +106,14 @@ from cultivation and unrestricted immediate availability.
 
 ## 7. Technical Vocabulary
 
-**`Anvita` / `samanvāgata` — endowed with / possessed of.** The
-kārikā and prose expressions for the governing relation. The
-verse counts knowledge-categories belonging to the continuum
-at a specified stage, not isolated mental events alone.
-
-**`Rāgī` / `kāmāvītarāga` — attached / not detached from the
-desire domain.** The literal marker and its contextual expansion.
-It does not say that the uncontaminated acceptance itself is
-an afflicted cognition associated with passion.
-
-**`Duḥkhadharmajñānakṣānti` — acceptance of dharma-knowledge
-concerning suffering.** The first uncontaminated moment. VAK
-7.01 excluded uncontaminated acceptances from `jñāna`; that
-classification now explains why the present acceptance does
-not increase the count of possessed knowledge-categories.
-
-**`Duḥkhadharmajñāna` — suffering-dharma-knowledge.** The second
-moment. Its two classifications add dharma-knowledge and
-suffering-knowledge without requiring two simultaneous acts.
-
-**`Ekaikajñānavṛddhi` — one-knowledge increase at each specified
-moment.** The prose expansion of `ekaikavṛddhimān`. Later
-acceptances and knowledge-moments that introduce no new
-category do not automatically add to this count.
-
-**`Vītarāga` — detached practitioner.** The contrasting case
-in the local account has other-mind knowledge in addition.
-That possession does not mean other-mind knowledge occurs
-within Seeing: VAK 7.06 explicitly excluded such occurrence.
-The statement is retained as the source's possession account,
-not generalized into a claim that detachment makes every
-exercise of other-mind knowledge automatic.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `anvita` / `samanvāgata` | possessed of | The verse and prose count knowledge-categories held by a continuum at a specified stage, distinct from the presently occurring cognition. |
+| `rāgī` / `kāmāvītarāga` | not detached from desire | The Bhāṣya restricts the verse's count to this practitioner; it does not describe the acceptance itself as afflicted. |
+| `duḥkhadharmajñānakṣānti` | suffering-dharma acceptance | The first uncontaminated moment is an acceptance, which 7.01 excludes from knowledge; the possessed count stays at one. |
+| `duḥkhadharmajñāna` | suffering-dharma knowledge | The second moment is one cognition with two new category memberships, dharma and suffering knowledge. |
+| `ekaikajñānavṛddhi` | increase by one knowledge each | Applies at four named later moments, not every intervening Path-moment. |
+| `vītarāga` | detached practitioner | Possesses other-mind knowledge additionally in the Bhāṣya's contrast, without its occurring in Seeing. |
 
 ## 8. Logical Determination
 

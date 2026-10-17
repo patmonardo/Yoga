@@ -5,9 +5,11 @@
 > smṛtyupasthānam ekaṃ dhīr nirodhe paracittadhīḥ |
 > trīṇi catvāri śeṣāṇi dharmadhīgocaro nava || 7.16 ||
 
-> Knowledge concerning cessation is one application of mindfulness;
-> knowledge of another mind is three; the remaining knowledges are four.
-> Nine knowledges are the object-range of dharma-knowledge.
+> Cessation-knowledge falls under mindfulness of dharmas alone;
+> other-mind knowledge under mindfulness of feeling, mind, and
+> dharmas; and the remaining knowledges under all four applications.
+> Dharma-knowledge can take nine kinds of knowledge as objects,
+> excluding anvaya-knowledge.
 
 Two inquiries in one verse. Level and support were closed at 7.15.
 The object-matrix continues in 7.17.
@@ -104,6 +106,6 @@ under the dharma-application, not meta-nirodha.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.16.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.16_bhasya.md` (Pradhan 403|08–18). Matrix
-continues in 7.17. `kosabhasya.txt` collation pending. Provisional.
+QA reviewed against the paired Organon kārikā and Bhāṣya studies
+(Pradhan 403|08–18). The object matrix continues in 7.17.
+Sanskrit collation remains pending. Provisional.

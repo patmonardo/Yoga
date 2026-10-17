@@ -20,32 +20,21 @@ a disagreement about whether the sixteen exhaust uncontaminated
 aspects; the Bhāṣya identifies the positions and tests the textual
 argument for a further aspect.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-śeṣe | caturdaśa-ākāre | śūnya-anātma-vivarjite |
-na | amalaḥ | ṣoḍaśabhyaḥ | anyaḥ | ākāraḥ |
-anye | asti | śāstrataḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `śeṣe` | nominative dual neuter adjective, used substantivally | the remaining two [knowledges] |
+| `śeṣe` | nominative dual neuter adjective, used substantivally | the remaining two: exhaustion- and non-arising-knowledge, named by the Bhāṣya |
 | `caturdaśākāre` | nominative dual neuter possessive compound | having fourteen aspects |
-| `śūnyānātmavivarjite` | nominative dual neuter participial compound | excluding emptiness and non-self [aspects] |
-| `na` | negative particle | not |
-| `amalaḥ` | nominative singular masculine adjective | stainless, uncontaminated; qualifies aspect |
+| `śūnyānātmavivarjite` | nominative dual neuter participial compound | excluding the emptiness and non-self aspects from the sixteen |
+| `na` (in `nāmalaḥ`) | negative particle separated from `amalaḥ` | denies the existence of another uncontaminated aspect; does not mean “impure aspect” |
+| `amalaḥ` | nominative singular masculine adjective | stainless, uncontaminated; qualifies `ākāraḥ` |
 | `ṣoḍaśabhyaḥ` | ablative plural numeral | other than the sixteen |
 | `anyaḥ` | nominative singular masculine adjective | another |
 | `ākāraḥ` | nominative singular masculine | aspect |
-| `anye` | nominative plural masculine pronoun | others [say] |
+| `anye` | nominative plural masculine pronoun | other teachers, identified in the prose as outside Kashmir |
 | `asti` | third-person singular present of `√as` | exists |
-| `śāstrataḥ` | adverbial formation in `-tas` | on the authority of the treatise |
-
-`Na + amalaḥ` yields `nāmalaḥ`. The negation denies another
-uncontaminated aspect; it does not qualify an aspect as impure.
-The ending `-e` in the opening three forms is dual nominative here,
-not locative singular. The prose explicitly supplies the two knowledges.
+| `śāstrataḥ` | adverbial formation in `-tas` | on the authority of a specific analytical treatise passage, not a sūtra |
 
 ## 4. Grammar
 
@@ -97,19 +86,10 @@ emptiness and non-self. No uncontaminated aspect other than the sixteen
 
 ### Bhāṣya-informed study translation
 
-> Exhaustion-knowledge and non-arising-knowledge have fourteen aspects:
-> the sixteen with emptiness and non-self left out. Although ultimate,
-> these knowledges participate in conventional expression, as subsequent
-> statements concerning exhausted birth and no further existence are
-> made on their strength. As to whether an uncontaminated own-
-> characteristic aspect exists beyond the sixteen, the Kashmiris deny
-> it. Teachers outside Kashmir affirm it, appealing to a passage in
-> the analytical treatise.
-
-The first explanation follows Pradhan 399|01–399|04; the disputed
-extension and its textual examination occupy 399|05–399|20. The
-Bhāṣya argues about how the cited passage should be construed rather
-than leaving the disagreement as two unsupported assertions.
+> Exhaustion- and non-arising-knowledge each have fourteen aspects,
+> excluding emptiness and non-self. The Kashmiris hold that no
+> uncontaminated aspect lies beyond the sixteen; teachers outside Kashmir
+> say that one does, appealing to the treatise.
 
 ## 6. Philosophical Translation
 
@@ -132,46 +112,16 @@ whether sixteen is exhaustive requires a further argument.
 
 ## 7. Technical Vocabulary
 
-**`Śeṣe` — the remaining two.** Specifically exhaustion- and
-non-arising-knowledge, after the preceding distributions. The dual
-is essential to both the reference and the grammar.
-
-**`Śūnya` / `anātman` — empty / non-self.** Here the names of two
-excluded aspects within the sixteenfold field. Their detailed
-determinations belong to the ensuing aspect exposition. The local
-exclusion should not become a general denial of their doctrinal role.
-
-**`Saṃvṛtibhajana` — participation in conventional expression.** The
-Bhāṣya's explanation of the terminal knowledges' relation to statements
-of completion. `Pāramārthikayor api`, “although the two are ultimate,”
-preserves the distinction between their status and conventional usage.
-
-**`Tadbalānuvyavahāra` — subsequent expression on their strength.**
-The source's formulation is transmitted with `tadvala-`. The expression
-relates the knowledge to the later declaration it supports. It resumes
-the explanatory line encountered in VAK 7.07 without erasing the
-alternative account preserved in that earlier discussion.
-
-**`Anāsravaḥ svalakṣaṇākāraḥ` — an uncontaminated own-characteristic
-aspect.** The prose's explicit question. VAK 7.11 assigned own-
-characteristic apprehension to contaminated other-mind knowledge;
-the present discussion asks whether an uncontaminated aspect outside
-the sixteen is admitted at all.
-
-**`Śāstrataḥ` — from the treatise.** The appeal concerns a specific
-Abhidharma analytical passage, not an unspecified sūtra or generic
-scriptural testimony. The interpretation of that passage is itself
-examined.
-
-**`Bahirdeśaka` — teacher from outside Kashmir.** The proponents of
-the affirmative position in the prose. The geographic attribution
-is explicit; a more specific school identification is not needed
-to represent this local disagreement.
-
-**`Anyatrāvacana` — absence of the expression elsewhere.** The ground
-given against the proposed weaker reading of the treatise: the same
-wording is absent in a parallel passage where that reading would
-lead one to expect it.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `śeṣe` | the remaining two | Nominative dual for exhaustion- and non-arising-knowledge, not a locative singular. |
+| `śūnya` / `anātman` | empty / non-self | Two aspects excluded from the terminal knowledges' sixteenfold source field, without denying their doctrinal role. |
+| `saṃvṛtibhajana` | participation in conventional expression | Bhāṣya explanation of how ultimate knowledges support ordinary declarations of completion. |
+| `tadbalānuvyavahāra` | subsequent expression on their strength | Declaration supported by the terminal knowledges, distinct from the knowledge itself; transmitted `tadvala-` remains uncertain. |
+| `anāsravaḥ svalakṣaṇākāraḥ` | uncontaminated own-characteristic aspect | Object of the dispute over an aspect beyond sixteen, distinct from 7.11's contaminated own-characteristic knowing. |
+| `śāstrataḥ` | from the treatise | Appeal to a particular analytical treatise passage whose interpretation is examined. |
+| `bahirdeśaka` | teacher from outside Kashmir | Proponents of the affirmative position; no more specific school identification is supplied here. |
+| `anyatrāvacana` | absence of the expression elsewhere | Argument against the weaker construal: the existential formula is absent where that reading would predict it. |
 
 ## 8. Logical Determination
 
@@ -233,6 +183,12 @@ The following objection proposes a less expansive construal of the
 quotation; the reply tests it against parallel usage and rejects it.
 The discussion therefore provides more than a report of disagreement,
 while stopping short of enumerating a newly expanded aspect-system.
+
+**Bhāṣya control.** Pradhan 399|01–399|20 supplies the dual referent,
+the two attributed positions, and the textual test of the affirmative
+claim. The informed translation gives the verse's contrast; the
+conventional declaration supported by the terminal knowledges and the
+argument over the treatise quotation remain in the Bhāṣya analysis.
 
 **Conventional articulation and its ground.** The declaration about
 exhausted birth is made on the strength of the terminal knowledge.

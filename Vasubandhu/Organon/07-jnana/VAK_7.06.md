@@ -22,19 +22,14 @@ dharma/anvaya restriction. Devanāgarī `खङ्ग` here follows the IAST `kh
 the local study instead prints `खड्ग`. This script-level difference is
 recorded rather than silently treated as agreement between witnesses.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tat | dharma-anvaya-dhī-pakṣyam | anyaḥ | anyam |
-darśana-kṣaṇau | śrāvakaḥ | vetti | khaṅgaḥ | trīn |
-sarvān | buddhaḥ | a-prayogataḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `tat` | nominative singular neuter pronoun, provisional opening | that [other-mind knowledge] |
-| `dharma-anvaya-dhī-pakṣyam` | neuter singular compound expression | belonging to the dharma- or anvaya-cognition side |
-| `anyaḥ anyam` | conventional reciprocal expression | one another; one side in relation to the other |
+| `tat` (`tad` before `dh`) | nominative singular neuter pronoun; provisional restoration of transmitted `ta` | that other-mind knowledge, continuing the subject of 7.05 |
+| `dharma-anvaya-dhī-pakṣyam` | neuter singular compound expression | belonging to the dharma- or anvaya-knowledge side; the prose supplies each side's restriction |
+| `anyaḥ` | nominative singular masculine reciprocal pronoun | one side as knowing, in relation to the other |
+| `anyam` | accusative singular masculine reciprocal pronoun | the other side as target; negative force carries from 7.05 |
 | `darśana-kṣaṇau` | accusative dual masculine | two moments of Seeing, objects of `vetti` |
 | `śrāvakaḥ` | nominative singular masculine | disciple |
 | `vetti` | third-person singular present active of `√vid` | knows |
@@ -42,11 +37,7 @@ sarvān | buddhaḥ | a-prayogataḥ
 | `trīn` | accusative plural masculine numeral | three [moments] |
 | `sarvān` | accusative plural masculine adjective | all [moments of Seeing] |
 | `buddhaḥ` | nominative singular masculine | Buddha |
-| `aprayogataḥ` | adverbial formation in `-tas` | without preparatory application |
-
-The opening reciprocal construction is compressed and textually difficult.
-Its lexical decomposition does not by itself resolve every agreement or
-ellipsis. The paired prose clauses provide the controlling syntax.
+| `aprayogataḥ` | adverbial formation in `-tas` from `a-prayoga` | without preparatory application; qualifies the Buddha's knowing |
 
 ## 4. Grammar
 
@@ -105,21 +96,10 @@ all the Buddha, without preparatory application.
 
 ### Bhāṣya-informed study translation
 
-> Other-mind knowledge belonging to the dharma-knowledge side does not know
-> anvaya-side cognition, and anvaya-side other-mind knowledge does not know
-> dharma-side cognition. Other-mind knowledge does not itself occur in the
-> Path of Seeing, although that Path can be its object. Having prepared to
-> know another's Seeing, a disciple knows its first two moments: acceptance
-> of dharma-knowledge concerning suffering and the corresponding
-> dharma-knowledge. A Pratyekabuddha knows three: according to the principal
-> account, the first, second, and eighth; others say the first, second, and
-> fifteenth. A Buddha knows all moments of Seeing without preparatory
-> application.
-
-The expansions and alternative attribution follow the Bhāṣya, Pradhan
-393|15–394|04. “All” remains qualified by “moments of Seeing.” VAK 6.28
-distinguishes its fifteen moments from the full sixteen-moment realization
-sequence; the sixteenth begins Cultivation.
+> Dharma-side other-mind knowledge cannot know anvaya-side mind, nor can the
+> reverse. In another's Path of Seeing, a prepared disciple knows its first
+> two moments; a solitary realizer knows three; a Buddha knows every
+> Seeing-moment without preparatory application.
 
 ## 6. Philosophical Translation
 
@@ -138,44 +118,15 @@ alone would not explain their operation.
 
 ## 7. Technical Vocabulary
 
-**`Dharmajñānapakṣya` / `anvayajñānapakṣya` — belonging to the dharma- /
-anvaya-knowledge side.** The commentary applies these predicates separately
-to the knowing and the target cognition. The restriction concerns the
-relation between the two sides, beyond the superiority restrictions in
-VAK 7.05.
-
-**`Darśanamārga` as occurrence and as object.** The paired prose statements
-are decisive: `darśanamārge paracittajñānaṃ nāsti`, other-mind knowledge
-is absent in the Path of Seeing; `tadālambanaṃ tv asti`, knowledge taking
-that Path as object nevertheless exists. The locative relation and the
-object relation must remain distinct.
-
-**`Darśanakṣaṇa` — moment of Seeing.** A determinate moment in the observed
-Path. The disciple's two are the first suffering-dharma acceptance and
-knowledge. “Two” counts objects known in the sequence, not two moments
-performing reciprocal observation.
-
-**`Prayoga` — preparatory application.** A further application is needed
-to take the anvaya-side cognition as object. The Bhāṣya explains that
-while the disciple undertakes this preparation, the observed practitioner
-has reached the sixteenth cognition; the intervening moments are missed.
-This is a relational timing explanation, not a measured duration.
-
-**`Mṛduprayogatva` — lightness of preparatory application.** The stated
-reason for the Pratyekabuddha's greater range. The principal account names
-the eighth moment, origination-anvaya-knowledge, after the first two.
-The alternative first/second/fifteenth enumeration belongs to “others”
-and is not silently combined with the principal account.
-
-**`Aprayogataḥ` — without preparatory application.** The Buddha's knowing
-does not require the intervening preparation at issue. This local adverb
-does not assert the absence of every condition, all prior cultivation,
-or all activity whatsoever.
-
-**`Khaṅga` — rhinoceros-like solitary realizer.** The Bhāṣya uses
-`pratyekabuddha` in explaining the three-moment range. The retained
-Sanskrit designation and the explanatory name identify the same local
-subject without requiring a larger classification of solitary realizers.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `dharmajñānapakṣya` / `anvayajñānapakṣya` | belonging to the dharma- / anvaya-knowledge side | Bhāṣya predicates of knowing and target; each sided other-mind knowledge excludes the opposite side's cognition. |
+| `darśanamārga` | Path of Seeing | Other-mind knowledge does not occur within it, though it may take that Path as object. |
+| `darśanakṣaṇa` | moment of Seeing | The disciple's two are the first suffering-dharma acceptance and knowledge, counted as objects known. |
+| `prayoga` | preparatory application | A second preparation can miss intervening present moments while the observed Path continues. |
+| `mṛduprayogatva` | lightness of preparatory application | Bhāṣya ground for the solitary realizer's three moments; principal enumeration is first, second, eighth, while “others” say first, second, fifteenth. |
+| `aprayogataḥ` | without preparatory application | Buddha's knowing lacks the intervening preparation at issue, not every condition or prior cultivation. |
+| `khaṅga` / `pratyekabuddha` | rhinoceros-like solitary realizer / solitary Buddha | Verse designation and Bhāṣya explanation of the same three-moment knower. |
 
 ## 8. Logical Determination
 
@@ -234,6 +185,12 @@ sixteen,” but its quoted Sanskrit says all moments of Seeing. The
 fifteen/sixteen distinction established in VAK 6.28 prevents importing
 that numerical expansion into the official translation. Both research
 witnesses remain untouched.
+
+**Bhāṣya control.** Pradhan 393|15–394|04 supplies the disciple's first
+two moments and the two differently attributed accounts of the solitary
+realizer's three. The informed translation retains the verse's counts;
+the exact enumerations and attribution remain here and in the paired
+Bhāṣya study. “All” is restricted to moments of Seeing.
 
 **Textual caution.** Besides initial `ta`, the raw prose includes
 `kāmadhāturdhvadhātupratikṣālambanatvāttayoḥ`, `darjñanamārga`, and

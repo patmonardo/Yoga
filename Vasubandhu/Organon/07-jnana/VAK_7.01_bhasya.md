@@ -5,9 +5,10 @@
 > nāmalāḥ kṣāntayo jñānaṃ kṣayānutpādadhīr na dṛk |
 > tadanyobhayathāryā dhīḥ anyā jñānaṃ dṛśaś ca ṣaṭ || 7.1 ||
 
-> The uncontaminated acceptances are not knowledge. The cognition of
-> exhaustion and non-arising is not view. Noble cognition other than those
-> is both. Other cognition is knowledge, and six are views.
+> Uncontaminated acceptances are not knowledge. The knowledges of exhaustion
+> and non-arising are not view. Other uncontaminated discriminative cognition
+> is both knowledge and view. Worldly discriminative cognition is knowledge,
+> and six of its forms are also views.
 
 The Bhāṣya supplies the grounds the verse compresses: non-abandonment of
 the corresponding doubt; examining nature (`santīraṇa`); absence of
@@ -171,8 +172,8 @@ ascertainment only. Conventional knowledge already belongs to the field that
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
-The Organon kārikā translation already tracks these decisions and does not
-need rewriting on their account:
+The revised Organon kārikā translation incorporates these decisions while
+keeping the Bhāṣya's stated grounds in the analysis:
 
 - `na` in the first pāda governs the predicate `jñānam`, not the purity of
   the acceptances.
@@ -234,8 +235,7 @@ longer view. Moral closure cannot be read off a single cognitive label.
 
 ## 9. Review Status
 
-QA drafted against the Organon kārikā `VAK_7.01.md`, the first-pass Bhāṣya
-`Vasubandhu/VAK/07-jnana/VAK_7.01_bhasya.md`, and the local Pradhan span
-391|02–15 as transmitted in that file. Witness irregularities remain marked
-in Section 2. Provisional until the running `kosabhasya.txt` lines for this
-unit are collated in a second sitting.
+Reviewed against the paired Organon kārikā study and the Pradhan 391|02–15
+span as recorded in this study. The kārikā anchor now reproduces the settled
+Bhāṣya-informed study translation exactly. Witness irregularities remain
+marked in Section 2; their restoration is still provisional.

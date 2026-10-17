@@ -21,33 +21,17 @@ allocation need not await later verses. Its raw verse quotation has
 uses `pratipakṣābhyām` and `hetūpacayato`. These working normalizations
 are recorded rather than treated as a diplomatic transcription.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-svabhāva-pratipakṣābhyām | ākāra-ākāra-gocarāt |
-prayoga-kṛta-kṛtyatva-hetu-upacayataḥ | daśa
-```
-
-The Bhāṣya resolves the compressed series into seven grounds:
-
-```text
-svabhāva | pratipakṣa | ākāra | ākāra-ālambana |
-prayoga | kṛtakṛtyatva | hetūpacaya
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `svabhāva-pratipakṣābhyām` | instrumental dual compound | by intrinsic nature and counteraction |
-| `ākāra-ākāra-gocarāt` | ablative singular compressed compound | from aspect, and from aspect together with object-range |
-| `prayoga` | member of final compound series | preparatory application |
-| `kṛta-kṛtyatva` | abstract noun in `-tva`, compound member | the state of having done what had to be done |
-| `hetu-upacaya` | compound member | accumulation of causes |
-| `-taḥ` | adverbial suffix expressing a ground | on account of, from the standpoint of |
-| `daśa` | numeral, nominative plural here | ten [knowledges] |
-
-`Kṛta` means done; `kṛtya` means to be done. Their relation gives the
-accomplished-task sense before the abstract suffix `-tva` is added.
-`Hetu + upacaya` yields `hetūpacaya`.
+| `svabhāva-pratipakṣābhyām` | instrumental dual compound, `svabhāva` + `pratipakṣa` | by two grounds: intrinsic nature and counteraction |
+| `ākāra-ākāra-gocarāt` | ablative singular compressed compound | by aspect alone, then by aspect together with object-range; the Bhāṣya distinguishes `ākārataḥ` from `ākārālambanataḥ` |
+| `prayoga` | first member of the final compound series | by preparatory application |
+| `kṛta-kṛtyatva` | abstract compound in `-tva`: `kṛta` (done) + `kṛtya` (to be done) | by having accomplished what had to be done |
+| `hetu-upacaya` (`hetūpacaya`) | compound member; vowel sandhi of `hetu + upacaya` | by accumulation of causes |
+| `-taḥ` | adverbial suffix governing the final series | on account of preparation, accomplishment, and causal accumulation |
+| `daśa` | nominative plural numeral; `jñānāni` understood | ten knowledges, established on these seven grounds |
 
 ## 4. Grammar
 
@@ -90,25 +74,13 @@ established as] ten.
 
 ### Bhāṣya-informed study translation
 
-> The ten knowledges are established, it is said, through seven grounds.
-> Conventional knowledge is distinguished by its nature, as not being
-> knowledge of ultimate reality. Dharma- and anvaya-knowledge are
-> distinguished by counteraction with respect to the desire and higher
-> domains. Suffering- and origination-knowledge differ by aspect while
-> their object-support is undifferentiated. Cessation- and Path-knowledge
-> differ by both aspect and object-support. Other-mind knowledge is named
-> through its preparation, undertaken to know another mind, although it
-> also knows mental factors. Exhaustion-knowledge is distinguished through
-> accomplished-task status, arising in a continuum whose work has been
-> done. Non-arising-knowledge is distinguished through accumulation of
-> causes, having all uncontaminated [dharmas] as causes.
-
-This distribution follows Pradhan 395|03–395|09. The source's
-`prathamataḥ` stands immediately between the exhaustion and causal-
-accumulation explanations. It may complete the former as “arising first
-in a continuum whose task is accomplished”; its exact punctuation and
-attachment remain marked for textual review rather than silently omitted
-from the source record.
+> The ten knowledges are distinguished, it is said, on seven grounds:
+> conventional knowledge by its nature; dharma- and anvaya-knowledge by
+> what they counteract; suffering- and origination-knowledge by differing
+> aspects of one object-support; cessation- and Path-knowledge by both
+> aspect and object-support; other-mind knowledge by its preparatory aim;
+> exhaustion-knowledge by accomplished work; and non-arising-knowledge by
+> accumulated causes.
 
 ## 6. Philosophical Translation
 
@@ -127,47 +99,15 @@ name derived from preparation need not enumerate every possible object.
 
 ## 7. Technical Vocabulary
 
-**`Svabhāva` — intrinsic nature.** The ground assigned to conventional
-knowledge. The prose explains it with `aparamārthajñānatvāt`, because
-it is not ultimate knowledge. This must be read alongside VAK 7.03:
-conventional knowledge can have unconditioned dharmas as objects. The
-present nature-predicate does not impose a new exclusion on object-range.
-
-**`Pratipakṣa` — counteraction / counteragent.** The ground distinguishing
-dharma- and anvaya-knowledge in relation to the desire and higher domains.
-This is a functional relation, not merely a restatement of a spatial
-location. Its exact scope receives further qualification in VAK 7.09;
-no universal “dharma-knowledge counters only the desire domain” rule is
-established here.
-
-**`Ākāra` — aspect.** Suffering- and origination-knowledge are
-distinguished by aspect because their object-support is not different:
-`ālambanābhedāt`. The same field is known under different truth-aspects.
-The four aspects of each are not enumerated in this verse.
-
-**`Ākāra-gocara` / `ākāra-ālambana` — aspect together with object-range /
-object-support.** The kārikā expression and the Bhāṣya expansion. For
-cessation- and Path-knowledge, both aspect and object-support differ.
-This paired ground must remain distinct from aspect alone.
-
-**`Prayoga` — preparatory application.** Other-mind knowledge is so named
-because the undertaking aims at knowing another's mind and the cognition
-is accomplished from that preparation. The Bhāṣya explicitly notes that
-mental factors are also known. Here the preparation's aim explains the
-designation; the name is not an exclusive object-definition.
-
-**`Kṛtakṛtyatva` — having accomplished what had to be done.** The ground
-assigned to exhaustion-knowledge. The prose refers to its arising in a
-`kṛtakṛtyasaṃtāna`, a continuum whose task has been accomplished. The
-criterion is the continuum's accomplished status, not a bare verbal
-assertion of success.
-
-**`Hetūpacaya` — accumulation of causes.** The ground assigned to
-non-arising-knowledge. The precise local statement is
-`sarvānāsravahetukatvāt`, having all uncontaminated [dharmas] as causes.
-This is more specific than a general claim that its causes have become
-stronger. The passage does not here enumerate the causal relations or
-authorize a global all-to-all causal model across practitioners.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `svabhāva` | intrinsic nature | Ground of conventional knowledge; `aparamārthajñānatva` does not restrict its possible object-range established in 7.03. |
+| `pratipakṣa` | counteraction / counteragent | Ground distinguishing dharma- and anvaya-knowledge by relation to desire and higher domains; 7.09 further qualifies its scope. |
+| `ākāra` | aspect | Suffering- and origination-knowledge differ in aspect despite sharing object-support. |
+| `ākāra-gocara` / `ākāra-ālambana` | aspect together with object-range / object-support | Verse and Bhāṣya forms of the paired ground for cessation- and Path-knowledge, which differ in both. |
+| `prayoga` | preparatory application | Other-mind knowledge is named from the undertaking's aim, although it can also know mental factors. |
+| `kṛtakṛtyatva` | having accomplished what had to be done | Ground of exhaustion-knowledge arising in a continuum whose task is done. |
+| `hetūpacaya` | accumulation of causes | Ground of non-arising-knowledge, specified as having all uncontaminated dharmas as causes; the causal relations are not enumerated here. |
 
 ## 8. Logical Determination
 
@@ -220,6 +160,12 @@ not be merged into one undifferentiated “completion” criterion.
 deferred the exact mapping. The immediate Bhāṣya supplies all seven
 allocations, so the official study presents them here. No extrapolation
 from the names is needed.
+
+**Bhāṣya control.** Pradhan 395|03–395|09 supplies the allocation and
+the reasons summarized in the informed translation. Its `prathamataḥ`
+stands between the explanations of exhaustion- and non-arising-knowledge;
+the exact attachment remains open, so the translation does not silently
+settle its punctuation.
 
 **The force of a preparatory aim.** VAK 7.05 classified other-mind
 knowledge within four knowledge-categories without asserting that those

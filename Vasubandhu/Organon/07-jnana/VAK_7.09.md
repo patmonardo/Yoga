@@ -19,31 +19,22 @@ joins the opening as `dharmajñānanirodhe`; the study reading separates
 `dharmajñānaṃ nirodhe`, supported by the following prose explanation.
 The verse qualifies the counteraction distinction stated in VAK 7.08.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dharma-jñānam | nirodhe | yat | mārge | vā | bhāvanā-pathe |
-tri-dhātu-pratipakṣaḥ | tat | kāma-dhātoḥ | tu | na | anvayam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dharmajñānam` | nominative singular neuter compound | dharma-knowledge |
 | `nirodhe` | locative singular masculine | concerning cessation |
-| `yat` | nominative singular neuter relative pronoun | which; agrees with dharma-knowledge |
+| `yat` (`yan` before `mārge`) | nominative singular neuter relative pronoun | which dharma-knowledge; joins the qualification to `tat` |
 | `mārge` | locative singular masculine | concerning the Path |
 | `vā` | alternative particle | or |
-| `bhāvanāpathe` | locative singular masculine compound | in the Path of Cultivation |
-| `tridhātupratipakṣaḥ` | nominative singular masculine compound noun | counteragent to the three domains |
-| `tat` | nominative singular neuter correlative pronoun | that [knowledge] |
-| `kāmadhātoḥ` | genitive singular masculine here | of / with respect to the desire domain |
+| `bhāvanāpathe` | locative singular masculine compound | in the Path of Cultivation; the Bhāṣya specifies inclusion there |
+| `tridhātupratipakṣaḥ` | nominative singular masculine compound predicate | counteragent to all three existential domains |
+| `tat` | nominative singular neuter correlative pronoun | that qualified dharma-knowledge, despite the masculine predicate noun |
+| `kāmadhātoḥ` | genitive singular masculine | with respect to the desire domain; governs the understood `pratipakṣaḥ` |
 | `tu` | contrastive particle | but, whereas |
 | `na` | negative particle | not |
-| `anvayam` | nominative singular neuter elliptical designation | anvaya-[knowledge] |
-
-`Yat + mārge` appears as `yan mārge`; `na + anvayam` yields `nānvayam`.
-The genitive `kāmadhātoḥ` specifies the domain to which the omitted
-predicate “counteragent” would relate.
+| `anvayam` (`nānvayam` after `na`) | nominative singular neuter elliptical designation; `jñānam` understood | anvaya-knowledge; excluded as desire-domain counteragent, strengthened by the Bhāṣya's `sarvathā` |
 
 ## 4. Grammar
 
@@ -98,18 +89,10 @@ Anvaya-[knowledge], however, is not a counteragent to the desire domain.
 
 ### Bhāṣya-informed study translation
 
-> Dharma-knowledge was called the counteragent to the desire domain
-> with regard to its complete counteraction of that domain. There is,
-> however, a further qualification: its cessation- and Path-knowledge
-> forms, when included in the Path of Cultivation, are counteragents
-> to all three domains. Anvaya-knowledge is in no way a counteragent
-> to the desire domain.
-
-The explanation follows Pradhan 395|10–395|16. The opening
-`sakalasya sakalapratipakṣatvāt` is compressed: the local Bhāṣya study
-construes it through complete dharma-knowledge and complete desire-domain
-counteraction. That retrospective summary does not say that each isolated
-knowledge-event abandons every desire-domain affliction at once.
+> Although dharma-knowledge is named a counteragent to the desire domain,
+> its cessation- or Path-knowledge within the Path of Cultivation counters
+> all three domains. Anvaya-knowledge, however, is in no case a
+> counteragent to the desire domain.
 
 ## 6. Philosophical Translation
 
@@ -128,43 +111,16 @@ object-range.
 
 ## 7. Technical Vocabulary
 
-**`Dharmajñāna` — dharma-knowledge.** The knowledge-kind previously
-specified through the desire-domain truth-field. The present statement
-selects its cessation- and Path-forms within Cultivation. The selection
-is essential to the three-domain efficacy claim.
-
-**`Nirodha` and `mārga` — cessation and Path.** The two truth-objects
-named in the condition. Suffering- and origination-knowledge are not
-included in this particular extension merely because they also belong
-to the dharma-knowledge field.
-
-**`Bhāvanāpatha` / `bhāvanāmārga` — Path of Cultivation.** The kārikā
-and prose expressions for the relevant Path-membership. The chapter's
-earlier Seeing discussion does not supply an interchangeable condition.
-As established in VAK 6.28, strict Seeing has fifteen moments; the
-sixteenth begins Cultivation.
-
-**`Saṃgṛhīta` — included / comprised.** The commentary's participle
-specifies inclusion within Cultivation. This is more exact than treating
-`bhāvanā` here as any repeated practice whatsoever.
-
-**`Pratipakṣa` — counteragent.** The functional predicate. In the
-present discussion it concerns opposition to the afflictive field of
-the domains, not destruction of domains as locations or mere possession
-of information about them.
-
-**`Tridhātu` — the three domains.** Desire, form, and formlessness.
-These are the existential domains operative in the Path's counteraction,
-not Chapter 1's eighteen cognition-domains.
-
-**`Anvayajñāna` — anvaya-knowledge.** Its higher-domain truth-range
-does not establish desire-domain counteraction. The Bhāṣya explicitly
-excludes the latter in every case; it does not state a reciprocal
-exception corresponding to the dharma-knowledge extension.
-
-**`Sarvathā` — in every way / under any circumstances.** The prose
-strengthening of the negative clause. Its force must remain attached
-to anvaya-knowledge's exclusion from desire-domain counteraction.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `dharmajñāna` | dharma-knowledge | Only its cessation- and Path-forms included in Cultivation receive the three-domain counteractive reach stated here. |
+| `nirodha` / `mārga` | cessation / Path | Two truth qualifications of the positive rule; suffering- and origination-knowledge are not included by this clause. |
+| `bhāvanāpatha` / `bhāvanāmārga` | Path of Cultivation | Kārikā and Bhāṣya expressions for required Path-membership, distinct from Seeing. |
+| `saṃgṛhīta` | included / comprised | Bhāṣya participle specifying inclusion in the Path of Cultivation. |
+| `pratipakṣa` | counteragent | Functional opposition to the afflictive field of a domain, distinct from object-range or destruction of a location. |
+| `tridhātu` | three domains | Desire, form, and formless domains in the counteraction claim, not the eighteen cognition-domains. |
+| `anvayajñāna` | anvaya-knowledge | Categorically excluded from desire-domain counteraction; no matching reverse exception is stated. |
+| `sarvathā` | in every way / under any circumstances | Bhāṣya strengthening of the negative clause concerning anvaya-knowledge. |
 
 ## 8. Logical Determination
 
@@ -218,6 +174,13 @@ more precise asymmetrical qualification.
 dharma-knowledge to desire-domain counteraction. The classification
 is refined through its conditions rather than replaced with a new
 unqualified division.
+
+**Bhāṣya control.** Pradhan 395|10–395|16 supplies the contrast used in
+the informed translation. Its compressed opening
+`sakalasya sakalapratipakṣatvāt` recalls complete desire-domain
+counteraction; it does not claim that one isolated knowledge-event
+abandons every desire-domain affliction at once. The prose's `sarvathā`
+makes the anvaya exclusion categorical.
 
 **No change of object follows automatically.** The source does not
 say that dharma-knowledge becomes anvaya-knowledge by acquiring wider

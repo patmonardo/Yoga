@@ -21,34 +21,23 @@ it then questions what an aspect is. The verse's identification with
 prajñā and the prose's proposed reformulation remain distinct stages
 of that argument.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dravyataḥ | ṣoḍaśa | ākārāḥ | prajñā | ākāraḥ |
-tayā | saha | ākārayanti | sa-ālambāḥ |
-sarvam | ākāryate | tu | sat
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dravyataḥ` | adverbial formation in `-tas` | in substantial distinction, not merely by name |
 | `ṣoḍaśa` | numeral, nominative plural here | sixteen |
 | `ākārāḥ` | nominative plural masculine | aspects |
 | `prajñā` | nominative singular feminine | discriminative knowing |
-| `ākāraḥ` | nominative singular masculine | aspect |
-| `tayā` | instrumental singular feminine pronoun | with that prajñā |
-| `saha` | postposition governing instrumental | together with |
-| `ākārayanti` | third-person plural active verbal form in `-ayati` | apprehend under an aspect |
-| `sālambāḥ` | nominative plural masculine adjective, substantivally used | those possessing object-supports |
+| `ākāraḥ` | nominative singular masculine | aspect; the verse identifies it with prajñā, which the prose then questions |
+| `tayā` | instrumental singular feminine pronoun | with that prajñā; goes forward with `ākārayanti` |
+| `saha` | postposition governing instrumental | together with; joins prajñā to the other object-bearing dharmas |
+| `ākārayanti` | third-person plural active verbal form in `-ayati` | apprehend under an aspect, not produce an image |
+| `sālambāḥ` | nominative plural masculine adjective, substantivally used; `sa-ālamba` | those possessing object-supports, the active cognitive side |
 | `sarvam` | nominative singular neuter adjective | all, everything |
-| `ākāryate` | third-person singular passive corresponding to `ākārayati` | is apprehended under an aspect |
+| `ākāryate` | third-person singular passive corresponding to `ākārayati` | is apprehended under an aspect; marks the object side |
 | `tu` | contrastive particle | whereas, however |
-| `sat` | nominative singular neuter participle of `√as`, substantivally used | what exists |
-
-`Ṣoḍaśa + ākārāḥ` gives `ṣoḍaśākārāḥ`; it means “sixteen aspects,”
-not a predicate assigning sixteen aspects to each aspect. The verbal
-forms are interpreted through the prose's object-taking explanation,
-without imposing an image-production theory on their morphology.
+| `sat` | nominative singular neuter participle of `√as`, substantivally used | what exists, considered as available to be known, not necessarily knowing |
 
 ## 4. Grammar
 
@@ -95,20 +84,10 @@ is apprehended under an aspect.
 
 ### Bhāṣya-informed study translation
 
-> The account presented here distinguishes sixteen aspects substantially,
-> rather than merely sixteen names. It initially identifies aspect
-> with discriminative knowing. The prose objects that prajñā would
-> then lack an aspect, since it is not associated with another prajñā,
-> and proposes instead: aspect is the manner in which mind and mental
-> factors take their object-support. Prajñā and the other object-
-> bearing dharmas apprehend under an aspect; whatever exists can
-> itself become an object of such apprehension.
-
-The numerical discussion and aspect explanations occupy
-399|21–401|17; the definitional argument and active/passive
-distinction occupy 401|18–402|05. The reformulation is attributed
-to the prose rather than inserted into the literal kārikā as though
-the verse already stated it.
+> In substantial distinction, the aspects are sixteen. Prajñā is called
+> the aspect; with it, all dharmas that take an object apprehend under an
+> aspect. Whatever exists, however, can itself be apprehended under an
+> aspect.
 
 ## 6. Philosophical Translation
 
@@ -127,17 +106,17 @@ the same moment.
 
 ## 7. Technical Vocabulary
 
-**`Dravyataḥ` and `nāmataḥ` — substantially and nominally.** The
-preliminary alternative counts seven substantially and sixteen by
-name: four for suffering, and one each for origination, cessation,
-and Path. The kārikā presents sixteen substantially. This is a
-doctrinal distinction among aspects, not the assertion of sixteen
-permanent substances or sixteen simultaneous mental factors.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `dravyataḥ` / `nāmataḥ` | substantially / nominally | The alternative counts seven substantially and sixteen by name; the kārikā presents sixteen substantial aspect-distinctions, not permanent substances or simultaneous factors. |
+| `prajñā` / `ākāra` | discriminative knowing / aspect | The verse identifies prajñā with aspect; the prose tests that identity and proposes a broader account of aspect-bearing cognition. |
+| `ālambanagrahaṇaprakāra` | manner of taking an object-support | Proposed prose definition after the objection; applies to citta and caittas, not solely prajñā. |
+| `sālamba` / `sālambana` | possessing an object-support | Kārikā and prose forms for dharmas on the active cognitive side; being knowable alone does not imply this activity. |
+| `ākārayati` / `ākāryate` | apprehends / is apprehended under an aspect | Active and passive roles in the verse, without an image-production claim or same-moment self-apprehension. |
 
 **The sixteen aspects.** The Bhāṣya provides several explanatory
-series. The following table preserves the aspect-names and gives
-selected grounds from those series, rather than presenting one
-unmarked synthesis as a single Sanskrit passage.
+series. The following table preserves the aspect-names and selected
+grounds without combining them into one purported Sanskrit passage.
 
 | Truth | Aspect | Working sense | Selected Bhāṣya determination |
 |---|---|---|---|
@@ -182,21 +161,6 @@ meditative pleasure, and the claim that liberation is impermanent
 through repeated decline. The Path quartet counters denial of a
 Path, its being a wrong Path, an alternative Path, and a returning
 Path. These are the local corrective functions stated in the prose.
-
-**`Ālambanagrahaṇaprakāra` — manner of taking an object-support.**
-The proposed definition after the objection to identifying aspect
-simply with prajñā. `Prakāra` specifies manner; the definition applies
-to citta and caittas, not only to one discriminative factor.
-
-**`Sālamba` / `sālambana` — possessing an object-support.** The
-kārikā and prose forms. They mark the active cognitive side of the
-relation. The text does not grant apprehending activity to every
-existent merely because it can be an object.
-
-**`Ākārayati` / `ākāryate` — apprehends / is apprehended under an
-aspect.** The active/passive distinction gives the final clause its
-structure. Prajñā can apprehend and be apprehended; an object-support
-considered simply in its object-role is apprehended.
 
 ## 8. Logical Determination
 
@@ -266,6 +230,13 @@ doctrinal presentation with a critical reformulation, rather than
 rewritten as though every sentence belonged to one uncontested
 theory. The local text does not explicitly name a school for every
 step of this exchange.
+
+**Bhāṣya control.** Pradhan 399|21–401|17 gives the count and several
+explanatory series; 401|18–402|05 raises the objection to identifying
+aspect simply with prajñā and proposes `ālambanagrahaṇaprakāra`.
+The informed translation follows the kārikā's sequence and leaves the
+prose's critical reformulation in the analysis. The paired Bhāṣya study
+quotes the definitional exchange, not the full multi-page aspect discussion.
 
 **Source cautions.** The e-text contains numerous corrupt forms,
 including `ṣīḍātmakatvāt`, `akndhoparamatvāt`, `ākāraynti`, and the

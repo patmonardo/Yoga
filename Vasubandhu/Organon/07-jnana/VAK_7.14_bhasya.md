@@ -5,9 +5,13 @@
 > tridhādyaṃ kuśalāny anyāni ādyaṃ sarvāsu bhūmiṣu |
 > dharmākhyaṃ ṣaṭsu navasu tv anvayākhyaṃ tathaiva ṣaṭ || 7.14 ||
 
-> The first is threefold; the others are wholesome. The first is in all
-> levels. That called dharma-knowledge is in six, whereas that called
-> anvaya-knowledge is in nine; likewise the six.
+> Conventional knowledge may be wholesome, unwholesome, or indeterminate
+> and occurs at every level; the other nine knowledges are wholesome.
+> Dharma-knowledge belongs to six levels—the four dhyānas, preliminary
+> concentration, and intermediate dhyāna—while anvaya-knowledge belongs
+> to those six plus the first three formless levels. The remaining six
+> knowledges span nine levels collectively, but six when included under
+> dharma-knowledge and nine under anvaya-knowledge.
 
 `Ādyam` = conventional knowledge by verse-placement (`ślokādau`), not by
 every prose list order. Paracitta's level waits for 7.15; its wholesomeness
@@ -117,6 +121,7 @@ still calls it aparamārtha by nature (7.08). That tension is the entertainment.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.14.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.14_bhasya.md` (Pradhan 402|06–18). Paracitta
-level in 7.15. `kosabhasya.txt` collation pending. Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan 402|06–18
+span recorded here. The anchor now reproduces the Bhāṣya-informed study
+translation exactly. Other-mind knowledge's level follows in 7.15;
+damaged spellings and exact source-line collation remain open.

@@ -19,14 +19,9 @@ unfinished at this verse boundary: “those two, however, when first arisen …�
 receives its predicate at the opening of VAK 7.05. The Bhāṣya explicitly
 establishes this temporal reading.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-te | eva | satya-bhedena | catvāri | ete | catur-vidhe |
-anutpāda-kṣaya-jñāne | te | punaḥ | prathama-udite
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `te` | nominative dual neuter pronoun | those two: dharma-knowledge and anvaya-knowledge |
 | `eva` | restrictive/emphatic particle | those very, precisely |
@@ -34,18 +29,10 @@ anutpāda-kṣaya-jñāne | te | punaḥ | prathama-udite
 | `catvāri` | nominative plural neuter numeral | four [knowledges] |
 | `ete` | nominative dual neuter demonstrative | these two, with reference controlled by the following construction |
 | `caturvidhe` | nominative dual neuter adjective | fourfold, divided into four kinds |
-| `anutpāda-kṣaya-jñāne` | nominative dual neuter compound designation | knowledge of non-arising and knowledge of exhaustion |
+| `anutpāda-kṣaya-jñāne` | nominative dual neuter compound designation; dual ending joins `anutpādajñāna` and `kṣayajñāna` | knowledge of non-arising and knowledge of exhaustion; each singular name remains distinct |
 | `te` | nominative dual neuter pronoun | those two: the non-arising and exhaustion knowledges |
 | `punaḥ` | adverb / connective particle | again, in turn; however here |
-| `prathama-udite` | nominative dual neuter compound adjective | first arisen; qualifying the two knowledges |
-
-`Anutpāda-kṣaya-jñāne` gathers two knowledge-designations under the dual
-ending. Its decomposition supplies the two singular names
-`anutpādajñāna` and `kṣayajñāna`; it does not make each name separately dual.
-
-`Prathama + udite` gives `prathamodite`. Although “stated” could suggest
-itself from the isolated spelling, the commentary's `prathamotpanne`
-establishes “first arisen” in this context.
+| `prathama-udite` (`prathamodite`) | nominative dual neuter compound adjective; `prathama + udite` | first arisen, qualifying the two terminal knowledges; the Bhāṣya glosses it with `prathamotpanne` |
 
 ## 4. Grammar
 
@@ -99,18 +86,10 @@ fourfold. Those two, however, first arisen …
 
 ### Bhāṣya-informed study translation
 
-> Those same dharma- and anvaya-knowledges are classified according to
-> their truth-objects as four: knowledge of suffering, origination,
-> cessation, and the Path. Those same fourfold dharma- and anvaya-knowledges,
-> when their nature is not view, are called knowledge of exhaustion and
-> knowledge of non-arising. These two, however, when they first arise …
-
-The explanation follows the Bhāṣya, Pradhan 392|13–392|20. The predicate
-supplied at 393|01–393|03, in the continuation into VAK 7.05, identifies
-the first-arising cases as suffering-anvaya-knowledge and
-origination-anvaya-knowledge. Its object and aspect qualifications belong
-to the next study. No one-to-one assignment of the two terminal names to
-those two truth-categories is asserted here.
+> The same dharma- and anvaya-knowledges divide by truth-object into four:
+> knowledge of suffering, origination, cessation, and the Path. As fourfold
+> knowledge without the nature of view, they are also called exhaustion-
+> knowledge and non-arising-knowledge. When these two first arise, however …
 
 ## 6. Philosophical Translation
 
@@ -129,34 +108,14 @@ need not have the same scope.
 
 ## 7. Technical Vocabulary
 
-**`Satyabheda` — distinction according to the truths.** The classificatory
-basis by which the two uncontaminated knowledges receive the four names
-suffering-, origination-, cessation-, and Path-knowledge.
-
-**`Tadālambanatva` — having those as object-supports.** The Bhāṣya's stated
-ground for the fourfold naming. The truths function here as the objects
-according to which knowledge is distinguished.
-
-**`Catvāri` / `caturvidha` — four / fourfold.** `Catvāri` counts the four
-truth-knowledge categories. `Caturvidhe` characterizes the dual knowledge
-field as fourfold. A two-by-four table can display their intersections,
-but its eight cells are not eight additional coordinate names in the
-announced tenfold classification.
-
-**`Adṛṣṭisvabhāva` — having a nature that is not view.** The Bhāṣya's
-further determination of the knowledges called exhaustion and non-arising.
-It recalls VAK 7.01. “Not view” should remain a technical predicate rather
-than becoming a general assertion that cognition or discrimination has
-ceased.
-
-**`Kṣayajñāna` / `anutpādajñāna` — exhaustion-knowledge / non-arising-knowledge.**
-The terminal designations are placed within the already differentiated
-uncontaminated field. The present unit does not yet give their complete
-individual definitions or distinguish all conditions of their possession.
-
-**`Prathamodita` / `prathamotpanna` — first arisen.** The kārikā expression
-and its explicit Bhāṣya gloss. They determine an initial occurrence, not
-the earlier position of names in a list.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `satyabheda` | distinction according to the truths | Classifies the same dharma- and anvaya-knowledges by their truth-objects. |
+| `tadālambanatva` | having those as object-supports | Bhāṣya ground for the four truth-knowledge names. |
+| `catvāri` / `caturvidha` | four / fourfold | Four truth-category names cross two knowledge forms; the eight intersections are not additional names in the tenfold count. |
+| `adṛṣṭisvabhāva` | having a nature that is not view | Bhāṣya predicate for the terminal knowledges, recalling 7.01 without denying cognition. |
+| `kṣayajñāna` / `anutpādajñāna` | exhaustion-knowledge / non-arising-knowledge | Two terminal designations within the fourfold uncontaminated field; individual definitions remain to be established. |
+| `prathamodita` / `prathamotpanna` | first arisen | Kārikā term and Bhāṣya gloss for initial occurrence, not first position in a list. |
 
 ## 8. Logical Determination
 

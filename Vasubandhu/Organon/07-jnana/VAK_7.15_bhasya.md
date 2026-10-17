@@ -5,9 +5,10 @@
 > dhyāneṣv anyamanojñānaṃ kāmarūpāśrayaṃ ca tat |
 > kāmāśrayaṃ tu dharmākhyam anyat traidhātukāśrayam || 7.15 ||
 
-> Knowledge of another mind is in the dhyānas and has the desire and form
-> domains as its support. Dharma-knowledge, however, has the desire domain
-> as its support; the rest has support in the three domains.
+> Other-mind knowledge belongs to the four dhyānas alone and is made
+> present with desire- or form-domain support. Dharma-knowledge is made
+> present only with desire-domain support; the remaining knowledge field
+> has possible support across the three domains.
 
 This finishes 7.14's level-account and adds `āśraya`. The Bhāṣya closes:
 `kṛto bhūmyāśrayanirdeśaḥ` — level and support are distinct and now stated.
@@ -105,7 +106,7 @@ presence.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.15.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.15_bhasya.md` (Pradhan 402|19–403|07).
+QA reviewed against the paired Organon kārikā and Bhāṣya studies
+(Pradhan 402|19–403|07).
 Damaged `anyat` gloss unrestored. `kosabhasya.txt` collation pending.
 Provisional.

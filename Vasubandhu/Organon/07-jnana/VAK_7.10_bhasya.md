@@ -5,9 +5,10 @@
 > dharmajñānānvayajñānaṃ ṣoḍaśākāram anyathā |
 > tathā ca sāṃvṛtaṃ svaiḥ svaiḥ satyākāraiś catuṣṭayam || 7.10 ||
 
-> Dharma-knowledge and anvaya-knowledge have sixteen aspects.
-> Conventional knowledge is otherwise and also thus. The group of four
-> [operates] through the aspects proper to its respective truths.
+> Dharma- and anvaya-knowledge each range over all sixteen truth-aspects.
+> Conventional knowledge can take these same aspects and others besides.
+> The four truth-knowledges—suffering, origination, cessation, and Path—each
+> operate through the four aspects proper to its own truth.
 
 The Bhāṣya postpones the sixteen names: `tān purastād upadekṣyāmaḥ`.
 This unit distributes ranges only.
@@ -125,6 +126,7 @@ where Vasubandhu waits.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.10.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.10_bhasya.md` (Pradhan 395|17–396|02).
-Sixteen names reserved. `kosabhasya.txt` collation pending. Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan
+395|17–396|02 span recorded here. The anchor now reproduces the
+Bhāṣya-informed study translation exactly. The sixteen names remain
+reserved for their later passage; exact source-line collation is open.

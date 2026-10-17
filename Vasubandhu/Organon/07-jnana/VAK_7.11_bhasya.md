@@ -5,9 +5,10 @@
 > tathā paramanojñānaṃ nirmalaṃ samalaṃ punaḥ |
 > jñeyasvalakṣaṇākāram ekaikadravyagocaram || 7.11 ||
 
-> Pure knowledge of another mind is likewise [four-aspected]. The
-> contaminated form, however, has the knowable's own characteristic as
-> its aspect. [Both] range over one individual entity at a time.
+> Uncontaminated other-mind knowledge, as Path-knowledge, has the four
+> aspects proper to Path. Contaminated other-mind knowledge takes the own
+> characteristic of the mind or mental factor it knows as its aspect.
+> Both range over one individual mental entity at a time.
 
 `Tathā` points to 7.10's four-aspect distribution, not the sixteen.
 The following prose (396–398) is a long test of sūtra mind-pairs; this
@@ -120,7 +121,9 @@ it does not undo the other's citta (Seeing both ≠ undoing both). Sublation
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.11.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.11_bhasya.md` (Pradhan 396–398). Pair-debate
-and damaged sentences not restored. `kosabhasya.txt` collation pending.
-Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan
+396|04–398|23 span reported here. The anchor now reproduces the
+Bhāṣya-informed study translation exactly. The long debate is represented
+by its opening verse explanation and an argument summary; it has not yet
+received a continuous Sanskrit quotation and translation in this study.
+Damaged readings and exact source-line collation remain open.

@@ -5,9 +5,11 @@
 > traidhātukāmalā dharmā akṛtāś ca dvidhā dvidhā |
 > sāṃvṛtaṃ svakalāpānyad ekaṃ vidyād anātmataḥ || 7.18 ||
 
-> Dharmas belonging to the three domains and uncontaminated dharmas, and
-> the unconditioned, are each divided twofold. One conventional knowledge
-> could know, as non-self, what is other than its own complex.
+> Conditioned dharmas of the three domains and the uncontaminated
+> field are each divided into associated and non-associated; the
+> unconditioned are divided into wholesome and indeterminate. One
+> conventional knowledge can know, as non-self, all dharmas outside
+> its own co-arising complex.
 
 This is the assignment announced at the close of 7.17. First-pass marks
 7.01–7.18 as an editorial block. That cut is ours, not the text's stop.
@@ -115,7 +117,6 @@ would print “all dharmas known.”
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.18.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.18_bhasya.md` (Pradhan 404|12–405|04).
-Reason-clause and level-qualification open. `kosabhasya.txt` collation
-pending. Provisional.
+QA reviewed against the paired Organon kārikā and Bhāṣya studies
+(Pradhan 404|12–405|04). The reason-clause and level qualification
+remain open; Sanskrit collation is pending. Provisional.

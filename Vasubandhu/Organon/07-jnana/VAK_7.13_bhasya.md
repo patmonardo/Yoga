@@ -5,9 +5,10 @@
 > dravyataḥ ṣoḍaśākārāḥ prajñākāras tayā saha |
 > ākārayanti sālambāḥ sarvam ākāryate tu sat || 7.13 ||
 
-> The aspects are sixteen in substantial distinction. Prajñā is the aspect.
-> Together with it, the object-bearing [dharmas] apprehend under an aspect;
-> whatever exists, however, is apprehended under an aspect.
+> In substantial distinction, the aspects are sixteen. Prajñā is called
+> the aspect; with it, all dharmas that take an object apprehend under an
+> aspect. Whatever exists, however, can itself be apprehended under an
+> aspect.
 
 The verse identifies aspect with prajñā. The prose objects and offers
 `ālambanagrahaṇaprakāra`. That reformulation is commentary, not read back
@@ -125,7 +126,9 @@ functions of aspects, not the generation of the Principle.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.13.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.13_bhasya.md` (Pradhan 399|21–402|05).
-Explanatory series not collapsed. `kosabhasya.txt` collation pending.
-Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan
+399|21–402|05 span reported here. The anchor now reproduces the
+Bhāṣya-informed study translation exactly. The multi-page explanatory
+series are summarized, while the defining exchange is excerpted;
+continuous source quotation and translation of the whole span remain
+open. Damaged readings and exact source-line collation also remain open.

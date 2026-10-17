@@ -27,33 +27,20 @@ After distinguishing knowledge from view, the chapter turns to the
 comprehensive classification of knowledge. The Bhāṣya announces ten
 knowledges, then begins with their summary division.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sa-āsrava-anāsravam | jñānam | ādyam | saṃvṛti-jñānakam |
-anāsravam | dvidhā | dharma-jñānam | anvayam | eva | ca
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `sāsravānāsravam` | nominative singular neuter compound predicate | contaminated and uncontaminated |
+| `sāsrava-anāsravam` (`sāsravānāsravam`) | nominative singular neuter coordinative compound: `sa-āsrava` + `an-āsrava` | with contaminants and without them; distributes knowledge into two statuses |
 | `jñānam` | nominative singular neuter | knowledge, the field being divided |
 | `ādyam` | nominative singular neuter adjective, used substantivally | the first [knowledge], the contaminated member |
-| `saṃvṛti-jñānakam` | nominative singular neuter compound; provisional study reading | conventional knowledge |
+| `saṃvṛti-jñānakam` | nominative singular neuter compound; provisional reading where the witness has `saṃvṛtijñāpakam` | conventional knowledge; the prose confirms the category `saṃvṛtijñāna`, not the exact verse reading |
 | `anāsravam` | nominative singular neuter adjective | uncontaminated [knowledge] |
 | `dvidhā` | indeclinable adverb | in two ways, twofold |
 | `dharma-jñānam` | nominative singular neuter compound | dharma-knowledge |
-| `anvayam` | nominative singular neuter in this elliptical construction | anvaya-[knowledge] |
+| `anvayam` | nominative singular neuter in this elliptical construction | anvaya-knowledge; `jñānam` is supplied, as in the Bhāṣya's `anvayajñānam` |
 | `eva` | emphatic particle | indeed, precisely |
 | `ca` | conjunction | and |
-
-`Sa-āsrava` means with influxes or contaminants; `an-āsrava` expresses their
-absence. The compound is resolved distributively in the construe, not as
-the assertion that one knowledge-event simultaneously possesses both statuses.
-
-`Anvayam` is understood with `jñānam`; the Bhāṣya makes the full designation
-`anvayajñānam` explicit. Its neuter function here should not be confused
-with an accusative object of an unexpressed verb of knowing.
 
 ## 4. Grammar
 
@@ -99,16 +86,9 @@ The two explanations must retain their different attribution.
 
 ### Bhāṣya-informed study translation
 
-> All knowledge is included under ten knowledges. In summary, knowledge is
-> divided into contaminated and uncontaminated forms. The contaminated form
-> is conventional knowledge, so called because it apprehends, for the most
-> part, conventions such as pots, cloth, women, and men. Others explain the
-> name through its being covered by ignorance. Uncontaminated knowledge is
-> divided into dharma-knowledge and anvaya-knowledge.
-
-The tenfold announcement and the two explanations of conventional knowledge
-come from the Bhāṣya, Pradhan 391|15–392|04. The present kārikā names the
-two uncontaminated forms; their respective object-ranges await VAK 7.03.
+> Knowledge, in summary, is contaminated or uncontaminated. The former is
+> conventional knowledge; the latter divides into dharma-knowledge and
+> anvaya-knowledge.
 
 ## 6. Philosophical Translation
 
@@ -125,42 +105,16 @@ must be developed further to determine the forms of knowing involved.
 
 ## 7. Technical Vocabulary
 
-**`Sāsrava` — contaminated / with influxes.** The first classificatory
-status. It does not here mean simply “false”: the verse explicitly calls
-this member knowledge. Its status concerns the cognition being classified,
-not a blanket judgment that every cognition in its bearer's continuum must
-have the same status.
-
-**`Anāsrava` — uncontaminated / without influxes.** The second status,
-internally divided into two knowledges. The verse gives their names without
-yet supplying the distinction between their object-ranges.
-
-**`Saṃvṛtijñāna` — conventional knowledge.** The Bhāṣya's unambiguous prose
-designation for contaminated knowledge. The first explanation concerns its
-frequent apprehension of conventions. The alternative concerns covering by
-ignorance. The working English preserves the first explanation while the
-second remains separately recorded.
-
-**`Prāyeṇa` — for the most part.** A decisive qualification. Pots, cloth,
-women, and men exemplify conventional apprehension; they do not establish
-an exhaustive restriction on this knowledge's possible objects.
-
-**`Ajñānasaṃvṛtatva` — being covered by ignorance.** The alternative
-explanation attributed to “others.” This passage supplies no identification
-of those teachers and no developed adjudication between the explanations.
-
-**`Dharmajñāna` — dharma-knowledge.** One of the two uncontaminated forms.
-The technical compound should be retained rather than expanded here into
-an unrestricted claim to knowledge of all dharmas.
-
-**`Anvayajñāna` — anvaya-knowledge.** The other uncontaminated form.
-“Subsequent” and “homologous” remain possible explanatory renderings to be
-tested in context. This verse does not establish enough of its operation
-to force a final English equivalent.
-
-**`Sarvajñānasaṃgraha` — comprehensive inclusion of knowledge.** The
-Bhāṣya's opening problem: by how many knowledges is all knowledge included?
-The answer is ten; this verse supplies the initial summary division.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `sāsrava` | contaminated / with influxes | First knowledge-status; it classifies a cognition, not every cognition in its bearer's continuum, and does not mean simply false. |
+| `anāsrava` | uncontaminated / without influxes | Second status, here divided into dharma- and anvaya-knowledge before their object-ranges are specified. |
+| `saṃvṛtijñāna` | conventional knowledge | Bhāṣya designation for contaminated knowledge; its usual conventional objects and an alternative name-explanation are kept distinct. |
+| `prāyeṇa` | for the most part | Qualifies the examples of pots, cloth, women, and men; they do not exhaust this knowledge's possible objects. |
+| `ajñānasaṃvṛtatva` | being covered by ignorance | Alternative account of the name, attributed to unidentified “others,” without adjudication here. |
+| `dharmajñāna` | dharma-knowledge | One uncontaminated form; this verse does not call it unrestricted knowledge of all dharmas. |
+| `anvayajñāna` | anvaya-knowledge | The other uncontaminated form; “subsequent” and “homologous” remain explanatory candidates. |
+| `sarvajñānasaṃgraha` | comprehensive inclusion of knowledge | Bhāṣya question answered by ten knowledges; the verse gives their initial summary division. |
 
 ## 8. Logical Determination
 
@@ -209,7 +163,9 @@ that worldly prajñā, including worldly views, belongs to knowledge.
 
 **Bhāṣya control.** The principal explanation of `saṃvṛtijñāna` is qualified
 by “for the most part.” The explanation through ignorance is attributed to
-others. Neither qualification should disappear in a fluent study translation.
+others. Both explain the name in the commentary; neither belongs in the
+translation of the kārikā. The Bhāṣya also announces ten knowledges before
+its summary division, while the verse itself states that initial division.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.** In our developing
 Yoga system, this division gives Yoga Vidyā an articulated account of the

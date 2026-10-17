@@ -5,8 +5,8 @@
 > sāsravānāsravaṃ jñānam ādyaṃ saṃvṛtijñānakam |
 > anāsravaṃ dvidhā dharmajñānam anvayam eva ca || 7.2 ||
 
-> Knowledge is contaminated and uncontaminated. The first is conventional
-> knowledge. Uncontaminated knowledge is twofold: dharma-knowledge and
+> Knowledge, in summary, is contaminated or uncontaminated. The former is
+> conventional knowledge; the latter divides into dharma-knowledge and
 > anvaya-knowledge.
 
 The Bhāṣya first finishes 7.01's worldly clause, then asks by how many
@@ -137,7 +137,7 @@ Knowledge
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
-Confirmed and already in the Organon kārikā translation:
+The revised Organon kārikā translation incorporates these decisions:
 
 - distributive reading of `sāsravānāsravam`;
 - `adyam` = the contaminated member;
@@ -184,7 +184,7 @@ is not in play. Concept-level closure is not claimed for a summary cut.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.02.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.02_bhasya.md` (Pradhan 391|14–392|04).
-Witness items left open: `saṃvṛtijñāpakam`, exact `kosabhasya.txt` line
-collation, English for `anvaya`. Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan
+391|14–392|04 span as recorded here. The kārikā anchor reproduces the
+Bhāṣya-informed study translation exactly. Witness items left open:
+`saṃvṛtijñāpakam`, exact source-line collation, and the English for `anvaya`.

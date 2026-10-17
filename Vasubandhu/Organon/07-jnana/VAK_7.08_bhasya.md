@@ -5,9 +5,13 @@
 > svabhāvapratipakṣābhyām ākārākāragocarāt |
 > prayogakṛtakṛtyatvahetūpacayato daśa || 7.8 ||
 
-> By intrinsic nature and counteraction, by aspect and aspect together with
-> object-range, by preparation, the state of having accomplished what had
-> to be done, and accumulation of causes, [the knowledges are] ten.
+> The ten knowledges are distinguished, it is said, on seven grounds:
+> conventional knowledge by its nature; dharma- and anvaya-knowledge by
+> what they counteract; suffering- and origination-knowledge by differing
+> aspects of one object-support; cessation- and Path-knowledge by both
+> aspect and object-support; other-mind knowledge by its preparatory aim;
+> exhaustion-knowledge by accomplished work; and non-arising-knowledge by
+> accumulated causes.
 
 The Bhāṣya asks why, given the forms already shown, exactly ten are
 established, then distributes seven grounds across the ten names. `Kila`
@@ -145,7 +149,7 @@ conventional knowledge or the terminal pair alone.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.08.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.08_bhasya.md` (Pradhan 395|03–09).
-`Prathamataḥ` and damaged domain-spellings open. 7.09 not reviewed.
-`kosabhasya.txt` collation pending. Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan 395|03–09
+span recorded here. The anchor now reproduces the Bhāṣya-informed study
+translation exactly. `Prathamataḥ`, damaged domain spellings, and exact
+source-line collation remain open.

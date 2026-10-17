@@ -5,10 +5,12 @@
 > duḥkhahetvanvayajñāne caturbhyaḥ paracittavit |
 > bhūmyakṣapudgalotkrāntaṃ naṣṭājātaṃ na vetti tat || 7.5 ||
 
-> [Those two, when first arisen, are] suffering- and origination-anvaya-
-> knowledges. Knowledge of another mind is [classified] from four.
-> It does not know what exceeds it in level, faculty, or person, nor what
-> has ceased or has not yet arisen.
+> At their first arising, exhaustion- and non-arising-knowledge are
+> suffering- and origination-anvaya-knowledge, taking the summit-of-existence
+> aggregates as object. Knowledge of another mind belongs to four knowledge
+> classes—dharma, anvaya, Path, and conventional—and cannot know a mind
+> beyond its level, faculty, or practitioner standing, nor one already
+> ceased or not yet arisen.
 
 Two statements. The opening dual completes 7.04. `Caturbhyaḥ paracittavit`
 begins a new determination. First-pass files that attached the dual to the
@@ -151,7 +153,7 @@ Reason does: a capacity is what it can hold, under stated limits.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.05.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.05_bhasya.md` (Pradhan 393|01–13; fourfold
-control 394|23). Damaged practitioner clauses open. 7.06 not reviewed.
-`kosabhasya.txt` collation pending. Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan 393|01–13
+span recorded here; 394|23 controls the fourfold list. The anchor now
+reproduces the Bhāṣya-informed study translation exactly. Damaged
+practitioner clauses and exact source-line collation remain open.

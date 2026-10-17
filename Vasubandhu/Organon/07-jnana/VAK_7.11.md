@@ -20,26 +20,17 @@ supports the study's readings. Its extended discussion runs through
 Pradhan 396–398 and includes competing interpretations of scriptural
 mind-state descriptions.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tathā | para-mano-jñānam | nirmalam | samalam | punaḥ |
-jñeya-svalakṣaṇa-ākāram | eka-eka-dravya-gocaram
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `tathā` | adverb | likewise: four-aspected, as established through the preceding truth-knowledge clause |
-| `paramanojñānam` | nominative singular neuter compound | knowledge of another mind |
+| `tathā` | adverb | likewise four-aspected: the pure form follows 7.10's four aspects proper to Path, not its unqualified sixteenfold range |
+| `paramanojñānam` | nominative singular neuter compound, `para + mano + jñānam` | knowledge of another mind; `manas` appears as `mano-` in the compound |
 | `nirmalam` | nominative singular neuter adjective | stainless, pure |
 | `samalam` | nominative singular neuter adjective | with stain, contaminated |
 | `punaḥ` | connective adverb | however, in turn |
-| `jñeyasvalakṣaṇākāram` | nominative singular neuter possessive compound | having the knowable's own characteristic as its aspect |
-| `ekaikadravyagocaram` | nominative singular neuter possessive compound | having one individual entity at a time as its range |
-
-`Manas` appears as `mano-` in the compound. `Eka + eka` gives the
-distributive `ekaika`, one by one. `Jñeya`, what is to be known,
-qualifies the locus of the own characteristic.
+| `jñeyasvalakṣaṇākāram` | nominative singular neuter possessive compound, `jñeya + sva-lakṣaṇa + ākāra` | the contaminated form takes the own characteristic of the knowable mind or mental factor as its aspect |
+| `ekaikadravyagocaram` | nominative singular neuter possessive compound; `eka + eka` is distributive | one individual entity at a time as range; the Bhāṣya applies it to both forms |
 
 ## 4. Grammar
 
@@ -79,19 +70,10 @@ as its aspect. [Both have] one individual entity at a time as their range.
 
 ### Bhāṣya-informed study translation
 
-> Uncontaminated knowledge of another mind has four aspects, those
-> proper to the Path, because it is Path-knowledge. Contaminated
-> other-mind knowledge apprehends the own characteristic of the mind
-> or mental factor being known. Both take one individual entity at
-> a time: when mind is apprehended, the mental factors are not thereby
-> apprehended together with it; when feeling is apprehended, recognition
-> is not apprehended at that same time.
-
-This follows 396|04–396|11. The ensuing commentary explains how
-scriptural descriptions such as “a mind with passion” can be known
-without simultaneous apprehension of mind and passion. It then tests
-the meanings of the paired mind-descriptions and distinguishes knowing
-another mind from taking over that mind's own object and aspect.
+> Uncontaminated other-mind knowledge, as Path-knowledge, has the four
+> aspects proper to Path. Contaminated other-mind knowledge takes the own
+> characteristic of the mind or mental factor it knows as its aspect.
+> Both range over one individual mental entity at a time.
 
 ## 6. Philosophical Translation
 
@@ -109,43 +91,16 @@ becomes its object.
 
 ## 7. Technical Vocabulary
 
-**`Nirmala` / `samala` — pure / contaminated.** The Bhāṣya resolves
-these as `anāsrava` and `sāsrava`. “Contaminated” is preferable to
-treating every case as morally unwholesome: the contamination distinction
-does not by itself supply that further classification.
-
-**`Svasatyākāra` — aspect proper to its own truth.** For pure other-mind
-knowledge, the relevant truth is Path. The four-aspect classification
-does not imply all four are exercised simultaneously.
-
-**`Jñeyasvalakṣaṇa` — the knowable's own characteristic.** Here the
-knowable is citta or caitta. The term determines the contaminated
-knowing's aspect, not an unrestricted access to the target continuum.
-
-**`Ekaikadravyagocara` — ranging over one individual entity at a time.**
-The Bhāṣya illustrates this with mind, feeling, and recognition.
-`Dravya` identifies the individually apprehended dharma here; it does
-not introduce a permanent substance underlying the mental events.
-
-**`Yugapadgrahaṇa` — simultaneous apprehension.** Denied in explaining
-how the condition “with passion” is known. The cloth-and-stain example
-serves the distinction between related items and their simultaneous
-apprehension; it does not supply a full temporal algorithm for diagnosis.
-
-**`Prāpti` — acquisition / possession.** The later discussion rejects
-using possession of passion as the direct object-criterion for this
-knowing. Merely taking passion as an object also does not establish
-that a mind is itself associated with passion.
-
-**`Līna` / `uddhata` — sluggish / agitated.** The prose tests their
-distinction through different instructions for cultivation. Treating
-both as generically afflicted leaves the practical difference to be
-accounted for.
-
-**`Sūtravirodha` / `śāstravirodha` — conflict with sūtra / treatise.**
-The dispute gives priority to the sūtra when a proposed treatise-based
-interpretation cannot be reconciled with its wording. The principle
-occurs within a concrete interpretive disagreement.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `nirmala` / `samala` | pure / contaminated | Bhāṣya `anāsrava` / `sāsrava`; contaminated does not by itself mean morally unwholesome. |
+| `svasatyākāra` | aspect proper to its own truth | For pure other-mind knowledge the truth is Path; four possible aspects are not necessarily simultaneous. |
+| `jñeyasvalakṣaṇa` | the knowable's own characteristic | Aspect of contaminated knowing with respect to a citta or caitta, not unrestricted access to a continuum. |
+| `ekaikadravyagocara` | ranging over one individual entity at a time | Applies to both forms; `dravya` is the individually apprehended dharma, not an underlying permanent substance. |
+| `yugapadgrahaṇa` | simultaneous apprehension | Denied in explaining scriptural knowledge of a mind's condition; the cloth-and-stain example does not supply a temporal algorithm. |
+| `prāpti` | acquisition / possession | Neither possession of passion nor merely taking passion as object establishes that the known mind is associated with passion. |
+| `līna` / `uddhata` | sluggish / agitated | Distinct conditions require different cultivation responses; a generic “afflicted” reading loses the practical distinction. |
+| `sūtravirodha` / `śāstravirodha` | conflict with sūtra / treatise | In this concrete disagreement, a reading conflicting with the treatise is preferred to one conflicting with the sūtra. |
 
 ## 8. Logical Determination
 
@@ -195,6 +150,13 @@ mind as passionate. The initial objection asks how this is possible
 if only one entity is apprehended at a time. The reply denies simultaneous
 apprehension and uses the cloth-and-stain comparison. The discussion
 then asks what the scriptural descriptions actually mean.
+
+**Scope of the informed translation.** Pradhan 396|04–396|11 controls
+the verse's three predicates. The ensuing discussion tests how a
+condition can be known without simultaneously apprehending all its
+factors or inheriting the observed mind's own object. Those arguments
+belong here and in the paired Bhāṣya study, rather than being appended
+to the kārikā translation.
 
 **Competing readings of mental conditions.** The prose records different
 accounts of contracted and distracted mind, including a position

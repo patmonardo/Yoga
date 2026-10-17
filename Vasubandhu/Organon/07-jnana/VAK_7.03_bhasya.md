@@ -3,12 +3,13 @@
 ## 1. Kārikā Anchor
 
 > sāṃvṛtaṃ sarvaviṣayaṃ kāmaduḥkhādigocaram |
-> dharmākhyaṃ anvayajñānaṃ tūrdhvaduḥkhādigocaram || 7.3 ||
+> dharmākhyam anvayajñānaṃ tūrdhvaduḥkhādigocaram || 7.3 ||
 
-> Conventional knowledge has all objects as its range. That called
-> dharma-knowledge has desire-domain suffering and so forth as its range.
-> Anvaya-knowledge, however, has higher-domain suffering and so forth as
-> its range.
+> Conventional knowledge can take any dharma, conditioned or unconditioned,
+> as its object where possible. Dharma-knowledge ranges over desire-domain
+> suffering, its origination, cessation, and counteragent; anvaya-knowledge
+> ranges over the same truth-series with respect to suffering in the form
+> and formless domains.
 
 `Kāmaduḥkhādigocaram` construes with `dharmākhyam`, not with `sāṃvṛtam`.
 The Bhāṣya expands `sarva` through conditioned and unconditioned dharmas,
@@ -113,7 +114,7 @@ Knowing the counteragent is not yet exercising it. Object-range ≠ Path-work.
 
 ## 7. The Bhāṣya's Decisions for the Kārikā
 
-Already in the Organon kārikā translation:
+The Organon kārikā translation incorporates these decisions:
 
 - `kāmaduḥkhādi` belongs to dharma-knowledge;
 - `tu` contrasts the two uncontaminated ranges;
@@ -160,8 +161,7 @@ refuses to attribute to conventional knowledge.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.03.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.03_bhasya.md` (Pradhan 392|06–12). E-text
-repairs marked in §2. English for `anvaya` still provisional, now with
-homologous range in hand. `kosabhasya.txt` line-collation still pending.
-Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan 392|06–12
+span recorded here. The anchor reproduces the Bhāṣya-informed study
+translation exactly. E-text repairs remain marked in §2. English for
+`anvaya` and exact source-line collation remain provisional.

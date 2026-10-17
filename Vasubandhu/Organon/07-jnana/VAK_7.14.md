@@ -20,33 +20,24 @@ distinctions. The verse also distributes knowledge across levels;
 its last six names inherit their level-ranges through dharma- or
 anvaya-classification.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tridhā | ādyam | kuśalāni | anyāni | ādyam | sarvāsu | bhūmiṣu |
-dharma-ākhyam | ṣaṭsu | navasu | tu | anvaya-ākhyam |
-tathā | eva | ṣaṭ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `tridhā` | indeclinable adverb | in three ways |
-| `ādyam` | nominative singular neuter adjective, substantivally used | the first [knowledge], conventional knowledge |
+| `tridhā` (in `tridhādyam`) | indeclinable adverb; sandhi with `ādyam` | in three ethical ways: wholesome, unwholesome, indeterminate |
+| `ādyam` (first occurrence) | nominative singular neuter adjective, substantivally used | conventional knowledge, first in the verse's sequence |
 | `kuśalāni` | nominative plural neuter adjective | wholesome |
-| `anyāni` | nominative plural neuter pronoun | the others, the remaining nine knowledge-designations |
-| `sarvāsu` | locative plural feminine adjective | in all |
-| `bhūmiṣu` | locative plural feminine noun | levels |
-| `dharmākhyam` | nominative singular neuter compound adjective | that called dharma-[knowledge] |
-| `ṣaṭsu` | locative plural numeral | in six [levels] |
-| `navasu` | locative plural numeral | in nine [levels] |
+| `anyāni` | nominative plural neuter pronoun | the other nine knowledge-designations, wholesome only according to the Bhāṣya |
+| `ādyam` (second occurrence) | nominative singular neuter adjective, substantivally used | conventional knowledge again, now with its level-range |
+| `sarvāsu` | locative plural feminine adjective | in all levels, from desire domain through the summit of existence |
+| `bhūmiṣu` | locative plural feminine noun | levels of occurrence or affiliation, not objects or embodied supports |
+| `dharmākhyam` | nominative singular neuter compound adjective, `dharma + ākhyam` | dharma-knowledge |
+| `ṣaṭsu` | locative plural numeral | in six levels: four dhyānas, preliminary concentration, intermediate dhyāna |
+| `navasu` | locative plural numeral | in those six plus the first three formless levels |
 | `tu` | contrastive particle | whereas |
-| `anvayākhyam` | nominative singular neuter compound adjective | that called anvaya-[knowledge] |
-| `tathā eva` | adverb and emphatic particle | likewise |
-| `ṣaṭ` | nominative plural numeral | the six [knowledges] |
-
-`Tridhā + ādyam` yields `tridhādyam`; `dharma + ākhyam` yields
-`dharmākhyam`; `tathā + eva` yields `tathaiva`. The first `ṣaṭsu`
-counts levels, whereas final `ṣaṭ` counts knowledge-designations.
+| `anvayākhyam` | nominative singular neuter compound adjective | anvaya-knowledge |
+| `tathā eva` (`tathaiva`) | adverb and emphatic particle | likewise, with the Bhāṣya differentiating collective from inclusion-qualified range |
+| `ṣaṭ` | nominative plural numeral | six knowledge-designations: four truths, exhaustion, and non-arising; unlike `ṣaṭsu`, it does not count levels |
 
 ## 4. Grammar
 
@@ -106,21 +97,13 @@ in six; that called anvaya, however, in nine; likewise the six.
 
 ### Bhāṣya-informed study translation
 
-> Conventional knowledge is threefold: wholesome, unwholesome,
-> or indeterminate. The other nine knowledges are wholesome only.
-> Conventional knowledge occurs throughout the levels, from the
-> desire domain to the summit of existence. Dharma-knowledge belongs
-> to six levels: the four dhyānas, preliminary concentration, and
-> intermediate dhyāna. Anvaya-knowledge belongs to those six and
-> the first three formless levels. The four truth-knowledges and
-> exhaustion- and non-arising-knowledge range across those nine
-> without further differentiation; when distinguished by inclusion,
-> their dharma-knowledge forms belong to six and their anvaya-
-> knowledge forms to nine.
-
-This follows Pradhan 402|06–402|18. The level of other-mind knowledge,
-the remaining item in that distribution, is stated in VAK 7.15.
-Its wholesome status is already included among the nine here.
+> Conventional knowledge may be wholesome, unwholesome, or indeterminate
+> and occurs at every level; the other nine knowledges are wholesome.
+> Dharma-knowledge belongs to six levels—the four dhyānas, preliminary
+> concentration, and intermediate dhyāna—while anvaya-knowledge belongs
+> to those six plus the first three formless levels. The remaining six
+> knowledges span nine levels collectively, but six when included under
+> dharma-knowledge and nine under anvaya-knowledge.
 
 ## 6. Philosophical Translation
 
@@ -142,42 +125,16 @@ exclusively wholesome.
 
 ## 7. Technical Vocabulary
 
-**`Kuśala`, `akuśala`, `avyākṛta` — wholesome, unwholesome,
-indeterminate.** The threefold ethical classification of conventional
-knowledge. `Avyākṛta` is the technical third category, not merely
-an unresolved question about which ethical value applies.
-
-**`Bhūmi` — level.** Here the level of the knowledge's occurrence
-or affiliation. It must remain distinct from its object-domain,
-counteractive range, and the practitioner's embodied support.
-
-**`Anāgamya` — preliminary concentration.** One of the six bases
-listed alongside the four dhyānas and intermediate dhyāna. The
-local prose lists it without developing its full definition.
-
-**`Dhyānāntara` — intermediate dhyāna.** The sixth item when the
-four dhyānas and preliminary concentration are counted. It is
-not a fifth principal dhyāna.
-
-**`Ārūpyatraya` — the first three formless levels.** The additions
-that extend the six-level range to nine for anvaya-knowledge.
-The highest formless level is not included in this addition.
-
-**`Bhavāgra` — summit of existence.** The upper endpoint explicitly
-included in conventional knowledge's level-range. It is not an
-additional tenth level for anvaya-knowledge. This also differs
-from VAK 7.05, where Bhavāgra aggregates were specified as objects
-of the terminal knowledges' first arising.
-
-**`Saṃgṛhīta` — included / subsumed.** The relation controlling the
-six knowledges' differentiated ranges. A suffering-knowledge
-instance, for example, may be classified under dharma-knowledge
-or anvaya-knowledge; that qualification matters to its level-range.
-
-**`Abhedena` / `bhedena` — without / with differentiation.** These
-adverbs specify how the six are being considered. The undifferentiated
-nine-level range does not license a dharma-subsumed instance in
-one of the additional formless levels.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `kuśala` / `akuśala` / `avyākṛta` | wholesome / unwholesome / indeterminate | Three ethical statuses possible for conventional knowledge; indeterminate is a category, not uncertainty about classification. |
+| `bhūmi` | level | Occurrence or affiliation of knowledge, distinct from object-domain, counteractive range, and embodied support. |
+| `anāgamya` | preliminary concentration | One of six levels counted with the four dhyānas and intermediate dhyāna. |
+| `dhyānāntara` | intermediate dhyāna | Sixth item in that count, not a fifth principal dhyāna. |
+| `ārūpyatraya` | first three formless levels | Extends anvaya-knowledge's six-level range to nine; the highest formless level is not added. |
+| `bhavāgra` | summit of existence | Upper endpoint of conventional knowledge's level-range, distinct from its role as object in 7.05. |
+| `saṃgṛhīta` | included / subsumed | Dharma or anvaya inclusion qualifies the six truth and terminal knowledges' level-ranges. |
+| `abhedena` / `bhedena` | without / with differentiation | Collective nine-level range versus the six- or nine-level range after dharma/anvaya inclusion is specified. |
 
 ## 8. Logical Determination
 
@@ -241,6 +198,12 @@ distinguishes an aggregate statement from the more determinate
 dharma/anvaya inclusion. The official study therefore retains both
 `abhedena` and `bhedena`, rather than reporting two apparently
 incompatible ranges for an undifferentiated name.
+
+**Bhāṣya control.** Pradhan 402|06–402|18 identifies `ādyam` by verse
+placement, names the six and nine levels, and distinguishes collective
+from inclusion-qualified ranges. The informed translation follows
+those controls. Other-mind knowledge's level is supplied in 7.15;
+its wholesome status is already included among the nine here.
 
 **Precision concerning “first” and “pure.”** The local research
 discussion sometimes describes conventional knowledge as first in

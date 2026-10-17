@@ -19,30 +19,17 @@ in VAK 7.02 now receive their object-ranges. The Bhāṣya's qualification
 `saṃbhavataḥ`, “according to possibility,” governs the universal range of
 conventional knowledge.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sāṃvṛtam | sarva-viṣayam | kāma-duḥkha-ādi-gocaram |
-dharma-ākhyam | anvaya-jñānam | tu | ūrdhva-duḥkha-ādi-gocaram
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `sāṃvṛtam` | nominative singular neuter adjective, with `jñānam` understood | conventional [knowledge] |
-| `sarva-viṣayam` | nominative singular neuter possessive compound | having all objects as its range |
-| `kāma-duḥkha-ādi-gocaram` | nominative singular neuter possessive compound | having desire-domain suffering and so forth as its range |
-| `dharma-ākhyam` | nominative singular neuter compound adjective | named dharma-[knowledge] |
+| `sāṃvṛtam` | nominative singular neuter adjective; `jñānam` understood | conventional knowledge, corresponding to `saṃvṛtijñāna` |
+| `sarva-viṣayam` | nominative singular neuter possessive compound | having all objects as its possible range |
+| `kāma-duḥkha-ādi-gocaram` | nominative singular neuter possessive compound | desire-domain suffering and what follows it: its origination, cessation, and counteragent |
+| `dharma-ākhyam` (`dharmākhyam`) | nominative singular neuter compound adjective; `dharma + ākhyam` | called dharma-knowledge; takes the preceding range |
 | `anvaya-jñānam` | nominative singular neuter compound | anvaya-knowledge |
-| `tu` | contrastive particle | whereas, however |
-| `ūrdhva-duḥkha-ādi-gocaram` | nominative singular neuter possessive compound | having higher-domain suffering and so forth as its range |
-
-`Sāṃvṛta` is the adjectival designation corresponding to `saṃvṛtijñāna`.
-`Dharma + ākhyam` yields `dharmākhyam`; `tu + ūrdhva` yields `tūrdhva`.
-The endings in `-am` function as nominatives in these nominal sentences.
-
-The Bhāṣya expands `ādi` through `samudaya`, `nirodha`, and `pratipakṣa`:
-origination, cessation, and counteragent. It identifies `ūrdhva` with the
-form and formless domains.
+| `tu` | contrastive particle; joined to following `ūrdhva` as `tūrdhva` | whereas, marking the second uncontaminated range |
+| `ūrdhva-duḥkha-ādi-gocaram` | nominative singular neuter possessive compound | suffering in the form and formless domains, with its origination, cessation, and counteragent |
 
 ## 4. Grammar
 
@@ -101,17 +88,11 @@ suffering and so forth [as its range].
 
 ### Bhāṣya-informed study translation
 
-> All dharmas, conditioned and unconditioned, can serve as object-supports
-> of conventional knowledge, according to possibility. Dharma-knowledge
-> takes as object-support suffering belonging to the desire domain,
-> together with its origination, cessation, and counteragent. Anvaya-knowledge
-> takes as object-support suffering belonging to the form and formless
-> domains, together with its origination, cessation, and counteragent.
-
-The Bhāṣya, Pradhan 392|06–392|12, supplies the conditioned/unconditioned
-expansion, the possibility qualification, and the explicit members covered
-by “and so forth.” `Pratipakṣa` here supplies the fourth truth's practical
-designation: the Path as counteragent.
+> Conventional knowledge can take any dharma, conditioned or unconditioned,
+> as its object where possible. Dharma-knowledge ranges over desire-domain
+> suffering, its origination, cessation, and counteragent; anvaya-knowledge
+> ranges over the same truth-series with respect to suffering in the form
+> and formless domains.
 
 ## 6. Philosophical Translation
 
@@ -133,48 +114,17 @@ identical or establish, by itself, a method of inference from one to the other.
 
 ## 7. Technical Vocabulary
 
-**`Sarvaviṣaya` — having all objects as its range.** The kārikā's predicate
-of conventional knowledge. The Bhāṣya interprets “all” through conditioned
-and unconditioned dharmas and qualifies their availability as objects.
-
-**`Saṃbhavataḥ` — according to possibility / where possible.** A Bhāṣya
-qualification essential to the scope of the claim. It concerns what can
-serve as object-support, not simultaneous omniscience attributed to an
-ordinary knower.
-
-**`Viṣaya`, `gocara`, `ālambana` — object, object-range, object-support.**
-The verse uses `viṣaya` and `gocara`; the commentary explains all three
-knowledge-ranges through `ālambana`. Their shared contextual task is to
-specify what the knowledge takes up. The local passage does not construct
-three independent ontological levels from these words.
-
-**`Kāma` / `kāmāvacara` — desire domain / belonging to the desire domain.**
-The Bhāṣya makes the abbreviated domain-reference explicit. Here the
-domain is an existential domain, not one of Chapter 1's eighteen
-cognition-domains and not desire considered as an isolated mental factor.
-
-**`Ūrdhva` — higher.** The collective reference to the form and formless
-domains. They are gathered under one side of the knowledge classification;
-they do not become two further coordinate kinds of knowledge here.
-
-**`Duḥkhādi` — suffering and so forth.** A compressed truth-series. The
-Bhāṣya unfolds the relation as suffering and its origination, cessation,
-and counteragent, preserving the dependence expressed by `tat`.
-
-**`Pratipakṣa` — counteragent.** The fourth member of that expansion,
-corresponding to the Path. The word makes the practical function explicit
-within the account of what is known.
-
-**`Dharmajñāna` — dharma-knowledge.** The uncontaminated knowledge whose
-object-range is the specified truth-structure with respect to the desire
-domain. A generic gloss such as “knowledge of phenomena” would lose this
-local technical determination.
-
-**`Anvayajñāna` — anvaya-knowledge.** The corresponding uncontaminated
-knowledge with respect to the form and formless domains. This provides
-substance for “homologous knowledge” as an explanatory rendering. The
-passage establishes the corresponding range without supplying a full
-etymology or settling the final English translation.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `sarvaviṣaya` | having all objects as its range | Kārikā predicate of conventional knowledge; the Bhāṣya includes conditioned and unconditioned dharmas, subject to possibility. |
+| `saṃbhavataḥ` | according to possibility / where possible | Bhāṣya qualification of possible object-supports, not simultaneous knowledge of every dharma. |
+| `viṣaya` / `gocara` / `ālambana` | object / object-range / object-support | Verse terms and Bhāṣya explanation specifying what knowledge takes up; no three-level ontology follows here. |
+| `kāma` / `kāmāvacara` | desire domain / belonging to the desire domain | Existential domain of suffering, not one of the eighteen cognition-domains or desire as a separate mental factor. |
+| `ūrdhva` | higher | Collects form and formless domains as one side of this knowledge classification. |
+| `duḥkhādi` | suffering and so forth | Bhāṣya unfolds suffering with its origination, cessation, and counteragent; `tat` preserves their relation to that suffering. |
+| `pratipakṣa` | counteragent | Fourth member of that series, corresponding to the Path as an object of knowledge. |
+| `dharmajñāna` | dharma-knowledge | Uncontaminated knowledge of the specified truth-series with respect to desire-domain suffering, not unrestricted knowledge of phenomena. |
+| `anvayajñāna` | anvaya-knowledge | Corresponding knowledge with respect to form- and formless-domain suffering; “homologous” remains explanatory, not settled English. |
 
 ## 8. Logical Determination
 
@@ -222,6 +172,12 @@ knowledge apprehends conventional formations “for the most part.” The
 present verse and Bhāṣya show why that explanation did not restrict its
 objects to pots, cloth, and persons: even unconditioned dharmas belong to
 its possible range.
+
+**Bhāṣya control.** Pradhan 392|06–392|12 supplies the conditioned and
+unconditioned expansion of `sarva`, the qualification `saṃbhavataḥ`, and
+the three relatives covered by `ādi`. `Pratipakṣa` names the Path as
+counteragent here. These clarifications determine the study translation;
+the prose's explanatory sequence remains in the paired Bhāṣya study.
 
 **Knowing the counteragent.** The Bhāṣya uses `pratipakṣa` in unfolding the
 four truths. The account of knowledge therefore includes the means of

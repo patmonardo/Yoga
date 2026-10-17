@@ -19,34 +19,21 @@ completes the last clause of VAK 7.04. A new statement begins with
 `caturbhyaḥ paracittavit`. Keeping this boundary intact corrects a
 substantive misreading in both local research studies.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-duḥkha-hetu-anvaya-jñāne | caturbhyaḥ | para-citta-vit |
-bhūmi-akṣa-pudgala-utkrāntam | naṣṭa-ajātam | na | vetti | tat
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `duḥkha-hetu-anvaya-jñāne` | nominative dual neuter compound designation | suffering-anvaya-knowledge and origination-anvaya-knowledge |
-| `caturbhyaḥ` | ablative plural numeral here | from four [knowledge-categories] |
-| `para-citta-vit` | nominative singular root-noun compound ending in `-vid` | knowledge that knows another mind |
-| `bhūmi` | compound member | meditative level |
+| `duḥkha-hetu-anvaya-jñāne` | nominative dual neuter compound designation; `hetu + anvaya` gives `hetvanvaya` | suffering- and origination-anvaya-knowledges; `hetu` names origination, not another truth |
+| `caturbhyaḥ` | ablative plural numeral | from four knowledge-categories, as a classification rather than a causal source |
+| `para-citta-vit` | nominative singular compound ending in `-vid`; Bhāṣya glosses `vit` with `vetti` and supplies `jñānam` | knowledge of another mind, not a new practitioner-type |
+| `bhūmi` (in `bhūmyakṣa-`) | compound member; sandhi of `bhūmi + akṣa` | meditative level |
 | `akṣa` | compound member | faculty, explained through `indriya` |
 | `pudgala` | compound member | person, here practitioner standing |
-| `utkrāntam` | accusative singular neuter participial compound ending | exceeding [the knower's corresponding capacity] |
+| `utkrāntam` | accusative singular neuter participial compound ending | exceeding the knower in the preceding dimensions |
 | `naṣṭa-ajātam` | accusative singular neuter coordinated expression | ceased or not yet arisen |
 | `na` | negative particle | not |
 | `vetti` | third-person singular present active of `√vid` | knows |
 | `tat` | nominative singular neuter pronoun | that [knowledge of another mind] |
-
-`Hetu` is resolved by the Bhāṣya as `samudaya`, origination. It does not
-introduce an additional truth-category. `Hetu + anvaya` yields
-`hetvanvaya`; `bhūmi + akṣa` yields `bhūmyakṣa`.
-
-The Bhāṣya glosses `vit` through `vetti` and explicitly supplies `jñānam`.
-The referent is therefore the knowing, rather than a new practitioner-type
-called “the knower of another mind.”
 
 ## 4. Grammar
 
@@ -100,21 +87,12 @@ or what has ceased or has not yet arisen.
 
 ### Bhāṣya-informed study translation
 
-> When exhaustion-knowledge and non-arising-knowledge first arise, they
-> belong to suffering- or origination-anvaya-knowledge: they take the
-> aggregates of the summit of existence as object under the aspects of
-> suffering and origination. Knowledge of another mind is classified under
-> four knowledge-categories—dharma, anvaya, Path, and conventional knowledge.
-> Its range is restricted: it cannot know cognition exceeding its meditative
-> level, faculty-grade, or practitioner standing. It cannot know past or
-> future cognition, because its objects are presently occurring mind and
-> mental factors of another.
-
-The first-arising explanation and restrictions follow Pradhan
-393|01–393|13. The fourfold list at 393|06–393|07 is textually damaged;
-the explicit recapitulation at 394|23 confirms dharma, anvaya, Path, and
-conventional knowledge. This is a targeted textual control, not an advance
-to the later kārikā study.
+> At their first arising, exhaustion- and non-arising-knowledge are
+> suffering- and origination-anvaya-knowledge, taking the summit-of-existence
+> aggregates as object. Knowledge of another mind belongs to four knowledge
+> classes—dharma, anvaya, Path, and conventional—and cannot know a mind
+> beyond its level, faculty, or practitioner standing, nor one already
+> ceased or not yet arisen.
 
 ## 6. Philosophical Translation
 
@@ -132,56 +110,18 @@ predicate from becoming a false derivation of another cognitive capacity.
 
 ## 7. Technical Vocabulary
 
-**`Duḥkha-hetv-anvayajñāne` — suffering- and origination-anvaya-knowledges.**
-The predicate carried over from VAK 7.04. The Bhāṣya explains the
-truth-pair through the aspects under which the Bhavāgra aggregates are
-taken as object.
-
-**`Bhavāgrika-skandha` — aggregates belonging to the summit of existence.**
-The specified object of the first-arising terminal knowledges. The source
-relates their initial truth-classification to this object rather than
-leaving first arising as an unspecified experience of completion.
-
-**`Vajropama` — vajra-like [Path].** In the opening commentary, Vasubandhu
-asks whether it shares the object of the terminal knowledges. His answer
-is conditional: when it takes suffering or origination as object, yes;
-when it takes cessation or Path as object, no. Continuity of the Path
-sequence does not require identical objects in every case.
-
-**`Paracittavit` / `paracittajñāna` — knowledge of another mind.** The
-verse's compressed expression and the commentary's expanded name.
-Its fourfold classification concerns portions of dharma-, anvaya-,
-Path-, and conventional knowledge. These are overlapping categories,
-not four simultaneous ingredients of each act.
-
-**`Niyama` — restriction / governing rule.** The Bhāṣya introduces the
-exclusions with `tasya punar ayaṃ niyamaḥ`: “for it, however, this is the
-restriction.” The limits belong to the determination of the capacity.
-
-**`Bhūmi` — meditative level.** The commentary specifies lower and higher
-dhyāna levels. Knowledge based on the lower does not know cognition
-belonging to the higher.
-
-**`Akṣa` / `indriya` — faculty / faculty-grade.** The verse's term is
-expanded by the Bhāṣya through differences in practitioners' faculties.
-The passage refers to `śraddhādhimukta` and `samayamukta` in relation to
-`dṛṣṭiprāpta` and `asamayavimukta`. The damaged wording does not justify
-printing a silently reconstructed Sanskrit sentence.
-
-**`Pudgala` — person / practitioner standing.** The relevant distinction
-is the lower practitioner's inability to know the higher. The e-text's
-rank enumeration is corrupted; it refers to advanced disciples,
-Pratyekabuddha, and Buddha. The general ordering rule is more secure than
-an exact restoration of the entire list.
-
-**`Naṣṭa` / `ajāta` — ceased / not yet arisen.** The Bhāṣya explains these
-as past and future. The exclusion is local to the other-mind knowledge
-under discussion, not a denial of every possible knowledge of past or future.
-
-**`Vartamāna-paracitta-caitta-viṣayatva` — having present other-mind and
-mental factors as objects.** The reason for the temporal restriction.
-The inclusion of caittas in the possible object-field does not assert
-that mind and all associated factors are apprehended together in one act.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `duḥkha-hetv-anvayajñāne` | suffering- and origination-anvaya-knowledges | Predicate completing 7.04; the Bhāṣya links their first arising to aspects of the summit-of-existence aggregates. |
+| `bhavāgrika-skandha` | aggregates belonging to the summit of existence | Object of the first-arising terminal knowledges. |
+| `vajropama` | vajra-like Path | Shares their object only when taking suffering or origination, not cessation or Path; Path-continuity does not require object-identity. |
+| `paracittavit` / `paracittajñāna` | knowledge of another mind | Verse expression and Bhāṣya expansion; overlaps portions of dharma-, anvaya-, Path-, and conventional knowledge, not four simultaneous ingredients. |
+| `niyama` | restriction / governing rule | Introduces limits belonging to the determination of other-mind knowledge. |
+| `bhūmi` | meditative level | Lower-level knowledge does not know higher-level cognition. |
+| `akṣa` / `indriya` | faculty / faculty-grade | Verse term and Bhāṣya expansion; exact wording of practitioner examples remains damaged. |
+| `pudgala` | person / practitioner standing | Lower practitioner does not know the higher; the rank list's precise wording remains uncertain. |
+| `naṣṭa` / `ajāta` | ceased / not yet arisen | Past and future are excluded from this other-mind knowledge, not from every knowledge-kind. |
+| `vartamāna-paracitta-caitta-viṣayatva` | having present other-mind and mental factors as objects | Grounds the temporal restriction without asserting that all associated factors are known in one act. |
 
 ## 8. Logical Determination
 
@@ -247,6 +187,12 @@ include damaged forms such as `dṛṣṭiprāptāsamayavimuktārga` and
 `anāgāmyahañcchāvaka`. The fourfold classification has the independent
 internal control just noted; the precise practitioner wording remains
 open for textual review.
+
+**Bhāṣya control.** The first-arising explanation and restrictions follow
+Pradhan 393|01–393|13. The immediate fourfold list is damaged; its explicit
+recapitulation at 394|23 confirms dharma, anvaya, Path, and conventional
+knowledge. This controls the informed translation without silently
+restoring the damaged line.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.** The passage
 gives our Yoga system two related tasks. Yoga Vidyā articulates the

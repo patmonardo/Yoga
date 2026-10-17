@@ -5,9 +5,10 @@
 > dharmajñānaṃ nirodhe yan mārge vā bhāvanāpathe |
 > tridhātupratipakṣas tat kāmadhātos tu nānvayam || 7.9 ||
 
-> That dharma-knowledge which concerns cessation or the Path in the Path
-> of Cultivation is a counteragent to the three domains; anvaya-knowledge,
-> however, is not a counteragent to the desire domain.
+> Although dharma-knowledge is named a counteragent to the desire domain,
+> its cessation- or Path-knowledge within the Path of Cultivation counters
+> all three domains. Anvaya-knowledge, however, is in no case a
+> counteragent to the desire domain.
 
 This qualifies 7.08's pratipakṣa assignment. It does not replace it.
 
@@ -129,7 +130,7 @@ Appearance (“pure knowledge fixes everything upstairs and downstairs”).
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.09.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.09_bhasya.md` (Pradhan 395|10–16). `Sakala`
-sentence and damaged spellings open. `kosabhasya.txt` collation pending.
-Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan 395|10–16
+span recorded here. The anchor now reproduces the Bhāṣya-informed study
+translation exactly. The compressed `sakala` sentence, damaged spellings,
+and exact source-line collation remain open.

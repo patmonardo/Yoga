@@ -5,9 +5,10 @@
 > śeṣe caturdaśākāre śūnyānātmavivarjite |
 > nāmalaḥ ṣoḍaśabhyo 'nya ākāro 'nye 'sti śāstrataḥ || 7.12 ||
 
-> The remaining two have fourteen aspects, emptiness and non-self being
-> excluded. No uncontaminated aspect exists beyond the sixteen; others say
-> that one does, on the authority of the treatise.
+> Exhaustion- and non-arising-knowledge each have fourteen aspects,
+> excluding emptiness and non-self. The Kashmiris hold that no
+> uncontaminated aspect lies beyond the sixteen; teachers outside Kashmir
+> say that one does, appealing to the treatise.
 
 `Śeṣe` is dual nominative: exhaustion- and non-arising-knowledge. `Na` +
 `amalaḥ` denies another *uncontaminated* aspect, not an impure one.
@@ -114,7 +115,7 @@ nirodha-truth stays arthic. Sublation parked.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.12.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.12_bhasya.md` (Pradhan 399|01–20). No
-seventeen-aspect system inferred. Damaged strings unrestored.
-`kosabhasya.txt` collation pending. Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan 399|01–20
+span recorded here. The anchor now reproduces the Bhāṣya-informed study
+translation exactly. No seventeen-aspect system is inferred; damaged
+readings and exact source-line collation remain open.

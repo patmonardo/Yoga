@@ -27,8 +27,8 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
 ## Editorial Principles
 
 - Work proceeds one kārikā at a time.
-- The existing VAK kārikā and `_bhasya` files are the immediate research
-  corpus; the underlying source texts remain textual witnesses.
+- The kārikā and `_bhasya` files in this Organon directory are the immediate
+  research corpus; the underlying source texts remain textual witnesses.
 - Canonical filenames use the project form `VAK_1.01.md` and
   `VAK_1.01_bhasya.md`.
 - GRETIL-style labels such as `VAkK_1.1` are not displayed in the official

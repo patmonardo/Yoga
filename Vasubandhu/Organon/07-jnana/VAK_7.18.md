@@ -20,25 +20,20 @@ second asks how far a single conventional cognition can range,
 excluding its own complex. This completes the project's first
 working block, VAK 7.01–7.18; that block division is editorial.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-traidhātuka-amalāḥ | dharmāḥ | akṛtāḥ | ca | dvidhā | dvidhā |
-sāṃvṛtam | sva-kalāpa-anyat | ekam | vidyāt | anātmataḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `traidhātukāmalāḥ` | nominative plural masculine compound grouping | belonging to the three domains, and uncontaminated |
-| `dharmāḥ` | nominative plural masculine | dharmas, here classified into groups |
-| `akṛtāḥ` | nominative plural masculine adjective | unmade, unconditioned |
+| `traidhātukāmalāḥ` | nominative plural masculine compound grouping (`traidhātuka-amala`) | conditioned dharmas of the three domains and the uncontaminated field, each subsequently divided twofold |
+| `dharmāḥ` | nominative plural masculine | dharmas being classified as possible objects |
+| `akṛtāḥ` | nominative plural masculine adjective | unmade or unconditioned dharmas, a separate field |
 | `ca` | conjunction | and |
-| `dvidhā dvidhā` | repeated distributive adverb | each divided twofold |
+| `dvidhā dvidhā` | repeated distributive adverb | associated/non-associated in conditioned fields; wholesome/indeterminate in the unconditioned field |
 | `sāṃvṛtam` | nominative singular neuter adjective | conventional [knowledge] |
-| `svakalāpānyat` | accusative singular neuter compound | what is other than its own complex |
-| `ekam` | nominative singular neuter numeral | one [knowledge] |
+| `svakalāpānyat` | accusative singular neuter compound (`sva-kalāpa-anyat`) | what lies outside this cognition's own co-arising complex |
+| `ekam` | nominative singular neuter numeral | one [conventional knowledge] |
 | `vidyāt` | third-person singular optative active of `√vid` | could know |
-| `anātmataḥ` | adverbial formation in `-tas` | as non-self |
+| `anātmataḥ` | adverbial formation in `-tas` | under the aspect of non-self |
 
 The first compound is resolved distributively through the prose:
 desire-domain, form-domain, formless-domain, and uncontaminated
@@ -74,6 +69,11 @@ and the unconditioned, [are] each twofold. One conventional
 [knowledge] could know, as non-self, what is other than its own
 complex.
 
+The Bhāṣya further distinguishes hearing-, reflection-, and
+cultivation-derived forms and qualifies cultivated knowing by
+delimited level (Pradhan 404|12–405|04). These conditions constrain
+the broad object-range without changing the verse's local syntax.
+
 ## 5. Translation
 
 ### Literal Translation
@@ -85,24 +85,11 @@ complex.
 
 ### Bhāṣya-informed study translation
 
-> Conditioned dharmas form eight classes: those of the desire,
-> form, and formless domains, and uncontaminated conditioned
-> dharmas, each divided into associated and non-associated.
-> Unconditioned dharmas form two classes, wholesome and
-> indeterminate. These ten classes are assigned as objects
-> to the different knowledges.
->
-> A single knowledge cannot know absolutely all dharmas. A
-> conventional knowledge can know all dharmas other than its
-> own complex under the aspect of non-self. Its own complex
-> comprises that cognition itself and the dharmas co-arising
-> with it.
-
-This follows Pradhan 404|12–405|04. The subsequent prose specifies
-the hearing-, reflection-, and cultivation-derived forms and
-adds a level-delimitation to cultivated knowing; those conditions
-must accompany the broad formulation rather than disappear
-under “all.”
+> Conditioned dharmas of the three domains and the uncontaminated
+> field are each divided into associated and non-associated; the
+> unconditioned are divided into wholesome and indeterminate. One
+> conventional knowledge can know, as non-self, all dharmas outside
+> its own co-arising complex.
 
 ## 6. Philosophical Translation
 
@@ -124,8 +111,21 @@ metaphysical organizing principle for the study.
 
 ## 7. Technical Vocabulary
 
-**The ten dharma classes.** The following identifiers are study
-labels for displaying the Bhāṣya's distribution:
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `saṃprayukta` / `viprayukta` | associated / non-associated | The first division applies to each conditioned field; the non-associated side is wider than the technical list of dissociated formations and includes form where applicable. |
+| `amala` / `anāsrava` | uncontaminated | Here a conditioned field distinct from the unconditioned. |
+| `akṛta` / `asaṃskṛta` | unmade / unconditioned | Divided by wholesome and indeterminate status, not by the conditioned association division. |
+| `svakalāpa` | own complex | This cognition together with its co-arising dharmas; the exclusion concerns this act's object-field. |
+| `viṣaya-viṣayibheda`, `ekālambanatva`, `saṃnikṛṣṭatva` | object/knower distinction, common object-support, proximity | The Bhāṣya's compressed reasons for excluding the own complex; their exact allocation remains open. |
+| `śrutamaya`, `cintāmaya`, `bhāvanāmaya` | derived from hearing, reflection, cultivation | The prose distinguishes forms of conventional knowing and qualifies cultivated knowing by delimited level. |
+
+The ten class identifiers D1–D10 below are study labels for the
+Bhāṣya's distribution, not additional Sanskrit terms.
+
+## 8. Logical Determination
+
+The object-field contains:
 
 | Label | Field | Division |
 |---|---|---|
@@ -139,52 +139,6 @@ labels for displaying the Bhāṣya's distribution:
 | D8 | Uncontaminated conditioned | Non-associated |
 | D9 | Unconditioned | Wholesome |
 | D10 | Unconditioned | Indeterminate |
-
-**`Saṃprayukta` / `viprayukta` — associated / non-associated.**
-The conditioned division concerns the cognitive association
-field, including citta and caittas on the associated side.
-The complementary non-associated class is not limited to
-`cittaviprayuktasaṃskāra` as a narrow technical list; it also
-must accommodate the other non-associated conditioned dharmas
-of each field, including rūpa where applicable.
-
-**`Amala` / `anāsrava` — uncontaminated.** Here one of the four
-conditioned fields. Its separation from `akṛta` prevents the
-uncontaminated from being identified wholesale with the
-unconditioned.
-
-**`Akṛta` / `asaṃskṛta` — unmade / unconditioned.** The verse
-and prose designations. Its wholesome/indeterminate division
-differs from the associated/non-associated division applied
-to conditioned dharmas.
-
-**`Svakalāpa` — own complex.** The cognition and the dharmas
-co-arising with it. “Own” marks their relation to the particular
-cognitive occurrence; it should not be reduced to a statement
-about possession of a permanent subject.
-
-**`Viṣaya-viṣayibheda`, `ekālambanatva`, `saṃnikṛṣṭatva`.**
-The prose grounds the exclusion through object/knower
-distinction, having a common object-support, and proximity.
-The usual contextual construe distinguishes the knowing
-itself, its associated co-arising factors sharing the object,
-and the other proximate co-arising dharmas. The compressed
-reason-clause does not explicitly enumerate this allocation.
-In particular, `ekālambanatva` here should not be made a
-universal one-individual-object rule for every kind of knowing.
-
-**`Śrutamaya`, `cintāmaya`, `bhāvanāmaya` — derived from hearing,
-reflection, cultivation.** The prose specifies hearing and
-reflection in the desire-domain case, and hearing and cultivation
-in the form-domain case. It then invokes delimited levels
-and rejects the consequence of simultaneous dispassion from
-everything. This guards the scope of cultivated realization;
-it should not be used to erase the preceding comprehensive
-conventional formulation.
-
-## 8. Logical Determination
-
-The object-field contains:
 
 ```text
 4 conditioned fields × 2 association classes = 8

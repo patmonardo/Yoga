@@ -20,27 +20,22 @@ objects of each knowledge? The Bhāṣya explicitly identifies all
 the numerical groups. The final clause opens a different tenfold
 classification, developed in VAK 7.18.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-nava | mārga-anvaya-dhiyoḥ | duḥkha-hetu-dhiyoḥ | dvayam |
-caturṇām | daśa | na | ekasya | yojyāḥ | dharmāḥ | punaḥ | daśa
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `nava` | nominative plural numeral here | nine [knowledges as objects] |
-| `mārgānvayadhiyoḥ` | genitive dual compound ending in feminine `dhī` | of Path-knowledge and anvaya-knowledge |
-| `duḥkhahetudhiyoḥ` | genitive dual compound | of suffering- and origination-knowledge |
-| `dvayam` | nominative singular neuter collective numeral | a pair [of knowledge-objects] |
-| `caturṇām` | genitive plural numeral | of four [knowing categories] |
-| `daśa` | nominative plural numeral | ten [knowledge-objects] |
-| `na` | negation | none, with the omitted object statement |
-| `ekasya` | genitive singular numeral | of one [knowledge] |
+| `nava` | nominative plural numeral | nine possible knowledge-object categories for each of two knowledges |
+| `mārgānvayadhiyoḥ` | genitive dual compound (`mārga-anvaya-dhī`) | of Path-knowledge and anvaya-knowledge, distributively |
+| `duḥkhahetudhiyoḥ` | genitive dual compound (`duḥkha-hetu-dhī`) | of suffering- and origination-knowledge, distributively |
+| `dvayam` | nominative singular neuter collective numeral | the pair of conventional and other-mind knowledge as objects |
+| `caturṇām` | genitive plural numeral | of conventional, other-mind, exhaustion, and non-arising knowledge |
+| `daśa` | nominative plural numeral | all ten knowledge-categories as possible objects |
+| `na` | negation | no knowledge-category as object |
+| `ekasya` | genitive singular numeral | of the one, cessation-knowledge |
 | `yojyāḥ` | nominative plural masculine gerundive of `√yuj` | to be assigned or brought into relation |
-| `dharmāḥ` | nominative plural masculine | dharmas, here grouped into classes |
+| `dharmāḥ` | nominative plural masculine | dharmas, now grouped into classes |
 | `punaḥ` | connective adverb | again, in turn |
-| `daśa` | nominative plural numeral | ten [dharma classes] |
+| `daśa` | nominative plural numeral | ten dharma classes, distinct from the ten knowledge-categories |
 
 `Hetu` is resolved by the Bhāṣya as `samudaya`, origination.
 `Na + ekasya` yields `naikasya`; `yojyāḥ + dharmāḥ` appears
@@ -79,6 +74,10 @@ are objects]; for suffering- and origination-knowledge, a pair;
 for four, ten; for one, none. In turn, ten [classes of] dharmas
 are to be assigned.
 
+Together with dharma-knowledge's entry in 7.16, this completes the
+knowledge-object counts. The ten dharma classes belong to the next
+verse's exposition (Pradhan 403|16–404|10 for the present table).
+
 ## 5. Translation
 
 ### Literal Translation
@@ -89,18 +88,13 @@ are to be assigned.
 
 ### Bhāṣya-informed study translation
 
-> Path-knowledge has nine knowledge-categories as objects, excluding
-> conventional knowledge. Anvaya-knowledge also has nine, excluding
-> dharma-knowledge. Suffering- and origination-knowledge each have
-> two: conventional and other-mind knowledge. Conventional,
-> other-mind, exhaustion, and non-arising knowledge each have all
-> ten knowledge-categories in their possible object-range.
-> Cessation-knowledge has none of the ten as its object. The
-> inquiry next assigns ten classes of dharmas to the knowledges.
-
-This follows Pradhan 404|01–404|10. Together with the dharma-
-knowledge entry at 403|17–403|18, it completes the knowledge-object
-count. The ten dharma classes belong to the next verse's exposition.
+> Path- and anvaya-knowledge each take nine kinds of knowledge as
+> objects, excluding conventional and dharma-knowledge respectively.
+> Suffering- and origination-knowledge each take two: conventional
+> and other-mind knowledge. Conventional, other-mind, exhaustion,
+> and non-arising knowledge each take all ten; cessation-knowledge
+> takes no knowledge as object. Ten classes of dharmas are next to
+> be assigned.
 
 ## 6. Philosophical Translation
 
@@ -119,37 +113,14 @@ cognition or simultaneous apprehension of the whole field.
 
 ## 7. Technical Vocabulary
 
-**Knowledge as `ālambana`.** The commentary continues to use
-object-support for the relation. Calling it a reflective relation
-in our study does not make it an automatic act of self-reflection:
-one cognition can have another cognition as object.
-
-**`Mārga-dhī` / `anvaya-dhī` — Path- / anvaya-knowledge.** Both
-have nine knowledge-object categories, but equal counts do not
-mean equal ranges. Path-knowledge excludes conventional knowledge;
-anvaya-knowledge excludes dharma-knowledge.
-
-**`Dvaya` — the pair.** Conventional and other-mind knowledge,
-the two object-categories of suffering- and origination-knowledge.
-The latter category includes contaminated and uncontaminated forms;
-the count does not erase the particular object's status. The
-contaminated portion is relevant to this suffering/origination
-object-field, rather than every instance indiscriminately.
-
-**`Caturṇām` — of the four.** Conventional, other-mind, exhaustion,
-and non-arising knowledge. These four share the ten-category
-count, but their detailed conditions of knowing remain different.
-In particular, other-mind knowledge retains its present-object,
-level, faculty, practitioner, and single-entity restrictions.
-
-**`Ekasya` — of the one.** Cessation-knowledge. Its object is
-cessation rather than one of the ten cognitions. The exclusion
-does not make it objectless or less determinate.
-
-**`Yojya` — to be assigned / brought into relation.** The closing
-instruction requires the next tenfold dharma classification to
-be related to the knowledges. It does not add ten new knowledge-
-designations to the existing ten.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `ālambana` | object-support | The Bhāṣya's relation between a knowing category and possible knowledge-objects; it does not imply same-moment self-cognition. |
+| `mārga-dhī` / `anvaya-dhī` | Path- / anvaya-knowledge | Each has nine knowledge-object categories, but Path excludes conventional knowledge and anvaya excludes dharma-knowledge. |
+| `dvaya` | the pair | Conventional and other-mind knowledge are the two object-categories for suffering- and origination-knowledge; particular objects retain their specific status. |
+| `caturṇām` | of the four | Conventional, other-mind, exhaustion, and non-arising knowledge; each has ten possible object-categories, subject to its own conditions. |
+| `ekasya` | of the one | Cessation-knowledge takes no knowledge-category as object; it knows cessation. |
+| `yojya` | to be assigned | The closing instruction introduces ten dharma classes for the next distribution, without adding knowledge-designations. |
 
 ## 8. Logical Determination
 

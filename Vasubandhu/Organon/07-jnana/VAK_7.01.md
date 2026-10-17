@@ -25,36 +25,25 @@ resolves as `na amalāḥ kṣāntayaḥ jñānam`.
 Jñānanirdeśa opens by distinguishing the acceptances and knowledges already
 operative in the Path. Its first question concerns their relation to view.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-na | amalāḥ | kṣāntayaḥ | jñānam |
-kṣaya-anutpāda-dhīḥ | na | dṛk |
-tad-anyā | ubhayathā | āryā | dhīḥ |
-anyā | jñānam | dṛśaḥ | ca | ṣaṭ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `na` | negative particle | not; negates classification as knowledge |
+| `na` (in `nāmalāḥ`) | negative particle resolved from opening sandhi `na + amalāḥ` | negates `jñānam`, not `amalāḥ` |
 | `amalāḥ` | nominative plural feminine of `amala` | stainless, uncontaminated; qualifies acceptances |
 | `kṣāntayaḥ` | nominative plural feminine of `kṣānti` | acceptances or receptive determinations |
 | `jñānam` | nominative singular neuter | knowledge, used as a classificatory predicate |
-| `kṣaya-anutpāda-dhīḥ` | nominative singular feminine compound ending in `dhī` | cognition of exhaustion and of non-arising |
+| `kṣaya-anutpāda-dhīḥ` | nominative singular feminine compound: `kṣaya` + `anutpāda` + `dhīḥ` | cognition of exhaustion and of non-arising |
+| `na` | negative particle | negates classification as view |
 | `dṛk` | nominative singular of feminine root noun `dṛś` | view |
-| `tad-anyā` | nominative singular feminine | other than those; qualifies noble cognition |
+| `tad-anyā` | nominative singular feminine; sandhi with following `ubhayathā` gives `tadanyo-` | other than the named noble forms; qualifies `āryā dhīḥ` |
 | `ubhayathā` | indeclinable adverb | in both ways: as knowledge and view |
 | `āryā` | nominative singular feminine | noble; qualifies `dhīḥ` |
 | `dhīḥ` | nominative singular feminine | discriminative cognition |
-| `anyā` | nominative singular feminine | the other [cognition] |
+| `anyā` | nominative singular feminine | other cognition, resolved by the Bhāṣya as worldly `prajñā` |
 | `dṛśaḥ` | nominative plural feminine of `dṛś` | views |
 | `ca` | conjunction | and |
 | `ṣaṭ` | numeral, nominative plural here | six |
-
-The sandhi `tadanyobhayathāryā` resolves through `tad-anyā + ubhayathā +
-āryā`. The Bhāṣya identifies the first remainder as uncontaminated `prajñā`
-and the second as worldly `prajñā`; these are contextual determinations of
-the two occurrences of “other.”
 
 ## 4. Grammar
 
@@ -91,19 +80,10 @@ are] views.
 
 ### Bhāṣya-informed study translation
 
-> The uncontaminated acceptances count as view, but not as knowledge: the
-> underlying tendency to doubt that they are to abandon has not yet been
-> abandoned, while their nature is discerning examination. The knowledges of
-> exhaustion and non-arising count as knowledge but not as view, because
-> their disposition is without examination and further searching. All other
-> uncontaminated discriminative cognition is both knowledge and view. All
-> worldly discriminative cognition is knowledge; six worldly forms are also
-> views—the five views and worldly right view.
-
-The reasons for the exclusions, acceptance's positive view-status, and the
-identification of the six are supplied by the Bhāṣya, Pradhan 391|02–391|15.
-The final prose sentences confirm that the remaining worldly prajñā is not
-view, although both the six and the rest are knowledge.
+> Uncontaminated acceptances are not knowledge. The knowledges of exhaustion
+> and non-arising are not view. Other uncontaminated discriminative cognition
+> is both knowledge and view. Worldly discriminative cognition is knowledge,
+> and six of its forms are also views.
 
 ## 6. Philosophical Translation
 
@@ -123,43 +103,16 @@ certify rightness or liberating completion.
 
 ## 7. Technical Vocabulary
 
-**`Kṣānti` — acceptance / receptive determination.** Here specifically
-uncontaminated acceptance in the Path. The term has a discerning function;
-ordinary patience is not its operative sense in this passage. The restriction
-`amalāḥ` must remain attached to the exclusion from knowledge.
-
-**`Jñāna` — knowledge.** A technical classification whose scope includes
-worldly prajñā as well as noble knowledge. The present verse distinguishes
-its extension from that of view before developing the chapter's taxonomy.
-
-**`Dṛk`, `dṛśaḥ`, `dṛṣṭi` — view.** The verse uses the root noun `dṛś`; the
-commentary explains it with `dṛṣṭi`. In this argument its positive criterion
-is discerning examination, not merely holding an opinion. Both uncontaminated
-acceptances and the five afflicted views fall within its extension.
-
-**`Dhī` and `prajñā` — discriminative cognition.** `Dhī` is the verse's
-expression; `prajñā` is the commentary's explicit expansion. Their contextual
-relation identifies the field being classified, without positing an enduring
-cognitive bearer behind its forms.
-
-**`Kṣayajñāna` / `anutpādajñāna` — knowledge of exhaustion / non-arising.**
-The two knowledges jointly designated by the verse's compound. The local
-argument establishes their exclusion from view. Their fuller contents are
-left to the ensuing chapter sequence.
-
-**`Vicikitsā-anuśaya` — underlying tendency to doubt.** The Bhāṣya's ground
-for excluding uncontaminated acceptance from knowledge is that the doubt to
-be abandoned by it has not yet been abandoned. This does not say that
-acceptance is itself an afflicted doubt-cognition.
-
-**`Santīraṇa` and `parimārgaṇa` — discerning examination and searching.**
-Commentarial vocabulary grounding view-status and the two final knowledges'
-exclusion from it. The witness has the irregular form `santiraṇātmakattvāt`;
-the normalized technical term is displayed here as `santīraṇa`.
-
-**`Laukikī samyagdṛṣṭi` — worldly right view.** The sixth worldly view,
-alongside the five views already classified in the afflictive field. The
-local prose refers to those five collectively rather than enumerating them.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `kṣānti` | acceptance / receptive determination | Uncontaminated acceptance in the Path; it discerns but is excluded from knowledge here. The restriction `amalāḥ` is essential. |
+| `jñāna` | knowledge | Classification covering worldly `prajñā` as well as noble knowledge; knowledge-status alone does not establish rightness. |
+| `dṛk` / `dṛśaḥ` / `dṛṣṭi` | view | The verse's root-noun forms are explained by the Bhāṣya's `dṛṣṭi`; discerning examination includes uncontaminated acceptance and the five afflicted views. |
+| `dhī` / `prajñā` | discriminative cognition | Verse term and Bhāṣya expansion for the field being classified. |
+| `kṣayajñāna` / `anutpādajñāna` | knowledge of exhaustion / non-arising | The verse's paired final knowledges are excluded from view; fuller determinations follow later. |
+| `vicikitsā-anuśaya` | underlying tendency to doubt | Its non-abandonment grounds acceptance's exclusion from knowledge; acceptance is not thereby a doubt-cognition. |
+| `santīraṇa` / `parimārgaṇa` | discerning examination / further searching | Bhāṣya terms grounding view-status and its absence in the final knowledges; the local witness has irregular `santiraṇātmakattvāt`. |
+| `laukikī samyagdṛṣṭi` | worldly right view | The sixth worldly view beside five afflicted views; the five are not enumerated in this passage. |
 
 ## 8. Logical Determination
 

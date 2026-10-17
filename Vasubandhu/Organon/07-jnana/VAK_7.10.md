@@ -20,28 +20,19 @@ in the explanatory prose. The verse distributes aspect-ranges; the
 Bhāṣya explicitly reserves the detailed teaching of the sixteen aspects
 for later.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dharma-jñāna-anvaya-jñānam | ṣoḍaśa-ākāram | anyathā |
-tathā | ca | sāṃvṛtam | svaiḥ | svaiḥ | satya-ākāraiḥ | catuṣṭayam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `dharmajñānānvayajñānam` | nominative singular neuter compound grouping two names | dharma-knowledge and anvaya-knowledge |
-| `ṣoḍaśākāram` | nominative singular neuter possessive compound | having sixteen aspects |
-| `anyathā` | indeclinable adverb | otherwise, in another manner |
-| `tathā` | indeclinable adverb | thus, in that same manner |
+| `dharmajñānānvayajñānam` | nominative singular neuter compound grouping two names | dharma-knowledge and anvaya-knowledge, each receiving the sixteenfold predicate |
+| `ṣoḍaśākāram` | nominative singular neuter possessive compound | having the sixteen truth-aspects; the Bhāṣya postpones their enumeration |
+| `anyathā` | indeclinable adverb | through other aspects as well; construes with conventional knowledge across the pāda boundary |
+| `tathā` | indeclinable adverb | likewise through the sixteen aspects, also qualifying conventional knowledge |
 | `ca` | conjunction | and |
 | `sāṃvṛtam` | nominative singular neuter adjective, with knowledge understood | conventional [knowledge] |
-| `svaiḥ svaiḥ` | repeated instrumental plural possessive adjective | by their own respective |
-| `satyākāraiḥ` | instrumental plural masculine compound | by truth-aspects |
-| `catuṣṭayam` | nominative singular neuter collective noun | the group of four |
-
-The repeated `svaiḥ` is distributive: the relevant aspects belong to
-each respective truth. `Satya + ākāra` yields `satyākāra`;
-`satyākāraiḥ + catuṣṭayam` appears as `satyākāraiś catuṣṭayam`.
+| `svaiḥ svaiḥ` | repeated instrumental plural possessive adjective | each truth-knowledge operates through aspects proper to its own truth |
+| `satyākāraiḥ` (`satyākāraiś` before `catuṣṭayam`) | instrumental plural masculine compound, `satya + ākāra` | through truth-aspects |
+| `catuṣṭayam` | nominative singular neuter collective noun | the four truth-knowledges: suffering, origination, cessation, and Path |
 
 ## 4. Grammar
 
@@ -94,17 +85,10 @@ four—[operates] by its own respective truth-aspects.
 
 ### Bhāṣya-informed study translation
 
-> Dharma-knowledge and anvaya-knowledge each have the sixteen truth-
-> aspects. Conventional knowledge can operate through those sixteen
-> and through other aspects, because it apprehends the own and common
-> characteristics of dharmas, and so forth. Suffering-, origination-,
-> cessation-, and Path-knowledge each operate through the four aspects
-> proper to their own truth.
-
-This follows Pradhan 395|17–396|02. The prose says, “We shall teach
-them later,” concerning the sixteen aspects. The present study therefore
-establishes their distribution without importing the later enumeration
-into this verse's primary exposition.
+> Dharma- and anvaya-knowledge each range over all sixteen truth-aspects.
+> Conventional knowledge can take these same aspects and others besides.
+> The four truth-knowledges—suffering, origination, cessation, and Path—each
+> operate through the four aspects proper to its own truth.
 
 ## 6. Philosophical Translation
 
@@ -123,39 +107,15 @@ counteraction remain relevant.
 
 ## 7. Technical Vocabulary
 
-**`Ākāra` — aspect / mode of apprehension.** The determination under
-which the object is known. The present verse distributes aspect-ranges;
-it does not yet supply a complete account of the nature of aspect itself.
-
-**`Ṣoḍaśākāra` — sixteen-aspected.** The predicate shared by dharma-
-and anvaya-knowledge. The four truth-knowledges each have four aspects,
-giving the articulated sixteenfold field. The actual aspect-names
-remain for the subsequent source exposition.
-
-**`Anyathā` / `anyathākāra` — otherwise / having other aspects.**
-The kārikā adverb and the Bhāṣya's expansion. Conventional knowledge's
-range is not exhausted by the sixteen. This does not mean every
-imaginable aspect is automatically licensed or successfully cognized.
-
-**`Svalakṣaṇa` — own characteristic.** One member of the Bhāṣya's
-explanation for conventional knowledge's wider range. Its apprehension
-of a dharma's distinctive characteristic contributes to the explanation
-without confining it to conventional composite objects alone.
-
-**`Sāmānyalakṣaṇa` — common characteristic.** The other explicitly
-named member. The phrase `svasāmānyalakṣaṇādi` encompasses own and
-common characteristics and so forth. These should not be treated as
-two wholly separate classes of aspects with no overlap with truth-
-aspects; the prose explains breadth rather than giving such a partition.
-
-**`Svaiḥ svaiḥ satyākāraiḥ` — through their own respective truth-aspects.**
-The repeated possessive controls the distribution. The four truth-
-knowledges are not each assigned the entire sixteenfold range.
-
-**`Catuṣṭaya` — the group of four.** Here suffering-, origination-,
-cessation-, and Path-knowledge. It is neither the four categories
-overlapping other-mind knowledge in VAK 7.05 nor four additional
-knowledge-kinds introduced at this point.
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `ākāra` | aspect / mode of apprehension | Form under which an object is known; this verse distributes aspect-ranges without defining aspect exhaustively. |
+| `ṣoḍaśākāra` | sixteen-aspected | Shared range of dharma- and anvaya-knowledge, each taking the sixteen truth-aspects; their names are taught later. |
+| `anyathā` / `anyathākāra` | otherwise / having other aspects | Kārikā adverb and Bhāṣya expansion for conventional knowledge beyond the sixteen; not an unlimited license for every imagined aspect. |
+| `svalakṣaṇa` | own characteristic | One Bhāṣya example explaining conventional knowledge's wider apprehension. |
+| `sāmānyalakṣaṇa` | common characteristic | Paired with own characteristic in `svasāmānyalakṣaṇādi`; the prose explains breadth, not a closed partition of aspect-types. |
+| `svaiḥ svaiḥ satyākāraiḥ` | through their own respective truth-aspects | Distributes four proper aspects to each truth-knowledge, rather than all sixteen to each. |
+| `catuṣṭaya` | group of four | Suffering-, origination-, cessation-, and Path-knowledge here, distinct from 7.05's four overlapping classes of other-mind knowledge. |
 
 ## 8. Logical Determination
 
@@ -213,6 +173,11 @@ grounds and scopes preserved.
 at the end of the first line can obscure its connection to conventional
 knowledge. The prose explicitly joins the sixteen-aspected and
 otherwise-aspected predicates under `saṃvṛtijñāna`.
+
+**Scope of the translation.** Pradhan 395|17–396|02 distributes the ranges
+and says the sixteen aspects will be taught later. The informed translation
+names the four truth-knowledges and their respective four aspects, while
+leaving the later enumeration in its own source location.
 
 **Shared form and different status.** VAK 7.03 allowed conventional
 knowledge a broad object-range. Here it also shares the sixteen

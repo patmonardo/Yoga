@@ -5,9 +5,13 @@
 > nava mārgānvayadhiyoḥ duḥkhahetudhiyor dvayam |
 > caturṇāṃ daśa naikasya yojyā dharmāḥ punar daśa || 7.17 ||
 
-> Nine are objects of Path- and anvaya-knowledge; two of suffering- and
-> origination-knowledge; ten of four; none of one. In turn, ten classes
-> of dharmas are to be assigned.
+> Path- and anvaya-knowledge each take nine kinds of knowledge as
+> objects, excluding conventional and dharma-knowledge respectively.
+> Suffering- and origination-knowledge each take two: conventional
+> and other-mind knowledge. Conventional, other-mind, exhaustion,
+> and non-arising knowledge each take all ten; cessation-knowledge
+> takes no knowledge as object. Ten classes of dharmas are next to
+> be assigned.
 
 With 7.16's dharma-knowledge entry, the knowledge-as-object table is
 complete. The last pāda opens 7.18; those ten dharma-classes are not listed
@@ -106,6 +110,6 @@ convention, not paramārtha.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.17.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.17_bhasya.md`. Ten dharma-classes reserved
-for 7.18. `kosabhasya.txt` collation pending. Provisional.
+QA reviewed against the paired Organon kārikā and Bhāṣya studies.
+Ten dharma classes are reserved for 7.18. Sanskrit collation remains
+pending. Provisional.

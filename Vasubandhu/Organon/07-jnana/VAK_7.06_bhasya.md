@@ -5,10 +5,10 @@
 > tad dharmānvayadhīpakṣyam anyo 'nyaṃ darśanakṣaṇau |
 > śrāvako vetti khaṅgas trīn sarvān buddho 'prayogataḥ || 7.6 ||
 
-> That [other-mind knowledge], belonging to the dharma- and anvaya-cognition
-> sides, [does not know] the other side reciprocally. A disciple knows two
-> moments of Seeing; the rhinoceros-like solitary realizer knows three; a
-> Buddha knows all, without preparatory application.
+> Dharma-side other-mind knowledge cannot know anvaya-side mind, nor can the
+> reverse. In another's Path of Seeing, a prepared disciple knows its first
+> two moments; a solitary realizer knows three; a Buddha knows every
+> Seeing-moment without preparatory application.
 
 Negative force is carried from 7.05's `na vetti tat`. `Darśanakṣaṇau`
 belongs with `śrāvakaḥ vetti`, not with the reciprocal restriction.
@@ -135,7 +135,7 @@ voluntary: without it the counts fall into Appearance (2, 3, all).
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.06.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.06_bhasya.md` (Pradhan 393|14–394|04).
-Damaged domain-ground clause unrestored. `kosabhasya.txt` collation pending.
-Provisional.
+Reviewed against the paired Organon kārikā study and the Pradhan
+393|14–394|04 span recorded here. The anchor now reproduces the
+Bhāṣya-informed study translation exactly. The damaged domain-ground
+clause remains unrestored and source-line collation remains provisional.

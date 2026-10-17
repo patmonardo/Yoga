@@ -5,9 +5,12 @@
 > ekajñānānvito rāgī prathame 'nāsravakṣaṇe |
 > dvitīye tribhir ūrdhvas tu caturṣv ekaikavṛddhimān || 7.19 ||
 
-> The practitioner still attached possesses one knowledge in the first
-> uncontaminated moment; in the second, three. Subsequently, at four
-> moments, he gains one more at each.
+> One still attached to the desire domain possesses one knowledge
+> at the first uncontaminated moment, suffering-dharma acceptance:
+> conventional knowledge. At the second, he possesses three:
+> conventional, dharma, and suffering knowledge. At four later
+> moments his possession grows by one knowledge each time, reaching
+> seven at Path-dharma knowledge.
 
 New question: who possesses how many. Not the 7.17–7.18 object-tables.
 Cultivation is 7.20.
@@ -102,6 +105,6 @@ possessed. Sublation = nirodha stays parked.
 
 ## 9. Review Status
 
-QA drafted against Organon `VAK_7.19.md` and first-pass
-`Vasubandhu/VAK/07-jnana/VAK_7.19_bhasya.md` (Pradhan 405|07–17).
-Cultivation in 7.20. `kosabhasya.txt` collation pending. Provisional.
+QA reviewed against the paired Organon kārikā and Bhāṣya studies
+(Pradhan 405|07–17). Cultivation begins in 7.20; Sanskrit collation
+remains pending. Provisional.
