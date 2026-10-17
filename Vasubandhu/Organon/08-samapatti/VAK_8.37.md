@@ -44,12 +44,12 @@ The neuter singulars classify the remainder and distinguish the formless group f
 ```nltk-fcfg
 % start S
 # tokens: nirodha uktaḥ ∅-nirodhavimokṣaḥ vairāgyaprayogāptam tu śeṣitam ∅-ucitānucitatvāt tridhātvāśrayam ārūpyasaṃjñam ∅-ārūpyavimokṣāḥ ∅-ārūpyakṛtsnāni śeṣam manuṣyajam ∅-manuṣyāśrayam
-S -> CL[K=cessation] CL[K=acquisition] CL[K=formlesssupport] CL[K=humansupport]
+S[SEM=<?a & ?b & ?c & ?d>] -> CL[K=cessation,SEM=?a] CL[K=acquisition,SEM=?b] CL[K=formlesssupport,SEM=?c] CL[K=humansupport,SEM=?d]
 
-CL[K=cessation] -> N[CASE=?c,NUM=?n,GEN=?g] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] N[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose]
-CL[K=acquisition] -> ADJ[CASE=?c,NUM=?n,GEN=?g,ROUTE=either] PTCL[CONTRAST=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,REMAINDER=yes] N[CASE=abl,NUM=sg,GEN=n,SUPPLIED=prose]
-CL[K=formlesssupport] -> ADJ[CASE=?c,NUM=?n,GEN=?g,SUPPORT=threedomain] ADJ[CASE=?c,NUM=?n,GEN=?g,DESIGNATION=formless] N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose]
-CL[K=humansupport] -> ADJ[CASE=?c,NUM=?n,GEN=?g,REMAINDER=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,ORIGIN=human] N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose]
+CL[K=cessation,SEM=<Cessation(cessationpractice)>] -> N[CASE=?c,NUM=?n,GEN=?g] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] N[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose]
+CL[K=acquisition,SEM=<all x.((Remaining(x) & Habituated(x)) -> ViaDispassion(x)) & all x.((Remaining(x) & -Habituated(x)) -> ViaApplication(x))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,ROUTE=either] PTCL[CONTRAST=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,REMAINDER=yes] N[CASE=abl,NUM=sg,GEN=n,SUPPLIED=prose]
+CL[K=formlesssupport,SEM=<all x.(FormlessDesignated(x) -> ThreeDomainSupport(x))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,SUPPORT=threedomain] ADJ[CASE=?c,NUM=?n,GEN=?g,DESIGNATION=formless] N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose]
+CL[K=humansupport,SEM=<all x.(HumanRemainder(x) -> HumanSupport(x))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,REMAINDER=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,ORIGIN=human] N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose]
 
 N[CASE=nom,NUM=sg,GEN=m] -> 'nirodha'
 PTCP[CASE=nom,NUM=sg,GEN=m,TENSE=past] -> 'uktaḥ'
@@ -162,6 +162,11 @@ The verse sets cessation aside, gives two acquisition routes for the remainder, 
 
 **Signature.** `Cessation(x)`, `Remaining(x)`, `Habituated(x)`, `ViaDispassion(x)`, `ViaApplication(x)`, `FormlessDesignated(x)`, `ThreeDomainSupport(x)`, `HumanRemainder(x)`, and `HumanSupport(x)`.
 
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+Cessation(cessationpractice) & all x.((Remaining(x) & Habituated(x)) -> ViaDispassion(x)) & all x.((Remaining(x) & -Habituated(x)) -> ViaApplication(x)) & all x.(FormlessDesignated(x) -> ThreeDomainSupport(x)) & all x.(HumanRemainder(x) -> HumanSupport(x))
+```
+
 ```nltk-valuation
 cessationpractice => cessationpractice
 habitpractice => habitpractice
@@ -181,14 +186,8 @@ HumanSupport => {humanremainder}
 
 ```nltk-fol
 # THEORY shared
-# [verse] nirodha uktaḥ: cessation is distinguished from the remainder
-Cessation(cessationpractice)
-# [prose] ucita / anucita: habituated / unhabituated acquisition
-all x.((Remaining(x) & Habituated(x)) -> ViaDispassion(x))
-all x.((Remaining(x) & -Habituated(x)) -> ViaApplication(x))
-# [verse] arūpyasaṃjña; [prose] formess attainments and totalities
-all x.(FormlessDesignated(x) -> ThreeDomainSupport(x))
-all x.(HumanRemainder(x) -> HumanSupport(x))
+# [verse] the two acquisition routes and support classifications
+Cessation(cessationpractice) & all x.((Remaining(x) & Habituated(x)) -> ViaDispassion(x)) & all x.((Remaining(x) & -Habituated(x)) -> ViaApplication(x)) & all x.(FormlessDesignated(x) -> ThreeDomainSupport(x)) & all x.(HumanRemainder(x) -> HumanSupport(x))
 ```
 
 **Results (NLTK).** The checker reports the shared rules true in this finite model of both acquisition routes and both support classes. No entailment or exhaustive census was tested.

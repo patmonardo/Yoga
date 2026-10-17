@@ -52,11 +52,11 @@ The opening subject and passive predicate frame the author's method; the relativ
 ```nltk-fcfg
 % start S
 # tokens: kāśmīravaibhāṣikanītisiddhaḥ prāyaḥ mayā ayam kathito abhidharmaḥ yad durgṛhītam tat iha asmadāgaḥ saddharmanītau munayaḥ ∅-buddhāḥ ∅-buddhaputrāḥ pramāṇam
-S -> CL[K=exposition] CL[K=responsibility] CL[K=authority]
+S[SEM=?sem] -> CL[K=exposition] CL[K=responsibility,SEM=?sem] CL[K=authority]
 
-CL[K=exposition] -> ADJ[CASE=?c,NUM=?n,GEN=?g,METHOD=school] ADV[DEGREE=limited] PRON[CASE=ins,NUM=sg,PERS=1] PRON[CASE=?c,NUM=?n,GEN=?g] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past,VOICE=pass] N[CASE=?c,NUM=?n,GEN=?g]
-CL[K=responsibility] -> PRON[CASE=?c,NUM=?n,GEN=?g,REL=yes] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] PRON[CASE=?c,NUM=?n,GEN=?g,CORR=yes] ADV[PLACE=here] N[CASE=?c,NUM=?n,GEN=?g,FAULT=ours]
-CL[K=authority] -> N[CASE=loc,NUM=sg,GEN=f,TOPIC=law] N[CASE=nom,NUM=pl,GEN=m,ROLE=authority] N[SUPPLIED=prose,ROLE=authority] N[SUPPLIED=prose,ROLE=authority] N[CASE=nom,NUM=sg,GEN=n,PRED=measure]
+CL[K=exposition,SEM=<all x.(Exposition(x) -> (UsesMethod(x,kashmira) & Predominantly(x,kashmira)))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,METHOD=school] ADV[DEGREE=limited] PRON[CASE=ins,NUM=sg,PERS=1] PRON[CASE=?c,NUM=?n,GEN=?g] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past,VOICE=pass] N[CASE=?c,NUM=?n,GEN=?g]
+CL[K=responsibility,SEM=<?rel(?pred)(?corr)>] -> PRON[CASE=?c,NUM=?n,GEN=?g,REL=yes,SEM=?rel] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past,SEM=?pred] PRON[CASE=?c,NUM=?n,GEN=?g,CORR=yes] ADV[PLACE=here] N[CASE=?c,NUM=?n,GEN=?g,FAULT=ours,SEM=?corr]
+CL[K=authority,SEM=<AuthorityFor(sages,truedharma)>] -> N[CASE=loc,NUM=sg,GEN=f,TOPIC=law] N[CASE=nom,NUM=pl,GEN=m,ROLE=authority] N[SUPPLIED=prose,ROLE=authority] N[SUPPLIED=prose,ROLE=authority] N[CASE=nom,NUM=sg,GEN=n,PRED=measure]
 
 ADJ[CASE=nom,NUM=sg,GEN=m,METHOD=school] -> 'kāśmīravaibhāṣikanītisiddhaḥ'
 ADV[DEGREE=limited] -> 'prāyaḥ'
@@ -64,11 +64,11 @@ PRON[CASE=ins,NUM=sg,PERS=1] -> 'mayā'
 PRON[CASE=nom,NUM=sg,GEN=m] -> 'ayam'
 PTCP[CASE=nom,NUM=sg,GEN=m,TENSE=past,VOICE=pass] -> 'kathito'
 N[CASE=nom,NUM=sg,GEN=m] -> 'abhidharmaḥ'
-PRON[CASE=nom,NUM=sg,GEN=n,REL=yes] -> 'yad'
-PTCP[CASE=nom,NUM=sg,GEN=n,TENSE=past] -> 'durgṛhītam'
+PRON[CASE=nom,NUM=sg,GEN=n,REL=yes,SEM=<\P.\Q.all x.(P(x)->Q(x))>] -> 'yad'
+PTCP[CASE=nom,NUM=sg,GEN=n,TENSE=past,SEM=<\x.MisgraspedHere(x)>] -> 'durgṛhītam'
 PRON[CASE=nom,NUM=sg,GEN=n,CORR=yes] -> 'tat'
 ADV[PLACE=here] -> 'iha'
-N[CASE=nom,NUM=sg,GEN=n,FAULT=ours] -> 'asmadāgaḥ'
+N[CASE=nom,NUM=sg,GEN=n,FAULT=ours,SEM=<\x.AuthorFault(x)>] -> 'asmadāgaḥ'
 N[CASE=loc,NUM=sg,GEN=f,TOPIC=law] -> 'saddharmanītau'
 N[CASE=nom,NUM=pl,GEN=m,ROLE=authority] -> 'munayaḥ'
 N[SUPPLIED=prose,ROLE=authority] -> '∅-buddhāḥ'
@@ -172,16 +172,12 @@ The verse separates predominant method, the author's responsibility for what is 
 
 **Signature.** `Exposition(x)`, `UsesMethod(x,m)`, `Predominantly(x,m)`, `MisgraspedHere(x)`, `AuthorFault(x)`, and `AuthorityFor(a,d)`.
 
-**Composition (`yat … tat`).** The relative-correlative contributes conditional mapping from the class of badly grasped items to the author's-fault class.
-
 ```nltk-sem
-# relative-correlative composition
- yat : \P.\Q.all x.(P(x)->Q(x))
- durgrihita : \x.MisgraspedHere(x)
- asmadaga : \x.AuthorFault(x)
-# beta-reduced clause
-all x.(MisgraspedHere(x)->AuthorFault(x))
+# derived by the section 4 parse, not typed by hand
+all x.(MisgraspedHere(x) -> AuthorFault(x))
 ```
+
+**Composition (`yat … tat`).** The relative-correlative contributes conditional mapping from the class of badly grasped items to the author's-fault class.
 
 ```nltk-valuation
 abhidharma => abhidharma
@@ -202,7 +198,7 @@ AuthorityFor => {(sages,truedharma)}
 # THEORY shared
 # [verse] kāśmīravaibhāṣikanīti-siddhaḥ prāyaḥ
 all x.(Exposition(x) -> (UsesMethod(x,kashmira) & Predominantly(x,kashmira)))
-# [verse] yad durgṛhītaṃ tad asmadāgaḥ
+# [verse] yad durgṛhītaṃ tad asmadāgaḥ; shared with the section 4 derivation
 all x.(MisgraspedHere(x) -> AuthorFault(x))
 # [verse] saddharmanītau munayaḥ pramāṇam; [prose] Buddhas and Buddha-sons
 AuthorityFor(sages,truedharma)

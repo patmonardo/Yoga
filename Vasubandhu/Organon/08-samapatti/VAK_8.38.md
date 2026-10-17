@@ -45,23 +45,23 @@ The first production statement names two domains; the second elides production a
 ```nltk-fcfg
 % start S
 # tokens: hetukarmabalāt dhātvoḥ ārūpyotpādanam dvayoḥ ∅-rūpadhātuḥ ∅-ārūpyadhātuḥ dhyānānām ∅-utpādanam rūpadhātau tu tābhyām dharmatayā api ca
-S -> CL[K=formlessproduction] CL[K=dhyanaproduction]
+S[SEM=<?a & ?b>] -> CL[K=formlessproduction,SEM=?a] CL[K=dhyanaproduction,SEM=?b]
 
-CL[K=formlessproduction] -> ABL[CAUSE=?cause] N[CASE=?c,NUM=?n,GEN=?g,DOMAIN=?d] N[CASE=nom,NUM=sg,GEN=n,EVENT=formless] NUMR[CASE=?c,NUM=?n,GEN=?g] N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose] N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose]
-CL[K=dhyanaproduction] -> N[CASE=gen,NUM=pl,GEN=n,EVENT=dhyana] N[SUPPLIED=prose,EVENT=production] N[CASE=loc,NUM=sg,GEN=m,DOMAIN=form] PTCL[CONTRAST=yes] PRON[CASE=ins,NUM=du,GEN=n,REF=twopowers] N[CASE=ins,NUM=sg,GEN=f,CAUSE=regularity] PTCL[ADDITIVE=yes] CONJ[ADDITIVE=yes]
+CL[K=formlessproduction,SEM=<all g.(?event(g) -> (?domains(g) & ?powers(g)))>] -> ABL[CAUSE=?cause,SEM=?powers] N[CASE=?c,NUM=?n,GEN=?g,DOMAIN=?d,SEM=?domains] N[CASE=nom,NUM=sg,GEN=n,EVENT=formless,SEM=?event] NUMR[CASE=?c,NUM=?n,GEN=?g] N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose] N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose]
+CL[K=dhyanaproduction,SEM=<all g.((?event(g) & AtContraction(g)) -> (?domain(g) & ?powers(g) & ?dharmata(g)))>] -> N[CASE=gen,NUM=pl,GEN=n,EVENT=dhyana,SEM=?event] N[SUPPLIED=prose,EVENT=production] N[CASE=loc,NUM=sg,GEN=m,DOMAIN=form,SEM=?domain] PTCL[CONTRAST=yes] PRON[CASE=ins,NUM=du,GEN=n,REF=twopowers,SEM=?powers] N[CASE=ins,NUM=sg,GEN=f,CAUSE=regularity,SEM=?dharmata] PTCL[ADDITIVE=yes] CONJ[ADDITIVE=yes]
 
-ABL[CAUSE=power] -> 'hetukarmabalāt'
-N[CASE=loc,NUM=du,GEN=m,DOMAIN=two] -> 'dhātvoḥ'
-N[CASE=nom,NUM=sg,GEN=n,EVENT=formless] -> 'ārūpyotpādanam'
+ABL[CAUSE=power,SEM=<\g.(ByPower(g,causepower) & ByPower(g,karmapower))>] -> 'hetukarmabalāt'
+N[CASE=loc,NUM=du,GEN=m,DOMAIN=two,SEM=<\g.(InDomain(g,formdomain) & InDomain(g,formlessdomain))>] -> 'dhātvoḥ'
+N[CASE=nom,NUM=sg,GEN=n,EVENT=formless,SEM=<\g.FormlessProduction(g)>] -> 'ārūpyotpādanam'
 NUMR[CASE=loc,NUM=du,GEN=m] -> 'dvayoḥ'
 N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-rūpadhātuḥ'
 N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-ārūpyadhātuḥ'
-N[CASE=gen,NUM=pl,GEN=n,EVENT=dhyana] -> 'dhyānānām'
+N[CASE=gen,NUM=pl,GEN=n,EVENT=dhyana,SEM=<\g.DhyanaProduction(g)>] -> 'dhyānānām'
 N[SUPPLIED=prose,EVENT=production] -> '∅-utpādanam'
-N[CASE=loc,NUM=sg,GEN=m,DOMAIN=form] -> 'rūpadhātau'
+N[CASE=loc,NUM=sg,GEN=m,DOMAIN=form,SEM=<\g.InDomain(g,formdomain)>] -> 'rūpadhātau'
 PTCL[CONTRAST=yes] -> 'tu'
-PRON[CASE=ins,NUM=du,GEN=n,REF=twopowers] -> 'tābhyām'
-N[CASE=ins,NUM=sg,GEN=f,CAUSE=regularity] -> 'dharmatayā'
+PRON[CASE=ins,NUM=du,GEN=n,REF=twopowers,SEM=<\g.(ByPower(g,causepower) & ByPower(g,karmapower))>] -> 'tābhyām'
+N[CASE=ins,NUM=sg,GEN=f,CAUSE=regularity,SEM=<\g.ByPower(g,dharmata)>] -> 'dharmatayā'
 PTCL[ADDITIVE=yes] -> 'api'
 CONJ[ADDITIVE=yes] -> 'ca'
 ```
@@ -155,9 +155,14 @@ further internal analysis of that phrase.
 
 ## 8. Logical Determination
 
-The verse contrasts production of formless attainments in two domains through causal and karmic power with dhyāna production in the form domain through those powers and, at cosmic contraction, *dharmatā*. `[verse]`; the conditions' content and timing are `[prose]`.
+The verse contrasts production of formless attainments in two domains through causal and karmic power with dhyāna production in the form domain through those powers; the Bhāṣya restricts the additional *dharmatā* route to cosmic contraction. `[verse]`; the conditions' content and timing are `[prose]`.
 
 **Signature.** `FormlessProduction(g)`, `DhyanaProduction(g)`, `InDomain(g,d)`, `ByPower(g,p)`, and `AtContraction(g)`.
+
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+all g.(FormlessProduction(g) -> (InDomain(g,formdomain) & InDomain(g,formlessdomain) & ByPower(g,causepower) & ByPower(g,karmapower))) & all g.((DhyanaProduction(g) & AtContraction(g)) -> (InDomain(g,formdomain) & ByPower(g,causepower) & ByPower(g,karmapower) & ByPower(g,dharmata)))
+```
 
 ```nltk-valuation
 formlessgroup => formlessgroup
@@ -176,15 +181,13 @@ AtContraction => {dhyanagroup}
 
 ```nltk-fol
 # THEORY shared
-# [verse] dhātvoḥ ... dvayoḥ; [prose] form and formless domains
-all g.(FormlessProduction(g) -> (InDomain(g,formdomain) & InDomain(g,formlessdomain) & ByPower(g,causepower) & ByPower(g,karmapower)))
-# [verse] dhyānānāṃ rūpadhātau ... tābhyāṃ dharmatayāpi ca
-all g.(DhyanaProduction(g) -> (InDomain(g,formdomain) & ByPower(g,causepower) & ByPower(g,karmapower) & ByPower(g,dharmata) & AtContraction(g)))
+# [verse] both production clauses; dharmatā is restricted to contraction
+all g.(FormlessProduction(g) -> (InDomain(g,formdomain) & InDomain(g,formlessdomain) & ByPower(g,causepower) & ByPower(g,karmapower))) & all g.((DhyanaProduction(g) & AtContraction(g)) -> (InDomain(g,formdomain) & ByPower(g,causepower) & ByPower(g,karmapower) & ByPower(g,dharmata)))
 ```
 
 **Results (NLTK).** The checker reports both distribution rules true in the finite model. No causal sufficiency beyond the stated conditions was tested.
 
-**Scope cautions.** “Cause” is locally explained as recent, repeated practice; “karma” as impending maturation. `Dharmatā` is restricted by the prose to the contraction context, not asserted as a universal third cause. Production of an attainment is distinct from a rebirth event.
+**Scope cautions.** “Cause” is locally explained as recent, repeated practice; “karma” as impending maturation. The contraction condition restricts *dharmatā*, not the two powers shared with ordinary dhyāna production. Production of an attainment is distinct from a rebirth event.
 
 ## 9. Interpretive Note
 

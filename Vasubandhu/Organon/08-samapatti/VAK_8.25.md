@@ -46,15 +46,15 @@ The first clause continues the three-samādhi subject and restricts its modes, b
 ```nltk-fcfg
 % start S
 # tokens: te śuddhāmalāḥ nirmalāḥ tu vimokṣamukhatrayam śūnyatāśūnyatādyākhyāḥ trayaḥ aparasamādhayaḥ
-S -> CL[K=modes] CL[K=gates] CL[K=further]
+S[SEM=?formula] -> CL[K=modes] CL[K=gates,SEM=?formula] CL[K=further]
 CL[K=modes] -> N[CASE=?c,NUM=?n,GEN=?g] ADJ[CASE=?c,NUM=?n,GEN=?g,MODES=two]
-CL[K=gates] -> ADJ[CASE=nom,NUM=pl,GEN=m,MODE=uncontaminated] PTCL[CASE=none,NUM=none,GEN=none,CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=n,COLLECTIVE=yes]
+CL[K=gates,SEM=<?q(?p)>] -> ADJ[CASE=nom,NUM=pl,GEN=m,MODE=uncontaminated,SEM=?q] PTCL[CASE=none,NUM=none,GEN=none,CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=n,COLLECTIVE=yes,SEM=?p]
 CL[K=further] -> ADJ[CASE=nom,NUM=pl,GEN=m,NAME=examples] NUMR[CASE=nom,NUM=pl,GEN=m] N[CASE=nom,NUM=pl,GEN=m]
 N[CASE=nom,NUM=pl,GEN=m] -> 'te'
 ADJ[CASE=nom,NUM=pl,GEN=m,MODES=two] -> 'śuddhāmalāḥ'
-ADJ[CASE=nom,NUM=pl,GEN=m,MODE=uncontaminated] -> 'nirmalāḥ'
+ADJ[CASE=nom,NUM=pl,GEN=m,MODE=uncontaminated,SEM=<\P.all x.((Triad(x) & Uncontaminated(x)) -> P(x))>] -> 'nirmalāḥ'
 PTCL[CASE=none,NUM=none,GEN=none,CONTRAST=yes] -> 'tu'
-N[CASE=nom,NUM=sg,GEN=n,COLLECTIVE=yes] -> 'vimokṣamukhatrayam'
+N[CASE=nom,NUM=sg,GEN=n,COLLECTIVE=yes,SEM=<\x.Gate(x)>] -> 'vimokṣamukhatrayam'
 ADJ[CASE=nom,NUM=pl,GEN=m,NAME=examples] -> 'śūnyatāśūnyatādyākhyāḥ'
 NUMR[CASE=nom,NUM=pl,GEN=m] -> 'trayaḥ'
 N[CASE=nom,NUM=pl,GEN=m] -> 'aparasamādhayaḥ'
@@ -150,6 +150,11 @@ The verse distinguishes mode from designation: the three earlier samādhis can b
 
 **Signature.** `Triad(x)`; `WorldlyPure(x)`; `Uncontaminated(x)`; `Gate(x)`; `Further(x)`; `Named(x,n)`.
 
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+all x.((Triad(x) & Uncontaminated(x)) -> Gate(x))
+```
+
 ```nltk-valuation
 signlessWorld => signlessWorld
 emptinessWorld => emptinessWorld
@@ -175,9 +180,8 @@ Named => {(emptyOfEmpty,emptiness),(nonDirectedOfNonDirected,nondirected),(signl
 # THEORY shared
 # [verse] two modes; [prose] śuddha/amala distinguished as worldly-pure/uncontaminated
 all x.(Triad(x) -> (WorldlyPure(x) | Uncontaminated(x)))
-# [verse] nirmalās tu te; [prose] the gate designation is restricted to uncontaminated forms
-all x.(Gate(x) -> Uncontaminated(x))
-all x.(Uncontaminated(x) -> Gate(x))
+# [derived by the section 4 parse, not typed by hand] nirmalās tu te, scoped to the uncontaminated forms of the preceding triad
+all x.((Triad(x) & Uncontaminated(x)) -> Gate(x))
 # [verse] three names, filled out as the further triad by the prose
 all x.(Further(x) -> exists n.Named(x,n))
 ```

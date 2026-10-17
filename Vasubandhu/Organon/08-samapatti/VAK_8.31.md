@@ -49,10 +49,10 @@ The first locative fixes sympathetic joy to two dhyānas; the six/five disagreem
 ```nltk-fcfg
 % start S
 # tokens: dhyānayoḥ ∅-prathama-dvitīya muditā anyāni ∅-trīṇi ṣaṭsu kecit tu pañcasu na taiḥ prahāṇam ∅-apramāṇāni nṛṣu eva janyante ∅-apramāṇalābhī tryanvitaḥ dhruvam
-S -> CL[K=joy_level] CL[K=other_levels] CL[K=no_abandonment] CL[K=generation] CL[K=possession]
+S[SEM=?formula] -> CL[K=joy_level] CL[K=other_levels] CL[K=no_abandonment,SEM=?formula] CL[K=generation] CL[K=possession]
 CL[K=joy_level] -> N[CASE=loc,NUM=du,GEN=n] N[CASE=loc,NUM=du,GEN=n,SUPPLIED=prose] N[CASE=nom,NUM=sg,GEN=f]
 CL[K=other_levels] -> ADJ[CASE=nom,NUM=pl,GEN=n] NUMR[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] N[CASE=loc,NUM=pl,GEN=n] PRON[CASE=nom,NUM=pl,GEN=m,ATTR=yes] PTCL[CONTRAST=yes] N[CASE=loc,NUM=pl,GEN=n]
-CL[K=no_abandonment] -> NEG[CASE=none,NUM=none,GEN=none] PRON[CASE=ins,NUM=pl,GEN=m] N[CASE=nom,NUM=sg,GEN=n]
+CL[K=no_abandonment,SEM=<?q(?neg(?p))>] -> NEG[CASE=none,NUM=none,GEN=none,SEM=?neg] PRON[CASE=ins,NUM=pl,GEN=m,SEM=?q] N[CASE=nom,NUM=sg,GEN=n,SEM=?p]
 CL[K=generation] -> N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] N[CASE=loc,NUM=pl,GEN=m] PTCL[RESTRICT=yes] V[PERS=3,NUM=pl,TENSE=pres,VOICE=pass]
 CL[K=possession] -> N[CASE=nom,NUM=sg,GEN=m,SUPPLIED=prose] ADJ[CASE=nom,NUM=sg,GEN=m] ADV[CASE=none,NUM=none,GEN=none,CERTAIN=yes]
 N[CASE=loc,NUM=du,GEN=n] -> 'dhyānayoḥ'
@@ -63,9 +63,9 @@ NUMR[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] -> '∅-trīṇi'
 N[CASE=loc,NUM=pl,GEN=n] -> 'ṣaṭsu' | 'pañcasu'
 PRON[CASE=nom,NUM=pl,GEN=m,ATTR=yes] -> 'kecit'
 PTCL[CASE=none,NUM=none,GEN=none,CONTRAST=yes] -> 'tu'
-NEG[CASE=none,NUM=none,GEN=none] -> 'na'
-PRON[CASE=ins,NUM=pl,GEN=m] -> 'taiḥ'
-N[CASE=nom,NUM=sg,GEN=n] -> 'prahāṇam'
+NEG[CASE=none,NUM=none,GEN=none,SEM=<\P.\x.-P(x)>] -> 'na'
+PRON[CASE=ins,NUM=pl,GEN=m,SEM=<\P.all x.(Immeasurable(x) -> P(x))>] -> 'taiḥ'
+N[CASE=nom,NUM=sg,GEN=n,SEM=<\x.Abandonment(x)>] -> 'prahāṇam'
 N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] -> '∅-apramāṇāni'
 N[CASE=loc,NUM=pl,GEN=m] -> 'nṛṣu'
 PTCL[CASE=none,NUM=none,GEN=none,RESTRICT=yes] -> 'eva'
@@ -162,7 +162,12 @@ not a claim of simultaneous entry into three immeasurables.
 
 Sympathetic joy belongs to the first two dhyānas; the other three immeasurables receive attributed six-, five-, and ten-level accounts. The verse denies that these immeasurables themselves effect abandonment, restricts their generation to humans, and says their attainer is endowed with three. `[verse]`; counts and scope are `[prose]`.
 
-**Signature.** `OnLevel(x,l)`; `SixLevel(l)`; `FiveLevel(l)`; `SixAccount(g,l)` and `FiveAccount(g,l)` (attributed scopes); `Immeasurable(x)`; `NoAbandonment(x)`; `GeneratedOnlyHuman(x)`; `AttainerOfFour(a)`; `EndowedWithThree(a)`.
+**Signature.** `OnLevel(x,l)`; `SixLevel(l)`; `FiveLevel(l)`; `SixAccount(g,l)` and `FiveAccount(g,l)` (attributed scopes); `Immeasurable(x)`; `Abandonment(x)`; `GeneratedOnlyHuman(x)`; `AttainerOfFour(a)`; `EndowedWithThree(a)`.
+
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+all x.(Immeasurable(x) -> -Abandonment(x))
+```
 
 ```nltk-valuation
 joy => joy
@@ -182,8 +187,8 @@ SixLevel => {anagamya, intermediateDhyana, firstDhyana, secondDhyana, thirdDhyan
 FiveLevel => {intermediateDhyana, firstDhyana, secondDhyana, thirdDhyana, fourthDhyana}
 SixAccount => {(otherThree,anagamya),(otherThree,intermediateDhyana),(otherThree,firstDhyana),(otherThree,secondDhyana),(otherThree,thirdDhyana),(otherThree,fourthDhyana)}
 FiveAccount => {(otherThree,intermediateDhyana),(otherThree,firstDhyana),(otherThree,secondDhyana),(otherThree,thirdDhyana),(otherThree,fourthDhyana)}
+Abandonment => {}
 Immeasurable => {friendliness,compassion,joy,equanimity}
-NoAbandonment => {friendliness,compassion,joy,equanimity}
 GeneratedOnlyHuman => {friendliness,compassion,joy,equanimity}
 AttainerOfFour => {attainerOne}
 EndowedWithThree => {attainerOne}
@@ -194,8 +199,8 @@ EndowedWithThree => {attainerOne}
 # [verse, prose] the level of sympathetic joy
 OnLevel(joy,firstDhyana)
 OnLevel(joy,secondDhyana)
-# [verse] na taiḥ prahāṇam; [prose] suppression is not path-abandonment
-all x.(Immeasurable(x) -> NoAbandonment(x))
+# [derived by the section 4 parse, not typed by hand] the instrumental pronoun scopes negation over the four
+all x.(Immeasurable(x) -> -Abandonment(x))
 all x.(Immeasurable(x) -> GeneratedOnlyHuman(x))
 all a.(AttainerOfFour(a) -> EndowedWithThree(a))
 # THEORY six_level

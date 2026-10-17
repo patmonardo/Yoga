@@ -38,31 +38,29 @@ not presented as a mechanically identical transcription.
 
 ## 4. Grammar
 
-Feature grammar (NLTK notation). Case, number and gender are unified, so
-agreement is enforced by the grammar: `proktāḥ` (f.) cannot take neuter
-`dhyānāni`. Words supplied from the Bhāṣya carry `SUPPLIED=prose`.
+Case, number, and gender unify across the clauses; the definition is local to
+attainment-dhyāna. The §4 parse composes only that definitional clause; the
+classification and five-Base tally remain non-semantic.
 
 ```nltk-fcfg
 % start S
 # tokens: dvidhā dhyānāni catvāri proktāḥ tadupapattayaḥ samāpattiḥ śubhaikāgryam pañcaskandhāḥ tu sānugam ∅-samāpattidhyānam
-S -> CL[K=classify] CL[K=state] CL[K=define] CL[K=contrast]
-
+S[SEM=?definition] -> CL[K=classify] CL[K=state] CL[K=define,SEM=?definition] CL[K=contrast]
 CL[K=classify] -> ADV[MODE=twofold] N[CASE=nom,NUM=?n,GEN=?g] NUMR[NUM=?n,GEN=?g]
-CL[K=state]    -> PTCP[CASE=nom,NUM=?n,GEN=?g,TENSE=past] N[CASE=nom,NUM=?n,GEN=?g]
-CL[K=define]   -> N[CASE=nom,GEN=f,LOCAL=yes] N[CASE=nom,GEN=n]
+CL[K=state] -> PTCP[CASE=nom,NUM=?n,GEN=?g,TENSE=past] N[CASE=nom,NUM=?n,GEN=?g]
+CL[K=define,SEM=<?subject(?property)>] -> N[CASE=nom,NUM=sg,GEN=f,LOCAL=yes,SEM=?subject] N[CASE=nom,NUM=sg,GEN=n,SEM=?property]
 CL[K=contrast] -> N[CASE=nom,NUM=pl,GEN=m] PTCL[CONTRAST=yes] ADJ[GEN=?g] N[GEN=?g,SUPPLIED=prose]
-
-ADV[MODE=twofold]  -> 'dvidhā'
-N[CASE=nom,NUM=pl,GEN=n]  -> 'dhyānāni'
-NUMR[NUM=pl,GEN=n]        -> 'catvāri'
+ADV[MODE=twofold] -> 'dvidhā'
+N[CASE=nom,NUM=pl,GEN=n] -> 'dhyānāni'
+NUMR[NUM=pl,GEN=n] -> 'catvāri'
 PTCP[CASE=nom,NUM=pl,GEN=f,TENSE=past] -> 'proktāḥ'
-N[CASE=nom,NUM=pl,GEN=f]  -> 'tadupapattayaḥ'
-N[CASE=nom,NUM=sg,GEN=f,LOCAL=yes] -> 'samāpattiḥ'
-N[CASE=nom,NUM=sg,GEN=n]  -> 'śubhaikāgryam'
-N[CASE=nom,NUM=pl,GEN=m]  -> 'pañcaskandhāḥ'
+N[CASE=nom,NUM=pl,GEN=f] -> 'tadupapattayaḥ'
+N[CASE=nom,NUM=sg,GEN=f,LOCAL=yes,SEM=<\P.all x.(SamapattiDhyana(x) -> P(x))>] -> 'samāpattiḥ'
+N[CASE=nom,NUM=sg,GEN=n,SEM=<\x.exists c.(Kusala(c) & Ekagra(c) & Constitutes(c,x))>] -> 'śubhaikāgryam'
+N[CASE=nom,NUM=pl,GEN=m] -> 'pañcaskandhāḥ'
 PTCL[CONTRAST=yes] -> 'tu'
-ADJ[GEN=n]                -> 'sānugam'
-N[GEN=n,SUPPLIED=prose]   -> '∅-samāpattidhyānam'
+ADJ[GEN=n] -> 'sānugam'
+N[GEN=n,SUPPLIED=prose] -> '∅-samāpattidhyānam'
 ```
 
 ```nltk-dep
@@ -72,9 +70,8 @@ N[GEN=n,SUPPLIED=prose]   -> '∅-samāpattidhyānam'
 'pañcaskandhāḥ' -> 'tu' | 'sānugam'
 ```
 
-The definition is local: the supplied `samāpattidhyānam` restricts it to
-attainment-dhyāna (`LOCAL=yes`). `sānugam` is neuter and agrees with that
-supplied head, not with feminine `samāpattiḥ`.
+The supplied head restricts the definition to attainment-dhyāna. `sānugam`
+agrees with that neuter supplied head, not with feminine `samāpattiḥ`.
 
 **Close construe.** The four dhyānas are twofold. Their corresponding
 births have been explained. As attainment, dhyāna is wholesome
@@ -178,13 +175,12 @@ respect), `Citta(c)`, `Kusala(c)`, `Ekagra(c)`, `Constitutes(c,x)`,
 `Retinue(p,x)`, `FiveBases(p)`, `Samadhi(s)`, `Factor(s)`, `By(c,s)`,
 `Excellent(s)`, `Yoked(s)` (tranquillity and insight together), `Named(x,n)`.
 
-**Composition (the definitional clause, `K=define`).**
+**Composition (the definitional clause, `K=define`).** The two lexical meanings
+combine under the clause rule; the outer quantifier restricts the assertion to
+attainment-dhyāna.
 
 ```nltk-sem
-# lexicon SEM
-samāpattiḥ        : \P.\x.(SamapattiDhyana(x) & P(x))
-śubhaikāgryam     : \x.exists c.(Kusala(c) & Ekagra(c) & Constitutes(c,x))
-# [prose] ∅-samāpattidhyānam supplies the head; beta-reduction gives:
+# derived by the section 4 parse, not typed by hand
 all x.(SamapattiDhyana(x) -> exists c.(Kusala(c) & Ekagra(c) & Constitutes(c,x)))
 ```
 

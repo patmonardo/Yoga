@@ -37,22 +37,25 @@ The understood noun is `samāpatti-dravyam`, the attainment under classification
 
 ## 4. Grammar
 
-The line break does not divide the definition of the pure attainment: worldly wholesome is its description. The prose equates savoring with craving and identifies the savored item and the savoring attainment as distinct.
+The clauses distinguish savoring, the worldly-wholesome definition, its object,
+and the supramundane mode. The covert copula composes only the second clause;
+the object relation remains a Bhāṣya-controlled determination.
 
 ```nltk-fcfg
 % start S
-# tokens: āsvādanāsaṃprayuktam satṛṣṇaṃ ∅-samāpattidravyam laukikam śubham śuddhakam tat tadāsvādyam ∅-āsvādanāsaṃprayuktam lokottaram anāsravam
-S -> CL[K=savoring] CL[K=pure] CL[K=relation] CL[K=supramundane]
+# tokens: āsvādanāsaṃprayuktam satṛṣṇaṃ ∅-samāpattidravyam laukikam śubham ∅-asti śuddhakam tat tadāsvādyam ∅-āsvādanāsaṃprayuktam lokottaram anāsravam
+S[SEM=?pure] -> CL[K=savoring] CL[K=pure,SEM=?pure] CL[K=relation] CL[K=supramundane]
 CL[K=savoring] -> ADJ[CASE=nom,NUM=sg,GEN=n,MODE=craving] ADJ[CASE=nom,NUM=sg,GEN=n,ACCOMP=yes] N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose]
-CL[K=pure] -> ADJ[CASE=nom,NUM=sg,GEN=n] ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=wholesome] ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=pure]
+CL[K=pure,SEM=<?cop(?worldly)(?wholesome)(?pure)>] -> ADJ[CASE=nom,NUM=sg,GEN=n,SEM=?worldly] ADJ[CASE=nom,NUM=sg,GEN=n,SEM=?wholesome] COP[SEM=?cop] ADJ[CASE=nom,NUM=sg,GEN=n,SEM=?pure]
 CL[K=relation] -> PRON[CASE=nom,NUM=sg,GEN=n,REF=pure] ADJ[CASE=nom,NUM=sg,GEN=n,ROLE=object] N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose,ROLE=agent]
 CL[K=supramundane] -> ADJ[CASE=nom,NUM=sg,GEN=n] ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=uncontaminated]
 ADJ[CASE=nom,NUM=sg,GEN=n,MODE=craving] -> 'āsvādanāsaṃprayuktam'
 ADJ[CASE=nom,NUM=sg,GEN=n,ACCOMP=yes] -> 'satṛṣṇaṃ'
 N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-samāpattidravyam'
-ADJ[CASE=nom,NUM=sg,GEN=n] -> 'laukikam'
-ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=wholesome] -> 'śubham'
-ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=pure] -> 'śuddhakam'
+ADJ[CASE=nom,NUM=sg,GEN=n,SEM=<\x.Worldly(x)>] -> 'laukikam'
+ADJ[CASE=nom,NUM=sg,GEN=n,SEM=<\x.Wholesome(x)>] -> 'śubham'
+COP[SEM=<\W.\H.\P.all x.((W(x) & H(x)) -> P(x))>] -> '∅-asti'
+ADJ[CASE=nom,NUM=sg,GEN=n,SEM=<\x.Pure(x)>] -> 'śuddhakam'
 PRON[CASE=nom,NUM=sg,GEN=n,REF=pure] -> 'tat'
 ADJ[CASE=nom,NUM=sg,GEN=n,ROLE=object] -> 'tadāsvādyam'
 N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose,ROLE=agent] -> '∅-āsvādanāsaṃprayuktam'
@@ -61,13 +64,14 @@ ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=uncontaminated] -> 'anāsravam'
 ```
 
 ```nltk-dep
-'∅-samāpattidravyam' -> 'āsvādanāsaṃprayuktam' | 'satṛṣṇaṃ' | 'laukikam' | 'śubham' | 'śuddhakam'
+'∅-samāpattidravyam' -> 'āsvādanāsaṃprayuktam' | 'satṛṣṇaṃ' | 'laukikam' | 'śubham' | '∅-asti' | 'śuddhakam'
 'tadāsvādyam' -> 'tat' | '∅-āsvādanāsaṃprayuktam'
 'anāsravam' -> 'lokottaram'
 ```
 
-The gerundive marks the pure attainment as object, savored by the savoring-associated attainment; it is not an injunction. Supramundane status is not simply a higher meditative level.
-
+The gerundive marks the pure attainment as object, savored by the
+savoring-associated attainment; it is not an injunction. The parse's
+one-way definition does not identify pure with uncontaminated.
 
 **Close construe.** Savoring-associated attainment has
 craving. Worldly wholesome attainment is pure. That
@@ -147,6 +151,13 @@ The verse defines three modes of attainment and distinguishes the pure attainmen
 
 **Signature.** `Savoring(x)`; `Craving(x)`; `Worldly(x)`; `Wholesome(x)`; `Pure(x)`; `ImmediatelyPast(x,y)`; `SavoredBy(x,y)`; `Supramundane(x)`; `Uncontaminated(x)`.
 
+**Parse composition (the worldly-wholesome definition).**
+
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+all x.((Worldly(x) & Wholesome(x)) -> Pure(x))
+```
+
 **Finite data.** The two occurrences are modeled separately; the pure occurrence is worldly and wholesome, and the third mode is supramundane and uncontaminated.
 
 ```nltk-valuation
@@ -171,7 +182,7 @@ Uncontaminated => {uncontaminatedattainment}
 # [prose] tṛṣṇā hy āsvādanā
 all x.(Savoring(x) -> Craving(x))
 # [verse] laukikaṃ śubham śuddhakam; [prose] alobha and other pure dharmas
-all x.(Pure(x) -> (Worldly(x) & Wholesome(x)))
+all x.((Worldly(x) & Wholesome(x)) -> Pure(x))
 # [verse] tattadāsvādyam; [prose] the immediately past pure item is the object
 SavoredBy(purepast,savoringnow)
 ImmediatelyPast(purepast,savoringnow)

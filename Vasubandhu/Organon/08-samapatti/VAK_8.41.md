@@ -50,10 +50,10 @@ Two locative absolutes set the circumstance for a passive main clause. The three
 ```nltk-fcfg
 % start S
 # tokens: nimīlite śāstari lokacakṣuṣi kṣayaṃ gate sākṣijane ca bhūyasā adṛṣṭatattvair niravagrahaiḥ kṛtaṃ kutārkikaiḥ śāsanam etat ākulam
-S -> CL[K=setting] CL[K=disorder]
+S[SEM=<?a & ?b>] -> CL[K=setting,SEM=?a] CL[K=disorder,SEM=?b]
 
-CL[K=setting] -> PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] N[CASE=?c,NUM=?n,GEN=?g] N[CASE=?c,NUM=?n,GEN=?g,APPOS=yes] N[CASE=acc,NUM=sg,GEN=m] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] N[CASE=?c,NUM=?n,GEN=?g] CONJ[ADD=yes] ADV[DEGREE=limited]
-CL[K=disorder] -> ADJ[CASE=ins,NUM=?n,GEN=?g] ADJ[CASE=ins,NUM=?n,GEN=?g] PTCP[CASE=nom,NUM=sg,GEN=n,TENSE=past,VOICE=pass] N[CASE=ins,NUM=?n,GEN=?g,ROLE=agent] N[CASE=nom,NUM=?p,GEN=?h,ROLE=patient] PRON[CASE=nom,NUM=?p,GEN=?h] ADJ[CASE=nom,NUM=?p,GEN=?h]
+CL[K=setting,SEM=<TeacherGone(teacher) & WitnessesLargelyGone(witnessgroup)>] -> PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] N[CASE=?c,NUM=?n,GEN=?g] N[CASE=?c,NUM=?n,GEN=?g,APPOS=yes] N[CASE=acc,NUM=sg,GEN=m] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] N[CASE=?c,NUM=?n,GEN=?g] CONJ[ADD=yes] ADV[DEGREE=limited]
+CL[K=disorder,SEM=<all a.((BadReasoner(a) & Unchecked(a) & HasNotSeenReality(a) & TeacherGone(teacher) & WitnessesLargelyGone(witnessgroup)) -> Disorders(a,teaching))>] -> ADJ[CASE=ins,NUM=?n,GEN=?g] ADJ[CASE=ins,NUM=?n,GEN=?g] PTCP[CASE=nom,NUM=sg,GEN=n,TENSE=past,VOICE=pass] N[CASE=ins,NUM=?n,GEN=?g,ROLE=agent] N[CASE=nom,NUM=?p,GEN=?h,ROLE=patient] PRON[CASE=nom,NUM=?p,GEN=?h] ADJ[CASE=nom,NUM=?p,GEN=?h]
 
 PTCP[CASE=loc,NUM=sg,GEN=m,TENSE=past] -> 'nimīlite'
 N[CASE=loc,NUM=sg,GEN=m] -> 'śāstari'
@@ -167,9 +167,14 @@ is not itself a statement of complete disappearance.
 
 ## 8. Logical Determination
 
-The verse makes the Teacher's passing and the large loss of witnesses the setting for disorder, then attributes that disorder to unchecked bad reasoners who have not seen reality. This is a finite representation of the verse's own polemic, not a general condemnation of reasoning. `[verse]`; no separate Bhāṣya gloss is available.
+The verse makes the Teacher's passing and the large loss of witnesses the setting for disorder, then attributes that disorder to unchecked bad reasoners who have not seen reality. The derived implication keeps both locative-absolute conditions in the antecedent. This is a finite representation of the verse's own polemic, not a general condemnation of reasoning. `[verse]`; no separate Bhāṣya gloss is available.
 
 **Signature.** `TeacherGone(t)`, `WitnessesLargelyGone(w)`, `BadReasoner(a)`, `Unchecked(a)`, `HasNotSeenReality(a)`, and `Disorders(a,s)`.
+
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+TeacherGone(teacher) & WitnessesLargelyGone(witnessgroup) & all a.((BadReasoner(a) & Unchecked(a) & HasNotSeenReality(a) & TeacherGone(teacher) & WitnessesLargelyGone(witnessgroup)) -> Disorders(a,teaching))
+```
 
 ```nltk-valuation
 teacher => teacher
@@ -186,14 +191,11 @@ Disorders => {(reasonergroup,teaching)}
 
 ```nltk-fol
 # THEORY verse
-# [verse] nimīlite śāstari ... sākṣijane ca bhūyasā
-TeacherGone(teacher)
-WitnessesLargelyGone(witnessgroup)
-# [verse] adṛṣṭatattvair niravagrahaiḥ kṛtaṃ kutārkikaiḥ śāsanam ākulam
-all a.(BadReasoner(a) -> (Unchecked(a) & HasNotSeenReality(a) & Disorders(a,teaching)))
+# [verse] locative setting scopes the agents' disordering action
+TeacherGone(teacher) & WitnessesLargelyGone(witnessgroup) & all a.((BadReasoner(a) & Unchecked(a) & HasNotSeenReality(a) & TeacherGone(teacher) & WitnessesLargelyGone(witnessgroup)) -> Disorders(a,teaching))
 ```
 
-**Results (NLTK).** The checker reports the verse theory true in the finite model of one collective agent class and the teaching. No entailment beyond these encoded claims was tested.
+**Results (NLTK).** The checker reports the derived, scoped verse formula true in the finite model of one collective agent class and the teaching. No entailment beyond this encoded claim was tested.
 
 **Scope cautions.** `Bhūyasā` is “largely,” not “all.” The verse says the teaching is disordered, not vanished. It targets *ku-tārkikas*, bad reasoners; no separate positive theory of inference or named opponent is supplied.
 

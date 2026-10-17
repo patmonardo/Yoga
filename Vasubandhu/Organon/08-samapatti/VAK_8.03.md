@@ -37,31 +37,28 @@ explicit.
 
 ## 4. Grammar
 
-Feature grammar (NLTK notation). The designation resumes the four formless
-attainments (supplied subject); the second and third clauses answer different
-questions, presence and renewed arising. Words supplied from the Bhāṣya carry
-`SUPPLIED=prose`.
+The parse keeps absence in the formless domain distinct from later arising.
+The locative scopes the negative claim; the source ablative retains the
+Bhāṣya's maturation-condition on renewed Form.
 
 ```nltk-fcfg
 % start S
 # tokens: ∅-ārūpyāḥ vibhūtarūpasaṃjñākhyāḥ saha sāmantakaiḥ tribhiḥ na ārūpye rūpasadbhāvaḥ rūpotpattiḥ tu cittataḥ
-S -> CL[K=designate] CL[K=absence] CL[K=arising]
-
+S[SEM=<?absence & ?arising>] -> CL[K=designate] CL[K=absence,SEM=?absence] CL[K=arising,SEM=?arising]
 CL[K=designate] -> N[SUPPLIED=prose,NUM=?n,GEN=?g] ADJ[NUM=?n,GEN=?g] P[CASE=ins] N[CASE=ins,GEN=n] NUMR[CASE=ins]
-CL[K=absence]   -> NEG LOC[CASE=loc] N[CASE=nom,NUM=sg,GEN=m]
-CL[K=arising]   -> N[CASE=nom,NUM=sg,GEN=f] PTCL[CONTRAST=yes] ABL[SOURCE=cause,QUAL=prose]
-
+CL[K=absence,SEM=<?loc(?noun)>] -> NEG[SEM=<\P.P>] LOC[CASE=loc,SEM=?loc] N[CASE=nom,NUM=sg,GEN=m,SEM=?noun]
+CL[K=arising,SEM=<?event(?source)>] -> N[CASE=nom,NUM=sg,GEN=f,SEM=?event] PTCL[CONTRAST=yes] ABL[SOURCE=cause,QUAL=prose,SEM=?source]
 N[SUPPLIED=prose,NUM=pl,GEN=m] -> '∅-ārūpyāḥ'
 ADJ[NUM=pl,GEN=m,GONE=yes] -> 'vibhūtarūpasaṃjñākhyāḥ'
 P[CASE=ins] -> 'saha'
 N[CASE=ins,NUM=pl,GEN=n] -> 'sāmantakaiḥ'
 NUMR[CASE=ins,NUM=pl] -> 'tribhiḥ'
-NEG -> 'na'
-LOC[CASE=loc] -> 'ārūpye'
-N[CASE=nom,NUM=sg,GEN=m] -> 'rūpasadbhāvaḥ'
-N[CASE=nom,NUM=sg,GEN=f] -> 'rūpotpattiḥ'
+NEG[SEM=<\P.P>] -> 'na'
+LOC[CASE=loc,SEM=<\P.-P(formlessdomain)>] -> 'ārūpye'
+N[CASE=nom,NUM=sg,GEN=m,SEM=<\x.FormPresent(x)>] -> 'rūpasadbhāvaḥ'
+N[CASE=nom,NUM=sg,GEN=f,SEM=<\P.all x.(Arises(x,form) -> P(x))>] -> 'rūpotpattiḥ'
 PTCL[CONTRAST=yes] -> 'tu'
-ABL[SOURCE=cause,QUAL=prose] -> 'cittataḥ'
+ABL[SOURCE=cause,QUAL=prose,SEM=<\x.(CittaSource(x) & ConditionedBy(x,maturation))>] -> 'cittataḥ'
 ```
 
 ```nltk-dep
@@ -71,11 +68,9 @@ ABL[SOURCE=cause,QUAL=prose] -> 'cittataḥ'
 'rūpotpattiḥ' -> 'cittataḥ' | 'tu'
 ```
 
-`vibhūta` is glossed `vigata` (gone): disappearance, not manifestation. The
-access to infinite space is excluded because it takes the fourth dhyāna as
-object, leaving three access stages. `cittataḥ` is qualified by the prose
-`tadvipākahetuparibhāvita` (`QUAL=prose`); bare “consciousness creates Form”
-would omit the qualification.
+`vibhūta` is glossed `vigata` (gone), not manifestation. Access to infinite
+space is excluded because it takes the fourth dhyāna as object, leaving three
+access stages. `cittataḥ` retains the Bhāṣya's maturation-cause qualification.
 
 **Close construe.** The formless attainments, together with three access
 attainments, receive the designation that form-perception has disappeared.
@@ -157,7 +152,7 @@ It introduces no modern chronological measurement.
 
 Three connected questions remain distinct: which attainments receive the “form-perception gone” name, whether Form is present in the formless domain, and how Form can arise again later [verse; prose]. The Bhāṣya excludes access to infinite space, scopes canonical dependencies, and qualifies renewed arising by a maturation cause.
 
-**Signature.** `Principal(x)` (principal formless attainment); `NamedAccess(x)` (eligible access attainment); `NameGone(x)` (form-perception-gone designation); `FormPresent(x)`; `Arises(x,y)`; `ConditionedBy(x,c)`.
+**Signature.** `Principal(x)` (principal formless attainment); `NamedAccess(x)` (eligible access attainment); `NameGone(x)` (form-perception-gone designation); `FormPresent(x)`; `Arises(x,y)`; `CittaSource(x)`; `ConditionedBy(x,c)`.
 
 **Finite data.** The principal four and latter three access stages receive the designation; the first access stage does not. Present absence and later genesis are separate relations.
 
@@ -179,7 +174,15 @@ NamedAccess => {accessconsciousness, accessnothingness, accessneither}
 NameGone => {space, consciousness, nothingness, neither, accessconsciousness, accessnothingness, accessneither}
 FormPresent => {}
 Arises => {(returningmind,form)}
+CittaSource => {returningmind}
 ConditionedBy => {(returningmind,maturation)}
+```
+
+**Parse composition (absence plus qualified arising).**
+
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+(-FormPresent(formlessdomain) & all x.(Arises(x,form) -> (CittaSource(x) & ConditionedBy(x,maturation))))
 ```
 
 **Rules and answer (verse and prose).**
@@ -190,11 +193,8 @@ ConditionedBy => {(returningmind,maturation)}
 all x.(Principal(x) -> NameGone(x))
 # [prose] the latter three access attainments
 all x.(NamedAccess(x) -> NameGone(x))
-# [verse] nārūpye rūpasadbhāvaḥ: present constitution
--FormPresent(formlessdomain)
-# [verse] cittataḥ; [prose] maturation-conditioned, later arising
-Arises(returningmind,form)
-ConditionedBy(returningmind,maturation)
+# [verse] nārūpye rūpasadbhāvaḥ and rūpotpattiḥ tu cittataḥ; [prose] maturation-conditioned
+(-FormPresent(formlessdomain) & all x.(Arises(x,form) -> (CittaSource(x) & ConditionedBy(x,maturation))))
 # [prose] access to infinite space retains the fourth-dhyāna object
 -NameGone(accessspace)
 ```

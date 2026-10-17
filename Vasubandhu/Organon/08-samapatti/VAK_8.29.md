@@ -44,17 +44,18 @@ The verse gives the count, the counteractive rationale, and the paired mental na
 ```nltk-fcfg
 % start S
 # tokens: apramāṇāni catvāri vyāpādādivipakṣataḥ maitrī adveṣaḥ api karuṇā muditā sumanaskatā
-S -> CL[K=count] CL[K=nonhatred] CL[K=joy]
+S[SEM=?formula] -> CL[K=count] CL[K=definitions,SEM=?formula]
 CL[K=count] -> N[CASE=?c,NUM=?n,GEN=?g] NUMR[CASE=?c,NUM=?n,GEN=?g] ADV[CAUSE=yes]
-CL[K=nonhatred] -> N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=m] PTCL[ADD=yes] N[CASE=nom,NUM=sg,GEN=f]
-CL[K=joy] -> N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=f,NATURE=gladness]
+CL[K=definitions,SEM=<?m(?n) & ?c(?n) & ?j(?g)>] -> N[CASE=nom,NUM=sg,GEN=f,SEM=?m] N[CASE=nom,NUM=sg,GEN=m,SEM=?n] PTCL[ADD=yes] N[CASE=nom,NUM=sg,GEN=f,SEM=?c] N[CASE=nom,NUM=sg,GEN=f,SEM=?j] N[CASE=nom,NUM=sg,GEN=f,NATURE=gladness,SEM=?g]
 N[CASE=nom,NUM=pl,GEN=n] -> 'apramāṇāni'
 NUMR[CASE=nom,NUM=pl,GEN=n] -> 'catvāri'
 ADV[CASE=none,NUM=none,GEN=none,CAUSE=yes] -> 'vyāpādādivipakṣataḥ'
-N[CASE=nom,NUM=sg,GEN=f] -> 'maitrī' | 'karuṇā' | 'muditā'
-N[CASE=nom,NUM=sg,GEN=m] -> 'adveṣaḥ'
+N[CASE=nom,NUM=sg,GEN=f,SEM=<\P.P(friendliness)>] -> 'maitrī'
+N[CASE=nom,NUM=sg,GEN=f,SEM=<\P.P(compassion)>] -> 'karuṇā'
+N[CASE=nom,NUM=sg,GEN=f,SEM=<\P.P(joy)>] -> 'muditā'
+N[CASE=nom,NUM=sg,GEN=m,SEM=<\x.Nature(x,nonHatred)>] -> 'adveṣaḥ'
 PTCL[CASE=none,NUM=none,GEN=none,ADD=yes] -> 'api'
-N[CASE=nom,NUM=sg,GEN=f,NATURE=gladness] -> 'sumanaskatā'
+N[CASE=nom,NUM=sg,GEN=f,NATURE=gladness,SEM=<\x.Nature(x,gladness)>] -> 'sumanaskatā'
 ```
 
 ```nltk-dep
@@ -142,6 +143,11 @@ Four immeasurables are distinguished by counteractive relation; friendliness and
 
 **Signature.** `Immeasurable(x)`; `Counters(x,t)`; `Nature(x,n)`; `VBCounters(x,t)` (Vaibhāṣika report); `PreferredCounters(x,t)` (preferred explanation).
 
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+(Nature(friendliness,nonHatred) & Nature(compassion,nonHatred) & Nature(joy,gladness))
+```
+
 ```nltk-valuation
 friendliness => friendliness
 compassion => compassion
@@ -169,9 +175,8 @@ PreferredCounters => {(impurityPractice,sexualDesire),(equanimityPractice,kinAtt
 # THEORY shared
 # [verse, prose] the ordered counterworks and mental natures
 all x.(Immeasurable(x) -> exists t.Counters(x,t))
-Nature(friendliness,nonHatred)
-Nature(compassion,nonHatred)
-Nature(joy,gladness)
+# [derived by the section 4 parse, not typed by hand] the three explicit mental-nature identifications
+(Nature(friendliness,nonHatred) & Nature(compassion,nonHatred) & Nature(joy,gladness))
 # THEORY vaibhasika
 # [prose, Vaibhāṣika account] impurity contemplation / equanimity
 VBCounters(impurityPractice,appearanceAttachment)

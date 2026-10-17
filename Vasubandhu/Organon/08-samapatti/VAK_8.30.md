@@ -49,15 +49,16 @@ The opening nominal clause names equanimity's nature; the subsequent quoted form
 ```nltk-fcfg
 % start S
 # tokens: upekṣā alobhaḥ ākāraḥ ∅-maitrī sukhitāḥ vata ∅-santu ∅-karuṇā duḥkhitāḥ vata ∅-muditā modantām iti sattvāḥ ca kāmasattvāḥ tu gocaraḥ
-S -> CL[K=nature] CL[K=friendliness] CL[K=compassion] CL[K=joy] CL[K=equanimity_form] CL[K=field]
-CL[K=nature] -> N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=m] N[CASE=nom,NUM=sg,GEN=m,ROLE=aspect]
+S[SEM=?formula] -> CL[K=nature,SEM=?formula] CL[K=friendliness] CL[K=compassion] CL[K=joy] CL[K=equanimity_form] CL[K=field]
+CL[K=nature,SEM=<?q(?p)>] -> N[CASE=nom,NUM=sg,GEN=f,SEM=?q] N[CASE=nom,NUM=sg,GEN=m,SEM=?p] N[CASE=nom,NUM=sg,GEN=m,ROLE=aspect]
 CL[K=friendliness] -> N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] ADJ[CASE=nom,NUM=pl,GEN=m] PTCL[EXCL=yes] V[CASE=none,NUM=pl,GEN=none,PERS=3,TENSE=pres,MOOD=subj,SUPPLIED=prose]
 CL[K=compassion] -> N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] ADJ[CASE=nom,NUM=pl,GEN=m] PTCL[EXCL=yes]
 CL[K=joy] -> N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] V[CASE=none,NUM=pl,GEN=none,PERS=3,TENSE=pres,MOOD=imper,VOICE=mid] PTCL[QUOTE=yes]
 CL[K=equanimity_form] -> N[CASE=nom,NUM=pl,GEN=m] PTCL[ADD=yes]
 CL[K=field] -> N[CASE=nom,NUM=pl,GEN=m] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=m]
-N[CASE=nom,NUM=sg,GEN=f] -> 'upekṣā'
-N[CASE=nom,NUM=sg,GEN=m] -> 'alobhaḥ' | 'ākāraḥ'
+N[CASE=nom,NUM=sg,GEN=f,SEM=<\P.P(equanimity)>] -> 'upekṣā'
+N[CASE=nom,NUM=sg,GEN=m,SEM=<\x.Nature(x,nonGreed)>] -> 'alobhaḥ'
+N[CASE=nom,NUM=sg,GEN=m] -> 'ākāraḥ'
 N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] -> '∅-maitrī' | '∅-karuṇā' | '∅-muditā'
 ADJ[CASE=nom,NUM=pl,GEN=m] -> 'sukhitāḥ' | 'duḥkhitāḥ'
 PTCL[CASE=none,NUM=none,GEN=none,EXCL=yes] -> 'vata'
@@ -162,6 +163,11 @@ The verse and Bhāṣya distinguish mental nature, contemplative form, and objec
 
 **Signature.** `Form(m,f)`; `Field(m,o)`; `Nature(m,n)`; `RefinedNature(m,n1,n2)`; `HappyWish(m,o)`; `HappyNow(o)`; `RejoiceWish(m,o)`; `ResolveReading(m)`; `WholesomeRoot(m)`; `CountersIllWill(m)`.
 
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+Nature(equanimity,nonGreed)
+```
+
 ```nltk-valuation
 friendliness => friendliness
 compassion => compassion
@@ -193,7 +199,7 @@ Form(friendliness,happyForm)
 Form(compassion,sufferingForm)
 Form(joy,rejoiceForm)
 Form(equanimity,beingsForm)
-# [verse] equanimity is alobha; [prose] a combined nature is preferred
+# [derived by the section 4 parse, not typed by hand] equanimity is alobha
 Nature(equanimity,nonGreed)
 all m.(Form(m,happyForm) -> Field(m,desireBeings))
 all m.(Form(m,sufferingForm) -> Field(m,desireBeings))

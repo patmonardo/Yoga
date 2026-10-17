@@ -59,11 +59,11 @@ The singular locative absolute belongs to the Self-Arisen; the teaching-bearers 
 ```nltk-fcfg
 % start S
 # tokens: gate atha śāntiṃ paramāṃ svayaṃbhuvi svayaṃbhuvaḥ śāsanadhūrdhareṣu ∅-gateṣu ca jagaty anāthe gaṇaghātibhir mataiḥ niraṅkuśaiḥ svairam iha adya caryate
-S -> CL[K=departures] CL[K=world] CL[K=activity]
+S[SEM=<?a & ?b & ?c>] -> CL[K=departures,SEM=?a] CL[K=world,SEM=?b] CL[K=activity,SEM=?c]
 
-CL[K=departures] -> PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] PTCL[SEQUENCE=yes] N[CASE=acc,NUM=sg,GEN=f] ADJ[CASE=acc,NUM=sg,GEN=f] N[CASE=?c,NUM=?n,GEN=?g] N[CASE=gen,NUM=sg,GEN=m] N[CASE=loc,NUM=pl,GEN=m] PTCP[CASE=loc,NUM=pl,GEN=m,SUPPLIED=ellipsis] CONJ[ADD=yes]
-CL[K=world] -> N[CASE=?c,NUM=?n,GEN=?g] ADJ[CASE=?c,NUM=?n,GEN=?g,STATE=unprotected]
-CL[K=activity] -> ADJ[CASE=?c,NUM=?n,GEN=?g,HARM=yes] N[CASE=?c,NUM=?n,GEN=?g,ROLE=agent] ADJ[CASE=?c,NUM=?n,GEN=?g,RESTRAINT=no] ADV[FREE=yes] ADV[PLACE=here] ADV[TIME=now] VERB[PERS=3,NUM=sg,TENSE=pres,VOICE=pass,MOOD=indicative]
+CL[K=departures,SEM=<GoneToPeace(selfarisen) & all b.(TeachingBearer(b) -> Departed(b))>] -> PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] PTCL[SEQUENCE=yes] N[CASE=acc,NUM=sg,GEN=f] ADJ[CASE=acc,NUM=sg,GEN=f] N[CASE=?c,NUM=?n,GEN=?g] N[CASE=gen,NUM=sg,GEN=m] N[CASE=loc,NUM=pl,GEN=m] PTCP[CASE=loc,NUM=pl,GEN=m,SUPPLIED=ellipsis] CONJ[ADD=yes]
+CL[K=world,SEM=<Unprotected(world)>] -> N[CASE=?c,NUM=?n,GEN=?g] ADJ[CASE=?c,NUM=?n,GEN=?g,STATE=unprotected]
+CL[K=activity,SEM=<all v.((View(v) & Unrestrained(v) & Unprotected(world)) -> RoamsHereNow(v))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,HARM=yes] N[CASE=?c,NUM=?n,GEN=?g,ROLE=agent] ADJ[CASE=?c,NUM=?n,GEN=?g,RESTRAINT=no] ADV[FREE=yes] ADV[PLACE=here] ADV[TIME=now] VERB[PERS=3,NUM=sg,TENSE=pres,VOICE=pass,MOOD=indicative]
 
 PTCP[CASE=loc,NUM=sg,GEN=m,TENSE=past] -> 'gate'
 PTCL[SEQUENCE=yes] -> 'atha'
@@ -180,9 +180,14 @@ a date supplied by the modern study.
 
 ## 8. Logical Determination
 
-The verse continues the lament: the Self-Arisen and teaching-bearers have departed; the unprotected world is where views roam unchecked. The target of the compound is textually unstable (`gaṇa`/`guṇa`), so the formalization records only claims common to the witness readings. `[verse]`; no separate Bhāṣya prose resolves the variant.
+The verse continues the lament: the Self-Arisen and teaching-bearers have departed; views roam unchecked in the unprotected world. The derived formula retains the world condition in the roaming rule. The target of the compound is textually unstable (`gaṇa`/`guṇa`), so the formalization records only claims common to the witness readings. `[verse]`; no separate Bhāṣya prose resolves the variant.
 
 **Signature.** `GoneToPeace(x)`, `TeachingBearer(x)`, `Departed(x)`, `Unprotected(x)`, `View(x)`, `Unrestrained(x)`, and `RoamsHereNow(x)`.
+
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+GoneToPeace(selfarisen) & all b.(TeachingBearer(b) -> Departed(b)) & Unprotected(world) & all v.((View(v) & Unrestrained(v) & Unprotected(world)) -> RoamsHereNow(v))
+```
 
 ```nltk-valuation
 selfarisen => selfarisen
@@ -200,12 +205,8 @@ RoamsHereNow => {views}
 
 ```nltk-fol
 # THEORY verse
-# [verse] gate ... svayaṃbhuvi; [verse] śāsanadhūrdhareṣu ca, with ellipsis
-GoneToPeace(selfarisen)
-all b.(TeachingBearer(b) -> Departed(b))
-# [verse] jagaty anāthe ... niraṅkuśaiḥ svairam ihādya caryate
-Unprotected(world)
-all v.(View(v) -> (Unrestrained(v) & RoamsHereNow(v)))
+# [verse] departure clauses and the unprotected-world roaming claim
+GoneToPeace(selfarisen) & all b.(TeachingBearer(b) -> Departed(b)) & Unprotected(world) & all v.((View(v) & Unrestrained(v) & Unprotected(world)) -> RoamsHereNow(v))
 ```
 
 **Results (NLTK).** The checker reports the common-core verse theory true in this finite model. The disputed compound's specific harm-target was deliberately not tested.

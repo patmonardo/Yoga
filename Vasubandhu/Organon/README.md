@@ -69,7 +69,10 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
 - In chapter 8, Grammar is an NLTK feature grammar (`nltk-fcfg`) plus a
   dependency grammar (`nltk-dep`). Logical Determination is NLTK FOL/lambda
   (`nltk-sem`, `nltk-fol` by `# THEORY`, `nltk-valuation`). Check them with
-  `tests/audit_nltk_blocks.py`; claim only what was run.
+  `tests/audit_nltk_blocks.py`; claim only what was run. A `SEM` feature in
+  the grammar may derive the §8 formula by the parse (see 8.13). `Pred => {}`
+  means an empty extension; NLTK itself reads it as a phantom `''` element,
+  so the audit loader corrects this.
 - Only `Literal Translation` and `Bhāṣya-informed study translation` are
   subsection headings. Verse-specific divisions inside the other stages are
   bold editorial signposts, not additional report sections.

@@ -45,10 +45,10 @@ The relative-correlative pair separates the first three form-object releases fro
 ```nltk-fcfg
 % start S
 # tokens: kāmāptadṛśyaviṣayāḥ ∅-rūpāyatanam ∅-yathāyogam prathamāḥ ∅-trayaḥ ye tu arūpiṇaḥ te anvayajñānapakṣordhvasvabhūduḥkhādigocarāḥ ∅-duḥkham ∅-taddhetuḥ ∅-nirodhau ∅-mārgaḥ ∅-apratisaṃkhyānirodhaḥ ∅-ākāśam
-S -> CL[K=visible] CL[K=formless]
+S[SEM=<?a & ?b>] -> CL[K=visible,SEM=?a] CL[K=formless,SEM=?b]
 
-CL[K=visible] -> ADJ[CASE=?c,NUM=?n,GEN=?g,OBJ=yes] N[CASE=acc,NUM=sg,GEN=n,SUPPLIED=prose] ADV[SUPPLIED=prose] N[CASE=?c,NUM=?n,GEN=?g] NUMR[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose]
-CL[K=formless] -> PRON[CASE=?c,NUM=?n,GEN=?g,REL=yes] PTCL[CONTRAST=yes] N[CASE=?c,NUM=?n,GEN=?g] PRON[CASE=?c,NUM=?n,GEN=?g,CORR=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,OBJ=yes] OBJSEQ
+CL[K=visible,SEM=<FirstThree(formgroup) & all g.(FirstThree(g) -> Includes(g,visible))>] -> ADJ[CASE=?c,NUM=?n,GEN=?g,OBJ=yes] N[CASE=acc,NUM=sg,GEN=n,SUPPLIED=prose] ADV[SUPPLIED=prose] N[CASE=?c,NUM=?n,GEN=?g] NUMR[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose]
+CL[K=formless,SEM=<FormlessFour(formlessgroup) & all g.(FormlessFour(g) -> Includes(g,ownhigher))>] -> PRON[CASE=?c,NUM=?n,GEN=?g,REL=yes] PTCL[CONTRAST=yes] N[CASE=?c,NUM=?n,GEN=?g] PRON[CASE=?c,NUM=?n,GEN=?g,CORR=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,OBJ=yes] OBJSEQ
 OBJSEQ -> OBJ[K=dukkha] OBJ[K=hetu] OBJ[K=nirodha] OBJ[K=marga] OBJ[K=cessation] OBJ[K=space]
 
 ADJ[CASE=nom,NUM=pl,GEN=m,OBJ=yes] -> 'kāmāptadṛśyaviṣayāḥ'
@@ -157,14 +157,17 @@ The verse classifies the object-fields of the first three releases and the forml
 
 **Signature.** `FirstThree(g)`, `FormlessFour(g)`, `Includes(g,f)`, and `SpaceForOne(g)` describe object-fields at group level; these are not claims that every individual release takes every listed item at once.
 
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+FirstThree(formgroup) & all g.(FirstThree(g) -> Includes(g,visible)) & FormlessFour(formlessgroup) & all g.(FormlessFour(g) -> Includes(g,ownhigher))
+```
+
 ```nltk-fol
 # THEORY shared
-# [verse] prathamāḥ / ye ... te: form-related and formless groups
-FirstThree(formgroup)
-FormlessFour(formlessgroup)
-all g.(FirstThree(g) -> Includes(g,visible))
+# [verse] prathamāḥ / ye ... te: group-level object-field claims, derived in section 4
+FirstThree(formgroup) & all g.(FirstThree(g) -> Includes(g,visible)) & FormlessFour(formlessgroup) & all g.(FormlessFour(g) -> Includes(g,ownhigher))
 # [prose] own- and higher-level truths, the anvaya-side Path, and additions
-all g.(FormlessFour(g) -> (Includes(g,ownhigher) & Includes(g,causefield) & Includes(g,cessationfield) & Includes(g,anvayapath) & Includes(g,nonanalytical)))
+all g.(FormlessFour(g) -> (Includes(g,causefield) & Includes(g,cessationfield) & Includes(g,anvayapath) & Includes(g,nonanalytical)))
 SpaceForOne(formlessgroup)
 ```
 

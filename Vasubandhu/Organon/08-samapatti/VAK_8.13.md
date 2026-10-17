@@ -45,19 +45,19 @@ The relative and correlative clauses agree in number and gender: the same Cognit
 ```nltk-fcfg
 % start S
 # tokens: kāyākṣiśrotravijñānam vijñaptyutthāpakaṃ ca yat dvitīyādau ∅-upapattiṣu tadādyāptam akliṣṭāvyākṛtam ca tat
-S -> CL[K=relative,CASE=?c,NUM=?n,GEN=?g] CL[K=correlative,CASE=?c,NUM=?n,GEN=?g]
-CL[K=relative,CASE=?c,NUM=?n,GEN=?g] -> N[CASE=?c,NUM=?n,GEN=?g] ADJ[CASE=?c,NUM=?n,GEN=?g,ROLE=manifestation] CONJ[COORD=yes] REL[CASE=?c,NUM=?n,GEN=?g]
-CL[K=correlative,CASE=?c,NUM=?n,GEN=?g] -> LOC[CASE=loc,NUM=sg,GEN=n] N[CASE=loc,NUM=pl,GEN=f,SUPPLIED=prose] ADJ[CASE=?c,NUM=?n,GEN=?g,LEVEL=first,REF=relative] ADJ[CASE=?c,NUM=?n,GEN=?g,ETHICS=indeterminate] CONJ[COORD=yes] PRON[CASE=?c,NUM=?n,GEN=?g,REF=relative]
-N[CASE=nom,NUM=sg,GEN=n] -> 'kāyākṣiśrotravijñānam'
-ADJ[CASE=nom,NUM=sg,GEN=n,ROLE=manifestation] -> 'vijñaptyutthāpakaṃ'
-CONJ[COORD=yes] -> 'ca'
-REL[CASE=nom,NUM=sg,GEN=n] -> 'yat'
-LOC[CASE=loc,NUM=sg,GEN=n] -> 'dvitīyādau'
+S[SEM=<?rel(?cond)(?scope)>] -> CL[K=relative,CASE=?c,NUM=?n,GEN=?g,SEM=?rel] CL[K=correlative,CASE=?c,NUM=?n,GEN=?g,SEM=?scope,COND=?cond]
+CL[K=relative,CASE=?c,NUM=?n,GEN=?g,SEM=<?q(?j(?x)(?a))>] -> N[CASE=?c,NUM=?n,GEN=?g,SEM=?x] ADJ[CASE=?c,NUM=?n,GEN=?g,ROLE=manifestation,SEM=?a] CONJ[COORD=or,SEM=?j] REL[CASE=?c,NUM=?n,GEN=?g,SEM=?q]
+CL[K=correlative,CASE=?c,NUM=?n,GEN=?g,SEM=<?j(?a1)(?a2)>,COND=?l] -> LOC[CASE=loc,NUM=sg,GEN=n,SEM=?l] N[CASE=loc,NUM=pl,GEN=f,SUPPLIED=prose] ADJ[CASE=?c,NUM=?n,GEN=?g,LEVEL=first,REF=relative,SEM=?a1] ADJ[CASE=?c,NUM=?n,GEN=?g,ETHICS=indeterminate,SEM=?a2] CONJ[COORD=and,SEM=?j] PRON[CASE=?c,NUM=?n,GEN=?g,REF=relative]
+N[CASE=nom,NUM=sg,GEN=n,SEM=<\x.BodyEyeEar(x)>] -> 'kāyākṣiśrotravijñānam'
+ADJ[CASE=nom,NUM=sg,GEN=n,ROLE=manifestation,SEM=<\x.Initiates(x)>] -> 'vijñaptyutthāpakaṃ'
+CONJ[COORD=or,SEM=<\P.\Q.\x.(P(x) | Q(x))>] -> 'ca'
+REL[CASE=nom,NUM=sg,GEN=n,SEM=<\P.\R.\Q.all x.((P(x) & R(x)) -> Q(x))>] -> 'yat'
+LOC[CASE=loc,NUM=sg,GEN=n,SEM=<\x.HigherRebirth(x)>] -> 'dvitīyādau'
 N[CASE=loc,NUM=pl,GEN=f,SUPPLIED=prose] -> '∅-upapattiṣu'
 PRON[CASE=nom,NUM=sg,GEN=n,REF=relative] -> 'tat'
-ADJ[CASE=nom,NUM=sg,GEN=n,LEVEL=first,REF=relative] -> 'tadādyāptam'
-ADJ[CASE=nom,NUM=sg,GEN=n,ETHICS=indeterminate] -> 'akliṣṭāvyākṛtam'
-PRON[CASE=nom,NUM=sg,GEN=n,REF=relative] -> 'tat'
+ADJ[CASE=nom,NUM=sg,GEN=n,LEVEL=first,REF=relative,SEM=<\x.LevelOf(x,first)>] -> 'tadādyāptam'
+ADJ[CASE=nom,NUM=sg,GEN=n,ETHICS=indeterminate,SEM=<\x.(-Defiled(x) & Neutral(x))>] -> 'akliṣṭāvyākṛtam'
+CONJ[COORD=and,SEM=<\P.\Q.\x.(P(x) & Q(x))>] -> 'ca'
 ```
 
 ```nltk-dep
@@ -168,20 +168,25 @@ and ear-Cognition and the Cognition initiating manifestation), `Native(k,l)`
 (`k` belongs to level `l` as its own), `LevelOf(k,l)` (the level the Bhāṣya
 assigns `k`), `ReachedAt(b,l)` (being `b` is reborn at `l`), `Brought(b,k)`
 (`b` brings `k` into operation), `Operates(b,k)`, `FreeOfPassion(k)`,
-`Inferior(k,l)` (`k` is inferior relative to level `l`), `Defiled(k)`,
+`Inferior(k,l)` (`k` is inferior relative to level `l`), `Defiled(k)`, `BodyEyeEar(k)`, `Initiates(k)` (the two relative-clause
+kinds), `HigherRebirth(k)` (`k` is brought into operation at a higher level),
 `Wholesome(k)`, `Neutral(k)` (unobstructed-neutral).
 
-**Composition (`yat … tat`).** The relative–correlative pair of §4 is a
-restricted universal: `yat` supplies the restrictor, `tat` the scope.
+**Composition (`yat … tat`).** The §4 grammar carries a `SEM` feature on every
+word, so the parse itself computes the formula. `yat` is a three-place
+quantifier `\P.\R.\Q.all x.((P(x) & R(x)) -> Q(x))`: `P` is the relative
+clause (body-, eye- and ear-Cognition *or* the one initiating manifestation),
+`R` is the locative condition (`dvitīyādau ∅-upapattiṣu`, a rebirth at second
+or higher), and `Q` is the correlative clause (first-level *and* undefiled
+neutral). Beta-reduction by `FeatureChartParser` gives:
 
 ```nltk-sem
-# lexicon SEM
-yat…tat           : \P.\Q.all x.(P(x) -> Q(x))
-yat (restrictor)  : \x.Covered(x)
-tat (scope)       : \x.(LevelOf(x,first) & Neutral(x))
-# beta-reduction (checked in NLTK):
-all x.(Covered(x) -> (LevelOf(x,first) & Neutral(x)))
+# derived by the section 4 parse, not typed by hand
+all x.(((BodyEyeEar(x) | Initiates(x)) & HigherRebirth(x)) -> (LevelOf(x,first) & -Defiled(x) & Neutral(x)))
 ```
+
+The locative matters: without `R` the rule would make every body-Cognition
+neutral, including wholesome first-level sight.
 
 **Theories (never merged).**
 
@@ -200,13 +205,15 @@ Operates(b2,sight)
 all b.all k.all l.((ReachedAt(b,l) & Operates(b,k)) -> Native(k,l))
 
 # THEORY answer
-# [verse] tadādyāptam: the Cognition belongs to the first-dhyāna level
-all k.(Covered(k) -> LevelOf(k,first))
+# [verse] the whole yat…tat sentence, as derived in section 4
+all x.(((BodyEyeEar(x) | Initiates(x)) & HigherRebirth(x)) -> (LevelOf(x,first) & -Defiled(x) & Neutral(x)))
+# [prose] the lexical definitions the sentence needs
+all k.(Covered(k) <-> (BodyEyeEar(k) | Initiates(k)))
+all k.(HigherRebirth(k) <-> exists b.exists l.(Brought(b,k) & ReachedAt(b,l) & Higher(l)))
 # [prose] ∅-upapattiṣu: reborn there, they bring it into operation
 all b.all k.((Brought(b,k) & Covered(k)) -> Operates(b,k))
 Brought(b2,sight)
-# [verse] akliṣṭāvyākṛtam, with the Bhāṣya's two reasons
-all b.all k.((Brought(b,k) & Covered(k)) -> (-Defiled(k) & Neutral(k)))
+# [prose] the Bhāṣya's two reasons for the ethics
 all k.((Covered(k) & FreeOfPassion(k)) -> -Defiled(k))
 all b.all k.all l.((Brought(b,k) & ReachedAt(b,l) & Inferior(k,l)) -> -Wholesome(k))
 ```
@@ -219,8 +226,12 @@ all b.all k.all l.((Brought(b,k) & ReachedAt(b,l) & Inferior(k,l)) -> -Wholesome
 - *Answer.* `shared` plus `answer` is satisfiable, and the finite model below
   is the proof of that: it makes every `shared` and `answer` rule true and the
   `objection` bridge false. The verse removes the bridge, not the 8.12 facts.
-  The answer also derives `Operates(b2,sight)` (`TableauProver` and
-  `ResolutionProver` agree).
+  `ResolutionProver` derives `Operates(b2,sight)` from `shared` plus
+  `answer`. In the model, the derived `yat…tat` rule holds, `sight` (brought
+  at `second`) is neutral and first-level, and `sight1` is not forced neutral.
+  Neither prover derived `Neutral(sight)` through the iff definitions
+  (Resolution stalled, Tableau hit a recursion limit), so that fact rests on
+  the model, not a proof.
 - *Native versus operated.* `LevelOf(sight,first)` with `Native(sight,first)`
   and no native standing at `second` is exactly “non-native does not mean
   inoperative”.
@@ -246,6 +257,9 @@ LevelOf => {(sight,first), (sight1,first)}
 FreeOfPassion => {sight}
 Inferior => {(sight,second)}
 Defiled => {}
+BodyEyeEar => {sight, sight1}
+Initiates => {}
+HigherRebirth => {sight}
 Neutral => {sight}
 Wholesome => {sight1}
 ```

@@ -50,18 +50,18 @@ The verse counts one access attainment per principal attainment, then distinguis
 ```nltk-fcfg
 % start S
 # tokens: aṣṭau sāmantakāny eṣām ∅-ekaikasy ∅-aikaikam śuddhāduḥkhāsukhāni hi āryaṃ cādyaṃ ∅-sāmantakam tridhā kecit atarkam dhyānam antaram
-S -> CL[K=count] CL[K=properties] CL[K=first_access] CL[K=reported_view] CL[K=intermediate]
-CL[K=count] -> NUM[COUNT=eight] N[CASE=nom,NUM=pl,GEN=n,KIND=access] PRON[CASE=gen,NUM=pl,GEN=n,REF=principal] COV[CASE=gen,NUM=sg,SUPPLIED=prose] COV[ONE=each,SUPPLIED=prose]
-CL[K=properties] -> ADJ[CASE=nom,NUM=pl,GEN=n,QUALITY=pure_and_neutral] PTCL[EXPLAIN=yes]
+S[SEM=<?q(?access)(?qual)>] -> CL[K=count,SEM=?access,QSEM=?q] CL[K=properties,SEM=?qual] CL[K=first_access] CL[K=reported_view] CL[K=intermediate]
+CL[K=count,SEM=?x,QSEM=?q] -> NUM[COUNT=eight] N[CASE=nom,NUM=pl,GEN=n,KIND=access,SEM=?x] PRON[CASE=gen,NUM=pl,GEN=n,REF=principal,SEM=?q] COV[CASE=gen,NUM=sg,SUPPLIED=prose] COV[ONE=each,SUPPLIED=prose]
+CL[K=properties,SEM=?qual] -> ADJ[CASE=nom,NUM=pl,GEN=n,QUALITY=pure_and_neutral,SEM=?qual] PTCL[EXPLAIN=yes]
 CL[K=first_access] -> ADJ[CASE=nom,NUM=?n,GEN=?g,MODE=uncontaminated] ADJ[CASE=nom,NUM=?n,GEN=?g,ORDER=first] COV[CASE=nom,NUM=?n,GEN=?g,KIND=access,SUPPLIED=prose]
 CL[K=reported_view] -> ADV[COUNT=three] N[CASE=nom,NUM=pl,GEN=m,VOICE=reported]
 CL[K=intermediate] -> ADJ[CASE=nom,NUM=?n,GEN=?g,PRIV=vitarka] N[CASE=nom,NUM=?n,GEN=?g,KIND=intermediate] ADJ[CASE=nom,NUM=?n,GEN=?g,KIND=intermediate]
 NUM[COUNT=eight] -> 'aṣṭau'
-N[CASE=nom,NUM=pl,GEN=n,KIND=access] -> 'sāmantakāny'
-PRON[CASE=gen,NUM=pl,GEN=n,REF=principal] -> 'eṣām'
+N[CASE=nom,NUM=pl,GEN=n,KIND=access,SEM=<\x.Access(x)>] -> 'sāmantakāny'
+PRON[CASE=gen,NUM=pl,GEN=n,REF=principal,SEM=<\P.\Q.all x.(P(x) -> Q(x))>] -> 'eṣām'
 COV[CASE=gen,NUM=sg,SUPPLIED=prose] -> '∅-ekaikasy'
 COV[ONE=each,SUPPLIED=prose] -> '∅-aikaikam'
-ADJ[CASE=nom,NUM=pl,GEN=n,QUALITY=pure_and_neutral] -> 'śuddhāduḥkhāsukhāni'
+ADJ[CASE=nom,NUM=pl,GEN=n,QUALITY=pure_and_neutral,SEM=<\x.(Pure(x) & NeutralFeeling(x))>] -> 'śuddhāduḥkhāsukhāni'
 PTCL[EXPLAIN=yes] -> 'hi'
 ADJ[CASE=nom,NUM=sg,GEN=n,MODE=uncontaminated] -> 'āryaṃ'
 ADJ[CASE=nom,NUM=sg,GEN=n,ORDER=first] -> 'cādyaṃ'
@@ -174,6 +174,11 @@ The verse counts one access attainment for each principal attainment and gives t
 
 **Dataset.** Eight access-to-principal pairs; the listed first access is also uncontaminated. Neutral feeling is not ethical neutrality.
 
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+all x.(Access(x) -> (Pure(x) & NeutralFeeling(x)))
+```
+
 ```nltk-valuation
 firstAccess => firstAccess
 secondAccess => secondAccess
@@ -208,7 +213,8 @@ Vitarka => {}
 # [verse, prose] eight accesses, each corresponding to a principal attainment
 all a.(Access(a) -> exists p.(Principal(p) & ForAccess(a,p)))
 # [verse, prose] principal account: pure and associated with neutral feeling
-all a.(Access(a) -> (Pure(a) & NeutralFeeling(a) & -Savoring(a)))
+all x.(Access(x) -> (Pure(x) & NeutralFeeling(x)))
+all a.(Access(a) -> -Savoring(a))
 # [verse, prose] first access is also uncontaminated; intermediate dhyāna lacks vitarka
 Uncontaminated(firstAccess)
 all a.(IntermediateDhyana(a) -> -Vitarka(a))

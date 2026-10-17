@@ -36,24 +36,25 @@ in discussion without replacing the verse's `āniñja`.
 
 ## 4. Grammar
 
-The causal ablative predicates immovability of the fourth dhyāna. The Bhāṣya expands the compressed duals and the open `sukhādi` list; an alternative explanation is not substituted for this eight-member account.
+The causal ablative takes the fourth dhyāna's immovability as its conclusion;
+the complete eight-item exclusion list supplies the condition. The alternative
+`apare` explanation remains outside this parse.
 
 ```nltk-fcfg
 % start S
 # tokens: aṣṭāpakṣālamuktatvāt āniñjam tu caturthakam vitarkacārau śvāsau ca sukhādi ca catuṣṭayam
-S -> CL[K=predicate] CL[K=disturbances]
-CL[K=predicate] -> ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=freedom] ADJ[CASE=nom,NUM=sg,GEN=n,STATE=immovable] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=n,REF=fourth]
-CL[K=disturbances] -> N[CASE=nom,NUM=du,GEN=m,COUNT=two] N[CASE=nom,NUM=du,GEN=m,COUNT=two] CONJ[COORD=yes] ADJ[COUNT=four] CONJ[COORD=yes] N[CASE=nom,NUM=sg,GEN=n,COUNT=four]
-ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=freedom] -> 'aṣṭāpakṣālamuktatvāt'
-ADJ[CASE=nom,NUM=sg,GEN=n,STATE=immovable] -> 'āniñjam'
+S[SEM=<?cause(?disturbances)>] -> CL[K=predicate,SEM=?cause] CL[K=disturbances,SEM=?disturbances]
+CL[K=predicate,SEM=<?cause(?subject(?immovable))>] -> ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=freedom,SEM=?cause] ADJ[CASE=nom,NUM=sg,GEN=n,STATE=immovable,SEM=?immovable] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=n,REF=fourth,SEM=?subject]
+CL[K=disturbances,SEM=<?and(?first)(?and(?second)(?fourth))>] -> N[CASE=nom,NUM=du,GEN=m,COUNT=two,SEM=?first] N[CASE=nom,NUM=du,GEN=m,COUNT=two,SEM=?second] CONJ[COORD=and,SEM=?and] ADJ[COUNT=four,SEM=?fourth] CONJ[COORD=and,SEM=?and] N[CASE=nom,NUM=sg,GEN=n,COUNT=four,SEM=<\P.P>]
+ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=freedom,SEM=<\p.\R.(R(fourth) -> p)>] -> 'aṣṭāpakṣālamuktatvāt'
+ADJ[CASE=nom,NUM=sg,GEN=n,STATE=immovable,SEM=<\x.Immovable(x)>] -> 'āniñjam'
 PTCL[CONTRAST=yes] -> 'tu'
-N[CASE=nom,NUM=sg,GEN=n,REF=fourth] -> 'caturthakam'
-N[CASE=nom,NUM=du,GEN=m,COUNT=two] -> 'vitarkacārau'
-N[CASE=nom,NUM=du,GEN=m,COUNT=two] -> 'śvāsau'
-CONJ[COORD=yes] -> 'ca'
-ADJ[COUNT=four] -> 'sukhādi'
-CONJ[COORD=yes] -> 'ca'
-N[CASE=nom,NUM=sg,GEN=n,COUNT=four] -> 'catuṣṭayam'
+N[CASE=nom,NUM=sg,GEN=n,REF=fourth,SEM=<\P.P(fourth)>] -> 'caturthakam'
+N[CASE=nom,NUM=du,GEN=m,COUNT=two,SEM=<\x.(AbsentFrom(x,vitarka) & AbsentFrom(x,vicara))>] -> 'vitarkacārau'
+N[CASE=nom,NUM=du,GEN=m,COUNT=two,SEM=<\x.(AbsentFrom(x,inbreath) & AbsentFrom(x,outbreath))>] -> 'śvāsau'
+CONJ[COORD=and,SEM=<\P.\Q.\x.(P(x) & Q(x))>] -> 'ca'
+ADJ[COUNT=four,SEM=<\x.(AbsentFrom(x,sukha) & AbsentFrom(x,duhkha) & AbsentFrom(x,saumanasya) & AbsentFrom(x,daurmanasya))>] -> 'sukhādi'
+N[CASE=nom,NUM=sg,GEN=n,COUNT=four,SEM=<\P.P>] -> 'catuṣṭayam'
 ```
 
 ```nltk-dep
@@ -61,8 +62,9 @@ N[CASE=nom,NUM=sg,GEN=n,COUNT=four] -> 'catuṣṭayam'
 'catuṣṭayam' -> 'vitarkacārau' | 'śvāsau' | 'ca' | 'sukhādi' | 'ca'
 ```
 
-The verse's duals remain single compound leaves; commentary resolves `vitarkacārau` as vitarka/vicāra and `śvāsau` as both breaths. The four beginning with pleasure are pleasure, pain, pleasant-mindedness, and displeasure—not four agreeable states.
-
+The duals remain single leaves; the Bhāṣya resolves the pairs and expands the
+four beginning with pleasure. `Prīti` aligns with saumanasya locally; the
+separate `apare` account is not merged with these eight exclusions.
 
 **Close construe.** The fourth dhyāna, however, is
 immovable because it is free from eight disturbances:
@@ -144,6 +146,13 @@ The principal account says the fourth dhyāna is immovable because none of eight
 
 **Signature.** `Disturbance(x)`; `AbsentFrom(level,x)`; `Immovable(level)`; `CannotShake(level,x)`.
 
+**Parse composition (the complete exclusion condition).**
+
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+((AbsentFrom(fourth,vitarka) & AbsentFrom(fourth,vicara) & AbsentFrom(fourth,inbreath) & AbsentFrom(fourth,outbreath) & AbsentFrom(fourth,sukha) & AbsentFrom(fourth,duhkha) & AbsentFrom(fourth,saumanasya) & AbsentFrom(fourth,daurmanasya)) -> Immovable(fourth))
+```
+
 **Finite data.** The eight exclusions are vitarka, vicāra, two breaths, and four feelings. The alternative states a four-member “cannot shake” relation, not a replacement eight-item inventory.
 
 ```nltk-valuation
@@ -167,7 +176,7 @@ priti => priti
 
 ```nltk-fol
 # THEORY Vasubandhu — [verse] eight absent; [prose] not one remains
-Immovable(fourth)
+((AbsentFrom(fourth,vitarka) & AbsentFrom(fourth,vicara) & AbsentFrom(fourth,inbreath) & AbsentFrom(fourth,outbreath) & AbsentFrom(fourth,sukha) & AbsentFrom(fourth,duhkha) & AbsentFrom(fourth,saumanasya) & AbsentFrom(fourth,daurmanasya)) -> Immovable(fourth))
 all x.(Disturbance(x) -> AbsentFrom(fourth,x))
 
 # THEORY apare — [prose] inability to be shaken by the four named factors

@@ -37,30 +37,34 @@ presented as one uniform witness.
 
 ## 4. Grammar
 
-The first three names have a distributive preparatory explanation; the fourth has a separate naming ground. The prose denies that the names imply exclusive objects and specifies attenuated—but present—perception.
+The first three names remain an unexpanded list of corresponding applications.
+The fourth clause composes the attenuation condition with its naming predicate,
+without turning that reason into an unrestricted rule for every attainment.
 
 ```nltk-fcfg
 % start S
-# tokens: ∅-trayas ākāśānantya-vijñānānantyākiṃcanya-saṃjñakāḥ tathāprayogān māndyāt tu naivasaṃjñānāsaṃjñakaḥ ∅-saṃjñā
-S -> CL[K=first_three] CL[K=fourth]
+# tokens: ∅-trayas ākāśānantya-vijñānānantyākiṃcanya-saṃjñakāḥ tathāprayogān māndyāt tu ∅-caturthāvasthā naivasaṃjñānāsaṃjñakaḥ ∅-saṃjñā
+S[SEM=?fourth] -> CL[K=first_three] CL[K=fourth,SEM=?fourth]
 CL[K=first_three] -> N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] ADJ[CASE=nom,NUM=pl,GEN=m,COUNT=three] ABL[CASE=abl,NUM=sg,GEN=m,CAUSE=application]
-CL[K=fourth] -> ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=attenuation] PTCL[CONTRAST=yes] ADJ[CASE=nom,NUM=sg,GEN=m] N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose]
+CL[K=fourth,SEM=<?cause(?subject)(?perception)(?label)>] -> ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=attenuation,SEM=?cause] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose,SEM=?subject] ADJ[CASE=nom,NUM=sg,GEN=m,SEM=?label] N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose,SEM=?perception]
 N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] -> '∅-trayas'
 ADJ[CASE=nom,NUM=pl,GEN=m,COUNT=three] -> 'ākāśānantya-vijñānānantyākiṃcanya-saṃjñakāḥ'
 ABL[CASE=abl,NUM=sg,GEN=m,CAUSE=application] -> 'tathāprayogān'
-ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=attenuation] -> 'māndyāt'
+ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=attenuation,SEM=<\N.\S.\P.all x.((S(x) & N(x) & Attenuated(x)) -> P(x))>] -> 'māndyāt'
 PTCL[CONTRAST=yes] -> 'tu'
-ADJ[CASE=nom,NUM=sg,GEN=m] -> 'naivasaṃjñānāsaṃjñakaḥ'
-N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] -> '∅-saṃjñā'
+N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose,SEM=<\x.Fourth(x)>] -> '∅-caturthāvasthā'
+ADJ[CASE=nom,NUM=sg,GEN=m,SEM=<\x.NamedAs(x,neither)>] -> 'naivasaṃjñānāsaṃjñakaḥ'
+N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose,SEM=<\x.Perception(x)>] -> '∅-saṃjñā'
 ```
 
 ```nltk-dep
 '∅-trayas' -> 'ākāśānantya-vijñānānantyākiṃcanya-saṃjñakāḥ' | 'tathāprayogān'
-'naivasaṃjñānāsaṃjñakaḥ' -> 'māndyāt' | 'tu' | '∅-saṃjñā'
+'naivasaṃjñānāsaṃjñakaḥ' -> 'māndyāt' | 'tu' | '∅-caturthāvasthā' | '∅-saṃjñā'
 ```
 
-The supplied three and `yathāsaṃkhyam` distribute name and application; `tathāprayogān` is causal, not an accusative “practices.” The opening question denies exclusive objects, and `māndyāt` concerns a weak, present saṃjñā.
-
+The supplied fourth-attainment subject and perception preserve the Bhāṣya's
+scope; the first three's corresponding applications do not imply exclusive
+objects. Attenuation is not absence of perception.
 
 **Close construe.** The first three are named infinity
 of space, infinity of consciousness, and nothingness
@@ -148,7 +152,7 @@ attainment's defining nature.
 
 The naming explanation is not a uniform object rule: the first three names track corresponding modes of attention, while the fourth is explained by perception's attenuated condition [verse; prose]. The Bhāṣya rejects exclusive-object entailment and keeps attenuation distinct from total absence.
 
-**Signature.** `NamedAs(x,n)`; `AppliedAs(x,m)`; `Perception(x)`; `Attenuated(x)`; `Sharp(x)`; `PerceptionAbsent(x)`.
+**Signature.** `NamedAs(x,n)`; `AppliedAs(x,m)`; `Perception(x)`; `Attenuated(x)`; `Sharp(x)`; `PerceptionAbsent(x)`; `Fourth(x)`.
 
 **Finite data.** The formulas of attention are recorded as the respective applications reported in the prose; they are not an exhaustive inventory of possible objects.
 
@@ -160,6 +164,7 @@ fourthatta => fourthatta
 space => space
 consciousness => consciousness
 nothing => nothing
+neither => neither
 spaceformula => spaceformula
 consciousnessformula => consciousnessformula
 nothingformula => nothingformula
@@ -168,8 +173,16 @@ NamedAs => {(spaceattainment,space),(consciousnessattainment,consciousness),(not
 AppliedAs => {(spaceattainment,spaceformula),(consciousnessattainment,consciousnessformula),(nothingattainment,nothingformula)}
 Perception => {fourthatta}
 Attenuated => {fourthatta}
+Fourth => {fourthatta}
 Sharp => {}
 PerceptionAbsent => {}
+```
+
+**Parse composition (the restricted fourth-attainment naming ground).**
+
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+all x.((Perception(x) & Fourth(x) & Attenuated(x)) -> NamedAs(x,neither))
 ```
 
 **Rules (verse and prose).**
@@ -185,6 +198,7 @@ NamedAs(consciousnessattainment,consciousness)
 AppliedAs(nothingattainment,nothingformula)
 NamedAs(nothingattainment,nothing)
 # [verse] māndyāt; [prose] perception remains, but is not sharp
+all x.((Perception(x) & Fourth(x) & Attenuated(x)) -> NamedAs(x,neither))
 Perception(fourthatta)
 Attenuated(fourthatta)
 - Sharp(fourthatta)

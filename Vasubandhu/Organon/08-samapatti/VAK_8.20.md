@@ -50,10 +50,10 @@ The verse moves from the summit exception to two object-range clauses; the Bhā�
 ```nltk-fcfg
 % start S
 # tokens: āryākiñcanyasāṃmukhyād ∅-anāsravākiñcanyāyatana bhavāgre tv āsravakṣayaḥ satṛṣṇāḥ ∅-dhyānārūpyāḥ svabhavālambāḥ dhyānaṃ sadviṣayaṃ śubham
-S -> CL[K=summit_exception] CL[K=craving_range] CL[K=wholesome_dhyana]
+S[SEM=?sem] -> CL[K=summit_exception] CL[K=craving_range] CL[K=wholesome_dhyana,SEM=?sem]
 CL[K=summit_exception] -> CAUSE[CASE=abl,MODE=noble] N[CASE=nom,NUM=sg,GEN=n,EXPANSION=yes,SUPPLIED=prose] LOC[CASE=loc,GROUND=summit] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=m,EVENT=destruction]
 CL[K=craving_range] -> ADJ[CASE=nom,NUM=?n,GEN=?g,QUALITY=craving] N[CASE=nom,NUM=?n,GEN=?g,SUPPLIED=prose] ADJ[CASE=nom,NUM=?n,GEN=?g,RANGE=own_level]
-CL[K=wholesome_dhyana] -> N[CASE=nom,NUM=sg,GEN=n,KIND=dhyana] ADJ[CASE=nom,NUM=sg,GEN=n,RANGE=existent] ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=wholesome]
+CL[K=wholesome_dhyana,SEM=<?r(?q(?n))>] -> N[CASE=nom,NUM=sg,GEN=n,KIND=dhyana,SEM=?n] ADJ[CASE=nom,NUM=sg,GEN=n,RANGE=existent,SEM=?r] ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=wholesome,SEM=?q]
 CAUSE[CASE=abl,MODE=noble] -> 'āryākiñcanyasāṃmukhyād'
 N[CASE=nom,NUM=sg,GEN=n,EXPANSION=yes,SUPPLIED=prose] -> '∅-anāsravākiñcanyāyatana'
 LOC[CASE=loc,GROUND=summit] -> 'bhavāgre'
@@ -62,9 +62,9 @@ N[CASE=nom,NUM=sg,GEN=m,EVENT=destruction] -> 'āsravakṣayaḥ'
 ADJ[CASE=nom,NUM=pl,GEN=m,QUALITY=craving] -> 'satṛṣṇāḥ'
 N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] -> '∅-dhyānārūpyāḥ'
 ADJ[CASE=nom,NUM=pl,GEN=m,RANGE=own_level] -> 'svabhavālambāḥ'
-N[CASE=nom,NUM=sg,GEN=n,KIND=dhyana] -> 'dhyānaṃ'
-ADJ[CASE=nom,NUM=sg,GEN=n,RANGE=existent] -> 'sadviṣayaṃ'
-ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=wholesome] -> 'śubham'
+N[CASE=nom,NUM=sg,GEN=n,KIND=dhyana,SEM=<\a.Dhyana(a)>] -> 'dhyānaṃ'
+ADJ[CASE=nom,NUM=sg,GEN=n,RANGE=existent,SEM=<\P.all a.all x.((P(a) & Exists(x)) -> ObjectOf(a,x))>] -> 'sadviṣayaṃ'
+ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=wholesome,SEM=<\P.\a.(P(a) & Wholesome(a))>] -> 'śubham'
 ```
 
 ```nltk-dep
@@ -171,10 +171,17 @@ not a six-member sensory inventory.
 
 The verse states the summit exception, then moves from support to object-range: craving-associated attainments take their own level's existence as object, while wholesome dhyāna ranges over what exists. Provenance: `[verse]`, `[prose]`.
 
-**Signature.** `UpperBorn/1(p)`—p is reborn at bhavāgra; `MakesPresent/2(p,a)`—p brings a into operation; `NobleNothingness/1(a)`—noble nothingness attainment; `DestroysOutflows/1(p)`—outflows are destroyed for p; `CravingAssociated/1(a)`—a is savoring-associated; `OwnLevelExistenceObject/1(a)`—a takes own-level existence as object; `WholesomeDhyana/1(a)`—wholesome dhyāna; `Vastu/1(x)`—what exists; `ObjectOf/2(a,x)`—x is an object of a.
+**Signature.** `UpperBorn/1(p)`—p is reborn at bhavāgra; `MakesPresent/2(p,a)`—p brings a into operation; `NobleNothingness/1(a)`—noble nothingness attainment; `DestroysOutflows/1(p)`—outflows are destroyed for p; `CravingAssociated/1(a)`—a is savoring-associated; `OwnLevelExistenceObject/1(a)`—a takes own-level existence as object; `WholesomeDhyana/1(a)`—wholesome dhyāna; `Dhyana/1(a)` and `Wholesome/1(a)`—the composed subject properties; `Exists/1(x)`—what exists; `Vastu/1(x)`—the prose range; `ObjectOf/2(a,x)`—x is an object of a.
+
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+all a.all x.((Dhyana(a) & Wholesome(a) & Exists(x)) -> ObjectOf(a,x))
+```
 
 ```nltk-fol
 # THEORY shared
+# [verse] derived all-object rule from the section 4 parse
+all a.all x.((Dhyana(a) & Wholesome(a) & Exists(x)) -> ObjectOf(a,x))
 # [prose] exception at bhavāgra: cultivated noble nothingness is made present
 all p.all a.((UpperBorn(p) & MakesPresent(p,a) & NobleNothingness(a)) -> DestroysOutflows(p))
 # [verse, prose] satṛṣṇa attainments take their own-level contaminated existence
@@ -199,6 +206,9 @@ DestroysOutflows => {upperBorn}
 CravingAssociated => {cravingAttainment}
 OwnLevelExistenceObject => {cravingAttainment}
 WholesomeDhyana => {wholesomeDhyana}
+Dhyana => {wholesomeDhyana}
+Wholesome => {wholesomeDhyana}
+Exists => {conditionedThing,unconditionedThing}
 Vastu => {conditionedThing,unconditionedThing}
 ObjectOf => {(wholesomeDhyana,conditionedThing),(wholesomeDhyana,unconditionedThing)}
 ```

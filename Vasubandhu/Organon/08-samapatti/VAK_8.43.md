@@ -50,23 +50,23 @@ The absolutive takes two coordinated contents: the Sage's precarious teaching an
 ```nltk-fcfg
 % start S
 # tokens: iti kaṇṭhagataprāṇaṃ viditvā śāsanaṃ muneḥ ∅-etam balakālaṃ malānāṃ ca na pramādyam mumukṣubhiḥ
-S -> CL[K=knowing,AGENT=seekers] CL[K=injunction,AGENT=seekers]
+S[SEM=<?rule(?condition)>] -> CL[K=knowing,AGENT=seekers,COND=?condition] CL[K=injunction,AGENT=seekers,SEM=?rule]
 
-CL[K=knowing,AGENT=seekers] -> PTCL[REPORT=yes] ADJ[CASE=acc,NUM=?n,GEN=?g,CONTENT=teaching] ABS[COMP=knowing,TENSE=prior] N[CASE=acc,NUM=?n,GEN=?g,CONTENT=teaching] N[CASE=gen,NUM=sg,GEN=m,OWNER=sage] PRON[CASE=acc,NUM=sg,GEN=m,SUPPLIED=prose] N[CASE=acc,NUM=sg,GEN=m,CONTENT=time] N[CASE=gen,NUM=pl,GEN=n,OWNER=defilements] CONJ[ADD=yes]
-CL[K=injunction,AGENT=seekers] -> NEG[POLARITY=no] VERB[CASE=nom,NUM=sg,GEN=n,MOOD=gerundive,VOICE=impersonal] N[CASE=ins,NUM=pl,GEN=m,ROLE=agent,AGENT=seekers]
+CL[K=knowing,AGENT=seekers,COND=<\x.(Knows(x,riskcondition) & TeachingAtRisk(riskcondition) & DefilementsStrong(riskcondition))>] -> PTCL[REPORT=yes] ADJ[CASE=acc,NUM=?n,GEN=?g,CONTENT=teaching,SEM=?teaching] ABS[COMP=knowing,TENSE=prior,SEM=?know] N[CASE=acc,NUM=?n,GEN=?g,CONTENT=teaching] N[CASE=gen,NUM=sg,GEN=m,OWNER=sage] PRON[CASE=acc,NUM=sg,GEN=m,SUPPLIED=prose] N[CASE=acc,NUM=sg,GEN=m,CONTENT=time,SEM=?strength] N[CASE=gen,NUM=pl,GEN=n,OWNER=defilements] CONJ[ADD=yes]
+CL[K=injunction,AGENT=seekers,SEM=<\P.all x.((?seek(x) & P(x)) -> ?ought(x))>] -> NEG[POLARITY=no] VERB[CASE=nom,NUM=sg,GEN=n,MOOD=gerundive,VOICE=impersonal,SEM=?ought] N[CASE=ins,NUM=pl,GEN=m,ROLE=agent,AGENT=seekers,SEM=?seek]
 
 PTCL[REPORT=yes] -> 'iti'
-ADJ[CASE=acc,NUM=sg,GEN=n,CONTENT=teaching] -> 'kaṇṭhagataprāṇaṃ'
-ABS[COMP=knowing,TENSE=prior] -> 'viditvā'
+ADJ[CASE=acc,NUM=sg,GEN=n,CONTENT=teaching,SEM=<\c.TeachingAtRisk(c)>] -> 'kaṇṭhagataprāṇaṃ'
+ABS[COMP=knowing,TENSE=prior,SEM=<\P.\x.(Knows(x,riskcondition) & P(x))>] -> 'viditvā'
 N[CASE=acc,NUM=sg,GEN=n,CONTENT=teaching] -> 'śāsanaṃ'
 N[CASE=gen,NUM=sg,GEN=m,OWNER=sage] -> 'muneḥ'
 PRON[CASE=acc,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-etam'
-N[CASE=acc,NUM=sg,GEN=m,CONTENT=time] -> 'balakālaṃ'
+N[CASE=acc,NUM=sg,GEN=m,CONTENT=time,SEM=<\c.DefilementsStrong(c)>] -> 'balakālaṃ'
 N[CASE=gen,NUM=pl,GEN=n,OWNER=defilements] -> 'malānāṃ'
 CONJ[ADD=yes] -> 'ca'
 NEG[POLARITY=no] -> 'na'
-VERB[CASE=nom,NUM=sg,GEN=n,MOOD=gerundive,VOICE=impersonal] -> 'pramādyam'
-N[CASE=ins,NUM=pl,GEN=m,ROLE=agent,AGENT=seekers] -> 'mumukṣubhiḥ'
+VERB[CASE=nom,NUM=sg,GEN=n,MOOD=gerundive,VOICE=impersonal,SEM=<\x.OughtNotNeglect(x)>] -> 'pramādyam'
+N[CASE=ins,NUM=pl,GEN=m,ROLE=agent,AGENT=seekers,SEM=<\x.LiberationSeeker(x)>] -> 'mumukṣubhiḥ'
 ```
 
 ```nltk-dep
@@ -160,6 +160,11 @@ The closing verse links recognition of two conditions—the Sage's teaching at t
 
 **Signature.** `LiberationSeeker(x)`, `Knows(x,c)`, `TeachingAtRisk(c)`, `DefilementsStrong(c)`, and `OughtNotNeglect(x)`.
 
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+all x.((LiberationSeeker(x) & Knows(x,riskcondition) & TeachingAtRisk(riskcondition) & DefilementsStrong(riskcondition)) -> OughtNotNeglect(x))
+```
+
 ```nltk-valuation
 seekerone => seekerone
 riskcondition => riskcondition
@@ -172,7 +177,7 @@ OughtNotNeglect => {seekerone}
 
 ```nltk-fol
 # THEORY verse
-# [verse] kaṇṭhagataprāṇaṃ ... viditvā; malānāṃ balakālam
+# [verse] recognition of both conditions governs the injunction
 all x.((LiberationSeeker(x) & Knows(x,riskcondition) & TeachingAtRisk(riskcondition) & DefilementsStrong(riskcondition)) -> OughtNotNeglect(x))
 ```
 

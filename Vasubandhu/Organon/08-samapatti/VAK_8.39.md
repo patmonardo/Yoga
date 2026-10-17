@@ -46,11 +46,11 @@ The first clause predicates a twofold constitution of the Teacher's true Dharma;
 ```nltk-fcfg
 % start S
 # tokens: saddharmo dvividhaḥ śāstur āgamādhigamātmakaḥ ∅-āgamaḥ ∅-sūtravinayābhidharmāḥ ∅-adhigamaḥ ∅-bodhipakṣyāḥ dhātāras tasya vaktāraḥ pratipattāra eva ca ∅-dhārayitāraḥ
-S -> CL[K=classification] CL[K=bearers]
+S[SEM=<?a & ?b>] -> CL[K=classification,SEM=?a] CL[K=bearers,SEM=?b]
 
-CL[K=classification] -> N[CASE=?c,NUM=?n,GEN=?g] ADJ[CASE=?c,NUM=?n,GEN=?g] N[CASE=gen,NUM=sg,GEN=m] ADJ[CASE=?c,NUM=?n,GEN=?g,CONSTITUTION=two] CONTENTS
+CL[K=classification,SEM=<all d.(TrueDharma(d) -> (ConsistsOf(d,transmission) & ConsistsOf(d,realization)))>] -> N[CASE=?c,NUM=?n,GEN=?g] ADJ[CASE=?c,NUM=?n,GEN=?g] N[CASE=gen,NUM=sg,GEN=m] ADJ[CASE=?c,NUM=?n,GEN=?g,CONSTITUTION=two] CONTENTS
 CONTENTS -> N[SUPPLIED=prose,TYPE=transmission] N[SUPPLIED=prose,TYPE=transmissionlist] N[SUPPLIED=prose,TYPE=realization] N[SUPPLIED=prose,TYPE=realizationlist]
-CL[K=bearers] -> N[CASE=?c,NUM=?n,GEN=?g] N[CASE=gen,NUM=sg,GEN=n] N[CASE=?c,NUM=?n,GEN=?g] N[CASE=?c,NUM=?n,GEN=?g] PTCL[EMPH=yes] CONJ[ADD=yes] N[SUPPLIED=prose,FUNCTION=transmission]
+CL[K=bearers,SEM=<all b.(Bears(b,transmission) -> (Retains(b,transmission) & Speaks(b,transmission))) & all b.(Bears(b,realization) -> Practices(b,realization))>] -> N[CASE=?c,NUM=?n,GEN=?g] N[CASE=gen,NUM=sg,GEN=n] N[CASE=?c,NUM=?n,GEN=?g] N[CASE=?c,NUM=?n,GEN=?g] PTCL[EMPH=yes] CONJ[ADD=yes] N[SUPPLIED=prose,FUNCTION=transmission]
 
 N[CASE=nom,NUM=sg,GEN=m] -> 'saddharmo'
 ADJ[CASE=nom,NUM=sg,GEN=m] -> 'dvividhaḥ'
@@ -161,6 +161,11 @@ The verse distinguishes the Teacher's true Dharma into transmission and realizat
 
 **Signature.** `TrueDharma(d)`, `Aspect(a)`, `ConsistsOf(d,a)`, `Bearer(b)`, `Bears(b,a)`, `Retains(b,a)`, `Speaks(b,a)`, `Practices(b,a)`, and `Comprises(a,c)`.
 
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+all d.(TrueDharma(d) -> (ConsistsOf(d,transmission) & ConsistsOf(d,realization))) & all b.(Bears(b,transmission) -> (Retains(b,transmission) & Speaks(b,transmission))) & all b.(Bears(b,realization) -> Practices(b,realization))
+```
+
 ```nltk-valuation
 saddharma => saddharma
 transmission => transmission
@@ -185,11 +190,8 @@ LongerThan => {(transmission,realization)}
 
 ```nltk-fol
 # THEORY shared
-# [verse] saddharmo dvividhaḥ ... āgamādhigamātmakaḥ
-all d.(TrueDharma(d) -> (ConsistsOf(d,transmission) & ConsistsOf(d,realization)))
-# [verse] dhātāras ... vaktāraḥ pratipattāraḥ; [prose] role mapping
-all b.(Bears(b,transmission) -> (Retains(b,transmission) & Speaks(b,transmission)))
-all b.(Bears(b,realization) -> Practices(b,realization))
+# [verse] twofold definition and bearers; [prose] role mapping
+all d.(TrueDharma(d) -> (ConsistsOf(d,transmission) & ConsistsOf(d,realization))) & all b.(Bears(b,transmission) -> (Retains(b,transmission) & Speaks(b,transmission))) & all b.(Bears(b,realization) -> Practices(b,realization))
 # [prose] āgama and adhigama contents
 Comprises(transmission,sutravinayaabhidharma)
 Comprises(realization,awakeningfactors)

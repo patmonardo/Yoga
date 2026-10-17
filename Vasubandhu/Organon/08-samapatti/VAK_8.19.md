@@ -46,15 +46,15 @@ The verse completes the previous preparation, then states a general support rule
 ```nltk-fcfg
 % start S
 # tokens: vyutkrāntakasamāpattir visabhāgatṛtīyagā svādhobhūmyāśrayā eva dhyānārūpyāḥ ∅-ūrdhvopapannaḥ vṛthādharam
-S -> CL[K=accomplishment] CL[K=support] CL[K=exception]
+S[SEM=?sem] -> CL[K=accomplishment] CL[K=support,SEM=?sem] CL[K=exception]
 CL[K=accomplishment] -> N[CASE=nom,NUM=sg,GEN=f,KIND=skip] ADJ[CASE=nom,NUM=sg,GEN=f,MODE=dissimilar,DEST=third]
-CL[K=support] -> ADJ[CASE=nom,NUM=?n,GEN=?g,SUPPORT=own_or_lower] PTCL[RESTRICT=yes] N[CASE=nom,NUM=?n,GEN=?g,KIND=attainment]
+CL[K=support,SEM=<?q(?noun)>] -> ADJ[CASE=nom,NUM=?n,GEN=?g,SUPPORT=own_or_lower,SEM=?q] PTCL[RESTRICT=yes] N[CASE=nom,NUM=?n,GEN=?g,KIND=attainment,SEM=?noun]
 CL[K=exception] -> N[CASE=nom,NUM=sg,GEN=m,STATUS=reborn_above,SUPPLIED=prose] ADJ[CASE=nom,NUM=sg,GEN=n,UTILITY=none]
 N[CASE=nom,NUM=sg,GEN=f,KIND=skip] -> 'vyutkrāntakasamāpattir'
 ADJ[CASE=nom,NUM=sg,GEN=f,MODE=dissimilar,DEST=third] -> 'visabhāgatṛtīyagā'
-ADJ[CASE=nom,NUM=pl,GEN=m,SUPPORT=own_or_lower] -> 'svādhobhūmyāśrayā'
+ADJ[CASE=nom,NUM=pl,GEN=m,SUPPORT=own_or_lower,SEM=<\P.all a.(P(a) -> SupportedOwnOrLower(a))>] -> 'svādhobhūmyāśrayā'
 PTCL[RESTRICT=yes] -> 'eva'
-N[CASE=nom,NUM=pl,GEN=m,KIND=attainment] -> 'dhyānārūpyāḥ'
+N[CASE=nom,NUM=pl,GEN=m,KIND=attainment,SEM=<\a.DhyanaArupya(a)>] -> 'dhyānārūpyāḥ'
 N[CASE=nom,NUM=sg,GEN=m,STATUS=reborn_above,SUPPLIED=prose] -> '∅-ūrdhvopapannaḥ'
 ADJ[CASE=nom,NUM=sg,GEN=n,UTILITY=none] -> 'vṛthādharam'
 ```
@@ -158,7 +158,12 @@ purpose, and immediately proceeds to an exception.
 
 The verse completes the skipping sequence and states the general level of support for dhyāna and formless attainments. The Bhāṣya also gives the qualified practitioner who accomplishes the skip. Provenance: `[verse]`, `[prose]`.
 
-**Signature.** `SkipStep/2(a,b)`—one step in the skipping sequence; `InThreeContinents/1(p)`—practitioner in the Bhāṣya’s stated scope; `FreeOfDefilement/1`, `MasteryOfSamadhi/1`, `ProducesSkip/1`—eligibility and capacity; `RebornAbove/1(p)`—rebirth above the lower attainment; `LowerAttainment/1(a)`—attainment below that support; `Useful/2(p,a)`—a is useful to p there.
+**Signature.** `SkipStep/2(a,b)`—one step in the skipping sequence; `InThreeContinents/1(p)`—practitioner in the Bhāṣya’s stated scope; `FreeOfDefilement/1`, `MasteryOfSamadhi/1`, `ProducesSkip/1`—eligibility and capacity; `RebornAbove/1(p)`—rebirth above the lower attainment; `LowerAttainment/1(a)`—attainment below that support; `Useful/2(p,a)`—a is useful to p there; `DhyanaArupya/1(a)` and `SupportedOwnOrLower/1(a)`—the derived general support relation.
+
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+all a.(DhyanaArupya(a) -> SupportedOwnOrLower(a))
+```
 
 ```nltk-valuation
 firstContaminated => firstContaminated
@@ -168,6 +173,9 @@ nothingnessUncontaminated => nothingnessUncontaminated
 adept => adept
 upperBorn => upperBorn
 lowerDhyana => lowerDhyana
+representativeAttainment => representativeAttainment
+DhyanaArupya => {representativeAttainment}
+SupportedOwnOrLower => {representativeAttainment}
 SkipStep => {(firstContaminated,thirdUncontaminated),(thirdUncontaminated,spaceContaminated),(spaceContaminated,nothingnessUncontaminated),(nothingnessUncontaminated,spaceContaminated),(spaceContaminated,thirdUncontaminated),(thirdUncontaminated,firstContaminated)}
 InThreeContinents => {adept}
 FreeOfDefilement => {adept}
@@ -180,6 +188,8 @@ Useful => {}
 
 ```nltk-fol
 # THEORY shared
+# [verse] derived own-or-lower support restriction from the section 4 parse
+all a.(DhyanaArupya(a) -> SupportedOwnOrLower(a))
 # [verse] third-in-a-dissimilar-mode pattern; the list records the Bhāṣya's example and reverse
 SkipStep(firstContaminated,thirdUncontaminated)
 SkipStep(thirdUncontaminated,spaceContaminated)
@@ -193,7 +203,7 @@ all p.((InThreeContinents(p) & FreeOfDefilement(p) & MasteryOfSamadhi(p)) -> Pro
 all p.all a.((RebornAbove(p) & LowerAttainment(a)) -> -Useful(p,a))
 ```
 
-**Results (NLTK).** `Model.satisfy` checks the skip-step facts and both general rules in the finite example. The support example encodes the lower attainment as useless for the one reborn above, not as impossible to enter in every context.
+**Results (NLTK).** `Model.satisfy` checks the skip-step facts, the derived own-or-lower support rule, and both general rules in the finite example. The support example encodes the lower attainment as useless for the one reborn above, not as impossible to enter in every context.
 
 **Scope cautions.** The three-continent eligibility is Bhāṣya-only. `vṛthā` is limited to the upper-born case; reverse practice traversal is not rebirth above. The exception is the next verse and is deliberately not folded into the general support rule.
 

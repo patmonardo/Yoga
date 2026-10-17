@@ -48,13 +48,13 @@ The first nominal clause identifies the eighth release; the Bhāṣya supplies e
 ```nltk-fcfg
 % start S
 # tokens: nirodhaḥ tu samāpattiḥ sūkṣmasūkṣmāt anantaram ∅-nirodham ∅-samāpadyante vyutthānam cetasā svaśuddhakādharāryeṇa tataḥ
-S -> CL[K=definition] CL[K=entry] CL[K=emergence]
-CL[K=definition] -> N[CASE=nom,NUM=sg,GEN=m] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=f]
+S[SEM=?formula] -> CL[K=definition,SEM=?formula] CL[K=entry] CL[K=emergence]
+CL[K=definition,SEM=<?q(?p)>] -> N[CASE=nom,NUM=sg,GEN=m,SEM=?q] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=f,SEM=?p]
 CL[K=entry] -> ADJ[CASE=abl,NUM=sg,GEN=n,DEGREE=superlative] ADV[ORDER=after] N[CASE=acc,NUM=sg,GEN=n,SUPPLIED=prose] V[PERS=3,NUM=pl,TENSE=pres,VOICE=mid,SUPPLIED=prose]
 CL[K=emergence] -> N[CASE=nom,NUM=sg,GEN=n] N[CASE=ins,NUM=sg,GEN=n] ADJ[CASE=ins,NUM=sg,GEN=n,PAIR=own_pure_or_lower_noble] ADV[SOURCE=attainment]
-N[CASE=nom,NUM=sg,GEN=m] -> 'nirodhaḥ'
+N[CASE=nom,NUM=sg,GEN=m,SEM=<\P.(Cessation(cessationAttainment) & P(cessationAttainment))>] -> 'nirodhaḥ'
 PTCL[CASE=none,NUM=none,GEN=none,CONTRAST=yes] -> 'tu'
-N[CASE=nom,NUM=sg,GEN=f] -> 'samāpattiḥ'
+N[CASE=nom,NUM=sg,GEN=f,SEM=<\x.Attainment(x)>] -> 'samāpattiḥ'
 ADJ[CASE=abl,NUM=sg,GEN=n,DEGREE=superlative] -> 'sūkṣmasūkṣmāt'
 ADV[CASE=none,NUM=none,GEN=none,ORDER=after] -> 'anantaram'
 N[CASE=acc,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-nirodham'
@@ -154,6 +154,11 @@ This verse distinguishes cessation-attainment, its entry condition, and two emer
 
 **Signature.** `Attainment(x)`; `Cessation(x)`; `ImmediatelyBefore(x,y)`; `ExitLevel(x,l)`; `VerseExitMode(x,m)`; `ProseExitMode(x,m)`.
 
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+(Cessation(cessationAttainment) & Attainment(cessationAttainment))
+```
+
 ```nltk-valuation
 cessationAttainment => cessationAttainment
 subtlePerception => subtlePerception
@@ -176,8 +181,8 @@ ProseExitMode => {(ownLevelExit,pure),(lowerLevelExit,contaminated)}
 
 ```nltk-fol
 # THEORY shared
-# [verse] nirodha is samāpatti; [prose] identified as cessation of perception and feeling
-all x.(Cessation(x) -> Attainment(x))
+# [derived by the section 4 parse, not typed by hand] the named cessation-attainment is both cessation and an attainment
+(Cessation(cessationAttainment) & Attainment(cessationAttainment))
 # [prose] bhavāgra perception is made subtler immediately before entry
 ImmediatelyBefore(subtlePerception,subtlerPerception)
 ImmediatelyBefore(subtlerPerception,entryMoment)

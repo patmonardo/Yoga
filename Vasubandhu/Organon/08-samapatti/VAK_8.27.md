@@ -45,20 +45,22 @@ The inherited plural subject is restricted by mode, human location, practitioner
 ```nltk-fcfg
 % start S
 # tokens: ∅-aparasamādhayaḥ sāsravāḥ nṛṣu akopyasya saptasāmantavarjitāḥ samādhibhāvanā dhyānam śubham ādyaṃ sukhāya hi ∅-dṛṣṭadharmasukhavihārāya
-S -> CL[K=restriction] CL[K=cultivation]
+S[SEM=?formula] -> CL[K=restriction] CL[K=cultivation,SEM=?formula]
 CL[K=restriction] -> N[CASE=nom,NUM=?n,GEN=?g,SUPPLIED=prose] ADJ[CASE=nom,NUM=?n,GEN=?g,MODE=only] N[CASE=loc,NUM=pl,GEN=m] N[CASE=gen,NUM=sg,GEN=m] ADJ[CASE=nom,NUM=?n,GEN=?g,PRIV=yes]
-CL[K=cultivation] -> N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=n] ADJ[CASE=nom,NUM=sg,GEN=n] ADJ[CASE=nom,NUM=sg,GEN=n] N[CASE=dat,NUM=sg,GEN=n] PTCL[EXPL=yes] N[CASE=dat,NUM=sg,GEN=n,SUPPLIED=prose]
+CL[K=cultivation,SEM=<?q(\x.(?ap(x) & ?p(x)))>] -> N[CASE=nom,NUM=sg,GEN=f,SEM=?q] AP[SEM=?ap] N[CASE=dat,NUM=sg,GEN=n] PTCL[EXPL=yes] N[CASE=dat,NUM=sg,GEN=n,SUPPLIED=prose,SEM=?p]
+AP[SEM=<?a(?id(?n))>] -> N[CASE=nom,NUM=sg,GEN=n,SEM=?n] ADJ[CASE=nom,NUM=sg,GEN=n,SEM=?a] ADJ[CASE=nom,NUM=sg,GEN=n,SEM=?id]
 N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] -> '∅-aparasamādhayaḥ'
 ADJ[CASE=nom,NUM=pl,GEN=m,MODE=only] -> 'sāsravāḥ'
 N[CASE=loc,NUM=pl,GEN=m] -> 'nṛṣu'
 N[CASE=gen,NUM=sg,GEN=m] -> 'akopyasya'
 ADJ[CASE=nom,NUM=pl,GEN=m,PRIV=yes] -> 'saptasāmantavarjitāḥ'
-N[CASE=nom,NUM=sg,GEN=f] -> 'samādhibhāvanā'
-N[CASE=nom,NUM=sg,GEN=n] -> 'dhyānam'
-ADJ[CASE=nom,NUM=sg,GEN=n] -> 'śubham' | 'ādyaṃ'
+N[CASE=nom,NUM=sg,GEN=f,SEM=<\P.(Cultivation(firstCultivation) & P(firstCultivation))>] -> 'samādhibhāvanā'
+N[CASE=nom,NUM=sg,GEN=n,SEM=<\x.FirstDhyana(x)>] -> 'dhyānam'
+ADJ[CASE=nom,NUM=sg,GEN=n,SEM=<\P.\x.(Wholesome(x) & P(x))>] -> 'śubham'
+ADJ[CASE=nom,NUM=sg,GEN=n,SEM=<\P.P>] -> 'ādyaṃ'
 N[CASE=dat,NUM=sg,GEN=n] -> 'sukhāya'
 PTCL[CASE=none,NUM=none,GEN=none,EXPL=yes] -> 'hi'
-N[CASE=dat,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-dṛṣṭadharmasukhavihārāya'
+N[CASE=dat,NUM=sg,GEN=n,SUPPLIED=prose,SEM=<\x.ForPresentAbiding(x)>] -> '∅-dṛṣṭadharmasukhavihārāya'
 ```
 
 ```nltk-dep
@@ -145,6 +147,11 @@ The verse closes the further-samādhi restrictions and begins a new fourfold cul
 
 **Signature.** `Further(x)`; `Contaminated(x)`; `AmongHumans(x)`; `ForAkopya(x)`; `AllowedGround(g)`; `OnGround(x,g)`; `Cultivation(x)`; `Wholesome(x)`; `FirstDhyana(x)`; `ForPresentAbiding(x)`.
 
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+(Cultivation(firstCultivation) & Wholesome(firstCultivation) & FirstDhyana(firstCultivation) & ForPresentAbiding(firstCultivation))
+```
+
 ```nltk-valuation
 furtherEmpty => furtherEmpty
 furtherNonDirected => furtherNonDirected
@@ -178,8 +185,8 @@ ForPresentAbiding => {firstCultivation}
 # [prose] sāsrava ekāntena; the eleven grounds are represented as a finite set
 all x.(Further(x) -> (Contaminated(x) & AmongHumans(x) & ForAkopya(x)))
 all x.(Further(x) -> exists g.(AllowedGround(g) & OnGround(x,g)))
-# [verse, prose] first wholesome cultivation is first dhyāna, for present-life abiding
-all x.(Cultivation(x) -> (Wholesome(x) & FirstDhyana(x) & ForPresentAbiding(x)))
+# [derived by the section 4 parse, not typed by hand] first cultivation, with its restricted status and purpose
+(Cultivation(firstCultivation) & Wholesome(firstCultivation) & FirstDhyana(firstCultivation) & ForPresentAbiding(firstCultivation))
 ```
 
 **Results (NLTK).** The checker reports `shared: T` in the finite model.

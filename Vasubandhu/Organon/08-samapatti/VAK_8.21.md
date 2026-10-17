@@ -46,13 +46,13 @@ Negation restricts the object-range claim to principal wholesome formless attain
 ```nltk-fcfg
 % start S
 # tokens: na maulāḥ kuśalārūpyāḥ sāsravādharagocarāḥ anāsraveṇa hīyante kleśāḥ sāmantakena ca ∅-śuddhakenāpi
-S -> CL[K=object_restriction] CL[K=abandonment]
-CL[K=object_restriction] -> NEG ADJ[CASE=nom,NUM=?n,GEN=?g,STATUS=principal] N[CASE=nom,NUM=?n,GEN=?g,QUALITY=wholesome] ADJ[CASE=nom,NUM=?n,GEN=?g,RANGE=lower_contaminated]
+S[SEM=?sem] -> CL[K=object_restriction,SEM=?sem] CL[K=abandonment]
+CL[K=object_restriction,SEM=<?neg(?principal(?base))(?object)>] -> NEG[SEM=?neg] ADJ[CASE=nom,NUM=?n,GEN=?g,STATUS=principal,SEM=?principal] N[CASE=nom,NUM=?n,GEN=?g,QUALITY=wholesome,SEM=?base] ADJ[CASE=nom,NUM=?n,GEN=?g,RANGE=lower_contaminated,SEM=?object]
 CL[K=abandonment] -> INSTR[CASE=ins,MODE=uncontaminated] V[PERS=3,NUM=pl,TENSE=pres,VOICE=passive] N[CASE=nom,NUM=pl,GEN=m,ROLE=agent] INSTR[CASE=ins,ROLE=access] CONJ COV[CASE=ins,MODE=pure,SUPPLIED=prose]
-NEG -> 'na'
-ADJ[CASE=nom,NUM=pl,GEN=m,STATUS=principal] -> 'maulāḥ'
-N[CASE=nom,NUM=pl,GEN=m,QUALITY=wholesome] -> 'kuśalārūpyāḥ'
-ADJ[CASE=nom,NUM=pl,GEN=m,RANGE=lower_contaminated] -> 'sāsravādharagocarāḥ'
+NEG[SEM=<\P.\Q.all a.all x.((P(a) & Q(x)) -> -TakesAsObject(a,x))>] -> 'na'
+ADJ[CASE=nom,NUM=pl,GEN=m,STATUS=principal,SEM=<\P.P>] -> 'maulāḥ'
+N[CASE=nom,NUM=pl,GEN=m,QUALITY=wholesome,SEM=<\a.PrincipalWholesomeArupya(a)>] -> 'kuśalārūpyāḥ'
+ADJ[CASE=nom,NUM=pl,GEN=m,RANGE=lower_contaminated,SEM=<\x.LowerContaminated(x)>] -> 'sāsravādharagocarāḥ'
 INSTR[CASE=ins,MODE=uncontaminated] -> 'anāsraveṇa'
 V[PERS=3,NUM=pl,TENSE=pres,VOICE=passive] -> 'hīyante'
 N[CASE=nom,NUM=pl,GEN=m,ROLE=agent] -> 'kleśāḥ'
@@ -161,6 +161,11 @@ all mental and all sensory objects.
 The first clause restricts object-range; the second identifies two antidotal routes to abandonment, including pure access against lower-level defilements. Object-taking and abandonment are not the same relation. Provenance: `[verse]`, `[prose]`.
 
 **Signature.** `PrincipalWholesomeArupya/1(a)`—principal wholesome formless attainment; `LowerContaminated/1(x)`—lower-level contaminated object; `TakesAsObject/2(a,x)`—a takes x as object; `Uncontaminated/1(a)`—uncontaminated attainment; `Defilement/1(d)`—defilement; `Abandons/2(a,d)`—a abandons d; `PureAccess/1(a)`—pure access attainment; `LowerDefilement/1(d)`—lower-level defilement; `AntidoteTo/2(a,d)`—a is d’s antidote.
+
+```nltk-sem
+# derived by the section 4 parse, not typed by hand
+all a.all x.((PrincipalWholesomeArupya(a) & LowerContaminated(x)) -> -TakesAsObject(a,x))
+```
 
 ```nltk-fol
 # THEORY shared

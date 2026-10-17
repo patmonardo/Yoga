@@ -38,6 +38,26 @@ def formulas(block: str):
             yield line.strip()
 
 
+def load_valuation(text: str) -> Valuation:
+    """Parse a valuation, treating `Pred => {}` as a truly empty extension.
+
+    NLTK reads `{}` as {('',)}, a phantom element that also enters the domain.
+    """
+    empty = [
+        line.split("=>")[0].strip()
+        for line in text.splitlines()
+        if re.fullmatch(r"\s*\w+\s*=>\s*\{\s*\}\s*", line)
+    ]
+    rest = "\n".join(
+        line for line in text.splitlines()
+        if not re.fullmatch(r"\s*\w+\s*=>\s*\{\s*\}\s*", line)
+    )
+    valuation = Valuation.fromstring(rest)
+    for name in empty:
+        valuation[name] = set()
+    return valuation
+
+
 def check_grammar(text: str) -> tuple[str, list[str]]:
     blocks = BLOCK.findall(section(text, 4))
     fcfg = [body for kind, body in blocks if kind == "nltk-fcfg"]
@@ -52,8 +72,27 @@ def check_grammar(text: str) -> tuple[str, list[str]]:
     tokens = re.search(r"^# tokens: (.*)$", fcfg[0], re.M)
     if not tokens:
         return "", ["nltk-fcfg lacks a '# tokens:' line"]
-    count = len(list(FeatureChartParser(grammar).parse(tokens.group(1).split())))
-    return f"parses {count}", ([] if count == 1 else [f"expected 1 parse, got {count}"])
+    trees = list(FeatureChartParser(grammar).parse(tokens.group(1).split()))
+    count = len(trees)
+    if count != 1:
+        return f"parses {count}", [f"expected 1 parse, got {count}"]
+    sem = trees[0].label().get("SEM")
+    if sem is None:
+        return "parses 1", []
+    derived = sem.simplify()
+    known = set()
+    for kind, body in BLOCK.findall(section(text, 8)):
+        if kind in ("nltk-sem", "nltk-fol"):
+            for line in formulas(body):
+                try:
+                    known.add(str(Expression.fromstring(
+                        line.split(" : ", 1)[1].strip() if " : " in line else line
+                    ).simplify()))
+                except Exception:
+                    pass
+    if str(derived) not in known:
+        return "parses 1 SEM", [f"derived SEM absent from section 8: {derived}"]
+    return "parses 1 SEM=ok", []
 
 
 def check_logic(text: str) -> tuple[str, list[str]]:
@@ -61,7 +100,7 @@ def check_logic(text: str) -> tuple[str, list[str]]:
     for kind, body in BLOCK.findall(section(text, 8)):
         try:
             if kind == "nltk-valuation":
-                valuation = Valuation.fromstring(body)
+                valuation = load_valuation(body)
             elif kind == "nltk-fol":
                 for line in body.splitlines():
                     if line.startswith("# THEORY"):
