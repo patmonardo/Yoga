@@ -1,28 +1,35 @@
-# VAK_2.56 Bhāṣya — Assigning Fruits
+# VAK_2.56 Bhāṣya — Principal Fruits
 
 ## 1. Kārikā Anchor
 
-> vipākaphalam antyasya pūrvasyādhipataṃ phalam /
+> vipākaphalam antyasya pūrvasya adhipajaṃ phalam /
+>
 > sabhāgasarvatragayor niṣyandaḥ pauruṣaṃ dvayoḥ // 2.56 //
 
-> Maturation-fruit of the last. Fruit of predominance of the first. Homogeneous outflow of the homogeneous and the pervasive. Efficacy of the two.
+> The last has maturation-fruit. The first has predominance. Homogeneous and pervasive have homogeneous outflow. The two, co-arisen and associated, have efficacy. Not exclusive. Efficacy is a figure, not Puruṣa. Distant crop is not settled.
 
-From 94.18 through 95.08. Definitions at 95.09 are 2.57. Not opened.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> vipākaphalam antyasya /
+> tasya vipākaphalam /
+> pūrvasya adhipajaṃ phalam /
+> kāraṇahetuḥ pūrvam uktatvāt pūrvaḥ /
+> tasyādhipajaṃ phalam /
+> sabhāgasarvatragayor niṣyandaḥ /
+> sadṛśaphalatvād anayor niḥṣyandaphalam /
+> pauruṣaṃ dvayoḥ // 2.56 //
+> sahabhūsaṃprayuktakahetvoḥ puruṣakāraphalam /
 
-Last is the maturation cause. First is the conditioning cause. Predominance includes non-obstruction, and a contributory role, direct or mediated. Homogeneous and pervasive yield a similar fruit. The two yield efficacy, the activity a dharma performs, named by a figure. Others have it too, except maturation, because efficacy is together or immediate. Others allow a distant efficacy, like a crop. Not settled.
+The unit is printed 94.21–95.03 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-Assignment, then the objection to mere non-obstruction, then the qualification that the table is not exclusive, then an alternative. Not closed.
+The last has maturation-fruit. The first has predominance. What predominance has mere non-obstruction? That very non-obstruction. A contributory role too. Homogeneous and pervasive have a similar fruit. Homogeneous outflow. The two are co-arisen and associated. Fruit of efficacy. Efficacy is the activity a dharma performs. Called a person's activity by resemblance. Not exclusive. Distant crop is not settled.
 
 ## 4. Organon Reading
 
-Result-type is not list-order, and list-order is not time. Efficacy is not Puruṣa. Not the translation. Not the final pass.
+Last maturation, first predominance, homogeneous and pervasive outflow, two efficacy. Not exclusive. Efficacy is a figure, not Puruṣa. Distant crop is not settled.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. The figure is kept. The definitions are not opened.
-
-2.57 has not been opened.
+Fine-tuned with the kārikā. The assignment is principal, not exclusive.

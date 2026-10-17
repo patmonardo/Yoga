@@ -27,29 +27,17 @@
 
 ## 4. Grammar
 
-Others refuse the four matters of 2.01 as the establishment of the eye and ear. Avoidance of danger comes after cognition. Seeing visible form is not an operation other than visual cognition. So a separate governing efficacy as specific cause does not stand.
-
-The verse answers with a nearer predicate:
-
 ```text
-sva-artha-upalabdhi-ādhipatyāt
-    the five, because each governs apprehension of its own meaning
-
-sarvasya ca
-    mind, because it governs apprehension of all
-
-ṣaḍ indriyam
-    these six, each a faculty
-
-strītva-puṃstva-ādhipatyāt tu
-    but because they govern female-being and male-being
-
-kāyāt strī-puruṣa-indriye
-    the female and male faculties, from the body-faculty
-    a portion, not another entity
+% start S
+S[TYPE=faculty] -> NP[MODE=?m] VP[GOVERN=apprehension]
+NP[MODE=own-meaning] -> 'the five'
+NP[MODE=all] -> 'mind'
+NP[MODE=sex] -> 'female' | 'male'
+VP[GOVERN=apprehension] -> 'govern apprehension'
+S[TYPE=faculty] -> NP[MODE=sex] VP[FROM=body]
 ```
 
-Kāyāt is not a substance standing outside the body.
+`MODE` distinguishes own-meaning, all, and the sex-faculties. `FROM=body` unifies female/male with the body-faculty.
 
 ## 5. Translation
 
@@ -59,21 +47,11 @@ Because of governing efficacy in the apprehension of their own meaning, and of a
 
 ### Bhāṣya-informed study translation
 
-Others say the eye and ear do not preserve embodied existence by themselves, since danger is avoided after it has been cognized. Their governing efficacy concerns cognition. Seeing visible form and hearing sound are not something other than cognition, so a separate governing efficacy as specific cause does not fit. Faculty is not established in that way.
-
-The five beginning with the eye govern apprehension of their own meaning. Mind governs apprehension of all meanings. Each of these six is a faculty.
-
-The meanings do not thereby become faculties. Governing efficacy is superior power. The eye has the greater mastery in the apprehension of visible form: it is the common cause across that apprehension, and apprehension conforms to its sharpness, dullness, and the rest. Visible form does not. The reverse holds. The same through the series, up to mind in relation to dharmas.
-
-The female and male faculties are established separately from the body-faculty itself. They are not different entities. A portion of the body-faculty, the genital region, receives the name, because it governs female-being or male-being. Female-being is a woman's form, voice, movement, and intention. Male-being is a man's form, voice, movement, and intention.
+> The six are faculty by governing apprehension—five of their own meaning, mind of all. The female and male faculties are not further substances; they are the body-faculty named apart because they govern female-being and male-being.
 
 ## 6. Philosophical Translation
 
-The six are faculties because they govern apprehension. Five govern their own meaning. Mind governs all. The objector's remote consequence, preservation after cognition, is not the predicate. Female and male are not further substances. They are the body-faculty, named apart because they govern female-being and male-being.
-
-Organon rendering:
-
-Applied Indriya. The principles stay deposited. This verse applies the Rule to apprehension: one's own meaning is what the faculty governs, not an object-domain. Mind's all is the range of that rule, not a faculty that thinks. Female and male are a dharmic extension of the body-faculty, a portion governing a wider configuration. Defilement and purification remain the Kośa Path. Their controllers are the feeling-faculties and the eight. This verse does not yet name them.
+> Faculty here is governing apprehension. Female and male are the body-faculty under a further name.
 
 ## 7. Technical Vocabulary
 

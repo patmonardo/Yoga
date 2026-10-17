@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > pravṛtter āśrayotpattisthitipratyupabhogataḥ /
+>
 > caturdaśa tathānyāni nivṛtter indriyāṇi vā // 2.06 //
 
-> Or, as to support, arising, persistence, and experience of engagement, fourteen; likewise the others are faculties of withdrawal.
-
-The Bhāṣya marks an alternative and distributes both groups through the same four. The others are the remaining eight.
+> Or the same twenty-two under another order. Fourteen govern engagement through support, arising, persistence, and experience. Eight govern withdrawal in those same four places. Withdrawal is not bare absence; it has its own support, arising, persistence, and experience.
 
 ## 2. Continuous Sanskrit Witness
 

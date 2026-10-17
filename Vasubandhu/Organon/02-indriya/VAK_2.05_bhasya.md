@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > cittāśrayas tadvikalpaḥ sthitiḥ saṃkleśa eva ca /
+>
 > saṃbhāro vyavadānaṃ ca yāvatā tāvad indriyam // 2.05 //
 
-> Support of mind, its differentiation, persistence, and defilement; equipment and purification: as far as that, so far faculty.
-
-The verse answers an objection about scope. It does not add faculties.
+> Governing efficacy was the predicate. It is not the membership. Faculty extends exactly through these six functions and no further. Ignorance governs, and the action-powers govern. They are not in the count.
 
 ## 2. Continuous Sanskrit Witness
 

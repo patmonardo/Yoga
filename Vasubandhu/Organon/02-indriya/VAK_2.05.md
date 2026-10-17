@@ -29,34 +29,13 @@ Vikalpa here is female and male differentiation of the living basis. It is not c
 
 ## 4. Grammar
 
-The objection: if faculty follows from governing efficacy, add ignorance, and add speech, hand, foot, anus, and genital organ.
-
-The verse limits the count:
-
 ```text
-citta-āśraya
-    the six
-
-tad-vikalpa
-    female and male
-
-sthiti
-    life
-
-saṃkleśa
-    the five feelings
-
-saṃbhāra
-    the five, provision for purification
-
-vyavadāna
-    the three
-
-yāvatā tāvat indriyam
-    so far, and no supplementary inclusion
+% start S
+S[TYPE=faculty] -> Function[SIX=true]
+Function[SIX=true] -> Support | Differentiation | Persistence | Defilement | Equipment | Purification
 ```
 
-Iha, here, is the limit. Efficacy outside these six is not denied. It is not counted.
+Only the six functions carry `SIX=true`. Anything outside fails to unify.
 
 ## 5. Translation
 
@@ -66,17 +45,11 @@ Support of mind, its differentiation, persistence, and defilement; equipment and
 
 ### Bhāṣya-informed study translation
 
-If faculty followed from governing efficacy alone, ignorance and the rest would have to be added, since they govern formations and the rest. Speech, hand, foot, anus, and genital organ would have to be added, since they govern speaking, taking hold, moving about, excretion, and pleasure.
-
-They are not to be added. What is intended here is the verse. The six faculties are the support of mind. This sixfold āyatana is the fundamental constitution of a living being. Its female and male differentiation is by the female and male faculties. Its persistence is by the life-faculty. Its defilement is by the feelings. Provision for purification is by the five. Purification is by the three. Therefore ignorance and the rest are not accepted as faculties.
+> Governing efficacy was the predicate. It is not the membership. Faculty extends exactly through these six functions and no further. Ignorance governs, and the action-powers govern. They are not in the count.
 
 ## 6. Philosophical Translation
 
-Governing efficacy was the predicate. It is not the membership. Faculty extends exactly through six functions: support of mind, differentiation of that basis, persistence, defilement, equipment for purification, purification itself. Twenty-two fill those six. Ignorance governs, and the action-powers govern. They are not in the count.
-
-Organon rendering:
-
-The principle is the membership discriminator: these six, and no further. The rules are the six functions. The victim traverses only the path they define. Defilement and purification remain the Kośa Path. The five equip it. The three effect it. Not the verse English.
+> The six functions define the membership. Nothing outside them is faculty.
 
 ## 7. Technical Vocabulary
 

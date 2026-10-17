@@ -12,8 +12,6 @@
 >
 > saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān // 2.18 //
 
-The last subject takes its count from the next opening, aṣṭābhiḥ. That completion is marked. The eleven and thirteen are not this verse.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -32,31 +30,14 @@ The dual distributes four over two cases. It does not make pleasure and body one
 ## 4. Grammar
 
 ```text
-pleasure
-    → triad + pleasure
-    = 4
-body
-    → triad + body
-    = 4
-
-eye, ear, nose, tongue, each
-    → triad + body + that faculty
-    = 5
-
-gladness
-    → triad + pleasure + gladness
-    = 5
-
-pain
-    → body, life, mind, four feelings
-    = 7
-    distress not included
-
-female and so forth
-    → eight, from the next opening
+% start S
+S[POSSESS=4] -> Pleasure | Body
+S[POSSESS=5] -> Eye | Gladness
+S[POSSESS=7] -> Pain
+S[POSSESS=8] -> Female | FaithFive
 ```
 
-The predicate is necessarily possesses, carried from 2.17.
+The count is a feature determined by the possessed faculty.
 
 ## 5. Translation
 
@@ -66,23 +47,11 @@ With four, in the cases of pleasure and body. One possessing the eye and so fort
 
 ### Bhāṣya-informed study translation
 
-One possessing pleasure necessarily possesses four: the three beginning with neutral feeling, and pleasure. One possessing body, four: those three and body. One possessing the eye, five: neutral feeling, life, mind, body, and the eye. The same for ear, nose, and tongue.
-
-One possessing gladness, five: neutral feeling, life, mind, pleasure, and gladness. With which pleasure is one born in the second dhyāna, who has not attained the third, endowed? With an afflicted pleasure belonging to the third dhyāna.
-
-One possessing pain, seven: body, life, mind, and four feeling-faculties. Pain, pleasure, gladness, and neutral feeling. Not distress.
-
-One possessing the female faculty, eight: those seven and the female faculty. And so forth gathers male, distress, and those beginning with faith. Each of male and distress is eight on that seven. One possessing a faculty beginning with faith possesses the five together with neutral feeling, life, and mind. A different eight.
+> Possession is not uniform. Pleasure and body each require four. The eye and the rest, and gladness, require five. Pain requires seven. The female faculty and those gathered with it require eight. The five beginning with faith require a different eight. The necessary companions are fixed by the faculty possessed; there is no single rule for the remainder.
 
 ## 6. Philosophical Translation
 
-If this is possessed, what else must be. Pleasure and body each close on four, and not the same four. Eye and gladness each close on five, and not the same five. Pain closes on seven. Female, male, and distress close on that seven plus themselves. Faith and the rest close on the five plus the triad. Equal counts are not interchangeable sets.
-
-The second-dhyāna case keeps birth, attainment, and possession apart. Afflicted third-level pleasure can be possessed without the third dhyāna attained, and without pleasure manifest.
-
-Organon rendering:
-
-Membership under possession. The consequence of one member is a determinate set. Not activation, and not the non-reflective look-ahead. Not the verse English.
+> The necessary companions are fixed by the faculty possessed. There is no single rule for the remainder.
 
 ## 7. Technical Vocabulary
 

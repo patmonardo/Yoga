@@ -12,8 +12,6 @@
 >
 > kleśaiś caturbhiḥ krodhādyaiḥ kaukṛtyenaikaviṃśatiḥ // 2.29 //
 
-Desire-realm scope continues from 2.28. Kleśaiś caturbhiḥ and krodhādyaiḥ are two groups. Not four afflictions beginning with anger.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -32,20 +30,15 @@ The instrumentals distribute. Not one joint list.
 ## 4. Grammar
 
 ```text
-isolated unwholesome
-    10 universal + 6 afflicted + 2 unwholesome + vitarka, vicāra
-    = 20
-
-view-associated
-    the same twenty
-    view is a form of prajñā
-    count unchanged
-
-one of greed, hostility, conceit, doubt
-or one secondary beginning with anger
-or regret
-    = 21
+% start S
+S[ETHICAL=unwholesome, ISOLATED=true] -> Twenty
+S[ETHICAL=unwholesome, VIEW=true] -> Twenty
+S[ETHICAL=unwholesome, ADDED=?a] -> TwentyOne
+Twenty -> Universal[10] Afflicted[6] Unwholesome[2] Vitarka Vicara
 ```
+
+View specializes Discrimination; it does not add a member.  
+One added associate (four afflictions, secondary, or regret) increments the count.
 
 ## 5. Translation
 
@@ -55,17 +48,11 @@ But in isolated unwholesome consciousness, and in that associated with a view, t
 
 ### Bhāṣya-informed study translation
 
-In isolated unwholesome consciousness, twenty: the ten, the six, the two, vitarka, and vicāra. Isolated is a consciousness in which ignorance alone occurs, without another affliction such as attachment. Associated with a view, the same twenty. Should there not be twenty-one, the view being additional? No. A certain special form of prajñā, itself a universal great-ground factor, is called a view. Wrong view, attachment to views, or attachment to rules and observances.
-
-With one of the four, attachment, hostility, conceit, or doubt, twenty-one: that affliction and the twenty. With a secondary affliction beginning with anger, as previously stated, those twenty and that one. With regret, twenty-one. Regret itself is the twenty-first. In summary, isolated and view-associated, twenty. Associated with another affliction or secondary affliction, twenty-one.
+> In isolated unwholesome consciousness, and in that associated with a view, twenty. The view is a special form of prajñā, already counted among the universal factors. With one of the four afflictions, a secondary beginning with anger, or regret, twenty-one. Addition increments; specialization does not.
 
 ## 6. Philosophical Translation
 
-A new name is not a new factor. View is Discrimination in an unwholesome determination. Already counted. Greed, hostility, conceit, doubt, a secondary, and regret are distinct associates. They add one. Isolated is ignorance without another distinct affliction. It is not an empty consciousness. The other five of the afflicted six remain.
-
-Organon rendering:
-
-Mode against addition. Count after identity. Objective Logic on the mind is the pass, not the translation. Not the final pass.
+> Isolated is ignorance alone. View specializes Discrimination. One added associate changes the count. Different name is not different factor.
 
 ## 7. Technical Vocabulary
 
@@ -82,31 +69,18 @@ Not every view is unwholesome. The obscured-indeterminate views are the next uni
 
 ## 8. Logical Determination
 
-```text
-unwholesome base
-    = 10 + 6 + 2 + 2
-    = 20
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-isolated
-    = that base
-    no further distinct affliction
-
-view
-    = specialize Discrimination
-    = 20
-
-one added associate
-    = 21
-    not the four together
-    not the secondaries together
-
-specialization
-    → count unchanged
-addition
-    → count + 1
-different name
-    ≠ different factor
+base = lp.parse(r'all c.(Unwholesome(c) & (Isolated(c) | View(c)) -> Count(c,20))')
+added = lp.parse(r'all c.(AddedAssociate(c) -> Count(c,21))')
+view = lp.parse(r'View(x) -> SpecializationOf(x,Prajna)')
 ```
+
+Specialization leaves the count unchanged.  
+Addition increments it.  
+View is not a second factor.
 
 ## 9. Interpretive Note
 

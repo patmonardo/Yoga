@@ -12,8 +12,6 @@
 >
 > nirodhaś cittacaittānāṃ vipākaḥ te bṛhatphalāḥ // 2.41 //
 
-Sabhāgatā is same-class. The verse defines it as sameness among beings. Sāmānya, the universal, is the Vaiśeṣika comparison. Not this word.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -26,7 +24,18 @@ Sabhāgatā is same-class. The verse defines it as sameness among beings. Sāmā
 | vipākaḥ | maturation |
 | bṛhatphalāḥ | the Great Fruit gods |
 
-## 4. Translation
+## 4. Grammar
+
+```text
+% start S
+S[NAME=same-class] -> Sameness[AMONG=beings]
+S[NAME=non-reflective] -> Cessation[OF=citta-caitta, RESULT=maturation, REGION=GreatFruit]
+```
+
+Same-class is sameness among beings, not the Vaiśeṣika universal.  
+The non-reflective is cessation of consciousness and the mental factors, a maturation.
+
+## 5. Translation
 
 ### Literal Translation
 
@@ -34,17 +43,14 @@ Same-class is sameness among beings. The non-reflective among the non-reflective
 
 ### Bhāṣya-informed study translation
 
-Same-class, on the Vaibhāṣika account, is an entity: resemblance among beings. Undifferentiated, of all beings as beings. Differentiated, by realm, ground, destiny, birth, species, sex, discipline, and path-status. Without it, no undivided designation being. A sūtra says same-class with human beings. Said. Not said to be a distinct entity. Those formations, as constituted, take the designation. Not further explained. The Vaiśeṣika universal is one, in many. That is their difference. Not this word.
+> Same-class is sameness among beings. On the Vaibhāṣika account it is an entity; the sūtra says the word, not a distinct real. The formations as constituted take the designation. The non-reflective is cessation of consciousness and the mental factors, maturation of the attainment, a region of the Great Fruit. Reflective at birth and at death. Not unconscious.
 
-The non-reflective is the other formation. Maturation of the attainment. A region of the Great Fruit. Reflective at birth and at death. Ended by the arising of reflection. Like waking from a long sleep. Reborn in the desire realm.
+## 6. Philosophical Translation
 
-## 5. Philosophical Translation
+> Same-class is the dispute about a shared designation. The universal is the comparison. The non-reflective is the interval, not the nirodha of virodha.
 
-Same-class is the dispute about a shared designation. The universal is the comparison that makes the dispute visible. Flattening same-class into commonality made it the universal. The sūtra word does not decide the entity.
 
-The non-reflective stays the second formation. Not unconscious. This cessation is the interval. Not the nirodha of virodha.
-
-## 6. Review Status
+## 7. Review Status
 
 Running word corrected. Commonality withdrawn. The debate and the result stand as fine-tuned.
 

@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > kāme 'ṣṭadravyako 'śabdaḥ paramāṇur anindriyaḥ /
+>
 > kāyendriyī navadravyaḥ daśadravyo 'parendriyaḥ // 2.22 //
 
-> In the desire realm, a soundless minimal aggregate without a faculty has eight constituents. One possessing the body-faculty has nine. One possessing another faculty has ten.
-
-The commentary runs through the objections to 54.02. The transition at 54.03 is 2.23.
+> Distinct character does not imply separate arising. In the desire realm the soundless minimal aggregate without a faculty is eight: the four great elements and visible form, odor, taste, and the tangible. With the body-faculty it is nine. With another faculty it is ten. Sound adds one. The minimal aggregate is the smallest that still co-arises.
 
 ## 2. Continuous Sanskrit Witness
 

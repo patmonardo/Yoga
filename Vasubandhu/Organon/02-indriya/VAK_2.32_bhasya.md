@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > ahrīr agurutā avadye bhayādarśitvam atrapā /
+>
 > prema śraddhā gurutvaṃ hrīḥ te punaḥ kāmarūpayoḥ // 2.32 //
 
-> Shamelessness is lack of respect. Lack of moral caution is failure to see danger in the blameworthy. Affection is faith. Respect is moral shame. Those, further, in the desire and form realms.
-
-The commentary qualifies the formulas, records alternatives, and restricts the final pair to person-directed forms.
+> Shamelessness is lack of respect. Lack of moral caution is failure to see danger in the blameworthy. Affection is the person-directed form of faith; respect is the person-directed form of moral shame. Those occur in the desire and form realms, not the formless. Identity is claimed; alternatives are recorded.
 
 ## 2. Continuous Sanskrit Witness
 

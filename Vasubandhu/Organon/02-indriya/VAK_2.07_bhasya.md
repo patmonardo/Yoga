@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > duḥkhendriyam aśātā yā kāyikī vedanā sukham /
+>
 > śātā dhyāne tṛtīye tu caitasī sā sukhendriyam // 2.07 //
 
-> The pain-faculty is whichever bodily feeling is disagreeable. Pleasure is agreeable. But in the third dhyāna, that, mental, is the pleasure-faculty.
-
-The Bhāṣya supplies bodily feeling with sukham śātā, and the reason the third-dhyāna feeling is mental.
+> Pain is disagreeable bodily feeling. Pleasure is agreeable bodily feeling. The exception is narrow: in the third dhyāna the five cognition-groups are absent, so agreeable mental feeling takes the pleasure-faculty. Mental feeling is not thereby bodily.
 
 ## 2. Continuous Sanskrit Witness
 

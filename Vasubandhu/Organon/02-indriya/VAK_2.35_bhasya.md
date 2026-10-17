@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > viprayuktās tu saṃskārāḥ prāptyaprāptī sabhāgatā /
+>
 > āsaṃjñikaṃ samāpattī jīvitaṃ lakṣaṇāni ca // 2.35 //
 
-> The dissociated formations, now: acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, and the marks.
-
-The opening of the next verse completes the list. The inquiry into acquisition does not belong here.
+> The dissociated formations are acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, the marks, and the groups of names and so forth. They are called dissociated because they are not associated with consciousness and are not form. They remain formations. The members are named, not defined.
 
 ## 2. Continuous Sanskrit Witness
 

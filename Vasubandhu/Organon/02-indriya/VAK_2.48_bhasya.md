@@ -1,28 +1,35 @@
-# VAK_2.48 Bhāṣya — Result-Sort
+# VAK_2.48 Bhāṣya — Same-Class and the Close
 
 ## 1. Kārikā Anchor
 
 > sabhāgatā sā tu punar vipāko 'py āptayo dvidhā /
+>
 > lakṣaṇāni ca niḥṣyandāḥ samāpatty-asamanvayāḥ // 2.48 //
 
-> Same-class, that however is further also maturation. Acquisitions are twofold, and the marks. Homogeneous outflows: the attainments and non-acquisition.
+> Same-class shares the classifications of the groups of names, and is also maturation. Acquisition is twofold, homogeneous outflow or maturation. The marks likewise. The two attainments and non-acquisition are homogeneous outflows only. The dissociated formations have been explained. Causes and conditions are the next question.
 
-Cited at 82.09–15. Closes at 82.18. The question of causes is 82.19. Not opened.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> sabhāgatā sā tu punar vipāko 'pi /
+> na kevalaṃ naiḥṣyandikī kāmarūpārūpyāvacarī /
+> āptayo dvidhā /
+> prāptayo naiḥṣyandikyo vipākajāś ca /
+> lakṣaṇāni ca /
+> dvidheti vartate prāptivat /
+> niḥṣyandāḥ samāpattyasamanvayāḥ // 2.48 //
+> dve acittasamāpattī asamanvāgamaś ca naiḥṣyandikā eva /
+> uktā viprayuktāḥ //
+
+The unit is printed 82.09–82.18 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+
+## 3. Continuous Conventional Translation
 
 Same-class shares the classifications of the groups of names, and is also maturation. Acquisition is twofold. The marks are twofold. Homogeneous outflow or maturation. The two attainments and non-acquisition are homogeneous outflows only. The dissociated formations have been explained. Causes and conditions are the next question.
 
-## 3. Movement and Voice
-
-A sort, not a new definition. The exclusive outflow is the last members only. It does not erase the twofold of the others.
-
 ## 4. Organon Reading
 
-Continuity in kind is not karmic maturation. The attainment is not its result. Causality for the Agent is the section that answers the question this verse only asks. The Transcendental contains the schema of the Ordinary. That dyad is Fichte:Hegel. Not the translation. Not the final pass.
+Same-class is also maturation. Acquisition and marks are twofold. The two attainments and non-acquisition are homogeneous outflow only. The dissociated formations close. Causes and conditions are the next question.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Same-class kept. Commonality withdrawn. Stopped before the causes.
-
-2.49 has not been opened.
+Fine-tuned with the kārikā. The chapter closes. Causes and conditions are not opened.

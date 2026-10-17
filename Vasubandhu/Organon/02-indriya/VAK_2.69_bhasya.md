@@ -1,26 +1,36 @@
-# VAK_2.69 Bhāṣya — A Count That Changes Members
+# VAK_2.69 Bhāṣya — Form Obscured and Unobscured
 
 ## 1. Kārikā Anchor
 
-> aṣṭābhyo nivṛtaṃ tasmāt ṣaṭ tribhyo 'nivṛtaṃ punaḥ /
-> tasmāt ṣaḍ evam ārūpye tasya nītiḥ śubhāt punaḥ // 2.69 //
+> nivṛtād aṣṭābhyaḥ tasmāt ṣaṭ /
+>
+> anivṛtaṃ tu tribhyaḥ tasmāt ṣaṭ /
+>
+> tasya niyamaḥ tathā ārūpye /
+>
+> śubhāt punaḥ // 2.69 //
 
-> Obscured from eight. From it, six. Unobscured, in turn, from three. From it, six. Its rule, thus, in the formless. From wholesome, however—
+> Form obscured follows eight, followed by six. Form unobscured follows three, followed by six. Same pattern in formless. From wholesome, however—
 
-From 104.22 through 105.07. The unfinished phrase is 2.70.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> nivṛtād aṣṭābhyaḥ /
+> tasmāt ṣaṭ /
+> anivṛtaṃ tu tribhyaḥ /
+> tasmāt ṣaṭ /
+> tasya niyamaḥ tathā ārūpye /
+> śubhāt punaḥ // 2.69 //
 
-Form obscured follows eight and is followed by six. Form unobscured follows three of its level and is followed by six. Formless unobscured has the same pattern, with its own members. From wholesome, however, is not this rule.
+The unit is printed 104.26–105.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-Two form kinds, then the carry, then an opening. Not a collation.
+Form obscured follows eight, setting aside the two afflicted desire kinds and trainee and beyond-training. Six follow: the three of its level, and the desire kinds except unobscured-indeterminate. Form unobscured follows only the three of its level. Six follow: those three, the two afflicted desire kinds, and formless obscured. The same pattern in the formless: three of its level in, six out — its three, the afflicted of the lower realms.
 
 ## 4. Organon Reading
 
-Same numbers, different sets. Not the translation. Not the final pass.
+Form obscured follows eight, followed by six. Form unobscured follows three, followed by six. Same pattern in formless. From wholesome, however—
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. The cross-verse clause is left open.
+Fine-tuned with the kārikā. Same pattern in formless.

@@ -12,8 +12,6 @@
 >
 > rūpīṇi jīvitaṃ duḥkhe sāsravāṇi dvidhā nava // 2.9 //
 
-The research witness separates trīṇi amalam. External sandhi could give trīṇy amalam. The witness is kept.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -33,25 +31,16 @@ Duḥkhe is dual, not locative. Pain and distress.
 ## 4. Grammar
 
 ```text
-the same nine
-    on seeing
-        → I shall know what is not known
-    on cultivation
-        → the knowledge-faculty
-    on no-more-training
-        → one who has known
-
-amalaṃ trayam
-    → the triad is without outflows
-
-rūpīṇi, jīvitam, duḥkhe
-    → exclusively with outflows
-
-dvidhā nava
-    → the same nine, either way
+% start S
+S[NAME=?n, PATH=?p] -> Nine[PATH=?p]
+Nine[PATH=seeing] -> 'I shall know'
+Nine[PATH=cultivation] -> 'knowledge-faculty'
+Nine[PATH=no-more-training] -> 'one who has known'
+S[OUTFLOW=without] -> Triad
+S[OUTFLOW=with] -> Form | Life | Painful
 ```
 
-Three exclusively without outflows, ten exclusively with, nine either. Twenty-two.
+Path names the nine. Outflow status is a separate feature.
 
 ## 5. Translation
 
@@ -61,21 +50,11 @@ On the paths of seeing, cultivation, and no-more-training, the nine are the thre
 
 ### Bhāṣya-informed study translation
 
-The nine are mind, pleasure, gladness, neutral feeling, and the five beginning with faith. On the three paths they are called three faculties. On seeing, “I shall know what has not been known.” On cultivation, the knowledge-faculty. On no-more-training, the faculty of one who has known.
-
-On seeing, one is engaged in knowing what has not been known. On cultivation there is nothing unprecedented to know. One knows that same thing in order to abandon the remaining latent afflictions. On no-more-training, the ascertainment “it has been known” is ājñātāva. One who has that is ājñātāvin. Or the name is a disposition to preserve what has been known, from attaining the knowledges of exhaustion and non-arising. Suffering has been fully known by me. It is not to be fully known again.
-
-The triad just named is stainless, meaning without outflows. Stain is another name for outflow. The seven possessing form — eye, ear, nose, tongue, body, female, male, included in the form aggregate — life, pain, and distress are exclusively with outflows. The nine are both.
-
-Some say the five beginning with faith are exclusively without outflows, from the sūtra on one in whom they are altogether absent. That does not establish it. The statement concerns the faculties without outflows, after the noble persons have been set out. Or it concerns the outsider whose wholesome roots are severed. A sūtra before the Wheel was set turning already speaks of sharp, middling, and weak faculties. And the five are examined as to arising, disappearance, gratification, danger, and escape. That is not how dharmas without outflows are examined.
+> The three are not three further items. They are the same nine, named by the path-task. The triad is stainless. Those possessing form, life, and the two painful faculties are with outflows. Nine, as types, can be either.
 
 ## 6. Philosophical Translation
 
-The three are not three further items beside the twenty-two. They are the same nine, named by the path-task. Seeing knows what had not been known. Cultivation knows that same thing against the remaining latent afflictions. No-more-training ascertains that it has been known. The triad is stainless. The nine, as types, can be either. A name does not settle the instance.
-
-Organon rendering:
-
-The net coordinates nine jewels into three path-names. The configuration is stainless. The jewels remain twofold. Faith and the rest are not stainless by name. Pure is not this cut. Not the verse English.
+> A name does not settle the instance. The nine remain twofold.
 
 ## 7. Technical Vocabulary
 

@@ -12,8 +12,6 @@
 >
 > daurmanasyāc ca tattv ekaṃ savipākaṃ daśa dvidhā // 2.10 //
 
-Tattvekam is tat tu ekam. The consonant of tat assimilates before tu.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -33,24 +31,13 @@ Vipāka is what the present instance is. Savipāka is what it produces. The two 
 ## 4. Grammar
 
 ```text
-life
-    → maturation
-    qualified: concentration-generated life is not
-
-twelve, apart from the final eight and distress
-    → either maturation or not
-    seven of form, mind, pain, pleasure, gladness, neutral feeling
-
-distress
-    → never maturation
-    → that one alone always produces maturation
-
-ten
-    → either produce maturation or not
-    mind, the other four feelings, the five beginning with faith
+% start S
+S[IS=maturation] -> Life[EXCEPT=concentration]
+S[HAS=maturation-result, ALWAYS=true] -> Distress
+S[IS=?i, HAS=?h] -> Twelve
 ```
 
-Tu is only, and stands out of metrical place.
+`IS` and `HAS` are distinct features. Distress unifies only with `HAS`.
 
 ## 5. Translation
 
@@ -60,21 +47,11 @@ Life is maturation. Twelve are twofold, apart from the final eight and distress.
 
 ### Bhāṣya-informed study translation
 
-Life is maturation. The qualification follows. When an arhat sustains the lifespan-formations by the prāntakoṭika fourth dhyāna, that life-faculty is not maturation. Life other than that is. The explanation adopted here is that concentration turns aside the impetus born of prior action and projects an impetus born of concentration.
-
-Twelve, excluding the final eight and distress, are both maturation and not. Of the seven beginning with the eye, those from development are not maturation. The rest are. Mind and the four feelings other than distress, when wholesome or afflicted, are not maturation. Neither are the instances tied to deportment, craft, or magical creation. The rest are.
-
-Distress is not maturation. The sūtra of three actions, to be experienced as gladness, distress, or neutral feeling, is read as experience through association, not as maturation. Distress arises and is calmed by particular conceptual construction. Maturation is not like that. The Vaibhāṣikas conclude it is never maturation. It does not occur in those free from attachment, and maturation is not excluded that way.
-
-That one alone, distress, always has maturation as its result. It is not indeterminate, and it is not without outflows, because it is not concentrated. Ten are twofold: mind, the feelings other than distress, and the five beginning with faith. Wholesome with outflows, or unwholesome, they produce maturation. Without outflows, or indeterminate, they do not. The rest produce none.
+> What the instance is, and what it produces, are separate. Life is received maturation, except the life concentration projects. Distress is never received. It is produced and calmed by present construction, yet always produces future maturation. Ten can either produce it or not.
 
 ## 6. Philosophical Translation
 
-What the instance is, and what it produces, are separate. Life is received maturation, except the life concentration projects. Distress is never received. It is produced and calmed by present construction. That same distress always produces future maturation. Non-inheritance is not causal innocence.
-
-Organon rendering:
-
-Two directions on one jewel. Incoming is vipāka. Outgoing is savipāka. Distress sits on neither side the same way. The received English that says karmic for both is the English not accepted. Not the verse English.
+> Incoming is vipāka. Outgoing is savipāka. Distress sits on neither side the same way.
 
 ## 7. Technical Vocabulary
 

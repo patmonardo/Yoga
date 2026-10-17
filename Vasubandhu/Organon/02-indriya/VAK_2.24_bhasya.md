@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > vedanā cetanā saṃjñā cchandaḥ sparśo matiḥ smṛtiḥ /
+>
 > manaskāro 'dhimokṣaś ca samādhiḥ sarvacetasi // 2.24 //
 
-> Feeling, volition, reflection, wish to perform, contact, Discrimination, mindfulness, attention, resolution, and concentration, in every consciousness.
-
-The question was which factors have every consciousness as their ground. The commentary defines the ten and closes on the difficulty of discriminating them.
+> These ten are present together in every moment of consciousness. Feeling is experience, volition is mental action, reflection is take-up of the mark, contact is the touching born of faculty, meaning, and cognition, Discrimination is prajñā. The distinction of consciousness and factors is subtle, harder in moments than in streams.
 
 ## 2. Continuous Sanskrit Witness
 

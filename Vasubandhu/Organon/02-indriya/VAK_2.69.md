@@ -1,42 +1,52 @@
-# VAK_2.69 — A Count That Changes Members
+# VAK_2.69 — Form Obscured and Unobscured
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अष्टाभ्यो निवृतं तस्मात्षट् त्रिभ्योऽनिवृतं पुनः ।
->
-> तस्मात्षडेवमारूप्ये तस्य नीतिः शुभात्पुनः ॥ २.६९ ॥
+> निवृतात् अष्टाभ्यः तस्मात् षट् /
+> अनिवृतं तु त्रिभ्यः तस्मात् षट् /
+> तस्य नियमः तथा अरूप्ये /
+> शुभात् पुनः // २.६९ //
 
 ## 2. Sanskrit (IAST)
 
-> aṣṭābhyo nivṛtaṃ tasmāt ṣaṭ tribhyo 'nivṛtaṃ punaḥ /
+> nivṛtād aṣṭābhyaḥ tasmāt ṣaṭ /
 >
-> tasmāt ṣaḍ evam ārūpye tasya nītiḥ śubhāt punaḥ // 2.69 //
-
-Evam is thus, not only. The rule carried over is the unobscured three and six. The last phrase is unfinished. Completed in 2.70.
+> anivṛtaṃ tu tribhyaḥ tasmāt ṣaṭ /
+>
+> tasya niyamaḥ tathā ārūpye /
+>
+> śubhāt punaḥ // 2.69 //
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| aṣṭābhyaḥ nivṛtam | obscured, from eight |
-| tasmāt ṣaṭ | from it, six |
-| tribhyaḥ anivṛtam | unobscured, from three |
-| evam ārūpye tasya nītiḥ | its rule, thus, in the formless |
-| śubhāt punaḥ | from wholesome, however |
+| Pada | Morphology | Force |
+|---|---|---|
+| nivṛtāt | abl. sg. | From obscured. |
+| aṣṭābhyaḥ | abl. pl. | From eight. |
+| tasmāt | abl. sg. | From that. |
+| ṣaṭ | num. | Six. |
+| anivṛtam | adj. | Unobscured. |
+| tu | pcl. | However. |
+| tribhyaḥ | abl. pl. | From three. |
+| niyamaḥ | m. sg. | Rule. |
+| tathā | adv. | Thus. |
+| ārūpye | loc. sg. | In the formless. |
+| śubhāt | abl. sg. | From wholesome. |
+| punaḥ | adv. | However. |
 
 ## 4. Grammar
 
 ```text
-form obscured
-    8 in, 6 out
-form unobscured
-    3 in, 6 out
-formless unobscured
-    the same pattern
-    not the same members
-formless wholesome
-    opened, not closed
+% start S
+S[SUCCESSION=form-obscured] -> Follows[EIGHT=true] | FollowedBy[SIX=true]
+S[SUCCESSION=form-unobscured] -> Follows[THREE=true] | FollowedBy[SIX=true]
+S[SUCCESSION=formless] -> SamePattern
 ```
+
+Form obscured follows eight, followed by six.  
+Form unobscured follows three, followed by six.  
+Same pattern in formless.  
+From wholesome, however—
 
 ## 5. Translation
 
@@ -46,46 +56,32 @@ Obscured from eight. From it, six. Unobscured, in turn, from three. From it, six
 
 ### Bhāṣya-informed study translation
 
-Form obscured follows eight, setting aside the two afflicted desire kinds and trainee and beyond-training. Six follow: the three of its level, and the desire kinds except unobscured-indeterminate.
-
-Form unobscured follows only the three of its level. Six follow: those three, the two afflicted desire kinds, and formless obscured. The same pattern in the formless: three of its level in, six out — its three, the afflicted of the lower realms.
+> Form obscured follows eight, followed by six. Form unobscured follows three, followed by six. Same pattern in formless. From wholesome, however—
 
 ## 6. Philosophical Translation
 
-A repeated count is not a repeated set. Form unobscured is followed by formless obscured. Formless unobscured is followed by form obscured. The eight and six of the obscured kind do not carry over.
-
-Organon rendering:
-
-The rule is reapplied. The members are specified again. Not the verse. Not the final pass.
+> Form obscured follows eight, followed by six. Form unobscured follows three, followed by six. Same pattern in formless. From wholesome, however—
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Running word | Determination |
-|---|---|---|
-| nīti | rule | the unobscured pattern |
-| svabhūmika | own level | the three of that realm |
+| Term | Rendering |
+|---|---|
+| nivṛta | Obscured. |
+| anivṛta | Unobscured. |
+| niyama | Rule. |
 
 ## 8. Logical Determination
 
-```text
-form obscured
-    8 in, 6 out
-form unobscured
-    3 in, 6 out
-formless unobscured
-    3 in, 6 out
-    members differ
-```
+Form obscured follows eight, followed by six. Form unobscured follows three, followed by six. Same pattern in formless.
 
 ## 9. Interpretive Note
 
-The wholesome formless count is the next verse.
+Form obscured follows eight, followed by six. Form unobscured follows three, followed by six. Same pattern in formless. From wholesome, however—
 
 ## 10. OWL++ Seed
 
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-
-vak:VAK_2_69 a vak:Karika ; vak:hasTopic vak:RepeatedCount .
-vak:SameCount vak:sameMembers false .
+```turtle
+:FormObscured :follows 8 ; :followedBy 6 .
+:FormUnobscured :follows 3 ; :followedBy 6 .
+:Formless :samePattern true .
 ```

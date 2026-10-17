@@ -12,8 +12,6 @@
 >
 > prema śraddhā gurutvaṃ hrīḥ te punaḥ kāmarūpayoḥ // 2.32 //
 
-The source labels this the first of two consecutive 2.33. The sequence here is 2.32. The duplicate is not reproduced.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -34,23 +32,16 @@ The verse equates. The commentary qualifies.
 ## 4. Grammar
 
 ```text
-shamelessness
-    = lack of respect
-
-lack of moral caution
-    = failure to see danger in the blameworthy
-
-affection
-    = faith
-
-respect
-    = moral shame
-
-those
-    in desire and form
-    not the formless
-    person-directed forms
+% start S
+S[NAME=shamelessness] -> LackOfRespect
+S[NAME=lack-of-caution] -> FailureToSeeDanger
+S[NAME=affection] -> Faith[PERSON=true]
+S[NAME=respect] -> MoralShame[PERSON=true]
+S[REALM=desire|form] -> Affection Respect
 ```
+
+Affection and respect are person-directed forms of faith and moral shame.  
+They do not unify with the formless.
 
 ## 5. Translation
 
@@ -60,25 +51,11 @@ Shamelessness is lack of respect. Lack of moral caution is failure to see danger
 
 ### Bhāṣya-informed study translation
 
-Distinctions among certain mental factors are now stated. Shamelessness is lack of respect: absence of reverence toward qualities and those who have them, non-acknowledgment of authority, opposed to respect. Lack of moral caution is failure to see danger in the blameworthy. The blameworthy is what good persons condemn. Danger is an undesirable result.
-
-Seeing an absence of danger would be prajñā. Not seeing danger would be ignorance. The disposition is neither simply seeing nor simply not seeing. The secondary affliction that occasions either is lack of moral caution.
-
-Others say shamelessness is being unashamed of faults with reference to oneself, and lack of moral caution with reference to others. Not both references at once. A lack of shame that operates even when one considers oneself is shamelessness. One that operates when one considers another is lack of moral caution. Moral shame and moral caution by reversing these. On the first account, respect and acknowledgment of authority, and seeing danger in the blameworthy. On the second, shame with reference to oneself and to others. The reversal is damaged.
-
-Affection is twofold, afflicted and unafflicted. Afflicted is craving, as toward children and spouse. Unafflicted is faith toward the Teacher, preceptors, and those endowed with qualities. Faith without affection: directed toward suffering and its origin. Affection without faith: afflicted affection. Both: faith directed toward cessation and the path. Among persons, affection without respect toward children, spouse, companions, and pupils. Respect without affection toward other teachers. Both toward one's own teacher. Faith is esteem for qualities. Affection is fondness preceded by that esteem. Others say affection is not identical with faith. Respect is acknowledgment of authority. Moral shame is shame preceded by that acknowledgment. Others say respect is not identical with moral shame.
-
-Affection and respect do not occur in the formless realm. Faith and moral shame do, being wholesome great-ground factors. Faith is twofold, toward dharmas and toward persons. So is acknowledgment of authority. The person-directed forms do not occur there. Those are what is intended here by affection and respect.
+> Shamelessness is lack of respect. Lack of moral caution is failure to see danger in the blameworthy. Affection is the person-directed form of faith; respect is the person-directed form of moral shame. Those occur in the desire and form realms, not the formless. Identity is claimed; alternatives are recorded.
 
 ## 6. Philosophical Translation
 
-The verse equates. The commentary tests. Lack of moral caution is not Discrimination and not ignorance. It occasions those presentations. Self and other are two accounts, not one settled equation. Faith can precede affection. Respect can precede moral shame. Others refuse the identity. The voices stay.
-
-Person-directed forms stop at the formless. Dharma-directed faith and moral shame remain. Absence of the directed form is not absence of the factor.
-
-Organon rendering:
-
-Relation is not identity. Objective Logic on the mind is the pass, not the translation. Not the final pass.
+> The formulas identify. The alternatives refuse identity. Affection and respect are the person-directed forms; they do not reach the formless.
 
 ## 7. Technical Vocabulary
 

@@ -12,8 +12,6 @@
 >
 > akliṣṭāvyākṛtāprāptiḥ sātītājātayos tridhā // 2.39 //
 
-The first half continues the rule of 2.38. The second opens non-acquisition. The boundary is kept, not renumbered. Akliṣṭāvyākṛtāprāptiḥ divides as unobscured-indeterminate non-acquisition. Not a positive acquisition.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -30,18 +28,16 @@ Not-yet-arisen is future. Unobscured and indeterminate are two axes.
 ## 4. Grammar
 
 ```text
-obscured-indeterminate manifest form
-    acquisition co-arisen only
-desire-realm form, manifest and nonmanifest
-    not prior
-    co-arisen and subsequent admitted
-non-acquisition
-    always unobscured-indeterminate
-past and future dharmas
-    non-acquisition past, present, or future
-present
-    the gloss at 66.04 is damaged
+% start S
+S[FORM=obscured-indeterminate, MANIFEST=true] -> Acquisition[COARISE=true]
+S[FORM=desire] -> Acquisition[PRIOR=false, COARISE=true, SUBSEQUENT=true]
+S[NAME=non-acquisition] -> UnobscuredIndeterminate
+S[TIME=past|future] -> NonAcquisition[TIME=past|present|future]
 ```
+
+Obscured form is co-arisen only.  
+Desire-realm form admits co-arisen and subsequent, not prior.  
+Non-acquisition is always unobscured-indeterminate.
 
 ## 5. Translation
 
@@ -51,19 +47,11 @@ Of obscured form also. Of form in the desire realm, not prior-arisen. Non-acquis
 
 ### Bhāṣya-informed study translation
 
-Acquisition of obscured-indeterminate manifest form arises only with that form. Desire-realm form has no acquisition before it occurs. Co-arisen and subsequent acquisition are admitted. Non-acquisition is always unobscured and indeterminate. It does not inherit the class of what is not possessed. On the provisional reading of the damaged gloss, non-acquisition of a present dharma is present only. Of a past or future dharma, past, present, or future.
-
-Nāratyaprāptiḥ is defective. Present-only is the reading taken. A denial of non-acquisition is the alternative, and is not adopted. Not a collation.
+> Acquisition of obscured-indeterminate manifest form is co-arisen only. Desire-realm form has no prior acquisition; co-arisen and subsequent are admitted. Non-acquisition is always unobscured-indeterminate. Of past and future dharmas it is threefold. Of a present dharma, present only, on the provisional reading.
 
 ## 6. Philosophical Translation
 
-Possession cannot precede every determination. Obscured manifest form leaves no credit before or after. Desire-realm form leaves a retained credit, and no advance credit. Reach is strength and history, not ethical class alone.
-
-Non-acquisition is typed. Not an indifferent nothing, and not a timeless false. Not a negative substance. The dispute of 2.36 still stands.
-
-Organon rendering:
-
-Fail, inside the range, is this typed negative. Not the verse. Not the final pass.
+> Non-acquisition does not inherit the class of what is not possessed. Prior acquisition is refused for desire-realm form. The present-only reading is provisional.
 
 ## 7. Technical Vocabulary
 

@@ -12,8 +12,6 @@
 >
 > middhaṃ sarvāvirodhitvād yatra syād adhikaṃ hi tat // 2.30 //
 
-Anyatra is the indeterminate other than the obscured. Not elsewhere in general.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -34,19 +32,16 @@ Indeterminate is karmic. Not the unfixed of 2.27. Torpor is not sluggishness.
 ## 4. Grammar
 
 ```text
-obscured-indeterminate
-    10 universal + 6 afflicted + vitarka, vicāra
-    = 18
-    view does not add
-
-unobscured-indeterminate
-    10 + vitarka, vicāra
-    = 12
-
-torpor
-    compatible with wholesome, unwholesome, indeterminate
-    additional wherever it occurs
+% start S
+S[ETHICAL=obscured-indeterminate] -> Eighteen
+S[ETHICAL=unobscured-indeterminate] -> Twelve
+S[TORPOR=true] -> Count[BASE=?b, PLUS=1]
+Eighteen -> Universal[10] Afflicted[6] Vitarka Vicara
+Twelve -> Universal[10] Vitarka Vicara
 ```
+
+View does not add.  
+Torpor is compatible with all three ethical classes and increments wherever it occurs.
 
 ## 5. Translation
 
@@ -56,21 +51,11 @@ In the obscured, eighteen. In the other indeterminate, twelve are accepted. Beca
 
 ### Bhāṣya-informed study translation
 
-In the desire realm, consciousness associated with the view of a self in the personal aggregate, or with a view grasping an extreme, is obscured-indeterminate. Eighteen: the ten, the six, vitarka, and vicāra. As before, the view is not an addition. The indeterminate other than the obscured is the unobscured-indeterminate. Twelve are accepted: the ten, vitarka, and vicāra. Teachers of the outer regions also accept indeterminate regret. On their account, thirteen.
-
-Torpor is not incompatible with the factors already stated, since it can be wholesome, unwholesome, or indeterminate. Wherever it occurs, additional. Where twenty-two, twenty-three. Where twenty-three, twenty-four. And so forth.
+> In obscured-indeterminate consciousness, eighteen. The view does not add. In the other indeterminate, twelve. Torpor is compatible with wholesome, unwholesome, and indeterminate, and is additional wherever it occurs. Compatibility is not presence.
 
 ## 6. Philosophical Translation
 
-Indeterminate is not unstructured. Obscured keeps the afflicted six and drops the unwholesome two. Unobscured drops the six and does not take the wholesome ten. Afflicted and unwholesome stay apart. Wholesome and unobscured stay apart.
-
-The two views are forms of Discrimination, as before. Present, not a nineteenth. The outer-region thirteen is regret, and it stays attributed. Torpor's thirteen on the twelve is a different thirteen.
-
-Compatible is not present. The count rises where torpor occurs. Eighteen becoming nineteen, and twelve becoming thirteen, are applications of the rule. The prose states twenty-two and twenty-three.
-
-Organon reading:
-
-Possibility is not the event. Objective Logic on the mind is the pass, not the translation. Not the final pass.
+> Obscured and unobscured are two indeterminate classes. View specializes. Torpor increments; it does not redefine the base.
 
 ## 7. Technical Vocabulary
 
@@ -86,34 +71,18 @@ Possibility is not the event. Objective Logic on the mind is the pass, not the t
 
 ## 8. Logical Determination
 
-```text
-obscured
-    = 10 + 6 + 2
-    = 18
-view
-    = specialize Discrimination
-    = 18
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-unobscured
-    = 10 + 2
-    = 12
-
-outer-region regret
-    = 13
-    attributed
-
-torpor occurs
-    → count + 1
-torpor compatible
-    ↛ torpor present
-
-22 → 23, 23 → 24
-    stated
-18 → 19, 12 → 13
-    applications, not the prose's examples
-thirteen by torpor
-    ≠ thirteen by regret
+obscured = lp.parse(r'all c.(ObscuredIndeterminate(c) -> Count(c,18))')
+unobscured = lp.parse(r'all c.(UnobscuredIndeterminate(c) -> Count(c,12))')
+torpor = lp.parse(r'all c.(Torpor(c) -> Count(c,base+1))')
 ```
+
+View does not add.  
+Torpor is compatible with all three; compatibility is not presence.  
+The increment is local.
 
 ## 9. Interpretive Note
 

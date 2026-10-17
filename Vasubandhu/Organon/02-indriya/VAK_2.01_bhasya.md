@@ -3,13 +3,10 @@
 ## 1. Kārikā Anchor
 
 > caturṣv artheṣu pañcānām ādhipatyaṃ dvayoḥ kila /
+>
 > caturṇāṃ pañcakasyāṣṭānāṃ saṃkleśavyavadānayoḥ // 2.01 //
 
-> Of the five, governing efficacy with respect to four meanings; of the four, indeed, with respect to two; of the fivefold and of the eight, with respect to defilement and purification.
-
-The Bhāṣya identifies the groups and supplies the distributive force: each of the first five governs four meanings, and each of the following four governs two. Here dvayoḥ is locative, continuing artheṣu. It does not introduce an additional group of two faculties.
-
-The research witness compresses pañcakāṣṭānām. The kārikā study expands it to pañcakasyāṣṭānām, because the prose distinguishes the fivefold group from the eight. The anchor follows the study.
+> The five govern four meanings of embodied life and disclosure; the four govern distinction and continuity; the fivefold group governs defilement and the eight govern purification. Faculty is governing efficacy, not the items themselves.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -12,8 +12,6 @@
 >
 > kāyendriyī navadravyaḥ daśadravyo 'parendriyaḥ // 2.22 //
 
-Paramāṇu here is the most subtle material aggregate. Not a solitary particle.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -33,25 +31,16 @@ Dravya counts constituents in a co-arising aggregate. Not substance.
 ## 4. Grammar
 
 ```text
-desire realm, no sound, no faculty
-    four great elements
-    visible form, odor, taste, tangible
-    = 8
-
-body-faculty
-    those eight + body
-    = 9
-
-another faculty
-    those nine + one of eye, ear, nose, tongue
-    = 10
-
-with sound
-    each count + 1
-    = 9, 10, 11
+% start S
+S[REALM=desire, SOUND=false, FACULTY=none] -> Aggregate[COUNT=8]
+S[REALM=desire, SOUND=false, FACULTY=body] -> Aggregate[COUNT=9]
+S[REALM=desire, SOUND=false, FACULTY=other] -> Aggregate[COUNT=10]
+S[REALM=desire, SOUND=true] -> Aggregate[COUNT=?c+1]
+Aggregate[COUNT=8] -> Elements[4] Derived[visible,odor,taste,tangible]
 ```
 
-Another faculty is one of the four. Not any of the twenty-two.
+`FACULTY=other` unifies only with one of eye, ear, nose, tongue.  
+Sound adds one. The minimal aggregate is the base that cannot be smaller.
 
 ## 5. Translation
 
@@ -61,17 +50,11 @@ In the desire realm, a soundless minimal aggregate without a faculty consists of
 
 ### Bhāṣya-informed study translation
 
-Do conditioned dharmas, distinct in character, also arise separately, or do some necessarily arise together? Some do. Five classes: form, mind, mental factors, formations dissociated from mind, and the unconditioned. The unconditioned does not arise. For form, this rule.
-
-In the desire realm, without sound and without a faculty, the minimal aggregate arises with eight, lacking none: four great elements, and visible form, odor, taste, and the tangible. With the body-faculty, nine: those eight and the body-faculty. With another faculty, ten: those nine and one of eye, ear, nose, and tongue. With sound, nine, ten, and eleven. There is sound inseparable from a faculty, caused by appropriated great elements.
+> Distinct character does not imply separate arising. In the desire realm the soundless minimal aggregate without a faculty is eight: the four great elements and visible form, odor, taste, and the tangible. With the body-faculty it is nine. With another faculty it is ten. Sound adds one. The minimal aggregate is the smallest that still co-arises.
 
 ## 6. Philosophical Translation
 
-Distinct character is not separate arising. The least discriminable form is a fixed co-arising. A faculty does not arise alone. Body requires the eight. Eye, ear, nose, and tongue require body as well. Sound is an addition, not a constant.
-
-Organon rendering:
-
-Co-arising is not possession, and not the telos. Prāpti is still the look-ahead. This is the material floor of what can arise together. Not the verse English.
+> Co-arising is not identity of character. The minimal aggregate is the smallest set that cannot arise apart. Faculty and sound are additions, not further minima.
 
 ## 7. Technical Vocabulary
 
@@ -87,32 +70,19 @@ Co-arising is not possession, and not the telos. Prāpti is still the look-ahead
 
 ## 8. Logical Determination
 
-```text
-base
-    = four elements + visible form, odor, taste, tangible
-    = 8
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-body
-    = base + body
-    = 9
-
-other
-    = base + body + one of four
-    = 10
-
-sound
-    = + 1
-
-form realm
-    odor and taste absent
-    = 6, 7, 8
-    not restated
-
-distinct character
-    ↛ separate arising
-minimal aggregate
-    ≠ one constituent
+base = lp.parse(r'all x.(Minimal(x) & Desire(x) & -Sound(x) & -Faculty(x) -> Count(x,8))')
+body = lp.parse(r'all x.(Minimal(x) & Faculty(x,body) -> Count(x,9))')
+other = lp.parse(r'all x.(Minimal(x) & Faculty(x,other) -> Count(x,10))')
+sound = lp.parse(r'all x.(Sound(x) -> Count(x,n+1))')
 ```
+
+Distinct character does not force separate arising.  
+The base is the smallest co-arising set.  
+Faculty and sound are increments, not new minima.
 
 ## 9. Interpretive Note
 

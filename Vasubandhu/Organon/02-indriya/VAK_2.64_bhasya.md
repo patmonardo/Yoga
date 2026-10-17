@@ -1,28 +1,32 @@
-# VAK_2.64 Bhāṣya — How Many Conditions
+# VAK_2.64 Bhāṣya — Through How Many Conditions
 
 ## 1. Kārikā Anchor
 
-> caturbhiś cittacaittā hi samāpattidvayaṃ tribhiḥ /
-> dvābhyām anye tu jāyante neśvarādeḥ kramādibhiḥ // 2.64 //
+> caturbhiś cittacaittāḥ samāpattīdvayaṃ tribhiḥ /
+>
+> dvābhyām anye samutpadyante neśvarādeḥ kramādibhiḥ // 2.64 //
 
-> Mind and the mental factors, through four. The pair of attainments, through three. The others arise through two. Not from Īśvara and the like, on grounds of succession and the like.
+> Mind and factors through four. Pair of attainments through three, no object. Others through two. Not from one world-cause; succession is the reason. Named Puruṣa is the proposal and stays enclosed. Karma is births, not every event.
 
-From 101.07 through 102.18. Material causality at 102.19 is 2.65. Not opened.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> caturbhiś cittacaittāḥ /
+> samāpattīdvayaṃ tribhiḥ /
+> dvābhyām anye samutpadyante /
+> neśvarādeḥ kramādibhiḥ // 2.64 //
+> naikasya kāraṇasya sarvalokasya /
+> kramaḥ dṛśyate /
 
-Mind and the factors through four. The pair, cessation and non-reflective, through three: no object. They follow an entering mind and obstruct a later mind. Form and the remaining dissociated through two. Not from one cause of the world. Succession is the ground. Will, pleasure, cooperation, and a first creation are answered. Pradhāna likewise. Births are from beings' own actions. Not every event.
+The unit is printed 101.06–102.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-Counts, then a challenge, then the succession argument, then the polemic. Īśvara, Puruṣa, and Pradhāna are named as proposed single causes. The verse is the refusal. Not a collation.
+Mind and the mental factors, through four. Cause-condition, the five. Immediately antecedent, the preceding mind and factors, uninterrupted. Object, as appropriate. Predominant, all dharmas other than itself. The pair of attainments, through three. Cessation-attainment and the non-reflective attainment have no object. They are not object-having. The others, dissociated and form, arise through cause-condition and predominant condition. Not from Īśvara, Puruṣa, Pradhāna, or the like, as one cause of the whole world. One sufficient cause would yield the world at once. Succession is observed. No one cause of the world. Beings' own actions generate them in their births. Not settled as a refutation of every position.
 
 ## 4. Organon Reading
 
-Profiles, not one ground. The named Puruṣa is the proposal, and stays enclosed. Efficacy is not that name. Not the translation. Not the final pass.
+Mind and factors through four. Pair of attainments through three, no object. Others through two. Not from one world-cause; succession is the reason. Named Puruṣa is the proposal and stays enclosed. Karma is births, not every event.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Non-reflective kept. Non-conscious withdrawn. Domain withdrawn.
-
-2.65 has not been opened.
+Fine-tuned with the kārikā. Named Puruṣa stays enclosed.

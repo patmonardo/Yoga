@@ -12,8 +12,6 @@
 >
 > lakṣaṇāni ca niḥṣyandāḥ samāpatty-asamanvayāḥ // 2.48 //
 
-Sabhāgatā is same-class. Not the universal. The final compound is the two attainments and non-acquisition. Not an equation of attainment with possession.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -29,18 +27,15 @@ Sabhāgatā is same-class. Not the universal. The final compound is the two atta
 ## 4. Grammar
 
 ```text
-same-class
-    shares the preceding classifications
-    and is also maturation
-acquisition
-    homogeneous outflow or maturation
-marks
-    likewise twofold
-two attainments and non-acquisition
-    homogeneous outflow only
+% start S
+S[NAME=same-class] -> Classification[LIKE=name-groups, ALSO=maturation]
+S[NAME=acquisition|marks] -> Twofold[OUTFLOW=homogeneous | MATURATION=true]
+S[NAME=attainment|non-acquisition] -> Outflow[HOMOGENEOUS=true]
 ```
 
-Niḥṣyanda is continuity in kind. Vipāka is karmic maturation. Not two words for effect.
+Same-class shares the name-group classifications and is also maturation.  
+Acquisition and marks are twofold.  
+The two attainments and non-acquisition are homogeneous outflow only.
 
 ## 5. Translation
 
@@ -50,17 +45,11 @@ Same-class, that however is further also maturation. Acquisitions are twofold, a
 
 ### Bhāṣya-informed study translation
 
-Same-class is as the groups of names were classed, and also a maturation. Acquisition is twofold, homogeneous outflow or maturation. The marks likewise. The two attainments and non-acquisition are homogeneous outflows only. The dissociated formations have been explained. What, then, are the causes and conditions? The answer is the next verse. Not this one.
+> Same-class shares the classifications of the groups of names, and is also maturation. Acquisition is twofold, homogeneous outflow or maturation. The marks likewise. The two attainments and non-acquisition are homogeneous outflows only. The dissociated formations have been explained. Causes and conditions are the next question.
 
 ## 6. Philosophical Translation
 
-Catalogue class is not result-type. Same-class, acquisition, and the marks can be either continuity in kind or maturation. The two attainments and non-acquisition cannot be maturation. The non-reflective result was maturation. The attainment that produces it is not. That distinction stands.
-
-The question at the close is causes and conditions. That is the remaining section. Not opened.
-
-Organon rendering:
-
-Causality for the Agent is that section. The Transcendental contains the schema of the Ordinary. Fichte:Hegel. Not the verse. Not the final pass.
+> Same-class is also maturation. Acquisition and marks are twofold. The two attainments and non-acquisition are homogeneous outflow only. The dissociated formations close. Causes and conditions are the next question.
 
 ## 7. Technical Vocabulary
 

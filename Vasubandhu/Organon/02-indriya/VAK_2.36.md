@@ -12,8 +12,6 @@
 >
 > prāptyaprāptī svasaṃtānapatitānāṃ nirodhayoḥ // 2.36 //
 
-The groups of names close the list of 2.35. The definition begins at acquisition.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -31,20 +29,15 @@ Two explanations of one word. Gender does not block that.
 ## 4. Grammar
 
 ```text
-acquisition
-    = obtaining, and possession
-    obtaining what was not possessed, or had been relinquished
-    possessing what has been obtained
-    non-acquisition by the reverse
-
-range
-    conditioned: one's own continuum
-    not another's
-    not the non-sentient
-    unconditioned: the two cessations
-    not space
-    no acquisition, therefore no non-acquisition
+% start S
+S[NAME=acquisition] -> Obtaining | Possession
+S[RANGE=conditioned] -> OwnContinuum[OTHER=false, NONSENTIENT=false]
+S[RANGE=unconditioned] -> TwoCessations[SPACE=false]
 ```
+
+Obtaining what was not possessed, or possessing what has been obtained.  
+Own continuum only.  
+Space has neither acquisition nor non-acquisition.
 
 ## 5. Translation
 
@@ -54,29 +47,11 @@ And the groups of names and so forth. Acquisition is obtaining and possession. A
 
 ### Bhāṣya-informed study translation
 
-Among these, first. Acquisition is twofold: obtaining what was not obtained or had been relinquished, and possessing what has been obtained. Non-acquisition by the reverse. Of what belongs to one's own continuum. Not of another's. No one possesses what belongs to another. Not of what belongs to no continuum. No one possesses the non-sentient. That is the rule for the conditioned. Among the unconditioned, the two cessations.
-
-All sentient beings possess cessation not through Discrimination. All noble persons, except one still fully bound at the initial moment, and some ordinary persons, possess cessation through Discrimination. No one possesses space. Therefore it has no acquisition. Where there is no acquisition, there is also no non-acquisition.
-
-Is acquisition a distinct entity? A sūtra speaks of arising, obtaining, and possession of the ten dharmas of one beyond training. Then a wheel-turning king possesses seven treasures. There the word is mastery. Why mastery there and a distinct entity elsewhere? Neither its own nature nor its activity is discerned. A real dharma is untenable.
-
-Not a cause of arising. The unconditioned does not arise. What was not acquired, or was relinquished, can arise. Co-arising acquisition leaves no work for arising. Degrees of affliction would not differ. A cause of determining status, then. Without it, noble and ordinary would not be determined when consciousness is worldly. That difference is abandonment. The support of the noble has been transformed by the paths of seeing and cultivation so that the abandoned afflictions cannot arise again. Like rice burned by fire. Or the seed impaired by a worldly path. The reverse is non-abandonment. Possession is designated from that.
-
-Wholesome dharmas: without effort, and through effort. Unimpaired seed-capacity is possession of the first. Wrong view impairs it. Not completely eradicated. The second, once arisen, is possessed by unimpeded mastery of bringing them forth. The seed receives the name. Not another entity.
-
-A seed is name-and-form capable of a result, directly or through a succession, by a particular transformation of the continuum. Transformation is the continuum becoming otherwise. The continuum is conditioned dharmas of the three times as cause and result. Possession of greed, in that sentence, is tolerating it or not expelling it. Possession in every case is a dharma by designation. Its negation is non-possession. The Vaibhāṣikas declare both real. This is our established doctrine.
+> Acquisition is obtaining and continued possession of what belongs to one's own continuum, and of the two cessations. Not of another's, not of the non-sentient, not of space. The dispute whether it is a distinct real or a designation from seed-capacity is not settled. Non-acquisition is the reverse.
 
 ## 6. Philosophical Translation
 
-Acquisition is not the present event. Obtaining is the transition. Possession is the continuation. The reverse is non-acquisition, only inside the range. Outside the range is not a fail. Another's dharma, the non-sentient, and space are outside.
-
-The dispute is what makes the status true. A distinct dissociated real, or a designation grounded in the continuum's capacity. The sūtra word will not decide it. A king possesses treasures. The paths transform the support. Abandoned means cannot arise again. The seed account is not named as a school. The Vaibhāṣika reply stands. Not settled.
-
-The two cessations are the verse's nirodha. Not the look-ahead. Not a grade.
-
-Organon rendering:
-
-Pass and fail are this pair, when the range is met. Not the verse English. Objective Logic on the mind is the pass. Not the final pass.
+> Acquisition is obtaining and possession. Own continuum, and the two cessations. Space is neither. Real entity against designation from seed-capacity is not settled.
 
 ## 7. Technical Vocabulary
 

@@ -30,14 +30,14 @@ The short name is anājñātam ājñāsyāmi, I shall know what is not known.
 ## 4. Grammar
 
 ```text
-ājñāsyāmi-ākhyam
-ājñā-ākhyam
-ājñātāvi-indriyam
-    tathā indriyam
-    uttarottara-saṃprāpti-nirvāṇa-ādi-ādhipatyataḥ
+% start S
+S[TYPE=faculty, PATH=?p] -> NP[NAME=?n] VP[GOVERN=successive, NEXT=?p]
+NP[NAME=shall-know] -> 'I shall know'
+NP[NAME=knowledge] -> 'the knowledge-faculty'
+NP[NAME=has-known] -> 'one who has known'
 ```
 
-Tathā continues pratyekam from 2.03. Each is a faculty. Ādi opens the second distribution: abandonment by seeing, abandonment by cultivation, pleasant abiding in this life.
+`PATH` threads successive attainment. The third has no `NEXT`.
 
 ## 5. Translation
 
@@ -47,17 +47,11 @@ Likewise, the one called “I shall know,” the one called knowledge, and the f
 
 ### Bhāṣya-informed study translation
 
-Likewise means each is individually a faculty. The faculty called “I shall know” governs attainment of the knowledge-faculty. The knowledge-faculty governs attainment of the faculty of one who has known. The faculty of one who has known governs parinirvāṇa. There is no parinirvāṇa for one whose mind is not liberated.
-
-And the rest is another account. The first governs abandonment of the afflictions abandoned by seeing. The second governs abandonment of the afflictions abandoned by cultivation. The third governs pleasant abiding in this life, because one experiences the joy and happiness of liberation.
+> The three complete the series. The first governs attainment of the next, the second governs attainment of the last, and the third governs parinirvāṇa. They are not tenses of one act.
 
 ## 6. Philosophical Translation
 
-The three complete the eight. They are not tenses of one act. The first governs the next faculty, and abandonment by seeing. The second governs the last faculty, and abandonment by cultivation. The third governs parinirvāṇa, and pleasant abiding now. The sequence stops. There is no fourth faculty.
-
-Organon rendering:
-
-Applied Indriya. These three complete the controllers of purification. Checking in 2.03 is not this abandonment. The principles remain deposited. Knowledge here is the faculty-name, not the Idea. Not the verse English.
+> The sequence is determinate. There is no fourth faculty.
 
 ## 7. Technical Vocabulary
 

@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > dṛgbhāvanāśaikṣapathe nava trīṇi amalaṃ trayam /
+>
 > rūpīṇi jīvitaṃ duḥkhe sāsravāṇi dvidhā nava // 2.09 //
 
-> On the paths of seeing, cultivation, and no-more-training, the nine are the three. The triad is stainless. Those possessing form, life, and the two painful faculties are with outflows. Nine are twofold.
-
-The Bhāṣya names the nine, distributes the three designations, and reads duḥkhe as pain and distress. Aśaikṣa is confirmed by the prose.
+> The three are not three further items. They are the same nine, named by the path-task. The triad is stainless. Those possessing form, life, and the two painful faculties are with outflows. Nine, as types, can be either.
 
 ## 2. Continuous Sanskrit Witness
 

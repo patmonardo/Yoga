@@ -1,28 +1,33 @@
-# VAK_2.60 Bhāṣya — Four Classes
+# VAK_2.60 Bhāṣya — Four Classes by Exclusion
 
 ## 1. Kārikā Anchor
 
-> kliṣṭā vipākajāḥ śeṣāḥ prathamāryā yathākramam /
+> kliṣṭā vipākajāḥ śeṣāḥ prathamaṃ cānāsravam /
+>
 > vipākaṃ sarvagaṃ hitvā tau sabhāgaṃ ca śeṣajāḥ // 2.60 //
 
-> Afflicted, maturation-born, remaining, and first noble, respectively, excluding maturation, the pervasive, those two, and those two with the homogeneous: born from the rest.
+> Four classes by exclusion. Afflicted omit maturation. Maturation-born omit pervasive. Remaining omit both. First uncontaminated also omits homogeneous, and is not causeless. Form and dissociated also omit associated. None from one cause.
 
-From 97.16 through the close at 98.02, including the opening qualification of the next verse. The conditions at 98.03 are not opened.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> kliṣṭā vipākajāḥ śeṣāḥ prathamaṃ cānāsravam /
+> vipākaṃ sarvagaṃ hitvā tau sabhāgaṃ ca śeṣajāḥ // 2.60 //
+> catvāra ete /
+> kliṣṭāḥ /
+> vipākajāḥ /
+> prathamaṃ cānāsravam /
+> śeṣāḥ /
 
-Four classes. Remaining are indeterminate apart from the maturation-born, and wholesome apart from the first uncontaminated moment. Five, five, four, three, for mind and the factors. The two fives omit different causes. Form and the dissociated also omit the associated: four, four, three, two. No dharma arises from one cause. The detailed exposition of causes is complete.
+The unit is printed 97.21–98.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-The question, the four, the respective exclusions, then which dharmas the counts were of, then the others, then the close. Not a collation.
+Fourfold. Afflicted. Born as maturation. The first uncontaminated. The remaining: indeterminate apart from the maturation-born, and wholesome apart from the first uncontaminated moment. Afflicted arise from five, excluding the maturation cause. Maturation-born from five, excluding the pervasive. Remaining from four, excluding those two. First uncontaminated from three, excluding those two and the homogeneous. These counts are mind and the mental factors. Form, and what is dissociated from mind, likewise, and without the associated cause. No dharma arises from one cause. The detailed exposition of causes is complete.
 
 ## 4. Organon Reading
 
-Exclusion is the profile. The first of a class is not causeless. One cause is refused. Not the translation. Not the final pass.
+Four classes by exclusion. Afflicted omit maturation. Maturation-born omit pervasive. Remaining omit both. First uncontaminated also omits homogeneous, and is not causeless. Form and dissociated also omit associated. None from one cause.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The four conditions are not opened.
-
-2.61 has not been opened as the conditions.
+Fine-tuned with the kārikā. None from one cause.

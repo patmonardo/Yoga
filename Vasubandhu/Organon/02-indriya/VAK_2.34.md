@@ -12,8 +12,6 @@
 >
 > sāśrayālambanākārāḥ saṃprayuktāś ca pañcadhā // 2.34 //
 
-Ekārtha is one referent in this context. Not unrestricted interchange. Not Citta the Universal.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -34,15 +32,13 @@ Artha is meaning. Vijñāna is cognition. Not principle.
 ## 4. Grammar
 
 ```text
-citta, manas, vijñāna
-    → one meaning here
-    three functions
-
-consciousness and mental factors
-    having support, cognitive support, manner
-    associated fivefold
-    support, cognitive support, manner, time, one instance
+% start S
+S[REFERENT=one] -> Citta[FUNCTION=gather] Manas[FUNCTION=consider] Vijnana[FUNCTION=cognize]
+S[ASSOCIATED=fivefold] -> Citta Caitta[SUPPORT=eq, OBJECT=eq, MANNER=eq, TIME=eq, INSTANCE=eq]
 ```
+
+One referent, three functions.  
+Association is five equalities, not identity of factors.
 
 ## 5. Translation
 
@@ -52,19 +48,11 @@ Consciousness, mind, and cognition have one meaning. Consciousness and the menta
 
 ### Bhāṣya-informed study translation
 
-The factors, together with consciousness, have been explained by kind. Their designations are now defined, being current in the teaching. Citta, because it gathers. Manas, because it considers. Vijñāna, because it cognizes. Others: citta, because variegated by wholesome and unwholesome dharmas. That same, as support, is manas. As supported, vijñāna.
-
-Consciousness and the mental factors have one referent under these predicates. Called having support, because dependent on the faculties. Having cognitive support, because they apprehend an object. Having manner, because they take that same cognitive support in a particular way. Associated, because conjoined equally. In five ways: equality of support, cognitive support, manner, time, and instance. As there is one consciousness, so one of each mental factor. Consciousness and the mental factors, with their distinctions, have been explained.
+> Citta, manas, and vijñāna have one meaning here, three functions. Consciousness and the mental factors are associated fivefold: equality of support, cognitive support, manner, time, and instance. One consciousness, one of each factor. The referent is one; the roles are not.
 
 ## 6. Philosophical Translation
 
-One cognition is not a bare consciousness and not a heap. The three names are one occurrence under three functions. Gathering, support, supported cognition. The factors belong to that occurrence by five equalities. Same faculty. Same cognitive support. Same manner. Same moment. One instance of each. Unity does not erase the functions. Difference does not dissolve the event.
-
-Same time is necessary and not sufficient. The other four equalities belong to the relation. The earlier counts said which factors occur. This says in what respects they are associated.
-
-Organon rendering:
-
-This produced occurrence is not Citta the Universal. Pratyaya sits in the association, not in citta alone. The academy, the pass, and the grades are the Hub, not this verse. Objective Logic on the mind is the pass, not the translation. Not the final pass.
+> One occurrence, three functions. Association is five equalities. Produced occurrence is not Citta the Universal. Dravya-equality is one instance, not substance.
 
 ## 7. Technical Vocabulary
 
@@ -84,31 +72,17 @@ What is gathered is not specified. No seed-theory is inserted.
 
 ## 8. Logical Determination
 
-```text
-one occurrence
-    citta = gathering, or variegation
-    manas = support
-    vijñāna = supported cognition
-referent one
-    roles not one
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-for each associated factor
-    same support
-    same cognitive support
-    same manner
-    same time
-    one instance
-
-same time
-    ≠ associated
-associated
-    → the five
-
-one consciousness
-    ≠ only one mental factor
-one of each
-    ≠ all factors one entity
+one = lp.parse(r'Citta(x) & Manas(x) & Vijnana(x) -> OneMeaning(x)')
+five = lp.parse(r'all c f.(Associated(c,f) -> (EqSupport(c,f) & EqObject(c,f) & EqManner(c,f) & EqTime(c,f) & EqInstance(c,f)))')
 ```
+
+One referent, three functions.  
+Five equalities, not identity.  
+One of each is not all factors one entity.
 
 ## 9. Interpretive Note
 

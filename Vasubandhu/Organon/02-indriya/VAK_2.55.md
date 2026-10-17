@@ -12,8 +12,6 @@
 >
 > saṃskṛtaṃ savisaṃyogaṃ phalaṃ nāsaṃskṛtasya te // 2.55 //
 
-Two times are past and present. Three are past, present, and future. The conditioning cause is not in the count.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -29,19 +27,17 @@ Two times are past and present. Three are past, present, and future. The conditi
 ## 4. Grammar
 
 ```text
-pervasive, homogeneous
-    past and present
-    not future
-co-arisen, associated, maturation
-    three times
-conditioning
-    all times, and dissociated from time
-    supplied, not named
-fruit
-    conditioned, and disconnection
-unconditioned
-    does not have those
+% start S
+S[CAUSE=pervasive|homogeneous] -> Time[PAST=true, PRESENT=true]
+S[CAUSE=co-arisen|associated|maturation] -> Time[THREE=true]
+S[CAUSE=conditioning] -> Time[ALL=true, DISSOCIATED=true]
+S[FRUIT=true] -> Conditioned | Disconnection
 ```
+
+Pervasive and homogeneous are past and present.  
+Co-arisen, associated, maturation are three times.  
+Conditioning is all times and not in time.  
+Disconnection is a fruit of the Path and not its product.
 
 ## 5. Translation
 
@@ -51,29 +47,11 @@ Pervasive and homogeneous range over two times. Three range over three times. Th
 
 ### Bhāṣya-informed study translation
 
-Past and present only. The reason was stated. Co-arisen, associated, and maturation belong to all three times. No restriction was stated for the conditioning cause. All times, and dissociated from time. The causes have been explained.
-
-The fruit is conditioned dharmas and cessation by Discrimination. Then the unconditioned, being a fruit, would have a cause, and being a cause, a fruit. Only the conditioned has cause and fruit. Not the unconditioned. The six causes do not obtain. The five fruits do not obtain.
-
-Why is the Path not the conditioning cause of disconnection? That cause is non-obstruction of arising. The unconditioned does not arise. Whose fruit, then? Acquired by the Path's power. Then only the acquisition is the fruit. Efficacy toward acquisition is production. Efficacy toward disconnection is bringing one to it. The Path is not in any way its cause. Disconnection is its fruit.
-
-The unconditioned is a conditioning cause by not obstructing arising. It has no fruit. Outside time, it cannot take or give one. The Sautrāntikas: nowhere called a cause. Causes and conditions of arising are impermanent. Object-condition is not thereby excluded. Not settled by the sūtra.
-
-What is disconnection? Cessation by Discrimination, and the reverse, is a mutual explanation. Not a disclosure. A distinct permanent wholesome entity, on one account, known by the noble. Without substantial existence, on the other. Space is absence of tangible obstruction. Cessation by Discrimination is non-arising by the power of Discrimination. Cessation without it is non-arising by deficiency of conditions. Not settled.
-
-Abandonment of past and present suffering is abandonment of the affliction that takes it as object, and of the seed deposited for future arising. Future abandonment is absolute non-arising, the seed absent. Effort on what has ceased has no purpose. Dispassion foremost among conditioned and unconditioned is not a claim that absence is a positive entity. Praise, to incline those to be trained. Noble truth is without error: suffering as suffering, absence of suffering as absence. The Vaibhāṣikas keep a real. Cause and fruit of it are not found. Gone, for now.
+> Pervasive and homogeneous are past and present. Co-arisen, associated, and maturation are three times. Conditioning is all times and dissociated from time. The fruit is the conditioned and disconnection. Disconnection is a fruit of the Path and not its product. Entity or absence is not settled. Not nirodha of virodha.
 
 ## 6. Philosophical Translation
 
-Timestamps first. Two causes cannot be future. Three can. The conditioning cause is the wide one, and can include what is not in time, as non-obstruction.
-
-The fruit-clause is the limit. A fruit of the Path need not be a product of the Path. Acquisition is produced. Disconnection is brought to. The Path is not its cause. That split is the verse's achievement. A generated liberation would be conditioned.
-
-Entity or absence is the dispute. Directly known by the noble, on one account. Secured non-arising, on the other. Not settled. Not the nirodha of virodha.
-
-Organon rendering:
-
-The academy grades a produced acquisition. The disclosure is not a grade. Puruṣa stays enclosed. Not the verse. Not the final pass.
+> Pervasive and homogeneous are past and present. The three are three times. Conditioning is all times and not in time. Disconnection is a fruit of the Path and not its product. Entity or absence is not settled.
 
 ## 7. Technical Vocabulary
 

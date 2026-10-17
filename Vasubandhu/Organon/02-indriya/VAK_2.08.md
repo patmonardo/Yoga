@@ -12,8 +12,6 @@
 >
 > daurmanasyam upekṣā tu madhyā ubhayī avikalpanāt // 2.8 //
 
-The research witness separates madhyā ubhayī avikalpanāt. The running source contracts madhyobhayyavikalpanāt. The separated forms are used here.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -35,24 +33,13 @@ Ubhayī is not two neutral faculties. One faculty includes bodily and mental.
 ## 4. Grammar
 
 ```text
-anyatra sā
-    → saumanasyam
-    desire realm, first dhyāna, second dhyāna
-
-aśātā caitasī punaḥ
-    → daurmanasyam
-
-upekṣā tu madhyā
-    neither agreeable nor disagreeable
-
-ubhayī
-    bodily and mental
-
-avikalpanāt
-    one faculty, because the neutral operation does not differ
+% start S
+S[FACULTY=gladness] -> Feeling[MODE=mental, TONE=agreeable, LEVEL!=third]
+S[FACULTY=distress] -> Feeling[MODE=mental, TONE=disagreeable]
+S[FACULTY=neutral] -> Feeling[TONE=neutral, MODE=?m]
 ```
 
-The third dhyāna is free of prīti. The Bhāṣya identifies prīti with saumanasya. That is why agreeable mental feeling there is the pleasure-faculty.
+Neutral unifies with both modes because `TONE=neutral` does not split.
 
 ## 5. Translation
 
@@ -62,21 +49,11 @@ Elsewhere, that is gladness. Disagreeable mental feeling, in turn, is distress. 
 
 ### Bhāṣya-informed study translation
 
-Outside the third dhyāna, in the desire realm and the first and second dhyānas, that agreeable mental feeling is the gladness-faculty. In the third dhyāna, because of dispassion toward rapture, it is the pleasure-faculty and not the gladness-faculty. Rapture is gladness.
-
-Disagreeable mental feeling is distress. Neutral feeling is the middle: neither agreeable nor disagreeable, neither painful nor pleasurable. It is of both kinds, bodily and mental. It is made one faculty because of non-differentiation.
-
-Mental pleasure and pain arise for the most part through differentiation. Bodily pleasure and pain do not. They arise through the force of the viṣaya, even in arhats. So those two are distinguished as faculties. Neutral feeling, bodily or mental, arises in its own course even without that differentiation, and is made one faculty. Bodily pleasure supports in one way, mental pleasure in another. Bodily pain injures in one way, mental pain in another. In neutral feeling that difference does not exist. With respect to remaining neutral, there is no division.
+> Elsewhere agreeable mental feeling is gladness. Disagreeable mental feeling is distress. Neutral feeling is the middle, of both kinds, and remains one faculty because the neutral operation does not split. Pleasure and pain divide by mode; neutral feeling does not.
 
 ## 6. Philosophical Translation
 
-Agreeable mental feeling is gladness, except in the third dhyāna, where rapture is absent and the name is pleasure. Disagreeable mental feeling is distress. Neutral feeling is the middle, bodily and mental, one faculty, because the neutral operation does not split.
-
-Pleasure and pain split by mode because arising and effect differ. Neutral feeling does not. For the most part is kept. Differentiation is not the cause of every mental pleasure or pain.
-
-Organon rendering:
-
-Two projections of one agreeable mental feeling. Elsewhere the jewel is gladness. In the third dhyāna it reflects the pleasure-place. Neutral feeling is one jewel in two modes. The net does not multiply a faculty where the operation is undivided. Not the verse English.
+> Pleasure and pain split by mode. Neutral feeling does not. The net does not multiply a faculty where the operation is undivided.
 
 ## 7. Technical Vocabulary
 

@@ -12,8 +12,6 @@
 >
 > navāptir antyaphalayoḥ saptāṣṭanavabhir dvayoḥ // 2.16 //
 
-The first half closed the death count in 2.15. This study is the fruit question.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -32,21 +30,13 @@ Antya is the extremes of the four, stream-entry and arhatship, not the last two 
 ## 4. Grammar
 
 ```text
-gradual death
-    → four cease together
-wholesome mind
-    → five in addition
-
-two extremes
-    → through nine
-    stream-entry and arhatship
-
-two middle
-    → through seven, eight, or nine
-    once-returning and non-returning
+% start S
+S[FRUIT=extreme, COUNT=9] -> StreamEntry | Arhatship
+S[FRUIT=middle, COUNT=?c] -> OnceReturning | NonReturning
+S[COUNT=11, PERSON=one] -> Arhatship[FEELING=?f]
 ```
 
-Nine for stream-entry is not the nine for arhatship.
+Eleven unifies only under `PERSON=one` across successive feelings.
 
 ## 5. Translation
 
@@ -56,23 +46,11 @@ In gradual death, however, four. With a wholesome mind, everywhere five in addit
 
 ### Bhāṣya-informed study translation
 
-The extremes are stream-entry and arhatship. The middle are once-returning and non-returning.
-
-Stream-entry through nine: the five beginning with faith, excluding one who has known, together with mind and neutral feeling. “I shall know” is on the uninterrupted path. The knowledge-faculty is on the path of liberation. Attainment is through both. They bring about, and support, the acquisition of disconnection.
-
-Arhatship through nine: the five, excluding “I shall know,” together with mind and any one of pleasure, gladness, and neutral feeling.
-
-Once-returning and non-returning, each through seven, eight, or nine. Sequential, mundane: seven, the five, neutral feeling, and mind. Supramundane: eight, the knowledge-faculty as eighth. Already free from desire: nine, as stream-entry. Non-returning differs: any one of the three feelings, by the support. A sharp sequential practitioner who enters dhyāna on the ninth path of liberation attains non-returning through eight on a mundane path: neutral feeling on the uninterrupted path, gladness on liberation. Supramundane, nine.
-
-The Abhidharma says arhatship through eleven. It is attained through nine alone. Eleven is said because that is possible for one person, falling away and attaining again with pleasure, with gladness, and with neutral feeling. The three feelings are not at one time. A non-returner who has fallen away does not attain again with pleasure. One already free from desire does not fall away. That dispassion was attained through both paths.
+> The extreme fruits are attained through nine. Stream-entry takes the five beginning with faith, excluding one who has known, with mind and neutral feeling. Arhatship takes the five, excluding “I shall know,” with mind and any one feeling. The middle fruits take seven, eight, or nine according to route. Eleven is not a simultaneous count. It is one person attaining again across different feelings.
 
 ## 6. Philosophical Translation
 
-The fruit is one result. The faculties through which it is attained are not the fruit. Stream-entry and arhatship are each nine, and not the same nine. The middle fruits are seven, eight, or nine by route: sequential mundane, sequential supramundane, or from prior dispassion. Eight can be two different sets. Eleven is one person across attainments, not one moment.
-
-Organon rendering:
-
-Consequence and the members that mediate it. Same consequence, different membership. The number does not name the set. Not the verse English.
+> Attainment is through the faculties that bring about and support disconnection. Eleven is successive possibility, not co-presence.
 
 ## 7. Technical Vocabulary
 

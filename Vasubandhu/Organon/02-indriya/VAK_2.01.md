@@ -32,36 +32,20 @@ The verse is elliptical. Ādhipatyam governs all four groups. The Bhāṣya supp
 
 ## 4. Grammar
 
-The Bhāṣya asks the common meaning of indriya:
-
 ```text
-kaḥ punar indriyārthaḥ?
-    what, then, is the meaning of faculty?
-
-ata ādhipatyārtha indriyārthaḥ
-    the meaning of indriya is ādhipatya
+% start S
+S[TYPE=faculty] -> NP[GROUP=?g] VP[GOVERN=true, ARTHA=?a]
+NP[GROUP=five] -> 'the five'
+NP[GROUP=four] -> 'the four'
+NP[GROUP=fivefold] -> 'the fivefold group'
+NP[GROUP=eight] -> 'the eight'
+VP[GOVERN=true, ARTHA=four-meanings] -> 'govern four meanings'
+VP[GOVERN=true, ARTHA=two] -> 'govern two'
+VP[GOVERN=true, ARTHA=defilement] -> 'govern defilement'
+VP[GOVERN=true, ARTHA=purification] -> 'govern purification'
 ```
 
-The root idi is glossed paramaiśvarya, supreme lordship. That gloss stays in the etymology. The predicate of the verse is governing efficacy:
-
-```text
-ādhipatyāt indriyam
-    a faculty, because it governs
-
-pañcānām caturṣu artheṣu ādhipatyam
-    the five, with respect to four meanings
-
-caturṇām dvayoḥ kila
-    the four, with respect to two
-
-pañcakasya saṃkleśe
-    the fivefold group, in defilement
-
-aṣṭānām vyavadāne
-    the eight, in purification
-```
-
-Faculty is not an anatomical kind. It is a dharma exercised with respect to a meaning.
+Feature `GOVERN=true` is the predicate. Group features discriminate membership. A successful parse is a faculty; failure is not.
 
 ## 5. Translation
 
@@ -71,19 +55,11 @@ Of the five, governing efficacy with respect to four meanings; of the four, inde
 
 ### Bhāṣya-informed study translation
 
-The five — eye, ear, nose, tongue, body — each govern four matters. Attractiveness of embodied existence, because the blind and the deaf are said to lack an attractive appearance. Preservation of embodied existence: the eye and ear by avoidance of danger once seen or heard, the nose, tongue, and body by consumption of material food. The arising of the corresponding cognition together with its associated factors. Being the specific cause of seeing visible form, hearing sound, smelling odor, tasting flavor, and touching the tangible.
-
-The female, male, life, and mind faculties each govern two. Female and male govern the distinction of living beings, female and male, and their differentiation in configuration, voice, and conduct. Others assign those two to defilement and purification. The life-faculty governs connection with, and maintenance of, the homogeneous class of living beings. The mind-faculty governs connection with renewed existence, and the continuation of mastery.
-
-The five beginning with pleasure govern defilement, because attachment and the other afflictions lie latent in relation to them. The eight beginning with faith govern purification, for through them one is purified. Others, and the Vaibhāṣikas, also give the feelings a place in purification.
+> The five govern four meanings of embodied life and disclosure; the four govern distinction and continuity; the fivefold group governs defilement and the eight govern purification. Faculty is governing efficacy, not the items themselves.
 
 ## 6. Philosophical Translation
 
-A dharma is a faculty where it governs. The five govern embodied life and the disclosure of meaning. The four govern distinction, continuity, renewed existence, and mastery. The fivefold governs defilement. The eight govern purification. The name is one because the efficacy is one, not because the items are one kind.
-
-Organon rendering:
-
-The spin begins. The principles remain behind this chapter. Indriya is the faculty of Rules. Governing efficacy is how a Rule holds. The faculties do not think and do not intuit. They make the elements implement a meaning, and they rule defilement and purification. Mind is produced in that ruling. It is not a faculty that thinks.
+> A faculty is a dharma that governs. The name is one because the efficacy is one, not because the items are one kind.
 
 ## 7. Technical Vocabulary
 

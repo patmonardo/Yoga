@@ -2,27 +2,30 @@
 
 ## 1. Kārikā Anchor
 
-> kuśalākuśalaṃ kāme nivṛtānivṛtaṃ manaḥ /
-> rūpārūpyeṣv akuśalād anyatrānāsravaṃ dvidhā // 2.66 //
+> kāme 'kuśalaṃ cittaṃ nivṛtānivṛtaṃ ca /
+>
+> rūpārūpyeṣv akuśalād ṛte anāsravaṃ dvidhā // 2.66 //
 
-> In the desire realm, mind is wholesome and unwholesome, obscured and unobscured. In the form and formless realms, except the unwholesome. Uncontaminated mind is twofold.
+> Twelve kinds of mind. Desire four. Form and formless three each, no unwholesome. Uncontaminated twofold, trainee and beyond-training. Succession is not yet.
 
-From 103.09 through 103.18. The successor counts at 103.19 are 2.67. Not opened.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> tatra tāvat samāsena dvādaśa cittāni /
+> kāme 'kuśalaṃ cittaṃ nivṛtānivṛtaṃ ca /
+> rūpārūpyeṣv akuśalād ṛte /
+> anāsravaṃ dvidhā // 2.66 //
+> evam etāni dvādaśa cittāni bhavanti /
 
-Which mind arises immediately after which has not been stated. Twelve kinds. Four in the desire realm. Three in the form realm, no unwholesome. Three in the formless. Ten contaminated. Trainee and beyond-training. Twelve.
+The unit is printed 103.16–103.25 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-A recapitulation, then the count, then the verse as the reason for the count. The connective at the end opens the next unit. Not a collation.
+Mind and the factors were stated generally as the immediately antecedent condition. The particular rule was not stated: which mind arises immediately after which. That is now to be explained. In summary, twelve kinds of mind. Four in the desire realm. Wholesome, unwholesome, obscured-indeterminate, unobscured-indeterminate. No unwholesome in the form realm. Three. The same in the formless. Ten contaminated. Uncontaminated is twofold: trainee and beyond-training. Twelve.
 
 ## 4. Organon Reading
 
-Kinds, so that succession can be stated. Wholesome is not uncontaminated. No unwholesome is not no affliction. Not the translation. Not the final pass.
+Twelve kinds of mind. Desire four. Form and formless three each, no unwholesome. Uncontaminated twofold, trainee and beyond-training. Succession is not yet.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Obscured kept. Domain withdrawn.
-
-2.67 has not been opened.
+Fine-tuned with the kārikā. Succession is not yet.

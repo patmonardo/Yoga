@@ -1,26 +1,30 @@
-# VAK_2.73 Bhāṣya — Acquisition, and the Close
+# VAK_2.73 Bhāṣya — Acquisition, Not Succession
 
 ## 1. Kārikā Anchor
 
 > kliṣṭe traidhātuke lābhaḥ ṣaṇṇāṃ ṣaṇṇāṃ dvayoḥ śubhe /
+>
 > trayāṇāṃ rūpaje śaikṣe caturṇāṃ tasya śeṣite // 2.73 //
 
-> In afflicted mind of the three realms, acquisition of six, of six, of two. In wholesome form-realm, of three. In trainee, of four. In the rest, of that.
+> Back to the twelve. Acquisition, not succession. Two belongs to formless afflicted. Three belongs to form wholesome. The remainder is that mind itself.
 
-From 109.04 through the colophon at 110.08. The next chapter is not opened.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> kliṣṭe traidhātuke lābhaḥ ṣaṇṇāṃ ṣaṇṇāṃ dvayoḥ /
+> śubhe trayāṇāṃ rūpaje /
+> śaikṣe caturṇām /
+> tasya śeṣite // 2.73 //
 
-Of the twelve, acquisition when a mind is manifest. Six, six, and two for the afflicted of the three realms. Three for form wholesome. Four for trainee. Otherwise, itself. Others say nine, six, and itself. Wholesome in that aggregate is seven. Acquisition is for one who does not possess it. The discussion of conditions is complete. The Exposition of the Rules is complete.
+The unit is printed 109.26–110.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-A new question, the profiles, an alternative, a correction, a summary verse, two closes. Not a collation.
+When desire afflicted is manifest, six: desire wholesome, by restoration of wholesome roots through doubt and by return; desire unwholesome and obscured, and form afflicted, by return and by decline; formless afflicted and trainee, by decline. Form afflicted, six: the three form kinds and desire unobscured, by return; formless afflicted and trainee, by decline. Formless afflicted, two: itself and trainee, by decline. Form wholesome, three: itself, and desire and form unobscured. Trainee, four: itself, desire and form unobscured, and formless wholesome, on dispassion from desire and form by the path. Where acquisition was not explained, of that mind itself, not another. Others, without the distinctions: nine with afflicted, six with wholesome, itself with indeterminate. The wholesome aggregate should be seven. A summary: at rebirth, attainment, dispassion, decline, and restoration of wholesome roots, acquisition is for one who does not possess it. The discussion of conditions is complete. The second chapter, the Exposition of the Rules, is complete.
 
 ## 4. Organon Reading
 
-Manifest is not possession. Acquisition is not the immediately antecedent. Not the translation. Not the final pass.
+Back to the twelve. Acquisition, not succession. Two belongs to formless afflicted. Three belongs to form wholesome. The remainder is that mind itself.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Faculty withdrawn at the colophon. The chapter is closed.
+Fine-tuned with the kārikā. The chapter closes. Exposition of the Rules is complete.

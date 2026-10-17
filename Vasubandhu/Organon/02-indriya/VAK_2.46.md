@@ -12,8 +12,6 @@
 >
 > janyasya janikā jātir na hetupratyayair vinā // 2.46 //
 
-Jāti-jāti is arising-of-arising. Not emphasis. The first half was cited inside the marks. The restriction is this verse.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -31,20 +29,15 @@ Operation is activity, efficacy. Not a third synonym for the mark.
 ## 4. Grammar
 
 ```text
-secondary marks
-    of the primary
-    arising-of-arising, persistence-of-persistence,
-    aging-of-aging, impermanence-of-impermanence
-primary
-    operate on eight, excluding themselves
-secondary
-    operate on one, the primary
-nine
-    the dharma, four primary, four secondary
-arising
-    generates what is to be generated
-    not without causes and conditions
+% start S
+S[MARK=primary] -> OperatesOn[COUNT=8]
+S[MARK=secondary] -> OperatesOn[COUNT=1]
+S[GENERATE=true] -> Arising[WITH=causes-and-conditions]
 ```
+
+Primary operate on eight, secondary on one. No regress.  
+Arising generates only with causes and conditions.  
+The power seen is the conjunction, on the critical account.
 
 ## 5. Translation
 
@@ -54,21 +47,11 @@ Arising-of-arising and the rest, of those. They operate on eight dharmas, and on
 
 ### Bhāṣya-informed study translation
 
-The primary marks are themselves conditioned, so they have secondary marks. No regress, because the primary operate on eight and the secondary on one. Arising generates the other eight. Arising-of-arising generates that arising. Like one hen and many, one hen and few. Persistence, aging, and impermanence likewise. Splitting space, on the critical account. No evidence of separate entities.
-
-Arising generates what is to be generated, not without the conjunction of causes and conditions. Then the power seen is the conjunction. When it is complete, arising. When it is not, no arising. Not from an arising-entity. Arisen designates existing after not existing. The genitive, the arising of form, does not prove a second entity, any more than the form of form does. The unconditioned does not arise. It does not exist after not existing. They maintain the marks as real. Defects are to be answered, and the established doctrine followed. The marks have been explained.
+> The primary marks, being conditioned, have secondary marks. Primary operate on eight, secondary on one. No regress. Arising generates only with causes and conditions. The power seen is the conjunction, on the critical account. The genitive does not prove a second entity. The marks are maintained as real. Not settled.
 
 ## 6. Philosophical Translation
 
-Eight and one is a stipulation that stops the regress. It does not show the entities. The restriction is the cut. If causes and conditions are necessary and sufficient, the generator has no remaining work. Arising is the transition. Prior nonexistence, then existence. A name for that, not a producer beside it.
-
-The reply stands. Deer are not a reason to stop sowing. The doctrine is kept. Not settled.
-
-Hetu and pratyaya here are the conjunction the generator cannot do without. Not yet the block that lays them out.
-
-Organon rendering:
-
-A course begins when the conditions are complete. The beginning is not a classmate added to the course. Not the verse English. Not the final pass.
+> Primary operate on eight, secondary on one. The stipulation stops the regress; it does not show the entities. Arising generates only with causes and conditions. The power seen is the conjunction. Arising is the transition, not a producer beside it. The marks are maintained as real. Not settled.
 
 ## 7. Technical Vocabulary
 

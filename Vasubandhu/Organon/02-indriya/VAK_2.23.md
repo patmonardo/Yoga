@@ -12,8 +12,6 @@
 >
 > prāptyā vā pañcadhā caittā mahābhūmyādibhedataḥ // 2.23 //
 
-The first line is compact. The Bhāṣya reads sarvaṃ saṃskṛtalakṣaṇaiḥ, everything with the marks of the conditioned, and carries necessarily together forward. The witness is kept.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -32,25 +30,16 @@ Citta is consciousness. It is not a substance behind the event. Caitta is the fa
 ## 4. Grammar
 
 ```text
-consciousness and factors
-    → necessarily together
-    neither without the other
-
-everything conditioned
-    → with the marks
-    form, consciousness, factors, dissociated formations
-
-acquisition
-    → only what is designated as belonging to a sentient being
-    vā distinguishes the case
-    it does not replace the marks
-
-factors
-    → five classes
-    beginning with the great ground
+% start S
+S[COARISE=true] -> Citta Caitta
+S[COARISE=true, MARKS=true] -> Conditioned
+S[COARISE=true, ACQUIRE=true] -> SentientDesignation
+S[TYPE=caitta, CLASS=?c] -> GreatGround | WholesomeGround | AfflictionGround | UnwholesomeGround | LimitedAffliction
 ```
 
-The members are not this verse.
+`COARISE=true` forces mutual presence.  
+`ACQUIRE=true` unifies only with sentient designation.  
+The five classes are features of caitta, not further co-arising minima.
 
 ## 5. Translation
 
@@ -60,17 +49,11 @@ Consciousness and the mental factors, necessarily together. Everything with the 
 
 ### Bhāṣya-informed study translation
 
-The co-arising of form has been stated. That of the rest is now to be stated. Consciousness and mental factors necessarily arise together. They cannot exist without one another. Everything with the marks of the conditioned: necessarily together carries forward. Whatever arises, form, consciousness, mental factors, or dissociated formations, arises with the marks of the conditioned. Or with acquisition. Only what is designated as belonging to a sentient being arises with acquisition, nothing else. Or distinguishes the cases.
-
-What are the mental factors? Fivefold, by the division beginning with the great ground. Great-ground, wholesome great-ground, affliction great-ground, unwholesome great-ground, and limited-affliction great-ground. A ground is a sphere of operation. Those whose ground is extensive occur in every consciousness.
+> Consciousness and the mental factors necessarily co-arise; neither exists without the other. Everything conditioned arises with the marks. Acquisition accompanies only what is designated as belonging to a sentient being. Mental factors are fivefold by the division beginning with the great ground. The great-ground factors occur in every consciousness.
 
 ## 6. Philosophical Translation
 
-No bare consciousness first, factors later. The two arise only together. The marks accompany every conditioned arising. Acquisition is narrower: a dharma designated as belonging to a sentient being. The five are ranges, not a list of members. Great is breadth, not rank. Only the great-ground class is said here to occur in every consciousness.
-
-Organon rendering:
-
-This is the citta:caitta the hub presupposes. Prāpti is named, and the verse restricts it. The telos of the technē is not printed as the translation. Hetu and pratyaya are not this line. Not the verse English.
+> Co-arising is mutual necessity, not identity. Acquisition is restricted to sentient designation. The five classes name spheres of operation, not further co-arising units.
 
 ## 7. Technical Vocabulary
 
@@ -89,32 +72,19 @@ Great is range. Not a meditative stage, and not a place.
 
 ## 8. Logical Determination
 
-```text
-consciousness
-    ↔ accompanying factors
-no bare consciousness
-no factor without consciousness
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-not every factor in every consciousness
-
-conditioned
-    → marks
-unconditioned
-    not brought back
-
-sentient designation
-    → acquisition
-otherwise
-    ↛ acquisition
-
-or
-    ≠ acquisition instead of the marks
-
-great-ground
-    → every consciousness
+coarise = lp.parse(r'all x y.(Citta(x) & Caitta(y) -> CoArise(x,y))')
+marks = lp.parse(r'all x.(Conditioned(x) -> Marks(x))')
+acquire = lp.parse(r'all x.(SentientDesignation(x) -> Acquisition(x))')
+ground = lp.parse(r'all x.(GreatGround(x) -> EveryConsciousness(x))')
 ```
 
-Inseparability is not a direction of production. The passage states the last.
+Co-arising is mutual.  
+Acquisition is restricted.  
+Great-ground is the class that occurs in every consciousness.
 
 ## 9. Interpretive Note
 

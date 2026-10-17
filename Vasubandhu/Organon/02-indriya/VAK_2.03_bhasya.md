@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > nikāyasthitisaṃkleśavyavadānādhipatyataḥ /
+>
 > jīvitaṃ vedanāḥ pañca śraddhādyāś cendriyaṃ matāḥ // 2.03 //
 
-> Because of governing efficacy over class-persistence, defilement, and purification, life, the five feelings, and those beginning with faith are held to be faculty.
-
-The Bhāṣya limits those beginning with faith, here, to five, and confirms that each is individually a faculty. The three fields correspond to the three groups, in order.
+> Life governs the standing of the class, not its arising. The five feelings govern the tones on which affliction lies. Those beginning with faith govern purification by checking the afflictions and drawing the path forward. Each is faculty by that efficacy.
 
 ## 2. Continuous Sanskrit Witness
 

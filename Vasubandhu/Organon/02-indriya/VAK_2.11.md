@@ -12,8 +12,6 @@
 >
 > daurmanasyaṃ mano 'nyā ca vittis tredhā anyad ekadhā // 2.11 //
 
-The first three members close the ten of 2.10. The ethical question begins at aṣṭakaṃ kuśalam.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -35,25 +33,14 @@ Vitti is feeling. Other excludes distress: pain, pleasure, gladness, neutral fee
 ## 4. Grammar
 
 ```text
-mind + four feelings other than distress + five beginning with faith
-    = the ten of 2.10
-
-eight
-    = five beginning with faith + the three
-    → wholesome only
-
-distress
-    → wholesome or unwholesome
-
-mind and the other feelings
-    → wholesome, unwholesome, or indeterminate
-
-remainder
-    = seven of form, life as eighth
-    → indeterminate only
+% start S
+S[ETHICAL=wholesome] -> Eight
+S[ETHICAL=?e] -> Distress[ETHICAL=wholesome|unwholesome]
+S[ETHICAL=?e] -> Mind | OtherFeeling
+S[ETHICAL=indeterminate] -> Remainder
 ```
 
-Twofold here is not the twofold of maturation.
+Ethical quality is a feature, not the faculty itself.
 
 ## 5. Translation
 
@@ -63,15 +50,11 @@ Mind, the other feelings, and those beginning with faith. The eight are wholesom
 
 ### Bhāṣya-informed study translation
 
-How many are wholesome, how many unwholesome, how many indeterminate? The eight are wholesome: the five beginning with faith, and the three beginning with “I shall know.” Distress is twofold, wholesome and unwholesome. Mind and the other feelings are threefold: wholesome, unwholesome, and indeterminate. The remainder is onefold: those beginning with the eye, life as the eighth. These are exclusively indeterminate.
+> The eight are wholesome by the very operation that defines them. Distress always bears a quality and is never indeterminate. Mind and the remaining feelings keep one function across the three qualities. The rest govern, yet remain exclusively indeterminate.
 
 ## 6. Philosophical Translation
 
-Ethical quality is not faculty, and it is not maturation. The eight are wholesome by the operation that defines them. Distress always bears a quality. It is never indeterminate. Mind and four feelings keep one function across three qualities. The seven of form and life govern, and they are indeterminate. Neutral feeling is not that indeterminacy.
-
-Organon rendering:
-
-The platform has to hold the axes apart. Maturation, outflow, tone, and ethical quality are four questions. Wholesome is not without outflows. Neutral feeling is not indeterminate. The received English that folds them is not accepted. Not the verse English.
+> The eight are wholesome by nature. Distress always bears a quality. Mind and four feelings keep one function across three qualities. The remainder governs, and is indeterminate.
 
 ## 7. Technical Vocabulary
 

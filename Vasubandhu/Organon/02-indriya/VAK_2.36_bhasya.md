@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > nāmakāyādayaś ceti prāptir lābhaḥ samanvayaḥ /
+>
 > prāptyaprāptī svasaṃtānapatitānāṃ nirodhayoḥ // 2.36 //
 
-> And the groups of names and so forth. Acquisition is obtaining and possession. Acquisition and non-acquisition of what belongs to one's own continuum, and of the two cessations.
-
-The list was closed in 2.35. This unit is the inquiry.
+> Acquisition is obtaining and continued possession of what belongs to one's own continuum, and of the two cessations. Not of another's, not of the non-sentient, not of space. The dispute whether it is a distinct real or a designation from seed-capacity is not settled. Non-acquisition is the reverse.
 
 ## 2. Continuous Sanskrit Witness
 

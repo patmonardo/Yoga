@@ -12,8 +12,6 @@
 >
 > mūladvayam ahiṃsā ca vīryaṃ ca kuśale sadā // 2.25 //
 
-Śraddhāpramādaḥ is faith and heedfulness. Not faith joined to negligence.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -34,16 +32,13 @@ Ten, counting the two roots separately. Non-delusion is prajñā, already in the
 ## 4. Grammar
 
 ```text
-whenever consciousness is wholesome
-    → these ten are present
-
-faith, heedfulness, pliancy, equanimity,
-moral shame, moral caution,
-non-greed, non-hatred,
-non-harming, vigor
+% start S
+S[GROUND=wholesome] -> TenWholesome[PRESENT=always]
+TenWholesome -> Faith | Heedfulness | Pliancy | Equanimity | Shame | Caution | NonGreed | NonHatred | NonHarming | Vigor
 ```
 
-The universal ten of 2.24 are not replaced. This ground is narrower.
+`GROUND=wholesome` is narrower than every-consciousness.  
+The universal ten of 2.24 remain. Non-delusion is already prajñā and is not a second member.
 
 ## 5. Translation
 
@@ -53,23 +48,11 @@ Faith, heedfulness, pliancy, equanimity, moral shame, moral caution, the two roo
 
 ### Bhāṣya-informed study translation
 
-Those whose ground is the wholesome occur always in wholesome consciousness. These ten. Faith is clarity of consciousness. Others say conviction concerning the truths, the Jewels, and the results of action. Heedfulness is cultivation of wholesome dharmas: attentive care concerning them. Another school reads guarding of consciousness.
-
-Pliancy is workability of consciousness. Bodily pliancy is also stated, as bodily feeling is. Among the factors of awakening it is workability of the body, called a factor because it is favorable to one. It brings workability of consciousness. Joy and what provides a basis for joy were called the awakening factor of joy. Aversion and its sign, the hindrance of ill will. Right view, intention, and effort, the aggregate of prajñā. Intention and effort are not prajñā by nature. Favorable, they receive the name.
-
-Equanimity is evenness of consciousness, non-application. How, in that same consciousness, attention whose nature is application, and equanimity whose nature is non-application? The distinction is difficult. Even the difficult can be known. This is exceedingly difficult: no opposition where there is opposition. Application in one respect, non-application in another. Then not all associated factors would have one support. Other questions of this kind will arise. The method for those applies here.
-
-Moral shame and moral caution will be explained later. The two roots are non-greed and non-hatred. Non-delusion exists, and its nature is prajñā. Prajñā is a great-ground factor, so it is not designated only a wholesome great-ground factor. Non-harming is non-injury. Vigor is the energetic arousal of consciousness.
+> These ten occur always in wholesome consciousness. Faith is clarity, heedfulness is cultivation of the wholesome, pliancy is workability, equanimity is evenness. The two roots are non-greed and non-hatred. Non-delusion is prajñā and is already counted among the great-ground factors. Name by favor is not nature.
 
 ## 6. Philosophical Translation
 
-Wholesome is a mode, not a label on an unchanged consciousness. The ten articulate it. Equanimity here is evenness and non-application. It is not the neutral-feeling faculty. Non-delusion is present as Discrimination and is not a second member. Bodily pliancy receives the name by being favorable. The name is not the nature.
-
-The equanimity exchange is not solved. One respect and another meets the objection that associated factors share one support. The method is deferred.
-
-Organon rendering:
-
-A pass of Objective Logic on the mind: the wholesome is determined by what must be in it. Not the verse English. Not the final pass.
+> The wholesome ground is narrower than every consciousness. Non-delusion is not a second member. Equanimity and attention are not opposed in nature; the distinction is of respect.
 
 ## 7. Technical Vocabulary
 
@@ -88,22 +71,17 @@ A pass of Objective Logic on the mind: the wholesome is determined by what must 
 
 ## 8. Logical Determination
 
-```text
-wholesome consciousness
-    → the ten
-    and the universal ten
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-non-delusion
-    = prajñā
-    already counted
-    not a second member
+wholesome = lp.parse(r'all c.(Wholesome(c) -> (Faith(c) & Heedfulness(c) & Pliancy(c) & Equanimity(c) & NonGreed(c) & NonHatred(c) & ...))')
+nondelusion = lp.parse(r'NonDelusion(x) <-> Prajna(x)')
+```
 
-name by favor
-    ≠ nature
-
-equanimity
-    ≠ neutral feeling
-attention and equanimity
+The wholesome ten co-occur with the universal ten.  
+Non-delusion is already prajñā.  
+Name by favor is not nature.tention and equanimity
     application and non-application
     one support not settled
 ```

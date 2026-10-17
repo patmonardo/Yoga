@@ -2,47 +2,43 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कुशलाकुशलं कामे निवृतानिवृतं मनः ।
->
-> रूपारूप्येष्वकुशलादन्यत्रानास्रवं द्विधा ॥ २.६६ ॥
+> कामेऽकुशलं चित्तं निवृतानिवृतं च /
+> रूपारूप्येष्वकुशलात् ऋते अनास्रवं द्विधा // २.६६ //
 
 ## 2. Sanskrit (IAST)
 
-> kuśalākuśalaṃ kāme nivṛtānivṛtaṃ manaḥ /
+> kāme 'kuśalaṃ cittaṃ nivṛtānivṛtaṃ ca /
 >
-> rūpārūpyeṣv akuśalād anyatrānāsravaṃ dvidhā // 2.66 //
-
-Obscured and unobscured are indeterminate. Not ceased and unceasing. The twofold is trainee and beyond-training. Not a fourth realm.
+> rūpārūpyeṣv akuśalād ṛte anāsravaṃ dvidhā // 2.66 //
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| kuśala-akuśalam | wholesome and unwholesome |
-| kāme | in the desire realm |
-| nivṛta-anivṛtam | obscured and unobscured |
-| manaḥ | mind |
-| rūpa-ārūpyeṣu | in the form and formless realms |
-| akuśalāt anyatra | except the unwholesome |
-| anāsravam dvidhā | uncontaminated, twofold |
+| Pada | Morphology | Force |
+|---|---|---|
+| kāme | loc. sg. | In the desire realm. |
+| akuśalam | adj. | Unwholesome. |
+| cittam | n. sg. | Mind. |
+| nivṛtam | adj. | Obscured. |
+| anivṛtam | adj. | Unobscured. |
+| ca | pcl. | And. |
+| rūpārūpyeṣu | loc. pl. | In form and formless. |
+| akuśalāt | abl. sg. | From unwholesome. |
+| ṛte | pcl. | Except. |
+| anāsravam | adj. | Uncontaminated. |
+| dvidhā | adv. | Twofold. |
 
 ## 4. Grammar
 
 ```text
-desire
-    four
-    wholesome, unwholesome, obscured-indeterminate, unobscured-indeterminate
-form, formless
-    three each
-    no unwholesome
-ten
-    contaminated
-uncontaminated
-    trainee, beyond-training
-twelve
-    kinds
-    not twelve at once
+% start S
+S[MIND=twelve] -> Desire[FOUR=true] | Form[THREE=true] | Formless[THREE=true] | Uncontaminated[TWO=true]
 ```
+
+Twelve kinds of mind.  
+Desire four.  
+Form and formless three each, no unwholesome.  
+Uncontaminated twofold, trainee and beyond-training.  
+Succession is not yet.
 
 ## 5. Translation
 
@@ -52,55 +48,38 @@ In the desire realm, mind is wholesome and unwholesome, obscured and unobscured.
 
 ### Bhāṣya-informed study translation
 
-Mind and the factors were stated generally as the immediately antecedent condition. The particular rule was not stated: which mind arises immediately after which. That is now to be explained. In summary, twelve kinds of mind.
-
-Four in the desire realm. Wholesome, unwholesome, obscured-indeterminate, unobscured-indeterminate. No unwholesome in the form realm. Three. The same in the formless. Ten contaminated. Uncontaminated is twofold: trainee and beyond-training. Twelve. Among these—
+> Twelve kinds of mind. Desire four. Form and formless three each, no unwholesome. Uncontaminated twofold, trainee and beyond-training. Succession is not yet.
 
 ## 6. Philosophical Translation
 
-The list is the terms of the succession. Not the rules. Wholesome among the ten is not uncontaminated. No unwholesome in the higher realms is not no affliction. Obscured-indeterminate remains. Unobscured is not a second wholesome.
-
-Trainee and beyond-training classify the uncontaminated mind. Not every mind of a trainee, and not every mind of one beyond training. The final mind of an arhat remains excluded from being an antecedent. This list does not revoke that.
-
-Organon rendering:
-
-Twelve kinds, so that a following can be stated. Not the verse. Not the final pass.
+> Twelve kinds of mind. Desire four. Form and formless three each, no unwholesome. Uncontaminated twofold, trainee and beyond-training. Succession is not yet.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Running word | Determination |
-|---|---|---|
-| nivṛtāvyākṛta | obscured-indeterminate | afflicted, not wholesome or unwholesome |
-| anivṛtāvyākṛta | unobscured-indeterminate | not wholesome |
-| śaikṣa | trainee | uncontaminated |
-| aśaikṣa | beyond-training | uncontaminated |
+| Term | Rendering |
+|---|---|
+| kuśala | Wholesome. |
+| akuśala | Unwholesome. |
+| nivṛta | Obscured. |
+| anivṛta | Unobscured. |
+| anāsrava | Uncontaminated. |
+| śaikṣa | Trainee. |
+| aśaikṣa | Beyond-training. |
 
 ## 8. Logical Determination
 
-```text
-desire
-    4
-form
-    3
-formless
-    3
-uncontaminated
-    2
-twelve
-    kinds
-succession
-    not yet
-```
+Twelve kinds of mind. Succession is not yet.
 
 ## 9. Interpretive Note
 
-Desire-realm wholesome mind, and what follows it, is the next verse. Not this unit.
+Twelve kinds of mind. Desire four. Form and formless three each, no unwholesome. Uncontaminated twofold, trainee and beyond-training. Succession is not yet.
 
 ## 10. OWL++ Seed
 
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-
-vak:VAK_2_66 a vak:Karika ; vak:hasTopic vak:TwelveMinds .
-vak:TwelveMinds vak:count 12 .
+```turtle
+:DesireMind :kinds 4 .
+:FormMind :kinds 3 ; :hasUnwholesome false .
+:FormlessMind :kinds 3 ; :hasUnwholesome false .
+:UncontaminatedMind :kinds 2 .
+:Succession :notYet true .
 ```

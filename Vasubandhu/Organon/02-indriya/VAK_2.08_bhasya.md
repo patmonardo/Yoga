@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > anyatra sā saumanasyam aśātā caitasī punaḥ /
+>
 > daurmanasyam upekṣā tu madhyā ubhayī avikalpanāt // 2.08 //
 
-> Elsewhere, that is gladness. Disagreeable mental feeling, in turn, is distress. Neutral feeling, however, is the middle, of both kinds, because of non-differentiation.
-
-That resumes the agreeable mental feeling of 2.07. Of both kinds is bodily and mental. The commentary unfolds non-differentiation as arising, then as effect.
+> Elsewhere agreeable mental feeling is gladness. Disagreeable mental feeling is distress. Neutral feeling is the middle, of both kinds, and remains one faculty because the neutral operation does not split. Pleasure and pain divide by mode; neutral feeling does not.
 
 ## 2. Continuous Sanskrit Witness
 

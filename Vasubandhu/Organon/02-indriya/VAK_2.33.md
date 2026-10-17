@@ -12,8 +12,6 @@
 >
 > madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // 2.33 //
 
-The source assigns 2.33 twice. This is the second instance. Cāra is read as vicāra by the prose. The witness stays.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -32,18 +30,15 @@ Of consciousness is supplied later. It covers the three definitions.
 ## 4. Grammar
 
 ```text
-vitarka, vicāra
-    = coarseness, subtlety of consciousness
-    coexistence not settled by the dual
-
-conceit
-    = elevation of consciousness
-    by a constructed distinction relative to another
-
-intoxication
-    = taking-over of consciousness
-    in one attached to one's own qualities
+% start S
+S[NAME=vitarka] -> Coarseness[OF=consciousness]
+S[NAME=vicara] -> Subtlety[OF=consciousness]
+S[NAME=conceit] -> Elevation[RELATIVE=other]
+S[NAME=intoxication] -> TakingOver[ATTACHMENT=own-qualities]
 ```
+
+Coexistence of vitarka and vicāra is not settled by the dual.  
+Conceit compares; intoxication takes over one's own.
 
 ## 5. Translation
 
@@ -53,25 +48,11 @@ Vitarka and vicāra are coarseness and subtlety. Conceit is elevation. Intoxicat
 
 ### Bhāṣya-informed study translation
 
-Of consciousness, as will be stated. How are the two associated with one consciousness? Some say: as clarified butter in water, touched by the sun, neither congeals excessively nor melts, so consciousness associated with both is neither excessively subtle nor excessively coarse. Both operate there.
-
-Then they would be conditions of coarseness and subtlety, as water and heat are of congealing and melting, not those states as their nature. Coarseness and subtlety are relative by level and variety. They would then extend to the summit of existence. Difference of kind is not established by coarseness and subtlety.
-
-Others say they are formations of speech. Having examined, one speaks. The coarse are vitarka. The subtle are vicāra. Coarse and subtle in one consciousness would not contradict if the kinds differed, as feeling and reflection do. Lesser and greater intensity in one kind do not occur together. A difference of kind should then be stated. It is difficult to state, and is indicated by intensity. Not indicated that way: each kind itself admits intensity.
-
-Still others say they do not occur in one consciousness at all. How does the first dhyāna have five factors? With reference to the level, not to the moment.
-
-Conceit is elevation of consciousness through any construction of distinction relative to another. Intoxication is the taking-over of consciousness in one attached to one's own qualities. As intoxication born of liquor, so born of attachment. Others say a particular exhilaration.
+> Vitarka and vicāra are coarseness and subtlety of consciousness. Their co-presence is disputed: conditions, formations of speech, or level rather than moment. Conceit is elevation through a constructed distinction relative to another. Intoxication is the taking-over of consciousness in one attached to one's own qualities. The first distinction is not settled.
 
 ## 6. Philosophical Translation
 
-The definition is tested and not settled. A condition is not the state it conditions. Degree is not kind. Speech-formation is one account. Non-coexistence is another. Five factors of the first dhyāna can be said of the level and not of the moment. That is attributed. Not a final adjudication. No order of the factors is supplied under that account.
-
-Conceit compares. Intoxication takes over one's own. Both inflate. The relations differ. Exhilaration is others. Not a replacement.
-
-Organon rendering:
-
-Level-membership is not moment-co-presence. The dispute stays open. Objective Logic on the mind is the pass, not the translation. Not the final pass.
+> Coarseness and subtlety do not by themselves settle co-presence. Conceit compares. Intoxication takes over one's own. Level-attribution is not moment-co-presence.
 
 ## 7. Technical Vocabulary
 
@@ -89,24 +70,19 @@ Level-membership is not moment-co-presence. The dispute stays open. Objective Lo
 
 ## 8. Logical Determination
 
-```text
-causes coarseness
-    ≠ is coarseness
-relative coarse and subtle
-    would reach the summit
-    conflicts with 2.31
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-intensity
-    ≠ kind
-each kind
-    itself has intensity
+vitarka = lp.parse(r'Vitarka(x) <-> Coarseness(x,consciousness)')
+vicara = lp.parse(r'Vicara(x) <-> Subtlety(x,consciousness)')
+conceit = lp.parse(r'Conceit(x) <-> Elevation(x,relative-to-other)')
+intox = lp.parse(r'Intoxication(x) <-> TakingOver(x,own-qualities)')
+```
 
-level has both
-    ↛ every moment has both
-    attributed, not adjudicated
-
-conceit
-    = elevation relative to another
+The dual does not settle co-presence.  
+Level is not moment.  
+Conceit compares; intoxication takes over. another
 intoxication
     = taking-over of one's own
 liquor

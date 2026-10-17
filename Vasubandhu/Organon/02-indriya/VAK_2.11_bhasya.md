@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > mano 'nyavittiśraddhādīny aṣṭakaṃ kuśalaṃ dvidhā /
+>
 > daurmanasyaṃ mano 'nyā ca vittis tredhā anyad ekadhā // 2.11 //
 
-> Mind, the other feelings, and those beginning with faith. The eight are wholesome. Distress is twofold. Mind and the other feeling are threefold. The remainder is onefold.
-
-The opening completes the ten of 2.10. That commentary stands there. The ethical question begins at the eight are wholesome.
+> The eight are wholesome by the very operation that defines them. Distress always bears a quality and is never indeterminate. Mind and the remaining feelings keep one function across the three qualities. The rest govern, yet remain exclusively indeterminate.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -1,43 +1,46 @@
-# VAK_2.67 — Desire-Realm Succession
+# VAK_2.67 — Desire Realm Succession
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कामे नव शुभाच्चित्ताच्चित्तान्यष्टाभ्य एव तत् ।
->
-> दशभ्योऽकुशलं तस्माच्चत्वारि निवृतं तथा ॥ २.६७ ॥
+> कामे नव शुभात् तच्च अष्टाभ्यः दशभिः अकुशलात् /
+> तस्मात् चतुर्भिः निवृतं तथा // २.६७ //
 
 ## 2. Sanskrit (IAST)
 
-> kāme nava śubhāc cittāc cittāny aṣṭābhya eva tat /
+> kāme nava śubhāt tac ca aṣṭābhyaḥ daśabhir akuśalāt /
 >
-> daśabhyo 'kuśalaṃ tasmāc catvāri nivṛtaṃ tathā // 2.67 //
-
-Śubha is wholesome. Nivṛta is obscured-indeterminate. Immediate is understood. Stated later. Kinds, not nine at once.
+> tasmāt caturbhiḥ nivṛtaṃ tathā // 2.67 //
 
 ## 3. Lexical Analysis
 
-| Pada | Force |
-|---|---|
-| kāme nava | in the desire realm, nine |
-| śubhāt cittāt | from wholesome mind |
-| aṣṭābhyaḥ eva tat | that, only from eight |
-| daśabhyaḥ akuśalam | unwholesome, from ten |
-| tasmāt catvāri | from it, four |
-| nivṛtam tathā | obscured, likewise |
+| Pada | Morphology | Force |
+|---|---|---|
+| kāme | loc. sg. | In the desire realm. |
+| nava | num. | Nine. |
+| śubhāt | abl. sg. | From wholesome. |
+| tat | n. sg. | That. |
+| ca | pcl. | And. |
+| aṣṭābhyaḥ | abl. pl. | From eight. |
+| daśabhiḥ | inst. pl. | By ten. |
+| akuśalāt | abl. sg. | From unwholesome. |
+| tasmāt | abl. sg. | From that. |
+| caturbhiḥ | inst. pl. | By four. |
+| nivṛtam | adj. | Obscured. |
+| tathā | adv. | Likewise. |
 
 ## 4. Grammar
 
 ```text
-wholesome
-    nine follow
-    it follows eight
-unwholesome
-    follows ten
-    four follow
-obscured
-    the same ten and four
-    not the same ethical status
+% start S
+S[SUCCESSION=desire-wholesome] -> FollowedBy[NINE=true] | Follows[EIGHT=true]
+S[SUCCESSION=unwholesome] -> FollowedBy[FOUR=true] | Follows[TEN=true]
+S[SUCCESSION=obscured] -> FollowedBy[FOUR=true] | Follows[TEN=true]
 ```
+
+Desire wholesome followed by nine, follows eight.  
+Asymmetry is formless obscured.  
+Formless wholesome excluded by four remotenesses.  
+Unwholesome and obscured follow ten, followed by four.
 
 ## 5. Translation
 
@@ -47,55 +50,34 @@ In the desire realm, nine minds from a wholesome mind. That, only from eight. Un
 
 ### Bhāṣya-informed study translation
 
-Immediately after, to be stated later. Nine after wholesome desire-realm mind. Four of its own level. Two of the form realm: wholesome at entry into attainment, obscured at rebirth-linking. Formless, obscured only, at rebirth-linking. Not wholesome. Too remote. Four remotenesses: support, aspect, object, counteragent. Trainee and beyond-training.
-
-That wholesome mind follows eight. Four of its own level. Form wholesome, at emergence. Form obscured, when one pressed by an afflicted attainment resorts to the wholesome supporting level. Trainee and beyond-training, at emergence.
-
-Unwholesome follows ten, excluding trainee and beyond-training. By rebirth-linking, after all form and formless minds. Four follow it, its own level only. Obscured likewise: after ten, and four after it.
+> Desire wholesome followed by nine, follows eight. Asymmetry is formless obscured. Formless wholesome excluded by four remotenesses. Unwholesome and obscured follow ten, followed by four.
 
 ## 6. Philosophical Translation
 
-What can follow is not what can precede. The missing one, outgoing, is formless wholesome. The extra one, outgoing and not incoming, is formless obscured. One direction does not license the reverse.
-
-Entry, emergence, and rebirth-linking are different occasions. Not one arrow. A higher obscured mind is not an unwholesome mind. The counts are admissible kinds, not every occurrence regardless of the person.
-
-Organon rendering:
-
-A rule of following, with direction. Not a free graph. Not the verse. Not the final pass.
+> Desire wholesome followed by nine, follows eight. Asymmetry is formless obscured. Formless wholesome excluded by four remotenesses. Unwholesome and obscured follow ten, followed by four.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Running word | Determination |
-|---|---|---|
-| śubha | wholesome | glossed kuśala |
-| nivṛta | obscured-indeterminate | same counts, not same status |
-| dūratā | remoteness | four, named not measured |
-| pratisandhi | rebirth-linking | the cross-realm occasion |
+| Term | Rendering |
+|---|---|
+| dūratā | Remoteness. Four: support, aspect, object, counteragent. |
+| upapatti | Rebirth-linking. |
+| samāpatti | Attainment. |
 
 ## 8. Logical Determination
 
-```text
-wholesome
-    follows 8
-    followed by 9
-    asymmetry = formless obscured
-unwholesome, obscured
-    follow 10 contaminated
-    followed by 4 desire
-formless wholesome
-    not a successor
-    four remotenesses
-```
+Desire wholesome followed by nine, follows eight. Asymmetry is formless obscured. Four remotenesses exclude formless wholesome.
 
 ## 9. Interpretive Note
 
-Unobscured-indeterminate is the next verse. Not this unit.
+Desire wholesome followed by nine, follows eight. Asymmetry is formless obscured. Formless wholesome excluded by four remotenesses. Unwholesome and obscured follow ten, followed by four.
 
 ## 10. OWL++ Seed
 
-```ttl
-@prefix vak: <http://127.0.0.1:3000/vak#> .
-
-vak:VAK_2_67 a vak:Karika ; vak:hasTopic vak:DesireSuccession .
-vak:WholesomeDesire vak:outgoing 9 ; vak:incoming 8 .
+```turtle
+:DesireWholesome :followedBy 9 ; :follows 8 .
+:Asymmetry :isFormlessObscured true .
+:FormlessWholesome :excludedBy :FourRemotenesses .
+:Unwholesome :follows 10 ; :followedBy 4 .
+:Obscured :follows 10 ; :followedBy 4 .
 ```

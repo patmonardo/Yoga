@@ -3,9 +3,10 @@
 ## 1. Kārikā Anchor
 
 > aṣṭābhir ekādaśabhis tv ājñājñātendriyānvitaḥ /
+>
 > ājñāsyāmīndriyopetas trayodaśabhir anvitaḥ // 2.19 //
 
-> With eight. But one accompanied by the knowledge-faculty or the faculty of one who has known, with eleven. One furnished with the faculty “I shall know” is accompanied by thirteen.
+>> The knowledge-faculty and the faculty of one who has known each require eleven. “I shall know” requires thirteen. The difference is not further realization. It is the presence of body and the fourth feeling on the uninterrupted path.
 
 The eight completed 2.18. This unit begins at eleven and ends with the thirteen. The smallest total is the next question.
 

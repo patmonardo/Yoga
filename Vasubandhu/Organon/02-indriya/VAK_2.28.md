@@ -12,8 +12,6 @@
 >
 > dvāviṃśatiś caitasikāḥ kaukṛtyam adhikaṃ kvacit // 2.28 //
 
-The research line has dvāṃviṃśatiḥ. Twenty-two is the count the prose gives.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -30,18 +28,13 @@ Kvacit keeps regret out of the wholesome ground. Consciousness itself is not one
 ## 4. Grammar
 
 ```text
-wholesome desire-realm consciousness
-    10 universal
-    10 wholesome
-    vitarka, vicāra
-    = 22, necessarily
-
-regret
-    sometimes
-    = 23 where present
+% start S
+S[REALM=desire, ETHICAL=wholesome] -> TwentyTwo[UNIVERSAL=10, WHOLESOME=10, VITARKA=true, VICARA=true]
+S[REALM=desire, ETHICAL=wholesome, REGRET=true] -> TwentyThree
 ```
 
-Desire-realm consciousness is necessarily with vitarka and vicāra. Their definitions are not this unit. Not two stages.
+Desire-realm consciousness forces `VITARKA` and `VICARA`.  
+Regret is optional; it does not redefine the base.
 
 ## 5. Translation
 
@@ -51,19 +44,11 @@ Because accompanied by vitarka and vicāra, in wholesome desire-realm consciousn
 
 ### Bhāṣya-informed study translation
 
-How many mental factors necessarily occur in which consciousness? Desire-realm consciousness is fivefold: wholesome; unwholesome, isolated or associated with another affliction; indeterminate, obscured or unobscured. Desire-realm consciousness is necessarily with vitarka and vicāra. Hence in wholesome desire-realm consciousness, twenty-two: the ten, the ten, vitarka, and vicāra.
-
-Regret is not in every wholesome consciousness. Where it is, twenty-three. Kaukṛtya is the state of what is badly done. Here the dharma that has that as support is called kaukṛtya: regret in consciousness. As the gateway that has emptiness as support is called emptiness, and non-greed that has the unattractive as support is called the unattractive. The whole village has arrived: the place names the occupants. What is badly done is the basis of regret. Alternatively, the cause's name on the effect, as the six bases of contact are called former action.
-
-How is what has the not-done as support called kaukṛtya? The not-done can be called done: I did not do well in not doing it. Which regret is wholesome? Trouble after not doing the wholesome, or after doing the unwholesome. The reverse is unwholesome. Both have a twofold basis.
+> In wholesome desire-realm consciousness twenty-two mental factors necessarily occur: the ten universal, the ten wholesome, vitarka, and vicāra. Regret is additional where present, making twenty-three. Kaukṛtya names the regret that has the badly done as support; the name is transferred. Wholesome regret follows failure to do the wholesome or doing the unwholesome.
 
 ## 6. Philosophical Translation
 
-The classes become a count. Realm supplies vitarka and vicāra. Ethical quality supplies the wholesome ten. The universal ten are already there. Regret is licensed, not required. The badly done is not the factor. The name moves. Wholesome regret is not self-reproach as such. Direction decides: what was done or omitted, and which way the regret faces.
-
-Organon rendering:
-
-Composition of one consciousness. Not a stage. Objective Logic on the mind is the pass, not the translation. Not the final pass.
+> The count is necessity, not inventory. Regret is optional. The name kaukṛtya is transferred from the basis; it is not the basis itself.
 
 ## 7. Technical Vocabulary
 
@@ -80,26 +65,18 @@ Composition of one consciousness. Not a stage. Objective Logic on the mind is th
 
 ## 8. Logical Determination
 
-```text
-wholesome desire-realm
-    = 10 + 10 + vitarka + vicāra
-    = 22
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-regret present
-    = 23
-regret absent
-    = 22
-
-wholesome regret
-    = not-done wholesome, or done unwholesome
-unwholesome regret
-    = done wholesome, or not-done unwholesome
-
-status of the basis
-    ≠ status of the regret
-name transferred
-    ≠ identity
+base = lp.parse(r'all c.(Desire(c) & Wholesome(c) -> Count(c,22))')
+regret = lp.parse(r'all c.(Regret(c) -> Count(c,23))')
+name = lp.parse(r'Kaukrtya(x) <-> RegretWithSupport(x,BadlyDone)')
 ```
+
+Twenty-two is necessity.  
+Twenty-three is the optional addition.  
+The name is transferred; it is not the basis.
 
 ## 9. Interpretive Note
 

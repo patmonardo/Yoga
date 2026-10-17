@@ -12,8 +12,6 @@
 >
 > teḥ ṣaḍ vā sapta vā aṣṭau vā ṣaḍ rūpeṣu ekam uttare // 2.14 //
 
-The kārikā witness has teḥ. The Bhāṣya supports taiḥ, by them. The witness is kept. The analysis uses taiḥ.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -34,24 +32,14 @@ The count is faculties first acquired as maturation. It is not every faculty pre
 ## 4. Grammar
 
 ```text
-desire, not spontaneous
-    body and life
-    2
-
-spontaneous
-    no sexual characteristic     6
-    one                          7
-    both                         8
-    eye, ear, nose, tongue, body, life, plus the marks
-
-form
-    the same six
-
-formless, the higher
-    life alone
+% start S
+S[ACQUIRE=first, REALM=desire, BIRTH=non-spontaneous] -> Body Life
+S[ACQUIRE=first, REALM=desire, BIRTH=spontaneous, SEX=?s] -> Six|Seven|Eight
+S[ACQUIRE=first, REALM=form] -> Six
+S[ACQUIRE=first, REALM=formless] -> Life
 ```
 
-Mind and neutral feeling are present at relinking. They are afflicted, so they are not in the count.
+`ACQUIRE=first` fails for mind and neutral feeling at relinking.
 
 ## 5. Translation
 
@@ -61,19 +49,11 @@ In the desire realm, initially, two are acquired as maturation, not by the spont
 
 ### Bhāṣya-informed study translation
 
-Acquisition is now to be explained. How many faculties are first acquired as maturation, and in which realm? In the desire realm, initially, two: body and life. Not by the spontaneously born. So by the egg-born, the womb-born, and the moisture-born. Why not mind and neutral feeling? At relinking both are necessarily afflicted.
-
-By the spontaneously born, six, if without sexual characteristic, as at the beginning of the age: eye, ear, nose, tongue, body, and life. Seven, if one characteristic, as among gods and others. Eight, if both. Both occur, in the unfortunate destinies.
-
-Six in the form realm: the same six. The desire realm is called desires because desire predominates. The form realm is called forms because form predominates. One in the higher. The formless realm is higher than the form realm, beyond it in attainment and superior in rebirth. There only life is first acquired as maturation. Acquisition has been explained.
+> First acquisition is the maturation that opens the continuum, not every later possession. In the desire realm the non-spontaneous acquire body and life; the spontaneous acquire six, seven, or eight according to sexual characteristic. Form acquires the same six. The formless acquires only life. Mind and neutral feeling are not that opening, because at relinking both are necessarily afflicted.
 
 ## 6. Philosophical Translation
 
-The first matured set depends on realm, birth, and sexual characteristic. Non-spontaneous desire-realm birth begins with body and life. Spontaneous birth begins with the five and life, plus none, one, or both marks. Form begins with the six. Formless begins with life alone, as maturation. Mind and neutral feeling can be present and still not be the result.
-
-Organon rendering:
-
-Membership and consequence, inherited from the Vidyā. The consequence asked here is which members are first acquired as maturation. Presence is not that membership. The indriyas are being read in that light. Not the verse English.
+> First acquisition is the maturation that opens the continuum. Afflicted mind and neutral feeling at relinking are not that opening.
 
 ## 7. Technical Vocabulary
 

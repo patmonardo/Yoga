@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > cittaṃ mano 'tha vijñānam ekārthaṃ cittacaitasāḥ /
+>
 > sāśrayālambanākārāḥ saṃprayuktāś ca pañcadhā // 2.34 //
 
-> Consciousness, mind, and cognition have one meaning. Consciousness and the mental factors have support, cognitive support, and manner, and are associated fivefold.
-
-The commentary keeps the shared referent and the distinct predicates.
+> Citta, manas, and vijñāna have one meaning here, three functions. Consciousness and the mental factors are associated fivefold: equality of support, cognitive support, manner, time, and instance. One consciousness, one of each factor. The referent is one; the roles are not.
 
 ## 2. Continuous Sanskrit Witness
 

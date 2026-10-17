@@ -3,9 +3,10 @@
 ## 1. Kārikā Anchor
 
 > bahubhir yukta ekānnaviṃśatyāmalavarjitaiḥ /
+>
 > dviliṅga āryo rāgī ekaliṅgadvayāmalavarjitaiḥ // 2.21 //
 
-> Endowed with the greatest number, nineteen, excluding the stainless: one possessing both sex faculties. A noble person still possessing attachment, excluding one sex faculty and two stainless faculties.
+>> The greatest number is nineteen. One possessing both sex faculties is endowed with nineteen, excluding the stainless triad. A trainee still possessing attachment is also endowed with nineteen, excluding one sex faculty and two of the stainless. The maximum is not the full twenty-two. It is the complete ordinary or still-attached noble continuum.
 
 The first subject is complete in faculties. The second is a trainee not yet free from attachment. Two cases, not one person.
 

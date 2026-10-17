@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > vitarkacārāv audāryasūkṣmate māna unnatiḥ /
+>
 > madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // 2.33 //
 
-> Vitarka and vicāra are coarseness and subtlety. Conceit is elevation. Intoxication is the taking-over of the consciousness of one attached to one's own qualities.
-
-The commentary tests the first distinction and does not settle it. Conceit and intoxication are then distinguished.
+> Vitarka and vicāra are coarseness and subtlety of consciousness. Their co-presence is disputed: conditions, formations of speech, or level rather than moment. Conceit is elevation through a constructed distinction relative to another. Intoxication is the taking-over of consciousness in one attached to one's own qualities. The first distinction is not settled.
 
 ## 2. Continuous Sanskrit Witness
 

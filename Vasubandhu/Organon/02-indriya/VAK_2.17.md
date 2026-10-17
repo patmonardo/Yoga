@@ -12,8 +12,6 @@
 >
 > upekṣājīvitamanoyukto 'vaśyaṃ trayānvitaḥ // 2.17 //
 
-The first half closed the eleven in 2.16. This study is possession.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -30,20 +28,12 @@ Any one is the commentary's anyatamena. The kārikā compresses it.
 ## 4. Grammar
 
 ```text
-eleven
-    → said, because possible for one person
-    one attainment is nine
-
-possessing any one of neutral feeling, life, mind
-    → necessarily the three
-    none without the others
-
-remainder
-    → no fixed rule
-    may possess, may not
+% start S
+S[POSSESS=three] -> Neutral | Life | Mind
+S[POSSESS=?p] -> Other[EXCLUDED=false]
 ```
 
-Possession is samanvāgama. It is not the feeling occurring now.
+The triad forces co-possession. Other faculties carry exclusion features.
 
 ## 5. Translation
 
@@ -53,19 +43,11 @@ Arhatship is said through eleven, however, because of the possibility for one pe
 
 ### Bhāṣya-informed study translation
 
-One possessing which faculty necessarily possesses how many? One possessing any one of neutral feeling, life, and mind necessarily possesses the three, these very three. None of them is possessed without the others. With the rest there is no fixed rule. One may possess them or not.
-
-One born in the formless realm does not possess eye, ear, nose, or tongue. In the desire realm, one lacks them when not acquired or lost. Formless birth lacks the body-faculty. Form or formless birth lacks female, and male likewise. In the desire realm, not acquired or lost. An ordinary person born in the fourth dhyāna or the formless realm lacks pleasure. An ordinary person in the third or fourth dhyāna, or the formless realm, lacks gladness. Form or formless birth lacks pain. One free from desire for the desire realm lacks distress. Severed wholesome roots lack the five beginning with faith.
-
-Ordinary persons and those established in the fruits lack “I shall know.” Ordinary persons and those on seeing or no-more-training lack the knowledge-faculty. Ordinary persons and trainees lack one who has known. Where not excluded, possession is as stated. The path-status compounds are damaged. This reading is provisional.
+> One who possesses any one of neutral feeling, life, or mind necessarily possesses the three. None of them is possessed without the others. With the remaining faculties there is no fixed rule. Possession is excluded by birth, by non-acquisition or loss, by dispassion, by severed roots, and by path-status. Where not excluded, possession stands.
 
 ## 6. Philosophical Translation
 
-Eleven was a history. This is another relation. Neutral feeling, life, and mind entail one another in possession. Not in manifestation. The rest are conditional: realm, not acquired, lost, ordinary person, dispassion, severed roots, path-position. No fixed rule is relative to the triad. It is not the absence of every further rule.
-
-Organon rendering:
-
-Necessary membership of three. Consequence of possessing one is possessing the three. Not a minimum of mind, and not non-reflective. That look-ahead is not this verse. Not the verse English.
+> The triad of neutral feeling, life, and mind is inseparable. Every other faculty is conditional.
 
 ## 7. Technical Vocabulary
 

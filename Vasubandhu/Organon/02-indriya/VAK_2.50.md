@@ -12,8 +12,6 @@
 >
 > bhūtavac cittacittānuvartilakṣaṇalakṣyavat // 2.50 //
 
-The first clause was the conditioning cause. This unit is the co-arisen. Bhūta is the great elements. Not beings.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -29,19 +27,15 @@ The first clause was the conditioning cause. This unit is the co-arisen. Bhūta 
 ## 4. Grammar
 
 ```text
-conditioning
-    other than itself
-    already defined
-co-arisen
-    those that are mutually results
-examples
-    four great elements, of one another
-    consciousness and its followers, both ways
-    marks and the marked, both ways
-qualification
-    a dharma is co-arisen cause of its secondary marks
-    they are not co-arisen causes of it
+% start S
+S[CAUSE=co-arisen] -> MutualResult
+S[EXAMPLE=elements|citta-followers|marks-marked] -> Mutual
+S[QUALIFY=secondary-marks] -> Asymmetric[FROM=dharma, TO=secondary]
 ```
+
+Co-arisen is mutual result, not simultaneity.  
+Elements, consciousness and followers, marks and marked, both ways.  
+Secondary marks are asymmetric.
 
 ## 5. Translation
 
@@ -51,19 +45,11 @@ Other than itself, the conditioning cause. Co-arisen: those that are mutually re
 
 ### Bhāṣya-informed study translation
 
-Those that are reciprocally one another's results are co-arisen causes of one another. The four great elements, of one another. Consciousness, of the dharmas that follow it, and they of it. The conditioned marks, of what they mark, and it of them. Every conditioned dharma, as appropriate, is a co-arisen cause. Not of every other. Even without mutual result, a dharma is a co-arisen cause of its secondary marks. They are not co-arisen causes of it. That qualification is to be added.
+> Co-arisen causes are those that are mutually results. The four great elements, of one another. Consciousness and its followers, both ways. The marks and the marked, both ways. A dharma is co-arisen cause of its secondary marks; they are not of it. Mutual result is not simultaneity.
 
 ## 6. Philosophical Translation
 
-Co-arisen is more than the same moment. Each stands as result of the other. The return is stated for consciousness and the followers, and for the marks. Not a principal producing passive accompaniments.
-
-The secondary marks break the rule. Reciprocity is the definition. It is not exceptionless. Principal marks and secondary marks stay apart. The marked dharma's mutual relation is not copied onto the secondary.
-
-Who the followers are is the next question. Not this verse.
-
-Organon rendering:
-
-Consciousness and the followers are the local contact with citta:caitta. Produced consciousness, not Citta the Universal. The Hub is not an extra cause in the examples. Not the verse. Not the final pass.
+> Co-arisen is mutual result, not simultaneity. The examples run both ways. Secondary marks are the asymmetric qualification. Not every conditioned dharma of every other.
 
 ## 7. Technical Vocabulary
 

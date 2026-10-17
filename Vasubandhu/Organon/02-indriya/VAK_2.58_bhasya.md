@@ -2,27 +2,30 @@
 
 ## 1. Kārikā Anchor
 
-> yadvalāj jāyate yat tat phalaṃ puruṣakārajam /
+> yadvalāj jāyate yat tatphalaṃ puruṣakārajam /
+>
 > apūrvaḥ saṃskṛtasyaiva saṃskṛto 'dhipateḥ phalam // 2.58 //
 
-> Whatever arises through the force of which, that is the fruit born of efficacy. A conditioned dharma not earlier arisen is the fruit of predominance of the conditioned alone.
+> Efficacy is arising through a force. Cessation by Discrimination is attained, not arisen. Predominance is not-earlier conditioned, of the conditioned alone. Agent gets both; non-agent predominance only. Local samādhi is not the ascent.
 
-From 96.03 through 96.10. Taking and giving at 96.11 is 2.59. Not opened.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> yadvalāj jāyate yat tatphalaṃ puruṣakārajam /
+> tadyathā adharabhūmikasya prayogacittasyoparibhūmikaḥ samādhiḥ sāsravasyānāsravo dhyānacittasya nirmāṇacittam ity evamādi /
+> pratisaṃkhyānirodhas tu yadvalāt prāpyata iti vaktavyam /
+> apūrvaḥ saṃskṛtasyaiva saṃskṛto 'dhipateḥ phalam // 2.58 //
+> pūrvotpannād anyaḥ saṃskṛto dharmaḥ saṃskṛtasyaiva sarvasyādhipatiphalam /
 
-Whatever arises through a force is its fruit of efficacy. Higher concentration from lower application. Uncontaminated from contaminated. Transformation-mind from concentration-mind. Cessation by Discrimination is attained through the force, not arisen. Predominance is a conditioned dharma not earlier arisen, of the conditioned alone. Of the agent, both. Of the non-agent, predominance only. The crafted work, for the artisan and for the others.
+The unit is printed 96.03–96.09 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-Definition, examples, the verb changed for the cessation, then the wider fruit, then one work in two relations. Not a collation.
+Whatever arises through the force of which, that is the fruit born of efficacy. A higher-level concentration, of a lower application-mind. An uncontaminated one, of a contaminated one. A transformation-mind, of a concentration-mind. And the rest. For cessation by Discrimination, say attained through its force. Not arisen. A conditioned dharma other than one arisen earlier is the fruit of predominance of every conditioned dharma. Of the conditioned alone. Fruit of efficacy, of the agent. Fruit of predominance, even of the non-agent.
 
 ## 4. Organon Reading
 
-Relation, not an isolated object. Attained is not produced. The local concentration is not the ascent. Not the translation. Not the final pass.
+Efficacy is arising through a force. Cessation by Discrimination is attained, not arisen. Predominance is not-earlier conditioned, of the conditioned alone. Agent gets both; non-agent predominance only.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. The figure is not Puruṣa. Discrimination kept.
-
-2.59 has not been opened.
+Fine-tuned with the kārikā. Local samādhi is not the ascent.

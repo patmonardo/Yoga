@@ -12,8 +12,6 @@
 >
 > anyo 'nyaṃ navabhūmis tu mārgaḥ samaviśiṣṭayoḥ // 2.52 //
 
-Homogeneous cause. Not same-class. Prior-born is temporal. Not a logical before.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -29,18 +27,15 @@ Homogeneous cause. Not same-class. Prior-born is temporal. Not a logical before.
 ## 4. Grammar
 
 ```text
-ordinary
-    similar
-    own class
-    own level
-    prior-born
-    all four
-Path
-    nine levels, of one another
-    equal or superior only
-    prior still required
-    not the co-arisen reciprocity
+% start S
+S[CAUSE=homogeneous] -> Similar[CLASS=own, LEVEL=own, TIME=prior]
+S[CAUSE=homogeneous, PATH=true] -> NineLevels[EQUAL=true | SUPERIOR=true]
 ```
+
+Homogeneous is similar, own class and level, prior-born.  
+Future is not.  
+Path crosses nine levels, equal or superior only.  
+Not same-class.
 
 ## 5. Translation
 
@@ -50,21 +45,11 @@ Homogeneous cause: similar, of their own class and level, prior-born. But the Pa
 
 ### Bhāṣya-informed study translation
 
-Similar of similar. Wholesome of wholesome, afflicted of afflicted, indeterminate of indeterminate. Not all similar. Own class: the five abandonments, from seeing suffering through cultivation. Own level: desire realm and the eight of concentration and the formless. Prior-born, of later ones, arisen or not. A future dharma is not a homogeneous cause.
-
-The treatise: previously arisen wholesome roots, of subsequently arisen, in their own realm. Never not a cause is said of the co-arisen, the associated, and the maturation cause. Not of this one. A homogeneous cause becomes a cause after not having been one, by state, not by substance. A future one would have no earlier and later, and an arisen dharma cannot be the outflow of a future one. The result must not precede the cause. A future maturation cause is not excluded. Cause and result differ in character, so reciprocity does not follow.
-
-The own-level rule is for the contaminated. The Path of nine levels is homogeneous cause across them: access, intermediate, four concentrations, three formless. Adventitious. Not appropriated by the cravings of those levels. Of the equal or the superior, not of the inferior. Seeing reaches seeing, cultivation, and no-more-learning. Cultivation reaches two. No-more-learning reaches itself. Weak faculties reach weak and sharp. Sharp reaches sharp. A lower level can be equal or superior by faculties and by accumulation of causes. Not by height.
+> Homogeneous cause is similar, of its own class and level, prior-born. Future is not. The Path of nine levels is homogeneous cause across them, of the equal or the superior only. Not same-class. Prior still required. Not the co-arisen reciprocity.
 
 ## 6. Philosophical Translation
 
-Serial, not static resemblance. Similarity without priority is not this cause. Priority without class and level is not this cause. The Path relaxes the level only. It does not relax the prior, and it does not run downward.
-
-Nine levels of the Path are not the nine of the ordinary rule. Presence at a level is not belonging to its contaminated order.
-
-Organon rendering:
-
-A course continues in kind from what has already arisen. The pass does not descend. Not the verse. Not the final pass.
+> Homogeneous is similar, own class and level, prior-born. Future is not. Path crosses nine levels, equal or superior only. Not same-class. State, not substance.
 
 ## 7. Technical Vocabulary
 

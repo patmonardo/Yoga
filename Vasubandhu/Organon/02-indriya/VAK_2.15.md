@@ -12,8 +12,6 @@
 >
 > upekṣāṃ caiva rūpe 'ṣṭau kāme daśa navāṣṭau vā // 2.15 //
 
-Uparamān nārūpye is compressed. The Bhāṣya reads it as death in the formless realm. That governs the translation. The wording is not silently repaired.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -30,21 +28,15 @@ Nirodha here is cessation of possessed faculties at death. It is not abandonment
 ## 4. Grammar
 
 ```text
-formless, at death
-    life, mind, neutral feeling
-    3
-
-form
-    those three and the five beginning with the eye
-    8
-
-desire, all at once
-    both marks     10
-    one            9
-    neither        8
+% start S
+S[CEASE=death, REALM=formless] -> Life Mind Neutral
+S[CEASE=death, REALM=form] -> Eight
+S[CEASE=death, REALM=desire, SEX=?s] -> Ten|Nine|Eight
+S[CEASE=gradual] -> Body Life Mind Neutral
+S[CEASE=death, MIND=wholesome] -> ... + Five
 ```
 
-The kārikā counts are simultaneous death. Gradual death is the next clause: four, body, life, mind, and neutral feeling. They do not cease separately. A wholesome mind adds the five everywhere. That addition completes the death count. It is marked, not imported as a new topic.
+Cessation features do not invert the acquisition features.
 
 ## 5. Translation
 
@@ -54,19 +46,11 @@ Brings to cessation, at death in the formless realm, life, mind, and neutral fee
 
 ### Bhāṣya-informed study translation
 
-Loss is now to be explained. Dying in which realm, how many faculties does one bring to cessation? In the formless realm: life, mind, and neutral feeling. In the form realm, eight: those three and the five beginning with the eye. All there are spontaneously born. They arise and die with faculties complete.
-
-In the desire realm, ten, nine, or eight. Both sexual characteristics, ten: the eight and female and male. One, nine. Neither, eight. This is the rule for death all at once.
-
-In gradual death, four: body, life, mind, and neutral feeling. These do not cease separately. That rule is for an afflicted or indeterminate mind. With a wholesome mind, everywhere five in addition: those beginning with faith. In the formless realm, eight. In the form realm, thirteen. The rest are to be counted the same way.
+> Cessation at death is not the inverse of first acquisition. In the formless, life, mind, and neutral feeling cease. In the form realm, eight. In the desire realm, ten, nine, or eight according to sexual characteristic. Gradual death ceases only body, life, mind, and neutral feeling. A wholesome mind adds the five beginning with faith. These do not cease separately.
 
 ## 6. Philosophical Translation
 
-The end is not the reverse of the beginning. 2.14 counted what is first acquired as maturation. This counts what ceases at death. In the formless realm life alone was the initial result. At death, life, mind, and neutral feeling cease. Form adds the five. Desire adds neither, one, or both marks. Gradual death ends on four that do not cease apart. A wholesome mind adds the five. Their ceasing is not their abandonment.
-
-Organon rendering:
-
-Consequence at the boundary. Membership is which possessed faculties cease, by realm, marks, mode of dying, and the quality of the last mind. Not the inverse of the constructor. Not the verse English.
+> Death does not reverse birth. The faculties that cease are those that cannot cease separately. A wholesome mind carries the five with it.
 
 ## 7. Technical Vocabulary
 

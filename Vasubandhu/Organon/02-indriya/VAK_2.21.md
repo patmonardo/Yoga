@@ -12,8 +12,6 @@
 >
 > dviliṅga āryo rāgī ekaliṅgadvayāmalavarjitaiḥ // 2.21 //
 
-Dviliṅga completes the first case. It does not qualify ārya. The second case begins at āryo rāgī.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -31,18 +29,12 @@ Stainless is the three. The running text has a short vowel in the second compoun
 ## 4. Grammar
 
 ```text
-both sex faculties, otherwise complete
-    → exclude the three
-    = 19
-
-noble trainee, not free from attachment
-    → exclude one sex faculty
-    → exclude one who has known, and one of the other two
-    = 19
+% start S
+S[MAX=19, SEX=both] -> Faculty[STAINLESS=false]
+S[MAX=19, NOBLE=true, ATTACHMENT=true] -> Faculty[SEX=one, STAINLESS=two-excluded]
 ```
 
-Same count. Different exclusions. Complete does not mean all twenty-two.
-
+Nineteen is the maximum that still carries attachment or both sex faculties.
 ## 5. Translation
 
 ### Literal Translation
@@ -51,17 +43,11 @@ Endowed with the greatest number, nineteen, excluding the stainless: one possess
 
 ### Bhāṣya-informed study translation
 
-With how many is one endowed who possesses the greatest number? Nineteen, excluding the stainless: excluding the three uncontaminated faculties. Who? One possessing both sex faculties, whose faculties are complete.
-
-Who else? A noble person still possessing attachment. A trainee not yet free from attachment is also endowed with nineteen, excluding one sex characteristic and two uncontaminated faculties: the faculty of one who has known, and either one of the other two. The detailed differentiation of the faculties, entered in connection with the differentiation of the principles, has been stated.
+> The greatest number is nineteen. One possessing both sex faculties is endowed with nineteen, excluding the stainless triad. A trainee still possessing attachment is also endowed with nineteen, excluding one sex faculty and two of the stainless. The maximum is not the full twenty-two. It is the complete ordinary or still-attached noble continuum.
 
 ## 6. Philosophical Translation
 
-Nineteen is the upper bound, and it is two subjects. The worldly maximum has both sex faculties and no realization-faculty. The trainee has one sex faculty and one realization-faculty, the one appropriate to the stage. One who has known is excluded in either trainee case. Equal count is not equal path-status. The maximum is not the completion of training.
-
-Organon rendering:
-
-The floor was two eights. The ceiling is two nineteens. Neither is the telos. Prāpti is still the look-ahead, the entry the count does not make. Not the verse English.
+> Nineteen is the maximum that still includes attachment or both sexual characteristics. The stainless triad is never co-present with that maximum.
 
 ## 7. Technical Vocabulary
 

@@ -1,28 +1,30 @@
-# VAK_2.68 Bhāṣya — Neutral Desire, Wholesome Form
+# VAK_2.68 Bhāṣya — Unobscured and Form Wholesome
 
 ## 1. Kārikā Anchor
 
-> pañcabhyo 'nivṛtaṃ tasmāt sapta cittāny anantaram /
-> rūpe daśaikaṃ ca śubhān navabhyas tad anantaram // 2.68 //
+> anivṛtaṃ pañcabhyaḥ tadanantaraṃ sapta cittāni /
+>
+> rūpe daśaikaṃ ca śubhāt navabhyas tadanantaram // 2.68 //
 
-> Unobscured from five. Immediately after it, seven minds. In the form realm, eleven from wholesome. That, immediately after nine.
+> Desire unobscured follows five, followed by seven. Form wholesome followed by eleven, follows nine. Excludes formless unobscured.
 
-From 104.09 through 104.21. Form obscured at 104.22 is 2.69.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> anivṛtaṃ pañcabhyaḥ /
+> tadanantaraṃ sapta cittāni /
+> rūpe daśaikaṃ ca śubhāt /
+> navabhyas tadanantaram // 2.68 //
 
-Desire unobscured-indeterminate follows five and is followed by seven. The cross-realm pair is creation-mind and form wholesome, both ways. Higher afflicted successors are at rebirth-linking. Form wholesome is followed by eleven and follows nine, by the exclusions stated.
+The unit is printed 104.16–104.25 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-Desire continues, then the realm changes. Exclusions do the counting. Not a collation.
+Desire unobscured-indeterminate follows the four of its level and form wholesome, from which the mind of supernormal creation arises. Seven follow it: the four, form wholesome after the creation-mind, form obscured at rebirth-linking, formless obscured only at rebirth-linking. Eleven follow form wholesome, excluding formless unobscured-indeterminate. It follows nine, excluding the two afflicted desire kinds and formless unobscured-indeterminate.
 
 ## 4. Organon Reading
 
-Creation is not construction. Rebirth is not entry. Not the translation. Not the final pass.
+Desire unobscured follows five, followed by seven. Form wholesome followed by eleven, follows nine. Excludes formless unobscured.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn.
-
-2.69 has not been opened in this file.
+Fine-tuned with the kārikā. Excludes formless unobscured.

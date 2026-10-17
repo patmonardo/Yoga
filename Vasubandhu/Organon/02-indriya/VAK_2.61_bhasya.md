@@ -2,27 +2,33 @@
 
 ## 1. Kārikā Anchor
 
-> cittacaittās tathānye 'pi saṃprayuktakavarjitāḥ /
-> catvāraḥ pratyayā uktā hetvākhyaḥ pañca hetavaḥ // 2.61 //
+> cittacaittāḥ samānāḥ śeṣāḥ saṃprayuktād ṛte /
+>
+> catvāraḥ pratyayā uktāḥ hetvākhyaḥ pañca hetavaḥ // 2.61 //
 
-> Mind and the mental factors, likewise. The others also, excluding the associated cause. Four conditions are taught. The one named cause is the five causes.
+> Four conditions named. Cause-condition is five causes, not the conditioning cause. Associated exclusion is a different question. Other three named, not defined.
 
-The first half was the close of 2.60. This unit is 98.03–08. The immediately antecedent condition at 98.09 is not opened.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> catvāraḥ pratyayā uktāḥ /
+> hetvākhyaḥ pañca hetavaḥ // 2.61 //
+> ke pratyayāḥ /
+> catvāra uktāḥ /
+> kutra /
+> sūtre /
+> catvāraḥ pratyayāḥ /
+> hetupratyayaḥ samanantarapratyaya ālambanapratyayo 'dhipatipratyayaḥ /
 
-Four kinds of condition, taught in the sūtra: cause-condition, immediately antecedent, object-condition, predominant condition. The cause-condition is the five causes apart from the conditioning cause.
+The unit is printed 98.18–98.25 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-What, where, the citation, the gloss of conditionality, then the one definition. The other three are named only.
+What are the conditions? Four are taught. Where? In the sūtra. Four kinds of condition: cause-condition, immediately antecedent condition, object-condition, predominant condition. A kind of condition is what conditionality means. Of these, the one named cause is the five causes. The five apart from the conditioning cause are the cause-condition.
 
 ## 4. Organon Reading
 
-The causes are carried, not replaced. Two exclusions, two questions. The special pratyaya is not the four. Not the translation. Not the final pass.
+Four conditions named. Cause-condition is five causes, not the conditioning cause. Associated exclusion is a different question. Other three named, not defined.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The next condition is not defined.
-
-2.62 has not been opened.
+Fine-tuned with the kārikā. Other three named, not defined.

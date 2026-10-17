@@ -12,8 +12,6 @@
 >
 > kāmarūpāptasattvākhyā niḥṣyandāvyākṛtās tathā // 2.47 //
 
-Kāya is a group. Not a body. Akṣara is a phonetic element. Not a letter of writing. Saṃjñā here is the treatise's name for the designation-collection. Reflection remains the running word elsewhere. Not collapsed.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -30,18 +28,15 @@ Kāya is a group. Not a body. Akṣara is a phonetic element. Not a letter of wr
 ## 4. Grammar
 
 ```text
-three groups
-    names
-    sentences, to the completion of a meaning
-    phonetic elements
-classed
-    desire and form realms
-    with the sentient being who signifies
-    homogeneous outflow
-    unobscured-indeterminate
-formless
-    others say they are there, and inexpressible
+% start S
+S[GROUP=name|sentence|phoneme] -> Collection
+S[CLASS=desire|form, OUTFLOW=homogeneous, ETHICAL=unobscured-indeterminate] -> Group
 ```
+
+Three groups: names, sentences, phonetic elements.  
+Desire and form, classed with the sentient being who signifies.  
+Homogeneous outflow, unobscured-indeterminate.  
+Others place them in the formless, inexpressible.
 
 ## 5. Translation
 
@@ -51,19 +46,11 @@ Groups of names and the rest are collections of designations, sentences, and pho
 
 ### Bhāṣya-informed study translation
 
-A name makes a designation, as form, as sound. A sentence goes to the completion of a meaning. A phonetic element is a, ā, and the rest. Writing is secondary. The three are dissociated formations, on the Vaibhāṣika account. Possessed by the one who signifies, not by what is signified. Homogeneous outflows. Unobscured-indeterminate. Not of the formless realm, on this account. Others place them there, inexpressible.
-
-Sounds are successive. They need not coexist. How does speech produce one name as a whole? If the last sound alone produces it, hearing that sound alone should yield the meaning. It does not. If every sound produces a name-entity, noise should. If only a sound with a fixed application does, that sound already does the semantic work. Co-arising with the referent fails for past, future, assigned names, and the unconditioned. No additional name-entity is required, on the critical account. They maintain the groups. Not settled.
+> Groups of names, sentences, and phonetic elements. A name makes a designation. A sentence completes a meaning. A phonetic element is the audible minimum. Desire and form realms, classed with the sentient being who signifies. Homogeneous outflows, unobscured-indeterminate. Others place them in the formless, inexpressible. Succession pressures a single name-entity. They maintain the groups. Not settled.
 
 ## 6. Philosophical Translation
 
-A stable semantic function is not a semantic substance. The collection is the question. Succession is the pressure. The last sound is not the name. The fixed application already carries the meaning, on the critical account.
-
-Likewise carries the classifications, not a new nature.
-
-Organon rendering:
-
-These are how a Determinate Dharma is said. Not the saying's classmates, on the critical account. The Transcendental contains the schema of the Ordinary. That is the Fichte:Hegel dyad. Not the verse. Not the final pass.
+> Three groups. Classed with the signifier, not the signified. Homogeneous outflow, unobscured-indeterminate. Succession pressures a single name-entity. The groups are maintained. Not settled.
 
 ## 7. Technical Vocabulary
 

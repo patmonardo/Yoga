@@ -3,9 +3,10 @@
 ## 1. Kārikā Anchor
 
 > sarvālpair niḥśubho 'ṣṭābhir vinmanaḥkāyajīvitaiḥ /
+>
 > yukto bālas tathārūpye upekṣāyurmanaḥśubhaiḥ // 2.20 //
 
-> One without the wholesome is endowed, at the least, with eight: feeling, mind, body, and life. Likewise an ordinary person in the formless realm, with neutral feeling, life, mind, and the wholesome faculties.
+>> The fewest is eight. One whose wholesome roots are severed is endowed with the five feelings, body, mind, and life. An ordinary person in the formless realm is endowed with neutral feeling, life, mind, and the five beginning with faith. The path-faculties are excluded because the subject is eight and the subject is an ordinary person.
 
 Feeling supplies five in the first case. The wholesome supplies five in the second.
 

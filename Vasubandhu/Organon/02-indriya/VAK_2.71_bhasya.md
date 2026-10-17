@@ -1,26 +1,29 @@
-# VAK_2.71 Bhāṣya — Beginning the Twenty
+# VAK_2.71 Bhāṣya — Four and Twenty
 
 ## 1. Kārikā Anchor
 
 > tasmāc catvāri cittāni dvādaśaitāni viṃśatiḥ /
+>
 > prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // 2.71 //
 
-> From that, four minds. These twelve are twenty, having divided wholesome in the three twofold: application-produced and obtained through birth.
+> The four close the twelve. The twenty are not completed by this cut alone. Three wholesome kinds become six. That is fifteen. The rest is the next verse.
 
-The four were the close of the twelve. This unit is the first cut, 105.27–106.04. The neutral cut is 2.72.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> tasmāc catvāri cittāni /
+> dvādaśaitāni viṃśatiḥ /
+> prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // 2.71 //
 
-These twelve are made twenty in turn. Wholesome mind in the three realms is divided into application-produced and birth-acquired. That step yields fifteen. The announced twenty waits on the next division.
+The unit is printed 105.26–106.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-Close, then a new question, then one cut. Not a collation.
+Four follow beyond-training: the wholesome of the three realms, and beyond-training. These twelve are made twenty in turn. Wholesome mind in the three realms is divided into application-produced and birth-acquired. Two alternatives, not one kind got both ways. The division continues.
 
 ## 4. Organon Reading
 
-Birth-acquired is not maturation. Fifteen is not twenty. Not the translation. Not the final pass.
+The four close the twelve. The twenty are not completed by this cut alone. Three wholesome kinds become six. That is fifteen. The rest is the next verse.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. The arithmetic is kept.
+Fine-tuned with the kārikā. The rest is the next verse.

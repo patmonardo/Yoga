@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > nivṛte 'ṣṭādaśānyatra dvādaśāvyākṛte matāḥ /
+>
 > middhaṃ sarvāvirodhitvād yatra syād adhikaṃ hi tat // 2.30 //
 
-> In the obscured, eighteen. In the other indeterminate, twelve are accepted. Because torpor is incompatible with none, wherever it may occur, that is additional.
-
-Desire-realm scope continues. The unit ends after the numerical examples, before the transition to the higher levels.
+> In obscured-indeterminate consciousness, eighteen. The view does not add. In the other indeterminate, twelve. Torpor is compatible with wholesome, unwholesome, and indeterminate, and is additional wherever it occurs. Compatibility is not presence.
 
 ## 2. Continuous Sanskrit Witness
 

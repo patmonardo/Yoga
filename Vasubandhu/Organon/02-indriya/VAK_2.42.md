@@ -12,8 +12,6 @@
 >
 > śubhā upapadyavedyaiva nāryasyaikādhvikāpyate // 2.42 //
 
-Likewise carries one determination from 2.41: cessation of consciousness and the mental factors. Not the maturation. Not the realm. Not unconsciousness.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -32,31 +30,16 @@ Two name-construals: attainment of the non-reflective beings, or attainment that
 ## 4. Grammar
 
 ```text
-likewise
-    cessation of consciousness and the mental factors
-    only that is carried forward
-final dhyāna
-    the fourth
-    not another ground
-wish for release
-    they take it for escape
-    therefore they enter wishing for liberation
-wholesome
-    the attainment
-    the result is indeterminate, because maturation
-next rebirth only
-    not this life
-    not indeterminate timing
-not the noble
-    they see a place of downfall
-one time
-    present acquisition
-    from the second moment, the past instance too, until relinquished
-    no future instance cultivated
-    because without consciousness
+% start S
+S[NAME=non-reflective-attainment] -> Cessation[OF=citta-caitta, LEVEL=fourth, WISH=release]
+S[ETHICAL=wholesome, RESULT=maturation, TIME=next-rebirth] -> Attainment
+S[PERSON=noble] -> -Attainment
+S[ACQUIRE=one-time] -> PresentOnly
 ```
 
-Without consciousness is the attainment's state. Not an unintentional lapse. Preparatory effort is stated.
+Likewise carries only the cessation of consciousness and the mental factors.  
+Wholesome attainment, indeterminate maturation, next rebirth only.  
+Not the noble. One time is present acquisition.
 
 ## 5. Translation
 
@@ -66,23 +49,11 @@ Likewise the non-reflective attainment, in the final dhyāna, by the wish for re
 
 ### Bhāṣya-informed study translation
 
-The two attainments are the non-reflective attainment and the attainment of cessation. Just as the non-reflective was called cessation of consciousness and the mental factors, so is this attainment. That much likewise carries. It belongs to the fourth dhyāna. They consider it an escape, and enter it wishing for liberation.
-
-The result, being maturation, is indeterminate. The attainment is wholesome. Its maturation among the non-reflective is five aggregates. Exclusively to be experienced in the next rebirth. Not in this life. Not of indeterminate timing. Even one who produces it and falls away, it is said, necessarily produces it again and is born among them. Therefore one who has obtained it does not enter the certainty. Noble persons do not enter it. They see a place of downfall. Those who enter it regard it as escape.
-
-Do the noble, by obtaining the fourth dhyāna, acquire its past and future, as with the dhyāna? Others do not acquire it that way either. Even when familiar, it is accomplished by great formative effort, and it is without consciousness. Acquired in one time: the present instance only, as the restraint of individual liberation. From the second moment one also possesses the past instance, until it is relinquished. No future instance is cultivated.
+> Likewise carries only the cessation of consciousness and the mental factors. The attainment belongs to the fourth dhyāna and is entered by the wish for release. It is wholesome; its maturation is indeterminate and is experienced only in the next rebirth. Not a noble person's. Acquired in one time: the present instance only.
 
 ## 6. Philosophical Translation
 
-Wholesome cause, indeterminate result. The wish for release is their construal, not the account's endorsement. The noble assessment is downfall. Motive, ethical class, and maturation stay apart. Cessation of mental activity is not liberation. A wholesome attainment is not thereby a noble person's.
-
-One time is not once only. Present acquisition, then possession of the past instance, and no cultivation of a future instance, are three relations. Regaining it is stated. The denial of a future instance is the acquisition account, not a ban on entering again.
-
-The five-aggregate maturation is the resultant existence. Birth and death are reflective, from 2.41. The interval is not further specified moment by moment.
-
-Organon rendering:
-
-This is the course they mistake for the pass. The credit is present, then past. The fail of the noble path is that they do not enter the certainty. Not the verse English. The attainment of cessation is the next verse. Not the final pass.
+> Likewise is the shared cessation, not the shared result. Wholesome attainment, indeterminate next-rebirth maturation. Not the noble. One time is present acquisition.
 
 ## 7. Technical Vocabulary
 

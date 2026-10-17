@@ -3,26 +3,30 @@
 ## 1. Kārikā Anchor
 
 > vartamānāḥ phalaṃ pañca gṛhṇanti dvau prayacchataḥ /
-> vartamānābhyatītaṅ dvau eko 'tītaḥ prayacchati // 2.59 //
+>
+> vartamānātītau dvau eko 'tītaḥ prayacchati // 2.59 //
 
-> Five, present, take the fruit. Two give. Two, present and past. One, past, gives.
+> Five take while present. Two give present. Two give present or past. Maturation gives past only. Taking is seed-status, not a store. Taking does not imply giving.
 
-From 96.11 through the close at 97.15. The next question is 2.60. Not opened.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> vartamānāḥ phalaṃ pañca gṛhṇanti /
+> dvau prayacchataḥ /
+> vartamānātītau dvau /
+> eko 'tītaḥ prayacchati // 2.59 //
+> kathaṃ phalaṃ gṛhyate /
+> bījabhāvopagamāt /
 
-Five take while present. Not past, not future. Conditioning cause omitted, because it need not have a fruit. Co-arisen and associated give while present, at the time of taking. Homogeneous and pervasive give present or past. Present means immediately after; then they are past, and that fruit is not given again. Four cases of take and give. An arhat's final aggregates take and do not give. Seed-status is how a fruit is taken. Maturation gives only when past. Four other names are included in efficacy and predominance. Causes and fruits have been explained.
+The unit is printed 96.21–97.18 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-Times, then the fourfold with its corrections, then the moment-by-moment restriction, then the definition of taking, then the maturation, then an included alternative. The close is the text's.
+Five, present, take the fruit. Not when past: already taken. Not when future: no operative activity. The conditioning cause is likewise, and is not mentioned, because it need not have a fruit. Co-arisen and associated give while present. Homogeneous and pervasive give while present or past. Taking without giving, giving without taking, both, neither. How is a fruit taken? By assuming seed-status toward it. The maturation cause gives only when past. Neither together nor immediate.
 
 ## 4. Organon Reading
 
-Seed-status is not a store and not a guarantee. Giving is not implied. Not the translation. Not the final pass.
+Five take while present. Two give present. Two give present or past. Maturation gives past only. Taking is seed-status, not a store. Taking does not imply giving.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. The four conditions are not opened.
-
-2.60 has not been opened.
+Fine-tuned with the kārikā. Taking is seed-status, not a store.

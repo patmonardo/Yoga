@@ -12,8 +12,6 @@
 >
 > svadhātukā tadāptānām anāptānāṃ caturvidhā // 2.37 //
 
-The subject is acquisition. Āpta here is inclusion in a realm. Not acquired. Anāpta is not aprāpta.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -31,14 +29,16 @@ Realm is the three. Not the eighteen. Not Domain.
 ## 4. Grammar
 
 ```text
-of the three times, acquisition is threefold
-    time of the dharma and time of the acquisition are distinct
-of wholesome and the rest, correspondingly wholesome and the rest
-of what is included in a realm, acquisition is of that realm
-of what is not included, fourfold
-    desire, form, formless, or uncontaminated
-    space still excluded, from 2.36
+% start S
+S[INDEX=time] -> Acquisition[TIME=?t] of Dharma[TIME=?t]
+S[INDEX=ethical] -> Acquisition[ETHICAL=?e] of Dharma[ETHICAL=?e]
+S[INDEX=realm] -> Acquisition[REALM=?r] of Dharma[INCLUDED=?r]
+S[INDEX=not-included] -> Acquisition[REALM=desire|form|formless|uncontaminated]
 ```
+
+Time of the dharma and time of the acquisition are distinct.  
+Uncontaminated is not a fourth realm.  
+Space remains excluded.
 
 ## 5. Translation
 
@@ -48,15 +48,11 @@ Of those of the three times, threefold. Of the wholesome and the rest, wholesome
 
 ### Bhāṣya-informed study translation
 
-Acquisition of a past, future, or present dharma may itself be past, future, or present. Of a wholesome, unwholesome, or indeterminate dharma, the acquisition has that ethical status. Of a dharma included in the desire, form, or formless realm, the acquisition belongs to that realm. Of a dharma not included in a realm, the acquisition may be of the desire, form, or formless realm, or uncontaminated. Uncontaminated is not a fourth realm. Path-stage and abandonment are the commentary's further indices. Not the verse.
+> Acquisition of a past, future, or present dharma may itself be past, future, or present. Of a wholesome, unwholesome, or indeterminate dharma, the acquisition has that ethical status. Of a dharma included in a realm, the acquisition belongs to that realm. Of a dharma not included, the acquisition may be of the desire, form, or formless realm, or uncontaminated. Uncontaminated is not a fourth realm.
 
 ## 6. Philosophical Translation
 
-Possession is not a binary. Time of the dharma is not time of the credit. Ethical class mirrors. Realm mirrors, when the dharma is in a realm. What is not in a realm does not force the credit outside the three. Cessation not through Discrimination is credited in the three realms. Cessation through Discrimination in form, formless, or uncontaminated. The path-truth is uncontaminated. Collectively, four.
-
-Organon rendering:
-
-Indexed status, not a flag. Pass and fail are not the verse. Not the final pass.
+> Four indices. Time of the dharma and time of the acquisition are distinct. Uncontaminated is not a fourth realm. Space remains excluded.
 
 ## 7. Technical Vocabulary
 

@@ -3,17 +3,29 @@
 ## 1. Kārikā Anchor
 
 > nivṛtasya ca rūpasya kāme rūpasya nāgrajā /
+>
 > akliṣṭāvyākṛtāprāptiḥ sātītājātayos tridhā // 2.39 //
 
-> Of obscured form also. Of form in the desire realm, not prior-arisen. Non-acquisition is unobscured-indeterminate. Of past and not-yet-arisen, it is threefold.
+> Acquisition of obscured-indeterminate manifest form is co-arisen only. Desire-realm form has no prior acquisition; co-arisen and subsequent are admitted. Non-acquisition is always unobscured-indeterminate. Of past and future dharmas it is threefold. Of a present dharma, present only, on the provisional reading.
 
-## 2. Continuous Conventional Translation
+## 2. Continuous Sanskrit Witness
+
+> nivṛtasya ca rūpasya /
+> nivṛtāvyākṛtasyāpi vijñaptirūpasya sahajaiva prāptir adhimātreṇāpy avijñaptyanutthāpanād aurbalyasiddheḥ /
+> kāme rūpasya nāgrajā /
+> kāmāvacarasya vijñaptyavijñaptirūpasyāgrajā prāptiḥ sarvathā nāsti /
+> sahajā cāsti paścātkālajā ca /
+> akliṣṭāvyākṛtāprāptiḥ /
+> aprāptir anivṛtāvyākṛtaiva sarvā /
+> sātītājātayos tridhā // 2.39 //
+> pratyutpannasya nāratyaprāptiḥ pratyutpannā /
+> atītānāgatayos tu traiyadhvikī /
+
+The unit is printed 65.22–66.05 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+
+## 3. Continuous Conventional Translation
 
 Of obscured form also: acquisition of obscured-indeterminate manifest form is co-arisen. Of form in the desire realm, acquisition is not prior-arisen. Co-arisen and subsequent are admitted, for manifest and nonmanifest form. Non-acquisition is unobscured-indeterminate. Of past and future dharmas it is threefold. Of a present dharma, present only, on the provisional reading of the damaged gloss.
-
-## 3. The Crux
-
-The running text at 66.04 is defective. Present-only is taken. Denial of non-acquisition is not adopted. Not a collation.
 
 ## 4. Organon Reading
 

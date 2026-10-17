@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > kāmāptam amalaṃ hitvā rūpāptaṃ strīpumindriye /
+>
 > duḥkhe ca hitvā ārūpyāptaṃ sukhe cāpohya rūpi ca // 2.12 //
 
-> Excluding the stainless, desire-realm-connected. Excluding the female and male faculties and the two painful faculties, form-realm-connected. Excluding also the two pleasant faculties and what possesses form, formless-realm-connected.
-
-The exclusions carry forward. Duḥkhe is pain and distress. Sukhe is pleasure and gladness. Connection is possible affiliation, not possession of every listed faculty by every being.
+> Realm-connection is a further axis. The stainless triad is unconnected with all three. The rest are desire-realm-connected. Form excludes sexual differentiation and the two painful faculties. Formless excludes the pleasant faculties and everything that possesses form, leaving only mind, life, neutral feeling, and the five that equip the path. A higher conditioned realm is not stainless.
 
 ## 2. Continuous Sanskrit Witness
 

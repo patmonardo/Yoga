@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > tathāsaṃjñisamāpattir dhyāne 'ntye niḥsṛtīcchayā /
+>
 > śubhā upapadyavedyaiva nāryasyaikādhvikāpyate // 2.42 //
 
-> Likewise the non-reflective attainment, in the final dhyāna, by the wish for release. Wholesome, to be experienced only in the next rebirth. Not a noble person's. Acquired in one time.
-
-Non-percipient is withdrawn.
+> Likewise carries only the cessation of consciousness and the mental factors. The attainment belongs to the fourth dhyāna and is entered by the wish for release. It is wholesome; its maturation is indeterminate and is experienced only in the next rebirth. Not a noble person's. Acquired in one time: the present instance only.
 
 ## 2. Continuous Sanskrit Witness
 

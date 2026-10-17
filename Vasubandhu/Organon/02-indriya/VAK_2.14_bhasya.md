@@ -3,9 +3,10 @@
 ## 1. Kārikā Anchor
 
 > kāmeṣv ādau vipāko dve labhyate nopapādukaiḥ /
+>
 > taiḥ ṣaḍ vā sapta vā aṣṭau vā ṣaḍ rūpeṣv ekam uttare // 2.14 //
 
-> In the desire realm, initially, two are acquired as maturation, not by the spontaneously born. By them, six or seven or eight. Six in the form realm. One in the higher.
+>> First acquisition is the maturation that opens the continuum, not every later possession. In the desire realm the non-spontaneous acquire body and life; the spontaneous acquire six, seven, or eight according to sexual characteristic. Form acquires the same six. The formless acquires only life. Mind and neutral feeling are not that opening, because at relinking both are necessarily afflicted.
 
 Labhyate stays singular with dve. Taiḥ is the commentary's reading of teḥ. The question is initial acquisition as maturation, not every faculty present.
 

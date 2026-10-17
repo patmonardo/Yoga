@@ -12,8 +12,6 @@
 >
 > pṛthagjanatvaṃ tatprāptibhūsaṃcārād vihīyate // 2.40 //
 
-Āpta is inclusion in a realm, as in 2.37. Amala is uncontaminated. Not those who have attained purity.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -30,15 +28,15 @@ Ordinary person is the path-status. Not an insult. Not a nature.
 ## 4. Grammar
 
 ```text
-non-acquisition of realm-included and uncontaminated
-    also threefold, by realm
-    never itself uncontaminated
-non-acquisition of the path
-    = ordinary-person status, on the Vaibhāṣika account
-relinquished
-    by acquisition of that path
-    or by transition of ground
+% start S
+S[NONACQ=realm-included|uncontaminated] -> NonAcquisition[REALM=desire|form|formless]
+S[NONACQ=path] -> OrdinaryStatus
+S[RELINQUISH=true] -> AcquisitionOfPath | GroundTransition
 ```
+
+Non-acquisition is never itself uncontaminated.  
+Ordinary-person status is non-acquisition of the path, on the Vaibhāṣika account.  
+Relinquished by acquisition of that path or by ground-transition.
 
 ## 5. Translation
 
@@ -48,17 +46,11 @@ Of those included in the desire realm and the rest, and of the uncontaminated, a
 
 ### Bhāṣya-informed study translation
 
-Non-acquisition of a realm-bound or uncontaminated dharma may belong to any of the three realms. No non-acquisition is uncontaminated. The Vaibhāṣikas define ordinary-person status as non-acquisition of the noble path. It ceases by acquisition of that path, or by transition of ground. The critical account: a continuum in which noble dharmas have not yet arisen. Absence of another lineage's noble dharmas does not make the Buddha ordinary.
-
-If possession requires an acquisition, possession of that acquisition requires another. Mutual possession stops a simple regress and multiplies the entities. Inflation, not merely non-termination. The reply stands. Not settled.
+> Non-acquisition of realm-included and uncontaminated dharmas is also threefold by realm, and is never itself uncontaminated. Non-acquisition of the path is held to be ordinary-person status. It is relinquished by acquisition of that path, or by transition of ground. The critical account takes an ordinary continuum as one in which noble dharmas have not yet arisen. Not settled.
 
 ## 6. Philosophical Translation
 
-Ordinary status is developmental. The path is not yet operative. A real non-acquisition, or the non-arising of noble dharmas. Not an essence of the person. Left by credit of the path, or by a change of ground.
-
-Organon rendering:
-
-Who has not passed is this status. The two grounds of leaving it are the verse. Nirodha of virodha is the next discussion, not this relinquishment. Not the verse English. Not the final pass.
+> Non-acquisition is never uncontaminated. Ordinary status is non-acquisition of the path, or noble dharmas not yet arisen. Relinquished by acquisition or ground-transition. The ontological cost is not settled.
 
 ## 7. Technical Vocabulary
 

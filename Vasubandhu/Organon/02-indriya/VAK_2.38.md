@@ -12,8 +12,6 @@
 >
 > avyākṛtāptiḥ sahajābhijñānairmāṇikād ṛte // 2.38 //
 
-The final compound is compressed. Except the superknowledges and the magical-creation mind is the commentary's sense. Segmentation provisional.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -31,18 +29,15 @@ Sahajā is simultaneous. Not innate.
 ## 4. Grammar
 
 ```text
-neither trainee nor beyond
-    acquisition may be trainee, beyond, or neither
-not to be abandoned
-    acquisition abandoned by cultivation, or itself not to be abandoned
-indeterminate acquisition
-    co-arisen
-    except two indeterminate superknowledges
-    and the magical-creation mind
-    those may precede, accompany, and follow
+% start S
+S[PATH=neither] -> Acquisition[PATH=trainee|beyond|neither]
+S[ABANDON=none] -> Acquisition[ABANDON=cultivation|none]
+S[ETHICAL=indeterminate, COARISE=true] -> Acquisition[EXCEPT=superknowledge|magical]
 ```
 
-Unobscured-indeterminate is the commentary's restriction on the co-arising rule.
+Neither-trainee-nor-beyond allows three.  
+Not-to-be-abandoned allows two.  
+Indeterminate acquisition is co-arisen, with the stated exceptions.
 
 ## 5. Translation
 
@@ -52,15 +47,11 @@ Threefold, of what is neither trainee nor beyond training. Of what is not to be 
 
 ### Bhāṣya-informed study translation
 
-Acquisition of a dharma that is neither trainee nor beyond training may itself be any of the three. Of a dharma not to be abandoned, acquisition is abandoned through cultivation, or is itself not to be abandoned. Ordinary acquisition of cessation through Discrimination is the first. Acquisition by the noble path is the second. Acquisition of an unobscured-indeterminate dharma arises only with that dharma, except the two indeterminate superknowledges and the magical-creation mind. Special preparatory practice. Their acquisition may precede, accompany, and follow.
+> Acquisition of what is neither trainee nor beyond training may itself be any of the three. Of what is not to be abandoned, acquisition is abandoned by cultivation or itself not to be abandoned. Indeterminate acquisition is co-arisen, except the two indeterminate superknowledges and the magical-creation mind, whose acquisition may precede, accompany, and follow.
 
 ## 6. Philosophical Translation
 
-The dharma's class does not fix the credit's class. The relation records how it became available. Weak neutral occurrence is possessed only while manifest. Cultivated neutral capacity is available before and retained after. Ethical neutrality is not weakness.
-
-Organon rendering:
-
-Manifestation is not the credit. Not the verse. Not the final pass.
+> Status of the credit need not inherit the status of the dharma. Indeterminate acquisition is co-arisen, with exceptions. Co-arising is not innateness.
 
 ## 7. Technical Vocabulary
 

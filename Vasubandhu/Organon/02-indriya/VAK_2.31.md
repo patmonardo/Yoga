@@ -12,8 +12,6 @@
 >
 > dhyānāntare vitarkaś ca vicāraś cāpy ataḥ param // 2.31 //
 
-Dhyānāntara is the intermediate level, between the first and the second. Not another dhyāna in general.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -32,24 +30,15 @@ Ataḥ points back to the desire-realm distribution. Not a cause.
 ## 4. Grammar
 
 ```text
-first dhyāna
-    regret and torpor absent entirely
-    whatever is unwholesome absent
-    hostility; anger-group except crookedness, intoxication, deception;
-    shamelessness and lack of moral caution
-    the rest as before
-    vitarka and vicāra remain
-
-intermediate
-    those exclusions, and vitarka
-    vicāra remains
-
-beyond
-    second and higher dhyānas, and the formless
-    those exclusions, and vicāra
-    also deception and crookedness
-    intoxication not named in this further drop
+% start S
+S[LEVEL=first] -> DesireBase[REGRET=false, TORPOR=false, UNWHOLESOME=false]
+S[LEVEL=intermediate] -> First[VITARKA=false]
+S[LEVEL=beyond] -> Intermediate[VICARA=false, DECEPTION=false, CROOKEDNESS=false]
 ```
+
+Exclusions accumulate.  
+Vitarka drops at the intermediate; vicāra at the beyond.  
+Intoxication is not named in the further drop.
 
 ## 5. Translation
 
@@ -59,21 +48,11 @@ Regret, torpor, and the unwholesome are not present in the first dhyāna, of the
 
 ### Bhāṣya-informed study translation
 
-Of the rule stated for the desire realm: regret and torpor are entirely absent in the first dhyāna, as is whatever is unwholesome. Hostility. The factors beginning with anger, except crookedness, intoxication, and deception. Shamelessness and lack of moral caution. Everything else as before. Those absent in the first are also absent in the intermediate, together with vitarka. The rest as before. Beyond the intermediate, in the second and subsequent dhyānas and in the formless, what was excluded is absent, and vicāra. Also includes deception and crookedness. The rest as before.
-
-Crookedness is recounted only as far as Brahmā, not above, because connected with an assembly. Aśvajit asked him in his assembly where the four great elements cease without remainder. He did not know, and evaded: I am Brahmā, the Lord, the Maker, the Fashioner, the Creator, the Producer, the Father of beings. Thus it has been stated how many mental factors occur in which consciousness at which level.
+> Regret, torpor, and the unwholesome are absent in the first dhyāna. In the intermediate, vitarka also. Beyond, vicāra also, and deception and crookedness. Exclusions accumulate. The rest remains as before. Crookedness reaches only as far as Brahmā.
 
 ## 6. Philosophical Translation
 
-The higher level is defined by what can no longer occur. Exclusions accumulate. Vitarka and vicāra are not synonyms: one drops at the intermediate, the other beyond it. Definitions are not this unit.
-
-The three exceptions are exceptions to the anger-group drop. They do not permit the unwholesome where the unwholesome has been excluded. Afflicted and unwholesome stay apart, as in 2.30. A level's possible consciousnesses are not one wholesome absorption.
-
-Also names deception and crookedness. It does not name intoxication. The three must not all be declared absent above the intermediate.
-
-Organon rendering:
-
-Cumulative exclusion is the pass. Not a biography. Objective Logic on the mind is not the translation. Not the final pass.
+> The higher levels drop factors; they do not invent new ones. Unwholesome is excluded; not every affliction is. The accumulation is the rule.
 
 ## 7. Technical Vocabulary
 
@@ -91,24 +70,18 @@ Mada is not conceit. Middha is not sluggishness.
 
 ## 8. Logical Determination
 
-```text
-first
-    ⊇ excludes regret, torpor, unwholesome operation
-    retains vitarka, vicāra
-    crookedness, intoxication, deception not in that drop
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-intermediate
-    = first exclusions + vitarka
-    retains vicāra
-
-beyond
-    = intermediate exclusions + vicāra + deception + crookedness
-    intoxication not named
-
-exclusions accumulate
-unwholesome excluded
-    ≠ every affliction excluded
+first = lp.parse(r'all c.(FirstDhyana(c) -> -Regret(c) & -Torpor(c) & -Unwholesome(c))')
+inter = lp.parse(r'all c.(Intermediate(c) -> First(c) & -Vitarka(c))')
+beyond = lp.parse(r'all c.(Beyond(c) -> Intermediate(c) & -Vicara(c) & -Deception(c) & -Crookedness(c))')
 ```
+
+Exclusions accumulate.  
+Unwholesome is excluded; not every affliction.  
+Intoxication is not named in the further drop.
 
 ## 9. Interpretive Note
 

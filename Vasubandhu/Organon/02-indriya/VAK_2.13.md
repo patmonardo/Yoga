@@ -31,27 +31,15 @@ Manovittitrayam is four faculties. The three feelings are pleasure, gladness, an
 ## 4. Grammar
 
 ```text
-mind, pleasure, gladness, neutral feeling
-    → by seeing, by cultivation, or not to be abandoned
-
-distress
-    → by seeing or by cultivation
-    never not-to-be-abandoned
-
-nine, to be abandoned continues
-    → by cultivation only
-    seven of form, life, pain
-
-five
-    → by cultivation, and also not to be abandoned
-    with outflows, or without
-
-triad
-    → not to be abandoned
-    faultless is not fit
+% start S
+S[ABANDON=?a] -> Mind | ThreeFeelings
+S[ABANDON=seeing|cultivation] -> Distress
+S[ABANDON=cultivation] -> Nine
+S[ABANDON=cultivation|none] -> Five[OUTFLOW=?o]
+S[ABANDON=none] -> Triad[FAULTLESS=true]
 ```
 
-Api adds a class. It does not put both statuses on one instance.
+Abandonment is a feature of the qualified instance.
 
 ## 5. Translation
 
@@ -61,15 +49,11 @@ Mind and the triad of feelings are threefold. Distress is to be abandoned in two
 
 ### Bhāṣya-informed study translation
 
-How many are to be abandoned by seeing, how many by cultivation, how many not to be abandoned? Mind and the three feelings are threefold. Which three? Pleasure, gladness, and neutral feeling. Distress is to be abandoned in two ways, by seeing and by cultivation. Nine by cultivation: to be abandoned continues. Those beginning with the eye, life as the eighth, and the pain-faculty, are to be abandoned only by cultivation. The five beginning with faith are to be abandoned by cultivation, and also not to be abandoned, because they can be with outflows or without. The three beginning with “I shall know” are not to be abandoned at all, because they are without outflows. What is faultless is not fit to be abandoned. The distinctions of kind have been explained.
+> Mind and the three feelings take all three statuses. Distress is abandoned by seeing and by cultivation. Nine are abandoned only by cultivation. The five beginning with faith are abandoned by cultivation when with outflows, and not abandoned when without. The triad is not abandoned at all. What is faultless is not fit to be abandoned.
 
 ## 6. Philosophical Translation
 
-Abandonment falls on the qualified instance, not on the faculty-name. Mind and three feelings can be abandoned by seeing, by cultivation, or kept. Distress has no faultless remainder. The seven of form, life, and pain are cultivation only. Seeing does not erase them. The five split by outflow. The triad is never abandoned. Faultless is not fit.
-
-Organon rendering:
-
-Citta supports. The caitta-instance is what the path abandons or keeps. A faulted faith is not the faculty deleted. A faultless realization is not discarded after use. The agent traverses by this rule. Not the verse English.
+> Abandonment falls on the qualified instance, not on the faculty. The five can be either. The triad is faultless and is not abandoned.
 
 ## 7. Technical Vocabulary
 

@@ -12,8 +12,6 @@
 >
 > ājñāsyāmīndriyopetas trayodaśabhir anvitaḥ // 2.19 //
 
-Aṣṭābhiḥ completed the female-and-so-forth subject in 2.18. This study begins at eleven.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -32,20 +30,12 @@ The gloss at 51.17 is difficult. Ājñātendriya is read as one who has known. T
 ## 4. Grammar
 
 ```text
-knowledge-faculty
-    → eleven
-    ten in common + itself
-
-one who has known
-    → eleven
-    those same ten + itself
-
-I shall know
-    → thirteen
-    mind, life, body, four feelings, the five, itself
+% start S
+S[POSSESS=11] -> Knowledge | HasKnown
+S[POSSESS=13] -> ShallKnow[PATH=uninterrupted]
 ```
 
-Eleven is two possessions, not one set of twelve. Thirteen is not eleven plus two.
+Thirteen unifies only on the uninterrupted path.
 
 ## 5. Translation
 
@@ -55,17 +45,11 @@ With eight. But one accompanied by the knowledge-faculty or the faculty of one w
 
 ### Bhāṣya-informed study translation
 
-One possessing the knowledge-faculty necessarily possesses eleven: pleasure, gladness, neutral feeling, life, mind, the five beginning with faith, and the knowledge-faculty. The same for one who has known: those ten, and that faculty.
-
-One possessing “I shall know” is endowed with thirteen. Which thirteen? Mind, life, and body; four feelings; the five beginning with faith; and “I shall know.”
+> The knowledge-faculty and the faculty of one who has known each require eleven. “I shall know” requires thirteen. The difference is not further realization. It is the presence of body and the fourth feeling on the uninterrupted path.
 
 ## 6. Philosophical Translation
 
-The later two share ten and are not one faculty. The prospective faculty has another set: body and pain are in it, and they are not in the common ten. Thirteen is not more realization than eleven. Omission from a necessary set is not a claim that the omitted faculty cannot be possessed.
-
-Organon rendering:
-
-Same count, different membership, again. The consequence of possessing a realization-faculty is its closure. The number does not rank the knowing. Not the verse English.
+> Thirteen is the uninterrupted path. Eleven is the path of liberation and beyond. The count follows the path, not a higher grade.
 
 ## 7. Technical Vocabulary
 

@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > śraddhāpramādaḥ praśrabdhir upekṣā hrīr apatrapā /
+>
 > mūladvayam ahiṃsā ca vīryaṃ ca kuśale sadā // 2.25 //
 
-> Faith, heedfulness, pliancy, equanimity, moral shame, moral caution, the two roots, non-harming, and vigor, always in the wholesome.
-
-The two roots are non-greed and non-hatred. Ten. The unit runs through the close at 56.01.
+> These ten occur always in wholesome consciousness. Faith is clarity, heedfulness is cultivation of the wholesome, pliancy is workability, equanimity is evenness. The two roots are non-greed and non-hatred. Non-delusion is prajñā and is already counted among the great-ground factors. Name by favor is not nature.
 
 ## 2. Continuous Sanskrit Witness
 

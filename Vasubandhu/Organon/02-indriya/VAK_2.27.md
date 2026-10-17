@@ -12,8 +12,6 @@
 >
 > māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
 
-Pradāsa and mrakṣa are two. The local class-name has no mahā. The introductory name at 2.23 had it. Both readings stay local.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -35,16 +33,14 @@ The English of the ten is provisional. Definitions are deferred.
 ## 4. Grammar
 
 ```text
-ten names
-    → this ground
-    not all ten together
-
-associated only with ignorance
-    abandonable through cultivation
-    of the mental sphere
+% start S
+S[GROUND=limited-affliction] -> TenLimited
+TenLimited -> Anger | Resentment | Crookedness | Envy | Spite | Concealment | Stinginess | Deception | Intoxication | Harmfulness
+S[ASSOCIATED=ignorance, ABANDON=cultivation, SPHERE=mental] -> TenLimited
 ```
 
-Always in the afflicted governed the six. It does not carry here.
+`GROUND=limited-affliction` does not force co-presence of the ten.  
+Association is only with ignorance abandonable by cultivation and of the mental sphere.
 
 ## 5. Translation
 
@@ -54,17 +50,11 @@ Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception,
 
 ### Bhāṣya-informed study translation
 
-Limited afflictions are their ground. They are so called because associated only with ignorance that is abandonable through cultivation and belongs to the mental sphere. Their exposition will be given among the secondary afflictions. These five classes of mental factors have been stated. There are also others, unfixed: initial examination, sustained examination, regret, torpor, and so forth.
+> These ten belong to the limited-affliction ground. They are associated only with ignorance that is abandonable through cultivation and of the mental sphere. The five classes have been stated. Others remain unfixed. The ground does not force the ten to co-occur.
 
 ## 6. Philosophical Translation
 
-A ground can unite factors without making them a bundle. These share association, abandonment, and sphere. They do not share necessary co-presence. Limited is range, not slight harm. Only with ignorance restricts the affliction association. It does not cancel consciousness and the universal ten.
-
-Unfixed is not ethically indeterminate. The five classes are the sequence treated. They are not an exhaustive partition.
-
-Organon rendering:
-
-Class is not co-presence. The pass is Objective Logic on the mind. Not the verse English. Not the final pass.
+> Limited-affliction ground is restriction, not universality. The ten share the same associated ignorance; they do not share one moment.
 
 ## 7. Technical Vocabulary
 
@@ -79,27 +69,16 @@ Class is not co-presence. The pass is Objective Logic on the mind. Not the verse
 
 ## 8. Logical Determination
 
-```text
-member of this class
-    → only with that ignorance
-    → abandonable through cultivation
-    → mental sphere
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-member and member
-    ↛ necessarily together
-
-universal ten
-    in every consciousness
-wholesome ten
-    in every wholesome consciousness
-afflicted six
-    always and only in the afflicted
-this ten
-    shared restrictions, not that universality
-
-five classes stated
-    ≠ every mental factor classified
+limited = lp.parse(r'all x.(LimitedAffliction(x) -> (Associated(x,Ignorance) & Abandonable(Ignorance,cultivation) & Sphere(Ignorance,mental)))')
+not_together = lp.parse(r'-all x y.(LimitedAffliction(x) & LimitedAffliction(y) -> CoPresent(x,y))')
 ```
+
+Shared restriction, not co-presence.  
+The five classes are stated; others remain unfixed.
 
 ## 9. Interpretive Note
 

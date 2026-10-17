@@ -12,8 +12,6 @@
 >
 > āsaṃjñikaṃ samāpattī jīvitaṃ lakṣaṇāni ca // 2.35 //
 
-The next verse opens with the groups of names and so forth. That continuation belongs with the class-name. The definitions do not.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -33,22 +31,14 @@ Dissociated is the class-name. Not unconditioned. Not causally disconnected.
 ## 4. Grammar
 
 ```text
-dissociated formations
-    acquisition and non-acquisition
-    commonality
-    āsaṃjñika
-    two attainments
-    life
-    the marks
-    and the groups of names and so forth
-
-so called
-    not associated with consciousness
-    not of the nature of form
-    still formations
+% start S
+S[CLASS=dissociated] -> Acquisition NonAcquisition Commonality Asamjnika TwoAttainments Life Marks NameGroups
+S[CLASS=dissociated] -> Formation[ASSOCIATED=false, FORM=false]
 ```
 
-The duals are pairs. The plurals are not single entities. The members are not yet defined.
+Not associated, not form, still conditioned.  
+The duals are pairs; the plurals are not single entities.  
+The members are named, not yet defined.
 
 ## 5. Translation
 
@@ -58,19 +48,11 @@ The dissociated formations, now: acquisition and non-acquisition, commonality, �
 
 ### Bhāṣya-informed study translation
 
-The dissociated formations are acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, the marks, and the groups of names and so forth. These formations are called dissociated from consciousness because they are not associated with consciousness and do not have the nature of form.
-
-The source has a double negation. Not associated is the class-name and the explanation. The extra negative is a defect. Not a collation.
+> The dissociated formations are acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, the marks, and the groups of names and so forth. They are called dissociated because they are not associated with consciousness and are not form. They remain formations. The members are named, not defined.
 
 ## 6. Philosophical Translation
 
-Association was five equalities. Dissociated is outside that conjunction. Not outside every relation. Not form. Not unconditioned. A catalog, not an occult region.
-
-Acquisition heads the list. Obtaining and continued possession are the next inquiry. Not this verse. Āsaṃjñika is named apart from the two attainments. Non-consciousness is not the English. Non-reflective is the look-ahead, not locked.
-
-Organon rendering:
-
-These are the records that are not classmates. Pass and fail are the first pair, when the definition opens. Not the verse English. Not the final pass.
+> Dissociated is not unconditioned and not form. The list names; it does not establish each as a distinct real.
 
 ## 7. Technical Vocabulary
 
@@ -88,23 +70,17 @@ These are the records that are not classmates. Pass and fail are the first pair,
 
 ## 8. Logical Determination
 
-```text
-dissociated
-    = not in the fivefold association
-    ≠ no relation to the continuum
-    ≠ unconditioned
-    ≠ form
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-pair
-    acquisition, non-acquisition
-    two attainments
-plural
-    marks
-    groups of names and so forth
-
-list
-    ≠ each member established as a distinct real
+diss = lp.parse(r'all x.(Dissociated(x) -> (Formation(x) & -Associated(x) & -Form(x)))')
+list = lp.parse(r'Dissociated(x) -> (Acquisition(x) | NonAcquisition(x) | Commonality(x) | Asamjnika(x) | Attainment(x) | Life(x) | Marks(x) | NameGroup(x))')
 ```
+
+Named, not defined.  
+Not associated, not form, still conditioned.  
+The list is not a set of established reals.
 
 ## 9. Interpretive Note
 

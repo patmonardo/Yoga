@@ -31,24 +31,14 @@ Both duals are exclusions, not locatives. The earlier exclusions carry forward.
 ## 4. Grammar
 
 ```text
-excluding the stainless triad
-    → desire-realm-connected
-    19
-
-excluding also female, male, pain, distress
-    → form-realm-connected
-    15
-
-excluding also pleasure, gladness, and what possesses form
-    → formless-realm-connected
-    mind, life, neutral feeling, five beginning with faith
-    8
-
-triad
-    → unconnected with any realm
+% start S
+S[REALM=desire] -> Faculty[STAINLESS=false]
+S[REALM=form] -> Faculty[STAINLESS=false, SEX=false, PAINFUL=false]
+S[REALM=formless] -> Faculty[STAINLESS=false, SEX=false, PAINFUL=false, PLEASANT=false, FORM=false]
+S[REALM=none] -> Triad[STAINLESS=true]
 ```
 
-Connection is possible affiliation. It is not occurrence in every being of that realm.
+Exclusions are feature constraints. The triad never unifies with a realm.
 
 ## 5. Translation
 
@@ -58,19 +48,11 @@ Excluding the stainless, desire-realm-connected. Excluding the female and male f
 
 ### Bhāṣya-informed study translation
 
-Which faculty is connected with which realm? Excluding the exclusively without-outflow triad beginning with “I shall know,” the rest are connected with the desire realm. That triad is entirely unconnected.
-
-Form-realm-connected, excluding also female and male, and pain and distress. The triad-exclusion continues. Female and male are absent because of dispassion toward sexual intercourse, and because they would be unattractive. How, then, are those beings called males? In the sūtra: it is impossible that a woman should occupy the status of Brahmā. It is possible that a man should. The male-being of men in the desire realm is different. Pain is absent because of the clarity of the support and the absence of the unwholesome. Distress is absent because the continuum is softened by tranquillity, and because bases for resentment are absent.
-
-Formless-realm-connected, removing also pleasure and gladness, and what possesses form. The earlier exclusions continue. What remains is mind, life, neutral feeling, and the five beginning with faith. These, and no others, are found connected with the formless realm.
+> Realm-connection is a further axis. The stainless triad is unconnected with all three. The rest are desire-realm-connected. Form excludes sexual differentiation and the two painful faculties. Formless excludes the pleasant faculties and everything that possesses form, leaving only mind, life, neutral feeling, and the five that equip the path. A higher conditioned realm is not stainless.
 
 ## 6. Philosophical Translation
 
-Realm-connection is a further axis. Desire admits nineteen. Form excludes sexual differentiation and the two painful faculties. Formless excludes the pleasant faculties and everything that possesses form, and leaves eight: mind, life, neutral feeling, and the five that equip the path. The triad is not a higher realm. It is unconnected with all three.
-
-Organon rendering:
-
-Another predicate the platform has to hold. Realm is not occurrence, not ethical quality, not outflow, not the path. A higher conditioned realm is not stainless. The five can be connected when with outflows, and unconnected when without. Not the verse English.
+> The triad is not a higher realm. It is unconnected with all three. A higher conditioned realm is not stainless.
 
 ## 7. Technical Vocabulary
 
@@ -89,30 +71,30 @@ Another predicate the platform has to hold. Realm is not occurrence, not ethical
 
 ## 8. Logical Determination
 
-```text
-desire
-    = 22 - 3
-    = 19
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-form
-    = 19 - female - male - pain - distress
-    = 15
+# Desire-realm connection
+desire = lp.parse(r'all x.(Faculty(x) & -Stainless(x) -> DesireConnected(x))')
 
-formless
-    = mind, life, neutral feeling, five
-    = 8
-    fifteen - five remaining of form - two pleasant
+# Form-realm connection
+form = lp.parse(r'all x.(Faculty(x) & -Stainless(x) & -Sex(x) & -Painful(x) -> FormConnected(x))')
 
-triad
-    → no realm-connection
+# Formless-realm connection
+formless = lp.parse(r'all x.(Faculty(x) & -Stainless(x) & -Sex(x) & -Painful(x) & -Pleasant(x) & -Form(x) -> FormlessConnected(x))')
 
-compatible
-    ↛ occurs in every being
-without outflows
-    → unconnected
-twofold type
-    → connection depends on the instance
+# The triad is unconnected
+triad = lp.parse(r'all x.(Triad(x) -> -exists y.RealmConnected(x,y))')
+
+# MetaPlan operator
+exclude = lp.parse(r'\P \x.(Faculty(x) & P(x))')
 ```
+
+The Feature Grammar unifications are open formulas.  
+The exclusions are universal quantifiers with negated features.  
+The stainless triad never unifies with a realm.  
+`exclude` is the relational operator the MetaPlan applies.
 
 ## 9. Interpretive Note
 

@@ -3,9 +3,10 @@
 ## 1. Kārikā Anchor
 
 > caturbhiḥ sukhakāyābhyāṃ pañcabhiś cakṣurādimān /
+>
 > saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān // 2.18 //
 
-> With four, in the cases of pleasure and body. One possessing the eye and so forth, with five, and one possessing gladness. One possessing pain, however, with seven. One possessing the female faculty and so forth.
+>> Possession is not uniform. Pleasure and body each require four. The eye and the rest, and gladness, require five. Pain requires seven. The female faculty and those gathered with it require eight. The five beginning with faith require a different eight. The necessary companions are fixed by the faculty possessed; there is no single rule for the remainder.
 
 Eight is aṣṭābhiḥ, the opening of 2.19. The reading includes the prose that completes the eight. The eleven and thirteen are not this unit.
 

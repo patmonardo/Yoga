@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > āveṇike tv akuśale dṛṣṭiyukte ca viṃśatiḥ /
+>
 > kleśaiś caturbhiḥ krodhādyaiḥ kaukṛtyenaikaviṃśatiḥ // 2.29 //
 
-> But in isolated unwholesome consciousness, and in that associated with a view, twenty. With the four afflictions, with those beginning with anger, or with regret, twenty-one.
-
-Desire-realm scope continues from 2.28. The commentary says why view does not add, and why the others do.
+> In isolated unwholesome consciousness, and in that associated with a view, twenty. The view is a special form of prajñā, already counted among the universal factors. With one of the four afflictions, a secondary beginning with anger, or regret, twenty-one. Addition increments; specialization does not.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -1,26 +1,29 @@
-# VAK_2.72 Bhāṣya — Twenty Kinds
+# VAK_2.72 Bhāṣya — Fourfold Indeterminate
 
 ## 1. Kārikā Anchor
 
 > vipākajairyāpathikaśailpasthānikanairmitam /
+>
 > caturdhāvyākṛtaṃ kāme rūpe śilpavivarjitam // 2.72 //
 
-> Indeterminate in the desire realm, fourfold: maturation-born, deportment, craft, and creation. In the form realm, excluding craft.
+> Having divided carries over. Avyākṛta is unobscured-indeterminate. Not the obscured. Creation is supernormal, not ordinary construction.
 
-From 106.05 through 109.03. Acquisition at 109.04 is 2.73.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> vipākajair īryāpathikaśailpasthānikanairmitam /
+> caturdhāvyākṛtaṃ kāme /
+> rūpe śilpavivarjitam // 2.72 //
 
-Desire unobscured-indeterminate is four. Form is three, craft excluded. Formless keeps maturation-born only. Twenty: eight, six, four, and two. The commentary then states which of the twenty follows which, and why some edges do not reverse. Attention before and after the path is disputed. Not settled.
+The unit is printed 106.16–106.25 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-The cut, the total, the reapplied succession, the asymmetries, then a dispute. Not a collation.
+Desire unobscured-indeterminate is four. Form is three, no craft there. Deportment and the rest are absent in the formless, the activities absent. These are mental cognitions. The five sensory cognitions prepare deportment and craft. Others: a deportment-produced mental cognition takes the twelve essences. Not settled. Twelve become twenty. Wholesome sixfold. Unobscured-indeterminate sevenfold in the cut, eight with the formless one left undivided. Desire eight, form six, formless four, and the two uncontaminated. The twenty have their own succession. A coarse list is not assigned to a subtype. Creation-mind follows and is followed by its own kind and form application-produced only. Application-produced is not followed by a reverse from deportment, craft, or maturation-born: those are weak, or prepare the activity. Afflicted can precede application-produced, for one wearied by affliction. Keenness explains some birth-acquired edges. Attention before and after the path is disputed. Not settled.
 
 ## 4. Organon Reading
 
-Finer kinds, checked again. Creation is not construction. Not the translation. Not the final pass.
+Having divided carries over. Avyākṛta is unobscured-indeterminate. Not the obscured. Creation is supernormal, not ordinary construction.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. The twenty are reached. The attention dispute is open.
+Fine-tuned with the kārikā. Creation is supernormal.

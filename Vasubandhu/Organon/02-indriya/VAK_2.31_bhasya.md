@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > kaukṛtyamiddhākuśalāny ādye dhyāne na santy ataḥ /
+>
 > dhyānāntare vitarkaś ca vicāraś cāpy ataḥ param // 2.31 //
 
-> Regret, torpor, and the unwholesome are not present in the first dhyāna, of these. In the intermediate dhyāna, vitarka also. Beyond this, vicāra also.
-
-The commentary carries the exclusions upward and reads also as deception and crookedness. Not intoxication.
+> Regret, torpor, and the unwholesome are absent in the first dhyāna. In the intermediate, vitarka also. Beyond, vicāra also, and deception and crookedness. Exclusions accumulate. The rest remains as before. Crookedness reaches only as far as Brahmā.
 
 ## 2. Continuous Sanskrit Witness
 

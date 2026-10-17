@@ -3,21 +3,36 @@
 ## 1. Kārikā Anchor
 
 > traiyadhvikānāṃ trividhā śubhādīnāṃ śubhādikā /
+>
 > svadhātukā tadāptānām anāptānāṃ caturvidhā // 2.37 //
 
-> Of those of the three times, threefold. Of the wholesome and the rest, wholesome and the rest. Of the same realm, of those included in that. Of those not included, fourfold.
+> Acquisition of a past, future, or present dharma may itself be past, future, or present. Of a wholesome, unwholesome, or indeterminate dharma, the acquisition has that ethical status. Of a dharma included in a realm, the acquisition belongs to that realm. Of a dharma not included, the acquisition may be of the desire, form, or formless realm, or uncontaminated. Uncontaminated is not a fourth realm.
 
-Sā kilaiṣā prāptiḥ opens this classification. The subject is acquisition.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> sā kilaiṣā prāptiḥ /
+> traiyadhvikānāṃ trividhā /
+> atītānāṃ dharmāṇām atītā 'pi prāptir asti anāgatā 'pi pratyutpannā 'pi /
+> evam anāgatapratyutpannānāṃ pratyekaṃ trividhā /
+> śubhādīnāṃ śubhādikā /
+> kuśalākuśalāvyākṛtānāṃ kuśalākuśalāvyākṛtaiva yathākramaṃ prāptiḥ /
+> svadhātukā tadāptānām /
+> ye dharmās taddhātvāptās teṣāṃ svadhātukā prāptiḥ /
+> kāmarūpārūpyāvacarāṇāṃ kāmarūpārūpyāvacarī yathākramam /
+> anāptānāṃ caturvidhā // 2.37 //
+> anāsravāṇāṃ dharmāṇāṃ caturvidhā prāptiḥ /
+> samāsena traidhātukī cānāsravā ca /
+> tatrāpratisaṃkhyānirodhasya traidhātukī pratisaṃkhyānirodhasya rūpārūpyāvacarī cānāsravā ca /
+> mārgasatyasyānāsravaiva /
+> seyaṃ samāsya caturvidhā bhavati /
+
+The unit is printed 64.13–64.25 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+
+## 3. Continuous Conventional Translation
 
 This acquisition, it is said, of dharmas of the three times is threefold: the acquisition of a past, future, or present dharma may itself be past, future, or present. Of wholesome, unwholesome, and indeterminate dharmas, the acquisition is wholesome, unwholesome, or indeterminate. Of dharmas included in a realm, the acquisition is of that same realm. Of dharmas not included in a realm, fourfold: desire, form, formless, or uncontaminated.
 
-Cessation not through Discrimination is acquired in the three realms. Cessation through Discrimination in the form realm, the formless realm, or as uncontaminated. Acquisition of the path is uncontaminated. Space remains outside both, from 2.36. The commentary adds path-stage and abandonment. Those are not the verse.
-
-## 3. Movement
-
-Four indices on the verse. Two more in the prose. Āpta is inclusion. Not the pair of 2.36.
+Cessation not through Discrimination is acquired in the three realms. Cessation through Discrimination in the form realm, the formless realm, or as uncontaminated. Acquisition of the path is uncontaminated. Space remains outside both, from 2.36.
 
 ## 4. Organon Reading
 
@@ -26,5 +41,3 @@ Time of the determination is not time of the credit. A flag cannot carry the mat
 ## 5. Review Status
 
 Fine-tuned with the kārikā. Domain withdrawn. The space exception stands.
-
-2.38 is in this batch.

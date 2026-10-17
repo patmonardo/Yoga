@@ -1,26 +1,36 @@
-# VAK_2.70 Bhāṣya — Formless and the Two Uncontaminated
+# VAK_2.70 Bhāṣya — Formless and Uncontaminated
 
 ## 1. Kārikā Anchor
 
-> nava cittāni tat ṣaṇṇāṃ nivṛtāt sapta tat tathā /
-> caturbhyaḥ śaikṣam asmāt tu pañcāśaikṣaṃ tu pañcakāt // 2.70 //
+> nava cittāni tasmāt ṣaḍbhiḥ /
+>
+> nivṛtāt sapta tad eva /
+>
+> śaikṣaṃ caturbhyo 'smāt pañca /
+>
+> aśaikṣaṃ tu pañcakāt // 2.70 //
 
-> Nine minds. That, from six. From obscured, seven. That, likewise. Trainee from four. From this, five. Beyond-training from the group of five.
+> Formless wholesome followed by nine, follows six. Formless obscured followed by seven, follows seven. Trainee follows four, followed by five. Beyond-training follows five, followed by four. Twelve complete.
 
-From 105.08 through the close of the twelve at 105.26, including the first clause of the next verse. The refinement begins after that close.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> nava cittāni /
+> tasmāt ṣaḍbhiḥ /
+> nivṛtāt sapta /
+> tad eva /
+> śaikṣaṃ caturbhyo 'smāt pañca /
+> aśaikṣaṃ tu pañcakāt // 2.70 //
 
-Nine follow formless wholesome. It follows six. Seven follow formless obscured, and it follows seven that are not the same seven. Trainee follows four and is followed by five. Beyond-training follows those five and is followed by four. The twelve kinds of mind are complete.
+The unit is printed 105.16–105.25 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-## 3. Movement and Voice
+## 3. Continuous Conventional Translation
 
-The unfinished phrase is completed, then obscured, then the path kinds, then the close. Not a collation.
+Nine follow formless wholesome, excluding desire wholesome and the unobscured-indeterminate of desire and form. It follows six: its three, form wholesome, trainee and beyond-training. Seven follow formless obscured: its three, form wholesome and obscured, the two afflicted desire kinds. It follows seven, excluding the afflicted of desire and form and the two uncontaminated. Trainee follows the three realm-wholesome kinds and trainee. Five follow: those four and beyond-training. Beyond-training follows that group of five. Four follow it: the three realm-wholesome and itself. The twelve are complete.
 
 ## 4. Organon Reading
 
-Equal counts are not reversible. Path-kind is not the person's status. Not the translation. Not the final pass.
+Formless wholesome followed by nine, follows six. Formless obscured followed by seven, follows seven. Trainee follows four, followed by five. Beyond-training follows five, followed by four. Twelve complete.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. The outgoing four is marked as the next verse's opening.
+Fine-tuned with the kārikā. Twelve complete.

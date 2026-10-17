@@ -32,17 +32,14 @@ The compound gives three fields. The second line gives three groups, in that ord
 ## 4. Grammar
 
 ```text
-nikāya-sthiti-ādhipatyataḥ
-    jīvitam indriyam matam
-
-saṃkleśa-ādhipatyataḥ
-    vedanāḥ pañca indriyam matāḥ
-
-vyavadāna-ādhipatyataḥ
-    śraddhā-ādyāḥ indriyam matāḥ
+% start S
+S[TYPE=faculty] -> NP[FUNCTION=?f] VP[GOVERN=?f]
+NP[FUNCTION=persistence] -> 'life'
+NP[FUNCTION=defilement] -> 'the five feelings'
+NP[FUNCTION=purification] -> 'those beginning with faith'
 ```
 
-The Bhāṣya specifies nikāya-sthiti as nikāyasabhāga-sthiti, persistence of the homogeneous class. Śraddhādyāḥ here are five, each a faculty: faith, vigor, mindfulness, concentration, Discrimination. The eight of 2.01 are not closed in this verse.
+Each function is both the subject feature and the governed feature. Unification succeeds only when they match.
 
 ## 5. Translation
 
@@ -52,15 +49,11 @@ Because of governing efficacy over class-persistence, defilement, and purificati
 
 ### Bhāṣya-informed study translation
 
-The life-faculty governs persistence of the homogeneous class of living beings. The feelings govern defilement. The sūtra says: attachment lies latent in pleasant feeling, aversion in painful feeling, ignorance in neither-painful-nor-pleasant feeling. The five beginning with faith govern purification: through them the afflictions are checked, and the path is brought forward. Each of these is individually accepted as a faculty.
+> Life governs the standing of the class, not its arising. The five feelings govern the tones on which affliction lies. Those beginning with faith govern purification by checking the afflictions and drawing the path forward. Each is faculty by that efficacy.
 
 ## 6. Philosophical Translation
 
-Life governs standing, not origination. The five feelings govern the tones on which affliction lies. They are not the afflictions. Faith, vigor, mindfulness, concentration, and Discrimination govern purification, by checking the afflictions and drawing the path forward. Faculty is not only apprehension. It is also persistence, defilement, and purification.
-
-Organon rendering:
-
-Applied Indriya. Defilement and purification are the Kośa Path. The five feelings and the five beginning with faith are its controllers. Life controls the standing of the class, and is not one of those two. Checking is not final abandonment. The principles remain deposited. Not the verse English.
+> Faculty is not only apprehension. It is also persistence, defilement, and purification.
 
 ## 7. Technical Vocabulary
 

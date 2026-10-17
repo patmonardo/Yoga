@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > svārthopalabdhyādhipatyāt sarvasya ca ṣaḍindriyam /
+>
 > strītvapuṃstvādhipatyāt tu kāyāt strīpuruṣendriye // 2.02 //
 
-> Because of governing efficacy in the apprehension of their own meaning, and of all, the six are faculty. But because of governing efficacy over female-being and male-being, the female and male faculties are from the body.
-
-The commentary supplies the distribution. The five govern their own meaning. Mind governs all. The female and male faculties are a portion of the body-faculty, not another entity.
+> The six are faculty by governing apprehension—five of their own meaning, mind of all. The female and male faculties are not further substances; they are the body-faculty named apart because they govern female-being and male-being.
 
 ## 2. Continuous Sanskrit Witness
 

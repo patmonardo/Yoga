@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > bodhilabhyā muner na prāk catustriṃśatkṣaṇāptitaḥ /
+>
 > kāmarūpāśraye bhūte nirodhākhyādito nṛṣu // 2.44 //
 
-> For the Sage, acquired with awakening, not beforehand, because attained in thirty-four moments. When a desire- or form-realm support is present. The one called cessation, at first, among humans.
-
-The first half was reported with 2.43. This unit takes the second half through the close of the two attainments.
+> For the Sage, acquired with awakening, not beforehand. Both attainments arise with a desire- or form-realm support. The attainment of cessation is first produced among humans, and later in the form realm only by those who had lost it. Loss is required; otherwise the Udāyin sūtra is contradicted. The names follow the preparation, not the range of the cessation. Return of consciousness is disputed. Designation from non-operation is not accepted.
 
 ## 2. Continuous Sanskrit Witness
 

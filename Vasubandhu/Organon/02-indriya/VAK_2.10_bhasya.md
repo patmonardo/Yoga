@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > vipāko jīvitaṃ dvedhā dvādaśa antyāṣṭakād ṛte /
+>
 > daurmanasyāc ca tat tv ekaṃ savipākaṃ daśa dvidhā // 2.10 //
 
-> Life is maturation. Twelve are twofold, apart from the final eight and distress. That one alone possesses maturation as its result. Ten are twofold.
-
-Life is separate from the twelve. That one is distress. Being a maturation and having maturation as a result are not the same predicate. The opening is qualified in the lifespan discussion.
+> What the instance is, and what it produces, are separate. Life is received maturation, except the life concentration projects. Distress is never received. It is produced and calmed by present construction, yet always produces future maturation. Ten can either produce it or not.
 
 ## 2. Continuous Sanskrit Witness
 

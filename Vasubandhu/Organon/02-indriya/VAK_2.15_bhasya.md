@@ -3,9 +3,10 @@
 ## 1. Kārikā Anchor
 
 > nirodhayaty uparamān nārūpye jīvitaṃ manaḥ /
+>
 > upekṣāṃ caiva rūpe 'ṣṭau kāme daśa navāṣṭau vā // 2.15 //
 
-> Brings to cessation, at death in the formless realm, life, mind, and neutral feeling. In the form realm, eight. In the desire realm, ten, nine, or eight.
+>> Cessation at death is not the inverse of first acquisition. In the formless, life, mind, and neutral feeling cease. In the form realm, eight. In the desire realm, ten, nine, or eight according to sexual characteristic. Gradual death ceases only body, life, mind, and neutral feeling. A wholesome mind adds the five beginning with faith. These do not cease separately.
 
 The opening follows the commentary's question about dying. Uparamān nārūpye is kept as uncertain. The death unit continues into the next verse's first clauses: in gradual death, four; with a wholesome mind, everywhere five in addition. Those complete the counts. The fruit inquiry is not this unit.
 

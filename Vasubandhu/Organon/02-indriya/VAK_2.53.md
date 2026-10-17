@@ -12,8 +12,6 @@
 >
 > saṃprayuktakahetus tu cittacaittāḥ samāśrayāḥ // 2.53 //
 
-Those two are the equal and the superior, from 2.52. Cintā is thought. Not reflection. Reflection is saṃjñā.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -28,14 +26,14 @@ Those two are the equal and the superior, from 2.52. Cintā is thought. Not refl
 ## 4. Grammar
 
 ```text
-application-produced
-    homogeneous cause of the equal and the superior only
-    not of the inferior
-associated
-    consciousness and the mental factors
-    same support
-    numerically the same, not the same kind
+% start S
+S[CAUSE=homogeneous, PRODUCED=application] -> EqualOrSuperior
+S[CAUSE=associated] -> Citta Caitta[SUPPORT=same, EQUALITIES=five]
 ```
+
+Application-produced is equal or superior only.  
+Associated is citta and caitta of the same support, five equalities.  
+Also co-arisen, not conversely.
 
 ## 5. Translation
 
@@ -45,25 +43,11 @@ Produced by application, of those two only: born of hearing, of thought, and the
 
 ### Bhāṣya-informed study translation
 
-Not only the Path. Worldly qualities produced by application are homogeneous causes of the equal or the superior, not of the inferior. Hearing, thought, cultivation. In the desire realm, hearing reaches hearing and thought. Thought reaches thought. Cultivation is absent. In the form realm, hearing reaches hearing and cultivation. Thought is absent. Cultivation reaches cultivation. In the formless, cultivation reaches cultivation. Nine grades. Weak-weak reaches all nine. Weak-middle reaches eight. And so on.
-
-Wholesome acquired by birth, all nine grades, of one another. Afflicted likewise. Unobscured-indeterminate are four: born of maturation, deportment, craft, and arising with a transformation-mind. Causes of four, three, two, and one. A result of a higher concentration is not a cause of a result of a lower. Effort is not to be fruitless. Rice is not the cause of barley.
-
-An arisen uncontaminated dharma need not cause an unarisen inferior. Prior acquisition is not prior arising. A future receptivity is not a homogeneous cause of the knowledge. A superior is not the cause of an inferior, as when a higher fruit is lost and a lower becomes manifest. The homogeneous cause has been explained.
-
-Consciousness and the mental factors. Different times and continua would follow. Same aspect and object: the same. Same time: people looking at the new moon. Therefore the same support. Non-different. The eye-moment that supports eye-cognition supports the feeling and the rest associated with it. So with mind. Whatever is an associated cause is also co-arisen. Co-arisen, as mutually a result, like travelers by one another's strength. Associated, by the five equalities, like the same travelers sharing provisions. Without even one, they are not associated. The associated cause has been explained.
+> Produced by application is homogeneous cause of the equal or the superior only. Hearing, thought, cultivation, by realm. Associated cause is consciousness and the mental factors of the same support, five equalities. Also co-arisen, not conversely. Cintā is thought, not reflection.
 
 ## 6. Philosophical Translation
 
-Application takes the Path's direction. Birth-acquired and afflicted do not. Effort is not a promise of improvement. Decline is stated.
-
-Association is not the class. Not shared aspect. Not shared time. The new moon is other continua at one time. Same support is one moment of the faculty, not a support of the same kind. Five equalities: support, object, aspect, time, and one instance of each. One instance is not one substance.
-
-Every associated cause is co-arisen. Not the converse. The great elements were co-arisen and are not associated factors.
-
-Organon rendering:
-
-The rule-system is associated when the five hold. Produced consciousness, not Citta the Universal. Not the verse. Not the final pass.
+> Application-produced is equal or superior only. Associated is the same support, five equalities. Also co-arisen, not the converse. Same support is non-different, not same kind.
 
 ## 7. Technical Vocabulary
 

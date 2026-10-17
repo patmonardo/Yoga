@@ -5,7 +5,7 @@
 > manovittitrayaṃ tredhā dviheyā durmanaskatā /
 > nava bhāvanayā pañca tv aheyāny api na trayam // 2.13 //
 
-> Mind and the triad of feelings are threefold. Distress is to be abandoned in two ways. Nine by cultivation. The five, however, also not to be abandoned. Not the triad.
+>> Mind and the three feelings take all three statuses. Distress is abandoned by seeing and by cultivation. Nine are abandoned only by cultivation. The five beginning with faith are abandoned by cultivation when with outflows, and not abandoned when without. The triad is not abandoned at all. What is faultless is not fit to be abandoned.
 
 The question supplies the three statuses. Mind with three feelings is four faculties.
 

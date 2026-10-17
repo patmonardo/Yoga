@@ -12,8 +12,6 @@
 >
 > yukto bālas tathārūpye upekṣāyurmanaḥśubhaiḥ // 2.20 //
 
-Vin- is vit. Feeling, collectively the five. Not a sixth faculty.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -33,19 +31,12 @@ Niḥśubha is severed wholesome roots. Śubha here is the five beginning with f
 ## 4. Grammar
 
 ```text
-severed roots
-    five feelings + body + mind + life
-    = 8
-
-ordinary person, formless
-    neutral feeling + life + mind + five
-    = 8
-
-shared
-    = neutral feeling, life, mind
+% start S
+S[MIN=8, WHOLESOME=false] -> FiveFeelings Body Mind Life
+S[MIN=8, REALM=formless, PERSON=ordinary] -> Neutral Life Mind FiveFaith
 ```
 
-Yuktaḥ carries into the second clause. The three are excluded by the eight and by the ordinary person.
+Path-faculties fail to unify with `PERSON=ordinary` and `MIN=8`.
 
 ## 5. Translation
 
@@ -55,17 +46,11 @@ One without the wholesome is endowed, at the least, with eight: feeling, mind, b
 
 ### Bhāṣya-informed study translation
 
-With how many is one endowed who possesses the fewest? One whose wholesome roots have been severed is without the wholesome, and is endowed at the least with eight: the five feelings, and body, mind, and life. Feeling is vit because it experiences, or vit is experiencing, as saṃpat is accomplishment.
-
-Just as that one is endowed with eight, likewise an ordinary person in the formless realm. Bāla is the name of an ordinary person. With which eight? Neutral feeling, life, mind, and those beginning with faith. They are exclusively wholesome, so the word takes them. Then “I shall know” and the rest would also be taken. No: because the subject is eight, and because the subject is an ordinary person.
+> The fewest is eight. One whose wholesome roots are severed is endowed with the five feelings, body, mind, and life. An ordinary person in the formless realm is endowed with neutral feeling, life, mind, and the five beginning with faith. The path-faculties are excluded because the subject is eight and the subject is an ordinary person.
 
 ## 6. Philosophical Translation
 
-Eight is the lower bound, and it is two configurations. One keeps body and all five feelings, and has no wholesome roots. One keeps the five that equip the path, and has no body and only neutral feeling. The shared three do not make them one state. The number does not rank them.
-
-Organon rendering:
-
-The hub is not this count. Prāpti is the telos being looked toward, the technē that would lay out hetu and pratyaya. Without that telos in the desire realm the path is not entered. These two eights are the floor the controller still has to type. Not the verse English.
+> The minimum is not a bare continuum. It is the continuum that still governs, stripped of the path.
 
 ## 7. Technical Vocabulary
 

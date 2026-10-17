@@ -12,8 +12,6 @@
 >
 > manaskāro 'dhimokṣaś ca samādhiḥ sarvacetasi // 2.24 //
 
-Ten names, one predicate. Not a sequence.
-
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -35,13 +33,13 @@ Mati is prajñā. Discrimination, not discernment. Smṛti is non-loss of the su
 ## 4. Grammar
 
 ```text
-ten subjects
-    → in every consciousness
-    all present together in every moment
-    kila: it is said
+% start S
+S[GROUND=every-consciousness] -> Ten[PRESENT=together]
+Ten -> Feeling | Volition | Reflection | Wish | Contact | Discrimination | Mindfulness | Attention | Resolution | Concentration
 ```
 
-The predicate is carried from the great-ground definition. Kila reports. It does not by itself reject.
+`GROUND=every-consciousness` forces co-presence of the ten.  
+`kila` reports the claim; it does not by itself reject it.
 
 ## 5. Translation
 
@@ -51,17 +49,11 @@ Feeling, volition, reflection, wish to perform, contact, Discrimination, mindful
 
 ### Bhāṣya-informed study translation
 
-Which occur in every consciousness? These ten, it is said, are all present together in every moment of consciousness. Feeling is threefold experience: pleasant, painful, and neither. Volition is the formative activity of consciousness, mental action. Reflection is the take-up of the distinguishing mark. Wish to perform is the wish to act. Contact is the touching born of the conjunction of faculty, viṣaya, and cognition. Discrimination is prajñā, discrimination of dharmas. Mindfulness is non-loss of the support. Attention is the application of consciousness. Resolution is settling upon. Concentration is the one-pointedness of consciousness.
-
-The distinction of consciousness and factors is subtle. Hard to delimit even in streams, harder in moments. Differences of taste among medicinal plants are hard to determine, and those are material. How much more these, immaterial and taken by understanding.
+> These ten are present together in every moment of consciousness. Feeling is experience, volition is mental action, reflection is take-up of the mark, contact is the touching born of faculty, meaning, and cognition, Discrimination is prajñā. The distinction of consciousness and factors is subtle, harder in moments than in streams.
 
 ## 6. Philosophical Translation
 
-Every consciousness is already articulated. The ten are not added later, and not ten steps. Feeling's three are alternatives, not three at once. Wish to perform is not craving. Reflection is not Discrimination. Mindfulness, attention, resolution, and concentration are four determinations, not one attention. Universal prajñā is not liberating knowledge. Universal concentration is not the absorption.
-
-Organon rendering:
-
-The pair of 2.23 gets its first membership. Presence in every consciousness is not adequacy, and not the telos. Not the verse English.
+> Presence in every consciousness is not equal strength, not correctness, and not ethical quality. The ten co-occur; they do not become one.
 
 ## 7. Technical Vocabulary
 
@@ -81,27 +73,16 @@ The pair of 2.23 gets its first membership. Presence in every consciousness is n
 
 ## 8. Logical Determination
 
-```text
-every moment of consciousness
-    → all ten together
+```python
+from nltk.sem.logic import LogicParser
+lp = LogicParser()
 
-not a sequence
-not equal strength
-not correctness
-not ethical quality
-
-feeling present
-    ↛ three feelings at once
-mati present
-    ↛ liberating knowledge
-samādhi present
-    ↛ absorption attained
-
-ground
-    = every consciousness
-support
-    ≠ the ground
+ten = lp.parse(r'all c.(Consciousness(c) -> (Feeling(c) & Volition(c) & Reflection(c) & Contact(c) & Discrimination(c) & ...))')
+not_strength = lp.parse(r'-all c x.(Present(c,x) -> EqualStrength(c,x))')
 ```
+
+Presence is co-occurrence, not identity of strength or quality.  
+The ground is every consciousness; the support is not the ground.
 
 ## 9. Interpretive Note
 

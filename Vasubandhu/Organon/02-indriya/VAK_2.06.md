@@ -29,25 +29,14 @@ Pravṛtti qualifies each of the four. Tathā carries the same four to nivṛtti
 
 ## 4. Grammar
 
-Vā is matavikalpa. Others say:
-
 ```text
-engagement
-    support      the six
-    arising      female and male
-    persistence  life
-    experience   the five feelings
-    fourteen
-
-withdrawal, likewise
-    support      the five beginning with faith
-    arising      I shall know
-    persistence  the knowledge-faculty
-    experience   one who has known
-    eight
+% start S
+S[COURSE=engagement] -> Fourteen[PLACE=?p]
+S[COURSE=withdrawal] -> Eight[PLACE=?p]
+PLACE -> support | arising | persistence | experience
 ```
 
-The same prose then refuses speech, hand, foot, anus, and genital organ. That refusal belongs to this unit.
+Same four places, two courses. `COURSE` keeps them apart.
 
 ## 5. Translation
 
@@ -57,19 +46,11 @@ Or, as to support, arising, persistence, and experience of engagement, fourteen;
 
 ### Bhāṣya-informed study translation
 
-Or marks a difference of opinion. Others say: the six are the support of engagement. Female and male are its arising, because it arises from them. Life is its persistence, because it continues by that. Experience is by the feelings. These are the fourteen.
-
-In the same manner, the others concern withdrawal. Those beginning with faith are its supports. The faculty called “I shall know” is its arising. The knowledge-faculty is its persistence. Experience is by the faculty of one who has known. For this reason there are just this many, and this is their order.
-
-Speech is not a faculty of speaking, because speaking depends on particular training. Hand and foot are not faculties, because they are not different from taking hold and moving about, and because snakes and the like do both without them. The anus is not a faculty of excretion: heavy matter falls where there is space, and wind propels it. The genital organ is not a faculty of pleasure: that pleasure is produced by the female and male faculties. Otherwise throat, teeth, eyelids, and joints would be faculties of swallowing, chewing, opening and closing, contracting and extending — or every cause would be a faculty of its own act. Speech and the rest are not reasonably faculties.
+> Or the same twenty-two under another order. Fourteen govern engagement through support, arising, persistence, and experience. Eight govern withdrawal in those same four places. Withdrawal is not bare absence; it has its own support, arising, persistence, and experience.
 
 ## 6. Philosophical Translation
 
-The same twenty-two, another order. Fourteen govern engagement: support, arising, persistence, experience. Eight govern withdrawal in those same four places. Withdrawal is not bare absence. It has a support, an arising, a persistence, and an experience. The alternative does not replace 2.05. Vā keeps them apart.
-
-Organon rendering:
-
-The array we subject ourselves to. Engagement is one course of the rules. Withdrawal is the other, same four places, other members. The principles still discriminate membership: speech and the acts stay outside. Adaptation is to this array, not to every cause. Not the verse English.
+> Engagement and withdrawal are two courses of the same rules. The alternative does not replace the first account.
 
 ## 7. Technical Vocabulary
 

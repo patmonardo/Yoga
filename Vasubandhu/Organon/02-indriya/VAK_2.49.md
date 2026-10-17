@@ -12,8 +12,6 @@
 >
 > sarvatrago vipākākhyaḥ ṣaḍvidho hetur iṣyate // 2.49 //
 
-Held to be sixfold. Not proved in the verse. Five are named only. Sabhāga here is the homogeneous cause. Not same-class. Pratyaya is not this list.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -30,14 +28,15 @@ Held to be sixfold. Not proved in the verse. Five are named only. Sabhāga here 
 ## 4. Grammar
 
 ```text
-six names
-    = cause is held to be sixfold
-conditioning
-    all other than itself
-    non-obstruction toward what is arising
-principal
-    also able to produce
+% start S
+S[CAUSE=six] -> Conditioning | CoArisen | Homogeneous | Associated | Pervasive | Maturation
+S[CAUSE=conditioning] -> NonObstruction[TOWARD=arising, OTHER=self]
+S[CAUSE=conditioning, PRINCIPAL=true] -> AlsoProduce
 ```
+
+Six causes held, not proved.  
+Conditioning is non-obstruction toward what arises.  
+Principal also produces. Not agency.
 
 ## 5. Translation
 
@@ -47,21 +46,11 @@ Conditioning, and co-arisen, homogeneous, associated, pervasive, and that called
 
 ### Bhāṣya-informed study translation
 
-Six causes. Conditioning, co-arisen, homogeneous, associated, pervasive, maturation. Other than itself is the conditioning cause. For a conditioned dharma, all dharmas except its own nature, because they stand in non-obstruction toward its arising.
-
-Knowledge obstructs influxes that would have arisen. Sunlight obstructs the seeing of the stars. The definition is non-obstruction toward what is arising, not a claim that nothing ever obstructs. A local ruler who does not oppress is cited when the villagers say they are happy through their lord. Something with no power to obstruct is still spoken of so. Nirvāṇa, dharmas not subject to arising, hell-beings toward a formless arising. The statement is general. A principal conditioning cause can also produce. Eye and visible form toward eye-cognition. Food toward the body. Seed toward the sprout.
-
-If all are causes by non-obstruction, why does not everything arise at once? Why is not everyone a sharer in a killing, as the killer is? Not a valid objection. Asserted by non-obstruction, not by productive agency. Others: every conditioning cause has efficacy toward every arising, by a succession. Nirvāṇa as object of a mental cognition, and eye-cognition afterward. A direction, not a demonstration. The conditioning cause has been explained.
+> Cause is held to be sixfold: conditioning, co-arisen, homogeneous, associated, pervasive, and maturation. Conditioning is all other than itself, by non-obstruction toward what is arising. A principal conditioning cause can also produce. Non-obstruction is not productive agency. The conditioning cause has been explained.
 
 ## 6. Philosophical Translation
 
-One word, cause, is not one relation. Non-obstruction, production, and a mediated succession are three claims. The broad field is not the productive ground. Non-obstruction does not make an agent. The killer's agency is not everyone's.
-
-Five causes are named and not defined. Homogeneous cause is not same-class. Maturation cause is not the maturation. Conditions are the other enumeration. Not collapsed.
-
-Organon rendering:
-
-This is the typed causality an Agent can use. Permitting, producing, and mediating are not one edge. Not the verse. Not the final pass.
+> Six causes held, not proved. Conditioning is non-obstruction toward what arises. Principal also produces. Not agency. Pratyaya is not this list.
 
 ## 7. Technical Vocabulary
 

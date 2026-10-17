@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > savitarkavicāratvāt kuśale kāmacetasi /
+>
 > dvāviṃśatiś caitasikāḥ kaukṛtyam adhikaṃ kvacit // 2.28 //
 
-> Because accompanied by vitarka and vicāra, in wholesome desire-realm consciousness, twenty-two mental factors. Regret additional, in some cases.
-
-The unit begins at the counting question, 57.09, and runs through the regret explanation to 58.03.
+> In wholesome desire-realm consciousness twenty-two mental factors necessarily occur: the ten universal, the ten wholesome, vitarka, and vicāra. Regret is additional where present, making twenty-three. Kaukṛtya names the regret that has the badly done as support; the name is transferred. Wholesome regret follows failure to do the wholesome or doing the unwholesome.
 
 ## 2. Continuous Sanskrit Witness
 

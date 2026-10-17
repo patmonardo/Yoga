@@ -1,40 +1,35 @@
-# VAK_2.46 Bhāṣya — Secondary Marks and the Restriction
+# VAK_2.46 Bhāṣya — Primary and Secondary Marks
 
 ## 1. Kārikā Anchor
 
 > jātijātyādayas teṣāṃ te 'ṣṭadharmaikavṛttayaḥ /
+>
 > janyasya janikā jātir na hetupratyayair vinā // 2.46 //
 
-> Arising-of-arising and the rest, of those. They operate on eight dharmas, and on one. Arising is the generator of what is to be generated, not without causes and conditions.
+> The primary marks, being conditioned, have secondary marks. Primary operate on eight, secondary on one. No regress. Arising generates only with causes and conditions. The power seen is the conjunction, on the critical account. The genitive does not prove a second entity. The marks are maintained as real. Not settled.
 
-The first half was cited inside the marks. The second half is printed at 79.18. The close is 80.11. Not a collation.
+## 2. Continuous Sanskrit Witness
 
-## 2. Continuous Conventional Translation
+> jātijātyādayas teṣām /
+> teṣām api catvāry anulakṣaṇāni bhavanti /
+> jātijātiḥ sthitisthitiḥ jarājarā anityatānityatā iti /
+> nanu caikasyaikasya caturlakṣaṇī prāpnoti aparyavasānadoṣaś ca /
+> na prāpnoti /
+> yasmāt /
+> te 'ṣṭadharmaikavṛttayaḥ /
+> teṣāṃ jātyādīnām aṣṭāsu dharmeṣu vṛttiḥ /
+> janyasya janikā jātir na hetupratyayair vinā // 2.46 //
 
-The primary marks, being conditioned, have secondary marks. Arising-of-arising, persistence-of-persistence, aging-of-aging, impermanence-of-impermanence. No endless regress: they operate on eight and on one. A dharma arises as one of nine. Arising generates the other eight. Arising-of-arising generates that arising. Persistence, aging, and impermanence likewise. Splitting space. No evidence of separate entities.
+The unit is printed 76.11–79.18 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
-The sūtra's three are marks of the stream, not of a moment. Beginning, ending, continuation, difference of earlier and later. Also moment by moment, without a further entity. Occurring after not occurring. Not occurring after occurring. Connection with a successor. Their difference.
+## 3. Continuous Conventional Translation
 
-If future arising generates, why does not everything future arise at once? Because arising generates only with causes and conditions. Then the power is the conjunction. Complete, arising. Absent, no arising. Arisen designates existing after not existing. The genitive does not prove a second entity. The unconditioned does not arise, because it does not exist after not existing. The marks are established as real, on their account. Defects are to be answered. The established doctrine is to be followed. The marks have been explained.
+The primary marks, being conditioned, have secondary marks: arising-of-arising, persistence-of-persistence, aging-of-aging, impermanence-of-impermanence. No endless regress: the primary operate on eight, the secondary on one. A dharma arises as one of nine. Arising generates the other eight. Arising-of-arising generates that arising. Persistence, aging, and impermanence likewise. Arising generates only with causes and conditions. The power seen is the conjunction. The genitive does not prove a second entity. The marks are maintained as real. Not settled.
 
-## 3. Movement and Voice
+## 4. Organon Reading
 
-Secondary marks, then the distribution, then the stream, then the restriction and the redundancy. The close keeps the doctrine. Not an agreement.
+Primary operate on eight, secondary on one. The stipulation stops the regress; it does not show the entities. Arising generates only with causes and conditions. The power seen is the conjunction. Arising is the transition, not a producer beside it. The marks are maintained as real. Not settled.
 
-## 4. Eight and One
+## 5. Review Status
 
-Nine members. Primary exclude themselves. Secondary take one. The hen is the image of many and few. Efficacy is the word for operation. The stipulation stops the line. It does not show the entities.
-
-## 5. The Restriction
-
-Not without causes and conditions. The objection is that the conjunction then does the work. No further difference is assigned to an arising-entity. Designation is not a denial that anything arises. It is the transition named. Grammar, the arising of form, is refused as proof. The unconditioned is the contrast. Always existing is not existing after not existing.
-
-## 6. Organon Reading
-
-Hetu and pratyaya are the conjunction this generator cannot do without. The block that lays them out is not this verse. A beginning is the transition, not a classmate added to the course. Not the translation. Not the final pass.
-
-## 7. Review Status
-
-Fine-tuned with the kārikā. The marks dispute is not settled. The restriction is kept.
-
-2.47 has not been opened.
+Fine-tuned with the kārikā. The dispute is not settled.

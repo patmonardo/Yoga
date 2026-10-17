@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > cittaṃ caittāḥ sahāvaśyaṃ sarvasaṃskṛtalakṣaṇaiḥ /
+>
 > prāptyā vā pañcadhā caittā mahābhūmyādibhedataḥ // 2.23 //
 
-> Consciousness and the mental factors, necessarily together. Everything with the marks of the conditioned. Or with acquisition. Mental factors are fivefold, by the division beginning with the great ground.
-
-The anchor keeps the compact first line. The commentary reads everything with the marks of the conditioned, and carries necessarily together forward. Acquisition is restricted.
+> Consciousness and the mental factors necessarily co-arise; neither exists without the other. Everything conditioned arises with the marks. Acquisition accompanies only what is designated as belonging to a sentient being. Mental factors are fivefold by the division beginning with the great ground. The great-ground factors occur in every consciousness.
 
 ## 2. Continuous Sanskrit Witness
 

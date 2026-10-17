@@ -3,9 +3,10 @@
 ## 1. Kārikā Anchor
 
 > kramamṛtyau tu catvāri śubhe sarvatra pañca ca /
+>
 > navāptir antyaphalayoḥ saptāṣṭanavabhir dvayoḥ // 2.16 //
 
-> In gradual death, four. With a wholesome mind, everywhere five in addition. Attainment of the two extreme fruits is through nine. Of the two, through seven, eight, or nine.
+>> The extreme fruits are attained through nine. Stream-entry takes the five beginning with faith, excluding one who has known, with mind and neutral feeling. Arhatship takes the five, excluding “I shall know,” with mind and any one feeling. The middle fruits take seven, eight, or nine according to route. Eleven is not a simultaneous count. It is one person attaining again across different feelings.
 
 The first half was translated with the death unit in 2.15. This study is the fruit question. The opening of the next verse answers the eleven: arhatship is nevertheless said to be attained through eleven, because that is possible for one person. Possession is not this unit.
 

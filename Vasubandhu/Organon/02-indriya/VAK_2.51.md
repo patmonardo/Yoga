@@ -12,8 +12,6 @@
 >
 > cittānuvartinaḥ kālaphalādiśubhatādibhiḥ // 2.51 //
 
-Follower is not afterward. Consciousness here is the produced. Not Citta the Universal.
-
 ## 3. Lexical Analysis
 
 | Pada | Force |
@@ -28,19 +26,16 @@ Follower is not afterward. Consciousness here is the produced. Not Citta the Uni
 ## 4. Grammar
 
 ```text
-followers
-    all mental factors associated with consciousness
-    restraint of concentration
-    the uncontaminated restraint
-    the marks of those, and of consciousness
-ten
-    arising, persistence, cessation, one period
-    one result, one maturation, one homogeneous outflow
-    wholesome with wholesome, unwholesome, indeterminate
-one
-    = together
-    not one object
+% start S
+S[FOLLOWER=true] -> Caitta | TwoRestraints | Marks
+S[REASON=ten] -> Together[TIME, RESULT, MATURATION, OUTFLOW, ETHICAL]
+S[COUNT=out] -> 58
+S[COUNT=in] -> 54
 ```
+
+Followers are mental factors, two restraints, and the marks, in ten respects.  
+58 out, 54 in. Fourteen refused.  
+Co-arisen is wider than the co-arisen cause.
 
 ## 5. Translation
 
@@ -50,23 +45,11 @@ The mental factors, the two restraints, and the marks of those and of consciousn
 
 ### Bhāṣya-informed study translation
 
-All factors associated with consciousness. The restraint of concentration and the uncontaminated restraint. Arising and the other marks of these and of consciousness. They arise, persist, and cease together, and fall in the same period. Together in result, maturation, and homogeneous outflow. Wholesome, unwholesome, or indeterminate with consciousness. Ten reasons. Not both restraints in every consciousness. The least count uses the ten universal factors.
-
-Even the least consciousness is co-arisen cause of fifty-eight: ten universal factors, their forty marks, and its own eight marks. Fifty-four are co-arisen causes of it, excluding its own secondary marks. Others say fourteen: the ten, and its own marks. Not approved. It would conflict with the Prakaraṇa. What was excepted is also a cause of the identity-view. The Kāśmīra teachers keep the associated dharmas, by the reading or by the sense.
-
-Whatever is a co-arisen cause is co-arisen. Co-arisen is wider. Secondary marks. Some derived form. Co-arisen acquisitions: not the same result, and they arise before and after.
-
-Seeds do not show cause and result among things produced together. Lamp and light. Sprout and shadow. Is the lamp the cause of the light, or an antecedent assemblage the cause of both? Presence and absence correspond. When one is present all are, and when one is absent all are. Reciprocal? Then the excluded cases would follow. Like three staffs standing by one another's strength. A cord, a peg, or the earth is also there. Other causes too, such as the homogeneous. The co-arisen cause is nevertheless established. Not settled as an uncontested proof.
+> Followers of consciousness are the mental factors, the two restraints, and the marks of those and of consciousness, in ten respects. Fifty-eight out, fifty-four in. Fourteen refused. Co-arisen is wider than the co-arisen cause. Simultaneous causation is not settled.
 
 ## 6. Philosophical Translation
 
-Ten correspondences, not the word follower. Associated is not the same list as follower. The restraints and the marks are included. The counts make the asymmetry of 2.50 explicit. Fifty-eight out. Fifty-four in. Fourteen is the narrower count, refused by the treatise citation.
-
-Co-presence is not the cause. The lamp may be produced with its light by what preceded. The staffs may stand by an antecedent arrangement. The close keeps the co-arisen cause, and grants other causes. Both stay.
-
-Organon rendering:
-
-The rule-system follows the produced consciousness in those ten respects. Not Citta the Universal. The Hub is not an extra cause. Not the verse. Not the final pass.
+> Followers are defined in ten respects. The counts are 58 out, 54 in. Co-arisen is wider than the cause. Simultaneous causation is not an uncontested proof.
 
 ## 7. Technical Vocabulary
 

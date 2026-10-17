@@ -3,9 +3,10 @@
 ## 1. Kārikā Anchor
 
 > ekādaśabhir arhattvam uktaṃ tv ekasya saṃbhavāt /
+>
 > upekṣājīvitamanoyukto 'vaśyaṃ trayānvitaḥ // 2.17 //
 
-> Arhatship is said through eleven, however, because of the possibility for one person. One endowed with neutral feeling, life, or mind is necessarily accompanied by the three.
+>> One who possesses any one of neutral feeling, life, or mind necessarily possesses the three. None of them is possessed without the others. With the remaining faculties there is no fixed rule. Possession is excluded by birth, by non-acquisition or loss, by dispassion, by severed roots, and by path-status. Where not excluded, possession stands.
 
 The eleven was translated with 2.16. This study is possession. Any one is the commentary's anyatamena. Upekṣā follows the running witness.
 

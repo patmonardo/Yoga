@@ -30,18 +30,13 @@ The feminine agrees with vedanā. The neuter compounds are the faculty-names. Sa
 ## 4. Grammar
 
 ```text
-aśātā yā kāyikī vedanā
-    → duḥkha-indriyam
-
-śātā kāyikī vedanā
-    → sukha-indriyam
-
-dhyāne tṛtīye tu
-    sā śātā vedanā caitasī
-    → sukha-indriyam
+% start S
+S[FACULTY=pain] -> Feeling[MODE=bodily, TONE=disagreeable]
+S[FACULTY=pleasure] -> Feeling[MODE=bodily, TONE=agreeable]
+S[FACULTY=pleasure, LEVEL=third] -> Feeling[MODE=mental, TONE=agreeable]
 ```
 
-The Bhāṣya fills the ellipsis: the pleasure-faculty is agreeable bodily feeling. In the third dhyāna that same agreeable feeling, mental, is the pleasure-faculty, because bodily feeling is absent. The five cognition-groups are absent.
+Default is bodily. The third-dhyāna feature overrides `MODE`.
 
 ## 5. Translation
 
@@ -51,17 +46,11 @@ The pain-faculty is whichever bodily feeling is disagreeable. Pleasure is agreea
 
 ### Bhāṣya-informed study translation
 
-Eye through the male faculty has been explained. Life, being dissociated, will be explained among the dissociated. Those beginning with faith will be explained among the mental factors. Pleasure and the rest, and those beginning with “I shall know,” are now to be explained.
-
-Disagreeable bodily feeling is the pain-faculty. Disagreeable means injurious. Agreeable bodily feeling is the pleasure-faculty. Agreeable means supportive. In the third dhyāna that same agreeable feeling, being mental, is the pleasure-faculty. There is no bodily feeling there, because the five cognition-groups are absent.
+> Pain is disagreeable bodily feeling. Pleasure is agreeable bodily feeling. The exception is narrow: in the third dhyāna the five cognition-groups are absent, so agreeable mental feeling takes the pleasure-faculty. Mental feeling is not thereby bodily.
 
 ## 6. Philosophical Translation
 
-Pain is disagreeable bodily feeling. Pleasure is agreeable bodily feeling. The exception is narrow. In the third dhyāna the five cognition-groups are absent, so bodily feeling is absent, and agreeable mental feeling takes the pleasure-faculty. Mental feeling is not thereby bodily. Gladness is not this verse.
-
-Organon rendering:
-
-A node in the network. The same faculty-place projects by mode and by level. Default is bodily. The third dhyāna projects the agreeable mental feeling into that place. Recursive, not a new faculty. The principles remain deposited. Not the verse English.
+> The third dhyāna projects agreeable mental feeling into the pleasure-place. It does not create a new faculty.
 
 ## 7. Technical Vocabulary
 

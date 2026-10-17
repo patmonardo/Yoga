@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > nirodhākhyā tathaiveyaṃ vihārārthaṃ bhavāgrajā /
+>
 > śubhā dvivedyāniyatā cāryasyāpyā prayogataḥ // 2.43 //
 
-> This, called cessation, is likewise, for the sake of abiding, born of the summit of existence. Wholesome, to be experienced at two times and unfixed. A noble person's, acquired through application.
-
-The Buddha exception is in this prose. It is the first half of the next verse. The second half is not opened.
+> Likewise again carries only the cessation of consciousness and the mental factors. This attainment is for abiding, born of the summit of existence. Wholesome, to be experienced at two times or unfixed. Exclusively a noble person's, acquired through application. Not by dispassion. For the Buddha, acquired with the knowledge of exhaustion.
 
 ## 2. Continuous Sanskrit Witness
 

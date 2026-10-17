@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > ājñāsyāmyākhyam ājñākhyam ājñātāvīndriyaṃ tathā /
+>
 > uttarottarasaṃprāptinirvāṇādyādhipatyataḥ // 2.04 //
 
-> Likewise, the one called “I shall know,” the one called knowledge, and the faculty of one who has known, because of governing efficacy over successive attainment, nirvāṇa, and the rest.
-
-Likewise continues individual faculty-status. And the rest opens the second account.
+> The three complete the series. The first governs attainment of the next, the second governs attainment of the last, and the third governs parinirvāṇa. They are not tenses of one act.
 
 ## 2. Continuous Sanskrit Witness
 

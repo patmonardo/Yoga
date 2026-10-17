@@ -3,11 +3,10 @@
 ## 1. Kārikā Anchor
 
 > mohaḥ pramādaḥ kauśīdyam āśraddhyaṃ styānam auddhatyam /
+>
 > kliṣṭe sadaivākuśale tv āhrīkyam anapatrapā // 2.26 //
 
-> Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation, always in the afflicted. But in the unwholesome, shamelessness and lack of moral caution.
-
-The anchor is the normalized reading. The source below keeps the damaged verse.
+> These six occur always and only in afflicted consciousness. Delusion is ignorance, heedlessness is non-cultivation of the wholesome, laziness is absence of arousal. The ten-recitation includes afflicted modes of the universal ten; they are not a second class. In unwholesome consciousness shamelessness and lack of moral caution are invariably present. Designation follows whichever predominates.
 
 ## 2. Continuous Sanskrit Witness
 
