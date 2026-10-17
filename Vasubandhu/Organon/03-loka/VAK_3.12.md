@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सहैकत्र द्वयाभावात् असन्तानाद् द्वयोदयात् ।
->
-> कण्ठोक्तेश्चास्ति गन्धर्वात् पञ्चोक्तेः गतिसूत्रतः ॥ ३.१२ ॥
+```sanskrit
+सहैकत्र द्वयाभावात् असन्तानाद् द्वयोदयात् ।
+कण्ठोक्तेश्चास्ति गन्धर्वात् पञ्चोक्तेः गतिसूत्रतः ॥ ३.१२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sahaikatra dvayābhāvāt asantānād dvayodayāt /
->
-> kaṇṭhokteś cāsti gandharvāt pañcokteḥ gatisūtrataḥ // 3.12 //
+```text
+sahaikatra dvayābhāvāt asantānād dvayodayāt /
+kaṇṭhokteś cāsti gandharvāt pañcokteḥ gatisūtrataḥ // 3.12 //
+```
 
 ## 3. Lexical Analysis
 
@@ -67,8 +69,7 @@ the boundary between VAK 3.11 and 3.12.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > [Reflection is not a valid example,] because the two are not together in one
 > place, because it is not [of the same] continuity, and because it arises from
 > two [causes]. And intermediate existence exists because of explicit
@@ -77,16 +78,10 @@ the boundary between VAK 3.11 and 3.12.
 
 ### Bhāṣya-informed study translation
 
-> Reflection cannot establish discontinuous rebirth: original and reflection
-> do not occupy one place, reflection does not continue the original's series,
-> and its appearance depends upon both original and mirror. Intermediate
-> existence is further warranted by received teaching: it is expressly named,
-> presupposed by the gandharva present at conception, required by the five
-> non-returners, and differentiated in the discourse on the courses of good
-> persons.
-
-The original-plus-mirror analysis and the identities of the cited teachings
-are determinations supplied by the Bhāṣya.
+> [Reflection is not an example] because two are not together in one place,
+> because there is no continuity, and because two arise from two [causes].
+> Intermediate existence exists because of explicit statement, the
+> gandharva, the teaching of five, and the discourse on courses.
 
 ## 6. Philosophical Translation
 
@@ -196,6 +191,9 @@ This establishes the Kārikā's proof-platform. A direct study of every cited
 passage and every mirror argument remains future work.
 
 ## 9. Interpretive Note
+
+**Translation note.** The original-plus-mirror analysis and the identities of the cited teachings
+are determinations supplied by the Bhāṣya.
 
 VAK 3.12 is as much proof-theory as World System. The transition-phase is not
 accepted because one vivid picture makes it imaginable. Its causal structure

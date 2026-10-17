@@ -5,12 +5,9 @@
 > garbhāvakrāntayas tisraś cakravartti-svayaṃbhuvām /
 > karma-jñānobhayeṣāṃ vā viśadatvād yathākramam // 3.17 //
 
-> Three exceptional modes of womb-entry are assigned respectively to the
-> cakravartin, the Pratyekabuddha, and the perfectly awakened Buddha. The
-> cakravartin is clearly aware upon entry through clarified karma; the
-> Pratyekabuddha remains clearly aware through clarified achieved knowing; the
-> Buddha also emerges clearly aware through the clarity of both karma and
-> knowing.
+> The three womb-descents belong respectively to the wheel-turning ruler,
+> the Pratyekabuddha, and the perfectly awakened Buddha: through clarity of
+> karma, of knowledge, and of both.
 
 The Bhāṣya identifies the compressed three persons, assigns to each one of the
 progressively lucid profiles established in VAK 3.16, and specifies the

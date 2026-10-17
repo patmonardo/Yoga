@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> परिषण्डाश्चतस्रोऽस्य दशसाहस्रिकान्तराः ।
->
-> षोडशाष्टौ सहस्राणि चत्वारि द्वे च निर्गताः ॥ ३.६३ ॥
+```sanskrit
+परिषण्डाश्चतस्रोऽस्य दशसाहस्रिकान्तराः ।
+षोडशाष्टौ सहस्राणि चत्वारि द्वे च निर्गताः ॥ ३.६३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> pariṣaṇḍāś catasro 'sya daśasāhasrikāntarāḥ /
->
-> ṣoḍaśāṣṭau sahasrāṇi catvāri dve ca nirgatāḥ // 3.63 //
+```text
+pariṣaṇḍāś catasro 'sya daśasāhasrikāntarāḥ /
+ṣoḍaśāṣṭau sahasrāṇi catvāri dve ca nirgatāḥ // 3.63 //
+```
 
 ## 3. Lexical Analysis
 
@@ -61,22 +63,15 @@ second 8,000, the third 4,000, and the fourth 2,000.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > This [Sumeru] has four terraces at intervals of ten thousand. They project
 > outward sixteen thousand, eight thousand, four thousand, and two thousand
 > [yojanas respectively].
 
 ### Bhāṣya-informed study translation
 
-> Sumeru has four surrounding terraces. The first is reached after ascending
-> 10,000 yojanas, and each succeeding terrace after another 10,000, so that the
-> fourth stands at 40,000 yojanas and the four together occupy the lower half
-> of Sumeru's 80,000-yojana height above the water. From the mountain they
-> project outward respectively 16,000, 8,000, 4,000, and 2,000 yojanas.
-
-The cumulative elevations, the lower-half determination, and the ordered
-distribution of the outward measures are Bhāṣya determinations.
+> Four terraces surround Meru, 10,000 yojanas apart; 16,000, 8,000, 4,000,
+> and 2,000 yojanas project out from it.
 
 ## 6. Philosophical Translation
 
@@ -164,6 +159,9 @@ The mapping depends upon sequence. Removing ordinal position would destroy
 the information needed to assign the measures correctly.
 
 ## 9. Interpretive Note
+
+**Translation note.** The cumulative elevations, the lower-half determination, and the ordered
+distribution of the outward measures are Bhāṣya determinations.
 
 VAK 3.63 changes scale without abandoning the method of the preceding
 cosmography. The verse does not merely say that Sumeru has ledges. It provides

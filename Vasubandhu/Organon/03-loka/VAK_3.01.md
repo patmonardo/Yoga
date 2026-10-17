@@ -2,31 +2,33 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> नरकप्रेततिर्यञ्चो मनुष्याः षड् दिवौकसः ।
->
-> कामधातुः स नरकद्वीपभेदेन विंशतिः ॥ ३.१ ॥
+```sanskrit
+नरकप्रेततिर्यञ्चो मनुष्याः षड् दिवौकसः ।
+कामधातुः स नरकद्वीपभेदेन विंशतिः ॥ ३.१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> narakapretatiryañco manuṣyāḥ ṣaḍ divaukasaḥ /
->
-> kāmadhātuḥ sa narakadvīpabhedena viṃśatiḥ // 3.1 //
+```text
+narakapretatiryañco manuṣyāḥ ṣaḍ divaukasaḥ /
+kāmadhātuḥ sa narakadvīpabhedena viṃśatiḥ // 3.1 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| naraka-preta-tiryañcaḥ | compressed coordinative expression, nominative plural | hell-beings, pretas, and animals |
+| naraka-preta-tiryañcaḥ | compressed coordinative expression, nominative plural | naraka-beings, pretas, and animals |
 | manuṣyāḥ | nominative masculine plural | humans |
 | ṣaṭ | numeral; surface form `ṣaḍ` before voiced `d` | six |
 | divaukasaḥ | nominative masculine plural of `divaukas` (`div` + `okas`) | heaven-dwellers |
 | kāma-dhātuḥ | nominative masculine singular compound | Desire Realm |
 | saḥ | nominative masculine singular pronoun; metrically `sa` | that, referring to the preceding enumeration |
-| naraka-dvīpa-bhedena | instrumental singular compound | by the differentiation of hells and continents |
+| naraka-dvīpa-bhedena | instrumental singular compound | by the differentiation of narakas and continents |
 | viṃśatiḥ | nominative feminine singular numeral noun | twenty; the Bhāṣya supplies “locations” |
 
-`Naraka` can name a hell or, by relation to the other members of the list, a
-hell-being or hell-destiny. `Preta` is retained as a technical term rather than
+`Naraka` can name a place or, by relation to the other members of the list,
+the corresponding being or destiny. `Preta` is retained as a technical term rather than
 being reduced to the conventional “hungry ghost.” `Tiryañc`, literally one
 that goes across or horizontally, has the established sense “animal.”
 
@@ -43,7 +45,7 @@ manuṣyāḥ
 saḥ kāmadhātuḥ
 ```
 
-The Bhāṣya treats hell-beings, pretas, animals, and humans as four `gati`, and
+The Bhāṣya treats naraka-beings, pretas, animals, and humans as four `gati`, and
 the six heaven-dwellers as six `devanikāya`. These terms organize the list in
 the commentary; they are not words of the Kārikā.
 
@@ -56,12 +58,12 @@ saḥ kāmadhātuḥ
 ```
 
 `Naraka-dvīpa-bhedena` is instrumental: the Realm is twentyfold by or through
-the differentiation of its hells and continents. The Bhāṣya explicitly
+the differentiation of its narakas and continents. The Bhāṣya explicitly
 supplies the ellipsis `sthānāni`, “locations.” It resolves the count as:
 
 | Locations | Count |
 |---|---:|
-| great hells | 8 |
+| great narakas | 8 |
 | continents, which locate human existence | 4 |
 | Desire Realm deva classes | 6 |
 | animal location | 1 |
@@ -73,21 +75,16 @@ second half are therefore related classifications, but not identical lists.
 
 ## 5. Translation
 
-### Close syntactic construe
-
-> Hell-beings, pretas, animals, humans, and six classes of heaven-dwellers:
+### Literal Translation
+> Narakas, pretas, animals, humans, and six classes of heaven-dwellers:
 > that is the Desire Realm, twenty [locations] through the differentiation of
-> hells and continents.
+> narakas and continents.
 
 ### Bhāṣya-informed study translation
 
-> Hell-beings, pretas, animals, humans, and the six classes of heaven-dwellers
-> constitute the Desire Realm. Through the differentiation of its hells and
-> continents, it comprises twenty locations.
-
-The bracketed “locations” in the close construe is supplied from the Bhāṣya.
-The six deva classes, the eight great hells, and the four continents are also
-commentarial explications of the compressed verse.
+> Narakas, pretas, animals, humans, and the six classes of
+> heaven-dwellers constitute the Desire Realm. Through the differentiation
+> of its narakas and continents, it comprises twenty locations.
 
 ## 6. Philosophical Translation
 
@@ -109,7 +106,7 @@ not replace the close translations “world” and “container-world.”
 | loka | world; World System in the Organon register | the articulated whole of sentient orders, placements, supporting frame, differentiation, and limits; not a ready-made external universe |
 | kāmadhātu | Desire Realm | the Realm characterized by desire and containing the listed destinies and deva classes |
 | dhātu | Realm here; Principle in the Organon mapping | the local conventional sense is Realm; keep it distinct from the controlled Organon rendering Principle |
-| naraka | hell / hell-being | realm or destiny; its contextual reference is fixed by the level of classification |
+| naraka | naraka / naraka-being | realm or destiny; its contextual reference is fixed by the level of classification |
 | preta | preta | a deprived mode of sentient existence; retained as a technical name |
 | tiryañc | animal | literally “going across”; one of the four destinies in the Bhāṣya |
 | divaukas | heaven-dweller | a deva dwelling in heaven; the verse specifies six classes collectively |
@@ -122,7 +119,7 @@ not replace the close translations “world” and “container-world.”
 
 The Bhāṣya names the six deva classes as Cāturmahārājakāyika, Trāyastriṃśa,
 Yāma, Tuṣita, Nirmāṇarati, and Paranirmitavaśavartin. It names the eight great
-hells as Saṃjīva, Kālasūtra, Saṃghāta, Raurava, Mahāraurava, Tapana, Pratāpana,
+narakas as Saṃjīva, Kālasūtra, Saṃghāta, Raurava, Mahāraurava, Tapana, Pratāpana,
 and Avīci; and the four continents as Jambūdvīpa, Pūrvavideha,
 Avaragodānīya, and Uttarakuru.
 
@@ -182,13 +179,17 @@ stated verbatim by Vasubandhu.
 
 ## 9. Interpretive Note
 
+**Translation note.** The bracketed “locations” in the close construe is supplied from the Bhāṣya.
+The six deva classes, the eight great narakas, and the four continents are also
+commentarial explications of the compressed verse.
+
 Loka-nirdeśa does not open with cosmogony or abstract space. It
 opens by taking a distinction that the preceding analysis already used and
 making that distinction itself explicit. The classifier becomes the object of
 determination.
 
 The verse moves between forms of existence and places of existence.
-Hell-beings, pretas, animals, humans, and devas first articulate the Realm as
+Narakas, pretas, animals, humans, and devas first articulate the Realm as
 inhabited. The twenty locations then articulate it as a differentiated order
 of placement. Finally, the Bhāṣya's
 `saha bhājanalokena` prevents either side from standing alone: the desire-world
@@ -264,7 +265,7 @@ organon:KamaWorldAccount a organon:WorldSystem ;
     organon:hasCosmicFrame loka:Bhajanaloka .
 
 loka:TwentyLocations a organon:LocationSystem ;
-    organon:hasPartition loka:EightGreatHells,
+    organon:hasPartition loka:EightGreatNarakas,
         loka:FourContinents,
         loka:SixDesireDevaClasses,
         loka:AnimalLocation,

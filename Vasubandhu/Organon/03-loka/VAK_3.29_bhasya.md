@@ -5,28 +5,15 @@
 > saṃyojanādivacanāt kuprajñā cen na darśanāt /
 > dṛṣṭes tatsaṃprayuktatvāt prajñopakleśadeśanāt // 3.29 //
 
-> Because ignorance is called a fetter and so forth, it is an operative
-> factor. If it were faulty discriminative comprehension—no, because wrong
-> views are themselves faulty discriminative comprehension, are associated
-> with ignorance, and ignorance is taught as a defilement of discriminative
-> comprehension.
+> Since ignorance is spoken of as a fetter and the like, [is it] faulty
+> discriminative comprehension? No: views are associated with it, and
+> ignorance is taught to defile discriminative comprehension.
 
 The Bhāṣya tests a refinement of the rejected privative definition: perhaps
 ignorance is not absence of knowing but faulty discriminative comprehension.
 The reply distinguishes ignorance from wrong view and from the *prajñā* it
 defiles, then considers further definitions without settling ignorance's
 intrinsic nature.
-
-### Bhāṣya-informed study translation
-
-> The scriptural descriptions of ignorance as fetter, bondage, latent
-> tendency, flood, and yoke confirm that it is an operative factor rather than
-> a mere absence. Nor can ignorance be reduced to faulty discriminative
-> comprehension. Wrong views are themselves instances of faulty
-> discriminative comprehension, yet they are said to be associated with
-> ignorance; moreover, ignorance is taught as that which defiles
-> discriminative comprehension. These relations require ignorance, faulty
-> view, and discriminative comprehension to remain functionally distinct.
 
 The explicit identification of wrong views with `ku-prajñā` and the two
 non-identity arguments are Bhāṣya determinations.
@@ -106,8 +93,7 @@ gives a short passage labeled 143.19–143.24 that does not match this unit
 in the running source; its wording and labels require separate collation.
 The running source remains unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 An objection proposes an analogy: just as a bad wife is called “no wife” and
 a bad son “no son,” let ignorance likewise mean defective discriminative
 comprehension.

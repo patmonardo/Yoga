@@ -3,16 +3,18 @@
 ## 1. Sanskrit (Devanāgarī)
 
 
-> तुषितण्डुलवत् कर्म तथैवौषधिपुष्पवत् ।
->
-> सिद्धान्नपानवद्वस्तु तस्मिन् भवचतुष्टये ॥ ३.३७ ॥
+```sanskrit
+तुषितण्डुलवत् कर्म तथैवौषधिपुष्पवत् ।
+सिद्धान्नपानवद्वस्तु तस्मिन् भवचतुष्टये ॥ ३.३७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
 
-> tuṣitaṇḍulavat karma tathaivauṣadhipuṣpavat /
->
-> siddhānnapānavad vastu tasmin bhavacatuṣṭaye // 3.37 //
+```text
+tuṣitaṇḍulavat karma tathaivauṣadhipuṣpavat /
+siddhānnapānavad vastu tasmin bhavacatuṣṭaye // 3.37 //
+```
 
 ## 3. Lexical Analysis
 
@@ -70,27 +72,16 @@ Becoming, Life-course Becoming, and Death Becoming.
 ## 5. Translation
 
 
-### Close syntactic construe
-
+### Literal Translation
 > Karma is like a grain enclosed in its husk, and likewise like a plant and a
 > flower. Thing (Vastu) is like prepared food and drink, within that fourfold
 > Becoming.
 
 ### Bhāṣya-informed study translation
 
-> Karma joined with Affliction is like a grain enclosed in its husk, retaining
-> the capacity to germinate. It is like a plant whose process terminates in
-> the ripening of fruit; on the provisionally supplied negative, Karma does
-> not continue producing further maturation-results after ripening. Karma is
-> also like a flower, its cause proximate to fruit-arising. The Thing (Vastu)
-> called maturation-result is like prepared food and drink: available for
-> experience, but not itself capable of germinating into another
-> maturation-result. This causal process operates within four modes of
-> Becoming: Intermediate, Rebirth, Life-course, and Death.
-
-The distinct forces of the plant and flower comparisons, the determination of
-`vastu` as maturation-result, and the enumeration of the four modes of Becoming are
-Bhāṣya determinations.
+> Karma is like a rice grain in its husk, and likewise like a medicinal plant
+> and a flower. Vastu is like prepared food and drink, within those four modes
+> of becoming.
 
 ## 6. Philosophical Translation
 
@@ -219,6 +210,16 @@ Each factor remains distinct through its causal role in the whole.
 
 ## 9. Interpretive Note
 
+
+**Translation note.** Karma joined with Affliction is like grain in a husk,
+retaining the capacity to germinate; it is also like a plant whose process ends in
+ripened fruit, and like a flower near the arising of fruit. On the provisionally
+supplied negative, Karma does not continue producing maturation-results after
+ripening. Vastu is the maturation-result, available for experience but unable to
+germinate another result. The four modes of Becoming are Intermediate, Rebirth,
+Life-course, and Death. The distinct forces of the plant and flower comparisons, the
+determination of `vastu` as maturation-result, and the enumeration of the four modes
+of Becoming are Bhāṣya determinations.
 
 ## 10. OWL++ Seed
 

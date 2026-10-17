@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> पञ्चवर्षोपमो यावद्दशवर्षोपमः शिशुः ।
->
-> सम्भवत्येषु सम्पूर्णाः सवस्त्राश्चैव रूपिणः ॥ ३.७० ॥
+```sanskrit
+पञ्चवर्षोपमो यावद्दशवर्षोपमः शिशुः ।
+सम्भवत्येषु सम्पूर्णाः सवस्त्राश्चैव रूपिणः ॥ ३.७० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> pañcavarṣopamo yāvad daśavarṣopamaḥ śiśuḥ /
->
-> saṃbhavaty eṣu saṃpūrṇāḥ savastrāś caiva rūpiṇaḥ // 3.70 //
+```text
+pañcavarṣopamo yāvad daśavarṣopamaḥ śiśuḥ /
+saṃbhavaty eṣu saṃpūrṇāḥ savastrāś caiva rūpiṇaḥ // 3.70 //
+```
 
 ## 3. Lexical Analysis
 
@@ -67,24 +69,15 @@ embodiment.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Among these, a child arises resembling one of five years up through one
 > resembling one of ten years. The form-possessing ones are complete and
 > indeed clothed.
 
 ### Bhāṣya-informed study translation
 
-> In the six kāma-deva classes respectively, newborns appear like children of
-> five, six, seven, eight, nine, and ten years of age, and then mature very
-> quickly. When a divine boy or girl appears in the lap of a god or goddess,
-> the child is reckoned their son or daughter. Rūpāvacara devas, by contrast,
-> arise with bodies already complete and already clothed. All devas speak the
-> ārya language.
-
-The one-to-one age distribution, rapid maturation, parentage through the locus
-of appearance, shift to rūpāvacara devas, complete-body determination,
-clothing, and common language are Bhāṣya determinations.
+> Among these, children appear like those aged five to ten; Form-realm
+> beings are fully formed and clothed.
 
 ## 6. Philosophical Translation
 
@@ -193,6 +186,10 @@ This Bhāṣya addition introduces a shared communicative capacity across
 otherwise different embodiment modes.
 
 ## 9. Interpretive Note
+
+**Translation note.** The one-to-one age distribution, rapid maturation, parentage through the locus
+of appearance, shift to rūpāvacara devas, complete-body determination,
+clothing, and common language are Bhāṣya determinations.
 
 The central semantic discrimination in VAK 3.70 is between one grammatical
 continuation and two doctrinal scopes:

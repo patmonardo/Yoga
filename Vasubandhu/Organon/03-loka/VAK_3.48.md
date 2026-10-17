@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> समन्ततस्तु त्रिगुणं तत्र मेरुर्युगन्धरः ।
->
-> ईशाधारः खदिरकः सुदर्शनगिरिस्तथा ॥ ३.४८ ॥
+```sanskrit
+समन्ततस्तु त्रिगुणं तत्र मेरुर्युगन्धरः ।
+ईशाधारः खदिरकः सुदर्शनगिरिस्तथा ॥ ३.४८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> samantatas tu triguṇaṃ tatra merur yugandharaḥ /
->
-> īśādhāraḥ khadirakaḥ sudarśanagiris tathā // 3.48 //
+```text
+samantatas tu triguṇaṃ tatra merur yugandharaḥ /
+īśādhāraḥ khadirakaḥ sudarśanagiris tathā // 3.48 //
+```
 
 The local Sanskrit witnesses read `īśādhāraḥ`; that form is retained here.
 Its relation to the better-known mountain name `Īṣādhara` remains a
@@ -63,21 +65,14 @@ state all eight names.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > All around, however, it is threefold. There are Meru, Yugandhara, Īśādhāra,
 > Khadiraka, and likewise Mount Sudarśana.
 
 ### Bhāṣya-informed study translation
 
-> Reckoned by circumference, the water-and-gold maṇḍala measures three times
-> its transverse extent: 3,610,350 yojanas. Upon the golden earth above the
-> waters stand Meru and the surrounding mountains Yugandhara, Īśādhāra,
-> Khadiraka, and Sudarśana; the enumeration continues in the following verse.
-> Sumeru occupies the center, while the other mountains are arranged around it.
-
-The exact circumferential total, golden-earth location, eight-mountain scope,
-and center-surrounding relation are Bhāṣya determinations.
+> All around, however, the circumference is threefold [the transverse extent].
+> There are Meru, Yugandhara, Īśādhāra, Khadiraka, and likewise Sudarśana.
 
 ## 6. Philosophical Translation
 
@@ -164,6 +159,13 @@ The total of eight is supplied by the Bhāṣya and completed textually only wit
 prematurely absorbing the next Kārikā into this one.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya takes the threefold measure as circumference:
+3,610,350 yojanas. The mountains stand on the golden earth over the waters; Sumeru
+is central, with the others arranged around it. The local reading `īśādhāraḥ` is
+retained; its relation to the better-known `Īṣādhara` remains a textual question,
+not silently resolved. The exact circumferential total, golden-earth location,
+eight-mountain scope, and center-surrounding relation are Bhāṣya determinations.
 
 At the project level, the account proceeds from measured extension to circumference, center, and surrounding placement. This relational spatial order needs no symbolic identification of Sumeru with a yogic axis.
 

@@ -2,28 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-lakṣatrayaṃ sahasrāṇi viṃśatir dve ca tatra tu /
-jambūdvīpo dvisāhasras tripārśvaḥ śakaṭākṛtiḥ // 3.53 //
-```
+> lakṣatrayaṃ sahasrāṇi viṃśatir dve ca tatra tu /
+> jambūdvīpo dvisāhasras tripārśvaḥ śakaṭākṛtiḥ // 3.53 //
 
-> The outer ocean is three hundred-thousand plus twenty-two thousand yojanas
-> wide. In it, Jambūdvīpa has three sides of two thousand yojanas and is
-> shaped like a cart.
+> There, the outer ocean is 322,000 yojanas wide. Jambūdvīpa measures
+> 2,000 yojanas on three sides and is shaped like a cart.
 
 The Bhāṣya locates the four continents on the four sides of Sumeru and adds a
 decisive soteriological determination: at the center of Jambūdvīpa, upon the
 golden earth, the Vajra Seat uniquely supports the Bodhisattva's diamond-like
 samādhi.
-
-### Bhāṣya-informed study translation
-
-> The outer great ocean is 322,000 yojanas wide. Within it, the four continents
-> occupy the four sides of Sumeru. Jambūdvīpa lies to the south and is shaped
-> like a cart; three of its sides measure 2,000 yojanas each. At its center,
-> upon the golden earth, the diamond seat comes into formation. All
-> Bodhisattvas sit there when they generate diamond-like samādhi, because no
-> other support or locus is capable of bearing that event.
 
 The width-axis, fourfold directional placement, southern location, diamond
 seat, its unique support-capacity, and its relation to Bodhisattva samādhi are
@@ -53,8 +41,7 @@ reading rather than silently inserting a missing word; the conventional
 translation follows the clear metrical statement and marks the discrepancy
 for critical review.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 That outer great ocean measures three hundred-thousand plus twenty-two
 thousand yojanas in breadth. In it are four continents, situated on the four
 sides of Sumeru.

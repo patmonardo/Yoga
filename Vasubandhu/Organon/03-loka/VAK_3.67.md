@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सार्धद्विशतपार्श्वोऽत्र वैजयन्तः बहिः पुनः ।
->
-> तच्चैत्ररथपारुष्यामिश्रनन्दनभूषितम् ॥ ३.६७ ॥
+```sanskrit
+सार्धद्विशतपार्श्वोऽत्र वैजयन्तः बहिः पुनः ।
+तच्चैत्ररथपारुष्यामिश्रनन्दनभूषितम् ॥ ३.६७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sārdhadviśatapārśvo 'tra vaijayantaḥ bahiḥ punaḥ /
->
-> tac caitrarathapāruṣyamiśranandanabhūṣitam // 3.67 //
+```text
+sārdhadviśatapārśvo 'tra vaijayantaḥ bahiḥ punaḥ /
+tac caitrarathapāruṣyamiśranandanabhūṣitam // 3.67 //
+```
 
 ## 3. Lexical Analysis
 
@@ -64,24 +66,14 @@ sides rather than treating the names as an unordered decoration.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Here is Vaijayanta, having sides of 250 yojanas. Outside, in turn, that
 > [city] is adorned by Caitraratha, Pāruṣya, Miśra, and Nandana.
 
 ### Bhāṣya-informed study translation
 
-> At the center of Sudarśana stands Vaijayanta, the palace of Śakra, Indra of
-> the gods. Each of its sides measures 250 yojanas. Through the excellent
-> arrangement of many kinds of jewels, its magnificence surpasses all other
-> divine residences. Outside the city, on its four sides, lie four recreation-
-> grounds of the gods: the Caitraratha garden, Pāruṣyaka, the Miśraka grove,
-> and the Nandana grove. These adorn Sudarśana externally.
-
-The identification of Vaijayanta as Śakra's central palace, its comparative
-magnificence, the jewel arrangement, the one-per-side distribution, and the
-classification of the exterior places as divine recreation-grounds are
-Bhāṣya determinations.
+> There, Vaijayanta measures 250 yojanas on a side; outside, it is adorned
+> by Caitraratha, Pāruṣya, Miśra, and Nandana.
 
 ## 6. Philosophical Translation
 
@@ -187,6 +179,11 @@ four exterior grounds
 and uses while contributing to a determination of the city as a whole.
 
 ## 9. Interpretive Note
+
+**Translation note.** The identification of Vaijayanta as Śakra's central palace, its comparative
+magnificence, the jewel arrangement, the one-per-side distribution, and the
+classification of the exterior places as divine recreation-grounds are
+Bhāṣya determinations.
 
 VAK 3.67 advances from responsive habitation to functional organization:
 

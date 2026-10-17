@@ -2,27 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-sārdhadviśatapārśvo 'tra vaijayantaḥ bahiḥ punaḥ /
-tac caitrarathapāruṣyamiśranandanabhūṣitam // 3.67 //
-```
+> sārdhadviśatapārśvo 'tra vaijayantaḥ bahiḥ punaḥ /
+> tac caitrarathapāruṣyamiśranandanabhūṣitam // 3.67 //
 
-> Here Vaijayanta has sides of 250 yojanas. Outside, the city is adorned by
-> Caitraratha, Pāruṣya, Miśra, and Nandana.
+> There, Vaijayanta measures 250 yojanas on a side; outside, it is adorned
+> by Caitraratha, Pāruṣya, Miśra, and Nandana.
 
 The Bhāṣya identifies Vaijayanta as Śakra's palace at the center of Sudarśana,
 explains its jeweled arrangement and comparative splendor, then turns to four
 divine recreation grounds outside the city. The gardens adorn Sudarśana; the
 next verse gives additional spatial and functional details.
-
-### Bhāṣya-informed study translation
-
-> At the center of Sudarśana stands Vaijayanta, the palace of Śakra, Indra of
-> the gods. Each of its sides measures 250 yojanas. Through the excellent
-> arrangement of many kinds of jewels, its magnificence surpasses all other
-> divine residences. Outside the city, on its four sides, lie four recreation-
-> grounds of the gods: the Caitraratha garden, Pāruṣyaka, the Miśraka grove,
-> and the Nandana grove. These adorn Sudarśana externally.
 
 The identification of Vaijayanta as Śakra's central palace, its comparative
 magnificence, the jewel arrangement, the one-per-side distribution, and the
@@ -58,8 +47,7 @@ measure of 250 yojanas on each side, in agreement with the kārikā's clear
 splendor is syntactically compressed; the translation preserves its sense
 without supplying a more elaborate construction.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Here Vaijayanta has sides of 250 yojanas.
 
 Vaijayanta is the palace of Śakra, Indra of the gods, in the middle of the

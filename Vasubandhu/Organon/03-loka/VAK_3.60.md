@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अर्धेन मेरोश्चन्द्रार्कौ पञ्चाशत्सैकयोजनौ ।
->
-> अर्धरात्रोऽस्तंगमनं मध्याह्न उदयः सकृत् ॥ ३.६० ॥
+```sanskrit
+अर्धेन मेरोश्चन्द्रार्कौ पञ्चाशत्सैकयोजनौ ।
+अर्धरात्रोऽस्तंगमनं मध्याह्न उदयः सकृत् ॥ ३.६० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ardhena meroś candrārkau pañcāśat-saika-yojanau /
->
-> ardharātro 'staṃgamanaṃ madhyāhna udayaḥ sakṛt // 3.60 //
+```text
+ardhena meroś candrārkau pañcāśat-saika-yojanau /
+ardharātro 'staṃgamanaṃ madhyāhna udayaḥ sakṛt // 3.60 //
+```
 
 The Kārikā boundary is confirmed by both local primary Sanskrit and the
 Bhāṣya. The primary e-text prints `madhyānha` and `sakṛta`; the grammatically
@@ -62,26 +64,16 @@ states respectively across Uttarakuru, Pūrvavideha, Jambūdvīpa, and Godānīy
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > At half the height of Meru move the moon and sun, measuring fifty and
 > fifty-one yojanas [respectively]. Midnight, sunset, midday, and sunrise occur
 > simultaneously.
 
 ### Bhāṣya-informed study translation
 
-> The moon and sun move at the level of Yugandhara's summit, halfway up Meru.
-> The lunar disk measures fifty yojanas and the solar disk fifty-one. At one
-> moment it is midnight in Uttarakuru, sunset in Pūrvavideha, midday in
-> Jambūdvīpa, and sunrise in Godānīya; the assignment rotates cyclically with
-> the celestial course. Beneath the solar vehicle is a fiery crystalline disk
-> that heats and illuminates, while beneath the lunar vehicle is a watery disk
-> that cools and illuminates. Their beneficial and harmful effects upon beings
-> and organic life occur within the karmically conditioned common world.
-
-The Yugandhara level, ordered disk sizes, continent-state mapping, cyclic
-application, material disks, functions, and karmic qualification are Bhāṣya
-determinations.
+> At half the height of Meru move the moon and sun, measuring fifty and
+> fifty-one yojanas respectively. Midnight, sunset, midday, and sunrise
+> occur simultaneously.
 
 ## 6. Philosophical Translation
 
@@ -181,6 +173,10 @@ The physical process has stable functions, yet their concrete beneficial or
 harmful effects belong to the karmically constituted Agent–environment field.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Yugandhara level, ordered disk sizes, continent-state mapping, cyclic
+application, material disks, functions, and karmic qualification are Bhāṣya
+determinations.
 
 VAK 3.60 supplies a rigorous method for reconciling global unity with local
 plurality:

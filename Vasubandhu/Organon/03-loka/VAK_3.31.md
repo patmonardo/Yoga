@@ -3,16 +3,18 @@
 ## 1. Sanskrit (Devanāgarī)
 
 
-> विद्याविद्येतरस्पर्शाः अमलक्लिष्टशेषिताः ।
->
-> व्यापादानुनयस्पर्शौ सुखवेद्यादयस्त्रयः ॥ ३.३१ ॥
+```sanskrit
+विद्याविद्येतरस्पर्शाः अमलक्लिष्टशेषिताः ।
+व्यापादानुनयस्पर्शौ सुखवेद्यादयस्त्रयः ॥ ३.३१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
 
-> vidyāvidyetarasparśāḥ amalakliṣṭaśeṣitāḥ /
->
-> vyāpādānunayasparśau sukhavedyādayas trayaḥ // 3.31 //
+```text
+vidyāvidyetarasparśāḥ amalakliṣṭaśeṣitāḥ /
+vyāpādānunayasparśau sukhavedyādayas trayaḥ // 3.31 //
+```
 
 ## 3. Lexical Analysis
 
@@ -72,25 +74,16 @@ neither-painful-nor-pleasant feeling-bearing contact.
 ## 5. Translation
 
 
-### Close syntactic construe
-
+### Literal Translation
 > Contacts associated with knowledge, ignorance, and neither are respectively
 > stainless, afflicted, and remaining. There are also Contacts of ill-will
 > and attachment, and three beginning with pleasant-feeling-bearing Contact.
 
 ### Bhāṣya-informed study translation
 
-> The same six Contacts are classified by association: Contact with knowledge
-> is **without Influx**; Contact with ignorance is **afflicted**; and Contact
-> with neither is the **remainder**, comprising wholesome-with-Influx and
-> non-obstructive-indeterminate Contact. A frequently occurring portion of
-> ignorance-Contact is further differentiated into ill-will and attachment
-> Contacts. All Contacts may also be gathered by the feeling they bear or
-> occasion: pleasant, painful, or neither-painful-nor-pleasant.
-
-The exact determination of the remainder, the restricted source of the
-ill-will/attachment pair, and the derivation of `vedanīya` are Bhāṣya
-determinations.
+> Contacts with knowledge, with ignorance, and with neither are, respectively,
+> without Influx, afflicted, and remaining. There are Contacts of ill-will and
+> attachment, and three beginning with pleasant-feeling-bearing Contact.
 
 ## 6. Philosophical Translation
 
@@ -190,6 +183,14 @@ through the kind of feeling it bears or makes possible.
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The Bhāṣya identifies the remainder as wholesome-with-Influx
+and non-obstructive-indeterminate Contact. Ill-will and attachment Contacts are
+differentiated within a frequently occurring portion of Ignorance-Contact. The three
+final classes are grouped by the feeling borne or occasioned: pleasant, painful, and
+neither-painful-nor-pleasant. The exact determination of the remainder, the
+restricted source of the ill-will/attachment pair, and the derivation of `vedanīya`
+are Bhāṣya determinations.
 
 ## 10. OWL++ Seed
 

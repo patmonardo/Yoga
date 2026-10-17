@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कल्पस्य शस्त्ररोगाभ्यां दुर्भिक्षेण च निर्गमः ।
->
-> दिवसान् सप्त मासांश्च वर्षाणि च यथाक्रमम् ॥ ३.९९ ॥
+```sanskrit
+कल्पस्य शस्त्ररोगाभ्यां दुर्भिक्षेण च निर्गमः ।
+दिवसान् सप्त मासांश्च वर्षाणि च यथाक्रमम् ॥ ३.९९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kalpasya śastrarogābhyāṃ durbhikṣeṇa ca nirgamaḥ /
->
-> divasān sapta māsāṃś ca varṣāṇi ca yathākramam // 3.99 //
+```text
+kalpasya śastrarogābhyāṃ durbhikṣeṇa ca nirgamaḥ /
+divasān sapta māsāṃś ca varṣāṇi ca yathākramam // 3.99 //
+```
 
 The Bhāṣya makes two indispensable determinations. `Kalpasya` here refers to
 the terminal passage of an **intermediate kalpa**, not the destruction of a
@@ -77,8 +79,7 @@ it across days, months, and years and explicitly identifies each `ca` as
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The kalpa's exit occurs through weapons and disease, and through famine:
 > seven days, months, and years, respectively and cumulatively.
 
@@ -87,15 +88,9 @@ commentary because the verse is radically compressed.
 
 ### Bhāṣya-informed study translation
 
-> At the ten-year human lifespan, an intermediate kalpa reaches its terminal
-> passage through one of three calamities: weapon-killing, incurable disease,
-> or famine. The weapon calamity lasts seven days; the disease calamity lasts
-> seven months and seven days; and the famine calamity lasts seven years,
-> seven months, and seven days.
-
-The ten-year lifespan condition, alternative character of the crises,
-cumulative durations, their ethical causes, and the detailed famine forms are
-all Bhāṣya determinations.
+> The kalpa ends through weapons, disease, or famine, lasting seven days,
+> seven months and seven days, or seven years, seven months and seven days,
+> respectively.
 
 ## 6. Philosophical Translation
 
@@ -208,6 +203,10 @@ AgentKarma
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The ten-year lifespan condition, alternative character of the crises,
+cumulative durations, their ethical causes, and the detailed famine forms are
+all Bhāṣya determinations. The Bhāṣya locates the exit at a ten-year lifespan and explains the cumulative durations: seven days; seven months plus seven days; and seven years plus seven months plus seven days. The calamities are alternatives, linked to ethical causes and further famine forms in the commentary.
 
 VAK 3.99 completes the conversion of the “Physical World” into Practical
 Reason. The catastrophe is physical—weapon, disease, famine—but its genesis

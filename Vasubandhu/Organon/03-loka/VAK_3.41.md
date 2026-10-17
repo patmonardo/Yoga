@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> इह पुष्ट्यर्थमाश्रयाश्रितयोर्द्वयम् ।
->
-> द्वयमन्यभवाक्षेपनिर्वृत्त्यर्थं यथाक्रमम् ॥ ३.४१ ॥
+```sanskrit
+इह पुष्ट्यर्थमाश्रयाश्रितयोर्द्वयम् ।
+द्वयमन्यभवाक्षेपनिर्वृत्त्यर्थं यथाक्रमम् ॥ ३.४१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> iha puṣṭyartham āśrayāśritayor dvayam /
->
-> dvayam anyabhavākṣepanirvṛttyarthaṃ yathākramam // 3.41 //
+```text
+iha puṣṭyartham āśrayāśritayor dvayam /
+dvayam anyabhavākṣepanirvṛttyarthaṃ yathākramam // 3.41 //
+```
 
 ## 3. Lexical Analysis
 
@@ -64,34 +66,24 @@ are supplied by the Bhāṣya.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Here, a pair [serves] to nourish the support and what is supported. The
 > [other] pair [serves] respectively to project and produce another becoming.
 
 ### Bhāṣya-informed study translation
 
-> Two nutriments principally maintain existence already arisen: morsel
-> nutriment nourishes the support, the body endowed with faculties, while
-> contact nourishes what depends upon that support, consciousness and its
-> associated mental operations. The other two principally bring about
-> existence not yet arisen: mental volition projects renewed becoming, and
-> from the seed of differentiated cognition conditioned by karma the projected
-> becoming emerges. Thus the four are ordered respectively as bodily
-> maintenance, citta-caitta maintenance, projection of another becoming, and
-> production of that projected becoming.
-
-The identifications of support and supported, the four exact assignments, and
-the karma-conditioned `vijñāna`-seed are Bhāṣya determinations.
+> Here, a pair [of nutriments serves] to nourish the support and what depends
+> on it; the other pair serves, respectively, to project and bring about
+> another becoming.
 
 ## 6. Philosophical Translation
 
 > The World System must both maintain what is actual and generate what is not
-> yet actual. Its present embodiment has a support—the body with faculties—and
+> yet actual. Its present embodiment has a support—the body with Faculties—and
 > a supported conscious life—the citta-caitta complex. Material nutriment
 > sustains the former; contact sustains the latter. Its future embodiment is
 > likewise divided between direction and realization: volition throws another
-> becoming forward, while karma-conditioned differentiated cognition brings
+> becoming forward, while karma-conditioned Cognition brings
 > the projected station into emergence. Maintenance and generation are thus
 > reciprocally ordered without being confused.
 
@@ -102,8 +94,8 @@ the karma-conditioned `vijñāna`-seed are Bhāṣya determinations.
 | prādhānya | predominance / principal efficacy | explains why these four are singled out among conditioned nourishers |
 | puṣṭi | nourishment / strengthening | maintenance of already-arisen existence |
 | poṣaṇa | fostering / nourishment | Bhāṣya term for the same present-maintenance function |
-| āśraya | support | body endowed with faculties |
-| sendriyakāya | body endowed with faculties | Bhāṣya's exact determination of bodily support |
+| āśraya | support | body endowed with Faculties |
+| sendriyakāya | body endowed with Faculties | Bhāṣya's exact determination of bodily support |
 | āśrita | supported / support-dependent | consciousness and associated mental factors |
 | citta-caitta | consciousness and associated mental operations | supported conscious complex nourished by contact |
 | kavaḍīkārāhāra | morsel nutriment | nourishes the bodily support |
@@ -152,7 +144,7 @@ primary support operations.
 ```text
 already-arisen bhava
     ├── āśraya
-    │     = body with faculties
+    │     = body with Faculties
     │     ← nourished by morsel nutriment
     │
     └── āśrita
@@ -233,7 +225,16 @@ functional determination rather than reducing nutriment to ordinary naming.
 
 ## 9. Interpretive Note
 
-At the project level, the four nutriments distinguish support for present embodied and mental operations from conditions that project future Becoming. Human Dharma and the Citta–Caitta economy are project formulations; the Bhāṣya's categories remain morsel nutriment, Contact, mental volition, and Discriminative Cognition.
+**Translation note.** The first pair maintains existence already arisen: morsel
+nutriment nourishes the body endowed with Faculties, and Contact nourishes
+consciousness and associated mental operations. The other pair brings about
+existence not yet arisen: mental volition projects renewed becoming, and the seed of
+Cognition conditioned by action produces that projected becoming. The order is
+bodily maintenance, mental maintenance, projection, then production. The
+identifications of support and supported, the four exact assignments, and the
+karma-conditioned `vijñāna`-seed are Bhāṣya determinations.
+
+At the project level, the four nutriments distinguish support for present embodied and mental operations from conditions that project future Becoming. Human Dharma and the Citta–Caitta economy are project formulations; the Bhāṣya's categories remain morsel nutriment, Contact, mental volition, and Cognition.
 
 ## 10. OWL++ Seed
 ```ttl

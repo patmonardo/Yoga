@@ -5,12 +5,9 @@
 > yathākṣepaṃ kramād vṛddhaḥ santānaḥ kleśakarmabhiḥ /
 > paralokaṃ punar yāti ity anādibhavacakrakam // 3.19 //
 
-> The projected continuum develops through ordered embryonic and embodied
-> stages. As its faculties mature, afflictions become active again and further
-> karma accumulates; after death it passes, as before, through intermediate
-> continuity to another world. Birth produces conditions for renewed
-> affliction and action, and these produce birth again: this is the
-> beginningless—but causally terminable—wheel of becoming.
+> The continuum, developed in sequence according to its projection, again
+> goes to another world through afflictions and karma; this is the
+> beginningless wheel of becoming.
 
 The Bhāṣya follows the Base-continuum from karmically delimited growth
 through embryonic development, birth, maturation, renewed affliction and
@@ -100,7 +97,7 @@ By what sequence? The noble ones say:
 “First there is the *kalala*; from the *kalala* the *arbuda* arises. From the
 *arbuda* the *peśī* arises; from the *peśī* the *ghana* arises. From the
 *ghana* the branching members arise, then hair, body-hair, nails, and the
-material faculties and sexual characteristics, each in succession.”
+Form faculties and sexual characteristics, each in succession.”
 
 These are the five embryonic stages: *kalala*, *arbuda*, *peśī*, *ghana*, and
 *praśākhā*.

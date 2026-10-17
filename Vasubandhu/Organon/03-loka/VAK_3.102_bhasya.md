@@ -2,31 +2,20 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-saptāgninā adbhir ekā evaṃ gate 'dbhiḥ saptake punaḥ /
-tejasā saptakaḥ paścād vāyusaṃvartanī tataḥ // 3.102 //
-```
+> saptāgninā adbhir ekā evaṃ gate 'dbhiḥ saptake punaḥ /
+> tejasā saptakaḥ paścād vāyusaṃvartanī tataḥ // 3.102 //
 
-> Seven [contractions] by fire, one by water; when the sevenfold series by
-> water has thus been completed, another sevenfold series by fire, and then
-> a contraction by wind.
+> Seven contractions occur by fire, then one by water. When the sequence has
+> reached seven by water, seven by fire occur again, followed by a contraction
+> by wind.
 
 The Bhāṣya resolves the compressed sequence into its full count and closes
 the Lokanirdeśa, the third Kośasthāna.
 
-### Bhāṣya-informed study translation
-
-> Seven successive fire-contractions are followed by one water-contraction.
-> This sequence repeats until seven water-contractions have occurred, yielding
-> forty-nine contractions by fire and seven by water. Seven more fire-
-> contractions then occur, followed by one contraction by wind. The complete
-> cycle therefore comprises fifty-six fire-contractions, seven water-
-> contractions, and one wind-contraction: sixty-four in all.
-
 The totals, their correspondence with the lifespan of the Śubhakṛtsna gods,
 and the closing causal stanza are Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 The natural unit runs from the question about the order of contractions
 through the explanatory count, its correlation with the Śubhakṛtsna lifespan,
@@ -69,7 +58,7 @@ teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇa” iti.
 Abhidharmakośabhāṣye Lokanirdeśo nāma tṛtīyaṃ kośasthānaṃ samāptam iti.
 ```
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 In what sequence, then, do these contractions occur? First, without
 interruption, seven occur by fire. Then one occurs by water, after the seven
 fire-contractions. When seven water-contractions have occurred in this way,
@@ -90,7 +79,7 @@ cause; and their cessation too: thus teaches the Great Ascetic.”
 Thus in the *Abhidharmakośabhāṣya*, the section called the Lokanirdeśa, the
 third Kośasthāna, is complete.
 
-## Natural Movement
+## 4. Natural Movement
 
 Seven fire-contractions precede each water-contraction. Seven such groups
 yield forty-nine fire-contractions and seven water-contractions; these are
@@ -104,7 +93,7 @@ the stability of beings' modes of existence, which in turn differs according
 to their meditative attainment. This is the Bhāṣya's local explanation for
 the differing durations, not an independent Organon reconstruction.
 
-## Textual Note
+## 5. Textual Note
 
 The witness reads `yathiva`; it may reflect a corruption of `yathaiva`, but
 that correction is not silently made. The closing stanza is also retained
@@ -112,7 +101,7 @@ close to the witness (`hetum teṣāṃ tathāgato hy avadat`) rather than
 normalized to a familiar parallel reading. The stanza is translated
 conventionally; its exact textual form remains for review.
 
-## Review Status
+## 6. Review Status
 
 - Includes the complete 3.102 commentary through the Lokanirdeśa colophon;
   no material from the fourth Kośasthāna is included.

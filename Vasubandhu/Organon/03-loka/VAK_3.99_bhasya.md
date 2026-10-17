@@ -2,31 +2,22 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kalpasya śastrarogābhyāṃ durbhikṣeṇa ca nirgamaḥ /
-divasān sapta māsāṃś ca varṣāṇi ca yathākramam // 3.99 //
-```
+> kalpasya śastrarogābhyāṃ durbhikṣeṇa ca nirgamaḥ /
+> divasān sapta māsāṃś ca varṣāṇi ca yathākramam // 3.99 //
 
-> The intermediate age ends through weapons, disease, and famine; their
-> durations, respectively, are seven days, months, and years.
+> The kalpa ends through weapons, disease, or famine, lasting seven days,
+> seven months and seven days, or seven years, seven months and seven days,
+> respectively.
 
 The Bhāṣya specifies that the durations accumulate: seven days; seven months
 and seven days; seven years, seven months, and seven days. Here `kalpa` is
 explicitly an intermediate kalpa.
 
-### Bhāṣya-informed study translation
-
-> At the ten-year human lifespan, an intermediate kalpa reaches its terminal
-> passage through one of three calamities: weapon-killing, incurable disease,
-> or famine. The weapon calamity lasts seven days; the disease calamity lasts
-> seven months and seven days; and the famine calamity lasts seven years,
-> seven months, and seven days.
-
 The ten-year lifespan condition, alternative character of the crises,
 cumulative durations, their ethical causes, and the detailed famine forms are
 all Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 The source splits this verse around its extended exposition: the first line
 is cited before the account of the calamities; the second line follows the
@@ -88,7 +79,7 @@ Punctuation and sandhi are lightly regularized. The source's famine names and
 the expression `vaivastryadaurbalye` are obscure; they are retained rather
 than given a falsely certain technical interpretation.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 For people whose lifespans are ten years, the intermediate age reaches its
 conclusion. How does it end? Through three calamities: weapons, disease, and
 famine. At that time people are attached to unrighteous desire, overwhelmed
@@ -134,7 +125,7 @@ continents. Hostility becomes excessive, together with `vaivastrya`,
 weakness, hunger, and thirst. As stated, this is to be understood
 appropriately in other contractions as well.
 
-## Natural Movement
+## 4. Natural Movement
 
 The unit connects the ten-year lifespan with the end of an intermediate
 kalpa. It describes three alternative calamity forms and their durations,
@@ -143,14 +134,14 @@ and the pattern applies, as appropriate, to other contractions. `Ca` is
 cumulative in the duration clause: 7 days; 7 months plus 7 days; 7 years
 plus 7 months plus 7 days.
 
-## Organon Contact Point
+## 5. Organon Contact Point
 
 Light contact: the passage relates ethical deterioration to distinct
 world-crises and gives those crises determinate durations. This is a
 comparison prompted by the Bhāṣya, not an additional system asserted by
 Vasubandhu.
 
-## Review Status
+## 6. Review Status
 
 - Restores the full split unit from `[187|24]` through `[188|25]`, including
   both halves of 3.99 and the Bhāṣya after the verse.

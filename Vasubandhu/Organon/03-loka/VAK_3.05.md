@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> नानात्वकायसंज्ञाश्च नानाकायैकसंज्ञिनः ।
->
-> विपर्ययाच्चैककायसंज्ञाश्चारूपिणस्त्रयः ॥ ३.५ ॥
+```sanskrit
+नानात्वकायसंज्ञाश्च नानाकायैकसंज्ञिनः ।
+विपर्ययाच्चैककायसंज्ञाश्चारूपिणस्त्रयः ॥ ३.५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> nānātvakāyasaṃjñāś ca nānākāyaikasaṃjñinaḥ /
->
-> viparyayāc caikakāyasaṃjñāś cārūpiṇas trayaḥ // 3.5 //
+```text
+nānātvakāyasaṃjñāś ca nānākāyaikasaṃjñinaḥ /
+viparyayāc caikakāyasaṃjñāś cārūpiṇas trayaḥ // 3.5 //
+```
 
 ### Textual note
 
@@ -76,28 +78,21 @@ The three formless classes are then added:
 | formless | third included mode | 7 |
 
 VAK 3.05 constructs the seven-member list. The name `vijñānasthiti`, station
-or establishment of differentiated cognition, occurs in VAK 3.06 and the
+or establishment of Cognition, occurs in VAK 3.06 and the
 Bhāṣya's continuous exposition, not in the wording of this verse.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Those with diverse bodies and diverse perceptions; those with diverse
 > bodies and one perception; by reversal, those with one body and [diverse or
 > one] perception; and the three formless [classes].
 
 ### Bhāṣya-informed study translation
 
-> Four embodied configurations are distinguished: diverse bodies with diverse
-> perceptions, diverse bodies with one perception, one body with diverse
-> perceptions, and one body with one perception. Together with three formless
-> classes, these form the seven stations of differentiated cognition named in
-> the following verse.
-
-The matrix completion and identification with seven `vijñānasthiti` are
-Bhāṣya-informed. They clarify the elliptical Kārikā rather than adding a new
-primary claim to it.
+> There are those with diverse bodies and diverse perceptions, those with
+> diverse bodies and one perception, and, by reversal, those with one body
+> and diverse or one perception, together with the three formless [classes].
 
 ## 6. Philosophical Translation
 
@@ -105,7 +100,7 @@ primary claim to it.
 > embodiment and perception. Bodily unity does not guarantee perceptual unity,
 > nor bodily diversity perceptual diversity. Their independent variation
 > generates four embodied modes, to which three formless modes are added as
-> distinct establishments of differentiated cognition.
+> distinct establishments of Cognition.
 
 The verse thus moves beyond the destination occupied by a being to the formal
 configuration through which a world is embodied and recognized.
@@ -121,7 +116,7 @@ configuration through which a world is embodied and recognized.
 | viparyaya | reversal | instruction to invert the preceding feature combinations; no developed doctrine of epistemic error is asserted here |
 | dhātu | Principle generally; Domain in generic classification; Realm in the named Realm compounds | *ārūpyadhātu* is the Formless Realm |
 | ārūpin | formless one | a class belonging to the Formless Realm |
-| vijñānasthiti | station of differentiated cognition | Bhāṣya and VAK 3.06 name for the completed sevenfold classification |
+| vijñānasthiti | station of Cognition | Bhāṣya and VAK 3.06 name for the completed sevenfold classification |
 | abhinirvṛtta | newly arisen / produced | Bhāṣya term distinguishing newly arisen from long-established members of a class |
 | saṃvartanīkuśala | knowledgeable about contraction | Bhāṣya term explaining one perceptual response to a cosmic event |
 | vivartanīkuśala | knowledgeable about expansion | corresponding knowledge of the cosmic cycle |
@@ -153,7 +148,7 @@ kāya-saṃjñā configuration
     embodiment and perceptual determination within a destiny
 
 vijñānasthiti
-    station in which differentiated cognition is established
+    station in which Cognition is established
 ```
 
 The verse performs a genuine feature construction:
@@ -191,6 +186,10 @@ with contraction and expansion recognize the same event without fear. The
 event is common, but the recognitional relation differs.
 
 ## 9. Interpretive Note
+
+**Translation note.** The matrix completion and identification with seven `vijñānasthiti` are
+Bhāṣya-informed. They clarify the elliptical Kārikā rather than adding a new
+primary claim to it.
 
 VAK 3.05 supplies an interface schema for the World System. A sentient
 continuity is not adequately determined merely by saying where it has arrived.

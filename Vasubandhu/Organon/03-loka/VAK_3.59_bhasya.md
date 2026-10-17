@@ -2,29 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kukūlaṃ kuṇapaṃ cātha kṣuramārgādikaṃ nadī /
-teṣāṃ caturdiśaṃ śītā anye 'ṣṭāvarvudādayaḥ // 3.59 //
-```
+> kukūlaṃ kuṇapaṃ cātha kṣuramārgādikaṃ nadī /
+> teṣāṃ caturdiśaṃ śītā anye 'ṣṭāvarvudādayaḥ // 3.59 //
 
-> Embers, putrid mire, then the razor-road group, and a river lie in their four
-> directions. There are eight other cold hells, beginning with Arvuda.
+> Kukūla, Kuṇapa, the razor road and the like, and a river lie at their
+> four quarters; the other eight cold hells begin with Arvuda.
 
 The first half of the verse completes the account of the sixteen subsidiary
 regions belonging to each of the eight great hot hells. The second half adds
 the eight cold hells. The Bhāṣya then closes its account of the hell-containers
 and briefly identifies the primary locations of animals and pretas before the
 next kārikā turns to the sun and moon.
-
-### Bhāṣya-informed study translation
-
-> At each of the four gates of every great hot hell lie four subsidiary painful
-> regions: knee-deep burning embers; putrid excrement-mire inhabited by
-> piercing creatures; a weapon-assault group comprising the razor road,
-> sword-leaf forest, and iron śālmalī forest; and the Vaitaraṇī river of boiling
-> caustic water. Four gates multiplied by four types produce sixteen
-> subsidiary regions for each great hell. There are also eight cold hells:
-> Arvuda, Nirarvuda, Aṭata, Hahava, Huhuva, Utpala, Padma, and Mahāpadma.
 
 The gate distribution, experiential descriptions, three-member weapon group,
 name Vaitaraṇī, complete cold-hell list, and causal explanation of these
@@ -126,8 +114,7 @@ by the local source. The readings `anukrāmatām`, `vivartanīvāyubījavat`, an
 the second derivation of `utsada` remain provisional; no critical Sanskrit
 text has been silently substituted for the witness.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 What are the sixteen subsidiary regions?
 
 Embers, putrid mire, then the razor-road group, and a river lie in the four

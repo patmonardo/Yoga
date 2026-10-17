@@ -2,21 +2,23 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> तत्सहस्रं द्विसाहस्रो लोकधातुस्तु मध्यमः ।
->
-> तत्सहस्रं त्रिसाहस्रः समसंवर्तसम्भवः ॥ ३.७४ ॥
+```sanskrit
+तत्सहस्रं द्विसाहस्रो लोकधातुस्तु मध्यमः ।
+तत्सहस्रं त्रिसाहस्रः समसंवर्तसम्भवः ॥ ३.७४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> tatsahasraṃ dvisāhasro lokadhātus tu madhyamaḥ /
->
-> tatsahasraṃ trisāhasraḥ samasaṃvartasaṃbhavaḥ // 3.74 //
+```text
+tatsahasraṃ dvisāhasro lokadhātus tu madhyamaḥ /
+tatsahasraṃ trisāhasraḥ samasaṃvartasaṃbhavaḥ // 3.74 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| tatsahasram | nominative neuter singular compound | one thousand of that immediately preceding aggregate |
+| tatsahasram | nominative neuter singular compound | one thousand of that immediately preceding cluster |
 | dvisāhasraḥ | nominative masculine singular | second-order thousandfold |
 | lokadhātuḥ | nominative masculine singular | world-system / world-domain |
 | tu | particle | but / now; marks the next determination |
@@ -28,7 +30,7 @@
 
 The ordinal force of `dvi-` and `tri-` belongs to recursive thousandfold scale,
 not to a flat count of two thousand and three thousand local worlds. The
-Bhāṣya makes each `tat` refer to the immediately preceding aggregate.
+Bhāṣya makes each `tat` refer to the immediately preceding cluster.
 
 ## 4. Grammar
 
@@ -42,7 +44,7 @@ tat-sahasram
 
 > One thousand of those is the middle, second-order thousandfold world-system.
 
-The second half repeats the same operation on that middle aggregate:
+The second half repeats the same operation on that middle cluster:
 
 ```text
 tat-sahasram
@@ -58,29 +60,21 @@ as `vivarta` are supplied by the Bhāṣya.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > One thousand of that is the middle, second-order thousandfold world-system.
 > One thousand of that is the third-order thousandfold system, contracting and
 > arising together.
 
 ### Bhāṣya-informed study translation
 
-> One thousand small thousandfold world-systems form the middle, second-order
-> thousandfold world-system. One thousand of those middle systems form the
-> third-order great thousandfold world-system. This complete aggregate
-> contracts together and evolves together; in this verse, `saṃbhava`, arising,
-> is explained as `vivarta`, cosmological evolution or expansion.
-
-The immediately preceding aggregate as unit, the full name of the greatest
-aggregate, its completeness, synchronized contraction and evolution, and the
-`saṃbhava`–`vivarta` equivalence are Bhāṣya determinations.
+> A thousand of these form a middle cluster; a thousand middle clusters
+> form the great cluster, whose contraction and arising are simultaneous.
 
 ## 6. Philosophical Translation
 
 > The recursion of wholes continues through three thousandfold powers. At each
 > scale, the result of the preceding aggregation changes role and becomes the
-> unit of the next. The final aggregate is not unified merely by containment
+> unit of the next. The final cluster is not unified merely by containment
 > or number: all its constituent world-systems undergo the same global
 > transitions of contraction and evolution. System identity therefore joins
 > invariant nested structure with a common temporal process.
@@ -90,12 +84,12 @@ aggregate, its completeness, synchronized contraction and evolution, and the
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | tat-sahasra | one thousand of that | recursive operator applied to the immediately preceding scale |
-| sāhasra-cūḍika | small thousandfold | first-order aggregate containing `10³` local world-units |
-| dvisāhasra | second-order thousandfold | middle aggregate containing `10⁶` local world-units |
+| sāhasra-cūḍika | small thousandfold | first-order cluster containing `10³` local world-units |
+| dvisāhasra | second-order thousandfold | middle cluster containing `10⁶` local world-units |
 | madhyama lokadhātu | middle world-system | name of the second recursive scale |
 | trisāhasra | third-order thousandfold | third recursive scale containing `10⁹` local units |
-| trisāhasra-mahāsāhasra lokadhātu | third-order great thousandfold world-system | full Bhāṣya title of the final aggregate |
-| kṛtsna | whole / complete | Bhāṣya qualification of the final aggregate |
+| trisāhasra-mahāsāhasra lokadhātu | third-order great thousandfold world-system | full Bhāṣya title of the final cluster |
+| kṛtsna | whole / complete | Bhāṣya qualification of the final cluster |
 | sama | together / in common | synchronization across the complete system |
 | saṃvarta | contraction / dissolution | common descending world-process |
 | saṃbhava | arising | Kārikā term glossed here through `vivarta` |
@@ -138,7 +132,7 @@ The terms count recursive thousandfold levels.
 W  is whole at local scale
 W  is unit within S₁
 
-S₁ is whole at first aggregate scale
+S₁ is whole at first cluster scale
 S₁ is unit within S₂
 
 S₂ is whole at middle scale
@@ -171,7 +165,7 @@ global evolution event:
 
 The text states common process, not merely similarity of independent cycles.
 
-### Aggregate unity
+### Cluster unity
 
 ```text
 numerical membership
@@ -180,7 +174,7 @@ numerical membership
         → one great world-system
 ```
 
-The dynamic invariant completes the structural aggregate. A billion unrelated
+The dynamic invariant completes the structural cluster. A billion unrelated
 worlds would satisfy the count but not the `sama-saṃvarta-saṃbhava`
 determination.
 
@@ -200,12 +194,16 @@ preserve the interface without prematurely importing the later explanation.
 
 ## 9. Interpretive Note
 
+**Translation note.** The immediately preceding cluster as unit, the full name of the greatest
+cluster, its completeness, synchronized contraction and evolution, and the
+`saṃbhava`–`vivarta` equivalence are Bhāṣya determinations.
+
 VAK 3.73 supplied replication of a complete World schema. VAK 3.74 adds two
 operations:
 
 ```text
 recursive abstraction:
-    completed aggregate → unit for next scale
+    completed cluster → unit for next scale
 
 global coordination:
     all contained instances → shared lifecycle transition
@@ -214,7 +212,7 @@ global coordination:
 This is what makes the passage unexpectedly relevant to learning systems. A
 collection of instances becomes a genuine system when a common structure can
 be retained across them and common transitions can be applied at the proper
-scope. Local variation remains possible, but the great aggregate possesses a
+scope. Local variation remains possible, but the great cluster possesses a
 global event-boundary.
 
 Under our Sāṃkhya–Organon hypothesis, Mahat can be pictured as running the
@@ -274,13 +272,13 @@ vak:VAK_3_74
         loka:GreatThousandfoldWorldSystem .
 
 loka:MiddleThousandfoldWorldSystem
-    a loka:WorldSystemAggregate ;
+    a loka:WorldSystemCluster ;
     loka:hasUnitSchema loka:SmallThousandfoldWorldSystem ;
     loka:hasUnitCount 1000 ;
     loka:hasLocalWorldCount 1000000 .
 
 loka:GreatThousandfoldWorldSystem
-    a loka:WorldSystemAggregate ;
+    a loka:WorldSystemCluster ;
     loka:hasUnitSchema loka:MiddleThousandfoldWorldSystem ;
     loka:hasUnitCount 1000 ;
     loka:hasLocalWorldCount 1000000000 ;

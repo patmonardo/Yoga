@@ -2,30 +2,21 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-lohāpaśaśāvigocchidrarajolikṣās tadudbhavāḥ /
-yavas tathāṅgulīparva jñeyaṃ saptaguṇottaram // 3.86 //
-```
+> lohāpaśaśāvigocchidrarajolikṣās tadudbhavāḥ /
+> yavas tathāṅgulīparva jñeyaṃ saptaguṇottaram // 3.86 //
 
-> The named dust-units, likṣā and what arises from them, barley-grain, and
-> finger-joint are to be understood in a successively sevenfold scale.
+> The successive measures, from loharajas and the dust classes through likṣā,
+> yūkā, barley grain, and finger-joint, each increase sevenfold from one
+> measure to the next.
 
 The first-line compound is compressed. The sequence below follows Vasubandhu's
 explicit prose rather than a speculative segmentation of that compound.
-
-### Bhāṣya-informed study translation
-
-> Beginning with the ultimate atom, each next material measure is constituted
-> from seven of the preceding measure: seven ultimate atoms make one aṇu;
-> seven aṇus one loharajas; and the same sevenfold aggregation proceeds through
-> avrajas, dāśarajas, aiḍakarajas, gorajas, aperture-dust, likṣā, yūkā, barley
-> grain, and finger-joint. Three finger-joints constitute one finger.
 
 The exact technical members, the insertion of `yūkā` as what arises from a
 `likṣā`, and the three-joints-to-one-finger relation are Bhāṣya
 determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Etat paramāṇvādikaṃ saptaguṇottaraṃ veditavyam.
@@ -49,7 +40,7 @@ Spacing is regularized. The Bhāṣya's technical unit-names are retained as
 transmitted; their role in the sequence is clear even where their lexical
 derivation is not.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 This series, beginning with the ultimate atom, is to be understood as
 successively sevenfold. Seven ultimate atoms make one aṇu; seven aṇus make
 one loharajas. Seven of those make one avrajas; seven avrajas make one
@@ -59,7 +50,7 @@ one likṣā; what arises from those seven is a yūkā. Seven yūkās make one b
 grain, and seven barley grains make one finger-joint. Three finger-joints
 make one finger; this is so well known that it is not stated [in the verse].
 
-## Natural Movement
+## 4. Natural Movement
 
 The Bhāṣya makes the verse's compressed material list into a sequence of
 adjacent sevenfold measures. It starts from the ultimate atom, names each
@@ -67,7 +58,7 @@ successive unit through the finger-joint, and clarifies that `tadudbhavāḥ`
 refers to the yūkā arising from the likṣā. It then adds the familiar
 three-joints-to-one-finger relation.
 
-## The Ordered Scale
+## 5. The Ordered Scale
 
 | Next measure | Composition stated by the Bhāṣya |
 |---|---|
@@ -87,20 +78,20 @@ Three finger-joints make one finger, a familiar measure omitted from the
 verse. The list supplies a quantitative progression; no further lexical
 speculation about the unit-names is needed to follow the rule.
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 The Bhāṣya connects the limiting `paramāṇu` of 3.85 with larger material
 measures through repeated sevenfold aggregation. Each next unit is composed
 from seven of the preceding units. The sequence remains a measure of material
 form; the text does not give the units a separate metaphysical status.
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: a repeated aggregation rule links a minimal unit to ordinary
 bodily measure. This is a project-level observation, not Vasubandhu's
 technical terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[176|16-176|17]` through `[176|21-176|22]` of
   the running witness.

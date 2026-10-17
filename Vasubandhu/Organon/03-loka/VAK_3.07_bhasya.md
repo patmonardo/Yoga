@@ -5,10 +5,9 @@
 > anicchāvasanān nānye catasraḥ sthitayaḥ punaḥ /
 > catvāraḥ sāsravāḥ skandhāḥ svabhūmāv eva kevalam // 3.07 //
 
-> No additional states count as abodes of beings, because beings occupy the
-> bad destinies unwillingly. In another scriptural classification there are
-> four cognition-stations: form, feeling, perception, and formations with
-> outflows, each functioning as a station only within its own proper ground.
+> There are no others because residence [in the bad destinies] is unwilling.
+> Again, the four stations are the four Bases with outflows, only in their
+> own ground.
 
 The first half closes the ninefold classification of sentient abodes by
 excluding the bad destinies. The second half introduces a distinct scriptural

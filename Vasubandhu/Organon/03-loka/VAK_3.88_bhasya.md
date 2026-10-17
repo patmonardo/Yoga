@@ -2,26 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-te 'ṣṭau yojanam ity āhur viṃśaṃ kṣaṇaśataṃ punaḥ /
-tatkṣaṇas te punaḥ ṣaṣṭir lavas triṃśadguṇottarāḥ // 3.88 //
-```
+> te 'ṣṭau yojanam ity āhur viṃśaṃ kṣaṇaśataṃ punaḥ /
+> tatkṣaṇas te punaḥ ṣaṣṭir lavas triṃśadguṇottarāḥ // 3.88 //
 
-> Eight of those are said to make one yojana. Again, one hundred and twenty
-> moments make one tatkṣaṇa; sixty of those make one lava; subsequent measures
-> increase by thirtyfold steps.
-
-### Bhāṣya-informed study translation
-
-> Eight krośas constitute one yojana, completing the spatial measure-series.
-> The temporal series then begins: 120 moments constitute one tatkṣaṇa, and 60
-> tatkṣaṇas constitute one lava. The next temporal units proceed by thirtyfold
-> aggregation, beginning with 30 lavas to one muhūrta.
+> Eight krośas make one yojana. One hundred and twenty moments make a
+> tatkṣaṇa, and sixty tatkṣaṇas make a lava; the succeeding temporal measures
+> increase thirtyfold.
 
 The interpretation of the compressed numeral as 120 and the forward scope of
 the thirtyfold rule are Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Te 'ṣṭau yojanam ity āhuḥ.
@@ -46,21 +37,21 @@ compressed `viṃśaṃ kṣaṇaśatam` as 120 moments. The next verse begins t
 application of the thirtyfold progression; its calculations are not imported
 here.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 Eight krośas are said to make one yojana. The measure of the yojana has been
 stated; now the measure of the year is to be explained.
 
 One hundred and twenty moments make one tatkṣaṇa. Sixty tatkṣaṇas are called
 one lava. The succeeding measures increase by thirtyfold steps.
 
-## Natural Movement
+## 4. Natural Movement
 
 The Bhāṣya closes the spatial scale by specifying eight krośas to a yojana.
 It then turns explicitly to time-measure, resolving the verse's compressed
 number as 120 kṣaṇas for one tatkṣaṇa and sixty tatkṣaṇas for one lava. The
 closing thirtyfold phrase points forward to larger temporal units.
 
-## Measures in This Unit
+## 5. Measures in This Unit
 
 | Relation | Measure |
 |---|---:|
@@ -72,19 +63,19 @@ closing thirtyfold phrase points forward to larger temporal units.
 The thirty-lava muhūrta calculation is explained with 3.89, not in this
 natural source unit. Here the rule is left as a forward pointer.
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 The passage completes a spatial measure and begins a distinct temporal
 series. The Bhāṣya disambiguates the number of moments and defines the
 tatkṣaṇa and lava without treating them as ordinary synonyms for “moment.”
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: spatial and temporal quantities are articulated by their own
 conversion units. This is a project-level observation, not Vasubandhu's
 technical terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[177|06]` through `[177|13]` of the running
   witness.

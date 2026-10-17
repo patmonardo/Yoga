@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विंशत्यन्तरितान्येषां सुभूमीनि चतुर्दिशम् ।
->
-> पूर्वोत्तरे पारिजातः सुधर्मा दक्षिणावरे ॥ ३.६८ ॥
+```sanskrit
+विंशत्यन्तरितान्येषां सुभूमीनि चतुर्दिशम् ।
+पूर्वोत्तरे पारिजातः सुधर्मा दक्षिणावरे ॥ ३.६८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> viṃśatyantaritāny eṣāṃ subhūmīni caturdiśam /
->
-> pūrvottare pārijātaḥ sudharmā dakṣiṇāvare // 3.68 //
+```text
+viṃśatyantaritāny eṣāṃ subhūmīni caturdiśam /
+pūrvottare pārijātaḥ sudharmā dakṣiṇāvare // 3.68 //
+```
 
 ## 3. Lexical Analysis
 
@@ -64,27 +66,15 @@ assembly hall.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > In the four directions from these [gardens] are pleasant grounds separated
 > by twenty [yojanas]. Pārijāta is in the north-east, and Sudharmā in the
 > south-west.
 
 ### Bhāṣya-informed study translation
 
-> Twenty yojanas from each of the four gardens lies a pleasant ground, itself
-> a recreation-place of the gods; through mutual rivalry these four grounds
-> spread their beauty. Outside the city in the north-east stands Pārijāta, a
-> kovidāra tree supporting the Trāyastriṃśas' most intense sensual enjoyment.
-> Its root-base measures five yojanas, its height one hundred, and its spread
-> of branches and foliage fifty. In full bloom its fragrance travels one
-> hundred yojanas downwind and fifty against the wind. In the south-west is
-> Sudharmā, the divine assembly hall where the seated gods deliberate what is
-> to be done and what is not to be done.
-
-The fourfold count, twenty-yojana spacing, recreational function, rivalry,
-Pārijāta's classification and dimensions, fragrance measures, and Sudharmā's
-institutional and deliberative functions are Bhāṣya determinations.
+> These pleasant grounds lie twenty yojanas apart in the four directions;
+> Pārijāta is to the north-east, and Sudharmā to the south-west.
 
 ## 6. Philosophical Translation
 
@@ -218,6 +208,10 @@ The assembly does not merely register events; it discriminates conduct under
 the opposition of the to-be-done and the not-to-be-done.
 
 ## 9. Interpretive Note
+
+**Translation note.** The fourfold count, twenty-yojana spacing, recreational function, rivalry,
+Pārijāta's classification and dimensions, fragrance measures, and Sudharmā's
+institutional and deliberative functions are Bhāṣya determinations.
 
 VAK 3.68 is where the divine spectacle unexpectedly becomes explicit
 methodology. Its two named sites organize two sides of conditioned agency:

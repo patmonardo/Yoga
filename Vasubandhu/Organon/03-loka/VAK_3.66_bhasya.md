@@ -2,27 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-madhye sārdhadvisāhasrapārśvam adhyardhayojanam /
-puraṃ sudarśanaṃ nāma haimaṃ citratalaṃ mṛdu // 3.66 //
-```
+> madhye sārdhadvisāhasrapārśvam adhyardhayojanam /
+> puraṃ sudarśanaṃ nāma haimaṃ citratalaṃ mṛdu // 3.66 //
 
-> At the center is the city Sudarśana, 2,500 yojanas on each side and one and
-> one-half yojanas high: golden, variegated in its ground, and soft.
+> At the center is the city Sudarśana, with sides of 2,500 yojanas and a
+> height of 1½. It is golden, variegated in its ground, and soft.
 
 The Bhāṣya identifies Sudarśana as the city at the center of Sumeru's summit
 and as Śakra's capital. It resolves the city's side and height measures,
 assigns gold to its enclosing wall, describes the ground as composed of 101
 substances, and explains its softness through the ground's response to a
 footstep.
-
-### Bhāṣya-informed study translation
-
-> At the center of Meru's summit stands the city Sudarśana, Śakra's capital.
-> Each side measures 2,500 yojanas and its height is 1½ yojanas. Its enclosing
-> wall is golden, and its ground is variegated with 101 substances. The ground
-> is soft to the touch like cotton fluff: it sinks when a foot is placed upon
-> it and rises again when the foot is lifted.
 
 The assignment of the measures to side and height, golden wall, 101 ground
 constituents, cotton-fluff comparison, action-responsive surface, and
@@ -55,8 +45,7 @@ regularized. The wording `ekottareṇa dhātuśatena` is rendered as “one hund
 and one substances,” following the conventional parsing reflected in the
 study witness.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 And concerning the summit of Meru:
 
 At its center is a city named Sudarśana, 2,500 yojanas on each side and one

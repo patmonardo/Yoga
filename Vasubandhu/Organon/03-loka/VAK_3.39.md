@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कवडीकार आहारः कामे त्र्यायतनात्मकः ।
->
-> न रूपायतनं तेन स्वाक्षमुक्ताननुग्रहात् ॥ ३.३९ ॥
+```sanskrit
+कवडीकार आहारः कामे त्र्यायतनात्मकः ।
+न रूपायतनं तेन स्वाक्षमुक्ताननुग्रहात् ॥ ३.३९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kavaḍīkāra āhāraḥ kāme tryāyatanātmakaḥ /
->
-> na rūpāyatanaṃ tena svākṣamuktānanugrahāt // 3.39 //
+```text
+kavaḍīkāra āhāraḥ kāme tryāyatanātmakaḥ /
+na rūpāyatanaṃ tena svākṣamuktānanugrahāt // 3.39 //
+```
 
 ## 3. Lexical Analysis
 
@@ -20,10 +22,10 @@
 | āhāraḥ | nominative masculine singular | nutriment; that which sustains |
 | kāme | locative singular | in the desire realm |
 | tryāyatanātmakaḥ | nominative masculine singular compound adjective | constituted by three Essences |
-| na | negative particle | excludes visible form from nutriment |
-| rūpāyatanam | nominative neuter singular | the visible-form Essence |
+| na | negative particle | excludes visible Form from nutriment |
+| rūpāyatanam | nominative neuter singular | the visible-Form Essence |
 | tena | instrumental singular pronoun used consequentially | therefore / for that reason |
-| svākṣa | compound member; `sva` + `akṣa` | its own faculty, namely the eye |
+| svākṣa | compound member; `sva` + `akṣa` | its own Faculty, namely the eye |
 | mukta | compound member | the liberated; specified as non-returners and arhats in the Bhāṣya |
 | ananugrahāt | ablative singular of negative abstract | because of not supporting or benefiting |
 
@@ -49,51 +51,38 @@ The second hemistich excludes a plausible fourth sphere:
 
 ```text
 rūpa-āyatanam [āhāraḥ] na
-    = the visible-form Essence is not nutriment
+    = the visible-Form Essence is not nutriment
 
 tena sva-akṣa-mukta-an-anugrahāt
     = because it does not provide the relevant support
-      to its own faculty or to the liberated
+      to its own Faculty or to the liberated
 ```
 
 The Bhāṣya explains the causal phrase by first defining nutriment as what
-supports the faculties and their great elements, and then testing visible form
+supports the Faculties and their Great Elements, and then testing visible Form
 against that definition.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Morsel nutriment in the desire realm is constituted by three Essences. The
-> visible-form Essence is not [nutriment], because it does not support its own
-> faculty or the liberated.
+> visible-Form Essence is not [nutriment], because it does not support its own
+> Faculty or the liberated.
 
 ### Bhāṣya-informed study translation
 
-> Morsel nutriment occurs only in the desire realm and is constituted by the
-> three desire-realm Essences of odor, taste, and tangible. It may be gross or
-> subtle, and sustaining influences not literally swallowed may be included
-> under its subtle form. Visible form itself is not nutriment, because
-> nutriment must support the faculties and their material elements, whereas
-> visible form does not support even its own faculty, the eye, in the act of
-> ingestion. When seeing attractive food occasions pleasure, the nourishing
-> factor is the pleasant-feeling-producing contact that takes the form as its
-> cognitive Condition, not the visible form itself. Liberated persons confirm the
-> distinction: they may see pleasing food without receiving that sustaining
-> benefit from its appearance.
-
-The identification of the three Essences, the gross/subtle distinction, the
-functional definition of nutriment, and the contact analysis are Bhāṣya
-determinations.
+> In the desire realm, morsel nutriment consists of three Essences. It is not
+> the Form Essence, because [it] does not nourish its own Faculty or the
+> liberated.
 
 ## 6. Philosophical Translation
 
 > Nutriment is determined by sustaining efficacy, not by appearance or by the
 > ordinary name “food.” Odor, taste, and tangible enter the material economy
-> of desire-realm embodiment; visible form does not. Even when an appearance
+> of desire-realm embodiment; visible Form does not. Even when an appearance
 > delights, the operative support lies in the contact through which it is felt.
 > The World persists not by consuming images of things, but through determinate
-> relations that actually maintain its embodied faculties and their ground.
+> relations that actually maintain its embodied Faculties and their ground.
 
 ## 7. Technical Vocabulary
 
@@ -107,15 +96,15 @@ determinations.
 | gandhāyatana | odor Essence | first constituent of morsel nutriment |
 | rasāyatana | taste Essence | second constituent of morsel nutriment |
 | spraṣṭavyāyatana | tangible Essence | third constituent of morsel nutriment |
-| rūpāyatana | visible-form Essence | explicitly excluded from nutriment |
+| rūpāyatana | visible-Form Essence | explicitly excluded from nutriment |
 | abhyavaharaṇa | ingestion / taking in | ordinary operation associated with morsel nutriment |
 | gandhāhāra | subsisting on odor | explanation of subtle nutriment for intermediate beings |
 | niḥṣyanda | residual outflow | said to be absent for gods and primordial beings receiving subtle nutriment |
 | anugraha | sustaining support / benefit | decisive criterion for technical nutriment |
-| indriya | faculty | one class of structures sustained by nutriment |
-| mahābhūta | great element | material basis sustained together with the faculties |
+| indriya | Faculty | one class of structures sustained by nutriment |
+| mahābhūta | Great Element | material basis sustained together with the Faculties |
 | sukhavedanīya sparśa | pleasant-feeling-producing contact | actual nutriment when attractive appearance occasions pleasure |
-| ālambana | cognitive Condition | role of visible form relative to pleasant Contact |
+| ālambana | cognitive Condition | role of visible Form relative to pleasant Contact |
 | mukta | liberated person | non-returner or arhat used to test the alleged sustaining power of appearance |
 
 The definition is functional:
@@ -125,7 +114,7 @@ The definition is functional:
     = yad indriya-mahābhūtānām anugrahāya saṃvartate
 
 nutriment
-    = what conduces to sustaining the faculties and great elements
+    = what conduces to sustaining the Faculties and Great Elements
 ```
 
 ## 8. Logical Determination
@@ -169,17 +158,17 @@ nutriment(x)
 The sufficient test is operational:
 
 ```text
-supports(x, faculties + great elements)
+supports(x, Faculties + Great Elements)
     → eligibleFor(x, nutriment)
 ```
 
-Visible form fails this test. Its relation to the Eye is as a cognitive
+Visible Form fails this test. Its relation to the Eye is as a cognitive
 Condition, not as material sustenance.
 
 ### Cognitive Condition and nourishing operation must not be collapsed
 
 ```text
-visible form
+visible Form
     → cognitive Condition for pleasant Contact
 
 pleasant contact
@@ -196,7 +185,7 @@ crediting the displayed appearance with the work performed by contact.
 ### The liberated function as a discrimination test
 
 ```text
-pleasing visible form present
+pleasing visible Form present
     + liberated viewer
         → no relevant sustaining benefit
 
@@ -208,6 +197,17 @@ The argument distinguishes aesthetic presentation from conditioned affective
 support.
 
 ## 9. Interpretive Note
+
+**Translation note.** The three Essences are smell, taste, and tangible, and morsel
+nutriment occurs only in the desire realm; it may be gross or subtle, including
+sustaining influences not literally swallowed. Visible Form is not nutriment because
+it does not support even its own Faculty, the eye, in ingestion. If attractive food
+occasions pleasure through seeing, the nourishing factor is
+pleasant-feeling-producing Contact taking that Form as Condition, not visible Form
+itself; the liberated may see pleasing food without receiving that sustaining
+benefit. The identification of the three Essences, the gross/subtle distinction, the
+functional definition of nutriment, and the contact analysis are Bhāṣya
+determinations.
 
 The verse distinguishes the visible Condition that occasions pleasant
 Contact from the factors that materially or affectively sustain life. Visible

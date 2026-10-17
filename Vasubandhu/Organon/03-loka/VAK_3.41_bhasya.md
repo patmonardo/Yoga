@@ -2,31 +2,18 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-iha puṣṭyartham āśrayāśritayor dvayam /
-dvayam anyabhavākṣepanirvṛttyarthaṃ yathākramam // 3.41 //
-```
+> iha puṣṭyartham āśrayāśritayor dvayam /
+> dvayam anyabhavākṣepanirvṛttyarthaṃ yathākramam // 3.41 //
 
-> Here, two serve to nourish the support and what is supported. The other
-> two serve respectively to project and produce another becoming.
+> Here, a pair [of nutriments serves] to nourish the support and what depends
+> on it; the other pair serves, respectively, to project and bring about
+> another becoming.
 
 The Bhāṣya first asks whether all four nutriments maintain both already-arisen
 beings and beings seeking birth. After narratives about expectation, memory,
 and sustained life, it states why four nutriments are singled out, assigns
 each its predominant function, and tests the functional definition through
 four-cornered cases and the nutriment of hell beings.
-
-### Bhāṣya-informed study translation
-
-> Two nutriments principally maintain existence already arisen: morsel
-> nutriment nourishes the support, the body endowed with faculties, while
-> contact nourishes what depends upon that support, consciousness and its
-> associated mental operations. The other two principally bring about
-> existence not yet arisen: mental volition projects renewed becoming, and
-> from the seed of differentiated cognition conditioned by karma the projected
-> becoming emerges. Thus the four are ordered respectively as bodily
-> maintenance, citta-caitta maintenance, projection of another becoming, and
-> production of that projected becoming.
 
 The identifications of support and supported, the four exact assignments, and
 the karma-conditioned `vijñāna`-seed are Bhāṣya determinations.
@@ -113,8 +100,7 @@ the verse's `ākṣepa-nirvṛtti` compound, and the expressions for molten copp
 and the five destinies. The stories, the four-cornered analysis, and the hell
 discussion remain provisional pending critical comparison.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 How many nutriments serve the persistence of beings, and how many support
 those seeking birth? The Vaibhāṣikas say that all four serve both purposes.
 Morsel nutriment also conduces to renewed becoming for those attached to it,
@@ -162,13 +148,13 @@ what has been born; the latter pair is like mothers because they generate it.
 
 Is every morsel nutriment? A morsel can exist that is not nutriment; the issue
 is analyzed four ways. First is a morsel upon which the faculties decline and
-the great elements are disrupted. Second are the three nutriments other than
+the Great Elements are disrupted. Second are the three nutriments other than
 morsel nutriment. Third is a morsel upon which the faculties increase and the
-great elements grow. Fourth comprises cases left after those configurations
+Great Elements grow. Fourth comprises cases left after those configurations
 are excluded. Four-cornered analyses should be constructed as appropriate for
 contact and the other nutriments as well.
 
-There may be increase of faculties and growth of the great elements dependent
+There may be increase of faculties and growth of the Great Elements dependent
 upon contact and the others without those factors being nutriments—for
 example, factors belonging to another level or factors without outflows.
 
@@ -183,7 +169,7 @@ There are blazing iron balls and boiling copper.
 
 If even what harms is nutriment, does this not undermine the four-cornered
 analysis and the treatise definition of morsel nutriment as that upon which
-the faculties increase, the great elements grow, and maintenance continues?
+the faculties increase, the Great Elements grow, and maintenance continues?
 There is no contradiction, because that statement intends nutriment that
 produces increase. In hell there is nutriment of decrease because it meets
 the defining characteristic; it can at least remove hunger and thirst. More

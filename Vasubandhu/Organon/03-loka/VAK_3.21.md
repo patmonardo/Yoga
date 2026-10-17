@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> पूर्वक्लेशा दशाविद्या संस्काराः पूर्वकर्मणः ।
->
-> संधिस्कन्धास्तु विज्ञानं नामरूपमतः परम् ॥ ३.२१ ॥
+```sanskrit
+पूर्वक्लेशा दशाविद्या संस्काराः पूर्वकर्मणः ।
+संधिस्कन्धास्तु विज्ञानं नामरूपमतः परम् ॥ ३.२१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> pūrvakleśā daśāvidyā saṃskārāḥ pūrvakarmaṇaḥ /
->
-> saṃdhiskandhās tu vijñānaṃ nāmarūpam ataḥ param // 3.21 //
+```text
+pūrvakleśā daśāvidyā saṃskārāḥ pūrvakarmaṇaḥ /
+saṃdhiskandhās tu vijñānaṃ nāmarūpam ataḥ param // 3.21 //
+```
 
 ## 3. Lexical Analysis
 
@@ -56,21 +58,16 @@ junction but does not state its endpoint.
 
 ## 5. Translation
 
-### Close syntactic rendering
-
+### Literal Translation
 > The state of former afflictions is Ignorance; Formations are the state of
 > former Karma. The junction Bases, however, are Discriminative Cognition;
 > thereafter comes Name-and-Form.
 
 ### Bhāṣya-informed study translation
 
-> The state of afflictions in the prior birth is called Ignorance, because
-> the other afflictions accompany it and operate under its influence. The
-> former birth's meritorious and other karmic state, whose result matures
-> here, is called Formations. At the moment of rebirth-linking in the
-> mother's womb, the five Bases together are designated Discriminative
-> Cognition. Name-and-Form follows that junction; the next verse specifies
-> the boundary of this stage.
+> The state of former afflictions is Ignorance; Formations are the state of
+> former Karma. At the junction, the five Bases are called Discriminative
+> Cognition; thereafter comes Name-and-Form.
 
 ## 6. Philosophical Translation
 
@@ -112,7 +109,7 @@ substance that travels between them.
 
 ## 9. Interpretive Note
 
-The Bhāṣya confirms *daśā*, “state,” rather than *daśa*, “ten”; the precise
+**Translation note.** The Bhāṣya confirms *daśā*, “state,” rather than *daśa*, “ten”; the precise
 compound division remains editorial. Here *vijñāna* designates the junctional
 five-Base configuration and remains distinct from consciousness (*citta*)
 and Mind (*manas*).

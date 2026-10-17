@@ -2,34 +2,22 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-vivartate 'tha saṃvṛtta āste saṃvartate samam /
-te hy aśītir mahākalpas tad asaṃkhyatrayodbhavam // 3.93 //
-```
+> vivartate 'tha saṃvṛtta āste saṃvartate samam /
+> te hy aśītir mahākalpas tad asaṃkhyatrayodbhavam // 3.93 //
 
-> It expands; then, contracted, it remains; it contracts for an equal span.
-> Those eighty constitute a great kalpa; from three `asaṃkhyeyas` of these
-> arises [buddhahood].
+> Expansion, expanded standing, contraction, and contracted standing each last
+> equally: together they make eighty intermediate kalpas, one mahākalpa.
+> Buddhahood arises through three such `asaṃkhyeya` accumulations.
 
 The first line completes the four-phase cycle discussed in 3.92. The second
 turns from cosmic time to the great-kalpa measure and the bodhisattva’s
 attainment of buddhahood.
 
-### Bhāṣya-informed study translation
-
-> Expansion, standing while expanded, contraction, and standing while
-> contracted each last twenty intermediate kalpas. These four equal temporal
-> enclosures total eighty intermediate kalpas, which constitute one
-> mahākalpa. The mahākalpa is the unit used in the three-`asaṃkhyeya`
-> accumulation through which buddhahood is attained. Here `asaṃkhyeya` is an
-> enormous determinate number reached at the sixtieth place in a conventional
-> numerical series, after which counting recommences.
-
 The complete four-phase construe, the five-Base nature of kalpa,
 identification of the relevant unit as mahākalpa, and sixty-place meaning of
 `asaṃkhyeya` are Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 The Bhāṣya's natural unit runs from the definition of the great kalpa through
 its account of the bodhisattva’s resolve, compassion, and the period in which
@@ -100,8 +88,7 @@ critically reconstructed. The long sequence of named numerical magnitudes is
 abridged as marked; the translation states its rule and the Bhāṣya’s
 conclusion.
 
-## Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 These eighty intermediate kalpas are a great kalpa. This is the measure of a
 great kalpa. What is a kalpa by nature? It has the nature of the five
 Bases.
@@ -158,7 +145,7 @@ seeks others’ happiness even through suffering in their own continuum, and
 seeks the complete cessation of suffering—because suffering itself is
 suffering to them.
 
-## Natural Movement
+## 4. Natural Movement
 
 The commentary turns from the scale of the world-cycle to the meaning of
 `asaṃkhyeya` and the bodhisattva path. It does not leave the term as
@@ -172,14 +159,14 @@ be cultivated until another’s suffering and happiness become one’s concern.
 The text contrasts this with self-directed happiness and the more limited
 aim of ending one’s own suffering.
 
-## Organon Contact Point
+## 5. Organon Contact Point
 
 Light contact: this passage links an immense temporal measure to a
 deliberately cultivated orientation toward others. The relation is a
 comparative reading only; Vasubandhu’s claims are given in the translation
 above.
 
-## Review Status
+## 6. Review Status
 
 - Follows the 3.93 commentary from the great-kalpa definition through the
   bodhisattva's long cultivation and altruistic resolve; the next question,

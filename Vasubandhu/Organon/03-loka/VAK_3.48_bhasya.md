@@ -2,25 +2,15 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-samantatas tu triguṇaṃ tatra merur yugandharaḥ /
-īśādhāraḥ khadirakaḥ sudarśanagiris tathā // 3.48 //
-```
+> samantatas tu triguṇaṃ tatra merur yugandharaḥ /
+> īśādhāraḥ khadirakaḥ sudarśanagiris tathā // 3.48 //
 
-> Reckoned all around, its measure is threefold. There are Meru, Yugandhara,
-> Īśādhāra, Khadiraka, and likewise Mount Sudarśana.
+> All around, however, the circumference is threefold [the transverse extent].
+> There are Meru, Yugandhara, Īśādhāra, Khadiraka, and likewise Sudarśana.
 
 The first pāda completes the dimensional account begun in VAK 3.47. The
 remaining pādas begin the enumeration of mountains established upon the
 golden earth above the waters; the list continues in VAK 3.49.
-
-### Bhāṣya-informed study translation
-
-> Reckoned by circumference, the water-and-gold maṇḍala measures three times
-> its transverse extent: 3,610,350 yojanas. Upon the golden earth above the
-> waters stand Meru and the surrounding mountains Yugandhara, Īśādhāra,
-> Khadiraka, and Sudarśana; the enumeration continues in the following verse.
-> Sumeru occupies the center, while the other mountains are arranged around it.
 
 The exact circumferential total, golden-earth location, eight-mountain scope,
 and center-surrounding relation are Bhāṣya determinations.
@@ -43,8 +33,7 @@ The continuous text regularizes punctuation and numerical word division. The
 local witness reads `īśādhāraḥ`; that form is retained rather than silently
 replaced by the better-known `Īṣādhara` without critical comparison.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Reckoned all around, however, its measure is threefold. That is, when it is
 calculated all around by circumference, the measure becomes three times as
 great: thirty-six hundred-thousand, ten thousand, and three hundred fifty

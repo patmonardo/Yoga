@@ -2,29 +2,18 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-antaḥkalpo 'mitād yāvad daśavarṣāyuṣas tataḥ /
-utkarṣā apakarṣāś ca kalpā aṣṭādaśāpare // 3.91 //
-```
+> antaḥkalpo 'mitād yāvad daśavarṣāyuṣas tataḥ /
+> utkarṣā apakarṣāś ca kalpā aṣṭādaśāpare // 3.91 //
 
-> The first intermediate kalpa runs from immeasurable lifespan down to a
-> ten-year lifespan. After that, the next eighteen kalpas have increases and
-> decreases.
-
-### Bhāṣya-informed study translation
-
-> The first intermediate kalpa of the standing World is the gradual decline
-> of human lifespan from immeasurable duration to ten years. Each of the next
-> eighteen intermediate kalpas rises from ten years to the fixed upper limit
-> of 80,000 years and then declines again to ten. A twentieth intermediate
-> kalpa consists only of the final increase from ten to 80,000 years. Despite
-> these different internal trajectories, all twenty intermediate kalpas are
-> equal in duration.
+> The first intermediate kalpa declines from immeasurable human lifespan to
+> ten years; the next eighteen each rise from ten to eighty thousand and
+> decline again, and the twentieth rises from ten to eighty thousand. All
+> twenty are equal in duration.
 
 The 80,000-year upper bound, the one-way twentieth increase, and equality in
 duration of all twenty kalpas are Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 This unit begins with the Bhāṣya's completion of the first intermediate kalpa
 and ends with its statement that all twenty have equal duration. The next
@@ -59,7 +48,7 @@ The prose is punctuated and spaced for reading. In the final sentence,
 of the middle kalpas; the first kalpa's decline and the last kalpa's increase
 each occupy that same duration.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 While the world is expanding, nineteen intermediate kalpas pass during which
 human beings have immeasurable lifespans. As those lifespans gradually
 decrease, they eventually reach ten years. This is the first intermediate
@@ -78,7 +67,7 @@ decrease in the other intermediate kalpas is equal to the time occupied by
 the first kalpa's decrease and the final kalpa's increase. Thus all are equal
 in duration.
 
-## Natural Movement
+## 4. Natural Movement
 
 The Bhāṣya distinguishes the nineteen intermediate kalpas that pass during
 world-formation from the twenty that articulate the formed world's standing
@@ -93,13 +82,13 @@ Bhāṣya supplies the final, increase-only kalpa and the equality of duration.
 This completes the unit before the next kārikā takes up the standing-world
 duration.
 
-## Organon Contact Point
+## 5. Organon Contact Point
 
 Light contact: equal temporal spans can have different internal articulations.
 That is a comparison prompted by the passage, not a separate technical claim
 made by Vasubandhu.
 
-## Review Status
+## 6. Review Status
 
 - Includes the full prose unit through `[180|14]`; stops before the next
   kārikā at `[180|15]`.

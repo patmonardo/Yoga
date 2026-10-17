@@ -2,32 +2,22 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-utkarṣa ekas te 'śītisahasrād yāvad āyuṣaḥ /
-iti loko vivṛtto 'yaṃ kalpāṃs tiṣṭhati viṃśatim // 3.92 //
-```
+> utkarṣa ekas te 'śītisahasrād yāvad āyuṣaḥ /
+> iti loko vivṛtto 'yaṃ kalpāṃs tiṣṭhati viṃśatim // 3.92 //
 
-> One [final] increase [continues] up to a lifespan of eighty thousand.
-> Thus this expanded world stands for twenty kalpas.
+> There is one final increase, bringing human lifespan to the fixed upper
+> limit of eighty thousand years. With that increase, the expanded World
+> stands for twenty intermediate kalpas.
 
 The Bhāṣya supplies the starting point of the final increase (ten years) and
 clarifies that these twenty are intermediate kalpas. It then compares the
 durations of the world's four major phases.
 
-### Bhāṣya-informed study translation
-
-> A final one-way increase carries human lifespan from ten years to the fixed
-> upper bound of 80,000. With that twentieth intermediate kalpa, the sequence
-> is complete: the fully expanded World remains standing for twenty
-> intermediate kalpas. The Bhāṣya further states that expansion, expanded
-> standing, contraction, and contracted standing each occupy the same duration
-> of twenty intermediate kalpas, though their internal processes differ.
-
 The ten-year starting point, equality of all intermediate-kalpa durations,
 fourfold equality of the major World-phases, and internal distribution of
 formation and contraction are Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 The unit follows the explanation of the twenty-kalpa standing period through
 the comparison of expansion, standing, and contraction. It stops before the
@@ -53,7 +43,7 @@ Sandhi and punctuation are lightly regularized. The source reads
 `abhinivartante` in the receptacle sentence; its sense there is uncertain,
 and it is retained without emendation.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 By this reckoning of intermediate kalpas, this expanded world stands for
 twenty intermediate kalpas. It remains in the expanded state for twenty;
 the expansion process likewise takes twenty. Then it remains contracted for
@@ -66,7 +56,7 @@ during the following nineteen. It is destroyed in one intermediate kalpa and
 becomes empty during the preceding nineteen. These are four groups of twenty
 intermediate kalpas, making eighty in all.
 
-## Natural Movement
+## 4. Natural Movement
 
 The Bhāṣya moves from the twenty intermediate kalpas of the expanded world's
 standing period to the full cycle: expansion, expanded standing, contraction,
@@ -76,13 +66,13 @@ other nineteen are occupied by inhabitation or emptying. The four groups thus
 total eighty intermediate kalpas. The source next asks what kind of entity a
 kalpa is, before 3.93 names the great kalpa.
 
-## Organon Contact Point
+## 5. Organon Contact Point
 
 Light contact: the Bhāṣya distinguishes a phase's total duration from the
 distribution of events within it. This is a comparative observation, not an
 independent Organon model asserted by the source.
 
-## Review Status
+## 6. Review Status
 
 - Natural unit follows `[180|15]` through `[180|23]`; it stops before the
   great-kalpa verse at `[180|24]`.

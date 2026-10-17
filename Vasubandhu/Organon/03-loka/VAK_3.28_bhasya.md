@@ -5,25 +5,15 @@
 > hetur atra samutpādaḥ samutpannaṃ phalaṃ matam /
 > vidyāvipakṣo dharmo 'nyo 'vidyāmitrānṛtādivat // 3.28 //
 
-> Here dependent arising is cause, while the dependently arisen is regarded
-> as result. Ignorance is a distinct dharma opposed to knowledge, as an enemy
-> is opposed to a friend, untruth to truth, and so forth.
+> Here, dependent arising is the cause, and what is dependently arisen is held
+> to be the result. Ignorance is a distinct dharma contrary to knowledge, as
+> an enemy to a friend, untruth to truth, and the like.
 
 The two halves of the verse emerge within a long controversy. The first
 distinguishes cause-role from result-role; the second rejects both “anything
 that is not knowledge” and “mere absence of knowledge” as definitions of
 ignorance. Between them, the Bhāṣya debates the status, wording, scope, and
 causal meaning of dependent arising itself.
-
-### Bhāṣya-informed study translation
-
-> A member is called **dependent arising** insofar as it functions as the
-> cause from which another member arises, and **dependently arisen** insofar
-> as it functions as a result. The same member may bear both determinations
-> under different relations. Ignorance is neither everything other than
-> knowledge nor the mere absence of knowledge; it is a distinct operative
-> factor standing contrary to knowledge, as an enemy stands contrary to a
-> friend and untruth to truth.
 
 Relational role, the rejection of two alternative definitions of ignorance,
 and its status as an operative condition are Bhāṣya determinations.
@@ -308,8 +298,7 @@ collation. The earlier research witness excerpts only the discussions at
 136.02–136.13 and 140.26–141.08; it omits most of this sustained argument.
 The running source remains unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Another sūtra says that ignorance has unwise attention as its cause, and that
 unwise attention in turn has ignorance as its cause. Some say that unwise
 attention is already stated here because it is included within appropriation.

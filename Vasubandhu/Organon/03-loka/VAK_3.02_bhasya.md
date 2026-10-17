@@ -6,9 +6,8 @@
 > dhyānaṃ tribhūmikaṃ tatra caturthaṃ tvaṣṭabhūmikam // 3.02 //
 
 > Above the Desire Realm lies the Form Realm, comprising seventeen stations.
-> Its first three dhyānas each comprise three levels, while the fourth
-> comprises eight. The Kāśmīras instead count sixteen, treating Mahābrahmā as
-> an elevated station but not as a distinct ground.
+> Its first three dhyānas each have three levels, while the fourth has
+> eight.
 
 The Bhāṣya supplies “above this Desire Realm” and resolves `pṛthak pṛthak`
 through `pratyekam`, “each separately.” It then enumerates the seventeen

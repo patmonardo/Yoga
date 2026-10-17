@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> आभ्यन्तरः समुद्रोऽसौ त्रिगुणः स तु पार्श्वतः ।
->
-> अर्धार्धेनापराः शीताः शेषं बाह्यो महोदधेः ॥ ३.५२ ॥
+```sanskrit
+आभ्यन्तरः समुद्रोऽसौ त्रिगुणः स तु पार्श्वतः ।
+अर्धार्धेनापराः शीताः शेषं बाह्यो महोदधेः ॥ ३.५२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ābhyantaraḥ samudro 'sau triguṇaḥ sa tu pārśvataḥ /
->
-> ardhārdhenāparāḥ śītāḥ śeṣaṃ bāhyo mahodadheḥ // 3.52 //
+```text
+ābhyantaraḥ samudro 'sau triguṇaḥ sa tu pārśvataḥ /
+ardhārdhenāparāḥ śītāḥ śeṣaṃ bāhyo mahodadheḥ // 3.52 //
+```
 
 ## 3. Lexical Analysis
 
@@ -74,24 +76,15 @@ possessive sense; the residual interval itself constitutes the outer ocean.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > That is the inner ocean; along its side it is threefold. The other Śītās
 > [diminish] by successive halves. The remainder is the outer great ocean.
 
 ### Bhāṣya-informed study translation
 
-> The first Śītā, between Sumeru and Yugandhara, is the inner ocean. Its radial
-> width is 80,000 yojanas, while its measure along the Yugandhara shore is three
-> times that, 240,000. Each of the six remaining Śītā seas has half the width
-> of the preceding one. Their great longitudinal extension is left
-> unenumerated. The residual interval between Nimindhara and Cakravāḍa is the
-> outer great ocean, filled with saline water; within it lie the four
-> continents.
-
-The radial and shore-wise axes, numerical shore measure, unenumerated length,
-precise boundaries of the remainder, saline character, and placement of the
-continents are Bhāṣya determinations.
+> That is the inner ocean; along its shore it is threefold. The other Śītā
+> seas decrease by successive halves; what remains is the outer great
+> ocean.
 
 ## 6. Philosophical Translation
 
@@ -196,6 +189,10 @@ The inner/outer distinction is therefore simultaneously topological,
 quantitative, and qualitative.
 
 ## 9. Interpretive Note
+
+**Translation note.** The radial and shore-wise axes, numerical shore measure, unenumerated length,
+precise boundaries of the remainder, saline character, and placement of the
+continents are Bhāṣya determinations.
 
 VAK 3.52 closes the foundation-and-ring sequence with a powerful rule of
 system development:

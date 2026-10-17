@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> आवस्थिकः किलेष्टोऽयं प्राधान्यात्त्वङ्गकीर्तनम् ।
->
-> पूर्वापरान्तमध्येषु संमोहविनिवृत्तये ॥ ३.२५ ॥
+```sanskrit
+आवस्थिकः किलेष्टोऽयं प्राधान्यात्त्वङ्गकीर्तनम् ।
+पूर्वापरान्तमध्येषु संमोहविनिवृत्तये ॥ ३.२५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> āvasthikaḥ kileṣṭo 'yaṃ prādhānyāt tv aṅgakīrtanam /
->
-> pūrvāparāntamadhyeṣu saṃmohavinivṛttaye // 3.25 //
+```text
+āvasthikaḥ kileṣṭo 'yaṃ prādhānyāt tv aṅgakīrtanam /
+pūrvāparāntamadhyeṣu saṃmohavinivṛttaye // 3.25 //
+```
 
 The compact sandhi resolves as:
 
@@ -75,22 +77,16 @@ three limits are past, future, and present within the three-life articulation.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > This is said to be intended as stage-based; the naming of a member, however,
 > is due to predominance—for the removal of confusion concerning the prior
 > limit, subsequent limit, and middle.
 
 ### Bhāṣya-informed study translation
 
-> The twelvefold sūtra presentation is intended as a sequence of complex
-> five-Base stages. Each stage is named after the determination
-> predominant within it. This sentient-life sequence is divided across past,
-> future, and present in order to remove confusion about temporal continuity
-> by rightly seeing conditioned arising through *prajñā*.
-
-Five-Base composition, the sūtra's selective intention, the concrete
-forms of temporal confusion, and the role of Prajñā are Bhāṣya determinations.
+> This is intended as a stage-based [account]; members are named according
+> to predominance to remove confusion about the prior limit, the later
+> limit, and the middle.
 
 ## 6. Philosophical Translation
 
@@ -123,7 +119,7 @@ forms of temporal confusion, and the role of Prajñā are Bhāṣya determinatio
 | saṃmoha | confusion | temporal miscomprehension addressed by the teaching |
 | vinivṛtti | removal | practical-cognitive purpose of the selected model |
 | yathābhūta | according to actuality | scriptural qualification of right seeing cited by the Bhāṣya |
-| prajñā | Science of Principles in the inner-instrument Techne | in this passage, the means of rightly seeing conditioned structure |
+| prajñā | discriminative comprehension in the inner-instrument Techne | in this passage, the means of rightly seeing conditioned structure |
 
 The Bhāṣya distinguishes several possible articulations of dependent
 origination, including momentary, extended, connected, and stage-based forms.
@@ -232,6 +228,9 @@ of its intelligible presentation.
 
 ## 9. Interpretive Note
 
+**Translation note.** Five-Base composition, the sūtra's selective intention, the concrete
+forms of temporal confusion, and the role of Prajñā are Bhāṣya determinations.
+
 The Organon's project-level reading treats stage-designation as
 purpose-governed but answerable to the conditioned field: the three-life
 presentation is a valid instrument for removing temporal confusion, not an
@@ -271,7 +270,7 @@ vak:AbhidharmaAnalysis
 
 vak:RemovalOfTemporalConfusion
     a organon:PracticalCognitiveEnd ;
-    organon:realizedBy vak:Prajna ;
+    organon:realizedBy vak:DiscriminativeComprehension ;
     organon:through vak:RightSeeingOfDependentOrigination .
 
 organon:PurposeGovernedViewSelection

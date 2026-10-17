@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> उत्कर्ष एकस्तेऽशीतिसहस्राद्यावदायुषः ।
->
-> इति लोको विवृत्तोऽयं कल्पांस्तिष्ठति विंशतिम् ॥ ३.९२ ॥
+```sanskrit
+उत्कर्ष एकस्तेऽशीतिसहस्राद्यावदायुषः ।
+इति लोको विवृत्तोऽयं कल्पांस्तिष्ठति विंशतिम् ॥ ३.९२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> utkarṣa ekas te 'śītisahasrād yāvad āyuṣaḥ /
->
-> iti loko vivṛtto 'yaṃ kalpāṃs tiṣṭhati viṃśatim // 3.92 //
+```text
+utkarṣa ekas te 'śītisahasrād yāvad āyuṣaḥ /
+iti loko vivṛtto 'yaṃ kalpāṃs tiṣṭhati viṃśatim // 3.92 //
+```
 
 The first line remains highly compressed in the metrical witness. Its meaning
 is secured by the Bhāṣya: the twentieth intermediate kalpa consists of one
@@ -76,23 +78,15 @@ iti
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > There is one final increase, up to a lifespan of 80,000 years. Thus this
 > expanded World stands for twenty kalpas.
 
 ### Bhāṣya-informed study translation
 
-> A final one-way increase carries human lifespan from ten years to the fixed
-> upper bound of 80,000. With that twentieth intermediate kalpa, the sequence
-> is complete: the fully expanded World remains standing for twenty
-> intermediate kalpas. The Bhāṣya further states that expansion, expanded
-> standing, contraction, and contracted standing each occupy the same duration
-> of twenty intermediate kalpas, though their internal processes differ.
-
-The ten-year starting point, equality of all intermediate-kalpa durations,
-fourfold equality of the major World-phases, and internal distribution of
-formation and contraction are Bhāṣya determinations.
+> There is one final increase, bringing human lifespan to the fixed upper
+> limit of eighty thousand years. With that increase, the expanded World
+> stands for twenty intermediate kalpas.
 
 ## 6. Philosophical Translation
 
@@ -220,6 +214,10 @@ E₁.process = E₂.process = E₃.process = E₄.process
 Temporal commensurability is therefore weaker than identity of determination.
 
 ## 9. Interpretive Note
+
+**Translation note.** The ten-year starting point, equality of all intermediate-kalpa durations,
+fourfold equality of the major World-phases, and internal distribution of
+formation and contraction are Bhāṣya determinations. The Bhāṣya states that expansion, expanded standing, contraction, and contracted standing each occupy twenty intermediate kalpas; the internal processes differ though their durations are equal.
 
 Your determination that `vijñānas` are Sattvic temporal enclosures gives the
 micro-level form of what this verse displays cosmically.

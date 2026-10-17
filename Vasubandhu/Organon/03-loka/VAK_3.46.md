@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अपामेकादशोद्वेधं सहस्राणि च विंशतिः ।
->
-> अष्टलक्षौच्छ्रयं पश्चाच्छेषं भवति काञ्चनम् ॥ ३.४६ ॥
+```sanskrit
+अपामेकादशोद्वेधं सहस्राणि च विंशतिः ।
+अष्टलक्षौच्छ्रयं पश्चाच्छेषं भवति काञ्चनम् ॥ ३.४६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> apām ekādaśodvedhaṃ sahasrāṇi ca viṃśatiḥ /
->
-> aṣṭalakṣaucchrayaṃ paścāc cheṣaṃ bhavati kāñcanam // 3.46 //
+```text
+apām ekādaśodvedhaṃ sahasrāṇi ca viṃśatiḥ /
+aṣṭalakṣaucchrayaṃ paścāc cheṣaṃ bhavati kāñcanam // 3.46 //
+```
 
 ## 3. Lexical Analysis
 
@@ -63,22 +65,15 @@ remainder.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The water[-maṇḍala] has a vertical extent of eleven hundred-thousands and
 > twenty thousand. Afterwards, to a height of eight hundred-thousands, [it]
 > becomes gold, with a remainder.
 
 ### Bhāṣya-informed study translation
 
-> Above the wind-maṇḍala forms a water-maṇḍala 1,120,000 yojanas deep. Winds
-> generated through the karmic efficacy of beings turn its waters, and the
-> upper 800,000 yojanas become golden earth, like the skin that forms upon
-> cooked milk. A water layer 320,000 yojanas deep remains beneath it.
-
-The location above the wind-maṇḍala, formation by clouds and rain, karmically
-generated winds, milk-skin analogy, and exact division between gold and
-remaining water are Bhāṣya determinations.
+> The water-maṇḍala is 1,120,000 [yojanas] deep; later, the upper 800,000
+> become gold, with water remaining below.
 
 ## 6. Philosophical Translation
 
@@ -180,6 +175,13 @@ The arithmetic gives `śeṣa` an exact structural meaning. Transformation
 changes the determination of a portion without erasing the measured whole.
 
 ## 9. Interpretive Note
+
+**Translation note.** Above the wind-maṇḍala, a water-maṇḍala forms 1,120,000
+yojanas deep. Winds produced through beings’ karma turn its waters; the upper
+800,000 yojanas solidify as golden earth, like skin forming on cooked milk, leaving
+320,000 yojanas of water below. The location above the wind-maṇḍala, formation by
+clouds and rain, karmically generated winds, milk-skin analogy, and exact division
+between gold and remaining water are Bhāṣya determinations.
 
 At the project level, retain the distinction between collective karmic governance and the reported wind-containment account while tracing formation, maintenance, and transformation. This passage does not derive space itself from karma.
 

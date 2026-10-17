@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> स प्रतीत्यसमुत्पादो द्वादशाङ्गस्त्रिकाण्डकः ।
->
-> पूर्वापरान्तयोर्द्वे द्वे मध्येऽष्टौ परिपूरिणः ॥ ३.२० ॥
+```sanskrit
+स प्रतीत्यसमुत्पादो द्वादशाङ्गस्त्रिकाण्डकः ।
+पूर्वापरान्तयोर्द्वे द्वे मध्येऽष्टौ परिपूरिणः ॥ ३.२० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sa pratītyasamutpādo dvādaśāṅgas trikāṇḍakaḥ /
->
-> pūrvāparāntayor dve dve madhye 'ṣṭau paripūriṇaḥ // 3.20 //
+```text
+sa pratītyasamutpādo dvādaśāṅgas trikāṇḍakaḥ /
+pūrvāparāntayor dve dve madhye 'ṣṭau paripūriṇaḥ // 3.20 //
+```
 
 ## 3. Lexical Analysis
 
@@ -54,18 +56,16 @@ three sections as past, future, and present births.
 
 ## 5. Translation
 
-### Close syntactic rendering
-
+### Literal Translation
 > That conditioned arising is twelve-membered and three-sectioned: two at
 > each of the prior and subsequent limits, and eight in the middle for one
 > who completes the course.
 
 ### Bhāṣya-informed study translation
 
-> The Base-continuum already described across three births is the
-> conditioned arising, articulated in twelve members and three sections:
-> two at each of the past and future limits, and eight in the present course
-> of one who completes all successive states.
+> That conditioned arising is twelve-membered and three-sectioned: two
+> members at each of the prior and later limits, and eight in the middle for
+> one who completes [the course].
 
 ## 6. Philosophical Translation
 
@@ -113,7 +113,7 @@ to one who encounters all its successive states.
 
 ## 9. Interpretive Note
 
-The past, present, and future sections are temporal divisions, not the
+**Translation note.** The past, present, and future sections are temporal divisions, not the
 three BEP projections. The Bhāṣya's “person” marks the scope of the complete
 course, not a separate traveler. It excludes one who dies in the interval
 and those in the Form or Formless Realms. The verse names Discriminative

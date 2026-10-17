@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> बुद्धत्वमपकर्षे हि शताद्यावत्तदुद्भवः ।
->
-> द्वयोः प्रत्येकबुद्धानां खड्गः कल्पशतान्वयः ॥ ३.९४ ॥
+```sanskrit
+बुद्धत्वमपकर्षे हि शताद्यावत्तदुद्भवः ।
+द्वयोः प्रत्येकबुद्धानां खड्गः कल्पशतान्वयः ॥ ३.९४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> buddhatvam apakarṣe hi śatād yāvat tadudbhavaḥ /
->
-> dvayoḥ pratyekabuddhānāṃ khaḍgaḥ kalpaśatānvayaḥ // 3.94 //
+```text
+buddhatvam apakarṣe hi śatād yāvat tadudbhavaḥ /
+dvayoḥ pratyekabuddhānāṃ khaḍgaḥ kalpaśatānvayaḥ // 3.94 //
+```
 
 The Bhāṣya fixes two compressions in the verse: the interval for the arising
 of a Buddha extends through the declining phase from below an eighty-thousand-
@@ -80,23 +82,17 @@ The identification of those kalpas as mahākalpas and of their content as
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Buddhahood indeed [arises] during decline; its arising extends as far as
 > the hundred [year lifespan]. Pratyekabuddhas [arise] in both [phases]; the
 > rhinoceros-like solitary one is connected with a hundred kalpas.
 
 ### Bhāṣya-informed study translation
 
-> A Buddha arises only during the decrease of human lifespan: after the
-> lifespan has begun to fall below eighty thousand years and before it falls
-> below one hundred. Pratyekabuddhas may arise during either increase or
-> decrease. Of their two kinds, the rhinoceros-horn-like solitary type is
-> preceded by a preparatory accumulation for awakening extending through one
-> hundred mahākalpas.
-
-The precise upper bound, the two Pratyekabuddha types, and the interpretation
-of the hundred mahākalpas as preparation for awakening come from the Bhāṣya.
+> Buddhas arise during decline, while lifespan falls from eighty thousand
+> toward one hundred years. Pratyekabuddhas arise in both increase and
+> decline; the rhinoceros-horn solitary type is associated with a hundred
+> kalpas.
 
 ## 6. Philosophical Translation
 
@@ -195,6 +191,9 @@ communicating profound Dharma.
 continuity of cultivation, not merely elapsed cosmic time.
 
 ## 9. Interpretive Note
+
+**Translation note.** The precise upper bound, the two Pratyekabuddha types, and the interpretation
+of the hundred mahākalpas as preparation for awakening come from the Bhāṣya. The Bhāṣya fixes the Buddha's range below eighty thousand but not below one hundred years, distinguishes two kinds of Pratyekabuddha, and reads the hundred kalpas as preparatory accumulation for the rhinoceros-horn type.
 
 This verse gives an exact transition from **temporal enclosure** to
 **Practical Reason**. The mahākalpa machinery of 3.93 is no longer simply a

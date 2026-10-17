@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> मेरुमूर्ध्नि त्रयस्त्रिंशाः स चाशीतीसहस्रदिक् ।
->
-> विदिक्षु कूटाश्चत्वार उषिता वज्रपाणिभिः ॥ ३.६५ ॥
+```sanskrit
+मेरुमूर्ध्नि त्रयस्त्रिंशाः स चाशीतीसहस्रदिक् ।
+विदिक्षु कूटाश्चत्वार उषिता वज्रपाणिभिः ॥ ३.६५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> merumūrdhni trayastriṃśāḥ sa cāśītisahasradik /
->
-> vidikṣu kūṭāś catvāra uṣitā vajrapāṇibhiḥ // 3.65 //
+```text
+merumūrdhni trayastriṃśāḥ sa cāśītisahasradik /
+vidikṣu kūṭāś catvāra uṣitā vajrapāṇibhiḥ // 3.65 //
+```
 
 ## 3. Lexical Analysis
 
@@ -67,24 +69,15 @@ the summit and gives each projecting peak a measure of 500 yojanas.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > On Meru's summit are the Trāyastriṃśas, and it has an eighty-thousand extent
 > toward the directions. In the intermediate directions are four peaks
 > inhabited by Vajrapāṇis.
 
 ### Bhāṣya-informed study translation
 
-> The Trāyastriṃśa gods inhabit Meru's summit. On the principal explanation,
-> each side of the summit measures 80,000 yojanas, as does the corresponding
-> measure below. According to another opinion, each of its four sides measures
-> 20,000, making 80,000 around the whole circumference. At the summit's four
-> corners rise four peaks, each measuring 500 yojanas, inhabited by yakṣas
-> called Vajrapāṇis.
-
-The competing interpretations of the summit measure, the identification of
-`vidiś` with corner, the 500-yojana peak measure, and the classification of
-the Vajrapāṇis as yakṣas are Bhāṣya determinations.
+> The Trāyastriṃśas dwell atop Meru, whose side measures 80,000 yojanas;
+> at its four corners are peaks inhabited by Vajrapāṇis.
 
 ## 6. Philosophical Translation
 
@@ -190,6 +183,10 @@ The two interpretations should be stored with provenance rather than merged
 into one falsely definite geometry.
 
 ## 9. Interpretive Note
+
+**Translation note.** The competing interpretations of the summit measure, the identification of
+`vidiś` with corner, the 500-yojana peak measure, and the classification of
+the Vajrapāṇis as yakṣas are Bhāṣya determinations.
 
 The movement across 3.63–3.65 is systematic:
 

@@ -2,26 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-apām ekādaśodvedhaṃ sahasrāṇi ca viṃśatiḥ /
-aṣṭalakṣaucchrayaṃ paścāc cheṣaṃ bhavati kāñcanam // 3.46 //
-```
+> apām ekādaśodvedhaṃ sahasrāṇi ca viṃśatiḥ /
+> aṣṭalakṣaucchrayaṃ paścāc cheṣaṃ bhavati kāñcanam // 3.46 //
 
-> The water-maṇḍala has a vertical extent of eleven hundred-thousand plus
-> twenty thousand yojanas. Afterwards, eight hundred-thousand yojanas of it
-> become gold, leaving a remainder.
+> The water-maṇḍala is 1,120,000 [yojanas] deep; later, the upper 800,000
+> become gold, with water remaining below.
 
 The Bhāṣya supplies the formation of the waters, asks why they do not disperse
 laterally, preserves two explanatory positions, and resolves the compressed
 arithmetic: 800,000 yojanas become golden earth and 320,000 yojanas of water
 remain.
-
-### Bhāṣya-informed study translation
-
-> Above the wind-maṇḍala forms a water-maṇḍala 1,120,000 yojanas deep. Winds
-> generated through the karmic efficacy of beings turn its waters, and the
-> upper 800,000 yojanas become golden earth, like the skin that forms upon
-> cooked milk. A water layer 320,000 yojanas deep remains beneath it.
 
 The location above the wind-maṇḍala, formation by clouds and rain, karmically
 generated winds, milk-skin analogy, and exact division between gold and
@@ -58,8 +48,7 @@ continuous text makes provisional spacing and sandhi repairs sufficient for
 readability; it is not offered as a critical edition. The exact form of
 `pakvakṣīraśarībhāva` especially requires control against other witnesses.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Above it, the water-maṇḍala has a vertical extent of eleven
 hundred-thousand plus twenty thousand yojanas. The word “maṇḍala” is carried
 forward from the preceding verse.

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> क्लेशास्त्रीणि द्वयं कर्म सप्त वस्तु फलं तथा ।
->
-> फलहेत्वभिसंक्षेपो द्वयोर्मध्यानुमानतः ॥ ३.२६ ॥
+```sanskrit
+क्लेशास्त्रीणि द्वयं कर्म सप्त वस्तु फलं तथा ।
+फलहेत्वभिसंक्षेपो द्वयोर्मध्यानुमानतः ॥ ३.२६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kleśās trīṇi dvayaṃ karma sapta vastu phalaṃ tathā /
->
-> phalahetvabhisaṃkṣepo dvayor madhyānumānataḥ // 3.26 //
+```text
+kleśās trīṇi dvayaṃ karma sapta vastu phalaṃ tathā /
+phalahetvabhisaṃkṣepo dvayor madhyānumānataḥ // 3.26 //
+```
 
 ## 3. Lexical Analysis
 
@@ -68,25 +70,16 @@ middle.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Three are afflictions, two are karma, and seven have the nature of Vastu
 > (Thing or basis) and likewise of result. Cause and result are compressed
 > at the two limits because they can be inferred from the middle.
 
 ### Bhāṣya-informed study translation
 
-> Ignorance, Craving, and Appropriation have the functional nature of
-> **affliction**; formations and becoming have the functional nature of
-> **karma**. Discriminative Cognition, Name-and-Form, the six Essences,
-> Contact, Feeling, Birth, and Aging-and-Death are seven members with the
-> nature of **Vastu** (Thing or basis): the Bhāṣya explains that they support
-> affliction and karma. Those same seven are **results** of prior causes. The
-> past cause and future result are presented compactly because their expanded
-> structures can be inferred from the fully articulated present middle.
-
-The member-assignments, the `āśraya` function of `vastu`, and the reason for
-compression are Bhāṣya determinations.
+> Three [members] are afflictions, two are karma, and seven have the nature
+> of Vastu and likewise of result. Cause and result are compressed at the
+> two limits, inferred from the middle.
 
 ## 6. Philosophical Translation
 
@@ -236,6 +229,9 @@ The Truth of Ground–Condition is therefore expressed through hypothetical
 inference, while `madhyānumāna` supplies its empirical footing.
 
 ## 9. Interpretive Note
+
+**Translation note.** The member-assignments, the `āśraya` function of `vastu`, and the reason for
+compression are Bhāṣya determinations.
 
 In the Organon's Ground–Condition reading, the middle is both a present
 result that supports renewed causes and the evidential basis for inferring

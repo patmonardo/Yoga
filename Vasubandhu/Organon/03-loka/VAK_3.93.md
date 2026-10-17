@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विवर्ततेऽथ संवृत्त आस्ते संवर्तते समम् ।
->
-> ते ह्यशीतिर्महाकल्पस्तदसंख्यत्रयोद्भवम् ॥ ३.९३ ॥
+```sanskrit
+विवर्ततेऽथ संवृत्त आस्ते संवर्तते समम् ।
+ते ह्यशीतिर्महाकल्पस्तदसंख्यत्रयोद्भवम् ॥ ३.९३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vivartate 'tha saṃvṛtta āste saṃvartate samam /
->
-> te hy aśītir mahākalpas tad asaṃkhyatrayodbhavam // 3.93 //
+```text
+vivartate 'tha saṃvṛtta āste saṃvartate samam /
+te hy aśītir mahākalpas tad asaṃkhyatrayodbhavam // 3.93 //
+```
 
 The first line completes the sentence begun in the Bhāṣya immediately after
 3.92: the duration for which the World stands expanded is also the duration
@@ -89,25 +91,16 @@ tat-[mahākalpa]-asaṃkhya-trayāt
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > It expands; then it stands contracted and contracts—for an equal duration.
 > Those [four groups of twenty] are eighty, one mahākalpa; from three
 > `asaṃkhyeyas` of those arises [buddhahood].
 
 ### Bhāṣya-informed study translation
 
-> Expansion, standing while expanded, contraction, and standing while
-> contracted each last twenty intermediate kalpas. These four equal temporal
-> enclosures total eighty intermediate kalpas, which constitute one
-> mahākalpa. The mahākalpa is the unit used in the three-`asaṃkhyeya`
-> accumulation through which buddhahood is attained. Here `asaṃkhyeya` is an
-> enormous determinate number reached at the sixtieth place in a conventional
-> numerical series, after which counting recommences.
-
-The complete four-phase construe, the five-Base nature of kalpa,
-identification of the relevant unit as mahākalpa, and sixty-place meaning of
-`asaṃkhyeya` are Bhāṣya determinations.
+> Expansion, expanded standing, contraction, and contracted standing each last
+> equally: together they make eighty intermediate kalpas, one mahākalpa.
+> Buddhahood arises through three such `asaṃkhyeya` accumulations.
 
 ## 6. Philosophical Translation
 
@@ -261,6 +254,10 @@ The verse therefore connects the exact World-cycle measure with the duration
 of bodhisattva cultivation without collapsing cosmology into path attainment.
 
 ## 9. Interpretive Note
+
+**Translation note.** The complete four-phase construe, the five-Base nature of kalpa,
+identification of the relevant unit as mahākalpa, and sixty-place meaning of
+`asaṃkhyeya` are Bhāṣya determinations. The Bhāṣya construes the four equal phases as eighty intermediate kalpas and one mahākalpa; `asaṃkhyeya` here is the conventional enormous number at the sixtieth place, after which counting recommences.
 
 The Bhāṣya's `pañcaskandhasvabhāva` gives extraordinary support to the
 Enclosure analysis. Temporal enclosure is not a void surrounding an externally

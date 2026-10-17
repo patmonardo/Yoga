@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> ऊर्ध्वं सप्तदशस्थानो रूपधातुः पृथक् पृथक् ।
->
-> ध्यानं त्रिभूमिकं तत्र चतुर्थं त्वष्टभूमिकम् ॥ ३.२ ॥
+```sanskrit
+ऊर्ध्वं सप्तदशस्थानो रूपधातुः पृथक् पृथक् ।
+ध्यानं त्रिभूमिकं तत्र चतुर्थं त्वष्टभूमिकम् ॥ ३.२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ūrdhvaṃ saptadaśasthāno rūpadhātuḥ pṛthak pṛthak /
->
-> dhyānaṃ tribhūmikaṃ tatra caturthaṃ tvaṣṭabhūmikam // 3.2 //
+```text
+ūrdhvaṃ saptadaśasthāno rūpadhātuḥ pṛthak pṛthak /
+dhyānaṃ tribhūmikaṃ tatra caturthaṃ tvaṣṭabhūmikam // 3.2 //
+```
 
 ## 3. Lexical Analysis
 
@@ -72,21 +74,15 @@ adjudicating it.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Above, the Form Realm has seventeen stations. There, each [of the first
 > three] dhyānas has three levels, but the fourth has eight levels.
 
 ### Bhāṣya-informed study translation
 
 > Above the Desire Realm lies the Form Realm, comprising seventeen stations.
-> Its first three dhyānas each comprise three levels, while the fourth
-> comprises eight. The Kāśmīras instead count sixteen, treating Mahābrahmā as
-> an elevated station but not as a distinct ground.
-
-“Above the Desire Realm,” “the first three,” and the sixteenfold alternative
-are Bhāṣya determinations. The Kārikā itself states “above,” seventeen
-stations, the distributive three-level rule, and the eight-level exception.
+> Its first three dhyānas each have three levels, while the fourth has
+> eight.
 
 ## 6. Philosophical Translation
 
@@ -189,6 +185,10 @@ ground on which position depends rather than treating every named rank as a
 new ontological level.
 
 ## 9. Interpretive Note
+
+**Translation note.** “Above the Desire Realm,” “the first three,” and the sixteenfold alternative
+are Bhāṣya determinations. The Kārikā itself states “above,” seventeen
+stations, the distributive three-level rule, and the eight-level exception.
 
 This verse makes the scale of Loka-nirdeśa unmistakable. We are not receiving
 a parade of gods detached from philosophical necessity. We are receiving a

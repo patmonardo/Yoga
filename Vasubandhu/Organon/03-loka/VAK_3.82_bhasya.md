@@ -2,29 +2,18 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kāmadevāyuṣā tulyā ahorātrā yathākramam /
-saṃjīvādiṣu ṣaṭsv āyus tais teṣāṃ kāmadevavat // 3.82 //
-```
+> kāmadevāyuṣā tulyā ahorātrā yathākramam /
+> saṃjīvādiṣu ṣaṭsv āyus tais teṣāṃ kāmadevavat // 3.82 //
 
-> In the six hells beginning with Saṃjīva, day-and-nights correspond in order
-> to the lifespans of the desire-realm devas; by those units, the hell-beings'
-> lifespans follow the same numerical counts.
-
-### Bhāṣya-informed study translation
-
-> For each of the first six hot hells, the entire lifespan of the corresponding
-> desire-realm deva class constitutes one hell day-and-night. Using that
-> enlarged day-night to construct the local calendar, the hell lifespan has
-> the same numerical number of years as the matched deva lifespan: 500 years
-> in Saṃjīva, 1,000 in Kālasūtra, 2,000 in Saṃghāta, 4,000 in Raurava, 8,000 in
-> Mahāraurava, and 16,000 in Tāpana.
+> In the six hells beginning with Saṃjīva, the day-and-nights correspond
+> respectively to the lifespans of the desire-realm devas; reckoned by those
+> units, the inhabitants' lifespans correspond to those of the devas.
 
 The names and ordering of the six hells, the exact pairings, and the
 restriction of `kāmadevavat` to numerical year-count are Bhāṣya
 determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Durgatā idānīṃ vaktavyāḥ. Tatra tāvat:
@@ -62,7 +51,7 @@ Spacing and sandhi have been regularized. In the hell list, `Tāpane` is the
 locative name of the sixth hell, Tāpana; the source's joined spelling is
 preserved in sense, not treated as a different class.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 Now the unfortunate destinies are to be explained. First, in the six hells
 beginning with Saṃjīva, day-and-night units correspond in order to the
 lifespans of the six classes of desire-realm devas.
@@ -75,7 +64,7 @@ the lifespan there is one thousand years. The same calculation applies
 accordingly to the others: the lifespan of a Paranirmitavaśavartin is one
 day-and-night in Tāpana, where the lifespan is sixteen thousand years.
 
-## Natural Movement
+## 4. Natural Movement
 
 The Bhāṣya pairs the first six hot hells, in order, with the six
 desire-realm deva classes. It then explains `kāmadevavat` through examples:
@@ -83,7 +72,7 @@ the matched deva lifespan becomes one hell day-and-night, and the hell
 lifespan, counted in years built from that unit, takes the same numerical
 year-count as the corresponding deva lifespan.
 
-## Ordered Correspondence
+## 5. Ordered Correspondence
 
 | Desire-realm deva | Corresponding hell | One hell day-and-night equals | Hell lifespan |
 |---|---|---|---:|
@@ -104,7 +93,7 @@ There are two related but distinct determinations:
 The temporal units are therefore not simply identical across the two realms;
 the deva duration is used to define a hell day-and-night.
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 The Bhāṣya presents the six hells as having an ordered temporal structure
 correlated with the six desire-realm deva classes. A deva lifespan is
@@ -112,13 +101,13 @@ compressed into one hell day-and-night; the same numerical lifespan count is
 then assigned to the hell-years. Keep the day-unit conversion distinct from
 the matching lifespan count.
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: a temporal unit in one conditioned domain can define the
 day-and-night scale of another. This is a project-level observation, not
 Vasubandhu's technical terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[174|20]` through `[175|03-175|04]` of the
   running witness.

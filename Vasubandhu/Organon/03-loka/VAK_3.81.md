@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> आरूप्ये विंशतिः कल्पसहस्राण्यधिकाधिकम् ।
->
-> महाकल्पः परीत्ताभात् प्रभृत्यर्धमधस्ततः ॥ ३.८१ ॥
+```sanskrit
+आरूप्ये विंशतिः कल्पसहस्राण्यधिकाधिकम् ।
+महाकल्पः परीत्ताभात् प्रभृत्यर्धमधस्ततः ॥ ३.८१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ārūpye viṃśatiḥ kalpasahasrāṇy adhikādhikam /
->
-> mahākalpaḥ parīttābhāt prabhṛty ardham adhas tataḥ // 3.81 //
+```text
+ārūpye viṃśatiḥ kalpasahasrāṇy adhikādhikam /
+mahākalpaḥ parīttābhāt prabhṛty ardham adhas tataḥ // 3.81 //
+```
 
 The second line follows the reading confirmed by the Bhāṣya citation and
 exposition. It resolves the corrupted compression in the immediate metrical
@@ -73,24 +75,16 @@ same division.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > In the formless realm, lifespan is twenty thousand kalpas, successively
 > increasing by that amount. Beginning with Parīttābha, the kalpa is a
 > mahākalpa; below that, it is half.
 
 ### Bhāṣya-informed study translation
 
-> Lifespans in the four formless stations are respectively 20,000 kalpas in
-> the Essence of Infinite Space, 40,000 in the Essence of Infinite Cognition,
-> 60,000 in the Essence of Nothingness, and 80,000 at the Summit of Existence.
-> In these lifespan calculations, `kalpa` means a full mahākalpa from the
-> Parīttābha class upward; below Parīttābha, half a mahākalpa is conventionally
-> counted as one kalpa.
-
-The names and exact distribution of the four formless stations, the explicit
-question about which kind of kalpa is intended, and the conventional status
-of the lower unit are Bhāṣya determinations.
+> In the formless realm, lifespan increases successively by twenty thousand
+> kalpas. From Parīttābha upward, a kalpa is a great kalpa; below that, it is
+> half a great kalpa.
 
 ## 6. Philosophical Translation
 
@@ -203,6 +197,10 @@ The verse thereby separates the recurrence governing the number from the
 scope rule governing the unit.
 
 ## 9. Interpretive Note
+
+**Translation note.** The names and exact distribution of the four formless stations, the explicit
+question about which kind of kalpa is intended, and the conventional status
+of the lower unit are Bhāṣya determinations. The four formless stations have lifespans of 20,000, 40,000, 60,000, and 80,000 kalpas respectively. Below Parīttābha, half a mahākalpa is conventionally counted as one kalpa.
 
 VAK 3.81 exposes a principle already latent in the previous temporal verses:
 a measure is not a number with a decorative label. It is a semantic pair whose

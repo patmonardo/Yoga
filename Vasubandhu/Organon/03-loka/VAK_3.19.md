@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> यथाक्षेपं क्रमाद्वृद्धः सन्तानः क्लेशकर्मभिः ।
->
-> परलोकं पुनर्याति इत्यनादिभवचक्रकम् ॥ ३.१९ ॥
+```sanskrit
+यथाक्षेपं क्रमाद्वृद्धः सन्तानः क्लेशकर्मभिः ।
+परलोकं पुनर्याति इत्यनादिभवचक्रकम् ॥ ३.१९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> yathākṣepaṃ kramād vṛddhaḥ santānaḥ kleśakarmabhiḥ /
->
-> paralokaṃ punar yāti ity anādibhavacakrakam // 3.19 //
+```text
+yathākṣepaṃ kramād vṛddhaḥ santānaḥ kleśakarmabhiḥ /
+paralokaṃ punar yāti ity anādibhavacakrakam // 3.19 //
+```
 
 ## 3. Lexical Analysis
 
@@ -72,23 +74,16 @@ its causes.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The continuum, developed in sequence according to its projection, goes
 > again to another world through afflictions and karmic actions. Thus is the
 > beginningless wheel of becoming.
 
 ### Bhāṣya-informed study translation
 
-> The projected continuum develops through ordered embryonic and embodied
-> stages. As its faculties mature, afflictions become active again and further
-> karma accumulates; after death it passes, as before, through intermediate
-> continuity to another world. Birth produces conditions for renewed
-> affliction and action, and these produce birth again: this is the
-> beginningless—but causally terminable—wheel of becoming.
-
-Embryonic development, faculty-maturation, renewed causal accumulation, and
-termination through cause-exhaustion are Bhāṣya determinations.
+> The continuum, developed in sequence according to its projection, again
+> goes to another world through afflictions and karma; this is the
+> beginningless wheel of becoming.
 
 ## 6. Philosophical Translation
 
@@ -108,7 +103,7 @@ termination through cause-exhaustion are Bhāṣya determinations.
 | krama | ordered sequence | gradual developmental order rather than instantaneous completed embodiment |
 | santāna | continuum / serial continuity | causally ordered series of developing phases |
 | vṛddha | developed / grown | maturation through embryonic and embodied stages |
-| kleśa | affliction | becomes active again as faculties mature and helps reproduce the wheel |
+| kleśa | affliction | becomes active again as Faculties mature and helps reproduce the wheel |
 | karma | karmic action | accumulates anew during embodied life and conditions further birth |
 | paraloka | another world | subsequent world-position reached after death and intermediate continuity |
 | anādi | beginningless | no causeless first member is admitted within the conditioned series |
@@ -118,8 +113,8 @@ termination through cause-exhaustion are Bhāṣya determinations.
 | arbuda | second embryonic stage | development following `kalala` |
 | peśī | third embryonic stage | development following `arbuda` |
 | ghana | fourth embryonic stage | compact stage following `peśī` |
-| praśākhā | branching stage | development of limbs and subsequently hair, nails, faculties, and marks |
-| indriya-paripāka | maturation of faculties | condition for renewed activation of affliction |
+| praśākhā | branching stage | development of limbs and subsequently hair, nails, Faculties, and marks |
+| indriya-paripāka | maturation of Faculties | condition for renewed activation of affliction |
 | karma-upacaya | accumulation of karma | regenerated projective capacity during embodied life |
 | nirhetuka-prādurbhāva | causeless arising | unacceptable consequence of positing an absolute first birth |
 | hetu-kṣaya | exhaustion of causes | ground for the possible end of the wheel |
@@ -143,7 +138,7 @@ kalala
     → peśī
     → ghana
     → praśākhā
-    → differentiated bodily features and faculties
+    → differentiated bodily features and Faculties
 ```
 
 Karmically matured bodily conditions then orient the fetus toward birth. The
@@ -160,7 +155,7 @@ previous kleśa + karma
     → intermediate existence
     → birth
     → ordered growth
-    → maturation of faculties
+    → maturation of Faculties
     → renewed kleśa
     → accumulation of new karma
     → death
@@ -224,9 +219,12 @@ saṃsāra is beginningless
 
 ## 9. Interpretive Note
 
+**Translation note.** Embryonic development, Faculty-maturation, renewed causal accumulation, and
+termination through cause-exhaustion are Bhāṣya determinations.
+
 VAK 3.19 closes the first great World-System movement. The spectacular Middle
 World of karmic flight, distorted appearance, clarified womb-entry, and subtle
-transition now descends into embryology, growth, mature faculties, renewed
+transition now descends into embryology, growth, mature Faculties, renewed
 affliction, action, death, and another passage through the Middle.
 
 ```text
@@ -249,7 +247,7 @@ The recursive structure is:
 karma and affliction
     → projected rebirth
     → embryonic and embodied development
-    → maturation of faculties
+    → maturation of Faculties
     → renewed affliction and karma
     → death and intermediate existence
     → another birth

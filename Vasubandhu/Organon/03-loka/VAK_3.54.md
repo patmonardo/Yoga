@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सार्धत्रियोजनं त्वेकं प्राग्विदेहोऽर्धचन्द्रवत् ।
->
-> पार्श्वत्रयं तथास्यैकं सार्धं त्रिशतयोजनम् ॥ ३.५४ ॥
+```sanskrit
+सार्धत्रियोजनं त्वेकं प्राग्विदेहोऽर्धचन्द्रवत् ।
+पार्श्वत्रयं तथास्यैकं सार्धं त्रिशतयोजनम् ॥ ३.५४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sārdhatriyojanaṃ tv ekaṃ prāgvideho 'rdhacandravat /
->
-> pārśvatrayaṃ tathāsyaikaṃ sārdhaṃ triśatayojanam // 3.54 //
+```text
+sārdhatriyojanaṃ tv ekaṃ prāgvideho 'rdhacandravat /
+pārśvatrayaṃ tathāsyaikaṃ sārdhaṃ triśatayojanam // 3.54 //
+```
 
 ## 3. Lexical Analysis
 
@@ -65,22 +67,16 @@ sides. The Bhāṣya makes both ellipses explicit.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Its one [remaining side], however, is three and one-half yojanas. Prāgvideha
 > is like a half-moon. Its three sides are likewise [two thousand each]; one
 > [side] is three hundred and fifty yojanas.
 
 ### Bhāṣya-informed study translation
 
-> Jambūdvīpa is cart-shaped because, while three sides measure 2,000 yojanas,
-> its fourth side measures only 3.5. East of Sumeru lies Prāgvideha, formed like
-> a half-moon. Three of its sides likewise measure 2,000 yojanas each, while
-> its fourth side measures 350.
-
-The referent of the opening clause, causal relation between the exceptional
-side and cart shape, eastern placement, inherited 2,000-yojana measure, and
-formation language are Bhāṣya determinations.
+> One side of Jambūdvīpa is only 3½ yojanas. Prāgvideha is like a half-
+> moon: three sides likewise measure 2,000 yojanas each, and its remaining
+> side measures 350.
 
 ## 6. Philosophical Translation
 
@@ -171,6 +167,10 @@ Canonical sequence supplies the missing subject and prevents a syntactically
 possible but doctrinally incorrect attachment.
 
 ## 9. Interpretive Note
+
+**Translation note.** The referent of the opening clause, causal relation between the exceptional
+side and cart shape, eastern placement, inherited 2,000-yojana measure, and
+formation language are Bhāṣya determinations.
 
 VAK 3.54 gives a clean method for deriving types: preserve a common schema,
 vary a discriminating field, and classify the resulting whole by form.

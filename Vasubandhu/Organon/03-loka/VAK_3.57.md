@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> इहोत्तरेण कीटाद्रिनवकाद्धिमवांस्ततः ।
->
-> पञ्चाशद्विस्तृतायामं सरोऽर्वाग्गन्धमादनात् ॥ ३.५७ ॥
+```sanskrit
+इहोत्तरेण कीटाद्रिनवकाद्धिमवांस्ततः ।
+पञ्चाशद्विस्तृतायामं सरोऽर्वाग्गन्धमादनात् ॥ ३.५७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ihottareṇa kīṭādrinavakād dhimavāṃs tataḥ /
->
-> pañcāśadvistṛtāyāmaṃ saro 'rvāg gandhamādanāt // 3.57 //
+```text
+ihottareṇa kīṭādrinavakād dhimavāṃs tataḥ /
+pañcāśadvistṛtāyāmaṃ saro 'rvāg gandhamādanāt // 3.57 //
+```
 
 ## 3. Lexical Analysis
 
@@ -59,25 +61,15 @@ Anavatapta.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Here, northward beyond the group of nine Kīṭa mountains, is Himavān. Beyond
 > it, on this side of Gandhamādana, is a lake fifty [yojanas] in breadth and
 > length.
 
 ### Bhāṣya-informed study translation
 
-> Within Jambūdvīpa, proceeding north across three groups of three black or
-> Kīṭa mountains, one reaches Himavān. Beyond Himavān but before Gandhamādana
-> lies Lake Anavatapta, fifty yojanas wide and fifty long. Its water possesses
-> eight qualities, and four rivers—the Gaṅgā, Sindhu, Śītā, and Vakṣu—flow from
-> it. Humans lacking extraordinary power cannot readily reach it. Nearby grows
-> the sweet-fruited Jambū tree, from which Jambūdvīpa is named—or, according to
-> an alternative explanation, from its fruit.
-
-The three-by-three grouping, name and qualities of the lake, river list,
-accessibility condition, Jambū tree, and two naming explanations are Bhāṣya
-determinations.
+> North of here, beyond the nine Kīṭa mountains, lies Himavān; before
+> Gandhamādana is Lake Anavatapta, fifty yojanas in width and length.
 
 ## 6. Philosophical Translation
 
@@ -169,6 +161,10 @@ accounts agree on the semantic family while differing over whether the tree or
 its fruit is the immediate naming-ground.
 
 ## 9. Interpretive Note
+
+**Translation note.** The three-by-three grouping, name and qualities of the lake, river list,
+accessibility condition, Jambū tree, and two naming explanations are Bhāṣya
+determinations.
 
 VAK 3.57 shifts from static regional morphology to an operational geography.
 A usable world-model must answer more than “what exists?” It must represent:

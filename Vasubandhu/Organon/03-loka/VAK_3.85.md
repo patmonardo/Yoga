@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कुरुबाह्योऽन्तरामृत्युः परमाण्वक्षरक्षणाः ।
->
-> रूपनामाध्वपर्यन्ताः परमाणुरणुस्तथा ॥ ३.८५ ॥
+```sanskrit
+कुरुबाह्योऽन्तरामृत्युः परमाण्वक्षरक्षणाः ।
+रूपनामाध्वपर्यन्ताः परमाणुरणुस्तथा ॥ ३.८५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kurubāhyo 'ntarāmṛtyuḥ paramāṇv-akṣara-kṣaṇāḥ /
->
-> rūpa-nāmādhva-paryantāḥ paramāṇur aṇus tathā // 3.85 //
+```text
+kurubāhyo 'ntarāmṛtyuḥ paramāṇv-akṣara-kṣaṇāḥ /
+rūpa-nāmādhva-paryantāḥ paramāṇur aṇus tathā // 3.85 //
+```
 
 ## 3. Lexical Analysis
 
@@ -73,8 +75,7 @@ This is a forward hinge, not a complete equation between `paramāṇu` and
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Outside Uttarakuru there is death before completion of the lifespan. The
 > ultimate atom, the letter, and the moment are respectively the limits of
 > form, name, and time. The ultimate atom, the aṇu, and likewise [form an
@@ -82,19 +83,9 @@ This is a forward hinge, not a complete equation between `paramāṇu` and
 
 ### Bhāṣya-informed study translation
 
-> Beings in Uttarakuru necessarily live out their fixed lifespan; outside it,
-> death before the allotted term is possible, though special classes are
-> exempt. At the opposite end of measurement, the ultimate atom is the limit
-> reached by diminishing form, the letter or syllabic unit is the limit of a
-> name-expression, and the moment is the limit of time. A moment is
-> operationally determined as the minimal duration in which, given complete
-> conditions, a dharma obtains its occurrence, or in which a moving dharma
-> traverses the interval from one ultimate atom to the next. The final words
-> begin the ascending material scale continued in 3.86.
-
-The universal Uttarakuru guarantee, special exemptions elsewhere, operational
-definitions of a moment, and attribution of sixty-five moments per finger-snap
-to the Abhidharmikas are Bhāṣya determinations.
+> Outside Uttarakuru, premature death occurs. The ultimate atom, letter, and
+> moment are the respective limits of Form, name, and time; the ultimate atom
+> and aṇu begin the succeeding measure-series.
 
 ## 6. Philosophical Translation
 
@@ -223,6 +214,10 @@ presented as though separately asserted in the kārikā.
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The universal Uttarakuru guarantee, special exemptions elsewhere, operational
+definitions of a moment, and attribution of sixty-five moments per finger-snap
+to the Abhidharmikas are Bhāṣya determinations. The Bhāṣya specifies special classes exempt from premature death, defines a moment as the least time for a dharma to obtain its occurrence or for a moving dharma to traverse one ultimate atom, and attributes sixty-five moments per finger-snap to the Abhidharmikas.
 
 VAK 3.85 gives the measurement system a genuine event semantics. A lifespan
 table states an available or fixed term; death is an event that may terminate

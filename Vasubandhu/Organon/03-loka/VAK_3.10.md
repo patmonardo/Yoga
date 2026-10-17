@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> मृत्यूपपत्तिभवयोरन्तरा भवतीह यः ।
->
-> गम्यदेशानुपेतत्वान्नोपपन्नोऽन्तराभवः ॥ ३.१० ॥
+```sanskrit
+मृत्यूपपत्तिभवयोरन्तरा भवतीह यः ।
+गम्यदेशानुपेतत्वान्नोपपन्नोऽन्तराभवः ॥ ३.१० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> mṛtyūpapattibhavayor antarā bhavatīha yaḥ /
->
-> gamyadeśānupetatvān nopapanno 'ntarābhavaḥ // 3.10 //
+```text
+mṛtyūpapattibhavayor antarā bhavatīha yaḥ /
+gamyadeśānupetatvān nopapanno 'ntarābhavaḥ // 3.10 //
+```
 
 ## 3. Lexical Analysis
 
@@ -65,22 +67,16 @@ the interval does not already count as arrival in the subsequent birth.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > That which exists here between death-existence and rebirth-existence, because
 > it has not reached the destination, is not yet reborn: it is intermediate
 > existence.
 
 ### Bhāṣya-informed study translation
 
-> Intermediate existence is the arisen sentient configuration between death
-> and rebirth, directed toward rebirth elsewhere but not yet arrived there. Its
-> destination is the locus in which the projected karmic result becomes
-> manifest and reaches completion.
-
-“Sentient configuration,” orientation toward another rebirth, and the
-definition of the destination through `vipāka` are Bhāṣya determinations. The
-Kārikā itself defines the interval by non-arrival.
+> Whatever arises here between death-existence and rebirth-existence is
+> intermediate existence. Because it has not reached its destination, it has
+> not yet arrived at rebirth.
 
 ## 6. Philosophical Translation
 
@@ -182,6 +178,10 @@ VAK 3.11 and must not be treated as already completed here.
 
 ## 9. Interpretive Note
 
+**Translation note.** “Sentient configuration,” orientation toward another rebirth, and the
+definition of the destination through `vipāka` are Bhāṣya determinations. The
+Kārikā itself defines the interval by non-arrival.
+
 VAK 3.10 gives the World System a transition protocol. Death, transit, and
 rebirth are distinguishable system-states, while the destination is specified
 by the manifestation and completion of projected `vipāka`. This is
@@ -208,20 +208,20 @@ exchanged. The text determines a directed continuity and its successive
 configurations.
 
 For the Rational Moral Agent, the decisive distinction is between an
-available position and an achieved cognition-station:
+available position and an achieved Cognition-station:
 
 ```text
 sthāna
     a locus that can be occupied
 
 vijñānasthiti
-    a lawful station of differentiated cognition
+    a lawful station of Cognition
 ```
 
 A physical refuge can alter the former without securing the latter. Within
 the World System, the operative result determines where a configuration can
 manifest and complete—not the Agent's declaration that some place is secure.
-Rudra's destabilization of a cognition-station remains our speculative
+Rudra's destabilization of a Cognition-station remains our speculative
 Siva-level reading; the Kārikā's textual machinery is `antarābhava`,
 `gamya-deśa`, and projected `vipāka`.
 

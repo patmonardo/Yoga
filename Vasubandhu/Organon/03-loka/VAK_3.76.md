@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> पादवृद्ध्या तनुर्यावत्सार्धक्रोशो दिवौकसाम् ।
->
-> कामिनां रूपिणां त्वादौ योजनार्धं ततः परम् ॥ ३.७६ ॥
+```sanskrit
+पादवृद्ध्या तनुर्यावत्सार्धक्रोशो दिवौकसाम् ।
+कामिनां रूपिणां त्वादौ योजनार्धं ततः परम् ॥ ३.७६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> pādavṛddhyā tanur yāvat sārdhakrośo divaukasām /
->
-> kāmināṃ rūpiṇāṃ tv ādau yojanārdhaṃ tataḥ param // 3.76 //
+```text
+pādavṛddhyā tanur yāvat sārdhakrośo divaukasām /
+kāmināṃ rūpiṇāṃ tv ādau yojanārdhaṃ tataḥ param // 3.76 //
+```
 
 The form `pādavṛddhyā` is adopted here: an increase by one quarter. It is the
 reading required by both the construction and the exact series supplied by
@@ -73,21 +75,15 @@ in VAK 3.77.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Among the desire-realm heaven-dwellers, bodily stature increases by a
 > quarter, up to one and one-half krośas. But for the form-realm devas, at the
 > beginning it is half a yojana; beyond that, it is greater.
 
 ### Bhāṣya-informed study translation
 
-> The bodies of the six classes of desire-realm devas measure successively
-> one quarter, one half, three quarters, one, one and one-quarter, and one and
-> one-half krośas. At the first form-realm station, that of the Brahmakāyikas,
-> the body measures half a yojana; the measures beyond that are taken up next.
-
-The identity of the six classes, their exact distribution, and the
-identification of the first form-realm station are Bhāṣya determinations.
+> The bodies of desire-realm devas increase by quarters up to 1½ krośas;
+> for Form-realm devas, the first measure is ½ yojana, then greater.
 
 ## 6. Philosophical Translation
 
@@ -182,6 +178,9 @@ Thus the verse gives a complete rule for one domain and only the initialization
 of the next.
 
 ## 9. Interpretive Note
+
+**Translation note.** The identity of the six classes, their exact distribution, and the
+identification of the first form-realm station are Bhāṣya determinations.
 
 VAK 3.76 continues the contraction of scale begun in 3.75. After measuring
 human bodies by continent, the analysis measures celestial bodies by station.

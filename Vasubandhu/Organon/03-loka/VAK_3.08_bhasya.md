@@ -5,12 +5,9 @@
 > vijñānaṃ na sthitiḥ proktaṃ catuṣkoṭi tu saṃgrahe /
 > catasro yonayas tatra sattvānām aṇḍajādayaḥ // 3.08 //
 
-> Differentiated cognition is not itself one of its four Base-stations:
-> it functions as seed, while the coexisting Bases function as its field.
-> The seven cognition-stations and the four Base-stations overlap through
-> four possible inclusion-relations. Within this three-Realm World System,
-> beings arise through four modes of birth: egg-born, womb-born,
-> moisture-born, and spontaneously arisen.
+> Cognition is not declared a station; but when inclusion is examined, [the
+> relation has] four alternatives. Within the three Realms, beings have four
+> modes of birth, beginning with egg-birth.
 
 The first half completes the relation between the seven cognition-stations
 and the four Base-supports. The second introduces a new axis: the manner

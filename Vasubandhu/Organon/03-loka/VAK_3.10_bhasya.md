@@ -5,10 +5,9 @@
 > mṛtyūpapattibhavayor antarā bhavatīha yaḥ /
 > gamyadeśānupetatvān nopapanno 'ntarābhavaḥ // 3.10 //
 
-> Intermediate existence is the arisen sentient configuration between death
-> and rebirth, directed toward rebirth elsewhere but not yet arrived there. Its
-> destination is the locus in which the projected karmic result becomes
-> manifest and reaches completion.
+> Whatever arises here between death-existence and rebirth-existence is
+> intermediate existence. Because it has not reached its destination, it has
+> not yet arrived at rebirth.
 
 The Bhāṣya distinguishes something already arisen from something that has
 reached the ensuing rebirth. It further defines the destination as the place

@@ -2,26 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-caturviṃśatir aṅgulyo hasto hastacatuṣṭayam /
-dhanuḥ pañcaśatāny eṣāṃ krośo 'raṇyaṃ ca tan matam // 3.87 //
-```
+> caturviṃśatir aṅgulyo hasto hastacatuṣṭayam /
+> dhanuḥ pañcaśatāny eṣāṃ krośo 'raṇyaṃ ca tan matam // 3.87 //
 
-> Twenty-four finger-breadths make a hasta; four hastas make a dhanu; five
-> hundred of these make a krośa. A region at about that distance from a
-> village is regarded as wilderness.
-
-### Bhāṣya-informed study translation
-
-> Twenty-four finger-breadths constitute one hasta; four hastas constitute one
-> dhanu or measured span; and five hundred dhanu measures constitute one
-> krośa. A region beginning at approximately one krośa from a village is
-> conventionally regarded as wilderness.
+> Twenty-four finger-breadths make one hasta; four hastas make one dhanu; five
+> hundred dhanu make one krośa, and a region at that distance is regarded as
+> wilderness.
 
 The clarification of `dhanu` as a span or extent and the village-relative
 definition of `araṇya` are Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Caturviṃśatir aṅguliyo hasto hastacatuṣṭayam dhanuḥ.
@@ -40,19 +31,19 @@ Spacing and sandhi are regularized. The Bhāṣya glosses `dhanu` with
 village-relative region of about one krośa; it is not another unit in the
 conversion chain.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 Twenty-four finger-breadths make one hasta, and four hastas make one dhanu,
 that is, one measured span. Five hundred of these make one krośa. A region
 about one krośa from a village is conventionally regarded as wilderness.
 
-## Natural Movement
+## 4. Natural Movement
 
 The Bhāṣya carries the body-based measure from the preceding verse into
 larger linear units: finger-breadth, hasta, dhanu, and krośa. It then changes
 from measurement to designation: `araṇya` is the conventional name for a
 region at about a krośa from a village.
 
-## Measures and Designation
+## 5. Measures and Designation
 
 | Relation | Determination |
 |---|---:|
@@ -64,20 +55,20 @@ region at about a krośa from a village.
 The final clause is not a fourth conversion. It uses the established
 distance to mark a conventional spatial category.
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 The passage proceeds from quantitative units to a conventional spatial
 designation. The measure-chain determines distance; the village-relative
 rule then applies the name `araṇya` to a region. Keep the measured unit and
 the category it helps delimit distinct.
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: a measured relation can support a conventional spatial
 classification. This is a project-level observation, not Vasubandhu's
 technical terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[177|01]` through `[177|05]` of the running
   witness.

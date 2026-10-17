@@ -2,35 +2,22 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ekadvitricaturdvīpā na ca dvau saha buddhavat /
-pratyudyāna-svayaṃyāna-kalahāstrajito 'vadhāḥ // 3.96 //
-```
+> ekadvitricaturdvīpā na ca dvau saha buddhavat /
+> pratyudyāna-svayaṃyāna-kalahāstrajito 'vadhāḥ // 3.96 //
 
-> They rule one, two, three, or four continents; nor do two arise together,
-> as with Buddhas. Their conquests are by welcome, personal approach,
-> conflict, and weapons; all are without killing.
+> They rule one, two, three, or four continents respectively; two do not arise
+> together, as with Buddhas. They conquer by reception, approach, conflict, or
+> weapons, respectively, but do not kill.
 
 The Bhāṣya resolves the final word: even when conquest uses weapons, killing
 does not occur. Thus `avadhāḥ` means “without killing,” not “boundaries.”
-
-### Bhāṣya-informed study translation
-
-> The iron-, copper-, silver-, and gold-wheel sovereigns rule respectively
-> one, two, three, and four continents. Two cakravartins do not arise
-> simultaneously in the same World-field, just as two Buddhas do not. The
-> gold-wheel ruler is voluntarily received; the silver-wheel ruler goes to
-> the subordinate kings, who then submit; the copper-wheel ruler meets them
-> in conflict before their submission; and the iron-wheel ruler encounters
-> armed resistance. Nevertheless, none of the four kills. After victory they
-> establish beings in the ten wholesome courses of action.
 
 The exact wheel mappings, same-world qualification, absence of killing, and
 subsequent moral establishment are Bhāṣya determinations. The commentary also
 records disagreement over whether Buddhas may arise simultaneously in
 different world-systems.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 The unit follows the commentary through the territorial mapping, the question
 of simultaneous Buddhas, four modes of conquest, non-killing, the seven
@@ -133,7 +120,7 @@ corrupt in places, particularly in the explanation of the Buddha's activity.
 The translation follows the clear argumentative movement without claiming a
 critical reconstruction.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 The four Cakravartins rule one, two, three, or four continents respectively.
 The iron-wheel ruler is lord of one continent, the copper-wheel ruler of two,
 the silver-wheel ruler of three, and the gold-wheel ruler of four. This is a
@@ -212,7 +199,7 @@ The sage's marks are distinctive in being better situated, more developed,
 and more complete; these are the differences between them and the Buddha's
 marks.
 
-## Natural Movement
+## 4. Natural Movement
 
 The Bhāṣya first maps wheel material onto territorial scope, then examines
 the rule that two Buddhas—or two Cakravartins—do not arise together in one
@@ -223,14 +210,14 @@ four modes of conquest, but all remain subject to the explicit limit of
 non-killing. The seven treasures and the Cakravartin's bodily marks complete
 the portrait before the next verse turns to first-generation humanity.
 
-## Organon Contact Point
+## 5. Organon Contact Point
 
 Light contact: the passage keeps scope, mode of action, and ethical limit
 distinct. It also records a debate whose answer depends on the intended range
 of “world”—one world-system or all. These are textual determinations and a
 comparative observation, not an Organon ontology attributed to Vasubandhu.
 
-## Review Status
+## 6. Review Status
 
 - Natural unit follows the Bhāṣya through the thirty-two marks; stops before
   3.97's first-generation humans.

@@ -5,24 +5,15 @@
 > kleśāt kleśaḥ kriyā caiva tato vastu tataḥ punaḥ /
 > vastukleśāś ca jāyante bhavāṅgānām ayaṃ nayaḥ // 3.27 //
 
-> From affliction arise both affliction and activity; from that activity,
-> Vastu in its support-function. From that Vastu again arise further Vastu
-> and afflictions.
-> This is the governing rule of the members of becoming.
+> From affliction arise affliction and karmic action; from action, Vastu; from
+> Vastu again arise Vastu and afflictions. This is the governing rule of the
+> members of becoming.
 
 The Bhāṣya presents this rule in answer to an objection about the apparent
 endpoints of the twelve-member list. Ignorance need not be assigned an
 additional thirteenth cause, nor aging-and-death an additional result: the
 functional transitions among affliction, karma, and Vastu-support already
 reconnect the sequence.
-
-### Bhāṣya-informed study translation
-
-> Affliction can generate another affliction or karmic action; karmic action
-> generates Vastu in its support-function; that Vastu develops into further
-> Vastu and also supports renewed affliction. This
-> recursive causal grammar governs the twelve members and reconnects their
-> apparent beginning and end without requiring any additional member.
 
 The five transition-types, their concrete member-pairs, and the response to
 the boundary objection are Bhāṣya determinations.
@@ -68,8 +59,7 @@ affliction-from-Vastu. Here Vastu means Thing or basis in its support-
 function, not a cognitive Condition or Object. The running source remains
 unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 An objection arises. If *samutpāda* consists of precisely twelve members,
 then, because no cause of Ignorance is taught, Saṃsāra would have a
 beginning; and because no result of Aging-and-Death is taught, it would have

@@ -2,12 +2,10 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-samyaṅmithyātvaniyatā āryānantaryakāriṇaḥ // 3.44 //
-```
+> samyaṅmithyātvaniyatā āryānantaryakāriṇaḥ // 3.44 //
 
-> The noble ones are fixed in rightness; performers of immediate-result
-> actions are fixed in wrongness.
+> The noble ones and those who perform immediate-result actions are fixed,
+> respectively, in rightness and wrongness.
 
 The compact line gives the paradigmatic members of two groups. The Bhāṣya's
 framing prose supplies the complete threefold classification: those fixed in
@@ -16,16 +14,6 @@ rightness, those fixed in wrongness, and those not fixed.
 The line `adhonṛsuragājānāṃ marmacchedas tv abādibhiḥ`, included with this
 verse in an earlier Kārikā witness, belongs to the preceding account of death
 and vital-point impairment. It is not part of VAK 3.44.
-
-### Bhāṣya-informed study translation
-
-> The sentient world is classified into three groups: those fixed in
-> rightness, those fixed in wrongness, and those not fixed. The noble ones are
-> fixed in rightness because the path without outflows has arisen in them and
-> their course is determined toward the exhaustion of the afflictions. Those
-> who perform an immediate-result action are fixed in wrongness because their
-> course is determined toward hell. All others are not fixed: whether they
-> enter either determination, or neither, depends upon conditions.
 
 The three groups, the definitions of rightness and wrongness, and the reasons
 for each determination are supplied by the Bhāṣya.
@@ -66,8 +54,7 @@ the running witness. The transmitted etymological phrase explaining `ārya`
 is retained but remains philologically uncertain; its exact form and force
 require comparison with critical witnesses.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 This sentient world, arising, persisting, and passing away in this manner,
 was placed by the Blessed One into three groups.
 

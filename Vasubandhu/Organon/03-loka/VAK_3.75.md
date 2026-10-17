@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> जाम्बूद्वीपाः प्रमाणेन चतुःसार्धत्रिहस्तकाः ।
->
-> द्विगुणोत्तरवृद्धया तु पूर्वगोदोत्तराव्हयाः ॥ ३.७५ ॥
+```sanskrit
+जाम्बूद्वीपाः प्रमाणेन चतुःसार्धत्रिहस्तकाः ।
+द्विगुणोत्तरवृद्धया तु पूर्वगोदोत्तराव्हयाः ॥ ३.७५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> jāmbūdvīpāḥ pramāṇena catuḥsārdhatrihastakāḥ /
->
-> dviguṇottaravṛddhayā tu pūrvagodottarāvhayāḥ // 3.75 //
+```text
+jāmbūdvīpāḥ pramāṇena catuḥsārdhatrihastakāḥ /
+dviguṇottaravṛddhayā tu pūrvagodottarāvhayāḥ // 3.75 //
+```
 
 ## 3. Lexical Analysis
 
@@ -63,25 +65,18 @@ The Bhāṣya fixes the resulting measures as 8, 16, and 32 hastas respectively.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The people of Jambūdvīpa have the stated measure in hastas; those called
 > Pūrva, Goda, and Uttara increase successively twofold.
 
 ### Bhāṣya-informed study translation
 
-> Humans of Jambūdvīpa measure 3½ hastas in height according to the principal
-> account, though some give 4 hastas. The humans of Pūrvavideha measure 8
-> hastas, those of Godānīya 16, and those of Uttarakuru 32, each of these three
-> successive populations being twice the measure of the preceding one.
-
-The principal and alternative Jambūdvīpa values, exact measures of the other
-three populations, and restricted scope of the doubling rule are Bhāṣya
-determinations.
+> Jambūdvīpa's humans measure 3½ hastas; in Pūrvavideha, Godānīya, and
+> Uttarakuru their height increases twofold in succession.
 
 ## 6. Philosophical Translation
 
-> After constructing a billionfold cosmological aggregate, the analysis
+> After constructing a billionfold cosmological cluster, the analysis
 > returns to the body of an inhabitant. Difference of World-container is
 > accompanied by difference of embodied magnitude, but the correlation is not
 > reduced to one universal formula. Jambūdvīpa has its own disputed parameter;
@@ -186,14 +181,18 @@ silently selecting the cleaner doubling base would destroy the witness.
     one embodied inhabitant measured in hastas
 ```
 
-The same analysis can change granularity from maximal aggregate to local body
+The same analysis can change granularity from maximal cluster to local body
 without confusing the predicates belonging to each scale.
 
 ## 9. Interpretive Note
 
+**Translation note.** The principal and alternative Jambūdvīpa values, exact measures of the other
+three populations, and restricted scope of the doubling rule are Bhāṣya
+determinations.
+
 VAK 3.75 gives a methodological answer to the billionfold scale of 3.74:
 World System comprehension must preserve the smallest embodied determinations
-inside the largest aggregate.
+inside the largest cluster.
 
 ```text
 global lifecycle

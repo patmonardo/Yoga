@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> प्राक् षडायतनोत्पादात् तत्पूर्वं त्रिकसंगमात् ।
->
-> स्पर्शः प्राक्सुखदुःखादिकारणज्ञानशक्तितः ॥ ३.२२ ॥
+```sanskrit
+प्राक् षडायतनोत्पादात् तत्पूर्वं त्रिकसंगमात् ।
+स्पर्शः प्राक्सुखदुःखादिकारणज्ञानशक्तितः ॥ ३.२२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> prāk ṣaḍāyatanotpādāt tatpūrvaṃ trikasaṃgamāt /
->
-> sparśaḥ prāk sukhaduḥkhādikāraṇajñānaśaktitaḥ // 3.22 //
+```text
+prāk ṣaḍāyatanotpādāt tatpūrvaṃ trikasaṃgamāt /
+sparśaḥ prāk sukhaduḥkhādikāraṇajñānaśaktitaḥ // 3.22 //
+```
 
 The first phrase completes the definition of Name-and-Form begun in VAK
 3.21.
@@ -25,7 +27,7 @@ The first phrase completes the definition of Name-and-Form begun in VAK
 | trika-saṃgamāt | ablative singular compound | before the conjunction of the triad |
 | sparśaḥ | nominative masculine singular | Contact, the stage arising from the triad's conjunction |
 | sukhaduḥkha-ādi | compound members | pleasure, pain, and the other kind of Feeling |
-| kāraṇa-jñāna-śaktitaḥ | ablative singular compound | before the capacity to discriminate the causes |
+| kāraṇa-jñāna-śaktitaḥ | ablative singular compound | before the capacity to know the causes |
 
 The Bhāṣya identifies the triad as Faculty, Condition, and Discriminative
 Cognition. It explains the final compound through the capacity to
@@ -48,7 +50,7 @@ sparśaḥ
 
 > Name-and-Form extends until before the arising of the six Essences; the
 > six-Essence stage extends until before the conjunction of the triad.
-> Contact extends until before the capacity to discriminate the causes of
+> Contact extends until before the capacity to know the causes of
 > pleasure, pain, and the other Feeling.
 
 The stage subjects in the first two constructions are supplied from the
@@ -57,30 +59,24 @@ the final capacity as discrimination of the causes of three Feelings.
 
 ## 5. Translation
 
-### Close syntactic rendering
-
+### Literal Translation
 > [Name-and-Form extends] until before the arising of the six Essences;
 > [the six-Essence stage extends] until before the conjunction of the triad.
-> Contact [extends] until before the capacity to discriminate the causes
+> Contact [extends] until before the capacity to know the causes
 > of pleasure, pain, and the other Feeling.
 
 ### Bhāṣya-informed study translation
 
-> Name-and-Form names the interval after junction consciousness and before
-> the arising of the six Essences. The succeeding interval is called the
-> six-Essence stage, even though its boundary could be stated as the arising
-> of four Essences, because the full sixfold organization is established
-> then. That stage continues until Faculty, Condition, and Discriminative
-> Cognition meet. From their conjunction, Contact arises; the Contact-stage
-> lasts until the capacity to discriminate the causes of pleasant, painful,
-> and neutral Feeling is established.
+> Name-and-Form lasts until the six Essences arise; the six-Essence stage
+> lasts until the triad converges. Contact lasts until the capacity to know
+> the causes of pleasant, painful, and other Feeling arises.
 
 ## 6. Philosophical Translation
 
 > Name-and-Form extends until the six Essences arise. The six-Essence stage
 > extends until Faculty, Condition, and Discriminative Cognition come
 > together. From that conjunction Contact arises; the Contact-stage extends
-> until there is capacity to discriminate the causes of pleasure, pain, and
+> until there is capacity to know the causes of pleasure, pain, and
 > the other Feelings.
 
 ## 7. Technical Vocabulary
@@ -93,7 +89,7 @@ the final capacity as discrimination of the causes of three Feelings.
 | `saṃgama` | conjunction | the meeting from which Contact arises |
 | `sparśa` | Contact | the relation arising from conjunction, and the stage before cause-discrimination capacity |
 | `sukha-duḥkha-ādi` | pleasure, pain, and the other Feelings | the objects of the relevant cause-discrimination |
-| `jñāna-śakti` | capacity to discriminate | here, capacity to discern the causes of the three Feelings |
+| `jñāna-śakti` | capacity for knowledge | here, capacity to know the causes of the three Feelings |
 
 ## 8. Logical Determination
 
@@ -104,7 +100,7 @@ rebirth-junction
     → six-Essence stage
     → Faculty + Condition + Discriminative Cognition meet
     → Contact arises
-    → capacity to discriminate causes of the three Feelings
+    → capacity to know causes of the three Feelings
     → end of the Contact-stage
 ```
 
@@ -115,7 +111,7 @@ Contact is not one of the triad's members.
 
 ## 9. Interpretive Note
 
-Here *viṣaya* is **Condition**, a specific moment of the Seen and the
+**Translation note.** Here *viṣaya* is **Condition**, a specific moment of the Seen and the
 playground of the Faculties—not Object, the comprehended truth of Vastu.
 The local triad also keeps Discriminative Cognition distinct from
 consciousness (*citta*) and Mind (*manas*).
@@ -149,9 +145,9 @@ vak:CognitiveTriad
 vak:ContactStage
     a vak:TemporalStage ;
     vak:beginsAt vak:CognitiveTriadConjunction ;
-    vak:endsBefore vak:CauseDiscriminationCapacity .
+    vak:endsBefore vak:CauseKnowledgeCapacity .
 
-vak:CauseDiscriminationCapacity
+vak:CauseKnowledgeCapacity
     a organon:DiscriminativeCapacity ;
     vak:concerns vak:ThreeFeelingsCauses .
 ```

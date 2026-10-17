@@ -2,29 +2,18 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ardhārdhavṛddhir ūrdhvaṃ tu parīttābhebhya āśrayaḥ /
-dviguṇadviguṇā hitvānabhrakebhyas triyojanam // 3.77 //
-```
+> ardhārdhavṛddhir ūrdhvaṃ tu parīttābhebhya āśrayaḥ /
+> dviguṇadviguṇā hitvānabhrakebhyas triyojanam // 3.77 //
 
-> Above, the bodily support increases by successive half-yojana steps; above
-> the Parīttābhas it is doubled successively, with three yojanas subtracted at
-> the Anabhraka level.
-
-### Bhāṣya-informed study translation
-
-> From the Brahmakāyika measure of one-half yojana, the next three form-realm
-> stations increase by one-half yojana each, reaching two yojanas at
-> Parīttābha. Above Parīttābha, bodily measure doubles at each station through
-> Śubhakṛtsna at sixty-four yojanas. The expected next double is reduced by
-> three, giving the Anabhrakas a measure of 125 yojanas. Above them, successive
-> doubling resumes and culminates in the Akaniṣṭhas at 16,000 yojanas.
+> From the Brahmakāyika measure, the bodily support increases by successive
+> half-yojana steps through Parīttābha. Above the Parīttābhas it doubles at
+> each station, except that three yojanas are subtracted at Anabhraka.
 
 The limits of the additive series, the intermediate class-values, the exact
 Anabhraka calculation, the resumed doubling, and the Akaniṣṭha terminus are
 supplied or entailed by the Bhāṣya's exposition.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Ardhārdhavṛddhiḥ.
@@ -49,7 +38,7 @@ Spacing and sandhi have been regularized. The verse's compressed `hitvā`
 clause is read with the prose: the expected doubled measure is reduced by
 three yojanas for the Anabhrakas.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 The measure increases by successive half-yojana steps. At the next three
 stations, the Brahmapurohitas measure one yojana, Mahābrahman one and a half,
 and the Parīttābhas two yojanas.
@@ -63,7 +52,7 @@ For the Anabhrakas, the doubled value, reduced by three yojanas, is one
 hundred twenty-five yojanas. Beyond them, doubling resumes, so that the body
 of the Akaniṣṭhas measures sixteen thousand yojanas.
 
-## Natural Movement
+## 4. Natural Movement
 
 This passage completes the form-realm body-measure sequence begun in 3.76.
 The first rule adds half a yojana at each of three stations above the
@@ -72,7 +61,7 @@ illustrated by the four- and eight-yojana measures and carried to sixty-four
 at Śubhakṛtsna. The Anabhrakas receive an exceptional value of 125; from the
 level beyond them, doubling resumes through the stated Akaniṣṭha endpoint.
 
-## The Measures and Their Status
+## 5. The Measures and Their Status
 
 | Station or group | Measure | Basis |
 |---|---:|---|
@@ -92,20 +81,20 @@ sequence, but gives no separate numerical line for every class between
 intermediate values are consequences of the stated doubling rule, not
 additional numbers explicitly listed in this passage.
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 The `āśraya` here is the measurable bodily support at a form-realm station.
 Its measure follows two rules in succession—addition by half-yojana steps,
 then doubling—with a specified Anabhraka exception. The exception is not a
 break in the exposition: the text states that doubling resumes beyond it.
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: the measure-series is rule-governed but includes a locally
 specified exception. This is a project-level observation, not Vasubandhu's
 technical terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[172|12]` through `[172|18-172|19]` of the
   running witness.

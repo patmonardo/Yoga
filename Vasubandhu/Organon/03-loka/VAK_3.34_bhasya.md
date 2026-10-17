@@ -2,29 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-svo 'ṣṭālambanam ārūpyo dvayor dhyānadvaye tu ṣaṭ /
-kāmāḥ ṣaṇṇāṃ caturṇāṃ sva ekasyālambanaṃ paraḥ // 3.34 //
-```
+> svo 'ṣṭālambanam ārūpyo dvayor dhyānadvaye tu ṣaṭ /
+> kāmāḥ ṣaṇṇāṃ caturṇāṃ sva ekasyālambanaṃ paraḥ // 3.34 //
 
-> Their own realm is the cognitive Condition for eight, and the Formless realm for
-> two. But in the latter pair of concentrations there are six. The desire
-> realm is the cognitive Condition for all six, their own realm for four, and the
-> higher realm of one.
+> Their own [Form realm] is object for eight, the Formless realm for two; in
+> the [higher] pair of dhyānas, six [occur]. The desire realm is object for
+> all six, their own realm for four, and the higher [realm] for one.
 
 The Bhāṣya completes the distribution of mental rangings connected with the
 form realm. The opening continues the first and second concentrations from
 VAK 3.33; the remainder treats the third and fourth concentrations.
-
-### Bhāṣya-informed study translation
-
-> For the mental rangings belonging to the first two dhyānas, their own form
-> realm can serve as cognitive Condition for eight—the four Smell- and
-> Taste-Rangings being excluded—and the Formless realm can condition their two
-> Dharma-Rangings. In the third and fourth dhyānas, only the six
-> equanimity-Rangings occur. All six may take the lower desire realm as their
-> Condition; four may take their own Form realm, where Smell and Taste are
-> absent; and one, the Dharma-Ranging, may take the higher Formless realm.
 
 The reference of `sva`, the identification of the two dhyāna pairs, and the
 affective and Condition membership of each count are Bhāṣya determinations.
@@ -65,8 +52,7 @@ repeats it as `sa eva rūpadhātus teṣāṃ svaḥ`. The continuous text retai
 second, better-spelled occurrence once. Minor irregularities in compounds
 and sandhi are regularized provisionally; the running source is unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Their own realm is the cognitive Condition for eight. That very Form realm
 is “their own” realm. It is the Condition for eight Mental Rangings, with
 the four Smell- and Taste-Rangings omitted.

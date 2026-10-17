@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> गोदानीयः सहस्राणि सप्त सार्धानि मण्डलः ।
->
-> सार्धे द्वे मध्यमस्याष्टौ चतुरस्रः कुरुः समः ॥ ३.५५ ॥
+```sanskrit
+गोदानीयः सहस्राणि सप्त सार्धानि मण्डलः ।
+सार्धे द्वे मध्यमस्याष्टौ चतुरस्रः कुरुः समः ॥ ३.५५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> godānīyaḥ sahasrāṇi sapta sārdhāni maṇḍalaḥ /
->
-> sārdhe dve madhyamasyāṣṭau caturasraḥ kuruḥ samaḥ // 3.55 //
+```text
+godānīyaḥ sahasrāṇi sapta sārdhāni maṇḍalaḥ /
+sārdhe dve madhyamasyāṣṭau caturasraḥ kuruḥ samaḥ // 3.55 //
+```
 
 ## 3. Lexical Analysis
 
@@ -59,23 +61,15 @@ four sides of 2,000 each.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Godānīya is seven and one-half thousand [yojanas] and circular; its middle
 > [measure] is two and one-half [thousand]. Kuru is eight [thousand], square,
 > and equal.
 
 ### Bhāṣya-informed study translation
 
-> West of Sumeru, Aparagodānīya is circular like the full moon. Its total
-> encircling measure is 7,500 yojanas and its middle span is 2,500. North of
-> Sumeru, Uttarakuru is square, with a total boundary of 8,000 yojanas and four
-> exactly equal sides of 2,000 each. In every continent, the faces of its human
-> inhabitants have the same form as the continent itself.
-
-The western and northern locations, full-moon comparison, interpretation of
-the total and middle measures, equality of all four Kuru sides, and formal
-correspondence between continent and human face are Bhāṣya determinations.
+> Godānīya measures 7,500 yojanas and is circular; its middle span is
+> 2,500. Kuru measures 8,000, is square, and has equal sides.
 
 ## 6. Philosophical Translation
 
@@ -172,6 +166,10 @@ one-way causal mechanism by which geography produces facial form; that
 stronger claim must remain interpretive rather than textual.
 
 ## 9. Interpretive Note
+
+**Translation note.** The western and northern locations, full-moon comparison, interpretation of
+the total and middle measures, equality of all four Kuru sides, and formal
+correspondence between continent and human face are Bhāṣya determinations.
 
 VAK 3.55 completes the continent matrix and adds a methodical principle about
 measurement: the semantic meaning of a number depends upon the form whose

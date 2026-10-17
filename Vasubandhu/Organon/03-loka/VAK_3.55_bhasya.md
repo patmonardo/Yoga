@@ -2,26 +2,15 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-godānīyaḥ sahasrāṇi sapta sārdhāni maṇḍalaḥ /
-sārdhe dve madhyamasyāṣṭau caturasraḥ kuruḥ samaḥ // 3.55 //
-```
+> godānīyaḥ sahasrāṇi sapta sārdhāni maṇḍalaḥ /
+> sārdhe dve madhyamasyāṣṭau caturasraḥ kuruḥ samaḥ // 3.55 //
 
-> Godānīya measures seven and one-half thousand yojanas in total and is
-> circular; its middle span is two and one-half thousand. Kuru measures eight
-> thousand, is square, and is equal on every side.
+> Godānīya measures 7,500 yojanas and is circular; its middle span is
+> 2,500. Kuru measures 8,000, is square, and has equal sides.
 
 The Bhāṣya locates Aparagodānīya west of Sumeru and Uttarakuru north of it,
 resolves their compressed measurements, and adds that the faces of humans in
 each continent correspond in shape to that continent.
-
-### Bhāṣya-informed study translation
-
-> West of Sumeru, Aparagodānīya is circular like the full moon. Its total
-> encircling measure is 7,500 yojanas and its middle span is 2,500. North of
-> Sumeru, Uttarakuru is square, with a total boundary of 8,000 yojanas and four
-> exactly equal sides of 2,000 each. In every continent, the faces of its human
-> inhabitants have the same form as the continent itself.
 
 The western and northern locations, full-moon comparison, interpretation of
 the total and middle measures, equality of all four Kuru sides, and formal
@@ -53,8 +42,7 @@ The continuous text regularizes punctuation and evident sandhi. The simile
 rendering require critical comparison; it appears to compare Uttarakuru's
 square form to a platform or seat used for a particular function.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Godānīya measures seven and one-half thousand yojanas and is circular. To the
 west of here, on the western side of Sumeru, lies the continent
 Aparagodānīya. Its total measure is seven and one-half thousand yojanas. It

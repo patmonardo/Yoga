@@ -2,9 +2,10 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> स भविष्यत् भवफलं कुरुते कर्म तद् भवः ।
->
-> प्रतिसंधिः पुनर्जातिः जरामरणमा विदः ॥ ३.२४ ॥
+```sanskrit
+स भविष्यत् भवफलं कुरुते कर्म तद् भवः ।
+प्रतिसंधिः पुनर्जातिः जरामरणमा विदः ॥ ३.२४ ॥
+```
 
 The Devanāgarī preserves the supplied witness. Its final `मा विदः` is
 textually uncertain; the Bhāṣya unambiguously interprets the phrase as “up to
@@ -12,9 +13,10 @@ the feeling-stage.”
 
 ## 2. Sanskrit (IAST)
 
-> sa bhaviṣyat bhavaphalaṃ kurute karma tad bhavaḥ /
->
-> pratisaṃdhiḥ punar jātiḥ jarāmaraṇam ā vidaḥ // 3.24 //
+```text
+sa bhaviṣyat bhavaphalaṃ kurute karma tad bhavaḥ /
+pratisaṃdhiḥ punar jātiḥ jarāmaraṇam ā vidaḥ // 3.24 //
+```
 
 The transmitted `ā vidaḥ` is likely corrupt. The prose gloss
 `yāvad vedanāvasthā` strongly suggests a form meaning “up to feeling,” perhaps
@@ -76,33 +78,23 @@ expression.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > He produces karma whose result is future existence; that is becoming.
 > Rebirth-junction, in turn, is birth; aging-and-death [extends] up to the
 > feeling-stage.
 
-The final phrase is translated through the Bhāṣya because the transmitted
-Kārikā reading is not independently secure.
-
 ### Bhāṣya-informed study translation
 
-> Running about to obtain desired Conditions, one accumulates karma productive
-> of renewed existence; this renewal-producing karma is designated
-> **becoming**. When, after death from the present life, that karma produces a
-> future rebirth-junction, the junction is designated **birth**. The ensuing
-> future-life development—from name-and-form through the stage of feeling—is
-> gathered prospectively under **aging-and-death**.
-
-Renewal-producing karma, the perspectival equivalence of rebirth-junction and
-birth, and the range gathered under aging-and-death are Bhāṣya determinations.
+> One produces karma whose result is future existence; that karma is
+> Becoming. Rebirth-junction is Birth, and Aging-and-Death extends to the
+> Feeling-stage.
 
 ## 6. Philosophical Translation
 
 > Appropriative pursuit does not terminate in possession. It accumulates a
 > projective power whose result is another embodied course. What the present
 > analysis calls becoming becomes the condition of a future junction; what is
-> called differentiated cognition at the junction of this life is called
+> called Cognition at the junction of this life is called
 > birth when the same structural position is viewed as the future result; and
 > the developing stages of that future embodiment are gathered as
 > aging-and-death. The middle thereby produces the subsequent limit.
@@ -119,7 +111,7 @@ birth, and the range gathered under aging-and-death are Bhāṣya determinations
 | āyati | future time | temporal field in which reconnection occurs |
 | pratisaṃdhi | rebirth-junction | renewed conjunction produced by karmic projection |
 | jāti | birth | future junction viewed from the present causal series |
-| vijñānāṅga | differentiated-cognition member | name of the corresponding junction-stage when analyzed as present |
+| vijñānāṅga | Cognition member | name of the corresponding junction-stage when analyzed as present |
 | jarāmaraṇa | aging-and-death | prospective gathering of post-birth development through feeling |
 | vedanāvasthā | feeling-stage | endpoint of the development gathered here under aging-and-death |
 
@@ -210,6 +202,9 @@ The condensed enumeration is now complete. The governing principle of its
 stage-designations will be stated explicitly in 3.25.
 
 ## 9. Interpretive Note
+
+**Translation note.** Renewal-producing karma, the perspectival equivalence of rebirth-junction and
+birth, and the range gathered under aging-and-death are Bhāṣya determinations. The final phrase is translated through the Bhāṣya because the transmitted Kārikā reading is not independently secure.
 
 In the Organon's project-level reading, the members designate a conditioned
 course by temporal position and analytic scale: the present junction is

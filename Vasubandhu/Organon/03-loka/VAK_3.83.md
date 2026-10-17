@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अर्धं प्रतापनेऽवीचावन्तःकल्पं परं पुनः ।
->
-> कल्पं तिरश्चां प्रेतानां मासाह्ना शतपञ्चकम् ॥ ३.८३ ॥
+```sanskrit
+अर्धं प्रतापनेऽवीचावन्तःकल्पं परं पुनः ।
+कल्पं तिरश्चां प्रेतानां मासाह्ना शतपञ्चकम् ॥ ३.८३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ardhaṃ pratāpane 'vīcāv antaḥkalpaṃ paraṃ punaḥ /
->
-> kalpaṃ tiraścāṃ pretānāṃ māsāhnā śatapañcakam // 3.83 //
+```text
+ardhaṃ pratāpane 'vīcāv antaḥkalpaṃ paraṃ punaḥ /
+kalpaṃ tiraścāṃ pretānāṃ māsāhnā śatapañcakam // 3.83 //
+```
 
 The compressed final compound is presented as `māsāhnā`, following the
 Bhāṣya's citation and explanation: with a day-and-night whose magnitude is one
@@ -83,23 +85,16 @@ pretānām
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > In Pratāpana it is one half; in Avīci, one antarakalpa. For animals, in
 > turn, the maximum is a kalpa. For pretas, reckoned by a month-long
 > day-and-night, it is five hundred.
 
 ### Bhāṣya-informed study translation
 
-> Lifespan in the Pratāpana great naraka is half an antarakalpa, and in Avīci
-> it is one antarakalpa. Animals have no single fixed lifespan; their maximum
-> is one antarakalpa, attained by exceptional great nāgas such as Nanda and
-> Upananda. For pretas, one human month constitutes one day-and-night, and
-> measured by that calendar their lifespan is five hundred preta years.
-
-The antarakalpa supplied after `ardham`, the absence of a fixed animal
-lifespan, the great-nāga examples, and the explicit human-to-preta conversion
-are Bhāṣya determinations.
+> In Pratāpana, lifespan is half an intermediate kalpa; in Avīci, one
+> intermediate kalpa. Animals live at most one kalpa. For pretas, five hundred
+> years are reckoned by day-and-night units of one human month.
 
 ## 6. Philosophical Translation
 
@@ -208,6 +203,10 @@ TemporalDetermination =
 | pretas | converted calendar with fixed local-year count |
 
 ## 9. Interpretive Note
+
+**Translation note.** The antarakalpa supplied after `ardham`, the absence of a fixed animal
+lifespan, the great-nāga examples, and the explicit human-to-preta conversion
+are Bhāṣya determinations. The Bhāṣya names Nanda, Upananda, Aśvatalī, and other great nāgas as examples of the animal maximum. For pretas, one human month is one day-and-night, by which their lifespan is five hundred years.
 
 VAK 3.83 gives a powerful methodological correction to simplistic world
 modelling. Determinacy is not synonymous with assigning one value. A domain

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> नात्मास्ति स्कन्धमात्रं तु क्लेशकर्माभिसंस्कृतम् ।
->
-> अन्तराभवसंतत्या कुक्षिमेति प्रदीपवत् ॥ ३.१८ ॥
+```sanskrit
+नात्मास्ति स्कन्धमात्रं तु क्लेशकर्माभिसंस्कृतम् ।
+अन्तराभवसंतत्या कुक्षिमेति प्रदीपवत् ॥ ३.१८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> nātmāsti skandhamātraṃ tu kleśakarmābhisaṃskṛtam /
->
-> antarābhavasaṃtatyā kukṣim eti pradīpavat // 3.18 //
+```text
+nātmāsti skandhamātraṃ tu kleśakarmābhisaṃskṛtam /
+antarābhavasaṃtatyā kukṣim eti pradīpavat // 3.18 //
+```
 
 ## 3. Lexical Analysis
 
@@ -64,22 +66,16 @@ mediating continuity; `kukṣim` is the destination of `eti`.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > No ātman exists; rather, the Base-series alone, formed by affliction and
 > karma, enters the womb through the continuity of intermediate existence,
 > like a flame.
 
 ### Bhāṣya-informed study translation
 
-> The continuity from death through intermediate existence to rebirth does not
-> require the individually persistent principle inferred by the externalist.
-> What reaches the womb is the causally continuous Base-series, formed by
-> affliction and karma and transmitted through intermediate existence as one
-> flame conditions another.
-
-The externalist inference and the interpretation of the flame as serial causal
-continuity are Bhāṣya determinations.
+> No ātman exists; rather, only a Base-continuum formed by affliction and
+> karma enters the womb through continuity of intermediate existence, like a
+> flame.
 
 ## 6. Philosophical Translation
 
@@ -206,6 +202,9 @@ Those questions cannot be decided merely by showing that an empirical
 traveler is absent from the rebirth mechanism.
 
 ## 9. Interpretive Note
+
+**Translation note.** The externalist inference and the interpretation of the flame as serial causal
+continuity are Bhāṣya determinations.
 
 ### Continuity without a transmigrator
 

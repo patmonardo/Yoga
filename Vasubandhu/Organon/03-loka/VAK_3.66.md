@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> मध्ये सार्धद्विसाहस्रपार्श्वमध्यर्धयोजनम् ।
->
-> पुरं सुदर्शनं नाम हैमं चित्रतलं मृदु ॥ ३.६६ ॥
+```sanskrit
+मध्ये सार्धद्विसाहस्रपार्श्वमध्यर्धयोजनम् ।
+पुरं सुदर्शनं नाम हैमं चित्रतलं मृदु ॥ ३.६६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> madhye sārdhadvisāhasrapārśvam adhyardhayojanam /
->
-> puraṃ sudarśanaṃ nāma haimaṃ citratalaṃ mṛdu // 3.66 //
+```text
+madhye sārdhadvisāhasrapārśvam adhyardhayojanam /
+puraṃ sudarśanaṃ nāma haimaṃ citratalaṃ mṛdu // 3.66 //
+```
 
 ## 3. Lexical Analysis
 
@@ -61,22 +63,14 @@ is soft to the touch.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > In the center is the city named Sudarśana, having sides of 2,500 yojanas and
 > a height of 1½ yojanas; it is golden, variegated in surface, and soft.
 
 ### Bhāṣya-informed study translation
 
-> At the center of Meru's summit stands the city Sudarśana, Śakra's capital.
-> Each side measures 2,500 yojanas and its height is 1½ yojanas. Its enclosing
-> wall is golden, and its ground is variegated with 101 substances. The ground
-> is soft to the touch like cotton fluff: it sinks when a foot is placed upon
-> it and rises again when the foot is lifted.
-
-The assignment of the measures to side and height, golden wall, 101 ground
-constituents, cotton-fluff comparison, action-responsive surface, and
-identification as Śakra's capital are Bhāṣya determinations.
+> At the center is the city Sudarśana, with sides of 2,500 yojanas and a
+> height of 1½. It is golden, variegated in its ground, and soft.
 
 ## 6. Philosophical Translation
 
@@ -182,6 +176,10 @@ The spatial predicate `located-at-center` and the political predicate
 `capital-of` converge on Sudarśana without becoming identical.
 
 ## 9. Interpretive Note
+
+**Translation note.** The assignment of the measures to side and height, golden wall, 101 ground
+constituents, cotton-fluff comparison, action-responsive surface, and
+identification as Śakra's capital are Bhāṣya determinations.
 
 VAK 3.66 gives us a compact model of progressive concretion:
 

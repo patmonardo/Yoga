@@ -2,29 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dviguṇottaram ūrdhvānām ubhayaṃ rūpiṇāṃ punaḥ /
-nāsty ahorātram āyus tu kalpaiḥ svāśrayasaṃmitaiḥ // 3.80 //
-```
+> dviguṇottaram ūrdhvānām ubhayaṃ rūpiṇāṃ punaḥ /
+> nāsty ahorātram āyus tu kalpaiḥ svāśrayasaṃmitaiḥ // 3.80 //
 
-> For the higher [desire-realm devas], both measures double successively. For
-> the form-realm devas, in turn, there is no day-and-night, but lifespan is
-> measured in kalpas commensurate with their own bodily support.
-
-### Bhāṣya-informed study translation
-
-> At each higher desire-realm deva station, both the human duration
-> corresponding to one divine day-and-night and the number of divine years in
-> the lifespan are doubled. Form-realm devas, however, have no day-and-night.
-> Their lifespan is measured directly in kalpas, with the number of kalpas
-> equal to the number of yojanas assigned to their bodily support—from one-half
-> yojana and one-half kalpa through 16,000 yojanas and 16,000 kalpas at
-> Akaniṣṭha.
+> For the higher desire-realm devas, both measures double successively. Form-
+> realm devas have no day-and-night; their lifespan is measured in kalpas
+> corresponding to their bodily support.
 
 The two members of `ubhayam`, the complete desire-realm sequence, and the
 exact yojana-to-kalpa commensurability are Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Dviguṇottaram ūrdhvānām ubhayam.
@@ -66,7 +54,7 @@ The running source has `rātrindiva`/`rātrindivena` beside the kārikā's
 transmitted in a compressed list of signs for day-and-night; I retain it
 without forcing a more specific botanical or lunar interpretation.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 For the higher devas, both measures double successively: the day-and-night
 measure and the lifespan. How so? One hundred human years make one
 day-and-night for the Trāyastriṃśa devas. By that day-and-night, their
@@ -88,7 +76,7 @@ kalpa. In this way, the number of kalpas in a lifespan matches the number of
 yojanas in the bodily support; the Akaniṣṭhas' lifespan is sixteen thousand
 kalpas.
 
-## Natural Movement
+## 4. Natural Movement
 
 The first half identifies `ubhayam`, “both,” as day-and-night and lifespan,
 then illustrates the joint doubling at higher desire-realm stations. The
@@ -99,7 +87,7 @@ the desire-realm discussion and turns to a different form of temporal
 measure: form-realm lifespan in kalpas directly commensurate with bodily
 support.
 
-## The Two Deva Sequences
+## 5. The Two Deva Sequences
 
 | Desire-realm class | Human years per divine day-night | Lifespan |
 |---|---:|---:|
@@ -116,7 +104,7 @@ changes: no daily calendar is given, and lifespan in kalpas equals bodily
 support measured in yojanas, from the half-unit examples through the stated
 Akaniṣṭha endpoint.
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 The absence of `ahorātra` for form-realm devas is not an absence of lifespan
 or duration. Rather, the basis of measurement changes: the desire-realm
@@ -124,13 +112,13 @@ sequence uses day, month, and year, while the form-realm sequence directly
 matches lifespan in kalpas to bodily support in yojanas. Keep these two
 temporal determinations distinct.
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: the same broad category, deva lifespan, is measured through
 different temporal organizations in different realms. This is a project-level
 observation, not Vasubandhu's technical terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[173|17]` through `[174|03-174|05]` of the
   running witness.

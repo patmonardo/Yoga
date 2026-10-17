@@ -5,11 +5,9 @@
 > nātmāsti skandhamātraṃ tu kleśakarmābhisaṃskṛtam /
 > antarābhavasaṃtatyā kukṣim eti pradīpavat // 3.18 //
 
-> The continuity from death through intermediate existence to rebirth does not
-> require the individually persistent principle inferred by the externalist.
-> What reaches the womb is the causally continuous Base-series, formed by
-> affliction and karma and transmitted through intermediate existence as one
-> flame conditions another.
+> No ātman exists; rather, only a Base-continuum formed by affliction and
+> karma enters the womb through continuity of intermediate existence, like a
+> flame.
 
 The verse answers an externalist inference: if a being passes from one world
 to another, an enduring agent must perform the passage. The Bhāṣya rejects

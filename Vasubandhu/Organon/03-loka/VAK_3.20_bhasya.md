@@ -5,12 +5,9 @@
 > sa pratītyasamutpādo dvādaśāṅgas trikāṇḍakaḥ /
 > pūrvāparāntayor dve dve madhye 'ṣṭau paripūriṇaḥ // 3.20 //
 
-### Bhāṣya-informed study translation
-
-> The Base-continuum already described across three births is the
-> conditioned arising, articulated in twelve members and three sections:
-> two at each of the past and future limits, and eight in the present course
-> of one who completes all successive states.
+> That conditioned arising is twelve-membered and three-sectioned: two
+> members at each of the prior and later limits, and eight in the middle for
+> one who completes [the course].
 
 ## 2. Continuous Sanskrit
 
@@ -54,8 +51,7 @@ Word division and punctuation are editorial. The source e-text's
 `ūpadiṣṭaḥ` is regularized here to `upadiṣṭaḥ`; the running source is
 unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 The Base-continuum just taught as extending through three births is that
 conditioned arising, twelve-membered and three-sectioned.
 
@@ -223,3 +219,7 @@ Base. Its relation to Avijñapti, and Avijñapti's distinct classifications
 in Form Base and Dharma Base, must likewise remain discriminated. Here,
 VAK 3.20 names Discriminative Cognition as one member but does not unfold
 those wider relations; it remains distinct from consciousness and Mind.
+
+## 7. Review Status
+
+Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation. Source span not yet recorded here.

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> तिर्यक् त्रीणि सहस्राणि सार्धं शतचतुष्टयम् ।
->
-> लक्षद्वादशकं चैव जलकाञ्चनमण्डलम् ॥ ३.४७ ॥
+```sanskrit
+तिर्यक् त्रीणि सहस्राणि सार्धं शतचतुष्टयम् ।
+लक्षद्वादशकं चैव जलकाञ्चनमण्डलम् ॥ ३.४७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> tiryak trīṇi sahasrāṇi sārdhaṃ śatacatuṣṭayam /
->
-> lakṣadvādaśakaṃ caiva jalakāñcanamaṇḍalam // 3.47 //
+```text
+tiryak trīṇi sahasrāṇi sārdhaṃ śatacatuṣṭayam /
+lakṣadvādaśakaṃ caiva jalakāñcanamaṇḍalam // 3.47 //
+```
 
 ## 3. Lexical Analysis
 
@@ -55,18 +57,14 @@ measure.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The water-and-gold maṇḍala extends transversely twelve hundred-thousands,
 > three thousand, and four hundred and fifty [yojanas].
 
 ### Bhāṣya-informed study translation
 
-> The water-maṇḍala and golden-earth maṇḍala have the same horizontal extent:
-> each measures 1,203,450 yojanas across.
-
-Their equality in breadth, the supplied yojana unit, and the distributive
-application of the one measure to both maṇḍalas are Bhāṣya determinations.
+> Together, the water- and gold-maṇḍalas extend transversely for 1,203,450
+> yojanas.
 
 ## 6. Philosophical Translation
 
@@ -148,6 +146,11 @@ For 3.47 the warranted result is only the equal breadth of the two maṇḍalas;
 the circumferential operation is a forward link, not part of this Kārikā.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya clarifies that the water-maṇḍala and golden-earth
+maṇḍala have the same horizontal extent: 1,203,450 yojanas each. Their equality in
+breadth, the supplied yojana unit, and the distributive application of the one
+measure to both maṇḍalas are Bhāṣya determinations.
 
 At the project level, equality is measure-relative: the water and golden-earth maṇḍalas differ in vertical role yet share transverse extent. The comparison is true only with its measurement axis made explicit.
 

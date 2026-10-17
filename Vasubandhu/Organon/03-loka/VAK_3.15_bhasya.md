@@ -5,11 +5,9 @@
 > viparyastamatir yāti gatideśaṃ riraṃsayā /
 > gandhasthānābhikāmo 'nyaḥ ūrdhvapādas tu nārakaḥ // 3.15 //
 
-> The intermediate being approaches its karmically projected rebirth-place
-> through a distorted presentation and the longing corresponding to its mode
-> of birth. A moisture-born transition approaches an impure or pure site,
-> drawn by scent; a spontaneously arisen transition is attracted toward its
-> place. A hell-bound transition moves inverted, with feet upward.
+> With inverted perception, it goes to the place of its destiny through
+> longing. Another is drawn toward scent or a place; the naraka-bound,
+> however, goes feet upward.
 
 The Bhāṣya explains how a destination already projected by karma becomes an
 object of approach. Its central claim is not that desire freely chooses the
@@ -116,9 +114,9 @@ being, the commentary answers, because an intermediate being has its faculties
 complete. It therefore enters as female or male and remains in the
 corresponding position; afterward, as the fetus develops, it becomes intersex.
 
-The following question is considered. Do the great elements of the semen and
+The following question is considered. Do the Great Elements of the semen and
 blood themselves, through the force of karma, assume the status of supports
-for the faculties? Or do other great elements arise through karma while
+for the faculties? Or do other Great Elements arise through karma while
 depending upon them?
 
 Some say that the same elements do so. The semen and blood, which lack
@@ -130,7 +128,7 @@ arisen as a *kalala* from the impurity of mother and father” is well
 explained. So too is the statement addressed to the monks that over a long
 time they have nourished a form that is a drop of blood.
 
-Others say that entirely different great elements arise, as in the case of a
+Others say that entirely different Great Elements arise, as in the case of a
 worm upon a leaf. There is nevertheless no conflict with the sūtra, because
 its statement about the *kalala* expresses an association: it arises in
 dependence upon the parental impurity. Such is the account of entry into
@@ -178,7 +176,7 @@ The womb-entry account is Vasubandhu's exposition of inherited Abhidharma
 doctrine. The *Prajñapti* is cited for the pair of affective states. The
 embryological question receives two attributed answers: `eke` holds that the
 parental material itself is transformed into faculty-bearing material;
-`apare` holds that new great elements arise while supported upon it. The text
+`apare` holds that new Great Elements arise while supported upon it. The text
 does not announce a final adjudication between them. The representation of a
 past karmic condition is separately assigned to the former teachers.
 
@@ -218,7 +216,7 @@ parental semen and blood cease in a non-faculty-bearing state
     → seed-and-sprout analogy
 
 other-element account
-new great elements arise through karma
+new Great Elements arise through karma
     → depend upon parental material
     → leaf-and-worm analogy
 ```

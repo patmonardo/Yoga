@@ -3,16 +3,18 @@
 ## 1. Sanskrit (Devanāgarī)
 
 
-> तज्जाः षड्वेदनाः पञ्च कायिकी चैतसी परा ।
->
-> पुनश्चाष्टादशविधा सा मनोपविचारतः ॥ ३.३२ ॥
+```sanskrit
+तज्जाः षड्वेदनाः पञ्च कायिकी चैतसी परा ।
+पुनश्चाष्टादशविधा सा मनोपविचारतः ॥ ३.३२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
 
-> tajjāḥ ṣaḍvedanāḥ pañca kāyikī caitasī parā /
->
-> punaścāṣṭādaśavidhā sā manopavicārataḥ // 3.32 //
+```text
+tajjāḥ ṣaḍvedanāḥ pañca kāyikī caitasī parā /
+punaścāṣṭādaśavidhā sā manopavicārataḥ // 3.32 //
+```
 
 ## 3. Lexical Analysis
 
@@ -69,26 +71,16 @@ distress, and equanimity, each ranging through the six Conditions.
 ## 5. Translation
 
 
-### Close syntactic construe
-
+### Literal Translation
 > Born from those [contacts] are six feelings. Five are bodily; the other is
 > mental. That [mental feeling] is again eighteenfold according to mental
 > ranging.
 
 ### Bhāṣya-informed study translation
 
-> Six feelings arise in relation to the six contacts: feeling born from eye-,
-> Ear-, Nose-, Tongue-, Body-, and Mind-Contact. The first five are called
-> **bodily Feeling** because they are supported by Form Faculties; the
-> remaining one is called **mental Feeling** because it is supported by
-> consciousness (*citta*) alone. Mental Feeling is further divided into
-> eighteen Mental Rangings: six of gladness, six of distress, and six of
-> equanimity, each corresponding to one of the six Conditions—Form, Sound,
-> Smell, Taste, Tangible, and Dharma.
-
-The Form-Faculty and consciousness (*citta*) support relations, as well as
-the internal `3 × 6` construction of the eighteen Mental Rangings, are
-Bhāṣya determinations.
+> Six feelings are born from those [Contacts]; five are bodily, the other
+> mental. That [mental feeling] is again eighteenfold according to mental
+> ranging.
 
 ## 6. Philosophical Translation
 
@@ -204,6 +196,14 @@ the rival accounts of their temporal relation.
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The six feelings correspond to eye-, ear-, nose-, tongue-,
+body-, and mind-Contact. The five bodily feelings are supported by Form Faculties,
+while mental feeling is supported by consciousness (*citta*) alone. The eighteen
+Mental Rangings comprise six each of gladness, distress, and equanimity, correlated
+with the six Conditions: Form, Sound, Smell, Taste, Tangible, and Dharma. The
+Form-Faculty and consciousness (*citta*) support relations, as well as the internal
+`3 × 6` construction of the eighteen Mental Rangings, are Bhāṣya determinations.
 
 ## 10. OWL++ Seed
 

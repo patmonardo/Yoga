@@ -2,31 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-chedasaṃdhāna vairāgyahānicyutyupapattayaḥ /
-manovijñāna eveṣṭāḥ upekṣāyāṃ cyutodbhavau // 3.42 //
-```
+> chedasaṃdhāna vairāgyahānicyutyupapattayaḥ /
+> manovijñāna eveṣṭāḥ upekṣāyāṃ cyutodbhavau // 3.42 //
 
-> Cutting, reconnection, dispassion, decline, death, and rebirth are accepted
-> only in mental differentiated cognition. Death and arising occur with
-> equanimity.
+> Cutting off, reconnection, dispassion, decline, death, and rebirth are held
+> to occur only in mental Cognition. Death and arising occur with equanimity.
 
 The Bhāṣya expands the six compressed events, assigns them exclusively to
 mental cognition, includes the linking of intermediate existence under
 rebirth, and determines the feeling accompanying death and arising as
 neither-painful-nor-pleasant.
-
-### Bhāṣya-informed study translation
-
-> The cutting off of wholesome roots, their reconnection, dispassion from a
-> realm or level, decline from an attainment, death, and rebirth occur only
-> while mental differentiated cognition is operative. Rebirth here includes
-> the linking of intermediate existence. Death and arising occur only with
-> neither-painful-nor-pleasant feeling, whose non-acute character is compatible
-> with transition. They do not occur while consciousness is concentrated in
-> samādhi, nor while mind is absent: when a mindless being's bodily support
-> begins its fatal alteration, mind bound to that support must first become
-> manifest, and death follows only afterward.
 
 The expansions of the six events, the technical determination of equanimity,
 and the exclusions of concentrated and mindless states are Bhāṣya
@@ -65,8 +50,7 @@ endings. The continuous text regularizes these provisionally. The opening
 summary of persistence and death, and the exact force of `paṭu` and `apaṭu`,
 require comparison with critical witnesses.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 It has been explained how dependent co-arising operates for sentient beings
 and how they persist. Death through such causes as the exhaustion of lifespan
 has also been explained.

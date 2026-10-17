@@ -2,31 +2,21 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-sahasram āyuḥ kuruṣu dvayor ardhārdhavarjitam /
-ihāniyatam ante tu daśābdā ādito 'mitam // 3.78 //
-```
+> sahasram āyuḥ kuruṣu dvayor ardhārdhavarjitam /
+> ihāniyatam ante tu daśābdā ādito 'mitam // 3.78 //
 
-> Lifespan among the Kurus is one thousand years; in the other two continents
-> it is reduced successively by half. Here it is unfixed: ten years at the end,
-> but immeasurable at the beginning.
+> Among the Kurus, lifespan is one thousand years; in the other two continents
+> it is successively halved. Here in Jambūdvīpa it is unfixed: at the end it
+> is ten years, but at the beginning it is immeasurable.
 
 The verse's opening is read as `sahasram āyuḥ`, following the Bhāṣya's
 segmentation.
-
-### Bhāṣya-informed study translation
-
-> Human lifespan is 1,000 years in Uttarakuru, 500 years in Godānīya, and 250
-> years in Pūrvavideha. Here in Jambūdvīpa no single lifespan is fixed: as the
-> kalpa declines it eventually reaches ten years, whereas the first humans of
-> the kalpa have an immeasurable lifespan, one that cannot be expressed even
-> by a numerical reckoning beginning in thousands.
 
 The named assignment of 500 and 250 years, the variability formula “sometimes
 greater, sometimes less,” and the kalpic subjects of the two extrema are
 Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Evaṃ pramāṇabhinnānāṃ kim āyuṣo 'py asti bhedaḥ?
@@ -62,7 +52,7 @@ Spacing and sandhi have been regularized. `Ardhatṛtīye varṣaśate` is
 translated as 250 years, in line with the preceding halving and the Bhāṣya's
 construction of the continental sequence.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 Just as the measures differ, do lifespans also differ? They do, the Bhāṣya
 says.
 
@@ -76,7 +66,7 @@ year being a full year. At the beginning, however, the first humans of the
 kalpa have an immeasurable lifespan. It cannot be measured by numerical
 reckoning beginning with a thousand.
 
-## Natural Movement
+## 4. Natural Movement
 
 Following the previous discussion of bodily measures, the Bhāṣya asks whether
 lifespans also differ. It first assigns a fixed descending series to three
@@ -86,7 +76,7 @@ no fixed value and changes over the kalpa. The ten-year terminal lifespan
 and immeasurable lifespan of the first humans mark the two ends of that
 temporal change.
 
-## Fixed and Changing Lifespans
+## 5. Fixed and Changing Lifespans
 
 | Human domain | Lifespan | Determination |
 |---|---:|---|
@@ -102,7 +92,7 @@ sometimes greater and sometimes less. The two endpoints are kalpic conditions,
 not a claim that one person's lifespan moves between them during an individual
 life.
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 Three continental populations receive fixed lifespans related by successive
 halving. Jambūdvīpa instead has an unfixed lifespan across the kalpa's
@@ -110,13 +100,13 @@ temporal course. The Bhāṣya explains `amita` not simply as “very long” bu
 `aparimāṇa`: beyond numerical measurement, even by a reckoning that begins
 with thousands.
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: the text distinguishes a fixed temporal parameter from one
 that varies with the world's phase. This is a project-level observation, not
 Vasubandhu's technical terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[172|20]` through `[173|06-173|07]` of the
   running witness.

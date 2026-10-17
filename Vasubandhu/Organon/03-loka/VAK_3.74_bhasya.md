@@ -2,14 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-tatsahasraṃ dvisāhasro lokadhātus tu madhyamaḥ /
-tatsahasraṃ trisāhasraḥ samasaṃvartasaṃbhavaḥ // 3.74 //
-```
+> tatsahasraṃ dvisāhasro lokadhātus tu madhyamaḥ /
+> tatsahasraṃ trisāhasraḥ samasaṃvartasaṃbhavaḥ // 3.74 //
 
-> One thousand of those forms the middle, second-order world-system. One
-> thousand of those forms the third-order system, which contracts and arises
-> together.
+> A thousand of these form a middle cluster; a thousand middle clusters
+> form the great cluster, whose contraction and arising are simultaneous.
 
 The Bhāṣya applies `tatsahasram` recursively: one thousand small
 thousandfold systems make the middle system, and one thousand middle systems
@@ -17,16 +14,8 @@ make the great system. It then says the complete great system contracts and
 evolves together, explaining `saṃbhava` here as `vivarta` and deferring the
 fuller account.
 
-### Bhāṣya-informed study translation
-
-> One thousand small thousandfold world-systems form the middle, second-order
-> thousandfold world-system. One thousand of those middle systems form the
-> third-order great thousandfold world-system. This complete aggregate
-> contracts together and evolves together; in this verse, `saṃbhava`, arising,
-> is explained as `vivarta`, cosmological evolution or expansion.
-
-The immediately preceding aggregate as unit, the full name of the greatest
-aggregate, its completeness, synchronized contraction and evolution, and the
+The immediately preceding cluster as unit, the full name of the greatest
+cluster, its completeness, synchronized contraction and evolution, and the
 `saṃbhava`–`vivarta` equivalence are Bhāṣya determinations.
 
 ## 2. Continuous Sanskrit
@@ -51,10 +40,10 @@ vyākhyāsyate.
 
 The witness is clear apart from spacing and sandhi, regularized here. The
 compound `trisāhasra-mahāsāhasra` is expanded from the prose to give the full
-name of the final aggregate. The Bhāṣya explicitly equates `saṃbhava` with
+name of the final cluster. The Bhāṣya explicitly equates `saṃbhava` with
 `vivarta` in this context and says the fuller explanation comes later.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 One thousand of those small thousandfold world-systems forms the middle,
 second-order world-system.
 
@@ -69,9 +58,9 @@ explained later.
 
 Vasubandhu explains the two halves in sequence:
 
-1. The small thousandfold aggregate from 3.73 becomes the unit for a second
+1. The small thousandfold cluster from 3.73 becomes the unit for a second
    thousandfold aggregation, called the middle system.
-2. The middle aggregate becomes the unit for a third thousandfold
+2. The middle cluster becomes the unit for a third thousandfold
    aggregation, called the great system.
 3. The great system is qualified as complete and as undergoing common
    contraction and evolution.
@@ -80,7 +69,7 @@ Vasubandhu explains the two halves in sequence:
 
 No opponent or alternative account appears in this short unit. The two
 `tatsahasra` phrases are resolved by the prose so that each “thousand of
-those” refers to the immediately preceding aggregate.
+those” refers to the immediately preceding cluster.
 
 ## 5. The Middle System
 
@@ -98,7 +87,7 @@ system contains one million local units:
 1,000 × 1,000 = 1,000,000
 ```
 
-`Madhyama`, “middle,” names the second aggregate in this sequence. It does
+`Madhyama`, “middle,” names the second cluster in this sequence. It does
 not mean an average-sized individual world; it identifies the intermediate
 scale between the small and great systems.
 
@@ -124,7 +113,7 @@ scale multiplies the immediately preceding complete system by one thousand.
 
 ## 7. Whole and Unit Across Scales
 
-The same aggregate changes its role as the scale rises:
+The same cluster changes its role as the scale rises:
 
 ```text
 local world-unit
@@ -153,7 +142,7 @@ samaṃ vivartate  → it evolves together
 
 `Saṃbhava` in the verse is explained as `vivarta`, not as a separately
 specified kind of arising. The claim of `samaṃ` is coordination across the
-complete aggregate: contraction and evolution are common processes of the
+complete cluster: contraction and evolution are common processes of the
 world-system.
 
 The Bhāṣya explicitly postpones the fuller explanation. This passage
@@ -171,7 +160,7 @@ Across 3.73–3.74 the cosmology has three nested scales:
 | Great | 1,000 middle systems | 1,000,000,000 |
 
 The final system is defined by more than membership and number. The Bhāṣya
-adds a common temporal process in which the complete aggregate contracts and
+adds a common temporal process in which the complete cluster contracts and
 evolves together.
 
 For the Organon, this is a compact model of nested aggregation with a shared

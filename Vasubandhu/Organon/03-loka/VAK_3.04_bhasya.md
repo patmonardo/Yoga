@@ -5,10 +5,9 @@
 > narakādisvanāmoktā gatayaḥ pañca teṣu tāḥ /
 > akliṣṭāvyākṛtā eva sattvākhyā nāntarābhavaḥ // 3.04 //
 
-> Within the three Realms are five destinies—hell, animal, preta, deva, and
-> human. They are resultant, non-obscured indeterminate configurations
-> designated as beings. Intermediate existence is not itself one of these
-> destinies.
+> Among those [Realms] are five destinies, named from naraka onward. They
+> alone are unafflicted-indeterminate and designated as beings; intermediate
+> existence is not one of them.
 
 The qualification “according to the Vaibhāṣika determination” is required by
 the complete commentary. The Bhāṣya first argues that the destinies are
@@ -241,7 +240,7 @@ intermixed. They are designated as beings and are not intermediate existence.
 The Prajñapti says that the five destinies are included within the four modes
 of birth, but that the four modes of birth are not exhausted by the five
 destinies: intermediate existence is left unincluded. The Dharmaskandha also
-lists the eye-element derived from the four great elements as hellish, animal,
+lists the eye-element derived from the four Great Elements as hellish, animal,
 preta, divine, human, cultivation-produced, and belonging to intermediate
 existence.
 

@@ -3,16 +3,18 @@
 ## 1. Sanskrit (Devanāgarī)
 
 
-> कामे स्वालम्बनाः सर्वे रूपी द्वादशगोचरः ।
->
-> त्रयाणामुत्तरः ध्यानद्वये द्वादश कामगाः ॥ ३.३३ ॥
+```sanskrit
+कामे स्वालम्बनाः सर्वे रूपी द्वादशगोचरः ।
+त्रयाणामुत्तरः ध्यानद्वये द्वादश कामगाः ॥ ३.३३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
 
-> kāme svālambanāḥ sarve rūpī dvādaśagocaraḥ /
->
-> trayāṇām uttaraḥ dhyānadvaye dvādaśa kāmagāḥ // 3.33 //
+```text
+kāme svālambanāḥ sarve rūpī dvādaśagocaraḥ /
+trayāṇām uttaraḥ dhyānadvaye dvādaśa kāmagāḥ // 3.33 //
+```
 
 ## 3. Lexical Analysis
 
@@ -44,17 +46,17 @@ kāme sarve svālambanāḥ
       as cognitive Condition
 
 rūpī dvādaśa-gocaraḥ
-    = the form realm is the range of twelve
+    = the Form realm is the range of twelve
 
 uttaraḥ trayāṇām [gocaraḥ]
     = the higher [formless realm] is the range of three
 ```
 
 `Gocaraḥ` is carried forward into the third clause. The Bhāṣya resolves
-`rūpī` as the form realm and `uttaraḥ` as the still higher, formless realm.
+`rūpī` as the Form realm and `uttaraḥ` as the still higher, formless realm.
 
 The final clause changes the question from possible range to the
-rangings belonging to the form realm:
+rangings belonging to the Form realm:
 
 ```text
 dhyāna-dvaye dvādaśa
@@ -70,8 +72,7 @@ Condition.
 ## 5. Translation
 
 
-### Close syntactic construe
-
+### Literal Translation
 > In the desire realm, all [eighteen] have their own [realm] as
 > cognitive Condition. The Form realm is the range of twelve; the higher realm is
 > the range of three. In the pair of dhyānas there are twelve, and [those
@@ -79,18 +80,9 @@ Condition.
 
 ### Bhāṣya-informed study translation
 
-> All eighteen Mental Rangings occur in the desire realm, and the desire realm
-> can serve as the cognitive Condition for all eighteen. The Form realm can serve as
-> the range of twelve, because the six Rangings concerned with Smell and Taste
-> are excluded there. The higher, formless realm can serve as the range of
-> only the three Dharma-Rangings, because Form and the other sensory
-> Conditions are absent there. In the first two dhyānas, twelve Mental
-> Rangings occur—the six distress-Rangings being absent—and all twelve can
-> take the desire realm as their cognitive Condition.
-
-The identification of the omitted rangings, the reference of `rūpī` and
-`uttaraḥ`, and the interpretation of `kāmagāḥ` are Bhāṣya
-determinations.
+> In the desire realm all [eighteen] have their own [realm] as object; the
+> Form realm is object-range for twelve, the higher [Formless realm] for
+> three. In the two dhyānas, twelve go to the desire realm.
 
 ## 6. Philosophical Translation
 
@@ -117,7 +109,7 @@ while the desire realm can condition those same twelve.
 | gandha | Smell | sensory Condition absent from the Form realm |
 | rasa | Taste | sensory Condition absent from the Form realm |
 | dharmopavicāra | Dharma-Ranging | Mental Ranging whose Condition is Dharma |
-| dhyānadvaya | pair of dhyānas | first and second meditative levels of the form realm |
+| dhyānadvaya | pair of dhyānas | first and second meditative levels of the Form realm |
 | daurmanasyopavicāra | distress-Ranging | sixfold affective class absent from the first two dhyānas |
 | kāmaga | desire-going / desire-directed | taking the desire realm as cognitive Condition |
 | gami-prayoga | use of a verb of going | Bhāṣya's explanation of “going” as taking a cognitive Condition |
@@ -156,7 +148,7 @@ does not entail
 realmAsCondition(x) = rūpadhātu
 ```
 
-The twelve rangings of the first two dhyānas belong to the form realm but may
+The twelve rangings of the first two dhyānas belong to the Form realm but may
 take the desire realm as their cognitive Condition.
 
 ### Admissible range follows the constitution of the field
@@ -199,6 +191,15 @@ range with a change of station.
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The Bhāṣya specifies that all eighteen Mental Rangings occur
+in the desire realm and may take it as their cognitive Condition. The Form realm is
+a Condition for twelve, excluding the Smell- and Taste-Rangings; the higher,
+formless realm is a Condition only for the three Dharma-Rangings. In the first two
+dhyānas, twelve occur because the six distress-Rangings are absent, and all twelve
+can take the desire realm as Condition. The identification of the omitted rangings,
+the reference of `rūpī` and `uttaraḥ`, and the interpretation of `kāmagāḥ` are
+Bhāṣya determinations.
 
 ## 10. OWL++ Seed
 

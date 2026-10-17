@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सम्प्रजानन् विशत्येकः तिष्ठत्यप्यपरः अपरः ।
->
-> निष्क्रामत्यपि सर्वाणि मूढोऽन्यः नित्यमण्डजः ॥ ३.१६ ॥
+```sanskrit
+सम्प्रजानन् विशत्येकः तिष्ठत्यप्यपरः अपरः ।
+निष्क्रामत्यपि सर्वाणि मूढोऽन्यः नित्यमण्डजः ॥ ३.१६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> saṃprajānan viśaty ekaḥ tiṣṭhaty apy aparaḥ aparaḥ /
->
-> niṣkrāmaty api sarvāṇi mūḍho 'nyaḥ nityam aṇḍajaḥ // 3.16 //
+```text
+saṃprajānan viśaty ekaḥ tiṣṭhaty apy aparaḥ aparaḥ /
+niṣkrāmaty api sarvāṇi mūḍho 'nyaḥ nityam aṇḍajaḥ // 3.16 //
+```
 
 ## 3. Lexical Analysis
 
@@ -68,22 +70,16 @@ their doctrinal ranking.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > One enters with clear awareness; another also remains [with clear
 > awareness]; a further one also exits [with clear awareness]. Another is
 > deluded in all [three stages]; one who will be egg-born is always [deluded].
 
 ### Bhāṣya-informed study translation
 
-> Four womb-descents are distinguished. One is clearly aware upon entry;
-> another upon entry and residence; another throughout entry, residence, and
-> emergence. A fourth undergoes all three stages under delusion. The egg-born
-> case is invariably of the deluded type, with “egg-born” applied prospectively
-> to one who will emerge from an egg.
-
-The fourfold `garbhāvakrānti` framework, cumulative scope, reversed metrical
-order, and prospective designation of the egg-born are Bhāṣya determinations.
+> One enters with clear awareness; another also remains [with clear
+> awareness]; a further one also emerges [with clear awareness]. Another is
+> deluded throughout; the egg-born one is always [so].
 
 ## 6. Philosophical Translation
 
@@ -202,6 +198,9 @@ The Bhāṣya resolves the apparent biological contradiction through the tempora
 scope of designation, not through a new birth-mechanism.
 
 ## 9. Interpretive Note
+
+**Translation note.** The fourfold `garbhāvakrānti` framework, cumulative scope, reversed metrical
+order, and prospective designation of the egg-born are Bhāṣya determinations.
 
 VAK 3.16 adds epistemic telemetry to embodiment. The World System records not
 only where and how a continuity is born, but how much clarity persists through

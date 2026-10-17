@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kāme svālambanāḥ sarve rūpī dvādaśagocaraḥ /
-trayāṇām uttaraḥ dhyānadvaye dvādaśa kāmagāḥ // 3.33 //
-```
+> kāme svālambanāḥ sarve rūpī dvādaśagocaraḥ /
+> trayāṇām uttaraḥ dhyānadvaye dvādaśa kāmagāḥ // 3.33 //
 
-> In the desire realm all have their own realm as cognitive Condition. The
-> Form realm is the range of twelve, and the higher realm of three. In the
-> first two dhyānas there are twelve, and they range toward desire.
+> In the desire realm all [eighteen] have their own [realm] as object; the
+> Form realm is object-range for twelve, the higher [Formless realm] for
+> three. In the two dhyānas, twelve go to the desire realm.
 
 The Bhāṣya first completes the determination of `manopavicāra`: it explains
 why third-concentration pleasure is not counted, why sensory language does
@@ -17,17 +15,6 @@ not make these rangings sensory cognitions, and why an object is not
 intrinsically fixed as gladdening, distressing, or equanimous. It then begins
 the distribution of the eighteen rangings by realm-membership and
 realm-Condition.
-
-### Bhāṣya-informed study translation
-
-> All eighteen Mental Rangings occur in the desire realm, and the desire realm
-> can serve as the cognitive Condition for all eighteen. The Form realm can serve as
-> the range of twelve, because the six Rangings concerned with Smell and Taste
-> are excluded there. The higher, formless realm can serve as the range of
-> only the three Dharma-Rangings, because Form and the other sensory
-> Conditions are absent there. In the first two dhyānas, twelve Mental
-> Rangings occur—the six distress-Rangings being absent—and all twelve can
-> take the desire realm as their cognitive Condition.
 
 The identification of the omitted rangings, the reference of `rūpī` and
 `uttaraḥ`, and the interpretation of `kāmagāḥ` are Bhāṣya
@@ -96,8 +83,7 @@ elided initial *a-* of *aśubhā* (“unattractive”). Other repairs include
 `tvbālambanam` to `tv ālambanam` at 147.21–22, and `āmadhātau` to
 `kāmadhātau` at 147.26. The running source remains unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Why is the pleasure of the third dhyāna not included among Mental Rangings?
 At the outset, in the desire realm, there is no mental-level Pleasure
 Faculty; correspondingly, there is no distress-Ranging as its counterpart.

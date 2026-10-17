@@ -2,32 +2,21 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-trayo muhūrttāhorātramāsā dvādaśamāsakaḥ /
-saṃvatsaraḥ sonarātraḥ kalpo bahuvidhaḥ smṛtaḥ // 3.89 //
-```
+> trayo muhūrttāhorātramāsā dvādaśamāsakaḥ /
+> saṃvatsaraḥ sonarātraḥ kalpo bahuvidhaḥ smṛtaḥ // 3.89 //
 
 > Thirty lavas make a muhūrta, thirty muhūrtas a day-and-night, and thirty
-> day-and-nights a month. A year consists of twelve months with deficient-night
-> adjustments; the kalpa is remembered as having several kinds.
+> day-and-nights a month. Twelve months make a year, with six deficient nights
+> omitted; a kalpa is remembered as manifold.
 
 The verse is metrically compressed. The Bhāṣya supplies the repeated factor
 of thirty and explains the annual `ūnarātra` adjustments.
-
-### Bhāṣya-informed study translation
-
-> Thirty lavas constitute one muhūrta, thirty muhūrtas one complete
-> day-and-night, and thirty day-and-nights one month. Twelve months constitute
-> a year: four months each of winter, summer, and the rains, with six
-> `ūnarātras` omitted during the year as calendrical corrections. Having
-> completed the measure of the year, the Kośa distinguishes four kinds of
-> kalpa: intermediate, contraction, expansion, and great kalpa.
 
 The repeated factor thirty, variable proportions of day and night, seasonal
 division, six annual omissions, and fourfold kalpa classification are Bhāṣya
 determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Trayo muhūrttāhorātramāsāḥ.
@@ -63,7 +52,7 @@ Spacing and sandhi are regularized. The mnemonic verse on the placement of
 the `ūnarātra` is translated cautiously: its wording is compressed, while
 the prose explicitly states that six such nights are omitted in a year.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 Thirty lavas make one muhūrta; thirty muhūrtas make one day-and-night. The
 night is sometimes longer, sometimes shorter, and sometimes equal [to the
 day]. Thirty day-and-nights make one month.
@@ -79,7 +68,7 @@ the prose totals six such adjustments in the year.
 The measure of the year has now been stated. The kalpa is remembered as
 having several kinds: intermediate, contraction, evolution, and great kalpa.
 
-## Natural Movement
+## 4. Natural Movement
 
 The Bhāṣya first completes ordinary time-measure from lava through muhūrta,
 day-and-night, month, and year. It then qualifies the calendar: night does
@@ -88,7 +77,7 @@ six omitted or deficient nights. Having stated the year-measure, Vasubandhu
 opens the next scale by listing four kinds of kalpa; their definitions
 belong to the following discussion.
 
-## Calendar and Classification
+## 5. Calendar and Classification
 
 | Measure | Bhāṣya determination |
 |---|---|
@@ -106,7 +95,7 @@ The Bhāṣya then names four kalpa-types without yet explaining them:
 - `vivartakalpa` — evolution kalpa
 - `mahākalpa` — great kalpa
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 The ordinary calendar is an ordered measure but not a perfectly uniform
 division of day from night: the full `ahorātra` remains the unit while its
@@ -115,13 +104,13 @@ calendar construction. `Kalpa`, in turn, is not treated as one undifferentiated
 duration; the Bhāṣya announces a fourfold classification whose members are
 to be distinguished in the next passage.
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: the text distinguishes the complete temporal unit from
 variation in its internal partition, then classifies larger cycles by kind.
 This is a project-level observation, not Vasubandhu's technical terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[177|14]` through `[178|03]` of the running
   witness.

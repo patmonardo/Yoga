@@ -2,25 +2,15 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-dehā videhāḥ kuravaḥ kauravāś cāmarāvarāḥ /
-aṣṭau tadantaradvīpā gāṭhā uttaramantriṇaḥ // 3.56 //
-```
+> dehā videhāḥ kuravaḥ kauravāś cāmarāvarāḥ /
+> aṣṭau tadantaradvīpā gāṭhā uttaramantriṇaḥ // 3.56 //
 
-> Deha, Videha, Kuru, Kaurava, Cāmara, Avara, Gāṭha, and Uttaramantriṇa are
-> the eight intermediate islands associated with the four great continents.
+> Deha, Videha, Kuru, Kaurava, Cāmara, Avara, Gāṭha, and Uttaramantriṇa
+> are the eight intermediate islands.
 
 The Bhāṣya assigns the islands in pairs to the principal continents, states
 that all are inhabited by humans, and records an alternative tradition
 according to which one unspecified island is inhabited by rākṣasas.
-
-### Bhāṣya-informed study translation
-
-> Each of the four great continents has two attendant islands: Deha and Videha
-> belong to Pūrvavideha; Kuru and Kaurava to Uttarakuru; Gāṭha and
-> Uttaramantriṇa to Aparagodānīya; and Cāmara and Avara to Jambūdvīpa. On the
-> principal account, all eight are inhabited by humans. Another tradition says
-> that one is inhabited by rākṣasas.
 
 The exact pairings, attendant relation, habitation, and alternative rākṣasa
 report are Bhāṣya determinations.
@@ -45,8 +35,7 @@ The running witness has the evident mechanical form `antaradbvīpā`, here
 regularized to `antaradvīpā`. The eight proper names are otherwise retained
 in their local witness forms pending critical comparison.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 In the spaces between those continents, intermediate islands have come into
 formation. Which are they, and how many are there? The answer is: Deha,
 Videha, Kuru, Kaurava, Cāmara, Avara, Gāṭha, and Uttaramantriṇa are their

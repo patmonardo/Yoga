@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चतुर्विंशतिरङ्गुल्यो हस्तो हस्तचतुष्टयम् ।
->
-> धनुः पञ्चशतान्येषां क्रोशोऽरण्यं च तन्मतम् ॥ ३.८७ ॥
+```sanskrit
+चतुर्विंशतिरङ्गुल्यो हस्तो हस्तचतुष्टयम् ।
+धनुः पञ्चशतान्येषां क्रोशोऽरण्यं च तन्मतम् ॥ ३.८७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> caturviṃśatir aṅgulyo hasto hastacatuṣṭayam /
->
-> dhanuḥ pañcaśatāny eṣāṃ krośo 'raṇyaṃ ca tan matam // 3.87 //
+```text
+caturviṃśatir aṅgulyo hasto hastacatuṣṭayam /
+dhanuḥ pañcaśatāny eṣāṃ krośo 'raṇyaṃ ca tan matam // 3.87 //
+```
 
 ## 3. Lexical Analysis
 
@@ -73,21 +75,16 @@ numerical composition.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Twenty-four aṅgulis are one hasta; four hastas are one dhanu. Five hundred
 > of these are one krośa, and a region at that distance is regarded as
 > wilderness.
 
 ### Bhāṣya-informed study translation
 
-> Twenty-four finger-breadths constitute one hasta; four hastas constitute one
-> dhanu or measured span; and five hundred dhanu measures constitute one
-> krośa. A region beginning at approximately one krośa from a village is
-> conventionally regarded as wilderness.
-
-The clarification of `dhanu` as a span or extent and the village-relative
-definition of `araṇya` are Bhāṣya determinations.
+> Twenty-four finger-breadths make one hasta; four hastas make one dhanu; five
+> hundred dhanu make one krośa, and a region at that distance is regarded as
+> wilderness.
 
 ## 6. Philosophical Translation
 
@@ -201,6 +198,9 @@ atomic constituent
 The path remains continuous even though its final predicate changes type.
 
 ## 9. Interpretive Note
+
+**Translation note.** The clarification of `dhanu` as a span or extent and the village-relative
+definition of `araṇya` are Bhāṣya determinations. The Bhāṣya clarifies dhanu as a measured span and defines wilderness relative to a village, at approximately one krośa.
 
 VAK 3.87 deepens the Mind-of-the-Enclosure account. In 3.86 the enclosure rule
 was invariant: seven became one at every resolution. Here the same logical

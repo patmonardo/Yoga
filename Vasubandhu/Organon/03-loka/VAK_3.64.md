@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> करोटपाणयस्तासु मालाधाराः सदामदाः ।
->
-> महाराजिकदेवाश्च पर्वतेष्वपि सप्तसु ॥ ३.६४ ॥
+```sanskrit
+करोटपाणयस्तासु मालाधाराः सदामदाः ।
+महाराजिकदेवाश्च पर्वतेष्वपि सप्तसु ॥ ३.६४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> karoṭapāṇayas tāsu mālādhārāḥ sadāmadāḥ /
->
-> mahārājikadevāś ca parvateṣv api saptasu // 3.64 //
+```text
+karoṭapāṇayas tāsu mālādhārāḥ sadāmadāḥ /
+mahārājikadevāś ca parvateṣv api saptasu // 3.64 //
+```
 
 ## 3. Lexical Analysis
 
@@ -61,22 +63,14 @@ seven mountains beginning with Yugandhara.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > On those [terraces are] the Karoṭapāṇis, the Mālādhāras, and the Sadāmadas;
 > and Mahārājika devas are also on the seven mountains.
 
 ### Bhāṣya-informed study translation
 
-> Karoṭapāṇi yakṣas inhabit the first terrace, Mālādhāras the second, and
-> Sadāmadas—also called Sadāmattas—the third. The Four Great Kings themselves
-> and their attendants inhabit the fourth. All these belong to the host of the
-> Four Great Kings. That same class also has villages and towns on the seven
-> mountains beginning with Yugandhara.
-
-The terrace-by-terrace assignment, identification of the Karoṭapāṇis as
-yakṣas, fourth-terrace population, common Cāturmahārājakāyika classification,
-and settlement forms are Bhāṣya determinations.
+> On these terraces are Karoṭapāṇis, Mālādhāras, and the ever-intoxicated
+> Sadāmadas; the Great-King gods also dwell on the seven mountains.
 
 ## 6. Philosophical Translation
 
@@ -163,6 +157,10 @@ The particle `api`, “also,” is logically important: it expands the extension
 of the population without replacing its terrace habitations.
 
 ## 9. Interpretive Note
+
+**Translation note.** The terrace-by-terrace assignment, identification of the Karoṭapāṇis as
+yakṣas, fourth-terrace population, common Cāturmahārājakāyika classification,
+and settlement forms are Bhāṣya determinations.
 
 VAK 3.63 and 3.64 form a precise two-stage construction:
 

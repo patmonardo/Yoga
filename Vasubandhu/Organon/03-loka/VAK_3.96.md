@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> एकद्वित्रिचतुर्द्वीपा न च द्वौ सह बुद्धवत् ।
->
-> प्रत्युद्यानस्वयंयानकलहास्त्रजितोऽवधाः ॥ ३.९६ ॥
+```sanskrit
+एकद्वित्रिचतुर्द्वीपा न च द्वौ सह बुद्धवत् ।
+प्रत्युद्यानस्वयंयानकलहास्त्रजितोऽवधाः ॥ ३.९६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> eka-dvi-tri-catur-dvīpā na ca dvau saha buddhavat /
->
-> pratyudyāna-svayaṃyāna-kalahāstrajito 'vadhāḥ // 3.96 //
+```text
+eka-dvi-tri-catur-dvīpā na ca dvau saha buddhavat /
+pratyudyāna-svayaṃyāna-kalahāstrajito 'vadhāḥ // 3.96 //
+```
 
 The final word is textually decisive. The Bhāṣya glosses `avadhāḥ` through
 `vadho na pravartate`—killing does not occur—even for the ruler who conquers
@@ -91,8 +93,7 @@ is not a fifth conquest mode.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > They [rule] one, two, three, and four continents respectively; and two do
 > not [arise] together, as with Buddhas. They conquer respectively through
 > reception, personal approach, conflict, and weapons; they are without
@@ -100,19 +101,9 @@ is not a fifth conquest mode.
 
 ### Bhāṣya-informed study translation
 
-> The iron-, copper-, silver-, and gold-wheel sovereigns rule respectively
-> one, two, three, and four continents. Two cakravartins do not arise
-> simultaneously in the same World-field, just as two Buddhas do not. The
-> gold-wheel ruler is voluntarily received; the silver-wheel ruler goes to
-> the subordinate kings, who then submit; the copper-wheel ruler meets them
-> in conflict before their submission; and the iron-wheel ruler encounters
-> armed resistance. Nevertheless, none of the four kills. After victory they
-> establish beings in the ten wholesome courses of action.
-
-The exact wheel mappings, same-world qualification, absence of killing, and
-subsequent moral establishment are Bhāṣya determinations. The commentary also
-records disagreement over whether Buddhas may arise simultaneously in
-different world-systems.
+> They rule one, two, three, or four continents respectively; two do not arise
+> together, as with Buddhas. They conquer by reception, approach, conflict, or
+> weapons, respectively, but do not kill.
 
 ## 6. Philosophical Translation
 
@@ -206,6 +197,11 @@ association with cakravartin
 The royal assemblage is coordinated without collapsing causal ownership.
 
 ## 9. Interpretive Note
+
+**Translation note.** The exact wheel mappings, same-world qualification, absence of killing, and
+subsequent moral establishment are Bhāṣya determinations. The commentary also
+records disagreement over whether Buddhas may arise simultaneously in
+different world-systems. The Bhāṣya maps the four wheels to one through four continents, qualifies the non-simultaneity as within one world-field, and describes voluntary reception, submission after approach, conflict, and armed resistance. No type kills; after victory they establish the ten wholesome courses of action. The commentary records disagreement about Buddhas arising simultaneously in different world-systems.
 
 The methodological abstraction of 3.96 is: **a power is incompletely
 specified until its range, operation, and limit are jointly determined.**

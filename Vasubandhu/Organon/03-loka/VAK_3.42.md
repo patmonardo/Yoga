@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> छेदसंधानवैराग्यहानिच्युत्युपपत्तयः ।
->
-> मनोविज्ञान एवेष्टाः उपेक्षायां च्युतोद्भवौ ॥ ३.४२ ॥
+```sanskrit
+छेदसंधानवैराग्यहानिच्युत्युपपत्तयः ।
+मनोविज्ञान एवेष्टाः उपेक्षायां च्युतोद्भवौ ॥ ३.४२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> chedasaṃdhāna vairāgyahānicyutyupapattayaḥ /
->
-> manovijñāna eveṣṭāḥ upekṣāyāṃ cyutodbhavau // 3.42 //
+```text
+chedasaṃdhāna vairāgyahānicyutyupapattayaḥ /
+manovijñāna eveṣṭāḥ upekṣāyāṃ cyutodbhavau // 3.42 //
+```
 
 ## 3. Lexical Analysis
 
@@ -22,7 +24,7 @@
 | hāni | fourth member of list | decline / falling away from an attainment |
 | cyuti | fifth member of list | death; falling from the present existence |
 | upapatti | sixth member of list | rebirth / arising in another existence |
-| manovijñāne | locative singular compound | in mental differentiated cognition alone |
+| manovijñāne | locative singular compound | in mental Cognition alone |
 | eva | restrictive particle | only |
 | iṣṭāḥ | nominative masculine plural past passive participle | accepted / maintained [to occur] |
 | upekṣāyām | locative singular | with equanimity; technically neither-painful-nor-pleasant feeling |
@@ -42,7 +44,7 @@ cheda-saṃdhāna-vairāgya-hāni-cyuti-upapattayaḥ
 
 cutting, reconnection, dispassion, decline, death, and rebirth
     are accepted
-    only in mental differentiated cognition
+    only in mental Cognition
 ```
 
 The second predication specifies the feeling accompanying two of those events:
@@ -60,32 +62,20 @@ neither-painful-nor-pleasant feeling.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Cutting, reconnection, dispassion, decline, death, and rebirth are accepted
-> only in mental differentiated cognition. Death and arising occur with
+> only in mental Cognition. Death and arising occur with
 > equanimity.
 
 ### Bhāṣya-informed study translation
 
-> The cutting off of wholesome roots, their reconnection, dispassion from a
-> realm or level, decline from an attainment, death, and rebirth occur only
-> while mental differentiated cognition is operative. Rebirth here includes
-> the linking of intermediate existence. Death and arising occur only with
-> neither-painful-nor-pleasant feeling, whose non-acute character is compatible
-> with transition. They do not occur while consciousness is concentrated in
-> samādhi, nor while mind is absent: when a mindless being's bodily support
-> begins its fatal alteration, mind bound to that support must first become
-> manifest, and death follows only afterward.
-
-The expansions of the six events, the technical determination of equanimity,
-and the exclusions of concentrated and mindless states are Bhāṣya
-determinations.
+> Cutting off, reconnection, dispassion, decline, death, and rebirth are held
+> to occur only in mental Cognition. Death and arising occur with equanimity.
 
 ## 6. Philosophical Translation
 
 > The decisive transformations of an embodied series belong to mental
-> differentiated cognition: ethical capacity may be severed or restored, a
+> Cognition: ethical capacity may be severed or restored, a
 > realm may lose its hold, an attainment may decline, and one embodiment may
 > be relinquished while another is entered. At death and arising, the intense
 > polarities of pleasure and pain subside into neutral feeling. Transition
@@ -104,7 +94,7 @@ determinations.
 | cyuti | death / falling away | departure from present becoming |
 | upapatti | rebirth / arising | establishment in renewed becoming |
 | antarābhavapratisaṃdhi | linking of intermediate existence | included under rebirth according to the Bhāṣya |
-| manovijñāna | mental differentiated cognition | exclusive cognitive locus of the six events |
+| manovijñāna | mental Cognition | exclusive cognitive locus of the six events |
 | upekṣā | equanimity / neutral feeling | neither-painful-nor-pleasant feeling accompanying death and arising |
 | aduḥkhāsukhavedanā | neither-painful-nor-pleasant feeling | precise affective class of the transition |
 | paṭu | acute / forceful | character of pleasant and painful feeling excluded at transition |
@@ -211,6 +201,16 @@ the conscious series. This determination belongs to the commentary beyond the
 metrical assertion about death and arising generally.
 
 ## 9. Interpretive Note
+
+**Translation note.** The six events are cutting off wholesome roots, their
+reconnection, dispassion from a realm or level, decline from an attainment, death,
+and rebirth (including the linking of Intermediate Becoming); each occurs only while
+mental Cognition is operative. Death and arising are associated with
+neither-painful-nor-pleasant feeling. They do not occur in samādhi or while Mind is
+absent; for a mindless being, Mind must first manifest as the body begins fatal
+alteration, and death follows. The expansions of the six events, the technical
+determination of equanimity, and the exclusions of concentrated and mindless states
+are Bhāṣya determinations.
 
 At the project level, the transition is analyzed through Mind-Cognition, Feeling, concentration-status, and bodily support. This does not identify it with sensory cognition or generalize beyond the Bhāṣya's cases; the client/Agent model is an analogy only.
 

@@ -5,13 +5,10 @@
 > sahaikatra dvayābhāvāt asantānād dvayodayāt /
 > kaṇṭhokteś cāsti gandharvāt pañcokteḥ gatisūtrataḥ // 3.12 //
 
-> Reflection cannot establish discontinuous rebirth: original and reflection
-> do not occupy one place, reflection does not continue the original's series,
-> and its appearance depends upon both original and mirror. Intermediate
-> existence is further warranted by received teaching: it is expressly named,
-> presupposed by the gandharva present at conception, required by the five
-> non-returners, and differentiated in the discourse on the courses of good
-> persons.
+> [Reflection is not an example] because two are not together in one place,
+> because there is no continuity, and because two arise from two [causes].
+> Intermediate existence exists because of explicit statement, the
+> gandharva, the teaching of five, and the discourse on courses.
 
 The first half recapitulates the completed rational refutation of reflection.
 The second opens the proof from `āgama`, authoritative teaching. The Bhāṣya

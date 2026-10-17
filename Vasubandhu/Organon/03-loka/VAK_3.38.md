@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> उपपत्तिभवः क्लिष्टः सर्वक्लेशैः स्वभूमिकैः ।
->
-> त्रिधान्ये त्रय आरूप्ये आहारस्थितिकं जगत् ॥ ३.३८ ॥
+```sanskrit
+उपपत्तिभवः क्लिष्टः सर्वक्लेशैः स्वभूमिकैः ।
+त्रिधान्ये त्रय आरूप्ये आहारस्थितिकं जगत् ॥ ३.३८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> upapattibhavaḥ kliṣṭaḥ sarvakleśaiḥ svabhūmikaiḥ /
->
-> tridhā 'nye traya ārūpye āhārasthitikaṃ jagat // 3.38 //
+```text
+upapattibhavaḥ kliṣṭaḥ sarvakleśaiḥ svabhūmikaiḥ /
+tridhā 'nye traya ārūpye āhārasthitikaṃ jagat // 3.38 //
+```
 
 ## 3. Lexical Analysis
 
@@ -65,27 +67,16 @@ becoming in the formless realm are supplied by the Bhāṣya.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Rebirth-becoming is defiled by all the afflictions belonging to its own
 > level. The others are threefold. In the formless realm there are three. The
 > World persists through nutriment.
 
 ### Bhāṣya-informed study translation
 
-> Rebirth-becoming is necessarily defiled and may be bound by any affliction
-> belonging to the level in which that rebirth occurs. The other three modes
-> of becoming—intermediate, life-course, and death becoming—may each be
-> wholesome, defiled, or indeterminate. In the formless realm only three modes
-> occur: rebirth, life-course, and death; intermediate becoming is absent
-> because that realm is not spatially delimited as another place requiring an
-> intervening transition-body. Having explained how sentient beings arise
-> through dependent co-arising, the text now states how they remain: the World
-> persists through nutriment.
-
-The necessity of defilement, the three ethical classes, the excluded mode in
-the formless realm, and the arising-versus-persistence transition are Bhāṣya
-determinations.
+> Rebirth-becoming is defiled by all the afflictions of its own level; the
+> other three [modes] are of three kinds. In the Formless realm there are
+> three. The World persists through nutriment.
 
 ## 6. Philosophical Translation
 
@@ -163,7 +154,7 @@ retained history of operation conditions which affliction becomes present.
 ### Realm topology determines the need for transition
 
 ```text
-desire realm / form realm:
+desire realm / Form realm:
     spatially differentiated destinations
         → all four modes admitted
 
@@ -201,6 +192,16 @@ announces four nutriments; their detailed determination follows in the next
 verses.
 
 ## 9. Interpretive Note
+
+**Translation note.** Rebirth-becoming is necessarily defiled, and may involve any
+affliction belonging to its own level; intermediate, life-course, and death becoming
+may each be wholesome, defiled, or indeterminate. Only rebirth, life-course, and
+death occur in the Formless realm: intermediate becoming is absent because that
+realm is not spatially delimited as another place needing an intervening
+transition-body. The verse turns from dependent arising to the World’s persistence
+through nutriment. The necessity of defilement, the three ethical classes, the
+excluded mode in the formless realm, and the arising-versus-persistence transition
+are Bhāṣya determinations.
 
 At the project level, this verse distinguishes production from persistence:
 dependent co-arising explains arising, while nutriment explains continued

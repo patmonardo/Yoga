@@ -2,35 +2,22 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-deśasthottaptapūrṇatvair lakṣaṇātiśayo muneḥ /
-prāg āsan rūpivat sattvā rasarāgāt tataḥ śanaiḥ // 3.97 //
-```
+> deśasthottaptapūrṇatvair lakṣaṇātiśayo muneḥ /
+> prāg āsan rūpivat sattvā rasarāgāt tataḥ śanaiḥ // 3.97 //
 
-> The Muni's marks are superior through their placement, vividness, and
-> completeness. Formerly beings were like rūpa-realm beings; then, through
-> attachment to savor, [they changed] gradually.
+> The Muni's marks surpass others' in proper placement, vividness, and
+> completeness. Formerly beings were like those of the Form realm; thereafter
+> they changed gradually through attachment to savor.
 
 The Bhāṣya first completes the comparison between Buddha and Cakravartin,
 then narrates the gradual material and social transformation of first-age
 humanity.
 
-### Bhāṣya-informed study translation
-
-> The Buddha's marks surpass the corresponding marks of a cakravartin by
-> being more exactly situated, more vividly manifest, and more completely
-> developed. At the beginning of the kalpa, human beings resembled beings of
-> the rūpa realm: they were mind-made, self-luminous, moved through the sky,
-> fed on joy, and lived for a long time. When attachment to the newly appeared
-> earth-savor arose, they gradually entered gross nourishment, heavier
-> embodiment, environmental differentiation, sexual differentiation, and the
-> social conditions of the present Human World.
-
 The detailed qualities of first-kalpa beings and every stage after
 `rasarāga` are supplied by the Bhāṣya and its cited sūtra, not enumerated in
 the verse.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 This sustained unit continues through the arising of kingship, the
 designation of Brahmins, and the beginning of false speech. The source's
@@ -99,7 +86,7 @@ rewritten. The source's phrase `ālasyāt saṃnidhiṃ kṛtvā sāgrahaiḥ k�
 bhṛtaḥ` is compressed and its relation to the prose is uncertain; it is
 retained above. Some sandhi and obvious spelling variants are regularized.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 Is the possession of a wheel the only distinction between Cakravartins and
 other kings? There is another: they possess the thirty-two marks of a great
 person, as Buddhas do. The Muni's marks are superior through their more exact
@@ -151,7 +138,7 @@ designation “Brahmins.” Later, out of a king's greed, some did not share
 them with weapons. Then others began to speak falsely, saying, “We did not do
 that.”
 
-## Natural Movement
+## 4. Natural Movement
 
 The passage moves from first-age human qualities through successive changes
 in food, body, and social relations. Greed for savor begins the process;
@@ -161,14 +148,14 @@ explains the names `kṣatriya` and `Mahāsammata` within this account of
 kingship's origin. It ends with false speech, immediately before 3.98
 continues the decline in lifespan.
 
-## Organon Contact Point
+## 5. Organon Contact Point
 
 Light contact: the commentary narrates a sequence in which changing habits
 of nourishment and appropriation accompany changes in bodies and social
 institutions. This remains Vasubandhu's cosmological account in the source;
 any comparison with project concepts is secondary.
 
-## Review Status
+## 6. Review Status
 
 - Follows the full 3.97 unit through the beginning of false speech; stops
   before the next kārikā at `[187|21]`.

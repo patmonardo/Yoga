@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> आरूप्यधातुरस्थानः उपपत्त्या चतुर्विधः ।
->
-> निकायं जीवितं चात्र निश्रिता चित्तसन्ततिः ॥ ३.३ ॥
+```sanskrit
+आरूप्यधातुरस्थानः उपपत्त्या चतुर्विधः ।
+निकायं जीवितं चात्र निश्रिता चित्तसन्ततिः ॥ ३.३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ārūpyadhāturasthānaḥ upapattyā caturvidhaḥ /
->
-> nikāyaṃ jīvitaṃ cātra niśritā cittasantatiḥ // 3.3 //
+```text
+ārūpyadhāturasthānaḥ upapattyā caturvidhaḥ /
+nikāyaṃ jīvitaṃ cātra niśritā cittasantatiḥ // 3.3 //
+```
 
 ## 3. Lexical Analysis
 
@@ -21,7 +23,7 @@
 | upapattyā | instrumental feminine singular of `upapatti` | according to rebirth / by differentiation of rebirth |
 | catur-vidhaḥ | nominative masculine singular adjective | fourfold, of four kinds |
 | nikāyam | accusative masculine singular | class; interpreted by the Bhāṣya as common class-character |
-| jīvitam | accusative neuter singular | life; interpreted by the Bhāṣya as life-faculty |
+| jīvitam | accusative neuter singular | life; interpreted by the Bhāṣya as life-Faculty |
 | atra | locative adverb | here, in this Formless Realm |
 | niśritā | nominative feminine singular past participle of `ni-√śri` | resting upon, dependent upon |
 | citta-santatiḥ | nominative feminine singular compound | continuity of consciousness |
@@ -54,27 +56,21 @@ citta-santatiḥ        subject
 ```
 
 The Bhāṣya specifies the compressed terms as `nikāyasabhāga` and
-`jīvitendriya`: common class-character and life-faculty. That specification is
+`jīvitendriya`: common class-character and life-Faculty. That specification is
 the Ābhidhārmika interpretation subsequently challenged in the commentary; it
 must not be mistaken for an uncontested expansion of the verse.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The Formless Realm has no station; it is fourfold according to rebirth.
 > Here the continuity of consciousness rests upon class and life.
 
 ### Bhāṣya-informed study translation
 
-> The Formless Realm has no spatial station, yet it is fourfold according to
-> rebirth. In this Realm, the continuity of consciousness is said to depend
-> upon the common class-character and the life-faculty.
-
-“Spatial” reflects the Bhāṣya's explanation `adeśastha`, not a separate word
-in the Kārikā. “Common class-character” and “life-faculty” render the
-Bhāṣya's `nikāyasabhāga` and `jīvitendriya`. The phrase “is said to” preserves
-the fact that the commentary subjects this support-model to criticism.
+> The Formless Realm has no spatial station and is fourfold through rebirth.
+> Here, the continuity of consciousness rests upon class and the
+> life-Faculty.
 
 ## 6. Philosophical Translation
 
@@ -99,7 +95,7 @@ identify the Formless Realm with liberation.
 | nikāya | class | Kārikā term expanded by the Bhāṣya as `nikāyasabhāga` |
 | nikāyasabhāga | common class-character | proposed non-material support in the Ābhidhārmika account |
 | jīvita | life | Kārikā term expanded by the Bhāṣya as `jīvitendriya` |
-| jīvitendriya | life-faculty | second proposed support of consciousness-continuity |
+| jīvitendriya | life-Faculty | second proposed support of consciousness-continuity |
 | citta-santati | continuity of consciousness | conditioned succession of `citta` |
 | niśrita | dependent upon | specifies the relevant support relation |
 | samāpattiviśeṣaja | arisen from a distinctive attainment | Ābhidhārmika explanation of the strength of the proposed supports |
@@ -112,7 +108,7 @@ The Bhāṣya names the four formless modes of rebirth:
     Essence of the infinitude of space
 
 vijñānānantyāyatana
-    Essence of the infinitude of differentiated cognition
+    Essence of the infinitude of Cognition
 
 ākiṃcanyāyatana
     Essence of nothingness
@@ -181,6 +177,11 @@ is from static support to genesis.
 
 ## 9. Interpretive Note
 
+**Translation note.** “Spatial” reflects the Bhāṣya's explanation `adeśastha`, not a separate word
+in the Kārikā. “Common class-character” and “life-Faculty” render the
+Bhāṣya's `nikāyasabhāga` and `jīvitendriya`. The phrase “is said to” preserves
+the fact that the commentary subjects this support-model to criticism.
+
 VAK 3.03 prevents the World System from being reduced to the physical world.
 The negation of `sthāna` does not terminate `loka`. An ordered continuum of
 conditioned existence remains, differentiated by rebirth and marked by life
@@ -193,7 +194,7 @@ the World System—not the Absolute:
 formlessness
     still has upapatti
     still has conditioned continuity
-    still has class-character and life-faculty in the Ābhidhārmika account
+    still has class-character and life-Faculty in the Ābhidhārmika account
     still has a projecting cause in the Sautrāntika account
 
 therefore

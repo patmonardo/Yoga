@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विपर्यस्तमतिर्याति गतिदेशं रिरंसया ।
->
-> गन्धस्थानाभिकामोऽन्यः ऊर्ध्वपादस्तु नारकः ॥ ३.१५ ॥
+```sanskrit
+विपर्यस्तमतिर्याति गतिदेशं रिरंसया ।
+गन्धस्थानाभिकामोऽन्यः ऊर्ध्वपादस्तु नारकः ॥ ३.१५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> viparyastamatir yāti gatideśaṃ riraṃsayā /
->
-> gandhasthānābhikāmo 'nyaḥ ūrdhvapādas tu nārakaḥ // 3.15 //
+```text
+viparyastamatir yāti gatideśaṃ riraṃsayā /
+gandhasthānābhikāmo 'nyaḥ ūrdhvapādas tu nārakaḥ // 3.15 //
+```
 
 ## 3. Lexical Analysis
 
@@ -25,7 +27,7 @@
 | anyaḥ | nominative masculine singular | another [intermediate being or birth-case] |
 | ūrdhva-pādaḥ | nominative masculine singular compound | with feet upward; inverted in orientation |
 | tu | contrastive particle | but; however |
-| nārakaḥ | nominative masculine singular | hell-bound intermediate being |
+| nārakaḥ | nominative masculine singular | naraka-bound intermediate being |
 
 The subject of `yāti` is the intermediate being carried forward from VAK
 3.14. `Riraṃsayā` expresses the affective means of approach, while
@@ -54,14 +56,14 @@ anyaḥ [antarābhavaḥ]
 
 > Another, attracted toward scent or a place, [goes there].
 
-The final clause specifies the hell-bound orientation:
+The final clause specifies the naraka-bound orientation:
 
 ```text
 nārakaḥ tu
     ūrdhva-pādaḥ [yāti]
 ```
 
-> But the hell-bound intermediate being goes with feet upward.
+> But the naraka-bound intermediate being goes with feet upward.
 
 The Kārikā compresses multiple birth-modes. The Bhāṣya assigns longing under
 distortion to womb-entry, scent-attraction to moisture-birth, place-attraction
@@ -69,22 +71,16 @@ to spontaneous birth, and distinctive orientation to different destinies.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > With inverted understanding, it goes to the place of its destiny through
-> longing. Another is attracted toward scent or a place; but the hell-bound
+> longing. Another is attracted toward scent or a place; but the naraka-bound
 > intermediate being goes with feet upward.
 
 ### Bhāṣya-informed study translation
 
-> The intermediate being approaches its karmically projected rebirth-place
-> through a distorted presentation and the longing corresponding to its mode
-> of birth. A moisture-born transition approaches an impure or pure site,
-> drawn by scent; a spontaneously arisen transition is attracted toward its
-> place. A hell-bound transition moves inverted, with feet upward.
-
-The distribution across womb, moisture, and spontaneous birth and the pure or
-impure character of scent are Bhāṣya determinations.
+> With inverted perception, it goes to the place of its destiny through
+> longing. Another is drawn toward scent or a place; the naraka-bound,
+> however, goes feet upward.
 
 ## 6. Philosophical Translation
 
@@ -100,7 +96,7 @@ impure character of scent are Bhāṣya determinations.
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | viparyasta-mati | inverted understanding | distorted cognition under which the destination is approached |
-| viparyasta-buddhitva | condition of inverted understanding | Bhāṣya explanation of attraction toward a hell-destination |
+| viparyasta-buddhitva | condition of inverted understanding | Bhāṣya explanation of attraction toward a Naraka-destination |
 | gati-deśa | place of destiny | karmically projected destination toward which transit moves |
 | upapatti-deśa | place of rebirth | Bhāṣya sharpening of `gati-deśa` |
 | riraṃsā | longing to enjoy | affective attraction mediating approach to womb-birth |
@@ -108,7 +104,7 @@ impure character of scent are Bhāṣya determinations.
 | gandha-sthāna | scent and place | scent applies to moisture-birth; place to spontaneous birth |
 | yoni | mode of birth | determines the proximate mode under which a destination is approached |
 | karma-prabhāva-saṃbhūta-cakṣus | eye produced by karmic efficacy | sees its own distant place of rebirth |
-| ūrdhva-pāda | feet-upward | orientation assigned to the hell-bound intermediate being |
+| ūrdhva-pāda | feet-upward | orientation assigned to the naraka-bound intermediate being |
 | upapatti-saṃvartanīya-karma | karma conducing to a rebirth | Bhāṣya term in the older teachers' representational account |
 | pūrvācārya | former teacher | source attribution for the alternative account of karmic re-presentation |
 
@@ -145,22 +141,22 @@ desire
     rather than selecting an open destination
 ```
 
-### Hell is sought under the appearance of relief
+### Naraka is sought under the appearance of relief
 
-The Bhāṣya answers the objection “How could anyone desire a place in hell?”
+The Bhāṣya answers the objection “How could anyone desire a place in Naraka?”
 with two symmetrical cases:
 
 ```text
 present torment by cold
-    → hell-fire appears as warmth
+    → fire in Naraka appears as warmth
     → movement toward apparent relief
 
 present torment by heat
-    → hell-cold appears as cooling
+    → cold in Naraka appears as cooling
     → movement toward apparent relief
 ```
 
-The destination is not desired under the determination “hell.” It is
+The destination is not desired under the determination “Naraka.” It is
 approached through an inverted appearance fitted to the operative attraction.
 
 ### Birth-mode determines approach-mode
@@ -180,7 +176,7 @@ destiny-class
 ```
 
 The Bhāṣya says the deva intermediate being moves upward; human, animal, and
-preta transitions move correspondingly to their destinations; the hell-bound
+preta transitions move correspondingly to their destinations; the naraka-bound
 case is specifically feet-upward.
 
 ### Older-teacher account
@@ -197,6 +193,9 @@ This is an attributed alternative and must not be silently promoted to
 Vasubandhu's unqualified conclusion.
 
 ## 9. Interpretive Note
+
+**Translation note.** The distribution across womb, moisture, and spontaneous birth and the pure or
+impure character of scent are Bhāṣya determinations.
 
 VAK 3.15 reveals the World System as an appearance-driven transition engine.
 The projected result does not need to appear truthfully in order to operate.
@@ -263,7 +262,7 @@ loka:BirthModeApproachSchema a organon:TypedTransitionSchema ;
     organon:maps loka:MoistureBirth to loka:ScentPlaceAttraction ;
     organon:maps loka:SpontaneousBirth to loka:PlaceAttraction .
 
-loka:HellBoundTransition a organon:DestinyOrientedTransition ;
+loka:NarakaBoundTransition a organon:DestinyOrientedTransition ;
     organon:hasOrientation loka:FeetUpward ;
-    organon:approaches loka:HellDestinationUnderApparentRelief .
+    organon:approaches loka:NarakaDestinationUnderApparentRelief .
 ```

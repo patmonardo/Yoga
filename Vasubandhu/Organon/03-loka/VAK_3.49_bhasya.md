@@ -2,26 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-aśvakarṇo vinitako nimindharagiris tataḥ /
-dvīpā bahiś cakravāḍaḥ sapta haimāḥ sa āyasaḥ // 3.49 //
-```
+> aśvakarṇo vinitako nimindharagiris tataḥ /
+> dvīpā bahiś cakravāḍaḥ sapta haimāḥ sa āyasaḥ // 3.49 //
 
-> Then come Aśvakarṇa, Vinitaka, and Mount Nimindhara. Beyond Nimindhara are
-> the continents, and beyond them is Cakravāḍa. The seven surrounding
-> mountains are golden; that outer boundary is iron.
+> Then come Aśvakarṇa, Vinitaka, and Nimindhara; beyond them are the
+> continents; outside stands Cakravāḍa. The seven are golden; that one is
+> iron.
 
 The Bhāṣya completes the mountain list begun in VAK 3.48, places Sumeru in
 the middle, identifies Nimindhara as the outermost surrounding mountain,
 locates the four continents beyond it, and describes Cakravāḍa as the outer
 enclosure of the four-continent world.
-
-### Bhāṣya-informed study translation
-
-> Aśvakarṇa, Vinitaka, and Nimindhara complete the seven golden mountain-ranges
-> surrounding Sumeru, with Nimindhara outermost. Beyond it lie the four
-> continents, and beyond them stands the iron Cakravāḍa, enclosing the entire
-> four-continent world.
 
 The outermost position of Nimindhara, number of continents, enclosing function
 of Cakravāḍa, and material assignments are supplied by the Bhāṣya.
@@ -56,8 +47,7 @@ uncertain. Because the Kārikā's `āyasaḥ` securely identifies Cakravāḍa a
 iron, the conventional translation follows that explicit reading while
 leaving the damaged prose form visible for later review.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Aśvakarṇa, Vinitaka, and Mount Nimindhara complete the list. These are the
 eight great mountains established upon the golden maṇḍala. Sumeru is in the
 middle, while the others are positioned in surrounding arrangements around
@@ -201,7 +191,7 @@ forms found in other cosmological witnesses should not replace them before
 critical comparison.
 
 The natural commentary boundary is also doctrinally consequential. The
-first-pass Bhāṣya Study attached the later Sāṃkhya `pariṇāma` debate to VAK
+earlier Bhāṣya Study attached the later Sāṃkhya `pariṇāma` debate to VAK
 3.49. In the running source, however, `catūratnamayo meruḥ`, the opening of
 VAK 3.50, intervenes before that debate. The polemic must therefore be
 studied with 3.50 rather than back-projected into this geographical verse.

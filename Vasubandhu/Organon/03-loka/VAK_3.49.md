@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अश्वकर्णो विनितको निमिन्धरगिरिस्ततः ।
->
-> द्वीपा बहिश्चक्रवाडः सप्त हैमाः स आयसः ॥ ३.४९ ॥
+```sanskrit
+अश्वकर्णो विनितको निमिन्धरगिरिस्ततः ।
+द्वीपा बहिश्चक्रवाडः सप्त हैमाः स आयसः ॥ ३.४९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> aśvakarṇo vinitako nimindharagiris tataḥ /
->
-> dvīpā bahiś cakravāḍaḥ sapta haimāḥ sa āyasaḥ // 3.49 //
+```text
+aśvakarṇo vinitako nimindharagiris tataḥ /
+dvīpā bahiś cakravāḍaḥ sapta haimāḥ sa āyasaḥ // 3.49 //
+```
 
 The local witness reads `vinitaka` and `nimindhara`; these forms are preserved
 pending comparison with a critical edition and variant cosmological lists.
@@ -64,20 +66,15 @@ mountains; the singular pronoun refers to the outer Cakravāḍa.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > [There are] Aśvakarṇa, Vinitaka, and Mount Nimindhara. Beyond them are the
 > continents; outside is Cakravāḍa. The seven are golden; that one is iron.
 
 ### Bhāṣya-informed study translation
 
-> Aśvakarṇa, Vinitaka, and Nimindhara complete the seven golden mountain-ranges
-> surrounding Sumeru, with Nimindhara outermost. Beyond it lie the four
-> continents, and beyond them stands the iron Cakravāḍa, enclosing the entire
-> four-continent world.
-
-The outermost position of Nimindhara, number of continents, enclosing function
-of Cakravāḍa, and material assignments are supplied by the Bhāṣya.
+> Then come Aśvakarṇa, Vinitaka, and Nimindhara; beyond them are the
+> continents; outside stands Cakravāḍa. The seven are golden; that one is
+> iron.
 
 ## 6. Philosophical Translation
 
@@ -117,6 +114,14 @@ encloses the four-continent world. The Bhāṣya's question about how these
 structures arise begins with the next Kārikā and is treated in VAK 3.50.
 
 ## 9. Interpretive Note
+
+**Translation note.** Aśvakarṇa, Vinitaka, and Nimindhara complete the seven golden
+mountain-ranges around Sumeru, with Nimindhara outermost. Beyond them lie the four
+continents, and beyond these the iron Cakravāḍa encloses the four-continent world.
+The local readings `vinitaka` and `nimindhara` are preserved pending
+critical-edition comparison. The outermost position of Nimindhara, number of
+continents, enclosing function of Cakravāḍa, and material assignments are supplied
+by the Bhāṣya.
 
 VAK 3.49 completes the topology of the four-continent world:
 

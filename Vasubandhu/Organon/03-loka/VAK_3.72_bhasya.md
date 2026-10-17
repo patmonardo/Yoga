@@ -2,14 +2,12 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-sthānāt sthānād adho yāvat tāvad ūrdhvaṃ tatas tataḥ /
-nordhvaṃ darśanam asty eṣām anyatrarddhiparāśrayāt // 3.72 //
-```
+> sthānāt sthānād adho yāvat tāvad ūrdhvaṃ tatas tataḥ /
+> nordhvaṃ darśanam asty eṣām anyatrarddhiparāśrayāt // 3.72 //
 
-> From each station, the next above is as far upward as Jambūdvīpa lies
-> downward from it. These beings do not see upward except through supernormal
-> power or reliance upon another.
+> From each heavenly station, the distance downward is matched by an equal
+> distance upward to the next; these beings do not see above except
+> through supernormal power or another's support.
 
 The Bhāṣya derives the spacing of the higher deva stations from their distance
 above Jambūdvīpa and identifies Akaniṣṭha as the terminal station. It then
@@ -18,21 +16,6 @@ higher domain. The last distinction is explained through `aviṣayatva`, the
 fact that a higher-level body is outside the object-range of lower-level
 faculties. A Nikāyāntarīya account proposes that higher beings appear below in
 a constructed body suited to the lower level.
-
-### Bhāṣya-informed study translation
-
-> Beginning from Jambūdvīpa, the distance from any heavenly station down to
-> Jambūdvīpa equals the distance from that station up to the next station. Thus
-> the principal station of the Four Great Kings stands 40,000 yojanas above
-> here, the station of the Thirty-Three another 40,000 above that, and each
-> subsequent interval equals the total height already reached. The sequence
-> ends at Akaniṣṭha, above which there is no further station. Beings of a lower
-> station do not ordinarily ascend to and see a higher residence. They may do
-> so through their own ṛddhi or by being led by a more powerful deva or one
-> belonging to that higher station. Yet a genuinely higher dhātu or bhūmi does
-> not thereby become an object of lower-level faculties. According to the
-> Nikāyāntarīyas, a higher being appears below through a constructed body
-> belonging to the lower bhūmi.
 
 The Jambūdvīpa reference, examples and terminal station, two access modes,
 object-domain restriction, and constructed-body account are Bhāṣya
@@ -85,7 +68,7 @@ preserved rather than expanded into a confident etymology. The phrase
 form; its syntax is compressed, but the following question and answer make
 the contrast with a constructed lower-bhūmi body clear.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 Of the twenty-two stations of the devas that have been described, how far is
 each higher one from the one below it?
 

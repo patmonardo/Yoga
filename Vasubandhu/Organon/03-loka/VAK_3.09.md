@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चतुर्धा नरतिर्यञ्चो नारका उपपादुकाः ।
->
-> अन्तराभवदेवाश्च प्रेता अपि जरायुजाः ॥ ३.९ ॥
+```sanskrit
+चतुर्धा नरतिर्यञ्चो नारका उपपादुकाः ।
+अन्तराभवदेवाश्च प्रेता अपि जरायुजाः ॥ ३.९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> caturdhā naratiryañco nārakā upapādukāḥ /
->
-> antarābhavadevāś ca pretā api jarāyujāḥ // 3.9 //
+```text
+caturdhā naratiryañco nārakā upapādukāḥ /
+antarābhavadevāś ca pretā api jarāyujāḥ // 3.9 //
+```
 
 ## 3. Lexical Analysis
 
@@ -19,7 +21,7 @@
 | caturdhā | indeclinable distributive adverb | in four ways; through all four birth-modes |
 | narāḥ | nominative masculine plural | humans |
 | tiryañcaḥ | nominative masculine plural | animals; literally crosswise-going beings |
-| nārakāḥ | nominative masculine plural | hell-beings |
+| nārakāḥ | nominative masculine plural | narakas |
 | upapādukāḥ | nominative masculine plural | spontaneously arisen |
 | antarābhavāḥ | nominative masculine plural | intermediate-existence beings |
 | devāḥ | nominative masculine plural | devas |
@@ -64,28 +66,23 @@ The mapping is many-to-many rather than one destiny to one birth-mode:
 |---|---:|---:|---:|---:|
 | human | yes | yes | yes | yes |
 | animal | yes | yes | yes | yes |
-| hell-being | no | no | no | yes |
+| naraka-being | no | no | no | yes |
 | intermediate-existence being | no | no | no | yes |
 | deva | no | no | no | yes |
 | preta | not stated here | yes | not stated here | yes, by Bhāṣya interpretation of `api` |
 
 ## 5. Translation
 
-### Close syntactic construe
-
-> Humans and animals are fourfold [by mode of birth]. Hell-beings are
+### Literal Translation
+> Humans and animals are fourfold [by mode of birth]. Narakas are
 > spontaneously arisen; so are intermediate-existence beings and devas.
 > Pretas are also womb-born.
 
 ### Bhāṣya-informed study translation
 
-> Humans and animals occur through all four modes of birth. Hell-beings,
-> intermediate-existence beings, and devas arise spontaneously. Pretas may be
-> womb-born and, as the commentary infers from “also,” spontaneously arisen as
-> well.
-
-The examples of each human and animal birth-mode and the second preta mode are
-Bhāṣya determinations. The Kārikā itself supplies the compressed distribution.
+> Humans and animals occur through four modes of birth; narakas,
+> intermediate-existence beings, and devas are spontaneously arisen. Pretas
+> too are womb-born.
 
 ## 6. Philosophical Translation
 
@@ -184,6 +181,9 @@ The explanation is therefore tested rather than merely accumulated.
 
 ## 9. Interpretive Note
 
+**Translation note.** The examples of each human and animal birth-mode and the second preta mode are
+Bhāṣya determinations. The Kārikā itself supplies the compressed distribution.
+
 VAK 3.09 reveals the World System as Transcendental Technē: it distributes
 embodiment modes, preserves transition-classes, and evaluates manifestation
 according to purpose. “Transcendental Technē” is our project characterization,
@@ -197,7 +197,7 @@ ordinary generation
 
 spontaneous generation
     complete body appears at once
-    faculties are unimpaired
+    Faculties are unimpaired
     limbs are present together
 
 death of spontaneously arisen embodiment
@@ -232,9 +232,9 @@ womb-birth
 This directly strengthens our telos:
 
 ```text
-PRAJNA may become Known among Embodied Agents
+discriminative comprehension may become Known among Embodied Agents
     only through a manifestation
-    fitted to their cognition-stations
+    fitted to their Cognition-stations
     and historical World-relations
 ```
 
@@ -274,7 +274,7 @@ vak:VAK_3_09 a vak:Karika ;
 loka:DestinyBirthModeMatrix a organon:CompatibilitySchema ;
     organon:maps loka:Human to loka:AllFourBirthModes ;
     organon:maps loka:Animal to loka:AllFourBirthModes ;
-    organon:maps loka:HellBeing to loka:SpontaneouslyArisen ;
+    organon:maps loka:NarakaBeing to loka:SpontaneouslyArisen ;
     organon:maps loka:IntermediateExistenceBeing to loka:SpontaneouslyArisen ;
     organon:maps loka:Deva to loka:SpontaneouslyArisen ;
     organon:maps loka:Preta to loka:WombBorn,

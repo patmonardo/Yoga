@@ -2,30 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ardhena meroś candrārkau pañcāśat-saika-yojanau /
-ardharātro 'staṃgamanaṃ madhyāhna udayaḥ sakṛt // 3.60 //
-```
+> ardhena meroś candrārkau pañcāśat-saika-yojanau /
+> ardharātro 'staṃgamanaṃ madhyāhna udayaḥ sakṛt // 3.60 //
 
-> Halfway up Meru move the moon and sun, measuring respectively fifty and
-> fifty-one yojanas. Midnight, sunset, midday, and sunrise occur
-> simultaneously.
+> At half the height of Meru move the moon and sun, measuring fifty and
+> fifty-one yojanas respectively. Midnight, sunset, midday, and sunrise
+> occur simultaneously.
 
 The Bhāṣya first identifies the support, elevation, dimensions, and functions
 of the sun and moon. It then distributes the four simultaneous temporal states
 across the four continents. The subsequent calculation of the seasonal growth
 and diminution of night and day begins with VAK 3.61 and is not included here.
-
-### Bhāṣya-informed study translation
-
-> The moon and sun move at the level of Yugandhara's summit, halfway up Meru.
-> The lunar disk measures fifty yojanas and the solar disk fifty-one. At one
-> moment it is midnight in Uttarakuru, sunset in Pūrvavideha, midday in
-> Jambūdvīpa, and sunrise in Godānīya; the assignment rotates cyclically with
-> the celestial course. Beneath the solar vehicle is a fiery crystalline disk
-> that heats and illuminates, while beneath the lunar vehicle is a watery disk
-> that cools and illuminates. Their beneficial and harmful effects upon beings
-> and organic life occur within the karmically conditioned common world.
 
 The Yugandhara level, ordered disk sizes, continent-state mapping, cyclic
 application, material disks, functions, and karmic qualification are Bhāṣya
@@ -77,8 +64,7 @@ regularizes those features. Its reading after the wind-circuit,
 rendered provisionally as describing winds that bear the upper courses of the
 moon, sun, and stars. No external critical reading has been silently inserted.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Now, upon what are the moon and sun established? Upon wind.
 
 Winds in the intermediate space, produced through the governing efficacy of

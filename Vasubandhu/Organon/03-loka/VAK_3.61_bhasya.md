@@ -2,26 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-prāvṛṇmāse dvitīye 'ntyanavamyāṃ vardhate niśā /
-hemantānāṃ caturthe tu hīyate 'har viparyayāt // 3.61 //
-```
+> prāvṛṇmāse dvitīye 'ntyanavamyāṃ vardhate niśā /
+> hemantānāṃ caturthe tu hīyate 'har viparyayāt // 3.61 //
 
-> In the second month of the rains, on the ninth day of the latter fortnight,
-> night increases. In the fourth winter month, on that corresponding date, it
-> decreases; day varies inversely.
+> On the ninth day of the second half of the second rainy month, night
+> increases. In the fourth winter month it decreases, while day changes in
+> reverse.
 
 The Bhāṣya names the two months, resolves `antyanavamī` as the ninth day of
 the second fortnight, and makes the inverse relation between night and day
 explicit. The measure of their daily change is asked only after this unit and
 belongs to VAK 3.62.
-
-### Bhāṣya-informed study translation
-
-> On the ninth day of the second fortnight of Bhādrapada, night begins to
-> increase and day correspondingly decreases. On the ninth day of the second
-> fortnight of Phālguna, night begins to decrease and day correspondingly
-> increases.
 
 The named months, interpretation of the fortnight and lunar day, carried-
 forward date in the second clause, and explicit two-way inverse relation are
@@ -54,8 +45,7 @@ predicate `vartate` makes explicit that `antyanavamyām` is carried forward
 from the first half of the verse; it is already present in the Bhāṣya and is
 not an independent calendrical conjecture.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Regarding this matter, moreover:
 
 In the second month of the rainy season, on the ninth day of the latter

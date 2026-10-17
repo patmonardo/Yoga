@@ -2,29 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-catvāro 'rūpisāmante rūpagāḥ eka ūrdhvagaḥ /
-eko maule svaviṣayaḥ sarve 'ṣṭādaśa sāsravāḥ // 3.35 //
-```
+> catvāro 'rūpisāmante rūpagāḥ eka ūrdhvagaḥ /
+> eko maule svaviṣayaḥ sarve 'ṣṭādaśa sāsravāḥ // 3.35 //
 
-> At the threshold of the Formless realm, four are Form-directed and one is
-> upward-directed. In a fundamental Formless attainment, one has its own
-> Condition. All eighteen have Influx.
+> At the threshold of the Formless realm, four are directed to the Form realm,
+> one goes higher. In the fundamental [attainment], one has its own realm as
+> object. All eighteen have Influx.
 
 The Bhāṣya completes the realm-distribution of Mental Rangings, calculates
 their possession at different levels, and then records another interpreter's
 claim that the sūtra uses `manopavicāra` more narrowly for afflicted modes of
 ranging.
-
-### Bhāṣya-informed study translation
-
-> At the threshold of the first Formless attainment, four Mental Rangings—
-> Form, Sound, Tangible, and Dharma—take the fourth dhyāna as their cognitive
-> Condition, while one Dharma-Ranging takes the higher Formless realm as its
-> Condition. In a fundamental Formless attainment, only one Dharma-Ranging
-> occurs, taking its own Formless realm as Condition. In the Vaibhāṣika
-> classification, all eighteen Mental Rangings have Influx; none is without
-> Influx.
 
 The identification of the threshold, the Conditions of the four, the
 single Dharma-Ranging, and the Vaibhāṣika scope of the concluding statement
@@ -109,8 +97,7 @@ source's `śāstrā gamitatvāt` is represented by the uncertain compound
 thirty-sixfold division, requires collation. The running source remains
 unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 The Mental Rangings connected with the Formless realm are now explained. At
 the threshold of the Formless realm—here, the threshold of the Essence of
 Infinite Space—there are four: Rangings through Form, Sound, Tangible, and

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> एकाक्षेपादसावैष्यत्पूर्वकालभवाकृतिः ।
->
-> स पुनर्मरणात्पूर्व उपपत्तिक्षणात्परः ॥ ३.१३ ॥
+```sanskrit
+एकाक्षेपादसावैष्यत्पूर्वकालभवाकृतिः ।
+स पुनर्मरणात्पूर्व उपपत्तिक्षणात्परः ॥ ३.१३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ekākṣepād asāv aiṣyatpūrvakālabhavākṛtiḥ /
->
-> sa punar maraṇāt pūrva upapattikṣaṇāt paraḥ // 3.13 //
+```text
+ekākṣepād asāv aiṣyatpūrvakālabhavākṛtiḥ /
+sa punar maraṇāt pūrva upapattikṣaṇāt paraḥ // 3.13 //
+```
 
 ## 3. Lexical Analysis
 
@@ -65,21 +67,16 @@ belongs to VAK 3.10; it is not what the grammar of this second half states.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Through one and the same projection, this [intermediate existence] has the
 > form of the coming prior-time existence. That [prior-time existence], in
 > turn, is before death and after the moment of rebirth.
 
 ### Bhāṣya-informed study translation
 
-> The same karma projects both a destiny and the intermediate existence that
-> leads to it; consequently the intermediate being already bears the form of
-> the life-phase that will arise in that destiny. This `pūrvakālabhava` extends
-> from after the rebirth-junction until before the final death-moment.
-
-The identification of karma as the one projection, and the precise extension
-of the life-phase, are Bhāṣya determinations.
+> Through one projection, this [intermediate existence] has the form of the
+> coming pre-rebirth existence. That existence, in turn, follows the moment
+> of rebirth and precedes death.
 
 ## 6. Philosophical Translation
 
@@ -159,11 +156,11 @@ These are functions and temporal positions within Base-continuity.
 
 ### The burning-womb objection
 
-The Bhāṣya considers whether an intermediate being destined for hell would
+The Bhāṣya considers whether an intermediate being destined for Naraka would
 burn a womb. Its answer restricts the crude physical picture:
 
 ```text
-hell-beings are not invariably aflame
+naraka-beings are not invariably aflame
 intermediate embodiment is subtle
 ordinary visibility and tangibility do not apply
 intermediate bodies do not physically adhere in the womb
@@ -174,6 +171,9 @@ This is commentary-level defense, not content stated by the Kārikā. Its exact
 physics remains a problem for direct Bhāṣya study.
 
 ## 9. Interpretive Note
+
+**Translation note.** The identification of karma as the one projection, and the precise extension
+of the life-phase, are Bhāṣya determinations.
 
 VAK 3.13 advances the World System from transition-continuity to
 transition-configuration. The intermediate phase is not an empty corridor. It

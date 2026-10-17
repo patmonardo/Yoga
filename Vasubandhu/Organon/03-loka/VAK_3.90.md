@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> संवर्तकल्पो नरकासंभवाद्भाजनक्षयः ।
->
-> विवर्तकल्पः प्राग्वायोर्यावन्नरकसंभवः ॥ ३.९० ॥
+```sanskrit
+संवर्तकल्पो नरकासंभवाद्भाजनक्षयः ।
+विवर्तकल्पः प्राग्वायोर्यावन्नरकसंभवः ॥ ३.९० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> saṃvartakalpo narakāsaṃbhavād bhājanakṣayaḥ /
->
-> vivartakalpaḥ prāgvāyor yāvan narakasaṃbhavaḥ // 3.90 //
+```text
+saṃvartakalpo narakāsaṃbhavād bhājanakṣayaḥ /
+vivartakalpaḥ prāgvāyor yāvan narakasaṃbhavaḥ // 3.90 //
+```
 
 The first boundary is `naraka-asaṃbhava`, non-arising in the narakas, not
 `naraka-saṃbhava`, their arising. The Kārikā and Bhāṣya make contraction and
@@ -67,26 +69,16 @@ privative `a-`, but they occupy opposite ends of the World-cycle.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The contraction kalpa extends from non-arising in the narakas to destruction
 > of the receptacle-world. The expansion kalpa extends from the first formative
 > wind until beings arise in the narakas.
 
 ### Bhāṣya-informed study translation
 
-> The contraction kalpa begins when beings in the narakas die without new
-> beings arising there. Populations then disappear in an ordered ascent through
-> the destinies and realms; when no beings remain even in Brahmaloka, the
-> contraction of beings is complete. Only afterward is the empty
-> receptacle-world destroyed. The expansion kalpa begins with the first subtle
-> winds, arising through the governing efficacy of beings' karma. The
-> receptacle-world is constructed first; beings then populate it progressively
-> downward, with arising in the narakas completing expansion.
-
-The stages of depopulation and repopulation, the distinction between beings
-and receptacle, the seven-sun destruction, karmic efficacy of the formative
-winds, and inverse-order rule are Bhāṣya determinations.
+> The contraction kalpa runs from the non-arising of beings in the narakas to
+> destruction of the receptacle-world; the expansion kalpa runs from the first
+> formative winds until beings arise in the narakas.
 
 ## 6. Philosophical Translation
 
@@ -226,6 +218,10 @@ The lowest destiny is used as the population-boundary because it empties first
 during contraction and fills last during expansion.
 
 ## 9. Interpretive Note
+
+**Translation note.** The stages of depopulation and repopulation, the distinction between beings
+and receptacle, the seven-sun destruction, karmic efficacy of the formative
+winds, and inverse-order rule are Bhāṣya determinations. The Bhāṣya traces the contraction through the narakas, animals, pretas, human destinations and continents, then desire-realm gods and Brahmaloka; contraction of beings is complete before the receptacle-world is destroyed. Expansion begins with karmically governed subtle winds, constructs the receptacle first, then populates it downward until naraka birth appears.
 
 VAK 3.90 gives textual confirmation of the distinction between the Enclosed,
 the Enclosure, and the Mind of the Enclosure.

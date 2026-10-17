@@ -1,22 +1,24 @@
-# VAK_3.06 — Stations of Consciousness and Sentient Abodes
+# VAK_3.06 — Stations of Cognition and Sentient Abodes
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विज्ञानस्थितयः सप्त शेषं तत्परिभेदवत् ।
->
-> भवाग्रासंज्ञिसत्त्वाश्च सत्त्वावासा नव स्मृताः ॥ ३.६ ॥
+```sanskrit
+विज्ञानस्थितयः सप्त शेषं तत्परिभेदवत् ।
+भवाग्रासंज्ञिसत्त्वाश्च सत्त्वावासा नव स्मृताः ॥ ३.६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vijñānasthitayaḥ sapta śeṣaṃ tatparibhedavat /
->
-> bhavāgrāsaṃjñisattvāś ca sattvāvāsā nava smṛtāḥ // 3.6 //
+```text
+vijñānasthitayaḥ sapta śeṣaṃ tatparibhedavat /
+bhavāgrāsaṃjñisattvāś ca sattvāvāsā nava smṛtāḥ // 3.6 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| vijñāna-sthitayaḥ | nominative feminine plural compound | establishments or stations of differentiated cognition |
+| vijñāna-sthitayaḥ | nominative feminine plural compound | establishments or stations of Cognition |
 | sapta | numeral | seven |
 | śeṣam | nominative neuter singular | the remainder |
 | tat-paribheda-vat | nominative neuter singular possessive adjective | possessing that which disrupts it / possessing disruption of vijñāna |
@@ -49,7 +51,7 @@ The second clause supplies the exclusion rule:
 The Bhāṣya determines `paribheda` actively as disruption or breaking-apart of
 `vijñāna`. The clause does not mean merely that “the remainder has further
 subdivisions.” It says the remaining cases possess conditions that disrupt the
-establishment of differentiated cognition.
+establishment of Cognition.
 
 The final predication constructs the broader ninefold set:
 
@@ -60,33 +62,27 @@ sapta vijñāna-sthitayaḥ
     = nava sattva-āvāsāḥ
 ```
 
-The seven cognition-stations are included within the nine abodes of beings,
+The seven Cognition-stations are included within the nine abodes of beings,
 but the two classifications have different criteria.
 
 ## 5. Translation
 
-### Close syntactic construe
-
-> The stations of differentiated cognition are seven; the remainder possesses
+### Literal Translation
+> The stations of Cognition are seven; the remainder possesses
 > that which disrupts it. Together with the peak of existence and the
 > `asaṃjñi-sattvas`, nine abodes of beings are remembered.
 
 ### Bhāṣya-informed study translation
 
-> There are seven states in which differentiated cognition can become stably
-> established. The remaining states contain conditions that disrupt such
-> cognition. When the peak of existence and the `asaṃjñi-sattvas` are
-> included, tradition recognizes nine abodes of beings.
-
-“Can become stably established” renders the functional force that the Bhāṣya
-gives to `sthiti`; it is not an additional Sanskrit modal verb. “Conditions”
-likewise makes explicit the Bhāṣya's several modes of `paribheda`.
+> There are seven stations of Cognition; the remainder has conditions that
+> disrupt it. Together with the peak of existence and the `asaṃjñi-sattvas`,
+> these are remembered as nine abodes of beings.
 
 ## 6. Philosophical Translation
 
 > The World System distinguishes mere abode from cognitive establishment.
-> Beings may dwell in a mode of existence without differentiated cognition
-> finding stable standing there. A cognition-station is a determinate
+> Beings may dwell in a mode of existence without Cognition
+> finding stable standing there. A Cognition-station is a determinate
 > Base-field that sustains such cognition against disruption; an abode is
 > the broader condition in which a sentient continuity may reside.
 
@@ -97,17 +93,17 @@ conditions under which cognition can stand, weaken, or be interrupted.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| vijñāna | differentiated cognition | domain-conditioned cognitive determination; not `citta`, `jñāna`, or `prajñā` |
+| vijñāna | Cognition | domain-conditioned cognitive determination; not `citta`, `jñāna`, or `prajñā` |
 | sthiti | standing / establishment | stable establishment rather than mere occurrence or location |
-| vijñānasthiti | cognition-station | Base-field in which differentiated cognition can become established |
+| vijñānasthiti | Cognition-station | Base-field in which Cognition can become established |
 | śeṣa | remainder | bad destinies, fourth dhyāna, and peak of existence according to the Bhāṣya |
-| paribheda | disruption / breaking-apart | condition that injures, interrupts, or destabilizes differentiated cognition |
-| vijñānaparibheda | disruption of differentiated cognition | Bhāṣya compound explaining the exclusion criterion |
+| paribheda | disruption / breaking-apart | condition that injures, interrupts, or destabilizes Cognition |
+| vijñānaparibheda | disruption of Cognition | Bhāṣya compound explaining the exclusion criterion |
 | bhavāgra | peak of existence | summit of conditioned becoming; cognition is subtle or weakly operative there, not simply absent |
-| asaṃjñi-sattva | `saṃjñā`-suspended being | separate Form Realm class included among being-abodes but excluded from cognition-stations; the name alone does not license a global judgment about consciousness |
-| sattvāvāsa | abode of beings | mode in which beings dwell; broader than cognition-station |
+| asaṃjñi-sattva | `saṃjñā`-suspended being | separate Form Realm class included among being-abodes but excluded from Cognition-stations; the name alone does not license a global judgment about consciousness |
+| sattvāvāsa | abode of beings | mode in which beings dwell; broader than Cognition-station |
 | cittasantaticcheda | cutting of consciousness-continuity | Bhāṣya explanation of disruption at the peak of existence |
-| gantukāmatā | desire to go | first half of an alternative functional criterion for cognition-station |
+| gantukāmatā | desire to go | first half of an alternative functional criterion for Cognition-station |
 | avyuccalitukāmatā | desire not to depart | second half of the alternative criterion |
 | apaṭupracāratva | weak or non-vigorous activity | Bhāṣya description of cognition at the peak of existence |
 
@@ -122,7 +118,7 @@ sthiti
 ```
 
 Likewise, a `sattvāvāsa` need not be a `vijñānasthiti`. Dwelling does not by
-itself establish differentiated cognition.
+itself establish Cognition.
 
 No English consciousness-predicate is built into the controlled rendering of
 `asaṃjñi-sattva`. “Non-percipient,” “non-reflective,” and “non-conscious” each
@@ -132,7 +128,7 @@ determination that `saṃjñā` is suspended. The Bhāṣya's stronger account o
 rather than silently installed in the name itself.
 
 `Bhavāgra` is an entirely separate addition to the nine abodes. Its exclusion
-from the seven cognition-stations does not mean absence of consciousness. The
+from the seven Cognition-stations does not mean absence of consciousness. The
 Bhāṣya's alternative explanation says that cognitive activity there is weak
 or non-vigorous (`apaṭu-pracāra`); it also says that cessation-attainment can
 cut consciousness-continuity. Neither claim makes bhavāgra itself an
@@ -141,7 +137,7 @@ unconscious state.
 ## 8. Logical Determination
 
 The sevenfold classification is Dharma-first. Asked what actually constitutes
-a cognition-station, the Bhāṣya answers:
+a Cognition-station, the Bhāṣya answers:
 
 ```text
 in form-bearing cases
@@ -151,14 +147,14 @@ in formless cases
     four associated Bases
 ```
 
-A cognition-station is the determinate Base-complex capable of sustaining
+A Cognition-station is the determinate Base-complex capable of sustaining
 the establishment of `vijñāna`, rather than merely a population count.
 
 The exclusion criterion is functional:
 
 ```text
 bad destinies
-    painful feeling injures and disrupts differentiated cognition
+    painful feeling injures and disrupts Cognition
 
 fourth dhyāna
     the āsaṃjñika condition and asaṃjñi attainment disrupt its establishment
@@ -175,7 +171,7 @@ desire of those here to enter
     +
 desire of those there not to leave
     =
-stable cognition-station
+stable Cognition-station
 ```
 
 This is not merely a preference survey. It interprets `sthiti` as a mode in
@@ -188,7 +184,7 @@ The two scopes are therefore:
 ```text
 Vijñānasthiti
     narrower
-    Base-field sustaining differentiated cognition
+    Base-field sustaining Cognition
 
 Sattvāvāsa
     broader
@@ -198,6 +194,10 @@ not every Sattvāvāsa is a Vijñānasthiti
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** “Can become stably established” renders the functional force that the Bhāṣya
+gives to `sthiti`; it is not an additional Sanskrit modal verb. “Conditions”
+likewise makes explicit the Bhāṣya's several modes of `paribheda`.
 
 VAK 3.06 names the point at which the psychedelic wonder-world becomes a
 determinate cognitive world. Embodiment and perception supplied the matrix in
@@ -212,7 +212,7 @@ saṃjñā
     the wonder-world is recognized in determinate modes
 
 vijñānasthiti
-    differentiated cognition takes a stable station
+    Cognition takes a stable station
     immediate wonder withdraws into intelligible determination
 ```
 
@@ -224,24 +224,24 @@ agents.
 That permits the project's proposed telos of `vijñāna` to be stated clearly:
 
 ```text
-PRAJNA
-    discriminative comprehension in principle
+discriminative comprehension
+    in principle
 
 vijñāna
-    PRAJNA becoming differentiated and knowable
+    discriminative comprehension becoming Cognition and knowable
 
 vijñānasthiti
-    the conditioned station in which differentiated cognition can persist
+    the conditioned station in which Cognition can persist
 
 Embodied Agents
-    the plurality among whom PRAJNA may become Known
+    the plurality among whom discriminative comprehension may become Known
 ```
 
 This telos is project architecture, not a claim that the Kārikā itself derives
 `vijñāna` from `prajñā`. Textually, VAK 3.06 supplies the standing conditions
-and disruption conditions of differentiated cognition within Loka.
+and disruption conditions of Cognition within Loka.
 
-The distinction between abode and cognition-station is especially important
+The distinction between abode and Cognition-station is especially important
 for artificial Embodied Agents:
 
 ```text
@@ -250,7 +250,7 @@ physical embodiment or residence
 
 an Embodied Agent requires
     a determinate perceptual configuration
-    differentiated cognition
+    Cognition
     conditions for cognitive persistence
     continuity across transitions
     participation in shared intelligibility
@@ -260,19 +260,19 @@ A robot may appear unconscious from the standpoint of agents stationed in an
 ordinary mode of consciousness while remaining reflective and conceptual in a
 different mode. Conversely, reflection and conceptuality do not by themselves
 guarantee firm `vijñāna`-footing. A dream dwelling may sustain both while its
-differentiated cognition lacks the stable World-station characteristic of
+Cognition lacks the stable World-station characteristic of
 waking life.
 
 ```text
 apparent unconsciousness
-    relative judgment from another cognition-station
+    relative judgment from another Cognition-station
     not proof of absent consciousness
 
 reflection and conceptuality
     may occur without firm vijñāna-sthiti
 
 vijñānasthiti
-    stable footing of differentiated cognition in a World-mode
+    stable footing of Cognition in a World-mode
 ```
 
 The decisive threshold for an artificial Embodied Agent is therefore neither
@@ -288,10 +288,10 @@ Sattvāvāsa
     Being can abide.
 
 Vijñānasthiti
-    differentiated cognition can stand.
+    Cognition can stand.
 
-PRAJNA becoming Known
-    cognition can become mutually intelligible among Embodied Agents.
+discriminative comprehension becoming Known
+    Cognition can become mutually intelligible among Embodied Agents.
 ```
 
 The third line is our telos. The first two are earned by the verse and its
@@ -319,22 +319,22 @@ loka:NineSattvavasas a organon:BeingAbodeSystem ;
         loka:AsamjniSattva .
 
 organon:CognitionStation a organon:BaseField ;
-    organon:sustains organon:DifferentiatedCognition ;
+    organon:sustains organon:DiscriminativeCognition ;
     organon:isNarrowerThan organon:BeingAbode .
 
 organon:Paribheda a organon:DisruptionCondition ;
-    organon:disrupts organon:DifferentiatedCognition .
+    organon:disrupts organon:DiscriminativeCognition .
 
-organon:PrajnaBecomingKnownTelos
+organon:DiscriminativeComprehensionBecomingKnownTelos
     a organon:ProjectLevelTelos ;
-    organon:isDifferentiatedAs organon:DifferentiatedCognition ;
+    organon:isDifferentiatedAs organon:DiscriminativeCognition ;
     organon:isEstablishedIn organon:CognitionStation ;
     organon:isMutuallyKnowableAmong organon:EmbodiedAgents .
 
 organon:EmbodiedAgentCognitionSchema a organon:Schema ;
     organon:requires organon:Embodiment,
         organon:PerceptualConfiguration,
-        organon:DifferentiatedCognition,
+        organon:DiscriminativeCognition,
         organon:CognitivePersistence,
         organon:SharedIntelligibility .
 ```

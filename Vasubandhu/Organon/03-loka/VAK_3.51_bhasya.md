@@ -2,28 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ardhārdhahānir aṣṭāsu samocchrāyaghanāś ca te /
-śītāḥ saptāntarāṇy eṣām ādyāśītisahasrikā // 3.51 //
-```
+> ardhārdhahānir aṣṭāsu samocchrāyaghanāś ca te /
+> śītāḥ saptāntarāṇy eṣām ādyāśītisahasrikā // 3.51 //
 
-> Across the eight outer heights there is successive diminution by halves,
-> and each mountain's thickness equals its height. The seven intervals among
-> the inner mountains are the Śītās; the first is eighty thousand yojanas
-> wide.
+> Across the eight, each successively halves in height; their thickness equals
+> their height. The seven intervening spaces are the Śītās; the first is
+> 80,000 yojanas wide.
 
 The Bhāṣya generates the complete descending series from Sumeru through
 Cakravāḍa, defines the equal-height-and-thickness rule, and identifies the
 seven inner intervals as seas filled with water possessing eight qualities.
-
-### Bhāṣya-informed study translation
-
-> Beginning from Sumeru's height above the water, each successive surrounding
-> mountain is half the height of the preceding one; each mountain's horizontal
-> thickness equals its own height. The seven spaces between Sumeru and
-> Nimindhara are cool inner seas called Śītās. The first, between Sumeru and
-> Yugandhara, is 80,000 yojanas wide, and its water possesses eight beneficial
-> sensible qualities.
 
 The starting term of the halving sequence, interpretation of `ghana`, precise
 location and width-axis of the first sea, and eight water qualities are Bhāṣya
@@ -63,8 +51,7 @@ measure of Cakravāḍa. The continuous text regularizes punctuation and sandhi;
 the exact numerical compound for 312½ yojanas remains provisional pending
 comparison with critical witnesses.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Across the eight outer heights there is successive diminution by halves. The
 height of Sumeru above the water is eighty thousand yojanas. Yugandhara is
 half of that, forty thousand yojanas. Īśādhara is half of Yugandhara, and the
@@ -275,7 +262,7 @@ mountain's height and thickness, the seven Śītā intervals through
 Nimindhara, the eight qualities of their water, and the location and breadth
 of the first Śītā.
 
-This corrects the first-pass implication that the halving sequence ends at
+This corrects the earlier implication that the halving sequence ends at
 Nimindhara. The running prose explicitly includes Cakravāḍa at half of
 Nimindhara's height. No research witness was altered.
 

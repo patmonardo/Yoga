@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> नरकादिस्वनामोक्ता गतयः पञ्च तेषु ताः ।
->
-> अक्लिष्टाव्याकृता एव सत्त्वाख्या नान्तराभवः ॥ ३.४ ॥
+```sanskrit
+नरकादिस्वनामोक्ता गतयः पञ्च तेषु ताः ।
+अक्लिष्टाव्याकृता एव सत्त्वाख्या नान्तराभवः ॥ ३.४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> narakādisvanāmoktā gatayaḥ pañca teṣu tāḥ /
->
-> akliṣṭāvyākṛtā eva sattvākhyā nāntarābhavaḥ // 3.4 //
+```text
+narakādisvanāmoktā gatayaḥ pañca teṣu tāḥ /
+akliṣṭāvyākṛtā eva sattvākhyā nāntarābhavaḥ // 3.4 //
+```
 
 ## 3. Lexical Analysis
 
@@ -42,7 +44,7 @@ teṣu
 ```
 
 “Among those” means within the three Realms just determined. The Bhāṣya
-enumerates the five as hell-being, animal, preta, deva, and human destinies.
+enumerates the five as naraka-being, animal, preta, deva, and human destinies.
 
 The second half restricts their status and excludes an apparent sixth member:
 
@@ -61,23 +63,16 @@ five destinies; it does not deny intermediate existence.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Among those [Realms] are the five destinies, called by their own names
 > beginning with naraka. They alone are unafflicted-indeterminate and
 > designated as beings; intermediate existence is not [a destiny].
 
 ### Bhāṣya-informed study translation
 
-> Within the three Realms are five destinies—hell, animal, preta, deva, and
-> human. They are resultant, non-obscured indeterminate configurations
-> designated as beings. Intermediate existence is not itself one of these
-> destinies.
-
-The explicit five-member enumeration, “resultant,” and “non-obscured” are
-Bhāṣya determinations. “Resultant configuration” anticipates the cited account
-in which karmically matured Bases receive the designation of a being; it
-does not translate a single word of the Kārikā.
+> Among those [Realms] are five destinies, named from naraka onward. They
+> alone are unafflicted-indeterminate and designated as beings; intermediate
+> existence is not one of them.
 
 ## 6. Philosophical Translation
 
@@ -102,7 +97,7 @@ the transition between positions, and the designation applied to the result.
 | karmabhava | karmic becoming | causal activity producing a destiny; introduced through the Bhāṣya's sūtra citation |
 | antarābhava | intermediate existence / intermediate becoming | transition between established destinies; a `bhava` but not a `gati` |
 | vipāka | maturation-result | resultant dharmas upon which a destiny-designation is imposed |
-| saṃkhyāṃ gacchati | receives a designation | Bhāṣya phrase explaining how “hell-being” is predicated |
+| saṃkhyāṃ gacchati | receives a designation | Bhāṣya phrase explaining how “naraka-being” is predicated |
 
 The distribution stated by the Bhāṣya is not symmetrical. The Desire Realm
 contains four full destinies and part of the deva destiny; the Form Realm and
@@ -151,7 +146,7 @@ vipāka-dharmas
 ```
 
 The Bhāṣya's Śāriputra citation is decisive: once the five Bases ripen as
-the relevant result, the designation “hell-being” applies, but no hell-being
+the relevant result, the designation “naraka-being” applies, but no naraka-being
 is found apart from those dharmas. The citation establishes the conditions
 under which the designation applies.
 
@@ -170,6 +165,11 @@ Thus suffering within a destiny does not make the destiny itself an afflicted
 mental factor or a fresh unwholesome action.
 
 ## 9. Interpretive Note
+
+**Translation note.** The explicit five-member enumeration, “resultant,” and “non-obscured” are
+Bhāṣya determinations. “Resultant configuration” anticipates the cited account
+in which karmically matured Bases receive the designation of a being; it
+does not translate a single word of the Kārikā.
 
 The World System now acquires transit logic. A sentient continuity is not only
 placed in a domain and destiny; it can pass between resultant configurations.

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> त्रयो मुहूर्त्ताहोरात्रमासाः द्वादशमासकः ।
->
-> संवत्सरः सोनरात्रः कल्पो बहुविधः स्मृतः ॥ ३.८९ ॥
+```sanskrit
+त्रयो मुहूर्त्ताहोरात्रमासाः द्वादशमासकः ।
+संवत्सरः सोनरात्रः कल्पो बहुविधः स्मृतः ॥ ३.८९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> trayo muhūrttāhorātramāsā dvādaśamāsakaḥ /
->
-> saṃvatsaraḥ sonarātraḥ kalpo bahuvidhaḥ smṛtaḥ // 3.89 //
+```text
+trayo muhūrttāhorātramāsā dvādaśamāsakaḥ /
+saṃvatsaraḥ sonarātraḥ kalpo bahuvidhaḥ smṛtaḥ // 3.89 //
+```
 
 The first line is metrically compressed and does not expose its arithmetic
 cleanly. The Bhāṣya supplies the distribution: thirty lavas make a muhūrta,
@@ -80,24 +82,16 @@ mahākalpa.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > [Thirty lavas make] a muhūrta, [thirty muhūrtas] a day-and-night, and
 > [thirty day-and-nights] a month. A year consists of twelve months with
 > deficient-night adjustments. The kalpa is taught as manyfold.
 
 ### Bhāṣya-informed study translation
 
-> Thirty lavas constitute one muhūrta, thirty muhūrtas one complete
-> day-and-night, and thirty day-and-nights one month. Twelve months constitute
-> a year: four months each of winter, summer, and the rains, with six
-> `ūnarātras` omitted during the year as calendrical corrections. Having
-> completed the measure of the year, the Kośa distinguishes four kinds of
-> kalpa: intermediate, contraction, expansion, and great kalpa.
-
-The repeated factor thirty, variable proportions of day and night, seasonal
-division, six annual omissions, and fourfold kalpa classification are Bhāṣya
-determinations.
+> Thirty lavas make a muhūrta, thirty muhūrtas a day-and-night, and thirty
+> day-and-nights a month. Twelve months make a year, with six deficient nights
+> omitted; a kalpa is remembered as manifold.
 
 ## 6. Philosophical Translation
 
@@ -235,6 +229,10 @@ Which complete process of World-change does it enclose?
 The verse declares this shift; subsequent verses define the processes.
 
 ## 9. Interpretive Note
+
+**Translation note.** The repeated factor thirty, variable proportions of day and night, seasonal
+division, six annual omissions, and fourfold kalpa classification are Bhāṣya
+determinations. The Bhāṣya specifies four months each for winter, summer, and the rains, and the omission of six `ūnarātras` over the year; it identifies the four types as intermediate, contraction, expansion, and great kalpa.
 
 VAK 3.89 shows that the Mind of the Enclosure is not blind aggregation. It can
 preserve a whole while adjusting the internal organization needed for that

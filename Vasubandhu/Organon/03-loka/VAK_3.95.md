@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चक्रवर्तिसमुत्पत्तिर्नाधोऽशीतिसहस्रकात् ।
->
-> सुवर्णरूप्यताम्रायश्चक्रिणस्तेऽधरक्रमात् ॥ ३.९५ ॥
+```sanskrit
+चक्रवर्तिसमुत्पत्तिर्नाधोऽशीतिसहस्रकात् ।
+सुवर्णरूप्यताम्रायश्चक्रिणस्तेऽधरक्रमात् ॥ ३.९५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> cakravarti-samutpattir nādho 'śītisahasrakāt /
->
-> suvarṇa-rūpya-tāmrāyaś-cakriṇas te 'dhara-kramāt // 3.95 //
+```text
+cakravarti-samutpattir nādho 'śītisahasrakāt /
+suvarṇa-rūpya-tāmrāyaś-cakriṇas te 'dhara-kramāt // 3.95 //
+```
 
 The verse fixes both an eligibility threshold and a ranked classification.
 The Bhāṣya specifies that cakravartins arise while human lifespan ranges from
@@ -74,22 +76,16 @@ ayaḥ   → adhama
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > A wheel-turning sovereign does not arise below [the lifespan of] eighty
 > thousand. They are wheel-possessors of gold, silver, copper, and iron, in
 > descending order.
 
 ### Bhāṣya-informed study translation
 
-> Wheel-turning sovereigns arise while the human lifespan ranges from
-> immeasurable length down to eighty thousand years, but never below that
-> threshold. They are fourfold according to whether their sovereign wheel is
-> gold, silver, copper, or iron—respectively the highest, next-highest,
-> middling, and lowest types.
-
-The upper range, the material condition of extraordinary crop-abundance, and
-the four explicit rank-names are supplied by the Bhāṣya.
+> A wheel-turning sovereign does not arise below a human lifespan of eighty
+> thousand years. Their sovereign wheels are gold, silver, copper, or iron,
+> ordered from highest to lowest.
 
 ## 6. Philosophical Translation
 
@@ -179,6 +175,9 @@ These adjoining ranges disclose different forms of World-order. They should
 not be collapsed into an identity between Dharma authority and royal power.
 
 ## 9. Interpretive Note
+
+**Translation note.** The upper range, the material condition of extraordinary crop-abundance, and
+the four explicit rank-names are supplied by the Bhāṣya. The Bhāṣya gives the sovereign lifespan range as immeasurable down to 80,000 years, ties their arising to extraordinary abundance of crops, and names the four ranks Cakravartin, Māṇḍhātṛ, Cāru, and Balacakravartin.
 
 VAK 3.95 advances the method from **temporal enclosure** to the **capacity of
 the enclosed World**. A phase is concretely determined by what its embodied

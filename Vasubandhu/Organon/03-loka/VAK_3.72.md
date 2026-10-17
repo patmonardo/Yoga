@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> स्थानात् स्थानादधो यावत्तावदूर्ध्वं ततस्ततः ।
->
-> नोर्ध्वं दर्शनमस्त्येषामन्यत्रर्द्धिपराश्रयात् ॥ ३.७२ ॥
+```sanskrit
+स्थानात् स्थानादधो यावत्तावदूर्ध्वं ततस्ततः ।
+नोर्ध्वं दर्शनमस्त्येषामन्यत्रर्द्धिपराश्रयात् ॥ ३.७२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sthānāt sthānād adho yāvat tāvad ūrdhvaṃ tatas tataḥ /
->
-> nordhvaṃ darśanam asty eṣām anyatrarddhiparāśrayāt // 3.72 //
+```text
+sthānāt sthānād adho yāvat tāvad ūrdhvaṃ tatas tataḥ /
+nordhvaṃ darśanam asty eṣām anyatrarddhiparāśrayāt // 3.72 //
+```
 
 ## 3. Lexical Analysis
 
@@ -68,30 +70,16 @@ determinations.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > From each station, as far as [the reference point lies] below it, so far
 > above it lies the next station. These beings do not see upward, except through
 > supernormal power or reliance upon another.
 
 ### Bhāṣya-informed study translation
 
-> Beginning from Jambūdvīpa, the distance from any heavenly station down to
-> Jambūdvīpa equals the distance from that station up to the next station. Thus
-> the principal station of the Four Great Kings stands 40,000 yojanas above
-> here, the station of the Thirty-Three another 40,000 above that, and each
-> subsequent interval equals the total height already reached. The sequence
-> ends at Akaniṣṭha, above which there is no further station. Beings of a lower
-> station do not ordinarily ascend to and see a higher residence. They may do
-> so through their own ṛddhi or by being led by a more powerful deva or one
-> belonging to that higher station. Yet a genuinely higher dhātu or bhūmi does
-> not thereby become an object of lower-level faculties. According to the
-> Nikāyāntarīyas, a higher being appears below through a constructed body
-> belonging to the lower bhūmi.
-
-The Jambūdvīpa reference, examples and terminal station, two access modes,
-object-domain restriction, and constructed-body account are Bhāṣya
-determinations.
+> From each heavenly station, the distance downward is matched by an equal
+> distance upward to the next; these beings do not see above except
+> through supernormal power or another's support.
 
 ## 6. Philosophical Translation
 
@@ -221,6 +209,10 @@ The transformation changes the presentation interface, not the originating
 station of the higher being.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Jambūdvīpa reference, examples and terminal station, two access modes,
+object-domain restriction, and constructed-body account are Bhāṣya
+determinations.
 
 VAK 3.72 supplies two architectures at once:
 

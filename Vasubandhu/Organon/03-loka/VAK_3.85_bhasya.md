@@ -2,35 +2,21 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kurubāhyo 'ntarāmṛtyuḥ paramāṇv-akṣara-kṣaṇāḥ /
-rūpa-nāmādhva-paryantāḥ paramāṇur aṇus tathā // 3.85 //
-```
+> kurubāhyo 'ntarāmṛtyuḥ paramāṇv-akṣara-kṣaṇāḥ /
+> rūpa-nāmādhva-paryantāḥ paramāṇur aṇus tathā // 3.85 //
 
-> Outside Uttarakuru, death before the lifespan is complete can occur. The
-> ultimate atom, letter, and moment are the respective limits of form, name,
-> and time. The ultimate atom, the aṇu, and likewise …
+> Outside Uttarakuru, premature death occurs. The ultimate atom, letter, and
+> moment are the respective limits of Form, name, and time; the ultimate atom
+> and aṇu begin the succeeding measure-series.
 
 The last phrase begins the material scale continued in 3.86; it is left open
 here rather than completed from the next verse.
-
-### Bhāṣya-informed study translation
-
-> Beings in Uttarakuru necessarily live out their fixed lifespan; outside it,
-> death before the allotted term is possible, though special classes are
-> exempt. At the opposite end of measurement, the ultimate atom is the limit
-> reached by diminishing form, the letter or syllabic unit is the limit of a
-> name-expression, and the moment is the limit of time. A moment is
-> operationally determined as the minimal duration in which, given complete
-> conditions, a dharma obtains its occurrence, or in which a moving dharma
-> traverses the interval from one ultimate atom to the next. The final words
-> begin the ascending material scale continued in 3.86.
 
 The universal Uttarakuru guarantee, special exemptions elsewhere, operational
 definitions of a moment, and attribution of sixty-five moments per finger-snap
 to the Abhidharmikas are Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Evam eṣām āyuṣmatāṃ sattvānāṃ kim asti aparipūrṇāyuṣām antarā mṛtyur,
@@ -78,7 +64,7 @@ dense and its compounds are difficult to segment; the Sanskrit is retained
 with only light punctuation. The clause at `[176|06-07]` contains the unclear
 reading `utkāni`, left visible rather than silently emended.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 So, among these beings with lifespans, does death occur before the lifespan
 is complete, or not? It does in general. Outside Uttarakuru, premature death
 can occur. In Uttarakuru, beings with fixed lifespans necessarily live out
@@ -105,7 +91,7 @@ a moving dharma, it is the time in which it travels from one ultimate atom to
 the next. The Abhidharmikas say that sixty-five moments pass in the time it
 takes a strong man to snap his fingers.
 
-## The Two Determinations
+## 4. The Two Determinations
 
 The passage first qualifies lifespan and then changes to measurement's
 smallest limits:
@@ -124,7 +110,7 @@ the traversal of one ultimate-atom interval by a moving dharma. The
 sixty-five-moment finger-snap comparison is expressly attributed to the
 Abhidharmikas.
 
-## Doctrinal Note
+## 5. Doctrinal Note
 
 An allocated lifespan and a necessarily completed lifespan are not the same
 determination. Uttarakuru guarantees completion; outside it, premature death
@@ -132,13 +118,13 @@ may occur, though the Bhāṣya preserves exceptions. The later triad does not
 collapse form, naming, and temporal course into one unit: each has its own
 limiting measure.
 
-## Organon Contact Point
+## 6. Organon Contact Point
 
 Light contact: the passage distinguishes a domain's terminal unit from the
 unit used in another domain. This is a project-level observation, not
 Vasubandhu's technical terminology.
 
-## Review Status
+## 7. Review Status
 
 - Natural unit recovered from `[175|25]` through `[176|15]` of the running
   witness.

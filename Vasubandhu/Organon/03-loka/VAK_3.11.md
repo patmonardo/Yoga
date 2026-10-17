@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> व्रीहिसन्तानसाधर्म्यादविच्छिन्नभवोद्भवः ।
->
-> प्रतिबिम्बमसिद्धत्वादसाम्याच्चानिदर्शनम् ॥ ३.११ ॥
+```sanskrit
+व्रीहिसन्तानसाधर्म्यादविच्छिन्नभवोद्भवः ।
+प्रतिबिम्बमसिद्धत्वादसाम्याच्चानिदर्शनम् ॥ ३.११ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vrīhisantānasādharmyād avicchinnabhavodbhavaḥ /
->
-> pratibimbam asiddhatvād asāmyāc cānidarśanam // 3.11 //
+```text
+vrīhisantānasādharmyād avicchinnabhavodbhavaḥ /
+pratibimbam asiddhatvād asāmyāc cānidarśanam // 3.11 //
+```
 
 ## 3. Lexical Analysis
 
@@ -61,22 +63,16 @@ Vasubandhu denies that it proves the required discontinuity.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Because of similarity to the continuity of rice, the arising of existence
 > is uninterrupted. A reflected image is not a valid example, because it is
 > unestablished and dissimilar.
 
 ### Bhāṣya-informed study translation
 
-> Dharmas belonging to a continuity appear elsewhere through an uninterrupted
-> series, as does the continuity of rice; so too does a sentient continuity.
-> Reflection cannot establish rebirth directly across a break: its status as a
-> separately arisen dharma is unproved, and its causal and serial structure is
-> unlike the transition from death to rebirth.
-
-The application to a sentient continuity and the detailed defects of the
-reflection example are Bhāṣya determinations.
+> Because arising in existence is similar to the continuity of rice, it is
+> uninterrupted. A reflection is not an example, because it is unestablished
+> and dissimilar.
 
 ## 6. Philosophical Translation
 
@@ -194,6 +190,9 @@ VAK 3.10 remains to follow.
 
 ## 9. Interpretive Note
 
+**Translation note.** The application to a sentient continuity and the detailed defects of the
+reflection example are Bhāṣya determinations.
+
 VAK 3.11 is a compact specification of generative continuity. The World System
 does not permit an unexplained jump between disconnected embodiments. It
 executes a lawful successor relation among configurations:
@@ -214,7 +213,7 @@ displayed as though in a mirror.
 The contrast also clarifies the difference between representation and
 generation. A reflection can present the look of a source elsewhere while
 remaining dependent upon a simultaneous source and another support. A new
-embodied cognition-station, by contrast, must be the successor produced by
+embodied Cognition-station, by contrast, must be the successor produced by
 the operative continuity after the former station has ended.
 
 ```text

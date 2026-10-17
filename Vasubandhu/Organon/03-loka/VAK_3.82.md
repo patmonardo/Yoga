@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कामदेवायुषा तुल्या अहोरात्रा यथाक्रमम् ।
->
-> संजीवादिषु षट्स्वायुस्तैस्तेषां कामदेववत् ॥ ३.८२ ॥
+```sanskrit
+कामदेवायुषा तुल्या अहोरात्रा यथाक्रमम् ।
+संजीवादिषु षट्स्वायुस्तैस्तेषां कामदेववत् ॥ ३.८२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kāmadevāyuṣā tulyā ahorātrā yathākramam /
->
-> saṃjīvādiṣu ṣaṭsv āyus tais teṣāṃ kāmadevavat // 3.82 //
+```text
+kāmadevāyuṣā tulyā ahorātrā yathākramam /
+saṃjīvādiṣu ṣaṭsv āyus tais teṣāṃ kāmadevavat // 3.82 //
+```
 
 ## 3. Lexical Analysis
 
@@ -47,7 +49,7 @@ saṃjīva-ādiṣu ṣaṭsu
 
 The instrumental singular `kāmadevāyuṣā` is distributive under
 `yathākramam`: each hell day-night corresponds to the lifespan of its matched
-deva class, not to one undifferentiated aggregate of all deva lifespans.
+deva class, not to one undifferentiated total of all deva lifespans.
 
 The second construction establishes the total lifespan within each resulting
 hell calendar:
@@ -67,24 +69,16 @@ total duration of the corresponding hell lifespan.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > In the six hells beginning with Saṃjīva, the day-and-nights are respectively
 > equal to the lifespans of the desire-realm devas; reckoned by those units,
 > the lifespans of their inhabitants are like those of the desire-realm devas.
 
 ### Bhāṣya-informed study translation
 
-> For each of the first six hot hells, the entire lifespan of the corresponding
-> desire-realm deva class constitutes one hell day-and-night. Using that
-> enlarged day-night to construct the local calendar, the hell lifespan has
-> the same numerical number of years as the matched deva lifespan: 500 years
-> in Saṃjīva, 1,000 in Kālasūtra, 2,000 in Saṃghāta, 4,000 in Raurava, 8,000 in
-> Mahāraurava, and 16,000 in Tāpana.
-
-The names and ordering of the six hells, the exact pairings, and the
-restriction of `kāmadevavat` to numerical year-count are Bhāṣya
-determinations.
+> In the six hells beginning with Saṃjīva, the day-and-nights correspond
+> respectively to the lifespans of the desire-realm devas; reckoned by those
+> units, the inhabitants' lifespans correspond to those of the devas.
 
 ## 6. Philosophical Translation
 
@@ -205,6 +199,10 @@ The distinction between equal duration and identical temporal role is
 essential to the verse's logic.
 
 ## 9. Interpretive Note
+
+**Translation note.** The names and ordering of the six hells, the exact pairings, and the
+restriction of `kāmadevavat` to numerical year-count are Bhāṣya
+determinations. The six pairings yield 500 years in Saṃjīva, 1,000 in Kālasūtra, 2,000 in Saṃghāta, 4,000 in Raurava, 8,000 in Mahāraurava, and 16,000 in Tāpana; the numbers count years under the locally established calendar.
 
 VAK 3.82 reveals that Loka is not simply a hierarchy of isolated clocks. Its
 temporal regimes can be composed: the output duration of one world-domain

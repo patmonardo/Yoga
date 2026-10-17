@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> तत ऊर्ध्वं विमानेषु देवाः कामभुजस्तु षट् ।
->
-> द्वन्द्वालिङ्गनपाण्याप्तिहसितेक्षितमैथुनाः ॥ ३.६९ ॥
+```sanskrit
+तत ऊर्ध्वं विमानेषु देवाः कामभुजस्तु षट् ।
+द्वन्द्वालिङ्गनपाण्याप्तिहसितेक्षितमैथुनाः ॥ ३.६९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> tata ūrdhvaṃ vimāneṣu devāḥ kāmabhujas tu ṣaṭ /
->
-> dvandvāliṅganapāṇyāptihasitekṣitamaithunāḥ // 3.69 //
+```text
+tata ūrdhvaṃ vimāneṣu devāḥ kāmabhujas tu ṣaṭ /
+dvandvāliṅganapāṇyāptihasitekṣitamaithunāḥ // 3.69 //
+```
 
 The local Kārikā witness has apparent orthographic noise in the second line,
 including `vasita`. The Bhāṣya's distributive explanation confirms `hasita`,
@@ -72,26 +74,16 @@ class each.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Above that, devas dwell in celestial residences; but the enjoyers of sensual
 > pleasures are six. Their sexual unions occur through bodily pairing,
 > embrace, hand-contact, smile, and glance.
 
 ### Bhāṣya-informed study translation
 
-> Above the Trāyastriṃśas, devas dwell in celestial residences. Only six deva
-> classes, however—from the Cāturmahārājakāyikas through the
-> Paranirmitavaśavartins—enjoy the pleasures of kāma. The earth-connected
-> Cāturmahārājakāyikas and Trāyastriṃśas unite bodily as humans do, although
-> without emission of semen; their sexual heat ceases through the release of
-> wind. For the Yāmas an embrace suffices, for the Tuṣitas contact of the hand,
-> for the Nirmāṇaratis a smile, and for the Paranirmitavaśavartins a glance.
-> As the objects become more intense, passion too becomes more intense.
-
-The enumeration of the higher deva stations, restriction to six kāma classes,
-class-by-class distribution, physiological qualifications, and relation of
-object-intensity to passion-intensity are Bhāṣya determinations.
+> Above them, devas dwell in celestial residences; six classes enjoy
+> sensual pleasures through coupling, embracing, hand-contact, laughter,
+> and glances.
 
 ## 6. Philosophical Translation
 
@@ -218,6 +210,10 @@ location. This is a commentary determination ancillary to the verse's main
 classification.
 
 ## 9. Interpretive Note
+
+**Translation note.** The enumeration of the higher deva stations, restriction to six kāma classes,
+class-by-class distribution, physiological qualifications, and relation of
+object-intensity to passion-intensity are Bhāṣya determinations.
 
 VAK 3.69 begins the aerial ascent by refusing a single-dimensional conception
 of “higher.” Several sequences are coordinated, but they do not all move in

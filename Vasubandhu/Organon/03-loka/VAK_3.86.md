@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> लोहापशशाविगोच्छिद्ररजोलिक्षास्तदुद्भवाः ।
->
-> यवस्तथाङ्गुलीपर्व ज्ञेयं सप्तगुणोत्तरम् ॥ ३.८६ ॥
+```sanskrit
+लोहापशशाविगोच्छिद्ररजोलिक्षास्तदुद्भवाः ।
+यवस्तथाङ्गुलीपर्व ज्ञेयं सप्तगुणोत्तरम् ॥ ३.८६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> lohāpaśaśāvigocchidrarajolikṣās tadudbhavāḥ /
->
-> yavas tathāṅgulīparva jñeyaṃ saptaguṇottaram // 3.86 //
+```text
+lohāpaśaśāvigocchidrarajolikṣās tadudbhavāḥ /
+yavas tathāṅgulīparva jñeyaṃ saptaguṇottaram // 3.86 //
+```
 
 The first line is a highly compressed technical list. Its members are not
 translated by conjecturally decomposing the metrical compound. The sequence
@@ -63,23 +65,16 @@ every adjacent level.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The named dust-measures, the likṣās and what arises from them, the barley
 > grain, and the finger-joint are to be understood as forming a successively
 > sevenfold series.
 
 ### Bhāṣya-informed study translation
 
-> Beginning with the ultimate atom, each next material measure is constituted
-> from seven of the preceding measure: seven ultimate atoms make one aṇu;
-> seven aṇus one loharajas; and the same sevenfold aggregation proceeds through
-> avrajas, dāśarajas, aiḍakarajas, gorajas, aperture-dust, likṣā, yūkā, barley
-> grain, and finger-joint. Three finger-joints constitute one finger.
-
-The exact technical members, the insertion of `yūkā` as what arises from a
-`likṣā`, and the three-joints-to-one-finger relation are Bhāṣya
-determinations.
+> The successive measures, from loharajas and the dust classes through likṣā,
+> yūkā, barley grain, and finger-joint, each increase sevenfold from one
+> measure to the next.
 
 ## 6. Philosophical Translation
 
@@ -192,6 +187,10 @@ constituents of the higher measure, while the higher measure introduces a new
 counting identity.
 
 ## 9. Interpretive Note
+
+**Translation note.** The exact technical members, the insertion of `yūkā` as what arises from a
+`likṣā`, and the three-joints-to-one-finger relation are Bhāṣya
+determinations. The Bhāṣya's complete sequence is seven each from ultimate atom to aṇu, loharajas, avrajas, dāśarajas, aiḍakarajas, gorajas, aperture-dust, likṣā, yūkā, barley grain, and finger-joint; three finger-joints make one finger.
 
 Your “Mind of the Enclosure, not the Enclosed” gives the right Organon contact
 for this verse. The source supplies a sevenfold aggregation rule; our project

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> क्लेशात् क्लेशः क्रिया चैव ततो वस्तु ततः पुनः ।
->
-> वस्तु क्लेशाश्च जायन्ते भवाङ्गानामयं नयः ॥ ३.२७ ॥
+```sanskrit
+क्लेशात् क्लेशः क्रिया चैव ततो वस्तु ततः पुनः ।
+वस्तु क्लेशाश्च जायन्ते भवाङ्गानामयं नयः ॥ ३.२७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kleśāt kleśaḥ kriyā caiva tato vastu tataḥ punaḥ /
->
-> vastukleśāś ca jāyante bhavāṅgānām ayaṃ nayaḥ // 3.27 //
+```text
+kleśāt kleśaḥ kriyā caiva tato vastu tataḥ punaḥ /
+vastukleśāś ca jāyante bhavāṅgānām ayaṃ nayaḥ // 3.27 //
+```
 
 The second line is construed as `tataḥ punaḥ vastu kleśāḥ ca jāyante`:
 from Vastu in its support-function, further Vastu and afflictions arise
@@ -75,8 +77,7 @@ bhava-aṅgānām
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > From affliction arise both affliction and activity; from that arises the
 > Vastu in its support-function. From that again arise further Vastu and
 > afflictions.
@@ -84,14 +85,9 @@ bhava-aṅgānām
 
 ### Bhāṣya-informed study translation
 
-> Affliction can generate another affliction or karmic action; karmic action
-> generates Vastu in its support-function; that Vastu develops into further
-> Vastu and also supports renewed affliction. This
-> recursive causal grammar governs the twelve members and reconnects their
-> apparent beginning and end without requiring any additional member.
-
-The five transition-types, their concrete member-pairs, and the response to
-the boundary objection are Bhāṣya determinations.
+> From affliction arise affliction and karmic action; from action, Vastu; from
+> Vastu again arise Vastu and afflictions. This is the governing rule of the
+> members of becoming.
 
 ## 6. Philosophical Translation
 
@@ -226,6 +222,16 @@ The `naya` explains more than the enumeration because it can generate the
 relations of the enumeration and reconnect its apparent limits.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya resolves the verse into five transition-types:
+affliction from affliction (Appropriation from Craving); action from affliction
+(Becoming from Appropriation and Formations from Ignorance); Vastu from action
+(Cognition from Formations and Birth from Becoming); Vastu from Vastu (Name-and-Form
+from Cognition, onward through Aging-and-Death from Birth); and affliction from
+Vastu (Craving from Feeling). It uses this rule to answer the objection that the
+twelve members leave an uncaused beginning or an unresulted end, and explains that
+Ignorance may arise from Vastu or affliction, while affliction recurs under Feeling
+even at Aging-and-Death.
 
 The Organon's project-level synthesis reads the Bhāṣya's transitions as a
 recursive Ground–Condition pattern: affliction conditions karma, karma

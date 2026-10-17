@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> नृणां वर्षाणि पञ्चाशदहोरात्रो दिवौकसाम् ।
->
-> कामेऽधराणां तेनायुः पञ्चवर्षशतानि तु ॥ ३.७९ ॥
+```sanskrit
+नृणां वर्षाणि पञ्चाशदहोरात्रो दिवौकसाम् ।
+कामेऽधराणां तेनायुः पञ्चवर्षशतानि तु ॥ ३.७९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> nṛṇāṃ varṣāṇi pañcāśad ahorātro divaukasām /
->
-> kāme 'dharāṇāṃ tenāyuḥ pañcavarṣaśatāni tu // 3.79 //
+```text
+nṛṇāṃ varṣāṇi pañcāśad ahorātro divaukasām /
+kāme 'dharāṇāṃ tenāyuḥ pañcavarṣaśatāni tu // 3.79 //
+```
 
 ## 3. Lexical Analysis
 
@@ -66,21 +68,14 @@ lifespan.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Fifty human years are a day-and-night of the lowest heaven-dwellers in the
 > desire realm; measured by that, their lifespan is five hundred years.
 
 ### Bhāṣya-informed study translation
 
-> For the Cāturmahārājakāyika devas, fifty human years constitute one divine
-> day-and-night. Thirty such day-nights constitute their month and twelve such
-> months their year; measured by this divine calendar, their lifespan is five
-> hundred divine years.
-
-The identification of the deva class, the thirty-day month, the twelve-month
-year, and the divine status of the five hundred years are Bhāṣya
-determinations.
+> Fifty human years are one complete day-and-night for the lowest devas in the
+> desire realm; by that measure, their lifespan is five hundred divine years.
 
 ## 6. Philosophical Translation
 
@@ -181,6 +176,10 @@ higher station
 This is the transition to VAK 3.80; its full distribution belongs there.
 
 ## 9. Interpretive Note
+
+**Translation note.** The identification of the deva class, the thirty-day month, the twelve-month
+year, and the divine status of the five hundred years are Bhāṣya
+determinations. The Bhāṣya specifies thirty divine day-and-nights per month and twelve months per year, making the five hundred years divine years.
 
 VAK 3.79 turns the World System into a system of clocks. The important result
 is not merely longevity but **nested temporal determination**:

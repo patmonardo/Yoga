@@ -2,28 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-caturdvīpakacandrārkamerukāmadivaukasām /
-brahmalokasahasraṃ ca sāhasraś cūḍiko mataḥ // 3.73 //
-```
+> caturdvīpakacandrārkamerukāmadivaukasām /
+> brahmalokasahasraṃ ca sāhasraś cūḍiko mataḥ // 3.73 //
 
-> A thousand four-continent units, moons, suns, Merus, sensual-domain devas,
-> and Brahma-worlds is regarded as the small thousandfold world-system.
+> One thousand each of the four-continent sets, suns, moons, Merus, kāma
+> heavens, and Brahma-worlds make up the small thousandfold cluster.
 
 Before defining that system, the Bhāṣya records competing estimates for the
 extent of the higher residences and dhyāna realms. It then explains the
 inventory in the kārikā: each named kind is counted by thousands, including
 each of the four continents and a complete series of sensual-domain deva
 classes.
-
-### Bhāṣya-informed study translation
-
-> One thousand Jambūdvīpas, one thousand Pūrvavidehas, one thousand
-> Aparagodānīyas, and one thousand Uttarakurus; one thousand suns, moons, and
-> Sumerus; one thousand complete sets of sensual devas from the
-> Cāturmahārājakāyikas through the Paranirmitavaśavartins; and one thousand
-> Brahma-worlds together constitute what is called the small thousandfold
-> world-system.
 
 The separate thousandfold count for all four continents, the complete limits
 of the sensual-deva series, and the definition as a `sāhasra-cūḍika lokadhātu`
@@ -60,7 +49,7 @@ The question asks about the middle and great thousandfold systems as well,
 but this study stops after the definition of the small system. Their
 definitions follow with VAK 3.74.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 Now, how large are these residences beginning with those of the Yāmas?
 
 Some say that the four extend as far as the summit of Sumeru. Others say that
@@ -120,7 +109,7 @@ rather than silently supplying a subject.
 The verse's explicit definition of a small thousandfold system follows these
 estimates and should be kept distinct from them. The alternatives concern the
 extent of residences and dhyāna realms; the root verse and its prose
-definition specify the membership of the small aggregate.
+definition specify the membership of the small cluster.
 
 ## 6. The Counted World-Unit
 

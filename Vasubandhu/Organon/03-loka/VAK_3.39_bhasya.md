@@ -2,33 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kavaḍīkāra āhāraḥ kāme tryāyatanātmakaḥ /
-na rūpāyatanaṃ tena svākṣamuktānanugrahāt // 3.39 //
-```
+> kavaḍīkāra āhāraḥ kāme tryāyatanātmakaḥ /
+> na rūpāyatanaṃ tena svākṣamuktānanugrahāt // 3.39 //
 
-> Morsel nutriment in the desire realm is constituted by three Essences. The
-> visible-form Essence is not nutriment, because it does not support its own
-> faculty or the liberated.
+> In the desire realm, morsel nutriment consists of three Essences. It is not
+> the Form Essence, because [it] does not nourish its own Faculty or the
+> liberated.
 
 The Bhāṣya first enumerates the four nutriments, then analyzes the first as
 gross or subtle, restricts it to the desire realm, identifies its three
 constituent spheres, and excludes visible form through a functional test of
 sustaining support.
-
-### Bhāṣya-informed study translation
-
-> Morsel nutriment occurs only in the desire realm and is constituted by the
-> three desire-realm Essences of odor, taste, and tangible. It may be gross or
-> subtle, and sustaining influences not literally swallowed may be included
-> under its subtle form. Visible form itself is not nutriment, because
-> nutriment must support the faculties and their material elements, whereas
-> visible form does not support even its own faculty, the eye, in the act of
-> ingestion. When seeing attractive food occasions pleasure, the nourishing
-> factor is the pleasant-feeling-producing contact that takes the form as its
-> cognitive Condition, not the visible form itself. Liberated persons confirm the
-> distinction: they may see pleasing food without receiving that sustaining
-> benefit from its appearance.
 
 The identification of the three Essences, the gross/subtle distinction, the
 functional definition of nutriment, and the contact analysis are Bhāṣya
@@ -79,8 +63,7 @@ in the pleasure clause at 153.01. The continuous text regularizes these
 provisionally. The examples of subtle nutriment, the scope of `niḥṣyanda`,
 and the difficult final compound in the verse require critical comparison.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Morsel nutriment is the first nutriment. It is gross and subtle. It is subtle
 for intermediate beings because they subsist upon odor; likewise for gods and
 beings of the first cosmic age, because they have no excretive residue and it
@@ -93,7 +76,7 @@ cognition the fourth.
 Of these, morsel nutriment occurs in the desire realm. It does not occur in
 the form or formless realms because beings are born there after becoming
 dispassionate toward it. It is constituted by three Essences: all the
-desire-realm spheres of odor, taste, and tangible are morsel nutriment because
+desire-realm Essences of odor, taste, and tangible are morsel nutriment because
 they are taken in after being formed into morsels, ordinarily delimited as
 intake by mouth or nose.
 
@@ -105,8 +88,8 @@ as with bathing and anointing.
 Why is the visible-form Essence not nutriment? It too is taken in when food is
 formed into morsels. The answer is that visible form does not support its own
 faculty or the liberated. Nutriment is that which conduces to the sustaining
-support of the faculties and the great elements. At the time of ingestion,
-visible form does not support its own faculty, the Eye, or the great elements
+support of the faculties and the Great Elements. At the time of ingestion,
+visible form does not support its own faculty, the Eye, or the Great Elements
 belonging to it—still less the other Faculties, since visible form is not
 their cognitive Condition.
 
@@ -200,7 +183,7 @@ The Bhāṣya defines nutriment functionally:
 ```text
 āhāra
     = what conduces to anugraha
-      of faculties and great elements
+      of faculties and Great Elements
 ```
 
 Visible form fails this criterion. Its relation to the Eye is a cognitive

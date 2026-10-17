@@ -2,33 +2,22 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ārūpye viṃśatiḥ kalpasahasrāṇy adhikādhikam /
-mahākalpaḥ parīttābhāt prabhṛty ardham adhas tataḥ // 3.81 //
-```
+> ārūpye viṃśatiḥ kalpasahasrāṇy adhikādhikam /
+> mahākalpaḥ parīttābhāt prabhṛty ardham adhas tataḥ // 3.81 //
 
-> In the formless realm, lifespans increase by twenty thousand kalpas at each
-> successive station. Beginning with Parīttābha, lifespan is measured in
-> mahākalpas; below that, half a mahākalpa is reckoned as one kalpa.
+> In the formless realm, lifespan increases successively by twenty thousand
+> kalpas. From Parīttābha upward, a kalpa is a great kalpa; below that, it is
+> half a great kalpa.
 
 The local kārikā witness compresses the second line. Its division here follows
 the Bhāṣya's explicit prose: `parīttābhāt prabhṛti` (“beginning with
 Parīttābha”) and `ardham adhas tataḥ` (“below that, half”).
 
-### Bhāṣya-informed study translation
-
-> Lifespans in the four formless stations are respectively 20,000 kalpas in
-> the Essence of Infinite Space, 40,000 in the Essence of Infinite Cognition,
-> 60,000 in the Essence of Nothingness, and 80,000 at the Summit of Existence.
-> In these lifespan calculations, `kalpa` means a full mahākalpa from the
-> Parīttābha class upward; below Parīttābha, half a mahākalpa is conventionally
-> counted as one kalpa.
-
 The names and exact distribution of the four formless stations, the explicit
 question about which kind of kalpa is intended, and the conventional status
 of the lower unit are Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Ārūpye viṃśatiḥ kalpasahasrāṇy adhikādhikam.
@@ -64,7 +53,7 @@ Sandhi and word division have been regularized. The second kārikā line is
 presented according to the parsing confirmed by the Bhāṣya, rather than the
 compressed form of the local root-text witness.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 In the formless realm, lifespans increase successively by twenty thousand
 kalpas. In the Essence of Infinite Space, lifespan is twenty thousand
 kalpas; in the Essence of Infinite Cognition, twenty thousand more; in the
@@ -85,7 +74,7 @@ are called one and a half kalpas for Mahābrahmā. Accordingly, half a
 mahākalpa—forty intermediate kalpas—is reckoned as one kalpa for their
 lifespan measure.
 
-## Natural Movement
+## 4. Natural Movement
 
 The Bhāṣya first gives the four formless-realm lifespans, adding twenty
 thousand at each successive station. It then asks what unit the word
@@ -94,7 +83,7 @@ boundary a kalpa is a full mahākalpa; below it, a half-mahākalpa is
 conventionally counted as one kalpa. The final calculation explains this
 lower unit through the world’s evolution, duration, and contraction.
 
-## The Lifespans and Their Unit
+## 5. The Lifespans and Their Unit
 
 | Formless station | Lifespan stated by the Bhāṣya |
 |---|---:|
@@ -119,7 +108,7 @@ smaller unit through Mahābrahmā's lifespan:
 The Bhāṣya's “half” applies below the boundary; it does not make the arūpya
 lifespans half-mahākalpas.
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 The passage distinguishes a lifespan's number from the measure carried by
 the unit `kalpa`. It preserves the ascending 20,000-step series, but clarifies
@@ -127,13 +116,13 @@ that the unit itself is realm-indexed: full mahākalpas from Parīttābha
 upward, and half-mahākalpas counted as kalpas below. These remain measures of
 conditioned existence, including at the Summit of Existence.
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: a numerical quantity requires a specified unit, and here that
 unit changes across a cosmological boundary. This is a project-level
 observation, not Vasubandhu's technical terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[174|06]` through `[174|17-174|18]` of the
   running witness.

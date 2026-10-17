@@ -2,25 +2,15 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-tatra bhājanalokasya saṃniveśam uśanty adhaḥ /
-lakṣaṣoḍaśakodvedham asaṃkhyaṃ vāyumaṇḍalam // 3.45 //
-```
+> tatra bhājanalokasya saṃniveśam uśanty adhaḥ /
+> lakṣaṣoḍaśakodvedham asaṃkhyaṃ vāyumaṇḍalam // 3.45 //
 
-> There they describe the arrangement of the container-world: below is a
-> wind-maṇḍala sixteen hundred-thousand yojanas in vertical extent and
-> incalculable in breadth.
+> Below, the container-world is arranged as an incalculable wind-maṇḍala
+> 1,600,000 yojanas high.
 
 The Bhāṣya identifies the scale as the great thousandfold world-system,
 distinguishes vertical from lateral extent, and supplies the genesis of the
 wind-maṇḍala through the governing efficacy of the karma of all beings.
-
-### Bhāṣya-informed study translation
-
-> They describe the arrangement of the great world-system as follows. Below,
-> established in space, a wind-maṇḍala comes into formation through the
-> governing efficacy of the karma of all beings. It is 1,600,000 yojanas in
-> vertical extent, incalculable in breadth, and extraordinarily firm.
 
 The great world-system, establishment in space, karmic formation, yojana unit,
 lateral dimension, and firmness are Bhāṣya determinations rather than wording
@@ -45,8 +35,7 @@ evident duplicated nasal have been regularized provisionally. The expression
 `mahālagno 'pi vajreṇa` is textually uncertain and has not been silently
 resolved into a confident critical reading.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 The sentient world has been explained; the container-world is now to be
 explained.
 

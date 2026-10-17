@@ -2,28 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-merumūrdhni trayastriṃśāḥ sa cāśītisahasradik /
-vidikṣu kūṭāś catvāra uṣitā vajrapāṇibhiḥ // 3.65 //
-```
+> merumūrdhni trayastriṃśāḥ sa cāśītisahasradik /
+> vidikṣu kūṭāś catvāra uṣitā vajrapāṇibhiḥ // 3.65 //
 
-> The Thirty-Three dwell on Meru's summit, which has an eighty-thousand
-> directional extent. In the intermediate directions are four peaks inhabited
-> by Vajrapāṇis.
+> The Trāyastriṃśas dwell atop Meru, whose side measures 80,000 yojanas;
+> at its four corners are peaks inhabited by Vajrapāṇis.
 
 The Bhāṣya first gives the summit's dimension in two differently construed
 accounts. It then identifies the intermediate directions as the summit's four
 corners and describes a 500-yojana peak at each, inhabited by yakṣas called
 Vajrapāṇis.
-
-### Bhāṣya-informed study translation
-
-> The Trāyastriṃśa gods inhabit Meru's summit. On the principal explanation,
-> each side of the summit measures 80,000 yojanas, as does the corresponding
-> measure below. According to another opinion, each of its four sides measures
-> 20,000, making 80,000 around the whole circumference. At the summit's four
-> corners rise four peaks, each measuring 500 yojanas, inhabited by yakṣas
-> called Vajrapāṇis.
 
 The competing interpretations of the summit measure, the identification of
 `vidiś` with corner, the 500-yojana peak measure, and the classification of
@@ -58,8 +46,7 @@ sentence, `pañcayojanaśatapramāṇāḥ` states the measure of the four peaks
 does not specify a separate dimension such as height or width; the translation
 therefore preserves “500-yojana measure.”
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 The Thirty-Three dwell on Meru's summit.
 
 Now, how large is Meru's summit?

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> लक्षत्रयं सहस्राणि विंशतिर्द्वे च तत्र तु ।
->
-> जम्बूद्वीपो द्विसाहस्रस्त्रिपार्श्वः शकटाकृतिः ॥ ३.५३ ॥
+```sanskrit
+लक्षत्रयं सहस्राणि विंशतिर्द्वे च तत्र तु ।
+जम्बूद्वीपो द्विसाहस्रस्त्रिपार्श्वः शकटाकृतिः ॥ ३.५३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> lakṣatrayaṃ sahasrāṇi viṃśatir dve ca tatra tu /
->
-> jambūdvīpo dvisāhasras tripārśvaḥ śakaṭākṛtiḥ // 3.53 //
+```text
+lakṣatrayaṃ sahasrāṇi viṃśatir dve ca tatra tu /
+jambūdvīpo dvisāhasras tripārśvaḥ śakaṭākṛtiḥ // 3.53 //
+```
 
 ## 3. Lexical Analysis
 
@@ -64,24 +66,15 @@ measured until the opening of 3.54.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > [The outer ocean measures] three hundred-thousands and twenty-two thousand
 > [yojanas]. There, Jambūdvīpa has three sides of two thousand and is
 > cart-shaped.
 
 ### Bhāṣya-informed study translation
 
-> The outer great ocean is 322,000 yojanas wide. Within it, the four continents
-> occupy the four sides of Sumeru. Jambūdvīpa lies to the south and is shaped
-> like a cart; three of its sides measure 2,000 yojanas each. At its center,
-> upon the golden earth, the diamond seat comes into formation. All
-> Bodhisattvas sit there when they generate diamond-like samādhi, because no
-> other support or locus is capable of bearing that event.
-
-The width-axis, fourfold directional placement, southern location, diamond
-seat, its unique support-capacity, and its relation to Bodhisattva samādhi are
-Bhāṣya determinations. The fourth side's measure belongs textually to 3.54.
+> There, the outer ocean is 322,000 yojanas wide. Jambūdvīpa measures
+> 2,000 yojanas on three sides and is shaped like a cart.
 
 ## 6. Philosophical Translation
 
@@ -170,6 +163,10 @@ conditions. The Bhāṣya's specific claim remains restricted to Bodhisattvas,
 the diamond seat, and diamond-like samādhi.
 
 ## 9. Interpretive Note
+
+**Translation note.** The width-axis, fourfold directional placement, southern location, diamond
+seat, its unique support-capacity, and its relation to Bodhisattva samādhi are
+Bhāṣya determinations. The fourth side's measure belongs textually to 3.54.
 
 VAK 3.53 advances from world-geometry to a topology of capacities. The
 container-world is not homogeneous space populated by interchangeable

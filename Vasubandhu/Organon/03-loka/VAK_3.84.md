@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> वाहाद्वर्षशतेनैकतिलोद्धारक्षयायुषः ।
->
-> अर्बुदाद् विंशतिगुणप्रतिवृद्ध्यायुषः परे ॥ ३.८४ ॥
+```sanskrit
+वाहाद्वर्षशतेनैकतिलोद्धारक्षयायुषः ।
+अर्बुदाद् विंशतिगुणप्रतिवृद्ध्यायुषः परे ॥ ३.८४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vāhād varṣaśatenaika-tiloddhāra-kṣayāyuṣaḥ /
->
-> arbudād viṃśatiguṇa-prativṛddhyāyuṣaḥ pare // 3.84 //
+```text
+vāhād varṣaśatenaika-tiloddhāra-kṣayāyuṣaḥ /
+arbudād viṃśatiguṇa-prativṛddhyāyuṣaḥ pare // 3.84 //
+```
 
 The normalized `arbudāt` follows the Bhāṣya's citation and syntax: after
 Arbuda, the later cold-naraka lifespans increase successively twentyfold. The
@@ -72,25 +74,16 @@ over the following cold narakas.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The Arbuda lifespan is indicated through the exhaustion of a vāha by the
 > removal of one sesame seed every hundred years; after Arbuda, the later
 > lifespans increase successively twentyfold.
 
 ### Bhāṣya-informed study translation
 
-> Suppose a sealed Māgadha vāha of twenty khārīs were completely filled with
-> sesame seeds, and one seed were removed only at the end of every hundred
-> years. That entire store would be exhausted before the lifespan of a being
-> born in Arbuda reached its limit. This comparison indicates the magnitude of
-> the Arbuda lifespan without equating the two. Each subsequent cold-naraka
-> lifespan is exactly twenty times the preceding one: twenty Arbudas make one
-> Nirarbuda, and the same recurrence continues through Mahāpadma.
-
-The twenty-khārī specification, sealed-container description, strict
-comparative inequality, and cited examples of the recurrence are Bhāṣya
-determinations supplied through a saying attributed to the Buddha.
+> The lifespan in Arbuda is indicated by a vāha emptied one sesame seed every
+> hundred years; each later cold-naraka lifespan is twenty times the preceding
+> one.
 
 ## 6. Philosophical Translation
 
@@ -205,6 +198,10 @@ Lifespan(Cₙ) > 20ⁿ × 100S years
 The passage combines an open base magnitude with a closed transformation law.
 
 ## 9. Interpretive Note
+
+**Translation note.** The twenty-khārī specification, sealed-container description, strict
+comparative inequality, and cited examples of the recurrence are Bhāṣya
+determinations supplied through a saying attributed to the Buddha. The comparison specifies a sealed Magadhan vāha of twenty khārīs; twenty Arbudas make one Nirarbuda, and the twentyfold succession continues through Mahāpadma. The comparison indicates magnitude, not an equality of lifespans.
 
 VAK 3.84 is a small lesson in scientific honesty. The Kośa does not replace an
 unavailable total with false precision. It states exactly what the comparison

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> तत्र भाजनलोकस्य संनिवेशमुशन्त्यधः ।
->
-> लक्षषोडशकोद्वेधमसंख्यं वायुमण्डलम् ॥ ३.४५ ॥
+```sanskrit
+तत्र भाजनलोकस्य संनिवेशमुशन्त्यधः ।
+लक्षषोडशकोद्वेधमसंख्यं वायुमण्डलम् ॥ ३.४५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> tatra bhājanalokasya saṃniveśam uśanty adhaḥ /
->
-> lakṣaṣoḍaśakodvedham asaṃkhyaṃ vāyumaṇḍalam // 3.45 //
+```text
+tatra bhājanalokasya saṃniveśam uśanty adhaḥ /
+lakṣaṣoḍaśakodvedham asaṃkhyaṃ vāyumaṇḍalam // 3.45 //
+```
 
 ## 3. Lexical Analysis
 
@@ -63,21 +65,14 @@ Bhāṣya identifies it as breadth.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > There they declare the arrangement of the container-world: below is an
 > incalculable wind-maṇḍala, sixteen hundred-thousands in vertical extent.
 
 ### Bhāṣya-informed study translation
 
-> They describe the arrangement of the great world-system as follows. Below,
-> established in space, a wind-maṇḍala comes into formation through the
-> governing efficacy of the karma of all beings. It is 1,600,000 yojanas in
-> vertical extent, incalculable in breadth, and extraordinarily firm.
-
-The great world-system, establishment in space, karmic formation, yojana unit,
-lateral dimension, and firmness are Bhāṣya determinations rather than wording
-contained in the Kārikā.
+> Below, the container-world is arranged as an incalculable wind-maṇḍala
+> 1,600,000 yojanas high.
 
 ## 6. Philosophical Translation
 
@@ -166,6 +161,12 @@ received-model status of the account rather than silently convert it into
 modern empirical physics.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya describes the wind-maṇḍala as established in space
+and formed through the efficacy of the karma of all beings. It is 1,600,000 yojanas
+high, incalculable in breadth, and extraordinarily firm. The great world-system,
+establishment in space, karmic formation, yojana unit, lateral dimension, and
+firmness are Bhāṣya determinations rather than wording contained in the Kārikā.
 
 At the project level, the Physical World is a shared support formed through collective karmic efficacy, not a private projection or independently self-grounding matter. The following verses develop its ordered supports without requiring wider cosmological correspondences.
 

@@ -2,30 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-tajjāḥ ṣaḍvedanāḥ pañca kāyikī caitasī parā /
-punaścāṣṭādaśavidhā sā manopavicārataḥ // 3.32 //
-```
+> tajjāḥ ṣaḍvedanāḥ pañca kāyikī caitasī parā /
+> punaścāṣṭādaśavidhā sā manopavicārataḥ // 3.32 //
 
-> Born from those Contacts are six Feelings. Five are bodily; the other is
-> mental. That mental Feeling is again eighteenfold according to Mental
-> Ranging.
+> Six feelings are born from those [Contacts]; five are bodily, the other
+> mental. That [mental feeling] is again eighteenfold according to mental
+> ranging.
 
 The Bhāṣya first divides Feeling by the Contact from which it arises and by
 its support. It then preserves an extended dispute over whether Contact and
 Feeling are simultaneous or successive before returning to the eighteen
 Mental Rangings.
-
-### Bhāṣya-informed study translation
-
-> Six feelings arise in relation to the six contacts: feeling born from eye-,
-> Ear-, Nose-, Tongue-, Body-, and Mind-Contact. The first five are called
-> **bodily Feeling** because they are supported by Form Faculties; the
-> remaining one is called **mental Feeling** because it is supported by
-> consciousness (*citta*) alone. Mental Feeling is further divided into
-> eighteen Mental Rangings: six of gladness, six of distress, and six of
-> equanimity, each corresponding to one of the six Conditions—Form, Sound,
-> Smell, Taste, Tangible, and Dharma.
 
 The Form-Faculty and consciousness (*citta*) support relations, as well as
 the internal `3 × 6` construction of the eighteen Mental Rangings, are
@@ -154,8 +141,7 @@ three sets of grounds at 146.06–10. At 145.09–10 the witness reads
 to preserve the passage's contrast between treatise and sūtra. These
 readings remain provisional; the source file is unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Feeling must now be explained. The sixfold Contact previously stated gives
 rise to six Feelings: Feelings born from Eye-Contact, Ear-Contact,
 Nose-Contact, Tongue-Contact, Body-Contact, and Mind-Contact. The first five

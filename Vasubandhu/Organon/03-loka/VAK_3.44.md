@@ -2,11 +2,15 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सम्यङ्मिथ्यात्वनियता आर्यानन्तर्यकारिणः ॥ ३.४४ ॥
+```sanskrit
+सम्यङ्मिथ्यात्वनियता आर्यानन्तर्यकारिणः ॥ ३.४४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> samyaṅmithyātvaniyatā āryānantaryakāriṇaḥ // 3.44 //
+```text
+samyaṅmithyātvaniyatā āryānantaryakāriṇaḥ // 3.44 //
+```
 
 ## 3. Lexical Analysis
 
@@ -46,23 +50,14 @@ Bhāṣya's framing prose rather than in the compressed Kārikā.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The noble ones are fixed in rightness; performers of immediate-result
 > actions are fixed in wrongness.
 
 ### Bhāṣya-informed study translation
 
-> The sentient world is classified into three groups: those fixed in
-> rightness, those fixed in wrongness, and those not fixed. The noble ones are
-> fixed in rightness because the path without outflows has arisen in them and
-> their course is determined toward the exhaustion of the afflictions. Those
-> who perform an immediate-result action are fixed in wrongness because their
-> course is determined toward hell. All others are not fixed: whether they
-> enter either determination, or neither, depends upon conditions.
-
-The three groups, the definitions of rightness and wrongness, and the reasons
-for each determination are supplied by the Bhāṣya.
+> The noble ones and those who perform immediate-result actions are fixed,
+> respectively, in rightness and wrongness.
 
 ## 6. Philosophical Translation
 
@@ -182,6 +177,14 @@ the Agent lacks causes; it means that the causal course has not acquired one
 of the two specified fixed forms.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya gives a third class, those not fixed: only whether
+they enter rightness, wrongness, or neither depends on conditions. Noble ones are
+fixed in rightness because the path without Influx has arisen and their course leads
+to exhaustion of afflictions; performers of an immediate-result action are fixed in
+wrongness because their course leads to hell. The three groups, the definitions of
+rightness and wrongness, and the reasons for each determination are supplied by the
+Bhāṣya.
 
 At the project level, the sentient-world account distinguishes fixed trajectory from condition-dependent course. The Bhāṣya’s transition to the container-world marks the boundary between those inquiries; the Agent schema is an Organon model, not Vasubandhu’s terminology.
 

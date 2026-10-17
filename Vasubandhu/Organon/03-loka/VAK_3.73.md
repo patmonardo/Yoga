@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चतुर्द्वीपकचन्द्रार्कमेरुकामदिवौकसाम् ।
->
-> ब्रह्मलोकसहस्रं च साहस्रश्चूडिको मतः ॥ ३.७३ ॥
+```sanskrit
+चतुर्द्वीपकचन्द्रार्कमेरुकामदिवौकसाम् ।
+ब्रह्मलोकसहस्रं च साहस्रश्चूडिको मतः ॥ ३.७३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> caturdvīpakacandrārkamerukāmadivaukasām /
->
-> brahmalokasahasraṃ ca sāhasraś cūḍiko mataḥ // 3.73 //
+```text
+caturdvīpakacandrārkamerukāmadivaukasām /
+brahmalokasahasraṃ ca sāhasraś cūḍiko mataḥ // 3.73 //
+```
 
 ## 3. Lexical Analysis
 
@@ -24,7 +26,7 @@
 | brahmalokasahasram | nominative neuter singular compound | a thousand Brahma-worlds |
 | ca | conjunction | and |
 | sāhasraḥ | nominative masculine singular | thousandfold |
-| cūḍikaḥ | nominative masculine singular | small / minor, naming the first thousandfold aggregate |
+| cūḍikaḥ | nominative masculine singular | small / minor, naming the first thousandfold cluster |
 | mataḥ | nominative masculine singular past participle of `√man` | regarded, held, or defined as |
 
 The first compound is compressed: the understood count `sahasra` ranges over
@@ -47,7 +49,7 @@ brahma-lokānām
     sahasram ca
 ```
 
-The predication then names the resulting aggregate:
+The predication then names the resulting cluster:
 
 ```text
 [etat]
@@ -62,23 +64,14 @@ to one undifferentiated collection of a thousand mixed items.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > A thousand four-continent units, moons, suns, Merus, sensual-domain devas,
 > and Brahma-worlds is regarded as the small thousandfold world-system.
 
 ### Bhāṣya-informed study translation
 
-> One thousand Jambūdvīpas, one thousand Pūrvavidehas, one thousand
-> Aparagodānīyas, and one thousand Uttarakurus; one thousand suns, moons, and
-> Sumerus; one thousand complete sets of sensual devas from the
-> Cāturmahārājakāyikas through the Paranirmitavaśavartins; and one thousand
-> Brahma-worlds together constitute what is called the small thousandfold
-> world-system.
-
-The separate thousandfold count for all four continents, the complete limits
-of the sensual-deva series, and the definition as a `sāhasra-cūḍika lokadhātu`
-are Bhāṣya determinations.
+> One thousand each of the four-continent sets, suns, moons, Merus, kāma
+> heavens, and Brahma-worlds make up the small thousandfold cluster.
 
 ## 6. Philosophical Translation
 
@@ -105,9 +98,9 @@ are Bhāṣya determinations.
 | Sumeru | Sumeru | axial component of each local unit |
 | kāmadivaukas | sensual-domain celestial inhabitant | full series of six sensual deva classes |
 | Brahmaloka | Brahma-world | upper world-component included in each repetition |
-| sahasra | thousand | replication count at the first aggregate scale |
+| sahasra | thousand | replication count at the first cluster scale |
 | sāhasra-cūḍika | small thousandfold | first-order thousandfold world-system |
-| mata | regarded / defined | marks the doctrinal naming of the aggregate |
+| mata | regarded / defined | marks the doctrinal naming of the cluster |
 
 ## 8. Logical Determination
 
@@ -185,7 +178,7 @@ at local scale:
 at thousandfold scale:
     W = member-unit
 
-aggregate:
+cluster:
     Σ(W₁ ... W₁₀₀₀) = new complete totality
 ```
 
@@ -206,6 +199,10 @@ produce the defined world-system.
 
 ## 9. Interpretive Note
 
+**Translation note.** The separate thousandfold count for all four continents, the complete limits
+of the sensual-deva series, and the definition as a `sāhasra-cūḍika lokadhātu`
+are Bhāṣya determinations.
+
 VAK 3.73 is the clearest statement yet that `Loka` means World System rather
 than a solitary Earth-like object. The preceding verses painstakingly formed
 one domain through geography, embodiment, celestial stations, object-fields,
@@ -220,7 +217,7 @@ constructed whole
 
 This is a semantic change of role, not an erasure of content. The local world
 does not become less complete when it functions as a member of the larger
-aggregate. Conversely, the aggregate is not a heap: it is defined through the
+cluster. Conversely, the cluster is not a heap: it is defined through the
 repetition of complete structured members.
 
 The human station is therefore not lost when scale becomes cosmic. Every
@@ -289,7 +286,7 @@ loka:CompleteKamaDevaSeries
     loka:hasClassCount 6 .
 
 loka:SmallThousandfoldWorldSystem
-    a loka:WorldSystemAggregate ;
+    a loka:WorldSystemCluster ;
     loka:hasUnitSchema loka:LocalWorldUnit ;
     loka:hasUnitCount 1000 ;
     loka:preserves loka:LocalWorldStructuralInvariance .

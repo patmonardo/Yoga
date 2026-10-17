@@ -2,31 +2,21 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ardhaṃ pratāpane 'vīcāv antaḥkalpaṃ paraṃ punaḥ /
-kalpaṃ tiraścāṃ pretānāṃ māsāhnā śatapañcakam // 3.83 //
-```
+> ardhaṃ pratāpane 'vīcāv antaḥkalpaṃ paraṃ punaḥ /
+> kalpaṃ tiraścāṃ pretānāṃ māsāhnā śatapañcakam // 3.83 //
 
 > In Pratāpana, lifespan is half an intermediate kalpa; in Avīci, one
-> intermediate kalpa. For animals, the maximum is an intermediate kalpa; for
-> pretas, it is five hundred years reckoned by a month-long day-and-night.
+> intermediate kalpa. Animals live at most one kalpa. For pretas, five hundred
+> years are reckoned by day-and-night units of one human month.
 
 The Bhāṣya supplies the referent of `ardham` and specifies that the animal
 lifespan is a maximum, not a fixed duration for all animals.
-
-### Bhāṣya-informed study translation
-
-> Lifespan in the Pratāpana great naraka is half an antarakalpa, and in Avīci
-> it is one antarakalpa. Animals have no single fixed lifespan; their maximum
-> is one antarakalpa, attained by exceptional great nāgas such as Nanda and
-> Upananda. For pretas, one human month constitutes one day-and-night, and
-> measured by that calendar their lifespan is five hundred preta years.
 
 The antarakalpa supplied after `ardham`, the absence of a fixed animal
 lifespan, the great-nāga examples, and the explicit human-to-preta conversion
 are Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Ardhaṃ Pratāpane.
@@ -58,7 +48,7 @@ Spacing and sandhi are regularized. The source reading `aśvatalī` in the
 great-nāga list is retained as `Aśvatalī` rather than silently emended. The
 scriptural quotation is excerpted as it appears in the running witness.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 In the great hell Pratāpana, lifespan is half an intermediate kalpa; in
 Avīci, it is one intermediate kalpa.
 
@@ -71,7 +61,7 @@ For pretas, five hundred [years] is the lifespan reckoned by a day-and-night
 whose measure is one human month. That which is a month for humans is a
 day-and-night for pretas.
 
-## Natural Movement
+## 4. Natural Movement
 
 The verse closes the sequence of lower-destiny lifespans with three distinct
 determinations. Pratāpana and Avīci receive fixed spans in intermediate
@@ -81,7 +71,7 @@ long-lived great nāgas. Preta lifespan uses a converted calendar in which one
 human month makes one preta day-and-night, and the total is five hundred
 preta years.
 
-## Fixed, Bounded, and Converted Measures
+## 5. Fixed, Bounded, and Converted Measures
 
 | Destiny | Lifespan determination |
 |---|---|
@@ -94,20 +84,20 @@ The animal clause must retain both parts: `niyamo nāsti`, no fixed rule, and
 `paramāyus ... antarakalpam`, maximum lifespan of one intermediate kalpa. It
 does not say that every animal lives for that duration.
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 The Bhāṣya distinguishes a fixed lifespan, a variable lifespan with a stated
 maximum, and a lifespan counted through a realm-specific conversion. These
 are not interchangeable ways of saying “a very long life”; each gives a
 different kind of temporal determination.
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: a domain can determine duration by a fixed value, an upper
 bound, or a converted calendar. This is a project-level observation, not
 Vasubandhu's technical terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[175|05]` through `[175|15-175|16]` of the
   running witness.

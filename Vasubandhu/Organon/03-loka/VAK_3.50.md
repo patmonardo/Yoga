@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चतूरत्नमयो मेरुर्जलेऽशीतिसहस्रके ।
->
-> मग्नाः ऊर्ध्वं जलान्मेरुर्भूयोऽशीतिसहस्रकः ॥ ३.५० ॥
+```sanskrit
+चतूरत्नमयो मेरुर्जलेऽशीतिसहस्रके ।
+मग्नाः ऊर्ध्वं जलान्मेरुर्भूयोऽशीतिसहस्रकः ॥ ३.५० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> catūratnamayo merur jale 'śītisahasrake /
->
-> magnāḥ ūrdhvaṃ jalān merur bhūyo 'śītisahasrakaḥ // 3.50 //
+```text
+catūratnamayo merur jale 'śītisahasrake /
+magnāḥ ūrdhvaṃ jalān merur bhūyo 'śītisahasrakaḥ // 3.50 //
+```
 
 The plural `magnāḥ`, confirmed by the Bhāṣya, refers to the mountains
 collectively. It must not be silently changed to singular `magnaḥ` and made to
@@ -69,25 +71,15 @@ depth is followed by Meru's distinctive emergent height.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Meru is made of four precious substances. [The mountains] are submerged in
 > eighty thousand [yojanas] of water; above the water, Meru extends a further
 > eighty thousand.
 
 ### Bhāṣya-informed study translation
 
-> Meru has four sides made respectively of gold, silver, vaidūrya, and crystal.
-> The eight great mountains are submerged 80,000 yojanas in the water resting
-> upon the golden earth. Meru rises another 80,000 yojanas above the
-> water. The radiance of each precious face colors the appearance of the sky in
-> its direction; the face toward Jambūdvīpa is traditionally described as
-> vaidūrya, through whose luminous coloring the sky here appears blue-green.
-
-The four materials and their ordered distribution, collective scope of the
-submerged measure, directional coloration, Jambūdvīpa-facing material, and
-role of radiance are Bhāṣya determinations. The last identification is reported
-tradition, marked by “they describe.”
+> Meru is made of four precious substances. The mountains are submerged in
+> 80,000 yojanas of water; above the water Meru rises a further 80,000.
 
 ## 6. Philosophical Translation
 
@@ -170,6 +162,16 @@ It is nevertheless a common appearance for inhabitants positioned within the
 same world-relation, not a private fabrication by each observer.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya confirms plural `magnāḥ`: the eight great mountains
+are submerged 80,000 yojanas in the water resting on golden earth; Meru rises
+another 80,000 yojanas above it. Meru's four faces are respectively gold, silver,
+vaidūrya, and crystal. Their radiance colors the sky in each direction; the face
+toward Jambūdvīpa is traditionally vaidūrya, giving the sky its blue-green
+appearance. The four materials and their ordered distribution, collective scope of
+the submerged measure, directional coloration, Jambūdvīpa-facing material, and role
+of radiance are Bhāṣya determinations. The last identification is reported
+tradition, marked by “they describe.”
 
 VAK 3.50 yields the first explicit bridge from cosmological configuration to
 the determination of appearance. Earlier verses generated and positioned the

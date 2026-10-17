@@ -3,16 +3,18 @@
 ## 1. Sanskrit (Devanāgarī)
 
 
-> नाम त्वरूपिणः स्कन्धाः स्पर्शाः षट् संनिपातजाः ।
->
-> पञ्चप्रतिघसंस्पर्शः षष्ठोऽधिवचनाह्वयः ॥ ३.३० ॥
+```sanskrit
+नाम त्वरूपिणः स्कन्धाः स्पर्शाः षट् संनिपातजाः ।
+पञ्चप्रतिघसंस्पर्शः षष्ठोऽधिवचनाह्वयः ॥ ३.३० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
 
-> nāma tv arūpiṇaḥ skandhāḥ sparśāḥ ṣaṭ saṃnipātajāḥ /
->
-> pañcapratighasaṃsparśaḥ ṣaṣṭho 'dhivacanāhvayaḥ // 3.30 //
+```text
+nāma tv arūpiṇaḥ skandhāḥ sparśāḥ ṣaṭ saṃnipātajāḥ /
+pañcapratighasaṃsparśaḥ ṣaṣṭho 'dhivacanāhvayaḥ // 3.30 //
+```
 
 ## 3. Lexical Analysis
 
@@ -68,43 +70,29 @@ pañca
 > Five are resistance-Contacts; the sixth is called designation-Contact.
 
 The Bhāṣya specifies the conjunction as that of Faculty, Meaning, and
-Discriminative Cognition, while reporting disagreement over whether Contact
+Cognition, while reporting disagreement over whether Contact
 is identical with that conjunction or a distinct associated Dharma arising
 from it.
 
 ## 5. Translation
 
 
-### Close syntactic construe
-
+### Literal Translation
 > Name comprises the four Bases other than Form Base. The six Contacts arise
-> from the conjunction of Faculty, Meaning, and Discriminative Cognition. The
+> from the conjunction of Faculty, Meaning, and Cognition. The
 > five Contacts are classified by resistance; the sixth is called
 > designation-Contact.
 
 ### Bhāṣya-informed study translation
 
-> In Name-and-Form, **Name** comprises the four Bases other than Form Base:
-> Feeling, Recognition, Formations, and Discriminative Cognition. Contact is
-> sixfold, arising through the conjunction of Faculty, Meaning, and
-> Discriminative Cognition. The five Contacts are classified by resistance
-> and Faculty support; the sixth, Mind-Contact, is called
-> **designation-Contact**. One account says designation is an additional
-> Condition for Mind-Cognition; another says Mind-Cognition proceeds by
-> means of words, and the associated Contact is therefore called
-> designation-Contact. The Bhāṣya further classifies the six Contacts as
-> Contacts with Knowing, with Ignorance, or with neither, and identifies
-> ill-will and attachment Contacts within a frequently occurring portion of
-> ignorance-Contact.
-
-The fourfold content of nāma, the relevant triad, and the competing
-explanations of contact and designation are Bhāṣya determinations.
+> Name comprises the non-Form Bases; Contacts are six, born of conjunction.
+> Five are Contacts with resistance; the sixth is called designation-Contact.
 
 ## 6. Philosophical Translation
 
 The kārikā describes Form and Name within the appearing field and explains
 the sixfold Contact relation. In the Organon's inner-instrument Techne, the
-cognitive factor in the Faculty–Meaning–Discriminative Cognition triad remains
+cognitive factor in the Faculty–Meaning–Cognition triad remains
 distinct from consciousness (*citta*) and Mind (*manas*). The Bhāṣya's
 dispute over whether Contact is the conjunction itself or a further
 associated Dharma remains unresolved.
@@ -120,7 +108,7 @@ associated Dharma remains unresolved.
 | vedanā | Feeling | included in Name |
 | saṃjñā | Recognition | included in Name |
 | saṃskāra | Formations | included in Name |
-| vijñāna | Discriminative Cognition | included in Name and participating in Contact |
+| vijñāna | Cognition | included in Name and participating in Contact |
 | nam / naman | bending / inclining | Bhāṣya's etymological operation proposed for `nāma` |
 | pratyāyaka | indicator / that which makes known | function of ordinary names relative to their meanings |
 | upapattyantara | another rebirth | endpoint toward which nāma inclines in an alternative explanation |
@@ -208,6 +196,17 @@ Ignorance.
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The Bhāṣya specifies Name as Feeling, Recognition, Formations,
+and Cognition, the four Bases other than Form Base. Contact arises through Faculty,
+cognitive Condition, and Cognition; the first five are classed by resistance and
+Faculty support, while the sixth is Mind-Contact. It reports two explanations of
+designation-Contact: designation may be an additional Condition for Mind-Cognition,
+or Mind-Cognition may proceed through words. It further classifies Contacts by
+association with knowledge, Ignorance, or neither, and discusses ill-will and
+attachment Contacts as a frequently occurring portion of Ignorance-Contact. The
+fourfold content of nāma, the relevant triad, and the competing explanations of
+contact and designation are Bhāṣya determinations.
 
 ## 10. OWL++ Seed
 

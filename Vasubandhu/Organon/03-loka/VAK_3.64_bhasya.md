@@ -2,27 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-karoṭapāṇayas tāsu mālādhārāḥ sadāmadāḥ /
-mahārājikadevāś ca parvateṣv api saptasu // 3.64 //
-```
+> karoṭapāṇayas tāsu mālādhārāḥ sadāmadāḥ /
+> mahārājikadevāś ca parvateṣv api saptasu // 3.64 //
 
-> On those terraces dwell the Karoṭapāṇis, Mālādhāras, and Sadāmadas; the
-> Mahārājika devas also dwell on the seven mountains.
+> On these terraces are Karoṭapāṇis, Mālādhāras, and the ever-intoxicated
+> Sadāmadas; the Great-King gods also dwell on the seven mountains.
 
 The Bhāṣya assigns the first three named populations to the first three
 terraces, places the Four Great Kings and their attendants on the fourth, and
 classifies all of them as Cāturmahārājakāyika devas. It then extends their
 habitation to villages and towns on the seven mountains beginning with
 Yugandhara.
-
-### Bhāṣya-informed study translation
-
-> Karoṭapāṇi yakṣas inhabit the first terrace, Mālādhāras the second, and
-> Sadāmadas—also called Sadāmattas—the third. The Four Great Kings themselves
-> and their attendants inhabit the fourth. All these belong to the host of the
-> Four Great Kings. That same class also has villages and towns on the seven
-> mountains beginning with Yugandhara.
 
 The terrace-by-terrace assignment, identification of the Karoṭapāṇis as
 yakṣas, fourth-terrace population, common Cāturmahārājakāyika classification,
@@ -55,8 +45,7 @@ The transmitted phrase `sarveṣāṃ mahiṣṭhaḥ` is retained as “the hig
 all,” while recognizing that the scope of this evaluative statement is not
 further elaborated in this unit.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 On those terraces are the Karoṭapāṇis, the Mālādhāras, and the Sadāmadas; and
 there are also Mahārājika devas on the seven mountains.
 

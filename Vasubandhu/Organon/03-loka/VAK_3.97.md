@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> देशस्थोत्तप्तपूर्णत्वैर्लक्षणातिशयो मुनेः ।
->
-> प्रागासन् रूपिवत् सत्त्वा रसरागात्ततः शनैः ॥ ३.९७ ॥
+```sanskrit
+देशस्थोत्तप्तपूर्णत्वैर्लक्षणातिशयो मुनेः ।
+प्रागासन् रूपिवत् सत्त्वा रसरागात्ततः शनैः ॥ ३.९७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> deśasthottaptapūrṇatvair lakṣaṇātiśayo muneḥ /
->
-> prāg āsan rūpivat sattvā rasarāgāt tataḥ śanaiḥ // 3.97 //
+```text
+deśasthottaptapūrṇatvair lakṣaṇātiśayo muneḥ /
+prāg āsan rūpivat sattvā rasarāgāt tataḥ śanaiḥ // 3.97 //
+```
 
 The first half completes the Buddha–cakravartin comparison. The second begins
 a new genetic exposition of the Human World. The Bhāṣya fixes `rūpivat` as
@@ -81,26 +83,16 @@ explicit while preserving its commentary-dependent status.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The Muni's marks are superior through proper placement, vividness, and
 > completeness. Formerly beings were like rūpa-realm beings; thereafter,
 > because of attachment to savor, [they changed] gradually.
 
 ### Bhāṣya-informed study translation
 
-> The Buddha's marks surpass the corresponding marks of a cakravartin by
-> being more exactly situated, more vividly manifest, and more completely
-> developed. At the beginning of the kalpa, human beings resembled beings of
-> the rūpa realm: they were mind-made, self-luminous, moved through the sky,
-> fed on joy, and lived for a long time. When attachment to the newly appeared
-> earth-savor arose, they gradually entered gross nourishment, heavier
-> embodiment, environmental differentiation, sexual differentiation, and the
-> social conditions of the present Human World.
-
-The detailed qualities of first-kalpa beings and every stage after
-`rasarāga` are supplied by the Bhāṣya and its cited sūtra, not enumerated in
-the verse.
+> The Muni's marks surpass others' in proper placement, vividness, and
+> completeness. Formerly beings were like those of the Form realm; thereafter
+> they changed gradually through attachment to savor.
 
 ## 6. Philosophical Translation
 
@@ -208,6 +200,10 @@ Difference here is intensive and structural, not the simple presence versus
 absence of the shared predicate.
 
 ## 9. Interpretive Note
+
+**Translation note.** The detailed qualities of first-kalpa beings and every stage after
+`rasarāga` are supplied by the Bhāṣya and its cited sūtra, not enumerated in
+the verse. The Bhāṣya and its cited sūtra describe the first humans as mind-made, self-luminous, sky-moving, joy-fed, and long-lived; after earth-savor appears, they turn to gross nourishment, heavier embodiment, environmental and sexual differentiation, and present social conditions.
 
 This verse turns from the classification of extraordinary agents to the
 genesis of ordinary embodied agency. Its method is extraordinarily modern:

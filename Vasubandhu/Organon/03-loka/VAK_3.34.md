@@ -3,22 +3,24 @@
 ## 1. Sanskrit (Devanāgarī)
 
 
-> स्वोऽष्टालम्बनमारूप्यो द्वयोर्ध्यानद्वये तु षट् ।
->
-> कामाः षण्णां चतुर्णां स्व एकस्यालम्बनं परः ॥ ३.३४ ॥
+```sanskrit
+स्वोऽष्टालम्बनमारूप्यो द्वयोर्ध्यानद्वये तु षट् ।
+कामाः षण्णां चतुर्णां स्व एकस्यालम्बनं परः ॥ ३.३४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
 
-> svo 'ṣṭālambanam ārūpyo dvayor dhyānadvaye tu ṣaṭ /
->
-> kāmāḥ ṣaṇṇāṃ caturṇāṃ sva ekasyālambanaṃ paraḥ // 3.34 //
+```text
+svo 'ṣṭālambanam ārūpyo dvayor dhyānadvaye tu ṣaṭ /
+kāmāḥ ṣaṇṇāṃ caturṇāṃ sva ekasyālambanaṃ paraḥ // 3.34 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| svaḥ | nominative masculine singular | their own realm, namely the form realm |
+| svaḥ | nominative masculine singular | their own realm, namely the Form realm |
 | aṣṭālambanam | accusative/neuter predicate compound in compact enumeration | cognitive Condition for eight Mental Rangings |
 | ārūpyaḥ | nominative masculine singular | the formless realm |
 | dvayoḥ | genitive dual | of two, namely two dharma-rangings |
@@ -28,7 +30,7 @@
 | kāmāḥ | nominative masculine plural | the desire realm, expressed elliptically as cognitive Condition |
 | ṣaṇṇām | genitive plural numeral | of all six |
 | caturṇām | genitive plural numeral | of four |
-| svaḥ | nominative masculine singular | their own form realm |
+| svaḥ | nominative masculine singular | their own Form realm |
 | ekasya | genitive masculine singular | of one, the dharma-ranging |
 | ālambanam | nominative/accusative neuter singular | cognitive Condition |
 | paraḥ | nominative masculine singular | the higher realm, namely the formless realm |
@@ -41,13 +43,13 @@ the governing matrix.
 
 
 The opening continues the analysis of mental rangings belonging to the first
-two form-realm dhyānas from 3.33:
+two Form realm dhyānas from 3.33:
 
 ```text
 svaḥ [rūpadhātuḥ]
     aṣṭānām ālambanam
 
-their own [form realm]
+their own [Form realm]
     is the cognitive Condition for eight
 
 Ārūpyaḥ
@@ -79,8 +81,7 @@ the dharma-ranging.
 ## 5. Translation
 
 
-### Close syntactic construe
-
+### Literal Translation
 > Their own [realm] is the cognitive Condition for eight, and the Formless realm for
 > two. But in the [latter] pair of dhyānas there are six. The desire realm is
 > the cognitive Condition for all six, their own realm for four, and the higher realm
@@ -88,23 +89,16 @@ the dharma-ranging.
 
 ### Bhāṣya-informed study translation
 
-> For the mental rangings belonging to the first two dhyānas, their own form
-> realm can serve as cognitive Condition for eight—the four Smell- and
-> Taste-Rangings being excluded—and the Formless realm can condition their two
-> Dharma-Rangings. In the third and fourth dhyānas, only the six
-> equanimity-Rangings occur. All six may take the lower desire realm as their
-> Condition; four may take their own Form realm, where Smell and Taste are
-> absent; and one, the Dharma-Ranging, may take the higher Formless realm.
-
-The reference of `sva`, the identification of the two dhyāna pairs, and the
-affective and Condition membership of each count are Bhāṣya determinations.
+> Their own [Form realm] is object for eight, the Formless realm for two; in
+> the [higher] pair of dhyānas, six [occur]. The desire realm is object for
+> all six, their own realm for four, and the higher [realm] for one.
 
 ## 6. Philosophical Translation
 
 
 The distribution holds three determinations together: realm-connection,
 affective mode, and cognitive Condition. For the first two dhyānas, the
-Form-realm Conditions support eight rangings and the Formless realm supports
+Form realm Conditions support eight rangings and the Formless realm supports
 two. In the third and fourth, six equanimity-Rangings reach the desire realm,
 four reach the Form realm, and one reaches the Formless realm. The Condition's
 constitution and the ranging's station jointly determine this distribution.
@@ -118,13 +112,13 @@ placement does not erase access to lower-realm Conditions.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| sva | own | the Form realm relative to form-associated Mental Rangings |
-| para | higher | the Formless realm relative to a Form-realm station |
+| sva | own | the Form realm relative to Form-associated Mental Rangings |
+| para | higher | the Formless realm relative to a Form realm station |
 | ālambana | cognitive Condition | realm or field on which a Mental Ranging depends |
 | dhyānadvaya | pair of dhyānas | contextually either the first–second or third–fourth pair |
 | upekṣopavicāra | equanimity-Ranging | sole affective class present in the third and fourth dhyānas |
 | saumanasyopavicāra | gladness-Ranging | present in the first two dhyānas but absent from the latter pair |
-| daurmanasyopavicāra | distress-Ranging | already excluded from all four Form-realm dhyānas in this distribution |
+| daurmanasyopavicāra | distress-Ranging | already excluded from all four Form realm dhyānas in this distribution |
 | gandhopavicāra | Smell-Ranging | excluded when the Form realm is the Condition |
 | rasopavicāra | Taste-Ranging | excluded when the Form realm is the Condition |
 | dharmopavicāra | Dharma-Ranging | the sole Ranging able here to take the Formless realm as Condition |
@@ -220,6 +214,14 @@ No one coordinate alone determines the operation.
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The Bhāṣya identifies the eight in the first two dhyānas as
+excluding the four Smell- and Taste-Rangings; their two Formless Conditions are the
+Dharma-Rangings. The third and fourth dhyānas have only the six equanimity-Rangings.
+Desire can condition all six; the own Form realm, four (without Smell and Taste);
+and the higher Formless realm, one Dharma-Ranging. The reference of `sva`, the
+identification of the two dhyāna pairs, and the affective and Condition membership
+of each count are Bhāṣya determinations.
 
 ## 10. OWL++ Seed
 

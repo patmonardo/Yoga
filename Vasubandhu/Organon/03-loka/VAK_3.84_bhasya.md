@@ -2,33 +2,21 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-vāhād varṣaśatenaika-tiloddhāra-kṣayāyuṣaḥ /
-arbudād viṃśatiguṇa-prativṛddhyāyuṣaḥ pare // 3.84 //
-```
+> vāhād varṣaśatenaika-tiloddhāra-kṣayāyuṣaḥ /
+> arbudād viṃśatiguṇa-prativṛddhyāyuṣaḥ pare // 3.84 //
 
-> Arbuda lifespans are indicated by comparison with a sesame-load depleted
-> one seed every hundred years; the later lifespans increase successively
-> twentyfold.
+> The lifespan in Arbuda is indicated by a vāha emptied one sesame seed every
+> hundred years; each later cold-naraka lifespan is twenty times the preceding
+> one.
 
 The source uses the spelling `arvuda`; the normalized `arbuda` follows the
 local kārikā study and is the form used below.
-
-### Bhāṣya-informed study translation
-
-> Suppose a sealed Māgadha vāha of twenty khārīs were completely filled with
-> sesame seeds, and one seed were removed only at the end of every hundred
-> years. That entire store would be exhausted before the lifespan of a being
-> born in Arbuda reached its limit. This comparison indicates the magnitude of
-> the Arbuda lifespan without equating the two. Each subsequent cold-naraka
-> lifespan is exactly twenty times the preceding one: twenty Arbudas make one
-> Nirarbuda, and the same recurrence continues through Mahāpadma.
 
 The twenty-khārī specification, sealed-container description, strict
 comparative inequality, and cited examples of the recurrence are Bhāṣya
 determinations supplied through a saying attributed to the Buddha.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Śītanarakeṣv āyuṣaḥ kiṃ pramāṇam?
@@ -56,7 +44,7 @@ Spacing and sandhi are regularized. The source's `cūḍikāvaddhaḥ` is render
 as tied or sealed. The final `iti` introduces an abbreviated citation, whose
 intervening sequence is not reproduced in this witness.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 What is the measure of lifespan in the cold hells?
 
 The Blessed One has explained their lifespan by comparison alone: “Suppose,
@@ -72,7 +60,7 @@ just as twenty Padmas make one Mahāpadma.”
 
 The later cold-hell lifespans increase successively twentyfold.
 
-## Natural Movement
+## 4. Natural Movement
 
 Vasubandhu asks how the cold-hell lifespans are measured. The citation gives
 an immense but finite depletion process: remove one sesame seed from a
@@ -82,7 +70,7 @@ with Arbuda's duration. The verse then gives a separate, exact relation:
 each later lifespan is twenty times the preceding one. The quotation
 illustrates that succession with Arbuda/Nirarbuda and Padma/Mahāpadma.
 
-## Analogy and Succession
+## 5. Analogy and Succession
 
 ```text
 analogy for Arbuda:
@@ -98,7 +86,7 @@ the Buddha's quotation explicitly denies that sesame depletion marks the
 Arbuda lifespan's endpoint. The twentyfold relation is distinct: it orders
 the later stations by a stated multiplier.
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 The passage separates an illustrative measure from an exact ratio. Arbuda's
 duration is made imaginable through a process that itself has an endpoint,
@@ -106,14 +94,14 @@ but that endpoint falls short of Arbuda's. Beyond Arbuda, the source gives a
 successive twentyfold lifespan relation. It does not require us to fill out
 the ellipsis in the cited series here.
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: an analogy can indicate magnitude without asserting numerical
 identity, while a separate rule specifies exact relations within an ordered
 series. This is a project-level observation, not Vasubandhu's technical
 terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[175|16]` through `[175|22-175|24]` of the
   running witness.

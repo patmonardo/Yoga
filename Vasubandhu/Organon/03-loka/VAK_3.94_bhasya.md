@@ -2,32 +2,22 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-buddhatvam apakarṣe hi śatād yāvat tadudbhavaḥ /
-dvayoḥ pratyekabuddhānāṃ khaḍgaḥ kalpaśatānvayaḥ // 3.94 //
-```
+> buddhatvam apakarṣe hi śatād yāvat tadudbhavaḥ /
+> dvayoḥ pratyekabuddhānāṃ khaḍgaḥ kalpaśatānvayaḥ // 3.94 //
 
-> Buddhahood arises during decline, from [the eighty-thousand-year limit]
-> down to one hundred. Pratyekabuddhas arise in both phases; the
-> rhinoceros-horn-like solitary type has a continuity of one hundred kalpas.
+> Buddhas arise during decline, while lifespan falls from eighty thousand
+> toward one hundred years. Pratyekabuddhas arise in both increase and
+> decline; the rhinoceros-horn solitary type is associated with a hundred
+> kalpas.
 
 The Bhāṣya makes the verse's temporal compressions explicit and clarifies
 that the hundred kalpas of the solitary type are great kalpas spent in the
 accumulations for awakening.
 
-### Bhāṣya-informed study translation
-
-> A Buddha arises only during the decrease of human lifespan: after the
-> lifespan has begun to fall below eighty thousand years and before it falls
-> below one hundred. Pratyekabuddhas may arise during either increase or
-> decrease. Of their two kinds, the rhinoceros-horn-like solitary type is
-> preceded by a preparatory accumulation for awakening extending through one
-> hundred mahākalpas.
-
 The precise upper bound, the two Pratyekabuddha types, and the interpretation
 of the hundred mahākalpas as preparation for awakening come from the Bhāṣya.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 The natural unit begins with the question whether Buddhas arise during
 increase or decrease. It continues through the Pratyekabuddha types and the
@@ -89,7 +79,7 @@ ascetics is explicitly introduced as a prior account, not as an independently
 verified historical report. In `pratisrotaḥnayanam`, the compound is spaced
 for readability; the sense is leading beings against the current.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 At what time do Buddhas arise—during increase, or during decrease? During
 decrease, from the period beginning at the eighty-thousand-year lifespan down
 to the time when human beings have lifespans of one hundred years. They do
@@ -138,7 +128,7 @@ difficult to lead people who go with the current against the current; and
 they are wary of the distraction and entanglement that would come with
 gathering a following.
 
-## Natural Movement
+## 4. Natural Movement
 
 The Bhāṣya first bounds the interval in which a Buddha appears and explains
 both exclusions: beings are hard to rouse during lifespan-increase, while
@@ -152,14 +142,14 @@ unfitness of beings as explanations for Pratyekabuddhas' not teaching widely.
 It attributes their limited engagement instead to prior habituation and
 reluctance to gather and lead a community into profound teaching.
 
-## Organon Contact Point
+## 5. Organon Contact Point
 
 Light contact: the passage distinguishes awakening, teaching capacity,
 compassion, and willingness to assume the work of guiding others. These are
 kept as distinct determinations in Vasubandhu's argument, not collapsed into
 a single measure of spiritual attainment.
 
-## Review Status
+## 6. Review Status
 
 - Follows the complete 3.94 unit through the explanation of limited teaching;
   stops before the Cakravartin discussion.

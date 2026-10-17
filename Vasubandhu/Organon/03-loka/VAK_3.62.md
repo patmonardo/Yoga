@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> लवशो रात्र्यहर्वृद्धी दक्षिणोत्तरगे रवौ ।
->
-> स्वच्छाययार्कसामीप्याद्विकलेन्दुसमीक्षणम् ॥ ३.६२ ॥
+```sanskrit
+लवशो रात्र्यहर्वृद्धी दक्षिणोत्तरगे रवौ ।
+स्वच्छाययार्कसामीप्याद्विकलेन्दुसमीक्षणम् ॥ ३.६२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> lavaśo rātryaharvṛddhī dakṣiṇottarage ravau /
->
-> svacchāyayārkasāmīpyād vikalendusamīkṣaṇam // 3.62 //
+```text
+lavaśo rātryaharvṛddhī dakṣiṇottarage ravau /
+svacchāyayārkasāmīpyād vikalendusamīkṣaṇam // 3.62 //
+```
 
 ## 3. Lexical Analysis
 
@@ -55,25 +57,15 @@ the nearby lunar vehicle and shadow falls upon its opposite side.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > As the sun moves south and north, night and day increase lava by lava. Owing
 > to shadow in proximity to the sun, the moon is seen as incomplete.
 
 ### Bhāṣya-informed study translation
 
-> Night increases one lava at a time while the sun moves toward the southern
-> side of Jambūdvīpa; day increases one lava at a time while it moves northward.
-> At the beginning of the bright fortnight, the lunar disk appears incomplete.
-> According to the Prajñapti account, when the lunar vehicle approaches the
-> solar vehicle, solar rays fall upon it and shadow on the opposite side makes
-> only part of the disk visible. According to earlier teachers, the
-> configuration of the lunar vehicle's motion is itself such that only part of
-> it is seen.
-
-The exact increment, ordered direction–duration mapping, bright-fortnight
-location, causal mechanism, and alternative motion-configuration account are
-Bhāṣya determinations.
+> Night and day increase by a lava as the sun moves south and north,
+> respectively. The moon appears incomplete through its own shadow as it
+> nears the sun.
 
 ## 6. Philosophical Translation
 
@@ -168,6 +160,10 @@ The appearance belongs to a relational configuration, not to an isolated
 object considered without its conditions.
 
 ## 9. Interpretive Note
+
+**Translation note.** The exact increment, ordered direction–duration mapping, bright-fortnight
+location, causal mechanism, and alternative motion-configuration account are
+Bhāṣya determinations.
 
 VAK 3.62 completes the temporal process begun in 3.60–3.61:
 

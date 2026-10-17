@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कुकूलं कुणपं चाथ क्षुरमार्गादिकं नदी ।
->
-> तेषां चतुर्दिशं शीता अन्येऽष्टावर्वुदादयः ॥ ३.५९ ॥
+```sanskrit
+कुकूलं कुणपं चाथ क्षुरमार्गादिकं नदी ।
+तेषां चतुर्दिशं शीता अन्येऽष्टावर्वुदादयः ॥ ३.५९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kukūlaṃ kuṇapaṃ cātha kṣuramārgādikaṃ nadī /
->
-> teṣāṃ caturdiśaṃ śītā anye 'ṣṭāvarvudādayaḥ // 3.59 //
+```text
+kukūlaṃ kuṇapaṃ cātha kṣuramārgādikaṃ nadī /
+teṣāṃ caturdiśaṃ śītā anye 'ṣṭāvarvudādayaḥ // 3.59 //
+```
 
 The exploratory Kārikā witness assigned to 3.59 contains sun-and-moon material
 belonging to the following sequence. The verse above is recovered from the
@@ -66,25 +68,15 @@ four named subsidiary types occur at each gate.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Embers, putrid mire, then the razor-road group, and a river [are situated] in
 > their four directions. There are eight other cold hells, beginning with
 > Arvuda.
 
 ### Bhāṣya-informed study translation
 
-> At each of the four gates of every great hot hell lie four subsidiary painful
-> regions: knee-deep burning embers; putrid excrement-mire inhabited by
-> piercing creatures; a weapon-assault group comprising the razor road,
-> sword-leaf forest, and iron śālmalī forest; and the Vaitaraṇī river of boiling
-> caustic water. Four gates multiplied by four types produce sixteen
-> subsidiary regions for each great hell. There are also eight cold hells:
-> Arvuda, Nirarvuda, Aṭata, Hahava, Huhuva, Utpala, Padma, and Mahāpadma.
-
-The gate distribution, experiential descriptions, three-member weapon group,
-name Vaitaraṇī, complete cold-hell list, and causal explanation of these
-regions are Bhāṣya determinations.
+> Kukūla, Kuṇapa, the razor road and the like, and a river lie at their
+> four quarters; the other eight cold hells begin with Arvuda.
 
 ## 6. Philosophical Translation
 
@@ -201,6 +193,10 @@ production. A common result-field and a particular Agent's destination do not
 require the same granularity of causal explanation.
 
 ## 9. Interpretive Note
+
+**Translation note.** The gate distribution, experiential descriptions, three-member weapon group,
+name Vaitaraṇī, complete cold-hell list, and causal explanation of these
+regions are Bhāṣya determinations.
 
 VAK 3.59 makes the Agential methodology of the Physical World unmistakable.
 It does not merely describe where punishments are stored. It specifies an

@@ -2,27 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-pañcavarṣopamo yāvad daśavarṣopamaḥ śiśuḥ /
-saṃbhavaty eṣu saṃpūrṇāḥ savastrāś caiva rūpiṇaḥ // 3.70 //
-```
+> pañcavarṣopamo yāvad daśavarṣopamaḥ śiśuḥ /
+> saṃbhavaty eṣu saṃpūrṇāḥ savastrāś caiva rūpiṇaḥ // 3.70 //
 
-> Among these, a child resembling one of five years up through one resembling
-> one of ten years arises. The form-realm devas arise complete and clothed.
+> Among these, children appear like those aged five to ten; Form-realm
+> beings are fully formed and clothed.
 
 The Bhāṣya distributes the five-to-ten-year range across the six kāma-deva
 classes, says that these children mature rapidly, and then shifts subjects:
 the complete and clothed beings are rūpāvacara devas. It adds that all devas
 speak the ārya language.
-
-### Bhāṣya-informed study translation
-
-> In the six kāma-deva classes respectively, newborns appear like children of
-> five, six, seven, eight, nine, and ten years of age, and then mature very
-> quickly. When a divine boy or girl appears in the lap of a god or goddess,
-> the child is reckoned their son or daughter. Rūpāvacara devas, by contrast,
-> arise with bodies already complete and already clothed. All devas speak the
-> ārya language.
 
 The one-to-one age distribution, rapid maturation, parentage through the locus
 of appearance, shift to rūpāvacara devas, complete-body determination,
@@ -50,7 +39,7 @@ witness is clear apart from spacing and sandhi, regularized here. The
 commentary explicitly supplies `yathāsaṃkhyam`, “respectively,” and identifies
 `rūpiṇaḥ` as rūpāvacara devas.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 How large are they when they are born?
 
 Among these, a child resembling one of five years up through one resembling

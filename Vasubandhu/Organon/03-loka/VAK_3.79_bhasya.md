@@ -2,26 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-nṛṇāṃ varṣāṇi pañcāśad ahorātro divaukasām /
-kāme 'dharāṇāṃ tenāyuḥ pañcavarṣaśatāni tu // 3.79 //
-```
+> nṛṇāṃ varṣāṇi pañcāśad ahorātro divaukasām /
+> kāme 'dharāṇāṃ tenāyuḥ pañcavarṣaśatāni tu // 3.79 //
 
-> Fifty human years are one day-and-night for the lowest desire-realm devas;
-> reckoned by that, their lifespan is five hundred years.
-
-### Bhāṣya-informed study translation
-
-> For the Cāturmahārājakāyika devas, fifty human years constitute one divine
-> day-and-night. Thirty such day-nights constitute their month and twelve such
-> months their year; measured by this divine calendar, their lifespan is five
-> hundred divine years.
+> Fifty human years are one complete day-and-night for the lowest devas in the
+> desire realm; by that measure, their lifespan is five hundred divine years.
 
 The identification of the deva class, the thirty-day month, the twelve-month
 year, and the divine status of the five hundred years are Bhāṣya
 determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Uktaṃ manuṣyāṇām; devānāṃ vaktavyam.
@@ -42,7 +33,7 @@ dvādaśamāsakena saṃvatsareṇa, divyāni pañcavarṣaśatāny āyuḥpram�
 The source uses both `ahorātra` and `rātrindiva` for the day-and-night unit;
 both are retained in the Sanskrit rather than silently normalized.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 The human lifespans have been stated; now those of the devas must be
 explained. Their day-and-night must first be established, for only then can
 their lifespan be stated. So that measure is established for them.
@@ -52,14 +43,14 @@ realm. These are the Cāturmahārājika devas. By that day-and-night, with
 thirty such nights as a month and twelve months as a year, their lifespan is
 five hundred divine years.
 
-## Natural Movement
+## 4. Natural Movement
 
 Vasubandhu makes the calendar the prerequisite for stating a deva lifespan.
 The verse gives the human-to-divine day-and-night conversion and the total
 lifespan; the prose identifies the lowest desire-realm class as the
 Cāturmahārājikas and explains the intervening units of month and year.
 
-## The Temporal Conversion
+## 5. The Temporal Conversion
 
 ```text
 50 human years
@@ -79,20 +70,20 @@ The same English word “year” names different levels in this sequence: human
 years establish the deva day-and-night; divine years are then composed from
 that deva calendar and used to state the lifespan.
 
-## Doctrinal Note
+## 6. Doctrinal Note
 
 The passage does not merely compare two durations. It establishes a
 domain-specific calendar and calculates lifespan within it. The measure of a
 deva's life therefore depends on first specifying the temporal unit proper to
 that deva class.
 
-## Organon Contact Point
+## 7. Organon Contact Point
 
 Light contact: the text makes the unit of temporal measurement explicit
 before assigning a duration. This is a project-level observation, not
 Vasubandhu's technical terminology.
 
-## Review Status
+## 8. Review Status
 
 - Natural unit recovered from `[173|08]` through `[173|15-173|16]` of the
   running witness.

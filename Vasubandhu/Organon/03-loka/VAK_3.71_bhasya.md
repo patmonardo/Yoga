@@ -2,31 +2,18 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-kāmopapattayas tisraḥ kāmadevāḥ samānuṣāḥ /
-sukhopapattayas tisro nava tridhyānabhūmayaḥ // 3.71 //
-```
+> kāmopapattayas tisraḥ kāmadevāḥ samānuṣāḥ /
+> sukhopapattayas tisro nava tridhyānabhūmayaḥ // 3.71 //
 
-> There are three modes of sensual-desire rebirth among humans and the
-> kāma-devas, and three modes of happy rebirth among the nine grounds of the
-> first three dhyānas.
+> There are three modes of sensual-realm birth for humans and the kāma-
+> devas; three modes of joyful birth span the nine grounds of the first
+> three dhyānas.
 
 The Bhāṣya classifies the three kāmopapattis by how desired objects are
 available and enjoyed: already present, produced by oneself, or produced by
 others. It then groups the nine grounds of the first three dhyānas into three
 sukhopapattis, distinguished by the kind of sustained pleasure. The
 intermediate dhyāna is expressly left as a case requiring examination.
-
-### Bhāṣya-informed study translation
-
-> In the sensual domain there are three modes of birth. Humans and the four
-> lower sensual-deva classes exercise mastery over objects of desire that are
-> already present. Nirmāṇarati devas produce desired objects themselves and
-> enjoy them at will. Paranirmitavaśavartin devas exercise mastery over desired
-> objects produced by others and enjoy them at will. In the form domain, the
-> nine grounds of the first three dhyānas form three happiness-births: prolonged
-> happy dwelling through joy and pleasure born of seclusion, through joy and
-> pleasure born of samādhi, and through pleasure without joy.
 
 The object-provenance analysis, class distribution, mastery relation, three
 forms of dhyāna happiness, long duration, and absence of suffering are Bhāṣya
@@ -74,7 +61,7 @@ passage, punctuation makes explicit the three contrasts carried by the
 Bhāṣya: seclusion-born joy and pleasure, samādhi-born joy and pleasure, and
 pleasure without joy.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 Here in the kāmadhātu, the three modes are to be understood.
 
 There are three modes of sensual-desire rebirth among humans and the

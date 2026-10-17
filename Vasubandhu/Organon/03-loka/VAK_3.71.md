@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> कामोपपत्तयस्तिस्रः कामदेवाः समानुषाः ।
->
-> सुखोपपत्तयस्तिस्रो नव त्रिध्यानभूमयः ॥ ३.७१ ॥
+```sanskrit
+कामोपपत्तयस्तिस्रः कामदेवाः समानुषाः ।
+सुखोपपत्तयस्तिस्रो नव त्रिध्यानभूमयः ॥ ३.७१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> kāmopapattayas tisraḥ kāmadevāḥ samānuṣāḥ /
->
-> sukhopapattayas tisro nava tridhyānabhūmayaḥ // 3.71 //
+```text
+kāmopapattayas tisraḥ kāmadevāḥ samānuṣāḥ /
+sukhopapattayas tisro nava tridhyānabhūmayaḥ // 3.71 //
+```
 
 ## 3. Lexical Analysis
 
@@ -66,26 +68,16 @@ dwelling associated with the first, second, and third dhyānas.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > There are three sensual-desire births among the sensual devas together with
 > humans. There are three happiness-births: the nine grounds of the three
 > dhyānas.
 
 ### Bhāṣya-informed study translation
 
-> In the sensual domain there are three modes of birth. Humans and the four
-> lower sensual-deva classes exercise mastery over objects of desire that are
-> already present. Nirmāṇarati devas produce desired objects themselves and
-> enjoy them at will. Paranirmitavaśavartin devas exercise mastery over desired
-> objects produced by others and enjoy them at will. In the form domain, the
-> nine grounds of the first three dhyānas form three happiness-births: prolonged
-> happy dwelling through joy and pleasure born of seclusion, through joy and
-> pleasure born of samādhi, and through pleasure without joy.
-
-The object-provenance analysis, class distribution, mastery relation, three
-forms of dhyāna happiness, long duration, and absence of suffering are Bhāṣya
-determinations.
+> There are three modes of sensual-realm birth for humans and the kāma-
+> devas; three modes of joyful birth span the nine grounds of the first
+> three dhyānas.
 
 ## 6. Philosophical Translation
 
@@ -212,6 +204,10 @@ Vasubandhu preserves the recalcitrant case instead of forcing it into the
 threefold schema.
 
 ## 9. Interpretive Note
+
+**Translation note.** The object-provenance analysis, class distribution, mastery relation, three
+forms of dhyāna happiness, long duration, and absence of suffering are Bhāṣya
+determinations.
 
 VAK 3.71 finally extracts the principle latent in the deva spectacle. A World
 station is a structured relation between an Agent and the field it can enjoy:

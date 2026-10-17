@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> आलस्यात्संनिधिं कृत्वा साग्रहैः क्षेत्रपो भृतः ।
->
-> ततः कर्मपथाधिक्यादपहरासे दशायुषः ॥ ३.९८ ॥
+```sanskrit
+आलस्यात्संनिधिं कृत्वा साग्रहैः क्षेत्रपो भृतः ।
+ततः कर्मपथाधिक्यादपहरासे दशायुषः ॥ ३.९८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ālasyāt saṃnidhiṃ kṛtvā sāgrahaiḥ kṣetrapo bhṛtaḥ /
->
-> tataḥ karmapathādhikyād apahrāse daśāyuṣaḥ // 3.98 //
+```text
+ālasyāt saṃnidhiṃ kṛtvā sāgrahaiḥ kṣetrapo bhṛtaḥ /
+tataḥ karmapathādhikyād apahrāse daśāyuṣaḥ // 3.98 //
+```
 
 The Kārikā compresses the origin of storage, property, theft, political
 authority, and lifespan decline into one sequence. The Bhāṣya is required to
@@ -84,8 +86,7 @@ measure called “ten-year lifespan.”
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Because of laziness, having made a store, [beings entered] possessive
 > appropriation, and a protector of fields was maintained. Thereafter, from
 > the increase of [unwholesome] courses of action, humans in the decline come
@@ -93,18 +94,9 @@ measure called “ten-year lifespan.”
 
 ### Bhāṣya-informed study translation
 
-> A lazy being began storing naturally arising rice, and others imitated him.
-> Storage produced the making of things as “mine”; fields were divided,
-> possessive claims were established, and theft began. To restrain theft, the
-> community selected a distinguished person to guard the fields and supported
-> him with one sixth of the produce. From this office arose the designations
-> `kṣatriya` and Mahāsammata King and the succession of royal authority.
-> Greed, failed distribution, theft, punishment, and false speech then
-> multiplied the unwholesome courses of action, until human lifespan declined
-> to ten years.
-
-The imitation sequence, `mamakāra`, sixth-share support, royal designations,
-and named forms of ethical decline are Bhāṣya determinations.
+> Through laziness, beings made a store; possessive appropriation arose, and a
+> protector of fields was supported. As unwholesome courses of action
+> increased, humans in decline came to have a ten-year lifespan.
 
 ## 6. Philosophical Translation
 
@@ -233,6 +225,9 @@ These are roots inside the conditioned sequence, not an ultimate genetic
 Principle beyond produced Loka.
 
 ## 9. Interpretive Note
+
+**Translation note.** The imitation sequence, `mamakāra`, sixth-share support, royal designations,
+and named forms of ethical decline are Bhāṣya determinations. The Bhāṣya supplies the imitation sequence, `mamakāra`, field division, theft, the sixth-share support of the protector, the designations `kṣatriya` and Mahāsammata, and the ensuing greed, failed distribution, theft, punishment, and false speech.
 
 VAK 3.98 extends the Agent–World feedback of 3.97 into institutional form.
 The critical transformation is not merely “people become selfish.” A new data

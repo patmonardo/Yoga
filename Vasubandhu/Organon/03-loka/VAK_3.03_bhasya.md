@@ -5,9 +5,9 @@
 > ārūpyadhāturasthānaḥ upapattyā caturvidhaḥ /
 > nikāyaṃ jīvitaṃ cātra niśritā cittasantatiḥ // 3.03 //
 
-> The Formless Realm has no spatial station, yet it is fourfold according to
-> rebirth. In this Realm, the continuity of consciousness is said to depend
-> upon the common class-character and the life-faculty.
+> The Formless Realm has no spatial station and is fourfold through rebirth.
+> Here, the continuity of consciousness rests upon class and the
+> life-Faculty.
 
 “Spatial” and the expanded terms “common class-character” and “life-faculty”
 come from the Bhāṣya. “Is said to” is also necessary: the commentary first

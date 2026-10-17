@@ -2,35 +2,22 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-saṃvartakalpo narakāsaṃbhavād bhājanakṣayaḥ /
-vivartakalpaḥ prāgvāyor yāvan narakasaṃbhavaḥ // 3.90 //
-```
+> saṃvartakalpo narakāsaṃbhavād bhājanakṣayaḥ /
+> vivartakalpaḥ prāgvāyor yāvan narakasaṃbhavaḥ // 3.90 //
 
-> The contraction kalpa runs from the non-arising [of beings] in the narakas
-> to the destruction of the receptacle-world. The expansion kalpa runs from
-> the first wind until the arising [of beings] in the narakas.
+> The contraction kalpa runs from the non-arising of beings in the narakas to
+> destruction of the receptacle-world; the expansion kalpa runs from the first
+> formative winds until beings arise in the narakas.
 
 The paired boundaries are deliberately asymmetric: `narakāsaṃbhava` is
 non-arising at the start of contraction; `narakasaṃbhava` is arising at the
 end of expansion.
 
-### Bhāṣya-informed study translation
-
-> The contraction kalpa begins when beings in the narakas die without new
-> beings arising there. Populations then disappear in an ordered ascent through
-> the destinies and realms; when no beings remain even in Brahmaloka, the
-> contraction of beings is complete. Only afterward is the empty
-> receptacle-world destroyed. The expansion kalpa begins with the first subtle
-> winds, arising through the governing efficacy of beings' karma. The
-> receptacle-world is constructed first; beings then populate it progressively
-> downward, with arising in the narakas completing expansion.
-
 The stages of depopulation and repopulation, the distinction between beings
 and receptacle, the seven-sun destruction, karmic efficacy of the formative
 winds, and inverse-order rule are Bhāṣya determinations.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 The following presents the Bhāṣya's continuous movement from the definition
 of contraction through the inverse definition of expansion. Sandhi and
@@ -120,7 +107,7 @@ without treating the damaged reading as certain. Several technical compounds
 and a short fire-propagation explanation are difficult; their translation
 below follows the clear sequence without pretending to settle every detail.
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 The four kinds are the intermediate kalpa, contraction kalpa, expansion kalpa,
 and great kalpa. First, the contraction kalpa runs from the non-arising of
 beings in the narakas through the exhaustion of the receptacle-world. There are
@@ -176,7 +163,7 @@ When even one being has appeared in the narakas, the twenty intermediate
 kalpas of expansion have run their course; the subsequent twenty-kalpa
 duration of the expanded world is then approaching.
 
-## Natural Movement
+## 4. Natural Movement
 
 The Bhāṣya distinguishes contraction of beings from destruction of the
 receptacle. Destinies and realms empty in sequence; beings' contraction ends
@@ -192,7 +179,7 @@ destiny/realm and by beings/receptacle. The ensuing account develops chiefly
 the latter distinction; it need not be forced into a more elaborate taxonomy
 than the Bhāṣya gives.
 
-## Organon Contact Point
+## 5. Organon Contact Point
 
 Light contact: the passage describes ordered withdrawal and re-emergence, with
 the sequence reversed between contraction and expansion. Karma conditions the
@@ -200,7 +187,7 @@ arising of the environmental process in the Bhāṣya's account. These may be
 compared with project concepts of configuration and outflow, but those are
 comparative lenses, not Vasubandhu's terminology or claims.
 
-## Review Status
+## 6. Review Status
 
 - Natural unit follows the Bhāṣya from the two contraction classifications
   through the completion of expansion at the naraka boundary; it stops before

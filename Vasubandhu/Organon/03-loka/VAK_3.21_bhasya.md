@@ -5,15 +5,9 @@
 > pūrvakleśā daśāvidyā saṃskārāḥ pūrvakarmaṇaḥ /
 > saṃdhiskandhās tu vijñānaṃ nāmarūpam ataḥ param // 3.21 //
 
-### Bhāṣya-informed study translation
-
-> The state of afflictions in the prior birth is called Ignorance, because
-> the other afflictions accompany it and operate under its influence. The
-> former birth's meritorious and other karmic state, whose result matures
-> here, is called Formations. At the moment of rebirth-linking in the
-> mother's womb, the five Bases together are designated Discriminative
-> Cognition. Name-and-Form follows that junction; the next verse specifies
-> the boundary of this stage.
+> The state of former afflictions is Ignorance; Formations are the state of
+> former Karma. At the junction, the five Bases are called Discriminative
+> Cognition; thereafter comes Name-and-Form.
 
 ## 2. Continuous Sanskrit
 
@@ -47,8 +41,7 @@ precise compound division remains provisional. The source reads
 `mātuḥ kukṣī`; the translation provisionally construes this as the locative
 “in the mother's womb.” The running source remains unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 What, then, are these members beginning with Ignorance?
 
 > The state of former afflictions is Ignorance.
@@ -178,3 +171,7 @@ organon:AssociationAndPredominance
     a organon:ReflectiveDesignation ;
     organon:explains vak:Avidya .
 ```
+
+## 7. Review Status
+
+Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation. Source span not yet recorded here.

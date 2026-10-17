@@ -2,21 +2,14 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-tiryak trīṇi sahasrāṇi sārdhaṃ śatacatuṣṭayam /
-lakṣadvādaśakaṃ caiva jalakāñcanamaṇḍalam // 3.47 //
-```
+> tiryak trīṇi sahasrāṇi sārdhaṃ śatacatuṣṭayam /
+> lakṣadvādaśakaṃ caiva jalakāñcanamaṇḍalam // 3.47 //
 
-> The water-and-gold maṇḍala extends transversely twelve hundred-thousand,
-> three thousand, and four hundred fifty yojanas.
+> Together, the water- and gold-maṇḍalas extend transversely for 1,203,450
+> yojanas.
 
 The Bhāṣya makes one concise but decisive clarification: the water and golden
 maṇḍalas have the same horizontal extent.
-
-### Bhāṣya-informed study translation
-
-> The water-maṇḍala and golden-earth maṇḍala have the same horizontal extent:
-> each measures 1,203,450 yojanas across.
 
 Their equality in breadth, the supplied yojana unit, and the distributive
 application of the one measure to both maṇḍalas are Bhāṣya determinations.
@@ -33,8 +26,7 @@ Samānaṃ hy etad ubhayaṃ vistārataḥ.
 The running witness is mechanically clear in this brief unit. Punctuation
 and word division have been regularized without altering its substance.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 The water-and-gold maṇḍala measures transversely twelve hundred-thousand,
 three thousand, and four hundred fifty yojanas. For these two—the water
 maṇḍala and the golden maṇḍala—are equal in breadth.

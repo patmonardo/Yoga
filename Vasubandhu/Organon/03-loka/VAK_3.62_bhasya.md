@@ -2,30 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-lavaśo rātryaharvṛddhī dakṣiṇottarage ravau /
-svacchāyayārkasāmīpyād vikalendusamīkṣaṇam // 3.62 //
-```
+> lavaśo rātryaharvṛddhī dakṣiṇottarage ravau /
+> svacchāyayārkasāmīpyād vikalendusamīkṣaṇam // 3.62 //
 
-> Night and day increase lava by lava as the sun moves southward and
-> northward. Because of its shadow when near the sun, the moon is seen as
-> incomplete.
+> Night and day increase by a lava as the sun moves south and north,
+> respectively. The moon appears incomplete through its own shadow as it
+> nears the sun.
 
 The Bhāṣya first supplies the increment and directional rule left open by VAK
 3.61. It then turns from temporal measure to lunar appearance and preserves
 two explanations: an account attributed to the *Prajñapti* and an alternative
 attributed to earlier teachers.
-
-### Bhāṣya-informed study translation
-
-> Night increases one lava at a time while the sun moves toward the southern
-> side of Jambūdvīpa; day increases one lava at a time while it moves northward.
-> At the beginning of the bright fortnight, the lunar disk appears incomplete.
-> According to the Prajñapti account, when the lunar vehicle approaches the
-> solar vehicle, solar rays fall upon it and shadow on the opposite side makes
-> only part of the disk visible. According to earlier teachers, the
-> configuration of the lunar vehicle's motion is itself such that only part of
-> it is seen.
 
 The exact increment, ordered direction–duration mapping, bright-fortnight
 location, causal mechanism, and alternative motion-configuration account are
@@ -64,8 +51,7 @@ clauses. The continuous text regularizes spacing, sandhi, and punctuation.
 lunar residence's conveyance or motion; the passage itself does not further
 analyze the compound.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 By what measure does night or day increase?
 
 The increases of night and day occur lava by lava. Night increases one lava

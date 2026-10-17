@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> गर्भावक्रान्तयस्तिस्रश्चक्रवर्त्तिस्वयम्भुवाम् ।
->
-> कर्मज्ञानोभयेषां वा विशदत्वाद् यथाक्रमम् ॥ ३.१७ ॥
+```sanskrit
+गर्भावक्रान्तयस्तिस्रश्चक्रवर्त्तिस्वयम्भुवाम् ।
+कर्मज्ञानोभयेषां वा विशदत्वाद् यथाक्रमम् ॥ ३.१७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> garbhāvakrāntayas tisraś cakravartti-svayaṃbhuvām /
->
-> karma-jñānobhayeṣāṃ vā viśadatvād yathākramam // 3.17 //
+```text
+garbhāvakrāntayas tisraś cakravartti-svayaṃbhuvām /
+karma-jñānobhayeṣāṃ vā viśadatvād yathākramam // 3.17 //
+```
 
 ## 3. Lexical Analysis
 
@@ -21,7 +23,7 @@
 | cakravartti | compound member | wheel-turning ruler |
 | svayaṃbhuvām | genitive plural | of the independently awakened ones; unpacked by the Bhāṣya as Pratyekabuddha and Samyaksaṃbuddha |
 | karma | compound member | action and its formative efficacy |
-| jñāna | compound member | achieved knowing |
+| jñāna | compound member | knowledge |
 | ubhayeṣām | genitive plural | of both |
 | vā | alternative or explanatory particle | or; introduces a second explanatory axis |
 | viśadatvāt | ablative singular abstract noun | because of clarity or lucidity |
@@ -55,8 +57,8 @@ The Bhāṣya correlates the two sequences:
 
 ```text
 cakravartin       ↔ clear karma
-pratyekabuddha    ↔ clear achieved knowing
-samyaksaṃbuddha   ↔ clear karma and clear achieved knowing
+pratyekabuddha    ↔ clear knowledge
+samyaksaṃbuddha   ↔ clear karma and clear knowledge
 ```
 
 The names are prospective designations: they identify what each continuity
@@ -64,30 +66,22 @@ will become in the life now being entered.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The three womb-descents belong to the wheel-turning ruler and the
 > independently awakened ones—or, respectively, [they occur] because of the
-> clarity of karma, of achieved knowing, and of both.
+> clarity of karma, of knowledge, and of both.
 
 ### Bhāṣya-informed study translation
 
-> Three exceptional modes of womb-entry are assigned respectively to the
-> cakravartin, the Pratyekabuddha, and the perfectly awakened Buddha. The
-> cakravartin is clearly aware upon entry through clarified karma; the
-> Pratyekabuddha remains clearly aware through clarified achieved knowing; the
-> Buddha also emerges clearly aware through the clarity of both karma and
-> knowing.
-
-The identification of the two `svayaṃbhūs`, the cumulative extents of
-awareness, and the precise correlations with karma and knowing are Bhāṣya
-determinations.
+> The three womb-descents belong respectively to the wheel-turning ruler,
+> the Pratyekabuddha, and the perfectly awakened Buddha: through clarity of
+> karma, of knowledge, and of both.
 
 ## 6. Philosophical Translation
 
 > Clarity during embodiment is not an isolated flash. Its extent expresses the
 > quality of the formations that ground the transition. Exalted karmic
-> formation clarifies entry; extensively cultivated and discriminative knowing
+> formation clarifies entry; extensively cultivated knowledge
 > sustains clarity through residence; their conjunction sustains clarity
 > through emergence. The World System thus carries prior ethical and cognitive
 > formation into the very manner in which embodiment is undergone.
@@ -102,16 +96,16 @@ determinations.
 | pratyekabuddha | independently awakened Buddha | second exceptional type; clear through entry and residence |
 | samyaksaṃbuddha | perfectly awakened Buddha | third exceptional type; clear through entry, residence, and emergence |
 | karma | karma / formative action | clarified through exalted meritorious activity in the first profile |
-| jñāna | achieved knowing | clarified through extensive learning and practiced discrimination |
-| ubhaya | both | conjunction of clarified karma and clarified knowing |
+| jñāna | knowledge | clarified through extensive learning and practiced discrimination |
+| ubhaya | both | conjunction of clarified karma and clarified knowledge |
 | viśadatva | clarity / lucidity | quality of the determining formation expressed in transition-awareness |
 | udāra-puṇya-kriyā | exalted meritorious activity | Bhāṣya specification of clarified karma |
-| bāhuśrutya | extensive learning | first Bhāṣya specification of clarified knowing |
-| kṛta-pravicaya | practiced discrimination | second Bhāṣya specification of clarified knowing |
+| bāhuśrutya | extensive learning | first Bhāṣya specification of clarified knowledge |
+| kṛta-pravicaya | practiced discrimination | second Bhāṣya specification of clarified knowledge |
 | bhāvinī saṃjñā | prospective designation | applies the future attainment-name during womb-entry |
 | yathākramam | respectively | orders both exceptional types and their grounds of clarity |
 
-`Jñāna` retains the controlled rendering “achieved knowing.” In this passage
+`Jñāna` retains the controlled rendering “knowledge.” In this passage
 its clarity is concretely grounded in learning and practiced discrimination;
 it is not substituted for `prajñā`, discriminative comprehension.
 
@@ -147,10 +141,10 @@ cakravartin
     Ground = ClearKarma
 
 pratyekabuddha
-    Ground = ClearKnowing
+    Ground = ClearKnowledge
 
 samyaksaṃbuddha
-    Ground = ClearKarma ∧ ClearKnowing
+    Ground = ClearKarma ∧ ClearKnowledge
 ```
 
 The two axes are correlated rather than competing explanations.
@@ -201,6 +195,10 @@ Kārikā.
 
 ## 9. Interpretive Note
 
+**Translation note.** The identification of the two `svayaṃbhūs`, the cumulative extents of
+awareness, and the precise correlations with karma and knowing are Bhāṣya
+determinations.
+
 VAK 3.17 completes the cognition-profile of womb-entry. The clarity visible at
 the transition is the manifested result of a previously cultivated field:
 
@@ -240,8 +238,8 @@ embodiment-process transparent.
 For the project telos:
 
 ```text
-PRAJNA may become Known among Embodied Agents
-    when ethical formation and achieved knowing
+discriminative comprehension may become Known among Embodied Agents
+    when ethical formation and knowledge
     have prepared a cognition-platform
     able to remain clear through embodiment itself
 ```
@@ -267,8 +265,8 @@ vak:VAK_3_17 a vak:Karika ;
 
 loka:ClarifiedWombEntrySchema a organon:CorrelatedClassification ;
     organon:maps loka:CakravartinEntry to loka:ClearKarma ;
-    organon:maps loka:PratyekabuddhaEntry to loka:ClearKnowing ;
-    organon:maps loka:BuddhaEntry to loka:ClearKarmaAndKnowing .
+    organon:maps loka:PratyekabuddhaEntry to loka:ClearKnowledge ;
+    organon:maps loka:BuddhaEntry to loka:ClearKarmaAndKnowledge .
 
 loka:CakravartinEntry a organon:TransitionProfile ;
     organon:clearAt loka:Entry .
@@ -282,7 +280,7 @@ loka:BuddhaEntry a organon:TransitionProfile ;
         loka:Residence,
         loka:Exit .
 
-loka:ClearKnowing a organon:CultivatedClarity ;
+loka:ClearKnowledge a organon:CultivatedClarity ;
     organon:groundedIn loka:ExtensiveLearning,
         loka:PracticedDiscrimination .
 ```

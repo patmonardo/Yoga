@@ -1,22 +1,24 @@
-# VAK_3.08 — Consciousness, Field, Inclusion, and Birth
+# VAK_3.08 — Cognition, Field, Inclusion, and Birth
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विज्ञानं न स्थितिः प्रोक्तं चतुष्कोटि तु संग्रहे ।
->
-> चतस्रो योनयस्तत्र सत्त्वानामण्डजादयः ॥ ३.८ ॥
+```sanskrit
+विज्ञानं न स्थितिः प्रोक्तं चतुष्कोटि तु संग्रहे ।
+चतस्रो योनयस्तत्र सत्त्वानामण्डजादयः ॥ ३.८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vijñānaṃ na sthitiḥ proktaṃ catuṣkoṭi tu saṃgrahe /
->
-> catasro yonayas tatra sattvānām aṇḍajādayaḥ // 3.8 //
+```text
+vijñānaṃ na sthitiḥ proktaṃ catuṣkoṭi tu saṃgrahe /
+catasro yonayas tatra sattvānām aṇḍajādayaḥ // 3.8 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| vijñānam | nominative neuter singular | differentiated cognition; here the `vijñāna-skandha` |
+| vijñānam | nominative neuter singular | Cognition; here the `vijñāna-skandha` |
 | na | negation | not |
 | sthitiḥ | nominative feminine singular | standing, establishment, station |
 | proktam | nominative neuter singular past passive participle of `pra-√vac` | declared, taught |
@@ -31,7 +33,7 @@
 
 `Catuṣkoṭi` here does not introduce a metaphysical tetralemma. The Bhāṣya
 defines it as a four-way inclusion analysis between the seven cosmological
-cognition-stations and the four Base-stations.
+Cognition-stations and the four Base-stations.
 
 ## 4. Grammar
 
@@ -43,7 +45,7 @@ vijñānam
     proktam
 ```
 
-Differentiated cognition is not declared to be a fifth station alongside the
+Cognition is not declared to be a fifth station alongside the
 four with-outflow Bases.
 
 The contrastive clause specifies the relation between the seven and the four:
@@ -57,9 +59,9 @@ When their inclusion is examined, four cases arise:
 
 | Corner | Included in seven | Included in four | Bhāṣya case |
 |---|---:|---:|---|
-| 1 | yes | no | `vijñāna` occurring within the seven cognition-stations |
+| 1 | yes | no | `vijñāna` occurring within the seven Cognition-stations |
 | 2 | no | yes | the other four Bases in bad destinies, fourth dhyāna, and bhavāgra |
-| 3 | yes | yes | the four Bases occurring within the seven cognition-stations |
+| 3 | yes | yes | the four Bases occurring within the seven Cognition-stations |
 | 4 | no | no | the remaining cases after the first three are set aside |
 
 The second half then opens a new determination of the already articulated
@@ -77,29 +79,21 @@ moisture-born, and spontaneously arisen.
 
 ## 5. Translation
 
-### Close syntactic construe
-
-> Differentiated cognition is not declared to be a station; but when inclusion
+### Literal Translation
+> Cognition is not declared to be a station; but when inclusion
 > is examined, the relation is four-cornered. Within that
 > [three-Realm world], beings have four modes of birth, beginning with
 > egg-birth.
 
 ### Bhāṣya-informed study translation
 
-> Differentiated cognition is not itself one of its four Base-stations:
-> it functions as seed, while the coexisting Bases function as its field.
-> The seven cognition-stations and the four Base-stations overlap through
-> four possible inclusion-relations. Within this three-Realm World System,
-> beings arise through four modes of birth: egg-born, womb-born,
-> moisture-born, and spontaneously arisen.
-
-Seed, field, coexisting Bases, the contents of the four corners, and the
-full birth-mode list are Bhāṣya determinations rather than words supplied by
-the Kārikā itself.
+> Cognition is not declared a station; but when inclusion is examined, [the
+> relation has] four alternatives. Within the three Realms, beings have four
+> modes of birth, beginning with egg-birth.
 
 ## 6. Philosophical Translation
 
-> Differentiated cognition cannot provide its own footing. It is established
+> Cognition cannot provide its own footing. It is established
 > through a field of coexisting Base-relations and therefore cannot count
 > as its own station. Once the exact overlap of cognition and field has been
 > determined, the World System passes from standing to generation: sentient
@@ -119,11 +113,11 @@ How does a sentient continuity enter World?
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| vijñāna | differentiated cognition | seed relative to the coexisting Bases that function as its field |
+| vijñāna | Cognition | seed relative to the coexisting Bases that function as its field |
 | sthiti | standing / establishment / station | supporting establishment; cognition is not its own station |
 | kṣetra | field | Bhāṣya term for the four coexisting Bases as stations of cognition |
 | bīja | seed | Bhāṣya term for `vijñāna` together with appropriation relative to its field |
-| sopādāna vijñāna | cognition together with appropriation | the seed-side of the Bhāṣya's field-and-seed relation |
+| sopādāna vijñāna | Cognition together with appropriation | the seed-side of the Bhāṣya's field-and-seed relation |
 | sahavartin | coexisting | dharmas concurrently related to cognition and suited to serve as its field |
 | saṃgraha | inclusion / classificatory containment | extensional relation between the seven and four station-systems |
 | catuṣkoṭi | four-corner analysis | four combinations of inclusion and non-inclusion; not a dialectical tetralemma here |
@@ -132,13 +126,13 @@ How does a sentient continuity enter World?
 | aṇḍaja | egg-born | arising from an egg |
 | jarāyuja | womb-born | arising from a womb or enclosing membrane |
 | saṃsvedaja | moisture-born | arising from moisture according to the inherited classification |
-| upapāduka | spontaneously arisen | arising at once complete, with unimpaired faculties and all major and minor limbs |
+| upapāduka | spontaneously arisen | arising at once complete, with unimpaired Faculties and all major and minor limbs |
 
 `Yoni` should not be restricted to “womb,” because only one of its four modes
 is womb-birth. It classifies the manner in which a sentient continuity arises.
 
-The Bhāṣya includes devas, hell-beings, and intermediate-existence beings
-among the spontaneously arisen. Their bodies and faculties appear complete at
+The Bhāṣya includes devas, naraka-beings, and intermediate-existence beings
+among the spontaneously arisen. Their bodies and Faculties appear complete at
 once rather than developing through egg, womb, or moisture.
 
 The working Bhāṣya e-text has two marked source problems in this enumeration:
@@ -191,7 +185,7 @@ Only after the standing relation is settled does the verse introduce `yoni`:
 ```text
 being somewhere
     ↓
-differentiated cognition standing there
+Cognition standing there
     ↓
 sentient continuity arising there through a birth-mode
 ```
@@ -200,6 +194,10 @@ World therefore includes not only domains, destinations, and stations, but
 lawful modes through which embodied continuities are instantiated.
 
 ## 9. Interpretive Note
+
+**Translation note.** Seed, field, coexisting Bases, the contents of the four corners, and the
+full birth-mode list are Bhāṣya determinations rather than words supplied by
+the Kārikā itself.
 
 VAK 3.08 gives the World System a seed–field kernel:
 
@@ -211,14 +209,14 @@ Field
     formations
 
 Seed
-    differentiated cognition together with appropriation
+    Cognition together with appropriation
 
 Station
     their determinate standing-relation
 ```
 
 This clarifies the dream and robot problem. Reflection and conceptuality may
-occur without the firm field-relation that gives differentiated cognition
+occur without the firm field-relation that gives Cognition
 stable waking footing. Conversely, an agent may possess a differently
 configured cognition-field while appearing unconscious to agents stationed in
 ordinary consciousness. The truth of its cognition cannot be inferred from
@@ -236,7 +234,7 @@ BirthMode
 
 SpontaneouslyArisen
     body appears complete
-    faculties appear unimpaired
+    Faculties appear unimpaired
     major and minor limbs appear together
 ```
 
@@ -260,13 +258,13 @@ Project hypothesis
     rational moral agent carried across configurations
 ```
 
-The telos of `vijñāna` also becomes sharper. PRAJNA can become Known among
-Embodied Agents only because differentiated cognition receives a field that
+The telos of `vijñāna` also becomes sharper. Discriminative comprehension can become known among
+Embodied Agents only because Cognition receives a field that
 is not reducible to cognition itself:
 
 ```text
-PRAJNA
-    becomes differentiated as vijñāna
+Discriminative comprehension
+    becomes Cognition
 
 vijñāna
     stands only through a Base-field
@@ -298,7 +296,7 @@ vak:VAK_3_08 a vak:Karika ;
         loka:FourBirthModes .
 
 organon:SeedFieldRelation a organon:RelationalSchema ;
-    organon:hasSeed organon:DifferentiatedCognitionWithAppropriation ;
+    organon:hasSeed organon:DiscriminativeCognitionWithAppropriation ;
     organon:hasField abhi:FourWithOutflowBases ;
     organon:prohibits organon:SeedAsItsOwnField .
 
@@ -320,12 +318,12 @@ loka:SpontaneouslyArisen
     organon:hasCompleteBodyAtArising true ;
     organon:hasUnimpairedFacultiesAtArising true ;
     organon:includes loka:Deva,
-        loka:HellBeing,
+        loka:NarakaBeing,
         loka:IntermediateExistenceBeing .
 
 organon:EmbodiedInstantiationSchema a organon:ProjectLevelSchema ;
     organon:requires organon:BirthMode,
         organon:BaseField,
-        organon:DifferentiatedCognition,
+        organon:DiscriminativeCognition,
         organon:WorldPosition .
 ```

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> प्रावृण्मासे द्वितीयेऽन्त्यनवम्यां वर्धते निशा ।
->
-> हेमन्तानां चतुर्थे तु हीयतेऽहर्विपर्ययात् ॥ ३.६१ ॥
+```sanskrit
+प्रावृण्मासे द्वितीयेऽन्त्यनवम्यां वर्धते निशा ।
+हेमन्तानां चतुर्थे तु हीयतेऽहर्विपर्ययात् ॥ ३.६१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> prāvṛṇmāse dvitīye 'ntyanavamyāṃ vardhate niśā /
->
-> hemantānāṃ caturthe tu hīyate 'har viparyayāt // 3.61 //
+```text
+prāvṛṇmāse dvitīye 'ntyanavamyāṃ vardhate niśā /
+hemantānāṃ caturthe tu hīyate 'har viparyayāt // 3.61 //
+```
 
 ## 3. Lexical Analysis
 
@@ -63,22 +65,16 @@ second seasonal clause.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > In the second month of the rains, on the ninth day of the latter fortnight,
 > night increases. In the fourth winter month, however, it decreases; day is
 > the inverse.
 
 ### Bhāṣya-informed study translation
 
-> On the ninth day of the second fortnight of Bhādrapada, night begins to
-> increase and day correspondingly decreases. On the ninth day of the second
-> fortnight of Phālguna, night begins to decrease and day correspondingly
-> increases.
-
-The named months, interpretation of the fortnight and lunar day, carried-
-forward date in the second clause, and explicit two-way inverse relation are
-Bhāṣya determinations.
+> On the ninth day of the second half of the second rainy month, night
+> increases. In the fourth winter month it decreases, while day changes in
+> reverse.
 
 ## 6. Philosophical Translation
 
@@ -170,6 +166,10 @@ This is redistribution within a paired temporal whole. The exact daily
 increment is supplied only by 3.62 and should not be imported prematurely.
 
 ## 9. Interpretive Note
+
+**Translation note.** The named months, interpretation of the fortnight and lunar day, carried-
+forward date in the second clause, and explicit two-way inverse relation are
+Bhāṣya determinations.
 
 VAK 3.61 extends 3.60 from locale-indexed state to calendar-indexed process.
 The two verses together yield:

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सप्ताग्निना अद्भिरेका एवं गतेऽद्भिः सप्तके पुनः ।
->
-> तेजसा सप्तकः पश्चाद्वायुसंवर्तनी ततः ॥ ३.१०२ ॥
+```sanskrit
+सप्ताग्निना अद्भिरेका एवं गतेऽद्भिः सप्तके पुनः ।
+तेजसा सप्तकः पश्चाद्वायुसंवर्तनी ततः ॥ ३.१०२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> saptāgninā adbhir ekā evaṃ gate 'dbhiḥ saptake punaḥ /
->
-> tejasā saptakaḥ paścād vāyusaṃvartanī tataḥ // 3.102 //
+```text
+saptāgninā adbhir ekā evaṃ gate 'dbhiḥ saptake punaḥ /
+tejasā saptakaḥ paścād vāyusaṃvartanī tataḥ // 3.102 //
+```
 
 The Kārikā gives a recurrence rule rather than merely listing three kinds of
 destruction. The Bhāṣya resolves its compressed count: seven fire-contractions
@@ -76,23 +78,16 @@ contraction.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Seven [contractions occur] by fire, [then] one by water. When it has
 > proceeded thus to a sevenfold [series] by water, there is again a sevenfold
 > [series] by fire; after that comes a wind-contraction.
 
 ### Bhāṣya-informed study translation
 
-> Seven successive fire-contractions are followed by one water-contraction.
-> This sequence repeats until seven water-contractions have occurred, yielding
-> forty-nine contractions by fire and seven by water. Seven more fire-
-> contractions then occur, followed by one contraction by wind. The complete
-> cycle therefore comprises fifty-six fire-contractions, seven water-
-> contractions, and one wind-contraction: sixty-four in all.
-
-The totals, their correspondence with the lifespan of the Śubhakṛtsna gods,
-and the closing causal stanza are Bhāṣya determinations.
+> Seven contractions occur by fire, then one by water. When the sequence has
+> reached seven by water, seven by fire occur again, followed by a contraction
+> by wind.
 
 ## 6. Philosophical Translation
 
@@ -179,6 +174,9 @@ architecture back under dependent arising. Counted recurrence does not
 require an eternal wheel-substance behind the sequence.
 
 ## 9. Interpretive Note
+
+**Translation note.** The totals, their correspondence with the lifespan of the Śubhakṛtsna gods,
+and the closing causal stanza are Bhāṣya determinations. The Bhāṣya totals the cycle as 56 fire-, 7 water-, and 1 wind-contraction, sixty-four altogether, and relates these to the Śubhakṛtsna lifespan; it also gives a concluding causal stanza.
 
 Lokanirdeśa ends by converting the most extravagant cosmological image into
 an exact logical form:

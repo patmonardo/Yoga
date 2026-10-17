@@ -3,16 +3,18 @@
 ## 1. Sanskrit (Devanāgarī)
 
 
-> उक्तं च वक्ष्यते चान्यदत्र तु क्लेश इष्यते ।
->
-> बीजवन्नागवन्मूलवृक्षवत्तुषवत्तथा ॥ ३.३६ ॥
+```sanskrit
+उक्तं च वक्ष्यते चान्यदत्र तु क्लेश इष्यते ।
+बीजवन्नागवन्मूलवृक्षवत्तुषवत्तथा ॥ ३.३६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
 
-> uktaṃ ca vakṣyate cānyad atra tu kleśa iṣyate /
->
-> bījavan nāgavan mūlavṛkṣavat tuṣavat tathā // 3.36 //
+```text
+uktaṃ ca vakṣyate cānyad atra tu kleśa iṣyate /
+bījavan nāgavan mūlavṛkṣavat tuṣavat tathā // 3.36 //
+```
 
 ## 3. Lexical Analysis
 
@@ -82,26 +84,16 @@ topic and its analogical determinations.
 ## 5. Translation
 
 
-### Close syntactic construe
-
+### Literal Translation
 > Some [members] have been explained, and others will be explained. Here,
 > however, affliction is intended: like a seed, like a nāga, like a root, like
 > a tree, and likewise like a husk.
 
 ### Bhāṣya-informed study translation
 
-> The remaining limbs are not all explained again here: some have already
-> been treated, while others will be treated in the Karma and Affliction
-> chapters. The present topic is Affliction. It is like a seed because it
-> generates further Affliction, Karma, and Thing; like a nāga because
-> it keeps the lake of birth from drying up; like an unextracted root because
-> the destinies grow again while it remains; like a tree because it repeatedly
-> produces flowers and fruits; and like a husk because Karma enclosed by the
-> acquisition of Affliction retains the capacity to germinate into another
-> birth, whereas Karma alone does not.
-
-The allocation of each precise causal function to its simile is supplied by
-the Bhāṣya.
+> Some [members] have been explained; others will be explained. Here, however,
+> affliction is intended: like a seed, a nāga, a root, a tree, and likewise a
+> husk.
 
 ## 6. Philosophical Translation
 
@@ -161,7 +153,7 @@ across the architecture of the Kośa:
 
 ```text
 already treated:
-    Discriminative Cognition, six Essences
+    Cognition, six Essences
 
 treated later in Karma:
     Formations, Becoming
@@ -233,6 +225,15 @@ explained by the retention and reactivation of causal capacity.
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The Bhāṣya says some members have already been treated and
+others belong to the later Karma and Affliction chapters. Affliction is like a seed
+because it generates further affliction, action, and Vastu; like a nāga that keeps
+the lake of birth from drying up; like an unextracted root from which destinies grow
+again; like a tree that repeatedly produces flowers and fruit; and like a husk
+enclosing action with the acquired capacity to germinate into another birth, unlike
+action alone. The allocation of each precise causal function to its simile is
+supplied by the Bhāṣya.
 
 ## 10. OWL++ Seed
 

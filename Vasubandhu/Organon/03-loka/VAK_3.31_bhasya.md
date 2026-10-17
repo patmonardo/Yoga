@@ -2,30 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-vidyāvidyetarasparśāḥ amalakliṣṭaśeṣitāḥ /
-vyāpādānunayasparśau sukhavedyādayas trayaḥ // 3.31 //
-```
+> vidyāvidyetarasparśāḥ amalakliṣṭaśeṣitāḥ /
+> vyāpādānunayasparśau sukhavedyādayas trayaḥ // 3.31 //
 
-> Contacts associated with knowledge, ignorance, and neither are,
-> respectively, without Influx, afflicted, and remaining. There are also
-> Contacts of ill-will and attachment, and three beginning with
-> pleasant-feeling-bearing Contact.
+> Contacts with knowledge, with ignorance, and with neither are, respectively,
+> without Influx, afflicted, and remaining. There are Contacts of ill-will and
+> attachment, and three beginning with pleasant-feeling-bearing Contact.
 
 The commentary on the earlier classifications is included in the preceding
 unit. This unit begins with the verse at 144.18, explains the three
 feeling-bearing Contacts, totals the sixteen classifications, and closes the
 Contact exposition at `uktaḥ sparśaḥ`.
-
-### Bhāṣya-informed study translation
-
-> The same six Contacts are classified by association: Contact with knowledge
-> is **without Influx**; Contact with ignorance is **afflicted**; and Contact
-> with neither is the **remainder**, comprising wholesome-with-Influx and
-> non-obstructive-indeterminate Contact. A frequently occurring portion of
-> ignorance-Contact is further differentiated into ill-will and attachment
-> Contacts. All Contacts may also be gathered by the feeling they bear or
-> occasion: pleasant, painful, or neither-painful-nor-pleasant.
 
 The exact determination of the remainder, the restricted source of the
 ill-will/attachment pair, and the derivation of `vedanīya` are Bhāṣya
@@ -45,8 +32,7 @@ duḥkhāduḥkhāsukhavedanīyāv api yojyau.
 ta ete ṣoḍaśa sparśā bhavanti. uktaḥ sparśaḥ.
 ```
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 There are three beginning with pleasant-feeling-bearing Contact.
 
 There is pleasant-feeling-bearing Contact, painful-feeling-bearing Contact,

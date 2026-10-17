@@ -5,14 +5,9 @@
 > vittiḥ prāk maithunāt tṛṣṇā bhogamaithunarāgiṇaḥ /
 > upādānaṃ tu bhogānāṃ prāptaye paridhāvataḥ // 3.23 //
 
-### Bhāṣya-informed study translation
-
-> Once the capacity to discriminate the causes of the three Feelings has
-> arisen, the Feeling-stage continues while sexual passion remains
-> unmanifest. Active passion for sensual enjoyments and sexual coupling is
-> called Craving, until seeking that Condition begins. The stage of one who
-> has entered the search and runs in all directions to attain the Condition
-> is called Appropriation.
+> The Feeling-stage precedes sexual coupling. Craving is the state of one
+> passionate about sensual enjoyment and sexual coupling; Appropriation is
+> the state of one who runs about to obtain enjoyments.
 
 ## 2. Continuous Sanskrit
 
@@ -41,8 +36,7 @@ Becoming in VAK 3.24 with *tathā ca paridhāvan*.
 Word division and punctuation are editorial. No substantive conjectural
 repair has been introduced; the running source remains unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Once the capacity for discrimination is present:
 
 > Feeling is before sexual coupling.
@@ -158,3 +152,7 @@ vak:AppropriationStage
     vak:hasEnd vak:AttainmentOfEnjoyment ;
     organon:extendsInAllDirections true .
 ```
+
+## 7. Review Status
+
+Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation. Source span not yet recorded here.

@@ -5,12 +5,9 @@
 > sajātiśuddhadivyākṣidṛśyaḥ karmarddhivegavān /
 > sakalākṣaḥ apratighavān anivartyaḥ sa gandhabhuk // 3.14 //
 
-> The intermediate being can be seen by intermediate beings of its own class
-> and by a highly purified divine eye produced through `abhijñā`. It travels
-> with karmically generated extraordinary speed, possesses all five faculties,
-> passes through ordinary material obstructions, cannot change the destiny
-> toward which it was projected, and in the Desire Realm takes subtle scent
-> rather than gross morsel-food as nutriment.
+> Visible to those of its own class and to the purified divine eye, it
+> travels with karmic speed, complete in its Faculties, unobstructed and
+> unable to turn back: this intermediate being feeds on scent.
 
 The Bhāṣya treats these not as decorative marvels but as constraints upon a
 transition already configured by karma. It then asks how long the intermediate

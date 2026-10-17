@@ -2,32 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-naikāgrācittayor etau nirvāty avyākṛtadvaye /
-kramacyutau pādanābhihṛdayeṣu manaścyutiḥ // 3.43 //
-```
+> naikāgrācittayor etau nirvāty avyākṛtadvaye /
+> kramacyutau pādanābhihṛdayeṣu manaścyutiḥ // 3.43 //
 
-> These two do not occur in concentrated consciousness or in a mindless
-> state. The arhat becomes extinguished in one of two indeterminate minds. In
-> gradual death, the cessation of mind occurs at the feet, navel, or heart.
+> These two occur neither in one-pointed consciousness nor in a mindless
+> state. The arhat enters final extinction in one of two indeterminate
+> [states]; in gradual death, Mind ceases at the feet, navel, or heart.
 
 `Etau`, “these two,” carries forward death and arising from VAK 3.42. The
 Bhāṣya supplies the arhat as the subject of `nirvāti`, identifies the two
 indeterminate minds, distinguishes sudden from gradual death, and correlates
 the three bodily loci with different destinations.
-
-### Bhāṣya-informed study translation
-
-> Death and rebirth do not occur while consciousness is one-pointedly
-> concentrated or while mind is absent. The arhat enters final extinction in
-> one of two indeterminate minds: a mind associated with ordinary bodily
-> deportment or a maturation-result consciousness. In sudden death, the bodily
-> faculty together with mind disappears abruptly. In gradual death, the final
-> cessation of differentiated cognition occurs at a bodily locus correlated
-> with destination: at the feet for one going to a lower destiny, at the navel
-> for one going to human birth, and at the heart for one going to deva birth.
-> For an arhat, the principal account also gives the heart; another opinion
-> gives the crown of the head.
 
 The arhat as supplied subject, the two indeterminate minds, the distinction
 between sudden and gradual death, and the destination–locus mapping are Bhāṣya
@@ -92,8 +77,7 @@ forms. This continuous text regularizes punctuation and evident sandhi, and
 provisionally repairs the phrase comparing the pain to the impact of a sharp
 weapon. These repairs require control against critical Sanskrit witnesses.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Even there—that is, even in mental differentiated cognition—these two do not
 occur in concentrated consciousness or in a mindless state. “These two” means
 death and arising. A person does not die or arise in rebirth while the mind is

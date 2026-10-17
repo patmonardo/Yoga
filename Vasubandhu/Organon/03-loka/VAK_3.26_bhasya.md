@@ -5,25 +5,14 @@
 > kleśās trīṇi dvayaṃ karma sapta vastu phalaṃ tathā /
 > phalahetvabhisaṃkṣepo dvayor madhyānumānataḥ // 3.26 //
 
-> Three members are afflictions, two are karma, and seven are Vastu and
-> likewise results. Cause and result are compressed at the two limits because
-> they can be inferred from the middle.
+> Three [members] are afflictions, two are karma, and seven have the nature
+> of Vastu and likewise of result. Cause and result are compressed at the
+> two limits, inferred from the middle.
 
 The Bhāṣya reclassifies the twelve temporal members by causal function. Five
 are causes—three afflictions and two karmic members—while seven are both the
 results of prior causes and Vastu members supporting renewed affliction and
 karma.
-
-### Bhāṣya-informed study translation
-
-> Ignorance, Craving, and Appropriation have the functional nature of
-> **affliction**; formations and becoming have the functional nature of
-> **karma**. Discriminative Cognition, Name-and-Form, the six Essences,
-> Contact, Feeling, Birth, and Aging-and-Death are seven members with the
-> nature of **Vastu** (Thing or basis): the Bhāṣya explains that they support
-> affliction and karma. Those same seven are **results** of prior causes. The
-> past cause and future result are presented compactly because their expanded
-> structures can be inferred from the fully articulated present middle.
 
 The member-assignments, the `āśraya` function of `vastu`, and the reason for
 compression are Bhāṣya determinations.
@@ -78,8 +67,7 @@ effort, but its exact qualifier requires collation. The earlier research
 witness silently normalizes these damaged readings. The running source
 remains unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 This twelve-member *samutpāda* is further to be understood as having three
 functional natures: affliction, karma, and Vastu.
 

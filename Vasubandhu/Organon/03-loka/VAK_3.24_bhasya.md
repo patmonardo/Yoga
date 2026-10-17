@@ -5,23 +5,14 @@
 > sa bhaviṣyat bhavaphalaṃ kurute karma tad bhavaḥ /
 > pratisaṃdhiḥ punar jātiḥ jarāmaraṇam ā vidaḥ // 3.24 //
 
-> One produces karma whose result is future existence; that is becoming.
-> Rebirth-junction, in turn, is birth; aging-and-death extends up to the
-> feeling-stage.
+> One produces karma whose result is future existence; that karma is
+> Becoming. Rebirth-junction is Birth, and Aging-and-Death extends to the
+> Feeling-stage.
 
 The Bhāṣya completes the twelve-member sequence. Appropriative pursuit
 accumulates karma productive of renewed existence; its future rebirth-junction
 is designated birth, while the ensuing development through feeling is
 gathered under aging-and-death.
-
-### Bhāṣya-informed study translation
-
-> Running about to obtain desired Conditions, one accumulates karma productive
-> of renewed existence; this renewal-producing karma is designated
-> **becoming**. When, after death from the present life, that karma produces a
-> future rebirth-junction, the junction is designated **birth**. The ensuing
-> future-life development—from name-and-form through the stage of feeling—is
-> gathered prospectively under **aging-and-death**.
 
 Renewal-producing karma, the perspectival equivalence of rebirth-junction and
 birth, and the range gathered under aging-and-death are Bhāṣya determinations.
@@ -59,8 +50,7 @@ Word division and punctuation are editorial. The transmitted final phrase
 gloss without silently emending the Sanskrit verse. The running source
 remains unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Running about in that way, “one produces karma whose result is future
 existence; that is becoming.” Running about for the sake of obtaining
 Conditions, one accumulates karma productive of renewed existence. This is

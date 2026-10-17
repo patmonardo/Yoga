@@ -2,29 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-ābhyantaraḥ samudro 'sau triguṇaḥ sa tu pārśvataḥ /
-ardhārdhenāparāḥ śītāḥ śeṣaṃ bāhyo mahodadheḥ // 3.52 //
-```
+> ābhyantaraḥ samudro 'sau triguṇaḥ sa tu pārśvataḥ /
+> ardhārdhenāparāḥ śītāḥ śeṣaṃ bāhyo mahodadheḥ // 3.52 //
 
-> That first Śītā is the inner ocean; measured along its side, it is
-> threefold. The other Śītās diminish by successive halves. The remainder is
-> the outer great ocean.
+> That is the inner ocean; along its shore it is threefold. The other Śītā
+> seas decrease by successive halves; what remains is the outer great
+> ocean.
 
 The Bhāṣya distinguishes the inner and outer oceans, resolves the first
 Śītā's two measurement axes, generates the widths of the remaining inner
 seas, and identifies the residual interval between Nimindhara and Cakravāḍa
 as the saline outer great ocean.
-
-### Bhāṣya-informed study translation
-
-> The first Śītā, between Sumeru and Yugandhara, is the inner ocean. Its radial
-> width is 80,000 yojanas, while its measure along the Yugandhara shore is three
-> times that, 240,000. Each of the six remaining Śītā seas has half the width
-> of the preceding one. Their great longitudinal extension is left
-> unenumerated. The residual interval between Nimindhara and Cakravāḍa is the
-> outer great ocean, filled with saline water; within it lie the four
-> continents.
 
 The radial and shore-wise axes, numerical shore measure, unenumerated length,
 precise boundaries of the remainder, saline character, and placement of the
@@ -60,8 +48,7 @@ and `hṣārodakasya`. The continuous text provisionally restores evident word
 division and reads the latter as `kṣārodakasya`; these are not presented as
 critical-edition decisions.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 That is the inner ocean. For there are two oceans, an inner and an outer.
 That Śītā—the first—is the inner ocean.
 

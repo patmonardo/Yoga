@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अर्धार्धवृद्धिरूर्ध्वं तु परीत्ताभेभ्य आश्रयः ।
->
-> द्विगुणद्विगुणा हित्वानभ्रकेभ्यस्त्रियोजनम् ॥ ३.७७ ॥
+```sanskrit
+अर्धार्धवृद्धिरूर्ध्वं तु परीत्ताभेभ्य आश्रयः ।
+द्विगुणद्विगुणा हित्वानभ्रकेभ्यस्त्रियोजनम् ॥ ३.७७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ardhārdhavṛddhir ūrdhvaṃ tu parīttābhebhya āśrayaḥ /
->
-> dviguṇadviguṇā hitvānabhrakebhyas triyojanam // 3.77 //
+```text
+ardhārdhavṛddhir ūrdhvaṃ tu parīttābhebhya āśrayaḥ /
+dviguṇadviguṇā hitvānabhrakebhyas triyojanam // 3.77 //
+```
 
 The transmitted verse is extremely compressed. In particular, the scope of
 the half-increment rule and the force of the Anabhraka clause cannot be made
@@ -78,24 +80,16 @@ not separately expressed in the verse.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > The bodily support increases upward by successive halves; but above the
 > Parīttābhas it is successively doubled, except that at the Anabhraka level
 > three yojanas are subtracted.
 
 ### Bhāṣya-informed study translation
 
-> From the Brahmakāyika measure of one-half yojana, the next three form-realm
-> stations increase by one-half yojana each, reaching two yojanas at
-> Parīttābha. Above Parīttābha, bodily measure doubles at each station through
-> Śubhakṛtsna at sixty-four yojanas. The expected next double is reduced by
-> three, giving the Anabhrakas a measure of 125 yojanas. Above them, successive
-> doubling resumes and culminates in the Akaniṣṭhas at 16,000 yojanas.
-
-The limits of the additive series, the intermediate class-values, the exact
-Anabhraka calculation, the resumed doubling, and the Akaniṣṭha terminus are
-supplied or entailed by the Bhāṣya's exposition.
+> From the Brahmakāyika measure, the bodily support increases by successive
+> half-yojana steps through Parīttābha. Above the Parīttābhas it doubles at
+> each station, except that three yojanas are subtracted at Anabhraka.
 
 ## 6. Philosophical Translation
 
@@ -210,6 +204,10 @@ initialize
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The limits of the additive series, the intermediate class-values, the exact
+Anabhraka calculation, the resumed doubling, and the Akaniṣṭha terminus are
+supplied or entailed by the Bhāṣya's exposition. The Bhāṣya assigns one, one-and-a-half, and two yojanas to Brahmapurohita, Mahābrahman, and Parīttābha; the doubling reaches sixty-four at Śubhakṛtsna, yields 125 at Anabhraka after subtraction, then resumes to 16,000 at Akaniṣṭha.
 
 The methodological yield of this ostensibly physical catalogue is substantial.
 The Kośa represents a World not merely as a list of places and inhabitants,

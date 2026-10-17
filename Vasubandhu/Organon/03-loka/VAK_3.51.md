@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अर्धार्धहानिरष्टासु समोच्छ्रायघनाश्च ते ।
->
-> शीताः सप्तान्तराण्येषामाद्याशीतिसहस्रिका ॥ ३.५१ ॥
+```sanskrit
+अर्धार्धहानिरष्टासु समोच्छ्रायघनाश्च ते ।
+शीताः सप्तान्तराण्येषामाद्याशीतिसहस्रिका ॥ ३.५१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ardhārdhahānir aṣṭāsu samocchrāyaghanāś ca te /
->
-> śītāḥ saptāntarāṇy eṣām ādyāśītisahasrikā // 3.51 //
+```text
+ardhārdhahānir aṣṭāsu samocchrāyaghanāś ca te /
+śītāḥ saptāntarāṇy eṣām ādyāśītisahasrikā // 3.51 //
+```
 
 ## 3. Lexical Analysis
 
@@ -64,24 +66,16 @@ the first interval's location between Sumeru and Yugandhara.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Across the eight there is successive diminution by halves, and their
 > thickness equals their height. The seven intervals between them are the
 > Śītās; the first measures eighty thousand [yojanas].
 
 ### Bhāṣya-informed study translation
 
-> Beginning from Sumeru's height above the water, each successive surrounding
-> mountain is half the height of the preceding one; each mountain's horizontal
-> thickness equals its own height. The seven spaces between Sumeru and
-> Nimindhara are cool inner seas called Śītās. The first, between Sumeru and
-> Yugandhara, is 80,000 yojanas wide, and its water possesses eight beneficial
-> sensible qualities.
-
-The starting term of the halving sequence, interpretation of `ghana`, precise
-location and width-axis of the first sea, and eight water qualities are Bhāṣya
-determinations.
+> Across the eight, each successively halves in height; their thickness equals
+> their height. The seven intervening spaces are the Śītās; the first is
+> 80,000 yojanas wide.
 
 ## 6. Philosophical Translation
 
@@ -184,6 +178,14 @@ experience. Width locates the sea in the spatial system; the water's qualities
 determine how embodied beings encounter it.
 
 ## 9. Interpretive Note
+
+**Translation note.** From Meru's height above the water, each surrounding mountain
+is half the height of the preceding one, and each mountain's horizontal thickness
+equals its height. The seven spaces between Meru and Nimindhara are cool inner seas
+called Śītās; the first, between Meru and Yugandhara, is 80,000 yojanas wide, and
+its water has eight beneficial sensible qualities. The starting term of the halving
+sequence, interpretation of `ghana`, precise location and width-axis of the first
+sea, and eight water qualities are Bhāṣya determinations.
 
 VAK 3.51 demonstrates why the Kośa's cosmography rewards abstraction. A long
 mountain inventory becomes a compact generative system once its rule is found:

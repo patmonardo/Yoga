@@ -2,28 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-adhaḥ sahasrair viṃśatyā tanmātro 'vīcir asya hi /
-tadūrdhvaṃ sapta narakāḥ sarve 'ṣṭau ṣoḍaśotsadāḥ // 3.58 //
-```
+> adhaḥ sahasrair viṃśatyā tanmātro 'vīcir asya hi /
+> tadūrdhvaṃ sapta narakāḥ sarve 'ṣṭau ṣoḍaśotsadāḥ // 3.58 //
 
-> Twenty thousand yojanas beneath this Jambūdvīpa lies Avīci, itself twenty
-> thousand yojanas in vertical extent and breadth. Above it are seven hells;
-> all eight have sixteen subsidiary regions.
+> Avīci lies 20,000 yojanas below, and its extent is the same. Above it
+> are seven hells; all eight have sixteen subsidiary regions apiece.
 
 The Bhāṣya resolves both pronouns and measures, explains the name Avīci,
 distinguishes two kinds of pleasant feeling while evaluating an alternative
 etymology, preserves two topologies for the seven other hells, and cites the
 Buddha on the common structure of the eight great hells.
-
-### Bhāṣya-informed study translation
-
-> Avīci lies 20,000 yojanas beneath Jambūdvīpa and itself measures 20,000
-> yojanas in both depth and breadth, placing its lower floor 40,000 yojanas
-> below the surface reference. On the principal account, seven further hells
-> are arranged successively above it: Pratāpana, Tāpana, Mahāraurava, Raurava,
-> Saṃghāta, Kālasūtra, and Saṃjīva. Another account places them at Avīci's
-> sides. All eight principal hells have sixteen subsidiary regions.
 
 The Jambūdvīpa referent, two internal dimensions, derived lower-floor depth,
 names and principal arrangement of the seven hells, alternative lateral model,
@@ -73,8 +61,7 @@ verses, especially around `catuskandhā`, `asitāḥ`, and the closing flame
 description. The continuous text regularizes evident spacing and sandhi but
 does not silently reconstruct a critical sūtra text.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Where are the hells located, and how large are they?
 
 Twenty thousand yojanas beneath this Jambūdvīpa lies Avīci, itself of that

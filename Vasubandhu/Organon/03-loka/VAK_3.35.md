@@ -3,16 +3,18 @@
 ## 1. Sanskrit (Devanāgarī)
 
 
-> चत्वारोऽरूपिसामन्ते रूपगाः एक ऊर्ध्वगः ।
->
-> एको मौले स्वविषयः सर्वेऽष्टादश सास्रवाः ॥ ३.३५ ॥
+```sanskrit
+चत्वारोऽरूपिसामन्ते रूपगाः एक ऊर्ध्वगः ।
+एको मौले स्वविषयः सर्वेऽष्टादश सास्रवाः ॥ ३.३५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
 
-> catvāro 'rūpisāmante rūpagāḥ eka ūrdhvagaḥ /
->
-> eko maule svaviṣayaḥ sarve 'ṣṭādaśa sāsravāḥ // 3.35 //
+```text
+catvāro 'rūpisāmante rūpagāḥ eka ūrdhvagaḥ /
+eko maule svaviṣayaḥ sarve 'ṣṭādaśa sāsravāḥ // 3.35 //
+```
 
 ## 3. Lexical Analysis
 
@@ -73,25 +75,16 @@ Dharma-Ranging whose cognitive Condition is the Formless realm itself.
 ## 5. Translation
 
 
-### Close syntactic construe
-
+### Literal Translation
 > At the threshold of the Formless realm, four are Form-directed and one is
 > upward-directed. In the fundamental [Formless attainment], one has its own
 > Condition. All eighteen have Influx.
 
 ### Bhāṣya-informed study translation
 
-> At the threshold of the first Formless attainment, four Mental Rangings—
-> Form, Sound, Tangible, and Dharma—take the fourth dhyāna as their cognitive
-> Condition, while one Dharma-Ranging takes the higher Formless realm as its
-> Condition. In a fundamental Formless attainment, only one Dharma-Ranging
-> occurs, taking its own Formless realm as Condition. In the Vaibhāṣika
-> classification, all eighteen Mental Rangings have Influx; none is without
-> Influx.
-
-The identification of the threshold, the Conditions of the four, the
-single Dharma-Ranging, and the Vaibhāṣika scope of the concluding statement
-are determinations made explicit in the Bhāṣya.
+> At the threshold of the Formless realm, four are directed to the Form realm,
+> one goes higher. In the fundamental [attainment], one has its own realm as
+> object. All eighteen have Influx.
 
 ## 6. Philosophical Translation
 
@@ -151,7 +144,7 @@ alternative sūtra intension:
 ```text
 threshold of first formless attainment:
     4 Form-directed
-        form, sound, tangible, dharma
+        Form, Sound, Tangible, Dharma
         cognitive Condition: fourth dhyāna
 
     1 upward-directed
@@ -231,6 +224,15 @@ wholesome affect. It transforms the mode of traversal.
 
 ## 9. Interpretive Note
 
+
+**Translation note.** At the threshold of the first Formless attainment, the four
+Form, Sound, Tangible, and Dharma Rangings take the fourth dhyāna as Condition; one
+Dharma-Ranging takes the higher Formless realm as Condition. In a fundamental
+Formless attainment, only one Dharma-Ranging occurs, taking its own Formless realm
+as Condition. The Vaibhāṣika classification holds all eighteen Mental Rangings to
+have Influx, none without Influx. The identification of the threshold, the
+Conditions of the four, the single Dharma-Ranging, and the Vaibhāṣika scope of the
+concluding statement are determinations made explicit in the Bhāṣya.
 
 ## 10. OWL++ Seed
 

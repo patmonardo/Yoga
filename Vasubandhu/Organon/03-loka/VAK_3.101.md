@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> तदपक्षालसाधर्म्यात् न चतुर्थेऽस्त्यनिञ्जनात् ।
->
-> न नित्यं सह सत्त्वेन तद्विमानोदयव्ययात् ॥ ३.१०१ ॥
+```sanskrit
+तदपक्षालसाधर्म्यात् न चतुर्थेऽस्त्यनिञ्जनात् ।
+न नित्यं सह सत्त्वेन तद्विमानोदयव्ययात् ॥ ३.१०१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> tadapakṣālasādharmyāt na caturthe 'sty aniñjanāt /
->
-> na nityaṃ saha sattvena tadvimānodayavyayāt // 3.101 //
+```text
+tadapakṣālasādharmyāt na caturthe 'sty aniñjanāt /
+na nityaṃ saha sattvena tadvimānodayavyayāt // 3.101 //
+```
 
 The first pāda completes the explanation begun under VAK 3.100: a lower
 dhyāna-world is vulnerable because its internal disturbance resembles the
@@ -70,24 +72,16 @@ discontinuous locations and appear or disappear with their occupants.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > [The lower contractions occur] because of similarity to those disturbances;
 > in the fourth [dhyāna] there is none, because it is unmoving. It is not
 > eternal: its celestial abode arises and passes away together with the being.
 
 ### Bhāṣya-informed study translation
 
-> Each of the lower dhyāna-worlds is vulnerable to an external contraction
-> analogous to a disturbance internal to its meditative structure. The fourth
-> dhyāna lacks such an internal disturbance and is therefore called immovable;
-> no contraction by fire, water, or wind reaches it. This relative immunity
-> does not make its receptacle eternal. Its abodes are discontinuously placed,
-> like stars, and each celestial abode arises and disappears together with the
-> being who inhabits it.
-
-The internal/external correspondence, the Buddha's designation `āneñja`, and
-the discontinuous star-like abodes are Bhāṣya determinations.
+> The lower [contractions occur] through similarity to those disturbances; in
+> the fourth dhyāna there is none, because it is unmoving. It is not eternal:
+> its celestial abode arises and passes away with the being.
 
 ## 6. Philosophical Translation
 
@@ -162,6 +156,9 @@ The receptacle is indexed to the beings it supports. Its apparent continuity
 cannot be detached from the causal continuities occupying it.
 
 ## 9. Interpretive Note
+
+**Translation note.** The internal/external correspondence, the Buddha's designation `āneñja`, and
+the discontinuous star-like abodes are Bhāṣya determinations. The Bhāṣya calls the fourth dhyāna `āneñja`, or unmoving, because it lacks an internal counterpart to the lower disturbances. Its star-like, discontinuous abodes are not eternal and arise and disappear with their inhabitants.
 
 VAK 3.101 refuses the last easy escape from conditioned Loka. The fourth
 dhyāna has a real and exact stability, but that predicate has a range:

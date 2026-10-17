@@ -2,9 +2,10 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> हेतुरत्र समुत्पादः समुत्पन्नः फलं मतम् ।
->
-> विद्याविपक्षो धर्मोऽन्योऽविद्यामित्रानृतादिवत् ॥ ३.२८ ॥
+```sanskrit
+हेतुरत्र समुत्पादः समुत्पन्नः फलं मतम् ।
+विद्याविपक्षो धर्मोऽन्योऽविद्यामित्रानृतादिवत् ॥ ३.२८ ॥
+```
 
 The supplied Devanāgarī reads `समुत्पन्नः`. The Bhāṣya's Kārikā citation and
 the syntax support neuter `समुत्पन्नं`, corresponding to `फलं मतम्`. The
@@ -13,9 +14,10 @@ Bhāṣya-supported form.
 
 ## 2. Sanskrit (IAST)
 
-> hetur atra samutpādaḥ samutpannaṃ phalaṃ matam /
->
-> vidyāvipakṣo dharmo 'nyo 'vidyāmitrānṛtādivat // 3.28 //
+```text
+hetur atra samutpādaḥ samutpannaṃ phalaṃ matam /
+vidyāvipakṣo dharmo 'nyo 'vidyāmitrānṛtādivat // 3.28 //
+```
 
 The second half resolves as:
 
@@ -83,24 +85,16 @@ avidyā
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Here dependent arising is the cause, while the dependently arisen is
 > regarded as the result. Avidyā is another dharma opposed to vidyā, as with
 > an enemy, untruth, and similar expressions.
 
 ### Bhāṣya-informed study translation
 
-> A member is called **dependent arising** insofar as it functions as the
-> cause from which another member arises, and **dependently arisen** insofar
-> as it functions as a result. The same member may bear both determinations
-> under different relations. Ignorance is neither everything other than
-> knowledge nor the mere absence of knowledge; it is a distinct operative
-> factor standing contrary to knowledge, as an enemy stands contrary to a
-> friend and untruth to truth.
-
-Relational role, the rejection of two alternative definitions of ignorance,
-and its status as an operative condition are Bhāṣya determinations.
+> Here, dependent arising is the cause, and what is dependently arisen is held
+> to be the result. Ignorance is a distinct dharma contrary to knowledge, as
+> an enemy to a friend, untruth to truth, and the like.
 
 ## 6. Philosophical Translation
 
@@ -183,7 +177,7 @@ Three possibilities are distinguished:
 
 ```text
 1. avidyā = anything other than vidyā
-   Too broad: faculties such as the eye would become ignorance.
+   Too broad: Faculties such as the eye would become ignorance.
 
 2. avidyā = sheer absence of vidyā
    Too weak: an absence cannot perform the conditioned functions assigned.
@@ -225,6 +219,13 @@ Together they establish that dependent origination requires both an exact
 relation and factors capable of functioning within that relation.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya applies the cause/result distinction relationally:
+a member may be result in one relation and cause in another, without changing its
+identity. It treats Ignorance as a distinct operative dharma, not merely everything
+other than knowledge or the bare absence of knowledge. Relational role, the
+rejection of two alternative definitions of ignorance, and its status as an
+operative condition are Bhāṣya determinations.
 
 The project-level reading takes cause and result as relational functions and
 avidyā as an operative contrary to vidyā, not a mere absence of information.

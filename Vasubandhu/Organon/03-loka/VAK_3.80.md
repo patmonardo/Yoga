@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> द्विगुणोत्तरमूर्ध्वानामुभयं रूपिणां पुनः ।
->
-> नास्त्यहोरात्रमायुस्तु कल्पैः स्वाश्रयसंमितैः ॥ ३.८० ॥
+```sanskrit
+द्विगुणोत्तरमूर्ध्वानामुभयं रूपिणां पुनः ।
+नास्त्यहोरात्रमायुस्तु कल्पैः स्वाश्रयसंमितैः ॥ ३.८० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> dviguṇottaram ūrdhvānām ubhayaṃ rūpiṇāṃ punaḥ /
->
-> nāsty ahorātram āyus tu kalpaiḥ svāśrayasaṃmitaiḥ // 3.80 //
+```text
+dviguṇottaram ūrdhvānām ubhayaṃ rūpiṇāṃ punaḥ /
+nāsty ahorātram āyus tu kalpaiḥ svāśrayasaṃmitaiḥ // 3.80 //
+```
 
 ## 3. Lexical Analysis
 
@@ -74,24 +76,16 @@ longer passes through a day/month/year calendar.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > For the higher devas, both measures are successively doubled. For the
 > form-realm devas, in turn, there is no day-and-night; but their lifespan is
 > in kalpas commensurate with their own bodily support.
 
 ### Bhāṣya-informed study translation
 
-> At each higher desire-realm deva station, both the human duration
-> corresponding to one divine day-and-night and the number of divine years in
-> the lifespan are doubled. Form-realm devas, however, have no day-and-night.
-> Their lifespan is measured directly in kalpas, with the number of kalpas
-> equal to the number of yojanas assigned to their bodily support—from one-half
-> yojana and one-half kalpa through 16,000 yojanas and 16,000 kalpas at
-> Akaniṣṭha.
-
-The two members of `ubhayam`, the complete desire-realm sequence, and the
-exact yojana-to-kalpa commensurability are Bhāṣya determinations.
+> For the higher desire-realm devas, both measures double successively. Form-
+> realm devas have no day-and-night; their lifespan is measured in kalpas
+> corresponding to their bodily support.
 
 ## 6. Philosophical Translation
 
@@ -205,6 +199,9 @@ This is numerical isomorphism between two differently typed magnitudes, not
 identity between body and lifespan.
 
 ## 9. Interpretive Note
+
+**Translation note.** The two members of `ubhayam`, the complete desire-realm sequence, and the
+exact yojana-to-kalpa commensurability are Bhāṣya determinations. The first desire-realm conversion is fifty human years to one Cāturmahārājika day-and-night; higher stations double the day-and-night and lifespan measures. Form-realm supports range from half a yojana and half a kalpa to 16,000 yojanas and 16,000 kalpas at Akaniṣṭha.
 
 VAK 3.80 offers a remarkably systematic theory of realm-specific time. It
 distinguishes three levels that a weaker representation would conflate:

@@ -3,16 +3,18 @@
 ## 1. Sanskrit (Devanāgarī)
 
 
-> संयोजनादिवचनात् कुप्रज्ञा चेन्न दर्शनात् ।
->
-> दृष्टेस्तत्संप्रयुक्तत्वात् प्रज्ञोपक्लेशदेशनात् ॥ ३.२९ ॥
+```sanskrit
+संयोजनादिवचनात् कुप्रज्ञा चेन्न दर्शनात् ।
+दृष्टेस्तत्संप्रयुक्तत्वात् प्रज्ञोपक्लेशदेशनात् ॥ ३.२९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
 
-> saṃyojanādivacanāt kuprajñā cen na darśanāt /
->
-> dṛṣṭes tatsaṃprayuktatvāt prajñopakleśadeśanāt // 3.29 //
+```text
+saṃyojanādivacanāt kuprajñā cen na darśanāt /
+dṛṣṭes tatsaṃprayuktatvāt prajñopakleśadeśanāt // 3.29 //
+```
 
 The first pāda closes the positive argument of 3.28 and then introduces a new
 proposal:
@@ -84,8 +86,7 @@ avidyāyāḥ
 ## 5. Translation
 
 
-### Close syntactic construe
-
+### Literal Translation
 > [Ignorance is a distinct operative factor] because it is spoken of as a
 > fetter and so forth. If it is faulty discriminative comprehension? No:
 > views themselves are afflicted discriminative comprehension, and they are
@@ -94,17 +95,9 @@ avidyāyāḥ
 
 ### Bhāṣya-informed study translation
 
-> The scriptural descriptions of ignorance as fetter, bondage, latent
-> tendency, flood, and yoke confirm that it is an operative factor rather than
-> a mere absence. Nor can ignorance be reduced to faulty discriminative
-> comprehension. Wrong views are themselves instances of faulty
-> discriminative comprehension, yet they are said to be associated with
-> ignorance; moreover, ignorance is taught as that which defiles
-> discriminative comprehension. These relations require ignorance, faulty
-> view, and discriminative comprehension to remain functionally distinct.
-
-The explicit identification of wrong views with `ku-prajñā` and the two
-non-identity arguments are Bhāṣya determinations.
+> Since ignorance is spoken of as a fetter and the like, [is it] faulty
+> discriminative comprehension? No: views are associated with it, and
+> ignorance is taught to defile discriminative comprehension.
 
 ## 6. Philosophical Translation
 
@@ -212,6 +205,13 @@ settle the intrinsic nature of ignorance.
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The Bhāṣya expands “fetter and the like” to bondage, latent
+tendency, flood, and yoke. It argues that faulty views are forms of faulty
+discriminative comprehension associated with Ignorance, while Ignorance is also said
+to defile discriminative comprehension; these relations distinguish the factors
+rather than identify them. The explicit identification of wrong views with
+`ku-prajñā` and the two non-identity arguments are Bhāṣya determinations.
 
 ## 10. OWL++ Seed
 

@@ -5,10 +5,9 @@
 > vijñānasthitayaḥ sapta śeṣaṃ tatparibhedavat /
 > bhavāgrāsaṃjñisattvāś ca sattvāvāsā nava smṛtāḥ // 3.06 //
 
-> There are seven states in which differentiated cognition can become stably
-> established. The remaining states contain conditions that disrupt such
-> cognition. When the peak of existence and the `asaṃjñi-sattvas` are
-> included, tradition recognizes nine abodes of beings.
+> There are seven stations of Cognition; the remainder has conditions that
+> disrupt it. Together with the peak of existence and the `asaṃjñi-sattvas`,
+> these are remembered as nine abodes of beings.
 
 The Bhāṣya determines `paribheda` as that by which `vijñāna` is disrupted,
 not as a neutral subdivision. It also distinguishes two scopes: all seven

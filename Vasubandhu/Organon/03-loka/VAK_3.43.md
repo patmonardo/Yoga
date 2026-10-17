@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> नैकाग्राचित्तयोरेतौ निर्वात्यव्याकृतद्वये ।
->
-> क्रमच्युतौ पादनाभिहृदयेषु मनश्च्युतिः ॥ ३.४३ ॥
+```sanskrit
+नैकाग्राचित्तयोरेतौ निर्वात्यव्याकृतद्वये ।
+क्रमच्युतौ पादनाभिहृदयेषु मनश्च्युतिः ॥ ३.४३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> naikāgrācittayor etau nirvāty avyākṛtadvaye /
->
-> kramacyutau pādanābhihṛdayeṣu manaścyutiḥ // 3.43 //
+```text
+naikāgrācittayor etau nirvāty avyākṛtadvaye /
+kramacyutau pādanābhihṛdayeṣu manaścyutiḥ // 3.43 //
+```
 
 ## 3. Lexical Analysis
 
@@ -73,8 +75,7 @@ the three loci are alternatives, not successive stations in every death.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > These two [death and arising] occur neither in concentrated consciousness nor
 > in a mindless state. The [arhat] becomes extinguished in one of two
 > indeterminate minds. In gradual death, cessation of mind occurs at the feet,
@@ -82,20 +83,9 @@ the three loci are alternatives, not successive stations in every death.
 
 ### Bhāṣya-informed study translation
 
-> Death and rebirth do not occur while consciousness is one-pointedly
-> concentrated or while mind is absent. The arhat enters final extinction in
-> one of two indeterminate minds: a mind associated with ordinary bodily
-> deportment or a maturation-result consciousness. In sudden death, the bodily
-> faculty together with mind disappears abruptly. In gradual death, the final
-> cessation of differentiated cognition occurs at a bodily locus correlated
-> with destination: at the feet for one going to a lower destiny, at the navel
-> for one going to human birth, and at the heart for one going to deva birth.
-> For an arhat, the principal account also gives the heart; another opinion
-> gives the crown of the head.
-
-The arhat as supplied subject, the two indeterminate minds, the distinction
-between sudden and gradual death, and the destination–locus mapping are Bhāṣya
-determinations.
+> These two occur neither in one-pointed consciousness nor in a mindless
+> state. The arhat enters final extinction in one of two indeterminate
+> [states]; in gradual death, Mind ceases at the feet, navel, or heart.
 
 ## 6. Philosophical Translation
 
@@ -103,7 +93,7 @@ determinations.
 > absence of mind. At the boundary, support-bound consciousness must become
 > operative and then cease. For the liberated one, final extinction occurs in
 > a weak, indeterminate cognitive register suited to termination. Where death
-> is gradual, the bodily faculty withdraws progressively and differentiated
+> is gradual, the bodily Faculty withdraws progressively and differentiated
 > cognition ceases at a destination-correlated locus. The World System thus
 > maps departure as an embodied operation with determinate cognitive, ethical,
 > and somatic conditions.
@@ -122,15 +112,15 @@ determinations.
 | vipākacitta | maturation-result consciousness | second possible final mind of the arhat |
 | cittacchedānukūla | favorable to cutting the conscious series | function attributed to weak indeterminate consciousness |
 | durbala | weak | reason indeterminate consciousness suits termination |
-| sakṛnmaraṇa | sudden death | bodily faculty and mind disappear abruptly |
-| kramacyuti | gradual falling-away / gradual death | progressive withdrawal of bodily faculty |
+| sakṛnmaraṇa | sudden death | bodily Faculty and mind disappear abruptly |
+| kramacyuti | gradual falling-away / gradual death | progressive withdrawal of bodily Faculty |
 | manaścyuti | cessation of mind | terminal cognitive event in gradual death |
 | adhoga | one going downward | one destined for a lower mode; locus at the feet |
 | nṛga | one going to humans | locus at the navel |
 | suraga | one going to devas | locus at the heart |
 | aja | one not born again | arhat; locus at heart, or crown according to another opinion |
 | mūrdhan | crown of the head | alternative locus proposed for the arhat |
-| kāyendriya | bodily faculty | withdraws progressively in gradual death |
+| kāyendriya | bodily Faculty | withdraws progressively in gradual death |
 | marman | vital point | bodily region whose severe impairment causes death |
 | marmaccheda | impairment or “cutting” of vital points | common condition of gradual death in the Bhāṣya |
 
@@ -190,10 +180,10 @@ the claim concerns compatibility with this terminal operation.
 
 ```text
 sudden death:
-    bodily faculty + mind disappear abruptly
+    bodily Faculty + mind disappear abruptly
 
 gradual death:
-    bodily faculty withdraws progressively
+    bodily Faculty withdraws progressively
     → final cognition ceases at a determinate locus
 ```
 
@@ -235,6 +225,16 @@ destruction. Earth is excluded under one medical explanation; an alternative
 derives the pattern by analogy with dissolution of the container-world.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya explains the two indeterminate states for an arhat
+as consciousness associated with ordinary bodily deportment or maturation-result
+Cognition. Death and rebirth do not occur in one-pointed concentration or absent
+Mind. In sudden death the Faculty and Mind disappear abruptly; in gradual death, the
+final cessation of Cognition is at the feet for a lower destiny, the navel for human
+birth, or the heart for deva birth. The principal account also assigns the heart to
+an arhat; another opinion gives the crown of the head. The arhat as supplied
+subject, the two indeterminate minds, the distinction between sudden and gradual
+death, and the destination–locus mapping are Bhāṣya determinations.
 
 The Bhāṣya distinguishes sudden from gradual termination, correlates the gradual departure-locus with destination, and preserves alternatives where the Arhat's locus is disputed. These bodily loci are not a universal ascent sequence; that comparison would exceed the source.
 

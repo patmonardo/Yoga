@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अन्तःकल्पोऽमिताद्यावद्दशवर्षायुषस्ततः ।
->
-> उत्कर्षा अपकर्षाश्च कल्पा अष्टादशापरे ॥ ३.९१ ॥
+```sanskrit
+अन्तःकल्पोऽमिताद्यावद्दशवर्षायुषस्ततः ।
+उत्कर्षा अपकर्षाश्च कल्पा अष्टादशापरे ॥ ३.९१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> antaḥkalpo 'mitād yāvad daśavarṣāyuṣas tataḥ /
->
-> utkarṣā apakarṣāś ca kalpā aṣṭādaśāpare // 3.91 //
+```text
+antaḥkalpo 'mitād yāvad daśavarṣāyuṣas tataḥ /
+utkarṣā apakarṣāś ca kalpā aṣṭādaśāpare // 3.91 //
+```
 
 ## 3. Lexical Analysis
 
@@ -65,24 +67,17 @@ Bhāṣya continuation and is completed textually in 3.92.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > One intermediate kalpa extends from immeasurable lifespan until humans have
 > a lifespan of ten years. Thereafter, the next eighteen kalpas contain
 > increases and decreases.
 
 ### Bhāṣya-informed study translation
 
-> The first intermediate kalpa of the standing World is the gradual decline
-> of human lifespan from immeasurable duration to ten years. Each of the next
-> eighteen intermediate kalpas rises from ten years to the fixed upper limit
-> of 80,000 years and then declines again to ten. A twentieth intermediate
-> kalpa consists only of the final increase from ten to 80,000 years. Despite
-> these different internal trajectories, all twenty intermediate kalpas are
-> equal in duration.
-
-The 80,000-year upper bound, the one-way twentieth increase, and equality in
-duration of all twenty kalpas are Bhāṣya determinations.
+> The first intermediate kalpa declines from immeasurable human lifespan to
+> ten years; the next eighteen each rise from ten to eighty thousand and
+> decline again, and the twentieth rises from ten to eighty thousand. All
+> twenty are equal in duration.
 
 ## 6. Philosophical Translation
 
@@ -194,6 +189,9 @@ intervals are not the same series as the twenty intermediate kalpas of the
 formed World's standing phase analyzed above.
 
 ## 9. Interpretive Note
+
+**Translation note.** The 80,000-year upper bound, the one-way twentieth increase, and equality in
+duration of all twenty kalpas are Bhāṣya determinations. The Bhāṣya treats the first decline, eighteen rise-and-fall periods, and final increase as the twenty equal intermediate kalpas of the standing world.
 
 Your distinction between spatial and temporal enclosure is exactly the
 Kant-power required here:

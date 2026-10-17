@@ -5,16 +5,9 @@
 > prāk ṣaḍāyatanotpādāt tatpūrvaṃ trikasaṃgamāt /
 > sparśaḥ prāk sukhaduḥkhādikāraṇajñānaśaktitaḥ // 3.22 //
 
-### Bhāṣya-informed study translation
-
-> Name-and-Form names the interval after junction consciousness and before
-> the arising of the six Essences. The succeeding interval is called the
-> six-Essence stage, even though its boundary could be stated as the arising
-> of four Essences, because the full sixfold organization is established
-> then. That stage continues until Faculty, Condition, and Discriminative
-> Cognition meet. From their conjunction, Contact arises; the Contact-stage
-> lasts until the capacity to discriminate the causes of pleasant, painful,
-> and neutral Feeling is established.
+> Name-and-Form lasts until the six Essences arise; the six-Essence stage
+> lasts until the triad converges. Contact lasts until the capacity to know
+> the causes of pleasant, painful, and other Feeling arises.
 
 ## 2. Continuous Sanskrit
 
@@ -45,8 +38,7 @@ Word division and punctuation are editorial. The e-text's
 `prāk caturāyatanotpādād iti`. The source's `sā 'vasthā` is joined by
 ordinary word division. The running source remains unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 > Before the arising of the six Essences.
 
 The stage after junction consciousness and before the six Essences have
@@ -168,3 +160,7 @@ vak:CauseDiscriminationCapacity
     a organon:DiscriminativeCapacity ;
     vak:concerns vak:ThreeFeelingsCauses .
 ```
+
+## 7. Review Status
+
+Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation. Source span not yet recorded here.

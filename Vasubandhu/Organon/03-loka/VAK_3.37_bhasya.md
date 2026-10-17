@@ -2,30 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-tuṣitaṇḍulavat karma tathaivauṣadhipuṣpavat /
-siddhānnapānavad vastu tasmin bhavacatuṣṭaye // 3.37 //
-```
+> tuṣitaṇḍulavat karma tathaivauṣadhipuṣpavat /
+> siddhānnapānavad vastu tasmin bhavacatuṣṭaye // 3.37 //
 
-> Karma is like a grain enclosed in its husk, and likewise like a plant and
-> a flower. The Thing called maturation-result is like prepared food and
-> drink, within that fourfold Becoming.
+> Karma is like a rice grain in its husk, and likewise like a medicinal plant
+> and a flower. Vastu is like prepared food and drink, within those four modes
+> of becoming.
 
 The Bhāṣya continues VAK 3.36's causal analogies. It gives Karma three
 different determinations, distinguishes maturation-result from a further
 productive cause, and locates the process within four modes of becoming.
-
-### Bhāṣya-informed study translation
-
-> Karma joined with Affliction is like a grain enclosed in its husk, retaining
-> the capacity to germinate. It is like a plant whose process terminates in
-> the ripening of fruit; on the provisionally supplied negative, Karma does
-> not continue producing further maturation-results after ripening. Karma is
-> also like a flower, its cause proximate to fruit-arising. The Thing (Vastu)
-> called maturation-result is like prepared food and drink: available for
-> experience, but not itself capable of germinating into another
-> maturation-result. This causal process operates within four modes of
-> Becoming: Intermediate, Rebirth, Life-course, and Death.
 
 The distinct forces of the plant and flower comparisons, the determination of
 `vastu` as maturation-result, and the enumeration of the four modes of Becoming are
@@ -69,8 +55,7 @@ it remains a conjecture pending collation. At 151.14–15 the witness reads
 to `pravartate`; the second is retained, rather than silently changed to
 `pravarteta`.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Karma is like a grain enclosed in its husk, and likewise like a plant and a
 flower. Something that possesses a husk is called “husked.” Affliction has
 already been said to occupy the place of the husk; now Karma is said to

@@ -2,30 +2,16 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-uktaṃ ca vakṣyate cānyad atra tu kleśa iṣyate /
-bījavan nāgavan mūlavṛkṣavat tuṣavat tathā // 3.36 //
-```
+> uktaṃ ca vakṣyate cānyad atra tu kleśa iṣyate /
+> bījavan nāgavan mūlavṛkṣavat tuṣavat tathā // 3.36 //
 
-> Some members have been explained and others will be explained later. Here,
-> however, affliction is intended: like a seed, like a nāga, like a root,
-> like a tree, and likewise like a husk.
+> Some [members] have been explained; others will be explained. Here, however,
+> affliction is intended: like a seed, a nāga, a root, a tree, and likewise a
+> husk.
 
 The Bhāṣya explains why the remaining members of dependent co-arising are not
 all repeated here, then differentiates five causal functions of affliction
 through five similes.
-
-### Bhāṣya-informed study translation
-
-> The remaining limbs are not all explained again here: some have already
-> been treated, while others will be treated in the Karma and Affliction
-> chapters. The present topic is Affliction. It is like a seed because it
-> generates further Affliction, Karma, and Thing; like a nāga because
-> it keeps the lake of birth from drying up; like an unextracted root because
-> the destinies grow again while it remains; like a tree because it repeatedly
-> produces flowers and fruits; and like a husk because Karma enclosed by the
-> acquisition of Affliction retains the capacity to germinate into another
-> birth, whereas Karma alone does not.
 
 The allocation of each precise causal function to its simile is supplied by
 the Bhāṣya.
@@ -74,8 +60,7 @@ acquisition.” These are editorial readings, not established readings of a
 critical edition. The cited earlier verses and chapter cross-references
 remain Bhāṣya prose rather than Kārikā wording.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 The remaining limbs are not stated again. Why? Because some have been
 explained and others will be explained later. Some members have been explained
 here, while others will be explained afterward. Discriminative Cognition has

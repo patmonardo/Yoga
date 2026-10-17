@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> तेऽष्टौ योजनमित्याहुर्विंशं क्षणशतं पुनः ।
->
-> तत्क्षणस्ते पुनः षष्टिर्लवस्त्रिंशद्गुणोत्तराः ॥ ३.८८ ॥
+```sanskrit
+तेऽष्टौ योजनमित्याहुर्विंशं क्षणशतं पुनः ।
+तत्क्षणस्ते पुनः षष्टिर्लवस्त्रिंशद्गुणोत्तराः ॥ ३.८८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> te 'ṣṭau yojanam ity āhur viṃśaṃ kṣaṇaśataṃ punaḥ /
->
-> tatkṣaṇas te punaḥ ṣaṣṭir lavas triṃśadguṇottarāḥ // 3.88 //
+```text
+te 'ṣṭau yojanam ity āhur viṃśaṃ kṣaṇaśataṃ punaḥ /
+tatkṣaṇas te punaḥ ṣaṣṭir lavas triṃśadguṇottarāḥ // 3.88 //
+```
 
 ## 3. Lexical Analysis
 
@@ -73,21 +75,16 @@ muhūrta; the continuation belongs formally to 3.89.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Eight of those are said to make one yojana. Again, one hundred and twenty
 > moments make one tatkṣaṇa; sixty of those make one lava; the following units
 > are successively thirtyfold.
 
 ### Bhāṣya-informed study translation
 
-> Eight krośas constitute one yojana, completing the spatial measure-series.
-> The temporal series then begins: 120 moments constitute one tatkṣaṇa, and 60
-> tatkṣaṇas constitute one lava. The next temporal units proceed by thirtyfold
-> aggregation, beginning with 30 lavas to one muhūrta.
-
-The interpretation of the compressed numeral as 120 and the forward scope of
-the thirtyfold rule are Bhāṣya determinations.
+> Eight krośas make one yojana. One hundred and twenty moments make a
+> tatkṣaṇa, and sixty tatkṣaṇas make a lava; the succeeding temporal measures
+> increase thirtyfold.
 
 ## 6. Philosophical Translation
 
@@ -209,6 +206,9 @@ The two ladders share an architecture without asserting that spatial and
 temporal units are mutually reducible.
 
 ## 9. Interpretive Note
+
+**Translation note.** The interpretation of the compressed numeral as 120 and the forward scope of
+the thirtyfold rule are Bhāṣya determinations. The Bhāṣya explains the compressed number as 120 moments, specifies sixty tatkṣaṇas to a lava, and applies the thirtyfold rule to the subsequent time measures, beginning with thirty lavas to one muhūrta.
 
 VAK 3.88 shows the Mind of the Enclosure switching domains without changing
 its logical vocation:

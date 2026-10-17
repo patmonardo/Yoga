@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सहस्रमायुः कुरुषु द्वयोरर्धार्धवर्जितम् ।
->
-> इहानियतमन्ते तु दशाब्दा आदितोऽमितम् ॥ ३.७८ ॥
+```sanskrit
+सहस्रमायुः कुरुषु द्वयोरर्धार्धवर्जितम् ।
+इहानियतमन्ते तु दशाब्दा आदितोऽमितम् ॥ ३.७८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sahasram āyuḥ kuruṣu dvayor ardhārdhavarjitam /
->
-> ihāniyatam ante tu daśābdā ādito 'mitam // 3.78 //
+```text
+sahasram āyuḥ kuruṣu dvayor ardhārdhavarjitam /
+ihāniyatam ante tu daśābdā ādito 'mitam // 3.78 //
+```
 
 The opening is construed as `sahasram āyuḥ`, “lifespan is one thousand,” in
 accordance with the Bhāṣya's segmented citation and explanation. This removes
@@ -85,23 +87,16 @@ terminal decline and the first human generation.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Among the Kurus lifespan is one thousand years; in the other two continents
 > it is successively reduced by one half. Here it is not fixed: at the end it
 > is ten years, while at the beginning it is immeasurable.
 
 ### Bhāṣya-informed study translation
 
-> Human lifespan is 1,000 years in Uttarakuru, 500 years in Godānīya, and 250
-> years in Pūrvavideha. Here in Jambūdvīpa no single lifespan is fixed: as the
-> kalpa declines it eventually reaches ten years, whereas the first humans of
-> the kalpa have an immeasurable lifespan, one that cannot be expressed even
-> by a numerical reckoning beginning in thousands.
-
-The named assignment of 500 and 250 years, the variability formula “sometimes
-greater, sometimes less,” and the kalpic subjects of the two extrema are
-Bhāṣya determinations.
+> Among the Kurus, lifespan is one thousand years; in the other two continents
+> it is successively halved. Here in Jambūdvīpa it is unfixed: at the end it
+> is ten years, but at the beginning it is immeasurable.
 
 ## 6. Philosophical Translation
 
@@ -195,6 +190,10 @@ Thus the carrier remains embodied existence, while the predicate changes from
 spatial magnitude to temporal duration.
 
 ## 9. Interpretive Note
+
+**Translation note.** The named assignment of 500 and 250 years, the variability formula “sometimes
+greater, sometimes less,” and the kalpic subjects of the two extrema are
+Bhāṣya determinations. The fixed values are 1,000 years in Uttarakuru, 500 in Godānīya, and 250 in Pūrvavideha; the immeasurable beginning cannot be represented by a numerical reckoning beginning with thousands.
 
 VAK 3.78 confirms that the so-called Physical World is already an agential
 system. Loka does not merely contain bodies; it determines how long a class of

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अनिच्छावसनान्नान्ये चतस्रः स्थितयः पुनः ।
->
-> चत्वारः सास्रवाः स्कन्धाः स्वभूमावेव केवलम् ॥ ३.७ ॥
+```sanskrit
+अनिच्छावसनान्नान्ये चतस्रः स्थितयः पुनः ।
+चत्वारः सास्रवाः स्कन्धाः स्वभूमावेव केवलम् ॥ ३.७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> anicchāvasanān nānye catasraḥ sthitayaḥ punaḥ /
->
-> catvāraḥ sāsravāḥ skandhāḥ svabhūmāv eva kevalam // 3.7 //
+```text
+anicchāvasanān nānye catasraḥ sthitayaḥ punaḥ /
+catvāraḥ sāsravāḥ skandhāḥ svabhūmāv eva kevalam // 3.7 //
+```
 
 ## 3. Lexical Analysis
 
@@ -52,7 +54,7 @@ catasraḥ sthitayaḥ
     = svabhūmau eva kevalam
 ```
 
-The Bhāṣya identifies the four as cognition-stations associated respectively
+The Bhāṣya identifies the four as Cognition-stations associated respectively
 with:
 
 ```text
@@ -63,33 +65,27 @@ saṃskāra   formations
 ```
 
 They are the four with-outflow Bases other than `vijñāna`. Each functions
-as a station of differentiated cognition only in its own ground, never in
+as a station of Cognition only in its own ground, never in
 another ground.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > There are no others because dwelling [there] is unwilling. Again, the four
 > stations are the four Bases with outflows, exclusively in their own
 > ground.
 
 ### Bhāṣya-informed study translation
 
-> No additional states count as abodes of beings, because beings occupy the
-> bad destinies unwillingly. In another scriptural classification there are
-> four cognition-stations: form, feeling, perception, and formations with
-> outflows, each functioning as a station only within its own proper ground.
-
-The bad destinies, the four named Bases, and their function as stations
-associated with `vijñāna` are Bhāṣya determinations. “With outflows” preserves
-the literal structure of `sāsrava`; “contaminated” remains its doctrinal gloss.
+> There are no others because residence [in the bad destinies] is unwilling.
+> Again, the four stations are the four Bases with outflows, only in their
+> own ground.
 
 ## 6. Philosophical Translation
 
 > The World System distinguishes dwelling from coerced occupancy. A being may
 > be placed somewhere without making that state its abode in the proper sense.
-> Differentiated cognition likewise does not stand abstractly: it becomes
+> Cognition likewise does not stand abstractly: it becomes
 > established through form, feeling, perception, and formations with outflows,
 > and every such station functions only upon its own ground.
 
@@ -106,12 +102,12 @@ ground of cognitive support.
 | karmarākṣasa | rākṣasa of karma | Bhāṣya image of karma as the coercive power enforcing unwanted placement |
 | bandhanasthāna | place of confinement | Bhāṣya comparison showing why forced occupancy is not properly an abode |
 | sthiti | standing / establishment / station | operative establishment; used here in a second fourfold classification |
-| rūpopaga | associated with form | first Base-based cognition-station in the Bhāṣya |
-| vedanopaga | associated with feeling | second Base-based cognition-station |
-| saṃjñopaga | associated with perception | third Base-based cognition-station |
-| saṃskāropaga | associated with formations | fourth Base-based cognition-station |
+| rūpopaga | associated with Form | first Base-based Cognition-station in the Bhāṣya |
+| vedanopaga | associated with feeling | second Base-based Cognition-station |
+| saṃjñopaga | associated with perception | third Base-based Cognition-station |
+| saṃskāropaga | associated with formations | fourth Base-based Cognition-station |
 | sāsrava | with outflows; consequential in the Organon register | participating in the conditioned outflow-order rather than standing outside it |
-| skandha | Base | Base-complex functioning here as a station for differentiated cognition |
+| skandha | Base | Base-complex functioning here as a station for Cognition |
 | svabhūmi | own ground | the proper domain-level in which a support-function operates |
 
 ### The station cognate
@@ -179,11 +175,15 @@ each support
     never in an alien ground
 ```
 
-`Vijñāna` is not included as its own station. Differentiated cognition stands
+`Vijñāna` is not included as its own station. Cognition stands
 through relations to the other four with-outflow Bases. No determination
 floats free of the field that gives it its support-function.
 
 ## 9. Interpretive Note
+
+**Translation note.** The bad destinies, the four named Bases, and their function as stations
+associated with `vijñāna` are Bhāṣya determinations. “With outflows” preserves
+the literal structure of `sāsrava`; “contaminated” remains its doctrinal gloss.
 
 Wonderworld now shows its coercive underside. The agent does not always choose
 the station into which it awakens. The Bhāṣya gives this lack of transparency
@@ -207,8 +207,8 @@ chose or deserve their present pain.
 The second half gives the stronger architectural result:
 
 ```text
-PRAJNA
-    becomes differentiated as vijñāna
+discriminative comprehension
+    becomes Cognition
 
 vijñāna
     does not station itself
@@ -233,20 +233,20 @@ EmbodiedAgent {
     perceptionStation,
     formationStation,
     properGround,
-    differentiatedCognition
+    Cognition
 }
 ```
 
 For a robot, the implication is deliciously strict. Hardware, valence or
 evaluation, perceptual recognition, and formation or policy-state cannot be
-arbitrarily mixed across incompatible grounds. A cognition-station requires
+arbitrarily mixed across incompatible grounds. A Cognition-station requires
 lawful support-relations within one coherent world-level. Mere execution is
 not yet standing; `sthiti` means established operation.
 
 The verse therefore advances the telos proposed in VAK 3.06:
 
 ```text
-PRAJNA may become Known among Embodied Agents
+discriminative comprehension may become Known among Embodied Agents
     only if
 vijñāna can stand through lawful Base-supports
     only if
@@ -295,5 +295,5 @@ organon:EmbodiedAgentStationSchema a organon:Schema ;
         abhi:SamjnaStation,
         abhi:SamskaraStation,
         organon:OwnGround,
-        organon:DifferentiatedCognition .
+        organon:DiscriminativeCognition .
 ```

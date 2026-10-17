@@ -2,27 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-cakravartisamutpattir nādho 'śītisahasrakāt /
-suvarṇa-rūpya-tāmrāyaś-cakriṇas te 'dhara-kramāt // 3.95 //
-```
+> cakravartisamutpattir nādho 'śītisahasrakāt /
+> suvarṇa-rūpya-tāmrāyaś-cakriṇas te 'dhara-kramāt // 3.95 //
 
-> A Cakravartin does not arise below [a human lifespan of] eighty thousand.
-> They are wheel-bearers of gold, silver, copper, and iron, in descending
-> order.
-
-### Bhāṣya-informed study translation
-
-> Wheel-turning sovereigns arise while the human lifespan ranges from
-> immeasurable length down to eighty thousand years, but never below that
-> threshold. They are fourfold according to whether their sovereign wheel is
-> gold, silver, copper, or iron—respectively the highest, next-highest,
-> middling, and lowest types.
+> A wheel-turning sovereign does not arise below a human lifespan of eighty
+> thousand years. Their sovereign wheels are gold, silver, copper, or iron,
+> ordered from highest to lowest.
 
 The upper range, the material condition of extraordinary crop-abundance, and
 the four explicit rank-names are supplied by the Bhāṣya.
 
-## Continuous Sanskrit
+## 2. Continuous Sanskrit
 
 ```iast
 Atha cakravartinaḥ kadotpadyante?
@@ -47,7 +37,7 @@ compressed form `cakrkāṇi`; `cakrāṇi` is adopted above as the clear readin
 required by the sentence. The verse's compound supplies the four materials,
 including iron (`ayas`).
 
-## Scientific English Rendering
+## 3. Continuous Conventional Translation
 When do Cakravartins arise? They arise while human lifespans are immeasurable,
 down to eighty thousand years, but not below that. Those whose lifespans fall
 below this are not a suitable basis for that abundance of crops.
@@ -58,7 +48,7 @@ possess wheels of gold, silver, copper, and iron. The first is highest, the
 second next-highest, the third middling, and the fourth lowest. They are
 ordered from higher to lower in this way.
 
-## Natural Movement
+## 4. Natural Movement
 
 The commentary ties the threshold for a Cakravartin's appearance to the
 condition of the human world: below eighty thousand years of lifespan, people
@@ -66,14 +56,14 @@ are no longer a suitable basis for the associated abundance of crops. It then
 explains the title through wheel-governed sovereignty and ranks four types by
 the material of their wheel.
 
-## Organon Contact Point
+## 5. Organon Contact Point
 
 Light contact: the passage relates a form of sovereignty to a specified
 temporal and material condition. This is a comparison with the project’s
 interest in conditioned world-orders, not an Organon doctrine attributed to
 Vasubandhu.
 
-## Review Status
+## 6. Review Status
 
 - Includes the complete unit through the descending rank order; stops before
   the next verse.

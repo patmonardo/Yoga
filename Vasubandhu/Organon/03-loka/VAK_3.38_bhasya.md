@@ -2,31 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-upapattibhavaḥ kliṣṭaḥ sarvakleśaiḥ svabhūmikaiḥ /
-tridhā 'nye traya ārūpye āhārasthitikaṃ jagat // 3.38 //
-```
+> upapattibhavaḥ kliṣṭaḥ sarvakleśaiḥ svabhūmikaiḥ /
+> tridhā 'nye traya ārūpye āhārasthitikaṃ jagat // 3.38 //
 
-> Rebirth-becoming is defiled by all afflictions belonging to its own level.
-> The other three are threefold. In the formless realm there are three. The
-> world persists through nutriment.
+> Rebirth-becoming is defiled by all the afflictions of its own level; the
+> other three [modes] are of three kinds. In the Formless realm there are
+> three. The World persists through nutriment.
 
 The Bhāṣya distinguishes rebirth-becoming from the other three modes,
 explains why intermediate becoming is absent from the formless realm, and
 then changes the governing question from the arising of sentient beings to
 their continued persistence.
-
-### Bhāṣya-informed study translation
-
-> Rebirth-becoming is necessarily defiled and may be bound by any affliction
-> belonging to the level in which that rebirth occurs. The other three modes
-> of becoming—intermediate, life-course, and death becoming—may each be
-> wholesome, defiled, or indeterminate. In the formless realm only three modes
-> occur: rebirth, life-course, and death; intermediate becoming is absent
-> because that realm is not spatially delimited as another place requiring an
-> intervening transition-body. Having explained how sentient beings arise
-> through dependent co-arising, the text now states how they remain: the World
-> persists through nutriment.
 
 The necessity of defilement, the three ethical classes, the excluded mode in
 the formless realm, and the arising-versus-persistence transition are Bhāṣya
@@ -83,8 +69,7 @@ secure. The sūtra introduction at 152.09–10 has
 `abhisaṃbudhyākhyātaḥ` and `sarvasattvā`. These passages need collation;
 the running witness has not been altered.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Rebirth-becoming is defiled—necessarily so. By which affliction? By all the
 afflictions belonging to its own level. Whatever level the rebirth-becoming
 belongs to, its defilement concerns afflictions of that same level. The

@@ -5,10 +5,9 @@
 > caturdhā naratiryañco nārakā upapādukāḥ /
 > antarābhavadevāś ca pretā api jarāyujāḥ // 3.09 //
 
-> Humans and animals occur through all four modes of birth. Hell-beings,
-> intermediate-existence beings, and devas arise spontaneously. Pretas may be
-> womb-born and, as the commentary infers from “also,” spontaneously arisen as
-> well.
+> Humans and animals occur through four modes of birth; narakas,
+> intermediate-existence beings, and devas are spontaneously arisen. Pretas
+> too are womb-born.
 
 The Bhāṣya interprets `api`, “also,” to mean that pretas may be spontaneously
 arisen as well as womb-born. The verse cross-classifies destiny and mode of

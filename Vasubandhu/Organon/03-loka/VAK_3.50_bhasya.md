@@ -2,29 +2,17 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-catūratnamayo merur jale 'śītisahasrake /
-magnāḥ ūrdhvaṃ jalān merur bhūyo 'śītisahasrakaḥ // 3.50 //
-```
+> catūratnamayo merur jale 'śītisahasrake /
+> magnāḥ ūrdhvaṃ jalān merur bhūyo 'śītisahasrakaḥ // 3.50 //
 
-> Meru is made of four precious substances. The mountains are submerged
-> eighty thousand yojanas in the water; above the water Meru rises a further
-> eighty thousand.
+> Meru is made of four precious substances. The mountains are submerged in
+> 80,000 yojanas of water; above the water Meru rises a further 80,000.
 
 The Bhāṣya distributes the four jewels across Meru's four faces and explains
 their directional coloring of the sky. Between the first and second halves
 of the verse, it asks how the mountains, continents, and their differentiated
 materials arise. This produces an explicit debate with a Sāṃkhya account of
 `pariṇāma`, followed by Vasubandhu's conditioned-production account.
-
-### Bhāṣya-informed study translation
-
-> Meru has four sides made respectively of gold, silver, vaidūrya, and crystal.
-> The eight great mountains are submerged 80,000 yojanas in the water resting
-> upon the golden earth. Meru rises another 80,000 yojanas above the
-> water. The radiance of each precious face colors the appearance of the sky in
-> its direction; the face toward Jambūdvīpa is traditionally described as
-> vaidūrya, through whose luminous coloring the sky here appears blue-green.
 
 The four materials and their ordered distribution, collective scope of the
 submerged measure, directional coloration, Jambūdvīpa-facing material, and
@@ -85,8 +73,7 @@ and sandhi. `Ṣoḍaśa yojanaśatasahasram`, sixteen hundred-thousands, is
 supplied from the explicit 80,000 + 80,000 calculation; the witness's exact
 reading must be checked rather than treated as critically settled.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 Meru is made of four precious substances. Its four faces are made,
 respectively, of gold, silver, vaidūrya, and crystal. Whatever substance a
 face of Sumeru is made of, through that face's efficacy the sky in its
@@ -364,7 +351,7 @@ differentiated materials and structures, the complete Sāṃkhya transformation
 exchange, karmically impelled aggregation into mountains and continents, the
 mountains' common submerged depth, and Meru's emergent and total height.
 
-This repairs a substantial omission and boundary error in the first-pass
+This repairs a substantial omission and boundary error in the earlier
 Bhāṣya Studies, which placed the genesis and Sāṃkhya passage under VAK 3.49
 and omitted it from 3.50. No research witness was altered.
 

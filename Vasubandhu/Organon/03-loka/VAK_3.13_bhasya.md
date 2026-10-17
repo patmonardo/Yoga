@@ -5,10 +5,9 @@
 > ekākṣepād asāv aiṣyatpūrvakālabhavākṛtiḥ /
 > sa punar maraṇāt pūrva upapattikṣaṇāt paraḥ // 3.13 //
 
-> The same karma projects both a destiny and the intermediate existence that
-> leads to it; consequently the intermediate being already bears the form of
-> the life-phase that will arise in that destiny. This `pūrvakālabhava` extends
-> from after the rebirth-junction until before the final death-moment.
+> Through one projection, this [intermediate existence] has the form of the
+> coming pre-rebirth existence. That existence, in turn, follows the moment
+> of rebirth and precedes death.
 
 The pronoun changes referent across the verse. `Asau` denotes intermediate
 existence; `saḥ` resumes `pūrvakālabhava`, the embodied life-phase after the

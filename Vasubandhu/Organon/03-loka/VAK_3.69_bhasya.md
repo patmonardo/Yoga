@@ -2,31 +2,18 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-tata ūrdhvaṃ vimāneṣu devāḥ kāmabhujas tu ṣaṭ /
-dvandvāliṅganapāṇyāptihasitekṣitamaithunāḥ // 3.69 //
-```
+> tata ūrdhvaṃ vimāneṣu devāḥ kāmabhujas tu ṣaṭ /
+> dvandvāliṅganapāṇyāptihasitekṣitamaithunāḥ // 3.69 //
 
-> Above that, devas dwell in celestial residences; but six classes enjoy
-> sensual pleasures. Their sexual unions involve pairing, embrace,
-> hand-contact, smile, and glance.
+> Above them, devas dwell in celestial residences; six classes enjoy
+> sensual pleasures through coupling, embracing, hand-contact, laughter,
+> and glances.
 
 The Bhāṣya identifies the six kāmāvacara deva classes, distinguishes them from
 higher devas, and distributes the five listed modes across the six classes.
 It then adds a Vaibhāṣika reference to a measure of time, a relation between
 object-intensity and passion, and a brief account of parentage. The ensuing
 question about a divine child's apparent age begins the next unit.
-
-### Bhāṣya-informed study translation
-
-> Above the Trāyastriṃśas, devas dwell in celestial residences. Only six deva
-> classes, however—from the Cāturmahārājakāyikas through the
-> Paranirmitavaśavartins—enjoy the pleasures of kāma. The earth-connected
-> Cāturmahārājakāyikas and Trāyastriṃśas unite bodily as humans do, although
-> without emission of semen; their sexual heat ceases through the release of
-> wind. For the Yāmas an embrace suffices, for the Tuṣitas contact of the hand,
-> for the Nirmāṇaratis a smile, and for the Paranirmitavaśavartins a glance.
-> As the objects become more intense, passion too becomes more intense.
 
 The enumeration of the higher deva stations, restriction to six kāma classes,
 class-by-class distribution, physiological qualifications, and relation of
@@ -76,7 +63,7 @@ referent is unclear in this excerpt; it is not folded into the preceding
 class-by-class mapping. The reference to `kālaparimāṇa` is likewise preserved
 without supplying a duration that this passage does not state.
 
-## 3. Scientific English Rendering
+## 3. Continuous Conventional Translation
 Above the Thirty-Three, devas are established in celestial residences. These
 are the Yāmas, Tuṣitas, Nirmāṇaratis, and Paranirmitavaśavartins, as well as
 the previously described sixteen stations beginning with the Brahmakāyikas.

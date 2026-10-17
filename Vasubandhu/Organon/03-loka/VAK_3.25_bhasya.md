@@ -5,22 +5,14 @@
 > āvasthikaḥ kileṣṭo 'yaṃ prādhānyāt tv aṅgakīrtanam /
 > pūrvāparāntamadhyeṣu saṃmohavinivṛttaye // 3.25 //
 
-> This presentation is said to be intended as stage-based; the naming of a
-> member is according to predominance, for the removal of confusion concerning
-> the prior limit, subsequent limit, and middle.
+> This is intended as a stage-based [account]; members are named according
+> to predominance to remove confusion about the prior limit, the later
+> limit, and the middle.
 
 The Bhāṣya locates the twelve-member, three-life account among several valid
 modes of *samutpāda* analysis. It explains how complex five-Base stages
 receive single member-names and why the sūtra selects this particular
 sentient-life presentation.
-
-### Bhāṣya-informed study translation
-
-> The twelvefold sūtra presentation is intended as a sequence of complex
-> five-Base stages. Each stage is named after the determination
-> predominant within it. This sentient-life sequence is divided across past,
-> future, and present in order to remove confusion about temporal continuity
-> by rightly seeing conditioned arising through *prajñā*.
 
 Five-Base composition, the sūtra's selective intention, the concrete
 forms of temporal confusion, and the role of Prajñā are Bhāṣya determinations.
@@ -98,8 +90,7 @@ are retained above. The meanings of this term and `sāṃbandhika` remain
 dependent upon this compressed classification and require collation.
 The running source remains unchanged.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 This *samutpāda* is said to be fourfold: momentary, progressive, connected,
 and stage-based. How is it momentary? All twelve members can occur even
 within one moment. Suppose, for example, that under the power of Greed one

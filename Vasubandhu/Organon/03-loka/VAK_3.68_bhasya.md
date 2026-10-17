@@ -2,14 +2,11 @@
 
 ## 1. Kārikā Anchor
 
-```iast
-viṃśatyantaritāny eṣāṃ subhūmīni caturdiśam /
-pūrvottare pārijātaḥ sudharmā dakṣiṇāvare // 3.68 //
-```
+> viṃśatyantaritāny eṣāṃ subhūmīni caturdiśam /
+> pūrvottare pārijātaḥ sudharmā dakṣiṇāvare // 3.68 //
 
-> In the four directions from these gardens are pleasant grounds separated by
-> twenty [yojanas]. In the north-east is Pārijāta; in the south-west,
-> Sudharmā.
+> These pleasant grounds lie twenty yojanas apart in the four directions;
+> Pārijāta is to the north-east, and Sudharmā to the south-west.
 
 The Bhāṣya identifies the pleasant grounds as divine recreation places, then
 describes Pārijāta's dimensions and fragrance. Its account of fragrance
@@ -17,18 +14,6 @@ becomes a sustained causal discussion: how can scent travel against the wind,
 what supports its continuity, and how does this report relate to a Buddha
 verse about ordinary flower-fragrance? The unit closes by locating Sudharmā,
 the gods' assembly hall, in the south-west.
-
-### Bhāṣya-informed study translation
-
-> Twenty yojanas from each of the four gardens lies a pleasant ground, itself
-> a recreation-place of the gods; through mutual rivalry these four grounds
-> spread their beauty. Outside the city in the north-east stands Pārijāta, a
-> kovidāra tree supporting the Trāyastriṃśas' most intense sensual enjoyment.
-> Its root-base measures five yojanas, its height one hundred, and its spread
-> of branches and foliage fifty. In full bloom its fragrance travels one
-> hundred yojanas downwind and fifty against the wind. In the south-west is
-> Sudharmā, the divine assembly hall where the seated gods deliberate what is
-> to be done and what is not to be done.
 
 The fourfold count, twenty-yojana spacing, recreational function, rivalry,
 Pārijāta's classification and dimensions, fragrance measures, and Sudharmā's
@@ -86,8 +71,7 @@ for spacing and sandhi. The expression describing the spread of branches and
 foliage is retained as a 50-yojana extent; the precise geometric axis is not
 further specified.
 
-## 3. Scientific English Rendering
-
+## 3. Continuous Conventional Translation
 In the four directions from these gardens are four pleasant grounds,
 separated from them by twenty yojanas. They are themselves recreation places
 of the gods, and through their mutual rivalry they spread beauty.

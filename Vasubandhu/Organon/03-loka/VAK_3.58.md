@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> अधः सहस्रैर्विंशत्या तन्मात्रोऽवीचिरस्य हि ।
->
-> तदूर्ध्वं सप्त नरकाः सर्वेऽष्टौ षोडशोत्सदाः ॥ ३.५८ ॥
+```sanskrit
+अधः सहस्रैर्विंशत्या तन्मात्रोऽवीचिरस्य हि ।
+तदूर्ध्वं सप्त नरकाः सर्वेऽष्टौ षोडशोत्सदाः ॥ ३.५८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> adhaḥ sahasrair viṃśatyā tanmātro 'vīcir asya hi /
->
-> tadūrdhvaṃ sapta narakāḥ sarve 'ṣṭau ṣoḍaśotsadāḥ // 3.58 //
+```text
+adhaḥ sahasrair viṃśatyā tanmātro 'vīcir asya hi /
+tadūrdhvaṃ sapta narakāḥ sarve 'ṣṭau ṣoḍaśotsadāḥ // 3.58 //
+```
 
 ## 3. Lexical Analysis
 
@@ -61,24 +63,15 @@ and `tat` in `tadūrdhvam` refers to Avīci.
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Twenty thousand [yojanas] beneath this [Jambūdvīpa] is Avīci, itself of that
 > same measure. Above it are seven hells. All eight have sixteen subsidiary
 > regions.
 
 ### Bhāṣya-informed study translation
 
-> Avīci lies 20,000 yojanas beneath Jambūdvīpa and itself measures 20,000
-> yojanas in both depth and breadth, placing its lower floor 40,000 yojanas
-> below the surface reference. On the principal account, seven further hells
-> are arranged successively above it: Pratāpana, Tāpana, Mahāraurava, Raurava,
-> Saṃghāta, Kālasūtra, and Saṃjīva. Another account places them at Avīci's
-> sides. All eight principal hells have sixteen subsidiary regions.
-
-The Jambūdvīpa referent, two internal dimensions, derived lower-floor depth,
-names and principal arrangement of the seven hells, alternative lateral model,
-and subsidiary structure are Bhāṣya determinations.
+> Avīci lies 20,000 yojanas below, and its extent is the same. Above it
+> are seven hells; all eight have sixteen subsidiary regions apiece.
 
 ## 6. Philosophical Translation
 
@@ -209,6 +202,10 @@ This does not replace the detailed causal analysis reserved for Karma-nirdeśa,
 but it shows that Loka's physical topology is already indexed to karmic result.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Jambūdvīpa referent, two internal dimensions, derived lower-floor depth,
+names and principal arrangement of the seven hells, alternative lateral model,
+and subsidiary structure are Bhāṣya determinations.
 
 VAK 3.58 strongly supports the thought that the Physical World is methodically
 Agential. The Kośa asks where the hells are and how large they are, but it does

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> देहा विदेहाः कुरवः कौरवाश्चामरावराः ।
->
-> अष्टौ तदन्तरद्वीपा गाठा उत्तरमन्त्रिणः ॥ ३.५६ ॥
+```sanskrit
+देहा विदेहाः कुरवः कौरवाश्चामरावराः ।
+अष्टौ तदन्तरद्वीपा गाठा उत्तरमन्त्रिणः ॥ ३.५६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> dehā videhāḥ kuravaḥ kauravāś cāmarāvarāḥ /
->
-> aṣṭau tadantaradvīpā gāṭhā uttaramantriṇaḥ // 3.56 //
+```text
+dehā videhāḥ kuravaḥ kauravāś cāmarāvarāḥ /
+aṣṭau tadantaradvīpā gāṭhā uttaramantriṇaḥ // 3.56 //
+```
 
 The Bhāṣya confirms the segmentation into eight names: Deha, Videha, Kuru,
 Kaurava, Cāmara, Avara, Gāṭha, and Uttaramantriṇa. The local witness spellings
@@ -59,21 +61,14 @@ Cāmara + Avara              → attendants of Jambūdvīpa
 
 ## 5. Translation
 
-### Close syntactic construe
-
+### Literal Translation
 > Deha, Videha, Kuru, Kaurava, Cāmara, Avara, Gāṭha, and Uttaramantriṇa are
 > their eight intermediate islands.
 
 ### Bhāṣya-informed study translation
 
-> Each of the four great continents has two attendant islands: Deha and Videha
-> belong to Pūrvavideha; Kuru and Kaurava to Uttarakuru; Gāṭha and
-> Uttaramantriṇa to Aparagodānīya; and Cāmara and Avara to Jambūdvīpa. On the
-> principal account, all eight are inhabited by humans. Another tradition says
-> that one is inhabited by rākṣasas.
-
-The exact pairings, attendant relation, habitation, and alternative rākṣasa
-report are Bhāṣya determinations.
+> Deha, Videha, Kuru, Kaurava, Cāmara, Avara, Gāṭha, and Uttaramantriṇa
+> are the eight intermediate islands.
 
 ## 6. Philosophical Translation
 
@@ -163,6 +158,9 @@ the main account silently nor licenses assigning rākṣasas to a named island
 that the source leaves unspecified.
 
 ## 9. Interpretive Note
+
+**Translation note.** The exact pairings, attendant relation, habitation, and alternative rākṣasa
+report are Bhāṣya determinations.
 
 VAK 3.56 offers a method of controlled system expansion:
 

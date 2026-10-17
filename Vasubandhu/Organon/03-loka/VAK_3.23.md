@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> वित्तिः प्राक् मैथुनात् तृष्णा भोगमैथुनरागिणः ।
->
-> उपादानं तु भोगानां प्राप्तये परिधावतः ॥ ३.२३ ॥
+```sanskrit
+वित्तिः प्राक् मैथुनात् तृष्णा भोगमैथुनरागिणः ।
+उपादानं तु भोगानां प्राप्तये परिधावतः ॥ ३.२३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vittiḥ prāk maithunāt tṛṣṇā bhogamaithunarāgiṇaḥ /
->
-> upādānaṃ tu bhogānāṃ prāptaye paridhāvataḥ // 3.23 //
+```text
+vittiḥ prāk maithunāt tṛṣṇā bhogamaithunarāgiṇaḥ /
+upādānaṃ tu bhogānāṃ prāptaye paridhāvataḥ // 3.23 //
+```
 
 The Bhāṣya identifies *vittiḥ* as the stage of Feeling.
 
@@ -49,15 +51,14 @@ upādānam tu [avasthā]
 > coupling. Appropriation is the state of one running about to attain
 > enjoyments.
 
-The Bhāṣya carries forward the capacity to discriminate the causes of the
+The Bhāṣya carries forward the capacity to know the causes of the
 three Feelings from VAK 3.22. It defines the boundary at *maithunāt* through
 the active manifestation of sexual passion, not simply the occurrence of
 physical coupling.
 
 ## 5. Translation
 
-### Close syntactic rendering
-
+### Literal Translation
 > The Feeling-stage is before sexual passion becomes active. Craving is the
 > state of one passionately attached to sensual enjoyment and sexual
 > coupling. Appropriation is the state of one running about to attain
@@ -65,12 +66,9 @@ physical coupling.
 
 ### Bhāṣya-informed study translation
 
-> Once the capacity to discriminate the causes of the three Feelings has
-> arisen, the Feeling-stage continues while sexual passion remains
-> unmanifest. Active passion for sensual enjoyments and sexual coupling is
-> called Craving, until seeking that Condition begins. The stage of one who
-> has entered the search and runs in all directions to attain the Condition
-> is called Appropriation.
+> The Feeling-stage precedes sexual coupling. Craving is the state of one
+> passionate about sensual enjoyment and sexual coupling; Appropriation is
+> the state of one who runs about to obtain enjoyments.
 
 ## 6. Philosophical Translation
 
@@ -94,7 +92,7 @@ physical coupling.
 ## 8. Logical Determination
 
 ```text
-capacity to discriminate causes of the three Feelings
+capacity to know causes of the three Feelings
     → Feeling-stage, before passion manifests
     → Craving, when passion manifests
     → Appropriation, when the search for the Condition begins
@@ -107,7 +105,7 @@ Craving supplies its motivational direction.
 
 ## 9. Interpretive Note
 
-The verse names the stages; the Bhāṣya specifies active passion and the
+**Translation note.** The verse names the stages; the Bhāṣya specifies active passion and the
 transition into search. The sought *viṣaya* is **Condition**, not Object,
 the comprehended truth of Vastu.
 
@@ -142,5 +140,5 @@ vak:AppropriationStage
     organon:extendsInAllDirections true .
 
 vak:FeelingStage
-    vak:requires vak:CauseDiscriminationCapacity .
+    vak:requires vak:CauseKnowledgeCapacity .
 ```
