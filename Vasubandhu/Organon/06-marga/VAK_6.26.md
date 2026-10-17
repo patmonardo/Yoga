@@ -102,75 +102,36 @@ This ordered relation is repeated for origin, cessation, and Path. Direct realiz
 
 ## 7. Technical Vocabulary
 
-**The Dharma pair**
+**`Dharma-jñāna` — the Dharma pair**
 
-For each Truth, the first pair concerns the desire-realm:
+Acceptance then Knowing, with desire-realm suffering as cognitive Condition for both. Named for the first knowing of the reality of the dharma (*dharmatattva*).
 
-```text
-dharmajñānakṣānti → dharmajñāna
-Acceptance         → Knowing
-```
+**`Anvaya-jñāna` — the Anvaya pair**
 
-For suffering, both moments take the same desire-realm suffering as cognitive Condition. The Bhāṣya explains the name Dharma-Knowing through its being first knowing of the truth or reality of the dharma (*dharmatattva*). This terse explanation should not be expanded here into a general metaphysics of “Dharma.”
+The same pair for the Truth in the higher domains, whose form- and formless-realm fields together form one cognitive Condition (*samastālambana*).
 
-**The Anvaya pair**
+**`Anvaya` — ordered following**
 
-The second pair concerns the corresponding Truth in the higher domains:
+*Anugamana*: the higher-domain realization follows the desire-realm realization of the same Truth. It carries one Truth across domains, not a new Truth.
 
-```text
-anvayajñānakṣānti → anvayajñāna
-Acceptance         → Knowing
-```
+**`Kṣānti` / `jñāna` — Acceptance and Knowing**
 
-For suffering, the form- and formless-domain fields are taken collectively as one cognitive Condition. The Bhāṣya calls this **samastālambana**, having a combined or total cognitive Condition.
+The invariant sequence in every pair, as flower to fruit (6.25). Their identification with uninterrupted and liberation paths belongs to 6.28.
 
-**anvaya**
+**`Anāsrava` — uncontaminated throughout**
 
-The Bhāṣya explains **anvaya** through ordered following or conformity (*anugamana*). The higher-domain realization follows in accordance with the preceding realization of the same Truth in the desire-realm:
+The whole sequence is uncontaminated; no later moment falls back into mundane cognition.
 
-```text
-first realization in the desire-realm field
-    → corresponding following-through
-    → realization in the higher-domain field
-```
-
-Anvaya does not introduce another Truth. It carries the same Truth through a change of cognitive-domain.
-
-**kṣānti and jñāna**
-
-Every domain-pair has the invariant sequence **kṣānti → jñāna**. VAK 6.25 established their genetic relation through the flower–fruit analogy; 6.26 shows that the relation governs the whole series.
-
-The present passage securely establishes succession, distinct cognitive moments, and their respective cognitive Conditions. Their later technical identification with uninterrupted path and liberation path belongs to 6.28 and is intentionally not imported into this stopping-point.
-
-**anāsrava throughout**
-
-Although 6.25 explicitly marked the first Acceptance as **anāsrava**, the Bhāṣya states that uncontaminated status is to be understood throughout the entire sequence. The following moments do not fall back into mundane cognition.
-
-**The four moments concerning suffering**
+**`Duḥkha` — the four moments concerning suffering**
 
 ```text
 1. duḥkhe dharmajñānakṣānti
-   cognitive Condition: suffering in the desire-realm
-
 2. duḥkhe dharmajñāna
-   cognitive Condition: the same desire-realm suffering
-
 3. duḥkhe anvayajñānakṣānti
-   cognitive Condition: higher-domain suffering collectively
-
 4. duḥkhe anvayajñāna
-   cognitive Condition: the same collective higher-domain suffering
 ```
 
-**Extension to the remaining Truths**
-
-The same four moments arise successively for:
-
-- origin (*samudaya*);
-- cessation (*nirodha*);
-- Path (*mārga*).
-
-For the Path Truth, the Bhāṣya specifies the desire-realm cognitive Condition as the Path counteracting desire-realm suffering. This prevents “Path” from becoming an abstract item detached from its counteractive function.
+The same four arise for origin, cessation and Path. For Path, the desire-realm Condition is the Path counteracting desire-realm suffering.
 
 ## 8. Logical Determination
 

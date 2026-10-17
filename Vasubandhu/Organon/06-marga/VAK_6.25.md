@@ -97,73 +97,29 @@ Immediately there arises a cognition of another order: uncontaminated Dharma-Acc
 
 ## 7. Technical Vocabulary
 
-**mokṣabhāgīya recapitulated**
+**`Mokṣabhāgīya` — recapitulated**
 
-The first half completes the account of the wholesome root conducive to liberation. It is:
+The wholesome root conducive to liberation: formed through hearing and reflection, expressed in bodily, verbal and mental action (principally mental), and first projected among humans on the three continents.
 
-- formed through hearing and reflection, not cultivation in the strict technical sense;
-- expressible through bodily, verbal, and mental action;
-- principally mental action;
-- first projected among humans on the three inhabited continents.
+**`Laukikāgradharma` — Highest Mundane Dharmas**
 
-The Bhāṣya says bodily and verbal actions become liberation-conducive when embraced by the resolve for liberation. The causal determination lies not in external form alone but in the aspiration governing the act.
+The final mundane preparation. Dharma-Acceptance follows immediately: the threshold from mundane to uncontaminated.
 
-**laukikāgradharma**
+**`Dharmajñānakṣānti` — Dharma-Knowing-Acceptance**
 
-The Highest Mundane Dharmas are the final mundane preparation. Their causal efficacy draws in the Path, but they remain **laukika**. The ablative construction places Dharma-Acceptance immediately after them and exposes the precise threshold:
+The kārikā's *dharmakṣānti*, already uncontaminated but not identical with the Knowing that follows it. Related to it as flower to fruit. Its cognitive Condition is desire-realm suffering.
 
-```text
-laukika → anāsrava
-mundane → uncontaminated
-preparation → realization
-```
+**`Anāsrava` — uncontaminated**
 
-**dharmajñānakṣānti**
+Without outflows. A change of order from the Highest Mundane Dharmas, not an increase of intensity.
 
-The kārikā's **dharmakṣānti** is expanded by the Bhāṣya as **dharmajñānakṣānti**, Dharma-Knowing-Acceptance. It is already uncontaminated, but it is not simply identical with the Knowing moment that follows it.
+**`Niyāmāvakrānti` — entry into determinate certainty**
 
-The Bhāṣya relates kṣānti and jñāna through the analogy of flower and fruit:
+Entry into the fixed Noble order: *samyaktva* (Nirvāṇa), *niyāma* (settled definitiveness), *avakramaṇa* (entry). Path-entry, not adoption of a correct opinion.
 
-```text
-kṣānti → jñāna
-flower → fruit
-```
+**`Āryapudgala` / `pṛthagjanatva` — Noble Person and ordinary-person status**
 
-The exact philological explanation is compressed. The safe determination here is genetic: Acceptance is the causally effective uncontaminated moment related to the succeeding Knowing, without collapsing the two functions.
-
-**Determinate cognitive Condition**
-
-The Bhāṣya immediately asks for the cognitive Condition and identifies it as suffering belonging to the desire-realm. The next verse develops the succeeding moments. The fuller designation is **duḥkhe dharmajñānakṣānti**.
-
-The detailed sequence belongs to 6.26. For the present verse, the essential point is that the first supramundane moment is not indeterminate: it has a specific Truth, domain, mode, and purity-status.
-
-**anāsrava**
-
-**Anāsrava** means uncontaminated or without outflows. This predicate distinguishes the first Dharma-Acceptance categorically from the Highest Mundane Dharmas. The transition is a change of order, not merely increased intensity within the same order.
-
-**niyāmāvakrānti**
-
-The Bhāṣya gives the first Dharma-Acceptance another designation: **niyāmāvakrānti**, entry into determinate certainty or the fixed Noble order. It analyzes the expression through:
-
-```text
-samyaktva  — rightness, identified here with Nirvāṇa
-niyāma     — settled or one-sided definitiveness
-avakramaṇa — entry into that determination
-```
-
-This is Path-entry, not merely adoption of a correct opinion.
-
-**āryapudgala and pṛthagjanatva**
-
-With the arising of this Acceptance, the practitioner is called an **āryapudgala**, a Noble Person. Before it, even the possessor of the Highest Mundane Dharmas remains a *pṛthagjana*, an ordinary person.
-
-The Bhāṣya records three analyses of what precisely displaces ordinary-person status:
-
-1. the first uncontaminated Acceptance;
-2. the Highest Mundane Dharmas, despite being mundane, because they oppose that status;
-3. both, by analogy with the uninterrupted and liberation paths.
-
-These positions should remain visible as reported alternatives. The passage does not erase their disagreement.
+The practitioner is a Noble Person from this Acceptance; before it he is still a *pṛthagjana*. The Bhāṣya reports three views on what displaces that status: this Acceptance, the Highest Mundane Dharmas, or both.
 
 ## 8. Logical Determination
 

@@ -17,6 +17,18 @@ folder, consult these load-bearing project documents:
 - `Vasubandhu/Essays/dharma-wheel-index-model.rs` — a research data model
   for representing aspects of the wheel in an index. The model is not the
   Dharma Chakra itself or a final ontology.
+- `Vasubandhu/Essays/technical-expressions-vol-i.md`,
+  `Vasubandhu/Essays/technical-expressions-vol-ii.md` and
+  `Vasubandhu/Essays/technical-expressions-vol-iii.md` — the technical
+  expression standards.
+- `Vasubandhu/Essays/logic-of-kosa-science.md`,
+  `Vasubandhu/Essays/path-of-dharma.md`,
+  `Vasubandhu/Essays/dharmadhatu-dossier.md`,
+  `Vasubandhu/Essays/dharmachakra-of-mathematics.md` and
+  `Vasubandhu/Essays/yoga-iv-11-essential-being-and-syllogism.md` — further
+  reference essays.
+- `Vasubandhu/Organon/README.md` — the format standards for kārikā and
+  Bhāṣya files.
 
 ## Indriyanirdeśa working method
 
@@ -100,8 +112,8 @@ folder, consult these load-bearing project documents:
   equate *paramārtha* with one universal Absolute, or collapse the hub into
   one dharma. Keep this synthesis in the separate Techne interpretation,
   not in source-text transcription or Lexical Analysis;
-  see `Vasubandhu/VAK/06-marga/VAK_6.04.md` and
-  `Vasubandhu/VAK/05-anusaya/VAK_5.29.md`.
+  see `Vasubandhu/Organon/06-marga/VAK_6.04.md` and
+  `Vasubandhu/Organon/05-anusaya/VAK_5.29.md`.
 - The Absolute Base spans and combines Rūpa-skandha and Dharma-skandha. This
   unity is Absolute Dharma itself, discriminating all Dharmas through Form
   and Law. Preserve both determinations within the unity; do not flatten

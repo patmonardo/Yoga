@@ -101,47 +101,29 @@ Finally, the cessation of possession must be read genetically. Regression and re
 
 ## 7. Technical Vocabulary
 
-**parihāṇi**
+**`Parihāṇi` — regression**
 
-**Parihāṇi** is regression or decline from an acquired attainment. The Bhāṣya states that it is produced by a fault or defect (*doṣakṛta*). Heat and Summit remain liable to it because they are unstable; Acceptance and the Highest Mundane Dharmas do not regress even when attained by an ordinary person.
+Decline from an attainment, produced by a fault (*doṣakṛta*). Heat and Summit are liable to it; Acceptance and the Highest Mundane Dharmas do not regress.
 
-**vihāni**
+**`Vihāni` — relinquishment**
 
-**Vihāni** is relinquishment or complete loss of possession. Unlike regression, it need not be fault-conditioned. The Bhāṣya allows it to occur through a different or superior quality-condition (*guṇaviśeṣa*), as when movement to another attainment entails leaving the prior ground.
+Complete loss of possession, not necessarily fault-conditioned: it may occur through a superior quality-condition (*guṇaviśeṣa*), as when advancing leaves the prior ground.
 
-The two forms therefore share an outcome but not necessarily an evaluation:
+**`Asamanviti` / `asamanvāgama` — non-possession**
 
-```text
-parihāṇi → defect-conditioned → non-possession
-vihāni   → may accompany transition or advancement → non-possession
-```
+No longer possessing the dharmas. This states the loss, not its cause.
 
-**asamanviti and asamanvāgama**
+**`Maula` — principal dhyāna**
 
-Both terms express no longer possessing or being endowed with the relevant dharmas. This is the intrinsic characterization of both losses. It does not by itself state why possession ceased.
+A principal dhyāna, as against preliminary or intermediate concentration. Preparation there leads necessarily to seeing the Truths in that birth, through intense urgency (*tīvra-saṃvega*).
 
-**principal dhyāna and same-life Truth-seeing**
+**`Apūrvāpti` — new acquisition**
 
-**Maula** specifies a principal dhyāna, distinguishing it from preliminary and intermediate concentration. The Bhāṣya explains that preparation on such a ground leads necessarily to seeing the Truths in that birth because of intense impetus or urgency (*tīvra-saṃvega*).
+Acquisition after loss. The reacquired preparation is numerically new.
 
-The statement assigns the preparation a determinate temporal consequence within the doctrinal conditions of the passage; it should not be generalized beyond those conditions.
+**`Ūṣmagata` — the residual consequence of Heat**
 
-**apūrvāpti**
-
-**Apūrvāpti** is new acquisition after previous loss. The reacquired preparation is numerically new. The Bhāṣya compares this to reacquiring prātimokṣa discipline through renewed effort.
-
-Thus:
-
-```text
-former preparatory dharma → ceases
-renewed conditions and effort → new preparatory dharma arises
-```
-
-**The residual consequence of Heat**
-
-The Bhāṣya adds that even one who regresses after attaining Heat is determined toward final nirvāṇa and, provided no obstacle intervenes, is nearer to seeing the Truths than one possessing only a root conducive to liberation. Loss of present possession therefore does not erase every causal consequence of the earlier attainment.
-
-This is not the survival of a permanent latent cognition. It is a changed causal orientation of the continuum.
+One who regresses after Heat is still determined toward nirvāṇa and nearer to seeing the Truths. This is a changed causal orientation, not a surviving latent cognition.
 
 ## 8. Logical Determination
 

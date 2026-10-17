@@ -103,50 +103,25 @@ The same logic enters spiritual lineage. The preparatory forms may initially be 
 
 ## 7. Technical Vocabulary
 
-**mūlaccheda**
+**`Mūlaccheda` — severance of the roots**
 
-**Mūlaccheda** is severance of the wholesome roots—non-greed, non-hatred, and non-delusion. According to the Bhāṣya, even if a Summit-attainer later regresses from that attainment, complete severance of the wholesome roots will no longer occur.
+Severance of the wholesome roots (non-greed, non-hatred, non-delusion). One who has attained Summit, even if he regresses, can no longer suffer it. Grave unwholesome action and painful rebirth remain possible.
 
-This protection is limited. The practitioner may still perform grave unwholesome actions and may still enter a painful destiny. Summit removes one destructive possibility, not every possibility of decline.
+**`Anapāyaga` — not going to a painful destiny**
 
-**anapāyaga**
+One who has attained Acceptance no longer goes to a painful destiny (*apāya*), even if Acceptance is later lost.
 
-An **apāya** is a painful destiny. One who has attained Acceptance becomes **anapāyaga**, no longer one who goes there. The Bhāṣya says this remains true even if Acceptance is subsequently lost, because the relevant karma and afflictions have been driven far away.
+**`Anutpatti-dharmatā` — incapacity to arise**
 
-Acceptance thus produces a stronger security than Summit:
+The condition in which specified futures, beginning with painful destinies, can no longer arise. Cultivated cognition changes causal possibility itself.
 
-```text
-Summit     → severance of wholesome roots becomes impossible
-Acceptance → rebirth in painful destinies becomes impossible
-```
+**`Gotra` — lineage**
 
-**anutpattidharmatā**
+Spiritual lineage or trajectory: Śrāvaka, Pratyekabuddha, or Buddha/Bodhisattva. The same preparation functions within different awakening-courses.
 
-The Bhāṣya explains Acceptance through **anutpattidharmatā**, the condition in which specified future states have become incapable of arising. Its graded account includes painful destinies and, at stronger Acceptance, further modes of birth, support, rebirth, and the afflictions abandoned by the Path of Seeing.
+**`Avivartya` — non-reversibility**
 
-The full list belongs to the Bhāṣya. Its governing point is that cultivated cognition changes causal possibility itself:
-
-```text
-Acceptance attained
-    → specified causal conditions are displaced
-    → corresponding futures can no longer arise
-```
-
-**gotra**
-
-**Gotra** is spiritual lineage, disposition, or trajectory. The Bhāṣya states that the factors conducive to penetration occur in three lineages:
-
-- Śrāvaka, the disciple trajectory;
-- Pratyekabuddha;
-- Buddha or Bodhisattva trajectory.
-
-The common formal preparation does not imply an identical telos. Gotra determines the awakening-course within which the preparation functions.
-
-**Redirection and avivartyatva**
-
-From a Śrāvaka preparation, redirection toward complete Buddhahood remains possible after Heat and Summits but not after Acceptance. The Bhāṣya reports an explanation involving the Bodhisattva's possible entry into painful destinies for others' benefit, then gives the more decisive reason: the relevant lineage has become non-reversible (*avivartya*).
-
-Redirection toward Pratyekabuddhahood remains possible after the first three preparations. The Bhāṣya adds that an established Pratyekabuddha lineage itself is not redirectable.
+A Śrāvaka may redirect toward Buddhahood after Heat and Summits but not after Acceptance, when the lineage becomes non-reversible. An established Pratyekabuddha lineage is not redirectable.
 
 ## 8. Logical Determination
 

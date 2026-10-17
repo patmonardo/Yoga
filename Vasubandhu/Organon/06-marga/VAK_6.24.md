@@ -99,69 +99,29 @@ The ordinary three-life sequence makes this architecture visible. Liberation is 
 
 ## 7. Technical Vocabulary
 
-**śāstṛ and khaḍga**
+**`Śāstṛ` / `khaḍga` — Teacher and rhinoceros-like Pratyekabuddha**
 
-**Śāstṛ**, the Teacher, designates the fully awakened Buddha. **Khaḍga** abbreviates the rhinoceros-like Pratyekabuddha (*khaḍgaviṣāṇakalpa*). According to the Bhāṣya, both produce the sequence from the penetration-conducive roots through Awakening in one sitting.
+The Teacher is the fully awakened Buddha; *khaḍga* is the rhinoceros-like Pratyekabuddha. Both complete the sequence from the penetration-conducive roots to Awakening in one sitting.
 
-**ekatrāsana**
+**`Ekatrāsana` — one seat**
 
-The Bhāṣya specifies the kārikā's **ekatra** as one and the same seat or sitting. The decisive development is uninterrupted:
+The uninterrupted sequence runs from the nirvedhabhāgīyas through the Paths of Seeing and Cultivation to Awakening. Others begin it already from contemplation of the impure.
 
-```text
-nirvedhabhāgīyas
-    → Path of Seeing
-    → Path of Cultivation
-    → final Knowledges
-    → Awakening
-```
+**`Dhyānāntya` — the fourth dhyāna**
 
-Another view, explicitly reported as belonging to “others,” begins this uninterrupted sequence already from contemplation of the impure. It should remain an attributed alternative.
+The supporting ground, for its unmoving and sharp samādhi (*aniñjya-paṭu-samādhi*).
 
-**dhyānāntya**
+**`Mokṣabhāgīya` — conducive to liberation**
 
-The supporting ground is the fourth dhyāna. The Bhāṣya explains its suitability through its unmoving and sharp samādhi (*aniñjya-paṭu-samādhi*), capable of sustaining the continuous progression.
+A wholesome root that precedes the four penetration-conducive roots. It is born of hearing and reflection; the penetration-conducive roots are born of cultivation.
 
-**mokṣabhāgīya**
+**`Mokṣābhilāṣa` — liberation-conducive action**
 
-A **mokṣabhāgīya kuśalamūla** is a wholesome root conducive to liberation. It precedes the four roots conducive to penetration:
+Bodily, verbal and mental action may all be liberation-conducive, mental action principally. Even a single gift or training rule qualifies when governed by the resolve for liberation.
 
-```text
-mokṣabhāgīya   — establishes orientation toward liberation
-nirvedhabhāgīya — prepares determinate penetration
-āryamārga       — performs supramundane penetration
-```
+**`Avatāra` / `paripāka` / `vimukti` — entry, maturation, liberation**
 
-The Bhāṣya denies that one can simply begin and produce the *nirvedhabhāgīyas* without this earlier liberative root.
-
-**Its mode of Prajñā**
-
-The liberation-conducive root is hearing-born and reflection-born, not cultivation-born in the strict technical sense. The distribution is therefore:
-
-```text
-mokṣabhāgīya    = śrutamayī + cintāmayī Prajñā
-nirvedhabhāgīya = bhāvanāmayī Prajñā
-Noble Path      = supramundane penetration
-```
-
-This distinction concerns the developmental mode of Prajñā, not separate truth-contents unrelated to one another.
-
-**Liberation-conducive action**
-
-The Bhāṣya says bodily, verbal, and mental action can participate, but mental action is primary. Bodily or verbal acts become liberation-conducive when embraced by a resolve for liberation. Even a single gift or training rule can acquire this direction through the force of aspiration for liberation (*mokṣābhilāṣa-balādhāna*).
-
-The external form of an action therefore does not alone determine its place in the Path; its governing orientation matters.
-
-**avatāra, paripāka, and vimukti**
-
-The Bhāṣya condenses the three-life sequence into a genetic triad:
-
-```text
-avatāra  — entry into the liberative Dharma-process
-paripāka — maturation of the continuum
-vimukti  — liberation as fruit
-```
-
-These occur in sequence according to the lawful nature (*dharmatā*) of the process.
+The three-life sequence: entry into the liberative Dharma-process, maturation of the continuum, liberation as fruit.
 
 ## 8. Logical Determination
 

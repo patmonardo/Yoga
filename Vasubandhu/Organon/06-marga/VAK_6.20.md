@@ -92,75 +92,29 @@ The preparations do not yet perform the Noble Path's penetration. They become it
 
 ## 7. Technical Vocabulary
 
-**nirvedha**
+**`Nirvedha` — penetration**
 
-The Bhāṣya derives **nirvedha** through √*vidh* in the sense of dividing or discriminating. It is determinate penetration by the Noble Path, characterized by two operations:
+Determinate penetration by the Noble Path: abandonment of doubt and decisive discrimination of the Four Truths. Not generic “insight.”
 
-- abandonment of doubt;
-- decisive discrimination of the Four Truths as suffering, origin, cessation, and Path.
+**`Nirvedhabhāgīya` — conducive to penetration**
 
-It should therefore not be reduced to generic “insight” or intensity of experience. Its cognition has an articulated truth-form and a specific liberating efficacy.
+The four wholesome roots (Heat, Summits, Acceptance, Highest Mundane Dharmas) bring on penetration without yet being identical with it. Heat and Summits are weak and unstable, Acceptance medium, the Highest Mundane Dharmas strongest.
 
-**nirvedhabhāgīya**
+**`Bhāvanāmayī prajñā` — cultivation-born Prajñā**
 
-The four wholesome roots are called **nirvedhabhāgīya** because they are beneficial as what brings on (*āvāhaka*) penetration. They are conducive to the breakthrough but are not yet identical with it:
+All four are produced through cultivation, not through hearing (*śrutamayī*) or reflection (*cintāmayī*).
 
-```text
-Heat
-Summits
-Acceptance
-Highest Mundane Dharmas
-    → bring on nirvedha
-```
+**`Anāgamya` / `dhyānāntara` — access and intermediate concentration**
 
-The term thus names a functional and causal orientation, not merely membership in a thematic group.
+Two of the six principal grounds, together with the four dhyānas. The roots belong to the entourage of the Path of Seeing, whose cognitive Condition is the desire-realm.
 
-**The fourfold grading**
+**`Bhadanta Ghoṣaka` — the named alternative**
 
-The Bhāṣya ranks the stages by stability:
+For Ghoṣaka, Heat and Summits have seven grounds, since they can also occur in the desire-realm.
 
-```text
-Heat + Summits            weak, unstable, liable to decline
-Acceptance                medium
-Highest Mundane Dharmas   strongest
-```
+**`Pūripūraka` / `ākṣepaka` — completing and projecting causes**
 
-These are degrees of one cultivated movement rather than four disconnected attainments.
-
-**bhāvanāmayī prajñā**
-
-All four are produced through cultivation, not through hearing or reflection. This completes the genetic distinction introduced earlier:
-
-```text
-śrutamayī   — determination acquired through hearing
-cintāmayī   — determination developed through reflection
-bhāvanāmayī — determination made operative through cultivation
-```
-
-The nirvedhabhāgīyas belong exclusively to the third mode.
-
-**The six principal grounds**
-
-The principal account locates all four stages on six grounds:
-
-1. **anāgamya** — the preliminary or access concentration before the first dhyāna;
-2. **dhyānāntara** — the intermediate concentration;
-3. first dhyāna;
-4. second dhyāna;
-5. third dhyāna;
-6. fourth dhyāna.
-
-The Bhāṣya does not place them above these grounds. They belong to the entourage of the Path of Seeing, which takes the desire-realm as its cognitive Condition; that realm must first be fully known and abandoned.
-
-**The alternative of Bhadanta Ghoṣaka**
-
-The final **vā** preserves a named alternative. For Bhadanta Ghoṣaka, the first two nirvedhabhāgīyas—Heat and Summits—have seven possible grounds because they can occur in the desire-realm as well. Acceptance and the Highest Mundane Dharmas are not included in this extension.
-
-**pūripūraka and ākṣepaka**
-
-The Bhāṣya adds that in the form realm these roots yield a five-aggregate maturation. They function as **pūripūraka**, completing causes, rather than **ākṣepaka**, causes that project a new existence. Their causal orientation opposes continued becoming (*bhava-dveṣitva*).
-
-This is a Bhāṣya determination rather than wording contained in the kārikā.
+In the form realm these roots complete a five-Base maturation but do not project a new existence. A Bhāṣya determination, not kārikā wording.
 
 ## 8. Logical Determination
 

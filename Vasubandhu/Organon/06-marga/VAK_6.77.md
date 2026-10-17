@@ -66,124 +66,38 @@ Abandonment belongs to the operative Path; liberation belongs to the actuality m
 
 ## 7. Technical Vocabulary
 
-**The obstruction is kleśa-prāpti**
+**`Kleśa-prāpti` — acquisition of the afflictions**
 
-The Bhāṣya asks what obstructs the arising Aśaikṣa mind and answers:
+The Bhāṣya names it as the obstruction (*utpatti-āvaraṇa*) to the arising of the Aśaikṣa mind. The point is not that an affliction is present as a passing mental event: its acquisition holds the continuum under the determination in which the Aśaikṣa mind cannot yet arise.
 
-```text
-kleśa-prāpti
-    acquisition or possession of the afflictions
-        = utpatti-āvaraṇa
-          obstruction to its arising
-```
+**`Vajropama-samādhi` — diamond-like concentration**
 
-The point is not merely that an affliction is present as a passing mental event. Its acquisition holds the continuum under the determination in which the Aśaikṣa mind cannot yet arise.
+The final Śaikṣa Path-moment, the maximally firm counterforce, in which the obstruction is abandoned. Its immediately following moment is the first Aśaikṣa mind.
 
-**Vajropama-samādhi**
+**`Prahāṇa` / `vimukti` — abandonment and release**
 
-The obstruction is abandoned in the diamond-like samādhi:
+The verbal distinction is exact: *mārgaḥ prajahāti*, the Path abandons; *cittaṃ vimucyate*, the mind is released. Prahāṇa is the operation removing the obstruction; vimukti is the unobstructed actuality resulting from the removal. This gives temporal precision to the fourfold Mārga of 6.65:
 
 ```text
-vajropama-samādhi
-    final Śaikṣa Path-moment
-    maximally firm counterforce
-    abandons kleśa-prāpti
+ānantarya-mārga → abandons the obstruction
+vimukti-mārga   → first arises free from it
 ```
 
-Its immediately following moment is the first Aśaikṣa mind.
+**`Jāyamāna` — arising**
 
-**Abandonment and release**
+The treatise statement cited by the Bhāṣya speaks of the future Aśaikṣa mind “while arising.” The obstructing acquisition has been abandoned, so arising is no longer prevented and the new mind arises released. Once arisen, it is already liberated; the participle marks the transition, not an incomplete degree of freedom.
 
-The verbal distinction is exact:
+**`Nirudhyamāna` — presently operative**
 
-```text
-mārgaḥ prajahāti
-    the Path abandons
+Glossed by the Bhāṣya as *vartamāna*, “while present.” It blocks the reading that the Path has already ceased and only then performs abandonment: the Path abandons in its own present moment, which is also the moment passing into cessation.
 
-cittaṃ vimucyate
-    the mind is released
-```
+**`Anāgata` / `laukika` — future and mundane minds**
 
-Therefore:
+The Bhāṣya notes that non-arising future minds and future mundane minds may also be called released from this obstruction, since what is removed is the acquisition of afflictions that would accompany and qualify them. This does not make every mundane mind of a Śaikṣa liberated: a mundane mind accompanied by kleśa-prāpti is not released in the relevant sense. The verse foregrounds the Aśaikṣa mind because its arising is the immediately determined consequence of vajropama-samādhi.
 
-```text
-prahāṇa
-    operation removing obstruction
+**`Kṣaṇika-krama` — momentary succession**
 
-vimukti
-    unobstructed actuality resulting from removal
-```
-
-This gives temporal precision to the fourfold Mārga of 6.65:
-
-```text
-ānantarya-mārga
-    abandons the obstruction
-
-vimukti-mārga
-    first arises free from it
-```
-
-**Jāyamāna: liberation while arising**
-
-The treatise statement cited by the Bhāṣya speaks of the future Aśaikṣa mind “while arising.” At this point:
-
-```text
-obstructing acquisition has been abandoned
-    → arising is no longer prevented
-    → the new mind arises released
-```
-
-Once it has arisen, the Bhāṣya says, it is already liberated. The arising participle marks the transition rather than an incomplete degree of freedom.
-
-**Nirudhyamāna means presently operative**
-
-A misleading construal would be:
-
-```text
-Path has already ceased
-    and then performs abandonment
-```
-
-Vasubandhu blocks this by glossing:
-
-```text
-nirudhyamāna
-    = vartamāna
-      while present
-```
-
-The Path abandons in its own present moment, which is also the moment passing into cessation.
-
-**Other minds released from the same obstruction**
-
-The Bhāṣya notes that non-arising future minds and future mundane minds can also be called released from this obstruction. What is removed is the acquisition of afflictions that would accompany and qualify such minds.
-
-This does not mean that every mundane mind of a Śaikṣa is already liberated. Vasubandhu distinguishes:
-
-```text
-mundane mind accompanied by kleśa-prāpti
-    not released in the relevant sense
-
-future mundane mind after that acquisition is abandoned
-    released from the same obstruction to arising
-```
-
-The verse foregrounds the Aśaikṣa mind because its arising is the immediately determined consequence of vajropama-samādhi.
-
-**Momentary succession**
-
-The analysis requires no enduring agent-substance linking the two functions:
-
-```text
-present final Path-moment
-    performs abandonment and ceases
-
-subsequent Aśaikṣa mind
-    arises unobstructed
-```
-
-Continuity is causal and dharmic: the prior operation establishes the condition under which the subsequent actuality occurs.
+The analysis needs no enduring agent-substance linking the two functions. The present final Path-moment performs abandonment and ceases; the subsequent Aśaikṣa mind arises unobstructed. Continuity is causal and dharmic: the prior operation establishes the condition under which the subsequent actuality occurs.
 
 ## 8. Logical Determination
 

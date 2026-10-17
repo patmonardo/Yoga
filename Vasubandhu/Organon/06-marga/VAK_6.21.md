@@ -104,47 +104,29 @@ Acquisition also has a history. According to the Bhāṣya, capacities first gen
 
 ## 7. Technical Vocabulary
 
-**āśraya**
+**`Āśraya` — living support**
 
-Here **āśraya** is the living psycho-physical support of the preparatory roots. All four are **kāmāśraya**, supported within the desire-realm. This does not contradict 6.20, which located their cognitive operation on concentration-grounds.
+The living psycho-physical support of the roots. All four are desire-realm supported (*kāmāśraya*), though they operate on concentration-grounds.
 
-**bhūmi**
+**`Bhūmi` — ground**
 
-**Bhūmi** is the meditative or cognitive ground upon which a root was obtained. The distinction is:
+The meditative level on which a root was obtained. A desire-realm support can sustain a cognition on a form-domain ground.
 
-```text
-āśraya — the living continuum supporting the cognition
-bhūmi  — the concentration-level on which it operates
-```
+**`Utpāda` / `saṃmukhībhāva` — first production and later manifestation**
 
-A desire-realm living support can consequently sustain a cognition belonging to a form-domain concentration-ground.
+Heat, Summits and Acceptance are first produced only among humans on the three continents, but may later become manifest among gods. The Highest Mundane Dharmas may first arise among gods.
 
-**Initial production and later manifestation**
+**`Dvayāśraya` — twofold sex-support classification**
 
-The Bhāṣya states that the first three roots—Heat, Summits, and Acceptance—initially arise only among human beings on the three inhabited continents. If produced previously, however, they may later become manifest among gods. The Highest Mundane Dharmas may first arise among gods as well.
+A received classification. The first three roots may be obtained with female or male support. The Highest Mundane Dharmas may be obtained by a woman with either support, but by a man only with male support. Local to this passage.
 
-This distinguishes:
+**`Bhūmi-saṃcāra` — moving between grounds**
 
-```text
-utpāda             — first production of the capacity
-saṃmukhībhāva      — its later presence or manifestation
-```
+A Noble practitioner loses a root only by moving to another meditative level.
 
-The capacity therefore possesses a determinate causal history; manifestation need not repeat the conditions of first acquisition.
+**`Nikāya-sabhāga-tyāga` — relinquishing class-membership**
 
-**dvayāśraya and the received sex-support classification**
-
-The Bhāṣya records a technical Abhidharma classification. The first three roots can be obtained with either female or male bodily support. For the Highest Mundane Dharmas, a woman can obtain forms related to either support, whereas a man obtains only those related to male support. The explanation invokes non-analytic cessation (*apratisaṃkhyā-nirodha*) with respect to femaleness.
-
-This is a received physiological classification local to the passage. It should be recorded accurately without being expanded into a general philosophical claim about sex or spiritual capacity.
-
-**bhūmityāga and bhūmisaṃcāra**
-
-For a Noble practitioner, relinquishment occurs through abandoning the level on which the root was acquired. The Bhāṣya explains this abandonment as **bhūmisaṃcāra**, movement to another meditative level. Apart from such a change, the Noble practitioner does not lose the root.
-
-**mṛtyu and nikāyasabhāgatyāga**
-
-The ordinary practitioner loses the roots through death, explained as relinquishing the present **nikāyasabhāga**, the current life-continuum or class-membership. The Bhāṣya says this occurs whether or not there has also been movement between meditative levels.
+An ordinary practitioner loses the roots at death, with or without a change of level.
 
 ## 8. Logical Determination
 

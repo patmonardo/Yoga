@@ -73,94 +73,35 @@ The chapter therefore ends with exact discrimination rather than an undifferenti
 
 ## 7. Technical Vocabulary
 
-**Nirveda**
+**`Nirveda` — disenchantment**
 
-The Bhāṣya states:
+The Bhāṣya assigns nirveda to the receptivities and knowledges of suffering and origin (*duḥkha-kṣānti/jñāna*, *samudaya-kṣānti/jñāna*), for an objectual reason: duḥkha and samudaya are *nirveda-vastu*, objects or bases appropriate to disenchantment. It is not irrational disgust but the discriminatively grounded reversal produced by comprehending suffering and the causal ground of its arising.
 
-```text
-duḥkha-kṣānti and duḥkha-jñāna
-samudaya-kṣānti and samudaya-jñāna
-    → nirveda
-```
+**`Duḥkha-hetu` — cause of suffering**
 
-The reason is objectual:
+The Kārikā's *duḥkha-hetu* is unpacked by the Bhāṣya as duḥkha, the Truth of suffering, and samudaya, the Truth of origination. “Cause” must retain its Truth-structural determination and not become any generic causal explanation.
 
-```text
-duḥkha and samudaya
-    are nirveda-vastu
-    objects or bases appropriate to disenchantment
-```
+**`Virāga` — dispassion**
 
-Nirveda is therefore not irrational disgust. It is the discriminatively grounded reversal produced by comprehending suffering and the causal ground of its arising.
+The Bhāṣya gives virāga a wider possible object-range but a stricter efficacy-condition: cognition of any of the Four Truths together with actual abandonment of kleśa. Seeing a Truth does not by itself make one dispassionate; the cognition must perform the Path-function of abandonment in that practitioner at that moment.
 
-**Hetu means samudaya here**
+**`Prāmodya-vastu` — object of gladness**
 
-The Kārikā’s **duḥkha-hetu** is unpacked by the Bhāṣya as:
+The receptivities and knowledges concerning cessation and Path take an object of gladness or rejoicing: nirodha as release realized as possible and actual, mārga as the effective course to it. These are not objects of disenchantment, but they can produce virāga when they abandon kleśas.
+
+**`Prahāṇa` — abandonment as efficacy**
+
+Not another affective attitude:
 
 ```text
-duḥkha
-    the Truth of suffering
-
-samudaya
-    the Truth of origination
+nirveda → orientation of turning away
+virāga  → dispassion where attachment is effectively removed
+prahāṇa → actual abandoning operation
 ```
 
-“Cause” must therefore retain its Truth-structural determination rather than becoming any generic causal explanation.
+Virāga in this passage is indexed to prahāṇa; nirveda is indexed to the object.
 
-**Virāga**
-
-The Bhāṣya gives virāga a wider possible object-range but a stricter efficacy-condition:
-
-```text
-cognition of any of the Four Truths
-    + actual abandonment of kleśa
-        → virāga
-```
-
-Accordingly:
-
-```text
-seeing a Truth
-    ≠ necessarily becoming dispassionate
-```
-
-The cognition must perform the Path-function of abandonment in that practitioner at that moment.
-
-**Nirodha and Mārga as objects of gladness**
-
-The receptivities and knowledges concerning cessation and Path take a **prāmodya-vastu**, an object of gladness or rejoicing:
-
-```text
-nirodha
-    release realized as possible and actual
-
-mārga
-    the effective course to that release
-
-together
-    not objects of disenchantment
-```
-
-They can nevertheless produce virāga when they abandon kleśas.
-
-**Prahāṇa as efficacy**
-
-Prahāṇa is not another affective attitude:
-
-```text
-nirveda
-    orientation of turning away
-
-virāga
-    dispassion where attachment is effectively removed
-
-prahāṇa
-    actual abandoning operation
-```
-
-Virāga in this passage is indexed to prahāṇa. Nirveda is indexed to the object.
-
-**The catuṣkoṭi**
+**`Catuṣkoṭi` — fourfold crossing**
 
 The two variables are:
 
@@ -183,45 +124,15 @@ Their crossing yields:
 | Both | duḥkha or samudaya | yes | disenchantment and dispassion |
 | Neither | nirodha or mārga | no | neither |
 
-This is a logical matrix of Path-functions, not a metaphysical doctrine that every proposition must have four truth-values.
+This is a logical matrix of Path-functions, not a doctrine that every proposition has four truth-values.
 
-**Why the same cognition-type may differ in efficacy**
+**`Mārga-bheda` — same cognition-type, different efficacy**
 
-The Path-position matters. The Bhāṣya illustrates cognition without new abandonment through:
+Path-position matters. The Bhāṣya illustrates cognition without new abandonment: one already dispassionate who sees the Truths without another kleśa being abandoned, and knowledges included in prayoga-, vimukti- or viśeṣa-mārga whose present function is not abandonment. A cognition's propositional object does not fix its entire practical operation.
 
-```text
-one already dispassionate
-    seeing the Truths
-    without another kleśa being abandoned
+**`Catur-vidha mārga` — the fourfold Mārga**
 
-knowledges included in
-    prayoga-mārga
-    vimukti-mārga
-    viśeṣa-mārga
-    where the present function is not abandonment
-```
-
-Thus a cognition’s propositional object does not fix its entire practical operation.
-
-**Return to the fourfold Mārga**
-
-The chapter’s final distinction reconnects with 6.65:
-
-```text
-prayoga
-    prepares abandonment
-
-ānantarya
-    performs abandonment
-
-vimukti
-    first arises free
-
-viśeṣa
-    develops freedom further
-```
-
-Only the appropriate abandoning cognition performs prahāṇa. Other Path-cognitions may know the same Truths while functioning as application, release, or further development.
+Reconnecting with 6.65: *prayoga* prepares abandonment, *ānantarya* performs it, *vimukti* first arises free, *viśeṣa* develops freedom further. Only the appropriate abandoning cognition performs prahāṇa; other Path-cognitions may know the same Truths while functioning as application, release or further development.
 
 ## 8. Logical Determination
 

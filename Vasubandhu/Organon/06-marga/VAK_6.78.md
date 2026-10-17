@@ -68,152 +68,33 @@ The plurality belongs to the relation and terminus of freedom, not to a multipli
 
 ## 7. Technical Vocabulary
 
-**Three dhātu-designations**
+**`Virāga-dhātu` / `prahāṇa-dhātu` / `nirodha-dhātu` — three domain-names**
 
-The Bhāṣya enumerates:
+The Bhāṣya enumerates three names, domains of dispassion, abandonment and cessation. All three designate one *asaṃskṛta-vimukti*, one unconditioned liberation. The difference is relational: each name specifies what the cessation is considered in relation to, and each fixes a distinct terminus. The names are not redundant.
 
-```text
-virāga-dhātu
-    domain of dispassion
+**`Dhātu` — domain, in this verse**
 
-prahāṇa-dhātu
-    domain of abandonment
+Not the eighteen cognition-domains of Chapter 1, and not Kāmadhātu, Rūpadhātu and Ārūpyadhātu as existential domains. It names a domain or elemental determination of liberation, namely unconditioned cessation classified by its terminus.
 
-nirodha-dhātu
-    domain of cessation
-```
+**`Virāga-dhātu` — domain of dispassion**
 
-All three designate:
+The Bhāṣya: *rāgasya prahāṇam*, abandonment of rāga. Virāga is therefore not an emotional attitude of detachment but the complete exhaustion (*saṃkṣaya*) of appropriating attachment.
 
-```text
-one asaṃskṛta-vimukti
-    one unconditioned liberation
-```
+**`Prahāṇa-dhātu` — domain of abandonment**
 
-Their difference is relational: each name specifies what the cessation is considered in relation to.
+Abandonment of the “others”, *rāgād anye kleśāḥ*, the afflictions other than rāga. The first two names divide afflictive abandonment according to the affliction serving as terminus.
 
-**Dhātu in this verse**
+**`Nirodha-dhātu` — domain of cessation**
 
-Here **dhātu** does not mean:
+The decisive Bhāṣya phrase is *kleśanirmuktasya vastunaḥ prahāṇam*, cessation of the basis already freed from the afflictions. **`Vastu`** is not an unspecified metaphysical thing and not the afflictions themselves; it is the conditioned basis or continuum after afflictive liberation. Virāga and prahāṇa concern the cessation of afflictions; nirodha concerns the cessation of the affliction-free conditioned basis. This is aligned with final cessation, but the immediate passage does not elaborate its temporal or cosmological mechanics.
 
-```text
-the eighteen cognition-domains of Chapter 1
+**`Eka-artha` — one reality, three names**
 
-or
+The chapter's recurring semantic form: the same underlying reality receives different names under different determinate relations. Unlike the thirty-seven-to-ten reduction, the relation here is three dhātu-names to one unconditioned liberation.
 
-Kāmadhātu, Rūpadhātu, and Ārūpyadhātu
-as existential domains
-```
+**`Saṃskṛta-vimukti` / `asaṃskṛta-vimukti` — conditioned and unconditioned liberation**
 
-It names domains or elemental determinations of liberation. The contextual determination must be preserved:
-
-```text
-liberation-dhātu
-    unconditioned cessation
-    classified by its terminus
-```
-
-**Virāga-dhātu**
-
-The Bhāṣya states:
-
-```text
-rāgasya prahāṇam
-    abandonment of rāga
-        = virāga-dhātu
-```
-
-Virāga is therefore not merely an emotional attitude of detachment. It is the complete exhaustion (**saṃkṣaya**) of appropriating attachment.
-
-**Prahāṇa-dhātu**
-
-The “others” are explicitly:
-
-```text
-rāgād anye kleśāḥ
-    afflictions other than rāga
-```
-
-Thus:
-
-```text
-abandonment of remaining kleśas
-    = prahāṇa-dhātu
-```
-
-The first two names divide afflictive abandonment according to the affliction serving as terminus.
-
-**Nirodha-dhātu**
-
-The decisive Bhāṣya phrase is:
-
-```text
-kleśanirmuktasya vastunaḥ prahāṇam
-
-cessation of the basis
-already freed from the afflictions
-```
-
-Accordingly, **vastu** is not an unspecified metaphysical thing and not the afflictions themselves. It is the conditioned basis or continuum after afflictive liberation.
-
-The analytical distinction is:
-
-```text
-afflictions cease
-    → virāga / prahāṇa determinations
-
-affliction-free conditioned basis ceases
-    → nirodha determination
-```
-
-This last member is aligned with final cessation of the conditioned basis, but the immediate passage does not further elaborate its temporal or cosmological mechanics.
-
-**One reality, three names**
-
-The classification repeats the chapter’s recurring semantic form:
-
-```text
-same underlying reality
-    receives different names
-    under different determinate relations
-```
-
-But unlike the thirty-seven-to-ten reduction, the present relation is:
-
-```text
-three dhātu-names
-    → one unconditioned liberation
-```
-
-The names are not redundant. Each fixes a distinct terminus of cessation.
-
-**Relation to conditioned liberation**
-
-VAK 6.76 distinguished:
-
-```text
-conditioned liberation
-    liberated mental actuality
-
-unconditioned liberation
-    abandonment of the afflictions
-```
-
-VAK 6.78 now articulates the unconditioned side under three terminus-relations. The Aśaikṣa mind remains conditioned; the dhātus named here are unconditioned.
-
-**Relation to VAK 6.77**
-
-```text
-6.77
-    present Path abandons the obstruction
-    Aśaikṣa mind arises released
-
-6.78
-    accomplished unconditioned liberation
-    receives three relational names
-```
-
-The verse therefore moves from the dynamic transition into release to analysis of the unconditioned cessation with which the liberated continuum stands in relation.
+6.76 distinguished liberated mental actuality (conditioned) from abandonment of the afflictions (unconditioned). 6.78 articulates the unconditioned side under three terminus-relations. The Aśaikṣa mind of 6.77 remains conditioned; the dhātus named here are unconditioned.
 
 ## 8. Logical Determination
 
