@@ -2,20 +2,15 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> निवृतात् अष्टाभ्यः तस्मात् षट् /
-> अनिवृतं तु त्रिभ्यः तस्मात् षट् /
-> तस्य नियमः तथा अरूप्ये /
-> शुभात् पुनः // २.६९ //
+> निवृतात् अष्टाभ्यः तस्मात् षट् / अनिवृतं तु त्रिभ्यः तस्मात् षट् /
+>
+> तस्य नियमः तथा अरूप्ये / शुभात् पुनः // २.६९ //
 
 ## 2. Sanskrit (IAST)
 
-> nivṛtād aṣṭābhyaḥ tasmāt ṣaṭ /
+> nivṛtād aṣṭābhyaḥ tasmāt ṣaṭ / anivṛtaṃ tu tribhyaḥ tasmāt ṣaṭ /
 >
-> anivṛtaṃ tu tribhyaḥ tasmāt ṣaṭ /
->
-> tasya niyamaḥ tathā ārūpye /
->
-> śubhāt punaḥ // 2.69 //
+> tasya niyamaḥ tathā ārūpye / śubhāt punaḥ // 2.69 //
 
 ## 3. Lexical Analysis
 

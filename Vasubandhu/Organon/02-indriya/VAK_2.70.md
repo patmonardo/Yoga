@@ -2,20 +2,15 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> नव चित्तनि तस्मात् षड्भिः /
-> निवृतात् सप्त तद् एव /
-> शैक्षं चतुर्भ्यः तस्मात् पञ्च /
-> अशैक्षं तु पञ्चकात् // २.७० //
+> नव चित्तनि तस्मात् षड्भिः / निवृतात् सप्त तद् एव /
+>
+> शैक्षं चतुर्भ्यः तस्मात् पञ्च / अशैक्षं तु पञ्चकात् // २.७० //
 
 ## 2. Sanskrit (IAST)
 
-> nava cittāni tasmāt ṣaḍbhiḥ /
+> nava cittāni tasmāt ṣaḍbhiḥ / nivṛtāt sapta tad eva /
 >
-> nivṛtāt sapta tad eva /
->
-> śaikṣaṃ caturbhyo 'smāt pañca /
->
-> aśaikṣaṃ tu pañcakāt // 2.70 //
+> śaikṣaṃ caturbhyo 'smāt pañca / aśaikṣaṃ tu pañcakāt // 2.70 //
 
 ## 3. Lexical Analysis
 

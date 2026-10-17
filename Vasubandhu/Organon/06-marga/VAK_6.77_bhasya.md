@@ -5,12 +5,10 @@ Vajropama is the last Śaikṣa instant. Not a slogan.
 ## 1. Kārikā Anchor
 
 > vimucyate jāyamānam aśaikṣaṃ cittam āvṛteḥ |
+>
 > nirudhyamāno mārgas tu prajahāti tad-āvṛtim || 6.77 ||
 
-Literal (from the kārikā study):
-
-> The Aśaikṣa mind, while arising, is released from the obstruction; but the Path,
-> while ceasing, abandons that obstruction.
+> The Aśaikṣa mind, as it arises, is freed from the obstruction: the acquisition of the afflictions, which would block its arising. The Path, while ceasing—that is, while still present as the diamond-like samādhi—abandons that obstruction. So the mind that arises is released, and once arisen it is already free.
 
 Kārikā study: [`VAK_6.77.md`](./VAK_6.77.md). Next: 6.78.
 

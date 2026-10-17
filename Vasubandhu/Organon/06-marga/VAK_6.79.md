@@ -3,11 +3,13 @@
 ## 1. Sanskrit Devanāgarī
 
 निर्विद्यते दुःखहेतुक्षान्तिज्ञानैर्विरज्यते ।
+
 सर्वैर्जहाति यैरेवं चतुष्कोटिकसम्भवः ॥ ६.७९ ॥
 
 ## 2. Sanskrit IAST
 
 nirvidyate duḥkha-hetu-kṣānti-jñānair virajyate |
+
 sarvair jahāti yair evaṃ catuṣkoṭika-saṃbhavaḥ || 6.79 ||
 
 The final verse distinguishes disenchantment from dispassion. Their relation cannot be inferred from truth-cognition alone; it depends jointly on the cognition’s object and whether that cognition actually abandons an affliction.
@@ -66,7 +68,7 @@ One becomes disenchanted through the receptivities and knowledges concerning suf
 
 ### Bhāṣya-informed study translation
 
-Disenchantment arises only through the receptivities and knowledges whose objects are suffering and origination. Dispassion can arise through receptivities and knowledges concerning any of the Four Truths, but only when those cognitions actually abandon afflictions. Consequently there can be disenchantment without dispassion, dispassion without disenchantment, both, or neither, according to object and efficacy.
+One is disenchanted only through the receptivities and knowledges of suffering and its origin, whose objects are fit for turning away. One is dispassionate through the receptivities and knowledges of all four Truths, but only through those by which one actually abandons afflictions. Thus there are four possibilities: disenchanted only, dispassionate only, both, or neither.
 
 ## 6. Philosophical Translation
 

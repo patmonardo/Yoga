@@ -2,11 +2,15 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> द्वौ हेतू पञ्च च ततः अन्याव् तु प्रत्ययौ तद्विपर्ययात् // २.६३ //
+> द्वौ हेतू पञ्च च /
+>
+> ततः अन्याव् तु प्रत्ययौ तद्विपर्ययात् // २.६३ //
 
 ## 2. Sanskrit (IAST)
 
-> dvau hetū pañca ca tataḥ anyau tu pratyayau tadviparyayāt // 2.63 //
+> dvau hetū pañca ca /
+>
+> tataḥ anyau tu pratyayau tadviparyayāt // 2.63 //
 
 ## 3. Lexical Analysis
 

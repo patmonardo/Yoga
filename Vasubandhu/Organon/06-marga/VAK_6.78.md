@@ -3,11 +3,13 @@
 ## 1. Sanskrit Devanāgarī
 
 असंस्कृतैव धात्वाख्या विरागो रागसंक्षयः ।
+
 प्रहाणधातुरन्येषां निरोधाख्यस्तु वस्तुनः ॥ ६.७८ ॥
 
 ## 2. Sanskrit IAST
 
 asaṃskṛtaiva dhātvākhyā virāgo rāgasaṃkṣayaḥ |
+
 prahāṇadhātur anyeṣāṃ nirodhākhyas tu vastunaḥ || 6.78 ||
 
 The Bhāṣya asks what distinguishes the three liberation-domains and answers that they are three names of the same unconditioned liberation, differentiated according to the terminus of cessation.
@@ -61,7 +63,7 @@ The [liberation] bearing the dhātu-designations is exclusively unconditioned. D
 
 ### Bhāṣya-informed study translation
 
-The three liberation-domains are designations of the same unconditioned liberation. It is called the domain of dispassion as abandonment of rāga; the domain of abandonment as abandonment of the remaining afflictions; and the domain of cessation as cessation of the conditioned basis already freed from those afflictions.
+The three domains are names of one liberation, and that liberation is wholly unconditioned. Dispassion is the complete exhaustion of attachment. The domain of abandonment is the abandonment of the other afflictions. The domain called cessation is the cessation of the basis already freed from those afflictions.
 
 ## 6. Philosophical Translation
 

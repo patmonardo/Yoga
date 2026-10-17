@@ -5,13 +5,10 @@ Last verse of Mārga-nirdeśa. The chapter ends on a matrix, not a mood.
 ## 1. Kārikā Anchor
 
 > nirvidyate duḥkha-hetu-kṣānti-jñānair virajyate |
+>
 > sarvair jahāti yair evaṃ catuṣkoṭika-saṃbhavaḥ || 6.79 ||
 
-Literal (from the kārikā study):
-
-> One becomes disenchanted through the receptivities and knowledges concerning
-> suffering and its cause; one becomes dispassionate through all those by which one
-> abandons. Thus a fourfold alternative is possible.
+> One is disenchanted only through the receptivities and knowledges of suffering and its origin, whose objects are fit for turning away. One is dispassionate through the receptivities and knowledges of all four Truths, but only through those by which one actually abandons afflictions. Thus there are four possibilities: disenchanted only, dispassionate only, both, or neither.
 
 Kārikā study: [`VAK_6.79.md`](./VAK_6.79.md).
 

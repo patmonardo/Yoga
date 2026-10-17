@@ -3,11 +3,13 @@
 ## 1. Sanskrit Devanāgarī
 
 विमुच्यते जायमानमशैक्षं चित्तमावृतेः ।
+
 निरुध्यमानो मार्गस्तु प्रजहाति तदावृतिम् ॥ ६.७७ ॥
 
 ## 2. Sanskrit IAST
 
 vimucyate jāyamānam aśaikṣaṃ cittam āvṛteḥ |
+
 nirudhyamāno mārgas tu prajahāti tad-āvṛtim || 6.77 ||
 
 The verse distinguishes the presently operative final Path-moment from the Aśaikṣa mind arising immediately after it. Abandonment and liberated actuality are contiguous, causally ordered, and non-identical.
@@ -59,7 +61,7 @@ The Aśaikṣa mind, while arising, is released from the obstruction; but the Pa
 
 ### Bhāṣya-informed study translation
 
-The Aśaikṣa mind, in the very process of arising, is free from the obstruction to its arising. The diamond-like final Path, while presently operative in its moment of cessation, abandons that obstruction—the acquisition of the afflictions. Once the Aśaikṣa mind has arisen, it is already liberated.
+The Aśaikṣa mind, as it arises, is freed from the obstruction: the acquisition of the afflictions, which would block its arising. The Path, while ceasing—that is, while still present as the diamond-like samādhi—abandons that obstruction. So the mind that arises is released, and once arisen it is already free.
 
 ## 6. Philosophical Translation
 

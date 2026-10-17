@@ -5,13 +5,10 @@ Not the eighteen. Not the three worlds. Termini of one End.
 ## 1. Kārikā Anchor
 
 > asaṃskṛtaiva dhātvākhyā virāgo rāgasaṃkṣayaḥ |
+>
 > prahāṇadhātur anyeṣāṃ nirodhākhyas tu vastunaḥ || 6.78 ||
 
-Literal (from the kārikā study):
-
-> The [liberation] bearing the dhātu-designations is exclusively unconditioned.
-> Dispassion is the complete exhaustion of attachment; the abandonment-domain
-> concerns the others, whereas what is called cessation concerns the basis.
+> The three domains are names of one liberation, and that liberation is wholly unconditioned. Dispassion is the complete exhaustion of attachment. The domain of abandonment is the abandonment of the other afflictions. The domain called cessation is the cessation of the basis already freed from those afflictions.
 
 Kārikā study: [`VAK_6.78.md`](./VAK_6.78.md). Next: 6.79.
 

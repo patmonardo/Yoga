@@ -2,13 +2,9 @@
 
 ## 1. Kārikā Anchor
 
-> nava cittāni tasmāt ṣaḍbhiḥ /
+> nava cittāni tasmāt ṣaḍbhiḥ / nivṛtāt sapta tad eva /
 >
-> nivṛtāt sapta tad eva /
->
-> śaikṣaṃ caturbhyo 'smāt pañca /
->
-> aśaikṣaṃ tu pañcakāt // 2.70 //
+> śaikṣaṃ caturbhyo 'smāt pañca / aśaikṣaṃ tu pañcakāt // 2.70 //
 
 > —nine minds follow formless wholesome, excluding desire wholesome and the unobscured-indeterminate of desire and form; and it follows six: its own three, form wholesome, trainee, and beyond-training. Seven follow formless obscured: its own three, form wholesome and obscured, and the two afflicted desire kinds; and it follows seven, excluding the afflicted of desire and form and the two uncontaminated. Trainee follows four, the three realm-wholesome kinds and trainee; five follow it, those four and beyond-training. Beyond-training follows that group of five. The twelve are thus complete.
 
