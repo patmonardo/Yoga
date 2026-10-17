@@ -48,7 +48,7 @@ Vitarka and vicāra are coarseness and subtlety. Conceit is elevation. Intoxicat
 
 ### Bhāṣya-informed study translation
 
-> Vitarka and vicāra are coarseness and subtlety of consciousness. Their co-presence is disputed: conditions, formations of speech, or level rather than moment. Conceit is elevation through a constructed distinction relative to another. Intoxication is the taking-over of consciousness in one attached to one's own qualities. The first distinction is not settled.
+> Vitarka and vicāra are coarseness and subtlety of consciousness: vitarka is its coarseness, vicāra its subtlety. Conceit is elevation of consciousness through a constructed distinction relative to another. Intoxication is the taking-over of consciousness in one attached precisely to one's own qualities.
 
 ## 6. Philosophical Translation
 

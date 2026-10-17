@@ -6,7 +6,7 @@
 >
 > daurmanasyam upekṣā tu madhyā ubhayī avikalpanāt // 2.08 //
 
-> Elsewhere agreeable mental feeling is gladness. Disagreeable mental feeling is distress. Neutral feeling is the middle, of both kinds, and remains one faculty because the neutral operation does not split. Pleasure and pain divide by mode; neutral feeling does not.
+> Elsewhere, outside the third dhyāna, that agreeable mental feeling is gladness. Disagreeable mental feeling, in turn, is distress. Neutral feeling, neither agreeable nor disagreeable, is the middle; it is of both kinds, bodily and mental, yet one faculty, because in remaining neutral there is no difference between them.
 
 ## 2. Continuous Sanskrit Witness
 

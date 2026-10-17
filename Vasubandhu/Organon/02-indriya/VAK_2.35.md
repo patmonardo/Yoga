@@ -48,7 +48,7 @@ The dissociated formations, now: acquisition and non-acquisition, commonality, ﾄ
 
 ### Bhﾄ≪ｹ｣ya-informed study translation
 
-> The dissociated formations are acquisition and non-acquisition, commonality, ﾄ《a盪ニﾃｱika, the two attainments, life, the marks, and the groups of names and so forth. They are called dissociated because they are not associated with consciousness and are not form. They remain formations. The members are named, not defined.
+> The dissociated formations are acquisition and non-acquisition, commonality, ﾄ《a盪ニﾃｱika, the two attainments, life, the marks, and the groups of names and the rest. They are called dissociated because they are not associated with consciousness and do not have the nature of form.
 
 ## 6. Philosophical Translation
 

@@ -47,7 +47,7 @@ Two causes perform activity toward the ceasing. Three, toward the arising. The o
 
 ### Bhāṣya-informed study translation
 
-> Two causes act toward the present directed to cessation. Three toward the future directed to arising. Antecedent gives an opening toward arising. Object is present apprehension. Predominance is non-obstruction in every state. Target is not the cause.
+> Two causes perform their activity toward ceasing, the present: the co-arisen and the associated, whose operation is on a fruit arisen together with them. Three do so toward arising, the future: the homogeneous, the pervasive, and the maturation cause. The other conditions act by the reverse. The immediately antecedent acts toward arising, by giving an opening; the object-condition acts toward ceasing, because present mind and factors apprehend. The predominant condition stands in every state, by non-obstruction.
 
 ## 6. Philosophical Translation
 

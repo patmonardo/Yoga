@@ -6,7 +6,7 @@
 >
 > duḥkhe ca hitvā ārūpyāptaṃ sukhe cāpohya rūpi ca // 2.12 //
 
-> Realm-connection is a further axis. The stainless triad is unconnected with all three. The rest are desire-realm-connected. Form excludes sexual differentiation and the two painful faculties. Formless excludes the pleasant faculties and everything that possesses form, leaving only mind, life, neutral feeling, and the five that equip the path. A higher conditioned realm is not stainless.
+> Excluding the stainless triad, which is connected with no realm, the faculties are connected with the desire realm. Excluding also the female and male faculties and the two painful faculties, pain and distress, they are connected with the form realm. Excluding in addition the two pleasant faculties and whatever possesses form, they are connected with the formless realm: mind, life, neutral feeling, and the five beginning with faith, and no others.
 
 ## 2. Continuous Sanskrit Witness
 

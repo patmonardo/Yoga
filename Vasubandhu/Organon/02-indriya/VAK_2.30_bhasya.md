@@ -6,7 +6,7 @@
 >
 > middhaṃ sarvāvirodhitvād yatra syād adhikaṃ hi tat // 2.30 //
 
-> In obscured-indeterminate consciousness, eighteen. The view does not add. In the other indeterminate, twelve. Torpor is compatible with wholesome, unwholesome, and indeterminate, and is additional wherever it occurs. Compatibility is not presence.
+> In the obscured-indeterminate, eighteen: the ten universal, the six of the affliction great ground, and vitarka and vicāra; the view adds none. In the other, unobscured indeterminate, twelve are accepted: the ten universal with vitarka and vicāra. Torpor is incompatible with none of these, being wholesome, unwholesome, or indeterminate; wherever it occurs it is additional, and twenty-two becomes twenty-three.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -46,7 +46,7 @@ Indeterminate in the desire realm, fourfold: maturation-born, deportment, craft,
 
 ### Bhāṣya-informed study translation
 
-> Having divided carries over. Avyākṛta is unobscured-indeterminate. Not the obscured. Creation is supernormal, not ordinary construction.
+> The unobscured-indeterminate mind in the desire realm is fourfold: maturation-born, deportment, craft, and creation. In the form realm it is without craft, and so threefold; in the formless these activities are absent. These are mental cognitions; the five sensory cognitions prepare deportment and craft, and the creation-mind is the supernormal one.
 
 ## 6. Philosophical Translation
 

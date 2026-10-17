@@ -4,7 +4,7 @@
 
 > dvau hetū pañca ca tataḥ anyau tu pratyayau tadviparyayāt // 2.63 //
 
-> Two causes act toward the present directed to cessation. Three toward the future directed to arising. Antecedent gives an opening toward arising. Object is present apprehension. Predominance is non-obstruction in every state. Target is not the cause.
+> Two causes perform their activity toward ceasing, the present: the co-arisen and the associated, whose operation is on a fruit arisen together with them. Three do so toward arising, the future: the homogeneous, the pervasive, and the maturation cause. The other conditions act by the reverse. The immediately antecedent acts toward arising, by giving an opening; the object-condition acts toward ceasing, because present mind and factors apprehend. The predominant condition stands in every state, by non-obstruction.
 
 ## 2. Continuous Sanskrit Witness
 

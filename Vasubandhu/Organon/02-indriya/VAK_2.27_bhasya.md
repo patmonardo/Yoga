@@ -6,7 +6,7 @@
 >
 > māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
 
-> These ten belong to the limited-affliction ground. They are associated only with ignorance that is abandonable through cultivation and of the mental sphere. The five classes have been stated. Others remain unfixed. The ground does not force the ten to co-occur.
+> Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions, being associated only with ignorance that is to be abandoned by cultivation and belongs to the mental sphere. These are five classes of mental factors; there are also others, unfixed: initial examination, sustained examination, regret, and torpor.
 
 ## 2. Continuous Sanskrit Witness
 

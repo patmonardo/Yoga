@@ -43,7 +43,7 @@ Same-class is sameness among beings. The non-reflective among the non-reflective
 
 ### Bhāṣya-informed study translation
 
-> Same-class is sameness among beings. On the Vaibhāṣika account it is an entity; the sūtra says the word, not a distinct real. The formations as constituted take the designation. The non-reflective is cessation of consciousness and the mental factors, maturation of the attainment, a region of the Great Fruit. Reflective at birth and at death. Not unconscious.
+> Same-class is sameness among beings. The non-reflective, among the non-reflective, is the cessation of consciousness and the mental factors, a maturation of the attainment. Those so born are the Great Fruit; they are reflective at birth and at death, and the arising of reflection ends their stay.
 
 ## 6. Philosophical Translation
 

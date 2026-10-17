@@ -6,7 +6,7 @@
 >
 > janyasya janikā jātir na hetupratyayair vinā // 2.46 //
 
-> The primary marks, being conditioned, have secondary marks. Primary operate on eight, secondary on one. No regress. Arising generates only with causes and conditions. The power seen is the conjunction, on the critical account. The genitive does not prove a second entity. The marks are maintained as real. Not settled.
+> The primary marks, being conditioned, have marks of their own: arising-of-arising and the rest. The primary marks operate on eight dharmas, the secondary on one, so that no regress arises. Arising is the generator of what is to be generated, and generates it only with causes and conditions.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -6,7 +6,7 @@
 >
 > rūpārūpyeṣv akuśalād ṛte anāsravaṃ dvidhā // 2.66 //
 
-> Twelve kinds of mind. Desire four. Form and formless three each, no unwholesome. Uncontaminated twofold, trainee and beyond-training. Succession is not yet.
+> Mind is of twelve kinds. In the desire realm it is fourfold: wholesome, unwholesome, obscured-indeterminate, and unobscured-indeterminate. In the form realm it is threefold, without the unwholesome, and likewise in the formless. These ten are contaminated. Uncontaminated mind is twofold: trainee and beyond-training.
 
 ## 2. Continuous Sanskrit Witness
 

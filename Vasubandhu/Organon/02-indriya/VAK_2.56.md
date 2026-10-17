@@ -46,7 +46,7 @@ Maturation-fruit of the last. Predominance of the first. Homogeneous outflow of 
 
 ### Bhāṣya-informed study translation
 
-> The last has maturation-fruit. The first has predominance. Homogeneous and pervasive have homogeneous outflow. The two, co-arisen and associated, have efficacy. Not exclusive. Efficacy is a figure, not Puruṣa. Distant crop is not settled.
+> The last has maturation as its fruit; the first has the fruit born of predominance, which is its very non-obstruction. The homogeneous and the pervasive have homogeneous outflow as their fruit. The two, the co-arisen and the associated, have the fruit of efficacy: the activity a dharma performs, called a person's activity by resemblance.
 
 ## 6. Philosophical Translation
 

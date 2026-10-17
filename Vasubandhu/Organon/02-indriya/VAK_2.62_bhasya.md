@@ -6,7 +6,7 @@
 >
 > sarve dharmā ālambanāḥ kāraṇākhyo 'dhipaḥ smṛtaḥ // 2.62 //
 
-> Antecedent is arisen citta-caitta, not final, whole complex of next. Not own-kind. Object is all dharmas as appropriate. Predominant is the conditioning cause. Future-knowledge is not settled.
+> The immediately antecedent condition is arisen mind and mental factors other than the final, excluding an arhat's final mind and factors: the whole complex is the condition of the next whole complex. The object-condition is all dharmas, as appropriate: visible form for eye-cognition, all dharmas for mental cognition. What is named the conditioning cause is held to be the predominant condition.
 
 ## 2. Continuous Sanskrit Witness
 

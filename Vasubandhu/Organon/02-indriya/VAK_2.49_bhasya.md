@@ -6,7 +6,7 @@
 >
 > sarvatrago vipākākhyaḥ ṣaḍvidho hetur iṣyate // 2.49 //
 
-> Cause is held to be sixfold: conditioning, co-arisen, homogeneous, associated, pervasive, and maturation. Conditioning is all other than itself, by non-obstruction toward what is arising. A principal conditioning cause can also produce. Non-obstruction is not productive agency. The conditioning cause has been explained.
+> Cause is held to be sixfold: conditioning, co-arisen, homogeneous, associated, pervasive, and that called maturation. The conditioning cause is every dharma other than itself, by non-obstruction toward what is arising; a principal conditioning cause, such as eye and visible form, food, or seed, may also produce.
 
 ## 2. Continuous Sanskrit Witness
 

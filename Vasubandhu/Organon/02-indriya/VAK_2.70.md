@@ -61,7 +61,7 @@ Nine minds. That, from six. From obscured, seven. That, likewise. Trainee from f
 
 ### Bhāṣya-informed study translation
 
-> Formless wholesome followed by nine, follows six. Formless obscured followed by seven, follows seven. Trainee follows four, followed by five. Beyond-training follows five, followed by four. Twelve complete.
+> —nine minds follow formless wholesome, excluding desire wholesome and the unobscured-indeterminate of desire and form; and it follows six: its own three, form wholesome, trainee, and beyond-training. Seven follow formless obscured: its own three, form wholesome and obscured, and the two afflicted desire kinds; and it follows seven, excluding the afflicted of desire and form and the two uncontaminated. Trainee follows four, the three realm-wholesome kinds and trainee; five follow it, those four and beyond-training. Beyond-training follows that group of five. The twelve are thus complete.
 
 ## 6. Philosophical Translation
 

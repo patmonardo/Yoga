@@ -6,7 +6,7 @@
 >
 > vartamānātītau dvau eko 'tītaḥ prayacchati // 2.59 //
 
-> Five take while present. Two give present. Two give present or past. Maturation gives past only. Taking is seed-status, not a store. Taking does not imply giving.
+> Five causes, while present, take their fruit; a cause takes its fruit by assuming seed-status toward it. Two give it while present; two give it while present or past; and one, the maturation cause, gives it only when past.
 
 ## 2. Continuous Sanskrit Witness
 

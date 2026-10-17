@@ -49,7 +49,7 @@ Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation, al
 
 ### Bhāṣya-informed study translation
 
-> These six occur always and only in afflicted consciousness. Delusion is ignorance, heedlessness is non-cultivation of the wholesome, laziness is absence of arousal. The ten-recitation includes afflicted modes of the universal ten; they are not a second class. In unwholesome consciousness shamelessness and lack of moral caution are invariably present. Designation follows whichever predominates.
+> Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation occur always, and only, in afflicted consciousness. Delusion is ignorance; heedlessness is the non-cultivation of wholesome dharmas; laziness is the absence of energetic arousal; lack of faith is the absence of clarity; sluggishness is the unworkability of body and consciousness; agitation is the non-pacification of consciousness. In unwholesome consciousness, shamelessness and lack of moral caution are invariably present.
 
 ## 6. Philosophical Translation
 

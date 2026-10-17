@@ -6,7 +6,7 @@
 >
 > prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // 2.71 //
 
-> The four close the twelve. The twenty are not completed by this cut alone. Three wholesome kinds become six. That is fifteen. The rest is the next verse.
+> Four minds follow beyond-training: the wholesome of the three realms, and beyond-training itself. These twelve are made twenty by dividing the wholesome mind of the three realms twofold: the application-produced, and that obtained through birth. The two are alternatives; no single kind is both.
 
 ## 2. Continuous Sanskrit Witness
 

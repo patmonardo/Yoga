@@ -46,7 +46,7 @@ Groups of names and the rest are collections of designations, sentences, and pho
 
 ### Bhāṣya-informed study translation
 
-> Groups of names, sentences, and phonetic elements. A name makes a designation. A sentence completes a meaning. A phonetic element is the audible minimum. Desire and form realms, classed with the sentient being who signifies. Homogeneous outflows, unobscured-indeterminate. Others place them in the formless, inexpressible. Succession pressures a single name-entity. They maintain the groups. Not settled.
+> The groups of names and the rest are collections of designation, sentence, and phonetic element: a name makes a designation, a sentence completes a meaning, and a phonetic element is the audible minimum. They are included in the desire and form realms, classed with the sentient being who signifies, and are homogeneous outflows, unobscured-indeterminate.
 
 ## 6. Philosophical Translation
 

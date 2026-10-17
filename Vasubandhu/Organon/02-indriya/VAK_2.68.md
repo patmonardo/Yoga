@@ -47,7 +47,7 @@ Unobscured from five. Immediately after it, seven minds. In the form realm, elev
 
 ### Bhāṣya-informed study translation
 
-> Desire unobscured follows five, followed by seven. Form wholesome followed by eleven, follows nine. Excludes formless unobscured.
+> The desire-realm unobscured-indeterminate follows five: the four of its own level and form wholesome, from which the mind of supernormal creation arises. Seven follow it: the four of its own level; form wholesome, after the creation-mind; form obscured, at rebirth-linking; and formless obscured, at rebirth-linking. In the form realm, eleven follow the wholesome, all but the formless unobscured-indeterminate; and it follows nine, excluding the two afflicted desire kinds and the formless unobscured-indeterminate.
 
 ## 6. Philosophical Translation
 

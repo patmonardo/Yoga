@@ -47,7 +47,7 @@ Pervasive and homogeneous range over two times. Three range over three times. Th
 
 ### Bhāṣya-informed study translation
 
-> Pervasive and homogeneous are past and present. Co-arisen, associated, and maturation are three times. Conditioning is all times and dissociated from time. The fruit is the conditioned and disconnection. Disconnection is a fruit of the Path and not its product. Entity or absence is not settled. Not nirodha of virodha.
+> The pervasive and the homogeneous range over two times, past and present. The co-arisen, the associated, and the maturation cause range over three. The conditioning cause is of all times and dissociated from time. The fruit is the conditioned together with disconnection, cessation by Discrimination; these causes do not have the unconditioned as their fruit. The Path produces the acquisition and brings one to disconnection, without being its cause.
 
 ## 6. Philosophical Translation
 

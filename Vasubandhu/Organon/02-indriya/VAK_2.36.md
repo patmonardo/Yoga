@@ -47,7 +47,7 @@ And the groups of names and so forth. Acquisition is obtaining and possession. A
 
 ### Bhāṣya-informed study translation
 
-> Acquisition is obtaining and continued possession of what belongs to one's own continuum, and of the two cessations. Not of another's, not of the non-sentient, not of space. The dispute whether it is a distinct real or a designation from seed-capacity is not settled. Non-acquisition is the reverse.
+> And the groups of names and the rest. Acquisition is obtaining and possession: obtaining what was not obtained or had been relinquished, and possessing what has been obtained. Acquisition and non-acquisition concern what belongs to one's own continuum, and the two cessations; not what belongs to another, nor the non-sentient, nor space.
 
 ## 6. Philosophical Translation
 

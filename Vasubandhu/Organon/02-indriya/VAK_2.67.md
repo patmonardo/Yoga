@@ -50,7 +50,7 @@ In the desire realm, nine minds from a wholesome mind. That, only from eight. Un
 
 ### Bhāṣya-informed study translation
 
-> Desire wholesome followed by nine, follows eight. Asymmetry is formless obscured. Formless wholesome excluded by four remotenesses. Unwholesome and obscured follow ten, followed by four.
+> In the desire realm, nine minds follow a wholesome mind: the four of its own level; two of the form realm, wholesome at entry into attainment and obscured at rebirth-linking; formless obscured, at rebirth-linking; and trainee and beyond-training. Formless wholesome does not follow it, being too remote by the four remotenesses of support, aspect, object, and counteragent. That wholesome mind itself follows only eight: the four of its own level; form wholesome, at emergence; form obscured, when one pressed by an afflicted attainment resorts to the wholesome supporting level; and trainee and beyond-training, at emergence. Unwholesome mind follows ten, excluding trainee and beyond-training, by rebirth-linking after all form and formless minds; four follow it, of its own level only. The obscured is likewise: it follows ten, and four follow it.
 
 ## 6. Philosophical Translation
 

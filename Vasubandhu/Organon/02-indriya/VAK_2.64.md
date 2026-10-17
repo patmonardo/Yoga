@@ -51,7 +51,7 @@ Mind and the mental factors, through four. The pair of attainments, through thre
 
 ### Bhāṣya-informed study translation
 
-> Mind and factors through four. Pair of attainments through three, no object. Others through two. Not from one world-cause; succession is the reason. Named Puruṣa is the proposal and stays enclosed. Karma is births, not every event.
+> Mind and the mental factors arise through four conditions: the five causes as cause-condition, the preceding mind and factors as immediately antecedent, the object as appropriate, and every other dharma as predominant. The pair of attainments arises through three, having no object. The others, dissociated and form, arise through two: cause-condition and predominant condition. Nothing arises from Īśvara, Puruṣa, Pradhāna, or the like as one cause of the whole world: a single sufficient cause would yield the world at once, whereas succession is observed. Beings' own actions generate them in their births.
 
 ## 6. Philosophical Translation
 

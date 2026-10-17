@@ -6,7 +6,7 @@
 >
 > pṛthagjanatvaṃ tatprāptibhūsaṃcārād vihīyate // 2.40 //
 
-> Non-acquisition of realm-included and uncontaminated dharmas is also threefold by realm, and is never itself uncontaminated. Non-acquisition of the path is held to be ordinary-person status. It is relinquished by acquisition of that path, or by transition of ground. The critical account takes an ordinary continuum as one in which noble dharmas have not yet arisen. Not settled.
+> Non-acquisition of dharmas included in the desire realm and the rest, and of the uncontaminated, is likewise threefold by realm, and is never itself uncontaminated. Non-acquisition of the path is held to be ordinary-person status. That status is relinquished by the acquisition of the path, or by transition of ground.
 
 ## 2. Continuous Sanskrit Witness
 

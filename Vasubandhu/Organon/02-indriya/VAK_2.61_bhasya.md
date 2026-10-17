@@ -6,7 +6,7 @@
 >
 > catvāraḥ pratyayā uktāḥ hetvākhyaḥ pañca hetavaḥ // 2.61 //
 
-> Four conditions named. Cause-condition is five causes, not the conditioning cause. Associated exclusion is a different question. Other three named, not defined.
+> Mind and the mental factors are alike, and the others too, excluding the associated cause. Four conditions are taught in the sūtra: the cause-condition, the immediately antecedent condition, the object-condition, and the predominant condition. Of these, the one named cause is the five causes, the five apart from the conditioning cause.
 
 ## 2. Continuous Sanskrit Witness
 

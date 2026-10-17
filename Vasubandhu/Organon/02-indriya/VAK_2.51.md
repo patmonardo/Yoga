@@ -45,7 +45,7 @@ The mental factors, the two restraints, and the marks of those and of consciousn
 
 ### Bhāṣya-informed study translation
 
-> Followers of consciousness are the mental factors, the two restraints, and the marks of those and of consciousness, in ten respects. Fifty-eight out, fifty-four in. Fourteen refused. Co-arisen is wider than the co-arisen cause. Simultaneous causation is not settled.
+> The mental factors, the two restraints, and the marks of those and of consciousness are followers of consciousness, by time, result, and the rest, and by wholesomeness and the rest: together with it in arising, persistence, cessation, and period; in result, maturation, and homogeneous outflow; and in ethical status.
 
 ## 6. Philosophical Translation
 

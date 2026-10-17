@@ -48,7 +48,7 @@ Life is lifespan, the support of warmth and cognition. The marks, in turn, are a
 
 ### Bhāṣya-informed study translation
 
-> Life is lifespan, the support of warmth and cognition. Not a distinct entity against the projected duration of the group same-class. Death is fourfold: exhaustion of lifespan, of merit, of both, or through harm. The marks are arising, aging, persistence, and impermanence. The sūtra says three. The critical account takes them as marks of the stream. Not settled.
+> Life is lifespan, the support of warmth and cognition: when lifespan, warmth, and cognition leave the body, it lies cast aside like senseless wood. The marks, in turn, are arising, aging, persistence, and impermanence.
 
 ## 6. Philosophical Translation
 

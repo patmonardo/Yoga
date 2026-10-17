@@ -6,7 +6,7 @@
 >
 > vipākaṃ sarvagaṃ hitvā tau sabhāgaṃ ca śeṣajāḥ // 2.60 //
 
-> Four classes by exclusion. Afflicted omit maturation. Maturation-born omit pervasive. Remaining omit both. First uncontaminated also omits homogeneous, and is not causeless. Form and dissociated also omit associated. None from one cause.
+> Four classes are distinguished: the afflicted, the maturation-born, the first uncontaminated, and the remaining. The afflicted arise from five causes, excluding maturation. The maturation-born arise from five, excluding the pervasive. The remaining arise from four, excluding those two. The first uncontaminated arises from three, excluding those two and the homogeneous. These counts are of mind and the mental factors; form, and what is dissociated from mind, are likewise, but without the associated cause. No dharma arises from one cause alone.
 
 ## 2. Continuous Sanskrit Witness
 

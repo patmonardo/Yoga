@@ -10,7 +10,7 @@
 >
 > śubhāt punaḥ // 2.69 //
 
-> Form obscured follows eight, followed by six. Form unobscured follows three, followed by six. Same pattern in formless. From wholesome, however—
+> Form obscured follows eight, setting aside the two afflicted desire kinds and trainee and beyond-training; six follow it: the three of its own level and the desire kinds other than unobscured-indeterminate. Form unobscured follows only the three of its own level; six follow it: those three, the two afflicted desire kinds, and formless obscured. The same rule holds in the formless: three of its own level come before it, and six after, its own three and the afflicted of the lower realms. From wholesome, however—
 
 ## 2. Continuous Sanskrit Witness
 

@@ -46,7 +46,7 @@ Brings to cessation, at death in the formless realm, life, mind, and neutral fee
 
 ### Bhāṣya-informed study translation
 
-> Cessation at death is not the inverse of first acquisition. In the formless, life, mind, and neutral feeling cease. In the form realm, eight. In the desire realm, ten, nine, or eight according to sexual characteristic. Gradual death ceases only body, life, mind, and neutral feeling. A wholesome mind adds the five beginning with faith. These do not cease separately.
+> One dying in the formless realm brings to cessation life, mind, and neutral feeling. In the form realm, eight: those three and the five beginning with the eye. In the desire realm, ten, nine, or eight, according to sexual characteristic: ten with both sex faculties, nine with one, eight with neither.
 
 ## 6. Philosophical Translation
 

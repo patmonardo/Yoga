@@ -6,7 +6,7 @@
 >
 > navāptir antyaphalayoḥ saptāṣṭanavabhir dvayoḥ // 2.16 //
 
->> The extreme fruits are attained through nine. Stream-entry takes the five beginning with faith, excluding one who has known, with mind and neutral feeling. Arhatship takes the five, excluding “I shall know,” with mind and any one feeling. The middle fruits take seven, eight, or nine according to route. Eleven is not a simultaneous count. It is one person attaining again across different feelings.
+> The extreme fruits are attained through nine. Stream-entry takes the five beginning with faith, excluding one who has known, with mind and neutral feeling. Arhatship takes the five, excluding “I shall know,” with mind and any one feeling. The middle fruits take seven, eight, or nine according to route. Eleven is not a simultaneous count. It is one person attaining again across different feelings.
 
 The first half was translated with the death unit in 2.15. This study is the fruit question. The opening of the next verse answers the eleven: arhatship is nevertheless said to be attained through eleven, because that is possible for one person. Possession is not this unit.
 

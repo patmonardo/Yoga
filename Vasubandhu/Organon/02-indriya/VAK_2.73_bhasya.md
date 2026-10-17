@@ -6,7 +6,7 @@
 >
 > trayāṇāṃ rūpaje śaikṣe caturṇāṃ tasya śeṣite // 2.73 //
 
-> Back to the twelve. Acquisition, not succession. Two belongs to formless afflicted. Three belongs to form wholesome. The remainder is that mind itself.
+> When an afflicted mind of the three realms is manifest, acquisition is of six, of six, and of two. With the desire afflicted, six: desire wholesome, by restoration of wholesome roots through doubt and by return; desire unwholesome and obscured, and form afflicted, by return and by decline; formless afflicted and trainee, by decline. With the form afflicted, six: the three form kinds and desire unobscured, by return; formless afflicted and trainee, by decline. With the formless afflicted, two: itself and trainee, by decline. With form wholesome, three: itself, and desire and form unobscured. With trainee, four: itself, desire and form unobscured, and formless wholesome, on dispassion from desire and form by the path. With the rest, acquisition is of that mind itself, and of no other.
 
 ## 2. Continuous Sanskrit Witness
 

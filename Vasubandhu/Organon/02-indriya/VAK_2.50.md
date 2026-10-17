@@ -45,7 +45,7 @@ Other than itself, the conditioning cause. Co-arisen: those that are mutually re
 
 ### Bhāṣya-informed study translation
 
-> Co-arisen causes are those that are mutually results. The four great elements, of one another. Consciousness and its followers, both ways. The marks and the marked, both ways. A dharma is co-arisen cause of its secondary marks; they are not of it. Mutual result is not simultaneity.
+> The conditioning cause is what is other than itself. Co-arisen causes are those that are mutually results: the four great elements, of one another; consciousness, of the dharmas that follow it, and they of it; the marks, of the marked, and it of them. Even without mutual result, a dharma is a co-arisen cause of its secondary marks, though they are not of it.
 
 ## 6. Philosophical Translation
 

@@ -6,7 +6,7 @@
 >
 > āsaṃjñikaṃ samāpattī jīvitaṃ lakṣaṇāni ca // 2.35 //
 
-> The dissociated formations are acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, the marks, and the groups of names and so forth. They are called dissociated because they are not associated with consciousness and are not form. They remain formations. The members are named, not defined.
+> The dissociated formations are acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, the marks, and the groups of names and the rest. They are called dissociated because they are not associated with consciousness and do not have the nature of form.
 
 ## 2. Continuous Sanskrit Witness
 

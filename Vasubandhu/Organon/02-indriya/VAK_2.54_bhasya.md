@@ -6,7 +6,7 @@
 >
 > vipākahetur aśubhāḥ kuśalāś caiva sāsravāḥ // 2.54 //
 
-> Pervasive is prior, own level, of later afflicted, other class allowed. The list is deferred. Maturation is unwholesome and wholesome with influx. Indeterminate are weak. Uncontaminated are not moistened by craving. Ripening is disputed. The cause depends on a series.
+> The cause called pervasive is the prior pervasive dharmas of a level, for the afflicted dharmas that follow them on their own level, even of another class. The maturation cause is the unwholesome and the wholesome with influx; indeterminate dharmas are too weak to mature, and uncontaminated ones are not moistened by craving.
 
 ## 2. Continuous Sanskrit Witness
 

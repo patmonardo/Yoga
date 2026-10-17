@@ -6,7 +6,7 @@
 >
 > kāmarūpāśraye bhūte nirodhākhyādito nṛṣu // 2.44 //
 
-> For the Sage, acquired with awakening, not beforehand. Both attainments arise with a desire- or form-realm support. The attainment of cessation is first produced among humans, and later in the form realm only by those who had lost it. Loss is required; otherwise the Udāyin sūtra is contradicted. The names follow the preparation, not the range of the cessation. Return of consciousness is disputed. Designation from non-operation is not accepted.
+> For the Sage the two attainments are acquired with awakening, and not before it, since awakening is reached in thirty-four moments. Both arise when a desire- or form-realm support is present. The attainment called cessation is first produced among humans; later, in the form realm, it is produced only by one who had lost it.
 
 ## 2. Continuous Sanskrit Witness
 

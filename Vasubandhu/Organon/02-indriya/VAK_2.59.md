@@ -50,7 +50,7 @@ Five, present, take the fruit. Two give. Two, present and past. One, past, gives
 
 ### Bhāṣya-informed study translation
 
-> Five take while present. Two give present. Two give present or past. Maturation gives past only. Taking is seed-status, not a store. Taking does not imply giving.
+> Five causes, while present, take their fruit; a cause takes its fruit by assuming seed-status toward it. Two give it while present; two give it while present or past; and one, the maturation cause, gives it only when past.
 
 ## 6. Philosophical Translation
 
