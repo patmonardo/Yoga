@@ -40,31 +40,39 @@ production-in-a-domain construction supplies its locative function.
 
 ## 4. Grammar
 
-**The two domains are identified by the prose.**
-Dhātvor … dvayoḥ is one discontinuous phrase.
-The commentary names form and formless domains;
-it does not mean any arbitrary pair drawn
-from the three-domain classification of 8.37.
+The first production statement names two domains; the second elides production and contrasts its conditions. The Bhāṣya fixes the domains as form and formless and makes `tābhyām` refer to the two powers, not the domains.
 
-**Production is the first clause's subject.** Ārūpyotpādanam
-is qualified by the domain phrase and explained
-by hetukarmabalāt. Here ārūpya refers to formless
-samāpattis, not merely the production of a
-cosmological region without reference to attainment.
+```nltk-fcfg
+% start S
+# tokens: hetukarmabalāt dhātvoḥ ārūpyotpādanam dvayoḥ ∅-rūpadhātuḥ ∅-ārūpyadhātuḥ dhyānānām ∅-utpādanam rūpadhātau tu tābhyām dharmatayā api ca
+S -> CL[K=formlessproduction] CL[K=dhyanaproduction]
 
-**The second line supplies an elliptical production statement.**
-Dhyānānām depends on the understood utpādanam:
-“production of dhyānas.” Rūpadhātau supplies its
-support domain. Tābhyām refers back to causal
-power and karmic power, not to the two domains.
+CL[K=formlessproduction] -> ABL[CAUSE=?cause] N[CASE=?c,NUM=?n,GEN=?g,DOMAIN=?d] N[CASE=nom,NUM=sg,GEN=n,EVENT=formless] NUMR[CASE=?c,NUM=?n,GEN=?g] N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose] N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose]
+CL[K=dhyanaproduction] -> N[CASE=gen,NUM=pl,GEN=n,EVENT=dhyana] N[SUPPLIED=prose,EVENT=production] N[CASE=loc,NUM=sg,GEN=m,DOMAIN=form] PTCL[CONTRAST=yes] PRON[CASE=ins,NUM=du,GEN=n,REF=twopowers] N[CASE=ins,NUM=sg,GEN=f,CAUSE=regularity] PTCL[ADDITIVE=yes] CONJ[ADDITIVE=yes]
 
-**Dharmatā adds an explanatory route.** Api ca
-adds dharmatā to the two previously named powers
-for dhyāna production in the form domain.
-The verse does not require all three powers
-to operate jointly in every instance; the
-prose assigns the additional route a particular context.
+ABL[CAUSE=power] -> 'hetukarmabalāt'
+N[CASE=loc,NUM=du,GEN=m,DOMAIN=two] -> 'dhātvoḥ'
+N[CASE=nom,NUM=sg,GEN=n,EVENT=formless] -> 'ārūpyotpādanam'
+NUMR[CASE=loc,NUM=du,GEN=m] -> 'dvayoḥ'
+N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-rūpadhātuḥ'
+N[CASE=loc,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-ārūpyadhātuḥ'
+N[CASE=gen,NUM=pl,GEN=n,EVENT=dhyana] -> 'dhyānānām'
+N[SUPPLIED=prose,EVENT=production] -> '∅-utpādanam'
+N[CASE=loc,NUM=sg,GEN=m,DOMAIN=form] -> 'rūpadhātau'
+PTCL[CONTRAST=yes] -> 'tu'
+PRON[CASE=ins,NUM=du,GEN=n,REF=twopowers] -> 'tābhyām'
+N[CASE=ins,NUM=sg,GEN=f,CAUSE=regularity] -> 'dharmatayā'
+PTCL[ADDITIVE=yes] -> 'api'
+CONJ[ADDITIVE=yes] -> 'ca'
+```
 
+```nltk-dep
+'ārūpyotpādanam' -> 'hetukarmabalāt' | 'dhātvoḥ' | 'dvayoḥ' | '∅-rūpadhātuḥ' | '∅-ārūpyadhātuḥ'
+'∅-utpādanam' -> 'dhyānānām' | 'rūpadhātau' | 'tu' | 'tābhyām' | 'dharmatayā' | 'api' | 'ca'
+```
+
+`Dhātvoḥ` is interpreted locatively here.
+`Dharmatā` adds a route for dhyāna production at cosmic contraction, not a universal third condition; production of an attainment is distinct from a rebirth event.
 **Close construe.** In the two domains, form
 and formless, formless attainments are produced through
 causal and karmic power. In the form domain,

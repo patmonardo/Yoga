@@ -40,29 +40,33 @@ utthāpaka` yields `vijñaptyutthāpaka`; `dvitīya +
 
 ## 4. Grammar
 
-**A relative-correlative construction.** `Yat … tat`
-links the knowledge specified in the first half to
-its level and ethical classification in the second.
-The final `tat` resumes the same subject. The singular
-form does not collapse the three sensory kinds into
-one undifferentiated knowledge-body.
+The relative and correlative clauses agree in number and gender: the same Cognition belongs to the first-dhyāna level and is ethically indeterminate. The Bhāṣya locates this operation in higher-level rebirth, not an uninterrupted higher-dhyāna sitting.
 
-**A shared final member.** The prose expands the
-first compound as eye-, ear-, and body-knowledge,
-changing the order without changing membership. The
-knowledge initiating vijñapti is added separately.
+```nltk-fcfg
+% start S
+# tokens: kāyākṣiśrotravijñānam vijñaptyutthāpakaṃ ca yat dvitīyādau ∅-upapattiṣu tadādyāptam akliṣṭāvyākṛtam ca tat
+S -> CL[K=relative,CASE=?c,NUM=?n,GEN=?g] CL[K=correlative,CASE=?c,NUM=?n,GEN=?g]
+CL[K=relative,CASE=?c,NUM=?n,GEN=?g] -> N[CASE=?c,NUM=?n,GEN=?g] ADJ[CASE=?c,NUM=?n,GEN=?g,ROLE=manifestation] CONJ[COORD=yes] REL[CASE=?c,NUM=?n,GEN=?g]
+CL[K=correlative,CASE=?c,NUM=?n,GEN=?g] -> LOC[CASE=loc,NUM=sg,GEN=n] N[CASE=loc,NUM=pl,GEN=f,SUPPLIED=prose] ADJ[CASE=?c,NUM=?n,GEN=?g,LEVEL=first,REF=relative] ADJ[CASE=?c,NUM=?n,GEN=?g,ETHICS=indeterminate] CONJ[COORD=yes] PRON[CASE=?c,NUM=?n,GEN=?g,REF=relative]
+N[CASE=nom,NUM=sg,GEN=n] -> 'kāyākṣiśrotravijñānam'
+ADJ[CASE=nom,NUM=sg,GEN=n,ROLE=manifestation] -> 'vijñaptyutthāpakaṃ'
+CONJ[COORD=yes] -> 'ca'
+REL[CASE=nom,NUM=sg,GEN=n] -> 'yat'
+LOC[CASE=loc,NUM=sg,GEN=n] -> 'dvitīyādau'
+N[CASE=loc,NUM=pl,GEN=f,SUPPLIED=prose] -> '∅-upapattiṣu'
+PRON[CASE=nom,NUM=sg,GEN=n,REF=relative] -> 'tat'
+ADJ[CASE=nom,NUM=sg,GEN=n,LEVEL=first,REF=relative] -> 'tadādyāptam'
+ADJ[CASE=nom,NUM=sg,GEN=n,ETHICS=indeterminate] -> 'akliṣṭāvyākṛtam'
+PRON[CASE=nom,NUM=sg,GEN=n,REF=relative] -> 'tat'
+```
 
-**The first means the first dhyāna.** `Ādya` must be
-read through `prathamadhyānabhūmika` in the commentary.
-“Belonging to the first-dhyāna level” is more precise
-than an unspecified origin or merely loose association.
+```nltk-dep
+'tadādyāptam' -> 'kāyākṣiśrotravijñānam' | 'vijñaptyutthāpakaṃ' | 'ca' | 'yat' | 'dvitīyādau' | '∅-upapattiṣu'
+'tat' -> 'tadādyāptam' | 'akliṣṭāvyākṛtam' | 'ca'
+```
 
-**Rebirth supplies the scope.** The prose speaks of
-those reborn there and denies that the relevant
-knowledges are `svabhūmika`, of their own level.
-The locative is therefore not sufficient grounds
-for asserting sensory operation within an uninterrupted
-second-, third-, or fourth-dhyāna attainment.
+The commentary supplies “reborn there” and specifies the first-dhyāna level: non-native does not mean inoperative. It is undefiled because passion is absent, not wholesome because it is inferior; this ethical classification is not neutral feeling or the uncontaminated mode.
+
 
 **Close construe.** In the second and subsequent dhyāna
 rebirths, the body-, eye-, and ear-knowledge, together
@@ -153,58 +157,115 @@ knowledge is universally unwholesome.
 
 ## 8. Logical Determination
 
-**The objection inherited from VAK 8.12.** If the
-second and higher levels lack the three knowledge-bodies
-and vitarka/vicāra, how can beings reborn there see,
-hear, touch, and initiate manifestation? The question
-tests the scope of the preceding level classification.
+The verse answers the objection inherited from VAK 8.12 by separating two
+relations that the objection runs together: a cognition's native level, and
+its operation by a being reborn at a level. Provenance tags: `[verse]`,
+`[prose]`, and a theory name for each attributed position. Constants are ASCII
+and longer than one letter (NLTK reads `d1` as a variable).
 
-**The answer distinguishes membership from operation.**
+**Signature.** `Higher(l)` (second, third, fourth), `Covered(k)` (body-, eye-
+and ear-Cognition and the Cognition initiating manifestation), `Native(k,l)`
+(`k` belongs to level `l` as its own), `LevelOf(k,l)` (the level the Bhāṣya
+assigns `k`), `ReachedAt(b,l)` (being `b` is reborn at `l`), `Brought(b,k)`
+(`b` brings `k` into operation), `Operates(b,k)`, `FreeOfPassion(k)`,
+`Inferior(k,l)` (`k` is inferior relative to level `l`), `Defiled(k)`,
+`Wholesome(k)`, `Neutral(k)` (unobstructed-neutral).
 
-| Determination | Bhāṣya answer |
-|---|---|
-| Rebirth of the beings under discussion | Second, third, or fourth dhyāna |
-| Level of the relevant operative knowledge | First dhyāna |
-| How it functions for those beings | They bring it into operation |
-| Functions named | Seeing, hearing, touching, initiating manifestation |
-| Ethical classification | Unobstructed-neutral |
+**Composition (`yat … tat`).** The relative–correlative pair of §4 is a
+restricted universal: `yat` supplies the restrictor, `tat` the scope.
 
-The answer is neither total sensory incapacity nor
-the production of sensory knowledge native to each
-higher level. The source explicitly supplies a first-dhyāna
-operation.
+```nltk-sem
+# lexicon SEM
+yat…tat           : \P.\Q.all x.(P(x) -> Q(x))
+yat (restrictor)  : \x.Covered(x)
+tat (scope)       : \x.(LevelOf(x,first) & Neutral(x))
+# beta-reduction (checked in NLTK):
+all x.(Covered(x) -> (LevelOf(x,first) & Neutral(x)))
+```
 
-**Ethical classification has two reasons.**
+**Theories (never merged).**
 
-| Excluded classification | Reason supplied | Scope retained in this study |
-|---|---|---|
-| Defiled | Freedom from passion | Relative to the lower level concerned |
-| Wholesome | Inferiority | The lower knowledge in this higher-level use |
+```nltk-fol
+# THEORY shared
+# [prose, from 8.12] the three bodies are not found at second and higher
+Higher(second)
+all k.all l.((Higher(l) & Covered(k)) -> -Native(k,l))
+# the objection's data: a being reborn at second sees (Covered), and operates it
+ReachedAt(b2,second)
+Covered(sight)
+Operates(b2,sight)
 
-The source positively identifies unobstructed-neutral
-knowledge. Its inferiority is relative in the argument;
-it does not redefine wholesome first-dhyāna knowledge
-as impossible for all beings.
+# THEORY objection
+# bridge assumed by the question: whatever a being operates is native to its level
+all b.all k.all l.((ReachedAt(b,l) & Operates(b,k)) -> Native(k,l))
 
-**The analogy is attributed to the commentary.**
-The Bhāṣya introduces nirmāṇacitta as a comparison.
-The kārikā itself states the first-level affiliation
-and neutral character without that illustration.
-The analogy does not make ordinary seeing or hearing
-a magical creation.
+# THEORY answer
+# [verse] tadādyāptam: the Cognition belongs to the first-dhyāna level
+all k.(Covered(k) -> LevelOf(k,first))
+# [prose] ∅-upapattiṣu: reborn there, they bring it into operation
+all b.all k.((Brought(b,k) & Covered(k)) -> Operates(b,k))
+Brought(b2,sight)
+# [verse] akliṣṭāvyākṛtam, with the Bhāṣya's two reasons
+all b.all k.((Brought(b,k) & Covered(k)) -> (-Defiled(k) & Neutral(k)))
+all k.((Covered(k) & FreeOfPassion(k)) -> -Defiled(k))
+all b.all k.all l.((Brought(b,k) & ReachedAt(b,l) & Inferior(k,l)) -> -Wholesome(k))
+```
 
-**Continuity with the feeling analysis.** VAK 8.12's
-absence of the relevant knowledge-body at a higher
-level was a statement about level membership. This
-verse explains how first-level knowledge can nevertheless
-become operative for beings reborn there. The rebirth
-inventory should therefore not be read as an exhaustive
-denial of every event involving another level's knowledge.
+**Results (NLTK).**
+- *Objection.* `shared` plus `objection` is contradictory (`ResolutionProver`):
+  the shared data give a higher-level being operating `sight` while `Native` is
+  denied at that level, yet the bridge demands it. The question's force is
+  genuine; the contradiction is in the bridge, not in the facts.
+- *Answer.* `shared` plus `answer` is satisfiable, and the finite model below
+  is the proof of that: it makes every `shared` and `answer` rule true and the
+  `objection` bridge false. The verse removes the bridge, not the 8.12 facts.
+  The answer also derives `Operates(b2,sight)` (`TableauProver` and
+  `ResolutionProver` agree).
+- *Native versus operated.* `LevelOf(sight,first)` with `Native(sight,first)`
+  and no native standing at `second` is exactly “non-native does not mean
+  inoperative”.
 
-**Local closure.** `Avasitaṃ dhyānakāryam` concludes
-the present treatment of dhyāna. It does not end
-Chapter 8. The next question concerns acquisition
-of the pure and other dhyānas and formless attainments.
+**Facts (a model of `shared` plus `answer`).** The being `b1` is a
+first-level being with its own wholesome sight, included to show the
+inferiority rule does not overreach.
+
+```nltk-valuation
+first => first
+second => second
+b1 => b1
+b2 => b2
+sight => sight
+sight1 => sight1
+Higher => {second}
+ReachedAt => {(b1,first), (b2,second)}
+Covered => {sight, sight1}
+Operates => {(b1,sight1), (b2,sight)}
+Brought => {(b2,sight)}
+Native => {(sight,first), (sight1,first)}
+LevelOf => {(sight,first), (sight1,first)}
+FreeOfPassion => {sight}
+Inferior => {(sight,second)}
+Defiled => {}
+Neutral => {sight}
+Wholesome => {sight1}
+```
+
+In this model `sight1` is wholesome and first-level, and nothing excludes it:
+the inferiority rule fires only on `Brought(b,k) & ReachedAt(b,l) &
+Inferior(k,l)`, so it is relative to this higher-level use and does not make
+wholesome first-dhyāna Cognition impossible for any being.
+
+**Scope cautions.**
+- The nirmāṇacitta comparison (“as with a mind for magical creation”) is the
+  Bhāṣya's illustration. It is not a rule: nothing asserts that ordinary seeing
+  or hearing is created.
+- The Defiled exclusion is by `FreeOfPassion`; the Wholesome exclusion is by
+  inferiority at the level of use. The two reasons are separate rules and
+  neither implies the other.
+- `Avasitaṃ dhyānakāryam` closes the treatment of dhyāna only. No rule
+  closes Chapter 8; the next question concerns acquisition.
+- 8.12's denial is about level membership (`Native`). It is not an
+  exhaustive denial of every event involving another level's Cognition.
 
 ## 9. Interpretive Note
 

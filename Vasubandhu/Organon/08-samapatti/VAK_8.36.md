@@ -46,37 +46,43 @@ the prose's svabhūmika, “belonging to one's own level.”
 
 ## 4. Grammar
 
-**The total is partitioned into eight and two.**
-Daśa kṛtsnāni supplies an implicit “there are.”
-Aṣṭau then selects the first eight. Dve
-introduces the final two, with both following
-dual expressions referring to that pair.
+The tenfold subject is divided into the first eight and the final two; level and object are separate predicates. The Bhāṣya identifies `antye` as the fourth dhyāna and distributes each of the last pair's object-fields to its own level.
 
-**Non-greed is a nature-predicate.** Alobhāḥ does
-not merely say that practitioners ought to avoid
-greed while undertaking the exercises. The Bhāṣya
-explicitly supplies alobhasvabhāvāni: the first eight
-have non-greed as their nature.
+```nltk-fcfg
+% start S
+# tokens: daśa kṛtsnāni ∅-kṛtsnāyatanāni alobhāṣṭau ∅-prathamāni dhyāne antye gocaraḥ punaḥ kāmāḥ ∅-rūpāyatanam dve śuddhākārūpye svacatuḥskandhagocare
+S -> CL[K=total] CL[K=eight] CL[K=object] CL[K=two]
 
-**The last dhyāna means the fourth exclusively.**
-Dhyāne 'ntye qualifies the first eight. The
-prose's caturtha eva dhyāne removes any ambiguity
-about whether “last” might mean the final
-formless attainment or a practitioner's latest session.
+CL[K=total] -> NUMR[CASE=?c,NUM=?n,GEN=?g] N[CASE=?c,NUM=?n,GEN=?g] N[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose]
+CL[K=eight] -> ADJ[CASE=?c,NUM=?n,GEN=?g,NATURE=nongreed] N[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose] N[CASE=?d,NUM=?m,GEN=?h] ADJ[CASE=?d,NUM=?m,GEN=?h]
+CL[K=object] -> N[CASE=?c,NUM=sg,GEN=m,ROLE=field] ADV[CONTRAST=yes] N[CASE=?c,NUM=pl,GEN=m,ROLE=object] N[CASE=?c,NUM=sg,GEN=n,SUPPLIED=prose]
+CL[K=two] -> NUMR[CASE=?c,NUM=?n,GEN=?g] ADJ[CASE=?c,NUM=?n,GEN=?g,QUALITY=pure] ADJ[CASE=?c,NUM=?n,GEN=?g,ROLE=ownlevelobject]
 
-**Object and level are separate predicates.** Gocaraḥ
-punaḥ kāmāḥ turns from the attainment's level
-to its object. Fourth-dhyāna location and desire-domain
-visible objects can therefore be asserted together.
-Neither statement replaces the other.
+NUMR[CASE=nom,NUM=pl,GEN=n] -> 'daśa'
+N[CASE=nom,NUM=pl,GEN=n] -> 'kṛtsnāni'
+N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] -> '∅-kṛtsnāyatanāni'
+ADJ[CASE=nom,NUM=pl,GEN=n,NATURE=nongreed] -> 'alobhāṣṭau'
+N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] -> '∅-prathamāni'
+N[CASE=loc,NUM=sg,GEN=n] -> 'dhyāne'
+ADJ[CASE=loc,NUM=sg,GEN=n] -> 'antye'
+N[CASE=nom,NUM=sg,GEN=m,ROLE=field] -> 'gocaraḥ'
+ADV[CONTRAST=yes] -> 'punaḥ'
+N[CASE=nom,NUM=pl,GEN=m,ROLE=object] -> 'kāmāḥ'
+N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-rūpāyatanam'
+NUMR[CASE=nom,NUM=du,GEN=n] -> 'dve'
+ADJ[CASE=nom,NUM=du,GEN=n,QUALITY=pure] -> 'śuddhākārūpye'
+ADJ[CASE=nom,NUM=du,GEN=n,ROLE=ownlevelobject] -> 'svacatuḥskandhagocare'
+```
 
-**Own level is distributive across the final pair.**
-Svacatuḥskandhagocare assigns each totality the four
-Bases of its respective level. It does
-not place both totalities in one common level
-or say that both take the same individual
-mental event as their object.
+```nltk-dep
+'kṛtsnāni' -> 'daśa' | '∅-kṛtsnāyatanāni'
+'alobhāṣṭau' -> '∅-prathamāni' | 'dhyāne' | 'antye'
+'gocaraḥ' -> 'punaḥ' | 'kāmāḥ' | '∅-rūpāyatanam'
+'dve' -> 'śuddhākārūpye' | 'svacatuḥskandhagocare'
+```
 
+`Alobhāṣṭau` assigns non-greed as nature, not as an injunction; `kāmāḥ` is narrowed by prose to visible form (one view assigns wind a tactile object).
+`Śuddha` does not mean *anāsrava*, and neither field is a claim of omniscience.
 **Close construe.** There are ten totalities. The
 first eight have non-greed as nature and occur
 in the last dhyāna; their object-field is

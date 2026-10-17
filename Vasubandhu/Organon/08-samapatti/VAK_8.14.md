@@ -41,30 +41,37 @@ routes as alternatives, not as jointly required causes.
 
 ## 4. Grammar
 
-**The subject restricts the rule.** `Atadvān` means
-one not endowed with the relevant attainment. The
-prose supplies `asamanvāgata`. This is current non-possession,
-not necessarily never having possessed it: acquisition
-can include reacquisition after loss.
+The acquisition clauses share their overt subject and finite verb, while their three objects differ in mode; the prose fixes the direction of rebirth and excludes the summit.
 
-**The subject and verb continue.** The Bhāṣya explicitly
-carries `atadvān labhate` into both the uncontaminated
-and defiled clauses. An impersonal statement that
-“attainments arise only by these causes” would lose
-this restriction.
+```nltk-fcfg
+% start S
+# tokens: atadvān labhate śuddhaṃ vairāgyeṇopapattitaḥ anāsravaṃ tu vairāgyāt kliṣṭaṃ hānyupapattitaḥ
+S -> SUBJ[CASE=nom,NUM=?n,GEN=?g] V[PERS=3,NUM=?n,TENSE=pres,VOICE=mid] CL[K=pure] CL[K=uncontaminated] CL[K=defiled]
+CL[K=pure] -> OBJ[CASE=acc,NUM=sg,GEN=n,MODE=pure] CAUSE[ROUTE=or]
+CL[K=uncontaminated] -> OBJ[CASE=acc,NUM=sg,GEN=n,MODE=uncontaminated] PTCL[CONTRAST=yes] CAUSE[ROUTE=dispassion]
+CL[K=defiled] -> OBJ[CASE=acc,NUM=sg,GEN=n,MODE=defiled] CAUSE[ROUTE=decline_or_rebirth]
+SUBJ[CASE=nom,NUM=sg,GEN=m] -> 'atadvān'
+V[PERS=3,NUM=sg,TENSE=pres,VOICE=mid] -> 'labhate'
+OBJ[CASE=acc,NUM=sg,GEN=n,MODE=pure] -> 'śuddhaṃ'
+CAUSE[ROUTE=or] -> 'vairāgyeṇopapattitaḥ'
+OBJ[CASE=acc,NUM=sg,GEN=n,MODE=uncontaminated] -> 'anāsravaṃ'
+PTCL[CONTRAST=yes] -> 'tu'
+CAUSE[ROUTE=dispassion] -> 'vairāgyāt'
+OBJ[CASE=acc,NUM=sg,GEN=n,MODE=defiled] -> 'kliṣṭaṃ'
+CAUSE[ROUTE=decline_or_rebirth] -> 'hānyupapattitaḥ'
+```
 
-**Three objects, qualified by mode.** Śuddha, anāsrava,
-and kliṣṭa qualify the dhyāna or ārūpya being acquired.
-They are not three successive levels. The established
-restriction on uncontaminated attainment at bhavāgra
-must remain in force.
+```nltk-dep
+'labhate' -> 'atadvān' | 'śuddhaṃ' | 'anāsravaṃ' | 'kliṣṭaṃ'
+'śuddhaṃ' -> 'vairāgyeṇopapattitaḥ'
+'anāsravaṃ' -> 'tu' | 'vairāgyāt'
+'kliṣṭaṃ' -> 'hānyupapattitaḥ'
+```
 
-**Rebirth needs its prose determination.** The verse's
-`upapattitaḥ` does not itself specify direction. For
-the pure case the running prose gives
-`adhobhūmyupapattitaḥ`, through rebirth at a lower
-level. For the defiled case it explicitly says rebirth
-from a higher level into a lower one.
+The three modes qualify objects, not successive levels. Upapattitaḥ is an alternative
+route, not an additional cause: prose specifies lower-level rebirth for pure attainment
+and higher-to-lower rebirth for defiled attainment. The shared verb preserves the
+non-possessor restriction; uncontaminated acquisition is by dispassion.
 
 **Close construe.** One not possessing the relevant
 attainment acquires its pure mode through dispassion

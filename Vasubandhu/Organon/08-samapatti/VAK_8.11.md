@@ -36,28 +36,33 @@ in discussion without replacing the verse's `āniñja`.
 
 ## 4. Grammar
 
-**A causal predication.** `Caturthakam` supplies
-`dhyānam`; `āniñjam` is its predicate. The ablative
-abstract gives the reason: freedom from eight disturbances.
-The prose contrasts the first three dhyānas, described
-as subject to movement because disturbances remain.
+The causal ablative predicates immovability of the fourth dhyāna. The Bhāṣya expands the compressed duals and the open `sukhādi` list; an alternative explanation is not substituted for this eight-member account.
 
-**Two, two, and four.** The two duals and the collective
-`catuṣṭayam` enumerate the eight. `Vitarkacārau` is
-resolved as `vitarkavicārau`; `śvāsau` as śvāsa and
-praśvāsa. Neither compressed expression names only
-one item.
+```nltk-fcfg
+% start S
+# tokens: aṣṭāpakṣālamuktatvāt āniñjam tu caturthakam vitarkacārau śvāsau ca sukhādi ca catuṣṭayam
+S -> CL[K=predicate] CL[K=disturbances]
+CL[K=predicate] -> ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=freedom] ADJ[CASE=nom,NUM=sg,GEN=n,STATE=immovable] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=n,REF=fourth]
+CL[K=disturbances] -> N[CASE=nom,NUM=du,GEN=m,COUNT=two] N[CASE=nom,NUM=du,GEN=m,COUNT=two] CONJ[COORD=yes] ADJ[COUNT=four] CONJ[COORD=yes] N[CASE=nom,NUM=sg,GEN=n,COUNT=four]
+ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=freedom] -> 'aṣṭāpakṣālamuktatvāt'
+ADJ[CASE=nom,NUM=sg,GEN=n,STATE=immovable] -> 'āniñjam'
+PTCL[CONTRAST=yes] -> 'tu'
+N[CASE=nom,NUM=sg,GEN=n,REF=fourth] -> 'caturthakam'
+N[CASE=nom,NUM=du,GEN=m,COUNT=two] -> 'vitarkacārau'
+N[CASE=nom,NUM=du,GEN=m,COUNT=two] -> 'śvāsau'
+CONJ[COORD=yes] -> 'ca'
+ADJ[COUNT=four] -> 'sukhādi'
+CONJ[COORD=yes] -> 'ca'
+N[CASE=nom,NUM=sg,GEN=n,COUNT=four] -> 'catuṣṭayam'
+```
 
-**The open compound is closed by commentary.**
-`Sukhādi` means beginning with sukha, but does not by
-itself identify the other three. The prose supplies
-duḥkha, saumanasya, and daurmanasya. This prevents
-substituting a generic list of four pleasurable states.
+```nltk-dep
+'āniñjam' -> 'aṣṭāpakṣālamuktatvāt' | 'tu' | 'caturthakam'
+'catuṣṭayam' -> 'vitarkacārau' | 'śvāsau' | 'ca' | 'sukhādi' | 'ca'
+```
 
-**Order does not alter membership.** The verse places
-the breaths before the fourfold group; the prose lists
-vitarka/vicāra, the four feelings, then the breaths.
-Both yield the same eight members.
+The verse's duals remain single compound leaves; commentary resolves `vitarkacārau` as vitarka/vicāra and `śvāsau` as both breaths. The four beginning with pleasure are pleasure, pain, pleasant-mindedness, and displeasure—not four agreeable states.
+
 
 **Close construe.** The fourth dhyāna, however, is
 immovable because it is free from eight disturbances:

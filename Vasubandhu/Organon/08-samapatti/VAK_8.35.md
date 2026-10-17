@@ -42,30 +42,46 @@ generic claim of purity.
 
 ## 4. Grammar
 
-**An eightfold subject with three comparative predicates.**
-Abhibhvāyatanāni aṣṭau supplies an implicit “are.”
-The following clauses distribute the eight into
-2 + 2 + 4 through comparisons with releases.
-They do not identify all eight with one release.
+The neuter total is distributed through a collective singular, a dual, and the remaining plural. The commentarial 2 + 2 + 4 count and its contrast between turning away and mastery are represented explicitly.
 
-**Collective singular and numerical dual.** Dvayam
-presents the first pair as a unit. Dve then
-selects the third and fourth members, as the
-prose explicitly confirms. Anyāni gives the remainder;
-its number is four by the total and commentary.
+```nltk-fcfg
+% start S
+# tokens: abhibhvāyatanāny aṣṭau dvayam ādyavimokṣavat dve dvitīyavat ∅-vimokṣaḥ anyāni ∅-catvāri punaḥ śubhavimokṣavat ∅-vaimukhyamātram ∅-ālambanābhibhavanam ∅-yatheccham ∅-kleśānutpādaḥ
+S -> CL[K=total] CL[K=firstpair] CL[K=secondpair] CL[K=remaining] CL[K=distinction]
 
-**The comparisons are not assertions of identity.**
-The suffix -vat means “like.” Dvitīyavat supplies
-vimokṣa by ellipsis. The concluding prose specifies
-precisely why correspondence with releases does not
-make the two practice classifications interchangeable.
+CL[K=total] -> N[CASE=?c,NUM=?n,GEN=?g] NUMR[CASE=?c,NUM=?n,GEN=?g]
+CL[K=firstpair] -> N[CASE=nom,NUM=sg,GEN=n,COUNT=pair] COMP[LIKE=first]
+CL[K=secondpair] -> NUMR[CASE=nom,NUM=du,GEN=n] COMP[LIKE=second] N[CASE=nom,NUM=sg,GEN=m,SUPPLIED=prose]
+CL[K=remaining] -> PRON[CASE=?c,NUM=?n,GEN=?g] NUMR[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose] ADV[ORDER=remaining] COMP[LIKE=beautiful]
+CL[K=distinction] -> N[SUPPLIED=prose,CONTRAST=release] N[SUPPLIED=prose,CONTRAST=mastery] ADV[SUPPLIED=prose] N[SUPPLIED=prose,RESULT=yes]
 
-**Punaḥ marks the remaining group.** It does not
-instruct the practitioner to repeat the beautiful
-release after each of the preceding Essences of mastery.
-This verse classifies rather than prescribing an
-invariable temporal sequence of exercises.
+N[CASE=nom,NUM=pl,GEN=n] -> 'abhibhvāyatanāny'
+NUMR[CASE=nom,NUM=pl,GEN=n] -> 'aṣṭau'
+N[CASE=nom,NUM=sg,GEN=n,COUNT=pair] -> 'dvayam'
+COMP[LIKE=first] -> 'ādyavimokṣavat'
+NUMR[CASE=nom,NUM=du,GEN=n] -> 'dve'
+COMP[LIKE=second] -> 'dvitīyavat'
+N[CASE=nom,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-vimokṣaḥ'
+PRON[CASE=nom,NUM=pl,GEN=n] -> 'anyāni'
+NUMR[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] -> '∅-catvāri'
+ADV[ORDER=remaining] -> 'punaḥ'
+COMP[LIKE=beautiful] -> 'śubhavimokṣavat'
+N[SUPPLIED=prose,CONTRAST=release] -> '∅-vaimukhyamātram'
+N[SUPPLIED=prose,CONTRAST=mastery] -> '∅-ālambanābhibhavanam'
+ADV[SUPPLIED=prose] -> '∅-yatheccham'
+N[SUPPLIED=prose,RESULT=yes] -> '∅-kleśānutpādaḥ'
+```
 
+```nltk-dep
+'abhibhvāyatanāny' -> 'aṣṭau' | 'dvayam' | 'dve' | 'anyāni'
+'dvayam' -> 'ādyavimokṣavat'
+'dve' -> 'dvitīyavat' | '∅-vimokṣaḥ'
+'anyāni' -> '∅-catvāri' | 'punaḥ' | 'śubhavimokṣavat'
+'∅-ālambanābhibhavanam' -> '∅-vaimukhyamātram' | '∅-yatheccham' | '∅-kleśānutpādaḥ'
+```
+
+The comparisons indicate correspondence, not identity; `dvitīyavat` has an understood release.
+`Punaḥ` introduces the four color Essences, not a repetition instruction; mastery at will and non-arising of affliction distinguish these from the releases.
 **Close construe.** There are eight Essences of mastery:
 the first pair is like the first release;
 the next two are like the second release;

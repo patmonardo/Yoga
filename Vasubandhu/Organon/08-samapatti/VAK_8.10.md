@@ -36,35 +36,38 @@ the interpretation of the compressed `saṃpradhīḥ`.
 
 ## 4. Grammar
 
-**A distributed statement.** `Kliṣṭeṣu` supplies
-`dhyāneṣu`. The absences are assigned successively to
-the first, second, third, and fourth dhyānas. The prose
-repeats `nāsti` for each assignment; the verse's `asat`
-introduces this compressed absence-list.
+The first absence-list is distributed over the four defiled dhyānas; a second opinion gives another pairwise distribution. Preserve both accounts: the Bhāṣya does not merge or adjudicate them.
 
-**The first absence is qualified.** The verse's
-`prītisukham` receives `vivekajam`, born of separation,
-in prose. That qualification determines what is denied.
-The passage does not simply say that every pleasant
-experience is impossible in a defiled attainment.
+```nltk-fcfg
+% start S
+# tokens: kliṣṭeṣu asat prītisukham ∅-vivekajam ∅-prathame prasādaḥ ∅-dvitīye saṃpradhīḥ smṛtiḥ ∅-tṛtīye upekṣāsmṛtiśuddhiḥ ∅-caturthe ca kecit prasrabdhyupekṣaṇe
+S -> CL[K=first_account] CL[K=other_account]
+CL[K=first_account] -> LOC[CASE=loc,NUM=pl,GEN=n] NEG[NEG=yes] N[CASE=nom,NUM=sg,GEN=n,ABSENCE=one] ADJ[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose,QUAL=separation_born] N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose,LEVEL=one] N[CASE=nom,NUM=sg,GEN=m,ABSENCE=two] N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose,LEVEL=two] N[CASE=nom,NUM=sg,GEN=f,ABSENCE=three] N[CASE=nom,NUM=sg,GEN=f,ABSENCE=three] N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose,LEVEL=three] N[CASE=nom,NUM=sg,GEN=f,ABSENCE=four] N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose,LEVEL=four] CONJ[COORD=yes]
+CL[K=other_account] -> PRON[CASE=nom,NUM=pl,GEN=m,OPINION=yes] N[CASE=nom,NUM=du,GEN=n,ALT=yes]
+LOC[CASE=loc,NUM=pl,GEN=n] -> 'kliṣṭeṣu'
+NEG[NEG=yes] -> 'asat'
+N[CASE=nom,NUM=sg,GEN=n,ABSENCE=one] -> 'prītisukham'
+ADJ[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose,QUAL=separation_born] -> '∅-vivekajam'
+N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose,LEVEL=one] -> '∅-prathame'
+N[CASE=nom,NUM=sg,GEN=m,ABSENCE=two] -> 'prasādaḥ'
+N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose,LEVEL=two] -> '∅-dvitīye'
+N[CASE=nom,NUM=sg,GEN=f,ABSENCE=three] -> 'saṃpradhīḥ'
+N[CASE=nom,NUM=sg,GEN=f,ABSENCE=three] -> 'smṛtiḥ'
+N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose,LEVEL=three] -> '∅-tṛtīye'
+N[CASE=nom,NUM=sg,GEN=f,ABSENCE=four] -> 'upekṣāsmṛtiśuddhiḥ'
+N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose,LEVEL=four] -> '∅-caturthe'
+CONJ[COORD=yes] -> 'ca'
+PRON[CASE=nom,NUM=pl,GEN=m,OPINION=yes] -> 'kecit'
+N[CASE=nom,NUM=du,GEN=n,ALT=yes] -> 'prasrabdhyupekṣaṇe'
+```
 
-**Clear comprehension and mindfulness.** The verse
-places `saṃpradhīḥ` before `smṛtiḥ`; the prose gives
-`smṛtisaṃprajanyam`. The reversed order supplies a
-contextual identification without requiring an invented
-independent doctrine for the compressed verse term.
+```nltk-dep
+'asat' -> 'kliṣṭeṣu' | 'prītisukham' | '∅-vivekajam' | '∅-prathame' | 'prasādaḥ' | '∅-dvitīye' | 'saṃpradhīḥ' | 'smṛtiḥ' | '∅-tṛtīye' | 'upekṣāsmṛtiśuddhiḥ' | '∅-caturthe'
+'kecit' -> 'ca' | 'prasrabdhyupekṣaṇe'
+```
 
-**Purification governs both members.** The fourth
-expression concerns the purification of equanimity and
-mindfulness. Its denial must retain that qualification.
-The second account's denial of equanimity itself is
-a separately reported formulation.
+The prose supplies the level labels and qualifies first-dhyāna `prītisukham` as separation-born; `saṃpradhīḥ smṛtiḥ` is smṛtisaṃprajanya. In the second account, pliancy belongs to the first pair and equanimity to the last; these remain separately attributed opinions.
 
-**An elliptical report of opinion.** `Kecit` supplies
-“some say.” The prose fills out the dual: pliancy is
-absent in the first two defiled dhyānas, equanimity in
-the third and fourth. These are not two extra items
-to append indiscriminately to every preceding list.
 
 **Close construe.** In the defiled dhyānas, respectively,
 separation-born rapture and pleasure, inward clarity,

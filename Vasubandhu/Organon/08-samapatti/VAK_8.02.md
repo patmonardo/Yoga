@@ -33,45 +33,44 @@ kinds of cognition.
 
 ## 4. Grammar
 
-**The first dhyāna is understood.** The prose asks what
-kind of wholesome one-pointedness constitutes each dhyāna
-and introduces the first before quoting `vicāraprītisukhavat`.
-This adjective therefore does not assign all three
-qualities to every dhyāna.
+Feature grammar (NLTK notation). Both opening adjectives are neuter singular
+and distributive over supplied heads; the formless clause agrees in the
+plural masculine. Words supplied from the Bhāṣya carry `SUPPLIED=prose`.
 
-**The remaining three.** `Pūrvapūrvāṅgavarjitam` resumes
-the remaining dhyānas distributively. The prose explicitly
-says that `śubhaikāgrya`, wholesome one-pointedness,
-continues to be understood. The associated factors change;
-the inherited defining determination is retained.
+```nltk-fcfg
+% start S
+# tokens: vicāraprītisukhavat ∅-prathamam-dhyānam pūrvapūrvāṅgavarjitam ∅-śeṣam-dhyānam tathā ārūpyāḥ catuḥskandhāḥ adhobhūmivivekajāḥ
+S -> CL[K=possess] CL[K=lack] CL[K=likeness]
 
-**Vitarka is supplied by the commentary.** Mention of
-vicāra includes vitarka in the first configuration,
-according to the prose, because vicāra with joy and
-ease does not occur without vitarka. The smoke-and-fire
-analogy explains this local concomitance. It does not
-establish that every possible vicāra always requires vitarka.
+CL[K=possess]  -> ADJ[NUM=?n,GEN=?g,POSS=yes] N[NUM=?n,GEN=?g,SUPPLIED=prose,ORD=first]
+CL[K=lack]     -> ADJ[NUM=?n,GEN=?g,PRIV=yes,DIST=yes] N[NUM=?n,GEN=?g,SUPPLIED=prose,ORD=rest]
+CL[K=likeness] -> ADV[LIKE=restricted] N[CASE=nom,NUM=?n,GEN=?g] ADJ[NUM=?n,GEN=?g,BASES=4] ADJ[NUM=?n,GEN=?g,SRC=lower]
 
-**The analogy is qualified.** The Bhāṣya asks in what
-respect the formless states are “likewise.” It answers:
-they too are four, are considered as birth and attainment,
-have their births already explained, and as attainments
-have wholesome one-pointedness as their general nature.
-The analogy does not transfer the dhyānas' complete
-Base constitution to them.
+ADJ[NUM=sg,GEN=n,POSS=yes] -> 'vicāraprītisukhavat'
+ADJ[NUM=sg,GEN=n,PRIV=yes,DIST=yes] -> 'pūrvapūrvāṅgavarjitam'
+ADV[LIKE=restricted] -> 'tathā'
+N[CASE=nom,NUM=pl,GEN=m] -> 'ārūpyāḥ'
+ADJ[NUM=pl,GEN=m,BASES=4] -> 'catuḥskandhāḥ'
+ADJ[NUM=pl,GEN=m,SRC=lower] -> 'adhobhūmivivekajāḥ'
+N[NUM=sg,GEN=n,SUPPLIED=prose,ORD=first] -> '∅-prathamam-dhyānam'
+N[NUM=sg,GEN=n,SUPPLIED=prose,ORD=rest]  -> '∅-śeṣam-dhyānam'
+```
 
-**Four Bases with accompaniment.** The prose carries
-forward `saparivāra`, with accompaniment. The fourfold
-constitution is explained by absence of accompanying
-rūpa. It does not say that one-pointedness is itself
-four distinct Bases.
+```nltk-dep
+'∅-prathamam-dhyānam' -> 'vicāraprītisukhavat'
+'∅-śeṣam-dhyānam' -> 'pūrvapūrvāṅgavarjitam'
+'ārūpyāḥ' -> 'tathā' | 'catuḥskandhāḥ' | 'adhobhūmivivekajāḥ'
+```
 
-**Close construe.** The first dhyāna possesses vicāra,
-joy, and ease; the remaining dhyānas successively lack
-the preceding factors. Likewise [in the specified respects]
-are the formless states: with accompaniment they consist
-of four Bases and arise through separation from
-the lower ground.
+`vicāra` implies supplied `vitarka` in the first configuration only (the
+smoke-and-fire concomitance), and `śubhaikāgrya` carries over from 8.01.
+`tathā` is restricted by the Bhāṣya to four-ness, birth and attainment, and
+one-pointedness; it does not transfer the dhyānas' full constitution.
+
+**Close construe.** The first dhyāna possesses vicāra, joy, and ease; the
+remaining dhyānas successively lack the preceding factors. Likewise [in the
+specified respects] are the formless states: with accompaniment they consist
+of four Bases and arise through separation from the lower ground.
 
 ## 5. Translation
 

@@ -45,38 +45,42 @@ kutārkika; it must not disappear in translation.
 
 ## 4. Grammar
 
-**Two locative absolutes establish the setting.** Nimīlite
-śāstari lokacakṣuṣi places the Teacher's passing in
-the image of the closing world-eye. Kṣayaṃ
-gate sākṣijane gives the passing away of
-the witness community. Ca coordinates these circumstances.
+Two locative absolutes set the circumstance for a passive main clause. The three instrumental descriptions unify as one group of agents; `bhūyasā` limits the disappearance of witnesses, and the pejorative `ku-` remains in the lexicon.
 
-**The world-eye is an appositional epithet.** Lokacakṣuṣi
-refers to the Teacher, not a second
-agent or a separate organ performing an
-independent action. “The Teacher had closed his
-eyes” communicates the image, but the closer
-construction is “the Teacher, the world-eye, having closed.”
+```nltk-fcfg
+% start S
+# tokens: nimīlite śāstari lokacakṣuṣi kṣayaṃ gate sākṣijane ca bhūyasā adṛṣṭatattvair niravagrahaiḥ kṛtaṃ kutārkikaiḥ śāsanam etat ākulam
+S -> CL[K=setting] CL[K=disorder]
 
-**Largely qualifies the disappearance of witnesses.** Bhūyasā
-preserves an important limit: the body of
-witnesses has passed away for the most
-part. Translating their complete extinction would strengthen
-the statement beyond its wording.
+CL[K=setting] -> PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] N[CASE=?c,NUM=?n,GEN=?g] N[CASE=?c,NUM=?n,GEN=?g,APPOS=yes] N[CASE=acc,NUM=sg,GEN=m] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] N[CASE=?c,NUM=?n,GEN=?g] CONJ[ADD=yes] ADV[DEGREE=limited]
+CL[K=disorder] -> ADJ[CASE=ins,NUM=?n,GEN=?g] ADJ[CASE=ins,NUM=?n,GEN=?g] PTCP[CASE=nom,NUM=sg,GEN=n,TENSE=past,VOICE=pass] N[CASE=ins,NUM=?n,GEN=?g,ROLE=agent] N[CASE=nom,NUM=?p,GEN=?h,ROLE=patient] PRON[CASE=nom,NUM=?p,GEN=?h] ADJ[CASE=nom,NUM=?p,GEN=?h]
 
-**The main clause is passive.** Etat śāsanam
-is the subject, kṛtam the participial predicate,
-and ākulam the resulting condition: “this teaching
-has been made disordered.” The instrumental plural
-kutārkikaiḥ names those responsible.
+PTCP[CASE=loc,NUM=sg,GEN=m,TENSE=past] -> 'nimīlite'
+N[CASE=loc,NUM=sg,GEN=m] -> 'śāstari'
+N[CASE=loc,NUM=sg,GEN=m,APPOS=yes] -> 'lokacakṣuṣi'
+N[CASE=acc,NUM=sg,GEN=m] -> 'kṣayaṃ'
+PTCP[CASE=loc,NUM=sg,GEN=m,TENSE=past] -> 'gate'
+N[CASE=loc,NUM=sg,GEN=m] -> 'sākṣijane'
+CONJ[ADD=yes] -> 'ca'
+ADV[DEGREE=limited] -> 'bhūyasā'
+ADJ[CASE=ins,NUM=pl,GEN=m] -> 'adṛṣṭatattvair'
+ADJ[CASE=ins,NUM=pl,GEN=m] -> 'niravagrahaiḥ'
+PTCP[CASE=nom,NUM=sg,GEN=n,TENSE=past,VOICE=pass] -> 'kṛtaṃ'
+N[CASE=ins,NUM=pl,GEN=m,ROLE=agent] -> 'kutārkikaiḥ'
+N[CASE=nom,NUM=sg,GEN=n,ROLE=patient] -> 'śāsanam'
+PRON[CASE=nom,NUM=sg,GEN=n] -> 'etat'
+ADJ[CASE=nom,NUM=sg,GEN=n] -> 'ākulam'
+```
 
-**Three descriptions concern the same agents.** Adṛṣṭatattvaiḥ
-and niravagrahaiḥ qualify kutārkikaiḥ. The verse does
-not list three independent populations: non-seers, unrestrained
-people, and reasoners. It portrays the bad
-reasoners as both without sight of reality
-and without restraint.
+```nltk-dep
+'śāstari' -> 'nimīlite' | 'lokacakṣuṣi'
+'sākṣijane' -> 'kṣayaṃ' | 'gate' | 'ca' | 'bhūyasā'
+'śāsanam' -> 'adṛṣṭatattvair' | 'niravagrahaiḥ' | 'kṛtaṃ' | 'kutārkikaiḥ' | 'etat' | 'ākulam'
+```
 
+No separate Bhāṣya prose supplements the verse, so no agent roster is added.
+The claim is “largely” rather than total disappearance; it does not say that the teaching vanished or that reasoning as such is bad.
+`Lokacakṣuṣi` is appositional to `śāstari`, not a second agent.
 **Close construe.** With the Teacher, the Eye
 of the World, closed, and the body
 of witnesses largely passed away, this teaching

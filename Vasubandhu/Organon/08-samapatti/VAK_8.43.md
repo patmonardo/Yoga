@@ -45,40 +45,36 @@ is the chapter colophon, and there is no separate prose gloss.
 
 ## 4. Grammar
 
-**Knowing governs two coordinated contents.** Viditvā takes
-the Sage's teaching as being at the
-point of death and the time as
-one of strength for the defilements. Ca
-joins the second content to the first.
-The teaching is not itself called the
-defilements' season of strength.
+The absolutive takes two coordinated contents: the Sage's precarious teaching and a time of strength for the defilements. Its implicit knowers are unified with the liberation-seekers who bear the impersonal gerundive obligation.
 
-**The breath compound qualifies the teaching.** Kaṇṭhagataprāṇam
-agrees with śāsanam. Its possessive force is
-“whose life-breath has gone to the throat.”
-The teaching is personified as precariously alive.
-The image is not a physiological instruction
-about moving or retaining a practitioner's breath.
+```nltk-fcfg
+% start S
+# tokens: iti kaṇṭhagataprāṇaṃ viditvā śāsanaṃ muneḥ ∅-etam balakālaṃ malānāṃ ca na pramādyam mumukṣubhiḥ
+S -> CL[K=knowing,AGENT=seekers] CL[K=injunction,AGENT=seekers]
 
-**The genitives have distinct attachments.** Muneḥ qualifies
-śāsanam, the Sage's teaching. Malānām qualifies balakālam,
-the defilements' time of strength. Neither genitive
-should be attached indiscriminately to both expressions.
+CL[K=knowing,AGENT=seekers] -> PTCL[REPORT=yes] ADJ[CASE=acc,NUM=?n,GEN=?g,CONTENT=teaching] ABS[COMP=knowing,TENSE=prior] N[CASE=acc,NUM=?n,GEN=?g,CONTENT=teaching] N[CASE=gen,NUM=sg,GEN=m,OWNER=sage] PRON[CASE=acc,NUM=sg,GEN=m,SUPPLIED=prose] N[CASE=acc,NUM=sg,GEN=m,CONTENT=time] N[CASE=gen,NUM=pl,GEN=n,OWNER=defilements] CONJ[ADD=yes]
+CL[K=injunction,AGENT=seekers] -> NEG[POLARITY=no] VERB[CASE=nom,NUM=sg,GEN=n,MOOD=gerundive,VOICE=impersonal] N[CASE=ins,NUM=pl,GEN=m,ROLE=agent,AGENT=seekers]
 
-**The main clause is an impersonal obligation.**
-Na pramādyam is a negative gerundive construction.
-Mumukṣubhiḥ supplies the agents for whom the
-obligation holds. An active English rendering, “those
-seeking liberation must not be negligent,” conveys
-the force better than a merely descriptive
-“they are not negligent.”
+PTCL[REPORT=yes] -> 'iti'
+ADJ[CASE=acc,NUM=sg,GEN=n,CONTENT=teaching] -> 'kaṇṭhagataprāṇaṃ'
+ABS[COMP=knowing,TENSE=prior] -> 'viditvā'
+N[CASE=acc,NUM=sg,GEN=n,CONTENT=teaching] -> 'śāsanaṃ'
+N[CASE=gen,NUM=sg,GEN=m,OWNER=sage] -> 'muneḥ'
+PRON[CASE=acc,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-etam'
+N[CASE=acc,NUM=sg,GEN=m,CONTENT=time] -> 'balakālaṃ'
+N[CASE=gen,NUM=pl,GEN=n,OWNER=defilements] -> 'malānāṃ'
+CONJ[ADD=yes] -> 'ca'
+NEG[POLARITY=no] -> 'na'
+VERB[CASE=nom,NUM=sg,GEN=n,MOOD=gerundive,VOICE=impersonal] -> 'pramādyam'
+N[CASE=ins,NUM=pl,GEN=m,ROLE=agent,AGENT=seekers] -> 'mumukṣubhiḥ'
+```
 
-**The knowing and the obligation concern the same agents.**
-The implicit knowers of viditvā are the
-liberation-seekers named in the instrumental. Their recognition
-of the stated conditions introduces the injunction;
-no separate class of observers is required.
+```nltk-dep
+'viditvā' -> 'iti' | 'kaṇṭhagataprāṇaṃ' | 'śāsanaṃ' | 'muneḥ' | '∅-etam' | 'balakālaṃ' | 'malānāṃ' | 'ca'
+'pramādyam' -> 'na' | 'mumukṣubhiḥ'
+```
 
+`Muneḥ` belongs with `śāsanam`, while `malānām` belongs with `balakālam`; the added demonstrative resolves the second content as “this [time].” `Mumukṣubhiḥ` identifies both the implied knowers and the agents of the injunction; liberation is desired, not already attained.
 **Close construe.** Having understood the Sage's teaching
 thus to have its life-breath at the
 throat, and this to be a time

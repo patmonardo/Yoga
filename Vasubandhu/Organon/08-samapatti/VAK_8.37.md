@@ -39,38 +39,43 @@ several practices under one description.
 
 ## 4. Grammar
 
-**Cessation is the initial exception.** Nirodha uktaḥ
-means that cessation-release has already been explained.
-It does not say that cessation is produced
-by the two acquisition routes now given for
-the remaining practices.
+The neuter singulars classify the remainder and distinguish the formless group from what is human-born. Acquisition is through dispassion or application, depending on habituation; the two `śeṣa` forms have different scopes.
 
-**The acquisition compound compresses two routes.**
-Vairāgya and prayoga qualify acquisition. The prose
-unpacks the compound as vairāgyalābhikāni prāyogikāṇi
-ca and explains the variation by habituation
-or lack of habituation. Translating “through dispassion
-and application” without explanation could misleadingly require
-both as one uniform acquisition procedure.
+```nltk-fcfg
+% start S
+# tokens: nirodha uktaḥ ∅-nirodhavimokṣaḥ vairāgyaprayogāptam tu śeṣitam ∅-ucitānucitatvāt tridhātvāśrayam ārūpyasaṃjñam ∅-ārūpyavimokṣāḥ ∅-ārūpyakṛtsnāni śeṣam manuṣyajam ∅-manuṣyāśrayam
+S -> CL[K=cessation] CL[K=acquisition] CL[K=formlesssupport] CL[K=humansupport]
 
-**The formless designation is the subject of the support predicate.**
-Tridhātvāśrayam agrees with ārūpyasaṃjñam: what is
-called formless has three-domain support. The phrase
-does not assign such support to all practices
-mentioned in the preceding clause.
+CL[K=cessation] -> N[CASE=?c,NUM=?n,GEN=?g] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] N[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose]
+CL[K=acquisition] -> ADJ[CASE=?c,NUM=?n,GEN=?g,ROUTE=either] PTCL[CONTRAST=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,REMAINDER=yes] N[CASE=abl,NUM=sg,GEN=n,SUPPLIED=prose]
+CL[K=formlesssupport] -> ADJ[CASE=?c,NUM=?n,GEN=?g,SUPPORT=threedomain] ADJ[CASE=?c,NUM=?n,GEN=?g,DESIGNATION=formless] N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose]
+CL[K=humansupport] -> ADJ[CASE=?c,NUM=?n,GEN=?g,REMAINDER=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,ORIGIN=human] N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose]
 
-**The two remainders have different scopes.** Śeṣitam
-first excludes cessation from the acquisition discussion.
-Śeṣam later excludes the specified formless practices
-from the remaining support classification. Keeping these
-successive selections distinct resolves the second line.
+N[CASE=nom,NUM=sg,GEN=m] -> 'nirodha'
+PTCP[CASE=nom,NUM=sg,GEN=m,TENSE=past] -> 'uktaḥ'
+N[CASE=nom,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-nirodhavimokṣaḥ'
+ADJ[CASE=nom,NUM=sg,GEN=n,ROUTE=either] -> 'vairāgyaprayogāptam'
+PTCL[CONTRAST=yes] -> 'tu'
+ADJ[CASE=nom,NUM=sg,GEN=n,REMAINDER=yes] -> 'śeṣitam'
+N[CASE=abl,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-ucitānucitatvāt'
+ADJ[CASE=nom,NUM=sg,GEN=n,SUPPORT=threedomain] -> 'tridhātvāśrayam'
+ADJ[CASE=nom,NUM=sg,GEN=n,DESIGNATION=formless] -> 'ārūpyasaṃjñam'
+N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] -> '∅-ārūpyavimokṣāḥ'
+N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] -> '∅-ārūpyakṛtsnāni'
+ADJ[CASE=nom,NUM=sg,GEN=n,REMAINDER=yes] -> 'śeṣam'
+ADJ[CASE=nom,NUM=sg,GEN=n,ORIGIN=human] -> 'manuṣyajam'
+N[CASE=loc,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-manuṣyāśrayam'
+```
 
-**Human-born concerns the practice's production.** Manuṣyajam
-is explained by manuṣyāśrayam eva and by production
-through the efficacy of instruction. The human
-qualification belongs to the non-formless remainder, not
-to the immediately preceding formless group.
+```nltk-dep
+'nirodha' -> 'uktaḥ' | '∅-nirodhavimokṣaḥ'
+'śeṣitam' -> 'vairāgyaprayogāptam' | 'tu' | '∅-ucitānucitatvāt'
+'ārūpyasaṃjñam' -> 'tridhātvāśrayam' | '∅-ārūpyavimokṣāḥ' | '∅-ārūpyakṛtsnāni'
+'śeṣam' -> 'manuṣyajam' | '∅-manuṣyāśrayam'
+```
 
+`Nirodha` is already explained, not subjected to the acquisition rule.
+`Tridhātvāśrayam` attaches only to what is called formless; the final human-production clause excludes that group and the source explains it through instruction.
 **Close construe.** Cessation has been explained. The
 remaining practices are acquired through dispassion or
 application. Those designated formless have support in

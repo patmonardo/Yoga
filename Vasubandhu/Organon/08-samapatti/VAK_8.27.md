@@ -40,33 +40,36 @@ not exclude every access attainment without exception.
 
 ## 4. Grammar
 
-**The plural subject is inherited.** The further
-three samādhis of VAK 8.25–8.26 are characterized
-by mode, human occurrence, practitioner, and level-range.
-The prose strengthens the first assertion with
-ekāntena, exclusively.
+The inherited plural subject is restricted by mode, human location, practitioner, and level exclusion; the second half begins a new cultivation subject. The locative answers where, the genitive whose, and the dative purpose is locally expanded by the Bhāṣya.
 
-**The locative and genitive answer different questions.**
-Nṛṣu answers where or among whom they occur.
-Akopyasya specifies which arhat produces them. The
-prose explicitly excludes devas and other arhat types.
+```nltk-fcfg
+% start S
+# tokens: ∅-aparasamādhayaḥ sāsravāḥ nṛṣu akopyasya saptasāmantavarjitāḥ samādhibhāvanā dhyānam śubham ādyaṃ sukhāya hi ∅-dṛṣṭadharmasukhavihārāya
+S -> CL[K=restriction] CL[K=cultivation]
+CL[K=restriction] -> N[CASE=nom,NUM=?n,GEN=?g,SUPPLIED=prose] ADJ[CASE=nom,NUM=?n,GEN=?g,MODE=only] N[CASE=loc,NUM=pl,GEN=m] N[CASE=gen,NUM=sg,GEN=m] ADJ[CASE=nom,NUM=?n,GEN=?g,PRIV=yes]
+CL[K=cultivation] -> N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=n] ADJ[CASE=nom,NUM=sg,GEN=n] ADJ[CASE=nom,NUM=sg,GEN=n] N[CASE=dat,NUM=sg,GEN=n] PTCL[EXPL=yes] N[CASE=dat,NUM=sg,GEN=n,SUPPLIED=prose]
+N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] -> '∅-aparasamādhayaḥ'
+ADJ[CASE=nom,NUM=pl,GEN=m,MODE=only] -> 'sāsravāḥ'
+N[CASE=loc,NUM=pl,GEN=m] -> 'nṛṣu'
+N[CASE=gen,NUM=sg,GEN=m] -> 'akopyasya'
+ADJ[CASE=nom,NUM=pl,GEN=m,PRIV=yes] -> 'saptasāmantavarjitāḥ'
+N[CASE=nom,NUM=sg,GEN=f] -> 'samādhibhāvanā'
+N[CASE=nom,NUM=sg,GEN=n] -> 'dhyānam'
+ADJ[CASE=nom,NUM=sg,GEN=n] -> 'śubham' | 'ādyaṃ'
+N[CASE=dat,NUM=sg,GEN=n] -> 'sukhāya'
+PTCL[CASE=none,NUM=none,GEN=none,EXPL=yes] -> 'hi'
+N[CASE=dat,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-dṛṣṭadharmasukhavihārāya'
+```
 
-**Seven access stages are excluded, not eight.**
-The commentary lists anāgamya among the eleven
-remaining levels. Thus a generic “non-preliminary
-support” interpretation is contradicted by the enumeration.
+```nltk-dep
+'∅-aparasamādhayaḥ' -> 'sāsravāḥ' | 'nṛṣu' | 'akopyasya' | 'saptasāmantavarjitāḥ'
+'samādhibhāvanā' -> 'dhyānam' | 'śubham' | 'ādyaṃ' | 'sukhāya' | 'hi' | '∅-dṛṣṭadharmasukhavihārāya'
+```
 
-**The second half begins another subject.** Samādhibhāvanā
-is predicated of wholesome first dhyāna for the
-stated purpose. The genitive akopyasya does not
-carry over as a restriction on every cultivation
-in the newly introduced fourfold list.
+The seven excluded access stages do not include anāgamya, which remains among the eleven
+grounds. The second subject is not restricted to the unshakeable arhat; `sukhāya` is
+specified as present-life pleasant abiding, not a guaranteed later-life result.
 
-**The dative purpose is expanded.** Sukhāya becomes
-dṛṣṭadharmasukhavihārāya in prose: for pleasant abiding
-in the present life. This is more specific
-than an unrestricted promise of happiness in every
-future existence.
 
 **Close construe.** The further samādhis are contaminated,
 occur among humans in the unshakeable arhat, and

@@ -39,30 +39,36 @@ inflected nominatives. The prose resolves the verse's
 
 ## 4. Grammar
 
-**An ordered, elliptical inventory.** The four groups
-refer successively to first-, second-, third-, and
-fourth-dhyāna rebirth. The prose supplies both the
-level assignments and the understood “feelings.” The
-verse does not collect all the terms into one list
-applicable equally to every level.
+Four ordered groups of feelings belong to four rebirth levels, not to the corresponding attainment inventories. The prose fixes counts as three, two, two, one; `pravido` remains unresolved and is not assigned an invented gloss.
 
-**Number is controlled by the prose.** The first rebirth
-has `tisro vedanāḥ`, three feelings; the next two each
-have `dve vedane`, two feelings. The fourth has
-`upekṣā eva`, neutral feeling alone. The counts are
-therefore three, two, two, and one.
+```nltk-fcfg
+% start S
+# tokens: saumanasyasukhopekṣā ∅-prathama-dhyānopapattau upekṣāsumanaskate ∅-dvitīya-dhyānopapattau sukhopekṣe ∅-tṛtīya-dhyānopapattau upekṣā ∅-caturtha-dhyānopapattau pravido dhyānopapattiṣu
+S -> CL[K=ordered_feelings] CL[K=rebirth_scope]
+CL[K=ordered_feelings] -> N[CASE=nom,NUM=pl,GEN=f,COUNT=three] N[CASE=loc,NUM=sg,GEN=f,SUPPLIED=prose,LEVEL=first] N[CASE=nom,NUM=du,GEN=f,COUNT=two] N[CASE=loc,NUM=sg,GEN=f,SUPPLIED=prose,LEVEL=second] N[CASE=nom,NUM=du,GEN=n,COUNT=two] N[CASE=loc,NUM=sg,GEN=f,SUPPLIED=prose,LEVEL=third] N[CASE=nom,NUM=sg,GEN=f] N[CASE=loc,NUM=sg,GEN=f,SUPPLIED=prose,LEVEL=fourth]
+CL[K=rebirth_scope] -> UNK[TEXTUAL=uncertain] N[CASE=loc,NUM=pl,GEN=f,DOMAIN=rebirth]
+N[CASE=nom,NUM=pl,GEN=f,COUNT=three] -> 'saumanasyasukhopekṣā'
+N[CASE=loc,NUM=sg,GEN=f,SUPPLIED=prose,LEVEL=first] -> '∅-prathama-dhyānopapattau'
+N[CASE=nom,NUM=du,GEN=f,COUNT=two] -> 'upekṣāsumanaskate'
+N[CASE=loc,NUM=sg,GEN=f,SUPPLIED=prose,LEVEL=second] -> '∅-dvitīya-dhyānopapattau'
+N[CASE=nom,NUM=du,GEN=n,COUNT=two] -> 'sukhopekṣe'
+N[CASE=loc,NUM=sg,GEN=f,SUPPLIED=prose,LEVEL=third] -> '∅-tṛtīya-dhyānopapattau'
+N[CASE=nom,NUM=sg,GEN=f] -> 'upekṣā'
+N[CASE=loc,NUM=sg,GEN=f,SUPPLIED=prose,LEVEL=fourth] -> '∅-caturtha-dhyānopapattau'
+UNK[TEXTUAL=uncertain] -> 'pravido'
+N[CASE=loc,NUM=pl,GEN=f,DOMAIN=rebirth] -> 'dhyānopapattiṣu'
+```
 
-**A distinction in the governing question.** The prose
-asks whether the feelings in dhyāna-samāpatti are the
-same as those in dhyāna-upapatti, and answers no.
-`Upapattiṣu` thus governs rebirth, not a further list
-of attainment factors.
+```nltk-dep
+'dhyānopapattiṣu' -> 'pravido' | 'saumanasyasukhopekṣā' | 'upekṣāsumanaskate' | 'sukhopekṣe' | 'upekṣā'
+'∅-prathama-dhyānopapattau' -> 'saumanasyasukhopekṣā'
+'∅-dvitīya-dhyānopapattau' -> 'upekṣāsumanaskate'
+'∅-tṛtīya-dhyānopapattau' -> 'sukhopekṣe'
+'∅-caturtha-dhyānopapattau' -> 'upekṣā'
+```
 
-**The textual gap stays visible.** “Respectively” in
-the translation expresses the ordered allocation made
-explicit in the prose. It is not claimed as a verified
-lexical translation of `pravido`. No conjectural replacement
-for that form is introduced.
+`Upapattiṣu` is rebirth scope, not sitting; neutral feeling is neither the equanimity factor nor absence of experience. The second group lacks pleasure because its vijñānakāya is absent; the ordered assignments come from prose, not a gloss of `pravido`.
+
 
 **Close construe.** In the four dhyāna rebirths occur,
 respectively: pleasant-mindedness, pleasure, and neutral

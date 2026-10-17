@@ -54,37 +54,47 @@ of harm and lack of restraint to the views.
 
 ## 4. Grammar
 
-**The first locative absolute names the Teacher's departure.**
-Gate … svayaṃbhuvi is completed by śāntiṃ paramām:
-“when the Self-Arisen had gone to supreme peace.”
-The epithet refers contextually to the Buddha.
+The singular locative absolute belongs to the Self-Arisen; the teaching-bearers share an elided plural departure predicate. The world locative frames an impersonal passive, while the local `gaṇa` reading remains textually unsettled against the running witness.
 
-**The bearers share an elliptical departure predicate.**
-Śāsanadhūrdhareṣu ca adds the bearers of the
-Self-Arisen's teaching. A plural departure predicate, gateṣu,
-is understood with this coordinated plural phrase.
-The verse's surface gate agrees with svayaṃbhuvi;
-it should not be described as a plural form.
+```nltk-fcfg
+% start S
+# tokens: gate atha śāntiṃ paramāṃ svayaṃbhuvi svayaṃbhuvaḥ śāsanadhūrdhareṣu ∅-gateṣu ca jagaty anāthe gaṇaghātibhir mataiḥ niraṅkuśaiḥ svairam iha adya caryate
+S -> CL[K=departures] CL[K=world] CL[K=activity]
 
-**The genitive identifies whose teaching is borne.**
-Svayaṃbhuvaḥ belongs with the following teaching-bearer expression.
-The burden image concerns sustaining the teaching.
-“Principal custodians” is a readable interpretation, while
-“bearers of the teaching's burden” preserves the metaphor.
+CL[K=departures] -> PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] PTCL[SEQUENCE=yes] N[CASE=acc,NUM=sg,GEN=f] ADJ[CASE=acc,NUM=sg,GEN=f] N[CASE=?c,NUM=?n,GEN=?g] N[CASE=gen,NUM=sg,GEN=m] N[CASE=loc,NUM=pl,GEN=m] PTCP[CASE=loc,NUM=pl,GEN=m,SUPPLIED=ellipsis] CONJ[ADD=yes]
+CL[K=world] -> N[CASE=?c,NUM=?n,GEN=?g] ADJ[CASE=?c,NUM=?n,GEN=?g,STATE=unprotected]
+CL[K=activity] -> ADJ[CASE=?c,NUM=?n,GEN=?g,HARM=yes] N[CASE=?c,NUM=?n,GEN=?g,ROLE=agent] ADJ[CASE=?c,NUM=?n,GEN=?g,RESTRAINT=no] ADV[FREE=yes] ADV[PLACE=here] ADV[TIME=now] VERB[PERS=3,NUM=sg,TENSE=pres,VOICE=pass,MOOD=indicative]
 
-**The world supplies the condition of the main action.**
-Jagaty anāthe is “in the world without a
-protector,” or “with the world left unprotected.”
-It does not identify another named agent responsible
-for the ensuing activity.
+PTCP[CASE=loc,NUM=sg,GEN=m,TENSE=past] -> 'gate'
+PTCL[SEQUENCE=yes] -> 'atha'
+N[CASE=acc,NUM=sg,GEN=f] -> 'śāntiṃ'
+ADJ[CASE=acc,NUM=sg,GEN=f] -> 'paramāṃ'
+N[CASE=loc,NUM=sg,GEN=m] -> 'svayaṃbhuvi'
+N[CASE=gen,NUM=sg,GEN=m] -> 'svayaṃbhuvaḥ'
+N[CASE=loc,NUM=pl,GEN=m] -> 'śāsanadhūrdhareṣu'
+PTCP[CASE=loc,NUM=pl,GEN=m,SUPPLIED=ellipsis] -> '∅-gateṣu'
+CONJ[ADD=yes] -> 'ca'
+N[CASE=loc,NUM=sg,GEN=n] -> 'jagaty'
+ADJ[CASE=loc,NUM=sg,GEN=n,STATE=unprotected] -> 'anāthe'
+ADJ[CASE=ins,NUM=pl,GEN=n,HARM=yes] -> 'gaṇaghātibhir'
+N[CASE=ins,NUM=pl,GEN=n,ROLE=agent] -> 'mataiḥ'
+ADJ[CASE=ins,NUM=pl,GEN=n,RESTRAINT=no] -> 'niraṅkuśaiḥ'
+ADV[FREE=yes] -> 'svairam'
+ADV[PLACE=here] -> 'iha'
+ADV[TIME=now] -> 'adya'
+VERB[PERS=3,NUM=sg,TENSE=pres,VOICE=pass,MOOD=indicative] -> 'caryate'
+```
 
-**The main verb is impersonal.** Caryate is
-singular passive, with instrumental plural mataiḥ. A
-close English construe is “there is free
-roaming here now by unrestrained views.” The
-readable active “views circulate freely” changes the
-English syntax without changing the agents represented.
+```nltk-dep
+'gate' -> 'atha' | 'śāntiṃ' | 'paramāṃ' | 'svayaṃbhuvi'
+'śāsanadhūrdhareṣu' -> 'svayaṃbhuvaḥ' | '∅-gateṣu' | 'ca'
+'jagaty' -> 'anāthe'
+'caryate' -> 'gaṇaghātibhir' | 'mataiḥ' | 'niraṅkuśaiḥ' | 'svairam' | 'iha' | 'adya'
+```
 
+The verse does not name a school or give separate prose to settle `gaṇa`/`guṇa`; the dependency tree preserves the local reading without suppressing the variant.
+The plural `∅-gateṣu` is ellipsis, not the form of the overt `gate`.
+Genitive `svayaṃbhuvaḥ` identifies whose teaching is borne; singular `caryate` remains impersonal.
 **Close construe.** With the Self-Arisen gone to
 supreme peace, and the bearers of his
 teaching also departed, in a world without

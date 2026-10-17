@@ -44,29 +44,41 @@ as contaminated.
 
 ## 4. Grammar
 
-**Two purpose datives continue the fourfold account.**
-Darśanāya and dhībhedāya name the aims of the
-second and third cultivations. The first, present-life
-pleasant abiding, was introduced in VAK 8.27.
+Three cultivation bases are stated with distinct purposes; the last relative clause identifies a samādhi in the fourth dhyāna. The Bhāṣya supplies the divine-eye and qualities heads and forces the final sandhi break at feminine `sā`.
 
-**Application-born qualifies qualities.** The commentary
-supplies `sarve guṇāḥ`, all qualities, for prayogajāḥ.
-The subject is broader than an unspecified handful
-of reflective samādhis. Its scope includes qualities
-of the three domains and uncontaminated qualities.
+```nltk-fcfg
+% start S
+# tokens: ∅-divyacakṣurabhijñā darśanāya akṣyabhijñeṣṭā ∅-sarve-guṇāḥ prayogajāḥ dhībhedāya yaḥ ∅-samādhiḥ vajropamaḥ antye dhyāne sā āsravakṣayabhāvanā
+S -> CL[K=vision] CL[K=qualities] CL[K=vajra]
+CL[K=vision] -> N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] N[CASE=dat,NUM=sg,GEN=n,PURPOSE=seeing] N[CASE=nom,NUM=sg,GEN=f,DESIG=yes]
+CL[K=qualities] -> N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] ADJ[CASE=nom,NUM=pl,GEN=m,ORIGIN=application] N[CASE=dat,NUM=sg,GEN=m,PURPOSE=discernment]
+CL[K=vajra] -> PRON[CASE=nom,NUM=sg,GEN=m,REL=yes] N[CASE=nom,NUM=sg,GEN=m,SUPPLIED=prose] ADJ[CASE=nom,NUM=sg,GEN=m] ADJ[CASE=loc,NUM=sg,GEN=n,FINAL=yes] N[CASE=loc,NUM=sg,GEN=n] PRON[CASE=nom,NUM=sg,GEN=f,RESUME=yes] N[CASE=nom,NUM=sg,GEN=f]
+N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] -> '∅-divyacakṣurabhijñā'
+N[CASE=dat,NUM=sg,GEN=n,PURPOSE=seeing] -> 'darśanāya'
+N[CASE=nom,NUM=sg,GEN=f,DESIG=yes] -> 'akṣyabhijñeṣṭā'
+N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] -> '∅-sarve-guṇāḥ'
+ADJ[CASE=nom,NUM=pl,GEN=m,ORIGIN=application] -> 'prayogajāḥ'
+N[CASE=dat,NUM=sg,GEN=m,PURPOSE=discernment] -> 'dhībhedāya'
+PRON[CASE=nom,NUM=sg,GEN=m,REL=yes] -> 'yaḥ'
+N[CASE=nom,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-samādhiḥ'
+ADJ[CASE=nom,NUM=sg,GEN=m] -> 'vajropamaḥ'
+ADJ[CASE=loc,NUM=sg,GEN=n,FINAL=yes] -> 'antye'
+N[CASE=loc,NUM=sg,GEN=n] -> 'dhyāne'
+PRON[CASE=nom,NUM=sg,GEN=f,RESUME=yes] -> 'sā'
+N[CASE=nom,NUM=sg,GEN=f] -> 'āsravakṣayabhāvanā'
+```
 
-**The last dhyāna is the fourth.** Antye dhyāne
-is expressly expanded as caturthadhyāne. It does
-not mean bhavāgra, the last of the eight principal
-attainment levels.
+```nltk-dep
+'akṣyabhijñeṣṭā' -> '∅-divyacakṣurabhijñā' | 'darśanāya'
+'prayogajāḥ' -> '∅-sarve-guṇāḥ' | 'dhībhedāya'
+'∅-samādhiḥ' -> 'yaḥ' | 'vajropamaḥ' | 'antye' | 'dhyāne'
+'āsravakṣayabhāvanā' -> 'sā'
+```
 
-**The relative refers to samādhi; the predicate names cultivation.**
-Yaḥ and vajropamaḥ qualify the understood samādhi.
-The verse then names the cultivation with feminine
-sā; the prose spells out the construction as
-`yaḥ … samādhiḥ sa āsravakṣayāya samādhibhāvanā`.
-This supports splitting the last clause at the
-pronoun rather than reading sa-āsrava as its opening.
+`Antye` is the fourth dhyāna, not bhavāgra; prayogajāḥ covers all application-born
+qualities. The prose parses the final phrase as `sā āsravakṣayabhāvanā`, not as a
+cultivation classified sāsrava.
+
 
 **Close construe.** Divine-eye superknowledge is intended
 for knowledge-and-seeing; application-born qualities for

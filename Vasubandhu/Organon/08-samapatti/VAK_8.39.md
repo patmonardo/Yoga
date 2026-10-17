@@ -41,30 +41,42 @@ dhātāraḥ and pratipattāraḥ likewise undergo the displayed sandhi.
 
 ## 4. Grammar
 
-**One teaching is classified in two forms.**
-Saddharmaḥ is the subject; dvividhaḥ and
-āgamādhigamātmakaḥ supply its predicates. Śāstuḥ identifies
-it as the Teacher's teaching, not an
-unqualified definition of every body of doctrine.
+The first clause predicates a twofold constitution of the Teacher's true Dharma; the second names its bearers. The Bhāṣya specifies the contents and distributes sustaining functions without requiring separate populations.
 
-**The compound names the two forms.** Āgama
-and adhigama are coordinated within the final
-ātmaka compound. Here ātmaka expresses constitution or
-character; it does not introduce a separate
-metaphysical self as a third member.
+```nltk-fcfg
+% start S
+# tokens: saddharmo dvividhaḥ śāstur āgamādhigamātmakaḥ ∅-āgamaḥ ∅-sūtravinayābhidharmāḥ ∅-adhigamaḥ ∅-bodhipakṣyāḥ dhātāras tasya vaktāraḥ pratipattāra eva ca ∅-dhārayitāraḥ
+S -> CL[K=classification] CL[K=bearers]
 
-**The second line identifies the sustaining functions.**
-Tasya refers to saddharma. Vaktāraḥ and pratipattāraḥ
-are the bearers named by the verse. The
-commentary distributes the functions: preservers and speakers
-for transmission, practitioners for realization.
+CL[K=classification] -> N[CASE=?c,NUM=?n,GEN=?g] ADJ[CASE=?c,NUM=?n,GEN=?g] N[CASE=gen,NUM=sg,GEN=m] ADJ[CASE=?c,NUM=?n,GEN=?g,CONSTITUTION=two] CONTENTS
+CONTENTS -> N[SUPPLIED=prose,TYPE=transmission] N[SUPPLIED=prose,TYPE=transmissionlist] N[SUPPLIED=prose,TYPE=realization] N[SUPPLIED=prose,TYPE=realizationlist]
+CL[K=bearers] -> N[CASE=?c,NUM=?n,GEN=?g] N[CASE=gen,NUM=sg,GEN=n] N[CASE=?c,NUM=?n,GEN=?g] N[CASE=?c,NUM=?n,GEN=?g] PTCL[EMPH=yes] CONJ[ADD=yes] N[SUPPLIED=prose,FUNCTION=transmission]
 
-**Emphasis does not require disjoint populations.** Eva
-emphasizes the named bearers. Nothing here prevents
-one person from both expounding and practicing.
-The text distinguishes functions without asserting that
-their bearers must be different individuals.
+N[CASE=nom,NUM=sg,GEN=m] -> 'saddharmo'
+ADJ[CASE=nom,NUM=sg,GEN=m] -> 'dvividhaḥ'
+N[CASE=gen,NUM=sg,GEN=m] -> 'śāstur'
+ADJ[CASE=nom,NUM=sg,GEN=m,CONSTITUTION=two] -> 'āgamādhigamātmakaḥ'
+N[SUPPLIED=prose,TYPE=transmission] -> '∅-āgamaḥ'
+N[SUPPLIED=prose,TYPE=transmissionlist] -> '∅-sūtravinayābhidharmāḥ'
+N[SUPPLIED=prose,TYPE=realization] -> '∅-adhigamaḥ'
+N[SUPPLIED=prose,TYPE=realizationlist] -> '∅-bodhipakṣyāḥ'
+N[CASE=nom,NUM=pl,GEN=m] -> 'dhātāras'
+N[CASE=gen,NUM=sg,GEN=n] -> 'tasya'
+N[CASE=nom,NUM=pl,GEN=m] -> 'vaktāraḥ'
+N[CASE=nom,NUM=pl,GEN=m] -> 'pratipattāra'
+PTCL[EMPH=yes] -> 'eva'
+CONJ[ADD=yes] -> 'ca'
+N[SUPPLIED=prose,FUNCTION=transmission] -> '∅-dhārayitāraḥ'
+```
 
+```nltk-dep
+'saddharmo' -> 'dvividhaḥ' | 'śāstur' | 'āgamādhigamātmakaḥ' | '∅-āgamaḥ' | '∅-sūtravinayābhidharmāḥ' | '∅-adhigamaḥ' | '∅-bodhipakṣyāḥ'
+'dhātāras' -> 'tasya' | 'vaktāraḥ' | 'pratipattāra' | 'eva' | 'ca' | '∅-dhārayitāraḥ'
+```
+
+`Ātmaka` describes constitution, not a third self; `eva` emphasizes the functions.
+A single person may expound and practice, and the Bhāṣya's different duration reports remain attributed rather than collapsed.
+`Dhātāraḥ` is unpacked as retainers and speakers for transmission, with practitioners bearing realization.
 **Close construe.** The Teacher's true teaching is
 twofold, consisting of transmission and realization. Its
 sustainers are the expounders and the practitioners.

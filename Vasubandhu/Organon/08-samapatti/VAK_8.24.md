@@ -44,29 +44,39 @@ as association with the two aspects anātman and śūnyatā.
 
 ## 4. Grammar
 
-**The named samādhis are the subjects.** The instrumentals
-specify the aspects through which they proceed. Samādhi
-is understood with the masculine ānimitta and apraṇihita;
-the feminine śūnyatā supplies the middle designation.
+The clauses name three samādhis and assign their aspects; the verb is shared by ellipsis. Instrumental agreement links each aspect phrase to its samādhi, while `paraiḥ` is restricted to the remainder of the truth-aspects.
 
-**Remaining is relational.** Paraiḥ qualifies satyākāraiḥ.
-The prose glosses it as śeṣaiḥ, the remaining
-aspects after the four cessation aspects and the
-two emptiness/non-self aspects have been assigned.
-It does not name a separate set of higher truths.
+```nltk-fcfg
+% start S
+# tokens: ānimittaḥ śamākāraiḥ śūnyatā ∅-samādhi anātmaśūnyataḥ apraṇihitaḥ satyākāraiḥ ataḥ paraiḥ pravartate
+S -> CL[K=signless] CL[K=emptiness] CL[K=non_directed] V[PERS=3,NUM=sg,TENSE=pres,VOICE=mid]
+CL[K=signless] -> N[CASE=?c,NUM=?n,GEN=?g] N[CASE=ins,NUM=pl,GEN=?g,ROLE=aspect]
+CL[K=emptiness] -> N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=m,SUPPLIED=prose] ADV[ASPECT=two]
+CL[K=non_directed] -> N[CASE=nom,NUM=sg,GEN=m] N[CASE=ins,NUM=pl,GEN=m,ROLE=aspect] ADV[ORDER=other] ADJ[CASE=ins,NUM=pl,GEN=m,ROLE=remainder]
+N[CASE=nom,NUM=sg,GEN=m] -> 'ānimittaḥ'
+N[CASE=ins,NUM=pl,GEN=m,ROLE=aspect] -> 'śamākāraiḥ' | 'satyākāraiḥ'
+N[CASE=nom,NUM=sg,GEN=f] -> 'śūnyatā'
+N[CASE=nom,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-samādhi'
+ADV[CASE=none,NUM=none,GEN=none,ASPECT=two] -> 'anātmaśūnyataḥ'
+N[CASE=nom,NUM=sg,GEN=m] -> 'apraṇihitaḥ'
+ADV[CASE=none,NUM=none,GEN=none,ORDER=other] -> 'ataḥ'
+ADJ[CASE=ins,NUM=pl,GEN=m,ROLE=remainder] -> 'paraiḥ'
+V[CASE=none,NUM=sg,GEN=none,PERS=3,TENSE=pres,VOICE=mid] -> 'pravartate'
+```
 
-**Peace is not only one aspect here.** The commentary
-explicitly calls signless samādhi four-aspected and
-associates it with nirodhasatyākāra. The first clause
-must therefore retain the full cessation group rather
-than reducing it to the single peaceful aspect.
+```nltk-dep
+'ānimittaḥ' -> 'śamākāraiḥ'
+'śūnyatā' -> '∅-samādhi' | 'anātmaśūnyataḥ'
+'apraṇihitaḥ' -> 'satyākāraiḥ' | 'ataḥ'
+'satyākāraiḥ' -> 'paraiḥ'
+'pravartate' -> 'ānimittaḥ' | 'śūnyatā' | 'apraṇihitaḥ'
+```
 
-**Aspect and object require separate statements.** The
-four aspects characterize signless samādhi's operation;
-nirvāṇa is its object. The source explains the
-name through that object's freedom from signs.
-The instrumental aspect construction alone should not
-be treated as an exhaustive statement of the object relation.
+The supplied head makes the feminine designation local; it does not
+change the masculine subjects ānimitta and apraṇihita. The commentary
+resolves the first group as four cessation aspects and `ataḥ paraiḥ` as
+the other ten, while the object relation to nirvāṇa remains separate.
+
 
 **Close construe.** Signless samādhi proceeds through
 the cessation aspects; emptiness samādhi through non-self

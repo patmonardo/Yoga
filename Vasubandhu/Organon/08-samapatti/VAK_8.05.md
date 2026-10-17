@@ -36,35 +36,35 @@ differences.
 
 ## 4. Grammar
 
-**A summary of the eight.** `Iti` gathers the four
-dhyānas and four formless attainments. The singular
-`samāpattidravyam` presents the inventory collectively;
-the prose restates it as eight principal attainment
-entities. It does not posit a permanent substance
-underlying them.
+The verse first gathers eight principal attainments, then distributes the three modes over seven and two modes over the eighth. The Bhāṣya identifies the eighth as bhavāgra and excludes an uncontaminated instance.
 
-**Principal rather than access attainments.** `Maulam`
-qualifies the inventory. The access states discussed
-in VAK 8.03 are not added as extra members of the
-eightfold count.
+```nltk-fcfg
+% start S
+# tokens: iti maulaṃ samāpattidravyam aṣṭavidhaṃ tridhā sapta āsvādanavacchuddhānāsravāṇi aṣṭamaṃ dvidhā ∅-bhavāgram
+S -> CL[K=inventory] CL[K=seven_modes] CL[K=eighth_modes]
+CL[K=inventory] -> PTCL[SUMMARY=yes] ADJ[CASE=nom,NUM=sg,GEN=n,PRINCIPAL=yes] N[CASE=nom,NUM=sg,GEN=n] ADJ[CASE=nom,NUM=sg,GEN=n,COUNT=eight]
+CL[K=seven_modes] -> ADV[COUNT=three] NUM[CASE=nom,NUM=pl,GEN=n] ADJ[CASE=nom,NUM=pl,GEN=n,MODES=three]
+CL[K=eighth_modes] -> NUM[CASE=nom,NUM=sg,GEN=n,REF=eighth] ADV[COUNT=two] N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose,REF=eighth]
+PTCL[SUMMARY=yes] -> 'iti'
+ADJ[CASE=nom,NUM=sg,GEN=n,PRINCIPAL=yes] -> 'maulaṃ'
+N[CASE=nom,NUM=sg,GEN=n] -> 'samāpattidravyam'
+ADJ[CASE=nom,NUM=sg,GEN=n,COUNT=eight] -> 'aṣṭavidhaṃ'
+ADV[COUNT=three] -> 'tridhā'
+NUM[CASE=nom,NUM=pl,GEN=n] -> 'sapta'
+ADJ[CASE=nom,NUM=pl,GEN=n,MODES=three] -> 'āsvādanavacchuddhānāsravāṇi'
+NUM[CASE=nom,NUM=sg,GEN=n,REF=eighth] -> 'aṣṭamaṃ'
+ADV[COUNT=two] -> 'dvidhā'
+N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose,REF=eighth] -> '∅-bhavāgram'
+```
 
-**Threefold has a restricted distribution.** `Tridhā`
-introduces a second classification; `sapta` determines
-its scope. The prose identifies those seven as all
-except `bhavāgra`. The initial eightfold statement must
-not be read as promising three modes for every member.
+```nltk-dep
+'samāpattidravyam' -> 'iti' | 'maulaṃ' | 'aṣṭavidhaṃ'
+'sapta' -> 'tridhā' | 'āsvādanavacchuddhānāsravāṇi'
+'∅-bhavāgram' -> 'aṣṭamaṃ' | 'dvidhā'
+```
 
-**A coordinated list, not combined qualities.** The
-compressed middle expression gives savoring-associated,
-pure, and uncontaminated forms. It does not describe
-one state as simultaneously savoring-associated, pure,
-and uncontaminated.
+The singular inventory is collective, not a permanent substance; access attainments are not added. The modes are alternatives, not simultaneous qualities; `sapta` excludes bhavāgra, which has no uncontaminated form.
 
-**The eighth is twofold.** `Aṣṭamam` refers to the last
-principal formless attainment, neither-perception-nor-
-non-perception. The prose names it `bhavāgra` and specifies
-the two admitted modes: savoring-associated and pure.
-It expressly denies an uncontaminated form.
 
 **Close construe.** Thus the principal attainment inventory
 is eightfold. Seven are threefold—as savoring-associated,
@@ -134,61 +134,78 @@ and not a synonym for final liberation.
 
 ## 8. Logical Determination
 
-**The attainment-mode matrix.**
+The matrix is data; the exception is a rule checked against it. Provenance
+tags: `[verse]`, `[prose]`. Constants are ASCII and longer than one letter
+(NLTK reads `d1` as a variable).
 
-| Principal attainment | Savoring-associated | Pure | Uncontaminated |
-|---|:---:|:---:|:---:|
-| First dhyāna | Yes | Yes | Yes |
-| Second dhyāna | Yes | Yes | Yes |
-| Third dhyāna | Yes | Yes | Yes |
-| Fourth dhyāna | Yes | Yes | Yes |
-| Infinity of space | Yes | Yes | Yes |
-| Infinity of consciousness | Yes | Yes | Yes |
-| Nothingness | Yes | Yes | Yes |
-| Neither-perception-nor-non-perception, bhavāgra | Yes | Yes | No |
+**Signature.** `Principal(x)` (one of the eight), `Mode(m)`, `Admits(x,m)`
+(the classification admits mode `m` for attainment `x`), `Summit(x)`
+(bhavāgra), `Attenuated(x)` (the 8.04 attenuation of perception).
 
-“Yes” states admissibility in the source classification.
-It does not mean simultaneous possession of all three
-modes or guarantee that a practitioner who reaches a
-level has acquired every admitted mode.
+**Facts (the attainment-mode matrix).** One row per admitted pair; the
+extension of `Admits` is a two-column frame. `Admits` has 23 rows: seven
+attainments with three modes, and bhavāgra with two. This count is read from
+the data, not derived by the logic, and it is an editorial count, not a
+replacement for the source's eight principal kinds.
 
-The table yields twenty-three level-mode combinations
-by arithmetic, seven times three plus two. This is
-an editorial count of the table, not a replacement
-for the source's eight principal attainment kinds.
-
-**The exception determines the rule's scope.**
-
-```text
-Principal attainment kinds:
-    Four dhyanas + four formless attainments = eight
-
-Admitted modes:
-    First seven: Savoring-associated | Pure | Uncontaminated
-    Eighth: Savoring-associated | Pure
+```nltk-valuation
+first => first
+second => second
+third => third
+fourth => fourth
+space => space
+consciousness => consciousness
+nothingness => nothingness
+bhavagra => bhavagra
+savor => savor
+pure => pure
+unc => unc
+Principal => {first, second, third, fourth, space, consciousness, nothingness, bhavagra}
+Mode => {savor, pure, unc}
+Summit => {bhavagra}
+Admits => {(first,savor),(first,pure),(first,unc),(second,savor),(second,pure),(second,unc),(third,savor),(third,pure),(third,unc),(fourth,savor),(fourth,pure),(fourth,unc),(space,savor),(space,pure),(space,unc),(consciousness,savor),(consciousness,pure),(consciousness,unc),(nothingness,savor),(nothingness,pure),(nothingness,unc),(bhavagra,savor),(bhavagra,pure)}
 ```
 
-The same form of threefold classification does not
-extend uniformly to the eighth. Nor does the absence
-of an uncontaminated eighth imply that no lower attainment
-can be uncontaminated; the first seven explicitly admit it.
+**Rules (verse and prose).**
 
-**Relation to the opening definition.** VAK 8.01 gave
-wholesome one-pointedness as the general defining nature
-of attainment-dhyāna and discussed extended use of the
-name for afflicted counterparts. The present classification
-now distinguishes modes rather than requiring all named
-occurrences to be ethically or soteriologically identical.
-The detailed account of savoring and pure attainment
-will make that distinction more explicit in VAK 8.06.
+```nltk-fol
+# THEORY shared
+# [verse] sapta ... tridhā: the seven admit all three modes
+all x.((Principal(x) & -Summit(x)) -> (Admits(x,savor) & Admits(x,pure) & Admits(x,unc)))
+# [verse] aṣṭamaṃ dvidhā; [prose] ∅-bhavāgram: the eighth admits two, not the third
+Principal(bhavagra)
+Summit(bhavagra)
+Admits(bhavagra,savor)
+Admits(bhavagra,pure)
+-Admits(bhavagra,unc)
+# [prose] the one exception: only the summit lacks the uncontaminated mode
+all x.((Principal(x) & -Admits(x,unc)) -> Summit(x))
+```
 
-**The reason for the exception is not yet given here.**
-VAK 8.04 explained the attenuation of perception in
-the fourth formless attainment. VAK 8.05 states the
-absence of its uncontaminated form but does not itself
-provide a causal derivation from that attenuation.
-The two statements should not be connected by an
-unstated explanatory “because.”
+**Model check (`Model.satisfy` against the facts).** The three rules above
+hold in the matrix. The naive uniform rule
+`all x.(Principal(x) -> Admits(x,unc))` is false there, so the exception
+determines the rule's scope: threefold classification does not extend
+uniformly to the eighth.
+
+**Proof check (NLTK `TableauProver` and `ResolutionProver` agree).** From
+the first rule and the summit's missing mode, `Summit(bhavagra)` follows: the
+summit is not among the seven. The converse overreach is blocked: that the
+summit lacks `unc` does not entail that no lower attainment admits it: given
+any non-summit `Principal` (such as `first`),
+`exists x.(Principal(x) & Admits(x,unc))` is derivable from the first rule.
+
+**Scope cautions.**
+- `Admits` is admissibility in the classification, not simultaneous
+  possession of all three modes, and not a guarantee that a practitioner who
+  reaches a level has acquired every admitted mode. No rule asserts
+  `Has(person,x,m)`.
+- No rule links `Attenuated(bhavagra)` to `-Admits(bhavagra,unc)`. VAK 8.04
+  explains the attenuation of perception; VAK 8.05 states the missing mode
+  without deriving it. The grammar permits no unstated “because”.
+- The relation to VAK 8.01 is by mode: ethical and soteriological identity is
+  not required of every occurrence of the name. The detailed account of
+  savoring and pure modes is VAK 8.06.
 
 ## 9. Interpretive Note
 

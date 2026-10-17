@@ -44,32 +44,49 @@ three simultaneous mental events.
 
 ## 4. Grammar
 
-**Two names two specific levels.** The prose identifies
-first and second dhyāna, explaining muditā's range
-through its saumanasya nature.
+The first locative fixes sympathetic joy to two dhyānas; the six/five disagreement applies to the other three. The denial concerns abandonment, while human generation and later possession are separate claims; the final masculine predicate describes the attainer.
 
-**The other three share the broader count.** Anyāni
-means friendliness, compassion, and equanimity. The
-six/five disagreement concerns these three, not a
-recount of how many immeasurables exist.
+```nltk-fcfg
+% start S
+# tokens: dhyānayoḥ ∅-prathama-dvitīya muditā anyāni ∅-trīṇi ṣaṭsu kecit tu pañcasu na taiḥ prahāṇam ∅-apramāṇāni nṛṣu eva janyante ∅-apramāṇalābhī tryanvitaḥ dhruvam
+S -> CL[K=joy_level] CL[K=other_levels] CL[K=no_abandonment] CL[K=generation] CL[K=possession]
+CL[K=joy_level] -> N[CASE=loc,NUM=du,GEN=n] N[CASE=loc,NUM=du,GEN=n,SUPPLIED=prose] N[CASE=nom,NUM=sg,GEN=f]
+CL[K=other_levels] -> ADJ[CASE=nom,NUM=pl,GEN=n] NUMR[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] N[CASE=loc,NUM=pl,GEN=n] PRON[CASE=nom,NUM=pl,GEN=m,ATTR=yes] PTCL[CONTRAST=yes] N[CASE=loc,NUM=pl,GEN=n]
+CL[K=no_abandonment] -> NEG[CASE=none,NUM=none,GEN=none] PRON[CASE=ins,NUM=pl,GEN=m] N[CASE=nom,NUM=sg,GEN=n]
+CL[K=generation] -> N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] N[CASE=loc,NUM=pl,GEN=m] PTCL[RESTRICT=yes] V[PERS=3,NUM=pl,TENSE=pres,VOICE=pass]
+CL[K=possession] -> N[CASE=nom,NUM=sg,GEN=m,SUPPLIED=prose] ADJ[CASE=nom,NUM=sg,GEN=m] ADV[CASE=none,NUM=none,GEN=none,CERTAIN=yes]
+N[CASE=loc,NUM=du,GEN=n] -> 'dhyānayoḥ'
+N[CASE=loc,NUM=du,GEN=n,SUPPLIED=prose] -> '∅-prathama-dvitīya'
+N[CASE=nom,NUM=sg,GEN=f] -> 'muditā'
+ADJ[CASE=nom,NUM=pl,GEN=n] -> 'anyāni'
+NUMR[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] -> '∅-trīṇi'
+N[CASE=loc,NUM=pl,GEN=n] -> 'ṣaṭsu' | 'pañcasu'
+PRON[CASE=nom,NUM=pl,GEN=m,ATTR=yes] -> 'kecit'
+PTCL[CASE=none,NUM=none,GEN=none,CONTRAST=yes] -> 'tu'
+NEG[CASE=none,NUM=none,GEN=none] -> 'na'
+PRON[CASE=ins,NUM=pl,GEN=m] -> 'taiḥ'
+N[CASE=nom,NUM=sg,GEN=n] -> 'prahāṇam'
+N[CASE=nom,NUM=pl,GEN=n,SUPPLIED=prose] -> '∅-apramāṇāni'
+N[CASE=loc,NUM=pl,GEN=m] -> 'nṛṣu'
+PTCL[CASE=none,NUM=none,GEN=none,RESTRICT=yes] -> 'eva'
+V[CASE=none,NUM=pl,GEN=none,PERS=3,TENSE=pres,VOICE=pass] -> 'janyante'
+N[CASE=nom,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-apramāṇalābhī'
+ADJ[CASE=nom,NUM=sg,GEN=m] -> 'tryanvitaḥ'
+ADV[CASE=none,NUM=none,GEN=none,CERTAIN=yes] -> 'dhruvam'
+```
 
-**The denial concerns abandonment.** Na taiḥ prahāṇam
-does not deny every counteractive effect. The
-commentary distinguishes suppression by preparatory cultivation
-from abandonment by the paths of abandonment.
+```nltk-dep
+'muditā' -> 'dhyānayoḥ' | '∅-prathama-dvitīya'
+'anyāni' -> '∅-trīṇi' | 'ṣaṭsu' | 'kecit' | 'tu' | 'pañcasu'
+'prahāṇam' -> 'na' | 'taiḥ'
+'janyante' -> '∅-apramāṇāni' | 'nṛṣu' | 'eva'
+'∅-apramāṇalābhī' -> 'tryanvitaḥ' | 'dhruvam'
+```
 
-**Generation differs from later possession.** The
-human restriction governs janyante. The final example
-then describes possession after rebirth in higher
-dhyānas. These statements would conflict if human
-generation were misread as exclusion of all later
-nonhuman possession.
+`Viṣkambhaṇa` by preparatory cultivation is not `prahāṇa` by abandonment-path.
+`Tryanvitaḥ` is the attainer, not an immeasurable; the attributed five-level count is
+preserved alongside six.
 
-**Endowed with three answers a possession question.**
-The prose asks whether possession of one entails
-possession of all four. It answers with three
-invariably possessed and supplies higher-dhyāna rebirth
-as a case in which muditā is absent.
 
 **Close construe.** Sympathetic joy belongs to the
 first two dhyānas; the other three to six

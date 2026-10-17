@@ -38,37 +38,48 @@ not presented as a mechanically identical transcription.
 
 ## 4. Grammar
 
-**Four, considered in two ways.** `Dhyānāni catvāri`
-counts first through fourth dhyāna. `Dvidhā` distinguishes
-birth-dhyāna and attainment-dhyāna. It does not reduce
-the four to two or add four new attainments.
+Feature grammar (NLTK notation). Case, number and gender are unified, so
+agreement is enforced by the grammar: `proktāḥ` (f.) cannot take neuter
+`dhyānāni`. Words supplied from the Bhāṣya carry `SUPPLIED=prose`.
 
-**The rebirths have already been explained.** `Proktās
-tadupapattayaḥ` is a separate nominal statement with
-past participle. The Bhāṣya points to Lokanirdeśa and
-therefore turns here to attainment rather than repeating
-the rebirth exposition.
+```nltk-fcfg
+% start S
+# tokens: dvidhā dhyānāni catvāri proktāḥ tadupapattayaḥ samāpattiḥ śubhaikāgryam pañcaskandhāḥ tu sānugam ∅-samāpattidhyānam
+S -> CL[K=classify] CL[K=state] CL[K=define] CL[K=contrast]
 
-**The definition is local.** `Samāpattiḥ śubhaikāgryam`
-is a nominal definition. The prose explicitly supplies
-`samāpattidhyāna`: the present statement concerns dhyāna
-as attainment. It must not automatically define every
-attainment mentioned anywhere in the Kośa as this one
-wholesome mental factor.
+CL[K=classify] -> ADV[MODE=twofold] N[CASE=nom,NUM=?n,GEN=?g] NUMR[NUM=?n,GEN=?g]
+CL[K=state]    -> PTCP[CASE=nom,NUM=?n,GEN=?g,TENSE=past] N[CASE=nom,NUM=?n,GEN=?g]
+CL[K=define]   -> N[CASE=nom,GEN=f,LOCAL=yes] N[CASE=nom,GEN=n]
+CL[K=contrast] -> N[CASE=nom,NUM=pl,GEN=m] PTCL[CONTRAST=yes] ADJ[GEN=?g] N[GEN=?g,SUPPLIED=prose]
 
-**With accompaniment.** `Pañcaskandhās tu sānugam`
-contrasts the defining nature with the accompanied
-constitution. The neuter `sānugam` does not directly
-agree with feminine `samāpattiḥ`; the compressed clause
-is clarified by the prose's `saparivāraṃ ... pañcaskandhasvabhāvam`.
-An understood neuter dhyāna or its just-stated constitution
-provides the contextual construal. It is not necessary
-to call `sānugam` an intrinsically indeclinable word.
+ADV[MODE=twofold]  -> 'dvidhā'
+N[CASE=nom,NUM=pl,GEN=n]  -> 'dhyānāni'
+NUMR[NUM=pl,GEN=n]        -> 'catvāri'
+PTCP[CASE=nom,NUM=pl,GEN=f,TENSE=past] -> 'proktāḥ'
+N[CASE=nom,NUM=pl,GEN=f]  -> 'tadupapattayaḥ'
+N[CASE=nom,NUM=sg,GEN=f,LOCAL=yes] -> 'samāpattiḥ'
+N[CASE=nom,NUM=sg,GEN=n]  -> 'śubhaikāgryam'
+N[CASE=nom,NUM=pl,GEN=m]  -> 'pañcaskandhāḥ'
+PTCL[CONTRAST=yes] -> 'tu'
+ADJ[GEN=n]                -> 'sānugam'
+N[GEN=n,SUPPLIED=prose]   -> '∅-samāpattidhyānam'
+```
 
-**Close construe.** The four dhyānas are twofold. Their
-corresponding births have been explained. As attainment,
-dhyāna is wholesome one-pointedness; with its accompaniment,
-however, it has the constitution of the five Bases.
+```nltk-dep
+'dhyānāni' -> 'dvidhā' | 'catvāri'
+'proktāḥ' -> 'tadupapattayaḥ'
+'śubhaikāgryam' -> 'samāpattiḥ'
+'pañcaskandhāḥ' -> 'tu' | 'sānugam'
+```
+
+The definition is local: the supplied `samāpattidhyānam` restricts it to
+attainment-dhyāna (`LOCAL=yes`). `sānugam` is neuter and agrees with that
+supplied head, not with feminine `samāpattiḥ`.
+
+**Close construe.** The four dhyānas are twofold. Their corresponding
+births have been explained. As attainment, dhyāna is wholesome
+one-pointedness; with its accompaniment, however, it has the constitution
+of the five Bases.
 
 ## 5. Translation
 
@@ -156,76 +167,101 @@ not a claim that every form of attention is liberating insight.
 
 ## 8. Logical Determination
 
-**The chapter transition.** The opening refers back to
-the qualities treated under knowledge and begins with
-dhyānas because they support the qualities under discussion.
-The phrase `sarvaguṇāśrayatvāt` gives the reason for
-starting here. Its scope should not be inflated into
-a thesis that all properties of everything derive from
-meditative concentration.
+Feature grammar (§4) yields syntax; this section composes it into logic.
+Each lexical entry carries a lambda `SEM`; beta-reduction over the §4 parse
+gives the formula. Provenance tags: `[verse]`, `[prose]` (Bhāṣya-supplied),
+and the speaker of a position. In NLTK a single letter plus digits (`c1`) is a
+variable, so individual constants carry longer names (`mind1`).
 
-| Question | Determination |
-|---|---|
-| How many dhyānas? | Four |
-| In what two respects? | Birth and attainment |
-| Which respect is developed here? | Attainment |
-| Defining nature? | Wholesome one-pointedness, samādhi |
-| With accompaniment? | Five Bases |
+**Signature.** `Dhyana(x)` (four), `SamapattiDhyana(x)` (the attainment
+respect), `Citta(c)`, `Kusala(c)`, `Ekagra(c)`, `Constitutes(c,x)`,
+`Retinue(p,x)`, `FiveBases(p)`, `Samadhi(s)`, `Factor(s)`, `By(c,s)`,
+`Excellent(s)`, `Yoked(s)` (tranquillity and insight together), `Named(x,n)`.
 
-**The samādhi dispute.** The first objection says that
-if one-pointedness means one object-support, the minds
-themselves could be samādhi; no additional associated
-factor would be required. The reply distinguishes the
-minds from the dharma by which they operate one-pointedly.
+**Composition (the definitional clause, `K=define`).**
 
-The following exchange tests momentariness, non-distraction,
-and the usefulness of an associated samādhi. Its compressed
-wording should not be expanded into a wholly reconstructed
-sequence of speakers beyond what the argument secures.
-The universal-factor objection and weakness reply are
-clear: occurrence in every mind does not entail an
-equal or developed degree of collectedness.
-
-Others, expressly marked `apare`, identify samādhi with
-the one-pointed minds themselves. Their appeal is to
-scriptural teaching of the four dhyānas as higher-mind
-training and as principally purifying mind.
-
-```text
-Distinct-factor account:
-    Samadhi is the dharma by which minds operate one-pointedly.
-    Universal occurrence need not mean developed strength.
-
-Other teachers:
-    The one-pointed minds themselves are samadhi.
-    Higher-mind training and purification support this account.
+```nltk-sem
+# lexicon SEM
+samāpattiḥ        : \P.\x.(SamapattiDhyana(x) & P(x))
+śubhaikāgryam     : \x.exists c.(Kusala(c) & Ekagra(c) & Constitutes(c,x))
+# [prose] ∅-samāpattidhyānam supplies the head; beta-reduction gives:
+all x.(SamapattiDhyana(x) -> exists c.(Kusala(c) & Ekagra(c) & Constitutes(c,x)))
 ```
 
-The two accounts are not harmonized into one doctrine.
-The second is not merely a synonym for the first: it
-denies the need to identify an additional mental factor
-as the explanatory entity.
+**Facts (extension of the Dataset).** The table of questions becomes a
+`Valuation`: rows in a frame, one relation per column.
 
-**Why not every samādhi is dhyāna.** The prose explains
-“they meditate by it” as “they know,” since a collected
-mind knows as things are. It then restricts the name
-to the excellent form, using the comparison with
-`bhāskara`, the sun or light-maker: a designation can
-be reserved for an outstanding instance.
+```nltk-valuation
+first => first
+second => second
+third => third
+fourth => fourth
+birth => birth
+attainment => attainment
+Dhyana => {first, second, third, fourth}
+Respect => {(first, birth), (first, attainment), (second, birth), (second, attainment), (third, birth), (third, attainment), (fourth, birth), (fourth, attainment)}
+Developed => {(attainment,)}
+```
 
-The excellent samādhi is endowed with factors and
-carries tranquillity and insight yoked together. The
-source connects these with pleasant abiding in the
-present life and a pleasant path of progress.
+**Rules (verse and prose).**
 
-**Afflicted dhyāna.** The closing question asks how an
-afflicted state receives the dhyāna name. Wrong contemplation
-is mentioned, and the reply to overextension restricts
-the name to a counterpart resembling the relevant state,
-like a rotten seed still bearing the name seed. The
-prose also notes scriptural mention of unwholesome dhyānas.
-This explains an extension of the name without removing
-`śubha` from the initial definition of the wholesome attainment.
+```nltk-fol
+# THEORY shared
+# [verse] dvidhā: each of the four is considered in both respects
+all x.(Dhyana(x) -> (Respect(x,birth) & Respect(x,attainment)))
+# [verse] samāpattiḥ śubhaikāgryam; [prose] ∅-samāpattidhyānam
+all x.(SamapattiDhyana(x) -> Dhyana(x))
+all x.(SamapattiDhyana(x) -> exists c.(Kusala(c) & Ekagra(c) & Constitutes(c,x)))
+# [verse] pañcaskandhās tu sānugam; [prose] saparivāra
+all x.(SamapattiDhyana(x) -> exists p.(Retinue(p,x) & FiveBases(p)))
+```
+
+**Theories (one per attributed position; never merged).**
+
+```nltk-fol
+# THEORY vaibhāṣika — samādhi is the dharma by which minds are one-pointed
+all c.(Citta(c) -> -Samadhi(c))
+all c.(Ekagra(c) -> exists s.(Samadhi(s) & Factor(s) & By(c,s)))
+all s.(Factor(s) -> -Citta(s))
+# the weakness reply: universal occurrence does not give developed strength
+all c.(Citta(c) -> exists s.(Samadhi(s) & Occurs(s,c)))
+exists s.(Samadhi(s) & Weak(s))
+all s.(Weak(s) -> -Developed(s))
+
+# THEORY apare — the one-pointed minds themselves are samādhi
+all c.((Citta(c) & Ekagra(c)) -> Samadhi(c))
+```
+
+**Naming and the afflicted case.**
+
+```nltk-fol
+# THEORY shared
+# [prose] bhāskara: the name dhyāna is reserved for the excellent samādhi
+all s.(Named(s,dhyana) -> (Samadhi(s) & Excellent(s)))
+all s.(Excellent(s) <-> (Samadhi(s) & Factor(s) & Yoked(s)))
+# [prose] afflicted dhyāna: named by resemblance (rotten seed), not by definition
+all a.((Afflicted(a) & Named(a,dhyana)) -> (Resembles(a,dhyana) & -SamapattiDhyana(a)))
+```
+
+**Consistency results (NLTK `ResolutionProver`).** The definition entails
+`exists c.(Kusala(c) & Ekagra(c))` from any attainment-dhyāna. The vaibhāṣika
+and `apare` theories are each consistent with a one-pointed mind `mind1`; their
+union is contradictory, because the first denies that any `Citta` is `Samadhi`
+and the second asserts it. This is the formal content of “not harmonized into
+one doctrine”: the dispute is whether the explanatory entity is a distinct
+factor, not a difference of wording.
+
+**Scope cautions.**
+- `sarvaguṇāśrayatvāt` is restricted to the qualities treated under knowledge
+  (`all q.(Quality7(q) -> Supports(dhyana,q))`); the inflated reading
+  `all q.(Property(q) -> DerivesFrom(q,samadhi))` is not asserted.
+- The momentariness and non-distraction exchange is not assigned to further
+  speakers beyond what the Bhāṣya secures; the weakness reply stands only
+  as stated.
+- Afflicted naming does not remove `kusala` from the definition: the
+  last rule leaves `SamapattiDhyana` untouched.
+- The `apare` appeal (higher-mind training, purification of mind) is
+  evidence offered by that position, not a premise of the vaibhāṣika theory.
 
 ## 9. Interpretive Note
 

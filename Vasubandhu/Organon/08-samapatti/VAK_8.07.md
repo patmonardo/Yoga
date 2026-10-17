@@ -36,28 +36,31 @@ those expanded words to be substituted into the verse.
 
 ## 4. Grammar
 
-**The first inventory.** `Pañca` supplies `aṅgāni`,
-explicit in the prose. `Ādye` fixes the first dhyāna
-as the locus. The following words enumerate two plus
-three: vitarka and vicāra, then joy, ease, and samādhi.
-They are not five Bases or five separate attainments.
+The first clause counts a dual pair plus a triad; in the second, the prose reorders but does not enlarge that triad. `Prītyādayaḥ` excludes vitarka and vicāra, and samādhi is glossed as one-pointedness; five factors are not five attainments.
 
-**An abbreviated reference to the retained three.**
-`Prītyādayaḥ` refers to the immediately preceding triad
-beginning with prīti. It does not carry forward vitarka
-and vicāra or introduce an indefinite list of every
-factor associated with joy.
+```nltk-fcfg
+% start S
+# tokens: pañcādye tarkacārau ca prītisaukhyasamādhayaḥ prītyādayaḥ prasādaḥ ca dvitīye aṅgacatuṣṭayam
+S -> CL[K=first] CL[K=second]
+CL[K=first] -> LOC[CASE=loc,NUM=sg,GEN=n,COUNT=five] N[CASE=nom,NUM=du,GEN=m,COUNT=two] CONJ[COORD=yes] N[CASE=nom,NUM=pl,GEN=m,COUNT=three]
+CL[K=second] -> N[CASE=nom,NUM=pl,GEN=m,COUNT=three] N[CASE=nom,NUM=sg,GEN=m,ADD=yes] CONJ[COORD=yes] LOC[CASE=loc,NUM=sg,GEN=n] N[CASE=nom,NUM=sg,GEN=n,COUNT=four]
+LOC[CASE=loc,NUM=sg,GEN=n,COUNT=five] -> 'pañcādye'
+N[CASE=nom,NUM=du,GEN=m,COUNT=two] -> 'tarkacārau'
+CONJ[COORD=yes] -> 'ca'
+N[CASE=nom,NUM=pl,GEN=m,COUNT=three] -> 'prītisaukhyasamādhayaḥ'
+N[CASE=nom,NUM=pl,GEN=m,COUNT=three] -> 'prītyādayaḥ'
+N[CASE=nom,NUM=sg,GEN=m,ADD=yes] -> 'prasādaḥ'
+LOC[CASE=loc,NUM=sg,GEN=n] -> 'dvitīye'
+N[CASE=nom,NUM=sg,GEN=n,COUNT=four] -> 'aṅgacatuṣṭayam'
+```
 
-**The added named factor.** `Prasādaś ca` joins inward
-clarity to those three, giving `aṅgacatuṣṭayam` in the
-second dhyāna. The prose specifies the order as inward
-clarity, joy, ease, and one-pointedness of mind; the
-change of ordering does not alter the fourfold membership.
+```nltk-dep
+'prītisaukhyasamādhayaḥ' -> 'tarkacārau' | 'ca' | 'pañcādye'
+'aṅgacatuṣṭayam' -> 'prītyādayaḥ' | 'prasādaḥ' | 'ca' | 'dvitīye'
+```
 
-**Samādhi is expanded as one-pointedness.** The prose
-uses `cittaikāgratā` in the first list and a variant
-`cittekāgratā` in the second. This connects the counted
-factor to the defining samādhi determination of VAK 8.01.
+`Prītyādayaḥ` is restricted to the immediately preceding triad; it does not include vitarka/vicāra. The first-dhyāna factors remain five, not five separate attainments.
+
 
 **Close construe.** In the first dhyāna are five factors:
 vitarka, vicāra, joy, ease, and concentration. In the

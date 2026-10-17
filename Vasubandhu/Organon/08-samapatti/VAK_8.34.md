@@ -40,29 +40,43 @@ object categories rather than one unrestricted truth-field.
 
 ## 4. Grammar
 
-**The first are the form-related three.** The
-prose specifies desire-domain rūpāyatana, visible form,
-unpleasant or pleasant as appropriate. This covers
-the two unattractive releases and the third beautiful release.
+The relative-correlative pair separates the first three form-object releases from the four formless releases. The Bhāṣya restricts the knowledge-side qualifier to the path and explicitly expands the remaining object list.
 
-**The relative clause selects the four formless releases.**
-Ye tv arūpiṇaḥ does not include cessation-attainment
-as if it were another object-taking formless release.
-The object statement concerns the four previously enumerated.
+```nltk-fcfg
+% start S
+# tokens: kāmāptadṛśyaviṣayāḥ ∅-rūpāyatanam ∅-yathāyogam prathamāḥ ∅-trayaḥ ye tu arūpiṇaḥ te anvayajñānapakṣordhvasvabhūduḥkhādigocarāḥ ∅-duḥkham ∅-taddhetuḥ ∅-nirodhau ∅-mārgaḥ ∅-apratisaṃkhyānirodhaḥ ∅-ākāśam
+S -> CL[K=visible] CL[K=formless]
 
-**The path clause has a distinct qualification.**
-The commentary lists own-/higher-level suffering,
-its cause and cessation, and all the path
-on the anvayajñāna side. The knowledge-side phrase
-must not be loosely applied to every item
-as a generic manner of inference.
+CL[K=visible] -> ADJ[CASE=?c,NUM=?n,GEN=?g,OBJ=yes] N[CASE=acc,NUM=sg,GEN=n,SUPPLIED=prose] ADV[SUPPLIED=prose] N[CASE=?c,NUM=?n,GEN=?g] NUMR[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose]
+CL[K=formless] -> PRON[CASE=?c,NUM=?n,GEN=?g,REL=yes] PTCL[CONTRAST=yes] N[CASE=?c,NUM=?n,GEN=?g] PRON[CASE=?c,NUM=?n,GEN=?g,CORR=yes] ADJ[CASE=?c,NUM=?n,GEN=?g,OBJ=yes] OBJSEQ
+OBJSEQ -> OBJ[K=dukkha] OBJ[K=hetu] OBJ[K=nirodha] OBJ[K=marga] OBJ[K=cessation] OBJ[K=space]
 
-**And so forth needs explicit expansion.** Duḥkhādi
-is resolved through the prose list and supplemented
-by non-analytical cessation and, for one release,
-space. A summary giving only four truth names
-would omit those explicit additions.
+ADJ[CASE=nom,NUM=pl,GEN=m,OBJ=yes] -> 'kāmāptadṛśyaviṣayāḥ'
+N[CASE=acc,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-rūpāyatanam'
+ADV[SUPPLIED=prose] -> '∅-yathāyogam'
+N[CASE=nom,NUM=pl,GEN=m] -> 'prathamāḥ'
+NUMR[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] -> '∅-trayaḥ'
+PRON[CASE=nom,NUM=pl,GEN=m,REL=yes] -> 'ye'
+PTCL[CONTRAST=yes] -> 'tu'
+N[CASE=nom,NUM=pl,GEN=m] -> 'arūpiṇaḥ'
+PRON[CASE=nom,NUM=pl,GEN=m,CORR=yes] -> 'te'
+ADJ[CASE=nom,NUM=pl,GEN=m,OBJ=yes] -> 'anvayajñānapakṣordhvasvabhūduḥkhādigocarāḥ'
+OBJ[K=dukkha,SUPPLIED=prose] -> '∅-duḥkham'
+OBJ[K=hetu,SUPPLIED=prose] -> '∅-taddhetuḥ'
+OBJ[K=nirodha,SUPPLIED=prose] -> '∅-nirodhau'
+OBJ[K=marga,SUPPLIED=prose] -> '∅-mārgaḥ'
+OBJ[K=cessation,SUPPLIED=prose] -> '∅-apratisaṃkhyānirodhaḥ'
+OBJ[K=space,SUPPLIED=prose] -> '∅-ākāśam'
+```
 
+```nltk-dep
+'prathamāḥ' -> 'kāmāptadṛśyaviṣayāḥ' | '∅-rūpāyatanam' | '∅-yathāyogam' | '∅-trayaḥ'
+'te' -> 'ye' | 'tu' | 'arūpiṇaḥ'
+'anvayajñānapakṣordhvasvabhūduḥkhādigocarāḥ' -> 'te' | '∅-duḥkham' | '∅-taddhetuḥ' | '∅-nirodhau' | '∅-mārgaḥ' | '∅-apratisaṃkhyānirodhaḥ' | '∅-ākāśam'
+```
+
+`Prathamāḥ` means the first three; the correlates select the four formless releases, not cessation-release.
+`Anvayajñānapakṣa` qualifies the path alone; *ādi* also includes non-analytical cessation and space for one release.
 **Close construe.** The first three releases have
 visible desire-domain form as object. The formless
 releases have own-/higher-level suffering, its cause

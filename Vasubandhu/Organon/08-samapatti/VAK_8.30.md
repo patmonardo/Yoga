@@ -44,32 +44,44 @@ prose's later santu supplies the aspirational construe.
 
 ## 4. Grammar
 
-**Equanimity receives a mental-nature predicate.**
-The first nominal sentence identifies it with
-alobha. The commentary then raises a question
-about its opposition to ill will and proposes
-a further qualification of that nature.
+The opening nominal clause names equanimity's nature; the subsequent quoted forms distribute across the four immeasurables. The surface adjective “happy” is interpreted aspirationally from the Bhāṣya, and the final clause restricts the object-field to desire-domain beings.
 
-**The quoted forms require prose distribution.**
-The commentary assigns happy beings to friendliness,
-suffering beings to compassion, rejoicing to sympathetic
-joy, and simply beings to equanimity. Sattvāś
-ca therefore contributes the fourth form rather
-than merely repeating an object common to the
-first three.
+```nltk-fcfg
+% start S
+# tokens: upekṣā alobhaḥ ākāraḥ ∅-maitrī sukhitāḥ vata ∅-santu ∅-karuṇā duḥkhitāḥ vata ∅-muditā modantām iti sattvāḥ ca kāmasattvāḥ tu gocaraḥ
+S -> CL[K=nature] CL[K=friendliness] CL[K=compassion] CL[K=joy] CL[K=equanimity_form] CL[K=field]
+CL[K=nature] -> N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=m] N[CASE=nom,NUM=sg,GEN=m,ROLE=aspect]
+CL[K=friendliness] -> N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] ADJ[CASE=nom,NUM=pl,GEN=m] PTCL[EXCL=yes] V[CASE=none,NUM=pl,GEN=none,PERS=3,TENSE=pres,MOOD=subj,SUPPLIED=prose]
+CL[K=compassion] -> N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] ADJ[CASE=nom,NUM=pl,GEN=m] PTCL[EXCL=yes]
+CL[K=joy] -> N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] V[CASE=none,NUM=pl,GEN=none,PERS=3,TENSE=pres,MOOD=imper,VOICE=mid] PTCL[QUOTE=yes]
+CL[K=equanimity_form] -> N[CASE=nom,NUM=pl,GEN=m] PTCL[ADD=yes]
+CL[K=field] -> N[CASE=nom,NUM=pl,GEN=m] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=m]
+N[CASE=nom,NUM=sg,GEN=f] -> 'upekṣā'
+N[CASE=nom,NUM=sg,GEN=m] -> 'alobhaḥ' | 'ākāraḥ'
+N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] -> '∅-maitrī' | '∅-karuṇā' | '∅-muditā'
+ADJ[CASE=nom,NUM=pl,GEN=m] -> 'sukhitāḥ' | 'duḥkhitāḥ'
+PTCL[CASE=none,NUM=none,GEN=none,EXCL=yes] -> 'vata'
+V[CASE=none,NUM=pl,GEN=none,PERS=3,TENSE=pres,MOOD=subj,SUPPLIED=prose] -> '∅-santu'
+V[CASE=none,NUM=pl,GEN=none,PERS=3,TENSE=pres,MOOD=imper,VOICE=mid] -> 'modantām'
+PTCL[CASE=none,NUM=none,GEN=none,QUOTE=yes] -> 'iti'
+N[CASE=nom,NUM=pl,GEN=m] -> 'sattvāḥ' | 'kāmasattvāḥ'
+PTCL[CASE=none,NUM=none,GEN=none,ADD=yes] -> 'ca'
+PTCL[CASE=none,NUM=none,GEN=none,CONTRAST=yes] -> 'tu'
+N[CASE=nom,NUM=sg,GEN=m] -> 'gocaraḥ'
+```
 
-**The happiness formula is interpreted through intention.**
-The surface adjective says happy; the subsequent
-reply explains the intention as “may they be.”
-The study translation therefore gives the wish
-without pretending that the adjective alone is
-grammatically an imperative.
+```nltk-dep
+'upekṣā' -> 'alobhaḥ' | 'ākāraḥ'
+'∅-maitrī' -> 'sukhitāḥ' | 'vata' | '∅-santu'
+'∅-karuṇā' -> 'duḥkhitāḥ' | 'vata'
+'∅-muditā' -> 'modantām' | 'iti' | 'sattvāḥ' | 'ca'
+'gocaraḥ' -> 'kāmasattvāḥ' | 'tu'
+```
 
-**The final predicate specifies the class of objects.**
-Desire-domain beings form the gocara. The prose
-uses kāmāvacarāḥ sattvāḥ as ālambana. This is
-an object restriction, not an assignment of the
-practitioner's meditative level.
+`Sukhitāḥ` itself is not imperative; `∅-santu` records the Bhāṣya's wish-reading.
+“Beings” is the fourth form, not a second description of the first three; the
+object-field is not the practitioner's level.
+
 
 **Close construe.** Equanimity is non-greed. The
 forms concern beings as happy, suffering, rejoicing,

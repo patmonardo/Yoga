@@ -41,33 +41,37 @@ metaphysical duality.
 
 ## 4. Grammar
 
-**Three predicates of the preceding subject.** Tridhā,
-aduḥkhāsukham, and mahābrahmaphalam characterize intermediate
-dhyāna by mode, feeling, and distinctive result.
-They answer different questions and are not three
-names for one property.
+The first predicates characterize intermediate dhyāna; masculine samādhi clauses then contrast below with above, with the latter subject carried from context.
 
-**Threefold now concerns intermediate dhyāna.** Unlike
-the reported alternative about first access in VAK 8.22,
-the present prose directly lists savoring-associated,
-pure, and uncontaminated modes of dhyānāntara.
-The numeral must remain attached to its new subject.
+```nltk-fcfg
+% start S
+# tokens: tridhā aduḥkhāsukham tat ca mahābrahmaphalam ca tat savitarkavicāraḥ adhaḥsamādhiḥ ∅-samādhiḥ parataḥ advayaḥ
+S -> CL[K=intermediate_properties] CL[K=below] CL[K=above]
+CL[K=intermediate_properties] -> ADV[COUNT=three] ADJ[CASE=nom,NUM=?n,GEN=?g,QUALITY=neutral] PRON[CASE=nom,NUM=?n,GEN=?g,REF=intermediate] CONJ ADJ[CASE=nom,NUM=?n,GEN=?g,RESULT=Mahabrahma] CONJ PRON[CASE=nom,NUM=?n,GEN=?g,REF=intermediate]
+CL[K=below] -> ADJ[CASE=nom,NUM=?n,GEN=?g,FACTORS=both] N[CASE=nom,NUM=?n,GEN=?g,KIND=samadhi,REL=below]
+CL[K=above] -> N[CASE=nom,NUM=?n,GEN=?g,KIND=samadhi,SUPPLIED=prose] ADV[REL=above] ADJ[CASE=nom,NUM=?n,GEN=?g,FACTORS=neither]
+ADV[COUNT=three] -> 'tridhā'
+ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=neutral] -> 'aduḥkhāsukham'
+PRON[CASE=nom,NUM=sg,GEN=n,REF=intermediate] -> 'tat'
+CONJ -> 'ca'
+ADJ[CASE=nom,NUM=sg,GEN=n,RESULT=Mahabrahma] -> 'mahābrahmaphalam'
+ADJ[CASE=nom,NUM=sg,GEN=m,FACTORS=both] -> 'savitarkavicāraḥ'
+N[CASE=nom,NUM=sg,GEN=m,KIND=samadhi,REL=below] -> 'adhaḥsamādhiḥ'
+N[CASE=nom,NUM=sg,GEN=m,KIND=samadhi,SUPPLIED=prose] -> '∅-samādhiḥ'
+ADV[REL=above] -> 'parataḥ'
+ADJ[CASE=nom,NUM=sg,GEN=m,FACTORS=neither] -> 'advayaḥ'
+```
 
-**The second half shifts to samādhi.** The masculine
-predicates agree with samādhiḥ. Below and beyond
-are measured relative to intermediate dhyāna, which
-supplies the middle member of the threefold classification.
+```nltk-dep
+'tat' -> 'tridhā' | 'aduḥkhāsukham' | 'ca' | 'mahābrahmaphalam' | 'ca'
+'adhaḥsamādhiḥ' -> 'savitarkavicāraḥ'
+'∅-samādhiḥ' -> 'parataḥ' | 'advayaḥ'
+```
 
-**Vicāra alone is relative to the pair.** The
-prose derives the middle member from the preceding
-verse's exclusion of vitarka alone. Vicāramātra does
-not assert that vicāra is the only mental factor
-present in intermediate dhyāna.
-
-**Advaya is explicitly glossed.** The prose says
-that these two are absent. Thus “without both”
-is more precise here than an unqualified translation
-as “nondual.”
+Tridhā here applies to intermediate attainment modes, not the reported first-access view
+of 8.22. Neutral feeling differs from difficult progress; advaya is explicitly absence
+of vitarka and vicāra, not metaphysical nonduality. Vicāra alone marks the pairwise
+middle, not the only mental factor.
 
 **Close construe.** Intermediate dhyāna has three modes,
 neutral feeling, and Mahābrahmā as its distinctive

@@ -43,29 +43,43 @@ as having aśubhā as their nature.
 
 ## 4. Grammar
 
-**The two are jointly located.** Prathamau refers
-to the first two releases. Dhyānayor dvayoḥ
-locates their practice in first and second dhyāna,
-as the prose specifies. The construction does
-not itself assign first release exclusively to
-first dhyāna and second release exclusively to second.
+The eight-count heads three explicit groupings: first two, third, and wholesome collected formless states. The prose jointly locates the first two in first and second dhyāna; `antye` is specifically fourth dhyāna, and the third's non-greed nature is not its aspect.
 
-**The last means fourth dhyāna.** The commentary
-explicitly locates the third, beautiful release
-in caturthadhyāna. Antye does not mean the
-last formless attainment.
+```nltk-fcfg
+% start S
+# tokens: aṣṭau vimokṣāḥ prathamau aśubhā dhyānayoḥ dvayoḥ ∅-prathama-dvitīya tṛtīyaḥ antye saḥ ca alobhaḥ śubhārūpyāḥ samāhitāḥ
+S -> CL[K=count] CL[K=first_two] CL[K=third] CL[K=formless]
+CL[K=count] -> NUMR[CASE=nom,NUM=pl,GEN=m] N[CASE=nom,NUM=pl,GEN=m]
+CL[K=first_two] -> NUMR[CASE=nom,NUM=du,GEN=m] N[CASE=nom,NUM=sg,GEN=f] N[CASE=loc,NUM=du,GEN=n] NUMR[CASE=loc,NUM=du,GEN=n] N[CASE=loc,NUM=du,GEN=n,SUPPLIED=prose]
+CL[K=third] -> NUMR[CASE=nom,NUM=sg,GEN=m] ADJ[CASE=loc,NUM=sg,GEN=n,FINAL=yes] PRON[CASE=nom,NUM=sg,GEN=m] PTCL[ADD=yes] N[CASE=nom,NUM=sg,GEN=m,NATURE=non_greed]
+CL[K=formless] -> ADJ[CASE=nom,NUM=pl,GEN=m,QUALITY=wholesome] ADJ[CASE=nom,NUM=pl,GEN=m,STATE=collected]
+NUMR[CASE=nom,NUM=pl,GEN=m] -> 'aṣṭau'
+N[CASE=nom,NUM=pl,GEN=m] -> 'vimokṣāḥ'
+NUMR[CASE=nom,NUM=du,GEN=m] -> 'prathamau'
+N[CASE=nom,NUM=sg,GEN=f] -> 'aśubhā'
+N[CASE=loc,NUM=du,GEN=n] -> 'dhyānayoḥ'
+NUMR[CASE=loc,NUM=du,GEN=n] -> 'dvayoḥ'
+N[CASE=loc,NUM=du,GEN=n,SUPPLIED=prose] -> '∅-prathama-dvitīya'
+NUMR[CASE=nom,NUM=sg,GEN=m] -> 'tṛtīyaḥ'
+ADJ[CASE=loc,NUM=sg,GEN=n,FINAL=yes] -> 'antye'
+PRON[CASE=nom,NUM=sg,GEN=m] -> 'saḥ'
+PTCL[CASE=none,NUM=none,GEN=none,ADD=yes] -> 'ca'
+N[CASE=nom,NUM=sg,GEN=m,NATURE=non_greed] -> 'alobhaḥ'
+ADJ[CASE=nom,NUM=pl,GEN=m,QUALITY=wholesome] -> 'śubhārūpyāḥ'
+ADJ[CASE=nom,NUM=pl,GEN=m,STATE=collected] -> 'samāhitāḥ'
+```
 
-**The final compound has one qualified subject.**
-Śubhārūpyāḥ means wholesome formless attainments,
-not “the beautiful release and the formless.”
-The prose says that only wholesome and collected
-formless states receive the designation ārūpyavimokṣa.
+```nltk-dep
+'vimokṣāḥ' -> 'aṣṭau' | 'prathamau' | 'tṛtīyaḥ' | 'śubhārūpyāḥ'
+'aśubhā' -> 'dhyānayoḥ' | 'dvayoḥ' | '∅-prathama-dvitīya'
+'alobhaḥ' -> 'saḥ' | 'ca' | 'antye'
+'śubhārūpyāḥ' -> 'samāhitāḥ'
+```
 
-**Also non-greed does not erase the aspect distinction.**
-The prose says the third too has non-greed
-as its nature, but is not aśubhā because
-its aspect is śubha. Mental nature and contemplative
-aspect therefore remain separate determinations.
+The first-two construction is jointly locative, not a one-to-one assignment. The third is
+non-greed but explicitly not aśubhā; the formless-release label is restricted to wholesome,
+collected states.
+
 
 **Close construe.** There are eight releases. The
 first two are unattractive contemplations in the

@@ -41,26 +41,35 @@ replaced with the two-word apare samādhayaḥ.
 
 ## 4. Grammar
 
-**The first subject is inherited.** Te refers to
-emptiness, non-directed, and signless samādhis from
-VAK 8.24. The commentary explicitly says that
-these three are twofold, pure and uncontaminated.
+The first clause continues the three-samādhi subject and restricts its modes, bearer, and grounds; the second begins a distinct cultivation list. The human locative and practitioner genitive remain separate, as does present-life purpose from later rebirth.
 
-**The two adjectives specify modes, not simultaneous qualities.**
-Śuddha is explained as worldly pure; amala as
-uncontaminated and supramundane. The statement does
-not make one occurrence both contaminated and uncontaminated.
+```nltk-fcfg
+% start S
+# tokens: te śuddhāmalāḥ nirmalāḥ tu vimokṣamukhatrayam śūnyatāśūnyatādyākhyāḥ trayaḥ aparasamādhayaḥ
+S -> CL[K=modes] CL[K=gates] CL[K=further]
+CL[K=modes] -> N[CASE=?c,NUM=?n,GEN=?g] ADJ[CASE=?c,NUM=?n,GEN=?g,MODES=two]
+CL[K=gates] -> ADJ[CASE=nom,NUM=pl,GEN=m,MODE=uncontaminated] PTCL[CASE=none,NUM=none,GEN=none,CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=n,COLLECTIVE=yes]
+CL[K=further] -> ADJ[CASE=nom,NUM=pl,GEN=m,NAME=examples] NUMR[CASE=nom,NUM=pl,GEN=m] N[CASE=nom,NUM=pl,GEN=m]
+N[CASE=nom,NUM=pl,GEN=m] -> 'te'
+ADJ[CASE=nom,NUM=pl,GEN=m,MODES=two] -> 'śuddhāmalāḥ'
+ADJ[CASE=nom,NUM=pl,GEN=m,MODE=uncontaminated] -> 'nirmalāḥ'
+PTCL[CASE=none,NUM=none,GEN=none,CONTRAST=yes] -> 'tu'
+N[CASE=nom,NUM=sg,GEN=n,COLLECTIVE=yes] -> 'vimokṣamukhatrayam'
+ADJ[CASE=nom,NUM=pl,GEN=m,NAME=examples] -> 'śūnyatāśūnyatādyākhyāḥ'
+NUMR[CASE=nom,NUM=pl,GEN=m] -> 'trayaḥ'
+N[CASE=nom,NUM=pl,GEN=m] -> 'aparasamādhayaḥ'
+```
 
-**Stainless restricts the gate designation.** Nirmalās
-tu te selects their uncontaminated forms. The
-plural subject is predicated as a singular collective,
-the triad of gates. Amala and nirmala are not
-two additional attainment modes beyond anāsrava.
+```nltk-dep
+'te' -> 'śuddhāmalāḥ' | 'nirmalāḥ' | 'vimokṣamukhatrayam'
+'nirmalāḥ' -> 'tu'
+'aparasamādhayaḥ' -> 'trayaḥ' | 'śūnyatāśūnyatādyākhyāḥ'
+```
 
-**And so forth is filled out by the prose.**
-The second half names only the first further
-samādhi explicitly. The commentary supplies non-directedness-of-non-directedness
-and signlessness-of-signlessness in addition to emptiness-of-emptiness.
+The prose specifies śuddha/amala as worldly-pure/uncontaminated, and `nirmalās tu te`
+limits the gate designation to uncontaminated forms. `Ādi` supplies the two other doubled
+names; their exact objects are deferred to 8.26.
+
 
 **Close construe.** The preceding three samādhis have
 pure and uncontaminated forms; in their uncontaminated

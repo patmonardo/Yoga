@@ -42,29 +42,40 @@ yields `śāntato 'saṃkhyayā`.
 
 ## 4. Grammar
 
-**The dual selects the first two.** Dvau and
-ālambete refer to emptiness-of-emptiness and non-directedness-of-non-directedness.
-The commentary assigns each its corresponding adept
-samādhi as object. It does not posit one unspecified
-object shared without distinction by both.
+The dual subject selects the first two further samādhis and one shared adept-object; emptiness and impermanence are distributed to them. `Tu` marks a different object construction for signlessness-of-signlessness, whose cessation type is supplied by the Bhāṣya.
 
-**The aspects are distributed.** Emptiness applies
-to the first; impermanence to the second. The
-prose expands these as śūnyatākāreṇa and anityākāreṇa.
-The adverbial forms state how the object is
-apprehended, not the name of an additional object.
+```nltk-fcfg
+% start S
+# tokens: ∅-aparasamādhī dvau ∅-samādhi aśaikṣam ālambete śūnyataḥ ca api anityataḥ ānimittānimittaḥ tu śāntataḥ asaṃkhyayā kṣayam
+S -> CL[K=first_two] CL[K=third]
+CL[K=first_two] -> N[CASE=nom,NUM=du,GEN=m,SUPPLIED=prose] NUMR[CASE=nom,NUM=du,GEN=m] N[CASE=?c,NUM=?n,GEN=?g,SUPPLIED=prose] ADJ[CASE=?c,NUM=?n,GEN=?g] V[PERS=3,NUM=du,TENSE=pres,VOICE=mid] ADV[ASPECT=emptiness] PTCL[ADD=yes] PTCL[EMPH=yes] ADV[ASPECT=impermanence]
+CL[K=third] -> N[CASE=nom,NUM=sg,GEN=m] PTCL[CONTRAST=yes] ADV[ASPECT=peace] ABL[CASE=ins,NUM=sg,GEN=f,TYPE=cessation] N[CASE=acc,NUM=sg,GEN=m,TYPE=cessation]
+N[CASE=nom,NUM=du,GEN=m,SUPPLIED=prose] -> '∅-aparasamādhī'
+NUMR[CASE=nom,NUM=du,GEN=m] -> 'dvau'
+N[CASE=acc,NUM=sg,GEN=m,SUPPLIED=prose] -> '∅-samādhi'
+ADJ[CASE=acc,NUM=sg,GEN=m] -> 'aśaikṣam'
+V[CASE=none,NUM=du,GEN=none,PERS=3,TENSE=pres,VOICE=mid] -> 'ālambete'
+ADV[CASE=none,NUM=none,GEN=none,ASPECT=emptiness] -> 'śūnyataḥ'
+PTCL[CASE=none,NUM=none,GEN=none,ADD=yes] -> 'ca'
+PTCL[CASE=none,NUM=none,GEN=none,EMPH=yes] -> 'api'
+ADV[CASE=none,NUM=none,GEN=none,ASPECT=impermanence] -> 'anityataḥ'
+N[CASE=nom,NUM=sg,GEN=m] -> 'ānimittānimittaḥ'
+PTCL[CASE=none,NUM=none,GEN=none,CONTRAST=yes] -> 'tu'
+ADV[CASE=none,NUM=none,GEN=none,ASPECT=peace] -> 'śāntataḥ'
+ABL[CASE=ins,NUM=sg,GEN=f,TYPE=cessation] -> 'asaṃkhyayā'
+N[CASE=acc,NUM=sg,GEN=m,TYPE=cessation] -> 'kṣayam'
+```
 
-**Tu marks a different object construction.** The
-third samādhi takes kṣayam as object. The prose
-specifies the non-analytical cessation of an adept's
-signless samādhi. Aśaikṣasya ānimittasya is genitive
-there, qualifying the cessation concerned.
+```nltk-dep
+'ālambete' -> '∅-aparasamādhī' | 'dvau' | '∅-samādhi' | 'śūnyataḥ' | 'anityataḥ'
+'ānimittānimittaḥ' -> 'tu' | 'kṣayam' | 'śāntataḥ' | 'asaṃkhyayā'
+'kṣayam' -> 'aśaikṣam'
+```
 
-**Without analysis names the cessation type.** The
-Bhāṣya resolves the abbreviated expression by the
-technical term apratisaṃkhyānirodha. It should not
-be read as an instruction that the practitioner
-produce cessation by refusing to discriminate.
+The first two objects are corresponding adept samādhis, not one undifferentiated object
+relation; `asaṃkhyayā` is resolved as non-analytical cessation. The third clause must not
+inherit either aspect/object pairing.
+
 
 **Close construe.** The first two take corresponding
 adept samādhis as objects under emptiness and impermanence,

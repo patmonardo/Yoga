@@ -40,26 +40,40 @@ The prose unambiguously determines the count as eleven.
 
 ## 4. Grammar
 
-**The numeral is eleven.** The implied subject is the
-dhyāna factors just enumerated. Ten and one make eleven;
-`caikam` cannot be dropped from the construe. The prose
-confirms this with `dravyata etāny ekādaśa bhavanti`.
+The numerals yield eleven distinct factors, while the following equations identify selected members. `Ādyayoḥ` restricts pliancy-sukha to the first two dhyānas; the Bhāṣya reports a competing bodily-pleasure account without making it the principal reading.
 
-**Three nominal determinations.** The verse predicates
-pliancy of the first two dhyānas' sukha, confidence of
-prasāda, and pleasant-mindedness of prīti. The different
-genders of subject and predicate nouns do not prevent
-these identifications.
+```nltk-fcfg
+% start S
+# tokens: dravyato daśa ca ekam ca prasrabdhiḥ sukham ādyayoḥ śraddhā prasādaḥ prītiḥ tu saumanasyam dvidhāgamāt
+S -> CL[K=count] CL[K=first_two] CL[K=clarity] CL[K=joy]
+CL[K=count] -> ADV[COUNT=by_substance] NUM[VALUE=ten] CONJ[COORD=yes] NUM[VALUE=one] CONJ[COORD=yes]
+CL[K=first_two] -> N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=n,IDENTITY=pliancy] LOC[CASE=loc,NUM=du,GEN=n]
+CL[K=clarity] -> N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=m,IDENTITY=faith]
+CL[K=joy] -> N[CASE=nom,NUM=sg,GEN=f] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=n,IDENTITY=mental_joy] ABL[CASE=abl,NUM=sg,GEN=m,SOURCE=scripture]
+ADV[COUNT=by_substance] -> 'dravyato'
+NUM[VALUE=ten] -> 'daśa'
+CONJ[COORD=yes] -> 'ca'
+NUM[VALUE=one] -> 'ekam'
+N[CASE=nom,NUM=sg,GEN=f] -> 'prasrabdhiḥ'
+N[CASE=nom,NUM=sg,GEN=n,IDENTITY=pliancy] -> 'sukham'
+LOC[CASE=loc,NUM=du,GEN=n] -> 'ādyayoḥ'
+N[CASE=nom,NUM=sg,GEN=f] -> 'śraddhā'
+N[CASE=nom,NUM=sg,GEN=m,IDENTITY=faith] -> 'prasādaḥ'
+N[CASE=nom,NUM=sg,GEN=f] -> 'prītiḥ'
+PTCL[CONTRAST=yes] -> 'tu'
+N[CASE=nom,NUM=sg,GEN=n,IDENTITY=mental_joy] -> 'saumanasyam'
+ABL[CASE=abl,NUM=sg,GEN=m,SOURCE=scripture] -> 'dvidhāgamāt'
+```
 
-**The dual restricts the pleasure identification.**
-`Ādyayoḥ` supplies `dhyānayoḥ`: in the first two dhyānas.
-It does not extend the identification with pliancy to
-the third dhyāna's sukha. The prose makes the third's
-pleasure a feeling and counts it separately.
+```nltk-dep
+'daśa' -> 'dravyato' | 'ca' | 'ekam' | 'ca'
+'sukham' -> 'prasrabdhiḥ' | 'ādyayoḥ'
+'prasādaḥ' -> 'śraddhā'
+'saumanasyam' -> 'prītiḥ' | 'tu' | 'dvidhāgamāt'
+```
 
-**Scriptural grounds.** `Āgamāt` is causal. The prose
-unpacks `dvidhā` through two scriptural formulations,
-not through two occurrences of prīti in the factor lists.
+`Prasāda` is identified with śraddhā; prīti with saumanasya on two scriptural statements, not two occurrences. Pleasure in the third dhyāna remains a distinct feeling.
+
 
 **Close construe.** By distinct dharma, the factors are
 ten and one. In the first two dhyānas, sukha is pliancy.

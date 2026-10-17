@@ -44,34 +44,39 @@ as hānabhāgīya.
 
 ## 4. Grammar
 
-**Four numerals correspond to four predecessors.**
-The understood arising verb is supplied by the prose.
-The order is decline-, stability-, distinction-, and
-penetration-conducive. The counts concern which of
-these four pure types immediately follow each one.
+The first half counts immediate successors among the four pure types; the second is a preparation sequence whose absolutives continue into 8.19.
 
-**The quantifier's domain is explicit.** The introductory
-question says `eṣāṃ caturṇām`, of these four. “Only
-one” after nirvedhabhāgīya therefore means only one
-of the four pure types, not only one possible
-successor across every mode of attainment.
+```nltk-fcfg
+% start S
+# tokens: dve trīṇi trīṇi caikaṃ ca hānabhāgādyanantaram ∅-utpadyante gatvā āgamya dvidhā bhūmīr aṣṭau śliṣṭaikalaṅghitāḥ ∅-prayogaḥ
+S -> CL[K=successor_counts] CL[K=preparation]
+CL[K=successor_counts] -> NUM[CASE=nom,NUM=du,GEN=n] NUM[CASE=nom,NUM=pl,GEN=n] NUM[CASE=nom,NUM=pl,GEN=n] NUM[CASE=nom,NUM=sg,GEN=n] CONJ PREP[REL=after] V[PERS=3,NUM=pl,TENSE=pres,VOICE=mid,SUPPLIED=prose]
+CL[K=preparation] -> ABS[DIR=forward] ABS[DIR=reverse] ADV[MODES=two] N[CASE=acc,NUM=?n,GEN=?g] NUM[COUNT=eight] ADJ[CASE=acc,NUM=?n,GEN=?g,ORDER=contiguous_and_one_skipped] N[KIND=preparation,SUPPLIED=prose]
+NUM[CASE=nom,NUM=du,GEN=n] -> 'dve'
+NUM[CASE=nom,NUM=pl,GEN=n] -> 'trīṇi'
+NUM[CASE=nom,NUM=sg,GEN=n] -> 'caikaṃ'
+CONJ -> 'ca'
+PREP[REL=after] -> 'hānabhāgādyanantaram'
+V[PERS=3,NUM=pl,TENSE=pres,VOICE=mid,SUPPLIED=prose] -> '∅-utpadyante'
+ABS[DIR=forward] -> 'gatvā'
+ABS[DIR=reverse] -> 'āgamya'
+ADV[MODES=two] -> 'dvidhā'
+N[CASE=acc,NUM=pl,GEN=f] -> 'bhūmīr'
+NUM[COUNT=eight] -> 'aṣṭau'
+ADJ[CASE=acc,NUM=pl,GEN=f,ORDER=contiguous_and_one_skipped] -> 'śliṣṭaikalaṅghitāḥ'
+N[KIND=preparation,SUPPLIED=prose] -> '∅-prayogaḥ'
+```
 
-**Two directions and two modes are separate.**
-Gatvā and āgamya are glossed as forward and reverse
-entry. Dvidhā is glossed as contaminated and uncontaminated.
-It does not merely repeat “forward and backward.”
+```nltk-dep
+'∅-utpadyante' -> 'dve' | 'trīṇi' | 'caikaṃ' | 'hānabhāgādyanantaram'
+'bhūmīr' -> 'gatvā' | 'āgamya' | 'dvidhā' | 'aṣṭau' | 'śliṣṭaikalaṅghitāḥ'
+'∅-prayogaḥ' -> 'gatvā' | 'āgamya' | '∅-utpadyante'
+```
 
-**Eight is qualified by mode availability.** The verse
-names the eight principal levels; the prose specifies
-eight contaminated and seven uncontaminated attainments.
-It does not assign an uncontaminated attainment to
-the summit of existence.
-
-**The absolutives introduce preparation.** The second
-half does not supply a self-contained finite conclusion.
-Its construction continues into the next verse.
-The commentary calls the procedure explained here
-prayoga, preparation for the perfected skipping attainment.
+Dvidhā means contaminated and uncontaminated modes, not forward/reverse directions;
+contaminated is not synonymous with defiled. “One” after penetration-conducive counts
+only the pure types. Eight contaminated but seven uncontaminated levels are available;
+the skipped step is known, not blindly bypassed.
 
 **Close construe.** After the four pure types beginning
 with the decline-conducive, respectively two, three,

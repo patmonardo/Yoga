@@ -44,34 +44,37 @@ continuous text. It should not be segmented into
 
 ## 4. Grammar
 
-**The limit is relative to the starting level.**
-The examples show a reach from first dhyāna through
-third, and from second through fourth. “As far as
-the third” thus counts the starting level as first:
-at most two level-steps, with one intervening level
-when a level is skipped. It does not allow three
-level-steps or an unbounded “third and following.”
+The first clause limits successors by distance; the second carries that wholesome rule forward and adds a same-level defiled successor.
 
-**The same level is included.** Although the verse
-compresses its spatial language into upward/downward,
-the prose explicitly includes same-level pure and
-uncontaminated successors.
+```nltk-fcfg
+% start S
+# tokens: tṛtīyādyāvad ūrdhvādho anāsravānantaram śubham utpadyate tathā śuddhāt ∅-śubham ∅-utpadyate kliṣṭaṃ cāpi svabhūmikam
+S -> CL[K=after_uncontaminated] CL[K=after_pure]
+CL[K=after_uncontaminated] -> LIMIT[COUNT=relative] RANGE[DIR=both] PREP[REL=after] N[CASE=nom,NUM=?n,GEN=?g,QUAL=wholesome] V[PERS=3,NUM=?n,TENSE=pres,VOICE=mid]
+CL[K=after_pure] -> ADV[ANAPH=anaphoric] PREP[CASE=abl] N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose,QUAL=wholesome] V[PERS=3,NUM=sg,TENSE=pres,VOICE=mid,SUPPLIED=prose] N[CASE=nom,NUM=?n,GEN=?g,QUAL=defiled] ADD[FORCE=also] ADJ[CASE=nom,NUM=?n,GEN=?g,LEVEL=same]
+LIMIT[COUNT=relative] -> 'tṛtīyādyāvad'
+RANGE[DIR=both] -> 'ūrdhvādho'
+PREP[REL=after] -> 'anāsravānantaram'
+N[CASE=nom,NUM=sg,GEN=n,QUAL=wholesome] -> 'śubham'
+V[PERS=3,NUM=sg,TENSE=pres,VOICE=mid] -> 'utpadyate'
+ADV[ANAPH=anaphoric] -> 'tathā'
+PREP[CASE=abl] -> 'śuddhāt'
+N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose,QUAL=wholesome] -> '∅-śubham'
+V[PERS=3,NUM=sg,TENSE=pres,VOICE=mid,SUPPLIED=prose] -> '∅-utpadyate'
+N[CASE=nom,NUM=sg,GEN=n,QUAL=defiled] -> 'kliṣṭaṃ'
+ADD[FORCE=also] -> 'cāpi'
+ADJ[CASE=nom,NUM=sg,GEN=n,LEVEL=same] -> 'svabhūmikam'
+```
 
-**Śubha is the grammatical subject.** The wholesome
-attainment arises after the uncontaminated predecessor.
-The Bhāṣya expressly includes both śuddha and anāsrava
-under śubha because both are wholesome.
+```nltk-dep
+'utpadyate' -> 'śubham' | 'anāsravānantaram' | 'ūrdhvādho' | 'tṛtīyādyāvad'
+'∅-utpadyate' -> '∅-śubham' | 'śuddhāt' | 'tathā' | 'kliṣṭaṃ'
+'kliṣṭaṃ' -> 'cāpi' | 'svabhūmikam'
+```
 
-**Tathā carries forward the wholesome rule.** After
-a pure attainment, the previously described wholesome
-successions are available under the relevant conditions.
-The additional `kliṣṭaṃ cāpi` does not replace that
-rule with a solely pure-to-defiled transition.
-
-**Svabhūmika restricts the addition.** The defiled
-successor additionally permitted after a pure attainment
-belongs to the same level. This qualifier does not
-restrict all wholesome successors to that level.
+The limit counts the starting level as first (at most two level-steps); same-level
+successions remain included. Tathā resumes the wholesome successors, not a new
+unrestricted rule; svabhūmika qualifies only the added defiled item.
 
 **Close construe.** Immediately after an uncontaminated
 attainment, wholesome attainment arises on the same

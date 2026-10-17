@@ -43,31 +43,34 @@ that difference is disclosed below.
 
 ## 4. Grammar
 
-**A classification, not four simultaneous factors.**
-`Caturdhā śuddhakam` divides pure attainment into types.
-It does not add four factors to a dhyāna inventory
-or assert that each pure occurrence has all four
-orientations at once.
+The verse classifies pure attainment, while the Bhāṣya supplies the three names after adi and maps each subtype to its favored outcome.
 
-**Ādi leaves three names to the prose.** The verse
-names the first type through hānabhāgīyādi. The Bhāṣya
-supplies sthitibhāgīya, viśeṣabhāgīya, and nirvedhabhāgīya
-and individually assigns their functions.
+```nltk-fcfg
+% start S
+# tokens: caturdhā śuddhakaṃ hānabhāgīyādi yathākramam ∅-sthitibhāgīyam ∅-viśeṣabhāgīyam ∅-nirvedhabhāgīyam kleśotpattisvabhūmyūrdhvānāsravānuguṇaṃ hi tat
+S -> CL[K=classification] CL[K=orientation]
+CL[K=classification] -> ADV[COUNT=four] N[CASE=nom,NUM=sg,GEN=n,KIND=pure] TYPE[ORDER=first] ADV[ORDER=respectively] TYPE[ORDER=second,SUPPLIED=prose] TYPE[ORDER=third,SUPPLIED=prose] TYPE[ORDER=fourth,SUPPLIED=prose]
+CL[K=orientation] -> PRED[REL=sequence,NUM=?n,GEN=?g] PTCL[EXPLAIN=yes] PRON[CASE=nom,NUM=?n,GEN=?g,REF=pure]
+ADV[COUNT=four] -> 'caturdhā'
+N[CASE=nom,NUM=sg,GEN=n,KIND=pure] -> 'śuddhakaṃ'
+TYPE[ORDER=first] -> 'hānabhāgīyādi'
+ADV[ORDER=respectively] -> 'yathākramam'
+TYPE[ORDER=second,SUPPLIED=prose] -> '∅-sthitibhāgīyam'
+TYPE[ORDER=third,SUPPLIED=prose] -> '∅-viśeṣabhāgīyam'
+TYPE[ORDER=fourth,SUPPLIED=prose] -> '∅-nirvedhabhāgīyam'
+PRED[REL=sequence,NUM=sg,GEN=n] -> 'kleśotpattisvabhūmyūrdhvānāsravānuguṇaṃ'
+PTCL[EXPLAIN=yes] -> 'hi'
+PRON[CASE=nom,NUM=sg,GEN=n,REF=pure] -> 'tat'
+```
 
-**One predicate, four relations.** The long compound
-is unpacked into four anuguṇa relations: conducive
-to defilement arising, to one's own level, to a
-higher level, and to uncontaminated attainment. The
-singular tat resumes pure attainment under its respective
-subdivisions.
+```nltk-dep
+'śuddhakaṃ' -> 'caturdhā' | 'hānabhāgīyādi' | '∅-sthitibhāgīyam' | '∅-viśeṣabhāgīyam' | '∅-nirvedhabhāgīyam'
+'tat' -> 'kleśotpattisvabhūmyūrdhvānāsravānuguṇaṃ' | 'hi' | 'yathākramam'
+```
 
-**Respectively requires controlled ordering.** The first
-prose list places viśeṣabhāgīya before sthitibhāgīya.
-The subsequent explicit equations nevertheless identify
-sthitibhāgīya with one's own level and viśeṣabhāgīya
-with a higher level. Those equations govern the
-mapping, rather than a mechanical alignment with
-the initial list.
+The functional mapping governs: stability favors its own level and distinction favors a
+higher one, despite their reversed order in the Bhāṣya's initial list. Hānabhāgīya
+remains pure, not already defiled; conducive does not mean inevitable next.
 
 **Close construe.** Pure attainment is fourfold, beginning
 with the decline-conducive type; for the types are

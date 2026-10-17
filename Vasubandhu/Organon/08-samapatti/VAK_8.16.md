@@ -42,39 +42,42 @@ predecessor, while the nominatives name possible successors.
 
 ## 4. Grammar
 
-**The arising verb is supplied.** The prose gives
-`utpadyete` for the two same-level successors and
-`utpadyate` in the later explanations. The verse
-continues the immediate-succession question of VAK 8.15.
+The first succession applies at attainment-time; cyutau introduces the separate death-time rule, and the prose supplies the omitted arising verbs.
 
-**Own-level applies to both initial successors.**
-The commentary expands the opening as `svabhūmike
-śuddhakakliṣṭe`: the pure and defiled attainments of
-the same level. It does not restrict only the pure
-member while leaving the defiled member unrestricted.
+```nltk-fcfg
+% start S
+# tokens: kliṣṭāt ∅-utpadyete svaṃ śuddhakaṃ kliṣṭam evaṃ cādharaśuddhakam cyutau tu śuddhakāt ∅-utpadyate kliṣṭaṃ sarvaṃ kliṣṭāt tu nottaram ∅-utpadyate
+S -> CL[K=attainment_time] CL[K=death_pure] CL[K=death_defiled]
+CL[K=attainment_time] -> PREP[CASE=abl] V[PERS=3,NUM=du,TENSE=pres,VOICE=mid,SUPPLIED=prose] ADJ[CASE=nom,NUM=?n,GEN=?g,LEVEL=same] N[CASE=nom,NUM=?n,GEN=?g,MODE=pure] N[CASE=nom,NUM=?n,GEN=?g,MODE=defiled] ADV[ANAPH=likewise] ADJ[CASE=nom,NUM=sg,GEN=n,LEVEL=lower,MODE=pure]
+CL[K=death_pure] -> LOC[CASE=loc,EVENT=death] PTCL[CONTRAST=yes] PREP[CASE=abl,MODE=pure] V[PERS=3,NUM=sg,TENSE=pres,VOICE=mid,SUPPLIED=prose] N[CASE=nom,NUM=?n,GEN=?g,MODE=defiled] ADJ[CASE=nom,NUM=?n,GEN=?g,DOMAIN=all_levels]
+CL[K=death_defiled] -> PREP[CASE=abl,MODE=defiled] PTCL[CONTRAST=yes] ADJ[CASE=nom,NUM=sg,GEN=n,DOMAIN=not_higher] V[PERS=3,NUM=sg,TENSE=pres,VOICE=mid,SUPPLIED=prose]
+PREP[CASE=abl] -> 'kliṣṭāt'
+V[PERS=3,NUM=du,TENSE=pres,VOICE=mid,SUPPLIED=prose] -> '∅-utpadyete'
+ADJ[CASE=nom,NUM=sg,GEN=n,LEVEL=same] -> 'svaṃ'
+N[CASE=nom,NUM=sg,GEN=n,MODE=pure] -> 'śuddhakaṃ'
+N[CASE=nom,NUM=sg,GEN=n,MODE=defiled] -> 'kliṣṭam'
+ADV[ANAPH=likewise] -> 'evaṃ'
+ADJ[CASE=nom,NUM=sg,GEN=n,LEVEL=lower,MODE=pure] -> 'cādharaśuddhakam'
+LOC[CASE=loc,EVENT=death] -> 'cyutau'
+PTCL[CONTRAST=yes] -> 'tu'
+PREP[CASE=abl,MODE=pure] -> 'śuddhakāt'
+V[PERS=3,NUM=sg,TENSE=pres,VOICE=mid,SUPPLIED=prose] -> '∅-utpadyate'
+N[CASE=nom,NUM=sg,GEN=n,MODE=defiled] -> 'kliṣṭaṃ'
+ADJ[CASE=nom,NUM=sg,GEN=n,DOMAIN=all_levels] -> 'sarvaṃ'
+PREP[CASE=abl,MODE=defiled] -> 'kliṣṭāt'
+ADJ[CASE=nom,NUM=sg,GEN=n,DOMAIN=not_higher] -> 'nottaram'
+```
 
-**The additional lower successor is pure.**
-`Adharaśuddhakam` does not add a lower defiled or
-uncontaminated attainment. The local clause names a
-lower pure attainment without stating a numerical
-level-distance. The research diagram's X−1 is therefore
-not adopted as an explicit restriction of this verse.
+```nltk-dep
+'∅-utpadyete' -> 'kliṣṭāt' | 'śuddhakaṃ' | 'kliṣṭam' | 'svaṃ'
+'śuddhakaṃ' -> 'cādharaśuddhakam' | 'evaṃ'
+'∅-utpadyate' -> 'cyutau' | 'śuddhakāt' | 'kliṣṭaṃ' | 'sarvaṃ' | 'nottaram'
+'kliṣṭaṃ' -> 'kliṣṭāt' | 'tu'
+```
 
-**Cyutau changes the context.** Here cyuti means death,
-as confirmed by `cyutikāle`. It is not the parihāṇi,
-decline from dispassion, discussed in VAK 8.14.
-The second half cannot simply be appended to the
-ordinary attainment-time table.
-
-**All is resolved by level.** `Sarvam` becomes
-`sarvabhūmikaṃ kliṣṭam` in prose: defiled states of
-all levels. This is a range of possible successors,
-not simultaneous arising of every defiled state.
-
-**The last negation retains its subject.** “Not higher”
-concerns the defiled successor at death after a
-defiled dhyāna or ārūpya. The prose positively specifies
-same-level or lower-level defiled successors.
+The lower successor is pure, with no stated level-distance; the prose explains it
+through prior resolve, not a newly interposed delimitation. Sarvam ranges over possible
+defiled levels, not simultaneous states, and the final ban is immediate, not permanent.
 
 **Close construe.** After a defiled attainment arise
 the same-level pure or defiled attainment, and also

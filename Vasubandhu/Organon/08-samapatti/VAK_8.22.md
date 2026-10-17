@@ -45,36 +45,45 @@ with the neutral-feeling faculty.
 
 ## 4. Grammar
 
-**One access attainment for each principal attainment.**
-Eṣām refers to the eight principal dhyāna/ārūpya
-attainments. The prose explains `ekaikasy aikaikam`:
-one for each, through which entry into it occurs.
-The number counts access levels, not modes or feelings.
+The verse counts one access attainment per principal attainment, then distinguishes access properties from the first-access exception and the separate intermediate dhyāna.
 
-**Pure and neutral answer two questions.** The prose
-asks whether access stages have the principal attainments'
-three modes and the same distribution of feeling.
-The answer distinguishes qualitative mode from feeling:
-pure and associated with upekṣendriya.
+```nltk-fcfg
+% start S
+# tokens: aṣṭau sāmantakāny eṣām ∅-ekaikasy ∅-aikaikam śuddhāduḥkhāsukhāni hi āryaṃ cādyaṃ ∅-sāmantakam tridhā kecit atarkam dhyānam antaram
+S -> CL[K=count] CL[K=properties] CL[K=first_access] CL[K=reported_view] CL[K=intermediate]
+CL[K=count] -> NUM[COUNT=eight] N[CASE=nom,NUM=pl,GEN=n,KIND=access] PRON[CASE=gen,NUM=pl,GEN=n,REF=principal] COV[CASE=gen,NUM=sg,SUPPLIED=prose] COV[ONE=each,SUPPLIED=prose]
+CL[K=properties] -> ADJ[CASE=nom,NUM=pl,GEN=n,QUALITY=pure_and_neutral] PTCL[EXPLAIN=yes]
+CL[K=first_access] -> ADJ[CASE=nom,NUM=?n,GEN=?g,MODE=uncontaminated] ADJ[CASE=nom,NUM=?n,GEN=?g,ORDER=first] COV[CASE=nom,NUM=?n,GEN=?g,KIND=access,SUPPLIED=prose]
+CL[K=reported_view] -> ADV[COUNT=three] N[CASE=nom,NUM=pl,GEN=m,VOICE=reported]
+CL[K=intermediate] -> ADJ[CASE=nom,NUM=?n,GEN=?g,PRIV=vitarka] N[CASE=nom,NUM=?n,GEN=?g,KIND=intermediate] ADJ[CASE=nom,NUM=?n,GEN=?g,KIND=intermediate]
+NUM[COUNT=eight] -> 'aṣṭau'
+N[CASE=nom,NUM=pl,GEN=n,KIND=access] -> 'sāmantakāny'
+PRON[CASE=gen,NUM=pl,GEN=n,REF=principal] -> 'eṣām'
+COV[CASE=gen,NUM=sg,SUPPLIED=prose] -> '∅-ekaikasy'
+COV[ONE=each,SUPPLIED=prose] -> '∅-aikaikam'
+ADJ[CASE=nom,NUM=pl,GEN=n,QUALITY=pure_and_neutral] -> 'śuddhāduḥkhāsukhāni'
+PTCL[EXPLAIN=yes] -> 'hi'
+ADJ[CASE=nom,NUM=sg,GEN=n,MODE=uncontaminated] -> 'āryaṃ'
+ADJ[CASE=nom,NUM=sg,GEN=n,ORDER=first] -> 'cādyaṃ'
+COV[CASE=nom,NUM=sg,GEN=n,KIND=access,SUPPLIED=prose] -> '∅-sāmantakam'
+ADV[COUNT=three] -> 'tridhā'
+N[CASE=nom,NUM=pl,GEN=m,VOICE=reported] -> 'kecit'
+ADJ[CASE=nom,NUM=sg,GEN=n,PRIV=vitarka] -> 'atarkam'
+N[CASE=nom,NUM=sg,GEN=n,KIND=intermediate] -> 'dhyānam'
+ADJ[CASE=nom,NUM=sg,GEN=n,KIND=intermediate] -> 'antaram'
+```
 
-**Also noble modifies the first access.** Ādyam
-resumes sāmantakam, identified as anāgamya. Āryam
-is resolved as anāsrava. The additive ca preserves
-the first access's pure mode while adding an
-uncontaminated mode; it does not make every occurrence
-of the first access uncontaminated.
+```nltk-dep
+'sāmantakāny' -> 'aṣṭau' | 'eṣām' | '∅-ekaikasy' | '∅-aikaikam' | 'śuddhāduḥkhāsukhāni' | 'hi'
+'cādyaṃ' -> 'āryaṃ' | '∅-sāmantakam'
+'kecit' -> 'tridhā'
+'dhyānam' -> 'atarkam' | 'antaram'
+```
 
-**Some say threefold is a reported alternative.**
-The understood subject remains the first access attainment.
-Some authorities admit savoring association there too.
-This is not the beginning of a general threefold
-classification by vitarka and vicāra.
-
-**Intermediate dhyāna opens a separate distinction.**
-Atarkam predicates absence of vitarka. The prose
-asks whether sāmantaka and dhyānāntara mean the same
-thing and distinguishes a path of dispassion from
-a particular dhyāna configuration.
+Āryam resolves to uncontaminated first access, while tridhā kecit is only the reported
+first-access alternative. Neutral feeling is not ethical indeterminacy. Atarkam begins a
+distinct intermediate-dhyāna account, not an equation of access with intermediate
+dhyāna.
 
 **Close construe.** There are eight access attainments
 for these principal attainments, pure and accompanied

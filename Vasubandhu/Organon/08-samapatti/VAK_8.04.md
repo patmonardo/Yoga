@@ -37,31 +37,30 @@ presented as one uniform witness.
 
 ## 4. Grammar
 
-**Three names, one distributive explanation.** The plural
-`saṃjñakāḥ` resumes the first three formless attainments.
-The prose supplies `trayas tāvat`, “first, the three,”
-and `yathāsaṃkhyam`, “respectively.” Each name is related
-to its corresponding preparatory application.
+The first three names have a distributive preparatory explanation; the fourth has a separate naming ground. The prose denies that the names imply exclusive objects and specifies attenuated—but present—perception.
 
-**The opening question controls the claim.** The Bhāṣya
-asks whether space and the other named items alone
-are their objects, since they bear those names. It
-answers no. The point is not that space and consciousness
-can never be objects, but that the names do not prove
-an exclusive object inventory.
+```nltk-fcfg
+% start S
+# tokens: ∅-trayas ākāśānantya-vijñānānantyākiṃcanya-saṃjñakāḥ tathāprayogān māndyāt tu naivasaṃjñānāsaṃjñakaḥ ∅-saṃjñā
+S -> CL[K=first_three] CL[K=fourth]
+CL[K=first_three] -> N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] ADJ[CASE=nom,NUM=pl,GEN=m,COUNT=three] ABL[CASE=abl,NUM=sg,GEN=m,CAUSE=application]
+CL[K=fourth] -> ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=attenuation] PTCL[CONTRAST=yes] ADJ[CASE=nom,NUM=sg,GEN=m] N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose]
+N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] -> '∅-trayas'
+ADJ[CASE=nom,NUM=pl,GEN=m,COUNT=three] -> 'ākāśānantya-vijñānānantyākiṃcanya-saṃjñakāḥ'
+ABL[CASE=abl,NUM=sg,GEN=m,CAUSE=application] -> 'tathāprayogān'
+ABL[CASE=abl,NUM=sg,GEN=n,CAUSE=attenuation] -> 'māndyāt'
+PTCL[CONTRAST=yes] -> 'tu'
+ADJ[CASE=nom,NUM=sg,GEN=m] -> 'naivasaṃjñānāsaṃjñakaḥ'
+N[CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose] -> '∅-saṃjñā'
+```
 
-**A change of explanatory ground.** The singular final
-predicate concerns the fourth attainment. `Māndyāt`
-supplies its naming reason, with perception specified
-by the prose. The contrastive `tu` distinguishes this
-reason from the first three names' preparatory explanation.
+```nltk-dep
+'∅-trayas' -> 'ākāśānantya-vijñānānantyākiṃcanya-saṃjñakāḥ' | 'tathāprayogān'
+'naivasaṃjñānāsaṃjñakaḥ' -> 'māndyāt' | 'tu' | '∅-saṃjñā'
+```
 
-**Perception is not absent.** The prose states that
-saṃjñā is not sharp or strong, yet it is not altogether
-absent. The double negative name is therefore explained
-through the attenuated condition of a factor that remains,
-not through a contradiction in which perception both
-exists and does not exist in the same respect.
+The supplied three and `yathāsaṃkhyam` distribute name and application; `tathāprayogān` is causal, not an accusative “practices.” The opening question denies exclusive objects, and `māndyāt` concerns a weak, present saṃjñā.
+
 
 **Close construe.** The first three are named infinity
 of space, infinity of consciousness, and nothingness

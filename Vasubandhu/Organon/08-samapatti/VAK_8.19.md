@@ -41,35 +41,33 @@ than silently regularized to another inflection.
 
 ## 4. Grammar
 
-**Completion of the preceding preparation clause.**
-The absolutives in VAK 8.18 describe prior traversal.
-Here vyutkrāntakasamāpattiḥ receives its defining predicate,
-visabhāgatṛtīyagā. The prose distinguishes the preparation
-from the point at which the attainment is accomplished.
+The verse completes the previous preparation, then states a general support rule and a prose-restricted exception for a person reborn above.
 
-**Third is counted from the predecessor.** Going
-from first to third dhyāna skips the second. The
-next move, from third dhyāna to infinite space,
-skips fourth dhyāna. The ordinal is relative, not
-a requirement that every destination be third dhyāna.
+```nltk-fcfg
+% start S
+# tokens: vyutkrāntakasamāpattir visabhāgatṛtīyagā svādhobhūmyāśrayā eva dhyānārūpyāḥ ∅-ūrdhvopapannaḥ vṛthādharam
+S -> CL[K=accomplishment] CL[K=support] CL[K=exception]
+CL[K=accomplishment] -> N[CASE=nom,NUM=sg,GEN=f,KIND=skip] ADJ[CASE=nom,NUM=sg,GEN=f,MODE=dissimilar,DEST=third]
+CL[K=support] -> ADJ[CASE=nom,NUM=?n,GEN=?g,SUPPORT=own_or_lower] PTCL[RESTRICT=yes] N[CASE=nom,NUM=?n,GEN=?g,KIND=attainment]
+CL[K=exception] -> N[CASE=nom,NUM=sg,GEN=m,STATUS=reborn_above,SUPPLIED=prose] ADJ[CASE=nom,NUM=sg,GEN=n,UTILITY=none]
+N[CASE=nom,NUM=sg,GEN=f,KIND=skip] -> 'vyutkrāntakasamāpattir'
+ADJ[CASE=nom,NUM=sg,GEN=f,MODE=dissimilar,DEST=third] -> 'visabhāgatṛtīyagā'
+ADJ[CASE=nom,NUM=pl,GEN=m,SUPPORT=own_or_lower] -> 'svādhobhūmyāśrayā'
+PTCL[RESTRICT=yes] -> 'eva'
+N[CASE=nom,NUM=pl,GEN=m,KIND=attainment] -> 'dhyānārūpyāḥ'
+N[CASE=nom,NUM=sg,GEN=m,STATUS=reborn_above,SUPPLIED=prose] -> '∅-ūrdhvopapannaḥ'
+ADJ[CASE=nom,NUM=sg,GEN=n,UTILITY=none] -> 'vṛthādharam'
+```
 
-**Dissimilar qualifies mode.** The explicit example
-alternates sāsrava and anāsrava. The perfected practice
-therefore changes mode as well as skipping an intervening
-level; ordinal distance alone describes only part
-of its determination.
+```nltk-dep
+'vyutkrāntakasamāpattir' -> 'visabhāgatṛtīyagā'
+'dhyānārūpyāḥ' -> 'svādhobhūmyāśrayā' | 'eva'
+'vṛthādharam' -> '∅-ūrdhvopapannaḥ'
+```
 
-**The possessive belongs to the attainment.** In the
-support rule, “own level” means the level of the
-attainment made present. Its support may belong to
-that level or a lower one. Reversing this relation
-would give the wrong direction of eligibility.
-
-**The final clause is contextually restricted.** The
-prose asks why someone reborn above does not make
-a lower attainment present. “The lower is without
-use” answers that question. It is not an unrestricted
-judgment about every lower attainment or every practitioner.
+Tṛtīya is relative to the predecessor and visabhāga marks the alternation of
+contaminated/uncontaminated mode. “Without use” is locally scoped to the reborn-above
+case, not every lower attainment.
 
 **Close construe.** Skipping attainment goes to the
 third attainment in a dissimilar mode. Dhyānas and

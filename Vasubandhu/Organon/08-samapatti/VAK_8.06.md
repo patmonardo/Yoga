@@ -37,29 +37,37 @@ The understood noun is `samāpatti-dravyam`, the attainment under classification
 
 ## 4. Grammar
 
-**The first definition.** `Āsvādanāsaṃprayuktaṃ satṛṣṇam`
-is a nominal statement. The prose states `tṛṣṇā hy
-āsvādanā`: craving is the savoring meant here. This
-is stronger than classifying any pleasant experience
-as savoring-associated.
+The line break does not divide the definition of the pure attainment: worldly wholesome is its description. The prose equates savoring with craving and identifies the savored item and the savoring attainment as distinct.
 
-**The second definition crosses the verse division.**
-`Laukikaṃ śubham` in the first half belongs with
-`śuddhakam` in the second. Worldly wholesome attainment
-is called pure. Reading the line break as a sentence
-boundary would obscure this definition.
+```nltk-fcfg
+% start S
+# tokens: āsvādanāsaṃprayuktam satṛṣṇaṃ ∅-samāpattidravyam laukikam śubham śuddhakam tat tadāsvādyam ∅-āsvādanāsaṃprayuktam lokottaram anāsravam
+S -> CL[K=savoring] CL[K=pure] CL[K=relation] CL[K=supramundane]
+CL[K=savoring] -> ADJ[CASE=nom,NUM=sg,GEN=n,MODE=craving] ADJ[CASE=nom,NUM=sg,GEN=n,ACCOMP=yes] N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose]
+CL[K=pure] -> ADJ[CASE=nom,NUM=sg,GEN=n] ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=wholesome] ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=pure]
+CL[K=relation] -> PRON[CASE=nom,NUM=sg,GEN=n,REF=pure] ADJ[CASE=nom,NUM=sg,GEN=n,ROLE=object] N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose,ROLE=agent]
+CL[K=supramundane] -> ADJ[CASE=nom,NUM=sg,GEN=n] ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=uncontaminated]
+ADJ[CASE=nom,NUM=sg,GEN=n,MODE=craving] -> 'āsvādanāsaṃprayuktam'
+ADJ[CASE=nom,NUM=sg,GEN=n,ACCOMP=yes] -> 'satṛṣṇaṃ'
+N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-samāpattidravyam'
+ADJ[CASE=nom,NUM=sg,GEN=n] -> 'laukikam'
+ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=wholesome] -> 'śubham'
+ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=pure] -> 'śuddhakam'
+PRON[CASE=nom,NUM=sg,GEN=n,REF=pure] -> 'tat'
+ADJ[CASE=nom,NUM=sg,GEN=n,ROLE=object] -> 'tadāsvādyam'
+N[CASE=nom,NUM=sg,GEN=n,SUPPLIED=prose,ROLE=agent] -> '∅-āsvādanāsaṃprayuktam'
+ADJ[CASE=nom,NUM=sg,GEN=n] -> 'lokottaram'
+ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=uncontaminated] -> 'anāsravam'
+```
 
-**What is savored?** `Tat tadāsvādyam` resumes the pure
-attainment as the object of savoring. The prose makes
-the agent or means explicit with `tena`, referring to
-the savoring-associated attainment. The gerundive expresses
-what is savored in the stated relation, not a recommendation
-to savor it.
+```nltk-dep
+'∅-samāpattidravyam' -> 'āsvādanāsaṃprayuktam' | 'satṛṣṇaṃ' | 'laukikam' | 'śubham' | 'śuddhakam'
+'tadāsvādyam' -> 'tat' | '∅-āsvādanāsaṃprayuktam'
+'anāsravam' -> 'lokottaram'
+```
 
-**The final definition.** `Lokottaram anāsravam` identifies
-the supramundane attainment as uncontaminated. It does
-not define “supramundane” simply as a higher cosmological
-or meditative level.
+The gerundive marks the pure attainment as object, savored by the savoring-associated attainment; it is not an injunction. Supramundane status is not simply a higher meditative level.
+
 
 **Close construe.** Savoring-associated attainment has
 craving. Worldly wholesome attainment is pure. That

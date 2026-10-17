@@ -47,37 +47,44 @@ not a plural list of separate errors.
 
 ## 4. Grammar
 
-**The opening identifies the exposition and its method.**
-Ayam abhidharmaḥ is the subject of kathitaḥ;
-mayā names the expositor. The long nītisiddha
-compound qualifies the Abhidharma as established according
-to the Kāśmīra Vaibhāṣika line of interpretation.
+The opening subject and passive predicate frame the author's method; the relative-correlative pair assigns responsibility for misunderstanding. The final predicate makes plural sages authoritative without turning the author's limited `prāyaḥ` claim into school-wide identity.
 
-**Chiefly is an essential qualification.** Prāyaḥ limits
-the claim, and the prose repeats prāyeṇa.
-It should not disappear into a blanket statement
-that every position in the work is Vaibhāṣika.
-Nor does it by itself establish a complete
-biographical account of the author's school affiliation.
+```nltk-fcfg
+% start S
+# tokens: kāśmīravaibhāṣikanītisiddhaḥ prāyaḥ mayā ayam kathito abhidharmaḥ yad durgṛhītam tat iha asmadāgaḥ saddharmanītau munayaḥ ∅-buddhāḥ ∅-buddhaputrāḥ pramāṇam
+S -> CL[K=exposition] CL[K=responsibility] CL[K=authority]
 
-**The relative-correlative clause assigns responsibility.** Yad
-durgṛhītam, “whatever has been badly grasped,” is
-resumed by tat: “that is our fault.”
-The prose makes the agency explicit with
-asmābhir and glosses fault as asmākam aparādhaḥ.
+CL[K=exposition] -> ADJ[CASE=?c,NUM=?n,GEN=?g,METHOD=school] ADV[DEGREE=limited] PRON[CASE=ins,NUM=sg,PERS=1] PRON[CASE=?c,NUM=?n,GEN=?g] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past,VOICE=pass] N[CASE=?c,NUM=?n,GEN=?g]
+CL[K=responsibility] -> PRON[CASE=?c,NUM=?n,GEN=?g,REL=yes] PTCP[CASE=?c,NUM=?n,GEN=?g,TENSE=past] PRON[CASE=?c,NUM=?n,GEN=?g,CORR=yes] ADV[PLACE=here] N[CASE=?c,NUM=?n,GEN=?g,FAULT=ours]
+CL[K=authority] -> N[CASE=loc,NUM=sg,GEN=f,TOPIC=law] N[CASE=nom,NUM=pl,GEN=m,ROLE=authority] N[SUPPLIED=prose,ROLE=authority] N[SUPPLIED=prose,ROLE=authority] N[CASE=nom,NUM=sg,GEN=n,PRED=measure]
 
-**Singular authority can be predicated of plural sages.**
-Munayaḥ is the subject; pramāṇam is a
-predicate noun. Their different grammatical numbers do
-not require emending the sentence. The sages
-are the authoritative measure concerning saddharmanīti.
+ADJ[CASE=nom,NUM=sg,GEN=m,METHOD=school] -> 'kāśmīravaibhāṣikanītisiddhaḥ'
+ADV[DEGREE=limited] -> 'prāyaḥ'
+PRON[CASE=ins,NUM=sg,PERS=1] -> 'mayā'
+PRON[CASE=nom,NUM=sg,GEN=m] -> 'ayam'
+PTCP[CASE=nom,NUM=sg,GEN=m,TENSE=past,VOICE=pass] -> 'kathito'
+N[CASE=nom,NUM=sg,GEN=m] -> 'abhidharmaḥ'
+PRON[CASE=nom,NUM=sg,GEN=n,REL=yes] -> 'yad'
+PTCP[CASE=nom,NUM=sg,GEN=n,TENSE=past] -> 'durgṛhītam'
+PRON[CASE=nom,NUM=sg,GEN=n,CORR=yes] -> 'tat'
+ADV[PLACE=here] -> 'iha'
+N[CASE=nom,NUM=sg,GEN=n,FAULT=ours] -> 'asmadāgaḥ'
+N[CASE=loc,NUM=sg,GEN=f,TOPIC=law] -> 'saddharmanītau'
+N[CASE=nom,NUM=pl,GEN=m,ROLE=authority] -> 'munayaḥ'
+N[SUPPLIED=prose,ROLE=authority] -> '∅-buddhāḥ'
+N[SUPPLIED=prose,ROLE=authority] -> '∅-buddhaputrāḥ'
+N[CASE=nom,NUM=sg,GEN=n,PRED=measure] -> 'pramāṇam'
+```
 
-**The authorial pronouns shift.** The verse first
-says “by me” and then “our fault.”
-The commentary uses “by us” and “our.”
-This rhetorical alternation does not itself establish
-multiple historical authors of the treatise.
+```nltk-dep
+'abhidharmaḥ' -> 'kāśmīravaibhāṣikanītisiddhaḥ' | 'prāyaḥ' | 'mayā' | 'ayam' | 'kathito'
+'asmadāgaḥ' -> 'yad' | 'durgṛhītam' | 'tat' | 'iha'
+'pramāṇam' -> 'saddharmanītau' | 'munayaḥ' | '∅-buddhāḥ' | '∅-buddhaputrāḥ'
+```
 
+`Prāyaḥ` limits the method claim, and `mayā` shifts to `asmad-` in the admission of fault without establishing multiple authorship.
+The Bhāṣya resolves `āgaḥ` as the expositor's fault and specifies the sages as Buddhas and Buddha-sons.
+Plural `munayaḥ` is the subject of neuter singular predicate `pramāṇam`.
 **Close construe.** This Abhidharma has been expounded
 by me chiefly according to the method of
 the Kāśmīra Vaibhāṣikas. Whatever is badly grasped

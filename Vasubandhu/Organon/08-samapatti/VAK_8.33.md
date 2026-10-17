@@ -43,31 +43,39 @@ yields `adharārya`.
 
 ## 4. Grammar
 
-**Cessation names the eighth release.** The prose
-expands nirodha as cessation of perception and
-feeling and identifies it with nirodhasamāpatti.
-Different grammatical genders of the two predicate
-nouns do not prevent that identification.
+The first nominal clause identifies the eighth release; the Bhāṣya supplies entry after a perception already made subtler. Emergence has one instrumental mind with two paired alternatives, own-level pure or lower-level noble; the verse/prose conflict is retained.
 
-**The entry verb is supplied in prose.** The
-practitioner enters cessation immediately after the
-specified subtle condition. The commentary describes
-making the already subtle perception of bhavāgra
-still subtler; the compound is not merely an
-ornamental name for a high level.
+```nltk-fcfg
+% start S
+# tokens: nirodhaḥ tu samāpattiḥ sūkṣmasūkṣmāt anantaram ∅-nirodham ∅-samāpadyante vyutthānam cetasā svaśuddhakādharāryeṇa tataḥ
+S -> CL[K=definition] CL[K=entry] CL[K=emergence]
+CL[K=definition] -> N[CASE=nom,NUM=sg,GEN=m] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=f]
+CL[K=entry] -> ADJ[CASE=abl,NUM=sg,GEN=n,DEGREE=superlative] ADV[ORDER=after] N[CASE=acc,NUM=sg,GEN=n,SUPPLIED=prose] V[PERS=3,NUM=pl,TENSE=pres,VOICE=mid,SUPPLIED=prose]
+CL[K=emergence] -> N[CASE=nom,NUM=sg,GEN=n] N[CASE=ins,NUM=sg,GEN=n] ADJ[CASE=ins,NUM=sg,GEN=n,PAIR=own_pure_or_lower_noble] ADV[SOURCE=attainment]
+N[CASE=nom,NUM=sg,GEN=m] -> 'nirodhaḥ'
+PTCL[CASE=none,NUM=none,GEN=none,CONTRAST=yes] -> 'tu'
+N[CASE=nom,NUM=sg,GEN=f] -> 'samāpattiḥ'
+ADJ[CASE=abl,NUM=sg,GEN=n,DEGREE=superlative] -> 'sūkṣmasūkṣmāt'
+ADV[CASE=none,NUM=none,GEN=none,ORDER=after] -> 'anantaram'
+N[CASE=acc,NUM=sg,GEN=n,SUPPLIED=prose] -> '∅-nirodham'
+V[CASE=none,NUM=pl,GEN=none,PERS=3,TENSE=pres,VOICE=mid,SUPPLIED=prose] -> '∅-samāpadyante'
+N[CASE=nom,NUM=sg,GEN=n] -> 'vyutthānam'
+N[CASE=ins,NUM=sg,GEN=n] -> 'cetasā'
+ADJ[CASE=ins,NUM=sg,GEN=n,PAIR=own_pure_or_lower_noble] -> 'svaśuddhakādharāryeṇa'
+ADV[CASE=none,NUM=none,GEN=none,SOURCE=attainment] -> 'tataḥ'
+```
 
-**The emergence compound contains two paired alternatives.**
-Sva-śuddhaka means pure at its own level;
-adhara-ārya means noble at the lower level.
-The compound does not list four unrelated minds:
-one's own, pure, lower, and noble.
+```nltk-dep
+'nirodhaḥ' -> 'tu' | 'samāpattiḥ'
+'∅-samāpadyante' -> 'sūkṣmasūkṣmāt' | 'anantaram' | '∅-nirodham'
+'vyutthānam' -> 'cetasā' | 'svaśuddhakādharāryeṇa' | 'tataḥ'
+'cetasā' -> 'svaśuddhakādharāryeṇa'
+```
 
-**Level and mode must both survive translation.**
-The prose identifies the levels as bhavāgra and
-the Essence of nothingness. Its second mode-word
-conflicts with the verse. This allows a clear
-level assignment while leaving the prose mode-reading
-under textual review.
+`Svaśuddhaka` and `adhara-ārya` are two paired alternatives, not four minds; the latter is
+noble in the verse, while the running prose reads contaminated. Neither this emergence mind
+nor the construction asserts cognition inside cessation.
+
 
 **Close construe.** The eighth release is cessation-attainment,
 entered immediately after the subtle is made still

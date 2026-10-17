@@ -37,35 +37,50 @@ explicit.
 
 ## 4. Grammar
 
-**The inherited subject.** The plural designation resumes
-the four formless attainments. `Saha sāmantakais tribhiḥ`
-adds three access attainments. It does not reduce the
-principal formless attainments to three.
+Feature grammar (NLTK notation). The designation resumes the four formless
+attainments (supplied subject); the second and third clauses answer different
+questions, presence and renewed arising. Words supplied from the Bhāṣya carry
+`SUPPLIED=prose`.
 
-**The excluded access stage.** The Bhāṣya excludes the
-access to infinite space because it takes the fourth
-dhyāna as object. Form-perception has therefore not
-passed away there. The three included access stages
-are those of the subsequent formless attainments.
+```nltk-fcfg
+% start S
+# tokens: ∅-ārūpyāḥ vibhūtarūpasaṃjñākhyāḥ saha sāmantakaiḥ tribhiḥ na ārūpye rūpasadbhāvaḥ rūpotpattiḥ tu cittataḥ
+S -> CL[K=designate] CL[K=absence] CL[K=arising]
 
-**Presence and arising.** `Na ... rūpasadbhāvaḥ` denies
-present form in the formless domain. `Rūpotpattis tu
-cittataḥ` answers a different question: how form arises
-again after a being leaves formless existence. The
-second clause does not retract the first by positing
-hidden form throughout the interval.
+CL[K=designate] -> N[SUPPLIED=prose,NUM=?n,GEN=?g] ADJ[NUM=?n,GEN=?g] P[CASE=ins] N[CASE=ins,GEN=n] NUMR[CASE=ins]
+CL[K=absence]   -> NEG LOC[CASE=loc] N[CASE=nom,NUM=sg,GEN=m]
+CL[K=arising]   -> N[CASE=nom,NUM=sg,GEN=f] PTCL[CONTRAST=yes] ABL[SOURCE=cause,QUAL=prose]
 
-**The causal ablative.** `Cittataḥ` supplies the source
-of renewed form. The prose qualifies that citta through
-`tadvipākahetuparibhāvita`, conditioned by the cause
-whose maturation is the relevant form. Bare “consciousness creates
-Form” would omit the qualification decisive to the answer.
+N[SUPPLIED=prose,NUM=pl,GEN=m] -> '∅-ārūpyāḥ'
+ADJ[NUM=pl,GEN=m,GONE=yes] -> 'vibhūtarūpasaṃjñākhyāḥ'
+P[CASE=ins] -> 'saha'
+N[CASE=ins,NUM=pl,GEN=n] -> 'sāmantakaiḥ'
+NUMR[CASE=ins,NUM=pl] -> 'tribhiḥ'
+NEG -> 'na'
+LOC[CASE=loc] -> 'ārūpye'
+N[CASE=nom,NUM=sg,GEN=m] -> 'rūpasadbhāvaḥ'
+N[CASE=nom,NUM=sg,GEN=f] -> 'rūpotpattiḥ'
+PTCL[CONTRAST=yes] -> 'tu'
+ABL[SOURCE=cause,QUAL=prose] -> 'cittataḥ'
+```
 
-**Close construe.** The formless attainments, together
-with three access attainments, receive the designation
-that form-perception has disappeared. Form is not present
-in the formless domain; its renewed arising, however,
-is from causally conditioned citta.
+```nltk-dep
+'∅-ārūpyāḥ' -> 'vibhūtarūpasaṃjñākhyāḥ' | 'sāmantakaiḥ'
+'sāmantakaiḥ' -> 'saha' | 'tribhiḥ'
+'rūpasadbhāvaḥ' -> 'na' | 'ārūpye'
+'rūpotpattiḥ' -> 'cittataḥ' | 'tu'
+```
+
+`vibhūta` is glossed `vigata` (gone): disappearance, not manifestation. The
+access to infinite space is excluded because it takes the fourth dhyāna as
+object, leaving three access stages. `cittataḥ` is qualified by the prose
+`tadvipākahetuparibhāvita` (`QUAL=prose`); bare “consciousness creates Form”
+would omit the qualification.
+
+**Close construe.** The formless attainments, together with three access
+attainments, receive the designation that form-perception has disappeared.
+Form is not present in the formless domain; its renewed arising, however, is
+from causally conditioned citta.
 
 ## 5. Translation
 

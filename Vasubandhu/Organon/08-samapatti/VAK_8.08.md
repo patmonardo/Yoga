@@ -39,27 +39,33 @@ mindfulness.
 
 ## 4. Grammar
 
-**Five named factors.** `Tṛtīye pañca` supplies the
-understood `dhyāne` and `aṅgāni`. The five subsequent
-nouns name the factors. Their different grammatical
-genders do not change their shared role in the inventory.
+The third-dhyāna list counts five; `prajñā` is glossed as clear comprehension, and `sthiti` as samādhi. The fourth list has four: purification qualifies its equanimity and mindfulness; neutral feeling is a separate factor.
 
-**Sthiti is not an extra sixth factor.** The Bhāṣya
-explicitly calls sthiti a synonym of samādhi and cites
-a sūtra defining right samādhi through the stability
-of mind. The verse and prose therefore give the same
-fivefold list under two expressions for its last member.
+```nltk-fcfg
+% start S
+# tokens: tṛtīye pañca tūpekṣā smṛtiḥ prajñā sukhaṃ sthitiḥ catvāri ante asukhāduḥkhopekṣāsmṛtisamādhayaḥ
+S -> CL[K=third] CL[K=fourth]
+CL[K=third] -> LOC[CASE=loc,NUM=sg,GEN=n] NUM[COUNT=five] N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=n] N[CASE=nom,NUM=sg,GEN=f,ALIAS=samadhi]
+CL[K=fourth] -> NUM[COUNT=four] LOC[CASE=loc,NUM=sg,GEN=n] N[CASE=nom,NUM=pl,GEN=m,COUNT=four,QUAL=partly_purified]
+LOC[CASE=loc,NUM=sg,GEN=n] -> 'tṛtīye'
+NUM[COUNT=five] -> 'pañca'
+N[CASE=nom,NUM=sg,GEN=f] -> 'tūpekṣā'
+N[CASE=nom,NUM=sg,GEN=f] -> 'smṛtiḥ'
+N[CASE=nom,NUM=sg,GEN=f] -> 'prajñā'
+N[CASE=nom,NUM=sg,GEN=n] -> 'sukhaṃ'
+N[CASE=nom,NUM=sg,GEN=f,ALIAS=samadhi] -> 'sthitiḥ'
+NUM[COUNT=four] -> 'catvāri'
+LOC[CASE=loc,NUM=sg,GEN=n] -> 'ante'
+N[CASE=nom,NUM=pl,GEN=m,COUNT=four,QUAL=partly_purified] -> 'asukhāduḥkhopekṣāsmṛtisamādhayaḥ'
+```
 
-**The last means the fourth.** The prose resolves
-`ante` as `caturthaṃ dhyānam antyam`. It does not
-refer to the eighth principal attainment or to the
-final stage of the entire path.
+```nltk-dep
+'sthitiḥ' -> 'tṛtīye' | 'pañca' | 'tūpekṣā' | 'smṛtiḥ' | 'prajñā' | 'sukhaṃ'
+'asukhāduḥkhopekṣāsmṛtisamādhayaḥ' -> 'catvāri' | 'ante'
+```
 
-**Four members in one compressed compound.** The final
-compound comprises neutral feeling, equanimity, mindfulness,
-and samādhi. The prose adds `pariśuddhi` to equanimity
-and mindfulness. Neutral feeling and equanimity are
-separate members, not two translations of one factor.
+`Ante` means the fourth dhyāna, not bhavāgra. Neutral feeling and equanimity are distinct factors; the verse counts names (`nāmataḥ`), not distinct substances.
+
 
 **Close construe.** In the third dhyāna are five factors:
 equanimity, mindfulness, clear comprehension, ease, and

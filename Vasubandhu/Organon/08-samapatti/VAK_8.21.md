@@ -41,30 +41,34 @@ belonging to a lower level.
 
 ## 4. Grammar
 
-**The negation governs a qualified object relation.**
-Principal wholesome formless attainments are the subject;
-having lower-level contaminated objects is the denied
-predicate. The clause does not deny every possible
-relation to anything designated lower, or every
-uncontaminated object.
+Negation restricts the object-range claim to principal wholesome formless attainments; a distinct passive clause states what abandons defilements.
 
-**Principal is essential.** Maula restricts the claim
-to principal attainments. The prose expressly contrasts
-the uninterrupted paths of the access stages, which
-take the lower level as object.
+```nltk-fcfg
+% start S
+# tokens: na maulāḥ kuśalārūpyāḥ sāsravādharagocarāḥ anāsraveṇa hīyante kleśāḥ sāmantakena ca ∅-śuddhakenāpi
+S -> CL[K=object_restriction] CL[K=abandonment]
+CL[K=object_restriction] -> NEG ADJ[CASE=nom,NUM=?n,GEN=?g,STATUS=principal] N[CASE=nom,NUM=?n,GEN=?g,QUALITY=wholesome] ADJ[CASE=nom,NUM=?n,GEN=?g,RANGE=lower_contaminated]
+CL[K=abandonment] -> INSTR[CASE=ins,MODE=uncontaminated] V[PERS=3,NUM=pl,TENSE=pres,VOICE=passive] N[CASE=nom,NUM=pl,GEN=m,ROLE=agent] INSTR[CASE=ins,ROLE=access] CONJ COV[CASE=ins,MODE=pure,SUPPLIED=prose]
+NEG -> 'na'
+ADJ[CASE=nom,NUM=pl,GEN=m,STATUS=principal] -> 'maulāḥ'
+N[CASE=nom,NUM=pl,GEN=m,QUALITY=wholesome] -> 'kuśalārūpyāḥ'
+ADJ[CASE=nom,NUM=pl,GEN=m,RANGE=lower_contaminated] -> 'sāsravādharagocarāḥ'
+INSTR[CASE=ins,MODE=uncontaminated] -> 'anāsraveṇa'
+V[PERS=3,NUM=pl,TENSE=pres,VOICE=passive] -> 'hīyante'
+N[CASE=nom,NUM=pl,GEN=m,ROLE=agent] -> 'kleśāḥ'
+INSTR[CASE=ins,ROLE=access] -> 'sāmantakena'
+CONJ -> 'ca'
+COV[CASE=ins,MODE=pure,SUPPLIED=prose] -> '∅-śuddhakenāpi'
+```
 
-**The abandonment clause changes subject.** Kleśāḥ
-is the subject of the passive hīyante. The instrumental
-anāsraveṇa identifies the effective attainment. The
-prose applies this inquiry to both dhyāna and ārūpya,
-not only the formless attainments named in the
-first half.
+```nltk-dep
+'kuśalārūpyāḥ' -> 'na' | 'maulāḥ' | 'sāsravādharagocarāḥ'
+'hīyante' -> 'kleśāḥ' | 'anāsraveṇa' | 'sāmantakena' | 'ca' | '∅-śuddhakenāpi'
+```
 
-**The final instrumental adds a qualified case.**
-Sāmantakena ca adds access attainment. Its explanation
-says `śuddhakenāpi`, even when pure, because it
-is an antidote to the lower level. It does not
-merely name another uncontaminated principal attainment.
+Object-taking is not abandonment: access can abandon lower-level defilements even when
+pure, while principal pure attainment is not thereby an antidote. The prose extends the
+second half to dhyāna as well.
 
 **Close construe.** Principal wholesome formless attainments
 do not have contaminated lower-level objects as their

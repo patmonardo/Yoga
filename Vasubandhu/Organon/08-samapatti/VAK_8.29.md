@@ -39,27 +39,35 @@ forward to compassion, as the prose makes explicit.
 
 ## 4. Grammar
 
-**Number and name have different explanations.** The
-prose names friendliness, compassion, sympathetic joy,
-and equanimity. They are immeasurable because they
-take immeasurable beings as object. They are four
-because of their corresponding counteractive functions.
+The verse gives the count, the counteractive rationale, and the paired mental natures. `Api` carries non-hatred to compassion; the Bhāṣya restricts `sumanaskatā` to sympathetic joy, not compassion.
 
-**The causal expression answers why four.** Vyāpādādi
-is expanded in the prose rather than left as
-an unspecified collection of every affliction. Yathāsaṃkhyam,
-in corresponding order, governs the four assignments.
+```nltk-fcfg
+% start S
+# tokens: apramāṇāni catvāri vyāpādādivipakṣataḥ maitrī adveṣaḥ api karuṇā muditā sumanaskatā
+S -> CL[K=count] CL[K=nonhatred] CL[K=joy]
+CL[K=count] -> N[CASE=?c,NUM=?n,GEN=?g] NUMR[CASE=?c,NUM=?n,GEN=?g] ADV[CAUSE=yes]
+CL[K=nonhatred] -> N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=m] PTCL[ADD=yes] N[CASE=nom,NUM=sg,GEN=f]
+CL[K=joy] -> N[CASE=nom,NUM=sg,GEN=f] N[CASE=nom,NUM=sg,GEN=f,NATURE=gladness]
+N[CASE=nom,NUM=pl,GEN=n] -> 'apramāṇāni'
+NUMR[CASE=nom,NUM=pl,GEN=n] -> 'catvāri'
+ADV[CASE=none,NUM=none,GEN=none,CAUSE=yes] -> 'vyāpādādivipakṣataḥ'
+N[CASE=nom,NUM=sg,GEN=f] -> 'maitrī' | 'karuṇā' | 'muditā'
+N[CASE=nom,NUM=sg,GEN=m] -> 'adveṣaḥ'
+PTCL[CASE=none,NUM=none,GEN=none,ADD=yes] -> 'api'
+N[CASE=nom,NUM=sg,GEN=f,NATURE=gladness] -> 'sumanaskatā'
+```
 
-**Compassion shares the first predicate.** The prose
-states adveṣasvabhāvā maitrī, then karuṇāpy evam,
-compassion likewise. Compassion is not the first
-subject of a shared predicate sumanaskatā with muditā.
+```nltk-dep
+'apramāṇāni' -> 'catvāri' | 'vyāpādādivipakṣataḥ'
+'maitrī' -> 'adveṣaḥ'
+'karuṇā' -> 'api' | 'adveṣaḥ'
+'muditā' -> 'sumanaskatā'
+```
 
-**Sympathetic joy has a separate determination.**
-Muditā sumanaskatā is expanded as sympathetic joy
-having saumanasya as its nature. The variation
-in grammatical gender between the verse's nominal
-predications does not change the identities asserted.
+The causal expression gives the four counter-works in corresponding order; it does not imply
+every affliction. The Bhāṣya preserves distinct Vaibhāṣika and preferred accounts of
+impurity/equanimity, beyond what this verse resolves.
+
 
 **Close construe.** There are four immeasurables,
 because they counter ill will and the corresponding

@@ -45,27 +45,37 @@ bhava, existence, not svabhāva, intrinsic nature.
 
 ## 4. Grammar
 
-**An ablative cause and a locative support.** Destruction
-of the outflows is the subject; making noble nothingness
-present supplies its cause. The prose resolves the
-locative as a being reborn at bhavāgra, not an
-uncontaminated attainment native to bhavāgra.
+The verse moves from the summit exception to two object-range clauses; the Bhāṣya reads the first as “having what exists as object,” not six objects.
 
-**Noble is resolved as uncontaminated.** The prose
-expands the first compound as the making-present of
-anāsrava-ākiñcanyāyatana. It does not identify every
-nothingness attainment as the liberating resource.
+```nltk-fcfg
+% start S
+# tokens: āryākiñcanyasāṃmukhyād ∅-anāsravākiñcanyāyatana bhavāgre tv āsravakṣayaḥ satṛṣṇāḥ ∅-dhyānārūpyāḥ svabhavālambāḥ dhyānaṃ sadviṣayaṃ śubham
+S -> CL[K=summit_exception] CL[K=craving_range] CL[K=wholesome_dhyana]
+CL[K=summit_exception] -> CAUSE[CASE=abl,MODE=noble] N[CASE=nom,NUM=sg,GEN=n,EXPANSION=yes,SUPPLIED=prose] LOC[CASE=loc,GROUND=summit] PTCL[CONTRAST=yes] N[CASE=nom,NUM=sg,GEN=m,EVENT=destruction]
+CL[K=craving_range] -> ADJ[CASE=nom,NUM=?n,GEN=?g,QUALITY=craving] N[CASE=nom,NUM=?n,GEN=?g,SUPPLIED=prose] ADJ[CASE=nom,NUM=?n,GEN=?g,RANGE=own_level]
+CL[K=wholesome_dhyana] -> N[CASE=nom,NUM=sg,GEN=n,KIND=dhyana] ADJ[CASE=nom,NUM=sg,GEN=n,RANGE=existent] ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=wholesome]
+CAUSE[CASE=abl,MODE=noble] -> 'āryākiñcanyasāṃmukhyād'
+N[CASE=nom,NUM=sg,GEN=n,EXPANSION=yes,SUPPLIED=prose] -> '∅-anāsravākiñcanyāyatana'
+LOC[CASE=loc,GROUND=summit] -> 'bhavāgre'
+PTCL[CONTRAST=yes] -> 'tv'
+N[CASE=nom,NUM=sg,GEN=m,EVENT=destruction] -> 'āsravakṣayaḥ'
+ADJ[CASE=nom,NUM=pl,GEN=m,QUALITY=craving] -> 'satṛṣṇāḥ'
+N[CASE=nom,NUM=pl,GEN=m,SUPPLIED=prose] -> '∅-dhyānārūpyāḥ'
+ADJ[CASE=nom,NUM=pl,GEN=m,RANGE=own_level] -> 'svabhavālambāḥ'
+N[CASE=nom,NUM=sg,GEN=n,KIND=dhyana] -> 'dhyānaṃ'
+ADJ[CASE=nom,NUM=sg,GEN=n,RANGE=existent] -> 'sadviṣayaṃ'
+ADJ[CASE=nom,NUM=sg,GEN=n,QUALITY=wholesome] -> 'śubham'
+```
 
-**A new plural subject begins the object inquiry.**
-Satṛṣṇāḥ refers to craving-associated dhyānas and
-formless attainments. Svabhavālambāḥ predicates their
-object relation; the prose supplies svabhūmikaṃ bhavam,
-existence belonging to their own level.
+```nltk-dep
+'āsravakṣayaḥ' -> 'āryākiñcanyasāṃmukhyād' | '∅-anāsravākiñcanyāyatana' | 'bhavāgre' | 'tu'
+'∅-dhyānārūpyāḥ' -> 'satṛṣṇāḥ' | 'svabhavālambāḥ'
+'dhyānaṃ' -> 'sadviṣayaṃ' | 'śubham'
+```
 
-**The final subject is specifically dhyāna.** Śubham
-qualifies dhyānam. The all-object range must not be
-extended automatically to wholesome formless attainments,
-whose restrictions begin in VAK 8.21.
+The first clause is not a native uncontaminated summit attainment: rebirth at bhavāgra
+and the cultivated lower nothingness resource matter. The all-object range belongs here
+to wholesome dhyāna alone, not wholesome formless attainments.
 
 **Close construe.** At the summit, however, destruction
 of the outflows occurs through making noble nothingness
