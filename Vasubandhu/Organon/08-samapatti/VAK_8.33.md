@@ -150,61 +150,54 @@ to others must remain explicit.
 
 ## 8. Logical Determination
 
-**The release explanations.**
+This verse distinguishes cessation-attainment, its entry condition, and two emergence alternatives. `[verse]` identifies the attainment and gives own-level pure or lower-level noble emergence; `[prose]` specifies perception made subtler at bhavāgra and conflicts with the verse on the lower-level alternative's mode.
 
-| Account | Explanation of the release designation |
-|---|---|
-| Main exposition | Turning away from perception and feeling, or all conditioned dharmas |
-| Others | Release from an obstruction to attainment |
+**Signature.** `Attainment(x)`; `Cessation(x)`; `ImmediatelyBefore(x,y)`; `ExitLevel(x,l)`; `VerseExitMode(x,m)`; `ProseExitMode(x,m)`.
 
-The two formulations are reported as explanations
-of the name. The study does not merge them
-into a single additional prerequisite absent from
-the stated entry discussion.
+```nltk-valuation
+cessationAttainment => cessationAttainment
+subtlePerception => subtlePerception
+subtlerPerception => subtlerPerception
+entryMoment => entryMoment
+ownLevelExit => ownLevelExit
+lowerLevelExit => lowerLevelExit
+bhavagra => bhavagra
+nothingness => nothingness
+pure => pure
+noble => noble
+contaminated => contaminated
+Attainment => {cessationAttainment}
+Cessation => {cessationAttainment}
+ImmediatelyBefore => {(subtlePerception,subtlerPerception),(subtlerPerception,entryMoment)}
+ExitLevel => {(ownLevelExit,bhavagra),(lowerLevelExit,nothingness)}
+VerseExitMode => {(ownLevelExit,pure),(lowerLevelExit,noble)}
+ProseExitMode => {(ownLevelExit,pure),(lowerLevelExit,contaminated)}
+```
 
-**The entry relation.** The source specifies subtle
-perception at bhavāgra, further refinement, and immediate
-entry into cessation. It does not enumerate a
-fresh traversal of every formless attainment in
-this verse. Such a full itinerary should not
-be inserted into its translation merely from the
-place of bhavāgra in the hierarchy.
+```nltk-fol
+# THEORY shared
+# [verse] nirodha is samāpatti; [prose] identified as cessation of perception and feeling
+all x.(Cessation(x) -> Attainment(x))
+# [prose] bhavāgra perception is made subtler immediately before entry
+ImmediatelyBefore(subtlePerception,subtlerPerception)
+ImmediatelyBefore(subtlerPerception,entryMoment)
+# [verse, prose] own-level exit is pure
+ExitLevel(ownLevelExit,bhavagra)
+VerseExitMode(ownLevelExit,pure)
+ProseExitMode(ownLevelExit,pure)
+# THEORY verse_exit
+# [verse] lower-level exit is noble
+ExitLevel(lowerLevelExit,nothingness)
+VerseExitMode(lowerLevelExit,noble)
+# THEORY prose_exit
+# [prose, conflicting witness] lower-level exit is called sāsrava
+ExitLevel(lowerLevelExit,nothingness)
+ProseExitMode(lowerLevelExit,contaminated)
+```
 
-**Emergence: stable level evidence, conflicting mode evidence.**
+**Results (NLTK).** The checker reports `shared: T`, `verse_exit: T`, and `prose_exit: T` in the finite model because the witness-specific mode predicates preserve the disagreement instead of identifying them as one value.
 
-| Alternative | Level specified in prose | Mode evidence |
-|---|---|---|
-| Own-level | Bhavāgra | Pure in verse and prose |
-| Lower-level | Nothingness | Noble in verse; sāsrava in transmitted prose |
-
-The local research Bhāṣya confidently translates
-the second as contaminated. That repeats one
-witness phrase but fails to account for ārya
-in the verse. The official study therefore adopts
-a verse-led literal construe while preserving the
-conflicting prose word as unresolved evidence.
-
-**The final prose summary is also damaged.** The
-source prints `sāsravaṃ samāpatticittaṃ` for the
-entry mind, followed by `sāsravānāntarya tu
-vyutthānacittam`. The first statement identifies the
-entry mind as contaminated. The second string
-is too irregular to support a confident exhaustive
-classification of emergence. It is not silently
-reconstructed into a new temporal doctrine.
-
-**No conflict with the summit's lack of noble attainment.**
-The verse's noble emergence alternative is lower-level,
-not an uncontaminated bhavāgra. The pure summit
-alternative and lower noble alternative retain the
-level/mode distinction established earlier in the chapter.
-
-**Entry and emergence do not assert cognition during cessation.**
-Naming a predecessor and an emergence mind does
-not establish an intervening cognitive observer. The
-prose identifies the attained condition through cessation
-of perception and feeling; the present analysis
-stays within that account.
+**Scope cautions.** This is an attributed witness conflict, not a harmonized mode claim. Entry/emergence do not assert cognition during cessation or a complete itinerary through every formless attainment. The prose's damaged final summary remains outside this formalization.
 
 ## 9. Interpretive Note
 

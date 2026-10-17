@@ -161,57 +161,53 @@ remain distinguishable from the short source gloss.
 
 ## 8. Logical Determination
 
-**The introductory inventory and its textual limit.**
-The running prose names first release as seeing
-forms while possessed of form. Its second formula
-reads `adhyātmarūpasaṃjñī bahirdhā rūpāṇi paśyati`,
-which positively mentions internal form-perception. This
-reading is insufficiently secure as the intended
-distinction from the first release and requires
-textual review. The official study does not silently
-insert a negation or present the research's positive
-paraphrase as a critically established definition.
+The verse states an eightfold release inventory and gives conditions for its groups: first two as unattractive contemplation in the first two dhyānas, third in fourth dhyāna with non-greed nature, and formless releases only when wholesome and collected. The prose also grants the designation to some access liberation paths, not uninterrupted paths. `[verse]` / `[prose]`.
 
-The third formula describes directly realizing the
-beautiful release with the body and dwelling in
-it. Four formless attainments follow, and cessation
-of perception and feeling is named eighth. The
-next verse develops the eighth release.
+**Signature.** `Release(x)`; `Unattractive(x)`; `InFirstTwo(x)`; `ThirdRelease(x)`; `InFourth(x)`; `Nature(x,n)`; `Formless(x)`; `Wholesome(x)`; `Collected(x)`; `EighthRelease(x)`; `AccessPath(x)`; `UninterruptedPath(x)`; `NamedRelease(x)`.
 
-**The first-two level relation.** The prose jointly
-places the first two releases in first and
-second dhyāna. Its yathāsaṃkhyam connects the
-level-based antidotal work with attachment to appearance
-in the desire domain and first dhyāna, respectively.
-The research seed's exclusive one-to-one assignment
-of release number to dhyāna number is not
-adopted as established by this wording.
+```nltk-valuation
+release1 => release1
+release2 => release2
+release3 => release3
+release4 => release4
+release5 => release5
+release6 => release6
+release7 => release7
+release8 => release8
+nonGreed => nonGreed
+accessLiberationPath => accessLiberationPath
+uninterruptedPath => uninterruptedPath
+Release => {release1, release2, release3, release4, release5, release6, release7, release8}
+Unattractive => {release1, release2}
+InFirstTwo => {release1, release2}
+ThirdRelease => {release3}
+InFourth => {release3}
+Nature => {(release3,nonGreed)}
+Formless => {release4, release5, release6, release7}
+Wholesome => {release4, release5, release6, release7}
+Collected => {release4, release5, release6, release7}
+EighthRelease => {release8}
+AccessPath => {accessLiberationPath}
+UninterruptedPath => {uninterruptedPath}
+NamedRelease => {accessLiberationPath}
+```
 
-**The third release differs by aspect.** Its
-fourth-dhyāna location, non-greed nature, and beautiful
-aspect are all explicit. A claim that it
-is simply another unattractive contemplation would contradict
-the prose's `na tv aśubhāsvabhāvaḥ`.
+```nltk-fol
+# THEORY shared
+# [verse, prose] inventory groups and eighth release
+all x.(Release(x) -> (Unattractive(x) | ThirdRelease(x) | Formless(x) | EighthRelease(x)))
+all x.(Unattractive(x) -> InFirstTwo(x))
+all x.(ThirdRelease(x) -> (InFourth(x) & Nature(x,nonGreed)))
+# [verse, prose] formless releases require both conditions
+all x.(Formless(x) -> (Wholesome(x) & Collected(x)))
+# [prose] access liberation paths may be releases; uninterrupted paths are excluded
+all x.(AccessPath(x) -> NamedRelease(x))
+all x.(UninterruptedPath(x) -> -NamedRelease(x))
+```
 
-**Two conditions for formless releases.**
+**Results (NLTK).** `check_logic.py` reports `shared: T` for the finite valuation and its group-eligibility rules.
 
-| Condition | Exclusion supplied in prose |
-|---|---|
-| Wholesome | Defiled formless states excluded |
-| Collected | Uncollected formless states excluded |
-
-The commentary mentions the death state as an
-example of uncollected occurrence. Others say
-uncollected forms occur at other times too. This
-reported extension should remain attributed rather
-than converted into a different account of wholesomeness.
-
-**Access-path distinction.** Liberation paths of
-access stages may receive the release designation.
-Uninterrupted paths do not, because their object
-is the lower level. The explanation turns on
-vaimukhya. It is not a general denial that
-access stages participate in the work of abandonment.
+**Scope cautions.** The uncertain second introductory release formula is intentionally not formalized; no negation or corrected reading is supplied here. Uncollected occurrence claims remain attributed. Eligibility is not inferred from formless level membership alone, and *vimokṣa* is not equated with final destruction of outflows.
 
 ## 9. Interpretive Note
 

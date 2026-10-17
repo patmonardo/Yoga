@@ -167,52 +167,35 @@ is not itself a statement of complete disappearance.
 
 ## 8. Logical Determination
 
-**The verse's stated relations.**
+The verse makes the Teacher's passing and the large loss of witnesses the setting for disorder, then attributes that disorder to unchecked bad reasoners who have not seen reality. This is a finite representation of the verse's own polemic, not a general condemnation of reasoning. `[verse]`; no separate Bhāṣya gloss is available.
 
-| Feature | Determination |
-|---|---|
-| First circumstance | Passing of the Teacher, expressed through the closed world-eye |
-| Second circumstance | Largely diminished body of witnesses |
-| Agents of disorder | Bad reasoners, lacking sight of reality and restraint |
-| Action and result | This teaching made confused |
+**Signature.** `TeacherGone(t)`, `WitnessesLargelyGone(w)`, `BadReasoner(a)`, `Unchecked(a)`, `HasNotSeenReality(a)`, and `Disorders(a,s)`.
 
-The locative absolutes supply the setting. The
-instrumentals explicitly identify the agents of the
-main action. A larger causal theory about
-institutions, historical periods, or transmission mechanisms would
-require more than this grammatical structure.
+```nltk-valuation
+teacher => teacher
+witnessgroup => witnessgroup
+reasonergroup => reasonergroup
+teaching => teaching
+TeacherGone => {teacher}
+WitnessesLargelyGone => {witnessgroup}
+BadReasoner => {reasonergroup}
+Unchecked => {reasonergroup}
+HasNotSeenReality => {reasonergroup}
+Disorders => {(reasonergroup,teaching)}
+```
 
-**The judgment is attributed.** The verse presents
-Vasubandhu's strongly evaluative closing voice. It does
-not name the disputants or provide case-by-case
-evidence for their alleged faults. The study
-records the judgment without assigning it to
-an unnamed contemporary group on its own authority.
+```nltk-fol
+# THEORY verse
+# [verse] nimīlite śāstari ... sākṣijane ca bhūyasā
+TeacherGone(teacher)
+WitnessesLargelyGone(witnessgroup)
+# [verse] adṛṣṭatattvair niravagrahaiḥ kṛtaṃ kutārkikaiḥ śāsanam ākulam
+all a.(BadReasoner(a) -> (Unchecked(a) & HasNotSeenReality(a) & Disorders(a,teaching)))
+```
 
-**Bad reasoning is not reasoning without qualification.**
-The ku- compound and its two adjectives
-specify the target. This supports retaining a
-distinction between critical argument and the reasoning
-condemned here. It does not, by itself,
-supply a full account of which arguments
-are valid or how realization is to
-be independently authenticated.
+**Results (NLTK).** The checker reports the verse theory true in the finite model of one collective agent class and the teaching. No entailment beyond these encoded claims was tested.
 
-**Connection with the preceding two verses.** VAK 8.39
-distinguished transmission and realization with their bearers;
-8.40 distinguished expository method, error, and authority.
-This verse laments disorder after the loss
-of authoritative presence and most witnesses. The
-connection is intelligible without treating the three
-verses as a formal proof that every
-later interpreter must necessarily be mistaken.
-
-**Loss and disorder remain distinct.** The witnesses
-have largely disappeared; the teaching has been
-made confused. Neither predicate is identical to
-the other. The verse leaves room for
-remaining witnesses and does not state that
-every transmitted teaching has become false.
+**Scope cautions.** `Bhūyasā` is “largely,” not “all.” The verse says the teaching is disordered, not vanished. It targets *ku-tārkikas*, bad reasoners; no separate positive theory of inference or named opponent is supplied.
 
 ## 9. Interpretive Note
 

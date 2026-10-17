@@ -158,64 +158,42 @@ all mental and all sensory objects.
 
 ## 8. Logical Determination
 
-**Object restrictions with their scope.**
+The first clause restricts object-range; the second identifies two antidotal routes to abandonment, including pure access against lower-level defilements. Object-taking and abandonment are not the same relation. Provenance: `[verse]`, `[prose]`.
 
-| Attainment or path | Object determination |
-|---|---|
-| Principal wholesome ārūpya | Lower-level contaminated objects excluded |
-| Principal wholesome ārūpya | Own-/higher-level contaminated range admitted |
-| Principal wholesome ārūpya | Uncontaminated range qualified by the knowledge-side and cessation exclusions |
-| Access uninterrupted path | Lower level taken as object |
+**Signature.** `PrincipalWholesomeArupya/1(a)`—principal wholesome formless attainment; `LowerContaminated/1(x)`—lower-level contaminated object; `TakesAsObject/2(a,x)`—a takes x as object; `Uncontaminated/1(a)`—uncontaminated attainment; `Defilement/1(d)`—defilement; `Abandons/2(a,d)`—a abandons d; `PureAccess/1(a)`—pure access attainment; `LowerDefilement/1(d)`—lower-level defilement; `AntidoteTo/2(a,d)`—a is d’s antidote.
 
-The uncontaminated allowance is not unrestricted:
-the source adds both the dharmajñāna-side exclusion
-and the exclusion of lower-level cessation. These
-qualifications prevent importing wholesome dhyāna's
-all-object range from VAK 8.20 into wholesome ārūpya.
+```nltk-fol
+# THEORY shared
+# [verse] principal wholesome formless attainments exclude lower contaminated objects
+all a.all x.((PrincipalWholesomeArupya(a) & LowerContaminated(x)) -> -TakesAsObject(a,x))
+# [verse] defilements are abandoned by uncontaminated attainment
+all a.all d.((Uncontaminated(a) & Defilement(d)) -> Abandons(a,d))
+# [verse, prose] access, even when pure, abandons the lower level as its antidote
+all a.all d.((PureAccess(a) & LowerDefilement(d) & AntidoteTo(a,d)) -> Abandons(a,d))
+```
 
-**The abandonment distinction.**
+**Finite valuation.** The example distinguishes a principal wholesome formless attainment from a pure access attainment.
 
-| Case | Abandonment in the stated account |
-|---|---|
-| Principal uncontaminated attainment | Abandons defilements |
-| Principal pure attainment | Does not abandon defilements |
-| Defiled attainment | Does not abandon defilements |
-| Pure access attainment | Abandons lower-level defilements as their antidote |
+```nltk-valuation
+principalSpace => principalSpace
+lowerObject => lowerObject
+nobleDhyana => nobleDhyana
+pureAccess => pureAccess
+lowerStain => lowerStain
+PrincipalWholesomeArupya => {principalSpace}
+LowerContaminated => {lowerObject}
+TakesAsObject => {}
+Uncontaminated => {nobleDhyana}
+Defilement => {lowerStain}
+Abandons => {(nobleDhyana,lowerStain),(pureAccess,lowerStain)}
+PureAccess => {pureAccess}
+LowerDefilement => {lowerStain}
+AntidoteTo => {(pureAccess,lowerStain)}
+```
 
-This table gives the passage's functional distinctions;
-it does not claim that each uncontaminated attainment
-abandons every defilement on every level indiscriminately.
+**Results (NLTK).** `Model.satisfy` checks the exclusions and the two abandonment rules. The pure-access case works through the explicit lower-level antidote relation.
 
-**Why principal purity does not suffice.** The prose
-examines the three relative positions of defilements.
-
-| Defilements considered | Reason the principal pure attainment does not abandon them |
-|---|---|
-| Lower-level | Dispassion toward the lower has already been attained |
-| Same-level | It is not the antidote to its own level |
-| Higher-level | The higher is superior to it |
-
-The access case is different precisely because its
-function is opposition to the lower level. The
-argument therefore depends on the relation of the
-attainment to its target, not an undifferentiated
-claim that all contaminated attainment is ineffective.
-
-**Object relation and efficacy are connected, not identical.**
-The access uninterrupted path takes the lower level
-as object, and the access attainment acts as that
-level's antidote. This does not establish that merely
-taking something as object suffices to abandon its
-defilements. The pratipakṣa determination supplies the
-additional operative explanation.
-
-**No compulsory access-to-uncontaminated sequence is stated.**
-The source explicitly allows pure access attainment
-to abandon lower-level defilements. The research first
-pass's diagram in which abandonment begins in access
-and is completed in uncontaminated attainment goes
-beyond this statement. The official study retains
-the named capacities without adding that universal itinerary.
+**Scope cautions.** The prose extends the second clause to dhyāna access as well as formless access. `Anvayajñāna` qualifies which uncontaminated objects are admitted; that fine-grained qualification and uninterrupted-path timing are not formalized here. Pure principal attainment is not asserted to abandon defilements. The negative object claim concerns lower contaminated objects, not every object associated with a lower level.
 
 ## 9. Interpretive Note
 

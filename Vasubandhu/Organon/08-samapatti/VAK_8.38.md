@@ -155,51 +155,36 @@ further internal analysis of that phrase.
 
 ## 8. Logical Determination
 
-**The distribution of powers.**
+The verse contrasts production of formless attainments in two domains through causal and karmic power with dhyāna production in the form domain through those powers and, at cosmic contraction, *dharmatā*. `[verse]`; the conditions' content and timing are `[prose]`.
 
-| Attainment produced | Support domain | Powers specified |
-|---|---|---|
-| Formless samāpatti | Form domain | Causal power; karmic power |
-| Formless samāpatti | Formless domain | Causal power; karmic power |
-| Dhyāna | Form domain | Causal power; karmic power; additionally dharmatā at contraction |
+**Signature.** `FormlessProduction(g)`, `DhyanaProduction(g)`, `InDomain(g,d)`, `ByPower(g,p)`, and `AtContraction(g)`.
 
-These are explanatory possibilities within the stated
-scope. The table does not assign dhyāna
-production to a formless-domain support or extend
-the contraction route to every formless attainment.
+```nltk-valuation
+formlessgroup => formlessgroup
+dhyanagroup => dhyanagroup
+formdomain => formdomain
+formlessdomain => formlessdomain
+causepower => causepower
+karmapower => karmapower
+dharmata => dharmata
+FormlessProduction => {formlessgroup}
+DhyanaProduction => {dhyanagroup}
+InDomain => {(formlessgroup,formdomain),(formlessgroup,formlessdomain),(dhyanagroup,formdomain)}
+ByPower => {(formlessgroup,causepower),(formlessgroup,karmapower),(dhyanagroup,causepower),(dhyanagroup,karmapower),(dhyanagroup,dharmata)}
+AtContraction => {dhyanagroup}
+```
 
-**Cultivation gives the first power its content.**
-The prose directly equates the causal-power explanation
-with recent and repeated practice. “Cause” should
-therefore not be set against cultivation as
-though it were a separate, untrained capacity.
+```nltk-fol
+# THEORY shared
+# [verse] dhātvoḥ ... dvayoḥ; [prose] form and formless domains
+all g.(FormlessProduction(g) -> (InDomain(g,formdomain) & InDomain(g,formlessdomain) & ByPower(g,causepower) & ByPower(g,karmapower)))
+# [verse] dhyānānāṃ rūpadhātau ... tābhyāṃ dharmatayāpi ca
+all g.(DhyanaProduction(g) -> (InDomain(g,formdomain) & ByPower(g,causepower) & ByPower(g,karmapower) & ByPower(g,dharmata) & AtContraction(g)))
+```
 
-**Karmic maturation retains the dispassion condition.**
-The source explains that higher rebirth is
-not possible while attachment to the lower
-remains. The karmic route is therefore not
-a bypass allowing higher rebirth with that
-lower attachment intact. This sentence links the
-attainment account to the conditions of higher
-rebirth; it does not identify an attainment
-session with the rebirth event itself.
+**Results (NLTK).** The checker reports both distribution rules true in the finite model. No causal sufficiency beyond the stated conditions was tested.
 
-**The third route has a cosmological occasion.**
-The prose explicitly says saṃvartanīkāle. Its statement
-that lower-level beings then produce the corresponding
-dhyāna is tied to that occasion. It does
-not assert that all beings continuously possess
-all dhyānas, or that any practitioner can
-invoke dharmatā as a substitute for practice.
-
-**The scope of the present discussion.** VAK 8.37
-classified acquisition and support for the release,
-mastery, and totality complexes. Its following question
-asks how special dhyāna and formless attainments
-are produced in the higher domains. This
-unit answers that question; it does not
-cancel the preceding human-production rule for the
-specified non-formless special practices.
+**Scope cautions.** “Cause” is locally explained as recent, repeated practice; “karma” as impending maturation. `Dharmatā` is restricted by the prose to the contraction context, not asserted as a universal third cause. Production of an attainment is distinct from a rebirth event.
 
 ## 9. Interpretive Note
 

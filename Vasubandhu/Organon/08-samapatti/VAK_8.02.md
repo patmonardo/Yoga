@@ -150,59 +150,60 @@ which release gives rise to the next attainment.
 
 ## 8. Logical Determination
 
-**Selected dhyāna distinctions.**
+The verse distinguishes selected dhyāna qualities from the common wholesome one-pointed nature, then applies the same nature to formless attainments with four Bases. The Bhāṣya supplies the successive exclusions, the fourfold progression, and the release-path sense of *viveka* [verse; prose].
 
-| Dhyāna | Selected qualities retained in this account | Progressive exclusions |
-|---|---|---|
-| First | Vicāra, joy, ease; vitarka included by prose | None of the listed qualities excluded |
-| Second | Joy and ease | Vicāra; vitarka is also absent in the dhyāna scheme |
-| Third | Ease | Vicāra and joy |
-| Fourth | Wholesome one-pointedness remains understood | Vicāra, joy, and ease |
+**Signature.** `Dhyana(x)`; `Formless(x)`; `Ekagra(x)` (wholesome one-pointedness); `FactorOf(x,f)` (selected factor); `BaseCount(x,n)` (accompanied constitution); `ReleasedFrom(x,y)` (arising attainment x is released from ground y).
 
-This is a table of the passage's differentiating qualities,
-not the complete aṅga lists. The first-dhyāna inference
-from vicāra to vitarka does not logically prove that
-absence of vicāra entails absence of vitarka everywhere.
-The fuller dhyāna-factor account will control those
-technical distributions.
+**Finite data.** The selected factors are not complete factor inventories; the Base counts and successive grounds follow the Bhāṣya.
 
-**The four formless attainments.**
-
-| Ground relinquished | Attainment arising through its separation |
-|---|---|
-| Fourth dhyāna | Essence of infinite space, `ākāśānantyāyatana` |
-| Infinite space | Essence of infinite consciousness, `vijñānānantyāyatana` |
-| Infinite consciousness | Essence of nothingness, `ākiñcanyāyatana` |
-| Nothingness | Essence of neither perception nor non-perception, `naivasaṃjñānāsaṃjñāyatana` |
-
-These names are supplied by the prose. The passage
-lists the progression and defines release; it does
-not yet analyze each object or provide a complete
-practice procedure for entering these states.
-
-**Defining nature and accompanied constitution.**
-
-```text
-Dhyana attainment:
-    general defining nature: Wholesome one-pointedness
-    with accompaniment: Five Bases
-
-Formless attainment:
-    general defining nature: Wholesome one-pointedness
-    with accompaniment: Four Bases
-    omitted accompanying Base: Rupa
+```nltk-valuation
+first => first
+second => second
+third => third
+fourth => fourth
+space => space
+consciousness => consciousness
+nothingness => nothingness
+neither => neither
+vitarka => vitarka
+vicara => vicara
+priti => priti
+sukha => sukha
+five => five
+four => four
+Dhyana => {first, second, third, fourth}
+Formless => {space, consciousness, nothingness, neither}
+Ekagra => {first, second, third, fourth, space, consciousness, nothingness, neither}
+FactorOf => {(first,vitarka),(first,vicara),(first,priti),(first,sukha),(second,priti),(second,sukha),(third,sukha)}
+BaseCount => {(first,five),(second,five),(third,five),(fourth,five),(space,four),(consciousness,four),(nothingness,four),(neither,four)}
+ReleasedFrom => {(space,fourth),(consciousness,space),(nothingness,consciousness),(neither,nothingness)}
 ```
 
-The four are feeling, perception, formations, and
-consciousness. Their enumeration explains the fourfold
-constitution without turning formless attainment into
-one isolated consciousness lacking mental factors.
+**Rules (verse and prose).**
 
-The transition is not characterized solely by subtraction.
-The source retains wholesome one-pointedness and supplies
-a path of dispassion from the lower ground. “Higher”
-therefore does not mean simply “fewer properties” in
-an unrestricted philosophical sense.
+```nltk-fol
+# THEORY shared
+# [prose] wholesome one-pointedness persists through both series
+all x.(Dhyana(x) -> Ekagra(x))
+all x.(Formless(x) -> Ekagra(x))
+# [verse] catuḥskandhāḥ; [prose] with accompaniment
+all x.(Formless(x) -> BaseCount(x,four))
+ReleasedFrom(space,fourth)
+ReleasedFrom(consciousness,space)
+ReleasedFrom(nothingness,consciousness)
+ReleasedFrom(neither,nothingness)
+# [verse] first-dhyāna qualities; [prose] vitarka is understood with vicāra
+FactorOf(first,vitarka)
+FactorOf(first,vicara)
+# [verse] successive named exclusions, not a full factor census
+FactorOf(second,priti)
+FactorOf(second,sukha)
+FactorOf(third,sukha)
+```
+
+**Results (NLTK).** `check_logic.py` parses the formulas; its finite-model check confirms the shared rules are true of the supplied valuation. The factor roster is a transcription of selected qualities, not a theorem that no other factors occur.
+
+**Scope cautions.** `tathā` is restricted by the Bhāṣya to specified respects, not full identity of constitution. The smoke-and-fire argument supplies vitarka alongside vicāra only in the first configuration; it does not establish a converse rule. The fourfold route and `viveka` as release through dispassion are prose specifications, not additional Sanskrit padas.
 
 ## 9. Interpretive Note
 

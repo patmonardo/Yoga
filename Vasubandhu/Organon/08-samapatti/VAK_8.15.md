@@ -155,68 +155,41 @@ factors of VAK 8.09.
 
 ## 8. Logical Determination
 
-**The ordered levels used in the count.** The sequence
-is the four dhyānas, then infinite space, infinite
-knowledge, nothingness, and the summit of existence.
-The last has a pure but no uncontaminated attainment.
+The verse restricts which wholesome attainments may immediately follow, then permits a same-level defiled successor only after a pure predecessor. The relation records permission, not inevitable succession. Provenance: `[verse]`, `[prose]`.
 
-**The examples determine the range.** The following
-counts concern successors of an uncontaminated predecessor.
+**Signature.** `MayWholesomeFollow/2(p,s)`, `MayDefiledFollow/2(p,s)`—s is a permitted immediate successor of p in the named mode; `Uncontaminated/1`, `Pure/1`, `Wholesome/1`, `Defiled/1`—attainment mode; `WithinTwo/2(p,s)`—bounded level range; `SameLevel/2(p,s)`—same level.
 
-| Predecessor level | Eligible destination levels | Wholesome successor count |
-|---|---|---:|
-| First dhyāna | First through third dhyānas | 6 |
-| Second dhyāna | First through fourth dhyānas | 8 |
-| Third dhyāna | First dhyāna through infinite space | 10 |
-| Fourth dhyāna | Second dhyāna through infinite knowledge | 10 |
-| Infinite space | Third dhyāna through nothingness | 10 |
-| Infinite knowledge | Fourth dhyāna through the summit | 9 |
-| Nothingness | Infinite space through the summit | 7 |
+**Dataset (selected permitted pairs).** The pair relation is the finite matrix side; no person or actual sequence is asserted.
 
-The prose explicitly gives six, seven, eight, and
-nine, and directs that the other cases be construed
-as ten. The middle rows expand that instruction.
-Each eligible level contributes pure and uncontaminated
-modes, except the summit, which contributes pure alone.
-These are general level/mode possibilities, subject
-to the knowledge-condition below.
+```nltk-valuation
+uncontamPred => uncontamPred
+purePred => purePred
+wholesomeSame => wholesomeSame
+wholesomeTwo => wholesomeTwo
+defiledSame => defiledSame
+Uncontaminated => {uncontamPred}
+Pure => {purePred}
+Wholesome => {wholesomeSame,wholesomeTwo}
+Defiled => {defiledSame}
+WithinTwo => {(uncontamPred,wholesomeSame),(uncontamPred,wholesomeTwo),(purePred,wholesomeSame),(purePred,wholesomeTwo)}
+SameLevel => {(purePred,defiledSame)}
+MayWholesomeFollow => {(uncontamPred,wholesomeSame),(uncontamPred,wholesomeTwo),(purePred,wholesomeSame),(purePred,wholesomeTwo)}
+MayDefiledFollow => {(purePred,defiledSame)}
+```
 
-**A boundary is not an exception to the arithmetic.**
-First dhyāna has only its own and two higher levels
-within the principal-attainment sequence. Nothingness
-has two lower levels, its own, and the summit above.
-The missing uncontaminated summit explains the odd
-totals seven and nine. No uncontaminated summit is
-invented to make the pattern uniform.
+```nltk-fol
+# THEORY shared
+# [verse] śubha after anāsrava within the bounded level range
+all p.all s.((MayWholesomeFollow(p,s) & Uncontaminated(p)) -> (Wholesome(s) & WithinTwo(p,s)))
+# [verse] tathā carries the wholesome permission after śuddha
+all p.all s.((MayWholesomeFollow(p,s) & Pure(p)) -> (Wholesome(s) & WithinTwo(p,s)))
+# [verse] only the additional kliṣṭa successor is restricted to its own level
+all p.all s.((MayDefiledFollow(p,s) & Pure(p)) -> (Defiled(s) & SameLevel(p,s)))
+```
 
-**Knowledge constrains formless entry.** The prose
-specifies entry into ārūpya immediately after anvayajñāna
-and excludes dharmajñāna because of its lower support
-and object. Thus a permitted level-distance alone
-is insufficient to validate every particular transition.
-The condition is supplied in the discussion of uncontaminated
-predecessors; it is not a denial of every pure-to-pure
-formless transition.
+**Results (NLTK).** The session checker evaluates all three rules against the finite permission matrix. The matrix leaves out any defiled successor after an uncontaminated predecessor; the formalization does not turn “may follow” into “must follow.”
 
-**The mode asymmetry.**
-
-| Predecessor | General wholesome successors | Additional defiled successor |
-|---|---|---|
-| Uncontaminated | Same level and bounded higher/lower range | None immediately |
-| Pure | Corresponding wholesome possibilities | Same level only |
-
-The pure row states the general rule. VAK 8.17's
-opening clarification that not every pure attainment
-produces an uncontaminated successor will further
-qualify it by subtype. This study therefore does
-not convert the table into a claim about every
-individual pure state.
-
-**The present scope is meditative succession.** The
-next verse separately treats defiled predecessors and
-then distinguishes the death-time case. Those rules
-must not be silently imported into the present
-same-level restriction or inferred by reversing its arrows.
+**Scope cautions.** The counted limit treats the starting ground as first, following the Bhāṣya. Special restrictions on formless entry after *anvayajñāna*, skipping practitioners, and attainment subtypes are not generalized here. Later states after intervening moments are outside `May…Follow`. `WithinTwo` abstracts the symmetric level bound; it does not encode a signed upward or downward trajectory.
 
 ## 9. Interpretive Note
 

@@ -157,62 +157,53 @@ themselves establish a calendar starting date.
 
 ## 8. Logical Determination
 
-**The two forms and their bearers.**
+The verse distinguishes the Teacher's true Dharma into transmission and realization, then assigns bearers to each. The Bhāṣya identifies transmission with Sūtra, Vinaya, and Abhidharma, and realization with awakening factors. Duration estimates are reported by different voices, not folded into the verse's definition. `[verse]` / `[prose]`.
 
-| Form of the true teaching | Content specified in the prose | Sustaining function |
-|---|---|---|
-| Āgama | Sūtra, Vinaya, Abhidharma | Retaining and expounding |
-| Adhigama | Factors conducive to awakening | Practicing |
+**Signature.** `TrueDharma(d)`, `Aspect(a)`, `ConsistsOf(d,a)`, `Bearer(b)`, `Bears(b,a)`, `Retains(b,a)`, `Speaks(b,a)`, `Practices(b,a)`, and `Comprises(a,c)`.
 
-The content distinction and the bearer distinction
-are related but not interchangeable. A practitioner
-is the bearer of the realized dimension;
-the person is not simply another item added
-to the list of awakening factors.
+```nltk-valuation
+saddharma => saddharma
+transmission => transmission
+realization => realization
+thousandyears => thousandyears
+expositor => expositor
+practitioner => practitioner
+sutravinayaabhidharma => sutravinayaabhidharma
+awakeningfactors => awakeningfactors
+TrueDharma => {saddharma}
+Aspect => {transmission,realization}
+ConsistsOf => {(saddharma,transmission),(saddharma,realization)}
+Bearer => {expositor,practitioner}
+Bears => {(expositor,transmission),(practitioner,realization)}
+Retains => {(expositor,transmission)}
+Speaks => {(expositor,transmission)}
+Practices => {(practitioner,realization)}
+Comprises => {(transmission,sutravinayaabhidharma),(realization,awakeningfactors)}
+Duration => {(realization,thousandyears)}
+LongerThan => {(transmission,realization)}
+```
 
-**The persistence criterion.** Yāvad ete sthāsyanti,
-“as long as these remain,” refers back
-to the identified bearers. The account ties
-continuity to sustaining activity. It gives no
-warrant for inferring realization solely from the
-existence of an archive, or for denying
-the transmitted form any status as Dharma
-when the realized form no longer persists.
+```nltk-fol
+# THEORY shared
+# [verse] saddharmo dvividhaḥ ... āgamādhigamātmakaḥ
+all d.(TrueDharma(d) -> (ConsistsOf(d,transmission) & ConsistsOf(d,realization)))
+# [verse] dhātāras ... vaktāraḥ pratipattāraḥ; [prose] role mapping
+all b.(Bears(b,transmission) -> (Retains(b,transmission) & Speaks(b,transmission)))
+all b.(Bears(b,realization) -> Practices(b,realization))
+# [prose] āgama and adhigama contents
+Comprises(transmission,sutravinayaabhidharma)
+Comprises(realization,awakeningfactors)
+# THEORY ahuh
+# [prose] reported duration for realization
+Duration(realization,thousandyears)
+# THEORY apare
+# [prose] others report longer transmission
+LongerThan(transmission,realization)
+```
 
-**The reported duration and its qualification.** The
-prose first reports that their continuance is
-one thousand years: āhuḥ, “they say.” It
-then gives the other account, marked by
-ity apare: this applies to realization, whereas
-transmission lasts for a longer time.
+**Results (NLTK).** The checker reports `shared`, `ahuh`, and `apare` true in the finite model; the two duration reports remain attributed rather than combined into an unqualified chronology.
 
-| Report | Stated scope |
-|---|---|
-| “They say” | A thousand years of continuance, initially stated without the later distinction |
-| “Others” | That duration for realization; a longer duration for transmission |
-
-The second account is best read as qualifying
-the first, not as a reason to silently
-make the initial report exclusively about realization.
-No named school or precise longer duration
-is supplied in this unit. These are reported
-traditional estimates, not dates independently established by
-this study or a diagnosis of the present age.
-
-**Twofold does not mean equal-duration.** The commentary's
-alternative allows the transmitted form to outlast
-the realized form. The research's statement that
-the Dharma exists “only where these remain joined”
-therefore needs qualification. Both belong to its
-full twofold account; each can also be
-discussed with its own bearers and duration.
-
-**From attainment to preservation.** The question follows
-the detailed exposition of contemplative dharmas. It
-asks about the continuance of the teaching
-in which such distinctions are discerned. The
-transition connects doctrinal articulation and realized practice
-without treating them as identical activities.
+**Scope cautions.** `Bearer` does not require two disjoint populations: a person may expound and practice. Duration formulas record only the Bhāṣya's reports, not a starting date or a fixed end for the teaching.
 
 ## 9. Interpretive Note
 

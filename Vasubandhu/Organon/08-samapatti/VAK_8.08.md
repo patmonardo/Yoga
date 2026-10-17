@@ -142,57 +142,65 @@ Repeated roles across levels are included in the total.
 
 ## 8. Logical Determination
 
-**The two inventories.**
+The verse completes the third- and fourth-dhyāna lists and identifies stability with samādhi [verse; prose]. Its eighteen is a count by name across the four dhyānas, not a claim of eighteen distinct dharmas.
 
-| Third dhyāna: five | Fourth dhyāna: four |
-|---|---|
-| Equanimity | Purification of equanimity |
-| Mindfulness | Purification of mindfulness |
-| Clear comprehension | — |
-| Ease or pleasant feeling | Neither-pain-nor-pleasure feeling |
-| Samādhi, called sthiti | Samādhi |
+**Signature.** `FactorOf(level,factor)`; `Count(level,n)`; `Purified(level,factor)`; `SameRole(x,y)`; `NamedTotal(n)`.
 
-The blank means not separately counted under that
-name in the fourth inventory. It is not proof that
-all discriminative knowing is absent there. Selection
-as an aṅga remains distinct from a complete inventory
-of every dharma associated with an attainment.
+**Finite data.** The third list has five names and the fourth four; the latter's equanimity and mindfulness carry purification, and neutral feeling remains a separate factor.
 
-**A positive feeling determination.** The fourth list
-contains neutral feeling. It should not be modeled
-as simply deleting sukha and leaving the Feeling
-Base empty. Likewise, its purified equanimity
-and mindfulness must remain explicit rather than
-being reduced to unqualified labels.
+```nltk-valuation
+first => first
+second => second
+third => third
+fourth => fourth
+vitarka => vitarka
+vicara => vicara
+priti => priti
+pliancy => pliancy
+clarity => clarity
+upeksa => upeksa
+smrti => smrti
+comprehension => comprehension
+sukha => sukha
+sthiti => sthiti
+neutralfeeling => neutralfeeling
+upeksapurified => upeksapurified
+smrtipurified => smrtipurified
+samadhi => samadhi
+five => five
+four => four
+eighteen => eighteen
+FactorOf => {(first,vitarka),(first,vicara),(first,priti),(first,pliancy),(first,samadhi),(second,priti),(second,sukha),(second,samadhi),(second,clarity),(third,upeksa),(third,smrti),(third,comprehension),(third,sukha),(third,sthiti),(fourth,neutralfeeling),(fourth,upeksapurified),(fourth,smrtipurified),(fourth,samadhi)}
+Count => {(third,five),(fourth,four)}
+Purified => {(fourth,upeksa),(fourth,smrti)}
+SameRole => {(sthiti,samadhi)}
+NamedTotal => {eighteen}
+```
 
-**The full name-count.**
+**Rules (verse and prose).**
 
-| Dhyāna | Named factors |
-|---|---:|
-| First | 5 |
-| Second | 4 |
-| Third | 5 |
-| Fourth | 4 |
-| Total by name | 18 |
+```nltk-fol
+# THEORY shared
+# [verse] tṛtīye pañca; [prose] prajñā = saṃprajñāna, sthiti = samādhi
+Count(third,five)
+FactorOf(third,upeksa)
+FactorOf(third,smrti)
+FactorOf(third,comprehension)
+FactorOf(third,sukha)
+SameRole(sthiti,samadhi)
+# [verse] catvāry ante; [prose] fourth equanimity and mindfulness are purified
+Count(fourth,four)
+FactorOf(fourth,neutralfeeling)
+Purified(fourth,upeksa)
+Purified(fourth,smrti)
+FactorOf(fourth,samadhi)
+# [prose] 5 + 4 + 5 + 4, counted nāmataḥ
+NamedTotal(eighteen)
+```
 
-The repeated counting of samādhi, for example, belongs
-to this level-indexed inventory. The prose's `nāmata
-evam` signals that a count of distinct dharmas is
-another question. The arithmetic alone cannot settle it.
+**Results (NLTK).** The finite-model checker confirms the listed membership, count, purification, and total assertions. The total is a tally of named roles; it is not a derived count of unique dharmas (the next verse treats that question).
 
-**The scriptural support for sthiti.** The cited question
-asks what right samādhi is, and the quoted answer
-begins with the stability of mind. Vasubandhu uses
-that wording to justify the local synonym. The passage
-does not give a separate practice of “stability” in
-addition to samādhi or require importing another system's
-technical meaning of sthiti.
-
-**Relation to earlier distinctions.** The counts concern
-factors, not the three attainment modes, the five
-Bases, or the four formless attainments. A state
-can be located in more than one classification, but
-those classifications answer different questions.
+**Scope cautions.** The fourth's neutral feeling is not the same factor as equanimity; “purified” does not mean uncontaminated. Failure to list clear comprehension in the fourth is not a claim that all knowing is absent. `Ante` refers to the fourth dhyāna, not bhavāgra.
 
 ## 9. Interpretive Note
 

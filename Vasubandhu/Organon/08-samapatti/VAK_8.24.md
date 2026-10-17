@@ -162,50 +162,52 @@ with nirvāṇa.
 
 ## 8. Logical Determination
 
-**The truth-aspect partition.**
+The verse partitions sixteen truth-aspects among three samādhis: four for signless, two for emptiness, and the remainder for non-directed. `[verse]` supplies the partition; `[prose]` resolves the first instrumental as cessation-aspects and explains signlessness through its object, nirvāṇa.
 
-| Samādhi | Assigned aspects | Count |
-|---|---|---:|
-| Signless | Four aspects of cessation | 4 |
-| Emptiness | Non-self and emptiness | 2 |
-| Non-directed | Remaining aspects: impermanence and suffering, four origin aspects, four path aspects | 10 |
-| Total | The sixteen truth-aspects | 16 |
+**Signature.** `Samadhi(x)`; `Aspect(x)`; `Assign(s,a)` (samādhi `s` is assigned aspect `a`).
 
-The last row of membership expands “remaining”
-using the established four-truth inventory. The
-commentary explicitly supplies the counts four, two,
-and ten, and its rationale mentions suffering,
-impermanence, their causes, and the path.
+**Dataset (the sixteen assignments).** The extension records the prose's four/two/ten split; cessation and peace are individual aspects, while nirvāṇa is not treated as one of the sixteen aspect labels.
 
-**The ten signs are a different count.** Five
-sensory object fields, two sex-designating signs,
-and three conditioned marks give ten signs. These
-are not the ten aspects assigned to apraṇihita.
-The identical numeral must not collapse two different
-classifications into one.
+```nltk-valuation
+signless => signless
+emptiness => emptiness
+nondirected => nondirected
+cessation1 => cessation1
+cessation2 => cessation2
+cessation3 => cessation3
+cessation4 => cessation4
+nonself => nonself
+emptinessAspect => emptinessAspect
+impermanence1 => impermanence1
+suffering1 => suffering1
+origin1 => origin1
+origin2 => origin2
+origin3 => origin3
+origin4 => origin4
+path1 => path1
+path2 => path2
+path3 => path3
+path4 => path4
+Samadhi => {signless, emptiness, nondirected}
+Aspect => {cessation1, cessation2, cessation3, cessation4, nonself, emptinessAspect, impermanence1, suffering1, origin1, origin2, origin3, origin4, path1, path2, path3, path4}
+Assign => {(signless,cessation1),(signless,cessation2),(signless,cessation3),(signless,cessation4),(emptiness,nonself),(emptiness,emptinessAspect),(nondirected,impermanence1),(nondirected,suffering1),(nondirected,origin1),(nondirected,origin2),(nondirected,origin3),(nondirected,origin4),(nondirected,path1),(nondirected,path2),(nondirected,path3),(nondirected,path4)}
+```
 
-**Signlessness has a specified object.** Nirvāṇa is
-free from the ten signs, and samādhi taking
-it as object is therefore signless. This is
-not a requirement that every sign or presentation
-disappear from every possible cognition, nor an
-assertion that the four cessation aspects cease
-to determine this samādhi.
+```nltk-fol
+# THEORY shared
+# [verse] first group; [prose] resolved as four cessation aspects
+all a.(Assign(signless,a) -> Aspect(a))
+# [verse] emptiness and non-self
+all a.(Assign(emptiness,a) -> Aspect(a))
+# [verse] ataḥ paraiḥ; [prose] the ten remaining aspects
+all a.(Assign(nondirected,a) -> Aspect(a))
+# [prose] every represented aspect belongs to one of the three groups
+all a.(Aspect(a) -> (Assign(signless,a) | Assign(emptiness,a) | Assign(nondirected,a)))
+```
 
-**The path remains a path.** The commentary includes
-its aspects in the non-directed group because,
-like a raft, it is ultimately to be relinquished.
-The means is used for passage; eventual relinquishment
-does not make its present use pointless. The
-source's explanation is thus more specific than
-an undifferentiated rejection of every goal.
+**Results (NLTK).** `check_logic.py` parses the blocks and reports `shared: T` for this finite model.
 
-**The next mode distinction remains open.** These
-three samādhis will be classified as pure and
-uncontaminated in VAK 8.25, with the uncontaminated
-forms designated gates of liberation. Calling every
-instance already uncontaminated here would erase
-that distinction before it is stated.
+**Scope cautions.** The ten signs explaining the name ānimitta are a separate classification, not these ten remaining aspects. The model does not make nirvāṇa one of the sixteen, and the path's eventual relinquishment does not negate its present assignment to non-directed samādhi.
 
 ## 9. Interpretive Note
 

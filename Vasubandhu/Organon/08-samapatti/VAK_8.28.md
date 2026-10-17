@@ -159,50 +159,43 @@ it does not terminate Chapter 8.
 
 ## 8. Logical Determination
 
-**The four cultivations, now complete.**
+The verse completes the fourfold cultivation list with three further purposes and their bases: knowledge-and-seeing, prajñā-differentiation, and outflow-destruction. The Bhāṣya resolves divine-eye superknowledge, all application-born qualities, and vajra-like samādhi in fourth dhyāna; its final sandhi is `sā āsravakṣayabhāvanā`. `[verse]` / `[prose]`.
 
-| Purpose | Basis identified in the exposition |
-|---|---|
-| Present-life pleasant abiding | Wholesome first dhyāna, with the preceding prose's extension to the others |
-| Knowledge-and-seeing | Divine-eye superknowledge |
-| Differentiation of prajñā | All application-born qualities, of the three domains and uncontaminated |
-| Destruction of outflows | Vajra-like samādhi in fourth dhyāna |
+**Signature.** `Purpose(p)`; `Basis(b)`; `Serves(b,p)`; `ApplicationBorn(b)`; `FourthDhyana(b)`.
 
-The table retains VAK 8.27's qualification of
-the first member. It does not make first dhyāna
-the exclusive basis of present pleasant abiding.
+```nltk-valuation
+firstDhyana => firstDhyana
+divineEyeSuperknowledge => divineEyeSuperknowledge
+applicationBornQualities => applicationBornQualities
+vajraSamadhiFourth => vajraSamadhiFourth
+presentAbiding => presentAbiding
+knowledgeSeeing => knowledgeSeeing
+prajnaDifferentiation => prajnaDifferentiation
+outflowDestruction => outflowDestruction
+Purpose => {presentAbiding, knowledgeSeeing, prajnaDifferentiation, outflowDestruction}
+Basis => {firstDhyana, divineEyeSuperknowledge, applicationBornQualities, vajraSamadhiFourth}
+Serves => {(firstDhyana,presentAbiding),(divineEyeSuperknowledge,knowledgeSeeing),(applicationBornQualities,prajnaDifferentiation),(vajraSamadhiFourth,outflowDestruction)}
+ApplicationBorn => {applicationBornQualities}
+FourthDhyana => {vajraSamadhiFourth}
+```
 
-**The third member is deliberately broad.** The
-prose supplies both sarve, all, and the domain/mode
-scope. Replacing this with “analytical Recognition”
-alone would narrow the source. Its organizing
-principle is application-born qualities serving differentiation
-of prajñā.
+```nltk-fol
+# THEORY shared
+# [verse 8.27, prose] first wholesome dhyāna is for present-life pleasant abiding
+Serves(firstDhyana,presentAbiding)
+# [prose] darśana = knowledge-and-seeing; divine-eye superknowledge is its basis
+Serves(divineEyeSuperknowledge,knowledgeSeeing)
+# [verse, prose] all application-born qualities serve prajñā-differentiation
+Serves(applicationBornQualities,prajnaDifferentiation)
+ApplicationBorn(applicationBornQualities)
+# [verse, prose] vajra-like samādhi in fourth dhyāna serves outflow-destruction
+Serves(vajraSamadhiFourth,outflowDestruction)
+FourthDhyana(vajraSamadhiFourth)
+```
 
-**The fourth designation is situated by the commentary.**
-The text names the vajra-like samādhi in fourth
-dhyāna, then reports the teaching's relation to
-the Buddha's own case. The next transmitted phrase,
-`ataś caturbhya evāha`, is compressed and textually
-awkward. The study preserves the clear fourth-dhyāna
-identification without turning the remark into a
-new universal claim that no other basis can
-support outflow destruction.
+**Results (NLTK).** `check_logic.py` reports `shared: T` against the finite valuation.
 
-**Different purposes are not automatically a required sequence.**
-The enumeration does not explicitly state that
-seeing must first occur, then differentiation, then
-the vajra-like samādhi in every practitioner. The
-research's developmental diagram can serve as project
-interpretation, but its proposed necessary mediation
-is not part of the primary translation.
-
-**Local closure and continuation.** The prose declares
-the exposition of samādhis complete for the present
-section and turns to samādhi-dependent qualities.
-The next topic is the four immeasurables. The
-chapter continues with these qualities rather than
-ending at the four cultivations.
+**Scope cautions.** The purposes are not encoded as a mandatory sequence. “All” application-born qualities is broader than one named analytic attainment. The text identifies a fourth-dhyāna vajra-like samādhi but does not make this verse a universal exclusion of other grounds for outflow-destruction.
 
 ## 9. Interpretive Note
 

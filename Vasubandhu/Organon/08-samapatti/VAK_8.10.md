@@ -143,56 +143,52 @@ The pairing by dhyāna follows their relevant factor roles.
 
 ## 8. Logical Determination
 
-**First reported account: level, absence, reason.**
+The Bhāṣya distributes the first absence account by level and reason, then reports a second classification-based account [verse; prose]. These are separately attributed theories, not one combined rule for all defiled dhyānas.
 
-| Defiled dhyāna | Absent factor or qualification | Reason in the prose |
-|---|---|---|
-| First | Separation-born rapture and pleasure | Non-separation from defilements |
-| Second | Inward clarity | Turbidity through defilements |
-| Third | Mindfulness and clear comprehension | Bewilderment through defiled pleasure |
-| Fourth | Purification of equanimity and mindfulness | Staining through defilements |
+**Signature.** `Defiled(x)`; `AbsentA(level,factor)` (first reported account); `AbsentB(level,factor)` (other account); `ReportedTheory(t)`.
 
-The third explanation itself refers to defiled pleasure.
-Consequently, denying the first's separation-born pleasure
-must not become a universal denial of pleasure wherever
-there is defilement.
+**Finite data.** A's absences are qualified and level-specific; B groups the first two and last two levels differently.
 
-**Second reported account: classification of the factors.**
+```nltk-valuation
+first => first
+second => second
+third => third
+fourth => fourth
+vivekajapriti => vivekajapriti
+prasada => prasada
+smrtisamprajanya => smrtisamprajanya
+upeksasmrtipurification => upeksasmrtipurification
+pliancy => pliancy
+equanimity => equanimity
+accounta => accounta
+accountb => accountb
+Defiled => {first, second, third, fourth}
+AbsentA => {(first,vivekajapriti),(second,prasada),(third,smrtisamprajanya),(fourth,upeksasmrtipurification)}
+AbsentB => {(first,pliancy),(second,pliancy),(third,equanimity),(fourth,equanimity)}
+ReportedTheory => {accounta, accountb}
+```
 
-| Defiled dhyānas | Factor specified as absent | Shared reason |
-|---|---|---|
-| First and second | Pliancy | It belongs to the wholesome class |
-| Third and fourth | Equanimity | It belongs to the wholesome class |
+**Theories (never merged).**
 
-VAK 8.09 identifies the first two dhyānas' sukha with
-pliancy in its stated scheme. This makes the present
-exclusion intelligible in relation to the earlier
-inventory. The table does not imply that pliancy could
-be defiled in another level: the stated reason concerns
-its wholesome classification, while the distribution
-concerns its role in these factor lists.
+```nltk-fol
+# THEORY first_account — [prose] kecid āhuḥ; reasons are level-specific
+ReportedTheory(accounta)
+AbsentA(first,vivekajapriti)
+AbsentA(second,prasada)
+AbsentA(third,smrtisamprajanya)
+AbsentA(fourth,upeksasmrtipurification)
 
-**Absence of purification and absence of a factor.**
-The first account specifies the fourth's missing
-purification; the second specifies missing equanimity.
-The former statement alone does not settle whether
-unpurified equanimity remains. Avoid filling that gap
-by inference and then presenting it as an explicit
-claim of the Bhāṣya.
+# THEORY other_account — [verse] kecit; [prose] kuśala-class explanation
+ReportedTheory(accountb)
+AbsentB(first,pliancy)
+AbsentB(second,pliancy)
+AbsentB(third,equanimity)
+AbsentB(fourth,equanimity)
+```
 
-**The attribution reaches backward.** After the first
-four explanations, `evaṃ tāvat kecid āhuḥ` says that
-some speak in this way. `Kecit punaḥ` then introduces
-others. Vasubandhu frames and reports the discussion,
-but the first list should not be presented as his
-unqualified personal verdict against the second.
+**Results (NLTK).** The checker confirms each attributed theory separately against the supplied finite data. This is model satisfaction, not a proof that the accounts are equivalent or mutually contradictory.
 
-**No revised universal factor total.** The eighteen
-named roles and eleven distinct dharmas of the preceding
-verses answer inventory questions. This verse tests
-specified factors against defiled attainment. It supplies
-neither a new universal total nor a license to subtract
-every mentioned absence from each dhyāna alike.
+**Scope cautions.** A denies separation-born joy/pleasure, clarity, clear comprehension with mindfulness, and the fourth's purification; it does not negate all joy or all mindfulness in defiled states. B is the `kecit` alternative. Missing purification alone does not settle whether unpurified equanimity remains; neither list warrants a universal subtraction from every factor inventory.
 
 ## 9. Interpretive Note
 

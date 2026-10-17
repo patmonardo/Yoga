@@ -160,75 +160,57 @@ not a claim of simultaneous entry into three immeasurables.
 
 ## 8. Logical Determination
 
-**The level accounts remain attributed.**
+Sympathetic joy belongs to the first two dhyānas; the other three immeasurables receive attributed six-, five-, and ten-level accounts. The verse denies that these immeasurables themselves effect abandonment, restricts their generation to humans, and says their attainer is endowed with three. `[verse]`; counts and scope are `[prose]`.
 
-| Account | Range of friendliness, compassion, and equanimity |
-|---|---|
-| Six-level account | Anāgamya, intermediate dhyāna, four dhyānas |
-| Some authorities: five | The same range with anāgamya excluded |
-| Other authorities: ten | Broader reckoning including the desire domain and access stages, collected/uncollected and principal/preparatory forms |
+**Signature.** `OnLevel(x,l)`; `SixLevel(l)`; `FiveLevel(l)`; `SixAccount(g,l)` and `FiveAccount(g,l)` (attributed scopes); `Immeasurable(x)`; `NoAbandonment(x)`; `GeneratedOnlyHuman(x)`; `AttainerOfFour(a)`; `EndowedWithThree(a)`.
 
-The tenfold account is not obtained by simply
-adding every one of the eight access stages
-to the sixfold list. The source changes the
-scope of what is counted. Its compressed inclusion
-statement is preserved without inventing a new
-explicit ten-item list.
+```nltk-valuation
+joy => joy
+otherThree => otherThree
+attainerOne => attainerOne
+friendliness => friendliness
+compassion => compassion
+equanimity => equanimity
+firstDhyana => firstDhyana
+secondDhyana => secondDhyana
+anagamya => anagamya
+intermediateDhyana => intermediateDhyana
+thirdDhyana => thirdDhyana
+fourthDhyana => fourthDhyana
+OnLevel => {(joy,firstDhyana),(joy,secondDhyana)}
+SixLevel => {anagamya, intermediateDhyana, firstDhyana, secondDhyana, thirdDhyana, fourthDhyana}
+FiveLevel => {intermediateDhyana, firstDhyana, secondDhyana, thirdDhyana, fourthDhyana}
+SixAccount => {(otherThree,anagamya),(otherThree,intermediateDhyana),(otherThree,firstDhyana),(otherThree,secondDhyana),(otherThree,thirdDhyana),(otherThree,fourthDhyana)}
+FiveAccount => {(otherThree,intermediateDhyana),(otherThree,firstDhyana),(otherThree,secondDhyana),(otherThree,thirdDhyana),(otherThree,fourthDhyana)}
+Immeasurable => {friendliness,compassion,joy,equanimity}
+NoAbandonment => {friendliness,compassion,joy,equanimity}
+GeneratedOnlyHuman => {friendliness,compassion,joy,equanimity}
+AttainerOfFour => {attainerOne}
+EndowedWithThree => {attainerOne}
+```
 
-**The counteraction question is answered in stages.**
-The principal immeasurables do not abandon defilements.
-The prose names principal-dhyāna status, resolutive
-attention, and beings as object as reasons. It
-then describes preparatory friendliness and related
-cultivations in the desire domain and anāgamya,
-resembling the principal immeasurables. These suppress
-the tendencies; abandonment paths abandon them.
+```nltk-fol
+# THEORY shared
+# [verse, prose] the level of sympathetic joy
+OnLevel(joy,firstDhyana)
+OnLevel(joy,secondDhyana)
+# [verse] na taiḥ prahāṇam; [prose] suppression is not path-abandonment
+all x.(Immeasurable(x) -> NoAbandonment(x))
+all x.(Immeasurable(x) -> GeneratedOnlyHuman(x))
+all a.(AttainerOfFour(a) -> EndowedWithThree(a))
+# THEORY six_level
+# [prose, attributed account] exactly the reported six-level range
+all l.(SixLevel(l) -> SixAccount(otherThree,l))
+all l.(SixAccount(otherThree,l) -> SixLevel(l))
+# THEORY some_five
+# [prose, some authorities] exactly their reported five-level range
+all l.(FiveLevel(l) -> FiveAccount(otherThree,l))
+all l.(FiveAccount(otherThree,l) -> FiveLevel(l))
+```
 
-After acquisition of the principal immeasurables
-in the dispassionate condition, the practitioner is
-not overcome by those tendencies even when strong
-conditions occur. Thus preparatory suppression, path
-abandonment, and the subsequent protective role are
-not collapsed into one operation.
+**Results (NLTK).** The checker reports `shared: T`, `six_level: T`, and `some_five: T` in the model. The six- and five-level ranges are model-checked as separate attributed sets; the ten-level account is reported without inventing an explicit ten-member list.
 
-**The beginner's friendliness cultivation.** The starting
-resolution extends to beings happiness known in
-oneself or heard of in Buddhas, bodhisattvas,
-and noble disciples. If strong defilement prevents
-that extension, the prose gives a graduated procedure:
-
-1. Begin with strongly liked friends, then moderately and mildly liked friends.
-2. When friendliness is equal across them, extend it to neutral persons.
-3. Begin the hostile class with mild hostility, then moderate and strong hostility.
-4. When the happiness resolve remains as stable as toward the strongest friend, extend it through village, region, direction, and the whole world.
-
-The difficulty-conditioned procedure should not be
-rewritten as the only possible beginning: the
-prose first allows the broader resolution and
-then explains what to do if that is not possible.
-
-**Attention to qualities and the remaining practices.**
-The commentary says that attending to qualities
-supports rapid equal friendliness. It contrasts
-finding qualities even in someone whose wholesome
-roots are severed with finding faults even in
-a pratyekabuddha, invoking earlier wholesome and
-unwholesome results. The point concerns how selective
-attention operates, not equivalence of those persons.
-
-Compassion and sympathetic joy are cultivated analogously,
-with resolutions that beings immersed in suffering
-be released and rejoice. Equanimity instead begins
-with neutral persons. Its different starting point
-must survive a summary of the common training pattern.
-
-**Human generation and threefold possession.** Initial
-production occurs among humans. The higher-rebirth
-example shows why this cannot mean possession is
-restricted forever to human beings. Third- or
-fourth-dhyāna rebirth can lack muditā, while the
-other three remain possessed. The guarantee is
-not exclusive possession of exactly three in every case.
+**Scope cautions.** The ten-level account's compressed inclusion is not reconstructed here. Suppression, path-abandonment, and later protection are distinct. `Tryanvitaḥ` describes an attainer said to be endowed with three; the source's shorthand is not specified further here.
 
 ## 9. Interpretive Note
 

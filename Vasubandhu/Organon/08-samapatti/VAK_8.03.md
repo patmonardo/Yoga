@@ -155,81 +155,53 @@ It introduces no modern chronological measurement.
 
 ## 8. Logical Determination
 
-**The naming rule.**
+Three connected questions remain distinct: which attainments receive the “form-perception gone” name, whether Form is present in the formless domain, and how Form can arise again later [verse; prose]. The Bhāṣya excludes access to infinite space, scopes canonical dependencies, and qualifies renewed arising by a maturation cause.
 
-| State | Form-perception-passed-away designation |
-|---|---|
-| Four principal formless attainments | Included |
-| Access to infinite space | Excluded: fourth dhyāna remains its object |
-| Access to the remaining three formless attainments | Included |
+**Signature.** `Principal(x)` (principal formless attainment); `NamedAccess(x)` (eligible access attainment); `NameGone(x)` (form-perception-gone designation); `FormPresent(x)`; `Arises(x,y)`; `ConditionedBy(x,c)`.
 
-**Objection: perhaps form is merely slight.** The interlocutor
-proposes that “formless” could mean very little form.
-The reply asks what this alleged form consists of.
-If only bodily and verbal restraint is proposed, the
-material basis must be accounted for. The analogy to
-uncontaminated restraint is answered by its existing
-material support, rather than accepted as support-free
-materiality.
+**Finite data.** The principal four and latter three access stages receive the designation; the first access stage does not. Present absence and later genesis are separate relations.
 
-If a body and material faculties are proposed, the
-criterion for “slight” becomes problematic. Small size
-would include tiny creatures; transparency or subtlety
-would also include intermediate-existence and form-realm
-beings. Defining the category by unsurpassed subtlety
-would threaten to leave only the highest existence
-as genuinely formless. The reply tests the proposed
-criterion's scope rather than relying on the name alone.
-
-**Objection: canonical dependence requires form.** The
-opponent invokes life with heat, the mutual support
-of name and form, name-and-form conditioned by consciousness,
-and the denial of consciousness proceeding apart from
-the other Bases. Vasubandhu asks what each statement
-quantifies over: which domains, whether all consciousness,
-and whether absence of all supports or of any single
-Base is intended.
-
-Unrestricted readings would wrongly extend life-dependence
-to external heat, mental dependence to all external form,
-and gross-food requirements to the higher domains.
-The reply therefore does not reject the cited statements;
-it rejects extending their scope without control.
-
-**Positive scriptural grounds.** The text adduces statements
-of escape from form and of beings beyond form-perception.
-The proposal that only gross lower form is excluded
-is challenged: dhyānas too leave lower grounds behind,
-while formless states specifically transcend the form
-class. Feeling and the other nonmaterial classes remain.
-
-The Base enumerations provide a final comparison:
-dhyāna descriptions begin with material form and continue
-through consciousness; the formless description begins
-with feeling. The omission is used as evidence within
-the source's doctrinal argument, not as an independent
-physical observation.
-
-**Renewed form after formless existence.**
-
-```text
-During formless existence:
-    Material form absent
-    Citta continues
-
-Renewed form:
-    Arises from citta qualified by the relevant maturation cause
-    When its causal functioning becomes available
+```nltk-valuation
+space => space
+consciousness => consciousness
+nothingness => nothingness
+neither => neither
+accessspace => accessspace
+accessconsciousness => accessconsciousness
+accessnothingness => accessnothingness
+accessneither => accessneither
+formlessdomain => formlessdomain
+returningmind => returningmind
+form => form
+maturation => maturation
+Principal => {space, consciousness, nothingness, neither}
+NamedAccess => {accessconsciousness, accessnothingness, accessneither}
+NameGone => {space, consciousness, nothingness, neither, accessconsciousness, accessnothingness, accessneither}
+FormPresent => {}
+Arises => {(returningmind,form)}
+ConditionedBy => {(returningmind,maturation)}
 ```
 
-The final objection appeals to ordinary experience:
-how can mind exist without form when this is not observed
-here? The response challenges that universal inference
-by comparison with form-realm existence without gross
-food, likewise not exemplified in the ordinary domain.
-This is an argument about the limits of extrapolation
-within the cosmological account, not present-day empirical
-verification of disembodied consciousness.
+**Rules and answer (verse and prose).**
+
+```nltk-fol
+# THEORY shared
+# [verse] vibhūtarūpasaṃjñākhyāḥ; [prose] the four principal attainments
+all x.(Principal(x) -> NameGone(x))
+# [prose] the latter three access attainments
+all x.(NamedAccess(x) -> NameGone(x))
+# [verse] nārūpye rūpasadbhāvaḥ: present constitution
+-FormPresent(formlessdomain)
+# [verse] cittataḥ; [prose] maturation-conditioned, later arising
+Arises(returningmind,form)
+ConditionedBy(returningmind,maturation)
+# [prose] access to infinite space retains the fourth-dhyāna object
+-NameGone(accessspace)
+```
+
+**Results (NLTK).** `check_logic.py` reports the shared theory true in this finite valuation; this checks model satisfaction, not a proof of the cosmological claim or a contradiction proof against the objector.
+
+**Scope cautions.** The objection about slight Form and the canonical-dependence debate are not universalized into rules: the prose tests their quantifier scope. Absence now does not imply impossibility of later genesis, and the latter does not imply hidden Form now. The account does not say citta creates Form at will or that a practitioner's body disappears during attainment.
 
 ## 9. Interpretive Note
 

@@ -138,64 +138,53 @@ nature assigned to compassion in this passage.
 
 ## 8. Logical Determination
 
-**The four counteractive relations.**
+Four immeasurables are distinguished by counteractive relation; friendliness and compassion share non-hatred as nature, while sympathetic joy is gladness. The Bhāṣya attributes two different impurity/equanimity comparisons, retaining the Vaibhāṣika account separately from the expositor's preferred account. `[verse]` / `[prose]`.
 
-| Immeasurable | Corresponding tendency counteracted |
-|---|---|
-| Friendliness | Ill will |
-| Compassion | Harmfulness |
-| Sympathetic joy | Discontent |
-| Equanimity | Predominance of sensual desire and ill will |
+**Signature.** `Immeasurable(x)`; `Counters(x,t)`; `Nature(x,n)`; `VBCounters(x,t)` (Vaibhāṣika report); `PreferredCounters(x,t)` (preferred explanation).
 
-The fourth entry includes a pair. Its presence
-does not change the number of immeasurables to
-five or turn the list into a one-word-per-factor
-scheme that drops one of the stated tendencies.
+```nltk-valuation
+friendliness => friendliness
+compassion => compassion
+joy => joy
+equanimity => equanimity
+illWill => illWill
+harmfulness => harmfulness
+discontent => discontent
+desireAndIllWill => desireAndIllWill
+nonHatred => nonHatred
+gladness => gladness
+impurityPractice => impurityPractice
+equanimityPractice => equanimityPractice
+appearanceAttachment => appearanceAttachment
+sexualDesire => sexualDesire
+kinAttachment => kinAttachment
+Immeasurable => {friendliness, compassion, joy, equanimity}
+Counters => {(friendliness,illWill),(compassion,harmfulness),(joy,discontent),(equanimity,desireAndIllWill)}
+Nature => {(friendliness,nonHatred),(compassion,nonHatred),(joy,gladness)}
+VBCounters => {(impurityPractice,appearanceAttachment),(equanimityPractice,sexualDesire)}
+PreferredCounters => {(impurityPractice,sexualDesire),(equanimityPractice,kinAttachment)}
+```
 
-**The nature assignments stated here.**
+```nltk-fol
+# THEORY shared
+# [verse, prose] the ordered counterworks and mental natures
+all x.(Immeasurable(x) -> exists t.Counters(x,t))
+Nature(friendliness,nonHatred)
+Nature(compassion,nonHatred)
+Nature(joy,gladness)
+# THEORY vaibhasika
+# [prose, Vaibhāṣika account] impurity contemplation / equanimity
+VBCounters(impurityPractice,appearanceAttachment)
+VBCounters(equanimityPractice,sexualDesire)
+# THEORY preferred
+# [prose, expositor: "this is fitting"] alternative pairing
+PreferredCounters(impurityPractice,sexualDesire)
+PreferredCounters(equanimityPractice,kinAttachment)
+```
 
-| Immeasurable | Mental nature |
-|---|---|
-| Friendliness | Non-hatred |
-| Compassion | Non-hatred likewise |
-| Sympathetic joy | Gladness |
-| Equanimity | Continued in VAK 8.30 |
+**Results (NLTK).** The checker reports `shared: T`, `vaibhasika: T`, and `preferred: T` in the finite model. These are speaker-attributed relations in separate theories; the check does not decide between them or test their union as an exclusive doctrine.
 
-The first two share a nature while differing
-in their counteractive relation. Their detailed
-intentional forms should be read from the next
-source unit rather than invented from the shared
-factor alone.
-
-**Why compare impurity contemplation and equanimity?**
-Both are described as counteracting sensual desire.
-The prose therefore asks how their functions differ.
-It records two answers with distinct attribution.
-
-| Account | Impurity contemplation counters | Equanimity counters |
-|---|---|---|
-| Vaibhāṣika account | Attachment to visible appearance or color | Sexual desire |
-| Preferred account introduced by “this is fitting” | Sexual desire | Attachment to mother, father, child, and kin |
-
-The second formulation is the expositor's preferred
-determination, not the named Vaibhāṣika position.
-The study preserves both rather than combining
-their columns into one unattributed doctrine.
-
-**Familial attachment is not synonymous with care.**
-The second explanation names rāga toward family
-relations. It does not instruct abandonment of
-kindness, responsibility, or compassion toward relatives.
-That distinction is particularly necessary in an
-account where friendliness and compassion are positive
-members of the same group.
-
-**Counteraction remains source-scoped.** The prose
-speaks of cultivation for abandonment of the
-specified tendencies. The exact sense and limits
-of the immeasurables' antidotal work require the
-continuing discussion. No general final-liberation claim
-is added to this opening inventory.
+**Scope cautions.** The fourth counteractive relation is described more fully in 8.30. The preferred kin-attachment account is not a rejection of care for relatives. These rules do not claim irreversible abandonment of all defilements by each immeasurable.
 
 ## 9. Interpretive Note
 

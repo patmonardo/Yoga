@@ -48,10 +48,9 @@ The first succession applies at attainment-time; cyutau introduces the separate 
 % start S
 # tokens: kliṣṭāt ∅-utpadyete svaṃ śuddhakaṃ kliṣṭam evaṃ cādharaśuddhakam cyutau tu śuddhakāt ∅-utpadyate kliṣṭaṃ sarvaṃ kliṣṭāt tu nottaram ∅-utpadyate
 S -> CL[K=attainment_time] CL[K=death_pure] CL[K=death_defiled]
-CL[K=attainment_time] -> PREP[CASE=abl] V[PERS=3,NUM=du,TENSE=pres,VOICE=mid,SUPPLIED=prose] ADJ[CASE=nom,NUM=?n,GEN=?g,LEVEL=same] N[CASE=nom,NUM=?n,GEN=?g,MODE=pure] N[CASE=nom,NUM=?n,GEN=?g,MODE=defiled] ADV[ANAPH=likewise] ADJ[CASE=nom,NUM=sg,GEN=n,LEVEL=lower,MODE=pure]
+CL[K=attainment_time] -> PREP[CASE=abl,MODE=defiled] V[PERS=3,NUM=du,TENSE=pres,VOICE=mid,SUPPLIED=prose] ADJ[CASE=nom,NUM=?n,GEN=?g,LEVEL=same] N[CASE=nom,NUM=?n,GEN=?g,MODE=pure] N[CASE=nom,NUM=?n,GEN=?g,MODE=defiled] ADV[ANAPH=likewise] ADJ[CASE=nom,NUM=sg,GEN=n,LEVEL=lower,MODE=pure]
 CL[K=death_pure] -> LOC[CASE=loc,EVENT=death] PTCL[CONTRAST=yes] PREP[CASE=abl,MODE=pure] V[PERS=3,NUM=sg,TENSE=pres,VOICE=mid,SUPPLIED=prose] N[CASE=nom,NUM=?n,GEN=?g,MODE=defiled] ADJ[CASE=nom,NUM=?n,GEN=?g,DOMAIN=all_levels]
 CL[K=death_defiled] -> PREP[CASE=abl,MODE=defiled] PTCL[CONTRAST=yes] ADJ[CASE=nom,NUM=sg,GEN=n,DOMAIN=not_higher] V[PERS=3,NUM=sg,TENSE=pres,VOICE=mid,SUPPLIED=prose]
-PREP[CASE=abl] -> 'kliṣṭāt'
 V[PERS=3,NUM=du,TENSE=pres,VOICE=mid,SUPPLIED=prose] -> '∅-utpadyete'
 ADJ[CASE=nom,NUM=sg,GEN=n,LEVEL=same] -> 'svaṃ'
 N[CASE=nom,NUM=sg,GEN=n,MODE=pure] -> 'śuddhakaṃ'
@@ -157,65 +156,48 @@ later transition in the commentary's explanation.
 
 ## 8. Logical Determination
 
-**Attainment-time successors of a defiled predecessor.**
+The first half concerns attainment-time transitions; `cyutau` switches to death-time. The Bhāṣya restricts the death-time pure predecessor to one acquired through rebirth. Provenance: `[verse]`, `[prose]`.
 
-| Successor mode | Level relation | Status in this passage |
-|---|---|---|
-| Pure | Same | Permitted |
-| Defiled | Same | Permitted |
-| Pure | Lower | Permitted, with prior-resolve explanation |
-| Uncontaminated | Any | Immediate succession excluded |
+**Signature.** `SessionPureFollow/2`, `SessionDefiledFollow/2`, `DeathDefiledFollow/2`—permitted successor by context; `Pure/1`, `Defiled/1`—attainment mode; `RebirthPure/1`—pure predecessor acquired through rebirth; `SameLevel/2`, `LowerLevel/2`, `HigherLevel/2`—successor-level relation.
 
-The prose also restates that a defiled successor
-after either a pure or defiled predecessor during
-attainment belongs to the same level, not another.
-The lower exception concerns a pure successor.
+**Finite cases.** The relations distinguish temporal context and level range; they do not represent simultaneous successors.
 
-**The objection concerns immediacy.** If the practitioner
-first discriminates or delimits the defiled condition
-and then turns downward, the move would proceed
-from a wholesome state, not immediately from the
-defiled one. If that discrimination does not occur,
-how does the transition take place? The objection
-must remain visible: it is not merely advice to
-interrupt defilement and then choose another attainment.
+```nltk-valuation
+sessionStain => sessionStain
+sessionPure => sessionPure
+deathPure => deathPure
+deathStain => deathStain
+sessionLowerPure => sessionLowerPure
+deathLowerStain => deathLowerStain
+higherStain => higherStain
+sameLevel => sameLevel
+lowerLevel => lowerLevel
+higherLevel => higherLevel
+Defiled => {sessionStain,deathStain,deathLowerStain,higherStain}
+Pure => {sessionPure,sessionLowerPure,deathPure}
+RebirthPure => {deathPure}
+SameLevel => {(sessionStain,sessionStain),(sessionStain,sessionPure),(deathStain,deathStain)}
+LowerLevel => {(sessionStain,sessionLowerPure),(deathStain,deathLowerStain)}
+HigherLevel => {(deathStain,higherStain)}
+SessionPureFollow => {(sessionStain,sessionPure),(sessionStain,sessionLowerPure)}
+SessionDefiledFollow => {(sessionStain,sessionStain)}
+DeathDefiledFollow => {(deathPure,sessionStain),(deathPure,deathStain),(deathPure,deathLowerStain),(deathPure,higherStain),(deathStain,deathStain),(deathStain,deathLowerStain)}
+```
 
-**The answer invokes an earlier resolve.** Previously,
-the practitioner has preferred a lower pure attainment
-to a higher defiled one. The stream follows that
-prior intention. The commentary compares this to
-someone who resolves before sleeping to awaken at
-a particular time and then awakens as intended.
-This is an explanatory analogy, not a guarantee
-that every resolve unfailingly produces its object.
+```nltk-fol
+# THEORY shared
+# [verse, prose] at attainment-time: same-level defiled, same- or lower-level pure
+all p.all s.((SessionDefiledFollow(p,s) & Defiled(p) & Defiled(s)) -> SameLevel(p,s))
+all p.all s.((SessionPureFollow(p,s) & Defiled(p) & Pure(s)) -> (SameLevel(p,s) | LowerLevel(p,s)))
+# [verse, prose] at death, the rebirth-acquired pure predecessor permits defiled at any level
+all p.all s.((RebirthPure(p) & Defiled(s)) -> DeathDefiledFollow(p,s))
+# [verse] a defiled death-time predecessor does not lead to a higher defiled successor
+all p.all s.((Defiled(p) & Defiled(s) & HigherLevel(p,s)) -> -DeathDefiledFollow(p,s))
+```
 
-**The two temporal relations.** The defiled attainment
-is the immediate predecessor; the previously formed
-resolve supplies the explanation of the subsequent
-lower-pure transition. A new intervening wholesome
-act of discrimination would change which predecessor
-is immediate. The Bhāṣya answers that difficulty
-without abandoning the immediate-succession claim.
+**Results (NLTK).** `Model.satisfy` checks the session and death-time rules separately against the listed cases, including the higher-level exclusion for a defiled death-time predecessor.
 
-**Death-time defiled successors.**
-
-| Predecessor at death | Possible level of defiled successor |
-|---|---|
-| Pure, acquired through rebirth | Any level, as a general range |
-| Defiled dhyāna or ārūpya | Same or lower level; not higher |
-
-This table expresses permissions and exclusions. It
-does not say a person can choose any rebirth at
-will, or give an exhaustive account of all conditions
-determining rebirth. The source specifies the level-range
-of the defiled successor in the stated cases.
-
-**Immediate exclusion has a precise scope.** The prose
-emphatically excludes uncontaminated attainment immediately
-after a defiled attainment. That does not mean a
-person who has had a defiled attainment can never
-subsequently attain an uncontaminated one through
-an intervening sequence.
+**Scope cautions.** `Sarvam` is modeled as a range of possible levels, not every state at once. The prior resolve explains the lower-pure session transition but is not made an immediate causal link. The death-time row does not cover decline or ordinary meditation-session endings.
 
 ## 9. Interpretive Note
 

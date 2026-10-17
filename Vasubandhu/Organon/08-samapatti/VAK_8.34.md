@@ -153,55 +153,42 @@ for cultivating releases and related qualities.
 
 ## 8. Logical Determination
 
-**Object assignments and their scope.**
+The verse classifies the object-fields of the first three releases and the formless four; the Bhāṣya supplies the list's additional limits. `[verse]` marks the two groups; `[prose]` marks the expanded fields and the space exception.
 
-| Release group | Objects specified |
-|---|---|
-| First three | Desire-domain visible form, unpleasant or pleasant as appropriate |
-| Formless releases | Own-/higher-level suffering, its cause and cessation |
-| Formless releases | All anvayajñāna-side path |
-| Additional prose specification | Non-analytical cessation; space for one release |
+**Signature.** `FirstThree(g)`, `FormlessFour(g)`, `Includes(g,f)`, and `SpaceForOne(g)` describe object-fields at group level; these are not claims that every individual release takes every listed item at once.
 
-This is not an unrestricted all-object rule.
-The additional unconditioned objects also prevent
-reducing the account to a bare list of
-conditioned truth-fields.
+```nltk-fol
+# THEORY shared
+# [verse] prathamāḥ / ye ... te: form-related and formless groups
+FirstThree(formgroup)
+FormlessFour(formlessgroup)
+all g.(FirstThree(g) -> Includes(g,visible))
+# [prose] own- and higher-level truths, the anvaya-side Path, and additions
+all g.(FormlessFour(g) -> (Includes(g,ownhigher) & Includes(g,causefield) & Includes(g,cessationfield) & Includes(g,anvayapath) & Includes(g,nonanalytical)))
+SpaceForOne(formlessgroup)
+```
 
-**Why no corresponding release in third dhyāna?**
-The prose gives absence of second-dhyāna-level attachment
-to color/appearance and disturbance through the
-third's refined pleasure. This explains the distribution
-of the form-related releases. It does not
-say that third dhyāna is unwholesome or incapable
-of every kind of liberative operation.
+**Finite object-field valuation.** `SpaceForOne` deliberately does not assign space to all four or name the one release.
 
-**Two reasons to cultivate the beautiful release.**
-It can brighten the continuum made sunken by
-unattractive contemplation. Alternatively, it tests the
-accomplishment of the first two releases: if
-even attending under the beautiful aspect produces
-no affliction, they are accomplished in the
-sense described. The source's alternatives should
-not be rewritten as two invariably consecutive steps.
+```nltk-valuation
+formgroup => formgroup
+formlessgroup => formlessgroup
+visible => visible
+ownhigher => ownhigher
+causefield => causefield
+cessationfield => cessationfield
+anvayapath => anvayapath
+nonanalytical => nonanalytical
+spacefield => spacefield
+FirstThree => {formgroup}
+FormlessFour => {formlessgroup}
+Includes => {(formgroup,visible),(formlessgroup,ownhigher),(formlessgroup,causefield),(formlessgroup,cessationfield),(formlessgroup,anvayapath),(formlessgroup,nonanalytical)}
+SpaceForOne => {formlessgroup}
+```
 
-**General purposes and further qualities.** The text
-names distancing defilements and mastery over attainment.
-It also connects the practice with bringing forth
-qualities such as non-conflict and noble supernormal
-power. The latter is illustrated through transformation
-of objects, determination, relinquishment of lifespan,
-and related operations. These remain reported doctrinal
-examples, not practical instructions or a new
-list of independently verified abilities.
+**Results (NLTK).** The session checker loaded the FOL and valuation; the shared theory is true in this finite model. No prover entailment was tested.
 
-**Why direct realization is emphasized for the third and eighth.**
-The commentary asks why these two receive the
-explicit realization formula. It answers through
-their prominence and terminal positions in the
-domain/level sequence. The wording does not assert
-that the other releases are unreal or never
-personally realized. Nor should the eighth, cessation,
-be turned into a new formless object-taking level.
+**Scope cautions.** The source says *anvayajñāna* qualifies the Path; it is not generalized to every object. The added space item belongs to one unspecified release. The Bhāṣya's beautiful-object test for mastery is not converted into a universal immunity rule.
 
 ## 9. Interpretive Note
 

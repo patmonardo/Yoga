@@ -141,60 +141,53 @@ factor or prescribe an order of operations among them.
 
 ## 8. Logical Determination
 
-**The two inventories.**
+This verse gives two level-indexed factor lists: a five-member first-dhyāna list and a four-member second-dhyāna list [verse; prose]. The Bhāṣya resolves the compressed pairs and restricts “the three beginning with joy” to the preceding triad.
 
-| Named factor | First dhyāna | Second dhyāna |
-|---|:---:|:---:|
-| Vitarka | Counted | Not counted |
-| Vicāra | Counted | Not counted |
-| Prīti | Counted | Counted |
-| Sukha | Counted | Counted |
-| Samādhi / one-pointedness | Counted | Counted |
-| Inward clarity | Not separately counted | Counted |
-| Total factors | 5 | 4 |
+**Signature.** `FactorOf(level,factor)`; `Count(level,n)`; `Dhyana(level)`; `SameRole(x,y)` (synonym or interpretive equivalence stated in prose).
 
-Vitarka and vicāra are absent from the second dhyāna
-under the preceding progression and the present explicit
-list. The inward-clarity row concerns selection as a
-factor; non-selection in the first list does not alone
-establish absence of its underlying dharma there.
+**Finite data.** The roster represents named factors, not every associated dharma; counts are tallied from the roster and reported by name.
 
-**The relation of samādhi to dhyāna.** The prose says
-samādhi is both a factor and dhyāna, while the remaining
-items are factors. VAK 8.01 has already distinguished
-samādhi as defining nature from the accompanied attainment.
-The army analogy helps articulate the multiple-factor
-constitution without making the fivefold list five
-independent dhyānas.
-
-```text
-Defining determination:
-    Samadhi
-
-First-dhyana factor inventory:
-    Vitarka, Vicara, Priti, Sukha, Samadhi
-
-Accompanied attainment:
-    Named through this five-factor constitution
+```nltk-valuation
+first => first
+second => second
+vitarka => vitarka
+vicara => vicara
+priti => priti
+sukha => sukha
+samadhi => samadhi
+clarity => clarity
+five => five
+four => four
+Dhyana => {first, second}
+FactorOf => {(first,vitarka),(first,vicara),(first,priti),(first,sukha),(first,samadhi),(second,priti),(second,sukha),(second,samadhi),(second,clarity)}
+Count => {(first,five),(second,four)}
+SameRole => {(samadhi,onepointedness),(clarity,adhyatmasamprasad)}
+onepointedness => onepointedness
+adhyatmasamprasad => adhyatmasamprasad
 ```
 
-The distinction is not that samādhi is unrelated to
-the whole, nor that every other factor disappears
-into samādhi as a synonym. The passage explicitly
-preserves both the common defining role and the counted
-factor role.
+**Rules (verse and prose).**
 
-**Comparison with VAK 8.02.** That verse selected the
-progressive exclusions while wholesome one-pointedness
-remained understood. This verse supplies the first two
-complete named aṅga lists, including inward clarity
-in the second. It therefore adds positive classificatory
-detail beyond the earlier abbreviated subtraction scheme.
+```nltk-fol
+# THEORY shared
+# [verse] pañca ādye; [prose] vitarka and vicāra resolve tarkacārau
+Count(first,five)
+FactorOf(first,vitarka)
+FactorOf(first,vicara)
+# [verse] prīti-ādi; [prose] the already named triad, plus prasāda
+FactorOf(second,priti)
+FactorOf(second,sukha)
+FactorOf(second,samadhi)
+FactorOf(second,clarity)
+# [prose] samādhi = one-pointedness; prasāda = inward clarity
+SameRole(samadhi,onepointedness)
+SameRole(clarity,adhyatmasamprasad)
+Count(second,four)
+```
 
-The two lists do not by themselves constitute a complete
-practice algorithm for moving from first to second
-dhyāna. Enumeration, constitution, and acquisition procedure
-remain different questions.
+**Results (NLTK).** The checker confirms the roster and count facts in the finite model. It does not derive cardinalities from first-order membership; the five and four are checked as source-reported tallies.
+
+**Scope cautions.** The second list does not count vitarka or vicāra, but omission from an aṅga list alone is not an assertion that every underlying dharma is absent. Samādhi is both a counted factor and the dhyāna's defining nature. The army comparison is not a process rule.
 
 ## 9. Interpretive Note
 

@@ -178,58 +178,45 @@ level, object, and technical mode.
 
 ## 8. Logical Determination
 
-**The ten members and their assignments.**
+The verse and Bhāṣya classify ten totalities by number, nature, level, and object-field. The first eight share non-greed, fourth-dhyāna location, and the desire-domain visible field; the final two are pure formless attainments with their own-level four Bases as field. `[verse]` / `[prose]`.
 
-| Members | Nature and level | Object assignment |
-|---|---|---|
-| Earth, water, fire, wind | Non-greed; fourth dhyāna only | Desire-domain visible form in the principal account |
-| Blue, yellow, red, white | Non-greed; fourth dhyāna only | Desire-domain visible form |
-| Infinite-space totality | Pure formless attainment of the infinite-space level | Four Bases of its own level |
-| Infinite-knowledge totality | Pure formless attainment of the infinite-knowledge level | Four Bases of its own level |
-| Wind, according to some | Alternative object account | Tangible field |
+**Signature.** `Totality(x)`, `FirstEight(x)`, `LastTwo(x)`, `Nongreed(x)`, `FourthDhyana(x)`, `VisibleField(x)`, `PureFormless(x)`, and `OwnLevelFourBases(x)`.
 
-The final row records a view about one
-member, not an eleventh totality. The attribution
-ity eke, “so some,” prevents treating that
-view as the unqualified principal assignment.
+```nltk-fol
+# THEORY shared
+# [prose] the first eight; kāmāḥ is resolved as visible-form Essence
+all x.(FirstEight(x) -> (Nongreed(x) & FourthDhyana(x) & VisibleField(x)))
+# [verse] dve śuddhākārūpye; [prose] each has its own-level four Bases as field
+all x.(LastTwo(x) -> (PureFormless(x) & OwnLevelFourBases(x)))
+all x.(Totality(x) -> (FirstEight(x) | LastTwo(x)))
+```
 
-**Completeness has an object-relative sense.** The
-name's explanation specifies pervasion. The tenfold
-list still differentiates earth from blue and
-the form-related totalities from the formless pair.
-Complete pervasion does not erase these distinctions.
+**Finite classification valuation.** The ten named members are data; the universal rules encode only the two class-level descriptions.
 
-**Attainment-level is not object-level.** The first
-eight belong to fourth dhyāna while taking
-desire-domain visible objects. For the last two,
-the object rule is explicitly own-level. A
-single “same-level objects throughout” rule would
-contradict the first assignment.
+```nltk-valuation
+earth => earth
+water => water
+fire => fire
+wind => wind
+blue => blue
+yellow => yellow
+red => red
+white => white
+spacetotality => spacetotality
+knowledgetotality => knowledgetotality
+Totality => {earth,water,fire,wind,blue,yellow,red,white,spacetotality,knowledgetotality}
+FirstEight => {earth,water,fire,wind,blue,yellow,red,white}
+LastTwo => {spacetotality,knowledgetotality}
+Nongreed => {earth,water,fire,wind,blue,yellow,red,white}
+FourthDhyana => {earth,water,fire,wind,blue,yellow,red,white}
+VisibleField => {earth,water,fire,wind,blue,yellow,red,white}
+PureFormless => {spacetotality,knowledgetotality}
+OwnLevelFourBases => {spacetotality,knowledgetotality}
+```
 
-**The entry relation needs a controlled rendering.**
-The running source reads vimokṣaprāveśikāny abhibhvāyatanāni
-and abhibhvāyatanaprāveśikāni kṛtsnāyatanāni, followed by
-uttarottaraviśiṣṭatvāt. It thus relates Essences of mastery
-to releases and totalities to Essences of mastery,
-explicitly invoking the superiority of each subsequent
-group. The local research varies in how
-it paraphrases the direction of “entry.”
+**Results (NLTK).** The checker reports every shared rule true in the finite ten-member model. This is a model check, not a proof that no other totalities are possible.
 
-The progression release → mastery → totality is
-retained here as the graded order of exposition
-and increasing distinction. The compressed prāveśika
-compounds alone are not used to establish a
-mandatory acquisition sequence for every practitioner.
-Their exact directional English remains a review point.
-
-**Bearer range and the cessation exception.** The
-closing prose applies to all these practices
-beginning with releases: they may belong to
-ordinary or noble continuities, except for cessation-release.
-It does not say that an ordinary person
-necessarily possesses all the practices. Cessation-release
-is an exception within the wider release complex,
-not a member of the ten totalities.
+**Scope cautions.** The prose's *eke* assignment of a tangible field to wind is an attributed alternative, not included in the shared classification. “Pure” is not equated with uncontaminated; the four own-level Bases are object-field, not an assertion of omniscience.
 
 ## 9. Interpretive Note
 

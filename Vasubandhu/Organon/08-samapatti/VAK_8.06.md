@@ -143,59 +143,45 @@ worldly wholesome attainment.
 
 ## 8. Logical Determination
 
-**Definitions of the three modes.**
+The verse defines three modes of attainment and distinguishes the pure attainment that is savored from the craving-associated attainment that savors it [verse; prose]. The relation is temporal and intentional, not an identity of modes.
 
-| Mode | Determination supplied here |
-|---|---|
-| Savoring-associated | Accompanied by craving; craving is the savoring |
-| Pure | Worldly wholesome, conjoined with non-greed and other pure dharmas |
-| Uncontaminated | Supramundane |
+**Signature.** `Savoring(x)`; `Craving(x)`; `Worldly(x)`; `Wholesome(x)`; `Pure(x)`; `ImmediatelyPast(x,y)`; `SavoredBy(x,y)`; `Supramundane(x)`; `Uncontaminated(x)`.
 
-The eight-level distribution of VAK 8.05 remains in
-force. The three definitions do not introduce an
-uncontaminated form of the eighth attainment, which
-the preceding verse expressly excluded.
+**Finite data.** The two occurrences are modeled separately; the pure occurrence is worldly and wholesome, and the third mode is supramundane and uncontaminated.
 
-**The temporal and object relation.**
-
-```text
-A: Pure attainment
-    worldly and wholesome
-    immediately past when B occurs
-
-B: Savoring-associated attainment
-    accompanied by craving
-    takes A as what is savored
-
-Practitioner:
-    emerged from A
-    entered into B
+```nltk-valuation
+savoringnow => savoringnow
+purepast => purepast
+uncontaminatedattainment => uncontaminatedattainment
+Savoring => {savoringnow}
+Craving => {savoringnow}
+Worldly => {purepast}
+Wholesome => {purepast}
+Pure => {purepast}
+ImmediatelyPast => {(purepast,savoringnow)}
+SavoredBy => {(purepast,savoringnow)}
+Supramundane => {uncontaminatedattainment}
+Uncontaminated => {uncontaminatedattainment}
 ```
 
-The sequence specifies a change of mode and a relation
-of object to cognition. It is not a statement that
-one occurrence remains pure and becomes craving-associated
-in the same respect at the same time.
+**Rules (verse and prose).**
 
-Nor does the passage say every pure attainment must
-be followed by savoring. It answers what the savoring-
-associated mode savors when that relation occurs.
-A described succession is not a universal prediction
-of relapse after wholesome meditation.
+```nltk-fol
+# THEORY shared
+# [prose] tṛṣṇā hy āsvādanā
+all x.(Savoring(x) -> Craving(x))
+# [verse] laukikaṃ śubham śuddhakam; [prose] alobha and other pure dharmas
+all x.(Pure(x) -> (Worldly(x) & Wholesome(x)))
+# [verse] tattadāsvādyam; [prose] the immediately past pure item is the object
+SavoredBy(purepast,savoringnow)
+ImmediatelyPast(purepast,savoringnow)
+# [verse] lokottaram anāsravam
+all x.(Supramundane(x) -> Uncontaminated(x))
+```
 
-**Pure does not mean uncontaminated.** The middle mode's
-worldly character is explicit, as is its wholesomeness.
-Those two predicates coexist. The distinction does
-not downgrade it to an unwholesome state or make
-craving its defining feature merely because it can
-subsequently be savored.
+**Results (NLTK).** The checker reports the shared rules true in the supplied finite model. This is a model check of the represented assignments, not a theorem that every pure attainment is subsequently savored.
 
-**Different uses of attainment and emergence.** The
-source's phrasing permits one attainment to have been
-left while another is presently entered. A model that
-records only “in meditation” would miss the change;
-a model that treats every emergence as nonmeditation
-would also misrepresent the account.
+**Scope cautions.** `tat` is the pure object and the savoring-associated occurrence is the agent. Emergence from the former and entry into the latter do not say that every practitioner's course follows this sequence. Pure is not synonymous with uncontaminated, and joy in wholesome dhyāna is not thereby craving.
 
 ## 9. Interpretive Note
 

@@ -168,67 +168,59 @@ in the next study.
 
 ## 8. Logical Determination
 
-**Count, mode, and feeling.**
+The verse counts one access attainment for each principal attainment and gives the principal account of its mode and feeling. The Bhāṣya attributes a competing savoring-associated first-access view to `kecit`; keep it separate. Provenance: `[verse]`, `[prose]`, `[kecit]`.
 
-| Determination | Principal account |
-|---|---|
-| Number of access attainments | Eight, one for each principal attainment |
-| Feeling | Neutral-feeling faculty |
-| General mode | Pure |
-| Additional mode of first access | Uncontaminated |
-| Collected savoring-associated access | Excluded in this account |
+**Signature.** `Access/1(a)`, `Principal/1(p)`—access and principal attainment; `ForAccess/2(a,p)`—a corresponds to p; `Pure/1(a)`, `Uncontaminated/1(a)`, `Savoring/1(a)`—mode; `NeutralFeeling/1(a)`—feeling faculty; `IntermediateDhyana/1(a)`—intermediate dhyāna; `Vitarka/1(a)`—vitarka is present.
 
-The first-access qualification prevents “all access
-is pure” from becoming an axiom that excludes
-the uncontaminated first access. Modes are alternatives,
-not an assertion that one occurrence is simultaneously
-contaminated-pure and uncontaminated.
+**Dataset.** Eight access-to-principal pairs; the listed first access is also uncontaminated. Neutral feeling is not ethical neutrality.
 
-**The alternative account.** Some authorities allow
-savoring association in anāgamya. Its three modes
-are therefore savoring-associated, pure, and uncontaminated.
-The prose does not extend this alternative indiscriminately
-to all eight access attainments or assign it as
-the principal account's unqualified conclusion.
+```nltk-valuation
+firstAccess => firstAccess
+secondAccess => secondAccess
+thirdAccess => thirdAccess
+fourthAccess => fourthAccess
+spaceAccess => spaceAccess
+consciousnessAccess => consciousnessAccess
+nothingnessAccess => nothingnessAccess
+summitAccess => summitAccess
+firstPrincipal => firstPrincipal
+secondPrincipal => secondPrincipal
+thirdPrincipal => thirdPrincipal
+fourthPrincipal => fourthPrincipal
+spacePrincipal => spacePrincipal
+consciousnessPrincipal => consciousnessPrincipal
+nothingnessPrincipal => nothingnessPrincipal
+summitPrincipal => summitPrincipal
+intermediateDhyana => intermediateDhyana
+Access => {firstAccess,secondAccess,thirdAccess,fourthAccess,spaceAccess,consciousnessAccess,nothingnessAccess,summitAccess}
+Principal => {firstPrincipal,secondPrincipal,thirdPrincipal,fourthPrincipal,spacePrincipal,consciousnessPrincipal,nothingnessPrincipal,summitPrincipal}
+ForAccess => {(firstAccess,firstPrincipal),(secondAccess,secondPrincipal),(thirdAccess,thirdPrincipal),(fourthAccess,fourthPrincipal),(spaceAccess,spacePrincipal),(consciousnessAccess,consciousnessPrincipal),(nothingnessAccess,nothingnessPrincipal),(summitAccess,summitPrincipal)}
+Pure => {firstAccess,secondAccess,thirdAccess,fourthAccess,spaceAccess,consciousnessAccess,nothingnessAccess,summitAccess}
+NeutralFeeling => {firstAccess,secondAccess,thirdAccess,fourthAccess,spaceAccess,consciousnessAccess,nothingnessAccess,summitAccess}
+Uncontaminated => {firstAccess}
+Savoring => {}
+IntermediateDhyana => {intermediateDhyana}
+Vitarka => {}
+```
 
-**The functional explanation and its textual limit.**
-The prose associates the access classification with
-continuing disturbance or concern regarding the lower
-level and with being a path of dispassion. Its
-first causal expression, `yantabāhyatvāt`, is damaged
-or uncertain in this witness. No precise theory
-of effort or boundary-location is constructed from
-that expression here. The explicit dispassion-path
-reason securely supports the exclusion of savoring
-in the stated account.
+```nltk-fol
+# THEORY principal
+# [verse, prose] eight accesses, each corresponding to a principal attainment
+all a.(Access(a) -> exists p.(Principal(p) & ForAccess(a,p)))
+# [verse, prose] principal account: pure and associated with neutral feeling
+all a.(Access(a) -> (Pure(a) & NeutralFeeling(a) & -Savoring(a)))
+# [verse, prose] first access is also uncontaminated; intermediate dhyāna lacks vitarka
+Uncontaminated(firstAccess)
+all a.(IntermediateDhyana(a) -> -Vitarka(a))
 
-**Rebirth-linking does not settle meditation mode.**
-The commentary acknowledges defiled rebirth-linking through
-an access-level mind while denying defiledness of
-the collected state. This is a distinction between
-functions of the relevant mind, not a contradiction
-to be removed by deleting either statement.
+# THEORY kecit
+# [prose, kecit] some authorities add savoring at anāgamya
+Savoring(firstAccess)
+```
 
-**Access and intermediate dhyāna.**
+**Results (NLTK).** The principal theory satisfies the displayed finite model; the `kecit` claim satisfies a separate finite model with `Savoring(firstAccess)` added. `ResolutionProver` proves the union contradictory when `Access(firstAccess)` is included.
 
-| Term | Determination supplied |
-|---|---|
-| Sāmantaka | A path of dispassion, enabling entry |
-| Dhyānāntara | A particular dhyāna without vitarka |
-
-The prose adds that a corresponding distinction is
-not established in the second and subsequent dhyānas,
-because the relevant distinguishing feature is absent.
-Absence of vitarka there does not establish an
-additional intermediate variety in each higher dhyāna.
-
-**Two occurrences of threefold belong to different claims.**
-Here “some say threefold” concerns the first access
-attainment. The following verse calls intermediate
-dhyāna threefold. Neither should be confused with
-the later three samādhis classified by vitarka and
-vicāra. The object of classification must accompany
-the numeral.
+**Scope cautions.** “Threefold” is the reported alternative for first access, not the three modes of intermediate dhyāna in 8.23. The intermediate-dhyāna statement opens a distinct topic. Neutral feeling does not imply ethical indeterminacy, and rebirth-linking mind is not modeled as the collected access attainment.
 
 ## 9. Interpretive Note
 

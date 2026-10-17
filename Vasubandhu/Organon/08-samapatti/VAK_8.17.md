@@ -158,57 +158,40 @@ uncontaminated attainment native to the summit.
 
 ## 8. Logical Determination
 
-**The explicit mapping.**
+The verse classifies pure attainment by four orientations; the Bhāṣya supplies all four names and maps each to what it favors. “Conducive” is not an assertion that the outcome must occur. Provenance: `[verse]`, `[prose]`.
 
-| Pure subtype | Prose determination | What must remain distinct |
-|---|---|---|
-| Hānabhāgīya | Conducive to arising of defilements | Present pure mode and later defilement |
-| Sthitibhāgīya | Conducive to its own level | Stability and permanence |
-| Viśeṣabhāgīya | Conducive to a higher level | Higher conditioned level and uncontaminated mode |
-| Nirvedhabhāgīya | Conducive to the uncontaminated | Pure precursor and uncontaminated successor |
+**Signature.** `PureType/1(t)`—pure subtype; `Orientation/1(o)`—favorable outcome category; `Favors/2(t,o)`—subtype t is conducive to o; `PresentAtSummit/1(t)`—subtype occurs at bhavāgra.
 
-The table follows the individual prose definitions,
-not the differing order of its introductory enumeration.
+**Composition.** No compositional paraphrase is needed: the verse asserts a four-member classification and an ordered correspondence, represented as a finite relation.
 
-**The preceding general rule is refined.** VAK 8.15
-allowed uncontaminated successors within the general
-wholesome-successor account after a pure attainment.
-The present opening explicitly denies that such a
-successor arises after every pure attainment. The
-pure subtype is therefore a necessary further determination
-of that general account.
+```nltk-valuation
+hanaType => hanaType
+stabilityType => stabilityType
+distinctionType => distinctionType
+penetrationType => penetrationType
+defilementRise => defilementRise
+ownLevel => ownLevel
+higherLevel => higherLevel
+uncontaminated => uncontaminated
+summit => summit
+PureType => {hanaType,stabilityType,distinctionType,penetrationType}
+Orientation => {defilementRise,ownLevel,higherLevel,uncontaminated}
+Favors => {(hanaType,defilementRise),(stabilityType,ownLevel),(distinctionType,higherLevel),(penetrationType,uncontaminated)}
+PresentAtSummit => {}
+```
 
-**From that means from the penetration-conducive type.**
-The final prose statement follows the definition
-of nirvedhabhāgīya and identifies it as the pure
-condition from which uncontaminated attainment arises.
-It does not identify all four types as equivalent
-precursors merely because all four are pure.
+```nltk-fol
+# THEORY shared
+# [verse] fourfold pure classification and the ordered favorable outcomes [prose]
+all t.(PureType(t) -> exists o.(Orientation(o) & Favors(t,o)))
+all t.all o.((PureType(t) & Favors(t,o)) -> Orientation(o))
+# [prose] bhavāgra lacks the higher-level-oriented subtype
+-PresentAtSummit(distinctionType)
+```
 
-**The summit exception removes only one type.**
-The Bhāṣya says bhavāgra is threefold except for
-viśeṣabhāgīya. Its higher-level orientation has no
-higher conditioned level as destination. The other
-three remain, including nirvedhabhāgīya. Retaining this
-type does not conflict with the absence of uncontaminated
-bhavāgra: favoring an uncontaminated successor is not
-asserting that successor belongs to the same level.
-This unit does not further specify that successor's level.
+**Results (NLTK).** `Model.satisfy` checks the two relational rules against the four listed type–orientation pairs. The last line records the Bhāṣya's summit restriction, not an inference that the type is already defiled.
 
-**Orientation and successor enumeration are different questions.**
-The next question asks how many of these four
-pure types follow each type immediately. The answers
-belong to VAK 8.18. Thus “conducive to decline”
-cannot be converted here into “only defilement can
-follow,” nor “conducive to its own level” into a
-complete list of every permitted successor.
-
-**No mandatory four-stage itinerary.** The ordered
-mapping organizes four types. It does not instruct
-that every practitioner must pass through them in
-the sequence decline, stability, advancement, penetration.
-Yathākramam controls the correspondence, not a required
-biographical sequence.
+**Scope cautions.** The opening enumeration order in the Bhāṣya differs from its functional mapping; the latter controls this relation. The verse does not assert that an orientation inevitably produces its favored outcome, nor that the summit has an uncontaminated attainment of its own. Actual successor membership is treated separately in VAK 8.18.
 
 ## 9. Interpretive Note
 

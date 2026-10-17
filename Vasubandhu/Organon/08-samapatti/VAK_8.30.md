@@ -158,59 +158,66 @@ reference to the field containing them.
 
 ## 8. Logical Determination
 
-**Mental nature and contemplative form.**
+The verse and Bhāṣya distinguish mental nature, contemplative form, and object-field. Three forms concern desire-domain beings—two wishes and a lament—while equanimity attends simply to beings. The prose's replies to the apparent-error objection remain alternatives, not a single factual assertion about present happiness. `[verse]` / `[prose]`.
 
-| Immeasurable | Contemplative form in the prose |
-|---|---|
-| Friendliness | May beings be happy |
-| Compassion | Alas, beings suffer |
-| Sympathetic joy | May beings rejoice |
-| Equanimity | Beings, attended to impartially |
+**Signature.** `Form(m,f)`; `Field(m,o)`; `Nature(m,n)`; `RefinedNature(m,n1,n2)`; `HappyWish(m,o)`; `HappyNow(o)`; `RejoiceWish(m,o)`; `ResolveReading(m)`; `WholesomeRoot(m)`; `CountersIllWill(m)`.
 
-These are not four additional feelings. They
-specify the manner of attending to beings. The
-mental-nature assignments of VAK 8.29 and the
-opening of this verse answer a different question.
+```nltk-valuation
+friendliness => friendliness
+compassion => compassion
+joy => joy
+equanimity => equanimity
+desireBeings => desireBeings
+happyForm => happyForm
+sufferingForm => sufferingForm
+rejoiceForm => rejoiceForm
+beingsForm => beingsForm
+nonGreed => nonGreed
+nonHatred => nonHatred
+Form => {(friendliness,happyForm),(compassion,sufferingForm),(joy,rejoiceForm),(equanimity,beingsForm)}
+Field => {(friendliness,desireBeings),(compassion,desireBeings),(joy,desireBeings),(equanimity,desireBeings)}
+HappyWish => {(friendliness,desireBeings)}
+RejoiceWish => {(joy,desireBeings)}
+HappyNow => {}
+Nature => {(equanimity,nonGreed)}
+RefinedNature => {(equanimity,nonGreed,nonHatred)}
+ResolveReading => {friendliness}
+WholesomeRoot => {friendliness}
+CountersIllWill => {friendliness}
+```
 
-**The equanimity refinement.** The objection asks
-how non-greed opposes ill will. The first reply
-connects ill will with greed. The ensuing
-`ubhayasvabhāvā tv asau yujyate` favors the
-combined non-greed/non-hatred account. The study
-preserves the verse assignment, explanation, and
-preferred refinement as distinguishable steps.
+```nltk-fol
+# THEORY shared
+# [verse, prose] the four forms and their assignments
+Form(friendliness,happyForm)
+Form(compassion,sufferingForm)
+Form(joy,rejoiceForm)
+Form(equanimity,beingsForm)
+# [verse] equanimity is alobha; [prose] a combined nature is preferred
+Nature(equanimity,nonGreed)
+all m.(Form(m,happyForm) -> Field(m,desireBeings))
+all m.(Form(m,sufferingForm) -> Field(m,desireBeings))
+all m.(Form(m,rejoiceForm) -> Field(m,desireBeings))
+all m.(Form(m,beingsForm) -> Field(m,desireBeings))
+# THEORY aspirational
+# [prose] santu supplies the wished-happiness construal
+HappyWish(friendliness,desireBeings)
+RejoiceWish(joy,desireBeings)
+# THEORY resolve_reply
+# [prose, alternative] construe the wish as resolve rather than false report
+ResolveReading(friendliness)
+# THEORY conditional_reply
+# [prose, conditional defense] wholesomely rooted cultivation counters ill will
+WholesomeRoot(friendliness)
+CountersIllWill(friendliness)
+# THEORY preferred_nature
+# [prose, "this is fitting"] refine the verse's alobha as combined with adveṣa
+RefinedNature(equanimity,nonGreed,nonHatred)
+```
 
-**The apparent-error objection.** If beings do not
-possess happiness, how is resolving upon their
-happiness not erroneous? The commentary offers
-several replies rather than a single undifferentiated answer:
+**Results (NLTK).** The checker reports `shared: T`, `aspirational: T`, `resolve_reply: T`, `conditional_reply: T`, and `preferred_nature: T`. The supplied model satisfies these theories while `HappyNow(desireBeings)` is false, a finite countermodel to inferring present happiness from the wish.
 
-- The intention is “may they be,” making the formula aspirational.
-- Alternatively, the disposition is not erroneous, with the cognition understood as resolve.
-- Even granting the proposed divergence, unwholesomeness does not follow here: the cultivation has wholesome roots and counteracts ill will and related tendencies.
-
-The final reply is a conditional defense against
-the charge of unwholesomeness, not a declaration
-that every imagined state accurately describes the world.
-
-**The object restriction is compatible with immeasurability.**
-VAK 8.29 explains immeasurable through immeasurable
-beings as objects. This verse identifies those
-beings as desire-domain beings. Unbounded numerical
-scope does not require abolishing the stated
-category of objects.
-
-**Direction denotes the beings in it.** The
-prose explains the scriptural direction formula
-through container and contained. Its spatial wording
-does not make empty space or the world-container
-itself the primary object in place of beings.
-
-**The next question concerns levels.** The following
-sentence asks on how many levels these immeasurables
-occur. Those assignments belong to VAK 8.31;
-they must not be inferred from the desire-domain
-restriction on their objects.
+**Scope cautions.** The absent `HappyNow` fact is a countermodel device, not a claim that beings are unhappy. The source also offers resolve-based and conditional wholesome-root replies; no reply licenses arbitrary false descriptions. “Beings” is equanimity's form, and the field is not the practitioner's level.
 
 ## 9. Interpretive Note
 

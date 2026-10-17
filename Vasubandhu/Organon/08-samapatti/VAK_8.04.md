@@ -146,61 +146,54 @@ attainment's defining nature.
 
 ## 8. Logical Determination
 
-**The first three names.**
+The naming explanation is not a uniform object rule: the first three names track corresponding modes of attention, while the fourth is explained by perception's attenuated condition [verse; prose]. The Bhāṣya rejects exclusive-object entailment and keeps attenuation distinct from total absence.
 
-| Attainment designation | Corresponding application reported in prose |
-|---|---|
-| Infinity of space | “Space is infinite” |
-| Infinity of consciousness | “Consciousness is infinite” |
-| Nothingness | “There is nothing” |
+**Signature.** `NamedAs(x,n)`; `AppliedAs(x,m)`; `Perception(x)`; `Attenuated(x)`; `Sharp(x)`; `PerceptionAbsent(x)`.
 
-The opening question contains the restrictive `eva`:
-are the named things alone their objects? Its rejection
-blocks an inference from the title to an exclusive
-object-range. It does not supply a complete alternative
-object table or deny the relevance of those named fields
-to the respective preparations.
+**Finite data.** The formulas of attention are recorded as the respective applications reported in the prose; they are not an exhaustive inventory of possible objects.
 
-**The fourth name.**
-
-```text
-Saṃjñā in the fourth formless attainment:
-    Not sharp or strongly operative
-    Not wholly absent
-
-Naming explanation:
-    Attenuated perception
-    → neither-perception-nor-non-perception
+```nltk-valuation
+spaceattainment => spaceattainment
+consciousnessattainment => consciousnessattainment
+nothingattainment => nothingattainment
+fourthatta => fourthatta
+space => space
+consciousness => consciousness
+nothing => nothing
+spaceformula => spaceformula
+consciousnessformula => consciousnessformula
+nothingformula => nothingformula
+perception => perception
+NamedAs => {(spaceattainment,space),(consciousnessattainment,consciousness),(nothingattainment,nothing),(fourthatta,neither)}
+AppliedAs => {(spaceattainment,spaceformula),(consciousnessattainment,consciousnessformula),(nothingattainment,nothingformula)}
+Perception => {fourthatta}
+Attenuated => {fourthatta}
+Sharp => {}
+PerceptionAbsent => {}
 ```
 
-This is not the attainment of cessation. The explanation
-explicitly retains perception, and no statement here
-eliminates the other nonmaterial Bases.
+**Rules (verse and prose).**
 
-**Why preparation alone is not the final explanation.**
-The prose acknowledges that practitioners also prepare
-for the fourth by regarding perception as disease,
-swelling, and thorn, non-perception as delusion, and
-the fourth attainment as peaceful and excellent.
-It then asks why they grasp that attainment in this
-way. The answer returns to the weakness of perception.
+```nltk-fol
+# THEORY shared
+# [prose] anantam ākāśam: corresponding first application
+AppliedAs(spaceattainment,spaceformula)
+NamedAs(spaceattainment,space)
+# [prose] anantaṃ vijñānam; nāsti kiñcit: corresponding applications
+AppliedAs(consciousnessattainment,consciousnessformula)
+NamedAs(consciousnessattainment,consciousness)
+AppliedAs(nothingattainment,nothingformula)
+NamedAs(nothingattainment,nothing)
+# [verse] māndyāt; [prose] perception remains, but is not sharp
+Perception(fourthatta)
+Attenuated(fourthatta)
+- Sharp(fourthatta)
+- PerceptionAbsent(fourthatta)
+```
 
-Thus the passage does not merely substitute one slogan
-for another. It grounds the valuation in a specified
-condition of saṃjñā. Nor does it claim that the name
-is generated without any mode of attention or practice.
+**Results (NLTK).** The checker parses the rules and finds the shared theory true against this finite valuation. This records the source's stated naming grounds; it does not infer an object restriction from a name.
 
-**Two naming grounds, not two unrelated series.**
-
-| Group | Explanation foregrounded here | Inference to avoid |
-|---|---|---|
-| First three | Respective preparatory applications | Name exhausts the possible objects |
-| Fourth | Attenuation of perception | Perception is entirely absent |
-
-The preceding progression through release from lower
-grounds remains applicable. This verse answers how
-the states are named; it does not repeal their earlier
-acquisition sequence or Base constitution.
+**Scope cautions.** “There is nothing” reports the third mode of attention, not a universal denial that anything exists. The fourth is not cessation: perception remains, though not sharp. Preparatory valuations about perception as disease or non-perception as delusion are acknowledged in the Bhāṣya but are not its final naming ground.
 
 ## 9. Interpretive Note
 

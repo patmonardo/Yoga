@@ -146,64 +146,45 @@ same direct-object rule from the first two.
 
 ## 8. Logical Determination
 
-**The first triad under two modes.**
+The verse distinguishes mode from designation: the three earlier samādhis can be worldly-pure or uncontaminated, while the liberation-gate name belongs to the uncontaminated forms. It also names a further triad without yet fixing its full object relation. `[verse]`; the mode gloss and gate restriction are `[prose]`.
 
-| Samādhi | Worldly-pure form | Uncontaminated form |
-|---|---|---|
-| Emptiness | Available in the worldly classification | Emptiness gate of liberation |
-| Non-directed | Available in the worldly classification | Non-directed gate of liberation |
-| Signless | Available in the worldly classification | Signless gate of liberation |
+**Signature.** `Triad(x)`; `WorldlyPure(x)`; `Uncontaminated(x)`; `Gate(x)`; `Further(x)`; `Named(x,n)`.
 
-The table adds modal status to the aspect partition
-of VAK 8.24; it does not change its four,
-two, and ten aspect counts.
+```nltk-valuation
+signlessWorld => signlessWorld
+emptinessWorld => emptinessWorld
+nondirectedWorld => nondirectedWorld
+signlessPure => signlessPure
+emptinessPure => emptinessPure
+nondirectedPure => nondirectedPure
+emptyOfEmpty => emptyOfEmpty
+nonDirectedOfNonDirected => nonDirectedOfNonDirected
+signlessOfSignless => signlessOfSignless
+signless => signless
+emptiness => emptiness
+nondirected => nondirected
+Triad => {signlessWorld, emptinessWorld, nondirectedWorld, signlessPure, emptinessPure, nondirectedPure}
+WorldlyPure => {signlessWorld, emptinessWorld, nondirectedWorld}
+Uncontaminated => {signlessPure, emptinessPure, nondirectedPure}
+Gate => {signlessPure, emptinessPure, nondirectedPure}
+Further => {emptyOfEmpty, nonDirectedOfNonDirected, signlessOfSignless}
+Named => {(emptyOfEmpty,emptiness),(nonDirectedOfNonDirected,nondirected),(signlessOfSignless,signless)}
+```
 
-**The level statements retain their stated scope.**
-The prose gives eleven levels for worldly forms
-and “where the path is” for supramundane forms.
-It does not enumerate those levels in this unit.
-The study preserves that formulation without inventing
-an additional level list or treating it as a
-claim that every particular knowledge occurs on every level.
+```nltk-fol
+# THEORY shared
+# [verse] two modes; [prose] śuddha/amala distinguished as worldly-pure/uncontaminated
+all x.(Triad(x) -> (WorldlyPure(x) | Uncontaminated(x)))
+# [verse] nirmalās tu te; [prose] the gate designation is restricted to uncontaminated forms
+all x.(Gate(x) -> Uncontaminated(x))
+all x.(Uncontaminated(x) -> Gate(x))
+# [verse] three names, filled out as the further triad by the prose
+all x.(Further(x) -> exists n.Named(x,n))
+```
 
-**The gate relation is qualified.** The source calls
-the uncontaminated forms the three gates because
-they are doors of liberation. This does not
-make worldly cultivation purposeless; it restricts
-a technical designation. Nor does merely using
-one of the three names establish that an occurrence
-is uncontaminated.
+**Results (NLTK).** `check_logic.py` reports `shared: T` against the finite valuation. It checks these mode/gate and naming rules; no prover entailment or contradiction test is claimed.
 
-**The further triad's names and object explanation.**
-
-| Further name | Naming relation introduced here |
-|---|---|
-| Emptiness-of-emptiness | Related to emptiness samādhi as object |
-| Non-directedness-of-non-directedness | Corresponding non-directed case |
-| Signlessness-of-signlessness | Corresponding signless case, with further object qualification |
-
-The prose's `śūnyatādyālambanatvāt tannāma` introduces
-the object-based naming. The next question immediately
-asks for the fuller determination. The names therefore
-provide an introduction, not a complete uniform
-formula for the objects of all three.
-
-**Why the third case must remain qualified.** VAK 8.26
-specifies that the first two take an adept's
-corresponding samādhi as object, while the third
-takes the non-analytical cessation associated with
-an adept's signless samādhi. This forward check
-prevents the current study from asserting that
-all three directly observe a preceding samādhi
-in exactly the same way. The detailed analysis
-belongs to that next unit.
-
-**Further does not establish simultaneity or mandatory sequence.**
-The naming relation does not assert that one
-moment of samādhi necessarily apprehends itself,
-or that every practitioner must undergo these
-three further states immediately after the first
-triad. Such claims require additional source support.
+**Scope cautions.** Worldly-pure and uncontaminated are distinct modes; the model's separate individuals are not a claim that one occurrence instantiates both. The doubled names introduce the next discussion but do not establish three identical self-observation relations or a mandatory sequence.
 
 ## 9. Interpretive Note
 

@@ -169,57 +169,43 @@ not a six-member sensory inventory.
 
 ## 8. Logical Determination
 
-**The summit exception.**
+The verse states the summit exception, then moves from support to object-range: craving-associated attainments take their own level's existence as object, while wholesome dhyāna ranges over what exists. Provenance: `[verse]`, `[prose]`.
 
-| Determination | Source specification |
-|---|---|
-| Rebirth-support | Summit of existence |
-| Attainment made present | Uncontaminated Essence of nothingness |
-| Result | Destruction of the outflows |
-| Explanation | Absence of an uncontaminated attainment of its own level; cultivation of the lower one |
+**Signature.** `UpperBorn/1(p)`—p is reborn at bhavāgra; `MakesPresent/2(p,a)`—p brings a into operation; `NobleNothingness/1(a)`—noble nothingness attainment; `DestroysOutflows/1(p)`—outflows are destroyed for p; `CravingAssociated/1(a)`—a is savoring-associated; `OwnLevelExistenceObject/1(a)`—a takes own-level existence as object; `WholesomeDhyana/1(a)`—wholesome dhyāna; `Vastu/1(x)`—what exists; `ObjectOf/2(a,x)`—x is an object of a.
 
-This supplies the relevant purpose that the preceding
-general discussion denied to lower attainment for
-a higher-born support. It preserves the absence of
-uncontaminated bhavāgra rather than inventing that mode.
+```nltk-fol
+# THEORY shared
+# [prose] exception at bhavāgra: cultivated noble nothingness is made present
+all p.all a.((UpperBorn(p) & MakesPresent(p,a) & NobleNothingness(a)) -> DestroysOutflows(p))
+# [verse, prose] satṛṣṇa attainments take their own-level contaminated existence
+all a.(CravingAssociated(a) -> OwnLevelExistenceObject(a))
+# [verse, prose] sadviṣayam = whatever exists, conditioned or unconditioned
+all a.all x.((WholesomeDhyana(a) & Vastu(x)) -> ObjectOf(a,x))
+```
 
-**Craving-associated object limits and their reasons.**
+**Finite model.** `Vastu` is the range class in the last formula, not a claim of simultaneous apprehension.
 
-| Object category | Status | Reason supplied |
-|---|---|---|
-| Own-level contaminated objects | Taken as objects | Positive definition of the range |
-| Lower-level objects | Excluded | Dispassion toward the lower |
-| Higher-level objects | Excluded | Levels are delimited by craving |
-| Uncontaminated objects | Excluded | This would entail wholesomeness |
+```nltk-valuation
+upperBorn => upperBorn
+nobleNothingness => nobleNothingness
+cravingAttainment => cravingAttainment
+wholesomeDhyana => wholesomeDhyana
+conditionedThing => conditionedThing
+unconditionedThing => unconditionedThing
+UpperBorn => {upperBorn}
+MakesPresent => {(upperBorn,nobleNothingness)}
+NobleNothingness => {nobleNothingness}
+DestroysOutflows => {upperBorn}
+CravingAssociated => {cravingAttainment}
+OwnLevelExistenceObject => {cravingAttainment}
+WholesomeDhyana => {wholesomeDhyana}
+Vastu => {conditionedThing,unconditionedThing}
+ObjectOf => {(wholesomeDhyana,conditionedThing),(wholesomeDhyana,unconditionedThing)}
+```
 
-These are the local reasons for this attainment
-mode. They are not universal claims that no defiled
-mental event can ever be concerned with any wholesome
-thing. The study keeps the scope at craving-associated
-samāpatti as specified in the passage.
+**Results (NLTK).** The shared rules are checked against the finite model. The object-range formula is restricted to members of `Vastu`; it is not an assertion that dhyāna attends every fact at once.
 
-**Wholesome dhyāna includes two modes.** The object
-rule encompasses pure and uncontaminated dhyāna. Pure
-continues to mean wholesome but contaminated, not
-identical with uncontaminated. The running prose's
-śubhakam appears where the local exposition identifies
-the pure member; the established distinction and
-its pairing with anāsrava control the reading.
-
-**Object range is not omniscience.** Sarvālambana gives
-the range of objects available to wholesome dhyāna
-as a class. It does not say that every particular
-attainment occurrence takes all conditioned and unconditioned
-dharmas together, or that every practitioner thereby
-knows every fact. Nor does it erase distinctions
-among particular knowledge forms and their objects.
-
-**Dhyāna and ārūpya must remain distinguished.** The
-initial object question concerns both, but the final
-answer here names wholesome dhyāna. VAK 8.21 immediately
-restricts the objects of principal wholesome formless
-attainments. Generalizing the final clause to every
-wholesome samāpatti would obscure that next determination.
+**Scope cautions.** The noble nothingness is cultivated uncontaminated attainment made present at the summit, not a native uncontaminated summit attainment. `sadviṣayam` is retained; the withdrawn six-object reading is not encoded. Wholesome formless attainments are not included in the all-object clause.
 
 ## 9. Interpretive Note
 

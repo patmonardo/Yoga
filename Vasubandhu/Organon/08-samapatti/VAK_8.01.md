@@ -189,7 +189,11 @@ all x.(SamapattiDhyana(x) -> exists c.(Kusala(c) & Ekagra(c) & Constitutes(c,x))
 ```
 
 **Facts (extension of the Dataset).** The table of questions becomes a
-`Valuation`: rows in a frame, one relation per column.
+`Valuation`: rows in a frame, one relation per column. The model is a witness
+for `shared` plus the `vaibhāṣika` theory: one attainment-dhyāna `att1`, its
+one-pointed wholesome mind `mind1`, and a distinct weak factor `sam1`. It
+makes the `apare` rule false (`mind1` is a `Citta` and `Ekagra` but not
+`Samadhi`), which is the dispute seen from the Dataset side.
 
 ```nltk-valuation
 first => first
@@ -198,9 +202,31 @@ third => third
 fourth => fourth
 birth => birth
 attainment => attainment
-Dhyana => {first, second, third, fourth}
-Respect => {(first, birth), (first, attainment), (second, birth), (second, attainment), (third, birth), (third, attainment), (fourth, birth), (fourth, attainment)}
-Developed => {(attainment,)}
+dhyana => dhyana
+att1 => att1
+mind1 => mind1
+sam1 => sam1
+ret1 => ret1
+Dhyana => {first, second, third, fourth, att1}
+Respect => {(first, birth), (first, attainment), (second, birth), (second, attainment), (third, birth), (third, attainment), (fourth, birth), (fourth, attainment), (att1, birth), (att1, attainment)}
+SamapattiDhyana => {att1}
+Kusala => {mind1}
+Ekagra => {mind1}
+Constitutes => {(mind1, att1)}
+Retinue => {(ret1, att1)}
+FiveBases => {ret1}
+Citta => {mind1}
+Samadhi => {sam1}
+Factor => {sam1}
+By => {(mind1, sam1)}
+Occurs => {(sam1, mind1)}
+Weak => {sam1}
+Developed => {attainment}
+Named => {(sam1, dhyana)}
+Excellent => {sam1}
+Yoked => {sam1}
+Afflicted => {}
+Resembles => {}
 ```
 
 **Rules (verse and prose).**

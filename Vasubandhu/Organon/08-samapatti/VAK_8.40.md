@@ -168,52 +168,49 @@ formal proof procedure in this closing verse.
 
 ## 8. Logical Determination
 
-**Three relations in the authorial statement.**
+The verse separates predominant method, the author's responsibility for what is badly grasped, and the sages' authority concerning true-Dharma guidance. Its `yat … tat` clause is represented as a conditional, not as an unrestricted confession. `[verse]`; the identity of sages is specified in `[prose]`.
 
-| Relation | What the passage states |
-|---|---|
-| Predominant interpretive method | Kāśmīra Vaibhāṣika nīti |
-| Responsibility for misunderstanding | The expositor's own fault |
-| Authority concerning the true Dharma | Sages, glossed as Buddhas and Buddha-sons |
+**Signature.** `Exposition(x)`, `UsesMethod(x,m)`, `Predominantly(x,m)`, `MisgraspedHere(x)`, `AuthorFault(x)`, and `AuthorityFor(a,d)`.
 
-These relations cannot be collapsed into the
-identity of school method, exposition, and authority.
-Equally, their distinction does not imply that
-the school method is wholly erroneous or
-that the exposition has no doctrinal value.
+**Composition (`yat … tat`).** The relative-correlative contributes conditional mapping from the class of badly grasped items to the author's-fault class.
 
-**Qualification is not repudiation.** “For the most
-part” leaves room for positions not simply
-attributed to the named school. It does
-not by itself furnish an inventory of
-those exceptions. Individual disagreements must remain controlled
-by their own passages and attributed voices.
+```nltk-sem
+# relative-correlative composition
+ yat : \P.\Q.all x.(P(x)->Q(x))
+ durgrihita : \x.MisgraspedHere(x)
+ asmadaga : \x.AuthorFault(x)
+# beta-reduced clause
+all x.(MisgraspedHere(x)->AuthorFault(x))
+```
 
-**Responsibility is conditional and general.** Whatever
-has been badly grasped is the author's
-fault. This is not a list of
-retractions. The verse neither identifies every difficult
-passage as an error nor exempts the
-expositor from correction because a method was followed.
+```nltk-valuation
+abhidharma => abhidharma
+author => author
+kashmira => kashmira
+itemone => itemone
+sages => sages
+truedharma => truedharma
+Exposition => {abhidharma}
+UsesMethod => {(abhidharma,kashmira)}
+Predominantly => {(abhidharma,kashmira)}
+MisgraspedHere => {itemone}
+AuthorFault => {itemone}
+AuthorityFor => {(sages,truedharma)}
+```
 
-**The authority statement has a specified domain.**
-Saddharmanītau limits the predicate's application to the
-true Dharma's interpretation or guidance. The study
-records this source attribution without turning it
-into an independently demonstrated claim about every
-possible subject matter.
+```nltk-fol
+# THEORY shared
+# [verse] kāśmīravaibhāṣikanīti-siddhaḥ prāyaḥ
+all x.(Exposition(x) -> (UsesMethod(x,kashmira) & Predominantly(x,kashmira)))
+# [verse] yad durgṛhītaṃ tad asmadāgaḥ
+all x.(MisgraspedHere(x) -> AuthorFault(x))
+# [verse] saddharmanītau munayaḥ pramāṇam; [prose] Buddhas and Buddha-sons
+AuthorityFor(sages,truedharma)
+```
 
-**The opening prose question needs caution.** The
-running source prints kimeṣa eva śāstrābhidharmo deśitaḥ.
-The research renders this as a comparison
-with Abhidharma taught in canonical treatises. That
-specific expansion is not securely resolved by
-the compressed printed wording alone. The question
-is therefore retained at the level of
-whether this exposition is the authoritative Abhidharma
-being invoked; its exact construe remains a
-review point. The following answer clearly supplies
-the method, responsibility, and authority distinctions regardless.
+**Results (NLTK).** The checker loaded the lambda expressions and reports the shared theory true in this finite model. No theorem-prover result was run.
+
+**Scope cautions.** `Prāyaḥ` means for the most part, not exclusively. The local witness reads *munayaḥ*; the running witness's *manayaḥ* is disclosed in §1–7, and no resolution is imposed here. The sages' authority is restricted to interpretation of true Dharma; it is not transferred to the Organon.
 
 ## 9. Interpretive Note
 

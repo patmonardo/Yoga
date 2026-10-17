@@ -154,63 +154,45 @@ principal second dhyāna.
 
 ## 8. Logical Determination
 
-**The intermediate attainment's distinct classifications.**
+The verse characterizes intermediate dhyāna and orders samādhis by the presence of vitarka and vicāra. The Bhāṣya interprets `advaya` as absence of that pair, not metaphysical nonduality. Provenance: `[verse]`, `[prose]`.
 
-| Question | Answer in the prose |
-|---|---|
-| What modes? | Savoring-associated, pure, uncontaminated |
-| What feeling? | Neutral-feeling faculty |
-| Is prīti present? | No |
-| Why is prīti absent? | The course involves effort |
-| What mode of progress? | Difficult, for the same reason |
-| What distinctive result? | Mahābrahmā through cultivation |
-| Which member of the factor triad? | No vitarka, vicāra retained |
+**Signature.** `Intermediate/1(x)`—intermediate dhyāna; `ModeOf/2(x,m)`—x has mode m; `NeutralFeeling/1(x)`—associated with neutral feeling; `MahabrahmaResult/1(x)`—has Mahābrahmā as result; `Samadhi/1(x)`—samādhi instance; `Below/1(x)`, `Above/1(x)`—position relative to the intermediate; `Vitarka/1(x)`, `Vicara/1(x)`—presence of the named factor.
 
-Neither the difficult-progress designation nor the
-savoring mode changes neutral feeling into painful
-or pleasant feeling. Mode, vedanā, and manner of
-progress remain separately classified.
+```nltk-valuation
+intermediateDhyana => intermediateDhyana
+savoringMode => savoringMode
+pureMode => pureMode
+uncontaminatedMode => uncontaminatedMode
+lowerSamadhi => lowerSamadhi
+upperSamadhi => upperSamadhi
+Intermediate => {intermediateDhyana}
+ModeOf => {(intermediateDhyana,savoringMode),(intermediateDhyana,pureMode),(intermediateDhyana,uncontaminatedMode)}
+NeutralFeeling => {intermediateDhyana}
+MahabrahmaResult => {intermediateDhyana}
+Samadhi => {lowerSamadhi,intermediateDhyana,upperSamadhi}
+Below => {lowerSamadhi}
+Above => {upperSamadhi}
+Vitarka => {lowerSamadhi}
+Vicara => {lowerSamadhi,intermediateDhyana}
+```
 
-**The sūtra's threefold factor classification.**
+```nltk-fol
+# THEORY shared
+# [verse, prose] the intermediate has three modes, neutral feeling, and Mahābrahmā as result
+ModeOf(intermediateDhyana,savoringMode)
+ModeOf(intermediateDhyana,pureMode)
+ModeOf(intermediateDhyana,uncontaminatedMode)
+NeutralFeeling(intermediateDhyana)
+MahabrahmaResult(intermediateDhyana)
+# [verse, prose] below the intermediate: both factors; at the intermediate: vicāra only; above: neither
+all s.((Samadhi(s) & Below(s)) -> (Vitarka(s) & Vicara(s)))
+all s.((Samadhi(s) & Intermediate(s)) -> (-Vitarka(s) & Vicara(s)))
+all s.((Samadhi(s) & Above(s)) -> (-Vitarka(s) & -Vicara(s)))
+```
 
-| Range | Vitarka | Vicāra |
-|---|---|---|
-| Anāgamya and first dhyāna | Present | Present |
-| Intermediate dhyāna | Absent | Present |
-| Second-dhyāna access through bhavāgra | Absent | Absent |
+**Results (NLTK).** `Model.satisfy` checks the finite vitarka–vicāra model and the listed intermediate-dhyāna properties. The four factors are not treated as a claim that intermediate dhyāna lacks every mental factor.
 
-The commentary attributes the threefold grouping to
-a sūtra and explicitly locates its members. The
-last range includes access stages; the first includes
-anāgamya. A table limited to principal dhyānas would
-omit part of its scope.
-
-**The middle does not contain only one factor.**
-Vicāramātra contrasts with the two-factor pair under
-discussion. The same passage assigns neutral feeling
-and speaks of samādhi. Reading “vicāra alone” as
-an exhaustive inventory of all dharmas would contradict
-that context.
-
-**Three combinations do not establish a fourth.**
-The text gives both present, vicāra without vitarka,
-and neither. It does not posit a fourth samādhi
-with vitarka but no vicāra merely to complete a
-formal two-by-two matrix. The source's classifications
-govern the representation.
-
-**Result must not be distributed indiscriminately across modes.**
-The prose states both the three modes and the
-Mahābrahmā result. It does not specify here a
-separate result rule for each mode. The study
-therefore records the cultivation result without asserting
-that uncontaminated attainment generates cosmological rebirth.
-
-**The next triad asks another question.** After
-completing this classification, the prose introduces
-emptiness, wishlessness, and signlessness samādhis.
-Those are not new names for the three vitarka–vicāra
-configurations. Their determinations begin with VAK 8.24.
+**Scope cautions.** The three modes concern intermediate dhyāna, not the `kecit` first-access view of 8.22. The Mahābrahmā result is a Bhāṣya cultivation claim; the model does not assert that every occurrence or every mode causes that rebirth. Difficult progress and neutral feeling answer different questions.
 
 ## 9. Interpretive Note
 

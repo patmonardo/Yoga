@@ -140,50 +140,46 @@ it is not a separate clause of the kārikā.
 
 ## 8. Logical Determination
 
-**The eightfold inventory.**
+The principal account says the fourth dhyāna is immovable because none of eight specified disturbances occurs there [verse; prose]. A separate `apare` explanation describes inability to be shaken by four factors; the two formulations remain distinct.
 
-| Grouping for study | Members | Count |
-|---|---|---:|
-| Application and examination | Vitarka, vicāra | 2 |
-| Respiratory movements | Śvāsa, praśvāsa | 2 |
-| Four feelings | Sukha, duḥkha, saumanasya, daurmanasya | 4 |
-| Total | All eight absent in the fourth dhyāna | 8 |
+**Signature.** `Disturbance(x)`; `AbsentFrom(level,x)`; `Immovable(level)`; `CannotShake(level,x)`.
 
-The grouping labels are editorial aids. The source
-itself establishes the membership and asserts that
-not even one of these eight is present in the fourth.
+**Finite data.** The eight exclusions are vitarka, vicāra, two breaths, and four feelings. The alternative states a four-member “cannot shake” relation, not a replacement eight-item inventory.
 
-**An exhaustive exclusion within a specified set.**
-The statement is about all eight members of this set.
-It does not say all eight occur in each lower dhyāna,
-or that all eight first cease upon entering the fourth.
-The earlier factor lists already show that vitarka
-and vicāra are absent from the second dhyāna onward.
+```nltk-valuation
+fourth => fourth
+vitarka => vitarka
+vicara => vicara
+inbreath => inbreath
+outbreath => outbreath
+sukha => sukha
+duhkha => duhkha
+saumanasya => saumanasya
+daurmanasya => daurmanasya
+Disturbance => {vitarka, vicara, inbreath, outbreath, sukha, duhkha, saumanasya, daurmanasya}
+AbsentFrom => {(fourth,vitarka),(fourth,vicara),(fourth,inbreath),(fourth,outbreath),(fourth,sukha),(fourth,duhkha),(fourth,saumanasya),(fourth,daurmanasya)}
+Immovable => {fourth}
+CannotShake => {(fourth,vitarka),(fourth,vicara),(fourth,priti),(fourth,sukha)}
+priti => priti
+```
 
-**Feeling continues under a different determination.**
-The closing prose locates saumanasya, expressed by prīti,
-in the first two dhyānas; sukha in the third; and
-upekṣā in the fourth. In this feeling comparison,
-upekṣā is neutral feeling. It must remain distinct
-from the separately counted equanimity factor of the
-fourth-dhyāna inventory. Absence of the four listed
-feelings is therefore not absence of all feeling.
+**Theories (attributed accounts).**
 
-**Two explanations, with different formulations.**
-The principal account states absence of eight disturbances.
-The `ity apare` account states inability to be shaken
-by vitarka, vicāra, prīti, and sukha, with the lamp
-illustration as support. Prīti is related to saumanasya
-by the earlier identification, but the source does
-not present this alternative as a new eight-member
-list or as an explicit rejection of the breaths' absence.
+```nltk-fol
+# THEORY Vasubandhu — [verse] eight absent; [prose] not one remains
+Immovable(fourth)
+all x.(Disturbance(x) -> AbsentFrom(fourth,x))
 
-**Attainment and rebirth remain separate.** The following
-question asks whether the feelings of dhyāna attainment
-are also those of rebirth in the corresponding dhyāna
-worlds. Its negative answer introduces VAK 8.12. The
-present attainment account should not be transferred
-to every experience of beings reborn at that level.
+# THEORY apare — [prose] inability to be shaken by the four named factors
+CannotShake(fourth,vitarka)
+CannotShake(fourth,vicara)
+CannotShake(fourth,priti)
+CannotShake(fourth,sukha)
+```
+
+**Results (NLTK).** The checker confirms both theories in the finite valuation. It checks the stated relations; it does not prove the theories equivalent or that each lower dhyāna contains every listed disturbance.
+
+**Scope cautions.** The eight-item exclusion does not say all eight vanish only upon reaching the fourth. `Prīti` is aligned with saumanasya by the preceding account, but the `apare` list is not explicitly eight items. The claim about breaths is doctrinal, not a breath-control instruction; immovable is not permanent or liberated.
 
 ## 9. Interpretive Note
 

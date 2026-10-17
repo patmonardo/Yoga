@@ -156,55 +156,29 @@ new knowledge-attainment added to the preceding chapters.
 
 ## 8. Logical Determination
 
-**The exhortation's structure.**
+The closing verse links recognition of two conditions—the Sage's teaching at the point of death and a time of strength for the defilements—to an injunction against negligence for liberation-seekers. `[verse]`; no separate Bhāṣya prose follows. The norm is represented as a predicate because ordinary FOL has no deontic operator here.
 
-| Feature | Determination |
-|---|---|
-| First recognized condition | The Sage's teaching is near death |
-| Second recognized condition | Defilements are in their time of strength |
-| Addressee | Those who seek liberation |
-| Obligation | They must not be negligent |
+**Signature.** `LiberationSeeker(x)`, `Knows(x,c)`, `TeachingAtRisk(c)`, `DefilementsStrong(c)`, and `OughtNotNeglect(x)`.
 
-The verse combines a diagnosis with an
-explicit practical demand. The demand is addressed
-to seekers; it does not report that
-all such seekers are already free from heedlessness.
+```nltk-valuation
+seekerone => seekerone
+riskcondition => riskcondition
+LiberationSeeker => {seekerone}
+Knows => {(seekerone,riskcondition)}
+TeachingAtRisk => {riskcondition}
+DefilementsStrong => {riskcondition}
+OughtNotNeglect => {seekerone}
+```
 
-**The metaphor remains short of extinction.** A
-life-breath at the throat expresses extreme precariousness.
-It does not erase the teaching whose
-preservation and practice have just been discussed.
-Translating it as “the teaching is dead”
-would remove the distinction carried by the image.
+```nltk-fol
+# THEORY verse
+# [verse] kaṇṭhagataprāṇaṃ ... viditvā; malānāṃ balakālam
+all x.((LiberationSeeker(x) & Knows(x,riskcondition) & TeachingAtRisk(riskcondition) & DefilementsStrong(riskcondition)) -> OughtNotNeglect(x))
+```
 
-**The injunction is not a complete path definition.**
-The last verse emphasizes non-negligence. It does
-not retract the preceding analyses of cultivation,
-knowledge, or attainment, nor declare those analyses
-sufficient by themselves. The closing obligation is
-read within that articulated study of the path.
+**Results (NLTK).** The checker reports the rule true in the finite model. This verifies model satisfaction only; no deontic theorem prover or entailment check was run.
 
-**Connection with the closing sequence.** VAK 8.39
-identified transmitted and realized forms of the
-true teaching. VAK 8.40 qualified the exposition
-and assigned responsibility for error. VAK 8.41–8.42
-lamented disorder and loss of protective bearers.
-Iti takes up that account and brings
-it to the practical conclusion of 8.43.
-
-The present injunction does not depend on
-settling the disputed gaṇa/gunaghātin reading in 8.42.
-That earlier uncertainty remains open. It should
-not be concealed by treating the whole
-closing sequence as one uniformly certain paraphrase.
-
-**Chapter boundary.** The colophon identifies the completed
-unit as the eighth Kośasthāna, the Samāpattinirdeśa,
-in the Abhidharmakośabhāṣya. The running source then
-opens a ninth Kośasthāna. This study therefore
-marks the end of Chapter 8, not
-the end of every text contained in
-the running source.
+**Scope cautions.** The rule states an obligation, not that a seeker actually avoids negligence or has attained liberation. `Balakāla` supplies no calendar measure. The imperative does not reduce the preceding chapter's attainment taxonomy to the path in its entirety.
 
 ## 9. Interpretive Note
 

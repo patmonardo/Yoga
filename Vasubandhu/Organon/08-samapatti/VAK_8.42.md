@@ -180,50 +180,37 @@ a date supplied by the modern study.
 
 ## 8. Logical Determination
 
-**The sequence represented in the verse.**
+The verse continues the lament: the Self-Arisen and teaching-bearers have departed; the unprotected world is where views roam unchecked. The target of the compound is textually unstable (`gaṇa`/`guṇa`), so the formalization records only claims common to the witness readings. `[verse]`; no separate Bhāṣya prose resolves the variant.
 
-| Feature | Stated determination |
-|---|---|
-| Teacher | Gone to supreme peace |
-| Teaching-bearers | Also departed, by ellipsis |
-| World | Without a protector |
-| Views | Harmful on the disputed compound; unchecked |
-| Activity | Free circulation here now |
+**Signature.** `GoneToPeace(x)`, `TeachingBearer(x)`, `Departed(x)`, `Unprotected(x)`, `View(x)`, `Unrestrained(x)`, and `RoamsHereNow(x)`.
 
-The circumstantial structure links departure, lack of
-protection, and unconstrained activity. It does not
-provide a detailed historical chronology or identify
-particular doctrines by name.
+```nltk-valuation
+selfarisen => selfarisen
+bearergroup => bearergroup
+world => world
+views => views
+GoneToPeace => {selfarisen}
+TeachingBearer => {bearergroup}
+Departed => {bearergroup}
+Unprotected => {world}
+View => {views}
+Unrestrained => {views}
+RoamsHereNow => {views}
+```
 
-**The object of harm is not securely fixed.**
-The research's community-fragmentation account depends on gaṇa.
-Because the running source differs, that account
-must remain conditional. The more limited contrast
-between protective bearers and unchecked harmful views
-is available without deciding between community and
-qualities as the compound's first member.
+```nltk-fol
+# THEORY verse
+# [verse] gate ... svayaṃbhuvi; [verse] śāsanadhūrdhareṣu ca, with ellipsis
+GoneToPeace(selfarisen)
+all b.(TeachingBearer(b) -> Departed(b))
+# [verse] jagaty anāthe ... niraṅkuśaiḥ svairam ihādya caryate
+Unprotected(world)
+all v.(View(v) -> (Unrestrained(v) & RoamsHereNow(v)))
+```
 
-**Views are personified through activity.** The instrumental
-mataiḥ and impersonal caryate present views as
-roaming or operating at will. “Circulate” conveys
-the image naturally. It does not require
-positing doctrines as independently acting persons.
+**Results (NLTK).** The checker reports the common-core verse theory true in this finite model. The disputed compound's specific harm-target was deliberately not tested.
 
-**The evaluative voice remains attributed.** Vasubandhu
-characterizes these views as unchecked and harmful.
-The verse supplies no named opponents or
-case studies. The official study therefore records
-the polemic without applying it to a
-modern community or an inferred historical school.
-
-**Connection with 8.39–8.41.** The earlier verses
-distinguished bearers of transmission and realization, qualified
-the author's exposition, and lamented disorder caused
-by bad reasoners after the loss of
-most witnesses. This verse continues the lament
-through protective and burden-bearing imagery. It does
-not independently define the correct form of
-institutional governance for the teaching.
+**Scope cautions.** Neither `HarmsCommunity` nor `HarmsVirtue` is asserted: the former depends on the local *gaṇa* reading, while the latter is only a possible construal of the running form. No school or class of views is named. The truth of the common lament does not settle the textual variant.
 
 ## 9. Interpretive Note
 

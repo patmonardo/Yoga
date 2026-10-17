@@ -157,70 +157,54 @@ continues in VAK 8.19.
 
 ## 8. Logical Determination
 
-**The successor sets, not just their sizes.**
+The first half gives successor sets among the four pure types; the second describes preparation by traversing attainment levels in both directions and in two modes. These are distinct relations. Provenance: `[verse]`, `[prose]`.
 
-| Pure predecessor | Permitted successors among the four pure types | Count |
-|---|---|---:|
-| Decline-conducive | Decline, stability | 2 |
-| Stability-conducive | Decline, stability, distinction | 3 |
-| Distinction-conducive | Stability, distinction, penetration | 3 |
-| Penetration-conducive | Penetration | 1 |
+**Signature.** `Follows/2(next,prior)`—immediate successor among pure types; `ContaminatedLevel/1(l)`, `UncontaminatedLevel/1(l)`—available level by mode; `Traversal/3(d,m,l)`—direction, mode, and level in preparation.
 
-The relation is directed. Distinction can be followed
-by penetration, while penetration cannot be followed
-immediately by distinction within this pure-type inventory.
-A bidirectional chain joining all four would be inaccurate.
+**Dataset (successor matrix and level inventory).** Counting the listed `Follows` pairs yields 2, 3, 3, and 1 successors. The level rows represent the eight contaminated and seven uncontaminated grounds; traversal direction and mode are separate fields.
 
-**The singleton does not cancel uncontaminated arising.**
-VAK 8.17 explicitly identifies penetration-conducive
-pure attainment as the condition from which uncontaminated
-attainment arises. The present singleton says which
-pure type can follow. Its restricted domain preserves
-both statements without contradiction.
-
-**The training field has unequal mode counts.**
-
-| Mode | Available principal levels | Count |
-|---|---|---:|
-| Contaminated | Four dhyānas and four formless attainments | 8 |
-| Uncontaminated | Four dhyānas and the first three formless attainments | 7 |
-
-Thus “eight levels in two modes” must not be
-expanded into sixteen available level-mode combinations.
-The summit contributes only to the contaminated series.
-
-**The stated preparation order.** First master sequential
-forward and reverse entry in the contaminated and
-uncontaminated series. Then practice one-level skipping
-in forward and reverse order in the contaminated
-series, and likewise in the uncontaminated series.
-The source does not present adjacent entry and skipping
-as interchangeable starting exercises.
-
-**The explicit contaminated example.**
-
-```text
-First dhyāna
-    → Third dhyāna
-    → Infinite space
-    → Nothingness
+```nltk-valuation
+hanaType => hanaType
+stabilityType => stabilityType
+distinctionType => distinctionType
+penetrationType => penetrationType
+forward => forward
+reverse => reverse
+contaminated => contaminated
+uncontaminated => uncontaminated
+firstDhyana => firstDhyana
+secondDhyana => secondDhyana
+thirdDhyana => thirdDhyana
+fourthDhyana => fourthDhyana
+infiniteSpace => infiniteSpace
+infiniteConsciousness => infiniteConsciousness
+nothingness => nothingness
+summit => summit
+Follows => {(hanaType,hanaType),(stabilityType,hanaType),(hanaType,stabilityType),(stabilityType,stabilityType),(distinctionType,stabilityType),(stabilityType,distinctionType),(distinctionType,distinctionType),(penetrationType,distinctionType),(penetrationType,penetrationType)}
+ContaminatedLevel => {firstDhyana,secondDhyana,thirdDhyana,fourthDhyana,infiniteSpace,infiniteConsciousness,nothingness,summit}
+UncontaminatedLevel => {firstDhyana,secondDhyana,thirdDhyana,fourthDhyana,infiniteSpace,infiniteConsciousness,nothingness}
+Traversal => {(forward,contaminated,firstDhyana),(reverse,contaminated,summit),(forward,uncontaminated,firstDhyana),(reverse,uncontaminated,nothingness)}
 ```
 
-The intervening levels skipped are second dhyāna,
-fourth dhyāna, and infinite knowledge. The prose
-then directs reverse mastery and corresponding practice
-in the uncontaminated series. This example illustrates
-the skip pattern; it does not undo the preceding
-requirement to master all eight contaminated levels
-in sequential entry.
+```nltk-fol
+# THEORY shared
+# [verse, prose] successor membership, restricted to the four pure types
+Follows(hanaType,hanaType)
+Follows(stabilityType,hanaType)
+Follows(hanaType,stabilityType)
+Follows(stabilityType,stabilityType)
+Follows(distinctionType,stabilityType)
+Follows(stabilityType,distinctionType)
+Follows(distinctionType,distinctionType)
+Follows(penetrationType,distinctionType)
+Follows(penetrationType,penetrationType)
+# [verse, prose] the counted series has eight contaminated and seven uncontaminated levels
+all x.(UncontaminatedLevel(x) -> ContaminatedLevel(x))
+```
 
-**Preparation remains distinct from completion.** The
-following passage describes a sequence changing between
-contaminated and uncontaminated modes while skipping.
-That perfected form and the qualifications of its
-practitioner belong to VAK 8.19. The present two-mode
-preparation should not already be labeled the completed
-alternating-mode accomplishment.
+**Results (NLTK).** The checker confirms the displayed successor facts and level-inclusion rule in the valuation. The 2/3/3/1 cardinalities are visible in the Dataset relation; NLTK does not derive those counts here.
+
+**Scope cautions.** `dvidhā` means contaminated/uncontaminated modes, not forward/reverse directions. The eight levels are contaminated; the summit is absent from the uncontaminated list. Preparation is not completed skipping attainment, which is VAK 8.19.
 
 ## 9. Interpretive Note
 

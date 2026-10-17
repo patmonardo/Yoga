@@ -146,58 +146,53 @@ setting.
 
 ## 8. Logical Determination
 
-**Rebirth distribution and supports.**
+The verse's ordered feeling groups concern rebirths corresponding to four dhyānas, not feelings in meditative attainment [verse; prose]. The Bhāṣya supplies the four level assignments and explains one absence through its missing support; `pravido` remains unresolved.
 
-| Dhyāna rebirth | Feelings listed | Support specified in the prose | Count |
-|---|---|---|---:|
-| First | Saumanasya, sukha, upekṣā | Saumanasya mental; sukha associated with three knowledge-bodies; upekṣā with four | 3 |
-| Second | Upekṣā, saumanasya | Both mental | 2 |
-| Third | Sukha, upekṣā | Both mental | 2 |
-| Fourth | Upekṣā alone | Exclusivity explicitly stated | 1 |
+**Signature.** `Rebirth(x)`; `FeelingAt(x,f)`; `Support(x,f,s)`; `SupportAbsent(x,s)`.
 
-The table records the prose's qualifications without
-supplying an additional support clause for the fourth.
-Its `eva` makes the restriction to neutral feeling explicit.
+**Finite data.** The prose roster has 3/2/2/1 feeling types. First-level support distinctions and the second-level lack are represented without making the count a universal claim about simultaneous feelings.
 
-**Comparison with attainment.**
+```nltk-valuation
+firstrebirth => firstrebirth
+secondrebirth => secondrebirth
+thirdrebirth => thirdrebirth
+fourthrebirth => fourthrebirth
+saumanasya => saumanasya
+sukha => sukha
+upeksa => upeksa
+threebodies => threebodies
+fourbodies => fourbodies
+mental => mental
+sukhakaya => sukhakaya
+Rebirth => {firstrebirth, secondrebirth, thirdrebirth, fourthrebirth}
+FeelingAt => {(firstrebirth,saumanasya),(firstrebirth,sukha),(firstrebirth,upeksa),(secondrebirth,upeksa),(secondrebirth,saumanasya),(thirdrebirth,sukha),(thirdrebirth,upeksa),(fourthrebirth,upeksa)}
+Support => {(firstrebirth,sukha,threebodies),(firstrebirth,saumanasya,mental),(firstrebirth,upeksa,fourbodies),(secondrebirth,saumanasya,mental),(secondrebirth,upeksa,mental),(thirdrebirth,sukha,mental),(thirdrebirth,upeksa,mental)}
+SupportAbsent => {(secondrebirth,sukhakaya)}
+```
 
-| Level | Feeling in the preceding attainment account | Present rebirth inventory |
-|---|---|---|
-| First | Saumanasya, expressed through prīti | Saumanasya, sukha, upekṣā |
-| Second | Saumanasya, expressed through prīti | Saumanasya, upekṣā |
-| Third | Sukha | Sukha, upekṣā |
-| Fourth | Upekṣā | Upekṣā |
+**Rules (verse and prose).**
 
-The first two attainments' separately named sukha-factor
-was identified as pliancy in VAK 8.09's stated account.
-It is therefore not an additional feeling in that
-column. A factor inventory and a feeling inventory
-must remain distinct.
+```nltk-fol
+# THEORY shared
+# [prose] first rebirth: three feelings and their specified supports
+FeelingAt(firstrebirth,saumanasya)
+FeelingAt(firstrebirth,sukha)
+Support(firstrebirth,sukha,threebodies)
+Support(firstrebirth,upeksa,fourbodies)
+# [prose] second: two mental feelings; sukha absent with its support
+FeelingAt(secondrebirth,saumanasya)
+FeelingAt(secondrebirth,upeksa)
+-FeelingAt(secondrebirth,sukha)
+SupportAbsent(secondrebirth,sukhakaya)
+# [verse] third: pleasure and neutral feeling; fourth: neutral alone
+FeelingAt(thirdrebirth,sukha)
+FeelingAt(thirdrebirth,upeksa)
+FeelingAt(fourthrebirth,upeksa)
+```
 
-**Pleasure is not uniformly bodily.** The first rebirth's
-sukha is associated with three knowledge-bodies; the
-third's is explicitly manobhūmika. The source therefore
-blocks a universal equation of sukha with bodily
-pleasure in this passage. It also blocks treating
-the third's pleasure as saumanasya merely because
-both belong to the mental level.
+**Results (NLTK).** The checker confirms the listed positive and negative assignments in the finite valuation. The 3/2/2/1 tally is read from this roster; the model check does not establish that feelings co-occur in one moment.
 
-**An absence explained through its support.** The second
-rebirth lacks the sukha under discussion because the
-relevant knowledge-body is absent. The next question
-asks how higher-level beings nevertheless see, touch,
-and initiate bodily or verbal manifestation. Its answer
-distinguishes knowledge belonging to their own level
-from first-dhyāna knowledge they bring into operation.
-The present explanation must not become a blanket
-denial of every sensory event for those beings.
-
-**A distribution, not a simple subtraction sequence.**
-Sukha occurs in the first and third inventories;
-saumanasya in the first and second; neutral feeling
-in all four. The numerical sequence 3–2–2–1 does not
-by itself express these differences. The two middle
-levels have equal counts and different memberships.
+**Scope cautions.** `Upapatti` means rebirth, not sitting in attainment; `upekṣā` here is neutral feeling, not the equanimity factor. The absent support explains the second rebirth's sukha in the prose, not every sensory operation of higher beings. No gloss is assigned to `pravido`.
 
 ## 9. Interpretive Note
 

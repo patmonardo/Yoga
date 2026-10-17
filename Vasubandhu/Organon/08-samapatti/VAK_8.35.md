@@ -171,56 +171,42 @@ converted into permanent eradication of every kleśa.
 
 ## 8. Logical Determination
 
-**The eight members.**
+The verse's three comparisons distribute eight Essences of mastery across the first-release pattern, the second-release pattern, and the beautiful-release pattern. `[verse]` gives the allocation; `[prose]` identifies the respective pair and four color cases.
 
-| Essence | Internal form-perception | External form | Release correspondence |
-|---|---|---|---|
-| 1 | Present | Limited, attractive or unattractive | First release |
-| 2 | Present | Extensive, attractive or unattractive | First release |
-| 3 | Absent | Limited, attractive or unattractive | Second release |
-| 4 | Absent | Extensive, attractive or unattractive | Second release |
-| 5 | Absent | Blue | Beautiful release |
-| 6 | Absent | Yellow | Beautiful release |
-| 7 | Absent | Red | Beautiful release |
-| 8 | Absent | White | Beautiful release |
+**Signature.** `Mastery(x)`, `FirstPair(x)`, `SecondPair(x)`, `RemainingFour(x)`, and `LikePattern(x,p)`. `LikePattern` records correspondence, not identity of classifications.
 
-Attractive and unattractive are included within the
-first four formulas. Counting them as separate Essences
-would inflate the stated total. Likewise the final
-four are not further multiplied by the limited/extensive
-distinction in this enumeration.
+**Finite enumeration.** The valuation is an eight-row dataset. The `LikePattern` values preserve 2 + 2 + 4; the formulas check each row's group and pattern.
 
-**The source's explicit cross-reference.** The prose
-names the first and second Essences of mastery under
-the first release and the third and fourth
-under the second. It then assigns the remaining
-four to the beautiful release. These ordinal
-references concern releases, not first, second, and
-third dhyāna respectively.
+```nltk-valuation
+attone => attone
+attwo => attwo
+atthree => atthree
+atfour => atfour
+atfive => atfive
+atsix => atsix
+atseven => atseven
+ateight => ateight
+firstrelease => firstrelease
+secondrelease => secondrelease
+beautifulrelease => beautifulrelease
+Mastery => {attone,attwo,atthree,atfour,atfive,atsix,atseven,ateight}
+FirstPair => {attone,attwo}
+SecondPair => {atthree,atfour}
+RemainingFour => {atfive,atsix,atseven,ateight}
+LikePattern => {(attone,firstrelease),(attwo,firstrelease),(atthree,secondrelease),(atfour,secondrelease),(atfive,beautifulrelease),(atsix,beautifulrelease),(atseven,beautifulrelease),(ateight,beautifulrelease)}
+```
 
-**Correspondence with a difference.** The final prose
-first affirms the comparisons and then adds
-ayaṃ tu viśeṣaḥ, “but this is the distinction.”
-The Essences share the relevant release patterns
-while their distinguishing function is ālambanābhibhavana.
-The comparison cannot therefore be encoded as
-identity between a release and an Essence of mastery.
+```nltk-fol
+# THEORY shared
+# [verse] dvayam ... dve ... anyani
+all x.(FirstPair(x) -> (Mastery(x) & LikePattern(x,firstrelease)))
+all x.(SecondPair(x) -> (Mastery(x) & LikePattern(x,secondrelease)))
+all x.(RemainingFour(x) -> (Mastery(x) & LikePattern(x,beautifulrelease)))
+```
 
-**Two grounds for mastery.** The ablative expressions
-yatheccham adhimokṣāt and kleśānutpādāt are joined
-by ca. Determination at will and non-arising
-of affliction are both explicit. A description
-limited to vivid visualization would omit the
-second; one limited to lack of affliction would
-omit the first.
+**Results (NLTK).** The checker reports the shared rules true in the finite valuation, which contains eight Mastery members and the stated 2 + 2 + 4 pattern allocation. No theorem prover was run.
 
-**The scope of turning away.** The preceding
-study already described mastery of attainment among
-the general purposes of release cultivation. Here
-the narrower comparison identifies the distinctive
-object-mastery of the eight Essences. Reading “mere
-turning away” as a denial of all positive
-functions of releases would flatten that context.
+**Scope cautions.** A comparison with a release is not identity with it. The Bhāṣya's object-mastery, command at will, and non-arising of affliction explain the distinction from mere turning away; this verse does not authorize an unrestricted power over external objects or assert permanent eradication of all affliction.
 
 ## 9. Interpretive Note
 

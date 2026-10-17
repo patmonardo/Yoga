@@ -150,75 +150,54 @@ absence from all earlier states.
 
 ## 8. Logical Determination
 
-**The cumulative recount.**
+The verse converts the eighteen name-roles into eleven distinct dharma determinations and identifies selected terms [verse; prose]. The Bhāṣya distinguishes first-two-dhyāna pliancy-sukha from third-dhyāna feeling-sukha, while leaving a reported bodily-pleasure alternative for examination.
 
-| Inventory reached | Factors added to the distinct-dharma count | Added | Total |
-|---|---|---:|---:|
-| First dhyāna | Vitarka, vicāra, prīti, pliancy-sukha, samādhi | 5 | 5 |
-| Second dhyāna | Inward clarity, identified as confidence | 1 | 6 |
-| Third dhyāna | Equanimity, mindfulness, clear comprehension, feeling-pleasure | 4 | 10 |
-| Fourth dhyāna | Neutral feeling | 1 | 11 |
+**Signature.** `Role(level,name,dharmic-kind)`; `SameDharma(x,y)`; `DifferentDharma(x,y)`; `DistinctTotal(n)`.
 
-Purified equanimity and purified mindfulness in the
-fourth do not add two further distinct dharmas to
-this recount. Their qualifications remain significant
-in the named-factor inventory.
+**Finite data.** Repeated names and equivalent names map differently: the two sukhas are distinct; inward clarity and confidence, and prīti and saumanasya, are identified in the stated account.
 
-**Comparison is indexed to the lists.** The prose
-illustrates four possibilities with the first and
-second dhyānas: vitarka and vicāra are factors of the
-first alone; inward clarity of the second alone;
-prīti, sukha, and one-pointedness of both; other dharmas
-of neither list. This is a comparison of aṅga status,
-not a complete census of associated mental factors.
+```nltk-valuation
+first => first
+second => second
+third => third
+fourth => fourth
+firstsukha => firstsukha
+thirdsukha => thirdsukha
+pliancy => pliancy
+feelingpleasure => feelingpleasure
+prasada => prasada
+faith => faith
+priti => priti
+saumanasya => saumanasya
+eleven => eleven
+Role => {(first,firstsukha,pliancy),(second,firstsukha,pliancy),(third,thirdsukha,feelingpleasure),(second,prasada,faith),(second,priti,saumanasya)}
+SameDharma => {(prasada,faith),(priti,saumanasya)}
+DifferentDharma => {(firstsukha,thirdsukha)}
+DistinctTotal => {eleven}
+```
 
-**Why the first two pleasures are identified as pliancy.**
-The initial argument excludes bodily pleasure because
-bodily consciousness is absent in attainment on this
-account. It excludes an additional mental pleasure
-because prīti is already saumanasya: two feelings cannot
-coexist in the same moment. Alternating them would
-also fail to give the asserted five-factor conjunction.
-These premises belong to the account under discussion.
+**Rules (verse and prose).**
 
-**The reported alternative is substantial.** Beginning
-with “others, however, say,” the prose presents bodily
-pleasure as the sukha of the first three dhyānas.
-The discussion contests scriptural readings, whether
-“body” may mean a mental body, the relation between
-pliancy and pleasure, and whether bodily consciousness
-can occur without disrupting attainment. It also
-questions whether listing five factors entails their
-simultaneous occurrence.
+```nltk-fol
+# THEORY stated_account
+# [verse] daśa ca ekam; [prose] eleven distinct dharmas
+DistinctTotal(eleven)
+# [verse] ādyayoḥ; [prose] first-two-dhyāna sukha is pliancy
+Role(first,firstsukha,pliancy)
+Role(second,firstsukha,pliancy)
+# [prose] third sukha is feeling-pleasure, not the same dharma
+Role(third,thirdsukha,feelingpleasure)
+DifferentDharma(firstsukha,thirdsukha)
+# [verse] prasāda, śraddhā; prīti, saumanasya: two identifications
+SameDharma(prasada,faith)
+SameDharma(priti,saumanasya)
+Role(second,prasada,faith)
+Role(second,priti,saumanasya)
+```
 
-One proposed explanation invokes a concentration-produced
-bodily wind whose pleasant experience supports concentration.
-This belongs to the reported debate; it is not an
-unqualified claim of the study translation. The discussion
-ends this stretch with `tasmād vicāryam etat`: therefore,
-this should be examined. The official study should
-retain that invitation to inquiry.
+**Results (NLTK).** The checker parses the stated-account theory and confirms it in the finite model. It does not calculate eleven from an exhaustive census here; the roster illustrates the identifications and the sukha split.
 
-**Clarity and the distinct-dharma question.** The river
-analogy describes inward clarity functionally. The prose
-then asks how eleven distinct factors are possible if
-clarity is not another dharma. The verse answers with
-śraddhā. Other interlocutors deny separate substantial
-status to vitarka, vicāra, samādhi, and inward clarity,
-explaining mental factors through differentiations of
-mental state. The prose distinguishes this account
-from the treatise's established position.
-
-**The two scriptural warrants.** First, the passage
-attributed to the Aviparītaka-sūtra places the complete
-cessation of the pleasant-mindedness faculty at the
-third dhyāna and cessation of the pleasure faculty at
-the fourth. Second, the fourth-dhyāna formula speaks
-of abandoning pleasure and pain with pleasant-mindedness
-and displeasure already having disappeared. Both support
-the absence of saumanasya in the third dhyāna, where
-sukha remains. The conclusion is that prīti, rather
-than that sukha, is saumanasya.
+**Scope cautions.** `dvidhāgamāt` means two scriptural warrants, not two occurrences. The bodily-pleasure account (`apare`) is reported, debated, and left for examination; it is not merged with the stated role mapping. The prose's `vicāryam` keeps that dispute open, and the count is not a claim of simultaneous presence.
 
 ## 9. Interpretive Note
 

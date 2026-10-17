@@ -158,57 +158,42 @@ appeal to human intelligence or superior motivation.
 
 ## 8. Logical Determination
 
-**Acquisition and prior habituation.**
+The verse sets cessation aside, gives two acquisition routes for the remainder, then divides support: formless-designated practices have three-domain support; the remainder is human-born. The Bhāṣya ties the two routes to habituation. `[verse]` / `[prose]`.
 
-| Scope | Acquisition account | Commentary's condition |
-|---|---|---|
-| Releases and related practices other than cessation | Acquisition through dispassion | Habituation |
-| Same practice complex | Acquisition through deliberate application | Lack of habituation |
-| Cessation-release | Referred to its previous explanation | Excluded from this two-route generalization |
+**Signature.** `Cessation(x)`, `Remaining(x)`, `Habituated(x)`, `ViaDispassion(x)`, `ViaApplication(x)`, `FormlessDesignated(x)`, `ThreeDomainSupport(x)`, `HumanRemainder(x)`, and `HumanSupport(x)`.
 
-The relation is not a permanent partition
-of the practice inventory into dispassion-only and
-application-only species. The commentary explains variation
-through the practitioner's habituation. It does not
-specify a practice-duration threshold in this unit.
+```nltk-valuation
+cessationpractice => cessationpractice
+habitpractice => habitpractice
+newpractice => newpractice
+formlessgroup => formlessgroup
+humanremainder => humanremainder
+Cessation => {cessationpractice}
+Remaining => {habitpractice,newpractice}
+Habituated => {habitpractice}
+ViaDispassion => {habitpractice}
+ViaApplication => {newpractice}
+FormlessDesignated => {formlessgroup}
+ThreeDomainSupport => {formlessgroup}
+HumanRemainder => {humanremainder}
+HumanSupport => {humanremainder}
+```
 
-**Support classification.**
+```nltk-fol
+# THEORY shared
+# [verse] nirodha uktaḥ: cessation is distinguished from the remainder
+Cessation(cessationpractice)
+# [prose] ucita / anucita: habituated / unhabituated acquisition
+all x.((Remaining(x) & Habituated(x)) -> ViaDispassion(x))
+all x.((Remaining(x) & -Habituated(x)) -> ViaApplication(x))
+# [verse] arūpyasaṃjña; [prose] formess attainments and totalities
+all x.(FormlessDesignated(x) -> ThreeDomainSupport(x))
+all x.(HumanRemainder(x) -> HumanSupport(x))
+```
 
-| Group | Support statement |
-|---|---|
-| Four formless releases | Support possible in all three domains |
-| Two formless totalities | Support possible in all three domains |
-| Remaining three form-related releases | Human support for production |
-| Eight Essences of mastery | Human support for production |
-| First eight totalities | Human support for production |
-| Cessation-release | Previously treated; not newly classified by the remainder rule |
+**Results (NLTK).** The checker reports the shared rules true in this finite model of both acquisition routes and both support classes. No entailment or exhaustive census was tested.
 
-The enumeration expands the prose's explicit formless
-group and its remainder using the preceding
-inventories. There are no additional “formless Essences
-of mastery” inserted into the eightfold mastery classification.
-
-**Support is neither object nor attainment-level.** A
-formless practice may have a human bearer in
-the desire domain. That does not make its
-attainment-level desire-domain or replace its own stated
-object-range with a human object. The axes
-examined in 8.36 and 8.37 remain distinct.
-
-**Production is the stated issue.** The explanation
-uses utpādana, production, together with instruction.
-The study therefore states the human rule in
-terms of generation. It does not infer an
-additional universal rule about retention, loss, or
-later possession after every possible rebirth transition.
-
-**Instruction is a local explanatory condition.** The
-text explains the human restriction through instruction's
-efficacy. It does not supply a general doctrine
-that teaching is impossible outside human existence.
-The following question specifically asks about producing
-special dhyāna and formless attainments in the
-higher domains; its answer belongs to the next unit.
+**Scope cautions.** The model's `Remaining` and `HumanRemainder` classes are not asserted to be coextensive: the verse's first `śeṣitam` excludes cessation from acquisition, while the later human-born `śeṣam` has a different scope. Three-domain support is not object-field or attainment-level.
 
 ## 9. Interpretive Note
 

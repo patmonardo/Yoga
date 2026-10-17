@@ -141,68 +141,50 @@ that need not be present in a subsequent existence.
 
 ## 8. Logical Determination
 
-**Four restrictions on the further samādhis.**
+The verse closes the further-samādhi restrictions and begins a new fourfold cultivation account. The Bhāṣya fixes the first group as exclusively contaminated, human, for the unshakeable arhat, across eleven grounds; the second clause's first-dhyāna cultivation is for present-life pleasant abiding. `[verse]` with `[prose]` expansions.
 
-| Question | Source answer |
-|---|---|
-| What mode? | Exclusively contaminated |
-| Among whom? | Humans, not devas |
-| Which arhat? | Akopya, not another arhat type |
-| Which levels? | Eleven, excluding seven access stages |
+**Signature.** `Further(x)`; `Contaminated(x)`; `AmongHumans(x)`; `ForAkopya(x)`; `AllowedGround(g)`; `OnGround(x,g)`; `Cultivation(x)`; `Wholesome(x)`; `FirstDhyana(x)`; `ForPresentAbiding(x)`.
 
-Human occurrence and attainment-level are different
-axes. Inclusion of formless levels does not reverse
-the restriction to humans; it does not mean
-that the practitioner must be reborn in those realms.
+```nltk-valuation
+furtherEmpty => furtherEmpty
+furtherNonDirected => furtherNonDirected
+furtherSignless => furtherSignless
+firstCultivation => firstCultivation
+desireGround => desireGround
+anagamya => anagamya
+intermediateDhyana => intermediateDhyana
+firstDhyanaGround => firstDhyanaGround
+secondDhyanaGround => secondDhyanaGround
+thirdDhyanaGround => thirdDhyanaGround
+fourthDhyanaGround => fourthDhyanaGround
+spaceGround => spaceGround
+consciousnessGround => consciousnessGround
+nothingnessGround => nothingnessGround
+summitGround => summitGround
+Further => {furtherEmpty, furtherNonDirected, furtherSignless}
+Contaminated => {furtherEmpty, furtherNonDirected, furtherSignless}
+AmongHumans => {furtherEmpty, furtherNonDirected, furtherSignless}
+ForAkopya => {furtherEmpty, furtherNonDirected, furtherSignless}
+AllowedGround => {desireGround, anagamya, intermediateDhyana, firstDhyanaGround, secondDhyanaGround, thirdDhyanaGround, fourthDhyanaGround, spaceGround, consciousnessGround, nothingnessGround, summitGround}
+OnGround => {(furtherEmpty,desireGround),(furtherEmpty,anagamya),(furtherEmpty,intermediateDhyana),(furtherEmpty,firstDhyanaGround),(furtherEmpty,secondDhyanaGround),(furtherEmpty,thirdDhyanaGround),(furtherEmpty,fourthDhyanaGround),(furtherEmpty,spaceGround),(furtherEmpty,consciousnessGround),(furtherEmpty,nothingnessGround),(furtherEmpty,summitGround),(furtherNonDirected,desireGround),(furtherNonDirected,anagamya),(furtherNonDirected,intermediateDhyana),(furtherNonDirected,firstDhyanaGround),(furtherNonDirected,secondDhyanaGround),(furtherNonDirected,thirdDhyanaGround),(furtherNonDirected,fourthDhyanaGround),(furtherNonDirected,spaceGround),(furtherNonDirected,consciousnessGround),(furtherNonDirected,nothingnessGround),(furtherNonDirected,summitGround),(furtherSignless,desireGround),(furtherSignless,anagamya),(furtherSignless,intermediateDhyana),(furtherSignless,firstDhyanaGround),(furtherSignless,secondDhyanaGround),(furtherSignless,thirdDhyanaGround),(furtherSignless,fourthDhyanaGround),(furtherSignless,spaceGround),(furtherSignless,consciousnessGround),(furtherSignless,nothingnessGround),(furtherSignless,summitGround)}
+Cultivation => {firstCultivation}
+Wholesome => {firstCultivation}
+FirstDhyana => {firstCultivation}
+ForPresentAbiding => {firstCultivation}
+```
 
-**The eleven-level enumeration.**
+```nltk-fol
+# THEORY shared
+# [prose] sāsrava ekāntena; the eleven grounds are represented as a finite set
+all x.(Further(x) -> (Contaminated(x) & AmongHumans(x) & ForAkopya(x)))
+all x.(Further(x) -> exists g.(AllowedGround(g) & OnGround(x,g)))
+# [verse, prose] first wholesome cultivation is first dhyāna, for present-life abiding
+all x.(Cultivation(x) -> (Wholesome(x) & FirstDhyana(x) & ForPresentAbiding(x)))
+```
 
-| Included group | Count |
-|---|---:|
-| Desire domain | 1 |
-| Anāgamya, first access | 1 |
-| Intermediate dhyāna | 1 |
-| Principal dhyānas | 4 |
-| Principal formless levels | 4 |
-| Total | 11 |
+**Results (NLTK).** The checker reports `shared: T` in the finite model.
 
-The omitted seven are the remaining access stages.
-Including bhavāgra here does not posit an uncontaminated
-bhavāgra: the further samādhis have just been
-classified as contaminated.
-
-**The mode rationale is explicit.** The source
-does not argue simply that taking samādhi as
-object makes an act contaminated, nor that being
-conditioned suffices. It cites opposition to the
-noble path. Preserve this explanation alongside the
-object assignments rather than substituting a general
-theory of reflection's limitations.
-
-**The first cultivation admits two wholesome modes.**
-The prose specifies pure or uncontaminated first
-dhyāna. Unlike the further triad, this cultivation
-is therefore not confined to contaminated mode.
-The change of subject prevents transferring restrictions
-from the first half to the second.
-
-**First dhyāna begins rather than exhausts the account.**
-The sentence `tadādikatvād anyāny api jñeyāni`
-adds that the others are also to be understood,
-since it is the first. The present-life pleasant-abiding
-function should therefore not be represented as
-exclusive to first dhyāna. It also cannot be
-reduced to one feeling type, given the distinct
-feeling distributions already established.
-
-**Present benefit does not guarantee the same later result.**
-The commentary denies necessity of later-life pleasant
-abiding and invokes non-decline, higher rebirth,
-and parinirvāṇa in its compact counterexample. The
-exact syntactic distribution of the compressed transmitted
-forms is uncertain. The secure conclusion is the
-non-universality of the later-life result, not an
-invented complete taxonomy of those cases.
+**Scope cautions.** Humans are the practitioner class, not the attainment level. Seven excluded access stages do not include anāgamya. The prose says the series continues beyond first dhyāna and denies a necessary later-life result; this model does not encode a universal guarantee or a rebirth claim.
 
 ## 9. Interpretive Note
 

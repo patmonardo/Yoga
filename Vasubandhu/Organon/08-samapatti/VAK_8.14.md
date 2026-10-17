@@ -162,72 +162,42 @@ from the necessary route stated in the verse.
 
 ## 8. Logical Determination
 
-**The non-possessor rule with its qualifications.**
+The verse gives mode-sensitive acquisition routes for a non-possessor; the Bhāṣya specifies lower-level rebirth and higher-to-lower rebirth. It states necessary routes, not an exhaustive history of every acquisition. Provenance: `[verse]`, `[prose]`.
 
-| Mode acquired | Route stated | Prose qualification |
-|---|---|---|
-| Pure | Dispassion | Toward a lower level |
-| Pure | Rebirth | At a lower level; bhavāgra excluded |
-| Uncontaminated | Dispassion | Stated as the necessary route, with the entry-into-certainty objection discussed |
-| Defiled | Decline | From dispassion toward the relevant level |
-| Defiled | Rebirth | From a higher level into a lower one |
+**Signature.** `NonPossessor/2(p,a)`—p lacks a; `Acquires/3(p,a,m)`—p gains a in mode m; `LowerDispassion/2`, `RebornLower/2`, `Dispassion/2`, `Declines/2`, `RebornFromHigher/2`—the respective route holds for p and a; `Summit/1(a)`—a is bhavāgra.
 
-These rows describe conditioned acquisitions. They
-do not assert that any dispassion produces every
-pure or uncontaminated attainment, or that any rebirth
-produces both pure and defiled attainments indiscriminately.
+```nltk-fol
+# THEORY shared
+# [verse] śuddha through dispassion or lower-level rebirth; [prose] the summit exception
+all p.all a.((NonPossessor(p,a) & LowerDispassion(p,a)) -> Acquires(p,a,puremode))
+all p.all a.((NonPossessor(p,a) & RebornLower(p,a) & -Summit(a)) -> Acquires(p,a,puremode))
+# [verse] anāsrava through dispassion
+all p.all a.((NonPossessor(p,a) & Dispassion(p,a)) -> Acquires(p,a,uncontaminated))
+# [verse] kliṣṭa through decline or rebirth; direction from prose
+all p.all a.((NonPossessor(p,a) & (Declines(p,a) | RebornFromHigher(p,a))) -> Acquires(p,a,defiledmode))
+```
 
-**Why the possessor case is separate.** Someone already
-endowed with a pure attainment can obtain a penetration-oriented
-pure attainment through practice, or a decline-oriented
-pure attainment through decline. The verse's initial
-qualification prevents these cases from becoming
-counterexamples to its two-route statement.
+**Finite valuation (sample acquisition routes).** This is a checkable sample, not an exhaustive count of attainment cases.
 
-Someone already endowed with uncontaminated attainment
-can acquire an adept's uncontaminated attainment through
-knowledge of destruction, and a trainee's or adept's
-through transformation of faculties. Thus “through
-dispassion” cannot be expanded into a prohibition of
-all other acquisition events for all persons.
+```nltk-valuation
+personA => personA
+firstDhyana => firstDhyana
+puremode => puremode
+uncontaminated => uncontaminated
+defiledmode => defiledmode
+NonPossessor => {(personA,firstDhyana)}
+LowerDispassion => {(personA,firstDhyana)}
+RebornLower => {(personA,firstDhyana)}
+Dispassion => {(personA,firstDhyana)}
+Declines => {(personA,firstDhyana)}
+RebornFromHigher => {}
+Summit => {}
+Acquires => {(personA,firstDhyana,puremode),(personA,firstDhyana,uncontaminated),(personA,firstDhyana,defiledmode)}
+```
 
-**The first-dhyāna example specifies a subtype.** The
-prose illustrates a decline-oriented pure first dhyāna,
-not every first-dhyāna attainment without qualification.
+**Results (NLTK).** `Model.satisfy` checks the shared acquisition rules against the displayed valuation. The rebirth rule is guarded by `-Summit`; no conclusion here says summit rebirth yields pure acquisition. Each mode remains a distinct acquisition label, not a scalar ranking.
 
-| Occasion | Result for the specified attainment |
-|---|---|
-| Dispassion toward the desire domain | Acquisition |
-| Dispassion toward Brahmaloka | Abandonment |
-| Decline from dispassion toward Brahmaloka | Acquisition |
-| Decline from desire-domain dispassion | Abandonment |
-| Rebirth in Brahmaloka from above | Acquisition |
-| Subsequent rebirth in the desire domain | Abandonment |
-
-The rebirth clause is read with the earlier
-`adhobhūmyupapattitaḥ` and the subsequent return to
-the desire domain. This controls the direction more
-securely than the research paraphrase “birth above
-Brahmaloka.” Preserving the hānabhāgīya qualifier also
-prevents claiming that dispassion from Brahmaloka
-eliminates every pure first-dhyāna attainment.
-
-**The entry-into-certainty objection.** The objection
-asks whether uncontaminated attainment is also first
-acquired upon entering niyāma. The reply says this
-is not necessary, citing non-acquisition by the practitioner
-proceeding in sequence, and explains that the verse
-states the way it is necessarily acquired. It does
-not deny uncontaminated path entry; the question concerns
-the dhyāna/ārūpya attainments under discussion. The short
-reply does not itself enumerate the full preparatory-level
-analysis, so that analysis is not supplied as a quotation.
-
-**Modes are not available uniformly at every level.**
-The verse's threefold scheme does not reverse the
-earlier exclusion of uncontaminated bhavāgra. Nor is
-bhavāgra's rebirth-route exception a new statement
-that its pure mode is altogether unavailable.
+**Scope cautions.** Possessors' supplemental routes, penetration-/decline-conducive subclasses, and entry into certainty are Bhāṣya-only expansions, not encoded as verse rules. `Acquires` does not mean immediate succession.
 
 ## 9. Interpretive Note
 

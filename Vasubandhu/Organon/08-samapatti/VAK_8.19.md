@@ -156,63 +156,46 @@ purpose, and immediately proceeds to an exception.
 
 ## 8. Logical Determination
 
-**The accomplished example.**
+The verse completes the skipping sequence and states the general level of support for dhyāna and formless attainments. The Bhāṣya also gives the qualified practitioner who accomplishes the skip. Provenance: `[verse]`, `[prose]`.
 
-| Entry | Level | Mode | Level skipped from preceding entry |
-|---|---|---|---|
-| 1 | First dhyāna | Contaminated | — |
-| 2 | Third dhyāna | Uncontaminated | Second dhyāna |
-| 3 | Infinite space | Contaminated | Fourth dhyāna |
-| 4 | Nothingness | Uncontaminated | Infinite knowledge |
+**Signature.** `SkipStep/2(a,b)`—one step in the skipping sequence; `InThreeContinents/1(p)`—practitioner in the Bhāṣya’s stated scope; `FreeOfDefilement/1`, `MasteryOfSamadhi/1`, `ProducesSkip/1`—eligibility and capacity; `RebornAbove/1(p)`—rebirth above the lower attainment; `LowerAttainment/1(a)`—attainment below that support; `Useful/2(p,a)`—a is useful to p there.
 
-The same is then traversed in reverse. Each move
-has two level-steps and a change of mode. The
-prohibition on the fourth relative station concerns
-a greater leap, not ordinary entry into fourth dhyāna.
+```nltk-valuation
+firstContaminated => firstContaminated
+thirdUncontaminated => thirdUncontaminated
+spaceContaminated => spaceContaminated
+nothingnessUncontaminated => nothingnessUncontaminated
+adept => adept
+upperBorn => upperBorn
+lowerDhyana => lowerDhyana
+SkipStep => {(firstContaminated,thirdUncontaminated),(thirdUncontaminated,spaceContaminated),(spaceContaminated,nothingnessUncontaminated),(nothingnessUncontaminated,spaceContaminated),(spaceContaminated,thirdUncontaminated),(thirdUncontaminated,firstContaminated)}
+InThreeContinents => {adept}
+FreeOfDefilement => {adept}
+MasteryOfSamadhi => {adept}
+ProducesSkip => {adept}
+RebornAbove => {upperBorn}
+LowerAttainment => {lowerDhyana}
+Useful => {}
+```
 
-**Both practitioner qualifications are needed.**
+```nltk-fol
+# THEORY shared
+# [verse] third-in-a-dissimilar-mode pattern; the list records the Bhāṣya's example and reverse
+SkipStep(firstContaminated,thirdUncontaminated)
+SkipStep(thirdUncontaminated,spaceContaminated)
+SkipStep(spaceContaminated,nothingnessUncontaminated)
+SkipStep(nothingnessUncontaminated,spaceContaminated)
+SkipStep(spaceContaminated,thirdUncontaminated)
+SkipStep(thirdUncontaminated,firstContaminated)
+# [prose] within the three continents, both qualifications are stated for the producer
+all p.((InThreeContinents(p) & FreeOfDefilement(p) & MasteryOfSamadhi(p)) -> ProducesSkip(p))
+# [verse, prose] general support rule's upper-born lower-attainment case
+all p.all a.((RebornAbove(p) & LowerAttainment(a)) -> -Useful(p,a))
+```
 
-| Practitioner in the prose comparison | Freedom from defilements | Required samādhi mastery |
-|---|---|---|
-| Asamayavimukta arhat | Present | Present |
-| Dṛṣṭiprāpta | Not complete | Present through sharp faculties |
-| Samayavimukta | Present | Lacking |
+**Results (NLTK).** `Model.satisfy` checks the skip-step facts and both general rules in the finite example. The support example encodes the lower attainment as useless for the one reborn above, not as impossible to enter in every context.
 
-The passage locates production in the three continents.
-This study preserves that restriction without importing
-a further geographical explanation absent from the
-local unit. The table describes the source's comparison,
-not a general ranking of every spiritual capacity.
-
-**The support examples.** Bhavāgra attainment is made
-present at bhavāgra and on lower supports down to
-the desire domain. The remaining attainments are
-likewise made present on their own level or below.
-This describes the general level relation; it does
-not imply that every being at an eligible level
-can enter every corresponding attainment without qualification.
-
-**Rebirth is not mastery.** The research first pass
-speaks of a practitioner who has mastered a higher
-ground finding a lower attainment useless. The prose's
-question instead specifies ūrdhvopapanna, one reborn
-above. Retaining that distinction prevents the utility
-claim from contradicting reverse meditative traversal.
-
-**A general rule with a stated exception ahead.**
-The next sentence says that, having given the
-general rule, the text gives an exception. VAK 8.20
-concerns bringing uncontaminated nothingness into operation
-for a being reborn at the summit. The present
-support relation must therefore be stored and interpreted
-as a general rule, not an exceptionless impossibility.
-
-**Relation to first-level knowledge in VAK 8.13.**
-Making lower-level sensory or manifestation-initiating
-knowledge operative is not automatically entering a
-lower samāpatti. The present use claim concerns the
-lower attainment; it should not erase the earlier
-account of first-dhyāna knowledge functioning for higher-born beings.
+**Scope cautions.** The three-continent eligibility is Bhāṣya-only. `vṛthā` is limited to the upper-born case; reverse practice traversal is not rebirth above. The exception is the next verse and is deliberately not folded into the general support rule.
 
 ## 9. Interpretive Note
 

@@ -156,54 +156,45 @@ indeterminacy here is not neutral feeling.
 
 ## 8. Logical Determination
 
-**The exact object–aspect assignments.**
+The first two further samādhis have corresponding adept samādhis as objects, with emptiness and impermanence respectively; signlessness-of-signlessness instead takes non-analytical cessation under peace. The prose supplies the object identities and resolves `asaṃkhyayā kṣayam` as *apratisaṃkhyānirodha*. `[verse]` / `[prose]`.
 
-| Further samādhi | Object | Aspect |
-|---|---|---|
-| Emptiness-of-emptiness | Adept's emptiness samādhi | Emptiness |
-| Non-directedness-of-non-directedness | Adept's non-directed samādhi | Impermanence |
-| Signlessness-of-signlessness | Non-analytical cessation of an adept's signless samādhi | Peace |
+**Signature.** `Takes(s,o)`; `AspectOf(s,a)`; `AdeptSamadhi(o)`; `NonAnalyticalCessation(o)`; `Aspect(a)`.
 
-The first-order four/two/ten aspect distribution is
-not mechanically repeated. The present assignments
-are separately stated by the source.
+```nltk-valuation
+emptyFurther => emptyFurther
+nonDirectedFurther => nonDirectedFurther
+signlessFurther => signlessFurther
+adeptEmpty => adeptEmpty
+adeptNonDirected => adeptNonDirected
+cessationOfAdeptSignless => cessationOfAdeptSignless
+emptinessAspect => emptinessAspect
+impermanence => impermanence
+peace => peace
+Takes => {(emptyFurther,adeptEmpty),(nonDirectedFurther,adeptNonDirected),(signlessFurther,cessationOfAdeptSignless)}
+AspectOf => {(emptyFurther,emptinessAspect),(nonDirectedFurther,impermanence),(signlessFurther,peace)}
+AdeptSamadhi => {adeptEmpty, adeptNonDirected}
+NonAnalyticalCessation => {cessationOfAdeptSignless}
+Aspect => {emptinessAspect, impermanence, peace}
+```
 
-**The second case's exclusions.** Suffering and the
-origin-aspects beginning with cause do not characterize
-the uncontaminated object in this classification. The
-path-aspects are excluded for a different reason:
-the further samādhi's depreciative orientation. These
-two explanations must not be combined into the
-false claim that the object is not a path samādhi.
+```nltk-fol
+# THEORY shared
+# [verse, prose] first further samādhi: adept emptiness samādhi under emptiness
+Takes(emptyFurther,adeptEmpty)
+AspectOf(emptyFurther,emptinessAspect)
+# [verse, prose] second: adept non-directed samādhi under impermanence
+Takes(nonDirectedFurther,adeptNonDirected)
+AspectOf(nonDirectedFurther,impermanence)
+# [verse, prose] tu marks the distinct third object construction
+Takes(signlessFurther,cessationOfAdeptSignless)
+AspectOf(signlessFurther,peace)
+all x.(AdeptSamadhi(x) -> -NonAnalyticalCessation(x))
+all x.(NonAnalyticalCessation(x) -> -AdeptSamadhi(x))
+```
 
-**The third case's excluded cessation-aspects.**
+**Results (NLTK).** The checker reports `shared: T` in the supplied finite model. The six ground object/aspect assertions and the stated object-kind distinction are satisfied there.
 
-| Excluded aspect | Corresponding reason in the compressed prose |
-|---|---|
-| Nirodha, cessation | Commonality with cessation through impermanence |
-| Praṇīta, excellent | The object is ethically indeterminate |
-| Niḥsaraṇa, emergence | The object is not disjunction |
-
-The ordered reasons follow the ordered exclusions.
-The first reason concerns the cessation-aspect's commonality
-with impermanent cessation; it does not reclassify
-apratisaṃkhyānirodha itself as a conditioned event.
-The research explanation's phrase “impermanence-linked cessation”
-would be misleading if read as such an identification.
-
-**The negative statement concerns analytical cessation.**
-The prose says that the uncontaminated has no
-pratisaṃkhyānirodha. It does not deny the impermanence
-of an uncontaminated samādhi; impermanence is explicitly
-the second further samādhi's aspect. Two different
-senses of ceasing are at issue.
-
-**The object's status does not determine the observer's mode.**
-The adept samādhi is uncontaminated. The modal
-status and practitioner qualifications of the further
-samādhis themselves are specified next in VAK 8.27.
-Their objects' uncontaminated character cannot be used
-to infer their own mode prematurely.
+**Scope cautions.** The third object is cessation associated with an adept's signless samādhi, not that samādhi itself. These assignments do not copy the earlier four/two/ten distribution; the absence of analytical cessation is not a denial of impermanence.
 
 ## 9. Interpretive Note
 
