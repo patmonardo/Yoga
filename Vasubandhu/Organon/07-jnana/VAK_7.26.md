@@ -21,31 +21,26 @@ question asks on which path knowledge of how many levels
 is cultivated. The topic shifts from category-count to
 level-range and acquisition history.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-yat-vairāgyāya | yat-lābhaḥ | tatra | ca | adhaḥ | ca |
-bhāvyate | sa-āsravāḥ | ca | kṣaya-jñāne |
-labdha-pūrvam | na | bhāvyate
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `yadvairāgyāya` | relative compound with dative singular `vairāgya` | for detachment from whichever [level] |
-| `yallābhaḥ` | relative compound with nominative singular `lābha` | acquisition of whichever [level] |
+| `yat-vairāgyāya` | relative compound with dative singular `vairāgya` | for detachment from whichever [level] |
+| `yat-lābhaḥ` | relative compound with nominative singular `lābha` | acquisition of whichever [level] |
 | `tatra` | locative adverb | there, at the specified level |
 | `ca ... ca` | coordinating particles | both ... and |
 | `adhaḥ` | adverb | below, at lower levels |
 | `bhāvyate` | third-person singular passive | is cultivated |
-| `sāsravāḥ` | nominative plural masculine adjective | contaminated [qualities] |
-| `kṣayajñāne` | locative singular neuter | at knowledge of exhaustion |
-| `labdhapūrvam` | nominative singular neuter adjective used substantivally | what has been acquired before |
+| `sa-āsravāḥ` | nominative plural masculine adjective | contaminated [qualities] |
+| `kṣaya-jñāne` | locative singular neuter | at knowledge of exhaustion |
+| `labdha-pūrvam` | nominative singular neuter adjective used substantivally | what has been acquired before |
 | `na` | negative particle | not |
 
-`Yat + lābhaḥ` yields `yallābhaḥ`; `ca + adhaḥ` yields
+`Yat + lābhaḥ` yields `yat-lābhaḥ`; `ca + adhaḥ` yields
 `cādhaḥ`. `Labdhapūrvam` is the subject of the final passive,
 not merely an adverb meaning “previously.” The masculine
-plural `sāsravāḥ` is supplied with `guṇāḥ` by the commentary.
+plural `sa-āsravāḥ` is supplied with `guṇāḥ` by the commentary.
 
 ## 4. Grammar
 
@@ -95,27 +90,13 @@ cultivated]. What has been acquired before is not cultivated
 
 ### Bhāṣya-informed study translation
 
-> Future conventional knowledge is cultivated at the level
-> of the current path and at the level first acquired.
-> Uncontaminated knowledge has a wider range: besides the
-> path's level, the account includes the level toward whose
-> detachment the path operates, the level acquired through
-> detachment, and the corresponding lower levels. This
-> applies to both kinds of path, beginning with preparation.
->
-> At knowledge of exhaustion, wholesome contaminated qualities
-> of all levels that are acquired through exhaustion-knowledge
-> also enter cultivation. These include mindfulness of breathing,
-> applications of mindfulness, immeasurables, and liberations.
->
-> What is acquired for the first time is cultivated. Something
-> previously cultivated, subsequently lost, and now reacquired
-> is not cultivated anew in this sense.
+> For whichever level detachment is sought, and whichever level is acquired,
+> knowledge is cultivated there and below. At knowledge of exhaustion,
+> contaminated qualities too are cultivated; what was acquired before is not
+> cultivated.
 
-Source: Pradhan 410|03–410|17. At 410|18 the commentary asks
-whether cultivation is acquisition alone and answers no,
-opening VAK 7.27's fourfold account. That transition controls
-the scope of the final sentence here.
+The commentary distinguishes first acquisition from reacquisition after loss:
+the previously cultivated item is not cultivated anew.
 
 ## 6. Philosophical Translation
 
@@ -227,7 +208,7 @@ positive account of release and wholesome qualities coming
 forward; they do not justify a detailed reconstruction of
 the damaged comparison.
 
-**Reacquisition is the exact case.** The first-pass “no double
+**Reacquisition is the exact case.** The “no double
 counting” explanation is too broad if it treats the verse
 as merely subtracting everything already possessed. The
 Bhāṣya specifies prior cultivation, relinquishment, and

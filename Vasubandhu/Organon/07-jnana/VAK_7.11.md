@@ -226,7 +226,7 @@ relation, while this Yoga-system formulation remains our interpretation.
 
 **Review status.** Provisional, Bhāṣya-controlled study. The four
 Path-aspects and both forms' singular object-range correct the less
-precise first-pass account. The competing interpretations remain
+precise earlier account. The competing interpretations remain
 attributed, and corrupt prose readings remain marked for review.
 
 ## 10. OWL++ Seed

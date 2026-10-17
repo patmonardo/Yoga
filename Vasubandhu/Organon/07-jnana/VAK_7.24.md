@@ -20,29 +20,25 @@ lemma `ānantaryapatha ṣaṇṇāṃ`; the full verse preserves the
 locative `ānantaryapathe`. Its counts require the commentary's
 distinctions of detachment, path function, and stated opinion.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-śaikṣa-uttāpana-muktau | vā | ṣaṭ | sapta-jñāna-bhāvanā |
-ānantarya-pathe | ṣaṇṇām | bhavāgra-vijaye | tathā
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `śaikṣa` | compound member | trainee, one still under training |
-| `uttāpana` | action noun in compound | strengthening / sharpening [of faculties] |
+| `uttāpana` | action noun in compound | strengthening / sharpening [of Faculties] |
 | `muktau` | locative singular feminine | in the liberation [path] |
 | `vā` | alternative particle | or; marking an alternative opinion here |
 | `ṣaṭ` | numeral | six |
 | `sapta` | numeral within the cultivation expression | seven |
-| `jñānabhāvanā` | nominative singular feminine compound | cultivation of knowledges |
+| `jñāna-bhāvanā` | nominative singular feminine compound | cultivation of knowledges |
 | `ānantaryapathe` | locative singular masculine | in the uninterrupted path |
 | `ṣaṇṇām` | genitive plural numeral | of six [knowledges] |
 | `bhavāgravijaye` | locative singular masculine compound | in conquest of the summit of existence |
 | `tathā` | adverb | likewise |
 
 `Śaikṣa + uttāpana` yields `śaikṣottāpana`. The Bhāṣya
-supplies the faculties explicitly through `indriyottāpanā`.
+supplies the Faculties explicitly through `indriyottāpanā`.
 The compound does not name a literal heating procedure.
 
 ## 4. Grammar
@@ -50,7 +46,7 @@ The compound does not name a literal heating procedure.
 **The compound's scope.** The prose expands
 `śaikṣottāpanamuktau` as `śaikṣasya indriyottāpanāyāṃ
 vimuktimārge`: in the liberation path within the strengthening
-of a trainee's faculties. Faculty-strengthening is the
+of a trainee's Faculties. Faculty-strengthening is the
 undertaking; liberation is a path function within it.
 
 **Six and seven are conditional.** The commentary supplies
@@ -66,13 +62,13 @@ in the liberation path. Translating “six or seven” alone
 does not convey this additional doctrinal alternative.
 
 **The second half.** Supply `jñānānāṃ bhāvanā` with `ṣaṇṇām`.
-The first locative concerns faculty-strengthening's uninterrupted
+The first locative concerns Faculty-strengthening's uninterrupted
 path. With `bhavāgravijaye tathā`, retain the uninterrupted-path
 restriction: the prose says `bhavāgravairāgye 'py ānantaryamārgeṣu`.
 The sixfold rule does not cover every phase of Bhavāgra detachment.
 
 **Close construe.** In the liberation path of strengthening a
-trainee's faculties, there is cultivation of six or seven
+trainee's Faculties, there is cultivation of six or seven
 knowledges [with an alternative opinion indicated by `vā`].
 In the uninterrupted path, cultivation is of six; likewise
 in the uninterrupted paths of conquest of Bhavāgra.
@@ -82,38 +78,22 @@ in the uninterrupted paths of conquest of Bhavāgra.
 ### Literal Translation
 
 > Or, in the liberation path of strengthening a trainee's
-> faculties, there is cultivation of six or seven knowledges.
+> Faculties, there is cultivation of six or seven knowledges.
 > In the uninterrupted path, cultivation is of six; likewise
 > in the conquest of the summit of existence.
 
 ### Bhāṣya-informed study translation
 
-> In the liberation path of strengthening a trainee's faculties,
-> six knowledge categories are cultivated if the trainee is
-> not detached from desire: dharma, anvaya, suffering,
-> origination, cessation, and Path. For the detached trainee,
-> knowledge of another mind is added, making seven. Some
-> teachers also include conventional knowledge for both;
-> the verse's “or” indicates this difference of opinion.
->
-> In the preparatory path, conventional knowledge is also
-> cultivated for both. In faculty-strengthening's uninterrupted
-> path, however, the same six are cultivated whether the
-> trainee is detached or undetached. Conventional knowledge
-> is excluded because of resemblance to the Path of Seeing.
-> Knowledge of another mind is excluded from all uninterrupted
-> paths because it is not a counteragent. Likewise, six are
-> cultivated in the uninterrupted paths of detachment from
-> Bhavāgra.
+> In a trainee's liberation path of Faculty-strengthening, cultivation is of
+> six or seven knowledges. In the uninterrupted path, cultivation is of six;
+> likewise in conquest of Bhavāgra.
 
-Source: Pradhan 408|20–409|07. The sentence excluding
-conventional knowledge at 409|03 is present in the running
-source but absent from the research Bhāṣya excerpt. It is
-restored to the study's argument here.
+The alternative `or` marks a reported difference over including conventional
+knowledge; the principal count varies with detachment.
 
 ## 6. Philosophical Translation
 
-> Strengthening the faculties has an internally differentiated
+> Strengthening the Faculties has an internally differentiated
 > course. Preparation, uninterrupted work, and liberation
 > do not cultivate an identical field. Prior detachment
 > enlarges the liberation-path range in the principal
@@ -130,15 +110,15 @@ cultivated knowledge perform one identical function.
 ## 7. Technical Vocabulary
 
 **`Śaikṣa` — trainee.** The practitioner under training whose
-faculties are being strengthened. This study does not extend
+Faculties are being strengthened. This study does not extend
 the trainee's counts to the corresponding undertakings of
 one beyond training.
 
-**`Indriyottāpanā` — strengthening / sharpening the faculties.**
+**`Indriyottāpanā` — strengthening / sharpening the Faculties.**
 The explicit expansion of the verse's compressed `uttāpana`.
 The present passage determines its cultivation ranges by
 path function; it does not provide a sequence of exercises
-or enumerate which faculties are changed in each exercise.
+or enumerate which Faculties are changed in each exercise.
 
 **`Sarāga` / `vītarāga` — undetached / detached from desire.**
 The status distinction carried forward from VAK 7.22. It
@@ -155,7 +135,7 @@ set for the detached trainee's liberation path.
 
 **`Darśanamārgasādṛśya` — resemblance to the Path of Seeing.**
 The stated reason for excluding conventional knowledge from
-the faculty-strengthening uninterrupted path. Resemblance
+the Faculty-strengthening uninterrupted path. Resemblance
 does not identify this path as a second Path of Seeing or
 cancel VAK 7.20–7.21's special conventional cultivation.
 
@@ -241,7 +221,7 @@ the exclusion and its reason. The study translates that
 argument without silently repairing the witness.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.** This
-verse lets our Yoga system distinguish developing a faculty
+verse lets our Yoga system distinguish developing a Faculty
 from merely increasing the number of cultivated categories.
 The strengthening undertaking has preparation, uninterrupted
 work, and liberation as internal functions. Its narrower

@@ -20,16 +20,10 @@ prose securely supplies the intended continuum-based
 reason. The Devanāgarī reproduces the local reading,
 not a conjectural restoration.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-aśaikṣī | antyā | tad-ākhye | dve |
-tat-saṃtāna-m-udbhavāt [problematic transmitted junction] |
-iṣṭe | śaikṣasya | na | ukte | tu | vidye |
-sa-avidya-saṃtateḥ
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aśaikṣī` | nominative singular feminine adjective | beyond training, qualifying vidyā |
 | `antyā` | nominative singular feminine adjective | the last of the three vidyās |
@@ -97,34 +91,18 @@ learner's continuum is accompanied by ignorance.
 
 ### Literal Translation
 
-> The last is beyond training. The two bear that designation
-> because they arise in that continuum. They are admitted
-> for the learner, but are not called vidyās, because the
-> continuum is accompanied by ignorance.
-
-The first causal phrase is rendered through its unambiguous
-prose expansion; its local verse reading remains uncertain.
+> The last is beyond training. The two bear that designation because they arise
+> in that continuum. They are admitted for the learner, but are not called
+> vidyās, because the continuum is accompanied by ignorance.
 
 ### Bhāṣya-informed study translation
 
-> Of the three vidyās, only direct cognitive realization
-> of the exhaustion of the influxes is beyond training
-> in the strict sense. Former-abode recollection and
-> death-and-rebirth knowledge are called beyond training
-> because they arise in the continuum of one beyond
-> training. In themselves, however, those two are neither
-> learner nor beyond-training cognitions.
->
-> These two higher knowledges are also admitted for a
-> learner. They are not designated learner vidyās here:
-> establishing them as vidyā is inappropriate in a continuum
-> still accompanied by ignorance, since ignorance can
-> again overpower.
+> Of the three vidyās, the last—direct realization of influx-exhaustion—is
+> beyond training in the strict sense. The other two bear that designation
+> because they arise in a beyond-training continuum. They are admitted for a
+> learner, but are not called vidyās for that learner, because the continuum is
+> accompanied by ignorance.
 
-Source: the local Bhāṣya and running source, Pradhan
-423|20–424|07, including the introductory `paramārthena`.
-The next discussion, beginning at 424|08 and quoting
-VAK 7.47 at 424|09, concerns the three prātihāryas.
 
 ## 6. Philosophical Translation
 

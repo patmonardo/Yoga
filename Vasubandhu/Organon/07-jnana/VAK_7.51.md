@@ -19,21 +19,16 @@ The Sanskrit follows the local kārikā witness, retaining
 be resolved through the Bhāṣya: the restriction applies
 to someone other than the Teacher.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sva-bhūmikena | nirmāṇam | bhāṣaṇam | tu | adhareṇa | ca |
-nirmātrā | eva | saha | a-śāstuḥ |
-adhiṣṭhāya | anya-varttanāt
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `svabhūmikena` | instrumental singular neuter adjective here | by a mind belonging to the manifestation's own ground |
+| `svabhūmikena` | instrumental singular neuter adjective here | by a consciousness belonging to the manifestation's own ground |
 | `nirmāṇam` | nominative singular neuter here | construction |
 | `bhāṣaṇam` | nominative singular neuter here | speaking or causing speech |
 | `tu` | contrastive particle | however |
-| `adhareṇa` | instrumental singular neuter adjective here | by a lower-ground mind |
+| `adhareṇa` | instrumental singular neuter adjective here | by a lower-ground consciousness |
 | `ca` | additive particle | also, including same-ground causation |
 | `nirmātrā` | instrumental singular of `nirmātṛ` | with the constructor |
 | `eva` | restrictive particle | only |
@@ -51,18 +46,18 @@ prose-controlled reading.
 ## 4. Grammar
 
 **Same ground as the product.** `Svabhūmikena` supplies
-`nirmāṇacittena`, “by a construction-mind.” The prose
+`nirmāṇacittena`, “by a construction-consciousness.” The prose
 excludes constructing a manifestation of one ground
-with a construction-mind of another ground. The reference
+with a construction-consciousness of another ground. The reference
 of “own” is therefore the constructed manifestation,
 not simply the producer's highest attained dhyāna.
 
 **Speech is separately qualified.** `Bhāṣaṇam` introduces
 a different operation. The Bhāṣya explicitly explains
 `ca` as including `svabhūmikena`: speech may be caused
-by a same-ground mind as well as by a lower-ground one.
-The prose then restricts which cases take which mind;
-it does not allow any arbitrarily lower mind.
+by a same-ground consciousness as well as by a lower-ground one.
+The prose then restricts which cases take which consciousness;
+it does not allow any arbitrarily lower consciousness.
 
 **The non-Teacher restriction.** `Nirmātrā eva saha`
 means “only together with the constructor.” `Aśāstuḥ`
@@ -78,12 +73,12 @@ with the wish that it remain, then initiate speech
 with another mind.
 
 This answers an objection about the absence of construction-
-mind when speech-mind occurs. It does not assert that
+consciousness when speech-consciousness occurs. It does not assert that
 the two minds are simultaneously current.
 
 **Close construe.** Construction [is effected] by a
-same-ground construction-mind; speech, however, also
-by a lower-ground mind. For one other than the Teacher,
+same-ground construction-consciousness; speech, however, also
+by a lower-ground consciousness. For one other than the Teacher,
 [the manifestation speaks] only with the constructor.
 [Speech remains possible] because, after sustaining
 [the construction], another mind operates.
@@ -92,37 +87,17 @@ by a lower-ground mind. For one other than the Teacher,
 
 ### Literal Translation
 
-> Construction is by a mind of its own ground; speech,
-> however, also by a lower one. For one other than the
-> Teacher, it speaks only together with the constructor.
-> Having sustained it, another mind operates, explaining
-> how speech is possible.
-
-The final sentence expands the compressed causal phrase
-through the prose question it answers.
+> Construction is by a mind of its own ground; speech, however, also by a lower
+> one. For one other than the Teacher, it speaks only together with the
+> constructor. Having sustained it, another mind operates.
 
 ### Bhāṣya-informed study translation
 
-> A manifestation is constructed by a construction-mind
-> of the same ground. A desire-domain or first-dhyāna
-> manifestation is made to speak by a mind of its own
-> ground; one of a higher ground is made to speak by
-> a first-dhyāna mind, because the initiator of manifest
-> expression is absent above that level.
->
-> For someone other than a Buddha, the constructed
-> manifestations speak with the constructor; if there
-> are many, they speak simultaneously. A Buddha's
-> manifestations may speak before or after, as he wishes.
->
-> Speech does not require the construction-mind to remain
-> current: the construction is sustained with the intention
-> that it persist, and speech is initiated with another mind.
+> A construction is produced by a construction-consciousness of its own ground;
+> speech, however, may also be produced by a lower-ground consciousness. For
+> one other than the Teacher, [a manifestation speaks] only with its
+> constructor. Once it is sustained, another mind initiates speech.
 
-Source: Pradhan 427|05–428|01, local Bhāṣya checked
-against the running source. The next question, whether
-sustaining determination continues after death, opens
-the discussion of VAK 7.52.
 
 ## 6. Philosophical Translation
 
@@ -143,16 +118,16 @@ the same time as their constructor.
 **`Svabhūmika`.** Belonging to the same ground. In the
 construction rule the comparison is immediate producing
 mind to product. This differs from VAK 7.50's comparison
-of source dhyāna to resulting construction-mind.
+of source dhyāna to resulting construction-consciousness.
 
 **`Bhāṣaṇa`.** Speech or making speak. The operation
 has its own cognitive ground conditions. Its separation
 from construction prevents attributing all functions
-of a manifestation to one undifferentiated producing mind.
+of a manifestation to one undifferentiated producing consciousness.
 
 **`Vijñaptisamutthāpaka`.** Initiator of manifest expression.
 In this context its absence above the first dhyāna explains
-the lower-ground mind needed for speech. “No speech
+the lower-ground consciousness needed for speech. “No speech
 initiator at that ground” is not the same claim as
 “no higher-ground manifestation can speak.”
 
@@ -186,7 +161,7 @@ It does not say “with another person's mind.”
 
 **Construction and speech have different ground rules.**
 
-| Manifestation's ground | Construction-mind ground | Speech-producing mind ground |
+| Manifestation's ground | construction-consciousness ground | Speech-producing consciousness ground |
 |---|---|---|
 | Desire domain | Desire domain | Desire domain |
 | First dhyāna | First dhyāna | First dhyāna |
@@ -195,9 +170,9 @@ It does not say “with another person's mind.”
 | Fourth dhyāna | Fourth dhyāna | First dhyāna |
 
 A higher source dhyāna can yield lower-ground construction-
-minds under VAK 7.50. That does not conflict with this
-table: the resulting mind must match its product's ground.
-The source attainment, immediate producing mind, and
+consciousnesses under VAK 7.50. That does not conflict with this
+table: the resulting consciousness must match its product's ground.
+The source attainment, immediate producing consciousness, and
 constructed manifestation are three distinct coordinates.
 
 **Temporal coordination.**
@@ -215,7 +190,7 @@ specifies the Buddha's different temporal control.
 speech is prohibited for a Buddha.
 
 **Objection and response.** The objection reasons that
-when speech-mind is present construction-mind is absent,
+when speech-mind is present construction-consciousness is absent,
 and from that absence proposes the absence of the
 constructed manifestation. The response rejects this
 second inference through sustaining determination.
@@ -225,7 +200,7 @@ Construct the manifestation
     → sustain it with the intention that it remain
     → initiate speech with another mind
 
-Construction-mind no longer current
+construction-consciousness no longer current
     does not by itself entail
 Manifestation no longer present
 ```
@@ -243,7 +218,7 @@ the producer's operations and the sustained manifestation.
 
 ## 9. Interpretive Note
 
-**Correction of the first pass.** The research kārikā's
+**Correction of the earlier draft.** The research kārikā's
 padaccheda drops the negative in `aśāstuḥ`, and its
 philosophical translation assigns exclusive synchronized
 speech to the Teacher. The Bhāṣya explicitly establishes
@@ -288,7 +263,7 @@ persistence. The next verse explicitly takes up further
 limits on persistence.
 
 **Review status.** Provisional, Bhāṣya-controlled study.
-The product–mind ground match, distinct speech rule,
+The product–consciousness ground match, distinct speech rule,
 negative non-Teacher scope, timing contrast, and sustaining
 reply have been checked against the local extract and
 running source. Persistence after death remains the
@@ -298,7 +273,7 @@ next verse's question.
 
 ```text
 Class: ConstructedManifestation
-Class: ConstructionMind
+Class: ConstructionConsciousness
 Class: SpeechProducingMind
 Class: SustainingDetermination
 Class: Constructor
@@ -310,7 +285,7 @@ ObjectProperty: belongsToGround
 ObjectProperty: hasSpeechTimingRelation
 
 ConstructionRule:
-    requiredGroundRelation: ProductEqualsConstructionMind
+    requiredGroundRelation: ProductEqualsConstructionConsciousness
 
 SpeechRule:
     DesireProduct: DesireMind
@@ -328,7 +303,7 @@ SustainingSequence:
     EstablishManifestationToRemain
     InitiateSpeechWithAnotherMind
 
-ProjectConstraint: Source dhyana differs from immediate producing mind.
+ProjectConstraint: Source dhyana differs from immediate producing consciousness.
 ProjectConstraint: Construction and speech have different ground conditions.
 ProjectConstraint: Preserve the negative in a-sastuh.
 ProjectConstraint: Timing independence does not establish autonomous cognition.

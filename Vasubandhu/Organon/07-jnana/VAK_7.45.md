@@ -19,14 +19,10 @@ The Sanskrit follows the local kārikā witness, including
 that witness rather than imposing continuous external sandhi.
 The Devanāgarī renders the same reading.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-avyākṛte | śrotra-cakṣus-abhijñe | itarāḥ | śubhāḥ |
-tisraḥ | vidyāḥ | avidyāyāḥ | pūrva-anta-ādau | nivarttanāt
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `avyākṛte` | nominative dual feminine adjective | ethically indeterminate [the two higher knowledges] |
 | `śrotracakṣurabhijñe` | nominative dual feminine compound | higher knowledges of hearing and sight |
@@ -55,7 +51,7 @@ changing membership.
 **The remaining four.** `Itarāḥ śubhāḥ` supplies
 `abhijñāḥ` from context. The prose explicitly says
 `anyāś catasraḥ kuśalāḥ`: extraordinary efficacy,
-other-mind knowledge, former-abode recollection, and
+knowledge of another's consciousness, former-abode recollection, and
 influx-exhaustion knowledge are wholesome.
 
 **Three receive another classification.** `Tisro vidyāḥ`
@@ -82,31 +78,18 @@ concerning the prior limit and the remaining specified fields.
 
 ### Literal Translation
 
-> The higher knowledges of hearing and sight are ethically
-> indeterminate; the others are wholesome. Three are vidyās
-> because they turn back ignorance concerning the prior
-> limit and the rest.
+> The higher knowledges of hearing and sight are ethically indeterminate; the
+> others are wholesome. Three are vidyās because they turn back ignorance
+> concerning the prior limit and the rest.
 
 ### Bhāṣya-informed study translation
 
-> Divine hearing and divine sight are ethically indeterminate;
-> their discriminative knowing is associated with auditory
-> and visual consciousness respectively. The other four
-> higher knowledges are wholesome.
->
-> Direct cognitive realizations concerning former abodes,
-> death and rebirth, and exhaustion of the influxes are
-> called the three vidyās of one beyond training. They
-> receive this designation because they respectively
-> dispel delusion concerning the prior limit, the future
-> limit, and the middle.
+> Divine hearing and divine sight are ethically indeterminate; the other four
+> [higher knowledges] are wholesome. Three [knowledges—former-abode
+> recollection, death-and-rebirth, and influx-exhaustion—] are vidyās because
+> they dispel ignorance concerning the prior limit, the future limit, and the
+> middle, respectively.
 
-Source: Pradhan 423|10–423|20 in the local Bhāṣya and
-running source. “Middle” is provisionally understood as
-the present, between past and future; the source here
-names it without a longer explanation. The qualification
-of “beyond training” begins with VAK 7.46 and is reserved
-for that study.
 
 ## 6. Philosophical Translation
 
@@ -136,10 +119,10 @@ to explain the verse's `śubha`. The classification applies
 to the four named higher knowledges, not to every act
 performed by someone who possesses such a capacity.
 
-**`Vijñānasaṃprayuktaprajñā`.** Discriminative knowing
-associated with consciousness. The two indeterminate
-higher knowledges are prajñā associated with visual or
-auditory consciousness. The source identifies a cognitive
+**`Vijñānasaṃprayuktaprajñā`.** Discriminative comprehension
+associated with Cognition. The two indeterminate
+higher knowledges are discriminative comprehension associated with visual or
+auditory Cognition. The source identifies a cognitive
 constitution; it does not derive neutrality merely from
 having material objects.
 
@@ -147,7 +130,7 @@ having material objects.
 assignment is explained through the eye and ear faculties
 that support the respective cognitions. A statement about
 the ground of the basis must not be transferred without
-qualification to the associated sensory consciousness.
+qualification to the associated sensory Cognition.
 
 **`Ānantaryamārga`.** Uninterrupted path. This supplies
 the alternative basis for the four-dhyāna designation.
@@ -157,7 +140,7 @@ for any mental event that happened immediately before.
 **`Pradhānika / vāhulika`.** Stated according to the
 principal or predominant case. These explain why a general
 Abhidharma definition may call higher knowledge wholesome
-prajñā although two of its six members are indeterminate.
+discriminative comprehension although two of its six members are indeterminate.
 The transmitted `vāhulika` is retained as the witness form.
 
 **`Vidyā`.** Knowledge named through its removal of a
@@ -181,7 +164,7 @@ object of the corresponding higher knowledge.
 |---|---|---|
 | Extraordinary efficacy | Wholesome | No |
 | Divine hearing | Indeterminate | No |
-| Other mind | Wholesome | No |
+| Knowledge of another's consciousness | Wholesome | No |
 | Former-abode recollection | Wholesome | Yes |
 | Divine sight / death and rebirth | Indeterminate | Yes |
 | Influx-exhaustion | Wholesome | Yes |
@@ -193,7 +176,7 @@ The bearer qualification introduced in prose requires
 the following verse's further distinction.
 
 **First objection: the four dhyānas.** The Bhāṣya identifies
-the eye and ear higher knowledges with prajñā associated
+the eye and ear higher knowledges with discriminative comprehension associated
 with the corresponding sensory consciousnesses. It then
 asks how their assignment to four dhyānas is established.
 
@@ -210,11 +193,11 @@ Four-dhyāna designation:
     explanation B: according to uninterrupted path
 
 Do not infer:
-    every associated sensory consciousness belongs to all four dhyānas
+    every associated sensory Cognition belongs to all four dhyānas
 ```
 
-**Second objection: wholesome prajñā.** An Abhidharma
-formulation defines higher knowledge as wholesome prajñā.
+**Second objection: wholesome discriminative comprehension.** An Abhidharma
+formulation defines higher knowledge as wholesome discriminative comprehension.
 The objection presses that formulation against the two
 indeterminate members. Vasubandhu answers that the definition
 states the principal or predominant case. He does not
@@ -248,7 +231,7 @@ brief prose sentence explicitly states.
 research kārikā explains indeterminacy through the uses
 to which a perceptual instrument can be put. That can
 serve as a project analogy, but the Bhāṣya's local account
-identifies prajñā conjoined with eye and ear consciousness.
+identifies discriminative comprehension conjoined with eye and ear Cognition.
 The ethical classification of the cognition and the
 ethical evaluation of a larger undertaking are different
 questions.
@@ -271,7 +254,7 @@ The running source and local extract preserve `vāhuliko`
 and the doubled consonant in `nivarttanāt`. These readings
 are left visible. The quoted definition's `prajñe` occurs
 before the closing quotation particle; its function is
-clear from the definition of wholesome prajñā. No revision
+clear from the definition of wholesome discriminative comprehension. No revision
 of the underlying witnesses is made.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
@@ -323,15 +306,15 @@ ObjectProperty: dispelsDelusionConcerning
 
 DivineHearing:
     ethicalClass: Indeterminate
-    constitution: PrajnaAssociatedWithAuditoryConsciousness
+    constitution: DiscriminativeComprehensionAssociatedWithAuditoryCognition
 
 DivineSight:
     ethicalClass: Indeterminate
-    constitution: PrajnaAssociatedWithVisualConsciousness
+    constitution: DiscriminativeComprehensionAssociatedWithVisualCognition
 
 WholesomeHigherKnowledges:
     ExtraordinaryEfficacy
-    OtherMind
+    KnowledgeOfAnotherConsciousness
     FormerAbodeRecollection
     InfluxExhaustion
 
@@ -344,12 +327,12 @@ ThreeVidyaCorrespondences:
     DeathAndRebirth: FutureLimitDelusion
     InfluxExhaustion: MiddleDelusion
 
-GeneralWholesomePrajnaDefinition:
+GeneralWholesomeDiscriminativeComprehensionDefinition:
     scope: PrincipalOrPredominantCase
 
 ProjectConstraint: Ethical class and vidya designation are distinct.
 ProjectConstraint: Divine sight belongs to both relevant classifications.
-ProjectConstraint: Ground of basis is not automatically ground of consciousness.
+ProjectConstraint: Ground of basis is not automatically ground of Cognition.
 ProjectConstraint: Preserve the explicit past-future-middle mapping.
 ProjectConstraint: Beyond-training qualification is continued in VAK 7.46.
 ```

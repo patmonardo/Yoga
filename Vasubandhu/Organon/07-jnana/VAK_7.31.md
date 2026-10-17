@@ -19,22 +19,18 @@ boundless mental power of VAK 7.30, the commentary explicitly
 turns to bodily strength. The shared word `bala` does not
 make bodily strength an additional knowledge-power.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-nārāyaṇa-balam | kāye | saṃdhiṣu | anye | daśa-adhikam |
-hasti-ādi-saptaka-balam | spraṣṭavya-āyatanam | ca | tat
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `nārāyaṇabalam` | nominative singular neuter compound | Nārāyaṇa-strength |
+| `nārāyaṇa-balam` | nominative singular neuter compound | Nārāyaṇa-strength |
 | `kāye` | locative singular masculine | in the body |
 | `saṃdhiṣu` | locative plural masculine | in the joints |
 | `anye` | nominative plural masculine | others [say] |
-| `daśādhikam` | nominative singular neuter adjective | greater by a factor of ten, as glossed |
-| `hastyādisaptakabalam` | nominative singular neuter compound | strength of the sevenfold series beginning with the elephant |
-| `spraṣṭavyāyatanam` | nominative singular neuter compound | the tangible Essence |
+| `daśa-adhikam` | nominative singular neuter adjective | greater by a factor of ten, as glossed |
+| `hasti-ādi-saptaka-balam` | nominative singular neuter compound | strength of the sevenfold series beginning with the elephant |
+| `spraṣṭavya-āyatanam` | nominative singular neuter compound | the tangible Essence |
 | `ca` | particle | also, and |
 | `tat` | nominative singular neuter pronoun | that bodily strength |
 
@@ -82,27 +78,13 @@ Essence.
 
 ### Bhāṣya-informed study translation
 
-> The Buddha's bodily strength is described as Nārāyaṇa-
-> strength. Some locate that strength in every joint.
-> Bhadanta instead says his bodily strength is boundless
-> like his mental strength, arguing that otherwise the
-> body could not sustain boundless knowledge-power.
->
-> The measure of Nārāyaṇa-strength is explained through
-> a seven-member series beginning with ordinary elephant-
-> strength and increasing tenfold at each grade. A different
-> reckoning is also recorded; the commentary finds the
-> larger measure more fitting.
->
-> Bodily strength, in everyone, belongs to the tangible
-> Essence. The principal account identifies it as a
-> special determination of the great elements. Others
-> regard it as derived form, distinct from the seven
-> [derived tangibles].
+> The Buddha's strength is Nārāyaṇa-strength in the body; others say it is in
+> the joints. The strength of the seven beginning with the elephant increases
+> tenfold; that strength is the tangible Essence.
 
-Source: Pradhan 413|04–413|19. The comparisons and their
-textual limits are detailed below; their traditional
-magnitudes are not modern measurements of force.
+The Bhāṣya reads the elephant series as successive tenfold grades and identifies
+bodily strength as a determination of the Tangible Essence; its competing
+accounts remain in the analysis.
 
 ## 6. Philosophical Translation
 
@@ -115,7 +97,7 @@ magnitudes are not modern measurements of force.
 > as an identity of cognition and material strength.
 
 The common classification survives the disagreement:
-both the great-element and derived-form accounts treat
+both the great-element and derived-Form accounts treat
 strength materially. The claim of boundlessness is a
 separate issue from that classification.
 
@@ -190,7 +172,7 @@ every detail of that reading.
 | Unlimited magnitude | Bhadanta: bodily strength boundless like mental strength |
 | Comparative magnitude | Principal series and alternative reckoning |
 | Material constitution | Principal account: great-element determination |
-| Alternative constitution | Others: distinct derived form |
+| Alternative constitution | Others: distinct derived Form |
 
 Bhadanta's reason is that otherwise the bodily support
 would not sustain boundless knowledge-power. It is an
@@ -237,7 +219,7 @@ knowledge to infinite mechanical force.
 
 The principal material account is equally significant.
 Strength is a determination of the great elements; the
-alternative treats it as derived form. Technē therefore
+alternative treats it as derived Form. Technē therefore
 needs a determinate account of bodily capacity, rather
 than treating every use of `bala` as the same kind of
 power. The word acquires its meaning through the domain

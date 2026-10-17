@@ -18,14 +18,9 @@ The verse follows the local kārikā witness. The Devanāgarī
 renders that reading. The prose contains damaged expressions;
 these are identified below without changing the textual witness.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-catasraḥ | saṃvṛti-jñānam | cetasi | jñāna-pañcakam |
-kṣaya-abhijñā | balam | yadvat | pañca | dhyāna-catuṣṭaye
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `catasraḥ` | nominative plural feminine numeral | four [higher knowledges] |
 | `saṃvṛtijñānam` | nominative singular neuter compound | conventional knowledge |
@@ -86,17 +81,12 @@ just as the [corresponding] power. Five [are] in the four dhyānas.
 
 ### Bhāṣya-informed study translation
 
-> Extraordinary efficacy, divine hearing, former-abode
-> recollection, and death-and-rebirth knowledge are
-> conventional knowledge. Other-mind higher knowledge
-> comprises five categories: dharma, anvaya, path,
-> conventional, and other-mind knowledge.
->
-> Influx-exhaustion higher knowledge is understood as
-> the corresponding Buddha-power was explained: six or
-> ten knowledge-categories, with its supporting levels
-> likewise understood from that account. The other five
-> higher knowledges have the four dhyānas as their grounds.
+> Four higher knowledges—extraordinary efficacy, divine hearing, former-
+> abode recollection, and death-and-reappearance—have conventional knowledge
+> as their nature. Other-mind higher knowledge comprises five knowledge
+> categories: dharma, anvaya, Path, conventional, and other-mind knowledge.
+> Influx-exhaustion higher knowledge is as the corresponding power; the
+> other five are supported on the four dhyānas.
 
 Source: the local Bhāṣya witness, Pradhan 421|13–422|14.
 The cross-reference is controlled by the studies of
@@ -178,7 +168,7 @@ it with the usual basis in one's own continuum.
 | Influx-exhaustion | Six or ten, as previously distinguished | As in the corresponding power |
 
 The last supporting-ground entry refers to the all-level
-account of VAK 7.30. Its aggregate range must not become
+account of VAK 7.30. Its span across knowledge categories must not become
 an assertion that each individual knowledge-category is
 available at every level.
 

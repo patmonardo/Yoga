@@ -20,14 +20,9 @@ has singular araṇā as its subject, including `asyā ālambanam`.
 The expected agreeing feminine singular would be `gocarā`;
 the discrepancy is recorded rather than silently corrected.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-saṃvṛti-jñānam | araṇā | dhyāne | antye | akopya-dharmaṇaḥ |
-nṛ-jā | anutpanna-kāma-āpta-savastuka-kleśa-gocarāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `saṃvṛtijñānam` | nominative singular neuter | conventional knowledge |
 | `araṇā` | nominative singular feminine | freedom from conflict |
@@ -84,22 +79,9 @@ connected with determinate objects as its field.
 
 ### Bhāṣya-informed study translation
 
-> A certain arhat, knowing that beings suffer through
-> afflictions and recognizing himself as an especially
-> worthy recipient of offerings, seeks to avoid afflictions
-> arising in others with himself as their object. He
-> produces the knowledge through which he does not occasion
-> such conflict: attachment, hatred, or pride toward him.
-> This course is therefore called araṇā, freedom from conflict.
->
-> It is conventional knowledge, supported in the fourth
-> dhyāna, and belongs to an immovable arhat. It arises
-> among humans in three continents. Its objects are future
-> desire-domain afflictions connected with determinate
-> objects. The contrasting avastuka afflictions cannot
-> be avoided through this undertaking, because universally
-> operative afflictions take the whole of their own level
-> as their object.
+> Araṇā is conventional knowledge, grounded in the final dhyāna, of an
+> immovable arhat. It arises among humans and has unarisen desire-domain
+> afflictions connected with determinate objects as its field.
 
 Source: Pradhan 417|02–417|18. The introduction overlaps
 the bounded preview in VAK 7.35; the present study gives

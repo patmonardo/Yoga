@@ -19,15 +19,10 @@ its separation `samādhiḥ gamanam`. The Bhāṣya file's
 anchor instead applies external sandhi, `samādhir gamanam`.
 The Devanāgarī renders the kārikā-file reading.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ṛddhiḥ | samādhiḥ | gamanam | nirmāṇam | ca |
-gatiḥ | tridhā | śāstuḥ | manojavā |
-anyeṣām | vāhinī | api | ādhimokṣikī
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ṛddhiḥ` | nominative singular feminine | extraordinary efficacy or accomplishment |
 | `samādhiḥ` | nominative singular masculine | concentration; the means of accomplishment in this account |
@@ -93,31 +88,16 @@ have body-conveying and also resolve-based movement.
 
 ### Literal Translation
 
-> Ṛddhi is concentration; movement and construction
-> [are accomplished through it]. Movement is threefold.
-> The Teacher has mind-swift movement; others have
+> Ṛddhi is concentration; movement and construction [are accomplished through
+> it]. Movement is threefold. The Teacher has mind-swift movement; others have
 > body-conveying and also resolve-based movement.
 
 ### Bhāṣya-informed study translation
 
-> According to the Vaibhāṣika account, ṛddhi is the
-> concentration by which movement and construction are
-> accomplished. Movement has three modes: conveying
-> the body, movement through resolve, and movement
-> swift as mind.
->
-> Mind-swift movement belongs only to a Buddha: even
-> a very distant place is reached within the time of
-> an arising of mind. The other two modes also belong
-> to him. Śrāvakas and pratyekabuddhas have body-conveying
-> movement, which carries the body successively like
-> a bird, and resolve-based movement, which travels
-> swiftly by determining the distant as near.
+> According to the Vaibhāṣika account, ṛddhi is samādhi, through which going
+> and construction are accomplished. Movement is threefold: the Teacher's is
+> swift as mind; others' is body-conveying and resolve-based.
 
-Source: Pradhan 425|04–425|17, local Bhāṣya checked
-against the running source. The prose then introduces
-construction as desire-domain or form-domain at 425|17–18;
-its detailed analysis belongs to VAK 7.49.
 
 ## 6. Philosophical Translation
 

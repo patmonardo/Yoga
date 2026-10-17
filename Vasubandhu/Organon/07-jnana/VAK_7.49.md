@@ -1,4 +1,4 @@
-# VAK_7.49 — Constructed Manifestations and Their Producing Minds
+# VAK_7.49 — Constructed Manifestations and Their Producing Consciousnesses
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -16,29 +16,25 @@ rūpāptaṃ dve tu nirmāṇacittaistāni caturdaśa || 7.49 ||
 
 The Sanskrit follows the local kārikā witness. The
 Devanāgarī renders that reading. The final pāda changes
-from the instrumental naming of the producing minds to
+from the instrumental naming of the producing consciousnesses to
 a statement of their number; the prose controls this
 compressed construction.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kāma-āptam | nirmitam | bāhyam | catur-āyatanam | dvidhā |
-rūpa-āptam | dve | tu | nirmāṇa-cittaiḥ | tāni | caturdaśa
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kāmāptam` | nominative singular neuter compound adjective here | belonging to the desire domain |
 | `nirmitam` | nominative singular neuter participle used substantivally | what is constructed; a constructed manifestation |
 | `bāhyam` | nominative singular neuter adjective | external, belonging to the object-side Essences |
-| `caturāyatanam` | nominative singular neuter compound adjective | consisting of four āyatanas |
+| `caturāyatanam` | nominative singular neuter compound adjective | consisting of four Essences |
 | `dvidhā` | adverb | twofold |
 | `rūpāptam` | nominative singular neuter compound adjective | belonging to the form domain |
-| `dve` | nominative dual neuter numeral here | two [āyatanas] |
+| `dve` | nominative dual neuter numeral here | two [Essences] |
 | `tu` | contrastive particle | however |
-| `nirmāṇacittaiḥ` | instrumental plural neuter | by construction-minds |
-| `tāni` | nominative plural neuter here | those [construction-minds] |
+| `nirmāṇacittaiḥ` | instrumental plural neuter | by construction-consciousnesses |
+| `tāni` | nominative plural neuter here | those [construction-consciousnesses] |
 | `caturdaśa` | numeral | fourteen |
 
 `Kāma + āpta` yields `kāmāpta`; `rūpa + āpta` yields
@@ -51,13 +47,13 @@ through desire” would miss their contextual determination.
 
 **The constructed product.** `Nirmitam` is the subject
 of the opening nominal predicates. It is external and
-four-āyatana in constitution when belonging to the desire
+four-Essence in constitution when belonging to the desire
 domain. This identifies the product's domain; it does
 not yet identify the birthplace of its producer.
 
 **Two different uses of two.** `Dvidhā` divides the
 construction by relation to one's own body or another
-body, as the prose specifies. `Dve` counts the āyatanas
+body, as the prose specifies. `Dve` counts the Essences
 of form-domain construction. The twofold body relation
 is also applied to that construction in the prose.
 These are different classifications, not repeated counts
@@ -66,49 +62,37 @@ of the same distinction.
 **The instrumental cause.** `Nirmāṇacittaiḥ` answers
 how the manifestations are produced. The prose first
 asks whether the higher knowledge itself constructs
-them and answers no: its results do. Construction-minds
+them and answers no: its results do: the construction-consciousnesses
 are those resulting cognitions.
 
 **The fourteen.** `Tāni caturdaśa` shifts to the producing
-minds as subject, with `nirmāṇacittāni` understood. The
+consciousnesses as subject, with `nirmāṇacittāni` understood. The
 following prose explicitly repeats “those fourteen
-construction-minds.” It therefore does not count fourteen
-constructed objects or fourteen āyatanas.
+construction-consciousnesses.” It therefore does not count fourteen
+constructed objects or fourteen Essences.
 
 **Close construe.** A desire-domain constructed manifestation
-is external, constituted by four āyatanas, and twofold.
+is external, constituted by four Essences, and twofold.
 A form-domain one, however, [consists of] two. [The
-manifestations are produced] by construction-minds;
-those [minds] are fourteen.
+manifestations are produced] by construction-consciousnesses;
+those [consciousnesses] are fourteen.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> A desire-domain constructed manifestation is external,
-> consists of four Essences, and is twofold. A form-
-> domain one, however, consists of two. They are produced
-> by construction-minds; those minds are fourteen.
+> A desire-domain constructed manifestation is external, consists of four
+> Essences, and is twofold. A form-domain one, however, consists of two. They
+> are produced by construction-consciousnesses; those consciousnesses are
+> fourteen.
 
 ### Bhāṣya-informed study translation
 
-> A desire-domain construction consists of four external
-> Essences: visible form, taste, smell, and the tangible.
-> It is connected either with one's own body or with
-> another body. A form-domain construction consists of
-> visible form and the tangible, since smell and taste
-> are absent there; it has the same twofold body relation.
->
-> The four combinations occur in the desire realm and
-> likewise in the form realm, giving eight in summary.
-> These manifestations are not constructed directly by
-> the higher knowledge itself, but by its resulting
-> construction-minds, which are fourteen.
+> A desire-domain construction is external and consists of four Essences; it is
+> twofold. A form-domain construction consists of two [Essences]. [The
+> constructions are produced] by construction-consciousnesses; those
+> [consciousnesses] are fourteen.
 
-Source: Pradhan 425|18–426|11, local Bhāṣya checked
-against the running source. The detailed two-through-five
-distribution by dhyāna begins with the words of VAK 7.50
-at 426|12 and is reserved for the next study.
 
 ## 6. Philosophical Translation
 
@@ -120,7 +104,7 @@ at 426|12 and is reserved for the next study.
 > distinguished from the higher knowledge whose result it is.
 
 This preserves two relations: product to producer, and
-construction-mind to higher knowledge. Neither relation
+construction-consciousness to higher knowledge. Neither relation
 is an identity. The source does not reduce the external
 product to a mere description of the producer's mental state.
 
@@ -132,21 +116,21 @@ the noun in the prose can name construction or its result.
 Their contextual roles should be retained without imposing
 a rigid terminological distinction on every occurrence.
 
-**`Bāhya`.** External. Here the āyatana classification
+**`Bāhya`.** External. Here the Essence classification
 places the construction on the object side. The passage
 does not say that it constructs new sensory faculties
 in the recipient or producer.
 
 **`Caturāyatana`.** Constituted by four Essences:
-visible form, taste, smell, and the tangible. Sound is
+visible Form, taste, smell, and the tangible. Sound is
 not included in this constitution. This passage does
 not explain its omission through a theory that sound
 is an event while the other four are states.
 
 **`Rūpa`.** In `rūpāpta`, the form existential domain;
-in the āyatana enumeration, visible form. These related
+in the Essence enumeration, visible Form. These related
 uses must be distinguished: the form-domain product
-contains both visible form and the tangible.
+contains both visible Form and the tangible.
 
 **`Svaparaśarīrasaṃbaddha`.** Connected with one's own
 body or another body. This supplies the explicit content
@@ -160,12 +144,12 @@ domain manifestation. The reply denies that consequence.
 
 **`Abhijñāphala`.** Result of a higher knowledge. The
 instrumental plural in the prose identifies what directly
-produces the construction: the resulting construction-minds.
+produces the construction: the resulting construction-consciousnesses.
 
-**`Nirmāṇacitta`.** Construction-mind. A specialized
+**`Nirmāṇacitta`.** Construction-consciousness. A specialized
 cognitive result that produces the manifestation. The
-number fourteen concerns these minds under the systematic
-classification continued in VAK 7.50, not fourteen minds
+number fourteen concerns these consciousnesses under the systematic
+classification continued in VAK 7.50, not fourteen consciousnesses
 acting simultaneously in every construction.
 
 ## 8. Logical Determination
@@ -174,8 +158,8 @@ acting simultaneously in every construction.
 
 | Product domain | External Essences | Body relation |
 |---|---|---|
-| Desire | Visible form, taste, smell, tangible | Own body or another body |
-| Form | Visible form, tangible | Own body or another body |
+| Desire | Visible Form, taste, smell, tangible | Own body or another body |
+| Form | Visible Form, tangible | Own body or another body |
 
 The absence of smell and taste in the form domain explains
 the two-field constitution. The product's domain is not
@@ -213,7 +197,7 @@ can be described as belonging to someone in ordinary speech.
 
 An alternative introduced by `apare`, “others,” follows.
 Its transmitted expression concerning the number of
-āyatanas is corrupt. It is recorded as an alternative
+Essences is corrupt. It is recorded as an alternative
 without assigning it to an unnamed school or silently
 turning it into a fully restored proposition.
 
@@ -221,10 +205,10 @@ turning it into a fully restored proposition.
 
 ```text
 Higher knowledge
-    → its resulting construction-minds
+    → its resulting construction-consciousnesses
     → constructed manifestations
 
-Number of construction-minds: 14
+Number of construction-consciousnesses: 14
 Detailed distribution: VAK 7.50
 ```
 
@@ -237,7 +221,7 @@ the intervening cognitive results that perform it.
 
 **Source boundary.** The local Bhāṣya file includes the
 opening of VAK 7.50 and its explanation of the fourteen
-minds. This study establishes their number and causal
+construction-consciousnesses. This study establishes their number and causal
 role while reserving the next verse's distribution and
 rules for the next continuation. The file boundary is
 not used as the kārikā boundary.
@@ -247,13 +231,13 @@ eight” is insufficient without separating producer-realm,
 product-domain, and body relation. Likewise, a generic
 claim that powers construct objects loses the text's
 explicit denial that the abhijñā itself is the immediate
-constructor. The resulting construction-mind is essential
+constructor. The resulting construction-consciousness is essential
 to the account.
 
 **Witness caution.** Both the local extract and running
 source print `dvacyāyātanaṃ nirmiṇotītyapare`. The context
 indicates an alternative concerning the constructed
-āyatanas, but the exact reading remains unresolved.
+Essences, but the exact reading remains unresolved.
 The principal exposition and its clothes-and-ornaments
 reply are retained separately from that damaged alternative.
 No change is made to either witness.
@@ -264,8 +248,8 @@ and the distinctions among its domain, body relation,
 and producer. Yoga Technē, its kriyā–karma companion,
 concerns the effective cognitive means of construction.
 The two meet in a determinate causal relation: higher
-knowledge has resulting construction-minds, and those
-minds produce the manifestations.
+knowledge has resulting construction-consciousnesses, and those
+consciousnesses produce the manifestations.
 
 For Organon representation, this supports distinguishing
 a capacity from a specialized operation made available
@@ -274,7 +258,7 @@ the immediate producer. Likewise, a product's properties
 must not automatically become properties of its producer.
 
 These are structural project uses of the source account.
-They do not identify construction-minds with software
+They do not identify construction-consciousnesses with software
 objects or establish a modern physical mechanism for
 the manifestations. Their value lies in preserving the
 source's causal and classificatory distinctions.
@@ -282,16 +266,16 @@ source's causal and classificatory distinctions.
 **Review status.** Provisional, Bhāṣya-controlled study.
 The four- and two-field constitutions, body relations,
 eightfold summary, possession objection, distinction of
-higher knowledge from construction-minds, and fourteenfold
+higher knowledge from construction-consciousnesses, and fourteenfold
 count have been checked against the local extract and
-running source. The alternative āyatana reading remains
+running source. The alternative Essence reading remains
 marked for textual review.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: HigherKnowledge
-Class: ConstructionMind
+Class: ConstructionConsciousness
 Class: ConstructedManifestation
 Class: ProducerRealm
 Class: ProductDomain
@@ -305,9 +289,9 @@ ObjectProperty: hasBodyRelation
 ObjectProperty: producerBornIn
 
 HigherKnowledge:
-    cognitiveResults: ConstructionMinds
+    cognitiveResults: ConstructionConsciousnesss
 
-ConstructionMinds:
+ConstructionConsciousnesss:
     totalInClassification: 14
     role: ImmediateProductionOfManifestations
 
@@ -327,11 +311,11 @@ EightfoldSummary:
 ProjectConstraint: Producer realm differs from product domain.
 ProjectConstraint: Production does not entail possession of product qualities.
 ProjectConstraint: Higher knowledge is not the immediate constructor here.
-ProjectConstraint: Fourteen counts construction-minds, not products.
+ProjectConstraint: Fourteen counts construction-consciousnesses, not products.
 ProjectConstraint: Detailed dhyana distribution belongs to VAK 7.50.
 ProjectConstraint: Preserve the damaged alternative ayatana reading.
 ```
 
 This is a declarative project seed, not executable OWL.
 VAK 7.50 next determines the dhyāna distribution, acquisition,
-and immediate succession of construction-minds.
+and immediate succession of construction-consciousnesses.

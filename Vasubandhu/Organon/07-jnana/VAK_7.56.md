@@ -1,4 +1,4 @@
-# VAK_7.56 — Other-Mind Knowledge, Provenance, and Chapter Closure
+# VAK_7.56 — knowledge of another's consciousness, Provenance, and Chapter Closure
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -20,16 +20,12 @@ The Sanskrit follows the local kārikā witness, including
 birth-acquisition expressions with `upapatti`. These
 forms are distinguished rather than silently harmonized.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-cetaḥ-jñānam | tu | tat | tredhā | tarka-vidyā-kṛtam | ca | yat |
-jānate | nārakāḥ | ādau | nṛṇām | na | utpatti-labhikam
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `cetojñānam` | nominative singular neuter compound | knowledge of mind, specified as another's mind |
+| `cetojñānam` | nominative singular neuter compound | knowledge of consciousness, specified as knowledge of another's consciousness |
 | `tu` | contrastive particle | however |
 | `tat` | nominative singular neuter pronoun | that [birth-acquired knowledge] |
 | `tredhā` | adverb | threefold, here ethically |
@@ -50,10 +46,10 @@ forward `upapattyāptam`, “birth-acquired,” from VAK 7.55.
 ## 4. Grammar
 
 **The inherited qualification.** `Tat` resumes birth-
-acquired other-mind knowledge. `Tredhā` gives its threefold
+acquired knowledge of another's consciousness. `Tredhā` gives its threefold
 ethical status, expanded as wholesome, unwholesome,
 and indeterminate. It does not by itself enumerate
-three methods of knowing another mind.
+three methods of knowing another's consciousness.
 
 **Two additional routes.** `Tarkavidyākṛtaṃ ca yat`
 extends the same predicate to knowledge produced through
@@ -64,9 +60,9 @@ mandatory joint procedure of reasoning plus technique.
 
 **The knowing of hell-beings.** `Jānate nārakā ādau`
 is a finite clause. The prose supplies two instrumental
-means: birth-acquired other-mind knowledge and former-
-abode recollection. Limiting the clause to other-mind
-knowledge alone would omit half of its stated reference.
+means: birth-acquired knowledge of another's consciousness and former-
+abode recollection. Limiting the clause to knowledge of another's
+consciousness alone would omit half of its stated reference.
 
 **The human restriction.** `Nṛṇām` identifies the bearer
 class for whom birth-acquisition is denied. The prose
@@ -75,7 +71,7 @@ beginning with ṛddhi. It does not deny that humans can
 acquire such capacities through cultivation or that
 particular recollection can have another provenance.
 
-**Close construe.** That birth-acquired other-mind knowledge
+**Close construe.** That birth-acquired knowledge of another's consciousness
 is threefold, as is what is produced through inference
 or vidyā. Hell-beings know initially through the two
 birth-acquired capacities. For humans, the described
@@ -85,38 +81,18 @@ capacities are not acquired through birth.
 
 ### Literal Translation
 
-> That knowledge of another mind is threefold, as is
-> what is produced through inference or vidyā. Hell-beings
-> know at the beginning. For humans, it is not acquired
-> through birth.
+> That knowledge of another's consciousness is threefold, as is what is
+> produced through inference or vidyā. Hell-beings know at the beginning. For
+> humans, it is not acquired through birth.
 
 ### Bhāṣya-informed study translation
 
-> Birth-acquired knowledge of another mind may be wholesome,
-> unwholesome, or indeterminate. The inferential knowing
-> of interpreters of signs and knowing produced through
-> a vidyā technique have the same three ethical possibilities.
-> Cultivation-result other-mind knowledge, by contrast,
-> is wholesome only.
->
-> Hell-beings initially know through birth-acquired other-
-> mind knowledge and former-abode recollection, until
-> painful feeling overwhelms them. Those in other destinies
-> are not subject to that initial-only restriction in
-> the stated account.
->
-> Humans do not acquire the previously described capacities
-> beginning with ṛddhi merely through birth. Their apparently
-> natural recollection of former lives is explained instead
-> as produced by a special karma. Former-abode recollection
-> is therefore classified as cultivation-result, birth-
-> acquired, or karma-produced.
+> Birth-acquired knowledge of another's consciousness is threefold [wholesome,
+> unwholesome, or indeterminate], as is knowledge produced through inference or
+> vidyā. Hell-beings initially know through birth-acquired knowledge of
+> another's consciousness and former-abode recollection; the previously
+> described capacities are not acquired through birth by humans.
 
-Source: Pradhan 430|11–431|03, local Bhāṣya checked
-against the running source. The prose's `nityaṃ jānate`
-is treated with the immediate human qualification in
-view, not as universal possession by every being in
-every other destiny.
 
 ## 6. Philosophical Translation
 
@@ -134,8 +110,8 @@ mental access into cultivated higher knowledge.
 
 ## 7. Technical Vocabulary
 
-**`Cetojñāna / paracittajñāna`.** Knowledge of mind,
-expanded as knowledge of another mind. The broad object
+**`Cetojñāna / paracittajñāna`.** Knowledge of consciousness,
+expanded as knowledge of another's consciousness. The broad object
 description does not establish that all its listed forms
 have identical directness, range, or reliability.
 
@@ -154,9 +130,9 @@ technique or learned art. The term is not automatically
 the liberative vidyā designation examined in 7.45–7.46.
 
 **`Bhāvanāphala`.** Result of cultivation. In this sentence
-the subject is other-mind knowledge, which is wholesome
+the subject is knowledge of another's consciousness, which is wholesome
 only. VAK 7.53's indeterminate cultivation-result was
-a construction-mind. Their different subjects prevent
+a construction-consciousness. Their different subjects prevent
 contradiction between the two classifications.
 
 **`Duḥkhavedanābhyāhata`.** Struck or overwhelmed by
@@ -176,7 +152,7 @@ action or give a method of verifying such recollection.
 
 ## 8. Logical Determination
 
-**Other-mind knowledge by provenance.**
+**Knowledge of another's consciousness by provenance.**
 
 | Provenance or route | Ethical classification stated here |
 |---|---|
@@ -190,7 +166,7 @@ number of rows in this table, and it is not the threefold
 provenance of former-abode recollection given at the end.
 
 **Conditions of exercise.** The prose pairs birth-acquired
-other-mind knowledge with former-abode recollection.
+knowledge of another's consciousness with former-abode recollection.
 Hell-beings exercise them initially until overwhelmed
 by painful feeling. The following statement about other
 destinies removes that specific initial-only restriction,
@@ -240,7 +216,7 @@ explicit in the chapter's closing study.
 padaccheda supplies `tatra` where the verse has `tat`
 before `tredhā`. The prose controls the antecedent as
 birth-acquired knowledge. Likewise, “three modes of
-knowing mind” is too loose if it obscures that the
+knowing another's consciousness” is too loose if it obscures that the
 verse's threefold predicate initially means ethical
 classification rather than acquisition routes.
 
@@ -298,7 +274,7 @@ study sequence does not remove its provisional review status.
 ## 10. OWL++ Seed
 
 ```text
-Class: OtherMindKnowledge
+Class: KnowledgeOfAnotherConsciousness
 Class: FormerAbodeRecollection
 Class: AcquisitionProvenance
 Class: EthicalClass
@@ -309,21 +285,21 @@ ObjectProperty: permitsEthicalClass
 ObjectProperty: hasExerciseCondition
 ObjectProperty: interruptedBy
 
-BirthAcquiredOtherMindKnowledge:
+BirthAcquiredKnowledgeOfAnotherConsciousness:
     ethicalClasses: Wholesome, Unwholesome, Indeterminate
 
-InferentialOtherMindKnowledge:
+InferentialKnowledgeOfAnotherConsciousness:
     citedBearers: SignInterpreters
     ethicalClasses: Wholesome, Unwholesome, Indeterminate
 
-VidyaProducedOtherMindKnowledge:
+VidyaProducedKnowledgeOfAnotherConsciousness:
     ethicalClasses: Wholesome, Unwholesome, Indeterminate
 
-CultivationResultOtherMindKnowledge:
+CultivationResultKnowledgeOfAnotherConsciousness:
     ethicalClass: Wholesome
 
 HellBeingsInitialKnowing:
-    capacities: BirthAcquiredOtherMindKnowledge, BirthAcquiredFormerAbodeRecollection
+    capacities: BirthAcquiredKnowledgeOfAnotherConsciousness, BirthAcquiredFormerAbodeRecollection
     limitingCondition: OverwhelmingPainfulFeeling
 
 HumanNaturalFormerLifeRecollection:

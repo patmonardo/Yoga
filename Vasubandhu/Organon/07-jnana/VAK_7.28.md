@@ -19,25 +19,21 @@ space before `tu`. The final `nava`, “nine,” belongs to
 the construction continued in VAK 7.29. It does not revise
 the eightfold count immediately before it.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-aṣṭādaśa | āveṇikāḥ | tu | buddha-dharmāḥ | bala-ādayaḥ |
-sthāna-asthāne | daśa | jñānāni | aṣṭau | karma-phale | nava
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aṣṭādaśa` | numeral | eighteen |
 | `āveṇikāḥ` | nominative plural masculine | distinctive, unshared |
 | `tu` | particle | however, now |
-| `buddhadharmāḥ` | nominative plural masculine compound | qualities of a Buddha |
-| `balādayaḥ` | nominative plural masculine compound | beginning with the powers |
-| `sthānāsthāne` | locative singular collective compound in this construe | concerning possibility and impossibility |
+| `buddha-dharmāḥ` | nominative plural masculine compound | qualities of a Buddha |
+| `bala-ādayaḥ` | nominative plural masculine compound | beginning with the powers |
+| `sthāna-asthāne` | locative singular collective compound in this construe | concerning possibility and impossibility |
 | `daśa` | numeral | ten |
 | `jñānāni` | nominative plural neuter | knowledges |
 | `aṣṭau` | numeral | eight |
-| `karmaphale` | locative singular neuter compound | concerning the result of action |
+| `karma-phale` | locative singular neuter compound | concerning the result of action |
 | `nava` | numeral | nine [continued in the next verse] |
 
 `Aṣṭādaśa + āveṇikāḥ` yields `aṣṭādaśāveṇikāḥ`;
@@ -88,22 +84,11 @@ concerning karmic result, eight; nine [in the following fields].
 
 ### Bhāṣya-informed study translation
 
-> Eighteen qualities enter cultivation at the Blessed
-> Buddha's exhaustion-knowledge alone, not at another
-> practitioner's: ten powers, four fearlessnesses, three
-> establishments of mindfulness, and great compassion.
-> “Distinctive” means unshared.
->
-> Among the powers, the power of knowledge concerning
-> possibility and impossibility comprises all ten knowledge
-> categories. The power of knowledge concerning karmic
-> maturation comprises eight, excluding cessation-knowledge
-> and Path-knowledge. The count of nine begins the next
-> group, whose fields are stated in the following verse.
+> Eighteen are the unshared Buddha-qualities, beginning with the powers. For
+> possibility and impossibility, ten knowledges; for karmic maturation, eight;
+> and nine.
 
-Source: Pradhan 411|07–411|17. The bounded continuation
-at 411|18–20 confirms the attachment of `nava`; its full
-power-distribution belongs to VAK 7.29.
+The final count continues into the next verse.
 
 ## 6. Philosophical Translation
 

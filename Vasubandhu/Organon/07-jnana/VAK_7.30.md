@@ -21,22 +21,18 @@ former-abode knowledge and death-and-rebirth knowledge
 unambiguously. The introductory sentence announces the
 transition: constitution has been stated; level is now stated.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-prāk-nivāsa-cyuta-utpāda-balam | dhyāneṣu | śeṣitam |
-sarva-bhūmiṣu | kena | asya | balam | avyāhatam | yataḥ
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `prāṅnivāsa` | compound member with `prāk` | former abode / previous existence |
+| `prāk-nivāsa` | compound member with `prāk` | former abode / previous existence |
 | `cyuta` | substantival participial form in compound | passing away, glossed as `cyuti` |
 | `utpāda` | compound member | arising; here rebirth |
 | `balam` | nominative singular neuter | power, collectively covering the specified pair |
 | `dhyāneṣu` | locative plural masculine | in the dhyānas |
 | `śeṣitam` | nominative singular neuter adjective used substantivally | the remaining [power-group] |
-| `sarvabhūmiṣu` | locative plural feminine compound | in all levels |
+| `sarva-bhūmiṣu` | locative plural feminine compound | in all levels |
 | `kena` | instrumental singular interrogative | by what reason? why? |
 | `asya` | genitive singular pronoun | of him, in his case |
 | `avyāhatam` | nominative singular neuter adjective | unobstructed |
@@ -86,22 +82,12 @@ unobstructed.
 
 ### Bhāṣya-informed study translation
 
-> The powers of former-abode knowledge and death-and-rebirth
-> knowledge are supported by the four dhyānas. The other
-> eight powers range across eleven levels: the desire domain,
-> anāgamya, intermediate dhyāna, the four dhyānas, and the
-> four formless levels. All have a human support in Jambūdvīpa,
-> because, in this account, Buddhas do not arise elsewhere.
->
-> Why are these knowledges called powers for the Buddha,
-> while the corresponding knowledge categories in others
-> are not? His knowledge operates unobstructed throughout
-> the knowable field. Others' knowledge can fail to arise
-> somewhere even when they wish to know. Thus the Buddha's
-> mental power is boundless, like the knowable.
+> The powers of knowledge of former abodes and of passing away and arising are
+> in the dhyānas; the remainder is in all levels. Why is his power unobstructed
+> throughout all levels? Because his knowing operates without obstruction.
 
-Source: Pradhan 412|10–413|03. The final characterization
-concerns mental power; the next verse turns to bodily strength.
+The first compound refers to two powers, placed in the four dhyānas; the
+remaining eight range across eleven levels.
 
 ## 6. Philosophical Translation
 

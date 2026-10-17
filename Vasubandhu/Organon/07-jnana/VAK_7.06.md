@@ -174,7 +174,7 @@ strict Seeing; it is not a reason to count sixteen Seeing-moments.
 
 ## 9. Interpretive Note
 
-**Correction of the exploratory study.** The first-pass file treats
+**Correction of the earlier study.** The exploratory account treats
 `darśanakṣaṇau` as a reciprocal limitation between two moments. The
 Bhāṣya instead identifies them as the disciple's first two objects of
 knowledge. Its further distinction between occurring in Seeing and

@@ -1,4 +1,4 @@
-# VAK_7.53 — Construction-Mind Ethics and Five Sources of Ṛddhi
+# VAK_7.53 — Construction-Consciousness Ethics and Five Sources of Ṛddhi
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -19,20 +19,16 @@ Devanāgarī renders that reading. The running source's
 `upapatījam` differs from the kārikā file's `upapattijam`;
 the prose clearly determines acquisition through birth.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-avyākṛtam | bhāvanā-jam | trividham | tu | upapatti-jam |
-ṛddhiḥ | mantra-auṣadhābhyām | ca | karma-jā | ca | iti | pañcadhā
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `avyākṛtam` | nominative singular neuter adjective here | ethically indeterminate |
-| `bhāvanājam` | nominative singular neuter compound adjective | cultivation-produced [construction-mind] |
+| `bhāvanājam` | nominative singular neuter compound adjective | cultivation-produced [construction-consciousness] |
 | `trividham` | nominative singular neuter adjective | threefold in ethical classification |
 | `tu` | contrastive particle | however |
-| `upapattijam` | nominative singular neuter compound adjective | birth-produced or birth-acquired [construction-mind] |
+| `upapattijam` | nominative singular neuter compound adjective | birth-produced or birth-acquired [construction-consciousness] |
 | `ṛddhiḥ` | nominative singular feminine | extraordinary efficacy |
 | `mantrauṣadhābhyām` | instrumental dual compound | through mantra and medicinal means |
 | `ca` | additive conjunction | also; and |
@@ -48,7 +44,7 @@ it is not two separately transmitted dual forms.
 
 ## 4. Grammar
 
-**The initial subject is construction-mind.** The prose
+**The initial subject is construction-consciousness.** The prose
 asks whether every `nirmāṇacitta` is indeterminate.
 The neuter adjectives answer that question with the
 noun understood. They do not initially classify every
@@ -73,7 +69,7 @@ source. The prose separately enumerates `mantrajā` and
 `auṣadhajā`.
 
 **Close construe.** A cultivation-produced construction-
-mind is indeterminate; a birth-acquired one, however,
+consciousness is indeterminate; a birth-acquired one, however,
 is threefold. Ṛddhi also arises through mantra and
 medicinal means and is karma-produced: thus it is fivefold.
 
@@ -81,29 +77,17 @@ medicinal means and is karma-produced: thus it is fivefold.
 
 ### Literal Translation
 
-> The cultivation-produced construction-mind is ethically
-> indeterminate; the birth-produced one, however, is
-> threefold. Ṛddhi also arises through mantra and medicinal
-> means, and from karma: thus it is fivefold.
+> The cultivation-produced construction-consciousness is ethically
+> indeterminate; the birth-produced one, however, is threefold. Ṛddhi also
+> arises through mantra and medicinal means, and from karma: thus it is
+> fivefold.
 
 ### Bhāṣya-informed study translation
 
-> A construction-mind resulting from cultivation is
-> necessarily ethically indeterminate. A construction-
-> mind acquired through birth, as in devas, nāgas,
-> piśācas, and similar beings, may be wholesome,
-> unwholesome, or indeterminate.
->
-> Ṛddhi is described under five sources: cultivation,
-> acquisition through birth, mantra, medicinal means,
-> and karma. Māndhātṛ and beings in intermediate existence
-> are cited as examples of the karma-produced kind.
+> A construction-consciousness resulting from cultivation is ethically
+> indeterminate; one acquired through birth is threefold. Ṛddhi also arises
+> through mantra, medicinal means, and karma: thus it is fivefold.
 
-Source: Pradhan 428|12–429|03, local Bhāṣya checked
-against the running source. The intervening nine-āyatana
-statement and its explicit restriction on faculty construction
-are treated below because the explanatory wording is
-compressed and uncertain.
 
 ## 6. Philosophical Translation
 
@@ -117,14 +101,14 @@ compressed and uncertain.
 The account distinguishes causal origin from appearance
 and from ethical class. It does not provide a complete
 ethical table for all five sources; only the two initial
-construction-mind cases receive that classification here.
+construction-consciousness cases receive that classification here.
 
 ## 7. Technical Vocabulary
 
 **`Bhāvanāja / bhāvanāphala`.** Produced by cultivation
 or a result of cultivation. The prose's `avaśyam`,
 “necessarily,” strengthens the indeterminate classification
-of the construction-mind under discussion. It does not
+of the construction-consciousness under discussion. It does not
 make cultivation itself ethically indeterminate.
 
 **`Upapattipratilambhika`.** Acquired through birth or
@@ -138,7 +122,7 @@ good or bad.
 
 **`Kuśala / akuśala`.** Wholesome and unwholesome. Along
 with indeterminate, these constitute the birth-acquired
-construction-mind's threefold possibilities. They are
+construction-consciousness's threefold possibilities. They are
 alternatives in the classification, not three ethical
 qualities simultaneously possessed by each occurrence.
 
@@ -157,35 +141,35 @@ and intermediate-existence beings. It does not narrate
 their specific prior actions or explain here every
 relation between karmic causation and birth-acquisition.
 
-**`Navāyatanika`.** Nine-āyatana in the relevant bodily
+**`Navāyatanika`.** Nine-Essence in the relevant bodily
 construction account. The transmitted explanation requires
 further textual control before an exact inventory can
 be asserted without qualification.
 
 **`Na tv indriyaṃ nirmīyate`.** “A faculty itself, however,
 is not constructed.” This explicit restriction must
-remain visible when interpreting the nine-āyatana clause.
+remain visible when interpreting the nine-Essence clause.
 
 ## 8. Logical Determination
 
 **The immediate ethical question.**
 
-| Construction-mind provenance | Ethical classification given here |
+| construction-consciousness provenance | Ethical classification given here |
 |---|---|
 | Result of cultivation | Necessarily indeterminate |
 | Acquired through birth | Wholesome, unwholesome, or indeterminate |
 
 VAK 7.45 classified ṛddhi-abhijñā as wholesome. This
-verse classifies its cultivated construction-mind result
+verse classifies its cultivated construction-consciousness result
 as indeterminate. The distinction established in VAK 7.49
 prevents contradiction: higher knowledge and the resulting
-mind that performs construction are not the same cognition.
+consciousness that performs construction are not the same cognition.
 The ethical class of the former is not automatically
 transmitted to the latter.
 
 **The bodily construction qualification.** The prose
 next describes own-body and other-body construction
-produced by the birth-acquired mind as `navāyatanika`.
+produced by the birth-acquired consciousness as `navāyatanika`.
 It then expressly denies construction of an indriya.
 The scope differs from the cultivated constructions
 previously analyzed; their four- and two-field profiles
@@ -194,7 +178,7 @@ must not simply be replaced by nine everywhere.
 The explanatory string
 `aśabdarupyāyatanatvādindriyāvinirbhūtatvāt` is compressed
 and textually uncertain. A possible accounting involves
-the material āyatanas other than sound together with
+the material Essences other than sound together with
 their relation to already existing faculties, but the
 present witness does not justify silently inserting a
 clean nine-member list. The explicit no-faculty-construction
@@ -222,7 +206,7 @@ It distinguishes the sources under the present taxonomy
 without developing every background causal relation.
 
 ```text
-Question 1: Is every construction-mind indeterminate?
+Question 1: Is every construction-consciousness indeterminate?
     Cultivation-result: yes.
     Birth-acquired: three ethical possibilities.
 
@@ -238,7 +222,7 @@ reliability, or identical operation across all five sources.
 ## 9. Interpretive Note
 
 **Keep the subject change explicit.** The neuter first
-half concerns construction-mind; the feminine second
+half concerns construction-consciousness; the feminine second
 half concerns ṛddhi broadly. Treating the whole verse
 as a single ethical classification of all extraordinary
 powers loses this shift and the prior distinction between
@@ -247,7 +231,7 @@ capacity and cognitive result.
 **Witness cautions.** The running source has `upapatījam`,
 `samāstaḥ`, and `ṛddhhiṃ`. The prose nevertheless clearly
 specifies birth-acquisition and enumerates five sources.
-The nine-āyatana explanation remains a substantive textual
+The nine-Essence explanation remains a substantive textual
 question; it should not be dismissed as a harmless
 spelling defect. Both witnesses retain the decisive
 statement that the faculty itself is not constructed.
@@ -259,7 +243,7 @@ classifications warranted by it. Yoga Technē, its
 kriyā–karma companion, concerns the effective operation
 and the conditions through which it becomes available.
 The relation here requires more than observing a result:
-the resulting construction-mind has its own ethical
+the resulting construction-consciousness has its own ethical
 classification, distinct from that of its source capacity.
 
 For Organon representation, causal provenance is therefore
@@ -277,17 +261,17 @@ source categories or establish the claimed extraordinary
 effects as empirical facts.
 
 **Review status.** Provisional, Bhāṣya-controlled study.
-The initial construction-mind scope, ethical alternatives,
+The initial construction-consciousness scope, ethical alternatives,
 change to the fivefold ṛddhi taxonomy, separate mantra
 and medicinal entries, and karmic examples have been
 checked against the local extract and running source.
-The nine-āyatana explanation remains provisional under
+The nine-Essence explanation remains provisional under
 the explicit prohibition on constructing faculties.
 
 ## 10. OWL++ Seed
 
 ```text
-Class: ConstructionMind
+Class: ConstructionConsciousness
 Class: RddhiSource
 Class: EthicalClass
 Class: BodilyConstruction
@@ -297,10 +281,10 @@ ObjectProperty: hasEthicalClass
 ObjectProperty: permitsEthicalClass
 ObjectProperty: hasSourceCategory
 
-CultivationResultConstructionMind:
+CultivationResultConstructionConsciousness:
     ethicalClass: Indeterminate
 
-BirthAcquiredConstructionMind:
+BirthAcquiredConstructionConsciousness:
     possibleEthicalClasses: Wholesome, Unwholesome, Indeterminate
     citedBearers: Deva, Naga, Pisaca
 
@@ -319,7 +303,7 @@ BirthAcquiredBodilyConstruction:
     firmRestriction: FacultyItselfIsNotConstructed
     exactAccounting: Provisional
 
-ProjectConstraint: Construction-mind differs from its source higher knowledge.
+ProjectConstraint: construction-consciousness differs from its source higher knowledge.
 ProjectConstraint: Do not transfer the source cognition's ethical class to its result.
 ProjectConstraint: Three ethical classes are not three causal sources.
 ProjectConstraint: Mantra and medicinal means count separately.

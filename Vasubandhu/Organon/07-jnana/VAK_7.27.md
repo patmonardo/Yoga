@@ -20,23 +20,19 @@ the witness's `vinirdhāva` and the prose's `vinirdhāvana`.
 The preceding question is decisive: is acquisition alone
 cultivation? The answer is no; cultivation is fourfold.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-pratilambha-niṣevā-ākhye | śubha-saṃskṛta-bhāvane |
-pratipakṣa-vinirdhāva-bhāvane | sa-āsravasya | tu
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `pratilambha` | masculine noun in compound | acquisition |
 | `niṣevā` | feminine noun in compound | practice, exercise |
 | `ākhye` | nominative dual feminine adjective | the two called / named |
-| `śubhasaṃskṛtabhāvane` | nominative dual feminine compound | the two cultivations of wholesome conditioned dharmas |
+| `śubha-saṃskṛta-bhāvane` | nominative dual feminine compound | the two cultivations of wholesome conditioned dharmas |
 | `pratipakṣa` | compound member | counteraction, counteragent |
 | `vinirdhāva` | compound member | expulsion, driving out |
-| `pratipakṣavinirdhāvabhāvane` | nominative dual feminine compound | the two cultivations of counteraction and expulsion |
-| `sāsravasya` | genitive singular substantive adjective | of the contaminated [class of dharmas] |
+| `pratipakṣa-vinirdhāva-bhāvane` | nominative dual feminine compound | the two cultivations of counteraction and expulsion |
+| `sa-āsravasya` | genitive singular substantive adjective | of the contaminated [class of dharmas] |
 | `tu` | contrastive particle | whereas, but |
 
 The prose uses `niṣevaṇa` and `vinirdhāvana` in naming
@@ -85,24 +81,12 @@ concern contaminated dharmas.
 
 ### Bhāṣya-informed study translation
 
-> Cultivation is not acquisition alone. Its four modes are
-> acquisition, practice, counteraction, and expulsion.
-> Acquisition and practice concern wholesome conditioned
-> dharmas: within this pair, future dharmas have acquisition,
-> while present dharmas have both acquisition and practice.
-> Counteraction and expulsion concern contaminated dharmas.
->
-> Thus wholesome contaminated dharmas admit all four modes;
-> uncontaminated dharmas admit the first two, while defiled
-> and indeterminate dharmas admit the latter two. External
-> Abhidharmikas count six by adding restraint and dissociation.
-> The Kāśmīras include those additions within counteraction
-> and expulsion.
+> The two called acquisition and practice are cultivation of wholesome
+> conditioned dharmas; the two cultivations of counteraction and expulsion,
+> however, concern the contaminated.
 
-Source: Pradhan 410|18–411|07. The closing transition at
-411|07–08 returns to qualities cultivated at exhaustion-
-knowledge and prepares the Buddha-specific account in
-VAK 7.28.
+The verse names two paired modes: acquisition and practice, then counteraction
+and expulsion.
 
 ## 6. Philosophical Translation
 
@@ -151,7 +135,7 @@ as “unwholesome” would make the source's matrix unintelligible.
 
 **`Saṃvarabhāvanā` — cultivation as restraint.** The first
 addition in the external Abhidharmikas' sixfold account,
-associated with the faculties.
+associated with the Faculties.
 
 **`Vibhāvana` — dissociation / removal.** A provisional
 working rendering for the second addition, associated
@@ -227,9 +211,9 @@ to the dharma concerned.
 
 **Textual caution in the sixfold account.** The running
 source contains `kujñalasaṃskṛta`, `pūrvī`, and a damaged
-opening to the quotation about six faculties. The immediately
+opening to the quotation about six Faculties. The immediately
 following `kuśalasāsrava` and the verse's `śubhasaṃskṛta`
-secure the wholesome reading. The faculties/body allocation
+secure the wholesome reading. The Faculties/body allocation
 of the two additions is clear, but the abbreviated quotation
 and its wording are not reconstructed as a complete sūtra
 passage. The source supplies no individual school identity

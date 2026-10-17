@@ -20,27 +20,23 @@ which knowledges cultivated? Its answer concerns future acceptances
 and knowledges corresponding to the presently arising kind, with
 an additional conventional cultivation at three specified moments.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-yathā-utpannāni | bhāvyante | kṣānti-jñānāni | darśane |
-anāgatāni | tatra | eva | sāṃvṛtam | ca | anvaya-traye
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `yathotpannāni` | nominative plural neuter participial expression with `yathā` | according to what has arisen |
+| `yathā-utpannāni` | nominative plural neuter participial expression with `yathā` | according to what has arisen |
 | `bhāvyante` | third-person plural passive of causative `√bhū` | are cultivated |
-| `kṣāntijñānāni` | nominative plural neuter coordinated compound | acceptances and knowledges |
+| `kṣānti-jñānāni` | nominative plural neuter coordinated compound | acceptances and knowledges |
 | `darśane` | locative singular neuter | in Seeing, the Path of Seeing |
 | `anāgatāni` | nominative plural neuter adjective | future |
 | `tatra` | locative adverb | there, in that same Path |
 | `eva` | emphatic particle | precisely, indeed |
 | `sāṃvṛtam` | nominative singular neuter adjective | conventional [knowledge] |
 | `ca` | conjunction | also |
-| `anvayatraye` | locative singular neuter compound | at the triad of anvaya-[knowledges] |
+| `anvaya-traye` | locative singular neuter compound | at the triad of anvaya-[knowledges] |
 
-`Yathā + utpannāni` yields `yathotpannāni`; `tatra + eva`
+`Yathā + utpannāni` yields `yathā-utpannāni`; `tatra + eva`
 yields `tatraiva`. The future qualifier is essential to the
 first clause and must be read across the pāda boundary.
 
@@ -89,19 +85,12 @@ also, at the three anvaya-knowledges, conventional knowledge
 
 ### Bhāṣya-informed study translation
 
-> In the Path of Seeing, when an acceptance or knowledge arises,
-> future cognition of that same kind is cultivated, with its
-> four corresponding aspects. In that same Path, conventional
-> knowledge is also cultivated at suffering-, origination-,
-> and cessation-anvaya-knowledge. This additional cultivation
-> does not occur at the corresponding dharma-knowledge moments,
-> because direct realization of the truth is not yet complete.
+> In Seeing, future acceptances and knowledges are cultivated according to the
+> kinds that have arisen. There too, conventional knowledge is cultivated at
+> the three anvaya-knowledge moments.
 
-This follows Pradhan 405|18–406|06. The reasons concerning
-Path-anvaya-knowledge and the special conventional knowledge's
-status are developed in the continuation associated with
-VAK 7.21; they should not be replaced here by an inferred
-promise of later verbal articulation.
+The three moments concern suffering, origination, and cessation; the future set
+comprises the four matching aspects.
 
 ## 6. Philosophical Translation
 
@@ -207,7 +196,7 @@ range of each subsequent moment.
 
 ## 9. Interpretive Note
 
-**The first-pass availability claim needs qualification.**
+**The availability claim needs qualification.**
 The exploratory study described cultivation as reproducible
 future availability and developed a sequence toward recollection,
 exposition, and teaching. The present prose establishes

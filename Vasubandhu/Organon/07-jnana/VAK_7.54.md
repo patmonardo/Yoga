@@ -1,4 +1,4 @@
-# VAK_7.54 — Divine Eye and Ear: Material Faculties and Operative Range
+# VAK_7.54 — Divine Eye and Ear: Form faculties and Operative Range
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -19,17 +19,13 @@ Devanāgarī renders the same reading. The Bhāṣya clarifies
 the technical force of `sabhāga` through its contrast
 with `tatsabhāga`.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-divya-śrotra-akṣiṇī | rūpa-prasādau | dhyāna-bhūmikau |
-sabhāga-avikale | nityam | dūra-sūkṣma-ādi-gocare
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `divyaśrotrākṣiṇī` | nominative dual neuter compound | the divine ear and eye |
-| `rūpaprasādau` | nominative dual masculine compound noun | two material sensitivities or refined material faculties |
+| `rūpaprasādau` | nominative dual masculine compound noun | two Form sensitivities or refined Form faculties |
 | `dhyānabhūmikau` | nominative dual masculine adjective | belonging to dhyāna grounds |
 | `sabhāgāvikale` | nominative dual neuter compound adjective | operative and unimpaired |
 | `nityam` | adverbial accusative | invariably; always |
@@ -38,7 +34,7 @@ sabhāga-avikale | nityam | dūra-sūkṣma-ādi-gocare
 `Śrotra + akṣiṇī` yields `śrotrākṣiṇī`;
 `sabhāga + avikala` yields `sabhāgāvikala`;
 `sūkṣma + ādi` yields `sūkṣmādi`. In the two predicates,
-`prasāda` names a material faculty, whereas `gocara`
+`prasāda` names a Form faculty, whereas `gocara`
 specifies its object-range.
 
 ## 4. Grammar
@@ -53,22 +49,22 @@ not make four faculties out of the pair.
 to neuter dual agreement with the ear and eye. The
 prose separates the two qualifications: these faculties
 are not `tatsabhāga`, because they are invariably accompanied
-by consciousness; they are also not impaired.
+by Cognition; they are also not impaired.
 
 **The adverb does not assert eternity.** `Nityam` qualifies
 the described functioning and integrity. The prose explains
-it through accompaniment by vijñāna, not through permanent
+it through accompaniment by Cognition, not through permanent
 existence of an unchanging faculty. The same passage
 explicitly describes how these faculties arise.
 
 **Object-range remains differentiated.** `Dūrasūkṣmādigocare`
-qualifies both faculties. The prose names visible forms
+qualifies both faculties. The prose names visible fForms
 and sounds as their objects, preserving the respective
 visual and auditory relations rather than giving both
 faculties an unrestricted common field.
 
 **Close construe.** The divine ear and eye are two
-refined material faculties belonging to dhyāna grounds,
+refined Form faculties belonging to dhyāna grounds,
 invariably operative and unimpaired, with distant,
 subtle, and related objects as their range.
 
@@ -76,39 +72,25 @@ subtle, and related objects as their range.
 
 ### Literal Translation
 
-> The divine ear and eye are two refined material
-> faculties belonging to dhyāna grounds. They are
-> invariably operative and unimpaired, and have distant,
+> The divine ear and eye are two refined Form faculties belonging to dhyāna
+> grounds. They are invariably operative and unimpaired, and have distant,
 > subtle, and related objects as their range.
 
 ### Bhāṣya-informed study translation
 
-> For one entered into dhyāna, application directed
-> toward sound and light produces two refined material
-> faculties based on dhyāna-ground material elements.
-> They arise near the eye and ear as causes of seeing
-> visible form and hearing sound. Their dhyāna-ground
-> constitution explains their designation as divine.
->
-> These faculties are invariably accompanied by the
-> corresponding consciousness and are unimpaired, like
-> those of form-realm beings. Their objects include
-> distant and subtle visible forms and sounds.
+> The divine ear and eye are two refined Form faculties belonging to dhyāna
+> grounds. They are invariably accompanied by the corresponding Cognition,
+> unimpaired, and have distant, subtle, and related objects as their range.
 
-Source: Pradhan 429|04–429|15, local Bhāṣya and running
-source. The quoted comparison with ordinary sight and
-the subsequent quantitative range discussion are carried
-forward with the local VAK 7.55 materials, rather than
-fully studied twice.
 
 ## 6. Philosophical Translation
 
 > Extended seeing and hearing retain a determinate
-> constitution: a cultivated ground, a material faculty,
-> corresponding consciousness, and a specific object-field.
+> constitution: a cultivated ground, a Form faculty,
+> corresponding Cognition, and a specific object-field.
 > Greater range does not erase these distinctions.
 
-The faculty is neither identical with the consciousness
+The faculty is neither identical with the Cognition
 it supports nor interchangeable with its object. The
 account explains a refined sensory basis; it does not
 replace sight and hearing with a single unspecified
@@ -117,12 +99,11 @@ power of knowing.
 ## 7. Technical Vocabulary
 
 **`Divya`.** Divine. Here the prose grounds the designation
-in the faculties' dhyāna-level material constitution.
+in the faculties' dhyāna-level Form constitution.
 It is not merely a complimentary adjective for unusually
 good ordinary eyesight or hearing.
 
-**`Rūpaprasāda`.** Material sensitivity or refined material
-faculty. `Prasāda` here should not be replaced by mental
+**`Rūpaprasāda`.** Refined Form faculty. `Prasāda` here should not be replaced by mental
 serenity or faith. The prose specifies derivation from
 material elements and a causal role in seeing and hearing.
 
@@ -130,7 +111,7 @@ material elements and a causal role in seeing and hearing.
 qualifies the faculties and the material elements on
 which they depend. It does not automatically transfer
 the same ground attribution to every associated sensory
-consciousness; VAK 7.45 already distinguished those questions.
+Cognition; VAK 7.45 already distinguished those questions.
 
 **`Śabdālokābhogaprayoga`.** Application of attention
 toward sound and light. The prose describes it in one
@@ -138,7 +119,7 @@ who has entered dhyāna. It is not a complete independent
 instruction for acquiring these faculties.
 
 **`Bhūtāny upādāya`.** Depending upon the material elements.
-The source describes material constitution through this
+The source describes Form constitution through this
 relation, rather than creation without a material basis.
 
 **`Cakṣuḥśrotrasāmantaka`.** In the vicinity of the eye
@@ -149,7 +130,7 @@ structure or imply removal of the ordinary organs.
 **`Sabhāga / tatsabhāga`.** The operative faculty and
 its corresponding non-operative classification. The local
 prose determines the relevant contrast through invariant
-accompaniment by vijñāna. “Corresponding” alone would
+accompaniment by Cognition. “Corresponding” alone would
 miss the functional force of `sabhāga` in this passage.
 
 **`Avikala`.** Unimpaired. The prose invokes the absence
@@ -158,7 +139,7 @@ form-realm beings. It does not thereby establish omniscience
 or freedom from every possible error of judgment.
 
 **`Gocara`.** Object-range. The eye remains related to
-visible form and the ear to sound. Distance and subtlety
+visible Form and the ear to sound. Distance and subtlety
 qualify objects within these modalities; they do not
 make thought, intention, and every other dharma direct
 objects of the same faculty.
@@ -171,8 +152,8 @@ objects of the same faculty.
 Practitioner entered into dhyāna
     + application toward sound and light
     + dhyāna-ground material elements
-    → refined material eye and ear faculties
-    → causes of seeing visible form and hearing sound
+    → refined Form eye and ear faculties
+    → causes of seeing visible Form and hearing sound
 ```
 
 This records the source's causal account. It is not
@@ -182,10 +163,10 @@ practical instructions detached from its contemplative context.
 
 **The two sensory relations.**
 
-| Faculty | Material basis in this account | Corresponding cognition | Object modality |
+| Faculty | Form basis in this account | Corresponding cognition | Object modality |
 |---|---|---|---|
-| Divine eye | Dhyāna-ground rūpaprasāda | Visual consciousness | Visible form |
-| Divine ear | Dhyāna-ground rūpaprasāda | Auditory consciousness | Sound |
+| Divine eye | Dhyāna-ground rūpaprasāda | Visual Cognition | Visible Form |
+| Divine ear | Dhyāna-ground rūpaprasāda | Auditory Cognition | Sound |
 
 The expanded object-range and the invariant operative
 condition are distinct predicates. Neither changes
@@ -195,7 +176,7 @@ remain distinct from direct sensory knowing.
 
 **Meaning of invariant operation.** The prose denies
 a divine eye or ear that is merely `tatsabhāga`, giving
-its accompaniment by vijñāna as the reason. This is
+its accompaniment by Cognition as the reason. This is
 a claim about the faculties classified here. It is
 not a claim that every practitioner sees and hears
 every object continuously, or that the faculty exists
@@ -239,13 +220,13 @@ prose; finer lexical restoration remains for collation.
 kārikā contrasts these faculties with a “bodiless field
 of citta or hṛdaya” assigned to the formless direction.
 That is not supplied by this source unit. Its positive
-account concerns dhyāna-ground material faculties and
+account concerns dhyāna-ground Form faculties and
 their visual and auditory functioning; no additional
 hṛdaya identification is needed to explain it.
 
 **Organon reconstruction — Yoga Vidyā and Yoga Technē.**
 Yoga Vidyā articulates the distinction among faculty,
-consciousness, object, and ground. Yoga Technē, its
+Cognition, object, and ground. Yoga Technē, its
 kriyā–karma companion, concerns the cultivation through
 which the stated faculty becomes operative. Their relation
 requires preserving both constitution and function.
@@ -303,8 +284,8 @@ BothFaculties:
     integrity: Unimpaired
     objectRangeIncludes: Distant, Subtle
 
-ProjectConstraint: Faculty, consciousness, and object are distinct.
-ProjectConstraint: Faculty ground is not automatically consciousness ground.
+ProjectConstraint: Faculty, Cognition, and object are distinct.
+ProjectConstraint: Faculty ground is not automatically Cognition ground.
 ProjectConstraint: Nityam does not assert eternal existence.
 ProjectConstraint: Expanded range does not erase sensory modality.
 ProjectConstraint: Quantitative range continues in VAK 7.55.

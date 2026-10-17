@@ -38,14 +38,10 @@ introduces the first quotation with `āha cātra` at
 429|15; the numbered 7.55 begins at 430|01. Its first
 pāda differs in the running witness, as noted below.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dvi-tri-sāhasraka-asaṃkhya-dṛśaḥ | arhat-khaḍga-daiśikāḥ |
-anyat | api | upapattyā | āptam | tad-dṛśyaḥ | na | antarī-bhavaḥ
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `dvitrisāhasrakāsaṃkhyadṛśaḥ` | nominative plural compound adjective | seeing the two-thousandfold, three-thousandfold, and innumerable world-systems, respectively |
 | `arhatkhaḍgadaiśikāḥ` | nominative plural masculine coordinated compound | arhats, rhinoceros-like solitary Buddhas, and the Teacher |
@@ -64,7 +60,7 @@ their respective assignment.
 
 **Quoted-verse vocabulary.** `Dūrastham`, `āvṛtam`, and
 `sūkṣmam` are accusative singular neuter qualifications
-of `rūpam`: distant, covered, and subtle visible form.
+of `rūpam`: distant, covered, and subtle visible Form.
 `Sarvataḥ` is adverbial, “from every direction.”
 `Māṃsacakṣuḥ` is the fleshly eye, the subject of
 `na paśyati`. `Yataḥ ... ataḥ` connects the ordinary
@@ -110,38 +106,19 @@ intermediate being is not visible to that birth-acquired eye.
 
 ### Literal Translation
 
-> Arhats, solitary Buddhas, and the Teacher see respectively
-> the two-thousandfold, three-thousandfold, and innumerable
-> world-systems. Other capacities too are acquired through
-> birth; the intermediate being is not visible to that eye.
-
-**Preceding quotation, close sense.** Because the fleshly
-eye does not see distant, covered, and subtle form or
-see in every direction, divine sight is admitted. This
-renders the contrast without pretending to repair the
-quoted verse's final wording.
+> Arhats, solitary Buddhas, and the Teacher see respectively the two-
+> thousandfold, three-thousandfold, and innumerable world-systems. Other
+> capacities too are acquired through birth; the intermediate being is not
+> visible to that eye.
 
 ### Bhāṣya-informed study translation
 
-> Without deliberate exertion, śrāvakas, pratyekabuddhas,
-> and Buddhas see respectively the thousandfold,
-> two-thousandfold, and three-thousandfold world-systems.
-> With deliberate exertion, the corresponding ranges
-> are two-thousandfold, three-thousandfold, and innumerable
-> world-systems; the Buddha sees as far as he wishes.
->
-> Divine hearing and the other members of the fourfold
-> group following ṛddhi may also be acquired through
-> birth. None of these merely birth-acquired capacities
-> receives the designation abhijñā. The intermediate being
-> is visible to the abhijñā-eye, not to the birth-acquired
-> divine eye.
+> With deliberate exertion, śrāvaka Arhats, pratyekabuddhas, and the Teacher
+> see the two-thousandfold, three-thousandfold, and innumerable world-systems,
+> respectively. Other [higher-knowledge capacities] are also acquired through
+> birth; the intermediate being is not visible to that [birth-acquired divine]
+> eye.
 
-Source: Pradhan 429|16–430|10, local Bhāṣya checked
-against the continuous running source. The world-system
-terms are retained as technical scales, not rendered
-as literal distances or simple counts of two thousand
-and three thousand individual worlds.
 
 ## 6. Philosophical Translation
 
@@ -212,7 +189,7 @@ class regardless of acquisition.
 
 **The four further birth-acquired capacities.** In the
 sixfold order established earlier, the group beginning
-with divine hearing comprises hearing, other-mind knowledge,
+with divine hearing comprises hearing, knowledge of another's consciousness,
 former-abode recollection, and death-and-rebirth vision.
 Together with ṛddhi, these are the five non-exhaustion
 capacities. The passage does not add birth-acquired
@@ -251,10 +228,13 @@ a complete theory of perception in intermediate existence.
 **Numbered verse versus preceding quotation.** The local
 research file groups the fleshly-eye quotation with 7.55.
 The running source distinguishes that quotation from
-the numbered kārikā. Both are preserved in the Sanskrit
-stages, with their status explicit. The quotation explains
-a contrast of vision; it does not by itself constitute
-an empirical proof of the extraordinary faculty.
+the numbered kārikā. The quotation says that the fleshly
+eye does not see distant, covered, or subtle Forms, nor
+see from every direction; therefore divine sight is
+admitted. Both units remain distinct in the Sanskrit
+stages. The quotation explains a contrast of vision;
+it does not by itself constitute an empirical proof of
+the extraordinary faculty.
 
 **Witness cautions.** The local kārikā prints
 `arhatkhaḍgadaiśikāḥ`, while the running source has
@@ -324,7 +304,7 @@ WithDeliberateExertion:
 
 BirthAcquiredFurtherCapacities:
     DivineHearing
-    OtherMindKnowledge
+    KnowledgeOfAnotherConsciousness
     FormerAbodeRecollection
     DeathAndRebirthVision
 
@@ -343,5 +323,5 @@ ProjectConstraint: Keep the preceding quotation distinct from the numbered karik
 ```
 
 This is a declarative project seed, not executable OWL.
-VAK 7.56 next examines other-mind knowledge by acquisition
+VAK 7.56 next examines knowledge of another's consciousness by acquisition
 mode and the conditions of birth-acquired knowing.

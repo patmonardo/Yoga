@@ -88,8 +88,8 @@ or what has ceased or has not yet arisen.
 ### Bhāṣya-informed study translation
 
 > At their first arising, exhaustion- and non-arising-knowledge are
-> suffering- and origination-anvaya-knowledge, taking the summit-of-existence
-> aggregates as object. Knowledge of another mind belongs to four knowledge
+> suffering- and origination-anvaya-knowledge, taking the Base at the summit
+> of existence as object. Knowledge of another mind belongs to four knowledge
 > classes—dharma, anvaya, Path, and conventional—and cannot know a mind
 > beyond its level, faculty, or practitioner standing, nor one already
 > ceased or not yet arisen.
@@ -112,8 +112,8 @@ predicate from becoming a false derivation of another cognitive capacity.
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
-| `duḥkha-hetv-anvayajñāne` | suffering- and origination-anvaya-knowledges | Predicate completing 7.04; the Bhāṣya links their first arising to aspects of the summit-of-existence aggregates. |
-| `bhavāgrika-skandha` | aggregates belonging to the summit of existence | Object of the first-arising terminal knowledges. |
+| `duḥkha-hetv-anvayajñāne` | suffering- and origination-anvaya-knowledges | Predicate completing 7.04; the Bhāṣya links their first arising to aspects of the summit-of-existence Base. |
+| `bhavāgrika-skandha` | Base at the summit of existence | Object of the first-arising terminal knowledges. |
 | `vajropama` | vajra-like Path | Shares their object only when taking suffering or origination, not cessation or Path; Path-continuity does not require object-identity. |
 | `paracittavit` / `paracittajñāna` | knowledge of another mind | Verse expression and Bhāṣya expansion; overlaps portions of dharma-, anvaya-, Path-, and conventional knowledge, not four simultaneous ingredients. |
 | `niyama` | restriction / governing rule | Introduces limits belonging to the determination of other-mind knowledge. |
@@ -130,7 +130,7 @@ The first-arising statement is separately qualified:
 ```text
 FirstArising(ExhaustionKnowledge or NonArisingKnowledge)
     → SufferingAnvayaKnowledge or OriginationAnvayaKnowledge
-    → Object: BhavagraAggregates
+    → Object: BhavagraBase
     → Aspects: Suffering or Origination
 ```
 
@@ -241,7 +241,7 @@ ObjectProperty: supportedBy
 
 FirstArisingRule: Exhaustion or non-arising knowledge at first arising
     hasTruthClassification: SufferingAnvaya or OriginationAnvaya
-    hasObjectSupport: BhavagraAggregates
+    hasObjectSupport: BhavagraBase
     hasAspect: Suffering or Origination
 
 OverlapAssertion: ParacittaClassification

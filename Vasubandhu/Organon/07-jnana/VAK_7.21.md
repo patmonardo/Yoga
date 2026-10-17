@@ -20,23 +20,19 @@ The running source also has `svadhobhūmi`; the compound is
 resolved as `sva-adho-bhūmi`, with the kārikā witness's `svā-`.
 These are stated reading decisions, not changes to the witnesses.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ataḥ | abhisamaya-antya-ākhyam | tat | anutpatti-dharmakam |
-sva-adho-bhūmi | nirodhe | antyam | sva-satya-ākāram | yatnikam
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ataḥ` | causal adverb | therefore, for this reason |
-| `abhisamayāntyākhyam` | nominative singular neuter compound | named for the end of direct realization |
+| `abhisamaya-antya-ākhyam` | nominative singular neuter compound | named for the end of direct realization |
 | `tat` | nominative singular neuter pronoun | that conventional knowledge |
-| `anutpattidharmakam` | nominative singular neuter adjective | having non-arising as its nature |
-| `svādhobhūmi` | nominative singular neuter compound adjective | belonging to its own and lower levels |
+| `anutpatti-dharmakam` | nominative singular neuter adjective | having non-arising as its nature |
+| `sva-adho-bhūmi` | nominative singular neuter compound adjective | belonging to its own and lower levels |
 | `nirodhe` | locative singular masculine | in the case of cessation |
 | `antyam` | nominative singular neuter adjective | the last [application of mindfulness] |
-| `svasatyākāram` | nominative singular neuter compound adjective | having the aspects of its own truth |
+| `sva-satya-ākāram` | nominative singular neuter compound adjective | having the aspects of its own truth |
 | `yatnikam` | nominative singular neuter adjective | produced through effort or application |
 
 The referent remains the special conventional knowledge cultivated
@@ -85,28 +81,14 @@ its own truth's aspects and is produced through application.
 
 ### Bhāṣya-informed study translation
 
-> The conventional knowledge cultivated at the three completion-
-> points is accordingly named for the end of direct realization.
-> In the account stated by the verse, it is never actualized:
-> its cultivation is explained through acquisition. The Bhāṣya
-> challenges that explanation and endorses the former teachers'
-> account: the supramundane Path produces a support capable of
-> superior worldly knowledge of the truths after emergence.
-> The Vaibhāṣikas reject this alternative.
->
-> The cultivated conventional knowledge belongs to the level
-> of the Path of Seeing and the levels below it. At cessation's
-> completion it is dharma-mindfulness; at the other two completion-
-> points it ranges over all four applications. Its aspects and
-> object correspond to the truth just realized. Acquired through
-> Seeing, it is knowledge produced through application. Including
-> its entourage, it comprises four aggregates in the desire domain
-> and five in the form domain.
+> Therefore it is called knowledge of the end of direct realization, having
+> non-arising as its nature. It belongs to its own and lower levels. At
+> cessation it is the final [application of mindfulness], bearing the aspects
+> of its own truth and produced through effort.
 
-The study translation distinguishes the verse's account from
-the prose's criticism and alternative; it does not combine
-them into one unanimous explanation. Source: Pradhan
-406|07–407|17.
+These predicates characterize the special conventional knowledge cultivated at
+the three anvaya moments. The reading `yatnikam` follows the Devanāgarī and the
+Bhāṣya lemma; the running source's `yātnikam` remains a textual uncertainty.
 
 ## 6. Philosophical Translation
 
@@ -157,10 +139,10 @@ gloss of `yatnika`. The reason given is acquisition through
 the Path of Seeing; the passage supplies no independent
 exercise manual or specific physical technique.
 
-**`Saparivāra` — with its entourage.** The aggregate count
-includes accompanying dharmas. Four aggregates in the desire
-domain and five in the form domain do not make knowledge
-itself numerically four or five aggregates.
+**`Saparivāra` — with its entourage.** The Base count
+includes accompanying dharmas. four Bases in the desire
+domain and five in the Form domain do not make knowledge
+itself numerically four or five Bases.
 
 ## 8. Logical Determination
 
@@ -292,7 +274,7 @@ Constraint: Aspects and object match the truth whose realization occasions acqui
 Constraint: Cessation completion has dharma-mindfulness only.
 Constraint: The other two completions range over four mindfulness applications.
 Constraint: Effort-produced is glossed as application-produced.
-Constraint: Aggregate counts include the entourage.
+Constraint: Base counts include the entourage.
 
 ProjectConstraint: Keep disputed accounts separately attributed.
 ProjectConstraint: Anutpattidharmaka is not the category AnutpadaKnowledge.

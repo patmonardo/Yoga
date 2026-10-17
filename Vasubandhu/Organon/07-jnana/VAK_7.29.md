@@ -19,24 +19,20 @@ requires `nava`, “nine,” from the end of VAK 7.28. This
 study completes the powers' knowledge-category classification;
 their level-distribution begins in VAK 7.30.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-dhyāna-ādi-akṣa-adhimokṣeṣu | dhātau | ca | pratipatsu | tu |
-daśa | vā | saṃvṛti-jñānam | dvayoḥ | ṣaṭ | daśa | vā | kṣaye
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `dhyānādi` | compound member | dhyānas and related attainments |
-| `akṣa` | compound member | faculties, expanded as `indriya` |
+| `dhyāna-ādi` | compound member | dhyānas and related attainments |
+| `akṣa` | compound member | Faculties, expanded as `indriya` |
 | `adhimokṣeṣu` | locative plural, terminating the compound | concerning resolutions / inclinations |
 | `dhātau` | locative singular masculine | concerning domain / disposition |
 | `pratipatsu` | locative plural feminine of `pratipad` | concerning courses or paths |
 | `tu` | particle | however |
 | `daśa` | numeral | ten [knowledges] |
 | `vā` | alternative particle | or |
-| `saṃvṛtijñānam` | nominative singular neuter | conventional knowledge |
+| `saṃvṛti-jñānam` | nominative singular neuter | conventional knowledge |
 | `dvayoḥ` | genitive dual used here | of the two [powers] |
 | `ṣaṭ` | numeral | six [knowledges] |
 | `kṣaye` | locative singular masculine | concerning exhaustion [of influxes] |
@@ -51,7 +47,7 @@ one undifferentiated meditation-power.
 **The carried predicate.** Supply `nava jñānāni` for the
 opening fields. The prose names four distinct powers:
 knowing dhyāna and related attainments; higher and lower
-faculties; diverse inclinations; and diverse domains.
+Faculties; diverse inclinations; and diverse domains.
 Each receives the same ninefold classification.
 
 **The path alternative.** `Pratipatsu tu daśa vā` carries
@@ -74,7 +70,7 @@ the constitution of a Buddha-power, not the nine/ten future-
 cultivation counts at exhaustion-knowledge in VAK 7.25.
 
 **Close construe.** Concerning dhyānas and related attainments,
-faculties, inclinations, and domains, [there are nine
+Faculties, inclinations, and domains, [there are nine
 knowledges]; concerning paths, however, ten or [nine].
 Of the two [powers], [the constitution is] conventional
 knowledge. Concerning influx-exhaustion, six or ten.
@@ -83,7 +79,7 @@ knowledge. Concerning influx-exhaustion, six or ten.
 
 ### Literal Translation
 
-> Concerning dhyānas and related attainments, faculties,
+> Concerning dhyānas and related attainments, Faculties,
 > inclinations, and domains, there are nine knowledges;
 > concerning paths, however, ten or nine. The two powers
 > consist of conventional knowledge. Concerning exhaustion,
@@ -91,28 +87,13 @@ knowledge. Concerning influx-exhaustion, six or ten.
 
 ### Bhāṣya-informed study translation
 
-> Four powers each comprise nine knowledge categories,
-> excluding cessation-knowledge: knowing dhyānas, liberations,
-> concentrations, and attainments; knowing higher and lower
-> faculties; knowing diverse inclinations; and knowing
-> diverse domains or dispositions.
->
-> The power of knowing courses leading everywhere comprises
-> ten categories if the course is understood together with
-> its fruit; otherwise it comprises nine, excluding cessation-
-> knowledge. Recollection of former abodes and knowledge
-> of death and rebirth are conventional knowledge.
->
-> The influx-exhaustion power comprises six categories if
-> influx-exhaustion knowledge means knowing cessation:
-> dharma, anvaya, cessation, exhaustion, non-arising, and
-> conventional knowledge. If it means knowledge in the
-> continuum of one whose influxes are exhausted, it comprises
-> all ten categories.
+> For dhyānas and related attainments, Faculties, inclinations, and
+> dispositions, the count is nine; for courses, however, it is ten or nine. The
+> two [powers] are conventional knowledge; at exhaustion, six or ten.
 
-Source: Pradhan 411|18–412|09. The identification of the
-second conventional power is controlled by the immediate
-continuation at 412|12.
+The course count varies with inclusion of its fruit; the exhaustion count varies
+according to whether it means cessation-knowledge or knowledge in the continuum
+of one whose influxes are exhausted.
 
 ## 6. Philosophical Translation
 
@@ -138,7 +119,7 @@ terms should remain visible rather than being flattened
 into generic meditation.
 
 **`Indriyaparāparajñānabala`.** The power of knowing higher
-and lower faculties. `Akṣa` receives its contextual meaning
+and lower Faculties. `Akṣa` receives its contextual meaning
 through this expansion.
 
 **`Nānādhimuktijñānabala`.** The power of knowing diverse
@@ -177,7 +158,7 @@ in VAK 7.28. The first two rows are carried from that study.
 | Possibility and impossibility | 10 | All categories |
 | Karmic maturation | 8 | Excludes cessation and Path |
 | Dhyāna and related attainments | 9 | Excludes cessation |
-| Higher and lower faculties | 9 | Excludes cessation |
+| Higher and lower Faculties | 9 | Excludes cessation |
 | Diverse inclinations | 9 | Excludes cessation |
 | Diverse domains / dispositions | 9 | Excludes cessation |
 | Courses leading everywhere | 10 or 9 | Includes fruit / excludes fruit |

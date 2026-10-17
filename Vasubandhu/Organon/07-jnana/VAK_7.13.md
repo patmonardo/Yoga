@@ -128,7 +128,7 @@ grounds without combining them into one purported Sanskrit passage.
 | Origination | `samudaya` | origination | Emergence or coming forth |
 | Origination | `prabhava` | production | Continuation or production of the arising series |
 | Origination | `pratyaya` | condition | Bringing the result to accomplishment |
-| Cessation | `nirodha` | cessation | Stopping of the aggregates or their continued occurrence |
+| Cessation | `nirodha` | cessation | Cessation of the Bases or their continued occurrence |
 | Cessation | `śānta` | peaceful | Quenching; freedom from suffering |
 | Cessation | `praṇīta` | excellent | Freedom from disturbance; unsurpassed character |
 | Cessation | `niḥsaraṇa` | escape | Definitive release without return |

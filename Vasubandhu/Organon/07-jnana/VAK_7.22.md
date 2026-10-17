@@ -20,26 +20,22 @@ The sixteenth moment belongs to the Path of Cultivation,
 as established in VAK 6.28; it remains the sixteenth moment
 of the direct-realization sequence, not of strict Seeing.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ṣoḍaśe | ṣaṭ | sa-rāgasya | vīta-rāgasya | sapta | tu |
-sa-rāga-bhāvanā-mārge | tat-ūrdhvam | sapta-bhāvanā
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ṣoḍaśe` | locative singular ordinal | at the sixteenth [moment] |
 | `ṣaṭ` | numeral | six [knowledges] |
-| `sarāgasya` | genitive singular adjective used substantivally | for one not detached from desire |
-| `vītarāgasya` | genitive singular adjective used substantivally | for one detached from desire |
+| `sa-rāgasya` | genitive singular adjective used substantivally | for one not detached from desire |
+| `vīta-rāgasya` | genitive singular adjective used substantivally | for one detached from desire |
 | `sapta` | numeral | seven [knowledges] |
 | `tu` | adversative particle | but, whereas |
-| `sarāgabhāvanāmārge` | locative singular compound | in the Path of Cultivation of one still undetached |
-| `tadūrdhvam` | adverbial expression | after that |
-| `saptabhāvanā` | nominative singular feminine compound | cultivation of seven |
+| `sa-rāga-bhāvanā-mārge` | locative singular compound | in the Path of Cultivation of one still undetached |
+| `tat-ūrdhvam` | adverbial expression | after that |
+| `sapta-bhāvanā` | nominative singular feminine compound | cultivation of seven |
 
-`Tat + ūrdhvam` yields `tadūrdhvam`. The commentary resolves
+`Tat + ūrdhvam` yields `tat-ūrdhvam`. The commentary resolves
 the reference temporally: after the sixteenth moment.
 `Sarāga` names an attainment-status here; it does not require
 a presently manifest episode of desire.
@@ -80,25 +76,12 @@ practitioner remains undetached, there is cultivation of seven.
 
 ### Bhāṣya-informed study translation
 
-> At the sixteenth moment, Path-anvaya-knowledge, a practitioner
-> not yet detached from the desire domain cultivates six
-> knowledge categories: dharma, anvaya, suffering, origination,
-> cessation, and Path. For one already detached, knowledge
-> of another mind is cultivated as the seventh.
->
-> After that moment, for as long as detachment from desire
-> has not been attained, seven categories are cultivated
-> in the preparatory, uninterrupted, liberation, and superior
-> paths: the same six together with conventional knowledge.
-> If the current path is worldly, conventional knowledge
-> is present; if supramundane, one of the four truth-specific
-> dharma-knowledges is present.
+> At the sixteenth [moment], six knowledges are cultivated for one not detached
+> from desire, but seven for one detached from desire. Thereafter, in the Path
+> of Cultivation, seven are cultivated for one still not detached.
 
-Source: Pradhan 407|18–408|07. The present cognition and
-the cultivated range answer different questions. The
-sixteenth-moment cognition is classified as Path-knowledge
-and as anvaya-knowledge concerning Path; this does not
-require two separate simultaneous cognitive events.
+The counts are cultivated knowledge categories, distinct from the two knowledges
+present at the sixteenth moment: Path-knowledge and Path-anvaya-knowledge.
 
 ## 6. Philosophical Translation
 

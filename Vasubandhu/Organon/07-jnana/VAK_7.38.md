@@ -25,14 +25,9 @@ the underlying files have damaged `nāmatha` / `nāmātha`.
 The first three knowledge-names and their ordered prose
 expansion secure the intended name/meaning/speech distinction.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tisraḥ | nāma-artha-vāk-jñānam | avivartyam | yathā-kramam |
-caturthī | yukta-mukta-abhilāpa-mārga-vaśitvayoḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tisraḥ` | nominative plural feminine numeral | the three [discriminating knowledges] |
 | `nāmārthavāgjñānam` | nominative singular neuter compound | knowledge of name, meaning, and speech, distributively |
@@ -94,12 +89,9 @@ and mastery of the Path.
 
 ### Bhāṣya-informed study translation
 
-> Dharma-pratisaṃvid is unfailing knowledge concerning
-> bodies of names, phrases, and verbal units; artha-
-> pratisaṃvid concerns meaning; nirukti-pratisaṃvid concerns
-> speech. The fourth, pratibhāna-pratisaṃvid, is likewise
-> unfailing knowledge, concerning appropriate and unimpeded
-> expression and mastery associated with the Path.
+> The first three are, respectively, unfailing knowledge concerning name,
+> meaning, and speech. The fourth is likewise unfailing knowledge,
+> concerning fitting and unimpeded expression and mastery of the Path.
 
 Source: Pradhan 418|13–418|18. The immediate continuation
 at 418|19–20 confirms speech and Path as the fourth's
@@ -190,7 +182,7 @@ here.
 
 ## 9. Interpretive Note
 
-**A precise correction to the first pass.** Rendering
+**A precise correction to the earlier draft.** Rendering
 the fourth simply as “mastery concerning expression
 and the Path” loses the Bhāṣya's explicit continuation
 of `avivartyaṃ jñānam`. The official translation preserves

@@ -194,7 +194,7 @@ with these new predicates. Each answers a different question about
 the cognition being classified.
 
 **The six/nine distinction is qualified.** The Bhāṣya explicitly
-distinguishes an aggregate statement from the more determinate
+distinguishes a collective statement from the more determinate
 dharma/anvaya inclusion. The official study therefore retains both
 `abhedena` and `bhedena`, rather than reporting two apparently
 incompatible ranges for an undifferentiated name.
@@ -235,7 +235,7 @@ its broad classification alone does not settle the character of
 a particular act. Conversely, a wholesome capacity's general name
 does not specify every level at which it can operate.
 
-For our reconstruction, the distinction between an aggregate range
+For our reconstruction, the distinction between a collective range
 and a qualified occurrence prevents practical overextension. Vidyā
 articulates the range; Technē must meet the conditions belonging
 to the particular operation. Their companionship therefore requires
@@ -271,13 +271,13 @@ LevelRange: DharmaKnowledge -> SixLevels
 LevelRange: AnvayaKnowledge -> NineLevels
 
 QualifiedRange: FourTruthAndTwoTerminalKnowledges
-    aggregateRange: NineLevels
+    collectiveRange: NineLevels
     whenDharmaSubsumed: SixLevels
     whenAnvayaSubsumed: NineLevels
 
 ProjectConstraint: Wholesome does not mean uncontaminated in every case.
 ProjectConstraint: Do not infer all quality-level combinations from two marginal ranges.
-ProjectConstraint: Aggregate range does not override the inclusion-qualified range.
+ProjectConstraint: Collective range does not override the inclusion-qualified range.
 ProjectConstraint: Distinguish level, embodied support, object-domain, and counteractive range.
 ProjectConstraint: A kind-level distribution does not assign every level to one event.
 ```

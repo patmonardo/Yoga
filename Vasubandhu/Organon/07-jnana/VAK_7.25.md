@@ -21,25 +21,21 @@ in detachment from Bhavāgra. This completes the contrast
 with its eight liberation paths in VAK 7.23 and its
 uninterrupted paths in VAK 7.24.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-navānām | tu | kṣaya-jñāne | akopyasya | daśa | bhāvanā |
-tat-saṃcare | antya-muktau | ca | prokta-śeṣe | aṣṭa-bhāvanā
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `navānām` | genitive plural numeral | of nine [knowledges] |
 | `tu` | particle | but, now |
-| `kṣayajñāne` | locative singular neuter | at knowledge of exhaustion |
+| `kṣaya-jñāne` | locative singular neuter | at knowledge of exhaustion |
 | `akopyasya` | genitive singular adjective used substantivally | for the immovable practitioner |
 | `daśa` | numeral | ten [knowledges] |
 | `bhāvanā` | nominative singular feminine | cultivation |
-| `tatsaṃcare` | locative singular masculine compound | in transition to that [immovability] |
-| `antyamuktau` | locative singular feminine compound | at the final liberation [path] |
+| `tat-saṃcare` | locative singular masculine compound | in transition to that [immovability] |
+| `antya-muktau` | locative singular feminine compound | at the final liberation [path] |
 | `ca` | conjunction | also, and |
-| `proktaśeṣe` | locative singular compound | in the remainder of the stated cases |
+| `prokta-śeṣe` | locative singular compound | in the remainder of the stated cases |
 | `aṣṭabhāvanā` | nominative singular feminine compound | cultivation of eight |
 
 `Proktaśeṣe + aṣṭabhāvanā` yields `proktaśeṣe 'ṣṭabhāvanā`.
@@ -90,24 +86,12 @@ the stated cases, there is cultivation of eight.
 
 ### Bhāṣya-informed study translation
 
-> The ninth liberation path of detachment from Bhavāgra is
-> knowledge of exhaustion. There nine knowledge categories
-> are cultivated, excluding knowledge of non-arising. For
-> the immovable practitioner, all ten are cultivated because
-> knowledge of non-arising is acquired. All ten are likewise
-> cultivated at the final liberation path when a practitioner
-> passes into immovability.
->
-> In the remaining specified cases there is eightfold future
-> cultivation, excluding exhaustion-knowledge and knowledge
-> of non-arising. The commentary qualifies the trainee's
-> account and then distinguishes the corresponding ranges
-> for one beyond training and for an ordinary person.
+> At knowledge of exhaustion there is cultivation of nine; for one of immovable
+> nature, ten. At the final liberation path, in transition to that state, there
+> is cultivation of ten; in the remaining stated cases, eight.
 
-The full argument is Pradhan 409|08–410|02. Its continuation
-after `śaikṣasyaivam` is necessary for controlling the range
-of the eightfold formula; it is analyzed below rather than
-silently omitted from the study.
+The nine excludes knowledge of non-arising; ten includes it. Eight is the count
+in the enumerated remaining trainee cases.
 
 ## 6. Philosophical Translation
 

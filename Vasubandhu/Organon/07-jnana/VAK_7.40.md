@@ -25,14 +25,9 @@ pratisaṃvid on five levels, despite the compressed
 `dharme vit`. Its prose then supplies the technical
 content of the remaining clauses.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-kāma-dhyāneṣu | dharme | vit | vāci | prathama-kāmayoḥ |
-vikalābhiḥ | na | tat-lābhī | ṣaṭ | ete | prāntakoṭikāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kāmadhyāneṣu` | locative coordinate compound | in the desire domain and the dhyānas |
 | `dharme` | locative singular masculine/neuter | concerning dharma; in the dharma-pratisaṃvid clause |
@@ -96,20 +91,11 @@ qualities.
 
 ### Bhāṣya-informed study translation
 
-> Dharma-pratisaṃvid occurs on five levels: the desire
-> domain and the four dhyānas. It does not occur higher,
-> because bodies of names are absent there. Nirukti-
-> pratisaṃvid occurs only in the desire domain and first
-> dhyāna, because reflective application, `vitarka`, is
-> absent above the first dhyāna.
->
-> Whoever has acquired one pratisaṃvid necessarily has
-> all four; an incomplete subset does not constitute
-> acquisition of the pratisaṃvids. The six qualities—
-> araṇā, resolve-knowledge, and all four pratisaṃvids—are
-> acquired through the power of final-limit dhyāna.
-> Nirukti-pratisaṃvid is acquired through that power
-> although it is not itself supported on the fourth dhyāna.
+> Dharma-discrimination occurs on five levels: the desire domain and the
+> four dhyānas. Nirukti-discrimination occurs in the desire domain and first
+> dhyāna. Whoever has acquired one of the four has all four; an incomplete
+> set is not their acquisition. These six qualities are acquired through
+> final-limit dhyāna.
 
 Source: Pradhan 419|12–420|11. The definition of final-limit
 dhyāna begins immediately after this verse and is completed

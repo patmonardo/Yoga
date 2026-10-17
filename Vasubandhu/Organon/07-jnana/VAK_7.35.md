@@ -20,14 +20,9 @@ closes the eighteen unshared Buddha-qualities. This verse
 opens another class of qualities belonging to Buddhas
 but shared, as applicable, with other practitioners.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-śiṣya-sādhāraṇāḥ | anye | dharmāḥ | kecit | pṛthagjanaiḥ |
-araṇā-praṇidhijñāna-pratisaṃvid-guṇa-ādayaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `śiṣyasādhāraṇāḥ` | nominative plural masculine compound | shared with disciples |
 | `anye` | nominative plural masculine adjective | other |
@@ -81,13 +76,9 @@ discriminating knowledges, and so forth, as applicable.
 
 ### Bhāṣya-informed study translation
 
-> Other excellent qualities of Buddhas are shared with
-> śrāvaka disciples, and some also with ordinary persons,
-> according to the quality concerned. These include araṇā,
-> knowledge through resolve, discriminating knowledges,
-> higher knowledges, dhyānas, formless attainments,
-> immeasurables, liberations, Essences of mastery, totality-
-> spheres, and related qualities.
+> Other excellent qualities of Buddhas are shared with śrāvaka disciples,
+> and some also with ordinary persons, as appropriate: araṇā, resolve-
+> knowledge, discriminating knowledges, and so forth.
 
 Source: Pradhan 416|17–417|02. The immediate continuation
 introduces araṇā before its classification in VAK 7.36;

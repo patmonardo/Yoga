@@ -25,14 +25,9 @@ verse source prints `tatṣaḍ vidhaṃ`; the Bhāṣya's running
 lemma has the damaged `tatṣaḍivadhaṃ`. The study preserves
 the controlled reading while leaving the witnesses unchanged.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tat | ṣaṭ-vidham | sarva-bhūmi-anulomitam |
-vṛddhi-kāṣṭhā-gatam | tat | ca | buddha-anyasya | prayoga-jāḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tat` | nominative singular neuter pronoun | that final-limit fourth dhyāna |
 | `ṣaḍvidham` | nominative singular neuter adjective | sixfold |
@@ -86,24 +81,9 @@ these [qualities] arise from deliberate application.
 
 ### Bhāṣya-informed study translation
 
-> The final-limit attainment is the fourth dhyāna cultivated
-> in two determinate ways. It is made conformable to all
-> levels by ascending from a desire-domain mind successively
-> through the dhyānas and formless attainments to neither-
-> perception-nor-nonperception, descending in reverse to
-> a desire-domain mind, and ascending again to the fourth
-> dhyāna. It is brought to the summit of increase by
-> development from weak to medium and from medium to strong.
->
-> The six qualities beginning with araṇā are acquired
-> through the power of this cultivation. Nirukti-pratisaṃvid
-> is acquired through it without itself being supported
-> on the fourth dhyāna. For a non-Buddha these qualities
-> arise through deliberate application, not merely through
-> attaining detachment. For a Buddha, no quality is
-> application-produced: through mastery of all dharmas,
-> manifestation of the complete qualities depends only
-> upon intention.
+> That final-limit dhyāna is sixfold, conformed in sequence to all levels,
+> and brought to the summit of increase. For one other than a Buddha, these
+> qualities arise through deliberate application.
 
 Source: Pradhan 420|07–421|03. The last Buddha/non-Buddha
 distinction is stated by the Bhāṣya and should not be
@@ -247,7 +227,7 @@ from the forward–reverse–forward cultivation rather than
 replace it in the source account.
 
 **Buddha-mode is not described as internalized preparation.**
-The first pass says that deliberate mediations have become
+An earlier draft says that deliberate mediations have become
 internalized. That can serve as a project analogy, but
 the prose explicitly says a Buddha has nothing prāyogika.
 Its positive determination is manifestation dependent

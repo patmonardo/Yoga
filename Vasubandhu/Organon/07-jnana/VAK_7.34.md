@@ -21,14 +21,9 @@ The answer is no. The verse specifies the grounds of
 equality and difference; the following prose develops
 the conclusion of the eighteen distinctive qualities.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-saṃbhāra-dharmakāyābhyām | jagataḥ | ca | artha-caryayā |
-samatā | sarva-buddhānām | na | āyus-jāti-pramāṇataḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `saṃbhāradharmakāyābhyām` | instrumental dual coordinated compound | through accumulation and Dharma-body |
 | `jagataḥ` | genitive singular neuter | of / for the world |
@@ -75,20 +70,9 @@ measure.
 
 ### Bhāṣya-informed study translation
 
-> All Buddhas are equal in the complete accumulation of
-> merit and knowledge, the perfection of the Dharma-body,
-> and activity for the world's welfare. They differ in
-> lifespan, social birth, clan, and bodily size according
-> to the time: longer or shorter lives, kṣatriya or brāhmaṇa
-> birth, clans such as Kāśyapa or Gautama, and smaller or
-> larger bodily measure.
->
-> Reflection on their excellence of cause, fruit, and
-> beneficence can produce intense love and reverence toward
-> the Buddhas. The commentary unfolds these excellences
-> into further groups, then praises the Buddhas as an
-> unsurpassed field of merit and closes the account of
-> their eighteen distinctive qualities.
+> All Buddhas are equal through accumulation, perfection of the Dharma-body,
+> and activity for the world's welfare; they differ in lifespan, birth, and
+> bodily measure.
 
 Source: Pradhan 415|11–416|17. The full closing passage,
 including its devotional argument, belongs to this study.

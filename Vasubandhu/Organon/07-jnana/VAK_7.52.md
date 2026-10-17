@@ -18,17 +18,12 @@ The Sanskrit follows the local kārikā witness. The
 Devanāgarī renders that reading. The first half records
 a position, its restriction, and an explicit dissent;
 the second half changes to the number of constructions
-produced through construction-minds.
+produced through construction-consciousnesses.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-mṛtasya | api | asti | adhiṣṭhānam | na | asthirasya |
-apare | tu | na | ādau | ekam | anekena |
-jitāyām | tu | viparyayāt
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `mṛtasya` | genitive singular masculine participle | of one who has died |
 | `api` | particle | even; also |
@@ -40,7 +35,7 @@ jitāyām | tu | viparyayāt
 | `na` | negation | not; the second occurrence denies the post-mortem claim |
 | `ādau` | locative singular of `ādi` | at the beginning |
 | `ekam` | accusative singular neuter here | one [constructed manifestation] |
-| `anekena` | instrumental singular neuter adjective | by many [construction-minds, collectively expressed] |
+| `anekena` | instrumental singular neuter adjective | by many [construction-consciousnesses, collectively expressed] |
 | `jitāyām` | locative singular feminine participle of √ji | when mastered, qualifying the understood higher knowledge |
 | `viparyayāt` | ablative singular masculine | by reversal; with the relation reversed |
 
@@ -49,7 +44,7 @@ jitāyām | tu | viparyayāt
 `nāsthirasya`. `Ādau + ekam` yields `ādāv ekam`.
 The prose repeats the singular instrumental construction
 `anekena nirmāṇacittena` while giving the sense of
-multiple construction-minds.
+multiple construction-consciousnesses.
 
 ## 4. Grammar
 
@@ -71,50 +66,39 @@ they deny the post-mortem explanation itself.
 
 **One produced through many.** `Ādau ekam anekena`
 supplies a verb of constructing. The prose identifies
-one constructed manifestation and many construction-minds.
-The topic is production, not how many minds must continually
+one constructed manifestation and many construction-consciousnesses.
+The topic is production, not how many construction-consciousnesses must continually
 sustain one already produced object.
 
 **When the capacity is mastered.** `Jitāyām` supplies
 `abhijñāyām`, forming the locative condition “when the
 higher knowledge has been mastered.” `Viparyayāt` reverses
-the numerical relation: one mind produces many manifestations.
+the numerical relation: one consciousness produces many manifestations.
 It does not reverse the causal direction from product
 to producer.
 
 **Close construe.** Sustaining determination remains even
 of one who has died, but not with respect to an unstable
 thing; others, however, deny this. At first one manifestation
-is constructed through many minds; when the higher knowledge
+is constructed through many construction-consciousnesses; when the higher knowledge
 is mastered, the relation is reversed.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Sustaining determination remains even after death,
-> but not for an unstable thing; others, however, deny
-> this. At first, one is constructed through many; when
-> mastery is attained, the relation is reversed.
+> Sustaining determination remains even after death, but not for an unstable
+> thing; others, however, deny this. At first, one is constructed through many;
+> when mastery is attained, the relation is reversed.
 
 ### Bhāṣya-informed study translation
 
-> According to the first account, a person's sustaining
-> determination may continue after death, as illustrated
-> by the continued skeletal framework of Ārya Mahākāśyapa.
-> This does not extend to unstable things. Other teachers
-> deny post-mortem sustaining determination and attribute
-> the skeleton's persistence to the efficacy of deities.
->
-> At the beginning, many construction-minds produce one
-> manifestation. When the higher knowledge has been
-> mastered, one mind produces many manifestations—as
-> many as the practitioner wishes to construct.
+> According to one account, sustaining determination may remain after a
+> person's death, but not for an unstable thing; other teachers deny post-
+> mortem sustaining determination. At first, many construction-consciousnesses
+> produce one manifestation; when the higher knowledge is mastered, one
+> consciousness produces many, as many as desired.
 
-Source: Pradhan 428|01–428|12, local Bhāṣya checked
-against the running source. The flesh example in the
-first account contains a damaged expression and is
-examined below rather than silently restored in translation.
 
 ## 6. Philosophical Translation
 
@@ -161,8 +145,8 @@ is the prose expansion of the verse's feminine locative.
 The passage does not identify this mastery by itself
 with exhaustion of the influxes or final liberation.
 
-**`Viparyaya`.** Reversal. Here the many-minds/one-product
-relation becomes one-mind/many-products. Neither sustaining
+**`Viparyaya`.** Reversal. Here the many-consciousnesses/one-product
+relation becomes one-consciousness/many-products. Neither sustaining
 conditions nor the ground rules established earlier are
 thereby reversed or removed.
 
@@ -196,7 +180,7 @@ someone wishes it to remain.
 
 **Production before and after mastery.**
 
-| Condition | Construction-minds | Constructed manifestations |
+| Condition | construction-consciousnesses | Constructed manifestations |
 |---|---|---|
 | At the beginning | Many | One |
 | Higher knowledge mastered | One | Many, as desired |
@@ -214,7 +198,7 @@ Persistence question:
     Two competing explanations are recorded.
 
 Production question:
-    How many construction-minds produce how many manifestations?
+    How many construction-consciousnesses produce how many manifestations?
     Initial: many → one
     Mastered: one → many
 ```
@@ -284,13 +268,13 @@ explicitly unresolved.
 Class: SustainingDetermination
 Class: SustainedThing
 Class: CausalAccount
-Class: ConstructionMind
+Class: ConstructionConsciousness
 Class: ConstructedManifestation
 Class: MasteryCondition
 
 ObjectProperty: explainsPersistenceBy
 ObjectProperty: excludesObjectCondition
-ObjectProperty: hasProductionMindCount
+ObjectProperty: hasProductionConsciousnessCount
 ObjectProperty: hasManifestationCount
 
 FirstPostMortemAccount:
@@ -303,11 +287,11 @@ OtherTeachersAccount:
     explainsPersistenceBy: DeityEfficacy
 
 InitialConstruction:
-    mindCount: Many
+    consciousnessCount: Many
     manifestationCount: One
 
 MasteredHigherKnowledge:
-    mindCount: One
+    consciousnessCount: One
     manifestationCount: ManyAsDesired
 
 ProjectConstraint: Preserve the disagreement between causal accounts.

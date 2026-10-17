@@ -22,14 +22,9 @@ research witness. The verse continues the separate analysis
 of object, knowledge-constitution, and supporting level
 announced in VAK 7.37.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-vāk-mārga-ālambanā | ca | asau | nava | jñānāni | sarva-bhūḥ |
-daśa | ṣaṭ | vā | artha-saṃvit | sā | sarvatra | anye | tu | sāṃvṛtam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `vāṅmārgālambanā` | nominative singular feminine compound | having speech and the Path as objects |
 | `asau` | nominative singular feminine pronoun | that [fourth discriminating knowledge] |
@@ -92,18 +87,11 @@ at every level. The other two are conventional knowledge.
 
 ### Bhāṣya-informed study translation
 
-> Pratibhāna-pratisaṃvid takes speech and the Path as its
-> objects. It can have the nature of any of nine knowledge
-> categories—all except cessation-knowledge—and ranges
-> from the desire domain through Bhavāgra.
->
-> Artha-pratisaṃvid comprises all ten knowledge categories
-> when `artha` means all dharmas. When `artha` means
-> nirvāṇa, it comprises six: dharma-, anvaya-, cessation-,
-> exhaustion-, non-arising-, and conventional knowledge.
-> It too belongs to every level. Dharma- and nirukti-
-> pratisaṃvid are conventional knowledge because their
-> respective objects are name-complexes and speech.
+> The fourth discriminating knowledge takes speech and the Path as its
+> objects, comprises nine knowledge categories, and occurs on every level.
+> Meaning-discrimination comprises ten categories when its field is all
+> dharmas, or six when its field is nirvāṇa; it too occurs on every level.
+> The other two have conventional knowledge as their nature.
 
 Source: Pradhan 418|19–419|11. The level restrictions
 of the latter two discriminating knowledges begin with

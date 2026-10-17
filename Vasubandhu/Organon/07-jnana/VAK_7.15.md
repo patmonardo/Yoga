@@ -170,7 +170,7 @@ actualization support for dharma-knowledge.
 
 ## 9. Interpretive Note
 
-**Correction of the first-pass object reading.** The exploratory
+**Correction of the earlier object reading.** The exploratory
 kārikā study interpreted `kāmarūpāśrayam` partly through the minds
 apprehended. The Bhāṣya's subject and verb are explicit: that
 other-mind knowledge is made present in the two domains. The

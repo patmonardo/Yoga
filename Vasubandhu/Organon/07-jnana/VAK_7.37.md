@@ -19,14 +19,9 @@ The Sanskrit follows the local kārikā witness. Its two
 specifies which araṇā conditions carry over to each new
 quality; they must not be inherited indiscriminately.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-tathā | eva | praṇidhi-jñānam | sarva-ālambam | tu | tat |
-tathā | dharma-arthayoḥ | niruktau | ca | pratibhāne | ca | saṃvidaḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tathaiva` | adverb and emphatic particle | just so, likewise |
 | `praṇidhijñānam` | nominative singular neuter | knowledge preceded by resolve |
@@ -80,24 +75,12 @@ and ready articulation.
 
 ### Bhāṣya-informed study translation
 
-> Like araṇā, knowledge preceded by resolve is conventional
-> knowledge supported in the fourth dhyāna, belonging to
-> an immovable arhat with a human support. Its difference
-> is that all dharmas fall within its object-range.
-> According to the Vaibhāṣikas, the formless attainments
-> are not known directly through it, but through a
-> distinction of accomplished conduct; the passage invokes
-> a farmer illustration without narrating it.
->
-> Resolving “may I know this,” the practitioner enters
-> the fourth dhyāna developed to its culminating limit
-> and knows the intended object as it is.
->
-> The four discriminating knowledges concern dharma,
-> meaning, linguistic expression, and ready articulation.
-> They share araṇā's immovable-arhat and human-support
-> conditions; their different objects, levels, and natures
-> require separate explanation.
+> Resolve-knowledge is likewise conventional knowledge, grounded in the
+> fourth dhyāna, belonging to an immovable arhat and arising with human
+> support; unlike araṇā, its object-range is all dharmas. The four
+> discriminating knowledges likewise share the immovable-arhat and human-
+> support conditions: they concern dharma and meaning, linguistic
+> expression, and ready articulation.
 
 Source: Pradhan 417|18–418|12. The damaged final page-line
 marker does not interrupt the natural argument. VAK 7.38

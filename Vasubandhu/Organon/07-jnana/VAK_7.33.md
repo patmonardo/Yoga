@@ -21,14 +21,9 @@ greatness, then compares compassion and great compassion
 in eight respects. These are three related questions,
 not one undifferentiated enumeration.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-mahā-kṛpā | saṃvṛti-dhīḥ | saṃbhāra-ākāra-gocaraiḥ |
-samatvāt | ādhimātryāt | ca | nānā-karaṇam | aṣṭadhā
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `mahākṛpā` | nominative singular feminine | great compassion |
 | `saṃvṛtidhīḥ` | nominative singular feminine compound | conventional knowing |
@@ -84,20 +79,9 @@ from compassion is eightfold.
 
 ### Bhāṣya-informed study translation
 
-> Great compassion has conventional knowledge as its nature;
-> otherwise it could not take all beings as its object
-> and the three forms of suffering as its aspects.
->
-> It is called great because it arises from a great
-> accumulation of merit and knowledge, takes threefold
-> suffering as its aspect, ranges over the three domains,
-> operates equally toward all beings, and has no greater
-> compassion beyond it.
->
-> Compassion and great compassion differ in nature, aspect,
-> object, supporting level, continuum, acquisition, protection,
-> and a final compassion-comparison whose compressed wording
-> requires textual review.
+> Great compassion has conventional knowledge as its nature. It is great
+> through accumulation, aspect, and object-field, through equality and
+> surpassing intensity. Its distinction from compassion is eightfold.
 
 Source: Pradhan 414|17–415|10. The first six paired
 distinctions are explicit. The last two are retained

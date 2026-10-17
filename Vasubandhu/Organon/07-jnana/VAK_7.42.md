@@ -20,14 +20,9 @@ electronic transcription defects. Its prose clarifies the
 compressed `jñātasākṣīkriyā` through repeated expressions
 of the form `jñānasākṣātkriyā`.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ṛddhi-śrotra-manaḥ-pūrva-janma-cyuti-udaya-kṣaye |
-jñāta-sākṣī-kriyā-abhijñāḥ | ṣaṭ-vidhāḥ | mukti-mārga-dhīḥ
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ṛddhi` | compound member | extraordinary efficacy or accomplishment |
 | `śrotra` | compound member | hearing, expanded as divine hearing |
@@ -82,13 +77,11 @@ to liberation paths.
 
 ### Bhāṣya-informed study translation
 
-> The six higher knowledges are direct cognitive realizations
-> concerning extraordinary efficacy, divine hearing,
-> another's mental course, recollection of former abodes,
-> the death and reappearance of beings, and exhaustion
-> of the influxes. Five of these are shared with ordinary
-> persons. All six have liberation-path discriminative
-> knowing as their nature, like the fruits of the ascetic path.
+> The six higher knowledges are direct cognitive realizations concerning
+> extraordinary efficacy, divine hearing, another’s mental course, former
+> abodes, the death and reappearance of beings, and exhaustion of the
+> influxes. Their nature is discriminative comprehension of the liberation
+> path.
 
 Source: Pradhan 421|03–421|12. The category and level
 distributions begin immediately afterward in VAK 7.43;
@@ -146,7 +139,7 @@ that every kind of hidden-state knowledge exhausts bondage.
 
 **`Vimuktimārgaprajñā`.** Discriminative knowing belonging
 to a liberation path. `Prajñā` should be translated as
-cognition or discriminative knowing here, rather than
+cognition or discriminative comprehension here, rather than
 the abstract “principle” used in the research file.
 
 ## 8. Logical Determination
@@ -192,7 +185,7 @@ four fruits or add those fruits to the sixfold inventory.
 
 ## 9. Interpretive Note
 
-**Correcting the first-pass progression.** The research
+**Correction to the earlier draft’s progression.** The research
 kārikā organizes the six as increasingly comprehensive
 and says the first five expand reach while the sixth
 governs them through liberation. That is an intelligible

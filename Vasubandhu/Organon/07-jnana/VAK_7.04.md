@@ -87,9 +87,12 @@ fourfold. Those two, however, first arisen …
 ### Bhāṣya-informed study translation
 
 > The same dharma- and anvaya-knowledges divide by truth-object into four:
-> knowledge of suffering, origination, cessation, and the Path. As fourfold
-> knowledge without the nature of view, they are also called exhaustion-
-> knowledge and non-arising-knowledge. When these two first arise, however …
+> knowledge of suffering, origination, cessation, and the Path. These
+> fourfold knowledges are exhaustion- and non-arising-knowledge. When these
+> two first arise, however …
+
+The Bhāṣya specifies that these names apply when the knowledges have a
+non-view nature; the final clause remains syntactically open.
 
 ## 6. Philosophical Translation
 

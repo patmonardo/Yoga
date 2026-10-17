@@ -21,30 +21,23 @@ is explicitly `sapta jñānāni bhāvyante`, “seven knowledges
 are cultivated.” The prose controls both the compressed
 syntax and the changing membership of those seven.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sapta-bhūmi-jaya | abhijñā | akopya-āpti | ākīrṇa-bhāvite |
-ānantarya-patheṣu | ūrdhvam | mukti-mārga-aṣṭake | api | ca
-```
-
-The first line above displays compound members for analysis;
-it is not a claim that each has an independent case ending
-in the verse.
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
-| `saptabhūmijaya` | compound member | conquest of seven levels, glossed as detachment |
+| `sapta-bhūmi-jaya` | compound member | conquest of seven levels, glossed as detachment |
 | `abhijñā` | feminine noun in compound | higher knowledge; the prose specifies five |
-| `akopyāpti` | compound member, `akopya + āpti` | attainment of immovability |
-| `ākīrṇabhāvite` | locative singular participial expression | in mixed cultivation [of dhyāna] |
-| `ānantaryapatheṣu` | locative plural masculine | on uninterrupted paths |
+| `akopya-āpti` | compound member, `akopya + āpti` | attainment of immovability |
+| `ākīrṇa-bhāvite` | locative singular participial expression | in mixed cultivation [of dhyāna] |
+| `ānantarya-patheṣu` | locative plural masculine | on uninterrupted paths |
 | `ūrdhvam` | adverb | above / beyond [the seven-level detachment] |
-| `muktimārgāṣṭake` | locative singular neuter collective | in the group of eight liberation paths |
+| `mukti-mārga-aṣṭake` | locative singular neuter collective | in the group of eight liberation paths |
 | `api ca` | particles | and also |
 
 `Abhijñā + akopya` yields `abhijñākopya`; the initial `a`
 of `akopya` must not disappear from the lexical analysis.
+The hyphenated padas display compound members for analysis;
+they do not claim that each has an independent case ending.
 `Āpti + ākīrṇa` yields `āptyākīrṇa`.
 
 ## 4. Grammar
@@ -59,7 +52,7 @@ independent occasion appended to four unrestricted activities.
 **The scope of “above.”** The commentary resolves `ūrdhvam`
 as beyond detachment from the seven levels, in detachment
 from Bhavāgra. It belongs with the ensuing eight liberation
-paths. The first-pass construe “higher uninterrupted paths”
+paths. The initial construe “higher uninterrupted paths”
 does not preserve this relation.
 
 **The trainee qualification.** The prose includes `śaikṣasya`
@@ -88,26 +81,14 @@ the group of eight liberation paths.
 
 ### Bhāṣya-informed study translation
 
-> Seven knowledges are cultivated on the relevant uninterrupted
-> paths for detachment from the four dhyānas and the first three
-> formless levels, for the five higher knowledges, for attainment
-> of immovability, and for mixed cultivation of dhyāna. Ordinarily
-> these are dharma-, anvaya-, suffering-, origination-, cessation-,
-> Path-, and conventional knowledge. At immovability, however,
-> conventional knowledge is excluded because it is not a
-> counteragent to Bhavāgra; a different seventh is specified
-> in a textually doubtful reading.
->
-> Beyond detachment from those seven levels, in the eight
-> liberation paths of detachment from Bhavāgra, the six truth-
-> related categories together with knowledge of another mind
-> are cultivated. Conventional knowledge is again excluded
-> because it is not a counteragent to Bhavāgra.
+> Seven knowledges are cultivated on uninterrupted paths in the contexts of
+> conquest of seven levels, higher knowledge, attainment of immovability, and
+> mixed cultivation; beyond that, they are cultivated on the eight liberation
+> paths as well.
 
-Source: Pradhan 408|08–408|19. The doubtful replacement-word
-at 408|16 is treated below; the explicit later seven-item
-list is secure. The prose also distinguishes the present
-cognition from these cultivated sets.
+At immovability, the Bhāṣya excludes conventional knowledge and records an
+uncertain replacement for the seventh; its seven-item list for the eight
+liberation paths is explicit.
 
 ## 6. Philosophical Translation
 

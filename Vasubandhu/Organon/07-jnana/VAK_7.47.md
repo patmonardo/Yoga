@@ -20,14 +20,10 @@ corrupted forms in the verse quotations and explanatory
 prose; these are distinguished from the local extract's
 regularized readings below.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-ādyā | tṛtīyā | ṣaṣṭhī | ca | prātihāryāṇi |
-śāsanam | agryam | avyabhicāritvāt | hita-iṣṭa-phala-yojanāt
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ādyā` | nominative singular feminine ordinal adjective | the first [higher knowledge] |
 | `tṛtīyā` | nominative singular feminine ordinal | the third [higher knowledge] |
@@ -50,7 +46,7 @@ provide two reasons for the superiority of instruction.
 
 **The sixfold inventory supplies the ordinals.** The
 feminine singular forms refer to understood `abhijñā`.
-They select extraordinary efficacy, other-mind knowledge,
+They select extraordinary efficacy, knowledge of another's consciousness,
 and influx-exhaustion knowledge from the six higher
 knowledges. They do not select the first, third, and
 sixth members of a new list of prātihāryas.
@@ -84,28 +80,17 @@ instructed] to beneficial and desired fruit.
 
 ### Literal Translation
 
-> The first, third, and sixth are the prātihāryas.
-> Instruction is foremost because of non-deviation and
-> because it connects with beneficial and desired fruit.
+> The first, third, and sixth are the prātihāryas. Instruction is foremost
+> because of non-deviation and because it connects with beneficial and desired
+> fruit.
 
 ### Bhāṣya-informed study translation
 
-> Extraordinary efficacy, other-mind knowledge, and
-> influx-exhaustion knowledge are respectively the wonders
-> of extraordinary efficacy, indication, and instruction.
->
-> Of these, instruction is foremost. The other two can
-> be reproduced through special techniques, whereas
-> instruction according to things as they are does not
-> admit that substitution. The first two principally
-> attract minds; instruction connects those instructed
-> with beneficial and desired fruit by teaching the means.
+> The first, third, and sixth [higher knowledges] are the prātihāryas:
+> extraordinary efficacy, indication, and instruction, respectively.
+> Instruction is foremost because it does not deviate and because it joins
+> [those instructed] with beneficial and desired fruit.
 
-Source: Pradhan 424|08–425|03 in the local Bhāṣya
-extract, checked against the running source. The wording
-about reproduction follows the extract's intelligible
-reading and the examples that follow; the corresponding
-running-source verb is damaged.
 
 ## 6. Philosophical Translation
 
@@ -136,9 +121,9 @@ of the prātihāryas, not an incidental spectator added
 to an otherwise purely private capacity.
 
 **`Ādeśanā`.** Indication or declaration, here associated
-with other-mind knowledge. The prātihārya designation
+with knowledge of another's consciousness. The prātihārya designation
 concerns its demonstrative role; it is not simply a
-new synonym for every possible cognition of another mind.
+new synonym for every possible cognition of another's consciousness.
 
 **`Anuśāsana`.** Instruction or directive teaching. The
 Bhāṣya uses this expansion of `śāsana` and explains its
@@ -154,7 +139,7 @@ every utterance of any teacher invariably succeeds.
 
 **`Gāndhārī / Īkṣaṇikā vidyā`.** The named techniques
 said in the passage to enable travel through the sky
-and knowledge of another mind, respectively. `Vidyā`
+and knowledge of another's consciousness, respectively. `Vidyā`
 here names a special art or technique; it must not be
 silently equated with the three vidyās of VAK 7.45–7.46.
 These are source-reported examples, not independently
@@ -180,7 +165,7 @@ adjectives qualifying the result: beneficial and desired.
 | Selected higher knowledge | Number in the sixfold list | Prātihārya |
 |---|---|---|
 | Extraordinary efficacy | First | Extraordinary efficacy, `ṛddhi` |
-| Other-mind knowledge | Third | Indication, `ādeśanā` |
+| knowledge of another's consciousness | Third | Indication, `ādeśanā` |
 | Influx-exhaustion knowledge | Sixth | Instruction, `anuśāsana` |
 
 The third vidyā and the sixth abhijñā refer to the same
@@ -230,7 +215,7 @@ Ranking established here:
     Instruction is foremost among the three.
 
 Ranking not supplied here:
-    Other-mind indication is superior to extraordinary efficacy.
+    indication of another's consciousness is superior to extraordinary efficacy.
 
 Two grounds of primacy:
     Non-deviation of instruction according to things as they are
@@ -321,7 +306,7 @@ ExtraordinaryEfficacy:
     abhijnaNumber: 1
     pratiharya: Rddhi
 
-OtherMindKnowledge:
+KnowledgeOfAnotherConsciousness:
     abhijnaNumber: 3
     pratiharya: Adesana
 

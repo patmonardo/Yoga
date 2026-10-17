@@ -20,15 +20,10 @@ further damaged forms. The prose supplies a clear semantic
 expansion of the last pāda; that expansion controls the
 translation without being presented as a restored verse.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-sva-adho-bhū-viṣayāḥ | labhyāḥ | ucitāḥ | tu | virāgataḥ |
-tṛtīyā | trīṇi | upasthānāni | ādyam |
-śrotra-ṛddhiḥ | cakṣuṣi [local reading; final construction uncertain]
-```
 
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `svādhobhūviṣayāḥ` | nominative plural feminine compound adjective | having their own and lower grounds as object-range |
 | `sva` | compound member | own, relative to the ground of the capacity |
@@ -71,7 +66,7 @@ the next prose statement explicitly requires application
 for the production of all five.
 
 **The third and the first.** `Tṛtīyā` numbers a higher
-knowledge: the third is other-mind knowledge. `Ādyam`
+knowledge: the third is knowledge of another's consciousness. `Ādyam`
 numbers a mindfulness-application: the first is body
 mindfulness. They belong to different enumerations.
 The latter must not be translated as “the first higher
@@ -81,8 +76,8 @@ knowledge” and then added as an extra member of the list.
 is a neuter plural nominal predicate of the feminine
 singular `tṛtīyā`. The differing genders are appropriate
 to nouns naming different classifications. The prose
-identifies feeling, mind, and dharma mindfulness through
-the mind-and-mental-factor object-field.
+identifies feeling, consciousness, and dharma mindfulness through
+the consciousness-and-mental-factor object-field.
 
 **Close construe.** [The five] have their own and lower
 grounds as object-range. The previously cultivated ones,
@@ -96,38 +91,19 @@ is the Bhāṣya's expansion of the uncertain verse wording.
 
 ### Literal Translation
 
-> They have their own and lower grounds as their objects.
-> The previously cultivated ones, however, are obtainable
-> through detachment. The third is three applications
-> of mindfulness. [Extraordinary efficacy, divine hearing,
+> They have their own and lower grounds as their objects. The previously
+> cultivated ones, however, are obtainable through detachment. The third is
+> three applications of mindfulness. [Extraordinary efficacy, divine hearing,
 > and divine sight are] the first application.
-
-The brackets mark the prose-controlled resolution of the
-last pāda, not additional securely parsed verse words.
 
 ### Bhāṣya-informed study translation
 
-> The five higher knowledges reach their own supporting
-> ground and lower grounds, but not higher ones. Those
-> cultivated in previous lives are acquired through
-> detachment; special attainments are acquired through
-> application, and producing any of the five requires
-> application.
->
-> Other-mind higher knowledge comprises the mindfulness-
-> applications concerning feeling, mind, and dharmas,
-> because it takes mind and mental factors as objects.
-> Extraordinary efficacy, divine hearing, and divine sight
-> belong to body mindfulness because they take material
-> objects. The remaining two higher knowledges comprise
-> all four mindfulness-applications.
+> The five [higher knowledges] take their own and lower grounds as objects.
+> Those cultivated in previous lives, however, are acquired through detachment.
+> The third [higher knowledge comprises] three applications of mindfulness;
+> [extraordinary efficacy, divine hearing, and divine sight comprise] the first
+> [application].
 
-Source: local Bhāṣya witness and running source,
-Pradhan 422|15–423|09. “The remaining two” is controlled
-by the complete sixfold inventory: former-abode recollection
-and influx-exhaustion knowledge. The initial fivefold
-range rule must not be extended to the sixth merely
-because the mindfulness classification returns to all six.
 
 ## 6. Philosophical Translation
 
@@ -149,7 +125,7 @@ and functions.
 **`Svādhobhūviṣaya`.** Having one's own and lower grounds
 as object-range. The Bhāṣya applies this to going and
 creating through ṛddhi, hearing sound, knowing another
-mind, recollecting former existence, and seeing death
+consciousness, recollecting former existence, and seeing death
 and rebirth. The rule determines vertical range; it is
 not a guarantee of unrestricted access to every particular
 object within that range.
@@ -177,9 +153,9 @@ from the passage.
 
 **`Smṛtyupasthāna`.** Application or establishment of
 mindfulness. Here it classifies cognition by its object:
-body, feeling, mind, and dharmas. It does not prescribe
+body, feeling, consciousness, and dharmas. It does not prescribe
 three successive diagnostic questions for every instance
-of other-mind knowledge.
+of knowledge of another's consciousness.
 
 **`Rūpālambana`.** Having material form as object. In the
 body-mindfulness classification this includes sound and
@@ -199,12 +175,12 @@ judgment about conduct is known.
 |---|---|
 | Extraordinary efficacy | Going to or creating at its own or a lower ground |
 | Divine hearing | Hearing sounds belonging to its own or a lower ground |
-| Other-mind knowledge | No apprehension of a higher-ground mind |
+| knowledge of another's consciousness | No apprehension of a higher-ground consciousness |
 | Former-abode recollection | No recollection of the higher-ground object excluded here |
 | Death-and-rebirth knowledge | No seeing of a higher-ground object |
 
 The source expressly derives the exclusion of formless-
-level mind from other-mind knowledge and former-abode
+level consciousness from knowledge of another's consciousness and former-abode
 recollection: those levels lie above their dhyāna grounds.
 This supplies an object-range limit in addition to the
 acquisition account of VAK 7.43. It does not deny every
@@ -231,7 +207,7 @@ requires both prior-life cultivation and detachment.
 
 | Higher knowledge | Mindfulness constitution | Object determination here |
 |---|---|---|
-| Other mind | Feeling, mind, dharmas | Mind and mental factors |
+| Knowledge of another's consciousness | Feeling, consciousness, dharmas | Consciousness and mental factors |
 | Extraordinary efficacy | Body | Four external material Essences, excluding sound |
 | Divine hearing | Body | Sound Essence |
 | Divine sight / death and rebirth | Body | Visible-form Essence |
@@ -244,9 +220,9 @@ to object-side āyatanas. It does not make the dharma
 Essence a fifth material object or reduce body
 mindfulness to contemplation of one's anatomical body.
 
-The threefold classification of other-mind knowledge
-follows its mind-and-mental-factor objects: feeling has
-its own mindfulness class, mind has its own, and other
+The threefold classification of knowledge of another's consciousness
+follows its consciousness-and-mental-factor objects: feeling has
+its own mindfulness class, consciousness has its own, and other
 mental factors fall under dharma mindfulness. These
 classes do not imply three simultaneous mental acts.
 
@@ -362,8 +338,8 @@ PreviouslyCultivatedHigherKnowledges:
 SpecialHigherKnowledges:
     acquisitionCondition: Application
 
-OtherMindKnowledge:
-    mindfulness: Feeling, Mind, Dharmas
+KnowledgeOfAnotherConsciousness:
+    mindfulness: Feeling, Consciousness, Dharmas
 
 ExtraordinaryEfficacy:
     mindfulness: Body
@@ -378,10 +354,10 @@ DivineSight:
     directObjectField: VisibleForm
 
 FormerAbodeRecollection:
-    mindfulness: Body, Feeling, Mind, Dharmas
+    mindfulness: Body, Feeling, Consciousness, Dharmas
 
 InfluxExhaustionKnowledge:
-    mindfulness: Body, Feeling, Mind, Dharmas
+    mindfulness: Body, Feeling, Consciousness, Dharmas
 
 CitedConductDetermination:
     suppliedBy: DistinctAccompanyingKnowledgeInNoblePersons

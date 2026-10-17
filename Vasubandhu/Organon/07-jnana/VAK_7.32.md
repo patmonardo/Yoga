@@ -20,14 +20,9 @@ distinctive qualities: four fearlessnesses and three
 establishments of mindfulness. The Bhāṣya distinguishes
 the relations through which each group is explained.
 
-## 3. Padaccheda and Lexical Analysis
+## 3. Lexical Analysis
 
-```text
-vaiśāradyam | caturdhā | tu | yathā | ādya-daśame | bale |
-dvitīya-saptame | ca | eva | smṛti-prajñā-ātmakam | trayam
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `vaiśāradyam` | nominative singular neuter | fearlessness |
 | `caturdhā` | adverb | in four ways, fourfold |
@@ -37,7 +32,7 @@ dvitīya-saptame | ca | eva | smṛti-prajñā-ātmakam | trayam
 | `bale` | nominative dual neuter | the two powers |
 | `dvitīyasaptame` | nominative dual neuter coordinated adjective | the second and seventh [powers] |
 | `ca eva` | particles | and likewise |
-| `smṛtiprajñātmakam` | nominative singular neuter adjective | having mindfulness and discriminative knowing as its nature |
+| `smṛtiprajñātmakam` | nominative singular neuter adjective | having mindfulness and discriminative comprehension as its nature |
 | `trayam` | nominative singular neuter collective | the triad |
 
 The dual forms enumerate pairs of powers. Their contextual
@@ -69,7 +64,7 @@ having mindfulness and clear comprehension as their nature.
 **Close construe.** Fearlessness is fourfold, corresponding
 to the first and tenth powers and likewise to the second
 and seventh. The triad [of mindfulness establishments]
-has mindfulness and discriminative knowing as its nature.
+has mindfulness and discriminative comprehension as its nature.
 
 ## 5. Translation
 
@@ -77,27 +72,15 @@ has mindfulness and discriminative knowing as its nature.
 
 > Fearlessness is fourfold, corresponding to the first
 > and tenth powers, and likewise to the second and seventh.
-> The triad has mindfulness and discriminative knowing
+> The triad has mindfulness and discriminative comprehension
 > as its nature.
 
 ### Bhāṣya-informed study translation
 
-> The Buddha's four fearlessnesses concern complete awakening,
-> exhaustion of the influxes, the obstructive factors he
-> declares to disciples, and the path he teaches for leading
-> out. Their knowledge-grounds correspond respectively to
-> the first, tenth, second, and seventh powers. Fearlessness
-> is absence of fear effected by these knowledges; it is
-> not simply knowledge itself.
->
-> The three establishments of mindfulness are distinguished
-> by the assembly's response: listening, not listening,
-> or a mixture of both. They have mindfulness and clear
-> comprehension as their nature. Their Buddha-specificity
-> is explained by abandonment together with residual traces,
-> or alternatively by the extraordinary non-arising of
-> reactive pleasure and related responses toward his own
-> disciples, where such reactions would have particular occasion.
+> The four fearlessnesses correspond, in order, to the first and tenth
+> powers, and likewise to the second and seventh. The three establishments
+> of mindfulness have mindfulness and discriminative comprehension as their
+> nature.
 
 Source: Pradhan 413|20–414|16. The passage refers to the
 sūtras but quotes only abbreviated formulations. This
