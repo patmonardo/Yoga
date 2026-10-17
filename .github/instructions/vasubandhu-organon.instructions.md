@@ -46,6 +46,13 @@ folder, consult these load-bearing project documents:
   studies, place the Techne interpretation in a separate section titled
   **Interpretation**. Do not fall back to conventional Buddhist English
   terminology when it conflicts with the Scientific mapping.
+- Bhāṣya section standard (enforced by `audit_bhasya_sections.py`): number every
+  `##` section consecutively. Section 1 is `Kārikā Anchor` (Sanskrit, then one
+  `>` block quote of the kārikā study's Bhāṣya-informed study translation; no
+  subheading inside). Section 2 is `Continuous Sanskrit` (or `Continuous
+  Sanskrit Witness`). Section 3 is exactly `Continuous Conventional Translation`
+  — never `Scientific English Rendering` or any other title. Then the argument
+  and study sections, ending with the final numbered `Review Status`.
 - Use exactly one **Lexical Analysis** section per kārikā study. Do not add
   a separate *Padaccheda* section or additional lexical-analysis sections.
 - The Lexical Analysis section is a single table with this exact header:

@@ -6,19 +6,11 @@
 >
 > caittebhyo vedanāsaṃjñe pṛthakskandhau niveśitau // 1.21 //
 
-Literal:
-
-> Because they are causes of the roots of dispute and of saṃsāra, and because
-> of the reason of order, feeling and reflection are established as two distinct
-> bases apart from the other mental factors.
-
-Bhāṣya-informed:
-
-> Feeling and reflection receive distinct bases because they are principal
-> causes of the two roots of dispute. Savoring feeling leads to fixation upon
-> sensual desire. Inverted reflection leads to fixation upon views. Both are
-> also principal causes of saṃsāra. The order of the bases is a further reason,
-> and it is explained next.
+> Feeling and perception are placed in separate Bases among the mental factors
+> because they are principal causes of the roots of dispute and of saṃsāra:
+> attachment to feeling leads toward sensual desire, and distorted perception
+> toward views. Their place in the order of the Bases is another reason for
+> distinguishing them.
 
 The commentary names the two roots, assigns the principal causes, and defers
 the order. The exclusion of the unconditioned, and the order itself, open 1.22.
@@ -55,7 +47,7 @@ demonstration. Word division is editorial. The local e-text has *pṛthakaskndha
 *viṣaryastasaṃjñaḥ*, and *tredho papādayiṣyāmaḥ*. Read *pṛthak skandhau*,
 *viparyastasaṃjñaḥ*, and *tredhopapādayiṣyāmaḥ*. Not a critical text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 Why are the mental factors placed together in the formations-base, while
 feeling and reflection are established as distinct bases?

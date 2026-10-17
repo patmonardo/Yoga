@@ -6,22 +6,10 @@
 >
 > mohendriyarucitraidhāt tisraḥ skandhādideśanāḥ // 1.20 //
 
-Literal:
-
-> Bases, essences, and principles have the meanings of collection, door of
-> arrival, and source-kind. Because confusion, faculty, and inclination are
-> threefold, there are three teachings, beginning with the bases.
-
-Bhāṣya-informed:
-
-> A base is a collection: whatever form is past, future, or present, gathered
-> into one, is reckoned the form-base. An essence is the door through which
-> consciousness and the mental factors arrive and extend. A principle is a
-> source-kind, as the mines in one mountain. For the conditioned, that source
-> is a homogeneous cause of its own kind. The unconditioned are principles as
-> kind and own-nature, not as that cause. The three teachings are Base,
-> Essence, Principle, in that order, for three confusions, three faculties, and
-> three inclinations.
+> Bases mean collections; Essences are doors through which consciousness and
+> mental factors extend; Principles are source-kinds. Because those to be
+> trained differ in confusion, Faculty, and inclination, each in three ways,
+> there are three corresponding teachings: of Bases, Essences, and Principles.
 
 The commentary gives the meanings, meets the objections, and then says why
 three teachings. The question that separates feeling and reflection opens 1.21.
@@ -116,7 +104,7 @@ It is not taken here.
 
 The unit runs from “the three have been explained” through the assignment of the teachings. Word division is editorial. *Cittacittānāṃ* is kept. It is uncertain, and the next sentence carries the general definition. Not a critical text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 The bases, the essences, and the principles have been explained. This, however, is to be said: what is the meaning of base, essence, and principle?
 

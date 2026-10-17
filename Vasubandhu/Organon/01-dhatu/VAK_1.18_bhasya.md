@@ -6,16 +6,9 @@
 >
 > dhātunā ca svabhāvena parabhāvaviyogataḥ // 1.18 //
 
-Literal:
-
-> The inclusion of all is by one base, and by one essence, and by one
-> principle, by own-nature, because of separation from another's nature.
-
-Bhāṣya-informed:
-
-> All dharmas are included jointly by the form-base, the mind-essence, and the
-> dharma-principle. The inclusion is by a dharma's own nature, not by another's
-> nature, from which it is separate.
+> All dharmas are included together by one Base, the Form Base; one Essence,
+> the Mind Essence; and one Principle, the Dharma Principle. Each is included
+> by its own nature, since it is separate from the nature of another.
 
 The commentary states the ranges, names the three, gives the ground, and sets
 a conventional gathering beside the rule. The paired eyes open the next verse.
@@ -64,7 +57,7 @@ The local e-text has *skandehnāyatanena*, *parabhavena*, and the splits
 *ā yatanadhātubhiḥ* and *tadbhāva viyuktatvāt*. Read *skandhenāyatanena*,
 *parabhāvena*, *āyatanadhātubhiḥ*, and *tadbhāvaviyuktatvāt*. Not a critical text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 There, inclusion of all the conditioned is by the bases. Of all the Impure, by
 the bases of appropriation. Of all dharmas, by the essences and the principles.

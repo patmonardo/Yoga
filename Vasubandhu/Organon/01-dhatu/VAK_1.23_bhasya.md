@@ -6,22 +6,11 @@
 >
 > dūrāśutaravṛttyānyat yathāsthānaṃ kramo 'thavā // 1.23 //
 
-Literal:
-
-> The five come first, because their objects are present. The four, because
-> their objects are derived form. The rest, by farther or quicker operation.
-> Or the order is according to location.
-
-Bhāṣya-informed:
-
-> The five, beginning with the eye, are stated first, because they take a
-> present object. Mind is not restricted to the present. Of the five, four are
-> stated first, because their object is derived form. The body's object is
-> sometimes the great elements, sometimes derived form, sometimes both. Eye and
-> ear take a distant object, and the eye operates farther than the ear. Nose is
-> stated before tongue, because it takes the odor of food before the food
-> reaches the tongue. Or the order follows the sites in the body. Mind depends
-> on those organs and is not situated in a place.
+> The five Faculties beginning with the eye precede Mind because they take
+> present Conditions. Of those five, the first four precede Body because their
+> Conditions are Element-dependent Form. The remaining order follows how far
+> or how quickly they operate; alternatively, it follows the positions of their
+> sites in the body.
 
 The commentary orders the six. The question why one material essence is called
 form, and one essence the dharma-essence, opens 1.24. It is not taken here.
@@ -82,7 +71,7 @@ editorial. Three expressions are not repaired: *vyadhvānadhraviṣayam*,
 *aprāptasyaiva jihvā bhojyasya*, and *takyāḥ syāsya bahulyena*. Not a critical
 text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 The order of the six, beginning with the eye, among the essences and the
 principles, is to be stated. The order of their conditions and of their

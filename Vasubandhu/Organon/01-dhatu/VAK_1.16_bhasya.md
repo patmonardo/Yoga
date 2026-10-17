@@ -6,13 +6,10 @@
 >
 > dhātavaḥ sapta ca matāḥ ṣaḍvijñānāny atho manaḥ // 1.16 //
 
-Literal:
-
-> Cognition is respective apprehension. And that is the mind-essence. Seven principles are accepted: the six cognitions, and the mind-principle.
-
-Bhāṣya-informed:
-
-> The cognition-base is apprehension with respect to each condition: six groups, from the eye-cognition through the mind-group cognition. Cognition-essence is the mind-essence. The seventh cognition-principle is the mind-principle. Not mind.
+> The Cognition Base is apprehension with respect to each condition, occurring
+> in six groups from Eye-Cognition through Mind-Cognition. That same Base is
+> the Mind Essence in the Essence arrangement and, in the Principle arrangement,
+> seven Principles: the six Cognition Principles and the Mind Principle.
 
 Base first. The essence equation is second. The principle count is third. The office of the mind-principle is the next verse.
 
@@ -46,7 +43,7 @@ Base first. The essence equation is second. The principle count is third. The of
 
 The unit runs from the definition through the close. Word division is editorial. The local e-text has *saspta*, *bhavaṇti*, *dhatavaḥ*, and a damaged join of the two names. Read *sapta*, *bhavanti*, *dhātavaḥ*, and *manovijñānadhātur manodhātuś ca*. The mark before *vijñapti* in the close is an avagraha: *trayo 'vijñaptiḥ*. Not a critical text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 Cognition is respective apprehension. Apprehension, *upalabdhi*, with respect to each condition, is what is called the cognition-base.
 

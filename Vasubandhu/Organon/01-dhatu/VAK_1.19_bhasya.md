@@ -6,19 +6,9 @@
 >
 > dvitve 'pi cakṣurādīnāṃ śobhārthaṃ tu dvayodbhavaḥ // 1.19 //
 
-Literal:
-
-> From commonality of kind, range, and principle, there is the status of one
-> principle, even in the duality of the eye and the rest. But the arising as a
-> pair is for the sake of beauty.
-
-Bhāṣya-informed:
-
-> There are not twenty-one principles. The two eyes are one eye-principle,
-> because both have the nature of the eye, both take visible form, and both are
-> supports of one eye-principle. The same holds for ear and nose. That they
-> arise as a pair is for the beauty of the support. Otherwise there would be
-> great disfigurement.
+> Although the eyes, ears, and nostrils occur in pairs, each pair counts as one
+> Principle: its members share a kind, a range, and the Cognition they support.
+> Yet they arise in pairs for the beauty of the bodily support.
 
 The commentary meets the count, then explains the pair. The next sentence, that
 bases, essences, and principles have been explained, opens 1.20. It is not
@@ -59,7 +49,7 @@ division is editorial. The local e-text has *tra*, *tasmad*, *cakṣuradīnaṃ*
 closing compound, *nāsikāvila* is read as *nāsikābila*, nostril-opening. The
 repair stays marked. Not a critical text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 Objection. But should there not be twenty-one principles, because the eye is
 twofold, and the ear and the nose as well?

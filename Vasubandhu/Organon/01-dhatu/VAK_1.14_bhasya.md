@@ -6,20 +6,11 @@
 >
 > vedanānubhavaḥ saṃjñā nimittodgrahaṇātmikā // 1.14 //
 
-Literal:
-
-> These very organs and meanings are accepted as the ten essences and the ten
-> principles. Feeling is undergoing. Reflection has the taking up of the mark
-> as its nature.
-
-Bhāṣya-informed:
-
-> The five organs and the five meanings already stated in the form-base are
-> accepted as ten essences, and as the same ten principles. *Avijñapti* is not
-> among the ten. Feeling is undergoing: pleasant, painful, or neither. Divided,
-> six groups, from eye-contact through mind-contact. Reflection takes up the
-> mark: blue and yellow, long and short, woman and man, and the rest. Divided,
-> six groups, as with feeling.
+> The same five Faculties and five meanings of the Form Base, without
+> *avijñapti*, are counted as ten Essences and as the same ten Principles.
+> Feeling is undergoing, whether pleasant, painful, or neither, in six groups
+> distinguished by contact from eye through Mind. Reflection takes up marks
+> such as color and shape and is likewise divided into six groups.
 
 The commentary distributes the ten, then defines feeling and reflection. The
 next verse takes up formations. It is not taken here.
@@ -60,7 +51,7 @@ e-text reads *indriyārthasta ... aśāyatanadhātavaḥ*, *cakṣurchātū*, an
 *yāvan manaḥsaṃsparśajā*. *Mitramitra* is transmitted. Friend and enemy is a
 possible division, uncertain at the letter. Not a critical text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 The very ones already stated as having the nature of the form-base:
 

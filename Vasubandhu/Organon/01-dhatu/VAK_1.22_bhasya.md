@@ -6,20 +6,10 @@
 >
 > yathaudārikasaṃkleśabhājanādyarthadhātutaḥ // 1.22 //
 
-Literal:
-
-> The unconditioned is not stated among the bases, because the meaning does not
-> apply. The order, again, is according to grossness, affliction, the meaning
-> beginning with a vessel, and principle.
-
-Bhāṣya-informed:
-
-> A base is a collection. The unconditioned is not gathered that way, so it is
-> neither one of the five nor a sixth base. It remains in the dharma-essence and
-> the dharma-principle. The five are ordered from gross to subtle; by the
-> progress of affliction; as vessel, food, seasoning, maker, and eater; and by
-> the levels, from the desire-principle to the summit. For these reasons there
-> are five, neither fewer nor more.
+> The unconditioned is not counted among the Bases, since it cannot be gathered
+> as a collection. The Bases are ordered by relative grossness, by the course
+> of affliction, by their roles beginning with a vessel, and by the Principles
+> of existence, from desire to the summit.
 
 The commentary excludes, then orders, then returns to the separation in 1.21.
 The order of the six faculties opens 1.23. It is not taken here.
@@ -99,7 +89,7 @@ The local e-text is repaired at the obvious breaks. Two discrepancies are not
 repaired. The recap says vessel and seasoning. The analogy said food and
 seasoning. 1.21 promised three ways. This unit gives four. Not a critical text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 The unconditioned is not stated among the bases, because the meaning does not
 apply. Stated among them, it cannot be included in these, because the meaning

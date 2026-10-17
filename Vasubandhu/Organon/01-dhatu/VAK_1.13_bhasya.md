@@ -6,19 +6,10 @@
 >
 > āpas tejaś ca vāyus tu dhātur eva tathāpi ca // 1.13 //
 
-Literal:
-
-> By worldly designation, color and configuration are called earth. Water and
-> fire too. Wind, however, is the principle itself — and yet also in that way.
-
-Bhāṣya-informed:
-
-> What people point out as earth, water, or fire is color and configuration,
-> not the corresponding principle. What the world calls wind may be the
-> principled wind itself. Yet a blue storm or a circular storm is also called
-> wind, by color or configuration. The commentary then asks why the whole
-> series through *avijñapti* is called the form-base. The reason offered is
-> being affected. The grounding of *avijñapti* remains contested.
+> What ordinary speech calls earth, water, and fire is color and configuration,
+> rather than the corresponding elements themselves. What it calls wind can be
+> the wind-element itself, though wind can also be named from its visible color
+> or configuration.
 
 The verse is the cut between ordinary name and principle. The commentary
 extends the unit through the form-base and the hard member. The next verse
@@ -134,7 +125,7 @@ damaged forms, including *vāyuar*, *rūpopādānasdandha*, *sañghātasthaṃ*,
 *āśrtya*, *utpattinimiktamātraṃ*, and *avijña ptyāśayeṣu*. The readings
 above are working repairs. Not a critical text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 Exposition. What, then, is the difference between earth and the rest, and the
 principled earth and the rest?

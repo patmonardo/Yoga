@@ -6,22 +6,10 @@
 >
 > dhṛtyādikarmasaṃsiddhāḥ kharasnehoṣṇateraṇāḥ // 1.12 //
 
-Literal:
-
-> The elements are the principled earth and the principled water, fire, and
-> wind. They are established in functions beginning with support:
-> hardness, cohesion, heat, and impulsion.
-
-Bhāṣya-informed:
-
-> The four great elements are those four elements, principled. They are called principled
-> because they hold their own-character and derived form. Their greatness is
-> magnitude, as support of all other form, or a great gathering in the masses
-> of earth, water, fire, and wind, where the corresponding element operates
-> prominently. The functions, in order, are support, gathering, ripening, and
-> spreading. The own-characters are hardness, cohesion, heat, and impulsion.
-> Lightness, named in the treatises, is derived form. Wind is the principle
-> whose own-character is impulsion. The function makes that character evident.
+> The four Great Elements are the Earth, Water, Fire, and Wind Principles, each
+> sustaining its own-character and derived Form. In that order, their functions
+> are support, gathering, ripening, and spreading (growth and extension), while
+> their own-characters are hardness, cohesion, heat, and impulsion.
 
 The commentary answers which elements, then pairs function and own-character.
 The next question, worldly form against the principle itself, is 1.13. It is
@@ -48,7 +36,7 @@ not taken here.
 The unit runs from which elements through the function making own-character
 evident. Span: Pradhan `[008|11]`–`[008|25]`. Word division is editorial.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 > “Depending on the great elements” was stated. Which are the elements?
 >

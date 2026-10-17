@@ -6,13 +6,9 @@
 >
 > ṣaṣṭhāśrayaprasiddhyarthaṃ dhātavo 'ṣṭādaśa smṛtāḥ // 1.17 //
 
-Literal:
-
-> Whichever cognition among the six is immediately past, that indeed is mind. The eighteen principles are taught in order to establish the sixth support.
-
-Bhāṣya-informed:
-
-> Mind is not a seventh cognition beside the six. Whichever of those six has just ceased is called mind, and called the mind-principle, in its office as support. The five have supports of their own. The mental cognition has no further support of that kind. Eighteen are taught so that this sixth support be established.
+> Of the six Cognitions, whichever has just ceased is Mind, the Mind Principle
+> in its role as support. Eighteen Principles are taught so that Mind may be
+> established as the sixth support for Mind-Cognition.
 
 The commentary opens the question 1.16 left standing, answers it, meets a count-objection, and tests the answer on an arhat's final consciousness. What the bases include is the next study. It is not taken here.
 
@@ -56,7 +52,7 @@ The commentary opens the question 1.16 left standing, answers it, meets a count-
 
 The unit runs from the objection through the arhat's final consciousness. Word division is editorial. The local e-text has *kiṃ narhi*, *aṣṭādāśa*, a broken purpose-compound, and a damaged join on eighteen. Read *kiṃ tarhi*, *aṣṭādaśa*, *ṣaṣṭhāśrayaprasiddhyarthaṃ*, and *'ṣṭādaśa*. *Ucyeta* is kept: would be called. *Cakṣurdhātvāyatanādayaḥ* is the five supports beginning with the eye. Not a critical text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 Objection. But it was said that the six groups of cognition are the cognition-base. What, then, is this mind-principle, other than those?
 

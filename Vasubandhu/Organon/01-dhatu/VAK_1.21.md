@@ -48,7 +48,7 @@ Because they are causes of the roots of dispute and of saṃsāra, and because o
 
 ### Bhāṣya-informed study translation
 
-Feeling and perception are placed in separate aggregates among the mental factors because they are principal causes of the roots of dispute and of saṃsāra: attachment to feeling leads toward sensual desire, and distorted perception toward views. Their place in the order of the aggregates is another reason for distinguishing them.
+Feeling and perception are placed in separate Bases among the mental factors because they are principal causes of the roots of dispute and of saṃsāra: attachment to feeling leads toward sensual desire, and distorted perception toward views. Their place in the order of the Bases is another reason for distinguishing them.
 
 ## 6. Philosophical Translation
 

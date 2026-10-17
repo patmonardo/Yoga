@@ -6,21 +6,10 @@
 >
 > mahābhūtāny upādāya sa hy avijñaptir ucyate // 1.11 //
 
-Literal:
-
-> The wholesome or unwholesome continuity which, depending on the great
-> elements, belongs even to one whose consciousness is otherwise directed or
-> absent: that indeed is called *avijñapti*.
-
-Bhāṣya-informed:
-
-> *Avijñapti* is a wholesome or unwholesome stream. It continues when
-> consciousness is directed elsewhere, in the two attainments without
-> consciousness, and also while consciousness is present and not distracted.
-> Dependence on the great elements distinguishes it from a similar stream of
-> acquisition. It has the nature of form and action, and does not inform
-> another as *vijñapti* does. In summary, it is wholesome or unwholesome form
-> arisen from *vijñapti* or from absorption.
+> The wholesome or unwholesome continuity that persists even when consciousness
+> is directed elsewhere or absent—and also when it is present and undistracted—
+> depends on the Great Elements and is called *avijñapti*. It is form and action
+> that does not inform another as *vijñapti* does.
 
 The commentary explains the states, the stream, the distinction, and the
 name. Which great elements are meant opens 1.12. It is not taken here.
@@ -59,7 +48,7 @@ Word division is editorial. The local verse reads *anubaṇdhaḥ*; the kārikā
 witness and the gloss support *anubandhaḥ*. These are normalizations, not a
 critical text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 > *Avijñapti* is now to be explained. It is stated thus.
 >

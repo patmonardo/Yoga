@@ -6,22 +6,10 @@
 >
 > dharmāyatanadhātvākhyāḥ sahāvijñaptyasaṃskṛtaiḥ // 1.15 //
 
-Literal:
-
-> The others, apart from the four, are the formations-base. These three, again,
-> together with *avijñapti* and the unconditioned, are called the dharma-essence
-> and the dharma-principle.
-
-Bhāṣya-informed:
-
-> The formations apart from form, feeling, reflection, and the cognition-base
-> are the formations-base. The sūtra names six groups of volition because of its
-> predominance. The remaining associated factors and the dissociated formations
-> must be included, or they would fall outside suffering and origin, and outside
-> full comprehension and abandonment. These three — feeling, reflection, and
-> formations — together with *avijñapti* and the unconditioned, are called the
-> dharma-essence and the dharma-principle. The commentary counts seven: the three
-> bases, *avijñapti*, and the three unconditioned.
+> The Formations Base consists of conditioned dharmas other than form, feeling,
+> perception, and consciousness. Those three Bases—feeling, perception, and
+> formations—together with *avijñapti* and the unconditioned, are also called
+> the dharma-essence and the dharma-principle.
 
 The commentary defends the remainder, then counts the seven. The next verse
 defines the cognition-base. It is not taken here.
@@ -63,7 +51,7 @@ avagraha in *saṃgraho*. Read *caturbhyo* and *saṃgraho 'bhyupagantavyaḥ*.
 *Parijñāparihāṇe* is retained; *aprahāya* controls the pair as full
 comprehension and abandonment. Not a critical text.
 
-## 3. Continuous Translation
+## 3. Continuous Conventional Translation
 
 The others, apart from the four, are the formations-base. The formations apart
 from the four — form, feeling, reflection, and the cognition-base — are the

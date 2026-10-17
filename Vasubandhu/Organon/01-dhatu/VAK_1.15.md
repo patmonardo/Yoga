@@ -54,7 +54,7 @@ and the dharma-principle.
 
 ### Bhāṣya-informed study translation
 
-The formations aggregate consists of conditioned dharmas other than form, feeling, perception, and consciousness. Those three aggregates—feeling, perception, and formations—together with avijñapti and the unconditioned, are also called the dharma-essence and the dharma-principle.
+The Formations Base consists of conditioned dharmas other than form, feeling, perception, and consciousness. Those three Bases—feeling, perception, and formations—together with avijñapti and the unconditioned, are also called the dharma-essence and the dharma-principle.
 
 ## 6. Philosophical Translation
 
