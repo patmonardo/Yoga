@@ -33,10 +33,6 @@ and observance.
 | `na iti` | negation followed by reason-marking `iti` | on the ground that it is not |
 | `miśritā` | nominative singular feminine past passive participle | mixed or included in combination |
 
-```text
-yathā-uktāḥ | eva | sa-avidyāḥ | dvidhā | dṛṣṭi-vivecanāt |
-upādānāni | avidyā | tu | grāhikā | na | iti | miśritā
-```
 
 `Upādāna`, from `upa-ā-√dā`, denotes taking up, laying hold of, or
 appropriating. Here it names a functional classification of afflictions, not a

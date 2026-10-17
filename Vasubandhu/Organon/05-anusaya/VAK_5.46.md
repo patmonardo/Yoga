@@ -26,18 +26,14 @@ afflicted mental factors.
 | `ye ... te` | nominative plural masculine relative-correlative pair | those which ... they |
 | `api` | additive particle | also |
 | `anye` | nominative plural masculine | other, distinct |
-| `caitasāḥ` | nominative plural masculine | mental factors associated with citta |
+| `caitasāḥ` | nominative plural masculine | mental factors associated with consciousness |
 | `kliṣṭāḥ` | nominative plural masculine | afflicted or defiled |
-| `saṃskāra-skandha-saṃjñitāḥ` | nominative plural masculine compound | designated as included in the formations aggregate |
+| `saṃskāra-skandha-saṃjñitāḥ` | nominative plural masculine compound | designated as included in the Base of formations |
 | `kleśebhyaḥ` | ablative plural masculine | apart from or other than the kleśas |
 | `upakleśāḥ` | nominative plural masculine | mind-defilements or secondary afflictions |
 | `tu` | adversative particle | but, however |
 | `na kleśa-saṃjñitāḥ` | negation with nominative plural compound | not designated as kleśas |
 
-```text
-ye | api | anye | caitasāḥ | kliṣṭāḥ | saṃskāra-skandha-saṃjñitāḥ |
-kleśebhyaḥ | te | api | upakleśāḥ | te | tu | na | kleśa-saṃjñitāḥ
-```
 
 The governing construction is `anye kleśebhyaḥ`, “other than the kleśas.”
 The ablative is separative, not causal; the verse does not say that these
@@ -57,7 +53,7 @@ ye api
 
 The relative `ye` carries four coordinated qualifications. These factors are
 distinct from the stricter kleśa class, are mental, are afflicted, and are
-included in the formations aggregate.
+included in the Base of formations.
 
 **Correlative classification and restriction**
 
@@ -81,7 +77,7 @@ ye yāvat kleśāḥ
         cittopakleśanāt
 ```
 
-Whatever factors are kleśas are also upakleśas because they defile citta. This
+Whatever factors are kleśas are also upakleśas because they defile consciousness. This
 statement controls the class relation and prevents treating the two terms as
 disjoint.
 
@@ -90,20 +86,20 @@ disjoint.
 ### Literal Translation
 
 > Those other afflicted mental factors, designated as belonging to the
-> formations aggregate and distinct from the kleśas, are also upakleśas; but
+> Base of formations and distinct from the kleśas, are also upakleśas; but
 > they are not designated as kleśas.
 
 ### Bhāṣya-informed study translation
 
-> Other afflicted mental factors in the formations aggregate, beyond those
-> designated kleśas, also count as upakleśas because they defile citta; they
-> do not themselves bear the narrower name kleśa.
+> Other afflicted mental factors, designated as included in the Base of
+> formations and distinct from the kleśas, are also upakleśas, though they
+> are not designated kleśas.
 
 ## 6. Philosophical Translation
 
 > The afflicted field does not divide into two mutually exclusive classes of
 > roots and derivatives. `Upakleśa` first names the broader function of
-> defiling citta: every kleśa therefore satisfies it. Yet the same functional
+> defiling consciousness: every kleśa therefore satisfies it. Yet the same functional
 > extension also contains afflicted mental factors that lack the stricter
 > doctrinal status named by `kleśa`. Inclusion under a broad operative
 > predicate does not erase difference under a narrower classifier. Nor does
@@ -124,25 +120,25 @@ function.
 
 **`Upakleśa` — mind-defilement or secondary affliction**
 
-A broader functional designation grounded in `cittopakleśana`, defiling citta.
+A broader functional designation grounded in `cittopakleśana`, defiling consciousness.
 “Secondary affliction” remains a useful conventional rendering only if it does
 not imply that all upakleśas are non-kleśas or that the term itself encodes
 causal derivation.
 
-**`Cittopakleśana` — defiling or disturbing citta**
+**`Cittopakleśana` — defiling or disturbing consciousness**
 
 The Bhāṣya's explicit reason why kleśas themselves fall within the broader
 upakleśa class.
 
 **`Caitasa` / `caitasika` — mental factor**
 
-A dharma associated with citta in a cognitive event. The other upakleśas named
+A dharma associated with consciousness in a cognitive event. The other upakleśas named
 by the verse are afflicted caitasikas rather than members of the stricter
 kleśa class.
 
-**`Saṃskāra-skandha-saṃgṛhīta` — included in the formations aggregate**
+**`Saṃskāra-skandha-saṃgṛhīta` — included in the Base of formations**
 
-The aggregate location of these additional afflicted mental factors. This is
+The Base classification of these additional afflicted mental factors. This is
 a classificatory inclusion, not by itself an account of causal origin.
 
 **`Kliṣṭa` — afflicted or defiled**
@@ -173,7 +169,7 @@ The Bhāṣya establishes an inclusion without equivalence:
 
 ```text
 Kleśa(x)
-    → DefilesCitta(x)
+    → DefilesConsciousness(x)
     → Upakleśa(x)
 
 Upakleśa(x)
@@ -185,7 +181,7 @@ The verse identifies the additional extension:
 ```text
 MentalFactor(x)
 AND Afflicted(x)
-AND IncludedIn(x, SaṃskāraSkandha)
+AND IncludedIn(x, SaṃskāraBase)
 AND DistinctFromKleśaClass(x)
     → Upakleśa(x)
     AND NOT Kleśa(x)
@@ -222,7 +218,7 @@ discussion.
 
 ```text
 all kleśas are upakleśas
-    because all defile citta
+    because all defile consciousness
 
 some upakleśas are not kleśas
     because additional afflicted caitasikas share that function
@@ -266,7 +262,7 @@ Class: Klesa
     SubClassOf: AfflictedMentalFactor
 Class: Upaklesa
     SubClassOf: AfflictedMentalFactor
-Class: SamskaraSkandhaMember
+Class: SamskaraBaseMember
 Class: Paryavasthana
     SubClassOf: Upaklesa
 Class: KlesaMala
@@ -274,7 +270,7 @@ Class: KlesaMala
 Class: DiscussionScope
 Class: TextualSource
 
-ObjectProperty: includedInAggregate
+ObjectProperty: includedInBase
     Domain: MentalFactor
 
 ObjectProperty: discussedIn
@@ -285,16 +281,16 @@ ObjectProperty: selectedByScope
     Domain: DiscussionScope
     Range: AfflictedMentalFactor
 
-DataProperty: defilesCitta
+DataProperty: defilesConsciousness
     Domain: MentalFactor
     Range: Boolean
 
 Rule: Klesa(?x)
-    AND defilesCitta(?x, true)
+    AND defilesConsciousness(?x, true)
     -> Upaklesa(?x)
 
 Rule: AfflictedMentalFactor(?x)
-    AND includedInAggregate(?x, SamskaraSkandha)
+    AND includedInBase(?x, SamskaraBase)
     AND NotDesignatedAs(?x, Klesa)
     -> Upaklesa(?x)
 
@@ -306,7 +302,7 @@ Constraint: DistinctFromClass(?x, Klesa)
 
 View: ChapterFiveUpaklesaSelection
     Scope: {Paryavasthana, KlesaMala}
-    Preserves: FactorIdentity, AggregateMembership, DefilingFunction,
+    Preserves: FactorIdentity, BaseMembership, DefilingFunction,
                DoctrinalDesignation, SourceReference, ScopeProvenance
 ```
 

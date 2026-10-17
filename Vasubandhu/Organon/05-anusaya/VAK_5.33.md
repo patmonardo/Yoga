@@ -34,14 +34,8 @@ arising or manifestation.
 | `anyatra` | locative adverb | elsewhere; toward what is other or opposed |
 | `iti anukramaḥ` | closing nominal statement | such is the sequence |
 
-```text
-tataḥ | anta-grahaṇam | tasmāt | śīla-āmarśaḥ | tataḥ | dṛśaḥ |
-rāgaḥ | sva-dṛṣṭau | mānaḥ | ca | dveṣaḥ | anyatra | iti | anukramaḥ
-```
-
 The Bhāṣya explicitly carries `āmarśa` forward in the compressed `tato dṛśaḥ`,
 yielding `dṛṣṭiparāmarśa`, attachment to or overvaluation of views.
-
 ## 4. Grammar
 
 **Continuation from self-view**
@@ -93,7 +87,7 @@ it to the `pravṛttikrama` of the ten kleśas.
 
 ## 6. Philosophical Translation
 
-> Once the aggregates have been appropriated as self, that constructed self
+> Once the Bases have been appropriated as self, that constructed self
 > demands an absolute fate: permanence or annihilation. The extreme is then
 > converted from a speculative determination into a promised practice of
 > purification. The practice is elevated into the supreme doctrine; the

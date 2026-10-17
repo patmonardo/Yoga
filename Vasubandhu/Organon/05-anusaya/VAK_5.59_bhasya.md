@@ -8,8 +8,8 @@
 > The five hindrances belong to the desire-realm. Torpor with sleepiness and
 > restlessness with remorse each count as one because each pair shares a
 > counteragent, nourishment, and function. They are five because they obstruct
-> the Path-aggregates of discipline, concentration, and discernment, and leave
-> doubt concerning the Truths.
+> the Path-Bases of discipline, concentration, and
+> discriminative comprehension, and leave doubt concerning the Truths.
 
 ## 2. Continuous Sanskrit
 
@@ -120,8 +120,8 @@ Thus each pair counts as one through its common counteragent,
 nourishment, and function.
 
 If all afflictions can hinder, why name only five? Because
-they obstruct the Path aggregates and occasion doubt.
-Sensual desire and ill will obstruct the aggregate of ethical
+they obstruct the Path-Bases and occasion doubt.
+Sensual desire and ill will obstruct the Base of ethical
 discipline; torpor and sleepiness obstruct discernment;
 restlessness and remorse obstruct concentration. Without
 concentration and discernment, one doubts the truths. Yet
@@ -164,7 +164,7 @@ effects for each pair. Torpor and sleepiness tend toward
 readiness, not one generic “distraction.”
 
 The fivefold explanation concerns **śīla-, samādhi-, and
-prajñā-skandhas**, not the five appropriated aggregates.
+prajñā-skandhas**, not the five appropriated Bases.
 The first proposed assignment places
 torpor/sleepiness against discernment and
 restlessness/remorse against concentration. The prose then
@@ -179,8 +179,8 @@ their disagreement or settle every mapping among
 
 **Translation decisions.** The running verse's `dvyekatā`
 is translated through its explicit prose gloss, “unity of
-two.” `Skandhavidhāta` is rendered “obstruction of the Path
-aggregates” in light of the three named skandhas; the
+two.” `Skandhavidhāta` is rendered “obstruction of the
+Path-Bases” in light of the three named skandhas; the
 separate kārikā's `vighāta` would make the obstructive sense
 more transparent. The reading and exact sense of
 `'maravitarkaḥ` remain open, so no conjectural English

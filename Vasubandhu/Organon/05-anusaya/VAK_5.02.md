@@ -23,9 +23,9 @@ antarmukhatvāt tanmokṣasaṃjñāvyāvṛttaye kṛtaḥ || 5.2 ||
 | sapta | numeral | seven after the division |
 | uktāḥ | past passive participle; masculine; nominative plural (lemma: ukta) | are spoken of or counted |
 | bhava-rāgaḥ | compound noun; masculine; nominative singular (lemma: bhava-rāga) | attachment to existence, the second form of rāga |
-| dvi-dhātu-jaḥ | compound adjective; masculine; nominative singular (lemma: dvi-dhātu-ja) | arising in two domains; qualifies *bhavarāgaḥ* |
+| dvi-dhātu-jaḥ | compound adjective; masculine; nominative singular (lemma: dvi-dhātu-ja) | arising in two realms; qualifies *bhavarāgaḥ* |
 | antar-mukhatvāt | abstract noun; neuter; ablative singular (lemma: antar-mukhatva) | because of its inward direction |
-| tat-mokṣa-saṃjñā-vyāvṛttaye | compound noun; feminine; dative singular (lemma: tat-mokṣa-saṃjñā-vyāvṛtti) | in order to exclude a conception of those domains as liberation |
+| tat-mokṣa-saṃjñā-vyāvṛttaye | compound noun; feminine; dative singular (lemma: tat-mokṣa-saṃjñā-vyāvṛtti) | in order to exclude a conception of those realms as liberation |
 | kṛtaḥ | past passive participle; masculine; nominative singular (lemma: kṛta) | designated as a distinct attachment |
 
 Word division and sandhi: *ṣaḍrāgabhedāt* = *ṣaṭ rāga-bhedāt*;
@@ -40,7 +40,7 @@ rāga
     → bhavarāga
 ```
 
-It also identifies the two domains of `dvidhātuja` as `rūpadhātu` and
+It also identifies the two realms of `dvidhātuja` as `rūpadhātu` and
 `ārūpyadhātu`. These specifications come from the commentary rather than from
 the compounds considered in isolation. The opening completes the suspended
 `te punaḥ` of 5.01.
@@ -63,18 +63,18 @@ The ablative `rāga-bhedāt` gives the reason for the change in number. No new
 anuśaya is simply added from outside; one member of the sixfold list is
 divided.
 
-**Definition by domain**
+**Definition by realm**
 
 ```text
 bhava-rāgaḥ
     dvi-dhātu-jaḥ [asti]
 
 attachment to existence
-    arises in two domains
+    arises in two realms
 ```
 
 The compound `dvidhātuja` agrees with `bhavarāgaḥ`. The Bhāṣya resolves its
-range as attachment arising in the form and formless domains.
+range as attachment arising in the Form and Formless realms.
 
 **Cause and purpose**
 
@@ -92,21 +92,21 @@ kṛtaḥ
 `Kṛtaḥ` is masculine singular and most directly resumes `bhavarāgaḥ`: this
 attachment is established as a distinct designation. The reference of `tat`
 is compressed. The Bhāṣya reports an explanation according to which the term
-excludes the conception that the two higher domains are liberation.
+excludes the conception that the two higher realms are liberation.
 
 ## 5. Translation
 
 ### Literal Translation
 
 > Because attachment is divided, the six are stated as seven. Attachment to
-> existence arises in two domains. Because of its inward-directedness, it is
+> existence arises in two realms. Because of its inward-directedness, it is
 > designated in order to exclude the conception of that as liberation.
 
 ### Bhāṣya-informed study translation
 
 > Because attachment is divided, the six anuśayas are spoken of as seven.
-> Attachment to existence arises in the form and formless domains; because
-> it turns inward, it is separately designated to prevent those domains
+> Attachment to existence arises in the Form and Formless realms; because
+> it turns inward, it is separately designated to prevent those realms
 > from being conceived as liberation.
 
 ## 6. Philosophical Translation
@@ -114,7 +114,7 @@ excludes the conception that the two higher domains are liberation.
 > Attachment does not disappear merely because its object is no longer
 > sensuous. It can withdraw from outward desire and preserve itself as
 > attachment to refined conditioned existence. In the form and formless
-> domains this predominantly takes the form of attachment to samāpatti: the
+> realms this predominantly takes the form of attachment to samāpatti: the
 > attainment is savored together with the mode of existence that supports it.
 > Because such attachment proceeds inwardly, it can resemble release. The
 > sevenfold classification exposes the retained binding relation within that
@@ -148,29 +148,29 @@ through which `bhavarāga` becomes intelligible.
 
 **`Bhavarāga` — attachment to existence**
 
-Attachment arising in the form and formless domains. The commentary sharpens
+Attachment arising in the Form and Formless realms. The commentary sharpens
 `bhava` as `ātmabhāva`, one's constituted mode of existence. Bhavarāga is thus
 not restricted to a desire for future life; it includes enjoyment of one's
 present refined mode of conditioned existence.
 
-**`Dvidhātuja` — arising in two domains**
+**`Dvidhātuja` — arising in two realms**
 
 ```text
 rūpadhātu
-    form-realm
+    Form realm
 
 ārūpyadhātu
-    formless-realm
+    Formless realm
 ```
 
-`Dhātu` here means domain, not physical element. The two domains are grouped
+`Dhātu` here means realm, not the cognitive Principle classification. The two realms are grouped
 because attachment within them is classified as bhavarāga rather than
 kāmarāga.
 
 **`Samāpattirāga` — attachment to samāpatti**
 
 A Bhāṣya determination naming the predominant form of attachment among beings
-of the two higher domains. It is the appropriative relation to samāpatti, not
+of the two higher realms. It is the appropriative relation to samāpatti, not
 samāpatti itself.
 
 **`Antarmukhapravṛtta` — proceeding inwardly**
@@ -182,7 +182,7 @@ liberation.
 **`Mokṣasaṃjñāvyāvṛtti` — exclusion of the conception of liberation**
 
 The classification blocks a false identification. The phrase `ekeṣām iti`
-marks the explanation concerning the two domains as a reported position,
+marks the explanation concerning the two realms as a reported position,
 “according to some,” rather than an unqualified authorial assertion.
 
 **`Āsvāda` — savoring or enjoyment**
@@ -207,7 +207,7 @@ separate item to which either relation would apply.
 
 ## 8. Logical Determination
 
-VAK 5.02 divides one genus according to the domain and mode of its attachment:
+VAK 5.02 divides one genus according to the realm and mode of its attachment:
 
 ```text
 Rāga
@@ -267,7 +267,7 @@ VAK 5.02
     by appropriating refined existence and samāpatti
 ```
 
-This gives the Organon a precise discriminator. A change in content, domain,
+This gives the Organon a precise discriminator. A change in content, realm,
 or cognitive refinement is not by itself a change in the underlying relation:
 
 ```text

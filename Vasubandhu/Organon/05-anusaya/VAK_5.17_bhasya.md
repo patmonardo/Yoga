@@ -6,8 +6,7 @@
 > svabhūmim ālambanataḥ svanikāyam asarvagāḥ || 5.17 ||
 
 > Universal anuśayas adhere through cognitive support to their entire own
-> level, comprising all five abandonment classes; non-universal anuśayas
-> adhere only to their own abandonment class within that level.
+> level; non-universal anuśayas adhere to their own class.
 
 The verse gives a general rule for one mode of `anuśayana`.
 The Bhāṣya announces that the next verse will qualify it.

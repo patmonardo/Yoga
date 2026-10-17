@@ -36,16 +36,8 @@ then records an alternative four-root doctrine.
 | `dhyāyitṛ-tvāt` | ablative singular abstract noun | because of the existence of meditator-types |
 | `avidyayā` | instrumental singular | through or under the power of ignorance |
 
-Padaccheda: `dvaidha-ūrdhva-vṛtteḥ | na | ataḥ | anyau |
-catvāri | eva | iti | bāhyakāḥ | tṛṣṇā | dṛk | māna |
-mohāḥ | te | dhyāyitṛ-tvāt | avidyayā`.
-The Bhāṣya supplies the two separate subjects for the opening
-ablative and construes `te` as limiting the four to their
-indeterminate instances.
-
 The Bhāṣya applies the two members of the initial compound separately:
 `dvaidha-vṛtti` to doubt and `ūrdhva-vṛtti` to conceit.
-
 ## 4. Grammar
 
 **Kāśmīra exclusion**

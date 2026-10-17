@@ -31,17 +31,9 @@ four of them to two afflictive sources. The remaining sources of `pradāśa` and
 | `pratigha-je` | nominative dual feminine | the two born from hostility |
 | `upanāha-vihiṃsane` | nominative dual feminine | sustained resentment and harmfulness |
 
-```text
-pradāśaḥ | upanāhaḥ | ca | vihiṃsā | ca | iti |
-rāga-jau | māyā-madau | pratigha-je | upanāha-vihiṃsane
-```
 
 The two paired constructions are syntactically exact:
 
-```text
-rāga-jau māyā-madau
-pratigha-je upanāha-vihiṃsane
-```
 
 Each source adjective agrees with its dual pair.
 
@@ -91,9 +83,9 @@ left to the next verse.
 
 ### Bhāṣya-informed study translation
 
-> Obstinate fault-clinging, sustained resentment, and harmfulness complete the
-> six stains. Deceit and intoxication are born from attachment; sustained
-> resentment and harmfulness are born from hostility.
+> Also named are obstinate fault-clinging, sustained resentment, and
+> harmfulness. Deceit and intoxication are born from attachment; sustained
+> resentment and harmfulness from hostility.
 
 ## 6. Philosophical Translation
 

@@ -31,19 +31,12 @@ aside.
 | `maraṇa` | compound member | death |
 | `utpatti` | compound member | arising, renewed birth |
 | `viśiṣṭa` | compound member | superior, distinguished |
-| `ātma-anyatā` | compound member | otherness of self; clarified through being and aggregates |
+| `ātma-anyatā` | compound member | otherness of self; clarified through being and Bases |
 | `ādi-vat` | indeclinable compound | as in these and similar examples |
-
-Padaccheda: `eka-aṃśataḥ | vyākaraṇam | vibhajya |
-paripṛcchya | ca | sthāpyam | ca |
-maraṇa-utpatti-viśiṣṭa-ātma-anyatā-ādi-vat`.
-The final compound supplies four examples in the same order as the
-four answer modes; the Bhāṣya gives each example its full question.
 
 The final compound gives the four examples in order. The Bhāṣya clarifies the
 last as the question whether a being is other than or non-other than the
-aggregates.
-
+Bases.
 ## 4. Grammar
 
 **Four coordinated answer modes**
@@ -91,7 +84,7 @@ It also distinguishes `avyākṛta` as a question to be set aside from
 
 > An answer is given categorically, after division, or after questioning in
 > return; a question is also set aside—as with death, rebirth, relative
-> superiority, and a being's otherness from the aggregates, respectively.
+> superiority, and a being's otherness from the Bases, respectively.
 
 ## 6. Philosophical Translation
 
@@ -147,7 +140,7 @@ this mode with convergence upon the relevant meaning.
 
 Renewed arising requires distinction: those with defilement arise again;
 those without it do not. The expanded Bhāṣya illustrates recursive analysis
-from dharmas through time, aggregate, ethical status, karmic path, root, and
+from dharmas through time, Base, ethical status, karmic path, root, and
 manifest or non-manifest action.
 
 **`Paripṛcchya-vyākaraṇa` — answer through counter-question**
@@ -158,7 +151,7 @@ correlate rather than evading judgment.
 
 **`Sthāpanīya-praśna` — question to be set aside**
 
-Whether a being is other than or non-other than the aggregates presupposes a
+Whether a being is other than or non-other than the Bases presupposes a
 real entity capable of entering those alternatives. The Bhāṣya denies that
 such an entity has been established, comparing the question to predicating a
 complexion of a barren woman's son.

@@ -7,7 +7,7 @@
 
 > Cessation is confined to its own level. Those whose range is the Path take
 > as object the six-level dharmajñāna Path or the nine-level anvayajñāna Path,
-> according to domain, since one path is a cause of another.
+> according to realm, since one path is a cause of another.
 
 The first clause carries `nirodha` from 5.14. The Bhāṣya
 distributes the six- and nine-level qualifications across the

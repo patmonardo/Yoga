@@ -5,11 +5,11 @@
 > nirodhamārgadṛggheyāḥ sarve svādhikagocarāḥ |
 > anāsravās tridhātvantyatrayānāsravagocarāḥ || 5.31 ||
 
-> In every domain, dharmas abandoned by seeing cessation or the path are
-> objects of their previously established range with their own corresponding
-> citta added. Undefiled dharmas are objects of the final three citta classes—
-> those abandoned by seeing cessation, seeing the path, and cultivation—in
-> each of the three domains, and of undefiled cognition.
+> In every realm, dharmas abandoned by seeing cessation or the path are
+> objects for the previously established ranges plus their own corresponding
+> consciousness class. Undefiled dharmas are objects for the final three classes
+> of consciousness in each of the three realms—those abandoned by seeing cessation,
+> seeing the path, and cultivation—and for undefiled consciousness.
 
 ## 2. Continuous Sanskrit
 

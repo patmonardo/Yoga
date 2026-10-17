@@ -6,9 +6,10 @@
 > dharmajñānasya tisras tu ṣaṭ tatpakṣasya pañca ca || 5.67 ||
 
 > All nine *parijñās* are fruits of the noble path. Two are fruits of the
-> mundane path and two of *anvayajñāna*; three are fruits of *dharmajñāna*.
-> When the corresponding *kṣānti* and *jñāna* moments are counted together,
-> the *dharmajñāna* side has six as fruits and the *anvayajñāna* side five.
+> mundane path and two of anvaya-knowledge; three are fruits of
+> dharma-knowledge. When the corresponding *kṣānti* and knowledge moments are
+> counted together, the dharma-knowledge side has six fruits, the
+> anvaya-knowledge side five.
 
 ## 2. Continuous Sanskrit
 

@@ -5,10 +5,9 @@
 > saṃyojanādi-bhedena punas te pañcadhoditāḥ |
 > dravyāmarśana-sāmānyād dṛṣṭī saṃyojanāntaram || 5.41 ||
 
-> Those same anuśayas are again taught in five divisions: fetter, bond,
-> anuśaya, secondary affliction, and envelopment. The views form two distinct
-> fetters: three views and two grasping views, grouped by their equal counts of
-> real factors and, for the latter pair, their common grasping character.
+> Those same anuśayas are taught again fivefold by divisions beginning
+> with fetters. Through commonality of real factors and of grasping, the
+> two classes of views are distinct fetters.
 
 ## 2. Continuous Sanskrit
 

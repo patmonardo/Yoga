@@ -35,16 +35,9 @@ arising, cessation, and transformation of the continuum.
 | `khalu` | emphatic particle | indeed |
 | `dharmatā` | nominative singular feminine | nature or law of dharmas |
 
-Padaccheda: `kim | vighnam | tat | katham | na | anyat |
-adhva-yogaḥ | tathā | sataḥ | ajāta-naṣṭatā | kena |
-gambhīrā | khalu | dharmatā`. The Bhāṣya supplies `kāritra`
-as the referent of `tat` and places the final declaration in the
-Vaibhāṣika reply.
-
 The terse interrogatives summarize a longer exchange: what restricts function,
 whether function differs from the dharma, how temporal assignment is grounded,
 and how an equally existent dharma can be unborn or destroyed.
-
 ## 4. Grammar
 
 **Questions concerning `kāritra`**
@@ -298,7 +291,7 @@ This is the rigorous content of the apparent “ping-pong.” The movement passe
 between manifestation and ground, but each return preserves and transforms
 what the preceding operation produced.
 
-The Yoga presentation model is also clarified. Buddhi or citta can present:
+The Yoga presentation model is also clarified. Buddhi or consciousness can present:
 
 ```text
 memory

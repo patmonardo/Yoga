@@ -6,7 +6,7 @@
 > mohenānuśayā eva rūpārūpye bhavāsravaḥ || 5.35 ||
 
 > In the desire-realm, afflictions together with paryavasthānas, apart from
-> ignorance, constitute the desire āsrava. In the form and formless domains,
+> ignorance, constitute the desire āsrava. In the form and formless realms,
 > only the anuśayas, again apart from ignorance, constitute the existence
 > āsrava.
 

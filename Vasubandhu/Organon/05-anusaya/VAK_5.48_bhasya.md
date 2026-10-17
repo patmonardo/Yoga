@@ -5,10 +5,9 @@
 > krodha-mrakṣau ca rāgotthā āhrīkya-auddhatya-matsarāḥ |
 > mrakṣe vivādaḥ avidyātaḥ styāna-middha-anapatrapāḥ || 5.48 ||
 
-> Anger and concealment complete the ten envelopments. Shamelessness,
-> excitation, and avarice arise as derivatives of attachment; concealment's
-> source is disputed. Torpor, sleepiness, and lack of moral concern arise as
-> derivatives of ignorance.
+> Anger and concealment [are included]; shamelessness, excitation, and
+> avarice arise from attachment. There is disagreement about concealment.
+> Torpor, sleepiness, and lack of moral concern arise from ignorance.
 
 ## 2. Continuous Sanskrit
 

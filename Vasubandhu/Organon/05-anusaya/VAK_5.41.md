@@ -32,10 +32,6 @@ grounds.
 | `dṛṣṭī` | nominative dual feminine | the two classes of views |
 | `saṃyojana-antaram` | nominative singular neuter used distributively | each a distinct fetter, another fetter-class |
 
-```text
-saṃyojana-ādi-bhedena | punaḥ | te | pañcadhā | uditāḥ |
-dravya-āmarśana-sāmānyāt | dṛṣṭī | saṃyojana-antaram
-```
 
 The dual `dṛṣṭī` refers to two grouped classes, not two individual views. The
 Bhāṣya identifies them as the three views comprising the view-fetter and the
@@ -85,10 +81,9 @@ two parāmarśa-views.
 
 ### Bhāṣya-informed study translation
 
-> Those same anuśayas are again taught in five divisions: fetter, bond,
-> anuśaya, secondary affliction, and envelopment. The views form two distinct
-> fetters: three views and two grasping views, grouped by their equal counts of
-> real factors and, for the latter pair, their common grasping character.
+> Those same anuśayas are taught again fivefold by divisions beginning
+> with fetters. Through commonality of real factors and of grasping, the
+> two classes of views are distinct fetters.
 
 ## 6. Philosophical Translation
 
@@ -149,7 +144,7 @@ observance. These likewise constitute eighteen dravyas and share
 
 Here the Bhāṣya gives a specific enumerative ground: the three-view group and
 the two-view group each comprise eighteen real items. It should not be reduced
-to the broader claim that all views merely share afflicted prajñā as a common
+to the broader claim that all views merely share discriminative comprehension as a common
 substrate.
 
 **`Āmarśana-sāmānya` — commonality of grasping**

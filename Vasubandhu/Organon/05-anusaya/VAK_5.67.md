@@ -27,7 +27,7 @@ belongs.
 | `sarvāḥ` | nominative plural feminine | all nine parijñās |
 | `dve` | nominative dual feminine | two parijñās |
 | `laukikasya` | genitive singular masculine | of the mundane path |
-| `anvayasya` | genitive singular | of `anvayajñāna`, higher-domain subsequent knowledge |
+| `anvayasya` | genitive singular | of `anvayajñāna`, higher-realm subsequent knowledge |
 | `ca` | conjunction | and, also |
 | `dharmajñānasya` | genitive singular neuter | of dharma-knowledge |
 | `tisraḥ` | nominative plural feminine | three parijñās |
@@ -36,10 +36,6 @@ belongs.
 | `tat-pakṣasya` | genitive singular masculine | of its side, the dharmajñāna family |
 | `pañca` | numeral | five, of the other knowledge-side |
 
-```text
-ārya-mārgasya | sarvāḥ | dve | laukikasya | anvayasya | ca |
-dharma-jñānasya | tisraḥ | tu | ṣaṭ | tat-pakṣasya | pañca | ca
-```
 
 The final `pañca` is supplied by the Bhāṣya as the count for the
 `anvayajñāna-pakṣa`. The compact `tatpakṣa` clause cannot be safely expanded
@@ -90,9 +86,10 @@ knowledge-event.
 ### Bhāṣya-informed study translation
 
 > All nine *parijñās* are fruits of the noble path. Two are fruits of the
-> mundane path and two of *anvayajñāna*; three are fruits of *dharmajñāna*.
-> When the corresponding *kṣānti* and *jñāna* moments are counted together,
-> the *dharmajñāna* side has six as fruits and the *anvayajñāna* side five.
+> mundane path and two of anvaya-knowledge; three are fruits of
+> dharma-knowledge. When the corresponding *kṣānti* and knowledge moments are
+> counted together, the dharma-knowledge side has six fruits, the
+> anvaya-knowledge side five.
 
 ## 6. Philosophical Translation
 
@@ -101,8 +98,8 @@ knowledge-event.
 > patience-and-knowledge family containing that operation. These predicates do
 > not compete because they determine the result at different levels. The
 > numerical asymmetry follows from operative reach: dharma-knowledge counters
-> cultivation-abandonable afflictions across all three domains, while
-> subsequent knowledge reaches the final two higher-domain completions.
+> cultivation-abandonable afflictions across all three realms, while
+> subsequent knowledge reaches the final two higher-realm completions.
 
 The verse therefore measures relational efficacy, not the intrinsic dignity
 of one knowledge over another.
@@ -128,7 +125,7 @@ Its abandonment-efficacy is genuine but its parijñā range is restricted.
 
 **`Anvayajñāna` — subsequent knowledge**
 
-Knowledge concerning the higher-domain truths. Its fruits are the final two
+Knowledge concerning the higher-realm truths. Its fruits are the final two
 parijñās:
 
 ```text
@@ -140,12 +137,12 @@ sarva-saṃyojana-paryādāna-parijñā
 
 Its fruits are the final three parijñās. The Bhāṣya's exact ground is
 `tridhātuka-bhāvanāheya-pratipakṣatva`: it functions as counteragent to
-cultivation-abandonable afflictions throughout all three domains.
+cultivation-abandonable afflictions throughout all three realms.
 
 **Reference range and counteractive range**
 
 Dharmajñāna is named in relation to the desire-realm truths, yet its
-cultivation-path efficacy extends through all three domains. The truth-range after
+cultivation-path efficacy extends through all three realms. The truth-range after
 which a knowledge is named does not by itself delimit every operation it can
 perform.
 
@@ -213,7 +210,7 @@ AnvayajñānaPakṣa
 And the asymmetry follows from counteractive range:
 
 ```text
-Counteracts(Dharmajñāna, CultivationAbandonables(AllThreeDomains))
+Counteracts(Dharmajñāna, CultivationAbandonables(AllThreeRealms))
     → Count(DirectParijñāFruits) = 3
 ```
 
@@ -229,7 +226,7 @@ appearance, yet it reserves the complete ninefold range for the noble Path.
 
 **Reference does not exhaust efficacy.** Dharmajñāna's name is desire-realm
 indexed, but its counteractive function on the cultivation path spans all
-three domains. Its truth-reference and operational range must be modeled
+three realms. Its truth-reference and operational range must be modeled
 separately.
 
 **Knowledge versus knowledge-family.** Moving from `jñāna` to `pakṣa` changes
@@ -302,7 +299,7 @@ Assertion: Dharmajnana hasParijnaFruitCount 3
 Assertion: DharmajnanaSide hasParijnaFruitCount 6
 Assertion: AnvayajnanaSide hasParijnaFruitCount 5
 
-Assertion: Dharmajnana hasCounteractiveRange AllThreeDomainCultivationAbandonables
+Assertion: Dharmajnana hasCounteractiveRange AllThreeRealmCultivationAbandonables
 
 Rule: KnowledgeSide(?side)
       AND includesPathMoment(?side, ?moment)

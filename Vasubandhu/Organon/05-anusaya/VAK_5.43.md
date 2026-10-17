@@ -31,10 +31,6 @@ afflictions are abandoned at stream-entry.
 | `mukha-mūla-grahāt` | ablative singular compound | because the entrances and roots are included by naming them |
 | `trayam` | nominative singular neuter collective | the triad, the group of three |
 
-```text
-pañcadhā | avara-bhāgīyam | dvābhyām | kāma-anatikramaḥ |
-tribhiḥ | tu | punaḥ-āvṛttiḥ | mukha-mūla-grahāt | trayam
-```
 
 The Bhāṣya fixes `avara-bhāga` primarily as the desire-realm. Its alternative
 explanation also distinguishes a lower condition of being—ordinary-person
@@ -90,11 +86,9 @@ fetters themselves grasp an entrance and root as their objects.
 
 ### Bhāṣya-informed study translation
 
-> The lower-part fetters are fivefold: desire for sense-objects and hostility
-> prevent passage beyond the desire-realm, while personality-view, grasping
-> at discipline and observance, and doubt bring return even after passage
-> beyond it. This triad is named because it represents the entrances to the
-> broader groups and the roots of the omitted views.
+> The lower-part fetters are fivefold. Through two, one does not pass
+> beyond the desire-realm; through three, however, one returns. The triad
+> is taught by taking the entrances and roots.
 
 ## 6. Philosophical Translation
 

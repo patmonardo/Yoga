@@ -33,10 +33,6 @@ operations of the same afflictive factors.
 | `eṣām` | genitive plural masculine | of these [terms or factors] |
 | `āsrava-ādi-niruktayaḥ` | nominative plural feminine compound | explanations of the terms beginning with `āsrava` |
 
-```text
-āsayanti | āsravanti | ete | haranti | śleṣayanti | atha |
-upagṛhṇanti | ca | iti | eṣām | āsrava-ādi-niruktayaḥ
-```
 
 Although the verse contains five verbs, it does not define five classifications.
 The Bhāṣya explicitly assigns both `āsayanti` and `āsravanti` to `āsrava`; the
@@ -132,9 +128,9 @@ the continuum flows toward objects.
 
 **`Āyatana-vraṇa` — Essence-wound**
 
-The six āyatanas figured as openings through which afflictive influx flows.
+The six Essences figured as openings through which afflictive influx flows.
 This is the Bhāṣya's metaphor and should not replace the chapter's more exact
-relational account of āyatana.
+relational account of Essence.
 
 **`Saṃtati` — continuum**
 

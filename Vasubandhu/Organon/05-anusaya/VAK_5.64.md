@@ -37,13 +37,9 @@ without silently correcting that source file.
 | `kṣaye` | locative singular masculine | upon the exhaustion or abandonment |
 | `dve te` | nominative dual feminine | those two parijñās |
 | `tathā` | indeclinable | likewise |
-| `ūrdhvam` | adverb | above, in the higher domains |
+| `ūrdhvam` | adverb | above, in the higher realms |
 | `tisraḥ eva tāḥ` | nominative plural feminine plus particles | precisely those three |
 
-```text
-parijñāḥ | nava | kāma-ādya-prakāra-dvaya-saṃkṣayaḥ | ekā |
-dvayoḥ | kṣaye | dve | te | tathā | ūrdhvam | tisraḥ | eva | tāḥ
-```
 
 The Bhāṣya fixes the four `prakāras` by the Four Truths and identifies the
 relevant operation as abandonment of seeing-abandonable afflictions.
@@ -80,7 +76,7 @@ desire-realm:
     tisraḥ eva tāḥ
 ```
 
-The Bhāṣya combines the form and formless domains for this enumeration. The
+The Bhāṣya combines the form and formless realms for this enumeration. The
 verse states the grouping but does not itself give its rationale.
 
 ## 5. Translation
@@ -97,14 +93,14 @@ verse states the grouping but does not itself give its rationale.
 > desire-realm, exhausting the afflictions abandoned by seeing suffering and
 > origin counts as one; exhausting those abandoned by seeing cessation and by
 > seeing the Path counts as two more. The same threefold count applies to the
-> form and formless domains together.
+> form and formless realms together.
 
 ## 6. Philosophical Translation
 
 > A completed discrimination is not counted for every isolated destruction.
 > The Path designates a parijñā when abandonment has completed a doctrinally
 > delimited class: suffering and origin together, cessation, or Path, first in
-> the desire-realm and then across the higher domains. Knowledge is the
+> the desire-realm and then across the higher realms. Knowledge is the
 > causal determination; abandonment is its accomplished result and receives
 > the cause's name. Their connection licenses the designation without making
 > cognitive cause and practical result identical.
@@ -156,12 +152,12 @@ suffering and those abandoned through seeing origin.
 {mārga-darśana-heya}
 ```
 
-The classification provides three parijñās per domain-range, not four.
+The classification provides three parijñās per realm-range, not four.
 
-**`Kāma` and `ūrdhva` — desire-realm and higher-domain range**
+**`Kāma` and `ūrdhva` — desire-realm and higher-realm range**
 
 The first three parijñās concern the desire-realm. The next three repeat the
-same truth-indexed grouping collectively for the form and formless domains.
+same truth-indexed grouping collectively for the form and formless realms.
 
 ## 8. Logical Determination
 
@@ -179,20 +175,20 @@ For the desire-realm:
 CompleteAbandonment(
     {DuḥkhaSeeingAbandonables,
      SamudayaSeeingAbandonables},
-    DesireDomain
+    DesireRealm
 ) → Parijñā_1
 
-CompleteAbandonment(NirodhaSeeingAbandonables, DesireDomain)
+CompleteAbandonment(NirodhaSeeingAbandonables, DesireRealm)
     → Parijñā_2
 
-CompleteAbandonment(MārgaSeeingAbandonables, DesireDomain)
+CompleteAbandonment(MārgaSeeingAbandonables, DesireRealm)
     → Parijñā_3
 ```
 
-For the higher-domain range:
+For the higher-realm range:
 
 ```text
-ApplySameThreefoldPartition(FormDomain + FormlessDomain)
+ApplySameThreefoldPartition(FormRealm + FormlessRealm)
     → {Parijñā_4, Parijñā_5, Parijñā_6}
 ```
 
@@ -200,7 +196,7 @@ The classification is indexed by:
 
 ```text
 TruthIndexedClass
-    × DomainRange
+    × RealmRange
     × AbandonmentMode(Seeing)
 ```
 
@@ -225,7 +221,7 @@ MayTransferDesignation
 The present enumeration counts accomplished abandonments.
 
 **Grouped completion.** One parijñā can cover many affliction-destructions.
-Its unit is a completed truth- and domain-indexed class, not one lexical factor
+Its unit is a completed truth- and realm-indexed class, not one lexical factor
 or one moment of destruction.
 
 **The asymmetry remains unexplained here.** Suffering and origin count
@@ -234,9 +230,9 @@ but supplies no explicit reason in this passage. Any claim that the pair forms
 one “diagnostic complex” would be comparative reconstruction, not presently
 confirmed Bhāṣya doctrine.
 
-**Higher domains are collective.** Form and formless afflictions yield three
+**Higher realms are collective.** Form and formless afflictions yield three
 additional seeing-abandonment parijñās together. The reason for combining
-those domains should likewise remain open pending further source control.
+those realms should likewise remain open pending further source control.
 
 **Relation to 5.63.** A kleśa is destroyed once, the same disconnection can be
 acquired repeatedly, and an appropriately completed state of that
@@ -250,7 +246,7 @@ completed abandonment partition:
 ParijñāDesignation
     designates AbandonmentCompletion
     covers TruthIndexedClass
-    covers DomainRange
+    covers RealmRange
     hasAbandonmentMode Seeing
     licensedBy Hetūpacāra
     supportedBy SourceSpan
@@ -269,7 +265,7 @@ Class: PrahanaParijna
     SubClassOf: Parijna
 Class: AbandonmentCompletion
 Class: TruthIndexedClass
-Class: DomainRange
+Class: RealmRange
 Class: AbandonmentMode
 Class: SeeingAbandonment
     SubClassOf: AbandonmentMode
@@ -283,9 +279,9 @@ ObjectProperty: coversTruthClass
     Domain: AbandonmentCompletion
     Range: TruthIndexedClass
 
-ObjectProperty: coversDomainRange
+ObjectProperty: coversRealmRange
     Domain: AbandonmentCompletion
-    Range: DomainRange
+    Range: RealmRange
 
 ObjectProperty: hasAbandonmentMode
     Domain: AbandonmentCompletion
@@ -300,13 +296,13 @@ ObjectProperty: transfersNameTo
     Range: PrahanaParijna
 
 Assertion: Parijna_1 coversTruthClass {DuhkhaSeeing, SamudayaSeeing}
-Assertion: Parijna_1 coversDomainRange DesireDomain
+Assertion: Parijna_1 coversRealmRange DesireRealm
 Assertion: Parijna_2 coversTruthClass NirodhaSeeing
-Assertion: Parijna_2 coversDomainRange DesireDomain
+Assertion: Parijna_2 coversRealmRange DesireRealm
 Assertion: Parijna_3 coversTruthClass MargaSeeing
-Assertion: Parijna_3 coversDomainRange DesireDomain
+Assertion: Parijna_3 coversRealmRange DesireRealm
 
-Rule: HigherDomainThreefoldPartition(?completion)
+Rule: HigherRealmThreefoldPartition(?completion)
     -> Generates(?completion, {Parijna_4, Parijna_5, Parijna_6})
 
 Constraint: PrahanaParijna(?x)
@@ -316,7 +312,7 @@ Constraint: SharesParijnaGrouping(?classA, ?classB)
     doesNotEntail KnownGroupingRationale(?classA, ?classB)
 
 View: FirstSixParijnaMap
-    Preserves: CompletedAbandonment, TruthClass, DomainRange,
+    Preserves: CompletedAbandonment, TruthClass, RealmRange,
                AbandonmentMode, CauseResultDesignationTransfer,
                OpenRationale, SourceProvenance
 ```

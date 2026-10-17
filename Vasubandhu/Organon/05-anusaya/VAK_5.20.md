@@ -35,19 +35,12 @@ ethically indeterminate.
 | `avyākṛta-mūlāni` | nominative plural neuter | roots of the ethically indeterminate |
 | `tṛṣṇā` | nominative singular feminine | craving, thirst |
 | `avidyā` | nominative singular feminine | ignorance |
-| `matiḥ` | nominative singular feminine | discriminative cognition; glossed as `prajñā` in the Bhāṣya |
+| `matiḥ` | nominative singular feminine | discriminative comprehension; glossed as `prajñā` in the Bhāṣya |
 | `ca` | conjunction | and |
 | `sā` | nominative singular feminine pronoun | that; marking the indeterminate mode of the triad in the Bhāṣya |
 
-Padaccheda: `kāme | akuśala-mūlāni | rāga-pratigha-mūḍhayaḥ |
-trīṇi | avyākṛta-mūlāni | tṛṣṇā | avidyā | matiḥ | ca | sā`.
-The running verse repeats `akuśala-mūlāni` in the third pāda;
-the study's `avyākṛta-mūlāni` follows the explicit subsequent
-Bhāṣya question and enumeration. The witness difference remains open.
-
 The Bhāṣya restates `rāga`, `pratigha`, and delusion as `lobha`, `dveṣa`, and
 `moha`, and glosses `mati` as `prajñā`.
-
 ## 4. Grammar
 
 **Roots of the unwholesome**
@@ -94,15 +87,15 @@ and attributes the broad inclusion of indeterminate, even maturation-born,
 
 > In the desire-realm, attachment, hostility, and delusion are roots of the
 > unwholesome; the three roots of the ethically indeterminate are craving,
-> ignorance, and discriminative cognition in their indeterminate forms.
+> ignorance, and discriminative comprehension in its indeterminate form.
 
 ## 6. Philosophical Translation
 
 > To possess an ethical quality is not yet to be a root of that quality. A root
 > must both have the determination and generate further dharmas of the same
 > order. Attachment, hostility, and delusion reproduce the unwholesome field;
-> craving, ignorance, and discriminative cognition can reproduce an
-> indeterminate field. Cognition is therefore a formal power of determination,
+> craving, ignorance, and discriminative comprehension can reproduce an
+> indeterminate field. Discriminative comprehension is therefore a formal power of determination,
 > not an intrinsically liberating principle. Its value depends upon the whole
 > system in which it functions.
 
@@ -153,7 +146,7 @@ not an absence of causal determination.
 
 **`Tṛṣṇā`, `avidyā`, and `mati / prajñā`**
 
-In their indeterminate modes, craving, ignorance, and discriminative cognition
+In their indeterminate modes, craving, ignorance, and discriminative comprehension
 are the three roots. The Kāśmīra classification extends even to resultant
 `prajñā`.
 
@@ -211,7 +204,7 @@ Discriminates(x)
     ⇏ Liberates(x)
 ```
 
-The role of discriminative cognition must be determined through its status,
+The role of discriminative comprehension must be determined through its status,
 object, support, and productive function.
 
 ## 9. Interpretive Note
@@ -228,7 +221,7 @@ phala
     the unwholesome or indeterminate field reproduced from that root
 
 āśraya
-    the domain and concrete complex in which the root operates
+    the realm and concrete complex in which the root operates
 
 ālambana
     the objective determination through which cognition and affliction proceed
@@ -236,7 +229,7 @@ phala
 
 The appearance of `mati`, explicitly glossed as `prajñā`, among indeterminate
 roots is crucial for the Yoga–Organon architecture. It proves that
-discriminative cognition considered in abstraction is not yet Path. A formal
+discriminative comprehension considered in abstraction is not yet Path. A formal
 capacity to distinguish can organize bondage, ethical neutrality, or
 liberation according to the system in which it is active.
 

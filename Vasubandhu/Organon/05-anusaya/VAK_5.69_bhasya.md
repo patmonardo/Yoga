@@ -6,10 +6,10 @@
 > bhāvanāsthaḥ punaḥ ṣaḍbhir ekayā vā dvayena vā || 5.69 ||
 
 > One standing in the Path of Seeing is endowed first with no *parijñā*,
-> then with one through five as seeing proceeds. One standing in cultivation
-> has six if desire-realm dispassion has not been attained or has been lost;
-> with the specified dispassions and attainments, that practitioner is endowed
-> instead with one or two *parijñās*.
+> then with one through five as seeing proceeds. One standing in the Path of
+> Cultivation has six if desire-realm dispassion has not been attained or has
+> been lost; one if that dispassion or arhatship has been attained; and two if
+> dispassion from the form realm has been attained.
 
 ## 2. Continuous Sanskrit
 

@@ -34,16 +34,9 @@ locus, temporal object, and future mode of actualization.
 | `sarvaiḥ` | instrumental plural | by all, in every temporal mode |
 | `saṃyutaḥ` | nominative singular masculine | connected, bound |
 
-Padaccheda: `sarvatra | anāgataiḥ | ebhiḥ | mānasaiḥ |
-sva-ādhvike | paraiḥ | ajaiḥ | sarvatra | śeṣaiḥ | tu |
-sarvaiḥ | sarvatra | saṃyutaḥ`. The Bhāṣya identifies `ebhiḥ`
-with the triad of 5.23, `paraiḥ` with future sensory attachment
-and aversion, and `ajaiḥ` with those not destined to arise.
-
 The Bhāṣya resolves the compact expressions: `paraiḥ` denotes future sensory
 attachment and aversion; `ajaiḥ` is glossed as `anutpattidharma`, having the
 nature not to arise; `śeṣaiḥ` denotes view, doubt, and ignorance.
-
 ## 4. Grammar
 
 **Future mental particular afflictions**
@@ -140,7 +133,7 @@ The explicit Bhāṣya rationale for the universal temporal scope of future
 mental afflictions. The carrier's cognitive range determines the affliction's
 binding range.
 
-**`Pañca-vijñāna-kāyika` — belonging to the five cognition-groups**
+**`Pañca-vijñāna-kāyika` — belonging to the five Cognition-groups**
 
 This identifies `paraiḥ` as sensory attachment and aversion. When destined to
 arise, they bind only to future objects because sensory cognition takes an

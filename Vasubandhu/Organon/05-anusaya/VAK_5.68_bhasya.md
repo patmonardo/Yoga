@@ -7,8 +7,8 @@
 
 > An abandonment counts as *parijñā* when uncontaminated disconnection is
 > acquired, the summit of existence is rendered ineffective, and the two
-> causes are eradicated. For a fruit of *jñāna*, complete transcendence of a
-> domain provides a fourth ground.
+> causes are eradicated. For a fruit of knowledge, complete transcendence of a
+> realm provides a fourth ground.
 
 ## 2. Continuous Sanskrit
 

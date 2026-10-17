@@ -21,16 +21,11 @@ and acquisition counts.
 
 ## 3. Lexical Analysis
 
-```text
-tāsām | saṃkalanam | dhātu-vairāgya-phala-lābhataḥ |
-ekām | dve | pañca | ṣaṭ | kaścit | jahāti | āpnoti | pañca | na
-```
-
-| Form | Morphology | Contextual sense |
+| Pada | Morphology | Force in this passage |
 |---|---|---|
 | `tāsām` | genitive plural feminine | of those parijñās |
 | `saṃkalanam` | nominative singular neuter | consolidation, establishment together as one |
-| `dhātu-vairāgya-phala-lābhataḥ` | ablative compound | through dispassion toward a domain and attainment of a fruit |
+| `dhātu-vairāgya-phala-lābhataḥ` | ablative compound | through dispassion toward a realm and attainment of a fruit |
 | `ekām` | accusative singular feminine | one parijñā |
 | `dve` | accusative dual feminine | two parijñās |
 | `pañca` | accusative plural | five parijñās |
@@ -55,7 +50,7 @@ tāsāṃ parijñānāṃ saṃkalanam
 ```
 
 The singular `saṃkalanam` is glossed by the prose as `ekatvena vyavasthāpanam`,
-establishment as one. At the relevant stages, domain-dispassion and fruit-
+establishment as one. At the relevant stages, realm-dispassion and fruit-
 attainment coincide; all the relevant abandonments are gathered and one
 parijñā is designated.
 
@@ -78,7 +73,7 @@ set but not the acquisition set.
 
 ### Literal Translation
 
-> Their consolidation occurs through dispassion toward a domain and through
+> Their consolidation occurs through dispassion toward a realm and through
 > attainment of a fruit. A certain practitioner relinquishes one, two, five,
 > or six; one acquires [one, two, or six], but not five.
 
@@ -93,7 +88,7 @@ set but not the acquisition set.
 ## 6. Philosophical Translation
 
 > A completed Path-state is not represented by indefinitely adding every
-> earlier designation. When an entire domain loses its binding force and a
+> earlier designation. When an entire realm loses its binding force and a
 > fruit is attained, previously distinguished abandonments are established as
 > one comprehensive parijñā. The historical destructions, acquisitions of
 > disconnection, technical completion-designations, and presently possessed
@@ -120,11 +115,11 @@ about fusion of dharmas are not made here.
 **`Dhātu-vairāgya` — dispassion from a realm**
 
 One trigger of consolidation. It concerns freedom from the binding range of
-an entire domain, not merely temporary absence of one local affliction.
+an entire realm, not merely temporary absence of one local affliction.
 
 **`Phala-lābha` / `phala-prāpti` — attainment of a fruit**
 
-The second trigger. At the relevant states, domain-dispassion and fruit-
+The second trigger. At the relevant states, realm-dispassion and fruit-
 attainment occur together, licensing establishment of the abandonments as one
 parijñā.
 
@@ -172,7 +167,7 @@ acquired possession-set.
 The consolidation rule is:
 
 ```text
-Attains(person, DomainDispassion(d))
+Attains(person, RealmDispassion(d))
 AND Attains(person, CorrespondingFruit)
     → ConsolidateAsOne(
           RelevantCompletedAbandonments(person, d),
@@ -218,7 +213,7 @@ be relinquished even though the same cardinality is never newly acquired.
 ## 9. Interpretive Note
 
 **Answer to VAK 5.69.** Non-returner and arhat are established with one
-parijñā because domain-dispassion and fruit-attainment gather the relevant
+parijñā because realm-dispassion and fruit-attainment gather the relevant
 abandonments and designate them as one.
 
 **Consolidation is an accounting relation.** The prose defines the operation
@@ -245,7 +240,7 @@ current canonical state:
 
 ```text
 PathTransition
-    triggeredBy {DomainDispassion, FruitAttainment, Fall}
+    triggeredBy {RealmDispassion, FruitAttainment, Fall}
     relinquishes CurrentParijñāPossession
     acquires CurrentParijñāPossession
     consolidates AbandonmentCompletion
@@ -262,7 +257,7 @@ Class: Parijna
 Class: ParijnaPossession
 Class: AbandonmentCompletion
 Class: PathTransition
-Class: DomainDispassion
+Class: RealmDispassion
 Class: FruitAttainment
 Class: FallFromAttainment
 Class: PractitionerType
@@ -295,9 +290,9 @@ DataProperty: acquisitionCount
     Domain: PathTransition
     Range: {1, 2, 6}
 
-Rule: HasDomainDispassion(?person, ?domain)
+Rule: HasRealmDispassion(?person, ?realm)
       AND AttainsCorrespondingFruit(?person, ?fruit)
-    -> EstablishRelevantAbandonmentsAsOneParijna(?person, ?domain)
+    -> EstablishRelevantAbandonmentsAsOneParijna(?person, ?realm)
 
 Constraint: PathTransition(?t)
     requires relinquishmentCount(?t) in {1, 2, 5, 6}

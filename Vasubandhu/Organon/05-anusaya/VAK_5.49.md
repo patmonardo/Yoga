@@ -39,10 +39,6 @@ normalized.
 | `madaḥ` | nominative singular masculine | intoxication or infatuation |
 | `tathā` | indeclinable adverb | likewise, with the remaining members following |
 
-```text
-kaukṛtyam | vicikitsātaḥ | krodha-īrṣye | pratigha-anvaye |
-anye | ca | ṣaṭ | kleśa-malāḥ | māyā | śāṭhyam | madaḥ | tathā
-```
 
 The Bhāṣya glosses `pratighānvaye` as `pratighasamutthe`, “arisen from
 hostility,” giving the compound a genetic rather than merely taxonomic force.

@@ -35,10 +35,6 @@ enumerations.
 | `pṛthak` | indeclinable adverb | separately, each apart |
 | `saṃyojana-dvayam` | nominative singular neuter | a pair of fetters, two fetters |
 
-```text
-ekānta-akuśalam | yasmāt | sva-tantram | ca | ubhayam | yataḥ |
-īrṣyā-mātsaryam | eṣu | uktam | pṛthak | saṃyojana-dvayam
-```
 
 The working Bhāṣya e-text transmits `īṣryā` where standard Sanskrit has
 `īrṣyā`. The anomalous prose spelling remains a witness-level issue and is not
@@ -219,7 +215,7 @@ This is not a decorative scholastic reservation. It tests the explanatory
 reason against a differently constituted field and exposes its failure of
 sufficiency.
 
-**Correction of the first-pass tendency.** The local source does not ground
+**Correction of an earlier tendency.** The local source does not ground
 the separation in a developed opposition between envy's attitude toward
 another's good and avarice's withholding of one's own good. Such an analysis
 may be pursued elsewhere if textually supported, but it cannot replace the two

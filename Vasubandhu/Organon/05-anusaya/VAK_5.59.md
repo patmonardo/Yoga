@@ -32,18 +32,13 @@ the prose-secured sense without silently replacing the witness.
 | `eka-vipakṣa-āhāra-kṛtyataḥ` | ablative singular compound | because of one counter-condition, nourishment, and function |
 | `dvayakaitāḥ` | transmitted, grammatically problematic form | resolved by the Bhāṣya through `dvyekatā`, the unity of two |
 | `pañcatā` | nominative singular feminine abstract noun | fivefoldness, the state of being five |
-| `skandha-vighāta` | compound member | obstruction of the Path-aggregates; Bhāṣya anchor reads `vidhāta` |
+| `skandha-vighāta` | compound member | obstruction of the Path-Bases; Bhāṣya anchor reads `vidhāta` |
 | `vicikitsanāt` | ablative singular action noun | because of doubting or uncertainty |
 
-```text
-kāme | nivaraṇāni | eka-vipakṣa-āhāra-kṛtyataḥ |
-[dvy-ekatā / transmitted dvayakaitāḥ] | pañcatā |
-skandha-vighāta-vicikitsanāt
-```
 
 Here `skandha` is controlled by the prose as the organized Path-complex of
-ethical discipline, concentration, and discernment—not the ordinary list of
-five appropriated aggregates.
+ethical discipline, concentration, and discriminative comprehension—not the
+ordinary list of five appropriated Bases.
 
 ## 4. Grammar
 
@@ -74,7 +69,7 @@ pañcatā
 ```
 
 The compact compound permits competing assignments of the paired hindrances
-to the Path-aggregates. The Bhāṣya preserves these accounts rather than
+to the Path-Bases. The Bhāṣya preserves these accounts rather than
 settling them through grammar alone.
 
 ## 5. Translation
@@ -83,15 +78,15 @@ settling them through grammar alone.
 
 > The hindrances are in the desire-realm. [There is] unity of two because of
 > one counter-condition, nourishment, and function. [There is] fivefoldness
-> because of obstruction of the aggregates and doubt.
+> because of obstruction of the Bases and doubt.
 
 ### Bhāṣya-informed study translation
 
 > The five hindrances belong to the desire-realm. Torpor with sleepiness and
 > restlessness with remorse each count as one because each pair shares a
 > counteragent, nourishment, and function. They are five because they obstruct
-> the Path-aggregates of discipline, concentration, and discernment, and leave
-> doubt concerning the Truths.
+> the Path-Bases of discipline, concentration, and
+> discriminative comprehension, and leave doubt concerning the Truths.
 
 ## 6. Philosophical Translation
 
@@ -99,7 +94,7 @@ settling them through grammar alone.
 > obstruction. Numerically distinct factors can form one intervention-unit
 > when they are fed by the same conditions, opposed by the same remedy, and
 > disable the same capacity. The five hindrances articulate failures of
-> ethical orientation, collectedness, discernment, and determinate relation to
+> ethical orientation, collectedness, discriminative comprehension, and determinate relation to
 > truth. Their unity is functional and Path-relative: it neither erases the
 > distinct factors nor derives from their lexical similarity.
 
@@ -160,14 +155,14 @@ than conjecturally resolved.
 Its counter-condition is `śamatha`, calming or tranquility. Its shared
 function is keeping the mind unpacified (`avyupaśānta-citta`).
 
-**`Skandha` — Path-aggregate in this passage**
+**`Skandha` — Path-Base in this passage**
 
 The prose names `śīla-skandha`, `samādhi-skandha`, and `prajñā-skandha`:
-functional accumulations of discipline, concentration, and discernment.
+functional accumulations of discipline, concentration, and discriminative comprehension.
 
 **`Vicikitsā` — doubt**
 
-Uncertainty concerning the Truths where concentration and discernment fail.
+Uncertainty concerning the Truths where concentration and discriminative comprehension fail.
 It is counted as its own hindrance rather than folded into either paired unit.
 
 ## 8. Logical Determination
@@ -228,7 +223,7 @@ single source position.
 ## 9. Interpretive Note
 
 **desire-realm restriction.** Torpor, agitation, and doubt may be discussed
-across domains elsewhere, but the canonical set of five nivaraṇas is here
+across realms elsewhere, but the canonical set of five nivaraṇas is here
 restricted to the desire-realm through its characterization as wholly
 unwholesome.
 
@@ -238,7 +233,7 @@ the practical relations of nourishment, counter-condition, and obstructive
 function.
 
 **Plural source voices.** A received explanation assigns the pairs to
-discernment and concentration; `apare` reverses them according to which factor
+discriminative comprehension and concentration; `apare` reverses them according to which factor
 threatens the practitioner exercising each capacity. A further view (`anye`)
 organizes the hindrances sequentially around entry into samādhi, cultivation
 of calming and insight, and subsequent examination of Dharma. The Bhāṣya does
@@ -282,7 +277,7 @@ Class: HindranceUnit
 Class: NourishingCondition
 Class: CounterCondition
 Class: ObstructiveFunction
-Class: PathAggregate
+Class: PathBase
 Class: AttributedAccount
 
 Individual: SensualDesireHindrance
@@ -312,9 +307,9 @@ ObjectProperty: hasObstructiveFunction
     Domain: HindranceUnit
     Range: ObstructiveFunction
 
-ObjectProperty: obstructsPathAggregate
+ObjectProperty: obstructsPathBase
     Domain: HindranceUnit
-    Range: PathAggregate
+    Range: PathBase
 
 ObjectProperty: assertedByAccount
     Domain: ObstructionAssertion
@@ -336,12 +331,12 @@ Rule: SameNourishment(?x, ?y)
 Constraint: SameHindranceUnit(?x, ?y)
     doesNotEntail SameDharma(?x, ?y)
 
-Constraint: ObstructsPathAggregate(?unit, ?aggregate)
+Constraint: ObstructsPathBase(?unit, ?Base)
     requires assertedByAccount(?assertion, ?account)
 
 View: FiveHindranceInterventionMap
     Preserves: MemberIdentity, FunctionalUnity, Nourishment,
-               CounterCondition, ObstructiveFunction, Domain,
+               CounterCondition, ObstructiveFunction, Realm,
                AttributedExplanation, SourceProvenance
 ```
 

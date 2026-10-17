@@ -6,7 +6,7 @@
 > tad-asti-vādāt sarvāstivādā iṣṭāś caturvidhāḥ || 5.25 ||
 
 > Existence in all three times is maintained because scripture states it,
-> cognition depends on a faculty–object pair, cognition requires an
+> cognition depends on a Faculty–object pair, cognition requires an
 > existent object, and karma bears fruit. Those who affirm existence in all
 > three times are called Sarvāstivādins; four accounts are recognized.
 

@@ -34,10 +34,6 @@ conjoined.
 | `mano-duḥkha-sukhena` | instrumental singular neuter collective compound | with mental pain and mental pleasure, namely distress and gladness |
 | `tu` | contrastive particle | but, however |
 
-```text
-sukha-ābhyām | saṃprayuktaḥ | hi | rāgaḥ | dveṣaḥ | viparyayāt |
-mohaḥ | sarvaiḥ | asat-dṛṣṭiḥ | manas-duḥkha-sukhena | tu
-```
 
 The verse does not call feeling an affliction. Its instrumental forms mark the
 feeling with which an independently determined affliction is compatible.

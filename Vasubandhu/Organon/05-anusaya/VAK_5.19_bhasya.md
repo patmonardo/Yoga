@@ -5,7 +5,7 @@
 > ūrdhvam avyākṛtāḥ sarve kāme satkāya-darśanam |
 > antagrāhaḥ sahābhyāṃ ca mohaḥ śeṣās tv ihāśubhāḥ || 5.19 ||
 
-> All anuśayas of the form and formless domains are ethically indeterminate;
+> All anuśayas of the form and formless realms are ethically indeterminate;
 > in the desire-realm, satkāya-view, extreme-grasping view, and the ignorance
 > associated with them are likewise indeterminate, while the rest are
 > unwholesome.

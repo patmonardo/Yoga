@@ -30,15 +30,9 @@ asks what conditions are required for a kleśa actually to manifest.
 | `kleśaḥ` | nominative singular masculine | manifest affliction |
 | `saṃpūrṇa-kāraṇaḥ` | nominative singular masculine compound | having its causal complex complete |
 
-```text
-aprahīṇāt | anuśayāt | viṣayāt | pratyupasthitāt |
-ayoniśaḥ | manaskārāt | kleśaḥ | saṃpūrṇa-kāraṇaḥ
-```
-
 The three ablative constructions name the conditions from which the nominative
 `kleśaḥ` arises. The Bhāṣya explicitly correlates them, in order, with three
 powers: cause, object, and application.
-
 ## 4. Grammar
 
 **The three causal conditions**
@@ -79,9 +73,8 @@ therefore not be converted into an exceptionless biconditional.
 
 ### Bhāṣya-informed study translation
 
-> Ordinarily, a kleśa arises with its causal complex complete: from an
-> unabandoned anuśaya, an object that has become present, and unwise attention
-> to it—the powers of cause, object, and application, respectively.
+> An affliction arises with its causal complex complete: from an
+> unabandoned anuśaya, an object that has become present, and unwise attention.
 
 ## 6. Philosophical Translation
 
@@ -197,7 +190,7 @@ order onto `hetu-bala`, `viṣaya-bala`, and `prayoga-bala`. Its example is sens
 desire: an unabandoned desire-anuśaya, desire-conducive objects entering
 appearance, and unwise attention together produce manifest desire.
 
-**From the matrix to the event.** VAK 5.29–5.31 established which citta may
+**From the matrix to the event.** VAK 5.29–5.31 established which consciousness may
 take which dharma as `ālambana`. VAK 5.32 distinguished the relational grounds
 of `sānuśaya`; VAK 5.32–5.33 then displayed the genetic order of afflictions.
 VAK 5.34 now integrates those determinations as an event-producing field:

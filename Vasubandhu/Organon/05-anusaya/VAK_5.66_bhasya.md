@@ -7,7 +7,7 @@
 
 > All nine *parijñās* can be fruits of *anāgamya*. The fundamental dhyānas
 > have five as fruits according to the Vaibhāṣikas, or eight according to
-> Bhadanta Ghoṣaka. The preliminary concentration for the sphere of infinite
+> Bhadanta Ghoṣaka. The preliminary concentration for the Essence of infinite
 > space has one—the destruction of attachment to form—and each of the three
 > fundamental formless attainments has one: exhaustion of all fetters.
 

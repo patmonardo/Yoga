@@ -21,11 +21,11 @@ anuśayas are unwholesome and which are ethically indeterminate.
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `ūrdhvam` | adverbial accusative | above; in the form and formless domains |
+| `ūrdhvam` | adverbial accusative | above; in the form and formless realms |
 | `avyākṛtāḥ` | nominative plural masculine | ethically indeterminate |
 | `sarve` | nominative plural masculine | all |
 | `kāme` | locative singular | in the desire-realm |
-| `satkāya-darśanam` | nominative singular neuter | body-view; viewing the aggregate-complex as self or mine |
+| `satkāya-darśanam` | nominative singular neuter | body-view; viewing the Base-complex as self or mine |
 | `anta-grāhaḥ` | nominative singular masculine | grasping an extreme; extreme-view |
 | `saha ābhyām` | indeclinable plus instrumental dual | together or conjoined with those two |
 | `mohaḥ` | nominative singular masculine | delusion, ignorance |
@@ -34,19 +34,12 @@ anuśayas are unwholesome and which are ethically indeterminate.
 | `iha` | adverb | here, in the desire-realm |
 | `aśubhāḥ` | nominative plural masculine | unwholesome; explained as `akuśala` |
 
-Padaccheda: `ūrdhvam | avyākṛtāḥ | sarve | kāme |
-satkāya-darśanam | anta-grāhaḥ | saha | ābhyām | ca | mohaḥ |
-śeṣāḥ | tu | iha | aśubhāḥ`. The instrumental dual in
-`sahābhyām` refers to the two named views; the Bhāṣya accordingly
-restricts the relevant `moha` to ignorance conjoined with them.
-
 The instrumental dual in `sahābhyām` restricts `moha`: the indeterminate
 ignorance is the ignorance conjoined with the two named views, not every form
 of ignorance in the desire-realm.
-
 ## 4. Grammar
 
-**Higher-domain rule**
+**Higher-realm rule**
 
 ```text
 ūrdhvam sarve [anuśayāḥ] avyākṛtāḥ
@@ -54,7 +47,7 @@ of ignorance in the desire-realm.
 above, all [anuśayas] are ethically indeterminate
 ```
 
-`Ūrdhvam` is interpreted by the Bhāṣya as the form and formless domains.
+`Ūrdhvam` is interpreted by the Bhāṣya as the form and formless realms.
 `Sarve` and `avyākṛtāḥ` agree with the understood `anuśayāḥ`.
 
 **desire-realm exceptions**
@@ -95,7 +88,7 @@ qualification does not change the verse's stated class list.
 
 ### Bhāṣya-informed study translation
 
-> All anuśayas of the form and formless domains are ethically indeterminate;
+> All anuśayas of the form and formless realms are ethically indeterminate;
 > in the desire-realm, satkāya-view, extreme-grasping view, and the ignorance
 > associated with them are likewise indeterminate, while the rest are
 > unwholesome.
@@ -104,7 +97,7 @@ qualification does not change the verse's stated class list.
 
 > Affliction and ethical evil are not identical determinations. A cognition
 > may remain contaminated and binding without possessing the causal structure
-> of an unwholesome act. Its ethical status depends upon the domain in which it
+> of an unwholesome act. Its ethical status depends upon the realm in which it
 > occurs, the factors with which it is conjoined, the way it was generated,
 > the conduct with which it is compatible, and the maturation it can produce.
 > The same named view can therefore receive a different ethical determination
@@ -137,19 +130,19 @@ karmic efficacy, not simply the presence of cognitive error.
 
 **`Kliṣṭa` — contaminated or afflicted**
 
-All anuśayas are afflicted, but not all are unwholesome. Higher-domain
+All anuśayas are afflicted, but not all are unwholesome. Higher-realm
 anuśayas furnish the clearest case of `kliṣṭa` together with `avyākṛta`.
 
 **`Duḥkhavipāka` — painful maturation**
 
-The Bhāṣya argues that if higher-domain afflicted dharmas were unwholesome,
+The Bhāṣya argues that if higher-realm afflicted dharmas were unwholesome,
 they would yield painful maturation. That result does not occur there because
 the relevant cause of other-directed injury is absent.
 
 **`Paravyābādha` — injury directed toward others**
 
 A causal condition used to discriminate strict unwholesomeness. The absence
-of this condition in the higher domains explains their indeterminate
+of this condition in the higher realms explains their indeterminate
 afflictions.
 
 **Compatibility with `dāna` and `śīla`**
@@ -195,7 +188,7 @@ CompatibleWithWholesomePractice(x)
     ⇏ CognitivelyTrue(x)
 ```
 
-The higher-domain argument is genetic:
+The higher-realm argument is genetic:
 
 ```text
 LacksCause(x, OtherDirectedInjury)
@@ -251,7 +244,7 @@ phala
     ethical efficacy and karmic maturation actually produced
 
 āśraya
-    domain and conjoined event-complex in which the determination operates
+    realm and conjoined event-complex in which the determination operates
 
 ālambana
     the object-complex as falsely, innately, or conceptually determined
@@ -287,16 +280,16 @@ vak:VAK_5_19 a vak:Karika ;
     vak:hasTopic vak:EthicalStatusOfAnusaya,
                  vak:GeneticClassification .
 
-vak:HigherDomainAnusaya
+vak:HigherRealmAnusaya
     vak:hasContaminationStatus vak:Afflicted ;
     vak:hasEthicalStatus vak:Indeterminate .
 
-vak:DesireDomainIndeterminateSet
+vak:DesireRealmIndeterminateSet
     vak:includes vak:InnateBodyView,
                  vak:ExtremeView,
                  vak:IgnoranceConjoinedWithThoseViews .
 
-vak:RemainingDesireDomainAnusaya
+vak:RemainingDesireRealmAnusaya
     vak:hasEthicalStatus vak:Unwholesome .
 
 vak:ConstructedBodyViewClassification
@@ -317,6 +310,6 @@ vak:ContaminationStatus
     owl:distinctFrom vak:EthicalStatus .
 ```
 
-The seed makes ethical status dependent upon genesis, domain, conjunction,
+The seed makes ethical status dependent upon genesis, realm, conjunction,
 efficacy, and result. It does not infer moral evil directly from cognitive
 contamination.

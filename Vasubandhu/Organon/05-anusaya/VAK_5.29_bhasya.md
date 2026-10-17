@@ -5,10 +5,10 @@
 > duḥkhahetudṛgabhyāsapraheyāḥ kāmadhātujāḥ |
 > svakatrayaikarūpāptāmalavijñānagocarāḥ || 5.29 ||
 
-> desire-realm dharmas abandoned through seeing suffering, seeing origination,
-> or cultivation are objects for three corresponding cittas of their own
-> domain, one form-realm citta abandoned through cultivation, and undefiled
-> cognition.
+> Desire-realm dharmas abandoned through seeing suffering, seeing origination,
+> or cultivation are objects for three corresponding consciousness classes in their own
+> realm, one form-realm consciousness class abandoned through cultivation, and
+> undefiled Cognition.
 
 ## 2. Continuous Sanskrit
 

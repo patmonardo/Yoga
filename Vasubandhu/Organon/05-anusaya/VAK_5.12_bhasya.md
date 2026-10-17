@@ -6,7 +6,7 @@
 > vimatiḥ saha tābhiś ca yāvidyā 'veṇikī ca yā || 5.12 ||
 
 > The views abandoned through seeing suffering and origination range
-> throughout their own domain; likewise the corresponding doubts, ignorance
+> throughout their own realm; likewise the corresponding doubts, ignorance
 > associated with those views, and independent ignorance.
 
 The new question is the range of the ninety-eight anuśayas, rather

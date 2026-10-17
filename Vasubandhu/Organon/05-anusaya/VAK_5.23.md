@@ -32,15 +32,8 @@ contrasts them with the general-character afflictions treated in VAK 5.24.
 | `tasmin vastuni` | locative singular | in or with respect to that object or matter |
 | `saṃyutaḥ` | nominative singular masculine | connected, bound |
 
-Padaccheda: `rāga-pratigha-mānaiḥ | syāt |
-atīta-pratyupasthitaiḥ | yatra | utpannāḥ | aprahīṇāḥ |
-te | tasmin | vastuni | saṃyutaḥ`. The Bhāṣya glosses
-`pratyupasthita` with `pratyutpanna`, confirming the past/present
-contrast, and names this triad particular-character afflictions.
-
 The Bhāṣya glosses the kārikā's `pratyupasthita` with `pratyutpanna`, fixing
 the relevant temporal contrast as past and present.
-
 ## 4. Grammar
 
 **Instrument of connectedness**

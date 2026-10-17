@@ -31,10 +31,6 @@ destruction from repeated acquisition of disconnection.
 | `phala-prāpti` | member of locative series | attainment of a fruit of śramaṇa-hood |
 | `indriya-vivṛddhiṣu` | locative plural feminine | upon development or transition of the faculties |
 
-```text
-sakṛt | kṣayaḥ | visaṃyoga-lābhaḥ | teṣām | punaḥ punaḥ |
-pratipakṣa-udaya | phala-prāpti | indriya-vivṛddhiṣu
-```
 
 The final compound is a locative series naming occasions of repeated
 `visaṃyoga-lābha`. `Punaḥ punaḥ` modifies acquisition of disconnection, not

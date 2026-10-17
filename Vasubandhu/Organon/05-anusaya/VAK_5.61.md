@@ -35,10 +35,6 @@ preserved verbatim; the four-member interpretation is Bhāṣya-controlled.
 | `ālambanān` | transmitted ablative form; the running verse has `ālambanāt` | from or with respect to the cognitive Condition |
 | `mataḥ` | nominative singular masculine past passive participle of `√man` | held, considered |
 
-```text
-[prahāṇa-ādhāra-dūrībhāva-vidūṣaṇā]-ākhyaḥ | catur-vidhaḥ |
-pratipakṣaḥ | prahātavyaḥ | kleśaḥ | ālambanān | mataḥ
-```
 
 The lexical division in brackets is not claimed as a silent critical
 emendation. It records the four names supplied by the explanatory prose.
@@ -82,9 +78,10 @@ for temporal sequence.
 
 ### Bhāṣya-informed study translation
 
-> The four counteragents abandon, support the abandonment attained, distance
-> the severed acquisition, and discredit a domain by seeing its defects. An
-> affliction is said to be abandoned with respect to its cognitive Condition.
+> The counteragent has four forms: abandonment; support for an abandonment
+> already attained; distancing of the severed acquisition; and discrediting a
+> realm by seeing its defects. An affliction is considered abandoned with
+> respect to its cognitive Condition.
 
 ## 6. Philosophical Translation
 
@@ -120,7 +117,7 @@ include the liberation path because it already performs distancing.
 
 **`Vidūṣaṇā-pratipakṣa` — counteragent of discrediting**
 
-The Path-operation that regards a domain as defective and undermines its
+The Path-operation that regards a realm as defective and undermines its
 attractive standing. Vasubandhu places this first operationally as the
 `prayoga-mārga` when suffering and origin are its conditions.
 
@@ -166,8 +163,8 @@ Pratipakṣa
 In operational order:
 
 ```text
-SeesDomainAsDefective(PrayogaPath)
-    → Discredits(Domain)
+SeesRealmAsDefective(PrayogaPath)
+    → Discredits(realm)
 
 Arises(ĀnantaryaPath)
     → Severs(Affliction)

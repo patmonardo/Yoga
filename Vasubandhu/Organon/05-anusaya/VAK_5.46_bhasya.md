@@ -5,9 +5,9 @@
 > ye 'py anye caitasāḥ kliṣṭāḥ saṃskāraskandha-saṃjñitāḥ |
 > kleśebhyas te 'py upakleśās te tu na kleśa-saṃjñitāḥ || 5.46 ||
 
-> Other afflicted mental factors in the formations aggregate, beyond those
-> designated kleśas, also count as upakleśas because they defile citta; they
-> do not themselves bear the narrower name kleśa.
+> Other afflicted mental factors, designated as included in the Base of
+> formations and distinct from the kleśas, are also upakleśas, though they
+> are not designated kleśas.
 
 ## 2. Continuous Sanskrit
 
@@ -34,11 +34,11 @@ visible for textual review.
 
 ## 3. Continuous Conventional Translation
 
-“Other afflicted mental factors belonging to the aggregate
+“Other afflicted mental factors belonging to the Base
 of formations, distinct from the kleśas, are also
 upakleśas; they are not, however, called kleśas.” The
 commentary explains that these other afflicted mental
-factors are included in the formations aggregate. They are
+factors are included in the Base of formations. They are
 the factors taught in the *Kṣudravastuka*. Here, however,
 only those included among the enveloping afflictions and
 afflictive stains will be explained.
@@ -61,7 +61,7 @@ of *upakleśa* at 5.46.
 The resulting class relation is asymmetric. Every kleśa
 counts as an upakleśa under the citta-afflicting function
 stated just before this verse. Some further upakleśas are
-afflicted `caitasika` factors in the formations aggregate
+afflicted `caitasika` factors in the Base of formations
 that do not receive the kleśa designation. The reference
 to the *Kṣudravastuka* points to a wider inventory; the
 present chapter explicitly narrows its coming treatment to

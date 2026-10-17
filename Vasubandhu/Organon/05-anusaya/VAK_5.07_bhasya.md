@@ -5,7 +5,7 @@
 > ātmātmīya-dhruvoccheda-nāsti-hīnāgra-dṛṣṭayaḥ |
 > ahetvamārge tad-dṛṣṭir etās tāḥ pañca dṛṣṭayaḥ || 5.07 ||
 
-> These are the five views: seeing the five aggregates of appropriation as
+> These are the five views: seeing the five Bases of appropriation as
 > self or belonging to self; seeing that supposed self as permanent or
 > annihilated; saying of an existing truth that it does not exist; taking
 > what is inferior as supreme; and seeing a non-cause as cause or a non-path
@@ -71,16 +71,16 @@ assertion “it does not exist”; what is inferior being taken as
 supreme; and a non-cause or non-path being taken as cause or path.
 
 The view of a self or of what belongs to a self is satkāya-view.
-`Sat` is explained by “sinks,” and `kāya` by collection or aggregate.
-Thus `satkāya` denotes the five aggregates of appropriation. This
+`Sat` is explained by “sinks,” and `kāya` by collection or heap.
+Thus `satkāya` denotes the five Bases of appropriation. This
 expression is meant to dispel notions of permanence and of a
-compact whole, which precede grasping those aggregates as self.
-Any view taking contaminated aggregates as its cognitive support
+compact whole, which precede grasping those Bases as self.
+Any view taking contaminated Bases as its cognitive support
 could broadly be called a view concerning satkāya, but the name
 `satkāyadṛṣṭi` is restricted here to the view of self or mine. The
 restriction shows that its object is neither an actual self nor
 something belonging to one. The cited saying states that whoever
-regards something as self regards these five aggregates of
+regards something as self regards these five Bases of
 appropriation.
 
 The view that this very thing conceived as self is permanent or
@@ -109,7 +109,7 @@ is said to be omitted. These are the five views.
 ## 4. Argument and Doctrinal Determination
 
 The five forms are not interchangeable: satkāya-view appropriates
-the aggregates as self or mine; extreme-grasping view fixes that
+the Bases as self or mine; extreme-grasping view fixes that
 supposed self as permanent or annihilated; false view denies a truth
 that obtains; adherence to views elevates what is `sāsrava` as
 supreme; and adherence to discipline and observance attributes
@@ -128,12 +128,12 @@ are Vasubandhu's polemical examples within this doctrinal account.
 They should not be treated as an unargued verdict on our
 transcendental use of Ātman, Sāṃkhya, or Yoga. The local target of
 `satkāyadṛṣṭi` is specifically grasping the five appropriated
-aggregates as a self or its possessions.
+Bases as a self or its possessions.
 
 ## 5. Translation and Organon Study
 
 **Translation decisions.** `Satkāya` remains visible because its
-Bhāṣya etymology and its reference to the five aggregates matter.
+Bhāṣya etymology and its reference to the five Bases matter.
 `Ātman` is not rendered as a generic psychological “ego.”
 `Sāsrava` is glossed as “with outflows,” while the Sanskrit remains
 the controlled term. `Apavāda` and `samāropa` name distinct
@@ -144,7 +144,7 @@ failures of determination: mislocated self-relation, fixation at
 opposed extremes, false cancellation, false elevation, and false
 mediation between means and end. This is our logical use of the
 Kośa's classification. It does not settle Māṇḍūkya 7's positive
-Self-determination by substituting the aggregate-self targeted
+Self-determination by substituting the Base-self targeted
 here for that distinct question.
 
 ## 6. Review Status

@@ -26,12 +26,8 @@ configuration of completion, not the mere cessation of one afflictive factor.
 | `bhavāgra-vikalīkṛteḥ` | ablative singular feminine compound | because the summit of existence has been rendered ineffective |
 | `hetu-dvaya-samudghātāt` | ablative singular masculine compound | because of eradication of the two causes |
 | `parijñā` | nominative singular feminine | completed abandonment bearing the technical designation parijñā |
-| `dhātv-atikramāt` | ablative singular masculine compound | because of complete transcendence of a domain |
+| `dhātv-atikramāt` | ablative singular masculine compound | because of complete transcendence of a realm |
 
-```text
-anāsrava-viyoga-āpteḥ | bhava-agra-vikalīkṛteḥ |
-hetu-dvaya-samudghātāt | parijñā | dhātu-atikramāt
-```
 
 The four ablatives supply grounds for the designation. The Bhāṣya distributes
 them by type and stage rather than requiring every individual parijñā to
@@ -58,8 +54,8 @@ yatra etāni trīṇi kāraṇāni bhavanti
 
 Where these three causes are present, the abandonment is called parijñā. It
 then states that a knowledge-fruit abandonment receives the name from the same
-three and from a fourth—domain-transcendence—when one passes completely beyond
-a domain.
+three and from a fourth—realm-transcendence—when one passes completely beyond
+a realm.
 
 Thus the syntax presents four grounds compactly, while the prose fixes their
 scope and cumulative application across Path-stages.
@@ -71,14 +67,14 @@ scope and cumulative application across Path-stages.
 > [An abandonment is called] a parijñā because of acquisition of
 > uncontaminated disconnection, because the summit of existence is rendered
 > ineffective, because of eradication of the two causes, and because of
-> transcendence of a domain.
+> transcendence of a realm.
 
 ### Bhāṣya-informed study translation
 
 > An abandonment counts as *parijñā* when uncontaminated disconnection is
 > acquired, the summit of existence is rendered ineffective, and the two
-> causes are eradicated. For a fruit of *jñāna*, complete transcendence of a
-> domain provides a fourth ground.
+> causes are eradicated. For a fruit of knowledge, complete transcendence of a
+> realm provides a fourth ground.
 
 ## 6. Philosophical Translation
 
@@ -86,7 +82,7 @@ scope and cumulative application across Path-stages.
 > must acquire an uncontaminated disconnection, extend its efficacy through
 > the summit of conditioned existence, and eradicate the causal structure
 > capable of sustaining recurrence. In knowledge-fruit completion, passage
-> beyond an entire domain supplies a further determination. `Parijñā` names
+> beyond an entire realm supplies a further determination. `Parijñā` names
 > abandonment only when its relational consequences form the requisite whole;
 > it is a threshold-status, not a synonym for every act of removal.
 
@@ -119,10 +115,10 @@ The unremoved origin-class universal cause explains why suffering-
 `anvayajñāna` has not yet reached the third condition. Its later abandonment
 explains the grouping of suffering and origin in the first parijñā.
 
-**`Dhātv-atikrama` / `dhātu-samatikrama` — transcendence of a domain**
+**`Dhātv-atikrama` / `dhātu-samatikrama` — transcendence of a realm**
 
 The fourth condition for the relevant knowledge-fruit completion: completely
-passing beyond a domain, not spatially relocating within it.
+passing beyond a realm, not spatially relocating within it.
 
 **`Pṛthagjana` — ordinary person**
 
@@ -133,11 +129,11 @@ not receive the parijñā designation.
 **`Ubhaya-saṃyoga-viyoga` — disconnection from both conjunctions**
 
 A fifth cause proposed by other teachers (`apare`): through complete
-dispassion toward an entire domain, one is also disconnected from another
+dispassion toward an entire realm, one is also disconnected from another
 affliction taking the abandoned type as its cognitive Condition.
 
 Vasubandhu accepts no independent fifth member because this feature is already
-included under eradication of the two causes and transcendence of the domain.
+included under eradication of the two causes and transcendence of the realm.
 
 ## 8. Logical Determination
 
@@ -161,7 +157,7 @@ For relevant knowledge-fruit abandonments:
 
 ```text
 FirstThreeConditions(x)
-AND CompletelyTranscends(x, Domain)
+AND CompletelyTranscends(x, realm)
     → BearsDesignation(x, Parijñā)
 ```
 
@@ -217,7 +213,7 @@ limit.
 
 **Distributed conditions, not four universal synonyms.** Patience-fruit
 abandonments require the first three; knowledge-fruit completions also receive
-the domain-transcendence ground where relevant. The four clauses answer
+the realm-transcendence ground where relevant. The four clauses answer
 different aspects of completion.
 
 **Attributed fifth condition.** Other teachers distinguish disconnection from
@@ -252,7 +248,7 @@ Class: BhavagraRenderedIneffective
     SubClassOf: CompletionCondition
 Class: TwoCauseEradication
     SubClassOf: CompletionCondition
-Class: DomainTranscendence
+Class: RealmTranscendence
     SubClassOf: CompletionCondition
 Class: PathStage
 Class: SourceVoice
@@ -281,7 +277,7 @@ Rule: KsantiFruitAbandonment(?x)
 
 Rule: JnanaFruitAbandonment(?x)
       AND FirstThreeConditionsSatisfied(?x)
-      AND DomainCompletelyTranscended(?x)
+      AND RealmCompletelyTranscended(?x)
     -> BearsDesignation(?x, Parijna)
 
 AlternativeAssertion: BothConjunctionsDisconnected isIndependentCondition true
@@ -289,7 +285,7 @@ AlternativeAssertion: BothConjunctionsDisconnected isIndependentCondition true
 
 Assertion: BothConjunctionsDisconnected isIndependentCondition false
     assertedBy: Vasubandhu
-    groundedBy: {TwoCauseEradication, DomainTranscendence}
+    groundedBy: {TwoCauseEradication, RealmTranscendence}
 
 Constraint: Abandonment(?x)
     doesNotEntail BearsDesignation(?x, Parijna)

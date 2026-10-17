@@ -33,10 +33,6 @@ classification.
 | `jñānasya` | genitive singular neuter | of knowledge |
 | `śeṣitāḥ` | nominative plural feminine | the remaining ones |
 
-```text
-anyāḥ | avara-bhāgīya-kṣayaḥ | rūpa-kṣayaḥ | sarva-āsrava-kṣayaḥ |
-tisraḥ | parijñāḥ | ṣaṭ | kṣānti-phalam | jñānasya | śeṣitāḥ
-```
 
 The first pāda compactly coordinates three `kṣaya` compounds with the three
 remaining parijñās. Their precise technical expansions are fixed by the
@@ -85,14 +81,14 @@ remaining three are fruits of the cultivation path. It then qualifies the
 > The other three *parijñās* are the abandonment of the lower-part fetters,
 > the form influx, and all influxes—the last completing the exhaustion of all
 > fetters. The six seeing-abandonment *parijñās* are fruits of *kṣānti*; the
-> remaining three, attained through cultivation, are fruits of *jñāna*.
+> remaining three, attained through cultivation, are fruits of knowledge.
 
 ## 6. Philosophical Translation
 
 > Completed abandonment advances through three remaining ranges: release from
 > the fetters binding one to the lower part, release from the form-influx and
 > attachment to form, and complete exhaustion of every influx and fetter. The
-> counting follows not domain alone but the operative structure of removal:
+> counting follows not realm alone but the operative structure of removal:
 > distinct counteragents yield distinct cultivation-completions. Patience and
 > knowledge name related contributors to the result without becoming
 > identical; the result-language follows their ordered association and shared
@@ -124,9 +120,9 @@ complete exhaustion of all fetters.
 **`Atulya-pratipakṣatva` — having non-identical counteragents**
 
 The Bhāṣya's reason that cultivation-abandonments of the form and formless
-ranges count as separate parijñās even though the corresponding higher-domain
+ranges count as separate parijñās even though the corresponding higher-realm
 seeing-abandonments were grouped. The unit of completion follows the structure
-of counteraction, not domain-count alone.
+of counteraction, not realm-count alone.
 
 **`Kṣānti-phala` — fruit of patience**
 
@@ -214,7 +210,7 @@ designation as exhaustion of all fetters.
 **Why cultivation divisions differ.** Form and formless seeing-abandonments
 were collectively counted in VAK 5.64. Their cultivation-abandonments separate
 because their counteragents are not alike. Relation to the effective remedy,
-not parallel wording or domain alone, governs the parijñā unit.
+not parallel wording or realm alone, governs the parijñā unit.
 
 **Patience is not isolated from knowledge.** The Bhāṣya answers an anticipated
 problem with two relations: retinue and shared fruit. Calling the six

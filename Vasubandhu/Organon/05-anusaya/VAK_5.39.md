@@ -34,10 +34,6 @@ binding.
 | `anuśayāḥ` | nominative plural masculine | anuśayas, underlying afflictive tendencies |
 | `smṛtāḥ` | nominative plural masculine past passive participle | are called, recognized, or traditionally designated |
 
-```text
-aṇavaḥ | anugatāḥ | ca | ete | dvidhā | ca | api | anuśerate |
-anubadhnanti | yasmāt | ca | tasmāt | anuśayāḥ | smṛtāḥ
-```
 
 `Aṇu` here concerns subtle operation and consequent difficulty of discernment;
 it does not by itself assert that an anuśaya is a material atom. `Anuśerate`
@@ -103,10 +99,9 @@ functional reasons.
 
 ### Bhāṣya-informed study translation
 
-> These are subtle and accompany the continuum through prāpti; they lie along
-> in two ways, through object-support and conjunction. Because they continue
-> to bind, becoming manifest repeatedly even without deliberate effort and
-> despite attempted restraint, they are called anuśayas.
+> These are subtle and accompany through acquisition; they lie along in two
+> ways, through object-support and conjunction. Because they continue to
+> bind, they are called anuśayas.
 
 ## 6. Philosophical Translation
 
@@ -155,7 +150,7 @@ mode of lying-along and must not be collapsed into mental conjunction.
 
 **`Saṃprayoga` — conjunction**
 
-Association with the citta and caittas occurring together in a cognitive
+Association with the consciousness and caittas occurring together in a cognitive
 event. It is the second mode of lying-along.
 
 **`Anubandhana` — continued binding**

@@ -32,16 +32,8 @@ abandonment, but abandonment need not yet entail disconnection.
 | `tad-viṣayaiḥ` | instrumental plural compound | having that as their object |
 | `malaiḥ` | instrumental plural masculine | through stains or defilements |
 
-Padaccheda: `prahīṇe | duḥkha-dṛk-gheye | saṃyuktaḥ |
-śeṣa-sarva-gaiḥ | prāk | prahīṇe | prakāre | ca |
-śeṣaiḥ | tad-viṣayaiḥ | malaiḥ`.
-The second clause carries forward `saṃyuktaḥ`; the Bhāṣya
-identifies the first remaining afflictions as those abandoned by
-seeing origination and the second setting as nine cultivation grades.
-
 The kārikā says `tadviṣaya`, “having that as object.” The Bhāṣya sharpens the
 same relation with `tadālambana`, “having that as object-support.”
-
 ## 4. Grammar
 
 **The first path sequence**

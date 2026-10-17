@@ -34,14 +34,10 @@ kārikā witness is preserved above, and the research witness remains unaltered.
 | `pratipakṣa-udayāt` | ablative singular masculine compound | through arising of the counteragent |
 | `kṣayaḥ` | nominative singular masculine | exhaustion or destruction of the affliction |
 
-```text
-ālambana-parijñānāt | tad-ālambana-saṃkṣayāt |
-ālambana-prahāṇāt | ca | pratipakṣa-udayāt | kṣayaḥ
-```
 
 `Tad-ālambana` is relational: “taking that as cognitive condition.” The factor
 that takes the condition remains distinct from the condition it takes. The Bhāṣya identifies its particular
-same-domain and different-domain universal-affliction context.
+same-realm and different-realm universal-affliction context.
 
 ## 4. Grammar
 
@@ -100,7 +96,7 @@ and must retain their different subjects and conditions.
 
 The affliction is neither an isolated atom nor merely a false proposition. Its
 persistence is situated in a structured field of conditions, condition-taking
-factors, domains, abandonment classes, and counteragents.
+factors, realms, abandonment classes, and counteragents.
 
 ## 7. Technical Vocabulary
 
@@ -117,8 +113,8 @@ cases. Here determination of the condition removes the corresponding error.
 
 **`Tad-ālambana-saṃkṣaya` — exhaustion of what has that as condition**
 
-The mode assigned to universal afflictions of a different domain. The Bhāṣya
-grounds their abandonment through exhaustion of the same-domain universal
+The mode assigned to universal afflictions of a different realm. The Bhāṣya
+grounds their abandonment through exhaustion of the same-realm universal
 factors participating in the relevant conditioning relation. This specialized
 direction must not be generalized beyond the stated case without evidence.
 
@@ -137,7 +133,7 @@ opposes a particular grade of affliction arises, that grade is abandoned.
 **`Darśana-heya` — to be abandoned through seeing**
 
 The first three modes are distributed among specified subclasses of these
-afflictions according to their conditions and domain relations.
+afflictions according to their conditions and realm relations.
 
 **`Bhāvanā-heya` — to be abandoned through cultivation**
 
@@ -147,8 +143,8 @@ but not developed in this passage.
 
 **`Visabhāgadhātu-sarvatraga` and `sabhāgadhātu-sarvatraga`**
 
-Universal afflictions belonging respectively to a different domain and the
-same domain. Their conditioning relation supplies the specialized mediated case
+Universal afflictions belonging respectively to a different realm and the
+same realm. Their conditioning relation supplies the specialized mediated case
 under `tad-ālambana-saṃkṣaya`.
 
 ## 8. Logical Determination
@@ -172,7 +168,7 @@ Mode 2:
     TakesAsCondition(b, a)
     AND Exhausted(b)
         → Exhausted(a)
-    within the stated same-domain/different-domain universal relation
+    within the stated same-realm/different-realm universal relation
 
 Mode 3:
     Abandoned(CognitiveCondition(k))
@@ -199,12 +195,12 @@ Nor do the four modes form a universal sequence:
 ```text
 ExhaustionMode(k, m)
     is selected by
-AbandonmentClass(k) + ConditionType(k) + DomainRelation(k)
+AbandonmentClass(k) + ConditionType(k) + RealmRelation(k)
 ```
 
 ## 9. Interpretive Note
 
-**The Bhāṣya begins with a problem.** For different-domain universal
+**The Bhāṣya begins with a problem.** For different-realm universal
 afflictions and specified cessation/Path seeing-abandonables, knowing the
 condition and abandoning the affliction do not coincide. This counterexample
 forces the fourfold account.
@@ -232,7 +228,7 @@ ExhaustionAssertion
     hasExhaustionMode
     hasCognitiveCondition
     hasAbandonmentClass
-    hasDomainRelation
+    hasRealmRelation
     hasCounteragent
     supportedBy SourceSpan
 ```
@@ -306,7 +302,7 @@ Constraint: ExhaustionAssertion(?a)
 
 View: RelationIndexedAfflictionExhaustion
     Preserves: AfflictionIdentity, CognitiveCondition, ConditionTakingRelation,
-               AbandonmentClass, DomainRelation, Counteragent,
+               AbandonmentClass, RealmRelation, Counteragent,
                ExhaustionMode, SourceProvenance
 ```
 

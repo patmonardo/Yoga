@@ -15,13 +15,13 @@ vimatiḥ saha tābhiś ca yāvidyā 'veṇikī ca yā || 5.12 ||
 ```
 
 The verse begins a new classification of the ninety-eight anuśayas: those
-whose range is universal within their own domain and those whose range is not.
+whose range is universal within their own realm and those whose range is not.
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `sarvatragāḥ` | nominative plural feminine | universally ranging; extending throughout the appropriate domain |
+| `sarvatragāḥ` | nominative plural feminine | universally ranging; extending throughout the appropriate realm |
 | `duḥkha-hetu-dṛk-gheyāḥ` | nominative plural feminine compound | to be abandoned by seeing suffering and its cause/origination |
 | `dṛṣṭayaḥ` | nominative plural feminine | views |
 | `tathā` | indeclinable | likewise; in the same classification |
@@ -33,7 +33,7 @@ whose range is universal within their own domain and those whose range is not.
 Padaccheda: `sarvatragāḥ | duḥkha-hetu-dṛk-gheyāḥ | dṛṣṭayaḥ |
 tathā | vimatiḥ | saha | tābhiḥ | ca | yā | avidyā | āveṇikī |
 ca | yā`. The Bhāṣya reads `hetu` here as `samudaya`, origination,
-and restricts `sarvatraga` to the corresponding domain.
+and restricts `sarvatraga` to the corresponding realm.
 
 Here `hetu` does not name cause in an unrestricted sense. In the paired
 expression `duḥkha-hetu`, the Bhāṣya resolves it as `duḥkha-samudaya`: the
@@ -71,7 +71,7 @@ from independent ignorance. The Bhāṣya supplies the understood restriction:
 each is among the classes abandoned by seeing suffering and origination.
 Its count of eleven combines seven views, two doubts, and two truth-specific
 ignorance classes; association and independence do not add two more to that
-count. Their range is the whole of their corresponding domain.
+count. Their range is the whole of their corresponding realm.
 
 ## 5. Translation
 
@@ -84,14 +84,14 @@ count. Their range is the whole of their corresponding domain.
 ### Bhāṣya-informed study translation
 
 > The views abandoned through seeing suffering and origination range
-> throughout their own domain; likewise the corresponding doubts, ignorance
+> throughout their own realm; likewise the corresponding doubts, ignorance
 > associated with those views, and independent ignorance.
 
 ## 6. Philosophical Translation
 
 > An anuśaya is universal not because it is active at every place and moment,
 > but because its way of determining an object is general enough to range
-> throughout its proper domain. Views, doubt, and their forms of ignorance can
+> throughout its proper realm. Views, doubt, and their forms of ignorance can
 > misdetermine an entire field under a common character. Attachment and
 > conceit may repeatedly follow such views, yet repetition over particulars
 > does not itself constitute a general determination of the field.
@@ -101,7 +101,7 @@ The Bhāṣya therefore separates three notions:
 ```text
 occurring together with a universal view
     ≠ ranging successively over many particulars
-        ≠ determining a domain under a general character
+        ≠ determining a realm under a general character
 ```
 
 Only the third supplies the decisive sense of `sarvatraga` in the Vaibhāṣika
@@ -112,14 +112,14 @@ resolution.
 **`Sarvatraga` — universally ranging**
 
 A classification by object-range. The term does not mean omnipresent,
-continually manifest, maximally intense, or unrestricted across every domain.
+continually manifest, maximally intense, or unrestricted across every realm.
 
-**`Sabhāgadhātu-sarvatraga` — universal within a corresponding domain**
+**`Sabhāgadhātu-sarvatraga` — universal within a corresponding realm**
 
 The Bhāṣya's restriction prevents “universal” from becoming absolutely
-unbounded. The affliction ranges throughout its own homogeneous domain.
+unbounded. The affliction ranges throughout its own homogeneous realm.
 
-**`Sakala-svadhātu-ālambana` — having the whole of its own domain as object-support**
+**`Sakala-svadhātu-ālambana` — having the whole of its own realm as object-support**
 
 This is the Bhāṣya's defining rationale. `Ālambana` here names the objective
 range upon which cognition and affliction operate. “Whole” does not require a
@@ -161,16 +161,16 @@ The primary classification can be represented as:
 
 ```text
 AbandonedBySeeing(x, SufferingOrOrigination)
-AND GeneralDomainRange(x)
+AND GeneralRealmRange(x)
     → UniversalAnusaya(x)
 ```
 
-The Bhāṣya sharpens `GeneralDomainRange`:
+The Bhāṣya sharpens `GeneralRealmRange`:
 
 ```text
-HasObjectRange(x, WholeOfOwnDomain)
-AND RestrictedTo(x, CorrespondingDomain)
-    → GeneralDomainRange(x)
+HasObjectRange(x, WholeOfOwnRealm)
+AND RestrictedTo(x, CorrespondingRealm)
+    → GeneralRealmRange(x)
 ```
 
 But the following inferences are invalid:
@@ -197,7 +197,7 @@ abandonment axis
     seeing suffering / origination
 
 range axis
-    general domain-character / particular characteristic
+    general realm-character / particular characteristic
 ```
 
 Neither axis can be derived mechanically from the other.
@@ -213,7 +213,7 @@ This lets the Product be represented at two different logical resolutions:
 
 ```text
 general-character determination
-    configures how an entire domain can appear
+    configures how an entire realm can appear
 
 particular-character relation
     attaches to or ranks a determinate content within that display
@@ -227,19 +227,19 @@ remain distinct.
 
 In Organon terms, this is the difference between a schema-level determination
 and any number of instance-level transactions. The general determination is
-manifest only through particulars, but it is not reducible to their aggregate.
+manifest only through particulars, but it is not reducible to their sum.
 Conversely, many particular transactions do not by accumulation produce a
 universal determination.
 
 This advances the Subject–Product–Object architecture without importing it
 into the source doctrine. The Subject is not placed opposite a ready-made
-object. The Product first articulates an objective domain under a general
+object. The Product first articulates an objective realm under a general
 determination; particular relations then occur within that articulated field.
 Truth-seeing can therefore transform the principle governing the display, not
 merely cancel isolated contents one by one.
 
 This is Organon reconstruction. Its textual ground is the Bhāṣya's account of
-whole-domain `ālambana` and the explicitly attributed Vaibhāṣika distinction
+whole-realm `ālambana` and the explicitly attributed Vaibhāṣika distinction
 between general-character and particular-character affliction.
 
 ## 10. OWL++ Seed
@@ -248,7 +248,7 @@ between general-character and particular-character affliction.
 vak:VAK_5_12 a vak:Karika ;
     rdfs:label "VAK 5.12" ;
     vak:hasTopic vak:UniversalAnusaya,
-                 vak:GeneralDomainRange ;
+                 vak:GeneralRealmRange ;
     vak:enumerates vak:ElevenUniversalAnusayas .
 
 vak:ElevenUniversalAnusayas
@@ -264,8 +264,8 @@ vak:ElevenUniversalAnusayas
     ] .
 
 vak:UniversalAnusaya
-    vak:hasObjectRange vak:WholeOfOwnDomain ;
-    vak:rangeRestrictedBy vak:CorrespondingDomain ;
+    vak:hasObjectRange vak:WholeOfOwnRealm ;
+    vak:rangeRestrictedBy vak:CorrespondingRealm ;
     vak:doesNotEntail vak:SimultaneousTotalApprehension .
 
 vak:Attachment a vak:ParticularCharacteristicAffliction .
@@ -280,6 +280,6 @@ vak:VaibhasikaResolution a vak:AttributedDoctrine ;
                                    vak:Conceit .
 ```
 
-The seed treats domain, object-range, manifestation, and association as
+The seed treats realm, object-range, manifestation, and association as
 separate relations. It does not infer universality from frequency,
 co-occurrence, or propagation across particulars.

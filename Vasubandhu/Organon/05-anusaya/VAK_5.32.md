@@ -23,8 +23,8 @@ The verse first applies the completed object-support ordering to the predicate
 |---|---|---|
 | `dvidhā` | adverb | in two ways |
 | `sa-anuśayam` | nominative or accusative neuter singular | bearing or accompanied by anuśaya |
-| `kliṣṭam` | nominative neuter singular, qualifying understood `cittam` | defiled citta |
-| `akliṣṭam` | nominative neuter singular, qualifying understood `cittam` | non-defiled citta |
+| `kliṣṭam` | nominative neuter singular, qualifying understood `cittam` | defiled consciousness |
+| `akliṣṭam` | nominative neuter singular, qualifying understood `cittam` | non-defiled consciousness |
 | `anuśāyakaiḥ` | instrumental plural | through anuśayas that actually lie latent or adhere |
 | `moha` | compound or sandhi form of `mohaḥ` | delusion |
 | `ākāṅkṣā` | nominative singular feminine | doubt or wavering; glossed as `vicikitsā` |
@@ -32,15 +32,9 @@ The verse first applies the completed object-support ordering to the predicate
 | `mithyā-dṛṣṭiḥ` | nominative singular feminine | false view |
 | `satkāya-dṛk` | nominative singular feminine, shortened from `satkāya-dṛṣṭi` | view of a real collection, self-view |
 
-```text
-dvidhā | sa-anuśayam | kliṣṭam | akliṣṭam | anuśāyakaiḥ |
-moha | ākāṅkṣā | tataḥ | mithyā-dṛṣṭiḥ | satkāya-dṛk | tataḥ
-```
-
 The Bhāṣya requires the cautious translation “non-defiled” for `akliṣṭa` here:
-such a citta is not conjoined with affliction, yet may still stand as object of
+such a consciousness is not conjoined with affliction, yet may still stand as object of
 an unabandoned anuśaya.
-
 ## 4. Grammar
 
 **Two grounds for `sānuśaya`**
@@ -50,9 +44,9 @@ kliṣṭaṃ [cittam] dvidhā sānuśayam
 akliṣṭaṃ [cittam] anuśāyakaiḥ [sānuśayam]
 ```
 
-The first clause predicates `sānuśaya` of defiled citta “in two ways.” The
+The first clause predicates `sānuśaya` of defiled consciousness “in two ways.” The
 second carries the predicate forward elliptically but restricts its ground:
-non-defiled citta is so only through anuśayas actually adhering in the sense
+non-defiled consciousness is so only through anuśayas actually adhering in the sense
 specified by the Bhāṣya.
 
 **The genetic sequence**
@@ -77,21 +71,21 @@ official study does not silently emend the witness.
 
 ### Literal Translation
 
-> Defiled [citta] bears anuśaya in two ways; non-defiled [citta bears it only]
+> Defiled [consciousness] bears anuśaya in two ways; non-defiled [consciousness bears it only]
 > through anuśayas that actually adhere. From delusion comes doubt; from that,
 > false view; from that, the view of a real collection.
 
 ### Bhāṣya-informed study translation
 
-> Defiled citta bears anuśaya in two ways: through anuśayas that adhere and
-> through conjoined anuśayas that no longer adhere. Non-defiled citta bears it
+> Defiled consciousness bears anuśaya in two ways: through anuśayas that adhere and
+> through conjoined anuśayas that no longer adhere. Non-defiled consciousness bears it
 > only through anuśayas that adhere by taking it as object. From delusion
 > arises doubt, from doubt false view, and from false view the view of the
-> aggregates as self.
+> Bases as self.
 
 ## 6. Philosophical Translation
 
-> A cognition's relation to affliction cannot be read from a single undivided
+> A consciousness's relation to affliction cannot be read from a single undivided
 > predicate. The same designation—“bearing anuśaya”—may rest upon present
 > conjunction, upon an unabandoned affliction's object-relation, or upon mere
 > accompaniment by a conjoined but abandoned affliction. Non-defiled cognition
@@ -113,23 +107,23 @@ by a statement of its ground.
 **`Anuśayāna` — actually lying latent or adhering**
 
 The Bhāṣya's stricter relational determination. An unabandoned anuśaya actually
-adheres when it is conjoined with the citta or takes that citta as object.
+adheres when it is conjoined with the consciousness or takes that consciousness as object.
 
 **`Ananuśayāna` — not actually adhering**
 
 An anuśaya may no longer satisfy the strict latent relation because it has been
-abandoned, while a citta conjoined with it is nevertheless called `sānuśaya`
+abandoned, while a consciousness conjoined with it is nevertheless called `sānuśaya`
 through accompaniment.
 
 **`Sahitatva` — being accompanied by**
 
-The Bhāṣya's ground for the second way in which defiled citta bears the
+The Bhāṣya's ground for the second way in which defiled consciousness bears the
 `sānuśaya` predicate.
 
 **`Kliṣṭa` and `akliṣṭa` — defiled and non-defiled**
 
 These distinguish conjunction-status. They do not alone state whether an
-unabandoned anuśaya can take the citta as object.
+unabandoned anuśaya can take the consciousness as object.
 
 **`Ākāṅkṣā` and `vicikitsā` — doubt**
 
@@ -143,7 +137,7 @@ merely left open; it is closed under the wrong determination.
 
 **`Satkāyadṛṣṭi` — view of a real collection**
 
-Self-view generated when the aggregates are excluded from their correct
+Self-view generated when the Bases are excluded from their correct
 determination as suffering and fixated upon as self. The Bhāṣya marks this
 transition with `kila`, giving it the nuance of a received scholastic account.
 
@@ -152,11 +146,11 @@ transition with `kila`, giving it the nuance of a received scholastic account.
 The first half blocks predicate collapse:
 
 ```text
-Sānusaya(Citta)
+Sānusaya(Consciousness)
     ⇏ one unique ground of attribution
 ```
 
-For defiled citta:
+For defiled consciousness:
 
 ```text
 Kliṣṭa(c)
@@ -171,7 +165,7 @@ AND ConjoinedWith(a,c)
     → Sānusaya(c) by Accompaniment
 ```
 
-For non-defiled citta:
+For non-defiled consciousness:
 
 ```text
 Akliṣṭa(c)
@@ -192,7 +186,7 @@ Ignorance
             → doubt
                 → false ascertainment
                     → false view
-                        → appropriation of aggregates as self
+                        → appropriation of Bases as self
                             → satkāyadṛṣṭi
 ```
 
@@ -204,7 +198,7 @@ transition.
 ## 9. Interpretive Note
 
 **Source determination.** The matrix is now applied to the grounds upon which
-citta is called `sānuśaya`. The Bhāṣya distinguishes conjunction, object-
+consciousness is called `sānuśaya`. The Bhāṣya distinguishes conjunction, object-
 relation, actual latent adherence, and accompaniment. It then asks how the ten
 anuśayas arise and begins their genetic ordering from ignorance.
 
@@ -218,8 +212,8 @@ same predicate
 ```
 
 Here the completed `ālambana-vyavasthā` becomes operational. It allows one to
-distinguish a non-defiled citta standing as object of affliction from a defiled
-citta conjoined with affliction.
+distinguish a non-defiled consciousness standing as object of affliction from a defiled
+consciousness conjoined with affliction.
 
 **Genesis rather than enumeration.** The sequence beginning with `moha` moves
 from failure of determination to divided presentation, from division to false
@@ -236,31 +230,31 @@ each belongs to a different moment of the generated appearance.
 ## 10. OWL++ Seed
 
 ```text
-Class: Citta
-Class: DefiledCitta
-    SubClassOf: Citta
-Class: NonDefiledCitta
-    SubClassOf: Citta
+Class: Consciousness
+Class: DefiledConsciousness
+    SubClassOf: Consciousness
+Class: NonDefiledConsciousness
+    SubClassOf: Consciousness
 Class: Anusaya
 Class: AttributionGround
 
 ObjectProperty: isConjoinedWith
-    Domain: Citta
+    Domain: Consciousness
     Range: Anusaya
 
 ObjectProperty: isTakenAsObjectBy
-    Domain: Citta
+    Domain: Consciousness
     Range: Anusaya
 
 ObjectProperty: bearsAnusayaBy
-    Domain: Citta
+    Domain: Consciousness
     Range: AttributionGround
 
 DataProperty: isAbandoned
     Domain: Anusaya
     Range: Boolean
 
-Rule: DefiledCitta(?c)
+Rule: DefiledConsciousness(?c)
     AND Anusaya(?a)
     AND isConjoinedWith(?c, ?a)
     -> bearsAnusayaBy(?c, Accompaniment)
@@ -270,7 +264,7 @@ Rule: Anusaya(?a)
     AND [isConjoinedWith(?c, ?a) OR isTakenAsObjectBy(?c, ?a)]
     -> bearsAnusayaBy(?c, ActualLatentAdherence)
 
-Constraint: NonDefiledCitta(?c)
+Constraint: NonDefiledConsciousness(?c)
     -> NOT isConjoinedWith(?c, Anusaya)
 
 Process: ErrorGenesis

@@ -94,8 +94,8 @@ The seven definitions, the three sources of the nine modes, and the range of
 ### Bhāṣya-informed study translation
 
 > Conceit has seven forms, and three of them yield nine modes; its forms are
-> exhausted through seeing or cultivation. The afflictive occupation leading
-> to deliberate killing and similar acts is abandoned through cultivation;
+> exhausted through seeing or cultivation. The afflictive occupation through
+> which one commits killing and similar acts is abandoned through cultivation;
 > likewise—
 
 ## 6. Philosophical Translation
@@ -138,7 +138,7 @@ afflicted elevation by making self-comparison the governing relation.
 | `māna` | superior to an inferior, or equal to an equal |
 | `atimāna` | superior to an equal |
 | `mānātimāna` | superior even to one who is superior |
-| `asmimāna` | the five aggregates taken as self or mine |
+| `asmimāna` | the five appropriated Bases taken as self or mine |
 | `abhimāna` | an unattained distinction taken as attained |
 | `ūnamāna` | oneself as only slightly inferior to one greatly superior |
 | `mithyāmāna` | oneself as possessing excellence when excellence is absent |

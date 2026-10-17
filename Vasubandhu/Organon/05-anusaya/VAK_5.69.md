@@ -38,10 +38,6 @@ one.” The witness is preserved verbatim rather than silently regularized.
 | `ekayā vā` | instrumental singular plus particle | or with one |
 | `dvayena vā` | instrumental singular neuter collective expression | or with two |
 
-```text
-na | ekayā | pañcabhiḥ | yāvat | darśana-sthaḥ | samanvitaḥ |
-bhāvanā-sthaḥ | punaḥ | ṣaḍbhiḥ | ekayā | vā | dvayena | vā
-```
 
 The understood noun after every numeral is `parijñā`. The governing relation
 is current endowment, not the historical occurrence of every prior attainment.
@@ -85,10 +81,10 @@ presently possessed.
 ### Bhāṣya-informed study translation
 
 > One standing in the Path of Seeing is endowed first with no *parijñā*,
-> then with one through five as seeing proceeds. One standing in cultivation
-> has six if desire-realm dispassion has not been attained or has been lost;
-> with the specified dispassions and attainments, that practitioner is endowed
-> instead with one or two *parijñās*.
+> then with one through five as seeing proceeds. One standing in the Path of
+> Cultivation has six if desire-realm dispassion has not been attained or has
+> been lost; one if that dispassion or arhatship has been attained; and two if
+> dispassion from the form realm has been attained.
 
 ## 6. Philosophical Translation
 
@@ -160,7 +156,7 @@ paryavasthāna.
 **`Paryavasthāna` — active afflictive enveloping**
 
 Here it marks a fall from an attainment. The examples show that such a fall
-does not automatically erase every previously established lower-domain
+does not automatically erase every previously established lower-realm
 parijñā.
 
 ## 8. Logical Determination
@@ -170,7 +166,7 @@ The count is a function of state:
 ```text
 PresentParijñāCount(person)
     = f(PathMoment,
-        DomainDispassionState,
+        RealmDispassionState,
         AttainmentOrFallState,
         PresentlyPossessedParijñāSet)
 ```
@@ -251,7 +247,7 @@ normalized state as separate objects:
 ```text
 PractitionerState
     occursAtPathMoment
-    hasDomainDispassionState
+    hasRealmDispassionState
     hasFallState
     presentlyPossesses ParijñāSet
     supportedBy SourceSpan
@@ -271,7 +267,7 @@ Class: SeeingPathMoment
 Class: CultivationPathMoment
     SubClassOf: PathMoment
 Class: Parijna
-Class: DomainDispassionState
+Class: RealmDispassionState
 Class: FallState
 
 ObjectProperty: stateOf
@@ -286,9 +282,9 @@ ObjectProperty: presentlyPossesses
     Domain: PractitionerState
     Range: Parijna
 
-ObjectProperty: hasDomainDispassionState
+ObjectProperty: hasRealmDispassionState
     Domain: PractitionerState
-    Range: DomainDispassionState
+    Range: RealmDispassionState
 
 ObjectProperty: hasFallState
     Domain: PractitionerState
@@ -302,13 +298,13 @@ Assertion: NirodhaAnvayajnanaState hasParijnaCount 4
 Assertion: MargaDharmajnanaState hasParijnaCount 5
 
 Rule: AtMargaAnvayajnana(?state)
-      AND NotAttained(?state, DesireDomainDispassion)
+      AND NotAttained(?state, DesireRealmDispassion)
     -> hasParijnaCount(?state, 6)
 
-Rule: HasDesireDomainDispassion(?state)
+Rule: HasDesireRealmDispassion(?state)
     -> presentlyPossesses(?state, LowerPartFetterAbandonment)
 
-Rule: HasFormDomainDispassion(?state)
+Rule: HasFormRealmDispassion(?state)
     -> presentlyPossesses(?state, LowerPartFetterAbandonment)
        AND presentlyPossesses(?state, FormAttachmentDestruction)
 
@@ -323,7 +319,7 @@ Constraint: EqualParijnaCount(?a, ?b)
 
 View: PathStageParijnaPossessionMap
     Preserves: Practitioner, PathMoment, PresentPossession,
-               ParijnaIdentity, ParijnaCount, DomainDispassion,
+               ParijnaIdentity, ParijnaCount, RealmDispassion,
                FallState, SourceProvenance
 ```
 

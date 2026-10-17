@@ -67,7 +67,7 @@ is the object of those whose range is that
 The Bhāṣya resolves the compressed construction: the six-level
 `dharmajñāna` side is the object for desire-realm path-oriented anuśayas; the
 nine-level `anvayajñāna` side is the object for those of the form and formless
-domains.
+realms.
 
 **Causal rationale**
 
@@ -95,7 +95,7 @@ Bhāṣya's subsequent objections and qualifies the path's possible range.
 
 > Cessation is confined to its own level. Those whose range is the Path take
 > as object the six-level dharmajñāna Path or the nine-level anvayajñāna Path,
-> according to domain, since one path is a cause of another.
+> according to realm, since one path is a cause of another.
 
 ## 6. Philosophical Translation
 
@@ -125,12 +125,12 @@ structure.
 **`Svabhūmy-uparama` — cessation of one's own level**
 
 For an anuśaya belonging to the desire-realm, only cessation of the desire
-domain is its cessation-object; the same own-level rule continues through the
+realm is its cessation-object; the same own-level rule continues through the
 summit of existence. Cessation is determinate termination, not bare absence.
 
 **`Bhūmi` — level or stage**
 
-Here `bhūmi` indexes the differentiated domains in which affliction,
+Here `bhūmi` indexes the differentiated levels on which affliction,
 counteraction, and cessation are situated. It should not be flattened into a
 mere spatial location.
 
@@ -142,8 +142,9 @@ and Knowledge chapters.
 
 **`Anvayajñāna-pakṣa` — the subsequent or corresponding-knowledge side**
 
-The Bhāṣya assigns this nine-level path to the object-range of form- and
-formless-realm path-oriented anuśayas, including levels not directly seen.
+The Bhāṣya assigns this nine-level path to the object-range of path-oriented
+anuśayas belonging to the Form and Formless realms, including levels not
+directly seen.
 The provisional English remains subordinate to its later technical analysis.
 
 **`Pratipakṣa` — counteragent**
@@ -182,14 +183,14 @@ CessationOf(L1) ≠ CessationOf(L2)
     when L1 ≠ L2
 ```
 
-The path rule is differentiated by domain:
+The path rule is differentiated by realm:
 
 ```text
-DesireDomain(x)
+DesireRealm(x)
 AND PathOriented(x)
     → HasObjectSupport(x, SixLevelDharmajñanaPath)
 
-FormOrFormlessDomain(x)
+FormOrFormlessRealm(x)
 AND PathOriented(x)
     → HasObjectSupport(x, NineLevelAnvayajnanaPath)
 ```
@@ -198,7 +199,7 @@ Causal relation is necessary but not sufficient for unrestricted range:
 
 ```text
 CausallyRelated(PathA, PathB)
-AND Counteracts(PathB, DomainOf(x))
+AND Counteracts(PathB, RealmOf(x))
     → AdmissiblePathObject(x, PathB)
 ```
 
@@ -206,7 +207,7 @@ Therefore:
 
 ```text
 MutuallyCausal(Dharmajñana, Anvayajnana)
-    ⇏ DesireDomainAnusayaTakes(Anvayajnana)
+    ⇏ DesireRealmAnusayaTakes(Anvayajnana)
 ```
 
 The missing condition is appropriate counteragent function.
@@ -268,7 +269,7 @@ higher level.
 This fourfold reconstruction develops the textual relations rather than
 claiming that VAK 5.15 itself enumerates the four terms. The Bhāṣya's
 `pratipakṣa` restriction prevents their unity from becoming abstract: each
-relation must perform the determinate work appropriate to its domain.
+relation must perform the determinate work appropriate to its realm.
 
 The Subject consequently encounters neither a static Goal nor a prefabricated
 road. Objectivity here includes both Theory—the path and cessation known as
@@ -298,12 +299,12 @@ vak:OwnLevelCessationRule a vak:ObjectRangeRule ;
 
 vak:SixLevelDharmajñanaPath
     a vak:UncontaminatedPathObject ;
-    vak:objectFor vak:DesireDomainPathOrientedAnusaya .
+    vak:objectFor vak:DesireRealmPathOrientedAnusaya .
 
 vak:NineLevelAnvayajnanaPath
     a vak:UncontaminatedPathObject ;
-    vak:objectFor vak:FormDomainPathOrientedAnusaya,
-                  vak:FormlessDomainPathOrientedAnusaya .
+    vak:objectFor vak:FormRealmPathOrientedAnusaya,
+                  vak:FormlessRealmPathOrientedAnusaya .
 
 vak:PathObjectAdmissibilityRule a vak:ObjectRangeRule ;
     vak:requires vak:CausalPathRelation,

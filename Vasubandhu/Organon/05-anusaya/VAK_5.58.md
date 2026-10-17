@@ -42,10 +42,6 @@ the research witness and are not silently substituted into the verse.
 | `catvāri anyāni` | nominative plural neuter | the other four specified paryavasthānas |
 | `pañcabhiḥ` | instrumental plural | with all five feeling-faculties |
 
-```text
-māyā | śāṭhyam | atho | mrakṣaḥ | middham | ca | ubhayathā |
-madaḥ | sukha-ābhyām | sarva-gā | upekṣā | catvāri | anyāni | pañcabhiḥ
-```
 
 `Sarvagā` agrees with `upekṣā`: equanimity “goes with all.” It does not turn
 equanimity into an affliction or assert that every equanimous event is

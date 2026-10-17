@@ -84,8 +84,7 @@ calls this statement an `utsarga`, a general rule before the exception in
 ### Bhāṣya-informed study translation
 
 > Universal anuśayas adhere through cognitive support to their entire own
-> level, comprising all five abandonment classes; non-universal anuśayas
-> adhere only to their own abandonment class within that level.
+> level; non-universal anuśayas adhere to their own class.
 
 ## 6. Philosophical Translation
 
@@ -128,7 +127,7 @@ non-universal.
 
 The enclosing range within which the present rule operates. “Universal” does
 not here abolish the level-boundary, even though VAK 5.13 established distinct
-cross-domain possibilities for nine universal anuśayas.
+cross-realm possibilities for nine universal anuśayas.
 
 **`Pañcaprakāra` — the five modes**
 

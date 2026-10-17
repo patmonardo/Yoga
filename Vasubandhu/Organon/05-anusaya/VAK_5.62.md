@@ -26,19 +26,15 @@ Bhāṣya supplies an example for each.
 | `vipakṣatvāt` | ablative singular neuter | through being opposed or contrary |
 | `deśa-vicchedāt` | ablative singular masculine | through separation in place |
 | `kālataḥ` | ablatival adverb | with respect to time |
-| `bhūta` | compound member | the great elements, example of characteristic-distance |
+| `bhūta` | compound member | the Great Elements, example of characteristic-distance |
 | `śīla` | compound member | discipline, paired with misconduct as opposition-distance |
 | `pradeśa` | compound member | regions or places, example of spatial distance |
 | `adhva-dvayānām` | genitive plural/dual sense within compound | of the two temporal courses, past and future |
 | `iva` | comparative particle | as, like, as in the cases of |
 | `dūratāḥ` | nominative plural feminine | distances or modes of remoteness |
 
-```text
-vailakṣaṇyāt | vipakṣatvāt | deśa-vicchedāt | kālataḥ |
-bhūta-śīla-pradeśa-adhva-dvayānām | iva | dūratāḥ
-```
 
-The Bhāṣya resolves the compressed illustrative compound: great elements;
+The Bhāṣya resolves the compressed illustrative compound: Great Elements;
 discipline and misconduct; eastern and western oceans; past and future.
 
 ## 4. Grammar
@@ -79,7 +75,7 @@ the fourth kind.
 ### Bhāṣya-informed study translation
 
 > Distance has four grounds: unlike characteristics, as among the co-arising
-> great elements; opposition, as between discipline and misconduct; separation
+> Great Elements; opposition, as between discipline and misconduct; separation
 > in place, as between the eastern and western oceans; and time, as for the
 > future and past in relation to a dharma's own characteristic.
 
@@ -106,7 +102,7 @@ doctrinal context is the `dūrībhāva-pratipakṣa` of VAK 5.61.
 
 **`Vailakṣaṇya-dūratā` — distance by characteristic difference**
 
-Illustrated by the great elements. Even when co-arisen, they remain distinct
+Illustrated by the Great Elements. Even when co-arisen, they remain distinct
 through their unlike defining characteristics. Co-presence therefore does
 not erase qualitative remoteness.
 
@@ -202,7 +198,7 @@ of space and time. It clarifies the distance named by the distancing
 counteragent, while distinguishing that Path-relation from other legitimate
 senses of remoteness.
 
-**Difference is not opposition.** Great elements can differ while co-arising;
+**Difference is not opposition.** Great Elements can differ while co-arising;
 discipline and misconduct stand as contraries. Only the second relation
 captures the determinate opposition central to a counteragent.
 

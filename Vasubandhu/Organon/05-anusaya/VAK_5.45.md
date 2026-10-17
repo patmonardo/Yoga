@@ -35,10 +35,6 @@ precise restoration requires comparison with critical and printed witnesses.
 | `vidvaśāt` | transmitted ablative form, textually suspect | exact lexical force unresolved; prose points to governance by the three feelings |
 | `bandhana-trayam` | nominative singular neuter compound | triad of bonds |
 
-```text
-pañcadhā | eva | ūrdhva-bhāgīyam | dvau | rāgau | rūpi-arūpi-jau |
-auddhatya-māna-mohāḥ | ca | vidvaśāt | bandhana-trayam
-```
 
 The first five items are fixed by the Bhāṣya as form-attachment, formless-
 attachment, restlessness, conceit, and ignorance. `Bandhana-trayam` does not
@@ -100,10 +96,8 @@ license silently rewriting the kārikā in the official study.
 
 ### Bhāṣya-informed study translation
 
-> The higher-part fetters are likewise five: attachment to form, attachment
-> to the formless, restlessness, conceit, and ignorance. The three bonds—
-> desire, hostility, and delusion—are distinguished by their relation to the
-> three feelings.
+> The higher-part fetters are five: attachment to form, attachment to the
+> formless, excitation, conceit, and ignorance. The three bonds are governed by the three feelings.
 
 ## 6. Philosophical Translation
 

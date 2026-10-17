@@ -31,14 +31,8 @@ reclassifies the afflictive field according to the sustained currents called
 | `rūpa-arūpye` | locative dual | in the form- and formless-realms |
 | `bhava-āsravaḥ` | nominative singular masculine | the influx of existence |
 
-```text
-kāme | sa-paryavasthānāḥ | kleśāḥ | kāma-āsravaḥ | vinā |
-mohena | anuśayāḥ | eva | rūpa-arūpye | bhava-āsravaḥ
-```
-
 The singular collective predicates `kāmāsravaḥ` and `bhavāsravaḥ` gather
 plural afflictive factors under new functional classifications.
-
 ## 4. Grammar
 
 **Desire-influx**
@@ -50,7 +44,7 @@ vinā mohena
     kāma-āsravaḥ [veditavyaḥ]
 ```
 
-The locative fixes the domain; `sa-paryavasthānāḥ` includes the enveloping or
+The locative fixes the realm; `sa-paryavasthānāḥ` includes the enveloping or
 manifest secondary afflictions; and `vinā mohena` excludes ignorance for
 separate classification. The Bhāṣya supplies “is to be understood as.”
 
@@ -65,7 +59,7 @@ anuśayāḥ eva
 
 The Bhāṣya explicitly carries `vinā mohena` into the second half. `Eva`
 restricts the present enumeration to anuśayas, but does not assert that no
-paryavasthānas occur in the higher domains.
+paryavasthānas occur in the higher realms.
 
 ## 5. Translation
 
@@ -78,7 +72,7 @@ paryavasthānas occur in the higher domains.
 ### Bhāṣya-informed study translation
 
 > In the desire-realm, afflictions together with paryavasthānas, apart from
-> ignorance, constitute the desire āsrava. In the form and formless domains,
+> ignorance, constitute the desire āsrava. In the form and formless realms,
 > only the anuśayas, again apart from ignorance, constitute the existence
 > āsrava.
 
@@ -86,11 +80,11 @@ paryavasthānas occur in the higher domains.
 
 > The afflictive event of VAK 5.34 belongs to a larger continuity. Recurrent
 > dispositions and manifestations are gathered according to the current by
-> which they sustain a domain of conditioned existence. Desire-influx includes
+> which they sustain a realm of conditioned existence. Desire-influx includes
 > the more manifest envelopments of desire-life; existence-influx gathers the
-> non-ignorance tendencies of the concentrated higher domains under one
+> non-ignorance tendencies of the concentrated higher realms under one
 > functionally unified stream. Ignorance is withheld because its operation
-> traverses the three domains and will constitute a current of its own.
+> traverses the three realms and will constitute a current of its own.
 
 The classifications do not manufacture new dharmas. They redescribe one
 determinate afflictive field according to different practical functions.
@@ -115,19 +109,19 @@ two counted items.
 **`Paryavasthāna` — afflictive envelopment or manifest domination**
 
 Included independently in desire-influx. Torpor and restlessness occur in the
-higher domains, but the Kāśmīra reply excludes them as separate members of this
+higher realms, but the Kāśmīra reply excludes them as separate members of this
 enumeration because of `asvātantrya`.
 
 **`Asvātantrya` — lack of independence**
 
-A classificatory, not existential, exclusion. A factor may occur in a domain
+A classificatory, not existential, exclusion. A factor may occur in a realm
 without possessing the independent functional standing required to be counted
-as a separate member of the present aggregate.
+as a separate member of the present total.
 
 **`Dravya` — counted factor**
 
 The Bhāṣya counts forty-one factors under desire āsrava and fifty-two under
-existence āsrava. The Kāśmīra reply about higher-domain paryavasthānas concerns
+existence āsrava. The Kāśmīra reply about higher-realm paryavasthānas concerns
 whether they are counted independently here.
 
 **Alternative functional classifications**
@@ -142,12 +136,12 @@ VAK 5.35 applies new membership predicates to already determined factors:
 
 ```text
 MemberOf(x, KāmaĀsrava)
-    iff Domain(x) = Desire
+    iff Realm(x) = Desire
     AND [Kleśa(x) OR Paryavasthāna(x)]
     AND NOT Avidyā(x)
 
 MemberOf(x, BhavaĀsrava)
-    iff Domain(x) in {Form, Formless}
+    iff Realm(x) in {Form, Formless}
     AND Anuśaya(x)
     AND NOT Avidyā(x)
 ```
@@ -155,10 +149,10 @@ MemberOf(x, BhavaĀsrava)
 The Bhāṣya's objection and answer add a rule of independent counting:
 
 ```text
-OccursIn(x, Domain)
+OccursIn(x, realm)
     ⇏ IndependentlyCountedIn(x, Classification)
 
-HigherDomainParyavasthāna(x)
+HigherRealmParyavasthāna(x)
 AND LacksIndependence(x)
     → NOT IndependentlyCountedIn(x, BhavaĀsrava)
 ```
@@ -187,7 +181,7 @@ belong to currents that sustain modes of conditioned existence:
 ```text
 event-producing causal circuit
     → recurrence and mutual reinforcement
-        → domain-sustaining āsrava
+        → realm-sustaining āsrava
 ```
 
 The stream is not a second substance above its members. It is their organized
@@ -203,7 +197,7 @@ and cognitive operation continue to meet.
 **The direction of the Path.** The movement from avidyā to vidyā must transform
 not only isolated kleśa-events but the recurrent organization that makes them
 a stream. The Path therefore carries the conditioned afflictions into knowledge
-by determining their domains, relations, grounds, manifestations, and modes of
+by determining their realms, relations, grounds, manifestations, and modes of
 aggregation. What was blindly reproduced as āsrava becomes objectively
 comprehended as a system—and thereby available for cessation.
 
@@ -220,9 +214,9 @@ Class: ExistenceInflux
     SubClassOf: Asrava
 Class: FunctionalClassification
 
-ObjectProperty: belongsToDomain
+ObjectProperty: belongsToRealm
     Domain: AfflictiveFactor
-    Range: Domain
+    Range: realm
 
 ObjectProperty: memberOfInflux
     Domain: AfflictiveFactor
@@ -240,21 +234,21 @@ DataProperty: hasIndependentStanding
     Domain: AfflictiveFactor
     Range: Boolean
 
-Rule: DesireDomainFactor(?x)
+Rule: DesireRealmFactor(?x)
     AND [Anusaya(?x) OR Paryavasthana(?x)]
     AND isIgnorance(?x, false)
     -> memberOfInflux(?x, DesireInflux)
 
-Rule: HigherDomainAnusaya(?x)
+Rule: HigherRealmAnusaya(?x)
     AND isIgnorance(?x, false)
     -> memberOfInflux(?x, ExistenceInflux)
 
-Constraint: occursInDomain(?x, ?d)
+Constraint: occursInRealm(?x, ?d)
     doesNotEntail hasIndependentMembership(?x, ?classification)
 
 View: AsravaClassification
     Projects: UnderlyingAnusayaField
-    Preserves: FactorIdentity, Domain, FunctionalGround, Provenance
+    Preserves: FactorIdentity, realm, FunctionalGround, Provenance
 ```
 
 The seed treats `āsrava` as a functionally grounded view of the same afflictive

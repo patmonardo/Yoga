@@ -23,7 +23,7 @@ universal anuśaya share its universal status.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `nava` | cardinal numeral | nine |
-| `ūrdhva-ālambanāḥ` | nominative plural masculine | having a higher domain as object-support |
+| `ūrdhva-ālambanāḥ` | nominative plural masculine | having a higher realm as object-support |
 | `eṣām` | genitive plural pronoun | of these [eleven universal anuśayas] |
 | `dṛṣṭi-dvaya-vivarjitāḥ` | nominative plural masculine | excluding the two views |
 | `prāpti-varjyāḥ` | nominative plural masculine | excluding acquisitions |
@@ -56,7 +56,7 @@ dṛṣṭi-dvaya-vivarjitāḥ nava
 ūrdhva-ālambanāḥ [bhavanti]
 
 of these [eleven], nine, excluding the two views,
-have a higher domain as their object-support
+have a higher realm as their object-support
 ```
 
 The numeral `nava` and the predicate adjective `ūrdhvālambanāḥ` agree with the
@@ -80,38 +80,38 @@ the predicate. `Prāpti-varjyāḥ` marks an explicit exception; co-occurrence
 alone does not license indiscriminate inheritance.
 The Bhāṣya identifies the excluded pair as `satkāyadṛṣṭi` and
 `antagrāhadṛṣṭi`. It describes the nine's support as a different, higher
-domain and explains the exclusion of acquisitions by their heterogeneous
+realm and explains the exclusion of acquisitions by their heterogeneous
 results.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Of these, nine—excluding the two views—have higher [domains] as their
+> Of these, nine—excluding the two views—have higher [realms] as their
 > object-support. Whatever [dharmas] arise together with these, excluding
 > acquisitions, are also universal.
 
 ### Bhāṣya-informed study translation
 
-> Of these eleven, nine—excluding satkāya-view and extreme-grasping view—can take
-> higher domains as cognitive supports; dharmas co-arising with the universal
-> anuśayas are likewise universally ranging, except acquisitions.
+> Of these eleven, nine—excluding satkāya-view and extreme-grasping view—take
+> higher realms as cognitive support; dharmas co-arising with these, except
+> acquisitions, are likewise universal.
 
 ## 6. Philosophical Translation
 
 > Universality is neither confinement to one level nor absence of every
 > boundary. Nine universal anuśayas can direct their determining relation
-> beyond their present domain toward a higher one. The two views structured by
+> beyond their present realm toward a higher one. The two views structured by
 > self-appropriation cannot do so. Within an actual afflicted event,
 > universality also belongs to the co-arisen complex, though not to the
 > acquisition relation. A determination may therefore extend vertically and
 > communicate its character through a concrete conjunction, but only under
-> rules that specify what can cross a domain and what can inherit a function.
+> rules that specify what can cross a realm and what can inherit a function.
 
 VAK 5.13 differentiates:
 
 ```text
-object-range across domains
+object-range across realms
     from
 shared status within a co-arisen event
     from
@@ -122,23 +122,23 @@ These are three relations, not three expressions for the same fact.
 
 ## 7. Technical Vocabulary
 
-**`Ūrdhvālambana` — having a higher domain as object-support**
+**`Ūrdhvālambana` — having a higher realm as object-support**
 
-The nine can take one or two different higher domains as `ālambana`, according
-to the Bhāṣya. Their same-domain universality from VAK 5.12 therefore does not
+The nine can take one or two different higher realms as `ālambana`, according
+to the Bhāṣya. Their same-realm universality from VAK 5.12 therefore does not
 exhaust their possible objective range.
 
 **The two excluded views**
 
-The Bhāṣya identifies them as `satkāyadṛṣṭi`, body-view or the view of a real
-personal aggregate, and `antagrāhadṛṣṭi`, extreme-view. The inherited account
+The Bhāṣya identifies them as `satkāyadṛṣṭi`, the view that the five
+appropriated Bases are self or mine, and `antagrāhadṛṣṭi`, extreme-view. The inherited account
 holds that the former requires apprehension as self or mine and that the
 latter arises upon that self-appropriation.
 
-**`Visabhāgadhātu-sarvatraga` — universal with respect to a different domain**
+**`Visabhāgadhātu-sarvatraga` — universal with respect to a different realm**
 
 This Bhāṣya expression complements `sabhāgadhātu-sarvatraga` in VAK 5.12.
-Sameness or difference of domain specifies the direction of the
+Sameness or difference of realm specifies the direction of the
 `ālambana` relation; it does not introduce an unconditioned universality.
 
 **`Mithyājñāna` — false cognition**
@@ -168,12 +168,12 @@ and causal office overlap without being identical.
 
 ## 8. Logical Determination
 
-The eleven from VAK 5.12 divide by cross-domain object-range:
+The eleven from VAK 5.12 divide by cross-realm object-range:
 
 ```text
 ElevenUniversalAnusayas
     − {SatkayaDrsti, AntagrahaDrsti}
-    = NineHigherDomainObjectAnusayas
+    = NineHigherRealmObjectAnusayas
 ```
 
 The exclusion is relational:
@@ -185,8 +185,8 @@ SatkayaDrsti(x)
 AntagrahaDrsti(x)
     depends upon SatkayaDrstiStructure(x)
 
-NoCrossDomainSelfAppropriation(x)
-    → NoCrossDomainRangeForEitherView(x)
+NoCrossRealmSelfAppropriation(x)
+    → NoCrossRealmRangeForEitherView(x)
 ```
 
 This is the Abhidharmika rationale reported in the Bhāṣya. Vasubandhu does not
@@ -222,12 +222,12 @@ non-coincidences.
 ## 9. Interpretive Note
 
 VAK 5.13 transforms the `ālambana` determination from a flat field into a
-directed architecture. In VAK 5.12 the whole of one's own domain established
-horizontal scope. Here nine anuśayas can cross upward into a different domain:
+directed architecture. In VAK 5.12 the whole of one's own realm established
+horizontal scope. Here nine anuśayas can cross upward into a different realm:
 
 ```text
-determination in present domain
-    → higher-domain objective support
+determination in present realm
+    → higher-realm objective support
 ```
 
 This is not the Subject escaping every condition. It is a determinate form in
@@ -263,7 +263,7 @@ Product becomes genuinely concrete because its moments share a determination
 without losing their different functions.
 
 This is Organon reconstruction. The textual basis is the Bhāṣya's
-cross-domain analysis, its co-arising rule, its exclusion of acquisition, and
+cross-realm analysis, its co-arising rule, its exclusion of acquisition, and
 Vasubandhu's explicit demand that the inherited distinction be demonstrated.
 
 ## 10. OWL++ Seed
@@ -272,14 +272,14 @@ Vasubandhu's explicit demand that the inherited distinction be demonstrated.
 vak:VAK_5_13 a vak:Karika ;
     rdfs:label "VAK 5.13" ;
     vak:continues vak:VAK_5_12 ;
-    vak:hasTopic vak:HigherDomainObjectRange,
+    vak:hasTopic vak:HigherRealmObjectRange,
                  vak:CoArisenUniversality .
 
-vak:NineHigherDomainObjectAnusayas
+vak:NineHigherRealmObjectAnusayas
     vak:selectedFrom vak:ElevenUniversalAnusayas ;
     vak:excludes vak:SatkayaDrsti,
                  vak:AntagrahaDrsti ;
-    vak:hasObjectRange vak:HigherOrDifferentDomain .
+    vak:hasObjectRange vak:HigherOrDifferentRealm .
 
 vak:AbhidharmikaExceptionRationale a vak:AttributedDoctrine ;
     vak:requires vak:SelfOrMineAppropriation ;
@@ -297,6 +297,6 @@ vak:UniversalAnusayaType
     owl:distinctFrom vak:UniversalCauseFunction .
 ```
 
-The seed preserves higher-domain range, co-arisen participation, acquisition,
+The seed preserves higher-realm range, co-arisen participation, acquisition,
 and causal function as distinct relations. It does not use a category label as
 its own proof.

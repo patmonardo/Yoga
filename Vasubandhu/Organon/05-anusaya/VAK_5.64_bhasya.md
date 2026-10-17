@@ -9,7 +9,7 @@
 > desire-realm, exhausting the afflictions abandoned by seeing suffering and
 > origin counts as one; exhausting those abandoned by seeing cessation and by
 > seeing the Path counts as two more. The same threefold count applies to the
-> form and formless domains together.
+> form and formless realms together.
 
 ## 2. Continuous Sanskrit
 

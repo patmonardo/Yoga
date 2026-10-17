@@ -5,9 +5,10 @@
 > prahāṇādhārabhūtatva-dūṣaṇākhyaś caturvidhaḥ |
 > pratipakṣaḥ prahātavyaḥ kleśa ālambanān mataḥ || 5.61 ||
 
-> The four counteragents abandon, support the abandonment attained, distance
-> the severed acquisition, and discredit a domain by seeing its defects. An
-> affliction is said to be abandoned with respect to its cognitive Condition.
+> The counteragent has four forms: abandonment; support for an abandonment
+> already attained; distancing of the severed acquisition; and discrediting a
+> realm by seeing its defects. An affliction is considered abandoned with
+> respect to its cognitive Condition.
 
 ## 2. Continuous Sanskrit
 

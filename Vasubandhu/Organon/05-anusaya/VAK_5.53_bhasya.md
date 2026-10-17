@@ -7,7 +7,7 @@
 
 > Deceit and crookedness occur in the desire-realm and first dhyāna, as
 > shown by Mahābrahmā's attempted deception. Torpor, excitation, and
-> intoxication occur in all three domains; the other eleven secondary
+> intoxication occur in all three realms; the other eleven secondary
 > afflictions arise only in the desire-realm.
 
 ## 2. Continuous Sanskrit

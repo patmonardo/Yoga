@@ -28,15 +28,11 @@ them as fruits.
 | `pañca` | numeral | five parijñās, on the Vaibhāṣika account |
 | `vā athavā` | disjunctive particles | or, alternatively |
 | `aṣṭau` | numeral | eight parijñās, according to Bhadanta Ghoṣaka |
-| `sāmantakasya` | genitive singular neuter | of the preliminary concentration for the sphere of infinite space |
+| `sāmantakasya` | genitive singular neuter | of the preliminary concentration for the Essence of infinite space |
 | `ekā` | nominative singular feminine | one parijñā |
 | `maula-ārūpya-trayasya` | genitive singular compound | of the three fundamental formless attainments |
 | `ca` | conjunction | and |
 
-```text
-anāgamya-phalam | sarvāḥ | dhyānānām | pañca | vā | athavā |
-aṣṭau | sāmantakasya | ekā | maula-ārūpya-trayasya | ca
-```
 
 `Phala` expresses a result relation, not identity: the meditative basis
 supports a Path whose result is a determinate parijñā.
@@ -88,7 +84,7 @@ treated like the dhyānas.
 
 > All nine *parijñās* can be fruits of *anāgamya*. The fundamental dhyānas
 > have five as fruits according to the Vaibhāṣikas, or eight according to
-> Bhadanta Ghoṣaka. The preliminary concentration for the sphere of infinite
+> Bhadanta Ghoṣaka. The preliminary concentration for the Essence of infinite
 > space has one—the destruction of attachment to form—and each of the three
 > fundamental formless attainments has one: exhaustion of all fetters.
 
@@ -115,12 +111,12 @@ general abstract reason for it.
 
 **`Maula-dhyāna` — fundamental dhyāna**
 
-On the Vaibhāṣika account, a basis for five higher-domain parijñās:
+On the Vaibhāṣika account, a basis for five higher-realm parijñās:
 
 ```text
-higher-domain suffering + origin seeing-abandonment
-higher-domain cessation seeing-abandonment
-higher-domain Path seeing-abandonment
+higher-realm suffering + origin seeing-abandonment
+higher-realm cessation seeing-abandonment
+higher-realm Path seeing-abandonment
 destruction of attachment to form
 complete exhaustion of all fetters
 ```
@@ -128,7 +124,7 @@ complete exhaustion of all fetters
 **The Vaibhāṣika five**
 
 These five have as their nature abandonment of afflictions belonging to the
-form and formless domains. desire-realm abandonment is excluded because it
+form and formless realms. desire-realm abandonment is excluded because it
 is assigned as a fruit of anāgamya.
 
 **Bhadanta Ghoṣaka's eight**
@@ -148,7 +144,7 @@ anāgamya and fundamental dhyāna.
 
 Explicitly treated like the dhyānas for the present fruit-distribution.
 
-**`Ākāśānantyāyatana-sāmantaka` — preliminary concentration for the sphere of infinite space**
+**`Ākāśānantyāyatana-sāmantaka` — preliminary concentration for the Essence of infinite space**
 
 Its single parijñā-fruit is `rūparāga-kṣaya`, destruction of attachment to
 form.

@@ -7,7 +7,7 @@
 
 > In the desire-realm, attachment, hostility, and delusion are roots of the
 > unwholesome; the three roots of the ethically indeterminate are craving,
-> ignorance, and discriminative cognition in their indeterminate forms.
+> ignorance, and discriminative comprehension in its indeterminate form.
 
 The third pāda here is the official study's contextual reading;
 the running IAST text differs, as noted below.

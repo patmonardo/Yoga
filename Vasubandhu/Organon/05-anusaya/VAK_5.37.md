@@ -33,10 +33,6 @@ distinctive sharpness.
 | `na kila` | negation with reportative particle | it is said that there is not |
 | `āsya-anukūlatā` | nominative singular feminine | suitability for the operation of making settle or remain |
 
-```text
-tathā | ogha-yogāḥ | dṛṣṭīnām | pṛthak-bhāvaḥ | tu | pāṭavāt |
-na | āsraveṣu | asahāyānām | na | kila | āsya-anukūlatā
-```
 
 The transmitted continuous form `asyānukūlatā` is interpreted through the
 Bhāṣya's `āsyānukūlāḥ` and its promised derivation `āsayantīty āsravāṇām`.

@@ -37,10 +37,6 @@ silent normalization is introduced here.
 | `ṣaṭ-vijñāna-āśrayāḥ` | nominative plural masculine compound | having the six cognitions as support |
 | `pare` | nominative plural masculine | the others, the remaining cases |
 
-```text
-samāna-siddhāḥ | dṛk-heyāḥ | manas-vijñāna-bhūmikāḥ |
-upakleśāḥ | sva-tantrāḥ | ca | ṣaṭ-vijñāna-āśrayāḥ | pare
-```
 
 The verse contrasts two support-ranges. `Bhūmi` locates a factor on the
 mental-cognition plane; `āśraya` names the cognition-group upon which
@@ -93,7 +89,7 @@ ignorance together with their associated upakleśas.
 
 ## 6. Philosophical Translation
 
-> Domain, origin, abandonment, and cognitive support answer different
+> Realm, origin, abandonment, and cognitive support answer different
 > questions. An affliction may be cultivation-abandoned yet restricted to
 > mental cognition, as the independent upakleśas show. Conversely, other
 > cultivation-abandoned factors can occur with sensory as well as mental
@@ -160,7 +156,7 @@ or redefine that class.
 **`Āśraya` — support or basis**
 
 The cognitive support of an occurrence. It must not be confused with
-`niḥṣyanda` source, object-support (`ālambana`), domain-range, or mode of
+`niḥṣyanda` source, object-support (`ālambana`), realm-range, or mode of
 abandonment.
 
 ## 8. Logical Determination
@@ -210,7 +206,7 @@ LexicalIdentity(UncertainMentalOnlyPair) = Unresolved
 
 ## 9. Interpretive Note
 
-**Source determination.** After closing the upakleśa block by domain, the
+**Source determination.** After closing the upakleśa block by realm, the
 Bhāṣya asks how many anuśayas belong to the mental plane and how many to the
 six cognition-groups. The answer divides the field by cognitive support.
 

@@ -34,10 +34,6 @@ seven factors between mental distress and its contrary, mental gladness.
 | `tu` | contrastive particle | but, however |
 | `viparyayāt` | ablative singular | by reversal; with the contrary feeling |
 
-```text
-daurmanasyena | kaukṛtyam | īrṣyā | krodhaḥ | vihiṃsanam |
-upanāhaḥ | pradāśaḥ | ca | mātsaryam | tu | viparyayāt
-```
 
 The working Bhāṣya prose transmits `upanāhaṃ` where the kārikā has nominative
 `upanāhaḥ`. The witnesses are preserved as transmitted; no silent

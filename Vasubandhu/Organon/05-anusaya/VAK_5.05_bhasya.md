@@ -5,10 +5,9 @@
 > catvāro bhāvanāheyās ta evāpratighāḥ punaḥ |
 > rūpadhātau tathārūpye ity aṣṭānavatir matāḥ || 5.05 ||
 
-> Four—attachment, resistance, conceit, and ignorance—are abandoned through
-> cultivation. The same thirty-sixfold desire-realm classification, with
-> resistance removed, recurs in the form domain and likewise in the formless
-> domain. Thus the anuśayas are reckoned as ninety-eight.
+> Four are abandoned through cultivation. Those same anuśayas, without
+> resistance, occur again in the Form realm and likewise in the Formless
+> realm. Thus they are reckoned as ninety-eight.
 
 The half-verses are interleaved with prose. In `ta eva`, “those same”
 resumes the completed desire-realm classification, not merely the

@@ -5,9 +5,9 @@
 > navordhvālambanā eṣāṃ dṛṣṭi-dvaya-vivarjitāḥ |
 > prāpti-varjyāḥ sahabhuvo ye 'py ebhis te 'pi sarvagāḥ || 5.13 ||
 
-> Of these eleven, nine—excluding satkāya-view and extreme-grasping view—can take
-> higher domains as cognitive supports; dharmas co-arising with the universal
-> anuśayas are likewise universally ranging, except acquisitions.
+> Of these eleven, nine—excluding satkāya-view and extreme-grasping view—take
+> higher realms as cognitive support; dharmas co-arising with these, except
+> acquisitions, are likewise universal.
 
 The first half divides the eleven of 5.12 by cross-domain object-range;
 the second asks how universal status extends to co-arisen dharmas.

@@ -6,7 +6,7 @@
 > bhūta-śīla-pradeśādhva-dvayānām iva dūratāḥ || 5.62 ||
 
 > Distance has four grounds: unlike characteristics, as among the co-arising
-> great elements; opposition, as between discipline and misconduct; separation
+> Great Elements; opposition, as between discipline and misconduct; separation
 > in place, as between the eastern and western oceans; and time, as for the
 > future and past in relation to a dharma's own characteristic.
 
@@ -63,7 +63,7 @@ This is called distancing. How many kinds of distance are
 there? Distance is said to be fourfold: through unlike
 characteristics, opposition, separation in place, and time.
 Distance through unlike characteristics is exemplified by
-the great elements: even when they arise together, their
+the Great Elements: even when they arise together, their
 distinct characteristics make them distant. Distance
 through opposition is exemplified by misconduct in relation
 to discipline. Distance through separation in place is
@@ -94,7 +94,7 @@ the past is distant because it has fallen away from it.
 ## 4. Argument and Doctrinal Determination
 
 The first three cases show why `dūrībhāva` cannot be read
-as physical spacing alone. Co-arisen great elements are
+as physical spacing alone. Co-arisen Great Elements are
 unlike in *svalakṣaṇa* despite proximity. Discipline and
 misconduct are opposed, a stronger relation than simple
 difference. The two oceans supply literal spatial

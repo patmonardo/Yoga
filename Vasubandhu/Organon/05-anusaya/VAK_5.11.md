@@ -127,7 +127,7 @@ nourishing view destroyed
 **`Vibhavatṛṣṇā` — thirst for nonexistence**
 
 The Bhāṣya defines `vibhava` here as `traidhātukī anityatā`, impermanence
-belonging to the three domains, and `tṛṣṇā` as wishing directed toward that.
+belonging to the three realms, and `tṛṣṇā` as wishing directed toward that.
 This is not liberation: annihilationist desire remains an afflicted relation
 to the passing away of appropriated existence.
 

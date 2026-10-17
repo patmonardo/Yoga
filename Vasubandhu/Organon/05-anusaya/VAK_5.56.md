@@ -34,10 +34,6 @@ available in each level.
 | `yathā-bhūmi` | adverbial compound | according to the level or domain |
 | `ūrdhva-bhūmikāḥ` | nominative plural masculine | afflictions belonging to higher levels |
 
-```text
-daurmanasyena | kāṅkṣā | anye | saumanasyena | kāma-jāḥ |
-sarve | api | upekṣayā | svaiḥ | svaiḥ | yathā-bhūmi | ūrdhva-bhūmikāḥ
-```
 
 `Kāmajāḥ` limits the determinate pairings in the first half to the desire-
 domain. `Yathābhūmi` makes the final rule domain-relative rather than a simple

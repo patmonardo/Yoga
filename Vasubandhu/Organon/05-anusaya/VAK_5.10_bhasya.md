@@ -6,8 +6,8 @@
 > vadhādi-paryavasthānaṃ heyaṃ bhāvanayā tathā || 5.10 ||
 
 > Conceit has seven forms, and three of them yield nine modes; its forms are
-> exhausted through seeing or cultivation. The afflictive occupation leading
-> to deliberate killing and similar acts is abandoned through cultivation;
+> exhausted through seeing or cultivation. The afflictive occupation through
+> which one commits killing and similar acts is abandoned through cultivation;
 > likewise—
 
 The final `tathā` carries the comparison into 5.11. The present
@@ -98,7 +98,7 @@ or equal to an equal. Taking oneself as superior to an equal is
 the next form, apparently atimāna, although this line of the
 e-text calls it `abhimāna`. Mānātimāna is taking oneself as
 superior to a superior. Asmimāna takes the five appropriated
-aggregates as self or mine. Abhimāna claims a special attainment
+Bases as self or mine. Abhimāna claims a special attainment
 not attained. Ūnamāna takes oneself as only slightly inferior to
 one greatly superior. Mithyāmāna claims qualities one lacks.
 
@@ -152,7 +152,7 @@ about the bare occurrence of bodily movement.
 **Translation decisions.** `Māna` stays visible because
 “conceit” only approximates its comparative operation.
 `Asmimāna` is not assimilated to the view `satkāyadṛṣṭi` merely
-because both concern the aggregates and self-relation. The
+because both concern the Bases and self-relation. The
 irregular `abhimāna` label in the second definition is explicitly
 marked. `Citta` is retained in the generic definition.
 

@@ -35,9 +35,9 @@ within the desire-realm according to the truth-seeing through which they
 are abandoned.
 
 The sequence indicated by `duḥkhādi` is suffering, origination, cessation, and
-the Path. `Kāme` is a concise locative for `kāmadhātau`. Here “domain” is
-indeed `dhātu`, used at the scale of the three domains of conditioned
-existence rather than for the eighteen cognition-domains analyzed in Chapter
+the Path. `Kāme` is a concise locative for `kāmadhātau`. Here “realm” is
+indeed `dhātu`, used at the scale of the three realms of conditioned
+existence rather than for the eighteen cognitive Principles analyzed in Chapter
 1.
 
 ## 4. Grammar
@@ -102,8 +102,8 @@ excluded views.
 > seeing origination, cessation, and the Path. The resulting thirty-two are
 > removed through truth-disclosure itself; the following verse opens the
 > complementary cultivation classification.
-> Thus the subjective field is articulated by domain, object, and mode of
-> transformation rather than treated as an aggregate of private mental states.
+> Thus the subjective field is articulated by realm, object, and mode of
+> transformation rather than treated as a collection of private mental states.
 
 The verse joins epistemic disclosure and practical change:
 
@@ -120,8 +120,8 @@ other anuśayas after disclosure.
 
 **`Kāma` / `kāmadhātu` — desire-realm**
 
-The first existential domain in which the tenfold anuśaya scheme is worked
-out. This is a contextual use of `dhātu` as an encompassing domain:
+The first existential realm in which the tenfold anuśaya scheme is worked
+out. This is a contextual use of `dhātu` as an encompassing realm:
 
 ```text
 traidhātuka
@@ -131,7 +131,7 @@ traidhātuka
 ```
 
 It is continuous with the Kośa's systematic concern for determination by
-domain, but it is not numerically or functionally identical with the eighteen
+realm, but it is not numerically or functionally identical with the eighteen
 dhātus of cognition in Dhātunirdeśa.
 
 **`Dṛṣṭi` and `darśana`**
@@ -191,7 +191,7 @@ The chapter has moved through three levels of determination:
 AnuśayaType
     what form the affliction has
 
-Domain
+realm
     where it can operate
 
 TruthSpecificRemoval
@@ -227,7 +227,7 @@ bhāvanā
 The increasingly subjective and psychological tone is real, but “subjective”
 must be understood systematically. Chapter 5 does not begin from an isolated
 inner individual and inventory private feelings. It begins from `dhātu`, the
-conditioned domain in which a form of affliction can operate, and determines
+conditioned realm in which a form of affliction can operate, and determines
 the affliction through its object and its mode of removal.
 
 ```text
@@ -249,7 +249,7 @@ prahāṇa
 
 In this sense the chapter moves inward from manifested karma toward its
 subjective ground while preserving the objective articulation of that ground
-through domain and truth. Psychology becomes a science of situated relations,
+through realm and truth. Psychology becomes a science of situated relations,
 not a collection of free-floating mental properties.
 
 The Organon significance is correspondingly strong: the truth of a defective
@@ -262,7 +262,7 @@ verse introduces the complementary cultivation mode; the distinction between
 seeing and sustained practice belongs to the developing Path account.
 
 This language of subjective and objective moments is Organon reconstruction.
-The textual basis is Vasubandhu's exact correlation of domain, afflicted view,
+The textual basis is Vasubandhu's exact correlation of realm, afflicted view,
 truth-seeing, and abandonment.
 
 ## 10. OWL++ Seed
@@ -271,10 +271,10 @@ truth-seeing, and abandonment.
 vak:VAK_5_04 a vak:Karika ;
     rdfs:label "VAK 5.04" ;
     vak:continues vak:VAK_5_03 ;
-    vak:hasDomain vak:KamaDhatu ;
-    vak:hasTopic vak:DesireDomainSeeingMatrix .
+    vak:hasRealm vak:KamaDhatu ;
+    vak:hasTopic vak:DesireRealmSeeingMatrix .
 
-vak:DesireDomainSeeingMatrix a vak:AbandonmentMatrix ;
+vak:DesireRealmSeeingMatrix a vak:AbandonmentMatrix ;
     vak:hasCase vak:SeeingSufferingCase,
                 vak:SeeingOriginationCase,
                 vak:SeeingCessationCase,
@@ -305,6 +305,6 @@ vak:SeeingPathCase
 
 ```
 
-The seed treats `KamaDhatu` as the situated domain of the matrix and keeps
+The seed treats `KamaDhatu` as the situated realm of the matrix and keeps
 the four truth-seeings distinct. The cultivation cases belong to the next
 verse's determination.

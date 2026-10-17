@@ -32,10 +32,6 @@ directed travel and, by analogy, in going toward liberation.
 | `ataḥ` | ablatival adverb | therefore, for this reason |
 | `tri-deśanā` | nominative singular feminine compound | teaching of the three, threefold teaching |
 
-```text
-a-gantu-kāmatā | mārga-vibhramaḥ | mārga-saṃśayaḥ | iti |
-antarāyāḥ | mokṣasya | gamane | ataḥ | tri-deśanā
-```
 
 The compounds locate three distinct interruptions within one directed process:
 refusal to begin, deviation through a different route, and uncertainty about

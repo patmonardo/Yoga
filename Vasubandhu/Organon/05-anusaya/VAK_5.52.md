@@ -34,10 +34,6 @@ the ethical value of the upakleśas according to domain.
 | `avyākṛtāḥ` | nominative plural masculine | ethically indeterminate |
 | `tataḥ` | ablatival adverb | from there, therefore or beyond that point |
 
-```text
-tat-anye | bhāvanā-heyāḥ | sva-tantrāḥ | ca | tathā | malāḥ |
-kāme | aśubhāḥ | trayaḥ | dvidhā | pareṇa | avyākṛtāḥ | tataḥ
-```
 
 `Dvidhā` no longer refers to the two abandonment modes of VAK 5.51. The
 Bhāṣya identifies a new axis: torpor, excitation, and sleepiness may each be

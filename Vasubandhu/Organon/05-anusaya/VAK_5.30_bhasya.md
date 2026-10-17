@@ -5,11 +5,11 @@
 > svakādharatrayordhvaikāmalānāṃ rūpadhātujāḥ |
 > ārūpyajāstridhātvāptatrayānāsravagocarāḥ || 5.30 ||
 
-> The form-realm dharmas of those three classes are objects of three
-> corresponding cittas in their own domain, three in the lower domain, one
-> cultivation-abandonable citta in the higher domain, and undefiled cognition.
-> The formless-realm dharmas of those classes are objects of three
-> corresponding cittas in each of the three domains and undefiled cognition.
+> The three classes of form-realm dharmas are objects for three corresponding
+> consciousness classes in their own realm, three in the lower realm, one consciousness
+> class of the higher realm abandoned through cultivation, and undefiled consciousness.
+> The same formless-realm dharma classes are objects for the corresponding three
+> consciousness classes in each of the three realms and for undefiled consciousness.
 
 ## 2. Continuous Sanskrit
 

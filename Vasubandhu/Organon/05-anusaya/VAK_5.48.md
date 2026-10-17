@@ -37,10 +37,6 @@ into the kārikā.
 | `avidyātaḥ` | ablative singular feminine | from ignorance |
 | `styāna-middha-anapatrapāḥ` | nominative plural masculine coordinative compound | torpor, sleepiness, and lack of moral concern |
 
-```text
-krodha-mrakṣau | ca | rāga-utthāḥ | āhrīkya-auddhatya-matsarāḥ |
-mrakṣe | vivādaḥ | avidyātaḥ | styāna-middha-anapatrapāḥ
-```
 
 The ablatives in `rāgotthāḥ` and `avidyātaḥ` mark source-relations. The
 Bhāṣya determines these more precisely as `rāga-niḥṣyanda` and
@@ -93,10 +89,9 @@ Bhāṣya again supplies `niḥṣyanda` as the exact relation.
 
 ### Bhāṣya-informed study translation
 
-> Anger and concealment complete the ten envelopments. Shamelessness,
-> excitation, and avarice arise as derivatives of attachment; concealment's
-> source is disputed. Torpor, sleepiness, and lack of moral concern arise as
-> derivatives of ignorance.
+> Anger and concealment [are included]; shamelessness, excitation, and
+> avarice arise from attachment. There is disagreement about concealment.
+> Torpor, sleepiness, and lack of moral concern arise from ignorance.
 
 ## 6. Philosophical Translation
 

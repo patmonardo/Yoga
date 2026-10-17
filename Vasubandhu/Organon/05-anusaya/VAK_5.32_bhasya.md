@@ -5,11 +5,11 @@
 > dvidhā sānuśayaṃ kliṣṭam akliṣṭam anuśāyakaiḥ |
 > mohākāṅkṣā tato mithyādṛṣṭiḥ satkāyadṛk tataḥ || 5.32 ||
 
-> Defiled citta bears anuśaya in two ways: through anuśayas that adhere and
-> through conjoined anuśayas that no longer adhere. Non-defiled citta bears it
+> Defiled consciousness bears anuśaya in two ways: through anuśayas that adhere and
+> through conjoined anuśayas that no longer adhere. Non-defiled consciousness bears it
 > only through anuśayas that adhere by taking it as object. From delusion
 > arises doubt, from doubt false view, and from false view the view of the
-> aggregates as self.
+> Bases as self.
 
 ## 2. Continuous Sanskrit
 
@@ -83,7 +83,7 @@ person hears two sides, doubt arises: “Is this suffering,
 or is it not?” From doubt comes false view, through a
 false resolution of uncertainty; “There is no suffering”
 is the example. From false view, it is said, self-view
-emerges: one rejects the aggregates as suffering and
+emerges: one rejects the Bases as suffering and
 fixates on them as self.
 
 ## 4. Argument and Doctrinal Determination

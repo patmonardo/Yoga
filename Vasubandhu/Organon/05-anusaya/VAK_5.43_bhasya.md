@@ -5,11 +5,9 @@
 > pañcadhāvarabhāgīyaṃ dvābhyāṃ kāmānatikramaḥ |
 > tribhis tu punarāvṛttir mukha-mūla-grahāt trayam || 5.43 ||
 
-> The lower-part fetters are fivefold: desire for sense-objects and hostility
-> prevent passage beyond the desire-realm, while personality-view, grasping
-> at discipline and observance, and doubt bring return even after passage
-> beyond it. This triad is named because it represents the entrances to the
-> broader groups and the roots of the omitted views.
+> The lower-part fetters are fivefold. Through two, one does not pass
+> beyond the desire-realm; through three, however, one returns. The triad
+> is taught by taking the entrances and roots.
 
 ## 2. Continuous Sanskrit
 

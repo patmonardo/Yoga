@@ -5,9 +5,8 @@
 > aprahīṇād anuśayād viṣayāt pratyupasthitāt |
 > ayoniśo manaskārāt kleśaḥ saṃpūrṇakāraṇaḥ || 5.34 ||
 
-> Ordinarily, a kleśa arises with its causal complex complete: from an
-> unabandoned anuśaya, an object that has become present, and unwise attention
-> to it—the powers of cause, object, and application, respectively.
+> An affliction arises with its causal complex complete: from an
+> unabandoned anuśaya, an object that has become present, and unwise attention.
 
 ## 2. Continuous Sanskrit
 

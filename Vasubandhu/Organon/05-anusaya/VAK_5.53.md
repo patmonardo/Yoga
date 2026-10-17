@@ -15,7 +15,7 @@ styānauddhatya-madā dhātu-traye 'nye kāma-dhātujāḥ || 5.53 ||
 ```
 
 VAK 5.53 completes the upakleśa analysis by distributing the sixteen factors
-across domains. The Bhāṣya gives three ranges and then explicitly closes the
+across realms. The Bhāṣya gives three ranges and then explicitly closes the
 discussion of kleśas and upakleśas.
 
 ## 3. Lexical Analysis
@@ -28,21 +28,17 @@ discussion of kleśas and upakleśas.
 | `kāma-ādya-dhyānayoḥ` | locative dual compound | in the desire-realm and first dhyāna |
 | `brahma-vañcanāt` | ablative singular neuter compound | because of the deception of Brahmā |
 | `styāna-auddhatya-madāḥ` | nominative plural masculine coordinative compound | torpor, excitation, and intoxication |
-| `dhātu-traye` | locative singular neuter | in the three domains |
+| `dhātu-traye` | locative singular neuter | in the three realms |
 | `anye` | nominative plural masculine | the others |
 | `kāma-dhātu-jāḥ` | nominative plural masculine compound | arising or occurring in the desire-realm |
 
-```text
-māyā | śāṭhyam | ca | kāma-ādya-dhyānayoḥ | brahma-vañcanāt |
-styāna-auddhatya-madāḥ | dhātu-traye | anye | kāma-dhātu-jāḥ
-```
 
 The locative dual does not mean the desire-realm and all meditative states. It
 specifically joins `kāma` with `ādya-dhyāna`, the first dhyāna.
 
 ## 4. Grammar
 
-**Two-domain range**
+**Two-realm range**
 
 ```text
 māyā śāṭhyam ca
@@ -54,7 +50,7 @@ The two differently gendered subjects share an elided dual verb. The ablative
 states the evidential reason for admitting deceit in the first-dhyāna Brahmā
 world: Mahābrahmā attempted to deceive Aśvajit by falsely presenting himself.
 
-**Three-domain range**
+**Three-realm range**
 
 ```text
 styāna-auddhatya-madāḥ
@@ -62,7 +58,7 @@ styāna-auddhatya-madāḥ
 ```
 
 The plural compound takes a plural elided copula. The Bhāṣya restates the three
-as `traidhātuka`, belonging to all three domains.
+as `traidhātuka`, belonging to all three realms.
 
 **desire-realm complement**
 
@@ -80,33 +76,33 @@ sixteen-member upakleśa field. The Bhāṣya calculates the result as eleven.
 
 > Deceit and crookedness occur in the desire-realm and the first dhyāna,
 > because of the deception of Brahmā. Torpor, excitation, and intoxication
-> occur in the three domains; the others arise in the desire-realm.
+> occur in the three realms; the others arise in the desire-realm.
 
 ### Bhāṣya-informed study translation
 
 > Deceit and crookedness occur in the desire-realm and first dhyāna, as
 > shown by Mahābrahmā's attempted deception. Torpor, excitation, and
-> intoxication occur in all three domains; the other eleven secondary
+> intoxication occur in all three realms; the other eleven secondary
 > afflictions arise only in the desire-realm.
 
 ## 6. Philosophical Translation
 
 > Class-membership does not determine range of occurrence. Two upakleśas cross
 > from the desire-realm into the first dhyāna; three range through the entire
-> three-domain field; eleven remain restricted to the desire-realm. These
+> three-realm field; eleven remain restricted to the desire-realm. These
 > ranges are additional determinations alongside origin, operation, ethical
 > value, and mode of abandonment. The Brahmā case also grounds possibility by
 > an attested doctrinal example: higher cosmological position does not by itself
-> negate deceit. A transition of domain removes only those factors whose
+> negate deceit. A transition of realm removes only those factors whose
 > asserted range excludes the destination.
 
 The Bhāṣya states the distribution but does not here supply a general causal
 theory explaining why each of the three universal factors can occur throughout
-all domains.
+all realms.
 
 ## 7. Technical Vocabulary
 
-**`Kutastya` — belonging where or to which domain**
+**`Kutastya` — belonging where or to which realm**
 
 The Bhāṣya's question that opens the range analysis: how many of these factors
 are to be understood as belonging to which locations?
@@ -118,7 +114,7 @@ supported by Mahābrahmā's attempted deception of Aśvajit.
 
 **`Śāṭhya` — crookedness or duplicity**
 
-Shares the same two-domain range. The Bhāṣya notes that it is stated again
+Shares the same two-realm range. The Bhāṣya notes that it is stated again
 because it has become relevant to the present topic (`prasaṅgāgata`).
 
 **`Brahma-vañcana` — deception of Brahmā**
@@ -135,22 +131,22 @@ Mahābrahmā's attempted deception in the cited narrative.
 **`Styāna` — torpor**
 
 One of three factors explicitly declared `traidhātuka`, capable of occurrence
-in all three domains.
+in all three realms.
 
 **`Auddhatya` — excitation or restlessness**
 
-The second factor with three-domain range. The Bhāṣya asserts the range here
+The second factor with three-realm range. The Bhāṣya asserts the range here
 without a further local explanation of its compatibility with higher
 meditative states.
 
 **`Mada` — intoxication**
 
-The third factor occurring across all three domains.
+The third factor occurring across all three realms.
 
-**`Traidhātuka` — belonging to all three domains**
+**`Traidhātuka` — belonging to all three realms**
 
 Range over `kāmadhātu`, `rūpadhātu`, and `ārūpyadhātu`. It does not mean that
-the factor has the same ethical value in each domain; VAK 5.52 determines that
+the factor has the same ethical value in each realm; VAK 5.52 determines that
 axis separately.
 
 **`Kāmāvacara` / `kāmadhātuja` — desire-realm occurrence**
@@ -169,17 +165,17 @@ The five removed are deceit, crookedness, torpor, excitation, and intoxication.
 
 ## 8. Logical Determination
 
-The three domain-range assertions are:
+The three realm-range assertions are:
 
 ```text
-Range(Māyā)    = {DesireDomain, FirstDhyāna}
-Range(Śāṭhya)  = {DesireDomain, FirstDhyāna}
+Range(Māyā)    = {DesireRealm, FirstDhyāna}
+Range(Śāṭhya)  = {DesireRealm, FirstDhyāna}
 
 For x in {Styāna, Auddhatya, Mada}:
-    Range(x) = {DesireDomain, FormDomain, FormlessDomain}
+    Range(x) = {DesireRealm, FormRealm, FormlessRealm}
 
 For x in RemainingElevenUpakleśas:
-    Range(x) = {DesireDomain}
+    Range(x) = {DesireRealm}
 ```
 
 The complement is calculated rather than left vague:
@@ -195,12 +191,12 @@ Range is independent of the previously determined axes:
 
 ```text
 SameClass(x, y)
-    ⇏ SameDomainRange(x, y)
+    ⇏ SameRealmRange(x, y)
 
-OccursInHigherDomain(x)
+OccursInHigherRealm(x)
     ⇏ Wholesome(x)
 
-DomainTransition(d1, d2)
+RealmTransition(d1, d2)
     ⇏ EliminationOfEveryUpakleśa
 ```
 
@@ -216,7 +212,7 @@ deceive Aśvajit through false self-presentation. The episode demonstrates the
 possibility of deceit in the first-dhyāna Brahmā world.
 
 **No inferred universal mechanism.** The source states that torpor, excitation,
-and intoxication occur in all three domains but does not here explain each
+and intoxication occur in all three realms but does not here explain each
 range through “reflexivity,” “appropriation of attainment,” or another general
 theory. Such hypotheses must not displace the stated classification.
 
@@ -229,37 +225,37 @@ origin
 operation
 mode of abandonment
 ethical value
-domain-range
+realm-range
 ```
 
-**Organon interpretation.** Domain-range belongs in its own provenance-bearing
+**Organon interpretation.** realm-range belongs in its own provenance-bearing
 assertion:
 
 ```text
 RangeAssertion
     hasFactor
-    includesDomain
+    includesRealm
     hasScopeQualification
     supportedBy TextualSource
 ```
 
 A system should evaluate range before carrying or removing a determination
-across a domain transition. This is an architectural reconstruction of the
+across a realm transition. This is an architectural reconstruction of the
 Bhāṣya's matrix, not a new cosmological doctrine.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: Upaklesa
-Class: Domain
-Class: DesireDomain
-    SubClassOf: Domain
-Class: FormDomain
-    SubClassOf: Domain
-Class: FormlessDomain
-    SubClassOf: Domain
+Class: Realm
+Class: DesireRealm
+    SubClassOf: realm
+Class: FormRealm
+    SubClassOf: realm
+Class: FormlessRealm
+    SubClassOf: realm
 Class: FirstDhyana
-Class: DomainRange
+Class: RealmRange
 Class: RangeAssertion
 Class: DoctrinalExample
 
@@ -267,9 +263,9 @@ ObjectProperty: rangeOf
     Domain: RangeAssertion
     Range: Upaklesa
 
-ObjectProperty: includesDomain
+ObjectProperty: includesRealm
     Domain: RangeAssertion
-    Range: Domain
+    Range: realm
 
 ObjectProperty: includesDhyana
     Domain: RangeAssertion
@@ -282,28 +278,28 @@ ObjectProperty: supportedByExample
 DataProperty: hasMemberCount
     Range: Integer
 
-Fact: Range(Maya, {DesireDomain, FirstDhyana})
-Fact: Range(Crookedness, {DesireDomain, FirstDhyana})
-Fact: Range(Torpor, {DesireDomain, FormDomain, FormlessDomain})
-Fact: Range(Excitation, {DesireDomain, FormDomain, FormlessDomain})
-Fact: Range(Intoxication, {DesireDomain, FormDomain, FormlessDomain})
-Fact: hasMemberCount(DesireDomainOnlyUpaklesas, 11)
+Fact: Range(Maya, {DesireRealm, FirstDhyana})
+Fact: Range(Crookedness, {DesireRealm, FirstDhyana})
+Fact: Range(Torpor, {DesireRealm, FormRealm, FormlessRealm})
+Fact: Range(Excitation, {DesireRealm, FormRealm, FormlessRealm})
+Fact: Range(Intoxication, {DesireRealm, FormRealm, FormlessRealm})
+Fact: hasMemberCount(DesireRealmOnlyUpaklesas, 11)
 
 Rule: RangeAssertion(?r)
     AND rangeOf(?r, ?factor)
-    AND includesDomain(?r, ?domain)
-    -> MayOccurIn(?factor, ?domain)
+    AND includesRealm(?r, ?realm)
+    -> MayOccurIn(?factor, ?realm)
 
 Constraint: Upaklesa(?x)
-    doesNotEntail OneGlobalDomainRange(?x)
+    doesNotEntail OneGlobalRealmRange(?x)
 
-Constraint: DomainTransition(?transition)
+Constraint: RealmTransition(?transition)
     doesNotEntail RemovesAllUpaklesas(?transition)
 
-View: UpaklesaDomainMatrix
-    Preserves: FactorIdentity, DomainRange, DhyānaRestriction,
+View: UpaklesaRealmMatrix
+    Preserves: FactorIdentity, RealmRange, DhyānaRestriction,
                DoctrinalExample, ArithmeticComplement, SourceProvenance
 ```
 
-The seed treats domain-range as an independent relation and preserves the
+The seed treats realm-range as an independent relation and preserves the
 concrete example through which first-dhyāna deceit is established.

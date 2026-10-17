@@ -89,7 +89,7 @@ among the six anuśayas fivefold, they become ten.
 > distinct forms, each of which binds through a determinate way of construing,
 > grasping, or authorizing its field. By unfolding the genus `dṛṣṭi`, the
 > initial six anuśayas become ten basic types. These types then form the input
-> to a larger system: each must be located in its operative domain and
+> to a larger system: each must be located in its operative realm and
 > distinguished according to whether it is abandoned through seeing or
 > through cultivation. Affliction becomes scientifically tractable when its
 > kind, range, and condition of removal are jointly determined.
@@ -110,7 +110,7 @@ basic anuśayas. The other five are anuśayas without being view by nature.
 
 | Sanskrit | Controlled rendering | Provisional determination |
 |---|---|---|
-| `satkāyadṛṣṭi` | satkāya-view | view concerning the existing aggregate-complex |
+| `satkāyadṛṣṭi` | satkāya-view | view concerning the existing collection of Bases |
 | `mithyādṛṣṭi` | false view | a path-relevant false determination |
 | `antagrahadṛṣṭi` | extreme-grasping view | fixation upon an extreme determination |
 | `dṛṣṭiparāmarśa` | adherence to views | grasping or overvaluing a view as authoritative |
@@ -142,12 +142,12 @@ not view by nature:
 
 To be abandoned through seeing and to be abandoned through cultivation. The
 Bhāṣya introduces these as the Path-axis along which anuśayas in the three
-domains are further differentiated.
+realms are further differentiated.
 
-**Domain predicates**
+**Realm predicates**
 
 `Kāmāvacara`, `rūpāvacara`, and `ārūpyāvacara` locate an anuśaya in the desire,
-form, or formless domain. Domain is an operative coordinate, not a detached
+Form, or Formless realm. A realm is an operative coordinate, not a detached
 label added after the type has already been fully determined.
 
 ## 8. Logical Determination
@@ -174,13 +174,13 @@ The Bhāṣya then announces a higher determination:
 
 ```text
 basic anuśaya type
-    × operative domain
+    × operative realm
     × mode of abandonment
     → determinate operative case
 ```
 
 This should not be read as a simple unrestricted multiplication. The unequal
-domain totals—36, 31, and 31—show that not every basic type occupies every
+realm totals—36, 31, and 31—show that not every basic type occupies every
 coordinate in the same way. VAK 5.04 onward must derive the admissible cases.
 
 The sequence from VAK 5.01 is now:
@@ -190,13 +190,13 @@ The sequence from VAK 5.01 is now:
         anuśaya roots bhava
 
 5.02    affective differentiation
-        rāga divides by its mode and domain
+        rāga divides by its mode and realm
 
 5.03    cognitive differentiation
         dṛṣṭi divides by the form of afflicted cognition
 
 next    operative matrix
-        type is distributed by domain and mode of abandonment
+        type is distributed by realm and mode of abandonment
 ```
 
 Meaning here emerges through successive relations. The number ninety-eight
@@ -211,7 +211,7 @@ articulates internal species, and then asks of each species:
 
 ```text
 What kind of affliction is it?
-In which domain can it operate?
+In which realm can it operate?
 By what mode of Path is it removed?
 ```
 
@@ -270,14 +270,14 @@ vak:TenBasicAnusayas a vak:Classification ;
     vak:hasBasicCount 10 .
 
 vak:NinetyEightfoldMatrix a vak:OperativeClassification ;
-    vak:hasDomainCoordinate vak:KamaDhatu,
+    vak:hasRealmCoordinate vak:KamaDhatu,
                             vak:RupaDhatu,
                             vak:ArupyaDhatu ;
     vak:hasAbandonmentCoordinate vak:AbandonedThroughSeeing,
                                  vak:AbandonedThroughCultivation ;
-    vak:hasDesireDomainCount 36 ;
-    vak:hasFormDomainCount 31 ;
-    vak:hasFormlessDomainCount 31 ;
+    vak:hasDesireRealmCount 36 ;
+    vak:hasFormRealmCount 31 ;
+    vak:hasFormlessRealmCount 31 ;
     vak:hasTotalCount 98 ;
     vak:derivedBeginningWith vak:VAK_5_04 .
 ```

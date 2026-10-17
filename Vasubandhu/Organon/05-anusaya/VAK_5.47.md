@@ -37,10 +37,6 @@ identifies the factor as `auddhatya`. The running verse also transmits
 | `paryavasthānam` | nominative singular neuter collective | envelopment or dominating affliction |
 | `aṣṭadhā` | indeclinable adverb | eightfold |
 
-```text
-āhrīkyam | anapatrāpyam | īrṣyā | mātsaryam | uddhavaḥ |
-kaukṛtyam | styānam | middham | ca | paryavasthānam | aṣṭadhā
-```
 
 The list contains nouns of different grammatical genders, coordinated under
 the collective classification `paryavasthānam aṣṭadhā`.

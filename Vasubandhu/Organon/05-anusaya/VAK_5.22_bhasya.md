@@ -7,7 +7,7 @@
 
 > An answer is given categorically, after division, or after questioning in
 > return; a question is also set aside—as with death, rebirth, relative
-> superiority, and a being's otherness from the aggregates, respectively.
+> superiority, and a being's otherness from the Bases, respectively.
 
 ## 2. Continuous Sanskrit
 
@@ -124,7 +124,7 @@ will die.” “Will all be born again?” requires division: those
 with defilement will, those without it will not. “Is a human
 superior or inferior?” requires asking “Compared with whom?”
 Relative to gods, inferior; relative to bad destinies, superior.
-“Is a being other than the aggregates, or not?” is set aside:
+“Is a being other than the Bases, or not?” is set aside:
 there is no being as an independently existing substance, just
 as one cannot ask whether a barren woman's son is dark or fair.
 
@@ -136,7 +136,7 @@ necessary if the question concerns those who die. Humans are
 both inferior and superior relative to different comparators,
 as cognition can be both effect and cause. But an unqualified
 question still requires division if an unqualified answer cannot
-be given. The question about a being apart from the aggregates
+be given. The question about a being apart from the Bases
 remains undetermined. Merely declining to answer, this speaker
 adds, cannot itself count as an answer. The rejoinder asks why
 identifying a question as one to be set aside would fail to

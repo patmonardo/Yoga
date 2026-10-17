@@ -16,7 +16,7 @@ svakatrayaikarūpāptāmalavijñānagocarāḥ || 5.29 ||
 
 The Bhāṣya identifies this as the first entry in a condensed exposition
 (`piṇḍavibhāṣā`) of the relations between classes of dharmas and classes of
-cittas that can take them as object-supports.
+consciousness classes that can take them as object-supports.
 
 ## 3. Lexical Analysis
 
@@ -26,20 +26,14 @@ cittas that can take them as object-supports.
 | `hetu-dṛk-praheyāḥ` | nominative plural compound | dharmas to be abandoned by seeing its cause or origination |
 | `abhyāsa-praheyāḥ` | nominative plural compound | dharmas to be abandoned by cultivation |
 | `kāma-dhātu-jāḥ` | nominative plural compound | belonging to or arisen in the desire-realm |
-| `svaka-traya` | compound member | the three [cittas] belonging to their own domain |
-| `eka-rūpa-āpta` | compound member | one [citta] belonging to the form-realm |
-| `amala-vijñāna` | compound member | undefiled cognition |
+| `svaka-traya` | compound member | the three [consciousness classes] belonging to their own realm |
+| `eka-rūpa-āpta` | compound member | one [consciousness class] belonging to the form-realm |
+| `amala-vijñāna` | compound member | undefiled Cognition |
 | `gocarāḥ` | nominative plural masculine | objects or cognitive ranges |
-
-```text
-duḥkha-dṛk-praheyāḥ | hetu-dṛk-praheyāḥ | abhyāsa-praheyāḥ |
-kāma-dhātu-jāḥ | svaka-traya | eka-rūpa-āpta | amala-vijñāna-gocarāḥ
-```
 
 The tightly compressed first compound distributes `praheyāḥ` across three
 path-indexed classes. The Bhāṣya explicitly analyzes `svakatraya` as “their
 own three” and `ekarūpāpta` as “one belonging to the form-realm.”
-
 ## 4. Grammar
 
 **Subject: three desire-realm dharma-classes**
@@ -55,7 +49,7 @@ These are respectively the desire-realm dharmas abandoned by seeing
 suffering, seeing origination, and cultivation. `Hetu-dṛk` is construed by the
 Bhāṣya as `samudaya-darśana`, seeing the origination of suffering.
 
-**Predicate: the cittas whose range they are**
+**Predicate: the consciousness classes whose range they are**
 
 ```text
 [svaka-traya
@@ -63,37 +57,35 @@ Bhāṣya as `samudaya-darśana`, seeing the origination of suffering.
  amala-vijñāna]-gocarāḥ
 ```
 
-The long predicate compound says that those dharmas are objects of five citta-
-classes. The Bhāṣya resolves the elliptical counts: three corresponding cittas
-of the desire-realm, one cultivation-abandonable citta of the form-realm,
-and one undefiled citta.
+The long predicate compound says that those dharmas are objects of five consciousness classes. The Bhāṣya resolves the elliptical counts: three corresponding consciousness classes in the desire-realm, one cultivation-abandonable consciousness of the form-realm,
+and one undefiled consciousness.
 
 ## 5. Translation
 
 ### Literal Translation
 
 > The desire-realm [dharmas] to be abandoned by seeing suffering, by seeing
-> its cause, and by cultivation are the objects of their own three [cittas],
-> one belonging to the form-realm, and undefiled cognition.
+> its cause, and by cultivation are the objects of their own three [consciousness classes],
+> one belonging to the form-realm, and undefiled Cognition.
 
 ### Bhāṣya-informed study translation
 
-> desire-realm dharmas abandoned through seeing suffering, seeing origination,
-> or cultivation are objects for three corresponding cittas of their own
-> domain, one form-realm citta abandoned through cultivation, and undefiled
-> cognition.
+> Desire-realm dharmas abandoned through seeing suffering, seeing origination,
+> or cultivation are objects for three corresponding consciousness classes in their own
+> realm, one form-realm consciousness class abandoned through cultivation, and
+> undefiled Cognition.
 
 ## 6. Philosophical Translation
 
-> A dharma's place within an afflictive domain does not restrict it to cognition
+> A dharma's place within an afflictive realm does not restrict it to cognition
 > of that same status. The three indicated classes of desire-realm dharmas are
-> accessible not only to corresponding desire-realm cittas, but also to a
-> higher-domain citta and to undefiled cognition. The status of what is known
+> accessible not only to corresponding desire-realm consciousness classes, but also to a
+> higher-realm consciousness and to undefiled Cognition. The status of what is known
 > and the status of the cognition knowing it must therefore be determined
 > separately. By first fixing their admissible object-relations, one can then
 > infer where anuśaya-adherence remains possible.
 
-This is not an assertion that every citta capable of cognizing a contaminated
+This is not an assertion that every consciousness capable of cognizing a contaminated
 object is thereby contaminated by it. Object-access and afflictive adherence
 are distinct relations.
 
@@ -105,7 +97,7 @@ The Bhāṣya's name for the method beginning here. Rather than answer a flood o
 individual questions, it compresses them into typed classes and reusable
 relations.
 
-**The sixteen dharma- and citta-classes**
+**The sixteen dharma- and consciousness classes**
 
 The Bhāṣya supplies the governing classification:
 
@@ -117,10 +109,10 @@ The Bhāṣya supplies the governing classification:
     = 16 dharma-classes
 
 the same division
-    = 16 citta-classes
+    = 16 consciousness classes
 ```
 
-The five within each domain are the four classes abandoned by seeing the four
+The five within each realm are the four classes abandoned by seeing the four
 truths and the class abandoned by cultivation. VAK 5.29 begins with three of
 the five desire-realm classes.
 
@@ -132,11 +124,11 @@ description detached from that operation.
 **`Gocara` — cognitive range or object-field**
 
 What a cognition can range over. The Bhāṣya expresses this relation as the
-dharma being the citta's `ālambana`, its object-support.
+dharma being the consciousness's `ālambana`, its object-support.
 
-**`Amala-vijñāna` — undefiled cognition**
+**`Amala-vijñāna` — undefiled Cognition**
 
-The undefiled citta-class in the sixteenfold scheme. Its access to contaminated
+The undefiled consciousness class in the sixteenfold scheme. Its access to contaminated
 dharmas shows that contamination of the object does not by itself contaminate
 the cognition.
 
@@ -151,8 +143,8 @@ to be reasoned out.
 The Bhāṣya establishes a two-stage derivation:
 
 ```text
-1. determine AlambanaOf(DharmaClass, CittaClass)
-2. infer possible AnusayaAdherence(DharmaClass, CittaClass)
+1. determine AlambanaOf(DharmaClass, ConsciousnessClass)
+2. infer possible AnusayaAdherence(DharmaClass, ConsciousnessClass)
 ```
 
 For the present matrix entry:
@@ -162,12 +154,12 @@ D = {Kāma-Duḥkha-Dṛk-Praheya,
      Kāma-Hetu-Dṛk-Praheya,
      Kāma-Abhyāsa-Praheya}
 
-C = {the corresponding three Kāma cittas,
-     Rūpa-Abhyāsa-Praheya citta,
-     Amala citta}
+C = {the corresponding three Kāma consciousness classes,
+     Rūpa-Abhyāsa-Praheya consciousness,
+     Amala consciousness}
 
 for each d in D:
-    ObjectOf(d, c) for the five admissible citta-classes c in C
+    ObjectOf(d, c) for the five admissible consciousness classes c in C
 ```
 
 The inferential guard is essential:
@@ -185,8 +177,8 @@ In the project's fourfold architecture, 5.29 concentrates on the middle
 relation required for diagnosis:
 
 ```text
-āśraya   = the domain- and path-typed citta
-ālambana = the domain- and path-typed dharma-class
+āśraya   = the realm- and path-typed consciousness
+ālambana = the realm- and path-typed dharma-class
 
 their admissible relation
     constrains which hetu–phala afflictive operations are possible
@@ -198,15 +190,15 @@ independent object.
 
 ## 9. Interpretive Note
 
-**Source determination.** The Bhāṣya first classifies dharmas and cittas by the
+**Source determination.** The Bhāṣya first classifies dharmas and consciousness classes by the
 same sixteenfold scheme. It then makes the `ālambana` relation the lookup key:
-determine which citta can take which dharma-class as object, and from that
+determine which consciousness can take which dharma-class as object, and from that
 structured access infer the possible anuśaya relations. VAK 5.29 supplies the
 first row-group of this matrix.
 
 **Continuation of VAK 5.28.** The preceding verse showed that an abandoned
 dharma may remain the object of a still-unabandoned affliction. The present
-verse begins determining exactly which citta-classes can sustain such object-
+verse begins determining exactly which consciousness classes can sustain such object-
 relations. It replaces the abstract possibility with a typed relational map.
 
 **Yoga–Organon reconstruction.** This is Path rendered as determinate
@@ -232,21 +224,21 @@ rule from which the many cases can be regenerated.
 
 ```text
 Class: DharmaClass
-Class: CittaClass
-Class: Domain
+Class: ConsciousnessClass
+Class: realm
 Class: PathOperation
 Class: AnusayaAdherence
 
-ObjectProperty: belongsToDomain
-    Domain: DharmaClass or CittaClass
-    Range: Domain
+ObjectProperty: belongsToRealm
+    Domain: DharmaClass or ConsciousnessClass
+    Range: realm
 
 ObjectProperty: abandonedBy
-    Domain: DharmaClass or CittaClass
+    Domain: DharmaClass or ConsciousnessClass
     Range: PathOperation
 
 ObjectProperty: takesAsAlambana
-    Domain: CittaClass
+    Domain: ConsciousnessClass
     Range: DharmaClass
 
 ObjectProperty: permitsInferenceOf
@@ -255,27 +247,27 @@ ObjectProperty: permitsInferenceOf
 
 Individual: KamaSufferingSeeingDharma
     Types: DharmaClass
-    belongsToDomain: KamaDhatu
+    belongsToRealm: KamaDhatu
     abandonedBy: SeeingSuffering
 
 Individual: KamaOriginationSeeingDharma
     Types: DharmaClass
-    belongsToDomain: KamaDhatu
+    belongsToRealm: KamaDhatu
     abandonedBy: SeeingOrigination
 
 Individual: KamaCultivationDharma
     Types: DharmaClass
-    belongsToDomain: KamaDhatu
+    belongsToRealm: KamaDhatu
     abandonedBy: Cultivation
 
-Rule: CorrespondingKamaCitta(?c, ?d)
+Rule: CorrespondingKamaConsciousness(?c, ?d)
     -> takesAsAlambana(?c, ?d)
 
-Rule: RupaCultivationCitta(?c)
+Rule: RupaCultivationConsciousness(?c)
     AND PresentVerseDharmaClass(?d)
     -> takesAsAlambana(?c, ?d)
 
-Rule: UndefiledCitta(?c)
+Rule: UndefiledConsciousness(?c)
     AND PresentVerseDharmaClass(?d)
     -> takesAsAlambana(?c, ?d)
 

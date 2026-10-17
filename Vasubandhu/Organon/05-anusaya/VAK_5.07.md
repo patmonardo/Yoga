@@ -82,7 +82,7 @@ previously enumerated.
 
 ### Bhāṣya-informed study translation
 
-> These are the five views: seeing the five aggregates of appropriation as
+> These are the five views: seeing the five Bases of appropriation as
 > self or belonging to self; seeing that supposed self as permanent or
 > annihilated; saying of an existing truth that it does not exist; taking
 > what is inferior as supreme; and seeing a non-cause as cause or a non-path
@@ -114,18 +114,18 @@ through superimposition or false elevation.
 
 ## 7. Technical Vocabulary
 
-**`Satkāya` — the five aggregates of appropriation**
+**`Satkāya` — the five Bases of appropriation**
 
-The Bhāṣya analyzes `kāya` as accumulation, collection, or aggregate and
+The Bhāṣya analyzes `kāya` as accumulation, collection, or totality and
 identifies `satkāya` with the five `upādānaskandhas`. Its unusual explanation
 of `sat` through “sinking” or perishing is meant to dislodge notions of
 permanence and compact unity.
 
 **`Satkāyadṛṣṭi` — view of self or mine**
 
-The five aggregates are taken either as self or as belonging to self. The
+The five Bases are taken either as self or as belonging to self. The
 commentary stresses that the view does not take a real self as its object; it
-misconstrues the aggregate-complex under “I” and “mine.”
+misconstrues the collection of Bases under “I” and “mine.”
 
 **`Antagrāhadṛṣṭi` — extreme-grasping view**
 
@@ -167,7 +167,7 @@ The five views form a generated sequence:
 
 ```text
 1. satkāyadṛṣṭi
-    aggregate-complex → self or mine
+    collection of Bases → self or mine
 
 2. antagrāhadṛṣṭi
     supposed self → permanent or annihilated
@@ -251,7 +251,7 @@ vak:VAK_5_07 a vak:Karika ;
     vak:defines vak:FiveAfflictedViews .
 
 vak:SatkayaDrsti a vak:AfflictedView ;
-    vak:misdetermines vak:FiveAggregatesOfAppropriation ;
+    vak:misdetermines vak:FiveBasesOfAppropriation ;
     vak:usesOperation vak:SelfOrMineAppropriation .
 
 vak:AntagrahaDrsti a vak:AfflictedView ;

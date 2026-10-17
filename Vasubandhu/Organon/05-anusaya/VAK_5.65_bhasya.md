@@ -8,7 +8,7 @@
 > The other three *parijñās* are the abandonment of the lower-part fetters,
 > the form influx, and all influxes—the last completing the exhaustion of all
 > fetters. The six seeing-abandonment *parijñās* are fruits of *kṣānti*; the
-> remaining three, attained through cultivation, are fruits of *jñāna*.
+> remaining three, attained through cultivation, are fruits of knowledge.
 
 ## 2. Continuous Sanskrit
 

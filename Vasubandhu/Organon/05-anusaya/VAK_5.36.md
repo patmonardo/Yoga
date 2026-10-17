@@ -34,10 +34,6 @@ is separated because it is the root.
 | `iti` | quotative or reason-marking particle | on the determination that |
 | `āsravaḥ pṛthak` | nominative singular with adverb | a separate influx |
 
-```text
-avyākṛtāḥ | antarmukhāḥ | hi | te | samāhita-bhūmikāḥ |
-ataḥ | ekīkṛtāḥ | mūlam | avidyā | iti | āsravaḥ | pṛthak
-```
 
 The first half predicates three common determinations of `te`; the second draws
 two opposed classificatory consequences: unification by similarity and
@@ -155,7 +151,7 @@ For x in FormAnuśayas and y in FormlessAnuśayas:
 EthicalStatus(x) = EthicalStatus(y) = Avyākṛta
 Direction(x)     = Direction(y)     = Inward
 Plane(x)         = Plane(y)         = Concentrated
-    → AggregateUnder(x, y, BhavaĀsrava)
+    → BaseUnder(x, y, BhavaĀsrava)
 ```
 
 Separation by generative priority:

@@ -5,9 +5,9 @@
 > pradāśa upanāhaś ca vihiṃsā ceti rāgajau |
 > māyā-madau pratighaje upanāha-vihiṃsane || 5.50 ||
 
-> Obstinate fault-clinging, sustained resentment, and harmfulness complete the
-> six stains. Deceit and intoxication are born from attachment; sustained
-> resentment and harmfulness are born from hostility.
+> Also named are obstinate fault-clinging, sustained resentment, and
+> harmfulness. Deceit and intoxication are born from attachment; sustained
+> resentment and harmfulness from hostility.
 
 ## 2. Continuous Sanskrit
 

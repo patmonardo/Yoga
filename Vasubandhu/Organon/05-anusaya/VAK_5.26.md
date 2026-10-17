@@ -34,15 +34,8 @@ operative activity.
 | `kāritreṇa` | instrumental singular neuter | by operative activity or function |
 | `vyavasthitāḥ` | nominative plural masculine past participle | distinguished, established in order |
 
-Padaccheda: `te | bhāva-anyathika | lakṣaṇa-anyathika |
-avasthā-anyathika | anyathā-anyathika | saṃjñitāḥ |
-tṛtīyaḥ | śobhanaḥ | adhvānaḥ | kāritreṇa | vyavasthitāḥ`.
-The four designations are compressed into a compound; the Bhāṣya
-unpacks them in that order and names their four proponents.
-
 The four compressed designations are unpacked by the Bhāṣya and attributed to
 Dharmatrāta, Ghoṣaka, Vasumitra, and Buddhadeva respectively.
-
 ## 4. Grammar
 
 **Fourfold naming**

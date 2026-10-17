@@ -5,10 +5,9 @@
 > aṇavo 'nugatāś caite dvidhā cāpy anuśerate |
 > anubadhnanti yasmāc ca tasmād anuśayāḥ smṛtāḥ || 5.39 ||
 
-> These are subtle and accompany the continuum through prāpti; they lie along
-> in two ways, through object-support and conjunction. Because they continue
-> to bind, becoming manifest repeatedly even without deliberate effort and
-> despite attempted restraint, they are called anuśayas.
+> These are subtle and accompany through acquisition; they lie along in two
+> ways, through object-support and conjunction. Because they continue to
+> bind, they are called anuśayas.
 
 ## 2. Continuous Sanskrit
 

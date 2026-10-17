@@ -32,16 +32,9 @@ they cannot be reduced to sheer nonbeing.
 | `iṣṭāḥ` | nominative plural masculine past participle | accepted, admitted, recognized |
 | `catur-vidhāḥ` | nominative plural masculine | fourfold, of four kinds |
 
-Padaccheda: `sarva-kāla-astitā | ukta-tvāt | dvayāt |
-sat-viṣayāt | phalāt | tat-asti-vādāt |
-sarva-asti-vādāḥ | iṣṭāḥ | catur-vidhāḥ`.
-The Bhāṣya identifies `dvaya` as faculty and object and treats the
-first two grounds as scriptural, the latter two as reasons.
-
 The Bhāṣya resolves the compressed `dvaya` as the perceptual-cognitive pair:
 eye and forms through mind and dharmas. Cognition arises dependent upon these
 two sides.
-
 ## 4. Grammar
 
 **Four causal ablatives**
@@ -94,7 +87,7 @@ permanent remains part of the reported Vaibhāṣika defense.
 ### Bhāṣya-informed study translation
 
 > Existence in all three times is maintained because scripture states it,
-> cognition depends on a faculty–object pair, cognition requires an
+> cognition depends on a Faculty–object pair, cognition requires an
 > existent object, and karma bears fruit. Those who affirm existence in all
 > three times are called Sarvāstivādins; four accounts are recognized.
 
@@ -144,7 +137,7 @@ The first scriptural ground. The cited teaching connects the noble disciple's
 non-attachment toward past form and non-delight in future form with the
 existence of those temporal objects.
 
-**`Dvaya` — the pair of faculty and object**
+**`Dvaya` — the pair of Faculty and object**
 
 The second scriptural ground. Cognition arises dependent upon eye and form,
 and so on through mind and dharmas. Mental cognition of past and future would

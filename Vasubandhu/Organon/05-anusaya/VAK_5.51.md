@@ -41,10 +41,6 @@ distinct.
 | `uddhavaḥ` | transmitted nominative singular masculine | excitation or restlessness (`auddhatya`) |
 | `dvidhā` | indeclinable adverb | twofold with respect to abandonment |
 
-```text
-dṛṣṭi-āmarśāt | pradāśaḥ | tu | śāṭhyam | dṛṣṭi-samutthitam |
-tatra | āhrīkyam | anapatrāpyam | styānam | middham | uddhavaḥ | dvidhā
-```
 
 The Bhāṣya specifies `dvidhā` as `darśana-bhāvanā-prahātavya`: abandoned
 through seeing or through cultivation.

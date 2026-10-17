@@ -5,10 +5,8 @@
 > pañcadhaivordhvabhāgīyaṃ dvau rāgau rūpyarūpijau |
 > auddhatyamānamohāś ca vidvaśād bandhanatrayam || 5.45 ||
 
-> The higher-part fetters are likewise five: attachment to form, attachment
-> to the formless, restlessness, conceit, and ignorance. The three bonds—
-> desire, hostility, and delusion—are distinguished by their relation to the
-> three feelings.
+> The higher-part fetters are five: attachment to form, attachment to the
+> formless, excitation, conceit, and ignorance. The three bonds are governed by the three feelings.
 
 ## 2. Continuous Sanskrit
 
@@ -87,7 +85,7 @@ distributed verse. Restlessness, conceit, and ignorance
 complete the five **higher fetters**; they are not the three
 bonds. The bond question begins afterward, and its answer
 names craving, hostility, and delusion. The earlier Kārikā
-research witness itself recognizes that its first-pass
+research witness itself recognizes that its earlier
 translation had joined these groups incorrectly.
 
 The bond triad is explained through a threefold relation to

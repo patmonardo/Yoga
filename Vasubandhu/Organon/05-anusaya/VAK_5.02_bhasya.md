@@ -6,8 +6,8 @@
 > antarmukhatvāt tanmokṣasaṃjñāvyāvṛttaye kṛtaḥ || 5.02 ||
 
 > Because attachment is divided, the six anuśayas are spoken of as seven.
-> Attachment to existence arises in the form and formless domains; because
-> it turns inward, it is separately designated to prevent those domains
+> Attachment to existence arises in the Form and Formless realms; because
+> it turns inward, it is separately designated to prevent those realms
 > from being conceived as liberation.
 
 The first words complete the suspended `te punaḥ` of 5.01. The full
