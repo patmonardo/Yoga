@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
+```text
 निर्विद्यते दुःखहेतुक्षान्तिज्ञानैर्विरज्यते ।
-
 सर्वैर्जहाति यैरेवं चतुष्कोटिकसम्भवः ॥ ६.७९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
+```text
 nirvidyate duḥkha-hetu-kṣānti-jñānair virajyate |
-
 sarvair jahāti yair evaṃ catuṣkoṭika-saṃbhavaḥ || 6.79 ||
+```
 
 The final verse distinguishes disenchantment from dispassion. Their relation cannot be inferred from truth-cognition alone; it depends jointly on the cognition’s object and whether that cognition actually abandons an affliction.
 
@@ -20,9 +22,9 @@ The final verse distinguishes disenchantment from dispassion. Their relation can
 |---|---|---|
 | nirvidyate | third-person singular present middle of *nir-√vid* | becomes disenchanted, turns away through comprehension |
 | duḥkha-hetu | compound | suffering and its cause, explained as duḥkha and samudaya |
-| kṣānti-jñānaiḥ | neuter instrumental plural compound | through receptivities and knowledges |
+| kṣānti-jñānaiḥ | neuter instrumental plural compound | through acceptances and knowledges |
 | virajyate | third-person singular present middle of *vi-√rañj* | becomes dispassionate, freed from attachment |
-| sarvaiḥ | instrumental plural | through any of the receptivities and knowledges of all Four Truths |
+| sarvaiḥ | instrumental plural | through any of the acceptances and knowledges of all Four Truths |
 | jahāti | third-person singular present active of *√hā* | abandons |
 | yaiḥ | relative instrumental plural | through those by which [one abandons afflictions] |
 | evam | indeclinable | thus, in this manner |
@@ -59,11 +61,11 @@ The verse does not use *nirveda*, *virāga*, and *prahāṇa* as synonyms. Its v
 
 ### Literal Translation
 
-One becomes disenchanted through the receptivities and knowledges concerning suffering and its cause; one becomes dispassionate through all those by which one abandons. Thus a fourfold alternative is possible.
+One becomes disenchanted through the acceptances and knowledges concerning suffering and its cause; one becomes dispassionate through all those by which one abandons. Thus a fourfold alternative is possible.
 
 ### Bhāṣya-informed study translation
 
-One is disenchanted only through the receptivities and knowledges of suffering and its origin, whose objects are fit for turning away. One is dispassionate through the receptivities and knowledges of all four Truths, but only through those by which one actually abandons afflictions. Thus there are four possibilities: disenchanted only, dispassionate only, both, or neither.
+> One becomes disenchanted through acceptances and knowledges concerning suffering and its cause; one becomes dispassionate through all [four Truths], but only through those by which one abandons. Thus a fourfold possibility arises.
 
 ## 6. Philosophical Translation
 
@@ -75,7 +77,7 @@ The chapter therefore ends with exact discrimination rather than an undifferenti
 
 **`Nirveda` — disenchantment**
 
-The Bhāṣya assigns nirveda to the receptivities and knowledges of suffering and origin (*duḥkha-kṣānti/jñāna*, *samudaya-kṣānti/jñāna*), for an objectual reason: duḥkha and samudaya are *nirveda-vastu*, objects or bases appropriate to disenchantment. It is not irrational disgust but the discriminatively grounded reversal produced by comprehending suffering and the causal ground of its arising.
+The Bhāṣya assigns nirveda to the acceptances and knowledges of suffering and origin (*duḥkha-kṣānti/jñāna*, *samudaya-kṣānti/jñāna*), for an objectual reason: duḥkha and samudaya are *nirveda-vastu*, objects or bases appropriate to disenchantment. It is not irrational disgust but the discriminatively grounded reversal produced by comprehending suffering and the causal ground of its arising.
 
 **`Duḥkha-hetu` — cause of suffering**
 
@@ -87,7 +89,7 @@ The Bhāṣya gives virāga a wider possible object-range but a stricter efficac
 
 **`Prāmodya-vastu` — object of gladness**
 
-The receptivities and knowledges concerning cessation and Path take an object of gladness or rejoicing: nirodha as release realized as possible and actual, mārga as the effective course to it. These are not objects of disenchantment, but they can produce virāga when they abandon kleśas.
+The acceptances and knowledges concerning cessation and Path take an object of gladness or rejoicing: nirodha as release realized as possible and actual, mārga as the effective course to it. These are not objects of disenchantment, but they can produce virāga when they abandon kleśas.
 
 **`Prahāṇa` — abandonment as efficacy**
 
@@ -182,6 +184,8 @@ The catuṣkoṭi is possible because object and efficacy are irreducible coordi
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya reads the cause of suffering as origination and limits “all” by “through which one abandons afflictions.” It supplies the four possibilities—disenchantment only, dispassion only, both, or neither—as the explanation of the verse’s fourfold possibility.
+
 The Mārga chapter closes by identifying the precise unit of Practical Meaning:
 
 ```text
@@ -198,7 +202,7 @@ where it operates
     determinate Path-position
 ```
 
-No isolated proposition about a Truth determines the whole. The same content can function differently depending on whether it is Receptivity, Knowledge, Application, Immediacy, Release, or Further Distinction. Meaning is the cognition’s systematic operation.
+No isolated proposition about a Truth determines the whole. The same content can function differently depending on whether it is acceptance, Knowledge, Application, Immediacy, Release, or Further Distinction. Meaning is the cognition’s systematic operation.
 
 This is the final form of the Path as Ideal Copula: cognition mediates object and transformation only when its position gives it efficacy. Seeing suffering can turn away without yet liberating; seeing cessation can liberate without producing disenchantment; sometimes cognition does both, and sometimes neither.
 
@@ -208,7 +212,7 @@ That copular formulation is the Organon reconstruction. Vasubandhu’s own concl
 
 ```text
 Class: TruthCognition
-Class: Receptivity
+Class: acceptance
   SanskritLabel: kṣānti
 Class: Knowledge
   SanskritLabel: jñāna
@@ -242,7 +246,7 @@ PathTruth supportsOrientation Gladness
 TruthCognition hasTruthObject Truth
 TruthCognition occursAtPathPosition PathPosition
 
-KārikāRule: Disenchantment arises through receptivities and knowledges concerning suffering and origination.
+KārikāRule: Disenchantment arises through acceptances and knowledges concerning suffering and origination.
 KārikāRule: Dispassion arises through cognitions of any Truth insofar as they actually abandon afflictions.
 BhāṣyaRule: Cessation and Path are objects of gladness and therefore do not themselves produce nirveda.
 BhāṣyaRule: Object and abandoning efficacy yield nirveda only, virāga only, both, or neither.

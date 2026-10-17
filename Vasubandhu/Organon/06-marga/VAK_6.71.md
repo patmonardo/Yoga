@@ -30,10 +30,7 @@ The verse introduces two independent determinations of the same thirty-sevenfold
 | **anāgamye** | neuter locative singular | in the preliminary concentration |
 | **prīti-varjitāḥ** | masculine nominative plural compound | deprived of or excluding joy |
 
-```text
-anāsravāṇi | bodhi-aṅga-mārga-aṅgāni | dvidhā | itare |
-sakalāḥ | prathame | dhyāne | anāgamye | prīti-varjitāḥ
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `anāsravāṇi · bodhi-aṅga-mārga-aṅgāni · dvidhā · itare · sakalāḥ · prathame · dhyāne · anāgamye · prīti-varjitāḥ`; individual forms and compounds are analyzed in the rows above |
 
 The gender shift from neuter group-names to masculine **itare / sakalāḥ / varjitāḥ** reflects the understood plural **bodhipakṣā dharmāḥ**.
 
@@ -71,11 +68,7 @@ PRELIMINARY-CONCENTRATION[FACTOR-COUNT=36, EXCLUDED=joy]
 
 ### Bhāṣya-informed study translation
 
-> Awakening factors and Noble Path factors are uncontaminated in their strict Path use; the other five groups can occur in contaminated or uncontaminated form. The first dhyāna supports all thirty-seven factors, while preliminary concentration lacks joy because its effortful footing cannot sustain it.
-
-### Translation note
-
-The Bhāṣya establishes the awakening and Noble Path factors in cultivation and Seeing, while acknowledging mundane counterparts such as right view that do not receive the strict Noble Path name. **Dvidhā itare** allows both purity statuses for the other five groups. In **anāgamya**, joy is absent because the preliminary ground is effortful and remains unsettled with respect to the lower ground.
+> The awakening factors and Path factors are uncontaminated; the others are twofold. All are present in the first dhyāna; in preliminary concentration, all but joy are present.
 
 ## 6. Philosophical Translation
 
@@ -268,6 +261,8 @@ None of these axes can be inferred without qualification from another.
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya establishes the awakening and Noble Path factors in cultivation and Seeing, while acknowledging mundane counterparts such as right view that do not receive the strict Noble Path name. **Dvidhā itare** allows both purity statuses for the other five groups. In **anāgamya**, joy is absent because the preliminary ground is effortful and remains unsettled with respect to the lower ground.
+
 The sequence from 6.68 through 6.71 now shows why Meaning cannot be reduced to the inventory of ten dravyas:
 
 ```text
@@ -281,7 +276,7 @@ underlying capacity
 
 The same capacity can be present mundanely or supramundanely, but its meaning as an **āryamārgāṅga** arises only within the noble Path-relation. This is not a verbal relabeling after the fact; the status of the operation itself has changed.
 
-The first dhyāna likewise functions as a genuine domain of possibility. It is not simply a location containing factors. Its balanced structure permits the complete Bodhi-aligned system to become actual. Anāgamya permits almost the same inventory, but its effortful and unsettled morphology excludes prīti.
+The first dhyāna likewise functions as a genuine field of possibility. It is not simply a location containing factors. Its balanced structure permits the complete Bodhi-aligned system to become actual. Anāgamya permits almost the same inventory, but its effortful and unsettled morphology excludes prīti.
 
 In Organon terms, Dhātu/Bhūmi is therefore constitutive rather than external: it determines which practical configuration can exist. That reconstruction remains distinct from the Bhāṣya’s explicit claim, which is the exact distribution of purity-status and factors by ground.
 

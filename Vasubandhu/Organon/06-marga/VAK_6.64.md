@@ -22,7 +22,7 @@ The first half defines the final two persons named in 6.63. The second half turn
 |---|---|---|
 | **nirodha-lābhī** | masculine nominative singular possessive compound | one possessing the attainment of cessation |
 | **ubhayataḥ-vimuktaḥ** | masculine nominative singular | liberated in both respects |
-| **prajñayā** | feminine instrumental singular | through discriminative understanding |
+| **prajñayā** | feminine instrumental singular | through discriminative comprehension |
 | **itaraḥ** | masculine nominative singular | the other, namely the Arhat without cessation-attainment |
 | **samāpatti** | feminine compound member | contemplative attainment |
 | **indriya** | neuter compound member | spiritual faculty; here especially its sharpness |
@@ -31,16 +31,13 @@ The first half defines the final two persons named in 6.63. The second half turn
 | **śaikṣaḥ** | masculine nominative singular | a trainee, one who still has training to perform |
 | **abhidhīyate** | third-person singular present passive of *abhi-√dhā* | is designated, is called |
 
-```text
-nirodha-lābhī | ubhayataḥ-vimuktaḥ | prajñayā | itaraḥ |
-samāpatti-indriya-phalaiḥ | pūrṇaḥ | śaikṣaḥ | abhidhīyate
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `nirodha-lābhī · ubhayataḥ-vimuktaḥ · prajñayā · itaraḥ · samāpatti-indriya-phalaiḥ · pūrṇaḥ · śaikṣaḥ · abhidhīyate`; individual forms and compounds are analyzed in the rows above |
 
 The Bhāṣya expands the compact instrumentals into axes of classification. It does not treat them as three possessions that every complete trainee must jointly have.
 
 ## 4. Grammar
 
-In the first sentence, **nirodhalābhī** is the subject and **ubhayatovimuktaḥ** its predicate. The elliptical second clause supplies **vimuktaḥ** from context: “the other [is liberated] through prajñā.”
+In the first sentence, **nirodhalābhī** is the subject and **ubhayatovimuktaḥ** its predicate. The elliptical second clause supplies **vimuktaḥ** from context: “the other [is liberated] through discriminative comprehension.”
 
 The compound **samāpattīndriyaphalaiḥ** is instrumental and gives the respects according to which **pūrṇaḥ śaikṣaḥ** is designated. The plural does not require conjunctive totality. The Bhāṣya explicitly distributes completeness across several possible configurations.
 
@@ -58,9 +55,9 @@ trainee
 
 ```text
 ARHAT[CESSATION-ATTAINMENT=true]
-  → LIBERATION[RESPECTS=prajñā+samādhi]
+  → LIBERATION[RESPECTS=discriminative-comprehension+samādhi]
 ARHAT[CESSATION-ATTAINMENT=false]
-  → LIBERATION[RESPECT=prajñā]
+  → LIBERATION[RESPECT=discriminative-comprehension]
 TRAINEE[COMPLETE=true]
   → COMPLETENESS[RESPECT=attainment | faculty | fruit]
 ATTAINMENT-COMPLETENESS → REQUIRES[fruit-completeness]
@@ -70,19 +67,15 @@ ATTAINMENT-COMPLETENESS → REQUIRES[fruit-completeness]
 
 ### Literal Translation
 
-> One who has attained cessation is liberated in both respects; the other is liberated through prajñā. A trainee is designated complete with respect to contemplative attainments, faculties, and fruits.
+> One who has attained cessation is liberated in both respects; the other is liberated through discriminative comprehension. A trainee is designated complete with respect to contemplative attainments, faculties, and fruits.
 
 ### Bhāṣya-informed study translation
 
-> An arhat with cessation-attainment is liberated in both respects: Prajñā has removed afflictive obstruction, and samādhi has removed obstruction to the meditative releases. The other arhat is liberated through Prajñā. A trainee is called complete according to attainment, faculty, or fruit, as each is fulfilled.
-
-### Translation note
-
-The Bhāṣya specifies the two respects of liberation as release from **kleśāvaraṇa** through Prajñā and **vimokṣāvaraṇa** through samādhi. `Itaraḥ` is the other arhat, whose afflictive liberation is complete. The three instrumental terms in the second half supply respects of trainee completeness, not a demand that all three always occur together. The prose also rules out attainment-completeness without fruit.
+> One who has attained cessation is liberated in both respects; the other [arhat] through discriminative comprehension. A trainee is called complete with respect to attainment, faculty, or fruit.
 
 ## 6. Philosophical Translation
 
-Liberation from the afflictions and mastery of the contemplative liberations are distinct accomplishments. Prajñā supplies the decisive liberation from afflictive obstruction; when the attainment of cessation is also possessed, samādhi supplies liberation from the obstruction to the meditative releases. Their conjunction constitutes the doubly liberated Arhat without diminishing the genuine liberation of the prajñā-liberated Arhat.
+Liberation from the afflictions and mastery of the contemplative liberations are distinct accomplishments. Discriminative comprehension supplies the decisive liberation from afflictive obstruction; when the attainment of cessation is also possessed, samādhi supplies liberation from the obstruction to the meditative releases. Their conjunction constitutes the doubly liberated Arhat without diminishing the genuine liberation of the Arhat liberated through discriminative comprehension.
 
 A trainee’s completeness is likewise determinate rather than abstract. One may have fully realized the fruit-dimension, the faculty-dimension, or an admissible coordination of fruit, faculty, and attainment while training as such remains unfinished.
 
@@ -100,7 +93,7 @@ attainment of nirodhasamāpatti
 The two respects are not two rival salvations. They are two powers and two corresponding freedoms:
 
 ```text
-prajñā-bala
+discriminative-comprehension power
     → freedom from kleśāvaraṇa
 
 samādhi-bala
@@ -109,12 +102,12 @@ samādhi-bala
 
 **nirodhasamāpatti** is the attainment of cessation, specifically the cessation of perception and feeling. Its possession supplies the additional contemplative determination.
 
-**`Prajñayā itaraḥ` — liberation through Prajñā**
+**`Prajñayā itaraḥ` — liberation through discriminative comprehension**
 
-The **itara**, “the other,” is **prajñāvimukta**:
+The **itara**, “the other,” is liberated through discriminative comprehension:
 
 ```text
-prajñā alone
+discriminative comprehension alone
     → afflictive obstruction removed
 ```
 
@@ -206,11 +199,11 @@ The predicate *pūrṇa* must therefore be read with its specified relation. Com
 The two Arhat types exhibit a non-exclusive hierarchy:
 
 ```text
-PrajñāLiberation
+DiscriminativeComprehensionLiberation
     is sufficient for
 LiberationFromAffliction
 
-PrajñāLiberation
+DiscriminativeComprehensionLiberation
     + CessationAttainment
     constitutes
 DoubleLiberation
@@ -243,6 +236,8 @@ The Bhāṣya therefore gives more than a list. It gives the modal grammar of Pa
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya specifies the two respects of liberation as release from **kleśāvaraṇa** through discriminative comprehension and **vimokṣāvaraṇa** through samādhi. `Itaraḥ` is the other arhat, whose afflictive liberation is complete. The three instrumental terms in the second half supply respects of trainee completeness, not a demand that all three always occur together. The prose also rules out attainment-completeness without fruit.
+
 This verse sharpens the user’s determination of Indriya as a proto-Path morphology. A Path-person does not move along only one scale. Faculty, attainment, fruit, and liberation establish different rules under which the same movement can be complete.
 
 The result is a morphology rather than a ladder:
@@ -261,7 +256,7 @@ vimukti
     release established by the completed movement
 ```
 
-Most important is the asymmetry between samāpatti and prajñā. Cessation-attainment is a profound contemplative End, but it is not by itself the liberating principle. Prajñā removes the afflictive obstruction. Samādhi adds mastery of the meditative releases.
+Most important is the asymmetry between contemplative attainment and discriminative comprehension. Cessation-attainment is a profound contemplative End, but it is not by itself the liberating Principle. Discriminative comprehension removes the afflictive obstruction. Samādhi adds mastery of the meditative releases.
 
 In the Organon reconstruction, this prevents the Path from being reduced either to cognition or to contemplative state. Its concrete actuality is their differentiated coordination. This is a project-level synthesis; the source claim remains the Bhāṣya’s exact distinction between the two powers, two obstructions, and three respects of trainee completeness.
 
@@ -269,7 +264,7 @@ In the Organon reconstruction, this prevents the Path from being reduced either 
 
 ```text
 Class: Arhat
-Class: WisdomLiberatedArhat
+Class: DiscriminativeComprehensionLiberatedArhat
   SanskritLabel: prajñāvimukta
 Class: DoublyLiberatedArhat
   SanskritLabel: ubhayatobhāgavimukta
@@ -293,17 +288,17 @@ ObjectProperty: freedFrom
 ObjectProperty: completeWithRespectTo
 ObjectProperty: presupposes
 
-WisdomLiberatedArhat liberatedThrough PrajñāPower
-WisdomLiberatedArhat freedFrom AfflictiveObstruction
-DoublyLiberatedArhat liberatedThrough PrajñāPower
+DiscriminativeComprehensionLiberatedArhat liberatedThroughDiscriminativeComprehensionPower
+DiscriminativeComprehensionLiberatedArhat freedFrom AfflictiveObstruction
+DoublyLiberatedArhat liberatedThroughDiscriminativeComprehensionPower
 DoublyLiberatedArhat liberatedThrough SamādhiPower
 DoublyLiberatedArhat possessesAttainment CessationAttainment
 DoublyLiberatedArhat freedFrom AfflictiveObstruction
 DoublyLiberatedArhat freedFrom LiberationObstruction
 AttainmentCompleteness presupposes FruitCompleteness
 
-KārikāRule: Possession of cessation-attainment distinguishes the doubly liberated Arhat from the prajñā-liberated Arhat.
-BhāṣyaRule: Prajñā removes afflictive obstruction; samādhi removes obstruction to the meditative liberations.
+KārikāRule: Possession of cessation-attainment distinguishes the doubly liberated Arhat from the Arhat liberated through discriminative comprehension.
+BhāṣyaRule: discriminative comprehension removes afflictive obstruction; samādhi removes obstruction to the meditative liberations.
 BhāṣyaRule: Trainee completeness is classified by fruit, faculty, and attainment, but not every complete trainee possesses all three.
 BhāṣyaRule: Attainment alone, or attainment with faculty but without fruit, does not constitute trainee completeness.
 ProjectRule: Path-completion is relational completion under coordinated but non-reducible determinations.

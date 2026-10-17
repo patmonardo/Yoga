@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > śrāmaṇyam amalo mārgaḥ saṃskṛtāsaṃskṛtaṃ phalam |
->
 > ekānnavatis tāni muktimārgāḥ saha kṣayaiḥ || 6.51 ||
 
-> Śrāmaṇya, in the strict sense, is the uncontaminated Path that pacifies affliction. Its conditioned fruits are liberation Paths; its unconditioned fruits are the corresponding abandonments of affliction. There are eighty-nine paired cases: eight from what is abandoned by seeing and eighty-one from nine grades across nine grounds of cultivation. The uninterrupted Paths do the abandoning; their liberation Paths and the abandonments are the two kinds of fruit.
+> Śrāmaṇya is the stainless Path. Its fruit is conditioned and unconditioned, in eighty-nine cases: liberation Paths together with their corresponding abandonments.
 
 The uninterrupted Path is the work of śrāmaṇya; conditioned liberation
 Paths and unconditioned abandonments are its paired fruits.

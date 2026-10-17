@@ -28,10 +28,7 @@ The Bhāṣya immediately continues the verse with **mārgaś ca**, “and the P
 | **satya-trayam** | neuter nominative singular | the triad of suffering, origin, and cessation |
 | **bodhisattva-pratyekabuddhayoḥ** | masculine dual compound in genitive/locative form | compressed reference to Bodhisattva and Pratyekabuddha; immediate syntactic function uncertain |
 
-```text
-lābhaḥ | mārga-abhisamaye | buddha-tat-saṃghayoḥ | api |
-dharmaḥ | satya-trayam | bodhisattva-pratyekabuddhayoḥ
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `lābhaḥ · mārga-abhisamaye · buddha-tat-saṃghayoḥ · api · dharmaḥ · satya-trayam · bodhisattva-pratyekabuddhayoḥ`; individual forms and compounds are analyzed in the rows above |
 
 The prose continuation **mārgaś ca** coordinates the Path with **satya-trayam**. Therefore “Dharma” in the completed Bhāṣya analysis includes all Four Truths rather than only the first three.
 
@@ -78,11 +75,7 @@ BODHISATTVA-PRATYEKABUDDHA-DUAL[ATTACHMENT=unresolved]
 
 ### Bhāṣya-informed study translation
 
-> At Seeing the Path, verified confidence in Buddha and his Saṃgha is also gained. Dharma embraces the three Truths and the Path; the verse names Bodhisattvas and solitary Buddhas without settling how they qualify this claim.
-
-### Translation note
-
-The Bhāṣya reads `api` as including Dharma and ethical confidence at Path-realization. It adds `mārgaś ca` to the three Truths, making all four Truths objects of Dharma-confidence. Its further analysis reduces the four confidences by object to two operative dharmas, `śraddhā` and `śīla`; this belongs in the Bhāṣya study rather than the verse translation. The transmitted Bodhisattva–Pratyekabuddha dual has no secure attachment in the immediate prose.
+> At realization of the Path, there is also acquisition of verified confidence concerning the Buddha and that Saṃgha. Dharma is the three Truths; [the syntactic relation of “Bodhisattva and Pratyekabuddha” is uncertain].
 
 ## 6. Philosophical Translation
 
@@ -269,6 +262,8 @@ Avetyaprasāda(x)
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya reads `api` as including Dharma and ethical confidence at Path-realization. It adds `mārgaś ca` to the three Truths, making all four Truths objects of Dharma-confidence. Its further analysis reduces the four confidences by object to two operative dharmas, `śraddhā` and `śīla`; this belongs in the Bhāṣya study rather than the verse translation. The transmitted Bodhisattva–Pratyekabuddha dual has no secure attachment in the immediate prose.
 
 This passage gives the Path a remarkable reflexive result. By realizing Mārga, the practitioner does not merely reach an object called “the Path.” The realization returns as a fourfold stable orientation toward the agent of awakening, its truth, its realized community, and its practical ethical form.
 

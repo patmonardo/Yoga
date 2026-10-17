@@ -3,15 +3,10 @@
 ## 1. Kārikā Anchor
 
 > nava-prakārā doṣā hi bhūmau bhūmau tathā guṇāḥ |
->
 > mṛdu-madhyādhimātrāṇāṃ punar mṛdv-ādi-bhedataḥ || 6.33 ||
 
-> In every ground through the summit of existence, afflictions and their
-> opposing uninterrupted and liberation Paths each have nine grades.
-> Mild, medium, and strong are each divided again into three. The mildest
-> Path removes the strongest affliction first; stronger Path grades then
-> remove increasingly subtle residues, until the strongest Path removes
-> the mildest affliction.
+> In each ground, afflictions are ninefold, and so too are the qualities; mild,
+> medium, and intense are each further divided beginning with mild.
 
 The commentary expands the recursive ninefold division and explains the
 inverse order in which Path grades oppose afflictions.

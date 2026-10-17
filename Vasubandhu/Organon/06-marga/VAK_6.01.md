@@ -32,10 +32,7 @@ or uncontaminated.
 | `tu` | contrastive particle | but, whereas |
 | `anāsravaḥ` | nominative singular masculine | without influx, uncontaminated |
 
-```text
-kleśa-prahāṇam | ākhyātam | satya-darśana-bhāvanāt |
-dvi-vidhaḥ | bhāvanā-mārgaḥ | darśana-ākhyaḥ | tu | anāsravaḥ
-```
+
 
 The Bhāṣya resolves the two forms of cultivation as `laukika` and
 `lokottara`, mundane and supramundane. The contrastive `tu` excludes the same
@@ -85,7 +82,7 @@ interchangeable outside the present argument.
 
 ### Bhāṣya-informed study translation
 
-> The abandonment of afflictions has been explained through seeing the truths
+> The abandonment of afflictions has been declared through seeing the truths
 > and through cultivation. The Path of Cultivation is twofold, mundane and
 > supramundane; the Path called Seeing, however, is without influx and solely
 > supramundane.

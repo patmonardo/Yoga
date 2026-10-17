@@ -32,10 +32,7 @@ Meaning, and Meaning.
 | `śruta-mayī-ādikāḥ` | nominative plural feminine | beginning with that formed from learning |
 | `dhiyaḥ` | nominative plural feminine of `dhī` | cognitions or understandings |
 
-```text
-vṛtta-sthaḥ | śruta-cintā-vān | bhāvanāyām | prayujyate |
-nāma-ubhaya-artha-viṣayāḥ | śruta-mayī-ādikāḥ | dhiyaḥ
-```
+
 
 `Ubhaya` abbreviates `nāma-artha`, name and Meaning together. The compact
 compound distributes three cognitive fields across the three cognitions in sequence:
@@ -46,7 +43,7 @@ ubhaya = nāma + artha
 artha
 ```
 
-The Bhāṣya consistently names these cognitions as three forms of `prajñā` and
+The Bhāṣya consistently names these cognitions as three forms of `discriminative comprehension` and
 then supplements the field-based distribution with a causal account of how
 each is generated.
 
@@ -86,13 +83,13 @@ bhāvanāmayī dhī
 
 The Bhāṣya renders these as cognitive Conditions (`ālambana`). It then reports an
 objection: alternating between name and Meaning does not securely establish
-the intrinsic distinction of reflective Prajñā. Vasubandhu therefore offers a
+the intrinsic distinction of reflective discriminative comprehension. Vasubandhu therefore offers a
 causal definition based on authoritative teaching, reasoning, and samādhi.
 
 **Feature Grammar direction.** The singular practitioner of the first half
 governs `prayujyate`; the feminine plural `dhiyaḥ` governs the second half.
 The three members of `nāma-ubhaya-artha-viṣayāḥ` distribute in order over the
-three Prajñās:
+three discriminative comprehensions:
 
 ```text
 PRACTITIONER[NUM=sg, HAS=śruta+cintā] → ENGAGES[bhāvanā]
@@ -114,18 +111,16 @@ not another parse of the compound.
 
 ### Bhāṣya-informed study translation
 
-> Established in disciplined conduct, having received teaching and reflected
-> without inversion, one applies oneself to cultivation. The three forms of
-> Prajñā, formed from learning, reflection, and cultivation, range in order
-> over name, name together with Meaning, and Meaning without dependence on
-> words.
+> One established in conduct, possessing learning and reflection, applies
+> oneself to cultivation. The cognitions formed from learning and the rest
+> have name, both [name and Meaning], and Meaning as their respective fields.
 
 ## 6. Philosophical Translation
 
 > The Path does not leap directly from verbal teaching into realization.
 > Disciplined conduct sustains reception; reception generates a determination
 > that reflection must test; reflection mediates expression and Meaning; and
-> samādhi generates a cultivated Prajñā capable of proceeding toward Meaning
+> samādhi generates a cultivated discriminative comprehension capable of proceeding toward Meaning
 > without dependence upon words. Directness is therefore not the absence of
 > mediation but the fruit of a completed genetic movement.
 
@@ -154,35 +149,35 @@ truths, not an ornamental moral preface detached from cognition.
 
 Teaching received in a form conformable (`anuloma`) to seeing the truths. The
 Bhāṣya also speaks of hearing the Meaning. `Śruta` supplies the authoritative
-starting determination upon which later Prajñā relies.
+starting determination upon which later discriminative comprehension relies.
 
 **`Cintā` — reflection**
 
 Reasoned examination that must be non-inverted before cultivation begins. In
 the field model, it mediates name and Meaning in both directions. In the
-causal model, it is Prajñā born from `yukti-nidhyāna`, sustained examination
+causal model, it is discriminative comprehension born from `yukti-nidhyāna`, sustained examination
 through reasoning.
 
 **`Bhāvanā` — cultivation**
 
 The stage into which the qualified practitioner enters. The Bhāṣya's strongest
 definition is not mere repetition and not Meaning as cognitive field alone:
-`bhāvanāmayī prajñā` is born from samādhi.
+`bhāvanāmayī discriminative comprehension` is born from samādhi.
 
-**`Śrutamayī prajñā` — Prajñā formed from learning**
+**`Śrutamayī discriminative comprehension` — discriminative comprehension formed from learning**
 
 According to the kārikā model, its cognitive Condition is name. Vasubandhu's causal
 definition identifies it as certainty (`niścaya`) born from the authority or
 validity of reliable teaching (`āptavacana-prāmāṇya`).
 
-**`Cintāmayī prajñā` — Prajñā formed from reflection**
+**`Cintāmayī discriminative comprehension` — discriminative comprehension formed from reflection**
 
 According to the field model, it moves from expression to Meaning and from
 Meaning back to expression. Other teachers object that this alternating
 field-relation fails to define it securely. Vasubandhu's causal account
 distinguishes it as born from reasoning and examination.
 
-**`Bhāvanāmayī prajñā` — Prajñā formed from cultivation**
+**`Bhāvanāmayī discriminative comprehension` — discriminative comprehension formed from cultivation**
 
 It proceeds toward Meaning independently of verbal formulation
 (`vyañjana-nirapekṣā arthe pravartate`). Its decisive genetic determination is
@@ -192,11 +187,11 @@ It proceeds toward Meaning independently of verbal formulation
 
 The verbal designation or linguistic support that first presents the teaching.
 It is not discarded as false; its support-function becomes progressively less
-necessary as Prajñā is transformed.
+necessary as discriminative comprehension is transformed.
 
 **`Artha` — Meaning**
 
-What the teaching is about and what cultivational Prajñā takes independently
+What the teaching is about and what cultivational discriminative comprehension takes independently
 of verbal formulation. Capitalized **Meaning** marks our controlled project
 usage; it does not add a separate Sanskrit technical term beyond `artha`.
 
@@ -204,7 +199,7 @@ usage; it does not add a separate Sanskrit technical term beyond `artha`.
 
 The kārikā says `viṣaya`; the Bhāṣya explains through `ālambana`. This
 range of cognitive Conditions is genuine but insufficient by itself to define
-all three forms of Prajñā without ambiguity. It is distinct from Object, the
+all three forms of discriminative comprehension without ambiguity. It is distinct from Object, the
 comprehended truth of a Thing.
 
 **`Niśritya` — relying upon**
@@ -212,35 +207,35 @@ comprehended truth of a Thing.
 The Bhāṣya's genetic connective:
 
 ```text
-śrutamayī prajñā
-    relied upon by cintāmayī prajñā
+śrutamayī discriminative comprehension
+    relied upon by cintāmayī discriminative comprehension
 
-cintāmayī prajñā
-    relied upon by bhāvanāmayī prajñā
+cintāmayī discriminative comprehension
+    relied upon by bhāvanāmayī discriminative comprehension
 ```
 
-Later Prajñā does not arise independently of the earlier form, even when it no
+Later discriminative comprehension does not arise independently of the earlier form, even when it no
 longer depends upon the same verbal support.
 
 **`Āptavacana-prāmāṇya` — authority of reliable teaching**
 
-The source from which the certainty of learning-born Prajñā arises. This is a
+The source from which the certainty of learning-born discriminative comprehension arises. This is a
 Bhāṣya determination, not wording present in the kārikā.
 
 **`Yukti-nidhyāna` — reasoned examination**
 
-The generating ground of reflective Prajñā. It prevents the middle form from
+The generating ground of reflective discriminative comprehension. It prevents the middle form from
 being reduced to an unstable alternation between two field types.
 
 **`Samādhija` — born from samādhi**
 
-The generating ground of cultivational Prajñā. This is the verse-unit's
-strongest determination of how Prajñā proceeds toward Meaning without
+The generating ground of cultivational discriminative comprehension. This is the verse-unit's
+strongest determination of how discriminative comprehension proceeds toward Meaning without
 verbal dependence.
 
 **`Vyañjana-nirapekṣa` — independent of verbal formulation**
 
-Cultivational Prajñā operates toward Meaning without relying on words. This is
+Cultivational discriminative comprehension operates toward Meaning without relying on words. This is
 achieved independence from linguistic support, not a rejection of the
 learning and reflection through which it was generated.
 
@@ -315,15 +310,18 @@ CognitiveFieldStructure + GeneticGround
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The Bhāṣya specifies the three forms of discriminative comprehension—learning, reflection, and cultivation—and their respective fields: name, name with Meaning, and Meaning without reliance on words; it also supplies a causal account.
+
 **Conduct belongs to the genesis of seeing.** The Bhāṣya answers “How are the
 truths seen?” by beginning with guarding conduct. Ethical formation is internal
 to the preparation of adequate cognition.
 
-**The three Prajñās form a dependent movement.** `Niśritya` prevents their
+**The three discriminative comprehensions form a dependent movement.** `Niśritya` prevents their
 treatment as three independent learning styles. Each later form arises relying
 upon the earlier determination.
 
-**The swimmer analogy expresses achieved independence.** Learning-born Prajñā
+**The swimmer analogy expresses achieved independence.** Learning-born discriminative comprehension
 holds linguistic support like an untrained swimmer; reflection sometimes
 releases and regains it; cultivation crosses without needing that support. The
 analogy concerns support, not the erasure of the preceding formation.
@@ -334,7 +332,7 @@ collapse. The causal definition restores it through its distinctive genesis in
 reasoning.
 
 **Bhāvanā requires samādhi.** Meaning as direct cognitive field does not by itself
-constitute cultivation-born Prajñā. Its determining ground is samādhi. This is
+constitute cultivation-born discriminative comprehension. Its determining ground is samādhi. This is
 the textual basis for speaking of a required cultivation-ground without yet
 importing the later Organon term `saṃyama-bhūmi` into Vasubandhu's wording.
 
@@ -353,12 +351,12 @@ artha
     Meaning directly cultivated without verbal dependence
 
 samādhi
-    the generating ground of bhāvanāmayī Prajñā
+    the generating ground of bhāvanāmayī discriminative comprehension
 ```
 
 This sharpens the Ideal Copula. Meaning does not merely sit statically between
 Truth and Knowledge. It moves through distinct supports and modes of genesis
-until Prajñā becomes capable of bearing Meaning directly. Our prospective
+until discriminative comprehension becomes capable of bearing Meaning directly. Our prospective
 `saṃyama-bhūmi` names a larger Yoga–Organon synthesis; the Kośa's exact term
 here is `samādhi`, and that source boundary must remain visible.
 
@@ -432,5 +430,5 @@ View: ThreePrajnaPathGenesis
 ```
 
 The seed keeps cognitive field and genetic ground as distinct dimensions. It
-represents the essential Bhāṣya result: cultivational Prajñā is not merely
+represents the essential Bhāṣya result: cultivational discriminative comprehension is not merely
 about Meaning but is generated from samādhi.

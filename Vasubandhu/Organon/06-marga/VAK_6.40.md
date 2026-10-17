@@ -72,20 +72,9 @@ criteria given for these seven in the commentary.
 
 ### Bhāṣya-informed study translation
 
-> The sūtra counts seven courses of the good person by treating the
-> upward-streamer as one, without dividing its routes. These courses
-> are good in the strict sense: wholesome action operates, unwholesome
-> action does not, and those who enter them do not return. Other
-> trainees may also be called good persons in a qualified sense, but
-> the present classification concerns these seven without qualification.
-
-### Translation note
-
-The Bhāṣya reconciles the sūtra's seven with the finer Abhidharma
-count by leaving the upward-streamer undivided. It construes `sat/asat`
-through wholesome and unwholesome activity and distinguishes strict
-from qualified uses of “good person.” The witness's uneven
-`gatāopratyāgateśca` remains visible in the continuous Sanskrit.
+> Leaving the upward-streamer undivided, seven courses of the good person are
+> reckoned. They are marked by good conduct, non-conduct in what is bad, and
+> the non-return of those who enter them.
 
 ## 6. Philosophical Translation
 
@@ -201,6 +190,13 @@ excluded transition:
 In Organon terms, explicitly as project synthesis, the course has become an a priori practical morphology: Indriya permits one order of action, excludes its contrary, and preserves the result as irreversible direction. Its identity lies in this rule-governed operation rather than in a substantial bearer.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya reconciles the sūtra's seven with the finer
+Abhidharma count by leaving the upward-streamer undivided. It construes
+`sat/asat` through wholesome and unwholesome activity and distinguishes strict
+from qualified uses of “good person.” The witness's uneven
+`gatāopratyāgateśca` remains visible in the continuous Sanskrit.
+
 
 VAK 6.39 generated the fine differences among Path-persons from Karma, Kleśa, and Indriya. VAK 6.40 demonstrates that the same generated field can be validly represented at a coarser level when the suppressed differences do not alter the criterion presently at issue.
 

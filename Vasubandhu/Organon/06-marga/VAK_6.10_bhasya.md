@@ -3,13 +3,11 @@
 ## 1. Kārikā Anchor
 
 > āsamudrāsthi-vistāra-saṃkṣepād ādikarmikaḥ |
->
 > pādāsthna ā kapālārdha-tyāgāt kṛtajayaḥ smṛtaḥ || 6.10 ||
 
-> A beginner expands the contemplated skeleton across the world as far as the
-> ocean, then contracts it back to the skeleton of their own body. A
-> practitioner who has gained mastery progressively relinquishes the bones
-> from the feet upward, until only half the skull remains in attention.
+> Through expansion and contraction of the bones as far as the ocean, one is a
+> beginner. Through relinquishing [the bones] from the feet up to half the
+> skull, one is considered to have gained mastery.
 
 The Bhāṣya describes three stages of unattractive contemplation and gives the
 operations defining the first two here.

@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > asaṃskṛtā kleśahānam adhimuktas tu saṃskṛtā |
->
 > sāṅgaḥ saiva vimuktī dve jñānaṃ bodhir yathoditā || 6.76 ||
 
-> Unconditioned liberation is the abandonment of afflictions; conditioned liberation is the determination of one beyond training. The unconditioned is counted with that one's Path factors; the conditioned is called liberation of consciousness and liberation through Prajñā. Right Knowing is Bodhi as already stated: Knowing of exhaustion and non-arising.
+> The unconditioned [liberation] is abandonment of afflictions; the conditioned [liberation] is the liberative determination. The former is counted with the factors. That same conditioned liberation is the two liberations. Knowledge is Bodhi, as previously stated.
 
 Kārikā study: [VAK_6.76.md](./VAK_6.76.md). The question about which consciousness is liberated begins after this unit and leads into 6.77.
 
@@ -59,9 +58,9 @@ This is the complete continuous unit [388|03]–[388|18–19] in `Vasubandhu/Sou
 
 ## 3. Continuous Conventional Translation
 
-Liberation is conditioned and unconditioned. Unconditioned liberation is the abandonment of afflictions; conditioned liberation is the liberative determination of one beyond training. The unconditioned liberation is joined with the factors of one beyond training, whose factors are conditioned. That same conditioned liberation is the two liberations named in the sūtra: liberation of consciousness and liberation through Prajñā. The aggregate of liberation should be understood in the same way.
+Liberation is conditioned and unconditioned. Unconditioned liberation is the abandonment of afflictions; conditioned liberation is the liberative determination of one beyond training. The unconditioned liberation is joined with the factors of one beyond training, whose factors are conditioned. That same conditioned liberation is the two liberations named in the sūtra: liberation of consciousness and liberation through Prajñā. The Base of liberation should be understood in the same way.
 
-An objection cites a sūtra on the purification of liberation: consciousness becomes dispassionate and liberated from desire, hatred, and delusion, and effort and energy serve to complete or sustain the aggregate of liberation. Thus, is liberation simply `adhimokṣa`? Others answer that liberation is the purity of consciousness when Knowing of reality has removed desire and the other afflictions. Having discussed liberation, the commentary asks which right Knowing is distinct from right view. It answers with the Bodhi previously stated: Knowing of exhaustion and Knowing of non-arising.
+An objection cites a sūtra on the purification of liberation: consciousness becomes dispassionate and liberated from desire, hatred, and delusion, and effort and energy serve to complete or sustain the Base of liberation. Thus, is liberation simply `adhimokṣa`? Others answer that liberation is the purity of consciousness when Knowing of reality has removed desire and the other afflictions. Having discussed liberation, the commentary asks which right Knowing is distinct from right view. It answers with the Bodhi previously stated: Knowing of exhaustion and Knowing of non-arising.
 
 ## 4. Movement of the Commentary
 

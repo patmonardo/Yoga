@@ -3,14 +3,12 @@
 ## 1. Kārikā Anchor
 
 > ubhayākaraṇaṃ dharmeṇānyair api tu vardhanam |
->
 > tebhyaḥ kṣāntir dvidhā tadvat kṣāntyā dharmeṇa vardhanam || 6.18 ||
 
-> Heat and the Summits first form through the dharma establishment, when the
-> aspects are placed on the Truths; all four establishments can then
-> strengthen them. Acceptance arises from the developed Summits. Its weak and
-> medium grades form in the same way, while every grade of Acceptance is
-> strengthened through the dharma establishment alone.
+> The initial formation of both is through the dharma establishment, but they
+> are strengthened through the others as well. From them arises Acceptance,
+> formed in two grades in the same way; Acceptance is strengthened through the
+> dharma establishment.
 
 The Bhāṣya defines formation as first placing the aspects on the Truths,
 then differentiates the means of strengthening Heat, Summits, and Acceptance.

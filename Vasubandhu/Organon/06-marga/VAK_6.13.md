@@ -14,7 +14,7 @@
 naiḥṣyandikau nādhareṇa lakṣyete manasā ca tau || 6.13 ||
 ```
 
-VAK 6.13 classifies the breaths that serve as the cognitive field of the Prajñā
+VAK 6.13 classifies the breaths that serve as the cognitive field of the discriminative comprehension
 analyzed in 6.12. Inhalation and exhalation belong to the same level as the
 body, are counted within the sentient continuum, remain unappropriated, arise
 as homogeneous-flow products, and are apprehended by cognition of their own or
@@ -37,10 +37,7 @@ a higher level rather than by a lower-level cognition.
 | `ca` | conjunction | and, also |
 | `tau` | nominative dual masculine demonstrative | those two |
 
-```text
-ānāpānau | yataḥ | kāyaḥ | sattva-ākhyau | anupāttakau |
-naiḥṣyandikau | na | adhareṇa | lakṣyete | manasā | ca | tau
-```
+
 
 The dual morphology consistently treats inhalation and exhalation as two
 members of one classified process. The Bhāṣya supplies the comparison implicit
@@ -117,22 +114,16 @@ The feature slots offer a future reflective model of their distinct relations.
 
 ### Bhāṣya-informed study translation
 
-> Inhalation and exhalation share the body's ground and are counted within a
-> sentient continuum, yet remain unappropriated because they are separable
-> from the faculties. They are products of homogeneous flow. Consciousness on
-> their own or a higher ground can discern them; consciousness on a lower
-> ground cannot.
-
-### Translation note
-
-The body–consciousness condition, absence cases, reason for non-appropriation, excluded
-causal types, and positive cognition-range are supplied by the Bhāṣya.
+> Inhalation and exhalation share the body's level, are counted as sentient,
+> are unappropriated, and are homogeneous-flow products; lower-level
+> consciousness does not discern them, but consciousness of their own or a
+> higher level does.
 
 ## 6. Philosophical Translation
 
-> Breath becomes an adequate cognitive field of Prajñā only when its distinct relations
+> Breath becomes an adequate cognitive field of discriminative comprehension only when its distinct relations
 > are discriminated. It belongs to embodied life without being an appropriated
-> faculty; it continues causally without being a substance or direct maturation
+> Faculty; it continues causally without being a substance or direct maturation
 > product; it depends upon a specific body–consciousness (`citta`) configuration rather than
 > accompanying every possible embodied state; and its accessibility varies
 > with cognitive level. The possessive immediacy “my breath” is therefore
@@ -178,15 +169,15 @@ dhyāna.
 
 The breath is counted as belonging to the living being rather than as an
 unrelated external wind. This continuum-status does not entail appropriation
-as an indriya.
+as a Faculty.
 
 **`Anupāttaka` — unappropriated**
 
 The Bhāṣya explains this by `indriyavinirbhāgitva`, separability from the
 faculties. Breath participates in embodied life without sharing the organic
-appropriation-status of faculty-related material form.
+appropriation-status of Faculty-related Form.
 
-**`Indriyavinirbhāgitva` — separability from the faculties**
+**`Indriyavinirbhāgitva` — separability from the Faculties**
 
 The ground for classifying the breaths as unappropriated. It is a functional
 and mereological distinction within the body, not a claim that breathing is
@@ -295,6 +286,9 @@ Level(cognition) < Level(breath)
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The Bhāṣya supplies body-and-consciousness conditions and absence-cases, explains non-appropriation by separability from the Faculties, excludes other causal types, and specifies own-or-higher-level cognition; the transmitted wording for the death case and visible-Form range is uneven.
+
 **Breath is not universally present wherever there is body.** A specific
 body–consciousness (`citta`) configuration is required. The absence and transition cases make
 that dependency explicit.
@@ -313,7 +307,7 @@ through time.
 Abhidharma precision: a lower `bhūmi` cognition cannot apprehend the relevant
 breath, while same- or higher-level cognition can.
 
-**Prajñā and its cognitive field must be determined together.** VAK 6.12 classified the
+**discriminative comprehension and its cognitive field must be determined together.** VAK 6.12 classified the
 cognition; 6.13 classifies the wind-process it knows. Neither a powerful
 cognitive label nor an underdetermined cognitive field is sufficient for Path-science.
 
@@ -330,7 +324,7 @@ position
 relations
     bodily part
     member of sentient continuum
-    separable from faculties
+    separable from Faculties
 
 transition
     begins and ceases under specified state changes
@@ -344,7 +338,7 @@ access condition
 
 Meaning does not arise by replacing breath with a dictionary gloss or by
 appropriating it as “mine.” It emerges through the system of determinations
-that make this process what it is and specify how Prajñā can apprehend it. The
+that make this process what it is and specify how discriminative comprehension can apprehend it. The
 Path does not arbitrarily create the cognitive field; it discriminates the lawful
 relations already required for adequate knowing.
 

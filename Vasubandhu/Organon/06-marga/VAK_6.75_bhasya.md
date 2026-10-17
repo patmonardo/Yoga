@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > mārgaś ca dravyatas tu dve śraddhā śīlaṃ ca nirmalāḥ |
->
 > noktā vimuktiḥ śaikṣāṅgaṃ baddhatvāt sā punar dvidhā || 6.75 ||
 
-> Dharma includes the Path. The four verified confidences are two in substance—confidence and ethical discipline—and are stainless. Liberation is no factor of the trainee, who remains bound; for one beyond training, it is twofold: the unconditioned abandonment of afflictions and conditioned liberative determination.
+> The Path as well [is included]. By constituent dharma, however, [the four confidences are] two: confidence and ethical discipline; they are stainless. Liberation is not named as a trainee factor because of bondage; it is twofold.
 
 Kārikā study: [VAK_6.75.md](./VAK_6.75.md). The opening continues 6.74's confidence analysis; the discussion of liberation continues in 6.76.
 

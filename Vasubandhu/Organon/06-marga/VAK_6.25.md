@@ -23,7 +23,7 @@ laukikebhyo 'gradharmebhyo dharmakṣāntir anāsravā || 6.25 ||
 | **ākṣipyate** | third-person singular present passive from *ā-√kṣip* | is projected, planted, or initiated |
 | **nṛṣu** | masculine locative plural | among human beings |
 | **laukikebhyaḥ agra-dharmebhyaḥ** | masculine ablative plural | immediately from or after the Highest Mundane Dharmas |
-| **dharma-kṣāntiḥ** | feminine nominative singular compound | Dharma-Acceptance; expanded by the Bhāṣya as Dharma-Knowing-Acceptance |
+| **dharma-kṣāntiḥ** | feminine nominative singular compound | Dharma-Acceptance; expanded by the Bhāṣya as Dharma-Knowledge-Acceptance |
 | **anāsravā** | feminine nominative singular | uncontaminated, without outflows; agreeing with *dharmakṣāntiḥ* |
 
 ```text
@@ -55,7 +55,7 @@ uncontaminated Dharma-Acceptance
 ROOT[NAME=liberation-conducive, FORMATION=hearing+reflection,
      ACTION=bodily|verbal|mental, FIRST-LOCI=humans]
   ← śrutacintāmayaṃ trīṇi karmāṇy ākṣipyate nṛṣu
-PATH-MOMENT[NAME=Dharma-Knowing-Acceptance, PURITY=uncontaminated,
+PATH-MOMENT[NAME=Dharma-Knowledge-Acceptance, PURITY=uncontaminated,
             PRECEDING=Highest-Mundane-Dharmas, SUCCESSION=immediate]
   ← laukikebhyo 'gradharmebhyo dharmakṣāntir anāsravā
 ```
@@ -73,21 +73,9 @@ Condition, and its status as entry into the determinate Noble order.
 
 ### Bhāṣya-informed study translation
 
-> The root conducive to liberation is hearing-born or reflection-born and
-> can be projected through bodily, verbal, and mental action, with mental
-> action foremost; it first arises among humans. Immediately after the
-> Highest Mundane Dharmas, uncontaminated Dharma-Knowing-Acceptance arises
-> with desire-realm suffering as its cognitive Condition. This first Noble
-> Path moment is entry into determinate rightness, and with its arising
-> the practitioner is called a Noble Person.
-
-### Translation note
-
-The Bhāṣya supplies mental-action primacy, the desire-realm suffering
-Condition, the expanded name `dharmajñānakṣānti`, entry into determinate
-rightness, and the resulting Noble status. It reports three accounts of
-what displaces ordinary-person status; those remain attributed separately
-in the continuous translation.
+> The root conducive to liberation is hearing-born or reflection-born, involves
+> the three actions, and is projected among humans. After the Highest Mundane
+> Dharmas, uncontaminated Dharma-Knowledge-Acceptance arises.
 
 ## 6. Philosophical Translation
 
@@ -105,7 +93,7 @@ The wholesome root conducive to liberation: formed through hearing and reflectio
 
 The final mundane preparation. Dharma-Acceptance follows immediately: the threshold from mundane to uncontaminated.
 
-**`Dharmajñānakṣānti` — Dharma-Knowing-Acceptance**
+**`Dharmajñānakṣānti` — Dharma-Knowledge-Acceptance**
 
 The kārikā's *dharmakṣānti*, already uncontaminated but not identical with the Knowing that follows it. Related to it as flower to fruit. Its cognitive Condition is desire-realm suffering.
 
@@ -145,7 +133,7 @@ The Bhāṣya coordinates four transformations in one arising:
 
 ```text
 temporal:     immediately after the final mundane moment
-cognitive:    Dharma-Knowing-Acceptance
+cognitive:    Dharma-Knowledge-Acceptance
 purity:       uncontaminated
 practitioner: ordinary person → Noble Person
 ```
@@ -155,6 +143,13 @@ This is a prepared discontinuity in its complete form. The long causal preparati
 In Organon terms, explicitly as project synthesis, the **Ideal Copula becomes Path-entry**: the cultivated relation between Truth, cognitive Condition, aspiration, and practice no longer merely prepares Meaning; it becomes an uncontaminated operation whose arising determines both what is seen and who the practitioner now is within the Path.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya supplies mental-action primacy, the desire-
+realm suffering Condition, the expanded name `dharmajñānakṣānti`, entry into
+determinate rightness, and the resulting Noble status. It reports three
+accounts of what displaces ordinary-person status; those remain attributed
+separately in the continuous translation.
+
 
 VAK 6.24 completed the architecture of preparation. VAK 6.25 crosses its boundary. The movement from the Highest Mundane Dharmas to Dharma-Acceptance is immediate, yet it is not a smooth identity. *Laukika* and *anāsrava* name a qualitative difference in Path-status.
 
@@ -168,8 +163,8 @@ The kārikā states the constitution and human projection of the liberation-cond
 
 ```text
 Class: LiberationConduciveRoot
-Class: HearingBornPrajñā
-Class: ReflectionBornPrajñā
+Class: HearingBorndiscriminative comprehension
+Class: ReflectionBorndiscriminative comprehension
 Class: BodilyAction
 Class: VerbalAction
 Class: MentalAction
@@ -193,8 +188,8 @@ ObjectProperty: constitutesEntryInto
 ObjectProperty: transformsStatusTo
 
 LiberationConduciveRoot Facts:
-  formedThrough HearingBornPrajñā
-  formedThrough ReflectionBornPrajñā
+  formedThrough HearingBorndiscriminative comprehension
+  formedThrough ReflectionBorndiscriminative comprehension
   expressedThrough BodilyAction
   expressedThrough VerbalAction
   expressedThrough MentalAction

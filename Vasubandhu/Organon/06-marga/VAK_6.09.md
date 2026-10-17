@@ -33,10 +33,7 @@ counter-presentation for all forms of bodily desire.
 | `śaṃkalā` | nominative singular feminine | skeletal framework or skeleton |
 | `sarva-rāgiṇām` | genitive plural masculine | for all those affected by desire |
 
-```text
-tatra | avatāraḥ | aśubhayā | ca | ānāpāna-smṛtena | ca |
-adhi-rāga-vitarkāṇām | śaṃkalā | sarva-rāgiṇām
-```
+
 
 The two instrumental forms state means of entry. The Bhāṣya distributes them
 diagnostically rather than cumulatively: `aśubha` for the desire-dominant and
@@ -113,23 +110,11 @@ future representation of that distribution, not an executable source grammar.
 > thought [respectively]. The skeleton is [the support] for all those affected
 > by desire.
 
-### Literal translation note
-
-The respective distribution and the supplied support relation are fixed by the
-Bhāṣya.
-
 ### Bhāṣya-informed study translation
 
-> Entry into cultivation is through contemplation of the unattractive for
-> those dominated by desire, and through recollection of breathing for those
-> dominated by discursive thought. For every kind of bodily desire, the
-> skeleton serves as a common contemplative support.
-
-### Translation note
-
-Suitability of the practitioner, the diagnostic types, the differentiated
-forms of desire, and the suppression/abandonment boundary are supplied by the
-Bhāṣya.
+> Entry is through the unattractive and through recollection of breathing,
+> respectively for those dominated by desire and by discursive thought. For
+> all who are affected by desire, the skeleton is [the contemplative support].
 
 ## 6. Philosophical Translation
 
@@ -297,6 +282,9 @@ CounteractiveEfficacy
 ```
 
 ## 9. Interpretive Note
+
+
+**Translation note.** The Bhāṣya fixes the respective suitability of practitioners and the skeleton support for all forms of bodily desire; its diagnostic categories distinguish suppression from abandonment.
 
 **Path-entry is diagnostic.** A common liberating end does not entail one
 identical first practice. The counterforce must correspond to the obstruction

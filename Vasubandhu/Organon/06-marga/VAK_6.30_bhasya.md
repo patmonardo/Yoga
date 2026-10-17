@@ -3,16 +3,12 @@
 ## 1. Kārikā Anchor
 
 > yāvat pañcaprakāraghnau dvitīye 'rvāṅ navakṣayāt |
->
 > kāmād viraktāv ūrdhvaṃ vā tṛtīyapratipannakau || 6.30 ||
 
-> The Faith-Follower and Dharma-Follower still proceed toward stream-entry
-> if a mundane path had previously abandoned no more than five grades of
-> desire-realm affliction. If it had abandoned six, seven, or eight grades,
-> they proceed toward once-return. If all nine desire-realm grades have
-> been abandoned, or detachment extends higher, they proceed toward
-> non-return. Their fifteen-moment Path of Seeing remains the same;
-> the prior degree of detachment determines the fruit approached.
+> When no more than five grades have been destroyed, the two remain candidates
+> for the first fruit; after six to eight grades, they are candidates for the
+> second [fruit]. When detached from desire, or from a higher realm, they are
+> candidates for the third [fruit].
 
 The commentary maps prior mundane abandonment to the fruit each follower
 approaches within the same Path of Seeing.

@@ -64,11 +64,7 @@ FACULTY-CHANGE[TARGET=akopya-gotra, PRIOR=mṛdvindriya-gotra]
 
 ### Bhāṣya-informed study translation
 
-> If an arhat falls from the fruit, the fall neither ends in death nor permits conduct opposed to that fruit. Reaching the unshakeable disposition requires nine uninterrupted Paths and nine liberation Paths, because the former faculty disposition has been deeply habituated.
-
-### Translation note
-
-The first half continues the Vaibhāṣika account of possible fruit-regression, contested by the non-regression speaker in 6.58–59. The Bhāṣya distributes **nava** to each Path type and explains **atisevanāt** by the firmness acquired through trainee and beyond-training practice. The running witness reads `navokopye`, while the study normalizes `navākopye` in the continuous verse.
+> One fallen from the fruit neither dies nor performs what is incompatible with it. Becoming unshakeable requires nine liberation Paths and nine uninterrupted Paths, through deep habituation.
 
 ## 6. Philosophical Translation
 
@@ -204,6 +200,9 @@ higher mediation
 Path-memory is therefore neither indestructibility of every attained state nor passive residue. It is a formed rule of what can happen next.
 
 ## 9. Interpretive Note
+
+**Translation note.** The first half continues the Vaibhāṣika account of possible fruit-regression, contested by the non-regression speaker in 6.58–59. The Bhāṣya distributes **nava** to each Path type and explains **atisevanāt** by the firmness acquired through trainee and beyond-training practice. The running witness reads `navokopye`, while the study normalizes `navākopye` in the continuous verse.
+
 
 VAK 6.60 makes the earlier claim that *indriya* is a morphology fully concrete. Repeated Path-action forms a stable configuration of possible action. Even when the highest fruit is lost in the Vaibhāṣika scheme, the practitioner cannot act as though the Path had never occurred; and because the existing morphology is deeply established, changing it requires an equally articulated Path-process.
 

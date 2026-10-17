@@ -58,7 +58,7 @@ NON-RETURNER[CESSATION-ATTAINMENT=acquired]
 
 The verse supplies the correspondence and designation. The prose
 specifies the contaminated rebirth cause and the ordered relation of
-attainment and later Knowing.
+attainment and later knowledge.
 
 ## 5. Translation
 
@@ -70,22 +70,13 @@ attainment and later Knowing.
 
 ### Bhāṣya-informed study translation
 
-> Five grades of intermingled cultivation correspond in order to five Pure-Abode rebirths; the contaminated portion of the cultivation conditions those births. A non-returner who has attained cessation is called a bodily witness. Cognition is absent during that attainment; on emerging, the practitioner receives unprecedented bodily peace and knows the cessation to be peaceful and like Nirvāṇa.
-
-### Translation note
-
-The Bhāṣya gives the three-to-fifteen *citta* counts, assigns rebirth
-to the contaminated component, and reports an alternative faculty
-account of the number five. It first explains bodily witnessing through
-the bodily basis during cessation, then refines the explanation through
-peace experienced on emergence and Knowing. The fine arithmetic of
-non-returner types remains in the continuous translation.
+> Five grades of intermingled cultivation correspond in order to five Pure-Abode rebirths. A non-returner who has attained cessation is called a bodily witness.
 
 ## 6. Philosophical Translation
 
 One cultivated form can contain distinguishable causal functions. Its uncontaminated side belongs to liberation, while its contaminated component projects the corresponding Pure-Abode existence. Their intermingling does not erase their different operations.
 
-Likewise, direct realization need not be one homogeneous conscious instant. Cessation is attained without consciousness; its transformation is borne by the bodily continuum; Cognition returns upon emergence and recognizes the unprecedented peace. Attainment and Knowing together make cessation directly present.
+Likewise, direct realization need not be one homogeneous conscious instant. Cessation is attained without consciousness; its transformation is borne by the bodily continuum; Cognition returns upon emergence and recognizes the unprecedented peace. Attainment and knowledge together make cessation directly present.
 
 ## 7. Technical Vocabulary
 
@@ -93,7 +84,7 @@ Likewise, direct realization need not be one homogeneous conscious instant. Cess
 
 The Bhāṣya grades mixed cultivation in five progressively developed forms. It gives the following consciousness-moment counts:
 
-| Grade | Number of cittas |
+| Grade | Number of consciousnesses |
 |---|---:|
 | first | 3 |
 | second | 6 |
@@ -147,14 +138,14 @@ prāpti
     attainment
 
 jñāna
-    Knowing
+    knowledge
 
 prāpti + jñāna
     → pratyakṣīkāra / sākṣātkriyā
 ```
 
 These factors need not occur as one simultaneous conscious event. In
-this case, attainment belongs to cessation without consciousness and Knowing
+this case, attainment belongs to cessation without consciousness and knowledge
 to emergence from it.
 
 **`Śaikṣa-bheda` — no additional trainee class**
@@ -210,14 +201,17 @@ In Organon terms, explicitly as project synthesis, direct presence can be the un
 
 ## 9. Interpretive Note
 
-VAK 6.43 supplies a rigorous model for keeping Seeing primary without denying Knowing. The bodily witness does not turn cessation into an object while cessation occurs. The event is first actually undergone; only upon emergence does Cognition articulate what the transformed body directly attests.
+**Translation note.** The Bhāṣya gives the three-to-fifteen *citta* counts, assigns rebirth to the contaminated component, and reports an alternative faculty account of the number five. It first explains bodily witnessing through the bodily basis during cessation, then refines the explanation through peace experienced on emergence and knowledge. The fine arithmetic of non-returner types remains in the continuous translation. On emerging, the practitioner experiences unprecedented bodily peace and recognizes the cessation as peaceful and Nirvāṇa-like; consciousness is absent during the attainment.
+
+
+VAK 6.43 supplies a rigorous model for keeping Seeing primary without denying knowledge. The bodily witness does not turn cessation into an object while cessation occurs. The event is first actually undergone; only upon emergence does Cognition articulate what the transformed body directly attests.
 
 This is more exact than opposing perception and reflection absolutely. The error is not subsequent Cognition but assigning it the constitutive work of the attainment. Here the order is irreversible:
 
 ```text
 attainment transforms
     → bodily peace is given
-    → Knowing recognizes
+    → knowledge recognizes
 ```
 
 The fivefold correspondence and bodily-witness designation belong to the kārikā. The consciousness-moment counts, contaminated rebirth-cause, alternative faculty account, cessation without consciousness, retrospective explanation, definition of direct realization, and classificatory qualification belong to the Bhāṣya. The formulation of reflection as recognition rather than constitution of attained truth is Organon synthesis.
@@ -236,7 +230,7 @@ Class: BodilyWitness
 Class: BodilyTranquility
 Class: Attainment
   SanskritLabel: prāpti
-Class: Knowing
+Class: Knowledge
   SanskritLabel: jñāna
 Class: DirectRealization
   SanskritLabel: sākṣātkriyā
@@ -256,13 +250,13 @@ ContaminatedComponent causesRebirthIn PureAbode
 NonReturner attains AttainmentOfCessation
 AttainmentOfCessation supportedBy BodilyContinuum
 BodilyWitness emergesWith BodilyTranquility
-Knowing recognizes BodilyTranquility
+Knowledge recognizes BodilyTranquility
 Attainment jointlyConstitutes DirectRealization
-Knowing jointlyConstitutes DirectRealization
+Knowledge jointlyConstitutes DirectRealization
 
 KārikāRule: Fivefold mixed cultivation corresponds to five Pure-Abode rebirths.
 KārikāRule: A non-returner possessing cessation attainment is a bodily witness.
 BhāṣyaRule: Cognition is absent during cessation and recognizes bodily tranquility upon emergence.
-BhāṣyaRule: Direct realization is making-present through attainment and Knowing.
+BhāṣyaRule: Direct realization is making-present through attainment and knowledge.
 ProjectRule: ReflectiveRecognition articulates but does not constitute the prior attained transformation.
 ```

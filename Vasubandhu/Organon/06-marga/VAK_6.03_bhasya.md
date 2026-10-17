@@ -3,13 +3,11 @@
 ## 1. Kārikā Anchor
 
 > duḥkhās tri-duḥkhatā-yogād yathāyogam aśeṣataḥ |
->
 > manāpā amanāpāś ca tadanye caiva sāsravāḥ || 6.3 ||
 
-> All contaminated formations are suffering without exception, each according
-> to its connection with the three modes of suffering: the agreeable through
-> transformation, the disagreeable through pain, and the others through their
-> conditioned formation.
+> All formations with influx are suffering, without remainder, through
+> connection with threefold suffering as applicable: the agreeable, the
+> disagreeable, and the others.
 
 The Bhāṣya supplies the three specific assignments. Its subsequent argument
 explains why formation-suffering reaches the whole contaminated field and why
@@ -336,8 +334,8 @@ This is the complete running unit at [328|23–333|02] in `Vasubandhu/Sources/ko
 > A hair on the palm is not felt; the same hair in the eye breeds unrest and
 > hurt. The fool is the palm and does not know the hair of formation-suffering.
 > The knower is the eye and is sharply shaken by that same hair. Ordinary people
-> do not form a suffering-cognition toward even the aggregates of Avīci as the
-> noble ones do toward the aggregates at the summit of existence.
+> do not form a suffering-cognition toward even the Bases of Avīci as the
+> noble ones do toward the Bases at the summit of existence.
 >
 > Then the path too should be formation-suffering, because it is conditioned?
 > No. Suffering is what is *adverse*. The arising of the path is not adverse to
@@ -357,7 +355,7 @@ This is the complete running unit at [328|23–333|02] in `Vasubandhu/Sources/ko
 > impermanence draws forth the aspect of suffering.
 > Yet suffering is not merely another name for the cause of later pain: that
 > would describe an aspect of origin, not the aspect of suffering. The nobles
-> can see suffering even in form and formless rebirth, where the aggregates
+> can see suffering even in form and formless rebirth, where the Bases
 > are not causes of painful feeling for them. Thus the separately named
 > formation-suffering retains its work. Impermanence means arising and
 > passing; suffering means adversity. Seeing the former draws forth the

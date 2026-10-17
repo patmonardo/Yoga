@@ -3,15 +3,11 @@
 ## 1. Kārikā Anchor
 
 > so 'ntarotpanna-saṃskārāsaṃskāra-parinirvṛtiḥ |
->
 > ūrdhvasrotāś ca sa dhyāne vyavakīrṇo 'kaniṣṭhagaḥ || 6.37 ||
 
-> The non-returner completes the course in one of five ways: in an
-> intermediate existence, soon after rebirth, through renewed effort,
-> without renewed effort, or by an upward-moving stream through higher
-> existences. The upward-streamer whose dhyāna is intermingled goes to
-> Akaniṣṭha and reaches final Nirvāṇa there; the commentary distinguishes
-> this course by its meditative cause and its furthest destination.
+> The non-returner reaches final Nirvāṇa in the intermediate state, after
+> arising, with exertion, or without exertion; that one is also an upward-
+> streamer. With intermingled dhyāna, the upward-streamer goes to Akaniṣṭha.
 
 The verse expands one attained fruit into five modes of final completion
 and specifies the intermingled-dhyāna upward course.

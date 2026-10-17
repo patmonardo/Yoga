@@ -3,14 +3,11 @@
 ## 1. Kārikā Anchor
 
 > yatra bhinnena tadbuddhir anyāpohe dhiyā ca tat |
->
 > ghaṭārthavat saṃvṛtisat paramārthasad anyathā || 6.4 ||
 
-> What is conventionally real loses its distinct cognition when its parts are
-> divided, as a pot loses pot-cognition when broken into shards, or when other
-> dharmas are excluded in thought, as water loses water-cognition. What is
-> ultimately real is otherwise: its own-nature cognition remains through such
-> division or exclusion, as with visible form and feeling.
+> Where, upon division or mental exclusion of other things, cognition of that
+> no longer arises, that is conventionally real, as with the meaning “pot”;
+> ultimately real is otherwise.
 
 The pot illustrates physical division; water illustrates cognitive exclusion.
 The Bhāṣya supplies the converse test for ultimate reality and retains truth

@@ -31,10 +31,7 @@ of desire centered on both “mine” and “I.”
 | `mama-ahaṃkāra-vastu-icchā` | compound with nominative singular feminine head | desire concerning the bases of mine-making and I-making |
 | `tat-kāla-atyanta-śāntaye` | dative singular compound | for pacification at the present time and final pacification |
 
-```text
-karmāntena | tribhiḥ | vṛttiḥ | tṛṣṇā-utpāda-vipakṣataḥ |
-mama-ahaṃkāra-vastu-icchā | tat-kāla-atyanta-śāntaye
-```
+
 
 The opening is compressed and is resolved by the Bhāṣya as a distributive
 three-plus-one construction:
@@ -127,23 +124,11 @@ they are not an executable grammar or source terminology.
 > present and final pacification of desire concerning bases of mine-making
 > and I-making.
 
-### Literal translation note
-
-The bracketed distribution follows the Bhāṣya's explicit resolution of the
-kārikā's ellipsis.
-
 ### Bhāṣya-informed study translation
 
-> Three noble lineages sustain livelihood through contentment with robes,
-> alms-food, and lodging; the fourth makes abandonment and cultivation the
-> practitioner's work. Together they counter four ways thirst arises. The
-> first three presently quiet desire for what is made “mine”; the fourth aims
-> to end desire for both “mine” and the existence made “I.”
-
-### Translation note
-
-The livelihood/work distinction, the four thirsts, and the allocation of
-present and final pacification are supplied by the Bhāṣya.
+> Through the three there is livelihood, and through the fourth, work, as
+> counterforces to the arising of thirst. They are for the present and
+> complete pacification of desire concerning the bases of “mine” and “I.”
 
 ## 6. Philosophical Translation
 
@@ -296,6 +281,9 @@ BoundedLivelihood
 ```
 
 ## 9. Interpretive Note
+
+
+**Translation note.** The Bhāṣya resolves the compressed three-plus-one livelihood/work relation and names four occasions for thirst: robes, alms-food, lodging, and existence or non-existence. The first three pacify desire for “mine” presently; the fourth addresses both “mine” and “I” finally.
 
 **Renunciation is not inactivity.** The reduction of material demand defines
 `vṛtti`, not the whole Path. The fourth lineage assigns a positive `karma`:

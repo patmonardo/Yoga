@@ -72,21 +72,9 @@ come from the commentary.
 
 ### Bhāṣya-informed study translation
 
-> The non-returner completes the course in one of five ways: in an
-> intermediate existence, soon after rebirth, through renewed effort,
-> without renewed effort, or by an upward-moving stream through higher
-> existences. The upward-streamer whose dhyāna is intermingled goes to
-> Akaniṣṭha and reaches final Nirvāṇa there; the commentary distinguishes
-> this course by its meditative cause and its furthest destination.
-
-### Translation note
-
-The Bhāṣya unfolds four compressed designations and adds the
-upward-streamer as a fifth. It reads the effort distinction in terms
-of Path application, rejects an alternative based on conditioned and
-unconditioned cognitive Conditions, and specifies the intermingled
-dhyāna case by Akaniṣṭha as its endpoint. The contrasting upward-stream
-case belongs to the following verse.
+> The non-returner reaches final Nirvāṇa in the intermediate state, after
+> arising, with exertion, or without exertion; that one is also an upward-
+> streamer. With intermingled dhyāna, the upward-streamer goes to Akaniṣṭha.
 
 ## 6. Philosophical Translation
 
@@ -209,6 +197,14 @@ attained fruit
 In Organon terms, explicitly as project synthesis, a completed domain-transcendence establishes the invariant direction, but it does not erase the morphology of the remaining movement. One End can ground several objectively distinct courses toward final completion.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya unfolds four compressed designations and adds
+the upward-streamer as a fifth. It reads the effort distinction in terms of
+Path application, rejects an alternative based on conditioned and
+unconditioned cognitive Conditions, and specifies the intermingled dhyāna case
+by Akaniṣṭha as its endpoint. The contrasting upward-stream case belongs to
+the following verse.
+
 
 VAK 6.36 showed that destruction of the final desire-realm grade eliminates return to that domain. VAK 6.37 prevents us from mistaking that negative determination for an empty beyond. The non-returner's continuum remains positively differentiated by its Path-current, effort, meditative history, and destination.
 

@@ -3,16 +3,11 @@
 ## 1. Kārikā Anchor
 
 > śrutacintāmayaṃ trīṇi karmāṇy ākṣipyate nṛṣu |
->
 > laukikebhyo 'gradharmebhyo dharmakṣāntir anāsravā || 6.25 ||
 
-> The root conducive to liberation is hearing-born or reflection-born and
-> can be projected through bodily, verbal, and mental action, with mental
-> action foremost; it first arises among humans. Immediately after the
-> Highest Mundane Dharmas, uncontaminated Dharma-Knowing-Acceptance arises
-> with desire-realm suffering as its cognitive Condition. This first Noble
-> Path moment is entry into determinate rightness, and with its arising
-> the practitioner is called a Noble Person.
+> The root conducive to liberation is hearing-born or reflection-born, involves
+> the three actions, and is projected among humans. After the Highest Mundane
+> Dharmas, uncontaminated Dharma-Knowledge-Acceptance arises.
 
 The Bhāṣya completes the account of the earlier root and then identifies
 the first uncontaminated moment after the final mundane preparation.

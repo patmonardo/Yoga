@@ -3,16 +3,9 @@
 ## 1. Kārikā Anchor
 
 > parihāṇis tridhā jñeyā prāptāprāptopabhogataḥ |
->
 > antyā śāstur akopyasya madhyā cānyasya tu tridhā || 6.59 ||
 
-> “Falling away” can mean losing a quality already attained,
-> failing to acquire a further attainable quality, or not bringing
-> an attained quality into present use. The Buddha is subject only
-> to the third; the immovable arhat may also miss a further special
-> quality; another arhat may be described under all three. These
-> senses separate loss of possession from missed development and
-> from a pause in manifestation.
+> Falling away is to be understood in three ways: from what has been attained, from what remains unattained but attainable, and from the use of what is attained. The Teacher has the last; the immovable arhat has the middle as well; another arhat has all three.
 
 The three meanings concern possession, further attainment, and the
 present use of a quality. The closing response continues the dispute

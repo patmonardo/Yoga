@@ -25,7 +25,7 @@ they are directly realized.
 | `satyāni` | nominative plural neuter of `satya` | truths |
 | `uktāni` | nominative plural neuter past passive participle of `√vac` | have been stated |
 | `catvāri` | nominative plural neuter | four |
-| `duḥkham` | nominative singular neuter | suffering; the afflicted appropriated aggregates as result |
+| `duḥkham` | nominative singular neuter | suffering; the afflicted appropriated Bases as result |
 | `samudayaḥ` | nominative singular masculine | arising or origin; the afflicted complex as cause |
 | `tathā` | indeclinable connective | likewise, and |
 | `nirodhaḥ` | nominative singular masculine | cessation |
@@ -35,10 +35,7 @@ they are directly realized.
 | `yathā-abhisamayam` | adverbial compound | according to direct realization |
 | `kramaḥ` | nominative singular masculine | order, sequence |
 
-```text
-satyāni | uktāni | catvāri | duḥkham | samudayaḥ | tathā |
-nirodhaḥ | mārgaḥ | iti | eṣām | yathā-abhisamayam | kramaḥ
-```
+
 
 `Yathābhisamayam` determines the kind of order asserted. The Bhāṣya glosses
 `abhisamaya` with `abhisaṃbodha`, direct or complete awakening-knowing, and
@@ -88,9 +85,9 @@ its cause.
 
 ### Bhāṣya-informed study translation
 
-> Four truths have been taught: suffering, its origin, cessation, and the Path.
-> They are set out in the order of direct realization: suffering is examined
-> first, then its cause, then its cessation, and finally the Path to cessation.
+> The four truths have been taught: suffering, its origin, cessation, and the
+> Path. Their order follows direct realization: suffering, its origin,
+> cessation, and then the Path.
 
 ## 6. Philosophical Translation
 
@@ -122,7 +119,7 @@ difference lies in whether they are seen according to reality.
 
 **`Duḥkha-satya` — truth of suffering**
 
-The appropriated aggregates insofar as they are result. It comes first because
+The appropriated Bases insofar as they are result. It comes first because
 the practitioner initially examines that in which one is situated, by which
 one is afflicted, and from which one seeks release.
 
@@ -193,7 +190,7 @@ The title concerns adequacy of seeing, not a knower-relative truth.
 
 **`Phala-hetu-bhāva` — result-and-cause relation**
 
-The Bhāṣya determines appropriated aggregates as suffering when result and
+The Bhāṣya determines appropriated Bases as suffering when result and
 as origin when cause. This is a difference of designation, `nāmato`, rather
 than two distinct entities, `dravyataḥ`; cessation and Path differ in reality
 as well.

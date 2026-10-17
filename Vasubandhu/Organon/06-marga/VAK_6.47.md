@@ -70,20 +70,7 @@ new range claim of 6.47.
 
 ### Bhāṣya-informed study translation
 
-> One partly freed from the summit does not reacquire its afflictions
-> when the supramundane attainment of separation is relinquished;
-> likewise, someone reborn above the first dhyāna does not reacquire
-> desire-realm afflictions after losing a mundane attainment. An
-> uncontaminated Path supported by the preliminary concentration
-> *anāgamya* can bring dispassion from every ground through the summit.
-
-### Translation note
-
-The first half repeats the counterexamples whose explanation closes
-6.46. The Bhāṣya glosses `sarvataḥ` as `ābhavāgrāt`, extending the
-second half's range through the summit. The compressed first compound
-and the prose's `ardha prakāra` remain open for textual collation; the
-study does not force a numeric reading of “half.”
+> As with one partly dispassionate from the summit of existence, or with one born higher, there is no renewed possession. Through an uncontaminated Path based on the preliminary concentration *anāgamya*, dispassion is attained from all grounds.
 
 ## 6. Philosophical Translation
 
@@ -197,6 +184,9 @@ occupy each level successively
 In Organon terms, explicitly as project synthesis, a determinate basis is the condition under which an operation becomes actual, not a boundary enclosing its semantic efficacy. The Middle can be locally grounded while relating extremes whose range exceeds that locality.
 
 ## 9. Interpretive Note
+
+**Translation note.** The first half repeats the counterexamples whose explanation closes 6.46. The Bhāṣya glosses `sarvataḥ` as `ābhavāgrāt`, extending the second half's range through the summit. The compressed first compound and the prose's `ardha prakāra` remain open for textual collation; the study does not force a numeric reading of “half.” The examples are a practitioner partly dispassionate from the summit, who does not regain its afflictions on relinquishing the supramundane attainment, and one reborn above the first dhyāna, who does not regain desire-realm afflictions on losing a mundane attainment. The compound behind ‘partly’ remains textually open.
+
 
 VAK 6.47 joins two apparently separate claims through one principle: the actual Path-relation is richer than a one-to-one mapping among state, basis, and result. One acquisition can disappear without erasing its accomplished content; one local ground can support an operation extending beyond that ground.
 

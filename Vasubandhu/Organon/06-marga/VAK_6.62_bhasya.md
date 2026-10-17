@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > saviśeṣaṃ phalaṃ tyaktvā phalam āpnoti vardhayan |
->
 > dvau buddhau śrāvakāḥ sapta navaite navadhendriyāḥ || 6.62 ||
 
-> One who strengthens the faculties relinquishes the fruit together with its weak-faculty Path and gains the fruit with a sharp-faculty Path. By their nine grades of faculty, the persons so distinguished are two Buddhas and seven disciples.
+> One who strengthens the faculties relinquishes the fruit together with its weak-faculty Path and attains the fruit with a sharp-faculty Path. By their nine faculty-grades, these persons are two Buddhas and seven disciples.
 
 The first half supplies the reason opened by `yataḥ` in 6.61; the second classifies persons by faculty grade.
 

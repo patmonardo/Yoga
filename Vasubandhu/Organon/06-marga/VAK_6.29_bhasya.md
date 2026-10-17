@@ -3,16 +3,12 @@
 ## 1. Kārikā Anchor
 
 > mṛdutīkṣṇendriyau teṣu śraddhādharmānusāriṇau |
->
 > ahīnabhāvanāheyau phalādyapratipannakau || 6.29 ||
 
-> During the fifteen moments of the Path of Seeing, a practitioner of gentle
-> faculty is a Faith-Follower, one who previously followed Meaning through
-> another's assurance. A practitioner of sharp faculty is a Dharma-Follower,
-> one who previously followed Meaning independently through the sūtras and
-> other dharmas. If neither has already abandoned cultivation-abandonable
-> afflictions through a mundane path, both remain fully bound and proceed
-> toward the first fruit, stream-entry.
+> Among these [fifteen moments], practitioners with mild and sharp Faculties are
+> respectively Faith-Followers and Dharma-Followers; neither has exhausted
+> afflictions abandoned through cultivation, and both are candidates for the
+> first fruit.
 
 The commentary classifies two practitioners within the same Seeing sequence
 by faculty, earlier access to Meaning, and prior abandonment.

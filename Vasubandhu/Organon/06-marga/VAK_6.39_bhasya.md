@@ -3,15 +3,11 @@
 ## 1. Kārikā Anchor
 
 > punas trīṃs trividhān kṛtvā nava rūpopagāḥ smṛtāḥ |
->
 > tad-viśeṣaḥ punaḥ karma-kleśendriya-viśeṣataḥ || 6.39 ||
 
-> Three form-going non-returner types—those completing in an
-> intermediate existence, after rebirth, or along an upward course—are
-> each divided three ways, yielding nine. Their different trajectories
-> depend on when accumulated karma bears fruit, how strongly residual
-> afflictions manifest, and the strength of the practitioner's faculty:
-> milder affliction accompanies stronger faculty, and conversely.
+> By dividing the three types into three again, nine Form-going non-returners
+> are reckoned. Their further distinctions are due to differences in karma,
+> affliction, and Faculty.
 
 The source supplies both halves of 6.39: a three-by-three count of
 form-going non-returners and the grounds of their differentiation.

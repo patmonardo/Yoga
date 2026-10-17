@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > tad-pāñcavidhyāt pañcaiva śuddhāvāsopapattayaḥ |
->
 > nirodha-lābhy anāgāmī kāya-sākṣī punar mataḥ || 6.43 ||
 
-> Five grades of intermingled cultivation correspond in order to five Pure-Abode rebirths; the contaminated portion of the cultivation conditions those births. A non-returner who has attained cessation is called a bodily witness. Cognition is absent during that attainment; on emerging, the practitioner receives unprecedented bodily peace and knows the cessation to be peaceful and like Nirvāṇa.
+> Five grades of intermingled cultivation correspond in order to five Pure-Abode rebirths. A non-returner who has attained cessation is called a bodily witness.
 
 The commentary relates five cultivation grades to five rebirths,
 explains the bodily witness, and then distinguishes the coarse

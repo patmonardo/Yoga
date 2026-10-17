@@ -3,15 +3,11 @@
 ## 1. Kārikā Anchor
 
 > akṣīṇa-bhāvanā-heyaḥ phalasthaḥ saptakṛt-paraḥ |
->
 > tri-catur-vidha-muktas tu dvi-tri-janmā kulaṃkulaḥ || 6.34 ||
 
-> A stream-enterer established in the first fruit with even one
-> cultivation-abandonable grade remaining is seven-at-most: seven bounds
-> further births without requiring them all. One who has abandoned three or
-> four grades is family-to-family, with two or three births remaining. The
-> stream is the Path toward Nirvāṇa, which ends suffering by removing the
-> obstruction to Nirvāṇa's attainment.
+> One established in the fruit with cultivation-abandonable afflictions not
+> exhausted has at most seven births; one freed from three or four grades has
+> two or three births and is family-to-family.
 
 The verse differentiates positions within the first fruit by residual
 cultivation-work and the bounds of future birth.

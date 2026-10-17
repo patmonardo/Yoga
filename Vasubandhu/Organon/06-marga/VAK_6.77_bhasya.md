@@ -5,10 +5,9 @@ Vajropama is the last Śaikṣa instant. Not a slogan.
 ## 1. Kārikā Anchor
 
 > vimucyate jāyamānam aśaikṣaṃ cittam āvṛteḥ |
->
 > nirudhyamāno mārgas tu prajahāti tad-āvṛtim || 6.77 ||
 
-> The Aśaikṣa mind, as it arises, is freed from the obstruction: the acquisition of the afflictions, which would block its arising. The Path, while ceasing—that is, while still present as the diamond-like samādhi—abandons that obstruction. So the mind that arises is released, and once arisen it is already free.
+> The consciousness beyond training, as it arises, is freed from the obstruction; but the Path, while present at its cessation, abandons that obstruction.
 
 Kārikā study: [`VAK_6.77.md`](./VAK_6.77.md). Next: 6.78.
 
@@ -57,7 +56,7 @@ type Cut = { now: "prahana"; next: "vimukti" };
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source 388|21–389|10.
+Upgrade against kārikā Literal, running source 388|21–389|10.
 Verse-English from [`VAK_6.77.md`](./VAK_6.77.md) §5 Literal. Culmination.
 Written under `Vasubandhu/Organon/`.
 Next: 6.78.

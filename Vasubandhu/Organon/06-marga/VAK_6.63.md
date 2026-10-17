@@ -33,10 +33,7 @@ The verse does not present seven serial stages. The Bhāṣya derives seven desi
 | **mārga-traye** | masculine locative singular compound | in the three Paths |
 | **yataḥ** | causal relative/adverb | because |
 
-```text
-prayoga-akṣa-samāpatti-vimukti-ubhayataḥ | kṛtāḥ |
-pudgalāḥ | sapta | ṣaṭ | tu | ete | dvau | dvau | mārga-traye | yataḥ
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `prayoga-akṣa-samāpatti-vimukti-ubhayataḥ · kṛtāḥ · pudgalāḥ · sapta · ṣaṭ · tu · ete · dvau · dvau · mārga-traye · yataḥ`; individual forms and compounds are analyzed in the rows above |
 
 The three Paths are Seeing, cultivation, and beyond-training. The Bhāṣya's local contrast **nāmataḥ / dravyataḥ** concerns designation versus non-duplicated actual classification; it does not posit substantial selves.
 
@@ -77,11 +74,7 @@ NAME-COUNT[7] ≠ PATH-POSITION-COUNT[6]
 
 ### Bhāṣya-informed study translation
 
-> Seven noble-person names arise according to application, faculty, meditative attainment, liberation, or attainment and liberation together. Yet they mark six positions in the Path: the same two lines appear under changing names in Seeing, cultivation, and beyond-training.
-
-### Translation note
-
-The Bhāṣya glosses **akṣa** by **indriya**, faculty. Its contrast **nāmataḥ / dravyataḥ** gives seven names but six in a Path-based reckoning; “actual” need not posit a substantial self. The final prose extends this reckoning into much larger counts. `Kāyasākṣin` is grounded in direct realization of cessation-attainment, while the closing pair beyond training is `samayavimukta / asamayavimukta`.
+> Seven persons are designated by application, faculty, meditative attainment, liberation, or attainment and liberation together; yet these are six, because there are two in each of the three Paths.
 
 ## 6. Philosophical Translation
 
@@ -131,7 +124,7 @@ mild faculties
     → śraddhādhimukta
 
 sharp faculties
-    + predominance of wisdom
+    + predominance of discriminative comprehension
     → dṛṣṭiprāpta
 ```
 
@@ -148,7 +141,7 @@ Because this designation arises from an attainment-axis, it cross-cuts the paire
 ```text
 liberation
     → prajñāvimukta
-      wisdom-liberated
+      liberated through discriminative comprehension
 
 samāpatti + liberation
     → ubhayatobhāgavimukta
@@ -223,7 +216,7 @@ classifyBy(CessationAttainment)
     → BodyWitness
 
 classifyBy(Liberation)
-    → WisdomLiberated
+    → DiscriminativeComprehensionLiberated
 
 classifyBy(AttainmentAndLiberation)
     → DoublyLiberated
@@ -259,6 +252,8 @@ The *kāyasākṣin* adds a cross-cutting predicate based on attainment, explain
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya glosses **akṣa** by **indriya**, faculty. Its contrast **nāmataḥ / dravyataḥ** gives seven names but six in a Path-based reckoning; “actual” need not posit a substantial self. The final prose extends this reckoning into much larger counts. `Kāyasākṣin` is grounded in direct realization of cessation-attainment, while the closing pair beyond training is `samayavimukta / asamayavimukta`.
+
 VAK 6.63 gives exact form to the claim that the individuals are the Path “in appearances.” They are not accidental illustrations appended to an already completed universal. Each person-name is the Path itself under a determinate relation: how Meaning was followed, which faculty predominates, which attainment is realized, and how liberation is possessed.
 
 In the Organon reconstruction, the two continuities are the longitudinal movement of the Path, while *kāyasākṣin* supplies a transverse determination. The resulting structure is not a simple wheel or ladder but a multidimensional morphology in which one continuum can truthfully bear different names under different relations.
@@ -280,7 +275,7 @@ Class: SeeingAttained
   SanskritLabel: dṛṣṭiprāpta
 Class: BodyWitness
   SanskritLabel: kāyasākṣin
-Class: WisdomLiberated
+Class: DiscriminativeComprehensionLiberated
   SanskritLabel: prajñāvimukta
 Class: DoublyLiberated
   SanskritLabel: ubhayatobhāgavimukta
@@ -302,7 +297,7 @@ DharmaFollower classifiedBy DharmaFollowingApplication
 FaithResolved classifiedBy MildFaculty
 SeeingAttained classifiedBy SharpFaculty
 BodyWitness directlyRealizes CessationAttainment
-WisdomLiberated classifiedBy Liberation
+DiscriminativeComprehensionLiberated classifiedBy Liberation
 DoublyLiberated classifiedBy AttainmentAndLiberation
 FaithFollower continuesAs FaithResolved
 FaithResolved continuesAs ConditionDependentLiberated

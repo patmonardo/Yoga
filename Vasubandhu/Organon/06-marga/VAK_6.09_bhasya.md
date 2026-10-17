@@ -3,13 +3,11 @@
 ## 1. Kārikā Anchor
 
 > tatrāvatāro ’śubhayā cānāpānasmṛtena ca |
->
 > adhirāgavitarkāṇāṃ śaṃkalā sarvarāgiṇām || 6.9 ||
 
-> Entry into cultivation is through contemplation of the unattractive for
-> those dominated by desire, and through recollection of breathing for those
-> dominated by discursive thought. For every kind of bodily desire, the
-> skeleton serves as a common contemplative support.
+> Entry is through the unattractive and through recollection of breathing,
+> respectively for those dominated by desire and by discursive thought. For
+> all who are affected by desire, the skeleton is [the contemplative support].
 
 The Bhāṣya distributes the two entry practices, differentiates desire's
 counter-supports, and limits the effect of unattractive contemplation to

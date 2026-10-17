@@ -72,22 +72,7 @@ alternative, and the exclusion of already abandoned lower grounds.
 
 ### Bhāṣya-informed study translation
 
-> In completing dispassion from the desire realm, first dhyāna,
-> and second dhyāna, the final liberation Path can arise from either a
-> preliminary or a fundamental concentration. Above these three
-> grounds it arises only from a fundamental concentration. The eight
-> noble uncontaminated bases—the four dhyānas, the intermediate
-> dhyāna, and three formless attainments—can bring dispassion from
-> their own and higher grounds; lower grounds are already abandoned.
-
-### Translation note
-
-`Tribhūjaya` covers dispassion through the second dhyāna, counting
-the desire realm and first dhyāna as the other two grounds. The
-Bhāṣya attributes the preliminary-support option to the difficulty
-of changing faculties, and enumerates the eight noble bases. It says
-supramundane uninterrupted and liberation Paths move in Truth-forms
-because the Truths are their cognitive Condition (`satyālambana`).
+> In conquering three grounds, the final liberation Path arises from either a dhyāna or preliminary concentration; above these, it does not arise from preliminary concentration. Through eight noble supports, dispassion is attained from their own and higher grounds.
 
 ## 6. Philosophical Translation
 
@@ -181,6 +166,9 @@ support of Path ≠ function of Path ≠ range of Path
 The higher reach of the Path is not the mere effect of occupying a higher contemplative state. It follows from an uncontaminated cognition whose operation is formed by the Truths.
 
 ## 9. Interpretive Note
+
+**Translation note.** `Tribhūjaya` covers dispassion through the second dhyāna, counting the desire realm and first dhyāna as the other two grounds. The Bhāṣya attributes the preliminary-support option to the difficulty of changing faculties, and enumerates the eight noble bases. It says supramundane uninterrupted and liberation Paths move in Truth-forms because the Truths are their cognitive Condition (`satyālambana`). The commentary explains that lower grounds are already abandoned and that the preliminary-support option addresses difficulty in changing faculties.
+
 
 This verse gives a more exact morphology of the Path than a ladder or simple wheel can represent. The Path-moment is one articulated relation: a practitioner's present faculty makes a meditative support available; that support makes noble cognition actual; the Truths determine the cognition's form; and that form performs uninterrupted or liberating work across a definite range.
 

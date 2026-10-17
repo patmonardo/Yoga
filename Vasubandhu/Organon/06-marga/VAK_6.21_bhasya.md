@@ -3,16 +3,12 @@
 ## 1. Kārikā Anchor
 
 > kāmāśrayāṇy agradharmān dvayāśrayān labhate 'ṅganā |
->
 > bhūmityāgāt tyajaty āryas tāny anāryas tu mṛtyunā || 6.21 ||
 
-> All four roots conducive to penetration have a living support in the
-> desire-realm, even when their meditative grounds lie in concentration. The
-> first three initially arise among humans and may later manifest among gods;
-> the fourth may arise among gods as well. A woman can obtain the Highest
-> Mundane Dharmas with either bodily support, while a man obtains them only
-> with male support. A Noble practitioner relinquishes the roots by leaving
-> their acquired ground; an ordinary practitioner relinquishes them at death.
+> The four roots conducive to penetration have the desire-realm as their living
+> support. A woman obtains the Highest Mundane Dharmas with both supports. A
+> Noble practitioner relinquishes them by leaving their ground; an ordinary
+> practitioner relinquishes them at death.
 
 The Bhāṣya distinguishes living support, conditions of production and
 manifestation, and status-dependent relinquishment.

@@ -3,15 +3,12 @@
 ## 1. Kārikā Anchor
 
 > prajñā śrutādimayī anye saṃsargālambanāḥ kramaḥ |
->
 > yathotpatti catuṣkaṃ tu viparyāsavipakṣataḥ || 6.15 ||
 
-> By nature, an establishment of recollection is Prajñā formed through
-> learning, reflection, or cultivation. Its associated dharmas and what it
-> takes as a cognitive Condition also receive that name. The four
-> establishments arise in the order body, feeling, consciousness, and dharmas;
-> each counters a corresponding inversion of purity, pleasure, permanence,
-> or self.
+> The establishment of recollection by nature is discriminative comprehension
+> formed from learning and the rest; the others are by association and by
+> cognitive Condition. Their order follows arising; the fourfold arrangement
+> counters the inversions.
 
 The Bhāṣya distinguishes three uses of “establishment of recollection,”
 explains the name, and separates the reasons for the order and number four.

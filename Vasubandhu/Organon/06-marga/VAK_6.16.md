@@ -33,10 +33,7 @@ Condition of the dharma establishment and specifies four aspects of seeing.
 | `tān` | accusative plural masculine pronoun | those fields beginning with body |
 | `vipaśyati` | third-person singular present of `vi-√paś` | sees distinctly |
 
-```text
-saḥ | dharma-smṛti-upasthāne | samasta-ālambane | sthitaḥ |
-ānitya-duḥkhataḥ | śūnya-anātmataḥ | tān | vipaśyati
-```
+
 
 The separate kārikā has `ānitya-`; the running verse has `ānaty-`, while the
 prose gives `anityataḥ`. The latter fixes the local sense without silently
@@ -91,15 +88,9 @@ for later reflective modeling.
 
 ### Bhāṣya-informed study translation
 
-> Having cultivated the establishments for body, feeling, consciousness, and
-> dharmas, the practitioner stands in the dharma establishment with a combined
-> cognitive Condition. They gather those fields together and see them in four
-> aspects: as impermanent, suffering, empty, and not-self.
-
-### Translation note
-
-The combined Condition and the referent of `tān` are specified by the Bhāṣya.
-The applicability of the four aspects follows the preceding unit's scope rule.
+> Established in the establishment of recollection for dharmas, with all as
+> its cognitive Condition, the practitioner sees those [four establishments]
+> as impermanent, suffering, empty, and not-self.
 
 ## 6. Philosophical Translation
 
@@ -107,7 +98,7 @@ The applicability of the four aspects follows the preceding unit's scope rule.
 > one articulated cognitive Condition. Distinct seeing works across that
 > whole through impermanence, suffering, emptiness, and not-self, while each
 > aspect keeps the range proper to it. The synthesis belongs to the operation
-> of Prajñā rather than to a loss of the fields' differences.
+> of discriminative comprehension rather than to a loss of the fields' differences.
 
 The movement in this unit is:
 
@@ -122,7 +113,7 @@ separately examined fields
 **`Dharma-smṛtyupasthāna` — establishment of recollection concerning dharmas**
 
 The fourth establishment can take dharmas alone or, as here, a combined
-Condition comprising body, feeling, consciousness, and dharmas. Prajñā remains
+Condition comprising body, feeling, consciousness, and dharmas. discriminative comprehension remains
 its intrinsic nature under the distinction established in 6.15.
 
 **`Samasta-ālambana` — combined cognitive Condition**
@@ -187,6 +178,9 @@ A later LogicFrame can evaluate these predications for each member without
 turning a combined Condition into an undifferentiated class.
 
 ## 9. Interpretive Note
+
+
+**Translation note.** The Bhāṣya identifies “those” as the four establishments cultivated together and explains their combined cognitive Condition.
 
 **The whole retains its fields.** The practitioner sees the four examined
 fields together; `tān` and the Bhāṣya's `kāyādīn sarvān` preserve their

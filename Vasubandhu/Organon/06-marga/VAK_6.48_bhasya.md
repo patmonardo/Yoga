@@ -3,16 +3,9 @@
 ## 1. Kārikā Anchor
 
 > dhyānāt sāmantakād vāntyo muktimārgas tribhūjaye |
->
 > nordhvaṃ sāmantakād āryair aṣṭābhiḥ svordhvabhūjayaḥ || 6.48 ||
 
-> In completing dispassion from the desire realm, first dhyāna,
-> and second dhyāna, the final liberation Path can arise from either a
-> preliminary or a fundamental concentration. Above these three
-> grounds it arises only from a fundamental concentration. The eight
-> noble uncontaminated bases—the four dhyānas, the intermediate
-> dhyāna, and three formless attainments—can bring dispassion from
-> their own and higher grounds; lower grounds are already abandoned.
+> In conquering three grounds, the final liberation Path arises from either a dhyāna or preliminary concentration; above these, it does not arise from preliminary concentration. Through eight noble supports, dispassion is attained from their own and higher grounds.
 
 The first claim concerns the support of the final liberation Path;
 the second concerns the counteractive range of eight noble bases.

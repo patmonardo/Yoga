@@ -80,21 +80,10 @@ the rule for men, and the precise sense of each loss condition.
 
 ### Bhāṣya-informed study translation
 
-> All four roots conducive to penetration have a living support in the
-> desire-realm, even when their meditative grounds lie in concentration. The
-> first three initially arise among humans and may later manifest among gods;
-> the fourth may arise among gods as well. A woman can obtain the Highest
-> Mundane Dharmas with either bodily support, while a man obtains them only
-> with male support. A Noble practitioner relinquishes the roots by leaving
-> their acquired ground; an ordinary practitioner relinquishes them at death.
-
-### Translation note
-
-The Bhāṣya supplies the distinction between living support and meditative
-area, the conditions of first production and later manifestation, the rule
-for men, and the explanations of ground departure and death. Its sex-support
-classification is reported as the passage's own, without extending it into
-a general claim about spiritual ability.
+> The four roots conducive to penetration have the desire-realm as their living
+> support. A woman obtains the Highest Mundane Dharmas with both supports. A
+> Noble practitioner relinquishes them by leaving their ground; an ordinary
+> practitioner relinquishes them at death.
 
 ## 6. Philosophical Translation
 
@@ -166,6 +155,13 @@ PathMeaning = content
 Meaning is therefore not adequately represented as a proposition detached from the continuum in which it is formed, sustained, manifested, and relinquished.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya supplies the distinction between living
+support and meditative area, the conditions of first production and later
+manifestation, the rule for men, and the explanations of ground departure and
+death. Its sex-support classification is reported as the passage's own,
+without extending it into a general claim about spiritual ability.
+
 
 VAK 6.20 classified the preparatory roots by function, production-mode, and meditative ground. VAK 6.21 adds living support and mode of loss. The result is a multidimensional account: a cognition can have a desire-realm embodiment, a form-domain concentration-ground, a prior history of acquisition, and a status-dependent mode of continuity.
 

@@ -3,15 +3,9 @@
 ## 1. Kārikā Anchor
 
 > yady akopyaḥ kṣayajñānād anutpādamatiḥ na cet |
->
 > kṣayajñānam aśaikṣī vā dṛṣṭiḥ sarvasya sā 'rhataḥ || 6.50 ||
 
-> For an immovable arhat, Knowing of non-arising follows the first
-> Knowing of exhaustion immediately. For an arhat still capable of
-> falling away, another Knowing of exhaustion or right view beyond
-> training follows instead; Knowing of non-arising does not arise.
-> Right view beyond training belongs to every arhat, including the
-> immovable one, whose later cognition may also be that right view.
+> For an immovable arhat, knowledge of non-arising follows knowledge of exhaustion. Otherwise, knowledge of exhaustion or right view beyond training follows; that right view belongs to every arhat.
 
 The successor of Knowing of exhaustion depends on whether falling
 away remains possible. Right view beyond training belongs to every

@@ -3,18 +3,12 @@
 ## 1. Kārikā Anchor
 
 > ābodheḥ sarvam ekatra dhyānāntye śāstṛkhaḍgayoḥ |
->
 > prāk tebhyo mokṣabhāgīyaṃ kṣipraṃ mokṣas tribhir bhavaiḥ || 6.24 ||
 
-> The Buddha and the rhinoceros-like Pratyekabuddha bring the entire course
-> from the roots conducive to penetration through Awakening to completion
-> in one sitting, supported by the fourth dhyāna's steady, sharp samādhi.
-> Before those roots, a root conducive to liberation must arise. In the
-> quickest course it arises in one life, the penetration-conducive roots
-> mature in the next, and the Noble Path arises in a third: entry,
-> maturation, and liberation. This first root is hearing-born or
-> reflection-born, and aspiration for liberation can direct even a single
-> gift or training rule toward it.
+> For the Teacher and the rhinoceros-like Pratyekabuddha, the whole course up to
+> Awakening unfolds in one sitting on the final dhyāna. Before these [roots],
+> a root conducive to liberation [must arise]; in the quickest course,
+> liberation occurs in three existences.
 
 The commentary distinguishes the exceptional one-sitting course from the
 prior root and the quickest three-life sequence.

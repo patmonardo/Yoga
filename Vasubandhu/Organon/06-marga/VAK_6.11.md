@@ -18,7 +18,7 @@ VAK 6.11 completes the three-stage training of `aśubha` and then classifies the
 practice. After relinquishing even the final skeletal remainder, the
 practitioner sustains consciousness (`citta`) between the eyebrows and is called one whose
 attention has passed beyond the support. The practice has non-greed as its
-intrinsic nature, occurs on ten grounds, takes desire-realm visible form as
+intrinsic nature, occurs on ten grounds, takes desire-realm visible Form as
 its cognitive Condition, and is generated among humans.
 
 ## 3. Lexical Analysis
@@ -30,14 +30,11 @@ its cognitive Condition, and is generated among humans.
 | `citta-dhāraṇāt` | ablative singular compound | through sustaining or fixing consciousness |
 | `alobhaḥ` | nominative singular masculine | non-greed; intrinsic nature of the practice |
 | `daśa-bhūḥ` | nominative singular compound | belonging to ten grounds |
-| `kāma-dṛśya-ālambā` | nominative singular feminine compound | having desire-realm visible form as cognitive Condition |
+| `kāma-dṛśya-ālambā` | nominative singular feminine compound | having desire-realm visible Form as cognitive Condition |
 | `nṛ-jā` | nominative singular feminine compound | generated among humans |
 | `aśubhā` | nominative singular feminine | cultivation of the unattractive |
 
-```text
-atikrānta-manaskāraḥ | bhrū-madhye | citta-dhāraṇāt |
-alobhaḥ | daśa-bhūḥ | kāma-dṛśya-ālambā | nṛ-jā | aśubhā
-```
+
 
 The final four predicates classify `aśubhā` along distinct axes: intrinsic
 nature, meditative level, Condition range, and locus of production. `Alobhaḥ` is
@@ -76,7 +73,7 @@ aśubhā
         range: ten grounds
 
     kāmāvacara-dṛśyālambanā
-        cognitive Condition: desire-realm visible form
+        cognitive Condition: desire-realm visible Form
 
     nṛjā
         locus of arising: human
@@ -107,21 +104,15 @@ provenance are additional prose determinations.
 
 > Through sustaining consciousness between the eyebrows, one is [called] a practitioner
 > whose attention has passed beyond. The unattractive [cultivation] is
-> non-greed, belongs to ten grounds, takes visible form of the desire-realm as
+> non-greed, belongs to ten grounds, takes visible Form of the desire-realm as
 > its cognitive Condition, and is generated among humans.
 
 ### Bhāṣya-informed study translation
 
-> Having released even the remaining half-skull, the practitioner holds
-> consciousness between the eyebrows and has passed beyond attention to the
-> unattractive. This practice has non-greed as its nature, occurs on ten
-> grounds, takes visible form of the desire-realm as its cognitive Condition,
-> and arises among humans.
-
-### Translation note
-
-The removal of the final support, the restriction of the stage-name, the human
-qualification, and the contaminated status are supplied by the Bhāṣya.
+> Through holding consciousness between the eyebrows, one is called one whose
+> attention has passed beyond. The unattractive is non-greed, has ten grounds,
+> takes visible Form of the desire-realm as its cognitive Condition, and
+> arises among humans.
 
 ## 6. Philosophical Translation
 
@@ -129,7 +120,7 @@ qualification, and the contaminated status are supplied by the Bhāṣya.
 > but by passing beyond dependence upon it. Yet command over the construction
 > does not transform it into supramundane realization. The practice remains
 > exactly typed: its nature is non-appropriation, its range is limited to
-> determinate meditative grounds, its cognitive Condition is desire-realm visible form, its
+> determinate meditative grounds, its cognitive Condition is desire-realm visible Form, its
 > embodied genesis is human, and its constructed mode of attention remains
 > contaminated. Mastery of a tool and liberation from affliction are therefore
 > distinct achievements.
@@ -173,11 +164,11 @@ desire-realm together with the relevant dhyānas and their neighboring or
 preparatory levels in the Vaibhāṣika enumeration. The number records a
 delimited practice-range, not ten meanings of `aśubha`.
 
-**`Kāma-dṛśya-ālambana` — desire-realm visible form as cognitive Condition**
+**`Kāma-dṛśya-ālambana` — desire-realm visible Form as cognitive Condition**
 
 The practice takes the visible bodily configuration of the desire-realm as
 its cognitive Condition (`ālambana`). The Bhāṣya raises a further question
-about visible form and `artha`, but the local witness is damaged; that finer
+about visible Form and `artha`, but the local witness is damaged; that finer
 distinction remains open. The Condition is intentionally configured through
 resolutive attention.
 
@@ -274,6 +265,9 @@ MasteryOver(AsubhaCultivation)
 ```
 
 ## 9. Interpretive Note
+
+
+**Translation note.** The Bhāṣya supplies release of the remaining half-skull before brow-focus, restricts the stage-name to attention beyond the unattractive practice, and specifies its ten grounds, cognitive Condition, human occurrence, and contaminated status.
 
 **Passing beyond is locally scoped.** The compound
 `atikrānta-manaskāra` names freedom from a particular constructed support. It

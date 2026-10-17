@@ -21,7 +21,7 @@ anāgamyāntaradhyānabhūmikaṃ dve tv adho 'pi vā || 6.20 ||
 | **iti** | concluding particle | thus; gathers and closes the sequence from Heat through the Highest Mundane Dharmas |
 | **nirvedha-bhāgīyam** | neuter nominative singular derivative compound | conducive to or bringing on determinate penetration |
 | **caturdhā** | indeclinable adverb | fourfold |
-| **bhāvanā-mayam** | neuter nominative singular compound | produced through cultivation; consisting in cultivation-born Prajñā |
+| **bhāvanā-mayam** | neuter nominative singular compound | produced through cultivation; consisting in cultivation-born discriminative comprehension |
 | **anāgamya-antara-dhyāna-bhūmikam** | neuter nominative singular compound | grounded in the preliminary concentration, intermediate concentration, and four dhyānas |
 | **dve** | neuter nominative dual | the two; Heat and the Summits |
 | **tu** | contrastive particle | but; introduces a qualification to the principal account |
@@ -30,10 +30,7 @@ anāgamyāntaradhyānabhūmikaṃ dve tv adho 'pi vā || 6.20 ||
 
 The compact compound **anāgamyāntaradhyānabhūmikam** enumerates six grounds: the *anāgamya*, the intermediate concentration, and the four principal dhyānas. The Bhāṣya attributes the alternative seventh ground for the first two stages to Bhadanta Ghoṣaka.
 
-```text
-iti | nirvedha-bhāgīyam | caturdhā | bhāvanā-mayam |
-anāgamya-antara-dhyāna-bhūmikam | dve | tu | adhaḥ | api | vā
-```
+
 
 ## 4. Grammar
 
@@ -70,21 +67,14 @@ The ground extension is a named Bhāṣya alternative, not a seventh ground asse
 
 ### Bhāṣya-informed study translation
 
-> Heat, Summits, Acceptance, and the Highest Mundane Dharmas are the four
-> cultivation-born wholesome roots that bring on determinate penetration by
-> the Noble Path. Their six grounds are the preliminary concentration, the
-> intermediate concentration, and the four dhyānas. Bhadanta Ghoṣaka also
-> allows Heat and Summits on the desire-realm level.
-
-### Translation note
-
-The Bhāṣya supplies the four names, the roots' role in bringing on the
-Noble Path's penetration, the enumeration of six grounds, and the attribution
-of the lower-ground alternative to Ghoṣaka.
+> Thus the class conducive to determinate penetration is fourfold, born of
+> cultivation, and grounded in preliminary concentration, intermediate
+> concentration, and the four dhyānas. But the two may also occur on a lower
+> ground.
 
 ## 6. Philosophical Translation
 
-The preparatory sequence is now comprehended as one function differentiated into four degrees. Its unity lies in bringing on penetration; its internal differences mark increasing stability and force. These roots are no longer merely heard or reflectively entertained determinations. They are Prajñā made operative through cultivation.
+The preparatory sequence is now comprehended as one function differentiated into four degrees. Its unity lies in bringing on penetration; its internal differences mark increasing stability and force. These roots are no longer merely heard or reflectively entertained determinations. They are discriminative comprehension made operative through cultivation.
 
 Their meditative grounds specify the conditions under which this practical cognition can arise. The principal account assigns all four to six concentration-levels, while a preserved alternative widens the basis of the first two stages to include the desire-realm.
 
@@ -100,7 +90,7 @@ Determinate penetration by the Noble Path: abandonment of doubt and decisive dis
 
 The four wholesome roots (Heat, Summits, Acceptance, Highest Mundane Dharmas) bring on penetration without yet being identical with it. Heat and Summits are weak and unstable, Acceptance medium, the Highest Mundane Dharmas strongest.
 
-**`Bhāvanāmayī prajñā` — cultivation-born Prajñā**
+**`Bhāvanāmayī discriminative comprehension` — cultivation-born discriminative comprehension**
 
 All four are produced through cultivation, not through hearing (*śrutamayī*) or reflection (*cintāmayī*).
 
@@ -114,7 +104,7 @@ For Ghoṣaka, Heat and Summits have seven grounds, since they can also occur in
 
 **`Pūripūraka` / `ākṣepaka` — completing and projecting causes**
 
-In the form realm these roots complete a five-Base maturation but do not project a new existence. A Bhāṣya determination, not kārikā wording.
+In the Form Realm these roots complete a five-Base maturation but do not project a new existence. A Bhāṣya determination, not kārikā wording.
 
 ## 8. Logical Determination
 
@@ -122,7 +112,7 @@ VAK 6.20 completes the preparatory sequence across four independent axes:
 
 ```text
 extension:      four stages
-intrinsic mode: cultivation-born Prajñā
+intrinsic mode: cultivation-born discriminative comprehension
 function:       bringing on penetration
 ground:         six concentration-levels
 ```
@@ -155,11 +145,14 @@ In Organon terms, explicitly as project synthesis, Practical Meaning has become 
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The Bhāṣya names the four roots, explains their role in bringing on determinate penetration, enumerates six grounds, and attributes the lower-ground alternative for the first two to Bhadanta Ghoṣaka.
+
 The concluding **iti** matters. VAK 6.17–6.19 did not merely accumulate stage names; 6.20 gathers them under their common telos. Heat, Summit, Acceptance, and the Highest Mundane Dharmas mean what they do through their ordered contribution to penetration.
 
 This gives **nirvedhabhāgīya** an especially strong role in a Pipeline of Practical Meaning. Each stage is determined by what precedes it, the transformation it performs, and the breakthrough it is capable of bringing on. Its meaning is inseparable from its position and efficacy within the system.
 
-The distinction among hearing-born, reflection-born, and cultivation-born Prajñā is also decisive. Correctly received or reasoned truth does not yet constitute this preparatory Path. The same determinations must become operative as cultivated cognition. Paramārtha is approached here through this transformation of the mode of cognition.
+The distinction among hearing-born, reflection-born, and cultivation-born discriminative comprehension is also decisive. Correctly received or reasoned truth does not yet constitute this preparatory Path. The same determinations must become operative as cultivated cognition. Paramārtha is approached here through this transformation of the mode of cognition.
 
 The kārikā states the fourfold class, its cultivation-born character, its six grounds, and an alternative lower location for the first two. The definition of penetration, the graded strength of the four roots, their completing rather than projecting efficacy, the reason for excluding higher grounds, and the attribution to Ghoṣaka are Bhāṣya determinations. “Threshold-form” and the Pipeline formulation are Organon reconstructions.
 

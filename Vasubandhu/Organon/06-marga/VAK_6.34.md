@@ -69,20 +69,9 @@ their qualified scope and the unavailable five-grade resting position.
 
 ### Bhāṣya-informed study translation
 
-> A stream-enterer established in the first fruit with even one
-> cultivation-abandonable grade remaining is seven-at-most: seven bounds
-> further births without requiring them all. One who has abandoned three or
-> four grades is family-to-family, with two or three births remaining. The
-> stream is the Path toward Nirvāṇa, which ends suffering by removing the
-> obstruction to Nirvāṇa's attainment.
-
-### Translation note
-
-The prose makes `akṣīṇa` include even one grade remaining, reads `para`
-as an upper limit, and explains *srota-āpanna* through the stream of the
-Path. It also distinguishes ending suffering from producing Nirvāṇa.
-The count of births and the family-to-family designation are debated and
-qualified in the continuous Bhāṣya translation.
+> One established in the fruit with cultivation-abandonable afflictions not
+> exhausted has at most seven births; one freed from three or four grades has
+> two or three births and is family-to-family.
 
 ## 6. Philosophical Translation
 
@@ -181,6 +170,13 @@ fruit attained
 In Organon terms, explicitly as project synthesis, the practitioner is not externally assigned a future. The transformed inner morphology determines which future courses remain possible. The Path's End operates as a real limit on Loka.
 
 ## 9. Interpretive Note
+
+**Translation note.** The prose makes `akṣīṇa` include even one grade
+remaining, reads `para` as an upper limit, and explains *srota-āpanna* through
+the stream of the Path. It also distinguishes ending suffering from producing
+Nirvāṇa. The count of births and the family-to-family designation are debated
+and qualified in the continuous Bhāṣya translation.
+
 
 VAK 6.33 established that each completed removal reveals a subtler determinate task. VAK 6.34 shows that these internal transformations are not confined to an inward psychological scale. They alter the practitioner's objective range of possible rebirth.
 

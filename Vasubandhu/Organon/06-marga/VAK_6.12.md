@@ -16,7 +16,7 @@ kāmāśrayā na bāhyānāṃ ṣaḍvidhā gaṇanādibhiḥ || 6.12 ||
 
 VAK 6.12 classifies recollection of inhalation and exhalation and introduces
 its sixfold completion. Although the practice is named `smṛti`, its intrinsic
-nature is Prajñā. It occurs on five grounds, takes breath as wind for its
+nature is discriminative comprehension. It occurs on five grounds, takes breath as wind for its
 cognitive field, depends upon a desire-realm support, does not belong to
 outsiders, and develops through six operations beginning with counting.
 
@@ -25,7 +25,7 @@ outsiders, and develops through six operations beginning with counting.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ānāpāna-smṛtiḥ` | nominative singular feminine compound | recollection of inhalation and exhalation |
-| `prajñā` | nominative singular feminine | discriminative knowing; intrinsic nature of the practice |
+| `prajñā` | nominative singular feminine | discriminative comprehension; intrinsic nature of the practice |
 | `pañca-bhūḥ` | nominative singular compound | belonging to five grounds |
 | `vāyuḥ-gocarā` | nominative singular feminine compound | having wind as its cognitive range |
 | `kāma-āśrayā` | nominative singular feminine compound | having a desire-realm basis |
@@ -34,14 +34,11 @@ outsiders, and develops through six operations beginning with counting.
 | `ṣaṭ-vidhā` | nominative singular feminine compound | sixfold |
 | `gaṇana-ādibhiḥ` | instrumental plural compound | through counting and the other operations |
 
-```text
-ānāpāna-smṛtiḥ | prajñā | pañca-bhūḥ | vāyuḥ-gocarā |
-kāma-āśrayā | na | bāhyānām | ṣaṭ-vidhā | gaṇana-ādibhiḥ
-```
+
 
 The predicates classify a single practice along independent dimensions. The
 Bhāṣya distinguishes name from intrinsic nature: `smṛti` names the force by
-which the practice functions, while `prajñā` states what it is by nature.
+which the practice functions, while `discriminative comprehension` states what it is by nature.
 
 ## 4. Grammar
 
@@ -49,10 +46,10 @@ The opening nominal identity is exact:
 
 ```text
 ānāpānasmṛtiḥ
-    prajñā [svabhāvataḥ]
+    discriminative comprehension [svabhāvataḥ]
 
 recollection of breathing
-    is Prajñā [by intrinsic nature]
+    is discriminative comprehension [by intrinsic nature]
 ```
 
 The Bhāṣya supplies `svabhāva` and explains the apparent difference of names:
@@ -86,10 +83,10 @@ principal dhyānas.
 **Future Feature Grammar sketch (not executable):**
 
 ```text
-PRACTICE[NAME=ānāpānasmṛti, NATURE=prajñā,
+PRACTICE[NAME=ānāpānasmṛti, NATURE=discriminative comprehension,
          GROUNDS=five, FIELD=wind, BASIS=desire-realm,
          ACCESS=not-outsiders, MODES=six]
-  ← ānāpānasmṛtiḥ + prajñā + pañcabhūḥ + vāyurgocarā
+  ← ānāpānasmṛtiḥ + discriminative comprehension + pañcabhūḥ + vāyurgocarā
     + kāmāśrayā + na bāhyānām + ṣaḍvidhā gaṇanādibhiḥ
 MODE[ORDER=count→follow→establish→discern→turn→purify]
   ← gaṇanādibhiḥ + [the Bhāṣya's sixfold expansion]
@@ -103,29 +100,23 @@ model, not executable source grammar.
 
 ### Literal Translation
 
-> Recollection of inhalation and exhalation is Prajñā; it belongs to five
+> Recollection of inhalation and exhalation is discriminative comprehension; it belongs to five
 > grounds and has wind as its cognitive field. It has a desire-realm basis,
 > does not belong to outsiders, and is sixfold through counting and the other
 > operations.
 
 ### Bhāṣya-informed study translation
 
-> Recollection of breathing is Prajñā by nature, though named for the
-> recollection that sustains it. It occurs on five grounds, ranges over breath
-> as wind, and rests on a desire-realm basis. It does not belong to outsiders
-> without the requisite teaching. Its six modes begin with counting and end
-> in purification.
-
-### Translation note
-
-The definition of name versus nature, the exact ground-count, the reasons
-concerning outsiders, and the six operations are supplied by the Bhāṣya.
+> Recollection of inhalation and exhalation is discriminative comprehension by
+> nature. It occurs on five grounds, has wind as its cognitive field, and
+> rests on a desire-realm basis. It does not belong to outsiders; it is
+> sixfold, beginning with counting.
 
 ## 6. Philosophical Translation
 
 > A minimal embodied process becomes Path not through passive observation but
 > through an ordered transformation of cognition. Recollection supplies
-> continuity; Prajñā discriminates what that continuity contains. Counting
+> continuity; discriminative comprehension discriminates what that continuity contains. Counting
 > establishes reliable sequence, following tracks process, establishing
 > stabilizes the cognitive Condition, discerning opens breath into its dharma-complex,
 > turning redirects the practice toward the highest mundane Path-conditions,
@@ -139,7 +130,7 @@ The movement is:
 embodied wind-process
     → recollected sequence
     → stable cognitive Condition
-    → discriminated aggregate-field
+    → discriminated Base-field
     → higher wholesome roots
     → Path of Seeing and beyond
 ```
@@ -155,7 +146,7 @@ its immediate cognitive field.
 **`Ānāpānasmṛti` — recollection of inhalation and exhalation**
 
 The practice assigned in 6.09 to one dominated by discursive thought. Its name
-emphasizes recollective continuity, while its intrinsic nature is Prajñā.
+emphasizes recollective continuity, while its intrinsic nature is discriminative comprehension.
 
 **`Smṛti` — recollection**
 
@@ -163,12 +154,12 @@ The stabilizing force or support through which the practice functions. The
 Bhāṣya explains the name through `tad-balādhāna-vṛtti`: the practice proceeds
 through reliance upon the power of recollection.
 
-**`Prajñā` — discriminative knowing**
+**Discriminative comprehension**
 
 The intrinsic nature of breath-recollection. This prevents the practice from
 being reduced to bare attention to sensation. Its development discriminates
-elements, derivative form, consciousness (`citta`) and mental factors (`caitta`), and ultimately the five
-aggregates.
+Great Elements, derivative Form, consciousness (`citta`) and mental factors (`caitta`), and ultimately the five
+Bases.
 
 **`Pañcabhū` — belonging to five grounds**
 
@@ -241,13 +232,13 @@ location.
 Analytical expansion of the breath beyond “mere wind”:
 
 ```text
-four great elements
+four Great Elements
     → derivative material form
     → dependent consciousness (`citta`) and mental factors (`caitta`)
-    → five aggregates
+    → five Bases
 ```
 
-The minimal process becomes an entry into discrimination of the aggregate
+The minimal process becomes an entry into discrimination of the Base
 complex.
 
 **`Vivarta` — turning**
@@ -312,7 +303,7 @@ Establishing
     establishes StableCognitiveLocation
 
 Discerning
-    establishes DharmaAndAggregateAnalysis
+    establishes DharmaAndBaseAnalysis
 
 Turning
     connects HigherWholesomeRoots
@@ -331,8 +322,11 @@ AND CannotSelfAwakenTo(person, SubtleDharmas)
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The Bhāṣya distinguishes the practice's name (recollection) from its nature (discriminative comprehension), specifies its grounds and six operations, and explains its exclusion of outsiders without instruction; one grounding statement is textually uneven.
+
 **The name is not the intrinsic nature.** `Smṛti` describes the stabilizing
-force; Prajñā defines the practice. A Dataset that classifies only by the
+force; discriminative comprehension defines the practice. A Dataset that classifies only by the
 surface name would miss its operative cognitive type.
 
 **Field, basis, and ground remain distinct.** The breath-wind is the cognitive
@@ -349,7 +343,7 @@ failures of sequence, cardinality, and event-type discrimination. Restarting
 after distraction trains faithful continuity rather than forced respiration.
 
 **Discerning changes the scale of the cognitive field.** Breath begins as vāyu but opens
-into elements, derived form, mental dependence, and the five aggregates. The
+into Great Elements, derived Form, mental dependence, and the five Bases. The
 practice does not remain enclosed within one isolated sensation.
 
 **Purification enters Mārga.** The final operations transform a stabilizing
@@ -383,7 +377,7 @@ liberating transition
 
 Meaning emerges here neither from the word “breath” nor from sensation in
 isolation. It emerges through the ordered relations that connect elemental
-process, recollection, Prajñā, aggregate analysis, wholesome roots, and Path.
+process, recollection, discriminative comprehension, Base analysis, wholesome roots, and Path.
 This is a native Kośa model of how an empirical process becomes a vehicle of
 Mārga without being mistaken for an independently liberating process.
 
@@ -490,7 +484,7 @@ Assertion: Turning precedes Purification
 Assertion: Counting produces SequenceFidelity
 Assertion: Following produces ProcessContinuity
 Assertion: Establishing produces StableCognitiveLocation
-Assertion: Discerning produces AggregateAnalysis
+Assertion: Discerning produces BaseAnalysis
 Assertion: Turning produces ConnectionToHigherWholesomeRoots
 Assertion: Purification produces EntryIntoPathOfSeeingAndSubsequentPaths
 

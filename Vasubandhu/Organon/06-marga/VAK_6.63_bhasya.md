@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > prayogākṣasamāpattivimuktyubhayataḥ kṛtāḥ |
->
 > pudgalāḥ sapta ṣaṭ tv ete dvau dvau mārgatraye yataḥ || 6.63 ||
 
-> Seven noble-person names arise according to application, faculty, meditative attainment, liberation, or attainment and liberation together. Yet they mark six positions in the Path: the same two lines appear under changing names in Seeing, cultivation, and beyond-training.
+> Seven persons are designated by application, faculty, meditative attainment, liberation, or attainment and liberation together; yet these are six, because there are two in each of the three Paths.
 
 This sevenfold classification differs from the seven Śrāvakas inside the nine-person faculty count of 6.62.
 
@@ -79,7 +78,7 @@ By application come the faith-follower and Dharma-follower, since they previousl
 
 By name these are seven persons, but in actual Path-based reckoning they are six. In the Path of Seeing there are the two followers. Those same two become the faith-resolved and seeing-attained in the Path of cultivation. In the Path beyond training they become the occasion-dependent and occasion-independent liberated persons.
 
-The commentary then expands the combinations. A faith-follower can be differentiated into three by faculty, five by disposition, and fifteen by Path position: eight patience moments and seven Knowing moments. By degree of dispassion there are seventy-three possibilities, from one still completely bound through successive levels up to dispassion toward the sphere of nothingness. By existential support there are nine, across three continents and six classes of gods. Combining faculty, disposition, Path, dispassion, and support produces a very large count of wise persons; other named persons can likewise be counted through such distinctions.
+The commentary then expands the combinations. A faith-follower can be differentiated into three by faculty, five by disposition, and fifteen by Path position: eight patience moments and seven Knowing moments. By degree of dispassion there are seventy-three possibilities, from one still completely bound through successive levels up to dispassion toward the Essence of nothingness. By existential support there are nine, across three continents and six classes of gods. Combining faculty, disposition, Path, dispassion, and support produces a very large count of wise persons; other named persons can likewise be counted through such distinctions.
 
 ## 4. Movement of the Commentary
 

@@ -3,15 +3,9 @@
 ## 1. Kārikā Anchor
 
 > tat-kṣayāptyā kṣaya-jñānam aśaikṣo 'rhann asau tadā |
->
 > lokottareṇa vairāgyaṃ bhavāgrād anyato dvidhā || 6.45 ||
 
-> When the last summit grade has been broken by diamond-like concentration,
-> the final liberation Path arises as Knowing of exhaustion, together with
-> attainment of the exhaustion of all influxes. The candidate is then an
-> arhat, beyond training for another liberating fruit. Dispassion from the
-> summit requires a supramundane Path; from every lower ground it can be
-> gained by either a mundane or a supramundane Path.
+> With attainment of exhaustion, knowledge of exhaustion arises; then one is an arhat, beyond training. Dispassion from the summit of existence is through the supramundane Path; from other grounds, it is twofold.
 
 The candidate of 6.44 becomes an arhat with the last liberation Path.
 The second half distinguishes the summit from all lower grounds in

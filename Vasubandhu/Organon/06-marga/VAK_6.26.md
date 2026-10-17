@@ -19,12 +19,12 @@ kāmaduḥkhe tato 'traiva dharmajñānaṃ tathā punaḥ |
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | **kāma-duḥkhe** | neuter locative singular compound | with regard to suffering in the desire-realm |
-| **tataḥ** | ablative used adverbially | thereafter; immediately after Dharma-Knowing-Acceptance |
+| **tataḥ** | ablative used adverbially | thereafter; immediately after Dharma-Knowledge-Acceptance |
 | **atra eva** | adverbial expression | here itself; with regard to this same desire-realm suffering |
-| **dharma-jñānam** | neuter nominative singular | Dharma-Knowing |
+| **dharma-jñānam** | neuter nominative singular | Dharma-Knowledge |
 | **tathā punaḥ** | adverbial sequence | then likewise again; continues the ordered realization |
 | **śeṣe duḥkhe** | neuter locative singular | with regard to the remaining suffering, in the form and formless domains |
-| **anvaya-kṣānti-jñāne** | neuter nominative dual in compressed compound form | Anvaya-Knowing-Acceptance and Anvaya-Knowing |
+| **anvaya-kṣānti-jñāne** | neuter nominative dual in compressed compound form | Anvaya-Knowledge-Acceptance and Anvaya-Knowledge |
 | **satya-traye** | neuter locative singular | with regard to the remaining three Truths: origin, cessation, and Path |
 | **tathā** | indeclinable | likewise; extends the same fourfold sequence to each remaining Truth |
 
@@ -37,9 +37,9 @@ The verse depends upon the first moment announced in 6.25, **duḥkhe dharmajñ�
 
 ## 4. Grammar
 
-The first clause continues directly from 6.25. **tataḥ** refers to Dharma-Knowing-Acceptance concerning desire-realm suffering; **atraiva** retains that same cognitive Condition; and **dharmajñānam [utpadyate]** supplies the next arising: “immediately thereafter, Dharma-Knowing arises with regard to this same [suffering].”
+The first clause continues directly from 6.25. **tataḥ** refers to Dharma-Knowledge-Acceptance concerning desire-realm suffering; **atraiva** retains that same cognitive Condition; and **dharmajñānam [utpadyate]** supplies the next arising: “immediately thereafter, Dharma-Knowledge arises with regard to this same [suffering].”
 
-In **śeṣe duḥkhe**, “remaining” means suffering belonging to the form and formless domains. The dual **anvayakṣāntijñāne** supplies two successive subjects of the understood verb “arise”: Anvaya-Knowing-Acceptance and Anvaya-Knowing.
+In **śeṣe duḥkhe**, “remaining” means suffering belonging to the form and formless domains. The dual **anvayakṣāntijñāne** supplies two successive subjects of the understood verb “arise”: Anvaya-Knowledge-Acceptance and Anvaya-Knowledge.
 
 **satyatraye tathā** extends the full pattern established for suffering to the other three Truths. It does not merely say that those Truths are similar in content; it carries over the ordered four-moment construction.
 
@@ -47,19 +47,19 @@ The ellipsis resolves as:
 
 ```text
 for each Truth:
-    Dharma-Knowing-Acceptance arises;
-    then Dharma-Knowing;
-    then Anvaya-Knowing-Acceptance;
-    then Anvaya-Knowing.
+    Dharma-Knowledge-Acceptance arises;
+    then Dharma-Knowledge;
+    then Anvaya-Knowledge-Acceptance;
+    then Anvaya-Knowledge.
 ```
 
 **Future Feature Grammar sketch (not executable):**
 
 ```text
-MOMENT[NAME=Dharma-Knowing, TRUTH=suffering, DOMAIN=desire-realm,
-       PREDECESSOR=Dharma-Knowing-Acceptance]
+MOMENT[NAME=Dharma-Knowledge, TRUTH=suffering, DOMAIN=desire-realm,
+       PREDECESSOR=Dharma-Knowledge-Acceptance]
   ← kāmaduḥkhe tato 'traiva dharmajñānaṃ
-PAIR[NAME=Anvaya-Acceptance+Anvaya-Knowing, TRUTH=suffering,
+PAIR[NAME=Anvaya-Acceptance+Anvaya-Knowledge, TRUTH=suffering,
      DOMAIN=form+formless, CONDITION=combined-higher-suffering]
   ← tathā punaḥ śeṣe duḥkhe 'nvayakṣāntijñāne
 SEQUENCE[REPEAT-FOR=origin+cessation+Path, ORDER=same-four-moments]
@@ -73,26 +73,15 @@ Condition, and uncontaminated status throughout.
 
 ### Literal Translation
 
-> After that, Dharma-Knowing arises regarding this same desire-realm
-> suffering. Then Anvaya-Acceptance and Anvaya-Knowing arise regarding
+> After that, Dharma-Knowledge arises regarding this same desire-realm
+> suffering. Then Anvaya-Acceptance and Anvaya-Knowledge arise regarding
 > the remaining suffering. So too for the other three Truths.
 
 ### Bhāṣya-informed study translation
 
-> Immediately after Dharma-Knowing-Acceptance concerning desire-realm
-> suffering, Dharma-Knowing arises with that same suffering as its cognitive
-> Condition. Anvaya-Knowing-Acceptance then takes the suffering of the form
-> and formless realms together as its Condition, followed by Anvaya-Knowing.
-> This four-moment order occurs again for origin, cessation, and Path,
-> each moment arising immediately after the last and all remaining
-> uncontaminated.
-
-### Translation note
-
-The Bhāṣya specifies the combined higher-realm Condition, universal
-uncontaminated status, and immediate succession. It also enumerates the
-remaining Truths and explains `anvaya` as following in accordance with the
-initial realization, rather than as a separate Truth.
+> For suffering in the desire realm comes Dharma-Knowledge; then, for the
+> remaining suffering, Anvaya-Acceptance and Anvaya-Knowledge; and likewise
+> for each of the other three Truths.
 
 ## 6. Philosophical Translation
 
@@ -178,6 +167,12 @@ Meaning is direct here precisely because the articulation has become the self-de
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya specifies the combined higher-realm
+Condition, universal uncontaminated status, and immediate succession. It also
+enumerates the remaining Truths and explains `anvaya` as following in
+accordance with the initial realization, rather than as a separate Truth.
+
+
 VAK 6.25 crossed from the final mundane preparation into the first uncontaminated Acceptance. VAK 6.26 shows that this threshold is not a solitary event. It generates the ordered content of the Path of Seeing.
 
 The distinction between Dharma and Anvaya is especially important. Realization first takes the desire-realm form of a Truth, then follows that Truth through into its corresponding higher-domain field. Identity is maintained not by ignoring difference but by an ordered correspondence across it.
@@ -186,7 +181,7 @@ Likewise, Acceptance and Knowing must remain distinct while internally connected
 
 This provides a fitting stopping-point for the first dive. Paramārtha Meaning has emerged neither as a detached item nor as a featureless intuition. It is Path: a rigorously ordered realization in which Truth, domain, cognitive function, purity-status, and succession determine one another.
 
-The kārikā states the Dharma-Knowing following the first Acceptance, the Anvaya pair for remaining suffering, and repetition across the other three Truths. Collective higher-domain support, universal uncontaminated status, the explanations of Dharma and Anvaya, the full enumeration, immediate succession, and the specific counteractive Path Condition are Bhāṣya determinations. “Articulated copula of direct realization” is the Organon's reconstruction.
+The kārikā states the Dharma-Knowledge following the first Acceptance, the Anvaya pair for remaining suffering, and repetition across the other three Truths. Collective higher-domain support, universal uncontaminated status, the explanations of Dharma and Anvaya, the full enumeration, immediate succession, and the specific counteractive Path Condition are Bhāṣya determinations. “Articulated copula of direct realization” is the Organon's reconstruction.
 
 ## 10. OWL++ Seed
 
@@ -239,7 +234,7 @@ SixteenMomentSequence includesFourMomentPatternFor:
   CessationTruth
   PathTruth
 
-Constraint: Each Truth is realized through the ordered Dharma-Knowing-Acceptance, Dharma-Knowing, Anvaya-Knowing-Acceptance, and Anvaya-Knowing sequence.
+Constraint: Each Truth is realized through the ordered Dharma-Knowledge-Acceptance, Dharma-Knowledge, Anvaya-Knowledge-Acceptance, and Anvaya-Knowledge sequence.
 Constraint: The form and formless domains jointly constitute the cognitive field of each Anvaya pair.
 Constraint: All moments in the realization sequence are uncontaminated.
 Constraint: Later functional classifications of Acceptance and Knowing are not asserted at 6.26.

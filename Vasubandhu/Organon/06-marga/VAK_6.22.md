@@ -73,23 +73,9 @@ The prose restricts regression to an ordinary practitioner, explains
 
 ### Bhāṣya-informed study translation
 
-> An ordinary practitioner may lose Heat and Summits through regression as
-> well as death; even such a practitioner does not regress from Acceptance
-> or the Highest Mundane Dharmas. Preparation on a principal-dhyāna ground
-> leads to seeing the Truths in that same life. Reacquired roots are new
-> dharmas, not the very ones lost. Relinquishment and regression both end
-> possession, but regression is caused by a fault while relinquishment may
-> follow a change in quality. Even after regression from Heat, one remains
-> oriented toward final nirvāṇa and nearer to seeing the Truths if no
-> obstacle intervenes.
-
-### Translation note
-
-The Bhāṣya specifies the practitioner's status, the stability of Acceptance
-and Highest Mundane Dharmas, and the cause of same-life seeing. It also
-explains new acquisition, the distinct causes of non-possession, and the
-qualified consequence of regression from Heat. The compressed explanation
-of renewed effort is handled in the continuous translation.
+> The first two [roots] may also be lost through regression. On a principal
+> dhyāna ground, one sees the Truths in that very life. When lost roots are
+> reacquired, the acquisition is new; both losses are non-possession.
 
 ## 6. Philosophical Translation
 
@@ -162,6 +148,14 @@ Dharma₂ is not numerically identical with Dharma₁.
 In Organon terms, explicitly as project synthesis, a Path-state is determined not only by present possession but by its **modal profile**: whether it can regress, what causes its loss, whether it can be reacquired, and which future possibilities remain after its cessation.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya specifies the practitioner's status, the
+stability of Acceptance and Highest Mundane Dharmas, and the cause of same-
+life seeing. It also explains new acquisition, the distinct causes of non-
+possession, and the qualified consequence of regression from Heat. The
+compressed explanation of renewed effort is handled in the continuous
+translation.
+
 
 VAK 6.21 distinguished modes of relinquishment according to living continuum, meditative ground, and practitioner-status. VAK 6.22 adds a deeper distinction: not every loss is regression, and not every ceased state represents a reversal of the Path.
 

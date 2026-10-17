@@ -83,17 +83,7 @@ classification by modality does not change the fruit rank.
 
 ### Bhāṣya-informed study translation
 
-> The sūtra distinguishes six kinds of arhats. Five were formerly faith-resolved trainees; their liberation of consciousness requires continual guarding, and concentration becomes manifest when requisites, health, and place are suitable. They are liberated in dependence on occasion. The sixth, the *akopyadharman*, has unshakeable liberation: it cannot be disturbed or lost.
-
-### Translation note
-
-The Bhāṣya names six arhat types, then groups the first five by their
-prior faith-resolved training. `Sāmayikī` denotes dependence on an
-occasion or suitable conditions for concentration's manifestation;
-it does not mean that these five lack arhat fruit between occasions.
-`Cetovimukti` is liberation of consciousness. `Akopyā` names the
-sixth type's impossibility of falling away. The running verse's
-irregular forms remain in the Bhāṣya witness.
+> Six types of Arhat are recognized; five arise from faith-resolution. Their liberation is occasion-dependent, while the immovable one's liberation is unshakeable.
 
 ## 6. Philosophical Translation
 
@@ -161,7 +151,7 @@ akopyā vimukti
     → parihāṇi impossible
 ```
 
-This is the objective Path-condition required for the Knowing of non-arising distinguished in 6.50. It is not merely stronger confidence in an otherwise identical modal situation.
+This is the objective Path-condition required for the knowledge of non-arising distinguished in 6.50. It is not merely stronger confidence in an otherwise identical modal situation.
 
 **`Samādhi-saṃmukhībhāva` — concentration becoming manifest**
 
@@ -218,6 +208,9 @@ ImmovableFinalFruit
 Path-history remains a determinant within completed status.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya names six arhat types, then groups the first five by their prior faith-resolved training. `Sāmayikī` denotes dependence on an occasion or suitable conditions for concentration's manifestation; it does not mean that these five lack arhat fruit between occasions. `Cetovimukti` is liberation of consciousness. `Akopyā` names the sixth type's impossibility of falling away. The running verse's irregular forms remain in the Bhāṣya witness. The Bhāṣya explains the five as previously faith-resolved and describes concentration becoming manifest when requisites, health, and place are suitable; occasion-dependence does not mean loss of arhat fruit between occasions. The sixth type cannot fall away.
+
 
 VAK 6.56 shifts from the Path's objective movement across domains to the mode in which that movement exists in the completed person. The fruit is the same in rank—Arhatship—but it bears a morphology inherited from the course by which it became actual.
 

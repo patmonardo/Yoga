@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > gotrāc caturṇāṃ pañcānāṃ phalād dhānir na pūrvakāt |
->
 > śaikṣānāryāś ca ṣaḍgotrāḥ saṃcāro nāsti darśane || 6.58 ||
 
-> Four arhat types can lose a stronger disposition gained by sharpening their faculties. The Vaibhāṣika account also allows the first five to fall from arhat fruit, while holding that no one loses an original disposition or a first noble fruit. The Sautrāntikas dispute loss of arhatship and place the instability in meditative attainment. Trainees and ordinary persons likewise have six dispositions; during Seeing, however, faculties do not change, because that transition requires preparatory practice.
+> Four can fall from an acquired disposition and five from the fruit, but none from the original disposition or first noble fruit. Trainees and ordinary persons also have six dispositions; faculty transition does not occur during the Path of Seeing.
 
 The commentary distinguishes a later acquired disposition from an
 original one, and records opposing accounts of regression from
@@ -261,11 +260,11 @@ increase rather than a loss.
 Why are the first abandonments not lost? What Seeing abandons is
 called `avastuka`: the self on which these afflictions rely is not
 there. This does not mean there is no cognitive Condition. The real
-aggregates are taken as Conditions, but falsely: self-view projects
+Bases are taken as Conditions, but falsely: self-view projects
 an agent, experiencer, or controller onto form and the rest; other
 Seeing-abandoned views follow it. Cultivation-abandoned passion,
 aversion, pride, and ignorance relate instead to given features of
-the aggregates, such as agreeable and disagreeable qualities. Their
+the Bases, such as agreeable and disagreeable qualities. Their
 basis is real in that respect, though no self is present. An
 unreflective lapse of mindfulness can permit such an affliction to
 arise, as a snake is mistakenly perceived in a rope. A self-view
@@ -335,7 +334,7 @@ transition during Seeing.
 
 **Translation decisions.** `Na pūrvakāt` governs both first
 disposition and first noble fruit. `Avastuka` does not mean without
-a cognitive Condition: the aggregates are real Conditions but
+a cognitive Condition: the Bases are real Conditions but
 self-apprehension of them is false (`vitathālambana`). The
 Vaibhāṣika fruit-regression thesis and the Sautrāntika denial remain
 attributed. In the latter account, `sāmayikī vimukti` concerns

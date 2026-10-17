@@ -38,10 +38,7 @@ kārikā's form and the Bhāṣya study preserves its witness reading.
 | `ca eva` | connective plus emphatic particle | and precisely or indeed |
 | `sāsravāḥ` | nominative plural masculine | contaminated, accompanied by influx |
 
-```text
-duḥkhāḥ | tri-duḥkhatā-yogāt | yathā-yogam | aśeṣataḥ |
-manāpāḥ | amanāpāḥ | ca | tad-anye | ca | eva | sa-āsravāḥ
-```
+
 
 The understood substantive is supplied by the Bhāṣya as `saṃskārāḥ`,
 formations. `Yathāyogam` distributes the relevant modes without claiming that
@@ -120,10 +117,9 @@ NLTK grammar or an extra claim made by the Sanskrit.
 
 ### Bhāṣya-informed study translation
 
-> All contaminated formations are suffering without exception, each according
-> to its connection with the three modes of suffering: the agreeable through
-> transformation, the disagreeable through pain, and the others through their
-> conditioned formation.
+> All formations with influx are suffering, without remainder, through
+> connection with threefold suffering as applicable: the agreeable, the
+> disagreeable, and the others.
 
 ## 6. Philosophical Translation
 
@@ -304,6 +300,9 @@ ApprehendsUnderDuhkha(person, x)
 ```
 
 ## 9. Interpretive Note
+
+
+**Translation note.** The Bhāṣya assigns transformation-suffering to the agreeable and pain-suffering to the disagreeable, while formation-suffering applies to all formations; the separate kārikā reads `manāpā`, against the Bhāṣya witness `manāṣā`.
 
 **The threefold map is not an exclusive partition.** Pain and pleasure have
 distinctive suffering-modes, while formation-suffering supplies the universal

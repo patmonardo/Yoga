@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > dṛṣṭyāptatāyām ekaikaḥ anāsravāḥ nṛṣu vardhanam |
->
 > aśaikṣo nava niśritya bhūmīḥ śaikṣas tu ṣaṭ yataḥ || 6.61 ||
 
-> For one becoming seeing-attained, faculty change requires one uninterrupted Path and one liberation Path. These Paths are uncontaminated, and the strengthening occurs among humans. One beyond training can rely on nine grounds, a trainee on six—the reason for that limit follows.
+> For one becoming seeing-attained, there is one uninterrupted Path and one liberation Path. These Paths are uncontaminated; strengthening occurs among humans. One beyond training relies on nine grounds, but a trainee on six, because—
 
 The verse ends with `yataḥ`; its reason for the trainee's six-ground limit begins with 6.62.
 

@@ -76,21 +76,9 @@ prescribe every practitioner's actual itinerary.
 
 ### Bhāṣya-informed study translation
 
-> The Akaniṣṭha-bound upward-streamer may leap over the intervening
-> stations, skip only some, or pass through them all. Another
-> upward-streamer, whose dhyāna is unmixed, proceeds through higher
-> attainments toward the summit of existence. Akaniṣṭha and that summit
-> are maximal destinations, so final Nirvāṇa may come sooner. A
-> non-returner reborn in the formless realm has four completion modes.
-> A further type reaches final Nirvāṇa here, in this very life.
-
-### Translation note
-
-The Bhāṣya expands the three Akaniṣṭha routes, assigns unmixed dhyāna
-and a calm disposition to the summit-bound course, and explains both
-endpoints as maxima. It identifies the fourfold formless-realm type by
-the completion modes that remain available there and names the
-present-life completer `dṛṣṭadharmaparinirvāyin`.
+> That upward-streamer is a leaper, a half-leaper, or one who passes through all
+> the stations; another goes to the summit of existence. One who goes to the
+> formless realm is fourfold; another attains final Nirvāṇa here.
 
 ## 6. Philosophical Translation
 
@@ -207,6 +195,13 @@ contemplative disposition
 In Organon terms, explicitly as project synthesis, a Path is not defined by destination alone. Its route—skipping, partial traversal, complete traversal, or present completion—is the objective expression of the cultivation already formed within it.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya expands the three Akaniṣṭha routes, assigns
+unmixed dhyāna and a calm disposition to the summit-bound course, and explains
+both endpoints as maxima. It identifies the fourfold formless-realm type by
+the completion modes that remain available there and names the present-life
+completer `dṛṣṭadharmaparinirvāyin`.
+
 
 VAK 6.38 gives a strikingly exact meaning to “course of action.” The same End can govern several valid paths because the intermediate domains are not externally obligatory steps. Their relevance is determined by the practitioner's formed capacity and contemplative disposition.
 

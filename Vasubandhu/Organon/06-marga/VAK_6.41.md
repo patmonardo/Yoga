@@ -73,20 +73,7 @@ case.
 
 ### Bhāṣya-informed study translation
 
-> A Noble who has undergone another birth in the desire-realm reaches
-> non-returning and final Nirvāṇa within that life, without moving to
-> another realm. A Noble reborn in the form realm may still enter the
-> formless realm. Yet neither the former practitioner nor a Noble born
-> above changes faculty type or falls away: another birth has ripened
-> the faculties and brought a superior basis.
-
-### Translation note
-
-The Bhāṣya explains why the first restriction is local, cites Śakra's
-statement about Akaniṣṭha with a Vaibhāṣika response, and gives
-faculty maturation and a superior basis as grounds for the second
-restriction. Its later question about an already desire-detached
-trainee is answered by the Vaibhāṣikas and remains attributed to them.
+> A Noble reborn in the desire realm does not proceed to another realm. Neither that one nor a Noble born higher undergoes a change of faculties or falls away.
 
 ## 6. Philosophical Translation
 
@@ -188,6 +175,9 @@ DesireDetached
 In Organon terms, explicitly as project synthesis, maturation converts a previously revisable Path-morphology into an invariant practical rule. The continuum does not need reflective machinery to prohibit regression; its formed capacity has made regression no longer an admissible operation.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya explains why the first restriction is local, cites Śakra's statement about Akaniṣṭha with a Vaibhāṣika response, and gives faculty maturation and a superior basis as grounds for the second restriction. Its later question about an already desire-detached trainee is answered by the Vaibhāṣikas and remains attributed to them. The Bhāṣya explains the realm restriction through the contrast with a form-realm Noble who may enter the formless realm; it also gives same-life non-return and final Nirvāṇa as the result in the desire realm. Its faculty-maturation explanation and exchange about a desire-detached trainee remain attributed to their speakers.
+
 
 VAK 6.40 defined the strict good course through irreversible wholesome operation. VAK 6.41 now gives that irreversibility a causal morphology: faculty becomes mature and receives a superior support. The restriction on possible transitions is the result of positive development, not an arbitrary ban.
 

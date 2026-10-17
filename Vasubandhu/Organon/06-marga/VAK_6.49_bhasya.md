@@ -3,15 +3,9 @@
 ## 1. Kārikā Anchor
 
 > vimuktyānantaryapathā laukikās tu yathākramam |
->
 > śāntādyudārādyākārā uttarādharagocarāḥ || 6.49 ||
 
-> A mundane liberation Path takes the higher ground as its cognitive
-> field, considering it peaceful, excellent, and an exit. A mundane
-> uninterrupted Path takes the lower ground as its cognitive field,
-> considering it coarse, painful, and wall-like: a ground that affords
-> no exit from itself. The two Path functions thus proceed through
-> opposed aspects of the higher and lower grounds.
+> Mundane liberation Paths have aspects beginning with peacefulness and take higher grounds as their cognitive field; uninterrupted Paths have aspects beginning with coarseness and take lower grounds as their cognitive field.
 
 The two mundane Path functions take different grounds as their
 cognitive fields and determine them through opposed aspect triads.

@@ -64,7 +64,7 @@ PRINCIPAL-FRUIT[COUNT=four]
 CRITERION[1=previous-Path-relinquished]
 CRITERION[2=new-Path-attained]
 CRITERION[3=abandonments-gathered-by-one-attainment]
-CRITERION[4=eight-Knowings-acquired]
+CRITERION[4=eight-knowledges-acquired]
 CRITERION[5=sixteen-Truth-aspects-cultivated]
 ```
 
@@ -81,16 +81,7 @@ continues the list in 6.53's opening line.
 
 ### Bhāṣya-informed study translation
 
-> Although the Path has many individual fruits, four principal fruits are established where five conditions occur together. At each, the candidate's preceding Path is relinquished, a previously unattained fruit Path is acquired, and the abandonments are gathered under one attainment. These are the three conditions named here; the next kārikā adds acquisition of the eight Knowings and cultivation of the sixteen Truth-aspects.
-
-### Translation note
-
-The Bhāṣya reads `pūrvatyāga` as relinquishment of the candidate's
-previous Path and `anyamārgāpti` as acquisition of a previously
-unattained fruit Path. `Kṣayasaṃkalana` is the gathering of
-abandonments through one attainment. The source verse's `pañakāraṇa`
-is retained in the Bhāṣya; the prose confirms five criteria and
-continues the final two in 6.53's opening line.
+> Four śrāmaṇya fruits are established because of five criteria: relinquishment of the preceding Path, attainment of another Path, and gathering of abandonments at the fruit.
 
 ## 6. Philosophical Translation
 
@@ -152,7 +143,7 @@ The Bhāṣya necessarily reads 6.52 with the opening of 6.53. The five conditio
 1. relinquishment of the previous Path
 2. attainment of a previously unattained Path
 3. integration of abandonments in one attainment
-4. acquisition of the eight Knowings
+4. acquisition of the eight knowledges
 5. cultivation of the sixteen Truth-aspects
 ```
 
@@ -200,6 +191,9 @@ principal fruit
 The preceding form is negated as present status, its achieved content is retained, and the new form organizes that content as a whole.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya reads `pūrvatyāga` as relinquishment of the candidate's previous Path and `anyamārgāpti` as acquisition of a previously unattained fruit Path. `Kṣayasaṃkalana` is the gathering of abandonments through one attainment. The source verse's `pañakāraṇa` is retained in the Bhāṣya; the prose confirms five criteria and continues the final two in 6.53's opening line.
+
 
 VAK 6.52 shows why the Path cannot be represented adequately as a flat list of moments. Its many determinate results are organized into qualitative thresholds. At such a threshold, the prior course ceases to be the current form, a new course becomes actual, and the accomplished cessations are recollected into one possession.
 

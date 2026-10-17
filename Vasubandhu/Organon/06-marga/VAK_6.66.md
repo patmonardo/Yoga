@@ -32,10 +32,7 @@ The electronic kārikā witness also transmits **dhanyābhijñā**, but the expl
 | **itarasya** | masculine genitive singular | for the other, one of sharp faculty |
 | **tu** | adversative particle | but, by contrast |
 
-```text
-dhyāneṣu | mārgaḥ | pratipat | sukhā | duḥkhā | anya-bhūmiṣu |
-dhandha-abhijñā | mṛdu-mateḥ | kṣipra-abhijñā | itarasya | tu
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `dhyāneṣu · mārgaḥ · pratipat · sukhā · duḥkhā · anya-bhūmiṣu · dhandha-abhijñā · mṛdu-mateḥ · kṣipra-abhijñā · itarasya · tu`; individual forms and compounds are analyzed in the rows above |
 
 The Bhāṣya replaces the verse’s **mati** language with the technical faculty contrast **mṛdvindriya / tīkṣṇendriya**.
 
@@ -81,11 +78,7 @@ EASE × SPEED → FOUR-POSSIBLE-COURSES
 
 ### Bhāṣya-informed study translation
 
-> In the four dhyānas, where calm and insight are balanced, the Path is an easy course; on the other grounds their imbalance makes it difficult. Whether realization is slow or quick depends on faculty: it is slow for one of mild faculty and quick for one of sharp faculty.
-
-### Translation note
-
-The Bhāṣya grounds **sukhā** in possessed factors, balanced calm and insight, and progress without strain; other grounds lack that balance. The verse’s second distinction concerns faculty, not ground, so easy progress can be slow and difficult progress quick. The running verse reads `dhanyābhijñā`, while the prose repeatedly gives and explains `dhandhābhijñā`; the study follows the latter and records the former in the source witness.
+> In the dhyānas the Path is an easy course; in the other grounds it is difficult. For one of mild faculty, realization is slow; for the other, it is quick.
 
 ## 6. Philosophical Translation
 
@@ -171,7 +164,7 @@ anāgamya and dhyānāntara
 
 Because the requisite configuration is incomplete, the course proceeds through effort (**yatnavāhitva**) and is called difficult.
 
-These **ārūpya-bhūmis** are contemplative grounds. They should not be confused with the existential Ārūpyadhātu, although the attainments have a systematic relation to that domain.
+These **ārūpya-bhūmis** are contemplative grounds. They should not be confused with the existential Ārūpyadhātu, although the attainments have a systematic relation to that field.
 
 **`Dhandhābhijñā / kṣiprābhijñā` — pace of realization**
 
@@ -245,6 +238,8 @@ This guards against treating Path-development as a single scalar quantity. Groun
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya grounds **sukhā** in possessed factors, balanced calm and insight, and progress without strain; other grounds lack that balance. The verse’s second distinction concerns faculty, not ground, so easy progress can be slow and difficult progress quick. The running verse reads `dhanyābhijñā`, while the prose repeatedly gives and explains `dhandhābhijñā`; the study follows the latter and records the former in the source witness.
+
 Here the earlier Dhātu–Indriya insight reaches a particularly exact Path-form. **Bhūmi** supplies the determinate field in which movement is possible; **indriya** supplies the operative capacity by which that field is traversed.
 
 ```text
@@ -260,7 +255,7 @@ pratipad
 
 This is not merely an objective field plus an externally added subject. The Path appears concretely only through their relation: the same faculty moves differently under different contemplative conditions, and the same ground is realized at different speeds by different faculties.
 
-The Organon reconstruction may therefore describe pratipad as the determinate actuality of Path between Domain and Faculty. But the source-layer conclusion is narrower: the Bhāṣya explicitly grounds ease in meditative equilibrium and speed in faculty-strength, thereby refusing to infer one from the other.
+The Organon reconstruction may therefore describe pratipad as the determinate actuality of Path between field and Faculty. But the source-layer conclusion is narrower: the Bhāṣya explicitly grounds ease in meditative equilibrium and speed in faculty-strength, thereby refusing to infer one from the other.
 
 This verse completes the approach to the Bodhi block. VAK 6.65 stated what Mārga does; 6.66 states how that operation is concretely traversed; 6.67 will name the same Path from the side of its End, as **bodhipakṣya**.
 

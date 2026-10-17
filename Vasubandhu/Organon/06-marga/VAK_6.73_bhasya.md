@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > kāmadhātau bhavāgre ca bodhimārgāṅgavarjitāḥ |
->
 > trisatyadarśane śīladharmāvetyaprasādayoḥ || 6.73 ||
 
-> In the desire realm and at the summit of existence, awakening and Noble Path factors are absent: neither ground supports the uncontaminated Path. Seeing suffering, origin, and cessation brings verified confidence in Dharma and in the ethical discipline dear to the noble ones.
+> In the desire realm and at the summit of existence, the awakening and Path factors are absent. At the seeing of the three Truths, [there is] acquisition of verified confidence in ethical discipline and Dharma.
 
 Kārikā study: [VAK_6.73.md](./VAK_6.73.md). The confidence sequence continues in 6.74.
 

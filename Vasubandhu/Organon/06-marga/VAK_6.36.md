@@ -71,20 +71,9 @@ the requirement that a superior Path be present come from the prose.
 
 ### Bhāṣya-informed study translation
 
-> The once-returner who has abandoned seven or eight desire-realm
-> affliction grades, acquired the opposing uncontaminated faculty, and
-> has one birth remaining is one-interval, proceeding toward the third
-> fruit. One remaining grade can still bar that fruit because the Path
-> must cross a realm. When the ninth grade is destroyed, the practitioner
-> becomes a non-returner, with no further return to the desire-realm.
-
-### Translation note
-
-The three grounds for the one-interval designation, the domain-crossing
-argument, and the explanation of non-returning come from the Bhāṣya.
-Its `vīci` can point to the one remaining birth before Nirvāṇa or the
-one affliction grade before the third fruit. Previously abandoned grades
-do not confer this position until the superior Path becomes present.
+> One who has exhausted seven or eight portions of affliction has one birth
+> remaining, is one-interval, and proceeds toward the third fruit; with
+> destruction of the ninth, that one is a non-returner.
 
 ## 6. Philosophical Translation
 
@@ -194,6 +183,13 @@ transcendence of one whole domain
 In Organon terms, explicitly as project synthesis, the final fault is the domain's minimal sufficient condition of recurrence. Removing it does not transport an unchanged practitioner elsewhere; it eliminates the rule under which return to that domain remained possible.
 
 ## 9. Interpretive Note
+
+**Translation note.** The three grounds for the one-interval designation, the
+domain-crossing argument, and the explanation of non-returning come from the
+Bhāṣya. Its `vīci` can point to the one remaining birth before Nirvāṇa or the
+one affliction grade before the third fruit. Previously abandoned grades do
+not confer this position until the superior Path becomes present.
+
 
 VAK 6.36 brings the relation between Path and Dhātu into full view. A domain is not merely a place containing action; it is the structured possibility of a kind of return. So long as even the final relevant afflictive grade remains, desire-realm recurrence is still permitted. When that grade is destroyed, the domain loses its determining hold upon the practitioner.
 

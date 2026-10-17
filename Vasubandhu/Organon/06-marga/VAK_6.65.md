@@ -31,10 +31,7 @@ The opening completes the preceding account of relative completeness. The remain
 | **ākhyaḥ** | masculine nominative singular | bearing the names, called |
 | **catur-vidhaḥ** | masculine nominative singular | fourfold |
 
-```text
-aśaikṣa-paripūrṇatvam | dvābhyām | mārgaḥ | samāsataḥ |
-viśeṣa-mukti-ānantarya-prayoga-ākhyaḥ | catur-vidhaḥ
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `aśaikṣa-paripūrṇatvam · dvābhyām · mārgaḥ · samāsataḥ · viśeṣa-mukti-ānantarya-prayoga-ākhyaḥ · catur-vidhaḥ`; individual forms and compounds are analyzed in the rows above |
 
 The metrical order of the four names is **viśeṣa–mukti–ānantarya–prayoga**. Their explanatory operational order is **prayoga–ānantarya–vimukti–viśeṣa**.
 
@@ -79,11 +76,7 @@ PATH[CLASSIFICATION=summary, MODES=4]
 
 ### Bhāṣya-informed study translation
 
-> One beyond training is called complete by faculty and meditative attainment; fruit is already secured in being beyond training. In summary, the Path has four functions: Application prepares the direct work, Immediacy abandons obstruction, Release first arises free of it, and Further Distinction is Path beyond those three.
-
-### Translation note
-
-The Bhāṣya supplies **indriya** and **samāpatti** for the verse’s instrumental dual; fruit is constitutive of the Aśaikṣa status and therefore is not another variable measure. The verse lists the Path-names in metrical order, while the study translation follows their operative relation. **Viśeṣa** is defined initially as the Path other than the first three; its further grounds for being Path belong to the commentary.
+> One beyond training is complete in two respects. In summary, the Path is fourfold, called Further Distinction, Release, Immediacy, and Application.
 
 ## 6. Philosophical Translation
 
@@ -116,7 +109,7 @@ The Bhāṣya gives three configurations:
 
 ```text
 faculty alone
-    occasion-independent and prajñā-liberated
+    occasion-independent and liberated through discriminative comprehension
 
 attainment alone
     occasion-dependent and doubly liberated
@@ -251,6 +244,8 @@ FinalFruit
 The fourfold summary is not merely a list of kinds. It articulates the relations necessary for the Path to be an effective course to its End.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya supplies **indriya** and **samāpatti** for the verse’s instrumental dual; fruit is constitutive of the Aśaikṣa status and therefore is not another variable measure. The verse lists the Path-names in metrical order, while the study translation follows their operative relation. **Viśeṣa** is defined initially as the Path other than the first three; its further grounds for being Path belong to the commentary.
 
 This verse gives exact Kośa form to the Path as an objective course of action. The End—nirvāṇa—is not merely appended as a later result. It determines why these operations together count as Mārga: they are the road by which that End is reached.
 

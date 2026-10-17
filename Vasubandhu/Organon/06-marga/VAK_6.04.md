@@ -35,10 +35,7 @@ cognition survives physical division or cognitive analysis.
 | `paramārtha-sat` | nominative singular neuter | ultimately real |
 | `anyathā` | adverb | otherwise |
 
-```text
-yatra | bhinnena | tad-buddhiḥ | anya-apohe | dhiyā | ca | tat |
-ghaṭa-artha-vat | saṃvṛti-sat | paramārtha-sat | anyathā
-```
+
 
 The verse is highly compressed. The negative force—cognition of the named
 object no longer occurs—is supplied by the Bhāṣya's explicit prose. `Anyathā`
@@ -112,11 +109,9 @@ negative predicate and the positive converse.
 
 ### Bhāṣya-informed study translation
 
-> What is conventionally real loses its distinct cognition when its parts are
-> divided, as a pot loses pot-cognition when broken into shards, or when other
-> dharmas are excluded in thought, as water loses water-cognition. What is
-> ultimately real is otherwise: its own-nature cognition remains through such
-> division or exclusion, as with visible form and feeling.
+> Where, upon division or mental exclusion of other things, cognition of that
+> no longer arises, that is conventionally real, as with the meaning “pot”;
+> ultimately real is otherwise.
 
 ## 6. Philosophical Translation
 
@@ -165,7 +160,7 @@ division and cognitive exclusion.
 
 **`Paramārtha-sat` — ultimately real**
 
-The analytically final determination exemplified by `rūpa`, visible form, and
+The analytically final determination exemplified by `rūpa`, visible Form, and
 extended by the Bhāṣya to feeling and other dharmas. The plural examples block
 identification with a single all-encompassing substance.
 
@@ -198,7 +193,7 @@ Bhāṣya's concrete example is the pot, not a new technical use of Object.
 The Bhāṣya's example for cognitive exclusion. Water-cognition ceases when the
 dharmas supporting that configured object are removed in analysis.
 
-**`Rūpa` — visible form or material form**
+**`Rūpa` — visible Form or material Form**
 
 The primary ultimate example. Its own-nature cognition is said to remain after
 atomization and after other associated dharmas are excluded. This is a
@@ -269,6 +264,9 @@ SameModeOfApprehension(
 ```
 
 ## 9. Interpretive Note
+
+
+**Translation note.** The Bhāṣya illustrates conventional designation with a pot broken into shards and removal of other properties with water; visible Form and feeling retain cognition of their own nature.
 
 **The two truths do not replace the Four Truths.** VAK 6.02 names the fourfold
 field of realization; 6.04 now discriminates the mode of reality of what is

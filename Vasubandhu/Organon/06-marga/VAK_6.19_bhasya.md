@@ -3,15 +3,11 @@
 ## 1. Kārikā Anchor
 
 > kāmāptaduḥkhaviṣayā tv adhimātrā kṣaṇaṃ ca sā |
->
 > tathāgradharmāḥ sarve tu pañcaskandhā vināptibhiḥ || 6.19 ||
 
-> Strong Acceptance takes desire-realm suffering alone as its cognitive field
-> and lasts one moment. The Highest Mundane Dharmas do likewise; supreme among
-> mundane states, they draw in the Path without serving as its homogeneous
-> cause. Heat, Summits, Acceptances, and the Highest Mundane Dharmas are Prajñā
-> by nature, but with their associates they comprise five aggregates,
-> excluding acquisitions.
+> Strong Acceptance takes desire-realm suffering as its cognitive Condition
+> and lasts one moment. So too do all the Highest Mundane Dharmas. All [these
+> stages] comprise five Bases without acquisitions.
 
 The Bhāṣya explains the one-moment contraction, the causal power of the last
 mundane stage, and the difference between intrinsic nature and constitution
@@ -104,7 +100,7 @@ Dharmas: supreme among mundane dharmas. Although they are not a homogeneous
 cause of the Path, they draw the Path in through their own causal efficacy.
 Heat and the subsequent preparatory stages are called Prajñā-natured because
 they are establishments of recollection in intrinsic nature. With their
-associated complex counted, all comprise five aggregates. Acquisitions
+associated complex counted, all comprise five Bases. Acquisitions
 (`prāpti`) are excluded: otherwise an ārya who possesses the acquisition of
 one of these stages could be wrongly counted as presently manifesting Heat
 or a related mundane stage.
@@ -131,7 +127,7 @@ case-by-case inflections remain provisional.
 The commentary first confines strong Acceptance to one moment of
 desire-realm suffering. It assigns the same field and duration to the Highest
 Mundane Dharmas and explains their causal relation to the Path. It then
-separates Prajñā as intrinsic nature from the five-aggregate associated
+separates Prajñā as intrinsic nature from the five-Base associated
 event, excluding acquisition from that event. The closing matrix classifies
 present and future cultivation across the preparatory stages.
 
@@ -166,7 +162,7 @@ project layer.
 | Analytical level | Determination of all four preparatory stages |
 |---|---|
 | Intrinsic nature | Prajñā |
-| With associates | Five aggregates |
+| With associates | Five Bases |
 | Excluded from present event | Acquisitions (`prāpti`) |
 
 ## 7. Review Status

@@ -3,15 +3,11 @@
 ## 1. Kārikā Anchor
 
 > ūrdhva-srotur abhedena sapta sad-gatayo matāḥ |
->
 > sad-asad-vṛtty-avṛttibhyāṃ gatāpratyāgateś ca tāḥ || 6.40 ||
 
-> The sūtra counts seven courses of the good person by treating the
-> upward-streamer as one, without dividing its routes. These courses
-> are good in the strict sense: wholesome action operates, unwholesome
-> action does not, and those who enter them do not return. Other
-> trainees may also be called good persons in a qualified sense, but
-> the present classification concerns these seven without qualification.
+> Leaving the upward-streamer undivided, seven courses of the good person are
+> reckoned. They are marked by good conduct, non-conduct in what is bad, and
+> the non-return of those who enter them.
 
 The commentary reconciles the sevenfold sūtra count with the finer
 non-returner classification and specifies the sense of “good person.”

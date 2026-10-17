@@ -72,16 +72,7 @@ the liberation Path and abandonment as its fruits.
 
 ### Bhāṣya-informed study translation
 
-> Śrāmaṇya, in the strict sense, is the uncontaminated Path that pacifies affliction. Its conditioned fruits are liberation Paths; its unconditioned fruits are the corresponding abandonments of affliction. There are eighty-nine paired cases: eight from what is abandoned by seeing and eighty-one from nine grades across nine grounds of cultivation. The uninterrupted Paths do the abandoning; their liberation Paths and the abandonments are the two kinds of fruit.
-
-### Translation note
-
-The running verse has `śrāvaṇyamamalo mārgaṃḥ`; the study follows the
-commentary's explicit definition of `śramaṇya` by the uncontaminated
-Path. `Kṣaya` here is the unconditioned abandonment corresponding to
-a conditioned liberation Path. The Bhāṣya counts eight cases of
-abandonment by seeing and nine grades in each of nine grounds of
-abandonment by cultivation: 8 + 81 = 89 paired cases.
+> Śrāmaṇya is the stainless Path. Its fruit is conditioned and unconditioned, in eighty-nine cases: liberation Paths together with their corresponding abandonments.
 
 ## 6. Philosophical Translation
 
@@ -152,7 +143,7 @@ unconditioned kṣaya
     is the cessation possessed
 ```
 
-This also clarifies 6.50: *kṣaya*, *kṣayajñāna*, and *anutpādajñāna* are respectively cessation, Knowing of its accomplishment, and—in the immovable case—Knowing of its non-recurrence.
+This also clarifies 6.50: *kṣaya*, *kṣayajñāna*, and *anutpādajñāna* are respectively cessation, knowledge of its accomplishment, and—in the immovable case—knowledge of its non-recurrence.
 
 ## 8. Logical Determination
 
@@ -197,6 +188,9 @@ fruit ≠ cessation abstracted from attained Path-relation
 The two sides are functionally united as fruit while remaining ontologically distinct.
 
 ## 9. Interpretive Note
+
+**Translation note.** The running verse has `śrāvaṇyamamalo mārgaṃḥ`; the study follows the commentary's explicit definition of `śramaṇya` by the uncontaminated Path. `Kṣaya` here is the unconditioned abandonment corresponding to a conditioned liberation Path. The Bhāṣya counts eight cases of abandonment by seeing and nine grades in each of nine grounds of abandonment by cultivation: 8 + 81 = 89 paired cases.
+
 
 VAK 6.51 makes action and fruit maximally precise. The action is not retrospectively called a fruit: the uninterrupted Path is *śrāmaṇya* itself, the effective course of abandonment. The following liberation-path is the conditioned result of that action, while cessation is its unconditioned result.
 

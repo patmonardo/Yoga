@@ -3,18 +3,11 @@
 ## 1. Kārikā Anchor
 
 > ādye dve parihāṇyā ca maules tatraiva satyadṛk |
->
 > apūrvāptir vihīneṣu hānī dve asamanvitiḥ || 6.22 ||
 
-> An ordinary practitioner may lose Heat and Summits through regression as
-> well as death; even such a practitioner does not regress from Acceptance
-> or the Highest Mundane Dharmas. Preparation on a principal-dhyāna ground
-> leads to seeing the Truths in that same life. Reacquired roots are new
-> dharmas, not the very ones lost. Relinquishment and regression both end
-> possession, but regression is caused by a fault while relinquishment may
-> follow a change in quality. Even after regression from Heat, one remains
-> oriented toward final nirvāṇa and nearer to seeing the Truths if no
-> obstacle intervenes.
+> The first two [roots] may also be lost through regression. On a principal
+> dhyāna ground, one sees the Truths in that very life. When lost roots are
+> reacquired, the acquisition is new; both losses are non-possession.
 
 The commentary distinguishes regressibility, numerical newness after loss,
 and the different causes of a shared state of non-possession.

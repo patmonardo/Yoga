@@ -82,20 +82,10 @@ the upper extent of higher detachment.
 
 ### Bhāṣya-informed study translation
 
-> The Faith-Follower and Dharma-Follower still proceed toward stream-entry
-> if a mundane path had previously abandoned no more than five grades of
-> desire-realm affliction. If it had abandoned six, seven, or eight grades,
-> they proceed toward once-return. If all nine desire-realm grades have
-> been abandoned, or detachment extends higher, they proceed toward
-> non-return. Their fifteen-moment Path of Seeing remains the same;
-> the prior degree of detachment determines the fruit approached.
-
-### Translation note
-
-The Bhāṣya explicitly fills the verse's first-fruit ellipsis, assigns
-six through eight grades to the second fruit, and names the three fruits.
-It extends the higher-detachment case as far as the Essence of Nothingness;
-that limit is kept in the continuous translation and vocabulary.
+> When no more than five grades have been destroyed, the two remain candidates
+> for the first fruit; after six to eight grades, they are candidates for the
+> second [fruit]. When detached from desire, or from a higher realm, they are
+> candidates for the third [fruit].
 
 ## 6. Philosophical Translation
 
@@ -189,6 +179,12 @@ Immediate End = first, second, or third fruit
 The universal is operative precisely because it can preserve its rule while producing the result appropriate to a differentiated input.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya explicitly fills the verse's first-fruit
+ellipsis, assigns six through eight grades to the second fruit, and names the
+three fruits. It extends the higher-detachment case as far as the Essence of
+Nothingness; that limit is kept in the continuous translation and vocabulary.
+
 
 VAK 6.29 showed the Path embodied through two faculty-morphologies. VAK 6.30 demonstrates that morphology alone does not determine the result. The Path-person also arrives with a causal history of work already accomplished.
 

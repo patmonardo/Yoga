@@ -79,21 +79,10 @@ account, and the lineage constraints behind the two redirection limits.
 
 ### Bhāṣya-informed study translation
 
-> Even after regression, one who attained Summits does not sever the wholesome
-> roots, though grave actions and painful destinies remain possible. Even
-> after Acceptance is lost, one who attained it does not enter a painful
-> destiny; its cultivation renders specified future states unable to arise.
-> From the disciple lineage, one may turn toward complete Buddhahood after
-> Heat and Summits, but not after Acceptance, when that lineage has become
-> non-reversible. After the first three preparations, a turn toward
-> Pratyekabuddhahood remains possible.
-
-### Translation note
-
-The Bhāṣya supplies the protections' persistence after loss, the limits of
-Summit's protection, the graded account of non-arising, and the lineage
-interpretation of the verse's compressed second half. The preferred reason
-for the Buddhahood limit is lineage non-reversibility.
+> One who has attained Summits does not sever wholesome roots; one who has
+> attained Acceptance does not go to a painful destiny. Having turned from the
+> disciple lineage, with the first two [roots] one may become a Buddha; with
+> even the first three, another may become a Pratyekabuddha.
 
 ## 6. Philosophical Translation
 
@@ -158,6 +147,12 @@ fixed gotra
 In Organon terms, explicitly as project synthesis, Path Meaning becomes **counterfactual efficacy**: its actuality is displayed in what the continuum can no longer do or become. Meaning is operative when it restructures the range of possible consequences.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya supplies the protections' persistence after
+loss, the limits of Summit's protection, the graded account of non-arising,
+and the lineage interpretation of the verse's compressed second half. The
+preferred reason for the Buddhahood limit is lineage non-reversibility.
+
 
 VAK 6.22 showed that loss of a presently possessed preparatory dharma need not erase the causal transformation produced by its attainment. VAK 6.23 identifies those residual transformations exactly. Summit and Acceptance establish distinct irreversibilities that survive subsequent loss.
 

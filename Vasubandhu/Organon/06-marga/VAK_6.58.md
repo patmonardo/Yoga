@@ -77,17 +77,7 @@ Sautrāntika counterargument rejects it.
 
 ### Bhāṣya-informed study translation
 
-> Four arhat types can lose a stronger disposition gained by sharpening their faculties. The Vaibhāṣika account also allows the first five to fall from arhat fruit, while holding that no one loses an original disposition or a first noble fruit. The Sautrāntikas dispute loss of arhatship and place the instability in meditative attainment. Trainees and ordinary persons likewise have six dispositions; during Seeing, however, faculties do not change, because that transition requires preparatory practice.
-
-### Translation note
-
-`Na pūrvakāt` limits both kinds of loss: the first disposition and
-the first noble fruit remain firm. The fruit-regression statement is
-the Vaibhāṣika account; the Bhāṣya then records the Sautrāntika
-objection and its distinction between arhatship and conditionally
-manifest meditative attainment. `Saṃcāra` is faculty transition,
-excluded during Seeing because the required preparatory practice
-cannot occur in that immediate Path sequence.
+> Four can fall from an acquired disposition and five from the fruit, but none from the original disposition or first noble fruit. Trainees and ordinary persons also have six dispositions; faculty transition does not occur during the Path of Seeing.
 
 ## 6. Philosophical Translation
 
@@ -131,10 +121,10 @@ The same principle applies to fruit. One does not regress from one's first noble
 
 **`Darśanaheya / avastuka / vitathālambana` — Seeing and false apprehension**
 
-The Bhāṣya describes afflictions abandoned by Seeing as **avastuka** in a technical sense. This does not mean that they have no cognitive Condition. They take real aggregates as cognitive Conditions but apprehend them falsely (**vitathālambana**) by superimposing agent, experiencer, controller, or self.
+The Bhāṣya describes afflictions abandoned by Seeing as **avastuka** in a technical sense. This does not mean that they have no cognitive Condition. They take real Bases as cognitive Conditions but apprehend them falsely (**vitathālambana**) by superimposing agent, experiencer, controller, or self.
 
 ```text
-real aggregates
+real Bases
     + false self-superimposition
     → darśana-heya error
 
@@ -265,11 +255,14 @@ The Path is consequently neither rigid nor indefinitely fluid: constitutive Seei
 
 ## 9. Interpretive Note
 
+**Translation note.** `Na pūrvakāt` limits both kinds of loss: the first disposition and the first noble fruit remain firm. The fruit-regression statement is the Vaibhāṣika account; the Bhāṣya then records the Sautrāntika objection and its distinction between arhatship and conditionally manifest meditative attainment. `Saṃcāra` is faculty transition, excluded during Seeing because the required preparatory practice cannot occur in that immediate Path sequence.
+
+
 VAK 6.58 determines the exact boundary between Perception and reflective reconstruction. Seeing does not pause to rebuild its faculty-morphology; it proceeds as one immediate truth-determined sequence. The heavier machinery of *prayoga* belongs before or after it, not within it. This gives textual precision to the rule: keep Seeing perceptual.
 
 In the Organon reconstruction, the Path has memory. A later disposition may be lost without returning the continuum to an unmediated beginning, because its first noble determination remains incorporated as an irreversible floor. Development can reverse locally without making its entire genesis unreal.
 
-The school dispute prevents a premature universal claim about the final boundary of reversibility. Vaibhāṣika allows regression from Arhatship for five types; Sautrāntika argues that genuine exhaustion must itself be irreversible and relocates the unstable element to meditative attainment. The study preserves both voices rather than deciding the controversy by project logic.
+The school dispute prevents a premature universal claim about the final boundary of reversibility. Vaibhāṣika allows regression from Arhatship for five types; Sautrāntika argues that genuine exhaustion must itself be irreversible and relocates the unstable factor to meditative attainment. The study preserves both voices rather than deciding the controversy by project logic.
 
 ## 10. OWL++ Seed
 

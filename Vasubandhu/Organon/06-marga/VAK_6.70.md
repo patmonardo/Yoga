@@ -30,12 +30,9 @@ The seven Bodhi-aligned groups are not assigned as mutually exclusive possession
 | **vargāḥ** | masculine nominative plural | groups or classes |
 | **yathā-kramam** | indeclinable | in corresponding order, according to sequence |
 
-```text
-ādi-karmike | nirvedha-bhāgīyeṣu | prabhāvitāḥ |
-bhāvane | darśane | ca | eva | sapta | vargāḥ | yathā-kramam
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `ādi-karmike · nirvedha-bhāgīyeṣu · prabhāvitāḥ · bhāvane · darśane · ca · eva · sapta · vargāḥ · yathā-kramam`; individual forms and compounds are analyzed in the rows above |
 
-The plural **nirvedhabhāgīyeṣu** supplies four internal positions—Heat, Summits, Receptivity, and Highest Mundane Dharmas—so the four locative expressions yield seven stages altogether.
+The plural **nirvedhabhāgīyeṣu** supplies four internal positions—Heat, Summits, Acceptance, and Highest Mundane Dharmas—so the four locative expressions yield seven stages altogether.
 
 ## 4. Grammar
 
@@ -79,17 +76,13 @@ PREDOMINANT-AT ≠ PRESENT-ONLY-AT
 
 ### Bhāṣya-informed study translation
 
-> The seven Bodhi-aligned groups come to the fore in sequence. Establishments of recollection guide the beginner; right abandonments, bases of power, faculties, and powers mark Heat, Summits, Acceptance, and the Highest Mundane Dharmas respectively; awakening factors predominate in cultivation, and Path factors in Seeing.
-
-### Translation note
-
-**Prabhāvitāḥ** describes characteristic development, not exclusive occurrence. The Bhāṣya unfolds the four stages inside **nirvedhabhāgīyeṣu** as Heat, Summits, Acceptance, and Highest Mundane Dharmas. The anchor follows the first allocation of the last two groups, cultivation then Seeing. An attributed alternative places awakening factors in Seeing and extends the eightfold Path across Seeing and cultivation; the full Bhāṣya keeps the two accounts distinct.
+> The seven groups are predominant, in order, among beginners, among the factors conducive to penetration, in cultivation, and in seeing.
 
 ## 6. Philosophical Translation
 
 The one Path develops by reorganizing which of its already cooperating determinations governs the whole. Examination first establishes its field; exertion intensifies the required work; samādhi stabilizes accomplishment; the faculties acquire governing efficacy; those faculties become powers resistant to opposition; and the noble Path reaches direct Seeing and continued cultivation through its awakening- and Path-factors.
 
-Development is therefore neither replacement nor simple accumulation. Earlier functions persist while a new principality gives each stage its characteristic practical form.
+Development is therefore neither replacement nor simple accumulation. Earlier functions persist while a new predominant function gives each stage its characteristic practical form.
 
 ## 7. Technical Vocabulary
 
@@ -97,10 +90,10 @@ Development is therefore neither replacement nor simple accumulation. Earlier fu
 
 | Developmental position | Predominant group | Bhāṣya’s primary reason |
 |---|---|---|
-| Beginner | four **smṛtyupasthānas** | body, feeling, mind, and dharmas must be discerned |
+| Beginner | four **smṛtyupasthānas** | body, feeling, consciousness, and dharmas must be discerned |
 | Heat, **uṣmagata** | four **samyakprahāṇas** | exertion is bound to attaining further distinction |
 | Summits, **mūrdhan** | four **ṛddhipādas** | non-declining wholesome roots establish a basis of accomplishment |
-| Receptivity, **kṣānti** | five **indriyas** | the factors acquire governing efficacy and no further regression from that stage |
+| Acceptance, **kṣānti** | five **indriyas** | the factors acquire governing efficacy and no further regression from that stage |
 | Highest Mundane Dharmas, **laukikāgradharma** | five **balas** | the factors can no longer be overcome by affliction or mundane opposition |
 | Path of Cultivation, **bhāvanāmārga** | seven **bodhyaṅgas** | Bodhi is near |
 | Path of Seeing, **darśanamārga** | eight **mārgāṅgas** | the Path goes with exceptional swiftness there |
@@ -283,6 +276,8 @@ exact terminal allocation is disputed
 
 ## 9. Interpretive Note
 
+**Translation note.** **Prabhāvitāḥ** describes characteristic development, not exclusive occurrence. The Bhāṣya unfolds the four stages inside **nirvedhabhāgīyeṣu** as Heat, Summits, Acceptance, and Highest Mundane Dharmas. The anchor follows the first allocation of the last two groups, cultivation then Seeing. An attributed alternative places awakening factors in Seeing and extends the eightfold Path across Seeing and cultivation; the full Bhāṣya keeps the two accounts distinct.
+
 This verse makes the Bodhi-aligned system genuinely dynamic. The Path maintains its identity not by remaining internally unchanged but by altering which of its own determinations governs the whole at each stage.
 
 ```text
@@ -293,7 +288,7 @@ same Path-content
 
 This is the Path “in itself” appearing as its own developmental morphology. Smṛti does not disappear when vīrya becomes principal; vīrya does not disappear when samādhi becomes principal. Each achieved organization is retained and redetermined within the next.
 
-The user’s Dhātu–Indriya insight becomes especially clear at Receptivity. The examined field has been established, exertion activated, and samādhi stabilized; only then do the factors become **indriyas**, governing capacities with respect to a supramundane movement. At the Highest Mundane stage, those governing capacities become **balas** because opposition no longer determines them.
+The user’s Dhātu–Indriya insight becomes especially clear at Acceptance. The examined field has been established, exertion activated, and samādhi stabilized; only then do the factors become **indriyas**, governing capacities with respect to a supramundane movement. At the Highest Mundane stage, those governing capacities become **balas** because opposition no longer determines them.
 
 The Organon reconstruction can therefore speak of developmental predominance: a practical whole generates its course by reorganizing its internal hierarchy. The source-level restraint is equally important. Vasubandhu preserves more than one account of the final allocation, so the Path’s genetic unity must not be reduced to one rigid diagram.
 
@@ -305,7 +300,7 @@ Class: DevelopmentalPosition
 Class: BeginnerStage
 Class: HeatStage
 Class: SummitStage
-Class: ReceptivityStage
+Class: AcceptanceStage
 Class: HighestMundaneStage
 Class: PathOfCultivation
 Class: PathOfSeeing
@@ -327,7 +322,7 @@ ObjectProperty: assertedByAllocation
 BeginnerStage hasPredominantGroup EstablishmentsOfRecollectionGroup
 HeatStage hasPredominantGroup RightAbandonmentsGroup
 SummitStage hasPredominantGroup BasesOfSpiritualPowerGroup
-ReceptivityStage hasPredominantGroup FacultiesGroup
+AcceptanceStage hasPredominantGroup FacultiesGroup
 HighestMundaneStage hasPredominantGroup PowersGroup
 PathOfCultivation hasPredominantGroup AwakeningFactorsGroup
 PathOfSeeing hasPredominantGroup NoblePathFactorsGroup

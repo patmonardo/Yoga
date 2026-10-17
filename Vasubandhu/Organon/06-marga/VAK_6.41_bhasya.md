@@ -3,15 +3,9 @@
 ## 1. Kārikā Anchor
 
 > na parāvṛtta-janmāryaḥ kāme dhātv-antaropagaḥ |
->
 > sa cordhva-jaś ca naivākṣa-saṃcāra-parihāṇi-bhāk || 6.41 ||
 
-> A Noble who has undergone another birth in the desire-realm reaches
-> non-returning and final Nirvāṇa within that life, without moving to
-> another realm. A Noble reborn in the form realm may still enter the
-> formless realm. Yet neither the former practitioner nor a Noble born
-> above changes faculty type or falls away: another birth has ripened
-> the faculties and brought a superior basis.
+> A Noble reborn in the desire realm does not proceed to another realm. Neither that one nor a Noble born higher undergoes a change of faculties or falls away.
 
 The commentary scopes the realm restriction and explains why two
 specified Noble positions no longer admit faculty transfer or falling

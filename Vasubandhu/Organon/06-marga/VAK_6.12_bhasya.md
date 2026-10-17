@@ -3,14 +3,12 @@
 ## 1. Kārikā Anchor
 
 > ānāpānasmṛtiḥ prajñā pañcabhūr vāyur-gocarā |
->
 > kāmāśrayā na bāhyānāṃ ṣaḍvidhā gaṇanādibhiḥ || 6.12 ||
 
-> Recollection of breathing is Prajñā by nature, though named for the
-> recollection that sustains it. It occurs on five grounds, ranges over breath
-> as wind, and rests on a desire-realm basis. It does not belong to outsiders
-> without the requisite teaching. Its six modes begin with counting and end
-> in purification.
+> Recollection of inhalation and exhalation is discriminative comprehension by
+> nature. It occurs on five grounds, has wind as its cognitive field, and
+> rests on a desire-realm basis. It does not belong to outsiders; it is
+> sixfold, beginning with counting.
 
 The Bhāṣya distinguishes nature, name, ground, cognitive field, and basis,
 then develops the six modes through which this practice becomes complete.
@@ -158,7 +156,7 @@ whether it is cold or warm.
 
 Discerning recognizes that these are more than wind alone: the four great
 elements, derivative material form, and the consciousness and mental factors
-that depend on them disclose the five aggregates. Turning redirects the
+that depend on them disclose the five Bases. Turning redirects the
 development that used wind as its Condition toward higher wholesome roots, as
 far as the highest mundane dharmas. Purification is entry into the Path of
 Seeing and subsequent Paths. Others extend turning from the establishments
@@ -199,7 +197,7 @@ formalization of the source's sequence.
 | Counting (`gaṇanā`) | Maintain a correct one-to-ten sequence without forcing body or consciousness |
 | Following (`anugama`) | Track the actual course of breath |
 | Establishing (`sthāpanā`) | Steady attention at a bodily location |
-| Discerning (`upalakṣaṇā`) | Recognize elements, derivative form, and the five aggregates |
+| Discerning (`upalakṣaṇā`) | Recognize Elements, derived Form, and the five Bases |
 | Turning (`vivarta`) | Connect the practice to higher wholesome roots |
 | Purification (`pariśuddhi`) | Enter the Path of Seeing and what follows |
 

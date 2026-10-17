@@ -71,20 +71,8 @@ the prose's `phalasthaḥ`, not from the isolated kārikā line.
 
 ### Bhāṣya-informed study translation
 
-> The practitioner established in stream-entry who has abandoned any
-> one through five of the desire-realm cultivation-abandonable grades
-> proceeds toward the second fruit. When the sixth grade is exhausted,
-> that same practitioner attains the second fruit and is a once-returner:
-> after reaching the gods, there is one further coming to the human world.
-> Greed, hatred, and delusion have grown thin because only mild grades remain.
-
-### Translation note
-
-The Bhāṣya supplies the prior fruit-position, explicitly identifies
-sixth-grade exhaustion with attainment of the second fruit, and explains
-both the once-return name and attenuation of the three afflictions. The
-source's `pareṇa janmāghāvāt` is uneven; its precise contribution to the
-birth account remains provisional.
+> One who has destroyed up through the fifth grade is a candidate for the second
+> fruit; when the sixth grade is exhausted, that one is again a once-returner.
 
 ## 6. Philosophical Translation
 
@@ -176,6 +164,13 @@ same abandonment count
 In Organon terms, explicitly as project synthesis, grades one through five articulate the internal moments of a single course. The sixth grade is its End because it exhausts the obstruction sufficient to prevent the second fruit. At that threshold, quantity does not merely cease; it is recollected as a new qualitative Path-position.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya supplies the prior fruit-position, explicitly
+identifies sixth-grade exhaustion with attainment of the second fruit, and
+explains both the once-return name and attenuation of the three afflictions.
+The source's `pareṇa janmāghāvāt` is uneven; its precise contribution to the
+birth account remains provisional.
+
 
 VAK 6.34 excludes five abandoned grades as a family-to-family fruit
 classification; this verse does classify that case as a candidate

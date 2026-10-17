@@ -3,14 +3,12 @@
 ## 1. Kārikā Anchor
 
 > atikrānta-manaskāro bhrūmadhye citta-dhāraṇāt |
->
 > alobho daśabhūḥ kāma-dṛśyālambā nṛjāśubhā || 6.11 ||
 
-> Having released even the remaining half-skull, the practitioner holds
-> consciousness between the eyebrows and has passed beyond attention to the
-> unattractive. This practice has non-greed as its nature, occurs on ten
-> grounds, takes visible form of the desire-realm as its cognitive Condition,
-> and arises among humans.
+> Through holding consciousness between the eyebrows, one is called one whose
+> attention has passed beyond. The unattractive is non-greed, has ten grounds,
+> takes visible Form of the desire-realm as its cognitive Condition, and
+> arises among humans.
 
 The Bhāṣya completes the third practitioner stage, then answers successive
 questions about the unattractive practice's nature, grounds, Condition, and

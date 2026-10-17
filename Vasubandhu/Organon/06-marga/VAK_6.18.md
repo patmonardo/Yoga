@@ -33,10 +33,7 @@ their development, but its strengthening follows a narrower rule.
 | `kṣāntyā` | transmitted form in the compound construction | of Acceptance, in the Bhāṣya's reading of the final clause |
 | `dharmeṇa vardhanam` | instrumental and action noun | strengthening through the dharma establishment |
 
-```text
-ubhaya-ākaraṇam | dharmeṇa | anyaiḥ | api | tu | vardhanam |
-tebhyaḥ | kṣāntiḥ | dvidhā | tadvat | kṣāntyā | dharmeṇa | vardhanam
-```
+
 
 The Bhāṣya resolves `ubhaya` as Heat and Summits. It specifies `dvidhā` as
 weak and medium Acceptance and makes the final instrumental exclusive:
@@ -85,16 +82,10 @@ as well as the distinct scope of each operation.
 
 ### Bhāṣya-informed study translation
 
-> Heat and the Summits first form through the dharma establishment, when the
-> aspects are placed on the Truths; all four establishments can then
-> strengthen them. Acceptance arises from the developed Summits. Its weak and
-> medium grades form in the same way, while every grade of Acceptance is
-> strengthened through the dharma establishment alone.
-
-### Translation note
-
-The first placement of aspects, the two grades meant by `dvidhā`, and the
-exclusivity of Acceptance's strengthening are supplied by the Bhāṣya.
+> The initial formation of both is through the dharma establishment, but they
+> are strengthened through the others as well. From them arises Acceptance,
+> formed in two grades in the same way; Acceptance is strengthened through the
+> dharma establishment.
 
 ## 6. Philosophical Translation
 
@@ -192,6 +183,9 @@ A later LogicFrame can distinguish a stage's provenance from whether an
 earlier grade remains presently operative.
 
 ## 9. Interpretive Note
+
+
+**Translation note.** The Bhāṣya defines initial formation as first placing aspects on the Truths, allows all four establishments to strengthen Heat and the Summits, and says Acceptance arises from developed Summits: its weak and medium grades form alike, but every grade is strengthened through the dharma establishment alone.
 
 **Formation has a specific content.** The commentary defines it through the
 first placement of the aspects on the Truths. This is more precise than a

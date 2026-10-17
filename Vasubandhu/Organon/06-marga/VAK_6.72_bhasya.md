@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > dvitīye ’nyatra saṃkalpād dvayos tad-dvaya-varjitāḥ |
->
 > dhyānāntare ca śīlāṅgais tābhyāṃ ca triṣv arūpiṣu || 6.72 ||
 
-> In the second dhyāna the Path loses right resolve, since discursive thought is absent. In the third and fourth dhyānas, and in intermediate concentration, joy falls away with resolve. The three lower formless attainments lack those two and the ethical Path factors of speech, action, and livelihood.
+> In the second dhyāna, [all factors occur] except right resolve; in the third and fourth dhyānas, they are without those two; likewise in the intermediate concentration. In the three formless attainments, [they are] without the ethical Path factors and those two.
 
 Kārikā study: [VAK_6.72.md](./VAK_6.72.md). The next verse treats the desire realm and Bhavāgra.
 

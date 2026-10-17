@@ -32,10 +32,7 @@ by discontent or great desire.
 | `alabdha-icchā` | nominative singular feminine compound | desire for what has not been obtained |
 | `mahecchatā` | nominative singular feminine abstract noun | great desire |
 
-```text
-vyapakarṣa-dvaya-vataḥ | na | asantuṣṭa-mahecchayoḥ |
-labdhe | bhūyaḥ-spṛhā | atuṣṭiḥ | alabdha-icchā | mahecchatā
-```
+
 
 The first half is elliptical. The Bhāṣya supplies the governing question: for
 whom is the twofold withdrawal needed for cultivation readily accomplished?
@@ -111,15 +108,11 @@ cannot be supplied by agreement features alone.
 > what has been obtained is discontent; desire for what has not been obtained
 > is great desire.
 
-The supplied predicate in brackets follows the Bhāṣya's explicit question and
-answer.
-
 ### Bhāṣya-informed study translation
 
-> Cultivation is readily sustained by one withdrawn in body and consciousness,
-> content and of few desires; it is not so for the discontented or greatly
-> desirous. Discontent is vexation over what one has as neither excellent nor
-> abundant; great desire seeks excellent and abundant things one has not
+> Cultivation is accomplished for one possessed of the two withdrawals, not
+> for the discontented or greatly desirous. Discontent is longing for more
+> with regard to what is obtained; great desire is desire for what is not
 > obtained.
 
 ## 6. Philosophical Translation
@@ -280,8 +273,11 @@ GreatDesire
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The supplied predicate follows the Bhāṣya's question and answer. Its `citta-vyapakarṣa` means distance from unskillful thought, not destruction of consciousness; the Bhāṣya refines the inherited definitions of discontent and great desire.
+
 **Cultivation has practical conditions.** VAK 6.05 defines cultivational
-Prajñā as born from samādhi; 6.06 asks what makes such cultivation sustainable.
+discriminative comprehension as born from samādhi; 6.06 asks what makes such cultivation sustainable.
 The answer reorganizes body, mind, social association, thought, and desire.
 
 **External and internal withdrawal are irreducible.** Physical solitude does

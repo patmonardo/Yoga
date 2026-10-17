@@ -70,21 +70,9 @@ the Path of Cultivation.
 
 ### Bhāṣya-informed study translation
 
-> Each Acceptance is an uninterrupted path that severs possession of the
-> corresponding affliction; each ensuing Knowing is a liberation path
-> arising with acquisition of disconnection. This is the Path of Seeing
-> insofar as it sees a Truth not previously seen. Its first fifteen moments
-> run from Dharma-Knowing-Acceptance concerning suffering through
-> Anvaya-Knowing-Acceptance concerning Path. The sixteenth moment,
-> Anvaya-Knowing concerning Path, belongs to the Path of Cultivation:
-> it develops what has already been seen.
-
-### Translation note
-
-The Bhāṣya supplies severance and acquisition of disconnection as the
-paired operations. It explicitly identifies the fifteenth and sixteenth
-moments and distinguishes first seeing of a Truth from the novelty of a
-moment within the sequence.
+> Acceptances and Knowledges are, respectively, uninterrupted Paths and
+> liberation Paths. Because it sees what was not seen, this is the Path of
+> Seeing, with fifteen moments.
 
 ## 6. Philosophical Translation
 
@@ -160,15 +148,15 @@ The strict Path of Seeing extends:
 
 ```text
 moment 1:
-    Dharma-Knowing-Acceptance concerning suffering
+    Dharma-Knowledge-Acceptance concerning suffering
 
 through moment 15:
-    Anvaya-Knowing-Acceptance concerning Path
+    Anvaya-Knowledge-Acceptance concerning Path
 ```
 
 At the fifteenth moment, the final obstruction opposed to first seeing is severed. The complete Truth-field has now been directly seen.
 
-The sixteenth moment is Anvaya-Knowing concerning Path. It remains part of the sixteen-moment direct realization but no longer performs a first seeing.
+The sixteenth moment is Anvaya-Knowledge concerning Path. It remains part of the sixteen-moment direct realization but no longer performs a first seeing.
 
 **`Bhāvanāmārga` — cultivation of what has been seen**
 
@@ -226,6 +214,12 @@ End       = Truth seen and disconnection established
 The End governs the course from its beginning and, once achieved, changes the kind of movement possible. A successful course does not continue infinitely under the same rule; it produces its successor.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya supplies severance and acquisition of
+disconnection as the paired operations. It explicitly identifies the fifteenth
+and sixteenth moments and distinguishes first seeing of a Truth from the
+novelty of a moment within the sequence.
+
 
 VAK 6.27 showed one realization through seeing, cognitive Condition, and accomplished function. VAK 6.28 identifies the microstructure of that function. Acceptance severs; Knowing secures release. Every pair is a finite course of liberative action.
 

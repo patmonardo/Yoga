@@ -3,14 +3,11 @@
 ## 1. Kārikā Anchor
 
 > karmāntena tribhir vṛttis tṛṣṇotpāda-vipakṣataḥ |
->
 > mamāhaṃkāra-vastv-icchā tat-kālātyanta-śāntaye || 6.8 ||
 
-> Three noble lineages sustain livelihood through contentment with robes,
-> alms-food, and lodging; the fourth makes abandonment and cultivation the
-> practitioner's work. Together they counter four ways thirst arises. The
-> first three presently quiet desire for what is made “mine”; the fourth aims
-> to end desire for both “mine” and the existence made “I.”
+> Through the three there is livelihood, and through the fourth, work, as
+> counterforces to the arising of thirst. They are for the present and
+> complete pacification of desire concerning the bases of “mine” and “I.”
 
 The Bhāṣya assigns the four lineages to livelihood and work, then divides
 their counteractive effects between present and final pacification.

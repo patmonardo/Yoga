@@ -3,16 +3,11 @@
 ## 1. Kārikā Anchor
 
 > kāmaduḥkhe tato 'traiva dharmajñānaṃ tathā punaḥ |
->
 > śeṣe duḥkhe 'nvayakṣāntijñāne satyatraye tathā || 6.26 ||
 
-> Immediately after Dharma-Knowing-Acceptance concerning desire-realm
-> suffering, Dharma-Knowing arises with that same suffering as its cognitive
-> Condition. Anvaya-Knowing-Acceptance then takes the suffering of the form
-> and formless realms together as its Condition, followed by Anvaya-Knowing.
-> This four-moment order occurs again for origin, cessation, and Path,
-> each moment arising immediately after the last and all remaining
-> uncontaminated.
+> For suffering in the desire realm comes Dharma-Knowledge; then, for the
+> remaining suffering, Anvaya-Acceptance and Anvaya-Knowledge; and likewise
+> for each of the other three Truths.
 
 The commentary expands the verse's ellipses into an ordered series of
 Acceptance and Knowing for each Truth and domain range.

@@ -3,12 +3,11 @@
 ## 1. Kārikā Anchor
 
 > satyāny uktāni catvāri duḥkhaṃ samudayas tathā |
->
 > nirodho mārga ity eṣāṃ yathābhisamayaṃ kramaḥ || 6.2 ||
 
-> Four truths have been taught: suffering, its origin, cessation, and the Path.
-> They are set out in the order of direct realization: suffering is examined
-> first, then its cause, then its cessation, and finally the Path to cessation.
+> The four truths have been taught: suffering, its origin, cessation, and the
+> Path. Their order follows direct realization: suffering, its origin,
+> cessation, and then the Path.
 
 The Bhāṣya supplies the sequence of examination that explains the verse's
 `yathābhisamayam`; its fuller account of direct realization follows below.
@@ -141,7 +140,7 @@ The horse simile that follows is textually uncertain in this witness.
 What does *abhisamaya* mean? Full awakening-knowing, from the verbal sense
 of knowing. Why is it without influx rather than with influx? Because it is
 right knowing oriented toward nirvāṇa; “right” means according to reality.
-The appropriated aggregates insofar as they are result are the truth of
+The appropriated Bases insofar as they are result are the truth of
 suffering, and insofar as they are cause are the truth of origin. These two
 differ by name, through the result-and-cause relation, not as separate real
 entities. Cessation and Path differ as real entities as well.
@@ -187,7 +186,7 @@ of their unity. These are project determinations, not source glosses.
 | Cause to result | *samudaya* → *duḥkha* | The cause would be taught first if causation governed the list. |
 | Direct realization | *duḥkha* → *samudaya* → *nirodha* → *mārga* | What is examined and realized first is taught first. |
 
-Suffering and origin designate the same appropriated aggregates as result
+Suffering and origin designate the same appropriated Bases as result
 and cause, while cessation and Path are distinct in reality. The four truths
 remain true for all; the term “Noble” marks seeing them according to reality.
 

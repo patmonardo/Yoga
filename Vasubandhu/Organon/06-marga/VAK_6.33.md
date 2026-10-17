@@ -78,19 +78,8 @@ recursive ninefold grading in each ground.
 
 ### Bhāṣya-informed study translation
 
-> In every ground through the summit of existence, afflictions and their
-> opposing uninterrupted and liberation Paths each have nine grades.
-> Mild, medium, and strong are each divided again into three. The mildest
-> Path removes the strongest affliction first; stronger Path grades then
-> remove increasingly subtle residues, until the strongest Path removes
-> the mildest affliction.
-
-### Translation note
-
-The Bhāṣya identifies the `guṇas` as the paired Path functions, extends
-the grading through the summit of existence, and gives the inverse order
-of Path-power and affliction. The cloth and light analogies remain in the
-continuous translation.
+> In each ground, afflictions are ninefold, and so too are the qualities; mild,
+> medium, and intense are each further divided beginning with mild.
 
 ## 6. Philosophical Translation
 
@@ -192,6 +181,12 @@ fault abandoned
 In Organon terms, explicitly as project synthesis, VAK 6.33 articulates the internal morphology of renewed *prayoga*. The new End is not an indefinitely distant totality; it is the next determinate grade of residue. Because the End is finite and exact, a definite course of action is possible.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya identifies the `guṇas` as the paired Path
+functions, extends the grading through the summit of existence, and gives the
+inverse order of Path-power and affliction. The cloth and light analogies
+remain in the continuous translation.
+
 
 VAK 6.32 established that fruit-position does not automatically become further candidacy. VAK 6.33 now supplies the morphology of the renewed course. The practitioner does not merely resolve to “advance”; the field itself is differentiated into finite tasks, and each Path-grade has a determinate work.
 

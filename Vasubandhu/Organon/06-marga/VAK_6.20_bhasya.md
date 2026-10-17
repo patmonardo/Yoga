@@ -3,14 +3,12 @@
 ## 1. Kārikā Anchor
 
 > iti nirvedhabhāgīyaṃ caturdhā bhāvanāmayam |
->
 > anāgamyāntaradhyānabhūmikaṃ dve tv adho 'pi vā || 6.20 ||
 
-> Heat, Summits, Acceptance, and the Highest Mundane Dharmas are the four
-> cultivation-born wholesome roots that bring on determinate penetration by
-> the Noble Path. Their six grounds are the preliminary concentration, the
-> intermediate concentration, and the four dhyānas. Bhadanta Ghoṣaka also
-> allows Heat and Summits on the desire-realm level.
+> Thus the class conducive to determinate penetration is fourfold, born of
+> cultivation, and grounded in preliminary concentration, intermediate
+> concentration, and the four dhyānas. But the two may also occur on a lower
+> ground.
 
 The commentary determines penetration, the roots' efficacy, their grounds,
 and the scope of the attributed alternative.
@@ -86,7 +84,7 @@ concentration, and the four dhyānas, because it is included in those
 levels. It does not occur above them: these roots accompany the Path of
 Seeing, which is absent above because it takes the desire-realm as its
 cognitive Condition, and that realm must first be fully known and
-abandoned. In the form realm the roots have a five-aggregate maturation.
+abandoned. In the form realm the roots have a five-Base maturation.
 They are completing rather than projecting causes, because they turn
 against continued existence.
 

@@ -78,27 +78,15 @@ scheme, not a claim that all sixteen moments see the Truths simultaneously.
 
 ### Bhāṣya-informed study translation
 
-> The sixteen successive moments of consciousness constitute direct
-> realization of the Four Truths. It is described in three senses: seeing
-> through uncontaminated Prajñā; sharing a Truth as cognitive Condition
-> through associated mental factors; and accomplishing work that extends
-> even to dissociated factors. Seeing remains ordered by the distinct
-> Truths, while the Path's work is integrated across them. All sixteen
-> moments arise on the same meditative ground as the preceding Highest
-> Mundane Dharmas.
-
-### Translation note
-
-The Bhāṣya distributes the three senses across Prajñā, associated factors,
-and dissociated factors. It allows a qualified unity of realization while
-rejecting simultaneous seeing of the four Truths. The source also states
-that cultivation follows the form disclosed in Seeing.
+> Thus this realization of the Truths has sixteen moments of consciousness and
+> is threefold, named by seeing, cognitive Condition, and function; it occurs
+> on the same ground as the Highest Mundane Dharmas.
 
 ## 6. Philosophical Translation
 
 Direct realization is one movement internally articulated into sixteen moments. Its unity does not abolish the distinct Truths or the successive forms under which they are seen. Rather, each determinate seeing participates in one system of Condition relation and accomplished transformation.
 
-The Path-event therefore exceeds a private intuition. Prajñā sees; associated factors participate by taking the same Truth as support; and the realization accomplishes work throughout the practitioner's continuum. One movement is thus determined through its cognitive operation, cognitive field, and effective End.
+The Path-event therefore exceeds a private intuition. discriminative comprehension sees; associated factors participate by taking the same Truth as support; and the realization accomplishes work throughout the practitioner's continuum. One movement is thus determined through its cognitive operation, cognitive field, and effective End.
 
 ## 7. Technical Vocabulary
 
@@ -111,17 +99,17 @@ The Path-event therefore exceeds a private intuition. Prajñā sees; associated 
 The compound means “consisting of sixteen moments of consciousness,” not sixteen enduring consciousnesses or agents. Each of the Four Truths is realized through:
 
 ```text
-Dharma-Knowing-Acceptance
-Dharma-Knowing
-Anvaya-Knowing-Acceptance
-Anvaya-Knowing
+Dharma-Knowledge-Acceptance
+Dharma-Knowledge
+Anvaya-Knowledge-Acceptance
+Anvaya-Knowledge
 ```
 
 The result is one realization with sixteen internally ordered moments.
 
 **`Darśanābhisamaya` — realization by seeing**
 
-The Bhāṣya defines realization as seeing through **uncontaminated Prajñā**. Prajñā is the factor that strictly sees and discriminates the Truth:
+The Bhāṣya defines realization as seeing through **uncontaminated discriminative comprehension**. discriminative comprehension is the factor that strictly sees and discriminates the Truth:
 
 ```text
 anāsrava-prajñā
@@ -133,12 +121,12 @@ This is the narrow cognitive sense of realization. It should not be extended ind
 
 **`Ālambanābhisamaya` — realization by cognitive Condition**
 
-Realization through cognitive Condition includes the mental factors associated with Prajñā, such as feeling. They do not all perform Prajñā's seeing-function, but they share the same Truth as **ālambana**.
+Realization through cognitive Condition includes the mental factors associated with discriminative comprehension, such as feeling. They do not all perform discriminative comprehension's seeing-function, but they share the same Truth as **ālambana**.
 
 Thus one cognitive event is internally complex:
 
 ```text
-Prajñā                → seeing-function
+discriminative comprehension                → seeing-function
 associated caittas    → shared cognitive Condition
 whole associated event → ālambanābhisamaya
 ```
@@ -202,7 +190,7 @@ It then differentiates that unity through three ranges:
 
 | Sense of realization | Proper range |
 |---|---|
-| **darśana** | uncontaminated Prajñā that sees |
+| **darśana** | uncontaminated discriminative comprehension that sees |
 | **ālambana** | associated factors sharing the Truth as cognitive Condition |
 | **kārya** | broader factors and effects transformed by its work |
 
@@ -235,6 +223,12 @@ This is not the order in which the kārikā lists the three terms, nor an equati
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya distributes the three senses across discriminative comprehension,
+associated factors, and dissociated factors. It allows a qualified unity of
+realization while rejecting simultaneous seeing of the four Truths. The source
+also states that cultivation follows the form disclosed in Seeing.
+
+
 VAK 6.26 displayed direct realization as a rigorous succession. VAK 6.27 now prevents two opposed reductions. The Path is not sixteen disconnected flashes, but neither is it one featureless intuition. It is a single functionally integrated realization whose seeing remains sequentially differentiated.
 
 This directly advances the objective genesis of the Path. Every moment possesses a determinate cognitive Condition, an operative cognitive morphology, and an accomplished or incipient function. The End is not added after seeing; the task belonging to each Truth already governs what counts as its adequate realization.
@@ -264,7 +258,7 @@ Class: CognitiveConditionRealization
   SanskritLabel: ālambanābhisamaya
 Class: FunctionalRealization
   SanskritLabel: kāryābhisamaya
-Class: UncontaminatedPrajñā
+Class: Uncontaminateddiscriminative comprehension
 Class: AssociatedMentalFactor
 Class: DissociatedPathFactor
 Class: HighestMundaneDharma
@@ -280,10 +274,10 @@ ObjectProperty: determinesCultivationOf
 
 DirectRealizationOfTruths Facts:
   consistsOf SixteenMomentSequence
-  seesThrough UncontaminatedPrajñā
+  seesThrough Uncontaminateddiscriminative comprehension
   occursOnSameGroundAs HighestMundaneDharma
 
-SeeingRealization seesThrough UncontaminatedPrajñā
+SeeingRealization seesThrough Uncontaminateddiscriminative comprehension
 CognitiveConditionRealization sharesCognitiveConditionWith AssociatedMentalFactor
 FunctionalRealization accomplishesWorkThrough DissociatedPathFactor
 SeeingRealization determinesCultivationOf PathOfCultivation

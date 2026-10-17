@@ -3,13 +3,11 @@
 ## 1. Kārikā Anchor
 
 > vyapakarṣa-dvayavato nāsantuṣṭa-mahecchayoḥ |
->
 > labdhe bhūyaḥ-spṛhātuṣṭir alabdhēcchā mahecchatā || 6.6 ||
 
-> Cultivation is readily sustained by one withdrawn in body and consciousness,
-> content and of few desires; it is not so for the discontented or greatly
-> desirous. Discontent is vexation over what one has as neither excellent nor
-> abundant; great desire seeks excellent and abundant things one has not
+> Cultivation is accomplished for one possessed of the two withdrawals, not
+> for the discontented or greatly desirous. Discontent is longing for more
+> with regard to what is obtained; great desire is desire for what is not
 > obtained.
 
 The Bhāṣya identifies the two withdrawals and the two favorable dispositions.

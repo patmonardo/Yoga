@@ -3,15 +3,11 @@
 ## 1. Kārikā Anchor
 
 > kṣīṇa-saptāṣṭa-doṣāṃśa ekajanmaikavīcikaḥ |
->
 > tṛtīya-pratipannaś ca so 'nāgāmi nava-kṣayāt || 6.36 ||
 
-> The once-returner who has abandoned seven or eight desire-realm
-> affliction grades, acquired the opposing uncontaminated faculty, and
-> has one birth remaining is one-interval, proceeding toward the third
-> fruit. One remaining grade can still bar that fruit because the Path
-> must cross a realm. When the ninth grade is destroyed, the practitioner
-> becomes a non-returner, with no further return to the desire-realm.
+> One who has exhausted seven or eight portions of affliction has one birth
+> remaining, is one-interval, and proceeds toward the third fruit; with
+> destruction of the ninth, that one is a non-returner.
 
 The commentary specifies the one-interval position, explains why a
 single remaining grade can obstruct the fruit, and completes the

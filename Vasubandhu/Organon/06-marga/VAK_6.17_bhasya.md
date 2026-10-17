@@ -3,14 +3,10 @@
 ## 1. Kārikā Anchor
 
 > tata ūṣmagatotpattis tac catuḥsatyagocaram |
->
 > ṣoḍaśākāram ūṣmabhyo mūrdhānas te ’pi tādṛśāḥ || 6.17 ||
 
-> Repeated cultivation of the dharma establishment gradually gives rise to
-> Heat, a wholesome root signaling the approaching Noble Path. Heat takes the
-> Four Truths as its cognitive field through sixteen aspects, four for each
-> truth. From Heat arise the Summits: they retain the same Four Truths and
-> sixteen aspects, yet surpass Heat in development and may still fall away.
+> From that arises Heat, with the Four Truths as its cognitive Condition and
+> sixteen aspects. From Heat arise the Summits; they too are of that kind.
 
 The Bhāṣya supplies the fire image, lists the sixteen aspects, and delimits
 what the Summits share with Heat.

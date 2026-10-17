@@ -3,17 +3,11 @@
 ## 1. Kārikā Anchor
 
 > kṣāntijñānāny ānantaryamuktimārgā yathākramam |
->
 > adṛṣṭadṛṣṭer dṛṅmārgas tatra pañcadaśa kṣaṇāḥ || 6.28 ||
 
-> Each Acceptance is an uninterrupted path that severs possession of the
-> corresponding affliction; each ensuing Knowing is a liberation path
-> arising with acquisition of disconnection. This is the Path of Seeing
-> insofar as it sees a Truth not previously seen. Its first fifteen moments
-> run from Dharma-Knowing-Acceptance concerning suffering through
-> Anvaya-Knowing-Acceptance concerning Path. The sixteenth moment,
-> Anvaya-Knowing concerning Path, belongs to the Path of Cultivation:
-> it develops what has already been seen.
+> Acceptances and Knowledges are, respectively, uninterrupted Paths and
+> liberation Paths. Because it sees what was not seen, this is the Path of
+> Seeing, with fifteen moments.
 
 The commentary assigns the two path-functions and distinguishes the
 sixteen-moment realization from the fifteen-moment Path of Seeing.

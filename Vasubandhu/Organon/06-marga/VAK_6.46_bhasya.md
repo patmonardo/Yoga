@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > laukikenārya-vairāgye visaṃyogāptayo dvidhā |
->
 > lokottareṇa cety eke tyakte kleśāsamanvayāt || 6.46 ||
 
-> When an Ārya gains dispassion through a mundane Path, both mundane and supramundane attainments of separation arise. Some say the same happens through a supramundane Path: if no mundane attainment arose, they argue, relinquishing the supramundane one during a change of faculties would restore possession of the afflictions. The Bhāṣya answers with two counterexamples. Loss of an attainment does not by itself prove renewed possession of an abandoned affliction.
+> When a Noble gains dispassion through a mundane Path, the attainments of separation are twofold. Some say the same holds through a supramundane Path, lest relinquishing its attainment entail possession of the afflictions.
 
 The first twofold acquisition is asserted. `Eke` introduces a
 reported extension, and the Bhāṣya tests the argument for it.
@@ -53,7 +52,7 @@ attainment of separation arise: mundane and supramundane. Some say that
 the same is true when dispassion is obtained by a supramundane Path.
 Why? If a mundane attainment of separation did not arise for someone
 who became dispassionate by the Noble Path, then consider a person
-who has become dispassionate from the sphere of nothingness by that
+who has become dispassionate from the Essence of nothingness by that
 Path. Relying on a dhyāna, that person changes faculties. Because
 the previous Path is relinquished all at once and only the fruit Path
 is acquired, the defender argues that the person would lack separation

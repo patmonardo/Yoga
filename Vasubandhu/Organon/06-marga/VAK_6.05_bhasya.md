@@ -3,14 +3,11 @@
 ## 1. Kārikā Anchor
 
 > vṛttasthaḥ śrutacintāvān bhāvanāyāṃ prayujyate |
->
 > nāmobhayārthaviṣayāḥ śrutamayyādikā dhiyaḥ || 6.5 ||
 
-> Established in disciplined conduct, having received teaching and reflected
-> without inversion, one applies oneself to cultivation. The three forms of
-> Prajñā, formed from learning, reflection, and cultivation, range in order
-> over name, name together with Meaning, and Meaning without dependence on
-> words.
+> One established in conduct, possessing learning and reflection, applies
+> oneself to cultivation. The cognitions formed from learning and the rest
+> have name, both [name and Meaning], and Meaning as their respective fields.
 
 The Bhāṣya supplies the non-inverted reflection, identifies the three
 `dhiyaḥ` as forms of Prajñā, and explains the final form's independence from

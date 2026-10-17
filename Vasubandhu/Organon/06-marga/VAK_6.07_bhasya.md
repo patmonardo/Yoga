@@ -3,13 +3,11 @@
 ## 1. Kārikā Anchor
 
 > viparyāsāt tad-vipakṣau tri-dhātv-āptāv amalau ca tau |
->
 > alobha āryavaṃśāś ca teṣāṃ tuṣṭy-ātmakās trayaḥ || 6.7 ||
 
-> Reversing discontent and great desire yields contentment and fewness of
-> desires as their two counterforces. Both occur in all three realms and may
-> also be without influx; both have non-greed as their nature. The four noble
-> lineages share that nature, and three are forms of contentment.
+> By reversal, the two counterforces extend across the three realms and are
+> also without influx. Their nature is non-greed, as is that of the noble
+> lineages; three of these have contentment as their nature.
 
 The Bhāṣya names the counterforces, explains their scope and shared nature,
 and specifies the four noble lineages.

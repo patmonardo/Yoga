@@ -37,10 +37,7 @@ lineages, three of which have contentment as their nature.
 | `tuṣṭi-ātmakāḥ` | nominative plural masculine compound | having contentment as their nature |
 | `trayaḥ` | nominative plural masculine | three |
 
-```text
-viparyāsāt | tad-vipakṣau | tri-dhātu-āptau | amalau | ca | tau |
-alobhaḥ | ārya-vaṃśāḥ | ca | teṣām | tuṣṭi-ātmakāḥ | trayaḥ
-```
+
 
 `Tad` refers back to discontent and great desire. The Bhāṣya explicitly names
 their counterforces as `saṃtuṣṭi` and `alpecchatā`. The dual forms
@@ -126,15 +123,9 @@ source grammar; these feature labels are a later Organon representation.
 
 ### Bhāṣya-informed study translation
 
-> Reversing discontent and great desire yields contentment and fewness of
-> desires as their two counterforces. Both occur in all three realms and may
-> also be without influx; both have non-greed as their nature. The four noble
-> lineages share that nature, and three are forms of contentment.
-
-### Translation note
-
-The full realm contrast, the fourfold count, the objects of the first three,
-and the name of the fourth lineage are supplied by the Bhāṣya.
+> By reversal, the two counterforces extend across the three realms and are
+> also without influx. Their nature is non-greed, as is that of the noble
+> lineages; three of these have contentment as their nature.
 
 ## 6. Philosophical Translation
 
@@ -290,6 +281,9 @@ IntrinsicNature(each NobleLineage) = NonGreed
 ```
 
 ## 9. Interpretive Note
+
+
+**Translation note.** The Bhāṣya specifies four noble lineages: contentment with robes, alms-food, and lodging, and delight in cultivating abandonment.
 
 **Counterforce is positive determination.** The Path does not simply subtract
 discontent and great desire. It generates contentment and fewness of desires as

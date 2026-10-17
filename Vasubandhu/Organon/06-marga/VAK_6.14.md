@@ -30,10 +30,7 @@ their intrinsic and universal determinations.
 | `kāya-vit-citta-dharmāṇām` | genitive plural compound | of body, feeling, consciousness, and dharmas |
 | `dvi-lakṣaṇa-parīkṣaṇāt` | ablative singular compound | through examination according to two determinations |
 
-```text
-niṣpanna-śamathaḥ | kuryāt | smṛti-upasthāna-bhāvanām |
-kāya-vit-citta-dharmāṇām | dvi-lakṣaṇa-parīkṣaṇāt
-```
+
 
 The compressed `vit` member is resolved by the Bhāṣya as `vedanā`, feeling.
 The prose explicitly enumerates the four fields and identifies the two
@@ -115,23 +112,15 @@ model that structure for later reflection.
 
 ### Bhāṣya-informed study translation
 
-> After the two entry practices yield concentration and accomplished śamatha,
-> the practitioner cultivates the four establishments of recollection to
-> complete vipaśyanā. Body, feeling, consciousness, and dharmas are examined
-> by their own characteristics and by the common characteristics that apply:
-> impermanence of the conditioned, suffering of the contaminated, and
-> emptiness and not-self of all dharmas.
-
-### Translation note
-
-The two entrance-practices, samādhi, vipaśyanā as telos, and the exact
-distribution of universal determinations are supplied by the Bhāṣya.
+> With śamatha accomplished, one should cultivate the establishments of
+> recollection by examining body, feeling, consciousness, and dharmas through
+> their two characteristics.
 
 ## 6. Philosophical Translation
 
 > Stabilization establishes a field in which disciplined examination can
 > occur; it does not complete that examination. Recollection now preserves
-> body, feeling, consciousness, and dharmas as distinct fields while Prajñā determines
+> body, feeling, consciousness, and dharmas as distinct fields while discriminative comprehension determines
 > each both in its own specificity and under the universal law appropriate to
 > its range. The Path therefore neither dissolves particulars into abstract
 > universality nor isolates them as unrelated data. Vipaśyanā is completed
@@ -310,6 +299,9 @@ AND Sees(person, Body, MomentByMoment)
 ```
 
 ## 9. Interpretive Note
+
+
+**Translation note.** The Bhāṣya links the practice to the two entry methods, concentration, and completion of vipaśyanā, and specifies the common characteristics: impermanence of conditioned dharmas, suffering of those with influx, and emptiness and not-self of all dharmas; “dharmas” excludes body, feeling, and consciousness.
 
 **Śamatha is accomplished yet not terminal.** Completion is function-relative.
 Śamatha can be fully accomplished as stabilization while vipaśyanā remains to

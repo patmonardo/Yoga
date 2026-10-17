@@ -5,10 +5,9 @@ Last verse of Mārga-nirdeśa. The chapter ends on a matrix, not a mood.
 ## 1. Kārikā Anchor
 
 > nirvidyate duḥkha-hetu-kṣānti-jñānair virajyate |
->
 > sarvair jahāti yair evaṃ catuṣkoṭika-saṃbhavaḥ || 6.79 ||
 
-> One is disenchanted only through the receptivities and knowledges of suffering and its origin, whose objects are fit for turning away. One is dispassionate through the receptivities and knowledges of all four Truths, but only through those by which one actually abandons afflictions. Thus there are four possibilities: disenchanted only, dispassionate only, both, or neither.
+> One becomes disenchanted through acceptances and knowledges concerning suffering and its cause; one becomes dispassionate through all [four Truths], but only through those by which one abandons. Thus a fourfold possibility arises.
 
 Kārikā study: [`VAK_6.79.md`](./VAK_6.79.md).
 
@@ -60,7 +59,7 @@ type Corner = { nirveda: boolean; viraga: boolean };
 
 ## 7. Review Status
 
-Upgrade against kārikā Literal, first-pass parent, running source from 389|21.
+Upgrade against kārikā Literal, running source from 389|21.
 Verse-English from [`VAK_6.79.md`](./VAK_6.79.md) §5 Literal.
 Written under `Vasubandhu/Organon/`.
 **End of Chapter 6 basic Organon bhāṣya pass.** QA tomorrow.

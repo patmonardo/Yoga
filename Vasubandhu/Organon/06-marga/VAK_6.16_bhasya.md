@@ -3,13 +3,11 @@
 ## 1. Kārikā Anchor
 
 > sa dharmasmṛtyupasthāne samastālambane sthitaḥ |
->
 > ānityaduḥkhataḥ śūnyānātmatas tān vipaśyati || 6.16 ||
 
-> Having cultivated the establishments for body, feeling, consciousness, and
-> dharmas, the practitioner stands in the dharma establishment with a combined
-> cognitive Condition. They gather those fields together and see them in four
-> aspects: as impermanent, suffering, empty, and not-self.
+> Established in the establishment of recollection for dharmas, with all as
+> its cognitive Condition, the practitioner sees those [four establishments]
+> as impermanent, suffering, empty, and not-self.
 
 The Bhāṣya resolves the combined Condition as all four examined fields and
 names each aspect in parallel form.

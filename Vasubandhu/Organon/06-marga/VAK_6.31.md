@@ -77,21 +77,9 @@ not attained immediately at this moment.
 
 ### Bhāṣya-informed study translation
 
-> When the sixteenth moment of consciousness arises, the Faith-Follower and
-> Dharma-Follower cease to be candidates and stand in the fruit each had
-> approached: stream-entry, once-return, or non-return. The gentle-faculty
-> practitioner is then *śraddhādhimukta*, Faith-Resolved; the sharp-faculty
-> practitioner is *dṛṣṭiprāpta*, one who has attained through Seeing.
-> Arhatship is not reached at this first completion: Seeing leaves
-> cultivation-abandonable afflictions, and prior mundane detachment cannot
-> reach the summit of existence.
-
-### Translation note
-
-The Bhāṣya supplies the three possible fruits, the two reasons immediate
-arhatship is excluded, and the predominance of faith and resolve or Prajñā
-and Seeing in the new names. The running witness's damaged second kārikā
-line is preserved in the continuous Sanskrit section.
+> At the sixteenth moment, the two are established in whichever fruit each was
+> approaching. Then, with mild and sharp Faculties, they are respectively
+> Faith-Resolved and Attained through Seeing.
 
 ## 6. Philosophical Translation
 
@@ -132,11 +120,11 @@ gentle faculty
 
 **`Dṛṣṭiprāpta` — attained through Seeing**
 
-The sharp-faculty practitioner formerly called **dharmānusārin** is now **dṛṣṭiprāpta**, one who has attained through Seeing or View. The Bhāṣya relates this designation to the predominance of Prajñā and *dṛṣṭi*.
+The sharp-faculty practitioner formerly called **dharmānusārin** is now **dṛṣṭiprāpta**, one who has attained through Seeing or View. The Bhāṣya relates this designation to the predominance of discriminative comprehension and *dṛṣṭi*.
 
 ```text
 sharp faculty
-    → Prajñā predominates
+    → discriminative comprehension predominates
     → Seeing/View predominates
     → dṛṣṭiprāpta
 ```
@@ -209,13 +197,19 @@ Because that fruit remains short of arhatship, the result immediately functions 
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya supplies the three possible fruits, the two
+reasons immediate arhatship is excluded, and the predominance of faith and
+resolve or discriminative comprehension and Seeing in the new names. The running witness's damaged
+second kārikā line is preserved in the continuous Sanskrit section.
+
+
 VAK 6.28 showed that Seeing ends when it has made the unseen Truth seen. VAK 6.31 shows the same completion from the side of the practitioner. One no longer proceeds toward the fruit; one stands in it.
 
 This confirms that the End was real throughout the course. During the fifteen moments it selected and organized the movement as fruit-candidacy. At the sixteenth it becomes actuality and changes the practitioner's formal status. The End is not merely a subjective picture of a possible future; it is the rule according to which the course produces its result.
 
 Yet the new position contains a further task. Seeing cannot do the work proper to Cultivation, and mundane preparation cannot already remove the summit of existence. The attained fruit therefore becomes a determinate Beginning for the next Path-course.
 
-The kārikā states fruit-establishment at the sixteenth moment, preservation of the previously approached fruit, and the two new faculty-based names. The three possible fruits, exclusion of immediate arhatship, its two causal reasons, and the predominance of faith/resolve or Prajñā/view are Bhāṣya determinations. The End-in-view / End-attained / new-Beginning structure is Organon synthesis.
+The kārikā states fruit-establishment at the sixteenth moment, preservation of the previously approached fruit, and the two new faculty-based names. The three possible fruits, exclusion of immediate arhatship, its two causal reasons, and the predominance of faith/resolve or discriminative comprehension/view are Bhāṣya determinations. The End-in-view / End-attained / new-Beginning structure is Organon synthesis.
 
 ## 10. OWL++ Seed
 
@@ -262,6 +256,6 @@ SixteenthMoment cannotImmediatelyAttain Arhatship
 Constraint: Each practitioner becomes established in the fruit previously approached.
 Constraint: Faculty-type persists while the path-person designation changes.
 Constraint: Immediate arhatship is excluded because cultivation-abandonable afflictions remain and prior mundane detachment cannot include bhavāgra.
-BhāṣyaRule: Faith and resolve predominate in FaithResolved; Prajñā and Seeing predominate in AttainedThroughView.
+BhāṣyaRule: Faith and resolve predominate in FaithResolved; discriminative comprehension and Seeing predominate in AttainedThroughView.
 ProjectRule: EndAttained becomes NewBeginning when further determinate work remains.
 ```

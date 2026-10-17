@@ -20,8 +20,8 @@ The Bhāṣya introduces this verse by saying that **this same Mārga** now rece
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| **anutpāda-kṣaya-jñāne** | neuter nominative dual compound | Knowing of non-arising and Knowing of exhaustion |
-| **bodhiḥ** | feminine nominative singular | awakening, technically constituted here by the two Knowings |
+| **anutpāda-kṣaya-jñāne** | neuter nominative dual compound | knowledge of non-arising and knowledge of exhaustion |
+| **bodhiḥ** | feminine nominative singular | awakening, technically constituted here by the two knowledges |
 | **tad-anulomyataḥ** | ablatival adverbial compound | because of conformity with that Bodhi |
 | **sapta-triṃśat** | numeral | thirty-seven |
 | **tu** | adversative or resumptive particle | but, now, as for |
@@ -30,10 +30,7 @@ The Bhāṣya introduces this verse by saying that **this same Mārga** now rece
 | **dravyataḥ** | indeclinable ablatival adverb | according to underlying operative dharma-reality |
 | **daśa** | numeral | ten |
 
-```text
-anutpāda-kṣaya-jñāne | bodhiḥ | tad-anulomyataḥ |
-sapta-triṃśat | tu | tat-pakṣyāḥ | nāmataḥ | dravyataḥ | daśa
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `anutpāda-kṣaya-jñāne · bodhiḥ · tad-anulomyataḥ · sapta-triṃśat · tu · tat-pakṣyāḥ · nāmataḥ · dravyataḥ · daśa`; individual forms and compounds are analyzed in the rows above |
 
 The dual **jñāne** is predicated of singular **bodhiḥ**: one awakening is formally articulated through two consummate knowledges.
 
@@ -63,7 +60,7 @@ The syntax does not dismiss the names as unreal. It counts the same system under
 **Future Feature Grammar sketch (not executable):**
 
 ```text
-BODHI[KNOWING={exhaustion, non-arising}]
+BODHI[KNOWLEDGE={exhaustion, non-arising}]
   → TASK[done=true, to-be-done-again=false]
 BODHI-ALIGNED-DHARMA[RELATION=conforms-to-Bodhi]
   → COUNT[BY=Path-name, VALUE=37]
@@ -74,15 +71,11 @@ BODHI-ALIGNED-DHARMA[RELATION=conforms-to-Bodhi]
 
 ### Literal Translation
 
-> Bodhi is Knowing of non-arising and Knowing of exhaustion. Because of conformity with that, those belonging to its side are thirty-seven by designation, but ten according to underlying dharma-reality.
+> Bodhi is knowledge of non-arising and knowledge of exhaustion. Because of conformity with that, those belonging to its side are thirty-seven by designation, but ten according to underlying dharma-reality.
 
 ### Bhāṣya-informed study translation
 
-> Awakening is Knowing that exhaustion has been achieved and that what is exhausted will not arise again: the work is done and does not need repeating. The factors conforming to this Awakening are thirty-seven by their Path names, but ten when counted as underlying dharmas.
-
-### Translation note
-
-The Bhāṣya glosses **kṣayajñāna** and **anutpādajñāna** as the two Knowings through which the practitioner understands that the work has been done and will not need repeating. **Tad-anulomyataḥ** grounds the designation *bodhipakṣya* in conformity with Bodhi. **Nāmataḥ / dravyataḥ** distinguishes the count of thirty-seven named functions from ten constituent dharmas; 6.68 supplies their list.
+> Awakening is the two knowledges: non-arising and exhaustion. In conformity with it, its factors are thirty-seven by name, but ten by constituent dharmas.
 
 ## 6. Philosophical Translation
 
@@ -92,7 +85,7 @@ Their plurality is functional rather than a multiplication of underlying realiti
 
 ## 7. Technical Vocabulary
 
-**`Kṣayajñāna / anutpādajñāna` — Bodhi as two Knowings**
+**`Kṣayajñāna / anutpādajñāna` — Bodhi as two knowledges**
 
 The Bhāṣya directly glosses:
 
@@ -284,6 +277,8 @@ DifferenceOfPathFunction
 The system holds identity and difference together under explicitly distinct counting relations.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya glosses **kṣayajñāna** and **anutpādajñāna** as the two knowledges through which the practitioner understands that the work has been done and will not need repeating. **Tad-anulomyataḥ** grounds the designation *bodhipakṣya* in conformity with Bodhi. **Nāmataḥ / dravyataḥ** distinguishes the count of thirty-seven named functions from ten constituent dharmas; 6.68 supplies their list.
 
 This is the promised LogoGenesis of Path from its End. Bodhi is not merely the final event waiting at the far side of practice. As the accomplished and irreversible End, it determines which operations belong to its side and gives the thirty-seven their systematic direction.
 

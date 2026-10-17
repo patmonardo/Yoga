@@ -73,21 +73,7 @@ Bhāṣya. It does not imply that every affliction is presently a target.
 
 ### Bhāṣya-informed study translation
 
-> From the first grade abandoned in the first dhyāna through the eighth
-> at the summit of existence, the non-returner proceeds toward arhatship.
-> Even on the uninterrupted Path against the final ninth grade, the
-> practitioner is still a candidate. That Path is called diamond-like
-> concentration: the strongest uninterrupted Path, capable of breaking
-> every latent affliction, though only the last grade remains to be broken.
-
-### Translation note
-
-The Bhāṣya supplies the full candidate range, extends candidacy
-through the final uninterrupted Path, and explains the diamond image
-through counteractive power. The source verse's `pratipakṣakaḥ` is
-retained in the continuous witness; `pratipannakaḥ` follows the
-explicit prose gloss in this study. Arhatship as attained fruit belongs
-to the following transition.
+> The candidate for arhatship destroys the grades from the first through the eighth, ending at the summit of existence. Even the uninterrupted Path directed against the ninth grade is diamond-like.
 
 ## 6. Philosophical Translation
 
@@ -156,9 +142,9 @@ vimukti-mārga
 
 Maximal Path-power does not collapse action and fruit into one moment.
 
-**`Jñāna-ākāra-ālambana-bheda` — variants by Knowing, aspect, and Condition**
+**`Jñāna-ākāra-ālambana-bheda` — variants by knowledge, aspect, and Condition**
 
-The Bhāṣya reports differentiations of diamond-like concentrations by cognitive Condition, Knowing aspect, meditative ground, lineage, and faculty. One count gives 52 variants associated with the preliminary concentration; another doctrinal option increases such counts, and further multiplication follows from lineage and faculty.
+The Bhāṣya reports differentiations of diamond-like concentrations by cognitive Condition, knowledge aspect, meditative ground, lineage, and faculty. One count gives 52 variants associated with the preliminary concentration; another doctrinal option increases such counts, and further multiplication follows from lineage and faculty.
 
 The arithmetic is a fine scholastic analysis rather than the minimal doctrinal core. Its important implication is functional:
 
@@ -207,6 +193,9 @@ FollowingLiberationPath
 In Organon terms, explicitly as project synthesis, complete universality is not diffuse attention to every possible obstruction. It is a formed capacity whose universal adequacy is concentrated in the one determinate task actually present.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya supplies the full candidate range, extends candidacy through the final uninterrupted Path, and explains the diamond image through counteractive power. The source verse's `pratipakṣakaḥ` is retained in the continuous witness; `pratipannakaḥ` follows the explicit prose gloss in this study. Arhatship as attained fruit belongs to the following transition. The diamond-like Path is described as the strongest uninterrupted Path, capable of breaking every latent affliction although only the final grade remains its present target.
+
 
 VAK 6.44 provides another exact reason not to burden Seeing with total reflective machinery. The diamond-like Path does not represent and reprocess the entire history of affliction. Its power is universal, but its present perception and operation are perfectly local: the final remaining grade is seen and broken.
 

@@ -31,10 +31,7 @@ The verse completes the examples begun in 6.68 and then states their governing r
 | **tu** | adversative particle | but, however |
 | **te** | masculine nominative plural pronoun | those practice-groups / those qualities in them |
 
-```text
-vīryam | samyak-prahāṇa-ākhyam | ṛddhi-pādāḥ | samādhayaḥ |
-pradhāna-grahaṇam | sarve | guṇāḥ | prāyogikāḥ | tu | te
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `vīryam · samyak-prahāṇa-ākhyam · ṛddhi-pādāḥ · samādhayaḥ · pradhāna-grahaṇam · sarve · guṇāḥ · prāyogikāḥ · tu · te`; individual forms and compounds are analyzed in the rows above |
 
 The final pronoun is compact, but the Bhāṣya makes the referent operationally clear: the three practice-groups contain all qualities belonging to application.
 
@@ -79,17 +76,13 @@ PRINCIPAL-FACTOR ≠ EXCLUSIVE-CONTENT
 
 ### Bhāṣya-informed study translation
 
-> Energy gives the right abandonments their operative character; samādhi does the same for the bases of spiritual power. Each name takes the predominant factor, while the complete practice still includes all the qualities active in its application.
-
-### Translation note
-
-The Bhāṣya explains the right abandonments through energy’s direction of body, speech, and mind, and the bases of power through samādhi as the support of accomplished qualities. **Pradhānagrahaṇa** governs both identifications and the preceding identification of recollection establishments with Prajñā. The verse’s **tu** preserves all the qualities active in each practice-complex. The further disputes over bases of power and the faculty/power distinction remain in the commentary.
+> Energy is called the right abandonments, and the bases of spiritual power are collectedness. The names take the predominant factor, but all the qualities of application are present in them.
 
 ## 6. Philosophical Translation
 
 A practical whole receives its determinate name from the operation governing it, not from the exclusion of every other operation. Predominance organizes plurality: energy makes the right abandonments exertive, and samādhi makes the bases of accomplishment stable, while the full constellation of Bodhi-aligned qualities remains active within each.
 
-The Path is consequently neither an aggregate of independent factors nor an abstract unity beneath them. It is an ordered whole whose principal and associated determinations cooperate without losing their difference.
+The Path is consequently neither a collection of independent factors nor an abstract unity beneath them. It is an ordered whole whose principal and associated determinations cooperate without losing their difference.
 
 ## 7. Technical Vocabulary
 
@@ -112,7 +105,7 @@ Therefore:
 
 ```text
 smṛtyupasthāna
-    principally prajñā
+    principally discriminative comprehension
 
 samyakprahāṇa
     principally vīrya
@@ -144,7 +137,7 @@ Vasubandhu derives the name functionally:
 
 ```text
 through vīrya
-    body, speech, and mind
+    body, speech, and Mind
     are correctly directed and exerted
 ```
 
@@ -171,7 +164,7 @@ samādhi itself = ṛddhi
 chanda and the others = its separate bases
 ```
 
-Vasubandhu rejects this because it would add aspiration (**chanda**) and mind (**citta**) as distinct dravyas, raising the count to thirteen, and because it conflicts with the sūtra’s separate description of ṛddhi.
+Vasubandhu rejects this because it would add aspiration (**chanda**) and consciousness (**citta**) as distinct dravyas, raising the count to thirteen, and because it conflicts with the sūtra’s separate description of ṛddhi.
 
 The criticism establishes:
 
@@ -214,7 +207,7 @@ adhimātra
 
 Thus the designation changes because operative stability changes, while the underlying five dharmas remain the same.
 
-**`Śraddhā → vīrya → smṛti → samādhi → prajñā` — the faculty order**
+**`Śraddhā → vīrya → smṛti → samādhi → discriminative comprehension` — the faculty order**
 
 Their sequence is practical rather than merely enumerative:
 
@@ -232,10 +225,10 @@ smṛti
         → prevents distraction and permits
 
 samādhi
-    collected mind
+    collected consciousness
         → enables
 
-prajñā
+discriminative comprehension
     knowledge of things as they are
 ```
 
@@ -286,12 +279,14 @@ Energy
 Recollection
     enables Collectedness
 Collectedness
-    enables Prajñā
+    enables discriminative comprehension
 ```
 
 The Path-system therefore combines composition, predominance, intensification, and ordered generation.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya explains the right abandonments through energy’s direction of body, speech, and Mind, and the bases of power through samādhi as the support of accomplished qualities. **Pradhānagrahaṇa** governs both identifications and the preceding identification of recollection establishments with discriminative comprehension. The verse’s **tu** preserves all the qualities active in each practice-complex. The further disputes over bases of power and the faculty/power distinction remain in the commentary.
 
 This verse gives the precise rule required by the Semantic Copula. When the Kośa says:
 
@@ -324,7 +319,7 @@ indifferent holism
     all factors present but none governing the form
 ```
 
-The Bhāṣya instead presents an internally differentiated whole. Moreover, the sequence from confidence to prajñā shows that its members do not merely coexist: each produces the practical condition under which the next becomes possible. That is the Path Meaning itself as ordered mediation, although this final formulation belongs to the project synthesis rather than Vasubandhu’s explicit terminology.
+The Bhāṣya instead presents an internally differentiated whole. Moreover, the sequence from confidence to discriminative comprehension shows that its members do not merely coexist: each produces the practical condition under which the next becomes possible. That is the Path Meaning itself as ordered mediation, although this final formulation belongs to the project synthesis rather than Vasubandhu’s explicit terminology.
 
 ## 10. OWL++ Seed
 
@@ -344,7 +339,7 @@ Class: Confidence
 Class: Energy
 Class: Recollection
 Class: Collectedness
-Class: DiscriminativeUnderstanding
+Class: DiscriminativeComprehension
 
 ObjectProperty: hasPrincipalFactor
 ObjectProperty: hasAssociatedFactor
@@ -353,7 +348,7 @@ ObjectProperty: groundedUpon
 ObjectProperty: enables
 ObjectProperty: differsByDegree
 
-EstablishmentOfRecollection hasPrincipalFactor DiscriminativeUnderstanding
+EstablishmentOfRecollection hasPrincipalFactor DiscriminativeComprehension
 RightAbandonment hasPrincipalFactor Energy
 BasisOfSpiritualPower hasPrincipalFactor Collectedness
 PracticeComplex hasAssociatedFactor AssociatedAppliedQuality
@@ -362,13 +357,13 @@ FacultyFunction differsByDegree PowerFunction
 Confidence enables Energy
 Energy enables Recollection
 Recollection enables Collectedness
-Collectedness enables DiscriminativeUnderstanding
+Collectedness enables DiscriminativeComprehension
 
 KārikāRule: Right abandonments are principally energy and bases of spiritual power are principally samādhi.
 KārikāRule: These identifications take the predominant factor while retaining all qualities belonging to application.
-BhāṣyaRule: Energy is principal because it correctly directs body, speech, and mind.
+BhāṣyaRule: Energy is principal because it correctly directs body, speech, and Mind.
 BhāṣyaRule: Samādhi is principal because attainment of all qualities is established upon it.
 BhāṣyaRule: The same five are faculties when overcomeable and powers when intensified beyond being overcome.
-BhāṣyaRule: Confidence generates exertion, exertion supports recollection, recollection supports samādhi, and samādhi enables prajñā.
+BhāṣyaRule: Confidence generates exertion, exertion supports recollection, recollection supports samādhi, and samādhi enables discriminative comprehension.
 ProjectRule: A Path-practice receives determinate meaning through predominance within an internally articulated whole.
 ```

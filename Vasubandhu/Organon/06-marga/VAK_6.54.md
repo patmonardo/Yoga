@@ -77,16 +77,7 @@ the commentary's debate and further account of turning.
 
 ### Bhāṣya-informed study translation
 
-> The uncontaminated Path is brāhmaṇya because it carries away afflictions, and the Brahma-wheel because the Buddha, called Brahmā for unsurpassed brāhmaṇya, sets it in motion. The Path of Seeing is called the Dharma-wheel for its swift, wheel-like action. Ghoṣaka describes the eightfold Path through spokes, hub, and rim. The three-turning, twelve-aspect wheel also fits the Dharma exposition: its Meaning is made known and enters another continuum, where Seeing arises. The whole noble Path can likewise be called a wheel as it moves through the continuums of those being trained.
-
-### Translation note
-
-The kārikā names brāhmaṇya, Brahma-wheel, and the Path of Seeing as
-Dharma-wheel. Ghoṣaka's wheel-part analysis, the Vaibhāṣika mapping
-of three turnings, the objection to restricting all three to Seeing,
-and the Dharma exposition or whole-Path accounts are Bhāṣya voices.
-`Artha-jñāpana` is making Meaning known; its success is the Dharma's
-going into another continuum, with Seeing arising there.
+> That same śrāmaṇya is brāhmaṇya and the Brahma-wheel because Brahmā set it in motion. The Dharma-wheel, however, is the Path of Seeing, through its swift movement and likeness to a wheel's parts.
 
 ## 6. Philosophical Translation
 
@@ -242,6 +233,9 @@ Truth
 The wheel's unity is therefore dynamic and semantic-practical: differentiated determinations hold together by producing the Path's operation anew.
 
 ## 9. Interpretive Note
+
+**Translation note.** The kārikā names brāhmaṇya, Brahma-wheel, and the Path of Seeing as Dharma-wheel. Ghoṣaka's wheel-part analysis, the Vaibhāṣika mapping of three turnings, the objection to restricting all three to Seeing, and the Dharma exposition or whole-Path accounts are Bhāṣya voices. `Artha-jñāpana` is making Meaning known; its success is the Dharma's going into another continuum, with Seeing arising there.
+
 
 VAK 6.54 is a textual anchor for the LogoGenesis of the Path. The Path first exists as realized liberating order, but its “wheel” determination appears when that order is made communicable and becomes effective beyond its initial continuum. Meaning is not a representation inserted between realization and action; it is the mediation through which realization generates Path in another.
 

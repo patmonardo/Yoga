@@ -81,16 +81,7 @@ it is not a claim that all six histories occur in one person.
 
 ### Bhāṣya-informed study translation
 
-> The immovable arhat is liberated without waiting for a suitable occasion: concentration can become manifest at will. This arhat comes from the seeing-attained trainee line. Among the six arhat dispositions, some are present from the start; others are reached by sharpening the faculties, even up to immovability. The type names mark capacities—what can happen—not events that must occur.
-
-### Translation note
-
-The Bhāṣya explains `asamaya-mukta` by concentration becoming manifest
-at will and `dṛṣṭiprāptānvaya` by prior seeing-attained training. It
-glosses `uttāpana` as sharpening the faculties. The later prose
-specifies six capacities and insists that a regression-susceptible
-arhat need not regress and a penetration-capable one need not advance.
-This modal reading admits all six types across the three realms.
+> Therefore this one is liberated without dependence on occasion and belongs to the line of those who have attained Seeing. Some have their disposition from the beginning; others reach it through intensification.
 
 ## 6. Philosophical Translation
 
@@ -244,6 +235,9 @@ ActuallyPenetratesFurther(y)
 Therefore the typology is neither an immutable ontology nor a deterministic event-sequence. It classifies the presently actual powers of a Path-formed continuum.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya explains `asamaya-mukta` by concentration becoming manifest at will and `dṛṣṭiprāptānvaya` by prior seeing-attained training. It glosses `uttāpana` as sharpening the faculties. The later prose specifies six capacities and insists that a regression-susceptible arhat need not regress and a penetration-capable one need not advance. This modal reading admits all six types across the three realms.
+
 
 VAK 6.57 makes *indriya* visibly morphological: faculty is not merely an instrument used by an otherwise finished subject. The organization and sharpening of faculties determine which Path-transformations are possible and how completed liberation can be actualized.
 

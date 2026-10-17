@@ -3,15 +3,9 @@
 ## 1. Kārikā Anchor
 
 > bhavāgrādhavimuktordhvajātavattvasamanvayaḥ |
->
 > anāsraveṇa vairāgyam anāgāmyena sarvataḥ || 6.47 ||
 
-> One partly freed from the summit does not reacquire its afflictions
-> when the supramundane attainment of separation is relinquished;
-> likewise, someone reborn above the first dhyāna does not reacquire
-> desire-realm afflictions after losing a mundane attainment. An
-> uncontaminated Path supported by the preliminary concentration
-> *anāgamya* can bring dispassion from every ground through the summit.
+> As with one partly dispassionate from the summit of existence, or with one born higher, there is no renewed possession. Through an uncontaminated Path based on the preliminary concentration *anāgamya*, dispassion is attained from all grounds.
 
 The first half completes the answer to 6.46. The second half states
 the range of dispassion obtainable from an uncontaminated Path based

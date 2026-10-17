@@ -3,17 +3,11 @@
 ## 1. Kārikā Anchor
 
 > ṣoḍaśe tu phalasthau tau yatra yaḥ pratipannakaḥ |
->
 > śraddhādhimuktadṛṣṭyāptau mṛdutīkṣṇendriyau tadā || 6.31 ||
 
-> When the sixteenth moment of consciousness arises, the Faith-Follower and
-> Dharma-Follower cease to be candidates and stand in the fruit each had
-> approached: stream-entry, once-return, or non-return. The gentle-faculty
-> practitioner is then *śraddhādhimukta*, Faith-Resolved; the sharp-faculty
-> practitioner is *dṛṣṭiprāpta*, one who has attained through Seeing.
-> Arhatship is not reached at this first completion: Seeing leaves
-> cultivation-abandonable afflictions, and prior mundane detachment cannot
-> reach the summit of existence.
+> At the sixteenth moment, the two are established in whichever fruit each was
+> approaching. Then, with mild and sharp Faculties, they are respectively
+> Faith-Resolved and Attained through Seeing.
 
 The commentary links the sixteenth moment to each practitioner's already
 determined fruit and explains the new faculty-based names.

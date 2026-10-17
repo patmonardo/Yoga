@@ -3,10 +3,9 @@
 ## 1. Kārikā Anchor
 
 > kleśa-prahāṇam ākhyātaṃ satya-darśana-bhāvanāt |
->
 > dvividho bhāvanā-mārgo darśanākhyas tv anāsravaḥ || 6.1 ||
 
-> The abandonment of afflictions has been explained through seeing the truths
+> The abandonment of afflictions has been declared through seeing the truths
 > and through cultivation. The Path of Cultivation is twofold, mundane and
 > supramundane; the Path called Seeing, however, is without influx and solely
 > supramundane.

@@ -3,17 +3,11 @@
 ## 1. Kārikā Anchor
 
 > iti ṣoḍaśacitto 'yaṃ satyābhisamayas tridhā |
->
 > darśanālambakāryākhyaḥ so 'gradharmaikabhūmikaḥ || 6.27 ||
 
-> The sixteen successive moments of consciousness constitute direct
-> realization of the Four Truths. It is described in three senses: seeing
-> through uncontaminated Prajñā; sharing a Truth as cognitive Condition
-> through associated mental factors; and accomplishing work that extends
-> even to dissociated factors. Seeing remains ordered by the distinct
-> Truths, while the Path's work is integrated across them. All sixteen
-> moments arise on the same meditative ground as the preceding Highest
-> Mundane Dharmas.
+> Thus this realization of the Truths has sixteen moments of consciousness and
+> is threefold, named by seeing, cognitive Condition, and function; it occurs
+> on the same ground as the Highest Mundane Dharmas.
 
 The commentary distinguishes unity of work from the successive seeing
 of the Truths and specifies the scope of each sense of realization.

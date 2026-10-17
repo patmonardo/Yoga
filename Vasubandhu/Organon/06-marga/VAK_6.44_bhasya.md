@@ -3,15 +3,9 @@
 ## 1. Kārikā Anchor
 
 > ā-bhavāgrāṣṭa-bhāga-kṣid arhattve pratipannakaḥ |
->
 > navamasyāpy ānantarya-pathe vajropamaś ca saḥ || 6.44 ||
 
-> From the first grade abandoned in the first dhyāna through the eighth
-> at the summit of existence, the non-returner proceeds toward arhatship.
-> Even on the uninterrupted Path against the final ninth grade, the
-> practitioner is still a candidate. That Path is called diamond-like
-> concentration: the strongest uninterrupted Path, capable of breaking
-> every latent affliction, though only the last grade remains to be broken.
+> The candidate for arhatship destroys the grades from the first through the eighth, ending at the summit of existence. Even the uninterrupted Path directed against the ninth grade is diamond-like.
 
 The non-returner remains a candidate for arhatship even on the final
 uninterrupted Path. The diamond image expresses the power of that
@@ -112,7 +106,7 @@ Path range as cognitive Condition. Differentiated by Knowing, aspect,
 and cognitive Condition, these yield fifty-two diamond-like Paths
 for that ground. The same pattern extends through the fourth dhyāna.
 
-For the spheres of infinite space, infinite Cognition, and nothingness,
+For the Essences of infinite space, infinite Cognition, and nothingness,
 the stated counts are twenty-eight, twenty-four, and twenty,
 respectively. The reason given is the absence there of some
 Dharma-Knowing configurations taking lower-ground cessation as

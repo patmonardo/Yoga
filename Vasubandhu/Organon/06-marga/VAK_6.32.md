@@ -80,19 +80,9 @@ ground.
 
 ### Bhāṣya-informed study translation
 
-> At the sixteenth moment, even one who had previously abandoned five
-> desire-realm grades is established in stream-entry, rather than already
-> proceeding toward once-return. Attaining a fruit does not at that same
-> moment confer the Path leading beyond it. A fruit-established person is
-> called a candidate for another fruit only upon applying himself toward
-> further attainment. The same rule applies to the other fruits.
-
-### Translation note
-
-The Bhāṣya frames the rule as an answer to the five-grade case and
-generalizes it. It also records a specific third-dhyāna qualification,
-retained in the continuous translation rather than flattened into the
-general rule.
+> When a fruit is attained, acquisition of the Path beyond that fruit does not
+> occur. Therefore, one established in a fruit is not a candidate for further
+> progress without applying toward further distinction.
 
 ## 6. Philosophical Translation
 
@@ -205,6 +195,12 @@ End attained + new determinate End + renewed application
 The mediation is *prayoga*. Without it, there is position but no onward movement.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya frames the rule as an answer to the five-
+grade case and generalizes it. It also records a specific third-dhyāna
+qualification, retained in the continuous translation rather than flattened
+into the general rule.
+
 
 VAK 6.31 converted fruit-candidacy into fruit-establishment. VAK 6.32 protects the reality of that completion. If the next superior Path were acquired automatically at the same instant, the fruit would collapse into a mere vanishing boundary between two courses.
 

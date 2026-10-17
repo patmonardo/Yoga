@@ -78,21 +78,7 @@ field, and aspect series; the Bhāṣya supplies the full triads.
 
 ### Bhāṣya-informed study translation
 
-> A mundane liberation Path takes the higher ground as its cognitive
-> field, considering it peaceful, excellent, and an exit. A mundane
-> uninterrupted Path takes the lower ground as its cognitive field,
-> considering it coarse, painful, and wall-like: a ground that affords
-> no exit from itself. The two Path functions thus proceed through
-> opposed aspects of the higher and lower grounds.
-
-### Translation note
-
-The Bhāṣya expands each `-ādi` into three aspects. `Duḥkhila` is
-rendered “painful” here, with the commentary explaining greater
-`dauṣṭhulya`; `sthūlabhittika` is wall-like because the lower ground
-provides no exit from itself. The source verse's `uktarādhara` is
-preserved in the continuous witness; `uttarādhara` follows the prose's
-higher/lower opposition in the study.
+> Mundane liberation Paths have aspects beginning with peacefulness and take higher grounds as their cognitive field; uninterrupted Paths have aspects beginning with coarseness and take lower grounds as their cognitive field.
 
 ## 6. Philosophical Translation
 
@@ -198,6 +184,9 @@ unconditioned liberation
 Mundane Path-action changes the practitioner's ground by comparative valuation; supramundane Path-action is determined by the Truths themselves.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya expands each `-ādi` into three aspects. `Duḥkhila` is rendered “painful” here, with the commentary explaining greater `dauṣṭhulya`; `sthūlabhittika` is wall-like because the lower ground provides no exit from itself. The source verse's `uktarādhara` is preserved in the continuous witness; `uttarādhara` follows the prose's higher/lower opposition in the study.
+
 
 VAK 6.49 displays a more precise “Middle and extremes” than a static diagram permits. The extremes—lower and higher—do not first stand complete and then acquire an external connection. The mundane Path generates their practical opposition through two coordinated cognitive acts: the lower is made determinate as what must be left, while the higher is made determinate as the available exit.
 

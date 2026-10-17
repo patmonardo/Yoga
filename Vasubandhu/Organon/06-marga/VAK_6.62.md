@@ -31,10 +31,7 @@ The Bhāṣya prevents two conflations. Faculty-strengthening replaces the weak-
 | **navadhā** | indeclinable numeral-adverb | ninefold |
 | **indriyāḥ** | masculine nominative plural | persons differentiated according to faculty; the Bhāṣya explains a ninefold faculty-gradation |
 
-```text
-sa-viśeṣam | phalam | tyaktvā | phalam | āpnoti | vardhayan |
-dvau | buddhau | śrāvakāḥ | sapta | nava | ete | navadhā | indriyāḥ
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `sa-viśeṣam · phalam · tyaktvā · phalam · āpnoti · vardhayan · dvau · buddhau · śrāvakāḥ · sapta · nava · ete · navadhā · indriyāḥ`; individual forms and compounds are analyzed in the rows above |
 
 The Bhāṣya makes **viśeṣa** concrete as the weak-faculty Path qualifying the fruit and identifies what is newly acquired as the corresponding fruit-and-Path of the sharp-faculty disposition.
 
@@ -72,11 +69,7 @@ NEXT-CLASSIFICATION[SEVEN-NOBLE-PERSONS, BEGINS=6.63]
 
 ### Bhāṣya-informed study translation
 
-> One who strengthens the faculties relinquishes the fruit together with its weak-faculty Path and gains the fruit with a sharp-faculty Path. By their nine grades of faculty, the persons so distinguished are two Buddhas and seven disciples.
-
-### Translation note
-
-The opening answers the `yataḥ` of 6.61. The Bhāṣya glosses **saviśeṣaṃ phalam** through the fruit and weak-faculty Path that are relinquished, and the sharp-faculty fruit and Path then acquired. The same principal fruit rank need not be exchanged for a higher one. The seven Śrāvakas here are Arhat subtypes within a faculty-based ninefold count; the different sevenfold classification of all noble persons starts after this unit.
+> One who strengthens the faculties relinquishes the fruit together with its weak-faculty Path and attains the fruit with a sharp-faculty Path. By their nine faculty-grades, these persons are two Buddhas and seven disciples.
 
 ## 6. Philosophical Translation
 
@@ -235,6 +228,8 @@ same Path-person
 Classification is an explicit relation between a field and a principle of division, not a flat inventory of person-substances.
 
 ## 9. Interpretive Note
+
+**Translation note.** The opening answers the `yataḥ` of 6.61. The Bhāṣya glosses **saviśeṣaṃ phalam** through the fruit and weak-faculty Path that are relinquished, and the sharp-faculty fruit and Path then acquired. The same principal fruit rank need not be exchanged for a higher one. The seven Śrāvakas here are Arhat subtypes within a faculty-based ninefold count; the different sevenfold classification of all noble persons starts after this unit.
 
 VAK 6.62 shows the Path altering not merely what a person has, but the concrete relation in which person, Path, and fruit stand. When *indriya* changes, the former fruit is not simply left untouched behind a stronger subject. The fruit-as-qualified and the Path that possesses it are replaced together.
 

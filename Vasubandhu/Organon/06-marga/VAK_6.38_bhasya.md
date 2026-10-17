@@ -3,16 +3,11 @@
 ## 1. Kārikā Anchor
 
 > sa pluto 'rdha-plutaḥ sarva-cyutaś cānyo bhavāgragaḥ |
->
 > ārūpyagaś caturdhānya iha nirvāpako 'paraḥ || 6.38 ||
 
-> The Akaniṣṭha-bound upward-streamer may leap over the intervening
-> stations, skip only some, or pass through them all. Another
-> upward-streamer, whose dhyāna is unmixed, proceeds through higher
-> attainments toward the summit of existence. Akaniṣṭha and that summit
-> are maximal destinations, so final Nirvāṇa may come sooner. A
-> non-returner reborn in the formless realm has four completion modes.
-> A further type reaches final Nirvāṇa here, in this very life.
+> That upward-streamer is a leaper, a half-leaper, or one who passes through all
+> the stations; another goes to the summit of existence. One who goes to the
+> formless realm is fourfold; another attains final Nirvāṇa here.
 
 The verse subdivides the Akaniṣṭha-bound upward course, adds a
 summit-bound course, and distinguishes formless and present-life

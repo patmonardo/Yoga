@@ -1,4 +1,4 @@
-# VAK_6.15 — Prajñā and the Four Establishments of Recollection
+# VAK_6.15 — discriminative comprehension and the Four Establishments of Recollection
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -22,7 +22,7 @@ their fourfold division counters four inversions.
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `prajñā` | nominative singular feminine | discriminative knowing as intrinsic nature |
+| `prajñā` | nominative singular feminine | discriminative comprehension as intrinsic nature |
 | `śrutādimayī` | nominative singular feminine compound | formed through learning and the succeeding modes |
 | `anye` | nominative plural masculine | the other, associated dharmas |
 | `saṃsargālambanāḥ` | nominative plural masculine compound | the designations by association and cognitive Condition |
@@ -32,21 +32,18 @@ their fourfold division counters four inversions.
 | `tu` | contrastive particle | marks a different ground for the number four |
 | `viparyāsavipakṣataḥ` | ablative adverbial compound | because of counteraction against the inversions |
 
-```text
-prajñā | śruta-ādi-mayī | anye | saṃsarga-ālambanāḥ | kramaḥ |
-yathā-utpatti | catuṣkam | tu | viparyāsa-vipakṣataḥ
-```
+
 
 `Saṃsargālambanāḥ` is resolved by the Bhāṣya into two applications of the
-name: to dharmas associated with Prajñā and to what Prajñā takes as its
+name: to dharmas associated with discriminative comprehension and to what discriminative comprehension takes as its
 cognitive Condition (`ālambana`). The same prose expands `śrutādi` into
 learning, reflection, and cultivation.
 
 ## 4. Grammar
 
-The opening nominative **prajñā** answers the question concerning the intrinsic nature of the establishments of recollection: “[Their intrinsic nature is] Prajñā.” The finite copula is omitted, as is common in kārikā style.
+The opening nominative **discriminative comprehension** answers the question concerning the intrinsic nature of the establishments of recollection: “[Their intrinsic nature is] discriminative comprehension.” The finite copula is omitted, as is common in kārikā style.
 
-**śrutādimayī** is a feminine nominative singular predicate agreeing with **prajñā**. The element **ādi** expands the compressed expression: Prajñā may be *śrutamayī*, *cintāmayī*, or *bhāvanāmayī*—produced through hearing, reflection, or cultivation.
+**śrutādimayī** is a feminine nominative singular predicate agreeing with **discriminative comprehension**. The element **ādi** expands the compressed expression: discriminative comprehension may be *śrutamayī*, *cintāmayī*, or *bhāvanāmayī*—produced through hearing, reflection, or cultivation.
 
 In **anye saṃsargālambanāḥ**, the understood noun after **anye** is supplied by the Bhāṣya as the other dharmas involved in the practice. The compound **saṃsarga-ālambana** distributes two determinations across two extensions of the designation: the associated dharmas receive the name through association, while the cognized field receives it as cognitive Condition.
 
@@ -56,7 +53,7 @@ In **anye saṃsargālambanāḥ**, the understood noun after **anye** is suppli
 
 The argument therefore has four grammatical moments:
 
-1. intrinsic nature — **prajñā**;
+1. intrinsic nature — **discriminative comprehension**;
 2. genesis — **śrutādimayī**;
 3. extended designation — **saṃsarga** and **ālambana**;
 4. systematic articulation — an arising-order and a fourfold counteractive function.
@@ -64,9 +61,9 @@ The argument therefore has four grammatical moments:
 **Future Feature Grammar sketch (not executable):**
 
 ```text
-ESTABLISHMENT[SENSE=intrinsic, NATURE=prajñā,
+ESTABLISHMENT[SENSE=intrinsic, NATURE=discriminative comprehension,
               GENESIS=learning|reflection|cultivation]
-  ← prajñā + śrutādimayī
+  ← discriminative comprehension + śrutādimayī
 ESTABLISHMENT[SENSE=association, REFERENT=co-arising-dharmas]
   ← anye + saṃsarga
 ESTABLISHMENT[SENSE=cognitive-Condition, REFERENT=ālambana]
@@ -84,44 +81,37 @@ assignment; these labels are a future reflective model of that syntax.
 
 ### Literal Translation
 
-> Prajñā formed through learning and the succeeding modes [is the establishment
+> discriminative comprehension formed through learning and the succeeding modes [is the establishment
 > by intrinsic nature]; others [receive the name] by association and cognitive
 > Condition. The sequence accords with arising; the fourfold division is due
 > to counteraction against the inversions.
 
 ### Bhāṣya-informed study translation
 
-> By nature, an establishment of recollection is Prajñā formed through
-> learning, reflection, or cultivation. Its associated dharmas and what it
-> takes as a cognitive Condition also receive that name. The four
-> establishments arise in the order body, feeling, consciousness, and dharmas;
-> each counters a corresponding inversion of purity, pleasure, permanence,
-> or self.
-
-### Translation note
-
-The three uses of the name, the modes of Prajñā, and the pairing of fields
-with inversions are supplied by the Bhāṣya.
+> The establishment of recollection by nature is discriminative comprehension
+> formed from learning and the rest; the others are by association and by
+> cognitive Condition. Their order follows arising; the fourfold arrangement
+> counters the inversions.
 
 ## 6. Philosophical Translation
 
-An establishment of recollection is intrinsically the Prajñā that sees its field in accordance with how it is. Yet the practice is not exhausted by naming this cognitive factor in isolation. Its associated dharmas and the cognitive Condition it takes up also receive the name because they belong to the same operative complex.
+An establishment of recollection is intrinsically the discriminative comprehension that sees its field in accordance with how it is. Yet the practice is not exhausted by naming this cognitive factor in isolation. Its associated dharmas and the cognitive Condition it takes up also receive the name because they belong to the same operative complex.
 
 The four establishments form a path-order rather than a static classification. Contemplation proceeds through body, feeling, consciousness, and dharmas according to the order of its arising. Their number is governed by a corrective necessity: body counters the inversion of purity, feeling the inversion of pleasure, consciousness (`citta`) the inversion of permanence, and dharmas the inversion of self.
 
-Thus recollection becomes an establishment through Prajñā's determinate operation upon a field of error. The Path does not merely collect fields without their counteractive roles. It organizes seeing so that each entrenched inversion meets its corresponding counterforce.
+Thus recollection becomes an establishment through discriminative comprehension's determinate operation upon a field of error. The Path does not merely collect fields without their counteractive roles. It organizes seeing so that each entrenched inversion meets its corresponding counterforce.
 
 ## 7. Technical Vocabulary
 
-**`Prajñā` — discriminative knowing**
+**Discriminative comprehension**
 
-Here **Prajñā** is the intrinsic nature (*svabhāva*) of an establishment of recollection. The Bhāṣya identifies the contemplative “seeing” (*anupaśyanā*) with Prajñā: it discriminates its cognitive Condition in the mode required by the practice.
+Here **discriminative comprehension** is the intrinsic nature (*svabhāva*) of an establishment of recollection. The Bhāṣya identifies the contemplative “seeing” (*anupaśyanā*) with discriminative comprehension: it discriminates its cognitive Condition in the mode required by the practice.
 
-This Prajñā is genetically differentiated as:
+This discriminative comprehension is genetically differentiated as:
 
-- **śrutamayī prajñā** — Prajñā produced through hearing or learning;
-- **cintāmayī prajñā** — Prajñā produced through reflection;
-- **bhāvanāmayī prajñā** — Prajñā produced through cultivation.
+- **śrutamayī discriminative comprehension** — discriminative comprehension produced through hearing or learning;
+- **cintāmayī discriminative comprehension** — discriminative comprehension produced through reflection;
+- **bhāvanāmayī discriminative comprehension** — discriminative comprehension produced through cultivation.
 
 The formulation continues the developmental sequence stated in VAK 6.05 rather than introducing three unrelated faculties.
 
@@ -129,18 +119,18 @@ The formulation continues the developmental sequence stated in VAK 6.05 rather t
 
 The Bhāṣya distinguishes three senses of “establishment of recollection”:
 
-1. **svabhāva-smṛtyupasthāna** — the establishment in its intrinsic nature: Prajñā itself;
-2. **saṃsarga-smṛtyupasthāna** — the establishment by association: the dharmas arising together with Prajñā;
-3. **ālambana-smṛtyupasthāna** — the establishment by cognitive Condition: the field Prajñā takes up.
+1. **svabhāva-smṛtyupasthāna** — the establishment in its intrinsic nature: discriminative comprehension itself;
+2. **saṃsarga-smṛtyupasthāna** — the establishment by association: the dharmas arising together with discriminative comprehension;
+3. **ālambana-smṛtyupasthāna** — the establishment by cognitive Condition: the field discriminative comprehension takes up.
 
 The term names one practice through three distinct relations: its intrinsic
 nature, associated dharmas, and cognitive Condition.
 
-**Why the name “recollection” when the nature is Prajñā?**
+**Why the name “recollection” when the nature is discriminative comprehension?**
 
-The Vaibhāṣika explanation gives recollection a predominant role: Prajñā's operation depends upon the strength of recollection, just as split wood is held by a wedge.
+The Vaibhāṣika explanation gives recollection a predominant role: discriminative comprehension's operation depends upon the strength of recollection, just as split wood is held by a wedge.
 
-Vasubandhu presents another explanation as preferable: recollection is established through Prajñā, which articulates what has been seen. The name marks this establishment of recollection through discriminative seeing, not the replacement of Prajñā by a separate substance.
+Vasubandhu presents another explanation as preferable: recollection is established through discriminative comprehension, which articulates what has been seen. The name marks this establishment of recollection through discriminative seeing, not the replacement of discriminative comprehension by a separate substance.
 
 **`Yathotpatti-krama` — order according to arising**
 
@@ -183,9 +173,9 @@ VAK 6.15 determines the establishments of recollection through two intersecting 
 First, one practice is extended through three senses:
 
 ```text
-Intrinsic nature:  Prajñā
-Association:       dharmas conjoined with Prajñā
-Cognitive Condition: the field Prajñā takes up
+Intrinsic nature:  discriminative comprehension
+Association:       dharmas conjoined with discriminative comprehension
+Cognitive Condition: the field discriminative comprehension takes up
 ```
 
 Second, that practice is differentiated into four counteractive operations:
@@ -197,7 +187,7 @@ consciousness    → counters permanence-inversion
 dharmas  → counters self-inversion
 ```
 
-The verse thereby prevents two reductions. An establishment is not merely an internal mental event, because it necessarily has associates and a cognitive Condition. Nor is it merely an externally given field, because its path-character lies in the Prajñā that transforms the field’s mode of apprehension.
+The verse thereby prevents two reductions. An establishment is not merely an internal mental event, because it necessarily has associates and a cognitive Condition. Nor is it merely an externally given field, because its path-character lies in the discriminative comprehension that transforms the field’s mode of apprehension.
 
 The sequence and the number also answer different questions:
 
@@ -210,7 +200,7 @@ In Organon terms, explicitly as project synthesis rather than source doctrine, t
 
 ```text
 genesis      = hearing → reflection → cultivation
-operation    = Prajñā
+operation    = discriminative comprehension
 associates   = conjoined dharmas
 cognitive Condition = ālambana
 defect       = viparyāsa
@@ -221,9 +211,12 @@ Meaning here is systematic because the Path determines a cognition by its genesi
 
 ## 9. Interpretive Note
 
-VAK 6.14 established the functional transition from tranquility to the establishments of recollection and from those establishments to insight. VAK 6.15 now determines what the establishments are. Their intrinsic nature is not bare recollection but Prajñā; nevertheless, they bear the name of recollection because the discriminative operation and the establishment of recollection are internally connected.
 
-For the Path as Practical Meaning, The fourfold field is not a catalogue placed beside the practitioner. Body, feeling, consciousness, and dharmas become path-determinations only within a corrective act of seeing. Conversely, Prajñā is not an indeterminate power that could operate without a field. It is specified by what it takes as support and by the inversion it overcomes.
+**Translation note.** The Bhāṣya explains the three designations—by intrinsic nature, association, and cognitive Condition—the sources of discriminative comprehension, and the pairing of the four establishments with the inversions.
+
+VAK 6.14 established the functional transition from tranquility to the establishments of recollection and from those establishments to insight. VAK 6.15 now determines what the establishments are. Their intrinsic nature is not bare recollection but discriminative comprehension; nevertheless, they bear the name of recollection because the discriminative operation and the establishment of recollection are internally connected.
+
+For the Path as Practical Meaning, The fourfold field is not a catalogue placed beside the practitioner. Body, feeling, consciousness, and dharmas become path-determinations only within a corrective act of seeing. Conversely, discriminative comprehension is not an indeterminate power that could operate without a field. It is specified by what it takes as support and by the inversion it overcomes.
 
 The source doctrine establishes the three uses of *smṛtyupasthāna*, the arising-order of the four, and their opposition to four inversions. The further formulation—practice as the unity of genesis, cognitive operation, association, cognitive Condition, defect, and counterforce—is an Organon reconstruction of that doctrinal structure. It should not be attributed verbatim to Vasubandhu.
 
@@ -237,7 +230,7 @@ Class: EstablishmentOfRecollection
 
 Class: IntrinsicEstablishment
   SubClassOf: EstablishmentOfRecollection
-  EquivalentTo: hasIntrinsicNature some Prajñā
+  EquivalentTo: hasIntrinsicNature some discriminative comprehension
 
 Class: AssociatedEstablishment
   SubClassOf: EstablishmentOfRecollection
@@ -247,13 +240,13 @@ Class: CognitiveConditionEstablishment
   SubClassOf: EstablishmentOfRecollection
   EquivalentTo: hasCognitiveCondition some Ālambana
 
-Class: Prajñā
+Class: discriminative comprehension
 Class: HearingProducedPrajñā
-  SubClassOf: Prajñā
+  SubClassOf: discriminative comprehension
 Class: ReflectionProducedPrajñā
-  SubClassOf: Prajñā
+  SubClassOf: discriminative comprehension
 Class: CultivationProducedPrajñā
-  SubClassOf: Prajñā
+  SubClassOf: discriminative comprehension
 
 Class: BodyEstablishment
   SubClassOf: EstablishmentOfRecollection

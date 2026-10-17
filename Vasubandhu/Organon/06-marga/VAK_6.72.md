@@ -30,10 +30,7 @@ The distribution begun in 6.71 continues through the higher dhyānas, the interm
 | **tābhyām** | instrumental dual | by those two, prīti and saṃkalpa |
 | **triṣu arūpiṣu** | neuter locative plural | in the first three formless attainments |
 
-```text
-dvitīye | anyatra | saṃkalpāt | dvayoḥ | tad-dvaya-varjitāḥ |
-dhyāna-antare | ca | śīla-aṅgaiḥ | tābhyām | ca | triṣu | arūpiṣu
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `dvitīye · anyatra · saṃkalpāt · dvayoḥ · tad-dvaya-varjitāḥ · dhyāna-antare · ca · śīla-aṅgaiḥ · tābhyām · ca · triṣu · arūpiṣu`; individual forms and compounds are analyzed in the rows above |
 
 The understood subject throughout is the Bodhi-aligned factors. The following verse treats Bhavāgra separately, so **triṣv arūpiṣu** denotes the three lower formless attainments.
 
@@ -73,11 +70,7 @@ LOWER-FORMLESS[EXCLUDED=joy, right-resolve, right-speech, right-action, right-li
 
 ### Bhāṣya-informed study translation
 
-> In the second dhyāna the Path loses right resolve, since discursive thought is absent. In the third and fourth dhyānas, and in intermediate concentration, joy falls away with resolve. The three lower formless attainments lack those two and the ethical Path factors of speech, action, and livelihood.
-
-### Translation note
-
-The Bhāṣya identifies the second dhyāna's missing `saṃkalpa` as right resolve and explicitly traces it to the absence of `vitarka`. It resolves `tad-dvaya` as joy and resolve, and `śīlāṅga` as right speech, right action, and right livelihood. Its counts are thirty-six, thirty-five, and thirty-two respectively; the study translation keeps the verse's sequence of exclusions in view.
+> In the second dhyāna, [all factors occur] except right resolve; in the third and fourth dhyānas, they are without those two; likewise in the intermediate concentration. In the three formless attainments, [they are] without the ethical Path factors and those two.
 
 ## 6. Philosophical Translation
 
@@ -230,7 +223,9 @@ The system remains one through rule-governed variation, not through identical ma
 
 ## 9. Interpretive Note
 
-This is an especially clear confirmation of Dhātu/Bhūmi as the presupposed domain of possible movement. A Path-action is not first complete in abstraction and then placed inside a ground. Its concrete form is generated under the a priori permissions and exclusions of that ground.
+**Translation note.** The Bhāṣya identifies the second dhyāna's missing `saṃkalpa` as right resolve and explicitly traces it to the absence of `vitarka`. It resolves `tad-dvaya` as joy and resolve, and `śīlāṅga` as right speech, right action, and right livelihood. Its counts are thirty-six, thirty-five, and thirty-two respectively; the study translation keeps the verse's sequence of exclusions in view.
+
+This is an especially clear confirmation of Dhātu/Bhūmi as the presupposed field of possible movement. A Path-action is not first complete in abstraction and then placed inside a ground. Its concrete form is generated under the a priori permissions and exclusions of that ground.
 
 ```text
 ground changes
@@ -240,7 +235,7 @@ ground changes
 
 The formless attainment is therefore not merely “higher” than form. Its very abstraction removes the medium in which speech, bodily conduct, and livelihood operate as presently actual Path-limbs. Conversely, the first dhyāna’s completeness is not an abstract supremacy; it is the breadth of operations that its balanced morphology can sustain.
 
-For the Organon reconstruction, each Bhūmi is a domain grammar: it determines which predicates can become practical acts there. The source-level conclusion is more exact and limited—the numerical distribution of Bodhi-aligned functions across contemplative grounds, with the absence of vitarka explicitly explaining the loss of right resolve.
+For the Organon reconstruction, each Bhūmi is a field grammar: it determines which predicates can become practical acts there. The source-level conclusion is more exact and limited—the numerical distribution of Bodhi-aligned functions across contemplative grounds, with the absence of vitarka explicitly explaining the loss of right resolve.
 
 ## 10. OWL++ Seed
 

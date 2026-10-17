@@ -72,15 +72,7 @@ belong to the Bhāṣya's response.
 
 ### Bhāṣya-informed study translation
 
-> When an Ārya gains dispassion through a mundane Path, both mundane and supramundane attainments of separation arise. Some say the same happens through a supramundane Path: if no mundane attainment arose, they argue, relinquishing the supramundane one during a change of faculties would restore possession of the afflictions. The Bhāṣya answers with two counterexamples. Loss of an attainment does not by itself prove renewed possession of an abandoned affliction.
-
-### Translation note
-
-The first twofold result is asserted; `eke` attributes the extension to
-some interlocutors. The final clause gives their reason, which the
-Bhāṣya judges `ajñāpaka`, non-probative. The witness reads `tyavate`
-in that clause, while this study uses `tyakte` to follow the prose's
-relinquishment scenario; the textual difference remains open.
+> When a Noble gains dispassion through a mundane Path, the attainments of separation are twofold. Some say the same holds through a supramundane Path, lest relinquishing its attainment entail possession of the afflictions.
 
 ## 6. Philosophical Translation
 
@@ -118,7 +110,7 @@ The second rule is reported under **eke** and is not simply Vasubandhu's own ass
 
 **`Indriyasaṃcāra / mārgatyāga` — faculty change and Path relinquishment**
 
-The proposed reason considers an Ārya who gained supramundane dispassion from the sphere of nothingness and later changes faculties while relying upon dhyāna. The former Path-acquisition is relinquished during this transition.
+The proposed reason considers an Ārya who gained supramundane dispassion from the Essence of nothingness and later changes faculties while relying upon dhyāna. The former Path-acquisition is relinquished during this transition.
 
 The defender infers:
 
@@ -203,6 +195,9 @@ LossOf(SeparationAcquisition)
 In Organon terms, explicitly as project synthesis, the fruit is genetically mediated actuality, not a detachable state-token. Its present acquisition-form may change while the determination accomplished by the preceding Path remains effective through the transformed continuum.
 
 ## 9. Interpretive Note
+
+**Translation note.** The first twofold result is asserted; `eke` attributes the extension to some interlocutors. The final clause gives their reason, which the Bhāṣya judges `ajñāpaka`, non-probative. The witness reads `tyavate` in that clause, while this study uses `tyakte` to follow the prose's relinquishment scenario; the textual difference remains open. The Bhāṣya tests the interlocutors’ proposed extension with two counterexamples: loss of an attainment does not itself establish renewed possession of an abandoned affliction. Its judgment that the reason is non-probative does not settle every possible case. The witness has *tyavate*; the prose-based study reading *tyakte* remains an editorial normalization.
+
 
 VAK 6.46 gives the precise correction to a simple action–fruit wheel. The result is neither independent of the action that produced it nor identical with a present representation or acquisition of that result. It is the achieved determination preserved through the continuum's genesis.
 

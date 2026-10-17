@@ -3,15 +3,11 @@
 ## 1. Kārikā Anchor
 
 > phale phalaviśiṣṭasya lābho mārgasya nāsty ataḥ |
->
 > nāprayukto viśeṣāya phalasthaḥ pratipannakaḥ || 6.32 ||
 
-> At the sixteenth moment, even one who had previously abandoned five
-> desire-realm grades is established in stream-entry, rather than already
-> proceeding toward once-return. Attaining a fruit does not at that same
-> moment confer the Path leading beyond it. A fruit-established person is
-> called a candidate for another fruit only upon applying himself toward
-> further attainment. The same rule applies to the other fruits.
+> When a fruit is attained, acquisition of the Path beyond that fruit does not
+> occur. Therefore, one established in a fruit is not a candidate for further
+> progress without applying toward further distinction.
 
 The commentary asks why fruit-establishment does not automatically become
 candidacy toward the next fruit and states the condition for renewed

@@ -3,15 +3,10 @@
 ## 1. Kārikā Anchor
 
 > ā-pañcama-prakāra-ghno dvitīya-pratipannakaḥ |
->
 > kṣīṇa-ṣaṣṭha-prakāras tu sakṛd-āgāmy asau punaḥ || 6.35 ||
 
-> The practitioner established in stream-entry who has abandoned any
-> one through five of the desire-realm cultivation-abandonable grades
-> proceeds toward the second fruit. When the sixth grade is exhausted,
-> that same practitioner attains the second fruit and is a once-returner:
-> after reaching the gods, there is one further coming to the human world.
-> Greed, hatred, and delusion have grown thin because only mild grades remain.
+> One who has destroyed up through the fifth grade is a candidate for the second
+> fruit; when the sixth grade is exhausted, that one is again a once-returner.
 
 The same practitioner moves from an established first fruit through
 candidate status to attainment of the second fruit.

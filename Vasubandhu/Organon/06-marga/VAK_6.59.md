@@ -14,7 +14,7 @@ parihāṇis tridhā jñeyā prāptāprāptopabhogataḥ |
 antyā śāstur akopyasya madhyā cānyasya tu tridhā || 6.59 ||
 ```
 
-The first-pass witness left the distribution of **antyā**, **madhyā**, and **anya** uncertain. The Bhāṣya resolves it: the Buddha is subject only to the final type, the unshakeable Arhat to the middle and final types, and another Arhat to all three.
+The earlier witness left the distribution of **antyā**, **madhyā**, and **anya** uncertain. The Bhāṣya resolves it: the Buddha is subject only to the final type, the unshakeable Arhat to the middle and final types, and another Arhat to all three.
 
 ## 3. Lexical Analysis
 
@@ -90,22 +90,7 @@ to loss of uncontaminated liberation.
 
 ### Bhāṣya-informed study translation
 
-> “Falling away” can mean losing a quality already attained,
-> failing to acquire a further attainable quality, or not bringing
-> an attained quality into present use. The Buddha is subject only
-> to the third; the immovable arhat may also miss a further special
-> quality; another arhat may be described under all three. These
-> senses separate loss of possession from missed development and
-> from a pause in manifestation.
-
-### Translation note
-
-The Bhāṣya defines the three types as `prāpta-`, `aprāpta-`, and
-`upabhoga-parihāṇi`. The third concerns a quality still possessed
-but not made immediately present (`saṃmukhīkaroti`). The Buddha,
-immovable arhat, and other arhat receive the three kinds in increasing
-scope. A closing non-regression speaker insists that uncontaminated
-liberation is unshakeable for all; that claim remains attributed.
+> Falling away is to be understood in three ways: from what has been attained, from what remains unattained but attainable, and from the use of what is attained. The Teacher has the last; the immovable arhat has the middle as well; another arhat has all three.
 
 ## 6. Philosophical Translation
 
@@ -236,6 +221,9 @@ OtherArhat
 The Path-result must therefore be modeled across three axes: having, further becoming, and making-present.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya defines the three types as `prāpta-`, `aprāpta-`, and `upabhoga-parihāṇi`. The third concerns a quality still possessed but not made immediately present (`saṃmukhīkaroti`). The Buddha, immovable arhat, and other arhat receive the three kinds in increasing scope. A closing non-regression speaker insists that uncontaminated liberation is unshakeable for all; that claim remains attributed.
+
 
 VAK 6.59 shows that actuality is not exhausted by present appearance. A Path-quality can be fully possessed without being manifest in the current moment. Likewise, a completed liberation can remain secure even where some further excellence is never acquired.
 

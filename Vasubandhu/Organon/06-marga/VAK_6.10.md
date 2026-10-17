@@ -34,10 +34,7 @@ is secured by the Bhāṣya: progressive removal begins with the bones of the fe
 | `kṛta-jayaḥ` | nominative singular masculine compound | one who has achieved mastery |
 | `smṛtaḥ` | nominative singular masculine past passive participle of `√smṛ` | is considered or designated |
 
-```text
-ā-samudra | asthi-vistāra-saṃkṣepāt | ādikarmikaḥ |
-pāda-asthna | ā-kapāla-ardha-tyāgāt | kṛta-jayaḥ | smṛtaḥ
-```
+
 
 The paired ablatives specify the operations by which the two practitioner
 stages are known. The Bhāṣya uses the fuller expression `kṛtaparijaya` for the
@@ -105,23 +102,11 @@ features sketch a future reflective model of those relations.
 > represented bones] beginning with those of the feet until half the skull
 > [remains], one is considered to have achieved mastery.
 
-### Literal translation note
-
-The supplied references to representation and the final remainder follow the
-Bhāṣya's explicit practice-description.
-
 ### Bhāṣya-informed study translation
 
-> A beginner expands the contemplated skeleton across the world as far as the
-> ocean, then contracts it back to the skeleton of their own body. A
-> practitioner who has gained mastery progressively relinquishes the bones
-> from the feet upward, until only half the skull remains in attention.
-
-### Translation note
-
-The local starting point, the removal of coverings, the purposes of expansion
-and contraction, and the exact procedure of subtraction are supplied by the
-Bhāṣya.
+> Through expansion and contraction of the bones as far as the ocean, one is a
+> beginner. Through relinquishing [the bones] from the feet up to half the
+> skull, one is considered to have gained mastery.
 
 ## 6. Philosophical Translation
 
@@ -256,6 +241,9 @@ Relinquishment
 
 ## 9. Interpretive Note
 
+
+**Translation note.** The Bhāṣya supplies the local starting point, expansion through the world, contraction to one's own skeleton, removal of coverings, purposes, and detailed subtraction. The transmitted `pādāsthna` remains difficult, with its practical sense dependent on the commentary.
+
 **Aśubha is an operation, not a static image.** The exercise consists in fixing,
 constructing, extending, contracting, and subtracting. Reducing it to “visualize
 a skeleton” loses the Bhāṣya's exact training sequence.
@@ -278,7 +266,7 @@ dependency.
 and governance of a cognitive Condition. It does not erase 6.09's distinction
 between suppression and definitive abandonment.
 
-**Organon interpretation.** VAK 6.10 exhibits bhāvanāmayī Prajñā as governed
+**Organon interpretation.** VAK 6.10 exhibits bhāvanāmayī discriminative comprehension as governed
 transformation of the cognitive field. This is project synthesis:
 
 ```text

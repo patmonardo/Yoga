@@ -73,23 +73,10 @@ and the three-life distribution of entry, maturation, and release.
 
 ### Bhāṣya-informed study translation
 
-> The Buddha and the rhinoceros-like Pratyekabuddha bring the entire course
-> from the roots conducive to penetration through Awakening to completion
-> in one sitting, supported by the fourth dhyāna's steady, sharp samādhi.
-> Before those roots, a root conducive to liberation must arise. In the
-> quickest course it arises in one life, the penetration-conducive roots
-> mature in the next, and the Noble Path arises in a third: entry,
-> maturation, and liberation. This first root is hearing-born or
-> reflection-born, and aspiration for liberation can direct even a single
-> gift or training rule toward it.
-
-### Translation note
-
-The Bhāṣya supplies the identity of the two practitioners, the one-seat
-and fourth-dhyāna reading, the three-life distribution, and the mode of
-the earlier root. It also reports an alternative beginning the one-seat
-course with contemplation of the impure and adds a qualification concerning
-other kinds of Pratyekabuddha; both remain in the continuous translation.
+> For the Teacher and the rhinoceros-like Pratyekabuddha, the whole course up to
+> Awakening unfolds in one sitting on the final dhyāna. Before these [roots],
+> a root conducive to liberation [must arise]; in the quickest course,
+> liberation occurs in three existences.
 
 ## 6. Philosophical Translation
 
@@ -159,13 +146,21 @@ In Organon terms, explicitly as project synthesis, this is a **genetic copula** 
 
 ## 9. Interpretive Note
 
+**Translation note.** The Bhāṣya supplies the identity of the two
+practitioners, the one-seat and fourth-dhyāna reading, the three-life
+distribution, and the mode of the earlier root. It also reports an alternative
+beginning the one-seat course with contemplation of the impure and adds a
+qualification concerning other kinds of Pratyekabuddha; both remain in the
+continuous translation.
+
+
 VAK 6.24 closes the preparatory architecture before the exposition turns to actual realization. Its deepest addition is that Heat is not the absolute beginning. Before technical preparation for penetration, the continuum must already have acquired a direction toward liberation.
 
 This direction is not merely an inward wish detached from action. The Bhāṣya treats aspiration as capable of appropriating bodily, verbal, and mental acts into a liberation-conducive causal series. Meaning here includes telos: what an act is within the Path depends on the end under which it is performed.
 
 The three-life sequence then shows why Paramārtha Meaning is Path rather than possession. Truth is received and reflected, becomes the orientation of conduct, matures through cultivation, and culminates in liberating penetration. The stages are linked by transformation, not by the accumulation of propositions.
 
-The kārikā states the one-sitting course of the two exceptional practitioners, fourth-dhyāna support, the priority of *mokṣabhāgīya*, and the rapid three-life course. Unmoving sharp samādhi, the alternative beginning from impurity contemplation, the Prajñā classification of *mokṣabhāgīya*, aspiration-governed action, the organic analogy, and the entry–maturation–liberation triad are Bhāṣya determinations. “Genetic copula” is the Organon's reconstruction.
+The kārikā states the one-sitting course of the two exceptional practitioners, fourth-dhyāna support, the priority of *mokṣabhāgīya*, and the rapid three-life course. Unmoving sharp samādhi, the alternative beginning from impurity contemplation, the discriminative comprehension classification of *mokṣabhāgīya*, aspiration-governed action, the organic analogy, and the entry–maturation–liberation triad are Bhāṣya determinations. “Genetic copula” is the Organon's reconstruction.
 
 ## 10. OWL++ Seed
 
@@ -214,6 +209,6 @@ LiberationConduciveAction governedBy LiberativeAspiration
 
 Constraint: Penetration-conducive roots require a prior liberation-conducive root.
 Constraint: The three-life sequence states the fastest ordinary course, not every practitioner's timetable.
-BhāṣyaRule: Liberation-conducive Prajñā is hearing-born or reflection-born, not cultivation-born.
+BhāṣyaRule: Liberation-conducive discriminative comprehension is hearing-born or reflection-born, not cultivation-born.
 ProjectRule: GeneticCopula = liberative orientation + cultivated maturation + supramundane efficacy.
 ```

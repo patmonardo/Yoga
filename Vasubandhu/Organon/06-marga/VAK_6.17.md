@@ -32,10 +32,7 @@ specifies how the latter surpass Heat while remaining vulnerable to falling.
 | `te api` | pronoun and particle | they too |
 | `tādṛśāḥ` | nominative plural masculine | having the same truth field and aspects |
 
-```text
-tataḥ | uṣmagata-utpattiḥ | tat | catuḥ-satya-gocaram |
-ṣoḍaśa-ākāram | uṣmabhyaḥ | mūrdhānaḥ | te | api | tādṛśāḥ
-```
+
 
 The Bhāṣya resolves `tataḥ` as the repeatedly cultivated dharma
 establishment. It specifies the resemblance in `tādṛśāḥ` as Four-Truth
@@ -75,16 +72,8 @@ additional features for later reflection.
 
 ### Bhāṣya-informed study translation
 
-> Repeated cultivation of the dharma establishment gradually gives rise to
-> Heat, a wholesome root signaling the approaching Noble Path. Heat takes the
-> Four Truths as its cognitive field through sixteen aspects, four for each
-> truth. From Heat arise the Summits: they retain the same Four Truths and
-> sixteen aspects, yet surpass Heat in development and may still fall away.
-
-### Translation note
-
-The precursor image, four groups of aspects, greater development, and
-possibility of falling away are supplied by the Bhāṣya.
+> From that arises Heat, with the Four Truths as its cognitive Condition and
+> sixteen aspects. From Heat arise the Summits; they too are of that kind.
 
 ## 6. Philosophical Translation
 
@@ -174,6 +163,9 @@ A later LogicFrame can preserve the common structure while expressing the
 difference in development and reversibility.
 
 ## 9. Interpretive Note
+
+
+**Translation note.** The Bhāṣya identifies Heat as a preliminary sign of the Noble Path and specifies four aspects for each Truth; the Summits are more developed than Heat and may be lost or surpassed.
 
 **Heat signals an approaching capacity.** The fire image explains why this
 wholesome root is named Heat: the Noble Path is the fire that burns the

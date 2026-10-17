@@ -3,14 +3,12 @@
 ## 1. Kārikā Anchor
 
 > ānāpānau yataḥ kāyaḥ sattvākhyāv anupāttakau |
->
 > naiḥṣyandikau nādhareṇa lakṣyete manasā ca tau || 6.13 ||
 
-> Inhalation and exhalation share the body's ground and are counted within a
-> sentient continuum, yet remain unappropriated because they are separable
-> from the faculties. They are products of homogeneous flow. Consciousness on
-> their own or a higher ground can discern them; consciousness on a lower
-> ground cannot.
+> Inhalation and exhalation share the body's level, are counted as sentient,
+> are unappropriated, and are homogeneous-flow products; lower-level
+> consciousness does not discern them, but consciousness of their own or a
+> higher level does.
 
 The Bhāṣya gives the conditions under which breathing occurs and explains
 how it can belong to a sentient continuum while remaining unappropriated.

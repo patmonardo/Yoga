@@ -77,20 +77,10 @@ stream-entry as the first fruit.
 
 ### Bhāṣya-informed study translation
 
-> During the fifteen moments of the Path of Seeing, a practitioner of gentle
-> faculty is a Faith-Follower, one who previously followed Meaning through
-> another's assurance. A practitioner of sharp faculty is a Dharma-Follower,
-> one who previously followed Meaning independently through the sūtras and
-> other dharmas. If neither has already abandoned cultivation-abandonable
-> afflictions through a mundane path, both remain fully bound and proceed
-> toward the first fruit, stream-entry.
-
-### Translation note
-
-The Bhāṣya supplies the earlier routes of following `artha`, Meaning,
-identifies the first fruit as stream-entry, and specifies the mundane path
-as the possible source of prior abandonment. `Pratipannaka` names progress
-toward that fruit, not possession of it.
+> Among these [fifteen moments], practitioners with mild and sharp Faculties are
+> respectively Faith-Followers and Dharma-Followers; neither has exhausted
+> afflictions abandoned through cultivation, and both are candidates for the
+> first fruit.
 
 ## 6. Philosophical Translation
 
@@ -195,6 +185,12 @@ fixed Noble Path-operation
 In Organon terms, explicitly as project synthesis, Indriya here appears as proto-Path fulfilled within Mārga. The faculty is not an external attribute attached to an otherwise finished course. It is the morphology through which the universal Path is enacted by this determinate continuum.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya supplies the earlier routes of following
+`artha`, Meaning, identifies the first fruit as stream-entry, and specifies
+the mundane path as the possible source of prior abandonment. `Pratipannaka`
+names progress toward that fruit, not possession of it.
+
 
 VAK 6.28 determined the objective operation of the Path: Acceptance severs, Knowing secures release, and Seeing terminates when its End is achieved. VAK 6.29 now determines who traverses that operation.
 

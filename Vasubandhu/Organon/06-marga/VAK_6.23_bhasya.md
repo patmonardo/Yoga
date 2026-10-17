@@ -3,17 +3,12 @@
 ## 1. Kārikā Anchor
 
 > mūrdhalābhī na mūlacchit kṣāntilābhy anapāyagaḥ |
->
 > śiṣyagotrān nivartya dve buddhaḥ syāt trīṇy apītaraḥ || 6.23 ||
 
-> Even after regression, one who attained Summits does not sever the wholesome
-> roots, though grave actions and painful destinies remain possible. Even
-> after Acceptance is lost, one who attained it does not enter a painful
-> destiny; its cultivation renders specified future states unable to arise.
-> From the disciple lineage, one may turn toward complete Buddhahood after
-> Heat and Summits, but not after Acceptance, when that lineage has become
-> non-reversible. After the first three preparations, a turn toward
-> Pratyekabuddhahood remains possible.
+> One who has attained Summits does not sever wholesome roots; one who has
+> attained Acceptance does not go to a painful destiny. Having turned from the
+> disciple lineage, with the first two [roots] one may become a Buddha; with
+> even the first three, another may become a Pratyekabuddha.
 
 The commentary determines distinct protections and stage-dependent limits
 on lineage redirection.

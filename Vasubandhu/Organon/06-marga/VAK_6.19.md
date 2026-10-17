@@ -30,13 +30,10 @@ classifies all four preparatory stages by their associated constitution.
 | `tathā` | indeclinable | the Highest Dharmas share field and duration |
 | `agradharmāḥ` | nominative plural masculine | Highest Mundane Dharmas in the prose |
 | `sarve tu` | plural pronoun with contrast | all four preparatory stages, now considered with associates |
-| `pañcaskandhāḥ` | nominative plural masculine | comprising the five aggregates |
+| `pañcaskandhāḥ` | nominative plural masculine | comprising the five Bases |
 | `vināptibhiḥ` | `vinā` with instrumental plural | excluding acquisitions (`prāpti`) |
 
-```text
-kāma-āpta-duḥkha-viṣayā | tu | adhimātrā | kṣaṇam | ca | sā |
-tathā | agra-dharmāḥ | sarve | tu | pañca-skandhāḥ | vinā | āptibhiḥ
-```
+
 
 The Bhāṣya identifies `adhimātrā` as Acceptance and explains
 `vināptibhiḥ` by excluding `prāpti`. The verse's `viṣaya` is a cognitive
@@ -65,12 +62,12 @@ STAGE[NAME=Highest-Mundane-Dharmas,
       FIELD=desire-realm-suffering, DURATION=one-moment]
   ← tathā + agradharmāḥ
 STAGE[SET=Heat+Summits+Acceptance+Highest-Mundane-Dharmas,
-      NATURE=prajñā, COMPLETE-CONSTITUTION=five-aggregates,
+      NATURE=discriminative comprehension, COMPLETE-CONSTITUTION=five-Bases,
       EXCLUDE=acquisitions]
   ← sarve tu pañcaskandhāḥ + vināptibhiḥ
 ```
 
-The prose supplies mundane status, the Condition relation, and Prajñā as
+The prose supplies mundane status, the Condition relation, and discriminative comprehension as
 intrinsic nature. The slots preserve each source-layer distinction for later
 Model reflection.
 
@@ -80,22 +77,13 @@ Model reflection.
 
 > Strong Acceptance takes desire-realm suffering as its cognitive field and
 > lasts one moment. The Highest Dharmas do likewise. All the preparatory
-> stages comprise five aggregates when acquisitions are excluded.
+> stages comprise five Bases when acquisitions are excluded.
 
 ### Bhāṣya-informed study translation
 
-> Strong Acceptance takes desire-realm suffering alone as its cognitive field
-> and lasts one moment. The Highest Mundane Dharmas do likewise; supreme among
-> mundane states, they draw in the Path without serving as its homogeneous
-> cause. Heat, Summits, Acceptances, and the Highest Mundane Dharmas are Prajñā
-> by nature, but with their associates they comprise five aggregates,
-> excluding acquisitions.
-
-### Translation note
-
-The Path-drawing relation, Prajñā as intrinsic nature, and the reason for
-excluding acquisitions come from the Bhāṣya. The final cultivation matrix
-is treated separately in the continuous translation.
+> Strong Acceptance takes desire-realm suffering as its cognitive Condition
+> and lasts one moment. So too do all the Highest Mundane Dharmas. All [these
+> stages] comprise five Bases without acquisitions.
 
 ## 6. Philosophical Translation
 
@@ -103,8 +91,8 @@ is treated separately in the continuous translation.
 > suffering for one moment. The Highest Mundane Dharmas share that focus and
 > duration, reaching the limit of mundane cultivation. Their causal efficacy
 > draws in the Path without making them a homogeneous cause of that Path.
-> Prajñā is the intrinsic nature of these preparatory stages, while their
-> complete associated manifestation comprises five aggregates.
+> discriminative comprehension is the intrinsic nature of these preparatory stages, while their
+> complete associated manifestation comprises five Bases.
 
 ```text
 strong Acceptance: one Condition × one moment
@@ -147,18 +135,18 @@ without being its homogeneous cause. This determines a real causal relation
 while preserving the difference between a mundane stage and the Path it
 draws in.
 
-**`Prajñātmaka` — having Prajñā as intrinsic nature**
+**`Prajñātmaka` — having discriminative comprehension as intrinsic nature**
 
-Heat and the following preparatory stages are Prajñā-natured because they
+Heat and the following preparatory stages have discriminative comprehension as their intrinsic nature because they
 are establishments of recollection in intrinsic nature. This answers what
 the practice is by nature, not how many associated factors are included in
 the complete event.
 
-**`Saparivāra-grahaṇa / pañcaskandha` — including associates / five aggregates**
+**`Saparivāra-grahaṇa / pañcaskandha` — including associates / five Bases**
 
 With the associated complex counted, the preparatory stages comprise form,
 feeling, ideation, formations, and consciousness. This full constitution is
-compatible with Prajñā as intrinsic nature.
+compatible with discriminative comprehension as intrinsic nature.
 
 **`Prāpti / āpti / vināptibhiḥ` — acquisition / acquisition / excluding acquisitions**
 
@@ -198,8 +186,8 @@ HighestMundaneDharmas {
 Constitution has two analytic levels:
 
 ```text
-IntrinsicNature(PreparatoryStage) = Prajñā
-CompleteAssociatedEvent(PreparatoryStage) = FiveAggregates
+IntrinsicNature(PreparatoryStage) = discriminative comprehension
+CompleteAssociatedEvent(PreparatoryStage) = FiveBases
 Acquisition(PreparatoryStage) ≠ PresentManifestation(PreparatoryStage)
 ```
 
@@ -207,6 +195,9 @@ A future LogicFrame can represent the causal threshold and avoid deriving
 present manifestation from possession alone.
 
 ## 9. Interpretive Note
+
+
+**Translation note.** The Bhāṣya makes the desire-realm restriction explicit, distinguishes medium from strong Acceptance by the transition from two moments to one, explains how the Highest Mundane Dharmas draw in the Path without being its homogeneous cause, and gives the reason acquisitions are excluded.
 
 **The cognitive field contracts.** Strong Acceptance takes one truth within
 the desire-realm for one moment. The concentration of its Condition is a
@@ -218,8 +209,8 @@ supreme within that range. The Bhāṣya says they draw in the Path by their
 own efficacy while excluding homogeneous causation.
 
 **Intrinsic nature and complete event answer different questions.** The
-preparatory stages are Prajñā by nature; with associates they comprise five
-aggregates. Acquisition is excluded so a stage's possession is not mistaken
+preparatory stages are discriminative comprehension by nature; with associates they comprise five
+Bases. Acquisition is excluded so a stage's possession is not mistaken
 for its present occurrence.
 
 **Organon interpretation.** The threshold is causally prepared by an exact
@@ -243,8 +234,8 @@ Class: CognitiveCondition
 Class: DesireRealmSufferingCondition
     SubClassOf: CognitiveCondition
 Class: OneMoment
-Class: Prajñā
-Class: FiveAggregateComplex
+Class: discriminative comprehension
+Class: FiveBaseComplex
 Class: Acquisition
 Class: Path
 
@@ -276,8 +267,8 @@ Assertion: HighestMundaneDharmas hasCognitiveField DesireRealmSufferingField
 Assertion: HighestMundaneDharmas hasCognitiveCondition DesireRealmSufferingCondition
 Assertion: HighestMundaneDharmas hasDuration OneMoment
 Assertion: HighestMundaneDharmas drawsIn Path
-Assertion: PreparatoryStage hasIntrinsicNature Prajñā
-Assertion: PreparatoryStage hasCompleteConstitution FiveAggregateComplex
+Assertion: PreparatoryStage hasIntrinsicNature discriminative comprehension
+Assertion: PreparatoryStage hasCompleteConstitution FiveBaseComplex
 
 Constraint: HighestMundaneDharmas notHomogeneousCauseOf Path
 Constraint: Acquisition doesNotEntail PresentManifestation

@@ -3,15 +3,11 @@
 ## 1. Kārikā Anchor
 
 > niṣpanna-śamathaḥ kuryāt smṛtyupasthāna-bhāvanām |
->
 > kāya-vic-citta-dharmāṇāṃ dvi-lakṣaṇa-parīkṣaṇāt || 6.14 ||
 
-> After the two entry practices yield concentration and accomplished śamatha,
-> the practitioner cultivates the four establishments of recollection to
-> complete vipaśyanā. Body, feeling, consciousness, and dharmas are examined
-> by their own characteristics and by the common characteristics that apply:
-> impermanence of the conditioned, suffering of the contaminated, and
-> emptiness and not-self of all dharmas.
+> With śamatha accomplished, one should cultivate the establishments of
+> recollection by examining body, feeling, consciousness, and dharmas through
+> their two characteristics.
 
 The Bhāṣya identifies the four fields, the two kinds of characteristic, and
 the different ranges of the common characteristics.
@@ -63,7 +59,7 @@ characteristics; likewise feeling, consciousness, and dharmas. Each field's
 own nature is its own characteristic. The common characteristics are
 impermanence of conditioned dharmas, suffering of dharmas with influx, and
 emptiness and not-self of all dharmas. What is body's own nature? It consists
-of the great elements and material form derived from them. “Dharmas” here
+of the Great Elements and Form derived from them. “Dharmas” here
 means those other than body, feeling, and consciousness. For a concentrated
 practitioner who sees body atom by atom and moment by moment, it is said,
 the establishment of recollection of the body becomes complete.
@@ -99,7 +95,7 @@ is the project layer, grounded in the commentary's distribution.
 
 | Examined field | Own characteristic | Common characteristics when applicable |
 |---|---|---|
-| Body | Great elements and derived material form | Impermanence if conditioned; suffering if with influx; emptiness and not-self |
+| Body | Great Elements and derived Form | Impermanence if conditioned; suffering if with influx; emptiness and not-self |
 | Feeling | Its own nature as feeling | Same scoped tests |
 | Consciousness (`citta`) | Its own nature as consciousness | Same scoped tests |
 | Remaining dharmas | Their respective own natures | Same scoped tests |

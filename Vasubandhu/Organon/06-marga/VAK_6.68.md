@@ -23,7 +23,7 @@ VAK 6.67 announced that the thirty-seven Bodhi-aligned functions reduce to ten u
 | **śraddhā** | feminine nominative singular | confidence or lucid trust |
 | **vīryam** | neuter nominative singular | energy, exertion |
 | **smṛtiḥ** | feminine nominative singular | recollection, mindful retention |
-| **prajñā** | feminine nominative singular | discriminative understanding |
+| **prajñā** | feminine nominative singular | discriminative comprehension |
 | **samādhiḥ** | masculine nominative singular | collectedness |
 | **prīti** | feminine compound member | joy or rapture |
 | **upekṣaṇe** | feminine nominative dual | equanimous observation; dual by coordination with *prīti* |
@@ -33,10 +33,7 @@ VAK 6.67 announced that the thirty-seven Bodhi-aligned functions reduce to ten u
 | **hi** | explanatory particle | for, indeed |
 | **smṛtyupasthitiḥ** | feminine nominative singular used collectively | establishment of recollection; the group of four |
 
-```text
-śraddhā | vīryam | smṛtiḥ | prajñā | samādhiḥ | prīti-upekṣaṇe |
-praśrabdhi-śīla-saṃkalpāḥ | prajñā | hi | smṛti-upasthitiḥ
-```
+| **Pada sequence** | ordered padaccheda, preserving the verse’s word division | `śraddhā · vīryam · smṛtiḥ · prajñā · samādhiḥ · prīti-upekṣaṇe · praśrabdhi-śīla-saṃkalpāḥ · prajñā · hi · smṛti-upasthitiḥ`; individual forms and compounds are analyzed in the rows above |
 
 The mixed genders and numbers are coordinated as a ten-member nominal list. The second sentence explains the first reduction rather than adding an eleventh item.
 
@@ -48,13 +45,13 @@ The first three pādas form an asyndetic enumeration whose understood predicate 
 1 śraddhā       6 prīti
 2 vīrya         7 upekṣā
 3 smṛti         8 praśrabdhi
-4 prajñā        9 śīla
+4 discriminative comprehension        9 śīla
 5 samādhi      10 saṃkalpa
 ```
 
-In **prajñā hi smṛtyupasthitiḥ**, both nouns are nominative. The construction identifies the principal operative nature of the establishments with prajñā. The singular **smṛtyupasthitiḥ** functions generically for the four establishments.
+In **`prajñā hi smṛtyupasthitiḥ`**, both nouns are nominative. The construction identifies the principal operative nature of the establishments with discriminative comprehension. The singular **smṛtyupasthitiḥ** functions generically for the four establishments.
 
-The particle **hi** marks an explanation: the four establishments do not add four new dravyas because they are counted principally as prajñā.
+The particle **hi** marks an explanation: the four establishments do not add four new dravyas because they are counted principally as discriminative comprehension.
 
 **Future Feature Grammar sketch (not executable):**
 
@@ -62,9 +59,9 @@ The particle **hi** marks an explanation: the four establishments do not add fou
 BODHI-ALIGNED-FACTORS[NAMED-FUNCTIONS=37]
   → CONSTITUENT-DHARMAS[COUNT=10]
 CONSTITUENT-DHARMAS
-  → {confidence, energy, recollection, Prajñā, collectedness,
+  → {confidence, energy, recollection, discriminative comprehension, collectedness,
      joy, equanimity, pliancy, ethical-discipline, resolve}
-ESTABLISHMENT-OF-RECOLLECTION[PRINCIPAL-DHARMA=Prajñā]
+ESTABLISHMENT-OF-RECOLLECTION[PRINCIPAL-DHARMA=discriminative comprehension]
   → NAME-RELATION[recollection]
 ```
 
@@ -72,15 +69,11 @@ ESTABLISHMENT-OF-RECOLLECTION[PRINCIPAL-DHARMA=Prajñā]
 
 ### Literal Translation
 
-> Confidence, energy, recollection, prajñā, collectedness, joy, equanimity, pliancy, ethical discipline, and resolve are [the ten]. For the establishment of recollection is prajñā.
+> Confidence, energy, recollection, discriminative comprehension, collectedness, joy, equanimity, pliancy, ethical discipline, and resolve are [the ten]. For the establishment of recollection is discriminative comprehension.
 
 ### Bhāṣya-informed study translation
 
-> The thirty-seven Bodhi-aligned functions rest on ten dharmas: confidence, energy, recollection, Prajñā, collectedness, joy, equanimity, pliancy, ethical discipline, and resolve. The establishments of recollection count as Prajñā because discernment is their governing operation.
-
-### Translation note
-
-The ten-member list answers the question left at the end of 6.67. **Prajñā hi smṛtyupasthitiḥ** identifies the establishments of recollection by their principal operative dharma; it does not assert that recollection and Prajñā are identical in every respect. The Bhāṣya maps other named factors to the same ten dharmas and records the Vaibhāṣika count of eleven when bodily and verbal ethical actions are separated.
+> Confidence, energy, recollection, discriminative comprehension, collectedness, joy, and equanimity; pliancy, ethical discipline, and resolve. For the establishment of recollection is discriminative comprehension.
 
 ## 6. Philosophical Translation
 
@@ -103,7 +96,7 @@ smṛti
     recollective retention
 
 prajñā
-    discriminative understanding
+    discriminative comprehension
 
 samādhi
     collectedness
@@ -132,7 +125,7 @@ The Bhāṣya unfolds the main recurrences:
 
 | Underlying dharma | Bodhipakṣya functions principally counted under it |
 |---|---|
-| **prajñā** | four smṛtyupasthānas; investigation-of-dharmas awakening-factor; right view; wisdom faculty and power |
+| **prajñā** | four smṛtyupasthānas; investigation-of-dharmas awakening-factor; right view; discriminative comprehension faculty and power |
 | **vīrya** | four right abandonments; energy awakening-factor; right effort; energy faculty and power |
 | **samādhi** | four bases of spiritual power; collectedness awakening-factor; right collectedness; collectedness faculty and power |
 | **smṛti** | recollection awakening-factor; right recollection; recollection faculty and power |
@@ -145,12 +138,12 @@ The Bhāṣya unfolds the main recurrences:
 
 The faculties and powers are grasped directly according to their names (**nāmagrāhikayā**). The more instructive cases are those in which the name of a practice-group differs from its principal dharma.
 
-**`Prajñā hi smṛtyupasthitiḥ` — recollection establishments counted by Prajñā**
+**`prajñā hi smṛtyupasthitiḥ` — recollection establishments counted by discriminative comprehension**
 
 The sentence must not be flattened into:
 
 ```text
-smṛti = prajñā
+recollection = discriminative comprehension
 ```
 
 The technical relation is:
@@ -159,7 +152,7 @@ The technical relation is:
 smṛti
     retains and sustains the object
 
-prajñā
+discriminative comprehension
     examines and discriminates the object
 
 smṛtyupasthāna
@@ -167,7 +160,7 @@ smṛtyupasthāna
     principally constituted by discriminative examination
 ```
 
-The Bhāṣya states that the establishments, right abandonments, and bases of spiritual power respectively have the natures (**svabhāva**) of prajñā, vīrya, and samādhi. VAK 6.69 immediately qualifies this as designation through the predominant factor.
+The Bhāṣya states that the establishments, right abandonments, and bases of spiritual power respectively have the natures (**svabhāva**) of discriminative comprehension, energy, and collectedness. VAK 6.69 immediately qualifies this as designation through the predominant factor.
 
 **`Svabhāva / pradhāna` — principal dharma within a practice**
 
@@ -227,7 +220,7 @@ For the first example:
 
 ```text
 Smṛtyupasthāna
-    hasPrincipalDharma Prajñā
+    hasPrincipalDharma discriminative comprehension
     hasSupportingDharma Smṛti
 ```
 
@@ -260,17 +253,19 @@ Thus even the underlying unit must be rationally determined.
 
 ## 9. Interpretive Note
 
+**Translation note.** The ten-member list answers the question left at the end of 6.67. The formula **`prajñā hi smṛtyupasthitiḥ`** identifies the establishments of recollection by their principal operative dharma; it does not assert that recollection and discriminative comprehension are identical in every respect. The Bhāṣya maps other named factors to the same ten dharmas and records the Vaibhāṣika count of eleven when bodily and verbal ethical actions are separated.
+
 Here the NLP principle “only Meaning emerges in a System” receives an exact Kośa model. None of the ten dharmas carries the complete practical meaning of its factor in isolation. Meaning arises when an operative capacity occupies a specified role within Bodhi’s Path-organization.
 
 ```text
-prajñā in isolation
+discriminative comprehension in isolation
     operative capacity
 
-prajñā as smṛtyupasthāna
+discriminative comprehension as smṛtyupasthāna
     capacity organized around sustained examination
-    of body, feeling, mind, and dharmas
+    of body, feeling, consciousness, and dharmas
 
-prajñā as right view
+discriminative comprehension as right view
     the same capacity under another Path-relation
 ```
 
@@ -279,11 +274,11 @@ The same underlying dharma is neither unchanged in practical meaning nor transfo
 The verse therefore gives a disciplined form of copular determination:
 
 ```text
-smṛtyupasthāna “is” prajñā
+smṛtyupasthāna “is” discriminative comprehension
 
 means
 
-prajñā is its predominant operative reality
+discriminative comprehension is its predominant operative reality
 while smṛtyupasthāna determines
 the relational form of that operation
 ```
@@ -302,7 +297,7 @@ Class: Energy
   SanskritLabel: vīrya
 Class: Recollection
   SanskritLabel: smṛti
-Class: DiscriminativeUnderstanding
+Class: DiscriminativeComprehension
   SanskritLabel: prajñā
 Class: Collectedness
   SanskritLabel: samādhi
@@ -326,13 +321,13 @@ ObjectProperty: hasSupportingDharma
 ObjectProperty: occupiesPathFunction
 ObjectProperty: countedAs
 
-EstablishmentOfRecollection hasPrincipalDharma DiscriminativeUnderstanding
+EstablishmentOfRecollection hasPrincipalDharma DiscriminativeComprehension
 EstablishmentOfRecollection hasSupportingDharma Recollection
 RightAbandonment hasPrincipalDharma Energy
 BasisOfSpiritualPower hasPrincipalDharma Collectedness
 
-KārikāRule: The thirty-seven functions reduce to confidence, energy, recollection, prajñā, samādhi, joy, equanimity, pliancy, ethical discipline, and resolve.
-KārikāRule: The establishments of recollection are counted principally as prajñā.
+KārikāRule: The thirty-seven functions reduce to confidence, energy, recollection, discriminative comprehension, collectedness, joy, equanimity, pliancy, ethical discipline, and resolve.
+KārikāRule: The establishments of recollection are counted principally as discriminative comprehension.
 BhāṣyaRule: Faculties and powers reduce directly according to their names, while repeated awakening- and Path-functions reduce to their operative dharmas.
 BhāṣyaRule: The Vaibhāṣikas count eleven because bodily and verbal ethical actions are distinct dravyas.
 ProjectRule: Practical meaning arises when an operative dharma occupies a determinate function within the Bodhi-Path system.
