@@ -67,7 +67,7 @@ Tathā carries pratyekam. It does not collapse the three into one faculty. The s
 
 The verse says nirvāṇa. The prose says parinirvāṇa. That difference stands. Ādi is the second account, not an open list. Dṛṣṭadharma is this life. Prīti and sukha both stay.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Applied Indriya. The three complete the eight that govern purification. They are controllers of that side of the Kośa Path, with the five of 2.03. Succession is one account. Abandonment and present abiding are the other. Checking is not abandonment.
 

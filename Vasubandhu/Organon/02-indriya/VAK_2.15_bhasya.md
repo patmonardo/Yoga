@@ -92,7 +92,7 @@ Sakṛnmaraṇa is death all at once. Kramamṛtyu is gradual death. The second 
 
 Śubhe is kuśale cetasi, with a wholesome mind. Pañca ca is five in addition. Avyākṛta is indeterminate. Upekṣā is neutral feeling. The two neutralities stay apart.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 The count depends on realm, marks, mode of dying, and the last mind. Detach those and the proposition is gone.
 

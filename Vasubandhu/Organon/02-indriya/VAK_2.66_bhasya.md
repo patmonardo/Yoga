@@ -25,7 +25,7 @@ The unit is printed 103.16–103.25 in `Vasubandhu/Sources/kosabhasya.txt`. Defe
 
 Mind and the factors were stated generally as the immediately antecedent condition. The particular rule was not stated: which mind arises immediately after which. That is now to be explained. In summary, twelve kinds of mind. Four in the desire realm. Wholesome, unwholesome, obscured-indeterminate, unobscured-indeterminate. No unwholesome in the form realm. Three. The same in the formless. Ten contaminated. Uncontaminated is twofold: trainee and beyond-training. Twelve.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Twelve kinds of mind. Desire four. Form and formless three each, no unwholesome. Uncontaminated twofold, trainee and beyond-training. Succession is not yet.
 

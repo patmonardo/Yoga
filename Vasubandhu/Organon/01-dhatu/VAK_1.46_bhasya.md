@@ -3,10 +3,13 @@
 ## 1. Kārikā Anchor
 
 > na kāyasyādharaṃ cakṣur ūrdhvaṃ rūpaṃ na cakṣuṣaḥ /
->
 > vijñānaṃ cāsya rūpaṃ tu kāyasyobhe ca sarvataḥ // 1.46 //
 
-> The eye is not lower than the body. A visible is not higher than the eye. Cognition too. Relative to this, a visible. And relative to the body, both, in every way.
+> The Eye Principle is not lower than the Body Principle. Visible Form is not
+> higher than the Eye Principle, nor is the Cognition Principle. Relative to
+> this Cognition Principle, however, Visible Form may be of any plane;
+> relative to the Body Principle, both Visible Form and Cognition Principle
+> may be of any plane.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -88,7 +91,7 @@ The four need not be of one plane. The cases run through the desire realm and th
 4. Eye-cognition is not higher than the eye, and belongs to two planes only.
 5. Relative to that cognition, a visible may be higher, lower, or the same. Relative to the body, both may.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The cases are the freedom. The rule is the cut that remains. Below the body, the eye does not go. Above the eye, the visible does not go, and cognition does not go. The open three belong to the visible against the cognition, and to both against the body.
 

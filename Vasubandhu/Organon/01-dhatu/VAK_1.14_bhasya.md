@@ -3,14 +3,11 @@
 ## 1. Kārikā Anchor
 
 > indriyārthās ta eveṣṭā daśāyatanadhātavaḥ /
->
 > vedanānubhavaḥ saṃjñā nimittodgrahaṇātmikā // 1.14 //
 
-> The same five Faculties and five meanings of the Form Base, without
-> *avijñapti*, are counted as ten Essences and as the same ten Principles.
-> Feeling is undergoing, whether pleasant, painful, or neither, in six groups
-> distinguished by contact from eye through Mind. Reflection takes up marks
-> such as color and shape and is likewise divided into six groups.
+> The five Faculties and five meanings are accepted as ten Essences and the
+> same ten Principles. Feeling is experience; Reflection has taking up a
+> mark as its nature.
 
 The commentary distributes the ten, then defines feeling and reflection. The
 next verse takes up formations. It is not taken here.

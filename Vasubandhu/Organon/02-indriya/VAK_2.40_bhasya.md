@@ -32,7 +32,7 @@ The unit is printed 66.06–66.24 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Non-acquisition of realm-included and uncontaminated dharmas is also threefold by realm. It is never itself uncontaminated. Non-acquisition of the path is held to be ordinary-person status. That status is relinquished by acquisition of the path, or by transition of ground. The critical account takes an ordinary continuum as one in which noble dharmas have not arisen. Absence of another lineage does not make the Buddha ordinary. Acquisition of acquisition, and mutual possession, are the defense against the regress. The proliferation critique stands against it. Not settled.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Not an essence. A status left by a pass or by a change of grade. The nirodha discussion is not this relinquishment. Not the translation. Not the final pass.
 

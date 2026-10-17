@@ -110,7 +110,7 @@ Sā resumes the agreeable feeling. It is not one bodily feeling turning into a m
 
 Eye through male is the range already treated. It is not a count of ten Form faculties. Mind is in that range. Life is deferred because dissociated. The five beginning with faith are deferred to the mental factors.
 
-Organon reading: the network projects the same place under another mode when the level changes. Not the verse English.
+Interpretation: the network projects the same place under another mode when the level changes. Not the verse English.
 
 ## 10. OWL++ Seed
 

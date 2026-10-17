@@ -3,15 +3,15 @@
 ## 1. Kārikā Anchor
 
 > bhūtāni pṛthivīdhātur aptejovāyudhātavaḥ /
->
 > dhṛtyādikarmasaṃsiddhāḥ kharasnehoṣṇateraṇāḥ // 1.12 //
 
-> The four Great Elements are the Earth, Water, Fire, and Wind Principles, each
-> sustaining its own-character and derived Form. In that order, their functions
-> are support, gathering, ripening, and spreading (growth and extension), while
-> their own-characters are hardness, cohesion, heat, and impulsion.
+> The four Great Elements are the Earth, Water, Fire, and Wind Principles,
+> each sustaining its own-character and derived Form. In that order, their
+> functions are support, gathering, ripening, and spreading (growth and
+> extension), while their own-characters are hardness, cohesion, heat, and
+> impulsion.
 
-The commentary answers which elements, then pairs function and own-character.
+The commentary answers which Elements, then pairs function and own-character.
 The next question, worldly form against the principle itself, is 1.13. It is
 not taken here.
 
@@ -33,17 +33,17 @@ not taken here.
 > tat tu laghutvam upādāya rūpam apy uktaṃ prakaraṇeṣu / ato ya
 > īraṇāsvabhāvo dharmaḥ sa vāyur iti karmaṇā 'sya svabhāvo 'bhivyaktaḥ /
 
-The unit runs from which elements through the function making own-character
+The unit runs from which Elements through the function making own-character
 evident. Span: Pradhan `[008|11]`–`[008|25]`. Word division is editorial.
 
 ## 3. Continuous Conventional Translation
 
-> “Depending on the great elements” was stated. Which are the elements?
+> “Depending on the Great Elements” was stated. Which are the Elements?
 >
-> The elements are the principled earth and the principled water, fire, and
-> wind.
+> The Elements are the Earth Principle and the Water, Fire, and
+> Wind Principles.
 >
-> These four are called principles, and the four great elements, because they
+> These four are called principles, and the four Great Elements, because they
 > hold own-character and derived form. Their greatness is from magnitude, as
 > support of all other form. Or else, from their great gathering in the masses
 > of earth, water, fire, and wind, where the corresponding operation has
@@ -51,17 +51,17 @@ evident. Span: Pradhan `[008|11]`–`[008|25]`. Word division is editorial.
 >
 > Again, in what function are these principles established, and of what
 > own-character? It says: established in functions beginning with support.
-> These, the principled earth, water, fire, and wind, are established in
+> These, the Earth, Water, Fire, and Wind Principles, are established in
 > order in the functions of support, gathering, ripening, and spreading.
 > Spreading is to be known as increase and extension. This is their function.
 > Own-character, however, in order, is hardness, cohesion, heat, and impulsion.
 >
-> Hardness is the principled earth. Cohesion is the principled water. Heat is
-> the principled fire. Impulsion is the principled wind. It is called impulsion
-> because by it the stream of elements is impelled, from producing in another
+> Hardness is the Earth Principle. Cohesion is the Water Principle. Heat is
+> the Fire Principle. Impulsion is the Wind Principle. It is called impulsion
+> because by it the stream of Elements is impelled, from producing in another
 > place, as the moving of a lamp-flame.
 >
-Scripture and treatise. “What is the principled wind? Lightness of movement,”
+Scripture and treatise. “What is the Wind Principle? Lightness of movement,”
 stated in the treatises and in a sūtra. But that lightness is also said in
 the treatises to be derived form. Therefore the dharma whose own-character is
 impulsion is wind. By the function its own-character is made evident.
@@ -69,8 +69,8 @@ impulsion is wind. By the function its own-character is made evident.
 ## 4. Movement
 
 ```text
-which elements?
-    → four elements, principled
+which Elements?
+    → four Elements, as Principles
 why principle?
     → they hold own-character and derived form
 why great?
@@ -93,7 +93,7 @@ No opponent is named. The treatise and a sūtra are cited, and corrected.
 form. That is the commentary's reason for principle. Not an empty name.
 
 Greatness is two readings. Magnitude, as support of all other form. Or a
-great gathering in the masses where that element operates prominently.
+great gathering in the masses where that Element operates prominently.
 *Skandha* in *pṛthivyaptejovāyuskandheṣu* is the mass. Not one of the five
 bases.
 
@@ -119,7 +119,7 @@ evident. Lightness remains derived form.
 
 ## 8. Decisions for the Kārikā
 
-1. The elements are four, principled: earth, water, fire, wind.
+1. The Elements are four, as Principles: earth, water, fire, wind.
 2. Principle, because they hold own-character and derived form.
 3. Great, as magnitude of support, or as gathering in the masses.
 4. *Skandha* in that sentence is mass, not a base.

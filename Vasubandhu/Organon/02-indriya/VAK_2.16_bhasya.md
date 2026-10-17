@@ -115,7 +115,7 @@ A fallen non-returner does not regain the fruit with pleasure. One already free 
 
 Bhūyovītarāga is more extensively free from desire. No degree is added. Through nine alone restricts the attainment. It does not deny the elevenfold range of one person. Ekasya matters as much as the number.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 The result is not the route. The number is not the composition. The count is not the span. One fruit, several counts. One count, different routes.
 

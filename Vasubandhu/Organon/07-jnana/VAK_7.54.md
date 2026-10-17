@@ -105,10 +105,10 @@ good ordinary eyesight or hearing.
 
 **`Rūpaprasāda`.** Refined Form faculty. `Prasāda` here should not be replaced by mental
 serenity or faith. The prose specifies derivation from
-material elements and a causal role in seeing and hearing.
+material Elements and a causal role in seeing and hearing.
 
 **`Dhyānabhūmika`.** Belonging to a dhyāna ground. This
-qualifies the faculties and the material elements on
+qualifies the faculties and the material Elements on
 which they depend. It does not automatically transfer
 the same ground attribution to every associated sensory
 Cognition; VAK 7.45 already distinguished those questions.
@@ -118,7 +118,7 @@ toward sound and light. The prose describes it in one
 who has entered dhyāna. It is not a complete independent
 instruction for acquiring these faculties.
 
-**`Bhūtāny upādāya`.** Depending upon the material elements.
+**`Bhūtāny upādāya`.** Depending upon the material Elements.
 The source describes Form constitution through this
 relation, rather than creation without a material basis.
 
@@ -151,7 +151,7 @@ objects of the same faculty.
 ```text
 Practitioner entered into dhyāna
     + application toward sound and light
-    + dhyāna-ground material elements
+    + dhyāna-ground material Elements
     → refined Form eye and ear faculties
     → causes of seeing visible Form and hearing sound
 ```

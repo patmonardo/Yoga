@@ -28,7 +28,7 @@ The unit is printed 76.11–79.18 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 The primary marks, being conditioned, have secondary marks: arising-of-arising, persistence-of-persistence, aging-of-aging, impermanence-of-impermanence. No endless regress: the primary operate on eight, the secondary on one. A dharma arises as one of nine. Arising generates the other eight. Arising-of-arising generates that arising. Persistence, aging, and impermanence likewise. Arising generates only with causes and conditions. The power seen is the conjunction. The genitive does not prove a second entity. The marks are maintained as real. Not settled.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Primary operate on eight, secondary on one. The stipulation stops the regress; it does not show the entities. Arising generates only with causes and conditions. The power seen is the conjunction. Arising is the transition, not a producer beside it. The marks are maintained as real. Not settled.
 

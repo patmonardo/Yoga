@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> जातिगोचरविज्ञानसामान्यादेकधातुता ।
->
-> द्वित्वेऽपि चक्षुरादीनां शोभार्थं तु द्वयोद्भवः ॥ १.१९ ॥॥
+```sanskrit
+जातिगोचरविज्ञानसामान्यादेकधातुता ।
+द्वित्वेऽपि चक्षुरादीनां शोभार्थं तु द्वयोद्भवः ॥ १.१९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> jātigocaravijñānasāmānyād ekadhātutā /
->
-> dvitve 'pi cakṣurādīnāṃ śobhārthaṃ tu dvayodbhavaḥ // 1.19 //
+```text
+jātigocaravijñānasāmānyād ekadhātutā /
+dvitve 'pi cakṣurādīnāṃ śobhārthaṃ tu dvayodbhavaḥ // 1.19 //
+```
 
 ## 3. Lexical Analysis
 
@@ -46,13 +48,15 @@ The first clause is an ablative of cause. Commonality of kind, of range, and of 
 
 ### Literal Translation
 
-From commonality of kind, range, and principle, there is the status of one principle, even in the duality of the eye and the rest. But the arising as a pair is for the sake of beauty.
+> From commonality of kind, range, and principle, there is the status of one
+> principle, even in the duality of the eye and the rest. But the arising as
+> a pair is for the sake of beauty.
 
 ### Bhāṣya-informed study translation
 
-Although the eyes, ears, and nostrils occur in pairs, each pair counts as one
-Principle: its members share a kind, a range, and the Cognition they support.
-Yet they arise in pairs for the beauty of the bodily support.
+> Although the eyes, ears, and nostrils occur in pairs, each pair is one
+> Principle through commonality of kind, range, and Cognition. Yet they arise
+> in pairs for the beauty of the bodily support.
 
 ## 6. Philosophical Translation
 
@@ -108,6 +112,12 @@ not tongue, not body
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya restricts the paired cases to eye, ear, and
+nose: each pair shares its respective kind, range, and supported Cognition.
+The pair's purpose is beauty of the bodily support; without paired sites the
+commentary says there would be great disfigurement. Tongue and body are not
+part of the count-objection.
 
 The hinge is *sāmānyāt*, then *tu*. Interpretation of the two questions is in the Bhāṣya.
 

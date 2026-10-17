@@ -3,12 +3,10 @@
 ## 1. Kārikā Anchor
 
 > vijñānaṃ prativijñaptiḥ mana āyatanaṃ ca tat /
->
 > dhātavaḥ sapta ca matāḥ ṣaḍvijñānāny atho manaḥ // 1.16 //
 
-> The Cognition Base is apprehension with respect to each condition, occurring
-> in six groups from Eye-Cognition through Mind-Cognition. That same Base is
-> the Mind Essence in the Essence arrangement and, in the Principle arrangement,
+> The Cognition Base is respective apprehension of each Condition. It is
+> also the Mind Essence. In the Principle arrangement, it is counted as
 > seven Principles: the six Cognition Principles and the Mind Principle.
 
 Base first. The essence equation is second. The principle count is third. The office of the mind-principle is the next verse.

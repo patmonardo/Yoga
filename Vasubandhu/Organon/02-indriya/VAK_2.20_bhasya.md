@@ -74,7 +74,7 @@ Yathā … tathā is just as … likewise. The numerical comparison does not tra
 
 Possession is not simultaneous manifestation. Five feelings in the count are not five feelings in one moment.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Eight can be severed roots, or a formless ordinary person with the five. The number cannot carry the determination. The shared triad is common possession, not a sufficient description of either case.
 

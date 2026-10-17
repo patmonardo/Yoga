@@ -78,7 +78,7 @@ Mindfulness is non-loss of the support, not only memory of a past event. Concent
 
 Ground and support stay apart. Every consciousness is the operating range. That does not make every consciousness their common support.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 A moment of consciousness is already qualified, formative, reflective, directed, and discriminative. The factors are distinguished inside the co-occurrence. Not successive additions to a bare consciousness.
 

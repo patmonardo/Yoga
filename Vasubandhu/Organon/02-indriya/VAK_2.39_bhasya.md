@@ -30,7 +30,7 @@ The unit is printed 65.22–66.05 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Of obscured form also: acquisition of obscured-indeterminate manifest form is co-arisen. Of form in the desire realm, acquisition is not prior-arisen. Co-arisen and subsequent are admitted, for manifest and nonmanifest form. Non-acquisition is unobscured-indeterminate. Of past and future dharmas it is threefold. Of a present dharma, present only, on the provisional reading of the damaged gloss.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 A typed negative is not a blank and not a second substance. The 2.36 dispute is not settled by the classification. Not the translation. Not the final pass.
 

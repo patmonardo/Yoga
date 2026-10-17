@@ -3,10 +3,12 @@
 ## 1. Kārikā Anchor
 
 > tathā śrotraṃ trayāṇāṃ tu sarvam eva svabhūmikam /
->
 > kāyavijñānam adharasvabhūmy aniyataṃ manaḥ // 1.47 //
 
-> Likewise the ear. Of the three, however, everything is of its own plane. Body-cognition is of a lower plane or its own. Mind is not fixed.
+> The rule for the Eye Principle also applies to the Ear Principle. For the
+> three Faculties beginning with the Nose, each Faculty, Condition, and
+> Cognition Principle belongs to its own plane. The Body-Cognition Principle
+> may be of a lower plane or its own; the Mind Principle is not fixed.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -79,7 +81,7 @@ The ear takes the eye's rule. The three stay on their own plane. Body-cognition 
 3. Body and tangible stay on their own plane. Body-cognition may be of a lower plane.
 4. Mind is not fixed to one plane. Attainment and rebirth are not worked here.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The three that reach are held to their plane. The exception is the cognition of the body, which may stand below the birth. Mind is the one this page refuses to fix.
 

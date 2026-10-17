@@ -118,7 +118,7 @@ The objector is right that ignorance governs formations, and that speech and the
 
 The five are provision. They are not inert: 2.03 already has them check and draw the path. The three are purification itself. 2.04 already split them into seeing, cultivation, and one who has known. No chronology in which the five stop before the three begin.
 
-Organon reading: membership is the discriminator. The six rules define the path. The victim traverses that path and not the powers left outside it. Not the verse English.
+Interpretation: membership is the discriminator. The six rules define the path. The victim traverses that path and not the powers left outside it. Not the verse English.
 
 ## 10. OWL++ Seed
 

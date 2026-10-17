@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> षण्णामनन्तरातीतं विज्ञानं यद्धि तन्मनः ।
->
-> षष्ठाश्रयप्रसिद्ध्यर्थं धातवोऽष्टादश स्मृताः ॥ १.१७ ॥
+```sanskrit
+षण्णामनन्तरातीतं विज्ञानं यद्धि तन्मनः ।
+षष्ठाश्रयप्रसिद्ध्यर्थं धातवोऽष्टादश स्मृताः ॥ १.१७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ṣaṇṇām anantarātītaṃ vijñānaṃ yad dhi tan manaḥ /
->
-> ṣaṣṭhāśrayaprasiddhyarthaṃ dhātavo 'ṣṭādaśa smṛtāḥ // 1.17 //
+```text
+ṣaṇṇām anantarātītaṃ vijñānaṃ yad dhi tan manaḥ /
+ṣaṣṭhāśrayaprasiddhyarthaṃ dhātavo 'ṣṭādaśa smṛtāḥ // 1.17 //
+```
 
 ## 3. Lexical Analysis
 
@@ -44,13 +46,14 @@ The commentary tightens *anantarātīta* to *samanantara-niruddha*: ceased immed
 
 ### Literal Translation
 
-Whichever cognition among the six is immediately past, that indeed is mind. The eighteen principles are taught in order to establish the sixth support.
+> Whichever cognition among the six is immediately past, that indeed is
+> mind. The eighteen principles are taught in order to establish the sixth
+> support.
 
 ### Bhāṣya-informed study translation
 
-Of the six Cognitions, whichever has just ceased is Mind, the Mind Principle
-in its role as support. Eighteen Principles are taught so that Mind may be
-established as the sixth support for Mind-Cognition.
+> Of the six Cognitions, whichever has just ceased is Mind. The eighteen
+> Principles are taught so that Mind may be established as the sixth support.
 
 ## 6. Philosophical Translation
 
@@ -113,6 +116,13 @@ The last test is quiet. If mind meant whatever produces the next, an arhat's fin
 The objection's twelve is a substance-count. It is not the twelve essences.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya identifies the just-ceased cognition as Mind
+in its support-role for Mind-Cognition. The eighteenfold teaching establishes
+the sixth support; the commentary contrasts this purpose with substance-counts
+of seventeen or twelve and tests the account against an arhat's final
+consciousness, which remains Mind although no successor arises because another
+cause is wanting.
 
 The hinge is *yat ... tat*: whichever, that. Interpretation of the office, and of the arhat's limit, is in the Bhāṣya.
 

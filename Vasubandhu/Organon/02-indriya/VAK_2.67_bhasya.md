@@ -24,7 +24,7 @@ The unit is printed 103.26–104.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defe
 
 Immediately after, to be stated later. Nine after wholesome desire-realm mind. Four of its own level. Two of the form realm: wholesome at entry into attainment, obscured at rebirth-linking. Formless, obscured only, at rebirth-linking. Not wholesome. Too remote. Four remotenesses: support, aspect, object, counteragent. Trainee and beyond-training. That wholesome mind follows eight. Four of its own level. Form wholesome, at emergence. Form obscured, when one pressed by an afflicted attainment resorts to the wholesome supporting level. Trainee and beyond-training, at emergence. Unwholesome follows ten, excluding trainee and beyond-training. By rebirth-linking, after all form and formless minds. Four follow it, its own level only. Obscured likewise: after ten, and four after it.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Desire wholesome followed by nine, follows eight. Asymmetry is formless obscured. Formless wholesome excluded by four remotenesses. Unwholesome and obscured follow ten, followed by four.
 

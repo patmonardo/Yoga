@@ -94,7 +94,7 @@ Essence.
 > as an identity of cognition and material strength.
 
 The common classification survives the disagreement:
-both the great-element and derived-Form accounts treat
+both the Great-Element and derived-Form accounts treat
 strength materially. The claim of boundlessness is a
 separate issue from that classification.
 
@@ -121,14 +121,14 @@ initial explicit equivalence controls the proportional
 reading of the named series.
 
 **`Mahābhūtaviśeṣa`.** A special determination of the great
-elements. This is the principal material account of bodily
+Elements. This is the principal material account of bodily
 strength, not an additional immaterial substance.
 
 **`Upādāyarūpa`.** Derived form. The alternative account
 places strength here as an item distinct from the seven
 derived tangibles. “Seven” must not be mistaken for the
 total tangible inventory, which also includes the great
-elements in the established material classification.
+Elements in the established material classification.
 
 ## 8. Logical Determination
 
@@ -168,7 +168,7 @@ every detail of that reading.
 | Alternative location | Others: in each joint |
 | Unlimited magnitude | Bhadanta: bodily strength boundless like mental strength |
 | Comparative magnitude | Principal series and alternative reckoning |
-| Material constitution | Principal account: great-element determination |
+| Material constitution | Principal account: Great-Element determination |
 | Alternative constitution | Others: distinct derived Form |
 
 Bhadanta's reason is that otherwise the bodily support

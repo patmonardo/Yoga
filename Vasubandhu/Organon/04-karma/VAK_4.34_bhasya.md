@@ -181,7 +181,7 @@ truthfully acknowledge a failure, and preserve the recollection
 needed to keep the vow operative. Here false speech and
 intoxicants are not simply two more items in a list; each can
 undermine the practical system that contains it. This is an
-Organon reading of their relation, while the Bhāṣya's own terms
+Interpretation of their relation, while the Bhāṣya's own terms
 remain training rules, their faults, and heedlessness.
 
 ## 6. Review Status

@@ -2,37 +2,39 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चक्षुश्च धर्मधातोश्च प्रदेशौ दृष्टिरष्टधा ।
->
-> पञ्चविज्ञानसहजा धीर्न दृष्टिरतीरणात् ॥ १.४१ ॥
+```sanskrit
+चक्षुश्च धर्मधातोश्च प्रदेशौ दृष्टिरष्टधा ।
+पञ्चविज्ञानसहजा धीर्न दृष्टिरतीरणात् ॥ १.४१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> cakṣuś ca dharmadhātoś ca pradeśau dṛṣṭir aṣṭadhā /
->
-> pañcavijñānasahajā dhīr na dṛṣṭir atīraṇāt // 1.41 //
+```text
+cakṣuś ca dharmadhātoś ca pradeśau dṛṣṭir aṣṭadhā /
+pañcavijñānasahajā dhīr na dṛṣṭir atīraṇāt // 1.41 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| cakṣuḥ | nominative | the eye-principle |
-| dharma-dhātoḥ | genitive | of the dharma-principle |
+| cakṣuḥ | nominative | the eye-Principle |
+| dharma-dhātoḥ | genitive | of the dharma-Principle |
 | pradeśau | dual | two portions |
 | dṛṣṭiḥ | nominative | view |
 | aṣṭadhā | adverb | eightfold |
 | pañca-vijñāna-sahajā | nominative | born with the five cognitions |
-| dhīḥ | nominative | Discrimination, prajñā |
+| *dhīḥ* | nominative | *prajñā* (Science of Principles), discriminative comprehension |
 | a-tīraṇāt | ablative | because it does not ascertain |
 
-The dharma-principle is not an essence. Only a portion of it is view. The eye is view by disclosure, not by ascertainment.
+The dharma-Principle is not an essence. Only a portion of it is view. The eye is view by disclosure, not by ascertainment.
 
 ## 4. Grammar
 
 ```text
 two portions are view
     the eye
-    an eightfold portion of the dharma-principle
+    an eightfold portion of the dharma-Principle
 
 eight
     five beginning with satkāya-dṛṣṭi
@@ -41,29 +43,31 @@ eight
     the adept's view
 
 not view
-    prajñā born with the five cognitions
+    discriminative comprehension born with the five Cognitions
     because it does not ascertain
 ```
 
-The remainder of the dharma-principle is not view.
+The remainder of the dharma-Principle is not view.
 
 ## 5. Translation
 
 ### Literal Translation
 
-A portion of the eye and a portion of the dharma-principle are view, eightfold. Discrimination born with the five cognitions is not view, because it does not ascertain.
+> A portion of the eye and a portion of the dharma-Principle are view,
+> eightfold. Discriminative comprehension born with the five Cognitions is
+> not view, because it does not ascertain.
 
 ### Bhāṣya-informed study translation
 
-A portion of the Eye Principle and an eightfold portion of the Dharma
-Principle count as view. Discrimination arising together with the five
-sensory Cognitions, however, is not view, because it does not ascertain.
+> A portion of the Eye Principle and an eightfold portion of the Dharma
+> Principle are view. The discriminative comprehension arising with the five
+> sensory Cognitions is not view, because it does not ascertain.
 
 ## 6. Philosophical Translation
 
-View is not the eighteen, and it is not the whole dharma-principle. Two portions. The eye is one, and it is view by disclosure, not by ascertainment. The other is eightfold prajñā in the dharma-principle: five views beginning with the view of a real body, worldly right view, the trainee's view, the adept's view. The remainder of that principle is not view.
+View is not the eighteen, and it is not the whole dharma-Principle. Two portions. The eye is one, and it is view by disclosure, not by ascertainment. The other is eightfold discriminative comprehension in the dharma-Principle: five views beginning with the view of a real body, worldly right view, the trainee's view, the adept's view. The remainder of that Principle is not view.
 
-Worldly right view is wholesome and Impure, and it is associated with mind-cognition only. Prajñā born with the five cognitions does not ascertain. View proceeds by attentive examination. That prajñā does not. Other prajñā, afflicted or unafflicted, fails for the same reason. The cloud and the night do not stop the seeing of visibles. Afflicted and unafflicted, trainee and adept, are ways of seeing dharmas, not a second principle.
+Worldly right view is wholesome and Impure, and it is associated with mind-cognition only. Discriminative comprehension born with the five Cognitions does not ascertain. View proceeds by attentive examination. That discriminative comprehension does not. Other discriminative comprehension, afflicted or unafflicted, fails for the same reason. The cloud and the night do not stop the seeing of visibles. Afflicted and unafflicted, trainee and adept, are ways of seeing dharmas, not a second Principle.
 
 The sentence that the eye sees visibles opens the next dispute. It is not settled here.
 
@@ -71,14 +75,14 @@ The sentence that the eye sees visibles opens the next dispute. It is not settle
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
-| pradeśa | portion | not the whole principle |
-| dṛṣṭi | view | eightfold in the dharma-principle; disclosure in the eye |
+| pradeśa | portion | not the whole Principle |
+| dṛṣṭi | view | eightfold in the dharma-Principle; disclosure in the eye |
 | satkāya-dṛṣṭi | view of a real body | first of the five; explained later |
-| laukikī samyag-dṛṣṭi | worldly right view | wholesome Impure prajñā with mind-cognition |
+| laukikī samyag-dṛṣṭi | worldly right view | wholesome Impure discriminative comprehension with mind-cognition |
 | śaikṣī | the trainee's view | Pure |
 | aśaikṣī | the adept's view | Pure |
-| dhī | Discrimination | prajñā |
-| atīraṇa | non-ascertainment | why the fivefold prajñā is not view |
+| dhī | discriminative comprehension | *prajñā* |
+| atīraṇa | non-ascertainment | why the fivefold discriminative comprehension is not view |
 | santīrikā | ascertaining | view proceeds by attentive examination |
 | rūpālocana | disclosure of visibles | why the eye is view |
 
@@ -87,7 +91,7 @@ The sentence that the eye sees visibles opens the next dispute. It is not settle
 ```text
 view
     a portion of the eye
-    an eightfold portion of the dharma-principle
+    an eightfold portion of the dharma-Principle
 
 eight
     five beginning with satkāya-dṛṣṭi
@@ -96,9 +100,9 @@ eight
     adept
 
 not view
-    the remainder of the dharma-principle
-    prajñā born with the five cognitions
-    other prajñā that does not ascertain
+    the remainder of the dharma-Principle
+    discriminative comprehension born with the five Cognitions
+    other discriminative comprehension that does not ascertain
 
 eye
     view by disclosure
@@ -109,7 +113,7 @@ eye
 
 ## 9. Interpretive Note
 
-The hinge is ascertainment. View examines. Prajñā born with the five cognitions does not, so it is not view. The eye does not examine either. It is view by another sense: it discloses visibles. That second sense is what the next verse disputes.
+The hinge is ascertainment. View examines. Discriminative comprehension born with the five Cognitions does not, so it is not view. The eye does not examine either. It is view by another sense: it discloses visibles. That second sense is what the next verse disputes.
 
 ## 10. OWL++ Seed
 

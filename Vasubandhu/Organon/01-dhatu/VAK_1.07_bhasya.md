@@ -3,12 +3,11 @@
 ## 1. Kārikā Anchor
 
 > te punaḥ saṃskṛtā dharmā rūpādiskandhapañcakam /
->
 > sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
 
-Literal:
-
-> Those Conditioned dharmas are the five bases beginning with form. That same field is the course, the *kathāvastu*, the *saniḥsāra*, and the *savastuka*.
+> The conditioned dharmas are the five Bases beginning with the Form Base.
+> These same dharmas are past, present, and future; subjects of discourse;
+> have an exit in nirvāṇa; and possess a real basis.
 
 Span: Pradhan `[004|23]`–`[005|08]`.
 
@@ -75,7 +74,7 @@ same field, four designations
     savastuka
 ```
 
-## 5. Organon Reading
+## 5. Interpretation
 
 The second line is the wheel. One field, four functions. The glosses are not the quad.
 
@@ -110,4 +109,4 @@ What persists is Impure. A Rational Dharma does not Persist. The cause-gloss is 
 
 ## 6. Review Status
 
-Kārikā anchor copies the literal. Lexical Analysis replaces Padaccheda on the verse study. The witness omission of `saṃjñāskandha` remains unpatched. Nirvāṇa-as-exit and *vastu*-as-cause stay glosses. The wheel is in the Organon reading, not in the conventional line.
+Kārikā anchor copies the literal. Lexical Analysis replaces Padaccheda on the verse study. The witness omission of `saṃjñāskandha` remains unpatched. Nirvāṇa-as-exit and *vastu*-as-cause stay glosses. The wheel is in the Interpretation, not in the conventional line.

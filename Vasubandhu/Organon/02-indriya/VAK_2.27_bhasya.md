@@ -62,7 +62,7 @@ Ground remains range of operation. Limited affliction and secondary affliction a
 
 The next question stays with 2.28.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Common range is not necessary co-presence. The universal class, the wholesome class, and this class cannot all be represented as lists that must accompany every occurrence of any member. Association, sphere, and abandonment are different aspects.
 

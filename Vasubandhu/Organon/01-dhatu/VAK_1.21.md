@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विवादमूलसंसारहेतुत्वात् क्रमकारणात् ।
->
-> चैत्तेभ्यो वेदनासंज्ञे पृथक्स्कन्धौ निवेशितौ ॥ १.२१ ॥॥
+```sanskrit
+विवादमूलसंसारहेतुत्वात् क्रमकारणात् ।
+चैत्तेभ्यो वेदनासंज्ञे पृथक्स्कन्धौ निवेशितौ ॥ १.२१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vivādamūlasaṃsārahetutvāt kramakāraṇāt /
->
-> caittebhyo vedanāsaṃjñe pṛthakskandhau niveśitau // 1.21 //
+```text
+vivādamūlasaṃsārahetutvāt kramakāraṇāt /
+caittebhyo vedanāsaṃjñe pṛthakskandhau niveśitau // 1.21 //
+```
 
 ## 3. Lexical Analysis
 
@@ -44,11 +46,15 @@ The commentary distributes the first reasons in order. Feeling is the principal 
 
 ### Literal Translation
 
-Because they are causes of the roots of dispute and of saṃsāra, and because of the reason of order, feeling and reflection are established as two distinct bases apart from the other mental factors.
+> Because they are causes of the roots of dispute and of saṃsāra, and
+> because of the reason of order, feeling and reflection are established as
+> two distinct bases apart from the other mental factors.
 
 ### Bhāṣya-informed study translation
 
-Feeling and perception are placed in separate Bases among the mental factors because they are principal causes of the roots of dispute and of saṃsāra: attachment to feeling leads toward sensual desire, and distorted perception toward views. Their place in the order of the Bases is another reason for distinguishing them.
+> Because they are causes of the roots of dispute and of saṃsāra, and because
+> of the reason of order, feeling and reflection were established as distinct
+> Bases apart from the other mental factors.
 
 ## 6. Philosophical Translation
 
@@ -103,6 +109,12 @@ order of the bases → 1.22
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya names fixation on sensual desire and fixation
+on views as the two roots of dispute. Feeling, through its savor, and
+reflection, through inversion, are their respective principal causes and are
+also principal causes of saṃsāra. It announces but defers a threefold
+demonstration of the reason of order.
 
 The hinge is *pṛthak*: apart, and still mental factors. Interpretation of the two roots is in the Bhāṣya.
 

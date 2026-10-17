@@ -114,7 +114,7 @@ The second account is the work. Seeing and cultivation abandon specified classes
 
 Prahāṇa is abandonment. It is not the checking of 2.03, and it is not a generic improvement.
 
-Organon reading: the three complete the controllers of purification on the Kośa Path. The principles remain deposited. Not the verse English.
+Interpretation: the three complete the controllers of purification on the Kośa Path. The principles remain deposited. Not the verse English.
 
 ## 10. OWL++ Seed
 

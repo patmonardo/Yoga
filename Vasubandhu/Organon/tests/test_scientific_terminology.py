@@ -18,7 +18,17 @@ INSTRUCTIONS = (
 )
 REVIEWED_VERSES = range(29, 48)
 LEGACY_TERMS = (
-    ("dhatu rendered as element", re.compile(r"\belement(?:s|al)?\b", re.I)),
+    # Capitalised Element(s) is the mandated rendering of bhūta.
+    ("dhatu rendered as element", re.compile(r"\belement(?:s|al)?\b")),
+    (
+        "dhatu compound rendered as Element",
+        re.compile(
+            r"\b(?:eye|ear|nose|tongue|body|mind|form|visible|sound|odou?r"
+            r"|taste|tangible|dharma|cognition|earth|water|fire|wind"
+            r"|eighteen|six)[- ]Elements?\b|\bElement[- ]?Principles?\b",
+            re.I,
+        ),
+    ),
     ("sense-base", re.compile(r"\bsense[- ]bases?\b", re.I)),
     (
         "āyatana rendered as a contact-base",

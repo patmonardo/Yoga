@@ -96,7 +96,7 @@ and `tat` in `tadūrdhvam` refers to Avīci.
 | duḥkha-nirantaratva | uninterruptedness of suffering | principal explanation of the name Avīci |
 | sāntara | having an interval | contrasting structure of suffering in other hells |
 | Saṃjīva | Reviving | hell named from beings' repeated revival after bodily destruction |
-| sukha-vīci | interval / wave of pleasure | element in an alternative explanation of Avīci |
+| sukha-vīci | interval / wave of pleasure | member in an alternative explanation of Avīci |
 | vipāka | karmic maturation-result | mode in which pleasant feeling is absent in hells |
 | naiḥṣyandika | homogeneous-result / outflow-result | non-maturation mode of pleasant feeling not excluded by the reply |
 | uparyupari saṃniviṣṭa | arranged successively above | principal topology of the seven other hells |

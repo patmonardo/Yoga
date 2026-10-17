@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > ubhābhyām api cakṣurbhyāṃ paśyati vyaktadarśanāt /
->
 > cakṣuḥśrotramano 'prāptaviṣayaṃ trayam anyathā // 1.43 //
 
-> One sees with both eyes too, because the seeing is clearer. Eye, ear, and mind do not reach their object. The three are otherwise.
+> One sees with both eyes as well, because seeing is clearer. Eye, ear, and
+> Mind apprehend Conditions they do not reach; the other three Faculties
+> apprehend Conditions they reach.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -172,7 +173,7 @@ No rule of one eye. Both, because the seeing is cleaner. Then reached and unreac
 4. Atoms do not touch. Whole contact would merge them. Partial contact would give them parts.
 5. The Bhadanta position is accepted: no touch; the designation where there is no interval.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The cleaner seeing is the two eyes open, not a second seer. The unreached three are eye, ear, and mind. Reaching is nothing between, not a contact of atoms. The designation touching does the work the touch is refused.
 

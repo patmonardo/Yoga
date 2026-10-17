@@ -70,7 +70,7 @@ Vipāka is maturation, what the instance is. Savipāka is possessing maturation,
 
 Tu is only. The metrical displacement is marked. Prāntakoṭika is left as the name. The lifespan repairs stay provisional.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Two predicates. Life is received, except where concentration projects the impetus. Distress is not received, and it always produces. The construction that raises and calms it is the reason it is not a result. That reason is not innocence.
 

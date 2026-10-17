@@ -113,7 +113,7 @@ Artha stays meaning. The commentary assigns the matters with respect to which go
 
 Kila remains it is said. Principally is not inserted into the verse.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 VAK 1.48 locates faculty in the principles: a portion of the dharma-principle, and the twelve internal. This passage says why the mapped items bear the name. The criterion is ādhipatya.
 

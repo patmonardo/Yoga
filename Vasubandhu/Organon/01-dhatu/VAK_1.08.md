@@ -2,23 +2,25 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> ये सास्रवा उपादानस्कन्धास्ते सरणा अपि ।
->
-> दुःखं समुदयो लोको दृष्टिस्थानं भवश्च ते ॥ १.०८ ॥॥
+```sanskrit
+ये सास्रवा उपादानस्कन्धास्ते सरणा अपि ।
+दुःखं समुदयो लोको दृष्टिस्थानं भवश्च ते ॥ १.०८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ye sāsravā upādānaskandhās te saraṇā api /
->
-> duḥkhaṃ samudayo loko dṛṣṭisthānaṃ bhavaś ca te // 1.08 //
+```text
+ye sāsravā upādānaskandhās te saraṇā api /
+duḥkhaṃ samudayo loko dṛṣṭisthānaṃ bhavaś ca te // 1.08 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| ye | nominative masculine plural | those which. Restricts the five bases of 1.07 |
+| ye | nominative masculine plural | those which. Restricts the five Bases of 1.07 |
 | sāsravāḥ | sa-āsrava; nominative masculine plural | Impure. The summary division |
-| upādānaskandhāḥ | upādāna-skandha; nominative masculine plural | bases of appropriation. Not every base |
+| upādānaskandhāḥ | upādāna-skandha; nominative masculine plural | Bases of appropriation. Not every Base |
 | te | nominative masculine plural | they. Same field |
 | saraṇāḥ | sa-raṇa; nominative masculine plural | with conflict. Coextensive with the Impure field |
 | api | particle | also. Not a second inventory |
@@ -45,20 +47,24 @@ One field under a summary division. The second line names that same Impure field
 
 ### Literal Translation
 
-Those which are Impure are the bases of appropriation. They are also with conflict. They are suffering, origin, world, the station of views, and becoming.
+> Those which are Impure are the Bases of appropriation. They are also with
+> conflict. They are suffering, origin, world, the station of views, and
+> becoming.
 
 ### Bhāṣya-informed study translation
 
-The Impure among those conditioned dharmas are Bases of appropriation, bound to the afflictions that arise from, govern, or arise through them. Because afflictive conflict lies latent in them, they are also with conflict. These same dharmas are suffering, origin, world, the station of views, and becoming.
+> Those conditioned dharmas that are with outflows are Bases of
+> appropriation; they too are with conflict. These same dharmas are
+> suffering, origin, the world, the station of views, and becoming.
 
 ## 6. Philosophical Translation
 
-The five bases are divided. The Impure are the bases of appropriation, and they are also the field of conflict. That same field is suffering, origin, world, the station of views, and becoming.
+The five Bases are divided. The Impure are the Bases of appropriation, and they are also the field of conflict. That same field is suffering, origin, world, the station of views, and becoming.
 
 ```text
-Five bases       the gathered field of 1.07
+Five Bases       the gathered field of 1.07
 
-Impure           bases of appropriation
+Impure           Bases of appropriation
                  the summary division
 
 Path             Conditioned and Pure
@@ -71,7 +77,7 @@ Path             Conditioned and Pure
 |---|---|---|
 | sāsrava | with outflows; lodging | Impure. Summary division |
 | anāsrava | outflow-free | Pure. The Path is Conditioned and Pure |
-| upādānaskandha | aggregate of clinging as a stain-word | base of appropriation |
+| upādānaskandha | Base of clinging as a stain-word | Base of appropriation |
 | saraṇa | with defilement, unspecified | with conflict |
 | loka | a place | here, what dissolves |
 | dṛṣṭisthāna | a viewpoint | station of views |
@@ -93,7 +99,9 @@ duḥkha, samudaya, loka, dṛṣṭisthāna, bhava
 
 ## 9. Interpretive Note
 
-Impure is the top-level division within the five-base field. Once the division is made, the word can drop. The sheath is later. The first two names are the first two Truths of what persists. The station of views is not the station of prajñā. A Rational Dharma does not Persist.
+**Translation note.** The Bhāṣya explains the three relations behind the name Base of appropriation: the afflictions arise from these Bases, govern them, or arise from them. It also explains that afflictions are called conflicts because they injure oneself and others.
+
+Impure is the top-level division within the five-Base field. Once the division is made, the word can drop. The sheath is later. The first two names are the first two Truths of what persists. The station of views is not the station of prajñā. A Rational Dharma does not Persist.
 
 ## 10. OWL++ Seed
 

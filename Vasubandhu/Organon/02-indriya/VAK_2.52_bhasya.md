@@ -25,7 +25,7 @@ The unit is printed 85.08–87.20 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Similar of similar, within the order stated. Own class and own level. Prior-born, of later, arisen or not. Future is not this cause. Never-not-a-cause is the other three. State, not substance. The Path is adventitious, not appropriated, and crosses its nine levels toward the equal or the superior. Faculties and accumulation, not height.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Homogeneous is similar, own class and level, prior-born. Future is not. Path crosses nine levels, equal or superior only. Not same-class. State, not substance.
 

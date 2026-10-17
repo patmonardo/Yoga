@@ -44,11 +44,11 @@ This is now considered. Do these conditioned dharmas, just as they have distinct
 
 In the desire realm, a soundless minimal cluster without a faculty consists of eight constituents. The most subtle cluster of form is called a paramāṇu, beyond which a further smaller cluster could not be discerned. In the desire realm, without sound and without a faculty, it arises with eight, lacking none. The eight are the four Great Elements and four derived forms: visible form, odor, taste, and the tangible. A soundless cluster possessing a faculty arises with nine or ten. One possessing the body-faculty has nine: those eight and the body-faculty. One possessing another faculty has ten: those nine and one among eye, ear, nose, and tongue. With sound, they arise with nine, ten, and eleven. There is also sound inseparable from a faculty, caused by appropriated Great Elements.
 
-If the elements are inseparable, how does one cluster arise hard, another fluid, hot, or moving? Whichever is most intense, standing out by its efficacy, is apprehended there. How is the rest known to be present? From their activities: holding together, sustaining, ripening, and spreading; and because, when conditions are available, the hard becomes fluid and so forth. Others say heat in water is known from the greater degree of cold. A greater degree of cold could occur without admixture, as with sound or feeling. Others say the elements are present as seeds, not in their own form, from the statement that there are various elements in this log.
+If the Elements are inseparable, how does one cluster arise hard, another fluid, hot, or moving? Whichever is most intense, standing out by its efficacy, is apprehended there. How is the rest known to be present? From their activities: holding together, sustaining, ripening, and spreading; and because, when conditions are available, the hard becomes fluid and so forth. Others say heat in water is known from the greater degree of cold. A greater degree of cold could occur without admixture, as with sound or feeling. Others say the Elements are present as seeds, not in their own form, from the statement that there are various Elements in this log.
 
 How is visible color present in wind? To be accepted, not inferred. Odor is apprehended from moving air, and odor does not occur without visible color. Odor and taste are absent in the form realm. The clusters there are of six, seven, or eight. Already indicated, not restated.
 
-Is constituent an individual real, or an essence? If individual, eight is too little: shape, heaviness or lightness, smoothness or roughness, and sometimes cold, hunger, and thirst. If essence, eight is too much: four, since the elements also belong to the tangible essence. Here support is counted as constituent, and what is supported as essence. Even so the elemental constituents would be more, each derived form depending on its own quartet. They are counted by kind. The other quartets do not go beyond their kinds. Why the effort of these distinctions? Words may be used as one chooses. The meaning is to be examined.
+Is constituent an individual real, or an essence? If individual, eight is too little: shape, heaviness or lightness, smoothness or roughness, and sometimes cold, hunger, and thirst. If essence, eight is too much: four, since the Elements also belong to the tangible essence. Here support is counted as constituent, and what is supported as essence. Even so the Elemental constituents would be more, each derived form depending on its own quartet. They are counted by kind. The other quartets do not go beyond their kinds. Why the effort of these distinctions? Words may be used as one chooses. The meaning is to be examined.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -64,7 +64,7 @@ Two positions are others: degrees of cold, and presence as seed. No school is na
 | Body-faculty | 9 | 10 |
 | Body and one of eye, ear, nose, tongue | 10 | 11 |
 
-The tangible in the eight is derived tangible form. Not the whole tangible essence, which would already include the elements. That distinction becomes the later objection.
+The tangible in the eight is derived tangible form. Not the whole tangible essence, which would already include the Elements. That distinction becomes the later objection.
 
 Another faculty is the four named. Not all twenty-two. Sound adds one. It does not make every faculty-bearing cluster continuously sound-producing.
 
@@ -82,7 +82,7 @@ Visible color in wind: accepted, not inferred, and then an inference from odor. 
 
 ## 7. What the Number Counts
 
-Every individual determination would be more than eight. Essences alone would be four: visible form, odor, taste, and the tangible, the elements under the last.
+Every individual determination would be more than eight. Essences alone would be four: visible form, odor, taste, and the tangible, the Elements under the last.
 
 Support is counted as constituent. Supported is grouped by essence. Each derived form has its own quartet. Those are counted by kind, so the four kinds are not multiplied.
 
@@ -94,7 +94,7 @@ Paramāṇu is the most subtle cluster of form. Beyond which a further smaller c
 
 Defects stay in the source. Desire-realm, eight constituents, sustaining, absence of admixture, and the question about the effort are contextual readings, not emendations. The needle compound and the shape clause are less secure. Their functions are predominance and additional determinations. The wording wants collation.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Possession and co-arising are different relations. Character, occurrence together, predominance, activity, and seed stay apart. Individual, essence, and kind do different work. A number without its unit is not the proposition.
 

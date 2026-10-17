@@ -46,7 +46,7 @@ A class, and its contrast with form and with associated mental dharmas. Not an a
 
 The double negation stays in the Sanskrit. The English follows the class-name. The acquisition inquiry, from among these, first, stays with 2.36.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Outside the five equalities is not outside every relation to the event or the continuum. The list names the records that are not classmates. It does not grade them. Acquisition is the first record. Its definition is the next verse.
 

@@ -98,7 +98,7 @@ the same as the genetic `niḥṣyanda` relation of 5.48–5.51.
 “belonging to the mental-cognition level,” while
 `ṣaḍvijñānāśraya` gives a range over six cognition
 groups. The malformed or opaque `samānasiddhā` is not
-translated as though its elements were securely parsed;
+translated as though its parts were securely parsed;
 the prose supports only the additional pair and its Path
 status. “Independent” retains the technical `svatantra`
 classification established in 5.52.

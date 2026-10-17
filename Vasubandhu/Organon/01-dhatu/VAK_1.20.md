@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> राश्यायद्वारगोत्रार्थाः स्कन्धायतनधातवः ।
->
-> मोहेन्द्रियरुचित्रैधात्तिस्रः स्कन्धादिदेशनाः ॥ १.२० ॥॥
+```sanskrit
+राश्यायद्वारगोत्रार्थाः स्कन्धायतनधातवः ।
+मोहेन्द्रियरुचित्रैधात्तिस्रः स्कन्धादिदेशनाः ॥ १.२० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> rāśyāyadvāragotrārthāḥ skandhāyatanadhātavaḥ /
->
-> mohendriyarucitraidhāt tisraḥ skandhādideśanāḥ // 1.20 //
+```text
+rāśyāyadvāragotrārthāḥ skandhāyatanadhātavaḥ /
+mohendriyarucitraidhāt tisraḥ skandhādideśanāḥ // 1.20 //
+```
 
 ## 3. Lexical Analysis
 
@@ -47,14 +49,15 @@ The first line is a distributive predication. The second is an ablative of cause
 
 ### Literal Translation
 
-Bases, essences, and principles have the meanings of collection, door of arrival, and source-kind. Because confusion, faculty, and inclination are threefold, there are three teachings, beginning with the bases.
+> Bases, essences, and principles have the meanings of collection, door of
+> arrival, and source-kind. Because confusion, faculty, and inclination are
+> threefold, there are three teachings, beginning with the bases.
 
 ### Bhāṣya-informed study translation
 
-Bases mean collections; Essences are doors through which consciousness and
-mental factors extend; Principles are source-kinds. Because those to be
-trained differ in confusion, Faculty, and inclination, each in three ways,
-there are three corresponding teachings: of Bases, Essences, and Principles.
+> Bases mean collections; Essences, doors of arrival; Principles,
+> source-kinds. Because trainees differ threefold in confusion, Faculty, and
+> inclination, there are three teachings, beginning with the Bases.
 
 ## 6. Philosophical Translation
 
@@ -117,6 +120,13 @@ three teachings
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya glosses collection as gathering into one,
+door of arrival as the extension of consciousness and mental factors, and
+source-kind through the analogy of mines and homogeneous causes (or own-nature
+for the unconditioned). It explains the threefold teaching by confusion about
+mental factors, Form, or both; by sharp, middling, or weak Faculties; and by
+brief, intermediate, or extensive inclination, assigned in that order.
 
 The hinge is the distributed compound, then *traidhāt*. The three meanings are the three teachings. Interpretation is in the Bhāṣya.
 

@@ -240,7 +240,7 @@ intermixed. They are designated as beings and are not intermediate existence.
 The Prajñapti says that the five destinies are included within the four modes
 of birth, but that the four modes of birth are not exhausted by the five
 destinies: intermediate existence is left unincluded. The Dharmaskandha also
-lists the eye-element derived from the four Great Elements as hellish, animal,
+lists the eye-Principle derived from the four Great Elements as hellish, animal,
 preta, divine, human, cultivation-produced, and belonging to intermediate
 existence.
 

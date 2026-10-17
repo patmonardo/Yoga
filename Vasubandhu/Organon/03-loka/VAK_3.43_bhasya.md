@@ -158,7 +158,7 @@ marked alternative opinions must remain visible:
 
 - `mūrdhnīty apare`: some place the arhat's final cessation at the crown,
   rather than the heart;
-- `bhājanalokasaṃvartanīsādharmyeṇety apare`: some explain the elemental
+- `bhājanalokasaṃvartanīsādharmyeṇety apare`: some explain the Elemental
   pattern of vital-point injury by analogy with the dissolution of the
   container-world.
 

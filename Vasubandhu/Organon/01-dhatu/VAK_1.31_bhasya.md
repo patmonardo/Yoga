@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > ārūpyāptā manodharmamanovijñānadhātavaḥ /
->
 > sāsravānāsravā ete trayaḥ śeṣās tu sāsravāḥ // 1.31 //
 
-> Connected with the formless are the mind-principle, the dharma-principle, and the mind-cognition principle. These three are Impure and Pure. The rest are Impure.
+> Connected with the formless are the Mind Principle, Dharma Principle, and
+> Mind-Cognition Principle. These three are Impure and Pure; the remaining
+> fifteen are Impure.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -56,7 +57,7 @@ The first sentence completes the realm count begun at 1.30. The reason is birth:
 6. The remaining fifteen are exclusively Impure.
 7. The dharma-principle is not an essence.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The realm cut is Dharma:Formless:Form:Desire. Everything is in everything, and desire is covered by dharma. The birth-cut is still a cut. The desireling is the eating and mating machine. That machine is not born in the form realm, and it is not born in the formless. The formless drops the ten whose nature is form. It does not drop the Form of Universality. That Form is the Concept, and it is in the formless as the three that remain. The page does not print that. The page prints the three principles and the Pure and the Impure.
 

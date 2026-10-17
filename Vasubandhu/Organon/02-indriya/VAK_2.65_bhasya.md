@@ -24,11 +24,11 @@ The unit is printed 102.16–103.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defe
 
 ## 3. Continuous Conventional Translation
 
-How are the elements cause-condition for the elements? In two ways: homogeneous and co-arisen. Of derived form, in five. Generation, dependent support, foundation, sustaining, increase. This is the conditioning cause, divided fivefold. Of one another, in three: co-arisen, homogeneous, maturation. The conditioning cause is not always counted. Of the elements, in one way only: bodily and verbal action whose maturation is the elements.
+How are the Elements cause-condition for the Elements? In two ways: homogeneous and co-arisen. Of derived form, in five. Generation, dependent support, foundation, sustaining, increase. This is the conditioning cause, divided fivefold. Of one another, in three: co-arisen, homogeneous, maturation. The conditioning cause is not always counted. Of the Elements, in one way only: bodily and verbal action whose maturation is the Elements.
 
-## 4. Organon Reading
+## 4. Interpretation
 
-Elements cause elements in two ways, derived form in five functions of the conditioning cause. Derived form of derived form in three, of elements in one, maturation. Conditioning cause is not always counted.
+Elements cause Elements in two ways, derived form in five functions of the conditioning cause. Derived form of derived form in three, of Elements in one, maturation. Conditioning cause is not always counted.
 
 ## 5. Review Status
 

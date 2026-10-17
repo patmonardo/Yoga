@@ -96,7 +96,7 @@ The title sequence is damaged. Creator, Producer is provisional. Four and I am a
 
 The close indexes three variables: which level, which consciousness, how many factors. The remainder as before keeps what was not altered.
 
-Organon reading: level, ethical character, and factor-identity stay apart. Not the verse English.
+Interpretation: level, ethical character, and factor-identity stay apart. Not the verse English.
 
 ## 10. OWL++ Seed
 

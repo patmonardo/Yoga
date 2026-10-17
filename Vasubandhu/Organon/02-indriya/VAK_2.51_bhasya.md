@@ -29,7 +29,7 @@ The unit is printed 83.25–85.07 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 What follows consciousness? The mental factors associated with it, the two restraints, and the marks of those and of consciousness. Ten reasons. Together in arising, persistence, cessation, and period. Together in result, maturation, and homogeneous outflow. Ethical status with consciousness. Fifty-eight out, fifty-four in. Fourteen not approved. Co-arisen is wider than co-arisen cause. Simultaneous causation is not settled.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Followers are defined in ten respects. The counts are 58 out, 54 in. Co-arisen is wider than the cause. Simultaneous causation is not an uncontested proof.
 

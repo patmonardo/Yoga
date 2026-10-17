@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> द्वादशाध्यात्मिका हित्वा रूपादीन् धर्मसंज्ञकः ।
->
-> सभागस्तत्सभागाश्च शेषा यो न स्वकर्मकृत् ॥ १.३९ ॥
+```sanskrit
+द्वादशाध्यात्मिका हित्वा रूपादीन् धर्मसंज्ञकः ।
+सभागस्तत्सभागाश्च शेषा यो न स्वकर्मकृत् ॥ १.३९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> dvādaśādhyātmikā hitvā rūpādīn dharmasaṃjñakaḥ /
->
-> sabhāgas tatsabhāgāś ca śeṣā yo na svakarmakṛt // 1.39 //
+```text
+dvādaśādhyātmikā hitvā rūpādīn dharmasaṃjñakaḥ /
+sabhāgas tatsabhāgāś ca śeṣā yo na svakarmakṛt // 1.39 //
+```
 
 ## 3. Lexical Analysis
 
@@ -24,7 +26,7 @@
 | śeṣāḥ | nominative | the rest |
 | yaḥ na sva-karma-kṛt | relative | whichever does not do its own work |
 
-The one called dharma is the dharma-principle. It is not an essence. Inner is not a self. It is proximity to citta, and citta is designated self because it is the support of the I-maker.
+The one called dharma is the dharma-Principle. It is not an essence. Inner is not a self. It is proximity to citta, and citta is designated self because it is the support of the I-maker.
 
 ## 4. Grammar
 
@@ -34,9 +36,9 @@ twelve inner
     six supports
 
 six outer
-    the object-principles beginning with visible
+    the object-Principles beginning with visible
 
-dharma-principle
+dharma-Principle
     always sabhāga
 
 the rest
@@ -50,20 +52,21 @@ Two cuts. Inner and outer. Then the work and the failure of the work.
 
 ### Literal Translation
 
-Twelve are inner, having set aside those beginning with visible. The one called dharma is sabhāga. And the rest are tat-sabhāga, whichever does not do its own work.
+> Twelve are inner, having set aside those beginning with visible. The one
+> called dharma is sabhāga. And the rest are tat-sabhāga, whichever does not
+> do its own work.
 
 ### Bhāṣya-informed study translation
 
-Twelve Principles are inner—the six supports and their six Cognitions—once
-the six beginning with Visible Form are set aside. The Dharma Principle is
-always *sabhāga*, exercising its function; the remaining Principles are
-*sabhāga* when they do their own work and *tat-sabhāga* when they do not.
+> Twelve Principles are internal, excluding the six beginning with Visible
+> Form. The Dharma Principle is *sabhāga*; the others are *sabhāga* when
+> performing their own function, and *tat-sabhāga* when they do not.
 
 ## 6. Philosophical Translation
 
-Inner is not a self inside. Citta is called self because it supports the I-maker, and the twelve are inner because they are near that support: six cognitions, six supports. The six beginning with visible are outer because they are objects. The cognition-principles do not fall out of the twelve. When past they are the mind-principle. The mark holds in all three times, or the mind-principle would be past only.
+Inner is not a self inside. Citta is called self because it supports the I-maker, and the twelve are inner because they are near that support: six cognitions, six supports. The six beginning with visible are outer because they are objects. The Cognition Principles do not fall out of the twelve. When past they are the mind-Principle. The mark holds in all three times, or the mind-Principle would be past only.
 
-Sabhāga is doing one's own work. The dharma-principle always does it. The citta that all dharmas are without self takes them as object-support, and the next moment takes that citta. Two moments cover them. The rest do the work or fail it. The eye that sees is sabhāga. The eye that ceases without having seen, or that will not arise, is tat-sabhāga. The Kāśmīras count four. The Westerners split the last and count five. Mind fails only by not being of a nature to arise.
+Sabhāga is doing one's own work. The dharma-Principle always does it. The citta that all dharmas are without self takes them as object-support, and the next moment takes that citta. Two moments cover them. The rest do the work or fail it. The eye that sees is sabhāga. The eye that ceases without having seen, or that will not arise, is tat-sabhāga. The Kāśmīras count four. The Westerners split the last and count five. Mind fails only by not being of a nature to arise.
 
 The eye is uncommon. One eye is not the seeing of two. Visible is common. One moon is seen by many, and it is sabhāga for the seer and tat-sabhāga for the one who does not see. Smell seems uncommon because it is grasped on contact. It is common in possibility: the same smell might have been another's cognition. The eye cannot be that.
 
@@ -72,10 +75,10 @@ The eye is uncommon. One eye is not the seeing of two. Visible is common. One mo
 | Sanskrit | Rendering | Note |
 |---|---|---|
 | ādhyātmika | inner | near citta as support; not a self |
-| bāhya | outer | the six object-principles |
+| bāhya | outer | the six object-Principles |
 | āśraya | support | the six with the cognitions make twelve |
 | citta | citta | designated self as support of the I-maker |
-| dharma-saṃjñaka | the one called dharma | the dharma-principle; not an essence |
+| dharma-saṃjñaka | the one called dharma | the dharma-Principle; not an essence |
 | sabhāga | does its own work | organ, object, and cognition taking one another up |
 | tat-sabhāga | of that kind | the same kind, without the work |
 | sva-karma-kṛt | does its own work | the sabhāga side |
@@ -92,7 +95,7 @@ twelve inner
 six outer
     beginning with visible
 
-dharma-principle
+dharma-Principle
     always sabhāga
 
 the rest
@@ -118,7 +121,9 @@ smell and the rest
 
 ## 9. Interpretive Note
 
-The hinge is the work. Inner is proximity, not a self. Sabhāga is not a second principle. It is the principle doing what it is for. Tat-sabhāga is the same kind when the work is not done. The dharma-principle does not have that failure.
+**Translation note.** The twelve internal Principles are the six supports and their six Cognitions. The Dharma Principle is always *sabhāga*; the other Principles are *sabhāga* when exercising their own function and *tat-sabhāga* when not.
+
+The hinge is the work. Inner is proximity, not a self. Sabhāga is not a second Principle. It is the Principle doing what it is for. Tat-sabhāga is the same kind when the work is not done. The dharma-Principle does not have that failure.
 
 ## 10. OWL++ Seed
 

@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > pañca bāhyā dvivijñeyā nityā dharmā asaṃskṛtāḥ /
->
 > dharmārdham indriyaṃ ye ca dvādaśādhyātmikāḥ smṛtāḥ // 1.48 //
 
-> The five external are knowable by two. Unconditioned dharmas are permanent. A portion of the dharma is faculty, and the twelve called internal.
+> The five external Principles are knowable by two. Unconditioned Dharmas are
+> permanent. A portion of the Dharma Principle, and the twelve internal
+> Principles, are Faculties.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -93,7 +94,7 @@ Which is known by which. Then which is permanent. Then which is faculty. The col
 5. The five external and the remaining portion are not faculty.
 6. The Exposition of the Principles is complete.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The close is three cuts. Known twice, or once. Permanent only as a portion. Faculty as a portion and the twelve internal. The chapter ends on the handoff, not on a new list.
 

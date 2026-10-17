@@ -83,7 +83,7 @@ Caitta and caitasika are mental factor. Viprayukta is dissociated formation, fro
 
 Vikalpa here is a distinction of cases, the explanation of or. Not imaginative construction. Ground follows the local definition.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Three relations. Shared language of together does not erase the scopes.
 

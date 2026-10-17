@@ -109,7 +109,7 @@ The order is explained by the functions, not only received. Arising from female 
 
 Speech depends on training. That does not mean no cultivated faculty counts: the eight are in this same unit. Hand and foot are not different from the act, and the act occurs without them. Excretion is heavy matter and wind. Pleasure of the genital organ is already assigned to female and male. The last step is the threat: every cause would be a faculty of its own act.
 
-Organon reading: the array is what we subject ourselves to. The principles remain the membership discriminator. Not the verse English.
+Interpretation: the array is what we subject ourselves to. The principles remain the membership discriminator. Not the verse English.
 
 ## 10. OWL++ Seed
 

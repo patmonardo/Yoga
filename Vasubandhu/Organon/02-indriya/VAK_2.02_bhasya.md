@@ -93,7 +93,7 @@ Kāyāt is read through kāyendriyād eva, from the body-faculty itself. Separat
 
 Ceṣṭā is movement. Abhiprāya is intention. The repairs of the eye-mastery sentence and the compressed list remain in the witness.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Applied Indriya Theory. The principles remain deposited. This verse applies the Rule: a faculty governs apprehension of meaning, and the meaning does not govern back. Mind's all is range, not a faculty that thinks. Female and male are a dharmic extension inside the body-faculty, a portion governing a wider configuration.
 

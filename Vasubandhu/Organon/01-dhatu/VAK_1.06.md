@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> प्रतिसंख्यानिरोधो यो विसंयोगः पृथक् पृथक् ।
->
-> उत्पादात्यन्तविघ्नोऽन्यो निरोधोऽप्रतिसंख्यया ॥ १.०६ ॥
+```sanskrit
+प्रतिसंख्यानिरोधो यो विसंयोगः पृथक् पृथक् ।
+उत्पादात्यन्तविघ्नोऽन्यो निरोधोऽप्रतिसंख्यया ॥ १.०६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> pratisaṃkhyānirodho yo visaṃyogaḥ pṛthak pṛthak /
->
-> utpādātyantavighno 'nyo nirodho 'pratisaṃkhyayā // 1.06 //
+```text
+pratisaṃkhyānirodho yo visaṃyogaḥ pṛthak pṛthak /
+utpādātyantavighno 'nyo nirodho 'pratisaṃkhyayā // 1.06 //
+```
 
 ## 3. Lexical Analysis
 
@@ -45,15 +47,16 @@ The first is attained through discrimination. The second is not. Neither is a co
 
 ### Literal Translation
 
-Cessation through discrimination is disjunction, separately and separately. The other cessation, not through discrimination, is the absolute obstruction of arising.
+> Cessation through discrimination is disjunction, separately and
+> separately. The other cessation, not through discrimination, is the
+> absolute obstruction of arising.
 
 ### Bhāṣya-informed study translation
 
-Cessation through discrimination is disjunction from Impure dharmas, attained
-separately in each case through the prajñā that discerns the Noble Truths:
-there are as many disjunctions as conjunctions. The other cessation, not
-attained through that discrimination, is the absolute obstruction of a future
-dharma's arising when its conditions are lacking.
+> Cessation through discriminative comprehension is disjunction from
+> Impure dharmas, separately in each case. The other cessation, not through
+> discriminative comprehension, is an absolute obstruction to the arising
+> of a future dharma.
 
 ## 6. Philosophical Translation
 
@@ -100,7 +103,9 @@ pure, able to arise                   neither
 
 ## 9. Interpretive Note
 
-The first cessation is not nothing. It is disjunction, separately. The second is not that disjunction. A future dharma is blocked because its conditions are gone. The eye and the mind occupied with one form cannot later take what has already passed.
+**Translation note.** The Bhāṣya explains that discriminative comprehension here is the prajñā that considers the Noble Truths and that there are as many disjunctions as conjunctions. It distinguishes this separately attained cessation from the other cessation, which blocks a future dharma's arising when its conditions are absent.
+
+The first cessation is not nothing. It is disjunction, separately. The second is not that disjunction. A future dharma is blocked because its conditions are gone. The eye and the mind occupied with one Form cannot later take what has already passed.
 
 ## 10. OWL++ Seed
 

@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > dvādaśādhyātmikā hitvā rūpādīn dharmasaṃjñakaḥ /
->
 > sabhāgas tatsabhāgāś ca śeṣā yo na svakarmakṛt // 1.39 //
 
-> Twelve are inner, having set aside those beginning with visible. The one called dharma is sabhāga. And the rest are tat-sabhāga, whichever does not do its own work.
+> Twelve Principles are internal, excluding the six beginning with Visible
+> Form. The Dharma Principle is *sabhāga*; the others are *sabhāga* when
+> performing their own function, and *tat-sabhāga* when they do not.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -207,7 +208,7 @@ Two questions. How many are inner, how many outer. How many do their own work, h
 5. The rest are sabhāga when they do their own work, tat-sabhāga when they do not.
 6. The eye is uncommon, settled by one continuum. Visible is common, settled by many. Smell and the rest are common in possibility.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 Inner is not a self found. It is proximity to citta, and citta is called self only as the support of the I-maker. Sabhāga is not a further principle. It is the principle doing the work it is. The dharma-principle does not have the failure. The eye cannot be the seeing of two. One visible can be the seeing of many. That is the cut between uncommon and common.
 

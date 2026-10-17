@@ -119,7 +119,7 @@ Superior power is the cut against the meaning. The eye is common across visible 
 
 Female and male receive a name inside the body-faculty. The portion is local. The governed configuration is wider: form, voice, movement, intention. That is the transmitted account. It is not a modern theory of sex.
 
-Organon reading: Applied Indriya Theory, with the extension inside the body-faculty. Defilement and purification are the Kośa Path. The faculties that govern them are its controllers. Not the verse English. Not this verse's predicate.
+Interpretation: Applied Indriya Theory, with the extension inside the body-faculty. Defilement and purification are the Kośa Path. The faculties that govern them are its controllers. Not the verse English. Not this verse's predicate.
 
 ## 10. OWL++ Seed
 

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सवितर्कविचारा हि पञ्च विज्ञानधातवः ।
->
-> अन्त्यास्त्रयस्त्रिप्रकाराः शेषा उभयवर्जिताः ॥ १.३२ ॥
+```sanskrit
+सवितर्कविचारा हि पञ्च विज्ञानधातवः ।
+अन्त्यास्त्रयस्त्रिप्रकाराः शेषा उभयवर्जिताः ॥ १.३२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> savitarkavicārā hi pañca vijñānadhātavaḥ /
->
-> antyās trayas triprakārāḥ śeṣā ubhayavarjitāḥ // 1.32 //
+```text
+savitarkavicārā hi pañca vijñānadhātavaḥ /
+antyās trayas triprakārāḥ śeṣā ubhayavarjitāḥ // 1.32 //
+```
 
 ## 3. Lexical Analysis
 
@@ -45,11 +47,14 @@ The three kinds are not three principles. They are three ways the last three occ
 
 ### Literal Translation
 
-The five cognition-principles are with vitarka and with vicāra. The last three are of three kinds. The rest are without both.
+> The five cognition-principles are with vitarka and with vicāra. The last
+> three are of three kinds. The rest are without both.
 
 ### Bhāṣya-informed study translation
 
-The five sensory cognition-principles are accompanied by both vitarka and vicāra. The last three principles—the mind-principle, dharma-principle, and mind-cognition principle—admit three modes: with both, with vicāra alone, or with neither, according to their constituent dharmas and level of concentration. The remaining ten principles, being form, have neither.
+> The five Cognition Principles are accompanied by both vitarka and vicāra.
+> The last three—Mind Principle, Dharma Principle, and Mind-Cognition
+> Principle—are of three kinds; the remaining ten are without both.
 
 ## 6. Philosophical Translation
 
@@ -102,6 +107,17 @@ remaining ten
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The five Cognition Principles are always associated with
+both terms. The last three vary by level: desire and the first concentration
+have both, intermediate concentration has vicāra alone, and the second
+concentration through the summit has neither. The commentary separately
+classifies vitarka as with vicāra alone, vicāra in desire and the first
+concentration as with vitarka alone, and unassociated Dharma-Principle (and
+vicāra in the intermediate concentration) as without both. Thus the cited
+fourfold distinction on a level with both clarifies, rather than alters, the
+verse's threefold statement; the remaining ten are Form-natured and
+unassociated.
 
 The hinge is hi. The five are not sometimes with the pair. The last three are the ones that vary, and the variation is the level. The four kinds are required because vitarka and vicāra cannot associate with a second of themselves.
 

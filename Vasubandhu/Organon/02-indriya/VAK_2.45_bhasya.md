@@ -29,7 +29,7 @@ The unit is printed 73.15–73.28 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 What is the life faculty? Lifespan of the three realms. What dharma is lifespan? The support of warmth and cognition. When lifespan, warmth, and cognition leave the body, it lies cast aside like a senseless piece of wood. Mutual support would not cease. Karma projects the duration. Karma as the direct support of cognition would make all cognition until death a maturation. Warmth cannot support cognition in the formless realm. Lifespan is therefore the support of both.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Life is the projected duration of the group same-class, not a distinct entity. Warmth and cognition are what it supports. The arrow is the test. Death is fourfold. The marks are of the stream, on the critical account. Three in the sūtra, four in the treatise. Not settled.
 

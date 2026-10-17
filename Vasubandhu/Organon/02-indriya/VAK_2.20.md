@@ -113,7 +113,7 @@ Wholesome would also take the three. The eight and the ordinary person exclude t
 
 Five feelings in the count are not five feelings in one moment.
 
-Organon reading: the floor is typed. The telos is not this verse. Not the verse English.
+Interpretation: the floor is typed. The telos is not this verse. Not the verse English.
 
 ## 10. OWL++ Seed
 

@@ -3,10 +3,12 @@
 ## 1. Kārikā Anchor
 
 > pratisaṃkhyānirodho yo visaṃyogaḥ pṛthak pṛthak /
->
 > utpādātyantavighno 'nyo nirodho 'pratisaṃkhyayā // 1.06 //
 
-> Cessation through discrimination is disjunction, separately and separately. The other cessation, not through discrimination, is the absolute obstruction of arising.
+> Cessation through discriminative comprehension is disjunction from
+> Impure dharmas, separately in each case. The other cessation, not through
+> discriminative comprehension, is an absolute obstruction to the arising
+> of a future dharma.
 
 Span: Pradhan `[003|24]`–`[004|22]`. The next question opens 1.07.
 
@@ -94,7 +96,7 @@ four corners
     -> first only, second only, both, neither
 ```
 
-## 5. Organon Reading
+## 5. Interpretation
 
 Marked. Not the conventional line.
 

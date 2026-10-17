@@ -100,7 +100,7 @@ abstention, to explain the kārikā's *virati-graha*. The status
 corresponds to the range undertaken: five, eight, ten, or the complete
 field of prohibited bodily and verbal action.
 
-For the Organon reading, the verse specifies the field through which
+For the Interpretation, the verse specifies the field through which
 practical Cetanā is disciplined. Its focus is not simply on naming
 statuses or counting rules, but on the scope of abstention that is
 undertaken. This is an Organon application; the Bhāṣya itself explains

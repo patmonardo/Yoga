@@ -149,7 +149,7 @@ non-restraint.”
 
 The Bhāṣya distinguishes a transfer of names from a change in restraint,
 then distinguishes successively undertaken restraints by their causal
-grounds without making them mutually exclusive. In the Organon reading,
+grounds without making them mutually exclusive. In the Interpretation,
 this gives a precise account of practical differentiation: fuller
 restraint is not merely an enlarged count of rules but a distinct
 organization of the conditions for abstention. The three can remain

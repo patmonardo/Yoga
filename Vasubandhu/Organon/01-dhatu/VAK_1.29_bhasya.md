@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > sanidarśana eko 'tra rūpaṃ sapratighā daśa /
->
 > rūpiṇo 'vyākṛtā aṣṭau ta evārūpaśabdakāḥ // 1.29 //
 
-> One here is visible: form. Ten are resistant. Eight form-bearing ones are indeterminate: those same, excluding form and sound.
+> Among the eighteen Principles, one is visible: the Visible Form Principle.
+> Ten included in the Form Base are resistant. Eight of those ten are
+> indeterminate: those same ten excluding Visible Form and Sound.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -160,7 +161,7 @@ Three questions. The middle one opens the three resistances, then returns to obs
 6. Indeterminate means not declared wholesome or unwholesome. The maturation account would take the Pure with it, and fails.
 7. The final compound excludes two names. It does not empty the eight of form.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 Visibility, resistance, and ethical status stay three. The processor is being shown how to cut, not given a new list. The seven in the comparison are the Cognition Principle: six cognition-principles and the mind-principle. They are not the ten. Cognition is not principle. The Pure is not indeterminate by the rejected account.
 

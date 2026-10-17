@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> पृथिवी वर्णसंस्थानमुच्यते लोकसंज्ञया ।
->
-> आपस्तेजश्च वायुस्तु धातुरेव तथापि च ॥ १.१३ ॥॥
+```sanskrit
+पृथिवी वर्णसंस्थानमुच्यते लोकसंज्ञया ।
+आपस्तेजश्च वायुस्तु धातुरेव तथापि च ॥ १.१३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> pṛthivī varṇasaṃsthānam ucyate lokasaṃjñayā /
->
-> āpas tejaś ca vāyus tu dhātur eva tathāpi ca // 1.13 //
+```text
+pṛthivī varṇasaṃsthānam ucyate lokasaṃjñayā /
+āpas tejaś ca vāyus tu dhātur eva tathāpi ca // 1.13 //
+```
 
 ## 3. Lexical Analysis
 
@@ -24,12 +26,12 @@
 | tejaḥ | nominative | fire |
 | vāyuḥ | nominative | wind |
 | tu | particle | the contrast |
-| dhātuḥ eva | predicate | the principle itself |
+| dhātuḥ eva | predicate | the Principle itself |
 | tathā api ca | particles | the concession |
 
 *Loka-saṃjñā* is designation in ordinary use. It is not the reflection
 defined in the next verse. *Varṇa* and *saṃsthāna* are the pair already
-counted under visible form.
+counted under visible Form.
 
 ## 4. Grammar
 
@@ -44,19 +46,22 @@ vāyuḥ tu
 ```
 
 The verb is understood with water and fire. *Tu* cuts wind off from that
-clause. *Dhātur eva* predicates the principle of wind. *Tathāpi ca* returns
+clause. *Dhātur eva* predicates the Principle of wind. *Tathāpi ca* returns
 a visible use to wind. It does not make water and fire principles only.
 
 ## 5. Translation
 
 ### Literal Translation
 
-By worldly designation, color and configuration are called earth. Water and
-fire too. Wind, however, is the principle itself — and yet also in that way.
+> By worldly designation, color and configuration are called earth. Water
+> and fire too. Wind, however, is the Principle itself — and yet also in
+> that way.
 
 ### Bhāṣya-informed study translation
 
-What ordinary speech calls earth, water, and fire is color and configuration, rather than the corresponding elements themselves. What it calls wind can be the wind-element itself, though wind can also be named from its visible color or configuration.
+> By worldly designation, earth, water, and fire are color and
+> configuration; wind, however, is also the Principle itself, though in
+> that way too it is called from color and configuration.
 
 ## 6. Philosophical Translation
 
@@ -66,32 +71,32 @@ rule.
 
 Earth, water, and fire, as named, are color and configuration. Pointing
 shows the visible complex. It does not show hardness, cohesion, or heat.
-Those are the principles of 1.12. Designation and principle are not the same
-determination. The common word and the principle are not coextensive.
+Those are the Principles of 1.12. Designation and Principle are not the same
+determination. The common word and the Principle are not coextensive.
 
 Wind is the case that keeps the pair honest. The world can call the
-principled wind itself wind. Impulsion can wear the ordinary name. And yet a
+Wind Principle itself wind. Impulsion can wear the ordinary name. And yet a
 blue storm or a circular storm is also called wind. *Tu* distinguishes.
 *Tathāpi ca* gives the visible use back. One name, two determinations. The
 input can be named, and the shown can be named, and they are not the same.
 
 The verse stops there. The commentary asks why the series through
-*avijñapti* is the form-base. Being affected is the reason offered:
+*avijñapti* is the Form Base. Being affected is the reason offered:
 alteration, or obstruction. That fits what can be touched and shown. It does
 not fit the continuity as stated.
 
 The repairs fail in order. Affected through the *vijñapti* it arises from,
 as a shadow moves with the tree: then the continuity would cease when the
-manifestation ceases. It does not. Affected because the supporting elements
-are affected: then the eye-cognition would be form, because its organ is
+manifestation ceases. It does not. Affected because the supporting Great Elements
+are affected: then Eye-Cognition would be Form, because its Faculty is
 affected. The inequality offered is continuing dependence against a mere
 condition of arising. The criticism rejects the analogy, and states the fact:
-*avijñapti* does not cease when the great elements that supported it have
+*avijñapti* does not cease when the Great Elements that supported it have
 ceased. The last reply keeps the classification. It does not explain the
 later moment.
 
 What the verse expresses is the cut. Worldly designation points at color and
-configuration. The principle is not that pointing, except in the wind case.
+configuration. The Principle is not that pointing, except in the wind case.
 The continuity is the member the commentary cannot reduce to either. The
 grounding stays contested.
 
@@ -106,10 +111,10 @@ The next verse defines reflection. Not this one.
 | saṃsthāna | configuration | what is shown |
 | pṛthivī, āpas, tejas | earth, water, fire | ordinary names |
 | vāyu | wind | the exception |
-| dhātu | principle | the chapter word |
-| vāyu-dhātu | principled wind | impulsion, from 1.12 |
+| dhātu | Principle | the chapter word |
+| vāyu-dhātu | Wind Principle | impulsion, from 1.12 |
 | tathāpi ca | and yet also | the visible storm |
-| rūpa-skandha | form-base | the commentary's question |
+| rūpa-skandha | Form Base | the commentary's question |
 | raupaṇa | being affected | the reason offered |
 | avijñapti | *avijñapti* | the hard member; the name stays |
 | vijñapti | *vijñapti* | informs another; the contrast |
@@ -117,19 +122,19 @@ The next verse defines reflection. Not this one.
 ## 8. Logical Determination
 
 ```text
-earth, water, fire
+Earth, Water, Fire
     by designation → color and configuration
-    not the principle
+    not the Principle
 
-wind
-    the principle itself
+Wind
+    the Principle itself
     and yet also color and configuration
 
 commentary, not the verse
-    why the series through avijñapti is form
+    why the series through avijñapti is Form
     → being affected
     shadow of vijñapti fails
-    support by the elements fails as stated
+    support by the Great Elements fails as stated
     continuity outlasts both
     classification retained
     grounding contested

@@ -123,7 +123,7 @@ Pleasant feeling is not attachment. Painful feeling is not aversion. Neutral fee
 
 The five check and draw. The two operations are coordinated. The text does not say checking must finish before the path begins, and it does not assign a separate operation to each of the five.
 
-Organon reading: Defilement and purification are the Kośa Path. The faculties that govern them are its controllers. Life governs the standing of the class beside that path. Not the verse English.
+Interpretation: Defilement and purification are the Kośa Path. The faculties that govern them are its controllers. Life governs the standing of the class beside that path. Not the verse English.
 
 ## 10. OWL++ Seed
 

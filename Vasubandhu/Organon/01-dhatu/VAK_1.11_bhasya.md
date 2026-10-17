@@ -3,16 +3,14 @@
 ## 1. Kārikā Anchor
 
 > vikṣiptācittakasyāpi yo 'nubandhaḥ śubhāśubhaḥ /
->
 > mahābhūtāny upādāya sa hy avijñaptir ucyate // 1.11 //
 
-> The wholesome or unwholesome continuity that persists even when consciousness
-> is directed elsewhere or absent—and also when it is present and undistracted—
-> depends on the Great Elements and is called *avijñapti*. It is form and action
-> that does not inform another as *vijñapti* does.
+> The wholesome or unwholesome continuity that persists even when
+> consciousness is directed elsewhere or absent depends on the Great
+> Elements and is called *avijñapti*.
 
 The commentary explains the states, the stream, the distinction, and the
-name. Which great elements are meant opens 1.12. It is not taken here.
+name. Which Great Elements are meant opens 1.12. It is not taken here.
 
 ## 2. Continuous Sanskrit
 
@@ -41,7 +39,7 @@ name. Which great elements are meant opens 1.12. It is not taken here.
 > samāsatas tu vijñaptisamādhisaṃbhūtaṃ kuśalākuśalaṃ rūpam avijñaptiḥ /
 
 The unit runs from *avijñapti* now to be explained through the summary.
-The question which great elements are meant is 1.12. Span:
+The question which Great Elements are meant is 1.12. Span:
 `[007|29]`–`[008|10]`.
 
 Word division is editorial. The local verse reads *anubaṇdhaḥ*; the kārikā
@@ -53,7 +51,7 @@ critical text.
 > *Avijñapti* is now to be explained. It is stated thus.
 >
 > The wholesome or unwholesome continuity which, depending on the great
-> elements, belongs even to one whose consciousness is otherwise directed or
+> Elements, belongs even to one whose consciousness is otherwise directed or
 > absent: that indeed is called *avijñapti*.
 >
 > “Of one whose consciousness is otherwise directed” means also of one who has
@@ -66,9 +64,9 @@ critical text.
 > *kuśala* or *akuśala*.
 >
 > There is also a stream of acquisition, wholesome or unwholesome, of this
-> sort. To distinguish from that, it is said: depending on the great elements.
+> sort. To distinguish from that, it is said: depending on the Great Elements.
 >
-> The Vaibhāṣikas say the meaning of *upādāya* is causal, because the elements
+> The Vaibhāṣikas say the meaning of *upādāya* is causal, because the Elements
 > have the status of cause, beginning with production.
 >
 > In “that indeed is *avijñapti*,” the word “indeed” is for making known the
@@ -88,7 +86,7 @@ more narrowly. No separate objector speaks.
 to be explained
     → otherwise directed, without consciousness, and also undistracted
     → continuity is a stream; wholesome or unwholesome
-    → elemental dependence distinguishes acquisition
+    → Elemental dependence distinguishes acquisition
     → Vaibhāṣika: upādāya is cause
     → form and action, and does not inform another
     → summary: from vijñapti or from absorption
@@ -114,7 +112,7 @@ character qualifies the stream. It is not a present judgment about a past act.
 ## 6. Acquisition
 
 A stream of acquisition can also be wholesome or unwholesome. Polarity plus
-continuity does not identify *avijñapti*. Dependence on the great elements
+continuity does not identify *avijñapti*. Dependence on the Great Elements
 does.
 
 *Upādāya* in the verse is dependence. The Vaibhāṣikas take it as cause,
@@ -136,7 +134,7 @@ does not. Outward manifestation is not the whole account.
    the two attainments.
 2. *Api* includes one present and not distracted.
 3. Continuity is a stream. The polarity is wholesome or unwholesome.
-4. Dependence on the great elements distinguishes acquisition.
+4. Dependence on the Great Elements distinguishes acquisition.
 5. The causal force of *upādāya* is Vaibhāṣika.
 6. Form and action, and it does not inform another.
 7. The summary adds *vijñapti* or absorption. Not the verse.
@@ -149,12 +147,12 @@ may be elsewhere, absent, or present. The stream does not wait on the
 occurrent state.
 
 Acquisition is the near miss. Ethical and continuing, and not this. The great
-elements are the cut. Cause is the Vaibhāṣika reading of that cut, not a
+Elements are the cut. Cause is the Vaibhāṣika reading of that cut, not a
 second definition.
 
 The base includes this eleventh. The essence and the principle are not
 enumerated here. The definition is the classification and its conditions.
-Which elements, and the later dispute about form-status, stay shut.
+Which Elements, and the later dispute about form-status, stay shut.
 
 The reading is once, here. 1.12 is not opened.
 

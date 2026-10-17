@@ -3,10 +3,12 @@
 ## 1. Kārikā Anchor
 
 > rūpaṃ dvidhā viṃśatidhā śabdas tv aṣṭavidhaḥ rasaḥ /
->
 > ṣoḍhā caturvidho gandhaḥ spṛśyam ekādaśātmakam // 1.10 //
 
-> Visible form is twofold and twentyfold. Sound, however, is eightfold. Taste is sixfold. Odor is fourfold. The tangible has eleven as its nature.
+> Visible Form is twofold, color and configuration, and is further counted
+> in twenty kinds. Sound has eight kinds, taste six, and odor four. The
+> tangible has eleven kinds: the four Great Elements and seven derived
+> tangibles.
 
 The commentary counts, then says how the taking works. *Avijñapti* is next. It is not taken here.
 
@@ -84,13 +86,13 @@ There is a visible-form essence known by color and not by configuration: what is
 
 How is one substance known both ways? Because both are known there. This *vid* has the sense of knowing, not the sense of existence. Then the same would follow for bodily *vijñapti*. The visible-form essence has been stated.
 
-Sound, however, is eightfold. Fourfold, as caused by taken-up or not-taken-up great elements, and as designated sentient or not sentient. Then eightfold, by the division agreeable and disagreeable. Caused by taken-up great elements, as the sound of a hand or of voice. Caused by not-taken-up great elements, as the sound of wind, trees, or a river. Designated sentient: the sound that is vocal *vijñapti*. Designated not sentient: the other. Others say there is also sound caused by both taken-up and not-taken-up great elements, as born of the conjunction of hand and drum. That is not to be accepted, just as one color-atom is not held to depend on two sets of four elements. Sound has been stated.
+Sound, however, is eightfold. Fourfold, as caused by taken-up or not-taken-up Great Elements, and as designated sentient or not sentient. Then eightfold, by the division agreeable and disagreeable. Caused by taken-up Great Elements, as the sound of a hand or of voice. Caused by not-taken-up Great Elements, as the sound of wind, trees, or a river. Designated sentient: the sound that is vocal *vijñapti*. Designated not sentient: the other. Others say there is also sound caused by both taken-up and not-taken-up Great Elements, as born of the conjunction of hand and drum. That is not to be accepted, just as one color-atom is not held to depend on two sets of four Elements. Sound has been stated.
 
 Taste is sixfold, by the division sweet, sour, salty, pungent, bitter, astringent. Odor is fourfold, because pleasant and unpleasant are each even and uneven. In the treatise, however, it is threefold: “pleasant, unpleasant, and even.”
 
-The tangible has eleven as its nature. The tangible has the nature of eleven substances: the four great elements, smoothness, roughness, heaviness, lightness, cold, hunger, and thirst. The elements will be stated later. Smoothness is softness. Roughness is harshness. Heaviness is that by which things are weighed against one another. Lightness is the reverse. Cold makes the desire for warmth. Hunger makes the desire to eat, by designation of the effect for the cause. As it is said: “Pleasant is the arising of the Buddhas, pleasant the teaching of the Dharma, pleasant the concord of the Saṅgha, pleasant the austerity of the concordant.” In the form-realm, hunger and thirst are absent. The rest are present. Even if garments there are not weighed one by one, collected they are weighed. Cold that harms is absent. What favors is said to be present.
+The tangible has eleven as its nature. The tangible has the nature of eleven substances: the four Great Elements, smoothness, roughness, heaviness, lightness, cold, hunger, and thirst. The Elements will be stated later. Smoothness is softness. Roughness is harshness. Heaviness is that by which things are weighed against one another. Lightness is the reverse. Cold makes the desire for warmth. Hunger makes the desire to eat, by designation of the effect for the cause. As it is said: “Pleasant is the arising of the Buddhas, pleasant the teaching of the Dharma, pleasant the concord of the Saṅgha, pleasant the austerity of the concordant.” In the form-realm, hunger and thirst are absent. The rest are present. Even if garments there are not weighed one by one, collected they are weighed. Cold that harms is absent. What favors is said to be present.
 
-Of this manifold visible form that has been stated, sometimes the eye-cognition arises from one substance, when its kind is cut off, and sometimes from many, when there is no cutting off. As when one sees from afar an array of an army, of many colors and configurations, or a heap of jewels. The ear-cognition and the rest are to be understood so. But some say the body-cognition arises from at most five tangibles: the four great elements and one such as smoothness. Others say from all eleven.
+Of this manifold visible form that has been stated, sometimes the eye-cognition arises from one substance, when its kind is cut off, and sometimes from many, when there is no cutting off. As when one sees from afar an array of an army, of many colors and configurations, or a heap of jewels. The ear-cognition and the rest are to be understood so. But some say the body-cognition arises from at most five tangibles: the four Great Elements and one such as smoothness. Others say from all eleven.
 
 Then, because the support is the collected, the five groups of cognition would have a general condition, not a particular-character condition. No fault. They are accepted as having a particular-character condition with respect to the particular character of the essence, not the particular character of the substance.
 
@@ -127,7 +129,7 @@ one and many
     -> tongue first, when equal
 ```
 
-## 5. Organon Reading
+## 5. Interpretation
 
 Marked. Not the conventional line.
 
@@ -137,7 +139,7 @@ The count is inside the five meanings. Color and configuration stay one meaning.
 
 1. Visible form is color and configuration, counted as twenty. Not twenty-one.
 2. Sound is eightfold. Taste six. Odor four in the verse, three in the treatise.
-3. The tangible has eleven as its nature. The elements are later.
+3. The tangible has eleven as its nature. The Elements are later.
 4. *Vid* is knowing, not existence.
 5. One or many substances do not make a general condition against the essence.
 6. *Vijñāna* is cognition. It takes one or many. It is not a principle.

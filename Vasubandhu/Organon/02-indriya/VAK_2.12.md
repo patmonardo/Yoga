@@ -124,7 +124,7 @@ Pain and distress have separate reasons. Clarity and absence of the unwholesome.
 
 The eight are not a minimum theory of mind, and not liberation. The triad stays unaffiliated with all three.
 
-Organon reading: the platform holds realm as one more predicate. Not the verse English.
+Interpretation: the platform holds realm as one more predicate. Not the verse English.
 
 ## 10. OWL++ Seed
 

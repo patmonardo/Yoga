@@ -96,7 +96,7 @@ Necessarily possesses carries from 2.17, and avaśyam repeats it. Currently expe
 
 Aṣṭābhiḥ completes the last subject. The eleven and thirteen stay for 2.19.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Possession is relational. The same numeral can be different sets. Possession can extend past what is manifest and past what is attained.
 

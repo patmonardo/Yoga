@@ -3,10 +3,13 @@
 ## 1. Kārikā Anchor
 
 > rūpaṃ pañcendriyāṇy arthāḥ pañcāvijñaptir eva ca /
->
 > tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ // 1.09 //
 
-> Form is the five faculties, the five meanings, and *avijñapti*. The clarities of form, beginning with the eye, are supports of the corresponding cognition.
+> The Form Base comprises five Faculties—eye, ear, nose, tongue, and
+> body—their five corresponding meanings—visible Form, sound, odor, taste,
+> and the tangible—and *avijñapti*. The five Faculties are clarities of
+> Form, each serving as the support of the Cognition corresponding to its
+> meaning.
 
 The commentary enumerates, cites the scripture, and aligns the Prakaraṇa. The five meanings are the next verse. They are not taken here.
 
@@ -45,7 +48,7 @@ And *avijñapti*. So much is the form-base.
 
 There, those five meanings, beginning with visible form, have been stated. The clarities of form, beginning with the eye, are supports of the corresponding cognition. The five clarities, whose nature is form, that are supports of the cognitions of visible form, sound, odor, taste, and the tangible, are to be known in order as eye, ear, nose, tongue, and body.
 
-As the Blessed One said: “The eye, monk, is an internal essence, a clarity of form depending on the four great elements,” and the rest.
+As the Blessed One said: “The eye, monk, is an internal essence, a clarity of form depending on the four Great Elements,” and the rest.
 
 What have been stated, beginning with the eye, are supports of the corresponding cognition, clarities of form, beginning with the eye. The meaning is: supports of the cognition of the eye and the rest. So taken, the Prakaraṇa too is in agreement: “What is the eye? A clarity of form that is the support of the cognition of the eye,” and the rest.
 
@@ -71,7 +74,7 @@ close
 
 No opponent is named. No school is named. The scripture and the Prakaraṇa are cited.
 
-## 5. Organon Reading
+## 5. Interpretation
 
 Marked. Not the conventional line.
 
@@ -87,7 +90,7 @@ The base starts here. Eleven members, and the cognition not among them. The facu
 4. *Avijñapti* is named, not defined.
 5. *Rūpa-prasāda* is clarity of form.
 6. *Vijñāna* is cognition. It is not a member.
-7. *Upādāya* in the citation is depending on the four great elements. It is not the appropriation of 1.08.
+7. *Upādāya* in the citation is depending on the four Great Elements. It is not the appropriation of 1.08.
 
 ## 7. Review Status
 

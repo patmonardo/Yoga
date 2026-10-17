@@ -97,7 +97,7 @@ classification: restraint, non-restraint, or neither. It then differentiates
 restraint by its mode. This marks a shift from the analysis of how action is
 initiated and carried through to how conduct is governed over time.
 
-In the Organon reading, *prātimokṣa* can be approached as a **systems vow**:
+In the Interpretation, *prātimokṣa* can be approached as a **systems vow**:
 a practical commitment that gives Cetanā a stable discipline. The Bhāṣya
 supports the functional core of this reading by defining restraint as
 checking the spread of misconduct. The fuller claim that Avidyā:Asmitā

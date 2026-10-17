@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> दश भावनया हेयाः पञ्च चान्त्यास्त्रयस्त्रिधा ।
->
-> न दृष्टिहेयमक्लिष्टं न रूपं नाप्यषष्ठजम् ॥ १.४० ॥
+```sanskrit
+दश भावनया हेयाः पञ्च चान्त्यास्त्रयस्त्रिधा ।
+न दृष्टिहेयमक्लिष्टं न रूपं नाप्यषष्ठजम् ॥ १.४० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> daśa bhāvanayā heyāḥ pañca cāntyās trayas tridhā /
->
-> na dṛṣṭiheyam akliṣṭaṃ na rūpaṃ nāpy aṣaṣṭhajam // 1.40 //
+```text
+daśa bhāvanayā heyāḥ pañca cāntyās trayas tridhā /
+na dṛṣṭiheyam akliṣṭaṃ na rūpaṃ nāpy aṣaṣṭhajam // 1.40 //
+```
 
 ## 3. Lexical Analysis
 
@@ -18,7 +20,7 @@
 |---|---|---|
 | daśa | numeral | the ten of form |
 | bhāvanayā heyāḥ | instrumental, gerundive | abandoned by cultivation |
-| pañca ca | numeral | and the five cognition-principles |
+| pañca ca | numeral | and the five Cognition Principles |
 | antyāḥ trayaḥ | nominative | the last three |
 | tridhā | adverb | in three ways |
 | dṛṣṭi-heya | gerundive | abandoned by seeing |
@@ -26,7 +28,7 @@
 | rūpa | nominative | form |
 | a-ṣaṣṭha-ja | compound | not born from the sixth |
 
-The sixth is the mind-essence. The last three are the mind-principle, the dharma-principle, and the mind-cognition principle. The dharma-principle is not an essence.
+The sixth is the mind-essence. The last three are the mind-Principle, the dharma-Principle, and the mind-Cognition Principle. The dharma-Principle is not an essence.
 
 ## 4. Grammar
 
@@ -51,15 +53,16 @@ Two sentences. The count, then the exclusion.
 
 ### Literal Translation
 
-Ten are abandoned by cultivation, and five. The last three are threefold. Nothing unafflicted is abandoned by seeing, nor form, nor what is not born from the sixth.
+> Ten are abandoned by cultivation, and five. The last three are threefold.
+> Nothing unafflicted is abandoned by seeing, nor form, nor what is not born
+> from the sixth.
 
 ### Bhāṣya-informed study translation
 
-The ten Form Principles and the five sensory Cognition Principles are
-abandoned by cultivation. The last three—the Mind, Dharma, and
-Mind-Cognition Principles—may be abandoned by seeing, abandoned by
-cultivation, or not abandoned. Nothing unafflicted or of Form, nor anything
-born apart from the sixth—the Mind Essence—is abandoned by seeing.
+> The ten Form Principles and five sensory Cognition Principles are abandoned
+> by cultivation. The last three—the Mind, Dharma, and Mind-Cognition
+> Principles—are threefold. Nothing unafflicted or of Form, nor anything not
+> born from the sixth, is abandoned by seeing.
 
 ## 6. Philosophical Translation
 
@@ -80,7 +83,7 @@ The sixth is the mind-essence. What is not born from it, including what is born 
 | anuśaya | latent affliction | eighty-eight, with what arises with them |
 | pṛthagjanatva | ordinary-person status | unafflicted and indeterminate |
 | aṣaṣṭhaja | not born from the sixth | the sixth is the mind-essence |
-| mana-āyatana | mind-essence | not a principle-word |
+| mana-āyatana | mind-essence | not a Principle-word |
 | sāsrava | Impure | the remainder, abandoned by cultivation |
 | anāsrava | Pure | not abandoned |
 
@@ -114,6 +117,8 @@ body and speech action
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya identifies “the sixth” as the Mind Essence; the verse’s final phrase excludes dharmas not born from that Essence.
 
 The hinge is the exclusion. Opposing the path is not enough. Seeing abandons only what is afflicted, not form, and born from the sixth. The fifteen never enter that count.
 

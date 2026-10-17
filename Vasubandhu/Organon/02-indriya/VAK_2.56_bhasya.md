@@ -29,7 +29,7 @@ The unit is printed 94.21–95.03 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 The last has maturation-fruit. The first has predominance. What predominance has mere non-obstruction? That very non-obstruction. A contributory role too. Homogeneous and pervasive have a similar fruit. Homogeneous outflow. The two are co-arisen and associated. Fruit of efficacy. Efficacy is the activity a dharma performs. Called a person's activity by resemblance. Not exclusive. Distant crop is not settled.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Last maturation, first predominance, homogeneous and pervasive outflow, two efficacy. Not exclusive. Efficacy is a figure, not Puruṣa. Distant crop is not settled.
 

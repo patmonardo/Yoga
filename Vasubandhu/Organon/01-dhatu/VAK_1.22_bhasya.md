@@ -3,13 +3,11 @@
 ## 1. Kārikā Anchor
 
 > skandheṣv asaṃskṛtaṃ noktam arthāyogāt kramaḥ punaḥ /
->
 > yathaudārikasaṃkleśabhājanādyarthadhātutaḥ // 1.22 //
 
-> The unconditioned is not counted among the Bases, since it cannot be gathered
-> as a collection. The Bases are ordered by relative grossness, by the course
-> of affliction, by their roles beginning with a vessel, and by the Principles
-> of existence, from desire to the summit.
+> The unconditioned is not stated among the Bases, since the meaning of
+> collection does not apply. The order, however, is according to grossness,
+> affliction, the meanings beginning with a vessel, and the Principles.
 
 The commentary excludes, then orders, then returns to the separation in 1.21.
 The order of the six faculties opens 1.23. It is not taken here.

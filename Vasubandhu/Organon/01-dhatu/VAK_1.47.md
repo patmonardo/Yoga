@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> तथा श्रोत्रं त्रयाणां तु सर्वमेव स्वभूमिकम् ।
->
-> कायविज्ञानमधरस्वभूम्यनियतं मनः ॥ १.४७ ॥
+```sanskrit
+तथा श्रोत्रं त्रयाणां तु सर्वमेव स्वभूमिकम् ।
+कायविज्ञानमधरस्वभूम्यनियतं मनः ॥ १.४७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> tathā śrotraṃ trayāṇāṃ tu sarvam eva svabhūmikam /
->
-> kāyavijñānam adharasvabhūmy aniyataṃ manaḥ // 1.47 //
+```text
+tathā śrotraṃ trayāṇāṃ tu sarvam eva svabhūmikam /
+kāyavijñānam adharasvabhūmy aniyataṃ manaḥ // 1.47 //
+```
 
 ## 3. Lexical Analysis
 
@@ -48,11 +50,15 @@ mind
 
 ### Literal Translation
 
-Likewise the ear. Of the three, however, everything is of its own plane. Body-cognition is of a lower plane or its own. Mind is not fixed.
+> Likewise the ear. Of the three, however, everything is of its own plane.
+> Body-cognition is of a lower plane or its own. Mind is not fixed.
 
 ### Bhāṣya-informed study translation
 
-The rule for the eye also applies to the ear. For the three Faculties beginning with the nose, Faculty, condition, and cognition belong to their own plane; body-cognition, however, may be of the body's plane or a lower one. Mind is not confined to a fixed plane.
+> The rule for the Eye Principle also applies to the Ear Principle. For the
+> three Faculties beginning with the Nose, each Faculty, Condition, and
+> Cognition Principle belongs to its own plane. The Body-Cognition Principle
+> may be of a lower plane or its own; the Mind Principle is not fixed.
 
 ## 6. Philosophical Translation
 

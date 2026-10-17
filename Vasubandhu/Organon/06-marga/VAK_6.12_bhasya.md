@@ -155,7 +155,7 @@ toe, like jewels on a thread, while considering whether it helps or harms and
 whether it is cold or warm.
 
 Discerning recognizes that these are more than wind alone: the four great
-elements, derivative material form, and the consciousness and mental factors
+Elements, derivative material form, and the consciousness and mental factors
 that depend on them disclose the five Bases. Turning redirects the
 development that used wind as its Condition toward higher wholesome roots, as
 far as the highest mundane dharmas. Purification is entry into the Path of

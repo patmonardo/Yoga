@@ -3,13 +3,11 @@
 ## 1. Kārikā Anchor
 
 > pṛthivī varṇasaṃsthānam ucyate lokasaṃjñayā /
->
 > āpas tejaś ca vāyus tu dhātur eva tathāpi ca // 1.13 //
 
-> What ordinary speech calls earth, water, and fire is color and configuration,
-> rather than the corresponding elements themselves. What it calls wind can be
-> the wind-element itself, though wind can also be named from its visible color
-> or configuration.
+> By worldly designation, earth, water, and fire are color and
+> configuration; wind, however, is also the Principle itself, though in
+> that way too it is called from color and configuration.
 
 The verse is the cut between ordinary name and principle. The commentary
 extends the unit through the form-base and the hard member. The next verse
@@ -128,7 +126,7 @@ above are working repairs. Not a critical text.
 ## 3. Continuous Conventional Translation
 
 Exposition. What, then, is the difference between earth and the rest, and the
-principled earth and the rest?
+Earth Principle and the rest?
 
 By worldly designation, color and configuration are called earth. For those
 who point out earth point out color and configuration.
@@ -136,7 +134,7 @@ who point out earth point out color and configuration.
 As earth, so water and fire. By worldly designation, color and configuration
 alone are called by those names.
 
-Wind, however, is the element itself. That very principled wind is what, in
+Wind, however, is the Element itself. That very Wind Principle is what, in
 the world, is called wind.
 
 And yet also in that way. As color and configuration are called earth by
@@ -179,22 +177,22 @@ Objection. No, because it is not modified in that way. And when the *vijñapti*
 ceased, the *avijñapti* would cease, as the shadow is absent when the tree is
 absent.
 
-Others. Because the great elements that are its support are affected.
+Others. Because the Great Elements that are its support are affected.
 
 Objection. Then the eye-cognition and the rest would also be form, because
 their support is affected.
 
 Answer. The comparison is unequal. *Avijñapti* continues in dependence on the
-elements, as a shadow on a tree, as radiance on a jewel. The eye-cognition and
+Elements, as a shadow on a tree, as radiance on a jewel. The eye-cognition and
 the rest do not continue in dependence on the eye and the rest. Those are only
 a condition of arising.
 
 Criticism. This, to begin with, is not Vaibhāṣika: that a shadow continues in
 dependence on a tree, and radiance on a jewel. It is accepted that each
 color-atom of shadow, radiance, and the like depends on its own four great
-elements. And even granting that dependence, *avijñapti* is not reasonably
+Elements. And even granting that dependence, *avijñapti* is not reasonably
 dependent in just that way. It is accepted that *avijñapti* does not cease
-even when the great elements that were its support have ceased. Therefore this
+even when the Great Elements that were its support have ceased. Therefore this
 is not the repair.
 
 Others. The support of the eye-cognition and the rest is differentiated. Some
@@ -217,7 +215,7 @@ ordinary name against principle
     → atom; past and future
     → avijñapti
         shadow of vijñapti fails
-        support by the elements fails as stated
+        support by the Elements fails as stated
         last reply keeps the classification
 ```
 
@@ -265,11 +263,11 @@ touch and show, does not reach it.
 Through the affecting of the *vijñapti*, as shadow and tree. Rejected. It is
 not modified in that way. And it does not cease when the manifestation ceases.
 
-Because the supporting elements are affected. The consequence is the
+Because the supporting Elements are affected. The consequence is the
 eye-cognition and the rest. The proposed inequality: *avijñapti* continues on
-the elements; the principle only arises on the organ. Rejected as not
+the Elements; the principle only arises on the organ. Rejected as not
 Vaibhāṣika, and by the acceptance itself: the continuity does not cease when
-those elements have ceased.
+those Elements have ceased.
 
 The last reply distinguishes the support. Eye and the rest are affected.
 Mind is not. *Avijñapti* has no such mix. The classification is retained. The
@@ -283,12 +281,12 @@ later moment is not explained. Mind not affected is not mind unconditioned.
 4. The prose extends to the form-base through *avijñapti*. The verse does not.
 5. Being affected is production of alteration. Obstruction is the other account.
 6. Collection and kind widen the criterion past an isolated present touch.
-7. The continuity outlasts the manifestation and the originating elements.
+7. The continuity outlasts the manifestation and the originating Elements.
    The grounding stays contested.
 
 ## 9. Interpretation
 
-The stream of the great elements is the input. Worldly designation is the
+The stream of the Great Elements is the input. Worldly designation is the
 breakage: color and configuration called earth, water, fire. Conceiving points
 at the shown. It does not point at hardness, cohesion, or heat.
 
@@ -303,8 +301,8 @@ order the engine requires.
 Shadow of the *vijñapti*: the third would be a derivative of the breakage. It
 is not. The continuity does not cease when the informing ceases.
 
-Support by the originating elements: the third would be a present moment of
-the input. It is not. The continuity does not cease when those elements have
+Support by the originating Elements: the third would be a present moment of
+the input. It is not. The continuity does not cease when those Elements have
 ceased.
 
 So the informing can stop. The originating stream can stop. The continuity

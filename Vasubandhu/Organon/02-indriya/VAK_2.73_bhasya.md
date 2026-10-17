@@ -23,7 +23,7 @@ The unit is printed 109.26–110.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defe
 
 When desire afflicted is manifest, six: desire wholesome, by restoration of wholesome roots through doubt and by return; desire unwholesome and obscured, and form afflicted, by return and by decline; formless afflicted and trainee, by decline. Form afflicted, six: the three form kinds and desire unobscured, by return; formless afflicted and trainee, by decline. Formless afflicted, two: itself and trainee, by decline. Form wholesome, three: itself, and desire and form unobscured. Trainee, four: itself, desire and form unobscured, and formless wholesome, on dispassion from desire and form by the path. Where acquisition was not explained, of that mind itself, not another. Others, without the distinctions: nine with afflicted, six with wholesome, itself with indeterminate. The wholesome total should be seven. A summary: at rebirth, attainment, dispassion, decline, and restoration of wholesome roots, acquisition is for one who does not possess it. The discussion of conditions is complete. The second chapter, the Exposition of the Rules, is complete.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Back to the twelve. Acquisition, not succession. Two belongs to formless afflicted. Three belongs to form wholesome. The remainder is that mind itself.
 

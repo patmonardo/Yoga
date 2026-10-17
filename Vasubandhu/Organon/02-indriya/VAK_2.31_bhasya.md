@@ -77,7 +77,7 @@ Ataḥ refers to the distribution already stated. Not a cause. As previously exc
 
 Four and I am are contextual. The title sequence stays marked. Intoxication is mada, not conceit. Torpor is middha, not sluggishness.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Exclusion, not an increase of powers. Inherited classification and the exact change at each level. Removing a class is not qualifying a factor already counted.
 

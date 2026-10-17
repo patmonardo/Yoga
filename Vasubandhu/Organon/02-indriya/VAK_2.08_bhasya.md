@@ -81,7 +81,7 @@ Madhyā is neither agreeable nor disagreeable. Ubhayī is the two modes, not two
 
 Viṣayavaśāt is the force of the viṣaya. Contact would be another technical term. The arhat's bodily pleasure and pain are kept without a further theory of liberation.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 The five feeling-places are filled. Bodily and mental pleasure and pain differ in arising or effect, and split. Bodily and mental neutral feeling remain two modes and one faculty, with respect to remaining neutral.
 

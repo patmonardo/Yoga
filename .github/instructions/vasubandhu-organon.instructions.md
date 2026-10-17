@@ -263,7 +263,8 @@ repository-wide replacement.
 
 Older studies and models still contain previous labels, including Being,
 Domain, Concept, and Essence Base. Do not reproduce those labels in new or
-upgraded English material. During the Indriyanirdeśa pass, migrate each
+upgraded English material, except **Domain** in its contextual *dhātu* sense
+beneath Realm, as specified in the mapping. During the Indriyanirdeśa pass, migrate each
 paired study as it is reviewed rather than making an unrelated repository-
 wide migration. Complete the chapter first; then inventory other affected
 materials systematically.
@@ -278,8 +279,16 @@ translation.
 - `rūpa` -> **Form**, never **Matter**. Matter is opposed to Form in this
   Scientific framework, not an equivalent rendering; translating Form as Matter
   reverses the project's conceptual path.
-- `dhātu` -> **Principle**
-- `bhūta` -> **Element**; `mahābhūta` -> **Great Element**; plural **Great Elements**
+- `dhātu` -> **Principle**; then, by context only, **Realm** (*kāmadhātu*,
+  *rūpadhātu*, *ārūpyadhātu*: the special Principle that determines taking a
+  birth, a Stand, in that Realm) and, beneath Realm, **Domain**. Never
+  **Element**: *dhātu* is a metaphysical term, and *prajñā* as Science of
+  Principles lays out the body of knowledge in Principles. The four
+  *pṛthivī-/ab-/tejo-/vāyu-dhātu* are the **Earth, Water, Fire, and Wind
+  Principles**, which are the four Elements (*bhūta*) taken as Principles.
+- `bhūta` -> **Element**; `mahābhūta` -> **Great Element**; plural **Great Elements**.
+  **Element** is reserved for *bhūta*; do not use "element" for *dhātu*,
+  *akṣara* (syllable), or as a generic word for "part".
 - `bhautika` -> **Element-dependent**
 - `vijñāna` -> **Cognition**, more precisely **Discriminative Cognition**,
   with **Discrimination** as its defining function; in the inner-instrument

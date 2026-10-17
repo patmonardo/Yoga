@@ -2,30 +2,32 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सप्त सालम्बनाश्चित्तधातवोऽर्धं च धर्मतः ।
->
-> नवानुपात्तास्ते चाष्टौ शब्दश्चान्ये नव द्विधा ॥ १.३४ ॥
+```sanskrit
+सप्त सालम्बनाश्चित्तधातवोऽर्धं च धर्मतः ।
+नवानुपात्तास्ते चाष्टौ शब्दश्चान्ये नव द्विधा ॥ १.३४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sapta sālambanāś cittadhātavo 'rdhaṃ ca dharmataḥ /
->
-> navānupāttās te cāṣṭau śabdaś cānye nava dvidhā // 1.34 //
+```text
+sapta sālambanāś cittadhātavo 'rdhaṃ ca dharmataḥ /
+navānupāttās te cāṣṭau śabdaś cānye nava dvidhā // 1.34 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| sapta | numeral | the seven citta-principles |
+| sapta | numeral | the seven consciousness Principles |
 | sa-ālambana | adjective | taking an object |
-| citta-dhātavaḥ | compound | the six cognition-principles and the mind-principle |
-| ardham dharmataḥ | accusative plus ablative | a half, with respect to the dharma-principle |
+| citta-dhātavaḥ | compound | the six Cognition Principles and the mind-Principle |
+| ardham dharmataḥ | accusative plus ablative | a half, with respect to the dharma-Principle |
 | nava an-upātta | numeral plus adjective | nine unappropriated |
 | te ca aṣṭau | pronoun plus numeral | those eight |
 | śabdaḥ | nominative | sound |
 | anye nava dvidhā | the other nine, in two ways | appropriated and unappropriated |
 
-The half is the associated portion. The eight of the second count are the seven plus the whole dharma-principle. The scope changes.
+The half is the associated portion. The eight of the second count are the seven plus the whole dharma-Principle. The scope changes.
 
 ## 4. Grammar
 
@@ -45,25 +47,29 @@ Two cuts. The first is object. The second is appropriation.
 
 ### Literal Translation
 
-Seven citta-principles take an object, and a half with respect to the dharma-principle. Nine are unappropriated: those eight, and sound. The other nine are twofold.
+> Seven consciousness Principles take an object, and a half with respect to the
+> dharma-Principle. Nine are unappropriated: those eight, and sound. The
+> other nine are twofold.
 
 ### Bhāṣya-informed study translation
 
-The seven mind-principles and the mental-factor portion of the dharma-principle take objects. Nine principles—the seven mind-principles, the dharma-principle, and sound—are unappropriated. The other nine may be appropriated or unappropriated, according to whether they are presently taken up as the living basis of consciousness.
+> Seven consciousness Principles and the mental-factor portion of the Dharma
+> Principle take an object. Nine are unappropriated: those eight and sound.
+> The other nine are twofold.
 
 ## 6. Philosophical Translation
 
-Taking an object is the seven, and the associated half of the dharma-principle. The ten whose nature is form do not take an object. Neither does the unassociated half.
+Taking an object is the seven, and the associated half of the dharma-Principle. The ten whose nature is form do not take an object. Neither does the unassociated half.
 
-Appropriation is a different cut. The nine that never are appropriated are the seven, the whole dharma-principle, and sound. The other nine are appropriated only when present and, for the four meanings, only when not separate from the organ. Appropriated is the basis citta has taken up. Benefit and injury run both ways. That is what is called animate.
+Appropriation is a different cut. The nine that never are appropriated are the seven, the whole dharma-Principle, and sound. The other nine are appropriated only when present and, for the four meanings, only when not separate from the organ. Appropriated is the basis citta has taken up. Benefit and injury run both ways. That is what is called animate.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
 | sālambana | taking an object | grasps a condition |
-| citta-dhātu | citta-principle | the six cognitions and the mind-principle |
-| ardham dharmataḥ | a half of the dharma-principle | the associated mental factors |
+| citta-dhātu | consciousness Principle | the six cognitions and the mind-Principle |
+| ardham dharmataḥ | a half of the dharma-Principle | the associated mental factors |
 | anālambana | not taking an object | the ten of form, and the unassociated half |
 | anupātta | unappropriated | nine, always |
 | upātta | appropriated | present organ, or present meaning not separate from it |
@@ -74,16 +80,16 @@ Appropriation is a different cut. The nine that never are appropriated are the s
 
 ```text
 take an object
-    seven citta-principles
-    associated half of the dharma-principle
+    seven consciousness Principles
+    associated half of the dharma-Principle
 
 do not take an object
     ten whose nature is form
-    unassociated half of the dharma-principle
+    unassociated half of the dharma-Principle
 
 always unappropriated
     the seven
-    the whole dharma-principle
+    the whole dharma-Principle
     sound
 
 twofold
@@ -100,7 +106,9 @@ appropriated
 
 ## 9. Interpretive Note
 
-The hinge is the change of scope. The first count uses a half. The second count uses the whole dharma-principle. Sound joins the nine. The definition of appropriated is the close.
+**Translation note.** The seven consciousness Principles are the five sensory Cognitions, the Mind-Cognition Principle, and the Mind Principle; the relevant half of the Dharma Principle is its mental-factor portion. The nine unappropriated are those seven, the Dharma Principle, and sound. “Appropriated” means taken up by consciousness and mental factors as a basis through mutual benefit or injury—the animate, as the world calls it.
+
+The hinge is the change of scope. The first count uses a half. The second count uses the whole dharma-Principle. Sound joins the nine. The definition of appropriated is the close.
 
 ## 10. OWL++ Seed
 

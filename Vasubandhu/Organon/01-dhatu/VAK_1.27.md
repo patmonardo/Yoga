@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> तथान्येऽपि यथायोगं स्कन्धायतनधातवः ।
->
-> प्रतिपाद्या यथोक्तेषु सम्प्रधार्य स्वलक्षणम् ॥ १.२७ ॥
+```sanskrit
+तथान्येऽपि यथायोगं स्कन्धायतनधातवः ।
+प्रतिपाद्या यथोक्तेषु सम्प्रधार्य स्वलक्षणम् ॥ १.२७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> tathānye 'pi yathāyogaṃ skandhāyatanadhātavaḥ /
->
-> pratipādyā yathokteṣu saṃpradhārya svalakṣaṇam // 1.27 //
+```text
+tathānye 'pi yathāyogaṃ skandhāyatanadhātavaḥ /
+pratipādyā yathokteṣu saṃpradhārya svalakṣaṇam // 1.27 //
+```
 
 ## 3. Lexical Analysis
 
@@ -49,11 +51,15 @@ The absolutive precedes the gerundive. A scriptural name is not yet a place. The
 
 ### Literal Translation
 
-Likewise, other bases, essences, and principles also are to be assigned, as appropriate, among those already stated, having determined the own-characteristic.
+> Likewise, other bases, essences, and principles also are to be assigned,
+> as appropriate, among those already stated, having determined the own-
+> characteristic.
 
 ### Bhāṣya-informed study translation
 
-Other aggregates, essences, and principles taught elsewhere are likewise to be assigned, as appropriate, among those already stated, after determining each one's own characteristic.
+> Likewise, other Bases, Essences, and Principles are to be assigned as
+> appropriate among those already stated, after determining each one's own
+> characteristic.
 
 ## 6. Philosophical Translation
 
@@ -133,6 +139,15 @@ the five, the twelve, the eighteen do not grow
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya applies the rule to scriptural designations
+by determining each nature as set out in the treatise before assigning it
+among established classifications. It distinguishes principal nature from an
+item with its attendants: the eight totalities are non-greed by nature, but
+with attendants span five Bases and Mind and Dharma Essences; analogous
+distinctions apply to masteries and liberations. Other examples include the
+formless attainments and the sixty-two Principles, whose detailed assignments
+are not enumerated here.
 
 The hinge is the absolutive. A scriptural name poses the problem. The own-characteristic answers it. Attendants change the scope, not the system. The form system remains the places already stated.
 

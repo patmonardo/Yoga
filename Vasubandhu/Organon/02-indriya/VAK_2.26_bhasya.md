@@ -104,7 +104,7 @@ Co-presence is not predominance. The label is the stronger. The labels do not re
 
 The verse in the source is damaged. The prose secures sluggishness and agitation. Absence of arousal, sluggishness, and afflicted are contextual readings. The retort is not restored. Recitation against intention is the contrast. Distraction different from wrong concentration is a contextual reading of a damaged phrase. The forms stay for collation.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Occurrence in afflicted consciousness is not exclusive membership in the afflicted class. A universal factor can be afflicted without becoming a new factor. The distraction dissent shows the identity is disputed, not a counting convention.
 

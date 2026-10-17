@@ -107,7 +107,7 @@ Contact is not confined to bodily touch. Viṣaya in that definition is not deci
 
 The plant analogy is difficulty, not impossibility. The universal claim, the definitions, and the difficulty of seeing the differences stay apart. No rival list. No school named. Kila alone is not a rejection.
 
-Organon reading: the ten are the first closure of the pair. Universal function is not universal adequacy. Not the verse English.
+Interpretation: the ten are the first closure of the pair. Universal function is not universal adequacy. Not the verse English.
 
 ## 10. OWL++ Seed
 

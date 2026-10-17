@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > śāstrapramāṇa ity eke skandhādīnāṃ kathaikaśaḥ /
->
 > caritapratipakṣas tu dharmaskandho 'nuvarṇitaḥ // 1.26 //
 
-> Some say the measure is a treatise; an exposition of each of the bases and the rest. But a dharma-collection is described as a counteragent to a disposition.
+> Some say a treatise is the measure of a Dharma-collection; others, an
+> exposition of each of the Bases and the rest. But a Dharma-collection is
+> described as a counteragent to a disposition.
 
 The commentary distinguishes the three measures. The last explains the eighty thousand. `Tu` contrasts. It does not say the first two are false.
 
@@ -55,7 +56,7 @@ The eighty thousand is the correspondence. The pairings are not listed.
 5. The accounts stay attributed. The first two are not refuted.
 6. The long-vowel variant is recorded. The comparison into 1.27 stays with that verse.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The word looks like a further base. It is a teaching-collection. It does not reopen the essence called form, or the essence called dharma.
 

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सर्वसंग्रह एकेन स्कन्धेनायतनेन च ।
->
-> धातुना च स्वभावेन परभाववियोगतः ॥ १.१८ ॥॥
+```sanskrit
+सर्वसंग्रह एकेन स्कन्धेनायतनेन च ।
+धातुना च स्वभावेन परभाववियोगतः ॥ १.१८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sarvasaṃgraha ekena skandhenāyatanena ca /
->
-> dhātunā ca svabhāvena parabhāvaviyogataḥ // 1.18 //
+```text
+sarvasaṃgraha ekena skandhenāyatanena ca /
+dhātunā ca svabhāvena parabhāvaviyogataḥ // 1.18 //
+```
 
 ## 3. Lexical Analysis
 
@@ -50,14 +52,14 @@ not included by the nature it is separate from.
 
 ### Literal Translation
 
-The inclusion of all is by one base, and by one essence, and by one principle,
-by own-nature, because of separation from another's nature.
+> The inclusion of all is by one base, and by one essence, and by one
+> principle, by own-nature, because of separation from another's nature.
 
 ### Bhāṣya-informed study translation
 
-All dharmas are included together by one Base, the Form Base; one Essence,
-the Mind Essence; and one Principle, the Dharma Principle. Each is included
-by its own nature, since it is separate from the nature of another.
+> All dharmas are included together by one Base, the Form Base; one Essence,
+> the Mind Essence; and one Principle, the Dharma Principle. This inclusion is
+> by own-nature, through separation from another's nature.
 
 ## 6. Philosophical Translation
 
@@ -65,7 +67,7 @@ Again, two lines. The first names the inclusion. The second names the ground.
 
 One base, one essence, one principle, taken together, include all. The
 commentary names the three: form-base, mind-essence, dharma-principle. Form is
-the Form System: organs, meanings, and *avijñapti*. Mind-essence is the
+the Form System: Faculties, meanings, and *avijñapti*. Mind-essence is the
 cognition-base. Dharma-principle takes feeling, reflection, formations,
 *avijñapti*, and the unconditioned. Overlap is the point. *Avijñapti* sits in
 form and in the dharma-principle. The unconditioned have no base, and still
@@ -87,7 +89,7 @@ nature. Two grounds. The science is the difference.
 | saṃgraha | inclusion | also, in the example, a gathering |
 | sarva-saṃgraha | inclusion of all | joint, not each alone |
 | skandha | base | conditioned only |
-| upādāna-skandha | base of appropriation | the Impure |
+| upādāna-skandha | appropriated Base | the Impure |
 | āyatana | essence | all dharmas |
 | dhātu | principle | all dharmas |
 | rūpa-skandha | form-base | the Form System |
@@ -103,7 +105,7 @@ nature. Two grounds. The science is the difference.
 
 ```text
 bases                  → all conditioned
-bases of appropriation → all Impure
+appropriated Bases → all Impure
 essences and principles → all dharmas
 
 joint inclusion
@@ -131,6 +133,11 @@ The eye is the commentary's case. Several determinations, one nature that it
 has. Not three identical wholes.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya specifies the three as Form Base, Mind
+Essence, and Dharma Principle, which jointly include all dharmas rather than
+each doing so alone. Own-nature is the classificatory ground; an occasional
+gathering of an assembly is a distinct, conventional use of saṃgraha.
 
 The hinge is *ekena*, distributed, then *svabhāvena*. Interpretation of the
 joint inclusion is in the Bhāṣya.

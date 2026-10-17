@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > savitarkavicārā hi pañca vijñānadhātavaḥ /
->
 > antyās trayas triprakārāḥ śeṣā ubhayavarjitāḥ // 1.32 //
 
-> The five cognition-principles are with vitarka and with vicāra. The last three are of three kinds. The rest are without both.
+> The five Cognition Principles are accompanied by both vitarka and vicāra.
+> The last three—Mind Principle, Dharma Principle, and Mind-Cognition
+> Principle—are of three kinds; the remaining ten are without both.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -90,7 +91,7 @@ The question sets three classes. The verse answers with the five, the last three
 6. On a level with both, dharmas are of four kinds, not three.
 7. The remaining ten, whose nature is form, are always without both, because they are not associated.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The pair is how the last three run the wheel. Desire and the first concentration still have both. The intermediate drops vitarka and keeps vicāra. From the second concentration to the summit, neither. The five cognitions do not get that range. They are the desireling's present, and they are always with both. The ten whose nature is form do not associate, so the pair never reaches them. The page does not print the wheel. The page prints the three kinds and the four.
 

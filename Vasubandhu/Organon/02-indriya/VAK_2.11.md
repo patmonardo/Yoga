@@ -119,7 +119,7 @@ Distress can be wholesome. The paragraph does not say when. No example is invent
 
 The two eights are different. Faith and the three are wholesome. Eye through life are indeterminate. Shared wholesome status does not erase the outflow split of 2.09. The five can be either. The three are without outflows.
 
-Organon reading: four axes, one faculty. The platform copes by not collapsing them. Not the verse English.
+Interpretation: four axes, one faculty. The platform copes by not collapsing them. Not the verse English.
 
 ## 10. OWL++ Seed
 

@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सनिदर्शन एकोऽत्र रूपं सप्रतिघा दश ।
->
-> रूपिणोऽव्याकृता अष्टौ त एवारूपशब्दकाः ॥ १.२९ ॥
+```sanskrit
+सनिदर्शन एकोऽत्र रूपं सप्रतिघा दश ।
+रूपिणोऽव्याकृता अष्टौ त एवारूपशब्दकाः ॥ १.२९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sanidarśana eko 'tra rūpaṃ sapratighā daśa /
->
-> rūpiṇo 'vyākṛtā aṣṭau ta evārūpaśabdakāḥ // 1.29 //
+```text
+sanidarśana eko 'tra rūpaṃ sapratighā daśa /
+rūpiṇo 'vyākṛtā aṣṭau ta evārūpaśabdakāḥ // 1.29 //
+```
 
 ## 3. Lexical Analysis
 
@@ -52,20 +54,20 @@ Three questions, three counts. The masculine adjective agrees with the understoo
 
 ### Literal Translation
 
-One here is visible: form. Ten are resistant. Eight form-bearing ones are indeterminate: those same, excluding form and sound.
+> One here is visible: form. Ten are resistant. Eight form-bearing ones are
+> indeterminate: those same, excluding form and sound.
 
 ### Bhāṣya-informed study translation
 
-Among the eighteen Principles, one is visible: the Visible Form Principle.
-The ten Principles included in the Form Base are resistant by obstruction.
-Eight of those ten are indeterminate, neither wholesome nor unwholesome:
-those same ten excluding Visible Form and Sound.
+> Among the eighteen Principles, one is visible: the Visible Form Principle.
+> Ten included in the Form Base are resistant. Eight of those ten are
+> indeterminate: those same ten excluding Visible Form and Sound.
 
 ## 6. Philosophical Translation
 
 Visibility, resistance, and ethical status are three determinations. They do not collapse.
 
-The one visible is the visible-form principle, not the form-base. The ten resistant are the form-base as principles: five organs and five meanings. The eight indeterminate are those ten minus visible form and sound.
+The one visible is the visible-form principle, not the form-base. The ten resistant are the form-base as principles: five Faculties and five meanings. The eight indeterminate are those ten minus visible form and sound.
 
 The cognition-principles are not in this count. The mind-principle is not in this count.
 
@@ -80,7 +82,7 @@ The cognition-principles are not in this count. The mind-principle is not in thi
 | sapratigha | resistant | the ten, by obstruction |
 | pratigha | resistance | three kinds; the count uses one |
 | āvaraṇa-pratighāta | obstruction | blocking a place |
-| viṣaya-pratighāta | condition-resistance | the organ in its condition |
+| viṣaya-pratighāta | condition-resistance | the Faculty in its condition |
 | ālambana-pratighāta | support-resistance | consciousness and the concomitants |
 | rūpin | form-bearing | the ten in the form-base |
 | avyākṛta | indeterminate | neither wholesome nor unwholesome |
@@ -107,7 +109,7 @@ indeterminate
     eight
     those ten
     excluding visible form and sound
-    five organs, smell, taste, tangible
+    five Faculties, smell, taste, tangible
 
 not this verse
     the Cognition Principle, the seven
@@ -116,6 +118,13 @@ not this verse
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya counts the ten Faculties and meanings
+included in the Form Base as resistant by obstruction. Its eight indeterminate
+Principles are those ten without Visible Form and Sound; indeterminate is
+glossed as neither wholesome nor unwholesome. The commentary distinguishes
+this obstruction-based resistance from condition-resistance and
+support-resistance.
 
 The hinge is the three counts. Interpretation of the three resistances is in the Bhāṣya. The eight are not a denial of form.
 

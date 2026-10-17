@@ -3,12 +3,10 @@
 ## 1. Kārikā Anchor
 
 > ṣaṇṇām anantarātītaṃ vijñānaṃ yad dhi tan manaḥ /
->
 > ṣaṣṭhāśrayaprasiddhyarthaṃ dhātavo 'ṣṭādaśa smṛtāḥ // 1.17 //
 
-> Of the six Cognitions, whichever has just ceased is Mind, the Mind Principle
-> in its role as support. Eighteen Principles are taught so that Mind may be
-> established as the sixth support for Mind-Cognition.
+> Of the six Cognitions, whichever has just ceased is Mind. The eighteen
+> Principles are taught so that Mind may be established as the sixth support.
 
 The commentary opens the question 1.16 left standing, answers it, meets a count-objection, and tests the answer on an arhat's final consciousness. What the bases include is the next study. It is not taken here.
 

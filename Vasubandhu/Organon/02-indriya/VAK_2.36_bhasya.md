@@ -68,7 +68,7 @@ The seed is capable name-and-form. Not a hidden extra beside the continuum. Tran
 
 The king's mastery, the seed, and tolerating greed are three uses. The critical argument attends to the difference before it concludes designation. The temporal classification opens at 2.37.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 A determination that is not the present event. A real acquisition-dharma, or the support's capacity. Both address possession and abandonment. They differ on what must exist.
 

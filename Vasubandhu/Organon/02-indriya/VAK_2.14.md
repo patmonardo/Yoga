@@ -123,7 +123,7 @@ both are necessarily afflicted.
 
 Higher is attainment and rebirth, not a direction, and not liberation. The triad stays unconnected.
 
-Organon reading: consequence is the predicate. Membership is which faculties fall under it. The doctrine is inherited. The analysis is this chapter. Not the verse English.
+Interpretation: consequence is the predicate. Membership is which faculties fall under it. The doctrine is inherited. The analysis is this chapter. Not the verse English.
 
 ## 10. OWL++ Seed
 

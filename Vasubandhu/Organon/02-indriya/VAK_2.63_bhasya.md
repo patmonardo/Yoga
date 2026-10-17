@@ -24,7 +24,7 @@ The unit is printed 100.16–101.05 in `Vasubandhu/Sources/kosabhasya.txt`. Defe
 
 In what state of a dharma do the conditions act? Cause-condition is fivefold. Ceasing is the present, directed toward cessation. Co-arisen and associated act toward it. Their operation is on a fruit arisen together with them. Arising is the future, directed toward arising. Homogeneous, pervasive, and maturation act toward it. The other two, in the reverse order. Immediately antecedent acts toward the arising, by giving an opening. Object-condition acts toward the ceasing, because present mind and factors apprehend. Predominant condition stands in every state by non-obstruction. That is its activity. The conditions have been explained, with their activities.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Two causes act toward the present directed to cessation. Three toward the future directed to arising. Antecedent gives an opening toward arising. Object is present apprehension. Predominance is non-obstruction in every state. Target is not the cause.
 

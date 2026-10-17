@@ -88,7 +88,7 @@ Apratilabdha is not acquired. Vihīna is lost. Aniyama is no fixed rule for the 
 
 Born in a realm, ordinary person, free from desire, and established on a path are not one status.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 A necessary possession, and the rest variable. Absence has different grounds. A necessary possession is not a continuously occurring event.
 

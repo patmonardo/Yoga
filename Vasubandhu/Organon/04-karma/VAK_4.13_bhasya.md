@@ -79,7 +79,7 @@ corresponding ethical disciplines. The eightfold subdivision of
 ## 5. Interpretation
 
 The Bhāṣya presents restraint not as mere non-performance but as an
-operative check on the spread of misconduct. In the Organon reading, this
+operative check on the spread of misconduct. In the Interpretation, this
 supports approaching *prātimokṣa* as a systems vow: a practical commitment
 that stabilizes and governs Cetanā. That formulation belongs to the
 systematic interpretation, while the text's explicit claim here is the

@@ -3,10 +3,10 @@
 ## 1. Kārikā Anchor
 
 > sāsravānāsravā dharmāḥ saṃskṛtā mārgavarjitāḥ /
->
 > sāsravāḥ āsravās teṣu yasmāt samanuśerate // 1.04 //
 
-> Dharmas are impure and pure. Conditioned, excluding the Path, are impure, because the *āsravas* persist in them.
+> Dharmas are with or without outflows. Conditioned dharmas apart from the
+> Path are with outflows, because the outflows persist in them.
 
 The commentary calls this *sarvadharmāṇāṃ samāsanirdeśaḥ*, the summary designation of all dharmas. It specifies *mārga* as the Truth of the Path, and distinguishes an *āsrava* taking something as *ālambana* from its persistence through a dharma.
 
@@ -72,7 +72,7 @@ pure
 
 The Path is decisive. It is conditioned and pure. Purity is not the absence of the conditioned.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 Marked. Not the conventional line.
 

@@ -88,7 +88,7 @@ Yāvatā tāvat sets the extent. The Sanskrit does not state a theorem of minima
 
 Ānanda is pleasure, in relation to the genital organ. Generation would change the proposed function. The final denial names ignorance and the rest. The reply already rejects the supplementary list as a whole.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 A common predicate admits more than the system intends. Iha bounds the functions for which faculty is assigned. Ignorance and the action-powers are not erased. They are not members.
 

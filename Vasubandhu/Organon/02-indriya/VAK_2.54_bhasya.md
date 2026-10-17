@@ -23,7 +23,7 @@ The unit is printed 89.01–90.22 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Prior pervasive dharmas of a level cause later afflicted dharmas on that level, including another class. The list is later. A noble person's afflicted dharmas still have a seeing-abandoned cause, unmentioned because abandoned. Unwholesome and wholesome with influx mature. Indeterminate are weak. Uncontaminated are not moistened by craving. Ripening as dissimilar, and as culmination of a transformed series, is one account. Similar ripening of the other causes is the other. Not settled. The cause depends on a series. Not together with the karma, and not immediately after.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Pervasive is prior, own level, later afflicted, other class allowed. Maturation is unwholesome and wholesome with influx. Indeterminate weak. Uncontaminated not moistened. Series required. Not settled.
 

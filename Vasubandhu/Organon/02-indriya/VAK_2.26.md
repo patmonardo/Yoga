@@ -96,7 +96,7 @@ The first alternative does not say feeling cannot occur in afflicted consciousne
 
 The retort is damaged. Recitation against intention is the contrast. Not a restored first compound. Bodily sluggishness is the feeling analogy, not expanded, and not sleep.
 
-Organon reading: a label is not the state. Not the verse English.
+Interpretation: a label is not the state. Not the verse English.
 
 ## 10. OWL++ Seed
 

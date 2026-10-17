@@ -37,7 +37,7 @@ canonical dependence; how after many kalpas?; how citta without form?).
 >
 > If form were there, why call them formless? Because of slight form, like a
 > slightly tawny thing? What slight form? Restraint alone cannot stand without
-> elements. Canonical pairings of life and heat, name and form, consciousness
+> Elements. Canonical pairings of life and heat, name and form, consciousness
 > and the rest cannot be read without scope. Scripture: escape from forms;
 > beings who have passed beyond form-perception. The whole form-class is
 > crossed, not the feeling-class. Dhyāna lists begin with form; formless lists

@@ -7,7 +7,7 @@
 > kāmarūpāptasattvākhyā niḥṣyandāvyākṛtās tathā // 2.47 //
 
 > The groups of names and the rest are collections of designation, sentence,
-> and phonetic element; they are included in the desire and form realms,
+> and syllable; they are included in the desire and form realms,
 > classed with sentient beings, homogeneous outflows, and indeterminate.
 
 ## 2. Continuous Sanskrit Witness
@@ -24,9 +24,9 @@ The unit is printed 80.13–82.09 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 ## 3. Continuous Conventional Translation
 
-Groups of names, of sentences, and of phonetic elements. A name makes a designation. A sentence completes a meaning. A phonetic element is the audible minimum. Desire and form realms. Classed with the sentient being who signifies. Homogeneous outflows. Unobscured-indeterminate. Others: also formless, and inexpressible. Succession pressures a single name-entity. They maintain the groups. Not settled.
+Groups of names, of sentences, and of syllables. A name makes a designation. A sentence completes a meaning. A syllable is the audible minimum. Desire and form realms. Classed with the sentient being who signifies. Homogeneous outflows. Unobscured-indeterminate. Others: also formless, and inexpressible. Succession pressures a single name-entity. They maintain the groups. Not settled.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Three groups. Classed with the signifier, not the signified. Homogeneous outflow, unobscured-indeterminate. Succession pressures a single name-entity. The groups are maintained. Not settled.
 

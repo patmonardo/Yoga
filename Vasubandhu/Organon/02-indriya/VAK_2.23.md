@@ -109,7 +109,7 @@ Ground is range of operation. Not a place, not automatically a meditative level,
 
 Universality of the first class does not make it wholesome. The wholesome class stays available for the next verses.
 
-Organon reading: the controller looked toward is post this pair. The verse is the pair, and the restricted acquisition. Not the verse English.
+Interpretation: the controller looked toward is post this pair. The verse is the pair, and the restricted acquisition. Not the verse English.
 
 ## 10. OWL++ Seed
 

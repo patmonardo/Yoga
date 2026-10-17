@@ -25,7 +25,7 @@ The unit is printed 104.26–105.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defe
 
 Form obscured follows eight, setting aside the two afflicted desire kinds and trainee and beyond-training. Six follow: the three of its level, and the desire kinds except unobscured-indeterminate. Form unobscured follows only the three of its level. Six follow: those three, the two afflicted desire kinds, and formless obscured. The same pattern in the formless: three of its level in, six out — its three, the afflicted of the lower realms.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Form obscured follows eight, followed by six. Form unobscured follows three, followed by six. Same pattern in formless. From wholesome, however—
 

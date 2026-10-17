@@ -100,7 +100,7 @@ The equanimity result is a recorded difficulty and a deferral. Different respect
 
 Shame and caution are not filled from later passages. Non-harming and vigor stay the brief local definitions.
 
-Organon reading: the wholesome is what the factors determine. Many passes. Not the verse English.
+Interpretation: the wholesome is what the factors determine. Many passes. Not the verse English.
 
 ## 10. OWL++ Seed
 

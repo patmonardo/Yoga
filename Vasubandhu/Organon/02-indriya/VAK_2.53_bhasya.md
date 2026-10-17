@@ -27,7 +27,7 @@ Worldly qualities produced by application are homogeneous causes of the equal or
 
 Associated cause requires the same support. Aspect, object, and time are not enough. The new moon is the other-continuum case. Same means non-different: one faculty-moment. Associated is also co-arisen. Not the converse. Five equalities. The associated cause has been explained.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Application-produced is equal or superior only. Associated is the same support, five equalities. Also co-arisen, not the converse. Same support is non-different, not same kind.
 

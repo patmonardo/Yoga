@@ -29,7 +29,7 @@ The unit is printed 82.09–82.18 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Same-class shares the classifications of the groups of names, and is also maturation. Acquisition is twofold. The marks are twofold. Homogeneous outflow or maturation. The two attainments and non-acquisition are homogeneous outflows only. The dissociated formations have been explained. Causes and conditions are the next question.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Same-class is also maturation. Acquisition and marks are twofold. The two attainments and non-acquisition are homogeneous outflow only. The dissociated formations close. Causes and conditions are the next question.
 

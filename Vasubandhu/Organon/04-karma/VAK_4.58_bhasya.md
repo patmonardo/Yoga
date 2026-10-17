@@ -101,7 +101,7 @@ a maturation, contrary to 4.57? We do not say that the disturbed mind
 itself is the maturation. The aggravation of the Great Elements is
 the maturation; the disturbance arises from that, and is therefore
 called *born from* maturation. Through karmically produced imbalance
-of the elements, the mind becomes confused, helpless, and deprived of
+of the Elements, the mind becomes confused, helpless, and deprived of
 memory; this is what is called disturbed.
 
 Accordingly, the text says that a fourfold distinction is possible
@@ -119,7 +119,7 @@ the text says, are constantly disturbed: assaulted by intense pains,
 they scarcely attend even to themselves, let alone to what should
 or should not be done. A lamenting hell being is offered as an
 example. Noble persons other than the Buddha may also undergo mental
-disturbance through imbalance of the elements, but not through karma:
+disturbance through imbalance of the Elements, but not through karma:
 fixed karma has already matured, and indeterminate karma does not
 mature in this manner. They are not disturbed through fear, having
 passed beyond five fears; nor through injury, since they do not

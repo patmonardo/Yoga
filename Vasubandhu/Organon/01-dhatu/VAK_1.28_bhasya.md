@@ -3,12 +3,11 @@
 ## 1. Kārikā Anchor
 
 > chidram ākāśadhātvākhyam ālokatamasī kila /
->
 > vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ // 1.28 //
 
-> An opening is named the space-principle—light and darkness, it is said.
-> The cognition-principle is Impure cognition; these [six] are
-> supports of birth.
+> In the teaching of six Principles, an opening is called the Space
+> Principle—light and darkness, it is said. The Cognition Principle is Impure
+> Cognition; these six Principles are supports of birth.
 
 The Bhāṣya determines two members of a particular six-Principle teaching.
 Its opening rejects unrestricted identification of the space-principle
@@ -85,7 +84,7 @@ could conceal a difference of scope:
 
 | Principle in the sixfold list | Determination supplied | Assignment among the eighteen principles |
 |---|---|---|
-| first four elemental principles | already explained | tangible-principle |
+| first four Elemental principles | already explained | tangible-principle |
 | space-principle | opening, explained as light and darkness | form-principle |
 | cognition-principle | Impure cognition | seven cognition-principles |
 

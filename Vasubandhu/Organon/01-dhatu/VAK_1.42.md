@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> चक्षुः पश्यति रूपाणि सभागं न तदाश्रितम् ।
->
-> विज्ञानं दृश्यते रूपं न किलान्तरितं यतः ॥ १.४२ ॥
+```sanskrit
+चक्षुः पश्यति रूपाणि सभागं न तदाश्रितम् ।
+विज्ञानं दृश्यते रूपं न किलान्तरितं यतः ॥ १.४२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> cakṣuḥ paśyati rūpāṇi sabhāgaṃ na tadāśritam /
->
-> vijñānaṃ dṛśyate rūpaṃ na kilāntaritaṃ yataḥ // 1.42 //
+```text
+cakṣuḥ paśyati rūpāṇi sabhāgaṃ na tadāśritam /
+vijñānaṃ dṛśyate rūpaṃ na kilāntaritaṃ yataḥ // 1.42 //
+```
 
 ## 3. Lexical Analysis
 
@@ -54,11 +56,14 @@ The verse is the Vaibhāṣika sentence. The prose is the dispute around it.
 
 ### Literal Translation
 
-The eye sees visibles, the one that does its own work, not the cognition supported by it. For, it is said, an obstructed visible is not seen.
+> The eye sees visibles, the one that does its own work, not the cognition
+> supported by it. For, it is said, an obstructed visible is not seen.
 
 ### Bhāṣya-informed study translation
 
-The eye, when exercising its own function together with cognition, sees visible Form; the cognition supported by the eye does not itself see. For, it is said, a visible Form screened from the eye is not seen.
+> The Eye Principle sees visible Forms when it performs its own function, not
+> the Cognition Principle supported by it. Cognition does not see, since a
+> visible Form screened from the eye is not seen.
 
 ## 6. Philosophical Translation
 
@@ -116,6 +121,8 @@ Kāśmīra
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya explains *sabhāga* as exercising the Faculty’s own function and develops the intervening-screen argument. It preserves both the position that the Eye sees and the Sautrāntika view that Cognition sees; its closing account is the Kāśmīra position.
 
 The hinge is the wall. If cognition saw, resistance would not matter. The established sentence keeps the seeing on the eye that does its own work. The Sautrāntika sentence withdraws the agent. Both are on the page. The position recorded at the close is the Kāśmīra one.
 

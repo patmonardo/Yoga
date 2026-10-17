@@ -3,14 +3,12 @@
 ## 1. Kārikā Anchor
 
 > prāk pañca vārttamānārthyāt bhautikārthyāc catuṣṭayam /
->
 > dūrāśutaravṛttyānyat yathāsthānaṃ kramo 'thavā // 1.23 //
 
-> The five Faculties beginning with the eye precede Mind because they take
-> present Conditions. Of those five, the first four precede Body because their
-> Conditions are Element-dependent Form. The remaining order follows how far
-> or how quickly they operate; alternatively, it follows the positions of their
-> sites in the body.
+> The five Faculties come first because their Conditions are present. Of
+> these, four precede the Body because they take Element-dependent Form as
+> Condition. The remaining order follows distance or quicker operation—or,
+> alternatively, bodily location.
 
 The commentary orders the six. The question why one material essence is called
 form, and one essence the dharma-essence, opens 1.24. It is not taken here.
@@ -84,7 +82,7 @@ of it is the damaged compound.
 
 The four, because their objects are derived form. “First” carries forward. Of
 the five, four are stated first, because they have derived form as object. The
-body's object is unrestricted in this respect: sometimes the great elements,
+body's object is unrestricted in this respect: sometimes the Great Elements,
 sometimes derived form, sometimes both.
 
 The rest, by farther or quicker operation. The remainder is stated first, as
@@ -120,7 +118,7 @@ restricted to the present. The further compound is not reconstructed. The
 contrast is secure. The wording of the rest is not.
 
 Derived form places the four before the body. The body's unrestricted range is
-a different respect: element, derived form, or both. Not a range across times.
+a different respect: Element, derived form, or both. Not a range across times.
 
 ## 6. Distance, and the Food
 

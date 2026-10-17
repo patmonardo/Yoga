@@ -49,7 +49,7 @@ Entering is not acquiring past and future with the level. Even others do not acq
 
 Damaged forms are read from the explanations. The two name-construals stay. Rebirth does not precede the attainment in the sequence stated here.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Cessation is not liberation. A wholesome attainment is not a noble person's. Present credit, past possession, and future cultivation are three relations. Available would erase them.
 

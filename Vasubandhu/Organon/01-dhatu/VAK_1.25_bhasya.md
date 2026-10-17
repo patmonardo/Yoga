@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > dharmaskandhasahasrāṇi yāny aśītiṃ jagau muniḥ /
->
 > tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ // 1.25 //
 
-> The eighty thousand dharma-collections which the Sage proclaimed — speech, or name — their inclusion is in form and formations.
+> The Sage proclaimed eighty thousand Dharma-collections: they are included in
+> the Form Base if Buddha-word is speech by nature, or in the formations Base
+> if it is name by nature.
 
 The commentary places the verse under the wider question, then gives the first example. Two accounts of Buddha-word are reported. Neither is chosen.
 
@@ -51,7 +52,7 @@ first example
 4. Neither account is selected.
 5. The measure of the collection is the next verse.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The form system receives the teaching. Speech enters form. Name enters formations. The name in a sūtra does not open a further place.
 

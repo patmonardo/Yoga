@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > nirūpaṇānusmaraṇavikalpenāvikalpakāḥ /
->
 > tau prajñā mānasī vyagrā smṛtiḥ sarvaiva mānasī // 1.33 //
 
-> They are without vikalpa in respect of examining and recollective vikalpa. Those two are unconcentrated mental prajñā, and all mental smṛti.
+> The five sensory Cognition Principles lack examining and recollective
+> discrimination. Those two are, respectively, unconcentrated mental
+> discriminative comprehension and all mental mindfulness.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -62,7 +63,7 @@ The objection is the previous verse. The five are with the pair, so the name wit
 6. Recollective vikalpa is all mental smṛti, concentrated or not.
 7. The horse with one foot is the commentary's measure of the name.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The five are the desireling's present. They have vitarka, and vitarka is a vikalpa, and they are still called without it. The name is by the missing two. Examining and recollecting are mind-cognition work. The formless, where the last three remain, is not this page. That seeing waits for Loka:Karma. The page prints the three kinds and the horse.
 

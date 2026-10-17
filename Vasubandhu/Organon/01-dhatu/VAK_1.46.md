@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> न कायस्याधरं चक्षुरूर्ध्वं रूपं न चक्षुषः ।
->
-> विज्ञानं चास्य रूपं तु कायस्योभे च सर्वतः ॥ १.४६ ॥
+```sanskrit
+न कायस्याधरं चक्षुरूर्ध्वं रूपं न चक्षुषः ।
+विज्ञानं चास्य रूपं तु कायस्योभे च सर्वतः ॥ १.४६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> na kāyasyādharaṃ cakṣur ūrdhvaṃ rūpaṃ na cakṣuṣaḥ /
->
-> vijñānaṃ cāsya rūpaṃ tu kāyasyobhe ca sarvataḥ // 1.46 //
+```text
+na kāyasyādharaṃ cakṣur ūrdhvaṃ rūpaṃ na cakṣuṣaḥ /
+vijñānaṃ cāsya rūpaṃ tu kāyasyobhe ca sarvataḥ // 1.46 //
+```
 
 ## 3. Lexical Analysis
 
@@ -47,11 +49,17 @@ range
 
 ### Literal Translation
 
-The eye is not lower than the body. A visible is not higher than the eye. Cognition too. Relative to this, a visible. And relative to the body, both, in every way.
+> The eye is not lower than the body. A visible is not higher than the eye.
+> Cognition too. Relative to this, a visible. And relative to the body,
+> both, in every way.
 
 ### Bhāṣya-informed study translation
 
-In seeing, the eye is of the body's plane or a higher one, never a lower one. Visible Form and Eye-Cognition cannot be of a plane higher than the eye's. Relative to Eye-Cognition, visible Form may be of a higher, lower, or the same plane; relative to the body, both visible Form and Eye-Cognition may be of any of those planes.
+> The Eye Principle is not lower than the Body Principle. Visible Form is not
+> higher than the Eye Principle, nor is the Cognition Principle. Relative to
+> this Cognition Principle, however, Visible Form may be of any plane;
+> relative to the Body Principle, both Visible Form and Cognition Principle
+> may be of any plane.
 
 ## 6. Philosophical Translation
 

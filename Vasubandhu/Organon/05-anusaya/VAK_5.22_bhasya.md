@@ -213,7 +213,7 @@ Theoretical Reason: determine what sort of question has been
 asked before producing a determination. The four answer modes
 can be treated as operations on a question's subject, relevant
 cases, comparison relation, and presuppositions. That is an
-Organon reading of the Bhāṣya, not a source claim about a
+Interpretation of the Bhāṣya, not a source claim about a
 completed formal system.
 
 ## 6. Review Status

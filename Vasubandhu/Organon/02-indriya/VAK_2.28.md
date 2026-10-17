@@ -90,7 +90,7 @@ Kvacit is the unfixed of 2.27 made local. Regret can be wholesome and still not 
 
 Two accounts of the name stay alternatives. Object-support, and cause on effect. The direction of the second is from cause to effect. Omission is included without pretending the omitted deed occurred.
 
-Organon reading: inherited sets, realm factors, and a licensed addition. The deed is not a factor. Not the verse English.
+Interpretation: inherited sets, realm factors, and a licensed addition. The deed is not a factor. Not the verse English.
 
 ## 10. OWL++ Seed
 

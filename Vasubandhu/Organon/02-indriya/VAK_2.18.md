@@ -126,7 +126,7 @@ The second-dhyāna answer is short. It does not explain the mechanism. Latent wo
 
 Distress is the next eight, not part of the seven. The faith eight does not ride on the pain seven. Tu marks that.
 
-Organon reading: the set, the initiating faculty, and the relation. A number alone loses the determination. Not the verse English.
+Interpretation: the set, the initiating faculty, and the relation. A number alone loses the determination. Not the verse English.
 
 ## 10. OWL++ Seed
 

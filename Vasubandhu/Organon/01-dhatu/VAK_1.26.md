@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> शास्त्रप्रमाण इत्येके स्कन्धादीनां कथैकशः ।
->
-> चरितप्रतिपक्षस्तु धर्मस्कन्धोऽनुवर्णितः ॥ १.२६ ॥
+```sanskrit
+शास्त्रप्रमाण इत्येके स्कन्धादीनां कथैकशः ।
+चरितप्रतिपक्षस्तु धर्मस्कन्धोऽनुवर्णितः ॥ १.२६ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> śāstrapramāṇa ity eke skandhādīnāṃ kathaikaśaḥ /
->
-> caritapratipakṣas tu dharmaskandho 'nuvarṇitaḥ // 1.26 //
+```text
+śāstrapramāṇa ity eke skandhādīnāṃ kathaikaśaḥ /
+caritapratipakṣas tu dharmaskandho 'nuvarṇitaḥ // 1.26 //
+```
 
 ## 3. Lexical Analysis
 
@@ -48,11 +50,15 @@ The first clause is elliptical. The commentary supplies the dharma-collection as
 
 ### Literal Translation
 
-Some say the measure is a treatise; an exposition of each of the bases and the rest. But a dharma-collection is described as a counteragent to a disposition.
+> Some say the measure is a treatise; an exposition of each of the bases and
+> the rest. But a dharma-collection is described as a counteragent to a
+> disposition.
 
 ### Bhāṣya-informed study translation
 
-Some take a treatise as the measure of one dharma-collection; others take the exposition of each aggregate and related topic as one. But a dharma-collection is described as the counteragent to a disposition: the Buddha taught eighty thousand such collections to counter the eighty thousand dispositions of beings.
+> Some say a treatise is the measure of a Dharma-collection; others, an
+> exposition of each of the Bases and the rest. But a Dharma-collection is
+> described as a counteragent to a disposition.
 
 ## 6. Philosophical Translation
 
@@ -117,6 +123,13 @@ not the essence called dharma
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya distinguishes three measures: some take the
+Abhidharma treatise named Dharmaskandha (six thousand, with the unit
+unstated); others take each exposition of a topic separately; the final
+account treats collections as counteragents to eighty thousand dispositions,
+differentiated by attachment, hatred, delusion, pride, and others. The
+contrastive tu does not refute the first two accounts.
 
 The hinge is `tu`. The form system has already named its positions. This verse meets the word that looks like a further base. The word is a collection of teaching, and the collection that is described is the counteragent. Assignment of other scriptural names is the next verse.
 

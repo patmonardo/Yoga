@@ -109,7 +109,7 @@ counting as produced activity. It keeps the prevented action distinct
 from the positively established restraint, and the initial undertaking
 distinct from its later continuation.
 
-In the Organon reading, this is compatible with treating restraint as a
+In the Interpretation, this is compatible with treating restraint as a
 practical determination rather than a mere absence. The project may
 connect that undertaking with Cetanā, but this Bhāṣya unit itself names
 *vijñapti* and *citta* as the producers of *avijñapti*; it does not

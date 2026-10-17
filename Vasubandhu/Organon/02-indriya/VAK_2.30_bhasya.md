@@ -78,7 +78,7 @@ Torpor continues middha. Sleepiness is another gloss. Compatibility and ethical 
 
 Aynatra is read as anyatra. The conditional is the verse's wherever it may occur. Not a restored collation.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Three grounds of a count: ethical class, identity of a factor already counted, and conditional presence. Obscured and unobscured set the principal totals. View is counted through Discrimination. Regret and torpor add under stated conditions.
 

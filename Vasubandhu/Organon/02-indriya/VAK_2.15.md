@@ -115,7 +115,7 @@ All at once is the scope of the verse numbers. Gradual death is a different depe
 
 The five cease in a wholesome death and remain wholesome. Cessation of the occurrence is not path-abandonment, and not a denial of future continuation by the word nirodha alone.
 
-Organon reading: the consequence is the terminal membership. The doctrine is inherited. Not the verse English.
+Interpretation: the consequence is the terminal membership. The doctrine is inherited. Not the verse English.
 
 ## 10. OWL++ Seed
 

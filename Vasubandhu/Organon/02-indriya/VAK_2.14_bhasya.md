@@ -92,7 +92,7 @@ Vyañjana is sexual characteristic: none, one, both. Not arbitrary marks. Upapā
 
 Desires and forms are realm-names by predominance. Uttara is higher, not a direction.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 What can belong to a realm does not settle what is first acquired there as maturation. Presence, acquisition, time, and mode of arising stay apart. Mind and neutral feeling are the case: present at relinking, not in the count.
 

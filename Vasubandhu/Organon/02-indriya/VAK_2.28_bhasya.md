@@ -92,7 +92,7 @@ Twofold basis follows. Neither the mere presence of regret nor the ethical chara
 
 The naming examples are damaged in the source. Emptiness as support, gateway to liberation, and non-greed with the unattractive as support are contextual. Not a collation.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Classes supply members. Regret supplies a conditional addition. The factor, its support, its basis, and its ethical direction stay apart. Naming through a deed does not make the deed a factor. The cause's name on the effect does not collapse the relation.
 

@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > cakṣuḥ paśyati rūpāṇi sabhāgaṃ na tadāśritam /
->
 > vijñānaṃ dṛśyate rūpaṃ na kilāntaritaṃ yataḥ // 1.42 //
 
-> The eye sees visibles, the one that does its own work, not the cognition supported by it. For, it is said, an obstructed visible is not seen.
+> The Eye Principle sees visible Forms when it performs its own function, not
+> the Cognition Principle supported by it. Cognition does not see, since a
+> visible Form screened from the eye is not seen.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -205,7 +206,7 @@ The eye is view by disclosure, because it sees. Not every eye. Only the one that
 5. The Sautrāntika: no one sees; dharmas only; cause and result only.
 6. The Kāśmīra position: the eye sees, and mind cognizes.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The wall is the cut. Unresistant cognition would see through it. The established sentence keeps seeing on the eye that does its own work, and cognizing on mind. The Sautrāntika sentence is the refusal of the agent. It is recorded. It is not the close.
 

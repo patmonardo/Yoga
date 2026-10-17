@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> धर्माणां प्रविचयमन्तरेण नास्ति क्लेशानां यत उपशान्तयेऽभ्युपायः ।
->
-> क्लेशैश्च भ्रमति भवार्णवेऽत्र लोकस्तद्धेतोरत उदितः किलैष शास्त्रः ॥ १.०३ ॥
+```sanskrit
+धर्माणां प्रविचयमन्तरेण नास्ति क्लेशानां यत उपशान्तयेऽभ्युपायः ।
+क्लेशैश्च भ्रमति भवार्णवेऽत्र लोकस्तद्धेतोरत उदितः किलैष शास्त्रः ॥ १.०३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> dharmāṇāṃ pravicayam antareṇa nāsti kleśānāṃ yata upaśāntaye 'bhyupāyaḥ /
->
-> kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // 1.03 //
+```text
+dharmāṇāṃ pravicayam antareṇa nāsti kleśānāṃ yata upaśāntaye 'bhyupāyaḥ /
+kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // 1.03 //
+```
 
 The running Sanskrit witness reads `śāstrā` at the end of this verse.
 `Śāstraḥ` above is an editorial conjecture, not a reading established by that
@@ -62,14 +64,16 @@ It also attributes to the Vaibhāṣikas—not unqualifiedly to Vasubandhu—the
 
 ### Literal Translation
 
-Since without discrimination of dharmas there is no means for the pacification of the afflictions, and since through the afflictions the world wanders here in the ocean of becoming, for that reason this treatise is said to have been taught.
+> Since without discrimination of dharmas there is no means for the
+> pacification of the afflictions, and since through the afflictions the
+> world wanders here in the ocean of becoming, for that reason this treatise
+> is said to have been taught.
 
 ### Bhāṣya-informed study translation
 
-Because there is no means to pacify the afflictions without discrimination of
-dharmas, and because those afflictions cause the world to wander in the ocean
-of becoming, this Abhidharma treatise is said to have been taught by the
-Buddha so that disciples can develop that discrimination.
+> Without discrimination of dharmas, there is no means to pacify the
+> afflictions; through the afflictions, the world wanders in this ocean of
+> becoming. For this reason, this treatise is said to have been taught.
 
 ## 6. Philosophical Translation
 
@@ -102,7 +106,9 @@ therefore: Abhidharma śāstra is taught
 
 ## 9. Interpretive Note
 
-VAK 1.02 defined the treatise as equipment for attaining stainless prajñā. VAK 1.03 identifies its operation: instruction generates the disciple's capacity to discriminate. Teaching does not bestow liberation externally; it enables the cognition by which affliction can be pacified.
+**Translation note.** The Bhāṣya explains that disciples cannot discriminate dharmas without Abhidharma instruction, and discusses who first taught the treatise, including the Vaibhāṣika account of its dispersed teaching and later collection.
+
+VAK 1.02 defined the treatise as equipment for attaining stainless prajñā. VAK 1.03 identifies its operation: instruction generates the disciple's capacity to discriminate. Teaching does not bestow liberation externally; it enables the Cognition by which affliction can be pacified.
 
 ## 10. OWL++ Seed
 

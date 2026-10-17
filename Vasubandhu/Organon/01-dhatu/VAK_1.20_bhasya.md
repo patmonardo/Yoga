@@ -3,13 +3,11 @@
 ## 1. Kārikā Anchor
 
 > rāśyāyadvāragotrārthāḥ skandhāyatanadhātavaḥ /
->
 > mohendriyarucitraidhāt tisraḥ skandhādideśanāḥ // 1.20 //
 
-> Bases mean collections; Essences are doors through which consciousness and
-> mental factors extend; Principles are source-kinds. Because those to be
-> trained differ in confusion, Faculty, and inclination, each in three ways,
-> there are three corresponding teachings: of Bases, Essences, and Principles.
+> Bases mean collections; Essences, doors of arrival; Principles,
+> source-kinds. Because trainees differ threefold in confusion, Faculty, and
+> inclination, there are three teachings, beginning with the Bases.
 
 The commentary gives the meanings, meets the objections, and then says why
 three teachings. The question that separates feeling and reflection opens 1.21.

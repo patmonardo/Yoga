@@ -97,7 +97,7 @@ The views are named, not defined. No later account is imported. The alternative 
 
 And so forth leaves the rule open. It does not put every alternative in one consciousness.
 
-Organon reading: ethical class, identity, and actual addition stay apart. A number without its derivation is not the proposition. Not the verse English.
+Interpretation: ethical class, identity, and actual addition stay apart. A number without its derivation is not the proposition. Not the verse English.
 
 ## 10. OWL++ Seed
 

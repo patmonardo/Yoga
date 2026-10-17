@@ -77,7 +77,7 @@ Faith and moral shame are wholesome great-ground factors, so they occur in whole
 
 The reply narrows the reference. Person-directed forms are what the restriction means. Faith and moral shame are not withdrawn. The general factor, the directed form, and the realm stay apart.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 A relation can be mistaken for identity. A factor can occasion a presentation. An attitude can precede another. A general factor can have a restricted person-directed form. Compact formulas use the same names. The explanations differ.
 

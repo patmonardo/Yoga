@@ -127,10 +127,10 @@ the classes of feeling and the other nonmaterial Bases
 are not. This supports the four-Base constitution
 stated in VAK 8.02.
 
-**`Bhūta / bhautika`.** Material elements and what is
+**`Bhūta / bhautika`.** Material Elements and what is
 derived from them. The objection proposing bodily and
 verbal restraint as residual form is challenged because
-derivative materiality cannot stand without its elemental
+derivative materiality cannot stand without its Elemental
 basis.
 
 **`Tadvipākahetuparibhāvita`.** Conditioned by the cause

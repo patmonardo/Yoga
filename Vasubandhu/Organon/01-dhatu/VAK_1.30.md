@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> त्रिधान्ये कामधात्वाप्ताः सर्वे रूपे चतुर्दश ।
->
-> विना गन्धरसघ्राणजिह्वाविज्ञानधातुभिः ॥ १.३० ॥
+```sanskrit
+त्रिधान्ये कामधात्वाप्ताः सर्वे रूपे चतुर्दश ।
+विना गन्धरसघ्राणजिह्वाविज्ञानधातुभिः ॥ १.३० ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> tridhānye kāmadhātvāptāḥ sarve rūpe caturdaśa /
->
-> vinā gandharasaghrāṇajihvāvijñānadhātubhiḥ // 1.30 //
+```text
+tridhānye kāmadhātvāptāḥ sarve rūpe caturdaśa /
+vinā gandharasaghrāṇajihvāvijñānadhātubhiḥ // 1.30 //
+```
 
 ## 3. Lexical Analysis
 
@@ -25,7 +27,7 @@
 | vinā | indeclinable, with instrumental | excluding |
 | gandha-rasa-ghrāṇa-jihvā-vijñāna-dhātubhiḥ | instrumental plural | smell, taste, nose-cognition, tongue-cognition |
 
-The closing compound excludes four principles, not six. Nose and tongue, the organs, are not in the exclusion.
+The closing compound excludes four principles, not six. Nose and tongue, the Faculties, are not in the exclusion.
 
 ## 4. Grammar
 
@@ -49,17 +51,21 @@ rūpe caturdaśa
 
 ### Literal Translation
 
-The others are threefold. All are connected with the desire realm. In the form realm, fourteen, excluding the smell, taste, nose-cognition, and tongue-cognition principles.
+> The others are threefold. All are connected with the desire realm. In the
+> form realm, fourteen, excluding the smell, taste, nose-cognition, and
+> tongue-cognition principles.
 
 ### Bhāṣya-informed study translation
 
-The other ten principles can be wholesome, unwholesome, or indeterminate. All eighteen occur in the desire realm. In the form realm there are fourteen, excluding smell and taste and the corresponding nose-cognition and tongue-cognition principles.
+> The other ten are threefold. All eighteen are connected with the desire
+> realm; fourteen occur in the Form realm, excluding the Principles of smell,
+> taste, nose-Cognition, and tongue-Cognition.
 
 ## 6. Philosophical Translation
 
 The ethical cut finishes the ten. The realm cut begins a new question. Threefold is not three realms.
 
-The form realm drops four principles: two meanings, and the two cognitions that take them. It does not drop the two organs. Absence of the support removes the cognition. Absence of a use does not, by itself, remove the organ.
+The form realm drops four principles: two meanings, and the two cognitions that take them. It does not drop the two Faculties. Absence of the support removes the cognition. Absence of a use does not, by itself, remove the Faculty.
 
 ## 7. Technical Vocabulary
 
@@ -102,6 +108,14 @@ form realm
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya identifies the other ten as the Principles
+left after the preceding count and explains threefold as wholesome,
+unwholesome, or indeterminate. All eighteen are connected with the desire
+realm. In the Form realm, smell and taste are absent, so nose- and
+tongue-Cognition lack their Conditions; the Faculties themselves remain, for
+support and bodily appearance. Other proposed explanations of the exclusion
+remain attributed in the commentary.
 
 The hinge is the verse boundary. *Tridhā anye* closes the ethical question. *Kāmadhātvāptāḥ* opens the realms. The exclusion is four principles.
 

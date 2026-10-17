@@ -21,7 +21,7 @@ The unit is printed 105.26–106.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defe
 
 Four follow beyond-training: the wholesome of the three realms, and beyond-training. These twelve are made twenty in turn. Wholesome mind in the three realms is divided into application-produced and birth-acquired. Two alternatives, not one kind got both ways. The division continues.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 The four close the twelve. The twenty are not completed by this cut alone. Three wholesome kinds become six. That is fifteen. The rest is the next verse.
 

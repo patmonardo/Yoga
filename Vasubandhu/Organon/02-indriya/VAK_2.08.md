@@ -122,7 +122,7 @@ For the most part stays. Differentiation is not every mental pleasure or pain, a
 
 Neutral feeling arises in its own course. That is not the unconditioned, and it is not an advanced attainment by this sentence alone. Ubhayī keeps the modes. One faculty is the count, not the erasure of bodily and mental.
 
-Organon reading: the net reflects agreeable mental feeling into gladness or into pleasure, by level. It reflects the two neutral modes as one jewel. Not the verse English.
+Interpretation: the net reflects agreeable mental feeling into gladness or into pleasure, by level. It reflects the two neutral modes as one jewel. Not the verse English.
 
 ## 10. OWL++ Seed
 

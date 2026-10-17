@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> आरूप्याप्ता मनोधर्ममनोविज्ञानधातवः ।
->
-> सास्रवानास्रवा एते त्रयः शेषास्तु सास्रवाः ॥ १.३१ ॥
+```sanskrit
+आरूप्याप्ता मनोधर्ममनोविज्ञानधातवः ।
+सास्रवानास्रवा एते त्रयः शेषास्तु सास्रवाः ॥ १.३१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> ārūpyāptā manodharmamanovijñānadhātavaḥ /
->
-> sāsravānāsravā ete trayaḥ śeṣās tu sāsravāḥ // 1.31 //
+```text
+ārūpyāptā manodharmamanovijñānadhātavaḥ /
+sāsravānāsravā ete trayaḥ śeṣās tu sāsravāḥ // 1.31 //
+```
 
 ## 3. Lexical Analysis
 
@@ -47,13 +49,15 @@ The second line is a new cut. It is not restricted to births in the formless.
 
 ### Literal Translation
 
-Connected with the formless are the mind-principle, the dharma-principle, and the mind-cognition principle. These three are Impure and Pure. The rest are Impure.
+> Connected with the formless are the mind-principle, the dharma-principle,
+> and the mind-cognition principle. These three are Impure and Pure. The
+> rest are Impure.
 
 ### Bhāṣya-informed study translation
 
-The Mind Principle, Dharma Principle, and Mind-Cognition Principle occur in
-the formless realm. Each of these three admits both Impure and Pure instances;
-the remaining fifteen Principles are exclusively Impure.
+> Connected with the formless are the Mind Principle, Dharma Principle, and
+> Mind-Cognition Principle. These three are Impure and Pure; the remaining
+> fifteen are Impure.
 
 ## 6. Philosophical Translation
 
@@ -97,6 +101,13 @@ Pure
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The three are Mind, Dharma, and Mind-Cognition
+Principles; they are connected with the formless realm because the ten
+Form-natured Principles and the five Cognition Principles taking them as
+support and Condition do not occur there. The Pure instances belong to the
+Path-truth or the unconditioned; the other instances are Impure. The remaining
+fifteen are exclusively Impure.
 
 The hinge is the second line. The three names carry forward. The Pure and the Impure do not mean three formless things that are both at once. They mean these three principles have instances of both.
 

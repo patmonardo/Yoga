@@ -93,7 +93,7 @@ Secondary affliction is the deferred discussion. It is not identified with this 
 
 The unfixed examples leave the list open. Their distributions wait on the count of what must be in a given consciousness.
 
-Organon reading: shared constraints are not a required bundle. Not the verse English.
+Interpretation: shared constraints are not a required bundle. Not the verse English.
 
 ## 10. OWL++ Seed
 

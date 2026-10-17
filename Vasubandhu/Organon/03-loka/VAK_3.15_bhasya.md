@@ -119,7 +119,7 @@ blood themselves, through the force of karma, assume the status of supports
 for the faculties? Or do other Great Elements arise through karma while
 depending upon them?
 
-Some say that the same elements do so. The semen and blood, which lack
+Some say that the same Elements do so. The semen and blood, which lack
 faculties, cease together with the intermediate existence, and material
 possessing faculties appears. This is described as occurring at the same
 moment according to the principle governing the cessation of a seed and the
@@ -210,12 +210,12 @@ The disagreement concerns material continuity, not whether karma conditions
 rebirth:
 
 ```text
-same-element account
+same-Element account
 parental semen and blood cease in a non-faculty-bearing state
     → arise as material supporting faculties
     → seed-and-sprout analogy
 
-other-element account
+other-Element account
 new Great Elements arise through karma
     → depend upon parental material
     → leaf-and-worm analogy
@@ -223,7 +223,7 @@ new Great Elements arise through karma
 
 Both sides preserve causal dependence upon the parental contribution. They
 disagree over whether the faculty-bearing body is a new phase of those very
-elements or consists of other elements arising upon that support. Their rival
+Elements or consists of other Elements arising upon that support. Their rival
 readings of scripture turn on the same issue: material identity versus
 dependence and association.
 

@@ -96,7 +96,7 @@ Support is not the cognitive support. Manner is not a separate image, and not a 
 
 Fivefold association does not settle the shared support of attention and equanimity, deferred at 2.25. It does not refute the alternative on vitarka and vicāra at 2.33. Level-attribution is still not moment-co-presence. Repeating the relation does not supply the missing explanation.
 
-Organon reading: common reference, common conditions, and identity of factor stay apart. Not the verse English.
+Interpretation: common reference, common conditions, and identity of factor stay apart. Not the verse English.
 
 ## 10. OWL++ Seed
 

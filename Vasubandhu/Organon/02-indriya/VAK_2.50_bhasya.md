@@ -27,7 +27,7 @@ The unit is printed 83.18–83.24 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Co-arisen causes are those that are mutually results. Reciprocally one another's results, co-arisen causes of one another. The four Great Elements, of one another. Consciousness, of the dharmas that follow it, and they of it. The conditioned marks, of the marked, and it of them. Every conditioned dharma, as appropriate. A qualification: even without mutual result, a dharma is a co-arisen cause of its secondary marks. They are not of it.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Co-arisen is mutual result, not simultaneity. The examples run both ways. Secondary marks are the asymmetric qualification. Not every conditioned dharma of every other.
 

@@ -80,7 +80,7 @@ Another affliction is an addition to the isolated count. Not a claim that the tw
 
 Mechanical defects stay in the source. Twenty, affliction great-ground, and twenty-one are contextual.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 A particular determination is not a further associate. View is counted through the Discrimination it qualifies. The named addition raises the total. Two descriptions can have different numbers of names and the same number of factors.
 

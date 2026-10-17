@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > tadvikāravikāritvād āśrayāś cakṣurādayaḥ /
->
 > ato 'sādhāraṇatvād dhi vijñānaṃ tair nirucyate // 1.45 //
 
-> Because of being altered by their alteration, the eye and the rest are supports. Therefore, because they are not in common, cognition is designated by them.
+> The Eye and the other Faculties are supports because the Cognition
+> Principles they support change when they change. Therefore, because those
+> Faculties are not shared, Cognition is designated by them.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -68,7 +69,7 @@ Both are required. Only the eye and the rest are supports, because the cognition
 4. The eye cannot support another cognition. A visible can be the object of mind-cognition and of another eye-cognition.
 5. Drum-sound and barley-sprout: the support names the product.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The object is shared. The support is not. The name is taken from the one that is not in common. Alteration is the mark of the support, not of the visible.
 

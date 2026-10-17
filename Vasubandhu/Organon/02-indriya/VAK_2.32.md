@@ -111,7 +111,7 @@ The person examples show the relations can separate. They are not judgments abou
 
 The reversal of the negative pair is damaged. Seeing danger, rather than the negative of the preceding definition, follows the announced reversal. It wants collation. Disposition does not add a latent entity beside the named factor.
 
-Organon reading: a compact formula is not the relation. Not the verse English.
+Interpretation: a compact formula is not the relation. Not the verse English.
 
 ## 10. OWL++ Seed
 

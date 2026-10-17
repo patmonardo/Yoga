@@ -183,7 +183,7 @@ The resulting `kāñcanamayī mahī`, golden earth, is therefore both continuous
 with and distinct from the water-maṇḍala. It arises by transformation of its
 upper portion and then functions as the ground above the water that remains.
 
-This is not elemental creation ex nihilo. The commentary presents an
+This is not Elemental creation ex nihilo. The commentary presents an
 operation upon an already formed support, mediated once again by winds whose
 own arising is attributed to karmic power.
 

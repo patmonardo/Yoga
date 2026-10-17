@@ -140,7 +140,7 @@ embodied wind-process
 **`Ānāpāna` — inhalation and exhalation**
 
 The Bhāṣya defines these as winds entering and leaving the body. The practice
-therefore takes an elemental process rather than an enduring breather-self as
+therefore takes an Elemental process rather than an enduring breather-self as
 its immediate cognitive field.
 
 **`Ānāpānasmṛti` — recollection of inhalation and exhalation**
@@ -376,7 +376,7 @@ liberating transition
 ```
 
 Meaning emerges here neither from the word “breath” nor from sensation in
-isolation. It emerges through the ordered relations that connect elemental
+isolation. It emerges through the ordered relations that connect Elemental
 process, recollection, discriminative comprehension, Base analysis, wholesome roots, and Path.
 This is a native Kośa model of how an empirical process becomes a vehicle of
 Mārga without being mistaken for an independently liberating process.

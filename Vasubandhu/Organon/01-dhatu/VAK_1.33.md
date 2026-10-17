@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> निरूपणानुस्मरणविकल्पेनाविकल्पकाः ।
->
-> तौ प्रज्ञा मानसी व्यग्रा स्मृतिः सर्वैव मानसी ॥ १.३३ ॥
+```sanskrit
+निरूपणानुस्मरणविकल्पेनाविकल्पकाः ।
+तौ प्रज्ञा मानसी व्यग्रा स्मृतिः सर्वैव मानसी ॥ १.३३ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> nirūpaṇānusmaraṇavikalpenāvikalpakāḥ /
->
-> tau prajñā mānasī vyagrā smṛtiḥ sarvaiva mānasī // 1.33 //
+```text
+nirūpaṇānusmaraṇavikalpenāvikalpakāḥ /
+tau prajñā mānasī vyagrā smṛtiḥ sarvaiva mānasī // 1.33 //
+```
 
 ## 3. Lexical Analysis
 
@@ -22,7 +24,7 @@
 | prajñā mānasī vyagrā | nominative | unconcentrated mental prajñā |
 | smṛtiḥ sarvā eva mānasī | nominative | all mental smṛti |
 
-The understood subject is the five cognition-principles of 1.32. The verse says nirūpaṇa. The commentary says abhinirūpaṇa. Both stay.
+The understood subject is the five Cognition Principles of 1.32. The verse says nirūpaṇa. The commentary says abhinirūpaṇa. Both stay.
 
 ## 4. Grammar
 
@@ -41,11 +43,14 @@ The instrumental restricts the negation. It does not deny the third kind.
 
 ### Literal Translation
 
-They are without vikalpa in respect of examining and recollective vikalpa. Those two are unconcentrated mental prajñā, and all mental smṛti.
+> They are without vikalpa in respect of examining and recollective vikalpa.
+> Those two are unconcentrated mental prajñā, and all mental smṛti.
 
 ### Bhāṣya-informed study translation
 
-The five sensory cognitions are called without conceptual discrimination because they lack examining and recollective discrimination, though they have intrinsic discrimination. The latter is vitarka; examining discrimination is unconcentrated mental prajñā, and recollective discrimination is mental mindfulness, whether concentrated or not.
+> The five sensory Cognition Principles lack examining and recollective
+> discrimination. Those two are, respectively, unconcentrated mental
+> discriminative comprehension and all mental mindfulness.
 
 ## 6. Philosophical Translation
 
@@ -67,7 +72,7 @@ The five are with the pair, and still called without vikalpa. The name covers tw
 ## 8. Logical Determination
 
 ```text
-five cognition-principles
+five Cognition Principles
     with vitarka and vicāra
     called without vikalpa
     because they lack the other two
@@ -85,6 +90,8 @@ the horse
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya distinguishes intrinsic *vikalpa* (identified with *vitarka*) from examining and recollective discrimination, and compares the five Cognitions to a one-footed horse called footless.
 
 The hinge is the instrumental. Without it, the five could not be with vitarka and without vikalpa. The horse is the commentary's own measure of the name.
 

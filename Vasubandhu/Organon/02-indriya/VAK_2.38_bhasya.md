@@ -35,7 +35,7 @@ The unit is printed 65.02–65.20 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Acquisition of what is neither trainee nor beyond training is threefold: it may be trainee, beyond training, or neither. Acquisition of what is not to be abandoned is twofold: abandoned through cultivation, or itself not to be abandoned. Acquisition of the unobscured-indeterminate is co-arisen, except the two indeterminate superknowledges and the magical-creation mind, whose acquisition, by special preparatory practice, may precede, accompany, and follow.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Status of the credit need not inherit the status of the faculty. Not the translation. Not the final pass.
 

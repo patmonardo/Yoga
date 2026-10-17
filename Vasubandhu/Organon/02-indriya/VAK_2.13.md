@@ -128,7 +128,7 @@ Both ways, for distress, distributes instances. One instance is not abandoned tw
 
 The paragraph does not say how the nine are abandoned. It is not an instruction to destroy the body or end life. Ordinary cessation is not this category. Not to be abandoned is not permanence, and not uninterrupted operation.
 
-Organon reading: the path-rule is typed. Keep the faculty. Inspect the instance. Abandon only what is fit. Not the verse English.
+Interpretation: the path-rule is typed. Keep the faculty. Inspect the instance. Abandon only what is fit. Not the verse English.
 
 ## 10. OWL++ Seed
 

@@ -73,7 +73,7 @@ Aṣṭābhiḥ belongs to the preceding group. The anchor keeps the verse. The 
 
 The naming at 51.17–18 limits certainty. The explicit ājñendriyeṇa and ājñātāvīndriyeṇa make the contrast intelligible. They do not restore the damaged gloss. The two levels of confidence stay apart.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 A faculty is determined by what possession of it entails, and it stays itself. The later two share ten and are not one. The prospective faculty has another set. The larger number does not rank it.
 

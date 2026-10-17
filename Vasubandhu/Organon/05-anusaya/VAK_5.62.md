@@ -70,7 +70,7 @@ the fourth kind.
 
 > Distances arise through difference of characteristic, through opposition,
 > through separation in place, and through time, as in the cases of the
-> elements, discipline, regions, and the two temporal courses.
+> Elements, discipline, regions, and the two temporal courses.
 
 ### Bhāṣya-informed study translation
 

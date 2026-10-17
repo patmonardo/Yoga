@@ -26,7 +26,7 @@ The unit is printed 82.21–83.17 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Six causes. Other than itself is the conditioning cause. All dharmas except its own nature, by non-obstruction toward what is arising. Knowledge can obstruct influxes. The definition is of what arises, not of everything that might have arisen. A principal conditioning cause can also produce: eye and visible form, food, seed. Non-obstruction is not productive agency. Others give every conditioning cause a mediated efficacy, by a succession of causes. A direction. The conditioning cause has been explained.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Six causes held, not proved. Conditioning is non-obstruction toward what arises. Principal also produces. Not agency. Pratyaya is not this list.
 

@@ -3,12 +3,11 @@
 ## 1. Kārikā Anchor
 
 > jātigocaravijñānasāmānyād ekadhātutā /
->
 > dvitve 'pi cakṣurādīnāṃ śobhārthaṃ tu dvayodbhavaḥ // 1.19 //
 
-> Although the eyes, ears, and nostrils occur in pairs, each pair counts as one
-> Principle: its members share a kind, a range, and the Cognition they support.
-> Yet they arise in pairs for the beauty of the bodily support.
+> Although the eyes, ears, and nostrils occur in pairs, each pair is one
+> Principle through commonality of kind, range, and Cognition. Yet they arise
+> in pairs for the beauty of the bodily support.
 
 The commentary meets the count, then explains the pair. The next sentence, that
 bases, essences, and principles have been explained, opens 1.20. It is not

@@ -2,23 +2,25 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> भूतानि पृथिवीधातुरप्तेजोवायुधातवः ।
->
-> धृत्यादिकर्मसंसिद्धाः खरस्नेहोष्णतेरणाः ॥ १.१२ ॥॥
+```sanskrit
+भूतानि पृथिवीधातुरप्तेजोवायुधातवः ।
+धृत्यादिकर्मसंसिद्धाः खरस्नेहोष्णतेरणाः ॥ १.१२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> bhūtāni pṛthivīdhātur aptejovāyudhātavaḥ /
->
-> dhṛtyādikarmasaṃsiddhāḥ kharasnehoṣṇateraṇāḥ // 1.12 //
+```text
+bhūtāni pṛthivīdhātur aptejovāyudhātavaḥ /
+dhṛtyādikarmasaṃsiddhāḥ kharasnehoṣṇateraṇāḥ // 1.12 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| bhūtāni | nominative neuter plural | the elements; the four |
-| pṛthivī-dhātuḥ | nominative | the principled earth |
-| ap-tejo-vāyu-dhātavaḥ | nominative plural | water, fire, wind |
+| bhūtāni | nominative neuter plural | the four Elements |
+| pṛthivī-dhātuḥ | nominative | the Earth Principle |
+| ap-tejo-vāyu-dhātavaḥ | nominative plural | Water, Fire, Wind Principles |
 | karma-saṃsiddhāḥ | nominative plural | established in the functions |
 | dhṛti-ādi | compound member | beginning with support |
 | khara | compound member | hardness |
@@ -26,8 +28,9 @@
 | uṣṇatā | compound member | heat |
 | īraṇā | compound member | impulsion |
 
-*Dhātu* here is the chapter word. The four are elements, principled. *Skandha* in the
-commentary's mass-sentence is a mass, not one of the five bases.
+*Dhātu* is the chapter word for Principle; *bhūta* names an Element. The four
+Elements are identified as Earth, Water, Fire, and Wind Principles. In the
+commentary’s mass-sentence, *skandha* means a mass, not a technical Base.
 
 ## 4. Grammar
 
@@ -48,50 +51,52 @@ The commentary pairs the lists in order.
 
 ### Literal Translation
 
-The elements are the principled earth and the principled water, fire, and wind. They are established in functions beginning with support:
-hardness, cohesion, heat, and impulsion.
+> The Elements are the Earth Principle and the Water, Fire, and Wind Principles.
+> They are established in functions beginning with support: hardness,
+> cohesion, heat, and impulsion.
 
 ### Bhāṣya-informed study translation
 
-The four Great Elements are the Earth, Water, Fire, and Wind Principles, each
-sustaining its own-character and derived Form. In that order, their functions
-are support, gathering, ripening, and spreading (growth and extension), while
-their own-characters are hardness, cohesion, heat, and impulsion.
+> The four Great Elements are the Earth, Water, Fire, and Wind Principles,
+> each sustaining its own-character and derived Form. In that order, their
+> functions are support, gathering, ripening, and spreading (growth and
+> extension), while their own-characters are hardness, cohesion, heat, and
+> impulsion.
 
 ## 6. Philosophical Translation
 
 Again, two lines. The first names the four. The second is function, then
 own-character.
 
-1.11 said depending on the great elements. This verse says which. Earth,
-water, fire, wind — and each is principled. Not a base. Not an essence. The
-word is the chapter word.
+1.11 said depending on the Great Elements. This verse says which. Earth,
+Water, Fire, and Wind Principles. Each holds its own-character and derived
+Form. Each is a Principle, not a Base or Essence.
 
-They hold their own-character and derived form. That is why principled.
+They hold their own-character and derived Form. That is why each is a Principle.
 Greatness is two readings, both kept. Magnitude, as support of all other
-form. Or a great gathering in the masses, where that element operates
+Form. Or a great gathering in the masses, where that Principle operates
 prominently. *Skandha* in that sentence is the mass. Not one of the five.
 
 The functions are support, gathering, ripening, and spreading. Spreading is
 increase and extension. The own-characters are hardness, cohesion, heat, and
-impulsion. Impulsion is that by which the stream of elements is driven to
+impulsion. Impulsion is that by which the stream of Great Elements is driven to
 arise in another place, as a lamp-flame moves.
 
-The treatises say the principled wind is lightness of movement. That lightness
-is also said to be derived form. Therefore wind is the dharma whose
+The treatises say the Wind Principle is lightness of movement. That lightness
+is also said to be derived Form. Therefore Wind is the Dharma whose
 own-character is impulsion. The function makes the character evident. Not
-the reverse, and not a fifth element.
+the reverse, and not a fifth Element.
 
-The next question distinguishes worldly form from the element itself. Not
+The next question distinguishes worldly Form from the Principle itself. Not
 this verse.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
-| bhūta | element | the four |
-| mahābhūta | great element | magnitude, or gathering in masses |
-| dhātu | principled | here the element, not the principle |
+| bhūta | Element | the four |
+| mahābhūta | Great Element | magnitude, or gathering in masses |
+| dhātu | Principle | here it names the principled determination |
 | dhṛti | support | earth |
 | saṃgraha | gathering | water |
 | pakti | ripening | fire |
@@ -101,26 +106,26 @@ this verse.
 | uṣṇatā | heat | own-character of fire |
 | īraṇā | impulsion | own-character of wind |
 | svabhāva | own-character | the second list |
-| laghutva | lightness | derived form; not the principled wind |
-| skandha | mass | in this sentence only; not a base |
+| laghutva | lightness | derived Form; not the Wind Principle |
+| skandha | mass | in the commentary’s heap-sentence; not a technical Base |
 
 ## 8. Logical Determination
 
 ```text
-1.11  depending on the great elements
-1.12  which: four elements, principled
+1.11  depending on the Great Elements
+1.12  which: four Great Elements, as Principles
 
-earth    support      hardness
-water    gathering    cohesion
-fire     ripening     heat
-wind     spreading    impulsion
+Earth    support      hardness
+Water    gathering    cohesion
+Fire     ripening     heat
+Wind     spreading    impulsion
 
-principle → holds own-character and derived form
-great     → support of all other form
+Principle → holds own-character and derived Form
+great     → support of all other Form
           or gathering in the masses
 
-lightness → derived form
-wind      → impulsion
+lightness → derived Form
+Wind      → impulsion
 function makes own-character evident
 
 1.13 not opened

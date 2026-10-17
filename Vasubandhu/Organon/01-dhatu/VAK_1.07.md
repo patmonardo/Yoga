@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> ते पुनः संस्कृता धर्मा रूपादिस्कन्धपञ्चकम् ।
->
-> स एवाध्वा कथावस्तु सनिःसाराः सवस्तुकाः ॥ १.०७ ॥॥
+```sanskrit
+ते पुनः संस्कृता धर्मा रूपादिस्कन्धपञ्चकम् ।
+स एवाध्वा कथावस्तु सनिःसाराः सवस्तुकाः ॥ १.०७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> te punaḥ saṃskṛtā dharmā rūpādiskandhapañcakam /
->
-> sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
+```text
+te punaḥ saṃskṛtā dharmā rūpādiskandhapañcakam /
+sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
+```
 
 ## 3. Lexical Analysis
 
@@ -20,7 +22,7 @@
 | punaḥ | indeclinable | resumes. Not “again” |
 | saṃskṛtāḥ | nominative masculine plural | Conditioned |
 | dharmāḥ | nominative masculine plural | dharmas |
-| rūpādiskandhapañcakam | rūpa-ādi-skandha-pañcakam; collective singular predicate | the five bases beginning with form, gathered as one |
+| rūpādiskandhapañcakam | rūpa-ādi-skandha-pañcakam; collective singular predicate | the five Bases beginning with Form, gathered as one |
 | saḥ eva | restrictive | that same field. The second line is not four extra heaps |
 | adhvā | nominative masculine singular | the course |
 | kathāvastu | kathā-vastu; compound | the reflection-term. Not “basis of discourse” |
@@ -40,24 +42,28 @@ sa eva
     = savastukāḥ
 ```
 
-`Pañcakam` is a collective singular predicate of a plural subject: five base-members, gathered as one field. The second line is a quad. One field, four functions.
+`Pañcakam` is a collective singular predicate of a plural subject: five Base members, gathered as one field. The second line is a quad. One field, four functions.
 
 ## 5. Translation
 
 ### Literal Translation
 
-Those Conditioned dharmas are the five bases beginning with form. That same field is the course, the *kathāvastu*, the *saniḥsāra*, and the *savastuka*.
+> Those Conditioned dharmas are the five Bases beginning with Form. That
+> same field is the course, the *kathāvastu*, the *saniḥsāra*, and the
+> *savastuka*.
 
 ### Bhāṣya-informed study translation
 
-The conditioned dharmas are the five Bases beginning with Form. Those same dharmas traverse past, present, and future; they are matters of discourse, have an exit in nirvāṇa, and have causes.
+> The conditioned dharmas are the five Bases beginning with the Form Base.
+> These same dharmas are past, present, and future; subjects of discourse;
+> have an exit in nirvāṇa; and possess a real basis.
 
 ## 6. Philosophical Translation
 
-The Conditioned dharmas are Essential Being: the five bases beginning with the Form Base, gathered as one. That same field is the Path of Dharma, Essential Reflection, Essential Relation, and Appearance.
+The Conditioned dharmas are the Base: the five Bases beginning with the Form Base, gathered as one. That same field is the Path of Dharma, Essential Reflection, Essential Relation, and Appearance.
 
 ```text
-Essential Being
+Base
     rūpādi-skandha-pañcakam
 
 Path of Dharma
@@ -78,8 +84,8 @@ Appearance
 | Sanskrit | Do not use as the reading | Determination |
 |---|---|---|
 | saṃskṛta | created; constructed | Conditioned |
-| skandha | a list; heap as dismissive | base |
-| rūpa | purely material form | form; the first member is the Form Base |
+| skandha | a list; heap as dismissive | Base |
+| rūpa | purely material Form | Form; the first member is the Form Base |
 | adhvā | a clock | Path of Dharma |
 | kathāvastu | basis of discourse; topic | Essential Reflection |
 | saniḥsāra | possessed of an exit | Essential Relation. A Dharma is an End |
@@ -93,12 +99,12 @@ The Vaibhāṣika gloss *vastu* = *hetu* is the armor-moment. Not the reading.
 
 ```text
 Conditioned(x) ↔ MemberOfFiveBases(x)
-FiveBaseCollective = EssentialBeing
+FiveBaseCollective = Base
 Unconditioned(x) → ¬BaseMember(x)
 Conditioned(x) ↛ Impure(x)
 
 SameField
-    = Being
+    = Base
     = Path of Dharma
     = Essential Reflection
     = Essential Relation
@@ -111,7 +117,7 @@ pratyaya    ≠ viṣaya
 Construct   ≠ Condition
 ```
 
-The kārikā does not name the five members. Cognition is not a word of this verse. Concept-level closure belongs to the six cognition-principles, not to this wheel by itself.
+The kārikā does not name the five members. Cognition is not a word of this verse. Concept-level closure belongs to the six Cognition Principles, not to this wheel by itself.
 
 ## 9. Interpretive Note
 
@@ -129,7 +135,7 @@ vak:VAK_1_07 a vak:Karika ;
     vak:belongsTo vak:Dhatunirdesa .
 
 vak:EssentialBeing vak:namedBy vak:Skandha ;
-    vak:projectTerm "base" .
+    vak:projectTerm "Base" .
 vak:PathOfDharma vak:namedBy vak:Adhvan .
 vak:EssentialReflection vak:namedBy vak:Kathavastu .
 vak:EssentialRelation vak:namedBy vak:Sanihsara .

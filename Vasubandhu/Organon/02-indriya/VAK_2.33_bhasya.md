@@ -63,7 +63,7 @@ The last position denies co-presence. Five factors of the first dhyāna are then
 
 Elevation through a constructed distinction relative to another. Taking-over through attachment to one's own qualities. Comparison, and absorption in one's own. Pride for both would lose the distinction. Liquor clarifies attachment-born intoxication. It does not identify the factor with drinking. Exhilaration is others. Not a replacement.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Identity, conditioning, intensity, and scale do not substitute for one another. An influence is not the state. Strength is not kind. The disputed definitions stay disputed. What each proposal explains, and what it leaves, is the precision. Level and moment are useful because the role is explicit.
 

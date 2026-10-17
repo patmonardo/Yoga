@@ -72,7 +72,7 @@ Amala is anāsrava. All three, then two named. Stainless is not an unspecified c
 
 Dhātuprabheda is the differentiation of the principles, the discussion from which the faculties entered. It is not silently realm. The sentence closes that extended discussion. It adds no new classification.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Nineteen is compatible with no realization-faculty, and with a trainee's one. The number is not completed knowing. Exclusion belongs to the case as much as inclusion. Change the excluded members and the case changes.
 

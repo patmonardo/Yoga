@@ -110,7 +110,7 @@ The list is completed and left. The inquiry is acquisition. Scriptural wording, 
 
 The initial-moment exception is contextual. Fully bound, at the first moment of the noble path. Not a restored collation. The greed sentence is a local use. Tolerating, or not expelling. Not the king's mastery, and not the seed, forced into one gloss.
 
-Organon reading: the pair survives either account. What is stored is the question the next verses take up. Not the verse English.
+Interpretation: the pair survives either account. What is stored is the question the next verses take up. Not the verse English.
 
 ## 10. OWL++ Seed
 

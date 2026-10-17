@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> सास्रवानास्रवा धर्माः संस्कृता मार्गवर्जिताः ।
->
-> सास्रवाः आस्रवास्तेषु यस्मात्समनुशेरते ॥ १.०४ ॥
+```sanskrit
+सास्रवानास्रवा धर्माः संस्कृता मार्गवर्जिताः ।
+सास्रवाः आस्रवास्तेषु यस्मात्समनुशेरते ॥ १.०४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> sāsravānāsravā dharmāḥ saṃskṛtā mārgavarjitāḥ /
->
-> sāsravāḥ āsravās teṣu yasmāt samanuśerate // 1.04 //
+```text
+sāsravānāsravā dharmāḥ saṃskṛtā mārgavarjitāḥ /
+sāsravāḥ āsravās teṣu yasmāt samanuśerate // 1.04 //
+```
 
 ## 3. Lexical Analysis
 
@@ -45,11 +47,13 @@ The first quarter divides. The second names the impure member. The third and fou
 
 ### Literal Translation
 
-Dharmas are impure and pure. Conditioned, excluding the Path, are impure, because the *āsravas* persist in them.
+> Dharmas are impure and pure. Conditioned, excluding the Path, are impure,
+> because the *āsravas* persist in them.
 
 ### Bhāṣya-informed study translation
 
-The dharmas are impure or pure. The impure are the conditioned dharmas apart from the Truth of the Path, because the āsravas persist in them; the Path, though conditioned, is pure.
+> Dharmas are with or without outflows. Conditioned dharmas apart from the
+> Path are with outflows, because the outflows persist in them.
 
 ## 6. Philosophical Translation
 
@@ -96,6 +100,8 @@ unconditioned
 Conditioned does not entail impure. Pure does not entail unconditioned.
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya identifies the conditioned dharmas other than the Path as impure, while the Path remains Pure though conditioned. It distinguishes persistence through a dharma from merely taking that dharma as an object: outflows may take the Truths of Cessation and the Path as objects without persisting through them.
 
 The verse gives the impure member and the reason. The pure member is named in the first quarter and left for the next verse. Persistence is the test. *Ālambana* is the qualification, and it does not decide the division.
 

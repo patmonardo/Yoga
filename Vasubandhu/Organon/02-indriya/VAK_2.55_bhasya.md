@@ -29,7 +29,7 @@ The unit is printed 90.23–92.22 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Pervasive and homogeneous are past and present. Co-arisen, associated, and maturation are three times. The conditioning cause is all times and dissociated from time. The fruit is the conditioned and cessation by Discrimination. The unconditioned does not have cause and fruit in that matrix. The Path produces the acquisition and brings one to disconnection. It is not the cause of disconnection. Entity or absence is disputed. Gone, for now.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 A fruit need not be a product. The grade is the acquisition. The disclosure is not a classmate. Not the translation. Not the nirodha of virodha. Not the final pass.
 

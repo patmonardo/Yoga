@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > sapta sālambanāś cittadhātavo 'rdhaṃ ca dharmataḥ /
->
 > navānupāttās te cāṣṭau śabdaś cānye nava dvidhā // 1.34 //
 
-> Seven citta-principles take an object, and a half with respect to the dharma-principle. Nine are unappropriated: those eight, and sound. The other nine are twofold.
+> Seven consciousness Principles and the mental-factor portion of the Dharma
+> Principle take an object. Nine are unappropriated: those eight and sound.
+> The other nine are twofold.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -95,7 +96,7 @@ The first question is object. The seven take one, and the associated half of the
 7. Visible, smell, taste, and tangible are appropriated when present and not separate from the organ.
 8. Appropriated is what citta and the mental factors have taken up as a basis. Benefit and injury follow both ways. The world calls that animate.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 Taking an object is not appropriation. The seven take a condition. The associated half takes one. The basis is the other cut. What citta has taken up as a basis follows it in benefit and injury, and that is the animate. Sound never is that basis. Neither is the dharma-principle. The page does not print the science. The page prints the two counts and the definition.
 

@@ -125,7 +125,7 @@ Eight may be the knowledge-faculty added, or gladness added across the path-mome
 
 Eleven gathers a history. The reply denies the three feelings at one time. A fallen non-returner does not regain the fruit with pleasure. Prior dispassion, attained through both paths, does not fall away. No general theory of relapse is added.
 
-Organon reading: the result is invariant. The mediating membership is not. Not the verse English.
+Interpretation: the result is invariant. The mediating membership is not. Not the verse English.
 
 ## 10. OWL++ Seed
 

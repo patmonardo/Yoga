@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > tathānye 'pi yathāyogaṃ skandhāyatanadhātavaḥ /
->
 > pratipādyā yathokteṣu saṃpradhārya svalakṣaṇam // 1.27 //
 
-> Likewise, other bases, essences, and principles also are to be assigned, as appropriate, among those already stated, having determined the own-characteristic.
+> Likewise, other Bases, Essences, and Principles are to be assigned as
+> appropriate among those already stated, after determining each one's own
+> characteristic.
 
 The commentary extends the eighty thousand into the rule, then applies it. Principal nature and the attended complex are different scopes.
 
@@ -70,7 +71,7 @@ Infinite space, infinite cognition, and the four attainments are four bases, and
 4. The running compound does not repeat liberation before knowledge-and-vision.
 5. The sixty-two are to be included as appropriate. They are not listed.
 
-## 7. Organon Reading
+## 7. Interpretation
 
 A scriptural name poses the problem. The own-characteristic answers it. The five, the twelve, and the eighteen remain the places. The form system does not grow.
 

@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > tridhānye kāmadhātvāptāḥ sarve rūpe caturdaśa /
->
 > vinā gandharasaghrāṇajihvāvijñānadhātubhiḥ // 1.30 //
 
-> The others are threefold. All are connected with the desire realm. In the form realm, fourteen, excluding the smell, taste, nose-cognition, and tongue-cognition principles.
+> The other ten are threefold. All eighteen are connected with the desire
+> realm; fourteen occur in the Form realm, excluding the Principles of smell,
+> taste, nose-Cognition, and tongue-Cognition.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -184,7 +185,7 @@ The ethical threefold closes the question opened at 1.29. The realm question beg
 6. Nose and tongue, the organs, are not excluded.
 7. Absence of the support removes the cognition. A use does not, by itself, remove the organ.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 The realm name and the principle name share a stem. They are not the same cut. The desire realm is not one of the eighteen. The form realm is not the visible-form principle. The two excluded cognitions are cognition-principles. Cognition is not principle. The formless count is the next verse.
 

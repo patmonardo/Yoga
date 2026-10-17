@@ -225,7 +225,7 @@ varieties of cooked qualities arising through contact with alkali, frost,
 acid, sun, water, or earth?
 
 What, then, does fire do when boiling water dwindles? It increases the
-power of the fire Element. Under that influence the mass of water
+power of the fire Principle. Under that influence the mass of water
 becomes progressively attenuated until it no longer continues its series.
 That is what contact with fire does here. Things have no separate cause
 of destruction; being perishable, they cease as soon as they arise.

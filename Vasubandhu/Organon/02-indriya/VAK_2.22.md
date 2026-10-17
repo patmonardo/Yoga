@@ -101,13 +101,13 @@ adds one. The minimal cluster is the smallest that still co-arises.
 
 The faculty-property differentiation closed at 2.21. This asks a different relation.
 
-Hard, fluid, hot, and moving are predominance, not the absence of the others. Activities are offered: holding together, sustaining, ripening, spreading. Others say heat in water is known from greater cold. The reply: greater intensity need not be mixture, as with sound or feeling. Others say presence as seed, not in its own Form, citing the elements in a log. Seed is not actual form under another name.
+Hard, fluid, hot, and moving are predominance, not the absence of the others. Activities are offered: holding together, sustaining, ripening, spreading. Others say heat in water is known from greater cold. The reply: greater intensity need not be mixture, as with sound or feeling. Others say presence as seed, not in its own Form, citing the Elements in a log. Seed is not actual form under another name.
 
 Visible color in wind is said to be accepted, not inferred. An inference is then offered from odor in moving air. The tension is kept.
 
-Eight is not every individual determination, and not four essences. Support is counted as constituent. Supported is counted by essence. Repeated elemental quartets are counted by kind. Words may be chosen. The meaning is what is examined. The damaged compounds stay marked in the bhāṣya.
+Eight is not every individual determination, and not four essences. Support is counted as constituent. Supported is counted by essence. Repeated Elemental quartets are counted by kind. Words may be chosen. The meaning is what is examined. The damaged compounds stay marked in the bhāṣya.
 
-Organon reading: the unit of the count has to travel with the number. Not the verse English.
+Interpretation: the unit of the count has to travel with the number. Not the verse English.
 
 ## 10. OWL++ Seed
 

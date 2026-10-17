@@ -57,7 +57,7 @@ The anchor's three fields follow the prose's order. Five, for the faith-group, i
 
 Sthiti is persistence. Checking and brought forward keep the two operations apart.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Applied Indriya. The same predicate, governing efficacy, receives three fields: standing of the class, defilement, purification.
 

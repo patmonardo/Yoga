@@ -143,7 +143,7 @@ changes classification with its operative mode, not merely its topic.
 
 The Bhāṣya calls the first four activities `pañcaskandhasvabhāva`—of the
 nature of the five Bases—then separately identifies `saṃkhyā` as mental
-action. In the Organon reading, this does not make the Bases Mind itself:
+action. In the Interpretation, this does not make the Bases Mind itself:
 the Base determination concerns the activity's structured content and
 frame, while `manaskarma` names the mental operation that collects
 Dharmas.

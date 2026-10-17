@@ -1,29 +1,31 @@
-# VAK_1.09 — The Form-Base
+# VAK_1.09 — The Form Base
 
 ## 1. Sanskrit (Devanāgarī)
 
-> रूपं पञ्चेन्द्रियाण्यर्थाः पञ्चाविज्ञप्तिरेव च ।
->
-> तद्विज्ञानाश्रया रूपप्रसादाश्चक्षुरादयः ॥ १.०९ ॥
+```sanskrit
+रूपं पञ्चेन्द्रियाण्यर्थाः पञ्चाविज्ञप्तिरेव च ।
+तद्विज्ञानाश्रया रूपप्रसादाश्चक्षुरादयः ॥ १.०९ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> rūpaṃ pañcendriyāṇy arthāḥ pañcāvijñaptir eva ca /
->
-> tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ // 1.09 //
+```text
+rūpaṃ pañcendriyāṇy arthāḥ pañcāvijñaptir eva ca /
+tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ // 1.09 //
+```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| rūpam | nominative neuter singular | form; the form-base |
-| pañcendriyāṇi | pañca + indriyāṇi; nominative neuter plural | five faculties |
+| rūpam | nominative neuter singular | Form; the Form Base |
+| pañcendriyāṇi | pañca + indriyāṇi; nominative neuter plural | five Faculties |
 | arthāḥ | nominative masculine plural | meanings |
 | pañca | numeral | counts the meanings, not the faculties again |
 | avijñaptiḥ | nominative feminine singular | one member; named, not defined |
 | eva ca | particles | and just that |
-| tadvijñānāśrayāḥ | tad-vijñāna-āśrayāḥ; nominative plural | supports of the corresponding cognition |
-| rūpaprasādāḥ | rūpa-prasādāḥ; nominative plural | clarities of form |
+| tadvijñānāśrayāḥ | tad-vijñāna-āśrayāḥ; nominative plural | supports of the corresponding Cognition |
+| rūpaprasādāḥ | rūpa-prasādāḥ; nominative plural | clarities of Form |
 | cakṣurādayaḥ | cakṣus-ādayaḥ; nominative plural | beginning with the eye |
 
 ## 4. Grammar
@@ -39,26 +41,29 @@ cakṣur-ādayaḥ
     = tad-vijñāna-āśrayāḥ
 ```
 
-The first line enumerates. The second defines the five faculties. They are clarities of form, and supports of the cognition that corresponds. The cognition is not a member of the count.
+The first line enumerates. The second defines the five Faculties. They are clarities of Form, and supports of the Cognition that corresponds. Cognition is not a member of the count.
 
 ## 5. Translation
 
 ### Literal Translation
 
-Form is the five faculties, the five meanings, and *avijñapti*. The clarities of form, beginning with the eye, are supports of the corresponding cognition.
+> Form is the five Faculties, the five meanings, and *avijñapti*. The
+> clarities of Form, beginning with the eye, are supports of the
+> corresponding Cognition.
 
 ### Bhāṣya-informed study translation
 
-The Form Base comprises five Faculties—eye, ear, nose, tongue, and body—their
-five corresponding meanings—visible Form, sound, odor, taste, and the
-tangible—and *avijñapti*. The five Faculties are clarities of Form, each
-serving as the support of the Cognition corresponding to its meaning.
+> The Form Base comprises five Faculties—eye, ear, nose, tongue, and
+> body—their five corresponding meanings—visible Form, sound, odor, taste,
+> and the tangible—and *avijñapti*. The five Faculties are clarities of
+> Form, each serving as the support of the Cognition corresponding to its
+> meaning.
 
 ## 6. Philosophical Translation
 
-Eleven, and no twelfth. Form collects five faculties, five meanings, and *avijñapti*.
+Eleven, and no twelfth. Form collects five Faculties, five meanings, and *avijñapti*.
 
-The faculty is a clarity of form. It is the support of the cognition that corresponds. The eye supports the cognition of the eye. The cognition is supported. It is not counted.
+The Faculty is a clarity of Form. It supports the corresponding Cognition; the eye supports Eye-Cognition. Cognition is supported, not counted.
 
 Meaning stays lowercase. The commentary glosses it as condition. Faculty and meaning are the two sides, not two inventories. *Avijñapti* is the eleventh, singular, and not yet defined.
 
@@ -66,46 +71,46 @@ Meaning stays lowercase. The commentary glosses it as condition. Faculty and mea
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
-| rūpa | form | the form-base; eleven |
-| skandha | base | the first collection; not the whole |
-| indriya | faculty | the Dhātu-verse word; organ is not this page |
-| artha | meaning | lowercase |
+| rūpa | Form | the Form Base; eleven |
+| skandha | Base | the first collection; not the whole |
+| indriya | Faculty | one of the five; not a synonym for an anatomical organ |
+| artha | meaning | the five |
 | viṣaya | condition | the commentary’s gloss of meaning; not a second list |
 | avijñapti | *avijñapti* | named, not defined |
-| rūpa-prasāda | clarity of form | what the five faculties are |
-| vijñāna | cognition | not principle |
-| āśraya | support | of the corresponding cognition; not a twelfth member |
-| āyatana | essence | cited for the eye; not enumerated |
-| upādāya | depending on | the four great elements; not the appropriation of 1.08 |
-| dhātu | principle | not a member of this count |
+| rūpa-prasāda | clarity of Form | what the five Faculties are |
+| vijñāna | Cognition | not Principle |
+| āśraya | support | of the corresponding Cognition; not a twelfth member |
+| āyatana | Essence | cited for the eye; not enumerated |
+| upādāya | depending on | the four Great Elements; not the appropriation of 1.08 |
+| dhātu | Principle | not a member of this count |
 
 ## 8. Logical Determination
 
 ```text
-form-base
-    = five faculties
+Form Base
+    = five Faculties
     + five meanings
     + avijñapti
     = eleven
 
-faculty
-    = clarity of form
-    = support of the corresponding cognition
-    eye → cognition of the eye
+Faculty
+    = clarity of Form
+    = support of the corresponding Cognition
+    Eye → Eye-Cognition
     and so on
 
-cognition
+Cognition
     supported
     not counted
 
-meaning
+Meaning
     glossed as condition
     not a second inventory
 ```
 
 ## 9. Interpretive Note
 
-The hinge is the count, then the support. The five faculties are indicated. The five meanings are named and left for the next verse. The scripture calls the eye an internal essence, a clarity of form depending on the four great elements. That citation is not this enumeration. The Prakaraṇa agrees: the eye is a clarity of form that supports the cognition of the eye.
+The hinge is the count, then the support. The five Faculties are indicated. The five meanings are named and left for the next verse. The scripture calls the eye an internal Essence, a clarity of Form depending on the four Great Elements. That citation is not this enumeration. The Prakaraṇa agrees: the eye is a clarity of Form that supports Eye-Cognition.
 
 ## 10. OWL++ Seed
 

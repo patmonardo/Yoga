@@ -184,7 +184,7 @@ governing root, the course-form, and the field upon which it operates.
 This also clarifies why dictionary thinking is inadequate. `Nāmakāya` is
 already configured language. Falsehood, division, and disorder are
 operations performed through that configuration under a governing root.
-The Organon reading treats this as a practical schema; the four groups and
+The Interpretation treats this as a practical schema; the four groups and
 their bases belong to the Kārikā and Bhāṣya themselves.
 
 ## 8. Review Status

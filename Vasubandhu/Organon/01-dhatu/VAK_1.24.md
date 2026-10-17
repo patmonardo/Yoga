@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विशेषणार्थं प्राधान्याद्बहुधर्माग्रसंग्रहात् ।
->
-> एकमायतनं रूपमेकं धर्माख्यमुच्यते ॥ १.२४ ॥
+```sanskrit
+विशेषणार्थं प्राधान्याद्बहुधर्माग्रसंग्रहात् ।
+एकमायतनं रूपमेकं धर्माख्यमुच्यते ॥ १.२४ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> viśeṣaṇārthaṃ prādhānyād bahudharmāgrasaṃgrahāt /
->
-> ekam āyatanaṃ rūpam ekaṃ dharmākhyam ucyate // 1.24 //
+```text
+viśeṣaṇārthaṃ prādhānyād bahudharmāgrasaṃgrahāt /
+ekam āyatanaṃ rūpam ekaṃ dharmākhyam ucyate // 1.24 //
+```
 
 ## 3. Lexical Analysis
 
@@ -48,11 +50,14 @@ One verb carries both. *Ekam* is repeated. Two essences, not one essence under t
 
 ### Literal Translation
 
-For the sake of distinction, because of primacy, and because many dharmas and the highest are gathered, one essence is called form, and one is called dharma.
+> For the sake of distinction, because of primacy, and because many dharmas
+> and the highest are gathered, one essence is called form, and one is
+> called dharma.
 
 ### Bhāṣya-informed study translation
 
-One essence is specifically called the form-essence, and one the dharma-essence, to distinguish each from the other essences. Form receives that name also because of its prominence among forms. The dharma-essence receives its general name because it gathers many dharmas, including the highest dharma, nirvāṇa.
+> For distinction, one Essence is called Form because of primacy, and one is
+> called Dharma because it gathers many dharmas and the highest.
 
 ## 6. Philosophical Translation
 
@@ -120,6 +125,13 @@ others
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya distinguishes the naming grounds: Form is
+prominent through resistance, visibility, and ordinary usage; Dharma is a
+general name because the Essence gathers many dharmas, including feeling,
+reflection, and formations, and also the highest dharma, nirvāṇa. An
+alternative account based on twentyfold variety and three eyes remains
+attributed to 'others.'
 
 The hinge is the repeated *ekam*. Form and dharma are a dyad of names, not two words for the essence arrangement. The three that stand between the form-base and the cognition-base are what the dharma-essence gathers. They remain bases. There is no sixth base called dharma.
 

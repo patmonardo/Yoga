@@ -3,12 +3,11 @@
 ## 1. Kārikā Anchor
 
 > ye sāsravā upādānaskandhās te saraṇā api /
->
 > duḥkhaṃ samudayo loko dṛṣṭisthānaṃ bhavaś ca te // 1.08 //
 
-Literal:
-
-> Those which are Impure are the bases of appropriation. They are also with conflict. They are suffering, origin, world, the station of views, and becoming.
+> Those conditioned dharmas that are with outflows are Bases of
+> appropriation; they too are with conflict. These same dharmas are
+> suffering, origin, the world, the station of views, and becoming.
 
 Span: Pradhan `[005|08]`–`[005|20]`. Next question at `[005|21]` opens 1.09.
 
@@ -76,7 +75,7 @@ same Conditioned field as 1.07
     → five names, each with its ground
 ```
 
-## 5. Organon Reading
+## 5. Interpretation
 
 1.07 gathers the Conditioned as five bases. 1.08 divides that field.
 

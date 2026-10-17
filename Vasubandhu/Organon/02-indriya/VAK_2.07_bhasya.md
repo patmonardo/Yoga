@@ -73,7 +73,7 @@ The prose resolves sukham śātā as agreeable bodily feeling. Bodily in that cl
 
 Caitasī is mental. Kāyikī is bodily. Pañcavijñānakāya is the five cognition-groups. Dissociated from mind is the survey's viprayukta.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 The feeling-place projects. Disagreeable bodily feeling is pain. Agreeable bodily feeling is pleasure. In the third dhyāna the five cognition-groups are absent, and agreeable mental feeling occupies the pleasure-place. The modes do not collapse.
 

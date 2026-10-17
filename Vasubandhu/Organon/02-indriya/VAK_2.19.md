@@ -117,7 +117,7 @@ The damaged gloss is kept. The contrast is carried by ājñendriyeṇa and ājñ
 
 Pain in the thirteen is not a constituent of the seeing-path moment. The predicate is possession. Why body and pain are necessary here and absent from the common ten is not explained. No cause is inserted.
 
-Organon reading: the named faculty, its path-role, and the exact list. Not the verse English.
+Interpretation: the named faculty, its path-role, and the exact list. Not the verse English.
 
 ## 10. OWL++ Seed
 

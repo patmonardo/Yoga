@@ -26,7 +26,7 @@ The unit is printed 98.26–100.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defec
 
 Arisen mind and mental factors, not final, are the immediately antecedent. Excluding an arhat's final mind and factors. Equal and immediate. The whole complex is the condition of the next whole complex. Not own-kind only. Future is not this condition. How the Blessed One knows a future after a future is disputed. Not settled. All dharmas, as appropriate, are the object-condition. Visible form of eye-cognition. All dharmas of mental cognition. What is named the conditioning cause is held to be the predominant.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Antecedent is arisen citta-caitta, not final, whole complex of next. Not own-kind. Object is all dharmas as appropriate. Predominant is the conditioning cause. Future-knowledge is not settled.
 

@@ -3,13 +3,11 @@
 ## 1. Kārikā Anchor
 
 > caturbhyo 'nye tu saṃskāraskandhaḥ ete punas trayaḥ /
->
 > dharmāyatanadhātvākhyāḥ sahāvijñaptyasaṃskṛtaiḥ // 1.15 //
 
-> The Formations Base consists of conditioned dharmas other than form, feeling,
-> perception, and consciousness. Those three Bases—feeling, perception, and
-> formations—together with *avijñapti* and the unconditioned, are also called
-> the dharma-essence and the dharma-principle.
+> Apart from the four, the others are the Formations Base. These three—
+> Feeling, Reflection, and Formations—together with *avijñapti* and the
+> unconditioned are also named the Dharma Essence and the Dharma Principle.
 
 The commentary defends the remainder, then counts the seven. The next verse
 defines the cognition-base. It is not taken here.

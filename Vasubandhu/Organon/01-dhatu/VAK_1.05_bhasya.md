@@ -3,10 +3,12 @@
 ## 1. Kārikā Anchor
 
 > anāsravā mārgasatyaṃ trividhaṃ cāpy asaṃskṛtam /
->
 > ākāśaṃ dvau nirodhau ca tatrākāśam anāvṛtiḥ // 1.05 //
 
-> The pure are the Truth of the Path and also the threefold unconditioned: space and the two cessations. Among these, space is non-obstruction.
+> The Path Truth is Pure, and the unconditioned is also threefold: space
+> and the two cessations, cessation through discrimination and cessation
+> not through discrimination. Among these, space is non-obstruction, where
+> Form can move.
 
 Span: Pradhan `[003|15]`–`[003|23]`. The next line opens 1.06.
 
@@ -89,7 +91,7 @@ The previous cut holds. Persistence fails in all four.
 
 Not a container. Not an infinite substance.
 
-## 7. Organon Reading
+## 7. Interpretation
 
 Marked. Not the conventional line.
 

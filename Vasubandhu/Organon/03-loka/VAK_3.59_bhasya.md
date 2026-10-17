@@ -177,7 +177,7 @@ room there for the maturation of the karma of those who commit acts of
 immediate retribution; what could prevent there also being room for theirs?
 
 Why are they not burned by the fire? Presumably because karma has set a limit
-to the fire, or because the guards are formed from a special kind of element.
+to the fire, or because the guards are formed from a special kind of Element.
 
 These, then, are called the eight great hot hells.
 
@@ -283,7 +283,7 @@ On the second account, the guards are sentient. Two objections then arise:
 where their cruel karma matures, and why the fires do not burn them. The reply
 locates their maturation within the hells themselves and offers two possible
 explanations of their immunity: karmically bounded fire or constitution from
-special elements. These are alternative explanatory possibilities, not a
+special Elements. These are alternative explanatory possibilities, not a
 single demonstrated mechanism.
 
 The discussion thus separates three matters often collapsed into one:
@@ -350,7 +350,7 @@ The most important analytical gain is the separation of a produced appearance
 from a claim about the kind of bearer appearing through it. A tormenting form
 can perform an actor-role in the hell-world, yet the role alone does not
 establish that it is a sentient being. Conversely, accepting sentient guards
-requires further causal explanations of their karmic result and elemental
+requires further causal explanations of their karmic result and Elemental
 relation to the environment. The Bhāṣya tests ontology by consequences rather
 than merely reading agency from the grammar of a scene.
 

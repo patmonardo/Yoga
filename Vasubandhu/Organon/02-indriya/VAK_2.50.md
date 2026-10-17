@@ -31,7 +31,7 @@ bhūtavac cittacittānuvartilakṣaṇalakṣyavat // 2.50 //
 ```text
 % start S
 S[CAUSE=co-arisen] -> MutualResult
-S[EXAMPLE=elements|citta-followers|marks-marked] -> Mutual
+S[EXAMPLE=Elements|citta-followers|marks-marked] -> Mutual
 S[QUALIFY=secondary-marks] -> Asymmetric[FROM=dharma, TO=secondary]
 ```
 
@@ -70,7 +70,7 @@ Secondary marks are asymmetric.
 ```text
 mutually resultant
     → co-arisen, both ways
-four elements
+four Elements
     both ways
 consciousness and followers
     both ways

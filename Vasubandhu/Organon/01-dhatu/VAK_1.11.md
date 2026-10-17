@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विक्षिप्ताचित्तकस्यापि योऽनुबन्धः शुभाशुभः ।
->
-> महाभूतान्युपादाय स ह्यविज्ञप्तिरुच्यते ॥ १.११ ॥॥
+```sanskrit
+विक्षिप्ताचित्तकस्यापि योऽनुबन्धः शुभाशुभः ।
+महाभूतान्युपादाय स ह्यविज्ञप्तिरुच्यते ॥ १.११ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vikṣiptācittakasyāpi yo 'nubandhaḥ śubhāśubhaḥ /
->
-> mahābhūtāny upādāya sa hy avijñaptir ucyate // 1.11 //
+```text
+vikṣiptācittakasyāpi yo 'nubandhaḥ śubhāśubhaḥ /
+mahābhūtāny upādāya sa hy avijñaptir ucyate // 1.11 //
+```
 
 ## 3. Lexical Analysis
 
@@ -21,7 +23,7 @@
 | yaḥ ... saḥ | relative and correlative | which continuity is so called |
 | anubandhaḥ | nominative masculine | the continuity |
 | śubha-aśubhaḥ | nominative masculine | wholesome or unwholesome |
-| mahābhūtāni | accusative plural | the great elements |
+| mahābhūtāni | accusative plural | the Great Elements |
 | upādāya | absolutive | depending on |
 | hi | particle | indeed; the naming |
 | avijñaptiḥ | nominative feminine | the name |
@@ -48,16 +50,15 @@ A relative definition. *Śubhāśubhaḥ* agrees with *anubandhaḥ*. The name
 
 ### Literal Translation
 
-The wholesome or unwholesome continuity which, depending on the great
-elements, belongs even to one whose consciousness is otherwise directed or
-absent: that indeed is called *avijñapti*.
+> The wholesome or unwholesome continuity which, depending on the great
+> Great Elements, belongs even to one whose consciousness is otherwise
+> directed or absent: that indeed is called *avijñapti*.
 
 ### Bhāṣya-informed study translation
 
-The wholesome or unwholesome continuity that persists even when consciousness
-is directed elsewhere or absent—and also when it is present and undistracted—
-depends on the Great Elements and is called *avijñapti*. It is form and action
-that does not inform another as *vijñapti* does.
+> The wholesome or unwholesome continuity that persists even when
+> consciousness is directed elsewhere or absent depends on the Great
+> Elements and is called *avijñapti*.
 
 ## 6. Philosophical Translation
 
@@ -73,14 +74,14 @@ is a stream.
 
 Ethical continuity alone would also fit acquisition. *Mahābhūtāny upādāya*
 is the differentiator. The Vaibhāṣikas take *upādāya* as cause, because the
-elements produce and the rest. That reading is marked. It is not the verse's
+Great Elements produce and the rest. That reading is marked. It is not the verse's
 only word.
 
 The name is the contrast. Form and action, and yet it does not inform another
 as *vijñapti* does. The summary adds two origins, *vijñapti* or absorption.
 The verse does not. Outward action is not the whole.
 
-Which great elements are meant is the next question. Not this verse.
+Which Great Elements are meant is the next question. Not this verse.
 
 ## 7. Technical Vocabulary
 
@@ -94,7 +95,7 @@ Which great elements are meant is the next question. Not this verse.
 | vikṣipta | otherwise directed | a different consciousness |
 | acittaka | without consciousness | two attainments |
 | api | even | includes the undistracted |
-| mahābhūta | great element | the differentiator; defined next |
+| mahābhūta | Great Element | the differentiator; defined next |
 | upādāya | depending on | causal reading is Vaibhāṣika |
 | prāpti-vāha | stream of acquisition | the similar, distinguished |
 | vijñapti | *vijñapti* | informs another; the contrast |
@@ -110,7 +111,7 @@ defined here
 wholesome or unwholesome stream
     could also be acquisition
 
-stream depending on the great elements
+stream depending on the Great Elements
     → avijñapti
 
 api
@@ -118,7 +119,7 @@ api
     without consciousness
     also present and undistracted
 
-form and action
+Form and action
     and does not inform another
 
 summary, not the verse
@@ -128,6 +129,8 @@ summary, not the verse
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya explains that *api* also includes a person whose consciousness is present and not otherwise directed; it specifies non-perception and cessation attainments as examples of absence of consciousness. It further glosses *avijñapti* as Form and action that does not inform another as *vijñapti* does.
 
 The hinge is *upādāya*, then *api*. Interpretation of the name is in the
 Bhāṣya.

@@ -85,7 +85,7 @@ Both duals are exclusions. The prose glosses duḥkhe. The remainder confirms su
 
 Amalaṃ ceti vartate keeps the earlier exclusion active. Rūpi collects the faculties that possess form. It is not the form realm being subtracted.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Realm-connection is another predicate. Faculty, connection, outflow, ethical quality, and the path-name stay apart. Confusing them would put the triad in a higher realm, or make it impossible for a knower who is still connected.
 

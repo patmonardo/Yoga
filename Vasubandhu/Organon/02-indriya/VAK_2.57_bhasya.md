@@ -27,7 +27,7 @@ The unit is printed 95.10–96.18 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Maturation is an indeterminate dharma, classed with a sentient being, arisen from the determinate. Unobscured-indeterminate. Classed with a sentient being. Arisen from the determinate. Later, neither together nor immediately after. Unshared. One does not experience the maturation of another's karma. Homogeneous outflow is similar to its cause. Pervasive likeness is level and affliction, not type. Disconnection is cessation by Discrimination. No mechanism is given.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Maturation is later, unshared, indeterminate, from the determinate. Outflow is similar. Pervasive likeness is level and affliction, not type. Disconnection is cessation by Discrimination. Mechanism not given.
 

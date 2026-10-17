@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> यः सर्वथासर्वहतान्धकारः संसारपङ्काज्जगदुज्जहार ।
->
-> तस्मै नमस्कृत्य यथार्थशास्त्रे शास्त्रं प्रवक्ष्याम्यभिधर्मकोशम् ॥ १.०१ ॥
+```sanskrit
+यः सर्वथासर्वहतान्धकारः संसारपङ्काज्जगदुज्जहार ।
+तस्मै नमस्कृत्य यथार्थशास्त्रे शास्त्रं प्रवक्ष्याम्यभिधर्मकोशम् ॥ १.०१ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> yaḥ sarvathāsarvahatāndhakāraḥ saṃsārapaṅkājjagadujjahāra /
->
-> tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmy abhidharmakośam // 1.01 //
+```text
+yaḥ sarvathāsarvahatāndhakāraḥ saṃsārapaṅkājjagadujjahāra /
+tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmy abhidharmakośam // 1.01 //
+```
 
 ## 3. Lexical Analysis
 
@@ -59,11 +61,17 @@ The dative `yathārtha-śāstre` stands in apposition to `tasmai`: homage is off
 
 ### Literal Translation
 
-Having bowed to him whose darkness has been destroyed in every way and concerning everything, who raised the world from the mire of saṃsāra — to that teacher according to reality — I shall proclaim the treatise, the *Abhidharmakośa*.
+> Having bowed to him whose darkness has been destroyed in every way and
+> concerning everything, who raised the world from the mire of saṃsāra — to
+> that teacher according to reality — I shall proclaim the treatise, the
+> *Abhidharmakośa*.
 
 ### Bhāṣya-informed study translation
 
-Having bowed to the Buddha, who has destroyed the ignorance that obscures reality in every way and with respect to everything knowable, and who raised the world from the mire of saṃsāra by teaching according to reality, I shall expound the treatise called the Abhidharmakośa.
+> Having bowed to the teacher who teaches according to reality, whose
+> darkness has been destroyed in every way and with respect to all, and who
+> raised the world from the mire of saṃsāra, I shall expound the
+> *Abhidharmakośa* treatise.
 
 ## 6. Philosophical Translation
 
@@ -108,7 +116,7 @@ Dharma-analysis begins where darkness has been overcome.
 
 The first verse already sets the chapter's whole orientation. Abhidharma is not mere scholastic inventory. It is grounded in liberation from darkness and in the disclosure of reality.
 
-For the later dhātu analysis, this matters because the domains will not be treated as dead categories. They are the lawful determinations through which the world of saṃsāra can be understood, judged, cultivated, and transcended.
+For the later dhātu analysis, this matters because the Principles will not be treated as dead categories. They are the lawful determinations through which the world of saṃsāra can be understood, judged, cultivated, and transcended.
 
 Organon note:
 

@@ -93,7 +93,7 @@ The class opens after the close of consciousness and the mental factors. No obje
 
 The double negation stays in the source. The English follows the class-name.
 
-Organon reading: occurrence and credit are not the same question. This verse names the book. It does not yet grade. Not the verse English.
+Interpretation: occurrence and credit are not the same question. This verse names the book. It does not yet grade. Not the verse English.
 
 ## 10. OWL++ Seed
 

@@ -24,7 +24,7 @@ The unit is printed 96.21–97.18 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Five, present, take the fruit. Not when past: already taken. Not when future: no operative activity. The conditioning cause is likewise, and is not mentioned, because it need not have a fruit. Co-arisen and associated give while present. Homogeneous and pervasive give while present or past. Taking without giving, giving without taking, both, neither. How is a fruit taken? By assuming seed-status toward it. The maturation cause gives only when past. Neither together nor immediate.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Five take while present. Two give present. Two give present or past. Maturation gives past only. Taking is seed-status, not a store. Taking does not imply giving.
 

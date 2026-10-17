@@ -100,7 +100,7 @@ Three positions: balancing, speech-formation, denial of co-presence. No harmoniz
 
 The summit objection uses the exclusions of 2.31. A satisfactory account would name the factors and keep that range.
 
-Organon reading: what each proposal explains, and what it leaves, is the account. Not a smooth definition the passage does not give. Not the verse English.
+Interpretation: what each proposal explains, and what it leaves, is the account. Not a smooth definition the passage does not give. Not the verse English.
 
 ## 10. OWL++ Seed
 

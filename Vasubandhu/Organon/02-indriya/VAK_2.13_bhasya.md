@@ -78,7 +78,7 @@ Heyānīty adhikāraḥ carries to be abandoned into nine by cultivation. Api ad
 
 Durmanaskatā is distress. Vittitraya is pleasure, gladness, and neutral feeling. Jīvitāṣṭama is the seven with life as eighth. Pain stays in the nine.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 A faculty-name does not say whether seeing, cultivation, or keeping applies. For the five, outflow decides. A faulted instance is not the rejection of the type. Faultlessness is not the permanence of the event.
 

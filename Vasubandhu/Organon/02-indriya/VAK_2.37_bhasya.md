@@ -37,7 +37,7 @@ This acquisition, it is said, of dharmas of the three times is threefold: the ac
 
 Cessation not through Discrimination is acquired in the three realms. Cessation through Discrimination in the form realm, the formless realm, or as uncontaminated. Acquisition of the path is uncontaminated. Space remains outside both, from 2.36.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Time of the determination is not time of the credit. A flag cannot carry the matrix. Not the translation. Not the final pass.
 

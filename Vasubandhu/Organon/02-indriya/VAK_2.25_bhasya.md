@@ -110,7 +110,7 @@ Application keeps ābhoga and anābhoga in opposition. Peacefulness would hide t
 
 Shame and caution are not filled from later passages. The deferral is part of this unit. Non-harming and vigor stay the local definitions.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Range is one question. Distinction inside the range is another. Heedfulness is not the wholesome dharmas. Bodily pliancy is not the awakening factor it favors. Equanimity is not attention. Nature, support, and received name stay apart.
 

@@ -97,7 +97,7 @@ Upabhoga is experience. Enjoyment must not suggest that every feeling is pleasan
 
 Anukrama, the order, stays explicit. Ayuktam is unreasonable as faculty-status. It does not make speech or bodily action unreal.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Two courses, one form: support, arising, persistence, experience. Withdrawal is determinate powers, not the absence of engagement. The alternative marker stands. This is not the only account.
 

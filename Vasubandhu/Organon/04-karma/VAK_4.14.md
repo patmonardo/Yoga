@@ -85,7 +85,7 @@ reconstruction. These readings remain open for collation.
 
 ### Interpretation
 
-In the Organon reading, the verse distinguishes a change in designation
+In the Interpretation, the verse distinguishes a change in designation
 from a change in practical determination, and a distinct determination
 from an opposed one. Its account of successively undertaken restraints
 connects fuller discipline to a reorganization of the conditions for

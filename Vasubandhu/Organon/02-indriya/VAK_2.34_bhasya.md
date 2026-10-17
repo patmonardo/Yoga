@@ -72,7 +72,7 @@ Defective spacing stays in the source. The explanations secure the technical for
 
 The five do not settle the deferred shared support of attention and equanimity. They do not refute the alternative on vitarka and vicāra. Those arguments concern how particular factors satisfy the relation.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Contextual identity and relational distinction. Three names, one referent, different roles. Shared conditions, distinguishable factors, each counted once. Common reference, common conditions, and identity of factor stay apart.
 

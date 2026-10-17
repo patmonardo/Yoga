@@ -120,7 +120,7 @@ Distress and the sūtra of three actions stay apart. Association is not maturati
 
 Eight with life as eighth: wholesome in a favorable destiny, unwholesome in an unfavorable one. Mind is either in either. Pleasure, gladness, and neutral feeling are wholesome maturation. Pain is unwholesome. Both sexual marks in a favorable destiny: the condition is unwholesome acquisition. The faculty itself is projected by wholesome action.
 
-Organon reading: the two predicates are the method. The received collapse is refused. Not the verse English.
+Interpretation: the two predicates are the method. The received collapse is refused. Not the verse English.
 
 ## 10. OWL++ Seed
 

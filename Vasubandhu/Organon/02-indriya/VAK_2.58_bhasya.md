@@ -24,7 +24,7 @@ The unit is printed 96.03–96.09 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 Whatever arises through the force of which, that is the fruit born of efficacy. A higher-level concentration, of a lower application-mind. An uncontaminated one, of a contaminated one. A transformation-mind, of a concentration-mind. And the rest. For cessation by Discrimination, say attained through its force. Not arisen. A conditioned dharma other than one arisen earlier is the fruit of predominance of every conditioned dharma. Of the conditioned alone. Fruit of efficacy, of the agent. Fruit of predominance, even of the non-agent.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Efficacy is arising through a force. Cessation by Discrimination is attained, not arisen. Predominance is not-earlier conditioned, of the conditioned alone. Agent gets both; non-agent predominance only.
 

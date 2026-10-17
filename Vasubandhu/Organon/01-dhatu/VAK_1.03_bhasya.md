@@ -3,17 +3,15 @@
 ## 1. Kārikā Anchor
 
 > dharmāṇāṃ pravicayam antareṇa nāsti kleśānāṃ yata upaśāntaye 'bhyupāyaḥ /
->
 > kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // 1.03 //
+
+> Without discrimination of dharmas, there is no means to pacify the
+> afflictions; through the afflictions, the world wanders in this ocean of
+> becoming. For this reason, this treatise is said to have been taught.
 
 The running witness ends the verse with `śāstrā`. The displayed `śāstraḥ`
 is a conjectural normalization, not an established source reading; the
 Kārikā study records the unresolved grammar.
-
-> Since there is no means for pacifying the afflictions without discrimination
-> of dharmas, and since the world wanders here in the ocean of becoming
-> through those afflictions, for that reason this treatise is said to have
-> been taught.
 
 The Bhāṣya makes the necessity claim more concrete: the disciple cannot
 discriminate dharmas without Abhidharma instruction. It then attributes the

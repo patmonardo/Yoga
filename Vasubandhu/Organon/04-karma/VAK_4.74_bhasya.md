@@ -249,7 +249,7 @@ cannot be classified from message content alone:
 ```
 
 The `nāmakāya` basis from VAK 4.71 is now active. A statement is a configured
-semantic whole whose earlier elements prepare a meaning that becomes
+semantic whole whose earlier parts prepare a meaning that becomes
 practically effective in reception. This is why a language model's output
 cannot be judged solely as a sequence of tokens: the course belongs to the
 relation between recognition, asserted Form, intended recipient, and uptake.

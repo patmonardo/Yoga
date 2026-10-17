@@ -38,7 +38,7 @@ What is same-class? Sameness among beings. An entity, on that account. Undiffere
 
 The non-reflective is cessation of consciousness and the mental factors, maturation of the attainment, a region of the Great Fruit. Reflective at birth and at death. Arising of reflection ends the stay. Like waking from a long sleep. Desire realm, nowhere else.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Shared designation, resemblance, and a postulated real stay apart. The universal is the comparison. Not the translation. Non-conscious stays withdrawn. Not the final pass.
 

@@ -125,7 +125,7 @@ Twofold is either status across instances, not both in one instance. With outflo
 
 Some restrict the five. The first reply limits the citation to the faculties without outflows. The alternative limits it to the outsider whose wholesome roots are severed. Or marks an alternative, not a second step that must be joined. The Wheel not yet turned, and the fivefold examination, are the positive grounds. The last quotation is abbreviated in the Sanskrit. It is not completed from elsewhere.
 
-Organon reading: nine jewels, three names, one stainless configuration. The principles remain deposited. Pure is not amala. Not the verse English.
+Interpretation: nine jewels, three names, one stainless configuration. The principles remain deposited. Pure is not amala. Not the verse English.
 
 ## 10. OWL++ Seed
 

@@ -34,10 +34,10 @@ rūpaṃ rūpasya tridhā bhūtānām ekadhaiva tat // 2.65 //
 
 ```text
 % start S
-S[CAUSE=elements-of-elements] -> Two[HOMOGENEOUS=true, COARISEN=true]
-S[CAUSE=elements-of-derived] -> Five[FUNCTIONS=conditioning]
+S[CAUSE=Elements-of-Elements] -> Two[HOMOGENEOUS=true, COARISEN=true]
+S[CAUSE=Elements-of-derived] -> Five[FUNCTIONS=conditioning]
 S[CAUSE=derived-of-derived] -> Three
-S[CAUSE=derived-of-elements] -> One[MATURATION=true]
+S[CAUSE=derived-of-Elements] -> One[MATURATION=true]
 ```
 
 Elements cause Elements in two ways, and derived Form in five functions of the conditioning cause.  

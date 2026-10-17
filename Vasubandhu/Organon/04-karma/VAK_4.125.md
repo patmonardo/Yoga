@@ -157,7 +157,7 @@ of a liberation-oriented root, compared to a sprout revealing a seed.
 It is not presented as the definition of that root or as a criterion that
 every hearer must display.
 
-In the Organon reading, the passage makes the speaker's volitional
+In the Interpretation, the passage makes the speaker's volitional
 orientation relevant to Dharma-giving without naming `cetanā` or
 redefining the verse through that term. This preserves the user's
 emphasis on volition while keeping the technical claim at the level the

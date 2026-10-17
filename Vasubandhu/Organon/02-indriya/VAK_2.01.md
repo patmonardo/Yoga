@@ -148,7 +148,7 @@ The four matters of the five already exceed bare sensation: attractiveness, pres
 
 Kila marks the reported account. It does not by itself settle the author's distance. Principally is analysis. It is not in the verse.
 
-Organon reading: Dhātu is the Faculty of Principles. Indriya is the faculty of Rules. The deposit stays. The wheel starts here. Not the verse English.
+Interpretation: Dhātu is the Faculty of Principles. Indriya is the faculty of Rules. The deposit stays. The wheel starts here. Not the verse English.
 
 ## 10. OWL++ Seed
 

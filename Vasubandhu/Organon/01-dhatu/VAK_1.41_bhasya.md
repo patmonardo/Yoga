@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > cakṣuś ca dharmadhātoś ca pradeśau dṛṣṭir aṣṭadhā /
->
 > pañcavijñānasahajā dhīr na dṛṣṭir atīraṇāt // 1.41 //
 
-> A portion of the eye and a portion of the dharma-principle are view, eightfold. Discrimination born with the five cognitions is not view, because it does not ascertain.
+> A portion of the Eye Principle and an eightfold portion of the Dharma
+> Principle are view. The discriminative comprehension arising with the five
+> sensory Cognitions is not view, because it does not ascertain.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -91,7 +92,7 @@ The question is how many of the eighteen are view. Two portions. The dharma-prin
 5. Prajñā born with the five cognitions is not view, because it does not ascertain.
 6. The eye is view by disclosure of visibles, not by ascertainment.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 View is ascertainment, and ascertainment proceeds by attentive examination. Prajñā born with the five cognitions does not do that, so it is not view. The eye does not do it either. The page keeps it as view by another sense, disclosure. That second sense is not yet the dispute. The eight are a portion of the dharma-principle, not the principle as such.
 

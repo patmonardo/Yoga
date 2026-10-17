@@ -3,12 +3,11 @@
 ## 1. Kārikā Anchor
 
 > sarvasaṃgraha ekena skandhenāyatanena ca /
->
 > dhātunā ca svabhāvena parabhāvaviyogataḥ // 1.18 //
 
 > All dharmas are included together by one Base, the Form Base; one Essence,
-> the Mind Essence; and one Principle, the Dharma Principle. Each is included
-> by its own nature, since it is separate from the nature of another.
+> the Mind Essence; and one Principle, the Dharma Principle. This inclusion is
+> by own-nature, through separation from another's nature.
 
 The commentary states the ranges, names the three, gives the ground, and sets
 a conventional gathering beside the rule. The paired eyes open the next verse.

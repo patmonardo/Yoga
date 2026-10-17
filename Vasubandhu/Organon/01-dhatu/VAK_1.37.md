@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> विपाकजौपचयिकाः पञ्चाध्यात्मं विपाकजः ।
->
-> न शब्दोऽप्रतिघा अष्टौ नैःष्यन्दिकविपाकजाः ॥ १.३७ ॥
+```sanskrit
+विपाकजौपचयिकाः पञ्चाध्यात्मं विपाकजः ।
+न शब्दोऽप्रतिघा अष्टौ नैःष्यन्दिकविपाकजाः ॥ १.३७ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> vipākajaupacayikāḥ pañcādhyātmaṃ vipākajaḥ /
->
-> na śabdo 'pratighā aṣṭau naiḥṣyandika-vipākajāḥ // 1.37 //
+```text
+vipākajaupacayikāḥ pañcādhyātmaṃ vipākajaḥ /
+na śabdo 'pratighā aṣṭau naiḥṣyandika-vipākajāḥ // 1.37 //
+```
 
 ## 3. Lexical Analysis
 
@@ -74,7 +76,7 @@ The final clause concerns the eight non-resistant Principles:
 
 ```text
 seven Cognition Principles
-+ Essence Principle
++ Dharma Principle
     → continuity-born or maturation-born
 ```
 
@@ -87,20 +89,21 @@ Principles.
 
 ### Literal Translation
 
-> The five internal [Faculty Principles] are maturation-born and upacaya-reinforced. Sound is not maturation-born. The eight non-resistant Principles include continuity-born and maturation-born instances.
+> The five internal [Faculty Principles] are maturation-born and upacaya-
+> reinforced. Sound is not maturation-born. The eight non-resistant
+> Principles include continuity-born and maturation-born instances.
 
 ### Bhāṣya-informed study translation
 
-> The five internal Faculty Principles are maturation-born and can be
-> reinforced by increase. Sound is not maturation-born. The eight
-> non-resistant Principles—the seven Cognition Principles and the Dharma
-> Principle—have continuity-born and maturation-born instances.
+> The five internal Faculty Principles are maturation-born and reinforced
+> through increase. Sound is not maturation-born. The eight non-resistant
+> Principles have instances born of causal continuity and of maturation.
 
 ## 6. Philosophical Translation
 
-> A Principle is determined not only by its present character but also by the manner in which its continuity is generated. The Faculties possess a maturation-born constitution that can be maintained and reinforced through living conditions. Sound is an event initiated through present effort rather than a direct maturation-result. The non-resistant Cognition and Essence Principles lack upacaya reinforcement yet remain subject to causal continuity and maturation.
+> A Principle is determined not only by its present character but also by the manner in which its continuity is generated. The Faculties possess a maturation-born constitution that can be maintained and reinforced through living conditions. Sound is an event initiated through present effort rather than a direct maturation-result. The non-resistant Cognition and Dharma Principles lack upacaya reinforcement yet remain subject to causal continuity and maturation.
 
-Organon rendering:
+Interpretation:
 
 > The Principle of the Agent now receives a genesis protocol. Its Faculties are inherited capacities whose maturation-continuity is protected and reinforced by living conditions. Cognition Principles are non-resistant without being causally ungrounded. The Agent is therefore not posited outside causality; it is a differentiated system of generated and maintained capacities.
 
@@ -183,6 +186,8 @@ GenesisType(x)
 
 ## 9. Interpretive Note
 
+**Translation note.** The eight non-resistant Principles are the seven Cognition Principles and the Dharma Principle; the Bhāṣya distinguishes their continuity-born and maturation-born instances.
+
 VAK 1.37 adds causal lineage to the Principle. The question is no longer
 only what a Principle is capable of doing; it is how that capacity came to
 be present and how its continuity is maintained.
@@ -219,7 +224,7 @@ not-upacaya-reinforced
     ≠ non-causal
 ```
 
-Cognition and Essence flow through homogeneous causal continuities and may
+Cognition and Dharma flow through homogeneous causal continuities and may
 also arise as maturation-results. Inwardness does not exempt a state from
 causal genesis.
 

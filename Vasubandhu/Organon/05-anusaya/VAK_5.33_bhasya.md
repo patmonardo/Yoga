@@ -122,7 +122,7 @@ permanence or annihilation, then a claim of purification,
 then attachment to the claim and opposition to other views.
 This gives a precise point of contact for the project's
 concern about clinging to view and clinging to death. That
-contact is an Organon reading of the Kośa's sequence, not
+contact is an Interpretation of the Kośa's sequence, not
 an attribution of our framework to Vasubandhu.
 
 ## 6. Review Status

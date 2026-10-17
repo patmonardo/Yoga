@@ -3,12 +3,12 @@
 ## 1. Kārikā Anchor
 
 > prajñāmalā sānucarābhidharmaḥ tatprāptaye yāpi ca yacca śāstram /
->
 > tasyārthato 'smin samanupraveśāt sa cāśrayo 'syety abhidharmakośam // 1.02 //
 
-Literal (from [`VAK_1.02.md`](./VAK_1.02.md)):
-
-> Stainless prajñā, with its attendants, is Abhidharma; so also is whatever [prajñā] is for the attainment of that, and whatever treatise [is for its attainment]. Because that enters into this by meaning—and because that is the supporting basis of this—[this treatise is called] the *Abhidharmakośa*.
+> Stainless discriminative comprehension with its attendants is Abhidharma.
+> Also included are what serves to attain it and the treatise. The meaning
+> of that Abhidharma enters this treatise, and Abhidharma is its source;
+> hence this is called the *Abhidharmakośa*.
 
 Span: Pradhan `[002|02]`–`[002|17]`. Next unit opens 1.03 at `[002|18]`.
 
@@ -52,7 +52,7 @@ Here, prajñā is the discrimination of dharmas.
 
 “With attendants” means with its retinue.
 
-Thus what has been said is this: Abhidharma is a Pure complex consisting of the five aggregates.
+Thus what has been said is this: Abhidharma is a Pure complex consisting of the five Bases.
 
 This, to begin with, is Abhidharma in the ultimate sense.
 
@@ -97,7 +97,7 @@ Or else that Abhidharma is the support of this treatise, since this treatise has
 What is Abhidharma?
     → ultimate: Pure prajñā with retinue
         → discrimination of dharmas
-        → a Pure five-aggregate complex
+        → a Pure five-Base complex
     → conventional: Impure prajñā ordered to attaining it
         → hearing, reflection, cultivation, birth-acquired
         → treatise as equipment
@@ -118,7 +118,7 @@ Nothing in the name-definition is optional. The prior English packed it.
 prajñā            dharmapravicaya
 amalā            anāsravā = Pure
 sānucarā         saparivārā
-result           Pure five-aggregate complex
+result           Pure five-Base complex
 sense            pāramārthika, to begin with
 
 dharma           svalakṣaṇa-dhāraṇāt
@@ -137,7 +137,7 @@ This is not a complete ontology of *svalakṣaṇa*. It is the derivation the un
 
 ```text
 pāramārthika    Pure prajñā with retinue
-                a Pure five-aggregate complex
+                a Pure five-Base complex
 
 sāṃketika      Impure prajñā ordered toward that
                 hearing, reflection, cultivation, birth-acquired
@@ -176,4 +176,4 @@ Abhidharma in the ultimate sense is the Dharma of a Buddha: the Discriminator. P
 
 ## 10. Review Status
 
-Abhidharma definition written clause by clause: discrimination, Pure, retinue, five aggregates, ultimate sense, then the name-derivation with both facings. Next: 1.03 when called.
+Abhidharma definition written clause by clause: discrimination, Pure, retinue, five Bases, ultimate sense, then the name-derivation with both facings. Next: 1.03 when called.

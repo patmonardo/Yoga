@@ -98,7 +98,7 @@ Or distributes the four. Not twenty-four. The singular secondary controls the an
 
 Regret here is the unwholesome case of 2.28. Not all regret is unwholesome. Torpor is a later addition. These totals do not rule it out.
 
-Organon reading: labels are not the count. Identity first. Not the verse English.
+Interpretation: labels are not the count. Identity first. Not the verse English.
 
 ## 10. OWL++ Seed
 

@@ -26,7 +26,7 @@ The unit is printed 101.06–102.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defe
 
 Mind and the mental factors, through four. Cause-condition, the five. Immediately antecedent, the preceding mind and factors, uninterrupted. Object, as appropriate. Predominant, all dharmas other than itself. The pair of attainments, through three. Cessation-attainment and the non-reflective attainment have no object. They are not object-having. The others, dissociated and form, arise through cause-condition and predominant condition. Not from Īśvara, Puruṣa, Pradhāna, or the like, as one cause of the whole world. One sufficient cause would yield the world at once. Succession is observed. No one cause of the world. Beings' own actions generate them in their births. Not settled as a refutation of every position.
 
-## 4. Organon Reading
+## 4. Interpretation
 
 Mind and factors through four. Pair of attainments through three, no object. Others through two. Not from one world-cause; succession is the reason. Named Puruṣa is the proposal and stays enclosed. Karma is births, not every event.
 

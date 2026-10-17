@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> स्कन्धेष्वसंस्कृतं नोक्तमर्थायोगात् क्रमः पुनः ।
->
-> यथौदारिकसंक्लेशभाजनाद्यर्थधातुतः ॥ १.२२ ॥॥
+```sanskrit
+स्कन्धेष्वसंस्कृतं नोक्तमर्थायोगात् क्रमः पुनः ।
+यथौदारिकसंक्लेशभाजनाद्यर्थधातुतः ॥ १.२२ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> skandheṣv asaṃskṛtaṃ noktam arthāyogāt kramaḥ punaḥ /
->
-> yathaudārikasaṃkleśabhājanādyarthadhātutaḥ // 1.22 //
+```text
+skandheṣv asaṃskṛtaṃ noktam arthāyogāt kramaḥ punaḥ /
+yathaudārikasaṃkleśabhājanādyarthadhātutaḥ // 1.22 //
+```
 
 ## 3. Lexical Analysis
 
@@ -50,14 +52,15 @@ A base means a collection. The unconditioned is not divided as past and the rest
 
 ### Literal Translation
 
-The unconditioned is not stated among the bases, because the meaning does not apply. The order, again, is according to grossness, affliction, the meaning beginning with a vessel, and principle.
+> The unconditioned is not stated among the bases, because the meaning does
+> not apply. The order, again, is according to grossness, affliction, the
+> meaning beginning with a vessel, and principle.
 
 ### Bhāṣya-informed study translation
 
-The unconditioned is not counted among the Bases, since it cannot be gathered
-as a collection. The Bases are ordered by relative grossness, by the course
-of affliction, by their roles beginning with a vessel, and by the Principles
-of existence, from desire to the summit.
+> The unconditioned is not stated among the Bases, since the meaning of
+> collection does not apply. The order, however, is according to grossness,
+> affliction, the meanings beginning with a vessel, and the Principles.
 
 ## 6. Philosophical Translation
 
@@ -122,6 +125,16 @@ both kept
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The commentary takes the first order-ground as relative
+grossness, the second as an affliction-sequence explained backwards, the third
+through the meal-roles (Form as vessel, feeling as food, reflection as
+seasoning, formations as maker, Cognition as eater), and the fourth by levels
+from desire through the summit. It rejects the pot-cessation argument for
+excluding the unconditioned from Essences and Principles, and concludes that
+there are five Bases, neither fewer nor more. Though 1.21 promised three
+explanations, this passage gives four; its recap also says vessel where the
+analogy said food.
 
 The hinge is *arthāyogāt*, then *kramaḥ punaḥ*. Interpretation of the four grounds is in the Bhāṣya.
 

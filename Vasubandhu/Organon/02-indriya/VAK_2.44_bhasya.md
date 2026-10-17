@@ -46,7 +46,7 @@ Cessation of reflection and feeling is the sūtra name. It does not leave the ot
 
 Immediately preceding, here, is a condition. The question presupposes a long interval. Reciprocal seed is the earlier teachers. Consciousness in the attainment is Vasumitra. Contact and feeling are Ghoṣaka's objection. The cases are unequal. Without consciousness is the Vaibhāṣika word for the state. Not the class-name of the non-reflective. Real entity against designation stays open.
 
-## 8. Organon Reading
+## 8. Interpretation
 
 Non-operation designated is one account of the interval. It is not a pass, and not the nirodha of virodha. The return is how a Determinate Dharma starts again. Not the translation. Not the final pass.
 

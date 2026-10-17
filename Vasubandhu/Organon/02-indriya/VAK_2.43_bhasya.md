@@ -45,7 +45,7 @@ Two times are next rebirth and a later life. Unfixed is not the ethical indeterm
 
 Mastery is not prior production. The western account posits the earlier production. They answer one difficulty by different claims. Thirty-four is sixteen and eighteen. Kila stays. The pledge and emerging are not one action. The uncertain sentence is not repaired. Not settled.
 
-## 8. Organon Reading
+## 8. Interpretation
 
 Shared description is not shared purpose, path, result, or acquisition. Suspension of consciousness is not liberation. The verse's vihāra is abiding. The academy is not this gloss. This nirodha is the attainment. The nirodha of virodha is the look-ahead, not what the verse says is ceased. Not the translation. Not the final pass.
 

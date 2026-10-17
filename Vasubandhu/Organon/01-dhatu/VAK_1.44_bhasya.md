@@ -3,10 +3,12 @@
 ## 1. Kārikā Anchor
 
 > tribhir ghrāṇādibhis tulyaviṣayagrahaṇaṃ matam /
->
 > caramasyāśrayo 'tītaḥ pañcānāṃ sahajaś ca taiḥ // 1.44 //
 
-> By the three beginning with the nose, grasp of an equal object is held. The support of the last is past. Of the five, a co-born support too, with them.
+> The three Faculties beginning with the Nose apprehend Conditions equal in
+> extent to themselves. The support of the last Cognition is past; the five
+> sensory Cognitions also have co-arising Faculties as supports, along with
+> that past Mind.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -155,7 +157,7 @@ Equal grasp for the three that reach. No rule for eye and ear. The seats of the 
 5. The five have two supports: the co-born organ, and past mind.
 6. The eye is support and not the immediately preceding condition. Immediately past mind is both.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 Equal grasp is the meeting of two counts. Eye and ear are not held to that count. The support is timed otherwise than the object. Present object, past support, and for the five a co-born support as well. The four alternatives keep the support from collapsing into the immediately preceding condition.
 

@@ -3,10 +3,12 @@
 ## 1. Kārikā Anchor
 
 > daśa bhāvanayā heyāḥ pañca cāntyās trayas tridhā /
->
 > na dṛṣṭiheyam akliṣṭaṃ na rūpaṃ nāpy aṣaṣṭhajam // 1.40 //
 
-> Ten are abandoned by cultivation, and five. The last three are threefold. Nothing unafflicted is abandoned by seeing, nor form, nor what is not born from the sixth.
+> The ten Form Principles and five sensory Cognition Principles are abandoned
+> by cultivation. The last three—the Mind, Dharma, and Mind-Cognition
+> Principles—are threefold. Nothing unafflicted or of Form, nor anything not
+> born from the sixth, is abandoned by seeing.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -99,7 +101,7 @@ The question is the three statuses. Fifteen are cultivation only. The last three
 5. Body and speech action is form. It is not abandoned by seeing.
 6. The sixth is the mind-essence. What is not born from it is not abandoned by seeing.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 Opposing the path is not the mark of abandonment by seeing. The mark is afflicted, not form, and born from the sixth. The fifteen never meet it. Ordinary-person status survives the cut of the wholesome roots and the freedom from attachment. That is why seeing does not take it.
 

@@ -3,10 +3,11 @@
 ## 1. Kārikā Anchor
 
 > tridhānye dravyavān ekaḥ kṣaṇikāḥ paścimās trayaḥ /
->
 > cakṣurvijñānadhātvoḥ syāt pṛthag lābhaḥ sahāpi ca // 1.38 //
 
-> The others are of three kinds. One is dravya-bearing. The last three are momentary. Of the eye-principle and the cognition-principle there may be separate acquisition, and also together.
+> The four remaining Principles are threefold. One is *dravya*-bearing. The
+> last three are momentary. The Eye Principle and the Eye-Cognition Principle
+> may be acquired separately or together.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -115,7 +116,7 @@ Four claims. The remaining four take three causal kinds. One principle bears dra
 5. Eye and eye-cognition may be acquired separately, together, or neither.
 6. Possession is fourfold. The same working applies to visible.
 
-## 6. Organon Reading
+## 6. Interpretation
 
 Dravya here is the commentary's word for the unconditioned, because it is the core, and that core is in the dharma-principle. It does not make a principle a substance. Momentary is one failure of homogeneous continuation, not a general thesis about time. The eye and the eye-cognition are not one acquisition. That split is the page.
 

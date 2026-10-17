@@ -68,7 +68,7 @@ Ekāntena makes the first group categorical. Eva makes the remainder exclusive. 
 
 Anyā vittiḥ is read as the other feelings, the four. Jīvitāṣṭamam is the group with life as eighth, not eight kinds of life. Indeterminate is preferred to neutral, so avyākṛta stays off upekṣā.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 Ethical quality is a further question about faculties already established. A function can admit three qualities, or two, or one. Importance does not supply the judgment.
 

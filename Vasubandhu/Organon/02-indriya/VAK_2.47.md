@@ -19,7 +19,7 @@ kāmarūpāptasattvākhyā niḥṣyandāvyākṛtās tathā // 2.47 //
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | nāma-kāya-ādayaḥ | nom. pl. m.; compound | groups of names and the rest |
-| saṃjñā-vākya-akṣara | nom. sg. f. + nom. sg. n. + nom. sg. n.; compound | designation, sentence, phonetic element |
+| saṃjñā-vākya-akṣara | nom. sg. f. + nom. sg. n. + nom. sg. n.; compound | designation, sentence, syllable |
 | samukti | nom. pl. f.; compound | collection |
 | kāma-rūpa-āpta | nom. pl. m.; compound | included in desire and form realms |
 | sattva-ākhyā | nom. pl. m.; compound | classed with sentient beings |
@@ -34,7 +34,7 @@ S[GROUP=name|sentence|phoneme] -> Collection
 S[CLASS=desire|form, OUTFLOW=homogeneous, ETHICAL=unobscured-indeterminate] -> Group
 ```
 
-Three groups: names, sentences, phonetic elements.  
+Three groups: names, sentences, syllables.  
 Desire and form, classed with the sentient being who signifies.  
 Homogeneous outflow, unobscured-indeterminate.  
 Others place them in the formless, inexpressible.
@@ -44,12 +44,12 @@ Others place them in the formless, inexpressible.
 ### Literal Translation
 
 > The groups of names and the rest are collections of designation, sentence,
-> and phonetic element. They are included in the desire and form realms,
+> and syllable. They are included in the desire and form realms,
 > classed with sentient beings, homogeneous outflows, and indeterminate.
 ### Bhāṣya-informed study translation
 
 > The groups of names and the rest are collections of designation, sentence,
-> and phonetic element; they are included in the desire and form realms,
+> and syllable; they are included in the desire and form realms,
 > classed with sentient beings, homogeneous outflows, and indeterminate.
 ## 6. Philosophical Translation
 
@@ -60,7 +60,7 @@ Others place them in the formless, inexpressible.
 | Sanskrit | Running word | Determination |
 |---|---|---|
 | nāma-kāya | group of names | not a body |
-| akṣara | phonetic element | not writing |
+| akṣara | syllable | not writing |
 | kṛtāvadhi | fixed application | the conventional restriction |
 | dyotaka | revealer | the claimed function |
 | anabhilāpya | inexpressible | the other account of the formless |
@@ -85,7 +85,7 @@ entity
 
 ## 9. Interpretive Note
 
-**Translation note.** The commentary explains a name as making designation, a sentence as completing meaning, and a phonetic element as the audible minimum. It records other teachers' formless and inexpressible classifications, and debates whether a succession presupposes a single enduring name-entity. The groups themselves are maintained; the issue is not settled.
+**Translation note.** The commentary explains a name as making designation, a sentence as completing meaning, and a syllable as the audible minimum. It records other teachers' formless and inexpressible classifications, and debates whether a succession presupposes a single enduring name-entity. The groups themselves are maintained; the issue is not settled.
 
 The verse is cited in parts. The prose completes it. Tathā is the last word, after the classifications. The next verse sorts results. Causes are not this unit.
 

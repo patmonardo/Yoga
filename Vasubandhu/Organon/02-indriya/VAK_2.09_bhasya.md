@@ -115,7 +115,7 @@ Amala is glossed anāsrava. The working words remain with outflows and without o
 
 The last extract ends with iti vistaraḥ. The ellipsis is marked. No awakening claim is supplied beyond the witness.
 
-## 9. Organon Reading
+## 9. Interpretation
 
 A type receives a path-name through the task. The same type can have either outflow-status. The name does not settle the instance. The three are a unity through the path. The unity does not erase the nine, and it is not nine factors in every moment.
 

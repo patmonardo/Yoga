@@ -87,7 +87,7 @@ organizing principle of the fourfold scheme. Its counts describe distinct
 scopes of practical discipline, including the Bhāṣya's regrouping of
 adornment and entertainment in the novice count.
 
-In the Organon reading, this gives practical Cetanā a specified field of
+In the Interpretation, this gives practical Cetanā a specified field of
 restraint: what is undertaken and the range of action from which one
 abstains. This is an Organon application of the Bhāṣya's explicit focus
 on *virati-samādāna*.

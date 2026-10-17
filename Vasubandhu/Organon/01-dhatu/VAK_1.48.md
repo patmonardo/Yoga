@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> पञ्च बाह्या द्विविज्ञेया नित्या धर्मा असंस्कृताः ।
->
-> धर्मार्धमिन्द्रियं ये च द्वादशाध्यात्मिकाः स्मृताः ॥ १.४८ ॥
+```sanskrit
+पञ्च बाह्या द्विविज्ञेया नित्या धर्मा असंस्कृताः ।
+धर्मार्धमिन्द्रियं ये च द्वादशाध्यात्मिकाः स्मृताः ॥ १.४८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> pañca bāhyā dvivijñeyā nityā dharmā asaṃskṛtāḥ /
->
-> dharmārdham indriyaṃ ye ca dvādaśādhyātmikāḥ smṛtāḥ // 1.48 //
+```text
+pañca bāhyā dvivijñeyā nityā dharmā asaṃskṛtāḥ /
+dharmārdham indriyaṃ ye ca dvādaśādhyātmikāḥ smṛtāḥ // 1.48 //
+```
 
 ## 3. Lexical Analysis
 
@@ -19,7 +21,7 @@
 | pañca bāhyāḥ | nominative | five external |
 | dvi-vijñeyāḥ | nominative | knowable by two cognitions |
 | nityāḥ dharmāḥ asaṃskṛtāḥ | nominative | unconditioned dharmas are permanent |
-| dharma-ardham | nominative | a portion of the dharma-principle |
+| dharma-ardham | nominative | a portion of the dharma-Principle |
 | indriyam | nominative | is faculty |
 | ye ca dvādaśa adhyātmikāḥ | relative | and the twelve called internal |
 
@@ -33,11 +35,11 @@ known
     the remaining thirteen, by mind-cognition alone
 
 permanent
-    no principle entire
-    the unconditioned portion of the dharma-principle
+    no Principle entire
+    the unconditioned portion of the dharma-Principle
 
 faculty
-    a portion of the dharma-principle
+    a portion of the dharma-Principle
     the twelve internal
     not the five external
     not the remaining portion
@@ -47,19 +49,23 @@ faculty
 
 ### Literal Translation
 
-The five external are knowable by two. Unconditioned dharmas are permanent. A portion of the dharma is faculty, and the twelve called internal.
+> The five external are knowable by two. Unconditioned dharmas are
+> permanent. A portion of the dharma is faculty, and the twelve called
+> internal.
 
 ### Bhāṣya-informed study translation
 
-The five external object-principles are each knowable by two cognitions: the corresponding sensory cognition and mind-cognition. Unconditioned dharmas, a portion of the dharma-principle, are permanent. A portion of that principle and the twelve internal principles are faculties.
+> The five external Principles are knowable by two. Unconditioned Dharmas are
+> permanent. A portion of the Dharma Principle, and the twelve internal
+> Principles, are Faculties.
 
 ## 6. Philosophical Translation
 
 The five external are known twice. Once by their own cognition, once by mind-cognition. The remaining thirteen are not the object of the five. Mind-cognition alone knows them.
 
-No principle is permanent as a whole. The permanent is a portion of the dharma-principle, the unconditioned dharmas. The rest are impermanent.
+No Principle is permanent as a whole. The permanent is a portion of the dharma-Principle, the unconditioned dharmas. The rest are impermanent.
 
-Faculty is the handoff. A portion of the dharma-principle, and the twelve internal. The five beginning with the eye keep their names. The seven mind-principles are the one mind-faculty. Female and male are a portion of the body. The five external, and the remaining portion of the dharma-principle, are not faculty. Twenty-two are stated. The Ābhidharmikas set mind after life, because mind takes an object.
+Faculty is the handoff. A portion of the dharma-Principle, and the twelve internal. The five beginning with the eye keep their names. The seven mind-Principles are the one mind-faculty. Female and male are a portion of the body. The five external, and the remaining portion of the dharma-Principle, are not faculty. Twenty-two are stated. The Ābhidharmikas set mind after life, because mind takes an object.
 
 The chapter closes on that cut.
 
@@ -87,10 +93,10 @@ known by one
 
 permanent
     unconditioned dharmas
-    a portion of the dharma-principle
+    a portion of the dharma-Principle
 
 faculty
-    a portion of the dharma-principle
+    a portion of the dharma-Principle
     the twelve internal
 
 not faculty
@@ -102,6 +108,8 @@ chapter complete
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The five are Visible Form, Sound, Smell, Taste, and Tangible, each knowable by its corresponding sensory Cognition and by Mind-Cognition. Only the unconditioned portion of the Dharma Principle is permanent. The faculties within its portion and the twelve internal Principles are further enumerated in the Bhāṣya.
 
 The hinge is the close. Two cognitions for the five external. Permanence only as a portion. Faculty as a portion and the twelve internal. The Exposition of the Principles ends on that.
 

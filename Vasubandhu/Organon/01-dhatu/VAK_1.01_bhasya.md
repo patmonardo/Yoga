@@ -3,13 +3,12 @@
 ## 1. Kārikā Anchor
 
 > yaḥ sarvathāsarvahatāndhakāraḥ saṃsārapaṅkājjagadujjahāra /
->
 > tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmy abhidharmakośam // 1.01 //
 
-> Having bowed to him whose darkness has been destroyed in every way and
-> concerning everything, who raised the world from the mire of saṃsāra—to
-> that teacher according to reality—I shall proclaim the treatise, the
-> *Abhidharmakośa*.
+> Having bowed to the teacher who teaches according to reality, whose
+> darkness has been destroyed in every way and with respect to all, and who
+> raised the world from the mire of saṃsāra, I shall expound the
+> *Abhidharmakośa* treatise.
 
 The Bhāṣya determines `yathārthaśāstre` as a dative singular in apposition
 to `tasmai`: homage is offered to the Buddha as `yathārthaśāstṛ`, the

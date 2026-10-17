@@ -3,10 +3,10 @@
 ## 1. Kārikā Anchor
 
 > viśeṣaṇārthaṃ prādhānyād bahudharmāgrasaṃgrahāt /
->
 > ekam āyatanaṃ rūpam ekaṃ dharmākhyam ucyate // 1.24 //
 
-> For the sake of distinction, because of primacy, and because many dharmas and the highest are gathered, one essence is called form, and one is called dharma.
+> For distinction, one Essence is called Form because of primacy, and one is
+> called Dharma because it gathers many dharmas and the highest.
 
 Distinction applies to both names. Primacy explains the essence called form. The gathering of many dharmas, and of the highest, explains the essence called dharma.
 
@@ -83,7 +83,7 @@ Others say the one is called form because it is gross by its twentyfold variety,
 5. Many, and the highest, stay separate.
 6. The three-eye account stays with the others.
 
-## 10. Organon Reading
+## 10. Interpretation
 
 Form and dharma are the two names. The form-base is not the one essence called form. The dharma-essence gathers the three that stand between the form-base and the cognition-base. They remain bases. There is no sixth base called dharma.
 

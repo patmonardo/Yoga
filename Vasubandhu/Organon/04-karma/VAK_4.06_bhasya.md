@@ -121,7 +121,7 @@ bases of the seven prātimokṣa restraints. The third turns to bodily
 `vijñapti` and tests how a new manifest configuration relates to an
 existing bodily configuration. A short objection-and-reply sequence
 ends with the claim that the body has room for additional great
-elements. Finally the commentary summarizes karma as two, three, and
+Elements. Finally the commentary summarizes karma as two, three, and
 five, then anticipates 4.07's ethical classification.
 
 The material explanations follow the Vaibhāṣika position established

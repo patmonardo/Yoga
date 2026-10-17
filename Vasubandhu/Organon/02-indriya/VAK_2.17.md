@@ -113,7 +113,7 @@ Pleasure and gladness name an ordinary person. The exclusion is not every person
 
 The realization-faculty exclusions are provisional where the compounds are damaged. Lacking the knowledge-faculty is not lacking all knowledge. Established in fruits is not a bar on every later path-relation.
 
-Organon reading: one possession entails two others. The look-ahead on non-reflective is not this cut. Not the verse English.
+Interpretation: one possession entails two others. The look-ahead on non-reflective is not this cut. Not the verse English.
 
 ## 10. OWL++ Seed
 

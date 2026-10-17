@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> छिद्रमाकाशधात्वाख्यम् आलोकतमसी किल ।
->
-> विज्ञानधातुर्विज्ञानं सास्रवं जन्मनिश्रयाः ॥ १.२८ ॥
+```sanskrit
+छिद्रमाकाशधात्वाख्यम् आलोकतमसी किल ।
+विज्ञानधातुर्विज्ञानं सास्रवं जन्मनिश्रयाः ॥ १.२८ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> chidram ākāśadhātvākhyam ālokatamasī kila /
->
-> vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ // 1.28 //
+```text
+chidram ākāśadhātvākhyam ālokatamasī kila /
+vijñānadhātur vijñānaṃ sāsravaṃ janmaniśrayāḥ // 1.28 //
+```
 
 ## 3. Lexical Analysis
 
@@ -70,9 +72,9 @@ Impure.
 
 ### Bhāṣya-informed study translation
 
-> In the teaching of six Principles, an opening is called the Space Principle:
-> light and darkness, it is said. The Cognition Principle is Impure Cognition;
-> these six Principles are supports of birth.
+> In the teaching of six Principles, an opening is called the Space
+> Principle—light and darkness, it is said. The Cognition Principle is Impure
+> Cognition; these six Principles are supports of birth.
 
 ## 6. Philosophical Translation
 
@@ -82,7 +84,7 @@ to Impure cognition. The six principles are considered together by
 their shared function as supports of birth; this does not make them six new
 members outside the established eighteen principles.
 
-**Organon reading**
+**Interpretation**
 
 Four of the six principles enter the tangible-principle. The conditioned
 space-principle enters the form-principle. Impure cognition is placed among
@@ -153,6 +155,15 @@ Thus the sixfold teaching is reintegrated within the eighteen principles;
 its entries do not become additional Principles outside that arrangement.
 
 ## 9. Interpretive Note
+
+**Translation note.** Kila marks the reported light-and-darkness explanation;
+the Bhāṣya locates the opening in doors, windows, mouth, nose, and similar
+places, and explains light and darkness as night and day. It restricts the
+Cognition Principle here to Impure cognition and treats the six as supports
+from rebirth-linking through death; their assignments are four in the tangible
+Principle, the fifth in the visible-Form Principle, and the sixth among the
+seven Cognition Principles. The Bhāṣya's reading cittasthaṃ is retained but
+remains difficult; the local HTML does not independently confirm it.
 
 VAK 1.28 is the worked case following the assignment procedure of 1.27.
 The *Bahudhātuka* teaching gives six principles. The Bhāṣya specifies the

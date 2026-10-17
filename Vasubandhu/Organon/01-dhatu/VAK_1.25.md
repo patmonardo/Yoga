@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> धर्मस्कन्धसहस्राणि यान्यशीतिं जगौ मुनिः ।
->
-> तानि वाङ्नाम वेत्येषां रूपसंस्कारसंग्रहः ॥ १.२५ ॥
+```sanskrit
+धर्मस्कन्धसहस्राणि यान्यशीतिं जगौ मुनिः ।
+तानि वाङ्नाम वेत्येषां रूपसंस्कारसंग्रहः ॥ १.२५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> dharmaskandhasahasrāṇi yāny aśītiṃ jagau muniḥ /
->
-> tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ // 1.25 //
+```text
+dharmaskandhasahasrāṇi yāny aśītiṃ jagau muniḥ /
+tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ // 1.25 //
+```
 
 ## 3. Lexical Analysis
 
@@ -48,11 +50,14 @@ The relative is resumed by `tāni`. `Vā` keeps the alternatives. The verse does
 
 ### Literal Translation
 
-The eighty thousand dharma-collections which the Sage proclaimed — speech, or name — their inclusion is in form and formations.
+> The eighty thousand dharma-collections which the Sage proclaimed — speech,
+> or name — their inclusion is in form and formations.
 
 ### Bhāṣya-informed study translation
 
-The eighty thousand dharma-collections taught by the Sage are included in the stated aggregates: if the Buddha's word is speech by nature, they belong to the form aggregate; if it is name by nature, they belong to the formations aggregate.
+> The Sage proclaimed eighty thousand Dharma-collections: they are included in
+> the Form Base if Buddha-word is speech by nature, or in the formations Base
+> if it is name by nature.
 
 ## 6. Philosophical Translation
 
@@ -103,6 +108,11 @@ measure of the collection is the next verse
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The two assignments report positions about Buddha-word:
+those taking it as speech by nature place the collections in the Form Base;
+those taking it as name by nature place them in the formations Base. Neither
+view is selected, and the collections are not an additional Base.
 
 The hinge is `vā`. The form system receives its own teaching. Speech enters form. Name enters formations. The disagreement is left standing.
 

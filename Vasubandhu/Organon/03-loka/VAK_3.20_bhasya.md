@@ -150,7 +150,7 @@ translation preserves that point without forcing a more specific mapping.
 This is the chapter's reflective turn from an already displayed course to
 its conditional articulation. The Bhāṣya begins from the three-birth
 Base-continuum and reconstructs it as a twelve-member conditioned arising.
-In the Organon reading, the members are not a flat list: they specify
+In the Interpretation, the members are not a flat list: they specify
 Objective Dharmas and their relations within one course. The passage does
 not narrate a genetic origin from an independent source.
 

@@ -43,7 +43,7 @@ learning, reflection, and cultivation.
 
 The opening nominative **discriminative comprehension** answers the question concerning the intrinsic nature of the establishments of recollection: “[Their intrinsic nature is] discriminative comprehension.” The finite copula is omitted, as is common in kārikā style.
 
-**śrutādimayī** is a feminine nominative singular predicate agreeing with **discriminative comprehension**. The element **ādi** expands the compressed expression: discriminative comprehension may be *śrutamayī*, *cintāmayī*, or *bhāvanāmayī*—produced through hearing, reflection, or cultivation.
+**śrutādimayī** is a feminine nominative singular predicate agreeing with **discriminative comprehension**. The compound member **ādi** expands the compressed expression: discriminative comprehension may be *śrutamayī*, *cintāmayī*, or *bhāvanāmayī*—produced through hearing, reflection, or cultivation.
 
 In **anye saṃsargālambanāḥ**, the understood noun after **anye** is supplied by the Bhāṣya as the other dharmas involved in the practice. The compound **saṃsarga-ālambana** distributes two determinations across two extensions of the designation: the associated dharmas receive the name through association, while the cognized field receives it as cognitive Condition.
 

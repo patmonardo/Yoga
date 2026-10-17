@@ -2,15 +2,17 @@
 
 ## 1. Sanskrit (Devanāgarī)
 
-> तद्विकारविकारित्वादाश्रयाश्चक्षुरादयः ।
->
-> अतोऽसाधारणत्वाद्धि विज्ञानं तैर्निरुच्यते ॥ १.४५ ॥
+```sanskrit
+तद्विकारविकारित्वादाश्रयाश्चक्षुरादयः ।
+अतोऽसाधारणत्वाद्धि विज्ञानं तैर्निरुच्यते ॥ १.४५ ॥
+```
 
 ## 2. Sanskrit (IAST)
 
-> tadvikāravikāritvād āśrayāś cakṣurādayaḥ /
->
-> ato 'sādhāraṇatvād dhi vijñānaṃ tair nirucyate // 1.45 //
+```text
+tadvikāravikāritvād āśrayāś cakṣurādayaḥ /
+ato 'sādhāraṇatvād dhi vijñānaṃ tair nirucyate // 1.45 //
+```
 
 ## 3. Lexical Analysis
 
@@ -43,14 +45,15 @@ name
 
 ### Literal Translation
 
-Because of being altered by their alteration, the eye and the rest are supports. Therefore, because they are not in common, cognition is designated by them.
+> Because of being altered by their alteration, the eye and the rest are
+> supports. Therefore, because they are not in common, cognition is
+> designated by them.
 
 ### Bhāṣya-informed study translation
 
-The Eye and the other Faculties are supports because their Cognitions change
-when they change. Cognition is named after its Faculty support because that
-support is specific to it, whereas visible Form can be apprehended by more
-than one Cognition.
+> The Eye and the other Faculties are supports because the Cognition
+> Principles they support change when they change. Therefore, because those
+> Faculties are not shared, Cognition is designated by them.
 
 ## 6. Philosophical Translation
 
@@ -90,6 +93,8 @@ object
 ```
 
 ## 9. Interpretive Note
+
+**Translation note.** The Bhāṣya says the cognitions alter with changes in their Faculties, while an alteration of visible Forms and the other conditions does not similarly change them. The Bhāṣya says Cognition depends on both a Faculty support and a visible Condition; that Condition may be shared by more than one Cognition, while the Faculty support is specific.
 
 The hinge is the name. The object is shared. The support is not. Cognition is designated by the support that is not in common.
 
