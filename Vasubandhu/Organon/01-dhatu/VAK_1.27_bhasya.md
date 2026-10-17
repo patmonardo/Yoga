@@ -77,6 +77,6 @@ A scriptural name poses the problem. The own-characteristic answers it. The five
 
 ## 8. Review Status
 
-Synced to the verse study. Essence Base and Essential Relation withdrawn. 1.28 not opened.
+Synced to the verse study. Older labels withdrawn. 1.28 not opened.
 
 Scheme checked: cognition is vijñāna; principle is dhātu. Infinite cognition is not an infinite principle.

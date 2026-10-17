@@ -193,7 +193,7 @@ all p.all s.((MayDefiledFollow(p,s) & Pure(p)) -> (Defiled(s) & SameLevel(p,s)))
 
 ## 9. Interpretive Note
 
-**Corrections to the research first pass.** Its vague
+**Corrections to the research draft.** Its vague
 “third and following” obscures the bounded range,
 and its shortened pure-successor account can omit
 uncontaminated successors. The commentary's examples,

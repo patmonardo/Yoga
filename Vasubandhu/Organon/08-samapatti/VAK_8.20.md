@@ -219,7 +219,7 @@ ObjectOf => {(wholesomeDhyana,conditionedThing),(wholesomeDhyana,unconditionedTh
 
 ## 9. Interpretive Note
 
-**Substantive correction of the first pass.** The
+**Substantive correction of the earlier draft.** The
 research kārikā emends sadviṣaya to ṣaḍviṣaya and
 translates six object-fields. Its Bhāṣya study reverses
 that interpretation. The running witness and the

@@ -230,7 +230,7 @@ Savoring(firstAccess)
 
 ## 9. Interpretive Note
 
-**Correction of the research first pass.** Its source
+**Correction of the research draft.** Its source
 caution treats tridhā as beginning a classification
 completed in the next verse. The Bhāṣya instead
 makes tridhā kecit a report of disagreement concerning

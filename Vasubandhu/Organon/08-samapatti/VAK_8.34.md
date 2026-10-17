@@ -195,7 +195,7 @@ SpaceForOne => {formlessgroup}
 
 ## 9. Interpretive Note
 
-**The path qualification is sharper than the first pass.**
+**The path qualification is sharper than the earlier draft.**
 The research's general “on the side of subsequent
 knowledge” leaves unclear what it qualifies. The
 prose explicitly names the anvayajñāna-side path

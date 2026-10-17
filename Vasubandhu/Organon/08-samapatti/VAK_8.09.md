@@ -201,7 +201,7 @@ Role(second,priti,saumanasya)
 
 ## 9. Interpretive Note
 
-**Correction of the research first pass.** The local
+**Correction of the research draft.** The local
 kārikā research file initially gives ten. Its Bhāṣya
 study corrects this to eleven, and both the verse's
 “ten and one” and the running prose establish the

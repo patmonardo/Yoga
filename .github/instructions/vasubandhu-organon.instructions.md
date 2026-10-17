@@ -300,8 +300,19 @@ translation.
   from Cognition (*vijñāna*) and Mind (*manas*)
 - `vijñānaskandha` -> **Cognition Base**; `viṣaya` -> **condition** in the
   1.16 study. Preserve the source terms and the local Bhāṣya gloss.
-- `viṣaya` -> **Condition** in the current 1.16 project translation; retain
-  “object” for *ālambana* where that is the source term.
+- `viṣaya` -> **Condition** in the current 1.16 project translation.
+- **Open determination: *āśraya–ālambana* and *hetu–phala*.** Do not render
+  *ālambana* (or *viṣaya*) as “Object” in new or upgraded material; “Object”
+  here is a schema error. *Hetu–phala* is Reason; *āśraya–ālambana* is
+  Understanding, which goes from Condition to Condition (*viṣaya* to
+  *viṣaya*) and is the Truth of *viṣaya*: its manifestation within dependent
+  origination as it enters existence as a Thing. Together they make up
+  **Fact**: Hegelian Ground–Conditioning, whose Truth is the Syllogism of
+  Necessity. This is Conceptual, not Concrete Existence: the possibility of a
+  factual underpinning of a Thing in Nature, and whether it persists or not.
+  The English rendering of *ālambana* is not yet fixed; let the Kośa's own
+  consistent usage settle it. Until then, keep *ālambana* in italics and leave
+  existing “object” wording for a dedicated pass.
 - `manas` -> **Mind**; the **Produced Cognitive Instrument** in the project
   architecture, equipped with Mind Essence (*mana-āyatana*) and Mind Principle
   (*manodhātu*). Its production/ownership relation remains open for

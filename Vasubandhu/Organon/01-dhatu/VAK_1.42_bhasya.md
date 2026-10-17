@@ -183,7 +183,7 @@ Word division is editorial. The local avijñātum is kept; the argument is the r
 >
 > And it is said in the sūtra, "the eye, brahmin, is the door, just for the seeing of visibles." From this it is understood that cognition sees by the eye as door. There "door" is a name for seeing. For this does not fit: the eye is seeing, for the seeing of visibles.
 >
-> If cognition sees, what cognizes, and what is the difference between the two? The very cognition of a visible is its seeing. As a certain prajñā is said to see and also to discriminate, so a certain cognition is said to see and also to cognize.
+> If cognition sees, what cognizes, and what is the difference between the two? The very cognition of a visible is its seeing. As a certain Science of Principles (*prajñā*) is said to see and also to discriminate, so a certain cognition is said to see and also to cognize.
 >
 > Others say: if the eye sees, what other act of seeing belongs to the eye as agent? This is no objection. If it is admitted that cognition cognizes, and there is no distinction of agent and act there, so here too.
 >

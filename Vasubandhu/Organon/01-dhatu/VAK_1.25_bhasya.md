@@ -58,6 +58,6 @@ The form system receives the teaching. Speech enters form. Name enters formation
 
 ## 7. Review Status
 
-Synced to the verse study. Essential Relation and Essence Base withdrawn. 1.26 already studied. Not reopened here.
+Synced to the verse study. Older labels withdrawn. 1.26 already studied. Not reopened here.
 
 Scheme checked: cognition is vijñāna; principle is dhātu. Speech or name is not a sixth base.

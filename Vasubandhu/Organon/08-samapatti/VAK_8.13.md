@@ -283,7 +283,7 @@ wholesome first-dhyāna Cognition impossible for any being.
 
 ## 9. Interpretive Note
 
-**The scope needs tightening from the first pass.**
+**The scope needs tightening from the earlier draft.**
 The research kārikā file speaks of “beings or attainments.”
 The commentary's rebirth question provides the narrower
 basis for this official study. Claims that a higher
