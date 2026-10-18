@@ -77,7 +77,7 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   the grammar may derive the §8 formula by the parse (see 8.13). `Pred => {}`
   means an empty extension; NLTK itself reads it as a phantom `''` element,
   so the audit loader corrects this.
-- The chapter 1 Grammar–Logic pilots (1.01–1.26) annotate the normalized
+- The chapter 1 Grammar–Logic pilots (1.01–1.32) annotate the normalized
   IAST token stream beneath the Lexical Analysis table. It preserves verse
   order, opens sandhi, and marks Bhāṣya-resolved ellipses with `∅-` and
   `SUPPLIED=prose`. The annotation must match the grammar's `# tokens:`
@@ -164,6 +164,48 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   refuting; each exposition is one collection, and counteragents pair with
   dispositions one-to-one without the pairings being listed. Avoid `e` as
   a bound variable in FOL: NLTK reserves it for event types.
+  Use `--start 27 --end 27 --strict` for the assignment function: every
+  designation from another sūtra has an own-characteristic determined
+  before assignment and fitting an established place. Attended scope
+  strictly contains principal scope; non-percipient beings take ten
+  Essences without Odor and Taste; Mind Essence assignment is not occurring
+  Cognition; the sixty-two Principles are not enumerated.
+  Use `--start 28 --end 28 --strict` for the worked demonstration: an
+  opening named the Space Principle with a reported (*kila*) nature, Impure
+  Cognition as the Cognition Principle, and birth-support over all six with
+  the subject supplied by the prose. The six map four/one/one into the
+  eighteen; unconditioned space is not this Space Principle, Pure is not
+  unconditioned, and *cittasthaṃ* stays unresolved. This completes the
+  1.24–1.28 classification engine: naming, closure, measure, assignment,
+  and demonstration.
+  Use `--start 29 --end 29 --strict` for the first application of the
+  engine to the eighteen: three biconditional counts (one visible, ten
+  resistant, eight only-indeterminate) checked extensionally on the finite
+  valuation. The prose theory encodes both tetralemmas: obstruction and
+  Condition-resistance cross-classify nineteen items (the Dharma Principle
+  split into associated and non-associated portions), and support-resistance
+  nests inside Condition-resistance. The verse formula is scoped to the
+  eighteen; the Form Base is excluded as visible by the prose clause.
+  Use `--start 30 --end 30 --strict` for the ethical and realm cuts: the
+  ten others are threefold on stated grounds, all eighteen are connected
+  with the Desire Realm, and fourteen with the Form Realm (a biconditional,
+  so the nose and tongue Faculties stay). The prose theory keeps three
+  disjoint levels — Base, Principle, Realm: the Form Base gathers exactly
+  the ten Form-bearing Principles and is none of them, and the Form Realm
+  is not the Visible Form Principle though both are *rūpa-dhātu*.
+  Use `--start 31 --end 31 --strict` for the Formless and the Impure–Pure
+  cut: three Principles connected with the Formless, the fifteen dropped
+  being exactly the ten Form-natured Principles and the five Cognitions
+  taking them. Impure and Pure are predicated through instances: the three
+  have both (Path for all three, the unconditioned for the Dharma Principle
+  alone), the fifteen only Impure. The Dharma Principle is not the Dharma
+  Essence; Principle, Essence, and Realm levels are disjoint.
+  Use `--start 32 --end 32 --strict` for vitarka and vicāra: restrictive
+  *hi* (a `RESTR` feature) makes the five Cognition Principles exclusively
+  "with both"; *tri-prakāra* gives the last three at least three kinds; the
+  ten have only "without both". The prose relates kinds to portions and
+  levels and finds the fourth kind (vicāra alone with vitarka) inside the
+  Dharma Principle, so a level with both has four kinds.
   Strict mode checks token annotation, dependency vocabulary coverage,
   semantic closure, reuse in the theory, symbol declarations, and expected
   truth values. Dependency coverage is not dependency parsing: the block

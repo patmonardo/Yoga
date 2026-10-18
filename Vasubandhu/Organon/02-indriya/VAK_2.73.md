@@ -87,8 +87,8 @@ trainee through decline. Form-afflicted consciousness acquires six: its
 three Form kinds and desire-unobscured through return, plus
 formless-afflicted and trainee through decline. Formless-afflicted acquires
 two, itself and trainee, through decline. Form-wholesome acquires three:
-itself and desire- and Form-unobscured. Trainee acquires four: itself,
-desire- and Form-unobscured, and formless wholesome upon dispassion from
+itself and desire- and form-unobscured. Trainee acquires four: itself,
+desire- and form-unobscured, and formless wholesome upon dispassion from
 desire and Form through the Path. For every remaining kind, acquisition is
 of that consciousness itself and no other. The prose also gives broader
 totals and summarizes acquisition at rebirth, attainment, dispassion,

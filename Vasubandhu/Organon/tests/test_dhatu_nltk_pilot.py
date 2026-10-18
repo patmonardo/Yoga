@@ -47,7 +47,7 @@ def satisfies(valuation, formula):
 
 class DhatuPilotTests(unittest.TestCase):
     def test_pilot_passes_strict_audit_and_semantic_typecheck(self):
-        for number in range(1, 27):
+        for number in range(1, 33):
             with self.subTest(verse=number):
                 text = study(number)
                 self.assertEqual(check_grammar(text, strict=True)[1], [])
@@ -137,6 +137,30 @@ class DhatuPilotTests(unittest.TestCase):
              "COLL[CASE=nom,NUM=sg,GEN=n,SEM=<"),
             (26, "TOPICS[CASE=gen,NUM=pl,SEM=<",
              "TOPICS[CASE=loc,NUM=pl,SEM=<"),
+            (27, "GERUNDIVE[CASE=nom,NUM=pl,GEN=m,SEM=<",
+             "GERUNDIVE[CASE=nom,NUM=sg,GEN=m,SEM=<"),
+            (27, "AMONG[CASE=loc,NUM=pl,SEM=<",
+             "AMONG[CASE=abl,NUM=pl,SEM=<"),
+            (28, "SUPPORTS[CASE=nom,NUM=pl,GEN=m,SEM=<",
+             "SUPPORTS[CASE=nom,NUM=sg,GEN=m,SEM=<"),
+            (28, "IMPURE[CASE=nom,NUM=sg,GEN=n,SEM=<",
+             "IMPURE[CASE=nom,NUM=sg,GEN=m,SEM=<"),
+            (29, "NAME[CASE=nom,NUM=sg,GEN=n,SEM=<",
+             "NAME[CASE=nom,NUM=sg,GEN=m,SEM=<"),
+            (29, "EXCL[CASE=nom,NUM=pl,GEN=m,SEM=<",
+             "EXCL[CASE=nom,NUM=sg,GEN=m,SEM=<"),
+            (30, "EXCL[CASE=ins,SEM=<",
+             "EXCL[CASE=abl,SEM=<"),
+            (30, "OTHERS[CASE=nom,NUM=pl,GEN=m,SEM=<",
+             "OTHERS[CASE=nom,NUM=sg,GEN=m,SEM=<"),
+            (31, "THREE[CASE=nom,NUM=pl,GEN=m,SEM=<",
+             "THREE[CASE=nom,NUM=sg,GEN=m,SEM=<"),
+            (31, "IMP[CASE=nom,NUM=pl,GEN=m,SEM=<",
+             "IMP[CASE=nom,NUM=pl,GEN=n,SEM=<"),
+            (32, "TRI[CASE=nom,NUM=pl,GEN=m,SEM=<",
+             "TRI[CASE=nom,NUM=sg,GEN=m,SEM=<"),
+            (32, "HI[RESTR=yes] -> 'hi'",
+             "HI[RESTR=no] -> 'hi'"),
         )
         for number, before, after in changes:
             with self.subTest(verse=number):
@@ -1017,6 +1041,161 @@ class DhatuPilotTests(unittest.TestCase):
         )))
         collections = {x for (x,) in valuation["DharmaCollection"]}
         self.assertFalse(collections & {x for (x,) in valuation["Base"]})
+
+    def test_assignment_requires_determination_and_established_place(self):
+        valuation, formula = valuation_and_formula(27)
+        self.assertTrue(satisfies(valuation, formula))
+        for x, k in list(valuation["DeterminedBeforeAssignment"])[:4]:
+            changed = Valuation(list(valuation.items()))
+            changed["DeterminedBeforeAssignment"] = (
+                valuation["DeterminedBeforeAssignment"] - {(x, k)}
+            )
+            self.assertFalse(satisfies(changed, formula), x)
+        for place in ("rupa_skandha", "dharma_ayatana"):
+            changed = Valuation(list(valuation.items()))
+            changed["Established"] = valuation["Established"] - {(place,)}
+            self.assertFalse(satisfies(changed, formula), place)
+        assigned = valuation["ToBeAssigned"]
+        places = lambda x: {p for y, p in assigned if y == x}
+        for attended, principal in valuation["AttendedOf"]:
+            self.assertTrue(places(principal) < places(attended), attended)
+        nonpercipient = places("asamjnisattva")
+        self.assertEqual(len(nonpercipient), 10)
+        self.assertFalse(nonpercipient & {"gandha_ayatana", "rasa_ayatana"})
+        self.assertEqual(valuation["CognitionOccurring"], set())
+        self.assertEqual(places("sila_coll"), {"rupa_skandha"})
+
+    def test_six_principles_map_four_one_one_without_new_principle(self):
+        valuation, formula = valuation_and_formula(28)
+        self.assertTrue(satisfies(valuation, formula))
+        members = {x for (x,) in valuation["InSixfold"]}
+        self.assertEqual(len(members), 6)
+        targets = {}
+        for x, t in valuation["IncludedIn"]:
+            targets.setdefault(t, set()).add(x)
+        self.assertEqual(sorted(len(v) for v in targets.values()), [1, 1, 4])
+        self.assertEqual(targets["sprastavya_dhatu"], {"earth_m", "water_m", "fire_m", "wind_m"})
+        self.assertEqual(targets["rupa_dhatu"], {"opening_m"})
+        for predicate, item in (
+            ("ReportedNature", ("opening_m", "aloka_tamas")),
+            ("Impure", ("impure_cognition_m",)),
+            ("SupportOfBirth", ("earth_m",)),
+        ):
+            changed = Valuation(list(valuation.items()))
+            changed[predicate] = valuation[predicate] - {item}
+            self.assertFalse(satisfies(changed, formula), item)
+        self.assertTrue(satisfies(valuation, Expression.fromstring(
+            "exists z.(Pure(z) & Cognition(z) & -Unconditioned(z) & -Named(z,cognition_principle))"
+        )))
+        self.assertFalse(satisfies(valuation, Expression.fromstring(
+            "exists x.(Named(x,space_principle) & Unconditioned(x))"
+        )))
+
+    def test_three_counts_are_extensional_and_resistance_cross_classifies(self):
+        valuation, formula = valuation_and_formula(29)
+        self.assertTrue(satisfies(valuation, formula))
+        self.assertEqual(len(valuation["AmongEighteen"]), 18)
+        self.assertEqual(len(valuation["Visible"]), 1)
+        self.assertEqual(len(valuation["Resistant"]), 10)
+        self.assertEqual(len(valuation["OnlyIndeterminate"]), 8)
+        self.assertTrue(valuation["OnlyIndeterminate"] < valuation["Resistant"])
+        for predicate, item in (
+            ("Visible", ("sabda_d",)),
+            ("OnlyIndeterminate", ("sabda_d",)),
+            ("Resistant", ("mano_d",)),
+        ):
+            changed = Valuation(list(valuation.items()))
+            changed[predicate] = valuation[predicate] | {item}
+            self.assertFalse(satisfies(changed, formula), item)
+        not_a_base = Expression.fromstring("-AmongEighteen(form_base) & -Visible(form_base)")
+        self.assertTrue(satisfies(valuation, not_a_base))
+        changed = Valuation(list(valuation.items()))
+        changed["Visible"] = valuation["Visible"] | {("rupa_skandha",)}
+        self.assertTrue(satisfies(changed, formula))
+        self.assertFalse(satisfies(changed, not_a_base))
+        obstruction = valuation["ObstructionResistant"]
+        condition = valuation["ConditionResistant"]
+        items = valuation["Item"]
+        self.assertEqual(len(items), 19)
+        self.assertEqual(len(condition - obstruction), 8)
+        self.assertEqual(len(obstruction - condition), 5)
+        self.assertEqual(len(obstruction & condition), 5)
+        self.assertEqual(len(items - obstruction - condition), 1)
+        self.assertTrue(valuation["SupportResistant"] <= condition)
+        self.assertEqual(condition - valuation["SupportResistant"],
+                         valuation["SenseFaculty"])
+
+    def test_realm_counts_keep_base_principle_and_realm_levels_apart(self):
+        valuation, formula = valuation_and_formula(30)
+        self.assertTrue(satisfies(valuation, formula))
+        eighteen = valuation["AmongEighteen"]
+        others = eighteen - valuation["OnlyIndeterminate"]
+        self.assertEqual(len(others), 10)
+        self.assertTrue(others <= valuation["Threefold"])
+        realm = lambda r: {x for x, y in valuation["ConnectedWith"] if y == r}
+        self.assertEqual(len(realm("kama_dhatu")), 18)
+        self.assertEqual(len(realm("rupa_dhatu_realm")), 14)
+        self.assertTrue({"ghrana_d", "jihva_d", "sprastavya_d"} <= realm("rupa_dhatu_realm"))
+        self.assertFalse({"gandha_d", "rasa_d", "ghranavijnana_d", "jihvavijnana_d"} & realm("rupa_dhatu_realm"))
+        levels = [valuation[p] for p in ("BaseLevel", "PrincipleLevel", "RealmLevel")]
+        for a in range(3):
+            for b in range(a + 1, 3):
+                self.assertFalse(levels[a] & levels[b])
+        gathered = {x for x, base in valuation["GatheredIn"] if base == valuation["form_base"]}
+        self.assertEqual(gathered, {x for (x,) in valuation["FormBearing"]})
+        self.assertNotIn((valuation["form_base"],), eighteen)
+        self.assertNotEqual(valuation["form_realm"], valuation["visible_form"])
+        changed = Valuation(list(valuation.items()))
+        changed["ConnectedWith"] = valuation["ConnectedWith"] - {("ghrana_d", "rupa_dhatu_realm")}
+        self.assertFalse(satisfies(changed, formula))
+
+    def test_formless_three_and_instance_level_purity(self):
+        valuation, formula = valuation_and_formula(31)
+        self.assertTrue(satisfies(valuation, formula))
+        formless = {x for x, r in valuation["ConnectedWith"] if r == valuation["formless_realm"]}
+        self.assertEqual(formless, {"mano_d", "dharma_d", "manovijnana_d"})
+        fifteen = {x for (x,) in valuation["AmongEighteen"]} - formless
+        self.assertEqual(len(fifteen), 15)
+        form_natured = {x for (x,) in valuation["FormNatured"]}
+        taking = {x for y, x in valuation["SupportAndCondition"] if y in form_natured}
+        self.assertEqual(fifteen, form_natured | taking)
+        pure_of = lambda p: {i for i, x in valuation["InstanceOf"] if x == p and (i,) in valuation["Pure"]}
+        for principle in formless:
+            self.assertTrue(pure_of(principle), principle)
+        for principle in fifteen:
+            self.assertFalse(pure_of(principle), principle)
+        unconditioned = {i for (i,) in valuation["Unconditioned"]}
+        self.assertTrue(unconditioned and unconditioned <= pure_of("dharma_d"))
+        self.assertNotEqual(valuation["dharma_principle"], valuation["dharma_essence"])
+        changed = Valuation(list(valuation.items()))
+        changed["HasPureInstance"] = valuation["HasPureInstance"] | {("rupa_d",)}
+        self.assertFalse(satisfies(changed, formula))
+        link = Expression.fromstring(
+            "all x.(HasPureInstance(x) <-> exists i.(InstanceOf(i,x) & Pure(i)))"
+        )
+        self.assertTrue(satisfies(valuation, link))
+        changed = Valuation(list(valuation.items()))
+        changed["Pure"] = valuation["Pure"] | {("rupa_d_imp",)}
+        self.assertFalse(satisfies(changed, link))
+
+    def test_kinds_run_by_portion_and_level_with_a_fourth_kind(self):
+        valuation, formula = valuation_and_formula(32)
+        self.assertTrue(satisfies(valuation, formula))
+        groups = [valuation[p] for p in ("FiveCognition", "LastThree", "FormNatured")]
+        self.assertEqual(sum(len(g) for g in groups), 18)
+        self.assertEqual(groups[0] | groups[1] | groups[2], valuation["AmongEighteen"])
+        kinds = lambda x: {k for y, k in valuation["Kind"] if y == x}
+        self.assertEqual(len(kinds("dharma_d")), 4)
+        self.assertEqual(len(kinds("mano_d")), 3)
+        self.assertEqual(len(kinds("manovijnana_d")), 3)
+        for (level,) in valuation["BothLevel"]:
+            present = {k for _, l, k in valuation["KindAt"] if l == level}
+            self.assertEqual(len(present), 4, level)
+        for item in ("vitarka_i", "vicara_i"):
+            self.assertNotIn("both_k", {k for i, _, k in valuation["KindAt"] if i == item})
+        changed = Valuation(list(valuation.items()))
+        changed["Kind"] = valuation["Kind"] | {("caksurvijnana_d", "neither_k")}
+        self.assertFalse(satisfies(changed, formula))
 
 
 if __name__ == "__main__":

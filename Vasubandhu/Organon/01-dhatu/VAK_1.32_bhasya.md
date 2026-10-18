@@ -57,25 +57,25 @@ Word division is editorial. The question why the five are called non-discriminat
 
 > How many are with vitarka and with vicāra? How many are without vitarka and with vicāra alone? How many are without vitarka and without vicāra?
 >
-> The five cognition-principles are with vitarka and with vicāra.
+> The five Cognition Principles are with vitarka and with vicāra.
 >
-> The five cognition-principles are always associated with vitarka and vicāra. The word hi has the force of restriction.
+> The five Cognition Principles are always associated with vitarka and vicāra. The word hi has the force of restriction.
 >
 > The last three are of three kinds.
 >
-> The last are the mind-principle, the dharma-principle, and the mind-cognition principle. Of them, the mind-principle, the mind-cognition principle, and the associated dharma-principle other than vitarka and vicāra, are with vitarka and with vicāra in the desire realm and the first concentration. In the intermediate concentration they are without vitarka and with vicāra alone. From the second concentration through the summit of existence they are without vitarka and without vicāra.
+> The last are the Mind Principle, the Dharma Principle, and the Mind-Cognition Principle. Of them, the Mind Principle, the Mind-Cognition Principle, and the associated Dharma Principle other than vitarka and vicāra, are with vitarka and with vicāra in the Desire Realm and the first concentration. In the intermediate concentration they are without vitarka and with vicāra alone. From the second concentration through the summit of existence they are without vitarka and without vicāra.
 >
-> And the whole unassociated dharma-principle, and vicāra in the intermediate concentration, are without both.
+> And the whole unassociated Dharma Principle, and vicāra in the intermediate concentration, are without both.
 >
 > Vitarka itself, however, is always without vitarka and with vicāra alone, because there is no second vitarka, and because of association with vicāra.
 >
-> Vicāra in the desire realm and the first concentration does not fall within these three kinds. How is it to be stated? Without vicāra and with vitarka alone, because there is no second vicāra, and because of association with vitarka.
+> Vicāra in the Desire Realm and the first concentration does not fall within these three kinds. How is it to be stated? Without vicāra and with vitarka alone, because there is no second vicāra, and because of association with vitarka.
 >
-> For this reason it is said: on a level with vitarka and with vicāra, dharmas may be of four kinds. Associated dharmas other than vicāra and vitarka are with both. Vitarka is without vitarka and with vicāra alone. Unassociated dharmas are without both. Vicāra is without vicāra and with vitarka alone.
+> For this reason it is said: on a level with vitarka and with vicāra, Dharmas may be of four kinds. Associated Dharmas other than vicāra and vitarka are with both. Vitarka is without vitarka and with vicāra alone. Unassociated Dharmas are without both. Vicāra is without vicāra and with vitarka alone.
 >
 > The rest are without both.
 >
-> The remaining ten principles, whose nature is form, are always without vitarka and without vicāra, because they are not associated.
+> The remaining ten Principles, whose nature is Form, are always without vitarka and without vicāra, because they are not associated.
 
 ## 4. Movement
 
@@ -83,18 +83,31 @@ The question sets three classes. The verse answers with the five, the last three
 
 ## 5. Decisions
 
-1. The five cognition-principles are always with both. Hi restricts.
-2. The last three are mind-principle, dharma-principle, and mind-cognition principle.
+1. The five Cognition Principles are always with both. Hi restricts.
+2. The last three are Mind Principle, Dharma Principle, and Mind-Cognition Principle.
 3. Those three, in the associated portion other than the pair, take both, or vicāra alone, or neither, by the level.
-4. The unassociated dharma-principle is without both.
+4. The unassociated Dharma Principle is without both.
 5. Vitarka is with vicāra alone. Vicāra in desire and the first concentration is with vitarka alone.
 6. On a level with both, dharmas are of four kinds, not three.
-7. The remaining ten, whose nature is form, are always without both, because they are not associated.
+7. The remaining ten, whose nature is Form, are always without both, because they are not associated.
 
 ## 6. Interpretation
 
-The pair is how the last three run the wheel. Desire and the first concentration still have both. The intermediate drops vitarka and keeps vicāra. From the second concentration to the summit, neither. The five cognitions do not get that range. They are the desireling's present, and they are always with both. The ten whose nature is form do not associate, so the pair never reaches them. The page does not print the wheel. The page prints the three kinds and the four.
+The pair is how the last three run the wheel. Desire and the first concentration still have both. The intermediate drops vitarka and keeps vicāra. From the second concentration to the summit, neither. The five Cognitions do not get that range. They are the desireling's present, and they are always with both. The ten whose nature is Form do not associate, so the pair never reaches them. The page does not print the wheel. The page prints the three kinds and the four.
+
+The engine reading: kind is a relation between a Principle, through its
+portions, and a level. *Hi* makes the five exclusive; *tri-prakāra* gives
+the last three at least three kinds; the ten have only "without both". The
+fourth kind appears when the pair is turned on itself: vitarka has no
+second vitarka, vicāra no second vicāra, so on a level with both each is
+"with the other alone". Both live inside the Dharma Principle, which
+therefore has four kinds while the Mind and Mind-Cognition Principles have
+three. The quoted fourfold rule clarifies the verse; it does not alter it.
 
 ## 7. Review Status
 
-Upgraded reading of the thirty-second study. Scheme checked: cognition is vijñāna; principle is dhātu; the dharma-principle is not an essence. 1.33 not opened.
+Upgraded with the paired kārikā study: Bhāṣya-informed anchor matched
+exactly; terminology capitalized (Principle, Cognition, Dharma, Form,
+Desire Realm). The kārikā now carries a FeatureChart parse with derived SEM,
+a prose theory of kinds by portion and level, and six rejected theories
+checked false on the finite valuation. 1.33 not opened.

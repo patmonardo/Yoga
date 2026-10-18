@@ -33,21 +33,21 @@ The commentary extends the eighty thousand into the rule, then applies it. Princ
 > manodharmāyatanābhyām / evaṃ bahudhātuke 'pi dvāṣaṣṭir dhātavo
 > deśitāḥ / teṣāṃ yathāyogaṃ saṃgraho veditavyaḥ /
 
-The unit begins with the comparison at printed location 017.20–21 and ends with the sixty-two principles at 018.08–09. The next question opens 1.28.
+The unit begins with the comparison at printed location 017.20–21 and ends with the sixty-two Principles at 018.08–09. The next question opens 1.28.
 
 Word division and punctuation are editorial. The running source's `opratipāditāni`, `pratiopādyāḥ`, `asmiṃacchāstre`, `saṃpradharya`, and `gandharsāyatana` are normalized to `pratipāditāni`, `pratipādyāḥ`, `asmiñ śāstre`, `saṃpradhārya`, and `gandharasāyatana`. `Aṣṭāvalobha` is divided as `aṣṭāv alobha`. The compressed sound-mind-dharma instrumental is read as one plural. The five-member compound is retained as transmitted. Liberation is not repeated before knowledge-and-vision in the running compound. That relation is supplied in the translation. It is not inserted into the Sanskrit.
 
 ## 3. Continuous Conventional Translation
 
-> Just as these eighty thousand dharma-collections have been placed in these very five bases, so other bases, essences, and principles stated in other sūtras are to be assigned among those already stated, having determined each one's own characteristic as set out in this treatise.
+> Just as these eighty thousand Dharma-collections have been placed in these very five Bases, so other Bases, Essences, and Principles stated in other sūtras are to be assigned among those already stated, having determined each one's own characteristic as set out in this treatise.
 >
-> Of the five collections — discipline, concentration, wisdom, liberation, and knowledge-and-vision — the discipline-collection is included in the form-base. The remaining four are included in the formations-base.
+> Of the five collections — discipline, concentration, wisdom, liberation, and knowledge-and-vision — the discipline-collection is included in the Form Base. The remaining four are included in the Formations Base.
 >
-> Of the ten totalities, eight, being non-greed by nature, are included in the dharma-essence. Together with their attendants, being five bases by nature, they are included in the mind-essence and the dharma-essence. So too the masteries.
+> Of the ten totalities, eight, being non-greed by nature, are included in the Dharma Essence. Together with their attendants, being five Bases by nature, they are included in the Mind Essence and the Dharma Essence. So too the masteries.
 >
-> The totalities of infinite space and infinite cognition, and the four attainments beginning with infinite space, are four bases by nature, and are included in the mind-essence and the dharma-essence. The five liberations, being wisdom by nature, are included in the dharma-essence. Together with their attendants, they are included in the sound-essence, the mind-essence, and the dharma-essence.
+> The totalities of infinite space and infinite cognition, and the four attainments beginning with infinite space, are four Bases by nature, and are included in the Mind Essence and the Dharma Essence. The five liberations, being wisdom by nature, are included in the Dharma Essence. Together with their attendants, they are included in the Sound Essence, the Mind Essence, and the Dharma Essence.
 >
-> Of the two further cases, non-percipient beings are included in ten essences, smell and taste being absent. Beings in neither-perception-nor-non-perception are included in the mind-essence and the dharma-essence. In the discourse of many principles, sixty-two principles are taught. Their inclusion is to be known as appropriate.
+> Of the two further cases, non-percipient beings are included in ten Essences, Odor and Taste being absent. Beings in neither-perception-nor-non-perception are included in the Mind Essence and the Dharma Essence. In the discourse of many Principles, sixty-two Principles are taught. Their inclusion is to be known as appropriate.
 
 ## 4. Movement
 
@@ -57,15 +57,15 @@ Determination precedes assignment. The commentary then distinguishes principal n
 
 | Case | Principal | With attendants |
 |---|---|---|
-| eight totalities | non-greed; dharma-essence | five bases; mind-essence and dharma-essence |
+| eight totalities | non-greed; Dharma Essence | five Bases; Mind Essence and Dharma Essence |
 | masteries | likewise | likewise |
-| five liberations | wisdom; dharma-essence | sound-essence, mind-essence, dharma-essence |
+| five liberations | wisdom; Dharma Essence | Sound Essence, Mind Essence, Dharma Essence |
 
-Infinite space, infinite cognition, and the four attainments are four bases, and take the mind-essence and the dharma-essence. Non-percipient beings take ten essences. Smell and taste are absent. The sentence does not say a cognition is occurring. Classification and current operation stay distinct.
+Infinite space, infinite cognition, and the four attainments are four Bases, and take the Mind Essence and the Dharma Essence. Non-percipient beings take ten Essences. Odor and Taste are absent. The sentence does not say a cognition is occurring. Classification and current operation stay distinct.
 
 ## 6. Decisions
 
-1. The eighty thousand are the model: already placed in the five bases.
+1. The eighty thousand are the model: already placed in the five Bases.
 2. Own-characteristic is determined as set out in this treatise, then the assignment.
 3. Attendants change the scope. They do not add a system.
 4. The running compound does not repeat liberation before knowledge-and-vision.
@@ -73,10 +73,12 @@ Infinite space, infinite cognition, and the four attainments are four bases, and
 
 ## 7. Interpretation
 
-A scriptural name poses the problem. The own-characteristic answers it. The five, the twelve, and the eighteen remain the places. The form system does not grow.
+A scriptural name poses the problem. The own-characteristic answers it. The five, the twelve, and the eighteen remain the places. The classification does not grow.
+
+This is the assignment function of the classification engine: name, then own-characteristic, then established place. Determination is a precondition. Scope is a parameter of the input, principal or attended, not a change of the target system.
 
 ## 8. Review Status
 
-Synced to the verse study. Older labels withdrawn. 1.28 not opened.
+Upgraded reading of the twenty-seventh Bhāṣya study. Bases, Essences, Principles, Form Base, Formations Base, and the named Essences are capitalized as protocol terms; smell is rendered Odor, as elsewhere. The kārikā logic derives a universal assignment rule: every designation from another sūtra has an own-characteristic determined before assignment, fitting an established place. The prose theory keeps principal and attended scope distinct, the ten Essences of non-percipient beings without Odor and Taste, classification apart from occurring Cognition, and the sixty-two unenumerated. 1.28 not opened.
 
-Scheme checked: cognition is vijñāna; principle is dhātu. Infinite cognition is not an infinite principle.
+Scheme checked: Cognition is vijñāna; Principle is dhātu. Infinite cognition is not an infinite Principle.

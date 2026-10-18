@@ -24,12 +24,14 @@ INSTRUCTIONS = (
 LEGACY_TERMS = (
     # Capitalised Element(s) is the mandated rendering of bhūta.
     ("lowercase element", re.compile(r"\belement(?:s|al)?\b")),
+    # dhātu is never Element; "Element Principle" (a Principle of an
+    # Element) is allowed because Principle still renders dhātu.
     (
         "dhatu compound rendered as Element",
         re.compile(
             r"\b(?:eye|ear|nose|tongue|body|mind|form|visible|sound|odou?r"
             r"|taste|tangible|dharma|cognition|earth|water|fire|wind"
-            r"|eighteen|six)[- ]Elements?\b|\bElement[- ]?Principles?\b",
+            r"|eighteen|six)[- ]Elements?\b",
             re.I,
         ),
     ),
