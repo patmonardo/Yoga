@@ -36,7 +36,7 @@ Bhāṣya. Neither “all” nor “both” may be left as a vague universal.
 
 **`kāmāpta`**
 
-The Bhāṣya explicitly identifies the desire-realm restraint here with
+The Bhāṣya explicitly identifies the Desire Realm restraint here with
 prātimokṣa restraint:
 
 ```text
@@ -44,7 +44,7 @@ kāma-āpta saṃvara
     = prātimokṣa-saṃvara
 ```
 
-This restraint is acquired through an undertaking in the desire-realm field
+This restraint is acquired through an undertaking in the Desire Realm field
 of embodied conduct.
 
 **The range of `sarva`**
@@ -117,7 +117,7 @@ belonging to all three times.
 
 ## 4. Grammar
 
-**Desire-realm restraint**
+**Desire Realm restraint**
 
 ```text
 kāma-āptaḥ [saṃvaraḥ]
@@ -126,7 +126,7 @@ vartamānebhyaḥ
 āpyate
 ```
 
-> Desire-realm restraint is acquired, from present bases, with respect to all
+> Desire Realm restraint is acquired, from present bases, with respect to all
 > [three stages] and both [classes].
 
 The singular passive `āpyate` agrees with the understood singular `saṃvaraḥ`.
@@ -165,19 +165,19 @@ present act is already occurring.
 ## 5. Translation
 
 ### Literal Translation
-> Desire-realm restraint is acquired, from present bases, with respect to all
+> Desire Realm restraint is acquired, from present bases, with respect to all
 > and both. Meditation-born and uncontaminated restraint are acquired with
 > respect to root [karmapathas], from bases belonging to all times.
 
 ### Bhāṣya-informed study translation
 
-> Desire-realm restraint is acquired from presently existing Bases, Essences,
+> Desire Realm restraint is acquired from presently existing Bases, Essences,
 > and Principles, across all three stages and both kinds; meditation-born and
 > uncontaminated restraint are acquired from root acts in all three times.
 
 ## 6. Philosophical Translation
 
-> Desire-realm restraint is acquired, from present bases, with respect to all and both. Meditation-born and uncontaminated restraint are acquired with respect to root [karmapathas], from bases belonging to all times.
+> Desire Realm restraint is acquired, from present bases, with respect to all and both. Meditation-born and uncontaminated restraint are acquired with respect to root [karmapathas], from bases belonging to all times.
 
 ## 7. Technical Vocabulary
 
@@ -185,7 +185,7 @@ present act is already occurring.
 
 ```text
 prātimokṣa-saṃvara
-    desire-realm undertaking
+    Desire Realm undertaking
 
 dhyāna-saṃvara
     born from meditative attainment

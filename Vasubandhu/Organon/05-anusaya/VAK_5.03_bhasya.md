@@ -34,7 +34,7 @@ darśanaprahātavyā dvātriṃśat. katame ta ity āha:
 This unit begins with the transitional question at [279|13–14] and
 ends at [279|23] in `Vasubandhu/Sources/kosabhasya.txt`. The next
 verse answers `katame taḥ` with the detailed thirty-twofold
-desire-realm enumeration. Spacing and punctuation above are editorial.
+Desire Realm enumeration. Spacing and punctuation above are editorial.
 The running source misnumbers the line containing `yathā
 dṛṣṭisvabhāvāḥ` as [278|18–19] and transmits the rough
 `rāgahpratidhho`. Its `yathā` appears to require a negative for the
@@ -55,11 +55,11 @@ ignorance, and doubt are the other five [the source's connecting
 word is uncertain].
 
 These ten anuśayas, again, are made ninety-eight in the Abhidharma:
-thirty-six belonging to the desire-realm, thirty-one to the
-form-realm, and thirty-one to the formless-realm. How? In summary,
+thirty-six belonging to the Desire Realm, thirty-one to the
+Form Realm, and thirty-one to the Formless Realm. How? In summary,
 the anuśayas of the three domains are to be abandoned either through
 seeing or through cultivation. Among those belonging to the
-desire-realm, thirty-two are to be abandoned through seeing. Which
+Desire Realm, thirty-two are to be abandoned through seeing. Which
 are they? The next verse states them.
 
 ## 4. Argument and Doctrinal Determination

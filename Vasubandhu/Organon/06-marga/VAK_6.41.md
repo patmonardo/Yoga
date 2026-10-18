@@ -15,7 +15,7 @@ sa cordhva-jaś ca naivākṣa-saṃcāra-parihāṇi-bhāk || 6.41 ||
 ```
 
 The verse restricts what may follow another Noble birth in the
-desire-realm, then excludes faculty transfer and regression for that
+Desire Realm, then excludes faculty transfer and regression for that
 practitioner and a Noble born in a higher realm.
 
 ## 3. Lexical Analysis
@@ -38,36 +38,36 @@ na | parāvṛtta-janmā | āryaḥ | kāme | dhātu-antara-upagaḥ |
 saḥ | ca | ūrdhva-jaḥ | ca | na | eva | akṣa-saṃcāra-parihāṇi-bhāk
 ```
 
-The first line concerns another birth within the desire-realm. The
-Bhāṣya contrasts a form-realm Noble who may still enter the formless
+The first line concerns another birth within the Desire Realm. The
+Bhāṣya contrasts a Form Realm Noble who may still enter the formless
 realm, so the domain restriction must remain local.
 
 ## 4. Grammar
 
 In the first line, **kāme** locates **parāvṛtta-janmā āryaḥ**: “the Noble who has undergone another birth in the desire realm.” The negated predicate is **dhātvantaropagaḥ**: such a practitioner does not subsequently go to another realm.
 
-In the second line, the correlatives **saḥ ca ... ūrdhvajaḥ ca** join two subjects—the desire-realm Noble after another birth and the Noble born in an upper realm. Both fall under **na eva ... bhāk**. The compound coordinates **akṣasaṃcāra** and **parihāṇi** as excluded possibilities.
+In the second line, the correlatives **saḥ ca ... ūrdhvajaḥ ca** join two subjects—the Desire Realm Noble after another birth and the Noble born in an upper realm. Both fall under **na eva ... bhāk**. The compound coordinates **akṣasaṃcāra** and **parihāṇi** as excluded possibilities.
 
 The kārikā states the exclusions. Greater faculty-maturity and acquisition of a superior support as their causes belong to the Bhāṣya.
 
 **Future Feature Grammar sketch (not executable):**
 
 ```text
-NOBLE[BIRTH=another-within-desire-realm]
+NOBLE[BIRTH=another-within-Desire Realm]
   → REALM-TRANSFER=excluded
-NOBLE[BIRTH=another-within-desire-realm|higher-realm]
+NOBLE[BIRTH=another-within-Desire Realm|higher-realm]
   → FACULTY-TRANSFER=excluded, REGRESSION=excluded
 ```
 
 The prose explains the second rule through ripened faculties and a
-superior basis; the first rule is expressly scoped to the desire-realm
+superior basis; the first rule is expressly scoped to the Desire Realm
 case.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> A Noble who has undergone another birth in the desire-realm does not
+> A Noble who has undergone another birth in the Desire Realm does not
 > enter another realm. Neither that practitioner nor a Noble born above
 > undergoes faculty transfer or falling away.
 
@@ -83,7 +83,7 @@ Irreversibility is therefore not imposed as an external prohibition. It is the p
 
 ## 7. Technical Vocabulary
 
-**`Parāvṛtta-janman / kāmadhātu` — another birth in the desire-realm**
+**`Parāvṛtta-janman / kāmadhātu` — another birth in the Desire Realm**
 
 Immediately before the kārikā, the Bhāṣya states that a Noble who undergoes another birth in the desire realm does not afterward go to a different realm. Upon attaining non-returning, this practitioner reaches final nirvāṇa in that same life.
 
@@ -91,7 +91,7 @@ This restriction does not apply identically to every higher-born Noble. The summ
 
 **`Ūrdhva-ja` — higher-born Noble**
 
-The **higher-born** Noble has been reborn in an upper realm. Together with the desire-realm Noble after another birth, this practitioner has crossed a maturation threshold that excludes faculty-transfer and falling away.
+The **higher-born** Noble has been reborn in an upper realm. Together with the Desire Realm Noble after another birth, this practitioner has crossed a maturation threshold that excludes faculty-transfer and falling away.
 
 **`Indriya-saṃcāra` — faculty transfer**
 
@@ -125,7 +125,7 @@ greater faculty-maturity
 
 **`Vītarāga / asaṃmukhībhāva` — desire-detachment and absent Path**
 
-The subsequent Bhāṣya asks why a trainee already free from desire does not necessarily attain final nirvāṇa in the intermediate existence. The Vaibhāṣika answer is that the Path may remain unmastered or not actually present, the latent tendencies may not be sufficiently weak, and the desire-realm current is difficult to cross.
+The subsequent Bhāṣya asks why a trainee already free from desire does not necessarily attain final nirvāṇa in the intermediate existence. The Vaibhāṣika answer is that the Path may remain unmastered or not actually present, the latent tendencies may not be sufficiently weak, and the Desire Realm current is difficult to cross.
 
 Much work can therefore remain:
 
@@ -176,7 +176,7 @@ In Organon terms, explicitly as project synthesis, maturation converts a previou
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya explains why the first restriction is local, cites Śakra's statement about Akaniṣṭha with a Vaibhāṣika response, and gives faculty maturation and a superior basis as grounds for the second restriction. Its later question about an already desire-detached trainee is answered by the Vaibhāṣikas and remains attributed to them. The Bhāṣya explains the realm restriction through the contrast with a form-realm Noble who may enter the formless realm; it also gives same-life non-return and final Nirvāṇa as the result in the desire realm. Its faculty-maturation explanation and exchange about a desire-detached trainee remain attributed to their speakers.
+**Translation note.** The Bhāṣya explains why the first restriction is local, cites Śakra's statement about Akaniṣṭha with a Vaibhāṣika response, and gives faculty maturation and a superior basis as grounds for the second restriction. Its later question about an already desire-detached trainee is answered by the Vaibhāṣikas and remains attributed to them. The Bhāṣya explains the realm restriction through the contrast with a Form Realm Noble who may enter the formless realm; it also gives same-life non-return and final Nirvāṇa as the result in the desire realm. Its faculty-maturation explanation and exchange about a desire-detached trainee remain attributed to their speakers.
 
 
 VAK 6.40 defined the strict good course through irreversible wholesome operation. VAK 6.41 now gives that irreversibility a causal morphology: faculty becomes mature and receives a superior support. The restriction on possible transitions is the result of positive development, not an arbitrary ban.

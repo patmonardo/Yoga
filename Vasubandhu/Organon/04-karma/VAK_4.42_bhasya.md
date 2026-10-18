@@ -60,8 +60,8 @@ with a careful asymmetry:
 
 | Dharma under discussion | Condition of loss |
 |---|---|
-| Desire-realm wholesome, non-Form | Severance of wholesome roots |
-| Desire-realm wholesome, non-Form | Rebirth in a higher realm |
+| Desire Realm wholesome, non-Form | Severance of wholesome roots |
+| Desire Realm wholesome, non-Form | Rebirth in a higher realm |
 | Defiled, non-Form | Arising of the specific counteragent |
 
 The first condition cuts a sustaining wholesome root; the second

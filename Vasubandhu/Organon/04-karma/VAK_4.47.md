@@ -275,7 +275,7 @@ This is the Organon contact. The distribution, restriction of `iha`, and
 > Karma matures not only in a determinate realm and level but through a
 > determinate mode of experience. Wholesome karma through the third dhyāna has
 > pleasure as the characteristic feeling of its result; higher wholesome karma
-> has neither-painful-nor-pleasant feeling; Desire-Realm unwholesome karma has
+> has neither-painful-nor-pleasant feeling; Desire Realm unwholesome karma has
 > pain. Yet the experienced feeling is only the dominant determination by
 > which the concrete maturation-complex is named, not the totality of that
 > complex.

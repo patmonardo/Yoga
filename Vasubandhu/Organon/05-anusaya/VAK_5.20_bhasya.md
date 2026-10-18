@@ -5,7 +5,7 @@
 > kāme 'kuśala-mūlāni rāga-pratigha-mūḍhayaḥ |
 > trīṇy avyākṛta-mūlāni tṛṣṇāvidyā matiś ca sā || 5.20 ||
 
-> In the desire-realm, attachment, hostility, and delusion are roots of the
+> In the Desire Realm, attachment, hostility, and delusion are roots of the
 > unwholesome; the three roots of the ethically indeterminate are craving,
 > ignorance, and discriminative comprehension in its indeterminate form.
 
@@ -51,8 +51,8 @@ of `avyākṛta mūlāni` in the prose is also retained.
 ## 3. Continuous Conventional Translation
 
 How many are roots of the unwholesome, and how many are not?
-“In the desire-realm, attachment, hostility, and delusion are
-roots of the unwholesome.” In the desire-realm, all attachment,
+“In the Desire Realm, attachment, hostility, and delusion are
+roots of the unwholesome.” In the Desire Realm, all attachment,
 all hostility, and all delusion are included, except the delusion
 associated with self-view and extreme-view, respectively.
 

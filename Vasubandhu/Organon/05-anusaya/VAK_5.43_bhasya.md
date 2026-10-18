@@ -6,7 +6,7 @@
 > tribhis tu punarāvṛttir mukha-mūla-grahāt trayam || 5.43 ||
 
 > The lower-part fetters are fivefold. Through two, one does not pass
-> beyond the desire-realm; through three, however, one returns. The triad
+> beyond the Desire Realm; through three, however, one returns. The triad
 > is taught by taking the entrances and roots.
 
 ## 2. Continuous Sanskrit
@@ -71,7 +71,7 @@ of a gatekeeper and attendants.
 Others explain “lower” along two axes: the three prevent
 passing beyond the lower condition of a being, ordinary
 person status; the two prevent passing beyond the lower
-domain, the desire-realm. On this account too they are
+domain, the Desire Realm. On this account too they are
 called lower fetters.
 
 If a stream entrant's complete abandonment of the three
@@ -90,7 +90,7 @@ doubt. Thus the roots are taken.
 
 The first account distinguishes **retention** from **return**.
 Desire for sense objects and hostility hold one within the
-desire-realm; the other three can bring one back after
+Desire Realm; the other three can bring one back after
 passage beyond it. The gatekeeper comparison belongs to
 that account. The `apare` account instead distinguishes a
 lower condition of being (`pṛthagjanatva`) from a lower
@@ -119,7 +119,7 @@ review.
 ## 5. Translation and Interpretation
 
 **Translation decisions.** `Avarabhāga` is first identified
-with the desire-realm, then receives the `apare` reading
+with the Desire Realm, then receives the `apare` reading
 that also considers ordinary person status. `Mukha-mūla-
 graha` explains the teacher's selection of names; it does
 not say that these afflictions grasp entrances as objects.

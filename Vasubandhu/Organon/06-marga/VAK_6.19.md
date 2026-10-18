@@ -14,7 +14,7 @@ kāmāptaduḥkhaviṣayā tv adhimātrā kṣaṇaṃ ca sā |
 tathāgradharmāḥ sarve tu pañcaskandhā vināptibhiḥ || 6.19 ||
 ```
 
-Strong Acceptance contracts to desire-realm suffering for one moment. The
+Strong Acceptance contracts to Desire Realm suffering for one moment. The
 Highest Mundane Dharmas share this field and duration; the verse then
 classifies all four preparatory stages by their associated constitution.
 
@@ -22,7 +22,7 @@ classifies all four preparatory stages by their associated constitution.
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `kāmāptaduḥkhaviṣayā` | nominative singular feminine compound | having desire-realm suffering as cognitive field |
+| `kāmāptaduḥkhaviṣayā` | nominative singular feminine compound | having Desire Realm suffering as cognitive field |
 | `tu` | contrastive particle | distinguishes strong Acceptance from the preceding grades |
 | `adhimātrā` | nominative singular feminine | strong or highest Acceptance, with `kṣāntiḥ` understood |
 | `kṣaṇam` | accusative singular neuter used adverbially | for one moment |
@@ -37,7 +37,7 @@ classifies all four preparatory stages by their associated constitution.
 
 The Bhāṣya identifies `adhimātrā` as Acceptance and explains
 `vināptibhiḥ` by excluding `prāpti`. The verse's `viṣaya` is a cognitive
-field; the prose specifies desire-realm suffering as its `ālambana`,
+field; the prose specifies Desire Realm suffering as its `ālambana`,
 cognitive Condition.
 
 ## 4. Grammar
@@ -55,11 +55,11 @@ level.
 **Future Feature Grammar sketch (not executable):**
 
 ```text
-STAGE[NAME=strong-Acceptance, FIELD=desire-realm-suffering,
-      CONDITION=desire-realm-suffering, DURATION=one-moment]
+STAGE[NAME=strong-Acceptance, FIELD=Desire Realm-suffering,
+      CONDITION=Desire Realm-suffering, DURATION=one-moment]
   ← kāmāptaduḥkhaviṣayā + adhimātrā + kṣaṇaṃ ca sā
 STAGE[NAME=Highest-Mundane-Dharmas,
-      FIELD=desire-realm-suffering, DURATION=one-moment]
+      FIELD=Desire Realm-suffering, DURATION=one-moment]
   ← tathā + agradharmāḥ
 STAGE[SET=Heat+Summits+Acceptance+Highest-Mundane-Dharmas,
       NATURE=discriminative comprehension, COMPLETE-CONSTITUTION=five-Bases,
@@ -75,19 +75,19 @@ Model reflection.
 
 ### Literal Translation
 
-> Strong Acceptance takes desire-realm suffering as its cognitive field and
+> Strong Acceptance takes Desire Realm suffering as its cognitive field and
 > lasts one moment. The Highest Dharmas do likewise. All the preparatory
 > stages comprise five Bases when acquisitions are excluded.
 
 ### Bhāṣya-informed study translation
 
-> Strong Acceptance takes desire-realm suffering as its cognitive Condition
+> Strong Acceptance takes Desire Realm suffering as its cognitive Condition
 > and lasts one moment. So too do all the Highest Mundane Dharmas. All [these
 > stages] comprise five Bases without acquisitions.
 
 ## 6. Philosophical Translation
 
-> Strong Acceptance has narrowed its cognitive Condition to desire-realm
+> Strong Acceptance has narrowed its cognitive Condition to Desire Realm
 > suffering for one moment. The Highest Mundane Dharmas share that focus and
 > duration, reaching the limit of mundane cultivation. Their causal efficacy
 > draws in the Path without making them a homogeneous cause of that Path.
@@ -106,13 +106,13 @@ strong Acceptance: one Condition × one moment
 
 The highest grade of Acceptance, distinguished from weak and medium grades
 by its contracted Condition. The Bhāṣya describes the prior narrowing until
-only desire-realm suffering remains. This grade lasts one moment and is not
+only Desire Realm suffering remains. This grade lasts one moment and is not
 an extended sequence.
 
-**`Kāmāptaduḥkha-viṣaya` — desire-realm suffering as cognitive field**
+**`Kāmāptaduḥkha-viṣaya` — Desire Realm suffering as cognitive field**
 
 The verse's field predicate. The Bhāṣya expresses the same restriction as
-`kāmāvacara-duḥkha-ālambana`, taking desire-realm suffering as cognitive
+`kāmāvacara-duḥkha-ālambana`, taking Desire Realm suffering as cognitive
 Condition. `Viṣaya` and `ālambana` describe different roles of the same
 content; neither is the Organon's technical Object.
 
@@ -197,10 +197,10 @@ present manifestation from possession alone.
 ## 9. Interpretive Note
 
 
-**Translation note.** The Bhāṣya makes the desire-realm restriction explicit, distinguishes medium from strong Acceptance by the transition from two moments to one, explains how the Highest Mundane Dharmas draw in the Path without being its homogeneous cause, and gives the reason acquisitions are excluded.
+**Translation note.** The Bhāṣya makes the Desire Realm restriction explicit, distinguishes medium from strong Acceptance by the transition from two moments to one, explains how the Highest Mundane Dharmas draw in the Path without being its homogeneous cause, and gives the reason acquisitions are excluded.
 
 **The cognitive field contracts.** Strong Acceptance takes one truth within
-the desire-realm for one moment. The concentration of its Condition is a
+the Desire Realm for one moment. The concentration of its Condition is a
 specific stage determination, not a denial of the wider truth structure
 cultivated earlier.
 

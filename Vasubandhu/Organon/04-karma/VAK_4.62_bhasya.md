@@ -10,7 +10,7 @@
 > dhyānas serves to exhaust white karma.
 
 The prose specifies what the first half adds to 4.61: the ninth
-Desire-Realm path concerns both the mixed class and the final
+Desire Realm path concerns both the mixed class and the final
 remaining grade of black unwholesome karma.
 
 ## 2. Continuous Sanskrit Witness
@@ -61,7 +61,7 @@ object-directed affliction remains, its abandonment cannot occur.
 
 ## 4. Abandonment Is Not Intrinsic Destruction
 
-Two terminal moments are distinguished. The ninth Desire-Realm
+Two terminal moments are distinguished. The ninth Desire Realm
 uninterrupted path ends the mixed wholesome class and the ninth grade
 of black unwholesome karma. The final uninterrupted path for each of four dhyānas
 ends white karma associated with that level.

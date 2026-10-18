@@ -77,7 +77,7 @@ amalau ca
 
 The prose clarifies the complete contrast: the two counterforces may be
 contaminated or uncontaminated, whereas the two defects belong only to the
-desire-realm.
+Desire Realm.
 
 The nominal predication `alobhaḥ [anayoḥ svabhāvaḥ]` is completed by the
 Bhāṣya's explicit question about intrinsic nature. The final clause begins a
@@ -176,7 +176,7 @@ of desire's range, not merely the accidental fact of owning little.
 
 Contentment and fewness of desires may occur in the desire, form, and formless
 realms. Their scope is wider than that of the defects, which the Bhāṣya
-confines to the desire-realm.
+confines to the Desire Realm.
 
 **`Amala` — stainless or uncontaminated**
 
@@ -293,7 +293,7 @@ operative contraries.
 of desires according to whether it determines the possessed or unpossessed
 field. Identity of intrinsic nature does not erase difference of relation.
 
-**The counterforce exceeds the defect's range.** The defects are desire-realm
+**The counterforce exceeds the defect's range.** The defects are Desire Realm
 states, while their counterforces can belong throughout the three realms and
 can become uncontaminated. Path-capacity is not a mirror image restricted to
 the exact extension of what it opposes.

@@ -108,7 +108,7 @@ api arūpiṇām [asti]
 > Form Realms, excluding those born in the intermediate dhyāna and
 > non-percipient beings, and also among formless beings.
 
-The kārikā is elliptical. The Bhāṣya restores the Desire-and-Form-Realm range
+The kārikā is elliptical. The Bhāṣya restores the Desire-and-Form Realm range
 for `anāsrava` and explains how the exclusions attach. It then qualifies the
 final `arūpiṇām`: among formless beings the restraint exists by possession,
 not by present manifestation.
@@ -183,7 +183,7 @@ uncontaminated restraint among formless beings.
 **The exclusions**
 
 The intermediate-dhyāna and non-percipient births are excluded from the
-relevant Desire-and-Form-Realm distribution. The exclusion is functional:
+relevant Desire-and-Form Realm distribution. The exclusion is functional:
 the required cognitive and path conditions are not actualized there.
 
 ## 8. Logical Determination

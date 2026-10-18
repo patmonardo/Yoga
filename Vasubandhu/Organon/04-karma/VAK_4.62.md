@@ -56,7 +56,7 @@ what kind of abandonment applies to wholesome karma.
 
 ## 4. Grammar
 
-**The ninth Desire-Realm path**
+**The ninth Desire Realm path**
 
 ```text
 navame [kāma-vairāgya-ānantarya-mārge]
@@ -103,7 +103,7 @@ of the four dhyānas.
 
 ## 7. Technical Vocabulary
 
-**Completion of Desire-Realm abandonment**
+**Completion of Desire Realm abandonment**
 
 ```text
 first eight uninterrupted paths
@@ -111,12 +111,12 @@ first eight uninterrupted paths
 
 ninth uninterrupted path
     → abandons the ninth type of black unwholesome karma
-    → abandons Desire-Realm black-and-white wholesome karma
+    → abandons Desire Realm black-and-white wholesome karma
 ```
 
 The Bhāṣya explicitly calls the black target the ninth type; it does not
 enumerate the first eight types here. The ninth path also closes the
-Desire-Realm target-set by abandoning its black-and-white wholesome karma.
+Desire Realm target-set by abandoning its black-and-white wholesome karma.
 
 **Four volitions for white karma**
 
@@ -164,7 +164,7 @@ PATH_STAGE
     → MODE_OF_ABANDONMENT
 ```
 
-The ninth Desire-Realm path has two targets; each final dhyāna path targets
+The ninth Desire Realm path has two targets; each final dhyāna path targets
 white karma belonging to that level.
 
 **Intrinsic and relational negation**
@@ -263,7 +263,7 @@ Bhāṣya.
 
 **Former Philosophical Translation.**
 > The Path negates unwholesome and wholesome karmic determinations in different
-> ways. The final Desire-Realm operation completes the abandonment of the last
+> ways. The final Desire Realm operation completes the abandonment of the last
 > black type and the mixed wholesome field. White karma, however, is not
 > annihilated as positive content: the Path removes every afflictive relation
 > that can appropriate it as an object. Abandonment is complete when the final

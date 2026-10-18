@@ -65,7 +65,7 @@ is the object of those whose range is that
 ```
 
 The Bhāṣya resolves the compressed construction: the six-level
-`dharmajñāna` side is the object for desire-realm path-oriented anuśayas; the
+`dharmajñāna` side is the object for Desire Realm path-oriented anuśayas; the
 nine-level `anvayajñāna` side is the object for those of the form and formless
 realms.
 
@@ -124,7 +124,7 @@ structure.
 
 **`Svabhūmy-uparama` — cessation of one's own level**
 
-For an anuśaya belonging to the desire-realm, only cessation of the desire
+For an anuśaya belonging to the Desire Realm, only cessation of the desire
 realm is its cessation-object; the same own-level rule continues through the
 summit of existence. Cessation is determinate termination, not bare absence.
 
@@ -136,7 +136,7 @@ mere spatial location.
 
 **`Dharmajñāna-pakṣa` — the dharma-knowledge side of the path**
 
-The Bhāṣya assigns this six-level path to the object-range of desire-realm
+The Bhāṣya assigns this six-level path to the object-range of Desire Realm
 path-oriented anuśayas. Its fuller determination belongs to the later Path
 and Knowledge chapters.
 
@@ -150,8 +150,8 @@ The provisional English remains subordinate to its later technical analysis.
 **`Pratipakṣa` — counteragent**
 
 Object-range is not established by causal connectedness alone. The Bhāṣya
-notes that `anvayajñāna` is not the counteragent to the desire-realm; hence
-desire-realm path-oriented anuśayas do not take that side as support.
+notes that `anvayajñāna` is not the counteragent to the Desire Realm; hence
+Desire Realm path-oriented anuśayas do not take that side as support.
 
 **`Anyo 'nya-hetuka` — one path caused by another**
 

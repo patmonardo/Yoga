@@ -76,7 +76,7 @@ cognition the fourth.
 Of these, morsel nutriment occurs in the desire realm. It does not occur in
 the form or formless realms because beings are born there after becoming
 dispassionate toward it. It is constituted by three Essences: all the
-desire-realm Essences of odor, taste, and tangible are morsel nutriment because
+Desire Realm Essences of odor, taste, and tangible are morsel nutriment because
 they are taken in after being formed into morsels, ordinarily delimited as
 intake by mouth or nose.
 
@@ -172,7 +172,7 @@ spraṣṭavyāyatana
     tangible Essence
 ```
 
-These are all desire-realm spheres. `Tryāyatanātmaka` therefore states a
+These are all Desire Realm spheres. `Tryāyatanātmaka` therefore states a
 technical decomposition of morsel nutriment, not three ordinary varieties of
 food.
 
@@ -264,7 +264,7 @@ formulation remains distinct from the Bhāṣya's own definition through
 ## 10. Review Status
 
 This Study restores the complete natural unit at 152.10–153.03: enumeration
-of the four nutriments, gross and subtle morsel nutriment, its desire-realm
+of the four nutriments, gross and subtle morsel nutriment, its Desire Realm
 restriction, its constitution by odor, taste, and tangible, the qualification
 of literal ingestion, and the exclusion of visible form through sustaining
 efficacy and the liberated-person test.

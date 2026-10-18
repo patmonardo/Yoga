@@ -37,7 +37,7 @@ dhyānāt | sāmantakāt | vā | antyaḥ | mukti-mārgaḥ | tri-bhū-jaye |
 na | ūrdhvam | sāmantakāt | āryaiḥ | aṣṭābhiḥ | sva-ūrdhva-bhū-jayaḥ
 ```
 
-The Bhāṣya defines **tri-bhū-jaya** as the conquest extending through dispassion from the second dhyāna: desire-realm, first-dhyāna, and second-dhyāna grounds. It identifies the eight noble bases as the four dhyānas, *dhyānāntara*, and three relevant formless concentrations.
+The Bhāṣya defines **tri-bhū-jaya** as the conquest extending through dispassion from the second dhyāna: Desire Realm, first-dhyāna, and second-dhyāna grounds. It identifies the eight noble bases as the four dhyānas, *dhyānāntara*, and three relevant formless concentrations.
 
 ## 4. Grammar
 
@@ -97,7 +97,7 @@ identity of meditative support at every moment
 The Bhāṣya fixes the range:
 
 ```text
-desire-realm ground
+Desire Realm ground
     + first-dhyāna ground
     + second-dhyāna ground
     = tribhūmi-jaya

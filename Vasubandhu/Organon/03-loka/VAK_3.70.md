@@ -61,7 +61,7 @@ rūpiṇaḥ [rūpāvacarā devāḥ]
     [upapadyante]
 ```
 
-> The form-realm devas arise complete and indeed clothed.
+> The Form Realm devas arise complete and indeed clothed.
 
 This subject change is a Bhāṣya determination essential to the translation.
 The two halves specify different populations and different initial forms of
@@ -76,7 +76,7 @@ embodiment.
 
 ### Bhāṣya-informed study translation
 
-> Among these, children appear like those aged five to ten; Form-realm
+> Among these, children appear like those aged five to ten; Form Realm
 > beings are fully formed and clothed.
 
 ## 6. Philosophical Translation

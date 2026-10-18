@@ -281,7 +281,7 @@ mental karma are understood correspondingly. What, then, of the sūtra's
 the body is impelled; this is called action after having willed.
 
 An objection says that without real bodily manifestation there would be
-no desire-realm non-disclosing continuity, with many unwelcome consequences.
+no Desire Realm non-disclosing continuity, with many unwelcome consequences.
 The reply says that consequences of that objection will themselves have
 consequences. Another objection says that if non-disclosing continuity arises
 from a special volition, it should follow consciousness, as a

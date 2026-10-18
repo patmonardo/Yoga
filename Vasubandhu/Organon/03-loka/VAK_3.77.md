@@ -1,4 +1,4 @@
-# VAK_3.77 — The Form-Realm Measure Series
+# VAK_3.77 — The Form Realm Measure Series
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -93,7 +93,7 @@ not separately expressed in the verse.
 
 ## 6. Philosophical Translation
 
-> The hierarchy of form-realm embodiment is a composed law rather than a
+> The hierarchy of Form Realm embodiment is a composed law rather than a
 > single progression. First bodily support advances by equal additions; then
 > it advances by repeated multiplication. At one determinate station the
 > general multiplication is locally modified by subtraction, after which the
@@ -108,7 +108,7 @@ not separately expressed in the verse.
 | āśraya | bodily support | embodied basis through which a being occupies its world-station |
 | ardhārdhavṛddhi | successive half-yojana increase | additive rule governing the three stations through Parīttābha |
 | dviguṇavṛddhi | successive doubling | multiplicative rule above Parīttābha |
-| ūrdhvam | above / upward | ordered movement through higher form-realm stations |
+| ūrdhvam | above / upward | ordered movement through higher Form Realm stations |
 | Parīttābha | Parīttābha deva | terminal station of the additive sequence and base of the first doubling sequence |
 | Śubhakṛtsna | Śubhakṛtsna deva | station reaching 64 yojanas under the first doubling sequence |
 | Anabhraka | Anabhraka deva | exceptional station assigned 125 rather than 128 yojanas |
@@ -119,7 +119,7 @@ not separately expressed in the verse.
 
 `āśraya` should not be inflated here into an unconditioned metaphysical
 ground. Its local function is precise: the measurable bodily support produced
-at a given form-realm station.
+at a given Form Realm station.
 
 ## 8. Logical Determination
 

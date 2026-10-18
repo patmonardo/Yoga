@@ -221,7 +221,7 @@ during contraction and fills last during expansion.
 
 **Translation note.** The stages of depopulation and repopulation, the distinction between beings
 and receptacle, the seven-sun destruction, karmic efficacy of the formative
-winds, and inverse-order rule are Bhāṣya determinations. The Bhāṣya traces the contraction through the narakas, animals, pretas, human destinations and continents, then desire-realm gods and Brahmaloka; contraction of beings is complete before the receptacle-world is destroyed. Expansion begins with karmically governed subtle winds, constructs the receptacle first, then populates it downward until naraka birth appears.
+winds, and inverse-order rule are Bhāṣya determinations. The Bhāṣya traces the contraction through the narakas, animals, pretas, human destinations and continents, then Desire Realm gods and Brahmaloka; contraction of beings is complete before the receptacle-world is destroyed. Expansion begins with karmically governed subtle winds, constructs the receptacle first, then populates it downward until naraka birth appears.
 
 VAK 3.90 gives textual confirmation of the distinction between the Enclosed,
 the Enclosure, and the Mind of the Enclosure.

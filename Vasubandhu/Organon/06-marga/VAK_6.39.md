@@ -119,7 +119,7 @@ upward-streamer:
     complete traverser
 ```
 
-This yields nine form-realm non-returners. The nine are refinements of trajectories within one fruit, not nine additional fruits.
+This yields nine Form Realm non-returners. The nine are refinements of trajectories within one fruit, not nine additional fruits.
 
 **`Karma` — temporal disposition of results**
 

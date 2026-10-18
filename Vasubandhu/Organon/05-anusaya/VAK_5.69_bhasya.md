@@ -7,7 +7,7 @@
 
 > One standing in the Path of Seeing is endowed first with no *parijñā*,
 > then with one through five as seeing proceeds. One standing in the Path of
-> Cultivation has six if desire-realm dispassion has not been attained or has
+> Cultivation has six if Desire Realm dispassion has not been attained or has
 > been lost; one if that dispassion or arhatship has been attained; and two if
 > dispassion from the form realm has been attained.
 
@@ -68,16 +68,16 @@ concerning the path, with five.
 One standing in the path of cultivation is endowed with six, or with
 one, or with two. At subsequent knowledge concerning the path, the noble
 person on the cultivation path is endowed with six *parijñās* so long
-as desire-realm dispassion has not been attained, **or has been lost**.
-Someone who has attained desire-realm dispassion, whether before or
+as Desire Realm dispassion has not been attained, **or has been lost**.
+Someone who has attained Desire Realm dispassion, whether before or
 after, is endowed with one: the *parijñā* of abandonment of the
 lower-part fetters. Someone who has attained arhatship is likewise
 endowed with one, but this is the *parijñā* of complete exhaustion of
-all fetters. Even one who has fallen through a form-realm afflictive
+all fetters. Even one who has fallen through a Form Realm afflictive
 envelopment is endowed with the one *parijñā* of abandonment of the
 lower-part fetters. One who has attained dispassion from form is endowed
 with two: abandonment of the lower-part fetters and exhaustion of
-attachment to form. Even after a fall through a formless-realm
+attachment to form. Even after a fall through a Formless Realm
 afflictive envelopment, one remains endowed with those same two.
 Why, then, is only one *parijñā*, rather than more, established for the
 non-returner and the arhat?
@@ -92,7 +92,7 @@ possession sequence, while 5.68 explained why an earlier individual
 abandonment does not yet qualify for the technical name *parijñā*.
 
 At `mārga-anvayajñāna` the count becomes six for the cultivation-path
-person without desire-realm dispassion. The clause `parihīṇo vā tataḥ`
+person without Desire Realm dispassion. The clause `parihīṇo vā tataḥ`
 also belongs to this six-count case: **or one who has fallen from that
 dispassion**. The next words, `kāmavairāgyaṃ prāptaḥ pūrvaṃ paścād vā`,
 start the one-count case, whether that dispassion was attained earlier
@@ -102,10 +102,10 @@ The running source has no punctuation to settle the split by itself;
 the two finite possession predicates and the contrast of six with one
 support this construal. It remains a marked interpretive decision.
 
-Equal counts need not have equal content. desire-realm dispassion
+Equal counts need not have equal content. Desire Realm dispassion
 brings the *avarabhāgīya-prahāṇa-parijñā*; arhatship brings the
 *sarva-saṃyojana-paryādāna-parijñā*. Each counts as one, with a
-different range of abandonment. form-realm dispassion brings two;
+different range of abandonment. Form Realm dispassion brings two;
 the specified form or formless afflictive falls leave the stated
 one- or twofold possession in place. These are determinate cases of
 *samanvāgama*, not a counter that must increase with progress.

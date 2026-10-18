@@ -143,7 +143,7 @@ Sameness or difference of realm specifies the direction of the
 
 **`Mithyājñāna` — false cognition**
 
-When an inhabitant of the desire-realm regards Brahmā as a being and as
+When an inhabitant of the Desire Realm regards Brahmā as a being and as
 permanent, the Abhidharmikas classify this cognition as false cognition rather
 than either of the two excluded views. Vasubandhu challenges the distinction:
 the thesis must be demonstrated, not merely asserted.

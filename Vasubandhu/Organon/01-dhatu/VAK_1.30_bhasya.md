@@ -173,7 +173,7 @@ Word division is editorial. The formless count is 1.31 and is not this unit.
 
 ## 4. Movement
 
-The ethical threefold closes the question opened at 1.29. The realm question begins at the second phrase of the verse. The form-realm debate is objection and answer: food, support, use, site, cause, and the sūtra. The formless count is not this unit.
+The ethical threefold closes the question opened at 1.29. The realm question begins at the second phrase of the verse. The Form Realm debate is objection and answer: food, support, use, site, cause, and the sūtra. The formless count is not this unit.
 
 ## 5. Decisions
 

@@ -106,7 +106,7 @@ The feared consequence proposed in VAK 6.46 does not follow.
 
 **`Ūrdhvajāta` — higher-rebirth counterexample**
 
-An ordinary person born above the first dhyāna may relinquish a mundane attainment of separation from desire-realm afflictions without becoming possessed of those afflictions again:
+An ordinary person born above the first dhyāna may relinquish a mundane attainment of separation from Desire Realm afflictions without becoming possessed of those afflictions again:
 
 ```text
 loss of visaṃyoga-prāpti
@@ -185,7 +185,7 @@ In Organon terms, explicitly as project synthesis, a determinate basis is the co
 
 ## 9. Interpretive Note
 
-**Translation note.** The first half repeats the counterexamples whose explanation closes 6.46. The Bhāṣya glosses `sarvataḥ` as `ābhavāgrāt`, extending the second half's range through the summit. The compressed first compound and the prose's `ardha prakāra` remain open for textual collation; the study does not force a numeric reading of “half.” The examples are a practitioner partly dispassionate from the summit, who does not regain its afflictions on relinquishing the supramundane attainment, and one reborn above the first dhyāna, who does not regain desire-realm afflictions on losing a mundane attainment. The compound behind ‘partly’ remains textually open.
+**Translation note.** The first half repeats the counterexamples whose explanation closes 6.46. The Bhāṣya glosses `sarvataḥ` as `ābhavāgrāt`, extending the second half's range through the summit. The compressed first compound and the prose's `ardha prakāra` remain open for textual collation; the study does not force a numeric reading of “half.” The examples are a practitioner partly dispassionate from the summit, who does not regain its afflictions on relinquishing the supramundane attainment, and one reborn above the first dhyāna, who does not regain Desire Realm afflictions on losing a mundane attainment. The compound behind ‘partly’ remains textually open.
 
 
 VAK 6.47 joins two apparently separate claims through one principle: the actual Path-relation is richer than a one-to-one mapping among state, basis, and result. One acquisition can disappear without erasing its accomplished content; one local ground can support an operation extending beyond that ground.

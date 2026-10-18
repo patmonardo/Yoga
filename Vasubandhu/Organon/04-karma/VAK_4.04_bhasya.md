@@ -9,7 +9,7 @@
 > The Vaibhāṣikas establish *avijñapti* as a distinct real Form Dharma from
 > teachings on three kinds of Form and on uncontaminated Form, the increase of
 > merit, action-paths completed through another's agency, and other grounds.
-> Beyond its first moment, desire-realm *avijñapti* is born from past Great
+> Beyond its first moment, Desire Realm *avijñapti* is born from past Great
 > Elements.
 
 The first pāda condenses the Vaibhāṣika case for a distinct `avijñapti`.

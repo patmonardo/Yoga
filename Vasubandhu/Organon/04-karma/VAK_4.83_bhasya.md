@@ -1,4 +1,4 @@
-# VAK 4.83 Bhāṣya — Courses of Action in Uttarakuru and the Desire-Realm
+# VAK 4.83 Bhāṣya — Courses of Action in Uttarakuru and the Desire Realm
 
 ## 1. Kārikā Anchor
 
@@ -6,13 +6,13 @@
 > śubhās trayas tu sarvatra saṃmukhībhāvalābhataḥ // 4.83 //
 
 > Here in Uttarakuru, the seventh Course of Action also occurs by present
-> manifestation. Elsewhere in the Desire-Realm, all ten unwholesome Courses of
+> manifestation. Elsewhere in the Desire Realm, all ten unwholesome Courses of
 > Action also occur by present manifestation. But the three wholesome mental
 > Courses of Action occur everywhere by present manifestation and acquisition.
 
 The verse completes the regional distribution begun in 4.82. `Atra` carries
 forward Uttarakuru; `anyatra` then excludes both Uttarakuru and the hells
-from its general statement about the rest of the Desire-Realm.
+from its general statement about the rest of the Desire Realm.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -65,9 +65,9 @@ tree. If she is an eligible partner, the tree covers them and they have
 intercourse. If she is ineligible, the tree does not cover them and they do
 not have intercourse.
 
-Elsewhere in the Desire-Realm, all ten unwholesome Courses of Action also
+Elsewhere in the Desire Realm, all ten unwholesome Courses of Action also
 occur through present manifestation. “By present manifestation” continues to
-govern. Outside hell and Uttarakuru, all ten are found in the Desire-Realm
+govern. Outside hell and Uttarakuru, all ten are found in the Desire Realm
 through present manifestation. Among animals, hungry ghosts, and gods, they
 occur apart from formal non-restraint; among humans, they may also be
 included within non-restraint.
@@ -120,12 +120,12 @@ sexual activity and sexual misconduct are not coextensive. Misconduct
 requires violation of a determinate relational boundary; the Uttarakuru
 environment externalizes that boundary and prevents its transgression.
 
-## 6. Elsewhere in the Desire-Realm
+## 6. Elsewhere in the Desire Realm
 
 `Anyatra` means outside the two exceptional environments already analyzed:
 
 ```text
-Desire-Realm − {hell, Uttarakuru}
+Desire Realm − {hell, Uttarakuru}
 ```
 
 Across that remainder, every unwholesome Course of Action can become manifest. Yet its
@@ -142,7 +142,7 @@ Nonhuman beings can manifest a Course of Action without possessing that juridica
 continuing practical status.
 
 The dispute about gods protects the universality of the killing Course of
-Action in the remaining Desire-Realm. One account denies intra-divine killing but permits
+Action in the remaining Desire Realm. One account denies intra-divine killing but permits
 a god to kill a being in another destiny. The alternative allows divine death
 through bisection of the head. The Bhāṣya records both rather than resolving
 the disagreement here.

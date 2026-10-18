@@ -129,7 +129,7 @@ The Bhāṣya expands the three Akaniṣṭha routes, including the rule of
 ascent without another birth at the same station. It contrasts unmixed
 dhyāna and the summit-bound path with the intermingled Akaniṣṭha path,
 then qualifies both destinations as maxima. Finally it adds the
-fourfold formless-realm type and present-life completion.
+fourfold Formless Realm type and present-life completion.
 
 ## 5. Translation and Interpretation
 
@@ -156,7 +156,7 @@ project synthesis.
 | Half-leaper | Skips at least one Pure-Abode station | Akaniṣṭha maximum |
 | All-stations traverser | Moves through every intervening station | Akaniṣṭha maximum |
 | Other upward-streamer | Unmixed dhyāna and calm disposition | Summit of existence maximum |
-| Formless-realm non-returner | Detached from form; four completion modes | Formless rebirth |
+| Formless Realm non-returner | Detached from form; four completion modes | Formless rebirth |
 | Present-life completer | Completes here | No further itinerary required |
 
 The maxima are upper limits; the prose permits completion earlier

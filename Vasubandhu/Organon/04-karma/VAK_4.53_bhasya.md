@@ -47,7 +47,7 @@ upapadyavedanīyena ca tasyākṣepāt /
 
 Word division, punctuation, and verse number are editorial. The
 running source has `gāmāvacaro` where the context requires the
-Desire-Realm term `kāmāvacara`. Its compact sequence
+Desire Realm term `kāmāvacara`. Its compact sequence
 `bālakumāravamadhyavṛddha` does not securely display all five
 post-birth stage names; the conventional “youth” below is inferred
 from the announced fivefold count, not silently restored into the
@@ -57,7 +57,7 @@ Sanskrit.
 
 Can karma also be projected during intermediate existence? Yes, he
 says: “In the Desire Realm, intermediate existence projects
-twenty-two kinds.” Desire-Realm intermediate existence projects
+twenty-two kinds.” Desire Realm intermediate existence projects
 twenty-two kinds of karma. How so? There are five stages in the
 womb: *kalala*, *arbuda*, *peśī*, *ghana*, and *praśākhā*. There
 are five stages after birth: childhood, boyhood, an apparent youth

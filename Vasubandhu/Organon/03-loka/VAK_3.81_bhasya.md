@@ -76,7 +76,7 @@ lifespan measure.
 
 ## 4. Natural Movement
 
-The Bhāṣya first gives the four formless-realm lifespans, adding twenty
+The Bhāṣya first gives the four Formless Realm lifespans, adding twenty
 thousand at each successive station. It then asks what unit the word
 `kalpa` denotes. The answer divides the reckoning at Parīttābha: above that
 boundary a kalpa is a full mahākalpa; below it, a half-mahākalpa is

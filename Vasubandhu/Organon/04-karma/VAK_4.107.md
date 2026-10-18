@@ -100,11 +100,11 @@ Approaching kṣānti from the summit stage:
     because its maturation ground is being passed beyond
 
 Approaching the fruit of non-returnership:
-    desire-realm karma obstructs
+    Desire Realm karma obstructs
     except action to be experienced in the present life
 
 Approaching arhatship:
-    form- and formless-realm karma obstructs
+    form- and Formless Realm karma obstructs
 ```
 
 The Bhāṣya's repeated `tathaiva` carries the maturation-ground rationale
@@ -122,10 +122,10 @@ action necessarily prevents attainment. The informed translation also included: 
 this second claim is not confined to the five analogues: other karma
 possessing maturation can obstruct at these thresholds. As one advances
 from the summit stage toward acceptance, karma leading to bad destinies
-obstructs because its maturation ground is being passed beyond. Desire-realm
+obstructs because its maturation ground is being passed beyond. Desire Realm
 karma similarly obstructs one approaching the fruit of non-returnership,
 except for action whose maturation is to be experienced in the present
-life. Form- and formless-realm karma similarly obstruct one approaching
+life. Form- and Formless Realm karma similarly obstruct one approaching
 arhatship.
 
 This verse sharpens the preceding discussion of future trajectory. The

@@ -57,7 +57,7 @@ Stopping at the numbered verse would leave the conditions unstated. Fruit-attain
 
 Formless: life, mind, neutral feeling. Form adds the five, eight. Desire, all at once: neither, one, or both marks, eight, nine, or ten.
 
-Form-realm completeness is stated for that context. All beings there is not an account of every bodily history.
+Form Realm completeness is stated for that context. All beings there is not an account of every bodily history.
 
 Gradual death ends on four. They do not cease separately, in that terminal context. Not one substance. Not every change in one a change in the others.
 

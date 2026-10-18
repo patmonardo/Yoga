@@ -104,7 +104,7 @@ is no non-disclosing continuity in those realms.
 “Manifestation occurs in the two levels possessing *vicāra*.” It occurs
 only in the desire realm and first dhyāna, not above them.
 
-The formless-realm exchange is compressed and its exact distinction
+The Formless Realm exchange is compressed and its exact distinction
 between an uncontaminated factor and a realm-specific one requires
 comparison with a better witness. The passage's explicit conclusion
 and the two named levels are clear.
@@ -120,7 +120,7 @@ formless realms, and finally restricts manifestation to desire and
 first dhyāna.
 
 The question about formless attainment is an interlocutor's challenge.
-The denial of formless-realm `avijñapti` is explicitly attributed to
+The denial of Formless Realm `avijñapti` is explicitly attributed to
 the Vaibhāṣikas at the end of its argument. No named school is given
 for every earlier classificatory statement.
 
@@ -187,7 +187,7 @@ excludes ethically indeterminate `avijñapti` because indeterminate
 consciousness is too weak to project forceful karma that continues after it
 ceases. It identifies the remaining modes as `vijñapti` and `cetanā`, each
 threefold; it then states the restrictions on unwholesome karma,
-`avijñapti`, and `vijñapti`. The formless-realm explanation is attributed to
+`avijñapti`, and `vijñapti`. The Formless Realm explanation is attributed to
 the Vaibhāṣikas.
 
 In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
@@ -200,6 +200,6 @@ the stated *prati* relation to it.
 
 The natural unit through [201|17] is translated and the study stops
 before 4.08. The damaged `prativedhāt` clause and the compressed
-formless-realm exchange remain provisional. The omitted `tatra` is
+Formless Realm exchange remain provisional. The omitted `tatra` is
 restored and two editorial repairs are now identified. Research witnesses and
 the running source were left intact.

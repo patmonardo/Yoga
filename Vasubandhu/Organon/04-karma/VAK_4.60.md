@@ -131,7 +131,7 @@ predicates.
 **White karma**
 
 ```text
-Form-Realm wholesome karma
+Form Realm wholesome karma
     → not interspersed with unwholesome karma there
     → white
 
@@ -139,11 +139,11 @@ desirable maturation
     → white maturation
 ```
 
-**Why Formless-Realm karma is omitted**
+**Why Formless Realm karma is omitted**
 
 The omission follows the scope of the particular sūtra formulation, which
 presupposes intermediate and rebirth existence together with bodily, verbal,
-and mental karma. Vasubandhu notes that wholesome Formless-Realm karma is
+and mental karma. Vasubandhu notes that wholesome Formless Realm karma is
 included in another sūtra. Its omission here is not an ontological denial.
 
 **Black-and-white karma**
@@ -159,7 +159,7 @@ na svabhāvataḥ
 ```
 
 Black and white are mutually opposed. One karma cannot intrinsically possess
-both characters, but one Desire-Realm continuum can contain interspersed
+both characters, but one Desire Realm continuum can contain interspersed
 wholesome and unwholesome karmas.
 
 **Asymmetry of mixture**

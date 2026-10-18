@@ -82,7 +82,7 @@ presently possessed.
 
 > One standing in the Path of Seeing is endowed first with no *parijñā*,
 > then with one through five as seeing proceeds. One standing in the Path of
-> Cultivation has six if desire-realm dispassion has not been attained or has
+> Cultivation has six if Desire Realm dispassion has not been attained or has
 > been lost; one if that dispassion or arhatship has been attained; and two if
 > dispassion from the form realm has been attained.
 
@@ -127,21 +127,21 @@ This sequence confirms the completion threshold established in VAK 5.68.
 **`Bhāvanāstha` — standing in the Path of Cultivation**
 
 At `mārga-anvayajñāna` the noble practitioner is treated as cultivation-
-standing and possesses six seeing-abandonment parijñās, provided desire-realm
+standing and possesses six seeing-abandonment parijñās, provided Desire Realm
 dispassion has not been attained or has been lost.
 
-**`Kāmavairāgya` — dispassion from the desire-realm**
+**`Kāmavairāgya` — dispassion from the Desire Realm**
 
 Whether obtained earlier or later, its relevant possession-state is one:
 `avarabhāgīya-prahāṇa-parijñā`, abandonment of the lower-part fetters. The
-same one remains in the stated fall through a form-realm paryavasthāna.
+same one remains in the stated fall through a Form Realm paryavasthāna.
 
 **Arhatship**
 
 The arhat is endowed with one parijñā of a different and terminal scope:
 `sarva-saṃyojana-paryādāna-parijñā`, complete exhaustion of all fetters.
 
-**`Rūpavairāgya` — dispassion from the form-realm**
+**`Rūpavairāgya` — dispassion from the Form Realm**
 
 Its possession-state comprises two:
 
@@ -150,7 +150,7 @@ avarabhāgīya-prahāṇa-parijñā
 rūparāga-kṣaya-parijñā
 ```
 
-These two remain even after the stated fall through a formless-realm
+These two remain even after the stated fall through a Formless Realm
 paryavasthāna.
 
 **`Paryavasthāna` — active afflictive enveloping**
@@ -214,7 +214,7 @@ SameCount(personA, personB)
     ⇏ SameParijñāScope(personA, personB)
 ```
 
-One at desire-realm dispassion and one at arhatship have equal cardinality
+One at Desire Realm dispassion and one at arhatship have equal cardinality
 but radically different parijñā identities and ranges.
 
 ## 9. Interpretive Note
@@ -236,8 +236,8 @@ parijñā is established for the non-returner and arhat. The explanation through
 `saṃkalana` belongs to VAK 5.70 and should not be back-filled into this verse
 as though already stated.
 
-**Falls preserve specified completions.** A form-realm paryavasthāna leaves
-the lower-part-fetter parijñā; a formless-realm paryavasthāna leaves both the
+**Falls preserve specified completions.** A Form Realm paryavasthāna leaves
+the lower-part-fetter parijñā; a Formless Realm paryavasthāna leaves both the
 lower-part and form-attachment completions. Possession depends on which
 disconnections remain established.
 

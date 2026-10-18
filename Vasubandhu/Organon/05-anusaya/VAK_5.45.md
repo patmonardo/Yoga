@@ -101,7 +101,7 @@ license silently rewriting the kārikā in the official study.
 
 ## 6. Philosophical Translation
 
-> Passage beyond the desire-realm does not itself end bondage: five subtler
+> Passage beyond the Desire Realm does not itself end bondage: five subtler
 > fetters retain the continuum within the higher domains until they too are
 > abandoned. Yet the verse then changes its question. It no longer asks what
 > prevents cosmological transcendence, but how affliction binds across the
@@ -126,8 +126,8 @@ of the fetters themselves.
 **The five higher fetters**
 
 ```text
-rūpa-rāga       attachment to the form-realm
-ārūpya-rāga     attachment to the formless-realm
+rūpa-rāga       attachment to the Form Realm
+ārūpya-rāga     attachment to the Formless Realm
 auddhatya       restlessness or excitation
 māna            conceit
 avidyā           ignorance

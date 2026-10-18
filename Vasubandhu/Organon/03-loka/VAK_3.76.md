@@ -35,12 +35,12 @@ the Bhāṣya.
 | tataḥ param | adverbial sequence | beyond that; thereafter |
 
 `pāda` is resolved by the Bhāṣya as one fourth of a krośa. `ādau` is likewise
-made exact there: it refers to the Brahmakāyika devas, the first form-realm
+made exact there: it refers to the Brahmakāyika devas, the first Form Realm
 station in this measurement series.
 
 ## 4. Grammar
 
-The first construction concerns only the desire-realm heaven-dwellers:
+The first construction concerns only the Desire Realm heaven-dwellers:
 
 ```text
 kāmināṃ divaukasām
@@ -49,11 +49,11 @@ kāmināṃ divaukasām
     yāvat sārdha-krośaḥ [bhavati]
 ```
 
-> The body of the desire-realm heaven-dwellers increases by one quarter at a
+> The body of the Desire Realm heaven-dwellers increases by one quarter at a
 > time, up to one and one-half krośas.
 
 The genitives `divaukasām kāminām` belong together. The Bhāṣya distributes
-the successive quarter-krośa increments across the six classes of desire-realm
+the successive quarter-krośa increments across the six classes of Desire Realm
 devas.
 
 The second construction changes the domain:
@@ -65,7 +65,7 @@ rūpiṇāṃ tu
     tataḥ param [vardhate]
 ```
 
-> But among the form-realm devas, at the beginning the body is half a yojana;
+> But among the Form Realm devas, at the beginning the body is half a yojana;
 > beyond that, it increases further.
 
 The particle `tu` is structurally decisive. It prevents `yojanārdham` from
@@ -76,14 +76,14 @@ in VAK 3.77.
 ## 5. Translation
 
 ### Literal Translation
-> Among the desire-realm heaven-dwellers, bodily stature increases by a
-> quarter, up to one and one-half krośas. But for the form-realm devas, at the
+> Among the Desire Realm heaven-dwellers, bodily stature increases by a
+> quarter, up to one and one-half krośas. But for the Form Realm devas, at the
 > beginning it is half a yojana; beyond that, it is greater.
 
 ### Bhāṣya-informed study translation
 
-> The bodies of desire-realm devas increase by quarters up to 1½ krośas;
-> for Form-realm devas, the first measure is ½ yojana, then greater.
+> The bodies of Desire Realm devas increase by quarters up to 1½ krośas;
+> for Form Realm devas, the first measure is ½ yojana, then greater.
 
 ## 6. Philosophical Translation
 
@@ -101,22 +101,22 @@ in VAK 3.77.
 |---|---|---|
 | tanu | body / bodily stature | the magnitude being measured |
 | divaukas | heaven-dweller | celestial inhabitant whose body remains quantitatively determined |
-| kāmin | desire-realm being | scopes the six deva classes governed by the quarter-krośa series |
-| rūpin | form-realm being | begins a distinct celestial measurement domain |
-| pāda | quarter of a krośa | constant increment of the desire-realm series |
+| kāmin | Desire Realm being | scopes the six deva classes governed by the quarter-krośa series |
+| rūpin | Form Realm being | begins a distinct celestial measurement domain |
+| pāda | quarter of a krośa | constant increment of the Desire Realm series |
 | vṛddhi | increase | ordered addition from one deva class to the next |
-| krośa | krośa | unit used for the desire-realm deva measures |
-| yojana | yojana | unit introduced at the form-realm boundary |
-| sārdha | with a half added | fixes the upper desire-realm value at 1½ krośas |
-| Brahmakāyika | Brahmakāyika deva | first form-realm station; body of ½ yojana |
-| ādau | at the beginning | selects the base case of the form-realm series |
+| krośa | krośa | unit used for the Desire Realm deva measures |
+| yojana | yojana | unit introduced at the Form Realm boundary |
+| sārdha | with a half added | fixes the upper Desire Realm value at 1½ krośas |
+| Brahmakāyika | Brahmakāyika deva | first Form Realm station; body of ½ yojana |
+| ādau | at the beginning | selects the base case of the Form Realm series |
 | tataḥ param | beyond that / thereafter | continuation pointer to the subsequent measures |
 
 ## 8. Logical Determination
 
-### Desire-realm additive series
+### Desire Realm additive series
 
-Let `n` be the ordinal position of a desire-realm deva class, from 1 through
+Let `n` be the ordinal position of a Desire Realm deva class, from 1 through
 6. The Bhāṣya makes the rule exact:
 
 ```text
@@ -156,8 +156,8 @@ form realm:
 ```
 
 The verse changes both domain and unit. It does not itself state a conversion
-between krośa and yojana, so no numerical ratio between the final desire-realm
-measure and the first form-realm measure should be inferred here.
+between krośa and yojana, so no numerical ratio between the final Desire Realm
+measure and the first Form Realm measure should be inferred here.
 
 ### Rule boundary
 
@@ -180,7 +180,7 @@ of the next.
 ## 9. Interpretive Note
 
 **Translation note.** The identity of the six classes, their exact distribution, and the
-identification of the first form-realm station are Bhāṣya determinations.
+identification of the first Form Realm station are Bhāṣya determinations.
 
 VAK 3.76 continues the contraction of scale begun in 3.75. After measuring
 human bodies by continent, the analysis measures celestial bodies by station.
@@ -225,8 +225,8 @@ interface RupaDevaBodyMeasureBase {
 ```
 
 This is explanatory project notation, not Vasubandhu's terminology. Its value
-is that it forbids a consumer from applying the completed desire-realm update
-rule to the newly initialized form-realm domain.
+is that it forbids a consumer from applying the completed Desire Realm update
+rule to the newly initialized Form Realm domain.
 
 ## 10. OWL++ Seed
 

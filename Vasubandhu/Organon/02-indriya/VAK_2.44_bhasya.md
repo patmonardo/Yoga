@@ -8,7 +8,7 @@
 
 > For the Sage, [the attainments] are acquired with awakening, not
 > beforehand, since awakening is reached in thirty-four moments. With a
-> desire- or form-realm support present, the attainment called cessation is
+> desire- or Form Realm support present, the attainment called cessation is
 > first produced among humans.
 
 ## 2. Continuous Sanskrit Witness
@@ -24,7 +24,7 @@ The second half resumes at printed 71.16 in `Vasubandhu/Sources/kosabhasya.txt`.
 
 Both the non-reflective attainment and the attainment of cessation arise in the desire realm and the form realm, when that support is present. The one called cessation is first produced among humans, and later in the form realm by those who had lost it.
 
-Loss is stated. Otherwise the Udāyin sūtra is contradicted. A monk enters and emerges from cessation of reflection and feeling, and may be born in a divine mind-made body and enter it there. That body is form-realm. The attainment is of the summit. Without loss, the rebirth does not fit. A fourth-dhyāna attainment of cessation is not established. Nine successive attainments. Out of order is mastery. The beginner is successive.
+Loss is stated. Otherwise the Udāyin sūtra is contradicted. A monk enters and emerges from cessation of reflection and feeling, and may be born in a divine mind-made body and enter it there. That body is Form Realm. The attainment is of the summit. Without loss, the rebirth does not fit. A fourth-dhyāna attainment of cessation is not established. Nine successive attainments. Out of order is mastery. The beginner is successive.
 
 Differences: level, application, continuum, result, maturation, first production. The names follow what the preparation opposes. The cessation is of consciousness and the mental factors.
 
@@ -36,7 +36,7 @@ Support against level. Loss from the sūtra. An unnamed school on the fourth dhy
 
 ## 5. Support and Loss
 
-A desire- or form-realm support does not make the attainment a desire- or form-level attainment. First production is human. Later production presupposes loss. Skipping does not withdraw the beginner's order, and does not settle the level.
+A desire- or Form Realm support does not make the attainment a desire- or form-level attainment. First production is human. Later production presupposes loss. Skipping does not withdraw the beginner's order, and does not settle the level.
 
 ## 6. Names
 

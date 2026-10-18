@@ -18,9 +18,9 @@ kāmaduḥkhe tato 'traiva dharmajñānaṃ tathā punaḥ |
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| **kāma-duḥkhe** | neuter locative singular compound | with regard to suffering in the desire-realm |
+| **kāma-duḥkhe** | neuter locative singular compound | with regard to suffering in the Desire Realm |
 | **tataḥ** | ablative used adverbially | thereafter; immediately after Dharma-Knowledge-Acceptance |
-| **atra eva** | adverbial expression | here itself; with regard to this same desire-realm suffering |
+| **atra eva** | adverbial expression | here itself; with regard to this same Desire Realm suffering |
 | **dharma-jñānam** | neuter nominative singular | Dharma-Knowledge |
 | **tathā punaḥ** | adverbial sequence | then likewise again; continues the ordered realization |
 | **śeṣe duḥkhe** | neuter locative singular | with regard to the remaining suffering, in the form and formless domains |
@@ -37,7 +37,7 @@ The verse depends upon the first moment announced in 6.25, **duḥkhe dharmajñ�
 
 ## 4. Grammar
 
-The first clause continues directly from 6.25. **tataḥ** refers to Dharma-Knowledge-Acceptance concerning desire-realm suffering; **atraiva** retains that same cognitive Condition; and **dharmajñānam [utpadyate]** supplies the next arising: “immediately thereafter, Dharma-Knowledge arises with regard to this same [suffering].”
+The first clause continues directly from 6.25. **tataḥ** refers to Dharma-Knowledge-Acceptance concerning Desire Realm suffering; **atraiva** retains that same cognitive Condition; and **dharmajñānam [utpadyate]** supplies the next arising: “immediately thereafter, Dharma-Knowledge arises with regard to this same [suffering].”
 
 In **śeṣe duḥkhe**, “remaining” means suffering belonging to the form and formless domains. The dual **anvayakṣāntijñāne** supplies two successive subjects of the understood verb “arise”: Anvaya-Knowledge-Acceptance and Anvaya-Knowledge.
 
@@ -56,7 +56,7 @@ for each Truth:
 **Future Feature Grammar sketch (not executable):**
 
 ```text
-MOMENT[NAME=Dharma-Knowledge, TRUTH=suffering, DOMAIN=desire-realm,
+MOMENT[NAME=Dharma-Knowledge, TRUTH=suffering, DOMAIN=Desire Realm,
        PREDECESSOR=Dharma-Knowledge-Acceptance]
   ← kāmaduḥkhe tato 'traiva dharmajñānaṃ
 PAIR[NAME=Anvaya-Acceptance+Anvaya-Knowledge, TRUTH=suffering,
@@ -73,7 +73,7 @@ Condition, and uncontaminated status throughout.
 
 ### Literal Translation
 
-> After that, Dharma-Knowledge arises regarding this same desire-realm
+> After that, Dharma-Knowledge arises regarding this same Desire Realm
 > suffering. Then Anvaya-Acceptance and Anvaya-Knowledge arise regarding
 > the remaining suffering. So too for the other three Truths.
 
@@ -85,7 +85,7 @@ Condition, and uncontaminated status throughout.
 
 ## 6. Philosophical Translation
 
-The first uncontaminated breakthrough unfolds into an articulated order. Acceptance of suffering in the desire-realm is followed immediately by Knowing of that same field. The realization then follows through into the corresponding suffering of the higher domains, first as Acceptance and then as Knowing.
+The first uncontaminated breakthrough unfolds into an articulated order. Acceptance of suffering in the Desire Realm is followed immediately by Knowing of that same field. The realization then follows through into the corresponding suffering of the higher domains, first as Acceptance and then as Knowing.
 
 This ordered relation is repeated for origin, cessation, and Path. Direct realization is therefore neither external inference from propositions nor an undifferentiated intuition without internal form. It is one continuous Path whose identity is sustained through determinate differences of Truth, domain, and cognitive function.
 
@@ -93,15 +93,15 @@ This ordered relation is repeated for origin, cessation, and Path. Direct realiz
 
 **`Dharma-jñāna` — the Dharma pair**
 
-Acceptance then Knowing, with desire-realm suffering as cognitive Condition for both. Named for the first knowing of the reality of the dharma (*dharmatattva*).
+Acceptance then Knowing, with Desire Realm suffering as cognitive Condition for both. Named for the first knowing of the reality of the dharma (*dharmatattva*).
 
 **`Anvaya-jñāna` — the Anvaya pair**
 
-The same pair for the Truth in the higher domains, whose form- and formless-realm fields together form one cognitive Condition (*samastālambana*).
+The same pair for the Truth in the higher domains, whose form- and Formless Realm fields together form one cognitive Condition (*samastālambana*).
 
 **`Anvaya` — ordered following**
 
-*Anugamana*: the higher-domain realization follows the desire-realm realization of the same Truth. It carries one Truth across domains, not a new Truth.
+*Anugamana*: the higher-domain realization follows the Desire Realm realization of the same Truth. It carries one Truth across domains, not a new Truth.
 
 **`Kṣānti` / `jñāna` — Acceptance and Knowing**
 
@@ -120,7 +120,7 @@ The whole sequence is uncontaminated; no later moment falls back into mundane co
 4. duḥkhe anvayajñāna
 ```
 
-The same four arise for origin, cessation and Path. For Path, the desire-realm Condition is the Path counteracting desire-realm suffering.
+The same four arise for origin, cessation and Path. For Path, the Desire Realm Condition is the Path counteracting Desire Realm suffering.
 
 ## 8. Logical Determination
 
@@ -128,7 +128,7 @@ The basic unit has two differentiations:
 
 ```text
 domain:
-    desire-realm → Dharma pair
+    Desire Realm → Dharma pair
     higher domains collectively → Anvaya pair
 
 function:
@@ -175,7 +175,7 @@ accordance with the initial realization, rather than as a separate Truth.
 
 VAK 6.25 crossed from the final mundane preparation into the first uncontaminated Acceptance. VAK 6.26 shows that this threshold is not a solitary event. It generates the ordered content of the Path of Seeing.
 
-The distinction between Dharma and Anvaya is especially important. Realization first takes the desire-realm form of a Truth, then follows that Truth through into its corresponding higher-domain field. Identity is maintained not by ignoring difference but by an ordered correspondence across it.
+The distinction between Dharma and Anvaya is especially important. Realization first takes the Desire Realm form of a Truth, then follows that Truth through into its corresponding higher-domain field. Identity is maintained not by ignoring difference but by an ordered correspondence across it.
 
 Likewise, Acceptance and Knowing must remain distinct while internally connected. The first leads immediately to the second for every Truth and domain-pair. At this verse, their exact later path-functions remain deliberately open; what is secure is their generated order.
 

@@ -25,14 +25,14 @@ afflictions are abandoned at stream-entry.
 | `pañcadhā` | indeclinable adverb | fivefold, in five ways |
 | `avara-bhāgīyam` | nominative singular neuter collective adjective | belonging or conducive to the lower part |
 | `dvābhyām` | instrumental dual | through the two fetters |
-| `kāma-anatikramaḥ` | nominative singular masculine compound | failure to pass beyond the desire-realm |
+| `kāma-anatikramaḥ` | nominative singular masculine compound | failure to pass beyond the Desire Realm |
 | `tribhiḥ tu` | instrumental plural with adversative particle | through the three, however |
 | `punaḥ-āvṛttiḥ` | nominative singular feminine compound | return again |
 | `mukha-mūla-grahāt` | ablative singular compound | because the entrances and roots are included by naming them |
 | `trayam` | nominative singular neuter collective | the triad, the group of three |
 
 
-The Bhāṣya fixes `avara-bhāga` primarily as the desire-realm. Its alternative
+The Bhāṣya fixes `avara-bhāga` primarily as the Desire Realm. Its alternative
 explanation also distinguishes a lower condition of being—ordinary-person
 status—from the lower cosmological domain.
 
@@ -60,7 +60,7 @@ tribhiḥ tu
 ```
 
 The instrumentals state the causal means. Desire for sense-objects and
-hostility prevent passage beyond the desire-realm. Through the three
+hostility prevent passage beyond the Desire Realm. Through the three
 beginning with personality-view, one returns even after having passed beyond.
 
 **Reason for naming the triad**
@@ -80,14 +80,14 @@ fetters themselves grasp an entrance and root as their objects.
 ### Literal Translation
 
 > The lower-part [fetter-group] is fivefold. Through two there is failure to
-> pass beyond the desire-realm; through three, however, there is return again.
+> pass beyond the Desire Realm; through three, however, there is return again.
 > The triad [is taught] because the entrances and roots are taken [by naming
 > it].
 
 ### Bhāṣya-informed study translation
 
 > The lower-part fetters are fivefold. Through two, one does not pass
-> beyond the desire-realm; through three, however, one returns. The triad
+> beyond the Desire Realm; through three, however, one returns. The triad
 > is taught by taking the entrances and roots.
 
 ## 6. Philosophical Translation
@@ -124,9 +124,9 @@ vyāpāda                    hostility
 ```
 
 The first three form the named triad; the last two directly prevent passage
-beyond the desire-realm.
+beyond the Desire Realm.
 
-**`Kāmānatikrama` — failure to transcend the desire-realm**
+**`Kāmānatikrama` — failure to transcend the Desire Realm**
 
 The retentive function of desire for sense-objects and hostility. The Bhāṣya
 states explicitly: through these two one does not pass beyond `kāmadhātu`.
@@ -134,7 +134,7 @@ states explicitly: through these two one does not pass beyond `kāmadhātu`.
 **`Punarāvṛtti` — return again**
 
 The function of the triad under the primary explanation. Even after passage
-beyond the desire-realm, these fetters bring about return.
+beyond the Desire Realm, these fetters bring about return.
 
 **`Dauvārika-anucara-sādharmya` — likeness to a gatekeeper and attendants**
 
@@ -150,7 +150,7 @@ status.
 
 **`Dhātvavaratā` — lower status of the domain**
 
-Identified with the desire-realm. On the alternative account, the two prevent
+Identified with the Desire Realm. On the alternative account, the two prevent
 transcendence of this cosmological level.
 
 **`Mukha-graha` — inclusion of the entrance or leading representative**
@@ -238,7 +238,7 @@ and stronger versions of one bondage:
 
 ```text
 desire and hostility
-    → retain within the desire-realm
+    → retain within the Desire Realm
 
 personality-view, discipline-and-observance grasping, and doubt
     → produce return after passage beyond

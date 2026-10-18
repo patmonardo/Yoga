@@ -5,7 +5,7 @@
 > sarvobhayebhyaḥ kāmāpto vartamānebhya āpyate /
 > maulebhyaḥ sarvakālebhyo dhyānānāsravasaṃvarau // 4.35 //
 
-> Desire-realm restraint is acquired from presently existing Bases, Essences,
+> Desire Realm restraint is acquired from presently existing Bases, Essences,
 > and Principles, across all three stages and both kinds; meditation-born and
 > uncontaminated restraint are acquired from root acts in all three times.
 
@@ -66,8 +66,8 @@ is made. The Sanskrit calls the three restraints
 There are these three restraints: prātimokṣa, meditation-born, and
 uncontaminated. If one of them is acquired from a given basis, are
 the other two acquired from it as well? No. What, then? “The
-desire-realm restraint is acquired from present bases across all
-and both.” The desire-realm restraint, that is, prātimokṣa, is
+Desire Realm restraint is acquired from present bases across all
+and both.” The Desire Realm restraint, that is, prātimokṣa, is
 acquired only from presently existing Bases, Essences,
 and Principles. “All” means the principal act, its preparation,
 and its aftermath. “Both” means bases designated sentient and

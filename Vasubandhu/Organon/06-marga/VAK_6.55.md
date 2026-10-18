@@ -44,7 +44,7 @@ The three **dhātu** here are existential domains—desire, form, and formless e
 
 The locative **kāme** governs **trayāptiḥ**: attainment of the first three śrāmaṇya-fruits occurs in the desire realm. The ellipsis in **antyasya triṣu** supplies *āptiḥ*: attainment of the final fruit occurs in all three domains.
 
-**na ūrdhvaṃ hi dṛkpathaḥ** gives the reason the third fruit cannot first be attained above: the Path of Seeing does not newly arise there. **asaṃvegāt** then supplies the kārikā's compressed reason, which the Bhāṣya applies to form-realm ordinary beings rather than indiscriminately to both higher domains.
+**na ūrdhvaṃ hi dṛkpathaḥ** gives the reason the third fruit cannot first be attained above: the Path of Seeing does not newly arise there. **asaṃvegāt** then supplies the kārikā's compressed reason, which the Bhāṣya applies to Form Realm ordinary beings rather than indiscriminately to both higher domains.
 
 The closing words cite an āgama in direct-speech form: **iha vidhā, tatra niṣṭhā**—“here is the commencement; there is the completion.” The opposition of the two locative adverbs correlates Path-origin and Path-completion without requiring identity of their domains.
 
@@ -102,9 +102,9 @@ Arhatship
       or ārūpyadhātu
 ```
 
-The first two fruits belong only to practitioners for whom desire-realm passion remains relevant. The third requires the Path of Seeing, which does not newly arise above the desire realm. Arhatship can complete a Path already begun below.
+The first two fruits belong only to practitioners for whom Desire Realm passion remains relevant. The third requires the Path of Seeing, which does not newly arise above the desire realm. Arhatship can complete a Path already begun below.
 
-**`Śravaṇābhāva / adhodhātvanālambana` — formless-realm constraints**
+**`Śravaṇābhāva / adhodhātvanālambana` — Formless Realm constraints**
 
 The Bhāṣya gives two reasons that are not stated explicitly in the kārikā:
 
@@ -123,7 +123,7 @@ therefore
 
 This directly connects Path-entry with both semantic transmission and determinate cognitive field.
 
-**`Asaṃvega / samāpatti-mukha-saṅga` — form-realm constraints**
+**`Asaṃvega / samāpatti-mukha-saṅga` — Form Realm constraints**
 
 Form-domain ordinary beings lack **`Saṃvega` — urgency for Path-entry** because they are attached to the entrances or modes of *samāpatti* and painful feeling is absent. Profound meditative attainment therefore does not by itself generate noble Seeing:
 
@@ -136,7 +136,7 @@ The working prose witness has a questionable form **saṃgenā** where the immed
 
 **`Saṃvega` — urgency for Path-entry**
 
-Here **`Saṃvega` — urgency for Path-entry** is the urgent disturbance or spiritual shock through which ordinary existence becomes practically oriented toward liberation. It is not sufficient by itself, but in the form-realm explanation its absence blocks initial acquisition of the noble Path.
+Here **`Saṃvega` — urgency for Path-entry** is the urgent disturbance or spiritual shock through which ordinary existence becomes practically oriented toward liberation. It is not sufficient by itself, but in the Form Realm explanation its absence blocks initial acquisition of the noble Path.
 
 **`Yukti / āgama` — reason and scriptural witness**
 
@@ -208,7 +208,7 @@ The Path is transdomain in range but not placeless in genesis.
 
 ## 9. Interpretive Note
 
-**Translation note.** The first two fruits require continuing relation to desire-realm passion; the third requires Seeing, which does not originate above that realm. The Bhāṣya gives hearing and lower-realm cognitive Conditions as the formless-realm constraints, and lack of *saṃvega* as the form-realm constraint. It glosses `vidhā` as `mārgārambha`, commencement of the Path. The source's `saṃgenā` is retained in the Bhāṣya witness beside the prose discussion of *saṃvega*.
+**Translation note.** The first two fruits require continuing relation to Desire Realm passion; the third requires Seeing, which does not originate above that realm. The Bhāṣya gives hearing and lower-realm cognitive Conditions as the Formless Realm constraints, and lack of *saṃvega* as the Form Realm constraint. It glosses `vidhā` as `mārgārambha`, commencement of the Path. The source's `saṃgenā` is retained in the Bhāṣya witness beside the prose discussion of *saṃvega*.
 
 
 VAK 6.55 gives Beginning and End their most concrete relation. Beginning is not an abstract first point: it is the conjunction of a communicable Dharma, an available cognitive field, and the existential capacity for *saṃvega*. End is not simply what was already latent in a superior domain: that domain can complete the Path only because the decisive Seeing was generated elsewhere.

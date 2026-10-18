@@ -49,7 +49,7 @@ They are connected with the formless realm, removing also the two pleasant facul
 
 ## 4. Movement and Voice of the Commentary
 
-A new axis, answered by cumulative exclusion. Within the form-realm clause, a scriptural objection asks how male still applies. The reply distinguishes the senses of male-being.
+A new axis, answered by cumulative exclusion. Within the Form Realm clause, a scriptural objection asks how male still applies. The reply distinguishes the senses of male-being.
 
 How, then, and where, make the exchange visible. No objector is named. No school. The restriction and the aesthetic reason are claims of the account. The passage does not give a biological theory of sex.
 
@@ -61,11 +61,11 @@ The nine that are twofold in outflow are included among connected types. That do
 
 Nineteen, fifteen, eight. The prose enumerates the eight. Possible connection, not a demand that every listed faculty occur together.
 
-## 6. Form-Realm Exclusions and the Male Name
+## 6. Form Realm Exclusions and the Male Name
 
 Two reasons for female and male: dispassion toward intercourse, and unattractiveness in that setting. The second does not replace the first.
 
-The sūtra calls a possible Brahmā male. The reply distinguishes desire-realm puruṣabhāva. It does not retract the absence of the faculty, and it does not specify the other characteristic. Social, symbolic, or anatomical would exceed the sentence.
+The sūtra calls a possible Brahmā male. The reply distinguishes Desire Realm puruṣabhāva. It does not retract the absence of the faculty, and it does not specify the other characteristic. Social, symbolic, or anatomical would exceed the sentence.
 
 Pain and distress have separate reasons. Clarity of the support, and absence of the unwholesome. A continuum softened by tranquillity, and no basis for resentment. Not one claim that a subtler realm is simply happier.
 
@@ -73,7 +73,7 @@ Pain and distress have separate reasons. Clarity of the support, and absence of 
 
 Pleasure and gladness go, and what possesses form. Earlier exclusions stand. The eight are mind, life, neutral feeling, faith, vigor, mindfulness, concentration, and Discrimination.
 
-Female and male were already out of the form-realm fifteen. Removing the remaining five of form, and the two pleasant faculties, leaves eight.
+Female and male were already out of the Form Realm fifteen. Removing the remaining five of form, and the two pleasant faculties, leaves eight.
 
 Not every dharma of that realm. Not a minimum theory of mind. Not liberation. The triad remains unconnected with all three.
 

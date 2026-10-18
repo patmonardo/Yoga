@@ -54,10 +54,10 @@ All the *parijñās* are fruits of *anāgamya*. For the
 fundamental dhyānas, according to the Vaibhāṣikas, five
 *parijñās* are fruits: those consisting in the abandonment
 of afflictions belonging to the form and formless domains.
-Abandonment of desire-realm afflictions is instead a fruit
+Abandonment of Desire Realm afflictions is instead a fruit
 of *anāgamya*. According to Bhadanta Ghoṣaka, there are
 eight. He holds that even for one already free from desire
-the abandonment through seeing of desire-realm afflictions
+the abandonment through seeing of Desire Realm afflictions
 is a fruit of the path of seeing, because an uncontaminated
 acquisition of disconnection is obtained. The *parijñā* of
 abandonment of the lower-part bonds, however, remains a
@@ -82,9 +82,9 @@ wide range; the assignment itself is the source claim.
 The Vaibhāṣika count for the fundamental dhyānas is five:
 the three higher-domain seeing-abandonments of 5.64 plus
 the form and final formless cultivation-abandonments of
-5.65. The desire-realm completions are attributed to
+5.65. The Desire Realm completions are attributed to
 *anāgamya*. Ghoṣaka counts eight by also allowing the three
-desire-realm seeing-abandonments as fruits of the path of
+Desire Realm seeing-abandonments as fruits of the path of
 seeing from a fundamental dhyāna. His reason is the fresh
 acquisition of **uncontaminated disconnection** even for
 one already free from desire. This exemplifies 5.63's

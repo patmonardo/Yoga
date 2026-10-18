@@ -5,7 +5,7 @@
 > kāmāśrayāṇy agradharmān dvayāśrayān labhate 'ṅganā |
 > bhūmityāgāt tyajaty āryas tāny anāryas tu mṛtyunā || 6.21 ||
 
-> The four roots conducive to penetration have the desire-realm as their living
+> The four roots conducive to penetration have the Desire Realm as their living
 > support. A woman obtains the Highest Mundane Dharmas with both supports. A
 > Noble practitioner relinquishes them by leaving their ground; an ordinary
 > practitioner relinquishes them at death.
@@ -54,7 +54,7 @@ The next unit starts at [347|08].
 
 ## 3. Continuous Conventional Translation
 
-All four roots have a support in the desire-realm. The first three initially
+All four roots have a support in the Desire Realm. The first three initially
 arise only among humans, on the three continents. Where they have already
 been produced, they may become manifest among gods. The fourth may initially
 arise among gods too. Women and men obtain the first three with either
@@ -74,7 +74,7 @@ has occurred.
 
 ## 4. Movement of the Commentary
 
-The commentary assigns a desire-realm living support to all four roots.
+The commentary assigns a Desire Realm living support to all four roots.
 It distinguishes their initial production from later manifestation,
 records the bodily-support classification, and then specifies two different
 conditions for loss according to the practitioner's status.
@@ -98,7 +98,7 @@ relation. This is project synthesis, not a grammatical claim of the verse.
 
 | Relation | Bhāṣya determination |
 |---|---|
-| Living support | Desire-realm for all four roots |
+| Living support | Desire Realm for all four roots |
 | Initial production | First three among humans of three continents; fourth also among gods |
 | Later manifestation | The first three may appear among gods if produced previously |
 | Bodily support | Both for the first three; Highest Dharmas differentiated by woman/man |

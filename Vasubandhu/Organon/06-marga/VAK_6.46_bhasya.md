@@ -66,7 +66,7 @@ there is no mundane attainment of that separation, and even if the
 supramundane attainment is relinquished in a change of faculties,
 that person does not again possess the corresponding afflictions.
 Likewise an ordinary person reborn above the first dhyāna may lose a
-mundane attainment of separation from desire-realm afflictions without
+mundane attainment of separation from Desire Realm afflictions without
 again possessing those afflictions. Hence the proposed reason is
 non-probative (`ajñāpaka`).
 
@@ -102,7 +102,7 @@ claim made by the verse.
 | Supramundane Path also yields both | `eke / apare` | Reported extension |
 | Loss of one attainment would restore affliction | Defender's reason | Rejected as non-probative |
 | Partly freed from the summit | Commentary's counterexample | No return of affliction |
-| Ordinary person reborn above first dhyāna | Commentary's counterexample | No return of desire-realm affliction |
+| Ordinary person reborn above first dhyāna | Commentary's counterexample | No return of Desire Realm affliction |
 
 The counterexamples defeat the proposed inference from a lost
 attainment to renewed possession; they do not erase the distinction

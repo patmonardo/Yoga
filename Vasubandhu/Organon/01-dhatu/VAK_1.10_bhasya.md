@@ -90,7 +90,7 @@ Sound, however, is eightfold. Fourfold, as caused by taken-up or not-taken-up Gr
 
 Taste is sixfold, by the division sweet, sour, salty, pungent, bitter, astringent. Odor is fourfold, because pleasant and unpleasant are each even and uneven. In the treatise, however, it is threefold: “pleasant, unpleasant, and even.”
 
-The tangible has eleven as its nature. The tangible has the nature of eleven substances: the four Great Elements, smoothness, roughness, heaviness, lightness, cold, hunger, and thirst. The Elements will be stated later. Smoothness is softness. Roughness is harshness. Heaviness is that by which things are weighed against one another. Lightness is the reverse. Cold makes the desire for warmth. Hunger makes the desire to eat, by designation of the effect for the cause. As it is said: “Pleasant is the arising of the Buddhas, pleasant the teaching of the Dharma, pleasant the concord of the Saṅgha, pleasant the austerity of the concordant.” In the form-realm, hunger and thirst are absent. The rest are present. Even if garments there are not weighed one by one, collected they are weighed. Cold that harms is absent. What favors is said to be present.
+The tangible has eleven as its nature. The tangible has the nature of eleven substances: the four Great Elements, smoothness, roughness, heaviness, lightness, cold, hunger, and thirst. The Elements will be stated later. Smoothness is softness. Roughness is harshness. Heaviness is that by which things are weighed against one another. Lightness is the reverse. Cold makes the desire for warmth. Hunger makes the desire to eat, by designation of the effect for the cause. As it is said: “Pleasant is the arising of the Buddhas, pleasant the teaching of the Dharma, pleasant the concord of the Saṅgha, pleasant the austerity of the concordant.” In the Form Realm, hunger and thirst are absent. The rest are present. Even if garments there are not weighed one by one, collected they are weighed. Cold that harms is absent. What favors is said to be present.
 
 Of this manifold visible form that has been stated, sometimes the eye-cognition arises from one substance, when its kind is cut off, and sometimes from many, when there is no cutting off. As when one sees from afar an array of an army, of many colors and configurations, or a heap of jewels. The ear-cognition and the rest are to be understood so. But some say the body-cognition arises from at most five tangibles: the four Great Elements and one such as smoothness. Others say from all eleven.
 
@@ -120,7 +120,7 @@ taste six
 odor four in the verse, three in the treatise
 
 tangible eleven
-    -> hunger and thirst absent in the form-realm
+    -> hunger and thirst absent in the Form Realm
 
 one and many
     -> eye-cognition from one substance, or from many

@@ -6,7 +6,7 @@
 > kāme 'śubhāḥ trayo dvidhā pareṇāvyākṛtās tataḥ || 5.52 ||
 
 > The five remaining envelopments are to be abandoned through cultivation and
-> are independent; the six stains are likewise. In the desire-realm these
+> are independent; the six stains are likewise. In the Desire Realm these
 > secondary afflictions are unwholesome, except that torpor, excitation, and
 > sleepiness can also be indeterminate. Above that domain, those occurring as
 > applicable are indeterminate.
@@ -61,9 +61,9 @@ of conjunction. As these five are cultivation-abandoned
 and independent, so too are the six afflictive stains.
 
 The upakleśas under discussion are unwholesome in the
-desire-realm. Even there, three have two possible ethical
+Desire Realm. Even there, three have two possible ethical
 values: torpor, excitation, and sleepiness can be
-unwholesome or indeterminate. Above the desire-realm,
+unwholesome or indeterminate. Above the Desire Realm,
 the upakleśas that occur there are indeterminate, as
 applicable.
 
@@ -80,9 +80,9 @@ factors causally unconditioned or metaphysically
 self-sufficient.
 
 The second part changes axis to ethical value by domain.
-The general desire-realm rule is `akuśala`, but torpor,
+The general Desire Realm rule is `akuśala`, but torpor,
 excitation, and sleepiness may be either `akuśala` or
-`avyākṛta` there. Above the desire-realm, occurring
+`avyākṛta` there. Above the Desire Realm, occurring
 upakleśas are `avyākṛta` **as applicable**; the statement
 does not assert that all sixteen discussed factors occur
 in every higher domain. The next verse determines that
@@ -92,7 +92,7 @@ distribution.
 in 5.51. There it distinguished seeing-abandonment and
 cultivation-abandonment. Here it distinguishes unwholesome
 and indeterminate ethical status for three factors within
-the desire-realm. Carrying the earlier gloss forward would
+the Desire Realm. Carrying the earlier gloss forward would
 misread the verse's active classification.
 
 ## 5. Translation and Interpretation
@@ -102,7 +102,7 @@ envelopments other than 5.51's named five. `Aśubha` is
 resolved by the prose's `akuśala`, “unwholesome.”
 `Avyākṛta` is “ethically indeterminate,” not wholesome or
 unaffected. `Pareṇa ... tataḥ` is read through the prose as
-above the desire-realm. `Yathāsaṃbhavam` restricts the
+above the Desire Realm. `Yathāsaṃbhavam` restricts the
 claim to factors that can occur there.
 
 **Organon reconstruction.** Path status, independence, domain

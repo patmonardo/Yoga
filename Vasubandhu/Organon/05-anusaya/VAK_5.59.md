@@ -27,7 +27,7 @@ the prose-secured sense without silently replacing the witness.
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `kāme` | locative singular neuter | in the desire-realm |
+| `kāme` | locative singular neuter | in the Desire Realm |
 | `nivaraṇāni` | nominative plural neuter | hindrances; factors classified by Path-obstructing function |
 | `eka-vipakṣa-āhāra-kṛtyataḥ` | ablative singular compound | because of one counter-condition, nourishment, and function |
 | `dvayakaitāḥ` | transmitted, grammatically problematic form | resolved by the Bhāṣya through `dvyekatā`, the unity of two |
@@ -49,7 +49,7 @@ nivaraṇāni
     kāme [santi]
 ```
 
-The technical five hindrances belong to the desire-realm. The long ablative
+The technical five hindrances belong to the Desire Realm. The long ablative
 compound gives the reason that each of two pairs counts as one hindrance:
 
 ```text
@@ -76,13 +76,13 @@ settling them through grammar alone.
 
 ### Literal Translation
 
-> The hindrances are in the desire-realm. [There is] unity of two because of
+> The hindrances are in the Desire Realm. [There is] unity of two because of
 > one counter-condition, nourishment, and function. [There is] fivefoldness
 > because of obstruction of the Bases and doubt.
 
 ### Bhāṣya-informed study translation
 
-> The five hindrances belong to the desire-realm. Torpor with sleepiness and
+> The five hindrances belong to the Desire Realm. Torpor with sleepiness and
 > restlessness with remorse each count as one because each pair shares a
 > counteragent, nourishment, and function. They are five because they obstruct
 > the Path-Bases of discipline, concentration, and
@@ -113,7 +113,7 @@ The verse thus shifts the question from “what kind of factor is this?” to
 5. vicikitsā            doubt
 ```
 
-The technical fivefold class belongs to the desire-realm because the sūtra
+The technical fivefold class belongs to the Desire Realm because the sūtra
 characterizes it as a complete unwholesome mass.
 
 **`Nivaraṇa` — hindrance**
@@ -222,9 +222,9 @@ single source position.
 
 ## 9. Interpretive Note
 
-**desire-realm restriction.** Torpor, agitation, and doubt may be discussed
+**Desire Realm restriction.** Torpor, agitation, and doubt may be discussed
 across realms elsewhere, but the canonical set of five nivaraṇas is here
-restricted to the desire-realm through its characterization as wholly
+restricted to the Desire Realm through its characterization as wholly
 unwholesome.
 
 **Factor identity versus intervention-unit identity.** Torpor is not

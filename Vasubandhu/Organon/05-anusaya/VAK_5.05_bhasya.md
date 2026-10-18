@@ -10,7 +10,7 @@
 > realm. Thus they are reckoned as ninety-eight.
 
 The half-verses are interleaved with prose. In `ta eva`, “those same”
-resumes the completed desire-realm classification, not merely the
+resumes the completed Desire Realm classification, not merely the
 four cultivation-abandoned kinds.
 
 ## 2. Continuous Sanskrit
@@ -80,10 +80,10 @@ given truth are themselves abandoned through seeing that truth;
 the remainder are abandoned through cultivation. Thus there are
 twelve views, four doubts, five attachments, five resistances, five
 conceits, and five instances of ignorance. These are thirty-six
-anuśayas belonging to the desire-realm.
+anuśayas belonging to the Desire Realm.
 
-“Those same, again without resistance, in the form-realm”: removing
-the five modes of resistance leaves thirty-one in the form-realm.
+“Those same, again without resistance, in the Form Realm”: removing
+the five modes of resistance leaves thirty-one in the Form Realm.
 “Likewise in the formless domain”: there too are thirty-one.
 “Thus ninety-eight are held.” In this way, the Abhidharmikas hold
 that the six anuśayas amount to ninety-eight through distinctions
@@ -91,7 +91,7 @@ of aspect, mode, and domain.
 
 ## 4. Argument and Doctrinal Determination
 
-The commentary completes the desire-realm count begun in 5.04:
+The commentary completes the Desire Realm count begun in 5.04:
 
 | Kind | Cases |
 |---|---:|
@@ -101,7 +101,7 @@ The commentary completes the desire-realm count begun in 5.04:
 | Resistance | 5 |
 | Conceit | 5 |
 | Ignorance | 5 |
-| **desire-realm total** | **36** |
+| **Desire Realm total** | **36** |
 
 The two higher domains repeat the classification minus the five
 resistance cases: `36 − 5 = 31` in each. Hence `36 + 31 + 31 = 98`.

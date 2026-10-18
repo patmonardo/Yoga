@@ -81,7 +81,7 @@ steps:
    class to six equanimity-Rangings and distributes their lower, own, and
    higher Conditions as six, four, and one.
 
-The closure `uktā rūpapratisaṃyuktāḥ`—“the form-realm-connected rangings have
+The closure `uktā rūpapratisaṃyuktāḥ`—“the Form Realm-connected rangings have
 been stated”—marks the natural endpoint. The next unit turns to rangings
 connected with the formless realm and belongs to VAK 3.35.
 
@@ -154,9 +154,9 @@ formless realm
     sensory Conditions absent → 1
 ```
 
-`Sva` and `para` are relational terms centered on the Form-realm station.
+`Sva` and `para` are relational terms centered on the Form Realm station.
 The desire realm is lower, the Form realm is own, and the Formless realm is
-higher. These relations do not change the Form-realm connection of the
+higher. These relations do not change the Form Realm connection of the
 Rangings.
 
 ## 8. Three Axes of Admissibility
@@ -171,7 +171,7 @@ realm of belonging
 
 The unit shows why no coordinate can replace the others:
 
-- Form-realm connection does not restrict the Condition to the Form realm;
+- Form Realm connection does not restrict the Condition to the Form realm;
 - third- or fourth-dhyāna station removes gladness and distress but leaves
   six equanimity-Rangings with the desire realm as Condition;
 - the target realm restricts which of those fields it can actually supply.
@@ -212,5 +212,5 @@ distribution.
 
 The compact syntax of `svo 'ṣṭālambanam` depends on the continuation from
 VAK 3.33. The Bhāṣya identifies `dhyānadvaya` here as the third and fourth
-dhyānas. The Study stops at the explicit closure of the Form-realm-connected
+dhyānas. The Study stops at the explicit closure of the Form Realm-connected
 Rangings and does not begin VAK 3.35.

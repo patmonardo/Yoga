@@ -66,7 +66,7 @@ support extends over the whole of their own domain.
 
 Do they take that support all at once or in sequence? If in
 sequence, the same claim would extend to other afflictions. If
-all at once, who takes the whole desire-realm as something
+all at once, who takes the whole Desire Realm as something
 purifying, or the whole domain's non-causes as causes? Calling
 the range “whole” does not say that every item is taken at one
 moment; the reply instead speaks of all five relevant modes

@@ -136,12 +136,12 @@ are one, two, or six; five is excluded.
 
 **One relinquished**
 
-One who falls from arhatship or from desire-realm dispassion relinquishes one
+One who falls from arhatship or from Desire Realm dispassion relinquishes one
 parijñā.
 
 **Two relinquished**
 
-A non-returner free from passion for form who falls from desire-realm
+A non-returner free from passion for form who falls from Desire Realm
 dispassion relinquishes two.
 
 **Five relinquished**
@@ -153,12 +153,12 @@ parijñā.
 **Six relinquished**
 
 An `ānupūrvika`, one proceeding in regular sequence, relinquishes six upon
-attainment of desire-realm dispassion.
+attainment of Desire Realm dispassion.
 
 **The acquisition cases**
 
 One acquires a parijñā not previously possessed; two are acquired by one who
-falls solely from formless-realm dispassion; six are acquired by one who
+falls solely from Formless Realm dispassion; six are acquired by one who
 falls from the fruit of non-returning. No transition produces five as a newly
 acquired possession-set.
 

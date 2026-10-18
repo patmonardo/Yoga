@@ -5,7 +5,7 @@
 > kāmāptaduḥkhaviṣayā tv adhimātrā kṣaṇaṃ ca sā |
 > tathāgradharmāḥ sarve tu pañcaskandhā vināptibhiḥ || 6.19 ||
 
-> Strong Acceptance takes desire-realm suffering as its cognitive Condition
+> Strong Acceptance takes Desire Realm suffering as its cognitive Condition
 > and lasts one moment. So too do all the Highest Mundane Dharmas. All [these
 > stages] comprise five Bases without acquisitions.
 
@@ -85,16 +85,16 @@ collation. The next unit starts at [345|21].
 ## 3. Continuous Conventional Translation
 
 “Strong” still qualifies Acceptance. Its cognitive Condition is only
-suffering belonging to the desire-realm. Because no corresponding restriction
+suffering belonging to the Desire Realm. Because no corresponding restriction
 was stated for Heat and the earlier stages, their range can include suffering
 and the other truths across the three realms. The commentary reports a
 progressive contraction: one sets aside the counteractions of form and
-formless realms and the broader truth Conditions until desire-realm suffering
+formless realms and the broader truth Conditions until Desire Realm suffering
 alone is attended to. When two moments remain, this is still medium
 Acceptance; when only one moment remains, it is strong Acceptance. This
 Acceptance is momentary rather than an extended series.
 
-The Highest Dharmas are likewise directed to desire-realm suffering and last
+The Highest Dharmas are likewise directed to Desire Realm suffering and last
 one moment. They are mundane and highest, hence called Highest Mundane
 Dharmas: supreme among mundane dharmas. Although they are not a homogeneous
 cause of the Path, they draw the Path in through their own causal efficacy.
@@ -125,7 +125,7 @@ case-by-case inflections remain provisional.
 ## 4. Movement of the Commentary
 
 The commentary first confines strong Acceptance to one moment of
-desire-realm suffering. It assigns the same field and duration to the Highest
+Desire Realm suffering. It assigns the same field and duration to the Highest
 Mundane Dharmas and explains their causal relation to the Path. It then
 separates Prajñā as intrinsic nature from the five-Base associated
 event, excluding acquisition from that event. The closing matrix classifies
@@ -154,7 +154,7 @@ project layer.
 
 | Determination | Strong Acceptance | Highest Mundane Dharmas |
 |---|---|---|
-| Cognitive Condition | Desire-realm suffering alone | Same |
+| Cognitive Condition | Desire Realm suffering alone | Same |
 | Duration | One moment | One moment |
 | Status | Preparatory Acceptance | Supreme within mundane dharmas |
 | Causal role | Precedes the last mundane stage | Draws in the Path without homogeneous causation |

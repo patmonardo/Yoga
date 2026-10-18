@@ -75,7 +75,7 @@ immovable. Why, then, is what is called moved in one place called
 immovable elsewhere?
 
 “Because karma does not shift from those levels with respect to
-maturation.” Desire-Realm karma does move with respect to
+maturation.” Desire Realm karma does move with respect to
 maturation. How? Because its placement is not fixed. Karma associated
 with one destiny can ripen in another; karma associated with one
 class of gods can ripen in another divine class. The same karma
@@ -124,11 +124,11 @@ classification is:
 | `apuṇya` | Unwholesome karma, treated as familiar usage |
 | `āneñja` | Wholesome karma of the Form and Formless Realms, fixed as to its maturation level |
 
-`Avyavasthāna` explains the comparative mobility of Desire-Realm
+`Avyavasthāna` explains the comparative mobility of Desire Realm
 results; `anyapratyayavaśāt` preserves the role of other conditions.
 `Vyavasthitavipākatva` is the positive ground for calling higher
 karma immovable. The contrast concerns the **level of maturation**,
-not a claim that Desire-Realm karma produces arbitrary results or
+not a claim that Desire Realm karma produces arbitrary results or
 that higher-realm karma has ceased to be conditioned.
 
 The last two sentences make the section boundary explicit: the

@@ -155,7 +155,7 @@ This verse states the intermingled-dhyāna and Akaniṣṭha member; the contras
 
 At this point the Bhāṣya establishes only its local Path-function: the technical history or configuration of dhyāna causally determines the upward trajectory and maximal destination. **Vyavakīrṇa** should not be reduced to ordinary psychological distraction or mixture.
 
-Nor should this technical Kośa classification be identified with the project's dhyāna on OM-Artha. That practice concerns the semantic relation enacted through OM; this passage concerns a specific Abhidharma meditative condition governing post-desire-realm rebirth.
+Nor should this technical Kośa classification be identified with the project's dhyāna on OM-Artha. That practice concerns the semantic relation enacted through OM; this passage concerns a specific Abhidharma meditative condition governing post-Desire Realm rebirth.
 
 **`Akaniṣṭha` — endpoint of this upward course**
 
@@ -206,7 +206,7 @@ by Akaniṣṭha as its endpoint. The contrasting upward-stream case belongs to
 the following verse.
 
 
-VAK 6.36 showed that destruction of the final desire-realm grade eliminates return to that domain. VAK 6.37 prevents us from mistaking that negative determination for an empty beyond. The non-returner's continuum remains positively differentiated by its Path-current, effort, meditative history, and destination.
+VAK 6.36 showed that destruction of the final Desire Realm grade eliminates return to that domain. VAK 6.37 prevents us from mistaking that negative determination for an empty beyond. The non-returner's continuum remains positively differentiated by its Path-current, effort, meditative history, and destination.
 
 The *ūrdhvasrotas* is especially important for the genesis of Path. A stream is not a substance transported through places; it is the ordered continuity of the movement itself. Its earlier cultivation determines which higher loci can become moments of that movement and where its completion can occur.
 

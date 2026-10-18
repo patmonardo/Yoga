@@ -26,12 +26,12 @@ yathākramaṃ prahīyante kāme duḥkhādi-darśanaiḥ || 5.4 ||
 | tri-dvi-dṛṣṭi-vivarjitāḥ | compound adjective; masculine; nominative plural | reduced groups lacking three or two views |
 | yathā-kramam | indeclinable compound | in corresponding order |
 | prahīyante | verb; present passive; third-person plural (lemma: pra-√hā) | are abandoned |
-| kāme | noun; masculine; locative singular (lemma: kāma) | in the desire-realm |
+| kāme | noun; masculine; locative singular (lemma: kāma) | in the Desire Realm |
 | duḥkha-ādi-darśanaiḥ | compound noun; neuter; instrumental plural | through seeing suffering and the other truths |
 
 Word division: *daśaite* = *daśa ete*; *saptāṣṭau* = *sapta aṣṭau*;
 *duḥkhādi* = *duḥkha ādi*. The ten anuśayas of 5.03 are now distributed
-within the desire-realm according to the truth-seeing through which they
+within the Desire Realm according to the truth-seeing through which they
 are abandoned.
 
 The sequence indicated by `duḥkhādi` is suffering, origination, cessation, and
@@ -82,13 +82,13 @@ excluded views.
 
 ### Literal Translation
 
-> In the desire-realm, these [anuśayas]—ten, seven, seven, and eight, the
+> In the Desire Realm, these [anuśayas]—ten, seven, seven, and eight, the
 > latter groups respectively lacking three and two views—are abandoned in
 > sequence through seeing suffering and the remaining truths.
 
 ### Bhāṣya-informed study translation
 
-> In the desire-realm, these anuśayas—ten through seeing suffering, seven
+> In the Desire Realm, these anuśayas—ten through seeing suffering, seven
 > through seeing origination, seven through seeing cessation, and eight
 > through seeing the Path—are abandoned in order. The two groups of seven
 > lack three views each, and the group of eight lacks two.
@@ -96,7 +96,7 @@ excluded views.
 ## 6. Philosophical Translation
 
 > An affliction is not completely known when it has merely been named. Within
-> the desire-realm it must be related to the truth whose disclosure removes
+> the Desire Realm it must be related to the truth whose disclosure removes
 > its cognitive standing. All ten basic forms can be abandoned through seeing
 > suffering, while only specifically admissible groups are correlated with
 > seeing origination, cessation, and the Path. The resulting thirty-two are
@@ -118,7 +118,7 @@ other anuśayas after disclosure.
 
 ## 7. Technical Vocabulary
 
-**`Kāma` / `kāmadhātu` — desire-realm**
+**`Kāma` / `kāmadhātu` — Desire Realm**
 
 The first existential realm in which the tenfold anuśaya scheme is worked
 out. This is a contextual use of `dhātu` as an encompassing realm:
@@ -158,7 +158,7 @@ truths.
 **`Bhāvanāprahātavya` — to be abandoned through cultivation**
 
 The complementary classification is introduced in the preceding prose and
-taken up by the next verse. Its four desire-realm members are established
+taken up by the next verse. Its four Desire Realm members are established
 there.
 
 **`Mārgābhyāsa` — repeated practice of the Path**
@@ -215,7 +215,7 @@ The Bhāṣya introduces a further difference within transformation:
 ```text
 darśana
     decisive disclosure
-    → 32 desire-realm cases
+    → 32 Desire Realm cases
 
 bhāvanā
     cultivation after disclosure

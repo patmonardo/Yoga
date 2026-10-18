@@ -50,7 +50,7 @@ Excludes formless unobscured.
 > Form realm, eleven follow the wholesome, which follows nine.
 ### Bhāṣya-informed study translation
 
-> Desire-realm unobscured-indeterminate follows five, and seven follow it.
+> Desire Realm unobscured-indeterminate follows five, and seven follow it.
 > In the Form realm, eleven follow wholesome consciousness, which itself
 > follows nine.
 ## 6. Philosophical Translation

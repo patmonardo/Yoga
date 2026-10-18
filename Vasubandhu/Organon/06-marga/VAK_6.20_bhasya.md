@@ -82,7 +82,7 @@ This fourfold class is cultivation-born, not born of hearing or reflection.
 Its grounds are the preliminary concentration, the intermediate
 concentration, and the four dhyānas, because it is included in those
 levels. It does not occur above them: these roots accompany the Path of
-Seeing, which is absent above because it takes the desire-realm as its
+Seeing, which is absent above because it takes the Desire Realm as its
 cognitive Condition, and that realm must first be fully known and
 abandoned. In the form realm the roots have a five-Base maturation.
 They are completing rather than projecting causes, because they turn
@@ -90,7 +90,7 @@ against continued existence.
 
 “The two may also be below”: *vā* marks a difference of opinion. For
 Bhadanta Ghoṣaka, the first two roots have seven possible grounds, because
-they also occur on the desire-realm level.
+they also occur on the Desire Realm level.
 
 ## 4. Movement of the Commentary
 
@@ -107,7 +107,7 @@ that abandons doubt and discriminates the truths; `bhāgīya` names the
 roots' beneficial, bringing-on relation to it. The text does not identify
 these mundane roots with the Noble Path. `Bhāvanāmayam` excludes both
 hearing-born and reflection-born formation. The commentary's
-`kāmadhātvālambana` is the desire-realm as cognitive Condition, while the
+`kāmadhātvālambana` is the Desire Realm as cognitive Condition, while the
 final `kāmāvacare` is a proposed ground on which the first two roots may
 occur. The irregular readings listed above remain visible rather than being
 silently regularized.
@@ -123,7 +123,7 @@ additional label for the roots themselves. This is project synthesis.
 | Determination | Principal account | Ghoṣaka's alternative |
 |---|---|---|
 | Stages | Heat, Summits, Acceptances, Highest Mundane Dharmas | Same four |
-| Grounds | Preliminary concentration, intermediate concentration, four dhyānas | Desire-realm added for Heat and Summits only |
+| Grounds | Preliminary concentration, intermediate concentration, four dhyānas | Desire Realm added for Heat and Summits only |
 | Strength | First two weak; Acceptances medium; Highest Dharmas strongest | No different ranking stated |
 | Production | Cultivation-born, excluding hearing and reflection | No different mode stated |
 | Causal role | Bring on penetration; complete rather than project continued existence | No different causal role stated |

@@ -134,7 +134,7 @@ dhyāna.
 ## 5. Textual and Doctrinal Limits
 
 The reply `durbalaṃ tu tat` does not explicitly select “wholesome”
-or “unwholesome” after asking which the Desire-Realm neutral-result
+or “unwholesome” after asking which the Desire Realm neutral-result
 karma is. The running e-text may be compressed or damaged; the study
 does not supply a missing answer. The closing analogy at [229|05–06]
 is also insufficiently clear for a confident reconstruction of its

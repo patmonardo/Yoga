@@ -74,7 +74,7 @@ iti.
 
 The running witness contains evident mechanical corruption throughout
 147.10–148.11, including damaged negatives, sandhi, and the opening of the
-desire-realm statement. The continuous text makes provisional contextual
+Desire Realm statement. The continuous text makes provisional contextual
 repairs. Its division of speakers and the precise wording of the sensory
 example require verification against critical witnesses. At 147.14–15 the
 running `tadyathā 'śubhā` is divided as `tad yathā 'śubhā`, preserving the
@@ -120,7 +120,7 @@ the higher, Formless realm is the cognitive Condition for the three
 Dharma-Rangings because Form and the other sensory Conditions are absent
 there.
 
-The desire-realm-connected rangings have been stated. Those connected with
+The Desire Realm-connected rangings have been stated. Those connected with
 the Form realm must now be stated. In the first two dhyānas there are twelve,
 excluding the distress-Rangings. Those twelve are “desire-going”: they take
 the desire realm as cognitive Condition. A verb of going is indeed used in
@@ -144,7 +144,7 @@ ranging can exceed the object presently delivered by a sensory faculty, and
 its affective character is not fixed by that object alone.
 
 The final question and answer at 148.11 confirm the interpretation of
-`kāmaga` but do not yet enter the continuation of the form-realm distribution
+`kāmaga` but do not yet enter the continuation of the Form Realm distribution
 in VAK 3.34. That is the stopping boundary here.
 
 ## 5. Mental Level and Sensory Elicitation
@@ -213,7 +213,7 @@ pratisaṃyukta
     the realm or Condition it can take as cognitive support
 ```
 
-The verse first maps the desire-realm-connected rangings and their possible
+The verse first maps the Desire Realm-connected rangings and their possible
 object-realms:
 
 | Realm as cognitive Condition | Rangings admitted | Reason for restriction |
@@ -285,7 +285,7 @@ This Study covers 147.10–148.11: the third-dhyāna question, sensory
 elicitation and mental-level ranging, affective determination relative to a
 continuum, realm and Condition distributions, and the twelve rangings
 connected with the first two dhyānas. It stops at the explanation of
-`kāmaga`, before VAK 3.34's further distribution of Form-realm Rangings.
+`kāmaga`, before VAK 3.34's further distribution of Form Realm Rangings.
 
 The source witness contains mechanical corruptions. The contextual repairs
 and the interpretation of `saṃtānaṃ niyamya`, `rūpī`, and `kāmaga` remain

@@ -7,7 +7,7 @@
 
 > Through holding consciousness between the eyebrows, one is called one whose
 > attention has passed beyond. The unattractive is non-greed, has ten grounds,
-> takes visible Form of the desire-realm as its cognitive Condition, and
+> takes visible Form of the Desire Realm as its cognitive Condition, and
 > arises among humans.
 
 The Bhāṣya completes the third practitioner stage, then answers successive
@@ -77,11 +77,11 @@ unmastered or mastered mode of attention can take one's own body or the field
 as far as the ocean as its Condition. What is the intrinsic nature of the
 unattractive practice? On how many grounds does it occur? What does it take as
 its Condition? Where does it arise? The verse answers in order: non-greed is
-its nature; it occurs on ten grounds; it takes visible form in the desire-realm
+its nature; it occurs on ten grounds; it takes visible form in the Desire Realm
 as its Condition; and it arises among humans.
 
 The prose specifies the four dhyānas together with their neighboring levels,
-the intermediate dhyāna, and the desire-realm in its ground count. A further
+the intermediate dhyāna, and the Desire Realm in its ground count. A further
 question concerns which visible forms the practice takes up; its transmitted
 wording is damaged, so the precise qualification remains open. The practice
 arises only among humans, in no other destiny, and even there not in
@@ -126,7 +126,7 @@ relations, not its own terminology.
 | Practitioner stage | Attention has passed beyond the skeletal support |
 | Intrinsic nature | Non-greed (`alobha`) |
 | Ground range | Ten grounds |
-| Cognitive Condition | Visible form of the desire-realm |
+| Cognitive Condition | Visible form of the Desire Realm |
 | Production | Human, excluding Uttarakuru |
 | Influx status | With influx (`sāsrava`) |
 | Provenance | Gained through detachment or developed through application |

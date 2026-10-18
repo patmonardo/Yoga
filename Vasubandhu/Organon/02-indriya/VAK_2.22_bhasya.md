@@ -36,7 +36,7 @@
 > saśabdā punarete paramāṇava utpadyamānā yathākramaṃ navadaśaikādaśa dravyakā utpadyante /
 > asti hīndriyāvinirbhāgī śabdo 'pi ya upāttamahābhūtahetukaḥ /
 
-The unit is printed 52.19–54.02 in `Vasubandhu/Sources/kosabhasya.txt`. The witness above is the rule. The objections through the appeal to examine the meaning are reported below. Defects are retained in the source and resolved only in translation: kāma ghātāvaśābdako as desire-realm and soundless, aṣṭo dravyāṇi as eight constituents. No independent collation is claimed.
+The unit is printed 52.19–54.02 in `Vasubandhu/Sources/kosabhasya.txt`. The witness above is the rule. The objections through the appeal to examine the meaning are reported below. Defects are retained in the source and resolved only in translation: kāma ghātāvaśābdako as Desire Realm and soundless, aṣṭo dravyāṇi as eight constituents. No independent collation is claimed.
 
 ## 3. Continuous Conventional Translation
 
@@ -92,7 +92,7 @@ Eight is not eight particles. The passage examines the convention. The appeal to
 
 Paramāṇu is the most subtle cluster of form. Beyond which a further smaller cluster could not be discerned is a contextual construal of a terse clause. Not particle physics.
 
-Defects stay in the source. Desire-realm, eight constituents, sustaining, absence of admixture, and the question about the effort are contextual readings, not emendations. The needle compound and the shape clause are less secure. Their functions are predominance and additional determinations. The wording wants collation.
+Defects stay in the source. Desire Realm, eight constituents, sustaining, absence of admixture, and the question about the effort are contextual readings, not emendations. The needle compound and the shape clause are less secure. Their functions are predominance and additional determinations. The wording wants collation.
 
 ## 9. Interpretation
 

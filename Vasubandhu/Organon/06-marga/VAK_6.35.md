@@ -46,7 +46,7 @@ The preverb-like **ā** in **ā-pañcama** sets an inclusive terminus: abandonme
 
 In the contrasting clause, **kṣīṇa-ṣaṣṭha-prakāraḥ** is a possessive description: the sixth grade has become exhausted for that practitioner. **asau** resumes the same person, while **punaḥ** marks the next determination in the sequence. **sakṛdāgāmī** is then predicated: that candidate is now a once-returner.
 
-The verse itself states the grade-boundary. Its restriction to cultivation-abandonable desire-realm afflictions and the causal explanation of once-returning are supplied by the Bhāṣya.
+The verse itself states the grade-boundary. Its restriction to cultivation-abandonable Desire Realm afflictions and the causal explanation of once-returning are supplied by the Bhāṣya.
 
 **Future Feature Grammar sketch (not executable):**
 

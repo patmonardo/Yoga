@@ -181,7 +181,7 @@ The Path is the stream toward Nirvāṇa, and the person who has reached it
 is a stream-enterer. If initial acquisition of the Path alone sufficed,
 the “eighth person” would have this name too. If acquisition of the first
 fruit alone sufficed without qualification, the person already detached
-from the desire-realm would also be so named. The reply considers the
+from the Desire Realm would also be so named. The reply considers the
 first fruit common to fruit-attainers and the acquisition of the Path
 proper to its candidate, both Seeing and Cultivation Paths, and complete
 realization of the stream at Anvaya-Knowing concerning the Path.
@@ -193,7 +193,7 @@ The scriptural statement that a person endowed with Seeing cannot
 produce an eighth existence prompts a restriction to one destination.
 A literal application to every destination would also exclude
 intermediate existence and conflict with a case of an upward-streaming
-practitioner; the reply limits the statement's intent to the desire-realm.
+practitioner; the reply limits the statement's intent to the Desire Realm.
 What proves the proposed distribution? One recitation speaks of seven
 times among gods and humans together; the Kāśyapīya recitation speaks
 of seven times among gods and seven among humans. The commentary says

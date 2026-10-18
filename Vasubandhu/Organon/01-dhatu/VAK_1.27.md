@@ -18,32 +18,67 @@ pratipādyā yathokteṣu saṃpradhārya svalakṣaṇam // 1.27 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| tathā | indeclinable | likewise; the eighty thousand were already placed in the five bases |
-| anye api | nominative masculine plural, with particle | others also |
-| yathāyogam | adverbial compound | as appropriate to each |
-| skandhāyatanadhātavaḥ | skandha-āyatana-dhātavaḥ; nominative plural | bases, essences, and principles |
-| pratipādyāḥ | gerundive, nominative plural | are to be assigned |
-| yathokteṣu | locative plural | among those already stated |
-| saṃpradhārya | absolutive | having determined; this precedes the assignment |
-| svalakṣaṇam | sva-lakṣaṇam; accusative neuter singular | its own characteristic |
+| tathā | indeclinable | likewise; the eighty thousand were already placed in the five Bases |
+| anye | nominative masculine plural | others; designations in other sūtras |
+| api | particle | also |
+| yathā-yogam | avyayībhāva; adverbial | as appropriate to each |
+| skandha-āyatana-dhātavaḥ | dvandva; nominative masculine plural | Bases, Essences, and Principles; subject |
+| pratipādyāḥ | prati-√pad, causative gerundive; nominative masculine plural | are to be assigned; agrees with the subject |
+| yathā-ukteṣu | locative plural | among those already stated |
+| saṃpradhārya | sam-pra-√dhṛ, causative absolutive | having determined; precedes the assignment |
+| sva-lakṣaṇam | sva-lakṣaṇa; accusative neuter singular | own-characteristic; object of the absolutive |
 
 The commentary doubles the characteristic: each one's own. It is to be determined as set out in this treatise.
 
-## 4. Grammar
+**Grammar tokens.** Verse-order IAST with sandhi opened (`tathānye` →
+*tathā anye*, `'pi` → *api*, `yathokteṣu` → *yathā-ukteṣu*) and compound
+boundaries marked. No covert token is supplied.
 
 ```text
-saṃpradhārya svalakṣaṇam
-    determination first
-
-anye api skandha-āyatana-dhātavaḥ
-    other bases, essences, and principles
-
-yathokteṣu pratipādyāḥ
-    assigned among those already stated
-
-yathāyogam
-    as appropriate
+# tokens: tathā anye api yathā-yogam skandha-āyatana-dhātavaḥ pratipādyāḥ yathā-ukteṣu saṃpradhārya sva-lakṣaṇam
 ```
+
+## 4. Grammar
+
+*Tathā* compares with the eighty thousand already placed. The subject,
+*anye ... skandha-āyatana-dhātavaḥ*, agrees in case, number, and gender
+with the gerundive *pratipādyāḥ*. The locative names where; the
+absolutive with its accusative names what must be done first;
+*yathāyogam* names how the characteristic fits the place.
+
+```nltk-fcfg
+% start S
+# tokens: tathā anye api yathā-yogam skandha-āyatana-dhātavaḥ pratipādyāḥ yathā-ukteṣu saṃpradhārya sva-lakṣaṇam
+S[SEM=<(?likewise & all x.((?others(x) & ?names(x)) -> exists k p.(?own(x)(k) & ?determined(k)(x) & ?among(p) & ?assign(x)(p) & ?manner(k)(p))))>] -> LIKEWISE[SEM=?likewise] OTHERS[CASE=nom,NUM=?n,GEN=?g,SEM=?others] ALSO MANNER[SEM=?manner] NAMES[CASE=nom,NUM=?n,GEN=?g,SEM=?names] GERUNDIVE[CASE=nom,NUM=?n,GEN=?g,SEM=?assign] AMONG[CASE=loc,NUM=pl,SEM=?among] ABS[SEM=?determined] OWN[CASE=acc,SEM=?own]
+LIKEWISE[SEM=<PlacedIn(eighty_thousand,five_bases)>] -> 'tathā'
+OTHERS[CASE=nom,NUM=pl,GEN=m,SEM=<\x.InOtherSutra(x)>] -> 'anye'
+ALSO -> 'api'
+MANNER[SEM=<\k p.FitsAsAppropriate(k,p)>] -> 'yathā-yogam'
+NAMES[CASE=nom,NUM=pl,GEN=m,SEM=<\x.(BaseName(x) | EssenceName(x) | PrincipleName(x))>] -> 'skandha-āyatana-dhātavaḥ'
+GERUNDIVE[CASE=nom,NUM=pl,GEN=m,SEM=<\x p.ToBeAssigned(x,p)>] -> 'pratipādyāḥ'
+AMONG[CASE=loc,NUM=pl,SEM=<\p.Established(p)>] -> 'yathā-ukteṣu'
+ABS[SEM=<\k x.DeterminedBeforeAssignment(x,k)>] -> 'saṃpradhārya'
+OWN[CASE=acc,NUM=sg,GEN=n,SEM=<\x k.OwnCharacteristic(x,k)>] -> 'sva-lakṣaṇam'
+```
+
+```nltk-dep
+'pratipādyāḥ' -> 'skandha-āyatana-dhātavaḥ' | 'tathā' | 'yathā-yogam' | 'yathā-ukteṣu' | 'saṃpradhārya'
+'skandha-āyatana-dhātavaḥ' -> 'anye'
+'anye' -> 'api'
+'saṃpradhārya' -> 'sva-lakṣaṇam'
+```
+
+**Close construe.** Likewise, other Bases, Essences, and Principles also
+are, as appropriate, to be assigned among those already stated, having
+determined the own-characteristic.
+
+The rule is a universal over designations from other sūtras. Each must
+have an own-characteristic, determined before assignment, and a place
+among the established that the characteristic fits. `ToBeAssigned`
+renders the gerundive's obligation, not a completed act. `Established`
+ranges over the five, the twelve, and the eighteen already stated; the
+rule cannot introduce a place. The dvandva is a disjunction of name-kinds,
+not a claim that each designation bears all three names.
 
 The absolutive precedes the gerundive. A scriptural name is not yet a place. The place is among the five, the twelve, and the eighteen already stated.
 
@@ -51,7 +86,7 @@ The absolutive precedes the gerundive. A scriptural name is not yet a place. The
 
 ### Literal Translation
 
-> Likewise, other bases, essences, and principles also are to be assigned,
+> Likewise, other Bases, Essences, and Principles also are to be assigned,
 > as appropriate, among those already stated, having determined the own-
 > characteristic.
 
@@ -65,32 +100,139 @@ The absolutive precedes the gerundive. A scriptural name is not yet a place. The
 
 Likewise the others. Determine the own-characteristic. Then assign.
 
-The name base, or essence, or principle, in another sūtra, is not a new member. It is assigned among those already stated, as appropriate.
+The name Base, or Essence, or Principle, in another sūtra, is not a new member. It is assigned among those already stated, as appropriate.
 
-Principal nature and the attended complex are not the same scope. Eight totalities are non-greed, and so the dharma-essence. With their attendants they are five bases, and so the mind-essence and the dharma-essence. The change of place is the change of scope. It is not two systems.
+Principal nature and the attended complex are not the same scope. Eight totalities are non-greed, and so the Dharma Essence. With their attendants they are five Bases, and so the Mind Essence and the Dharma Essence. The change of place is the change of scope. It is not two systems.
 
-The form system does not grow. The five, the twelve, and the eighteen remain the places.
+The classification does not grow. The five, the twelve, and the eighteen remain the places.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
-| tathā | likewise | the eighty thousand already placed in the five bases |
+| tathā | likewise | the eighty thousand already placed in the five Bases |
 | yathāyogam | as appropriate | not one rule for every name |
-| yathokteṣu | among those already stated | five bases, twelve essences, eighteen principles |
+| yathokteṣu | among those already stated | five Bases, twelve Essences, eighteen Principles |
 | saṃpradhārya | having determined | before assignment |
 | svalakṣaṇa | own-characteristic | each one; as set out in this treatise |
 | saparivāra | with attendants | a wider scope than the principal nature |
-| śīlaskandha | discipline-collection | included in the form-base |
+| śīlaskandha | discipline-collection | included in the Form Base |
 | kṛtsnāyatana | totality | eight are non-greed |
 | abhibhvāyatana | mastery | as the totalities |
 | vimuktyāyatana | liberation | wisdom by nature |
 | alobha | non-greed | principal nature of the eight |
 | prajñā | wisdom | principal nature of the five liberations |
-| asaṃjñisattva | non-percipient beings | ten essences; smell and taste absent |
-| bahudhātuka | discourse of many principles | sixty-two; inclusion not listed |
+| asaṃjñisattva | non-percipient beings | ten Essences; Odor and Taste absent |
+| bahudhātuka | discourse of many Principles | sixty-two; inclusion not listed |
 
 ## 8. Logical Determination
+
+**Kārikā, derived.** The comparison with the eighty thousand, and a
+universal rule: every other designation has an own-characteristic,
+determined first, that fits an established place to which it is to be
+assigned.
+
+```nltk-sem
+# derived by the section 4 parse
+(PlacedIn(eighty_thousand,five_bases) & all x.((InOtherSutra(x) & (BaseName(x) | EssenceName(x) | PrincipleName(x))) -> exists k p.(OwnCharacteristic(x,k) & DeterminedBeforeAssignment(x,k) & Established(p) & ToBeAssigned(x,p) & FitsAsAppropriate(k,p))))
+```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(PlacedIn(eighty_thousand,five_bases) & all x.((InOtherSutra(x) & (BaseName(x) | EssenceName(x) | PrincipleName(x))) -> exists k p.(OwnCharacteristic(x,k) & DeterminedBeforeAssignment(x,k) & Established(p) & ToBeAssigned(x,p) & FitsAsAppropriate(k,p))))
+# THEORY prose
+# EXPECT prose T
+ToBeAssigned(discipline_collection,form_base) & -ToBeAssigned(discipline_collection,formations_base)
+ToBeAssigned(concentration_collection,formations_base) & ToBeAssigned(wisdom_collection,formations_base) & ToBeAssigned(liberation_collection,formations_base) & ToBeAssigned(knowledge_vision_collection,formations_base)
+OwnCharacteristic(eight_totalities,non_greed) & ToBeAssigned(eight_totalities,dharma_essence)
+OwnCharacteristic(five_liberations,wisdom) & ToBeAssigned(five_liberations,dharma_essence)
+all x y.(AttendedOf(x,y) -> all p.(ToBeAssigned(y,p) -> ToBeAssigned(x,p)))
+all x y.(AttendedOf(x,y) -> exists p.(ToBeAssigned(x,p) & -ToBeAssigned(y,p)))
+all x p.(ToBeAssigned(x,p) -> Established(p))
+-ToBeAssigned(nonpercipient_beings,odor_essence) & -ToBeAssigned(nonpercipient_beings,taste_essence) & ToBeAssigned(nonpercipient_beings,mind_essence)
+ToBeAssigned(neither_perception_beings,mind_essence) & ToBeAssigned(neither_perception_beings,dharma_essence)
+-Enumerated(sixty_two_principles) & KnownAsAppropriate(sixty_two_principles)
+# THEORY rejected_assignment_without_determination
+# EXPECT rejected_assignment_without_determination F
+exists x p.(ToBeAssigned(x,p) & -exists k.DeterminedBeforeAssignment(x,k))
+# THEORY rejected_new_place
+# EXPECT rejected_new_place F
+exists x p.(ToBeAssigned(x,p) & -Established(p))
+# THEORY rejected_attendants_same_scope
+# EXPECT rejected_attendants_same_scope F
+all x y.(AttendedOf(x,y) -> all p.(ToBeAssigned(x,p) -> ToBeAssigned(y,p)))
+# THEORY rejected_discipline_in_formations
+# EXPECT rejected_discipline_in_formations F
+exists x.(x = discipline_collection & ToBeAssigned(x,formations_base))
+# THEORY rejected_mind_essence_means_cognition_occurring
+# EXPECT rejected_mind_essence_means_cognition_occurring F
+all x.(ToBeAssigned(x,mind_essence) -> CognitionOccurring(x))
+# THEORY rejected_sixty_two_enumerated
+# EXPECT rejected_sixty_two_enumerated F
+exists x.(x = sixty_two_principles & Enumerated(x))
+```
+
+```nltk-valuation
+eighty_thousand => eighty_thousand_collections
+five_bases => pancaskandha
+discipline_collection => sila_coll
+concentration_collection => samadhi_coll
+wisdom_collection => prajna_coll
+liberation_collection => vimukti_coll
+knowledge_vision_collection => jnanadarsana_coll
+eight_totalities => totalities8
+five_liberations => liberations5
+nonpercipient_beings => asamjnisattva
+neither_perception_beings => naivasamjna_beings
+sixty_two_principles => sixty_two
+form_base => rupa_skandha
+formations_base => samskara_skandha
+dharma_essence => dharma_ayatana
+mind_essence => mano_ayatana
+odor_essence => gandha_ayatana
+taste_essence => rasa_ayatana
+non_greed => alobha
+wisdom => prajna
+PlacedIn => {(eighty_thousand_collections,pancaskandha)}
+InOtherSutra => {sila_coll,samadhi_coll,prajna_coll,vimukti_coll,jnanadarsana_coll,totalities8,totalities8_att,masteries,masteries_att,space_cognition_totalities,formless4,liberations5,liberations5_att,asamjnisattva,naivasamjna_beings,sixty_two}
+BaseName => {sila_coll,samadhi_coll,prajna_coll,vimukti_coll,jnanadarsana_coll}
+EssenceName => {totalities8,totalities8_att,masteries,masteries_att,space_cognition_totalities,formless4,liberations5,liberations5_att,asamjnisattva,naivasamjna_beings}
+PrincipleName => {sixty_two}
+OwnCharacteristic => {(sila_coll,form_nature),(samadhi_coll,formation_nature),(prajna_coll,formation_nature),(vimukti_coll,formation_nature),(jnanadarsana_coll,formation_nature),(totalities8,alobha),(totalities8_att,five_bases_nature),(masteries,alobha),(masteries_att,five_bases_nature),(space_cognition_totalities,four_bases_nature),(formless4,four_bases_nature),(liberations5,prajna),(liberations5_att,liberation_complex),(asamjnisattva,ten_essence_nature),(naivasamjna_beings,mental_nature),(sixty_two,each_own_nature)}
+DeterminedBeforeAssignment => {(sila_coll,form_nature),(samadhi_coll,formation_nature),(prajna_coll,formation_nature),(vimukti_coll,formation_nature),(jnanadarsana_coll,formation_nature),(totalities8,alobha),(totalities8_att,five_bases_nature),(masteries,alobha),(masteries_att,five_bases_nature),(space_cognition_totalities,four_bases_nature),(formless4,four_bases_nature),(liberations5,prajna),(liberations5_att,liberation_complex),(asamjnisattva,ten_essence_nature),(naivasamjna_beings,mental_nature),(sixty_two,each_own_nature)}
+Established => {rupa_skandha,samskara_skandha,dharma_ayatana,mano_ayatana,sabda_ayatana,caksur_ayatana,srotra_ayatana,ghrana_ayatana,jihva_ayatana,kaya_ayatana,rupa_ayatana,sprastavya_ayatana,gandha_ayatana,rasa_ayatana,eighteen_principles}
+ToBeAssigned => {(sila_coll,rupa_skandha),(samadhi_coll,samskara_skandha),(prajna_coll,samskara_skandha),(vimukti_coll,samskara_skandha),(jnanadarsana_coll,samskara_skandha),(totalities8,dharma_ayatana),(totalities8_att,mano_ayatana),(totalities8_att,dharma_ayatana),(masteries,dharma_ayatana),(masteries_att,mano_ayatana),(masteries_att,dharma_ayatana),(space_cognition_totalities,mano_ayatana),(space_cognition_totalities,dharma_ayatana),(formless4,mano_ayatana),(formless4,dharma_ayatana),(liberations5,dharma_ayatana),(liberations5_att,sabda_ayatana),(liberations5_att,mano_ayatana),(liberations5_att,dharma_ayatana),(asamjnisattva,caksur_ayatana),(asamjnisattva,srotra_ayatana),(asamjnisattva,ghrana_ayatana),(asamjnisattva,jihva_ayatana),(asamjnisattva,kaya_ayatana),(asamjnisattva,rupa_ayatana),(asamjnisattva,sabda_ayatana),(asamjnisattva,sprastavya_ayatana),(asamjnisattva,mano_ayatana),(asamjnisattva,dharma_ayatana),(naivasamjna_beings,mano_ayatana),(naivasamjna_beings,dharma_ayatana),(sixty_two,eighteen_principles)}
+FitsAsAppropriate => {(form_nature,rupa_skandha),(formation_nature,samskara_skandha),(alobha,dharma_ayatana),(five_bases_nature,mano_ayatana),(five_bases_nature,dharma_ayatana),(four_bases_nature,mano_ayatana),(four_bases_nature,dharma_ayatana),(prajna,dharma_ayatana),(liberation_complex,sabda_ayatana),(liberation_complex,mano_ayatana),(liberation_complex,dharma_ayatana),(ten_essence_nature,caksur_ayatana),(mental_nature,mano_ayatana),(mental_nature,dharma_ayatana),(each_own_nature,eighteen_principles)}
+AttendedOf => {(totalities8_att,totalities8),(masteries_att,masteries),(liberations5_att,liberations5)}
+CognitionOccurring => {}
+Enumerated => {}
+KnownAsAppropriate => {sixty_two}
+```
+
+**Model checks.** Sixteen designations from other sūtras each receive a
+determined own-characteristic and at least one fitting established place.
+Removing any determination, or giving a designation a place outside the
+established, falsifies the derived formula. Attended scope contains the
+principal place and adds at least one more; the converse is rejected.
+Non-percipient beings take exactly ten Essences, without Odor or Taste.
+Being assigned to the Mind Essence does not mean a Cognition is occurring.
+The sixty-two Principles are placed only at the level of the eighteen; the
+model does not enumerate them.
+
+**Bhāṣya determination.** The five collections split: discipline to the
+Form Base, the other four to the Formations Base. The running compound does
+not repeat liberation before knowledge-and-vision; that relation is
+supplied in translation, not inserted into the Sanskrit. Totalities,
+masteries, and liberations are assigned twice, by principal nature and
+with attendants.
+
+**Organon interpretation.** This is the assignment function of the
+classification engine: name → own-characteristic → established place.
+Determination is a precondition, not an afterthought. Scope is a parameter
+of the input (principal or attended), not a change of the target system.
+The demonstration of a cross-mapping (1.28) is not opened. The earlier
+schematic follows.
 
 ```text
 determine own-characteristic
@@ -98,39 +240,39 @@ then assign, as appropriate
 among those already stated
 
 eighty thousand
-    already placed in the five bases
+    already placed in the five Bases
 
 discipline-collection
-    form-base
+    Form Base
 the other four collections
-    formations-base
+    Formations Base
 
 eight totalities, principal
     non-greed
-    dharma-essence
+    Dharma Essence
 eight totalities, with attendants
-    five bases
-    mind-essence and dharma-essence
+    five Bases
+    Mind Essence and Dharma Essence
 masteries
     likewise
 
 infinite space, infinite cognition, four attainments
-    four bases
-    mind-essence and dharma-essence
+    four Bases
+    Mind Essence and Dharma Essence
 
 five liberations, principal
     wisdom
-    dharma-essence
+    Dharma Essence
 five liberations, with attendants
-    sound-essence, mind-essence, dharma-essence
+    Sound Essence, Mind Essence, Dharma Essence
 
 non-percipient beings
-    ten essences
-    smell and taste absent
+    ten Essences
+    Odor and Taste absent
 neither-perception-nor-non-perception
-    mind-essence and dharma-essence
+    Mind Essence and Dharma Essence
 
-sixty-two principles
+sixty-two Principles
     as appropriate
     not enumerated
 
@@ -149,7 +291,7 @@ distinctions apply to masteries and liberations. Other examples include the
 formless attainments and the sixty-two Principles, whose detailed assignments
 are not enumerated here.
 
-The hinge is the absolutive. A scriptural name poses the problem. The own-characteristic answers it. Attendants change the scope, not the system. The form system remains the places already stated.
+The hinge is the absolutive. A scriptural name poses the problem. The own-characteristic answers it. Attendants change the scope, not the system. The classification remains the places already stated.
 
 ## 10. OWL++ Seed
 

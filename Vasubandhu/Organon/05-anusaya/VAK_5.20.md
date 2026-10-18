@@ -28,7 +28,7 @@ ethically indeterminate.
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `kāme` | locative singular | in the desire-realm |
+| `kāme` | locative singular | in the Desire Realm |
 | `akuśala-mūlāni` | nominative plural neuter | roots of the unwholesome |
 | `rāga-pratigha-mūḍhayaḥ` | nominative plural expression | attachment, hostility, and deluded ignorance |
 | `trīṇi` | nominative plural neuter numeral | three |
@@ -50,7 +50,7 @@ kāme
 rāga-pratigha-mūḍhayaḥ
 akuśala-mūlāni [trīṇi]
 
-in the desire-realm,
+in the Desire Realm,
 attachment, hostility, and deluded ignorance
 are [three] roots of the unwholesome
 ```
@@ -79,13 +79,13 @@ and attributes the broad inclusion of indeterminate, even maturation-born,
 
 ### Literal Translation
 
-> In the desire-realm, attachment, hostility, and deluded ignorance are roots
+> In the Desire Realm, attachment, hostility, and deluded ignorance are roots
 > of the unwholesome. The roots of the indeterminate are three: craving,
 > ignorance, and that cognition.
 
 ### Bhāṣya-informed study translation
 
-> In the desire-realm, attachment, hostility, and delusion are roots of the
+> In the Desire Realm, attachment, hostility, and delusion are roots of the
 > unwholesome; the three roots of the ethically indeterminate are craving,
 > ignorance, and discriminative comprehension in its indeterminate form.
 

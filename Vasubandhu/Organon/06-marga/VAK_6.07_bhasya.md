@@ -64,7 +64,7 @@ By reversal of discontent and great desire, their two counterforces are to be
 understood: contentment and fewness of desires. These two occur in all three
 realms and are also without influx. The commentary explains this as their
 capacity to be either with or without influx. Discontent and great desire,
-by contrast, belong only to the desire-realm.
+by contrast, belong only to the Desire Realm.
 
 What is the intrinsic nature of fewness of desires and contentment? Non-greed:
 that is the nature of both. The four noble lineages likewise have non-greed as
@@ -79,7 +79,7 @@ and from sensual desire.
 The commentary reverses the two defects described in 6.06, naming their
 positive counterforces. It then distinguishes the counterforces' three-realm
 range and possible absence of influx from the defects' restriction to the
-desire-realm. A question about intrinsic nature yields non-greed as the common
+Desire Realm. A question about intrinsic nature yields non-greed as the common
 answer. The verse extends this nature to the noble lineages; the commentary
 counts and names them, then explains why the fourth also has non-greed as its
 nature.

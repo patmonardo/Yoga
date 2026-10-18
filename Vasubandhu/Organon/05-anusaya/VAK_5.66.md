@@ -124,13 +124,13 @@ complete exhaustion of all fetters
 **The Vaibhāṣika five**
 
 These five have as their nature abandonment of afflictions belonging to the
-form and formless realms. desire-realm abandonment is excluded because it
+form and formless realms. Desire Realm abandonment is excluded because it
 is assigned as a fruit of anāgamya.
 
 **Bhadanta Ghoṣaka's eight**
 
-Ghoṣaka adds the three desire-realm seeing-abandonment parijñās. Even one
-already free from desire-realm passion can obtain through the Path of seeing
+Ghoṣaka adds the three Desire Realm seeing-abandonment parijñās. Even one
+already free from Desire Realm passion can obtain through the Path of seeing
 a fresh undefiled acquisition of disconnection
 (`anāsrava-visaṃyoga-prāpti-lābha`).
 
@@ -216,7 +216,7 @@ whose fruit each completion is. Content and production-basis must remain
 distinct.
 
 **Stable ontology, disputed attribution.** Vaibhāṣikas and Ghoṣaka accept the
-nine parijñās. Their disagreement concerns whether three desire-realm
+nine parijñās. Their disagreement concerns whether three Desire Realm
 seeing-completions can also count as fruits of fundamental dhyāna.
 
 **Internal confirmation of VAK 5.63.** Ghoṣaka's account requires fresh

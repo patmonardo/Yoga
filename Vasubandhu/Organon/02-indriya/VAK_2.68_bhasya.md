@@ -6,7 +6,7 @@
 >
 > rūpe daśaikaṃ ca śubhāt navabhyas tadanantaram // 2.68 //
 
-> Desire-realm unobscured-indeterminate follows five, and seven follow it.
+> Desire Realm unobscured-indeterminate follows five, and seven follow it.
 > In the Form realm, eleven follow wholesome consciousness, which itself
 > follows nine.
 

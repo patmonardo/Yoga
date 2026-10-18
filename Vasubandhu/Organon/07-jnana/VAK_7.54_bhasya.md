@@ -31,7 +31,7 @@ Vasubandhu.
 > the dhyāna ground they are divine.
 >
 > There is no divine eye or ear that is merely tatsabhāga — always accompanied by
-> consciousness. Nor impaired. Like form-realm beings. Distant and subtle visible
+> consciousness. Nor impaired. Like Form Realm beings. Distant and subtle visible
 > forms and sounds also are their objects.
 
 ## 4. Movement of the Commentary

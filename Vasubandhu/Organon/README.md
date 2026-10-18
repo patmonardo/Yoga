@@ -77,7 +77,7 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   the grammar may derive the §8 formula by the parse (see 8.13). `Pred => {}`
   means an empty extension; NLTK itself reads it as a phantom `''` element,
   so the audit loader corrects this.
-- The chapter 1 Grammar–Logic pilots (1.01–1.25) annotate the normalized
+- The chapter 1 Grammar–Logic pilots (1.01–1.26) annotate the normalized
   IAST token stream beneath the Lexical Analysis table. It preserves verse
   order, opens sandhi, and marks Bhāṣya-resolved ellipses with `∅-` and
   `SUPPLIED=prose`. The annotation must match the grammar's `# tokens:`
@@ -158,6 +158,12 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   correlative parse assigns inclusion respectively per reported account
   (speech → Form Base, name → Formations Base); neither account is chosen
   and no Dharma-collection becomes a further Base.
+  Use `--start 26 --end 26 --strict` for three attributed measures of a
+  Dharma-collection: treatise, exposition of each topic (holders supplied
+  by the prose), and counteragent to a disposition. *Tu* contrasts without
+  refuting; each exposition is one collection, and counteragents pair with
+  dispositions one-to-one without the pairings being listed. Avoid `e` as
+  a bound variable in FOL: NLTK reserves it for event types.
   Strict mode checks token annotation, dependency vocabulary coverage,
   semantic closure, reuse in the theory, symbol declarations, and expected
   truth values. Dependency coverage is not dependency parsing: the block

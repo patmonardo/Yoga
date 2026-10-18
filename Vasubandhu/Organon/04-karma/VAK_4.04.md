@@ -86,7 +86,7 @@ material determinations are supplied by the Bhāṣya.
 > The Vaibhāṣikas establish *avijñapti* as a distinct real Form Dharma from
 > teachings on three kinds of Form and on uncontaminated Form, the increase of
 > merit, action-paths completed through another's agency, and other grounds.
-> Beyond its first moment, desire-realm *avijñapti* is born from past Great
+> Beyond its first moment, Desire Realm *avijñapti* is born from past Great
 > Elements.
 
 ## 6. Philosophical Translation
@@ -112,7 +112,7 @@ material determinations are supplied by the Bhāṣya.
 | bhāvita-saṃtati | cultivated or conditioned continuum | continuum transformed by prior volition |
 | kārye kāraṇopacāra | application of the cause-name to the effect | explains designation of the transformed continuum as `karmapatha` |
 | āśaya | disposition / orientation | acquired Path-determination governing later conduct |
-| āśraya | supporting or producing basis | Path-basis generally; here past Great Elements producing desire-realm `avijñapti` |
+| āśraya | supporting or producing basis | Path-basis generally; here past Great Elements producing Desire Realm `avijñapti` |
 | saṃniśraya | continuing or sustaining support | present bodily Great Elements supporting continuation |
 | pravṛtti | initiation | first causal production of the non-manifest stream |
 | anuvṛtti | continuation | persistence supported after initiation |
@@ -136,7 +136,7 @@ producing basis and present sustaining support perform different functions.
 
 ## 8. Logical Determination
 
-An instrumental series names the stated grounds; the second pāda predicates desire-realm and past-Great-Element origin of non-disclosing continuity beyond the moment.
+An instrumental series names the stated grounds; the second pāda predicates Desire Realm and past-Great-Element origin of non-disclosing continuity beyond the moment.
 
 ## 9. Interpretive Note
 
@@ -153,7 +153,7 @@ dispute, not a general claim that one account applies to every kind of action.
 The first pāda records the Vaibhāṣika grounds for affirming `avijñapti`;
 the Bhāṣya then gives the Sautrāntika replies and their account of continuum
 transformation. The second pāda states the Vaibhāṣika account of the
-desire-realm `avijñapti`: past Great Elements produce it, while present
+Desire Realm `avijñapti`: past Great Elements produce it, while present
 bodily Great Elements support its continuation. The cited Path and
 restraint examples test how the schools explain conduct when no corresponding
 bodily or verbal action is presently performed.

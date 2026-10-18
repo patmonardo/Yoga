@@ -87,9 +87,9 @@ the 5.31 Kārikā. Spacing and punctuation are editorial.
 or the path have their own corresponding citta added to their
 object range.” Each such class is an object of the five, eight,
 or ten cittas previously given for its domain, plus the citta
-of its own abandonment class. Thus the desire-realm classes
-are objects of six cittas; the form-realm classes of nine;
-and the formless-realm classes of eleven. The five classes
+of its own abandonment class. Thus the Desire Realm classes
+are objects of six cittas; the Form Realm classes of nine;
+and the Formless Realm classes of eleven. The five classes
 in each of the three domains have now been covered.
 
 “Undefiled dharmas are objects of the last three citta classes
@@ -103,11 +103,11 @@ With the sixteen citta classes and sixteen object classes now
 ordered, how should one apply this to anuśayas? The Bhāṣya
 gives an indication. Consider a cognition whose object is
 the pleasure faculty (`sukhendriya`). That faculty has seven
-forms: one desire-realm cultivation class, five form-realm
+forms: one Desire Realm cultivation class, five Form Realm
 classes, and one undefiled class. Together they can be objects
-of twelve citta classes: four desire-realm classes excluding
-the cessation-seeing class, all five form-realm classes,
-two formless-realm classes (path-seeing and cultivation),
+of twelve citta classes: four Desire Realm classes excluding
+the cessation-seeing class, all five Form Realm classes,
+two Formless Realm classes (path-seeing and cultivation),
 and undefiled citta. For a citta in this twelvefold range,
 the applicable anuśayas must then be determined according
 to domain, abandonment class, and whether they take
@@ -116,10 +116,10 @@ conditioned things as objects.
 The Bhāṣya then asks about a cognition whose object is a
 cognition that takes the pleasure faculty as its object.
 The first such cognition has twelve types. As an object,
-it is accessible to those twelve and two further formless-realm
+it is accessible to those twelve and two further Formless Realm
 citta classes abandoned by seeing suffering and origination:
 fourteen types in all. One accordingly expands the possible
-anuśaya calculation by those two formless-realm classes.
+anuśaya calculation by those two Formless Realm classes.
 Other questions should be followed by the same method.
 
 ## 4. Argument and Doctrinal Determination

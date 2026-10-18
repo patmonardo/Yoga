@@ -25,7 +25,7 @@ anāgamyāntaradhyānabhūmikaṃ dve tv adho 'pi vā || 6.20 ||
 | **anāgamya-antara-dhyāna-bhūmikam** | neuter nominative singular compound | grounded in the preliminary concentration, intermediate concentration, and four dhyānas |
 | **dve** | neuter nominative dual | the two; Heat and the Summits |
 | **tu** | contrastive particle | but; introduces a qualification to the principal account |
-| **adhaḥ api** | adverb plus particle | also below; also on the desire-realm level |
+| **adhaḥ api** | adverb plus particle | also below; also on the Desire Realm level |
 | **vā** | alternative particle | or; marks another doctrinal opinion |
 
 The compact compound **anāgamyāntaradhyānabhūmikam** enumerates six grounds: the *anāgamya*, the intermediate concentration, and the four principal dhyānas. The Bhāṣya attributes the alternative seventh ground for the first two stages to Bhadanta Ghoṣaka.
@@ -40,7 +40,7 @@ The opening nominal sentence has **nirvedhabhāgīyam** as its central predicate
 
 **anāgamyāntaradhyānabhūmikam** supplies another predicate: the class belongs to the grounds of the preliminary concentration, intermediate concentration, and dhyānas. The singular **bhūmikam** applies distributively to the fourfold complex.
 
-In **dve tv adho 'pi vā**, the dual **dve** selects the first two members of the preceding fourfold class. **vā** marks an alternative opinion in the Bhāṣya. On that view, Heat and Summits may also occur below, in the desire-realm.
+In **dve tv adho 'pi vā**, the dual **dve** selects the first two members of the preceding fourfold class. **vā** marks an alternative opinion in the Bhāṣya. On that view, Heat and Summits may also occur below, in the Desire Realm.
 
 **Future Feature Grammar sketch (not executable):**
 
@@ -50,7 +50,7 @@ CLASS[NAME=nirvedhabhāgīya, MEMBERS=Heat+Summits+Acceptance+Highest-Mundane-Dh
   ← iti nirvedhabhāgīyaṃ caturdhā bhāvanāmayam
 CLASS[GROUND=preliminary-concentration+intermediate-concentration+four-dhyānas]
   ← anāgamyāntaradhyānabhūmikaṃ
-VIEW[Ghoṣaka, MEMBERS=Heat+Summits, ADDITIONAL-GROUND=desire-realm]
+VIEW[Ghoṣaka, MEMBERS=Heat+Summits, ADDITIONAL-GROUND=Desire Realm]
   ← dve tv adho 'pi vā
 ```
 
@@ -76,7 +76,7 @@ The ground extension is a named Bhāṣya alternative, not a seventh ground asse
 
 The preparatory sequence is now comprehended as one function differentiated into four degrees. Its unity lies in bringing on penetration; its internal differences mark increasing stability and force. These roots are no longer merely heard or reflectively entertained determinations. They are discriminative comprehension made operative through cultivation.
 
-Their meditative grounds specify the conditions under which this practical cognition can arise. The principal account assigns all four to six concentration-levels, while a preserved alternative widens the basis of the first two stages to include the desire-realm.
+Their meditative grounds specify the conditions under which this practical cognition can arise. The principal account assigns all four to six concentration-levels, while a preserved alternative widens the basis of the first two stages to include the Desire Realm.
 
 The preparations do not yet perform the Noble Path's penetration. They become its determinate conditions: cultivated truth-cognition is progressively organized until it can bring on the Path that abandons doubt and discriminates the Truths decisively.
 
@@ -96,11 +96,11 @@ All four are produced through cultivation, not through hearing (*śrutamayī*) o
 
 **`Anāgamya` / `dhyānāntara` — access and intermediate concentration**
 
-Two of the six principal grounds, together with the four dhyānas. The roots belong to the entourage of the Path of Seeing, whose cognitive Condition is the desire-realm.
+Two of the six principal grounds, together with the four dhyānas. The roots belong to the entourage of the Path of Seeing, whose cognitive Condition is the Desire Realm.
 
 **`Bhadanta Ghoṣaka` — the named alternative**
 
-For Ghoṣaka, Heat and Summits have seven grounds, since they can also occur in the desire-realm.
+For Ghoṣaka, Heat and Summits have seven grounds, since they can also occur in the Desire Realm.
 
 **`Pūripūraka` / `ākṣepaka` — completing and projecting causes**
 
@@ -122,7 +122,7 @@ With the attributed alternative:
 ```text
 Heat and Summits
     principal account: six grounds
-    Ghoṣaka's account:  six grounds + desire-realm
+    Ghoṣaka's account:  six grounds + Desire Realm
 ```
 
 The four stages can now be represented as a single graded function:

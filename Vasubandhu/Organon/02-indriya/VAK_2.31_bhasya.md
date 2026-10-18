@@ -43,7 +43,7 @@ Creator, Producer is provisional for the damaged title sequence. Not a collation
 
 ## 4. Movement and Voice of the Commentary
 
-The desire-realm distribution is the point of departure. Exclusions accumulate. The remainder as before keeps what is not altered. The Brahmā episode supports the upper limit of crookedness. The question is Aśvajit's. The titles are Brahmā's. The commentary calls the response an evasion made without knowing. Not an assertion of creative authority. The last sentence closes the distribution inquiry.
+The Desire Realm distribution is the point of departure. Exclusions accumulate. The remainder as before keeps what is not altered. The Brahmā episode supports the upper limit of crookedness. The question is Aśvajit's. The titles are Brahmā's. The commentary calls the response an evasion made without knowing. Not an assertion of creative authority. The last sentence closes the distribution inquiry.
 
 ## 5. The First Dhyāna
 

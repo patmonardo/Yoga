@@ -117,7 +117,7 @@ slice (7.10–7.12).
 
 Nirodha in the table is Conceptual/Arthic: one of four cessation-aspects.
 Meta-nirodha is this inquiry into aspect itself — paramārtha in kāmadhātu,
-divine entertainment that is not comedy: the desire-realm is where the
+divine entertainment that is not comedy: the Desire Realm is where the
 manner of holding is determined. Sublation parked. Appearance would print
 the 4×4 list and call it knowledge.
 

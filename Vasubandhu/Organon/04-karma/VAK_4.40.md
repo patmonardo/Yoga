@@ -152,7 +152,7 @@ dharmas.
 **Ground-dependent wholesome dharmas**
 
 ```text
-Form-Realm wholesome dharmas
+Form Realm wholesome dharmas
     depend on a dhyāna ground
 
 formless wholesome dharmas

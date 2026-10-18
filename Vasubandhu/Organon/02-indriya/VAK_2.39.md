@@ -37,7 +37,7 @@ S[TIME=past|future] -> NonAcquisition[TIME=past|present|future]
 ```
 
 Obscured form is co-arisen only.  
-Desire-realm form admits co-arisen and subsequent, not prior.  
+Desire Realm form admits co-arisen and subsequent, not prior.  
 Non-acquisition is always unobscured-indeterminate.
 
 ## 5. Translation
@@ -45,25 +45,25 @@ Non-acquisition is always unobscured-indeterminate.
 ### Literal Translation
 
 > Acquisition of obscured-indeterminate manifest Form is co-arisen only.
-> Desire-realm Form has no prior acquisition, but co-arisen and subsequent
+> Desire Realm Form has no prior acquisition, but co-arisen and subsequent
 > acquisition. Non-acquisition is unobscured-indeterminate; for past and
 > future dharmas it is threefold.
 ### Bhāṣya-informed study translation
 
-> Acquisition of obscured-indeterminate Form is co-arisen only. Desire-realm
+> Acquisition of obscured-indeterminate Form is co-arisen only. Desire Realm
 > Form has no prior acquisition. Non-acquisition is unobscured-
 > indeterminate; for past and future dharmas it is threefold, while for a
 > present dharma it is present only on the provisional reading.
 ## 6. Philosophical Translation
 
-> Non-acquisition does not inherit the class of what is not possessed. Prior acquisition is refused for desire-realm form. The present-only reading is provisional.
+> Non-acquisition does not inherit the class of what is not possessed. Prior acquisition is refused for Desire Realm form. The present-only reading is provisional.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Running word | Determination |
 |---|---|---|
 | nivṛta | obscured | completed as obscured-indeterminate form |
-| agrajā | prior | excluded for desire-realm form |
+| agrajā | prior | excluded for Desire Realm form |
 | aprāpti | non-acquisition | the second half |
 | akliṣṭa | unobscured | not the ethical axis |
 | ajāta | not yet arisen | future |
@@ -73,7 +73,7 @@ Non-acquisition is always unobscured-indeterminate.
 ```text
 obscured manifest form
     → co-arisen only
-desire-realm form
+Desire Realm form
     → co-arisen or subsequent
     prior out
 non-acquisition
@@ -86,7 +86,7 @@ past or future
 
 ## 9. Interpretive Note
 
-**Translation note.** The commentary distinguishes the co-arisen-only rule for obscured Form from the absence of prior acquisition for desire-realm Form, where co-arisen and subsequent acquisition are admitted for manifest and nonmanifest Form. It reads ajāta as future. The claim that present-dharma non-acquisition is present only is provisional; the uncertainty is retained.
+**Translation note.** The commentary distinguishes the co-arisen-only rule for obscured Form from the absence of prior acquisition for Desire Realm Form, where co-arisen and subsequent acquisition are admitted for manifest and nonmanifest Form. It reads ajāta as future. The claim that present-dharma non-acquisition is present only is provisional; the uncertainty is retained.
 
 Realm classifications of non-acquisition, and ordinary-person status, are 2.40. The Buddha counterexample belongs there: absence of another lineage is not non-nobility.
 

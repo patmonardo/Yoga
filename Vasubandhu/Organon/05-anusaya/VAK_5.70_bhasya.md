@@ -68,14 +68,14 @@ designated.
 
 Now who relinquishes or acquires how many *parijñās*? Someone
 relinquishes one, two, five, or six; one acquires [one, two, or six],
-but not five. One who falls from arhatship or from desire-realm
+but not five. One who falls from arhatship or from Desire Realm
 dispassion relinquishes one. A non-returner free from passion for form
-who falls from desire-realm dispassion relinquishes two. One who was
+who falls from Desire Realm dispassion relinquishes two. One who was
 previously free from passion relinquishes five at subsequent knowledge
 concerning the path: in acquiring the *parijñā* of abandonment of the
 lower-part fetters, that person relinquishes the former five. One
 proceeding in sequence relinquishes six upon attainment of
-desire-realm dispassion.
+Desire Realm dispassion.
 
 The account of acquisition is analogous. Someone acquires one
 *parijñā*: any person who acquires one not previously possessed.
@@ -98,10 +98,10 @@ The four relinquishment counts name different transitions:
 
 | Relinquished | Stated transition |
 |---:|---|
-| 1 | Fall from arhatship or desire-realm dispassion |
-| 2 | Form-dispassionate non-returner falls from desire-realm dispassion |
+| 1 | Fall from arhatship or Desire Realm dispassion |
+| 2 | Form-dispassionate non-returner falls from Desire Realm dispassion |
 | 5 | Previously dispassionate practitioner reaches `mārga-anvayajñāna` and acquires the lower-part abandonment *parijñā* |
-| 6 | Sequential practitioner attains desire-realm dispassion |
+| 6 | Sequential practitioner attains Desire Realm dispassion |
 
 Five is especially revealing: the prior five designations are
 relinquished **upon acquisition** of a more inclusive designation.
@@ -111,7 +111,7 @@ specific transition must determine what has been lost.
 
 Acquisition is asymmetric: the prose states one, two, and six, and
 explicitly excludes five. The two-count case follows loss of
-formless-realm dispassion alone; the six-count case follows loss of
+Formless Realm dispassion alone; the six-count case follows loss of
 the non-returner's fruit. The text supplies these cases, but does not
 spell out a general proof that no conceivable path transition could
 produce five. Its categorical `pañca tu nai kaścillabhate` is retained

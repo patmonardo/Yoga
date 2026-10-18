@@ -38,7 +38,7 @@ Because torpor is incompatible with none, wherever it occurs it is additional. T
 
 ## 4. Movement and Voice of the Commentary
 
-The desire-realm classification of 2.28 is completed. Unwholesome was 2.29. These are the two indeterminate cases. A regional alternative on regret interrupts the count. Then the general rule for torpor.
+The Desire Realm classification of 2.28 is completed. Unwholesome was 2.29. These are the two indeterminate cases. A regional alternative on regret interrupts the count. Then the general rule for torpor.
 
 Thirteen by regret is attributed to outer-region teachers. No school named. No region identified. The count stays attributed. Not merged into the twelve.
 
@@ -82,7 +82,7 @@ Aynatra is read as anyatra. The conditional is the verse's wherever it may occur
 
 Three grounds of a count: ethical class, identity of a factor already counted, and conditional presence. Obscured and unobscured set the principal totals. View is counted through Discrimination. Regret and torpor add under stated conditions.
 
-Thirteen without its derivation does not say whether torpor was added or regret under the regional alternative. Compatibility is not occurrence. The desire-realm inquiry closes. Higher levels are the next restriction. Objective Logic on the mind is the pass. Not the translation. Not the final pass.
+Thirteen without its derivation does not say whether torpor was added or regret under the regional alternative. Compatibility is not occurrence. The Desire Realm inquiry closes. Higher levels are the next restriction. Objective Logic on the mind is the pass. Not the translation. Not the final pass.
 
 ## 10. Review Status
 

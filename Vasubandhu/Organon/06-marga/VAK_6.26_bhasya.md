@@ -61,11 +61,11 @@ next unit begins at [351|07].
 ## 3. Continuous Conventional Translation
 
 Immediately after Dharma-Knowing-Acceptance concerning suffering in the
-desire-realm, Dharma-Knowing arises concerning that same suffering. It is
+Desire Realm, Dharma-Knowing arises concerning that same suffering. It is
 called Dharma-Knowing regarding suffering. Uncontaminated status is to be
 understood throughout this sequence.
 
-As that Acceptance and Knowing arise concerning desire-realm suffering,
+As that Acceptance and Knowing arise concerning Desire Realm suffering,
 so, concerning the remaining suffering, arise Anvaya-Knowing-Acceptance
 and Anvaya-Knowing. Immediately after Dharma-Knowing concerning suffering,
 Anvaya-Knowing-Acceptance arises with suffering in the form and formless
@@ -78,12 +78,12 @@ follows in accordance with that earlier knowing.
 As these four Acceptance and Knowing moments arise concerning the Truth
 of suffering, so they arise concerning the remaining three Truths.
 Immediately after Anvaya-Knowing of suffering arises
-Dharma-Knowing-Acceptance concerning desire-realm origin, followed by
+Dharma-Knowing-Acceptance concerning Desire Realm origin, followed by
 Dharma-Knowing concerning origin. The same immediate succession then
 gives Anvaya-Knowing-Acceptance and Anvaya-Knowing concerning remaining
 origin; Dharma-Knowing-Acceptance and Dharma-Knowing concerning cessation
-of desire-realm suffering; the Anvaya pair concerning remaining
-cessation; the Dharma pair concerning the Path that counters desire-realm
+of Desire Realm suffering; the Anvaya pair concerning remaining
+cessation; the Dharma pair concerning the Path that counters Desire Realm
 suffering; and the Anvaya pair concerning the remaining Path.
 
 ## 4. Movement of the Commentary
@@ -96,7 +96,7 @@ other three Truths.
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Atraiva` holds the desire-realm suffering
+**Translation decisions.** `Atraiva` holds the Desire Realm suffering
 Condition constant for the first Dharma pair. `Śeṣe duḥkhe` gathers the
 form and formless realms as one `samastālambana`, a combined cognitive
 Condition. `Anvaya` marks following in accordance with prior Knowing;
@@ -114,14 +114,14 @@ feature of direct realization. This is project synthesis.
 
 | Order | Moment | Cognitive Condition |
 |---|---|---|
-| 1 | Dharma-Knowing-Acceptance | Desire-realm form of the Truth |
-| 2 | Dharma-Knowing | The same desire-realm Truth |
+| 1 | Dharma-Knowing-Acceptance | Desire Realm form of the Truth |
+| 2 | Dharma-Knowing | The same Desire Realm Truth |
 | 3 | Anvaya-Knowing-Acceptance | Higher-domain form of the Truth, taken together |
 | 4 | Anvaya-Knowing | The same combined higher-domain Truth |
 
 The Bhāṣya applies this sequence in immediate succession to suffering,
 origin, cessation, and Path. Its Path clause specifies the counteraction
-of desire-realm suffering for the Dharma pair.
+of Desire Realm suffering for the Dharma pair.
 
 ## 7. Review Status
 

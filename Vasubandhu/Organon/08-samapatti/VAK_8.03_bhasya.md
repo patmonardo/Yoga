@@ -47,7 +47,7 @@ canonical dependence; how after many kalpas?; how citta without form?).
 > who fall from that existence? From citta — citta conditioned by the cause whose
 > maturation is that form, when functioning is obtained. That we do not see mind
 > without form here does not settle the higher domains, any more than not seeing
-> life without morsel-food here settles the form-realm.
+> life without morsel-food here settles the Form Realm.
 
 ## 4. Movement of the Commentary
 

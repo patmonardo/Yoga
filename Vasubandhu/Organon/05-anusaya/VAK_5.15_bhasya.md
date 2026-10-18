@@ -57,11 +57,11 @@ higher-domain afflictions.
 
 For false view and the other anuśayas that take cessation as
 support, only the cessation of their own level is their support:
-for desire-realm anuśayas, only cessation of the desire-realm,
+for Desire Realm anuśayas, only cessation of the Desire Realm,
 and so on up to those at the summit of existence, for which the
 cessation of that summit alone is the support.
 
-For desire-realm anuśayas taking the path as support, the whole
+For Desire Realm anuśayas taking the path as support, the whole
 six-level path on the side of `dharmajñāna` is their support,
 including its portion that counteracts the form and formless
 domains. For afflictions belonging to those higher domains,
@@ -72,8 +72,8 @@ own-level cessation.
 
 An objection notes that `dharmajñāna` and `anvayajñāna` are
 also mutual causes. The answer restricts the range: the
-`anvayajñāna` side is not a counteragent to the desire-realm,
-so desire-realm path-supporting anuśayas do not take it as
+`anvayajñāna` side is not a counteragent to the Desire Realm,
+so Desire Realm path-supporting anuśayas do not take it as
 their support.
 
 But then, since `dharmajñāna` counteracts the form and formless
@@ -91,13 +91,13 @@ The key contrast is local cessation versus a path articulated
 across multiple levels. For cessation-supporting afflictions,
 `svabhūminirodha` fixes the support to the affliction's own
 level. For path-supporting afflictions, the prose identifies
-six-level `dharmajñānapakṣa` for the desire-realm and
+six-level `dharmajñānapakṣa` for the Desire Realm and
 nine-level `anvayajñānapakṣa` for the higher domains.
 
 The two objections prevent a crude “mutual cause means any path
 can support any path-related affliction” reading. Causal
 connection matters, but so does the specific `pratipakṣa`
-relation. `Anvayajñāna` does not counteract the desire-realm;
+relation. `Anvayajñāna` does not counteract the Desire Realm;
 the `dharmajñāna` side does not comprehensively counteract
 the higher-domain cases. The technical range of `ālambana`
 thus requires both the path's causal relations and its actual

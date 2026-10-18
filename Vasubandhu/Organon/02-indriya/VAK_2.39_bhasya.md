@@ -6,7 +6,7 @@
 >
 > akliṣṭāvyākṛtāprāptiḥ sātītājātayos tridhā // 2.39 //
 
-> Acquisition of obscured-indeterminate Form is co-arisen only. Desire-realm
+> Acquisition of obscured-indeterminate Form is co-arisen only. Desire Realm
 > Form has no prior acquisition. Non-acquisition is unobscured-
 > indeterminate; for past and future dharmas it is threefold, while for a
 > present dharma it is present only on the provisional reading.

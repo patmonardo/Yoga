@@ -31,11 +31,11 @@ Word division and punctuation are editorial. The running `opramaṇam`, `skandh�
 
 ## 3. Continuous Conventional Translation
 
-> What is the measure of a dharma-collection? Some say a treatise is its measure. They mean the Abhidharma treatise named Dharmaskandha. That is six thousand. The unit is not stated.
+> What is the measure of a Dharma-collection? Some say a treatise is its measure. They mean the Abhidharma treatise named Dharmaskandha. That is six thousand. The unit is not stated.
 >
-> Others say: an exposition of each of the bases and the rest. An exposition of each of the bases, the essences, the principles, dependent arising, the truths, the nutriments, the concentrations, the immeasurables, the formless attainments, the liberations, the masteries, the totalities, the factors of awakening, the higher knowledges, the discriminations, knowledge through resolve, freedom from conflict, and the rest, is a dharma-collection.
+> Others say: an exposition of each of the Bases and the rest. An exposition of each of the Bases, the Essences, the Principles, dependent arising, the truths, the nutriments, the concentrations, the immeasurables, the formless attainments, the liberations, the masteries, the totalities, the factors of awakening, the higher knowledges, the discriminations, knowledge through resolve, freedom from conflict, and the rest, is a Dharma-collection.
 >
-> But a dharma-collection is described as a counteragent to a disposition. They explain it thus. Beings have eighty thousand dispositions, differentiated by attachment, hatred, delusion, pride, and the other dispositions. As counteragents to these, the Blessed One taught eighty thousand dharma-collections.
+> But a Dharma-collection is described as a counteragent to a disposition. They explain it thus. Beings have eighty thousand dispositions, differentiated by attachment, hatred, delusion, pride, and the other dispositions. As counteragents to these, the Blessed One taught eighty thousand Dharma-collections.
 
 ## 4. Movement
 
@@ -58,10 +58,12 @@ The eighty thousand is the correspondence. The pairings are not listed.
 
 ## 6. Interpretation
 
-The word looks like a further base. It is a teaching-collection. It does not reopen the essence called form, or the essence called dharma.
+The word looks like a further Base. It is a teaching-collection. It does not reopen the Essence called Form, or the Essence called Dharma.
+
+The classification engine here measures its own teaching-units in three ways: by text, by topic, and by function. The described measure is functional. A collection is individuated by the disposition it counters, so the teaching is indexed to the practitioner and not to the page. None of the three measures adds a Base.
 
 ## 7. Review Status
 
-Synced to the verse study. Not a sixth base. 1.27 holds the assignment.
+Upgraded reading of the twenty-sixth Bhāṣya study. Bases, Essences, Principles, and Dharma-collection are capitalized as protocol terms. The kārikā logic derives three attributed measures of one Dharma-collection: treatise (some), exposition of each topic (others, supplied by the prose), and counteragent to a disposition (described). *Tu* contrasts without refuting. The prose theory keeps the six thousand's unit unstated, makes each exposition one collection, and pairs dispositions with counteragents one-to-one without listing the pairings. 1.27 holds the assignment.
 
-Scheme checked: cognition is vijñāna; principle is dhātu. A dharma-collection is not a sixth base.
+Scheme checked: Cognition is vijñāna; Principle is dhātu. A Dharma-collection is not a sixth Base.

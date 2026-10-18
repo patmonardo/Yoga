@@ -67,8 +67,8 @@ The first pāda predicates `tridhā jñeyā` of `avijñaptiḥ`; the compound `s
 | `asaṃvara` | non-restraint | one class contrasted with restraint |
 | `itarā` | neither | neither restraint nor non-restraint |
 | `dauḥśīlya` | misconduct | the spread of which restraint checks |
-| `prātimokṣa-saṃvara` | prātimokṣa restraint | identified by the Bhāṣya with desire-realm discipline |
-| `dhyāna-saṃvara` | meditation-born restraint | identified with Form-realm discipline |
+| `prātimokṣa-saṃvara` | prātimokṣa restraint | identified by the Bhāṣya with Desire Realm discipline |
+| `dhyāna-saṃvara` | meditation-born restraint | identified with Form Realm discipline |
 | `anāsrava-saṃvara` | uncontaminated restraint | identified with uncontaminated discipline |
 | `śīla` | discipline | the Bhāṣya's term for the three corresponding forms |
 
@@ -76,7 +76,7 @@ The first pāda predicates `tridhā jñeyā` of `avijñaptiḥ`; the compound `s
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya identifies the three forms as *prātimokṣa*, meditation-born, and uncontaminated restraint, associating them respectively with desire-realm discipline, Form-realm discipline, and uncontaminated discipline. It also glosses restraint as checking the spread of misconduct; these explanations are not stated in the kārikā.
+**Translation note.** The Bhāṣya identifies the three forms as *prātimokṣa*, meditation-born, and uncontaminated restraint, associating them respectively with Desire Realm discipline, Form Realm discipline, and uncontaminated discipline. It also glosses restraint as checking the spread of misconduct; these explanations are not stated in the kārikā.
 
 ### Textual Notes
 

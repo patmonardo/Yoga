@@ -31,7 +31,7 @@ kāme 'dharāṇāṃ tenāyuḥ pañcavarṣaśatāni tu // 3.79 //
 | tu | particle | indeed / in turn; closes the lifespan determination |
 
 The Bhāṣya makes `adharāṇām` exact: these are the Cāturmahārājakāyikas, the
-lowest class of desire-realm devas. It also makes explicit that the five
+lowest class of Desire Realm devas. It also makes explicit that the five
 hundred years are divine years constituted through the preceding conversion.
 
 ## 4. Grammar
@@ -100,7 +100,7 @@ lifespan.
 | āyus | lifespan | total duration computed in domain-specific years |
 | vyavasthāpya | having established | Bhāṣya statement of the required order of calculation |
 | āyuḥpramāṇa | lifespan-measure | quantified total duration |
-| dviguṇottara | successively doubled | Bhāṣya forward rule for higher desire-realm devas |
+| dviguṇottara | successively doubled | Bhāṣya forward rule for higher Desire Realm devas |
 
 The identical English word “year” must not conceal the unit distinction:
 `human year` is used to define the deva day-night, whereas `divine year` names
@@ -164,7 +164,7 @@ underspecified and can be mistaken for five hundred human years.
 
 ### Forward rule
 
-The Bhāṣya closes by announcing that for the higher desire-realm devas both
+The Bhāṣya closes by announcing that for the higher Desire Realm devas both
 quantities increase successively twofold:
 
 ```text

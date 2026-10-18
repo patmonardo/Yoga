@@ -19,9 +19,9 @@ nāsty ahorātram āyus tu kalpaiḥ svāśrayasaṃmitaiḥ // 3.80 //
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | dviguṇottaram | nominative neuter singular compound agreeing with `ubhayam` | successively twofold at each higher station |
-| ūrdhvānām | genitive masculine plural | of the higher desire-realm devas |
+| ūrdhvānām | genitive masculine plural | of the higher Desire Realm devas |
 | ubhayam | nominative neuter singular collective | both temporal measures together |
-| rūpiṇām | genitive masculine plural | of the form-realm devas |
+| rūpiṇām | genitive masculine plural | of the Form Realm devas |
 | punaḥ | indeclinable | in turn; introduces the new realm case |
 | nāsti | negative existential | there is no |
 | ahorātram | nominative neuter singular | day-and-night as a calendar unit |
@@ -44,7 +44,7 @@ The first construction continues the kāma-deva sequence announced after 3.79:
     dvi-guṇa-uttaram [bhavati]
 ```
 
-> For the higher desire-realm devas, both measures increase successively
+> For the higher Desire Realm devas, both measures increase successively
 > twofold.
 
 The collective singular `ubhayam` takes the singular predicate
@@ -67,7 +67,7 @@ rūpiṇāṃ punaḥ
     sva-āśraya-saṃmitaiḥ [asti]
 ```
 
-> For the form-realm devas, in turn, there is no day-and-night; but lifespan
+> For the Form Realm devas, in turn, there is no day-and-night; but lifespan
 > is measured in kalpas commensurate with their own bodily support.
 
 The contrastive `tu` prevents the absence of day-and-night from being mistaken
@@ -78,18 +78,18 @@ longer passes through a day/month/year calendar.
 
 ### Literal Translation
 > For the higher devas, both measures are successively doubled. For the
-> form-realm devas, in turn, there is no day-and-night; but their lifespan is
+> Form Realm devas, in turn, there is no day-and-night; but their lifespan is
 > in kalpas commensurate with their own bodily support.
 
 ### Bhāṣya-informed study translation
 
-> For the higher desire-realm devas, both measures double successively. Form-
+> For the higher Desire Realm devas, both measures double successively. Form-
 > realm devas have no day-and-night; their lifespan is measured in kalpas
 > corresponding to their bodily support.
 
 ## 6. Philosophical Translation
 
-> Higher desire-realm stations preserve one calendar-form while scaling two
+> Higher Desire Realm stations preserve one calendar-form while scaling two
 > of its parameters together: the magnitude of the day and the number of years
 > lived. The form realm introduces a stronger transformation. Daily time is no
 > longer operative, yet duration remains exactly measurable through a direct
@@ -102,18 +102,18 @@ longer passes through a day/month/year calendar.
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | dviguṇottara | successively doubled | recurrence applied simultaneously to two kāma-deva temporal parameters |
-| ūrdhva | higher | the five desire-realm stations above Cāturmahārājakāyika |
+| ūrdhva | higher | the five Desire Realm stations above Cāturmahārājakāyika |
 | ubhaya | both | day-night conversion and lifespan-year magnitude |
 | ahorātra / rātrindiva | day-and-night | calendar unit retained in kāmadhātu and absent in rūpadhātu |
-| rūpin | form-realm deva | subject of the non-calendrical lifespan rule |
+| rūpin | Form Realm deva | subject of the non-calendrical lifespan rule |
 | āyus | lifespan | duration retained across both temporal regimes |
-| kalpa | kalpa / aeon | direct lifespan unit of form-realm devas |
-| āśraya | bodily support | quantified embodiment to which form-realm lifespan corresponds |
+| kalpa | kalpa / aeon | direct lifespan unit of Form Realm devas |
+| āśraya | bodily support | quantified embodiment to which Form Realm lifespan corresponds |
 | saṃmita | commensurate / equally measured | exact numerical correspondence, not vague similarity |
 | saṃkocavikāsa | contraction and opening | Bhāṣya sign distinguishing temporal phases without sun and moon |
 | svayaṃprabha | self-luminous | Bhāṣya explanation of illumination among higher devas |
 
-`nāsty ahorātram` denies the day-night unit for form-realm devas. It does not
+`nāsty ahorātram` denies the day-night unit for Form Realm devas. It does not
 deny sequence, duration, lifespan, or temporal determination as such.
 
 ## 8. Logical Determination
@@ -173,7 +173,7 @@ temporal distinction within kāmadhātu.
 
 ### Change of temporal schema in rūpadhātu
 
-For form-realm devas:
+For Form Realm devas:
 
 ```text
 day-night calendar = not applicable
@@ -200,8 +200,8 @@ identity between body and lifespan.
 
 ## 9. Interpretive Note
 
-**Translation note.** The two members of `ubhayam`, the complete desire-realm sequence, and the
-exact yojana-to-kalpa commensurability are Bhāṣya determinations. The first desire-realm conversion is fifty human years to one Cāturmahārājika day-and-night; higher stations double the day-and-night and lifespan measures. Form-realm supports range from half a yojana and half a kalpa to 16,000 yojanas and 16,000 kalpas at Akaniṣṭha.
+**Translation note.** The two members of `ubhayam`, the complete Desire Realm sequence, and the
+exact yojana-to-kalpa commensurability are Bhāṣya determinations. The first Desire Realm conversion is fifty human years to one Cāturmahārājika day-and-night; higher stations double the day-and-night and lifespan measures. Form Realm supports range from half a yojana and half a kalpa to 16,000 yojanas and 16,000 kalpas at Akaniṣṭha.
 
 VAK 3.80 offers a remarkably systematic theory of realm-specific time. It
 distinguishes three levels that a weaker representation would conflate:
@@ -260,7 +260,7 @@ type TemporalRegime =
 
 This is explanatory project notation, not Vasubandhu's vocabulary. It forbids
 the kāma-deva calendar operations from being applied after the transition to
-the form-realm schema.
+the Form Realm schema.
 
 ## 10. OWL++ Seed
 

@@ -5,7 +5,7 @@
 > avyākṛtāntarmukhā hi te samāhitabhūmikāḥ |
 > ata ekīkṛtāḥ mūlam avidyety āsravaḥ pṛthak || 5.36 ||
 
-> The form- and formless-realm anuśayas are unified as one existence āsrava
+> The form- and Formless Realm anuśayas are unified as one existence āsrava
 > because they are ethically indeterminate, inward-directed, and situated on
 > concentrated planes. Ignorance, the root of all these afflictions, is
 > classified as a separate āsrava.

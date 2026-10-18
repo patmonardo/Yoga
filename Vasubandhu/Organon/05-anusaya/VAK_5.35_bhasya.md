@@ -5,7 +5,7 @@
 > kāme saparyavasthānāḥ kleśāḥ kāmāsravo vinā |
 > mohenānuśayā eva rūpārūpye bhavāsravaḥ || 5.35 ||
 
-> In the desire-realm, afflictions together with paryavasthānas, apart from
+> In the Desire Realm, afflictions together with paryavasthānas, apart from
 > ignorance, constitute the desire āsrava. In the form and formless realms,
 > only the anuśayas, again apart from ignorance, constitute the existence
 > āsrava.
@@ -57,7 +57,7 @@ existence, views, and ignorance; as four yokes with the
 same names; and as four appropriations: of desire, views,
 discipline and observance, and a doctrine of self.
 
-First, in the desire-realm the afflictions together with
+First, in the Desire Realm the afflictions together with
 the paryavasthānas, excluding ignorance, constitute the
 desire āsrava. There are forty-one counted factors:
 thirty-one anuśayas after excluding the five modes of
@@ -83,7 +83,7 @@ along with non-ignorance afflictions; the existence āsrava
 counts only non-ignorance anuśayas. Ignorance is excluded
 from both because it receives its own category.
 
-The arithmetic is exact: in the desire-realm, 36 anuśayas
+The arithmetic is exact: in the Desire Realm, 36 anuśayas
 minus five modes of ignorance gives 31, plus ten
 paryavasthānas gives 41. Each higher domain has 31
 anuśayas; removing its five ignorance modes leaves 26,

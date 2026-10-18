@@ -16,7 +16,7 @@ svakādharatrayordhvaikāmalānāṃ rūpadhātujāḥ |
 
 The verse continues the condensed object-support matrix begun in VAK 5.29.
 The same three abandonment-classes are retained while their realm is varied
-from the form-realm to the formless-realm.
+from the Form Realm to the Formless Realm.
 
 ## 3. Lexical Analysis
 
@@ -26,8 +26,8 @@ from the form-realm to the formless-realm.
 | `adhara-traya` | compound member | the corresponding three consciousness classes of the lower realm |
 | `ūrdhva-eka` | compound member | one consciousness class of the higher realm |
 | `amalānām` | genitive plural | of the undefiled [consciousness classes] |
-| `rūpa-dhātu-jāḥ` | nominative plural compound | dharmas belonging to the form-realm |
-| `ārūpya-jāḥ` | nominative plural compound | dharmas belonging to the formless-realm |
+| `rūpa-dhātu-jāḥ` | nominative plural compound | dharmas belonging to the Form Realm |
+| `ārūpya-jāḥ` | nominative plural compound | dharmas belonging to the Formless Realm |
 | `tri-dhātu-āpta-traya` | compound member | the corresponding three consciousness classes belonging to each of the three realms |
 | `anāsrava-gocarāḥ` | nominative plural compound | objects of undefiled consciousness |
 
@@ -36,7 +36,7 @@ suffering, seeing origination, and cultivation. They are not restated in the
 kārikā's second half.
 ## 4. Grammar
 
-**form-realm dharmas**
+**Form Realm dharmas**
 
 ```text
 rūpa-dhātu-jāḥ
@@ -48,10 +48,10 @@ rūpa-dhātu-jāḥ
 
 The governing `gocara` relation is compressed across the first half and made
 explicit at the end of the verse. The Bhāṣya expands the count: three consciousness classes
-of their own form-realm, three of the lower desire-realm, one cultivation-
-abandonable consciousness of the higher formless-realm, and undefiled consciousness.
+of their own Form Realm, three of the lower Desire Realm, one cultivation-
+abandonable consciousness of the higher Formless Realm, and undefiled consciousness.
 
-**formless-realm dharmas**
+**Formless Realm dharmas**
 
 ```text
 ārūpya-jāḥ
@@ -74,25 +74,25 @@ variant should remain open for a later textual-witness review.
 
 ### Literal Translation
 
-> Those belonging to the form-realm are objects of their own three [consciousness classes],
+> Those belonging to the Form Realm are objects of their own three [consciousness classes],
 > the lower three, one higher [consciousness], and the undefiled [consciousness]. Those belonging
-> to the formless-realm are objects of the corresponding three belonging to
+> to the Formless Realm are objects of the corresponding three belonging to
 > the three realms and of undefiled [consciousness].
 
 ### Bhāṣya-informed study translation
 
-> The three classes of form-realm dharmas are objects for three corresponding
+> The three classes of Form Realm dharmas are objects for three corresponding
 > consciousness classes in their own realm, three in the lower realm, one consciousness
 > class of the higher realm abandoned through cultivation, and undefiled consciousness.
-> The same formless-realm dharma classes are objects for the corresponding three
+> The same Formless Realm dharma classes are objects for the corresponding three
 > consciousness classes in each of the three realms and for undefiled consciousness.
 
 ## 6. Philosophical Translation
 
 > Realm-membership determines where a dharma belongs, but not the complete
-> range of consciousness through which it can be presented. form-realm dharmas may be
+> range of consciousness through which it can be presented. Form Realm dharmas may be
 > apprehended from below, within their own realm, from one specified standpoint
-> above, and by undefiled consciousness. formless-realm dharmas are accessible to
+> above, and by undefiled consciousness. Formless Realm dharmas are accessible to
 > the corresponding consciousness types in all three realms and to undefiled
 > consciousness. The hierarchy is therefore an ordered field of determinate access,
 > not a set of cognitively sealed compartments.
@@ -103,13 +103,13 @@ object-relation.
 
 ## 7. Technical Vocabulary
 
-**`Rūpadhātujā` — belonging to the form-realm**
+**`Rūpadhātujā` — belonging to the Form Realm**
 
-Here it qualifies the same three dharma-classes treated for the desire-realm
+Here it qualifies the same three dharma-classes treated for the Desire Realm
 in VAK 5.29: those abandoned by seeing suffering, seeing origination, and
 cultivation.
 
-**`Ārūpyaja` — belonging to the formless-realm**
+**`Ārūpyaja` — belonging to the Formless Realm**
 
 The corresponding three dharma-classes at the highest of the three conditioned
 realms.
@@ -135,10 +135,10 @@ undefiled consciousness class appended to each contaminated realm-based count.
 The Bhāṣya makes the compressed arithmetic explicit:
 
 ```text
-form-realm dharmas:
+Form Realm dharmas:
     3 own + 3 lower + 1 higher + 1 undefiled = 8
 
-formless-realm dharmas:
+Formless Realm dharmas:
     (3 corresponding × 3 realms) + 1 undefiled = 10
 ```
 
@@ -189,8 +189,8 @@ conditions determine whether this presentation becomes an afflictive
 ## 9. Interpretive Note
 
 **Source determination.** The variable held constant is abandonment-type; the
-variable changed is realm. form-realm objects admit eight consciousness-relations,
-and formless-realm objects admit ten. Together with VAK 5.29, this closes the
+variable changed is realm. Form Realm objects admit eight consciousness-relations,
+and Formless Realm objects admit ten. Together with VAK 5.29, this closes the
 first block of the matrix: the three realm-specific classes abandoned by
 seeing suffering, seeing origination, and cultivation.
 

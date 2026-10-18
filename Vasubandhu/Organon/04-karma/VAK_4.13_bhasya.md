@@ -47,7 +47,7 @@ Restraint is the checking of the spread of misconduct.
 
 Restraint, in turn, is threefold: *prātimokṣa* restraint, meditation-born
 restraint, and uncontaminated restraint. The Bhāṣya identifies them,
-respectively, as desire-realm discipline, Form-realm discipline, and
+respectively, as Desire Realm discipline, Form Realm discipline, and
 uncontaminated discipline.
 
 ## 4. Argument and Scope

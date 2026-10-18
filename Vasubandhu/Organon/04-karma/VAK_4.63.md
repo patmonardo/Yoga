@@ -42,7 +42,7 @@ silently replaces the principal classification of VAK 4.60.
 
 **`anyakāmavedya`**
 
-The Bhāṣya specifies karma whose maturation is experienced in a Desire-Realm
+The Bhāṣya specifies karma whose maturation is experienced in a Desire Realm
 destination other than hell.
 
 **`dṛgdheya`**
@@ -52,7 +52,7 @@ by seeing.
 
 **`anyat`**
 
-The Bhāṣya identifies the remainder as Desire-Realm karma to be abandoned by
+The Bhāṣya identifies the remainder as Desire Realm karma to be abandoned by
 cultivation, `bhāvanāprahātavya`.
 
 ## 4. Grammar
@@ -86,7 +86,7 @@ kṛṣṇa-śuklam [viduḥ]
 ```
 
 > Still others call karma abandoned by seeing black; the remaining
-> Desire-Realm karma is black-and-white.
+> Desire Realm karma is black-and-white.
 
 The repeated verb is understood. `Anyat` contrasts the cultivation-abandoned
 remainder with the seeing-abandoned class.
@@ -96,18 +96,18 @@ remainder with the seeing-abandoned class.
 ### Literal Translation
 > Other teachers understand the pair as karma to be experienced in hell and
 > karma to be experienced elsewhere in the Desire Realm, respectively. Still
-> others call karma abandoned by seeing black; the remaining Desire-Realm
+> others call karma abandoned by seeing black; the remaining Desire Realm
 > karma is black-and-white.
 
 ### Bhāṣya-informed study translation
 
 > Some teachers identify the pair respectively with karma to be experienced in
 > hell and karma to be experienced elsewhere in the Desire Realm. Others
-> classify karma abandoned by seeing as black and the remaining Desire-Realm
+> classify karma abandoned by seeing as black and the remaining Desire Realm
 > karma as black-and-white.
 ## 6. Philosophical Translation
 
-> Other teachers understand the pair as karma to be experienced in hell and karma to be experienced elsewhere in the Desire Realm, respectively. Still others call karma abandoned by seeing black; the remaining Desire-Realm karma is black-and-white.
+> Other teachers understand the pair as karma to be experienced in hell and karma to be experienced elsewhere in the Desire Realm, respectively. Still others call karma abandoned by seeing black; the remaining Desire Realm karma is black-and-white.
 
 ## 7. Technical Vocabulary
 
@@ -118,7 +118,7 @@ hell
     only unwholesome karma matures
     → hell-result karma called black
 
-other Desire-Realm destinations
+other Desire Realm destinations
     wholesome and unwholesome karma mature
     → their result-field called black-and-white
 ```
@@ -214,13 +214,13 @@ The same karma-field can be discriminated through either relation.
 black-and-white karma, respectively. In hell, only unwholesome karma matures;
 elsewhere in the Desire Realm, both wholesome and unwholesome karma mature. The
 second group calls karma abandoned by the Path of Seeing black because it is unmixed
-with wholesome karma. The remaining Desire-Realm karma is abandoned through
+with wholesome karma. The remaining Desire Realm karma is abandoned through
 cultivation and is black-and-white because it comprises both wholesome and
 unwholesome karma. The first teachers correlate the pair with black and
 black-and-white karma: in hell only unwholesome karma matures, whereas elsewhere in
 the Desire Realm both wholesome and unwholesome karma mature. The other teachers
 call the karma abandoned by seeing black because it is unmixed with wholesome karma;
-the remaining Desire-Realm karma is abandoned by cultivation and contains both
+the remaining Desire Realm karma is abandoned by cultivation and contains both
 classes.
 
 The grounds supplied for both alternatives and the identification of the

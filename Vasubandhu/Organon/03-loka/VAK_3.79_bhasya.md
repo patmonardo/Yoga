@@ -47,7 +47,7 @@ five hundred divine years.
 
 Vasubandhu makes the calendar the prerequisite for stating a deva lifespan.
 The verse gives the human-to-divine day-and-night conversion and the total
-lifespan; the prose identifies the lowest desire-realm class as the
+lifespan; the prose identifies the lowest Desire Realm class as the
 Cāturmahārājikas and explains the intervening units of month and year.
 
 ## 5. The Temporal Conversion

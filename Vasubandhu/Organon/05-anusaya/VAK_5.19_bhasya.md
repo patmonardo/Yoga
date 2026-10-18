@@ -6,7 +6,7 @@
 > antagrāhaḥ sahābhyāṃ ca mohaḥ śeṣās tv ihāśubhāḥ || 5.19 ||
 
 > All anuśayas of the form and formless realms are ethically indeterminate;
-> in the desire-realm, satkāya-view, extreme-grasping view, and the ignorance
+> in the Desire Realm, satkāya-view, extreme-grasping view, and the ignorance
 > associated with them are likewise indeterminate, while the rest are
 > unwholesome.
 
@@ -62,7 +62,7 @@ they would have painful maturation. But that is absent in those
 two domains because the cause consisting in harm to others is
 absent.
 
-“In the desire-realm, self-view, extreme-view, and the delusion
+“In the Desire Realm, self-view, extreme-view, and the delusion
 associated with those two” are indeterminate. In the desire
 domain, self-view and extreme-view, together with the ignorance
 associated with them, are indeterminate. Why? They are not
@@ -80,7 +80,7 @@ and for the conceit “I am.” Innate self-view, which occurs even
 in deer and birds, is indeterminate. Conceptually constructed
 self-view, however, is unwholesome, according to the earlier
 teachers. “The remaining anuśayas here are unwholesome”: the
-remaining desire-realm anuśayas are unwholesome.
+remaining Desire Realm anuśayas are unwholesome.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -88,7 +88,7 @@ The verse classifies **ethical status**, not the presence or
 absence of affliction. An anuśaya can be `kliṣṭa` and yet
 `avyākṛta`. For the higher domains the Bhāṣya argues through
 painful karmic maturation and the absence of a cause involving
-harm to others. Within the desire-realm it selects two views
+harm to others. Within the Desire Realm it selects two views
 and precisely the ignorance conjoined with them.
 
 The argument from giving and discipline establishes compatibility,

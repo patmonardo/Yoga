@@ -11,7 +11,7 @@
 
 The commentary specifies the one-interval position, explains why a
 single remaining grade can obstruct the fruit, and completes the
-nine-grade desire-realm sequence at non-returning.
+nine-grade Desire Realm sequence at non-returning.
 
 ## 2. Continuous Sanskrit
 
@@ -87,7 +87,7 @@ present.
 
 With destruction of the ninth grade, that same fruit-established
 practitioner is called a non-returner because there is no further
-coming to the desire-realm. The formula “abandonment of the five lower
+coming to the Desire Realm. The formula “abandonment of the five lower
 fetters” gathers together removals made at different points: two or
 three had necessarily been abandoned earlier.
 
@@ -105,7 +105,7 @@ the five-fetter formula groups earlier and later abandonments.
 **Translation decisions.** `Ekavīcika` is rendered “one-interval” so
 that its birth and affliction-grade explanations remain distinct.
 `Dhātvatikrama` is “crossing a realm” here, specifically leaving the
-possibility of desire-realm return. `Samukhīkṛtaḥ` is kept in the
+possibility of Desire Realm return. `Samukhīkṛtaḥ` is kept in the
 witness; the conventional translation gives its contextual sense “made
 present.” The earlier-abandonment qualification prevents grade count
 alone from defining an active candidate position.
@@ -123,7 +123,7 @@ synthesis.
 | One-interval | Seven or eight grades abandoned; opposing uncontaminated faculty acquired; one birth left | Candidate for the third fruit |
 | Remaining obstruction | `dhātvatikramāt` | One grade can bar a whole realm crossing |
 | Prior abandonment | Superior Path not yet made present | Grade count alone does not confer the new position |
-| Non-returner | Ninth grade destroyed; no desire-realm return | Third fruit attained |
+| Non-returner | Ninth grade destroyed; no Desire Realm return | Third fruit attained |
 | Five lower fetters | Two or three abandoned earlier | Grouped formula, not one simultaneous event |
 
 ## 7. Review Status

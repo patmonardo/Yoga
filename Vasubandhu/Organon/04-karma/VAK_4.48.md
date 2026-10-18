@@ -232,7 +232,7 @@ one dhātu
 
 ## 9. Interpretive Note
 
-**Translation note.** The simultaneous force of `apūrvācarama`, the Desire-Realm
+**Translation note.** The simultaneous force of `apūrvācarama`, the Desire Realm
 restriction, and the qualification of the preceding rule as predominant are supplied
 by the Bhāṣya. The Bhāṣya identifies the middle class as neutral-result karma and
 reads the three maturations as simultaneous, possible together only in the Desire
@@ -258,9 +258,9 @@ Neutral maturation is not restricted to a highest terminal position. As the
 middle determination, it can appear within the lower field when the concrete
 conditions exclude both pleasure and pain.
 
-**The Desire-Realm field permits differentiated coexistence**
+**The Desire Realm field permits differentiated coexistence**
 
-The simultaneous Desire-Realm case shows that a karmic field is not a
+The simultaneous Desire Realm case shows that a karmic field is not a
 homogeneous quality shared by everything within it. It is a systematic range
 in which distinct determinations can arise, relate, and become actual
 together. This is a project-level field interpretation, not a translation of
@@ -274,7 +274,7 @@ after `durbalaṃ tu tat` prevents us from forcing a complete sectarian
 resolution beyond what the witness supports.
 
 This is the Organon contact. The alternative views, śāstra rejection, sūtra
-distribution, Desire-Realm restriction, and `bāhulika` qualification belong
+distribution, Desire Realm restriction, and `bāhulika` qualification belong
 to the Bhāṣya.
 
 **Former Philosophical Translation.**

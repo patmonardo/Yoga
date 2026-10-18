@@ -94,8 +94,8 @@ as commencement of the Path.
 
 **Translation decisions.** `Dhātu` here is the three existential
 realms. `Adhodhātvanālambana` concerns lower realms as cognitive
-Conditions, not spatial objects. `Asaṃvega` is applied to form-realm
-ordinary beings; the formless-realm explanation concerns hearing and
+Conditions, not spatial objects. `Asaṃvega` is applied to Form Realm
+ordinary beings; the Formless Realm explanation concerns hearing and
 cognitive Condition. The source's `saṃgenā` is preserved in §2;
 the English follows the surrounding *saṃvega* argument. `Vidhā` is
 explicitly glossed `mārgārambha`.

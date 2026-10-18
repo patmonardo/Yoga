@@ -95,7 +95,7 @@ The final mundane preparation. Dharma-Acceptance follows immediately: the thresh
 
 **`Dharmajñānakṣānti` — Dharma-Knowledge-Acceptance**
 
-The kārikā's *dharmakṣānti*, already uncontaminated but not identical with the Knowing that follows it. Related to it as flower to fruit. Its cognitive Condition is desire-realm suffering.
+The kārikā's *dharmakṣānti*, already uncontaminated but not identical with the Knowing that follows it. Related to it as flower to fruit. Its cognitive Condition is Desire Realm suffering.
 
 **`Anāsrava` — uncontaminated**
 

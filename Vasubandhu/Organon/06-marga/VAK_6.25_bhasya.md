@@ -109,7 +109,7 @@ Prajñā and penetration as applicable.
 The digression on what is conducive to liberation ends. The sequence of
 direct realization resumes where the Highest Mundane Dharmas were reached.
 Immediately after them, uncontaminated Dharma-Knowing-Acceptance arises.
-What is its cognitive Condition? Desire-realm suffering. Accordingly it
+What is its cognitive Condition? Desire Realm suffering. Accordingly it
 is called Dharma-Knowing-Acceptance regarding suffering. The commentary
 relates the Acceptance to the uncontaminated Knowing toward which it tends,
 like flower and fruit on a tree. The transmitted explanatory compounds are
@@ -158,7 +158,7 @@ synthesis.
 |---|---|---|
 | Stage | Highest Mundane Dharmas | First uncontaminated Path moment |
 | Purity | Mundane | Uncontaminated |
-| Cognitive Condition | Desire-realm suffering at the final preparatory moment | Desire-realm suffering |
+| Cognitive Condition | Desire Realm suffering at the final preparatory moment | Desire Realm suffering |
 | Practitioner status | Ordinary | Called a Noble Person at arising |
 
 The source reports three explanations of what displaces ordinary-person

@@ -25,18 +25,18 @@ consciousness classes that can take them as object-supports.
 | `duḥkha-dṛk-praheyāḥ` | nominative plural compound | dharmas to be abandoned by seeing suffering |
 | `hetu-dṛk-praheyāḥ` | nominative plural compound | dharmas to be abandoned by seeing its cause or origination |
 | `abhyāsa-praheyāḥ` | nominative plural compound | dharmas to be abandoned by cultivation |
-| `kāma-dhātu-jāḥ` | nominative plural compound | belonging to or arisen in the desire-realm |
+| `kāma-dhātu-jāḥ` | nominative plural compound | belonging to or arisen in the Desire Realm |
 | `svaka-traya` | compound member | the three [consciousness classes] belonging to their own realm |
-| `eka-rūpa-āpta` | compound member | one [consciousness class] belonging to the form-realm |
+| `eka-rūpa-āpta` | compound member | one [consciousness class] belonging to the Form Realm |
 | `amala-vijñāna` | compound member | undefiled Cognition |
 | `gocarāḥ` | nominative plural masculine | objects or cognitive ranges |
 
 The tightly compressed first compound distributes `praheyāḥ` across three
 path-indexed classes. The Bhāṣya explicitly analyzes `svakatraya` as “their
-own three” and `ekarūpāpta` as “one belonging to the form-realm.”
+own three” and `ekarūpāpta` as “one belonging to the Form Realm.”
 ## 4. Grammar
 
-**Subject: three desire-realm dharma-classes**
+**Subject: three Desire Realm dharma-classes**
 
 ```text
 [duḥkha-dṛk-praheyāḥ
@@ -45,7 +45,7 @@ own three” and `ekarūpāpta` as “one belonging to the form-realm.”
     kāma-dhātu-jāḥ
 ```
 
-These are respectively the desire-realm dharmas abandoned by seeing
+These are respectively the Desire Realm dharmas abandoned by seeing
 suffering, seeing origination, and cultivation. `Hetu-dṛk` is construed by the
 Bhāṣya as `samudaya-darśana`, seeing the origination of suffering.
 
@@ -57,29 +57,29 @@ Bhāṣya as `samudaya-darśana`, seeing the origination of suffering.
  amala-vijñāna]-gocarāḥ
 ```
 
-The long predicate compound says that those dharmas are objects of five consciousness classes. The Bhāṣya resolves the elliptical counts: three corresponding consciousness classes in the desire-realm, one cultivation-abandonable consciousness of the form-realm,
+The long predicate compound says that those dharmas are objects of five consciousness classes. The Bhāṣya resolves the elliptical counts: three corresponding consciousness classes in the Desire Realm, one cultivation-abandonable consciousness of the Form Realm,
 and one undefiled consciousness.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The desire-realm [dharmas] to be abandoned by seeing suffering, by seeing
+> The Desire Realm [dharmas] to be abandoned by seeing suffering, by seeing
 > its cause, and by cultivation are the objects of their own three [consciousness classes],
-> one belonging to the form-realm, and undefiled Cognition.
+> one belonging to the Form Realm, and undefiled Cognition.
 
 ### Bhāṣya-informed study translation
 
-> Desire-realm dharmas abandoned through seeing suffering, seeing origination,
+> Desire Realm dharmas abandoned through seeing suffering, seeing origination,
 > or cultivation are objects for three corresponding consciousness classes in their own
-> realm, one form-realm consciousness class abandoned through cultivation, and
+> realm, one Form Realm consciousness class abandoned through cultivation, and
 > undefiled Cognition.
 
 ## 6. Philosophical Translation
 
 > A dharma's place within an afflictive realm does not restrict it to cognition
-> of that same status. The three indicated classes of desire-realm dharmas are
-> accessible not only to corresponding desire-realm consciousness classes, but also to a
+> of that same status. The three indicated classes of Desire Realm dharmas are
+> accessible not only to corresponding Desire Realm consciousness classes, but also to a
 > higher-realm consciousness and to undefiled Cognition. The status of what is known
 > and the status of the cognition knowing it must therefore be determined
 > separately. By first fixing their admissible object-relations, one can then
@@ -102,9 +102,9 @@ relations.
 The Bhāṣya supplies the governing classification:
 
 ```text
-5 desire-realm classes
-5 form-realm classes
-5 formless-realm classes
+5 Desire Realm classes
+5 Form Realm classes
+5 Formless Realm classes
 1 undefiled class
     = 16 dharma-classes
 
@@ -114,7 +114,7 @@ the same division
 
 The five within each realm are the four classes abandoned by seeing the four
 truths and the class abandoned by cultivation. VAK 5.29 begins with three of
-the five desire-realm classes.
+the five Desire Realm classes.
 
 **`Praheya` — to be abandoned**
 

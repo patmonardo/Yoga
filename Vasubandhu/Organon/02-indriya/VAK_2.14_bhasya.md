@@ -43,7 +43,7 @@ Labhyate stays singular with dve. Taiḥ is the commentary's reading of teḥ. T
 
 The unit runs from printed 47.16 through the close at 48.14 in `Vasubandhu/Sources/kosabhasya.txt`. Tyāga idānīṃ vaktavyaḥ at 48.15 opens relinquishment and is 2.15.
 
-Word division is editorial. Repairs: saṃsvedajaīr → saṃsvedajair, ṣaḍa vā → ṣaḍ vā, ṣaḍḍindriyāṇi → ṣaḍ indriyāṇi, parathamato → prathamato, avyañjanaiarupapādukaiḥ → avyañjanair upapādukaiḥ, ārupyā → ārūpyā. Rūpadhātū rūpāṇīti is retained, parallel to the desire-realm designation. Locator 48.02–048.92 is defective. No independent collation is claimed.
+Word division is editorial. Repairs: saṃsvedajaīr → saṃsvedajair, ṣaḍa vā → ṣaḍ vā, ṣaḍḍindriyāṇi → ṣaḍ indriyāṇi, parathamato → prathamato, avyañjanaiarupapādukaiḥ → avyañjanair upapādukaiḥ, ārupyā → ārūpyā. Rūpadhātū rūpāṇīti is retained, parallel to the Desire Realm designation. Locator 48.02–048.92 is defective. No independent collation is claimed.
 
 ## 3. Continuous Conventional Translation
 
@@ -57,7 +57,7 @@ One in the higher. The formless realm is higher than the form realm, because it 
 
 ## 4. Movement and Voice of the Commentary
 
-The question specifies acquisition, the initial time, maturation, and realm. Desire-realm birth is split, then the spontaneously born by sexual characteristic. Form and formless complete the distribution.
+The question specifies acquisition, the initial time, maturation, and realm. Desire Realm birth is split, then the spontaneously born by sexual characteristic. Form and formless complete the distribution.
 
 Two interruptions: why mind and neutral feeling are out of the first count, and whether spontaneous birth can have both marks. Both are answered. No opponent. No school. The sūtra supports the realm-language. It is not a proof of the counts.
 
@@ -67,7 +67,7 @@ Afflicted at relinking is why mind and neutral feeling are not maturation. Occur
 
 Two does not mean no mind and no feeling. One in the formless realm is the maturation-count. It is not formless existence as life without mental activity. The eight of 2.12 were another question.
 
-## 6. The Desire-Realm Counts
+## 6. The Desire Realm Counts
 
 | Condition | First acquired as maturation | Count |
 |---|---|---:|
@@ -80,7 +80,7 @@ The six include life, not mind. The seventh and eighth are the marks. The birth-
 
 ## 7. The Two Higher Realms
 
-Form receives the same six as the spontaneous desire-realm case without marks. The shared list is the maturation-count. It is not identical sensory activity.
+Form receives the same six as the spontaneous Desire Realm case without marks. The shared list is the maturation-count. It is not identical sensory activity.
 
 Formless receives life alone under this predicate. Higher is attainment and rebirth. Those are not the same event. Neither higher nor the smaller count is liberation. The triad stays unconnected.
 

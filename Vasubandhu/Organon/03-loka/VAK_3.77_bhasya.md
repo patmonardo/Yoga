@@ -1,4 +1,4 @@
-# VAK_3.77 Bhāṣya — The Form-Realm Measure Series
+# VAK_3.77 Bhāṣya — The Form Realm Measure Series
 
 ## 1. Kārikā Anchor
 
@@ -54,7 +54,7 @@ of the Akaniṣṭhas measures sixteen thousand yojanas.
 
 ## 4. Natural Movement
 
-This passage completes the form-realm body-measure sequence begun in 3.76.
+This passage completes the Form Realm body-measure sequence begun in 3.76.
 The first rule adds half a yojana at each of three stations above the
 Brahmakāyikas. The rule then changes to successive doubling, explicitly
 illustrated by the four- and eight-yojana measures and carried to sixty-four
@@ -83,7 +83,7 @@ additional numbers explicitly listed in this passage.
 
 ## 6. Doctrinal Note
 
-The `āśraya` here is the measurable bodily support at a form-realm station.
+The `āśraya` here is the measurable bodily support at a Form Realm station.
 Its measure follows two rules in succession—addition by half-yojana steps,
 then doubling—with a specified Anabhraka exception. The exception is not a
 break in the exposition: the text states that doubling resumes beyond it.

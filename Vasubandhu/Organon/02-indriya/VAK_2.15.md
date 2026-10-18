@@ -67,7 +67,7 @@ Cessation features do not invert the acquisition features.
 | sakṛn-maraṇa | death all at once | the kārikā counts |
 | krama-mṛtyu | gradual death | four; the next clause |
 | śubha / kuśala citta | wholesome mind | adds the five |
-| samagra-indriya | faculties complete | form-realm arising and dying |
+| samagra-indriya | faculties complete | Form Realm arising and dying |
 | vyañjana | sexual characteristic | eight, nine, or ten |
 
 ## 8. Logical Determination

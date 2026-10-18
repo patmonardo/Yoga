@@ -18,7 +18,7 @@ VAK 6.11 completes the three-stage training of `aśubha` and then classifies the
 practice. After relinquishing even the final skeletal remainder, the
 practitioner sustains consciousness (`citta`) between the eyebrows and is called one whose
 attention has passed beyond the support. The practice has non-greed as its
-intrinsic nature, occurs on ten grounds, takes desire-realm visible Form as
+intrinsic nature, occurs on ten grounds, takes Desire Realm visible Form as
 its cognitive Condition, and is generated among humans.
 
 ## 3. Lexical Analysis
@@ -30,7 +30,7 @@ its cognitive Condition, and is generated among humans.
 | `citta-dhāraṇāt` | ablative singular compound | through sustaining or fixing consciousness |
 | `alobhaḥ` | nominative singular masculine | non-greed; intrinsic nature of the practice |
 | `daśa-bhūḥ` | nominative singular compound | belonging to ten grounds |
-| `kāma-dṛśya-ālambā` | nominative singular feminine compound | having desire-realm visible Form as cognitive Condition |
+| `kāma-dṛśya-ālambā` | nominative singular feminine compound | having Desire Realm visible Form as cognitive Condition |
 | `nṛ-jā` | nominative singular feminine compound | generated among humans |
 | `aśubhā` | nominative singular feminine | cultivation of the unattractive |
 
@@ -73,7 +73,7 @@ aśubhā
         range: ten grounds
 
     kāmāvacara-dṛśyālambanā
-        cognitive Condition: desire-realm visible Form
+        cognitive Condition: Desire Realm visible Form
 
     nṛjā
         locus of arising: human
@@ -90,7 +90,7 @@ PRACTITIONER[STAGE=attention-passed-beyond, PRACTICE=aśubha,
              REMAINDER=none, ATTENTION=brow-center]
   ← atikrānta-manaskāraḥ + bhrūmadhye citta-dhāraṇāt
 PRACTICE[TYPE=aśubha, NATURE=alobha, GROUNDS=ten,
-         CONDITION=desire-realm-visible-form, ORIGIN=human]
+         CONDITION=Desire Realm-visible-form, ORIGIN=human]
   ← alobhaḥ + daśabhūḥ + kāma-dṛśyālambā + nṛjā
 ```
 
@@ -104,14 +104,14 @@ provenance are additional prose determinations.
 
 > Through sustaining consciousness between the eyebrows, one is [called] a practitioner
 > whose attention has passed beyond. The unattractive [cultivation] is
-> non-greed, belongs to ten grounds, takes visible Form of the desire-realm as
+> non-greed, belongs to ten grounds, takes visible Form of the Desire Realm as
 > its cognitive Condition, and is generated among humans.
 
 ### Bhāṣya-informed study translation
 
 > Through holding consciousness between the eyebrows, one is called one whose
 > attention has passed beyond. The unattractive is non-greed, has ten grounds,
-> takes visible Form of the desire-realm as its cognitive Condition, and
+> takes visible Form of the Desire Realm as its cognitive Condition, and
 > arises among humans.
 
 ## 6. Philosophical Translation
@@ -120,7 +120,7 @@ provenance are additional prose determinations.
 > but by passing beyond dependence upon it. Yet command over the construction
 > does not transform it into supramundane realization. The practice remains
 > exactly typed: its nature is non-appropriation, its range is limited to
-> determinate meditative grounds, its cognitive Condition is desire-realm visible Form, its
+> determinate meditative grounds, its cognitive Condition is Desire Realm visible Form, its
 > embodied genesis is human, and its constructed mode of attention remains
 > contaminated. Mastery of a tool and liberation from affliction are therefore
 > distinct achievements.
@@ -160,13 +160,13 @@ replace attachment with hatred or cultivate `dveṣa`.
 **`Daśabhū` — belonging to ten grounds**
 
 The valid level-range assigned to the practice. The Bhāṣya counts the
-desire-realm together with the relevant dhyānas and their neighboring or
+Desire Realm together with the relevant dhyānas and their neighboring or
 preparatory levels in the Vaibhāṣika enumeration. The number records a
 delimited practice-range, not ten meanings of `aśubha`.
 
-**`Kāma-dṛśya-ālambana` — desire-realm visible Form as cognitive Condition**
+**`Kāma-dṛśya-ālambana` — Desire Realm visible Form as cognitive Condition**
 
-The practice takes the visible bodily configuration of the desire-realm as
+The practice takes the visible bodily configuration of the Desire Realm as
 its cognitive Condition (`ālambana`). The Bhāṣya raises a further question
 about visible Form and `artha`, but the local witness is damaged; that finer
 distinction remains open. The Condition is intentionally configured through

@@ -40,7 +40,7 @@ With the four afflictions, those beginning with anger, or regret, twenty-one. Wh
 
 ## 4. Movement and Voice of the Commentary
 
-A base count. Isolated defined. The same count extended to view. An objection asks why view does not add. The reply identifies view as a form of a factor already counted. The remaining clauses add one. A summary. No school. Desire-realm is carried from 2.28, not restated in each clause.
+A base count. Isolated defined. The same count extended to view. An objection asks why view does not add. The reply identifies view as a form of a factor already counted. The remaining clauses add one. A summary. No school. Desire Realm is carried from 2.28, not restated in each clause.
 
 ## 5. Isolated
 

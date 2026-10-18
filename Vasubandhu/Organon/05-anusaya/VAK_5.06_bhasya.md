@@ -80,12 +80,12 @@ are always abandoned through cultivation for both groups.
 Some others say that outsiders never abandon those anuśayas classed
 as to be abandoned through seeing. They appeal to the
 Mahākarmavibhāgasūtra: it reports the occurrence of views taking
-the desire-realm as cognitive support among people free from
+the Desire Realm as cognitive support among people free from
 desire who speculate about the past, including eternalists,
 partial eternalists, and proponents of uncaused arising.
-form-realm afflictions cannot, they argue, have the desire-realm
+Form Realm afflictions cannot, they argue, have the Desire Realm
 as support for people free from desire. These views must therefore
-remain connected with the desire-realm and un-abandoned.
+remain connected with the Desire Realm and un-abandoned.
 
 The Vaibhāṣikas answer that the relevant earlier afflictions fell
 away at the very moment the views arose, as in the case of

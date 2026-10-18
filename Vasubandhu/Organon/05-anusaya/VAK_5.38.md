@@ -108,7 +108,7 @@ The Bhāṣya explains the term through `bhava-grahaṇa`, grasping existence.
 
 **`Kāmopādāna` — appropriation of desire**
 
-The desire-yoke recombined with desire-realm ignorance: thirty-four items,
+The desire-yoke recombined with Desire Realm ignorance: thirty-four items,
 consisting of twenty instances of craving, hostility, conceit, and ignorance,
 four doubts, and ten paryavasthānas.
 

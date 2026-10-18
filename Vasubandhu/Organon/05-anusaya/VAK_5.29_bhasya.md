@@ -5,9 +5,9 @@
 > duḥkhahetudṛgabhyāsapraheyāḥ kāmadhātujāḥ |
 > svakatrayaikarūpāptāmalavijñānagocarāḥ || 5.29 ||
 
-> Desire-realm dharmas abandoned through seeing suffering, seeing origination,
+> Desire Realm dharmas abandoned through seeing suffering, seeing origination,
 > or cultivation are objects for three corresponding consciousness classes in their own
-> realm, one form-realm consciousness class abandoned through cultivation, and
+> realm, one Form Realm consciousness class abandoned through cultivation, and
 > undefiled Cognition.
 
 ## 2. Continuous Sanskrit
@@ -54,12 +54,12 @@ are divided into these same sixteen classes. Once one knows
 which dharma is the `ālambana` of which citta, one should infer
 how many anuśayas adhere with respect to that object.
 
-First, desire-realm dharmas abandoned through seeing suffering,
+First, Desire Realm dharmas abandoned through seeing suffering,
 seeing origination, or cultivation are objects of their own
-three citta classes, one form-realm citta, and undefiled
+three citta classes, one Form Realm citta, and undefiled
 cognition. The prose resolves “own three” as the three
-corresponding desire-realm cittas and “one form-realm” as
-the form-realm citta abandoned through cultivation. Thus
+corresponding Desire Realm cittas and “one Form Realm” as
+the Form Realm citta abandoned through cultivation. Thus
 these three dharma classes are objects of five citta classes
 in all: three in their own domain, one in the higher domain,
 and one undefiled.
@@ -76,11 +76,11 @@ anuśaya may adhere. An object's availability to a citta is
 therefore a necessary step in the calculation, not by itself
 a claim that every such cognition is afflicted.
 
-The first entry concerns three desire-realm object classes:
+The first entry concerns three Desire Realm object classes:
 those abandoned by seeing suffering, by seeing origination,
-and by cultivation. The corresponding three desire-realm
+and by cultivation. The corresponding three Desire Realm
 cittas can take them as objects. The cultivation-abandonable
-form-realm citta and an undefiled citta can also do so.
+Form Realm citta and an undefiled citta can also do so.
 Thus the object's domain and abandonment class do not
 automatically determine the ethical status or domain of the
 cognition that takes it as its object.

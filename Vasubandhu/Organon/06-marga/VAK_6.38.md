@@ -16,7 +16,7 @@ sa pluto 'rdha-plutaḥ sarva-cyutaś cānyo bhavāgragaḥ |
 
 The Akaniṣṭha-bound upward-streamer has three possible routes. The verse
 then adds an upward course to the summit of existence, a fourfold
-formless-realm type, and completion in this life.
+Formless Realm type, and completion in this life.
 
 ## 3. Lexical Analysis
 
@@ -107,7 +107,7 @@ These are route-differences within one fruit and one maximal destination. They d
 
 **`Pluta` — leaper**
 
-The leaper is first reborn in a lower form-realm station and then, through the force of prior cultivation, reaches Akaniṣṭha without sinking into the intermediate stations. Its ascent is discontinuous with respect to the available loci.
+The leaper is first reborn in a lower Form Realm station and then, through the force of prior cultivation, reaches Akaniṣṭha without sinking into the intermediate stations. Its ascent is discontinuous with respect to the available loci.
 
 **`Ardhapluta` — half-leaper**
 
@@ -141,9 +141,9 @@ vipaśyanā-carita
 
 This is a local Abhidharma causal classification. It should not be expanded here into a claim that insight and calm universally entail these destinations.
 
-**`Ārūpyaga` — formless-realm goer**
+**`Ārūpyaga` — Formless Realm goer**
 
-The formless-realm non-returner is already detached from form and is reborn among the formless attainments. This type is fourfold: post-arising, effortful, effortless, or upward-streaming. The intermediate-state completion type is absent, consistently with the lack of an intermediate-state form-body in the formless trajectory.
+The Formless Realm non-returner is already detached from form and is reborn among the formless attainments. This type is fourfold: post-arising, effortful, effortless, or upward-streaming. The intermediate-state completion type is absent, consistently with the lack of an intermediate-state form-body in the formless trajectory.
 
 In this verse **ārūpya** names the literal formless existential realm and its attainments. It must remain distinct from the project's broader use of “formless” for transcendental non-fixation upon achieved forms.
 
@@ -198,7 +198,7 @@ In Organon terms, explicitly as project synthesis, a Path is not defined by dest
 
 **Translation note.** The Bhāṣya expands the three Akaniṣṭha routes, assigns
 unmixed dhyāna and a calm disposition to the summit-bound course, and explains
-both endpoints as maxima. It identifies the fourfold formless-realm type by
+both endpoints as maxima. It identifies the fourfold Formless Realm type by
 the completion modes that remain available there and names the present-life
 completer `dṛṣṭadharmaparinirvāyin`.
 
@@ -255,7 +255,7 @@ SummitBoundUpwardStreamer hasMaximalDestination SummitOfExistence
 PresentLifeCompletion attainsParinirvanaIn PresentExistence
 
 KārikāRule: Akaniṣṭha-bound upward-streamer has three route-types.
-KārikāRule: Formless-realm non-returner is fourfold.
+KārikāRule: Formless Realm non-returner is fourfold.
 KārikāRule: Another non-returner reaches final nirvāṇa here.
 BhāṣyaRule: Contemplative disposition and meditative configuration condition the upward trajectory.
 ProjectRule: Higher conditioned destination is not identical with the absolute End of the Path.

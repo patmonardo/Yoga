@@ -25,7 +25,7 @@ detachment. The Bhāṣya maps those degrees to the fruit each approaches.
 | `pañca-prakāra-ghnau` | masculine nominative dual compound | the two who have destroyed as many as five grades |
 | `dvitīye` | neuter locative singular | toward the second fruit, with *phale* understood |
 | `arvāk nava-kṣayāt` | adverb with ablative singular | short of destruction of all nine grades |
-| `kāmāt` | ablative singular | from the desire-realm |
+| `kāmāt` | ablative singular | from the Desire Realm |
 | `viraktau` | masculine nominative dual | the two detached or free from attachment |
 | `ūrdhvam vā` | adverb plus alternative particle | or [with detachment extending] higher |
 | `tṛtīya-pratipannakau` | masculine nominative dual compound | the two proceeding toward the third fruit |
@@ -43,9 +43,9 @@ The opening **yāvat pañcaprakāraghnau** carries forward the predicate from 6.
 
 The next construction, **dvitīye ’rvāṅ navakṣayāt**, supplies a new fruit-position short of complete ninefold destruction. The Bhāṣya restricts this otherwise compressed interval to six, seven, or eight grades: “[they are candidates] for the second [fruit] before destruction of the ninth.”
 
-In **kāmād viraktau**, the ablative marks the domain from which attachment has been removed. Complete desire-realm detachment requires abandonment of all nine grades. **ūrdhvaṃ vā** extends the possible prior detachment into higher levels.
+In **kāmād viraktau**, the ablative marks the domain from which attachment has been removed. Complete Desire Realm detachment requires abandonment of all nine grades. **ūrdhvaṃ vā** extends the possible prior detachment into higher levels.
 
-**tṛtīyapratipannakau** is the final shared predicate: in either case—complete desire-realm detachment or detachment extending higher—the two are candidates proceeding toward the third fruit.
+**tṛtīyapratipannakau** is the final shared predicate: in either case—complete Desire Realm detachment or detachment extending higher—the two are candidates proceeding toward the third fruit.
 
 The Bhāṣya-controlled construe is therefore:
 
@@ -58,13 +58,13 @@ all nine, or detachment higher → toward the third fruit.
 **Future Feature Grammar sketch (not executable):**
 
 ```text
-FOLLOWERS[PRIOR-DESIRE-REALM-GRADES-ABANDONED=0..5,
+FOLLOWERS[PRIOR-Desire Realm-GRADES-ABANDONED=0..5,
           TARGET=stream-entry]
   ← yāvat pañcaprakāraghnau
-FOLLOWERS[PRIOR-DESIRE-REALM-GRADES-ABANDONED=6..8,
+FOLLOWERS[PRIOR-Desire Realm-GRADES-ABANDONED=6..8,
           TARGET=once-return]
   ← dvitīye 'rvāṅ navakṣayāt
-FOLLOWERS[PRIOR-DESIRE-REALM-GRADES-ABANDONED=9|higher-detachment,
+FOLLOWERS[PRIOR-Desire Realm-GRADES-ABANDONED=9|higher-detachment,
           TARGET=non-return]
   ← kāmād viraktāv ūrdhvaṃ vā tṛtīyapratipannakau
 ```
@@ -78,7 +78,7 @@ the upper extent of higher detachment.
 
 > Up to five grades destroyed, the two [still approach the first fruit];
 > short of destroying the ninth, [they approach] the second. Detached from
-> the desire-realm or higher, they approach the third fruit.
+> the Desire Realm or higher, they approach the third fruit.
 
 ### Bhāṣya-informed study translation
 
@@ -99,7 +99,7 @@ The same universal operation therefore yields different prospective positions wi
 
 Here **prakāra** is one grade within the ninefold division of cultivation-abandonable affliction. The explicit ninefold scheme is stated later, but the present verse already uses the grade-count as an operative variable.
 
-The desire-realm classification is:
+The Desire Realm classification is:
 
 ```text
 0–5 grades previously abandoned → first-fruit candidate
@@ -119,17 +119,17 @@ This is the point most easily lost in a surface reading of the compressed kārik
 
 **`Dvitīyaphalapratipannaka` — approaching the second fruit**
 
-When six, seven, or eight desire-realm grades were already abandoned, the practitioner is proceeding toward the second fruit, **sakṛdāgāmiphala**, once-return.
+When six, seven, or eight Desire Realm grades were already abandoned, the practitioner is proceeding toward the second fruit, **sakṛdāgāmiphala**, once-return.
 
 The phrase **arvāk navakṣayāt** sets the upper boundary: the second-fruit classification lasts only short of destruction of the ninth grade.
 
-**`Kāmadhātu-vairāgya` — detachment from the desire-realm**
+**`Kāmadhātu-vairāgya` — detachment from the Desire Realm**
 
-With abandonment of the ninth grade, the practitioner is detached from the desire-realm. This complete desire-realm dispassion changes the prospective status to candidate for the third fruit.
+With abandonment of the ninth grade, the practitioner is detached from the Desire Realm. This complete Desire Realm dispassion changes the prospective status to candidate for the third fruit.
 
 **`Tṛtīyaphalapratipannaka` — approaching the third fruit**
 
-The third fruit is **anāgāmiphala**, non-return. A practitioner who enters Seeing with all nine desire-realm grades already abandoned proceeds toward this fruit.
+The third fruit is **anāgāmiphala**, non-return. A practitioner who enters Seeing with all nine Desire Realm grades already abandoned proceeds toward this fruit.
 
 **`Ūrdhvaṃ vā` — higher detachment**
 
@@ -146,7 +146,7 @@ sharp faculty  → Dharma-Follower
 
 VAK 6.30 supplies prior abandonment as a second:
 
-| Prior desire-realm grades abandoned | Candidate-status |
+| Prior Desire Realm grades abandoned | Candidate-status |
 |---|---|
 | 0–5 | first fruit: stream-entry |
 | 6–8 | second fruit: once-return |
@@ -232,7 +232,7 @@ ThirdFruitCandidate progressesToward NonReturnFruit
 Constraint: All candidate-types traverse the same fifteen-moment Path of Seeing.
 Constraint: Zero through five previously abandoned grades still imply first-fruit candidacy.
 Constraint: Six through eight previously abandoned grades imply second-fruit candidacy.
-Constraint: Complete desire-realm detachment implies third-fruit candidacy.
+Constraint: Complete Desire Realm detachment implies third-fruit candidacy.
 BhāṣyaRule: Prior mundane abandonment is preserved as an input to Noble fruit-classification.
 ProjectRule: DeterminateEnd = InvariantPathRule appliedTo ActualBeginningState.
 ```

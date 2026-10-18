@@ -15,7 +15,7 @@ sarve 'py upekṣayā svaiḥ svair yathā-bhūmy ūrdhva-bhūmikāḥ || 5.56 |
 ```
 
 VAK 5.56 completes the anuśaya–feeling analysis begun in 5.55. It first
-specifies further desire-realm pairings, then states a general equanimity
+specifies further Desire Realm pairings, then states a general equanimity
 rule, and finally constrains higher-level conjunctions by the faculties
 available in each level.
 
@@ -27,7 +27,7 @@ available in each level.
 | `kāṅkṣā` | nominative singular feminine | afflictive doubt; the Bhāṣya treats it as unresolved seeking for certainty |
 | `anye` | nominative plural masculine | the others: specifically the other four views and conceit |
 | `saumanasyena` | instrumental singular neuter | with mental gladness |
-| `kāma-jāḥ` | nominative plural masculine | arising in the desire-realm |
+| `kāma-jāḥ` | nominative plural masculine | arising in the Desire Realm |
 | `sarve api` | nominative plural plus particle | all also; all the anuśayas under discussion |
 | `upekṣayā` | instrumental singular feminine | with the faculty of neutral or equanimous feeling |
 | `svaiḥ svaiḥ` | repeated instrumental plural masculine/neuter | with their own respective faculties |
@@ -92,7 +92,7 @@ mental plane.
 ### Bhāṣya-informed study translation
 
 > Doubt is conjoined with mental distress; the four other views and conceit,
-> when born in the desire-realm, with mental gladness. All the anuśayas are
+> when born in the Desire Realm, with mental gladness. All the anuśayas are
 > also conjoined with equanimity. Those on higher levels are conjoined with
 > the feeling-faculties proper to each level.
 
@@ -100,7 +100,7 @@ mental plane.
 
 > Afflictive doubt seeks determination yet remains unable to attain it, and
 > therefore occurs with mental distress. The remaining four views and conceit
-> can affirm themselves with gladness in the desire-realm. Yet characteristic
+> can affirm themselves with gladness in the Desire Realm. Yet characteristic
 > affect is not exclusive affect: every anuśaya can also persist with neutral
 > feeling. In higher levels, possible conjunction is governed by the affective
 > and cognitive constitution of each field. Calmness, subtlety, and elevation
@@ -132,7 +132,7 @@ conceit
 These are associated with gladness because they operate in a mode of
 exhilaration or elation (`harṣākāravartitva`).
 
-**`Kāmaja` — arising in the desire-realm**
+**`Kāmaja` — arising in the Desire Realm**
 
 A domain predicate delimiting the specific conjunctions established across
 VAK 5.55–5.56. It does not mean merely sensual in an ordinary psychological
@@ -168,7 +168,7 @@ its own available faculties and cognitive supports.
 
 ## 8. Logical Determination
 
-The specific desire-realm rules are:
+The specific Desire Realm rules are:
 
 ```text
 PermitsConjunction(Kāṅkṣā, Daurmanasya, DesireDomain)

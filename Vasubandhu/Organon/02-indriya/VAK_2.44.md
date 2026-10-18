@@ -22,7 +22,7 @@ kāmarūpāśraye bhūte nirodhākhyādito nṛṣu // 2.44 //
 | muneḥ | gen. sg. m. | the Sage |
 | na prāk | negation + adverb | not beforehand |
 | catustriṃśat-kṣaṇa | abl. sg. m.; numeral compound | thirty-four moments |
-| kāma-rūpa-āśraye | loc. sg. n.; compound | with a desire- or form-realm support |
+| kāma-rūpa-āśraye | loc. sg. n.; compound | with a desire- or Form Realm support |
 | bhūte | loc. sg. n. past participle | when that support is present |
 | nirodha-ākhyā | nom. sg. f.; compound | the attainment called cessation |
 | āditaḥ | adverb | at first |
@@ -40,7 +40,7 @@ S[ATTAINMENT=cessation, LATER=true] -> Form[LOSS=true]
 ```
 
 Sage: with awakening, not beforehand.  
-Both attainments: desire- or form-realm support.  
+Both attainments: desire- or Form Realm support.  
 Cessation first among humans; later in the form realm only after loss.
 
 ## 5. Translation
@@ -49,13 +49,13 @@ Cessation first among humans; later in the form realm only after loss.
 
 > For the Sage, the two attainments are acquired with awakening, not
 > beforehand, since awakening is reached in thirty-four moments. They arise
-> when a desire- or form-realm support is present. The attainment called
+> when a desire- or Form Realm support is present. The attainment called
 > cessation is first produced among humans.
 ### Bhāṣya-informed study translation
 
 > For the Sage, [the attainments] are acquired with awakening, not
 > beforehand, since awakening is reached in thirty-four moments. With a
-> desire- or form-realm support present, the attainment called cessation is
+> desire- or Form Realm support present, the attainment called cessation is
 > first produced among humans.
 ## 6. Philosophical Translation
 
@@ -80,7 +80,7 @@ either attainment
     → support in desire or form realm
 first production of cessation
     → human
-later form-realm entry
+later Form Realm entry
     → prior acquisition and loss
 beginner
     → successive
@@ -96,9 +96,9 @@ return
 
 ## 9. Interpretive Note
 
-**Translation note.** The commentary identifies both attainments as arising with a desire- or form-realm support, while cessation remains an attainment of the summit. It says cessation is later produced in the form realm only by one who has lost it, and examines a sūtra counterexample and competing explanations of support and return to consciousness. The damaged phrase on the support is not expanded beyond the stated alternatives.
+**Translation note.** The commentary identifies both attainments as arising with a desire- or Form Realm support, while cessation remains an attainment of the summit. It says cessation is later produced in the form realm only by one who has lost it, and examines a sūtra counterexample and competing explanations of support and return to consciousness. The damaged phrase on the support is not expanded beyond the stated alternatives.
 
-The five-destiny reading of the damaged phrase is not adopted. The counterexample concerns form-realm existence. Not a collation. Life begins the next topic.
+The five-destiny reading of the damaged phrase is not adopted. The counterexample concerns Form Realm existence. Not a collation. Life begins the next topic.
 
 ## 10. OWL++ Seed
 

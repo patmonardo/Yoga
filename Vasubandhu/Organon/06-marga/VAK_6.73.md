@@ -56,7 +56,7 @@ The fourth Truth and the other two confidences are supplied by the Bhāṣya and
 **Future Feature Grammar sketch (not executable):**
 
 ```text
-DESIRE-REALM[AWAKENING-FACTORS=absent, NOBLE-PATH-FACTORS=absent]
+Desire Realm[AWAKENING-FACTORS=absent, NOBLE-PATH-FACTORS=absent]
 BHAVĀGRA[AWAKENING-FACTORS=absent, NOBLE-PATH-FACTORS=absent]
 FIRST-THREE-TRUTHS[SEEN=true, ACQUIRED=DHARMA-CONFIDENCE, NOBLE-ETHICAL-CONFIDENCE]
 ```
@@ -109,7 +109,7 @@ a being presently born in Kāmadhātu
     cannot generate the Noble Path
 ```
 
-The distribution concerns the **bhūmi** to which a Path-dharma belongs. A practitioner with a desire-realm existential basis can generate an uncontaminated Path belonging to an eligible contemplative ground such as anāgamya or a dhyāna.
+The distribution concerns the **bhūmi** to which a Path-dharma belongs. A practitioner with a Desire Realm existential basis can generate an uncontaminated Path belonging to an eligible contemplative ground such as anāgamya or a dhyāna.
 
 Thus:
 

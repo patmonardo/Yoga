@@ -144,7 +144,7 @@ view is brought forth by the unwholesome roots, its action is attributed to
 them. Fire itself burns a village, but because thieves supplied the fire one
 says that the thieves burned the village.
 
-Which wholesome roots are severed? “Those belonging to the Desire-Realm
+Which wholesome roots are severed? “Those belonging to the Desire Realm
 and acquired by birth.” Desire-domain wholesome roots are severed because
 the person is not presently endowed with roots belonging to the form and
 formless domains.
@@ -226,7 +226,7 @@ they generate the false view that performs it.
 The direct object is carefully restricted:
 
 ```text
-Desire-Realm roots acquired by birth
+Desire Realm roots acquired by birth
     → directly severed
 
 practice-produced wholesome roots

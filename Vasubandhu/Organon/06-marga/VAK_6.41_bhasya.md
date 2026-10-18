@@ -68,7 +68,7 @@ collation.
 
 Does the differentiation just given also apply to a non-returner who
 has passed through another birth? The verse answers: a Noble who has
-undergone another birth in the desire-realm does not go to another
+undergone another birth in the Desire Realm does not go to another
 realm. After attaining the fruit of non-returning, that person reaches
 final Nirvāṇa within that same life. A Noble after another birth in
 the form realm, however, may enter the formless realm; this is the
@@ -79,7 +79,7 @@ The Vaibhāṣikas reply that he was unfamiliar with the Abhidharma.
 A further compressed reply in the witness appears to permit the
 statement as encouragement; its exact wording remains uncertain.
 
-Neither the Noble who has undergone another desire-realm birth nor
+Neither the Noble who has undergone another Desire Realm birth nor
 a Noble born in a higher realm transfers faculties or falls away in
 any way. Why are these transitions excluded? Because they do not occur.
 Why not? Residence through another birth has made the faculties more
@@ -97,7 +97,7 @@ cannot accomplish all of that work there.
 ## 4. Movement of the Commentary
 
 The passage restricts realm transition for a Noble after another
-desire-realm birth, distinguishes the form-realm upward-streamer, and
+Desire Realm birth, distinguishes the Form Realm upward-streamer, and
 responds to Śakra's statement. It then excludes faculty transfer and
 regression for the two named positions through faculty maturation and
 superior basis. A final Vaibhāṣika explanation denies that mere
@@ -106,8 +106,8 @@ desire-detachment suffices for intermediate-existence completion.
 ## 5. Translation and Interpretation
 
 **Translation decisions.** The first-line `kāme` scopes the rule
-against realm transfer to another birth in the desire-realm. The
-form-realm case is an explicit contrast. `Akṣa` in the verse is read
+against realm transfer to another birth in the Desire Realm. The
+Form Realm case is an explicit contrast. `Akṣa` in the verse is read
 through the prose's `indriyāṇi`, the faculties. `Āśraya` is “basis.” The Vaibhāṣika
 response to Śakra and its compressed follow-up are marked rather
 than silently made into an agreed historical fact. The explanation
@@ -123,9 +123,9 @@ project synthesis.
 
 | Position or question | Bhāṣya determination | Scope |
 |---|---|---|
-| Noble after another desire-realm birth | Non-returning and final Nirvāṇa occur within that life | No subsequent move to another realm |
-| Noble after another form-realm birth | May enter the formless realm | Summit-bound upward course |
-| That desire-realm Noble and a higher-born Noble | No faculty transfer or falling away | Mature faculties and superior basis |
+| Noble after another Desire Realm birth | Non-returning and final Nirvāṇa occur within that life | No subsequent move to another realm |
+| Noble after another Form Realm birth | May enter the formless realm | Summit-bound upward course |
+| That Desire Realm Noble and a higher-born Noble | No faculty transfer or falling away | Mature faculties and superior basis |
 | Desire-detached trainee in an intermediate existence | Remaining Path work is too great | Vaibhāṣika explanation |
 
 ## 7. Review Status

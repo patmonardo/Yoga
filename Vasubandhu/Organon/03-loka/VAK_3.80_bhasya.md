@@ -5,11 +5,11 @@
 > dviguṇottaram ūrdhvānām ubhayaṃ rūpiṇāṃ punaḥ /
 > nāsty ahorātram āyus tu kalpaiḥ svāśrayasaṃmitaiḥ // 3.80 //
 
-> For the higher desire-realm devas, both measures double successively. Form-
+> For the higher Desire Realm devas, both measures double successively. Form-
 > realm devas have no day-and-night; their lifespan is measured in kalpas
 > corresponding to their bodily support.
 
-The two members of `ubhayam`, the complete desire-realm sequence, and the
+The two members of `ubhayam`, the complete Desire Realm sequence, and the
 exact yojana-to-kalpa commensurability are Bhāṣya determinations.
 
 ## 2. Continuous Sanskrit
@@ -67,9 +67,9 @@ Above Yugandhara there are no sun and moon. How, then, are the devas' day and
 night and illumination established? Day and night are indicated by flowers'
 contraction and opening, by birds' alternating calls and silence, and by
 sleepiness departing and returning. Illumination is due to the devas'
-self-luminosity. This completes the account of the desire-realm lifespans.
+self-luminosity. This completes the account of the Desire Realm lifespans.
 
-For the form-realm devas, there is no day-and-night, but lifespan is measured
+For the Form Realm devas, there is no day-and-night, but lifespan is measured
 in kalpas commensurate with their own bodily support. Those whose support is
 half a yojana live half a kalpa; those whose support is one yojana live one
 kalpa. In this way, the number of kalpas in a lifespan matches the number of
@@ -79,17 +79,17 @@ kalpas.
 ## 4. Natural Movement
 
 The first half identifies `ubhayam`, “both,” as day-and-night and lifespan,
-then illustrates the joint doubling at higher desire-realm stations. The
+then illustrates the joint doubling at higher Desire Realm stations. The
 Bhāṣya pauses over how day and night can be distinguished above the region
 where sun and moon are absent; recurrent natural and bodily signs mark the
 alternation, while self-luminosity accounts for illumination. It then closes
-the desire-realm discussion and turns to a different form of temporal
-measure: form-realm lifespan in kalpas directly commensurate with bodily
+the Desire Realm discussion and turns to a different form of temporal
+measure: Form Realm lifespan in kalpas directly commensurate with bodily
 support.
 
 ## 5. The Two Deva Sequences
 
-| Desire-realm class | Human years per divine day-night | Lifespan |
+| Desire Realm class | Human years per divine day-night | Lifespan |
 |---|---:|---:|
 | Cāturmahārājika | 50 | 500 divine years |
 | Trāyastriṃśa | 100 | 1,000 divine years |
@@ -106,9 +106,9 @@ Akaniṣṭha endpoint.
 
 ## 6. Doctrinal Note
 
-The absence of `ahorātra` for form-realm devas is not an absence of lifespan
-or duration. Rather, the basis of measurement changes: the desire-realm
-sequence uses day, month, and year, while the form-realm sequence directly
+The absence of `ahorātra` for Form Realm devas is not an absence of lifespan
+or duration. Rather, the basis of measurement changes: the Desire Realm
+sequence uses day, month, and year, while the Form Realm sequence directly
 matches lifespan in kalpas to bodily support in yojanas. Keep these two
 temporal determinations distinct.
 
@@ -122,7 +122,7 @@ observation, not Vasubandhu's technical terminology.
 
 - Natural unit recovered from `[173|17]` through `[174|03-174|05]` of the
   running witness.
-- Includes both the upper desire-realm sequence and the form-realm
+- Includes both the upper Desire Realm sequence and the Form Realm
   kalpa-to-support correspondence, plus the source's day/night explanation
   above Yugandhara.
 - `Kumudabandhuvat` is retained without over-resolving its compressed context.

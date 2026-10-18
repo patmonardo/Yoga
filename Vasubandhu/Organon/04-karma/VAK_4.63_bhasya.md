@@ -7,7 +7,7 @@
 
 > Some teachers identify the pair respectively with karma to be experienced in
 > hell and karma to be experienced elsewhere in the Desire Realm. Others
-> classify karma abandoned by seeing as black and the remaining Desire-Realm
+> classify karma abandoned by seeing as black and the remaining Desire Realm
 > karma as black-and-white.
 
 The verse reports **other teachers'** classifications; it does
@@ -46,7 +46,7 @@ numbering are editorial. The new sūtra on three silences begins at
 “Some hold the two to be what is experienced in hell and what is
 experienced elsewhere in the Desire Realm.” Other teachers regard
 karma experienced in hell as black and karma experienced in another
-Desire-Realm destination as black-and-white, respectively. In hell,
+Desire Realm destination as black-and-white, respectively. In hell,
 only unwholesome karma matures; hence karma to be experienced there
 is called black. Elsewhere in the Desire Realm, both wholesome and
 unwholesome karma mature; hence karma to be experienced there is
@@ -63,7 +63,7 @@ unwholesome karma.
 ## 4. Competing Criteria
 
 The first proposal sorts black and mixed karma by the **realm of
-experience**: hell versus other desire-realm destinations. The
+experience**: hell versus other Desire Realm destinations. The
 second sorts them by **mode of abandonment**: what seeing abandons
 versus what cultivation abandons. Both are attributed to `anye`,
 other teachers. The Bhāṣya gives each proposal's rationale but
@@ -77,7 +77,7 @@ already cautioned.
 ## 5. Interpretation
 
 The two alternatives determine karma through different relations: the
-first through the Desire-Realm destination in which its maturation is
+first through the Desire Realm destination in which its maturation is
 experienced, the second through the Path by which it is abandoned. In the
 Organon account, these are a maturation-field relation and a Path-operation,
 not competing intrinsic definitions of one color predicate. Making each

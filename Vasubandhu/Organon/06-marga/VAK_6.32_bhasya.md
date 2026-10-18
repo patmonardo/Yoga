@@ -58,7 +58,7 @@ dhyāna who enters the determinate order relying on a lower ground
 necessarily brings the superior Path into present manifestation.
 Otherwise, if reborn above that ground, the practitioner would not be
 endowed with the pleasure faculty. The commentary concludes its account
-of persons entering the determinate order with prior desire-realm
+of persons entering the determinate order with prior Desire Realm
 detachment. The gradual case follows in the next unit.
 
 ## 4. Movement of the Commentary

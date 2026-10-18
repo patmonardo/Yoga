@@ -49,7 +49,7 @@ which level does that karma belong?
 
 “Contaminated bodily and verbal karma depends upon its own Great
 Principles.” Desire-domain bodily and verbal karma depends upon
-desire-realm Great Elements. Likewise, up through karma belonging to
+Desire Realm Great Elements. Likewise, up through karma belonging to
 the fourth meditative level, each depends upon Great Elements of that
 same level.
 

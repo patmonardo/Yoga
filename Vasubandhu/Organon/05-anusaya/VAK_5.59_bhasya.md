@@ -5,7 +5,7 @@
 > kāme nivaraṇāny ekavipakṣāhārakṛtyataḥ |
 > dvayakaitāḥ pañcatā skandhavighātavicikitsanāt || 5.59 ||
 
-> The five hindrances belong to the desire-realm. Torpor with sleepiness and
+> The five hindrances belong to the Desire Realm. Torpor with sleepiness and
 > restlessness with remorse each count as one because each pair shares a
 > counteragent, nourishment, and function. They are five because they obstruct
 > the Path-Bases of discipline, concentration, and
@@ -95,7 +95,7 @@ Does it include torpor, restlessness, and doubt occurring in
 all three domains, or only those connected with the desire
 domain? The sūtra calls the five hindrances a complete mass
 of the unwholesome. Since they are declared exclusively
-unwholesome, the hindrances belong to the desire-realm,
+unwholesome, the hindrances belong to the Desire Realm,
 not another domain.
 
 Why are torpor and sleepiness, though two, called one
@@ -150,7 +150,7 @@ The first question fixes **domain**, not the possible range
 of each factor under every classification. The reason given
 is the cited sūtra's designation of the five hindrances as
 exclusively unwholesome. “Hindrance” here is the technical
-fivefold set in the desire-realm; it does not deny that a
+fivefold set in the Desire Realm; it does not deny that a
 factor bearing the same name may be discussed elsewhere.
 
 The paired factors retain their distinct names and

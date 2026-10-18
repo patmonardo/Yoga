@@ -29,7 +29,7 @@ without silently correcting that source file.
 |---|---|---|
 | `parijñāḥ` (surface `parijñā`) | nominative plural feminine before `nava` | completed abandonments bearing the designation parijñā |
 | `nava` | nominative plural feminine | nine |
-| `kāma-ādya` | compound member | beginning in the desire-realm |
+| `kāma-ādya` | compound member | beginning in the Desire Realm |
 | `prakāra-dvaya` | compound member | the first pair of truth-indexed classes: suffering and origin |
 | `saṃkṣayaḥ` | nominative singular masculine | complete exhaustion |
 | `ekā` | nominative singular feminine | one parijñā |
@@ -52,7 +52,7 @@ The opening is a complete nominal assertion:
 parijñāḥ nava
 ```
 
-The remainder enumerates six of the nine. In the desire-realm:
+The remainder enumerates six of the nine. In the Desire Realm:
 
 ```text
 kāmadhātau
@@ -68,7 +68,7 @@ abandonable. The genitive dual `dvayoḥ` then refers distributively to the
 cessation- and Path-seeing-abandonable classes, each yielding one parijñā.
 
 The final clause repeats the threefold structure collectively above the
-desire-realm:
+Desire Realm:
 
 ```text
 ūrdhvam
@@ -83,14 +83,14 @@ verse states the grouping but does not itself give its rationale.
 
 ### Literal Translation
 
-> There are nine parijñās. In the desire-realm, complete exhaustion of the
+> There are nine parijñās. In the Desire Realm, complete exhaustion of the
 > first pair of classes is one; upon exhaustion of the [remaining] two, there
 > are those two. Likewise above, there are precisely those three.
 
 ### Bhāṣya-informed study translation
 
 > There are nine completed abandonments called *parijñās*. In the
-> desire-realm, exhausting the afflictions abandoned by seeing suffering and
+> Desire Realm, exhausting the afflictions abandoned by seeing suffering and
 > origin counts as one; exhausting those abandoned by seeing cessation and by
 > seeing the Path counts as two more. The same threefold count applies to the
 > form and formless realms together.
@@ -100,7 +100,7 @@ verse states the grouping but does not itself give its rationale.
 > A completed discrimination is not counted for every isolated destruction.
 > The Path designates a parijñā when abandonment has completed a doctrinally
 > delimited class: suffering and origin together, cessation, or Path, first in
-> the desire-realm and then across the higher realms. Knowledge is the
+> the Desire Realm and then across the higher realms. Knowledge is the
 > causal determination; abandonment is its accomplished result and receives
 > the cause's name. Their connection licenses the designation without making
 > cognitive cause and practical result identical.
@@ -154,9 +154,9 @@ suffering and those abandoned through seeing origin.
 
 The classification provides three parijñās per realm-range, not four.
 
-**`Kāma` and `ūrdhva` — desire-realm and higher-realm range**
+**`Kāma` and `ūrdhva` — Desire Realm and higher-realm range**
 
-The first three parijñās concern the desire-realm. The next three repeat the
+The first three parijñās concern the Desire Realm. The next three repeat the
 same truth-indexed grouping collectively for the form and formless realms.
 
 ## 8. Logical Determination
@@ -169,7 +169,7 @@ IndividualAfflictionDestruction
     ≠ ParijñāDesignation
 ```
 
-For the desire-realm:
+For the Desire Realm:
 
 ```text
 CompleteAbandonment(

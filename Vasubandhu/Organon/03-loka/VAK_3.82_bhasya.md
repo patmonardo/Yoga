@@ -6,7 +6,7 @@
 > saṃjīvādiṣu ṣaṭsv āyus tais teṣāṃ kāmadevavat // 3.82 //
 
 > In the six hells beginning with Saṃjīva, the day-and-nights correspond
-> respectively to the lifespans of the desire-realm devas; reckoned by those
+> respectively to the lifespans of the Desire Realm devas; reckoned by those
 > units, the inhabitants' lifespans correspond to those of the devas.
 
 The names and ordering of the six hells, the exact pairings, and the
@@ -54,7 +54,7 @@ preserved in sense, not treated as a different class.
 ## 3. Continuous Conventional Translation
 Now the unfortunate destinies are to be explained. First, in the six hells
 beginning with Saṃjīva, day-and-night units correspond in order to the
-lifespans of the six classes of desire-realm devas.
+lifespans of the six classes of Desire Realm devas.
 
 Thus, the lifespan of a Cāturmahārājika deva is one day-and-night in the
 great hell Saṃjīva. By that day-and-night, with twelve months making a year,
@@ -67,14 +67,14 @@ day-and-night in Tāpana, where the lifespan is sixteen thousand years.
 ## 4. Natural Movement
 
 The Bhāṣya pairs the first six hot hells, in order, with the six
-desire-realm deva classes. It then explains `kāmadevavat` through examples:
+Desire Realm deva classes. It then explains `kāmadevavat` through examples:
 the matched deva lifespan becomes one hell day-and-night, and the hell
 lifespan, counted in years built from that unit, takes the same numerical
 year-count as the corresponding deva lifespan.
 
 ## 5. Ordered Correspondence
 
-| Desire-realm deva | Corresponding hell | One hell day-and-night equals | Hell lifespan |
+| Desire Realm deva | Corresponding hell | One hell day-and-night equals | Hell lifespan |
 |---|---|---|---:|
 | Cāturmahārājika | Saṃjīva | deva lifespan | 500 years |
 | Trāyastriṃśa | Kālasūtra | deva lifespan | 1,000 years |
@@ -96,7 +96,7 @@ the deva duration is used to define a hell day-and-night.
 ## 6. Doctrinal Note
 
 The Bhāṣya presents the six hells as having an ordered temporal structure
-correlated with the six desire-realm deva classes. A deva lifespan is
+correlated with the six Desire Realm deva classes. A deva lifespan is
 compressed into one hell day-and-night; the same numerical lifespan count is
 then assigned to the hell-years. Keep the day-unit conversion distinct from
 the matching lifespan count.

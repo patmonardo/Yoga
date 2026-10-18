@@ -115,20 +115,20 @@ will be explained later.
 All these eighteen Mental Rangings have Influx; not one is without Influx.
 
 Who possesses how many? A being born in the desire realm who has not acquired
-a wholesome Form-realm consciousness possesses all desire-realm Rangings. On
+a wholesome Form Realm consciousness possesses all Desire Realm Rangings. On
 the provisional reading of the compressed passage, that being also
 possesses eight afflicted Rangings at each of the first and second dhyānas,
 four at each of the third and fourth after excluding Smell and Taste, and one
-afflicted Formless-realm Ranging.
-A desire-realm being not dispassionate and lacking acquisition of a wholesome
-Form-realm consciousness possesses all desire-realm Rangings; ten belonging
+afflicted Formless Realm Ranging.
+A Desire Realm being not dispassionate and lacking acquisition of a wholesome
+Form Realm consciousness possesses all Desire Realm Rangings; ten belonging
 to the first dhyāna—four afflicted gladness-Rangings after excluding Smell
 and Taste and six equanimity-Rangings belonging to the approach level—and
 eight belonging to the second dhyāna. The third, fourth, and Formless levels
 are to be understood as before. The remainder is to be followed by this same
 method.
 
-One born in a dhyāna should also be understood to possess one desire-realm
+One born in a dhyāna should also be understood to possess one Desire Realm
 equanimity-Dharma-Ranging associated with a consciousness (*citta*) of
 extraordinary creation.
 
@@ -224,7 +224,7 @@ instruction—follow the remainder by this method—shows that the prose supplie
 a generative rule rather than exhaustively reciting every case.
 
 The special creative-mind case is equally important: a being born in a
-concentration can possess a desire-realm equanimity-Dharma-Ranging through
+concentration can possess a Desire Realm equanimity-Dharma-Ranging through
 association with a consciousness of extraordinary creation. Birth-realm, possession, and
 manifest cognitive association must therefore not be collapsed.
 

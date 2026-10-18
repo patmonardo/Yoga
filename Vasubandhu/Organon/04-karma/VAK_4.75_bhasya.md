@@ -204,7 +204,7 @@ verbally, and be touched by both faults. The text points to the corruption
 of the sages' Minds and to the `poṣadha` example.
 
 But if one acts in neither manner, and if one lacking non-disclosing
-continuity has no Desire-Realm non-disclosing continuity, how are the two
+continuity has no Desire Realm non-disclosing continuity, how are the two
 courses established?
 Effort must be made on this point. The discussion of false speech is complete.
 The Bhāṣya thus records the difficulty without resolving it in this unit.

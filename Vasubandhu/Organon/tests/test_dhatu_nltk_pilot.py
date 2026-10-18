@@ -47,7 +47,7 @@ def satisfies(valuation, formula):
 
 class DhatuPilotTests(unittest.TestCase):
     def test_pilot_passes_strict_audit_and_semantic_typecheck(self):
-        for number in range(1, 26):
+        for number in range(1, 27):
             with self.subTest(verse=number):
                 text = study(number)
                 self.assertEqual(check_grammar(text, strict=True)[1], [])
@@ -133,6 +133,10 @@ class DhatuPilotTests(unittest.TestCase):
              "CORREL[CASE=nom,NUM=pl,GEN=m] ->"),
             (25, "AGENT[CASE=nom,NUM=sg,GEN=m,SEM=<",
              "AGENT[CASE=nom,NUM=pl,GEN=m,SEM=<"),
+            (26, "COLL[CASE=nom,NUM=sg,GEN=m,SEM=<",
+             "COLL[CASE=nom,NUM=sg,GEN=n,SEM=<"),
+            (26, "TOPICS[CASE=gen,NUM=pl,SEM=<",
+             "TOPICS[CASE=loc,NUM=pl,SEM=<"),
         )
         for number, before, after in changes:
             with self.subTest(verse=number):
@@ -984,6 +988,35 @@ class DhatuPilotTests(unittest.TestCase):
         collections = {x for (x,) in valuation["DharmaCollection"]}
         self.assertFalse(bases & collections)
         self.assertEqual(valuation["Selected"], set())
+
+    def test_three_measures_are_attributed_and_tu_does_not_refute(self):
+        valuation, formula = valuation_and_formula(26)
+        self.assertTrue(satisfies(valuation, formula))
+        for predicate, item in (
+            ("Holds", (valuation["some_teachers"], valuation["treatise_measure"])),
+            ("Holds", (valuation["other_teachers"], valuation["exposition_measure"])),
+            ("Distributive", (valuation["exposition_measure"],)),
+            ("ContrastsWith", (valuation["counteragent_measure"], valuation["treatise_measure"])),
+            ("ContrastsWith", (valuation["counteragent_measure"], valuation["exposition_measure"])),
+            ("DescribedAs", (valuation["dharma_collection"], valuation["counteragent_measure"])),
+        ):
+            changed = Valuation(list(valuation.items()))
+            changed[predicate] = valuation[predicate] - {item}
+            self.assertFalse(satisfies(changed, formula), item)
+        self.assertEqual(valuation["Refuted"], set())
+        topics = {t for (t,) in valuation["Topic"]}
+        expositions = valuation["ExpositionOf"]
+        self.assertEqual({t for _, t in expositions}, topics)
+        self.assertEqual(len({x for x, _ in expositions}), len(topics))
+        counter = valuation["Counteragent"]
+        self.assertEqual(len({c for c, _ in counter}), len({d for _, d in counter}))
+        merged = Valuation(list(valuation.items()))
+        merged["Counteragent"] = {("counter_a", d) for _, d in counter}
+        self.assertTrue(satisfies(merged, Expression.fromstring(
+            "exists c d f.(Counteragent(c,d) & Counteragent(c,f) & -(d = f))"
+        )))
+        collections = {x for (x,) in valuation["DharmaCollection"]}
+        self.assertFalse(collections & {x for (x,) in valuation["Base"]})
 
 
 if __name__ == "__main__":

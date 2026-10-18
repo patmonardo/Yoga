@@ -62,18 +62,18 @@ acceptance, karma leading to bad destinies appears as an obstacle because
 one is passing beyond its maturation ground. It is like creditors appearing
 when a person is about to leave the country.
 
-For one approaching the fruit of non-returnership, desire-realm karma
+For one approaching the fruit of non-returnership, Desire Realm karma
 appears as an obstacle in the same way, except for action whose maturation
 is to be experienced in the present life. For one approaching arhatship,
-form- and formless-realm karma appears as an obstacle in the same way.
+form- and Formless Realm karma appears as an obstacle in the same way.
 
 ## 4. Three Thresholds and Their Maturation Grounds
 
 | Attainment approached | Karma named as obstructive | Bhāṣya's explanation |
 |---|---|---|
 | `kṣānti`, acceptance | karma leading to bad destinies | The maturation ground is being passed beyond |
-| fruit of non-returnership | desire-realm karma, except present-life-maturation action | The same rationale is carried forward |
-| arhatship | form- and formless-realm karma | The same rationale is carried forward |
+| fruit of non-returnership | Desire Realm karma, except present-life-maturation action | The same rationale is carried forward |
+| arhatship | form- and Formless Realm karma | The same rationale is carried forward |
 
 The opening claim concerns `anyad api karma savipākam`, “other karma, too,
 that possesses maturation.” It is therefore broader than the five
@@ -85,8 +85,8 @@ mature. The creditor simile illustrates a claim pressed at departure.
 
 The passage treats Path progression as a threshold at which an outstanding
 maturation becomes especially pressing. The sequence is specific: karma
-leading to bad destinies at `kṣānti`, desire-realm karma at the fruit of
-non-returnership, and form- and formless-realm karma at arhatship. The
+leading to bad destinies at `kṣānti`, Desire Realm karma at the fruit of
+non-returnership, and form- and Formless Realm karma at arhatship. The
 present-life-maturation exception is stated only for the second case.
 
 The simile supports a model of transition-sensitive obstruction: as one

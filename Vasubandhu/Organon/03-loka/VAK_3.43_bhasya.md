@@ -340,7 +340,7 @@ vital-point impairment.
 
 The Sanskrit and translation remain provisional. In particular, the damaged
 sharp-weapon comparison, the precise force of `upakramitum`, the referent of
-`visabhāgabhūmika`, and the relation between desire-realm maturation and
+`visabhāgabhūmika`, and the relation between Desire Realm maturation and
 equanimity require comparison with critical Sanskrit, Tibetan, Chinese, and
 established translations. The medical correspondences should likewise be
 read as the Bhāṣya's doctrinal physiology rather than modern anatomy.

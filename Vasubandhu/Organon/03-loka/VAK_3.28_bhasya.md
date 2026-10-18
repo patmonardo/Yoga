@@ -474,9 +474,9 @@ Essences arise in sequence. With Conditions available, Cognition occurs; the
 conjunction of the three is Contact capable of producing pleasant and other
 Feelings; from it arise the three Feelings.
 
-From Feeling comes Craving: Desire-Realm craving for one oppressed by pain
-and oriented toward pleasant Feeling; Form-Realm craving in relation to
-pleasant and neutral Feeling; Formless-Realm craving in relation to neutral
+From Feeling comes Craving: Desire Realm craving for one oppressed by pain
+and oriented toward pleasant Feeling; Form Realm craving in relation to
+pleasant and neutral Feeling; Formless Realm craving in relation to neutral
 Feeling. From craving for agreeable Feeling comes appropriation of sensuality,
 views, rules and observances, and a doctrine of self. Sensuality is the five
 sense-qualities; views are the sixty-two described in the *Brahmajāla*;

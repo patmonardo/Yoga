@@ -18,12 +18,12 @@ duḥkhe ca hitvā ārūpyāptaṃ sukhe cāpohya rūpi ca // 2.12 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| kāma-āptam | nominative | desire-realm-connected |
+| kāma-āptam | nominative | Desire Realm-connected |
 | amalam hitvā | absolutive | excluding the stainless triad |
-| rūpa-āptam | nominative | form-realm-connected |
+| rūpa-āptam | nominative | Form Realm-connected |
 | strī-pum-indriye | dual | female and male |
 | duḥkhe | dual | pain and distress |
-| ārūpya-āptam | nominative | formless-realm-connected |
+| ārūpya-āptam | nominative | Formless Realm-connected |
 | sukhe | dual | pleasure and gladness |
 | apohya | absolutive | having removed |
 | rūpi | accusative | what possesses form |
@@ -46,10 +46,10 @@ Exclusions are feature constraints. The triad never unifies with a realm.
 
 ### Literal Translation
 
-> Excluding the stainless, desire-realm-connected. Excluding the female and
-> male faculties and the two painful faculties, form-realm-connected.
+> Excluding the stainless, Desire Realm-connected. Excluding the female and
+> male faculties and the two painful faculties, Form Realm-connected.
 > Excluding also the two pleasant faculties and what possesses form,
-> formless-realm-connected.
+> Formless Realm-connected.
 
 ### Bhāṣya-informed study translation
 
@@ -67,9 +67,9 @@ Exclusions are feature constraints. The triad never unifies with a realm.
 
 | Sanskrit | Running word | Determination |
 |---|---|---|
-| kāmāpta | desire-realm-connected | nineteen |
-| rūpāpta | form-realm-connected | fifteen |
-| ārūpyāpta | formless-realm-connected | eight |
+| kāmāpta | Desire Realm-connected | nineteen |
+| rūpāpta | Form Realm-connected | fifteen |
+| ārūpyāpta | Formless Realm-connected | eight |
 | apratisaṃyukta | unconnected | the triad |
 | duḥkhe | pain and distress | dual |
 | sukhe | pleasure and gladness | dual; not pleasure alone |
@@ -84,13 +84,13 @@ Exclusions are feature constraints. The triad never unifies with a realm.
 from nltk.sem.logic import LogicParser
 lp = LogicParser()
 
-# Desire-realm connection
+# Desire Realm connection
 desire = lp.parse(r'all x.(Faculty(x) & -Stainless(x) -> DesireConnected(x))')
 
-# Form-realm connection
+# Form Realm connection
 form = lp.parse(r'all x.(Faculty(x) & -Stainless(x) & -Sex(x) & -Painful(x) -> FormConnected(x))')
 
-# Formless-realm connection
+# Formless Realm connection
 formless = lp.parse(r'all x.(Faculty(x) & -Stainless(x) & -Sex(x) & -Painful(x) & -Pleasant(x) & -Form(x) -> FormlessConnected(x))')
 
 # The triad is unconnected
@@ -118,7 +118,7 @@ beginning with faith, and no others.
 
 The axes now include function, feeling, path-name, outflow, maturation, what produces maturation, ethical quality, and realm-connection. None settles the others.
 
-The male of the sūtra is not the male faculty. The reply distinguishes desire-realm male-being and does not specify the other characteristic. Social, symbolic, or anatomical would exceed the sentence. Unattractive is the text's second reason. It does not replace dispassion.
+The male of the sūtra is not the male faculty. The reply distinguishes Desire Realm male-being and does not specify the other characteristic. Social, symbolic, or anatomical would exceed the sentence. Unattractive is the text's second reason. It does not replace dispassion.
 
 Pain and distress have separate reasons. Clarity and absence of the unwholesome. Tranquillity, and no basis for resentment. Not one claim that a subtler realm is simply happier.
 

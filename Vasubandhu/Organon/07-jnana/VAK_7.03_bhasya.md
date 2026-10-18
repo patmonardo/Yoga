@@ -66,7 +66,7 @@ anvaya-knowledge
     → form- and formless-domain suffering + the same three relatives
 ```
 
-`Kāma` here is the existential desire-realm, not one of Chapter 1's eighteen
+`Kāma` here is the existential Desire Realm, not one of Chapter 1's eighteen
 cognition-Domains. `Pratipakṣa` is the Path as counteragent — the fourth
 truth under a practical name.
 
@@ -139,7 +139,7 @@ knowledge: the same Four-Truth form of holding, cut by realm-side. That is
 not Hegel. The Idea does not generate kāma / rūpa / ārūpya. The Kośa Path
 does.
 
-`Dharmajñāna` as knowledge of holding determined in the desire-realm remains
+`Dharmajñāna` as knowledge of holding determined in the Desire Realm remains
 a thesis, not a gloss of `dharma` in the verse. What the verse actually does
 is bind that name to a truth-field. `Anvaya` as the holding continued in the
 same order fits the assigned range; 7.04+ must still show how the remaining

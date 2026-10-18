@@ -137,9 +137,9 @@ aho vata yat pareṣāṃ tan mama syāt
 The contemplated appropriation may be by force (`balāt`) or by a device or
 stratagem (`upāyāt`).
 
-**`Kāmāvacarī tṛṣṇā` — desire-realm craving**
+**`Kāmāvacarī tṛṣṇā` — Desire Realm craving**
 
-One reported view uses `abhidhyā` broadly for all desire-realm craving.
+One reported view uses `abhidhyā` broadly for all Desire Realm craving.
 Another allows the broad usage but restricts `abhidhyā` as a karmapatha to the
 gross, ethically decisive form selected among bad conduct.
 
@@ -217,7 +217,7 @@ theft, and theft remains a distinct bodily karmapatha.
 
 ```text
 abhidhyā in broad scriptural usage
-    may include desire-realm craving
+    may include Desire Realm craving
 
 abhidhyā as karmapatha
     selected gross and decisive wrongful appropriation-project
@@ -235,7 +235,7 @@ fourth class. The examples show that expressive forms are not intrinsically
 unwholesome: their classification depends on their afflictive orientation, and
 some afflicted talk may fail to reach karmapatha status. One account defines
 covetousness as the wrongful wish to make another's possession one's own by
-force or stratagem. Other views call all desire-realm craving `abhidhyā`,
+force or stratagem. Other views call all Desire Realm craving `abhidhyā`,
 while another holds that not every instance of this broad class reaches
 karmapatha status: the courses select gross and decisive forms of misconduct.
 It is not desire in general under every account, and it is distinct from

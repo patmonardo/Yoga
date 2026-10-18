@@ -63,7 +63,7 @@ await collation. The next unit begins at [355|22].
 ## 3. Continuous Conventional Translation
 
 The gradual sequence is now to be explained. First this classification:
-as the desire-realm afflictions have been taught in nine grades, so in
+as the Desire Realm afflictions have been taught in nine grades, so in
 every ground, up to the summit of existence, faults are ninefold. The
 opposing qualities called uninterrupted and liberation Paths are likewise
 ninefold in each ground.

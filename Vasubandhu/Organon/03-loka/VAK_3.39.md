@@ -79,7 +79,7 @@ against that definition.
 
 > Nutriment is determined by sustaining efficacy, not by appearance or by the
 > ordinary name “food.” Odor, taste, and tangible enter the material economy
-> of desire-realm embodiment; visible Form does not. Even when an appearance
+> of Desire Realm embodiment; visible Form does not. Even when an appearance
 > delights, the operative support lies in the contact through which it is felt.
 > The World persists not by consuming images of things, but through determinate
 > relations that actually maintain its embodied Faculties and their ground.

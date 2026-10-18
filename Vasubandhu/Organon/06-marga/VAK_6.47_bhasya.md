@@ -50,7 +50,7 @@ do not again become possessed. A person partly freed from the summit
 has no mundane attainment for that separation, yet does not regain
 those afflictions when the supramundane attainment is relinquished
 through a change of faculties. Likewise, an ordinary person reborn
-above the first dhyāna does not regain desire-realm afflictions when
+above the first dhyāna does not regain Desire Realm afflictions when
 a previous mundane attainment of separation is relinquished. Thus
 the reason proposed in 6.46 does not establish its conclusion.
 
@@ -92,7 +92,7 @@ interpretation of an operative relation.
 | Determination | Source ground | Consequence |
 |---|---|---|
 | Partly freed from summit | Supramundane attainment relinquished | No renewed summit affliction |
-| Reborn above first dhyāna | Mundane desire-realm separation-attainment relinquished | No renewed desire-realm affliction |
+| Reborn above first dhyāna | Mundane Desire Realm separation-attainment relinquished | No renewed Desire Realm affliction |
 | Uncontaminated Path based on *anāgamya* | `sarvataḥ` glossed `ābhavāgrāt` | Dispassion through summit |
 | Later liberation-Path ground | Question at end of unit | Answer begins in 6.48 |
 

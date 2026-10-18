@@ -65,10 +65,10 @@ cognitive supports, excluding two views.” Apart from
 satkāya-view and extreme-grasping view, the other nine can range
 universally toward a different domain. Sometimes their support
 is one other domain, sometimes two. The cited formulation gives
-desire-realm-connected anuśayas supported by form-realm items,
-by formless-realm items, or by items of both higher domains.
+Desire Realm-connected anuśayas supported by Form Realm items,
+by Formless Realm items, or by items of both higher domains.
 
-An objection asks: when someone in the desire-realm forms a view
+An objection asks: when someone in the Desire Realm forms a view
 of Brahmā as a being and as permanent, how could satkāya-view
 and extreme-grasping view lack a higher-domain support? The
 answer says Brahmā is not grasped as self or mine; extreme-grasping
@@ -93,7 +93,7 @@ accordingly; this passage does not spell them out.
 The nine are not all eleven: satkāya-view requires the self/mine
 relation, and extreme-grasping view depends on that appropriation.
 The quoted Abhidharma formula supports the possibility of one
-or two higher domains as cognitive supports for desire-realm
+or two higher domains as cognitive supports for Desire Realm
 anuśayas. The Brahmā counterexample then tests whether the
 two excluded views really cannot take such a support.
 

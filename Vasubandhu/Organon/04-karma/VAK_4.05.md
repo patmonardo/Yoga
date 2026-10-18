@@ -24,7 +24,7 @@ karmic status
     sāsrava / anāsrava
 
 level of support
-    desire-realm or dhyāna-level Great Elements
+    Desire Realm or dhyāna-level Great Elements
 ```
 
 The Bhāṣya resolves the compressed `yatra jātaḥ`: it refers to the practitioner

@@ -166,12 +166,12 @@ The predicates differ because their specified relations differ.
 
 **`avyavasthāna`**
 
-The Bhāṣya calls Desire-Realm maturation non-fixed. Karma associated with one
+The Bhāṣya calls Desire Realm maturation non-fixed. Karma associated with one
 destiny may mature in another, and karma associated with one divine class may
 mature in another class.
 
 ```text
-Desire-Realm karma
+Desire Realm karma
     + the power of other conditions
     → alternative admissible maturation-locus
 ```
@@ -225,7 +225,7 @@ ORIGIN_SPECIFICATION(K) = X
     → MATURATION_LOCUS(K) may be Y
 ```
 
-The Bhāṣya's examples remain within the Desire-Realm field: gods, humans,
+The Bhāṣya's examples remain within the Desire Realm field: gods, humans,
 animals, and pretas. The movement does not imply maturation in any realm
 whatsoever.
 
@@ -266,7 +266,7 @@ position required by this karmic law.
 identification of the higher realms, the exact fixity of maturation, and the closing
 statement about `apuṇya` are supplied by the Bhāṣya. The Bhāṣya carries “wholesome”
 into the higher-realm clause and identifies the Form and Formless Realms. It
-contrasts movable Desire-Realm maturation with the higher karma's fixed maturation
+contrasts movable Desire Realm maturation with the higher karma's fixed maturation
 placement; the ordinary designation “demeritorious” for unwholesome karma is also
 commentary.
 
@@ -277,7 +277,7 @@ karma is dropped. The field of genesis enters the determination of what the
 karma is:
 
 ```text
-wholesome + Desire-Realm
+wholesome + Desire Realm
     → puṇya
 
 wholesome + higher-realm + fixed bhūmi-maturation
@@ -328,7 +328,7 @@ Bhāṣya; the explicit Principle framework is project interpretation.
 
 **Former Philosophical Translation.**
 > Karma is determined not only by ethical quality but by the relation between
-> its realm of production and its level of maturation. Desire-Realm karma is
+> its realm of production and its level of maturation. Desire Realm karma is
 > comparatively mobile: intervening conditions can alter the destiny or class
 > in which its result appears. Higher wholesome karma is immovable because
 > its originating level and maturation-level stand in an invariant relation.
@@ -413,4 +413,4 @@ Constraint: DesireRealmMobilityIsConditioned
 
 The seed represents `āneñja` as invariance of the relation between originating
 level and maturation-level while preserving conditioned mobility within the
-Desire-Realm field.
+Desire Realm field.

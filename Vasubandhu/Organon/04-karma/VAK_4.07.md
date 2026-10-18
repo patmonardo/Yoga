@@ -101,7 +101,7 @@ identification of `vijñapti` and `cetanā`.
 | āhrīkya | shamelessness | unwholesome factor abandoned above the desire realm |
 | anapatrāpya | lack of moral concern | unwholesome factor paired with shamelessness |
 | sarvarūpavaimukhya | complete turning away from Form | character of formless attainment that blocks production of Form |
-| dauḥśīlya | misconduct | desire-realm fault opposed by ethical discipline |
+| dauḥśīlya | misconduct | Desire Realm fault opposed by ethical discipline |
 | pratipakṣa | antidote / counteragent | relation in which `śīla` stands to misconduct |
 | śīla | ethical discipline | restraint functioning as the antidote to misconduct |
 
@@ -135,7 +135,7 @@ The verse excludes ethically indeterminate non-disclosing continuity; classifies
 ### Review Status
 
 The natural unit through [201|17] is translated and the study stops before
-4.08. The damaged `prativedhāt` clause and the compressed formless-realm
+4.08. The damaged `prativedhāt` clause and the compressed Formless Realm
 exchange remain provisional. The omitted `tatra` is restored and two
 editorial repairs are identified. Research witnesses and the running source
 were left intact.
@@ -226,5 +226,5 @@ DisjointClasses:
 
 This seed records the ethical and realm classifications stated or explained in
 the unit. The causal explanation for the absence of indeterminate
-`avijñapti`, and the Vaibhāṣika attribution of the formless-realm argument,
+`avijñapti`, and the Vaibhāṣika attribution of the Formless Realm argument,
 remain in the prose rather than being generalized into additional rules.

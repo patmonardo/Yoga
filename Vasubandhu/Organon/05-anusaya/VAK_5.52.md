@@ -26,18 +26,18 @@ the ethical value of the upakleśas according to domain.
 | `bhāvanā-heyāḥ` | nominative plural masculine compound | to be abandoned through cultivation |
 | `sva-tantrāḥ` | nominative plural masculine | independent in the stated classificatory sense |
 | `ca tathā malāḥ` | coordinated nominative plural | and the stains likewise |
-| `kāme` | locative singular | in the desire-realm |
+| `kāme` | locative singular | in the Desire Realm |
 | `aśubhāḥ` | nominative plural masculine | unwholesome |
 | `trayaḥ` | nominative plural masculine | three |
 | `dvidhā` | indeclinable adverb | twofold, here in ethical value |
-| `pareṇa` | instrumental singular used adverbially | beyond it, above the desire-realm |
+| `pareṇa` | instrumental singular used adverbially | beyond it, above the Desire Realm |
 | `avyākṛtāḥ` | nominative plural masculine | ethically indeterminate |
 | `tataḥ` | ablatival adverb | from there, therefore or beyond that point |
 
 
 `Dvidhā` no longer refers to the two abandonment modes of VAK 5.51. The
 Bhāṣya identifies a new axis: torpor, excitation, and sleepiness may each be
-unwholesome or indeterminate within the desire-realm.
+unwholesome or indeterminate within the Desire Realm.
 
 ## 4. Grammar
 
@@ -74,8 +74,8 @@ pareṇa tataḥ
     [yathāsaṃbhavam] avyākṛtāḥ
 ```
 
-The general desire-realm rule is qualified internally by the three. Above the
-desire-realm, only upakleśas that occur there “as applicable” are called
+The general Desire Realm rule is qualified internally by the three. Above the
+Desire Realm, only upakleśas that occur there “as applicable” are called
 indeterminate.
 
 ## 5. Translation
@@ -83,13 +83,13 @@ indeterminate.
 ### Literal Translation
 
 > The others are to be abandoned through cultivation and are independent; the
-> stains are likewise. In the desire-realm they are unwholesome, although
+> stains are likewise. In the Desire Realm they are unwholesome, although
 > three are twofold; beyond it they are indeterminate.
 
 ### Bhāṣya-informed study translation
 
 > The five remaining envelopments are to be abandoned through cultivation and
-> are independent; the six stains are likewise. In the desire-realm these
+> are independent; the six stains are likewise. In the Desire Realm these
 > secondary afflictions are unwholesome, except that torpor, excitation, and
 > sleepiness can also be indeterminate. Above that domain, those occurring as
 > applicable are indeterminate.
@@ -154,13 +154,13 @@ māyā | śāṭhya | mada | pradāśa | upanāha | vihiṃsā
 
 **`Akuśala` / `aśubha` — unwholesome**
 
-The general ethical value of the stated upakleśas in the desire-realm, subject
+The general ethical value of the stated upakleśas in the Desire Realm, subject
 to the three-factor exception.
 
 **`Avyākṛta` — ethically indeterminate**
 
 Neither wholesome nor unwholesome. It applies as one possible value to three
-factors in the desire-realm and generally to applicable upakleśas above it.
+factors in the Desire Realm and generally to applicable upakleśas above it.
 
 **The ethically twofold three**
 
@@ -170,7 +170,7 @@ auddhatya    excitation
 middha       sleepiness
 ```
 
-Each may be `akuśala` or `avyākṛta` within the desire-realm.
+Each may be `akuśala` or `avyākṛta` within the Desire Realm.
 
 **`Yathāsaṃbhavam` — according to applicability**
 
@@ -247,7 +247,7 @@ here: two ethical values within one domain
 The repetition itself tests whether the analysis follows semantic function or
 merely carries a prior gloss forward.
 
-**Higher-domain caution.** Above the desire-realm, the occurring upakleśas are
+**Higher-domain caution.** Above the Desire Realm, the occurring upakleśas are
 indeterminate only `yathāsaṃbhavam`. A range assertion must first establish
 that the factor can occur in the domain; ethical value cannot manufacture
 occurrence.

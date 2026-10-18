@@ -18,7 +18,7 @@ saṃjīvādiṣu ṣaṭsv āyus tais teṣāṃ kāmadevavat // 3.82 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| kāmadevāyuṣā | instrumental neuter singular compound | with the lifespan of a desire-realm deva class |
+| kāmadevāyuṣā | instrumental neuter singular compound | with the lifespan of a Desire Realm deva class |
 | tulyāḥ | nominative masculine plural | equal or corresponding in temporal magnitude |
 | ahorātrāḥ | nominative masculine plural | day-and-night units of the hells |
 | yathākramam | indeclinable | in the corresponding order, one-to-one |
@@ -27,7 +27,7 @@ saṃjīvādiṣu ṣaṭsv āyus tais teṣāṃ kāmadevavat // 3.82 //
 | āyuḥ | nominative neuter singular | lifespan |
 | taiḥ | instrumental masculine plural | by those day-and-night units |
 | teṣām | genitive masculine plural | of the beings in those six hells |
-| kāmadevavat | adverbial `-vat` formation | like the desire-realm devas with respect to numerical year-count |
+| kāmadevavat | adverbial `-vat` formation | like the Desire Realm devas with respect to numerical year-count |
 
 The two apparent comparisons have different functions. `tulya` equates a
 deva lifespan with a hell day-night; `-vat` transfers the corresponding deva
@@ -45,7 +45,7 @@ saṃjīva-ādiṣu ṣaṭsu
 ```
 
 > In the six hells beginning with Saṃjīva, the day-and-nights correspond in
-> order to the lifespans of the desire-realm devas.
+> order to the lifespans of the Desire Realm devas.
 
 The instrumental singular `kāmadevāyuṣā` is distributive under
 `yathākramam`: each hell day-night corresponds to the lifespan of its matched
@@ -61,7 +61,7 @@ teṣām āyuḥ
 ```
 
 > Reckoned by those day-and-nights, their lifespan is like that of the
-> corresponding desire-realm devas.
+> corresponding Desire Realm devas.
 
 The Bhāṣya restricts the likeness to a precise feature: the number of local
 years. It does not identify the actual duration of a deva lifespan with the
@@ -71,13 +71,13 @@ total duration of the corresponding hell lifespan.
 
 ### Literal Translation
 > In the six hells beginning with Saṃjīva, the day-and-nights are respectively
-> equal to the lifespans of the desire-realm devas; reckoned by those units,
-> the lifespans of their inhabitants are like those of the desire-realm devas.
+> equal to the lifespans of the Desire Realm devas; reckoned by those units,
+> the lifespans of their inhabitants are like those of the Desire Realm devas.
 
 ### Bhāṣya-informed study translation
 
 > In the six hells beginning with Saṃjīva, the day-and-nights correspond
-> respectively to the lifespans of the desire-realm devas; reckoned by those
+> respectively to the lifespans of the Desire Realm devas; reckoned by those
 > units, the inhabitants' lifespans correspond to those of the devas.
 
 ## 6. Philosophical Translation
@@ -95,7 +95,7 @@ total duration of the corresponding hell lifespan.
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | durgati | unfavorable destiny | Bhāṣya heading for the transition to hell lifespans |
-| kāmadeva | desire-realm deva | source realm whose lifespan supplies the conversion standard |
+| kāmadeva | Desire Realm deva | source realm whose lifespan supplies the conversion standard |
 | āyus | lifespan | source duration in the deva realm and total duration in the hell realm |
 | ahorātra / rātrindiva | day-and-night | target unit constituted from one corresponding deva lifespan |
 | tulya | equal / corresponding | equality between differently typed temporal measures |
@@ -106,7 +106,7 @@ total duration of the corresponding hell lifespan.
 | Raurava | Raurava | fourth hot hell; paired with Tuṣita |
 | Mahāraurava | Mahāraurava | fifth hot hell; paired with Nirmāṇarati |
 | Tāpana | Tāpana | sixth hot hell; paired with Paranirmitavaśavartin |
-| kāmadevavat | like the desire-realm devas | same numerical local-year count, not same total duration |
+| kāmadevavat | like the Desire Realm devas | same numerical local-year count, not same total duration |
 
 The traditional category `naraka` is retained rather than reduced to one
 English religious image. Here it functions as an exactly classified destiny

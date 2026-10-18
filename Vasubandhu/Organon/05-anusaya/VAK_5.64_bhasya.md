@@ -6,7 +6,7 @@
 > ekā dvayoḥ kṣaye dve te tathordhvaṃ tisra eva tāḥ || 5.64 ||
 
 > There are nine completed abandonments called *parijñās*. In the
-> desire-realm, exhausting the afflictions abandoned by seeing suffering and
+> Desire Realm, exhausting the afflictions abandoned by seeing suffering and
 > origin counts as one; exhausting those abandoned by seeing cessation and by
 > seeing the Path counts as two more. The same threefold count applies to the
 > form and formless realms together.
@@ -61,13 +61,13 @@ seeing-abandonment *parijñās* of the announced nine.
 ## 3. Continuous Conventional Translation
 
 Is all abandonment just one *parijñā*? No. There are nine.
-First, in the desire-realm, abandoning the first pair of
+First, in the Desire Realm, abandoning the first pair of
 classes—those abandoned by seeing suffering and by seeing
 origin—is one *parijñā*. When the other two are exhausted,
 there are two more: abandoning the class abandoned by seeing
 cessation is one, and abandoning the class abandoned by
 seeing the path is another. Thus three completed
-abandonments concern factors in the desire-realm.
+abandonments concern factors in the Desire Realm.
 
 Likewise, for factors in the form and formless domains,
 abandonments through seeing are three: abandoning the
@@ -109,7 +109,7 @@ interchangeable operations.
 ## 5. Translation and Interpretation
 
 **Translation decisions.** `Kāmādya-prakāradvaya` is
-resolved by the prose as the desire-realm pair of
+resolved by the prose as the Desire Realm pair of
 suffering-seeing and origin-seeing abandonables. `Dvayoḥ`
 then refers to the two remaining truth-indexed classes,
 cessation and path. `Ūrdhvam` covers form and formless

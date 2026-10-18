@@ -53,7 +53,7 @@ The next unit begins at [354|09].
 ## 3. Continuous Conventional Translation
 
 “Up to five grades destroyed”: if a mundane path previously abandoned
-as many as five grades among desire-realm afflictions to be abandoned by
+as many as five grades among Desire Realm afflictions to be abandoned by
 cultivation, the two followers are still said to be proceeding toward
 the first fruit.
 
@@ -62,8 +62,8 @@ or eight grades in total were previously abandoned, these
 two are called practitioners proceeding toward the second fruit. The
 second fruit is once-return.
 
-“Detached from the desire-realm, or higher”: if the ninth grade has also
-been abandoned, the two are free of attachment to the desire-realm.
+“Detached from the Desire Realm, or higher”: if the ninth grade has also
+been abandoned, the two are free of attachment to the Desire Realm.
 If detachment extends still higher, as far as the Essence of Nothingness,
 they are called practitioners proceeding toward the third fruit. The
 third fruit is non-return.
@@ -80,7 +80,7 @@ second; nine and any specified higher detachment move to the third.
 **Translation decisions.** `Yāvat pañca` sets the first-fruit upper
 bound. `Arvāk navakṣayāt` means short of the ninth grade's destruction;
 the prose fills the interval with six, seven, or eight previously
-abandoned grades. `Kāmād viraktau` marks complete desire-realm
+abandoned grades. `Kāmād viraktau` marks complete Desire Realm
 detachment. `Ūrdhvaṃ vā` extends that condition up to the Essence of
 Nothingness. The source's uneven kārikā reading is preserved in the
 witness and the separate study reading is kept in the anchor.
@@ -95,10 +95,10 @@ project synthesis.
 
 | Prior mundane abandonment | Candidate for |
 |---|---|
-| Zero through five desire-realm grades | Stream-entry |
-| Six through eight desire-realm grades | Once-return |
-| All nine desire-realm grades | Non-return |
-| Complete desire-realm detachment extending higher, as far as the Essence of Nothingness | Non-return |
+| Zero through five Desire Realm grades | Stream-entry |
+| Six through eight Desire Realm grades | Once-return |
+| All nine Desire Realm grades | Non-return |
+| Complete Desire Realm detachment extending higher, as far as the Essence of Nothingness | Non-return |
 
 These are statuses of proceeding toward fruit during Seeing, not
 assertions that the fruits are already attained.

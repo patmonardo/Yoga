@@ -77,7 +77,7 @@ rūpadhātu
     the Formless Realm
 ```
 
-The desire-realm dharma is no longer possessed after transition to a higher
+The Desire Realm dharma is no longer possessed after transition to a higher
 realm.
 
 **`pratipakṣa`**
@@ -114,7 +114,7 @@ vihīyate
 > counteragent.
 
 `Tu` contrasts the causal structure of defiled dharmas with the two losses of
-desire-realm wholesome dharmas.
+Desire Realm wholesome dharmas.
 
 ## 5. Translation
 
@@ -167,9 +167,9 @@ Rebirth above does not destroy the wholesome roots. It changes the realm in
 which the continuum is presently configured:
 
 ```text
-desire-realm dharma possessed
+Desire Realm dharma possessed
     → rebirth in the Form or Formless Realm
-    → desire-realm possession ceases
+    → Desire Realm possession ceases
 ```
 
 Past karmic history and present possession remain different questions.
@@ -294,7 +294,7 @@ complement.
 **Realm is a condition, not a location label**
 
 Birth above changes the conditioning architecture of the continuum. A
-desire-realm-specific wholesome dharma ceases to be presently possessed
+Desire Realm-specific wholesome dharma ceases to be presently possessed
 because the realm to which it belongs is no longer the current configuration.
 
 This does not turn `dhātu` into a temporal bridge or hidden substance. It

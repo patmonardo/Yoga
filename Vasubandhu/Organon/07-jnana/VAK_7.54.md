@@ -135,7 +135,7 @@ miss the functional force of `sabhāga` in this passage.
 
 **`Avikala`.** Unimpaired. The prose invokes the absence
 of the indicated ocular or sensory defects and compares
-form-realm beings. It does not thereby establish omniscience
+Form Realm beings. It does not thereby establish omniscience
 or freedom from every possible error of judgment.
 
 **`Gocara`.** Object-range. The eye remains related to

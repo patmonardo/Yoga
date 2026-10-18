@@ -90,7 +90,7 @@ is thus set between two uncontaminated ones. They compare the first
 two with uninterrupted Paths and the third with a liberation Path.
 After the fourth dhyāna has been intermingled, the others can be
 intermingled through its power. It is first done in the three human
-continents of the desire-realm; later, after a fall, it can be done
+continents of the Desire Realm; later, after a fall, it can be done
 in the form realm.
 
 But exact intermingling of moments is impossible for anyone other

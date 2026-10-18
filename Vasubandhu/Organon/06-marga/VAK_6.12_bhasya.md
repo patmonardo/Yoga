@@ -7,7 +7,7 @@
 
 > Recollection of inhalation and exhalation is discriminative comprehension by
 > nature. It occurs on five grounds, has wind as its cognitive field, and
-> rests on a desire-realm basis. It does not belong to outsiders; it is
+> rests on a Desire Realm basis. It does not belong to outsiders; it is
 > sixfold, beginning with counting.
 
 The Bhāṣya distinguishes nature, name, ground, cognitive field, and basis,
@@ -116,19 +116,19 @@ The next unit begins at [340|15].
 ## 3. Continuous Conventional Translation
 
 The verse calls recollection of inhalation and exhalation Prajñā, occurring on
-five grounds, with wind as its cognitive field and a desire-realm basis.
+five grounds, with wind as its cognitive field and a Desire Realm basis.
 Inhalation is wind entering; exhalation is wind leaving. Recollection of the
 two is called recollection of breathing, yet its intrinsic nature is Prajñā.
 It is called recollection, as with the establishments of recollection, because
 its activity draws on recollection's power.
 
 The five grounds are the three neighboring concentrations, the intermediate
-concentration, and the desire-realm, because the practice is associated with
+concentration, and the Desire Realm, because the practice is associated with
 equanimity. The prose connects this with its counteractive relation to
 discursive thought and with conditions for attention; that sentence is
 textually uneven. Those who admit equanimity in the principal dhyānas instead
 make it eight-grounded. Beyond that range, inhalation and exhalation are not
-grounded. Wind is its cognitive Condition (`ālambana`); the desire-realm is its
+grounded. Wind is its cognitive Condition (`ālambana`); the Desire Realm is its
 basis (`āśraya`). It occurs among gods and humans and may be developed through
 application or gained through detachment. It is attention according to
 actuality (`tattva-manaskāra`). The practice belongs to those of the Dharma,
@@ -169,7 +169,7 @@ with a summary verse naming the six modes.
 The commentary first explains why a practice named for recollection has
 Prajñā as its nature. It distinguishes five grounds from an attributed
 eight-ground alternative, then separates wind as cognitive field and Condition
-from the desire-realm basis. It specifies practitioners and the grounds of the
+from the Desire Realm basis. It specifies practitioners and the grounds of the
 exclusion of outsiders. The second half unfolds the six modes, their
 operational checks, and an alternative allocation of the final two stages.
 

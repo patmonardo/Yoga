@@ -119,7 +119,7 @@ there. The world has completed its twenty intermediate kalpas of expansion
 and has entered the period that will be twenty intermediate kalpas of
 contraction. As each destination or realm empties, the text marks its
 contraction: narakas, animals, pretas, human destinations and continents, then
-the desire-realm gods. Beings with karma fixed for a naraka birth are said to
+the Desire Realm gods. Beings with karma fixed for a naraka birth are said to
 be cast into narakas in another world-system. The great-sea animals withdraw
 first; those associated with human beings remain together with them.
 
@@ -128,9 +128,9 @@ without a teacher, through the natural acquisition of its characteristic. On
 rising, that person voices the peace and happiness born of seclusion. Hearing
 this, others attain the same absorption and, after death, are reborn in
 Brahmaloka. The account then tracks the emptying of Jambūdvīpa and the other
-continents, humanity, and the successive classes of desire-realm gods. The
-Uttarakurus, lacking dispassion, are reborn among desire-realm gods. The gods
-of the Four Great Kings and the higher desire-realm classes attain the first
+continents, humanity, and the successive classes of Desire Realm gods. The
+Uttarakurus, lacking dispassion, are reborn among Desire Realm gods. The gods
+of the Four Great Kings and the higher Desire Realm classes attain the first
 absorption and are reborn in Brahmaloka.
 
 In Brahmaloka, another being attains the second absorption and voices the
@@ -156,7 +156,7 @@ levels. This completes the expansion of the receptacle-world.
 
 Beings then descend from the Ābhāsvara realm: one arises in the empty
 Brahmā-vimāna, and others are reborn successively among Brahmapurohita,
-Brahmakāyika, and the desire-realm gods, then in the northern, western,
+Brahmakāyika, and the Desire Realm gods, then in the northern, western,
 eastern, and southern continents, and among pretas, animals, and finally in
 the narakas. This is the natural order: what contracts later expands first.
 When even one being has appeared in the narakas, the twenty intermediate

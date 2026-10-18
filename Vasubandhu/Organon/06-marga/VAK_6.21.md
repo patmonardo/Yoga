@@ -18,7 +18,7 @@ bhūmityāgāt tyajaty āryas tāny anāryas tu mṛtyunā || 6.21 ||
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| **kāma-āśrayāṇi** | neuter nominative plural compound | having the desire-realm as living support; qualifying the four preparatory roots |
+| **kāma-āśrayāṇi** | neuter nominative plural compound | having the Desire Realm as living support; qualifying the four preparatory roots |
 | **agra-dharmān** | masculine accusative plural | the Highest Mundane Dharmas |
 | **dvaya-āśrayān** | masculine accusative plural compound | associated with both bodily supports, female and male |
 | **labhate** | third-person singular middle present from √labh | obtains, acquires |
@@ -40,7 +40,7 @@ The local Devanāgarī text ends **मृत्युनाः**, while the IAST
 
 ## 4. Grammar
 
-**kāmāśrayāṇi** is a complete initial predication whose understood subject is the four *nirvedhabhāgīyāni* of 6.20: “[All four] have the desire-realm as their support.” The neuter plural agrees with that inherited subject.
+**kāmāśrayāṇi** is a complete initial predication whose understood subject is the four *nirvedhabhāgīyāni* of 6.20: “[All four] have the Desire Realm as their support.” The neuter plural agrees with that inherited subject.
 
 The next clause has **aṅganā** as subject and **agradharmān dvayāśrayān** as its accusative object: “a woman obtains Highest Mundane Dharmas [connected with] both supports.” The Bhāṣya supplies the contrasting rule that a man obtains them only with male support.
 
@@ -56,7 +56,7 @@ non-Noble practitioner → loss by death
 **Future Feature Grammar sketch (not executable):**
 
 ```text
-ROOT[SET=all-four, LIVING-SUPPORT=desire-realm]
+ROOT[SET=all-four, LIVING-SUPPORT=Desire Realm]
   ← kāmāśrayāṇi
 ACQUISITION[ROOT=Highest-Mundane-Dharmas, AGENT=woman,
             BODILY-SUPPORT=female|male]
@@ -74,20 +74,20 @@ the rule for men, and the precise sense of each loss condition.
 
 ### Literal Translation
 
-> The four have desire-realm support. A woman obtains the Highest Dharmas
+> The four have Desire Realm support. A woman obtains the Highest Dharmas
 > with both supports. A Noble practitioner relinquishes them through leaving
 > the ground; an ordinary practitioner does so through death.
 
 ### Bhāṣya-informed study translation
 
-> The four roots conducive to penetration have the desire-realm as their living
+> The four roots conducive to penetration have the Desire Realm as their living
 > support. A woman obtains the Highest Mundane Dharmas with both supports. A
 > Noble practitioner relinquishes them by leaving their ground; an ordinary
 > practitioner relinquishes them at death.
 
 ## 6. Philosophical Translation
 
-The cultivation-ground of a Path-state and the living continuum that supports it are not identical. The preparatory roots may operate upon refined concentration-levels while remaining embodied in a desire-realm support. The Path is therefore situated through intersecting conditions rather than assigned to one undifferentiated “level.”
+The cultivation-ground of a Path-state and the living continuum that supports it are not identical. The preparatory roots may operate upon refined concentration-levels while remaining embodied in a Desire Realm support. The Path is therefore situated through intersecting conditions rather than assigned to one undifferentiated “level.”
 
 Acquisition also has a history. According to the Bhāṣya, capacities first generated under one set of conditions may later become manifest under another. Most decisively, the manner in which a preparation is lost depends upon the practitioner's status: for the ordinary person it remains contingent upon the present life-continuum, whereas for the Noble practitioner its loss is tied specifically to departure from its attained meditative ground.
 
@@ -95,11 +95,11 @@ Acquisition also has a history. According to the Bhāṣya, capacities first gen
 
 **`Āśraya` — living support**
 
-The living psycho-physical support of the roots. All four are desire-realm supported (*kāmāśraya*), though they operate on concentration-grounds.
+The living psycho-physical support of the roots. All four are Desire Realm supported (*kāmāśraya*), though they operate on concentration-grounds.
 
 **`Bhūmi` — ground**
 
-The meditative level on which a root was obtained. A desire-realm support can sustain a cognition on a form-domain ground.
+The meditative level on which a root was obtained. A Desire Realm support can sustain a cognition on a form-domain ground.
 
 **`Utpāda` / `saṃmukhībhāva` — first production and later manifestation**
 
@@ -163,13 +163,13 @@ death. Its sex-support classification is reported as the passage's own,
 without extending it into a general claim about spiritual ability.
 
 
-VAK 6.20 classified the preparatory roots by function, production-mode, and meditative ground. VAK 6.21 adds living support and mode of loss. The result is a multidimensional account: a cognition can have a desire-realm embodiment, a form-domain concentration-ground, a prior history of acquisition, and a status-dependent mode of continuity.
+VAK 6.20 classified the preparatory roots by function, production-mode, and meditative ground. VAK 6.21 adds living support and mode of loss. The result is a multidimensional account: a cognition can have a Desire Realm embodiment, a form-domain concentration-ground, a prior history of acquisition, and a status-dependent mode of continuity.
 
 This is particularly important for the Path as Practical Meaning. The Truths do not become efficacious in an abstract knower outside conditions. Their determinations exist as capacities of a concrete continuum. Yet those capacities are not reducible to the present bodily occasion, since prior production can support later manifestation.
 
 The difference between Noble and ordinary loss reveals a transformed mode of possession. What is contingent upon death for the ordinary practitioner becomes tied to the specific architecture of attained grounds for the Noble practitioner. The Path changes not only what is cognized, but the conditions under which the acquired cognition persists or is lost.
 
-The kārikā states desire-realm support, the sex-support rule for the Highest Dharmas, and the two modes of relinquishment. The geographical conditions of first production, later divine manifestation, the rule for male practitioners, non-analytic cessation, movement between levels, and *nikāyasabhāga* are Bhāṣya determinations. “Support-signature” is the Organon's reconstruction.
+The kārikā states Desire Realm support, the sex-support rule for the Highest Dharmas, and the two modes of relinquishment. The geographical conditions of first production, later divine manifestation, the rule for male practitioners, non-analytic cessation, movement between levels, and *nikāyasabhāga* are Bhāṣya determinations. “Support-signature” is the Organon's reconstruction.
 
 ## 10. OWL++ Seed
 

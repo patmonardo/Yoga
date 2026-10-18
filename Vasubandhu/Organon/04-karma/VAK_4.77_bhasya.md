@@ -86,7 +86,7 @@ unjust longing toward another's possession, a wish to make it one's own
 whether by force or by some device. This is covetousness as a course of
 karma.
 
-Others call all desire-realm craving covetousness. Thus, in the teaching on
+Others call all Desire Realm craving covetousness. Thus, in the teaching on
 the hindrances and with reference to sensual desire, the sūtra says, “Having
 abandoned covetousness concerning the world,” and so forth. Another view
 answers that although all such craving may be called covetousness, not all
@@ -165,7 +165,7 @@ The dispute returns to the `audārika` principle of VAK 4.66:
 
 ```text
 broad abhidhyā
-    desire-realm craving
+    Desire Realm craving
 
 abhidhyā as karmapatha
     gross and practically decisive wrongful longing

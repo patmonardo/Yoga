@@ -27,7 +27,7 @@ dhyānāntare vitarkaś ca vicāraś cāpy ataḥ param // 2.31 //
 | vicāraḥ ca api | nom. sg. m. + particles | vicāra also |
 | ataḥ param | adverbial phrase | beyond this |
 
-Ataḥ points back to the desire-realm distribution. Not a cause.
+Ataḥ points back to the Desire Realm distribution. Not a cause.
 ## 4. Grammar
 
 ```text

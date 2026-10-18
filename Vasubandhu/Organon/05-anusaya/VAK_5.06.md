@@ -208,7 +208,7 @@ knowing and acting capacity of the practitioner differs.
 **Appended doctrinal dispute**
 
 Other teachers argue that outsiders do not abandon what is properly
-seeing-abandonable. They cite the later occurrence of desire-realm-supported
+seeing-abandonable. They cite the later occurrence of Desire Realm-supported
 speculative views among persons free from sensual attachment. The Vaibhāṣikas
 reply that earlier afflictions had fallen away at the very moment those later
 views arose. The local passage does not fully explain the Devadatta comparison,

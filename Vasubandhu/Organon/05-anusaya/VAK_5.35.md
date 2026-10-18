@@ -22,13 +22,13 @@ reclassifies the afflictive field according to the sustained currents called
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `kāme` | locative singular | in the desire-realm |
+| `kāme` | locative singular | in the Desire Realm |
 | `sa-paryavasthānāḥ` | nominative plural compound | together with the paryavasthānas |
 | `kleśāḥ` | nominative plural masculine | afflictions |
 | `kāma-āsravaḥ` | nominative singular masculine | the influx of desire |
 | `vinā mohena` | indeclinable governing instrumental | apart from delusion or ignorance |
 | `anuśayāḥ eva` | nominative plural with restrictive particle | the anuśayas alone |
-| `rūpa-arūpye` | locative dual | in the form- and formless-realms |
+| `rūpa-arūpye` | locative dual | in the form- and Formless Realms |
 | `bhava-āsravaḥ` | nominative singular masculine | the influx of existence |
 
 The singular collective predicates `kāmāsravaḥ` and `bhavāsravaḥ` gather
@@ -65,13 +65,13 @@ paryavasthānas occur in the higher realms.
 
 ### Literal Translation
 
-> In the desire-realm, the afflictions together with the paryavasthānas,
-> apart from delusion, are the desire-influx. In the form- and formless-realms,
+> In the Desire Realm, the afflictions together with the paryavasthānas,
+> apart from delusion, are the desire-influx. In the form- and Formless Realms,
 > the anuśayas alone, [again apart from delusion], are the existence-influx.
 
 ### Bhāṣya-informed study translation
 
-> In the desire-realm, afflictions together with paryavasthānas, apart from
+> In the Desire Realm, afflictions together with paryavasthānas, apart from
 > ignorance, constitute the desire āsrava. In the form and formless realms,
 > only the anuśayas, again apart from ignorance, constitute the existence
 > āsrava.
@@ -98,12 +98,12 @@ three: desire-influx, existence-influx, and ignorance-influx.
 
 **`Kāmāsrava` — desire-influx**
 
-The non-ignorance afflictions of the desire-realm together with its ten
+The non-ignorance afflictions of the Desire Realm together with its ten
 paryavasthānas: forty-one counted items.
 
 **`Bhavāsrava` — existence-influx**
 
-The non-ignorance anuśayas of the form- and formless-realms combined: fifty-
+The non-ignorance anuśayas of the form- and Formless Realms combined: fifty-
 two counted items.
 
 **`Paryavasthāna` — afflictive envelopment or manifest domination**

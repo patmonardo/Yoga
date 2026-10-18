@@ -86,9 +86,9 @@ indeterminate
 
 ## 9. Interpretive Note
 
-**Translation note.** The commentary specifies that the indeterminate superknowledges and magical-creation mind may have acquisition that precedes, accompanies, or follows them through special preparatory practice. It continues with obscured form and desire-realm form in 2.39. The relation of acquisition to the path that obtained it is commentary, not part of the verse's threefold predicate.
+**Translation note.** The commentary specifies that the indeterminate superknowledges and magical-creation mind may have acquisition that precedes, accompanies, or follows them through special preparatory practice. It continues with obscured form and Desire Realm form in 2.39. The relation of acquisition to the path that obtained it is commentary, not part of the verse's threefold predicate.
 
-An exception engine on the matrix of 2.37. Cessation through Discrimination is neither trainee nor beyond, in itself. Its credit follows the path that obtained it. The continuation into obscured form and desire-realm form is 2.39.
+An exception engine on the matrix of 2.37. Cessation through Discrimination is neither trainee nor beyond, in itself. Its credit follows the path that obtained it. The continuation into obscured form and Desire Realm form is 2.39.
 
 ## 10. OWL++ Seed
 

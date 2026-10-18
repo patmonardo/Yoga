@@ -17,7 +17,7 @@ kāmāśrayā na bāhyānāṃ ṣaḍvidhā gaṇanādibhiḥ || 6.12 ||
 VAK 6.12 classifies recollection of inhalation and exhalation and introduces
 its sixfold completion. Although the practice is named `smṛti`, its intrinsic
 nature is discriminative comprehension. It occurs on five grounds, takes breath as wind for its
-cognitive field, depends upon a desire-realm support, does not belong to
+cognitive field, depends upon a Desire Realm support, does not belong to
 outsiders, and develops through six operations beginning with counting.
 
 ## 3. Lexical Analysis
@@ -28,7 +28,7 @@ outsiders, and develops through six operations beginning with counting.
 | `prajñā` | nominative singular feminine | discriminative comprehension; intrinsic nature of the practice |
 | `pañca-bhūḥ` | nominative singular compound | belonging to five grounds |
 | `vāyuḥ-gocarā` | nominative singular feminine compound | having wind as its cognitive range |
-| `kāma-āśrayā` | nominative singular feminine compound | having a desire-realm basis |
+| `kāma-āśrayā` | nominative singular feminine compound | having a Desire Realm basis |
 | `na` | negative particle | not |
 | `bāhyānām` | genitive plural masculine | belonging to outsiders |
 | `ṣaṭ-vidhā` | nominative singular feminine compound | sixfold |
@@ -66,7 +66,7 @@ vāyurgocarā
     what is its cognitive field? wind
 
 kāmāśrayā
-    what is its basis? the desire-realm
+    what is its basis? the Desire Realm
 
 na bāhyānām
     to whom does it not belong? outsiders
@@ -75,7 +75,7 @@ na bāhyānām
     how is it completed? through six operations beginning with counting
 ```
 
-The standard five-ground count is fixed by the Bhāṣya as the desire-realm,
+The standard five-ground count is fixed by the Bhāṣya as the Desire Realm,
 three preliminary concentrations, and the intermediate concentration. It also
 reports an alternative eight-ground count if equanimity is admitted in the
 principal dhyānas.
@@ -84,7 +84,7 @@ principal dhyānas.
 
 ```text
 PRACTICE[NAME=ānāpānasmṛti, NATURE=discriminative comprehension,
-         GROUNDS=five, FIELD=wind, BASIS=desire-realm,
+         GROUNDS=five, FIELD=wind, BASIS=Desire Realm,
          ACCESS=not-outsiders, MODES=six]
   ← ānāpānasmṛtiḥ + discriminative comprehension + pañcabhūḥ + vāyurgocarā
     + kāmāśrayā + na bāhyānām + ṣaḍvidhā gaṇanādibhiḥ
@@ -101,7 +101,7 @@ model, not executable source grammar.
 ### Literal Translation
 
 > Recollection of inhalation and exhalation is discriminative comprehension; it belongs to five
-> grounds and has wind as its cognitive field. It has a desire-realm basis,
+> grounds and has wind as its cognitive field. It has a Desire Realm basis,
 > does not belong to outsiders, and is sixfold through counting and the other
 > operations.
 
@@ -109,7 +109,7 @@ model, not executable source grammar.
 
 > Recollection of inhalation and exhalation is discriminative comprehension by
 > nature. It occurs on five grounds, has wind as its cognitive field, and
-> rests on a desire-realm basis. It does not belong to outsiders; it is
+> rests on a Desire Realm basis. It does not belong to outsiders; it is
 > sixfold, beginning with counting.
 
 ## 6. Philosophical Translation
@@ -163,7 +163,7 @@ Bases.
 
 **`Pañcabhū` — belonging to five grounds**
 
-The standard Bhāṣya enumeration comprises the desire-realm, three preliminary
+The standard Bhāṣya enumeration comprises the Desire Realm, three preliminary
 concentrations, and the intermediate concentration because the practice is
 associated with equanimity. An attributed alternative expands the range to
 eight grounds if equanimity is allowed in the principal dhyānas.
@@ -174,9 +174,9 @@ The cognitive field is breath as a moving wind-process. `Gocara` marks what the
 cognition ranges over and must remain distinct from `āśraya`, the support upon
 which the practice arises.
 
-**`Kāmāśraya` — having a desire-realm basis**
+**`Kāmāśraya` — having a Desire Realm basis**
 
-The embodied basis of the practice belongs to the desire-realm even when the
+The embodied basis of the practice belongs to the Desire Realm even when the
 cognition itself occurs on a more refined meditative ground. Cognitive field, basis,
 and level are independent coordinates.
 
@@ -330,7 +330,7 @@ force; discriminative comprehension defines the practice. A Dataset that classif
 surface name would miss its operative cognitive type.
 
 **Field, basis, and ground remain distinct.** The breath-wind is the cognitive
-field; desire-realm embodiment is the basis; five meditative grounds give the
+field; Desire Realm embodiment is the basis; five meditative grounds give the
 standard operating range. None should be inferred from either of the others.
 
 **The ground-count has an attributed alternative.** The five-ground account is

@@ -21,7 +21,7 @@ phalahetvapavādinyā sarvathā kramaśo nṛṣu // 4.79 //
 | `mūla-cchedaḥ` | nominative masculine singular compound | severance of the wholesome roots |
 | `tu` | adversative or transitional particle | but; now |
 | `asat-dṛṣṭyā` | instrumental feminine singular | by false or invalid view |
-| `kāma-āpta` | compound member | belonging to the Desire-Realm |
+| `kāma-āpta` | compound member | belonging to the Desire Realm |
 | `utpatti-lābhinām` | genitive plural compound | of those acquired by birth |
 | `phala-hetu-apavādinyā` | instrumental feminine singular compound | by that which denies result and ground |
 | `sarvathā` | indeclinable | completely; in every respect |
@@ -34,11 +34,11 @@ The Bhāṣya resolves the compressed `kāmāptotpatti-lābhinām` as a qualific
 of the wholesome roots:
 
 ```text
-Desire-Realm wholesome roots
+Desire Realm wholesome roots
     acquired by birth
 ```
 
-It does not mean merely “persons who have acquired a Desire-Realm birth.”
+It does not mean merely “persons who have acquired a Desire Realm birth.”
 `Kuśala-mūlānām` is understood as the object of `cheda`.
 
 ## 4. Grammar
@@ -66,7 +66,7 @@ kuśala-mūlānām
     chedaḥ
 ```
 
-> The wholesome roots belonging to the Desire-Realm and acquired by birth
+> The wholesome roots belonging to the Desire Realm and acquired by birth
 > are severed.
 
 The fuller phrase `utpatti-pratilābhika` is supplied by the Bhāṣya. Cultivated
@@ -93,7 +93,7 @@ graded rather than instantaneous.
 
 ### Literal Translation
 > Severance of the wholesome roots occurs through false view. It concerns
-> Desire-Realm roots acquired by birth, through a view denying result and
+> Desire Realm roots acquired by birth, through a view denying result and
 > ground; completely, successively, among humans.
 
 ### Bhāṣya-informed study translation
@@ -103,7 +103,7 @@ graded rather than instantaneous.
 
 ## 6. Philosophical Translation
 
-> Severance of the wholesome roots occurs through false view. It concerns Desire-Realm roots acquired by birth, through a view denying result and ground; completely, successively, among humans.
+> Severance of the wholesome roots occurs through false view. It concerns Desire Realm roots acquired by birth, through a view denying result and ground; completely, successively, among humans.
 
 ## 7. Technical Vocabulary
 
@@ -150,7 +150,7 @@ the immediate burner and the thieves supplied it.
 
 **`Upapatti-pratilābhika` — acquired by birth**
 
-Wholesome roots possessed through the mode of birth. These Desire-Realm roots
+Wholesome roots possessed through the mode of birth. These Desire Realm roots
 are directly severed.
 
 **`Prāyogika` — produced through practice**
@@ -182,7 +182,7 @@ false view that severs them.
 **`Bhājana` / `abhājana` — suitable or unsuitable basis**
 
 The continuum becomes unsuitable for acquiring higher-realm wholesome roots.
-This explains how direct severance of Desire-Realm roots also places those
+This explains how direct severance of Desire Realm roots also places those
 higher acquisitions far away.
 
 ## 8. Logical Determination
@@ -203,7 +203,7 @@ unrelated.
 **What is directly severed**
 
 ```text
-Desire-Realm birth-acquired wholesome roots
+Desire Realm birth-acquired wholesome roots
     → directly severed
 
 practice-produced wholesome roots
@@ -278,7 +278,7 @@ continents and rejects an overly narrow Jambūdvīpa-only account.
 produced distinction, the nine-grade mechanism, and the competing temporal
 accounts are supplied by the Bhāṣya. The Bhāṣya specifies that the view must
 be fully intensified and that its full extension repudiates karma, result, and
-the noble ones. Only Desire-Realm roots acquired by birth are directly
+the noble ones. Only Desire Realm roots acquired by birth are directly
 severed; practice- produced roots have already fallen away, while higher-realm
 roots are rendered remote through the continuum's unsuitability for acquiring
 them. The preferred account has nine grades of false view successively sever
@@ -396,7 +396,7 @@ Rule: SequentialNineGradeSeverance
 
 Constraint: DirectObjectOfSeverance
     RootSeverance directly targets
-    Desire-Realm birth-acquired wholesome roots
+    Desire Realm birth-acquired wholesome roots
 
 Constraint: CompleteScopeAndSuccessiveModeRemainDistinct
     complete absence of all nine grades

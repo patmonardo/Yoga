@@ -141,7 +141,7 @@ cultivation-abandonable afflictions throughout all three realms.
 
 **Reference range and counteractive range**
 
-Dharmajñāna is named in relation to the desire-realm truths, yet its
+Dharmajñāna is named in relation to the Desire Realm truths, yet its
 cultivation-path efficacy extends through all three realms. The truth-range after
 which a knowledge is named does not by itself delimit every operation it can
 perform.
@@ -224,7 +224,7 @@ operation a completed abandonment counts as fruit.
 real parijñā completions. The passage does not reduce them to mere temporary
 appearance, yet it reserves the complete ninefold range for the noble Path.
 
-**Reference does not exhaust efficacy.** Dharmajñāna's name is desire-realm
+**Reference does not exhaust efficacy.** Dharmajñāna's name is Desire Realm
 indexed, but its counteractive function on the cultivation path spans all
 three realms. Its truth-reference and operational range must be modeled
 separately.

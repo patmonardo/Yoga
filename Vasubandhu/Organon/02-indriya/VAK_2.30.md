@@ -91,7 +91,7 @@ The increment is local.
 
 **Translation note.** The commentary derives eighteen from the ten universal, six affliction-great-ground factors, vitarka, and vicāra; the view adds none. The unobscured-indeterminate count is the ten universal with vitarka and vicāra. Because torpor may be wholesome, unwholesome, or indeterminate, it may add one to either count.
 
-The desire-realm five are now counted. Wholesome was 2.28. Unwholesome was 2.29. These two close the set. Higher levels are the next transition.
+The Desire Realm five are now counted. Wholesome was 2.28. Unwholesome was 2.29. These two close the set. Higher levels are the next transition.
 
 The views are named, not defined. No later account is imported. The alternative on regret is not decided. No school beyond outer-region teachers. The region is not identified.
 

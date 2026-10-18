@@ -190,7 +190,7 @@ higher dhyāna station
 ```
 
 The third and fourth dhyānas lose gladness as an available ranging-mode, but
-their six equanimity-Rangings can still take all six desire-realm Conditions.
+their six equanimity-Rangings can still take all six Desire Realm Conditions.
 Therefore:
 
 ```text

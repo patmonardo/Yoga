@@ -5,10 +5,10 @@
 > svakādharatrayordhvaikāmalānāṃ rūpadhātujāḥ |
 > ārūpyajāstridhātvāptatrayānāsravagocarāḥ || 5.30 ||
 
-> The three classes of form-realm dharmas are objects for three corresponding
+> The three classes of Form Realm dharmas are objects for three corresponding
 > consciousness classes in their own realm, three in the lower realm, one consciousness
 > class of the higher realm abandoned through cultivation, and undefiled consciousness.
-> The same formless-realm dharma classes are objects for the corresponding three
+> The same Formless Realm dharma classes are objects for the corresponding three
 > consciousness classes in each of the three realms and for undefiled consciousness.
 
 ## 2. Continuous Sanskrit
@@ -41,16 +41,16 @@ own, lower, and higher distribution.
 
 ## 3. Continuous Conventional Translation
 
-“form-realm dharmas are objects of their own [three], the
+“Form Realm dharmas are objects of their own [three], the
 lower three, one higher, and the undefiled.” The same three
-classes of form-realm dharmas are objects of eight cittas:
+classes of Form Realm dharmas are objects of eight cittas:
 the corresponding three of their own domain, the corresponding
 three of the lower domain, one citta of the higher domain
 that is abandoned through cultivation, and undefiled citta.
 
-“formless-realm dharmas are objects of the corresponding
+“Formless Realm dharmas are objects of the corresponding
 three from the three domains and of the undefiled.” The same
-three classes of formless-realm dharmas are objects of ten
+three classes of Formless Realm dharmas are objects of ten
 cittas: the corresponding three classes in each of the three
 domains, plus undefiled citta. This completes the account
 of the dharmas in the three domains abandoned by seeing
@@ -59,14 +59,14 @@ suffering, seeing origination, and cultivation.
 ## 4. Argument and Doctrinal Determination
 
 The object classes remain fixed while the domain changes.
-For form-realm objects, the count is **3 + 3 + 1 + 1 = 8**:
-three corresponding form-realm cittas, three desire-realm
-cittas below, one cultivation-abandonable formless-realm
+For Form Realm objects, the count is **3 + 3 + 1 + 1 = 8**:
+three corresponding Form Realm cittas, three Desire Realm
+cittas below, one cultivation-abandonable Formless Realm
 citta above, and one undefiled citta. The prose restricts
 the higher citta to the cultivation-abandonable class; it
 does not license three higher-domain cittas in this row.
 
-For formless-realm objects, the count is **3 + 3 + 3 + 1 = 10**:
+For Formless Realm objects, the count is **3 + 3 + 3 + 1 = 10**:
 the corresponding three citta classes in each of the desire,
 form, and formless domains, plus the undefiled class. The
 closing sentence confirms that 5.29–5.30 have exhausted

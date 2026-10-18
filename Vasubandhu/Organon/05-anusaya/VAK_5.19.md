@@ -24,19 +24,19 @@ anuśayas are unwholesome and which are ethically indeterminate.
 | `ūrdhvam` | adverbial accusative | above; in the form and formless realms |
 | `avyākṛtāḥ` | nominative plural masculine | ethically indeterminate |
 | `sarve` | nominative plural masculine | all |
-| `kāme` | locative singular | in the desire-realm |
+| `kāme` | locative singular | in the Desire Realm |
 | `satkāya-darśanam` | nominative singular neuter | body-view; viewing the Base-complex as self or mine |
 | `anta-grāhaḥ` | nominative singular masculine | grasping an extreme; extreme-view |
 | `saha ābhyām` | indeclinable plus instrumental dual | together or conjoined with those two |
 | `mohaḥ` | nominative singular masculine | delusion, ignorance |
 | `śeṣāḥ` | nominative plural masculine | the remaining anuśayas |
 | `tu` | adversative particle | but |
-| `iha` | adverb | here, in the desire-realm |
+| `iha` | adverb | here, in the Desire Realm |
 | `aśubhāḥ` | nominative plural masculine | unwholesome; explained as `akuśala` |
 
 The instrumental dual in `sahābhyām` restricts `moha`: the indeterminate
 ignorance is the ignorance conjoined with the two named views, not every form
-of ignorance in the desire-realm.
+of ignorance in the Desire Realm.
 ## 4. Grammar
 
 **Higher-realm rule**
@@ -50,7 +50,7 @@ above, all [anuśayas] are ethically indeterminate
 `Ūrdhvam` is interpreted by the Bhāṣya as the form and formless realms.
 `Sarve` and `avyākṛtāḥ` agree with the understood `anuśayāḥ`.
 
-**desire-realm exceptions**
+**Desire Realm exceptions**
 
 ```text
 kāme
@@ -72,7 +72,7 @@ but the remaining ones here are unwholesome
 ```
 
 `Iha` returns to `kāme`; the residual classification concerns the remaining
-desire-realm anuśayas.
+Desire Realm anuśayas.
 The Bhāṣya argues through karmic maturation and compatibility with giving
 and ethical discipline. It also reports an earlier teachers' distinction
 between innate and conceptually constructed satkāya-view; that disputed
@@ -82,14 +82,14 @@ qualification does not change the verse's stated class list.
 
 ### Literal Translation
 
-> Above, all are ethically indeterminate. In the desire-realm, body-view,
+> Above, all are ethically indeterminate. In the Desire Realm, body-view,
 > grasping an extreme, and the delusion conjoined with those two [are
 > indeterminate]; but the remaining ones here are unwholesome.
 
 ### Bhāṣya-informed study translation
 
 > All anuśayas of the form and formless realms are ethically indeterminate;
-> in the desire-realm, satkāya-view, extreme-grasping view, and the ignorance
+> in the Desire Realm, satkāya-view, extreme-grasping view, and the ignorance
 > associated with them are likewise indeterminate, while the rest are
 > unwholesome.
 
@@ -125,7 +125,7 @@ not mean cognitively correct, unafflicted, or soteriologically complete.
 **`Aśubha / akuśala` — unwholesome**
 
 The kārikā uses `aśubha`; the Bhāṣya explicitly explains the remaining
-desire-realm anuśayas as `akuśala`. Their classification concerns ethical and
+Desire Realm anuśayas as `akuśala`. Their classification concerns ethical and
 karmic efficacy, not simply the presence of cognitive error.
 
 **`Kliṣṭa` — contaminated or afflicted**
@@ -196,7 +196,7 @@ LacksCause(x, OtherDirectedInjury)
     → EthicallyIndeterminate(x)
 ```
 
-The desire-realm exception adds conjunction and genesis:
+The Desire Realm exception adds conjunction and genesis:
 
 ```text
 ConjoinedWith(Ignorance, IndeterminateView)

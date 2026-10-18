@@ -25,7 +25,7 @@ trayāṇāṃ rūpaje śaikṣe caturṇāṃ tasya śeṣite // 2.73 //
 | dvayoḥ | gen. dual | Of two. |
 | śubhe | loc. sg. | In wholesome. |
 | trayāṇām | gen. pl. | Of three. |
-| rūpaje | loc. sg. | In form-realm. |
+| rūpaje | loc. sg. | In Form Realm. |
 | śaikṣe | loc. sg. | In trainee. |
 | caturṇām | gen. pl. | Of four. |
 | tasya | gen. sg. | Of that. |

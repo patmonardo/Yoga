@@ -138,7 +138,7 @@ of `dvidhā`, not an abstract distinction between real
 and illusory construction.
 
 **`Samanvāgama`.** Being endowed with or possessing.
-The question asks whether a form-realm producer becomes
+The question asks whether a Form Realm producer becomes
 endowed with smell and taste by constructing a desire-
 domain manifestation. The reply denies that consequence.
 
@@ -169,7 +169,7 @@ a synonym for the constructor's realm of rebirth.
 with two body relations yield four combinations. The
 prose then places these four in the desire realm and
 likewise in the form realm. The following question about
-a form-realm-born producer making a desire-domain product
+a Form Realm-born producer making a desire-domain product
 confirms that these are distinct coordinates.
 
 ```text

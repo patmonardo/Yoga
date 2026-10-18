@@ -135,7 +135,7 @@ no mundane visaṃyoga-prāpti
 
 **`Ūrdhvajāta / kāmāvacarakleśa` — higher rebirth and lower affliction**
 
-An ordinary person reborn above the first dhyāna may relinquish a previous mundane attainment of separation from desire-realm afflictions without thereby reacquiring those afflictions. Again, loss of the acquisition does not prove restoration of the abandoned determination.
+An ordinary person reborn above the first dhyāna may relinquish a previous mundane attainment of separation from Desire Realm afflictions without thereby reacquiring those afflictions. Again, loss of the acquisition does not prove restoration of the abandoned determination.
 
 **`Ajñāpaka` — a non-probative reason**
 

@@ -135,7 +135,7 @@ Here **dhātu** is the existential desire realm, not the eighteen cognition-doma
 
 **`Anāgāmin` — non-returner**
 
-Upon destruction of all nine desire-realm grades, the practitioner becomes a **non-returner** because there is no return to *kāmadhātu*. The third fruit is thus defined by complete desire-realm afflictive abandonment.
+Upon destruction of all nine Desire Realm grades, the practitioner becomes a **non-returner** because there is no return to *kāmadhātu*. The third fruit is thus defined by complete Desire Realm afflictive abandonment.
 
 **`Pañcāvarabhāgīya-saṃyojana` — five lower fetters**
 
@@ -143,7 +143,7 @@ The Bhāṣya also invokes abandonment of the five lower fetters. It warns that 
 
 ## 8. Logical Determination
 
-The kārikā completes the desire-realm nine-grade transition:
+The kārikā completes the Desire Realm nine-grade transition:
 
 ```text
 abandoned grades = 6
@@ -191,7 +191,7 @@ one affliction grade before the third fruit. Previously abandoned grades do
 not confer this position until the superior Path becomes present.
 
 
-VAK 6.36 brings the relation between Path and Dhātu into full view. A domain is not merely a place containing action; it is the structured possibility of a kind of return. So long as even the final relevant afflictive grade remains, desire-realm recurrence is still permitted. When that grade is destroyed, the domain loses its determining hold upon the practitioner.
+VAK 6.36 brings the relation between Path and Dhātu into full view. A domain is not merely a place containing action; it is the structured possibility of a kind of return. So long as even the final relevant afflictive grade remains, Desire Realm recurrence is still permitted. When that grade is destroyed, the domain loses its determining hold upon the practitioner.
 
 This also sharpens the role of *Indriya*. The one-interval practitioner is not defined only by what has disappeared but by acquisition of the corresponding uncontaminated faculty. Domain-transcendence therefore has two inseparable sides:
 

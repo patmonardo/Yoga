@@ -5,7 +5,7 @@
 > daśaite sapta saptāṣṭau tri-dvi-dṛṣṭi-vivarjitāḥ |
 > yathākramaṃ prahīyante kāme duḥkhādi-darśanaiḥ || 5.04 ||
 
-> In the desire-realm, these anuśayas—ten through seeing suffering, seven
+> In the Desire Realm, these anuśayas—ten through seeing suffering, seven
 > through seeing origination, seven through seeing cessation, and eight
 > through seeing the Path—are abandoned in order. The two groups of seven
 > lack three views each, and the group of eight lacks two.
@@ -41,19 +41,19 @@ lead-in at [279|21–23].
 
 ## 3. Continuous Conventional Translation
 
-“In the desire-realm, these ten, then seven, seven, and eight,
+“In the Desire Realm, these ten, then seven, seven, and eight,
 respectively excluding three and two views, are abandoned through
 seeing suffering and the remaining truths in order.”
 
 All ten anuśayas already named are to be abandoned in the
-desire-realm through seeing suffering. From these same ten, seven
+Desire Realm through seeing suffering. From these same ten, seven
 are to be abandoned through seeing origination. Seven are to be
 abandoned through seeing cessation, excluding satkāya-view,
 extreme-grasping view, and adherence to discipline and observance.
 Eight are to be abandoned through seeing the path, excluding
 satkāya-view and extreme-grasping view.
 
-Thus these thirty-two anuśayas belonging to the desire-realm are
+Thus these thirty-two anuśayas belonging to the Desire Realm are
 to be abandoned through seeing, because they are abandoned through
 the mere seeing of the truths.
 
@@ -71,7 +71,7 @@ The source's decisive explanation is `satyānāṃ darśanamātreṇa
 prahāṇāt`: the relevant anuśayas are abandoned by the seeing of
 the truths itself. This is a technical mode of removal, not simply
 the adoption of a better verbal opinion. At this point the
-commentary has established the desire-realm classes abandoned
+commentary has established the Desire Realm classes abandoned
 through seeing; it has not yet given the cultivation-abandoned four,
 which open 5.05.
 

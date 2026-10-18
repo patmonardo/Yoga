@@ -104,7 +104,7 @@ study gives the normalized `rūpopagāḥ`.
 
 **Organon determination.** The nine types arise from a structured
 relation among karmic timing, afflictive activity, and faculty, within
-three modes of form-realm completion. This is project synthesis; the
+three modes of Form Realm completion. This is project synthesis; the
 text's alternative subdivision should remain visible rather than
 being collapsed into a single mandatory taxonomy.
 

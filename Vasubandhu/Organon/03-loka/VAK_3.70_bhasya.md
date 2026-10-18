@@ -5,7 +5,7 @@
 > pañcavarṣopamo yāvad daśavarṣopamaḥ śiśuḥ /
 > saṃbhavaty eṣu saṃpūrṇāḥ savastrāś caiva rūpiṇaḥ // 3.70 //
 
-> Among these, children appear like those aged five to ten; Form-realm
+> Among these, children appear like those aged five to ten; Form Realm
 > beings are fully formed and clothed.
 
 The Bhāṣya distributes the five-to-ten-year range across the six kāma-deva
@@ -46,7 +46,7 @@ Among these, a child resembling one of five years up through one resembling
 one of ten years arises. This occurs respectively in the six deva classes.
 They, however, mature very quickly.
 
-The form-realm devas arise complete and clothed: they are born with complete
+The Form Realm devas arise complete and clothed: they are born with complete
 bodies, enveloped in clothing.
 
 All devas speak the ārya language.

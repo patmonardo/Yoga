@@ -51,7 +51,7 @@ te hi
 ataḥ ekīkṛtāḥ
 ```
 
-`Te` refers to the form- and formless-realm anuśayas of VAK 5.35. The three
+`Te` refers to the form- and Formless Realm anuśayas of VAK 5.35. The three
 coordinated predicates give the reason introduced by `hi`; `ataḥ` then marks
 the conclusion that they are gathered into one `bhavāsrava`.
 
@@ -83,7 +83,7 @@ introduced into the kārikā.
 
 ### Bhāṣya-informed study translation
 
-> The form- and formless-realm anuśayas are unified as one existence āsrava
+> The form- and Formless Realm anuśayas are unified as one existence āsrava
 > because they are ethically indeterminate, inward-directed, and situated on
 > concentrated planes. Ignorance, the root of all these afflictions, is
 > classified as a separate āsrava.
@@ -105,7 +105,7 @@ is the distinctness of its office within that field.
 
 **`Avyākṛta` — ethically indeterminate**
 
-One shared determination of form- and formless-realm affliction. It does not
+One shared determination of form- and Formless Realm affliction. It does not
 mean causally inert or liberating.
 
 **`Antarmukha-pravṛtta` — inward-directed in operation**
@@ -126,7 +126,7 @@ existence-influx.
 **`Ekīkṛta` — unified**
 
 Gathered under a single functional classification. This does not erase the
-distinction between the form- and formless-realms.
+distinction between the form- and Formless Realms.
 
 **`Mūla` — root**
 

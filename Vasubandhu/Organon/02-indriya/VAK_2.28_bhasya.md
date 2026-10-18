@@ -6,7 +6,7 @@
 >
 > dvāviṃśatiś caitasikāḥ kaukṛtyam adhikaṃ kvacit // 2.28 //
 
-> In wholesome desire-realm consciousness, twenty-two mental factors occur
+> In wholesome Desire Realm consciousness, twenty-two mental factors occur
 > with vitarka and vicāra; regret may be additional where present.
 
 ## 2. Continuous Sanskrit Witness
@@ -45,7 +45,7 @@ The unit is printed 57.09–58.03 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 ## 3. Continuous Conventional Translation
 
-It must now be stated how many mental factors necessarily occur in which consciousness. First, desire-realm consciousness is fivefold: wholesome and unwholesome, the unwholesome being twofold, isolated or associated with another affliction, and indeterminate, twofold, obscured-indeterminate and unobscured-indeterminate. Desire-realm consciousness is necessarily accompanied by vitarka and vicāra. Hence, because accompanied by them, in wholesome desire-realm consciousness there are twenty-two mental factors. They necessarily occur: ten universal great-ground factors, ten wholesome great-ground factors, vitarka, and vicāra. In some cases regret is additional. Regret is not present in every wholesome consciousness. Where it is, adding it makes twenty-three.
+It must now be stated how many mental factors necessarily occur in which consciousness. First, Desire Realm consciousness is fivefold: wholesome and unwholesome, the unwholesome being twofold, isolated or associated with another affliction, and indeterminate, twofold, obscured-indeterminate and unobscured-indeterminate. Desire Realm consciousness is necessarily accompanied by vitarka and vicāra. Hence, because accompanied by them, in wholesome Desire Realm consciousness there are twenty-two mental factors. They necessarily occur: ten universal great-ground factors, ten wholesome great-ground factors, vitarka, and vicāra. In some cases regret is additional. Regret is not present in every wholesome consciousness. Where it is, adding it makes twenty-three.
 
 What is this called kaukṛtya? Kaukṛtya is the state of something badly done. Here, however, the dharma that has this as its support is called kaukṛtya: regret in consciousness. Similarly, the gateway to liberation that has emptiness as its support is called emptiness, and non-greed that has the unattractive as its support is called the unattractive. In ordinary usage too, the occupants are designated by the place: the whole village has arrived, the whole country has arrived. What is badly done is the basis of regret. Alternatively, this is the cause's name applied to the effect, as in the statement that these six Essences of contact should be understood as former action.
 
@@ -53,7 +53,7 @@ How is that which has something not done as its support called kaukṛtya? Even 
 
 ## 4. Movement and Voice of the Commentary
 
-The question opens the counts. Five desire-realm cases are prepared. This verse is the wholesome one. Twenty-two, then regret as a conditional addition, then the name. Two accounts of transferred designation. The second is marked alternatively. Wholesome and unwholesome regret close the unit. No school.
+The question opens the counts. Five Desire Realm cases are prepared. This verse is the wholesome one. Twenty-two, then regret as a conditional addition, then the name. Two accounts of transferred designation. The second is marked alternatively. Wholesome and unwholesome regret close the unit. No school.
 
 ## 5. The Fivefold Setting and Twenty-Two
 

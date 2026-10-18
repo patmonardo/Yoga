@@ -25,15 +25,15 @@ discussion of kleśas and upakleśas.
 | `māyā` | nominative singular feminine | deceit |
 | `śāṭhyam` | nominative singular neuter | crookedness or duplicity |
 | `ca` | conjunction | and |
-| `kāma-ādya-dhyānayoḥ` | locative dual compound | in the desire-realm and first dhyāna |
+| `kāma-ādya-dhyānayoḥ` | locative dual compound | in the Desire Realm and first dhyāna |
 | `brahma-vañcanāt` | ablative singular neuter compound | because of the deception of Brahmā |
 | `styāna-auddhatya-madāḥ` | nominative plural masculine coordinative compound | torpor, excitation, and intoxication |
 | `dhātu-traye` | locative singular neuter | in the three realms |
 | `anye` | nominative plural masculine | the others |
-| `kāma-dhātu-jāḥ` | nominative plural masculine compound | arising or occurring in the desire-realm |
+| `kāma-dhātu-jāḥ` | nominative plural masculine compound | arising or occurring in the Desire Realm |
 
 
-The locative dual does not mean the desire-realm and all meditative states. It
+The locative dual does not mean the Desire Realm and all meditative states. It
 specifically joins `kāma` with `ādya-dhyāna`, the first dhyāna.
 
 ## 4. Grammar
@@ -60,7 +60,7 @@ styāna-auddhatya-madāḥ
 The plural compound takes a plural elided copula. The Bhāṣya restates the three
 as `traidhātuka`, belonging to all three realms.
 
-**desire-realm complement**
+**Desire Realm complement**
 
 ```text
 anye
@@ -74,22 +74,22 @@ sixteen-member upakleśa field. The Bhāṣya calculates the result as eleven.
 
 ### Literal Translation
 
-> Deceit and crookedness occur in the desire-realm and the first dhyāna,
+> Deceit and crookedness occur in the Desire Realm and the first dhyāna,
 > because of the deception of Brahmā. Torpor, excitation, and intoxication
-> occur in the three realms; the others arise in the desire-realm.
+> occur in the three realms; the others arise in the Desire Realm.
 
 ### Bhāṣya-informed study translation
 
-> Deceit and crookedness occur in the desire-realm and first dhyāna, as
+> Deceit and crookedness occur in the Desire Realm and first dhyāna, as
 > shown by Mahābrahmā's attempted deception. Torpor, excitation, and
 > intoxication occur in all three realms; the other eleven secondary
-> afflictions arise only in the desire-realm.
+> afflictions arise only in the Desire Realm.
 
 ## 6. Philosophical Translation
 
 > Class-membership does not determine range of occurrence. Two upakleśas cross
-> from the desire-realm into the first dhyāna; three range through the entire
-> three-realm field; eleven remain restricted to the desire-realm. These
+> from the Desire Realm into the first dhyāna; three range through the entire
+> three-realm field; eleven remain restricted to the Desire Realm. These
 > ranges are additional determinations alongside origin, operation, ethical
 > value, and mode of abandonment. The Brahmā case also grounds possibility by
 > an attested doctrinal example: higher cosmological position does not by itself
@@ -109,7 +109,7 @@ are to be understood as belonging to which locations?
 
 **`Māyā` — deceit**
 
-Occurs in the desire-realm and first dhyāna. Its first-dhyāna occurrence is
+Occurs in the Desire Realm and first dhyāna. Its first-dhyāna occurrence is
 supported by Mahābrahmā's attempted deception of Aśvajit.
 
 **`Śāṭhya` — crookedness or duplicity**
@@ -149,7 +149,7 @@ Range over `kāmadhātu`, `rūpadhātu`, and `ārūpyadhātu`. It does not mean 
 the factor has the same ethical value in each realm; VAK 5.52 determines that
 axis separately.
 
-**`Kāmāvacara` / `kāmadhātuja` — desire-realm occurrence**
+**`Kāmāvacara` / `kāmadhātuja` — Desire Realm occurrence**
 
 The restricted range of the remaining eleven upakleśas.
 
@@ -157,8 +157,8 @@ The restricted range of the remaining eleven upakleśas.
 
 ```text
 16 total upakleśas
-− 5 with range beyond desire-realm
-= 11 desire-realm-only upakleśas
+− 5 with range beyond Desire Realm
+= 11 Desire Realm-only upakleśas
 ```
 
 The five removed are deceit, crookedness, torpor, excitation, and intoxication.

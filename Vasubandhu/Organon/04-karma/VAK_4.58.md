@@ -58,7 +58,7 @@ the manifest derangement is itself the immediate maturation.
 **`akurukāminām`: population phrase**
 
 The Kārikā's compound admits the division `a-kuru-kāminām` (“among
-Desire-Realm beings outside the Kurus”). The Bhāṣya instead gives
+Desire Realm beings outside the Kurus”). The Bhāṣya instead gives
 `akuruṇāṃ kāminām` (“among those without compassion in the Desire Realm”).
 The running witness preserves the compressed form, so the intended division
 and population range remain uncertain.
@@ -246,7 +246,7 @@ cognition-series and explains a mediate route: karmic maturation disturbs the bo
 constitution through the Great Elements, after which mental cognition and
 recollection are disordered. It reads the population phrase as `akuruṇāṃ kāminām`
 (“those without compassion in the Desire Realm”); the competing division
-`a-kuru-kāminām` (“Desire-Realm beings outside the Kurus”) remains possible, so the
+`a-kuru-kāminām` (“Desire Realm beings outside the Kurus”) remains possible, so the
 population range is unresolved.
 
 **Practical Dependent Origination**

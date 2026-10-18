@@ -6,7 +6,7 @@
 >
 > pṛthagjanatvaṃ tatprāptibhūsaṃcārād vihīyate // 2.40 //
 
-> Non-acquisition of desire-realm and other realm-included dharmas, and of
+> Non-acquisition of Desire Realm and other realm-included dharmas, and of
 > the uncontaminated, is likewise threefold. Non-acquisition of the path is
 > ordinary-person status, relinquished by acquiring the path or by
 > transition of ground.

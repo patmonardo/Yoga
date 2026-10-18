@@ -19,7 +19,7 @@ dvāviṃśatiś caitasikāḥ kaukṛtyam adhikaṃ kvacit // 2.28 //
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | sa-vitarka-vicāratvāt | abl. sg. n.; compound | because accompanied by vitarka and vicāra |
-| kuśale kāma-cetasi | loc. sg. n. + loc. sg. n. | in wholesome desire-realm consciousness |
+| kuśale kāma-cetasi | loc. sg. n. + loc. sg. n. | in wholesome Desire Realm consciousness |
 | dvāviṃśatiḥ | nom. sg. f.; numeral | twenty-two |
 | caitasikāḥ | nom. pl. m. | mental factors |
 | kaukṛtyam | nom. sg. n. | regret |
@@ -34,19 +34,19 @@ S[REALM=desire, ETHICAL=wholesome] -> TwentyTwo[UNIVERSAL=10, WHOLESOME=10, VITA
 S[REALM=desire, ETHICAL=wholesome, REGRET=true] -> TwentyThree
 ```
 
-Desire-realm consciousness forces `VITARKA` and `VICARA`.  
+Desire Realm consciousness forces `VITARKA` and `VICARA`.  
 Regret is optional; it does not redefine the base.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> In wholesome desire-realm consciousness, because it is accompanied by
+> In wholesome Desire Realm consciousness, because it is accompanied by
 > vitarka and vicāra, there are twenty-two mental factors; regret may be
 > additional in some cases.
 ### Bhāṣya-informed study translation
 
-> In wholesome desire-realm consciousness, twenty-two mental factors occur
+> In wholesome Desire Realm consciousness, twenty-two mental factors occur
 > with vitarka and vicāra; regret may be additional where present.
 ## 6. Philosophical Translation
 
@@ -56,7 +56,7 @@ Regret is optional; it does not redefine the base.
 
 | Sanskrit | Running word | Determination |
 |---|---|---|
-| kāma-cetas | desire-realm consciousness | with vitarka and vicāra |
+| kāma-cetas | Desire Realm consciousness | with vitarka and vicāra |
 | vitarka, vicāra | vitarka, vicāra | counted; not defined here |
 | kaukṛtya | regret | the factor, not the deed |
 | vipratisāra | regret in consciousness | the definition |
