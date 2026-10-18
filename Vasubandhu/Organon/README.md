@@ -73,6 +73,31 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   the grammar may derive the §8 formula by the parse (see 8.13). `Pred => {}`
   means an empty extension; NLTK itself reads it as a phantom `''` element,
   so the audit loader corrects this.
+- The chapter 1 Grammar–Logic pilot (1.01–1.03) annotates the normalized
+  IAST token stream beneath the Lexical Analysis table. It preserves verse
+  order, opens sandhi, and marks Bhāṣya-resolved ellipses with `∅-` and
+  `SUPPLIED=prose`. The annotation must match the grammar's `# tokens:`
+  exactly; the Sanskrit witness remains unchanged.
+- In that pilot, §4 derives a closed, truth-valued `SEM` through
+  `FeatureChartParser` and lambda reduction. §8 reuses it in a FOL theory,
+  declares `# EXPECT verse T`, and supplies a finite valuation. Bhāṣya
+  elaboration and Organon interpretation remain identifiable; the parse is
+  a declared logical projection, not a claim to encode every pragmatic or
+  temporal distinction. Keep āśraya distinct from other conditioning
+  relations; do not introduce Object for viṣaya or ālambana.
+- Validate this stronger pilot contract with
+  `python Vasubandhu/Organon/tests/audit_nltk_blocks.py --chapter 1 --start 1 --end 3 --strict`.
+  Strict mode checks token annotation, dependency vocabulary coverage,
+  semantic closure, reuse in the theory, symbol declarations, and expected
+  truth values. Dependency coverage is not dependency parsing: the block
+  records head–dependent token types, including repeated *ca*, not
+  occurrence-indexed or labelled arcs. Earlier chapters retain their
+  existing audit mode until individually reviewed.
+- Run the pilot's positive and negative tests with
+  `python -m unittest discover -s Vasubandhu/Organon/tests -p 'test_dhatu_nltk_pilot.py'`.
+  These change agreement features and finite valuations to test rejection
+  of wrong readings. Satisfaction in a finite model is not proof of the
+  translation or a philosophical theorem.
 - Only `Literal Translation` and `Bhāṣya-informed study translation` are
   subsection headings. Verse-specific divisions inside the other stages are
   bold editorial signposts, not additional report sections.

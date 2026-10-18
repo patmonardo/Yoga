@@ -31,31 +31,65 @@ tasmai namaskṛtya yathārthaśāstre śāstraṃ pravakṣyāmy abhidharmakoś
 | pravakṣyāmi | first-person singular future | I shall proclaim |
 | abhidharmakośam | accusative neuter singular | Treasury of Abhidharma |
 
+**Grammar tokens.** Normalized IAST in verse order; sandhi is opened,
+not the Sanskrit witness changed. Hyphenated compounds remain single
+tokens corresponding to the table rows. No supplied token is needed.
+
+```text
+# tokens: yaḥ sarvathā sarva-hata-andhakāraḥ saṃsāra-paṅkāt jagat ujjahāra tasmai namaskṛtya yathārtha-śāstre śāstram pravakṣyāmi abhidharmakośam
+```
+
 ## 4. Grammar
 
-The verse opens with a relative-correlative structure:
+The relative *yaḥ* and correlative *tasmai* refer to the same teacher.
+The adjectives agree with that masculine singular referent; the dative
+*yathārtha-śāstre* identifies the recipient of homage. The absolutive
+*namaskṛtya* shares the first-person subject of *pravakṣyāmi*.
 
-```text
-yaḥ ... tasmai
-    he who ... to him
+```nltk-fcfg
+% start S
+# tokens: yaḥ sarvathā sarva-hata-andhakāraḥ saṃsāra-paṅkāt jagat ujjahāra tasmai namaskṛtya yathārtha-śāstre śāstram pravakṣyāmi abhidharmakośam
+S[SEM=<?r(?h)(?a)>] -> RELCL[NUM=?n,GEN=?g,SEM=?r] HOMAGE[NUM=?n,GEN=?g,SEM=?h] ANNOUNCE[SEM=?a]
+RELCL[NUM=?n,GEN=?g,SEM=<?rel(?quality)(?rescue)>] -> REL[CASE=nom,NUM=?n,GEN=?g,SEM=?rel] QUALITY[CASE=nom,NUM=?n,GEN=?g,SEM=?quality] RESCUE[NUM=?n,SEM=?rescue]
+QUALITY[CASE=?c,NUM=?n,GEN=?g,SEM=<?mode(?quality)>] -> ADV[SEM=?mode] ADJ[CASE=?c,NUM=?n,GEN=?g,SEM=?quality]
+RESCUE[NUM=?n,SEM=<?verb(?world)(?source)>] -> SOURCE[CASE=abl,SEM=?source] N[CASE=acc,NUM=sg,GEN=n,SEM=?world] V[NUM=?n,PERS=third,TENSE=perfect,SEM=?verb]
+HOMAGE[NUM=?n,GEN=?g,SEM=<?bow(?teacher)>] -> CORR[CASE=dat,NUM=?n,GEN=?g] ABS[PERS=first,SEM=?bow] TEACHER[CASE=dat,NUM=?n,GEN=?g,SEM=?teacher]
+ANNOUNCE[SEM=<?verb(?work)>] -> WORK[CASE=acc,NUM=?n,GEN=?g] V[NUM=sg,PERS=first,TENSE=future,SEM=?verb] TITLE[CASE=acc,NUM=?n,GEN=?g,SEM=?work]
+REL[CASE=nom,NUM=sg,GEN=m,SEM=<\P.\Q.\H.\A.exists x.(P(x) & Q(x) & H(x) & A)>] -> 'yaḥ'
+ADV[SEM=<\P.\x.(P(x) & DarknessDestroyedEveryWay(x))>] -> 'sarvathā'
+ADJ[CASE=nom,NUM=sg,GEN=m,SEM=<\x.DarknessDestroyedRegardingAll(x)>] -> 'sarva-hata-andhakāraḥ'
+SOURCE[CASE=abl,SEM=<samsara_mire>] -> 'saṃsāra-paṅkāt'
+N[CASE=acc,NUM=sg,GEN=n,SEM=<world>] -> 'jagat'
+V[NUM=sg,PERS=third,TENSE=perfect,SEM=<\w.\s.\x.RaisedFrom(x,w,s)>] -> 'ujjahāra'
+CORR[CASE=dat,NUM=sg,GEN=m] -> 'tasmai'
+ABS[PERS=first,SEM=<\P.\x.(P(x) & BowedTo(speaker,x))>] -> 'namaskṛtya'
+TEACHER[CASE=dat,NUM=sg,GEN=m,SEM=<\x.TeachesAccordingToReality(x)>] -> 'yathārtha-śāstre'
+WORK[CASE=acc,NUM=sg,GEN=n] -> 'śāstram'
+V[NUM=sg,PERS=first,TENSE=future,SEM=<\w.(Treatise(w) & AnnouncesFutureExposition(speaker,w))>] -> 'pravakṣyāmi'
+TITLE[CASE=acc,NUM=sg,GEN=n,SEM=<kosa>] -> 'abhidharmakośam'
 ```
 
-The Buddha is described by two acts:
-
-```text
-1. sarvathā sarva-hata-andhakāraḥ
-   darkness destroyed in every way and concerning everything
-
-2. saṃsāra-paṅkāt jagat ujjahāra
-   he raised the world from the mire of saṃsāra
+```nltk-dep
+'pravakṣyāmi' -> 'ujjahāra' | 'namaskṛtya' | 'śāstram'
+'ujjahāra' -> 'yaḥ' | 'sarva-hata-andhakāraḥ' | 'saṃsāra-paṅkāt' | 'jagat'
+'sarva-hata-andhakāraḥ' -> 'sarvathā'
+'namaskṛtya' -> 'tasmai'
+'tasmai' -> 'yathārtha-śāstre'
+'śāstram' -> 'abhidharmakośam'
 ```
 
-The dative `yathārtha-śāstre` stands in apposition to `tasmai`: homage is offered to him as the teacher of reality. After bowing to that teacher, Vasubandhu announces the work:
+**Close construe.** He who has darkness destroyed in every way and
+regarding all, who raised the world from the mire of saṃsāra: having
+bowed to him, the teacher according to reality, I shall proclaim the
+Abhidharmakośa treatise.
 
-```text
-śāstraṃ pravakṣyāmi abhidharmakośam
-    I shall proclaim the treatise, the Abhidharmakośa
-```
+The parse binds the relative and correlative through one semantic variable,
+not an equality between their nominative and dative cases. The Bhāṣya
+identifies this teacher as Buddha and explains rescue through instruction,
+not supernatural intervention. Those explanations are not extra overt
+tokens. The future is an announcement, not an assertion that exposition
+has already occurred; the temporal ordering of homage is stated in the
+construe but not independently axiomatized in this FOL projection.
 
 ## 5. Translation
 
@@ -94,23 +128,46 @@ Organon rendering:
 
 ## 8. Logical Determination
 
-The opening structure is:
+**Kārikā, derived.** The parse composes the teacher's qualifications,
+rescue, homage, and announcement. Both universal qualifications on the
+destruction of darkness are retained as distinct predicates. Their internal
+quantification over modes and knowables is not expanded in this pilot.
 
-```text
-obscuration
-    ↓
-removal of darkness
-    ↓
-raising from saṃsāra
-    ↓
-proclamation of the Dharma-treatise
+```nltk-sem
+# derived by the section 4 parse
+exists x.(DarknessDestroyedRegardingAll(x) & DarknessDestroyedEveryWay(x) & RaisedFrom(x,world,samsara_mire) & TeachesAccordingToReality(x) & BowedTo(speaker,x) & Treatise(kosa) & AnnouncesFutureExposition(speaker,kosa))
 ```
 
-This is not a neutral preface. It establishes the condition of Abhidharma:
-
-```text
-Dharma-analysis begins where darkness has been overcome.
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+exists x.(DarknessDestroyedRegardingAll(x) & DarknessDestroyedEveryWay(x) & RaisedFrom(x,world,samsara_mire) & TeachesAccordingToReality(x) & BowedTo(speaker,x) & Treatise(kosa) & AnnouncesFutureExposition(speaker,kosa))
 ```
+
+```nltk-valuation
+speaker => author
+kosa => work
+world => beings
+samsara_mire => mire
+DarknessDestroyedRegardingAll => {teacher}
+DarknessDestroyedEveryWay => {teacher}
+RaisedFrom => {(teacher,beings,mire)}
+TeachesAccordingToReality => {teacher}
+BowedTo => {(author,teacher)}
+Treatise => {work}
+AnnouncesFutureExposition => {(author,work)}
+```
+
+**Bhāṣya determination.** Buddha is the referent; the benefit to others
+operates through teaching reality. The finite valuation witnesses the
+verse's predication; it does not prove exhaustive knowledge or historical
+events. Removing either darkness predicate, or assigning homage and
+rescue to different teachers, must make this formula false.
+
+**Organon interpretation.** The movement from obscuration through its
+overcoming to instruction orients Dharma-analysis toward liberation.
+It is not a source-derived universal rule that only a fully liberated
+person may begin studying Abhidharma.
 
 ## 9. Interpretive Note
 

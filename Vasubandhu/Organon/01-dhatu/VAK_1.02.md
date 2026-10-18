@@ -44,78 +44,78 @@ Sandhi to retain: *sānucarā* = *sa-anucarā*; *tasyārthato 'smin* =
 *tasya arthataḥ asmin*; *sa cāśrayo 'syety* =
 *saḥ ca āśrayaḥ asya iti*.
 
-The supplied nouns in the elliptical sequence must remain visible:
+**Grammar tokens.** Normalized IAST in verse order. `∅-prajñā` supplies
+the noun qualified by *yā*; `∅-tatprāptaye` repeats the purpose for the
+treatise; `∅-abhidharmaḥ` repeats the predicate for both conventional
+members. These are Bhāṣya-resolved ellipses, not witness words.
 
 ```text
-yā [prajñā] api ... tat-prāptaye
-    whatever prajñā also [is directed] to attaining that
-
-yat ca śāstram [tat-prāptaye]
-    and whatever treatise [is directed] to attaining that
+# tokens: prajñā amalā sānucarā abhidharmaḥ tatprāptaye yā ∅-prajñā api ca yat ca śāstram ∅-tatprāptaye ∅-abhidharmaḥ tasya arthataḥ asmin samanupraveśāt saḥ ca āśrayaḥ asya iti abhidharmakośam
 ```
-
-The Kārikā itself does not state that the second prajñā is `sāsrava`. That determination is supplied by the Bhāṣya.
 
 ## 4. Grammar
 
-### First predication: ultimate Abhidharma
+Feminine *amalā* and *sānucarā* agree with *prajñā*, not the masculine
+predicate noun *abhidharmaḥ*. The dative purpose governs both conventional
+members. The last clauses distinguish entry by meaning from supporting
+source and then name the work.
 
-```text
-prajñā amalā sānucarā = abhidharmaḥ
-
-subject feature agreement
-    prajñā       feminine nominative singular
-    amalā        feminine nominative singular
-    sānucarā     feminine nominative singular
-
-predicate
-    abhidharmaḥ  masculine nominative singular
+```nltk-fcfg
+% start S
+# tokens: prajñā amalā sānucarā abhidharmaḥ tatprāptaye yā ∅-prajñā api ca yat ca śāstram ∅-tatprāptaye ∅-abhidharmaḥ tasya arthataḥ asmin samanupraveśāt saḥ ca āśrayaḥ asya iti abhidharmakośam
+S[SEM=<(?u & ?c & ?t)>] -> ULTIMATE[SEM=?u] CONVENTIONAL[SEM=?c] TITLECLAUSE[SEM=?t]
+ULTIMATE[SEM=<all x.(?retinue(?pure(?prajna))(x) -> ?pred(x))>] -> N[K=prajna,CASE=nom,NUM=?n,GEN=?g,SEM=?prajna] ADJ[K=stainless,CASE=nom,NUM=?n,GEN=?g,SEM=?pure] ADJ[K=retinue,CASE=nom,NUM=?n,GEN=?g,SEM=?retinue] PRED[CASE=nom,NUM=?n,SEM=?pred]
+CONVENTIONAL[SEM=<(?q(?p)(?purpose)(?pred) & ?qt(?t)(?purpose2)(?pred))>] -> PURPOSE[CASE=dat,SEM=?purpose] REL[CASE=nom,NUM=?n,GEN=?g,SEM=?q] COVERT[K=prajna,CASE=nom,NUM=?n,GEN=?g,SUPPLIED=prose,SEM=?p] PTCL[K=also] PTCL[K=and] REL[CASE=nom,NUM=?nt,GEN=?gt,SEM=?qt] PTCL[K=and] N[K=treatise,CASE=nom,NUM=?nt,GEN=?gt,SEM=?t] COVERT[K=purpose,CASE=dat,SUPPLIED=prose,SEM=?purpose2] COVERT[K=predicate,CASE=nom,SUPPLIED=prose,SEM=?pred]
+TITLECLAUSE[SEM=<(?entry & ?support & ?name)>] -> ENTRY[SEM=?entry] SUPPORT[SEM=?support] PTCL[K=iti] NAME[CASE=acc,SEM=?name]
+ENTRY[SEM=<?entry(?mode)(?source)(?work)>] -> PRON[K=that,CASE=gen,SEM=?source] ADV[SEM=?mode] PRON[K=this,CASE=loc,SEM=?work] ENTRYHEAD[CASE=abl,SEM=?entry]
+SUPPORT[SEM=<?support(?source)(?work)>] -> PRON[K=that,CASE=nom,NUM=?n,GEN=?g,SEM=?source] PTCL[K=and] SUPPORTHEAD[CASE=nom,NUM=?n,GEN=?g,SEM=?support] PRON[K=this,CASE=gen,SEM=?work]
+N[K=prajna,CASE=nom,NUM=sg,GEN=f,SEM=<\x.Prajna(x)>] -> 'prajñā'
+ADJ[K=stainless,CASE=nom,NUM=sg,GEN=f,SEM=<\P.\x.(P(x) & Stainless(x))>] -> 'amalā'
+ADJ[K=retinue,CASE=nom,NUM=sg,GEN=f,SEM=<\P.\x.(P(x) & WithRetinue(x))>] -> 'sānucarā'
+PRED[CASE=nom,NUM=sg,GEN=m,SEM=<\x.Abhidharma(x)>] -> 'abhidharmaḥ'
+PURPOSE[CASE=dat,SEM=<\x.ForAttainmentOf(x,stainless_prajna)>] -> 'tatprāptaye'
+REL[CASE=nom,NUM=sg,GEN=f,SEM=<\P.\Q.\R.all x.((P(x) & Q(x)) -> R(x))>] -> 'yā'
+COVERT[K=prajna,CASE=nom,NUM=sg,GEN=f,SUPPLIED=prose,SEM=<\x.Prajna(x)>] -> '∅-prajñā'
+PTCL[K=also] -> 'api'
+PTCL[K=and] -> 'ca'
+REL[CASE=nom,NUM=sg,GEN=n,SEM=<\P.\Q.\R.all x.((P(x) & Q(x)) -> R(x))>] -> 'yat'
+N[K=treatise,CASE=nom,NUM=sg,GEN=n,SEM=<\x.Treatise(x)>] -> 'śāstram'
+COVERT[K=purpose,CASE=dat,SUPPLIED=prose,SEM=<\x.ForAttainmentOf(x,stainless_prajna)>] -> '∅-tatprāptaye'
+COVERT[K=predicate,CASE=nom,SUPPLIED=prose,SEM=<\x.Abhidharma(x)>] -> '∅-abhidharmaḥ'
+PRON[K=that,CASE=gen,SEM=<abhidharma_source>] -> 'tasya'
+ADV[SEM=<principal_meaning>] -> 'arthataḥ'
+PRON[K=this,CASE=loc,SEM=<kosa>] -> 'asmin'
+ENTRYHEAD[CASE=abl,SEM=<\m.\s.\w.ContainsByMeaning(w,s,m)>] -> 'samanupraveśāt'
+PRON[K=that,CASE=nom,NUM=sg,GEN=m,SEM=<abhidharma_source>] -> 'saḥ'
+SUPPORTHEAD[CASE=nom,NUM=sg,GEN=m,SEM=<\s.\w.SourceFor(s,w)>] -> 'āśrayaḥ'
+PRON[K=this,CASE=gen,SEM=<kosa>] -> 'asya'
+PTCL[K=iti] -> 'iti'
+NAME[CASE=acc,SEM=<Named(kosa,kosa_title)>] -> 'abhidharmakośam'
 ```
 
-The difference in gender is expected: the adjectives agree with `prajñā`, while `abhidharmaḥ` is a predicate noun.
-
-### Extended relative construction: conventional Abhidharma
-
-```text
-tat-prāptaye
-    ├── yā [prajñā] api
-    └── yat ca śāstram
+```nltk-dep
+'abhidharmaḥ' -> 'prajñā' | '∅-abhidharmaḥ' | 'abhidharmakośam'
+'prajñā' -> 'amalā' | 'sānucarā'
+'∅-abhidharmaḥ' -> '∅-prajñā' | 'śāstram'
+'∅-prajñā' -> 'tatprāptaye' | 'yā' | 'api' | 'ca'
+'śāstram' -> 'yat' | 'ca' | '∅-tatprāptaye'
+'abhidharmakośam' -> 'samanupraveśāt' | 'āśrayaḥ' | 'iti'
+'samanupraveśāt' -> 'tasya' | 'arthataḥ' | 'asmin'
+'āśrayaḥ' -> 'saḥ' | 'ca' | 'asya'
 ```
 
-The dative `tat-prāptaye` gives the common purpose governing both the unexpressed `prajñā` and the expressed `śāstram`: they are ordered toward attainment of that, namely the stainless prajñā already defined.
+**Close construe.** Stainless prajñā with attendants is Abhidharma; so
+also are prajñā and the treatise directed to its attainment. Because
+Abhidharma enters this work by meaning and is its supporting source,
+the work is called Abhidharmakośa.
 
-The Bhāṣya assigns the two levels explicitly:
-
-```text
-pāramārthika Abhidharma
-    amalā prajñā sānucarā
-    stainless prajñā with attendants
-
-sāṃketika Abhidharma
-    yā [prajñā] tat-prāptaye
-    yat śāstram tat-prāptaye
-    prajñā and treatise directed to its attainment
-```
-
-It further determines the first as an `anāsrava` five-Base complex, and the path-prajñā as `sāsrava` prajñā constituted through hearing, reflection, cultivation, or birth-acquisition. These are Bhāṣya determinations, not words contained in the Kārikā.
-
-### The two title derivations
-
-The last half-verse permits two directions of construal, made explicit by the Bhāṣya:
-
-```text
-1. tasya arthataḥ asmin samanupraveśāt
-
-   Abhidharma ──enters by principal meaning──▶ this treatise
-   contained                                      container
-
-2. saḥ ca āśrayaḥ asya
-
-   Abhidharma ──serves as supporting source──▶ this treatise
-   source                                         extracted work
-```
-
-In the first derivation, this treatise occupies the place of a treasury because it contains the principal meaning of śāstric Abhidharma. In the second, Abhidharma is itself the treasury or source from which this treatise is drawn.
+The Bhāṣya calls the first an *anāsrava* five-Base complex and the second
+prajñā *sāsrava*, constituted through hearing, reflection, cultivation,
+or birth-acquisition. These are commentary determinations, not extra
+witness words. The title has two derivations: this work is treasury-like
+by containment; Abhidharma is the treasury-source from which the work
+is drawn. The formula records their different directions, not a general
+equation between āśraya and other conditioning relations.
 
 ## 5. Translation
 
@@ -179,6 +179,50 @@ Organon rendering:
 | dharma-lakṣaṇa | mark of a dharma | Second facing. The Sāṃkhya hinge. Not dropped |
 
 ## 8. Logical Determination
+
+**Kārikā, derived.** The first predication is an implication, not a
+biconditional excluding conventional Abhidharma. The purpose qualification
+is repeated for both conventional members. The title's two grounds retain
+their different directions; the causal force of the naming is stated in
+the construe, not expanded into a general causal law.
+
+```nltk-sem
+# derived by the section 4 parse
+((all x.(((Prajna(x) & Stainless(x)) & WithRetinue(x)) -> Abhidharma(x))) & ((all x.((Prajna(x) & ForAttainmentOf(x,stainless_prajna)) -> Abhidharma(x))) & (all x.((Treatise(x) & ForAttainmentOf(x,stainless_prajna)) -> Abhidharma(x)))) & (ContainsByMeaning(kosa,abhidharma_source,principal_meaning) & SourceFor(abhidharma_source,kosa) & Named(kosa,kosa_title)))
+```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+((all x.(((Prajna(x) & Stainless(x)) & WithRetinue(x)) -> Abhidharma(x))) & ((all x.((Prajna(x) & ForAttainmentOf(x,stainless_prajna)) -> Abhidharma(x))) & (all x.((Treatise(x) & ForAttainmentOf(x,stainless_prajna)) -> Abhidharma(x)))) & (ContainsByMeaning(kosa,abhidharma_source,principal_meaning) & SourceFor(abhidharma_source,kosa) & Named(kosa,kosa_title)))
+```
+
+```nltk-valuation
+stainless_prajna => pure
+abhidharma_source => source
+principal_meaning => meaning
+kosa => work
+kosa_title => title
+Prajna => {pure,path}
+Stainless => {pure}
+WithRetinue => {pure,path}
+Treatise => {work}
+ForAttainmentOf => {(path,pure),(work,pure)}
+Abhidharma => {pure,path,work}
+ContainsByMeaning => {(work,source,meaning)}
+SourceFor => {(source,work)}
+Named => {(work,title)}
+```
+
+**Model checks.** All three Abhidharma classifications have witnesses;
+the implications do not pass merely by empty antecedents. Removing a
+conventional member from Abhidharma or reversing `SourceFor` must fail.
+The valuation also refutes the overstatement that every Abhidharma member
+is stainless. A finite model tests this specification, not metaphysical
+truth.
+
+**Bhāṣya determinations.** The following expands the verse's compact
+predications; it is not additional output derived from its overt tokens.
 
 ```text
 ABHIDHARMA

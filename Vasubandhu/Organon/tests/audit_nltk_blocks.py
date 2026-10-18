@@ -10,6 +10,11 @@ Requires NLTK. Usage:
 
     python Vasubandhu/Organon/tests/audit_nltk_blocks.py --chapter 8 \
         --start 1 --end 43 [--grammar-only | --logic-only]
+
+Use --strict for the chapter 1 pilot: section 3 must annotate the same
+tokens, dependency vocabulary must match, SEM must be closed and reused
+in the FOL theory, and every theory must declare a matching # EXPECT name T/F.
+Dependency checking is vocabulary coverage, not dependency parsing.
 """
 
 import argparse
@@ -20,6 +25,7 @@ import sys
 from nltk.grammar import DependencyGrammar, FeatureGrammar
 from nltk.parse import FeatureChartParser
 from nltk.sem import Assignment, Expression, Model, Valuation
+from nltk.sem.logic import LogicalExpressionException, TypeException
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from audit_karika_sections import CHAPTER_DIRS, CHAPTER_ENDS, ORGANON_DIR  # noqa: E402
@@ -58,7 +64,7 @@ def load_valuation(text: str) -> Valuation:
     return valuation
 
 
-def check_grammar(text: str) -> tuple[str, list[str]]:
+def check_grammar(text: str, strict: bool = False) -> tuple[str, list[str]]:
     blocks = BLOCK.findall(section(text, 4))
     fcfg = [body for kind, body in blocks if kind == "nltk-fcfg"]
     dep = [body for kind, body in blocks if kind == "nltk-dep"]
@@ -72,40 +78,82 @@ def check_grammar(text: str) -> tuple[str, list[str]]:
     tokens = re.search(r"^# tokens: (.*)$", fcfg[0], re.M)
     if not tokens:
         return "", ["nltk-fcfg lacks a '# tokens:' line"]
-    trees = list(FeatureChartParser(grammar).parse(tokens.group(1).split()))
+    errors = []
+    leaves = tokens.group(1).split()
+    if strict:
+        annotations = re.findall(r"^# tokens: (.*)$", section(text, 3), re.M)
+        if len(annotations) != 1 or annotations[0].split() != leaves:
+            errors.append("section 3 token annotation must match grammar tokens")
+        dep_lines = "\n".join(
+            line for line in dep[0].splitlines() if not line.lstrip().startswith("#")
+        )
+        dep_tokens = set(re.findall(r"'([^']+)'", dep_lines))
+        if dep_tokens != set(leaves):
+            errors.append(
+                "dependency token mismatch: "
+                f"missing={sorted(set(leaves) - dep_tokens)}, "
+                f"extra={sorted(dep_tokens - set(leaves))}"
+            )
+    try:
+        trees = list(FeatureChartParser(grammar).parse(leaves))
+    except ValueError as exc:
+        return "", errors + [f"grammar parse: {exc}"]
     count = len(trees)
     if count != 1:
-        return f"parses {count}", [f"expected 1 parse, got {count}"]
+        return f"parses {count}", errors + [f"expected 1 parse, got {count}"]
     sem = trees[0].label().get("SEM")
     if sem is None:
-        return "parses 1", []
+        return "parses 1", errors + (["strict pilot requires root SEM"] if strict else [])
     derived = sem.simplify()
-    known = set()
+    if strict:
+        try:
+            derived.typecheck()
+        except TypeException as exc:
+            return "parses 1 SEM", errors + [f"root SEM type: {exc}"]
+        if derived.free() or str(derived.type) != "t":
+            errors.append("root SEM must be a closed truth-valued expression")
+    known, theory_formulas = set(), set()
     for kind, body in BLOCK.findall(section(text, 8)):
         if kind in ("nltk-sem", "nltk-fol"):
             for line in formulas(body):
                 try:
-                    known.add(str(Expression.fromstring(
+                    formula = str(Expression.fromstring(
                         line.split(" : ", 1)[1].strip() if " : " in line else line
-                    ).simplify()))
-                except Exception:
-                    pass
+                    ).simplify())
+                    known.add(formula)
+                    if kind == "nltk-fol":
+                        theory_formulas.add(formula)
+                except LogicalExpressionException as exc:
+                    errors.append(f"{kind}: {exc}")
     if str(derived) not in known:
-        return "parses 1 SEM", [f"derived SEM absent from section 8: {derived}"]
-    return "parses 1 SEM=ok", []
+        errors.append(f"derived SEM absent from section 8: {derived}")
+    if strict and str(derived) not in theory_formulas:
+        errors.append("derived SEM must be reused in an nltk-fol theory")
+    return "parses 1 SEM" + ("=ok" if not errors else ""), errors
 
 
-def check_logic(text: str) -> tuple[str, list[str]]:
+def check_logic(text: str, strict: bool = False) -> tuple[str, list[str]]:
     errors, theories, valuation, current = [], {}, None, "default"
+    expected = {}
+    valuation_count = 0
     for kind, body in BLOCK.findall(section(text, 8)):
         try:
             if kind == "nltk-valuation":
                 valuation = load_valuation(body)
+                valuation_count += 1
             elif kind == "nltk-fol":
                 for line in body.splitlines():
                     if line.startswith("# THEORY"):
                         current = line.split()[2]
                         theories.setdefault(current, [])
+                    elif line.startswith("# EXPECT"):
+                        match = re.fullmatch(r"# EXPECT (\w+) ([TF])", line)
+                        if not match:
+                            errors.append(f"invalid expectation: {line}")
+                        elif match[1] in expected:
+                            errors.append(f"duplicate expectation: {match[1]}")
+                        else:
+                            expected[match[1]] = match[2]
                     elif line.strip() and not line.startswith("#"):
                         theories.setdefault(current, []).append(
                             Expression.fromstring(line.strip())
@@ -123,13 +171,33 @@ def check_logic(text: str) -> tuple[str, list[str]]:
         errors.append("no nltk-fol theory")
     if valuation is None:
         errors.append("no nltk-valuation block")
+    if strict:
+        if valuation_count != 1:
+            errors.append("strict logic needs exactly one nltk-valuation block")
+        if set(expected) != set(theories):
+            errors.append("every theory needs exactly one # EXPECT name T/F")
     if errors:
         return "", errors
     model, assignment = Model(valuation.domain, valuation), Assignment(valuation.domain)
     result = {}
     for name, rules in theories.items():
         try:
+            if strict:
+                if not rules:
+                    errors.append(f"theory {name}: empty theory")
+                for rule in rules:
+                    rule.typecheck()
+                    if rule.free() or str(rule.type) != "t":
+                        errors.append(f"theory {name}: formula must be closed and truth-valued")
+                    symbols = {str(v) for v in rule.predicates() | rule.constants()}
+                    undeclared = symbols - set(valuation)
+                    if undeclared:
+                        errors.append(f"theory {name}: undeclared symbols {sorted(undeclared)}")
             result[name] = "T" if all(model.satisfy(r, assignment) for r in rules) else "F"
+            if name in expected and result[name] != expected[name]:
+                errors.append(
+                    f"theory {name}: expected {expected[name]}, got {result[name]}"
+                )
         except Exception as exc:
             errors.append(f"theory {name}: {str(exc)[:100]}")
     return " ".join(f"{k}={v}" for k, v in result.items()), errors
@@ -142,6 +210,7 @@ def main() -> int:
     parser.add_argument("--end", type=int)
     parser.add_argument("--grammar-only", action="store_true")
     parser.add_argument("--logic-only", action="store_true")
+    parser.add_argument("--strict", action="store_true", help="validate the pilot contract")
     args = parser.parse_args()
     end = args.end or CHAPTER_ENDS[args.chapter]
     folder = ORGANON_DIR / CHAPTER_DIRS[args.chapter]
@@ -156,7 +225,7 @@ def main() -> int:
         ):
             if skip:
                 continue
-            summary, errs = run(text)
+            summary, errs = run(text, strict=args.strict)
             parts.append(f"{label}: {summary}" if summary else label)
             errors += errs
         failing += bool(errors)
