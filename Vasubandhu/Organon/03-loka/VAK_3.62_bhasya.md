@@ -204,7 +204,7 @@ its production. Conversely, disagreement about causal mechanism does not make
 the shared observation disappear. This is a modest but exact doxographical
 discipline within the cosmological exposition.
 
-## 9. Organon Study
+## 9. Interpretation
 
 For the Organon, the passage supplies two complementary forms of analysis.
 The day–night portion gives a transformation rule whose magnitude and sign

@@ -90,7 +90,7 @@ not the exclusion of views from the influxes. The two
 `kila` qualifications present the explanation as received;
 the passage does not pause to test its etymology.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The second half of the verse is
 elliptical. Its subject, views, and its contrast with their

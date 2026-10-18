@@ -75,7 +75,7 @@ making evident the abandonment of these three obstacle
 types, rather than supplying a new list of all afflictions
 abandoned at stream entry.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Agantukāmatā` is lack of desire
 to go, rendered “unwillingness to go.” `Mārga-vibhrama`

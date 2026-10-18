@@ -88,7 +88,7 @@ contracts the representation by removing its parts in order, while keeping
 attention on the remainder. The third stage is named here but its defining
 operation begins in 6.11.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The first ablative compound gives the beginner's
 expansion and contraction; the second gives the mastered practitioner's ordered

@@ -90,7 +90,7 @@ different reasons for Seeing's absence in formless and form realms.
 It then adds a scriptural here/there formulation and glosses `vidhā`
 as commencement of the Path.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Dhātu` here is the three existential
 realms. `Adhodhātvanālambana` concerns lower realms as cognitive

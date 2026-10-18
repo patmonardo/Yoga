@@ -44,7 +44,7 @@ For the three formless attainments, “deprived” continues to govern the verse
 
 The commentary takes the complete thirty-sevenfold configuration of the first dhyāna as its implicit comparison. It identifies the single missing factor in the second dhyāna and gives a reason: without `vitarka`, right resolve does not occur there. It then resolves “that pair” as joy and resolve for the third and fourth dhyānas and applies the same exclusion to intermediate concentration. Finally it carries `varjitāḥ` into the last pāda and names the three ethical Path factors excluded along with that pair in the lower formless attainments.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Saṃkalpa` is right resolve in this Path inventory; `vitarka` is the applied or discursive thought whose absence the Bhāṣya gives as the reason for its exclusion. `Tad-dvaya` means joy and resolve, not an unspecified second pair. `Śīlāṅga` is expanded by the Bhāṣya into right speech, right action, and right livelihood. The word “lower” in “three lower formless attainments” clarifies that Bhavāgra is treated in 6.73. The immediate source states the exclusions and counts, without separately arguing why the ethical factors cannot operate in the formless grounds.
 

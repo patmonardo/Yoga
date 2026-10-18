@@ -110,7 +110,7 @@ provisional pending another witness. The source supports a
 restricted conclusion, not a simple one-way contrast between
 the two kinds of knowledge.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Dharmajñāna` and `anvayajñāna`
 remain transliterated; rendering either as generic “knowledge”

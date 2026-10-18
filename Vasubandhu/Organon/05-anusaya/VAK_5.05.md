@@ -256,7 +256,7 @@ is subjective as a manner of orientation and appropriation, while its realm,
 support, and correction-condition give it objective systematic
 determinateness.
 
-The strongest Organon light comes from the `ālambana` rule. A failure is
+The strongest Interpretation comes from the `ālambana` rule. A failure is
 scientifically specified only when its supporting relation and its appropriate
 correction are known. The taxonomy of affliction is already a virtual
 architecture of the Path.

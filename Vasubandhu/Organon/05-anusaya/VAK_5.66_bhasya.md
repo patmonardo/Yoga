@@ -101,7 +101,7 @@ their fruit. The source does not assign a distinct final
 height of meditative level by itself imply a larger set of
 available abandonments.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Phala` is left as “fruit,” a
 relation between meditative basis and completed

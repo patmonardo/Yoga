@@ -103,7 +103,7 @@ regression for the two named positions through faculty maturation and
 superior basis. A final Vaibhāṣika explanation denies that mere
 desire-detachment suffices for intermediate-existence completion.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The first-line `kāme` scopes the rule
 against realm transfer to another birth in the desire-realm. The

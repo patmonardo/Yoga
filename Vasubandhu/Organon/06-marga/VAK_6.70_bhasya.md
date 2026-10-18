@@ -78,7 +78,7 @@ The alternative cites scripture on the noble eightfold Path bringing the establi
 
 The first account allocates the seven groups to seven positions, from the beginner through Seeing, according to where each is especially developed. It explains the final two groups and why their canonical numerical order does not by itself establish temporal priority. A Vaibhāṣika remark adds a relation between factor and whole. Other interpreters then offer a genetic sequence and relocate the final groups: awakening factors to Seeing and Path factors to both Seeing and cultivation, supported by two cited scriptural passages.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Prabhāvitāḥ` means specially developed or made predominant at a stage. `Nirvedhabhāgīyeṣu` includes four positions—Heat, Summits, Acceptance, and Highest Mundane Dharmas—between the beginner and the two noble Path stages. The study translation follows the first distribution. The `apare` alternative is an attributed voice, not a silent correction of the first allocation. The two scriptural citations support that alternate voice; their compressed wording is rendered by argumentative force rather than overconfident line-by-line reconstruction.
 

@@ -83,7 +83,7 @@ and refuses correction; this is not defined here as exposing
 someone else's fault. The text gives no further mechanism
 for why attachment generates its two named stains.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** “Obstinate fault-clinging” keeps
 the `dṛḍhagrāhitā` of the prose visible, while the rendering

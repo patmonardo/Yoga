@@ -97,7 +97,7 @@ the uncontaminated Path? Its answer distinguishes the origin of one
 abandonment from the mixed content and uncontaminated attainment that
 gather and sustain the fruit.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Jñāna` is Knowing. The first half is
 shared with 6.52; the second names `miśratva` and

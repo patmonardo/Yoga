@@ -79,7 +79,7 @@ which open 5.05.
 instrumental `duḥkhādidarśanaiḥ` names seeing the truths. The shared
 verbal root does not erase their opposed roles in this passage.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Nirodha` is rendered “cessation” in the
 continuous translation, while the technical Sanskrit term remains

@@ -113,7 +113,7 @@ the running explanation; the vāta analogy belongs to the
 reported alternative. Neither analogy should be converted into
 a literal physical substrate theory of anuśaya.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The initial `nānāsrava-` divides as
 `na anāsrava-`, not as an independent “various.” `Asvīkāra`

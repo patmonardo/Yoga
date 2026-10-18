@@ -145,7 +145,7 @@ The next verse will challenge whether operation itself can
 carry the burden of defining future, present, and past; the
 preference here should not be read as the end of the debate.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Bhāva`, `lakṣaṇa`, `avasthā`, and
 `anyathānyathika` name four different accounts of temporal

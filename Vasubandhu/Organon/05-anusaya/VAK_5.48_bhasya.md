@@ -108,7 +108,7 @@ craving, ignorance, or both are reported. The source's
 known and unknown cases, but the available wording is too
 compressed to assign every case securely.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The manuscript-like e-text's
 `bhrakṣa` is retained in continuous Sanskrit while

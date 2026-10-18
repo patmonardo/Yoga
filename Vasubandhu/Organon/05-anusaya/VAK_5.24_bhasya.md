@@ -101,7 +101,7 @@ these rules remain under the condition `yāvad aprahīṇāḥ`.
 The table of possible bonds must not be read as a claim
 that abandoned afflictions continue to bind.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Mānasaiḥ` is restricted by the
 prose to the three afflictions inherited from 5.23;

@@ -118,7 +118,7 @@ the relevant truth's abandonment class is assigned to that seeing;
 the remainder are assigned to cultivation. This is the text's
 rule for generating the matrix, not mere arithmetic after the fact.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Mārgābhyāsa` is cultivation of the path
 after the truths have been seen; it does not erase the distinction

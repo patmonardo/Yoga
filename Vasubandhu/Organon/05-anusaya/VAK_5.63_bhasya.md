@@ -107,7 +107,7 @@ expected form. This transitional gloss is necessary for
 reading the next verse's question about how many
 abandonment-*parijñās* there are.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Kṣaya` is the affliction's
 exhaustion; `visaṃyogalābha` is acquisition of disconnection

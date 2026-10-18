@@ -44,7 +44,7 @@ same Truth-content ≠ same Path-work
 chapter closes on four corners, not a halo
 ```
 
-## 5. Organon Light (typed)
+## 5. Interpretation (typed)
 
 ```ts
 type Corner = { nirveda: boolean; viraga: boolean };

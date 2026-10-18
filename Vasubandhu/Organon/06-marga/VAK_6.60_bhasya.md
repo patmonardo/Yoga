@@ -58,7 +58,7 @@ The commentary then asks how many uninterrupted and liberation paths occur when 
 
 The passage first limits the practical consequences of fruit-regression in the Vaibhāṣika framework: no death while fallen and no action opposed to the fruit. It then turns from a bounded loss to a positive change of faculties. The full ninefold paired Path sequence answers to the firmness of the former disposition, which has been reinforced across both stages of noble practice.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Phalabhraṣṭa` is someone fallen from the fruit; `tadakārya` is specified in prose as action contrary to that fruit. `Nava` counts nine of each Path type. `Atisevanā` names deep habituation of the *prior mild-faculty disposition*, not simply the practitioner's future repetition of the new paths. The question of rebirth is answered through the narrower explicit claim that no one dies while fallen; the source does not spell out the timing or mechanics of recovery.
 

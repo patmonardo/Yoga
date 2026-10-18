@@ -75,7 +75,7 @@ within the same afflictive field. These are source-level
 claims of the present classification, not a claim that
 ignorance is outside conditioned existence.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Avyākṛta` retains the ethical
 sense established in 5.19; it does not mean unafflicted.

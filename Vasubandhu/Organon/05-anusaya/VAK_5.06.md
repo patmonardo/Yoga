@@ -238,7 +238,7 @@ cultivate. The Path-operation is the unity in which those determinations meet
 and the affliction can actually be overcome.
 
 The Absolute Concept must not be inserted as an unexplained additional term
-inside Vasubandhu's classification. Its Organon light appears in the form of
+inside Vasubandhu's classification. Its Interpretation appears in the form of
 the result: the correction is adequate only when the whole relation—level,
 support, counteragent, and practitioner—determines itself as an executable
 transformation.

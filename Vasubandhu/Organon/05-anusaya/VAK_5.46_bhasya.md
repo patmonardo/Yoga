@@ -67,7 +67,7 @@ to the *Kṣudravastuka* points to a wider inventory; the
 present chapter explicitly narrows its coming treatment to
 enveloping afflictions and afflictive stains.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Caitasāḥ` and the prose's
 `caitasikāḥ` are rendered “mental factors,” while citta is

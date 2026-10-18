@@ -103,7 +103,7 @@ in an ārya because the view on which their manifestation depends
 has been abandoned through seeing. The text does not equate an
 unabandoned class with a currently operative event.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The final `na ... aśubham` negates the
 occurrence of **unwholesome remorse**; it does not deny that

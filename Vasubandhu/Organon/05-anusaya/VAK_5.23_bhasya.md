@@ -86,7 +86,7 @@ difference. The local argument establishes the person's
 object-indexed bond through an affliction, without requiring
 all these relation terms to be synonyms.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Pratyupasthita` in the verse is
 explained by `pratyutpanna` in the prose, so “present” is

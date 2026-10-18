@@ -77,7 +77,7 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   the grammar may derive the §8 formula by the parse (see 8.13). `Pred => {}`
   means an empty extension; NLTK itself reads it as a phantom `''` element,
   so the audit loader corrects this.
-- The chapter 1 Grammar–Logic pilots (1.01–1.19) annotate the normalized
+- The chapter 1 Grammar–Logic pilots (1.01–1.21) annotate the normalized
   IAST token stream beneath the Lexical Analysis table. It preserves verse
   order, opens sandhi, and marks Bhāṣya-resolved ellipses with `∅-` and
   `SUPPLIED=prose`. The annotation must match the grammar's `# tokens:`
@@ -133,6 +133,13 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   joint inclusion, and paired-site classification. Its Form and Dharma
   dependencies now have their own executable studies in 1.04–1.15;
   they are not derived again by the Principle Processor pilot.
+  Use `--start 20 --end 20 --strict` for the three ordered meanings and
+  the threefold teaching. Prose checks preserve separate confusion,
+  Faculty, and inclination axes and the unconditioned counterexample
+  to defining every Principle as a homogeneous cause.
+  Use `--start 21 --end 21 --strict` for Feeling and Reflection as separate
+  Bases that remain mental factors. Tests distinguish principal causes,
+  mediations, and roots of dispute, with the order demonstration deferred.
   Strict mode checks token annotation, dependency vocabulary coverage,
   semantic closure, reuse in the theory, symbol declarations, and expected
   truth values. Dependency coverage is not dependency parsing: the block

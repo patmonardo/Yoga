@@ -208,7 +208,7 @@ can still be presented. The bhūmis can therefore display increasingly adequate
 rows of transformed relation, while the Path in itself supplies the complete
 principle governing their sequence.
 
-**Organon Light.** The extraordinary economy lies in the order of reasoning:
+**Interpretation.** The extraordinary economy lies in the order of reasoning:
 
 ```text
 typed classification

@@ -117,7 +117,7 @@ field-marks, then the swimmer, then the middle fails
 cause-marks: āpta-vacana / yukti-nidhyāna / samādhi
 ```
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Viṣaya` names the cognitive field in the verse;
 the Bhāṣya restates it with `ālambana`, cognitive Condition. Neither is

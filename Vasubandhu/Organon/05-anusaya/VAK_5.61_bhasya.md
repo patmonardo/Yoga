@@ -136,7 +136,7 @@ is annihilated when one's own affliction ceases. It
 distinguishes the removal of a binding relation from
 destruction of its condition.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The anchor gives the prose's
 four terms in English while retaining the damaged running

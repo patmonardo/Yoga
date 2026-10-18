@@ -106,7 +106,7 @@ in 5.63, the transfer of a cause-name to its result. That
 semantic connection does not make `jñāna` and `prahāṇa`
 interchangeable operations.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Kāmādya-prakāradvaya` is
 resolved by the prose as the desire-realm pair of

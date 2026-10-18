@@ -106,7 +106,7 @@ The passage does not spell out a full independent answer for both
 cases raised in the objection, so that argumentative gap remains
 visible.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Avyākṛta` names an ethical
 classification; it does not mean unafflicted. `Sahābhyāṃ` and

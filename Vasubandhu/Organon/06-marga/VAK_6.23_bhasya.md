@@ -104,7 +104,7 @@ Acceptance's graded exclusions. Finally it locates the preparations in
 three lineages and gives different limits for turning from the disciple
 lineage toward complete Buddhahood or Pratyekabuddhahood.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Mūlacchit` concerns severance of wholesome
 roots, not all grave action. `Anapāyaga` excludes painful destiny after

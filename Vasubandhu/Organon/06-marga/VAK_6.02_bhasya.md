@@ -164,7 +164,7 @@ its account of prior penetration joins preparatory examination to direct
 realization without equating them. The closing question distinguishes the
 truth of the truths for everyone from adequate seeing by the noble.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Yathābhisamayam` qualifies `krama`, so the
 Bhāṣya's examination sequence is used to make the kārikā's order readable.

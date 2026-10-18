@@ -133,7 +133,7 @@ It does not demonstrate that every use of the names has
 identical extension; the more precise relation remains for
 the later textual review.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Grāhikā` means an active grasper
 in the local explanation, while `asaṃprakhyāna` is

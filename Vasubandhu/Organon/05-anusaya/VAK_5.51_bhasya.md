@@ -74,7 +74,7 @@ The analogous cultivation side is supplied by the twofold
 explanation, while the next verse treats the remaining
 factors.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Dṛṣṭyāmarśa` is kept as
 “grasping at view,” distinct from bare `dṛṣṭi`, the source

@@ -67,7 +67,7 @@ and avarice are unwholesome or independent. The text leaves
 this challenge in place; no replacement criterion is given
 within the 5.42 unit.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Ekānta` gives the force of
 “invariably” in the first mark. `Svatantra` is kept as

@@ -173,7 +173,7 @@ from the desire-realm basis. It specifies practitioners and the grounds of the
 exclusion of outsiders. The second half unfolds the six modes, their
 operational checks, and an alternative allocation of the final two stages.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Smṛti` names a supporting power, while `prajñā`
 names intrinsic nature. `Gocara` gives a cognitive field; the prose's

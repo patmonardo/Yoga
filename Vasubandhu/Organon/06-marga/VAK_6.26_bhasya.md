@@ -94,7 +94,7 @@ It explains the `anvaya` designation by accordance with the prior
 realization and repeats the same immediately successive order for the
 other three Truths.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Atraiva` holds the desire-realm suffering
 Condition constant for the first Dharma pair. `Śeṣe duḥkhe` gathers the

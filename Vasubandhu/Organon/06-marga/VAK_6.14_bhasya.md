@@ -74,7 +74,7 @@ prose. Its three common-characteristic scopes are different. The final
 reported formulation describes completion of examination of the body through
 atom-by-atom and moment-by-moment seeing.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The compressed `vic` is resolved as feeling
 (`vedanā`) by the prose. `Dvi-lakṣaṇa` is own and common characteristic, not

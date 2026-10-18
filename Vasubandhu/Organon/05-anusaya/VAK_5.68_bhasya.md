@@ -126,7 +126,7 @@ already included under the third and fourth grounds. This
 is a genuine disagreement over classification, not a denial
 that afflictions taking it as their cognitive Condition may cease to bind.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Anāsrava` is “without
 outflows” or “uncontaminated” here; `viyogāpti` is the

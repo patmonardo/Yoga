@@ -135,7 +135,7 @@ cognitive Condition, and its entry function. It then reports three
 accounts of the transition from ordinary to Noble status without
 collapsing their disagreement.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Śrutacintāmaya` qualifies the earlier
 `mokṣabhāgīya` root, while `dharmakṣānti` begins the direct-realization

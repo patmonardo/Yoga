@@ -100,7 +100,7 @@ that bring it on from penetration itself, and locates them on six
 concentration grounds. It then explains their maturation and preserves
 Ghoṣaka's additional ground for the first two alone.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Nirvedha` denotes a determinate penetration
 that abandons doubt and discriminates the truths; `bhāgīya` names the

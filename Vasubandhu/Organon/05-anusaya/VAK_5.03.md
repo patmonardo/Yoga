@@ -215,7 +215,7 @@ In which realm can it operate?
 By what mode of Path is it removed?
 ```
 
-This is the Organon light of the passage: determination becomes adequate only
+This is the Interpretation of the passage: determination becomes adequate only
 through position in a system of difference, range, and transformation. Error
 is not represented by the undifferentiated predicate `false`; it has a form,
 an operative field, and a corresponding condition of abandonment.

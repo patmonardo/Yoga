@@ -72,7 +72,7 @@ and its negative triad. The Bhāṣya explains each negative aspect,
 derives the positive aspects by reversal, and closes the subsidiary
 discussion.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Gocara` is rendered cognitive field;
 `ālambana` in the preceding unit remains cognitive Condition. The

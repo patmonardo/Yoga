@@ -125,7 +125,7 @@ grasped and the grasper, but the source states it compactly;
 its exact reach requires review. `Kila` again qualifies
 the reported enumerative rationale.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Dṛṣṭī` is dual because it
 refers to two *groups* of views, not merely two individual

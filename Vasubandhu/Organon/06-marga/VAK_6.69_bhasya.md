@@ -90,7 +90,7 @@ Why are the same five factors called both faculties and powers? They differ as m
 
 The unit completes the tenfold mapping, then qualifies the identifications by predominance: a named principal dharma does not exhaust a full practice-complex. It explains why energy governs right abandonment and samādhi governs the bases of power. An unattributed alternative would raise the count to thirteen and conflict with the quoted sūtra. The final questions distinguish faculties from powers by strength and derive the practical order from confidence through Prajñā.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Pradhānagrahaṇa` means taking the predominant factor, so “the right abandonments are energy” and “the bases of power are samādhi” name their governing dharmas. `Sarve prāyogikā guṇāḥ` preserves the other applied qualities in those practices. The thirteenfold proposal is attributed only to an unnamed interlocutor; the sūtra's separation of power and bases is part of the commentary's objection. `Citta` in the faculty sequence is **consciousness**, not Cognition; `prajānāti` is rendered “understands,” and should not be confused with technical `vijñāna`.
 

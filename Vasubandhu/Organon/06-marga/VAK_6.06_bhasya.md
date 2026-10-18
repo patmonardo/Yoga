@@ -76,7 +76,7 @@ the inherited obtained/unobtained division, it finds that division
 insufficient and replaces it with two distinct relations: vexation at what
 one possesses and desire projected toward excellent, abundant goods.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Vyapakarṣa-dvaya` is bodily and mental
 withdrawal, not a single withdrawal repeated twice. The Bhāṣya specifies

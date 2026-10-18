@@ -148,7 +148,7 @@ not be silently converted into a claim about liberation or ultimate
 metaphysical status; the context is the ordering of deva populations in
 Lokanirdeśa.
 
-## 9. Organon Study
+## 9. Interpretation
 
 For the Organon, this passage keeps four relations distinct:
 

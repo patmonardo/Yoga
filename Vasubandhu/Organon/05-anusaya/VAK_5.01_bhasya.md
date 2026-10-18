@@ -95,7 +95,7 @@ closing `te punaḥ` is syntactically open and must be read with 5.02,
 where attachment is divided. No prose from that next unit belongs to
 this study.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Bhava` means conditioned existence here:
 the prose specifies its production by accumulated karma. `Ālambana`

@@ -60,7 +60,7 @@ What remains? The awakening-factors of joy, pliancy, and equanimity, along with 
 
 The passage answers the ten-dharma question with a list, then demonstrates the mapping from multiple named functions to recurrent dharmas. It treats the faculties and powers by their names, works through Prajñā, energy, collectedness, and recollection, and accounts for the remaining five. A Vaibhāṣika alternative distinguishes bodily and verbal ethical action and raises the count to eleven. The last sentence sets up 6.69's qualification by predominance.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Prajñā hi smṛtyupasthitiḥ` is rendered as the establishments of recollection counting as Prajñā in their governing operation, not an identity of every associated factor. The distinction between name and constituent dharma governs the reduction from thirty-seven to ten. The Vaibhāṣika count of eleven is attributed to its school; it is not silently merged into the kārikā's ten.
 

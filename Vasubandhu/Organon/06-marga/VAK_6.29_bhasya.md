@@ -77,7 +77,7 @@ through two earlier modes of following Meaning. It then adds the condition
 of no prior mundane abandonment and identifies their shared destination
 as the first fruit.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Teṣu` refers to the fifteen moments.
 `Śraddhānusārin` and `dharmānusārin` name the two faculty types; the

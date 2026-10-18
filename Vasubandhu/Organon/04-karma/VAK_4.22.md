@@ -353,7 +353,7 @@ determination is undertaken, sustained, temporally articulated, opposed, and
 locally contradicted. The Bhāṣya explicitly closes the avijñapti topic here;
 the next verse turns to `vijñapti`.
 
-This synthesis is Organon Light. Vasubandhu’s explicit teaching is the
+This synthesis is Interpretation. Vasubandhu’s explicit teaching is the
 possibility and duration of contrary wholesome or unwholesome avijñapti within
 an established opposite status.
 

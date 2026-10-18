@@ -132,7 +132,7 @@ capacity from the one grade presently removed. It then expands the
 Path into variants by cognitive Condition, Knowing aspect, meditative
 ground, and doctrinal treatment of the Path's Conditions.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The source's `pratipakṣakaḥ` is not
 silently replaced in §2; the study's `pratipannakaḥ` follows the

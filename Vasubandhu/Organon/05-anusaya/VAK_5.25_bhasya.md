@@ -144,7 +144,7 @@ past karma whose fruit has already been given and from the
 future. The text announces four Sarvāstivādin accounts but
 does not yet describe them.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Sarvakālāstitā` is the thesis of
 existence in all times, not an assertion here that conditioned

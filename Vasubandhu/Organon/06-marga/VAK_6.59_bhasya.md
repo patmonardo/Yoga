@@ -87,7 +87,7 @@ and distributes them across Buddha, immovable arhat, and other arhat.
 The final response marks a non-regression voice that keeps
 uncontaminated liberation secure while allowing loss of present use.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Prāpta-parihāṇi` is loss of a possessed
 quality; `aprāpta-parihāṇi` is failure to gain a further attainable

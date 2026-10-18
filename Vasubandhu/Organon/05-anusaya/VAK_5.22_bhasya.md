@@ -196,7 +196,7 @@ The Mahāsāṅghika citation preserves another set of examples;
 its damaged line about self should not carry more doctrinal
 weight than the witness can support.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Sthāpanīya` means that the question
 is to be set aside as posed. `Vyākaraṇa` is an answer or

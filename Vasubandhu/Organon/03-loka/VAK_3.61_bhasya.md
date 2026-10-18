@@ -171,7 +171,7 @@ No numerical conservation equation is stated. A restrained reconstruction
 may represent the inverse relation as redistribution within a fixed
 day–night whole, but the precise increment is withheld until the next verse.
 
-## 9. Organon Study
+## 9. Interpretation
 
 For the Organon, this unit shows how a date functions as more than a label. It
 is an address into a cyclic process and selects a determinate trend-state:

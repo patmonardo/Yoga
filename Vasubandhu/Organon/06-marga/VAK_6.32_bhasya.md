@@ -69,7 +69,7 @@ rule to the other fruits, states a local supporting-ground qualification,
 and closes the classification by prior detachment before turning to the
 gradual case.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Phalaviśiṣṭasya mārgasya` names the Path
 distinguished beyond the presently attained fruit. `Aprayuktaḥ

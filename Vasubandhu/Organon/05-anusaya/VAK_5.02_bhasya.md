@@ -173,7 +173,7 @@ liberation-conception explanation as a reported view. The ensuing
 enjoyed. The source identifies **attachment to samāpatti**, rather
 than samāpatti itself, as the continuing rāga.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** Consciousness (*citta*) remains visible at the
 first occurrence because it is the stated locus of affliction in the

@@ -235,7 +235,7 @@ Yet the verse gives a fourfold rotation rather than two isolated oppositions.
 Each moment is determined through the complete configuration of celestial
 course and regional placement.
 
-## 9. Organon Study
+## 9. Interpretation
 
 For the Organon, VAK 3.60 offers a disciplined example of a shared process
 whose outputs are indexed by position. A statement such as “it is midday” is

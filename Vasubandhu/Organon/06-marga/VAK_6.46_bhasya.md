@@ -78,7 +78,7 @@ supramundane Path. The reason offered for that view equates loss of a
 separation-attainment with renewed affliction-possession; two
 counterexamples show that the inference fails.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Visaṃyogaprāpti` denotes an attainment of
 separation, not the abandoning act itself. `Eke` and `apare` mark the

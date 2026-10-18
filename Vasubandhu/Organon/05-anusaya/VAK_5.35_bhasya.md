@@ -97,7 +97,7 @@ occurrence.
 The reason for combining the higher domains under one
 existence āsrava is taken up in 5.36.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Āsrava` remains transliterated
 in the main study because “influx” and “outflow” each

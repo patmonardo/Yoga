@@ -180,7 +180,7 @@ evidence for naming, not proof that these three have the same
 function. Nor does the survival of sensual attachment by itself
 settle which technical inversions remain.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Saṃjñā` remains visible as a technical
 term; “recognition” is an approximate gloss. `Citta` is retained

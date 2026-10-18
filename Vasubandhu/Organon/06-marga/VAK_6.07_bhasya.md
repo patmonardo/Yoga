@@ -84,7 +84,7 @@ answer. The verse extends this nature to the noble lineages; the commentary
 counts and names them, then explains why the fourth also has non-greed as its
 nature.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Viparyāsāt` marks reversal of the two preceding
 defects, rather than a new list of cognitive inversions. The dual forms keep

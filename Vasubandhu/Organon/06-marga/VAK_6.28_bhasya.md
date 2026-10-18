@@ -139,7 +139,7 @@ objection, then asks why a sixteen-moment realization has only fifteen
 Seeing moments. The answer distinguishes novelty of a Truth from novelty
 of an individual moment and assigns the final Knowing to Cultivation.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Yathākramam` distributes the two path
 functions in order. `Kleśaprāpti` is afflictive acquisition;

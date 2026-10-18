@@ -126,7 +126,7 @@ affliction undergoes. The following question about the
 graded matching of counteragents is deferred by the prose;
 the *kinds* of counteragent become the topic of 5.61.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The anchor uses
 `ālambanaprahāṇāc` because the prose explicitly says

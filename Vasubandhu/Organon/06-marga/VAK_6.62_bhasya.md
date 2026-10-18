@@ -46,7 +46,7 @@ These six Arhat types can be reckoned as nine persons when differentiated by fac
 
 The opening prose explains a replacement of fruit and Path specification, and uses the absence of non-returner fruit in formless grounds to resolve the trainee's six-ground limit. The second movement asks how the earlier six Arhat types fit a ninefold faculty classification. It divides the unshakeable Arhat by acquired or original disposition, adds the two Buddha types, and states the ninefold faculty basis of the count.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Saviśeṣaṃ phalaṃ` is unpacked by the prose as fruit with its qualified weak-faculty Path; the newly attained fruit comes with the sharp-faculty Path. `Uttāpanāgata` is rendered “arrived through sharpening” from the context of faculty development. The ninefold person count is indexed to `indriya-bheda`; it is distinct from the following sevenfold list of all noble persons.
 

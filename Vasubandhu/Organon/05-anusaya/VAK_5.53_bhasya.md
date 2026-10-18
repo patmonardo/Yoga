@@ -89,7 +89,7 @@ applicable higher-domain upakleśas indeterminate. The
 closing `uktā kleśāḥ upakleśāś ca` marks the end of this
 section before the next cognition-level inquiry.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Kāmādyadhyānayoḥ` is read as
 desire-realm and *first* dhyāna, as the prose explicitly

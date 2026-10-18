@@ -129,7 +129,7 @@ liberation-conducive root, unfolds the quickest three-life sequence,
 specifies that root's mode of Prajñā and action, and returns to the
 sequence of direct realization.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Śāstṛ` names the Buddha; `khaḍga` names a
 rhinoceros-like Pratyekabuddha. `Ekatra` is explained by one sitting,

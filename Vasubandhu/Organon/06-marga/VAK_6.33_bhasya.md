@@ -94,7 +94,7 @@ three-by-three subdivision, and pairs Path power inversely with
 remaining affliction. The images of cleaning cloth and dispersing
 darkness explain why the subtler residue calls for a stronger Path.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Doṣa` names an afflictive fault;
 `guṇa` here names its opposing uninterrupted and liberation Paths.

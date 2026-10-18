@@ -36,7 +36,7 @@ rāga / other kleśas / cleaned basis
 nirodha here is not a mood and not Chapter-1 Domain
 ```
 
-## 5. Organon Light (typed)
+## 5. Interpretation (typed)
 
 ```ts
 type LibDhatus = "viraga" | "prahana" | "nirodha";

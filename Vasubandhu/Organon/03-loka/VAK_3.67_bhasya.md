@@ -155,7 +155,7 @@ merely empty scenery: the Bhāṣya identifies them as places of divine activity
 The passage describes a refined region within the desire realm's cosmography.
 Its sensory and political splendor remains part of produced Loka.
 
-## 9. Organon Study
+## 9. Interpretation
 
 For the Organon, this unit shows how a place receives several simultaneous
 determinations without collapsing them:

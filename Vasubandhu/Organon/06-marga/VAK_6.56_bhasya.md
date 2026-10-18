@@ -81,7 +81,7 @@ It then explains `sāmayikī` through guarding and concrete conditions
 for concentration's manifestation, while defining the sixth type's
 `akopyā` liberation by the impossibility of falling away.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The six names are sūtra-listed and their
 functional meanings remain provisional until the next verses.

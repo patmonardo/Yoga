@@ -69,7 +69,7 @@ mode, and actual conjunction with gladness are related
 determinations, not three names for one thing. The
 pleasant feeling does not make avarice wholesome.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** “With its opposite” renders the
 verse's `viparyayāt`; “mental gladness” makes explicit the

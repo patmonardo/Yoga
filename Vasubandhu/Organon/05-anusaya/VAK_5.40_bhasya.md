@@ -96,7 +96,7 @@ marks an alternative derivation of appropriation through
 frequent adherence; it should not be flattened into the
 first `upagṛhṇanti` gloss.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** “Cause to remain” supplies the
 unstated object of `āsayanti` from the commentary's

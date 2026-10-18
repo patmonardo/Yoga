@@ -244,7 +244,7 @@ It does not prove that support suffices for Cognition to arise, define
 
 The hinge is the count, then the support. The five Faculties are indicated. The five meanings are named and left for the next verse. The scripture calls the eye an internal Essence, a clarity of Form depending on the four Great Elements. That citation is not this enumeration. The Prakaraṇa agrees: the eye is a clarity of Form that supports Eye-Cognition.
 
-**Organon Light.** The passage makes Form more extensive than visible
+**Interpretation.** The passage makes Form more extensive than visible
 appearance and gives the Faculties a relational determination through
 the Cognition they support. These are positive grounds for metaphysical
 inquiry, not merely a list of sensible things. The formal layer preserves

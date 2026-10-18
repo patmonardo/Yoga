@@ -55,7 +55,7 @@ Where are faculties strengthened? Among humans. Faculty change occurs among huma
 
 The commentary specifies `ekaikaḥ` as one of each paired Path and adds that the preparatory Path is one throughout. It determines the quality of these Paths as uncontaminated, locates faculty strengthening among humans, and enumerates nine supports for one beyond training against six for a trainee. It leaves the reason for excluding the trainee from formless grounds open at the verse boundary.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Dṛṣṭacyāptatāyām` is kept in the source witness; the study's normalized verse follows the prose gloss of attaining `dṛṣṭiprāpta`. `Parihāṇyasaṃbhavāt` is read with the nearby `nānyatra`: regression is impossible in the excluded settings. `Anāgamyasyānantaraṃ` provides the first two of the nine supports, followed by four concentrations and three formless attainments. The text does not give the complete causal account for the trainee's exclusion until 6.62.
 

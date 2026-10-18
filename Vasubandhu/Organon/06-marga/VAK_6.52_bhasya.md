@@ -75,7 +75,7 @@ and the two named in 6.53's first line. Relinquishment, new Path
 attainment, and unified acquisition of abandonments define the
 transition of Path status.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Pūrva` is the previous candidate Path;
 `anya` is glossed `apūrva`, previously unattained. `Kṣayasaṃkalana`

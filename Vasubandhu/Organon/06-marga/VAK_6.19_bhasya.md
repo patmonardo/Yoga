@@ -131,7 +131,7 @@ separates Prajñā as intrinsic nature from the five-Base associated
 event, excluding acquisition from that event. The closing matrix classifies
 present and future cultivation across the preparatory stages.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Viṣaya` gives a cognitive field; the prose's
 `ālambana` names its cognitive Condition. `Tathā` transfers the contracted

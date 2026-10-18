@@ -216,7 +216,7 @@ their transmitted account. The citation is not used to erase the cosmological
 claim; rather, the Bhāṣya differentiates ordinary human flowers from the
 special tree and notes a school-specific recitation.
 
-## 9. Sudharmā and Organon Study
+## 9. Sudharmā and Interpretation
 
 Sudharmā is placed outside the city in the south-west. It is a `devasabhā`, a
 divine assembly hall, where the gods sit and deliberate `kṛtya` and `akṛtya`:

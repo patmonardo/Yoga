@@ -78,7 +78,7 @@ for the path. It would be wrong to count the two ignorance
 descriptions as two additional entries in each truth-specific
 set without further source evidence.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Sāsrava` and `anāsrava` are kept as
 technical status terms, glossed here as “with outflows” and

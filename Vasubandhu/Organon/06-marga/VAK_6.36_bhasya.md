@@ -100,7 +100,7 @@ two readings of *vīci*, and repeats the requirement that the superior
 Path be present. Ninth-grade destruction gives non-returning, while
 the five-fetter formula groups earlier and later abandonments.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Ekavīcika` is rendered “one-interval” so
 that its birth and affliction-grade explanations remain distinct.

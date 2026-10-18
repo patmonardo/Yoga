@@ -198,7 +198,7 @@ This qualification belongs to the Bhāṣya's reasoning. It prevents the
 threefold classification from being taken as an exhaustive, exceptionless
 assignment of every meditative ground.
 
-## 9. Organon Study
+## 9. Interpretation
 
 The two triplets share the word `upapatti`, but the Bhāṣya classifies them by
 different Features:

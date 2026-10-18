@@ -93,7 +93,7 @@ productions of thirst. The closing prose resolves the verse's compact dative
 purpose: present pacification of desire for what is made “mine” belongs to the
 first three; final pacification of both “mine” and “I” belongs to the fourth.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Tribhiḥ` receives the first three lineages from
 6.07. `Karmāntena` identifies the work assigned to the fourth, which the prose

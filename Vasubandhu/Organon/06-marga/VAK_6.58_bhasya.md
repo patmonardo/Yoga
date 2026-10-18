@@ -330,7 +330,7 @@ classification that allows it. The closing lines extend the six
 dispositions to earlier practitioner stages and exclude faculty
 transition during Seeing.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Na pūrvakāt` governs both first
 disposition and first noble fruit. `Avastuka` does not mean without

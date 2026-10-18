@@ -81,7 +81,7 @@ of abandonment. They cannot yet be collapsed into a generic “error
 removal” operation, and the five views cannot be treated as five
 mere opinions detached from their domain and path relations.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The five view names remain technical
 compounds because this unit counts them but does not define them.

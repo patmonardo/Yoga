@@ -95,7 +95,7 @@ appropriation. Two causal exclusions clarify its homogeneous-flow status. The
 closing comparison determines which ground of consciousness can discern the
 breaths, with one compressed final clause left for textual review.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Yataḥ kāyaḥ` is expanded by the prose to a
 same-ground relation between body and breath. `Sattvākhyau` says how the

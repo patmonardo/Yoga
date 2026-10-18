@@ -70,7 +70,7 @@ Are these verified confidences contaminated or uncontaminated? They are stainles
 
 The opening applies `api` to the two previously named confidences and relates Buddha and Saṃgha confidence to the dharmas constituting their objects. The commentary then completes Dharma's Truth-object by adding the Path to the first three. It distinguishes four names by bases of confidence from two constituent dharmas, marks the confidences stainless, and defines their genesis as assurance after understanding the Truths as they are. Finally it turns to the order in which these confidences become present after realization and offers practical comparisons.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Api` means that Path-realization brings Buddha and Saṃgha confidence together with Dharma and ethical confidence. `Mārgaś ca` adds the Path to `satyatrayam`, so Dharma-confidence takes all four Truths as its object. `Nāmataḥ` counts four designations by different confidence-bases; `dravyataḥ` counts two constituent dharmas, `śraddhā` and `śīla`. `Nirmalā` marks the verified confidences uncontaminated. `Avetyaprasāda` is settled assurance following comprehension of the Truths as they are. The source retains `bodhisattvapratyekabuddhayoḥ` without giving it a secure syntactic explanation here.
 

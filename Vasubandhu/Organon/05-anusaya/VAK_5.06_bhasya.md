@@ -118,7 +118,7 @@ vaibhāṣikāḥ` explicitly assigns the final answer to the
 Vaibhāṣikas. The compressed Devadatta analogy warrants no stronger
 historical or causal reconstruction from this passage alone.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Ārya` and `pṛthagjana` are rendered
 “noble practitioner” and “ordinary person” to preserve the

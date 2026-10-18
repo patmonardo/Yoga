@@ -139,7 +139,7 @@ reporting the Vaibhāṣika mapping, it favors the Dharma exposition
 for that formula and defines turning by Meaning entering another
 continuum. A final alternative extends wheel to the whole noble Path.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Tat eva` resumes the uncontaminated Path.
 The Buddha's Brahmā-name is explained by unsurpassed brāhmaṇya;

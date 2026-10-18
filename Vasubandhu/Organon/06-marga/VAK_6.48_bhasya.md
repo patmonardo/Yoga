@@ -82,7 +82,7 @@ question extends the preceding verse's *anāgamya* claim to eight
 noble bases, fixes their own-and-higher range, and identifies Truths
 as the cognitive Condition of supramundane Paths.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Antyaḥ` limits the support alternative
 to the final liberation Path. `Tribhūjaya` counts desire realm, first

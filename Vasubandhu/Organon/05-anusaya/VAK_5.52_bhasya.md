@@ -95,7 +95,7 @@ and indeterminate ethical status for three factors within
 the desire-realm. Carrying the earlier gloss forward would
 misread the verse's active classification.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Tadanye` refers to the five
 envelopments other than 5.51's named five. `Aśubha` is

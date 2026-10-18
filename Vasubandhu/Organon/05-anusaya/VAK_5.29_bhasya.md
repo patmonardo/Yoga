@@ -85,7 +85,7 @@ Thus the object's domain and abandonment class do not
 automatically determine the ethical status or domain of the
 cognition that takes it as its object.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Hetudṛk` is read through the
 prose's `samudayadarśana`, seeing origination or cause.

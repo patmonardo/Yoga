@@ -147,7 +147,7 @@ necessarily manifesting now in an ārya. `Aprahīṇa` and
 is about a deliberate afflictive occupation (`saṃcintya`), not
 about the bare occurrence of bodily movement.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Māna` stays visible because
 “conceit” only approximates its comparative operation.

@@ -105,7 +105,7 @@ kleśas are also upakleśas gives a broad inclusion on the
 ground that they afflict citta; 5.46 will distinguish other
 afflicted mental factors from the kleśas.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The Kārikā's `vidvaśād` cannot
 be securely translated from this witness alone. The prose

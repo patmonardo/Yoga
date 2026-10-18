@@ -83,7 +83,7 @@ wholesome operation, unwholesome non-operation, and non-return. A
 scriptural counterexample prompts a final distinction between
 qualified and strict uses of “good person.”
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Abheda` governs the count by leaving the
 upward-streamer undivided. `Sat/asat` is read with the prose's

@@ -112,7 +112,7 @@ distinguishes being such an anuśaya from standing in the
 reader. Supplying them as though they were explicit prose here
 would change the source's presentation.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Ūrdhvālambana` is a higher-domain
 cognitive support, while the prose also says `visabhāgadhātu`,

@@ -101,7 +101,7 @@ before posing four classificatory questions. After the verse answers them,
 the prose specifies grounds, visible-form Condition, human production,
 contamination status, temporal range, and two modes of acquisition.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Atikrānta-manaskāra` is a stage within the
 unattractive practice; it does not name a general passage beyond attention or

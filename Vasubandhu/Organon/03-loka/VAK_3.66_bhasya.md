@@ -149,7 +149,7 @@ These descriptions converge on one city but answer different questions.
 Sudarśana is not simply central by virtue of being a capital, nor is its
 political role reducible to its position at the summit's center.
 
-## 9. Organon Study
+## 9. Interpretation
 
 For the Organon, this passage models the progressive determination of a
 habitable place:

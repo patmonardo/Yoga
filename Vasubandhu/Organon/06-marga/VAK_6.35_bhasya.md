@@ -62,7 +62,7 @@ then identifies exhaustion of the sixth with attainment of the second
 fruit. It explains “once-returner” by return from divine to human life
 and by the attenuation of greed, hatred, and delusion.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Āpañcama` includes the fifth grade;
 `pratipannaka` designates one proceeding toward a fruit, whereas

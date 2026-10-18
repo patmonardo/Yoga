@@ -59,7 +59,7 @@ unit; their source affiliations follow its later half.
 Class membership is thus established before the present
 passage gives the six factors' complete identity or origin.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Kaukṛtya` is “remorse” in this
 list. `Pratighānvaya` is rendered through the Bhāṣya's

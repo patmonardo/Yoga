@@ -184,7 +184,7 @@ the inhabitants.
 The terraces remain determinations of produced Loka. Their ascending order is
 not by itself a scale of liberation or spiritual realization.
 
-## 9. Organon Study
+## 9. Interpretation
 
 For the Organon, this passage is useful because it refuses to collapse bearer,
 class, habitation mode, and spatial coordinate:

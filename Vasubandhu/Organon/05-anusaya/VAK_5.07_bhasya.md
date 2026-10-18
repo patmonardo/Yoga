@@ -130,7 +130,7 @@ transcendental use of Ātman, Sāṃkhya, or Yoga. The local target of
 `satkāyadṛṣṭi` is specifically grasping the five appropriated
 Bases as a self or its possessions.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Satkāya` remains visible because its
 Bhāṣya etymology and its reference to the five Bases matter.

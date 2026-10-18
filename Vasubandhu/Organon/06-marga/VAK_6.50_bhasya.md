@@ -66,7 +66,7 @@ explains the exclusion of Knowing of non-arising where falling away
 is possible. A question about right view prompts the universal answer:
 it belongs to every arhat, including the immovable one.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Anutpādamatiḥ` in the verse is identified
 by the prose as `anutpādajñāna`, Knowing of non-arising. The source's

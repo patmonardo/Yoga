@@ -154,7 +154,7 @@ The opening estimate of dhyāna extents already uses “small,” “middle,” 
 one. The recursive construction of the middle and great systems belongs to
 the following verse.
 
-## 9. Doctrinal and Organon Study
+## 9. Doctrinal and Interpretation
 
 The local cosmology now serves as a repeated unit within a larger world-system.
 The scale change preserves kinds: continents remain distinct from celestial

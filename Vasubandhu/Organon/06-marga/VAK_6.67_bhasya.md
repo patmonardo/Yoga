@@ -64,7 +64,7 @@ Because they conform to Bodhi, the Bodhi-aligned dharmas arise as thirty-seven. 
 
 The passage first connects the same Mārga to Bodhi and enumerates its thirty-seven aligned factors. It defines Bodhi through the two Knowings, distinguishes three modes of awakening by person, and explains why the factors belong to Bodhi's side. It then changes the counting criterion from names to constituent dharmas and leaves their enumeration to the next verse.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Jñāna` is consistently **Knowing**. `Anutpādakṣayajñāne` is a dual, while `bodhiḥ` is singular: two Knowings articulate one awakening. `Tad-anulomyataḥ` gives the reason the factors are called Bodhi-aligned. `Nāmataḥ` counts thirty-seven designations; `dravyataḥ` counts ten constituent dharmas. The source does not say that the thirty-seven names are merely unreal or that the ten are individual persons.
 

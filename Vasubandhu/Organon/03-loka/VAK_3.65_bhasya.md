@@ -158,7 +158,7 @@ for a determinate spatial claim. One must also know whether it applies to
 each side or to the whole perimeter. The Bhāṣya keeps both readings visible,
 while the location and population of the peaks are stated directly.
 
-## 9. Organon Study
+## 9. Interpretation
 
 For the Organon, the passage presents a simple requirement for representing
 measurements: preserve both the value and the Feature it measures.

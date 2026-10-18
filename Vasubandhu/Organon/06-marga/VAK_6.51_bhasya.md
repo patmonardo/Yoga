@@ -91,7 +91,7 @@ It derives the eighty-nine paired cases from eight by seeing and
 eighty-one by cultivation, distinguishing the uninterrupted work
 from both kinds of fruit.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The running verse's `śrāvaṇyam` and
 `mārgaṃḥ` are preserved in §2; the study uses the prose's śrāmaṇya

@@ -43,7 +43,7 @@ The next verse opens: at the direct realization of the Path, there is also acqui
 
 The first sentence completes the classification by contemplative ground: both named grounds lack the two noble factor groups because the uncontaminated Path is absent there. The commentary then asks when verified confidence is acquired. Its answer begins with Seeing the first three Truths and the Dharma and ethical confidences. The opening of 6.74 supplies acquisition at the Path-truth and the remaining two confidence objects; its prose also explains the force of `api`.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Kāmadhātu` is the desire realm and `Bhavāgra` the summit of existence. `Bodhimārgāṅga` names the awakening and Noble Path factor groups, seven and eight respectively; their absence leaves twenty-two of the thirty-seven. `Avetyaprasāda` is verified confidence, acquired in relation to Truths directly seen. The verse's `trisatya` is suffering, origin, and cessation; the commentary supplies the names and the acquisition verb. Its account of Buddha and Saṃgha confidence and the force of `api` comments on the opening of 6.74.
 

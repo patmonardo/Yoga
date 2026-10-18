@@ -101,7 +101,7 @@ the four cognition groups from those confined to the
 mental level. This preserves the cognitive-support axis of
 5.54 alongside the feeling-conjunction axis here.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Kāṅkṣā` is afflictive doubt in
 this context. `Upekṣā` is the neutral feeling faculty, not

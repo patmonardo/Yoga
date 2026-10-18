@@ -262,7 +262,7 @@ it substitutes permanence, pleasure, purity, or selfhood for the determinations
 actually displayed. Mārga must therefore do more than negate a proposition;
 it must restore the Subject's adequate comprehension of the Product.
 
-That is the Organon light. The textual determination remains narrower:
+That is the Interpretation. The textual determination remains narrower:
 Vasubandhu defines proper inversion through contrariness, decisive
 determination, and superimposition, and makes recognition and consciousness
 derivative from the governing view.

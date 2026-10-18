@@ -106,7 +106,7 @@ great factors, the second to the afflictive great factors.
 Class membership is the stated reason for broad feeling
 range, not a claim that feeling and affliction are identical.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The anchor follows the separate
 kārikā witness where the running text is visibly irregular.

@@ -58,7 +58,7 @@ treating the eightfold list as the term's fixed extension.
 The individual definitions await the prose following the
 5.48 fragment.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The source form `āhlīkyam` is
 kept in the continuous Sanskrit; “shamelessness” gives its

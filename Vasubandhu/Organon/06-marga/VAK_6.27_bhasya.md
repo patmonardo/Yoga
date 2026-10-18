@@ -134,7 +134,7 @@ It allows unity through acquired capacity or coordinated work while
 rejecting simultaneous Truth-seeing. Finally it keeps the ground of the
 sixteen moments continuous with the final mundane preparation.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Ṣoḍaśacitta` is rendered “sixteen moments of
 consciousness,” retaining the controlled distinction between `citta` and

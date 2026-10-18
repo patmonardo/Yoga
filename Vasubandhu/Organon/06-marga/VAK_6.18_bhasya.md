@@ -85,7 +85,7 @@ It derives Acceptance from the developed Summits, names three grades, and
 limits Summit-like formation to the first two. All three grades of Acceptance
 are strengthened through the dharma establishment alone.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Ubhaya` refers to Heat and Summits. `Anyaiḥ`
 permits the other three establishments in addition to the dharma

@@ -79,7 +79,7 @@ are related in this causal account, but their exact ontological
 relation should not be settled by a simple latent-versus-manifest
 equation.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Pratyupasthita` describes an
 object appearing before cognition, while `ābhāsagata`

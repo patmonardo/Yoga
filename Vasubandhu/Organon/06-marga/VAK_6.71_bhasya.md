@@ -52,7 +52,7 @@ It then asks how many factors occur in each ground. All thirty-seven are present
 
 The passage distinguishes strict noble Path designations from mundane counterparts, while allowing the remaining groups both purity-statuses. It then changes the counting criterion to meditative ground: the first dhyāna supports all thirty-seven, whereas preliminary concentration lacks joy. The closing question supplies an operative reason for that absence and leads into 6.72's further ground map.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Anāsrava` is uncontaminated and `sāsrava` contaminated. The technical Bodhyaṅga and Mārgāṅga groups are uncontaminated in their noble Path determination; the existence of mundane right view does not make it a noble Path-factor. `Dvidhā itare` applies both purity-statuses to the other groups. `Anāgamya` is preliminary concentration, not the person-type Anāgāmin. The source's explanation of missing joy involves both effort and unease toward the lower ground.
 

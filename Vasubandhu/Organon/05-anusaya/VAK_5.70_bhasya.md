@@ -117,7 +117,7 @@ spell out a general proof that no conceivable path transition could
 produce five. Its categorical `pañca tu nai kaścillabhate` is retained
 as the doctrinal rule here.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Dhātu-vairāgya` means dispassion from a
 domain; `phala-lābha` is attainment of a fruit. `Saṃkalana` is

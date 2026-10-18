@@ -105,7 +105,7 @@ of the ten kleśas. It is a reported doctrinal sequence,
 not a claim that every person always passes through these
 stages in a fixed psychological chronology.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The Bhāṣya expands `antagrahaṇa`
 to `antagrāhadṛṣṭi` and `śīlāmarśa` to

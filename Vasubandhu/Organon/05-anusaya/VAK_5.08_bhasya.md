@@ -126,7 +126,7 @@ speaker is attached to them here.
 a reason for the creator-cause case but does not claim to have
 settled every case of `śīlavrataparāmarśa` by one effortless rule.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Kāraṇābhiniveśa` is “causal fixation,”
 not neutral inquiry into causes. `Viparyāsa` is inversion, and

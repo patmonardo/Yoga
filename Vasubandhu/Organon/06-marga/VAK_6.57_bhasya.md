@@ -118,7 +118,7 @@ line. It then distinguishes original from faculty-sharpened
 to trainee application and faculty quality, and contrasts possible
 with necessary events in the three-realm distribution.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Asamaya-vimukta` is independence from
 suitable occasion, with concentration manifest at will.

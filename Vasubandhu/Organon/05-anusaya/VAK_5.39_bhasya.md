@@ -78,7 +78,7 @@ abandonment of what continues to bind. The passage does not
 here specify all conditions for that renewed manifestation;
 5.34 treated conditions for arising separately.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** “Lie along” keeps the verbal
 force of `anuśerate` and avoids importing a theory of an

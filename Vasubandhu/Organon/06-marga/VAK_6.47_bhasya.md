@@ -71,7 +71,7 @@ Path's supporting ground from the range of dispassion it can produce;
 `ābhavāgrāt` supplies the upper bound. The final question prepares
 6.48's discussion of the liberation Path's ground.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The source's compact first half is read
 through its prose examples without silently reconstructing its

@@ -89,7 +89,7 @@ view, doubt, and ignorance may be directed toward cessation and
 path; the five types here are excluded by the character of
 their own operation in relation to those supports.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Tasya varjyatvāt` is resolved by the
 prose `varjanīyo hi rāgaḥ`: what is relinquishable is rāga

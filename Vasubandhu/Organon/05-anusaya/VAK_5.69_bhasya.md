@@ -114,7 +114,7 @@ The closing question asks why the non-returner and arhat each have
 only one established *parijñā*. The answer through *saṃkalana* belongs
 to 5.70; this unit raises the question and stops there.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Samanvāgata` and `samanvita` mean “endowed
 with” in the technical, present-possession question. `Naikayā` is read

@@ -136,3 +136,9 @@ of three ways checked against the running Sanskrit.
 
 Knowledge Base and Reasoning withdrawn. The order is deferred. The next study
 is not opened.
+
+The paired kārikā now has verse-order tokens, dual agreement, ablative
+government, derived reasons and placements, and separate prose checks
+for the ordered principal causes and mediations. Mental-factor status is
+preserved. The single anchor retains its Bhāṣya-informed translation;
+the promised order argument is not supplied here.

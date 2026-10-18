@@ -162,7 +162,7 @@ attainment of total exhaustion; it then defines arhat and trainee
 statuses, refines the eight-person count, and explains why dispassion
 from the summit alone requires a supramundane Path.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Kṣayajñāna` is Knowing of exhaustion, not
 a generic awareness of an earlier severance. `Kṣayaprāpti` is attainment

@@ -84,7 +84,7 @@ The commentary then expands the combinations. A faith-follower can be differenti
 
 The commentary starts with seven names, derives each by the relevant differentiating principle, and distinguishes the name count from the six positions obtained as two persons across three Paths. It then shows that the same person designation can be subdivided through several independent dimensions. The proliferating count is a consequence of combining determinate relations, rather than an eighth or ninth basic name in this scheme.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Akṣa` is explained by the commentary as `indriya`, faculty. `Nāmataḥ` counts names; `dravyataḥ` counts six without treating the extra designation as a separate Path-position. `Artha` in the account of earlier application is rendered **Meaning**, in accord with project usage. `Jñāna` in the Path-position count is **Knowing**. The large compound numeral at [380|21–22] is preserved in Sanskrit above; the conventional translation states its combinatorial force without imposing a modern numeral grouping on this compact witness.
 

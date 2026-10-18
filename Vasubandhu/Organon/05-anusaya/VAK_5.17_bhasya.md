@@ -69,7 +69,7 @@ It also does not settle the association side of the opening
 question. The next verse states exceptions to the support rule
 and then supplies the distinct association rule.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Anuśerate` is rendered “adhere”
 to keep its relational force; “lie latent inside” would already

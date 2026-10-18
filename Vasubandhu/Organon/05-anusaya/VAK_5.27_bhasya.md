@@ -338,7 +338,7 @@ objections. The study therefore keeps the line's dramatic
 place rather than treating it as Vasubandhu's final appeal
 to mystery.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Dravyataḥ` and `svabhāva` name
 the substantial-existence claim under dispute. `Kāritra`

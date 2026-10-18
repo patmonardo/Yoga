@@ -183,7 +183,7 @@ This is a brief additional determination, not a separate account of
 conception. The next question asks what age the child resembles; that question
 belongs to VAK 3.70 and is not expanded here.
 
-## 9. Organon Study
+## 9. Interpretation
 
 This unit distinguishes class membership from a particular capacity:
 

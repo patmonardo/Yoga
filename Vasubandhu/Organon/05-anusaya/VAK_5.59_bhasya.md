@@ -175,7 +175,7 @@ as competing explanations; it does not explicitly erase
 their disagreement or settle every mapping among
 `śamatha`, `vipaśyanā`, and doubt in the last account.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The running verse's `dvyekatā`
 is translated through its explicit prose gloss, “unity of

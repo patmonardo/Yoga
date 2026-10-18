@@ -147,7 +147,7 @@ anuśaya adherence remain distinct. The prose says
 `yathāsaṃbhavam`, “as applicable,” before listing the
 relevant anuśayas.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Svādhika` is “with its own
 corresponding citta added,” as fixed by the prose. `Antyatraya`

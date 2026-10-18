@@ -87,7 +87,7 @@ does not say that the abandoned affliction itself remains
 operative. It locates the remaining bond in other afflictions
 whose object is the already abandoned class or grade.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Vastu` is kept as “object” or
 “matter” rather than being equated automatically with an

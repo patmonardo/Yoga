@@ -122,7 +122,7 @@ an easy equation of nearness with present activity or lack
 of spatial interval. The source does not here identify
 `ākāśa` with the spatial separation of the two oceans.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Vailakṣaṇya` means difference
 of characteristic; `vipakṣatva` means opposition, not mere

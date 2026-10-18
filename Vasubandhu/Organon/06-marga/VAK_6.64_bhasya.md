@@ -58,7 +58,7 @@ A saying attributed to the Blessed One mentions a trainee who has abandoned affl
 
 The passage distinguishes liberation from affliction through Prajñā from the additional meditative freedom present with cessation-attainment. It then changes subject to the trainee, where “complete” is specified relative to fruit, faculty, or attainment. The examples articulate allowed cases, and the final exclusion makes fruit a condition wherever attainment counts toward completeness.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Itaraḥ` refers to the other arhat, the one liberated by Prajñā without cessation-attainment; it does not imply incomplete liberation from affliction. `Samāpatti`, `indriya`, and `phala` are three respects of trainee completeness. The source's fruit-and-faculty example explicitly includes `kāyasākṣin`, although body-witness elsewhere depends on cessation-attainment. That tension is preserved rather than silently converted into a mutually exclusive five-combination chart. The scriptural quotation is summarized conservatively because of its compressed working text.
 

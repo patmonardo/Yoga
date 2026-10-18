@@ -90,7 +90,7 @@ same dharmas. Finally it defines two losses by their shared outcome,
 non-possession, while separating their causes and the causal consequence
 remaining after regression from Heat.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Parihāṇi` is regression, a loss caused by a
 fault; `vihāni` is relinquishment and need not arise from a fault.

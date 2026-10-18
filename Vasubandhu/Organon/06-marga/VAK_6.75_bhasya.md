@@ -53,7 +53,7 @@ What is this liberation? It is twofold: conditioned and unconditioned. The uncon
 
 The scriptural eight-and-ten distinction frames the question. The commentary then argues that remaining afflictive bondage bars the unqualified designation “liberated” and, with it, immediate Knowing of completed liberation. It does not deny the trainee's partial abandonments. Once it establishes the one beyond training as the proper subject of liberation, it asks what liberation itself is and divides it into unconditioned abandonment and conditioned `adhimokṣa`.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The verse's `baddhatvāt` refers to residual afflictive bondage, not a mere unfinished curriculum. `Vimukti` is completed liberation in the passage's unqualified predication; the trainee's partial release is real but does not license that name. `Samyagjñāna` is right Knowing, and `vimuktijñāna` is immediate Knowing of accomplished liberation. The two forms of `vimukti` are `asaṃskṛta`, abandonment of afflictions, and `saṃskṛta`, the Aśaikṣa's `adhimokṣa`. The first pāda's confidence count belongs to the 6.74 source passage and is retained in this composite kārikā anchor.
 

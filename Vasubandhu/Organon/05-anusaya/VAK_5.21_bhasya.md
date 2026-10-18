@@ -83,7 +83,7 @@ The text reports this argument without establishing a more
 specific identity for the outside authorities or resolving
 the rivalry in this unit.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Kila` marks the reported explanation.
 `Dvaidha-vṛtti` describes doubt's divided movement; `ūrdhva-vṛtti`

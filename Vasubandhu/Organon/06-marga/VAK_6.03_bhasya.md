@@ -412,7 +412,7 @@ who sees (hair; Avīci / bhavāgra) → path-bar → anitya draws duḥkha
 denial of pleasure → Abhidharmika defense → bondage / release → double close
 ```
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The kārikā's `aśeṣataḥ` makes the contaminated
 field exhaustive, while `yathāyogam` distributes the named modes. The

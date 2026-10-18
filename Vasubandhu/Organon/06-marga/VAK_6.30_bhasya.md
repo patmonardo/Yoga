@@ -75,7 +75,7 @@ three prospective fruits according to prior mundane abandonment. Up to
 five grades keeps first-fruit candidacy; six through eight move to the
 second; nine and any specified higher detachment move to the third.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Yāvat pañca` sets the first-fruit upper
 bound. `Arvāk navakṣayāt` means short of the ninth grade's destruction;

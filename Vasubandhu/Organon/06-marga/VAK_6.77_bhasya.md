@@ -41,7 +41,7 @@ next instant = Aśaikṣa mind already free
 abandons ≠ is-released
 ```
 
-## 5. Organon Light (typed)
+## 5. Interpretation (typed)
 
 ```ts
 type Cut = { now: "prahana"; next: "vimukti" };

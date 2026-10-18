@@ -115,7 +115,7 @@ attainable completion. The commentary then assigns rebirth, present
 abiding, and protection against affliction according to fruit and
 faculty.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Anāsrava` and `sāsrava` mark uncontaminated
 and contaminated modes of the same fourth dhyāna. `Kṣaṇa-miśraṇa` is

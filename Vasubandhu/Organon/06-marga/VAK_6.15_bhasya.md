@@ -144,7 +144,7 @@ name, reporting the Vaibhāṣika answer before preferring its own. Finally it
 distinguishes the arising-order from the fourfold number and explains the
 latter through four paired counterforces.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Anye` refers to other dharmas arising with
 Prajñā. `Saṃsarga` is association; `ālambana` is a cognitive Condition, not

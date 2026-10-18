@@ -223,7 +223,7 @@ higher being's intention
 This is an attributed explanation of cross-level presentation. It distinguishes
 the visitor's origin from the level of the body through which it appears.
 
-## 9. Doctrinal and Organon Study
+## 9. Doctrinal and Interpretation
 
 The passage keeps several relations distinct:
 

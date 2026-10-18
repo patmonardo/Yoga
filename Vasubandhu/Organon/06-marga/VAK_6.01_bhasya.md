@@ -57,7 +57,7 @@ The opening recalls 5.68–5.70's account of when abandonment is designated
 afflictions. These established classes become the premise for a new question:
 what status must the Paths that remove them have?
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Dvividhaḥ` divides cultivation into `laukika`
 and `lokottara`, not two forms of seeing. `Tu` makes seeing the contrasting

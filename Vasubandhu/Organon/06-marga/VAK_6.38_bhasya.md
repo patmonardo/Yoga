@@ -131,7 +131,7 @@ dhyāna and the summit-bound path with the intermingled Akaniṣṭha path,
 then qualifies both destinations as maxima. Finally it adds the
 fourfold formless-realm type and present-life completion.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Sarvacyuta` is read from the prose as one
 who traverses all stations. `Bhavāgraga` marks the summit as a maximal

@@ -59,7 +59,7 @@ Either easy or difficult course is further distinguished by realization. For one
 
 The commentary first renames Mārga as the course that leads to Nirvāṇa and sets out the four combinations. It then explains why the four dhyānas give an easy course and the other grounds a difficult one. A separate faculty contrast determines the pace of realization. The final sentence carries the same Path into the Bodhi-aligned classification of 6.67.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Sukhā` and `duḥkhā` describe structural ease and difficulty of the Path-course, supported or hindered by meditative conditions; they are not identical with pleasant or painful feeling. `Mṛdumati` is explained through mild faculty, `mṛdvindriya`, and its counterpart through sharp faculty, `tīkṣṇendriya`. The kārikā's `dhanyābhijñā` is retained in the continuous witness, while `dhandhābhijñā` is used in the study on the repeated prose evidence. The alternative construal of the slow compound does not collapse the two axes.
 

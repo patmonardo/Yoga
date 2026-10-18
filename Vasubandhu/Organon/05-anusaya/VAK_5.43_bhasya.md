@@ -116,7 +116,7 @@ account for the wider six, while leaving the exact force
 of the causal verb and the abandonment relation for later
 review.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Avarabhāga` is first identified
 with the desire-realm, then receives the `apare` reading

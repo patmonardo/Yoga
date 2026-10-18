@@ -47,7 +47,7 @@ def satisfies(valuation, formula):
 
 class DhatuPilotTests(unittest.TestCase):
     def test_pilot_passes_strict_audit_and_semantic_typecheck(self):
-        for number in range(1, 20):
+        for number in range(1, 22):
             with self.subTest(verse=number):
                 text = study(number)
                 self.assertEqual(check_grammar(text, strict=True)[1], [])
@@ -109,12 +109,116 @@ class DhatuPilotTests(unittest.TestCase):
              "NAMES[CASE=nom,NUM=sg,GEN=m,SEM="),
             (15, "ACCOMP[CASE=ins,NUM=pl,SEM=",
              "ACCOMP[CASE=nom,NUM=pl,SEM="),
+            (20, "SENSES[CASE=nom,NUM=pl,GEN=m,SEM=",
+             "SENSES[CASE=nom,NUM=sg,GEN=m,SEM="),
+            (20, "THREE[CASE=nom,NUM=pl,GEN=f,SEM=",
+             "THREE[CASE=nom,NUM=pl,GEN=m,SEM="),
+            (21, "PLACED[CASE=nom,NUM=dual,GEN=m,SEM=",
+             "PLACED[CASE=nom,NUM=pl,GEN=m,SEM="),
+            (21, "PAIR[CASE=nom,NUM=dual,GEN=f,SEM=",
+             "PAIR[CASE=nom,NUM=sg,GEN=f,SEM="),
+            (21, "OTHER[CASE=abl,NUM=pl,SEM=",
+             "OTHER[CASE=ins,NUM=pl,SEM="),
         )
         for number, before, after in changes:
             with self.subTest(verse=number):
                 text = study(number)
                 self.assertIn(before, text)
                 self.assertEqual(parse(text.replace(before, after)), [])
+
+    def test_separate_bases_preserve_mental_factor_status_and_all_reasons(self):
+        valuation, formula = valuation_and_formula(21)
+        self.assertTrue(satisfies(valuation, formula))
+        pair = {(valuation[name],) for name in ("feeling", "reflection")}
+        self.assertEqual(len(pair), 2)
+        self.assertEqual(valuation["SeparateBasePlacement"], pair)
+        self.assertTrue(pair <= valuation["MentalFactor"])
+        for predicate in (
+            "CauseOfDisputeRoots", "CauseOfSamsara", "OrderReasonForSeparateBases",
+            "SeparateBasePlacement", "SeparatelyFrom",
+        ):
+            for member in valuation[predicate]:
+                changed = Valuation(list(valuation.items()))
+                changed[predicate] = valuation[predicate] - {member}
+                self.assertFalse(satisfies(changed, formula), (predicate, member))
+
+    def test_principal_causes_mediations_and_roots_do_not_collapse(self):
+        valuation, _ = valuation_and_formula(21)
+        for predicate, targets in (
+            ("PrincipalCause", ("sensual_fixation", "view_fixation")),
+            ("MediatedBy", ("savor", "inversion")),
+        ):
+            self.assertEqual(valuation[predicate], {
+                (valuation[factor], valuation[target])
+                for factor, target in zip(("feeling", "reflection"), targets)
+            })
+            formula = Expression.fromstring(
+                f"{predicate}(feeling,{targets[0]}) & "
+                f"{predicate}(reflection,{targets[1]})"
+            )
+            changed = Valuation(list(valuation.items()))
+            changed[predicate] = {
+                (valuation["feeling"], valuation[targets[1]]),
+                (valuation["reflection"], valuation[targets[0]]),
+            }
+            self.assertFalse(satisfies(changed, formula), predicate)
+        self.assertEqual(len(valuation["DisputeRoot"]), 2)
+        self.assertFalse(valuation["DisputeRoot"] & valuation["MentalFactor"])
+        self.assertFalse(valuation["SoleCause"])
+        same_person = Expression.fromstring(
+            "exists x.(GreedyForSavor(x) & InvertedReflection(x) & Wanders(x))"
+        )
+        self.assertTrue(satisfies(valuation, same_person))
+        changed = Valuation(list(valuation.items()))
+        changed["InvertedReflection"] = {("another_person",)}
+        self.assertFalse(satisfies(changed, same_person))
+
+    def test_three_meanings_and_explanatory_axes_are_required(self):
+        valuation, formula = valuation_and_formula(20)
+        self.assertTrue(satisfies(valuation, formula))
+        self.assertEqual(len(valuation["Meaning"]), 3)
+        self.assertEqual(len({value for _, value in valuation["Meaning"]}), 3)
+        self.assertEqual(
+            valuation["Teaching"],
+            {(valuation[name],) for name in ("base", "essence", "principle")},
+        )
+        self.assertEqual(len(valuation["Teaching"]), 3)
+        for predicate in (
+            "Meaning", "Threefold", "ExplainsThreeTeachings", "ThreeTeachings"
+        ):
+            for member in valuation[predicate]:
+                changed = Valuation(list(valuation.items()))
+                changed[predicate] = valuation[predicate] - {member}
+                self.assertFalse(satisfies(changed, formula), (predicate, member))
+
+    def test_learner_axes_have_three_ordered_values_without_fixed_profiles(self):
+        valuation, _ = valuation_and_formula(20)
+        for predicate, values in (
+            ("SuitedToConfusion", ("mental_factors", "form", "form_and_consciousness")),
+            ("SuitedToFaculty", ("sharp", "middling", "weak")),
+            ("SuitedToInclination", ("brief", "intermediate", "extensive")),
+        ):
+            expected = {
+                (valuation[teaching], valuation[value])
+                for teaching, value in zip(("base", "essence", "principle"), values)
+            }
+            self.assertEqual(valuation[predicate], expected)
+            self.assertEqual(len({value for _, value in expected}), 3)
+            formula = Expression.fromstring(" & ".join(
+                f"{predicate}({teaching},{value})"
+                for teaching, value in zip(("base", "essence", "principle"), values)
+            ))
+            changed = Valuation(list(valuation.items()))
+            changed[predicate] = {
+                (valuation["base"], valuation[values[1]]),
+                (valuation["essence"], valuation[values[0]]),
+                (valuation["principle"], valuation[values[2]]),
+            }
+            self.assertFalse(satisfies(changed, formula), predicate)
+        self.assertTrue(
+            valuation["Unconditioned"] <= valuation["PrincipleMember"]
+        )
+        self.assertFalse(valuation["Unconditioned"] & valuation["HomogeneousCause"])
 
     def test_formations_remainder_is_conditioned_and_not_only_volition(self):
         valuation, formula = valuation_and_formula(15)

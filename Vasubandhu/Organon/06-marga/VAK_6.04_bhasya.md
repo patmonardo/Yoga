@@ -97,7 +97,7 @@ own-nature cognition with visible form and feeling. It then establishes that
 conventional speech can be true. The former teachers' criterion is reported
 after the main analysis rather than inserted into the kārikā.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** The verse leaves the loss of `tad-buddhi` implicit;
 the prose supplies `na bhavati`. `Anyathā` introduces the persistence of

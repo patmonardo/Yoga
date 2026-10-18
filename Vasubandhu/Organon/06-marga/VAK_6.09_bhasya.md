@@ -99,7 +99,7 @@ desire and their counter-presentations, before recommending the skeleton for
 all of them. The final sentence distinguishes suppression from definitive
 abandonment.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Yathākramam` supplies the respective distribution
 of two instrumentals over two practitioner types. `Śaṃkalā` is a common

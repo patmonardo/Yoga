@@ -161,7 +161,7 @@ this is not another basic trainee class. The close multiplies the
 coarse non-returner types by faculty, ground, lineage, station, and
 detachment.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Citta` is “consciousness” in the moment
 counts; `vijñāna` in `savijñānakāṃ` is Cognition upon emergence.

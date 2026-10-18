@@ -252,7 +252,7 @@ clarifies the non-production of Nirvāṇa. Finally it establishes
 family-to-family by abandonment, antidotal faculty, and remaining births,
 then explains why five abandoned grades do not form a separate position.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Akṣīṇa` includes even one unabandoned grade;
 `para` is a maximum. `Srotas` is the Path toward Nirvāṇa. The debate over

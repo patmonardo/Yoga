@@ -132,7 +132,7 @@ different modes of birth and habitation. The source gives no further
 linguistic description here, so “ārya language” is retained without
 identifying it with a specific historical human language.
 
-## 9. Doctrinal and Organon Study
+## 9. Doctrinal and Interpretation
 
 The main doctrinal distinction is between destination-class and initial
 embodiment:

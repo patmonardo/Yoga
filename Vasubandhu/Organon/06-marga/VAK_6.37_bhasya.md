@@ -113,7 +113,7 @@ and of the effort distinction, then correlates Path strength and
 residual anuśaya. For the upward-streamer it defines the ascending
 course and gives cause and result as two bases of differentiation.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Antarā`, `utpanna`, `saṃskāra`, and
 `asaṃskāra` are expanded as alternative completion modes; the compound

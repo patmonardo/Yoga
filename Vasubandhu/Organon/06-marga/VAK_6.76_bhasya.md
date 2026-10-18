@@ -66,7 +66,7 @@ An objection cites a sūtra on the purification of liberation: consciousness bec
 
 The opening distinguishes the two categories of liberation. `Sāṅgaḥ` then counts unconditioned liberation together with the conditioned factors of one beyond training, while `saiva vimuktī dve` refers to conditioned liberation as the two scriptural liberations. The cited sūtra prompts an attributed alternative: purity of consciousness after Knowing of reality removes afflictions. The closing question moves from liberation to right Knowing and identifies it with the two Knowings that defined Bodhi in 6.67.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Asaṃskṛta-vimukti` is unconditioned abandonment; `saṃskṛta-vimukti` is the Aśaikṣa's `adhimokṣa` in the initial account. The prose resolves `sāṅgaḥ` as association with conditioned Aśaikṣa factors, not a change in the unconditioned liberation's category. `Ceto-vimukti` is liberation of consciousness; `prajñā-vimukti` is liberation through Prajñā. The alternative marked `apare` identifies liberation with purity of consciousness after `tattvajñāna` removes afflictions. `Samyagjñāna` is right Knowing, identified with `kṣayajñāna` and `anutpādajñāna`. The verse translation follows the primary resolution and leaves the alternative in this commentary study.
 

@@ -92,7 +92,7 @@ The secure point is that false view can occur with either
 mental polarity. Feeling supplies an affective register;
 false view remains a distinct cognitive affliction.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Sukhābhyām` refers to bodily
 pleasure plus mental gladness, not to two indistinguishable

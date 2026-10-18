@@ -114,7 +114,7 @@ characteristic (`sāmānya`). The reply is explicitly attributed
 to the Vaibhāṣikas; the preceding alternatives are dialectical,
 not a single settled authorial rule.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Ālambana` is kept as “cognitive
 support,” preserving the technical relation that defines range.

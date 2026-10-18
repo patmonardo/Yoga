@@ -92,7 +92,7 @@ accompany the six-cognition remainder; the range of
 cognition support is a different relation. Neither is
 the same as the genetic `niḥṣyanda` relation of 5.48–5.51.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Manovijñānabhūmika` is
 “belonging to the mental-cognition level,” while

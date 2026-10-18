@@ -111,7 +111,7 @@ before the final transition marks the explanation as
 reported in the Bhāṣya's voice; its status should remain
 visible rather than made an unqualified psychological law.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Sānuśaya` is rendered “bearing
 anuśaya,” while `anuśerate` is “adheres”; they are not

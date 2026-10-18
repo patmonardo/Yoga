@@ -18,32 +18,61 @@ mohendriyarucitraidhāt tisraḥ skandhādideśanāḥ // 1.20 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| rāśi | compound member | collection; gathered into one |
-| āya | compound member | arrival |
-| dvāra | compound member | door |
-| gotra | compound member | source-kind; the mine |
-| arthāḥ | nominative plural | having these meanings, distributed |
-| skandha-āyatana-dhātavaḥ | nominative plural compound | Bases, Essences, and Principles, in that order |
-| moha | compound member | confusion |
-| indriya | compound member | the learner's faculty |
-| ruci | compound member | inclination |
-| traidhāt | ablatival | because of the threefold |
-| tisraḥ deśanāḥ | nominative feminine plural | three teachings |
+| rāśi-āya-dvāra-gotra-arthāḥ | nominative masculine plural compound | having collection, door of arrival, and source-kind as their respective meanings |
+| skandha-āyatana-dhātavaḥ | nominative masculine plural copulative compound | Bases, Essences, and Principles, in that order |
+| moha-indriya-ruci-traidhāt | ablative singular compound | because of threefoldness in confusion, Faculty, and inclination |
+| tisraḥ | nominative feminine numeral | three |
+| skandha-ādi-deśanāḥ | nominative feminine plural compound | teachings beginning with the Bases |
 
 The first compound distributes: Base means collection, Essence means door
 of arrival, and Principle means source-kind.
 
-## 4. Grammar
+**Grammar tokens.** Verse-order IAST with sandhi opened and compound
+boundaries marked. Compounds remain whole leaves; *āya-dvāra* is one
+meaning, not two separate terms in a four-way distribution.
 
 ```text
-skandha-āyatana-dhātavaḥ
-    = rāśi-āya-dvāra-gotra-arthāḥ
-
-moha-indriya-ruci-traidhāt
-    → tisraḥ skandha-ādi-deśanāḥ
+# tokens: rāśi-āya-dvāra-gotra-arthāḥ skandha-āyatana-dhātavaḥ moha-indriya-ruci-traidhāt tisraḥ skandha-ādi-deśanāḥ
 ```
 
-The first line is a distributive predication. The second is an ablative of cause. *Tisraḥ* agrees with *deśanāḥ*. The commentary unfolds each meaning, then assigns the three teachings in order.
+## 4. Grammar
+
+The first compound predicates three meanings of the three named
+classifications. The Bhāṣya fixes their distributive pairing.
+The second line gives an ablative explanation for three teachings;
+feminine *tisraḥ* agrees with *deśanāḥ*, not with the masculine
+classification compound in the first line.
+
+```nltk-fcfg
+% start S
+# tokens: rāśi-āya-dvāra-gotra-arthāḥ skandha-āyatana-dhātavaḥ moha-indriya-ruci-traidhāt tisraḥ skandha-ādi-deśanāḥ
+S[SEM=<(?meanings & ?teaching)>] -> MEANINGS[SEM=?meanings] EXPLANATION[SEM=?teaching]
+MEANINGS[SEM=<?roster(?senses)>] -> SENSES[CASE=nom,NUM=?n,GEN=?g,SEM=?senses] ROSTER[CASE=nom,NUM=?n,GEN=?g,SEM=?roster]
+EXPLANATION[SEM=<?reason(?number(?teaching))>] -> REASON[CASE=abl,SEM=?reason] THREE[CASE=nom,NUM=?n,GEN=?g,SEM=?number] TEACHING[CASE=nom,NUM=?n,GEN=?g,SEM=?teaching]
+SENSES[CASE=nom,NUM=pl,GEN=m,SEM=<\b.\a.\d.(Meaning(b,collection) & Meaning(a,arrival_door) & Meaning(d,source_kind))>] -> 'rāśi-āya-dvāra-gotra-arthāḥ'
+ROSTER[CASE=nom,NUM=pl,GEN=m,SEM=<\P.(P(base)(essence)(principle))>] -> 'skandha-āyatana-dhātavaḥ'
+REASON[CASE=abl,SEM=<\P.(Threefold(confusion) & Threefold(faculty) & Threefold(inclination) & ExplainsThreeTeachings(confusion) & ExplainsThreeTeachings(faculty) & ExplainsThreeTeachings(inclination) & P)>] -> 'moha-indriya-ruci-traidhāt'
+THREE[CASE=nom,NUM=pl,GEN=f,SEM=<\s.ThreeTeachings(s)>] -> 'tisraḥ'
+TEACHING[CASE=nom,NUM=pl,GEN=f,SEM=<base_etc_teaching>] -> 'skandha-ādi-deśanāḥ'
+```
+
+```nltk-dep
+'skandha-āyatana-dhātavaḥ' -> 'rāśi-āya-dvāra-gotra-arthāḥ'
+'skandha-ādi-deśanāḥ' -> 'moha-indriya-ruci-traidhāt' | 'tisraḥ'
+```
+
+**Close construe.** Bases, Essences, and Principles have the meanings
+collection, door of arrival, and source-kind. Because confusion, Faculty,
+and inclination are threefold, there are three teachings beginning with
+the Bases.
+
+The parse encodes the ordered meanings and the explanatory force of the
+ablative. It does not derive the detailed learner distinctions from the
+compound alone. `Threefold` and `ThreeTeachings` record numerical claims;
+the finite extensions below test their actual three-member structures.
+Confusion, Faculty, and inclination are separate explanatory axes, not
+three successive stages or a requirement that every learner have one of
+three bundled profiles.
 
 ## 5. Translation
 
@@ -94,6 +123,94 @@ The second line does not rank the teachings. Some are confused about the mental 
 | deśanā | teaching | Base, Essence, Principle, in order |
 
 ## 8. Logical Determination
+
+**Kārikā, derived.** Three ordered meanings and three explanatory axes
+are kept distinct.
+
+```nltk-sem
+# derived by the section 4 parse
+((Meaning(base,collection) & Meaning(essence,arrival_door) & Meaning(principle,source_kind)) & (Threefold(confusion) & Threefold(faculty) & Threefold(inclination) & ExplainsThreeTeachings(confusion) & ExplainsThreeTeachings(faculty) & ExplainsThreeTeachings(inclination) & ThreeTeachings(base_etc_teaching)))
+```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+((Meaning(base,collection) & Meaning(essence,arrival_door) & Meaning(principle,source_kind)) & (Threefold(confusion) & Threefold(faculty) & Threefold(inclination) & ExplainsThreeTeachings(confusion) & ExplainsThreeTeachings(faculty) & ExplainsThreeTeachings(inclination) & ThreeTeachings(base_etc_teaching)))
+# THEORY prose
+# EXPECT prose T
+Teaching(base) & Teaching(essence) & Teaching(principle)
+SuitedToConfusion(base,mental_factors) & SuitedToConfusion(essence,form) & SuitedToConfusion(principle,form_and_consciousness)
+SuitedToFaculty(base,sharp) & SuitedToFaculty(essence,middling) & SuitedToFaculty(principle,weak)
+SuitedToInclination(base,brief) & SuitedToInclination(essence,intermediate) & SuitedToInclination(principle,extensive)
+exists x.(Unconditioned(x) & PrincipleMember(x) & -HomogeneousCause(x))
+# THEORY rejected_door_is_collection
+# EXPECT rejected_door_is_collection F
+arrival_door = collection
+# THEORY rejected_extensive_means_sharp_faculty
+# EXPECT rejected_extensive_means_sharp_faculty F
+all x.(SuitedToInclination(x,extensive) -> SuitedToFaculty(x,sharp))
+# THEORY rejected_all_principles_are_homogeneous_causes
+# EXPECT rejected_all_principles_are_homogeneous_causes F
+all x.(PrincipleMember(x) -> HomogeneousCause(x))
+```
+
+```nltk-valuation
+base => base_teaching
+essence => essence_teaching
+principle => principle_teaching
+collection => collection_meaning
+arrival_door => arrival_door_meaning
+source_kind => source_kind_meaning
+confusion => confusion_axis
+faculty => faculty_axis
+inclination => inclination_axis
+base_etc_teaching => threefold_exposition
+mental_factors => mental_factor_confusion
+form => form_confusion
+form_and_consciousness => form_consciousness_confusion
+sharp => sharp_faculty
+middling => middling_faculty
+weak => weak_faculty
+brief => brief_inclination
+intermediate => intermediate_inclination
+extensive => extensive_inclination
+Meaning => {(base_teaching,collection_meaning),(essence_teaching,arrival_door_meaning),(principle_teaching,source_kind_meaning)}
+Threefold => {confusion_axis,faculty_axis,inclination_axis}
+ExplainsThreeTeachings => {confusion_axis,faculty_axis,inclination_axis}
+ThreeTeachings => {threefold_exposition}
+Teaching => {base_teaching,essence_teaching,principle_teaching}
+SuitedToConfusion => {(base_teaching,mental_factor_confusion),(essence_teaching,form_confusion),(principle_teaching,form_consciousness_confusion)}
+SuitedToFaculty => {(base_teaching,sharp_faculty),(essence_teaching,middling_faculty),(principle_teaching,weak_faculty)}
+SuitedToInclination => {(base_teaching,brief_inclination),(essence_teaching,intermediate_inclination),(principle_teaching,extensive_inclination)}
+PrincipleMember => {eye_case,space_case}
+HomogeneousCause => {eye_case}
+Unconditioned => {space_case}
+```
+
+**Model checks.** The three teaching constants and the three meanings
+have distinct denotations. Each explanatory axis has exactly three
+distinct values assigned in the Bhāṣya's order. Removing a meaning or
+an explanatory assertion fails the derived formula; swapping the
+learner assignments fails the separate prose theory. The relation
+names express pedagogical suitability, not exhaustive prescriptions or
+claims that sharp Faculties, mental-factor confusion, and brief
+inclination must occur together in one person.
+
+**Bhāṣya determination.** The mine analogy explains the conditioned
+source-of-own-kind account. The objection about the unconditioned prompts
+others to explain Principle through kind and own-nature; the model's
+space witness blocks reduction of every Principle to a homogeneous cause.
+The collection debate concerns existence by designation, including an
+atom objection, rejected burden/portion alternatives, a distinction from
+Form Essences' causal operation, and the Vibhāṣā's two ways of speaking
+about an atom. These voices remain in the paired prose, not flattened
+into the verse formula.
+
+**Organon interpretation.** Collection, entry, and source-kind are
+different operations in one systematic exposition. Their pedagogical
+distribution does not itself prove the reciprocal syllogistic movement,
+but it prevents the three projections from becoming synonyms or rival
+realities. The earlier schematic follows.
 
 ```text
 base      → collection

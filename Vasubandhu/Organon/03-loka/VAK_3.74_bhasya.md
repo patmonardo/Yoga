@@ -149,7 +149,7 @@ The Bhāṣya explicitly postpones the fuller explanation. This passage
 establishes the shared lifecycle but does not yet describe its phases or
 mechanics.
 
-## 9. Doctrinal and Organon Study
+## 9. Doctrinal and Interpretation
 
 Across 3.73–3.74 the cosmology has three nested scales:
 

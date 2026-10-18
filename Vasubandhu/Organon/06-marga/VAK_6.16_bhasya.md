@@ -52,7 +52,7 @@ Bhāṣya identifies the pronoun `tān` as all the fields beginning with body an
 expands the verse's compact four-aspect expression into four parallel forms.
 The unit ends there; the next sentence begins the account of Heat.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Samasta-ālambana` is a combined cognitive
 Condition, matching the `saṃbhinna-ālambana` described at the end of 6.15.

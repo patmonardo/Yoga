@@ -79,7 +79,7 @@ afflicted or prove that every anuśaya adheres there. The
 matrix supplies the object relations needed for that later
 inference.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Svadhātuka`, `adharadhātuka`,
 and `ūrdhvadhātuka` in the prose determine the compact

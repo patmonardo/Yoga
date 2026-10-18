@@ -80,7 +80,7 @@ and distributes sixteen aspects across them. It then explains `tādṛśāḥ`:
 the Summits share Heat's truth Condition and aspect structure, but are more
 developed. The possibility of fall or passage beyond remains explicit.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Uṣmagata` is a wholesome root and preliminary
 sign, not the Noble Path fire itself. `Catuḥsatya-gocara` gives Heat's

@@ -116,7 +116,7 @@ shares a fruit with it. The royal analogy explains a
 transfer of designation within a structured relation, not
 a collapse of the two technical terms.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Avarabhāgīya` is kept as
 “lower-part” because the verse alone does not enumerate the

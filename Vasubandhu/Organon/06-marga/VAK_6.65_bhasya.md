@@ -63,7 +63,7 @@ Why are they called Path? This is the road to Nirvāṇa, because by it one goes
 
 The first movement closes the classification of complete persons: fruit is already implied by beyond-training status, while faculty and attainment admit differences. The second gathers the many Path divisions into four operative types. Its definitions separate preparation, removal of obstruction, first freedom from obstruction, and further Path. The closing question grounds even Release and Further Distinction in the movement toward Nirvāṇa.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Dvābhyām` is glossed as faculty and attainment. The four Path names appear in metrical order in the kārikā, while the Bhāṣya explains them most clearly in the operative order Application, Immediacy, Release, Further Distinction. `Viśeṣa` initially means Path other than the three named before it; the later reasons for its Path-status do not turn it into a single fixed fourth moment. The two formulations about going to or seeking Nirvāṇa are both retained.
 

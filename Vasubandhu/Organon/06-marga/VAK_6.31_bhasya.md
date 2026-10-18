@@ -77,7 +77,7 @@ approached. It excludes immediate arhatship on two grounds. It then
 renames the two practitioners while keeping their faculties and prior
 follower histories visible.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Ṣoḍaśe` is the sixteenth moment of
 consciousness. `Yatra yaḥ pratipannakaḥ` preserves the previously

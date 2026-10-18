@@ -92,7 +92,7 @@ and faculty as conditions of difference, gives their ordered ranges,
 and allocates the variables across the first two and final triads.
 An alternative speed-based subdivision is also preserved.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Karma` is differentiated by the timing of
 its result; `kleśa` here is active manifestation (`samudācāra`);

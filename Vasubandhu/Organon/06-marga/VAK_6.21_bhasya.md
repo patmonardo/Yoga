@@ -79,7 +79,7 @@ It distinguishes their initial production from later manifestation,
 records the bodily-support classification, and then specifies two different
 conditions for loss according to the practitioner's status.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Kāmāśrayāṇi` concerns living support, not the
 six concentration grounds of 6.20. `Utpadyante` is initial arising;

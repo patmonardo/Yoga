@@ -97,7 +97,7 @@ adopts `avyākṛtamūlāni` for its third pāda. Both textual facts
 must remain visible; the doctrinal argument does not by itself
 establish the history of the verse's wording.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** `Mūla` is a root relation, not a
 synonym for having the same ethical status. The prose names

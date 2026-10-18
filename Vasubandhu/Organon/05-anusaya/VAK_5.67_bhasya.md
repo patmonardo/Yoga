@@ -94,7 +94,7 @@ here list each of the six and five separately; those
 members should be reconstructed from the earlier ninefold
 scheme in the later clarification pass.
 
-## 5. Translation and Organon Study
+## 5. Translation and Interpretation
 
 **Translation decisions.** “Fruit” preserves `phala` as
 the source relation rather than reducing it to a generic

@@ -114,9 +114,9 @@ There, past form has ceased by impermanence. Future form has not arisen. Present
 
 Objection. Relative, therefore unestablished?
 
-Answer. No. The reference differs. What is gross relative to one thing is never subtle relative to that same thing, as father and son. Inferior means afflicted. Excellent means unafflicted. Far means past and future. Near means present. So on, as far as the principle.
+Answer. No. The reference differs. What is gross relative to one thing is never subtle relative to that same thing, as father and son. Inferior means afflicted. Excellent means unafflicted. Far means past and future. Near means present. So on, as far as Cognition.
 
-But with this difference: gross has the five as support; subtle is mental. Or by level, say the Vaibhāṣikas. The Venerable says: gross form is graspable by the five; subtle form is the rest. Inferior is disagreeable; excellent is agreeable. Far is a place not seen; near is a place seen, since past and the rest have already been stated in their own words. Feeling and the rest are to be understood in the same way. Their far and near depend on the support.
+But with this difference: gross has the five Faculties as support; subtle is mental. Or by level, say the Vaibhāṣikas. The Venerable says: gross Form is graspable by the five Faculties; subtle Form is the rest. Inferior is disagreeable; excellent is agreeable. Far is a place not seen; near is a place seen, since past and the rest have already been stated in their own words. Feeling and the rest are to be understood in the same way. Their far and near depend on the support.
 
 The meaning of essence is the door of arrival for consciousness and the mental factors. The derivation: they extend the arrival of consciousness and the mental factors; hence essences. The meaning is: they spread them out.
 
@@ -184,6 +184,10 @@ Bases exist by designation, as heaps do. The form-essences are not thereby desig
 
 The extensive teaching is not the advanced one. The field is one. The exposition follows the learner.
 
+The columns are separate grounds for the threefold teaching. The ordered
+assignment does not require every learner to combine all three entries
+in a row as a fixed psychological profile.
+
 ## 7. Decisions for the Kārikā
 
 1. The three meanings are the three teachings: Base, Essence, Principle.
@@ -206,3 +210,10 @@ The reading is once, here. 1.21 is not opened.
 Upgraded reading of the twentieth Bhāṣya study. The unit through the three teachings checked against the running Sanskrit. *Cittacittānāṃ* retained as uncertain.
 
 The three meanings are the three teachings. That reading is once, here. The next study is not opened.
+
+The paired kārikā now has verse-order compound tokens, plural agreement,
+derived ordered-meaning semantics, and the ablative explanation for the
+three teachings. Separate model checks test the learner assignments on
+each axis and the unconditioned counterexample to a cause-only definition
+of Principle. The single anchor retains the Bhāṣya-informed translation;
+the collection debate and school attributions remain in the prose.
