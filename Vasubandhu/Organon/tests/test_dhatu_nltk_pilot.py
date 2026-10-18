@@ -47,7 +47,7 @@ def satisfies(valuation, formula):
 
 class DhatuPilotTests(unittest.TestCase):
     def test_pilot_passes_strict_audit_and_semantic_typecheck(self):
-        for number in range(1, 22):
+        for number in range(1, 26):
             with self.subTest(verse=number):
                 text = study(number)
                 self.assertEqual(check_grammar(text, strict=True)[1], [])
@@ -119,12 +119,82 @@ class DhatuPilotTests(unittest.TestCase):
              "PAIR[CASE=nom,NUM=sg,GEN=f,SEM="),
             (21, "OTHER[CASE=abl,NUM=pl,SEM=",
              "OTHER[CASE=ins,NUM=pl,SEM="),
+            (22, "STATED[CASE=nom,NUM=sg,GEN=n,SEM=",
+             "STATED[CASE=nom,NUM=sg,GEN=m,SEM="),
+            (23, "REASON[CASE=abl,K=present,SEM=<",
+             "REASON[CASE=ins,K=present,SEM=<"),
+            (23, "GROUND[CASE=ins,SEM=<",
+             "GROUND[CASE=abl,SEM=<"),
+            (24, "DHARMANAME[CASE=nom,NUM=sg,GEN=n,SEM=<",
+             "DHARMANAME[CASE=nom,NUM=sg,GEN=m,SEM=<"),
+            (24, "PRIMACY[CASE=abl,SEM=<",
+             "PRIMACY[CASE=ins,SEM=<"),
+            (25, "CORREL[CASE=nom,NUM=pl,GEN=n] ->",
+             "CORREL[CASE=nom,NUM=pl,GEN=m] ->"),
+            (25, "AGENT[CASE=nom,NUM=sg,GEN=m,SEM=<",
+             "AGENT[CASE=nom,NUM=pl,GEN=m,SEM=<"),
         )
         for number, before, after in changes:
             with self.subTest(verse=number):
                 text = study(number)
                 self.assertIn(before, text)
                 self.assertEqual(parse(text.replace(before, after)), [])
+
+    def test_unconditioned_exclusion_and_four_grounds_are_nonvacuous(self):
+        valuation, formula = valuation_and_formula(22)
+        self.assertEqual(len(valuation["Unconditioned"]), 3)
+        self.assertFalse(valuation["Unconditioned"] & valuation["BaseMember"])
+        for predicate in ("DharmaEssenceMember", "DharmaPrincipleMember"):
+            self.assertTrue(valuation["Unconditioned"] <= valuation[predicate])
+        self.assertEqual(len(valuation["OrderingGround"]), 4)
+        self.assertEqual(
+            {order for order, _ in valuation["OrderingGround"]},
+            {valuation["base_order"]},
+        )
+        for member in valuation["Unconditioned"]:
+            changed = Valuation(list(valuation.items()))
+            changed["BaseMember"] = valuation["BaseMember"] | {member}
+            self.assertFalse(satisfies(changed, formula), member)
+            changed = Valuation(list(valuation.items()))
+            changed["CollectionMeaningInapplicable"] = (
+                valuation["CollectionMeaningInapplicable"] - {member}
+            )
+            self.assertFalse(satisfies(changed, formula), member)
+        for pair in valuation["OrderingGround"]:
+            changed = Valuation(list(valuation.items()))
+            changed["OrderingGround"] = valuation["OrderingGround"] - {pair}
+            self.assertFalse(satisfies(changed, formula), pair)
+
+    def test_five_base_order_meal_roles_and_level_correspondences(self):
+        valuation, _ = valuation_and_formula(22)
+        names = ("form", "feeling", "reflection", "formations", "cognition")
+        kinds = {valuation[name] for name in names}
+        self.assertEqual(len(kinds), 5)
+        self.assertEqual(valuation["BaseKind"], {(kind,) for kind in kinds})
+        self.assertEqual(valuation["Precedes"], {
+            (valuation[left], valuation[right])
+            for left, right in zip(names, names[1:])
+        })
+        self.assertEqual(valuation["MealRole"], {
+            (valuation[name], valuation[role])
+            for name, role in zip(names, ("vessel", "food", "seasoning", "maker", "eater"))
+        })
+        self.assertEqual(valuation["CharacterizedBy"], {
+            (valuation[level], valuation[name])
+            for level, name in zip(
+                ("desire_realm", "dhyanas", "first_three_formless", "summit"), names
+            )
+        })
+        for predicate, source, target in (
+            ("MealRole", "feeling", "food"),
+            ("CharacterizedBy", "dhyanas", "feeling"),
+        ):
+            formula = Expression.fromstring(f"{predicate}({source},{target})")
+            changed = Valuation(list(valuation.items()))
+            changed[predicate] = valuation[predicate] - {
+                (valuation[source], valuation[target])
+            }
+            self.assertFalse(satisfies(changed, formula))
 
     def test_separate_bases_preserve_mental_factor_status_and_all_reasons(self):
         valuation, formula = valuation_and_formula(21)
@@ -810,6 +880,110 @@ class DhatuPilotTests(unittest.TestCase):
         self.assertFalse(satisfies(valuation, Expression.fromstring(
             "all x.(FormMember(x) -> VisibleMeaning(x))"
         )))
+
+    def test_order_of_the_six_separates_reasons_grounds_and_site(self):
+        valuation, formula = valuation_and_formula(23)
+        self.assertTrue(satisfies(valuation, formula))
+        faculties = ("eye", "ear", "nose", "tongue", "body", "mind")
+        values = {valuation[name] for name in faculties}
+        self.assertEqual(len(values), 6)
+        precedes = valuation["Precedes"]
+        self.assertEqual(len(precedes), 5)
+        firsts = {a for a, _ in precedes}
+        seconds = {b for _, b in precedes}
+        self.assertEqual(firsts - seconds, {valuation["eye"]})
+        self.assertEqual(seconds - firsts, {valuation["mind"]})
+        groups = valuation["InGroup"]
+        five = {x for x, g in groups if g == valuation["five_faculties"]}
+        four = {x for x, g in groups if g == valuation["first_four"]}
+        self.assertTrue(four < five)
+        self.assertIn(valuation["body"], five - four)
+        self.assertNotIn(valuation["mind"], five | four)
+        for predicate, item in (
+            ("PrecedesBecause", (valuation["five_faculties"], valuation["mind"], valuation["present_conditions"])),
+            ("PrecedesBecause", (valuation["first_four"], valuation["body"], valuation["element_dependent_conditions"])),
+            ("OrderedBy", (valuation["remaining_order"], valuation["farther_operation"])),
+            ("OrderedBy", (valuation["remaining_order"], valuation["quicker_operation"])),
+            ("AlternativelyOrderedBy", (valuation["six_order"], valuation["site"])),
+        ):
+            changed = Valuation(list(valuation.items()))
+            changed[predicate] = valuation[predicate] - {item}
+            self.assertFalse(satisfies(changed, formula), item)
+        swapped = Valuation(list(valuation.items()))
+        swapped["FartherOperation"] = valuation["QuickerOperation"]
+        swapped["QuickerOperation"] = valuation["FartherOperation"]
+        prose = Expression.fromstring(
+            "FartherOperation(eye,ear) & QuickerOperation(nose,tongue)"
+        )
+        self.assertTrue(satisfies(valuation, prose))
+        self.assertFalse(satisfies(swapped, prose))
+        self.assertTrue(satisfies(valuation, Expression.fromstring(
+            "exists x.(Unlocalized(x) & DependsOnFaculties(x) & -Unconditioned(x))"
+        )))
+
+    def test_two_names_are_unique_and_grounded_differently(self):
+        valuation, formula = valuation_and_formula(24)
+        self.assertTrue(satisfies(valuation, formula))
+        form_base = valuation["InFormBase"]
+        self.assertEqual(len(form_base), 10)
+        named = valuation["HasSpecificName"]
+        self.assertEqual(len(named), 9)
+        self.assertEqual(form_base - named, {(valuation["form_essence"],)})
+        pairs = valuation["CorrespondsTo"]
+        self.assertEqual(len({a for a, _ in pairs}), 5)
+        self.assertEqual(len({b for _, b in pairs}), 5)
+        for extra in (
+            (valuation["sound"], valuation["form_name"]),
+            ("mind_ess", valuation["dharma_name"]),
+        ):
+            changed = Valuation(list(valuation.items()))
+            changed["CalledBy"] = valuation["CalledBy"] | {extra}
+            self.assertFalse(satisfies(changed, formula), extra)
+        for predicate, item in (
+            ("NamedForPrimacy", (valuation["form_essence"],)),
+            ("GathersHighest", (valuation["dharma_essence"],)),
+            ("NamedForDistinction", (valuation["dharma_essence"],)),
+        ):
+            changed = Valuation(list(valuation.items()))
+            changed[predicate] = valuation[predicate] - {item}
+            self.assertFalse(satisfies(changed, formula), predicate)
+        self.assertEqual(valuation["Highest"], {(valuation["nirvana"],)})
+        self.assertNotIn((valuation["nirvana"],), valuation["Base"])
+        self.assertFalse(satisfies(valuation, Expression.fromstring(
+            "all x.(DharmaByNature(x) -> CalledBy(x,dharma_name))"
+        )))
+
+    def test_scriptural_names_resolve_by_account_without_new_base(self):
+        valuation, formula = valuation_and_formula(25)
+        self.assertTrue(satisfies(valuation, formula))
+        speech, name = valuation["speech_nature"], valuation["name_nature"]
+        form, formations = valuation["form_base"], valuation["formations_base"]
+        for c in ("collection_a", "collection_b"):
+            for item in ((c, speech, form), (c, name, formations)):
+                changed = Valuation(list(valuation.items()))
+                changed["IncludedUnder"] = valuation["IncludedUnder"] - {item}
+                self.assertFalse(satisfies(changed, formula), item)
+        for predicate, item in (
+            ("ReportedAccount", (speech,)),
+            ("ReportedAccount", (name,)),
+            ("Alternative", (speech, name)),
+        ):
+            changed = Valuation(list(valuation.items()))
+            changed[predicate] = valuation[predicate] - {item}
+            self.assertFalse(satisfies(changed, formula), item)
+        swapped = Valuation(list(valuation.items()))
+        swapped["IncludedUnder"] = {
+            (c, a, formations if b == form else form)
+            for c, a, b in valuation["IncludedUnder"]
+        }
+        self.assertFalse(satisfies(swapped, formula))
+        self.assertFalse(satisfies(swapped, Expression.fromstring(
+            "all c.(DharmaCollection(c) -> (-IncludedUnder(c,speech_nature,formations_base) & -IncludedUnder(c,name_nature,form_base)))"
+        )))
+        bases = {x for (x,) in valuation["Base"]}
+        collections = {x for (x,) in valuation["DharmaCollection"]}
+        self.assertFalse(bases & collections)
+        self.assertEqual(valuation["Selected"], set())
 
 
 if __name__ == "__main__":

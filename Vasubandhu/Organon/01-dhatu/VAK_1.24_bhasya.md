@@ -8,7 +8,7 @@
 > For distinction, one Essence is called Form because of primacy, and one is
 > called Dharma because it gathers many dharmas and the highest.
 
-Distinction applies to both names. Primacy explains the essence called form. The gathering of many dharmas, and of the highest, explains the essence called dharma.
+Distinction applies to both names. Primacy explains the Essence called Form. The gathering of many dharmas, and of the highest, explains the Essence called Dharma.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -36,59 +36,61 @@ Word division and punctuation are editorial. The running source's `dharmasvabhav
 
 ## 3. Continuous Conventional Translation
 
-> Why, among the ten essences included in the form-base, is one called the form-essence? And why, though all are dharma by own-nature, is one called the dharma-essence? The answer is: for the sake of distinction, because of primacy, and because many dharmas and the highest are gathered. One essence is called form, and one is called dharma.
+> Why, among the ten Essences included in the Form Base, is one called the Form Essence? And why, though all are dharma by own-nature, is one called the Dharma Essence? The answer is: for the sake of distinction, because of primacy, and because many dharmas and the highest are gathered. One Essence is called Form, and one is called Dharma.
 >
-> How is this for distinction? So that each of these ten is known as an essence, arranged as condition and what has the condition, not as one collective. Eye and the rest already have their names. What is form, and is not called eye or by those other names, is known as the form-essence. No further name is given.
+> How is this for distinction? So that each of these ten is known as an Essence, arranged as Condition and what has the Condition, not as one collective. Eye and the rest already have their names. What is Form, and is not called eye or by those other names, is known as the Form Essence. No further name is given.
 >
-> Or the form-essence is named from primacy. It resists: contact with the hand and the rest makes it form. It can be shown: this, here, there. In the world too, that is what is recognized as form, not the others.
+> Or the Form Essence is named from primacy. It resists: contact with the hand and the rest makes it Form. It can be shown: this, here, there. In the world too, that is what is recognized as Form, not the others.
 >
-> For distinction, one dharma-essence is named, not all. Many dharmas, beginning with feeling, are gathered there, so the general name dharma is used. The highest dharma, nirvāṇa, is gathered there, and not in the others.
+> For distinction, one Dharma Essence is named, not all. Many dharmas, beginning with Feeling, are gathered there, so the general name Dharma is used. The highest dharma, nirvāṇa, is gathered there, and not in the others.
 >
-> Others say the one is called the form-essence because it is gross by its twentyfold variety, and because it is the range of three eyes: the fleshly, the divine, and the noble eye of wisdom.
+> Others say the one is called the Form Essence because it is gross by its twentyfold variety, and because it is the range of three eyes: the fleshly, the divine, and the noble eye of wisdom.
 
 ## 4. Movement of the Commentary
 
 | Name | What the commentary explains |
 |---|---|
-| form | distinction from the other nine; primacy in contact, showing, and ordinary naming |
-| dharma | distinction from the others; gathering of many dharmas, and of nirvāṇa |
-| form, according to others | twentyfold variety, grossness, and the range of three eyes |
+| Form | distinction from the other nine; primacy in contact, showing, and ordinary naming |
+| Dharma | distinction from the others; gathering of many dharmas, and of nirvāṇa |
+| Form, according to others | twentyfold variety, grossness, and the range of three eyes |
 
 `Ity apare` marks the last account as others. It is not merged with the first.
 
 ## 5. The Ten
 
-The ten are eye, ear, nose, tongue, body, sound, odor, taste, and the tangible, and the one that remains. All ten belong to the form-base. Each is an essence. They are not one collective.
+The ten are eye, ear, nose, tongue, body, sound, odor, taste, and the tangible, and the one that remains. All ten belong to the Form Base. Each is an Essence. They are not one collective.
 
-Eye and the rest already have names. What remains is called form. Naming only the five organs would not finish the distinction. The four other named meanings would still have to be set apart.
+Eye and the rest already have names. What remains is called Form. Naming only the five Faculties would not finish the distinction. The four other named meanings would still have to be set apart.
 
 ## 6. Primacy
 
-Resistance: contact with the hand and the rest makes it form. Able to be shown: this, here, there. In the world, that is what is recognized as form. Resistance alone is not said to separate it from every other. The three marks are joined.
+Resistance: contact with the hand and the rest makes it Form. Able to be shown: this, here, there. In the world, that is what is recognized as Form. Resistance alone is not said to separate it from every other; the ten all resist. The three marks are joined.
 
 ## 7. The Name Dharma
 
-All are dharma by own-nature. That does not make every essence the dharma-essence. Many dharmas, beginning with feeling, are gathered there. Nirvāṇa, the highest, is gathered there, and not in the others. The many are not the highest.
+All are dharma by own-nature. That does not make every Essence the Dharma Essence. Many dharmas, beginning with Feeling, are gathered there. Nirvāṇa, the highest, is gathered there, and not in the others. The many are not the highest.
 
 ## 8. The Three Eyes
 
-Others say the one is called form because it is gross by its twentyfold variety, and because it is the range of three eyes. The account stays attributed. It does not say the three eyes operate identically.
+Others say the one is called Form because it is gross by its twentyfold variety, and because it is the range of three eyes. The account stays attributed. It does not say the three eyes operate identically.
 
 ## 9. Decisions
 
-1. The question is why one essence is called form, and one called dharma.
-2. The ten are individual. Condition and what has the condition are the arrangement.
-3. The remainder is nine, not only the five organs.
-4. Primacy belongs to form. Gathering belongs to dharma.
+1. The question is why one Essence is called Form, and one called Dharma.
+2. The ten are individual. Condition and what has the Condition are the arrangement.
+3. The remainder is nine, not only the five Faculties.
+4. Primacy belongs to Form. Gathering belongs to Dharma.
 5. Many, and the highest, stay separate.
 6. The three-eye account stays with the others.
 
 ## 10. Interpretation
 
-Form and dharma are the two names. The form-base is not the one essence called form. The dharma-essence gathers the three that stand between the form-base and the cognition-base. They remain bases. There is no sixth base called dharma.
+Form and Dharma are the two names. The Form Base is not the one Essence called Form. The Dharma Essence gathers the three that stand between the Form Base and the Cognition Base. They remain Bases. There is no sixth Base called Dharma.
+
+This is the naming layer of the Dhātu classification machine. One Essence carries the name of a whole Base; one carries the name of every dharma. Each name is earned on a different ground, and neither name becomes the class it borrows from.
 
 ## 11. Review Status
 
-Synced to the verse study. Essential Relation withdrawn. Dharma is not a second word for essence. 1.25 not opened.
+Upgraded reading of the twenty-fourth Bhāṣya study. Essence, Form, Dharma, Form Base, and Faculty are now capitalized as protocol terms; organs are Faculties. The kārikā logic derives two exactly-one naming claims under one verb, keeps distinction for both names, primacy for Form, and the gathering of the many and the highest for Dharma. Resistance is shared by the ten; showability singles out the Form Essence. The three-eye account stays with the others. Dharma is not a second word for Essence; the Essential Relation phrasing belongs to the philosophical layer, not this protocol reading. 1.25 not opened.
 
-Scheme checked: cognition is vijñāna; principle is dhātu. The cognition-base is not a sixth base.
+Scheme checked: Cognition is vijñāna; Principle is dhātu. The Cognition Base is not a sixth Base.

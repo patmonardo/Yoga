@@ -77,7 +77,7 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   the grammar may derive the §8 formula by the parse (see 8.13). `Pred => {}`
   means an empty extension; NLTK itself reads it as a phantom `''` element,
   so the audit loader corrects this.
-- The chapter 1 Grammar–Logic pilots (1.01–1.21) annotate the normalized
+- The chapter 1 Grammar–Logic pilots (1.01–1.25) annotate the normalized
   IAST token stream beneath the Lexical Analysis table. It preserves verse
   order, opens sandhi, and marks Bhāṣya-resolved ellipses with `∅-` and
   `SUPPLIED=prose`. The annotation must match the grammar's `# tokens:`
@@ -140,6 +140,24 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   Use `--start 21 --end 21 --strict` for Feeling and Reflection as separate
   Bases that remain mental factors. Tests distinguish principal causes,
   mediations, and roots of dispute, with the order demonstration deferred.
+  Use `--start 22 --end 22 --strict` for the unconditioned's exclusion
+  from Bases and four accounts of their order. Prose checks retain five
+  Base kinds, the meal roles, and Realm/level correspondences without
+  erasing the promise-of-three or food/vessel discrepancies.
+  Use `--start 23 --end 23 --strict` for the order of the six: present
+  and Element-dependent Conditions as precedence reasons, distance and
+  quickness for the remainder, and sites as an alternative. Unlocalized
+  Mind is not unconditioned; the three damaged clauses stay unrepaired.
+  Use `--start 24 --end 24 --strict` for the naming layer of the
+  classification machine: exactly one Essence is called Form (primacy)
+  and exactly one Dharma (gathering of the many and the highest), with
+  distinction shared. Resistance is shared by the ten; showability singles
+  out Form; every Essence is dharma by own-nature, but only one is named so.
+  Use `--start 25 --end 25 --strict` for the closure rule: scriptural
+  designations resolve into established classifications. A relative–
+  correlative parse assigns inclusion respectively per reported account
+  (speech → Form Base, name → Formations Base); neither account is chosen
+  and no Dharma-collection becomes a further Base.
   Strict mode checks token annotation, dependency vocabulary coverage,
   semantic closure, reuse in the theory, symbol declarations, and expected
   truth values. Dependency coverage is not dependency parsing: the block

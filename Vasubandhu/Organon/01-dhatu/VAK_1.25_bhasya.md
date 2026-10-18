@@ -6,7 +6,7 @@
 > tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ // 1.25 //
 
 > The Sage proclaimed eighty thousand Dharma-collections: they are included in
-> the Form Base if Buddha-word is speech by nature, or in the formations Base
+> the Form Base if Buddha-word is speech by nature, or in the Formations Base
 > if it is name by nature.
 
 The commentary places the verse under the wider question, then gives the first example. Two accounts of Buddha-word are reported. Neither is chosen.
@@ -26,9 +26,9 @@ Word division and punctuation are editorial. The running Sanskrit and the resear
 
 ## 3. Continuous Conventional Translation
 
-> Other things designated in the sūtras as bases, essences, and principles are also found. Are they included in these very classifications, or do they stand apart? They are included in these very classifications. They do not stand apart.
+> Other things designated in the sūtras as Bases, Essences, and Principles are also found. Are they included in these very classifications, or do they stand apart? They are included in these very classifications. They do not stand apart.
 >
-> First, the eighty thousand dharma-collections which the Sage proclaimed — speech, or name — their inclusion is in form and formations. For those who hold that Buddha-word is speech by nature, they are included in the form-base. For those who hold that it is name by nature, they are included in the formations-base.
+> First, the eighty thousand dharma-collections which the Sage proclaimed — speech, or name — their inclusion is in Form and Formations. For those who hold that Buddha-word is speech by nature, they are included in the Form Base. For those who hold that it is name by nature, they are included in the Formations Base.
 
 ## 4. Movement
 
@@ -38,8 +38,8 @@ other scriptural names
     not apart
 
 first example
-    speech by nature → form-base
-    name by nature → formations-base
+    speech by nature → Form Base
+    name by nature → Formations Base
 ```
 
 `Yeṣām ... teṣām` reports the holders. No group is named.
@@ -47,17 +47,19 @@ first example
 ## 5. Decisions
 
 1. Inclusion is affirmed. Standing apart is denied.
-2. `Dharmaskandha` is a teaching-collection. It is not a sixth base.
+2. `Dharmaskandha` is a teaching-collection. It is not a sixth Base.
 3. Speech and name are alternatives. The verse does not say each collection is both.
 4. Neither account is selected.
 5. The measure of the collection is the next verse.
 
 ## 6. Interpretation
 
-The form system receives the teaching. Speech enters form. Name enters formations. The name in a sūtra does not open a further place.
+The classification receives the teaching. Speech enters Form. Name enters Formations. The name in a sūtra does not open a further place.
+
+This is the closure rule of the classification engine. A new designation resolves into the established Bases, Essences, and Principles. Here the resolution depends on what the designated thing is taken to be, so inclusion is assigned per account. The engine does not have to settle the dispute to stay closed.
 
 ## 7. Review Status
 
-Synced to the verse study. Older labels withdrawn. 1.26 already studied. Not reopened here.
+Upgraded reading of the twenty-fifth Bhāṣya study. Form Base and Formations Base are capitalized as protocol terms, and the scriptural designations are named as Bases, Essences, and Principles. The kārikā logic derives a relative–correlative frame: every proclaimed collection is reported under two alternative accounts, with respective inclusion (speech → Form Base, name → Formations Base). Neither account is selected; no collection becomes a further Base. 1.26 not opened.
 
-Scheme checked: cognition is vijñāna; principle is dhātu. Speech or name is not a sixth base.
+Scheme checked: Cognition is vijñāna; Principle is dhātu. Speech or name is not a sixth Base.

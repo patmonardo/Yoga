@@ -10,8 +10,8 @@
 > Condition. The remaining order follows distance or quicker operation—or,
 > alternatively, bodily location.
 
-The commentary orders the six. The question why one material essence is called
-form, and one essence the dharma-essence, opens 1.24. It is not taken here.
+The commentary orders the six. The question why one material Essence is called
+Form, and one Essence the Dharma Essence, opens 1.24. It is not taken here.
 
 ## 2. Continuous Sanskrit
 
@@ -71,22 +71,22 @@ text.
 
 ## 3. Continuous Conventional Translation
 
-The order of the six, beginning with the eye, among the essences and the
-principles, is to be stated. The order of their conditions and of their
-principles follows that order.
+The order of the six, beginning with the eye, among the Bases and the
+Principles, is to be stated. By that very order the order of their Conditions
+and of their Cognitions follows.
 
-Of those six, the five come first, because their objects are present. The five
-beginning with the eye are stated first, because they have a present object.
-Mind, however, has an unrestricted object. Some of it is a present object. Some
-of it is the damaged compound.
+Of those six, the five come first, because their Conditions are present. The
+five beginning with the eye are stated first, because they have a present
+Condition. Mind, however, has an unrestricted Condition. Some of it is a present
+Condition. Some of it is the damaged compound.
 
-The four, because their objects are derived form. “First” carries forward. Of
-the five, four are stated first, because they have derived form as object. The
-body's object is unrestricted in this respect: sometimes the Great Elements,
-sometimes derived form, sometimes both.
+The four, because their Conditions are Element-dependent. “First” carries
+forward. Of the five, four are stated first, because they have Element-dependent
+Form as Condition. The Body's Condition is unrestricted in this respect:
+sometimes the Great Elements, sometimes Element-dependent Form, sometimes both.
 
 The rest, by farther or quicker operation. The remainder is stated first, as
-fits, by farther or quicker operation. Eye and ear have a distant object, so
+fits, by farther or quicker operation. Eye and ear have a distant Condition, so
 they are stated before the other two. Of those two, the eye operates farther:
 one sees a river from afar and does not hear its sound. Therefore the eye is
 stated first. Nose does not operate at a distance, nor does tongue. Of those
@@ -95,34 +95,35 @@ food before that food has reached the tongue. The phrase is damaged.
 
 Or the order is according to location. In this body the site of the eye is
 placed uppermost. Below that, the ear. Below that, the nose. Below that, the
-tongue. Then the body's site, for the most part: the phrase is damaged. Mind
-depends on those very organs and is not situated in a place. So their order may
-follow the sites.
+tongue. Then the Body's site, for the most part: the phrase is damaged. Mind
+depends on those very Faculties and is not situated in a place. So their order
+may follow the sites.
 
 ## 4. Movement
 
 | Voice | Move |
 |---|---|
-| Opening | Order of the six. Conditions and principles follow. |
-| First cut | Five before mind: present object. |
-| Second cut | Four before body: derived form. |
+| Opening | Order of the six. Conditions and Cognitions follow. |
+| First cut | Five before Mind: present Condition. |
+| Second cut | Four before Body: Element-dependent Form. |
 | Remainder | Eye before ear, by distance. Nose before tongue, by the food. |
 | Alternative | Sites, descending. Mind has no place. |
 
 No school is named.
 
-## 5. Present, and Derived Form
+## 5. Present, and Element-dependent Form
 
-The five take a present object. That is why they precede mind. Mind is not
+The five take a present Condition. That is why they precede Mind. Mind is not
 restricted to the present. The further compound is not reconstructed. The
 contrast is secure. The wording of the rest is not.
 
-Derived form places the four before the body. The body's unrestricted range is
-a different respect: Element, derived form, or both. Not a range across times.
+Element-dependent Form places the four before the Body. The Body's unrestricted
+range is a different respect: Element, Element-dependent Form, or both. Not a
+range across times.
 
 ## 6. Distance, and the Food
 
-Eye and ear take a distant object. The river distinguishes them. It is the
+Eye and ear take a distant Condition. The river distinguishes them. It is the
 commentary's example, not a measure of every seeing and hearing.
 
 Nose and tongue do not operate at a distance. Nose is first because the odor is
@@ -132,30 +133,30 @@ a latency.
 ## 7. The Sites
 
 *Athavā* is an alternative, not a further cut in the same elimination. The site
-is not the organ. The body clause stays damaged. Mind depends on those organs
-and is not in a place. Non-location does not make mind unconditioned.
+is not the Faculty. The Body clause stays damaged. Mind depends on those
+Faculties and is not in a place. Non-location does not make Mind unconditioned.
 
 ## 8. Decisions for the Kārikā
 
-1. The order of the six governs the order of their conditions and principles.
-2. Present object places the five before mind. The further compound stays
+1. The order of the six governs the order of their Conditions and Cognitions.
+2. Present Condition places the five before Mind. The further compound stays
    damaged.
-3. Derived form places four before body.
+3. Element-dependent Form places four before Body.
 4. “First” carries forward.
 5. Distance and quicker operation are different comparisons.
-6. Location is an alternative. The body-site clause stays damaged.
+6. Location is an alternative. The Body-site clause stays damaged.
 
 ## 9. Interpretation
 
-This closes the base, and only the Form System. The five organs work in the
-present. Mind is not that restriction. The meanings and the principles follow
-the order of the organs. That is the Form System's last arrangement in this
-chapter: organs and meaning, objective, seated in the body or not seated at all.
+This closes the base, and only the Form System. The five Faculties work in the
+present. Mind is not that restriction. The Conditions and the Cognitions follow
+the order of the Faculties. That is the Form System's last arrangement in this
+chapter: Faculty and meaning, seated in the body or not seated at all.
 
-The Dharma System is the other direction. It unfolds as principle, then
-essence, then base. Those are different powers. The base gathered. The essence
-is the door. The principle is the source. To run them in that order is not this
-verse. This verse still reads from the organ outward.
+The Dharma System is the other direction. It unfolds as Principle, then
+Essence, then Base. Those are different powers. The Base gathers. The Essence
+is the door. The Principle is the source. To run them in that order is not this
+verse. This verse still reads from the Faculty outward.
 
 If that system holds, the armory of the determinations is available. It is not
 printed on the verse. 1.24 is not opened.
@@ -165,4 +166,9 @@ printed on the verse. 1.24 is not opened.
 Upgraded reading of the twenty-third Bhāṣya study. The order through the sites
 checked against the running Sanskrit. Three damaged phrases stay marked.
 
-Cognition withdrawn. This closes the Form System. The next study is not opened.
+The order of Conditions and Cognitions now follows *tadviṣayavijñānānāṃ*;
+the earlier "principles" for *vijñāna* is withdrawn. Objects are now
+Conditions, organs are Faculties, and derived form is Element-dependent Form.
+The two precedence reasons, the distance and quickness comparisons, and the
+site alternative are separated in the kārikā logic. This closes the Form
+System. The next study is not opened.

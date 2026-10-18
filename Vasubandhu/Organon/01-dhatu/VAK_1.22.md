@@ -20,31 +20,61 @@ yathaudārikasaṃkleśabhājanādyarthadhātutaḥ // 1.22 //
 |---|---|---|
 | skandheṣu | locative plural | among the bases |
 | asaṃskṛtam | nominative neuter | the unconditioned |
+| na | negative particle | not |
+| uktam | nominative neuter singular passive participle | stated; agrees with the unconditioned |
 | arthāyogāt | ablative | the defining meaning does not apply |
 | kramaḥ | nominative | the order |
 | punaḥ | indeclinable | a second question |
-| audārika | compound member | gross, manifest |
-| saṃkleśa | compound member | affliction |
-| bhājana-ādi | compound | beginning with the vessel |
-| dhātutaḥ | ablatival | according to the levels named as principles |
+| yathā-audārika-saṃkleśa-bhājana-ādi-artha-dhātutaḥ | compressed adverbial compound with ablatival ending | according to grossness, affliction, vessel and the other roles, and Realm or level |
 
 The second line names four grounds. The commentary unfolds them. They are not one label.
 
-## 4. Grammar
+**Grammar tokens.** Verse-order IAST with sandhi opened and compound
+boundaries marked. The final compressed compound stays one leaf; its
+fourfold interpretation follows the Bhāṣya. No covert token is supplied.
 
 ```text
-asaṃskṛtam
-    skandheṣu na uktam
-    artha-ayogāt
-
-kramaḥ punaḥ
-    yathā audārika
-    saṃkleśa
-    bhājana-ādi-artha
-    dhātutaḥ
+# tokens: skandheṣu asaṃskṛtam na uktam artha-ayogāt kramaḥ punaḥ yathā-audārika-saṃkleśa-bhājana-ādi-artha-dhātutaḥ
 ```
 
-A base means a collection. The unconditioned is not divided as past and the rest, and gathered into one. It is not a member of the five, and it is not a sixth base. The pot analogy is others', and it is refused: the same inference would exclude the unconditioned from the dharma-essence and the dharma-principle.
+## 4. Grammar
+
+The first clause negates inclusion among the Bases and supplies an
+ablative reason. Neuter singular *uktam* agrees with *asaṃskṛtam*.
+The second clause is nominal: *kramaḥ punaḥ* introduces a further
+question, answered by the compressed ordering compound.
+
+```nltk-fcfg
+% start S
+# tokens: skandheṣu asaṃskṛtam na uktam artha-ayogāt kramaḥ punaḥ yathā-audārika-saṃkleśa-bhājana-ādi-artha-dhātutaḥ
+S[SEM=<(?exclusion & ?ordering)>] -> EXCLUSION[SEM=?exclusion] ORDERING[SEM=?ordering]
+EXCLUSION[SEM=<all x.(?unconditioned(x) -> (?negative(?stated(?bases))(x) & ?reason(x)))>] -> BASES[CASE=loc,SEM=?bases] UNCONDITIONED[CASE=nom,NUM=?n,GEN=?g,SEM=?unconditioned] NEG[SEM=?negative] STATED[CASE=nom,NUM=?n,GEN=?g,SEM=?stated] REASON[CASE=abl,SEM=?reason]
+ORDERING[SEM=<?grounds(?order)>] -> ORDER[CASE=nom,NUM=sg,SEM=?order] RESUME GROUNDS[SEM=?grounds]
+BASES[CASE=loc,NUM=pl,SEM=<\x.BaseMember(x)>] -> 'skandheṣu'
+UNCONDITIONED[CASE=nom,NUM=sg,GEN=n,SEM=<\x.Unconditioned(x)>] -> 'asaṃskṛtam'
+NEG[SEM=<\P.\x.-P(x)>] -> 'na'
+STATED[CASE=nom,NUM=sg,GEN=n,SEM=<\P.P>] -> 'uktam'
+REASON[CASE=abl,SEM=<\x.CollectionMeaningInapplicable(x)>] -> 'artha-ayogāt'
+ORDER[CASE=nom,NUM=sg,GEN=m,SEM=<base_order>] -> 'kramaḥ'
+RESUME -> 'punaḥ'
+GROUNDS[SEM=<\o.(OrderingGround(o,grossness) & OrderingGround(o,affliction) & OrderingGround(o,meal_roles) & OrderingGround(o,levels))>] -> 'yathā-audārika-saṃkleśa-bhājana-ādi-artha-dhātutaḥ'
+```
+
+```nltk-dep
+'uktam' -> 'skandheṣu' | 'asaṃskṛtam' | 'na' | 'artha-ayogāt'
+'kramaḥ' -> 'punaḥ' | 'yathā-audārika-saṃkleśa-bhājana-ādi-artha-dhātutaḥ'
+```
+
+**Close construe.** The unconditioned is not stated among the Bases,
+because the meaning does not apply. The order, again, follows grossness,
+affliction, the meanings beginning with a vessel, and Realm or level.
+
+`BaseMember` projects being stated among the Bases as classification,
+not a speech event. The reason is collection's inapplicability, not
+absence of all plurality among the unconditioned. The four grounds are
+resolved in the final compound's semantics; the parse does not itself
+derive their detailed accounts. The grounds' shared target is one order,
+not four competing Base rosters.
 
 *Kramaḥ punaḥ* opens the order. 1.21 promised three ways. This unit gives four accounts. The discrepancy is kept.
 
@@ -54,13 +84,13 @@ A base means a collection. The unconditioned is not divided as past and the rest
 
 > The unconditioned is not stated among the bases, because the meaning does
 > not apply. The order, again, is according to grossness, affliction, the
-> meaning beginning with a vessel, and principle.
+> meaning beginning with a vessel, and Realm or level.
 
 ### Bhāṣya-informed study translation
 
 > The unconditioned is not stated among the Bases, since the meaning of
 > collection does not apply. The order, however, is according to grossness,
-> affliction, the meanings beginning with a vessel, and the Principles.
+> affliction, the meanings beginning with a vessel, and the Realms and levels.
 
 ## 6. Philosophical Translation
 
@@ -76,7 +106,7 @@ Affliction next, and the direction is not the order of the list. Attraction to f
 
 The meal is five roles. Form is the vessel. Feeling is the food. Reflection is the seasoning. Formations are the maker. The cognition is the eater. The closing recap says vessel and seasoning for feeling and reflection. The earlier analogy said food and seasoning. The discrepancy is kept.
 
-The last account is the levels. The desire-principle is distinguished by the forms of sensual pleasure. The dhyānas by feeling. The first three formless by reflection. The summit by formations alone. These are the stations in which the cognition is established, as seed in a field. The stations are not a deletion of the cognition.
+The last account is the levels. The Desire Realm is distinguished by the forms of sensual pleasure. The dhyānas by feeling. The first three formless by reflection. The summit by formations alone. These are the stations in which Cognition is established, as seed in a field. The stations are not a deletion of Cognition.
 
 Five, neither fewer nor more. Feeling and reflection are apart from the formations because they are grosser, because they are causes in the affliction sequence, and because two levels are distinguished by them.
 
@@ -102,6 +132,96 @@ Five, neither fewer nor more. Feeling and reflection are apart from the formatio
 
 ## 8. Logical Determination
 
+**Kārikā, derived.** Exclusion and the four grounds of one order are
+separate claims.
+
+```nltk-sem
+# derived by the section 4 parse
+((all x.(Unconditioned(x) -> (-BaseMember(x) & CollectionMeaningInapplicable(x)))) & (OrderingGround(base_order,grossness) & OrderingGround(base_order,affliction) & OrderingGround(base_order,meal_roles) & OrderingGround(base_order,levels)))
+```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+((all x.(Unconditioned(x) -> (-BaseMember(x) & CollectionMeaningInapplicable(x)))) & (OrderingGround(base_order,grossness) & OrderingGround(base_order,affliction) & OrderingGround(base_order,meal_roles) & OrderingGround(base_order,levels)))
+# THEORY prose
+# EXPECT prose T
+all x.(Unconditioned(x) -> (DharmaEssenceMember(x) & DharmaPrincipleMember(x)))
+Precedes(form,feeling) & Precedes(feeling,reflection) & Precedes(reflection,formations) & Precedes(formations,cognition)
+MealRole(form,vessel) & MealRole(feeling,food) & MealRole(reflection,seasoning) & MealRole(formations,maker) & MealRole(cognition,eater)
+CharacterizedBy(desire_realm,form) & CharacterizedBy(dhyanas,feeling) & CharacterizedBy(first_three_formless,reflection) & CharacterizedBy(summit,formations)
+# THEORY rejected_excluded_from_the_system
+# EXPECT rejected_excluded_from_the_system F
+all x.(Unconditioned(x) -> -DharmaEssenceMember(x))
+# THEORY rejected_sixth_base
+# EXPECT rejected_sixth_base F
+exists x.(Unconditioned(x) & BaseMember(x))
+# THEORY rejected_meal_recap_replaces_food
+# EXPECT rejected_meal_recap_replaces_food F
+all x.(x = feeling -> MealRole(x,vessel))
+```
+
+```nltk-valuation
+base_order => five_base_sequence
+grossness => grossness_account
+affliction => affliction_account
+meal_roles => meal_account
+levels => realm_level_account
+form => form_base
+feeling => feeling_base
+reflection => reflection_base
+formations => formations_base
+cognition => cognition_base
+vessel => vessel_role
+food => food_role
+seasoning => seasoning_role
+maker => maker_role
+eater => eater_role
+desire_realm => desire_level
+dhyanas => dhyana_levels
+first_three_formless => lower_formless_levels
+summit => summit_level
+Unconditioned => {space_case,discrimination_cessation,nonarising_cessation}
+CollectionMeaningInapplicable => {space_case,discrimination_cessation,nonarising_cessation}
+BaseMember => {form_case,feeling_case,reflection_case,formation_case,cognition_case}
+DharmaEssenceMember => {space_case,discrimination_cessation,nonarising_cessation}
+DharmaPrincipleMember => {space_case,discrimination_cessation,nonarising_cessation}
+OrderingGround => {(five_base_sequence,grossness_account),(five_base_sequence,affliction_account),(five_base_sequence,meal_account),(five_base_sequence,realm_level_account)}
+BaseKind => {form_base,feeling_base,reflection_base,formations_base,cognition_base}
+Precedes => {(form_base,feeling_base),(feeling_base,reflection_base),(reflection_base,formations_base),(formations_base,cognition_base)}
+MealRole => {(form_base,vessel_role),(feeling_base,food_role),(reflection_base,seasoning_role),(formations_base,maker_role),(cognition_base,eater_role)}
+CharacterizedBy => {(desire_level,form_base),(dhyana_levels,feeling_base),(lower_formless_levels,reflection_base),(summit_level,formations_base)}
+```
+
+**Model checks.** Three unconditioned representatives remain outside Base
+membership while retaining Dharma classifications. Those classifications
+are populated only for this local test, not exhaustively enumerated.
+`BaseKind` contains five distinct class labels; `BaseMember` contains
+representative members, not those labels. Four distinct grounds target
+the one sequence. `Precedes` records immediate neighbors only, not a
+causal chain or a transitive closure.
+
+The main meal analogy assigns Feeling food, not vessel. The recap's
+transmitted vessel is preserved below and in the paired prose as a
+discrepancy; it does not overwrite the main analogy's relation.
+Level groups are represented as groups, not counts of individual
+attainments. Predominance does not delete Cognition from its stations.
+
+**Bhāṣya determination.** The pot-cessation analogy is others' proposal,
+rejected because the analogous inference would exclude the unconditioned
+from Essences and Principles too. The affliction explanation runs back
+through savor, inverted Reflection, and afflictions, with consciousness
+afflicted; it does not assert that the Base order is a forward production
+chain. Grossness, that explanation, the meal analogy, and levels are four
+accounts despite the prior promise of three. Neither discrepancy is
+silently repaired.
+
+**Organon interpretation.** One sequence admits different explanatory
+relations. Their shared order does not make presentation, affliction,
+cooperation, and level-predominance identical operations. The unconditioned
+remains accessible through Dharma classifications without being forced
+into a collection it does not instantiate. The earlier schematic follows.
+
 ```text
 unconditioned
     not in the five
@@ -114,7 +234,7 @@ order
     affliction, explanation running back
     vessel, food, seasoning, maker, eater
     levels: desire, dhyāna, three formless, summit
-        stations of the principle
+        stations of Cognition
         seed in field
 
 five, neither fewer nor more
