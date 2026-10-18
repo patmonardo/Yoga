@@ -47,7 +47,7 @@ def satisfies(valuation, formula):
 
 class DhatuPilotTests(unittest.TestCase):
     def test_pilot_passes_strict_audit_and_semantic_typecheck(self):
-        for number in range(1, 33):
+        for number in range(1, 49):
             with self.subTest(verse=number):
                 text = study(number)
                 self.assertEqual(check_grammar(text, strict=True)[1], [])
@@ -161,6 +161,50 @@ class DhatuPilotTests(unittest.TestCase):
              "TRI[CASE=nom,NUM=sg,GEN=m,SEM=<"),
             (32, "HI[RESTR=yes] -> 'hi'",
              "HI[RESTR=no] -> 'hi'"),
+            (33, "TAU[NUM=dual] -> 'tau'",
+             "TAU[NUM=pl] -> 'tau'"),
+            (33, "VY[CASE=nom,NUM=sg,GEN=f,SEM=<",
+             "VY[CASE=nom,NUM=sg,GEN=m,SEM=<"),
+            (34, "NUMR[CNT=7] -> 'sapta'",
+             "NUMR[CNT=8] -> 'sapta'"),
+            (34, "EIGHT[CNT=8,SEM=<",
+             "EIGHT[CNT=7,SEM=<"),
+            (35, "NUMR[CNT=10] -> 'daśa'",
+             "NUMR[CNT=9] -> 'daśa'"),
+            (35, "DVI[GEN=n,NUM=sg,SEM=<",
+             "DVI[GEN=m,NUM=sg,SEM=<"),
+            (36, "DVANDVA[CASE=gen,NUM=dual,V1=act,V2=pass]",
+             "DVANDVA[CASE=gen,NUM=dual,V1=pass,V2=act]"),
+            (36, "V[ROOT=dah,VOICE=pass,NUM=sg,SEM=<",
+             "V[ROOT=dah,VOICE=act,NUM=sg,SEM=<"),
+            (37, "PRED[NUM=sg,SEM=<",
+             "PRED[NUM=du,SEM=<"),
+            (37, "APRAT[NUM=pl,CNT=8,SEM=<",
+             "APRAT[NUM=pl,CNT=10,SEM=<"),
+            (38, "TRI[NUM=pl,CNT=3] -> 'trayaḥ'",
+             "TRI[NUM=pl,CNT=4] -> 'trayaḥ'"),
+            (38, "PAIR[CASE=gen,NUM=dual,SEM=<",
+             "PAIR[CASE=gen,NUM=pl,SEM=<"),
+        (39, "NUMR[CNT=12] -> 'dvādaśa'", "NUMR[CNT=11] -> 'dvādaśa'"),
+        (39, "REL[NUM=sg,POL=neg,SEM=?w] -> YAH", "REL[NUM=sg,POL=pos,SEM=?w] -> YAH"),
+        (40, "NUMR[CNT=5,SEM=<", "NUMR[CNT=6,SEM=<"),
+        (40, "NP[GEN=n,NUM=sg,SEM=<\\i.Form(i)>] -> 'rūpam'", "NP[GEN=m,NUM=sg,SEM=<\\i.Form(i)>] -> 'rūpam'"),
+        (41, "PRADESA[NUM=du] -> 'pradeśau'", "PRADESA[NUM=sg] -> 'pradeśau'"),
+        (41, "DHI[GEN=f,NUM=sg,SEM=<", "DHI[GEN=m,NUM=sg,SEM=<"),
+        (42, "V[VOICE=pass,ROOT=drs] -> 'dṛśyate'", "V[VOICE=pass,ROOT=sru] -> 'dṛśyate'"),
+        (42, "NP[CASE=nom,GEN=n,NUM=sg,SEM=<\\c.Cognition(c)>] -> 'vijñānam'", "NP[CASE=acc,GEN=n,NUM=sg,SEM=<\\c.Cognition(c)>] -> 'vijñānam'"),
+        (43, "TRAYA[CNT=3,GEN=n,NUM=sg] -> 'trayam'", "TRAYA[CNT=4,GEN=n,NUM=sg] -> 'trayam'"),
+        (43, "UBHA[CASE=ins,NUM=du] -> 'ubhābhyām'", "UBHA[CASE=ins,NUM=pl] -> 'ubhābhyām'"),
+        (44, "TAI[CASE=ins,NUM=pl] -> 'taiḥ'", "TAI[CASE=ins,NUM=sg] -> 'taiḥ'"),
+        (44, "NUMR[CASE=ins,CNT=3,NUM=pl] -> 'tribhiḥ'", "NUMR[CASE=ins,CNT=4,NUM=pl] -> 'tribhiḥ'"),
+        (45, "TAI[CASE=ins,NUM=pl,SEM=<\\x.Faculty(x)>] -> 'taiḥ'", "TAI[CASE=ins,NUM=sg,SEM=<\\x.Faculty(x)>] -> 'taiḥ'"),
+        (45, "VIJ[CASE=nom,NUM=sg,SEM=<\\c.Cognition(c)>] -> 'vijñānam'", "VIJ[CASE=nom,NUM=pl,SEM=<\\c.Cognition(c)>] -> 'vijñānam'"),
+        (46, "ASYA[REF=cog,SEM=<\\s y.CogIn(s,y)>] -> 'asya'", "ASYA[REF=form,SEM=<\\s y.CogIn(s,y)>] -> 'asya'"),
+        (46, "UBHE[NUM=du,SEM=<", "UBHE[NUM=pl,SEM=<"),
+        (47, "GENP[CASE=gen,CNT=3,NUM=pl,SEM=<", "GENP[CASE=gen,CNT=3,NUM=sg,SEM=<"),
+        (47, "NOMN[GEN=n,NUM=sg,SEM=<\\s x.(Thinking(s) & FacIn(s,x))>] -> 'manaḥ'", "NOMN[GEN=m,NUM=sg,SEM=<\\s x.(Thinking(s) & FacIn(s,x))>] -> 'manaḥ'"),
+        (48, "NUMR[CNT=12] -> 'dvādaśa'", "NUMR[CNT=5] -> 'dvādaśa'"),
+        (48, "FPRED[GEN=n,NUM=sg,", "FPRED[GEN=m,NUM=sg,"),
         )
         for number, before, after in changes:
             with self.subTest(verse=number):
@@ -1137,10 +1181,10 @@ class DhatuPilotTests(unittest.TestCase):
         self.assertEqual(len(realm("rupa_dhatu_realm")), 14)
         self.assertTrue({"ghrana_d", "jihva_d", "sprastavya_d"} <= realm("rupa_dhatu_realm"))
         self.assertFalse({"gandha_d", "rasa_d", "ghranavijnana_d", "jihvavijnana_d"} & realm("rupa_dhatu_realm"))
-        levels = [valuation[p] for p in ("BaseLevel", "PrincipleLevel", "RealmLevel")]
-        for a in range(3):
-            for b in range(a + 1, 3):
-                self.assertFalse(levels[a] & levels[b])
+        self.assertFalse(valuation["BaseLevel"] & valuation["Principle"])
+        self.assertFalse(valuation["RealmLevel"] & eighteen)
+        self.assertTrue(valuation["RealmLevel"] <= valuation["Principle"])
+        self.assertEqual(valuation["Principle"], eighteen | valuation["RealmLevel"])
         gathered = {x for x, base in valuation["GatheredIn"] if base == valuation["form_base"]}
         self.assertEqual(gathered, {x for (x,) in valuation["FormBearing"]})
         self.assertNotIn((valuation["form_base"],), eighteen)
@@ -1196,6 +1240,211 @@ class DhatuPilotTests(unittest.TestCase):
         changed = Valuation(list(valuation.items()))
         changed["Kind"] = valuation["Kind"] | {("caksurvijnana_d", "neither_k")}
         self.assertFalse(satisfies(changed, formula))
+
+    def test_avikalpaka_is_by_privation_of_two_kinds(self):
+        valuation, formula = valuation_and_formula(33)
+        self.assertTrue(satisfies(valuation, formula))
+        kinds = {k for _, k in valuation["Vikalpa"]}
+        self.assertEqual(len(kinds), 3)
+        owned = lambda x: {p for y, p in valuation["Possesses"] if y == x}
+        for (x,) in valuation["FiveCognition"]:
+            self.assertIn("vitarka_i", owned(x))
+            self.assertIn("prajna_sense", owned(x))
+        self.assertNotIn(("prajna_sense",), valuation["Mental"])
+        recollective = {p for p, k in valuation["Vikalpa"] if k == "recollective_k"}
+        self.assertTrue(recollective & {p for (p,) in valuation["Concentrated"]})
+        changed = Valuation(list(valuation.items()))
+        changed["Vikalpa"] = valuation["Vikalpa"] | {("prajna_samahita", "examining_k")}
+        self.assertFalse(satisfies(changed, formula))
+        changed = Valuation(list(valuation.items()))
+        changed["Possesses"] = valuation["Possesses"] | {("caksurvijnana_d", "smrti_vyagra")}
+        self.assertFalse(satisfies(changed, formula))
+
+    def test_support_and_appropriation_are_disjoint_cuts(self):
+        valuation, formula = valuation_and_formula(34)
+        self.assertTrue(satisfies(valuation, formula))
+        support = {x for (x,) in valuation["TakesSupport"]}
+        appropriated_of = {x for i, x in valuation["InstanceOf"]
+                           if (i,) in valuation["Appropriated"]}
+        self.assertFalse(support & appropriated_of)
+        self.assertIn("dharma_samprayukta", support)
+        self.assertNotIn("dharma_asamprayukta", support)
+        self.assertEqual(len(appropriated_of), 9)
+        changed = Valuation(list(valuation.items()))
+        changed["Appropriated"] = valuation["Appropriated"] | {("sabda_present",)}
+        self.assertFalse(satisfies(changed, formula))
+        changed = Valuation(list(valuation.items()))
+        changed["Appropriated"] = valuation["Appropriated"] - {("gandha_bound",)}
+        self.assertFalse(satisfies(changed, formula))
+
+    def test_great_elements_stay_inside_the_tangible(self):
+        valuation, formula = valuation_and_formula(35)
+        self.assertTrue(satisfies(valuation, formula))
+        holders = {x for i, x in valuation["InstanceOf"]
+                   if (i,) in valuation["GreatElement"]}
+        self.assertEqual(holders, {"sprastavya_d"})
+        self.assertEqual(len(valuation["GreatElement"]), 4)
+        self.assertIn(("avijnapti_i",), valuation["ElementDependent"])
+        self.assertNotIn(("dharma_avijnapti",), valuation["Accumulated"])
+        changed = Valuation(list(valuation.items()))
+        changed["ElementDependent"] = valuation["ElementDependent"] - {("sabda_i",)}
+        self.assertFalse(satisfies(changed, formula))
+        changed = Valuation(list(valuation.items()))
+        changed["GreatElement"] = frozenset()
+        self.assertFalse(satisfies(changed, formula))
+
+    def test_dispute_takes_the_converse_voices(self):
+        valuation, formula = valuation_and_formula(36)
+        self.assertTrue(satisfies(valuation, formula))
+        outer = set(valuation["OuterFour"])
+        for role in ("Cuts", "IsCut", "IsBurned", "Weighs"):
+            self.assertEqual(set(valuation[role]), outer)
+        self.assertFalse(set(valuation["SenseFaculty"]) & outer)
+        self.assertNotIn(("sabda_d",), outer)
+        burners = {x for p, x in valuation["BurnerIn"] if p == "kecid_b"}
+        self.assertEqual(burners, {"tejas_i"})
+        self.assertNotIn(("tejas_i",), valuation["AmongEighteen"])
+        changed = Valuation(list(valuation.items()))
+        changed["Weighs"] = valuation["Weighs"] - {("gandha_d",)}
+        self.assertFalse(satisfies(changed, formula))
+
+    def test_genesis_modes_are_read_through_instances(self):
+        valuation, formula = valuation_and_formula(37)
+        self.assertTrue(satisfies(valuation, formula))
+        modes = lambda x: {m for i, m in valuation["Born"]
+                           if (i, x) in valuation["InstanceOf"]}
+        self.assertEqual(modes("caksur_d"), {"vipaka_m", "upacaya_m"})
+        self.assertEqual(modes("sabda_d"), {"upacaya_m", "naisyandika_m"})
+        self.assertEqual(modes("dharma_d"), {"naisyandika_m", "vipaka_m"})
+        self.assertIn(("dharma_asamskrta",), valuation["Unconditioned"])
+        changed = Valuation(list(valuation.items()))
+        changed["Born"] = valuation["Born"] | {("sabda_brahma", "vipaka_m")}
+        self.assertFalse(satisfies(changed, formula))
+        changed = Valuation(list(valuation.items()))
+        changed["Born"] = valuation["Born"] - {("mano_vip", "vipaka_m")}
+        self.assertFalse(satisfies(changed, formula))
+
+    def test_one_dravya_and_one_moment_without_continuity(self):
+        valuation, formula = valuation_and_formula(38)
+        self.assertTrue(satisfies(valuation, formula))
+        self.assertEqual(set(valuation["DravyaBearing"]), {("dharma_d",)})
+        first = {i for i, k in valuation["InMoment"]}
+        self.assertFalse(first & {i for i, _ in valuation["Born"]})
+        both = {c for c, x in valuation["Acquires"] if x == "caksur_d"} & \
+            {c for c, x in valuation["Acquires"] if x == "caksurvijnana_d"}
+        self.assertEqual(both, {"arupya_to_kama", "arupya_to_brahmaloka"})
+        changed = Valuation(list(valuation.items()))
+        changed["DravyaBearing"] = valuation["DravyaBearing"] | {("rupa_d",)}
+        self.assertFalse(satisfies(changed, formula))
+        changed = Valuation(list(valuation.items()))
+        changed["Acquires"] = valuation["Acquires"] - {
+            ("dhyana2_sammukhi", "caksurvijnana_d"),
+            ("dhyana2_to_adhah", "caksurvijnana_d")}
+        self.assertFalse(satisfies(changed, formula))
+
+    def test_sabhaga_is_said_of_instances_not_principles(self):
+        valuation, formula = valuation_and_formula(39)
+        self.assertTrue(satisfies(valuation, formula))
+        failed = Valuation(list(valuation.items()))
+        failed["Sabhaga"] = set(valuation["Sabhaga"]) - {("dharma_i",)}
+        self.assertFalse(satisfies(failed, formula))
+        lapsed = Valuation(list(valuation.items()))
+        lapsed["TatSabhaga"] = set(valuation["TatSabhaga"]) - {("caksur_ceased",)}
+        self.assertFalse(satisfies(lapsed, formula))
+
+    def test_seeing_abandons_only_afflicted_mind_born_non_form(self):
+        valuation, formula = valuation_and_formula(40)
+        self.assertTrue(satisfies(valuation, formula))
+        for instance in ("prthagjanatva_i", "apayika_karma_i", "caksurvijnana_raga_i"):
+            widened = Valuation(list(valuation.items()))
+            widened["DarsanaHeya"] = set(valuation["DarsanaHeya"]) | {(instance,)}
+            self.assertFalse(satisfies(widened, formula), instance)
+
+    def test_case_divides_whole_eye_from_dharma_portion(self):
+        valuation, formula = valuation_and_formula(41)
+        self.assertTrue(satisfies(valuation, formula))
+        partial_eye = Valuation(list(valuation.items()))
+        partial_eye["View"] = set(valuation["View"]) - {("caksur_tat_i",)}
+        self.assertFalse(satisfies(partial_eye, formula))
+        whole_dharma = Valuation(list(valuation.items()))
+        whole_dharma["View"] = set(valuation["View"]) | {("vedana_i",), ("other_prajna_i",), ("five_prajna_i",)}
+        self.assertFalse(satisfies(whole_dharma, formula))
+
+    def test_passive_quantifies_away_the_agent_of_seeing(self):
+        valuation, formula = valuation_and_formula(42)
+        self.assertTrue(satisfies(valuation, formula))
+        through_wall = Valuation(list(valuation.items()))
+        through_wall["Sees"] = set(valuation["Sees"]) | {("eye_a", "wall_v")}
+        self.assertFalse(satisfies(through_wall, formula))
+        cognition_sees = Valuation(list(valuation.items()))
+        cognition_sees["Sees"] = set(valuation["Sees"]) | {("cog_a", "moon_v")}
+        self.assertFalse(satisfies(cognition_sees, formula))
+
+    def test_anyathā_returns_the_converse_for_the_other_three(self):
+        valuation, formula = valuation_and_formula(43)
+        self.assertTrue(satisfies(valuation, formula))
+        nose_unreached = Valuation(list(valuation.items()))
+        nose_unreached["TakesUnreached"] = set(valuation["TakesUnreached"]) | {("nose_f",)}
+        self.assertFalse(satisfies(nose_unreached, formula))
+        one_eye_only = Valuation(list(valuation.items()))
+        one_eye_only["BothEyes"] = set()
+        self.assertFalse(satisfies(one_eye_only, formula))
+
+    def test_ca_carries_the_past_basis_to_the_five(self):
+        valuation, formula = valuation_and_formula(44)
+        self.assertTrue(satisfies(valuation, formula))
+        no_past_basis = Valuation(list(valuation.items()))
+        no_past_basis["BasisOf"] = set(valuation["BasisOf"]) - {("pastmind_b", "eye_c")}
+        self.assertFalse(satisfies(no_past_basis, formula))
+        present_mind_basis = Valuation(list(valuation.items()))
+        present_mind_basis["BasisOf"] = set(valuation["BasisOf"]) | {("mind_f", "mano_c")}
+        self.assertFalse(satisfies(present_mind_basis, formula))
+
+    def test_cognition_is_named_by_the_unshared_basis_not_the_shared_support(self):
+        valuation, formula = valuation_and_formula(45)
+        self.assertTrue(satisfies(valuation, formula))
+        shared_eye = Valuation(list(valuation.items()))
+        shared_eye["BasisOf"] = set(valuation["BasisOf"]) | {("eye_a", "eyecog_b")}
+        self.assertFalse(satisfies(shared_eye, formula))
+        named_by_support = Valuation(list(valuation.items()))
+        named_by_support["NamedBy"] = (set(valuation["NamedBy"]) - {("eyecog_a", "eye_a")}) | {("eyecog_a", "blue_v")}
+        self.assertFalse(satisfies(named_by_support, formula))
+
+    def test_fixed_rules_and_sarvatah_need_cross_plane_seeing(self):
+        valuation, formula = valuation_and_formula(46)
+        self.assertTrue(satisfies(valuation, formula))
+        eye_below_body = Valuation(list(valuation.items()))
+        eye_below_body["Below"] = set(valuation["Below"]) | {("eye0", "body1")}
+        eye_below_body["EyeIn"] = set(valuation["EyeIn"]) | {("s6", "eye0")}
+        self.assertFalse(satisfies(eye_below_body, formula))
+        level = {t: int(p[2]) if p.startswith("dh") else 0 for t, p in valuation["InPlane"]}
+        desire_cognition = Valuation(list(valuation.items()))
+        desire_cognition["CogIn"] = {(s, "cog0") for s, _ in valuation["CogIn"]}
+        desire_cognition["Below"] = {(a, b) for a in level for b in level if level[a] < level[b]}
+        self.assertFalse(satisfies(desire_cognition, formula))
+
+    def test_exception_is_subtracted_from_the_general_rule(self):
+        valuation, formula = valuation_and_formula(47)
+        self.assertTrue(satisfies(valuation, formula))
+        lowered_tangible = Valuation(list(valuation.items()))
+        lowered_tangible["CondIn"] = (set(valuation["CondIn"]) - {("k3", "tang2")}) | {("k3", "tang1")}
+        self.assertFalse(satisfies(lowered_tangible, formula))
+        mind_fixed = Valuation(list(valuation.items()))
+        mind_fixed["FacIn"] = set(valuation["FacIn"]) - {("n2", "mind1"), ("n3", "mind1")}
+        self.assertFalse(satisfies(mind_fixed, formula))
+
+    def test_two_knowers_permanent_portion_and_faculty_portion(self):
+        valuation, formula = valuation_and_formula(48)
+        self.assertTrue(satisfies(valuation, formula))
+        third_knower = Valuation(list(valuation.items()))
+        third_knower["Knows"] = set(valuation["Knows"]) | {("ecog_d", "sound_d")}
+        self.assertFalse(satisfies(third_knower, formula))
+        space_impermanent = Valuation(list(valuation.items()))
+        space_impermanent["Permanent"] = set(valuation["Permanent"]) - {("space_u",)}
+        self.assertFalse(satisfies(space_impermanent, formula))
+        whole_dharma_faculty = Valuation(list(valuation.items()))
+        whole_dharma_faculty["Faculty"] = set(valuation["Faculty"]) | {(x,) for x in ("space_u", "pratisamkhya_u", "apratisamkhya_u", "samjna_x")}
+        self.assertFalse(satisfies(whole_dharma_faculty, formula))
 
 
 if __name__ == "__main__":

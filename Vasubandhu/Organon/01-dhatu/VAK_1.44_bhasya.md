@@ -1,14 +1,14 @@
-# VAK_1.44 Bhāṣya — Equal Grasp, and the Past Support
+# VAK_1.44 Bhāṣya — Equal Grasp, and the Past Basis
 
 ## 1. Kārikā Anchor
 
 > tribhir ghrāṇādibhis tulyaviṣayagrahaṇaṃ matam /
 > caramasyāśrayo 'tītaḥ pañcānāṃ sahajaś ca taiḥ // 1.44 //
 
-> The three Faculties beginning with the Nose apprehend Conditions equal in
-> extent to themselves. The support of the last Cognition is past; the five
-> sensory Cognitions also have co-arising Faculties as supports, along with
-> that past Mind.
+> The three Faculties beginning with the Nose, it is held, apprehend a
+> Condition equal in extent to themselves. The Basis of the last Cognition
+> is past; the five sensory Cognitions have a Basis born together with
+> them, and the past one as well.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -120,47 +120,47 @@ Word division is editorial. The next question is not this page.
 
 ## 3. Continuous Conventional Translation
 
-> Do these, beginning with the eye, grasp an object equal to their own size, and a mountain and the rest by a swift operation, like a fire-wheel? Or equal and unequal?
+> Do these, beginning with the eye, grasp a Condition equal to their own size, and a mountain and the rest by a swift operation, like a fire-wheel? Or equal and unequal?
 >
-> Those said to reach their object:
+> Those said to reach their Condition:
 >
-> By the three beginning with the nose, grasp of an equal object is held.
+> By the three beginning with the nose, grasp of an equal Condition is held.
 >
-> For as many organ-atoms as there are, so many object-atoms come together and produce cognition. By eye and ear, however, there is no rule. Sometimes fewer, when one sees the tip of a hair. Sometimes equal, when one sees a grape. Sometimes more, when one sees a great mountain by merely opening the eye. So with the ear, in the hearing of the sound of a mosquito, a cloud, and the rest. Mind, being unformed, has no determination of size.
+> For as many Faculty-atoms as there are, so many Condition-atoms come together and produce Cognition. By eye and ear, however, there is no rule. Sometimes fewer, when one sees the tip of a hair. Sometimes equal, when one sees a grape. Sometimes more, when one sees a great mountain by merely opening the eye. So with the ear, in the hearing of the sound of a mosquito, a cloud, and the rest. Mind, being unformed, has no determination of size.
 >
-> How are these organ-atoms, beginning with the eye, arranged? The eye-atoms stand on the pupil like a cumin flower. Covered by a clear skin, they do not scatter. Others say they stand piled, one above another, like a ball. And they do not cover one another, being clear like crystal. The ear-atoms stand inside the ear-cavity. The nose-atoms stand like a probe inside a pot. The first three organs stand like a garland. The tongue-atoms stand like a half-moon. The middle of the tongue, the measure of a hair-tip, is not occupied by tongue-atoms. The body-atoms stand like the body. The atoms of the female organ are like the bowl of a drum. Those of the male organ are like a thumb.
+> How are these Faculty-atoms, beginning with the eye, arranged? The eye-atoms stand on the pupil like a cumin flower. Covered by a clear skin, they do not scatter. Others say they stand piled, one above another, like a ball. And they do not cover one another, being clear like crystal. The ear-atoms stand inside the ear-cavity. The nose-atoms stand like a probe inside a pot. The first three Faculties stand like a garland. The tongue-atoms stand like a half-moon. The middle of the tongue, the measure of a hair-tip, is not occupied by tongue-atoms. The body-atoms stand like the body. The atoms of the female Faculty are like the bowl of a drum. Those of the male Faculty are like a thumb.
 >
-> Sometimes all the eye-atoms do their own work. Sometimes they correspond and do not. Sometimes some do and some do not. So through the tongue-atoms. The body-atoms, however, are never all doing their own work. Even of those confined inside a blazing hell, innumerable body-atoms correspond and do not. If cognition arose through all of them, the support would disintegrate. And no single organ-atom or object-atom produces cognition, because the five cognition-groups have an accumulated support and an accumulated object. For this reason an atom is invisible, because it is not seen.
+> Sometimes all the eye-atoms do their own work. Sometimes they correspond and do not. Sometimes some do and some do not. So through the tongue-atoms. The body-atoms, however, are never all doing their own work. Even of those confined inside a blazing hell, innumerable body-atoms correspond and do not. If Cognition arose through all of them, the Basis would disintegrate. And no single Faculty-atom or Condition-atom produces Cognition, because the five Cognition-groups have an accumulated Basis and an accumulated Support. For this reason an atom is invisible, because it is not seen.
 >
-> These six cognition-principles already stated, eye-cognition through mind-cognition: as the object of the five is present, and of the last of the three times, is the support likewise? He says no. What then?
+> These six Cognition Principles already stated, Eye-Cognition through Mind-Cognition: as the Condition of the five is present, and of the last of the three times, is the Basis likewise? He says no. What then?
 >
-> The support of the last is past.
+> The Basis of the last is past.
 >
-> The support of the mind-cognition-principle is mind that ceased immediately before.
+> The Basis of the Mind-Cognition Principle is Mind that ceased immediately before.
 >
-> Of the five, a co-born support too, with them.
+> Of the five, a co-born one too, with them.
 >
-> "And" means past as well. The eye is the co-born support of eye-cognition, through the body as support of body-cognition. Their past support is mind. So these five cognition-groups have two supports.
+> "And" means past as well. The eye is the co-born Basis of Eye-Cognition, through the Body as Basis of Body-Cognition. Their past Basis is Mind. So these five Cognition-groups have two Bases.
 >
-> Hence it is said: whatever serves eye-cognition as support, does it also serve as the immediately preceding condition? Four alternatives. The first is the eye. The second is the immediately past mental dharma-principle. The third is immediately past mind. The fourth is dharmas other than those stated. So through body-cognition: each one's own organ is to be stated. For mind-cognition the relation is one-sided. Whatever serves as support also serves as the immediately preceding condition. There can be an immediately preceding condition that is not the support: the immediately past mental dharma-principle.
+> Hence it is said: whatever serves Eye-Cognition as Basis, does it also serve as the immediately preceding Condition? Four alternatives. The first is the eye. The second is the immediately past mental Dharma Principle. The third is immediately past Mind. The fourth is dharmas other than those stated. So through Body-Cognition: each one's own Faculty is to be stated. For Mind-Cognition the relation is one-sided. Whatever serves as Basis also serves as the immediately preceding Condition. There can be an immediately preceding Condition that is not the Basis: the immediately past mental Dharma Principle.
 
 ## 4. Movement
 
-Equal grasp for the three that reach. No rule for eye and ear. The seats of the atoms, then the work they do. One atom does not produce cognition. The support of mind-cognition is past. The five have a co-born support and a past support. Support and the immediately preceding condition are four alternatives, not one.
+Equal grasp for the three that reach. No rule for eye and ear. The seats of the atoms, then the work they do. One atom does not produce Cognition. The Basis of Mind-Cognition is past. The five have a co-born Basis and a past Basis. Basis and the immediately preceding Condition are four alternatives, not one.
 
 ## 5. Decisions
 
-1. Nose, tongue, and body grasp an equal object, atom for atom.
+1. Nose, tongue, and body grasp an equal Condition, atom for atom.
 2. Eye and ear have no rule of size. Mind has no size.
 3. The body-atoms are never all doing their own work.
-4. The support of mind-cognition is mind that ceased immediately before.
-5. The five have two supports: the co-born organ, and past mind.
-6. The eye is support and not the immediately preceding condition. Immediately past mind is both.
+4. The Basis of Mind-Cognition is Mind that ceased immediately before.
+5. The five have two Bases: the co-born Faculty, and past Mind.
+6. The eye is Basis and not the immediately preceding Condition. Immediately past Mind is both.
 
 ## 6. Interpretation
 
-Equal grasp is the meeting of two counts. Eye and ear are not held to that count. The support is timed otherwise than the object. Present object, past support, and for the five a co-born support as well. The four alternatives keep the support from collapsing into the immediately preceding condition.
+Equal grasp is the meeting of two counts. Eye and ear are not held to that count. The Basis is timed otherwise than the Condition. Present Condition, past Basis, and for the five a co-born Basis as well. The four alternatives keep the Basis from collapsing into the immediately preceding Condition.
 
 ## 7. Review Status
 
-Upgraded reading of the forty-fourth study. Scheme checked: principle is dhātu; cognition is vijñāna; the dharma-principle is not an essence; organ is not printed as faculty. 1.45 not opened.
+Upgraded reading of the forty-fourth study. Scheme checked: Principle is dhātu; Cognition is vijñāna; Faculty is indriya; Condition is viṣaya and pratyaya (provisional); Basis renders āśraya, kept distinct from Support (ālambana); the past and co-born Bases are separated from the immediately preceding Condition by the four alternatives. Anchor revised to read *sahajaḥ* with its understood *āśrayaḥ* and *ca* as the past Basis. 1.45 not opened.

@@ -1,4 +1,4 @@
-# VAK_1.34 Bhāṣya — Taking an Object, and Appropriated
+# VAK_1.34 Bhāṣya — Taking a Support, and Appropriated
 
 ## 1. Kārikā Anchor
 
@@ -6,7 +6,7 @@
 > navānupāttās te cāṣṭau śabdaś cānye nava dvidhā // 1.34 //
 
 > Seven consciousness Principles and the mental-factor portion of the Dharma
-> Principle take an object. Nine are unappropriated: those eight and sound.
+> Principle take a Support. Nine are Unappropriated: those eight and Sound.
 > The other nine are twofold.
 
 ## 2. Continuous Sanskrit Witness
@@ -55,51 +55,56 @@ Word division is editorial. The question of primary and derived form is 1.35 and
 
 ## 3. Continuous Conventional Translation
 
-> How many take an object, how many do not?
+> How many take a Support, how many do not?
 >
-> Seven citta-principles take an object.
+> Seven consciousness Principles take a Support.
 >
-> The eye, ear, nose, tongue, and body cognition-principles, the mind-cognition principle, and the mind-principle: these seven citta-principles take an object, because they grasp a condition.
+> The Eye, Ear, Nose, Tongue, and Body Cognition Principles, the Mind-Cognition Principle, and the Mind Principle: these seven consciousness Principles take a Support, because they grasp a Condition.
 >
-> And a half with respect to the dharma-principle.
+> And a half with respect to the Dharma Principle.
 >
-> What has the nature of the mental factors takes an object. So the remaining ten principles whose nature is form, and the unassociated portion of the dharma-principle, do not take an object. That is established.
+> What has the nature of the mental factors takes a Support. So the remaining ten Principles whose nature is Form, and the unassociated portion of the Dharma Principle, do not take a Support. That is established.
 >
 > How many are appropriated, how many unappropriated?
 >
-> Nine are unappropriated.
+> Nine are Unappropriated.
 >
-> Which nine? The seven stated as taking an object, together with a half of the eighth.
+> Which nine? The seven stated as taking a Support, together with a half of the eighth.
 >
-> Those eight, and sound.
+> Those eight, and Sound.
 >
-> These are the nine unappropriated: the seven citta-principles, the dharma-principle, and the sound-principle.
+> These are the nine Unappropriated: the seven consciousness Principles, the Dharma Principle, and the Sound Principle.
 >
 > The other nine are twofold.
 >
-> Appropriated and unappropriated. Of these, eye, ear, nose, tongue, and body, when present, are appropriated. Past and future, they are unappropriated. The visible, smell, taste, and tangible principles, when present and not separate from the organ, are appropriated. The others are unappropriated, as in hair, body-hair, nails, and teeth apart from the root, in feces, urine, saliva, mucus, blood, and the like, and in earth, water, and the like.
+> Appropriated and unappropriated. Of these, eye, ear, nose, tongue, and body, when present, are appropriated. Past and future, they are unappropriated. The Visible Form, Odor, Taste, and Tangible Principles, when present and not separate from the Faculty, are appropriated. The others are unappropriated, as in hair, body-hair, nails, and teeth apart from the root, in feces, urine, saliva, mucus, blood, and the like, and in earth, water, and the like.
 >
 > What does appropriated mean? What citta and the mental factors have taken up as a basis, because they follow one another in benefit and injury. What the world calls animate.
 
 ## 4. Movement
 
-The first question is object. The seven take one, and the associated half of the dharma-principle. The ten of form and the unassociated half do not. The second question is appropriation. The resumption recalls the seven and a half. The verse then counts eight and sound, and the commentary names the whole dharma-principle. The definition of appropriated closes the unit. There is no rival school.
+The first question is the Support. The seven take a Support, and the associated half of the Dharma Principle. The ten of Form and the unassociated half do not. The second question is appropriation. The resumption recalls the seven and a half. The verse then counts eight and Sound, and the commentary names the whole Dharma Principle. The definition of appropriated closes the unit. There is no rival school.
 
 ## 5. Decisions
 
-1. The seven citta-principles take an object, because they grasp a condition.
-2. The associated half of the dharma-principle takes an object.
-3. The ten whose nature is form, and the unassociated half, do not.
-4. Nine are always unappropriated: the seven, the whole dharma-principle, and sound.
+1. The seven consciousness Principles take a Support, because they grasp a Condition.
+2. The associated half of the Dharma Principle takes a Support.
+3. The ten whose nature is Form, and the unassociated half, do not.
+4. Nine are always Unappropriated: the seven, the whole Dharma Principle, and Sound.
 5. The other nine are appropriated or unappropriated.
-6. The five organs are appropriated when present, unappropriated when past or future.
-7. Visible, smell, taste, and tangible are appropriated when present and not separate from the organ.
+6. The five Faculties are appropriated when present, unappropriated when past or future.
+7. Visible Form, Odor, Taste, and Tangible are appropriated when present and not separate from the Faculty.
 8. Appropriated is what citta and the mental factors have taken up as a basis. Benefit and injury follow both ways. The world calls that animate.
 
 ## 6. Interpretation
 
-Taking an object is not appropriation. The seven take a condition. The associated half takes one. The basis is the other cut. What citta has taken up as a basis follows it in benefit and injury, and that is the animate. Sound never is that basis. Neither is the dharma-principle. The page does not print the science. The page prints the two counts and the definition.
+Taking a Support is not appropriation. The seven grasp a Condition. The associated half takes a Support. The basis is the other cut. What citta has taken up as a basis follows it in benefit and injury, and that is the animate. Sound never is that basis. Neither is the Dharma Principle. The page does not print the science. The page prints the two counts and the definition.
 
 ## 7. Review Status
 
-Upgraded reading of the thirty-fourth study. Scheme checked: cognition is vijñāna; principle is dhātu; the dharma-principle is not an essence. 1.35 not opened.
+Upgraded with the paired kārikā study: Bhāṣya-informed anchor matched
+exactly; *ālambana* is Support and *viṣaya* Condition, as in 1.29;
+Appropriated, Unappropriated, Sound, and the Principle names capitalized.
+The kārikā carries a FeatureChart parse whose count feature checks
+7, 8 + 1 = 9, and 9; a derived SEM; a prose theory of the two cuts; and
+six rejected theories false on the finite valuation. 1.35 not opened.

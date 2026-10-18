@@ -5,10 +5,11 @@
 > daśa bhāvanayā heyāḥ pañca cāntyās trayas tridhā /
 > na dṛṣṭiheyam akliṣṭaṃ na rūpaṃ nāpy aṣaṣṭhajam // 1.40 //
 
-> The ten Form Principles and five sensory Cognition Principles are abandoned
-> by cultivation. The last three—the Mind, Dharma, and Mind-Cognition
-> Principles—are threefold. Nothing unafflicted or of Form, nor anything not
-> born from the sixth, is abandoned by seeing.
+> The ten Form Principles and the five sensory Cognition Principles are
+> abandoned by cultivation. The last three—the Mind, Dharma, and
+> Mind-Cognition Principles—are of three kinds. Nothing unafflicted is
+> abandoned by seeing, nothing of Form, and nothing not born from the sixth
+> Essence.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -60,51 +61,51 @@
 >
 > tasmād anyatra jātaṃ aṣaṣṭhajaṃ pañcendriya-jaṃ ca yat tad api nāsti darśana-prahātavyam /
 
-Word division is editorial. The question which principles are views is the next unit.
+Word division is editorial. The question which Principles are views is the next unit.
 
 ## 3. Continuous Conventional Translation
 
-> How many principles are abandoned by seeing, how many by cultivation, how many are not abandoned?
+> How many Principles are abandoned by seeing, how many by cultivation, how many are not abandoned?
 >
-> The ones of form, to begin with.
+> The Form Principles, to begin with.
 >
 > Ten are abandoned by cultivation, and five.
 >
-> The cognition-principles.
+> The Cognition Principles.
 >
 > The last three are threefold.
 >
-> The mind-principle, the dharma-principle, and the mind-cognition principle. These three principles, last in the order of recitation, are of three kinds. The eighty-eight latent afflictions, what arises with them, their acquisitions, and their attendants are abandoned by seeing. The remaining Impure are abandoned by cultivation. The Pure are not abandoned.
+> The Mind Principle, the Dharma Principle, and the Mind-Cognition Principle. These three Principles, last in the order of recitation, are of three kinds. The eighty-eight latent afflictions, what arises with them, their acquisitions, and their attendants are abandoned by seeing. The remaining Impure are abandoned by cultivation. The Pure are not abandoned.
 >
 > But is there not something else to be abandoned by seeing: ordinary-person status, and body and speech action leading to a bad destination, because they oppose the noble path?
 >
 > They are not to be abandoned by seeing. For this is the summary.
 >
-> Nothing unafflicted is abandoned by seeing, nor form, nor what is not born from the sixth.
+> Nothing unafflicted is abandoned by seeing, nor Form, nor what is not born from the sixth.
 >
-> There is nothing unafflicted to be abandoned by seeing, nor any form. And ordinary-person status is unafflicted and indeterminate, since even those whose wholesome roots are cut, and those freed from attachment, possess it. Body and speech action is form. Therefore it is not to be abandoned by seeing. And because there is no misapprehension concerning the truths, and because ordinary-person status would follow at the receptivity to dharma-knowledge concerning suffering.
+> There is nothing unafflicted to be abandoned by seeing, nor any Form. And ordinary-person status is unafflicted and indeterminate, since even those whose wholesome roots are cut, and those freed from attachment, possess it. Body and speech action is Form. Therefore it is not to be abandoned by seeing. And because there is no misapprehension concerning the truths, and because ordinary-person status would follow at the receptivity to Dharma-knowledge concerning suffering.
 >
 > Nor what is not born from the sixth.
 >
-> The sixth is called the mind-essence. Therefore what is born elsewhere, not born from the sixth, and what is born of the five organs, is also not to be abandoned by seeing.
+> The sixth is called the Mind Essence. Therefore what is born elsewhere, not born from the sixth, and what is born of the five Faculties, is also not to be abandoned by seeing.
 
 ## 4. Movement
 
-The question is the three statuses. Fifteen are cultivation only. The last three take all three. The objection offers ordinary-person status and body and speech action, because they oppose the path. The verse excludes the unafflicted, form, and what is not born from the sixth. The sixth is the mind-essence.
+The question is the three statuses. Fifteen are cultivation only. The last three take all three. The objection offers ordinary-person status and body and speech action, because they oppose the path. The verse excludes the unafflicted, form, and what is not born from the sixth. The sixth is the Mind Essence.
 
 ## 5. Decisions
 
-1. The ten of form and the five cognition-principles are abandoned by cultivation.
+1. The ten Form Principles and the five sensory Cognition Principles are abandoned by cultivation.
 2. The last three are threefold: seeing, cultivation, and not abandoned.
 3. The eighty-eight, what arises with them, their acquisitions, and their attendants are abandoned by seeing. The remaining Impure are abandoned by cultivation. The Pure are not abandoned.
 4. Ordinary-person status is unafflicted and indeterminate. It is not abandoned by seeing.
-5. Body and speech action is form. It is not abandoned by seeing.
-6. The sixth is the mind-essence. What is not born from it is not abandoned by seeing.
+5. Body and speech action is Form. It is not abandoned by seeing.
+6. The sixth is the Mind Essence. What is not born from it is not abandoned by seeing.
 
 ## 6. Interpretation
 
-Opposing the path is not the mark of abandonment by seeing. The mark is afflicted, not form, and born from the sixth. The fifteen never meet it. Ordinary-person status survives the cut of the wholesome roots and the freedom from attachment. That is why seeing does not take it.
+Opposing the path is not the mark of abandonment by seeing. The mark is afflicted, not Form, and born from the sixth. The fifteen never meet it. Ordinary-person status survives the cut of the wholesome roots and the freedom from attachment. That is why seeing does not take it.
 
 ## 7. Review Status
 
-Upgraded reading of the fortieth study. Scheme checked: principle is dhātu; cognition is vijñāna; the dharma-principle is not an essence; the sixth is the mind-essence; Pure and Impure stay the statuses. 1.41 not opened.
+Upgraded reading of the fortieth study. Scheme checked: Principle is dhātu; Cognition is vijñāna; Faculty is indriya; Essence is āyatana, and the sixth is the Mind Essence; Form is rūpa; Pure and Impure stay the statuses. The anchor follows the revised kārikā translation: “of three kinds” for *tridhā*, and the sixth named as the Essence. 1.41 not opened.

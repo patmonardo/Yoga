@@ -76,6 +76,6 @@ Dharma at Principle level and is not the Dharma Essence.
 Upgraded with the paired kārikā study: Bhāṣya-informed anchor matched
 exactly; terminology capitalized (Principle, Cognition, Condition, Form,
 Path, Formless). The kārikā now carries a FeatureChart parse with derived
-SEM, a prose theory with instance-level Impure and Pure and disjoint
-Principle, Essence, and Realm levels, and seven rejected theories checked
+SEM, a prose theory with instance-level Impure and Pure, the Formless
+Realm as a Principle of Principles, and the Dharma Essence kept apart, and seven rejected theories checked
 false on the finite valuation. 1.32 not opened.

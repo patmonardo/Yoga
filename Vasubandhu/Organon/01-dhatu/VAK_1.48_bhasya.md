@@ -5,9 +5,9 @@
 > pañca bāhyā dvivijñeyā nityā dharmā asaṃskṛtāḥ /
 > dharmārdham indriyaṃ ye ca dvādaśādhyātmikāḥ smṛtāḥ // 1.48 //
 
-> The five external Principles are knowable by two. Unconditioned Dharmas are
-> permanent. A portion of the Dharma Principle, and the twelve internal
-> Principles, are Faculties.
+> The five external Principles are each knowable by two Cognitions.
+> Unconditioned dharmas are permanent. A portion of the Dharma Principle is
+> Faculty, and so are the twelve Principles taught as internal.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -59,39 +59,39 @@ Word division is editorial. The colophon is this page. The next chapter is not o
 
 ## 3. Continuous Conventional Translation
 
-> This is now examined. Of the eighteen principles and the six cognitions, which is knowable by which?
+> This is now examined. Of the eighteen Principles and the six Cognitions, which is knowable by which?
 >
 > He says: the five external are knowable by two.
 >
-> The principles of visible, sound, smell, taste, and tangible, experienced respectively by eye-cognition, ear-cognition, nose-cognition, tongue-cognition, and body-cognition, are cognized by mind-cognition. So each of these is knowable by two cognitions. The remaining thirteen principles, not being the object of the five cognition-groups, are knowable by mind-cognition alone. That is stated.
+> The Principles of Visible Form, Sound, Odor, Taste, and Tangible, experienced respectively by Eye-Cognition, Ear-Cognition, Nose-Cognition, Tongue-Cognition, and Body-Cognition, are cognized by Mind-Cognition. So each of these is knowable by two Cognitions. The remaining thirteen Principles, not being the Condition of the five Cognition-groups, are knowable by Mind-Cognition alone. That is stated.
 >
-> Of these eighteen principles, how many are permanent, how many impermanent? No principle is permanent in its entirety.
+> Of these eighteen Principles, how many are permanent, how many impermanent? No Principle is permanent in its entirety.
 >
 > Unconditioned dharmas are permanent.
 >
-> So a portion of the dharma-principle is permanent. The rest are impermanent.
+> So a portion of the Dharma Principle is permanent. The rest are impermanent.
 >
-> How many are faculty, how many are not?
+> How many are Faculty, how many are not?
 >
-> A portion of the dharma is faculty, and the twelve called internal.
+> A portion of the Dharma is Faculty, and the twelve taught as internal.
 >
-> Twenty-two faculties are stated in the sūtra: eye, ear, nose, tongue, body, mind, female, male, life, pleasure, pain, gladness, distress, equanimity, faith, vigor, mindfulness, concentration, prajñā, "I shall know what is not known," knowing, and one who has known. The Ābhidharmikas, however, following the arrangement of the six bases, recite the mind-faculty immediately after the life-faculty, because it takes an object.
+> Twenty-two Faculties are stated in the sūtra: eye, ear, nose, tongue, body, mind, female, male, life, pleasure, pain, gladness, distress, equanimity, faith, vigor, mindfulness, concentration, prajñā, "I shall know what is not known," knowing, and one who has known. The Ābhidharmikas, however, following the arrangement of the six Essences, recite the Mind Faculty immediately after the life Faculty, because it takes a Support.
 >
-> Here the portion of the dharma is the eleven faculties beginning with life, and a portion of three more, because they are a portion of the dharma-principle. Of the twelve internal, the five beginning with the eye are stated under their own names. The seven mind-principles are the mind-faculty. The female and male faculties are a portion of the body-principle, as will be stated later. So it is established that the remaining five principles and a portion of the dharma-principle are not faculty.
+> Here the portion of the Dharma is the eleven Faculties beginning with life, and a portion of three more, because they are a portion of the Dharma Principle. Of the twelve internal, the five beginning with the eye are stated under their own names. The seven Mind Principles are the Mind Faculty. The female and male Faculties are a portion of the Body Principle, as will be stated later. So it is established that the remaining five Principles and a portion of the Dharma Principle are not Faculty.
 >
 > In the Abhidharmakośabhāṣya, the first chapter, called the Exposition of the Principles, is complete.
 
 ## 4. Movement
 
-Which is known by which. Then which is permanent. Then which is faculty. The colophon closes the chapter.
+Which is known by which. Then which is permanent. Then which is Faculty. The colophon closes the chapter.
 
 ## 5. Decisions
 
-1. The five external are knowable by their own cognition and by mind-cognition.
-2. The remaining thirteen are knowable by mind-cognition alone.
-3. No principle is permanent entire. The unconditioned portion of the dharma-principle is permanent.
-4. Faculty is a portion of the dharma-principle and the twelve internal.
-5. The five external and the remaining portion are not faculty.
+1. The five external are knowable by their own Cognition and by Mind-Cognition.
+2. The remaining thirteen are knowable by Mind-Cognition alone.
+3. No Principle is permanent entire. The unconditioned portion of the Dharma Principle is permanent.
+4. Faculty is a portion of the Dharma Principle and the twelve internal.
+5. The five external and the remaining portion are not Faculty.
 6. The Exposition of the Principles is complete.
 
 ## 6. Interpretation
@@ -100,4 +100,4 @@ The close is three cuts. Known twice, or once. Permanent only as a portion. Facu
 
 ## 7. Review Status
 
-Upgraded reading of the forty-eighth study. Scheme checked: principle is dhātu; cognition is vijñāna; the dharma-principle is not an essence; unconditioned is asaṃskṛta. Chapter 2 not opened.
+Upgraded reading of the forty-eighth study. Anchor revised to the Bhāṣya-informed translation: the five external are experienced (*anubhūtāḥ*) by their own Cognition and known (*vijñāyante*) by Mind-Cognition; the thirteen are not the Condition (*aviṣaya*) of the five; Mind is recited after life because it takes a Support (*sālambana*). Scheme checked: Principle is dhātu; Cognition is vijñāna; Faculty is indriya; unconditioned is asaṃskṛta; the Dharma Principle is not an essence. The Exposition of the Principles is complete. Chapter 2 not opened.

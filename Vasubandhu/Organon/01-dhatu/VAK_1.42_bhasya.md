@@ -5,9 +5,9 @@
 > cakṣuḥ paśyati rūpāṇi sabhāgaṃ na tadāśritam /
 > vijñānaṃ dṛśyate rūpaṃ na kilāntaritaṃ yataḥ // 1.42 //
 
-> The Eye Principle sees visible Forms when it performs its own function, not
-> the Cognition Principle supported by it. Cognition does not see, since a
-> visible Form screened from the eye is not seen.
+> The eye sees Visible Forms when it does its own work; the Cognition
+> supported by it does not see, since, it is said, a Visible Form screened by
+> a wall is not seen.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -157,59 +157,59 @@ Word division is editorial. The local avijñātum is kept; the argument is the r
 
 ## 3. Continuous Conventional Translation
 
-> The eye, now, not ascertaining, how is it view? By the sense of disclosing visibles. Because:
+> The eye, now, not ascertaining, how is it view? By the sense of disclosing Visible Forms. Because:
 >
-> The eye sees visibles.
+> The eye sees Visible Forms.
 >
-> If the eye saw, it would see even for one not equipped with the other cognition. Not every eye sees. Which, then?
+> If the eye saw, it would see even for one not equipped with the other Cognition. Not every eye sees. Which, then?
 >
 > The one that does its own work.
 >
-> When it is with cognition, then it sees. Otherwise it does not. Then let that very cognition supported by the eye be what sees.
+> When it is with Cognition, then it sees. Otherwise it does not. Then let that very Cognition supported by the eye be what sees.
 >
-> Not the cognition supported by it.
+> Not the Cognition supported by it.
 >
 > It cannot be known to see. Why?
 >
-> For, it is said, an obstructed visible is not seen.
+> For, it is said, a screened Visible Form is not seen.
 >
-> Because, it is said, a visible screened by a wall and the rest is not seen. If cognition saw, then, being unresistant, there is no resistance in a wall and the rest, and it would see even a covered visible.
+> Because, it is said, a Visible Form screened by a wall and the rest is not seen. If Cognition saw, then, being unresistant, there is no resistance in a wall and the rest, and it would see even a covered Visible Form.
 >
-> But visual cognition does not arise at all toward the covered. Not having arisen, how will it see? Why does it not arise? For the one whose eye sees, because that eye is resistant, there is no operation when there is a screen. The non-arising of the cognition is in order, because it proceeds to one object by means of the support.
+> But Eye-Cognition does not arise at all toward the covered. Not having arisen, how will it see? Why does it not arise? For the one whose eye sees, because that eye is resistant, there is no operation when there is a screen. The non-arising of the Cognition is in order, because it proceeds to one Condition by means of the support.
 >
-> Is the eye then an object-reacher, like the body-organ, so that it does not see the covered? Because it is resistant. And how is what is screened by glass, cloud, film, crystal, or water seen? The unseen of a covered visible is not from the resistance of the eye. What then? Where there is no blocking of light, visual cognition arises even toward a covered visible. Where there is blocking, it does not arise. Because it has not arisen, the covered is not seen.
+> Is the eye then an Condition-reacher, like the Body Faculty, so that it does not see the covered? Because it is resistant. And how is what is screened by glass, cloud, film, crystal, or water seen? The unseen of a covered Visible Form is not from the resistance of the eye. What then? Where there is no blocking of light, Eye-Cognition arises even toward a covered Visible Form. Where there is blocking, it does not arise. Because it has not arisen, the covered is not seen.
 >
-> Then what of the sūtra, "having seen visibles by the eye"? The intent here is "by that support," as it says "having cognized dharmas by mind." And mind does not cognize dharmas, because it is past. What then? Mind-cognition. Or the act of the supported is attributed to the support, as "the beds cry." And as the sūtra says, "visibles cognizable by the eye, desired, lovely." And they are not cognized by the eye.
+> Then what of the sūtra, "having seen Visible Forms by the eye"? The intent here is "by that support," as it says "having cognized dharmas by mind." And mind does not cognize dharmas, because it is past. What then? Mind-Cognition. Or the act of the supported is attributed to the support, as "the beds cry." And as the sūtra says, "Visible Forms cognizable by the eye, desired, lovely." And they are not cognized by the eye.
 >
-> And it is said in the sūtra, "the eye, brahmin, is the door, just for the seeing of visibles." From this it is understood that cognition sees by the eye as door. There "door" is a name for seeing. For this does not fit: the eye is seeing, for the seeing of visibles.
+> And it is said in the sūtra, "the eye, brahmin, is the door, just for the seeing of Visible Forms." From this it is understood that Cognition sees by the eye as door. There "door" is a name for seeing. For this does not fit: the eye is seeing, for the seeing of Visible Forms.
 >
-> If cognition sees, what cognizes, and what is the difference between the two? The very cognition of a visible is its seeing. As a certain Science of Principles (*prajñā*) is said to see and also to discriminate, so a certain cognition is said to see and also to cognize.
+> If Cognition sees, what cognizes, and what is the difference between the two? The very Cognition of a Visible Form is its seeing. As a certain Science of Principles (*prajñā*) is said to see and also to discriminate, so a certain Cognition is said to see and also to cognize.
 >
-> Others say: if the eye sees, what other act of seeing belongs to the eye as agent? This is no objection. If it is admitted that cognition cognizes, and there is no distinction of agent and act there, so here too.
+> Others say: if the eye sees, what other act of seeing belongs to the eye as agent? This is no objection. If it is admitted that Cognition cognizes, and there is no distinction of agent and act there, so here too.
 >
-> Others say: visual cognition is seeing. Because it is the support of that, the eye is said to see, as a bell is said to sound because it is the support of the sound. Then, because it is the support of cognition, it would follow that the eye cognizes. It does not follow. That cognition is established in the world as seeing. For when it has arisen, a visible is said to have been seen, not cognized. In the Vibhāṣā too it is said: what is reached by the eye and experienced by visual cognition is called seen. Therefore one says only that the eye sees, not that it cognizes. Cognition, however, is said to cognize a visible merely by presence, as the sun is the maker of the day.
+> Others say: Eye-Cognition is seeing. Because it is the support of that, the eye is said to see, as a bell is said to sound because it is the support of the sound. Then, because it is the support of Cognition, it would follow that the eye cognizes. It does not follow. That Cognition is established in the world as seeing. For when it has arisen, a Visible Form is said to have been seen, not cognized. In the Vibhāṣā too it is said: what is reached by the eye and experienced by Eye-Cognition is called seen. Therefore one says only that the eye sees, not that it cognizes. Cognition, however, is said to cognize a Visible Form merely by presence, as the sun is the maker of the day.
 >
-> Here the Sautrāntikas say: why is this empty space being chewed? Visual cognition arises depending on the eye and on visibles. Who sees there, or what is seen? This is without activity, dharmas only, and cause and result only. There, for the sake of discourse, attributions are made as one chooses. One should not insist that the eye sees or that cognition cognizes. For the Blessed One said: one should not insist on the expression of the country, and one should not overstep the designation of the world.
+> Here the Sautrāntikas say: why is this empty space being chewed? Eye-Cognition arises depending on the eye and on Visible Forms. Who sees there, or what is seen? This is without activity, dharmas only, and Ground and Grounded only. There, for the sake of discourse, attributions are made as one chooses. One should not insist that the eye sees or that Cognition cognizes. For the Blessed One said: one should not insist on the expression of the country, and one should not overstep the designation of the world.
 >
 > This, however, is the established position of the Kāśmīra Vaibhāṣikas: the eye sees, the ear hears, the nose smells, the tongue tastes, the body touches, and mind cognizes.
 
 ## 4. Movement
 
-The eye is view by disclosure, because it sees. Not every eye. Only the one that does its own work. The cognition it supports is then offered as the seer, and refused, because an obstructed visible is not seen. The screen is light, not contact. The sūtras that put the act on the eye are attribution. The Sautrāntika withdraws the agent. The close records the Kāśmīra position.
+The eye is view by disclosure, because it sees. Not every eye. Only the one that does its own work. The Cognition it supports is then offered as the seer, and refused, because a screened Visible Form is not seen. The screen is light, not contact. The sūtras that put the act on the eye are attribution. The Sautrāntika withdraws the agent. The close records the Kāśmīra position.
 
 ## 5. Decisions
 
-1. The sabhāga eye sees visibles. Not every eye.
-2. The cognition supported by the eye does not see. An obstructed visible is not seen, and cognition is unresistant.
-3. The eye is not an object-reacher. The covered is unseen where light is blocked.
+1. The sabhāga eye sees Visible Forms. Not every eye.
+2. The Cognition supported by the eye does not see. A screened Visible Form is not seen, and Cognition is unresistant.
+3. The eye is not an Condition-reacher. The covered is unseen where light is blocked.
 4. "By the eye" is attribution to the support, as the beds cry.
-5. The Sautrāntika: no one sees; dharmas only; cause and result only.
+5. The Sautrāntika: no one sees; dharmas only; Ground and Grounded only.
 6. The Kāśmīra position: the eye sees, and mind cognizes.
 
 ## 6. Interpretation
 
-The wall is the cut. Unresistant cognition would see through it. The established sentence keeps seeing on the eye that does its own work, and cognizing on mind. The Sautrāntika sentence is the refusal of the agent. It is recorded. It is not the close.
+The wall is the cut. Unresistant Cognition would see through it. The established sentence keeps seeing on the eye that does its own work, and cognizing on mind. The Sautrāntika sentence is the refusal of the agent. It is recorded. It is not the close.
 
 ## 7. Review Status
 
-Upgraded reading of the forty-second study. Scheme checked: principle stays off this verse; cognition is vijñāna; sabhāga is the work; Discrimination is the prajñā verb. 1.43 not opened.
+Upgraded reading of the forty-second study. Scheme checked: Cognition is vijñāna; Faculty is indriya; Condition is viṣaya (provisional), so prāpta-viṣaya is Condition-reacher; Ground and Grounded render hetu-phala in the Sautrāntika reply; sabhāga is the work. The anchor now keeps *kila* (“it is said”) and reads *vijñānam* as the excluded nominative agent. 1.43 not opened.

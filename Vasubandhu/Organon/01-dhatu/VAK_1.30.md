@@ -43,8 +43,8 @@ Three clauses. *Tridhā anye* closes the ethical question of 1.29: the others
 are threefold. *Kāma-dhātu-āptāḥ sarve* opens the realm question: the
 participle agrees with *sarve*. *Rūpe caturdaśa* reuses *āptāḥ* by ellipsis;
 *vinā* takes the instrumental of exclusion. The realm stem *dhātu* in
-*kāma-dhātu* and *rūpe* (*rūpa-dhātau*) names a Realm, not one of the
-eighteen Principles.
+*kāma-dhātu* and *rūpe* (*rūpa-dhātau*) names a Realm: a Principle of
+Principles, not one of the eighteen.
 
 ```nltk-fcfg
 % start S
@@ -102,7 +102,7 @@ The ethical cut finishes the ten. The realm cut begins a new question. Threefold
 
 The Form Realm drops four Principles: two Conditions, and the two Cognitions that take them. It does not drop the two Faculties. Absence of the support removes the Cognition. Absence of a use does not, by itself, remove the Faculty.
 
-Three levels stay apart. The Form Base is a Base; the Visible Form Principle and the other Form-bearing Principles are Principles; the Form Realm is a Realm. The Form Base gathers exactly the ten Form-bearing Principles without being one of them. The Form Realm shares the name *rūpa-dhātu* with the Visible Form Principle and is not it.
+The levels stay distinct, and Principle is recursive. The Form Base is a Base; the Visible Form Principle and the other Form-bearing Principles are first-order Principles; the Form Realm is a Principle of Principles, a Principled World for rebirth. The Form Base gathers exactly the ten Form-bearing Principles without being one of them. The Form Realm shares the name *rūpa-dhātu* with the Visible Form Principle and is not it.
 
 ## 7. Technical Vocabulary
 
@@ -113,8 +113,8 @@ Three levels stay apart. The Form Base is a Base; the Visible Form Principle and
 | kuśala | wholesome | not the Pure |
 | akuśala | unwholesome | not the Impure |
 | avyākṛta | indeterminate | not declared either |
-| kāmadhātu | Desire Realm | a Realm, not one of the eighteen |
-| rūpadhātu | Form Realm | a Realm, not the Visible Form Principle |
+| kāmadhātu | Desire Realm | a Principle of Principles; not one of the eighteen |
+| rūpadhātu | Form Realm | a Principle of Principles; not the Visible Form Principle |
 | āpta | connected | not separated from |
 | gandha-dhātu | Odor Principle | excluded from the fourteen |
 | rasa-dhātu | Taste Principle | excluded from the fourteen |
@@ -147,24 +147,29 @@ ThreefoldBy(dharma_principle,nature) & ThreefoldBy(dharma_principle,association)
 ThreefoldBy(visible_form,vijnapti) & ThreefoldBy(sound,vijnapti)
 all x.(AmongEighteen(x) -> (Threefold(x) <-> exists g.ThreefoldBy(x,g)))
 PortionOf(pratisamkhya_nirodha,dharma_principle) & CanBeWholesome(pratisamkhya_nirodha)
-all x.(AmongEighteen(x) <-> PrincipleLevel(x))
+all x.(Principle(x) <-> (AmongEighteen(x) | RealmLevel(x)))
 BaseLevel(form_base) & RealmLevel(desire_realm) & RealmLevel(form_realm)
-all x.(-(BaseLevel(x) & PrincipleLevel(x)) & -(BaseLevel(x) & RealmLevel(x)) & -(RealmLevel(x) & PrincipleLevel(x)))
-all x.(PrincipleLevel(x) -> (GatheredIn(x,form_base) <-> FormBearing(x)))
+all x.(RealmLevel(x) -> -AmongEighteen(x))
+all r.(RealmLevel(r) -> exists x.(AmongEighteen(x) & ConnectedWith(x,r)))
+all x.(BaseLevel(x) -> -Principle(x))
+all x.(AmongEighteen(x) -> (GatheredIn(x,form_base) <-> FormBearing(x)))
 MorselFood(odor) & MorselFood(taste) & MorselFood(tangible)
 SupportOf(odor,nose_cognition) & SupportOf(taste,tongue_cognition)
 all x.all y.((SupportOf(y,x) & -ConnectedWith(y,form_realm)) -> -ConnectedWith(x,form_realm))
 HasUse(tangible) & HasUse(nose) & HasUse(tongue)
 AttributedToOthers(dhyana_account) & Explained(varnayanti_account)
-# THEORY rejected_realm_is_principle
-# EXPECT rejected_realm_is_principle F
+# THEORY rejected_realm_among_eighteen
+# EXPECT rejected_realm_among_eighteen F
 exists x.(RealmLevel(x) & AmongEighteen(x))
+# THEORY rejected_realm_not_principle
+# EXPECT rejected_realm_not_principle F
+exists x.(RealmLevel(x) & -Principle(x))
 # THEORY rejected_form_realm_is_visible_form
 # EXPECT rejected_form_realm_is_visible_form F
 exists x.(x = form_realm & x = visible_form)
 # THEORY rejected_form_base_is_principle
 # EXPECT rejected_form_base_is_principle F
-exists x.(x = form_base & PrincipleLevel(x))
+exists x.(x = form_base & Principle(x))
 # THEORY rejected_eight_are_threefold
 # EXPECT rejected_eight_are_threefold F
 exists x.(OnlyIndeterminate(x) & Threefold(x))
@@ -201,7 +206,7 @@ vijnapti => vijnapti_g
 dhyana_account => dhyana_account_m
 varnayanti_account => varnayanti_account_m
 AmongEighteen => {caksur_d,srotra_d,ghrana_d,jihva_d,kaya_d,rupa_d,sabda_d,gandha_d,rasa_d,sprastavya_d,mano_d,dharma_d,caksurvijnana_d,srotravijnana_d,ghranavijnana_d,jihvavijnana_d,kayavijnana_d,manovijnana_d}
-PrincipleLevel => {caksur_d,srotra_d,ghrana_d,jihva_d,kaya_d,rupa_d,sabda_d,gandha_d,rasa_d,sprastavya_d,mano_d,dharma_d,caksurvijnana_d,srotravijnana_d,ghranavijnana_d,jihvavijnana_d,kayavijnana_d,manovijnana_d}
+Principle => {caksur_d,srotra_d,ghrana_d,jihva_d,kaya_d,rupa_d,sabda_d,gandha_d,rasa_d,sprastavya_d,mano_d,dharma_d,caksurvijnana_d,srotravijnana_d,ghranavijnana_d,jihvavijnana_d,kayavijnana_d,manovijnana_d,kama_dhatu,rupa_dhatu_realm}
 BaseLevel => {rupa_skandha}
 RealmLevel => {kama_dhatu,rupa_dhatu_realm}
 FormBearing => {caksur_d,srotra_d,ghrana_d,jihva_d,kaya_d,rupa_d,sabda_d,gandha_d,rasa_d,sprastavya_d}
@@ -226,9 +231,11 @@ Explained => {varnayanti_account_m}
 association for the seven Cognition and Mind Principles; nature,
 association, and arising for the Dharma Principle; *vijñapti* for Visible
 Form and Sound. Eighteen in the Desire Realm; fourteen in the Form Realm.
-Three levels are disjoint: one Base, eighteen Principles, two Realms. The
-Form Base gathers exactly the ten Form-bearing Principles and is none of
-them. Removing a Faculty from the Form Realm, or admitting a Cognition
+Principles are recursive: the eighteen are first-order Principles; a
+Realm is a Principle of Principles, constituted by the eighteen it admits,
+and is not one of the eighteen. The Base is not a Principle at either
+order: the Form Base gathers exactly the ten Form-bearing Principles and
+is none of them. Removing a Faculty from the Form Realm, or admitting a Cognition
 whose support is absent, falsifies the theory.
 
 **Bhāṣya determination.** Odor and Taste are absent from the Form Realm
@@ -244,8 +251,10 @@ closing explanation is introduced by *evaṃ tu varṇayanti*.
 list. The Form Base, the Form-bearing Principles, and the Form Realm are
 three determinations at three levels; the same *rūpa* can be named at each,
 and each is checked separately. The Form Base gathers ten Principles and is
-not a Principle; the Form Realm shares a name with a Principle and is not
-it. How Base and Principle relate as levels of Cognition is left open.
+not a Principle. The Form Realm is a Principle at the next order, a
+Principled World for rebirth, constituted by fourteen of the eighteen; it
+shares the name *rūpa-dhātu* with the Visible Form Principle and is not
+that Principle. How Base and Principle relate as levels of Cognition is left open.
 1.31 is not opened. The earlier schematic follows.
 
 ```text

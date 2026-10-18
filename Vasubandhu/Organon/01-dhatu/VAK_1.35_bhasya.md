@@ -1,13 +1,13 @@
-# VAK_1.35 Bhāṣya — Element, Derived, Accumulated
+# VAK_1.35 Bhāṣya — Element, Element-dependent, Accumulated
 
 ## 1. Kārikā Anchor
 
 > spraṣṭavyaṃ dvividhaṃ śeṣā rūpiṇo nava bhautikāḥ /
 > dharmadhātvekadeśaś ca saṃcitā daśa rūpiṇaḥ // 1.35 //
 
-> The tangible is twofold. The other nine Form Principles, and one portion
+> The Tangible is twofold. The other nine Form Principles, and one portion
 > of the Dharma Principle, are Element-dependent. The ten Form Principles
-> are accumulated.
+> are Accumulated.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -59,50 +59,56 @@ Word division is editorial. The sūtra lines are restored to the argument, not t
 
 ## 3. Continuous Conventional Translation
 
-> How many principles are of the nature of the Elements, how many derived?
+> How many Principles are of the nature of the Elements, how many Element-dependent?
 >
-> The tangible is twofold.
+> The Tangible is twofold.
 >
-> The Elements, and the derived. Of these, the Elements are four. The derived is sevenfold, smoothness and the rest, because it occurs in the Elements.
+> The Elements, and the Element-dependent. Of these, the Elements are four. The Element-dependent is sevenfold, smoothness and the rest, because it occurs in the Elements.
 >
-> The other nine whose nature is form are derived.
+> The other nine whose nature is Form are Element-dependent.
 >
-> The five organ-principles and the four conditions. These nine principles are only derived.
+> The five Faculty Principles and the four Conditions. These nine Principles are only Element-dependent.
 >
-> And a portion of the dharma-principle.
+> And a portion of the Dharma Principle.
 >
-> The one called avijñapti is derived. The rest, the citta-principles and the dharma-principle apart from avijñapti, are neither.
+> The one called avijñapti is Element-dependent. The rest, the consciousness Principles and the Dharma Principle apart from avijñapti, are neither.
 >
-> The venerable Buddhadeva says the ten essences are only Elements. This is not so. The sūtra determines the Elements as four, with the character of hardness and the rest. And they are tangible. For hardness and the rest are not grasped by the eye and the others, nor are color and the rest grasped by the body-organ.
+> The venerable Buddhadeva says the ten Essences are only Elements. This is not so. The sūtra determines the Elements as four, with the character of hardness and the rest. And they are Tangible. For hardness and the rest are not grasped by the eye and the others, nor are color and the rest grasped by the Body Faculty.
 >
-> And it is said in a sūtra: the eye, monk, is an internal essence, a clarity of form depending on the four Great Elements, whose nature is form, invisible, resistant. So through the body. Visible forms, monk, are an external essence, depending on the four Great Elements, whose nature is form, visible, resistant. Sound, monk, is an external essence, depending on the four Great Elements, whose nature is form, invisible, resistant. So smell and taste. Tangibles, monk, are an external essence: the four Great Elements, and form depending on the four Great Elements, whose nature is form, invisible, resistant.
+> And it is said in a sūtra: the eye, monk, is an internal Essence, a clarity of Form depending on the four Great Elements, whose nature is Form, invisible, resistant. So through the body. Visible forms, monk, are an external Essence, depending on the four Great Elements, whose nature is Form, visible, resistant. Sound, monk, is an external Essence, depending on the four Great Elements, whose nature is Form, invisible, resistant. So Odor and Taste. Tangibles, monk, are an external Essence: the four Great Elements, and Form depending on the four Great Elements, whose nature is Form, invisible, resistant.
 >
-> Since the Elements are included in one portion of the tangible essence, the rest is established as not Elements.
+> Since the Elements are included in one portion of the Tangible Essence, the rest is established as not Elements.
 >
-> What then of what is said in the sūtra, whatever in this fleshy mass of the eye is hard, that is the Earth Principle? That is an instruction about the fleshy mass. A person consists of six principles: in the descent into the womb, this is to show the constituents of a being. The six contact-essences are stated. Otherwise there would be no mental factors. And it is not reasonable that the mental factors are just citta. In a sūtra, reflection and feeling follow citta and depend on citta. And citta with passion and the rest is stated. Therefore the determination of Element and derived is as stated.
+> What then of what is said in the sūtra, whatever in this fleshy mass of the eye is hard, that is the Earth Principle? That is an instruction about the fleshy mass. A person consists of six Principles: in the descent into the womb, this is to show the constituents of a being. The six Contact Essences are stated. Otherwise there would be no mental factors. And it is not reasonable that the mental factors are just citta. In a sūtra, reflection and feeling follow citta and depend on citta. And citta with passion and the rest is stated. Therefore the determination of Element and Element-dependent is as stated.
 >
-> How many are accumulated, how many not?
+> How many are Accumulated, how many not?
 >
-> The ten whose nature is form are accumulated: the five organ-principles and the five condition-principles, because they are clusters of atoms. The rest are not accumulated.
+> The ten whose nature is Form are Accumulated: the five Faculty Principles and the five Condition Principles, because they are clusters of atoms. The rest are not accumulated.
 
 ## 4. Movement
 
-The first question is Element and derived. The tangible is both. The other nine of form are only derived. Avijñapti is derived. The citta-principles and the rest of the dharma-principle are neither. Buddhadeva collapses the ten essences into the Elements. The sūtra is the refusal. The fleshy mass and the six principles of the person are the remaining objections. The accumulation is a second count. There is one rival, and he is refused.
+The first question is Element and Element-dependent. The Tangible is both. The other nine of Form are only Element-dependent. Avijñapti is Element-dependent. The consciousness Principles and the rest of the Dharma Principle are neither. Buddhadeva collapses the ten Essences into the Elements. The sūtra is the refusal. The fleshy mass and the six Principles of the person are the remaining objections. Accumulation is a second count. There is one rival, and he is refused.
 
 ## 5. Decisions
 
-1. The tangible is twofold: four Elements, and seven derived.
-2. The other nine whose nature is form are only derived.
-3. Avijñapti, the portion of the dharma-principle, is derived.
-4. The citta-principles and the dharma-principle apart from avijñapti are neither.
-5. Buddhadeva is refused. The Elements are four, and they are tangible.
-6. The fleshy mass is not the organ. The six principles of the person do not erase the mental factors.
-7. The ten whose nature is form are accumulated, as clusters of atoms. The rest are not.
+1. The Tangible is twofold: four Elements, and seven Element-dependent.
+2. The other nine whose nature is Form are only Element-dependent.
+3. Avijñapti, the portion of the Dharma Principle, is Element-dependent.
+4. The consciousness Principles and the Dharma Principle apart from avijñapti are neither.
+5. Buddhadeva is refused. The Elements are four, and they are Tangible.
+6. The fleshy mass is not the Faculty. The six Principles of the person do not erase the mental factors.
+7. The ten whose nature is Form are Accumulated, as clusters of atoms. The rest are not.
 
 ## 6. Interpretation
 
-The Element is not the principle. The four sit in the tangible, and the derived sits there with them. The eye is a clarity depending on the four. It is not the four. Avijñapti is derived, and it is not among the ten. Accumulated is the atom-cut, and it stops at the ten. The page does not print the science. The page prints the twofold tangible and the refusal.
+The Element is not the Principle. The four sit in the Tangible, and the Element-dependent sits there with them. The eye is a clarity depending on the four. It is not the four. Avijñapti is Element-dependent, and it is not among the ten. Accumulated is the atom-cut, and it stops at the ten. The page does not print the science. The page prints the twofold Tangible and the refusal.
 
 ## 7. Review Status
 
-Upgraded reading of the thirty-fifth study. Scheme checked: Element is bhūta; principle is dhātu; essence is āyatana; the dharma-principle is not an essence. 1.36 not opened.
+Upgraded with the paired kārikā study: Bhāṣya-informed anchor matched
+exactly; *bhautika* is Element-dependent throughout; Tangible, Faculty,
+Condition, Essence, and the Principle names capitalized. The kārikā
+carries a FeatureChart parse whose class count checks ten less one and
+ten; a derived SEM; a prose theory of the Great Elements, avijñapti, and
+the refusal of Buddhadeva; and seven rejected theories false on the
+finite valuation. 1.36 not opened.

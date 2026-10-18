@@ -33,7 +33,7 @@ Word division is editorial. The verse has nirūpaṇa. The prose has abhinirūpa
 
 ## 3. Continuous Conventional Translation
 
-> If the five cognition-principles are associated with vitarka and vicāra, how are they called without vikalpa?
+> If the five Cognition Principles are associated with vitarka and vicāra, how are they called without vikalpa?
 >
 > They are without vikalpa in respect of examining and recollective vikalpa.
 >
@@ -45,7 +45,7 @@ Word division is editorial. The verse has nirūpaṇa. The prose has abhinirūpa
 >
 > Those two are unconcentrated mental prajñā, and all mental smṛti.
 >
-> Prajñā associated with mind-cognition is called mental. Unconcentrated is called vyagrā. And that is examining vikalpa.
+> Prajñā associated with Mind-Cognition is called mental. Unconcentrated is called vyagrā. And that is examining vikalpa.
 >
 > And all mental smṛti, whether concentrated or unconcentrated, is recollective vikalpa.
 
@@ -59,14 +59,26 @@ The objection is the previous verse. The five are with the pair, so the name wit
 2. Vikalpa is threefold. They have the intrinsic. They lack the other two.
 3. Intrinsic vikalpa is vitarka, indicated later among the mental factors.
 4. Examining vikalpa is unconcentrated mental prajñā.
-5. Mental means associated with mind-cognition. Vyagrā means unconcentrated.
+5. Mental means associated with Mind-Cognition. Vyagrā means unconcentrated.
 6. Recollective vikalpa is all mental smṛti, concentrated or not.
 7. The horse with one foot is the commentary's measure of the name.
 
 ## 6. Interpretation
 
-The five are the desireling's present. They have vitarka, and vitarka is a vikalpa, and they are still called without it. The name is by the missing two. Examining and recollecting are mind-cognition work. The formless, where the last three remain, is not this page. That seeing waits for Loka:Karma. The page prints the three kinds and the horse.
+The five are the desireling's present. They have vitarka, and vitarka is a vikalpa, and they are still called without it. The name is by the missing two. Examining and recollecting are Mind-Cognition work. The Formless, where the last three remain, is not this page. That seeing waits for Loka:Karma. The page prints the three kinds and the horse.
+
+The engine reading: the name *avikalpaka* is by privation of two kinds,
+not of the whole. The five keep intrinsic vikalpa, vitarka, as 1.32 required.
+They also have prajñā and smṛti of their own; these are not mental, so
+they are not vikalpa. The same mental factor is vikalpa or not by its
+association with Mind-Cognition, and prajñā examines only when
+unconcentrated, while all mental smṛti recollects. Kind is a relation
+again, as in 1.32.
 
 ## 7. Review Status
 
-Upgraded reading of the thirty-third study. Scheme checked: cognition is vijñāna; principle is dhātu. 1.34 not opened.
+Upgraded with the paired kārikā study: Bhāṣya-informed anchor matched
+exactly; terminology capitalized (Cognition Principle, Mind-Cognition,
+Formless). The kārikā now carries a FeatureChart parse with derived SEM,
+a prose theory of the three vikalpas, and six rejected theories checked
+false on the finite valuation. 1.34 not opened.

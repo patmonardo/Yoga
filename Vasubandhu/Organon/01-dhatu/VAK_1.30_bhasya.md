@@ -194,13 +194,15 @@ Visible Form and Sound by bodily and verbal *vijñapti*. The realm cut opens
 a new question and is checked extensionally: eighteen in the Desire Realm,
 fourteen in the Form Realm.
 
-Levels stay apart. A Realm is not a Principle: the Desire Realm is not one
-of the eighteen, and the Form Realm is not the Visible Form Principle,
-though both are *rūpa-dhātu*. A Base is not a Principle either: the Form
-Base gathers exactly the ten Form-bearing Principles and is none of them.
-The same *rūpa* is determined at each level, and the determinations do not
-substitute for one another. How Base and Principle stand as levels of
-Cognition is left open here.
+Levels stay distinct, and *dhātu* is recursive. A Realm is a Principle of
+Principles: a Principled World for rebirth, constituted by the eighteen
+Principles it admits, and not itself one of the eighteen. The Desire Realm
+admits all eighteen; the Form Realm fourteen. The Form Realm is not the
+Visible Form Principle, though both are *rūpa-dhātu*. A Base is not a
+Principle: the Form Base gathers exactly the ten Form-bearing Principles
+and is none of them. The same *rūpa* is determined at each level, and the
+determinations do not substitute for one another. How Base and Principle
+stand as levels of Cognition is left open here.
 
 The Form Realm debate keeps its full sequence. Odor and Taste go as morsel
 food; their Cognitions go with the support. The Tangible stays as support
@@ -214,6 +216,6 @@ formless count is 1.31.
 Upgraded with the paired kārikā study: Bhāṣya-informed anchor matched
 exactly; terminology capitalized (Principle, Faculty, Condition, Odor,
 Taste, Tangible, Desire Realm, Form Realm). The kārikā now carries a
-FeatureChart parse with derived SEM, a prose theory with disjoint Base,
-Principle, and Realm levels, and seven rejected theories checked false on
+FeatureChart parse with derived SEM, a prose theory with recursive Principles
+(Realms as Principles of Principles) and a Base that is no Principle, and seven rejected theories checked false on
 the finite valuation. 1.31 not opened.

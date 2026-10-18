@@ -105,7 +105,7 @@ The Pure and the Impure are a second cut. These three admit both. The fifteen do
 
 | Sanskrit | Rendering | Note |
 |---|---|---|
-| ārūpya | Formless Realm | a Realm, not one of the eighteen |
+| ārūpya | Formless Realm | a Principle of Principles; not one of the eighteen |
 | āpta | connected | not separated from |
 | mano-dhātu | Mind Principle | the seventh of the Cognition Principle |
 | dharma-dhātu | Dharma Principle | not the Dharma Essence |
@@ -138,9 +138,11 @@ all i.(Pure(i) <-> (InPathTruth(i) | Unconditioned(i)))
 all x.(HasPureInstance(x) <-> exists i.(InstanceOf(i,x) & Pure(i)))
 all x.(HasImpureInstance(x) <-> exists i.(InstanceOf(i,x) & -Pure(i)))
 all i.(Unconditioned(i) -> InstanceOf(i,dharma_principle))
-all x.(AmongEighteen(x) <-> PrincipleLevel(x))
+all x.(Principle(x) <-> (AmongEighteen(x) | RealmLevel(x)))
 EssenceLevel(dharma_essence) & RealmLevel(formless_realm)
-all x.(-(EssenceLevel(x) & PrincipleLevel(x)) & -(RealmLevel(x) & PrincipleLevel(x)) & -(RealmLevel(x) & EssenceLevel(x)))
+all x.(RealmLevel(x) -> -AmongEighteen(x))
+all r.(RealmLevel(r) -> exists x.(AmongEighteen(x) & ConnectedWith(x,r)))
+all x.(EssenceLevel(x) -> -Principle(x))
 # THEORY rejected_form_natured_in_formless
 # EXPECT rejected_form_natured_in_formless F
 exists x.(FormNatured(x) & ConnectedWith(x,formless_realm))
@@ -159,9 +161,12 @@ exists x.(ConnectedWith(x,formless_realm) & -HasImpureInstance(x))
 # THEORY rejected_dharma_principle_is_essence
 # EXPECT rejected_dharma_principle_is_essence F
 exists x.(x = dharma_principle & EssenceLevel(x))
-# THEORY rejected_formless_is_principle
-# EXPECT rejected_formless_is_principle F
+# THEORY rejected_formless_among_eighteen
+# EXPECT rejected_formless_among_eighteen F
 exists x.(x = formless_realm & AmongEighteen(x))
+# THEORY rejected_formless_not_principle
+# EXPECT rejected_formless_not_principle F
+exists x.(x = formless_realm & -Principle(x))
 ```
 
 ```nltk-valuation
@@ -171,7 +176,7 @@ mind_cognition => manovijnana_d
 dharma_essence => dharma_ayatana
 formless_realm => arupya_dhatu
 AmongEighteen => {caksur_d,srotra_d,ghrana_d,jihva_d,kaya_d,rupa_d,sabda_d,gandha_d,rasa_d,sprastavya_d,caksurvijnana_d,srotravijnana_d,ghranavijnana_d,jihvavijnana_d,kayavijnana_d,mano_d,dharma_d,manovijnana_d}
-PrincipleLevel => {caksur_d,srotra_d,ghrana_d,jihva_d,kaya_d,rupa_d,sabda_d,gandha_d,rasa_d,sprastavya_d,caksurvijnana_d,srotravijnana_d,ghranavijnana_d,jihvavijnana_d,kayavijnana_d,mano_d,dharma_d,manovijnana_d}
+Principle => {caksur_d,srotra_d,ghrana_d,jihva_d,kaya_d,rupa_d,sabda_d,gandha_d,rasa_d,sprastavya_d,caksurvijnana_d,srotravijnana_d,ghranavijnana_d,jihvavijnana_d,kayavijnana_d,mano_d,dharma_d,manovijnana_d,arupya_dhatu}
 EssenceLevel => {dharma_ayatana}
 RealmLevel => {arupya_dhatu}
 ConnectedWith => {(mano_d,arupya_dhatu),(dharma_d,arupya_dhatu),(manovijnana_d,arupya_dhatu)}
@@ -193,8 +198,9 @@ the five Cognitions that take them as support and Condition. Each Principle
 has an Impure instance; only the three have Pure instances, by Path for
 all three and by the unconditioned for the Dharma Principle alone. Making a
 Form-natured Principle Formless-connected, or giving one of the fifteen a
-Pure instance, falsifies the theory. The Dharma Principle, the Dharma
-Essence, and the Formless Realm sit at three disjoint levels.
+Pure instance, falsifies the theory. The Formless Realm is a Principle of
+Principles constituted by the three; the Dharma Essence is not a
+Principle, and the Dharma Principle is not the Dharma Essence.
 
 **Bhāṣya determination.** Those free of passion for Form are born there,
 so the ten Form-natured Principles do not occur there, nor the five

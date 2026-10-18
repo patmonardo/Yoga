@@ -77,7 +77,7 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   the grammar may derive the §8 formula by the parse (see 8.13). `Pred => {}`
   means an empty extension; NLTK itself reads it as a phantom `''` element,
   so the audit loader corrects this.
-- The chapter 1 Grammar–Logic pilots (1.01–1.32) annotate the normalized
+- The chapter 1 Grammar–Logic pilots (1.01–1.48) annotate the normalized
   IAST token stream beneath the Lexical Analysis table. It preserves verse
   order, opens sandhi, and marks Bhāṣya-resolved ellipses with `∅-` and
   `SUPPLIED=prose`. The annotation must match the grammar's `# tokens:`
@@ -189,8 +189,10 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   Use `--start 30 --end 30 --strict` for the ethical and realm cuts: the
   ten others are threefold on stated grounds, all eighteen are connected
   with the Desire Realm, and fourteen with the Form Realm (a biconditional,
-  so the nose and tongue Faculties stay). The prose theory keeps three
-  disjoint levels — Base, Principle, Realm: the Form Base gathers exactly
+  so the nose and tongue Faculties stay). The prose theory makes
+  Principle recursive — a Realm is a Principle of Principles (constituted
+  by the eighteen it admits, not one of them), and a Base is no Principle:
+  the Form Base gathers exactly
   the ten Form-bearing Principles and is none of them, and the Form Realm
   is not the Visible Form Principle though both are *rūpa-dhātu*.
   Use `--start 31 --end 31 --strict` for the Formless and the Impure–Pure
@@ -199,13 +201,90 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   taking them. Impure and Pure are predicated through instances: the three
   have both (Path for all three, the unconditioned for the Dharma Principle
   alone), the fifteen only Impure. The Dharma Principle is not the Dharma
-  Essence; Principle, Essence, and Realm levels are disjoint.
+  Essence; the Formless Realm is a Principle of Principles constituted by
+  the three.
   Use `--start 32 --end 32 --strict` for vitarka and vicāra: restrictive
   *hi* (a `RESTR` feature) makes the five Cognition Principles exclusively
   "with both"; *tri-prakāra* gives the last three at least three kinds; the
   ten have only "without both". The prose relates kinds to portions and
   levels and finds the fourth kind (vicāra alone with vitarka) inside the
   Dharma Principle, so a level with both has four kinds.
+  Use `--start 33 --end 33 --strict` for *avikalpaka*: the instrumental
+  restricts the negation to examining and recollective vikalpa, so the five
+  keep intrinsic vikalpa (vitarka). Examining is exactly unconcentrated
+  mental prajñā; recollective is exactly mental smṛti. The five's own prajñā
+  and smṛti are not mental and so not vikalpa.
+  Use `--start 34 --end 34 --strict` for the two cuts: *sālambana*
+  (Support, glossed as grasping a Condition) over the seven consciousness
+  Principles and the associated half of the Dharma Principle; and
+  Appropriation over instances, where `CNT` checks 7, 8 + 1 = 9, and 9.
+  The cuts are disjoint: nothing that takes a Support is Appropriated.
+  Use `--start 35 --end 35 --strict` for Element and Element-dependent:
+  the class *rūpin* carries `CNT=10`, *śeṣāḥ … nava* takes ten less one,
+  and *daśa* matches it. Great Elements are instances only of the Tangible;
+  avijñapti is Element-dependent but not Accumulated; Buddhadeva's thesis
+  is a rejected theory.
+  Use `--start 36 --end 36 --strict` for the outer four: the verse settles
+  *dahyate* (passive) and *tulayati* (active) and disputes *dagdhṛ*
+  (agent) and *tulya* (gerundive, the weighed). Swapped `VA`/`VB`
+  features force the dispute onto the converse voices.
+  Use `--start 37 --end 37 --strict` for the modes of genesis: number
+  agreement binds *vipākajaḥ* to *na śabdaḥ* across the line break, and
+  each mode is predicated through instances. Maturation and continuity are
+  tied to their Grounds (*hetu*); Sound's effort blocks maturation; the
+  unconditioned instance of the Dharma Principle has no mode.
+  Use `--start 38 --end 38 --strict` for the close of the causal
+  sequence: counts for the four, the one, and the three; *ekaḥ* as
+  uniqueness of the *dravya*-bearer (the unconditioned core); momentary as
+  the first Pure moment without a continuity Ground; and a genitive-dual
+  pair applied to separate and joint acquisition under *syāt*.
+- 1.39 counts the inner by subtraction (*hitvā* takes a class whose remainder
+  must match *dvādaśa*), and reads *sabhāga* / *tat-sabhāga* per instance:
+  the negative relative clause *yaḥ na sva-karma-kṛt* carries POL=neg into
+  the work predicate, and the Dharma Principle is the constant the rest
+  exclude.
+- 1.40 counts fifteen plus three under the masculine plural *heyāḥ*, then
+  shifts to the neuter singular *dṛṣṭi-heyam*, whose three negated subjects
+  must agree with it; abandonment by seeing is modelled per instance as
+  afflicted, not Form, and born from the Mind Essence.
+- 1.41 lets case carry quantity: the nominative *cakṣuḥ* quantifies over the
+  whole Eye Principle, the partitive genitive *dharma-dhātoḥ* over a part,
+  and the dual *pradeśau* closes view to those two; the ablative
+  *a-tīraṇāt* grounds the exclusion of five-born discriminative
+  comprehension.
+- 1.42 binds active *paśyati* and passive *dṛśyate* to one ROOT, so the
+  passive ground quantifies away the agent of the same relation; *tat* in
+  *tat-āśritam* takes its REF from the subject, and *kila* carries
+  EVID=reported for the Sautrāntika reserve.
+- 1.43 makes *anyathā* a predicate operator (`\P x.-P(x)`) that returns the
+  converse of *a-prāpta-viṣayam* for the triad, whose CNT must match the
+  collective dvandva; reaching is modelled as arising without an interval,
+  not touch, and the instrumental duals carry *api*'s inclusive reading.
+- 1.44 makes *ca* the carrier of the past predicate (`\P y.P(y)` applied to
+  *atītaḥ*), so the five derive a co-born and a past Basis while the last
+  has only the past one; *sahajaḥ* takes the elided *āśrayaḥ* by agreement,
+  *taiḥ* agrees in number with *pañcānām*, and the four alternatives keep
+  Basis (*āśraya*) apart from the immediately preceding Condition.
+- 1.45 shares NUM across its two sentences so that plural *taiḥ* takes the
+  name from *cakṣuḥ-ādayaḥ*; *ataḥ* carries the Basis relation into the
+  naming clause, and the second ablative makes the Basis unshared. The
+  Bhāṣya's *āśrayī-bhavitum* / *ālambanī-bhavati* fixes Basis against Support.
+- 1.46 reads each word as a role in a seeing situation and each comparative
+  as a plane relation; *ca* lends *vijñānam* the predicate of *rūpam*, the
+  pronoun *asya* must match *vijñānam*'s REF, and *sarvataḥ* is a relation
+  operator asserting all three alternatives, applied through the dual
+  *ubhe* to both members. Plane constants are `dh1`–`dh4`, since NLTK reads
+  `d1` as a variable.
+- 1.47 builds the Bhāṣya's general rule (*utsarga*) and exception
+  (*apavāda*) into the parse: *kāya-vijñānam* is subtracted from the domain
+  of *sarvam* and given its own predicate; *tathā* carries the 1.46 rule to
+  *śrotram*, and *a-niyatam* asserts Mind on the body's plane, above, and
+  below.
+- 1.48 closes the chapter with three quantifiers: *dvi-vijñeyāḥ* asserts
+  exactly two knowers (own Cognition and Mind-Cognition); *nityāḥ* is
+  restricted to unconditioned dharmas; *dharma-ardham* is partitive (some
+  of the Dharma Principle is Faculty, some is not), and *ca* joins the
+  twelve internal (CNT=12) to *indriyam*, which stays neuter singular.
   Strict mode checks token annotation, dependency vocabulary coverage,
   semantic closure, reuse in the theory, symbol declarations, and expected
   truth values. Dependency coverage is not dependency parsing: the block

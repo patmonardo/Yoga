@@ -1,13 +1,13 @@
-# VAK_1.45 Bhāṣya — Named by the Support
+# VAK_1.45 Bhāṣya — Named by the Basis
 
 ## 1. Kārikā Anchor
 
 > tadvikāravikāritvād āśrayāś cakṣurādayaḥ /
 > ato 'sādhāraṇatvād dhi vijñānaṃ tair nirucyate // 1.45 //
 
-> The Eye and the other Faculties are supports because the Cognition
-> Principles they support change when they change. Therefore, because those
-> Faculties are not shared, Cognition is designated by them.
+> The Eye and the other Faculties are Bases, because Cognition is altered
+> by their alteration. Therefore, because they are not shared, Cognition is
+> designated by them.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -45,34 +45,34 @@ Word division is editorial. The local na punā is kept. The next question is not
 
 ## 3. Continuous Conventional Translation
 
-> Cognition arises depending on both. Why are the eye and the rest alone called supports, and not visibles and the rest?
+> Cognition arises depending on both. Why are the Eye and the rest alone called Bases, and not Visible Forms and the rest?
 >
-> Because of being altered by their alteration, the eye and the rest are supports.
+> Because of being altered by their alteration, the Eye and the rest are Bases.
 >
-> Principles is the governing topic. For when the eye and the rest are altered, their cognitions are altered, following benefit or impairment, acuity or dullness. There is no such alteration from an alteration of visibles and the rest. Therefore, because the dependence is stronger, they alone are supports, not visibles and the rest.
+> "Principles" carries over. For when the Eye and the rest are altered, their Cognitions are altered, following benefit or impairment, acuity or dullness. There is no such alteration from an alteration of Visible Forms and the rest. Therefore, because the dependence is stronger, they alone are Bases, not Visible Forms and the rest.
 >
-> Why, though visibles and the rest are cognized by them, is it called eye-cognition through mind-cognition, and not form-cognition through dharma-cognition? Those, the eye and the rest, are their supports.
+> Why, though Visible Forms and the rest are cognized by them, is it called Eye-Cognition through Mind-Cognition, and not Form-Cognition through Dharma-Cognition? Those, the Eye and the rest, are their Bases.
 >
-> Therefore, because they are not in common, cognition is designated by them.
+> Therefore, because they are not in common, Cognition is designated by them.
 >
-> How are they not in common? An eye cannot be the support of another cognition. A visible, however, is the object of mind-cognition and of another eye-cognition as well. So through the body. Therefore, from being the support and from not being in common, cognition is designated by that very support, not by visibles and the rest, as drum-sound and barley-sprout.
+> How are they not in common? An eye cannot be the Basis of another Cognition. A Visible Form, however, becomes the Support of Mind-Cognition and of another Eye-Cognition as well. So through the Body. Therefore, from being the Basis and from not being in common, Cognition is designated by that very Basis, not by Visible Forms and the rest, as drum-sound and barley-sprout.
 
 ## 4. Movement
 
-Both are required. Only the eye and the rest are supports, because the cognition follows their alteration. The name follows the support, because the support is not in common. A visible is an object of more than one cognition.
+Both are required. Only the Eye and the rest are Bases, because the Cognition follows their alteration. The name follows the Basis, because the Basis is not in common. A Visible Form is the Support of more than one Cognition.
 
 ## 5. Decisions
 
-1. The eye and the rest are supports. Visibles and the rest are not.
+1. The Eye and the rest are Bases. Visible Forms and the rest are not.
 2. The reason is alteration: benefit, impairment, acuity, dullness.
-3. The name is eye-cognition, not form-cognition.
-4. The eye cannot support another cognition. A visible can be the object of mind-cognition and of another eye-cognition.
-5. Drum-sound and barley-sprout: the support names the product.
+3. The name is Eye-Cognition, not Form-Cognition.
+4. The eye cannot be the Basis of another Cognition. A Visible Form can be the Support of Mind-Cognition and of another Eye-Cognition.
+5. Drum-sound and barley-sprout: the Basis names the product.
 
 ## 6. Interpretation
 
-The object is shared. The support is not. The name is taken from the one that is not in common. Alteration is the mark of the support, not of the visible.
+The Support is shared. The Basis is not. The name is taken from the one that is not in common. Alteration is the mark of the Basis, not of the Visible Form.
 
 ## 7. Review Status
 
-Upgraded reading of the forty-fifth study. Scheme checked: principle is the governing topic; cognition is vijñāna; dharma-cognition is not an essence. 1.46 not opened.
+Upgraded reading of the forty-fifth study. Scheme checked: Principle is dhātu; Cognition is vijñāna; Faculty is indriya; Basis renders āśraya and Support renders ālambana, set against each other in *āśrayī-bhavitum* / *ālambanī-bhavati*; Dharma-Cognition is not an Essence. Anchor revised to name the Faculties as Bases and to read *tad-vikāra-vikāritvāt* as Cognition altered by their alteration. 1.46 not opened.
