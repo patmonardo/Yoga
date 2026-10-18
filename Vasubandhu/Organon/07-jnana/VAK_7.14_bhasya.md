@@ -102,7 +102,7 @@ wholesome portion of conventional knowledge.
 - final `ṣaṭ` = four truths + two terminal names;
 - six/nine of those six governed by saṃgraha.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

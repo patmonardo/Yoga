@@ -85,7 +85,7 @@ measures through repeated sevenfold aggregation. Each next unit is composed
 from seven of the preceding units. The sequence remains a measure of material
 form; the text does not give the units a separate metaphysical status.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: a repeated aggregation rule links a minimal unit to ordinary
 bodily measure. This is a project-level observation, not Vasubandhu's

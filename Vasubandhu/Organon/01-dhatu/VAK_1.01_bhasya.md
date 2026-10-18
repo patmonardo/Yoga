@@ -225,7 +225,7 @@ inserted into the words of the Kārikā. Likewise, the distinctions between
 afflicted and non-afflicted ignorance and between the two accomplishments
 remain attributed to the commentary.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 The passage gives knowledge an intrinsically communicable and practical form:
 

@@ -117,7 +117,7 @@ intermediate existence, while karma projected there can mature during
 that same series. The passage therefore gives no independent fifth
 timing class called `antarābhavavedanīya`.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For the Loka–Karma study, the practical question is how a result's
 time is indexed to a continuing process. The Kośa treats marked

@@ -82,7 +82,7 @@ Bhāṣya supplies the final, increase-only kalpa and the equality of duration.
 This completes the unit before the next kārikā takes up the standing-world
 duration.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Light contact: equal temporal spans can have different internal articulations.
 That is a comparison prompted by the passage, not a separate technical claim

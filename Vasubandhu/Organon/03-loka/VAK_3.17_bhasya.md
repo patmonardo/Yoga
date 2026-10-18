@@ -160,7 +160,7 @@ knowing, and both. It does not require the two correlations to be treated as
 mutually exclusive doctrines; the commentary explicitly fits the same three
 persons to the same three grounds.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The passage makes lucid embodiment derivative without making it accidental.
 The clarity manifested during transition is the efficacy of formations

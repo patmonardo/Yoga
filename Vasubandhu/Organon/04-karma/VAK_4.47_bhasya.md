@@ -92,7 +92,7 @@ labels classify karma by a salient aspect of what is experienced,
 while the result is a larger complex. The Bhāṣya does not enumerate
 that complex here, so the translation leaves it open.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our OM account, the passage distinguishes an operative karmic
 determination from the felt character under which its result later

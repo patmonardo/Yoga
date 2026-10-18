@@ -85,7 +85,7 @@ lexeme, different domain.
 - `daśādhikam` = tenfold steps of the seven;
 - `tat` = bodily strength as spraṣṭavya-Essence.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

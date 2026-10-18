@@ -18,36 +18,82 @@ pṛthivī varṇasaṃsthānam ucyate lokasaṃjñayā /
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| pṛthivī | nominative feminine | the worldly name |
-| varṇa-saṃsthānam | nominative neuter | what is shown |
-| ucyate | passive | is called |
-| loka-saṃjñayā | instrumental | by worldly designation |
-| āpaḥ | nominative | water |
-| tejaḥ | nominative | fire |
-| vāyuḥ | nominative | wind |
+| pṛthivī | nominative feminine singular | the worldly name |
+| varṇa-saṃsthānam | nominative neuter singular collective compound | color and configuration |
+| ucyate | third-person singular present passive | is called |
+| loka-saṃjñayā | instrumental feminine singular | by worldly designation |
+| āpaḥ | nominative feminine plural | water |
+| tejaḥ | nominative neuter singular | fire |
+| ca | conjunction | and; extends the first predication |
+| vāyuḥ | nominative masculine singular | wind |
 | tu | particle | the contrast |
-| dhātuḥ eva | predicate | the Principle itself |
-| tathā api ca | particles | the concession |
+| dhātuḥ | nominative masculine singular | the Principle |
+| eva | restrictive particle | itself |
+| tathā | adverb | in that way; resumes visible designation |
+| api | additive particle | also |
+| ca | conjunction | and |
 
 *Loka-saṃjñā* is designation in ordinary use. It is not the reflection
 defined in the next verse. *Varṇa* and *saṃsthāna* are the pair already
 counted under visible Form.
 
-## 4. Grammar
+**Grammar tokens.** Verse-order IAST with sandhi opened and compound
+boundaries marked. The repeated *ca* remains in both positions. Elliptical
+predication is resolved in the productions, not by invented verse words.
 
 ```text
-loka-saṃjñayā
-    pṛthivī ucyate varṇa-saṃsthānam
-    āpas tejaḥ ca
-
-vāyuḥ tu
-    dhātuḥ eva
-    tathā api ca
+# tokens: pṛthivī varṇa-saṃsthānam ucyate loka-saṃjñayā āpaḥ tejaḥ ca vāyuḥ tu dhātuḥ eva tathā api ca
 ```
 
-The verb is understood with water and fire. *Tu* cuts wind off from that
-clause. *Dhātur eva* predicates the Principle of wind. *Tathāpi ca* returns
-a visible use to wind. It does not make water and fire principles only.
+## 4. Grammar
+
+The first clause supplies the visible designation extended to water and
+fire. *Tu* marks wind's contrast; *tathā api ca* restores the visible use
+without withdrawing the Principle use. Predicate nouns need not share
+gender: feminine earth is a name for neuter color-and-configuration.
+
+```nltk-fcfg
+% start S
+# tokens: pṛthivī varṇa-saṃsthānam ucyate loka-saṃjñayā āpaḥ tejaḥ ca vāyuḥ tu dhātuḥ eva tathā api ca
+S[SEM=<(?first & ?others & ?wind)>] -> FIRST[SEM=?first] EXTENSION[SEM=?others] WINDCLAUSE[SEM=?wind]
+FIRST[SEM=<?mode(?verb(?label)(?target))>] -> EARTH[CASE=nom,NUM=sg,SEM=?label] VISIBLE[CASE=nom,NUM=?n,SEM=?target] CALLED[NUM=?n,PERSON=third,VOICE=passive,SEM=?verb] WORLDLY[CASE=ins,SEM=?mode]
+EXTENSION[SEM=<(WorldlyDesignates(?water,visible_complex) & WorldlyDesignates(?fire,visible_complex))>] -> WATER[CASE=nom,NUM=pl,SEM=?water] FIRE[CASE=nom,NUM=sg,SEM=?fire] AND
+WINDCLAUSE[SEM=<(?principle(?label) & ?also(?label))>] -> WIND[CASE=nom,NUM=?n,GEN=?g,SEM=?label] CONTRAST PRINCIPLE[CASE=nom,NUM=?n,GEN=?g,SEM=?principle] ONLY ALSO[SEM=?also]
+ALSO[SEM=<\l.WorldlyDesignates(l,visible_complex)>] -> THUS ADDITIVE AND
+EARTH[CASE=nom,NUM=sg,GEN=f,SEM=<earth_name>] -> 'pṛthivī'
+VISIBLE[CASE=nom,NUM=sg,GEN=n,SEM=<visible_complex>] -> 'varṇa-saṃsthānam'
+CALLED[NUM=sg,PERSON=third,VOICE=passive,SEM=<\l.\v.WorldlyDesignates(l,v)>] -> 'ucyate'
+WORLDLY[CASE=ins,NUM=sg,SEM=<\P.P>] -> 'loka-saṃjñayā'
+WATER[CASE=nom,NUM=pl,GEN=f,SEM=<water_name>] -> 'āpaḥ'
+FIRE[CASE=nom,NUM=sg,GEN=n,SEM=<fire_name>] -> 'tejaḥ'
+AND -> 'ca'
+WIND[CASE=nom,NUM=sg,GEN=m,SEM=<wind_name>] -> 'vāyuḥ'
+CONTRAST -> 'tu'
+PRINCIPLE[CASE=nom,NUM=sg,GEN=m,SEM=<\l.WorldlyDesignates(l,wind_principle)>] -> 'dhātuḥ'
+ONLY -> 'eva'
+THUS -> 'tathā'
+ADDITIVE -> 'api'
+```
+
+```nltk-dep
+'ucyate' -> 'pṛthivī' | 'varṇa-saṃsthānam' | 'loka-saṃjñayā' | 'āpaḥ' | 'tejaḥ'
+'tejaḥ' -> 'ca'
+'dhātuḥ' -> 'vāyuḥ' | 'tu' | 'eva' | 'tathā'
+'tathā' -> 'api' | 'ca'
+```
+
+**Close construe.** Color and configuration are called earth by worldly
+designation; water and fire likewise. Wind, however, is the Principle
+itself—and also in that way.
+
+The projection records naming relations, not identity between a name and
+its referent. The Bhāṣya resolves "likewise" for water and fire and "in
+that way" for wind. Those resolutions are explicit in the productions.
+`visible_complex` represents the color-and-configuration kind of referent,
+not one numerically identical earth, water, fire, and storm. *Eva* identifies
+wind's Principle referent; the final concession prevents an exclusive
+Principle-only reading. Contrast and emphasis are readable structure here,
+not a complete pragmatic semantics.
 
 ## 5. Translation
 
@@ -120,6 +166,87 @@ The next verse defines reflection. Not this one.
 | vijñapti | *vijñapti* | informs another; the contrast |
 
 ## 8. Logical Determination
+
+**Kārikā, derived.** Four ordinary names have visible uses; wind also has
+the Principle use. `WorldlyDesignates` does not equate the two referents.
+
+```nltk-sem
+# derived by the section 4 parse
+(WorldlyDesignates(earth_name,visible_complex) & (WorldlyDesignates(water_name,visible_complex) & WorldlyDesignates(fire_name,visible_complex)) & (WorldlyDesignates(wind_name,wind_principle) & WorldlyDesignates(wind_name,visible_complex)))
+```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(WorldlyDesignates(earth_name,visible_complex) & (WorldlyDesignates(water_name,visible_complex) & WorldlyDesignates(fire_name,visible_complex)) & (WorldlyDesignates(wind_name,wind_principle) & WorldlyDesignates(wind_name,visible_complex)))
+# THEORY prose
+# EXPECT prose T
+-(visible_complex = wind_principle)
+FormBaseMember(continuity) & -FormBaseMember(eye_cognition)
+OriginatingManifestation(continuity,manifestation) & OriginatingElementSupport(continuity,elemental_support)
+Ceased(manifestation,later_case) & Ceased(elemental_support,later_case) & Continues(continuity,later_case)
+# THEORY rejected_wind_only_names_principle
+# EXPECT rejected_wind_only_names_principle F
+all x.(WorldlyDesignates(wind_name,x) -> x = wind_principle)
+# THEORY rejected_all_names_designate_principles_here
+# EXPECT rejected_all_names_designate_principles_here F
+WorldlyDesignates(earth_name,earth_principle) & WorldlyDesignates(water_name,water_principle) & WorldlyDesignates(fire_name,fire_principle)
+# THEORY rejected_shadow_like_cessation
+# EXPECT rejected_shadow_like_cessation F
+all x.all y.all t.((OriginatingManifestation(x,y) & Ceased(y,t)) -> -Continues(x,t))
+# THEORY rejected_originating_support_must_persist
+# EXPECT rejected_originating_support_must_persist F
+all x.all y.all t.((OriginatingElementSupport(x,y) & Continues(x,t)) -> -Ceased(y,t))
+```
+
+```nltk-valuation
+earth_name => earth_label
+water_name => water_label
+fire_name => fire_label
+wind_name => wind_label
+visible_complex => color_configuration_kind
+earth_principle => earth_determination
+water_principle => water_determination
+fire_principle => fire_determination
+wind_principle => wind_determination
+continuity => avijnapti_case
+manifestation => originating_manifestation_case
+elemental_support => originating_element_case
+eye_cognition => eye_cognition_case
+later_case => later_stage
+WorldlyDesignates => {(earth_label,color_configuration_kind),(water_label,color_configuration_kind),(fire_label,color_configuration_kind),(wind_label,wind_determination),(wind_label,color_configuration_kind)}
+FormBaseMember => {avijnapti_case}
+OriginatingManifestation => {(avijnapti_case,originating_manifestation_case)}
+OriginatingElementSupport => {(avijnapti_case,originating_element_case)}
+Ceased => {(originating_manifestation_case,later_stage),(originating_element_case,later_stage)}
+Continues => {(avijnapti_case,later_stage)}
+```
+
+**Model checks.** All five naming pairs are required; removing either
+wind use fails the derived formula. Distinct denotations prevent the two
+wind referents from collapsing. Absent naming pairs record this passage's
+contrast, not a ban on every other linguistic use. The later-stage witness
+separately tests the prose's accepted non-cessation after the originating
+manifestation and Elements cease. It is not a simulation of every later
+moment or a claim that continuity is independent of all conditions.
+
+**Bhāṣya determination.** The dialectic extends beyond the verse. Being
+affected is explained as alteration; others offer obstruction. Atom and
+past/future cases widen that account through collection and kind. The
+shadow analogy fails, and the continuing-support analogy is criticized
+both for its school attribution and for its mismatch with accepted
+non-cessation. The final reply, attributed to others, distinguishes the
+mixed supports of Cognition from those of *avijñapti*. The model preserves
+classification and the counterexample without treating that reply as an
+agreed explanation of later support. The full exchange remains in the
+paired Bhāṣya.
+
+**Organon interpretation.** The distinction between a visible designation,
+a Principle, and continuing determination is operative here. It does not
+justify equating non-disclosure with absence of efficacy, or continuity
+with an unconditioned substance. Form and Essence may articulate our
+reading where useful; Dharma compounds remain stable protocol names.
+The earlier schematic follows.
 
 ```text
 Earth, Water, Fire

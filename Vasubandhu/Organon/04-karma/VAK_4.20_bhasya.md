@@ -100,7 +100,7 @@ The present mode of meditation and uncontaminated restraint is treated
 in the next Kārikā half, 4.21. Importing its rule here would blur the
 boundary of this unit.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 For our Organon vows, the useful challenge is to keep **normative
 content**, **acquisition history**, and **temporal possession** distinct.

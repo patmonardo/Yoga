@@ -115,7 +115,7 @@ sūtra's stated range, since the prose acknowledges its inclusion
 elsewhere. The grounds named here are two modes of maturation and
 the possibility of bodily, verbal, and mental karma.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Our classification should mark whether a predicate belongs to a
 single act or to a continuum containing different acts. The

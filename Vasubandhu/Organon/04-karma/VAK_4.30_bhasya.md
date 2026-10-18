@@ -125,7 +125,7 @@ rules they keep. We should therefore treat the conclusion as a
 position still under examination, not as the final settlement of
 the debate.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our Jñāna methodology, this is a case where one word,
 “membership,” would hide three different operations: orientation

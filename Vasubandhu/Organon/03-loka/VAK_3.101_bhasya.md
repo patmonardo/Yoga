@@ -53,7 +53,7 @@ the separated abodes arise and disappear together with their respective
 beings. The brief final question turns from the permanence issue to the
 sequence of cosmic contractions.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 No additional reconstruction is needed here. The local distinction is
 between immunity to specified modes of contraction and eternity: the Bhāṣya

@@ -295,7 +295,7 @@ even if it later harms. The hell case stretches this definition to nutriment
 of decrease, while the treatise citation describes nutriment of increase.
 The text itself registers the resulting pressure rather than hiding it.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The fourfold architecture distinguishes maintenance of actual organization
 from projection and production of a future organization:

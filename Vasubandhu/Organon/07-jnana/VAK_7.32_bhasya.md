@@ -82,7 +82,7 @@ four body/feeling/mind/dharma applications. `Athavā` keeps two answers.
 - `trayam` = three smṛtyupasthānas;
 - `prajñā` in the triad = saṃprajñāna.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

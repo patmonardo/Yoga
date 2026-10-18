@@ -73,7 +73,7 @@ afflictive relations as an object have ceased. The final path is
 needed because the abandonment is incomplete while any such
 affliction remains.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 The study distinguishes removing a thing from removing the
 afflictive relation to that thing. A classification that treats

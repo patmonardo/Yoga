@@ -168,7 +168,7 @@ this treatise is drawn from Abhidharma
 5. *Dharma* is bearing of its own mark. *Abhidharma* is this dharma facing nirvāṇa, or facing the mark. Neither facing is dropped.
 6. The two *kośa* derivations reverse container and source.
 
-## 9. Organon Note
+## 9. Interpretation
 
 Marked as project. Not a substitute for §3 and §5.
 

@@ -103,7 +103,7 @@ are the Organon takeaway.
 - `ekaikadravyagocara` covers both forms (`ubhayam` working);
 - later field-limits are commentary, not verse words.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

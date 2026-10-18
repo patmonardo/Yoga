@@ -208,7 +208,7 @@ cognition-stations plus the peak of existence and the non-percipient beings
 make nine. Dwelling and cognitive establishment are therefore related but
 non-identical classifications.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The modest conceptual result is a distinction between residence and the
 stable establishment of cognition:

@@ -86,7 +86,7 @@ also has a function: it tends toward the exhaustion of karma. Its
 precise domain and the first three allocations are argued in 4.60;
 they are not yet established by the present verse alone.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 The first scheme distinguishes an action's channel from its
 afflictive source. The second distinguishes an action's quality,

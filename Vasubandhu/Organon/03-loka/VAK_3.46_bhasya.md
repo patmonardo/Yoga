@@ -215,7 +215,7 @@ The closing phrase `jalakāñcanamaṇḍalocchrāya` treats the resulting struc
 as a water-and-gold maṇḍala. Transformation differentiates the whole without
 destroying its measured continuity.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.46 gives the container-world an operational grammar:
 

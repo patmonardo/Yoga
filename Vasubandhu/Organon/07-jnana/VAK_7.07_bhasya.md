@@ -146,7 +146,7 @@ Attributed to the commentary, not read into the verse words:
 
 No rewrite of the Organon literal line is required.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

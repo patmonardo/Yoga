@@ -261,7 +261,7 @@ Beginninglessness therefore does not entail endlessness. The past regress has
 no unconditioned first occurrence, while a future cessation is intelligible
 through the removal of the operative conditions.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 This unit gives the wheel of becoming its complete recursive form. An outflow
 is not merely the first projection of a destination. It becomes a developed

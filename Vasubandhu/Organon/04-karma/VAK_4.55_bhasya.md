@@ -106,7 +106,7 @@ uses these distinctions to decide between a present-life result,
 maturation at its assigned stage, and non-maturation. That is the
 practical precision of the passage.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 Our OM account can use this as a comparison for a determination
 whose future field closes: a result that must occur but has no

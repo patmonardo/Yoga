@@ -195,7 +195,7 @@ acceptance and the two final knowledges. It is not a definition of every
 `jñāna` in the verse, because worldly afflicted views are included under
 knowledge. That gloss stays out of the literal translation.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction. It does not emend Sections 3–7.
 

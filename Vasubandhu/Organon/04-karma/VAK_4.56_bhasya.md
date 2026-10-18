@@ -122,7 +122,7 @@ clock time. Both benefit and harm are included; the text does not collapse their
 ethical difference into the shared fact of a result certain within
 the present life.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our practical account of karma, the recipient is a determined
 field of action: the condition of the recipient's continuum enters

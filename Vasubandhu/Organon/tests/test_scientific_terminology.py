@@ -78,6 +78,16 @@ def read(name):
     return (STUDY_DIR / name).read_text(encoding="utf-8")
 
 
+def is_declared_logical_handle(text, match):
+    headings = list(re.finditer(r"^## \d+\. (.+)$", text[:match.start()], re.M))
+    if not headings or headings[-1].group(1) not in ("Interpretation", "Interpretive Note"):
+        return False
+    start = text.rfind("\n\n", 0, match.start()) + 2
+    end = text.find("\n\n", match.end())
+    paragraph = text[start:end if end != -1 else len(text)]
+    return "logical handle" in paragraph and "Dharma Āyatana" in paragraph
+
+
 class ScientificTerminologyTests(unittest.TestCase):
     def test_all_studies_use_scientific_vocabulary(self):
         failures = []
@@ -85,6 +95,8 @@ class ScientificTerminologyTests(unittest.TestCase):
             text = path.read_text(encoding="utf-8")
             for label, pattern in LEGACY_TERMS:
                 for match in pattern.finditer(text):
+                    if label == "Essence Base" and is_declared_logical_handle(text, match):
+                        continue
                     line = text.count("\n", 0, match.start()) + 1
                     failures.append(
                         f"{path.relative_to(ORGANON_DIR)}:{line}: "
@@ -92,6 +104,23 @@ class ScientificTerminologyTests(unittest.TestCase):
                     )
         if failures:
             self.fail(f"{len(failures)} legacy terms:\n" + "\n".join(failures))
+
+    def test_essence_base_requires_an_explicit_interpretive_handle(self):
+        declaration = (
+            "**Essence Base** is the project's logical handle for Dharma Āyatana."
+        )
+        for heading, paragraph, expected in (
+            ("Interpretation", declaration, True),
+            ("Interpretive Note", declaration, True),
+            ("Translation", declaration, False),
+            ("Interpretation", "Dharma Āyatana means Essence Base.", False),
+            ("Interpretation", "Essence Base is a logical handle.", False),
+            ("Interpretation", declaration + "\n\nAn Essence Base is a skandha.", False),
+        ):
+            text = f"## 9. {heading}\n\n{paragraph}"
+            match = list(dict(LEGACY_TERMS)["Essence Base"].finditer(text))[-1]
+            with self.subTest(text=text):
+                self.assertEqual(is_declared_logical_handle(text, match), expected)
 
     def test_no_obsolete_organon_section_headings(self):
         """Interpretive Bhāṣya sections are headed "Interpretation"."""

@@ -69,7 +69,7 @@ the project overlay. Renewed overpowering ≠ this memory later turns false.
 - `iṣṭe` admits the capacities;
 - `nokte` withholds the name.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

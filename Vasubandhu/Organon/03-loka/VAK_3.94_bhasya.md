@@ -142,7 +142,7 @@ unfitness of beings as explanations for Pratyekabuddhas' not teaching widely.
 It attributes their limited engagement instead to prior habituation and
 reluctance to gather and lead a community into profound teaching.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Light contact: the passage distinguishes awakening, teaching capacity,
 compassion, and willingness to assume the work of guiding others. These are

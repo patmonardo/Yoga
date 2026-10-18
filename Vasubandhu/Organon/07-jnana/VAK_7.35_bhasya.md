@@ -68,7 +68,7 @@ object. Limits: 7.36.
 - `kecit` + `yathāyogam` restrict the pṛthagjana share;
 - `guṇādayaḥ` expanded, not closed at three names.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

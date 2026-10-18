@@ -84,7 +84,7 @@ the quality, not a new jñāna-list.
 - `dvayoḥ` = the two conventional powers;
 - `kṣaye` = āsravakṣaya, two definitions.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

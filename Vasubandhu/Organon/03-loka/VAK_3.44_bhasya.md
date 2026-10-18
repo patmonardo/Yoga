@@ -239,7 +239,7 @@ persons. They classify the state of a conditioned course:
 This also explains why the third group must be stated in the Bhāṣya even
 though the Kārikā names only the exemplary agents of the first two.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The closing determination of the sentient world concerns configuration of a
 course rather than description of an isolated present property. The same

@@ -62,7 +62,7 @@ designation. The measure-chain determines distance; the village-relative
 rule then applies the name `araṇya` to a region. Keep the measured unit and
 the category it helps delimit distinct.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: a measured relation can support a conventional spatial
 classification. This is a project-level observation, not Vasubandhu's

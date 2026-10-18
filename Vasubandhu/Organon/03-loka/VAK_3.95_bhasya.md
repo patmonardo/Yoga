@@ -56,7 +56,7 @@ are no longer a suitable basis for the associated abundance of crops. It then
 explains the title through wheel-governed sovereignty and ranks four types by
 the material of their wheel.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Light contact: the passage relates a form of sovereignty to a specified
 temporal and material condition. This is a comparison with the project’s

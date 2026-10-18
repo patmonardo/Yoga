@@ -88,7 +88,7 @@ Its measure follows two rules in succession—addition by half-yojana steps,
 then doubling—with a specified Anabhraka exception. The exception is not a
 break in the exposition: the text states that doubling resumes beyond it.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: the measure-series is rule-governed but includes a locally
 specified exception. This is a project-level observation, not Vasubandhu's

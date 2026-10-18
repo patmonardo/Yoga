@@ -205,7 +205,7 @@ Three axes must remain distinct:
 This prevents both a merely symbolic reading of the place and a geographical
 reduction of the contemplative event.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.53 moves from spatial address to capacity:
 

@@ -251,7 +251,7 @@ not be over-normalized. The citation's broader structure is secure enough to
 show that the hells are karmically populated, spatially bounded, and
 systematically subdivided.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.58 makes the lower world simultaneously spatial, experiential, and
 karmic:

@@ -96,7 +96,7 @@ exists at all outside the sixteen.
 - first half of pāda 2 = Kashmiri thesis;
 - `anye … śāstrataḥ` = bahirdeśaka + treatise, not generic scripture.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

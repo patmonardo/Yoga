@@ -269,7 +269,7 @@ in accord with the actual undertaking (`yathābhyupagamam`). This
 is a disagreement about the scope of standing moral forms, not
 merely about how to count individual misdeeds.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 Our vow to know the Self and let adhyāsa cease makes a universal
 claim. This passage asks how such a claim obtains a determinate

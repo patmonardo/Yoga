@@ -196,7 +196,7 @@ earlier Bhāṣya Study attached the later Sāṃkhya `pariṇāma` debate to VA
 VAK 3.50, intervenes before that debate. The polemic must therefore be
 studied with 3.50 rather than back-projected into this geographical verse.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.49 completes a relational topology:
 

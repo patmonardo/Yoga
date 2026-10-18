@@ -91,7 +91,7 @@ about a present reader's karma.
 - `na` denies equality only under āyus-jāti-pramāṇa;
 - gotra added in prose.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

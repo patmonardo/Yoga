@@ -91,7 +91,7 @@ example: `ādareṇa ... kriyām īhate`. Nor does it imply that only
 wholesome acts create the remaining avijñapti; the last case
 explicitly includes `akuśala` action.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 For our study of vows, 4.37 separates a declaration, a standing
 undertaking, an act in a consequential field, and earnest

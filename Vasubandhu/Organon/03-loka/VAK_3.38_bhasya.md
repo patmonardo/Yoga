@@ -214,7 +214,7 @@ functions remain to be explained in the following unit.
 The natural boundary therefore includes the question and numerical answer—
 there are four nutriments—but not their subsequent analysis.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 This Study gives the World System two irreducible laws:
 

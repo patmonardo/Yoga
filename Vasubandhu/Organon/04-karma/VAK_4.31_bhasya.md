@@ -161,7 +161,7 @@ names for the one-part through complete classifications. The arhat
 and ordinary-person comparison shows that spiritual attainment does
 not mechanically fix the strength of this particular restraint.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our Jñāna work, this passage asks us to classify four relations
 separately: recognized status, acquisition of restraint, preservation

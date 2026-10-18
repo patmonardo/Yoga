@@ -299,7 +299,7 @@ This does not mean uncaused. Devas, hell-beings, and intermediate-existence
 beings arise through conditioned causes even though their bodily formation is
 not gradual in the manner of egg- or womb-birth.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The restrained philosophical result is that cognition cannot be understood
 as self-supporting:

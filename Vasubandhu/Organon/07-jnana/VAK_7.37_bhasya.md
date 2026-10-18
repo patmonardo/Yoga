@@ -84,7 +84,7 @@ yet.
 - second `tathā` = only bearer and human support;
 - four names introduced, not defined.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

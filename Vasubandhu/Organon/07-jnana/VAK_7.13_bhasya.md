@@ -106,7 +106,7 @@ available as object. `Ālambana` qua object: only apprehended.
 
 Literal line keeps “Prajñā is the aspect.”
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

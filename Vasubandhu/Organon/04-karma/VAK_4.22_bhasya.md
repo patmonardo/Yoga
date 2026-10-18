@@ -96,7 +96,7 @@ moments also carry past avijñapti. The text then expressly closes the
 `avijñapti` topic, setting up the new treatment of manifest action in
 4.23.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our vow work, 4.22 is a useful adversarial test. A standing
 commitment and a present deed must each be determined; neither is a

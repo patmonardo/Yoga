@@ -110,7 +110,7 @@ conditionally wider efficacy. One criterion would have hidden the `api tu`.
 
 Literal Organon line already carries this. Keep “counteragent.”
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

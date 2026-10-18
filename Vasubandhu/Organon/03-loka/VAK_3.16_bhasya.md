@@ -224,7 +224,7 @@ false picture but correct situational awareness of entry, residence, and
 emergence. Yet the Bhāṣya does not identify it here with liberating `prajñā`
 or claim that such awareness by itself ends rebirth.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.15 showed the destination appearing as an attractive object. VAK 3.16
 now differentiates appearance from awareness more exactly. The same embodied

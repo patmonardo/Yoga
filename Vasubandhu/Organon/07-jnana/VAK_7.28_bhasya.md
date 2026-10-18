@@ -79,7 +79,7 @@ a knowledge-range.
 - `aṣṭau` by explicit dual exclusion;
 - `nava` belongs forward.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

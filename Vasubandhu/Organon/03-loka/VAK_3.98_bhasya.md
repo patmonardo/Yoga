@@ -38,7 +38,7 @@ laziness. The following account of the intermediate age's calamities belongs
 to 3.99, whose first line is cited immediately after this statement in the
 running source.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Light contact: the commentary names `rasarāga` and `ālasya` as the two roots
 of the misfortune just narrated. This remains Vasubandhu's causal summary,

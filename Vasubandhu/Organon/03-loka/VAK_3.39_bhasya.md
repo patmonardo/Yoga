@@ -230,7 +230,7 @@ itself nourishes by producing conditioned pleasure. The absence of that
 affective support reveals that the form served as cognitive Condition, while Contact had
 performed the nourishing function in susceptible continuums.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 This unit offers an exact example of semantic discrimination. The ordinary
 noun “food” groups visible appearance, odor, taste, texture, ingestion,

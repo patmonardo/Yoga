@@ -233,7 +233,7 @@ dhyāna's lack of disturbance explains its immunity here, while an alternate
 appeal to the Pure Abodes leads to the question of permanence answered in
 3.101.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Light contact: the commentary relates external cosmic disturbances to
 internal disturbances associated with meditative levels. This relation is

@@ -47,7 +47,7 @@ def satisfies(valuation, formula):
 
 class DhatuPilotTests(unittest.TestCase):
     def test_pilot_passes_strict_audit_and_semantic_typecheck(self):
-        for number in (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 19):
+        for number in range(1, 20):
             with self.subTest(verse=number):
                 text = study(number)
                 self.assertEqual(check_grammar(text, strict=True)[1], [])
@@ -93,12 +93,212 @@ class DhatuPilotTests(unittest.TestCase):
              "CORREL[CASE=nom,NUM=sg,GEN=f]"),
             (11, "ELEMENTS[CASE=acc,NUM=pl,SEM=",
              "ELEMENTS[CASE=nom,NUM=pl,SEM="),
+            (12, "FUNCTIONS[CASE=nom,NUM=pl,GEN=m,SEM=",
+             "FUNCTIONS[CASE=nom,NUM=sg,GEN=m,SEM="),
+            (12, "CHARACTERS[CASE=nom,NUM=pl,GEN=m,SEM=",
+             "CHARACTERS[CASE=nom,NUM=pl,GEN=n,SEM="),
+            (13, "CALLED[NUM=sg,PERSON=third,VOICE=passive,SEM=",
+             "CALLED[NUM=pl,PERSON=third,VOICE=passive,SEM="),
+            (13, "PRINCIPLE[CASE=nom,NUM=sg,GEN=m,SEM=",
+             "PRINCIPLE[CASE=nom,NUM=sg,GEN=f,SEM="),
+            (14, "ACCEPTED[CASE=nom,NUM=pl,GEN=m,SEM=",
+             "ACCEPTED[CASE=nom,NUM=sg,GEN=m,SEM="),
+            (14, "TAKING[CASE=nom,NUM=sg,GEN=f,SEM=",
+             "TAKING[CASE=nom,NUM=sg,GEN=m,SEM="),
+            (15, "NAMES[CASE=nom,NUM=pl,GEN=m,SEM=",
+             "NAMES[CASE=nom,NUM=sg,GEN=m,SEM="),
+            (15, "ACCOMP[CASE=ins,NUM=pl,SEM=",
+             "ACCOMP[CASE=nom,NUM=pl,SEM="),
         )
         for number, before, after in changes:
             with self.subTest(verse=number):
                 text = study(number)
                 self.assertIn(before, text)
                 self.assertEqual(parse(text.replace(before, after)), [])
+
+    def test_formations_remainder_is_conditioned_and_not_only_volition(self):
+        valuation, formula = valuation_and_formula(15)
+        self.assertTrue(satisfies(valuation, formula))
+        self.assertEqual(
+            valuation["FormationsBaseMember"],
+            valuation["Conditioned"] - valuation["OtherFourBaseMember"],
+        )
+        for member in valuation["FormationsBaseMember"]:
+            changed = Valuation(list(valuation.items()))
+            changed["FormationsBaseMember"] = valuation["FormationsBaseMember"] - {member}
+            self.assertFalse(satisfies(changed, formula), member)
+        for predicate in ("AssociatedOther", "DissociatedFormation", "Pure"):
+            self.assertTrue(valuation[predicate])
+            self.assertTrue(valuation[predicate] <= valuation["FormationsBaseMember"])
+            self.assertFalse(valuation[predicate] & valuation["Volition"])
+        self.assertFalse(valuation["Unconditioned"] & valuation["BaseMember"])
+        self.assertFalse(valuation["Unconditioned"] & valuation["Conditioned"])
+
+    def test_seven_dharma_categories_preserve_base_origins(self):
+        valuation, formula = valuation_and_formula(15)
+        categories = [
+            valuation["FeelingBaseMember"],
+            valuation["ReflectionBaseMember"],
+            valuation["FormationsBaseMember"],
+            valuation["Avijnapti"],
+            *({member} for member in sorted(valuation["Unconditioned"])),
+        ]
+        self.assertEqual(len(categories), 7)
+        members = set()
+        for category in categories:
+            self.assertTrue(category)
+            self.assertFalse(members & category)
+            members |= category
+        self.assertGreater(len(members), 7)
+        for predicate in ("DharmaEssenceMember", "DharmaPrincipleMember"):
+            self.assertEqual(valuation[predicate], members)
+            for member in members:
+                changed = Valuation(list(valuation.items()))
+                changed[predicate] = valuation[predicate] - {member}
+                self.assertFalse(satisfies(changed, formula), (predicate, member))
+        self.assertTrue(valuation["Avijnapti"] <= valuation["FormBaseMember"])
+        self.assertFalse(valuation["CognitionBaseMember"] & valuation["ThreeBaseMember"])
+        self.assertFalse(valuation["CognitionBaseMember"] & members)
+
+    def test_same_ten_members_do_not_duplicate_or_include_avijnapti(self):
+        valuation, formula = valuation_and_formula(14)
+        self.assertEqual(len(valuation["SensoryFaculty"]), 5)
+        self.assertEqual(len(valuation["SensoryMeaning"]), 5)
+        self.assertFalse(valuation["SensoryFaculty"] & valuation["SensoryMeaning"])
+        members = valuation["SensoryFaculty"] | valuation["SensoryMeaning"]
+        self.assertEqual(len(members), 10)
+        for predicate in (
+            "FacultyOrMeaning", "TenFormEssenceMember", "TenFormPrincipleMember"
+        ):
+            self.assertEqual(valuation[predicate], members)
+        self.assertEqual(
+            valuation["FormBaseMember"], members | {(valuation["avijnapti"],)}
+        )
+        for predicate in ("TenFormEssenceMember", "TenFormPrincipleMember"):
+            for member in members:
+                changed = Valuation(list(valuation.items()))
+                changed[predicate] = valuation[predicate] - {member}
+                self.assertFalse(satisfies(changed, formula), (predicate, member))
+        for predicate in ("Experience", "MarkTaking"):
+            changed = Valuation(list(valuation.items()))
+            changed[predicate] = set()
+            self.assertFalse(satisfies(changed, formula), predicate)
+
+    def test_feeling_tones_and_shared_contact_groups_are_different_axes(self):
+        valuation, _ = valuation_and_formula(14)
+        self.assertEqual(len(valuation["FeelingTone"]), 3)
+        self.assertEqual(len(valuation["FeelingContactGroup"]), 6)
+        self.assertEqual(
+            valuation["FeelingContactGroup"], valuation["ReflectionContactGroup"]
+        )
+        self.assertIn(("mind_contact",), valuation["FeelingContactGroup"])
+        self.assertFalse(valuation["FeelingTone"] & valuation["FeelingContactGroup"])
+        self.assertFalse(valuation["Feeling"] & valuation["Reflection"])
+        self.assertEqual(len(valuation["HasTone"]), 3)
+        self.assertTrue(satisfies(valuation, Expression.fromstring(
+            "all x.(Feeling(x) -> exists t.(FeelingTone(t) & HasTone(x,t)))"
+        )))
+        self.assertIn(
+            (valuation["reflection_case"], valuation["blue_mark"]),
+            valuation["TakesMark"],
+        )
+
+    def test_worldly_names_preserve_both_wind_uses_without_identity(self):
+        valuation, formula = valuation_and_formula(13)
+        self.assertTrue(satisfies(valuation, formula))
+        self.assertEqual(len(valuation["WorldlyDesignates"]), 5)
+        for pair in valuation["WorldlyDesignates"]:
+            changed = Valuation(list(valuation.items()))
+            changed["WorldlyDesignates"] = valuation["WorldlyDesignates"] - {pair}
+            self.assertFalse(satisfies(changed, formula), pair)
+        self.assertNotEqual(valuation["visible_complex"], valuation["wind_principle"])
+        for name in ("earth", "water", "fire"):
+            self.assertNotIn(
+                (valuation[f"{name}_name"], valuation[f"{name}_principle"]),
+                valuation["WorldlyDesignates"],
+            )
+        self.assertEqual(
+            {target for label, target in valuation["WorldlyDesignates"]
+             if label == valuation["wind_name"]},
+            {valuation["visible_complex"], valuation["wind_principle"]},
+        )
+
+    def test_continuity_outlasts_origin_without_an_eternity_claim(self):
+        valuation, _ = valuation_and_formula(13)
+        continues = Expression.fromstring("Continues(continuity,later_case)")
+        self.assertTrue(satisfies(valuation, continues))
+        self.assertNotIn((valuation["eye_cognition"],), valuation["FormBaseMember"])
+        for relation in ("OriginatingManifestation", "OriginatingElementSupport"):
+            formula = Expression.fromstring(
+                f"all x.all y.all t.(({relation}(x,y) & Ceased(y,t)) "
+                "-> -Continues(x,t))"
+            )
+            self.assertFalse(satisfies(valuation, formula), relation)
+            changed = Valuation(list(valuation.items()))
+            changed["Continues"] = set()
+            self.assertFalse(satisfies(changed, continues))
+            self.assertTrue(satisfies(changed, formula), relation)
+        self.assertFalse(satisfies(valuation, Expression.fromstring(
+            "all t.Continues(continuity,t)"
+        )))
+
+    def test_great_elements_have_four_distinct_ordered_characters(self):
+        valuation, formula = valuation_and_formula(12)
+        names = ("earth", "water", "fire", "wind")
+        denotations = {valuation[name] for name in names}
+        self.assertEqual(len(denotations), 4)
+        self.assertEqual(valuation["GreatElement"], {(name,) for name in denotations})
+        self.assertEqual(len(valuation["OwnCharacter"]), 4)
+        self.assertTrue(satisfies(valuation, formula))
+        for pair in valuation["OwnCharacter"]:
+            changed = Valuation(list(valuation.items()))
+            changed["OwnCharacter"] = valuation["OwnCharacter"] - {pair}
+            self.assertFalse(satisfies(changed, formula), pair)
+        changed = Valuation(list(valuation.items()))
+        changed["OwnCharacter"] = {
+            (valuation["earth"], valuation["cohesion"]),
+            (valuation["water"], valuation["hardness"]),
+            (valuation["fire"], valuation["heat"]),
+            (valuation["wind"], valuation["impulsion"]),
+        }
+        self.assertFalse(satisfies(changed, formula))
+        changed = Valuation(list(valuation.items()))
+        changed["GreatElement"] = valuation["GreatElement"] | {
+            (valuation["lightness"],)
+        }
+        self.assertFalse(satisfies(changed, formula))
+        changed = Valuation(list(valuation.items()))
+        changed["EstablishedInSupportEtc"] = set()
+        self.assertFalse(satisfies(changed, formula))
+
+    def test_element_functions_are_separate_prose_correspondences(self):
+        valuation, _ = valuation_and_formula(12)
+        prose = Expression.fromstring(
+            "Function(earth,support) & Function(water,gathering) & "
+            "Function(fire,ripening) & Function(wind,spreading)"
+        )
+        self.assertTrue(satisfies(valuation, prose))
+        self.assertEqual(len(valuation["Function"]), 4)
+        for pair in valuation["Function"]:
+            changed = Valuation(list(valuation.items()))
+            changed["Function"] = valuation["Function"] - {pair}
+            self.assertFalse(satisfies(changed, prose), pair)
+        changed = Valuation(list(valuation.items()))
+        changed["Function"] = {
+            (valuation["earth"], valuation["gathering"]),
+            (valuation["water"], valuation["support"]),
+            (valuation["fire"], valuation["ripening"]),
+            (valuation["wind"], valuation["spreading"]),
+        }
+        self.assertFalse(satisfies(changed, prose))
+        functions = {value for _, value in valuation["Function"]}
+        characters = {value for _, value in valuation["OwnCharacter"]}
+        self.assertFalse(functions & characters)
+        self.assertIn((valuation["lightness"],), valuation["DerivedForm"])
+        self.assertNotIn(
+            (valuation["wind"], valuation["lightness"]), valuation["OwnCharacter"]
+        )
+        self.assertNotIn((valuation["lightness"],), valuation["GreatElement"])
 
     def test_avijnapti_keeps_ethical_dependence_naming_and_scope_distinct(self):
         valuation, formula = valuation_and_formula(11)

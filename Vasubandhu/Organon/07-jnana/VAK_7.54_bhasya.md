@@ -63,7 +63,7 @@ formless substitute in this unit.
 - `rūpaprasāda` = Form faculty, not faith;
 - `sabhāga` vs tatsabhāga by vijñāna.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

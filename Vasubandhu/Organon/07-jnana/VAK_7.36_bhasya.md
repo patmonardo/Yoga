@@ -87,7 +87,7 @@ No method of speech, gait, or appearance is prescribed here.
 - `akopyadharmaṇaḥ` excludes other arhats;
 - final compound = three conjoint restrictions.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

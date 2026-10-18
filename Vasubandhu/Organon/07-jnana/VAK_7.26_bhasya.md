@@ -83,7 +83,7 @@ of every lower capacity.
 - third pāda changes subject to qualities;
 - fourth pāda = reacquisition after loss.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

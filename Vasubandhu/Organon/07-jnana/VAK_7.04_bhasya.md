@@ -124,7 +124,7 @@ The revised Organon kārikā retains the correction from an earlier “first
 stated” reading. Its informed translation now gives the Bhāṣya's four names
 and non-view qualification while leaving the final clause open.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

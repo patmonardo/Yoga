@@ -344,7 +344,7 @@ merged. The qualification that some pretas possess great power and godlike
 splendor also prevents `preta` from functioning as a simple visual synonym
 for uniform destitution.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The most important analytical gain is the separation of a produced appearance
 from a claim about the kind of bearer appearing through it. A tormenting form

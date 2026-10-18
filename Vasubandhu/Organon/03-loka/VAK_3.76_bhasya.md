@@ -76,7 +76,7 @@ step; at the transition to the form realm, the Bhāṣya names a new starting
 measure and unit. The further progression is deferred, not supplied by
 inference.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: the conditioned world-field differentiates embodied measures
 by domain and station. This is a project-level observation, not Vasubandhu's

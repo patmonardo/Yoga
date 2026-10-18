@@ -74,7 +74,7 @@ Death-limit not yet asked.
 - `ca` keeps same-ground speech;
 - negative in `a-śāstuḥ`.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

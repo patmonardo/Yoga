@@ -327,7 +327,7 @@ nutriment of a Desire Realm intermediate being.
 The lengthy duration debate is Bhāṣya-only. Since it preserves several views,
 no single number should be silently inserted into the Kārikā translation.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The verse specifies a constrained transition rather than a free wandering
 spirit:

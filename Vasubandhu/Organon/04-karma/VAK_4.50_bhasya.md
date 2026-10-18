@@ -122,7 +122,7 @@ The text's intervening `mā bhūd ...` sentence may supply an objection
 to the alternative reading, but its wording is too unstable here to
 make a secure doctrinal inference from it.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our OM account of a determination awaiting appearance, this
 passage requires two separate coordinates: **whether** a result is

@@ -140,7 +140,7 @@ free-floating “meaning” or reduced to an arbitrary physical
 object. The project's continuing efficacy depends on that
 relation between purpose and enduring result.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 Our vow also needs an account of how a determination persists:
 through its sustaining force, undertaking, activity, and realized

@@ -68,7 +68,7 @@ that). Fourth ≠ Path itself. Avivartya here ≠ 7.30's unobstructed Buddha-ran
 - `iti vartate` carries avivartya onto the fourth;
 - dual locative = two fields for the fourth.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

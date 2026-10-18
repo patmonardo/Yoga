@@ -106,7 +106,7 @@ to the lower level. The final exception relies on a rule about
 falling from a fruit that Vasubandhu promises to explain later;
 this unit does not establish that rule independently.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our account of Practical Reason, this is case judgment in the
 precise sense we discussed: the possible action depends on the

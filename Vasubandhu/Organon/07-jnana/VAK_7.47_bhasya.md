@@ -75,7 +75,7 @@ fruits. Teaching means ≠ guaranteeing every listener's attainment.
 - `śāsanam` = anuśāsana;
 - two ablatives = two reasons.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

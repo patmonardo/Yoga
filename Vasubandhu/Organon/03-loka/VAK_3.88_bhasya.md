@@ -69,7 +69,7 @@ The passage completes a spatial measure and begins a distinct temporal
 series. The Bhāṣya disambiguates the number of moments and defines the
 tatkṣaṇa and lava without treating them as ordinary synonyms for “moment.”
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: spatial and temporal quantities are articulated by their own
 conversion units. This is a project-level observation, not Vasubandhu's

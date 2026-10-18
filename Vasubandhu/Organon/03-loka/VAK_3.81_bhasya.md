@@ -116,7 +116,7 @@ that the unit itself is realm-indexed: full mahākalpas from Parīttābha
 upward, and half-mahākalpas counted as kalpas below. These remain measures of
 conditioned existence, including at the Summit of Existence.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: a numerical quantity requires a specified unit, and here that
 unit changes across a cosmological boundary. This is a project-level

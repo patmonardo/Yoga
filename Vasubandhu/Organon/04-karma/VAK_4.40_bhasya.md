@@ -94,7 +94,7 @@ of progress. `Uttapti` is crucial here: the Bhāṣya's
 whereas the separate Kārikā witness's `utpatti` would suggest
 mere arising and obscure the particular path being superseded.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 In our wheel, what ceases and what emerges must be identified
 at the right level. The Kośa here shows a practical analogue:

@@ -185,3 +185,11 @@ checked against the running Sanskrit. *Parijñāparihāṇe* retained.
 
 The fourth is the cognition-base. Essence, not a second
 base-word. The next study is not opened.
+
+The paired kārikā now has verse-order tokens, feature agreement and
+instrumental government, and derived remainder-and-classification rules.
+The conditioned domain of the remainder is explicit. Finite tests retain
+non-volitional formations, the Pure Path, *avijñapti*'s Form membership,
+and the unconditioned's lack of a Base. The sevenfold count is tested as
+categories, not seven individual Dharmas. The anchor retains its single
+Bhāṣya-informed translation.

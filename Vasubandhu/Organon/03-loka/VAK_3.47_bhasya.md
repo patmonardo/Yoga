@@ -153,7 +153,7 @@ misconstrual. `Ubhayam`, “both,” keeps the relata distinct; `samānam`,
 “equal,” connects them; and `vistārataḥ` specifies the exact axis of
 comparison.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 This compact unit supplies a useful rule for the Organon: equality and
 difference must be indexed to the feature under which entities are compared.

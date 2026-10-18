@@ -104,7 +104,7 @@ calendar construction. `Kalpa`, in turn, is not treated as one undifferentiated
 duration; the Bhāṣya announces a fourfold classification whose members are
 to be distinguished in the next passage.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: the text distinguishes the complete temporal unit from
 variation in its internal partition, then classifies larger cycles by kind.

@@ -134,7 +134,7 @@ and the pattern applies, as appropriate, to other contractions. `Ca` is
 cumulative in the duration clause: 7 days; 7 months plus 7 days; 7 years
 plus 7 months plus 7 days.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Light contact: the passage relates ethical deterioration to distinct
 world-crises and gives those crises determinate durations. This is a

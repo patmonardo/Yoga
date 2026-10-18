@@ -87,7 +87,7 @@ on the person” as a vague slogan.
 - `yadvat` = prior power-account;
 - `pañca` = the five non-exhaustion.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

@@ -95,7 +95,7 @@ cases. They suffice to show that neither kind of possession entails
 the other. The omitted corners are not fabricated as further
 quotations from Vasubandhu.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 This closes a useful test for our practical account. A visible
 performance may fail to establish a continuing non-manifest

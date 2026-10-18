@@ -155,7 +155,7 @@ Attributed to the commentary, not read back into the verse words:
 The `jñāpakam` / `jñānakam` syllable is a witness problem, not a doctrinal
 one.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

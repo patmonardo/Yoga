@@ -179,7 +179,7 @@ analyzed more finely in the present middle. The following discussion will
 make the principle of stage-designation explicit, but that belongs to the
 next Study.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The present middle is productive rather than merely intermediate. What the
 being feels, desires, appropriates, and does determines the future not as an

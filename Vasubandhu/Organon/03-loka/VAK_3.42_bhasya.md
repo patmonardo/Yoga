@@ -191,7 +191,7 @@ concentrated, absent, wholesome, defiled, or indeterminate. Those further
 constraints begin with VAK 3.43. The present Study should not import them
 backward merely because the continuing prose discusses them.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 For the Organon, the six-event list identifies `manovijñāna` as the locus of
 global reconfiguration rather than local sensory registration:

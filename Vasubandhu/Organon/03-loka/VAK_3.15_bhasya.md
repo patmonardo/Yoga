@@ -265,7 +265,7 @@ The prose fixes the verse's compressed terms:
 The kārikā thus coordinates four birth-modes without reducing their proximate
 conditions to one uniform image.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The passage distinguishes determination from manifestation. Karma determines
 the destination, but the destination must still appear within a cognition and

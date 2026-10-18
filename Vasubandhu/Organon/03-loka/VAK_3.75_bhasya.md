@@ -76,7 +76,7 @@ continent-indexed correlation; it does not claim that a container's own
 extent and an inhabitant's body-size are numerically the same kind of
 measure.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: the world-domain is correlated with determinate bodily
 conditions among its inhabitants. This is a project-level observation, not

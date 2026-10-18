@@ -75,7 +75,7 @@ Six ≠ ten. Two definitions of `artha`, two ranges — same pattern as 7.29.
 - `daśa ṣaḍ vā` = two meanings of artha;
 - `anye` = dharma and nirukti.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

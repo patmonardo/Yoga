@@ -173,7 +173,7 @@ remains unrepudiated. This is a reported school position within
 the Bhāṣya, not an unqualified restatement of the preceding
 Vaibhāṣika temporal scheme.
 
-## 7. Organon Contact Point — Dialectical Dhyāna
+## 7. Interpretation — Dialectical Dhyāna
 
 For our method, this is an unusually strong instance of dhyāna as
 sustained dialectical attention to a practical form. We hold the

@@ -192,7 +192,7 @@ unit, but that numerical phrase is the opening of VAK 3.53. The exact
 sequential boundary therefore falls after the definition of its saline
 character.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.52 shows how the end of one configuration produces a new positive
 region:

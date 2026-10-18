@@ -94,7 +94,7 @@ category-object level; Path's cut is different.
 - `ekasya` = nirodha;
 - second `daśa` = dharma-classes, not a second ten knowledges.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

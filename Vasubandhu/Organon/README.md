@@ -35,6 +35,10 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   study.
 - Textual witness, philological analysis, translation, Abhidharma doctrine,
   and Organon interpretation are kept visibly distinct.
+- In interpretive prose, **Essence Base** may be explicitly declared as the
+  project's logical handle for Dharma Āyatana. It does not replace **Dharma
+  Essence** in translations or name another Skandha. Terminology checks
+  distinguish that declared architectural usage from legacy translation.
 - The literal translation is distinguished from the readable study
   translation.
 - In section 5, both the close (or literal) rendering and the
@@ -73,7 +77,7 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   the grammar may derive the §8 formula by the parse (see 8.13). `Pred => {}`
   means an empty extension; NLTK itself reads it as a phantom `''` element,
   so the audit loader corrects this.
-- The chapter 1 Grammar–Logic pilots (1.01–1.11 and 1.16–1.19) annotate the normalized
+- The chapter 1 Grammar–Logic pilots (1.01–1.19) annotate the normalized
   IAST token stream beneath the Lexical Analysis table. It preserves verse
   order, opens sandhi, and marks Bhāṣya-resolved ellipses with `∅-` and
   `SUPPLIED=prose`. The annotation must match the grammar's `# tokens:`
@@ -109,11 +113,26 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   ethical alternatives, Elemental dependence, and consciousness-state scope.
   Acquisition prevents ethical continuity alone from becoming a sufficient
   definition; the Bhāṣya's non-disclosure and origins remain separate rules.
+  Extend `--end` to `12` for the four Great Elements as named Principles.
+  The parse derives the roster and ordered own-characters; the compressed
+  function-series is expanded in a separate prose theory. Tests distinguish
+  functions from characters and Wind's impulsion from derived lightness.
+  Extend `--end` to `13` for worldly designation and wind's two uses.
+  Separate prose countermodels reject shadow-like cessation and the claim
+  that originating Element support must persist for the continuity to persist.
+  Extend `--end` to `14` for the same ten members in the Essence and Principle
+  classifications and the distinct definitions of Feeling and Reflection.
+  Prose checks distinguish three tones from six contact-groups and exclude
+  *avijñapti* from these ten without excluding it from every classification.
+  Extend `--end` to `15` for the conditioned Formations remainder and the
+  shared Dharma classifications. The seven constituents are categories,
+  not seven individual Dharmas; non-volitional formations are included,
+  *avijñapti* stays Form, and the unconditioned remains without a Base.
   Use `--start 16 --end 19 --strict` for the Principle Processor pilot.
   It tests the Cognition classifications, immediately-past Mind office,
-  joint inclusion, and paired-site classification. Form and Dharma
-  definitions in 1.04–1.15 remain declared dependencies, not results of
-  that pilot; return to those units before completing the chapter.
+  joint inclusion, and paired-site classification. Its Form and Dharma
+  dependencies now have their own executable studies in 1.04–1.15;
+  they are not derived again by the Principle Processor pilot.
   Strict mode checks token annotation, dependency vocabulary coverage,
   semantic closure, reuse in the theory, symbol declarations, and expected
   truth values. Dependency coverage is not dependency parsing: the block

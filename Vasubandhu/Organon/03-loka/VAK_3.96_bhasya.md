@@ -210,7 +210,7 @@ four modes of conquest, but all remain subject to the explicit limit of
 non-killing. The seven treasures and the Cakravartin's bodily marks complete
 the portrait before the next verse turns to first-generation humanity.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Light contact: the passage keeps scope, mode of action, and ethical limit
 distinct. It also records a debate whose answer depends on the intended range

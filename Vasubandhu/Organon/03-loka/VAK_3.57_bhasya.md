@@ -192,7 +192,7 @@ which contained feature grounds the name of the containing whole.
 The two explanations should remain visible rather than being compressed into
 the vague statement that the continent is “associated with Jambū.”
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.57 changes cosmographical scale. The preceding verses built continents
 from external measure and form; this one gives Jambūdvīpa an internal route,

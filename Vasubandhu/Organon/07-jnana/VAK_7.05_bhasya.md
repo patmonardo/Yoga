@@ -128,7 +128,7 @@ in the chapter.
 
 Practitioner wording stays unrestored.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction. Overlay is admitted.
 

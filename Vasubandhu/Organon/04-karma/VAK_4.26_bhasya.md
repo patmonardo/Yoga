@@ -132,7 +132,7 @@ equivalent, or that the ordinary Saṃgha and individual distinctions
 can be discarded. The passage establishes plurality of valid
 acquisition grounds within this Vinaya account.
 
-## 6. Organon Contact Point — Classification as Jñāna Work
+## 6. Interpretation — Classification as Jñāna Work
 
 Here the Kośa gives our Jñāna inquiry a methodological task. To
 classify a practical determination, ask **how it is acquired** and

@@ -444,7 +444,7 @@ independent hell-being apart from the relevant dharmas, while the opposing
 interpretation cautions that this alone does not determine the complete range
 of dharmas included in a destiny.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.04 changes the cosmology from a map into a differentiated process:
 

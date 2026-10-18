@@ -299,7 +299,7 @@ the arithmetic supplied by the two explicit measures is unambiguous. The
 translation therefore states the total while labeling the Sanskrit repair as
 provisional.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 This unit joins two problems that initially appear remote: how appearance is
 conditioned and how substantial change is to be explained. In both cases,

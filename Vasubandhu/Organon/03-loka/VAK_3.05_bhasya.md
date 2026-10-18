@@ -330,7 +330,7 @@ includes that naming phrase and stops after the seven classes are completed;
 it leaves the subsequent inquiry into what constitutes a cognition-station to
 VAK 3.06.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.04 distinguished field, cause, transition, resultant placement, and the
 designation of a being. VAK 3.05 adds a configuration internal to that

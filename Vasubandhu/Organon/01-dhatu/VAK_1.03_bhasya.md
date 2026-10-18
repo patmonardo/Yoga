@@ -190,7 +190,7 @@ The disciple's dependence upon Abhidharma instruction and the historical
 collection account are Bhāṣya determinations. They should inform the study
 without being inserted into a close translation of the verse.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 The first three Bhāṣyas now form a single pedagogical argument. Liberating
 knowledge must be communicated according to reality; the śāstra serves as

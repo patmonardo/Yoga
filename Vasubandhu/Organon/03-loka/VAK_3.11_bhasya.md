@@ -293,7 +293,7 @@ case to be proved.
 `Anidarśana` is therefore “not a valid” or “not a probative example.” It does
 not merely mean that reflection is an unattractive metaphor.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The core result is continuity without a persisting identity-substance:
 

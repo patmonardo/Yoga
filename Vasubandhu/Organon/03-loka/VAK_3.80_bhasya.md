@@ -112,7 +112,7 @@ sequence uses day, month, and year, while the form-realm sequence directly
 matches lifespan in kalpas to bodily support in yojanas. Keep these two
 temporal determinations distinct.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: the same broad category, deva lifespan, is measured through
 different temporal organizations in different realms. This is a project-level

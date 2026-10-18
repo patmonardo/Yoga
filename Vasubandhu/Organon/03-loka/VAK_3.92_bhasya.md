@@ -66,7 +66,7 @@ other nineteen are occupied by inhabitation or emptying. The four groups thus
 total eighty intermediate kalpas. The source next asks what kind of entity a
 kalpa is, before 3.93 names the great kalpa.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Light contact: the Bhāṣya distinguishes a phase's total duration from the
 distribution of events within it. This is a comparative observation, not an

@@ -80,7 +80,7 @@ as a replacement map. Range limits of 7.44 still bind these three.
 - `itarāḥ` = the other four;
 - `pūrvāntādau` = prior, future, middle, in order.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

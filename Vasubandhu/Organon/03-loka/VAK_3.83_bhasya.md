@@ -91,7 +91,7 @@ maximum, and a lifespan counted through a realm-specific conversion. These
 are not interchangeable ways of saying “a very long life”; each gives a
 different kind of temporal determination.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: a domain can determine duration by a fixed value, an upper
 bound, or a converted calendar. This is a project-level observation, not

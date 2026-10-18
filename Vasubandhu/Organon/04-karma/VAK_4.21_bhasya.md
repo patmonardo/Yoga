@@ -91,7 +91,7 @@ the two modes are **past and present**. The inherited `atyāga`
 condition still governs possession. There is no claim here of future
 possession for this occasional avijñapti.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our practical World System, this passage prevents a false binary.
 A person can stand in neither established restraint nor established

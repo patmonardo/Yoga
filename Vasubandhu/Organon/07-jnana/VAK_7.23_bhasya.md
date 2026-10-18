@@ -87,7 +87,7 @@ The eight are a bounded set for Bhavāgra-detachment. Remainder: 7.24+.
 - `ūrdhvam` with the eight vimukti-paths, not “higher uninterrupted paths”;
 - conventional out where Bhavāgra-work is required.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

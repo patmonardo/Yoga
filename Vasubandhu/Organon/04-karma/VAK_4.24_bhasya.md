@@ -112,7 +112,7 @@ opposition to discipline, action-nature, and position in a
 distinguished from the mere absence of restraint by the
 `madhyastha` case in 4.21.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 The first movement gives our System a check on **expression and
 retention**: an occurrence can be manifest without being possessed

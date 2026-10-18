@@ -244,7 +244,7 @@ are considered separately. It is included in the sevenfold scheme as part of
 the complete Base complex. The two restrictions must not be collapsed
 into a single redundant “exclusively.”
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The first half distinguishes placement from dwelling:
 

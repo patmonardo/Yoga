@@ -276,7 +276,7 @@ The resulting translation decisions are:
 - Read the final causal predicates according to instances and causes,
   without making the unconditioned causally produced.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 For the Organon inquiry into learning, the passage distinguishes
 production of a capacity, its reinforcement, and protection against

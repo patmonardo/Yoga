@@ -79,7 +79,7 @@ This separates the fact that a defilement is presently not
 manifest from the stronger claim that it has been abandoned by
 its counter-path. The latter is what the second half explains.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 For our wheel, “adhyāsa ceases” must specify what actually
 does the work of cessation. 4.42 gives us a demanding comparison:

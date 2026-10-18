@@ -78,7 +78,7 @@ that no one in intermediate existence perceives.
 - `anyat` = the four after ṛiddhi;
 - `tad-` = birth-acquired divine eye.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

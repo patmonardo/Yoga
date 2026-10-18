@@ -89,7 +89,7 @@ motive, persistence, recipient-field, and the particular act each
 matter. The verse gives conditions for `niyata` karma, rather than
 an instruction to generate those conditions.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our study of Practical Reason, 4.54 makes the relation between
 an act and its field part of its causal description. An external

@@ -75,7 +75,7 @@ Clothes-ornaments is technical non-endowment, not ordinary speech about
 - `dve` = two āyatanas, not a second `dvidhā`;
 - `tāni` = the minds.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

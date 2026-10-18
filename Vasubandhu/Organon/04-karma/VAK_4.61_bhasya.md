@@ -48,7 +48,7 @@ uninterrupted paths in detachment from the Desire Realm:
 exhaustive function across path moments, not a new list of twelve
 ethical commandments.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 The classification gives a path-indexed operation: an action's
 capacity to end another class of action depends on *where in the

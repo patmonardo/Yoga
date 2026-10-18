@@ -78,7 +78,7 @@ obstruction in an eminent disciple. Stories not expanded here.
 - `śeṣitam` + `sarvabhūmiṣu` = eight on eleven levels;
 - `kena` question, `avyāhatam yataḥ` answer.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

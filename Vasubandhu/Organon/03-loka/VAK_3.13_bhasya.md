@@ -285,7 +285,7 @@ not lexically present in the verse. The dream elephant is explicitly treated
 as a sign and poetic representation rather than the literal intermediate
 form.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.13 determines a transition whose form is governed by its coming result:
 

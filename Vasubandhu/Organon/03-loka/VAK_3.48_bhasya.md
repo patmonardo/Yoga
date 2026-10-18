@@ -171,7 +171,7 @@ golden earth above the waters. But the center-and-surrounding structure
 should not be back-projected into the present translation from prose that
 belongs after the opening of VAK 3.49.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The world-support undergoes a modest but exact transition:
 

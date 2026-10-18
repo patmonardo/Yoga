@@ -141,7 +141,7 @@ be formalized from this witness without comparing another edition.
 The claims about gods, hell beings, and noble persons belong to the
 Kośa's cosmological and path framework.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 For the Organon, the useful distinction is between a result and a
 state that arises *because of* that result. A causal chain should

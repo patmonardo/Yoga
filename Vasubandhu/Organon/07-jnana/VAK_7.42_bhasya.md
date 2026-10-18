@@ -78,7 +78,7 @@ No progressive ladder or “sixth governs the five” in this unit.
 - `jñātasākṣīkriyā` = sākṣātkriyā;
 - `muktimārgadhīḥ` = vimuktimārga-prajñā, not a seventh abhijñā.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

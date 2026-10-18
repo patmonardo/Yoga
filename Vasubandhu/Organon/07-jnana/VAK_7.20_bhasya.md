@@ -83,7 +83,7 @@ Do not lock `anvaya` as “inferential.”
 - `anvayatraye` = the first three anvaya-knowledges;
 - `akṛtsnasatyābhisamaya` bars the dharma-moments.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

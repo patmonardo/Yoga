@@ -189,7 +189,7 @@ gateway (`dvāra`) to undertaking restraints (`saṃvarasamādāna`).
 The Kośa does not reduce this gateway to private conviction, nor
 does it identify the verbal act with liberation by itself.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 In our System, your wheel can be stated as **adhyāsa ceases; the
 Idea of the True and Good emerges**. Here that wheel meets a

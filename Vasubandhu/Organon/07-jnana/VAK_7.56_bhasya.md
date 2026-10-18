@@ -80,7 +80,7 @@ No guaranteed reactivation after pain.
 - `tarka` and `vidyā` are two routes;
 - `nṛṇām` withholds birth-acquisition of the ṛiddhi-group.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

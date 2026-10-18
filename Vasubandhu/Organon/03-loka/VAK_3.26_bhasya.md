@@ -213,7 +213,7 @@ The Bhāṣya also gives an economy principle: once the full pattern has been
 shown in the middle, further elaboration at both limits would require
 additional effort.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.26 superimposes two valid configurations upon one continuum:
 

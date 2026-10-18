@@ -209,7 +209,7 @@ The syntactic singular `skandhamātram ... eti` is consequently interpreted by
 the prose through `skandhānāṃ saṃtānaḥ`: what reaches the womb is the
 Base-continuum, not one enduring Base-complex.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The argument distinguishes the semantic subject of a process from a
 substantial agent posited behind it. Ordinary discourse may label the

@@ -77,7 +77,7 @@ and not a lift of 7.50–51 ground-rules. Mastery ≠ āsravakṣaya. School nam
 - `apare tu na` denies post-mortem adhiṣṭhāna;
 - `jitāyām` = mastered abhijñā.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

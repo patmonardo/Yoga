@@ -205,7 +205,7 @@ The Nikāyāntarīya denial and the announcement `yuktitaś cāgamataś ca` are
 Bhāṣya prose, not words compressed into the Kārikā. They establish the dispute
 within which the verse's definition must be evaluated.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The restrained conceptual result is a mediated transition:
 

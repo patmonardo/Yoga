@@ -89,7 +89,7 @@ of avijñapti is present or past, and whether the person still possesses
 it under the non-abandonment condition. Passing into the past does not,
 by itself, answer the second question.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our practical World System, the passage tests how a standing
 commitment can remain operative without flattening its temporal

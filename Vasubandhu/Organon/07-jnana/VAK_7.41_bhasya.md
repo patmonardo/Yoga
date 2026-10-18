@@ -82,7 +82,7 @@ readability; the source names endpoints and sequential ascent/descent.
 - two predicates = traversal + intensification;
 - last pāda = non-Buddha prayoga.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

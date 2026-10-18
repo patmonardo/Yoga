@@ -142,6 +142,17 @@ repeated.
 
 The reading is once, here. 1.13 is not opened.
 
+**Reciprocal architecture.** Our Skandha-machine reading follows
+`S–P–U / P–S–U → S–U–P`: Form and Essence reciprocally articulate one
+Universal, whose mediation becomes explicit in Absolute Knowing.
+**Essence Base** is the project's logical handle for Dharma Āyatana,
+not another name for Form Base or a replacement source translation.
+The local contribution is precise: the operation makes own-character
+evident, without support becoming hardness or spreading becoming impulsion
+as interchangeable predicates. That distinction gives the wider
+architecture something to explain, rather than merely a parallel list
+to rename. The verse does not itself derive the syllogistic sequence.
+
 ## 10. Review Status
 
 Upgraded reading of the twelfth Bhāṣya study. The unit through the wind
@@ -149,3 +160,9 @@ sentence checked against the running Sanskrit.
 
 Cognition is the word for *vijñāna*. Principle is the chapter word, for *dhātu*. Mass is not translated as
 base. The next study is not opened.
+
+The paired study now includes verse-order compound tokens, feature
+unification, derived roster-and-character semantics, and a separate prose
+function theory. The single anchor retains the Bhāṣya-informed translation.
+Tests check four distinct representatives, ordered correspondences, and
+the exclusion of lightness from the Great Element roster.

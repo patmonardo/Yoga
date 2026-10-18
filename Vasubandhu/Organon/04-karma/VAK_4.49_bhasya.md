@@ -104,7 +104,7 @@ maturation**. This should not be confused with the fifth ground,
 present manifestation of a feeling, or with the claim that karma's
 entire fruit consists only of feeling.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 This is a precise source for our concern with the semantic copula.
 The surface form “X is experienced” does not determine whether X is

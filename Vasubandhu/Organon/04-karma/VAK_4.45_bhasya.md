@@ -110,7 +110,7 @@ their defining characteristics. That transition is stated
 explicitly in the opening sentence, not merely inferred from
 our chapter map.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our Rational Moral Agent, this opening insists that an
 action's classification be tied to what it produces and where

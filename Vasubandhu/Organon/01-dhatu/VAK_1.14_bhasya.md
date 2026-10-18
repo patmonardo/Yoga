@@ -52,7 +52,7 @@ possible division, uncertain at the letter. Not a critical text.
 
 The very ones already stated as having the nature of the form-base:
 
-These very organs and meanings are accepted as the ten essences and the ten
+These very Faculties and meanings are accepted as the ten essences and the ten
 principles.
 
 In the essence-arrangement, ten essences: eye-essence, visible-form-essence,
@@ -83,7 +83,7 @@ No opponent is named.
 
 ```text
 already in the form-base
-    → these very organs and meanings
+    → these very Faculties and meanings
     → ten essences
     → the same ten principles
 form-base closed
@@ -94,14 +94,14 @@ form-base closed
 ## 5. The Same Ten
 
 *Ya eva rūpaskandhasvabhāvā uktāḥ* resumes the form-base. *Te eva* carries
-the same organs and meanings. *Daśa* is distributed.
+the same Faculties and meanings. *Daśa* is distributed.
 
 | Arrangement | Opens | Closes | Count |
 |---|---|---|---|
 | essence | eye-essence, visible-form-essence | body-essence, tangible-essence | ten |
 | principle | eye-principle, visible-form-principle | body-principle, tangible-principle | the same ten |
 
-The lists alternate organ and meaning. *Yāvat* covers the middle. *Avijñapti*
+The lists alternate Faculty and meaning. *Yāvat* covers the middle. *Avijñapti*
 is in the form-base and not among these ten. *Ukto rūpaskandhaḥ* closes that
 account before the new definitions.
 
@@ -128,7 +128,7 @@ reflection is the taking up of the mark. Not the same word in force.
 
 ## 8. Decisions for the Kārikā
 
-1. The ten essences and the ten principles are the same five organs and five
+1. The ten essences and the ten principles are the same five Faculties and five
    meanings.
 2. Each arrangement has ten. *Avijñapti* is not among them.
 3. Feeling is three tones of undergoing, and six groups by contact.
@@ -137,14 +137,14 @@ reflection is the taking up of the mark. Not the same word in force.
 
 ## 9. Interpretation
 
-*Te eva* is the hinge. Changing the arrangement does not create another organ
+*Te eva* is the hinge. Changing the arrangement does not create another Faculty
 or another meaning. Ten essences, and the same ten principles. Identity is
 kept. The arrangements are not two inventories.
 
-Organ, here, because an organized being is in view. The five serve. Meaning is
-what they are set toward. Essence is the arrangement of that pair. Principle
-is the same pair under the chapter word. Relation is the later grade. It is
-not the English of this verse.
+The five Faculties serve in relation to their meanings. Essence and Principle
+classify those same members without becoming interchangeable projections.
+Form and Essence may articulate the philosophical reading where useful;
+Dharma Base, Dharma Essence, and Dharma Principle remain protocol names.
 
 Feeling undergoes. Reflection takes the mark. Blue is a mark. Long is a mark.
 The mark is not yet the principle. The six groups run from eye-contact through
@@ -153,12 +153,26 @@ and not stated as such here.
 
 The continuity of 1.13 is absent from the ten. It remains in the form-base,
 and it is not given an essence or a principle in this verse. That placement
-is the next study. Not opened.
+is addressed at 1.16. It is not supplied here.
+
+**One over many.** The proposed case is identifying an instance as a cat
+without *vijñapti*. It is not an account of first disclosing multiple cats
+and then abstracting their common kind. This directs the *avijñapti*
+inquiry toward determination operative without disclosure. The verse's
+mark-taking definition does not assert a requirement for *vijñapti*.
+Identifying, disclosing, and retaining a determination remain distinct
+functions whose relation we are investigating. The *aviśeṣa–viśeṣa*
+comparison is our research direction, not terminology introduced by this
+unit.
 
 ## 10. Review Status
 
 Upgraded reading of the fourteenth Bhāṣya study. The unit through the six
 groups checked against the running Sanskrit. *Mitramitra* left as transmitted.
 
-Cognition withdrawn. Organ and meaning, not faculty and object. Essence, not
-a second base-word. The next study is not opened.
+Cognition is not supplied as another member of these ten. Faculty and
+meaning are kept distinct from Object. Essence is not a second Base-word.
+The paired study now derives the cross-classification and both definitions
+through feature grammar. Separate roster and grouping checks test ten
+shared members, three Feeling tones, and six contact-groups for each Base.
+The anchor retains its single Bhāṣya-informed translation.

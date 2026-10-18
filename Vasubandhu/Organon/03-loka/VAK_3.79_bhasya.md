@@ -77,7 +77,7 @@ domain-specific calendar and calculates lifespan within it. The measure of a
 deva's life therefore depends on first specifying the temporal unit proper to
 that deva class.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: the text makes the unit of temporal measurement explicit
 before assigning a duration. This is a project-level observation, not

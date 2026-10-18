@@ -133,7 +133,7 @@ prose; it does **not** claim to have repaired this Sanskrit sentence.
 The source's final `nābrahmacaryāt` independently confirms that
 the acquired lay restraint is not the celibacy restraint.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 Our vow to know the Self and let adhyāsa cease requires the same
 care with **determinate content**. A practical commitment gains

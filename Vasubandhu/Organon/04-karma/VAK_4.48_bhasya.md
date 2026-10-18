@@ -144,7 +144,7 @@ simile as bathing clothes, but the Sanskrit e-text has
 claim is the distinction between karma's
 own nature and the experience of its maturation.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our OM theory, `bāhulika` is an instructive correction of a
 classification: a general mapping from karmic realm to felt result

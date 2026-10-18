@@ -77,7 +77,7 @@ Birth-list and karma-list are not a denial that birth has karmic conditions.
 - `trividham` = three ethical possibilities;
 - second half = five sources of ṛiddhi.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

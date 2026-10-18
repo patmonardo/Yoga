@@ -128,7 +128,7 @@ has **both** clear comprehension and recollection as its nature. The
 repeated “two” marks a twofold nature in each, not a distribution of one
 factor to each restraint.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 The passage gives the Organon a disciplined test of its own naming. A
 determination can acquire a new name through a specified path-function;

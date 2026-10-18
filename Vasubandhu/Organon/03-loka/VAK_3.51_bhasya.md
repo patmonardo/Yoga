@@ -213,7 +213,7 @@ Those determinations must not be imported backward. VAK 3.51 establishes the
 class of seven seas, their water-quality, and the first sea's cross-sectional
 breadth; it does not yet give the complete ocean system.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The world-system is now governed by three coordinated forms of determination:
 

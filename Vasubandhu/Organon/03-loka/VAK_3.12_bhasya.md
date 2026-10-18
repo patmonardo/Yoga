@@ -369,7 +369,7 @@ expression such as “immediately” or “no lodging in between” must be test
 against context, doctrinal function, and available alternate readings before
 it can negate a systematically established category.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The immediate philosophical result is methodological:
 

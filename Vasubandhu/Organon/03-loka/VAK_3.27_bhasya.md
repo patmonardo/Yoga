@@ -199,7 +199,7 @@ impossible. VAK 3.19 has already stated that recurrence ends when its causes
 are exhausted. The present rule describes how the wheel operates while its
 conditions remain effective.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The passage moves from classified members to a generative causal grammar:
 

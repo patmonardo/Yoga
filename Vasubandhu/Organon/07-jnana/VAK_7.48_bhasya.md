@@ -75,7 +75,7 @@ person share from 7.42 is not revoked by this three-class contrast.
 - `tridhā` = movement only;
 - `anyeṣām` does not strip the Buddha of the first two.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

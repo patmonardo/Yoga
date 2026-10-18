@@ -176,7 +176,7 @@ authority      other teachers
 target         unspecified member of the eight
 ```
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.56 moves from large-scale regional types toward greater particularity
 without abandoning the organizing structure:

@@ -134,7 +134,7 @@ who point out earth point out color and configuration.
 As earth, so water and fire. By worldly designation, color and configuration
 alone are called by those names.
 
-Wind, however, is the Element itself. That very Wind Principle is what, in
+Wind, however, is the Principle itself. That very Wind Principle is what, in
 the world, is called wind.
 
 And yet also in that way. As color and configuration are called earth by
@@ -238,7 +238,7 @@ determinations.
 
 ## 6. Being Affected
 
-The series through *avijñapti* is the inventory of 1.09: five organs, five
+The series through *avijñapti* is the inventory of 1.09: five Faculties, five
 meanings, and the continuity. The question is the commentary's.
 
 *Raupaṇāt*. Scripture: it is affected. Gloss: afflicted. Even touched by the
@@ -265,7 +265,8 @@ not modified in that way. And it does not cease when the manifestation ceases.
 
 Because the supporting Elements are affected. The consequence is the
 eye-cognition and the rest. The proposed inequality: *avijñapti* continues on
-the Elements; the principle only arises on the organ. Rejected as not
+the Elements; Eye-Cognition and the rest have their Faculties as conditions
+of arising in this proposed reply. Rejected as not
 Vaibhāṣika, and by the acceptance itself: the continuity does not cease when
 those Elements have ceased.
 
@@ -323,3 +324,9 @@ reading, not collated.
 
 Eye-cognition is the cognition. The principle is the dhātu. The name *avijñapti*
 stays. Designation is not reflection. The next study is not opened.
+
+The paired kārikā now derives the naming relations through feature grammar,
+including both wind uses and the resumed predication for water and fire.
+Separate prose countermodels preserve non-cessation after the originating
+manifestation and Element support cease, without resolving the disputed
+later support. The anchor retains the single Bhāṣya-informed translation.

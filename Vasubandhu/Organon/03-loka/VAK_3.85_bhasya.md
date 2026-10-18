@@ -118,7 +118,7 @@ may occur, though the Bhāṣya preserves exceptions. The later triad does not
 collapse form, naming, and temporal course into one unit: each has its own
 limiting measure.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 Light contact: the passage distinguishes a domain's terminal unit from the
 unit used in another domain. This is a project-level observation, not

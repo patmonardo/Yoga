@@ -129,7 +129,7 @@ Attributed to the commentary:
 
 No change to the literal kārikā line is required.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

@@ -100,7 +100,7 @@ temporal course. The Bhāṣya explains `amita` not simply as “very long” bu
 `aparimāṇa`: beyond numerical measurement, even by a reckoning that begins
 with thousands.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: the text distinguishes a fixed temporal parameter from one
 that varies with the world's phase. This is a project-level observation, not

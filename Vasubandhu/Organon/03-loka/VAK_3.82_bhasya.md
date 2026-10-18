@@ -101,7 +101,7 @@ compressed into one hell day-and-night; the same numerical lifespan count is
 then assigned to the hell-years. Keep the day-unit conversion distinct from
 the matching lifespan count.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: a temporal unit in one conditioned domain can define the
 day-and-night scale of another. This is a project-level observation, not

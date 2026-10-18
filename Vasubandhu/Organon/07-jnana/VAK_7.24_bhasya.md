@@ -87,7 +87,7 @@ Principal vimukti: B / B+paracitta. `Kecit`: +conventional for both.
 - `vā` = `kecit` on conventional;
 - second half = ānantarya only, including Bhavāgra-ānantarya.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

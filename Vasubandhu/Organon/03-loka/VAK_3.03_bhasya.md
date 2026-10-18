@@ -247,7 +247,7 @@ denies that continuity without form requires the stated pair of mutually
 sustaining supports. Its alternative ground is the causal orientation of the
 series that gives rise to the continuity.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The opening sequence of Lokanirdeśa has now successively loosened the equation
 of world with place:

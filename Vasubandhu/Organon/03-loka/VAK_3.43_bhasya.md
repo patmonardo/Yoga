@@ -289,7 +289,7 @@ specific mode of painful vital-point impairment. It does not overturn the
 earlier statement that the final cessation of one destined for deva birth is
 at the heart.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.43 analyzes death as a constrained reconfiguration, not as an
 unqualified departure of “mind from body.” At least four axes remain

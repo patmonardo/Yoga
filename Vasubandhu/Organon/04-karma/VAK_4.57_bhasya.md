@@ -80,7 +80,7 @@ class of karmic maturation. The argument therefore depends on the
 earlier classification of `daurmanasya`, to which the prose refers
 with “as already explained.”
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 In our action model, a result's kind and its admissible locus are
 distinct determinations. Here the Kośa constrains the locus of

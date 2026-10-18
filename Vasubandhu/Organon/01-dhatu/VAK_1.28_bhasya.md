@@ -175,7 +175,7 @@ seven.
    tangible-principle, the form-principle, and the seven Cognition
    Principles.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 This passage returns directly to our example of space. A Principle is not
 merely an inventory label or bin. It determines a characteristic,

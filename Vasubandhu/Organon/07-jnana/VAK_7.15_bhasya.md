@@ -85,7 +85,7 @@ the pair complete.
 - `dharmākhyam` + `eva` on kāma-support;
 - `anyat` = remainder after those two exclusions.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

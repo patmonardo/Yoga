@@ -123,7 +123,7 @@ specific: in hell, wholesome karma with desirable fruition **in
 that same life** is excluded. The passage does not deny every
 possibility of wholesome action in hell.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For the Practical Reason of our agent, this verse is a worked
 example of case classification. It keeps assurance of a result,

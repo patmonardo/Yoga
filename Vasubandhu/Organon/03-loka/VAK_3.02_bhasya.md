@@ -202,7 +202,7 @@ Because the text gives no explicit resolution, the official translation
 anchors the Kārikā's seventeenfold scheme while the study keeps the alternative
 fully visible.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.01 determined a World System through sentient orders, locations,
 supporting frame, and limits. VAK 3.02 adds an internally graded articulation:

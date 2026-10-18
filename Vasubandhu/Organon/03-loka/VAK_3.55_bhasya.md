@@ -198,7 +198,7 @@ The claim belongs to the Bhāṣya's cosmological anthropology. It should be
 reported as such rather than converted into modern biological or ethnic
 classification.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.55 joins two kinds of configuration:
 

@@ -180,7 +180,7 @@ sārdhaṃ tri-śata-yojanam
 
 The same modifier must be resolved through the unit and grouping it qualifies.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 This small unit shows how a named form can function as a compressed semantic
 result of structured measurements:

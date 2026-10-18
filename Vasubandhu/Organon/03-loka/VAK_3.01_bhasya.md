@@ -229,7 +229,7 @@ locations. `Preta` remains untranslated as a technical designation. The six
 deva names and the lists of hells and continents belong to the Bhāṣya's
 explication; they are not silently inserted into the verse.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The strongest philosophical result is the reflective structure of the chapter
 opening. A Realm first functioned as the ground of classification; it must

@@ -82,7 +82,7 @@ word alone for all four. Disagreement kept.
 - `vikalābhiḥ` denies incomplete lābha;
 - `ete` = the six from araṇā.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

@@ -94,7 +94,7 @@ but that endpoint falls short of Arbuda's. Beyond Arbuda, the source gives a
 successive twentyfold lifespan relation. It does not require us to fill out
 the ellipsis in the cited series here.
 
-## 7. Organon Contact Point
+## 7. Interpretation
 
 Light contact: an analogy can indicate magnitude without asserting numerical
 identity, while a separate rule specifies exact relations within an ordered

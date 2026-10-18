@@ -83,7 +83,7 @@ The resulting pattern is:
 | Past | After its first moment, while not abandoned |
 | Future | No one is endowed with it |
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For the Organon, the passage checks any slide from a **Plan** to an
 **accomplished act**. An intention to speak or act can be real as an

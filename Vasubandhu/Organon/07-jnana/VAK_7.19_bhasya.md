@@ -92,7 +92,7 @@ Not kṣaya, not anutpāda, not (in this series) paracitta.
 - four increases named;
 - detached +1 is commentary contrast, not a second verse subject.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

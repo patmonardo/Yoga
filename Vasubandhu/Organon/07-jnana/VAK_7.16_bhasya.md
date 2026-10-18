@@ -89,7 +89,7 @@ exclusion beyond stating it. 7.17 continues the matrix.
 - `gocara` = `ālambana` of knowledge-categories;
 - exclusion explicit: `anyatrānvayajñānāt`.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

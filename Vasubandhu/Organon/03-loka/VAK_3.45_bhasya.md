@@ -187,7 +187,7 @@ and causal explanation belong to the Kośa's received cosmological model.
 Preserving that status is compatible with recognizing the model's exact
 internal relations.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The passage joins the apparently opposed determinations of objectivity and
 conditioned genesis:

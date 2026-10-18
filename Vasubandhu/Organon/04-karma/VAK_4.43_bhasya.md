@@ -142,7 +142,7 @@ eligible humans. `Devānāṃ ca` is not yet fully distributed.
 The Bhāṣya specifies which restraints gods and formless beings
 can possess in 4.44.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 For our System, the useful distinction is between an action
 and a continuing determination borne by a support. A vow's

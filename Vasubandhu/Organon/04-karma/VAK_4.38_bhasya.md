@@ -96,7 +96,7 @@ and the end of the night adds a fifth only for that temporary
 observance. It is therefore misleading to read the Kārikā's
 compressed list as five uniform loss conditions for all forms.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 After 4.37's account of acquisition, this verse asks what
 maintains or terminates a standing practical form. For our vow,

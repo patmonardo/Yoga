@@ -102,7 +102,7 @@ It is not the object and not the counteraction.
 
 No change to the Organon literal line.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

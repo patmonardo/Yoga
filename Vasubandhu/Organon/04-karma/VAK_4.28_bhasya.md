@@ -130,7 +130,7 @@ name `poṣadha` adds the nourishment of weak wholesome roots. The
 procedure therefore has a formative end as well as exact
 conditions of acquisition.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our Method, the passage distinguishes a good action from a
 practical form that has a definite genesis, content, reception,

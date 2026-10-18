@@ -105,7 +105,7 @@ range. Four/five Bases = entourage, not knowledge itself.
 - `antya` = dharma-mindfulness at cessation;
 - `yatnika` = prāyogika.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

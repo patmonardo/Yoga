@@ -172,7 +172,7 @@ source's damaged formulation of beverage classes remains a
 philological question, but the function of the final term is
 stated plainly at [219|09–10].
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Our practical wheel requires both the cessation of adhyāsa and a
 capacity to let the Idea of the True and Good govern what follows.

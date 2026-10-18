@@ -148,7 +148,7 @@ explains the names `kṣatriya` and `Mahāsammata` within this account of
 kingship's origin. It ends with false speech, immediately before 3.98
 continues the decline in lifespan.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Light contact: the commentary narrates a sequence in which changing habits
 of nourishment and appropriation accompany changes in bodies and social

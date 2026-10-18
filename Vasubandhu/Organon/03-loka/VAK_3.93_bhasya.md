@@ -159,7 +159,7 @@ be cultivated until another’s suffering and happiness become one’s concern.
 The text contrasts this with self-directed happiness and the more limited
 aim of ending one’s own suffering.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Light contact: this passage links an immense temporal measure to a
 deliberately cultivated orientation toward others. The relation is a

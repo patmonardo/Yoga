@@ -261,7 +261,7 @@ both the best mode and the most numerous, but its superiority and numerical
 extent require separate arguments. The Bodhisattva discussion concerns the
 first; the closing count establishes the second.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The modest philosophical result is the difference between abstract
 superiority and purposive fitness:

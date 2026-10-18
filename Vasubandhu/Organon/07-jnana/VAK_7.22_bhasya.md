@@ -83,7 +83,7 @@ the present cell, not the sevenfold set in this row.
 - two sevens composed differently;
 - `tadūrdhvam` = after the sixteenth, while still undetached.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

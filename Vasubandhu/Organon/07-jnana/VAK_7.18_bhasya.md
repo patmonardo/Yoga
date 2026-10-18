@@ -104,7 +104,7 @@ dispassion from every level; the prose refuses that consequence.
 - `vidyāt` = possibility;
 - `anātmataḥ` = the aspect of that conventional act.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

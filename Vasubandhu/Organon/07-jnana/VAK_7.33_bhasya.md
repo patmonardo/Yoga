@@ -88,7 +88,7 @@ support, continuum, acquisition, paritrāṇa, last wording.
 - instrumentals + two ablatives = five grounds;
 - `nānākaraṇam aṣṭadhā` = a second question.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

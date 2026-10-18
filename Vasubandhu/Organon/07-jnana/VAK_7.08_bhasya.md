@@ -121,7 +121,7 @@ independent invention of this sentence.
 
 `Prathamataḥ` remains a punctuation issue. Counteraction scope waits for 7.09.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

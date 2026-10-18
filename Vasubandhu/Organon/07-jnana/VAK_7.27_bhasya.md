@@ -78,7 +78,7 @@ Kāśmīra inclusion together; do not invent a separate proof of each mapping.
 - future/present split is commentary on the first pair only;
 - `sāsravasya` = the contaminated class as domain of the second pair.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

@@ -267,7 +267,7 @@ The final reported view strengthens the causal side of the future section:
 craving, appropriation, and becoming can also remove future confusion because
 they disclose the present causes from which the future limit arises.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.25 gives a remarkably disciplined theory of analytic presentation. A
 complex field does not dictate only one possible description. The mode is

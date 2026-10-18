@@ -228,7 +228,7 @@ distinction between two phases and their fetters; it does not yet provide the
 detailed allocation of nutriments to beings already arisen and those seeking
 birth. That question opens VAK 3.41.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 The four nutriments show that a conditioned world is maintained materially,
 relationally, purposively, and cognitively. Yet VAK 3.40 adds the decisive

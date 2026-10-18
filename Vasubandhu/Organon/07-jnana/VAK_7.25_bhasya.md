@@ -90,7 +90,7 @@ No fabricated aśaikṣa spreadsheet.
 - `tat` = immovability;
 - `proktaśeṣa` enumerated, not a dump-bin.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

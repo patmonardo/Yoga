@@ -78,7 +78,7 @@ waits.
 - `nordhvajam` is the source–result ban;
 - `te` = the two classes, not fourteen successors at once.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

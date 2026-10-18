@@ -144,7 +144,7 @@ eightfold. The passage tests both ways of explaining the
 whole–part relation and leaves their exact account a live logical
 problem.
 
-## 6. Organon Contact Point — Jñāna Classification
+## 6. Interpretation — Jñāna Classification
 
 This is a good exercise for our Jñāna power of classification.
 First determine each limb by its **work**; then determine the

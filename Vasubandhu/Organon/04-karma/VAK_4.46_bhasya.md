@@ -135,7 +135,7 @@ The last two sentences make the section boundary explicit: the
 `puṇya` triad is finished, and the three classes of felt result
 announced in 4.45 are next.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our study of OM Artha as a platform of determination and
 appearance, this passage supplies a disciplined question: which

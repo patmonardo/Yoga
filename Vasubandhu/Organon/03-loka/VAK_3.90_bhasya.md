@@ -179,7 +179,7 @@ destiny/realm and by beings/receptacle. The ensuing account develops chiefly
 the latter distinction; it need not be forced into a more elaborate taxonomy
 than the Bhāṣya gives.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 Light contact: the passage describes ordered withdrawal and re-emergence, with
 the sequence reversed between contraction and expansion. Karma conditions the

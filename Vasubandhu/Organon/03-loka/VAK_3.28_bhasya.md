@@ -638,7 +638,7 @@ determination.
 This conclusion does not yet decide whether ignorance is a kind of defective
 `prajñā`; that is the distinct question of VAK 3.29.
 
-## 9. Philosophical and Organon Study
+## 9. Interpretation
 
 VAK 3.28 yields two complementary controls for the theory of projection.
 First, cause and result are relational roles, not permanent types. The same

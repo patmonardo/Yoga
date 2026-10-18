@@ -85,7 +85,7 @@ not anatomy-contemplation. No “higher contains lower as a moment” in this pr
 - `tṛtīyā` = other-mind;
 - last group from prose, not repaired verse.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

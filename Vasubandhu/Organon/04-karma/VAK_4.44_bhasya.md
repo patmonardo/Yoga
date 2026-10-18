@@ -91,7 +91,7 @@ and loss analyses of 4.35–4.42: **acquired**, **possessed**, and
 **manifest** are different predicates. A continuing possession
 need not be a present occurrence.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our System, a standing vow and its current exercise cannot
 be identified without remainder. The Kośa gives a precise

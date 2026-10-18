@@ -113,7 +113,7 @@ every condition or all prior cultivation.
 - Two Pratyekabuddha lists stay separately attributed.
 - Opening syllable `ta`/`tad` remains a witness item.
 
-## 8. Philosophical and Organon Study
+## 8. Interpretation
 
 This section is reconstruction.
 

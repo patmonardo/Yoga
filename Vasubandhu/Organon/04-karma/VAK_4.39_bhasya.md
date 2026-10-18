@@ -197,7 +197,7 @@ answer: no Vinaya acts means no **new acquisition**. That does
 not mean a person already restrained automatically loses what
 was acquired. This distinction closes the unit.
 
-## 5. Organon Contact Point
+## 5. Interpretation
 
 For our account of a vow, 4.39 asks whether an opposed act adds
 a debt to a still-standing form or destroys a condition that

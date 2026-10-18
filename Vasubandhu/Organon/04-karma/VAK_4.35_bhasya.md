@@ -139,7 +139,7 @@ must not be confused with a claim that a completed past deed can
 be undone or that an occurring present deed can be prevented
 after it is underway.
 
-## 6. Organon Contact Point
+## 6. Interpretation
 
 For our Practical World System, 4.35 supplies a precise way to
 describe a vow's domain: what its present support is, which
