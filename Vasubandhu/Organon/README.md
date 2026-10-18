@@ -77,6 +77,38 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   the grammar may derive the §8 formula by the parse (see 8.13). `Pred => {}`
   means an empty extension; NLTK itself reads it as a phantom `''` element,
   so the audit loader corrects this.
+### Dhātu notebook
+
+Generate an editable Jupyter notebook containing all 48 Dhātu kārikās:
+
+```sh
+python Vasubandhu/Organon/tests/export_dhatu_notebook.py
+```
+
+The exporter strictly validates every study before writing
+[notebooks/dhatu-nltk.ipynb](notebooks/dhatu-nltk.ipynb). It extracts the
+Sanskrit IAST, Lexical Analysis, translations, Technical Vocabulary, and all
+five NLTK blocks without changing the studies. Each study has editable block
+strings followed by an executable parse/model check. The notebook uses the
+existing audit helpers, so run it from inside this repository with a Jupyter
+Python 3 kernel containing NLTK. No NLTK corpus downloads are needed.
+
+Run setup, then any study's two code cells, or choose **Run All**.
+`studies[48]`, for example, exposes the parse tree, derived `sem`, `theories`,
+`valuation`, `model`, dependency grammar, and theory `results`. The final
+countermodel cell copies 1.48's valuation and adds a third knower of Sound,
+making the verse false without changing the original. Checks are finite-model
+evaluations, not theorem proofs; dependency checking is vocabulary coverage,
+not dependency parsing.
+
+The Markdown studies remain authoritative. Notebook edits do not update them.
+The exporter refuses to overwrite an existing notebook; use `--output PATH`
+for a separate snapshot or `--force` to deliberately replace one. Save your
+experiments separately before regenerating. Generated notebooks have no saved
+execution outputs.
+
+### Dhātu Grammar–Logic contract
+
 - The chapter 1 Grammar–Logic pilots (1.01–1.48) annotate the normalized
   IAST token stream beneath the Lexical Analysis table. It preserves verse
   order, opens sandhi, and marks Bhāṣya-resolved ellipses with `∅-` and
