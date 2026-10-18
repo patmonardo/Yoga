@@ -147,4 +147,8 @@ The count is inside the five meanings. Color and configuration stay one meaning.
 
 ## 7. Review Status
 
-The verse and the commentary use the same literal. The damaged line is kept. Principle is withdrawn from the cognition. 1.11 is not opened.
+The anchor copies the paired kārikā's Bhāṣya-informed study translation.
+Lexical token annotations, feature grammar, derived semantics, and finite
+model checks now distinguish the two visible analyses and the five counts.
+The damaged line and attributed alternative counts remain explicit.
+Cognition is not Principle. 1.11 is not opened.

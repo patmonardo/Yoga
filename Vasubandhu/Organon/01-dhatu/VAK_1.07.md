@@ -29,20 +29,64 @@ sa evādhvā kathāvastu saniḥsārāḥ savastukāḥ // 1.07 //
 | saniḥsārāḥ | sa-niḥsāra; bahuvrīhi, nominative masculine plural | the sāra term. Not “possessed of an exit” |
 | savastukāḥ | sa-vastuka; bahuvrīhi, nominative masculine plural | possessed of vastu |
 
-## 4. Grammar
+**Grammar tokens.** Normalized IAST in verse order, with sandhi opened.
+The collective compound remains one leaf; *saḥ eva* becomes two.
+No supplied token is needed. The singular resumption takes up the
+collective field, while the final plural predicates resume its Dharmas.
 
 ```text
-saṃskṛtā dharmāḥ
-    = rūpādi-skandha-pañcakam
-
-sa eva
-    = adhvā
-    = kathāvastu
-    = saniḥsārāḥ
-    = savastukāḥ
+# tokens: te punaḥ saṃskṛtāḥ dharmāḥ rūpādi-skandha-pañcakam saḥ eva adhvā kathāvastu saniḥsārāḥ savastukāḥ
 ```
 
-`Pañcakam` is a collective singular predicate of a plural subject: five Base members, gathered as one field. The second line is a quad. One field, four functions.
+## 4. Grammar
+
+The conditioned subject is masculine plural; its predicate is a neuter
+singular collective. This is nominal predication, not adjective agreement.
+The second line resumes that collective with *saḥ eva*. Singular
+*adhvā* and *kathāvastu* do not impose their number on the final plural
+*saniḥsārāḥ* and *savastukāḥ*.
+
+```nltk-fcfg
+% start S
+# tokens: te punaḥ saṃskṛtāḥ dharmāḥ rūpādi-skandha-pañcakam saḥ eva adhvā kathāvastu saniḥsārāḥ savastukāḥ
+S[SEM=<(?classification & ?determinations)>] -> CLASSIFICATION[SEM=?classification] RESUMPTION[SEM=?determinations]
+CLASSIFICATION[SEM=<all x.(?dharma(x) -> (?conditioned(x) <-> ?bases(x)))>] -> DEM[CASE=nom,NUM=?n,GEN=?g] RESUME CONDITIONED[CASE=nom,NUM=?n,GEN=?g,SEM=?conditioned] DHARMA[CASE=nom,NUM=?n,GEN=?g,SEM=?dharma] COLLECTIVE[CASE=nom,NUM=sg,GEN=n,SEM=?bases]
+RESUMPTION[SEM=<?same(?course)(?discourse)(?end)(?vastu)>] -> SAME[CASE=nom,NUM=sg,GEN=m,SEM=?same] ONLY COURSE[CASE=nom,NUM=sg,GEN=m,SEM=?course] DISCOURSE[CASE=nom,NUM=sg,GEN=n,SEM=?discourse] END[CASE=nom,NUM=?n,GEN=?g,SEM=?end] VASTU[CASE=nom,NUM=?n,GEN=?g,SEM=?vastu]
+DEM[CASE=nom,NUM=pl,GEN=m] -> 'te'
+RESUME -> 'punaḥ'
+CONDITIONED[CASE=nom,NUM=pl,GEN=m,SEM=<\x.Conditioned(x)>] -> 'saṃskṛtāḥ'
+DHARMA[CASE=nom,NUM=pl,GEN=m,SEM=<\x.Dharma(x)>] -> 'dharmāḥ'
+COLLECTIVE[CASE=nom,NUM=sg,GEN=n,SEM=<\x.FiveBaseMember(x)>] -> 'rūpādi-skandha-pañcakam'
+SAME[CASE=nom,NUM=sg,GEN=m,SEM=<\P.\Q.\R.\T.all x.((Dharma(x) & Conditioned(x)) -> (P(x) & Q(x) & R(x) & T(x)))>] -> 'saḥ'
+ONLY -> 'eva'
+COURSE[CASE=nom,NUM=sg,GEN=m,SEM=<\x.CourseDetermination(x)>] -> 'adhvā'
+DISCOURSE[CASE=nom,NUM=sg,GEN=n,SEM=<\x.Kathavastu(x)>] -> 'kathāvastu'
+END[CASE=nom,NUM=pl,GEN=m,SEM=<\x.HasNihsara(x)>] -> 'saniḥsārāḥ'
+VASTU[CASE=nom,NUM=pl,GEN=m,SEM=<\x.HasVastu(x)>] -> 'savastukāḥ'
+```
+
+```nltk-dep
+'rūpādi-skandha-pañcakam' -> 'dharmāḥ'
+'dharmāḥ' -> 'te' | 'punaḥ' | 'saṃskṛtāḥ'
+'adhvā' -> 'saḥ' | 'kathāvastu' | 'saniḥsārāḥ' | 'savastukāḥ'
+'saḥ' -> 'eva'
+```
+
+**Close construe.** Those conditioned Dharmas are the five Bases beginning
+with Form. That same field is the course, kathāvastu, and, in its Dharmas,
+saniḥsāra and savastuka.
+
+The resumption preserves one field across four functions, without making
+the four predicates synonymous. The first clause classifies conditioned
+Dharmas by the five Bases; it does not assert only five individual Dharmas.
+The grammar's classification rule below supplies the nominal predication
+through a restricted biconditional.
+
+The Bhāṣya's glosses explain temporal course, meaningful discourse,
+nirvāṇa as exit, and, in the attributed Vaibhāṣika account, *vastu* as
+cause. Their mechanisms are not independently derived by the four lexical
+predicates. The witness lists only four Base names, omitting *saṃjñā*;
+the verse's fivefold collective is preserved without repairing that list.
 
 ## 5. Translation
 
@@ -96,6 +140,60 @@ Appearance
 The Vaibhāṣika gloss *vastu* = *hetu* is the armor-moment. Not the reading.
 
 ## 8. Logical Determination
+
+**Kārikā, derived.** The classification and the four determinations have
+the same restricted domain. These predicates preserve distinctions for
+further interpretation; they are not assertions that course, reflection,
+relation, and appearance are identical.
+
+```nltk-sem
+# derived by the section 4 parse
+((all x.(Dharma(x) -> (Conditioned(x) <-> FiveBaseMember(x)))) & (all x.((Dharma(x) & Conditioned(x)) -> (CourseDetermination(x) & Kathavastu(x) & HasNihsara(x) & HasVastu(x)))))
+```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+((all x.(Dharma(x) -> (Conditioned(x) <-> FiveBaseMember(x)))) & (all x.((Dharma(x) & Conditioned(x)) -> (CourseDetermination(x) & Kathavastu(x) & HasNihsara(x) & HasVastu(x)))))
+# THEORY preceding_classification
+# EXPECT preceding_classification T
+all x.(Unconditioned(x) -> (Dharma(x) & -FiveBaseMember(x)))
+exists x.(Dharma(x) & Conditioned(x) & Pure(x) & -Impure(x))
+# THEORY rejected_conditioned_means_impure
+# EXPECT rejected_conditioned_means_impure F
+all x.((Dharma(x) & Conditioned(x)) -> Impure(x))
+```
+
+```nltk-valuation
+Dharma => {form,feeling,reflection,formation,cognition,path,space_case}
+Conditioned => {form,feeling,reflection,formation,cognition,path}
+FiveBaseMember => {form,feeling,reflection,formation,cognition,path}
+CourseDetermination => {form,feeling,reflection,formation,cognition,path}
+Kathavastu => {form,feeling,reflection,formation,cognition,path}
+HasNihsara => {form,feeling,reflection,formation,cognition,path}
+HasVastu => {form,feeling,reflection,formation,cognition,path}
+Unconditioned => {space_case}
+Pure => {path,space_case}
+Impure => {form,feeling,reflection,formation,cognition}
+```
+
+**Model checks.** The six conditioned representatives are cases, not a
+six-Base roster. Removing any of their four determinations or changing
+their classification must fail. Space is outside the conditioned
+restriction. The Path supplies the inherited counterexample to
+“conditioned means Impure.” A second test interpretation can assign one
+predicate outside that restriction without assigning the others: the
+verse formula does not equate their unrestricted extensions.
+
+**Bhāṣya determination.** Conditioned Dharmas are explained through
+conditions coming together and acting together, not production by one
+condition alone. The name also applies to future Dharmas by kind.
+The attributed cause-gloss is not turned into a general identity between
+*vastu*, *hetu*, āśraya, and ālambana.
+
+**Organon interpretation.** The following retains the Wheel reading.
+Its functional names are interpreted determinations, not additional
+Sanskrit leaves or equalities proved by the feature parse.
 
 ```text
 Conditioned(x) ↔ MemberOfFiveBases(x)

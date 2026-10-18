@@ -28,6 +28,15 @@ tadvijñānāśrayā rūpaprasādāś cakṣurādayaḥ // 1.09 //
 | rūpaprasādāḥ | rūpa-prasādāḥ; nominative plural | clarities of Form |
 | cakṣurādayaḥ | cakṣus-ādayaḥ; nominative plural | beginning with the eye |
 
+**Grammar tokens.** Verse-order IAST with external sandhi opened.
+*Pañcendriyāṇi* becomes *pañca indriyāṇi*; both occurrences of *pañca*
+remain, counting different groups. The two support compounds remain
+whole leaves. No covert token is needed.
+
+```text
+# tokens: rūpam pañca indriyāṇi arthāḥ pañca avijñaptiḥ eva ca tadvijñānāśrayāḥ rūpaprasādāḥ cakṣurādayaḥ
+```
+
 ## 4. Grammar
 
 The feature chart parses the enumeration and the Faculty predication.
@@ -76,6 +85,14 @@ nominal predication with an understood copula. Its three terms agree.
 The Bhāṣya resolves *cakṣurādayaḥ* as the five named Faculties and the
 *tad-* reference as the corresponding sensory Cognitions. The grammar
 does not insert Cognition into the Form enumeration.
+
+**Close construe.** Form is five Faculties, five meanings, and avijñapti.
+The eye and the rest are clarities of Form supporting their corresponding
+Cognitions.
+
+`Faculty` in this local signature means these five sensory Faculties,
+not every Faculty discussed in chapter 2. The dependency vocabulary is
+checked, but repeated numeral occurrences are not separately indexed.
 
 ## 5. Translation
 
@@ -149,12 +166,14 @@ the simplified semantic result of the feature parse.
 
 ```nltk-fol
 # THEORY verse
+# EXPECT verse T
 # [verse; prose resolves the five Faculties and corresponding Cognitions]
 all x.(Faculty(x) -> (exists c.(Cognition(c) & Corresponds(c,x) & Supports(x,c)) & ClarityOfForm(x)))
 # [verse; prose: etavan rupaskandhah] exhaustive membership by the three groups
 all x.(FormMember(x) <-> (Faculty(x) | Meaning(x) | Avijnapti(x)))
 
 # THEORY prose
+# EXPECT prose T
 # [prose] the two fivefold lists, with avijnapti named but not defined
 all x.(Faculty(x) <-> (x = eye | x = ear | x = nose | x = tongue | x = body))
 all x.(Meaning(x) <-> (x = visible | x = sound | x = odor | x = taste | x = tangible))
@@ -169,13 +188,16 @@ Supports(body,bodycognition) & Corresponds(bodycognition,body)
 all c.(Cognition(c) -> -FormMember(c))
 
 # THEORY counterexamples
+# EXPECT counterexamples T
 exists f c.(Faculty(f) & Cognition(c) & Supports(f,c) & -(f = c))
 exists x.(FormMember(x) & -VisibleMeaning(x))
 
 # THEORY rejected_support_is_identity
+# EXPECT rejected_support_is_identity F
 all f c.(Supports(f,c) -> f = c)
 
 # THEORY rejected_form_is_only_visible
+# EXPECT rejected_form_is_only_visible F
 all x.(FormMember(x) -> VisibleMeaning(x))
 ```
 

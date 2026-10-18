@@ -73,7 +73,7 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   the grammar may derive the §8 formula by the parse (see 8.13). `Pred => {}`
   means an empty extension; NLTK itself reads it as a phantom `''` element,
   so the audit loader corrects this.
-- The chapter 1 Grammar–Logic pilot (1.01–1.03) annotates the normalized
+- The chapter 1 Grammar–Logic pilots (1.01–1.11 and 1.16–1.19) annotate the normalized
   IAST token stream beneath the Lexical Analysis table. It preserves verse
   order, opens sandhi, and marks Bhāṣya-resolved ellipses with `∅-` and
   `SUPPLIED=prose`. The annotation must match the grammar's `# tokens:`
@@ -87,6 +87,33 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   relations; do not introduce Object for viṣaya or ālambana.
 - Validate this stronger pilot contract with
   `python Vasubandhu/Organon/tests/audit_nltk_blocks.py --chapter 1 --start 1 --end 3 --strict`.
+  Extend `--end` to `6` for the Pure/Impure division, space, and the two
+  cessations. The accepted and rejected theories in 1.04–1.06 have explicit
+  truth expectations; taking as ālambana is not conflated with persistence,
+  and attainment of cessation is not production of an unconditioned Dharma.
+  Extend `--end` to `7` for the conditioned five-Base collective and its
+  four resumed determinations. Shared reference is not predicate identity;
+  the attributed *vastu*–cause gloss is not a hidden semantic equation.
+  Extend `--end` to `8` for the Impure restriction, Bases of appropriation,
+  conflict, and five further names. The Pure Path remains a Base member
+  without becoming a member of a Base of appropriation.
+  Extend `--end` to `9` for Form's eleven-kind roster and the five sensory
+  Faculties as clarities supporting corresponding Cognitions. Here the
+  parse derives the Faculty predication only; the roster is separate FOL,
+  tested for distinctness, membership, and exclusion of supported Cognition.
+  Extend `--end` to `10` for the five meanings' counts. Twofold analysis
+  and twentyfold enumeration of visible Form stay distinct; numerical
+  labels do not perform arithmetic. Tests count the supplied finite
+  rosters without replacing the verse's counts by attributed alternatives.
+  Extend `--end` to `11` for *avijñapti*: relative/correlative naming,
+  ethical alternatives, Elemental dependence, and consciousness-state scope.
+  Acquisition prevents ethical continuity alone from becoming a sufficient
+  definition; the Bhāṣya's non-disclosure and origins remain separate rules.
+  Use `--start 16 --end 19 --strict` for the Principle Processor pilot.
+  It tests the Cognition classifications, immediately-past Mind office,
+  joint inclusion, and paired-site classification. Form and Dharma
+  definitions in 1.04–1.15 remain declared dependencies, not results of
+  that pilot; return to those units before completing the chapter.
   Strict mode checks token annotation, dependency vocabulary coverage,
   semantic closure, reuse in the theory, symbol declarations, and expected
   truth values. Dependency coverage is not dependency parsing: the block

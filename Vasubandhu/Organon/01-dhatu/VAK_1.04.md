@@ -28,6 +28,14 @@ sāsravāḥ āsravās teṣu yasmāt samanuśerate // 1.04 //
 | yasmāt | causal indeclinable | because |
 | samanuśerate | 3rd plural middle, present | persist |
 
+**Grammar tokens.** Verse-order IAST with sandhi opened. The coordinated
+first table row becomes two leaves; the repeated *sāsravāḥ* is retained.
+No covert word is inserted.
+
+```text
+# tokens: sāsravāḥ anāsravāḥ dharmāḥ saṃskṛtāḥ mārgavarjitāḥ sāsravāḥ āsravāḥ teṣu yasmāt samanuśerate
+```
+
 ## 4. Grammar
 
 The feature grammar parses a normalized, compound-divided token sequence.
@@ -177,10 +185,12 @@ exclusivity reads impure / pure as a division, as the prose confirms.
 
 ```nltk-fol
 # THEORY verse
+# EXPECT verse T
 # [verse] division, class specification, and reason-clause content
 (all x.(Dharma(x) -> ((Impure(x) | Pure(x)) & -(Impure(x) & Pure(x)))) & all x.(Dharma(x) -> (Impure(x) <-> (Conditioned(x) & -PathTruth(x)))) & all x.((Dharma(x) & Conditioned(x) & -PathTruth(x)) -> exists a.(Asrava(a) & PersistsIn(a,x))))
 
 # THEORY prose
+# EXPECT prose T
 # [prose] the Path is conditioned and pure; no asrava persists in either Truth
 all x.(PathTruth(x) -> (Dharma(x) & Conditioned(x) & Pure(x)))
 all x.(CessationTruth(x) -> Dharma(x))
@@ -189,18 +199,22 @@ all a x.((Asrava(a) & (PathTruth(x) | CessationTruth(x))) -> -PersistsIn(a,x))
 all x.((PathTruth(x) | CessationTruth(x)) -> exists a.(Asrava(a) & CanTakeAsAlambana(a,x)))
 
 # THEORY counterexamples
+# EXPECT counterexamples T
 # [prose] possible taking does not require persistence in what is taken
 exists a x.(Asrava(a) & CanTakeAsAlambana(a,x) & -PersistsIn(a,x))
 # [prose] conditioned and pure is an admitted case
 exists x.(Dharma(x) & Conditioned(x) & Pure(x))
 
 # THEORY rejected_taking_entails_persistence
+# EXPECT rejected_taking_entails_persistence F
 all a x.((Asrava(a) & CanTakeAsAlambana(a,x)) -> PersistsIn(a,x))
 
 # THEORY rejected_conditioned_entails_impure
+# EXPECT rejected_conditioned_entails_impure F
 all x.((Dharma(x) & Conditioned(x)) -> Impure(x))
 
 # THEORY rejected_pure_entails_unconditioned
+# EXPECT rejected_pure_entails_unconditioned F
 all x.((Dharma(x) & Pure(x)) -> -Conditioned(x))
 ```
 

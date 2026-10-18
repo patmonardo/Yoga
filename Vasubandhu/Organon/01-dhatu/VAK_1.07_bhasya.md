@@ -109,4 +109,9 @@ What persists is Impure. A Rational Dharma does not Persist. The cause-gloss is 
 
 ## 6. Review Status
 
-Kārikā anchor copies the literal. Lexical Analysis replaces Padaccheda on the verse study. The witness omission of `saṃjñāskandha` remains unpatched. Nirvāṇa-as-exit and *vastu*-as-cause stay glosses. The wheel is in the Interpretation, not in the conventional line.
+Kārikā anchor copies the Bhāṣya-informed study translation. Lexical Analysis
+includes the normalized token annotation; §4 and §8 of the paired study
+now give executable Grammar–Logic. The witness omission of `saṃjñāskandha`
+remains unpatched. Nirvāṇa-as-exit and the attributed *vastu*-as-cause
+remain commentary glosses. The Wheel is developed in Interpretation,
+not substituted for the conventional translation.

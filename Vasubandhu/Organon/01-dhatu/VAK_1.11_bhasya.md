@@ -141,8 +141,9 @@ does not. Outward manifestation is not the whole account.
 
 ## 9. Interpretation
 
-Named, then counted around, then defined. The word stays. What the organ
-sends arrives here as a continuity that does not inform another. Consciousness
+Named, then counted around, then defined. The word stays. Outward action
+need not exhaust the account: the summary includes absorption as
+well as *vijñapti*. The continuity does not inform another. Consciousness
 may be elsewhere, absent, or present. The stream does not wait on the
 occurrent state.
 
@@ -156,6 +157,14 @@ Which Elements, and the later dispute about form-status, stay shut.
 
 The reading is once, here. 1.12 is not opened.
 
+**Meaning-operator inquiry.** The operative distinction here is between
+disclosure to another and an ethically qualified continuity. This supports
+investigating efficacy that does not require current manifestation. It
+does not yet specify how two meanings combine: neither this verse nor its
+prose uses *saṃyoga*. A comparison with Patañjali should therefore ask what
+is joined, by what rule, and how that joining relates to the continuing
+determination called *avijñapti*, rather than identify the two terms.
+
 ## 10. Review Status
 
 Upgraded reading of the eleventh Bhāṣya study. The unit through the summary
@@ -164,3 +173,8 @@ checked against the running Sanskrit. *Anubandha* preferred to the local
 
 Cognition withdrawn. The name stays Sanskrit. Consciousness is kept for
 *citta*. The next study is not opened.
+
+The paired kārikā now has verse-order tokens, a unifying feature grammar,
+derived naming-and-scope semantics, and finite countermodels. The anchor
+retains its single Bhāṣya-informed translation. The Meaning-operator
+inquiry is recorded without adding a composition operation to the verse.

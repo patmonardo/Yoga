@@ -31,24 +31,59 @@ dvitve 'pi cakṣurādīnāṃ śobhārthaṃ tu dvayodbhavaḥ // 1.19 //
 
 The commentary restricts the eye and the rest to eye, ear, and nose. Tongue and body do not raise the count.
 
-## 4. Grammar
+**Grammar tokens.** Verse-order IAST with sandhi opened. The first
+compound is one leaf, combining the first four lexical rows; *dvitve api*
+is separated. *Cakṣus-ādi* is restricted by the Bhāṣya to eye, ear, and
+nose. No covert token is needed.
 
 ```text
-jāti-gocara-vijñāna-sāmānyāt
-    → eka-dhātutā
-    dvitve api
-
-tu
-    śobhā-artham dvaya-udbhavaḥ
+# tokens: jāti-gocara-vijñāna-sāmānyāt eka-dhātutā dvitve api cakṣus-ādīnām śobhā-artham tu dvaya-udbhavaḥ
 ```
 
-The first clause is an ablative of cause. Commonality of kind, of range, and of principle is why there is one principle, even in duality. *Tu* turns the question. The pair is not the ground of the count. The pair is for beauty.
+## 4. Grammar
+
+The causal ablative gives three commonalities; the concessive locative
+retains duality without doubling the Principle. *Tu* turns from why one
+Principle to why two sites. The purpose of beauty is not a fourth
+criterion of Principle identity.
+
+```nltk-fcfg
+% start S
+# tokens: jāti-gocara-vijñāna-sāmānyāt eka-dhātutā dvitve api cakṣus-ādīnām śobhā-artham tu dvaya-udbhavaḥ
+S[SEM=<(?identity & ?arising)>] -> IDENTITY[SEM=?identity] ARISING[SEM=?arising]
+IDENTITY[SEM=<?scope(?shared)(?single)>] -> COMMON[CASE=abl,SEM=?shared] SINGLE[CASE=nom,NUM=?n,SEM=?single] DUAL[CASE=loc] EVEN SCOPE[CASE=gen,NUM=pl,SEM=?scope]
+ARISING[SEM=<?purpose(?arising)>] -> PURPOSE[SEM=?purpose] CONTRAST PAIR[CASE=nom,NUM=sg,SEM=?arising]
+COMMON[CASE=abl,SEM=<\x.(CommonKind(x) & CommonRange(x) & CommonCognition(x))>] -> 'jāti-gocara-vijñāna-sāmānyāt'
+SINGLE[CASE=nom,NUM=sg,GEN=f,SEM=<\x.OnePrinciple(x)>] -> 'eka-dhātutā'
+DUAL[CASE=loc,NUM=sg] -> 'dvitve'
+EVEN -> 'api'
+SCOPE[CASE=gen,NUM=pl,SEM=<\P.\Q.all x.((PairedEyeEarNose(x) & P(x)) -> Q(x))>] -> 'cakṣus-ādīnām'
+PURPOSE[SEM=<\P.all x.(PairedEyeEarNose(x) -> (P(x) & ForBeautyOfSupport(x)))>] -> 'śobhā-artham'
+CONTRAST -> 'tu'
+PAIR[CASE=nom,NUM=sg,GEN=m,SEM=<\x.ArisesAsPair(x)>] -> 'dvaya-udbhavaḥ'
+```
+
+```nltk-dep
+'eka-dhātutā' -> 'jāti-gocara-vijñāna-sāmānyāt' | 'dvitve' | 'cakṣus-ādīnām'
+'dvitve' -> 'api'
+'dvaya-udbhavaḥ' -> 'śobhā-artham' | 'tu'
+```
+
+**Close construe.** Despite the duality of eye and the rest, common kind,
+range, and Cognition ground one Principle; arising as a pair is for the
+beauty of the support.
+
+`x` represents a paired arrangement, not either anatomical site alone.
+The compound's *vijñāna* is Cognition, not dhātu. The Bhāṣya explains
+the common Cognition through both sites supporting one Eye-Cognition.
+The grammar does not identify
+two sites numerically, nor infer a Principle merely from bodily beauty.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> From commonality of kind, range, and principle, there is the status of one
+> From commonality of kind, range, and Cognition, there is the status of one
 > principle, even in the duality of the eye and the rest. But the arising as
 > a pair is for the sake of beauty.
 
@@ -64,11 +99,11 @@ Again, two lines. The first answers the count. The second answers the body.
 
 The objection is anatomical. Two eyes, two ears, two nostrils: eighteen plus three, twenty-one. The reply refuses the inference. Two sites are not two principles.
 
-Three commonalities, and all three. Kind: both have the nature of the eye. Range: both take visible form. Principle: both are supports of one eye-principle. The same is to be applied to ear and nose. Not tongue. Not body. Those do not generate the objection.
+Three commonalities, and all three. Kind: both have the nature of the eye. Range: both take visible form. Cognition: both are supports of one Eye-Cognition. The same is to be applied to ear and nose. Not tongue. Not body. Those do not generate the objection.
 
 *Tu* keeps the second question honest. Why two, if one principle? For the beauty of the support. One eye-site, one ear-site, one nostril-opening, and the commentary says there would be great disfigurement. Beauty is not a fourth ground of the count. It explains the pair.
 
-1.18 said inclusion is by own-nature. Here own-nature is not the count of sites. Kind, range, and principle, in common, are the nature that includes. The meanings of base, essence, and principle are the next verse. Not this one.
+1.18 said inclusion is by own-nature. Here own-nature is not the count of sites. Kind, range, and Cognition, in common, ground the single Principle. The meanings of base, essence, and principle are the next verse. Not this one.
 
 ## 7. Technical Vocabulary
 
@@ -76,7 +111,7 @@ Three commonalities, and all three. Kind: both have the nature of the eye. Range
 |---|---|---|
 | jāti | kind | the nature of the eye; not birth |
 | gocara | range | both take visible form |
-| vijñāna | cognition | one eye-cognition; the principle is the eye-principle |
+| vijñāna | Cognition | both sites support one Eye-Cognition |
 | sāmānya | commonality | the three together |
 | eka-dhātutā | status of one principle | the count |
 | dvitva | duality | two sites, conceded |
@@ -86,6 +121,42 @@ Three commonalities, and all three. Kind: both have the nature of the eye. Range
 | rūpa-viṣaya | visible form as condition | the range |
 
 ## 8. Logical Determination
+
+**Kārikā, derived.** The first universal requires all three commonalities
+within the eye–ear–nose scope. The second gives paired arising its purpose,
+not a further test of Principle identity.
+
+```nltk-sem
+# derived by the section 4 parse
+((all x.((PairedEyeEarNose(x) & (CommonKind(x) & CommonRange(x) & CommonCognition(x))) -> OnePrinciple(x))) & (all x.(PairedEyeEarNose(x) -> (ArisesAsPair(x) & ForBeautyOfSupport(x)))))
+```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+((all x.((PairedEyeEarNose(x) & (CommonKind(x) & CommonRange(x) & CommonCognition(x))) -> OnePrinciple(x))) & (all x.(PairedEyeEarNose(x) -> (ArisesAsPair(x) & ForBeautyOfSupport(x)))))
+```
+
+```nltk-valuation
+PairedEyeEarNose => {eyes,ears,nostrils}
+CommonKind => {eyes,ears,nostrils}
+CommonRange => {eyes,ears,nostrils}
+CommonCognition => {eyes,ears,nostrils}
+OnePrinciple => {eyes,ears,nostrils}
+ArisesAsPair => {eyes,ears,nostrils}
+ForBeautyOfSupport => {eyes,ears,nostrils}
+```
+
+**Model checks.** Denying One Principle to a scoped pair with all three
+commonalities must fail. If a commonality is absent, this rule no longer
+warrants that conclusion; it does not prove the converse. A beauty-only
+case outside the scoped arrangements does not acquire One Principle.
+The numeral “one” is represented by a classification predicate, not by
+equating the two bodily sites.
+
+**Bhāṣya determination.** The objection and explanatory movement remain
+below. The aesthetic rationale is the source's claim, not a modern
+anatomical explanation or a universal principle of paired development.
 
 ```text
 objection
@@ -97,8 +168,8 @@ reply
 
     kind in common
     range in common
-    principle in common
-        → one eye-cognition
+    Cognition in common
+        → one Eye Principle despite two sites
         likewise ear, nose
 
 why one?

@@ -114,3 +114,8 @@ The Sanskrit witness and continuous translation are preserved. Sections
 dependency grammar, lambda semantics, FOL theories, and finite valuation.
 This pilot is confined to 1.09; the detailed analysis of the five meanings
 is not opened.
+
+The lexical token annotation and strict audit now agree with the parse
+input. Accepted and rejected theories have executable truth expectations;
+regression tests check the eleven distinct kinds, the exclusion of
+Cognition from Form membership, and the corresponding support relation.

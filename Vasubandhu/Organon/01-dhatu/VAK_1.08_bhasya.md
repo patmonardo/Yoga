@@ -96,4 +96,8 @@ What persists is Impure. The Path is Conditioned and Pure. A Rational Dharma doe
 
 ## 6. Review Status
 
-Kārikā anchor copies the literal. Lexical Analysis replaces Padaccheda on the verse study. The three relations of appropriation, the conflict gloss, and the five coextensive names remain distinct. Witness unpatched. Printed editions not collated.
+Kārikā anchor copies the Bhāṣya-informed study translation. The paired
+study includes lexical token annotations and executable Grammar–Logic.
+The three directed relations of appropriation, the conflict gloss, and
+the five coextensive names remain distinct. Witness unpatched. Printed
+editions not collated.

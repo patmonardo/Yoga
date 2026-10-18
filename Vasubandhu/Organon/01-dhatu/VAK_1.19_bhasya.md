@@ -53,13 +53,13 @@ repair stays marked. Not a critical text.
 Objection. But should there not be twenty-one principles, because the eye is
 twofold, and the ear and the nose as well?
 
-Answer. There should not. For, from commonality of kind, range, and principle,
+Answer. There should not. For, from commonality of kind, range, and Cognition,
 there is the status of one principle, even in the duality of the eye and the
 rest.
 
 Here, commonality of kind, because both have the nature of the eye.
 Commonality of range, because both take visible form. Commonality of
-principle, because both are supports of one eye-principle. Therefore there is
+Cognition, because both are supports of one Eye-Cognition. Therefore there is
 just one eye-principle. The same is to be applied to ear and nose.
 
 But the arising as a pair is for the sake of beauty. Even in the status of one
@@ -72,7 +72,7 @@ ear-site, and a single nostril-opening, there would be great disfigurement.
 | Voice | Move |
 |---|---|
 | Objection | Eighteen plus three pairs: twenty-one. |
-| Answer | No. Kind, range, and principle in common. |
+| Answer | No. Kind, range, and Cognition in common. |
 | Application | The same for ear and nose. |
 | Second question | Why a pair, if one principle? |
 | Answer | For the beauty of the support. Otherwise, disfigurement. |
@@ -89,7 +89,7 @@ one principle.
 |---|---|---|
 | kind | both have the nature of the eye | a second kind |
 | range | both take visible form | a second range |
-| principle | both support one eye-principle | a second principle |
+| Cognition | both support one Eye-Cognition | a second Principle inferred from two sites |
 
 *Jāti* here is the nature of the eye. Not birth. Not caste.
 
@@ -100,17 +100,17 @@ claim that each eye receives the same view.
 not say both eyes are active in every seeing. It does not add a second organ
 to the Form System. The organ is one principle, seated at two sites.
 
-All three belong to the answer. The principle-term alone is not the verse.
+All three belong to the answer. The Principle count alone is not the verse.
 
 ## 6. Ear and Nose
 
 The same is to be applied. The commentary does not repeat the clauses. Ear
-shares the nature of the ear, sound, and one ear-principle. Nose shares the
-nature of the nose, odor, and one nose-principle.
+shares the nature of the ear, sound, and one Ear-Cognition. Nose shares the
+nature of the nose, odor, and one Nose-Cognition.
 
 The nostril-opening in the last sentence is the site. It does not undo the
 distinction between the organ and the gross place. The objection is generated
-by the pairing. The reply is about kind, range, and principle.
+by the pairing. The reply is about kind, range, and Cognition.
 
 Tongue and body are not in the objection. They are not added.
 
@@ -128,7 +128,7 @@ second is not a reason for the first.
 ## 8. Decisions for the Kārikā
 
 1. The objection is eighteen plus three, twenty-one.
-2. The three commonalities are kind, range, and principle, stated separately.
+2. The three commonalities are kind, range, and Cognition, stated separately.
 3. One principle stands with the pair.
 4. The eye is extended to ear and nose. Not to tongue or body.
 5. One eye-principle is not a physiology of seeing.
@@ -138,7 +138,7 @@ second is not a reason for the first.
 ## 9. Interpretation
 
 1.18 included by own-nature. This verse says what that nature is not. It is not
-the number of sites. Two eyes have one nature, one range, one principle. That
+the number of sites. Two eyes share kind, range, and Cognition, grounding one Principle. That
 commonality is the inclusion. The sites remain two.
 
 The sites are substrate: the Impure support, seated twice. They are not two

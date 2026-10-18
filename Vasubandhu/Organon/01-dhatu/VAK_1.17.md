@@ -30,17 +30,56 @@
 
 The commentary tightens *anantarātīta* to *samanantara-niruddha*: ceased immediately before, nothing between.
 
-## 4. Grammar
+**Grammar tokens.** Verse-order IAST, with sandhi opened and combined
+lexical rows separated. The purpose compound remains one token. No covert
+successor is supplied: its actual arising is not required for Mind status.
 
 ```text
-ṣaṇṇām vijñānam yat anantara-atītam
-    = tat manaḥ
-
-ṣaṣṭha-āśraya-prasiddhi-artham
-    dhātavaḥ aṣṭādaśa smṛtāḥ
+# tokens: ṣaṇṇām anantara-atītam vijñānam yat hi tat manaḥ ṣaṣṭha-āśraya-prasiddhi-artham dhātavaḥ aṣṭādaśa smṛtāḥ
 ```
 
-*Yat* and *tat* are the same neuter. The genitive draws the cognition from the six already named. The identity is relational. The verse does not add a seventh principle. The purpose compound qualifies the second clause. It does not say that the eighteen are eighteen substances.
+## 4. Grammar
+
+The relative-correlative *yat … tat* restricts the cognition to one of the
+six that is immediately past. The neuter adjective agrees with *vijñānam*;
+plural *smṛtāḥ* agrees with *dhātavaḥ*. The purpose compound scopes over
+the teaching of eighteen, not over the cessation of a cognition.
+
+```nltk-fcfg
+% start S
+# tokens: ṣaṇṇām anantara-atītam vijñānam yat hi tat manaḥ ṣaṣṭha-āśraya-prasiddhi-artham dhātavaḥ aṣṭādaśa smṛtāḥ
+S[SEM=<(?m & ?t)>] -> MINDCLAUSE[SEM=?m] TEACHING[SEM=?t]
+MINDCLAUSE[SEM=<?rel(?six(?past(?cog)))(?mind)>] -> SIX[CASE=gen,SEM=?six] PAST[CASE=nom,NUM=?n,GEN=?g,SEM=?past] COG[CASE=nom,NUM=?n,GEN=?g,SEM=?cog] REL[CASE=nom,NUM=?n,GEN=?g,SEM=?rel] HI CORR[CASE=nom,NUM=?n,GEN=?g] MIND[CASE=nom,NUM=?n,GEN=?g,SEM=?mind]
+TEACHING[SEM=<?purpose(?taught(?count))>] -> PURPOSE[SEM=?purpose] PRINCIPLES[CASE=nom,NUM=?n,GEN=?g] COUNT[SEM=?count] TAUGHT[CASE=nom,NUM=?n,GEN=?g,SEM=?taught]
+SIX[CASE=gen,NUM=pl,SEM=<\P.\x.(P(x) & OfSixCognitions(x))>] -> 'ṣaṇṇām'
+PAST[CASE=nom,NUM=sg,GEN=n,SEM=<\P.\x.(P(x) & ImmediatelyPast(x))>] -> 'anantara-atītam'
+COG[CASE=nom,NUM=sg,GEN=n,SEM=<\x.Cognition(x)>] -> 'vijñānam'
+REL[CASE=nom,NUM=sg,GEN=n,SEM=<\P.\Q.all x.(P(x) -> Q(x))>] -> 'yat'
+HI -> 'hi'
+CORR[CASE=nom,NUM=sg,GEN=n] -> 'tat'
+MIND[CASE=nom,NUM=sg,GEN=n,SEM=<\x.MindRole(x)>] -> 'manaḥ'
+PURPOSE[SEM=<\P.(P & ForEstablishing(principle_teaching,sixth_support))>] -> 'ṣaṣṭha-āśraya-prasiddhi-artham'
+PRINCIPLES[CASE=nom,NUM=pl,GEN=m] -> 'dhātavaḥ'
+COUNT[SEM=<eighteen>] -> 'aṣṭādaśa'
+TAUGHT[CASE=nom,NUM=pl,GEN=m,SEM=<\n.TaughtCount(principle_teaching,n)>] -> 'smṛtāḥ'
+```
+
+```nltk-dep
+'manaḥ' -> 'vijñānam' | 'tat'
+'vijñānam' -> 'ṣaṇṇām' | 'anantara-atītam' | 'yat' | 'hi'
+'smṛtāḥ' -> 'ṣaṣṭha-āśraya-prasiddhi-artham' | 'dhātavaḥ'
+'dhātavaḥ' -> 'aṣṭādaśa'
+```
+
+**Close construe.** Of the six, whichever Cognition is immediately past,
+that is Mind. Eighteen Principles are taught to establish the sixth support.
+
+This does not add a seventh independent substance to the six Cognitions.
+It establishes a relational office. `ImmediatelyPast` is evaluated at a
+fixed contextual time in this first-order projection; it is not a
+definition of all Mind by a timeless equation. The Bhāṣya's final arhat
+case retains Mind status despite the absence of a successor. Support
+status therefore does not entail actual production of another Cognition.
 
 ## 5. Translation
 
@@ -84,6 +123,43 @@ The last test is quiet. If mind meant whatever produces the next, an arhat's fin
 | prasiddhi | establishment | so that the sixth support be known |
 
 ## 8. Logical Determination
+
+**Kārikā, derived.** A restricted universal assigns Mind status; a separate
+purpose-qualified claim explains the eighteenfold teaching.
+
+```nltk-sem
+# derived by the section 4 parse
+((all x.(((Cognition(x) & ImmediatelyPast(x)) & OfSixCognitions(x)) -> MindRole(x))) & (TaughtCount(principle_teaching,eighteen) & ForEstablishing(principle_teaching,sixth_support)))
+```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+((all x.(((Cognition(x) & ImmediatelyPast(x)) & OfSixCognitions(x)) -> MindRole(x))) & (TaughtCount(principle_teaching,eighteen) & ForEstablishing(principle_teaching,sixth_support)))
+```
+
+```nltk-valuation
+principle_teaching => teaching
+eighteen => eighteen_count
+sixth_support => mind_support
+Cognition => {ceased,current,final}
+OfSixCognitions => {ceased,current,final}
+ImmediatelyPast => {ceased,final}
+MindRole => {ceased,final}
+TaughtCount => {(teaching,eighteen_count)}
+ForEstablishing => {(teaching,mind_support)}
+HasSuccessor => {ceased}
+```
+
+**Model checks.** `current` prevents the overstatement that every Cognition
+is presently Mind. `final` has Mind status without a successor, representing
+the commentary's limiting case rather than deriving it from the verse.
+Removing Mind status from a just-ceased case must fail. Removing
+immediacy from a case removes the rule's warrant; it does not assert that
+all earlier Cognitions retain this particular temporal office.
+
+**Bhāṣya determination.** The following support analysis and objection
+are commentary elaboration, not extra output of the token parse.
 
 ```text
 1.16   seven names: six cognitions + mind-principle

@@ -29,24 +29,52 @@ dhātunā ca svabhāvena parabhāvaviyogataḥ // 1.18 //
 *Saṃgraha* is inclusion. The commentary also uses it for the gathering of an
 assembly. The two uses are not the same ground. The verse's use is the first.
 
-## 4. Grammar
+**Grammar tokens.** Verse-order IAST with sandhi opened. The two *ca*
+tokens are retained. The Bhāṣya names Form Base, Mind Essence, and Dharma
+Principle; these referents are lexical semantic resolutions, not additional
+overt words or new categories invented by the grammar.
 
 ```text
-sarva-saṃgrahaḥ
-    = ekena skandhena
-    + ekena āyatanena
-    + ekena dhātunā
-
-ground = svabhāvena
-    because parabhāva-viyogataḥ
+# tokens: sarva-saṃgrahaḥ ekena skandhena āyatanena ca dhātunā ca svabhāvena parabhāva-viyogataḥ
 ```
 
-*Ekena* distributes. By one base, by one essence, and by one principle. The
-commentary names them: form-base, mind-essence, dharma-principle. Jointly. Not
-each alone.
+## 4. Grammar
 
-*Svabhāvena* is the ground. A dharma is separate from another's nature. It is
-not included by the nature it is separate from.
+*Ekena* distributes over three singular instrumental nouns. Their combined
+coverage is universal; it is not a universal claim for each category
+separately. *Svabhāvena* specifies the mode of inclusion and the final
+ablatival expression gives the ground.
+
+```nltk-fcfg
+% start S
+# tokens: sarva-saṃgrahaḥ ekena skandhena āyatanena ca dhātunā ca svabhāvena parabhāva-viyogataḥ
+S[SEM=<?all(?one(?base)(?essence)(?principle))(?own)(?separate)>] -> ALL[SEM=?all] ONE[CASE=ins,NUM=?n,SEM=?one] BASE[CASE=ins,NUM=?n,SEM=?base] ESSENCE[CASE=ins,NUM=?n,SEM=?essence] AND PRINCIPLE[CASE=ins,NUM=?n,SEM=?principle] AND OWN[CASE=ins,SEM=?own] SEPARATION[SEM=?separate]
+ALL[CASE=nom,NUM=sg,SEM=<\P.\O.\R.all x.(Dharma(x) -> (P(x) & O(x) & R(x)))>] -> 'sarva-saṃgrahaḥ'
+ONE[CASE=ins,NUM=sg,SEM=<\b.\a.\d.\x.(IncludedByOwnNature(x,b) | IncludedByOwnNature(x,a) | IncludedByOwnNature(x,d))>] -> 'ekena'
+BASE[CASE=ins,NUM=sg,GEN=m,SEM=<form_base>] -> 'skandhena'
+ESSENCE[CASE=ins,NUM=sg,GEN=n,SEM=<mind_essence>] -> 'āyatanena'
+AND -> 'ca'
+PRINCIPLE[CASE=ins,NUM=sg,GEN=m,SEM=<dharma_principle>] -> 'dhātunā'
+OWN[CASE=ins,SEM=<\x.InclusionByOwnNature(x)>] -> 'svabhāvena'
+SEPARATION[SEM=<\x.SeparateFromOtherNature(x)>] -> 'parabhāva-viyogataḥ'
+```
+
+```nltk-dep
+'sarva-saṃgrahaḥ' -> 'skandhena' | 'āyatanena' | 'dhātunā' | 'svabhāvena' | 'parabhāva-viyogataḥ'
+'skandhena' -> 'ekena'
+'āyatanena' -> 'ca'
+'dhātunā' -> 'ca'
+```
+
+**Close construe.** All are included by one Base, one Essence, and one
+Principle, jointly: by own-nature, because separated from another's nature.
+
+The disjunction is within the scope of “all”: each Dharma falls within
+at least one of the three. It is inclusive, allowing overlap at avijñapti.
+The singleton category referents encode *ekena*; no shared grammatical
+gender is imposed across the differently gendered nouns. The causal
+explanation is retained in the prose, while FOL records the inclusion and
+separation claims without pretending to derive one from the other.
 
 ## 5. Translation
 
@@ -102,6 +130,40 @@ nature. Two grounds. The science is the difference.
 | kādācitka | occasional | why the assembly is conventional |
 
 ## 8. Logical Determination
+
+**Kārikā, derived with Bhāṣya-resolved referents.** Universal coverage
+does not make the three projections identical.
+
+```nltk-sem
+# derived by the section 4 parse
+all x.(Dharma(x) -> (((IncludedByOwnNature(x,form_base) | IncludedByOwnNature(x,mind_essence)) | IncludedByOwnNature(x,dharma_principle)) & InclusionByOwnNature(x) & SeparateFromOtherNature(x)))
+```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+all x.(Dharma(x) -> (((IncludedByOwnNature(x,form_base) | IncludedByOwnNature(x,mind_essence)) | IncludedByOwnNature(x,dharma_principle)) & InclusionByOwnNature(x) & SeparateFromOtherNature(x)))
+```
+
+```nltk-valuation
+form_base => form_class
+mind_essence => mind_class
+dharma_principle => dharma_class
+Dharma => {eye,cognition,feeling,avijnapti,unconditioned}
+IncludedByOwnNature => {(eye,form_class),(cognition,mind_class),(feeling,dharma_class),(avijnapti,form_class),(avijnapti,dharma_class),(unconditioned,dharma_class)}
+InclusionByOwnNature => {eye,cognition,feeling,avijnapti,unconditioned}
+SeparateFromOtherNature => {eye,cognition,feeling,avijnapti,unconditioned}
+```
+
+**Model checks.** Removing a Dharma's sole inclusion must fail, but removing
+one of avijñapti's two inclusions leaves coverage intact. Tests separately
+pin its two classifications as Bhāṣya data. The model refutes “every Dharma
+belongs to all three.” Unconditioned dharmas have no Base membership here.
+
+**Dependency on the earlier system.** The valuation uses Form and Dharma
+determinations from 1.04–1.15 as declared inputs, not as results proved by
+this verse. Those sections still need the Grammar–Logic pass. The following
+preserves the commentary's wider census and own-nature explanation.
 
 ```text
 bases                  → all conditioned
