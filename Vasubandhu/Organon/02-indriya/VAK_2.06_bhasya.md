@@ -6,7 +6,7 @@
 >
 > caturdaśa tathānyāni nivṛtter indriyāṇi vā // 2.06 //
 
-> Or, for engagement, fourteen [Faculties] with respect to support, arising,
+> Or, for engagement, fourteen [Faculties] with respect to Basis, arising,
 > persistence, and experience; likewise, the others are Faculties of
 > withdrawal.
 
@@ -42,7 +42,7 @@ Word division is editorial. Repairs: śraddhadīni → śraddhādīni, caīṣā
 
 ## 3. Continuous Conventional Translation
 
-The word or indicates a difference of opinion. Others say: the six faculties are the support of engagement. The female and male faculties account for its arising, because it arises from them. The life-faculty accounts for its persistence, because it continues through that faculty. Experience occurs through the feelings. These, therefore, are the fourteen faculties. In just the same manner, the others concern withdrawal. For those beginning with faith are the supports of withdrawal; the faculty called “I shall know” is its arising; the knowledge-faculty is its persistence; and its experience is through the faculty of one who has known. For this reason there are precisely this many faculties, and for this same reason they have this order.
+The word or indicates a difference of opinion. Others say: the six faculties are the Basis of engagement. The female and male faculties account for its arising, because it arises from them. The life-faculty accounts for its persistence, because it continues through that faculty. Experience occurs through the feelings. These, therefore, are the fourteen faculties. In just the same manner, the others concern withdrawal. For those beginning with faith are the Bases of withdrawal; the faculty called “I shall know” is its arising; the knowledge-faculty is its persistence; and its experience is through the faculty of one who has known. For this reason there are precisely this many faculties, and for this same reason they have this order.
 
 Speech, however, is not a faculty with respect to speaking, because speaking depends upon particular training. Nor are hand and foot faculties, because they are not different from taking hold and moving about. For that very thing, arisen in another manner or in another place, is called taking hold or moving about. Moreover, snakes and other such creatures take hold and move about even without hands and feet. The anus likewise is not a faculty with respect to excretion, because heavy matter falls wherever there is space, and because wind propels it. Nor is the genital organ a faculty with respect to pleasure, for that pleasure is produced by the female and male faculties. Otherwise the throat, teeth, eyelids, and joints would also have to be faculties with respect to swallowing, chewing, opening and closing the eyes, and contracting and extending — or indeed everything that serves as a cause would be a faculty with respect to its own activity. Thus it is unreasonable to regard speech and the others as faculties.
 
@@ -58,14 +58,14 @@ The transition is not a new named speaker. The reported alternative and the rebu
 
 | Function | Engagement: fourteen | Withdrawal: eight |
 |---|---|---|
-| Support | the six | five beginning with faith |
+| Basis | the six | five beginning with faith |
 | Arising | female and male | I shall know |
 | Persistence | life | the knowledge-faculty |
 | Experience | the five feelings | one who has known |
 
 The conclusion is number and order. The order is the sequence of functions, not only a received list.
 
-Arising from female and male is not a complete account of generation. Life is continued standing. Feeling supplies experience. On the other course the five support, and the three are arising, persistence, and experience.
+Arising from female and male is not a complete account of generation. Life is continued standing. Feeling supplies experience. On the other course the five are the Basis, and the three are arising, persistence, and experience.
 
 Experience through one who has known can be read beside the pleasant abiding of 2.04. This unit does not repeat that explanation.
 
@@ -89,7 +89,7 @@ The grounds differ: training, non-difference from the act, the act without the m
 
 ## 8. The Bhāṣya's Decisions for Translation
 
-Pravṛtti is engagement, the ongoing course. Nivṛtti is withdrawal. The four functions give the range. Withdrawal is not a new substance, and unconditioned nirvāṇa is not made a produced thing.
+Pravṛtti is engagement, the ongoing course. Nivṛtti is withdrawal. The four functions give the range. *Āśraya* is Basis in both courses; it does not name *ālambana*, a cognitive Support. Withdrawal is not a new substance, and unconditioned nirvāṇa is not made a produced thing.
 
 Tathā carries the four. Vā marks the alternative. Prabhava supplies arising for the first of the three, parallel to utpatti.
 
@@ -99,7 +99,7 @@ Anukrama, the order, stays explicit. Ayuktam is unreasonable as faculty-status. 
 
 ## 9. Interpretation
 
-Two courses, one form: support, arising, persistence, experience. Withdrawal is determinate powers, not the absence of engagement. The alternative marker stands. This is not the only account.
+Two courses, one form: Basis, arising, persistence, experience. Withdrawal is determinate powers, not the absence of engagement. The alternative marker stands. This is not the only account.
 
 The array is what we subject ourselves to. Engagement and withdrawal are the two courses of that array. The principles remain the membership discriminator: speech and the acts are not admitted, because every cause is not a faculty. Adaptation is to this array and to those principles. Not the verse English.
 

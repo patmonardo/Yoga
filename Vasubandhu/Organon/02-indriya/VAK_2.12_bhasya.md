@@ -8,9 +8,9 @@
 
 > Except for the stainless triad, the Faculties are connected with the
 > desire realm. Excluding the female and male Faculties and the two painful
-> Faculties, the remainder are connected with the Form realm. Excluding also
-> pleasure and the Form-bearing Faculties, the remainder are connected with
-> the formless realm.
+> Faculties, the remainder are connected with the Form realm. Excluding in
+> addition both pleasure and gladness and the Form Faculties, the remainder
+> are connected with the Formless realm.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -35,7 +35,9 @@
 > kim avaśiṣyate / manojīvitopekṣendriyāṇi śraddhādīni ca pañca /
 > etāny ārūpyapratisaṃyuktāni santi nānyāni /
 
-The unit runs from printed 46.17 through 47.03 in `Vasubandhu/Sources/kosabhasya.txt`. Abandonment at 47.04 opens 2.13.
+The unit runs from printed 46.17 through 47.03 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). Abandonment at
+47.04 opens 2.13.
 
 Word division is editorial. Repairs: kāmachātau → kāmadhātau, akuśalā bhāvāccha → akuśalābhāvāc ca, avaśāiṣyate → avaśiṣyate, varttate → vartate. Anyaḥ puruṣabhāvo yaḥ kāmadhātau puruṣāṇāṃ bhavati is retained. No words are added to specify the other characteristic. No independent collation is claimed.
 
@@ -71,7 +73,9 @@ Pain and distress have separate reasons. Clarity of the support, and absence of 
 
 ## 7. The Formless Remainder
 
-Pleasure and gladness go, and what possesses form. Earlier exclusions stand. The eight are mind, life, neutral feeling, faith, vigor, mindfulness, concentration, and Discrimination.
+Pleasure and gladness go, and what possesses Form. Earlier exclusions
+stand. The eight are Mind, life, neutral feeling, faith, vigor,
+mindfulness, concentration, and discriminative comprehension.
 
 Female and male were already out of the Form Realm fifteen. Removing the remaining five of form, and the two pleasant faculties, leaves eight.
 
@@ -91,10 +95,22 @@ Realm-connection is another predicate. Faculty, connection, outflow, ethical qua
 
 The male name in the sūtra is not the male faculty. The unspecified characteristic is not invented.
 
-The platform holds the axis. A higher conditioned realm is not the stainless path. The principles remain deposited. Not the verse English.
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base without collapsing into Mind or consciousness.
+The Formless remainder retains Mind as a Faculty; it is neither the
+whole of Cognition nor an account of liberation. The classification
+does not make the stainless Path a higher conditioned realm.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The objection and the eight are kept. Connection is not occurrence.
+Reviewed with the kārikā against printed 46.17–47.03. The study
+translation now explicitly excludes both pleasure and gladness;
+the anchor matches exactly. Accusative dual exclusions and cumulative
+scope are distinguished from realm predicates.
+
+The objection concerning the male name and the separate reasons for
+pain and distress remain intact. Grammar–Logic checks the 19–15–8
+ranges and stainless exclusion without confusing possible connection
+with the occurrence of a Faculty in a bearer.
 
 2.13 has not been opened.

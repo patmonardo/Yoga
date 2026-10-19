@@ -6,11 +6,10 @@
 >
 > upekṣājīvitamanoyukto 'vaśyaṃ trayānvitaḥ // 2.17 //
 
-> Arhatship is said to be attained through eleven, however, because one
-> person may possess them. One joined with neutral feeling, life, or mind is
-> necessarily accompanied by the triad.
-
-The eleven was translated with 2.16. This study is possession. Any one is the commentary's anyatamena. Upekṣā follows the running witness.
+> Arhatship is said to be attained through eleven Faculties, however,
+> because that is possible across one person's repeated attainments.
+> One who possesses any one of neutral feeling, life, or Mind necessarily
+> possesses all three.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -38,7 +37,10 @@ The eleven was translated with 2.16. This study is possession. Any one is the co
 > ājñātāvīndriyeṇa pṛthagjanaśaikṣaikṣyā asamanvāgatāḥ /
 > apratiṣiddhāsvavasthāsu yathoktasamanvāgato veditavyaḥ /
 
-The unit runs from printed 50.09 through 50.22 in `Vasubandhu/Sources/kosabhasya.txt`. Further possession counts at 50.23 open 2.18.
+The possession unit runs from printed 50.09 through 50.22 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The numbered verse's
+eleven-person clause is studied with the attainment unit at 2.16.
+Further possession counts at 50.23 open 2.18.
 
 Word division is editorial. Repairs: anyo 'ynena → anyo 'nyena, kāmadhatau → kāmadhātau, apratipiddhāsu → apratiṣiddhāsu. Caturdhyāna is read as the fourth dhyāna, with the next sentence. Pṛthagjanaphalathānasamanvāgatāḥ and pṛthagjanaśaikṣaikṣyā are damaged. The translation follows the research reading and marks it provisional. No independent collation is claimed.
 
@@ -84,6 +86,12 @@ Established in fruits is not a claim that anyone who has attained a fruit can ne
 
 Samanvāgata is possessing, against attained and against arising. Yukta and anvita are resolved by that prose. No theory of the relation that establishes possession is supplied.
 
+Any one is the commentary's anyatamena; these very three resolves
+the second compound. Upekṣā follows the running witness. In the opening
+clause, one person's possibility concerns repeated attainments, not
+possession of all eleven. The study translation corrects that
+predicate shift without importing the possession question backward.
+
 Apratilabdha is not acquired. Vihīna is lost. Aniyama is no fixed rule for the remainder, given the triad.
 
 Born in a realm, ordinary person, free from desire, and established on a path are not one status.
@@ -92,10 +100,27 @@ Born in a realm, ordinary person, free from desire, and established on a path ar
 
 A necessary possession, and the rest variable. Absence has different grounds. A necessary possession is not a continuously occurring event.
 
-The three are life, mind, and neutral feeling in possession. Not a minimum theory of mind. Non-consciousness is not the word, and non-reflective is the look-ahead, not this verse. Not the verse English.
+The Organon determination is a necessary implication in endowment,
+not a minimum theory of Mind or a claim of continuously occurring
+neutral feeling. The grounds of absence remain distinct rather than
+being treated as one generic failure.
+
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base without collapsing into Mind or consciousness.
+Mind's necessary possession with life and neutral feeling does not
+identify those Faculties with one another or with Cognition.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The exclusions are kept. The path-status compounds stay provisional. The eleven stands in 2.16.
+Reviewed with the kārikā against printed 50.03–22, with the possession
+unit beginning at 50.09. The study translation replaces the incorrect
+eleven-Faculty possession claim with the Bhāṣya's repeated-attainment
+reading; the anchor matches exactly.
+
+Grammar–Logic tests reciprocal triad-possession without exact-total
+or occurrence claims. The realm, ordinary-person, dispassion, and
+severed-root qualifications remain explicit. The damaged path-status
+compounds are preserved as provisional and are not formalized as
+settled axioms.
 
 2.18 has not been opened.

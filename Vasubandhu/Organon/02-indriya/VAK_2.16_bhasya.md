@@ -6,11 +6,10 @@
 >
 > navāptir antyaphalayoḥ saptāṣṭanavabhir dvayoḥ // 2.16 //
 
-> In gradual death, however, four; with a wholesome [consciousness], five
-> everywhere as well. Attainment of the two extreme fruits is through nine;
-> of the two middle fruits, through seven, eight, or nine.
-
-The first half was translated with the death unit in 2.15. This study is the fruit question. The opening of the next verse answers the eleven: arhatship is nevertheless said to be attained through eleven, because that is possible for one person. Possession is not this unit.
+> In gradual death, however, four; with wholesome consciousness,
+> everywhere five in addition. The two extreme fruits, stream-entry and
+> arhatship, are attained through nine Faculties; the two middle fruits,
+> once-returning and non-returning, through seven, eight, or nine.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -36,7 +35,7 @@ The first half was translated with the death unit in 2.15. This study is the fru
 > atha bhūyovītarāgaḥ prāpnoti tasya navabhiryeneva srota āpattiphalasya /
 > anāgāmiphalaṃ yadyānupūrvikaḥ prāpnoti sa ca laukikena mārgeṇa tasya saptabhirindriyaiḥ prāptiḥ /
 > yathā sakṛdāgāmiphalasya /
-> atha lokottareṇa mārgeṇa tasyāṣṪbhistathaiva /
+> atha lokottareṇa mārgeṇa tasyāṣṭabhis tathaiva /
 > atha vītarāgaḥ prāpnoti tasya navabhiḥ /
 > yathā srota āpattiphalasya /
 > ayaṃ tu viśeṣaḥ /
@@ -57,9 +56,13 @@ The first half was translated with the death unit in 2.15. This study is the fru
 > nahyasau parihīṇaḥ kadācitsukhendriyeṇa prāpnoti na ca vītarāgapūrvī parihīyate /
 > tadvairāgyasya dvimārgaprāpaṇāt /
 
-The attainment discussion is printed 49.05–50.08 in `Vasubandhu/Sources/kosabhasya.txt`. Necessary co-possession at 50.09 is not taken.
+The attainment discussion is printed 49.05–50.08 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The numbered
+verse's death clauses are studied in the continuous unit at 2.15.
+This discussion includes 2.17's opening answer concerning eleven.
+Necessary co-possession at 50.09 is not taken.
 
-Word division is editorial. Contextual repairs, not a collation: praptir → prāptir, visaṃyioga → visaṃyoga, saptāṣṭnava → saptāṣṭanava, vimūkti → vimukti, tīkṣṇenriyatvā → tīkṣṇendriyatvād, praviśāti → praviśati, ājñenriya → ājñendriya, ekādaśbhhir → ekādaśabhiḥ, saumanasyīpekṣā → saumanasyopekṣā, anāgābhino → anāgāmino. Defective forms stay visible in the witness above where the running text had them. The reading used in translation is the repaired one.
+Word division is editorial. Contextual repairs, not a collation: praptir → prāptir, visaṃyioga → visaṃyoga, saptāṣṭnava → saptāṣṭanava, vimūkti → vimukti, tīkṣṇenriyatvā → tīkṣṇendriyatvād, praviśāti → praviśati, ājñenriya → ājñendriya, ekādaśbhhir → ekādaśabhiḥ, saumanasyīpekṣā → saumanasyopekṣā, anāgābhino → anāgāmino. The malformed editorial aṣṪbhis is corrected to the running witness's aṣṭabhis. Other defective forms remain visible where retained; the translation follows the stated contextual construals.
 
 ## 3. Continuous Conventional Translation
 
@@ -93,7 +96,11 @@ Arhatship says any one feeling, not three. That prepares the eleven.
 
 ## 6. The Middle Fruits
 
-Sequential mundane is seven: faith, vigor, mindfulness, concentration, Discrimination, mind, and neutral feeling. Supramundane adds the knowledge-faculty. Prior dispassion permits nine, compared with stream-entry. Non-returning varies the feeling by the support. The bases are not enumerated. None are supplied.
+Sequential mundane is seven: faith, vigor, mindfulness, concentration,
+discriminative comprehension, Mind, and neutral feeling. Supramundane
+adds the knowledge-faculty. Prior dispassion permits nine, compared
+with stream-entry. Non-returning varies the feeling by the support.
+The supports are not enumerated. None are supplied.
 
 The sharp case: neutral feeling on the uninterrupted path, gladness on liberation. Both enter the count. Mundane eight. Supramundane nine.
 
@@ -115,16 +122,38 @@ A fallen non-returner does not regain the fruit with pleasure. One already free 
 
 Bhūyovītarāga is more extensively free from desire. No degree is added. Through nine alone restricts the attainment. It does not deny the elevenfold range of one person. Ekasya matters as much as the number.
 
+The death half retains five in addition, not merely five also present.
+Wholesome consciousness is distinct from the Mind-Faculty counted
+in the fruit sets. The eleven answer is 2.17's opening continuation,
+not a numeral in 2.16's fruit clauses.
+
 ## 9. Interpretation
 
 The result is not the route. The number is not the composition. The count is not the span. One fruit, several counts. One count, different routes.
 
 Two feelings in succession are not three feelings across a history. A flat list erases that.
 
-Membership mediates the consequence. The consequence does not become the members. Not the verse English.
+The Organon determination preserves both instrumental mediation and
+temporal scope. A fruit is not identical to the Faculty-set through
+which it is attained; a count may span successive Path-moments.
+
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base without collapsing into Mind or consciousness.
+Mind is one Faculty in these instrumental sets, not a name for their
+whole operation. The temporal distinctions cannot be replaced by one
+undifferentiated cognitive state.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The sharp case and the eleven are kept. The death clauses stand in 2.15.
+Reviewed with the kārikā against printed 49.05–50.08 and the death
+continuation at 48.23–49.04. The study translation makes the five
+additive and names the extreme and middle fruits; the anchor matches.
+The malformed Sanskrit aṣṪbhis is repaired against the running witness.
 
-2.17 has not been opened.
+Grammar–Logic keeps numbered verse, Bhāṣya route conditions, and
+2.17's eleven-person answer distinct. Nine per attainment and eleven
+across a person's repeated attainments are tested as different spans.
+The sharp case and final non-returner objection remain intact.
+
+The opening of 2.17 has been reviewed as this unit's continuation;
+its co-possession inquiry remains unreviewed.

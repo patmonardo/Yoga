@@ -8,7 +8,7 @@
 
 > Feeling, volition, reflection, wish to perform, contact, discriminative
 > comprehension, mindfulness, attention, resolution, and concentration are
-> present in every consciousness.
+> all present together in every moment of consciousness.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -19,7 +19,7 @@
 > tatra vedanā trividho 'nubhavaḥ /
 > sukho duḥkho 'duḥkhāsukhaś ca /
 > cetanā cittābhisaṃskāro manaskarma /
-> saṃjñā saṃjñānaṃ viṣayanimittoḍrūha /
+> saṃjñā saṃjñānaṃ viṣayanimittodrūha /
 > cchandaḥ kartṛkāmatā /
 > sparśa indriyaviṣayavijñānasannipātajā spṛṣṭiḥ /
 > matiḥ prajñā dharmapravicayaḥ /
@@ -32,13 +32,20 @@
 > rasaviśeṣā duravadhārā bhavanti kiṃ punar ye dharmā arūpiṇo
 > buddhigrāhyāḥ /
 
-The unit is printed 54.16–55.02 in `Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial. 'Duḥkhā sukhaśca is joined as 'duḥkhāsukhaś ca. Viṣayanimittoḍrūha stays damaged. The translation reads take-up of the distinguishing mark, as viṣayanimitta-udgraha. Not a collation. The wholesome class at 55.02–03 is 2.25.
+The unit is printed 54.16–55.02 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). Word division is
+editorial. 'Duḥkhā sukhaśca is joined as 'duḥkhāsukhaś ca.
+The running witness reads viṣayanimittodrūha, retained above rather
+than the earlier transcription's viṣayanimittoḍrūha. It remains
+damaged. Take-up of the Condition's distinguishing mark is a
+contextual construal as viṣayanimitta-udgraha, not a collated repair.
+The wholesome-class introduction at 55.02–03 belongs to 2.25.
 
 ## 3. Continuous Conventional Translation
 
-Which, then, occur in every consciousness? Feeling, volition, reflection, wish to perform, contact, Discrimination, mindfulness, attention, resolution, and concentration, in every consciousness. These ten dharmas, it is said, are all present together in every moment of consciousness. Feeling is threefold experience: pleasant, painful, and neither painful nor pleasant. Volition is the formative activity of consciousness, mental action. Reflection is recognizing: take-up of the distinguishing mark. Wish to perform is the wish to act. Contact is the touching born from the conjunction of faculty, viṣaya, and cognition. Discrimination is prajñā, discrimination of dharmas. Mindfulness is non-loss of the support. Attention is the application of consciousness. Resolution is settling upon. Concentration is the one-pointedness of consciousness.
+Which, then, occur in every consciousness? Feeling, volition, reflection, wish to perform, contact, discriminative comprehension, mindfulness, attention, resolution, and concentration, in every consciousness. These ten dharmas, it is said, are all present together in every moment of consciousness. Feeling is threefold experience: pleasant, painful, and neither painful nor pleasant. Volition is the formative activity of consciousness, mental action. Reflection is recognizing: take-up of the Condition's distinguishing mark [a provisional reading of the damaged gloss]. Wish to perform is the wish to act. Contact is the touching born from the conjunction of Faculty, Condition, and Cognition. Discriminative comprehension is the discriminative examination of dharmas. Mindfulness is non-loss of the Cognitive Condition. Attention is the application of consciousness. Resolution is settling upon. Concentration is the one-pointedness of consciousness.
 
-The distinction between consciousness and mental factors is subtle. It is difficult to delimit even in their streams, all the more so in individual moments. Even among certain material medicinal plants having many tastes, differences of taste apprehensible by the senses are difficult to determine. How much more so with dharmas that are immaterial and apprehensible by understanding.
+The distinction between consciousness and mental factors is subtle. It is difficult to delimit even in their streams, all the more so in individual moments. Even among certain medicinal plants possessing Form and having many tastes, differences of taste apprehensible by the Faculties are difficult to determine. How much more so with dharmas that are without Form and apprehensible by understanding.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -58,25 +65,37 @@ Occurrence, not equal strength, correctness, or ethical quality. Prajñā under 
 
 Volition is formative activity and mental action. Wish to perform is the wish to act. One word for both would lose the difference. Wish to perform is not craving.
 
-Reflection takes up a distinguishing mark. Discrimination is prajñā, discrimination of dharmas. Related, not interchangeable. The damaged gloss limits the wording, not the distinction of the two entries.
+Reflection takes up the Condition's distinguishing mark, under the
+provisional construal. Discriminative comprehension examines dharmas.
+Related, not interchangeable. The damaged gloss limits the wording,
+not the distinction of the two entries.
 
-Contact is faculty, viṣaya, and cognition. Not confined to bodily touch. This sentence does not decide whether the viṣaya is externally established.
+Contact is born of the conjunction of Faculty, Condition, and Cognition.
+It is not confined to bodily touch. This sentence does not decide
+whether the Condition is externally established.
 
-Mindfulness is non-loss of the support. Attention is application. Resolution is settling upon, a short gloss, not a theory of decision. Concentration is one-pointedness. The four do not collapse into attention.
+Mindfulness is non-loss of the Cognitive Condition. Attention is application. Resolution is settling upon, a short gloss, not a theory of decision. Concentration is one-pointedness. The four do not collapse into attention.
 
 ## 7. The Difficulty
 
 Subtle even in streams. Harder in a moment. Naming ten does not make ten obvious appearances.
 
-The plants are the more accessible case. Material, sense-apprehensible, still hard. These are immaterial, taken by understanding, harder. Difficulty, not impossibility. The definitions are not withdrawn, and not proved by the subtlety. Three claims stay apart: the universal assertion, the formulas, the difficulty of seeing the differences.
+The plants are the more accessible case: possessing Form and
+Faculty-apprehensible, yet still hard to distinguish. The factors
+are without Form and apprehended by understanding. Difficulty,
+not impossibility. The definitions are neither withdrawn nor proved
+by the subtlety. Three claims stay apart: the universal assertion,
+the definitions, and the difficulty of seeing the differences.
 
 ## 8. The Bhāṣya's Decisions for Translation
 
 The definitions stay one passage. The order follows the verse. No then is inserted.
 
-Mindfulness is non-loss of the support, not only memory of a past event. Concentration is one-pointedness in the reported universal context, not only perfected practice.
+Mindfulness is non-loss of the Cognitive Condition, not only memory of a past event. Concentration is one-pointedness in the reported universal context, not only perfected practice.
 
-Ground and support stay apart. Every consciousness is the operating range. That does not make every consciousness their common support.
+Ground and Cognitive Condition stay apart. Every consciousness is the
+operating range. That does not make every consciousness a single
+common Cognitive Condition for all ten.
 
 ## 9. Interpretation
 
@@ -84,10 +103,30 @@ A moment of consciousness is already qualified, formative, reflective, directed,
 
 Range, definition, and the ground of the distinction have to travel together. Universality does not say what makes mindfulness different from attention, or attention from concentration.
 
-Presence in every consciousness is not adequacy, and not the entry of the path. Prāpti remains the look-ahead. Not the verse English.
+Presence in every consciousness is not adequacy. Nor does the list
+say that no other mental factors can accompany a consciousness.
+The numerical inventory is of ten universal factor-kinds, not a
+maximum total for each episode.
+
+Cognition joins and governs Perception and Conception and guides
+the reading of Dharma Base, remaining distinct from consciousness
+and Mind. Its place in contact's definition is not interchangeable
+with reflection or discriminative comprehension. These relations
+must remain differentiated within the co-occurring episode.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. Discernment withdrawn. All ten definitions and the analogy are kept. Kila and the damaged gloss stay marked.
+Reviewed with the kārikā against printed 54.16–55.02. The anchor
+matches the study translation's complete, moment-level co-presence.
+The ten definitions, reportive kila, and plant analogy remain in order.
+The damaged reflection-gloss now matches the running witness and
+its contextual interpretation remains provisional.
+
+Executable Grammar–Logic replaces the alternative-list grammar and
+unfinished formula. Tests require all ten kinds in every modeled
+moment without treating ten as an exclusive total, universal feeling
+as three simultaneous modes, or presence as guaranteed adequacy.
+Contact and mindfulness use the controlled Condition terminology;
+the unsupported acquisition look-ahead is removed.
 
 2.25 has not been opened.

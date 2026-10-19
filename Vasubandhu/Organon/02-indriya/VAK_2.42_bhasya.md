@@ -6,9 +6,11 @@
 >
 > śubhā upapadyavedyaiva nāryasyaikādhvikāpyate // 2.42 //
 
-> Likewise, the non-reflective attainment is in the final dhyāna, entered
-> with the wish for release. It is wholesome, experienced only in the next
-> rebirth, not a noble person's, and acquired in one time.
+> Likewise, non-reflective attainment is cessation of consciousness and
+> the mental factors. It belongs to the fourth dhyāna and is entered
+> with the wish for release. It is wholesome, with maturation experienced
+> only in the next rebirth; it is not for a noble person and is acquired
+> only as a present instance.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -17,17 +19,78 @@
 > keyam asaṃjñisamāpattiḥ /
 > yathaivāsaṃjñikam uktaṃ nirodhaś cittacaittānām iti /
 > tathāsaṃjñisamāpattiḥ /
+> asaṃjñināṃ samāpattir asaṃjñā vety asaṃjñisamāpattiḥ /
+> sā 'pi cittacaittānāṃ nirodhaḥ /
 > etāvat tathāśabdenānvākṛṣyate /
+> sā tu samāpattiḥ /
+> dhyāne 'ntye /
+> antyadhyānaṃ caturthaṃ tatparyāpannā 'sau nānyabhūmikā /
+> kimartham enāṃ samāpadyante /
+> niḥsṛtīcchayā /
+> niḥsaraṇam eṣāṃ manyante /
+> ato mokṣakāmatayā samāpadyante /
+> āsaṃjñikaṃ vipākatvād avyākṛtam iti siddham /
+> iyaṃ tu /
+> śubhā /
+> kuśalaivāsaṃjñisamāpattiḥ /
+> tasyā asaṃjñisattveṣu pañcaskandhako vipākaḥ /
+> kuśalā satī /
+> upapadyavedyaiva /
+> upapadyavedanīyaiva /
+> na dṛṣṭadharmaparyāyavedanīyā nāpy aniyatā /
+> yo 'py enām utpādya parihīyate so 'pi kilāvaśyaṃ punar utpādyāsaṃjñisattveṣūpapadyata iti /
+> ata eva tallābhī niyāmaṃ nāvakrāmati /
+> seyaṃ pṛthagjanasyaiveṣyate /
+> nāryasya /
+> na hy āryā asaṃjñisamāpattiṃ samāpadyante vinipātasthānam ivaitāṃ paśyantaḥ /
+> niḥsaraṇasaṃjñino hi tāṃ samāpadyante /
+> atha kim enām āryāś caturthadhyānalābhād atītānāgatāṃ pratilabhante dhyānavat /
+> anye 'pi tāvan na pratilabhante /
+> kiṃ kāraṇam /
+> eṣā hy ucitā 'pi satī mahābhisaṃskārasādhyatvād acittakatvāc ca /
+> ekādhvikāpyate // 2.42 //
+> ekakālikety arthaḥ /
+> vartamānakālikaiva labhyate /
+> yathā prātimokṣasaṃvaraḥ /
+> labdhayā tu dvitīyādiṣu kṣaṇeṣv atītayā 'pi samanvāgato bhavati yāvan na tyajati /
+> acittakatvān nānāgatā bhāvyate /
 
-The unit is printed 68.28–69.23 in `Vasubandhu/Sources/kosabhasya.txt`. The witness above is the opening. The rest is reported below. Defects remain. Not a collation. The attainment of cessation at 69.24 is 2.43.
+The unit is printed 68.28–69.23 in
+[the running witness](../../Sources/kosabhasya.txt). The previously
+excerpted opening is now continued through the acquisition explanation.
+This is a normalized study transcription, not a collation. It
+regularizes *niarodha*, *nānyabhumikā*, *āryāṃ*, *anye 'pi atāvan*,
+*dvitaīyādiṣu*, and spacing of *acittaka tvāt*. The two
+name-construals and reportive *kila* remain visible. The question
+at 69.24 introduces the attainment of cessation in 2.43 and is
+outside this unit.
 
 ## 3. Continuous Conventional Translation
 
 What are the two attainments? The non-reflective attainment and the attainment of cessation. What is the non-reflective attainment? Just as the non-reflective was called cessation of consciousness and the mental factors, so is this. Attainment of the non-reflective beings, or attainment that is non-reflective. It too is that cessation. That much likewise carries. It is in the final dhyāna, the fourth, not another ground. Why do they enter it? By the wish for release. They consider it an escape, and enter wishing for liberation.
 
-The result, being maturation, is indeterminate. This attainment is wholesome. Its maturation among the non-reflective is five Bases. Exclusively to be experienced in the next rebirth. Not in this life, and not of indeterminate timing. Even one who produces it and falls away, it is said, necessarily produces it again and is born among them. Therefore one who has obtained it does not enter the certainty. It is accepted for an ordinary person, not a noble person. Noble persons do not enter it, seeing a place of downfall. Those who enter it regard it as escape.
+The non-reflective result, being maturation, is established as
+indeterminate. This attainment, however, is wholesome only. Its
+maturation among non-reflective beings comprises five Bases.
+Although wholesome, it is exclusively to be experienced in the next
+rebirth, not in the present life and not of unfixed timing. Even
+one who produces it and falls away, it is said, necessarily produces
+it again and is reborn among non-reflective beings. For this very
+reason, one who has obtained it does not enter certainty. It is
+accepted only for an ordinary person, not a noble person. Noble
+persons do not enter it, seeing it as a place of downfall. Those
+who enter it regard it as an escape.
 
-Do the noble, by obtaining the fourth dhyāna, acquire its past and future, as with the dhyāna? Others do not acquire it that way either. Even when familiar, it takes great formative effort, and it is without consciousness. Acquired in one time: the present instance only, as the restraint of individual liberation. From the second moment one also possesses the past instance, until it is relinquished. Because it is without consciousness, no future instance is cultivated.
+Do noble persons, by obtaining the fourth dhyāna, acquire past
+and future instances of this attainment, as with the dhyāna?
+Others do not acquire it that way either. Why? Even when familiar,
+it is achieved through great formative effort and is without
+consciousness. It is acquired in one temporal period: this means
+that only a present instance is obtained, as with the restraint
+of individual liberation. Once it has been obtained, from the
+second moment onward one also possesses the past instance, until
+one relinquishes it. Because it is without consciousness, no future
+instance is cultivated.
 
 ## 4. Movement and Voice
 
@@ -43,7 +106,13 @@ The wish describes their construal. Not an endorsement. The noble see downfall a
 
 ## 7. One Time
 
-Entering is not acquiring past and future with the level. Even others do not acquire it with the fourth dhyāna. One time is present acquisition, not once only. Past possession from the second moment is compatible. No future instance cultivated is the acquisition account. Regaining is the preceding paragraph. Without consciousness qualifies the state. Preparatory cognition and great effort are stated. Not an unintentional lapse.
+Entering is not acquiring past and future with the level. Even
+ordinary persons do not acquire it merely with the fourth dhyāna.
+One time is present acquisition, not once only. Past possession
+from the second moment is compatible. No future instance cultivated
+is the acquisition account; regaining is the earlier report.
+Without consciousness qualifies the attained state. Great formative
+effort and the wish for release are stated, not an unintentional lapse.
 
 ## 8. Decisions
 
@@ -51,14 +120,27 @@ Damaged forms are read from the explanations. The two name-construals stay. Rebi
 
 ## 9. Interpretation
 
-Cessation is not liberation. A wholesome attainment is not a noble person's. Present credit, past possession, and future cultivation are three relations. Available would erase them.
-
-Same-class is the other clarification, from 2.41. Sabhāgatā is sameness among beings. The treatise calls it group same-class. Sāmānya is the Vaiśeṣika universal, one occurring in many. The sūtra says the word. It does not say a distinct entity. Commonality flattened those. Same-class does not.
-
-Not the translation of this verse. The attainment of cessation is next. Not the final pass.
+In the Organon reading, Cognition joins and governs Perception and
+Conception and guides the Dharma Base, remaining distinct from
+consciousness and Mind. Cessation alone is not liberation: the
+wish for release does not establish its achievement. A wholesome
+practice can have indeterminate maturation without sharing its
+result's ethical status. Present acquisition, later possession
+of a past instance, and cultivation of future instances are
+different relations; a single availability flag would erase
+the argument's determinations.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Non-percipient withdrawn. Likewise is limited to the cessation.
+Paired source QA and executable Grammar–Logic review completed.
+The full Sanskrit explanation is restored through 69.23. “Likewise”
+inherits cessation only; fourth-dhyāna location, entrant's motive,
+wholesome practice, next-rebirth maturation, noble-person exclusion,
+and present-only acquisition remain distinct. Past possession is
+not mistaken for past acquisition, and *kila* qualifies the necessary
+regaining/rebirth report. Unrelated same-class discussion is removed
+from this unit's interpretation. Detailed study of the extended
+argument remains for the later specialty pass.
 
-2.43 has not been opened.
+The next unit is 2.43, attainment of cessation; only its introductory
+boundary has been consulted.

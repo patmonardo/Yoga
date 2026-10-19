@@ -20,27 +20,67 @@ nirodhākhyā tathaiveyaṃ vihārārthaṃ bhavāgrajā /
 |---|---|---|
 | nirodha-ākhyā | nom. sg. f.; compound | called cessation |
 | tathā eva | adverb + particle | likewise, that much |
+| iyam | nom. sg. f.; pronoun | this attainment |
 | vihāra-artham | acc. sg. n.; compound | for the sake of abiding |
 | bhava-agra-jā | nom. sg. f.; compound | born of the summit of existence |
 | śubhā | nom. sg. f. | wholesome |
 | dvi-vedyā | nom. sg. f. + compound | to be experienced at two times |
 | aniyatā | nom. sg. f. | unfixed |
 | āryasya | gen. sg. m. | a noble person's |
-| āpyā prayogataḥ | nom. sg. f. + instr. sg. n. | acquired through application |
+| ca | conjunction | and; adds unfixed maturation |
+| āpyā | nom. sg. f.; gerundive of √āp | to be acquired |
+| prayogataḥ | adverbial ablative in -tas | through application |
 
-Vihāra here is abiding. Not the academy. Saṃjñā is reflection. The level is the essence of neither reflection nor non-reflection.
-## 4. Grammar
+The prose specifies peaceful abiding and the Essence of neither
+reflection nor non-reflection. Unfixed concerns maturation, not
+ethical indeterminacy. Sandhi is opened for parsing.
 
 ```text
+# tokens: nirodhākhyā tathā eva iyam vihārārtham bhavāgrajā śubhā dvivedyā aniyatā ca āryasya āpyā prayogataḥ
+```
+## 4. Grammar
+
+“Likewise” supplies cessation of consciousness and mental factors,
+not the other attainment's purpose, level, or maturation timing.
+The prose resolves the two times as next rebirth and a later
+existence, while unfixed allows non-maturation. The acquisition
+clause states the application rule for noble persons; the Buddha
+exception is introduced by the following verse, not silently
+folded into this clause.
+
+```nltk-fcfg
 % start S
-S[NAME=cessation-attainment] -> Cessation[OF=citta-caitta, PURPOSE=abiding, LEVEL=summit]
-S[ETHICAL=wholesome, TIME=two|unfixed] -> Attainment
-S[PERSON=noble, ACQUIRE=application] -> Attainment
+# tokens: nirodhākhyā tathā eva iyam vihārārtham bhavāgrajā śubhā dvivedyā aniyatā ca āryasya āpyā prayogataḥ
+S[SEM=<(?cessation & ?purpose & ?level & ?ethical & ?timing & ?acquisition)>] -> CESSATION[SEM=?cessation] PURPOSE[SEM=?purpose] LEVEL[SEM=?level] ETHICAL[SEM=?ethical] TIMING[SEM=?timing] ACQUISITION[SEM=?acquisition]
+CESSATION[SEM=<CessationOf(attainment,consciousness_and_factors)>] -> NAMED[CASE=nom] LIKEWISE[CARRIES=cessation_only] EMPHATIC THIS[CASE=nom]
+PURPOSE[SEM=<Purpose(attainment,peaceful_abiding)>] -> ABIDING[PURPOSE=peaceful_abiding]
+LEVEL[SEM=<AtLevel(attainment,summit)>] -> SUMMIT[CASE=nom]
+ETHICAL[SEM=<Wholesome(attainment)>] -> WHOLESOME[CASE=nom]
+TIMING[SEM=<(all x.(MaturationOption(attainment,x) <-> (x = next_rebirth | x = later_existence)) & UnfixedMaturation(attainment))>] -> TWO[CNT=2] UNFIXED[AXIS=maturation] AND
+ACQUISITION[SEM=<(RestrictedTo(attainment,noble) & AcquisitionRule(attainment,application))>] -> NOBLE[CASE=gen] ACQUIRABLE[CASE=nom] APPLICATION[FORM=tas]
+NAMED[CASE=nom] -> 'nirodhākhyā'
+LIKEWISE[CARRIES=cessation_only] -> 'tathā'
+EMPHATIC -> 'eva'
+THIS[CASE=nom] -> 'iyam'
+ABIDING[PURPOSE=peaceful_abiding] -> 'vihārārtham'
+SUMMIT[CASE=nom] -> 'bhavāgrajā'
+WHOLESOME[CASE=nom] -> 'śubhā'
+TWO[CNT=2] -> 'dvivedyā'
+UNFIXED[AXIS=maturation] -> 'aniyatā'
+AND -> 'ca'
+NOBLE[CASE=gen] -> 'āryasya'
+ACQUIRABLE[CASE=nom] -> 'āpyā'
+APPLICATION[FORM=tas] -> 'prayogataḥ'
 ```
 
-Likewise again carries only citta-caitta cessation.  
-For abiding, not escape. Summit, not fourth dhyāna.  
-Noble, through application. Not by dispassion.
+```nltk-dep
+'nirodhākhyā' -> 'tathā' | 'iyam' | 'vihārārtham' | 'bhavāgrajā' | 'śubhā' | 'dvivedyā' | 'āpyā'
+'tathā' -> 'eva'
+'dvivedyā' -> 'aniyatā' | 'ca'
+'āpyā' -> 'āryasya' | 'prayogataḥ'
+```
+
+The six constituent lengths are 4, 1, 1, 1, 3, and 3.
 
 ## 5. Translation
 
@@ -52,52 +92,131 @@ Noble, through application. Not by dispassion.
 > application.
 ### Bhāṣya-informed study translation
 
-> This attainment called cessation is likewise for abiding and is born of
-> the summit of existence. It is wholesome, experienced at two times or
-> unfixed, belongs to a noble person, and is acquired through application.
+> The attainment called cessation is likewise cessation of consciousness
+> and the mental factors. It is entered for peaceful abiding and belongs
+> to the summit of existence. It is wholesome; its maturation may be
+> experienced in the next rebirth or a later existence, or may not occur.
+> It is restricted to noble persons and is acquired through application.
 ## 6. Philosophical Translation
 
-> Likewise is the shared cessation. For abiding, not escape. Summit, not fourth dhyāna. Noble, through application. The Buddha exception is knowledge of exhaustion, not application.
+> The shared cessation does not erase different purposes and levels:
+> peaceful abiding at the summit is not escape sought in fourth dhyāna.
+> Wholesomeness does not guarantee maturation. Acquisition through
+> application is the stated rule; the Buddha exception is developed
+> in the following verse.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Running word | Determination |
 |---|---|---|
 | nirodha-samāpatti | attainment of cessation | the second attainment |
-| vihārārtha | for abiding | peaceful abiding; not the academy |
+| vihārārtha | for abiding | attention preceded by reflection on peaceful abiding |
 | bhavāgra | summit of existence | the level |
-| naivasaṃjñā-nāsaṃjñā | neither reflection nor non-reflection | the essence; not unconsciousness |
+| naivasaṃjñā-nāsaṃjñā | neither reflection nor non-reflection | the Essence specifying the summit's level |
 | dvi-vedya | two times | next rebirth, or later |
 | aniyata | unfixed | may not mature |
-| prayoga | application | the ordinary noble acquisition |
-| kṣaya-jñāna | knowledge of exhaustion | the Buddha's simultaneity |
+| prayoga | application | the noble-person acquisition rule, with the Buddha exception in 2.44 |
+| kṣaya-jñāna | Knowledge of exhaustion | cross-verse Buddha-acquisition discussion |
 
 ## 8. Logical Determination
 
-```text
-likewise
-    = citta-caitta cessation
-    ≠ same attainment
-abiding, summit, noble, application
-    against escape, fourth dhyāna, ordinary, necessary next rebirth
-four Bases
-    against five
-final nirvāṇa here
-    → maturation may not occur
-    ≠ this attainment is nirvāṇa
-Buddha
-    with knowledge of exhaustion
-    mastery ≠ prior production
-thirty-four
-    reported
-    not settled
+```nltk-sem
+timing : all x.(MaturationOption(attainment,x) <-> (x = next_rebirth | x = later_existence))
+acquisition : (RestrictedTo(attainment,noble) & AcquisitionRule(attainment,application))
 ```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(CessationOf(attainment,consciousness_and_factors) & Purpose(attainment,peaceful_abiding) & AtLevel(attainment,summit) & Wholesome(attainment) & (all x.(MaturationOption(attainment,x) <-> (x = next_rebirth | x = later_existence)) & UnfixedMaturation(attainment)) & (RestrictedTo(attainment,noble) & AcquisitionRule(attainment,application)))
+
+# THEORY prose_distinctions
+# EXPECT prose_distinctions T
+ResultBaseCount(attainment,four_bases) & CanFailToMature(attainment)
+-PastAcquired(attainment) & -FutureCultivated(attainment) & -DispassionAcquisitionRule(attainment)
+
+# THEORY crossverse_disputed_accounts
+# EXPECT crossverse_disputed_accounts T
+AcquisitionAt(buddha,knowledge_of_exhaustion) & MasteryWithoutPriorProduction(mastery_reply)
+EarlierProduction(western_account) & -EarlierProduction(kashmir_account) & ReportedMomentCount(kashmir_account,thirty_four)
+
+# THEORY rejected_unfixed_is_ethical_indeterminate
+# EXPECT rejected_unfixed_is_ethical_indeterminate F
+Wholesome(attainment) & EthicallyIndeterminate(attainment)
+
+# THEORY rejected_necessary_next_rebirth_maturation
+# EXPECT rejected_necessary_next_rebirth_maturation F
+all x.(MaturationOption(attainment,x) -> (x = next_rebirth))
+
+# THEORY rejected_merging_prior_production_accounts
+# EXPECT rejected_merging_prior_production_accounts F
+EarlierProduction(kashmir_account) & EarlierProduction(western_account)
+```
+
+```nltk-valuation
+attainment => cessation_attainment
+consciousness_and_factors => consciousness_factor_group
+peaceful_abiding => peaceful_abiding_purpose
+summit => summit_level
+next_rebirth => next_rebirth_period
+later_existence => later_existence_period
+noble => noble_person_class
+application => application_method
+four_bases => four_base_count
+buddha => buddha_case
+knowledge_of_exhaustion => exhaustion_knowledge_moment
+mastery_reply => mastery_reply_account
+western_account => western_teachers
+kashmir_account => kashmir_teachers
+thirty_four => thirty_four_count
+CessationOf => {(cessation_attainment,consciousness_factor_group)}
+Purpose => {(cessation_attainment,peaceful_abiding_purpose)}
+AtLevel => {(cessation_attainment,summit_level)}
+Wholesome => {cessation_attainment}
+MaturationOption => {(cessation_attainment,next_rebirth_period),(cessation_attainment,later_existence_period)}
+UnfixedMaturation => {cessation_attainment}
+RestrictedTo => {(cessation_attainment,noble_person_class)}
+AcquisitionRule => {(cessation_attainment,application_method)}
+ResultBaseCount => {(cessation_attainment,four_base_count)}
+CanFailToMature => {cessation_attainment}
+PastAcquired => {}
+FutureCultivated => {}
+DispassionAcquisitionRule => {}
+EthicallyIndeterminate => {}
+AcquisitionAt => {(buddha_case,exhaustion_knowledge_moment)}
+MasteryWithoutPriorProduction => {mastery_reply_account}
+EarlierProduction => {western_teachers}
+ReportedMomentCount => {(kashmir_teachers,thirty_four_count)}
+```
+
+The timing options are alternatives, not two mandatory results.
+The count predicate labels the four-Base maturation, not four
+simultaneous attainment tokens. Cross-verse accounts are indexed
+by speaker; the model tests that they are not merged, not which
+one is historically or doctrinally true. The reported thirty-four
+is checked as 16 + 2 × 9 = 34 in the regression test.
 
 ## 9. Interpretive Note
 
-**Translation note.** The commentary says it is entered through attention preceded by the conception of peaceful abiding, and distinguishes it from the non-reflective attainment entered as escape. It describes the summit as the level of neither reflection nor non-reflection, gives the maturation as next-life or later, or unfixed, and says the attainment is not obtained by dispassion. For the Buddha it is acquired with knowledge of exhaustion; details of disputed accounts remain in the commentary.
+**Translation note.** Attention preceded by reflection on peaceful
+abiding differs from the non-reflective attainment's escape motive.
+The summit is the level of the Essence of neither reflection nor
+non-reflection. Unfixed maturation can mean no maturation at all,
+not an ethically indeterminate attainment.
 
-The first half of the next verse is already in this prose: for the Sage, acquired through awakening. The second half, the common support of the two attainments, is not this unit. Kila stays on the thirty-four. The uncertain sentence on not emerging is not repaired into a permission to interrupt.
+The inherited Bhāṣya extends into the first half of 2.44, where
+the Buddha exception and prior-production debate occur; that
+continuation is explicitly labeled, not attributed to this verse.
+The shared Basis of the two attainments belongs to the remaining
+2.44 discussion. *Kila* qualifies the reported thirty-four moments;
+the damaged sentence about non-emergence remains uncertain.
+
+In the Organon reading, Cognition joins and governs Perception and
+Conception and guides the Dharma Base, remaining distinct from
+consciousness and Mind. Sharing a cessation-description does not
+erase differences of purpose, level, result, and acquisition.
+Neither temporary cessation nor mastery over it is silently
+identified with liberation.
 
 ## 10. OWL++ Seed
 
@@ -105,5 +224,8 @@ The first half of the next verse is already in this prose: for the Sage, acquire
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 
 vak:VAK_2_43 a vak:Karika ; vak:hasTopic vak:AttainmentOfCessation .
-vak:Likewise vak:notSameAttainment true .
+vak:LikewiseIn2_43 vak:carries vak:ConsciousnessAndFactorCessation .
+vak:CessationAttainment vak:purpose vak:PeacefulAbiding ;
+    vak:maturationTiming vak:NextRebirth, vak:LaterExistence ;
+    vak:canFailToMature true .
 ```

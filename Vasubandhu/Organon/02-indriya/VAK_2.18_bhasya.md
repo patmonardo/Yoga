@@ -6,11 +6,11 @@
 >
 > saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān // 2.18 //
 
-> One with pleasure or body has four; one possessing the eye and the rest,
-> five; one with gladness also, five; one with pain, however, seven; one
-> possessing the female Faculty and so forth has eight.
-
-Eight is aṣṭābhiḥ, the opening of 2.19. The reading includes the prose that completes the eight. The eleven and thirteen are not this unit.
+> One possessing Pleasure-Faculty or Body-Faculty necessarily possesses
+> four Faculties; one possessing eye or another of that group, five;
+> one possessing gladness also, five; one possessing pain, however,
+> seven. One possessing Female-Faculty and so forth [necessarily
+> possesses eight].
 
 ## 2. Continuous Sanskrit Witness
 
@@ -38,7 +38,10 @@ Eight is aṣṭābhiḥ, the opening of 2.19. The reading includes the prose th
 > evaṃ daurmanasyendriyeṇa /
 > śraddhādimāṃs tu taiś ca pañcabhir upekṣājīvitamanobhiś ca /
 
-The unit is printed 50.23–51.15 in `Vasubandhu/Sources/kosabhasya.txt`. The next clause at 51.16 is 2.19.
+The unit is printed 50.23–51.15 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). It includes
+2.19's opening eight and its explanatory prose. The next clause at
+51.16 continues 2.19 with eleven.
 
 Word division is editorial. Śaraddhādīnām is read as śraddhādīnām. The short answer to the second-dhyāna question is not expanded in the Sanskrit. No independent collation is claimed.
 
@@ -84,7 +87,10 @@ No further mechanism. Latent would add a theory the answer does not give. The cl
 
 Female, male, and distress: the seven plus the named faculty. The seven is body, life, mind, and the four feelings. Not seven sensory faculties.
 
-The faith-group is another eight. Any one of faith, vigor, mindfulness, concentration, or Discrimination entails the five and the triad. It does not add the pain-holder's seven. Tu marks the difference.
+The faith-group is another eight. Any one of faith, vigor, mindfulness,
+concentration, or discriminative comprehension entails the five and
+the triad. It does not add the pain-holder's seven. Tu in the prose
+marks the difference; the verse's tu contrasts pain with the five-count.
 
 Necessary accompaniment. Not a claim that no other faculty can be possessed. Equal counts are not interchangeable.
 
@@ -96,16 +102,35 @@ Necessarily possesses carries from 2.17, and avaśyam repeats it. Currently expe
 
 Aṣṭābhiḥ completes the last subject. The eleven and thirteen stay for 2.19.
 
+The study translation marks eight as supplied from the cross-verse
+continuation and makes necessary possession explicit. The count is
+not an exclusive total, and the opening dual distributes over two
+cases rather than combining pleasure and body into one four.
+
 ## 9. Interpretation
 
 Possession is relational. The same numeral can be different sets. Possession can extend past what is manifest and past what is attained.
 
 Four for pleasure is not four for body. Eight for distress is not eight for faith. The members, the initiating faculty, and the relation have to travel with the count.
 
-Necessary co-possession is not each member producing the others. The second-dhyāna question is the scope. Not the verse English.
+Necessary co-possession is not each member producing the others. The
+second-dhyāna question tests possession independently of attainment
+and manifestation, without giving a mechanism for that possession.
+
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base without collapsing into Mind or consciousness.
+Mind belongs to the common possession triad; it does not replace the
+different Faculty-functions or their relations with one cognitive power.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The second-dhyāna answer and the two eights are kept.
+Reviewed with the kārikā against printed 50.23–51.15. The study
+translation states necessary possession and marks the eight supplied
+from 2.19; the anchor matches exactly. The two uses of tu, verse and
+prose, are distinguished.
 
-2.19 has not been opened.
+Grammar–Logic tests the distributive four, eye-group and gladness
+fives, pain-seven, and different cross-verse eights. The brief
+second-dhyāna answer is preserved without a latent-state theory.
+The opening eight of 2.19 has been reviewed; its eleven and thirteen
+remain unreviewed.

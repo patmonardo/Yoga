@@ -7,8 +7,9 @@
 > prāptyā vā pañcadhā caittā mahābhūmyādibhedataḥ // 2.23 //
 
 > Consciousness and mental factors necessarily arise together. All
-> conditioned things arise together with the marks of the conditioned; or,
-> only those designated as sentient arise with acquisition. Mental factors
+> conditioned dharmas arise together with the marks of the conditioned.
+> As for acquisition, only those designated as belonging to a sentient
+> being arise together with it. Mental factors
 > are fivefold by divisions beginning with the great ground.
 
 ## 2. Continuous Sanskrit Witness
@@ -33,19 +34,21 @@
 > tatra mahatī bhūmir eṣām iti mahābhūmikāḥ
 > ye sarvatra cetasi bhavanti /
 
-The unit is printed 54.03–54.16 in `Vasubandhu/Sources/kosabhasya.txt`. The question which occur in every consciousness opens 2.24.
+The unit is printed 54.03–54.16 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The question
+which occur in every consciousness opens 2.24.
 
 Word division is editorial. Sahavaśyaṃ is read as sahāvaśyaṃ. Satvākhyam as sattvākhyam. Gativiśayaḥ as gativiṣayaḥ. Eśām as eṣām. The fifth class-name is kept. No independent collation is claimed.
 
 ## 3. Continuous Conventional Translation
 
-The rule of co-arising for material dharmas has been stated. That for the remaining dharmas must now be stated. First: consciousness and mental factors necessarily arise together. For they cannot exist without one another. Everything with the marks of the conditioned. Necessarily together is carried forward. Whatever arises, material form, consciousness, mental factors, or dissociated formations, arises together with the marks of the conditioned. Or with acquisition. Only what is designated as belonging to a sentient being arises together with acquisition, not anything else. Thus or expresses a distinction of cases.
+The rule of co-arising for Form dharmas has been stated. That for the remaining dharmas must now be stated. First: consciousness and mental factors necessarily arise together. For they cannot exist without one another. Everything with the marks of the conditioned. Necessarily together is carried forward. Whatever arises—Form, consciousness, mental factors, or formations dissociated from consciousness—arises together with the marks of the conditioned. Or with acquisition. Only what is designated as belonging to a sentient being arises together with acquisition, not anything else. Thus or expresses a distinction of cases.
 
 Mental factors have been mentioned. What are they? Mental factors are fivefold, according to the division beginning with the great ground. Five classes: great-ground, wholesome great-ground, affliction great-ground, unwholesome great-ground, and limited-affliction great-ground. A ground means a range of operation. Whatever is something's range of operation is called its ground. Those whose ground is extensive are the great-ground factors. They occur in every consciousness.
 
 ## 4. Movement and Voice of the Commentary
 
-The material rule is recalled. Three co-arising statements follow, different subjects, different scopes. Then the five classes, and the word ground.
+The Form rule is recalled. Three co-arising statements follow, different subjects, different scopes. Then the five classes, and the word ground.
 
 No objection. No school. The question is expository. The first class is defined. Its members wait. The other four are named. Their distributions wait.
 
@@ -87,10 +90,32 @@ Vikalpa here is a distinction of cases, the explanation of or. Not imaginative c
 
 Three relations. Shared language of together does not erase the scopes.
 
-The hub looked toward is post citta:caitta, a controller already endowed with the pair. This verse is the pair. Prāpti is named, and restricted to the sentient designation. That restriction is the verse. The telos that would lay out hetu and pratyaya, and enter the path in the desire realm, is not printed as the translation.
+The movement into mental factors changes the question from the
+Faculty census to the conditions of an episode of consciousness.
+Reciprocal accompaniment is not an all-to-all relation between every
+factor and every consciousness; universality belongs to the
+great-ground kinds, not to arbitrary factor-tokens.
+
+Cognition joins and governs Perception and Conception and guides
+the reading of Dharma Base, remaining distinct from consciousness
+and Mind. The consciousness–factor pair is not an additional
+controller, and restricted acquisition is not here an explanation
+of Path entry.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The three rules, the restriction, the five names, and the definition of ground are kept.
+Reviewed with the kārikā against printed 54.03–54.16. The study
+translation resolves or as a scope distinction, not a replacement
+of the marks rule or optional acquisition. The English anchor matches.
+
+Executable checks distinguish reciprocal accompaniment from all-to-all
+pairing, keep the unconditioned outside arising, and preserve the
+overlap of marks and acquisition in the sentient range. Five counts
+classes, not accompanying factors. The class members await the
+following studies. The unsupported controller/telos passage is removed.
+
+A dedicated later pass remains planned for the quality and organization
+of the Bhāṣya study sections after the translation; this paired pass
+does not attempt that broader restructuring.
 
 2.24 has not been opened.

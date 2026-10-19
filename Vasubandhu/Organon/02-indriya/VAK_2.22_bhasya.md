@@ -1,4 +1,4 @@
-# VAK_2.22 Bhāṣya — Necessary Co-Arising of Material Dharmas
+# VAK_2.22 Bhāṣya — Necessary Co-Arising of Form Dharmas
 
 ## 1. Kārikā Anchor
 
@@ -6,9 +6,9 @@
 >
 > kāyendriyī navadravyaḥ daśadravyo 'parendriyaḥ // 2.22 //
 
-> In the desire realm, the soundless minimal cluster without a Faculty has
-> eight constituents; one with the body-Faculty has nine, and one with
-> another Faculty has ten.
+> In the Desire Realm, a soundless minimal Form-cluster without a Faculty
+> has eight constituents. A soundless cluster with the body-Faculty has
+> nine; with body and one other Faculty—eye, ear, nose, or tongue—it has ten.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -35,20 +35,57 @@
 > tānyeva nava cakṣuḥśrotraghrāṇajihvendriyāṇāṃ cānyatamam /
 > saśabdā punarete paramāṇava utpadyamānā yathākramaṃ navadaśaikādaśa dravyakā utpadyante /
 > asti hīndriyāvinirbhāgī śabdo 'pi ya upāttamahābhūtahetukaḥ /
+> kathamihāvinirbhāge bhūtānāṃ kaścideva saṃghātaḥ kaṭhina utpadyate kaścideva drava uṣṇo vā samudīraṇo vā /
+> yadyatra paṭutamaṃ prabhāvata udbhūtaṃ tasya tatropalabdhiḥ /
+> sūcītūnī kalāpasparśavat saktulavaṇacūrṇarasavacca /
+> kathaṃ punasteṣu śeṣāstitvaṃ gamyate /
+> karmataḥ saṃgrahaghṛtipaktivyūhanāt /
+> pratyayalābhe ca sati kaṭhinādīnāṃ dravaṇā dibhāvāt apsu śaityātiśayādauṣṇyaṃ gamyata ityapare /
+> avyati bhede 'pi tu syācchaityātiśayaḥ /
+> śabdavedanātiśayavat /
+> bījatas teṣu teṣāṃ bhāvo na svarūpata ityapare /
+> "santyasmin dāruskandhe vividhā dhātava" iti vacanāt /
+> kathaṃ vāyau varṇasadbhāvaḥ /
+> śraddhānīya eṣo 'rtho nānumānīyaḥ /
+> saṃspandato gandhagrahaṇāt tasya varṇāvyabhicārāt /
+> rūpadhātau gandharasayorabhāva uktastena tatratyāḥ paramāṇavaḥ ṣaṭsaptāṣṭadravyakā ityuktarūpatvāt na punarucyante /
+> kiṃ punaratra dravyameva dravyaṃ gṛhyate āhosvidāyatanam /
+> kiṃ cātaḥ /
+> yadi dravyameva dravyaṃ gṛhyate atyalpamidamucyate aṣṭadravyako navadaśādravyaka iti /
+> avaśyaṃ hi taddravyasaṃsthānenāpi bhavitavyam /
+> tasyāpi paramāṇusaṃcitatvāt /
+> gurutvalaghutvayoścānyatareṇa ślakṣṇatvakarkaśatvayośca /
+> śītenāpi kvacit jighatsayā pipāsayā ca /
+> athāpyāyatanadravyaṃ gṛhyate ayivahṇidamucyate aṣṭadravyaka iti /
+> caturdravyako hi vaktavyo yāvatā bhūtānyapi spraṣṭavyāyatanam /
+> kiñcidatra dravyameva dravyaṃ gṛhyate yadāśrayabhūtaṃ kiñcidatrāyatanaṃ dravyaṃ gṛhyate yadāśritabhūtam /
+> evamapi bhūyāṃsi bhūtadravyāṇi bhavantyupādāyarūpāṇāṃ pratyekaṃ bhūtacatuṣkāśritatvāt /
+> atra punarjātidravyaṃ gṛhyate /
+> bhūtacatuṣkāntarāṇāṃ svajātyanatikramāt /
+> kaḥ punaryatsa evaṃ vikalpena vaktum /
+> cchandato 'pi hi vācāṃ pravṛttirarthastu parīkṣyaḥ /
 
-The unit is printed 52.19–54.02 in `Vasubandhu/Sources/kosabhasya.txt`. The witness above is the rule. The objections through the appeal to examine the meaning are reported below. Defects are retained in the source and resolved only in translation: kāma ghātāvaśābdako as Desire Realm and soundless, aṣṭo dravyāṇi as eight constituents. No independent collation is claimed.
+The unit is printed 52.19–54.02 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The excerpt now
+includes the objections and replies. Spacing and the opening
+transcription are editorial: kāma ghātāvaśabdako and aṣṭo dravyāṇi
+are construed as Desire Realm/soundless and eight constituents.
+The running ścttaviprayuktāḥ is normalized to ścittaviprayuktāḥ.
+Sūcītūnī, saṃgrahaghṛti, avyati bhede, taddravyasaṃsthānenāpi,
+ayivahṇidam, and kaḥ punaryatsa remain visible above. Their
+contextual English readings are provisional, not independent collation.
 
 ## 3. Continuous Conventional Translation
 
-This is now considered. Do these conditioned dharmas, just as they have distinct characteristics, also arise separately, or are there some that necessarily arise together? There are, he says. All these dharmas are five: form, mind, mental factors, formations dissociated from mind, and the unconditioned. The unconditioned does not arise at all. For material dharmas, this rule.
+This is now considered. Do these conditioned dharmas, just as they have distinct characteristics, also arise separately, or are there some that necessarily arise together? There are, he says. All these dharmas fall into five classes: Form, consciousness, mental factors, formations dissociated from consciousness, and the unconditioned. The unconditioned does not arise at all. For Form dharmas, this is the rule.
 
-In the desire realm, a soundless minimal cluster without a faculty consists of eight constituents. The most subtle cluster of form is called a paramāṇu, beyond which a further smaller cluster could not be discerned. In the desire realm, without sound and without a faculty, it arises with eight, lacking none. The eight are the four Great Elements and four derived forms: visible form, odor, taste, and the tangible. A soundless cluster possessing a faculty arises with nine or ten. One possessing the body-faculty has nine: those eight and the body-faculty. One possessing another faculty has ten: those nine and one among eye, ear, nose, and tongue. With sound, they arise with nine, ten, and eleven. There is also sound inseparable from a faculty, caused by appropriated Great Elements.
+In the Desire Realm, a soundless minimal cluster without a Faculty consists of eight constituents. The most subtle cluster of Form is called a minimal cluster, beyond which a further smaller cluster could not be discerned. In the Desire Realm, without sound and without a Faculty, it arises with eight, lacking none. The eight are the four Great Elements and four Element-dependent Forms: visible Form, odor, taste, and the tangible. A soundless cluster possessing a Faculty arises with nine or ten. One possessing the body-Faculty has nine: those eight and the body-Faculty. One possessing another Faculty has ten: those nine and one among eye, ear, nose, and tongue. With sound, they arise with nine, ten, and eleven respectively. There is also sound inseparable from a Faculty, caused by appropriated Great Elements.
 
-If the Elements are inseparable, how does one cluster arise hard, another fluid, hot, or moving? Whichever is most intense, standing out by its efficacy, is apprehended there. How is the rest known to be present? From their activities: holding together, sustaining, ripening, and spreading; and because, when conditions are available, the hard becomes fluid and so forth. Others say heat in water is known from the greater degree of cold. A greater degree of cold could occur without admixture, as with sound or feeling. Others say the Elements are present as seeds, not in their own form, from the statement that there are various Elements in this log.
+If the Elements are inseparable, how does one cluster arise hard, another fluid, hot, or moving? Whichever is most intense, standing out by its efficacy, is apprehended there—as with the touch of a bundle of needles [the first compound is uncertain], and the taste of flour and powdered salt. How is the rest known to be present? From their activities: holding together, sustaining, ripening, and spreading; and because, when conditions are available, the hard becomes fluid and so forth. Others say heat in water is known from the greater degree of cold. But a greater degree of cold could occur without admixture, as with greater intensity of sound or feeling. Others say the Elements are present as seeds, not in their own Form, from the statement, “There are various Principles in this log.”
 
-How is visible color present in wind? To be accepted, not inferred. Odor is apprehended from moving air, and odor does not occur without visible color. Odor and taste are absent in the form realm. The clusters there are of six, seven, or eight. Already indicated, not restated.
+How is visible color present in wind? This matter is to be accepted, not inferred. [An inferential reason follows:] odor is apprehended from moving air, and odor does not occur without visible color. The absence of odor and taste in the Form Realm has been stated; the clusters there have six, seven, or eight constituents. Since their character has thereby been indicated, they are not stated again.
 
-Is constituent an individual real, or an essence? If individual, eight is too little: shape, heaviness or lightness, smoothness or roughness, and sometimes cold, hunger, and thirst. If essence, eight is too much: four, since the Elements also belong to the tangible essence. Here support is counted as constituent, and what is supported as essence. Even so the Elemental constituents would be more, each derived form depending on its own quartet. They are counted by kind. The other quartets do not go beyond their kinds. Why the effort of these distinctions? Words may be used as one chooses. The meaning is to be examined.
+Is constituent here an individual real constituent, or an Essence? What follows from that? If individual, eight, nine, or ten is too little: there must also be shape [the clause is damaged], since that too consists of accumulated minimal clusters; heaviness or lightness; smoothness or roughness; and sometimes cold, hunger, and thirst. If an Essence is counted as a constituent, eight is too much: four should be stated, since the Elements also belong to the Tangible Essence. Here what serves as Basis is counted as an individual constituent, and what is based upon it as an Essence. Even so the Elemental constituents would be more, each Element-dependent Form depending on its own quartet of Elements. Here, however, constituent-kind is counted. The other quartets do not go beyond their own kinds. Why the effort to speak through these distinctions [the question is damaged]? Words may be used as one chooses. The meaning is to be examined.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -64,7 +101,7 @@ Two positions are others: degrees of cold, and presence as seed. No school is na
 | Body-faculty | 9 | 10 |
 | Body and one of eye, ear, nose, tongue | 10 | 11 |
 
-The tangible in the eight is derived tangible form. Not the whole tangible essence, which would already include the Elements. That distinction becomes the later objection.
+The tangible in the eight is Element-dependent tangible Form. Not the whole Tangible Essence, which would already include the Elements. That distinction becomes the later objection.
 
 Another faculty is the four named. Not all twenty-two. Sound adds one. It does not make every faculty-bearing cluster continuously sound-producing.
 
@@ -82,9 +119,9 @@ Visible color in wind: accepted, not inferred, and then an inference from odor. 
 
 ## 7. What the Number Counts
 
-Every individual determination would be more than eight. Essences alone would be four: visible form, odor, taste, and the tangible, the Elements under the last.
+Every individual determination would be more than eight. Essences alone would be four: Visible Form, Odor, Taste, and Tangible Essences, the Elements under the last.
 
-Support is counted as constituent. Supported is grouped by essence. Each derived form has its own quartet. Those are counted by kind, so the four kinds are not multiplied.
+Basis is counted as constituent. What is based upon it is grouped by Essence. Each Element-dependent Form has its own quartet. Those are counted by kind, so the four kinds are not multiplied.
 
 Eight is not eight particles. The passage examines the convention. The appeal to meaning is part of the argument.
 
@@ -98,10 +135,28 @@ Defects stay in the source. Desire Realm, eight constituents, sustaining, absenc
 
 Possession and co-arising are different relations. Character, occurrence together, predominance, activity, and seed stay apart. Individual, essence, and kind do different work. A number without its unit is not the proposition.
 
-The telos is not this floor. Prāpti is what would enter the path. Co-arising says what must arise together if form arises. Not the verse English.
+The counting unit travels with the number: the mixed constituent/Essence
+account cannot silently become eight particles or eight Essences.
+This shift from possession to necessary co-arising does not itself
+explain Path entry.
+
+Cognition joins and governs Perception and Conception and guides
+the reading of Dharma Base, remaining distinct from consciousness
+and Mind. The opening fivefold classification names consciousness;
+it must not be silently replaced by Mind or Cognition.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The objections through the appeal to meaning are kept. Damaged wording stays marked.
+Reviewed with the kārikā against printed 52.19–54.02. The continuous
+Sanskrit now includes the full local discussion, including the
+predominance analogies, alternatives, counting objections, and closing
+appeal to examine the meaning. Damaged readings remain marked.
+
+The study translation carries soundlessness through all three cases
+and makes body plus one of the four other Faculties explicit.
+Executable checks distinguish 8/9/10 from sound's 9/10/11 and the
+Form-Realm reduction; they do not decide the seed dispute.
+Consciousness and controlled Form/Essence/Principle terminology
+are restored. The unsupported Path-entry claim is removed.
 
 2.23 has not been opened.

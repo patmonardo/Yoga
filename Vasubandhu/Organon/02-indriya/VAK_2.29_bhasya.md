@@ -6,9 +6,11 @@
 >
 > kleśaiś caturbhiḥ krodhādyaiḥ kaukṛtyenaikaviṃśatiḥ // 2.29 //
 
-> In isolated unwholesome consciousness and in that associated with a view,
-> twenty factors occur. With one of the four afflictions, one of the anger-
-> group, or regret, the count is twenty-one.
+> In the Desire Realm, isolated unwholesome consciousness and unwholesome
+> consciousness associated with a view each have twenty mental factors.
+> With one of the four afflictions—attachment, hostility, conceit, or doubt—
+> or one secondary affliction beginning with anger, or regret, the local
+> count is twenty-one.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -30,11 +32,16 @@
 > samāsata āveṇike cetasy akuśale dṛṣṭiyukte ca viṃśatiḥ /
 > anyakleśopakleśasaṃprayukte tv ekaviṃśatiḥ /
 
-The unit is printed 58.04–58.17 in `Vasubandhu/Sources/kosabhasya.txt`. Viṃśātiḥ and kleāśamahābhūmikā are read as twenty and affliction great-ground. Eka viṃśatiḥ as twenty-one. Not a collation. Obscured-indeterminate at 58.18 is 2.30.
+The unit is printed 58.04–58.17 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The block is a
+normalized study transcription: viṃśātiḥ and kleāśamahābhūmikā
+are read as viṃśatiḥ and kleśamahābhūmikā; eka viṃśatiḥ is
+joined as ekaviṃśatiḥ. These contextual repairs are not independent
+collation. Obscured-indeterminate at 58.18 begins 2.30.
 
 ## 3. Continuous Conventional Translation
 
-But in isolated unwholesome consciousness and in that associated with a view, twenty. In an unwholesome consciousness that is isolated there are twenty mental factors: ten universal great-ground factors, six affliction great-ground factors, two unwholesome great-ground factors, and vitarka and vicāra. Isolated names a consciousness in which ignorance alone occurs, without another affliction such as attachment. In unwholesome consciousness associated with a view there are likewise twenty, the same as in the isolated case. But should there not be twenty-one, since the view is additional? No. A certain special form of prajñā, itself belonging to the universal great-ground factors, is called a view. Here unwholesome consciousness associated with a view means that in which there is wrong view, attachment to views, or attachment to rules and observances.
+But in isolated unwholesome consciousness and in that associated with a view, twenty. In an unwholesome consciousness that is isolated there are twenty mental factors: ten universal great-ground factors, six affliction great-ground factors, two unwholesome great-ground factors, and initial and sustained examination. Isolated names a consciousness in which ignorance alone occurs, without another affliction such as attachment. In unwholesome consciousness associated with a view there are likewise twenty, the same as in the isolated case. But should there not be twenty-one, since the view is additional? No. A certain special form of discriminative comprehension, itself belonging to the universal great-ground factors, is called a view. Here unwholesome consciousness associated with a view means that in which there is wrong view, attachment to views, or attachment to rules and observances.
 
 With the four afflictions, those beginning with anger, or regret, twenty-one. When unwholesome consciousness is associated with one of the four, attachment, hostility, conceit, or doubt, there are twenty-one: that affliction and the twenty stated for the isolated case. Likewise, in consciousness associated with a secondary affliction beginning with anger, as previously stated, those twenty and that secondary affliction make twenty-one. With regret too there are twenty-one. Regret itself is the twenty-first. In summary, in isolated unwholesome consciousness and in that associated with a view there are twenty. In that associated with another affliction or secondary affliction, twenty-one.
 
@@ -44,7 +51,9 @@ A base count. Isolated defined. The same count extended to view. An objection as
 
 ## 5. Isolated
 
-Ten, six, two, vitarka, vicāra. Isolated cannot mean isolated from all other factors. Ignorance alone excludes another affliction such as attachment.
+Ten universal, six affliction, two unwholesome, and the examination
+pair. Isolated cannot mean isolated from all other factors. Ignorance
+alone excludes another affliction such as attachment.
 
 Read with the count. Heedlessness, laziness, lack of faith, sluggishness, and agitation are not removed because ignorance is called alone. The six stay. The passage distinguishes a further affliction. It does not retract the accompaniments already established.
 
@@ -52,11 +61,15 @@ Mental factors in a consciousness. Not faculties possessed by a continuum. Consc
 
 ## 6. Why View Does Not Add
 
-The objection is numerical. The answer is identity. View is a special form of prajñā. Prajñā is already mati among the universal factors. The particular form is not a further member beside it.
+The objection is numerical. The answer is identity. View is a special
+form of discriminative comprehension, already counted among the
+universal factors. The particular form is not a further member beside it.
 
 Wrong view, attachment to views, attachment to rules and observances. Unwholesome is essential. Not every view is unwholesome. Obscured-indeterminate views are the next unit.
 
-Prajñā here is not liberating knowledge. It is the discriminative factor already counted, and its determination can be an unwholesome view. Occurrence is not adequacy.
+Discriminative comprehension here is not liberating knowledge. It is
+already counted, and its determination can be an unwholesome view.
+Occurrence is not adequacy.
 
 ## 7. Twenty-One
 
@@ -82,12 +95,31 @@ Mechanical defects stay in the source. Twenty, affliction great-ground, and twen
 
 ## 9. Interpretation
 
-A particular determination is not a further associate. View is counted through the Discrimination it qualifies. The named addition raises the total. Two descriptions can have different numbers of names and the same number of factors.
+A particular determination is not a further associate. View is counted
+through the discriminative comprehension it qualifies. The named
+addition raises the total. Two descriptions can have different numbers
+of names and the same number of factors.
 
-Labels alone would count view twice. Collapsing every addition into a qualification would lose the twenty-first. Identity before the count. Objective Logic on the mind is the pass. Not the translation. Not the final pass.
+Labels alone would count view twice. Collapsing every addition into
+a qualification would lose the twenty-first. Identity before the count.
+
+Cognition joins and governs Perception and Conception and guides
+the reading of Dharma Base, remaining distinct from consciousness
+and Mind. A specialized comprehension-factor is not another
+Cognition added to the inventory; nor does that identity license
+collapsing the distinct associates into already-counted factors.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. Isolated, view, the objection, and the three additions are kept.
+Reviewed with the kārikā against printed 58.04–58.17. The study
+translation carries Desire-Realm scope and names the four alternative
+afflictions; the anchor matches. The same-twenty view objection
+and its discriminative-comprehension explanation remain intact.
 
-2.30 has not been opened.
+Executable checks cover 10 + 6 + 2 + 2, view without double-counting,
+and each alternative single addition to twenty-one. Isolated does
+not remove the established accompaniments. Torpor remains a later
+qualification, not excluded by these local counts.
+
+The following indeterminate-count passage was read to establish the
+boundary; paired review of 2.30 remains next.

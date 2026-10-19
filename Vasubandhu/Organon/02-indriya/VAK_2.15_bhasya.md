@@ -6,11 +6,9 @@
 >
 > upekṣāṃ caiva rūpe 'ṣṭau kāme daśa navāṣṭau vā // 2.15 //
 
-> At death in the formless realm, life, mind, and neutral feeling are
-> brought to cessation. In the Form realm, eight; in the desire realm, ten,
-> nine, or eight.
-
-The opening follows the commentary's question about dying. Uparamān nārūpye is kept as uncertain. The death unit continues into the next verse's first clauses: in gradual death, four; with a wholesome mind, everywhere five in addition. Those complete the counts. The fruit inquiry is not this unit.
+> One dying in the Formless realm brings life, Mind, and neutral feeling
+> to cessation; in the Form realm, eight Faculties; in the Desire-realm,
+> ten, nine, or eight.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -35,7 +33,9 @@ The opening follows the commentary's question about dying. Uparamān nārūpye i
 > śraddhādīni ca pañcādhikāni / eṣāṃ kuśale cetasy avaśyaṃbhāvaḥ /
 > evam ārūpyeṣv aṣṭau nirodhayati rūpeṣu trayodaśeti vistareṇa gaṇanīyam /
 
-The death unit is printed 48.15–49.04 in `Vasubandhu/Sources/kosabhasya.txt`. The acquisition close belongs to 2.14. The fruit question at 49.05–06 is not taken.
+The death unit is printed 48.15–49.04 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The acquisition
+close belongs to 2.14. The fruit question at 49.05–06 is not taken.
 
 Word division is editorial. Repairs: mriyalmāṇo → mriyamāṇo, ṣubhe → śubhe, trayodaśāeti → trayodaśeti. The uncertain verse wording is kept. No independent collation is claimed.
 
@@ -63,9 +63,13 @@ Gradual death ends on four. They do not cease separately, in that terminal conte
 
 ## 6. The Wholesome-Mind Addition
 
-The earlier rule is afflicted or indeterminate mind. Wholesome mind adds faith, vigor, mindfulness, concentration, and Discrimination, because the text says they necessarily occur there.
+The earlier rule is afflicted or indeterminate consciousness. Wholesome
+consciousness adds faith, vigor, mindfulness, concentration, and
+discriminative comprehension, because the text says they necessarily
+occur there. This is the quality of the final consciousness, not the
+Mind-Faculty substituted for consciousness.
 
-| Case | Stated | With wholesome mind |
+| Case | Stated | With wholesome consciousness |
 |---|---:|---:|
 | Formless | 3 | 8 |
 | Form | 8 | 13 |
@@ -90,7 +94,15 @@ Tyāga is loss. Nirodhayati is brings to cessation. The subject is the dying per
 
 Sakṛnmaraṇa is death all at once. Kramamṛtyu is gradual death. The second opens the next verse and completes this count. The cross-verse continuation is marked.
 
-Śubhe is kuśale cetasi, with a wholesome mind. Pañca ca is five in addition. Avyākṛta is indeterminate. Upekṣā is neutral feeling. The two neutralities stay apart.
+Śubhe is kuśale cetasi, with wholesome consciousness. Pañca ca is five
+in addition. Avyākṛta is indeterminate. Upekṣā is neutral feeling.
+The two neutralities stay apart.
+
+The opening follows the commentary's question about dying. Uparamān
+nārūpye remains uncertain, with no settled word division claimed. The
+death unit continues into the next verse's opening clauses: gradual
+death, four; with wholesome consciousness, everywhere five in addition.
+These complete the conditions but are not words of 2.15's numbered verse.
 
 ## 9. Interpretation
 
@@ -98,10 +110,26 @@ The count depends on realm, marks, mode of dying, and the last mind. Detach thos
 
 Initial maturation, possession, cessation at death, and abandonment are not interchangeable inventories. The five are the case: they add to the terminal count and remain wholesome.
 
-Membership and consequence, at the boundary. Which possessed members cease. Not the inverse of first acquisition. Not the verse English.
+The Organon determination is a context-qualified terminal inventory,
+not the reversal of first acquisition as maturation. Cessation here
+does not itself establish path-abandonment or the impossibility of
+future continuation.
+
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base without collapsing into Mind or consciousness.
+Mind is one counted Faculty; the ethical qualification of final
+consciousness is a distinct determination.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. Gradual death and the wholesome addition kept, as the completion of the death count. The fruit inquiry is not opened.
+Reviewed with the kārikā against printed 48.15–49.04. The uncertain
+opening is retained without a silent emendation. The study translation
+preserves the dying subject and matches the anchor exactly.
 
-2.16 has not been opened.
+Grammar–Logic distinguishes the verse's realm-counts from the
+cross-verse gradual-death and wholesome-consciousness qualifications.
+The sensory five and faith-group five remain distinct. Expressly
+recited counts are distinguished from calculated additions.
+
+The opening clauses of 2.16 have been read as this death unit's
+continuation; its fruit-attainment inquiry remains unreviewed.

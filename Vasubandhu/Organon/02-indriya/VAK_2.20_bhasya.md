@@ -6,11 +6,10 @@
 >
 > yukto bālas tathārūpye upekṣāyurmanaḥśubhaiḥ // 2.20 //
 
-> At least, one deprived of the wholesome is endowed with eight: feelings,
-> mind, body, and life. Likewise, an ordinary person in the formless realm
-> is endowed with neutral feeling, life, mind, and the wholesome Faculties.
-
-Feeling supplies five in the first case. The wholesome supplies five in the second.
+> At the minimum, one whose wholesome roots are severed possesses eight
+> Faculties: the five feelings, Mind, body, and life. Likewise, an ordinary
+> person in the Formless realm possesses eight: neutral feeling, life,
+> Mind, and the five beginning with faith.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -30,7 +29,16 @@ Feeling supplies five in the first case. The wholesome supplies five in the seco
 > ājñāsyāmīndriyādīnām api grahaṇaprasaṅgaḥ / na /
 > aṣṭādhikārād bālādhikārāc ca //
 
-The unit is printed 51.23–52.08 in `Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial. Srvālpaiḥ and niḥśāubhaḥ are read as sarvālpaiḥ and niḥśubhaḥ. Naṣṭādhikārād dvālādhikārācca is read as aṣṭādhikārād bālādhikārāc ca. Samucchinnakuśamūlo is read as severed wholesome roots. Vedanādibhiḥ is the five feelings. Vedayata is experiences. Contextual, not a collation. The greatest number at 52.09 is 2.21.
+The unit is printed 51.23–52.08 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). Word division is
+editorial. Srvālpaiḥ and niḥśāubhaḥ are read as sarvālpaiḥ and
+niḥśubhaḥ. At 52.07–08 the witness reads aṣṭādhikārād
+dvālādhikārācca; only the latter is normalized to bālādhikārāc ca.
+The earlier note's Naṣṭādhikārād was not the witness reading.
+Samucchinnakuśamūlo is construed as severed wholesome roots.
+Vedanādibhiḥ supplies the five feelings. Vedayata is construed as
+experiences. Contextual, not a collation. The greatest number at
+52.09 opens 2.21.
 
 ## 3. Continuous Conventional Translation
 
@@ -52,7 +60,9 @@ At the least is the minimum of the case. It does not say every such person lacks
 
 ## 6. The Formless Ordinary Person
 
-The other eight are neutral feeling, life, mind, faith, vigor, mindfulness, concentration, and Discrimination. Bāla is ordinary person. Child would lose the status that controls the reply.
+The other eight are neutral feeling, life, Mind, faith, vigor,
+mindfulness, concentration, and discriminative comprehension.
+Bāla is ordinary person. Child would lose the status controlling the reply.
 
 Formless and ordinary person both stay on this case. Not every ordinary person in every realm. Possession of the five is not possession of a realization-faculty.
 
@@ -74,14 +84,36 @@ Yathā … tathā is just as … likewise. The numerical comparison does not tra
 
 Possession is not simultaneous manifestation. Five feelings in the count are not five feelings in one moment.
 
+The study translation resolves both collective expressions as five
+and identifies severed wholesome roots explicitly. Likewise carries
+the eight-count, not the privation of wholesome roots.
+
 ## 9. Interpretation
 
 Eight can be severed roots, or a formless ordinary person with the five. The number cannot carry the determination. The shared triad is common possession, not a sufficient description of either case.
 
-The hub looked toward is post citta:caitta, a controller endowed with the principle-rule set. Prāpti is the telos of that technē, and it is what lays out hetu and pratyaya. Without a telos in the desire realm the path is not entered. This verse is the floor, not that entry. Not the verse English.
+The Organon determination is a comparison of scoped minima. The shared
+triad is not a complete account of either person, and the numeral
+cannot replace the conditions identifying the five additional members.
+This passage does not establish a controller, a telos of acquisition,
+or a condition for entering the Path.
+
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base without collapsing into Mind or consciousness.
+Mind is one member of both minima; its shared possession does not
+make their different Faculty-sets identical cognitive operations.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. Both eights and the objection are kept.
+Reviewed with the kārikā against printed 51.23–52.08. Both five-member
+collectives and severed wholesome roots are explicit in the study
+translation; the anchor matches exactly. The source note no longer
+attributes a nonexistent initial na to aṣṭādhikārād.
+
+Grammar–Logic distinguishes equal minima from equal membership or
+every person's exact total. The wholesome objection and its two
+restrictions remain intact. The interpretation's unsupported
+controller and telos claims are removed; no global minimum proof
+is claimed from a finite example model.
 
 2.21 has not been opened.

@@ -18,28 +18,71 @@ saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān // 2.18 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| caturbhiḥ | instrumental | with four |
-| sukha-kāyābhyām | instrumental dual | pleasure, and body, separately |
-| pañcabhiḥ | instrumental | with five |
-| cakṣur-ādi-mān | nominative | one possessing the eye and so forth |
-| saumanasyī | nominative | one possessing gladness |
-| duḥkhī tu | nominative | one possessing pain, however |
-| saptabhiḥ | instrumental | with seven |
-| strī-indriya-ādi-mān | nominative | one possessing the female faculty and so forth |
+| caturbhiḥ | instrumental plural numeral | with four [Faculties], necessarily possessed |
+| sukha-kāyābhyām | instrumental dual neuter compound | through pleasure or body, distributively, not jointly |
+| pañcabhiḥ | instrumental plural numeral | with five [Faculties] |
+| cakṣur-ādi-mān | nominative singular masculine possessive compound | one possessing eye or another of the locally specified four |
+| saumanasyī | nominative singular masculine possessive adjective | one possessing gladness; shares the five-count |
+| ca | coordinating particle | and |
+| duḥkhī | nominative singular masculine possessive adjective | one possessing Pain-Faculty |
+| tu | contrastive particle | however |
+| saptabhiḥ | instrumental plural numeral | with seven [Faculties] |
+| strī-indriya-ādi-mān | nominative singular masculine possessive compound | one possessing Female-Faculty and so forth; count completed in 2.19 |
 
 The dual distributes four over two cases. It does not make pleasure and body one set of four.
 
-## 4. Grammar
+**Grammar tokens.** External sandhi is opened; compounds remain intact.
+The final subject has no numeral in this verse. Its eight-count is
+supplied only in the cross-verse continuation.
 
 ```text
-% start S
-S[POSSESS=4] -> Pleasure | Body
-S[POSSESS=5] -> Eye | Gladness
-S[POSSESS=7] -> Pain
-S[POSSESS=8] -> Female | FaithFive
+# tokens: caturbhiḥ sukha-kāyābhyām pañcabhiḥ cakṣurādimān saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān
 ```
 
-The count is a feature determined by the possessed faculty.
+## 4. Grammar
+
+The opening dual distributes the four-count over two separate possession
+cases. The eye-group and gladness share five, but not the same members.
+Pain takes seven. The final possessor subject continues into 2.19's
+eight. Necessarily possesses is carried from the ongoing question and
+repeated in the prose; none of the counts excludes extra Faculties.
+
+```nltk-fcfg
+% start S
+# tokens: caturbhiḥ sukha-kāyābhyām pañcabhiḥ cakṣurādimān saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān
+S[SEM=<(?four & ?five & ?seven & ?tail)>] -> FOURCLAUSE[SEM=?four] FIVECLAUSE[SEM=?five] SEVENCLAUSE[SEM=?seven] TAIL[CONTINUED=next_verse,SEM=?tail]
+FOURCLAUSE[SEM=<(NecessaryCount(pleasure_f,?count) & NecessaryCount(body_f,?count))>] -> FOUR[CASE=ins,CNT=4,SEM=?count] PAIR[CASE=ins,NUM=du,READING=distributive]
+FIVECLAUSE[SEM=<(EyeGroupCount(?count) & NecessaryCount(?glad,?count))>] -> FIVE[CASE=ins,CNT=5,SEM=?count] EYES[CASE=nom,GEN=m] GLAD[CASE=nom,GEN=m,SEM=?glad] AND
+SEVENCLAUSE[SEM=<NecessaryCount(?pain,?count)>] -> PAIN[CASE=nom,GEN=m,SEM=?pain] BUT SEVEN[CASE=ins,CNT=7,SEM=?count]
+FOUR[CASE=ins,CNT=4,SEM=<four>] -> 'caturbhiḥ'
+PAIR[CASE=ins,NUM=du,READING=distributive] -> 'sukha-kāyābhyām'
+FIVE[CASE=ins,CNT=5,SEM=<five>] -> 'pañcabhiḥ'
+EYES[CASE=nom,GEN=m] -> 'cakṣurādimān'
+GLAD[CASE=nom,GEN=m,SEM=<gladness_f>] -> 'saumanasyī'
+AND -> 'ca'
+PAIN[CASE=nom,GEN=m,SEM=<pain_f>] -> 'duḥkhī'
+BUT -> 'tu'
+SEVEN[CASE=ins,CNT=7,SEM=<seven>] -> 'saptabhiḥ'
+TAIL[CONTINUED=next_verse,SEM=<FemaleAndOthersSubject>] -> 'strīndriyādimān'
+```
+
+```nltk-dep
+'caturbhiḥ' -> 'sukha-kāyābhyām'
+'pañcabhiḥ' -> 'cakṣurādimān' | 'saumanasyī' | 'ca'
+'saptabhiḥ' -> 'duḥkhī' | 'tu' | 'strīndriyādimān'
+```
+
+The dependency block checks vocabulary coverage, not dependency parsing;
+the final subject is attached for coverage only, not as a seven-count
+case. Its predicate is outside this verse.
+
+| Span | Constituent | Result |
+|---|---|---|
+| [0, 2) | `FOURCLAUSE` | two distributive four-count cases |
+| [2, 6) | `FIVECLAUSE` | eye-group and gladness five-counts |
+| [6, 9) | `SEVENCLAUSE` | pain seven-count |
+| [9, 10) | `TAIL` | subject continued into the next verse |
+| [0, 10) | `S` | numbered verse without silently inserting eight |
 
 ## 5. Translation
 
@@ -51,9 +94,11 @@ The count is a feature determined by the possessed faculty.
 
 ### Bhāṣya-informed study translation
 
-> One with pleasure or body has four; one possessing the eye and the rest,
-> five; one with gladness also, five; one with pain, however, seven; one
-> possessing the female Faculty and so forth has eight.
+> One possessing Pleasure-Faculty or Body-Faculty necessarily possesses
+> four Faculties; one possessing eye or another of that group, five;
+> one possessing gladness also, five; one possessing pain, however,
+> seven. One possessing Female-Faculty and so forth [necessarily
+> possesses eight].
 
 ## 6. Philosophical Translation
 
@@ -72,41 +117,81 @@ The count is a feature determined by the possessed faculty.
 
 ## 8. Logical Determination
 
-```text
-triad
-    = neutral feeling, life, mind
+**Kārikā, derived.** The verse gives four, five, and seven, followed by
+the next clause's subject. The eight-count and its different member-sets
+are identified as a cross-verse prose elaboration.
 
-pleasure
-    = triad + pleasure
-body
-    = triad + body
-
-eye, ear, nose, tongue
-    = triad + body + that one
-    = 5
-
-gladness
-    = triad + pleasure + gladness
-    = 5
-
-pain
-    = body, life, mind,
-      pain, pleasure, gladness, neutral feeling
-    = 7
-
-female, male, distress
-    = those seven + itself
-    = 8
-
-five beginning with faith
-    = the five + triad
-    = 8
-
-possessed
-    ↛ active now
-same count
-    ↛ same set
+```nltk-sem
+necessary_count : \f.\n.NecessaryCount(f,n)
+eye_count : EyeGroupCount(five)
+continued_subject : FemaleAndOthersSubject
 ```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(NecessaryCount(pleasure_f,four) & NecessaryCount(body_f,four) & EyeGroupCount(five) & NecessaryCount(gladness_f,five) & NecessaryCount(pain_f,seven) & FemaleAndOthersSubject)
+
+# THEORY prose_closures
+# EXPECT prose_closures T
+all x.all y.all z.((Possesses(x,y) & Requires(y,z)) -> Possesses(x,z))
+all x.(Requires(pleasure_f,x) <-> (CoreThree(x) | x = pleasure_f))
+all x.(Requires(body_f,x) <-> (CoreThree(x) | x = body_f))
+all x.(Requires(gladness_f,x) <-> (CoreThree(x) | x = pleasure_f | x = gladness_f))
+all x.(Requires(pain_f,x) <-> PainSeven(x))
+(SecondDhyanaBorn(second_person) & -ThirdDhyanaAttained(second_person) & Possesses(second_person,pleasure_f) & AfflictedThirdLevelPleasure(second_person))
+
+# THEORY cross_verse_eights
+# EXPECT cross_verse_eights T
+all x.(Requires(female_f,x) <-> (PainSeven(x) | x = female_f))
+all x.(Requires(distress_f,x) <-> (PainSeven(x) | x = distress_f))
+all x.(Requires(faith_f,x) <-> (CoreThree(x) | FaithFive(x)))
+
+# THEORY rejected_gladness_without_pleasure
+# EXPECT rejected_gladness_without_pleasure F
+exists x.(Possesses(x,gladness_f) & -Possesses(x,pleasure_f))
+
+# THEORY rejected_faith_entails_pain
+# EXPECT rejected_faith_entails_pain F
+all x.(Possesses(x,faith_f) -> Possesses(x,pain_f))
+
+# THEORY rejected_possession_requires_third_attainment
+# EXPECT rejected_possession_requires_third_attainment F
+all x.(Possesses(x,pleasure_f) -> ThirdDhyanaAttained(x))
+```
+
+```nltk-valuation
+pleasure_f => pleasure
+body_f => body
+gladness_f => gladness
+pain_f => pain
+female_f => female
+distress_f => distress
+faith_f => faith
+second_person => second_dhyana_person
+four => count_four
+five => count_five
+seven => count_seven
+NecessaryCount => {(pleasure,count_four),(body,count_four),(gladness,count_five),(pain,count_seven)}
+EyeGroupCount => {count_five}
+FemaleAndOthersSubject => True
+CoreThree => {neutral,life,mind}
+PainSeven => {body,life,mind,pain,pleasure,gladness,neutral}
+FaithFive => {faith,vigor,mindfulness,concentration,comprehension}
+Requires => {(pleasure,neutral),(pleasure,life),(pleasure,mind),(pleasure,pleasure),(body,neutral),(body,life),(body,mind),(body,body),(eye,neutral),(eye,life),(eye,mind),(eye,body),(eye,eye),(ear,neutral),(ear,life),(ear,mind),(ear,body),(ear,ear),(nose,neutral),(nose,life),(nose,mind),(nose,body),(nose,nose),(tongue,neutral),(tongue,life),(tongue,mind),(tongue,body),(tongue,tongue),(gladness,neutral),(gladness,life),(gladness,mind),(gladness,pleasure),(gladness,gladness),(pain,body),(pain,life),(pain,mind),(pain,pain),(pain,pleasure),(pain,gladness),(pain,neutral),(female,body),(female,life),(female,mind),(female,pain),(female,pleasure),(female,gladness),(female,neutral),(female,female),(male,body),(male,life),(male,mind),(male,pain),(male,pleasure),(male,gladness),(male,neutral),(male,male),(distress,body),(distress,life),(distress,mind),(distress,pain),(distress,pleasure),(distress,gladness),(distress,neutral),(distress,distress),(faith,faith),(faith,vigor),(faith,mindfulness),(faith,concentration),(faith,comprehension),(faith,neutral),(faith,life),(faith,mind),(vigor,faith),(vigor,vigor),(vigor,mindfulness),(vigor,concentration),(vigor,comprehension),(vigor,neutral),(vigor,life),(vigor,mind),(mindfulness,faith),(mindfulness,vigor),(mindfulness,mindfulness),(mindfulness,concentration),(mindfulness,comprehension),(mindfulness,neutral),(mindfulness,life),(mindfulness,mind),(concentration,faith),(concentration,vigor),(concentration,mindfulness),(concentration,concentration),(concentration,comprehension),(concentration,neutral),(concentration,life),(concentration,mind),(comprehension,faith),(comprehension,vigor),(comprehension,mindfulness),(comprehension,concentration),(comprehension,comprehension),(comprehension,neutral),(comprehension,life),(comprehension,mind)}
+Possesses => {(second_dhyana_person,neutral),(second_dhyana_person,life),(second_dhyana_person,mind),(second_dhyana_person,pleasure),(second_dhyana_person,gladness),(faith_person,neutral),(faith_person,life),(faith_person,mind),(faith_person,faith),(faith_person,vigor),(faith_person,mindfulness),(faith_person,concentration),(faith_person,comprehension)}
+SecondDhyanaBorn => {second_dhyana_person}
+ThirdDhyanaAttained => {}
+AfflictedThirdLevelPleasure => {second_dhyana_person}
+```
+
+`Requires` means necessary co-possession, not causal production or
+simultaneous manifestation. Its reflexive entries count the given
+Faculty itself. The faith-person is an illustrative countermodel to
+deriving the pain-seven from faith, not an exhaustive biography.
+The afflicted third-level pleasure is the source's short answer;
+no latent mechanism is supplied. Cardinality tests check every
+closure and distinguish the different eight-member sets.
 
 ## 9. Interpretive Note
 
@@ -124,7 +209,8 @@ Eye requires body, and body requires the triad. Gladness requires pleasure, and 
 
 The second-dhyāna answer is short. It does not explain the mechanism. Latent would add a theory the sentence does not give. The claim is the afflicted third-level pleasure, possessed, the dhyāna not attained.
 
-Distress is the next eight, not part of the seven. The faith eight does not ride on the pain seven. Tu marks that.
+Distress is the next eight, not part of the seven. The faith eight does
+not add to the pain seven. The prose's tu marks that distinction.
 
 Interpretation: the set, the initiating faculty, and the relation. A number alone loses the determination. Not the verse English.
 
@@ -146,6 +232,7 @@ vak:EyeFaculty vak:closesOn 5 .
 vak:GladnessFaculty vak:closesOn 5 .
 vak:PainFaculty vak:closesOn 7 .
 
-organon:EqualCountNotEqualSet
-    organon:notTheVerseEnglish true .
+organon:VAK_2_18_Interpretation
+    organon:distinguishes vak:GivenFaculty, vak:NecessaryCompanions,
+        vak:PossessionCount .
 ```

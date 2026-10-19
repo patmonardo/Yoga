@@ -7,8 +7,9 @@
 > strītvapuṃstvādhipatyāt tu kāyāt strīpuruṣendriye // 2.02 //
 
 > The five are Faculties by governing apprehension of their own meanings;
-> mind is so by apprehending all. The female and male Faculties are from the
-> body through governing female-being and male-being.
+> mind is a Faculty by governing apprehension of all meanings. The female
+> and male Faculties are separately designated within the body-faculty
+> because they govern female-being and male-being.
 
 ## 2. Continuous Sanskrit Witness
 

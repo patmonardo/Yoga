@@ -6,9 +6,10 @@
 >
 > caturṇāṃ pañcakasyāṣṭānāṃ saṃkleśavyavadānayoḥ // 2.01 //
 
-> The five have governing efficacy with respect to four meanings; the four,
-> indeed, with respect to two; the fivefold group and the eight, with
-> respect to defilement and purification.
+> The five sensory Faculties have governing efficacy with respect to four
+> meanings each; the four—female, male, life, and mind—it is said, with
+> respect to two each. The five feeling Faculties govern defilement; the
+> eight beginning with faith govern purification.
 
 ## 2. Continuous Sanskrit Witness
 

@@ -18,25 +18,62 @@ dviliṅga āryo rāgī ekaliṅgadvayāmalavarjitaiḥ // 2.21 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| bahubhiḥ | instrumental | with the greatest number |
-| yuktaḥ | nominative | endowed with |
-| ekānna-viṃśatyā | instrumental | with nineteen |
-| amala-varjitaiḥ | instrumental | excluding the stainless |
-| dvi-liṅgaḥ | nominative | possessing both sex faculties |
-| āryaḥ rāgī | nominative | a noble person still with attachment |
-| eka-liṅga-dvaya-amala-varjitaiḥ | instrumental | excluding one sex faculty and two stainless |
+| bahubhiḥ | instrumental plural adjective | with the greatest number [of Faculties], as the prose question specifies |
+| yuktaḥ | nominative singular masculine past passive participle | endowed; possession, not simultaneous manifestation |
+| ekānna-viṃśatyā | instrumental singular numeral | with nineteen, one short of twenty |
+| amala-varjitaiḥ | instrumental plural adjective | with [Faculties] excluding the stainless three |
+| dvi-liṅgaḥ | nominative singular masculine possessive compound | possessing both sex Faculties; first subject, qualified as complete in the prose |
+| āryaḥ | nominative singular masculine noun | noble person; second subject, glossed as trainee |
+| rāgī | nominative singular masculine adjective from rāgin | still with attachment, not free from attachment |
+| eka-liṅga-dvaya-amala-varjitaiḥ | instrumental plural compound adjective | with [Faculties] excluding one sex Faculty and two stainless Faculties |
 
-Stainless is the three. The running text has a short vowel in the second compound. The prose secures two uncontaminated faculties.
+The running witness has a short vowel in the final compound; the
+study's long-vowel reading is editorial. The prose resolves two
+uncontaminated Faculties. External sandhi is opened for parsing.
+
+```text
+# tokens: bahubhiḥ yuktaḥ ekānnaviṃśatyā amala-varjitaiḥ dviliṅgaḥ āryaḥ rāgī eka-liṅga-dvaya-amala-varjitaiḥ
+```
 
 ## 4. Grammar
 
-```text
+The first subject follows its instrumental predicates. The prose's
+“who else?” separates the noble trainee from the person possessing
+both sex Faculties. The second clause carries endowment and nineteen
+from the first; it does not carry both-sex status or exclusion of all
+three stainless Faculties. Completeness and trainee status are
+Bhāṣya qualifications, not additional words in the verse.
+
+```nltk-fcfg
 % start S
-S[MAX=19, SEX=both] -> Faculty[STAINLESS=false]
-S[MAX=19, NOBLE=true, ATTACHMENT=true] -> Faculty[SEX=one, STAINLESS=two-excluded]
+# tokens: bahubhiḥ yuktaḥ ekānnaviṃśatyā amala-varjitaiḥ dviliṅgaḥ āryaḥ rāgī eka-liṅga-dvaya-amala-varjitaiḥ
+S[SEM=<(?first & ?second)>] -> FIRST[SEM=?first] SECOND[SEM=?second]
+FIRST[SEM=<(MaximumCount(?person,?count) & ?exclude(?person) & BothSexes(?person))>] -> MOST[CASE=ins] ENDOWED[CASE=nom,GEN=m] NINETEEN[CASE=ins,CNT=19,SEM=?count] FIRSTEXCLUSION[CASE=ins,STAINLESS=3,SEM=?exclude] BOTH[CASE=nom,GEN=m,SEM=?person]
+SECOND[SEM=<(MaximumCount(learner,nineteen) & Noble(learner) & ?attached(learner) & ?exclude(learner))>] -> NOBLE[CASE=nom,GEN=m,SUBJECT=second] ATTACHED[CASE=nom,GEN=m,SEM=?attached] SECONDEXCLUSION[CASE=ins,SEX=1,STAINLESS=2,SEM=?exclude]
+MOST[CASE=ins] -> 'bahubhiḥ'
+ENDOWED[CASE=nom,GEN=m] -> 'yuktaḥ'
+NINETEEN[CASE=ins,CNT=19,SEM=<nineteen>] -> 'ekānnaviṃśatyā'
+FIRSTEXCLUSION[CASE=ins,STAINLESS=3,SEM=<\c.ExcludesThreeStainless(c)>] -> 'amala-varjitaiḥ'
+BOTH[CASE=nom,GEN=m,SEM=<both_sexes>] -> 'dviliṅgaḥ'
+NOBLE[CASE=nom,GEN=m,SUBJECT=second] -> 'āryaḥ'
+ATTACHED[CASE=nom,GEN=m,SEM=<\c.StillAttached(c)>] -> 'rāgī'
+SECONDEXCLUSION[CASE=ins,SEX=1,STAINLESS=2,SEM=<\c.ExcludesOneSexTwoStainless(c)>] -> 'eka-liṅga-dvaya-amala-varjitaiḥ'
 ```
 
-Nineteen is the maximum that still carries attachment or both sex faculties.
+```nltk-dep
+'yuktaḥ' -> 'bahubhiḥ' | 'ekānnaviṃśatyā' | 'amala-varjitaiḥ' | 'dviliṅgaḥ' | 'āryaḥ'
+'āryaḥ' -> 'rāgī' | 'eka-liṅga-dvaya-amala-varjitaiḥ'
+```
+
+The link from endowment to the second subject marks ellipsis; it does
+not make the two subjects one person. The dependency audit checks
+token coverage, not a full syntactic derivation.
+
+| Span | Constituent | Result |
+|---|---|---|
+| [0, 5) | `FIRST` | nineteen, both sex Faculties, all three stainless excluded |
+| [5, 8) | `SECOND` | nineteen carried, noble still attached, one sex and two stainless excluded |
+| [0, 8) | `S` | two subjects and two exclusion patterns |
 ## 5. Translation
 
 ### Literal Translation
@@ -47,14 +84,18 @@ Nineteen is the maximum that still carries attachment or both sex faculties.
 
 ### Bhāṣya-informed study translation
 
-> One is endowed with the greatest number, nineteen, excluding the
-> stainless; one possessing both sex faculties. A noble person still
-> possessing attachment has nineteen, excluding one sex faculty and two
-> stainless faculties.
+> A person possessing both sex Faculties, with Faculties complete,
+> possesses the greatest number, nineteen, excluding the three stainless
+> Faculties. A noble trainee still with attachment likewise possesses
+> nineteen, excluding one sex Faculty and two stainless Faculties:
+> the Faculty of one who has known and either of the other two.
 
 ## 6. Philosophical Translation
 
-> Nineteen is the maximum that still includes attachment or both sexual characteristics. The stainless triad is never co-present with that maximum.
+> The maximum count does not measure completion of realization.
+> One nineteen includes both sex Faculties and no realization-Faculty;
+> the trainee's nineteen includes one sex Faculty and one
+> realization-Faculty. Equal totals preserve different qualifications.
 
 ## 7. Technical Vocabulary
 
@@ -69,25 +110,83 @@ Nineteen is the maximum that still carries attachment or both sex faculties.
 
 ## 8. Logical Determination
 
-```text
-worldly maximum
-    = 22 - 3
-    = 19
-    stainless intersection empty
+**Kārikā, derived.** The SEM distinguishes the two subjects and their
+exclusion patterns. The following finite inventories expand the
+Bhāṣya: the complete first case, and two alternative trainee cases.
+The trainee alternatives are not a joint possession of both remaining
+realization-Faculties.
 
-trainee maximum
-    = 22 - 1 sex - 2 stainless
-    = 19
-    one stainless possessed
-    one who has known excluded
-
-same count
-    ≠ same set
-complete
-    ≠ all twenty-two
-greatest number
-    ↛ every trainee has exactly nineteen
+```nltk-sem
+first_exclusion : \c.ExcludesThreeStainless(c)
+attachment : \c.StillAttached(c)
+second_exclusion : \c.ExcludesOneSexTwoStainless(c)
 ```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(MaximumCount(both_sexes,nineteen) & ExcludesThreeStainless(both_sexes) & BothSexes(both_sexes) & MaximumCount(learner,nineteen) & Noble(learner) & StillAttached(learner) & ExcludesOneSexTwoStainless(learner))
+
+# THEORY prose_inventories
+# EXPECT prose_inventories T
+CompleteFaculties(both_sexes) & Trainee(learner)
+all x.(WorldlyMember(x) <-> (Faculty(x) & -Stainless(x)))
+all x.(ProspectiveMember(x) <-> (Faculty(x) & -(x = female_f) & -(x = known_f) & -(x = knowledge_f)))
+all x.(KnowledgeMember(x) <-> (Faculty(x) & -(x = male_f) & -(x = known_f) & -(x = prospective_f)))
+all x.(Stainless(x) <-> (x = prospective_f | x = knowledge_f | x = known_f))
+
+# THEORY rejected_equal_count_equal_members
+# EXPECT rejected_equal_count_equal_members F
+all x.(WorldlyMember(x) <-> ProspectiveMember(x))
+
+# THEORY rejected_complete_means_all_twenty_two
+# EXPECT rejected_complete_means_all_twenty_two F
+all x.(Faculty(x) -> WorldlyMember(x))
+
+# THEORY rejected_trainee_has_completed_faculty
+# EXPECT rejected_trainee_has_completed_faculty F
+ProspectiveMember(known_f) | KnowledgeMember(known_f)
+
+# THEORY rejected_trainee_combines_other_two
+# EXPECT rejected_trainee_combines_other_two F
+ProspectiveMember(prospective_f) & ProspectiveMember(knowledge_f)
+```
+
+```nltk-valuation
+both_sexes => complete_both_sexes
+learner => attached_trainee
+nineteen => count_nineteen
+female_f => female
+male_f => male
+prospective_f => shall_know
+knowledge_f => knowledge
+known_f => one_who_has_known
+MaximumCount => {(complete_both_sexes,count_nineteen),(attached_trainee,count_nineteen)}
+ExcludesThreeStainless => {complete_both_sexes}
+BothSexes => {complete_both_sexes}
+Noble => {attached_trainee}
+StillAttached => {attached_trainee}
+ExcludesOneSexTwoStainless => {attached_trainee}
+CompleteFaculties => {complete_both_sexes}
+Trainee => {attached_trainee}
+Faculty => {eye,ear,nose,tongue,body,female,male,life,mind,pain,pleasure,gladness,distress,neutral,faith,vigor,mindfulness,concentration,comprehension,shall_know,knowledge,one_who_has_known}
+Stainless => {shall_know,knowledge,one_who_has_known}
+WorldlyMember => {eye,ear,nose,tongue,body,female,male,life,mind,pain,pleasure,gladness,distress,neutral,faith,vigor,mindfulness,concentration,comprehension}
+ProspectiveMember => {eye,ear,nose,tongue,body,male,life,mind,pain,pleasure,gladness,distress,neutral,faith,vigor,mindfulness,concentration,comprehension,shall_know}
+KnowledgeMember => {eye,ear,nose,tongue,body,female,life,mind,pain,pleasure,gladness,distress,neutral,faith,vigor,mindfulness,concentration,comprehension,knowledge}
+```
+
+Each inventory has nineteen actual members out of twenty-two.
+The trainee examples choose opposite sex Faculties to display the
+one-sex exclusion; neither realization alternative is tied to that
+choice. Either sex can be retained in either alternative. The first
+nineteen and each trainee nineteen share eighteen members.
+`MaximumCount` is a label checked against these inventories, not
+a proof that no unmodeled configuration exceeds nineteen.
+
+The source's maximum question is not a universal assertion that every
+trainee, including one lacking other Faculties, possesses nineteen.
+Nor does possession assert simultaneous occurrence or greater strength.
 
 ## 9. Interpretive Note
 
@@ -99,13 +198,19 @@ excluding one sex faculty and two of the stainless. The maximum is not the
 full twenty-two. It is the complete ordinary or still-attached noble
 continuum.
 
-The first case reaches nineteen by lacking every realization-faculty. Abundance and absence of noble realization coincide. Both sex characteristics do not by themselves supply the nineteen. Complete is the qualification.
+The first case reaches nineteen by retaining all Faculties other than
+the realization triad, not by that absence alone. Both sex characteristics
+do not by themselves supply the nineteen. Complete is the qualification.
 
 The trainee exclusions are compatibility with a stage, not a deficit measured against the worldly case. Continuing attachment is kept. Noble is not the end of training. Possession is not nineteen faculties in one moment, and not a measure of strength.
 
 Dviliṅga does not join ārya. Who else introduces the second subject. Stainless is uncontaminated, all three in the first case, two named in the second. The conjunction is one who has known and either of the other two, not either completed knowledge or one other.
 
-The close is the differentiation entered with the principles. It does not close the chapter. Not the verse English.
+The Bhāṣya closes the Faculty differentiation introduced through the
+Principles; it does not close the chapter. In the Organon reading,
+Cognition governs Perception and Conception without collapsing into
+Mind or consciousness. A count of possessed Faculties is not itself
+an account of that governing operation.
 
 ## 10. OWL++ Seed
 
@@ -125,6 +230,7 @@ vak:WorldlyMaximum vak:hasCount 19 ;
 vak:TraineeMaximum vak:hasCount 19 ;
     vak:hasStainlessCount 1 .
 
-organon:MaximumNotTelos
-    organon:notTheVerseEnglish true .
+organon:VAK_2_21_Interpretation
+    organon:distinguishes vak:MaximumPossession, vak:FacultyMembership,
+        vak:RealizationStatus .
 ```

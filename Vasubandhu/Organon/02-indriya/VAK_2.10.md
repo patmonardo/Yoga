@@ -18,28 +18,79 @@ daurmanasyāc ca tattv ekaṃ savipākaṃ daśa dvidhā // 2.10 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| vipākaḥ | nominative | maturation; the present result |
-| jīvitam | nominative | life |
+| vipākaḥ | nominative singular masculine noun | maturation; predicate of Life-Faculty |
+| jīvitam | nominative singular neuter noun | Life-Faculty |
 | dvedhā | indeclinable | twofold, on that axis |
-| dvādaśa | nominative | twelve |
-| antya-aṣṭakāt ṛte | ablative | apart from the final eight |
-| daurmanasyāt ca | ablative | and apart from distress |
-| tat tu ekam | nominative | that one alone |
-| sa-vipākam | nominative | possessing maturation as result |
-| daśa dvidhā | nominative | ten are twofold |
+| dvādaśa | cardinal numeral, nominative plural in context | twelve [Faculties] |
+| antya-aṣṭakāt | ablative singular neuter compound | from the final eight; governed by ṛte |
+| ṛte | indeclinable, governing ablative | apart from |
+| daurmanasyāt | ablative singular neuter noun | from distress; shares the exclusion |
+| ca | coordinating particle | and |
+| tat | nominative singular neuter demonstrative | that; resumes distress |
+| tu | restrictive particle in the Bhāṣya's construal | only; construed with the maturation-producing predicate |
+| ekam | nominative singular neuter numeral | one, distress alone invariably producing maturation |
+| sa-vipākam | nominative singular neuter adjective | possessing maturation as result, not being maturation |
+| daśa | cardinal numeral, nominative plural in context | ten [Faculties] |
+| dvidhā | indeclinable adverb | twofold on the second, result-producing axis |
 
 Vipāka is what the present instance is. Savipāka is what it produces. The two questions are not one word.
 
-## 4. Grammar
+**Grammar tokens.** External sandhi is opened, including *tat tu ekam*
+and *antya-aṣṭakāt ṛte*. No Bhāṣya-supplied members or life exception
+are inserted into the verse stream.
 
 ```text
-% start S
-S[IS=maturation] -> Life[EXCEPT=concentration]
-S[HAS=maturation-result, ALWAYS=true] -> Distress
-S[IS=?i, HAS=?h] -> Twelve
+# tokens: vipākaḥ jīvitam dvedhā dvādaśa antya-aṣṭakāt ṛte daurmanasyāt ca tat tu ekam savipākam daśa dvidhā
 ```
 
-`IS` and `HAS` are distinct features. Distress unifies only with `HAS`.
+## 4. Grammar
+
+The opening predicate states the life rule; the Bhāṣya qualifies it for
+concentration-projected life. The first twofold class excludes the final
+eight and distress, with life already treated separately. *Tat* resumes
+distress, not life or the twelve. The Bhāṣya construes *tu* as restrictive
+and displaced: distress alone is invariably maturation-producing, not
+the only Faculty capable of producing maturation.
+
+```nltk-fcfg
+% start S
+# tokens: vipākaḥ jīvitam dvedhā dvādaśa antya-aṣṭakāt ṛte daurmanasyāt ca tat tu ekam savipākam daśa dvidhā
+S[SEM=<(?life & ?twelve & ?distress & ?ten)>] -> LIFECLAUSE[SEM=?life] TWELVECLAUSE[SEM=?twelve] DISTRESSCLAUSE[SEM=?distress] TENCLAUSE[SEM=?ten]
+LIFECLAUSE[SEM=<?result(?life)>] -> RESULT[CASE=nom,NUM=sg,AXIS=is_result,SEM=?result] LIFE[CASE=nom,NUM=sg,GEN=n,SEM=?life]
+TWELVECLAUSE[SEM=<(?either(twelve_group) & ?count(twelve_group) & ?exclude(twelve_group,final_eight) & ?exclude(twelve_group,distress_f))>] -> EITHER[AXIS=is_result,SEM=?either] TWELVE[CNT=12,SEM=?count] EIGHT[CASE=abl,CNT=8] EXCEPT[SEM=?exclude] DISTRESS[CASE=abl,REF=distress] AND
+DISTRESSCLAUSE[SEM=<(SoleInvariableProducer(?ref) & ?produces(?ref))>] -> THAT[CASE=nom,NUM=sg,GEN=n,REF=distress,SEM=?ref] ONLY[SCOPE=invariable] ONE[CASE=nom,NUM=sg,GEN=n,CNT=1] PRODUCES[CASE=nom,NUM=sg,GEN=n,AXIS=has_result,SEM=?produces]
+TENCLAUSE[SEM=<(?count(ten_group) & ?either(ten_group))>] -> TEN[CNT=10,SEM=?count] EITHER[AXIS=has_result,SEM=?either]
+RESULT[CASE=nom,NUM=sg,AXIS=is_result,SEM=<\f.LifeMaturationRule(f)>] -> 'vipākaḥ'
+LIFE[CASE=nom,NUM=sg,GEN=n,SEM=<life_f>] -> 'jīvitam'
+EITHER[AXIS=is_result,SEM=<\g.EitherMaturation(g)>] -> 'dvedhā'
+TWELVE[CNT=12,SEM=<\g.GroupCount(g,twelve)>] -> 'dvādaśa'
+EIGHT[CASE=abl,CNT=8] -> 'antya-aṣṭakāt'
+EXCEPT[SEM=<\g.\e.Excludes(g,e)>] -> 'ṛte'
+DISTRESS[CASE=abl,REF=distress] -> 'daurmanasyāt'
+AND -> 'ca'
+THAT[CASE=nom,NUM=sg,GEN=n,REF=distress,SEM=<distress_f>] -> 'tat'
+ONLY[SCOPE=invariable] -> 'tu'
+ONE[CASE=nom,NUM=sg,GEN=n,CNT=1] -> 'ekam'
+PRODUCES[CASE=nom,NUM=sg,GEN=n,AXIS=has_result,SEM=<\f.AlwaysProducesMaturation(f)>] -> 'savipākam'
+TEN[CNT=10,SEM=<\g.GroupCount(g,ten)>] -> 'daśa'
+EITHER[AXIS=has_result,SEM=<\g.EitherProduces(g)>] -> 'dvidhā'
+```
+
+```nltk-dep
+'jīvitam' -> 'vipākaḥ'
+'dvādaśa' -> 'dvedhā' | 'ṛte'
+'ṛte' -> 'antya-aṣṭakāt' | 'daurmanasyāt' | 'ca'
+'savipākam' -> 'tat' | 'tu' | 'ekam'
+'daśa' -> 'dvidhā'
+```
+
+| Span | Constituent | Result |
+|---|---|---|
+| [0, 2) | `LIFECLAUSE` | life-maturation rule, qualified in the prose |
+| [2, 8) | `TWELVECLAUSE` | twelve twofold as results, with explicit exclusions |
+| [8, 12) | `DISTRESSCLAUSE` | distress alone invariably produces maturation |
+| [12, 14) | `TENCLAUSE` | ten twofold as producers |
+| [0, 14) | `S` | two independent maturation axes |
 
 ## 5. Translation
 
@@ -51,12 +102,15 @@ S[IS=?i, HAS=?h] -> Twelve
 
 ### Bhāṣya-informed study translation
 
-> Life is maturation. Twelve are twofold except the final eight and
-> distress; of these, that one alone is with maturation. Ten are twofold.
+> Life is maturation. Apart from the final eight and distress, twelve
+> Faculties can be maturation or not. That distress alone invariably
+> produces maturation; ten Faculties can produce maturation or not.
 
 ## 6. Philosophical Translation
 
-> Incoming is vipāka. Outgoing is savipāka. Distress sits on neither side the same way.
+> Being a matured result and producing such a result are different
+> determinations. Distress is never the former and invariably the latter;
+> the life rule is qualified by concentration-projected life.
 
 ## 7. Technical Vocabulary
 
@@ -76,34 +130,85 @@ S[IS=?i, HAS=?h] -> Twelve
 
 ## 8. Logical Determination
 
-```text
-is maturation
-    ≠ produces maturation
+**Kārikā, derived.** `LifeMaturationRule` records the opening rule without
+silently excluding the prose's counterexample. `EitherMaturation` and
+`EitherProduces` concern different questions. `SoleInvariableProducer`
+does not exclude conditional production by the ten.
 
-life
-    → maturation, except concentration-projected life
-
-twelve
-    → either
-    seven of form, mind, pain, pleasure, gladness, neutral feeling
-
-never maturation
-    = distress + final eight
-
-distress
-    → never maturation
-    → always produces maturation
-
-ten
-    → either produce or not
-    mind, four feelings, five beginning with faith
-
-never produce
-    = seven of form, life, the three
-
-1 + 12 + 9 = 22
-1 + 10 + 11 = 22
+```nltk-sem
+received_result : \g.EitherMaturation(g)
+productive_result : \g.EitherProduces(g)
+distress_reference : distress_f
 ```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(LifeMaturationRule(life_f) & EitherMaturation(twelve_group) & GroupCount(twelve_group,twelve) & Excludes(twelve_group,final_eight) & Excludes(twelve_group,distress_f) & SoleInvariableProducer(distress_f) & AlwaysProducesMaturation(distress_f) & GroupCount(ten_group,ten) & EitherProduces(ten_group))
+
+# THEORY prose_life_exception
+# EXPECT prose_life_exception T
+all x.(LifeInstance(x) -> (IsMaturation(x) <-> -ConcentrationProjected(x)))
+(LifeInstance(ordinary_life) & IsMaturation(ordinary_life) & LifeInstance(projected_life) & -IsMaturation(projected_life))
+
+# THEORY prose_partitions
+# EXPECT prose_partitions T
+all x.(TwelveType(x) <-> (CanBeMaturation(x) & CanBeNonMaturation(x)))
+all x.(NeverMaturation(x) -> -CanBeMaturation(x))
+all x.(TenType(x) <-> (CanProduce(x) & CanNotProduce(x)))
+all x.(NeverProduces(x) -> -CanProduce(x))
+(NeverMaturation(distress_f) & AlwaysProducesMaturation(distress_f) & CanProduce(distress_f) & -CanNotProduce(distress_f))
+
+# THEORY rejected_all_life_is_maturation
+# EXPECT rejected_all_life_is_maturation F
+all x.(LifeInstance(x) -> IsMaturation(x))
+
+# THEORY rejected_distress_is_maturation
+# EXPECT rejected_distress_is_maturation F
+CanBeMaturation(distress_f) & CanProduce(distress_f)
+
+# THEORY rejected_only_distress_can_produce
+# EXPECT rejected_only_distress_can_produce F
+all x.(CanProduce(x) -> (x = distress_f))
+```
+
+```nltk-valuation
+life_f => life
+distress_f => distress
+twelve_group => twelve_types
+ten_group => ten_types
+final_eight => final_eight_types
+twelve => count_twelve
+ten => count_ten
+ordinary_life => ordinary_life_event
+projected_life => concentration_life_event
+LifeMaturationRule => {life}
+EitherMaturation => {twelve_types}
+GroupCount => {(twelve_types,count_twelve),(ten_types,count_ten)}
+Excludes => {(twelve_types,final_eight_types),(twelve_types,distress)}
+SoleInvariableProducer => {distress}
+AlwaysProducesMaturation => {distress}
+EitherProduces => {ten_types}
+LifeInstance => {ordinary_life_event,concentration_life_event}
+ConcentrationProjected => {concentration_life_event}
+IsMaturation => {ordinary_life_event}
+TwelveType => {eye,ear,nose,tongue,body,female,male,mind,pain,pleasure,gladness,neutral}
+CanBeMaturation => {eye,ear,nose,tongue,body,female,male,mind,pain,pleasure,gladness,neutral,life}
+CanBeNonMaturation => {eye,ear,nose,tongue,body,female,male,mind,pain,pleasure,gladness,neutral}
+FinalEightType => {faith,vigor,mindfulness,concentration,comprehension,shall_know,knowledge,one_who_has_known}
+NeverMaturation => {distress,faith,vigor,mindfulness,concentration,comprehension,shall_know,knowledge,one_who_has_known}
+TenType => {mind,pain,pleasure,gladness,neutral,faith,vigor,mindfulness,concentration,comprehension}
+CanProduce => {distress,mind,pain,pleasure,gladness,neutral,faith,vigor,mindfulness,concentration,comprehension}
+CanNotProduce => {mind,pain,pleasure,gladness,neutral,faith,vigor,mindfulness,concentration,comprehension,eye,ear,nose,tongue,body,female,male,life,shall_know,knowledge,one_who_has_known}
+NeverProduces => {eye,ear,nose,tongue,body,female,male,life,shall_know,knowledge,one_who_has_known}
+```
+
+The received-result partition is 1 + 12 + 9, with life's exceptional
+instance treated separately. The productive partition is 1 + 10 + 11.
+Finite-model tests check these counts and contrasts, not the efficacy
+of lifespan practices or the truth of every reported causal account.
+Life's type-level rule is deliberately not an assertion that every
+life-instance is maturation.
 
 ## 9. Interpretive Note
 
@@ -140,7 +245,6 @@ vak:LifeFaculty vak:isMaturation true ;
 vak:DistressFaculty vak:isMaturation false ;
     vak:producesMaturation true .
 
-organon:TwoPredicates
-    organon:notOneKarmicWord true ;
-    organon:notTheVerseEnglish true .
+organon:VAK_2_10_Interpretation
+    organon:distinguishes vak:BeingMaturation, vak:ProducingMaturation .
 ```

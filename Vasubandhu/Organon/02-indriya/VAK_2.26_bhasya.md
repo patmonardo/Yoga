@@ -8,7 +8,7 @@
 
 > Delusion, heedlessness, laziness, lack of faith, sluggishness, and
 > agitation are always present in afflicted consciousness; shamelessness and
-> lack of moral caution are present in unwholesome consciousness.
+> lack of moral caution are always present in unwholesome consciousness.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -56,13 +56,23 @@
 > akuśale tu cetasy āhrīkyam anapatrāpyaṃ ca nityaṃ bhavata ity etau dvau dharmāv akuśalamahābhūmikāv ucyete /
 > tayoś ca paścāl lakṣaṇaṃ vakṣyate /
 
-The unit is printed 56.02–57.03 in `Vasubandhu/Sources/kosabhasya.txt`. Defects stay in the source. Styānmuddhavaḥ is read as sluggishness and agitation. The retort is not restored. No independent collation is claimed. Limited affliction at 57.04 is 2.27.
+The unit is printed 56.02–57.03 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The block is
+a normalized study transcription, not a diplomatic copy. The damaged
+styānmuddhavaḥ is resolved as styānam auddhatyam by the explicit
+prose definitions; satyānaṃ and kleṣṭa are normalized to styānaṃ
+and kliṣṭa. The running retort begins praptijño, not the block's
+prāptijño. Its recitation/intention contrast is a contextual reading,
+not a restoration of that first word. Yathivāmohaḥ and
+anyacetaso in the source are construed in the non-delusion parallel
+and distraction dissent respectively. No independent collation is
+claimed. Limited affliction at 57.04 begins 2.27.
 
 ## 3. Continuous Conventional Translation
 
 An extensive ground is a great ground. Those whose great ground is affliction are the affliction great-ground factors: the dharmas that occur always in afflicted consciousness. Which occur always in afflicted consciousness? Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation, always in the afflicted. Delusion means ignorance, not knowing, lack of clear comprehension. Heedlessness is non-cultivation of wholesome dharmas, a factor opposed to heedfulness. Laziness is the absence of energetic arousal in consciousness, opposed to vigor. Lack of faith is absence of clarity in consciousness, opposed to faith. What is sluggishness? Heaviness of body and consciousness, unworkability of body and consciousness. The Abhidharma speaks of bodily sluggishness and mental sluggishness. How is a mental factor called bodily? As bodily feeling. Agitation is the non-pacification of consciousness. These are the six.
 
-But does the Abhidharma not recite ten: lack of faith, laziness, loss of recollection, distraction of consciousness, ignorance, lack of clear comprehension, improper attention, false resolution, agitation, and heedlessness? You know the recitation, not the intention. What is the intention? Loss of recollection, distraction, lack of clear comprehension, improper attention, and false resolution are not determined exclusively as affliction great-ground factors, because they belong to the universal great-ground factors. Likewise non-delusion is not determined exclusively as a wholesome great-ground factor, since it has the nature of prajñā. Loss of recollection is recollection when afflicted. Distraction is concentration when afflicted, and so on.
+But does the Abhidharma not recite ten: lack of faith, laziness, loss of recollection, distraction of consciousness, ignorance, lack of clear comprehension, improper attention, false resolution, agitation, and heedlessness? You know the recitation, not the intention. What is the intention? Loss of recollection, distraction, lack of clear comprehension, improper attention, and false resolution are not determined exclusively as affliction great-ground factors, because they belong to the universal great-ground factors. Likewise non-delusion is not determined exclusively as a wholesome great-ground factor, since it has the nature of discriminative comprehension. Loss of recollection is recollection when afflicted. Distraction is concentration when afflicted, and so on.
 
 Hence the question: are those that are great-ground factors also affliction great-ground factors? Four alternatives. The first: feeling, volition, reflection, wish to perform, and contact. The second: lack of faith, laziness, ignorance, agitation, and heedlessness. The third: the five afflicted factors beginning with loss of recollection, as stated. The fourth excludes these modes. Some hold distraction of consciousness to be different from wrong concentration. For them the fourfold analysis is otherwise.
 
@@ -84,7 +94,7 @@ The pair belongs to every unwholesome consciousness. Afflicted and unwholesome a
 
 ## 6. The Ten
 
-Five kept as separately counted: lack of faith, laziness, ignorance, agitation, heedlessness. Five explained as universal factors afflicted. Lost recollection is recollection afflicted. Distraction is concentration afflicted. And so on: lack of clear comprehension is Discrimination afflicted, improper attention is attention afflicted, false resolution is resolution afflicted. Not extra definitions spelled out here.
+Five kept as separately counted: lack of faith, laziness, ignorance, agitation, heedlessness. Five explained as universal factors afflicted. Lost recollection is recollection afflicted. Distraction is concentration afflicted. And so on: lack of clear comprehension is discriminative comprehension afflicted, improper attention is attention afflicted, false resolution is resolution afflicted. Not extra definitions spelled out here.
 
 Five accounted for under the universal factors, five separately counted, sluggishness added, six. Non-delusion is the parallel. Nature and qualified condition both register.
 
@@ -110,10 +120,25 @@ Occurrence in afflicted consciousness is not exclusive membership in the afflict
 
 Range, qualified form, and predominance stay apart. Six against ten is the first two. Sluggish against agitated is the third. One label cannot do all three.
 
-Objective Logic on the mind is the pass. Not the translation. Not the final pass.
+Cognition joins and governs Perception and Conception and guides
+the reading of Dharma Base, remaining distinct from consciousness
+and Mind. The classification of an afflicted comprehension-mode
+does not introduce a new Cognition or erase its relation to the
+universal factor. The dissent about distraction keeps identity
+claims open to examination rather than treating names as proof.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The six, the ten, the fourfold, the distraction alternative, and the predominance answer are kept.
+Reviewed with the kārikā against printed 56.02–57.03. The pair's
+invariable occurrence is explicit in the study translation and anchor.
+The source note distinguishes normalized transcription from the
+damaged running readings, especially the retort.
+
+Executable checks separate six, quoted ten, and unwholesome two;
+the six's exclusive range is not an exclusive inventory. The
+fourfold comparison, distraction dissent, sluggishness omission,
+and co-presence/predominance distinction remain in sequence.
+The model records the main explanation without claiming to settle
+the dissent or restore the damaged retort.
 
 2.27 has not been opened.

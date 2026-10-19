@@ -5,11 +5,11 @@
 > manovittitrayaṃ tredhā dviheyā durmanaskatā /
 > nava bhāvanayā pañca tv aheyāny api na trayam // 2.13 //
 
-> Mind and the triad of feelings are threefold in abandonment. Distress is
-> to be abandoned in two ways; nine by cultivation. The five, too, are both
-> to be abandoned and not abandoned; the triad is not to be abandoned.
-
-The question supplies the three statuses. Mind with three feelings is four faculties.
+> Mind and the three feelings are to be abandoned by seeing, by
+> cultivation, or not at all. Distress is to be abandoned by seeing or
+> cultivation; nine Faculties by cultivation alone. The five, however,
+> are either to be abandoned by cultivation or not to be abandoned;
+> the triad is not to be abandoned.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -26,7 +26,10 @@ The question supplies the three statuses. Mind with three feelings is four facul
 > trayaṃ naiva praheyaṃ ājñāsyāmīndriyādikam anāsravatvāt /
 > na hi nirdoṣaṃ prahāṇārham / uktaḥ prakārabhedaḥ /
 
-The unit is printed 47.04–15 in `Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial. Dauarmanasyaṃ is read as daurmanasyaṃ. Bhāvanayā follows the running verse. No independent collation is claimed.
+The unit is printed 47.04–15 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). Word division is
+editorial. Dauarmanasyaṃ is read as daurmanasyaṃ. Bhāvanayā follows
+the running verse. No independent collation is claimed.
 
 Uktaḥ prakārabhedaḥ closes the distinctions. Lābha idānīṃ vaktavyaḥ opens acquisition and is 2.14.
 
@@ -64,7 +67,10 @@ The paragraph does not give the mechanism. It is not an instruction to destroy t
 
 ## 7. The Five and the Faultless Triad
 
-The five are with outflows or without. Cultivation-abandonable is the first. Not to be abandoned is the second. Not every faith, vigor, mindfulness, concentration, or Discrimination is to be discarded.
+The five are with outflows or without. Cultivation-abandonable is the
+first. Not to be abandoned is the second. Not every faith, vigor,
+mindfulness, concentration, or discriminative comprehension is to be
+discarded.
 
 The triad is exclusively without outflows, and so not to be abandoned. Na hi nirdoṣaṃ prahāṇārham: what is faultless is not fit to be abandoned.
 
@@ -78,14 +84,37 @@ Heyānīty adhikāraḥ carries to be abandoned into nine by cultivation. Api ad
 
 Durmanaskatā is distress. Vittitraya is pleasure, gladness, and neutral feeling. Jīvitāṣṭama is the seven with life as eighth. Pain stays in the nine.
 
+The study translation resolves the threefold and twofold ranges and
+retains cultivation in the five's abandonable class. “Not to be
+abandoned” preserves the gerundive rather than reporting that an event
+was not abandoned.
+
+The question supplies the three statuses. Mind with three feelings is
+four Faculties.
+
 ## 9. Interpretation
 
-A faculty-name does not say whether seeing, cultivation, or keeping applies. For the five, outflow decides. A faulted instance is not the rejection of the type. Faultlessness is not the permanence of the event.
+A Faculty-name does not by itself settle whether seeing, cultivation,
+or non-abandonment applies. For the five, outflow-status decides. The
+abandonability of a qualified instance is not the rejection of the type;
+non-abandonment is not the permanence of an event.
 
-Citta supports. The path abandons or keeps the qualified caitta. The power-system is not deleted because one deployment was with outflows. The faultless triad is not discarded after use. That is how the agent is guided. The principles remain deposited. Not the verse English.
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base without collapsing into Mind or consciousness.
+That synthesis must preserve the different kinds classified here:
+the nine include Form Faculties and life, not only mental factors.
+The source supplies a rule of classification, not an instruction to
+retain or delete a psychological power-system.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The five groups and the maxim are kept. Abandonment is not ethical quality, and not an instruction against life.
+Reviewed with the kārikā against printed 47.04–15. The study translation
+specifies the abandonment ranges and restores cultivation for the
+five's abandonable class; the anchor matches exactly.
+
+The five groups and faultlessness maxim are preserved. Grammar–Logic
+distinguishes the four from the nine, the five's outflow-qualified
+instances, and non-abandonment from completed action or permanence.
+The interpretation no longer treats every Faculty as a mental factor.
 
 2.14 has not been opened.

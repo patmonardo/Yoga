@@ -18,30 +18,47 @@ māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| krodha | nom. sg. m. | anger |
-| upanāha | nom. sg. m. | resentment |
-| śāṭhya | nom. sg. n. | crookedness |
-| īrṣyā | nom. sg. f. | envy |
-| pradāsa | nom. sg. m. | spite |
-| mrakṣa | nom. sg. n. | concealment |
-| matsara | nom. sg. m. | stinginess |
-| māyā | nom. sg. f. | deception |
-| mada | nom. sg. m. | intoxication |
-| vihiṃsā | nom. sg. f. | harmfulness |
-| parītta-kleśa-bhūmikāḥ | nom. pl. f.; compound | of the limited-affliction ground |
+| krodha-upanāha-śāṭhya-īrṣyā-pradāsa-mrakṣa-matsarāḥ | nominative plural masculine coordinated compound; seven members | anger, resentment, crookedness, envy, spite, concealment, stinginess |
+| māyā-mada-vihiṃsāḥ | nominative plural feminine coordinated compound; three members | deception, intoxication, harmfulness |
+| ca | conjunction | and; joins the two enumerations |
+| parītta-kleśa-bhūmikāḥ | nominative plural masculine class adjective | belonging to the limited-affliction ground; predicate of the enumeration |
 
-The English of the ten is provisional. Definitions are deferred.
-## 4. Grammar
+The English names are provisional; definitions are deferred. Compound
+members are not independently inflected singular nominatives.
+The grammar retains both compounds and opens only external sandhi.
 
 ```text
-% start S
-S[GROUND=limited-affliction] -> TenLimited
-TenLimited -> Anger | Resentment | Crookedness | Envy | Spite | Concealment | Stinginess | Deception | Intoxication | Harmfulness
-S[ASSOCIATED=ignorance, ABANDON=cultivation, SPHERE=mental] -> TenLimited
+# tokens: krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ māyāmadavihiṃsāḥ ca parīttakleśabhūmikāḥ
 ```
 
-`GROUND=limited-affliction` does not force co-presence of the ten.  
-Association is only with ignorance abandonable by cultivation and of the mental sphere.
+## 4. Grammar
+
+Seven plus three yields ten class-members. A class predicate applies
+to every named member; unlike the previous lists, no always-in-every-
+consciousness locative is present. The prose then supplies restrictions
+on associated ignorance, not additional verse tokens.
+
+```nltk-fcfg
+% start S
+# tokens: krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ māyāmadavihiṃsāḥ ca parīttakleśabhūmikāḥ
+S[SEM=<?members(?class)>] -> MEMBERS[CNT=10,SEM=?members] CLASS[CASE=nom,NUM=pl,SEM=?class]
+MEMBERS[CNT=10,SEM=<\P.(?seven(P) & ?three(P))>] -> SEVEN[CASE=nom,NUM=pl,CNT=7,SEM=?seven] THREE[CASE=nom,NUM=pl,CNT=3,SEM=?three] AND[READING=enumeration]
+SEVEN[CASE=nom,NUM=pl,CNT=7,SEM=<\P.(P(anger) & P(resentment) & P(crookedness) & P(envy) & P(spite) & P(concealment) & P(stinginess))>] -> 'krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ'
+THREE[CASE=nom,NUM=pl,CNT=3,SEM=<\P.(P(deception) & P(intoxication) & P(harmfulness))>] -> 'māyāmadavihiṃsāḥ'
+AND[READING=enumeration] -> 'ca'
+CLASS[CASE=nom,NUM=pl,SEM=<\x.LimitedKind(x)>] -> 'parīttakleśabhūmikāḥ'
+```
+
+```nltk-dep
+'parīttakleśabhūmikāḥ' -> 'krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ' | 'māyāmadavihiṃsāḥ'
+'māyāmadavihiṃsāḥ' -> 'ca'
+```
+
+| Span | Constituent | Result |
+|---|---|---|
+| [0, 3) | `MEMBERS` | two compounds, seven plus three |
+| [3, 4) | `CLASS` | limited-affliction class predicate |
+| [0, 4) | `S` | ten membership assertions, no co-presence assertion |
 
 ## 5. Translation
 
@@ -57,7 +74,10 @@ Association is only with ignorance abandonable by cultivation and of the mental 
 > afflictions.
 ## 6. Philosophical Translation
 
-> Limited-affliction ground is restriction, not universality. The ten share the same associated ignorance; they do not share one moment.
+> Limited-affliction ground is a restricted range, not a universal
+> accompanying bundle. The associated ignorance has specified
+> qualifications; this does not make it one identical occurrence
+> shared by all ten or settle which members can co-occur.
 
 ## 7. Technical Vocabulary
 
@@ -72,20 +92,67 @@ Association is only with ignorance abandonable by cultivation and of the mental 
 
 ## 8. Logical Determination
 
-```python
-from nltk.sem.logic import LogicParser
-lp = LogicParser()
+**Kārikā, derived.** Ten class-members, not ten simultaneous
+occurrences. The prose model represents association restrictions
+among afflictions separately from other accompanying dharmas.
 
-limited = lp.parse(r'all x.(LimitedAffliction(x) -> (Associated(x,Ignorance) & Abandonable(Ignorance,cultivation) & Sphere(Ignorance,mental)))')
-not_together = lp.parse(r'-all x y.(LimitedAffliction(x) & LimitedAffliction(y) -> CoPresent(x,y))')
+```nltk-sem
+class_predicate : \x.LimitedKind(x)
+seven_plus_three : \P.(P(anger) & P(resentment) & P(crookedness) & P(envy) & P(spite) & P(concealment) & P(stinginess) & P(deception) & P(intoxication) & P(harmfulness))
 ```
 
-Shared restriction, not co-presence.  
-The five classes are stated; others remain unfixed.
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+((LimitedKind(anger) & LimitedKind(resentment) & LimitedKind(crookedness) & LimitedKind(envy) & LimitedKind(spite) & LimitedKind(concealment) & LimitedKind(stinginess)) & (LimitedKind(deception) & LimitedKind(intoxication) & LimitedKind(harmfulness)))
+
+# THEORY prose_restriction
+# EXPECT prose_restriction T
+all f.(LimitedKind(f) -> exists i.(AssociatedAffliction(f,i) & Ignorance(i) & CultivationAbandonable(i) & MentalSphere(i)))
+all f i.((LimitedKind(f) & AssociatedAffliction(f,i)) -> (Ignorance(i) & CultivationAbandonable(i) & MentalSphere(i)))
+
+# THEORY rejected_ignorance_only_companion_of_any_kind
+# EXPECT rejected_ignorance_only_companion_of_any_kind F
+all f x.((LimitedKind(f) & OtherCompanion(f,x)) -> Ignorance(x))
+
+# THEORY rejected_shared_class_forces_bundle
+# EXPECT rejected_shared_class_forces_bundle F
+all c f.((IllustrativeEpisode(c) & LimitedKind(f)) -> Present(c,f))
+```
+
+```nltk-valuation
+anger => anger_kind
+resentment => resentment_kind
+crookedness => crookedness_kind
+envy => envy_kind
+spite => spite_kind
+concealment => concealment_kind
+stinginess => stinginess_kind
+deception => deception_kind
+intoxication => intoxication_kind
+harmfulness => harmfulness_kind
+LimitedKind => {anger_kind,resentment_kind,crookedness_kind,envy_kind,spite_kind,concealment_kind,stinginess_kind,deception_kind,intoxication_kind,harmfulness_kind}
+AssociatedAffliction => {(anger_kind,qualified_ignorance),(resentment_kind,qualified_ignorance),(crookedness_kind,qualified_ignorance),(envy_kind,qualified_ignorance),(spite_kind,qualified_ignorance),(concealment_kind,qualified_ignorance),(stinginess_kind,qualified_ignorance),(deception_kind,qualified_ignorance),(intoxication_kind,qualified_ignorance),(harmfulness_kind,qualified_ignorance)}
+Ignorance => {qualified_ignorance}
+CultivationAbandonable => {qualified_ignorance}
+MentalSphere => {qualified_ignorance}
+OtherCompanion => {(anger_kind,consciousness_example),(anger_kind,feeling_example)}
+IllustrativeEpisode => {anger_episode,envy_episode}
+Present => {(anger_episode,anger_kind),(envy_episode,envy_kind)}
+UnfixedExample => {initial_examination,sustained_examination,regret,torpor}
+```
+
+Qualified ignorance is a type-level representative, not a single
+token occurring simultaneously with all ten. The episodes are partial
+countermodels to inference from membership to a universal bundle;
+they do not establish the actual mutual-exclusion rules of the ten.
+OtherCompanion keeps the restriction from denying consciousness or
+universal factors. The four unfixed examples are not an exhaustive
+class and are not thereby ethically indeterminate.
 
 ## 9. Interpretive Note
 
-**Translation note.** The commentary associates this class only with ignorance abandoned by cultivation in the mental sphere, then names five classes of mental factors and unfixed examples: initial and sustained examination, regret, and torpor. It defers the factors' definitions and leaves the list open.
+**Translation note.** The commentary associates this class only with ignorance abandonable through cultivation in the mental sphere, then names five classes of mental factors and unfixed examples: initial and sustained examination, regret, and torpor. It defers the factors' definitions and leaves the list open.
 
 Anger is not resentment. Crookedness is not deception. Spite is not harmfulness. The distinctions are named. They are not yet explained. Concealment and intoxication are not complete definitions. Intoxication is not settled as a substance.
 
@@ -93,7 +160,11 @@ Secondary affliction is the deferred discussion. It is not identified with this 
 
 The unfixed examples leave the list open. Their distributions wait on the count of what must be in a given consciousness.
 
-Interpretation: shared constraints are not a required bundle. Not the verse English.
+In the Organon reading, Cognition governs Perception and Conception
+without collapsing into consciousness or Mind. The range of this
+class restricts associated ignorance; it does not define a new
+Cognition or convert all ten factors into one operation. Shared
+constraints are not a required bundle.
 
 ## 10. OWL++ Seed
 
@@ -108,9 +179,10 @@ vak:VAK_2_27
     vak:hasTopic vak:LimitedAfflictionGround ;
     vak:belongsTo vak:Indriyanirdesa .
 
-vak:LimitedTen vak:necessarilyTogether false .
+vak:LimitedTen vak:hasMemberCount 10 .
 vak:FiveClasses vak:exhaustive false .
 
-organon:ClassNotBundle
-    organon:notTheVerseEnglish true .
+organon:VAK_2_27_Interpretation
+    organon:distinguishes vak:ClassMembership, vak:AssociationRestriction,
+        vak:EpisodeComposition .
 ```

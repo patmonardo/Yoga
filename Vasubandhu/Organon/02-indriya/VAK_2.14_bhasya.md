@@ -3,13 +3,11 @@
 ## 1. Kārikā Anchor
 
 > kāmeṣv ādau vipāko dve labhyate nopapādukaiḥ /
-> teḥ ṣaḍ vā sapta vā aṣṭau vā ṣaḍ rūpeṣu ekam uttare // 2.14 //
+> taiḥ ṣaḍ vā sapta vā aṣṭau vā ṣaḍ rūpeṣu ekam uttare // 2.14 //
 
 > In the desire realm, two are first acquired as maturation, but not by the
 > spontaneously born. By them, six, seven, or eight; in the Form realm, six;
-> in the higher realm, one.
-
-Labhyate stays singular with dve. Taiḥ is the commentary's reading of teḥ. The question is initial acquisition as maturation, not every faculty present.
+> in the higher, Formless realm, one.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -41,7 +39,9 @@ Labhyate stays singular with dve. Taiḥ is the commentary's reading of teḥ. T
 > tasmin ekam eva jīvitendriyaṃ vipākaḥ prathamato labhyate nānyat /
 > ukto lābhaḥ /
 
-The unit runs from printed 47.16 through the close at 48.14 in `Vasubandhu/Sources/kosabhasya.txt`. Tyāga idānīṃ vaktavyaḥ at 48.15 opens relinquishment and is 2.15.
+The unit runs from printed 47.16 through the close at 48.14 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). Tyāga idānīṃ
+vaktavyaḥ at 48.15 opens relinquishment and is 2.15.
 
 Word division is editorial. Repairs: saṃsvedajaīr → saṃsvedajair, ṣaḍa vā → ṣaḍ vā, ṣaḍḍindriyāṇi → ṣaḍ indriyāṇi, parathamato → prathamato, avyañjanaiarupapādukaiḥ → avyañjanair upapādukaiḥ, ārupyā → ārūpyā. Rūpadhātū rūpāṇīti is retained, parallel to the Desire Realm designation. Locator 48.02–048.92 is defective. No independent collation is claimed.
 
@@ -76,7 +76,10 @@ Two does not mean no mind and no feeling. One in the formless realm is the matur
 | Spontaneous, one | the six plus one | 7 |
 | Spontaneous, both | the six plus both | 8 |
 
-The six include life, not mind. The seventh and eighth are the marks. The birth-modes and the unfortunate destinies stay the account. No embryonic theory is added.
+The six include life, not Mind. The seventh and eighth are the female
+and male Faculties as applicable, not the sexual characteristics counted
+as separate entities. The birth-modes and the unfortunate destinies
+stay the account. No embryonic theory is added.
 
 ## 7. The Two Higher Realms
 
@@ -92,14 +95,36 @@ Vyañjana is sexual characteristic: none, one, both. Not arbitrary marks. Upapā
 
 Desires and forms are realm-names by predominance. Uttara is higher, not a direction.
 
+The running witness reads taiḥ, agreeing with Devanāgarī तैः; the
+kārikā's earlier IAST teḥ is corrected. Labhyate remains singular with
+dual dve; no grammatical regularization is silently imposed.
+
 ## 9. Interpretation
 
 What can belong to a realm does not settle what is first acquired there as maturation. Presence, acquisition, time, and mode of arising stay apart. Mind and neutral feeling are the case: present at relinking, not in the count.
 
-Membership and consequence are the inherited doctrine, from the Vidyā. This verse asks the consequence: which members are first acquired as the result. The indriyas are analyzed in that light. Not the verse English.
+The Organon determination is a scoped inventory: realm, birth-mode,
+time, and maturation qualify what is counted. Reducing the count to
+bare presence would falsely exclude Mind and neutral feeling from
+relinking or include them as maturation.
+
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base without collapsing into Mind or consciousness.
+Mind's exclusion from this maturation-count is not the absence of
+Cognition, and the one-Faculty Formless count is not a complete
+description of its cognitive life.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. Taiḥ is marked. Presence is not the count.
+Reviewed with the kārikā against printed 47.16–48.14. Taiḥ is corrected
+in the IAST witness and anchor. The study translation identifies the
+higher realm as Formless and matches the anchor exactly.
+
+Grammar–Logic preserves initial acquisition as maturation across all
+counts, the resumed spontaneous-birth agent, and the prose's conditional
+six/seven/eight sets. Sexual characteristics determine the additional
+Faculties; they are not substituted for them. Presence at relinking
+remains distinct from the count. The source's birth-mode claims are
+preserved without independent biological validation.
 
 2.15 has not been opened.

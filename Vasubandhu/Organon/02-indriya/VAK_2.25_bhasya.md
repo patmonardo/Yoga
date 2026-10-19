@@ -7,8 +7,8 @@
 > mūladvayam ahiṃsā ca vīryaṃ ca kuśale sadā // 2.25 //
 
 > Faith, heedfulness, pliancy, equanimity, moral shame and moral caution,
-> the two roots, non-harming, and vigor are always present in wholesome
-> consciousness.
+> the two roots—non-greed and non-hatred—non-harming, and vigor are
+> always present together in wholesome consciousness.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -56,7 +56,17 @@
 > vīryaṃ cetaso 'bhyutsāhaḥ /
 > uktāḥ kuśalā mahābhūmikāḥ /
 
-The unit is printed 55.02–56.01 in `Vasubandhu/Sources/kosabhasya.txt`. Defects stay visible in the source and are resolved only in translation: duśalānām as kuśalānām, the duplicated phrase in the prajñā example read once. No independent collation is claimed. Afflicted consciousness at 56.02 is 2.26.
+The unit is printed 55.02–56.01 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The block above
+is a normalized study transcription, not a diplomatic copy. In
+particular, duśalānāṃ/bhāvanāḥ is rendered kuśalānāṃ/bhāvanā;
+nikāyāntarītāḥ is read as nikāyāntarīyāḥ; the extra svacit in the
+example question is omitted; and the duplicated, damaged
+tasyāstvanuguṇāviti tāsyātvanuguṇāviti tācchaydyaṃ is represented
+once as tasyās tv anuguṇāv iti tācchabdyam. The source's
+cittakarmaṇyatā at 55.12–13 is construed as the object
+cittakarmaṇyatām. These contextual repairs are not independent
+collation. Afflicted consciousness at 56.02 begins 2.26.
 
 ## 3. Continuous Conventional Translation
 
@@ -64,11 +74,11 @@ Those whose extensive ground is the wholesome are the wholesome great-ground fac
 
 Faith is clarity of consciousness. Others say conviction concerning the truths, the Jewels, and the results of action. Heedfulness is the cultivation of wholesome dharmas. What cultivation is there apart from those dharmas? Attentive care concerning them. Members of another school read in their sūtra, guarding of consciousness.
 
-Pliancy is the workability of consciousness. But is bodily pliancy not also stated in the sūtra? It is stated. It should be understood as bodily feeling is. How, then, is it included among the factors of awakening? In that context, bodily pliancy is the workability of the body. How is it called a factor of awakening? Because it is favorable to the factors of awakening. That workability of the body brings about workability of consciousness, a factor of awakening. Is anything of this kind seen elsewhere? It is. The Blessed One called joy and the dharmas that provide a basis for joy the awakening factor of joy. Aversion and the sign of aversion were called the hindrance of ill will. Right view, intention, and effort were called the Base of prajñā. Intention and effort are not prajñā by nature. Because they are favorable to it, they receive its designation. In the same way, bodily pliancy receives the designation factor of awakening because it is favorable to a factor of awakening.
+Pliancy is the workability of consciousness. But is bodily pliancy not also stated in the sūtra? It is stated. It should be understood as bodily feeling is. How, then, is it included among the factors of awakening? In that context, bodily pliancy is the workability of the body. How is it called a factor of awakening? Because it is favorable to the factors of awakening. That workability of the body brings about workability of consciousness, a factor of awakening. Is anything of this kind seen elsewhere? It is. The Blessed One called joy and the dharmas that provide a basis for joy the awakening factor of joy. Aversion and the sign of aversion were called the hindrance of ill will. Right view, intention, and effort were called the Discriminative Comprehension Base. Intention and effort are not discriminative comprehension by nature. Because they are favorable to it, they receive its designation. In the same way, bodily pliancy receives the designation factor of awakening because it is favorable to a factor of awakening.
 
-Equanimity is evenness of consciousness, non-application of consciousness. How can this be reconciled: in that very same consciousness, attention whose nature is application, and equanimity whose nature is non-application? Was it not said that their distinction is difficult to know? Even what is difficult to know can be known. This is exceedingly difficult: no opposition even where there is opposition. Application in one respect, non-application in another. What opposition is there? Then it would follow that not all associated factors have one support. Other questions of this kind will also arise. The method applied to those should be understood to apply to this.
+Equanimity is evenness of consciousness, non-application of consciousness. How can this be reconciled: in that very same consciousness, attention whose nature is application, and equanimity whose nature is non-application? Was it not said that their distinction is difficult to know? Even what is difficult to know can be known. This is exceedingly difficult: no opposition even where there is opposition. Application in one respect, non-application in another. What opposition is there? Then it would follow that not all associated factors have one Cognitive Condition. Other questions of this kind will also arise. The method applied to those should be understood to apply to this.
 
-Moral shame and moral caution will be explained later. The two roots are the two wholesome roots, non-greed and non-hatred. Non-delusion also exists, but its nature is prajñā. And prajñā belongs to the great-ground factors, so it is not designated exclusively a wholesome great-ground factor. Non-harming is non-injury. Vigor is the energetic arousal of consciousness. The wholesome great-ground factors have been stated.
+Moral shame and moral caution will be explained later. The two roots are the two wholesome roots, non-greed and non-hatred. Non-delusion also exists, but its nature is discriminative comprehension. And discriminative comprehension belongs to the great-ground factors, so it is not designated exclusively a wholesome great-ground factor. Non-harming is non-injury. Vigor is the energetic arousal of consciousness. The wholesome great-ground factors have been stated.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -82,7 +92,10 @@ Faith, heedfulness, pliancy, equanimity, moral shame, moral caution, non-greed, 
 
 Every wholesome consciousness. This does not replace the ten of 2.24. That ground is consciousness generally. This ground is the wholesome. Necessary occurrence, not ten successive stages.
 
-Non-delusion is explained, not omitted in silence. Its nature is prajñā, already in the universal class. Not absent from wholesome consciousness. Not a claim that wholesomeness has only two roots in total.
+Non-delusion is explained, not omitted in silence. Its nature is
+discriminative comprehension, already in the universal class. It is
+not absent from wholesome consciousness. Nor does the two-root
+enumeration say that there are only two wholesome roots in total.
 
 ## 6. Faith, Heedfulness, Pliancy
 
@@ -90,17 +103,21 @@ Clarity, and conviction with specified objects. Two reported definitions. Not fu
 
 Cultivation apart from the wholesome dharmas is attentive care toward them. Guarding is another formulation, not a substitute.
 
-Bodily feeling is invoked without the analogy spelled out. When awakening factors are raised, bodily workability is distinguished from the mental workability it brings about. The examples defend a name through a favorable relation. Intention and effort are not prajñā by nature. The name does not abolish the difference.
+Bodily feeling is invoked without the analogy spelled out. When awakening factors are raised, bodily workability is distinguished from the mental workability it brings about. The examples defend a name through a favorable relation. Intention and effort are not discriminative comprehension by nature. The name does not abolish the difference.
 
-## 7. Equanimity and the One Support
+## 7. Equanimity and the Shared Cognitive Condition
 
 Evenness and non-application. Not the neutral-feeling faculty. The word is read by this definition and this class.
 
 Attention is application. Every wholesome consciousness also has equanimity as non-application. Subtlety does not satisfy the objector. Difficulty of knowledge is not an apparent contradiction.
 
-In one respect, in another, then meets the common-support objection. Associated factors are supposed to share a support. The exchange ends by referring to the treatment of similar questions. That treatment is not supplied here.
+In one respect, in another, then meets the shared-Cognitive-Condition
+objection: associated factors are supposed to have one Cognitive
+Condition. The exchange ends by referring to the treatment of similar
+questions. That treatment is not supplied here.
 
-A recorded difficulty and a deferral. Not a demonstrated solution. A solution would still have to keep the shared support.
+A recorded difficulty and a deferral. Not a demonstrated solution.
+A solution would still have to account for the shared Cognitive Condition.
 
 ## 8. The Bhāṣya's Decisions for Translation
 
@@ -112,12 +129,29 @@ Shame and caution are not filled from later passages. The deferral is part of th
 
 ## 9. Interpretation
 
-Range is one question. Distinction inside the range is another. Heedfulness is not the wholesome dharmas. Bodily pliancy is not the awakening factor it favors. Equanimity is not attention. Nature, support, and received name stay apart.
+Range is one question. Distinction inside the range is another.
+Heedfulness is not simply the wholesome dharmas again. Bodily
+pliancy is not the mental awakening factor it favors. Equanimity
+is not attention. Nature, Cognitive Condition, and received
+designation remain distinct.
 
-The wholesome is what must be in a wholesome consciousness. That is the pass. Objective Logic on the mind is not the translation. Not the final pass.
+Cognition joins and governs Perception and Conception and guides
+the reading of Dharma Base, remaining distinct from consciousness
+and Mind. The universal discriminative-comprehension factor does
+not alone determine wholesomeness. This passage adds a narrower
+range and its necessary accompanying factors, not a new controller.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The alternatives, the pliancy examples, and the equanimity exchange are kept. The shared support stays unsettled.
+Reviewed with the kārikā against printed 55.02–56.01. The study
+translation expands the two roots and makes co-presence explicit;
+the English anchor matches. The Sanskrit note distinguishes
+normalized transcription from preserved source defects.
+
+The faith alternatives, another school's guarding formula, pliancy
+examples, and equanimity exchange remain in sequence. The shared
+Cognitive Condition remains an objection, not a solved reconciliation.
+Grammar–Logic checks ten wholesome kinds alongside the universal
+ten, without adding non-delusion again or asserting an exclusive total.
 
 2.26 has not been opened.

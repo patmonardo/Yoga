@@ -20,6 +20,13 @@ begins the controlled vocabulary for Anuśaya–Mārga and Jñāna–Samāpatti.
 Its chapter-level determinations are applied and revised one kārikā at a
 time.
 
+In the Organon synthesis, Sāṃkhya is a **Rational Overlord** for the
+Kośa inquiry: its ordered account of Manas, Buddhi, Ahaṃkāra, and the
+Faculties governs systematic comparison and tests the placement of the
+Kośa's determinations. The Kośa Sanskrit and Bhāṣya still determine
+what each local passage says; the governing comparison belongs to the
+Organon layer and is stated there explicitly.
+
 [Dharma Principle Dossier](../Essays/dharmadhatu-dossier.md) gathers the chapter's
 Dharmadhātu witnesses in a source-first study sequence and keeps its Pure
 Māyā inquiry explicitly separate from the Kośa's stated classifications.
@@ -343,6 +350,323 @@ execution outputs.
   explicitly.
 - Each study remains provisional until it has been read and critically
   reviewed.
+
+### Indriya Grammar–Logic and translation QA
+
+Apply the Dhātu pilot contract to one Indriya kārikā at a time. Section 3
+records normalized Sanskrit tokens; section 4 parses them once with an
+NLTK feature grammar and derives a closed, truth-valued root SEM;
+section 8 reuses that expression in FOL and tests source-supported
+Bhāṣya claims and rejected readings in a finite valuation. Check the
+feature chart's stated spans and test that count, case, and scope
+features actually constrain the parse. Dependency blocks record token
+coverage, not a second semantic derivation.
+
+Grammar and logic are part of translation review. For each verse,
+compare the derived predications with both verse translations and the
+paired Sanskrit Bhāṣya. Correct the translation and its exact Bhāṣya
+anchor together when the parse or source exposes a mismatch. Review
+the local technical expressions at the same time, keeping source
+wording, Bhāṣya specification, and Organon interpretation distinct.
+Finite-model satisfaction checks internal behavior; it does not alone
+establish textual fidelity or infer a causal relation that the passage
+does not state. Run the scoped strict audit:
+
+    python Vasubandhu/Organon/tests/audit_nltk_blocks.py --chapter 2 --start 1 --end 48 --strict
+
+The 2.07 extension resolves the bodily-feeling ellipsis from the Bhāṣya
+and scopes agreeable mental Pleasure-Faculty to the third dhyāna.
+Its rejected theories test dropping that qualification and confusing
+mental with bodily feeling. The commentary's absence argument is kept
+separate from the verse-derived classification rules.
+
+The 2.08 extension resolves the agreeable mental feeling resumed from
+2.07, specifies the Bhāṣya's range of “elsewhere,” and keeps bodily and
+mental neutral feeling under one Faculty. Non-difference is scoped to
+remaining neutral; “for the most part” is recorded without becoming a
+universal causal rule.
+
+The 2.09 extension separates the nine types' three Path-designations
+from outflow-status. Its partition is three exclusively without
+outflows, ten exclusively with outflows, and nine admitting either
+status; the painful pair is a dual, not a locative. The paired Bhāṣya
+retains the full dispute over the five beginning with faith.
+
+The 2.10 extension distinguishes being maturation from producing it,
+resolves distress as the resumed subject, and preserves the prose's
+concentration-projected life exception. The two partitions are
+1 + 12 + 9 and 1 + 10 + 11. The extended lifespan discussion remains
+a reported argument, not a practice validated by the finite model.
+
+The 2.11 extension separates the opening completion of 2.10's ten from
+the ethical classification. Its four groups contain 8 + 1 + 5 + 8
+Faculty-types. Wholesome distress and threefold neutral feeling remain
+explicit; ethical indeterminacy is not neutral feeling.
+
+The 2.12 extension checks cumulative realm exclusions and the 19–15–8
+ranges. The pleasant dual excludes both pleasure and gladness.
+Possible realm-connection is distinct from instance-occurrence and
+the bearer's circumstances; the stainless triad is unconnected.
+
+The 2.13 extension checks the 4 + 1 + 9 + 5 + 3 abandonment partition
+and the five's outflow-qualified instances. Pain belongs to the nine,
+not the threefold group; the five's abandonable class is specifically
+cultivation-abandonable. Gerundive status is not completed abandonment.
+
+The 2.14 extension checks initial acquisition as maturation: 2 in
+non-spontaneous Desire-realm birth, 6/7/8 in its spontaneous cases,
+6 in the Form realm, and 1 in the Formless realm. Presence at
+relinking is not equivalent to inclusion in that count.
+
+The 2.15 extension preserves its uncertain opening and checks terminal
+realm-counts separately from 2.16's gradual-death and wholesome-final-
+consciousness qualifications. The sensory five differ from the five
+beginning with faith; cessation is not initial maturation in reverse.
+
+The 2.16 extension retains the death completion and checks fruit
+attainment by route and temporal scope. A nine-count can span successive
+Path-stages; the eleven answer in 2.17 concerns one person's repeated
+attainments, not simultaneous feelings. Equal counts need not have
+equal Faculty composition.
+
+The 2.17 extension separates the carried eleven-person attainment
+report from necessary possession. Any one of neutral feeling, life,
+and Mind entails all three, not exactly three or continuous occurrence.
+The damaged realization-Faculty exclusions remain provisional rather
+than becoming formal axioms.
+
+The 2.18 extension checks necessary possession closures of four,
+five, and seven, with eight supplied from 2.19's opening. Equal counts
+can have different companions; faith's eight does not include the
+pain-seven. Possession of third-level pleasure is not attainment of
+the third dhyāna or simultaneous manifestation with gladness.
+
+The 2.19 extension checks two eleven-member necessary possession sets
+with a shared ten, and the prospective Faculty's thirteen. It does not
+constrain the whole thirteen to one uninterrupted Path-moment;
+omission from a necessary list is not universal non-possession.
+
+The 2.20 extension checks the two minimum eights, whose intersection
+is neutral feeling, life, and Mind. Likewise carries the count, not
+severed roots. Wholesome has the local faith-group reference; the
+finite model is not a proof over every possible possession configuration.
+
+The 2.21 extension distinguishes the complete both-sex nineteen from
+the attached trainee's nineteen. Tests check the twenty-two-Faculty
+census, exclusion of all three versus one sex and two stainless
+Faculties, and both remaining realization alternatives. Completeness
+does not mean all twenty-two; a maximum count does not rank realization.
+
+The 2.22 extension changes relation from possession to necessary
+co-arising. It checks soundless Desire-Realm 8/9/10, sound's 9/10/11,
+and removal of odor and taste for the Form-Realm 6/7/8. Another
+Faculty adds to body rather than replacing it. The full Sanskrit
+discussion preserves predominance, seed, and counting-unit objections.
+
+The 2.23 extension enters the mental-factor classification. Reciprocal
+accompaniment is not every factor with every consciousness. Marks
+accompany all arising conditioned dharmas; acquisition has the narrower
+sentient designation and does not replace marks. Five counts classes,
+not factors per episode.
+
+The 2.24 extension requires all ten great-ground kinds together in
+each consciousness-moment, not ten alternatives or a stream-wide
+distribution. It tests each member's necessity, allows further factors,
+and keeps feeling's three modes alternative. Reportive kila and the
+damaged reflection-gloss remain distinct from the modeled assertion.
+
+The 2.25 extension expands the root-pair into non-greed and non-hatred
+and checks ten wholesome kinds alongside the universal ten. Non-delusion
+is not counted again, twenty is not an exclusive total, and the narrower
+scope is preserved. The attention/equanimity exchange remains a recorded
+objection and deferral, not a reconciliation supplied by the model.
+
+The 2.26 extension separates the six affliction kinds, the quoted
+ten-recitation's five separate factors plus five afflicted modes,
+and the unwholesome pair. Only in afflicted consciousness restricts
+range, not total inventory. The distraction dissent and the
+sluggishness/agitation co-presence versus predominance remain explicit.
+
+The 2.27 extension treats the compound seven-plus-three list as ten
+class-members, not a required bundle. Prose restrictions qualify the
+associated ignorance without denying other accompanying dharmas.
+The countermodels do not establish mutual-exclusion rules; definitions
+remain deferred and the unfixed examples remain open-ended.
+
+The 2.28 extension checks 10 + 10 + 2 within the necessary twenty-two,
+with regret conditionally making twenty-three in wholesome Desire-Realm
+consciousness. Regret alone outside that scope does not entail this count.
+The naming alternatives and the done/omitted ethical table remain
+distinct; later additions are not ruled out by the local inventory.
+
+The 2.29 extension checks the unwholesome Desire-Realm twenty as
+10 + 6 + 2 + 2. A view qualifies already-counted discriminative
+comprehension, whereas one of four afflictions, a secondary beginning
+with anger, or regret adds one. Alternatives are not cumulative;
+isolated ignorance does not remove the established accompaniments.
+
+The 2.30 extension checks obscured eighteen and unobscured twelve,
+then torpor's conditional +1 across the stated cases. Compatibility
+is not occurrence. Thirteen through torpor differs in membership
+from thirteen through the outer-region teachers' indeterminate regret;
+that alternative remains attributed, not merged into the base account.
+
+The 2.31 extension carries exclusions across distinct levels rather
+than identifying the intermediate with the first dhyāna. The three
+first-level anger-group exceptions remain distinct from the two
+further exclusions. Initial and sustained examination drop at separate
+boundaries; intoxication is not silently added to the further drop.
+The Brahmā episode retains its local evidential role and title uncertainty.
+
+The 2.32 extension resolves the final dual as person-directed affection
+and respect, not unrestricted faith and moral shame. Two separate
+fourfold comparisons test nonidentical ranges; the Formless restriction
+does not remove the wholesome factors themselves. The restored full
+Sanskrit excerpt preserves the damaged positive reversal and the
+attributed alternatives rather than claiming a settled reconstruction.
+
+The 2.33 extension pairs initial/sustained examination respectively
+with coarseness/subtlety, without inferring co-presence from the dual.
+The three positions remain indexed: balancing, speech-formation,
+and separation with its level/moment reply. Intoxication takes over
+consciousness through attachment to one's own qualities; conceit
+compares with another. The full Sanskrit continuation is retained,
+with the butter repair and speech quotation marked as uncertain.
+
+The 2.34 extension preserves the contextual one-meaning naming claim
+without making the three roles interchangeable everywhere. The study
+translation includes Basis, Cognitive Condition, and manner as well
+as fivefold association. Tests remove each shared relation and check
+distinct tokens with one instance per represented kind, not one factor
+total. The variegation account retains the source's Principles.
+
+The 2.35 extension opens formations dissociated from consciousness.
+Tests preserve both duals, plural marks, and the separately identified
+next-verse continuation. Entry labels are not a complete count of
+distinct reals. The Sanskrit's conflicting double negative remains
+visible; the contextual English and model do not claim to repair it.
+
+The 2.36 extension separates the prior list's closure, acquisition's
+two senses, and the pair's scope. Tests distinguish applicability
+from actual possession: an unpossessed own-continuum dharma remains
+eligible, whereas space, another continuum, and the non-sentient
+are outside the pair's range. The full Sanskrit dispute is restored;
+the critical seed account and the Vaibhāṣika distinct-real account
+remain attributed alternatives, not model-settled ontology.
+
+The 2.37 extension checks nine general temporal combinations against
+three respectively matched ethical classes and three same-Realm
+matches. The fourfold range for uncontaminated dharmas is the union
+of the two cessation rows and the path-truth row, not four options
+for each. Tests preserve the different three-member cessation sets,
+exclude space, and distinguish uncontaminated from unconditioned.
+The temporal rule remains general, with exceptions opening in 2.38.
+
+The 2.38 extension checks the three status and two abandonment
+classes through their actual case relations, not unrestricted options
+for every subtype. Abandonable does not mean already abandoned.
+Ordinary unobscured-indeterminate acquisition is co-arisen only;
+the two indeterminate superknowledges and creation-consciousness
+allow prior, co-arisen, and subsequent acquisition. The craft and
+habituated deportment extension remains separately attributed.
+
+The 2.39 extension distinguishes co-arisen-only acquisition of obscured
+manifest Form from the broader Desire-Realm Form range, which excludes
+prior acquisition. Non-acquisition is uniformly unobscured-indeterminate;
+its past/future temporal matrix has six combinations. The damaged
+present-time gloss is a separately named provisional theory, not part
+of the verse translation or parse semantics. Tests check that separation
+and prevent the broader Form rule from erasing the narrower restriction.
+
+The 2.40 extension checks twelve non-acquisition Realm combinations,
+qualified absence against the Buddha lineage counterexample, and both
+general relinquishment grounds. The full debate through the proliferation
+critique is restored, including the explicitly named Sautrāntika
+alternative. Mutual possession answers the linear regress objection;
+the subsequent six/eighteen growth critique remains distinct. Level
+transition is not confused with attainment of the noble path.
+
+The 2.41 extension preserves both extended Dharma presentations.
+Tests check the four death/rebirth and same-class-change alternatives,
+distinguish the non-reflective maturation-result from its causal
+attainment, and retain the Great Fruit subset and reflective birth/death
+boundaries. The full same-class debate and post-verse account through
+Desire-Realm rebirth and later-experienced karma are restored. These
+dense arguments require later detailed study, not compression into a
+single settled ontology.
+
+The 2.42 extension restricts “likewise” to cessation and separates the
+wholesome attainment from its indeterminate, next-rebirth maturation.
+Tests distinguish present-only acquisition, later past possession,
+and absence of future cultivation. Fourth-dhyāna location does not
+automatically acquire the attainment. The full prose is restored,
+including reportive necessary regaining/rebirth and the restraint
+analogy; “one time” is not read as once only.
+
+The 2.43 extension separates two maturation timings and possible
+non-maturation from ethical indeterminacy. The full cessation-attainment
+prose and inherited cross-verse Buddha-acquisition dispute are restored.
+Tests keep the application rule apart from the Buddha exception,
+index prior-production alternatives by account, and check the
+reported 16 + 2 × 9 = 34 without treating it as a settled historical
+proof. The damaged non-emergence clause remains marked.
+
+The 2.44 extension corrects the singular awakening-acquisition subject:
+cessation attainment, not both attainments. Four shared Basis options
+remain distinct from attainment-level and human first production.
+The full resumption and entity/designation debates are restored,
+including the school-dependent loss inference, beginner/mastery
+distinction, reciprocal-seed proposal, Vasumitra/Ghoṣaka exchange,
+and the closing rejection of designation. Damaged witness predicates
+and the problematic realm reading remain marked for specialty study.
+
+The 2.45 extension restores the life debate through its actual close
+and the four-marks discussion up to the secondary-mark transition.
+The Cognition compound is corrected from the running witness.
+Tests conjoin all four marks and distinguish the four exhaustion
+cases from the later own/other-intention classification. The
+projected-duration and distinct-entity accounts remain separate;
+damaged protected-case names and quoted groups remain unresolved.
+The three-versus-four scriptural explanations are not merged.
+
+The 2.46 extension checks the nine-member scheme by exact target
+sets: four primaries operating on eight others each and four
+secondaries operating on their corresponding primary alone.
+The thirty-six relations do not count thirty-six entities.
+The causal restriction is necessary, not a sufficiency claim.
+The extended witness through 80.11 preserves the Sautrāntika
+stream/moment critique, temporal activity objections, genitive
+argument, unconditioned reply, and Vaibhāṣika doctrinal close.
+
+The 2.47 extension restores the sound/name debate and maps the
+three collections respectively. Tests check six main Realm options,
+sentient/outflow/ethical classifications, signifier possession,
+and the final “likewise” continuing into 2.48. The other teachers'
+Formless extension stays attributed; the transfer to same-class
+does not include the Desire/Form restriction. Production, revelation,
+succession, and co-arising objections remain distinct steps.
+
+The 2.48 extension completes that selective transfer: same-class
+spans all three Realms and also admits maturation. Tests check
+the exact nine result-sort options across six verse headings:
+same-class, acquisition, and marks admit two sorts; the two
+attainments and non-acquisition admit homogeneous outflow only.
+The restored closing prose recalls the non-reflective result and
+life, explains sentient classification by possession-language,
+and gives the marks both sentient and non-sentient cases.
+The discussion of dissociated formations closes, not the chapter;
+the following causes-and-conditions question belongs to the transition
+into 2.49, not to this unit's continuous translation.
+
+Continue the paired verse-by-verse QA and Grammar–Logic pass first.
+A dedicated later Bhāṣya pass will improve the study sections after
+the continuous translation, including their organization and explanatory
+quality; broader structural repairs remain specialty-pass work.
+
+Run the opening pilot's wrong-count, scope, ordered-attainment,
+membership-extent, and parallel-course countertests with
+
+    python -m unittest discover -s Vasubandhu/Organon/tests -p 'test_indriya_nltk_pilot.py'
 
 ## Bhāṣya Method
 

@@ -6,11 +6,10 @@
 >
 > ājñāsyāmīndriyopetas trayodaśabhir anvitaḥ // 2.19 //
 
-> With eight; but one accompanied by the knowledge-Faculty or the Faculty of
-> one who has known has eleven. One possessing the “I shall know” Faculty is
-> accompanied by thirteen.
-
-The eight completed 2.18. This unit begins at eleven and ends with the thirteen. The smallest total is the next question.
+> With eight. One possessing the knowledge-Faculty or the Faculty of
+> one who has known, however, necessarily possesses eleven Faculties
+> in either case. One possessing the “I shall know” Faculty necessarily
+> possesses thirteen.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -25,7 +24,11 @@ The eight completed 2.18. This unit begins at eleven and ends with the thirteen.
 > manojīvitakāyendriyaiḥ catasṛbhir vedanābhiḥ śraddhādibhir
 > ājñāsyāmīndriyeṇa ca //
 
-The unit is printed 51.16–51.22 in `Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial. Ājñā tāvīndriyeṇa is joined. Three forms stay difficult: ājñāta indriyam, ya ājñātendriyeṇa, and manaśraddhādibahir. No independent collation is claimed.
+The unit is printed 51.16–51.22 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). Word division is
+editorial. Ājñā tāvīndriyeṇa is joined. Three forms stay difficult:
+ājñāta indriyam, ya ājñātendriyeṇa, and manaśraddhādibahir.
+No independent collation is claimed.
 
 ## 3. Continuous Conventional Translation
 
@@ -33,7 +36,10 @@ But one possessing the knowledge-faculty or the faculty of one who has known, el
 
 One possessing the faculty called “I shall know” is endowed with thirteen. Which thirteen? Mind, life, and body; four feelings; the faculties beginning with faith; and the faculty called “I shall know.”
 
-The gloss is a contextual rendering. The bracketed knowledge-faculty is resolved by the sentence's ājñendriyeṇa and the following separate case. Interpretive, not a silent correction.
+The gloss is a provisional contextual rendering. Knowledge-faculty in
+the first eleven-case is resolved by the sentence's ājñendriyeṇa and
+the following separate case. This does not restore the damaged gloss
+or establish ājñātendriya as an unambiguous synonym.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -43,7 +49,10 @@ Those same ten keeps the common members and changes the realization-faculty. The
 
 ## 5. The Two Elevens
 
-The ten are pleasure, gladness, neutral feeling, life, mind, faith, vigor, mindfulness, concentration, and Discrimination. Knowledge-faculty: those ten and itself. One who has known: those ten and itself.
+The ten are pleasure, gladness, neutral feeling, life, Mind, faith,
+vigor, mindfulness, concentration, and discriminative comprehension.
+Knowledge-Faculty: those ten and itself. One who has known: those ten
+and itself.
 
 Not a twelve containing both. The prose distributes one count over two possessions. Shared ten does not identify the faculties.
 
@@ -73,14 +82,32 @@ Aṣṭābhiḥ belongs to the preceding group. The anchor keeps the verse. The 
 
 The naming at 51.17–18 limits certainty. The explicit ājñendriyeṇa and ājñātāvīndriyeṇa make the contrast intelligible. They do not restore the damaged gloss. The two levels of confidence stay apart.
 
+Necessarily is supplied from the ongoing possession question and
+repeated avaśyam. No uninterrupted-Path restriction is added to the
+thirteen. The opening eight completes 2.18, not a new realization case.
+
 ## 9. Interpretation
 
 A faculty is determined by what possession of it entails, and it stays itself. The later two share ten and are not one. The prospective faculty has another set. The larger number does not rank it.
 
-Equal counts can be different conditions. Unequal counts need not be degrees of knowledge. Co-possession is not causal support, and not present operation. Not the verse English.
+Equal counts can have different necessary companions. Unequal counts
+need not be degrees of knowledge. Co-possession is not causal support
+or current operation.
+
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base without collapsing into Mind or consciousness.
+Mind is one of the common ten; it does not make the ten one
+undifferentiated cognition or all possessed feelings manifest in one act.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. Both elevens and the thirteen are kept. The damaged gloss stays marked.
+Reviewed with the kārikā against printed 51.16–22. The opening eight
+completes 2.18. Necessary possession is explicit in the study
+translation and its exact anchor.
+
+Grammar–Logic checks the distinct elevens and thirteen without an
+unsupported Path-stage constraint. Omission is not universal absence,
+and possession is not current operation. The damaged gloss remains
+provisional; no independent repair is claimed.
 
 2.20 has not been opened.

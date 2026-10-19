@@ -18,27 +18,72 @@ navāptir antyaphalayoḥ saptāṣṭanavabhir dvayoḥ // 2.16 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| krama-mṛtyau | locative | in gradual death |
-| catvāri | numeral | four |
-| śubhe | locative | with a wholesome mind |
-| sarvatra pañca ca | indeclinable | five in addition, everywhere |
-| nava-āptiḥ | nominative | attainment through nine |
-| antya-phalayoḥ | genitive dual | of the two extreme fruits |
-| sapta-aṣṭa-navabhiḥ | instrumental | through seven, eight, or nine |
-| dvayoḥ | genitive dual | of the two middle fruits |
+| krama-mṛtyau | locative singular masculine compound | in gradual death; continues 2.15 |
+| tu | contrastive particle | however |
+| catvāri | accusative plural neuter numeral | four [Faculties], under the carried cessation predicate |
+| śubhe | locative singular adjective, substantival | with wholesome [consciousness], as the Bhāṣya specifies |
+| sarvatra | indeclinable adverb | everywhere; in each stated death case |
+| pañca | cardinal numeral, accusative plural in context | five [Faculties] |
+| ca | additive particle | and; five in addition, not a replacement count |
+| nava-āptiḥ | nominative singular feminine compound | attainment through nine [Faculties] |
+| antya-phalayoḥ | genitive dual neuter compound | of the two extreme fruits, first and last |
+| sapta-aṣṭa-navabhiḥ | instrumental plural numeral compound | through seven, eight, or nine [Faculties] |
+| dvayoḥ | genitive dual numeral, substantival | of the two [middle fruits] |
 
 Antya is the extremes of the four, stream-entry and arhatship, not the last two in time. The instrument is faculties. The fruit is not the set.
 
-## 4. Grammar
+**Grammar tokens.** External sandhi is opened. Numeral compounds remain
+single tokens; the semantic projection expands their counts. The death
+clauses and the new fruit inquiry remain separate constituents.
 
 ```text
-% start S
-S[FRUIT=extreme, COUNT=9] -> StreamEntry | Arhatship
-S[FRUIT=middle, COUNT=?c] -> OnceReturning | NonReturning
-S[COUNT=11, PERSON=one] -> Arhatship[FEELING=?f]
+# tokens: kramamṛtyau tu catvāri śubhe sarvatra pañca ca nava-āptiḥ antyaphalayoḥ sapta-aṣṭa-navabhiḥ dvayoḥ
 ```
 
-Eleven unifies only under `PERSON=one` across successive feelings.
+## 4. Grammar
+
+The first two clauses complete the death count. The locative wholesome
+is resolved by the prose as wholesome consciousness; and adds five.
+The next nominative is attainment, with the dual extreme-fruit phrase
+specifying whose attainment. The final instrumental supplies three
+alternative counts for the other two fruits. The eleven-person
+discussion belongs to the next verse's opening, not this token stream.
+
+```nltk-fcfg
+% start S
+# tokens: kramamṛtyau tu catvāri śubhe sarvatra pañca ca nava-āptiḥ antyaphalayoḥ sapta-aṣṭa-navabhiḥ dvayoḥ
+S[SEM=<(?gradual & ?wholesome & ?extreme & ?middle)>] -> GRADUAL[SEM=?gradual] WHOLESOME[SEM=?wholesome] EXTREME[SEM=?extreme] MIDDLE[SEM=?middle]
+GRADUAL[SEM=<TerminalCount(?case,?count)>] -> GRADUALCASE[CASE=loc,SEM=?case] BUT FOUR[CNT=4,SEM=?count]
+WHOLESOME[SEM=<(?every & AdditionalCount(?case,?count))>] -> WHOLESOMECASE[CASE=loc,SEM=?case] EVERYWHERE[SEM=?every] FIVE[CNT=5,SEM=?count] AND[SCOPE=addition]
+EXTREME[SEM=<?count(?group)>] -> NINEATTAINMENT[CASE=nom,CNT=9,SEM=?count] EXTREMES[CASE=gen,NUM=du,CNT=2,SEM=?group]
+MIDDLE[SEM=<?counts(?group)>] -> COUNTS[CASE=ins,COUNTS=seven_eight_nine,SEM=?counts] TWO[CASE=gen,NUM=du,CNT=2,REF=middle,SEM=?group]
+GRADUALCASE[CASE=loc,SEM=<gradual_death>] -> 'kramamṛtyau'
+BUT -> 'tu'
+FOUR[CNT=4,SEM=<four>] -> 'catvāri'
+WHOLESOMECASE[CASE=loc,SEM=<wholesome_death>] -> 'śubhe'
+EVERYWHERE[SEM=<EveryStatedDeathCase>] -> 'sarvatra'
+FIVE[CNT=5,SEM=<five>] -> 'pañca'
+AND[SCOPE=addition] -> 'ca'
+NINEATTAINMENT[CASE=nom,CNT=9,SEM=<\g.AttainmentCount(g,nine)>] -> 'nava-āptiḥ'
+EXTREMES[CASE=gen,NUM=du,CNT=2,SEM=<extreme_fruits>] -> 'antyaphalayoḥ'
+COUNTS[CASE=ins,COUNTS=seven_eight_nine,SEM=<\g.(AttainmentCount(g,seven) & AttainmentCount(g,eight) & AttainmentCount(g,nine))>] -> 'sapta-aṣṭa-navabhiḥ'
+TWO[CASE=gen,NUM=du,CNT=2,REF=middle,SEM=<middle_fruits>] -> 'dvayoḥ'
+```
+
+```nltk-dep
+'catvāri' -> 'kramamṛtyau' | 'tu'
+'pañca' -> 'śubhe' | 'sarvatra' | 'ca'
+'nava-āptiḥ' -> 'antyaphalayoḥ'
+'sapta-aṣṭa-navabhiḥ' -> 'dvayoḥ'
+```
+
+| Span | Constituent | Result |
+|---|---|---|
+| [0, 3) | `GRADUAL` | gradual-death four |
+| [3, 7) | `WHOLESOME` | five additional in every wholesome death case |
+| [7, 9) | `EXTREME` | nine for the two extremes |
+| [9, 11) | `MIDDLE` | seven/eight/nine for the middle two |
+| [0, 11) | `S` | death completion followed by fruit inquiry |
 
 ## 5. Translation
 
@@ -50,9 +95,10 @@ Eleven unifies only under `PERSON=one` across successive feelings.
 
 ### Bhāṣya-informed study translation
 
-> In gradual death, however, four; with a wholesome [consciousness], five
-> everywhere as well. Attainment of the two extreme fruits is through nine;
-> of the two middle fruits, through seven, eight, or nine.
+> In gradual death, however, four; with wholesome consciousness,
+> everywhere five in addition. The two extreme fruits, stream-entry and
+> arhatship, are attained through nine Faculties; the two middle fruits,
+> once-returning and non-returning, through seven, eight, or nine.
 
 ## 6. Philosophical Translation
 
@@ -65,8 +111,8 @@ Eleven unifies only under `PERSON=one` across successive feelings.
 | śrāmaṇya-phala | fruit of the path | four |
 | antya-phala | extreme fruit | stream-entry, arhatship |
 | madhya | middle | once-returning, non-returning |
-| ānantarya-mārga | uninterrupted path | bears “I shall know” |
-| vimukti-mārga | path of liberation | bears the knowledge-faculty |
+| ānantarya-mārga | uninterrupted Path | in stream-entry, bears “I shall know”; not a universal assignment |
+| vimukti-mārga | Path of liberation | in stream-entry, bears the knowledge-faculty |
 | visaṃyoga-prāpti | acquisition of disconnection | brought, then supported |
 | ānupūrvika | sequential | seven or eight |
 | vītarāga | already free from desire | nine |
@@ -74,38 +120,108 @@ Eleven unifies only under `PERSON=one` across successive feelings.
 
 ## 8. Logical Determination
 
-```text
-stream-entry
-    = five, mind, neutral feeling,
-      I shall know, knowledge-faculty
-    = 9
-    the two realization-faculties on two paths
+**Kārikā, derived.** The root SEM preserves the death qualifications
+and the two fruit groups. Count alternatives are route-dependent,
+not three incompatible totals for one event.
 
-arhatship
-    = five, mind, one of three feelings,
-      knowledge-faculty, one who has known
-    = 9
-
-once-returning, non-returning
-    sequential mundane          7
-    sequential supramundane     8
-    prior dispassion            9
-
-sharp, ninth liberation, mundane
-    neutral feeling + gladness across the two paths
-    = 8
-supramundane
-    = 9
-
-eleven
-    = one person, repeated attainment, three feelings
-    ≠ one moment
-
-same fruit
-    ↛ same set
-same count
-    ↛ same composition
+```nltk-sem
+extreme_count : \g.AttainmentCount(g,nine)
+middle_counts : \g.(AttainmentCount(g,seven) & AttainmentCount(g,eight) & AttainmentCount(g,nine))
+wholesome_addition : AdditionalCount(wholesome_death,five)
 ```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(TerminalCount(gradual_death,four) & EveryStatedDeathCase & AdditionalCount(wholesome_death,five) & AttainmentCount(extreme_fruits,nine) & AttainmentCount(middle_fruits,seven) & AttainmentCount(middle_fruits,eight) & AttainmentCount(middle_fruits,nine))
+
+# THEORY prose_routes
+# EXPECT prose_routes T
+(ExtremeFruit(stream_entry) & ExtremeFruit(arhatship) & MiddleFruit(once_returning) & MiddleFruit(non_returning))
+(RouteCount(sequential_mundane,seven) & RouteCount(sequential_supramundane,eight) & RouteCount(prior_dispassion,nine))
+(RouteCount(sharp_mundane,eight) & RouteCount(sharp_supramundane,nine))
+(OnPath(shall_know,stream_uninterrupted) & OnPath(knowledge,stream_liberation))
+all x.(StreamNine(x) <-> (CommonSix(x) | x = neutral_f | x = shall_know | x = knowledge))
+
+# THEORY cross_verse_eleven
+# EXPECT cross_verse_eleven T
+all x.(ArhatAttainment(x) -> (ByPerson(x,one_person) & exists y.(FeelingChoice(y) & UsesFeeling(x,y))))
+all x.all y.all z.((ArhatAttainment(x) & UsesFeeling(x,y) & UsesFeeling(x,z)) -> (y = z))
+(UsesFeeling(pleasure_attainment,pleasure_f) & UsesFeeling(gladness_attainment,gladness_f) & UsesFeeling(neutral_attainment,neutral_f))
+
+# THEORY rejected_eleven_simultaneous
+# EXPECT rejected_eleven_simultaneous F
+exists x.(ArhatAttainment(x) & UsesFeeling(x,pleasure_f) & UsesFeeling(x,gladness_f) & UsesFeeling(x,neutral_f))
+
+# THEORY rejected_all_mundane_middle_routes_seven
+# EXPECT rejected_all_mundane_middle_routes_seven F
+all x.(MundaneMiddleRoute(x) -> RouteCount(x,seven))
+
+# THEORY rejected_same_count_same_composition
+# EXPECT rejected_same_count_same_composition F
+all x.(SequentialSupraEight(x) <-> SharpMundaneEight(x))
+```
+
+```nltk-valuation
+gradual_death => gradual_case
+wholesome_death => wholesome_case
+extreme_fruits => extremes
+middle_fruits => middles
+four => count_four
+five => count_five
+seven => count_seven
+eight => count_eight
+nine => count_nine
+stream_entry => stream_entry_fruit
+arhatship => arhatship_fruit
+once_returning => once_returning_fruit
+non_returning => non_returning_fruit
+sequential_mundane => sequential_mundane_route
+sequential_supramundane => sequential_supra_route
+prior_dispassion => prior_dispassion_route
+sharp_mundane => sharp_mundane_route
+sharp_supramundane => sharp_supra_route
+shall_know => shall_know_faculty
+knowledge => knowledge_faculty
+neutral_f => neutral
+pleasure_f => pleasure
+gladness_f => gladness
+stream_uninterrupted => stream_uninterrupted_path
+stream_liberation => stream_liberation_path
+one_person => person
+pleasure_attainment => attainment_pleasure
+gladness_attainment => attainment_gladness
+neutral_attainment => attainment_neutral
+EveryStatedDeathCase => True
+TerminalCount => {(gradual_case,count_four)}
+AdditionalCount => {(wholesome_case,count_five)}
+AttainmentCount => {(extremes,count_nine),(middles,count_seven),(middles,count_eight),(middles,count_nine)}
+ExtremeFruit => {stream_entry_fruit,arhatship_fruit}
+MiddleFruit => {once_returning_fruit,non_returning_fruit}
+RouteCount => {(sequential_mundane_route,count_seven),(sequential_supra_route,count_eight),(prior_dispassion_route,count_nine),(sharp_mundane_route,count_eight),(sharp_supra_route,count_nine)}
+MundaneMiddleRoute => {sequential_mundane_route,sharp_mundane_route}
+OnPath => {(shall_know_faculty,stream_uninterrupted_path),(knowledge_faculty,stream_liberation_path)}
+CommonSix => {faith,vigor,mindfulness,concentration,comprehension,mind}
+StreamNine => {faith,vigor,mindfulness,concentration,comprehension,mind,neutral,shall_know_faculty,knowledge_faculty}
+ArhatFixedEight => {faith,vigor,mindfulness,concentration,comprehension,mind,knowledge_faculty,one_who_has_known}
+FeelingChoice => {pleasure,gladness,neutral}
+SequentialMundaneSeven => {faith,vigor,mindfulness,concentration,comprehension,mind,neutral}
+SequentialSupraEight => {faith,vigor,mindfulness,concentration,comprehension,mind,neutral,knowledge_faculty}
+SharpMundaneEight => {faith,vigor,mindfulness,concentration,comprehension,mind,neutral,gladness}
+SharpSupraNine => {faith,vigor,mindfulness,concentration,comprehension,mind,neutral,gladness,knowledge_faculty}
+ArhatAttainment => {attainment_pleasure,attainment_gladness,attainment_neutral}
+ByPerson => {(attainment_pleasure,person),(attainment_gladness,person),(attainment_neutral,person)}
+UsesFeeling => {(attainment_pleasure,pleasure),(attainment_gladness,gladness),(attainment_neutral,neutral)}
+```
+
+Each arhatship set is the fixed eight plus one feeling, hence nine.
+Their union for the represented person is eleven across repeated
+attainments, not eleven at once. Even a nine-count may combine two
+Path-stages. The sharp-route sets likewise count neutral feeling and
+gladness across stages; they do not assert simultaneous feelings.
+Cardinality tests check these unions separately from the finite-model
+formulas. The model does not establish the possibility of relapse;
+it represents the Bhāṣya's reported answer.
 
 ## 9. Interpretive Note
 
@@ -117,7 +233,9 @@ known, with mind and neutral feeling. Arhatship takes the five, excluding
 seven, eight, or nine according to route. Eleven is not a simultaneous
 count. It is one person attaining again across different feelings.
 
-The death clauses stand in 2.15. Four do not cease separately. Five are added on a wholesome mind.
+The death clauses are numbered in this verse and studied with the
+continuous death unit at 2.15. Four do not cease separately in that
+terminal context. Five are added with wholesome consciousness.
 
 Extreme is first and last, not the last two. The stream-entry nine includes two path-names. They are not nine factors in one moment. Arhatship says any one feeling, not three together. That prepares the eleven.
 
@@ -145,6 +263,7 @@ vak:Arhatship vak:throughCount 9 ;
     vak:acrossPerson 11 .
 vak:MiddleFruit vak:throughCount 7, 8, 9 .
 
-organon:SameFruitNotSameSet
-    organon:notTheVerseEnglish true .
+organon:VAK_2_16_Interpretation
+    organon:distinguishes vak:Fruit, vak:Route, vak:FacultyComposition,
+        vak:TemporalScope .
 ```

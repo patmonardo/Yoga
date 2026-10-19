@@ -6,8 +6,9 @@
 >
 > uttarottarasaṃprāptinirvāṇādyādhipatyataḥ // 2.04 //
 
-> Likewise, the Faculties called “I shall know,” “knowledge,” and “one who
-> has known” govern successive attainment, nirvāṇa, and what follows.
+> Likewise, each of the three is a Faculty: “I shall know” and “knowledge”
+> govern attainment of their respective successors, and “one who has
+> known” governs nirvāṇa; another account is also given.
 
 ## 2. Continuous Sanskrit Witness
 

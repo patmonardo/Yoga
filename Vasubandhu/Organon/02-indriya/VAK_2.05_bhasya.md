@@ -6,9 +6,9 @@
 >
 > saṃbhāro vyavadānaṃ ca yāvatā tāvad indriyam // 2.05 //
 
-> The support of consciousness, its differentiation and persistence, its
-> defilement, equipment, and purification: as far as these extend, so far
-> extends Faculty.
+> The Basis of Consciousness, its differentiation, persistence, and
+> defilement, provision for purification, and purification itself:
+> Faculty extends just this far.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -37,7 +37,7 @@ Word division is editorial. Repairs: ādhipātyād → ādhipatyād, karttavyam 
 
 If being a faculty follows from governing efficacy, ignorance and the others must be added to the enumeration. For ignorance and the others also have governing efficacy with respect to formations and the rest; therefore they too must be counted as faculties. Speech and the rest must also be added. Speech, hand, foot, anus, and genital organ must likewise be counted as faculties, because they have governing efficacy over speaking, taking hold, moving about, excretion, and pleasure.
 
-They are not, however, to be added. For what is intended here is: support of mind, its differentiation, persistence, and defilement; equipment and purification: as far as that, so far faculty. Here the six faculties are the support of mind. This sixfold āyatana is the fundamental constitution of a living being. Its differentiation into female and male is through the female and male faculties; its persistence, through the life-faculty; its defilement, through the feelings. Provision for purification is through the five, and purification through the three. Therefore ignorance and the rest are not accepted as faculties.
+They are not, however, to be added. For what is intended here is: the Basis of Consciousness, its differentiation, persistence, and defilement; provision and purification: as far as that, so far Faculty. Here the six faculties are the Basis of Consciousness. This sixfold āyatana is the fundamental constitution of a living being. Its differentiation into female and male is through the female and male faculties; its persistence, through the life-faculty; its defilement, through the feelings. Provision for purification is through the five, and purification through the three. Therefore ignorance and the rest are not accepted as faculties.
 
 ## 4. Objection and Reply
 
@@ -53,7 +53,7 @@ The objection appeals to the predicate already used. The reply does not deny the
 
 | Function | Faculties |
 |---|---|
-| Support of mind | the six |
+| Basis of Consciousness | the six |
 | Differentiation | female and male |
 | Persistence | life |
 | Defilement | the five feelings |
@@ -62,11 +62,11 @@ The objection appeals to the predicate already used. The reply does not deny the
 
 Six plus two plus one plus five plus five plus three. This is the intended extent. It is not a proof that every classification of living powers must use these six. The restriction remains what is intended here.
 
-## 6. Support and Its Differentiation
+## 6. Basis and Its Differentiation
 
 The six are the sixfold āyatana, called maulaṃ sattvadravyam, the fundamental constitution of a living being. This paragraph does not open a separate argument about dravya.
 
-Tasya resumes that basis. Its female and male differentiation is the two faculties of 2.02. Tadvikalpa is not conceptual construction by mind merely because citta stands in the preceding compound.
+Tasya resumes that basis. Its female and male differentiation is the two faculties of 2.02. Although *vikalpa* can designate a mental factor elsewhere, the Bhāṣya determines *tad-vikalpa* here by *strī-puruṣa-vikalpa*, the differentiation of that sixfold Basis.
 
 Upastha in the objection governs pleasure. The female and male faculties govern female-being and male-being. Excluding the proposal does not withdraw the designation. The relation differs.
 

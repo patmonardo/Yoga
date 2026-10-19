@@ -32,22 +32,61 @@ caturṇāṃ pañcakasyāṣṭānāṃ saṃkleśavyavadānayoḥ // 2.1 //
 
 The verse is elliptical. Ādhipatyam governs all four groups. The Bhāṣya supplies the names.
 
-## 4. Grammar
+**Grammar tokens.** Sandhi is opened without altering the Sanskrit
+witness. The final dual compound stays one token because its ordered
+members distribute over the preceding two genitives.
 
 ```text
-% start S
-S[TYPE=faculty] -> NP[GROUP=?g] VP[GOVERN=true, ARTHA=?a]
-NP[GROUP=five] -> 'the five'
-NP[GROUP=four] -> 'the four'
-NP[GROUP=fivefold] -> 'the fivefold group'
-NP[GROUP=eight] -> 'the eight'
-VP[GOVERN=true, ARTHA=four-meanings] -> 'govern four meanings'
-VP[GOVERN=true, ARTHA=two] -> 'govern two'
-VP[GOVERN=true, ARTHA=defilement] -> 'govern defilement'
-VP[GOVERN=true, ARTHA=purification] -> 'govern purification'
+# tokens: caturṣu artheṣu pañcānām ādhipatyam dvayoḥ kila caturṇām pañcakasya aṣṭānām saṃkleśa-vyavadānayoḥ
 ```
 
-Feature `GOVERN=true` is the predicate. Group features discriminate membership. A successful parse is a faculty; failure is not.
+## 4. Grammar
+
+The genitives *pañcānām*, *caturṇām*, *pañcakasya*, and *aṣṭānām* name
+four groups to which *ādhipatyam* is distributed. The locatives *caturṣv
+artheṣu* and *dvayoḥ* give the respective fields of the first two
+groups. The locative dual *saṃkleśavyavadānayoḥ* supplies the two fields
+for the last two groups. The Bhāṣya's *yathākramam* assigns defilement
+to the five feelings and purification to the eight beginning with faith.
+The verse alone compresses this assignment. *Kila* marks the account as
+reported; it does not resolve the later alternative about feeling.
+
+```nltk-fcfg
+% start S
+# tokens: caturṣu artheṣu pañcānām ādhipatyam dvayoḥ kila caturṇām pañcakasya aṣṭānām saṃkleśa-vyavadānayoḥ
+S[SEM=<(?a & (?r(?g)(?f) & ?c))>] -> FIRST[SEM=?a,REL=?r] SECOND[GROUP=?g,FIELD=?f,EVID=reported] LAST[SEM=?c]
+FIRST[SEM=<?r(?g)(?f)>,REL=?r] -> NUM[CASE=loc,NUM=pl,CNT=4] FIELD[CASE=loc,NUM=pl,SEM=?f] GROUP[CASE=gen,NUM=pl,CNT=5,SEM=?g] GOVERN[SEM=?r]
+SECOND[GROUP=?g,FIELD=?f,EVID=reported] -> FIELD[CASE=loc,NUM=du,SEM=?f] EVID[VALUE=reported] GROUP[CASE=gen,NUM=pl,CNT=4,SEM=?g]
+LAST[SEM=<?p(?g)(?h)>] -> GROUP[CASE=gen,NUM=sg,CNT=5,SEM=?g] GROUP[CASE=gen,NUM=pl,CNT=8,SEM=?h] PAIR[CASE=loc,NUM=du,SEM=?p]
+NUM[CASE=loc,NUM=pl,CNT=4] -> 'caturṣu'
+FIELD[CASE=loc,NUM=pl,SEM=<four_meanings>] -> 'artheṣu'
+GROUP[CASE=gen,NUM=pl,CNT=5,SEM=<sensory_five>] -> 'pañcānām'
+GOVERN[SEM=<\g.\f.Governs(g,f)>] -> 'ādhipatyam'
+FIELD[CASE=loc,NUM=du,SEM=<two_meanings>] -> 'dvayoḥ'
+EVID[VALUE=reported] -> 'kila'
+GROUP[CASE=gen,NUM=pl,CNT=4,SEM=<other_four>] -> 'caturṇām'
+GROUP[CASE=gen,NUM=sg,CNT=5,SEM=<feeling_five>] -> 'pañcakasya'
+GROUP[CASE=gen,NUM=pl,CNT=8,SEM=<purifying_eight>] -> 'aṣṭānām'
+PAIR[CASE=loc,NUM=du,SEM=<\g.\h.(Governs(g,defilement) & Governs(h,purification))>] -> 'saṃkleśa-vyavadānayoḥ'
+```
+
+```nltk-dep
+'ādhipatyam' -> 'pañcānām' | 'artheṣu' | 'caturṇām' | 'dvayoḥ' | 'pañcakasya' | 'aṣṭānām' | 'saṃkleśa-vyavadānayoḥ' | 'kila'
+'artheṣu' -> 'caturṣu'
+```
+
+**Feature chart checkpoints.** The half-open spans refer to the ten
+normalized tokens. The inherited `REL` applies *ādhipatyam* to the
+second group without inserting a second Sanskrit word. `EVID=reported`
+keeps *kila*'s voice visible, while the FOL projection records the
+predications rather than a claim that the report is true.
+
+| Span | Constituent | Result |
+|---|---|---|
+| [0, 4) | `FIRST` | five sensory faculties govern four meanings |
+| [4, 7) | `SECOND` | reported four govern two meanings; relation inherited |
+| [7, 10) | `LAST` | ordered pairing of five feelings and eight purifiers |
+| [0, 10) | `S` | four governing relations conjoined |
 
 ## 5. Translation
 
@@ -59,13 +98,15 @@ Feature `GOVERN=true` is the predicate. Group features discriminate membership. 
 
 ### Bhāṣya-informed study translation
 
-> The five have governing efficacy with respect to four meanings; the four,
-> indeed, with respect to two; the fivefold group and the eight, with
-> respect to defilement and purification.
+> The five sensory Faculties have governing efficacy with respect to four
+> meanings each; the four—female, male, life, and mind—it is said, with
+> respect to two each. The five feeling Faculties govern defilement; the
+> eight beginning with faith govern purification.
 
 ## 6. Philosophical Translation
 
-> A faculty is a dharma that governs. The name is one because the efficacy is one, not because the items are one kind.
+> These distinct dharmas bear one Faculty designation through governing
+> efficacy, though their bearers and the meanings they govern differ.
 
 ## 7. Technical Vocabulary
 
@@ -88,49 +129,68 @@ Feature `GOVERN=true` is the predicate. Group features discriminate membership. 
 
 ## 8. Logical Determination
 
-```text
-Faculty(x, m)
-    ↔ Dharma(x)
-    ∧ GovernsWithRespectTo(x, m)
+The section 4 parse composes the verse's four assignments. Its lexical
+*ādhipatyam* is a curried relation; the first clause applies it, and the
+second clause inherits it across the ellipsis. The final locative dual
+applies its ordered fields to the two preceding groups. These are group
+level projections; the Bhāṣya distributes each count over individual
+faculties. The model checks the projection and its source specified
+members, without treating four or two as an arithmetic operation.
 
-Indriya(x)
-    ↛ Organ(x)
-
-SensoryFaculty(x)
-    → Indriya(x)
+```nltk-sem
+governing : \g.\f.Governs(g,f)
+paired_fields : \g.\h.(Governs(g,defilement) & Governs(h,purification))
 ```
 
-Four groups, one predicate:
+**Root `SEM`, after beta reduction.**
 
-```text
-eye, ear, nose, tongue, body
-    → four meanings each
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(Governs(sensory_five,four_meanings) & Governs(other_four,two_meanings) & Governs(feeling_five,defilement) & Governs(purifying_eight,purification))
 
-female, male, life, mind
-    → two each
+# THEORY prose
+# EXPECT prose T
+all x.(SensoryMember(x) -> (Faculty(x) & Governs(x,four_meanings)))
+all x.(OtherFourMember(x) -> (Faculty(x) & Governs(x,two_meanings)))
+all x.(FeelingMember(x) -> (Faculty(x) & Governs(x,defilement)))
+all x.(PurifyingMember(x) -> (Faculty(x) & Governs(x,purification)))
+exists x.(FeelingMember(x) & Governs(x,purification))
 
-five beginning with pleasure
-    → defilement
-    → purification, on the other account
-
-eight beginning with faith
-    → purification
+# THEORY rejected_all_conditions_are_faculties
+# EXPECT rejected_all_conditions_are_faculties F
+all x.(Condition(x) -> Faculty(x))
 ```
 
-The look back is not a second inventory:
+The `prose` theory represents the Bhāṣya's distribution and its
+alternative that feeling also governs purification. The verse formula
+retains the first account's *yathākramam*. The negative theory guards the
+question that 2.02 raises: causal participation alone is not governing
+efficacy. It is a countermodel to that inference, not a claim that the
+word *Condition* occurs in this verse.
 
-```text
-principle
-    → locus, field, or portion
-
-faculty
-    → governing efficacy
-
-principle
-    ≠ faculty
+```nltk-valuation
+sensory_five => sf
+other_four => of
+feeling_five => ff
+purifying_eight => pe
+four_meanings => fm
+two_meanings => tm
+defilement => def
+purification => pur
+Governs => {(sf,fm), (of,tm), (ff,def), (pe,pur), (eye,fm), (female,tm), (pleasure,def), (pleasure,pur), (faith,pur)}
+SensoryMember => {eye}
+OtherFourMember => {female}
+FeelingMember => {pleasure}
+PurifyingMember => {faith}
+Faculty => {eye,female,pleasure,faith}
+Condition => {visible_form}
 ```
 
-Some principles are faculties. Some portions are faculties. The five external are not. A principle without governing efficacy is not yet a Rule. Governing efficacy without a principle has no bearer.
+The finite witness represents one member of each group. It does not
+certify the total membership counts or prove the historical account.
+The distinction between conditioned genesis and governing efficacy needs
+the later causal analysis; it is not silently derived from this verse.
 
 ## 9. Interpretive Note
 

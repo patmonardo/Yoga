@@ -6,9 +6,9 @@
 >
 > śātā dhyāne tṛtīye tu caitasī sā sukhendriyam // 2.07 //
 
-> Pain-Faculty is whichever bodily feeling is disagreeable; pleasure is
-> agreeable feeling. But in the third dhyāna, the agreeable mental feeling
-> is Pleasure-Faculty.
+> Pain-Faculty is whichever bodily feeling is disagreeable; Pleasure-Faculty
+> is agreeable bodily feeling. But in the third dhyāna, that agreeable
+> mental feeling is Pleasure-Faculty.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -27,7 +27,10 @@
 > tṛtīye tu dhyāne saiva śātā vedanā caitasī sukhendriyam /
 > na hi tatra kāyikī vedanā 'sti / pañcavijñānakāyābhāvāt /
 
-The unit runs from printed 41.05 through 41.15 in `Vasubandhu/Sources/kosabhasya.txt`. The survey belongs with this first definition. Anyatra sā saumanasyam begins 2.08 and is not taken here.
+The unit runs from printed 41.05 through 41.15 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The survey belongs
+with this first definition. Anyatra sā saumanasyam begins 2.08 and is not
+taken here.
 
 Word division is editorial. Karisyate → kariṣyate, karttavyaḥ → kartavyaḥ, kāyikī śāta vedanā → kāyikī śātā vedanā. Upaghātikā follows the research bhāṣya against the running upadhātikā, for the contrast with anugrāhikā. No independent collation is claimed.
 
@@ -75,12 +78,27 @@ Caitasī is mental. Kāyikī is bodily. Pañcavijñānakāya is the five cogniti
 
 ## 9. Interpretation
 
-The feeling-place projects. Disagreeable bodily feeling is pain. Agreeable bodily feeling is pleasure. In the third dhyāna the five cognition-groups are absent, and agreeable mental feeling occupies the pleasure-place. The modes do not collapse.
+Faculty-classification is constrained by tone, mode, and level. Agreeable
+tone alone does not establish Pleasure-Faculty; the bodily case and the
+third-dhyāna mental case must remain distinguishable. The same Faculty-name
+does not posit one feeling persisting through a change of mode.
 
-A network of dharmas. The same node, another projection, when the level withdraws the five groups. Recursive, not a second faculty. The principles remain deposited. Not the verse English.
+In the Organon synthesis, Cognition joins and governs Perception and
+Conception, guides the reading of Dharma Base, and remains distinct from
+Mind and consciousness. The local passage contributes a precise constraint:
+where the five Cognition-groups are absent, bodily feeling is absent.
+This does not establish the absence of all Cognition or all feeling. The
+interpretive force is a rule of qualified classification, not an additional
+causal mechanism attributed to the Sanskrit.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The upaghātikā repair remains provisional. Gladness is not imported.
+Reviewed with the kārikā against printed 41.05–15. The verse translation
+now explicitly carries the Bhāṣya's bodily-feeling ellipsis; the anchor
+matches it exactly. Morphological agreement, the resumed agreeable
+feeling, and the third-dhyāna restriction are distinguished in Grammar
+and Logic. Finite-model theories include rejected unqualified mental
+pleasure and rejected conversion of mental feeling into bodily feeling.
 
-2.08 has not been opened.
+The upaghātikā repair remains provisional, not an independently collated
+reading. The explanation of pleasure versus gladness remains with 2.08.

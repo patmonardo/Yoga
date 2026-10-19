@@ -6,9 +6,10 @@
 >
 > madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // 2.33 //
 
-> Vitarka and vicāra are coarseness and subtlety of consciousness. Conceit
-> is elevation of consciousness; intoxication is the taking-over of
-> consciousness in one attached to one's own qualities.
+> Initial and sustained examination are, respectively, coarseness and
+> subtlety of consciousness. Conceit is elevation of consciousness through
+> a constructed distinction relative to another. Intoxication, however,
+> is the taking-over of consciousness in one attached to one's own qualities.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -24,22 +25,56 @@
 > evaṃ tarhi nimittabhūtau vitarkavicārāv audārikasūkṣmatayoḥ prāpnuto yathā payaś ca tapaś ca sarpiṣaḥ śyānatvavilīnatvayoḥ na tu punas tatsvabhāvau /
 > āpekṣikī caudārikasūkṣmatā bhūmiprakārabhedād ity ā bhavāgrād vitarkavicārau syātām /
 > na caudārikasūkṣmatayā jātibhedo yuktaḥ /
+> anye punarāhuḥ /
+> vāksaṃskārā vitrkavicārāḥ sūtra uktāḥ /
+> "vitarkya vicārya vācaṃ bhāṣate nāvitasryāvicārye" ti /
+> tatra ye audārikāste vitarkāḥ ye sūkṣmāste vicārāḥ /
+> yadi caikatra citte 'nyo dharma audāriko 'nyaḥ sūkṣmaḥ ko 'tra virodha iti /
+> na syādvirodho yadi jātibhedaḥ syādvedanāsaṃjñāvat /
+> ekasyāṃ jātau mṛdvadhimātratā yugapanna saṃbhavati /
+> jātibhedo /pyasti /
+> sa tarhi vaktavyaḥ /
+> durvaco hyasāvato mṛdvadhimātratayā vyajyate /
+> naivaṃ vyakto bhavati /
+> pratyekaṃ jātīnāṃ mṛdvadhimātratavāt /
+> naiva hi vitarkavicārāvekatra citte bhavata ityapare /
+> kathamidānīṃ prathamaṃ dhyānaṃ pañcāṅgayuktam /
+> bhūmitastat pañcāṅgayukataṃ na kṣaṇataḥ /
+> mānamadayoḥ kiṃ nānākāraṇam /
+> māna unnatiḥ /
+> madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // 2.33 //
+> yena kenacit parato viśeṣaparikalpena cetasa unnatiḥ mānaḥ /
+> madastu svadharmeṣveva raktasya yaccetasaḥ paryādānam /
+> yathā madyaja evaṃ rāgajaḥ /
+> saṃprahaṛśaṇaviśeṣo mada ityapare /
 
-The unit is printed 60.23–61.19 in `Vasubandhu/Sources/kosabhasya.txt`. The witness above is the first objection. Speech-formation, non-coexistence, and the conceit pair are reported below. The butter example and the speech quotation are damaged. Not a collation. Technical designations at 61.20 are 2.34.
+The unit is printed 60.23–61.19 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The excerpt now
+includes the full local debate and final definitions. Its opening is
+a normalized study transcription: the running 'pyasuniṣṭhyūtaṃ is
+represented by payasi niṣiktaṃ, a substantial contextual repair,
+not a secure reading. The English water construal follows the
+reply's payaḥ; milk is also a possible sense of that word. The
+speech quotation remains damaged, including nāvitasryāvicārye.
+Other retained defects include vitrkavicārāḥ, /pyasti,
+mṛdvadhimātratavāt, pañcāṅgayukataṃ, and saṃprahaṛśaṇa.
+No independent collation is claimed. Technical designations at
+61.20 begin 2.34.
 
 ## 3. Continuous Conventional Translation
 
-What distinguishes vitarka from vicāra? They are coarseness and subtlety. Of what? Of consciousness, as will be stated. Vitarka is coarseness of consciousness. Vicāra is subtlety of consciousness. How can the two be associated with one consciousness? Some say: as clarified butter in water, touched from above by the sun's rays, neither congeals excessively nor melts excessively, so consciousness associated with both becomes neither excessively subtle nor excessively coarse. Both have an operation there.
+What distinguishes initial from sustained examination? They are coarseness and subtlety. Of what? Of consciousness, as will be stated. Initial examination is coarseness of consciousness. Sustained examination is subtlety of consciousness. How can the two be associated with one consciousness? Some say: as clarified butter placed in water [a provisional construal], touched from above by the sun's rays, neither congeals excessively nor melts excessively, so consciousness associated with both becomes neither excessively subtle nor excessively coarse. Both have an operation there.
 
 Then they would be conditions of coarseness and subtlety, as water and heat are of the butter's congealing and melting, and would not have those states as their nature. Coarseness and subtlety are relative, by differences of level and variety. They would then extend as far as the summit of existence. Difference of kind is not established by coarseness and subtlety.
 
-Others say they are formations of speech in the sūtra: having examined, one speaks, not without having done so. The coarse are vitarka. The subtle are vicāra. If one dharma is coarse and another subtle, what contradiction? None, if they differed in kind, as feeling and reflection do. Lesser and greater intensity within one kind cannot occur together. There is a difference of kind. Then it should be stated. It is difficult to state, and is indicated by intensity. Not indicated that way, for each kind itself admits lesser and greater intensity.
+Others say they are formations of speech in the sūtra: after initial
+and sustained examination one speaks, not without them [the quotation
+is damaged]. The coarse are initial examinations; the subtle are
+sustained examinations. If one dharma is coarse and another subtle, what contradiction? None, if they differed in kind, as feeling and reflection do. Lesser and greater intensity within one kind cannot occur together. There is a difference of kind. Then it should be stated. It is difficult to state, and is indicated by intensity. Not indicated that way, for each kind itself admits lesser and greater intensity.
 
 Still others say they do not occur in one consciousness at all. How, then, does the first dhyāna have five factors? With reference to the level, not to the moment.
 
 What distinguishes conceit from intoxication? Conceit is elevation. Intoxication is the taking-over of consciousness in one attached to one's own qualities. Conceit is elevation of consciousness through any construction of distinction relative to another. Intoxication is the taking-over of consciousness in one attached precisely to one's own qualities. As intoxication born of liquor, so born of attachment. Others say a particular kind of exhilaration.
-
-Cast into water follows the reply's water and heat. Not a restored reading. The speech quotation is damaged. Its sense is kept.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -67,10 +102,30 @@ Elevation through a constructed distinction relative to another. Taking-over thr
 
 Identity, conditioning, intensity, and scale do not substitute for one another. An influence is not the state. Strength is not kind. The disputed definitions stay disputed. What each proposal explains, and what it leaves, is the precision. Level and moment are useful because the role is explicit.
 
-Comparison and attachment to one's own organize different explanations. Not one emotion called pride. Objective Logic on the mind is the pass. Not the translation. Not the final pass.
+Comparison and attachment to one's own organize different explanations,
+not one emotion called pride. Intoxication takes over consciousness;
+one's own qualities are the Condition of attachment, not what is
+taken over.
+
+Cognition joins and governs Perception and Conception and guides
+the reading of Dharma Base, remaining distinct from consciousness
+and Mind. The dispute over factors' co-occurrence does not redefine
+these as interchangeable instruments. Its attributed positions must
+not be collapsed into one claim for the sake of a smooth model.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The three positions, the objections, and the conceit pair are kept. The dispute is not settled.
+Reviewed with the kārikā against printed 60.23–61.19. The Sanskrit
+excerpt now includes speech-formation, kind/degree objections,
+the separation account, and conceit/intoxication. The opening butter
+repair and damaged speech quotation remain provisional.
 
-2.34 has not been opened.
+The study translation uses initial/sustained examination and supplies
+the prose's comparative qualification for conceit; the anchor matches.
+Executable checks keep co-presence claims indexed to their positions
+and distinguish level from moment. Intoxication's taking-over is
+of consciousness, not of one's own qualities; the OWL seed agrees.
+The debate remains unresolved.
+
+The next technical-designation passage was read to establish the
+boundary; paired review of 2.34 remains next.

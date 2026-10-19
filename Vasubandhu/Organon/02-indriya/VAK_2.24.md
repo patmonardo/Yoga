@@ -18,30 +18,63 @@ manaskāro 'dhimokṣaś ca samādhiḥ sarvacetasi // 2.24 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| vedanā | nominative | feeling |
-| cetanā | nominative | volition |
-| saṃjñā | nominative | reflection |
-| chandaḥ | nominative | wish to perform |
-| sparśaḥ | nominative | contact |
-| matiḥ | nominative | discriminative comprehension |
-| smṛtiḥ | nominative | mindfulness |
-| manaskāraḥ | nominative | attention |
-| adhimokṣaḥ | nominative | resolution |
-| samādhiḥ | nominative | concentration |
-| sarva-cetasi | locative | in every consciousness |
+| vedanā | nominative singular feminine noun | feeling |
+| cetanā | nominative singular feminine noun | volition |
+| saṃjñā | nominative singular feminine noun | reflection |
+| chandaḥ | nominative singular masculine noun | wish to perform |
+| sparśaḥ | nominative singular masculine noun | contact |
+| matiḥ | nominative singular feminine noun | discriminative comprehension |
+| smṛtiḥ | nominative singular feminine noun | mindfulness |
+| manaskāraḥ | nominative singular masculine noun | attention |
+| adhimokṣaḥ | nominative singular masculine noun | resolution |
+| ca | conjunction | and; coordinates the enumeration, not alternatives |
+| samādhiḥ | nominative singular masculine noun | concentration |
+| sarva-cetasi | locative singular neuter compound | in every consciousness; prose specifies every moment |
 
-Mati is prajñā: discriminative comprehension, not discernment. Smṛti is non-loss of the support. Samādhi is one-pointedness, not the perfected absorption.
+Mati is prajñā: discriminative comprehension. Samādhi is
+one-pointedness, not necessarily perfected absorption. Sandhi is opened
+for parsing; the ten nominatives remain in their source order.
+
+```text
+# tokens: vedanā cetanā saṃjñā chandaḥ sparśaḥ matiḥ smṛtiḥ manaskāraḥ adhimokṣaḥ ca samādhiḥ sarvacetasi
+```
 
 ## 4. Grammar
 
-```text
+The enumeration is conjunctive, not a choice among ten. The final
+locative scopes every member. Presence is supplied as the predicate;
+the Bhāṣya specifies complete co-presence in each consciousness-moment.
+Its reportive kila is not a verse token.
+
+```nltk-fcfg
 % start S
-S[GROUND=every-consciousness] -> Ten[PRESENT=together]
-Ten -> Feeling | Volition | Reflection | Wish | Contact | DiscriminativeComprehension | Mindfulness | Attention | Resolution | Concentration
+# tokens: vedanā cetanā saṃjñā chandaḥ sparśaḥ matiḥ smṛtiḥ manaskāraḥ adhimokṣaḥ ca samādhiḥ sarvacetasi
+S[SEM=<all c.(ConsciousnessMoment(c) -> ?members(c))>] -> TEN[CNT=10,SEM=?members] EVERY[CASE=loc,SCOPE=every_moment]
+TEN[CNT=10,SEM=<\c.(Present(c,?a) & Present(c,?b) & Present(c,?d) & Present(c,?e) & Present(c,?f) & Present(c,?g) & Present(c,?h) & Present(c,?i) & Present(c,?j) & Present(c,?k))>] -> FEELING[CASE=nom,SEM=?a] VOLITION[CASE=nom,SEM=?b] REFLECTION[CASE=nom,SEM=?d] WISH[CASE=nom,SEM=?e] CONTACT[CASE=nom,SEM=?f] COMPREHENSION[CASE=nom,SEM=?g] MINDFULNESS[CASE=nom,SEM=?h] ATTENTION[CASE=nom,SEM=?i] RESOLUTION[CASE=nom,SEM=?j] AND[READING=conjunction] CONCENTRATION[CASE=nom,SEM=?k]
+FEELING[CASE=nom,SEM=<feeling>] -> 'vedanā'
+VOLITION[CASE=nom,SEM=<volition>] -> 'cetanā'
+REFLECTION[CASE=nom,SEM=<reflection>] -> 'saṃjñā'
+WISH[CASE=nom,SEM=<wish>] -> 'chandaḥ'
+CONTACT[CASE=nom,SEM=<contact>] -> 'sparśaḥ'
+COMPREHENSION[CASE=nom,SEM=<comprehension>] -> 'matiḥ'
+MINDFULNESS[CASE=nom,SEM=<mindfulness>] -> 'smṛtiḥ'
+ATTENTION[CASE=nom,SEM=<attention>] -> 'manaskāraḥ'
+RESOLUTION[CASE=nom,SEM=<resolution>] -> 'adhimokṣaḥ'
+AND[READING=conjunction] -> 'ca'
+CONCENTRATION[CASE=nom,SEM=<concentration>] -> 'samādhiḥ'
+EVERY[CASE=loc,SCOPE=every_moment] -> 'sarvacetasi'
 ```
 
-`GROUND=every-consciousness` forces co-presence of the ten.  
-`kila` reports the claim; it does not by itself reject it.
+```nltk-dep
+'sarvacetasi' -> 'vedanā' | 'cetanā' | 'saṃjñā' | 'chandaḥ' | 'sparśaḥ' | 'matiḥ' | 'smṛtiḥ' | 'manaskāraḥ' | 'adhimokṣaḥ' | 'samādhiḥ'
+'adhimokṣaḥ' -> 'ca'
+```
+
+| Span | Constituent | Result |
+|---|---|---|
+| [0, 11) | `TEN` | ten coordinated factor-kinds, with conjunction |
+| [11, 12) | `EVERY` | universal consciousness-moment scope |
+| [0, 12) | `S` | every listed kind present in each moment |
 
 ## 5. Translation
 
@@ -55,7 +88,7 @@ Ten -> Feeling | Volition | Reflection | Wish | Contact | DiscriminativeComprehe
 
 > Feeling, volition, reflection, wish to perform, contact, discriminative
 > comprehension, mindfulness, attention, resolution, and concentration are
-> present in every consciousness.
+> all present together in every moment of consciousness.
 
 ## 6. Philosophical Translation
 
@@ -69,9 +102,9 @@ Ten -> Feeling | Volition | Reflection | Wish | Contact | DiscriminativeComprehe
 | cetanā | volition | cittābhisaṃskāra, mental action |
 | saṃjñā | reflection | take-up of the mark; gloss damaged |
 | chanda | wish to perform | kartṛkāmatā; not craving |
-| sparśa | contact | faculty, viṣaya, cognition |
+| sparśa | contact | born of the conjunction of Faculty, Condition, and Cognition |
 | mati | discriminative comprehension | prajñā; not every act of discrimination is correct |
-| smṛti | mindfulness | non-loss of the support |
+| smṛti | mindfulness | non-loss of the Cognitive Condition, not just past-event memory |
 | manaskāra | attention | application of consciousness |
 | adhimokṣa | resolution | adhimukti, settling upon |
 | samādhi | concentration | one-pointedness |
@@ -79,35 +112,90 @@ Ten -> Feeling | Volition | Reflection | Wish | Contact | DiscriminativeComprehe
 
 ## 8. Logical Determination
 
-```python
-from nltk.sem.logic import LogicParser
-lp = LogicParser()
+**Kārikā, derived; temporal scope resolved by the Bhāṣya.** The model
+uses factor-kinds, not numerically identical factor-tokens persisting
+through distinct moments. It tests the reported universal claim,
+not an independent proof of that claim.
 
-ten = lp.parse(r'all c.(Consciousness(c) -> (Feeling(c) & Volition(c) & Reflection(c) & Contact(c) & DiscriminativeComprehension(c) & ...))')
-not_strength = lp.parse(r'-all c x.(Present(c,x) -> EqualStrength(c,x))')
+```nltk-sem
+presence : \f.\c.Present(c,f)
+every_moment : \P.all c.(ConsciousnessMoment(c) -> P(c))
 ```
 
-Presence is co-occurrence, not identity of strength or quality.  
-The ground is every consciousness; the support is not the ground.
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+all c.(ConsciousnessMoment(c) -> (Present(c,feeling) & Present(c,volition) & Present(c,reflection) & Present(c,wish) & Present(c,contact) & Present(c,comprehension) & Present(c,mindfulness) & Present(c,attention) & Present(c,resolution) & Present(c,concentration)))
+
+# THEORY enumerated_ten
+# EXPECT enumerated_ten T
+all c f.((ConsciousnessMoment(c) & GreatGroundKind(f)) -> Present(c,f))
+
+# THEORY rejected_only_one_factor_per_moment
+# EXPECT rejected_only_one_factor_per_moment F
+all c f g.((ConsciousnessMoment(c) & Present(c,f) & Present(c,g)) -> f = g)
+
+# THEORY rejected_presence_guarantees_adequacy
+# EXPECT rejected_presence_guarantees_adequacy F
+all c f.(Present(c,f) -> Adequate(c,f))
+
+# THEORY rejected_three_feelings_simultaneous
+# EXPECT rejected_three_feelings_simultaneous F
+exists c.(FeelingMode(c,pleasant) & FeelingMode(c,painful) & FeelingMode(c,neutral))
+```
+
+```nltk-valuation
+feeling => feeling_kind
+volition => volition_kind
+reflection => reflection_kind
+wish => wish_kind
+contact => contact_kind
+comprehension => comprehension_kind
+mindfulness => mindfulness_kind
+attention => attention_kind
+resolution => resolution_kind
+concentration => concentration_kind
+pleasant => pleasant_mode
+painful => painful_mode
+neutral => neutral_mode
+ConsciousnessMoment => {moment_a,moment_b}
+GreatGroundKind => {feeling_kind,volition_kind,reflection_kind,wish_kind,contact_kind,comprehension_kind,mindfulness_kind,attention_kind,resolution_kind,concentration_kind}
+Present => {(moment_a,feeling_kind),(moment_a,volition_kind),(moment_a,reflection_kind),(moment_a,wish_kind),(moment_a,contact_kind),(moment_a,comprehension_kind),(moment_a,mindfulness_kind),(moment_a,attention_kind),(moment_a,resolution_kind),(moment_a,concentration_kind),(moment_b,feeling_kind),(moment_b,volition_kind),(moment_b,reflection_kind),(moment_b,wish_kind),(moment_b,contact_kind),(moment_b,comprehension_kind),(moment_b,mindfulness_kind),(moment_b,attention_kind),(moment_b,resolution_kind),(moment_b,concentration_kind)}
+Adequate => {(moment_a,attention_kind)}
+FeelingMode => {(moment_a,pleasant_mode),(moment_b,neutral_mode)}
+```
+
+There are exactly ten named kinds, all instantiated in each modeled
+moment. This is not a claim that only ten factors can accompany a
+consciousness. The illustrative adequacy countermodel shows that
+presence alone does not encode correctness or perfected practice;
+it does not diagnose a particular source-described moment.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): These ten are present together in every moment of
-consciousness. Feeling is experience, volition is mental action,
-reflection is take-up of the mark, contact is the touching born of
-faculty, meaning, and cognition, Discriminative comprehension is prajñā. The distinction
-of consciousness and factors is subtle, harder in moments than in streams.
+**Translation note.** The study translation makes the prose's complete
+co-presence and moment-level scope explicit. Kila reports the claim;
+the particle does not by itself establish rejection. The definitions
+and the difficulty of distinguishing the factors remain separate
+from this universal assertion.
 
 The question was left at 2.23. These are the great-ground factors because the ground is every consciousness. Not because they are exalted.
 
 Volition and wish to perform are different. Reflection and discriminative comprehension are different. The recognition-gloss is damaged. The distinction of the two entries does not depend on restoring it.
 
-Contact is not confined to bodily touch. Viṣaya in that definition is not decided as an external thing by this sentence. Mindfulness is non-loss of the support, not only memory of a past event. The ground is every consciousness. That does not make every consciousness their common support.
+Contact is not confined to bodily touch. Its Condition is not thereby
+decided as an externally established Thing. Mindfulness is non-loss
+of the Cognitive Condition, not only memory of a past event.
+Every consciousness is the operating range, not a common Cognitive
+Condition substituted for each factor's specific relation.
 
 The plant analogy is difficulty, not impossibility. The universal claim, the definitions, and the difficulty of seeing the differences stay apart. No rival list. No school named. Kila alone is not a rejection.
 
-Interpretation: the ten are the first closure of the pair. Universal function is not universal adequacy. Not the verse English.
+In the Organon reading, Cognition joins and governs Perception and
+Conception while remaining distinct from consciousness and Mind.
+Reflection and discriminative comprehension are distinct entries
+within the present list, not interchangeable names for that governing
+Cognition. Universal presence is not universal adequacy.
 
 ## 10. OWL++ Seed
 
@@ -125,6 +213,7 @@ vak:VAK_2_24
 vak:GreatGroundTen vak:inEveryConsciousness true .
 vak:Mati vak:is vak:DiscriminativeComprehension .
 
-organon:PresenceNotAdequacy
-    organon:notTheVerseEnglish true .
+organon:VAK_2_24_Interpretation
+    organon:distinguishes vak:UniversalPresence, vak:FactorDefinition,
+        vak:FunctionalAdequacy .
 ```

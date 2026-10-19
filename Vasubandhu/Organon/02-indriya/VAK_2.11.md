@@ -18,31 +18,79 @@ daurmanasyaṃ mano 'nyā ca vittis tredhā anyad ekadhā // 2.11 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| manaḥ | nominative | mind |
-| anya-vitti | nominative | the other feelings |
-| śraddhā-ādīni | nominative | those beginning with faith |
-| aṣṭakam | nominative | the group of eight |
-| kuśalam | nominative | wholesome |
+| mano-'nya-vitti-śraddhādīni | nominative plural neuter coordinated compound | Mind, other feelings, and those beginning with faith; completes 2.10's ten |
+| aṣṭakam | nominative singular neuter collective noun | the group of eight, now under the ethical question |
+| kuśalam | nominative singular neuter adjective | wholesome; predicates the eight |
 | dvidhā | indeclinable | twofold |
-| daurmanasyam | nominative | distress |
-| anyā vittiḥ | nominative | the other feeling |
+| daurmanasyam | nominative singular neuter noun | distress, subject of twofold |
+| manaḥ | nominative singular neuter noun | Mind, subject with other feeling |
+| anyā | nominative singular feminine adjective | other; excludes distress |
+| ca | coordinating particle | and |
+| vittiḥ | nominative singular feminine noun, collective in force | feeling; the four other feeling types |
 | tredhā | indeclinable | threefold |
-| anyat | nominative | the remainder |
+| anyat | nominative singular neuter pronoun | the remainder, seven Form Faculties and life |
 | ekadhā | indeclinable | onefold |
 
 Vitti is feeling. Other excludes distress: pain, pleasure, gladness, neutral feeling.
 
-## 4. Grammar
+**Grammar tokens.** Sandhi is opened, separating the initial Mind member
+from the rest of the coordinated compound. It completes the preceding verse's ten, rather than
+supplying the members of the wholesome eight. The boundary remains in
+the parse.
 
 ```text
-% start S
-S[ETHICAL=wholesome] -> Eight
-S[ETHICAL=?e] -> Distress[ETHICAL=wholesome|unwholesome]
-S[ETHICAL=?e] -> Mind | OtherFeeling
-S[ETHICAL=indeterminate] -> Remainder
+# tokens: manaḥ anya-vitti-śraddhādīni aṣṭakam kuśalam dvidhā daurmanasyam manaḥ anyā ca vittiḥ tredhā anyat ekadhā
 ```
 
-Ethical quality is a feature, not the faculty itself.
+## 4. Grammar
+
+The first compound is a carried enumeration. The Bhāṣya begins its new
+ethical question only at the eight. The singular collective eight agrees
+with wholesome; twofold applies to distress; Mind and the collectively
+singular other feeling take the threefold determination. The remainder
+is onefold. The adverbs themselves do not name the ethical alternatives;
+the Bhāṣya supplies those alternatives.
+
+```nltk-fcfg
+% start S
+# tokens: manaḥ anya-vitti-śraddhādīni aṣṭakam kuśalam dvidhā daurmanasyam manaḥ anyā ca vittiḥ tredhā anyat ekadhā
+S[SEM=<(?carry & ?eight & ?distress & ?five & ?rest)>] -> CARRY[SCOPE=previous_ten,SEM=?carry] EIGHTCLAUSE[SEM=?eight] DISTRESSCLAUSE[SEM=?distress] FIVECLAUSE[SEM=?five] RESTCLAUSE[SEM=?rest]
+CARRY[SCOPE=previous_ten,SEM=<CompletesPreviousTen>] -> 'manaḥ' 'anya-vitti-śraddhādīni'
+EIGHTCLAUSE[SEM=<(GroupCount(?group,eight) & ?quality(?group))>] -> EIGHT[CASE=nom,NUM=sg,GEN=n,CNT=8,SEM=?group] WHOLESOME[CASE=nom,NUM=sg,GEN=n,SEM=?quality]
+DISTRESSCLAUSE[SEM=<?count(?group)>] -> TWOFOLD[SEM=?count] DISTRESS[CASE=nom,NUM=sg,GEN=n,SEM=?group]
+FIVECLAUSE[SEM=<(?count(?mind) & ?count(other_feelings) & OtherFeelingExcludesDistress)>] -> MIND[CASE=nom,NUM=sg,GEN=n,SEM=?mind] OTHER[CASE=nom,NUM=sg,GEN=f,REF=other_four] AND FEELING[CASE=nom,NUM=sg,GEN=f,REF=other_four] THREEFOLD[SEM=?count]
+RESTCLAUSE[SEM=<?count(?group)>] -> REST[CASE=nom,NUM=sg,GEN=n,SEM=?group] ONEFOLD[SEM=?count]
+EIGHT[CASE=nom,NUM=sg,GEN=n,CNT=8,SEM=<wholesome_eight>] -> 'aṣṭakam'
+WHOLESOME[CASE=nom,NUM=sg,GEN=n,SEM=<\g.WholesomeOnly(g)>] -> 'kuśalam'
+TWOFOLD[SEM=<\g.EthicalOptions(g,two)>] -> 'dvidhā'
+DISTRESS[CASE=nom,NUM=sg,GEN=n,SEM=<distress_f>] -> 'daurmanasyam'
+MIND[CASE=nom,NUM=sg,GEN=n,SEM=<mind_f>] -> 'manaḥ'
+OTHER[CASE=nom,NUM=sg,GEN=f,REF=other_four] -> 'anyā'
+AND -> 'ca'
+FEELING[CASE=nom,NUM=sg,GEN=f,REF=other_four] -> 'vittiḥ'
+THREEFOLD[SEM=<\g.EthicalOptions(g,three)>] -> 'tredhā'
+REST[CASE=nom,NUM=sg,GEN=n,SEM=<remainder>] -> 'anyat'
+ONEFOLD[SEM=<\g.EthicalOptions(g,one)>] -> 'ekadhā'
+```
+
+```nltk-dep
+'aṣṭakam' -> 'kuśalam'
+'daurmanasyam' -> 'dvidhā'
+'manaḥ' -> 'anya-vitti-śraddhādīni' | 'anyā' | 'ca' | 'vittiḥ' | 'tredhā'
+'anyat' -> 'ekadhā'
+```
+
+The dependency block records vocabulary coverage only; the opening
+compound is not syntactically a member-list for the eight.
+
+| Span | Constituent | Result |
+|---|---|---|
+| [0, 2) | `CARRY` | completion of 2.10's ten |
+| [2, 4) | `EIGHTCLAUSE` | wholesome eight |
+| [4, 6) | `DISTRESSCLAUSE` | two ethical possibilities |
+| [6, 11) | `FIVECLAUSE` | Mind and other feelings, each threefold |
+| [11, 13) | `RESTCLAUSE` | one ethical possibility |
+| [0, 13) | `S` | carried enumeration followed by the new classification |
 
 ## 5. Translation
 
@@ -54,19 +102,22 @@ Ethical quality is a feature, not the faculty itself.
 
 ### Bhāṣya-informed study translation
 
-> Mind, the other feelings, and those beginning with faith: the eight are
-> wholesome. Distress is twofold; mind and the other feelings are threefold;
-> the remainder is onefold.
+> [The ten are] Mind, the other feelings, and those beginning with faith.
+> The eight are exclusively wholesome. Distress is wholesome or
+> unwholesome; Mind and the other feelings can be wholesome, unwholesome,
+> or indeterminate. The remainder is exclusively indeterminate.
 
 ## 6. Philosophical Translation
 
-> The eight are wholesome by nature. Distress always bears a quality. Mind and four feelings keep one function across three qualities. The remainder governs, and is indeterminate.
+> Feeling-tone and ethical quality are distinct. Distress can be wholesome;
+> neutral feeling can be wholesome, unwholesome, or indeterminate.
+> Governing efficacy does not by itself establish wholesomeness.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Running word | Determination |
 |---|---|---|
-| kuśala | wholesome | the eight, only |
+| kuśala | wholesome | the eight exclusively; also possible for distress, Mind, and the other feelings |
 | akuśala | unwholesome | distress, and the five, in one way |
 | avyākṛta | indeterminate | neither; not neutral feeling |
 | anya-vitti | the other feelings | pain, pleasure, gladness, neutral feeling |
@@ -76,34 +127,74 @@ Ethical quality is a feature, not the faculty itself.
 
 ## 8. Logical Determination
 
-```text
-wholesome only
-    = five + three
-    = 8
+**Kārikā, derived.** The opening fragment completes the preceding
+enumeration, not the wholesome eight. The verse gives one explicit
+quality and three counts of alternatives. The prose fixes the contents
+of each range; possibilities across instances are not simultaneous
+qualities of an instance.
 
-distress
-    = wholesome or unwholesome
-    ≠ indeterminate
-
-mind, pain, pleasure, gladness, neutral feeling
-    = three qualities
-    = 5
-
-seven of form, life
-    = indeterminate only
-    = 8
-
-8 + 1 + 5 + 8 = 22
-
-neutral feeling
-    ↛ indeterminate
-wholesome
-    ↛ without outflows
-never maturation
-    ↛ unwholesome
+```nltk-sem
+wholesome_group : \g.WholesomeOnly(g)
+ethical_range : \g.\n.EthicalOptions(g,n)
+previous_enumeration : CompletesPreviousTen
 ```
 
-Threefold is the range of instances, not three qualities in one instance.
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(CompletesPreviousTen & GroupCount(wholesome_eight,eight) & WholesomeOnly(wholesome_eight) & EthicalOptions(distress_f,two) & EthicalOptions(mind_f,three) & EthicalOptions(other_feelings,three) & OtherFeelingExcludesDistress & EthicalOptions(remainder,one))
+
+# THEORY prose
+# EXPECT prose T
+all x.(WholesomeEightType(x) -> (CanBeWholesome(x) & -CanBeUnwholesome(x) & -CanBeIndeterminate(x)))
+(CanBeWholesome(distress_f) & CanBeUnwholesome(distress_f) & -CanBeIndeterminate(distress_f))
+all x.(ThreefoldType(x) -> (CanBeWholesome(x) & CanBeUnwholesome(x) & CanBeIndeterminate(x)))
+all x.(RemainderType(x) -> (CanBeIndeterminate(x) & -CanBeWholesome(x) & -CanBeUnwholesome(x)))
+
+# THEORY rejected_distress_only_unwholesome
+# EXPECT rejected_distress_only_unwholesome F
+-CanBeWholesome(distress_f) & CanBeUnwholesome(distress_f)
+
+# THEORY rejected_neutral_feeling_only_indeterminate
+# EXPECT rejected_neutral_feeling_only_indeterminate F
+CanBeIndeterminate(neutral_f) & -CanBeWholesome(neutral_f) & -CanBeUnwholesome(neutral_f)
+
+# THEORY rejected_carried_ten_are_wholesome_eight
+# EXPECT rejected_carried_ten_are_wholesome_eight F
+all x.(PreviousTenType(x) <-> WholesomeEightType(x))
+```
+
+```nltk-valuation
+wholesome_eight => faith_and_realization_group
+distress_f => distress
+mind_f => mind
+neutral_f => neutral
+other_feelings => other_four_feelings
+remainder => form_and_life_group
+eight => count_eight
+two => count_two
+three => count_three
+one => count_one
+CompletesPreviousTen => True
+OtherFeelingExcludesDistress => True
+GroupCount => {(faith_and_realization_group,count_eight)}
+WholesomeOnly => {faith_and_realization_group}
+EthicalOptions => {(distress,count_two),(mind,count_three),(other_four_feelings,count_three),(form_and_life_group,count_one)}
+WholesomeEightType => {faith,vigor,mindfulness,concentration,comprehension,shall_know,knowledge,one_who_has_known}
+ThreefoldType => {mind,pain,pleasure,gladness,neutral}
+OtherFeelingType => {pain,pleasure,gladness,neutral}
+RemainderType => {eye,ear,nose,tongue,body,female,male,life}
+PreviousTenType => {mind,pain,pleasure,gladness,neutral,faith,vigor,mindfulness,concentration,comprehension}
+CanBeWholesome => {faith,vigor,mindfulness,concentration,comprehension,shall_know,knowledge,one_who_has_known,distress,mind,pain,pleasure,gladness,neutral}
+CanBeUnwholesome => {distress,mind,pain,pleasure,gladness,neutral}
+CanBeIndeterminate => {mind,pain,pleasure,gladness,neutral,eye,ear,nose,tongue,body,female,male,life}
+```
+
+The four disjoint groups contain 8 + 1 + 5 + 8 = 22 Faculty-types.
+The carried ten contain Mind, the four other feelings, and the five
+beginning with faith; they are not either of this verse's eights.
+The model records permitted ethical ranges, not conditions sufficient
+to make a particular occurrence wholesome.
 
 ## 9. Interpretive Note
 
@@ -119,7 +210,10 @@ Distress can be wholesome. The paragraph does not say when. No example is invent
 
 The two eights are different. Faith and the three are wholesome. Eye through life are indeterminate. Shared wholesome status does not erase the outflow split of 2.09. The five can be either. The three are without outflows.
 
-Interpretation: four axes, one faculty. The platform copes by not collapsing them. Not the verse English.
+Interpretation: ethical assessment does not follow from tone, outflow,
+or maturation alone. The new question preserves those earlier
+determinations while distinguishing the qualities a Faculty may bear.
+It does not supply an example or mechanism of wholesome distress.
 
 ## 10. OWL++ Seed
 
@@ -138,7 +232,7 @@ vak:WholesomeEight vak:requires vak:Wholesome .
 vak:DistressFaculty vak:excludes vak:Indeterminate .
 vak:NeutralFeeling vak:notIdenticalWith vak:Indeterminate .
 
-organon:FourAxes
-    organon:notCollapsed true ;
-    organon:notTheVerseEnglish true .
+organon:VAK_2_11_Interpretation
+    organon:distinguishes vak:FeelingTone, vak:EthicalQuality,
+        vak:OutflowStatus, vak:MaturationStatus .
 ```

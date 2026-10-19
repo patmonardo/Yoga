@@ -6,9 +6,10 @@
 >
 > middhaṃ sarvāvirodhitvād yatra syād adhikaṃ hi tat // 2.30 //
 
-> In obscured-indeterminate consciousness, eighteen factors are accepted; in
-> the other indeterminate, twelve. Torpor is compatible with all and is
-> additional wherever it occurs.
+> In the Desire Realm, eighteen mental factors are accepted in
+> obscured-indeterminate consciousness, and twelve in the other,
+> unobscured-indeterminate consciousness. Torpor is compatible with all
+> the previously stated cases and adds one wherever it occurs.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -28,11 +29,16 @@
 > ato yatra tat syāt tatrādhikaṃ tad veditavyam /
 > yatra dvāviṃśatis tatra trayoviṃśatir yatra trayoviṃśatis tatra caturviṃśatir ity evam ādi /
 
-The unit is printed 58.18–59.02 in `Vasubandhu/Sources/kosabhasya.txt`. Aynatra is read as anyatra. The transition ya eva kāmadhātau is 2.31. No independent collation is claimed.
+The unit is printed 58.18–59.02 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). Word division
+is editorial; aynatra is read as anyatra. The block's ato yatra
+tat syāt normalizes the running ato tatra tatsyāt under the
+verse's yatra syāt. This is a contextual reading, not independent
+collation. The transition ya eva kāmadhātau begins 2.31.
 
 ## 3. Continuous Conventional Translation
 
-In the obscured, eighteen. In the desire realm, consciousness associated with the view of a self in the personal Bases or with a view grasping an extreme is obscured-indeterminate. Eighteen mental factors: ten universal great-ground factors, six affliction great-ground factors, and vitarka and vicāra. As before, the view is not an addition. In the other indeterminate, twelve are accepted. The indeterminate other than the obscured is the unobscured-indeterminate. Twelve are accepted: ten universal great-ground factors, and vitarka and vicāra. Teachers of the outer regions also accept indeterminate regret. On their account, consciousness associated with it has thirteen.
+In the obscured, eighteen. In the Desire Realm, consciousness associated with the view of a self in the personal Bases or with a view grasping an extreme is obscured-indeterminate. Eighteen mental factors: ten universal great-ground factors, six affliction great-ground factors, and initial and sustained examination. As before, the view is not an addition. In the other indeterminate, twelve are accepted. The indeterminate other than the obscured is the unobscured-indeterminate. Twelve are accepted: ten universal great-ground factors, and initial and sustained examination. Teachers of the outer regions also accept indeterminate regret. On their account, consciousness associated with it has thirteen.
 
 Because torpor is incompatible with none, wherever it occurs it is additional. Torpor is not incompatible with any of the mental factors already stated, since it can be wholesome, unwholesome, or indeterminate. Wherever it occurs, it is additional. Where twenty-two, twenty-three. Where twenty-three, twenty-four. And so forth.
 
@@ -46,8 +52,8 @@ Thirteen by regret is attributed to outer-region teachers. No school named. No r
 
 | Case | Count |
 |---|---:|
-| Obscured-indeterminate | 10 + 6 + vitarka, vicāra = 18 |
-| Unobscured-indeterminate | 10 + vitarka, vicāra = 12 |
+| Obscured-indeterminate | 10 + 6 + examination pair = 18 |
+| Unobscured-indeterminate | 10 + examination pair = 12 |
 | Unobscured with indeterminate regret, outer-region teachers | 13 |
 
 Eighteen keeps the six and omits the two unwholesome factors of 2.29. Afflicted and unwholesome stay operational. Indeterminate need not be unafflicted. The obscured case is the counterexample.
@@ -56,7 +62,10 @@ Twelve omits the six and does not take the wholesome ten. Unobscured and wholeso
 
 ## 6. The Views and the Alternative
 
-The two views are named. Their full definitions are not here. As before carries the special form of prajñā. Present, not a nineteenth. Particular determination is not an additional associate.
+The two views are named. Their full definitions are not here.
+As before carries the special form of discriminative comprehension:
+present, not a nineteenth factor. Particular determination is not
+an additional associate.
 
 The outer-region claim extends regret to the indeterminate. 2.28 distinguished wholesome and unwholesome regret. This position allows a further determination. Thirteen is stated under that position. No argument decides the accounts.
 
@@ -80,12 +89,32 @@ Aynatra is read as anyatra. The conditional is the verse's wherever it may occur
 
 ## 9. Interpretation
 
-Three grounds of a count: ethical class, identity of a factor already counted, and conditional presence. Obscured and unobscured set the principal totals. View is counted through Discrimination. Regret and torpor add under stated conditions.
+Three grounds of a count: ethical class, identity of a factor already
+counted, and conditional presence. Obscured and unobscured set the
+principal totals. View is counted through discriminative comprehension.
+Regret and torpor add under stated conditions.
 
-Thirteen without its derivation does not say whether torpor was added or regret under the regional alternative. Compatibility is not occurrence. The Desire Realm inquiry closes. Higher levels are the next restriction. Objective Logic on the mind is the pass. Not the translation. Not the final pass.
+Thirteen without its derivation does not say whether torpor was added
+or regret under the regional alternative. Compatibility is not occurrence.
+The Desire-Realm inquiry closes; higher levels are the next restriction.
+
+Cognition joins and governs Perception and Conception and guides
+the reading of Dharma Base, remaining distinct from consciousness
+and Mind. Neither a view's specialization nor torpor's addition
+introduces Cognition as another counted mental factor.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. Both counts, the attributed thirteen, and the torpor rule are kept. Applications are marked as applications.
+Reviewed with the kārikā against printed 58.18–59.02. The study
+translation specifies Desire-Realm scope and identifies the other
+indeterminate as unobscured; the anchor matches. The source note
+marks the normalized conditional wording.
 
-2.31 has not been opened.
+Grammar–Logic checks eighteen and twelve, conditional torpor,
+and the distinct thirteen-member inventories from torpor and
+regionally accepted regret. The regional position remains attributed;
+explicit prose examples remain distinct from applications of the
+general rule. Compatibility does not become necessary occurrence.
+
+The following higher-level restrictions were read to establish the
+boundary; paired review of 2.31 remains next.

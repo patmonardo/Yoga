@@ -6,12 +6,11 @@
 >
 > dviliṅga āryo rāgī ekaliṅgadvayāmalavarjitaiḥ // 2.21 //
 
-> One is endowed with the greatest number, nineteen, excluding the
-> stainless; one possessing both sex faculties. A noble person still
-> possessing attachment has nineteen, excluding one sex faculty and two
-> stainless faculties.
-
-The first subject is complete in faculties. The second is a trainee not yet free from attachment. Two cases, not one person.
+> A person possessing both sex Faculties, with Faculties complete,
+> possesses the greatest number, nineteen, excluding the three stainless
+> Faculties. A noble trainee still with attachment likewise possesses
+> nineteen, excluding one sex Faculty and two stainless Faculties:
+> the Faculty of one who has known and either of the other two.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -28,7 +27,14 @@ The first subject is complete in faculties. The second is a trainee not yet free
 > ājñātāvīndriyaṃ dvayoś cānyatarat /
 > ukta indriyāṇāṃ dhātuprabhedaprasaṅgenāgatānāṃ vistareṇa prabhedaḥ /
 
-The unit is printed 52.09–52.18 in `Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial. Ekānnaviṃāśatyā is read as ekānnaviṃśatyā. Anā sravaṇi as anāsravāṇi. Dvayośācānyatarat as dvayoś cānyatarat. The running source prints ekaliṅgadvayamalavarjitaiḥ. The anchor uses the long vowel. The prose secures two uncontaminated faculties. No independent collation is claimed. Co-arising at 52.19 is 2.22.
+The unit is printed 52.09–52.18 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). Word division is
+editorial. Ekānnaviṃāśatyā is read as ekānnaviṃśatyā; anā sravaṇi
+as anāsravāṇi; dvayośācānyatarat as dvayoś cānyatarat.
+The running source prints ekaliṅgadvayamalavarjitaiḥ. The anchor's
+long-vowel reading is editorial, not an independently collated variant.
+The prose explicitly resolves one sex Faculty and two uncontaminated
+Faculties. The next unit begins with the inquiry into co-arising at 52.19.
 
 ## 3. Continuous Conventional Translation
 
@@ -37,6 +43,10 @@ Now, with how many faculties is someone endowed who possesses the greatest numbe
 ## 4. Movement and Voice of the Commentary
 
 After the fewest, the greatest. One nineteen by excluding all three. Who else introduces another by a different three. No opponent. No school.
+
+The study translation supplies the prose's completeness qualification
+and trainee status, then names the two stainless exclusions. These
+clarifications do not join the two subjects.
 
 The last sentence closes the extended differentiation. It does not close the chapter. The next passage asks whether some conditioned dharmas necessarily arise together.
 
@@ -55,6 +65,12 @@ Complete cannot mean all twenty-two. Three are excluded. This maximum contains n
 The conjunction is and, not or. Dve requires two. Either completed knowledge or one of the other two would exclude only one.
 
 The greatest number is not a claim that every trainee has exactly nineteen, whatever else is possessed.
+
+Either of the other two is an alternative exclusion: if the knowledge-
+Faculty is excluded, “I shall know” remains; if “I shall know” is
+excluded, the knowledge-Faculty remains. In both cases the Faculty
+of one who has known is excluded. The choice of sex Faculty is
+independent of these alternatives.
 
 ## 7. Maximum and Realization
 
@@ -76,10 +92,28 @@ Dhātuprabheda is the differentiation of the principles, the discussion from whi
 
 Nineteen is compatible with no realization-faculty, and with a trainee's one. The number is not completed knowing. Exclusion belongs to the case as much as inclusion. Change the excluded members and the case changes.
 
-The floor and the ceiling are typed configurations. Neither is the telos. Prāpti is what would enter the path, and it is not this count. Not the verse English.
+Minimum and maximum are bounded possession configurations, not a
+ranking of realization. The first maximum's completeness is relative
+to its permitted inventory; it does not mean possession of all
+twenty-two. Acquisition is not supplied here as an explanation of
+Path entry.
+
+Cognition joins and governs Perception and Conception and guides
+the reading of Dharma Base, remaining distinct from Mind and
+consciousness. Mind belongs to both inventories; their equal counts
+do not make their realization status or cognitive operation identical.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. Both nineteens and the close are kept.
+Reviewed with the kārikā against printed 52.09–52.18. The study
+translation now makes complete Faculties, trainee status, and the
+two stainless exclusions explicit. Its anchor matches exactly.
 
-2.22 has not been opened.
+Executable Grammar–Logic distinguishes the subjects, the carried
+nineteen, and the exclusion patterns. Inventory checks cover the
+twenty-two-Faculty census and both trainee alternatives, without
+claiming a finite model proves the global ceiling. The unsupported
+Path-entry interpretation is removed.
+
+The opening question of the next co-arising unit was read to locate
+this boundary; paired review of 2.22 remains next.

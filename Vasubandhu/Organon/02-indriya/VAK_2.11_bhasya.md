@@ -6,9 +6,10 @@
 >
 > daurmanasyaṃ mano 'nyā ca vittis tredhā anyad ekadhā // 2.11 //
 
-> Mind, the other feelings, and those beginning with faith: the eight are
-> wholesome. Distress is twofold; mind and the other feelings are threefold;
-> the remainder is onefold.
+> [The ten are] Mind, the other feelings, and those beginning with faith.
+> The eight are exclusively wholesome. Distress is wholesome or
+> unwholesome; Mind and the other feelings can be wholesome, unwholesome,
+> or indeterminate. The remainder is exclusively indeterminate.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -21,7 +22,13 @@
 > kiñcid anyat / jīvitāṣṭamaṃ cakṣurādi /
 > etad avyākṛtam eva //
 
-The unit is printed 46.07–16 in `Vasubandhu/Sources/kosabhasya.txt`. Word division is editorial. No substantive repair. Kiñcid anyat asks what the remainder is. The realm question at 46.17 opens 2.12. The material at 46.01–06 belongs to 2.10.
+The ethical unit is printed 46.07–16 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). Word division is
+editorial. No substantive repair. Kiñcid anyat asks what the remainder
+is. The realm question at 46.17 opens 2.12. Material at 46.01–06 belongs
+to 2.10: the opening words of this numbered kārikā complete that
+preceding explanation. They remain in the verse and its translation,
+but are not repeated as though they began the ethical Bhāṣya.
 
 ## 3. Continuous Conventional Translation
 
@@ -30,6 +37,11 @@ How many are wholesome, how many unwholesome, and how many indeterminate? First,
 ## 4. Movement and Voice of the Commentary
 
 A new question, then the members the verse compresses. No objection. No quotation. No school. The work is distributive.
+
+The verse's opening compound completes the previous ten: Mind, four
+feelings other than distress, and five beginning with faith. The new
+question begins at the wholesome eight. A colon between the opening
+compound and the eight would falsely identify two different groups.
 
 Twofold has just been used for maturation. Here it is wholesome or unwholesome. The count-word has no content apart from the question.
 
@@ -72,10 +84,27 @@ Anyā vittiḥ is read as the other feelings, the four. Jīvitāṣṭamam is th
 
 Ethical quality is a further question about faculties already established. A function can admit three qualities, or two, or one. Importance does not supply the judgment.
 
-The platform copes by keeping the axes. Maturation is not ethical quality. Outflow is not wholesome. Neutral feeling is not indeterminate. The principles locate the faculty. The rules say which quality this instance may bear. The received fold is not the page. Not the verse English.
+The Organon determination keeps the questions independent. Being
+maturation is not an ethical quality; without-outflows status is not
+another word for wholesome; neutral feeling is not ethical indeterminacy.
+The source specifies permitted qualities, not a mechanism assigning a
+quality to every concrete instance.
+
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base while remaining distinct from Mind and
+consciousness. Mind's threefold ethical range does not make every
+cognitive power identical to that Faculty or exhaust its systematic role.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. Wholesome distress, threefold neutral feeling, and the outflow distinction stay explicit.
+Reviewed with the kārikā against printed 46.01–16, distinguishing the
+carried maturation enumeration from the ethical unit at 46.07–16.
+The misleading colon is removed; the study translation resolves the
+ethical ranges and the anchor matches exactly.
+
+Wholesome distress, threefold neutral feeling, and the two distinct
+eights remain explicit. Grammar–Logic preserves the carry boundary
+and tests the 8 + 1 + 5 + 8 partition without inventing examples of
+wholesome distress or treating permitted qualities as co-present.
 
 2.12 has not been opened.

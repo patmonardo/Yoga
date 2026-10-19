@@ -30,17 +30,55 @@ kliṣṭe sadaivākuśale tv āhrīkyam anapatrapā // 2.26 //
 | anapatrapā | nom. sg. f. | lack of moral caution |
 
 Afflicted and unwholesome are not the same range.
-## 4. Grammar
+
+The final locative starts a second clause; consciousness is supplied
+in both by the prose. Sandhi is opened, including sadā eva and tu.
 
 ```text
-% start S
-S[GROUND=afflicted] -> Six[PRESENT=always, ONLY=true]
-Six -> Delusion | Heedlessness | Laziness | LackOfFaith | Sluggishness | Agitation
-S[GROUND=unwholesome] -> Six + Shamelessness + LackOfCaution
+# tokens: mohaḥ pramādaḥ kauśīdyam āśraddhyam styānam auddhatyam kliṣṭe sadā eva akuśale tu āhrīkyam anapatrapā
 ```
 
-`GROUND=afflicted` is exclusive.  
-The ten-recitation includes afflicted modes of the universal ten; they are not a second class.
+## 4. Grammar
+
+The six nominatives are coordinated, not alternatives. Always
+scopes the afflicted clause and is resolved as invariably in the
+prose for the unwholesome pair. Tu distinguishes the ranges; it
+does not replace the six with the two. Only in afflicted consciousness
+is an explicit prose conclusion, not the meaning of six.
+
+```nltk-fcfg
+% start S
+# tokens: mohaḥ pramādaḥ kauśīdyam āśraddhyam styānam auddhatyam kliṣṭe sadā eva akuśale tu āhrīkyam anapatrapā
+S[SEM=<(?six & ?two)>] -> AFFLICTEDCLAUSE[SEM=?six] UNWHOLESOMECLAUSE[SEM=?two]
+AFFLICTEDCLAUSE[SEM=<all c.(AfflictedMoment(c) -> ?list(c))>] -> SIX[CNT=6,SEM=?list] AFFLICTED[CASE=loc] ALWAYS[SCOPE=every] EMPHASIS
+SIX[CNT=6,SEM=<\c.(Present(c,?a) & Present(c,?b) & Present(c,?d) & Present(c,?e) & Present(c,?f) & Present(c,?g))>] -> DELUSION[SEM=?a] HEEDLESS[SEM=?b] LAZY[SEM=?d] FAITHLESS[SEM=?e] SLUGGISH[SEM=?f] AGITATED[SEM=?g]
+UNWHOLESOMECLAUSE[SEM=<all c.(UnwholesomeMoment(c) -> (Present(c,?a) & Present(c,?b)))>] -> UNWHOLESOME[CASE=loc] BUT[READING=scope_contrast] SHAMELESS[SEM=?a] UNCAUTIOUS[SEM=?b]
+DELUSION[SEM=<delusion>] -> 'mohaḥ'
+HEEDLESS[SEM=<heedlessness>] -> 'pramādaḥ'
+LAZY[SEM=<laziness>] -> 'kauśīdyam'
+FAITHLESS[SEM=<faithlessness>] -> 'āśraddhyam'
+SLUGGISH[SEM=<sluggishness>] -> 'styānam'
+AGITATED[SEM=<agitation>] -> 'auddhatyam'
+AFFLICTED[CASE=loc] -> 'kliṣṭe'
+ALWAYS[SCOPE=every] -> 'sadā'
+EMPHASIS -> 'eva'
+UNWHOLESOME[CASE=loc] -> 'akuśale'
+BUT[READING=scope_contrast] -> 'tu'
+SHAMELESS[SEM=<shamelessness>] -> 'āhrīkyam'
+UNCAUTIOUS[SEM=<lack_caution>] -> 'anapatrapā'
+```
+
+```nltk-dep
+'kliṣṭe' -> 'mohaḥ' | 'pramādaḥ' | 'kauśīdyam' | 'āśraddhyam' | 'styānam' | 'auddhatyam' | 'sadā'
+'sadā' -> 'eva'
+'akuśale' -> 'tu' | 'āhrīkyam' | 'anapatrapā'
+```
+
+| Span | Constituent | Result |
+|---|---|---|
+| [0, 9) | `AFFLICTEDCLAUSE` | all six in every afflicted moment |
+| [9, 13) | `UNWHOLESOMECLAUSE` | pair in every unwholesome moment |
+| [0, 13) | `S` | distinct scopes, not exclusive totals |
 
 ## 5. Translation
 
@@ -53,10 +91,14 @@ The ten-recitation includes afflicted modes of the universal ten; they are not a
 
 > Delusion, heedlessness, laziness, lack of faith, sluggishness, and
 > agitation are always present in afflicted consciousness; shamelessness and
-> lack of moral caution are present in unwholesome consciousness.
+> lack of moral caution are always present in unwholesome consciousness.
 ## 6. Philosophical Translation
 
-> Afflicted ground is exclusive. The six are not the ten. Afflicted modes of the universal factors remain universal. Predominance names; it does not split the pair.
+> The six occur always and only in afflicted consciousness; this
+> does not make them its only factors. The quoted ten count five
+> separate affliction factors and five afflicted modes of universal
+> factors. Sluggishness completes the six. Predominance names a
+> disposition without separating sluggishness from agitation.
 
 ## 7. Technical Vocabulary
 
@@ -75,28 +117,92 @@ The ten-recitation includes afflicted modes of the universal ten; they are not a
 
 ## 8. Logical Determination
 
-```python
-from nltk.sem.logic import LogicParser
-lp = LogicParser()
+**Kārikā, derived.** The conjunction records the six and the pair
+under their respective scopes. Prose checks add the six's restriction
+to afflicted consciousness and the interpretation of the quoted ten.
+Afflicted includes an illustrative non-unwholesome case; unwholesome
+is not substituted for the wider range.
 
-afflicted = lp.parse(r'all c.(Afflicted(c) -> (Delusion(c) & Heedlessness(c) & Laziness(c) & LackOfFaith(c) & Sluggishness(c) & Agitation(c)))')
-unwholesome = lp.parse(r'all c.(Unwholesome(c) -> (Afflicted(c) & Shamelessness(c) & LackOfCaution(c)))')
+```nltk-sem
+presence : \f.\c.Present(c,f)
+afflicted_scope : \P.all c.(AfflictedMoment(c) -> P(c))
+unwholesome_scope : \P.all c.(UnwholesomeMoment(c) -> P(c))
 ```
 
-The six are exclusive to afflicted consciousness.  
-The unwholesome adds the pair.  
-Afflicted modes of universal factors remain universal.
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(all c.(AfflictedMoment(c) -> (Present(c,delusion) & Present(c,heedlessness) & Present(c,laziness) & Present(c,faithlessness) & Present(c,sluggishness) & Present(c,agitation))) & all c.(UnwholesomeMoment(c) -> (Present(c,shamelessness) & Present(c,lack_caution))))
+
+# THEORY prose_scope_and_recitation
+# EXPECT prose_scope_and_recitation T
+all c.(UnwholesomeMoment(c) -> AfflictedMoment(c))
+all c f.((Present(c,f) & AfflictionKind(f)) -> AfflictedMoment(c))
+all x.(RecitedTen(x) <-> (SeparateFive(x) | AfflictedMode(x)))
+all x.(AfflictionKind(x) <-> (SeparateFive(x) | x = sluggishness))
+all c.(AfflictedMoment(c) -> (Present(c,sluggishness) & Present(c,agitation)))
+
+# THEORY rejected_afflicted_equals_unwholesome
+# EXPECT rejected_afflicted_equals_unwholesome F
+all c.(AfflictedMoment(c) <-> UnwholesomeMoment(c))
+
+# THEORY rejected_six_are_only_present_factors
+# EXPECT rejected_six_are_only_present_factors F
+all c f.((AfflictedMoment(c) & Present(c,f)) -> AfflictionKind(f))
+
+# THEORY rejected_recited_ten_equal_six
+# EXPECT rejected_recited_ten_equal_six F
+all x.(RecitedTen(x) <-> AfflictionKind(x))
+
+# THEORY rejected_predominance_separates_pair
+# EXPECT rejected_predominance_separates_pair F
+exists c.(AfflictedMoment(c) & Present(c,sluggishness) & -Present(c,agitation))
+```
+
+```nltk-valuation
+delusion => delusion_kind
+heedlessness => heedlessness_kind
+laziness => laziness_kind
+faithlessness => faithlessness_kind
+sluggishness => sluggishness_kind
+agitation => agitation_kind
+shamelessness => shamelessness_kind
+lack_caution => lack_caution_kind
+AfflictedMoment => {unwholesome_moment,obscured_moment}
+UnwholesomeMoment => {unwholesome_moment}
+AfflictionKind => {delusion_kind,heedlessness_kind,laziness_kind,faithlessness_kind,sluggishness_kind,agitation_kind}
+UnwholesomeKind => {shamelessness_kind,lack_caution_kind}
+SeparateFive => {faithlessness_kind,laziness_kind,delusion_kind,agitation_kind,heedlessness_kind}
+AfflictedMode => {lost_mindfulness,distraction,unclear_comprehension,improper_attention,false_resolution}
+RecitedTen => {faithlessness_kind,laziness_kind,lost_mindfulness,distraction,delusion_kind,unclear_comprehension,improper_attention,false_resolution,agitation_kind,heedlessness_kind}
+ModeOf => {(lost_mindfulness,mindfulness_kind),(distraction,concentration_kind),(unclear_comprehension,comprehension_kind),(improper_attention,attention_kind),(false_resolution,resolution_kind)}
+Present => {(unwholesome_moment,delusion_kind),(unwholesome_moment,heedlessness_kind),(unwholesome_moment,laziness_kind),(unwholesome_moment,faithlessness_kind),(unwholesome_moment,sluggishness_kind),(unwholesome_moment,agitation_kind),(unwholesome_moment,shamelessness_kind),(unwholesome_moment,lack_caution_kind),(unwholesome_moment,feeling_kind),(obscured_moment,delusion_kind),(obscured_moment,heedlessness_kind),(obscured_moment,laziness_kind),(obscured_moment,faithlessness_kind),(obscured_moment,sluggishness_kind),(obscured_moment,agitation_kind),(obscured_moment,feeling_kind),(clear_moment,feeling_kind)}
+```
+
+The presence relation is a partial inventory: it omits the other
+universal factors rather than asserting their absence. ModeOf records
+the main explanation of the ten-recitation; only the first two
+identifications are explicitly glossed before “and so on.” Those
+who distinguish distraction from wrong concentration require a
+different analysis, not silently incorporated into this valuation.
+The fourfold comparison is about the quoted classifications, not
+whether feeling can occur in an afflicted episode.
+
 ## 9. Interpretive Note
 
 **Translation note.** The commentary identifies delusion with ignorance; heedlessness with failure to cultivate wholesome dharmas; laziness with lack of energetic arousal; lack of faith with lack of clarity; sluggishness with unworkability of body and consciousness; and agitation with non-pacification of consciousness. It discusses whether the first group is only afflicted and records a damaged retort, a recitation example, and a bodily-sluggishness analogy.
 
-Five of the ten are kept as the separately counted afflicted factors, with sluggishness added to make six. The other five are modes. And so on completes them: lack of clear comprehension is Discrimination afflicted, improper attention is attention afflicted, false resolution is resolution afflicted. Not extra definitions spelled out here.
+Five of the ten are kept as the separately counted afflicted factors, with sluggishness added to make six. The other five are modes. And so on completes them: lack of clear comprehension is discriminative comprehension afflicted, improper attention is attention afflicted, false resolution is resolution afflicted. Not extra definitions spelled out here.
 
 The first alternative does not say feeling cannot occur in afflicted consciousness. It is classification in the comparison. Sluggishness is not silently added to the second row. Its omission is the next question.
 
 The retort is damaged. Recitation against intention is the contrast. Not a restored first compound. Bodily sluggishness is the feeling analogy, not expanded, and not sleep.
 
-Interpretation: a label is not the state. Not the verse English.
+In the Organon reading, Cognition governs Perception and Conception
+without collapsing into consciousness or Mind. An afflicted mode
+of discriminative comprehension does not become a new governing
+Cognition. Class membership, occurrence, and predominance must
+retain their different logical roles.
 
 ## 10. OWL++ Seed
 
@@ -114,6 +220,7 @@ vak:VAK_2_26
 vak:AfflictedSix vak:onlyInAfflictedConsciousness true .
 vak:UnwholesomeTwo vak:inEveryUnwholesomeConsciousness true .
 
-organon:ModeNotNewFactor
-    organon:notTheVerseEnglish true .
+organon:VAK_2_26_Interpretation
+    organon:distinguishes vak:ClassMembership, vak:AfflictedMode,
+        vak:PredominantDisposition .
 ```

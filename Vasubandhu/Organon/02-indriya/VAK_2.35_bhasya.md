@@ -6,8 +6,9 @@
 >
 > āsaṃjñikaṃ samāpattī jīvitaṃ lakṣaṇāni ca // 2.35 //
 
-> The dissociated formations are acquisition and non-acquisition,
-> commonality, āsaṃjñika, the two attainments, life, and the marks.
+> The formations dissociated from consciousness are acquisition and
+> non-acquisition, commonality, āsaṃjñika, the two attainments, life,
+> and the marks.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -16,11 +17,18 @@
 > nāmakāyādayaś ceti /
 > ime saṃskārā na cittena asaṃprayuktā na ca rūpasvabhāvā iti cittaviprayuktā ucyante /
 
-The unit is printed 62.11–62.14 in `Vasubandhu/Sources/kosabhasya.txt`. Na cittena asaṃprayuktā is a double negation against the class-name. Not associated is the contextual reading. Not a collation. Acquisition at 62.15 is 2.36.
+The unit is printed 62.11–62.14 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). Word division
+is editorial. The opening nāmakāyādayaś ceti of 2.36 completes
+this enumeration. The running na cittena asaṃprayuktā is retained:
+its double negation conflicts with the class-name. Not associated
+is the contextual English construal, not a literal resolution of
+the double negative or an independently collated repair.
+The acquisition inquiry begins at 62.15.
 
 ## 3. Continuous Conventional Translation
 
-The dissociated formations are acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, the marks, and the groups of names and so forth. These formations are called dissociated from consciousness because they are not associated with consciousness and do not have the nature of form.
+The dissociated formations are acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, the marks, and the groups of names and so forth. These formations are called dissociated from consciousness because they are not associated with consciousness [a contextual reading of the defective double negative] and do not have the nature of Form.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -40,7 +48,7 @@ Not form. Still formations. Neither qualification makes them unconditioned.
 
 ## 7. The Introduction
 
-A class, and its contrast with form and with associated mental dharmas. Not an argument that each member is a distinct real. That question is the discussions that follow, and first the inquiry into acquisition.
+A class, and its contrast with Form and with associated mental dharmas. Not an argument that each member is a distinct real. That question is the discussions that follow, and first the inquiry into acquisition.
 
 ## 8. Boundary
 
@@ -48,12 +56,29 @@ The double negation stays in the Sanskrit. The English follows the class-name. T
 
 ## 9. Interpretation
 
-Outside the five equalities is not outside every relation to the event or the continuum. The list names the records that are not classmates. It does not grade them. Acquisition is the first record. Its definition is the next verse.
+Not classified as associated does not mean outside every relation
+to an episode or a continuum. The list introduces entries for
+examination; its names alone do not establish their distinct reality.
+Acquisition is the first inquiry, not an already explained mechanism.
 
-Objective Logic on the mind is the pass. Not the translation. Not the final pass.
+Cognition joins and governs Perception and Conception and guides
+the reading of Dharma Base, remaining distinct from consciousness
+and Mind. The move to formations dissociated from consciousness
+must not erase these distinctions or turn the class into an
+unconditioned realm outside all relations.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The list and the class-name are kept. Acquisition is not defined here.
+Reviewed with the kārikā against printed 62.11–62.14. The matching
+anchor clarifies dissociation from consciousness. The continuation
+from the next verse is identified separately. The conflicting double
+negation remains in the Sanskrit, and the English construal is
+explicitly provisional rather than presented as literal repair.
 
-2.36 has not been opened.
+Grammar–Logic classifies the named entries without importing later
+definitions, flattening duals or plural headings, or asserting an
+exhaustive inventory of distinct reals. Dissociated does not mean
+unconditioned, Form, or causally unrelated.
+
+The enumeration's continuation and opening acquisition inquiry were
+read for the boundary; paired review of 2.36 remains next.

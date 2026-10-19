@@ -6,9 +6,10 @@
 >
 > rūpīṇi jīvitaṃ duḥkhe sāsravāṇi dvidhā nava // 2.09 //
 
-> On the paths of seeing, cultivation, and no-more-training, the nine are
-> threefold; the triad is stainless. Those possessing Form, life, and the
-> two painful Faculties have outflows; nine are twofold.
+> On the Paths of seeing, cultivation, and no-more-training, the nine
+> Faculties are designated as the three; the triad is stainless, without
+> outflows. The Form Faculties, Life-Faculty, and the two painful Faculties
+> are exclusively with outflows; nine admit either status.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -57,7 +58,9 @@
 > nādhyajñāsiṣaṃ na tāvad aham asmāt sadevakāl lokād" iti vistaraḥ /
 > na cānāsravāṇāṃ dharmāṇām eṣa parīkṣāprakāraḥ //
 
-The unit runs from printed 42.07 through 43.07 in `Vasubandhu/Sources/kosabhasya.txt`. Maturation at 43.08 opens 2.10. The debate after the verse is this unit.
+The unit runs from printed 42.07 through 43.07 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). Maturation at 43.08
+opens 2.10. The debate after the verse belongs to this unit.
 
 Word division is editorial. Repairs follow the research bhāṣya: sraddhā → śraddhā, ājñātm → ājñātam, enriyam → indriyam, svabhāvanirdeśāṃ → svabhāvanirdeśaṃ, dukhaḥdaurmanasya → duḥkhadaurmanasya, stri → strī, srvaṃ → sarvaṃ, adhikāṛtya → adhikṛtya, yāvacchāham → yāvac cāham. The verse's defective 'saikṣa is read as aśaikṣa from the prose. Locator 43.02–032.04 is a locator defect. Ājñātāvaḥ and kṣayānutpādijñāna are retained. No independent collation is claimed.
 
@@ -81,7 +84,9 @@ Some restrict the five. The reply offers two readings of the citation, then two 
 
 ## 5. Nine Types and Three Names
 
-The nine are mind, pleasure, gladness, neutral feeling, faith, vigor, mindfulness, concentration, and Discrimination. The three names classify them on seeing, cultivation, and no-more-training.
+The nine are Mind, pleasure, gladness, neutral feeling, faith, vigor,
+mindfulness, concentration, and discriminative comprehension. The three
+names classify them on seeing, cultivation, and no-more-training.
 
 Not three unrelated constituents. Not nine co-present in every path-event. The feeling-faculties have just been distributed. Nine types according to path is safer than nine factors in every instance.
 
@@ -119,10 +124,30 @@ The last extract ends with iti vistaraḥ. The ellipsis is marked. No awakening 
 
 A type receives a path-name through the task. The same type can have either outflow-status. The name does not settle the instance. The three are a unity through the path. The unity does not erase the nine, and it is not nine factors in every moment.
 
-The net coordinates nine jewels into three names. The configuration is stainless. The jewels remain twofold. Faith and the rest are not stainless by being named. Pure is the Kant cut, always first. It is not amala. The principles remain deposited. Not the verse English.
+The Organon determination distinguishes type-level capacity from
+Path-qualified operation. The nine types admit either outflow-status;
+their realization designations apply to outflow-free Path operation.
+Neither a name alone nor bare membership in the faith-group settles an
+instance's status. Stainless translates the source's without-outflows
+determination, not a different axis introduced by the interpretation.
+
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base without collapsing into Mind or consciousness.
+The present nine include Mind and discriminative comprehension as
+distinct Faculties; this does not make the nine interchangeable cognitive
+powers or add Cognition as a tenth member.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The debate is kept. The two replies stay alternative. The abbreviated quotation stays abbreviated.
+Reviewed with the kārikā against printed 42.07–43.07. “Designated as
+the three” replaces ambiguous “threefold,” and the outflow classification
+states exclusivity and either-status explicitly. The anchor matches
+the study translation.
+
+Grammar preserves the painful dual, group counts, and singular
+stainless triad. Logic separates Path-designations from type-status,
+with rejected swapped Path-names, twofold triad, and exclusively
+outflow-free faith. The debate, alternative replies, and abbreviated
+quotation are preserved. No independent source collation is claimed.
 
 2.10 has not been opened.

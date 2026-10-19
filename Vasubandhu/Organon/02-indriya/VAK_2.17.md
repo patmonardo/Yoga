@@ -18,24 +18,64 @@ upekṣājīvitamanoyukto 'vaśyaṃ trayānvitaḥ // 2.17 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| ekādaśabhiḥ | instrumental | through eleven |
-| arhattvam uktam | nominative | arhatship is said |
-| tu ekasya saṃbhavāt | ablative | because possible for one person |
-| upekṣā-jīvita-manas-yuktaḥ | nominative | endowed with neutral feeling, life, or mind |
+| ekādaśabhiḥ | instrumental plural numeral | through eleven [Faculties] |
+| arhattvam | nominative singular neuter noun | arhatship |
+| uktam | nominative singular neuter past passive participle | is said; agrees with arhatship |
+| tu | contrastive particle | however |
+| ekasya | genitive singular numeral, substantival | of one [person], not one moment |
+| saṃbhavāt | ablative singular masculine noun | because of the possibility |
+| upekṣā-jīvita-mano-yuktaḥ | nominative singular masculine compound | one endowed with any one of neutral feeling, life, or Mind, as resolved by the Bhāṣya |
 | avaśyam | indeclinable | necessarily |
-| traya-anvitaḥ | nominative | accompanied by the three |
+| traya-anvitaḥ | nominative singular masculine compound | endowed with those three; not exactly three Faculties in total |
 
 Any one is the commentary's anyatamena. The kārikā compresses it.
 
-## 4. Grammar
+**Grammar tokens.** External sandhi is opened; compounds remain intact.
+The first clause completes the preceding attainment inquiry. The second
+begins necessary possession, with the Bhāṣya resolving the compound as
+any one of the three.
 
 ```text
-% start S
-S[POSSESS=three] -> Neutral | Life | Mind
-S[POSSESS=?p] -> Other[EXCLUDED=false]
+# tokens: ekādaśabhiḥ arhattvam uktam tu ekasya saṃbhavāt upekṣā-jīvita-mano-yuktaḥ avaśyam traya-anvitaḥ
 ```
 
-The triad forces co-possession. Other faculties carry exclusion features.
+## 4. Grammar
+
+The instrumental eleven belongs to the report of attainment. The
+genitive one person depends on possibility, and the ablative gives
+the explanation. It does not say all eleven are possessed at once.
+In the second clause, the masculine subject and predicate describe
+the person. Necessarily governs the possession implication; it does
+not turn possession into simultaneous occurrence of all three.
+
+```nltk-fcfg
+% start S
+# tokens: ekādaśabhiḥ arhattvam uktam tu ekasya saṃbhavāt upekṣā-jīvita-mano-yuktaḥ avaśyam traya-anvitaḥ
+S[SEM=<(?report & ?possession)>] -> REPORT[SEM=?report] POSSESSION[SEM=?possession]
+REPORT[SEM=<(ReportedAttainmentCount(?fruit,?count) & ?reason(?person))>] -> ELEVEN[CASE=ins,CNT=11,SEM=?count] FRUIT[CASE=nom,GEN=n,SEM=?fruit] SAID[CASE=nom,GEN=n] BUT ONE[CASE=gen,CNT=1,REF=person,SEM=?person] POSSIBILITY[CASE=abl,SEM=?reason]
+POSSESSION[SUPPLIED=prose,SEM=<all x.(?any(x) -> ?all(x))>] -> ANYONE[CASE=nom,NUM=sg,GEN=m,READING=any_one,SEM=?any] NECESSARILY ALLTHREE[CASE=nom,NUM=sg,GEN=m,CNT=3,SEM=?all]
+ELEVEN[CASE=ins,CNT=11,SEM=<eleven>] -> 'ekādaśabhiḥ'
+FRUIT[CASE=nom,GEN=n,SEM=<arhatship>] -> 'arhattvam'
+SAID[CASE=nom,GEN=n] -> 'uktam'
+BUT -> 'tu'
+ONE[CASE=gen,CNT=1,REF=person,SEM=<one_person>] -> 'ekasya'
+POSSIBILITY[CASE=abl,SEM=<\p.PossibleAcrossAttainments(p)>] -> 'saṃbhavāt'
+ANYONE[CASE=nom,NUM=sg,GEN=m,READING=any_one,SEM=<\p.(Possesses(p,neutral_f) | Possesses(p,life_f) | Possesses(p,mind_f))>] -> 'upekṣā-jīvita-mano-yuktaḥ'
+NECESSARILY -> 'avaśyam'
+ALLTHREE[CASE=nom,NUM=sg,GEN=m,CNT=3,SEM=<\p.(Possesses(p,neutral_f) & Possesses(p,life_f) & Possesses(p,mind_f))>] -> 'traya-anvitaḥ'
+```
+
+```nltk-dep
+'uktam' -> 'ekādaśabhiḥ' | 'arhattvam' | 'tu' | 'saṃbhavāt'
+'saṃbhavāt' -> 'ekasya'
+'traya-anvitaḥ' -> 'upekṣā-jīvita-mano-yuktaḥ' | 'avaśyam'
+```
+
+| Span | Constituent | Result |
+|---|---|---|
+| [0, 6) | `REPORT` | eleven reported across one person's attainments |
+| [6, 9) | `POSSESSION` | any one of the three entails all three |
+| [0, 9) | `S` | attainment report followed by possession implication |
 
 ## 5. Translation
 
@@ -47,13 +87,16 @@ The triad forces co-possession. Other faculties carry exclusion features.
 
 ### Bhāṣya-informed study translation
 
-> Arhatship is said to be attained through eleven, however, because one
-> person may possess them. One joined with neutral feeling, life, or mind is
-> necessarily accompanied by the triad.
+> Arhatship is said to be attained through eleven Faculties, however,
+> because that is possible across one person's repeated attainments.
+> One who possesses any one of neutral feeling, life, or Mind necessarily
+> possesses all three.
 
 ## 6. Philosophical Translation
 
-> The triad of neutral feeling, life, and mind is inseparable. Every other faculty is conditional.
+> Possession of any one of neutral feeling, life, or Mind entails the
+> other two. This is neither exactly three Faculties nor three factors
+> continuously occurring together.
 
 ## 7. Technical Vocabulary
 
@@ -62,38 +105,86 @@ The triad forces co-possession. Other faculties carry exclusion features.
 | samanvāgata | possessing | not attained, not occurring |
 | avaśyam | necessarily | none without the others |
 | aniyama | no fixed rule | the remainder |
-| apratilabdha | not acquired | |
-| vihīna | lost | |
+| apratilabdha | not acquired | distinct from a Faculty acquired and subsequently lost |
+| vihīna | lost | not merely possessed but currently inactive |
 | samucchinna-kuśala-mūla | severed wholesome roots | lacks the five |
 
 ## 8. Logical Determination
 
-```text
-possess any one of {neutral feeling, life, mind}
-    → possess all three
+**Kārikā, derived.** The SEM joins the carried eleven-person report to
+the reciprocal possession implication. Necessity is represented as a
+universal rule in this finite model, not as modal logic. Neither
+simultaneous attainment nor continuous occurrence is asserted.
 
-remainder
-    → may or may not
-
-formless
-    → no eye, ear, nose, tongue, body
-form or formless
-    → no female, no male, no pain
-ordinary person, fourth dhyāna or formless
-    → no pleasure
-ordinary person, third or fourth, or formless
-    → no gladness
-free from desire for the desire realm
-    → no distress
-severed roots
-    → no five
-
-possession
-    ≠ occurring now
-not acquired
-    ≠ lost
-    ≠ possessed but not operating
+```nltk-sem
+any_of_three : \p.(Possesses(p,neutral_f) | Possesses(p,life_f) | Possesses(p,mind_f))
+all_three : \p.(Possesses(p,neutral_f) & Possesses(p,life_f) & Possesses(p,mind_f))
+person_history : PossibleAcrossAttainments(one_person)
 ```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(ReportedAttainmentCount(arhatship,eleven) & PossibleAcrossAttainments(one_person) & all x.((Possesses(x,neutral_f) | Possesses(x,life_f) | Possesses(x,mind_f)) -> (Possesses(x,neutral_f) & Possesses(x,life_f) & Possesses(x,mind_f))))
+
+# THEORY prose_exclusions
+# EXPECT prose_exclusions T
+all x.(FormlessBorn(x) -> all y.(SensoryFive(y) -> -Possesses(x,y)))
+all x.(HigherRealmBorn(x) -> all y.((SexFaculty(y) | y = pain_f) -> -Possesses(x,y)))
+all x.(OrdinaryFourthOrFormless(x) -> -Possesses(x,pleasure_f))
+all x.(OrdinaryThirdFourthOrFormless(x) -> -Possesses(x,gladness_f))
+all x.(DesireDispassionate(x) -> -Possesses(x,distress_f))
+all x.(SeveredRoots(x) -> all y.(FaithFive(y) -> -Possesses(x,y)))
+
+# THEORY rejected_exactly_three
+# EXPECT rejected_exactly_three F
+all x.all y.(Possesses(x,y) -> (y = neutral_f | y = life_f | y = mind_f))
+
+# THEORY rejected_possession_means_current_occurrence
+# EXPECT rejected_possession_means_current_occurrence F
+all x.all y.(Possesses(x,y) -> OccurringNow(x,y))
+
+# THEORY rejected_triad_entails_eye
+# EXPECT rejected_triad_entails_eye F
+all x.(Possesses(x,mind_f) -> Possesses(x,eye_f))
+```
+
+```nltk-valuation
+arhatship => arhatship_fruit
+eleven => count_eleven
+one_person => attainment_person
+neutral_f => neutral
+life_f => life
+mind_f => mind
+pain_f => pain
+pleasure_f => pleasure
+gladness_f => gladness
+distress_f => distress
+eye_f => eye
+ReportedAttainmentCount => {(arhatship_fruit,count_eleven)}
+PossibleAcrossAttainments => {attainment_person}
+Possesses => {(formless_person,neutral),(formless_person,life),(formless_person,mind),(formless_person,faith),(third_person,neutral),(third_person,life),(third_person,mind),(third_person,pleasure),(third_person,eye),(fourth_person,neutral),(fourth_person,life),(fourth_person,mind),(rootless_person,neutral),(rootless_person,life),(rootless_person,mind),(rootless_person,eye),(desire_person,neutral),(desire_person,life),(desire_person,mind),(desire_person,distress)}
+OccurringNow => {(formless_person,mind),(third_person,mind),(fourth_person,mind),(rootless_person,mind),(desire_person,mind)}
+SensoryFive => {eye,ear,nose,tongue,body}
+SexFaculty => {female,male}
+FaithFive => {faith,vigor,mindfulness,concentration,comprehension}
+FormlessBorn => {formless_person}
+HigherRealmBorn => {formless_person,third_person,fourth_person}
+OrdinaryFourthOrFormless => {formless_person,fourth_person}
+OrdinaryThirdFourthOrFormless => {formless_person,third_person,fourth_person}
+DesireDispassionate => {formless_person,third_person,fourth_person}
+SeveredRoots => {rootless_person}
+```
+
+The representative cases test that the triad can accompany extra
+Faculties and that eye-possession is not entailed. `OccurringNow` is
+an illustrative countermodel to identifying possession with occurrence,
+not an exhaustive psychology of these persons. The exclusion formulas
+preserve ordinary-person and dispassion qualifications. Damaged
+realization-Faculty compounds remain provisional in the paired Bhāṣya;
+they are not hardened into formal axioms. No fixed rule for the
+remainder means no additional possession follows from this triad
+alone, not that other rules are absent.
 
 ## 9. Interpretive Note
 
@@ -105,7 +196,8 @@ Possession is excluded by birth, by non-acquisition or loss, by
 dispassion, by severed roots, and by path-status. Where not excluded,
 possession stands.
 
-The eleven stands in 2.16. This verse changes the predicate.
+The eleven is numbered in this verse and studied with 2.16's continuous
+attainment discussion. The second half changes the predicate.
 
 The triad is reciprocal. Necessarily, and none without the others. The count is accompaniment, not exactly three and no more.
 
@@ -131,7 +223,10 @@ vak:VAK_2_17
 vak:NeutralFeeling vak:entailsPossession vak:Life, vak:Mind .
 vak:Remainder vak:fixedRule false .
 
-organon:NotNonReflective
-    organon:notThisVerse true ;
-    organon:notTheVerseEnglish true .
+vak:Life vak:entailsPossession vak:NeutralFeeling, vak:Mind .
+vak:Mind vak:entailsPossession vak:NeutralFeeling, vak:Life .
+
+organon:VAK_2_17_Interpretation
+    organon:distinguishes vak:Possession, vak:CurrentOccurrence,
+        vak:RepeatedAttainment .
 ```

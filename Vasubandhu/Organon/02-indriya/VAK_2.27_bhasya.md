@@ -20,13 +20,17 @@
 > uktā ime pañcaprakārāś caittāḥ /
 > anye 'pi cāniyatāḥ santi vitarkavicārakaukṛtyamiddhādayaḥ /
 
-The unit is printed 57.04–57.09 in `Vasubandhu/Sources/kosabhasya.txt`. The question how many factors must be in a given consciousness opens 2.28. Parīttakleśbhūmikāḥ is read as parīttakleśabhūmikāḥ. Nirdekśa as nirdeśa. No independent collation is claimed. This class-name lacks the mahā of the name at 2.23. Both stay local.
+The unit is printed 57.04–57.09 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The question
+how many factors must be in a given consciousness opens 2.28.
+Word division is editorial. Parīttakleśbhūmikāḥ is normalized to
+parīttakleśabhūmikāḥ, and nirdekśa to nirdeśa. No independent
+collation is claimed. This class-name lacks the mahā of the name
+at 2.23; neither is silently changed to match the other.
 
 ## 3. Continuous Conventional Translation
 
 Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions. Limited afflictions are their ground, so they are called factors of that ground, because associated only with ignorance that is abandonable through cultivation and belongs to the mental sphere. Their exposition will be given among the secondary afflictions. These five classes of mental factors have been stated. There are also others, unfixed, such as initial examination, sustained examination, regret, and torpor.
-
-Only with ignorance is read inside the affliction classification. It does not deny consciousness and the universal factors. The instrumentals qualify the associated ignorance. They restrict the range of this class.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -45,6 +49,11 @@ The predicate applies to each. Nothing says all ten occur together in every affl
 Ignorance, abandonable through cultivation, of the mental sphere. Cultivation is not seeing. Mental sphere is not the five sensory consciousnesses.
 
 Only has a controlled scope. Factors do not occur without consciousness. The universal ten accompany. Ignorance as the sole accompanying dharma of any kind would contradict that. It restricts the affliction association under discussion.
+
+The instrumentals qualify the associated ignorance. Abandonable
+through cultivation is a classification, not a claim that abandonment
+has already happened. The shared qualifications do not identify a
+single ignorance-token accompanying all ten simultaneously.
 
 Limited is range. Not negligible harm. A shared range is not one definition, and not co-occurrence with the other nine.
 
@@ -68,10 +77,26 @@ Common range is not necessary co-presence. The universal class, the wholesome cl
 
 Naming classes has not said which factors, or how many, occur in a particular consciousness. That is the next inquiry. Not this result in advance.
 
-Objective Logic on the mind is the pass. Not the translation. Not the final pass.
+Cognition joins and governs Perception and Conception and guides
+the reading of Dharma Base, remaining distinct from consciousness
+and Mind. Mental-sphere restriction is not a license to substitute
+Mind for Cognition or for the consciousness accompanied by factors.
+Class membership must remain distinct from the composition of an
+actual episode.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The ten, the restrictions, the deferral, the close, and the unfixed factors are kept.
+Reviewed with the kārikā against printed 57.04–57.09. The ten
+provisional names and matching English anchor are retained. The
+lexical table now describes the compound enumeration rather than
+misidentifying its stems as separately inflected nominatives.
 
-2.28 has not been opened.
+Executable Grammar–Logic distinguishes ten membership assertions
+from a universal co-presence claim. Association restrictions concern
+qualified ignorance among afflictions, not the sole companion of any
+kind. Commentary on this scope is placed after the continuous
+translation. The deferred definitions, local class-name difference,
+and open-ended unfixed examples remain intact.
+
+The next counting question was read to establish the boundary;
+paired review of 2.28 remains next.

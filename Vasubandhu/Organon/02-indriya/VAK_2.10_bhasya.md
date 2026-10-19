@@ -5,14 +5,150 @@
 > vipāko jīvitaṃ dvedhā dvādaśa antyāṣṭakādṛte /
 > daurmanasyāc ca tattv ekaṃ savipākaṃ daśa dvidhā // 2.10 //
 
-> Life is maturation. Twelve are twofold except the final eight and
-> distress; of these, that one alone is with maturation. Ten are twofold.
+> Life is maturation. Apart from the final eight and distress, twelve
+> Faculties can be maturation or not. That distress alone invariably
+> produces maturation; ten Faculties can produce maturation or not.
 
 ## 2. Continuous Sanskrit Witness
 
-The unit runs from printed 43.08 through 46.06 in `Vasubandhu/Sources/kosabhasya.txt`. The lifespan digression ends at 44.19–20. Prakṛtamevārabhyate resumes the twelve. Mano 'nyavittiśraddhādīni at the close names the ten. The question at 46.07 opens the ethical classification and is not this unit.
+> katīndriyāṇi vipākaḥ kati na vipākaḥ / ekāntena tāvat /
+> vipāko jīvitam /
+> atha yad arhan bhikṣur āyuḥsaṃskārān sthāpayati taj jīvitendriyaṃ kasya vipākaḥ /
+> śāstra uktam "katham āyuḥsaṃskārān sthāpayati /
+> arhan bhikṣuḥ ṛddhimāṃś cetovaśitvaṃ prāptaḥ saṃghāya va pudgalāya vā
+> pātraḥ vā cīvaraṃ vā anyatamānyatamaṃ vā śrāmaṇakaṃ jīvitapariṣkāraṃ vā
+> dattvā tat praṇidhāya prantakoṭikam caturthaṃ dhyānaṃ samāpadyate /
+> sa tasmāt vyutthāya cittam utpādayati vācaṃ ca bhāṣate
+> yan me bhogavipākaṃ tad āyurvipākaṃ bhavatv iti /
+> tasya yat bhogavipākaṃ tad āyurvipākaṃ bhavati /
+> yeṣāṃ punar ayam abhiprāyo vipākoccheṣaṃ vipacyata iti /
+> ta āhuḥ pūrvajātikṛtasya karmaṇo vipākoccheṣaṃ /
+> sa bhāvanābalenākṛṣya pratisaṃvedayata" iti /
+> katham āyuḥsaṃskārān utsṛjati /
+> tathaīva dānaṃ dattvā praṇidhāya prantakoṭikaṃ caturthaṃ dhyānaṃ samāpadyate /
+> yan me āyurvipākaṃ tat bhogavipākaṃ bhavatv iti tasya tathā bhavati /
+> bhadantaghoṣakas tv āha /
+> tasminn eva āśraye rūpāvacarāṇi mahābhūtāni dhyānabalena
+> saṃmudhakaroty āyuṣo 'nukūlāni vaihodhikāni ca /
+> evam āyuḥsaṃskārān sthāpayaty evam utsṛjatīti /
+> evaṃ tu bhavitavyam /
+> samādhiprabhāva eva sa teṣāṃ tadṛśo yena pūrvakarmajaṃ ca
+> sthitikālāvedham indriyamahābhūtānāṃ vyāvrttayanty apūrvaṃ ca
+> samādhijam āvedham ākṣipanti /
+> tasmān na taj jīvitendriyaṃ vipākaṃ tato 'nyat tu vipākaḥ /
+> praśnāt praśnāntaram upajāyate /
+> kimartham āyuḥsaṃskārān adhitiṣṭhanti /
+> parahitārthaṃ śāsansthityarthaṃ vā /
+> te hy ātmanaḥ kṣīṇam āyuḥ paśyanti /
+> na ca tatrānyaṃ śaktaṃ paśyanti /
+> atha kimartham utsṛjanti /
+> alpaṃ ca parahitaṃ jīvite paśyanti rogābhibhūtaṃ cātmabhāvam /
+> yathoktam /
+> "sucīrṇe brahmacarye 'smin mārge caiva subhāvite /
+> tuṣṭa āyuḥkṣayāt bhavati rogasyāpagame yathā //" iti /
+> athaitad āyuḥsaṃskārāṇāṃ sthāpanārtham utsarjanaṃ vā kva kasya vā veditavyam /
+> manuṣyeṣv eva triṣu dvīpeṣu strīpuruṣayor asamayavimuktasyārhataḥ
+> prāntakoṭikadhyānalābhinaḥ /
+> tasya hi samādhau vaśitvam / kleśaiś cānupastabdhā santatiḥ /
+> sūtra uktam "bhagavān jīvitasaṃskārān adhiṣṭhāyāyuḥsaṃskārān ustsṛṣṭavān" /
+> teṣāṃ ko viśeṣaḥ / na kaścid ity eke /
+> tathā hy uktam "jīvitendriyaṃ katamat / traidhātukam āyur" iti /
+> pūrvakarmaphalam āyuḥsaṃskārāḥ pratyutpannakarmaphalaṃ
+> jīvitasaṃskārā ity apare /
+> yair vā nikāyasabhāgasthitis ta āyuḥsaṃskārāḥ /
+> yais tu kālāntaraṃ jīvati te jīvitasaṃskārā iti /
+> bahuvacanaṃ bahūnām āyurjīvitasaṃskārakṣaṇānām utsarjanādhiṣṭhānāt /
+> na hy ekasya kṣaṇasyotsarjanam adhiṣṭhanaṃ cāsti /
+> na ca kālāntarasthāvaram ekam āyurdravyam iti dyotanārtham ity eke /
+> bahuṣv eva saṃskāreṣv āyurākhyā nāsty ekam āyurdravyam /
+> anyathā naiva saṃskāragrahaṇam akariṣyad ity apare /
+> kimarthaṃ punar bhagavatā āyuḥsaṃskārā utsṛṣṭāś cādhiṣṭitāś ca /
+> maraṇavaśitvajñāpanārtham utsṛṣṭā jīvitavaśitvajñāpanārtham adhiṣṭitāḥ /
+> traimāsyam eva nodhrvam vineyakāryābhāvāt /
+> yac cāpi tat pratijñātam "evaṃbhāvitair ahaṃ caturbhir ṛddhipādair
+> ākāṅkṣan kalpam api tiṣṭheyaṃ kalpāvaśeṣam apī"ti /
+> tasyāpi saṃpādanārtham /
+> skandhamaraṇamārayor nirjayārtham iti vaibhaṣikāḥ /
+> bodhimūle kleśadevaputramārau nirjitāv iti /
+> niṣṭhitam ānuṣaṅgikam //
+>
+> prakṛtam evārabhyate /
+> dvedhā dvādaśa / katamāni dvādaśa /
+> antyāṣṭakād ṛte / daurmanasyāc ca /
+> antyam aṣṭakaṃ śraddhādīni daurmanasyaṃ ca varjayitvā /
+> jīvitendriyād anyāni dvādaśa dvividhāni vipākaś cāvipākaś ca /
+> tatra cakṣurādīni saptaupacayikāni avipākaḥ / śeṣāṇi vipākaḥ /
+> manoduḥkhasukhasaumanasyopekṣendriyāṇi kuśalakliṣṭāny avipākaḥ /
+> airyāpathikaśāilpasthānikanairmāṇikāni ca yathāyogam /
+> śeṣāṇi vipākaḥ /
+> jīvitendriyaṃ cakṣurādīni dvādaśa hitvā śeṣāṇy avipāka iti siddham /
+> yadi dauarmanasyendriyaṃ na vipāka iti sūtraṃ kathaṃ nīyate
+> "trīṇi kāryāṇi /
+> saumanasyavedanīyaṃ karma daurmanasyavedanīyaṃ karma
+> upekṣāvedanīyaṃ karme"ti saṃprayogavedanīyatām adhikṛtyoktam /
+> daurmasyena saṃprayuktaṃ karma daurmanasyavedanīyam /
+> yathā sukhasaṃparayuktaḥ sparśaḥ sukhavedanīyaḥ /
+> saumanasyopekṣāvedanīye api tarhi karmaṇī evaṃ bhaviṣyataḥ /
+> yathecchasi tathā 'stu /
+> saṃprayoge 'pi na doṣaḥ vipāke 'pi na doṣaḥ /
+> agatyā hy etad evaṃ gamyeta /
+> kā punr atra yuktir daurmanasyaṃ na vipāka iti /
+> daurmanasyaṃ hi parikalpaviśeṣair utpādyate ca vyupaśāmyate ca /
+> na caivam vipākaḥ /
+> saumanasyam apy evaṃ na syād vipākaḥ /
+> yadi tarhi daumanasyaṃ vipākaḥ syād ānantaryakāriṇāṃ
+> tannimittaṃ daurmanasyotpādāt tat karma vipakvaṃ syāt /
+> saumanasyam apy evam /
+> yadi saumanasyaṃ vipākaḥ syāt puṇyakāriṇāṃ
+> tannimittaṃ saumanasyotpādāt tat karma vipakvaṃ syāt /
+> vītarāgāṇāṃ tarhi daurmanasyāsaṃbhavāt /
+> na caivaṃ vipākaḥ /
+> saumanasyam apy eṣām avyākṛtaṃ kodṛśaṃ vipākaḥ syāt /
+> yādṛśaṃ tādṛśam astu /
+> sati tu saṃbhave saumanasyasyāsti vipākāvakāśī na dauarmanasyasya /
+> sarvathā 'samudācārād iti nāsty evaṃ daurmanasyaṃ vipāka iti vaibhāṣikāḥ /
+> tatra jīvitendriyāṣṭamāni sugatau kuśalasya vipāko durgatāv akuśalasya /
+> manaindriyam ubhayor ubhayasya /
+> sukhasaumanasyopekṣendriyāṇi kuśalasya /
+> duḥkhendriyam akuśalasya /
+> sugatāb ubhayavyañjanasyākuśalena tatsthānapratilambhaḥ /
+> na tv indriyasya kuśalākṣepāt / gatam etad /
+>
+> idaṃ nu vaktavyam /
+> katīndriyāṇi savipākāni katy avipākāni /
+> yad etat daurmanasyam anantaroktam /
+> tat tv ekaṃ savipākam /
+> tad ekaṃ savipākam eva /
+> tuśabda evakārārtho bhinnakramaś ca veditavyaḥ /
+> na hi tad avyākṛtam asti nāpy anāsravam asamāhitatvāt /
+> ato nāsty avipākaṃ daurmanasyam /
+> daśa dvidhā // 2.10 //
+> savipākāny avipākāni ca / katamāni daśa /
+> mano 'nyavittiśraddhādīni /
+> anyavittigrahaṇāt daurmanasyād anyat veditaṃ gṛhyate /
+> śraddhādīni śraddhāvīryasmṛtisamādhiprajñāḥ /
+> tatra manaḥsukhasaumanasyopekṣā akuśalāḥ kuśalāḥ sāsravāś ca savipākāḥ /
+> anāsravā avyākṛtāś cāvipākāḥ /
+> duḥkhendriyaṃ kuśalākuśalaṃ savipākam avyākṛtam avipākam /
+> śraddhādīni sasravāṇi savipākāny anāsravāṇy avipākāni /
+> anyad avipākam iti siddham /
 
-The reading text retains the running wording, including defective forms. Contextual repairs, not a collation: ukthaṃ → uktam, samāchi → samādhi, akuāśala → akuśala. Saṃmudhakaroti is construed as bringing forth. Vaihodhikāni as adverse, against anukūlāni. Prāntakoṭika is the named fourth dhyāna. Sthitikālāvedha is the impetus that determines duration. Vipākoccheṣa is a remainder of maturation. Uncertainty stays visible.
+The unit runs from printed 43.08 through 46.06 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The lifespan
+digression ends at 44.19–20. Prakṛtamevārabhyate resumes the twelve.
+Mano 'nyavittiśraddhādīni at the close names the ten. The question at
+46.07 opens the ethical classification and is not this unit.
+
+Word division is editorial. The reading text retains defective forms,
+including saṃmudhakaroti, vaihodhikāni, and trīṇi kāryāṇi. Contextual
+repairs, not a collation: ukthaṃ → uktam, samāchi → samādhi,
+akuāśala → akuśala, bahuśveva → bahuṣv eva. The sūtra quotation's
+traidhātukamāyuri is divided as traidhātukam āyur before iti.
+Saṃmudhakaroti is construed as bringing forth; vaihodhikāni as adverse,
+against anukūlāni. Prāntakoṭika is the named fourth dhyāna;
+sthitikālāvedha is the
+impetus that determines duration. Vipākoccheṣa is a remainder of
+maturation. These construals remain provisional.
 
 ## 3. Continuous Conventional Translation
 
@@ -38,7 +174,7 @@ The eight with life as eighth are maturation of wholesome action in a favorable 
 
 How many have maturation as a result, and how many do not? Distress, just mentioned: that one alone. Invariably. Tu means only, and stands out of place. Distress is not indeterminate, and not without outflows, because it is not concentrated. So there is no distress that does not produce maturation.
 
-Ten are twofold, producing and not. Which ten? Mind, the other feelings, and those beginning with faith. The other feelings are feeling other than distress. The five are faith, vigor, mindfulness, concentration, and Discrimination. Mind, pleasure, gladness, and neutral feeling produce maturation when unwholesome, or wholesome with outflows. Without outflows, or indeterminate, they do not. Pain produces it when wholesome or unwholesome, and not when indeterminate. The five produce it when with outflows, and not when without. The rest produce none.
+Ten are twofold, producing and not. Which ten? Mind, the other feelings, and those beginning with faith. The other feelings are feeling other than distress. The five are faith, vigor, mindfulness, concentration, and discriminative comprehension. Mind, pleasure, gladness, and neutral feeling produce maturation when unwholesome, or wholesome with outflows. Without outflows, or indeterminate, they do not. Pain produces it when wholesome or unwholesome, and not when indeterminate. The five produce it when with outflows, and not when without. The rest produce none.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -56,7 +192,12 @@ Life generated in the specified way is not maturation. Other life is. The adopte
 
 ## 6. The Twelve, and Distress
 
-Development, deportment, craft, and magical creation are the non-maturation modes of the twelve. Wholesome and afflicted mind and feeling are not maturation. The rest of those twelve can be.
+The seven Form Faculties from development are not maturation. Mind and
+the four feelings, when wholesome or afflicted, are not maturation;
+deportment, craft, and magical creation are also excluded as applicable.
+These are separate qualifications, not four modes indiscriminately
+assigned to every one of the twelve. The remaining instances are
+maturation.
 
 The sūtra of three actions is association. Distress-experiencing action is not distress as maturation. The Vaibhāṣika reasons stay: construction, the counterexample, absence in those free from attachment. Gladness still has room.
 
@@ -68,16 +209,39 @@ Distress alone always produces it. Not indeterminate, not without outflows, not 
 
 Vipāka is maturation, what the instance is. Savipāka is possessing maturation, what it produces. One English for both is the collapse not accepted.
 
-Tu is only. The metrical displacement is marked. Prāntakoṭika is left as the name. The lifespan repairs stay provisional.
+Tu is only. The metrical displacement is marked. “Of these” is removed
+from the study translation: distress was excluded from the twelve, and
+tat resumes distress itself. Only restricts invariable production; it
+does not deny that ten other types can produce maturation. Prāntakoṭika
+is left as the name. The lifespan repairs stay provisional.
 
 ## 9. Interpretation
 
 Two predicates. Life is received, except where concentration projects the impetus. Distress is not received, and it always produces. The construction that raises and calms it is the reason it is not a result. That reason is not innocence.
 
-Dhātu:Indriya asks both questions of the same faculty. The principles locate it. The rules say what this instance is and what it will produce. The received English that folds the two into karmic is not the page. Not the verse English.
+The Organon determination requires two relations rather than one
+undifferentiated karmic label. Being a result does not by itself establish
+productive capacity; productive capacity does not establish being a
+result. The life exception also requires a distinction between a
+type-level rule and its qualified instances.
+
+Cognition joins and governs Perception and Conception and guides the
+reading of Dharma Base without collapsing into Mind or consciousness.
+Here Mind is one of the classified Faculties; the two maturation axes
+do not reduce all mental activity to received results or all results
+to present conceptual construction.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The digression is kept and marked incidental. The two predicates stay apart.
+Reviewed with the kārikā against printed 43.08–46.06. The missing
+continuous Sanskrit passage is restored with provisional readings
+identified. The extended lifespan discussion, reported alternatives,
+questions, objections, and attributed Vaibhāṣika conclusion are retained.
+
+The study translation removes the misleading “of these,” resolves
+distress as the anaphor, and distinguishes being maturation from
+producing maturation. The anchor matches exactly. The formal model
+keeps the life exception separate and tests both Faculty partitions;
+it does not validate the reported lifespan practices.
 
 2.11 has not been opened.

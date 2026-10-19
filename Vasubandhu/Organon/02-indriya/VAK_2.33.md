@@ -18,28 +18,64 @@ madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // 2.33 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| vitarka-cārau | nom. dual m. | vitarka and vicāra |
-| audārya-sūkṣmate | nom. dual n. | coarseness and subtlety |
+| vitarka-cārau | nom. dual m.; coordinated compound | initial and sustained examination |
+| audārya-sūkṣmate | nom. dual n.; coordinated abstract nouns | coarseness and subtlety, paired respectively |
 | mānaḥ | nom. sg. m. | conceit |
 | unnatiḥ | nom. sg. f. | elevation |
 | madaḥ | nom. sg. m. | intoxication |
 | sva-dharme raktasya | loc. sg. n. + gen. sg. m. participle | of one attached to one's own qualities |
 | paryādānam | nom. sg. n. | taking-over |
 | cetasaḥ | gen. sg. n. | of consciousness |
+| tu | contrastive particle | distinguishes intoxication from conceit |
 
-Of consciousness is supplied later. It covers the three definitions.
-## 4. Grammar
+The prose explicitly carries the later of consciousness into the
+examination definition, and supplies it again for conceit. The verse
+opens three definition units. Sandhi is opened for parsing.
 
 ```text
-% start S
-S[NAME=vitarka] -> Coarseness[OF=consciousness]
-S[NAME=vicara] -> Subtlety[OF=consciousness]
-S[NAME=conceit] -> Elevation[RELATIVE=other]
-S[NAME=intoxication] -> TakingOver[ATTACHMENT=own-qualities]
+# tokens: vitarkacārau audāryasūkṣmate mānaḥ unnatiḥ madaḥ svadharme raktasya paryādānam tu cetasaḥ
 ```
 
-Coexistence of vitarka and vicāra is not settled by the dual.  
-Conceit compares; intoxication takes over one's own.
+## 4. Grammar
+
+The dual pairs initial examination with coarseness and sustained
+examination with subtlety; it does not assert their simultaneous
+occurrence. The final genitive supplies the locus of taking-over,
+not its object as one's own qualities: the latter are what the
+person is attached to.
+
+```nltk-fcfg
+% start S
+# tokens: vitarkacārau audāryasūkṣmate mānaḥ unnatiḥ madaḥ svadharme raktasya paryādānam tu cetasaḥ
+S[SEM=<(?examination & ?conceit & ?intoxication)>] -> EXAMINATION[SEM=?examination] CONCEITCLAUSE[SEM=?conceit] INTOXICATIONCLAUSE[SEM=?intoxication]
+EXAMINATION[SEM=<(DefinedAs(initial,coarseness) & DefinedAs(sustained,subtlety))>] -> EXAMPAIR[NUM=du] STATEPAIR[NUM=du,ORDER=respective]
+CONCEITCLAUSE[SEM=<DefinedAs(conceit,elevation)>] -> CONCEIT[CASE=nom] ELEVATION[CASE=nom]
+INTOXICATIONCLAUSE[SEM=<(DefinedAs(intoxication,taking_over) & AttachmentTo(intoxication,own_qualities) & Locus(intoxication,consciousness))>] -> INTOXICATION[CASE=nom] OWN[CASE=loc] ATTACHED[CASE=gen] TAKEOVER[CASE=nom] BUT CONSCIOUSNESS[CASE=gen]
+EXAMPAIR[NUM=du] -> 'vitarkacārau'
+STATEPAIR[NUM=du,ORDER=respective] -> 'audāryasūkṣmate'
+CONCEIT[CASE=nom] -> 'mānaḥ'
+ELEVATION[CASE=nom] -> 'unnatiḥ'
+INTOXICATION[CASE=nom] -> 'madaḥ'
+OWN[CASE=loc] -> 'svadharme'
+ATTACHED[CASE=gen] -> 'raktasya'
+TAKEOVER[CASE=nom] -> 'paryādānam'
+BUT -> 'tu'
+CONSCIOUSNESS[CASE=gen] -> 'cetasaḥ'
+```
+
+```nltk-dep
+'vitarkacārau' -> 'audāryasūkṣmate'
+'mānaḥ' -> 'unnatiḥ'
+'madaḥ' -> 'paryādānam' | 'tu'
+'paryādānam' -> 'raktasya' | 'cetasaḥ'
+'raktasya' -> 'svadharme'
+```
+
+| Span | Constituent | Result |
+|---|---|---|
+| [0, 2) | `EXAMINATION` | respective dual definitions |
+| [2, 4) | `CONCEITCLAUSE` | elevation |
+| [4, 10) | `INTOXICATIONCLAUSE` | taking-over of consciousness, attachment to own qualities |
 
 ## 5. Translation
 
@@ -50,9 +86,10 @@ Conceit compares; intoxication takes over one's own.
 > one's own qualities.
 ### Bhāṣya-informed study translation
 
-> Vitarka and vicāra are coarseness and subtlety of consciousness. Conceit
-> is elevation of consciousness; intoxication is the taking-over of
-> consciousness in one attached to one's own qualities.
+> Initial and sustained examination are, respectively, coarseness and
+> subtlety of consciousness. Conceit is elevation of consciousness through
+> a constructed distinction relative to another. Intoxication, however,
+> is the taking-over of consciousness in one attached to one's own qualities.
 ## 6. Philosophical Translation
 
 > Coarseness and subtlety do not by themselves settle co-presence. Conceit compares. Intoxication takes over one's own. Level-attribution is not moment-co-presence.
@@ -61,8 +98,8 @@ Conceit compares; intoxication takes over one's own.
 
 | Sanskrit | Running word | Determination |
 |---|---|---|
-| vitarka | vitarka | proposed coarseness; not settled |
-| vicāra | vicāra | proposed subtlety; not settled |
+| vitarka | initial examination | coarseness definition examined in the dispute |
+| vicāra | sustained examination | subtlety definition examined in the dispute |
 | vāk-saṃskāra | formation of speech | the sūtra account |
 | jāti-bheda | difference of kind | demanded, not stated |
 | bhūmitaḥ | by level | the five-factor attribution |
@@ -73,24 +110,71 @@ Conceit compares; intoxication takes over one's own.
 
 ## 8. Logical Determination
 
-```python
-from nltk.sem.logic import LogicParser
-lp = LogicParser()
+**Kārikā, derived.** DefinedAs records the formulas being examined,
+not a proof that the disputed definitions withstand every objection.
+The Bhāṣya's positions are indexed separately: the model does not
+assert both co-presence and its denial as one theory.
 
-vitarka = lp.parse(r'Vitarka(x) <-> Coarseness(x,consciousness)')
-vicara = lp.parse(r'Vicara(x) <-> Subtlety(x,consciousness)')
-conceit = lp.parse(r'Conceit(x) <-> Elevation(x,relative-to-other)')
-intox = lp.parse(r'Intoxication(x) <-> TakingOver(x,own-qualities)')
+```nltk-sem
+definition : \a.\b.DefinedAs(b,a)
+locus : \x.Locus(x,consciousness)
 ```
 
-The dual does not settle co-presence.  
-Level is not moment.  
-Conceit compares; intoxication takes over. another
-intoxication
-    = taking-over of one's own
-liquor
-    ≠ the factor
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+((DefinedAs(initial,coarseness) & DefinedAs(sustained,subtlety)) & DefinedAs(conceit,elevation) & (DefinedAs(intoxication,taking_over) & AttachmentTo(intoxication,own_qualities) & Locus(intoxication,consciousness)))
+
+# THEORY attributed_positions
+# EXPECT attributed_positions T
+AllowsCoPresence(balancing) & AllowsCoPresence(speech_account) & DeniesCoPresence(separate_account)
+LevelFive(separate_account) & -MomentFive(separate_account)
+ComparisonWith(conceit,another) & Locus(conceit,consciousness)
+
+# THEORY rejected_every_account_allows_copresence
+# EXPECT rejected_every_account_allows_copresence F
+all p.(Position(p) -> AllowsCoPresence(p))
+
+# THEORY rejected_level_five_entails_moment_five
+# EXPECT rejected_level_five_entails_moment_five F
+all p.(LevelFive(p) -> MomentFive(p))
+
+# THEORY rejected_taking_over_qualities_not_consciousness
+# EXPECT rejected_taking_over_qualities_not_consciousness F
+Locus(intoxication,own_qualities) & AttachmentTo(intoxication,own_qualities)
 ```
+
+```nltk-valuation
+initial => initial_examination
+sustained => sustained_examination
+coarseness => coarseness_definition
+subtlety => subtlety_definition
+conceit => conceit_factor
+elevation => elevation_definition
+intoxication => intoxication_factor
+taking_over => takeover_definition
+own_qualities => own_qualities_condition
+consciousness => consciousness_locus
+another => comparison_other
+balancing => balancing_position
+speech_account => speech_position
+separate_account => separation_position
+DefinedAs => {(initial_examination,coarseness_definition),(sustained_examination,subtlety_definition),(conceit_factor,elevation_definition),(intoxication_factor,takeover_definition)}
+AttachmentTo => {(intoxication_factor,own_qualities_condition)}
+Locus => {(intoxication_factor,consciousness_locus),(conceit_factor,consciousness_locus)}
+ComparisonWith => {(conceit_factor,comparison_other)}
+Position => {balancing_position,speech_position,separation_position}
+AllowsCoPresence => {balancing_position,speech_position}
+DeniesCoPresence => {separation_position}
+LevelFive => {separation_position}
+MomentFive => {}
+```
+
+The balancing and speech accounts defend co-presence in different
+ways and face different objections. The separation account's
+level/moment reply stays attributed, not substituted for the prior
+co-arising rules. The model checks these distinctions; it does not
+decide the debate or reduce difference of kind to intensity.
 
 ## 9. Interpretive Note
 
@@ -100,7 +184,11 @@ Three positions: balancing, speech-formation, denial of co-presence. No harmoniz
 
 The summit objection uses the exclusions of 2.31. A satisfactory account would name the factors and keep that range.
 
-Interpretation: what each proposal explains, and what it leaves, is the account. Not a smooth definition the passage does not give. Not the verse English.
+In the Organon reading, Cognition governs Perception and Conception
+without collapsing into consciousness or Mind. The present dispute
+concerns factors and determinations of consciousness, not definitions
+of that governing Cognition. Condition versus nature, kind versus
+degree, and level versus moment remain distinct tests.
 
 ## 10. OWL++ Seed
 
@@ -117,8 +205,10 @@ vak:VAK_2_33
 
 vak:VitarkaVicara vak:disputeOpen true .
 vak:Conceit vak:comparesWithAnother true .
-vak:Intoxication vak:takesOverOwnQualities true .
+vak:Intoxication vak:takesOver vak:Consciousness ;
+    vak:involvesAttachmentTo vak:OwnQualities .
 
-organon:LevelNotMoment
-    organon:notTheVerseEnglish true .
+organon:VAK_2_33_Interpretation
+    organon:distinguishes vak:Condition, vak:FactorNature,
+        vak:Intensity, vak:Kind, vak:Level, vak:Moment .
 ```
