@@ -19,23 +19,42 @@ saṃprayuktakahetus tu cittacaittāḥ samāśrayāḥ // 2.53 //
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | prayogajāḥ | masculine nominative plural compound adjective | produced by application |
-| tayoḥ eva | genitive/locative dual pronoun + emphatic particle | of those two only |
-| śruta-cintā-maya-ādikāḥ | masculine nominative plural compound adjective | born of hearing, of thought, and the rest |
+| tayoḥ eva | genitive dual pronoun + emphatic particle | of the equal and superior alone, resumed from 2.52 |
+| śruta-cintā-maya-ādikāḥ | masculine nominative plural compound adjective | qualities born of hearing and thought, with cultivation supplied by the Bhāṣya |
 | saṃprayuktaka-hetuḥ | masculine nominative singular compound | associated cause |
 | citta-caittāḥ | masculine nominative plural coordinated compound | consciousness and the mental factors |
-| samāśrayāḥ | masculine nominative plural compound adjective | of the same support |
+| samāśrayāḥ | masculine nominative plural compound adjective | sharing numerically the same support moment, per the Bhāṣya |
+
+**Grammar tokens.** External sandhi is opened at *prayogajās tayor* and *hetus tu*. *Tayoḥ* resumes the equal and superior from 2.52; the Bhāṣya identifies the open *ādi* as cultivation.
+
+```text
+# tokens: prayogajāḥ tayoḥ eva śrutacintāmayādikāḥ saṃprayuktakahetuḥ tu cittacaittāḥ samāśrayāḥ
+```
 
 ## 4. Grammar
 
-```text
+```nltk-fcfg
 % start S
-S[CAUSE=homogeneous, PRODUCED=application] -> EqualOrSuperior
-S[CAUSE=associated] -> Citta Caitta[SUPPORT=same, EQUALITIES=five]
+# tokens: prayogajāḥ tayoḥ eva śrutacintāmayādikāḥ saṃprayuktakahetuḥ tu cittacaittāḥ samāśrayāḥ
+S[SEM=<(?application & ?association)>] -> APPLICATION[SEM=?application] ASSOCIATION[SEM=?association]
+APPLICATION[SEM=<(ApplicationBorn(hearing) & ApplicationBorn(thought) & CauseFor(hearing,equal) & CauseFor(hearing,superior) & CauseFor(thought,equal) & CauseFor(thought,superior))>] -> PRODUCED[CASE=nom,NUM=pl] RANGE[CASE=gen,NUM=du,REF=equal_superior] ONLY EXAMPLES[CASE=nom,NUM=pl,OPEN=true]
+PRODUCED[CASE=nom,NUM=pl] -> 'prayogajāḥ'
+RANGE[CASE=gen,NUM=du,REF=equal_superior] -> 'tayoḥ'
+ONLY -> 'eva'
+EXAMPLES[CASE=nom,NUM=pl,OPEN=true] -> 'śrutacintāmayādikāḥ'
+ASSOCIATION[SEM=<(AssociatedCause(citta,caitta) & SameSupport(citta,caitta))>] -> HEAD[CASE=nom,NUM=sg] CONTRAST PAIR[CASE=nom,NUM=pl] SUPPORT[CASE=nom,NUM=pl,IDENTITY=same]
+HEAD[CASE=nom,NUM=sg] -> 'saṃprayuktakahetuḥ'
+CONTRAST -> 'tu'
+PAIR[CASE=nom,NUM=pl] -> 'cittacaittāḥ'
+SUPPORT[CASE=nom,NUM=pl,IDENTITY=same] -> 'samāśrayāḥ'
 ```
 
-Application-produced is equal or superior only.  
-Associated is citta and caitta of the same support, five equalities.  
-Also co-arisen, not conversely.
+```nltk-dep
+'prayogajāḥ' -> 'tayoḥ' | 'eva' | 'śrutacintāmayādikāḥ'
+'saṃprayuktakahetuḥ' -> 'tu' | 'cittacaittāḥ' | 'samāśrayāḥ'
+```
+
+**Feature chart checkpoints.** Application spans [0, 4), association [4, 8), and the root [0, 8). Changing the resumed dual to singular, the associated pair to singular, or shared-support identity blocks the parse. The verse's open *ādi* does not itself enumerate cultivation.
 
 ## 5. Translation
 
@@ -52,7 +71,7 @@ Also co-arisen, not conversely.
 > support.
 ## 6. Philosophical Translation
 
-> Application-produced is equal or superior only. Associated is the same support, five equalities. Also co-arisen, not the converse. Same support is non-different, not same kind.
+> Application gives worldly qualities a directed homogeneous-cause range: equal or superior results. Association adds a different causal determination for consciousness and mental factors sharing one support. The Bhāṣya tests that support against apparent matches across different continua.
 
 ## 7. Technical Vocabulary
 
@@ -60,33 +79,70 @@ Also co-arisen, not conversely.
 |---|---|---|
 | prayogaja | produced by application | not by birth |
 | cintāmaya | born of thought | not saṃjñā |
-| pañca-samatā | five equalities | the association |
-| samāśraya | same support | numerically one |
+| pañca-samatā | five equalities | Bhāṣya account of association; do not infer all five from *samāśraya* alone |
+| samāśraya | same support | the identical faculty moment, not merely the same kind |
 
 ## 8. Logical Determination
 
-```text
-application
-    → equal or superior only
-birth, afflicted
-    → of one another
-associated
-    = same support, and the five
-    → also co-arisen
-co-arisen
-    ≠ associated
+**Kārikā, derived.** The root `SEM` carries the equal/superior antecedent into the application clause and treats same support as the associated-cause predicate. The Bhāṣya supplies cultivation, the scope across realms, and the necessary identity of a faculty moment; these are separate prose theories.
+
+```nltk-sem
+application : ApplicationBorn(hearing) & ApplicationBorn(thought) & CauseFor(hearing,equal) & CauseFor(hearing,superior) & CauseFor(thought,equal) & CauseFor(thought,superior)
+association : AssociatedCause(citta,caitta) & SameSupport(citta,caitta)
 ```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(ApplicationBorn(hearing) & ApplicationBorn(thought) & CauseFor(hearing,equal) & CauseFor(hearing,superior) & CauseFor(thought,equal) & CauseFor(thought,superior)) & (AssociatedCause(citta,caitta) & SameSupport(citta,caitta))
+
+# THEORY prose_cultivation
+# EXPECT prose_cultivation T
+ApplicationBorn(cultivation) & CauseFor(cultivation,equal) & CauseFor(cultivation,superior)
+
+# THEORY prose_association_and_coarising
+# EXPECT prose_association_and_coarising T
+all x.all y.(AssociatedCause(x,y) -> CoarisenCause(x,y)) & CoarisenCause(citta,caitta)
+
+# THEORY rejected_inferior_application
+# EXPECT rejected_inferior_application F
+CauseFor(hearing,inferior) & ApplicationBorn(hearing)
+
+# THEORY rejected_same_kind_suffices
+# EXPECT rejected_same_kind_suffices F
+AssociatedCause(citta,other_caitta) & SameKindSupport(citta,other_caitta)
+
+# THEORY rejected_coarisen_converse
+# EXPECT rejected_coarisen_converse F
+all x.all y.(CoarisenCause(x,y) -> AssociatedCause(x,y))
+```
+
+```nltk-valuation
+hearing => h
+thought => t
+cultivation => v
+equal => eq
+superior => sup
+inferior => inf
+citta => c
+caitta => m
+other_caitta => n
+mark => k
+ApplicationBorn => {h,t,v}
+CauseFor => {(h,eq),(h,sup),(t,eq),(t,sup),(v,eq),(v,sup)}
+AssociatedCause => {(c,m),(m,c)}
+SameSupport => {(c,m),(m,c)}
+SameKindSupport => {(c,n)}
+CoarisenCause => {(c,m),(m,c),(c,k)}
+```
+
+The finite model confirms the verse cases and rejects an inferior application result, same-kind support across another continuum, and the converse from co-arisen cause to associated cause. The Bhāṣya pass below tests why those distinctions matter; its models witness this reading without proving a textual emendation.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya explains the “two” as equal and superior
-and lists hearing, thought, and cultivation. Association is defined through
-five equalities on a single support; associated factors are also co-arisen,
-but co-arisen factors are not necessarily associated. Here cintā means
-thought, not reflection. The verse's damaged wording concerning the unarisen
-case is not used to establish a new rule.
+The Bhāṣya explicitly supplies *bhāvanāmaya* (born of cultivation) under the verse's *ādi* and specifies the available hearing/thought/cultivation series by realm. The applied qualities cause an equal or superior result, not an inferior one. Birth-acquired wholesome and afflicted dharmas are treated differently. The four unobscured-indeterminate sorts have their own descending causal range; these details are prose specifications, not new words in the verse.
 
-The damaged unarisen-contaminated reading is against the example, an uncontaminated receptivity. Not repaired as a new rule. The pervasive cause is next.
+For associated cause, sameness of aspect, object, and time does not yet secure association: different continua can share those descriptions. *Samāśraya* requires the identical faculty moment. The Bhāṣya then distinguishes association by five equalities from co-arisen cause by mutual result. The reported unarisen case in the homogeneous-cause discussion remains textually delicate and is not converted into a new universal rule here.
 
 ## 10. OWL++ Seed
 

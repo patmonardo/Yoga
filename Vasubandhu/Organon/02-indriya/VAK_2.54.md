@@ -18,25 +18,46 @@ vipākahetur aśubhāḥ kuśalāś caiva sāsravāḥ // 2.54 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| sarvatraga-ākhyaḥ | masculine nominative singular compound adjective | called pervasive |
-| kliṣṭānām | genitive plural | of the afflicted |
-| sva-bhūmau | locative singular compound | on their own level |
-| pūrva-sarvagāḥ | masculine nominative plural compound adjective | prior pervasive dharmas |
+| sarvatraga-ākhyaḥ | masculine nominative singular compound | the cause named pervasive |
+| kliṣṭānām | genitive plural | of later afflicted dharmas, as the Bhāṣya resolves |
+| sva-bhūmau | locative singular compound | within the same level as cause and effect |
+| pūrva-sarvagāḥ | masculine nominative plural compound | pervasive dharmas arisen earlier than the afflicted result |
 | vipāka-hetuḥ | masculine nominative singular compound | maturation cause |
 | aśubhāḥ | masculine nominative plural adjective | unwholesome |
-| kuśalāḥ sāsravāḥ | masculine nominative plural adjectives | wholesome with influx |
+| kuśalāḥ sāsravāḥ | masculine nominative plural adjectives | wholesome dharmas qualified by influx |
+
+**Grammar tokens.** Sandhi is opened at *vipākahetur aśubhāḥ* and *kuśalāś caiva*. The Bhāṣya resolves *pūrva-* as earlier arising and *kliṣṭānām* as the later afflicted results. The coordination makes both unwholesome and wholesome-with-influx dharmas maturation causes.
+
+```text
+# tokens: sarvatragākhyaḥ kliṣṭānām svabhūmau pūrvasarvagāḥ vipākahetuḥ aśubhāḥ kuśalāḥ ca eva sāsravāḥ
+```
 
 ## 4. Grammar
 
-```text
+```nltk-fcfg
 % start S
-S[CAUSE=pervasive] -> Prior[LEVEL=own, TARGET=later-afflicted, CLASS=other-allowed]
-S[CAUSE=maturation] -> Unwholesome | WholesomeWithInflux
+# tokens: sarvatragākhyaḥ kliṣṭānām svabhūmau pūrvasarvagāḥ vipākahetuḥ aśubhāḥ kuśalāḥ ca eva sāsravāḥ
+S[SEM=<(?pervasive & ?maturation)>] -> PERVASIVE[SEM=?pervasive] MATURATION[SEM=?maturation]
+PERVASIVE[SEM=<(PervasiveCause(prior_pervasive,later_afflicted) & Prior(prior_pervasive,later_afflicted) & SameLevel(prior_pervasive,later_afflicted))>] -> PHEAD[CASE=nom,NUM=sg] AFFLICTED[CASE=gen,NUM=pl] LEVEL[CASE=loc,NUM=sg,REF=own] PRIORP[CASE=nom,NUM=pl,TIME=prior]
+PHEAD[CASE=nom,NUM=sg] -> 'sarvatragākhyaḥ'
+AFFLICTED[CASE=gen,NUM=pl] -> 'kliṣṭānām'
+LEVEL[CASE=loc,NUM=sg,REF=own] -> 'svabhūmau'
+PRIORP[CASE=nom,NUM=pl,TIME=prior] -> 'pūrvasarvagāḥ'
+MATURATION[SEM=<(MaturationCause(unwholesome) & MaturationCause(wholesome_influx) & HasInflux(wholesome_influx))>] -> MHEAD[CASE=nom,NUM=sg] BAD[CASE=nom,NUM=pl] GOOD[CASE=nom,NUM=pl] AND ONLY INFLUX[CASE=nom,NUM=pl]
+MHEAD[CASE=nom,NUM=sg] -> 'vipākahetuḥ'
+BAD[CASE=nom,NUM=pl] -> 'aśubhāḥ'
+GOOD[CASE=nom,NUM=pl] -> 'kuśalāḥ'
+AND -> 'ca'
+ONLY -> 'eva'
+INFLUX[CASE=nom,NUM=pl] -> 'sāsravāḥ'
 ```
 
-Pervasive is prior, own level, later afflicted, other class allowed.  
-Maturation is unwholesome and wholesome with influx.  
-Indeterminate weak. Uncontaminated not moistened.
+```nltk-dep
+'sarvatragākhyaḥ' -> 'kliṣṭānām' | 'svabhūmau' | 'pūrvasarvagāḥ'
+'vipākahetuḥ' -> 'aśubhāḥ' | 'kuśalāḥ' | 'ca' | 'eva' | 'sāsravāḥ'
+```
+
+**Feature chart checkpoints.** Pervasive cause spans [0, 4), maturation cause [4, 10), and the root [0, 10). Prior-time, own-level locative, afflicted genitive, and wholesome-with-influx nominative features constrain their constituents. The verse does not itself state the Bhāṣya's cross-class exception or its exclusions.
 
 ## 5. Translation
 
@@ -52,45 +73,83 @@ Indeterminate weak. Uncontaminated not moistened.
 > unwholesome and wholesome with influx.
 ## 6. Philosophical Translation
 
-> Pervasive is prior, own level, later afflicted, other class allowed. Maturation is unwholesome and wholesome with influx. Indeterminate weak. Uncontaminated not moistened. Series required. Not settled.
+> Pervasive cause names the passage from an earlier pervasive dharma to later affliction on its level. Maturation cause names unwholesome or wholesome-with-influx dharmas under a different causal determination. The Bhāṣya tests the latter through weakness, craving, and the ripening of a continuum.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Running word | Determination |
 |---|---|---|
-| sarvatraga-hetu | pervasive cause | prior, own level, other class |
-| vipāka-hetu | maturation cause | unwholesome, wholesome with influx |
-| abhiṣyandita | moistened | by craving |
-| santati-pariṇāma | transformation of a continuum | the critical ripening |
+| sarvatraga-hetu | pervasive cause | earlier pervasive dharma causing later affliction on its level; cross-class reach is Bhāṣya specification |
+| vipāka-hetu | maturation cause | unwholesome and wholesome-with-influx causes named in the verse |
+| abhiṣyandita | moistened | by craving in the Bhāṣya seed analogy |
+| santati-pariṇāma | transformation of a continuum | Bhāṣya account of maturation reaching its result; distinguishes it from other causal results |
 
 ## 8. Logical Determination
 
-```text
-pervasive
-    prior + own level + later afflicted
-    class may differ
-maturation
-    unwholesome or wholesome with influx
-    not indeterminate
-    not uncontaminated
-ripening
-    disputed
-series
-    required
-    not simultaneous
-    not immediate
+**Kārikā, derived.** The root `SEM` joins two separate causal definitions. The Bhāṣya then explains why pervasive cause crosses abandonment classes within one level and why indeterminate and uncontaminated dharmas do not qualify as maturation causes. Its exchange about *vipāka* is modeled as an attributed argument, not silently inserted into the verse.
+
+```nltk-sem
+pervasive : PervasiveCause(prior_pervasive,later_afflicted) & Prior(prior_pervasive,later_afflicted) & SameLevel(prior_pervasive,later_afflicted)
+maturation : MaturationCause(unwholesome) & MaturationCause(wholesome_influx) & HasInflux(wholesome_influx)
 ```
+
+```nltk-fol
+# THEORY verse
+# EXPECT verse T
+(PervasiveCause(prior_pervasive,later_afflicted) & Prior(prior_pervasive,later_afflicted) & SameLevel(prior_pervasive,later_afflicted)) & (MaturationCause(unwholesome) & MaturationCause(wholesome_influx) & HasInflux(wholesome_influx))
+
+# THEORY prose_cross_class
+# EXPECT prose_cross_class T
+DifferentClass(prior_pervasive,later_afflicted) & PervasiveCause(prior_pervasive,later_afflicted)
+
+# THEORY prose_exclusions
+# EXPECT prose_exclusions T
+Weak(indeterminate) & -MaturationCause(indeterminate) & Unmoistened(uncontaminated) & -MaturationCause(uncontaminated)
+
+# THEORY rejected_same_class_only
+# EXPECT rejected_same_class_only F
+SameClass(prior_pervasive,later_afflicted) & PervasiveCause(prior_pervasive,later_afflicted)
+
+# THEORY rejected_indeterminate_matures
+# EXPECT rejected_indeterminate_matures F
+MaturationCause(indeterminate) & Weak(indeterminate)
+
+# THEORY rejected_uncontaminated_matures
+# EXPECT rejected_uncontaminated_matures F
+MaturationCause(uncontaminated) & Unmoistened(uncontaminated)
+
+# THEORY rejected_immediate_maturation
+# EXPECT rejected_immediate_maturation F
+ImmediateResult(unwholesome,result) & MaturationCause(unwholesome)
+```
+
+```nltk-valuation
+prior_pervasive => pp
+later_afflicted => la
+unwholesome => uw
+wholesome_influx => wi
+indeterminate => id
+uncontaminated => uc
+result => rs
+PervasiveCause => {(pp,la)}
+Prior => {(pp,la)}
+SameLevel => {(pp,la)}
+DifferentClass => {(pp,la)}
+SameClass => {}
+MaturationCause => {uw,wi}
+HasInflux => {wi}
+Weak => {id}
+Unmoistened => {uc}
+ImmediateResult => {}
+```
+
+The finite model witnesses the verse and the Bhāṣya's cross-class and exclusion claims. Its false theories reject a same-class-only pervasive cause, indeterminate or uncontaminated maturation cause, and immediate maturation. The model checks these stated distinctions, not the complete ontology of all dharmas.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya adds that a prior pervasive dharma may
-cause later affliction of another class on that level. Indeterminate dharmas
-are too weak to mature, while uncontaminated dharmas are not moistened by
-craving. It preserves competing accounts of maturation as dissimilar result
-or as the culmination of a transformed continuum; the precise account
-remains unsettled.
+The Bhāṣya sets pervasive cause apart from homogeneous cause because prior pervasive dharmas can cause later afflicted dharmas in another abandonment class on the same level. Its discussion of an afflicted noble person's cause includes an attributed Kāśmīrī position and a response about an already-abandoned cause; these are not extra conditions stated by the verse.
 
-The latent-tendency list is not this chapter. Non-percipient is withdrawn where the attainment is named. The temporal classification of the six is the next verse.
+For maturation cause, the Bhāṣya excludes indeterminate dharmas as too weak and uncontaminated dharmas as unmoistened by craving. It discusses *vipāka* as dissimilar ripening and records a Vaibhāṣika view allowing two uses, then argues that genuine ripening requires a resulting culmination from transformation of a continuum. Its final temporal claim denies maturation together with the karma or immediately after it and says maturation depends on a stream. These stages of the argument remain attributed rather than collapsed into one unqualified definition. The temporal classification of the six causes begins with 2.55.
 
 ## 10. OWL++ Seed
 
@@ -98,5 +157,5 @@ The latent-tendency list is not this chapter. Non-percipient is withdrawn where 
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 
 vak:VAK_2_54 a vak:Karika ; vak:hasTopic vak:PervasiveCause, vak:MaturationCause .
-vak:VipakaMeaning vak:settled false .
+vak:VipakaMeaning vak:hasAttributedDebate true .
 ```

@@ -20,6 +20,8 @@
 > catvāri mahābhūtāny anyonyaṃ sahabhūhetuḥ /
 > cittaṃ cittānuvarttināṃ dharmāṇāṃ te 'pi tasya /
 > saṃskṛtalakṣaṇāni lakṣyasya so 'pi teṣām /
+> evaṃ ca kṛtvā sarvam eva saṃskṛtaṃ sahabhūhetur yathāyogam /
+> vināpi cānyonyaphalatvena dharmo 'nulakṣaṇānāṃ sahabhūhetur na tāni tasyety upasaṃkhyātavyam //
 
 The unit is printed 83.18–83.24 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
 
@@ -33,4 +35,4 @@ Co-arisen is mutual result, not simultaneity. The examples run both ways. Second
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. The followers are next.
+The paired 2.50 Grammar–Logic QA distinguishes reciprocal mutual result from the one-way secondary-mark qualification. The continuous witness now includes that closing qualification from the printed source; spelling defects remain uncollated. The followers are next.

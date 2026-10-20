@@ -23,12 +23,12 @@ The unit is printed 85.08–87.20 in `Vasubandhu/Sources/kosabhasya.txt`. Defect
 
 ## 3. Continuous Conventional Translation
 
-Similar of similar, within the order stated. Own class and own level. Prior-born, of later, arisen or not. Future is not this cause. Never-not-a-cause is the other three. State, not substance. The Path is adventitious, not appropriated, and crosses its nine levels toward the equal or the superior. Faculties and accumulation, not height.
+Similar dharmas are homogeneous causes of similar dharmas: wholesome aggregates of wholesome aggregates, and correspondingly for afflicted and indeterminate dharmas. In the ordinary case they belong to their own class and level. A prior arisen dharma can cause a later one, whether the latter has arisen or has yet to arise; a future dharma is not a homogeneous cause. The Bhāṣya argues about how this differs from maturation cause, whose character is established differently. The Path, adventitious in the nine levels and unappropriated by each level's craving, can be a homogeneous cause across levels. The verse gives equal and superior results; the printed prose at [087|11] says “of the inferior,” although subsequent examples and [087|23] support equal or superior.
 
 ## 4. Interpretation
 
-Homogeneous is similar, own class and level, prior-born. Future is not. Path crosses nine levels, equal or superior only. Not same-class. State, not substance.
+The defining relation joins similarity with temporal priority. The own-class/own-level restriction is expressly scoped to influx-bearing dharmas; Path is its cross-level exception, not an exception to priority. The equal/superior direction is the kārikā's wording. The conflict in the Bhāṣya witness is unresolved and should not be repaired by silently adding a negative.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. The extension is next.
+Grammar and Logic checked against the available source; the continuous Sanskrit witness remains partial and uncollated. The contradictory [087|11] requires collation before a definitive negative claim about an inferior Path result.

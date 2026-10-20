@@ -372,7 +372,7 @@ Finite-model satisfaction checks internal behavior; it does not alone
 establish textual fidelity or infer a causal relation that the passage
 does not state. Run the scoped strict audit:
 
-    python Vasubandhu/Organon/tests/audit_nltk_blocks.py --chapter 2 --start 1 --end 48 --strict
+    python Vasubandhu/Organon/tests/audit_nltk_blocks.py --chapter 2 --start 1 --end 56 --strict
 
 The 2.07 extension resolves the bodily-feeling ellipsis from the Bhāṣya
 and scopes agreeable mental Pleasure-Faculty to the third dhyāna.
@@ -657,6 +657,77 @@ and gives the marks both sentient and non-sentient cases.
 The discussion of dissociated formations closes, not the chapter;
 the following causes-and-conditions question belongs to the transition
 into 2.49, not to this unit's continuous translation.
+
+The 2.49 pass parses the six named cause-types as one closed, truth-valued
+classification. Its separate Bhāṣya theories test the conditioning cause's
+non-obstruction toward what actually arises and the productive efficacy of
+principal examples. Countermodels reject a seventh kind, self-causation,
+universal productive agency, merely possible arising treated as actual,
+and collapsing the six causes into the later four conditions. The verse
+names the six; the Bhāṣya begins defining the first. The 2.50 unit carries
+that definition into the next verse.
+
+The 2.50 pass keeps the carried conditioning-cause definition separate
+from the new reciprocal co-arisen cause. Its verse `SEM` tests mutual result
+for the four Great Elements, consciousness and its follower, and mark and
+marked. The Bhāṣya's secondary-mark qualification is tested separately
+as one-way causality. Countermodels reject mere simultaneity, one-way
+mutual result, unrestricted co-arising among conditioned dharmas, and
+self-conditioning. The paired Bhāṣya witness now includes its final
+secondary-mark passage; textual defects still await collation.
+
+The 2.51 pass parses the follower groups, two restraints, two genitive
+mark relations, and the open instrumental respects. The Bhāṣya expands
+those respects to ten and distinguishes consciousness as cause for 58
+dharmas from 54 dharmas as causes for consciousness; the count of 14 is
+refused. The model tests the wider extent of co-arising and rejects
+mere simultaneity as sufficient for co-arisen causality. The paired
+Bhāṣya translation was clarified; its Sanskrit witness remains partial
+and uncollated.
+
+The 2.52 pass models the ordinary homogeneous cause through similarity,
+own class and level, and priority, then the Path's cross-level equal/superior
+case. Its finite model rejects similarity alone, a future homogeneous cause,
+and loss of Path priority. The Sanskrit witness at [087|11] says “cause of the
+inferior,” contrary to the verse and [087|23]; the conflict is retained for
+collation rather than silently emended. The paired Sanskrit excerpt remains
+partial.
+
+The 2.53 pass carries the equal/superior antecedent into worldly qualities
+produced by application and models associated cause through identical support.
+The paired Bhāṣya now has its own executable Grammar and Logic example:
+its [088|20] support proposition parses once, and finite countermodels test
+the different-continuum objection and the one-way link to co-arisen cause.
+This is a selected-proposition pilot, not yet a full parse of the prose unit.
+
+Run the Bhāṣya pilot with
+
+    python Vasubandhu/Organon/tests/audit_bhasya_nltk_blocks.py --study Vasubandhu/Organon/02-indriya/VAK_2.53_bhasya.md
+
+The 2.54 pass distinguishes the pervasive and maturation causes in the
+verse, then gives the paired Bhāṣya its own selected-proposition Grammar
+and Logic pass. It checks the cross-class explanation, the exclusions of
+indeterminate and uncontaminated causes, and the delayed-continuum account
+without conflating the reported Vaibhāṣika position with the author's reply.
+Run the Bhāṣya pilot with
+
+    python Vasubandhu/Organon/tests/audit_bhasya_nltk_blocks.py --study Vasubandhu/Organon/02-indriya/VAK_2.54_bhasya.md
+
+The 2.55 pass resolves the dual *te* as cause and fruit and corrects the
+study translation and exact Bhāṣya anchor together. The kārikā grammar
+separates temporal classes, fruit membership, and the unconditioned's lack
+of cause and fruit. The paired Bhāṣya pilot parses [091|04] and tests the
+Path's production of acquisition against its bringing one to disconnection;
+entity and absence readings remain attributed. Run it with
+
+    python Vasubandhu/Organon/tests/audit_bhasya_nltk_blocks.py --study Vasubandhu/Organon/02-indriya/VAK_2.55_bhasya.md
+
+The 2.56 pass parses the six principal cause–fruit assignments and tests
+their referents. The paired Bhāṣya pilot parses [095|05–06], where efficacy-
+fruit extends beyond the principal pair except for maturation cause in the
+main reply; a distant-crop alternative remains explicitly attributed. Run
+
+    python Vasubandhu/Organon/tests/audit_bhasya_nltk_blocks.py --study Vasubandhu/Organon/02-indriya/VAK_2.56_bhasya.md
 
 Continue the paired verse-by-verse QA and Grammar–Logic pass first.
 A dedicated later Bhāṣya pass will improve the study sections after
