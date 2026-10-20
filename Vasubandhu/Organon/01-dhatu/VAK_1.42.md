@@ -32,13 +32,9 @@ vijñānaṃ dṛśyate rūpaṃ na kilāntaritaṃ yataḥ // 1.42 //
 | antaritam | antar-√i, past participle; nominative neuter singular | screened: behind a wall |
 | yataḥ | ablative adverb | since: the ground of the exclusion |
 
-*Vijñānam* is nominative, not accusative. With *na tat-āśritam* it names the
-rival agent the verse excludes. *Kila* marks the reason as the Vaibhāṣika
-report; the Bhāṣya's own Sautrāntika voice does not accept it.
+*Vijñānam* is nominative, not accusative. With *na tat-āśritam* it names the rival agent the verse excludes. *Kila* marks the reason as the Vaibhāṣika report; the Bhāṣya's own Sautrāntika voice does not accept it.
 
-**Grammar tokens.** Verse-order IAST with sandhi opened (`sabhāgaṃ` →
-*sabhāgam*, `tadāśritam` → *tat-āśritam*, `kilāntaritaṃ` → *kila
-antaritam*) and compound boundaries marked.
+**Grammar tokens.** Verse-order IAST with sandhi opened (`sabhāgaṃ` → *sabhāgam*, `tadāśritam` → *tat-āśritam*, `kilāntaritaṃ` → *kila antaritam*) and compound boundaries marked.
 
 ```text
 # tokens: cakṣuḥ paśyati rūpāṇi sabhāgam na tat-āśritam vijñānam dṛśyate rūpam na kila antaritam yataḥ
@@ -46,36 +42,27 @@ antaritam*) and compound boundaries marked.
 
 ## 4. Grammar
 
-Two sentences on one root. The first is active: *cakṣuḥ paśyati rūpāṇi*.
-The neuter singular *sabhāgam* agrees with *cakṣuḥ* and restricts it: only
-the eye that does its own work is the agent. The negated phrase *na
-tat-āśritam vijñānam* agrees in the same gender and number and names the
-rival agent. *Tat* takes its reference from the subject, so the rival is
-the Cognition supported by the eye.
+Two sentences on one root. The first is active: *cakṣuḥ paśyati rūpāṇi*. The neuter singular *sabhāgam* agrees with *cakṣuḥ* and restricts it: only the eye that does its own work is the agent. The negated phrase *na tat-āśritam vijñānam* agrees in the same gender and number and names the rival agent. *Tat* takes its reference from the subject, so the rival is the Cognition supported by the eye.
 
-The second sentence is passive, and the grammar requires that *dṛśyate*
-have the same root as *paśyati*. The passive therefore does not introduce a
-new predicate. It quantifies away the agent of the first relation: nothing
-sees a screened Visible Form. *Kila* carries the feature EVID=reported, and
-*yataḥ* makes the passive sentence the ground of the exclusion.
+The second sentence is passive, and the grammar requires that *dṛśyate* have the same root as *paśyati*. The passive therefore does not introduce a new predicate. It quantifies away the agent of the first relation: nothing sees a screened Visible Form. *Kila* carries the feature EVID=reported, and *yataḥ* makes the passive sentence the ground of the exclusion.
 
 ```nltk-fcfg
 % start S
 # tokens: cakṣuḥ paśyati rūpāṇi sabhāgam na tat-āśritam vijñānam dṛśyate rūpam na kila antaritam yataḥ
-S[EVID=?ev,SEM=<(?a & ?g(?rel))>] -> ACT[ROOT=?rt,REL=?rel,SEM=?a] GROUND[ROOT=?rt,EVID=?ev,SEM=?g]
-ACT[ROOT=?rt,REL=?rel,SEM=<(all a.((?s(a) & ?r(a)) -> exists v.(?o(v) & ?rel(a,v))) & all a.all v.(?rel(a,v) -> (?s(a) & ?r(a))) & all c.((?asr(?ref)(c) & ?n(c)) -> -exists v.?rel(c,v)))>] -> NP[CASE=nom,GEN=?g,NUM=?m,REF=?ref,SEM=?s] V[VOICE=act,ROOT=?rt,SEM=?rel] NP[CASE=acc,NUM=pl,SEM=?o] ADJ[GEN=?g,NUM=?m,SEM=?r] NA ASR[GEN=?g,NUM=?m,SEM=?asr] NP[CASE=nom,GEN=?g,NUM=?m,SEM=?n]
-GROUND[ROOT=?rt,EVID=?ev,SEM=<\R.all v.((?o(v) & ?p(v)) -> -exists x.R(x,v))>] -> V[VOICE=pass,ROOT=?rt] NP[CASE=nom,NUM=sg,SEM=?o] NA KILA[EVID=?ev] PART[SEM=?p] YATAH
-NP[CASE=nom,GEN=n,NUM=sg,REF=<eye>,SEM=<\a.InstanceOf(a,eye)>] -> 'cakṣuḥ'
-V[VOICE=act,ROOT=drs,SEM=<\a v.Sees(a,v)>] -> 'paśyati'
-NP[CASE=acc,NUM=pl,SEM=<\v.VisibleForm(v)>] -> 'rūpāṇi'
-ADJ[GEN=n,NUM=sg,SEM=<\a.Sabhaga(a)>] -> 'sabhāgam'
+S[SEM=<(?act & ?ground)>] -> ACT[SEM=?act] GROUND[SEM=?ground]
+ACT[SEM=<all a.((InstanceOf(a,eye) & Sabhaga(a)) -> exists v.(VisibleForm(v) & Sees(a,v))) & all c.((exists a.(InstanceOf(a,eye) & SupportedBy(c,a)) & Cognition(c)) -> -exists v.Sees(c,v))>] -> NP1 V1 NP2 ADJ NA ASR NP3
+NP1 -> 'cakṣuḥ'
+V1 -> 'paśyati'
+NP2 -> 'rūpāṇi'
+ADJ -> 'sabhāgam'
 NA -> 'na'
-ASR[GEN=n,NUM=sg,SEM=<\r c.exists a.(InstanceOf(a,r) & SupportedBy(c,a))>] -> 'tat-āśritam'
-NP[CASE=nom,GEN=n,NUM=sg,SEM=<\c.Cognition(c)>] -> 'vijñānam'
-V[VOICE=pass,ROOT=drs] -> 'dṛśyate'
-NP[CASE=nom,NUM=sg,SEM=<\v.VisibleForm(v)>] -> 'rūpam'
-KILA[EVID=reported] -> 'kila'
-PART[SEM=<\v.Screened(v)>] -> 'antaritam'
+ASR -> 'tat-āśritam'
+NP3 -> 'vijñānam'
+GROUND[SEM=<all v.((VisibleForm(v) & Screened(v)) -> -exists x.Sees(x,v))>] -> V2 NP4 NA KILA PART YATAH
+V2 -> 'dṛśyate'
+NP4 -> 'rūpam'
+KILA -> 'kila'
+PART -> 'antaritam'
 YATAH -> 'yataḥ'
 ```
 
@@ -88,28 +75,21 @@ YATAH -> 'yataḥ'
 'antaritam' -> 'na'
 ```
 
-**Close construe.** The eye sees Visible Forms, the eye that does its own
-work, not the Cognition supported by it; since, it is said, a screened
-Visible Form is not seen.
+**Feature chart checkpoints.** Active spans [0, 7); ground [7, 12); the root spans [0, 12). Two sentences. No claim that Cognition sees is generated by the verse.
 
-The ground is a modus tollens left implicit. Cognition is unresistant, so a
-wall would not stop it; if Cognition saw, the screened would be seen. The
-screened is not seen, so Cognition does not see. The prose theory states
-the missing premise.
+**Close construe.** The eye sees Visible Forms, the eye that does its own work, not the Cognition supported by it; since, it is said, a screened Visible Form is not seen.
+
+The ground is a modus tollens left implicit. Cognition is unresistant, so a wall would not stop it; if Cognition saw, the screened would be seen. The screened is not seen, so Cognition does not see. The prose theory states the missing premise.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The eye sees Visible Forms, the one that does its own work; not the
-> Cognition supported by it. For, it is said, a screened Visible Form is not
-> seen.
+> The eye sees Visible Forms, the one that does its own work; not the Cognition supported by it. For, it is said, a screened Visible Form is not seen.
 
 ### Bhāṣya-informed study translation
 
-> The eye sees Visible Forms when it does its own work; the Cognition
-> supported by it does not see, since, it is said, a Visible Form screened by
-> a wall is not seen.
+> The eye sees Visible Forms when it does its own work; the Cognition supported by it does not see, since, it is said, a Visible Form screened by a wall is not seen.
 
 ## 6. Philosophical Translation
 
@@ -137,48 +117,33 @@ The Sautrāntika refuses the agent. Depending on eye and visibles, visual Cognit
 
 ## 8. Logical Determination
 
-**Kārikā, derived.**
-- Every eye that does its own work sees some Visible Form.
-- Whatever sees is an eye that does its own work.
-- No Cognition supported by an eye sees.
-- On the reported ground, nothing sees a screened Visible Form.
+**Kārikā, derived.** The root SEM states every eye that does its own work sees some Visible Form; no Cognition supported by an eye sees; nothing sees a screened Visible Form. The resistance distinction, the glass exception, the Vibhāṣā definition of "seen", and the rejections of Cognition-sees or Sautrāntika-no-agent are prose or rejected theories.
 
 ```nltk-sem
-# derived by the section 4 parse
-(all a.((InstanceOf(a,eye) & Sabhaga(a)) -> exists v.(VisibleForm(v) & Sees(a,v))) & all a v.(Sees(a,v) -> (InstanceOf(a,eye) & Sabhaga(a))) & all c.((exists a.(InstanceOf(a,eye) & SupportedBy(c,a)) & Cognition(c)) -> -exists v.Sees(c,v)) & all v.((VisibleForm(v) & Screened(v)) -> -exists x.Sees(x,v)))
+act : all a.((InstanceOf(a,eye) & Sabhaga(a)) -> exists v.(VisibleForm(v) & Sees(a,v))) & all c.((exists a.(InstanceOf(a,eye) & SupportedBy(c,a)) & Cognition(c)) -> -exists v.Sees(c,v))
+ground : all v.((VisibleForm(v) & Screened(v)) -> -exists x.Sees(x,v))
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(all a.((InstanceOf(a,eye) & Sabhaga(a)) -> exists v.(VisibleForm(v) & Sees(a,v))) & all a v.(Sees(a,v) -> (InstanceOf(a,eye) & Sabhaga(a))) & all c.((exists a.(InstanceOf(a,eye) & SupportedBy(c,a)) & Cognition(c)) -> -exists v.Sees(c,v)) & all v.((VisibleForm(v) & Screened(v)) -> -exists x.Sees(x,v)))
-# THEORY prose
-# EXPECT prose T
+(all a.((InstanceOf(a,eye) & Sabhaga(a)) -> exists v.(VisibleForm(v) & Sees(a,v))) & all c.((exists a.(InstanceOf(a,eye) & SupportedBy(c,a)) & Cognition(c)) -> -exists v.Sees(c,v)) & all v.((VisibleForm(v) & Screened(v)) -> -exists x.Sees(x,v)))
+
+# THEORY prose_identities
+# EXPECT prose_identities T
 all x.(Cognition(x) -> -Resistant(x))
 all a.(InstanceOf(a,eye) -> Resistant(a))
-all x.((exists v.Sees(x,v)) -> Resistant(x))
-all v.(Screened(v) <-> (Covered(v) & LightBlocked(v)))
 exists g.(g = glass_screened & Covered(g) & -LightBlocked(g) & exists a.Sees(a,g))
-all a.all v.(Sees(a,v) -> exists c.(SupportedBy(c,a) & Experiences(c,v)))
 all v.(Seen(v) <-> exists a.exists c.(Sees(a,v) & Experiences(c,v)))
-exists a.(InstanceOf(a,eye) & -Sabhaga(a) & -exists v.Sees(a,v))
-exists x.(x = body & ReachesByContact(x) & -exists y.(y = eye & ReachesByContact(y)))
-all v.(Seen(v) -> -Cognized(v))
-# THEORY rejected_every_eye_sees
-# EXPECT rejected_every_eye_sees F
-all a.(InstanceOf(a,eye) -> exists v.Sees(a,v))
+
 # THEORY rejected_cognition_sees
 # EXPECT rejected_cognition_sees F
 exists c.exists v.(Cognition(c) & Sees(c,v))
+
 # THEORY rejected_eye_reaches_by_contact
 # EXPECT rejected_eye_reaches_by_contact F
 exists x.(x = eye & ReachesByContact(x))
-# THEORY rejected_any_cover_blocks
-# EXPECT rejected_any_cover_blocks F
-all v.(Covered(v) -> -exists a.Sees(a,v))
-# THEORY rejected_eye_cognizes
-# EXPECT rejected_eye_cognizes F
-exists a.exists v.(InstanceOf(a,eye) & Experiences(a,v))
+
 # THEORY sautrantika_no_agent
 # EXPECT sautrantika_no_agent F
 -exists x.exists v.Sees(x,v)
@@ -186,72 +151,23 @@ exists a.exists v.(InstanceOf(a,eye) & Experiences(a,v))
 
 ```nltk-valuation
 eye => caksur_d
-body => kaya_d
 glass_screened => glass_v
-InstanceOf => {(eye_a,caksur_d),(eye_b,caksur_d),(cog_a,caksurvijnana_d),(moon_v,rupa_d),(wall_v,rupa_d),(glass_v,rupa_d)}
+InstanceOf => {(eye_a,caksur_d),(cog_a,caksurvijnana_d),(moon_v,rupa_d),(wall_v,rupa_d),(glass_v,rupa_d)}
 Sees => {(eye_a,moon_v),(eye_a,glass_v)}
 VisibleForm => {moon_v,wall_v,glass_v}
 Sabhaga => {eye_a,cog_a}
 SupportedBy => {(cog_a,eye_a)}
 Cognition => {cog_a}
-Resistant => {eye_a,eye_b,wall_v}
+Resistant => {eye_a,wall_v}
 Screened => {wall_v}
 Covered => {wall_v,glass_v}
 LightBlocked => {wall_v}
 Experiences => {(cog_a,moon_v),(cog_a,glass_v)}
 Seen => {moon_v,glass_v}
-Cognized => {}
-ReachesByContact => {kaya_d}
+ReachesByContact => {}
 ```
 
-**Model checks.** The verse formula holds.
-- The eye that does its own work sees the moon and the glass-screened form. The *tat-sabhāga* eye sees nothing.
-- The Cognition supported by the eye experiences what the eye sees but does not see.
-- The wall is both a cover and a light-block, so the form behind it is screened and unseen.
-- The glass covers without blocking light, so its form is seen. Being covered is therefore not the reason, and the eye is not a contact-reacher like the body.
-- "Seen" is fixed as what the eye reaches and the Cognition experiences, as the Vibhāṣā has it. The world says "seen", not "cognized".
-- All five rejected theories are false.
-
-The Sautrāntika theory is also false here, because this model is the Kāśmīra one. *Kila* in the verse marks that the author does not commit to it.
-
-**Bhāṣya determination.**
-- *Na vai sarvaṃ cakṣuḥ paśyati … sa-vijñānakaṃ yadā bhavati tadā paśyati*: not every eye sees, only the eye that is with Cognition.
-- *Yatrālokasyāpratibandha āvṛte 'pi rūpe tatropapadyata eva cakṣur-vijñānam*: where light is not blocked, Eye-Cognition arises even toward a covered Visible Form.
-- *Cakṣuḥ-saṃprāptaṃ cakṣur-vijñānānubhūtaṃ dṛṣṭam ity ucyate*: what the eye reaches and Eye-Cognition experiences is called seen.
-- *Nirvyāpāraṃ hīdaṃ dharma-mātraṃ hetu-phala-mātraṃ ca*: the Sautrāntika answer is dharmas only, Ground and Grounded only, without activity.
-
-**Organon interpretation.** The verse puts the agent on the Faculty-side Principle and the experience on Cognition. The Sautrāntika removes the agent and leaves Ground and Grounded. Both readings keep the same triad: eye, Visible Form, Eye-Cognition. They differ only on whether the copula *sees* has a subject. In the grammar that is the voice alternation:
-- the active gives the relation an agent;
-- the passive quantifies the agent away.
-
-```text
-eye sees
-    sabhāga only
-    not the supported Cognition
-
-reason
-    a screened Visible Form is not seen
-    Cognition is unresistant
-
-screen
-    not contact
-    light blocked or not
-
-attribution
-    by the support
-    the beds cry
-
-Sautrāntika
-    no agent
-    dharmas only
-    Ground and Grounded only
-
-Kāśmīra
-    the eye sees
-    mind cognizes
-
-1.43 not opened
-```
+**Model checks.** The verse formula holds. The eye that does its own work sees the moon and the glass-screened form. The Cognition supported by the eye experiences what the eye sees but does not see. The wall is both a cover and a light-block, so the form behind it is screened and unseen. The glass covers without blocking light, so its form is seen. The prose identities are recorded but not derived from the verse tokens.
 
 ## 9. Interpretive Note
 

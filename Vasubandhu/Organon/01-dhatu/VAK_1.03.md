@@ -14,12 +14,7 @@ dharmāṇāṃ pravicayam antareṇa nāsti kleśānāṃ yata upaśāntaye 'bh
 kleśaiś ca bhramati bhavārṇave 'tra lokas taddhetor ata uditaḥ kilaiṣa śāstraḥ // 1.03 //
 ```
 
-The running Sanskrit witness reads `śāstrā` at the end of this verse.
-`Śāstraḥ` above is an editorial conjecture, not a reading established by that
-witness. It fits `uditaḥ` and `eṣaḥ` formally, but `śāstra` is ordinarily
-neuter; the exact ending remains unsettled. The Devanāgarī line reflects the
-same conjecture. The translation conveys the contextual sense without
-claiming that the transmitted ending has been resolved.
+The running Sanskrit witness reads `śāstrā` at the end of this verse. `Śāstraḥ` above is an editorial conjecture, not a reading established by that witness. It fits `uditaḥ` and `eṣaḥ` formally, but `śāstra` is ordinarily neuter; the exact ending remains unsettled. The Devanāgarī line reflects the same conjecture. The translation conveys the contextual sense without claiming that the transmitted ending has been resolved.
 
 ## 3. Lexical Analysis
 
@@ -40,11 +35,7 @@ claiming that the transmitted ending has been resolved.
 | kila | particle | reportedly; according to the received account |
 | eṣaḥ śāstraḥ | nominative singular in the conjectural reading | this treatise; transmitted `śāstrā` remains unsettled |
 
-**Grammar tokens.** Normalized IAST in verse order, including *na asti*,
-*yataḥ*, and *atra* present in the Sanskrit. The compressed lexical
-row *eṣaḥ śāstraḥ* becomes two tokens. `śāstraḥ` retains the displayed
-conjecture, explicitly marked `READING=conjecture`; the grammar does not
-establish it as the transmitted reading. No covert token is needed.
+**Grammar tokens.** Normalized IAST in verse order, including *na asti*, *yataḥ*, and *atra* present in the Sanskrit. The compressed lexical row *eṣaḥ śāstraḥ* becomes two tokens. `śāstraḥ` retains the displayed conjecture, explicitly marked `READING=conjecture`; the grammar does not establish it as the transmitted reading. No covert token is needed.
 
 ```text
 # tokens: dharmāṇām pravicayam antareṇa na asti kleśānām yataḥ upaśāntaye abhyupāyaḥ kleśaiḥ ca bhramati bhavārṇave atra lokaḥ tad-dhetoḥ ataḥ uditaḥ kila eṣaḥ śāstraḥ
@@ -52,41 +43,37 @@ establish it as the transmitted reading. No covert token is needed.
 
 ## 4. Grammar
 
-*Antareṇa* governs the accusative *pravicayam*: without discrimination
-there is no means of pacification. The instrumental *kleśaiḥ* diagnoses
-wandering; *yataḥ*, *tad-dhetoḥ*, and *ataḥ* frame the grounds for teaching.
-*Kila* marks a reported claim, not an unqualified historical assertion.
+*Antareṇa* governs the accusative *pravicayam*: without discrimination there is no means of pacification. The instrumental *kleśaiḥ* diagnoses wandering; *yataḥ*, *tad-dhetoḥ*, and *ataḥ* frame the grounds for teaching. *Kila* marks a reported claim, not an unqualified historical assertion.
 
 ```nltk-fcfg
 % start S
 # tokens: dharmāṇām pravicayam antareṇa na asti kleśānām yataḥ upaśāntaye abhyupāyaḥ kleśaiḥ ca bhramati bhavārṇave atra lokaḥ tad-dhetoḥ ataḥ uditaḥ kila eṣaḥ śāstraḥ
-S[SEM=<?reason(?need)(?wandering)(?report)>] -> NECESSITY[SEM=?need] WANDERING[SEM=?wandering] REASON[SEM=?reason] REPORT[SEM=?report]
-NECESSITY[SEM=<?without(?discriminate)(?neg(?means(?afflictions)(?purpose)))>] -> DISCRIMINATION[CASE=acc,SEM=?discriminate] WITHOUT[GOVERNS=acc,SEM=?without] NEG[SEM=?neg] COPULA[NUM=?n] AFFLICTIONS[CASE=gen,SEM=?afflictions] PTCL[K=because] PURPOSE[CASE=dat,SEM=?purpose] MEANS[CASE=nom,NUM=?n,GEN=m,SEM=?means]
-DISCRIMINATION[CASE=?c,SEM=<?verb(?dharmas)>] -> DHARMAS[CASE=gen,SEM=?dharmas] DISCRIM[CASE=?c,SEM=?verb]
-WANDERING[SEM=<?verb(?cause)(?place)(?world)>] -> CAUSE[CASE=ins,SEM=?cause] PTCL[K=and] WANDER[NUM=?n,PERS=third,TENSE=present,SEM=?verb] PLACE[CASE=loc,SEM=?place] PTCL[K=here] WORLD[CASE=nom,NUM=?n,SEM=?world]
-REASON[SEM=?reason] -> REASONHEAD[SEM=?reason] PTCL[K=therefore]
-REPORT[SEM=<?report(?taught(?work))>] -> TAUGHT[CASE=nom,NUM=?n,GEN=?g,SEM=?taught] REPORTER[SEM=?report] DEM[CASE=nom,NUM=?n,GEN=?g] WORK[CASE=nom,NUM=?n,GEN=?g,READING=conjecture,SEM=?work]
-DHARMAS[CASE=gen,SEM=<dharmas>] -> 'dharmāṇām'
-DISCRIM[CASE=acc,SEM=<\d.\x.Discriminates(x,d)>] -> 'pravicayam'
-WITHOUT[GOVERNS=acc,SEM=<\D.\M.all x.(-D(x) -> M(x))>] -> 'antareṇa'
-NEG[SEM=<\P.\x.-P(x)>] -> 'na'
-COPULA[NUM=sg,TENSE=present] -> 'asti'
-AFFLICTIONS[CASE=gen,SEM=<afflictions>] -> 'kleśānām'
-PTCL[K=because] -> 'yataḥ'
-PURPOSE[CASE=dat,SEM=<pacification>] -> 'upaśāntaye'
-MEANS[CASE=nom,NUM=sg,GEN=m,SEM=<\a.\p.\x.HasMeansFor(x,p,a)>] -> 'abhyupāyaḥ'
-CAUSE[CASE=ins,SEM=<afflictions>] -> 'kleśaiḥ'
-PTCL[K=and] -> 'ca'
-WANDER[NUM=sg,PERS=third,TENSE=present,SEM=<\c.\p.\w.WandersThrough(w,c,p)>] -> 'bhramati'
-PLACE[CASE=loc,SEM=<becoming_ocean>] -> 'bhavārṇave'
-PTCL[K=here] -> 'atra'
-WORLD[CASE=nom,NUM=sg,SEM=<world>] -> 'lokaḥ'
-REASONHEAD[SEM=<\P.\Q.\R.(P & Q & R)>] -> 'tad-dhetoḥ'
-PTCL[K=therefore] -> 'ataḥ'
-TAUGHT[CASE=nom,NUM=sg,GEN=m,VOICE=passive,SEM=<\w.\r.ReportsTaught(r,w)>] -> 'uditaḥ'
-REPORTER[SEM=<\P.(ReceivedReport(teaching_report) & P(teaching_report))>] -> 'kila'
-DEM[CASE=nom,NUM=sg,GEN=m] -> 'eṣaḥ'
-WORK[CASE=nom,NUM=sg,GEN=m,READING=conjecture,SEM=<treatise>] -> 'śāstraḥ'
+S[SEM=<(?need & ?wander & ?reason & ?report)>] -> NEED[SEM=?need] WANDER[SEM=?wander] REASON[SEM=?reason] REPORT[SEM=?report]
+NEED[SEM=<all x.(-Discriminates(x,dharmas) -> -HasMeansFor(x,pacification,afflictions))>] -> DHARMAS[CASE=gen] DISCRIM[CASE=acc] WITHOUT[GOVERNS=acc] NEG COPULA AFFLICTIONS[CASE=gen] BECAUSE PURPOSE[CASE=dat] MEANS[CASE=nom]
+DHARMAS[CASE=gen] -> 'dharmāṇām'
+DISCRIM[CASE=acc] -> 'pravicayam'
+WITHOUT[GOVERNS=acc] -> 'antareṇa'
+NEG -> 'na'
+COPULA -> 'asti'
+AFFLICTIONS[CASE=gen] -> 'kleśānām'
+BECAUSE -> 'yataḥ'
+PURPOSE[CASE=dat] -> 'upaśāntaye'
+MEANS[CASE=nom] -> 'abhyupāyaḥ'
+WANDER[SEM=<WandersThrough(world,afflictions,becoming_ocean)>] -> CAUSE[CASE=ins] AND WANDER_V[TENSE=present] PLACE[CASE=loc] HERE WORLD[CASE=nom]
+CAUSE[CASE=ins] -> 'kleśaiḥ'
+AND -> 'ca'
+WANDER_V[TENSE=present] -> 'bhramati'
+PLACE[CASE=loc] -> 'bhavārṇave'
+HERE -> 'atra'
+WORLD[CASE=nom] -> 'lokaḥ'
+REASON[SEM=<ForThatReason(need,wander)>] -> REASON_HEAD THEREFORE
+REASON_HEAD -> 'tad-dhetoḥ'
+THEREFORE -> 'ataḥ'
+REPORT[SEM=<(ReceivedReport(teaching_report) & ReportsTaught(teaching_report,treatise))>] -> TAUGHT[CASE=nom] KILA DEM[CASE=nom] WORK[CASE=nom,READING=conjecture]
+TAUGHT[CASE=nom] -> 'uditaḥ'
+KILA -> 'kila'
+DEM[CASE=nom] -> 'eṣaḥ'
+WORK[CASE=nom,READING=conjecture] -> 'śāstraḥ'
 ```
 
 ```nltk-dep
@@ -99,35 +86,23 @@ WORK[CASE=nom,NUM=sg,GEN=m,READING=conjecture,SEM=<treatise>] -> 'śāstraḥ'
 'śāstraḥ' -> 'eṣaḥ'
 ```
 
-**Close construe.** Without discrimination of dharmas there is no means
-for pacifying afflictions; through afflictions the world wanders here in
-the ocean of becoming. For that reason this treatise is reportedly taught.
+**Feature chart checkpoints.** Necessity span is [0, 9); wandering span [9, 15); reason span [15, 17); report span [17, 21); the root spans [0, 21). The negation is inside the restriction supplied by *antareṇa*. *Kila* marks a received report, not an unqualified assertion. The conjectural reading of *śāstraḥ* is marked; the grammar does not establish the transmitted ending.
 
-The negation is inside the restriction supplied by *antareṇa*, not a denial
-that any means exists. The reason-connectives organize the argument; their pragmatic
-force is not an inference rule proving that a teaching event occurred.
-The agreement with conjectural *śāstraḥ* tests the displayed construal,
-not the unresolved transmitted ending *śāstrā*.
+**Close construe.** Without discrimination of dharmas there is no means for pacifying afflictions; through afflictions the world wanders here in the ocean of becoming. For that reason this treatise is reportedly taught.
 
-The Bhāṣya adds instruction as the disciple's required mediation and
-attributes the account of dispersed teaching and its collection by
-Kātyāyanīputra and others to the Vaibhāṣikas. Neither attribution is
-silently inserted into the verse's semantics.
+The negation is inside the restriction supplied by *antareṇa*, not a denial that any means exists. The reason-connectives organize the argument; their pragmatic force is not an inference rule proving that a teaching event occurred. The agreement with conjectural *śāstraḥ* tests the displayed construal, not the unresolved transmitted ending *śāstrā*.
+
+The Bhāṣya adds instruction as the disciple's required mediation and attributes the account of dispersed teaching and its collection by Kātyāyanīputra and others to the Vaibhāṣikas. Neither attribution is silently inserted into the verse's semantics.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Since without discrimination of dharmas there is no means for the
-> pacification of the afflictions, and since through the afflictions the
-> world wanders here in the ocean of becoming, for that reason this treatise
-> is said to have been taught.
+> Since without discrimination of dharmas there is no means for the pacification of the afflictions, and since through the afflictions the world wanders here in the ocean of becoming, for that reason this treatise is said to have been taught.
 
 ### Bhāṣya-informed study translation
 
-> Without discrimination of dharmas, there is no means to pacify the
-> afflictions; through the afflictions, the world wanders in this ocean of
-> becoming. For this reason, this treatise is said to have been taught.
+> Without discrimination of dharmas, there is no means to pacify the afflictions; through the afflictions, the world wanders in this ocean of becoming. For this reason, this treatise is said to have been taught.
 
 ## 6. Philosophical Translation
 
@@ -151,20 +126,36 @@ Organon rendering:
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** Here `x` ranges over possible possessors of the
-capacity and means. The absent discrimination excludes means to
-pacification; discrimination alone is not asserted sufficient.
-`ReportsTaught` keeps the teaching inside a received report.
+**Kārikā, derived.** The root SEM states the necessity claim, the wandering claim, the reason connective, and the reported teaching. The absent discrimination excludes means to pacification; discrimination alone is not asserted sufficient. `ReportsTaught` keeps the teaching inside a received report. The Bhāṣya's instruction step and the Vaibhāṣika collection account are prose elaborations.
 
 ```nltk-sem
-# derived by the section 4 parse
-((all x.(-Discriminates(x,dharmas) -> -HasMeansFor(x,pacification,afflictions))) & WandersThrough(world,afflictions,becoming_ocean) & (ReceivedReport(teaching_report) & ReportsTaught(teaching_report,treatise)))
+need : all x.(-Discriminates(x,dharmas) -> -HasMeansFor(x,pacification,afflictions))
+wander : WandersThrough(world,afflictions,becoming_ocean)
+reason : ForThatReason(need,wander)
+report : (ReceivedReport(teaching_report) & ReportsTaught(teaching_report,treatise))
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-((all x.(-Discriminates(x,dharmas) -> -HasMeansFor(x,pacification,afflictions))) & WandersThrough(world,afflictions,becoming_ocean) & (ReceivedReport(teaching_report) & ReportsTaught(teaching_report,treatise)))
+((all x.(-Discriminates(x,dharmas) -> -HasMeansFor(x,pacification,afflictions))) & WandersThrough(world,afflictions,becoming_ocean) & ForThatReason(need,wander) & (ReceivedReport(teaching_report) & ReportsTaught(teaching_report,treatise)))
+
+# THEORY prose_identities
+# EXPECT prose_identities T
+RequiresInstruction(disciple,discrimination)
+IsVaibhasikaAccount(dispersed_teaching_and_collection)
+
+# THEORY rejected_discrimination_sufficient
+# EXPECT rejected_discrimination_sufficient F
+all x.(Discriminates(x,dharmas) -> HasMeansFor(x,pacification,afflictions))
+
+# THEORY rejected_means_without_discrimination
+# EXPECT rejected_means_without_discrimination F
+exists x.(-Discriminates(x,dharmas) & HasMeansFor(x,pacification,afflictions))
+
+# THEORY rejected_report_is_fact
+# EXPECT rejected_report_is_fact F
+AssertedAsFact(teaching_event)
 ```
 
 ```nltk-valuation
@@ -175,23 +166,26 @@ world => beings
 becoming_ocean => ocean
 teaching_report => report
 treatise => work
+need => need_claim
+wander => wander_claim
+disciple => disciple
+discrimination => discrimination
+dispersed_teaching_and_collection => collection_account
+teaching_event => event
 Discriminates => {(disciple,dharmas),(learner,dharmas)}
 HasMeansFor => {(disciple,pacification,afflictions)}
 WandersThrough => {(beings,afflictions,ocean)}
+ForThatReason => {(need_claim,wander_claim)}
 ReceivedReport => {report}
 ReportsTaught => {(report,work)}
+RequiresInstruction => {(disciple,discrimination)}
+IsVaibhasikaAccount => {collection_account}
+AssertedAsFact => {}
 ```
 
-**Model checks.** The disciple discriminates and has means; the learner
-discriminates without yet having means. Thus the model rejects the
-converse, which would make discrimination sufficient. Adding a means
-for someone without discrimination must falsify the verse formula.
-A report's truth in this model does not assert the reported event as fact.
+**Model checks.** The disciple discriminates and has means; the learner discriminates without yet having means. Thus the model rejects the converse, which would make discrimination sufficient. Adding a means for someone without discrimination must falsify the verse formula. A report's truth in this model does not assert the reported event as fact. The prose identities (instruction, Vaibhāṣika account) are recorded but not derived from the verse tokens.
 
-**Bhāṣya determination and Organon interpretation.** The following
-pedagogical sequence retains the earlier analysis; its instruction step
-comes from the commentary. It is not a chain of material implications
-derived from the verse's token stream.
+**Bhāṣya determination and Organon interpretation.** The following pedagogical sequence retains the earlier analysis; its instruction step comes from the commentary. It is not a chain of material implications derived from the verse's token stream.
 
 ```text
 kleśa → wandering in becoming
