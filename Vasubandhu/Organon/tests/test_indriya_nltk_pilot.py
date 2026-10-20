@@ -35,9 +35,16 @@ class IndriyaPilotTests(unittest.TestCase):
 
     def test_count_features_reject_wrong_readings(self):
         changes = (
-            (1, "GROUP[CASE=gen,NUM=pl,CNT=4,SEM=<other_four>]",
-             "GROUP[CASE=gen,NUM=pl,CNT=5,SEM=<other_four>]"),
-            (2, "NUM[CNT=6,FIVE=", "NUM[CNT=5,FIVE="),
+            (1, "OTHER_FOUR[CASE=gen,NUM=pl,CNT=4] -> 'caturṇām'",
+             "OTHER_FOUR[CASE=gen,NUM=pl,CNT=5] -> 'caturṇām'"),
+            (1, "FIELDS[CASE=loc,NUM=du,ORDER=defilement_purification] ->",
+             "FIELDS[CASE=loc,NUM=du,ORDER=purification_defilement] ->"),
+            (2, "SIX_NUM[CNT=6] -> 'ṣaṭ'",
+             "SIX_NUM[CNT=5] -> 'ṣaṭ'"),
+            (2, "ALL[CASE=gen,SCOPE=all_meanings] -> 'sarvasya'",
+             "ALL[CASE=gen,SCOPE=own_meanings] -> 'sarvasya'"),
+            (2, "SEXDUAL[CASE=nom,NUM=du,ORDER=female_male] ->",
+             "SEXDUAL[CASE=nom,NUM=du,ORDER=male_female] ->"),
             (3, "NUM[CNT=5] -> 'pañca'", "NUM[CNT=3] -> 'pañca'"),
         )
         for number, old, new in changes:
@@ -84,9 +91,13 @@ class IndriyaPilotTests(unittest.TestCase):
         model = Model(valuation.domain, valuation)
         self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
 
-        marker = "REASON[CASE=abl,ALT=other_account,SEM=?reason]"
+        marker = "REASON[CASE=abl,ALT=other_account,ORDER=first_second_third,SEM=?reason]"
         self.assertIn(marker, text)
-        altered = text.replace(marker, "REASON[CASE=abl,ALT=open_list,SEM=?reason]", 1)
+        altered = text.replace(marker, "REASON[CASE=abl,ALT=open_list,ORDER=first_second_third,SEM=?reason]", 1)
+        grammar, tokens = grammar_and_tokens(altered)
+        self.assertEqual(list(FeatureChartParser(grammar).parse(tokens)), [])
+
+        altered = text.replace(marker, "REASON[CASE=abl,ALT=other_account,ORDER=third_second_first,SEM=?reason]", 1)
         grammar, tokens = grammar_and_tokens(altered)
         self.assertEqual(list(FeatureChartParser(grammar).parse(tokens)), [])
 
@@ -123,6 +134,12 @@ class IndriyaPilotTests(unittest.TestCase):
         grammar, tokens = grammar_and_tokens(altered)
         self.assertEqual(list(FeatureChartParser(grammar).parse(tokens)), [])
 
+        marker = "LIMIT[SCOPE=here,SEM="
+        self.assertIn(marker, text)
+        altered = text.replace("YAVATA[DIRECTION=forward] TAVAT[DIRECTION=return]", "YAVATA[DIRECTION=return] TAVAT[DIRECTION=forward]", 1)
+        grammar, tokens = grammar_and_tokens(altered)
+        self.assertEqual(list(FeatureChartParser(grammar).parse(tokens)), [])
+
     def test_2_06_parallel_courses_and_fourteen_count(self):
         text = study(6)
         grammar, tokens = grammar_and_tokens(text)
@@ -139,10 +156,36 @@ class IndriyaPilotTests(unittest.TestCase):
         model = Model(valuation.domain, valuation)
         self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
 
-        changed = text.replace("CNT=14,SEM=?count]", "CNT=8,SEM=?count]", 1)
+        changed = text.replace("FOURTEEN[CASE=nom,NUM=pl,GEN=n,CNT=14]", "FOURTEEN[CASE=nom,NUM=pl,GEN=n,CNT=8]", 1)
         self.assertNotEqual(changed, text)
         grammar, tokens = grammar_and_tokens(changed)
         self.assertEqual(list(FeatureChartParser(grammar).parse(tokens)), [])
+
+        changed = text.replace("WITHDRAWCOURSE[PARALLEL=four_roles,SEM=?withdraw]", "WITHDRAWCOURSE[PARALLEL=other_roles,SEM=?withdraw]", 1)
+        self.assertNotEqual(changed, text)
+        grammar, tokens = grammar_and_tokens(changed)
+        self.assertEqual(list(FeatureChartParser(grammar).parse(tokens)), [])
+
+    def test_2_07_agreeable_reference_and_third_dhyana_scope(self):
+        text = study(7)
+        grammar, tokens = grammar_and_tokens(text)
+        verse = list(FeatureChartParser(grammar).parse(tokens))[0].label()["SEM"].simplify()
+        blocks = dict(BLOCK.findall(section(text, 8)))
+        valuation = load_valuation(blocks["nltk-valuation"])
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+
+        marker = "THAT[CASE=nom,NUM=sg,GEN=f,REF=?r,SEM=?tone]"
+        self.assertIn(marker, text)
+        altered = text.replace(marker, "THAT[CASE=nom,NUM=sg,GEN=f,REF=other_feeling,SEM=?tone]", 1)
+        grammar, tokens = grammar_and_tokens(altered)
+        self.assertEqual(list(FeatureChartParser(grammar).parse(tokens)), [])
+
+        valuation["AtLevel"] = valuation["AtLevel"] | {
+            ("other_mental_pleasure_event", "third_level")
+        }
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
 
     def test_2_08_scope_neutral_modes_and_classification(self):
         text = study(8)
@@ -227,6 +270,8 @@ class IndriyaPilotTests(unittest.TestCase):
              "NINE[CNT=8,REF=nine_types,SEM=<"),
             ("AMALA[CASE=nom,NUM=sg,GEN=n,SEM=<",
              "AMALA[CASE=nom,NUM=pl,GEN=n,SEM=<"),
+            ("EITHER[REF=?r,SEM=?either]",
+             "EITHER[REF=other_nine,SEM=?either]"),
         ):
             with self.subTest(feature=old):
                 self.assertIn(old, text)
@@ -261,6 +306,9 @@ class IndriyaPilotTests(unittest.TestCase):
         )
         self.assertNotIn(("concentration_life_event",), valuation["IsMaturation"])
         self.assertIn(("concentration_life_event",), valuation["LifeInstance"])
+        self.assertIn(("life",), valuation["CanBeNonMaturation"])
+        self.assertNotIn(("life",), valuation["TwelveType"])
+        self.assertTrue(valuation["NeverMaturation"] <= valuation["CanBeNonMaturation"])
         self.assertIn(("distress",), valuation["CanProduce"])
         self.assertNotIn(("distress",), valuation["CanBeMaturation"])
         self.assertIn(("mind",), valuation["CanProduce"])
@@ -303,6 +351,14 @@ class IndriyaPilotTests(unittest.TestCase):
         )
         self.assertEqual(len(valuation["PreviousTenType"]), 10)
         self.assertNotEqual(valuation["PreviousTenType"], groups[0])
+        self.assertEqual(
+            valuation["PreviousTenType"],
+            valuation["ThreefoldType"] | valuation["FaithGroup"],
+        )
+        self.assertEqual(
+            valuation["WholesomeEightType"],
+            valuation["FaithGroup"] | valuation["RealizationFaculty"],
+        )
         for predicate in ("CanBeWholesome", "CanBeUnwholesome", "CanBeIndeterminate"):
             self.assertIn(("neutral",), valuation[predicate])
         self.assertIn(("distress",), valuation["CanBeWholesome"])
@@ -369,6 +425,10 @@ class IndriyaPilotTests(unittest.TestCase):
             ("PAINFUL[CASE=acc,NUM=du,CNT=2,SEM=<",
              "PAINFUL[CASE=loc,NUM=sg,CNT=2,SEM=<"),
             ("STAINLESS[CASE=acc,SEM=<", "STAINLESS[CASE=nom,SEM=<"),
+            ("FORMCLAUSE[INHERITED=?d,EXCLUDED=?f,SEM=?form]",
+             "FORMCLAUSE[INHERITED=other_exclusion,EXCLUDED=?f,SEM=?form]"),
+            ("FORMLESS[INHERITED=?f,SEM=?formless]",
+             "FORMLESS[INHERITED=other_exclusion,SEM=?formless]"),
         ):
             with self.subTest(feature=old):
                 self.assertIn(old, text)

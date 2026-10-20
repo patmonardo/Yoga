@@ -80,8 +80,9 @@ ONEFOLD[SEM=<\g.EthicalOptions(g,one)>] -> 'ekadhā'
 'anyat' -> 'ekadhā'
 ```
 
-The dependency block records vocabulary coverage only; the opening
-compound is not syntactically a member-list for the eight.
+The dependency block records vocabulary coverage only. The opening
+compound closes the preceding ten; its membership is checked in a
+separate prose theory, not read as the wholesome eight.
 
 | Span | Constituent | Result |
 |---|---|---|
@@ -131,7 +132,9 @@ compound is not syntactically a member-list for the eight.
 enumeration, not the wholesome eight. The verse gives one explicit
 quality and three counts of alternatives. The prose fixes the contents
 of each range; possibilities across instances are not simultaneous
-qualities of an instance.
+qualities of an instance. `CompletesPreviousTen` marks the verse
+boundary, while the Bhāṣya resolves the carried and new groups in
+separate FOL theories.
 
 ```nltk-sem
 wholesome_group : \g.WholesomeOnly(g)
@@ -144,8 +147,15 @@ previous_enumeration : CompletesPreviousTen
 # EXPECT verse T
 (CompletesPreviousTen & GroupCount(wholesome_eight,eight) & WholesomeOnly(wholesome_eight) & EthicalOptions(distress_f,two) & EthicalOptions(mind_f,three) & EthicalOptions(other_feelings,three) & OtherFeelingExcludesDistress & EthicalOptions(remainder,one))
 
-# THEORY prose
-# EXPECT prose T
+# THEORY prose_carried_ten
+# EXPECT prose_carried_ten T
+all x.(PreviousTenType(x) <-> (ThreefoldType(x) | FaithGroup(x)))
+all x.(ThreefoldType(x) <-> ((x = mind_f) | OtherFeelingType(x)))
+all x.(OtherFeelingType(x) -> -(x = distress_f))
+
+# THEORY prose_ethical_ranges
+# EXPECT prose_ethical_ranges T
+all x.(WholesomeEightType(x) <-> (FaithGroup(x) | RealizationFaculty(x)))
 all x.(WholesomeEightType(x) -> (CanBeWholesome(x) & -CanBeUnwholesome(x) & -CanBeIndeterminate(x)))
 (CanBeWholesome(distress_f) & CanBeUnwholesome(distress_f) & -CanBeIndeterminate(distress_f))
 all x.(ThreefoldType(x) -> (CanBeWholesome(x) & CanBeUnwholesome(x) & CanBeIndeterminate(x)))
@@ -185,6 +195,8 @@ ThreefoldType => {mind,pain,pleasure,gladness,neutral}
 OtherFeelingType => {pain,pleasure,gladness,neutral}
 RemainderType => {eye,ear,nose,tongue,body,female,male,life}
 PreviousTenType => {mind,pain,pleasure,gladness,neutral,faith,vigor,mindfulness,concentration,comprehension}
+FaithGroup => {faith,vigor,mindfulness,concentration,comprehension}
+RealizationFaculty => {shall_know,knowledge,one_who_has_known}
 CanBeWholesome => {faith,vigor,mindfulness,concentration,comprehension,shall_know,knowledge,one_who_has_known,distress,mind,pain,pleasure,gladness,neutral}
 CanBeUnwholesome => {distress,mind,pain,pleasure,gladness,neutral}
 CanBeIndeterminate => {mind,pain,pleasure,gladness,neutral,eye,ear,nose,tongue,body,female,male,life}
@@ -192,7 +204,9 @@ CanBeIndeterminate => {mind,pain,pleasure,gladness,neutral,eye,ear,nose,tongue,b
 
 The four disjoint groups contain 8 + 1 + 5 + 8 = 22 Faculty-types.
 The carried ten contain Mind, the four other feelings, and the five
-beginning with faith; they are not either of this verse's eights.
+beginning with faith. The wholesome eight combine that faith-group
+with the three realization Faculties. They share five members, but
+they are different enumerations.
 The model records permitted ethical ranges, not conditions sufficient
 to make a particular occurrence wholesome.
 

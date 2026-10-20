@@ -42,25 +42,26 @@ verse's token stream.
 
 ## 4. Grammar
 
-The genitives assign the two courses. The ablative compound supplies
-four ordered functional places for engagement, and *tathā* applies
-that same pattern to withdrawal. *Anyāni* distinguishes the second
-group; *vā* marks the whole arrangement as another opinion. The verse
-speaks fourteen and “the others,” while the Bhāṣya determines the
-latter as eight. The grammar records the two groups without silently
-putting the numeral eight into the Sanskrit.
+The first genitive assigns engagement to the four ordered functions
+named by the ablative compound. *Caturdaśa* counts that first group.
+*Tathā* carries the same four-place pattern to the distinct withdrawal
+group; *vā* marks the arrangement as another opinion. The verse calls
+the second group “the others”; its eight-member count belongs to the
+Bhāṣya theory below.
 
 ```nltk-fcfg
 % start S
 # tokens: pravṛtteḥ āśraya-utpatti-sthiti-pratyupabhogataḥ caturdaśa tathā anyāni nivṛtteḥ indriyāṇi vā
-S[SEM=<(?roles(?eng) & ?count(?eng) & ?same(?roles)(?withdraw) & ?other(?withdraw)(?eng) & ?fac(?eng)(?withdraw) & ?alt)>] -> ENG[CASE=gen,SEM=?eng] ROLES[CASE=abl,SEM=?roles] FOURTEEN[CASE=nom,NUM=pl,GEN=n,CNT=14,SEM=?count] SAME[SEM=?same] OTHER[CASE=nom,NUM=pl,GEN=n,SEM=?other] WITHDRAW[CASE=gen,SEM=?withdraw] FACULTIES[CASE=nom,NUM=pl,GEN=n,SEM=?fac] OR[ALT=opinion,SEM=?alt]
-ENG[CASE=gen,SEM=<engagement>] -> 'pravṛtteḥ'
-ROLES[CASE=abl,SEM=<\c.(BasisSlot(c) & ArisingSlot(c) & PersistenceSlot(c) & ExperienceSlot(c))>] -> 'āśraya-utpatti-sthiti-pratyupabhogataḥ'
-FOURTEEN[CASE=nom,NUM=pl,GEN=n,CNT=14,SEM=<\c.GroupCount(c,fourteen)>] -> 'caturdaśa'
-SAME[SEM=<\R.\c.R(c)>] -> 'tathā'
-OTHER[CASE=nom,NUM=pl,GEN=n,SEM=<\c.\e.OtherGroup(c,e)>] -> 'anyāni'
-WITHDRAW[CASE=gen,SEM=<withdrawal>] -> 'nivṛtteḥ'
-FACULTIES[CASE=nom,NUM=pl,GEN=n,SEM=<\e.\w.(FacultyGroup(e) & FacultyGroup(w))>] -> 'indriyāṇi'
+S[SEM=<(?eng & ?withdraw & ?alt)>] -> ENGCOURSE[ORDER=four_roles,SEM=?eng] SAME[PARALLEL=four_roles] WITHDRAWCOURSE[PARALLEL=four_roles,SEM=?withdraw] OR[ALT=opinion,SEM=?alt]
+ENGCOURSE[ORDER=four_roles,SEM=<(BasisSlot(engagement) & ArisingSlot(engagement) & PersistenceSlot(engagement) & ExperienceSlot(engagement) & GroupCount(engagement,fourteen) & FacultyGroup(engagement))>] -> ENG[CASE=gen] ROLES[CASE=abl,ORDER=four_roles] FOURTEEN[CASE=nom,NUM=pl,GEN=n,CNT=14]
+WITHDRAWCOURSE[PARALLEL=four_roles,SEM=<(BasisSlot(withdrawal) & ArisingSlot(withdrawal) & PersistenceSlot(withdrawal) & ExperienceSlot(withdrawal) & OtherGroup(withdrawal,engagement) & FacultyGroup(withdrawal))>] -> OTHER[CASE=nom,NUM=pl,GEN=n,GROUP=distinct] WITHDRAW[CASE=gen] FACULTIES[CASE=nom,NUM=pl,GEN=n]
+ENG[CASE=gen] -> 'pravṛtteḥ'
+ROLES[CASE=abl,ORDER=four_roles] -> 'āśraya-utpatti-sthiti-pratyupabhogataḥ'
+FOURTEEN[CASE=nom,NUM=pl,GEN=n,CNT=14] -> 'caturdaśa'
+SAME[PARALLEL=four_roles] -> 'tathā'
+OTHER[CASE=nom,NUM=pl,GEN=n,GROUP=distinct] -> 'anyāni'
+WITHDRAW[CASE=gen] -> 'nivṛtteḥ'
+FACULTIES[CASE=nom,NUM=pl,GEN=n] -> 'indriyāṇi'
 OR[ALT=opinion,SEM=<AlternativeOpinion>] -> 'vā'
 ```
 
@@ -68,18 +69,11 @@ OR[ALT=opinion,SEM=<AlternativeOpinion>] -> 'vā'
 'indriyāṇi' -> 'pravṛtteḥ' | 'āśraya-utpatti-sthiti-pratyupabhogataḥ' | 'caturdaśa' | 'tathā' | 'anyāni' | 'nivṛtteḥ' | 'vā'
 ```
 
-**Feature chart checkpoints.** The eight-token parse retains the
-genitive course distinction, the ablative role compound, the
-fourteen-count feature, and the alternative-opinion marker.
-
-| Span | Constituent | Result |
-|---|---|---|
-| [0, 1) | `ENG` | engagement course |
-| [1, 2) | `ROLES` | four ordered functional places |
-| [2, 3) | `FOURTEEN` | fourteen-member first group |
-| [3, 4) | `SAME` | transfer of the four places |
-| [4, 6) | `OTHER WITHDRAW` | distinct withdrawal group |
-| [0, 8) | `S` | two course assignments under an alternative opinion |
+**Feature chart checkpoints.** Eight tokens yield one root:
+`ENGCOURSE` [0, 3), `SAME` [3, 4), `WITHDRAWCOURSE` [4, 7), and
+`OR` [7, 8). `ORDER` and `PARALLEL` link the four functions without
+making the two groups identical. `CNT=14` belongs to *caturdaśa*;
+`ALT=opinion` belongs to *vā*.
 
 ## 5. Translation
 
@@ -113,28 +107,25 @@ fourteen-count feature, and the alternative-opinion marker.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The SEM applies the four places first to
-engagement and then, through *tathā*, to withdrawal. It asserts the
-fourteen-member first group, the distinct other group, and the
-alternative-opinion marker. The Bhāṣya supplies the second group's
-eight members and the concrete distribution below; those are prose
-premises, not a hidden numeral in the verse parse. `BasisSlot` and
-`BasisFor` express *āśraya*, not *ālambana*.
+**Kārikā, derived.** The root `SEM` gives both groups the four
+functional places, counts fourteen in engagement, distinguishes the
+other group, and retains the alternative-opinion marker. The Bhāṣya
+supplies the second group's eight members and the concrete distribution
+below. `BasisSlot` and `BasisFor` express *āśraya*, not *ālambana*.
 
 ```nltk-sem
-four_places : \c.(BasisSlot(c) & ArisingSlot(c) & PersistenceSlot(c) & ExperienceSlot(c))
-same_four : \R.\c.R(c)
-fourteen_group : \c.GroupCount(c,fourteen)
+engagement_course : BasisSlot(engagement) & ArisingSlot(engagement) & PersistenceSlot(engagement) & ExperienceSlot(engagement) & GroupCount(engagement,fourteen) & FacultyGroup(engagement)
+withdrawal_course : BasisSlot(withdrawal) & ArisingSlot(withdrawal) & PersistenceSlot(withdrawal) & ExperienceSlot(withdrawal) & OtherGroup(withdrawal,engagement) & FacultyGroup(withdrawal)
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(BasisSlot(engagement) & ArisingSlot(engagement) & PersistenceSlot(engagement) & ExperienceSlot(engagement) & GroupCount(engagement,fourteen) & BasisSlot(withdrawal) & ArisingSlot(withdrawal) & PersistenceSlot(withdrawal) & ExperienceSlot(withdrawal) & OtherGroup(withdrawal,engagement) & FacultyGroup(engagement) & FacultyGroup(withdrawal) & AlternativeOpinion)
+(BasisSlot(engagement) & ArisingSlot(engagement) & PersistenceSlot(engagement) & ExperienceSlot(engagement) & GroupCount(engagement,fourteen) & FacultyGroup(engagement)) & (BasisSlot(withdrawal) & ArisingSlot(withdrawal) & PersistenceSlot(withdrawal) & ExperienceSlot(withdrawal) & OtherGroup(withdrawal,engagement) & FacultyGroup(withdrawal)) & AlternativeOpinion
 
 # THEORY prose_distribution
 # EXPECT prose_distribution T
-(GroupCount(withdrawal,eight) & FacultyGroup(withdrawal))
+GroupCount(withdrawal,eight) & FacultyGroup(withdrawal)
 all x.(EngagementFaculty(x) -> (BasisFor(x,engagement) | ArisingFor(x,engagement) | PersistsFor(x,engagement) | ExperiencesFor(x,engagement)))
 all x.((BasisFor(x,engagement) | ArisingFor(x,engagement) | PersistsFor(x,engagement) | ExperiencesFor(x,engagement)) -> EngagementFaculty(x))
 all x.(WithdrawalFaculty(x) -> (BasisFor(x,withdrawal) | ArisingFor(x,withdrawal) | PersistsFor(x,withdrawal) | ExperiencesFor(x,withdrawal)))
@@ -142,7 +133,7 @@ all x.((BasisFor(x,withdrawal) | ArisingFor(x,withdrawal) | PersistsFor(x,withdr
 all x.(EngagementFaculty(x) -> -WithdrawalFaculty(x))
 all x.(FacultyHere(x) -> (EngagementFaculty(x) | WithdrawalFaculty(x)))
 all x.((EngagementFaculty(x) | WithdrawalFaculty(x)) -> FacultyHere(x))
-(NeedsTraining(speech) & ActWithoutMember(taking,hand) & PleasureDueTo(genital_pleasure,female_f))
+NeedsTraining(speech) & ActWithoutMember(taking,hand) & PleasureDueTo(genital_pleasure,female_f)
 
 # THEORY rejected_all_causes_are_faculties
 # EXPECT rejected_all_causes_are_faculties F

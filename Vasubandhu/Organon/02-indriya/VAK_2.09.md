@@ -44,7 +44,7 @@ the verse stream.
 
 The locative compound distributes the three designations over three Paths.
 The first nine and final nine resume the same types, under different
-questions. The singular collective triad takes a singular predicate;
+questions. `REF=nine_types` unifies that cross-clause reference. The singular collective triad takes a singular predicate;
 the coordinated Form, life, and painful pair take a plural predicate.
 The Bhāṣya determines the seven Form Faculties and the membership of
 the nine; these are not numerals expressed in the verse.
@@ -52,11 +52,11 @@ the nine; these are not numerals expressed in the verse.
 ```nltk-fcfg
 % start S
 # tokens: dṛg-bhāvanā-aśaikṣa-pathe nava trīṇi amalam trayam rūpīṇi jīvitam duḥkhe sāsravāṇi dvidhā nava
-S[SEM=<(?paths & ?stainless & ?outflow & ?either)>] -> PATHS[SEM=?paths] STAINLESS[SEM=?stainless] OUTFLOW[SEM=?outflow] EITHER[SEM=?either]
-PATHS[SEM=<(?path(nine_group,triad) & ?nine(nine_group) & ?three(triad))>] -> PATH[CASE=loc,SEM=?path] NINE[CNT=9,REF=nine_types,SEM=?nine] THREE[CASE=nom,NUM=pl,GEN=n,CNT=3,SEM=?three]
+S[SEM=<(?paths & ?stainless & ?outflow & ?either)>] -> PATHS[REF=?r,SEM=?paths] STAINLESS[SEM=?stainless] OUTFLOW[SEM=?outflow] EITHER[REF=?r,SEM=?either]
+PATHS[REF=?r,SEM=<(?path(nine_group,triad) & ?nine(nine_group) & ?three(triad))>] -> PATH[CASE=loc,SEM=?path] NINE[CNT=9,REF=?r,SEM=?nine] THREE[CASE=nom,NUM=pl,GEN=n,CNT=3,SEM=?three]
 STAINLESS[SEM=<?status(?group)>] -> AMALA[CASE=nom,NUM=sg,GEN=n,SEM=?status] TRIAD[CASE=nom,NUM=sg,GEN=n,SEM=?group]
 OUTFLOW[SEM=<(?status(?form) & ?status(?life) & ?status(?painful))>] -> FORM[CASE=nom,NUM=pl,GEN=n,SEM=?form] LIFE[CASE=nom,NUM=sg,GEN=n,SEM=?life] PAIR[CASE=nom,NUM=du,GEN=n,CNT=2,SEM=?painful] WITH[CASE=nom,NUM=pl,GEN=n,SEM=?status]
-EITHER[SEM=<(?both(nine_group) & ?nine(nine_group))>] -> TWOFOLD[SEM=?both] NINE[CNT=9,REF=nine_types,SEM=?nine]
+EITHER[REF=?r,SEM=<(?both(nine_group) & ?nine(nine_group))>] -> TWOFOLD[SEM=?both] NINE[CNT=9,REF=?r,SEM=?nine]
 PATH[CASE=loc,SEM=<\g.\t.PathDesignations(g,t)>] -> 'dṛg-bhāvanā-aśaikṣa-pathe'
 NINE[CNT=9,REF=nine_types,SEM=<\g.GroupCount(g,nine)>] -> 'nava'
 THREE[CASE=nom,NUM=pl,GEN=n,CNT=3,SEM=<\g.GroupCount(g,three)>] -> 'trīṇi'
@@ -82,7 +82,7 @@ TWOFOLD[SEM=<\g.EitherStatus(g)>] -> 'dvidhā'
 | [3, 5) | `STAINLESS` | the triad exclusively without outflows |
 | [5, 9) | `OUTFLOW` | Form group, life, and painful pair with outflows |
 | [9, 11) | `EITHER` | the same nine types admit either status |
-| [0, 11) | `S` | Path-designation and outflow-classification kept distinct |
+| [0, 11) | `S` | shared nine-type referent across distinct Path and outflow questions |
 
 ## 5. Translation
 
@@ -126,6 +126,8 @@ TWOFOLD[SEM=<\g.EitherStatus(g)>] -> 'dvidhā'
 **Kārikā, derived.** The verse assigns group-level statuses and counts;
 the Bhāṣya supplies the members and ordered Path-names. Twofold concerns
 the possibilities of a type, not two simultaneous statuses of one instance.
+The shared `REF` feature prevents the two *nava* clauses from silently
+shifting to different groups.
 
 ```nltk-sem
 path_designations : \g.\t.PathDesignations(g,t)
@@ -146,6 +148,18 @@ all x.(NineType(x) <-> (CanHaveOutflows(x) & CanBeWithoutOutflows(x)))
 all x.(RealizationFaculty(x) -> WithoutOutflowsOnly(x))
 all x.(FormFaculty(x) -> WithOutflowsOnly(x))
 (WithOutflowsOnly(life_f) & WithOutflowsOnly(pain_f) & WithOutflowsOnly(distress_f))
+
+# THEORY prose_instance_status
+# EXPECT prose_instance_status T
+NineType(mind_type) & CanHaveOutflows(mind_type) & CanBeWithoutOutflows(mind_type)
+InstanceOf(mind_with,mind_type) & InstanceOf(mind_without,mind_type)
+WithOutflowsInstance(mind_with) & WithoutOutflowsInstance(mind_without)
+all i.(WithOutflowsInstance(i) -> -WithoutOutflowsInstance(i))
+all i.(WithoutOutflowsInstance(i) -> -WithOutflowsInstance(i))
+
+# THEORY rejected_simultaneous_status
+# EXPECT rejected_simultaneous_status F
+exists i.(WithOutflowsInstance(i) & WithoutOutflowsInstance(i))
 
 # THEORY rejected_faith_exclusively_without_outflows
 # EXPECT rejected_faith_exclusively_without_outflows F
@@ -180,6 +194,9 @@ third_f => one_who_has_known
 life_f => life
 pain_f => pain
 distress_f => distress
+mind_type => mind
+mind_with => mind_with_event
+mind_without => mind_without_event
 PathDesignations => {(nine_types,realization_triad)}
 GroupCount => {(nine_types,count_nine),(realization_triad,count_three),(seven_form_types,count_seven),(life_type,count_one),(pain_distress_types,count_two)}
 WithoutOutflowsOnly => {realization_triad,shall_know,knowledge,one_who_has_known}
@@ -192,10 +209,15 @@ CanBeWithoutOutflows => {mind,pleasure,gladness,neutral,faith,vigor,mindfulness,
 FaithGroup => {faith,vigor,mindfulness,concentration,comprehension}
 RealizationFaculty => {shall_know,knowledge,one_who_has_known}
 FormFaculty => {eye,ear,nose,tongue,body,female,male}
+InstanceOf => {(mind_with_event,mind),(mind_without_event,mind)}
+WithOutflowsInstance => {mind_with_event}
+WithoutOutflowsInstance => {mind_without_event}
 ```
 
 The three type-sets contain 3, 10, and 9 distinct Faculty-names, totaling
-22; group and count labels are not additional Faculties. Count predicates
+22; group and count labels are not additional Faculties. Two sample
+instances of Mind witness the two possibilities, while the disjoint
+instance predicates reject their simultaneous attribution to one event. Count predicates
 record the numerals, so their agreement with set cardinalities requires
 separate tests. Nine types are not nine factors co-present in every
 Path-event. This finite model does not prove the scriptural rebuttal;

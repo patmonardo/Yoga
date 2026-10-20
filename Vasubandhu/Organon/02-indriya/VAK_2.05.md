@@ -57,7 +57,7 @@ use of *indriya* in all contexts.
 # tokens: citta-āśrayaḥ tad-vikalpaḥ sthitiḥ saṃkleśaḥ eva ca saṃbhāraḥ vyavadānam ca yāvatā tāvat indriyam
 S[SEM=<?limit(?roles)>] -> ROSTER[SEM=?roles] LIMIT[SEM=?limit]
 ROSTER[SEM=<\x.(?a(x) | ?b(x) | ?c(x) | ?d(x) | ?e(x) | ?f(x))>] -> BASIS[CASE=nom,REF=?r,SEM=?a] DIFF[CASE=nom,REF=?r,SEM=?b] STAY[CASE=nom,SEM=?c] DEFILE[CASE=nom,FOCUS=?focus,SEM=?d] EVA[FOCUS=?focus] CA EQUIP[CASE=nom,SEM=?e] PURIFY[CASE=nom,SEM=?f] CA
-LIMIT[SEM=<\P.(?extent(?faculty)(P) & ?return(?faculty)(P))>] -> YAVATA[SEM=?extent] TAVAT[SEM=?return] INDRIYAM[CASE=nom,NUM=sg,GEN=n,SEM=?faculty]
+LIMIT[SCOPE=here,SEM=<\P.(all x.(FacultyHere(x) -> P(x)) & all x.(P(x) -> FacultyHere(x)))>] -> YAVATA[DIRECTION=forward] TAVAT[DIRECTION=return] INDRIYAM[CASE=nom,NUM=sg,GEN=n,SCOPE=here]
 BASIS[CASE=nom,REF=basis_six,SEM=<\x.BasisOfConsciousness(x)>] -> 'citta-āśrayaḥ'
 DIFF[CASE=nom,REF=basis_six,SEM=<\x.Differentiates(x,basis_six)>] -> 'tad-vikalpaḥ'
 STAY[CASE=nom,SEM=<\x.Sustains(x,basis_six)>] -> 'sthitiḥ'
@@ -66,9 +66,9 @@ EVA[FOCUS=defilement] -> 'eva'
 CA -> 'ca'
 EQUIP[CASE=nom,SEM=<\x.EquipsPurification(x)>] -> 'saṃbhāraḥ'
 PURIFY[CASE=nom,SEM=<\x.Purifies(x)>] -> 'vyavadānam'
-YAVATA[SEM=<\F.\P.all x.(F(x) -> P(x))>] -> 'yāvatā'
-TAVAT[SEM=<\F.\P.all x.(P(x) -> F(x))>] -> 'tāvat'
-INDRIYAM[CASE=nom,NUM=sg,GEN=n,SEM=<\x.FacultyHere(x)>] -> 'indriyam'
+YAVATA[DIRECTION=forward] -> 'yāvatā'
+TAVAT[DIRECTION=return] -> 'tāvat'
+INDRIYAM[CASE=nom,NUM=sg,GEN=n,SCOPE=here] -> 'indriyam'
 ```
 
 ```nltk-dep
@@ -79,8 +79,9 @@ INDRIYAM[CASE=nom,NUM=sg,GEN=n,SEM=<\x.FacultyHere(x)>] -> 'indriyam'
 
 **Feature chart checkpoints.** The normalized stream has twelve
 tokens. The shared `REF=basis_six` connects *tad* with its antecedent;
-`FOCUS=defilement` constrains *eva*. The correlative's two lambda
-functions compose the two extent directions.
+`FOCUS=defilement` constrains *eva*. The correlative contributes both
+directions of the local extent at `LIMIT`; neither direction is merely
+a prose inference.
 
 | Span | Constituent | Result |
 |---|---|---|
@@ -124,7 +125,7 @@ functions compose the two extent directions.
 ## 8. Logical Determination
 
 **Kārikā, derived.** The parse composes the six roles into one
-predicate, then applies the two sides of *yāvatā ... tāvat* to the
+predicate, then applies both sides of *yāvatā ... tāvat* to the
 locally scoped `FacultyHere`. This is an extent claim for the
 Bhāṣya's intended enumeration, not a definition that every governing
 power in every context must satisfy these six roles. The `Basis`
@@ -132,8 +133,7 @@ relation belongs to *āśraya*; no *ālambana* relation is introduced.
 
 ```nltk-sem
 roles : \x.(BasisOfConsciousness(x) | Differentiates(x,basis_six) | Sustains(x,basis_six) | Defiles(x,basis_six) | EquipsPurification(x) | Purifies(x))
-forward_extent : \F.\P.all x.(F(x) -> P(x))
-return_extent : \F.\P.all x.(P(x) -> F(x))
+limit : \P.(all x.(FacultyHere(x) -> P(x)) & all x.(P(x) -> FacultyHere(x)))
 ```
 
 ```nltk-fol
@@ -141,12 +141,16 @@ return_extent : \F.\P.all x.(P(x) -> F(x))
 # EXPECT verse T
 (all x.(FacultyHere(x) -> (BasisOfConsciousness(x) | Differentiates(x,basis_six) | Sustains(x,basis_six) | Defiles(x,basis_six) | EquipsPurification(x) | Purifies(x))) & all x.((BasisOfConsciousness(x) | Differentiates(x,basis_six) | Sustains(x,basis_six) | Defiles(x,basis_six) | EquipsPurification(x) | Purifies(x)) -> FacultyHere(x)))
 
-# THEORY prose
-# EXPECT prose T
+# THEORY objection_efficacy
+# EXPECT objection_efficacy T
+Governs(ignorance,formations) & Governs(speech,speaking) & Governs(hand,taking) & Governs(foot,moving) & Governs(anus,excretion) & Governs(genital_action_power,pleasure_act)
+
+# THEORY reply_exclusion
+# EXPECT reply_exclusion T
 all x.(ProposedActionPower(x) -> -FacultyHere(x))
 all x.(IgnoranceOrOther(x) -> -FacultyHere(x))
 exists x y.(Governs(x,y) & -FacultyHere(x))
-(FacultyHere(female_faculty) & FacultyHere(male_faculty) & -FacultyHere(genital_action_power))
+FacultyHere(female_faculty) & FacultyHere(male_faculty) & -FacultyHere(genital_action_power)
 
 # THEORY rejected_governance_suffices
 # EXPECT rejected_governance_suffices F
@@ -161,9 +165,9 @@ all x.(ProposedActionPower(x) -> FacultyHere(x))
 all x.((x = genital_action_power) -> (x = female_faculty | x = male_faculty))
 ```
 
-The prose theory accepts the objection's premise: ignorance and the
-proposed action powers exercise governing efficacy in their respective
-fields. It tests the reply's scope restriction rather than denying
+The objection theory retains the efficacy of ignorance and the five
+proposed action powers in their stated fields. The reply theory rejects
+their supplementary inclusion in this enumeration without denying
 those causal relations. The final countermodel keeps the genital
 action organ proposed for pleasure distinct from the female and male
 Faculties that govern sexed differentiation in 2.02.
@@ -173,6 +177,17 @@ basis_six => sixfold_basis
 female_faculty => female_f
 male_faculty => male_f
 genital_action_power => genital_power
+ignorance => ignorance
+formations => formations
+speech => speech
+speaking => speaking
+hand => hand
+taking => taking
+foot => foot
+moving => moving
+anus => anus
+excretion => excretion
+pleasure_act => pleasure_act
 BasisOfConsciousness => {eye,ear,nose,tongue,body,mind}
 Differentiates => {(female_f,sixfold_basis),(male_f,sixfold_basis)}
 Sustains => {(life,sixfold_basis)}

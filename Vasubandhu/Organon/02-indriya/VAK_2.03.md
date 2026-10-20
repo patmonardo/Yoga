@@ -43,27 +43,27 @@ Bhāṣya, not the verse, specifies five beginning with faith.
 
 ## 4. Grammar
 
-The initial ablative *ādhipatyataḥ* gives the reason for the Faculty
-predication. Its compound lists three governed fields in order. The
-following nominatives list three bearers in corresponding order. The
-grammar's curried `CAUSE` composes those two triples, rather than
-assuming that all three groups govern all three fields. *Pañca* counts
-*vedanāḥ* alone. The singular predicate *indriyam* distributes across
-the subjects; plural *matāḥ* agrees with their coordination and marks
-the classification as held.
+The initial causal ablative gives three governed fields in order:
+class-persistence, defilement, purification. The second line gives their
+three bearer groups in the same order. The grammar unifies those orders
+and makes the three governing relations explicit. *Pañca* counts only
+*vedanāḥ*. Singular *indriyam* predicates Faculty distributively;
+plural *matāḥ* agrees with the coordinated subjects and marks the
+classification as held.
 
 ```nltk-fcfg
 % start S
 # tokens: nikāya-sthiti-saṃkleśa-vyavadāna-ādhipatyataḥ jīvitam vedanāḥ pañca śraddhā-ādyāḥ ca indriyam matāḥ
-S[SEM=<(?cause(?life)(?feel)(?faith) & (?fac(?life) & (all x.(?feel(x) -> ?fac(x)) & all x.(?faith(x) -> ?fac(x)))))>] -> CAUSE[CASE=abl,SEM=?cause] LIFE[CASE=nom,NUM=sg,GEN=n,SEM=?life] FEELGROUP[CASE=nom,NUM=pl,GEN=f,CNT=5,SEM=?feel] FAITH[CASE=nom,NUM=pl,SEM=?faith] CA FAC[CASE=nom,NUM=sg,GEN=n,SEM=?fac] HELD[NUM=pl,EVID=held]
-FEELGROUP[CASE=?c,NUM=?n,GEN=?g,CNT=?k,SEM=?feel] -> FEEL[CASE=?c,NUM=?n,GEN=?g,CNT=?k,SEM=?feel] NUM[CNT=?k]
-CAUSE[CASE=abl,SEM=<\l.\P.\Q.(Governs(l,class_persistence) & all x.(P(x) -> Governs(x,defilement)) & all x.(Q(x) -> Governs(x,purification)))>] -> 'nikāya-sthiti-saṃkleśa-vyavadāna-ādhipatyataḥ'
-LIFE[CASE=nom,NUM=sg,GEN=n,SEM=<life_faculty>] -> 'jīvitam'
-FEEL[CASE=nom,NUM=pl,GEN=f,CNT=5,SEM=<\x.FeelingFaculty(x)>] -> 'vedanāḥ'
+S[SEM=<(?fields & ?faculties)>] -> FIELDS[CASE=abl,ORDER=life_feeling_faith,SEM=?fields] GROUPS[ORDER=life_feeling_faith,SEM=?faculties]
+FIELDS[CASE=abl,ORDER=life_feeling_faith,SEM=<(Governs(life_faculty,class_persistence) & all x.(FeelingFaculty(x) -> Governs(x,defilement)) & all x.(FaithSeriesFaculty(x) -> Governs(x,purification)))>] -> 'nikāya-sthiti-saṃkleśa-vyavadāna-ādhipatyataḥ'
+GROUPS[ORDER=life_feeling_faith,SEM=<(Faculty(life_faculty) & all x.(FeelingFaculty(x) -> Faculty(x)) & all x.(FaithSeriesFaculty(x) -> Faculty(x)))>] -> LIFE[CASE=nom,NUM=sg,GEN=n] FEELGROUP[CASE=nom,NUM=pl,GEN=f,CNT=5] FAITH[CASE=nom,NUM=pl] CA FAC[CASE=nom,NUM=sg,GEN=n,DISTRIBUTIVE=true] HELD[NUM=pl,EVID=held]
+LIFE[CASE=nom,NUM=sg,GEN=n] -> 'jīvitam'
+FEELGROUP[CASE=nom,NUM=pl,GEN=f,CNT=5] -> FEEL[CASE=nom,NUM=pl,GEN=f] NUM[CNT=5]
+FEEL[CASE=nom,NUM=pl,GEN=f] -> 'vedanāḥ'
 NUM[CNT=5] -> 'pañca'
-FAITH[CASE=nom,NUM=pl,SEM=<\x.FaithSeriesFaculty(x)>] -> 'śraddhā-ādyāḥ'
+FAITH[CASE=nom,NUM=pl] -> 'śraddhā-ādyāḥ'
 CA -> 'ca'
-FAC[CASE=nom,NUM=sg,GEN=n,SEM=<\x.Faculty(x)>] -> 'indriyam'
+FAC[CASE=nom,NUM=sg,GEN=n,DISTRIBUTIVE=true] -> 'indriyam'
 HELD[NUM=pl,EVID=held] -> 'matāḥ'
 ```
 
@@ -73,20 +73,13 @@ HELD[NUM=pl,EVID=held] -> 'matāḥ'
 'śraddhā-ādyāḥ' -> 'ca'
 ```
 
-**Feature chart checkpoints.** The half-open spans index eight tokens.
-The entire verse is one coordinated predication, so the chart's
-intermediate states are the progressively completed subject and
-predicate sequence. `CNT=5` must unify only at *vedanāḥ pañca*;
-`EVID=held` remains a voice marker outside the truth conditions.
-
-| Span | Constituent | Result |
-|---|---|---|
-| [2, 4) | feeling group and numeral | five feeling Faculties |
-| [0, 8) | `S` | three ordered governing relations and distributed Faculty predication |
-
-The dependency block records local heads. The pairing of the three
-fields with the three subjects is Bhāṣya-supported; case and linear
-order alone do not prove that distribution.
+**Feature chart checkpoints.** The eight tokens form `FIELDS` [0, 1),
+`GROUPS` [1, 8), and one root [0, 8). The `ORDER` feature links the
+field triple to its bearer triple; changing it or the numeral's count
+blocks the parse. `DISTRIBUTIVE=true` records the singular class noun's
+force, while `EVID=held` records *matāḥ* outside the truth conditions.
+The Bhāṣya confirms the ordered distribution; token order alone does
+not establish it.
 
 ## 5. Translation
 
@@ -127,31 +120,36 @@ order alone do not prove that distribution.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The ablative compound supplies a function from
-three bearers to three fields. The parser applies it to life, the five
-feelings, and those beginning with faith, in that order. The resulting
-`SEM` predicates Faculty of life and of each member of the two plural
-groups. This does not identify the feeling with the affliction it can
-occasion, or the checking of an affliction with its abandonment.
+**Kārikā, derived.** The root `SEM` assigns life to class-persistence,
+each feeling Faculty to defilement, and each member of the faith-series
+to purification. It also predicates Faculty of each bearer. The
+Bhāṣya specifies three feeling tones and two coordinated operations of
+the five beginning with faith. Those specifications are separate
+theories; neither feeling nor checking is identified with what it can
+occasion or prepare.
 
 ```nltk-sem
-fields : \l.\P.\Q.(Governs(l,class_persistence) & all x.(P(x) -> Governs(x,defilement)) & all x.(Q(x) -> Governs(x,purification)))
-feelings : \x.FeelingFaculty(x)
-faith_series : \x.FaithSeriesFaculty(x)
-faculty : \x.Faculty(x)
+fields : Governs(life_faculty,class_persistence) & all x.(FeelingFaculty(x) -> Governs(x,defilement)) & all x.(FaithSeriesFaculty(x) -> Governs(x,purification))
+faculties : Faculty(life_faculty) & all x.(FeelingFaculty(x) -> Faculty(x)) & all x.(FaithSeriesFaculty(x) -> Faculty(x))
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-((Governs(life_faculty,class_persistence) & all x.(FeelingFaculty(x) -> Governs(x,defilement)) & all x.(FaithSeriesFaculty(x) -> Governs(x,purification))) & (Faculty(life_faculty) & (all x.(FeelingFaculty(x) -> Faculty(x)) & all x.(FaithSeriesFaculty(x) -> Faculty(x)))))
+(Governs(life_faculty,class_persistence) & all x.(FeelingFaculty(x) -> Governs(x,defilement)) & all x.(FaithSeriesFaculty(x) -> Governs(x,purification))) & (Faculty(life_faculty) & all x.(FeelingFaculty(x) -> Faculty(x)) & all x.(FaithSeriesFaculty(x) -> Faculty(x)))
 
-# THEORY prose
-# EXPECT prose T
+# THEORY prose_three_tones
+# EXPECT prose_three_tones T
 all x.(FeelingFaculty(x) -> exists t.(FeelingTone(t) & ToneOf(x,t)))
+LatentIn(attachment,pleasant_tone) & LatentIn(aversion,painful_tone) & LatentIn(ignorance,neutral_tone)
+
+# THEORY prose_purification_operations
+# EXPECT prose_purification_operations T
 all x.(FaithSeriesFaculty(x) -> (Faculty(x) & Governs(x,purification)))
-(LatentIn(attachment,pleasant_tone) & LatentIn(aversion,painful_tone) & LatentIn(ignorance,neutral_tone))
-(ChecksAfflictions(faith_group) & DrawsPathForward(faith_group))
+ChecksAfflictions(faith_group) & DrawsPathForward(faith_group)
+
+# THEORY prose_feeling_not_affliction
+# EXPECT prose_feeling_not_affliction T
 all x.(FeelingFaculty(x) -> -Affliction(x))
 
 # THEORY rejected_feeling_is_affliction
@@ -167,12 +165,13 @@ all x.(ChecksAfflictions(x) -> AbandonsAfflictions(x))
 all x.(Governs(x,class_persistence) -> CreatesClass(x))
 ```
 
-The first prose formula maps the five feeling Faculties into the three
-tones named by the cited sūtra. *Anuśete* is represented by `LatentIn`,
-not by identity or by a universal production claim. The two predicates
-of the faith-group keep checking the afflictions and bringing the Path
-forward coordinated. They do not impose a sequence or attribute a
-separate operation to each of the five.
+The Bhāṣya's cited sūtra relates attachment, aversion, and ignorance
+to pleasant, painful, and neutral feeling by *anuśete*; `LatentIn`
+records that relation without asserting identity or production. The
+five beginning with faith both check afflictions and bring the Path
+forward; the source gives no order between those operations. The false
+theories test three specific mistakes: feeling as affliction, checking
+as final abandonment, and class-persistence as creation.
 
 ```nltk-valuation
 life_faculty => life_d
@@ -200,12 +199,11 @@ AbandonsAfflictions => {}
 CreatesClass => {}
 ```
 
-The valuation has five feeling Faculties, three tones, and five members
-of the faith-series. The verse states the first five-count; the prose
-supplies the faith-count and the tone classification. A finite model
-tests these relations but cannot establish that its roster exhausts all
-historical cases. The remaining three of the eight mentioned in 2.01
-belong to 2.04.
+The finite valuation has five feeling Faculties, three tones, and five
+members of the faith-series. The verse explicitly counts feelings;
+the Bhāṣya specifies the faith count and the cited three-tone scheme.
+The model witnesses these claims without proving exhaustive membership.
+The other three of the eight mentioned in 2.01 enter at 2.04.
 
 ## 9. Interpretive Note
 

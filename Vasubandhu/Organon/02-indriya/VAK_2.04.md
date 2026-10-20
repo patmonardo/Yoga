@@ -40,42 +40,33 @@ is inserted.
 
 ## 4. Grammar
 
-The first two neuter singular names abbreviate faculties; the third
-contains *indriyam* overtly. The Bhāṣya states that *tathā* distributes
-Facultyhood to each. The causal ablative answers why they are counted:
-the compound orders successive attainment, nirvāṇa, and *ādi*. The
-Bhāṣya's first explanation resolves the first two as governing
-attainment of the next Faculty and the third as governing
-*parinirvāṇa*. The verse itself says *nirvāṇa*, which the grammar keeps.
-The *ādi* feature records that another explanation follows, rather
-than fabricating an unspecified fourth member of the sequence.
+The three names are neuter singular Faculty designations. *Tathā*
+distributes Facultyhood to each; the causal ablative assigns the first
+two to successive attainments and the third to *nirvāṇa*. The Bhāṣya
+confirms that distribution. `ALT=other_account` records the force of
+*ādi*, which introduces another explanation of the same three rather
+than a fourth Faculty or destination.
 
 ```nltk-fcfg
 % start S
 # tokens: ājñāsyāmi-ākhyam ājñā-ākhyam ājñātāvi-indriyam tathā uttarottara-saṃprāpti-nirvāṇa-ādi-ādhipatyataḥ
-S[SEM=<(?each(?f)(?s)(?t) & ?reason(?f)(?s)(?t))>] -> FIRST[CASE=nom,NUM=sg,GEN=n,SEM=?f] SECOND[CASE=nom,NUM=sg,GEN=n,SEM=?s] THIRD[CASE=nom,NUM=sg,GEN=n,SEM=?t] TATHA[DISTR=each,SEM=?each] REASON[CASE=abl,ALT=other_account,SEM=?reason]
-FIRST[CASE=nom,NUM=sg,GEN=n,SEM=<shall_know_faculty>] -> 'ājñāsyāmi-ākhyam'
-SECOND[CASE=nom,NUM=sg,GEN=n,SEM=<knowledge_faculty>] -> 'ājñā-ākhyam'
-THIRD[CASE=nom,NUM=sg,GEN=n,SEM=<has_known_faculty>] -> 'ājñātāvi-indriyam'
-TATHA[DISTR=each,SEM=<\f.\s.\t.(Faculty(f) & Faculty(s) & Faculty(t))>] -> 'tathā'
-REASON[CASE=abl,ALT=other_account,SEM=<\f.\s.\t.(GovernsAttainmentOf(f,s) & GovernsAttainmentOf(s,t) & Governs(t,nirvana))>] -> 'uttarottara-saṃprāpti-nirvāṇa-ādi-ādhipatyataḥ'
+S[SEM=<(?each & ?reason)>] -> FIRST[CASE=nom,NUM=sg,GEN=n,ROLE=first] SECOND[CASE=nom,NUM=sg,GEN=n,ROLE=second] THIRD[CASE=nom,NUM=sg,GEN=n,ROLE=third] TATHA[DISTR=each,SEM=?each] REASON[CASE=abl,ALT=other_account,ORDER=first_second_third,SEM=?reason]
+FIRST[CASE=nom,NUM=sg,GEN=n,ROLE=first] -> 'ājñāsyāmi-ākhyam'
+SECOND[CASE=nom,NUM=sg,GEN=n,ROLE=second] -> 'ājñā-ākhyam'
+THIRD[CASE=nom,NUM=sg,GEN=n,ROLE=third] -> 'ājñātāvi-indriyam'
+TATHA[DISTR=each,SEM=<(Faculty(shall_know_faculty) & Faculty(knowledge_faculty) & Faculty(has_known_faculty))>] -> 'tathā'
+REASON[CASE=abl,ALT=other_account,ORDER=first_second_third,SEM=<(GovernsAttainmentOf(shall_know_faculty,knowledge_faculty) & GovernsAttainmentOf(knowledge_faculty,has_known_faculty) & Governs(has_known_faculty,nirvana))>] -> 'uttarottara-saṃprāpti-nirvāṇa-ādi-ādhipatyataḥ'
 ```
 
 ```nltk-dep
 'uttarottara-saṃprāpti-nirvāṇa-ādi-ādhipatyataḥ' -> 'ājñāsyāmi-ākhyam' | 'ājñā-ākhyam' | 'ājñātāvi-indriyam' | 'tathā'
 ```
 
-**Feature chart checkpoints.** The five-token parse composes three
-named Faculties with a distributed Faculty predicate and an ordered
-governing relation. `ALT=other_account` belongs to the final compound's
-*ādi*; it does not add a fourth Faculty or a new verse claim.
-
-| Span | Constituent | Result |
-|---|---|---|
-| [0, 1) | `FIRST` | the Faculty named “I shall know” |
-| [1, 2) | `SECOND` | the Faculty named “knowledge” |
-| [2, 3) | `THIRD` | the Faculty of one who has known |
-| [0, 5) | `S` | three Faculty predications and the ordered attainment–nirvāṇa sequence |
+**Feature chart checkpoints.** The five tokens yield one root. The
+three `ROLE` features keep the named positions distinct; `DISTR=each`
+marks the scope of *tathā*. The causal compound carries the ordered
+first explanation, while `ALT=other_account` points to the separate
+Bhāṣya theory below. No unspoken Faculty or attainment token is added.
 
 ## 5. Translation
 
@@ -115,20 +106,21 @@ governing relation. `ALT=other_account` belongs to the final compound's
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The first two named Faculties govern attainment
-of the next in the sequence; the third governs *nirvāṇa*. *Tathā*
-distributes Facultyhood to all three. The parse does not turn the
-names into tenses of one act, or treat *ādi* as a fourth destination.
+**Kārikā, derived.** The parse predicates Faculty of each named item,
+assigns the first two to attainment of their respective successors,
+and assigns the third to *nirvāṇa*. This ordered distribution is
+Bhāṣya-informed. It neither adds a fourth Faculty nor identifies the
+verse's *nirvāṇa* with the prose's *parinirvāṇa*.
 
 ```nltk-sem
-each : \f.\s.\t.(Faculty(f) & Faculty(s) & Faculty(t))
-reason : \f.\s.\t.(GovernsAttainmentOf(f,s) & GovernsAttainmentOf(s,t) & Governs(t,nirvana))
+each : Faculty(shall_know_faculty) & Faculty(knowledge_faculty) & Faculty(has_known_faculty)
+reason : GovernsAttainmentOf(shall_know_faculty,knowledge_faculty) & GovernsAttainmentOf(knowledge_faculty,has_known_faculty) & Governs(has_known_faculty,nirvana)
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(Faculty(shall_know_faculty) & Faculty(knowledge_faculty) & Faculty(has_known_faculty) & GovernsAttainmentOf(shall_know_faculty,knowledge_faculty) & GovernsAttainmentOf(knowledge_faculty,has_known_faculty) & Governs(has_known_faculty,nirvana))
+(Faculty(shall_know_faculty) & Faculty(knowledge_faculty) & Faculty(has_known_faculty)) & (GovernsAttainmentOf(shall_know_faculty,knowledge_faculty) & GovernsAttainmentOf(knowledge_faculty,has_known_faculty) & Governs(has_known_faculty,nirvana))
 
 # THEORY first_account_prose
 # EXPECT first_account_prose T
@@ -137,7 +129,7 @@ all p.(Parinirvanes(p) -> LiberatedMind(p))
 
 # THEORY other_account_prose
 # EXPECT other_account_prose T
-(Governs(shall_know_faculty,abandonment_by_seeing) & Governs(knowledge_faculty,abandonment_by_cultivation) & Governs(has_known_faculty,present_pleasant_abiding))
+Governs(shall_know_faculty,abandonment_by_seeing) & Governs(knowledge_faculty,abandonment_by_cultivation) & Governs(has_known_faculty,present_pleasant_abiding)
 all x.(PleasantAbiding(x) -> ExperiencesLiberationJoyAndHappiness(x))
 
 # THEORY rejected_liberation_suffices
@@ -153,14 +145,13 @@ exists x.((x = fourth_faculty) & GovernsAttainmentOf(has_known_faculty,x))
 all p.(PleasantAbiding(p) -> Parinirvanes(p))
 ```
 
-The first prose theory uses the Bhāṣya's *parinirvāṇa* where the verse
-has *nirvāṇa*. Its negative sentence gives a necessary condition:
-parinirvāṇa requires liberated mind. The rejected converse keeps this
-from becoming a sufficient condition. The other prose theory is the
-second explanation signalled by *ādi*: abandonment of afflictions
-specified by seeing and by cultivation, then pleasant abiding in this
-life. The model keeps that present abiding distinct from parinirvāṇa
-and from the checking of afflictions in 2.03.
+The first prose account specifies *parinirvāṇa* and says liberated mind
+is necessary for it; the rejected converse prevents sufficiency from
+being read into that claim. The second account, signalled by *ādi*,
+assigns abandonment by seeing, abandonment by cultivation, and
+pleasant abiding in this life to the same three Faculties. The two
+abandonment classes are not enumerated here. Present pleasant abiding
+is distinct from *parinirvāṇa* and from the checking in 2.03.
 
 ```nltk-valuation
 shall_know_faculty => first_f
@@ -181,11 +172,11 @@ PleasantAbiding => {living_realized}
 ExperiencesLiberationJoyAndHappiness => {living_realized}
 ```
 
-The finite witness tests the two explanations separately. It does not
-identify verse *nirvāṇa* and prose *parinirvāṇa*, derive a historical
-path-stage chronology, or prove the final attainment from liberated
-mind alone. The Bhāṣya's seeing-abandonment reading rests on a
-substantive witness repair, so that textual uncertainty remains marked.
+The finite model witnesses the accepted and rejected readings. It does
+not identify verse *nirvāṇa* with prose *parinirvāṇa*, establish a full
+path-stage chronology, or prove that liberated mind suffices for final
+attainment. The seeing-abandonment reading depends on the marked
+Bhāṣya witness repair and remains provisional.
 
 ## 9. Interpretive Note
 

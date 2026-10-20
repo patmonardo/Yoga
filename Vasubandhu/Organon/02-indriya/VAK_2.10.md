@@ -47,8 +47,9 @@ are inserted into the verse stream.
 
 The opening predicate states the life rule; the Bhāṣya qualifies it for
 concentration-projected life. The first twofold class excludes the final
-eight and distress, with life already treated separately. *Tat* resumes
-distress, not life or the twelve. The Bhāṣya construes *tu* as restrictive
+eight and distress, with life already treated separately. That separate
+placement remains even though the Bhāṣya later gives a life-instance
+that is not maturation. *Tat* resumes distress, not life or the twelve. The Bhāṣya construes *tu* as restrictive
 and displaced: distress alone is invariably maturation-producing, not
 the only Faculty capable of producing maturation.
 
@@ -133,7 +134,9 @@ EITHER[AXIS=has_result,SEM=<\g.EitherProduces(g)>] -> 'dvidhā'
 **Kārikā, derived.** `LifeMaturationRule` records the opening rule without
 silently excluding the prose's counterexample. `EitherMaturation` and
 `EitherProduces` concern different questions. `SoleInvariableProducer`
-does not exclude conditional production by the ten.
+does not exclude conditional production by the ten. The twelve-count
+is an enumerative class, not a claim that Life can never have an
+exceptional non-maturation instance.
 
 ```nltk-sem
 received_result : \g.EitherMaturation(g)
@@ -149,15 +152,20 @@ distress_reference : distress_f
 # THEORY prose_life_exception
 # EXPECT prose_life_exception T
 all x.(LifeInstance(x) -> (IsMaturation(x) <-> -ConcentrationProjected(x)))
+CanBeMaturation(life_f) & CanBeNonMaturation(life_f) & -TwelveType(life_f)
 (LifeInstance(ordinary_life) & IsMaturation(ordinary_life) & LifeInstance(projected_life) & -IsMaturation(projected_life))
 
 # THEORY prose_partitions
 # EXPECT prose_partitions T
-all x.(TwelveType(x) <-> (CanBeMaturation(x) & CanBeNonMaturation(x)))
-all x.(NeverMaturation(x) -> -CanBeMaturation(x))
+all x.(TwelveType(x) <-> (CanBeMaturation(x) & CanBeNonMaturation(x) & -(x = life_f)))
+all x.(NeverMaturation(x) -> (-CanBeMaturation(x) & CanBeNonMaturation(x)))
 all x.(TenType(x) <-> (CanProduce(x) & CanNotProduce(x)))
-all x.(NeverProduces(x) -> -CanProduce(x))
+all x.(NeverProduces(x) -> (-CanProduce(x) & CanNotProduce(x)))
 (NeverMaturation(distress_f) & AlwaysProducesMaturation(distress_f) & CanProduce(distress_f) & -CanNotProduce(distress_f))
+
+# THEORY rejected_life_in_twelve
+# EXPECT rejected_life_in_twelve F
+exists x.((x = life_f) & TwelveType(x))
 
 # THEORY rejected_all_life_is_maturation
 # EXPECT rejected_all_life_is_maturation F
@@ -194,7 +202,7 @@ ConcentrationProjected => {concentration_life_event}
 IsMaturation => {ordinary_life_event}
 TwelveType => {eye,ear,nose,tongue,body,female,male,mind,pain,pleasure,gladness,neutral}
 CanBeMaturation => {eye,ear,nose,tongue,body,female,male,mind,pain,pleasure,gladness,neutral,life}
-CanBeNonMaturation => {eye,ear,nose,tongue,body,female,male,mind,pain,pleasure,gladness,neutral}
+CanBeNonMaturation => {eye,ear,nose,tongue,body,female,male,mind,pain,pleasure,gladness,neutral,life,distress,faith,vigor,mindfulness,concentration,comprehension,shall_know,knowledge,one_who_has_known}
 FinalEightType => {faith,vigor,mindfulness,concentration,comprehension,shall_know,knowledge,one_who_has_known}
 NeverMaturation => {distress,faith,vigor,mindfulness,concentration,comprehension,shall_know,knowledge,one_who_has_known}
 TenType => {mind,pain,pleasure,gladness,neutral,faith,vigor,mindfulness,concentration,comprehension}
@@ -203,12 +211,15 @@ CanNotProduce => {mind,pain,pleasure,gladness,neutral,faith,vigor,mindfulness,co
 NeverProduces => {eye,ear,nose,tongue,body,female,male,life,shall_know,knowledge,one_who_has_known}
 ```
 
-The received-result partition is 1 + 12 + 9, with life's exceptional
-instance treated separately. The productive partition is 1 + 10 + 11.
+The received-result partition is 1 + 12 + 9. Life has both
+instance-level possibilities but remains the separately named first
+class; the twelve are the remaining types with both possibilities.
+The productive partition is 1 + 10 + 11.
 Finite-model tests check these counts and contrasts, not the efficacy
 of lifespan practices or the truth of every reported causal account.
-Life's type-level rule is deliberately not an assertion that every
-life-instance is maturation.
+The opening Life rule does not assert that every life-instance is
+maturation. `CanBeNonMaturation(life_f)` records the prose exception
+without changing the verse's twelve-count.
 
 ## 9. Interpretive Note
 

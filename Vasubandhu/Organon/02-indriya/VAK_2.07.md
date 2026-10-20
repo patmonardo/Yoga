@@ -49,23 +49,25 @@ verse stream; the second clause's resumed subject is marked
 The relative clause defines Pain-Faculty. The second clause resumes bodily
 feeling, as the Bhāṣya explicitly confirms. In the last clause, the
 locative pair constrains the mental case to the third dhyāna. The feminine
-anaphor resumes agreeable feeling, not bodily mode. These are three
-predications, not a bodily feeling transformed into a mental one.
+anaphor resumes agreeable feeling from the preceding clause, while
+mental mode and third-dhyāna level delimit its new predication. The
+shared `REF` feature records that antecedent without identifying a
+bodily feeling-token with a mental one.
 
 ```nltk-fcfg
 % start S
 # tokens: duḥkhendriyam aśātā yā kāyikī vedanā sukham śātā dhyāne tṛtīye tu caitasī sā sukhendriyam
-S[SEM=<(?pain & ?pleasure & ?third)>] -> PAIN[SEM=?pain] PLEASURE[SEM=?pleasure] THIRD[SEM=?third]
+S[SEM=<(?pain & ?pleasure & ?third)>] -> PAIN[SEM=?pain] PLEASURE[REF=?r,SEM=?pleasure] THIRD[REF=?r,SEM=?third]
 PAIN[SEM=<all x.((?feeling(x) & ?body(x) & ?tone(x)) -> ?faculty(x))>] -> PAINF[CASE=nom,NUM=sg,GEN=n,SEM=?faculty] TONE[CASE=nom,NUM=sg,GEN=f,POLARITY=disagreeable,SEM=?tone] REL[CASE=nom,NUM=sg,GEN=f] BODY[CASE=nom,NUM=sg,GEN=f,SEM=?body] FEELING[CASE=nom,NUM=sg,GEN=f,SEM=?feeling]
-PLEASURE[SUPPLIED=prose,SEM=<all x.((Feeling(x) & Bodily(x) & ?tone(x)) -> ?faculty(x))>] -> PLEASUREF[CASE=nom,NUM=sg,GEN=n,SEM=?faculty] TONE[CASE=nom,NUM=sg,GEN=f,POLARITY=agreeable,SEM=?tone]
-THIRD[SEM=<all x.((Feeling(x) & ?tone(x) & ?mental(x) & ?level(x)) -> ?faculty(x))>] -> DHYANA[CASE=loc,NUM=sg,GEN=n] THIRDLEVEL[CASE=loc,NUM=sg,GEN=n,LEVEL=third,SEM=?level] BUT MENTAL[CASE=nom,NUM=sg,GEN=f,SEM=?mental] THAT[CASE=nom,NUM=sg,GEN=f,REF=agreeable_feeling,SEM=?tone] PLEASUREF[CASE=nom,NUM=sg,GEN=n,SEM=?faculty]
+PLEASURE[REF=?r,SUPPLIED=prose,SEM=<all x.((Feeling(x) & Bodily(x) & ?tone(x)) -> ?faculty(x))>] -> PLEASUREF[CASE=nom,NUM=sg,GEN=n,SEM=?faculty] TONE[CASE=nom,NUM=sg,GEN=f,POLARITY=agreeable,REF=?r,SEM=?tone]
+THIRD[REF=?r,SEM=<all x.((Feeling(x) & ?tone(x) & ?mental(x) & ?level(x)) -> ?faculty(x))>] -> DHYANA[CASE=loc,NUM=sg,GEN=n] THIRDLEVEL[CASE=loc,NUM=sg,GEN=n,LEVEL=third,SEM=?level] BUT MENTAL[CASE=nom,NUM=sg,GEN=f,SEM=?mental] THAT[CASE=nom,NUM=sg,GEN=f,REF=?r,SEM=?tone] PLEASUREF[CASE=nom,NUM=sg,GEN=n,SEM=?faculty]
 PAINF[CASE=nom,NUM=sg,GEN=n,SEM=<\x.ClassifiedAs(x,pain_f)>] -> 'duḥkhendriyam'
 TONE[CASE=nom,NUM=sg,GEN=f,POLARITY=disagreeable,SEM=<\x.Disagreeable(x)>] -> 'aśātā'
 REL[CASE=nom,NUM=sg,GEN=f] -> 'yā'
 BODY[CASE=nom,NUM=sg,GEN=f,SEM=<\x.Bodily(x)>] -> 'kāyikī'
 FEELING[CASE=nom,NUM=sg,GEN=f,SEM=<\x.Feeling(x)>] -> 'vedanā'
 PLEASUREF[CASE=nom,NUM=sg,GEN=n,SEM=<\x.ClassifiedAs(x,pleasure_f)>] -> 'sukham' | 'sukhendriyam'
-TONE[CASE=nom,NUM=sg,GEN=f,POLARITY=agreeable,SEM=<\x.Agreeable(x)>] -> 'śātā'
+TONE[CASE=nom,NUM=sg,GEN=f,POLARITY=agreeable,REF=agreeable_feeling,SEM=<\x.Agreeable(x)>] -> 'śātā'
 DHYANA[CASE=loc,NUM=sg,GEN=n] -> 'dhyāne'
 THIRDLEVEL[CASE=loc,NUM=sg,GEN=n,LEVEL=third,SEM=<\x.AtLevel(x,third_dhyana)>] -> 'tṛtīye'
 BUT -> 'tu'
@@ -84,7 +86,7 @@ THAT[CASE=nom,NUM=sg,GEN=f,REF=agreeable_feeling,SEM=<\x.Agreeable(x)>] -> 'sā'
 | [0, 5) | `PAIN` | disagreeable bodily feeling classified as Pain-Faculty |
 | [5, 7) | `PLEASURE` | agreeable feeling with bodily subject resumed from prose |
 | [7, 13) | `THIRD` | agreeable mental feeling qualified by the third dhyāna |
-| [0, 13) | `S` | conjunction of the three classification rules |
+| [0, 13) | `S` | three scoped classification rules with shared agreeable-feeling reference |
 
 ## 5. Translation
 
@@ -122,9 +124,12 @@ Sukha and duḥkha here are two of the five. Gladness and distress are the next 
 ## 8. Logical Determination
 
 **Kārikā, derived.** The root SEM conjoins three scoped implications.
-It does not state that every mental feeling is pleasurable. The bodily
-restriction of the second clause is Bhāṣya-resolved ellipsis, not an
-additional Sanskrit token.
+The shared `REF=agreeable_feeling` preserves the anaphora across the
+second and third clauses; it does not assert numerical identity between
+two feeling events. The last implication requires agreeable tone, mental
+mode, and third-dhyāna level together. The bodily restriction of the
+second clause is Bhāṣya-resolved ellipsis, not an additional Sanskrit
+token.
 
 ```nltk-sem
 pain_classification : \x.ClassifiedAs(x,pain_f)

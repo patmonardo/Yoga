@@ -47,8 +47,9 @@ The first clause classifies the resumed agreeable mental feeling
 elsewhere than the third dhyāna. The second supplies feeling as the
 subject of disagreeable and mental. The third defines neutral feeling
 and gives the reason bodily and mental modes count as one Faculty.
-The causal ablative explains non-division; it does not say that the
-two modes are identical in every respect.
+The causal ablative gives the reason for one Faculty in the respect
+of remaining neutral. `CNT=2` counts bodily and mental modes, not
+Faculties; the two modes are not identical in every respect.
 
 ```nltk-fcfg
 % start S
@@ -127,8 +128,10 @@ REASON[CASE=abl,RESPECT=remaining_neutral,SEM=<\f.UnifiedBecause(f,non_different
 **Kārikā, derived.** The SEM resolves the resumed feeling from 2.07,
 classifies distress, and assigns both neutral modes to one Faculty for
 the stated reason. The Bhāṣya specifies elsewhere as the Desire-realm
-and first two dhyānas. Neither the ordinal third nor that threefold
-specification is an extra token in this verse.
+and first two dhyānas. It then gives two distinct explanations for the neutral
+count: arising without differentiation and no difference in the
+effect of remaining neutral. Neither the ordinal third nor that
+threefold specification is an extra token in this verse.
 
 ```nltk-sem
 resumed_feeling : \x.(Feeling(x) & Agreeable(x) & Mental(x))
@@ -141,13 +144,21 @@ one_neutral_faculty : \f.UnifiedBecause(f,non_differentiation)
 # EXPECT verse T
 (all x.((Feeling(x) & Agreeable(x) & Mental(x) & Elsewhere(x)) -> ClassifiedAs(x,gladness_f)) & all x.((Feeling(x) & Disagreeable(x) & Mental(x)) -> ClassifiedAs(x,distress_f)) & all x.((Feeling(x) & -Agreeable(x) & -Disagreeable(x) & (Bodily(x) | Mental(x))) -> ClassifiedAs(x,neutral_f)) & HasMode(neutral_f,bodily_mode) & HasMode(neutral_f,mental_mode) & UnifiedBecause(neutral_f,non_differentiation))
 
-# THEORY prose
-# EXPECT prose T
-all x.(Elsewhere(x) <-> (AtLevel(x,desire_realm) | AtLevel(x,first_dhyana) | AtLevel(x,second_dhyana)))
+# THEORY prose_levels
+# EXPECT prose_levels T
+all x.((Feeling(x) & Mental(x)) -> (Elsewhere(x) <-> (AtLevel(x,desire_realm) | AtLevel(x,first_dhyana) | AtLevel(x,second_dhyana))))
 all x.((Feeling(x) & Agreeable(x) & Mental(x) & AtLevel(x,third_dhyana)) -> (ClassifiedAs(x,pleasure_f) & -ClassifiedAs(x,gladness_f)))
-(DispassionToward(third_dhyana,rapture) & LocalIdentification(rapture,gladness_f))
-(ForMostPartThrough(mental_pleasure_pain,differentiation) & Through(bodily_pleasure_pain,condition_force) & PossibleFor(bodily_pleasure_pain,arhat))
-(ArisesWithoutDifferentiating(neutral_f) & DifferentEffect(bodily_pleasure_pain,mental_pleasure_pain))
+DispassionToward(third_dhyana,rapture) & LocalIdentification(rapture,gladness_f)
+
+# THEORY prose_arising
+# EXPECT prose_arising T
+ForMostPartThrough(mental_pleasure_pain,differentiation) & Through(bodily_pleasure_pain,condition_force) & PossibleFor(bodily_pleasure_pain,arhat)
+ArisesWithoutDifferentiating(neutral_f) & UnifiedBecause(neutral_f,non_differentiation)
+
+# THEORY prose_effect
+# EXPECT prose_effect T
+DifferentSupport(bodily_pleasure,mental_pleasure) & DifferentInjury(bodily_pain,mental_pain)
+SameInRemainingNeutral(bodily_neutral,mental_neutral) & ClassifiedAs(bodily_neutral,neutral_f) & ClassifiedAs(mental_neutral,neutral_f)
 
 # THEORY rejected_gladness_without_level_restriction
 # EXPECT rejected_gladness_without_level_restriction F
@@ -177,6 +188,12 @@ third_dhyana => third_level
 rapture => rapture_kind
 mental_pleasure_pain => mental_pleasure_pain_class
 bodily_pleasure_pain => bodily_pleasure_pain_class
+bodily_pleasure => bodily_pleasure_case
+mental_pleasure => mental_pleasure_case
+bodily_pain => bodily_pain_case
+mental_pain => mental_pain_case
+bodily_neutral => bodily_neutral
+mental_neutral => mental_neutral
 differentiation => differentiation_process
 condition_force => force_of_condition
 arhat => arhat_person
@@ -196,16 +213,19 @@ ForMostPartThrough => {(mental_pleasure_pain_class,differentiation_process)}
 Through => {(bodily_pleasure_pain_class,force_of_condition)}
 PossibleFor => {(bodily_pleasure_pain_class,arhat_person)}
 ArisesWithoutDifferentiating => {neutral_faculty}
-DifferentEffect => {(bodily_pleasure_pain_class,mental_pleasure_pain_class)}
+DifferentSupport => {(bodily_pleasure_case,mental_pleasure_case)}
+DifferentInjury => {(bodily_pain_case,mental_pain_case)}
+SameInRemainingNeutral => {(bodily_neutral,mental_neutral)}
 ```
 
 `ForMostPartThrough` records the prose's qualified claim; it does not
 derive a universal causal rule or test a statistical proportion.
-`LocalIdentification` records the stated identification of rapture with
-gladness without equating their predicates across the corpus. The model
-tests classifications and the reported reasons, not the causal
-sufficiency of those reasons. Different mode does not force two
-Faculties; same tone does not force one.
+`DifferentSupport` and `DifferentInjury` keep the two effects apart;
+`SameInRemainingNeutral` is restricted to the neutral function, not
+identity of bodily and mental modes. `LocalIdentification` records the
+stated identification of rapture with gladness without equating their
+predicates across the corpus. The finite model tests these claims, not
+the causal sufficiency of the stated reasons.
 
 ## 9. Interpretive Note
 

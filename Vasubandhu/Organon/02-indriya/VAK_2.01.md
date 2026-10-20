@@ -42,32 +42,31 @@ members distribute over the preceding two genitives.
 
 ## 4. Grammar
 
-The genitives *pañcānām*, *caturṇām*, *pañcakasya*, and *aṣṭānām* name
-four groups to which *ādhipatyam* is distributed. The locatives *caturṣv
-artheṣu* and *dvayoḥ* give the respective fields of the first two
-groups. The locative dual *saṃkleśavyavadānayoḥ* supplies the two fields
-for the last two groups. The Bhāṣya's *yathākramam* assigns defilement
-to the five feelings and purification to the eight beginning with faith.
-The verse alone compresses this assignment. *Kila* marks the account as
-reported; it does not resolve the later alternative about feeling.
+The verse distributes one predicate, *ādhipatyam*, across four groups. The
+first locative gives four meanings to each of the five sensory Faculties;
+the second gives two meanings to each of the four named in the Bhāṣya.
+The final locative dual is ordered: the five feelings govern defilement,
+and the eight beginning with faith govern purification. *Kila* marks the
+second assignment as reported. The grammar makes the ellipsis explicit
+in each clause without adding Sanskrit tokens or a higher-order relation.
 
 ```nltk-fcfg
 % start S
 # tokens: caturṣu artheṣu pañcānām ādhipatyam dvayoḥ kila caturṇām pañcakasya aṣṭānām saṃkleśa-vyavadānayoḥ
-S[SEM=<(?a & (?r(?g)(?f) & ?c))>] -> FIRST[SEM=?a,REL=?r] SECOND[GROUP=?g,FIELD=?f,EVID=reported] LAST[SEM=?c]
-FIRST[SEM=<?r(?g)(?f)>,REL=?r] -> NUM[CASE=loc,NUM=pl,CNT=4] FIELD[CASE=loc,NUM=pl,SEM=?f] GROUP[CASE=gen,NUM=pl,CNT=5,SEM=?g] GOVERN[SEM=?r]
-SECOND[GROUP=?g,FIELD=?f,EVID=reported] -> FIELD[CASE=loc,NUM=du,SEM=?f] EVID[VALUE=reported] GROUP[CASE=gen,NUM=pl,CNT=4,SEM=?g]
-LAST[SEM=<?p(?g)(?h)>] -> GROUP[CASE=gen,NUM=sg,CNT=5,SEM=?g] GROUP[CASE=gen,NUM=pl,CNT=8,SEM=?h] PAIR[CASE=loc,NUM=du,SEM=?p]
-NUM[CASE=loc,NUM=pl,CNT=4] -> 'caturṣu'
-FIELD[CASE=loc,NUM=pl,SEM=<four_meanings>] -> 'artheṣu'
-GROUP[CASE=gen,NUM=pl,CNT=5,SEM=<sensory_five>] -> 'pañcānām'
-GOVERN[SEM=<\g.\f.Governs(g,f)>] -> 'ādhipatyam'
-FIELD[CASE=loc,NUM=du,SEM=<two_meanings>] -> 'dvayoḥ'
-EVID[VALUE=reported] -> 'kila'
-GROUP[CASE=gen,NUM=pl,CNT=4,SEM=<other_four>] -> 'caturṇām'
-GROUP[CASE=gen,NUM=sg,CNT=5,SEM=<feeling_five>] -> 'pañcakasya'
-GROUP[CASE=gen,NUM=pl,CNT=8,SEM=<purifying_eight>] -> 'aṣṭānām'
-PAIR[CASE=loc,NUM=du,SEM=<\g.\h.(Governs(g,defilement) & Governs(h,purification))>] -> 'saṃkleśa-vyavadānayoḥ'
+S[SEM=<(?first & ?second & ?last)>] -> FIRST[SEM=?first] SECOND[SEM=?second] LAST[SEM=?last]
+FIRST[SEM=<Governs(sensory_five,four_meanings)>] -> FOUR[CASE=loc,NUM=pl,CNT=4] MEANINGS[CASE=loc,NUM=pl] FIVE[CASE=gen,NUM=pl,CNT=5] GOVERN
+FOUR[CASE=loc,NUM=pl,CNT=4] -> 'caturṣu'
+MEANINGS[CASE=loc,NUM=pl] -> 'artheṣu'
+FIVE[CASE=gen,NUM=pl,CNT=5] -> 'pañcānām'
+GOVERN -> 'ādhipatyam'
+SECOND[SEM=<Governs(other_four,two_meanings)>] -> TWO[CASE=loc,NUM=du,CNT=2] REPORT[VOICE=reported] OTHER_FOUR[CASE=gen,NUM=pl,CNT=4]
+TWO[CASE=loc,NUM=du,CNT=2] -> 'dvayoḥ'
+REPORT[VOICE=reported] -> 'kila'
+OTHER_FOUR[CASE=gen,NUM=pl,CNT=4] -> 'caturṇām'
+LAST[SEM=<(Governs(feeling_five,defilement) & Governs(purifying_eight,purification))>] -> FEELINGS[CASE=gen,NUM=sg,CNT=5] PURIFIERS[CASE=gen,NUM=pl,CNT=8] FIELDS[CASE=loc,NUM=du,ORDER=defilement_purification]
+FEELINGS[CASE=gen,NUM=sg,CNT=5] -> 'pañcakasya'
+PURIFIERS[CASE=gen,NUM=pl,CNT=8] -> 'aṣṭānām'
+FIELDS[CASE=loc,NUM=du,ORDER=defilement_purification] -> 'saṃkleśa-vyavadānayoḥ'
 ```
 
 ```nltk-dep
@@ -75,18 +74,11 @@ PAIR[CASE=loc,NUM=du,SEM=<\g.\h.(Governs(g,defilement) & Governs(h,purification)
 'artheṣu' -> 'caturṣu'
 ```
 
-**Feature chart checkpoints.** The half-open spans refer to the ten
-normalized tokens. The inherited `REL` applies *ādhipatyam* to the
-second group without inserting a second Sanskrit word. `EVID=reported`
-keeps *kila*'s voice visible, while the FOL projection records the
-predications rather than a claim that the report is true.
-
-| Span | Constituent | Result |
-|---|---|---|
-| [0, 4) | `FIRST` | five sensory faculties govern four meanings |
-| [4, 7) | `SECOND` | reported four govern two meanings; relation inherited |
-| [7, 10) | `LAST` | ordered pairing of five feelings and eight purifiers |
-| [0, 10) | `S` | four governing relations conjoined |
+**Feature chart checkpoints.** The ten normalized tokens give `FIRST`
+[0, 4), `SECOND` [4, 7), `LAST` [7, 10), and one root [0, 10).
+Changing a count, the second locative dual, or the final ordered dual
+blocks the relevant clause. `VOICE=reported` records *kila* in the chart;
+the finite FOL projection tests the content of that reported assignment.
 
 ## 5. Translation
 
@@ -129,45 +121,47 @@ predications rather than a claim that the report is true.
 
 ## 8. Logical Determination
 
-The section 4 parse composes the verse's four assignments. Its lexical
-*ādhipatyam* is a curried relation; the first clause applies it, and the
-second clause inherits it across the ellipsis. The final locative dual
-applies its ordered fields to the two preceding groups. These are group
-level projections; the Bhāṣya distributes each count over individual
-faculties. The model checks the projection and its source specified
-members, without treating four or two as an arithmetic operation.
+**Kārikā, derived.** The root `SEM` gives four governing relations. The
+Bhāṣya supplies the group members and says *yathākramam* for the final
+pair. Its later claim that feelings also govern purification is introduced
+by *apare* (“others”); the finite model records that report separately
+from the verse's ordered assignment. Counts remain grammatical constraints
+on the groups, not arithmetic claims about the model's sample individuals.
 
 ```nltk-sem
-governing : \g.\f.Governs(g,f)
-paired_fields : \g.\h.(Governs(g,defilement) & Governs(h,purification))
+first : Governs(sensory_five,four_meanings)
+second : Governs(other_four,two_meanings)
+last : Governs(feeling_five,defilement) & Governs(purifying_eight,purification)
 ```
-
-**Root `SEM`, after beta reduction.**
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(Governs(sensory_five,four_meanings) & Governs(other_four,two_meanings) & Governs(feeling_five,defilement) & Governs(purifying_eight,purification))
+Governs(sensory_five,four_meanings) & Governs(other_four,two_meanings) & (Governs(feeling_five,defilement) & Governs(purifying_eight,purification))
 
-# THEORY prose
-# EXPECT prose T
-all x.(SensoryMember(x) -> (Faculty(x) & Governs(x,four_meanings)))
-all x.(OtherFourMember(x) -> (Faculty(x) & Governs(x,two_meanings)))
-all x.(FeelingMember(x) -> (Faculty(x) & Governs(x,defilement)))
-all x.(PurifyingMember(x) -> (Faculty(x) & Governs(x,purification)))
-exists x.(FeelingMember(x) & Governs(x,purification))
+# THEORY prose_member_distribution
+# EXPECT prose_member_distribution T
+all x.(SensoryMember(x) -> Governs(x,four_meanings))
+all x.(OtherFourMember(x) -> Governs(x,two_meanings))
+all x.(FeelingMember(x) -> Governs(x,defilement))
+all x.(PurifyingMember(x) -> Governs(x,purification))
 
-# THEORY rejected_all_conditions_are_faculties
-# EXPECT rejected_all_conditions_are_faculties F
-all x.(Condition(x) -> Faculty(x))
+# THEORY reported_feeling_alternative
+# EXPECT reported_feeling_alternative T
+Reports(others,feelings_also_purify) & Governs(feeling_five,defilement)
+
+# THEORY rejected_sensory_five_two_meanings
+# EXPECT rejected_sensory_five_two_meanings F
+Governs(sensory_five,two_meanings) & Governs(sensory_five,four_meanings)
+
+# THEORY rejected_four_four_meanings
+# EXPECT rejected_four_four_meanings F
+Governs(other_four,four_meanings) & Governs(other_four,two_meanings)
+
+# THEORY rejected_final_fields_reversed
+# EXPECT rejected_final_fields_reversed F
+Governs(feeling_five,purification) & Governs(purifying_eight,defilement)
 ```
-
-The `prose` theory represents the Bhāṣya's distribution and its
-alternative that feeling also governs purification. The verse formula
-retains the first account's *yathākramam*. The negative theory guards the
-question that 2.02 raises: causal participation alone is not governing
-efficacy. It is a countermodel to that inference, not a claim that the
-word *Condition* occurs in this verse.
 
 ```nltk-valuation
 sensory_five => sf
@@ -178,19 +172,26 @@ four_meanings => fm
 two_meanings => tm
 defilement => def
 purification => pur
-Governs => {(sf,fm), (of,tm), (ff,def), (pe,pur), (eye,fm), (female,tm), (pleasure,def), (pleasure,pur), (faith,pur)}
-SensoryMember => {eye}
-OtherFourMember => {female}
-FeelingMember => {pleasure}
-PurifyingMember => {faith}
-Faculty => {eye,female,pleasure,faith}
-Condition => {visible_form}
+eye => eye_d
+female => female_d
+pleasure => pleasure_d
+faith => faith_d
+others => others_d
+feelings_also_purify => alternative_d
+Governs => {(sf,fm),(of,tm),(ff,def),(pe,pur),(eye_d,fm),(female_d,tm),(pleasure_d,def),(faith_d,pur)}
+SensoryMember => {eye_d}
+OtherFourMember => {female_d}
+FeelingMember => {pleasure_d}
+PurifyingMember => {faith_d}
+Reports => {(others_d,alternative_d)}
 ```
 
-The finite witness represents one member of each group. It does not
-certify the total membership counts or prove the historical account.
-The distinction between conditioned genesis and governing efficacy needs
-the later causal analysis; it is not silently derived from this verse.
+The model witnesses the four verse assignments and one member of each
+group. Its false theories catch swapped fields; the reported alternative
+is present as an attributed claim, not silently installed as the first
+account's fact. Neither a finite valuation nor this group-level projection
+proves all twenty-two memberships or resolves the Bhāṣya's later objection
+in 2.02.
 
 ## 9. Interpretive Note
 

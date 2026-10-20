@@ -38,30 +38,29 @@ supplied Sanskrit tokens.
 
 ## 4. Grammar
 
-The first causal ablative specifies governing *upalabdhi* of each
-faculty's own *artha*. *Sarvasya ca* widens the scope for mind, as the
-Bhāṣya states; it does not assert a single apprehension of everything.
-The numeral *ṣaṭ* ranges over the five and mind, while singular
-*indriyam* predicates Faculty distributively. The second causal
-ablative pairs female-being and male-being with the two faculties.
-*Kāyāt* gives their bodily source; *tu* marks the turn to that distinct
-reason for separate designation.
+The first causal ablative assigns governance of apprehension to each of
+the five with respect to its own *artha*. *Sarvasya ca* widens the range
+for mind; it does not describe one episode apprehending everything at
+once. The singular *indriyam* predicates Faculty distributively of six.
+The second ablative gives the ordered female/male governing relation;
+*kāyāt* is resolved by the Bhāṣya as a portion of the body-faculty.
+The two clauses compose directly into a closed `SEM`.
 
 ```nltk-fcfg
 % start S
 # tokens: sva-artha-upalabdhi-ādhipatyāt sarvasya ca ṣaṭ indriyam strītva-puṃstva-ādhipatyāt tu kāyāt strī-puruṣa-indriye
-S[SEM=<(?a & ?b)>] -> SIX[SEM=?a] BODY[SEM=?b]
-SIX[SEM=<(?own(?five) & (?all & ?faculty(?six)))>] -> OWN[CASE=abl,SEM=?own] ALL[CASE=gen,SEM=?all] CA NUM[CNT=6,FIVE=?five,SIX=?six] FAC[NUM=sg,SEM=?faculty]
-BODY[SEM=<(?gov(?f)(?m) & (?from(?f) & (?from(?m) & ?fac)))>] -> SEXGOV[CASE=abl,SEM=?gov] TU FROM[CASE=abl,SEM=?from] SEXDUAL[NUM=du,F=?f,M=?m,SEM=?fac]
-OWN[CASE=abl,SEM=<\P.all x.(P(x) -> exists y.(OwnMeaning(x,y) & GovernsApprehensionOf(x,y)))>] -> 'sva-artha-upalabdhi-ādhipatyāt'
-ALL[CASE=gen,SEM=<all y.(Meaning(y) -> GovernsApprehensionOf(mind,y))>] -> 'sarvasya'
+S[SEM=<(?six & ?body)>] -> SIX[SEM=?six] BODY[SEM=?body]
+SIX[SEM=<(all x.(SensoryFaculty(x) -> exists y.(OwnMeaning(x,y) & GovernsApprehensionOf(x,y))) & all y.(Meaning(y) -> GovernsApprehensionOf(mind,y)) & all x.((SensoryFaculty(x) | (x = mind)) -> Faculty(x)))>] -> OWN[CASE=abl,ROLE=own_apprehension] ALL[CASE=gen,SCOPE=all_meanings] CA SIX_NUM[CNT=6] FAC[NUM=sg,DISTRIBUTIVE=true]
+OWN[CASE=abl,ROLE=own_apprehension] -> 'sva-artha-upalabdhi-ādhipatyāt'
+ALL[CASE=gen,SCOPE=all_meanings] -> 'sarvasya'
 CA -> 'ca'
-NUM[CNT=6,FIVE=<\x.SensoryFaculty(x)>,SIX=<\x.(SensoryFaculty(x) | (x = mind))>] -> 'ṣaṭ'
-FAC[NUM=sg,SEM=<\P.all x.(P(x) -> Faculty(x))>] -> 'indriyam'
-SEXGOV[CASE=abl,SEM=<\f.\m.(Governs(f,female_being) & Governs(m,male_being))>] -> 'strītva-puṃstva-ādhipatyāt'
+SIX_NUM[CNT=6] -> 'ṣaṭ'
+FAC[NUM=sg,DISTRIBUTIVE=true] -> 'indriyam'
+BODY[SEM=<(Governs(female_faculty,female_being) & Governs(male_faculty,male_being) & PortionOf(female_faculty,body_faculty) & PortionOf(male_faculty,body_faculty) & Faculty(female_faculty) & Faculty(male_faculty))>] -> SEXGOV[CASE=abl,ORDER=female_male] TU FROM[CASE=abl,REL=portion] SEXDUAL[CASE=nom,NUM=du,ORDER=female_male]
+SEXGOV[CASE=abl,ORDER=female_male] -> 'strītva-puṃstva-ādhipatyāt'
 TU -> 'tu'
-FROM[CASE=abl,SEM=<\x.PortionOf(x,body_faculty)>] -> 'kāyāt'
-SEXDUAL[NUM=du,F=<female_faculty>,M=<male_faculty>,SEM=<(Faculty(female_faculty) & Faculty(male_faculty))>] -> 'strī-puruṣa-indriye'
+FROM[CASE=abl,REL=portion] -> 'kāyāt'
+SEXDUAL[CASE=nom,NUM=du,ORDER=female_male] -> 'strī-puruṣa-indriye'
 ```
 
 ```nltk-dep
@@ -69,21 +68,11 @@ SEXDUAL[NUM=du,F=<female_faculty>,M=<male_faculty>,SEM=<(Faculty(female_faculty)
 'strī-puruṣa-indriye' -> 'strītva-puṃstva-ādhipatyāt' | 'tu' | 'kāyāt'
 ```
 
-**Feature chart checkpoints.** The spans index the nine normalized
-tokens. `CNT=6` fixes the class in the first clause, while `FIVE` and
-`SIX` carry different semantic scopes. The dual's `F` and `M` features
-bind each governed determination to its faculty. The source relation
-from *kāyāt* applies to both.
-
-| Span | Constituent | Derived content |
-|---|---|
-| [0, 5) | `SIX` | own-Meaning apprehension for the five; all-Meaning range for mind; six Faculties |
-| [5, 9) | `BODY` | two ordered governing relations and two body-portion relations |
-| [0, 9) | `S` | conjunction of both clauses |
-
-The dependency block marks local heads. It does not itself derive
-`SEM`. The Bhāṣya explains *kāyāt* as a portion of the body-faculty;
-the case alone does not establish that relation.
+**Feature chart checkpoints.** The nine normalized tokens form `SIX`
+[0, 5), `BODY` [5, 9), and one root [0, 9). Changing the six-count,
+mind's all-meaning scope, the ordered dual, or the ablative body source
+blocks the parse. The `SEM` gives a range for mind, not simultaneous
+apprehension; the Bhāṣya's portion relation resolves *kāyāt*.
 
 ## 5. Translation
 
@@ -123,37 +112,35 @@ the case alone does not establish that relation.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The parse assigns each of the sensory five governance
-of its own-Meaning apprehension, gives mind governance over the range of all Meanings, and
-predicates Faculty of those six. It then assigns the two sexed
-governing relations and reads *kāyāt* through the Bhāṣya's specified
-body-portion relation. The logical projection states a range for mind,
-not simultaneous apprehension by an episode.
+**Kārikā, derived.** The root `SEM` says each sensory Faculty governs
+apprehension of a respective meaning, mind governs apprehension across
+the range of meanings, and all six are Faculties. The paired Bhāṣya
+resolves *kāyāt* as the same body-faculty's portion. Its objection then
+tests why a meaning that contributes to apprehension lacks the Faculty's
+superior governing efficacy. That reasoning is a separate prose theory.
 
 ```nltk-sem
-own : \P.all x.(P(x) -> exists y.(OwnMeaning(x,y) & GovernsApprehensionOf(x,y)))
-all_meanings : all y.(Meaning(y) -> GovernsApprehensionOf(mind,y))
-six : \x.(SensoryFaculty(x) | (x = mind))
-faculty : \P.all x.(P(x) -> Faculty(x))
-sexed_governance : \f.\m.(Governs(f,female_being) & Governs(m,male_being))
-from_body : \x.PortionOf(x,body_faculty)
+six : all x.(SensoryFaculty(x) -> exists y.(OwnMeaning(x,y) & GovernsApprehensionOf(x,y))) & all y.(Meaning(y) -> GovernsApprehensionOf(mind,y)) & all x.((SensoryFaculty(x) | (x = mind)) -> Faculty(x))
+body : Governs(female_faculty,female_being) & Governs(male_faculty,male_being) & PortionOf(female_faculty,body_faculty) & PortionOf(male_faculty,body_faculty) & Faculty(female_faculty) & Faculty(male_faculty)
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(all x.(SensoryFaculty(x) -> exists y.(OwnMeaning(x,y) & GovernsApprehensionOf(x,y))) & (all y.(Meaning(y) -> GovernsApprehensionOf(mind,y)) & all x.((SensoryFaculty(x) | (x = mind)) -> Faculty(x))) & ((Governs(female_faculty,female_being) & Governs(male_faculty,male_being)) & (PortionOf(female_faculty,body_faculty) & (PortionOf(male_faculty,body_faculty) & (Faculty(female_faculty) & Faculty(male_faculty))))))
+(all x.(SensoryFaculty(x) -> exists y.(OwnMeaning(x,y) & GovernsApprehensionOf(x,y))) & all y.(Meaning(y) -> GovernsApprehensionOf(mind,y)) & all x.((SensoryFaculty(x) | (x = mind)) -> Faculty(x))) & (Governs(female_faculty,female_being) & Governs(male_faculty,male_being) & PortionOf(female_faculty,body_faculty) & PortionOf(male_faculty,body_faculty) & Faculty(female_faculty) & Faculty(male_faculty))
 
-# THEORY prose
-# EXPECT prose T
-all x.(SensoryFaculty(x) -> exists y c.(OwnMeaning(x,y) & Meaning(y) & Condition(c) & PresentsMeaning(c,y) & ContributesToApprehension(c)))
+# THEORY prose_superior_efficacy
+# EXPECT prose_superior_efficacy T
 all x.(SensoryFaculty(x) -> (CommonCauseAcrossField(x) & ApprehensionConformsTo(x) & SuperiorEfficacy(x)))
-all x.((x = mind) -> (CommonCauseAcrossField(x) & ApprehensionConformsTo(x) & SuperiorEfficacy(x)))
-all x.((x = visible_form) -> (Condition(x) & ContributesToApprehension(x)))
--SuperiorEfficacy(visible_form)
--Faculty(visible_form)
--DifferentSubstanceFromBody(female_faculty)
--DifferentSubstanceFromBody(male_faculty)
+CommonCauseAcrossField(mind) & ApprehensionConformsTo(mind) & SuperiorEfficacy(mind)
+
+# THEORY prose_meaning_as_condition
+# EXPECT prose_meaning_as_condition T
+Condition(visible_form) & PresentsMeaning(visible_form,visual_meaning) & ContributesToApprehension(visible_form) & -SuperiorEfficacy(visible_form) & -Faculty(visible_form)
+
+# THEORY prose_same_body
+# EXPECT prose_same_body T
+PortionOf(female_faculty,body_faculty) & PortionOf(male_faculty,body_faculty) & -DifferentSubstanceFromBody(female_faculty) & -DifferentSubstanceFromBody(male_faculty)
 
 # THEORY rejected_condition_suffices
 # EXPECT rejected_condition_suffices F
@@ -165,21 +152,8 @@ all i.(MindEpisode(i) -> ApprehendsEveryMeaningAtOnce(i))
 
 # THEORY rejected_distinct_substances
 # EXPECT rejected_distinct_substances F
-exists x.((x = female_faculty) & DifferentSubstanceFromBody(x))
-exists x.((x = male_faculty) & DifferentSubstanceFromBody(x))
+DifferentSubstanceFromBody(female_faculty) & PortionOf(female_faculty,body_faculty)
 ```
-
-The `prose` theory represents the Bhāṣya's answer to the objection that
-*arthas* also contribute causally. The model keeps a sensory Condition
-and the Meaning it presents in separate roles; that separation is an
-Organon projection, not an additional Sanskrit distinction asserted by
-this sentence. The Condition contributes to apprehension but lacks the
-superior efficacy attributed to the faculty.
-The common-cause and conformity claims are stated as the Bhāṣya's
-tests, not as universal definitions of all causes. The last two prose
-claims keep the separately named bodily portions from becoming distinct
-substances. The rejected all-at-once theory demonstrates that mind's
-range does not entail simultaneity.
 
 ```nltk-valuation
 mind => manas
@@ -189,6 +163,7 @@ body_faculty => kaya_indriya
 female_being => stritva
 male_being => pumstva
 visible_form => rupa
+visual_meaning => visual_meaning
 SensoryFaculty => {eye,ear,nose,tongue,kaya_indriya}
 Faculty => {eye,ear,nose,tongue,kaya_indriya,manas,stri_indriya,purusa_indriya}
 Meaning => {visual_meaning,auditory_meaning,olfactory_meaning,gustatory_meaning,tactile_meaning,dharma_meaning}
@@ -207,11 +182,12 @@ MindEpisode => {mind_episode}
 ApprehendsEveryMeaningAtOnce => {}
 ```
 
-The valuation is a finite witness, not a census or a proof from Sanskrit.
-The first Bhāṣya objection also distinguishes cognition from later
-avoidance of danger and denies that seeing is a second operation beside
-visual cognition. Those arguments remain in the paired Bhāṣya study;
-the verse's `SEM` does not silently contain them.
+The valuation tests mind's range without treating it as an all-at-once
+episode. The sensory condition and the meaning it presents have separate
+roles in this Organon projection; that distinction is not another
+Sanskrit word in the verse. Countermodels reject causal contribution as
+sufficient for Faculty status and reject separate bodily substances.
+The finite witness is not a census or proof from Sanskrit.
 
 ## 9. Interpretive Note
 

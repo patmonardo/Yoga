@@ -44,17 +44,18 @@ pairs without adding their members to the verse stream.
 
 Each clause classifies Faculties by exclusions. The Bhāṣya explicitly
 carries the stainless exclusion into the second clause and all prior
-exclusions into the third. The inherited exclusions are a prose-resolved
+exclusions into the third. A shared feature chain carries them from
+Desire to Form and then to Formless. The inherited exclusions are a prose-resolved
 projection, not additional Sanskrit words. Connection here means a type
 can have realm-connected instances, not that every instance is so connected.
 
 ```nltk-fcfg
 % start S
 # tokens: kāmāptam amalam hitvā rūpāptam strīpumindriye duḥkhe ca hitvā ārūpyāptam sukhe ca apohya rūpi ca
-S[SEM=<(?desire & ?form & ?formless)>] -> DESIRE[SEM=?desire] FORMCLAUSE[SEM=?form] FORMLESS[SEM=?formless]
-DESIRE[SEM=<all x.(Faculty(x) -> (?realm(x) <-> -?excluded(x)))>] -> DESIRER[CASE=nom,SEM=?realm] STAINLESS[CASE=acc,SEM=?excluded] OMIT
-FORMCLAUSE[INHERITED=stainless,SEM=<all x.(Faculty(x) -> (?realm(x) <-> (-Stainless(x) & -?sex(x) & -?pain(x))))>] -> FORMR[CASE=nom,SEM=?realm] SEX[CASE=acc,NUM=du,CNT=2,SEM=?sex] PAINFUL[CASE=acc,NUM=du,CNT=2,SEM=?pain] AND OMIT
-FORMLESS[INHERITED=prior_exclusions,SEM=<all x.(Faculty(x) -> (?realm(x) <-> (-Stainless(x) & -SexFaculty(x) & -PainfulFaculty(x) & -?pleasant(x) & -?form(x))))>] -> FORMLESSR[CASE=nom,SEM=?realm] PLEASANT[CASE=acc,NUM=du,CNT=2,SEM=?pleasant] AND REMOVE FORMF[CASE=acc,SEM=?form] AND
+S[SEM=<(?desire & ?form & ?formless)>] -> DESIRE[EXCLUDED=?d,SEM=?desire] FORMCLAUSE[INHERITED=?d,EXCLUDED=?f,SEM=?form] FORMLESS[INHERITED=?f,SEM=?formless]
+DESIRE[EXCLUDED=stainless,SEM=<all x.(Faculty(x) -> (?realm(x) <-> -?excluded(x)))>] -> DESIRER[CASE=nom,SEM=?realm] STAINLESS[CASE=acc,SEM=?excluded] OMIT
+FORMCLAUSE[INHERITED=stainless,EXCLUDED=stainless_sex_pain,SEM=<all x.(Faculty(x) -> (?realm(x) <-> (-Stainless(x) & -?sex(x) & -?pain(x))))>] -> FORMR[CASE=nom,SEM=?realm] SEX[CASE=acc,NUM=du,CNT=2,SEM=?sex] PAINFUL[CASE=acc,NUM=du,CNT=2,SEM=?pain] AND OMIT
+FORMLESS[INHERITED=stainless_sex_pain,SEM=<all x.(Faculty(x) -> (?realm(x) <-> (-Stainless(x) & -SexFaculty(x) & -PainfulFaculty(x) & -?pleasant(x) & -?form(x))))>] -> FORMLESSR[CASE=nom,SEM=?realm] PLEASANT[CASE=acc,NUM=du,CNT=2,SEM=?pleasant] AND REMOVE FORMF[CASE=acc,SEM=?form] AND
 DESIRER[CASE=nom,SEM=<\x.CanConnect(x,desire_realm)>] -> 'kāmāptam'
 STAINLESS[CASE=acc,SEM=<\x.Stainless(x)>] -> 'amalam'
 OMIT -> 'hitvā'
@@ -79,7 +80,7 @@ FORMF[CASE=acc,SEM=<\x.FormFaculty(x)>] -> 'rūpi'
 | [0, 3) | `DESIRE` | stainless triad excluded |
 | [3, 8) | `FORMCLAUSE` | triad, sexual pair, and painful pair excluded |
 | [8, 14) | `FORMLESS` | earlier exclusions plus pleasant pair and Form Faculties |
-| [0, 14) | `S` | three cumulative connection ranges |
+| [0, 14) | `S` | three cumulative ranges linked by inherited-exclusion features |
 
 ## 5. Translation
 
@@ -121,7 +122,10 @@ FORMF[CASE=acc,SEM=<\x.FormFaculty(x)>] -> 'rūpi'
 
 **Kārikā, derived.** The three biconditionals specify possible connection
 for Faculty-types, incorporating the Bhāṣya's explicit carry of earlier
-exclusions. They do not locate every instance or its bearer in a realm.
+exclusions. The `EXCLUDED`/`INHERITED` chain requires the Form clause
+to receive the stainless exclusion and the Formless clause to receive
+the expanded Form exclusions. These are type-level possibilities; they
+do not locate every instance or its bearer in a realm.
 
 ```nltk-sem
 desire_connection : \x.CanConnect(x,desire_realm)
