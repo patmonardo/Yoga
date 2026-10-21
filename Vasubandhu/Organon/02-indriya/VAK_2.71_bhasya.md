@@ -6,25 +6,30 @@
 >
 > prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // 2.71 //
 
-> Four consciousnesses follow beyond-training. These twelve become twenty
-> by dividing wholesome consciousness in the three realms into two kinds.
+> Four minds follow beyond-training. These twelve are reckoned as twenty;
+> wholesome mind in the three realms is divided into two kinds, application-produced and birth-acquired.
 
 ## 2. Continuous Sanskrit Witness
 
-> tasmāc catvāri cittāni /
-> dvādaśaitāni viṃśatiḥ /
+> tasmāccatvāri cittāni /
+> tasmātpunaraśaikṣāccittātsamanantaraṃ catvāri cittānyutpadyante /
+> traidhātukāni kuśalānyaśaikṣaṃ ca //
+> samāptāni dvādaśa cittāni // punaḥ kriyante
+> dvādaśaitāni viṃśatiḥ / kathaṃ kṛtvā /
 > prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // 2.71 //
+> triṣu dhātuṣu kuśalaṃ cittaṃ dvidhā bhidyate /
+> prāyogikaṃ copapattilābhikaṃ ca
 
-The unit is printed 105.26–106.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+Selected witness, printed 105.24–106.04 in `Vasubandhu/Sources/kosabhasya.txt`; line breaks and omitted intervening source layout are editorial. The source's first verse line begins at 105.24. This is not a collation.
 
 ## 3. Continuous Conventional Translation
 
-Four follow beyond-training: the wholesome of the three realms, and beyond-training. These twelve are made twenty in turn. Wholesome mind in the three realms is divided into application-produced and birth-acquired. Two alternatives, not one kind got both ways. The division continues.
+Four minds immediately follow a beyond-training mind: the wholesome minds of the three realms and a beyond-training mind. This completes the twelve. The text then announces a twentyfold inventory and asks how it is made. In each of the three realms, wholesome mind is divided into application-produced and birth-acquired kinds.
 
 ## 4. Interpretation
 
-The four close the twelve. The twenty are not completed by this cut alone. Three wholesome kinds become six. That is fifteen. The rest is the next verse.
+The four close the twelve. The stated division replaces three wholesome kinds with six, making fifteen at this stage. The twenty is an announced result whose remaining construction is outside this verse's present determination.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. The rest is the next verse.
+Checked against the selected Sanskrit witness and the kārikā's grammar and logic. The remaining construction is deferred.

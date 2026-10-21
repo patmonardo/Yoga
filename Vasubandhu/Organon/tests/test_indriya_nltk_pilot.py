@@ -4101,5 +4101,44 @@ class IndriyaPilotTests(unittest.TestCase):
             self.assertIn(passage, section(bhasya, 2))
 
 
+    def test_2_71_announced_twenty_and_intermediate_fifteen(self):
+        text = study(71)
+        self.assertEqual(check_grammar(text, strict=True)[1], [])
+        self.assertEqual(check_logic(text, strict=True)[1], [])
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [3, 3, 6])
+        verse = parses[0].label()["SEM"].simplify()
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(valuation.domain)))
+        for predicate, relation in (
+            ("SuccessorCount", (valuation["beyond_training"], valuation["four"])),
+            ("AnnouncedCount", (valuation["twelve_inventory"], valuation["twenty"])),
+            ("TwofoldWholesome", (valuation["three_realms"], valuation["application"], valuation["birth"])),
+        ):
+            with self.subTest(predicate=predicate):
+                valuation[predicate].remove(relation)
+                changed = Model(valuation.domain, valuation)
+                self.assertFalse(changed.satisfy(verse, Assignment(changed.domain)))
+                valuation[predicate].add(relation)
+        self.assertEqual(12 - 3 + 2 * 3, 15)
+        self.assertEqual(valuation["CompletedByThisCutAlone"], set())
+        for old, new in (
+            ("FOUR_NUM[CASE=nom,CNT=4] -> 'catvāri'", "FOUR_NUM[CASE=nom,CNT=5] -> 'catvāri'"),
+            ("TWELVE[CASE=nom,CNT=12] -> 'dvādaśa'", "TWELVE[CASE=nom,CNT=15] -> 'dvādaśa'"),
+            ("IN_THREE[CASE=loc,CNT=3] -> 'triṣu'", "IN_THREE[CASE=nom,CNT=3] -> 'triṣu'"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.71_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split("### Bhāṣya-informed study translation\n", 1)[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        self.assertIn("triṣu dhātuṣu kuśalaṃ cittaṃ dvidhā bhidyate", section(bhasya, 2))
+
+
 if __name__ == "__main__":
     unittest.main()
