@@ -3,14 +3,14 @@
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
-विपाकफलमन्त्यस्य पूर्वस्याधिपजं फलम् /
+विपाकफलमन्त्यस्य पूर्वस्याधिपतं फलम् /
 सभागसर्वत्रगयोर्निष्यन्दः पौरुषं द्वयोः // २.५६ //
 ```
 
 ## 2. Sanskrit (IAST)
 
 ```text
-vipākaphalam antyasya pūrvasya adhipajaṃ phalam /
+vipākaphalam antyasya pūrvasyādhipataṃ phalam /
 sabhāgasarvatragayor niṣyandaḥ pauruṣaṃ dvayoḥ // 2.56 //
 ```
 
@@ -21,30 +21,34 @@ sabhāgasarvatragayor niṣyandaḥ pauruṣaṃ dvayoḥ // 2.56 //
 | vipāka-phalam | neuter nominative singular compound | maturation-fruit |
 | antyasya | masculine genitive singular | of the last cause in the preceding six-cause sequence: maturation cause |
 | pūrvasya | masculine genitive singular | of the first cause in that sequence: conditioning cause |
-| adhipajaṃ phalam | neuter nominative singular adjective + noun | predominance-born fruit |
+| adhipataṃ phalam | neuter nominative singular adjective + noun | predominance-fruit; the prose later says *adhipajaṃ phalam* |
 | sabhāga-sarvatragayoḥ | genitive dual compound | of homogeneous and pervasive cause together |
 | niṣyandaḥ | masculine nominative singular | homogeneous outflow-fruit |
 | pauruṣam | neuter nominative singular | efficacy-fruit; *puruṣakāra* is figurative in the Bhāṣya |
 | dvayoḥ | genitive dual | of the two causes, co-arisen and associated |
 
-**Grammar tokens.** The compounds remain intact and the sandhi in *adhipajaṃ* and *pauruṣam* is normalized from the witness. The Bhāṣya supplies the referents of “first,” “last,” and “the two.” These are principal fruit assignments, not exclusivity axioms.
+**Grammar tokens.** The compounds remain intact. External sandhi in
+*pūrvasyādhipataṃ* is opened for the grammar. Both local source
+witnesses read verse *adhipataṃ*; the Bhāṣya prose says *adhipajaṃ*.
+The Bhāṣya supplies the referents of “first,” “last,” and “the two.”
+These are principal fruit assignments, not exclusivity axioms.
 
 ```text
-# tokens: vipākaphalam antyasya pūrvasya adhipajam phalam sabhāgasarvatragayoḥ niṣyandaḥ pauruṣam dvayoḥ
+# tokens: vipākaphalam antyasya pūrvasya adhipatam phalam sabhāgasarvatragayoḥ niṣyandaḥ pauruṣam dvayoḥ
 ```
 
 ## 4. Grammar
 
 ```nltk-fcfg
 % start S
-# tokens: vipākaphalam antyasya pūrvasya adhipajam phalam sabhāgasarvatragayoḥ niṣyandaḥ pauruṣam dvayoḥ
+# tokens: vipākaphalam antyasya pūrvasya adhipatam phalam sabhāgasarvatragayoḥ niṣyandaḥ pauruṣam dvayoḥ
 S[SEM=<(?last & ?first & ?middle & ?pair)>] -> LAST[SEM=?last] FIRST[SEM=?first] MIDDLE[SEM=?middle] PAIR[SEM=?pair]
 LAST[SEM=<PrincipalFruit(maturation_cause,maturation_fruit)>] -> MAT_FRUIT[CASE=nom,NUM=sg] LAST_CAUSE[CASE=gen,NUM=sg,REF=maturation_cause]
 MAT_FRUIT[CASE=nom,NUM=sg] -> 'vipākaphalam'
 LAST_CAUSE[CASE=gen,NUM=sg,REF=maturation_cause] -> 'antyasya'
 FIRST[SEM=<PrincipalFruit(conditioning_cause,predominance_fruit)>] -> FIRST_CAUSE[CASE=gen,NUM=sg,REF=conditioning_cause] DOMINANCE[CASE=nom,NUM=sg] FRUIT[CASE=nom,NUM=sg]
 FIRST_CAUSE[CASE=gen,NUM=sg,REF=conditioning_cause] -> 'pūrvasya'
-DOMINANCE[CASE=nom,NUM=sg] -> 'adhipajam'
+DOMINANCE[CASE=nom,NUM=sg] -> 'adhipatam'
 FRUIT[CASE=nom,NUM=sg] -> 'phalam'
 MIDDLE[SEM=<(PrincipalFruit(homogeneous_cause,outflow_fruit) & PrincipalFruit(pervasive_cause,outflow_fruit))>] -> MIDDLE_CAUSES[CASE=gen,NUM=du,REF=homogeneous_pervasive] OUTFLOW[CASE=nom,NUM=sg]
 MIDDLE_CAUSES[CASE=gen,NUM=du,REF=homogeneous_pervasive] -> 'sabhāgasarvatragayoḥ'
@@ -56,7 +60,7 @@ PAIR_CAUSES[CASE=gen,NUM=du,REF=coarisen_associated] -> 'dvayoḥ'
 
 ```nltk-dep
 'vipākaphalam' -> 'antyasya'
-'phalam' -> 'pūrvasya' | 'adhipajam'
+'phalam' -> 'pūrvasya' | 'adhipatam'
 'niṣyandaḥ' -> 'sabhāgasarvatragayoḥ'
 'pauruṣam' -> 'dvayoḥ'
 ```
@@ -67,15 +71,17 @@ PAIR_CAUSES[CASE=gen,NUM=du,REF=coarisen_associated] -> 'dvayoḥ'
 
 ### Literal Translation
 
-> Maturation-fruit belongs to the last; the first has a fruit born of
-> predominance. Homogeneous outflow belongs to the homogeneous and
-> pervasive; efficacy is the fruit of the two.
+> Maturation-fruit belongs to the last; predominance-fruit to the
+> first. Homogeneous outflow belongs to the homogeneous and pervasive;
+> efficacy is the fruit of the two.
+
 ### Bhāṣya-informed study translation
 
 > The last, maturation cause, has maturation as its fruit; the first,
 > conditioning cause, has predominance-born fruit. The homogeneous and
 > pervasive have homogeneous outflow; the co-arisen and associated have
 > efficacy as fruit.
+
 ## 6. Philosophical Translation
 
 > The six causes receive characteristic fruits in a structured correspondence. The assignment selects a principal relation for each cause, while the Bhāṣya tests additional fruits and explains efficacy as a dharma's activity rather than an appeal to a separate agent.
@@ -85,7 +91,7 @@ PAIR_CAUSES[CASE=gen,NUM=du,REF=coarisen_associated] -> 'dvayoḥ'
 | Sanskrit | Running word | Determination |
 |---|---|---|
 | vipāka-phala | maturation-fruit | principal fruit of maturation cause |
-| adhipaja-phala | predominance-born fruit | principal fruit of conditioning cause; nonobstruction can be contributory |
+| adhipata / adhipaja | predominance / predominance-born | verse reads *adhipataṃ phalam*; prose glosses it as *adhipajaṃ phalam* |
 | niṣyanda-phala | homogeneous outflow-fruit | principal fruit of homogeneous and pervasive causes because the result is similar |
 | pauruṣa / puruṣakāra-phala | efficacy-fruit | fruit of a dharma's activity; person-language is figurative in the Bhāṣya |
 
@@ -165,7 +171,7 @@ This finite model tests principal assignment without asserting exclusivity. The 
 
 ## 9. Interpretive Note
 
-The Bhāṣya identifies “last” as maturation cause and “first” as conditioning cause in the preceding sequence. The homogeneous and pervasive causes share similar outflow-fruit; the co-arisen and associated causes share efficacy-fruit. These are characteristic assignments, not an exhaustive partition: [095|05–06] allows efficacy-fruit for other causes except maturation cause. The following [095|07–08] reports another opinion that even maturation cause may have a distant efficacy-fruit, likened to farmers' crop. That view is attributed rather than adopted as the main reply.
+The Bhāṣya identifies “last” as maturation cause and “first” as conditioning cause in the preceding sequence. Its *adhipajaṃ* explains the verse’s *adhipataṃ* as a fruit born of predominance. The homogeneous and pervasive causes share similar outflow-fruit; the co-arisen and associated causes share efficacy-fruit. These are characteristic assignments, not an exhaustive partition: [095|05–06] allows efficacy-fruit for other causes except maturation cause. The following [095|07–08] reports another opinion that even maturation cause may have a distant efficacy-fruit, likened to farmers' crop. That view is attributed rather than adopted as the main reply.
 
 The prose explains predominance through nonobstruction and a possible contributory role. It defines *puruṣakāra* by a dharma's activity, then uses person-language by comparison. No separate Puruṣa agent is posited. The next verse defines the fruits more closely.
 

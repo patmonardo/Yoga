@@ -10,16 +10,28 @@
 > for later afflicted dharmas on that same level. Maturation cause is
 > unwholesome and wholesome with influx.
 
-## 2. Continuous Sanskrit Witness
+## 2. Sanskrit Witness — Selected Passages
 
 > sarvatragahetuḥ katamaḥ /
 > sarvatragākhyaḥ kliṣṭānāṃ svabhūmau pūrvasarvagāḥ /
 > svabhūmikāḥ pūrvotpannāḥ sarvatragā dharmāḥ paścimānāṃ kliṣṭānāṃ dharmāṇāṃ sarvatragahetuḥ /
 > vipākahetur aśubhāḥ kuśalāś caiva sāsravāḥ // 2.54 //
+> akuśalāḥ kuśalasāsravāśca dharmā vipākahetuḥ /
+> kasmādavyākṛtā dharmāḥ vipākaṃ na nirvarttayanti /
+> durbalatvāt / pūti bījavat /
+> kasmānnānāsravāḥ / tṛṣṇānabhiṣyanditatvāt /
+> visadṛśaḥ pāko vipākaḥ /
+> ekasyobhayatheti vaibhāṣikāḥ /
+> pāko hi nāma santatipariṇāmaviśeṣajaḥ phalaparyantaḥ /
+> na ca karmaṇā saha vipāko vipacyate nāpyanantaraṃ samanantarapratyayākṛṣṭatvāt samanantarakṣaṇasya /
+> pravāhāpekṣo hi vipākahetuḥ /
 
-The unit is printed 89.01–90.22 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+These are selected lines from 89.01–90.22 in
+[the running witness](../../Sources/kosabhasya.txt), not a complete
+transcription or collation. The excluded classes, reported Vaibhāṣika
+view, and delayed-continuum conclusion are kept at prose level.
 
-## 3. Continuous Conventional Translation
+## 3. Conventional Argument Summary
 
 Prior pervasive dharmas of a level cause later afflicted dharmas on that level, including another class. The list is later. A noble person's afflicted dharmas still have a seeing-abandoned cause, unmentioned because abandoned. Unwholesome and wholesome with influx mature. Indeterminate are weak. Uncontaminated are not moistened by craving. The prose first calls maturation a dissimilar ripening and reports the Vaibhāṣika allowance of two senses. It then argues that ripening, properly so called, reaches its result through a special transformation of a continuum; the other causal kinds lack that pattern. The cause depends on a series. Not together with the karma, and not immediately after.
 
@@ -125,4 +137,4 @@ The finite valuation is a behavioral witness to the attributed argument. It sepa
 
 ## 5. Review Status
 
-Grammar and Logic added for the selected [089|03] Bhāṣya proposition and its surrounding exclusions and ripening argument. The continuous Sanskrit witness remains partial and uncollated. The temporal classification is next.
+Grammar and Logic added for the selected [089|03] Bhāṣya proposition and its surrounding exclusions and ripening argument. The selected Sanskrit witness remains partial and uncollated. The temporal classification is next.

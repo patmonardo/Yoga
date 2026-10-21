@@ -37,11 +37,11 @@ saṃprayuktakahetus tu cittacaittāḥ samāśrayāḥ // 2.53 //
 % start S
 # tokens: prayogajāḥ tayoḥ eva śrutacintāmayādikāḥ saṃprayuktakahetuḥ tu cittacaittāḥ samāśrayāḥ
 S[SEM=<(?application & ?association)>] -> APPLICATION[SEM=?application] ASSOCIATION[SEM=?association]
-APPLICATION[SEM=<(ApplicationBorn(hearing) & ApplicationBorn(thought) & CauseFor(hearing,equal) & CauseFor(hearing,superior) & CauseFor(thought,equal) & CauseFor(thought,superior))>] -> PRODUCED[CASE=nom,NUM=pl] RANGE[CASE=gen,NUM=du,REF=equal_superior] ONLY EXAMPLES[CASE=nom,NUM=pl,OPEN=true]
+APPLICATION[SEM=<(?examples & ?only)>] -> PRODUCED[CASE=nom,NUM=pl] RANGE[CASE=gen,NUM=du,REF=equal_superior] ONLY[SEM=?only] EXAMPLES[CASE=nom,NUM=pl,OPEN=true,SEM=?examples]
 PRODUCED[CASE=nom,NUM=pl] -> 'prayogajāḥ'
 RANGE[CASE=gen,NUM=du,REF=equal_superior] -> 'tayoḥ'
-ONLY -> 'eva'
-EXAMPLES[CASE=nom,NUM=pl,OPEN=true] -> 'śrutacintāmayādikāḥ'
+ONLY[SEM=<all x.all y.((ApplicationBorn(x) & CauseFor(x,y)) -> (y = equal | y = superior))>] -> 'eva'
+EXAMPLES[CASE=nom,NUM=pl,OPEN=true,SEM=<(ApplicationBorn(hearing) & ApplicationBorn(thought) & CauseFor(hearing,equal) & CauseFor(hearing,superior) & CauseFor(thought,equal) & CauseFor(thought,superior))>] -> 'śrutacintāmayādikāḥ'
 ASSOCIATION[SEM=<(AssociatedCause(citta,caitta) & SameSupport(citta,caitta))>] -> HEAD[CASE=nom,NUM=sg] CONTRAST PAIR[CASE=nom,NUM=pl] SUPPORT[CASE=nom,NUM=pl,IDENTITY=same]
 HEAD[CASE=nom,NUM=sg] -> 'saṃprayuktakahetuḥ'
 CONTRAST -> 'tu'
@@ -54,6 +54,10 @@ SUPPORT[CASE=nom,NUM=pl,IDENTITY=same] -> 'samāśrayāḥ'
 'saṃprayuktakahetuḥ' -> 'tu' | 'cittacaittāḥ' | 'samāśrayāḥ'
 ```
 
+The lexical `eva` contributes the range restriction: any
+application-born cause represented by `CauseFor` has an equal or superior
+result. The open *ādi* does not itself name cultivation.
+
 **Feature chart checkpoints.** Application spans [0, 4), association [4, 8), and the root [0, 8). Changing the resumed dual to singular, the associated pair to singular, or shared-support identity blocks the parse. The verse's open *ādi* does not itself enumerate cultivation.
 
 ## 5. Translation
@@ -63,12 +67,14 @@ SUPPORT[CASE=nom,NUM=pl,IDENTITY=same] -> 'samāśrayāḥ'
 > Application-produced [qualities] are causes of those two alone: those
 > born of hearing, thought, and the rest. The associated cause is
 > consciousness and mental factors of the same support.
+
 ### Bhāṣya-informed study translation
 
 > Application-produced qualities are homogeneous causes of the equal or
 > superior only: those born of hearing, thought, and cultivation.
 > Associated cause is consciousness and mental factors sharing one
 > support.
+
 ## 6. Philosophical Translation
 
 > Application gives worldly qualities a directed homogeneous-cause range: equal or superior results. Association adds a different causal determination for consciousness and mental factors sharing one support. The Bhāṣya tests that support against apparent matches across different continua.
@@ -84,17 +90,18 @@ SUPPORT[CASE=nom,NUM=pl,IDENTITY=same] -> 'samāśrayāḥ'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root `SEM` carries the equal/superior antecedent into the application clause and treats same support as the associated-cause predicate. The Bhāṣya supplies cultivation, the scope across realms, and the necessary identity of a faculty moment; these are separate prose theories.
+**Kārikā, derived.** The root `SEM` carries the equal/superior antecedent into the application clause, and lexical *eva* excludes other result grades and treats same support as the associated-cause predicate. The Bhāṣya supplies cultivation, the scope across realms, and the necessary identity of a faculty moment; these are separate prose theories.
 
 ```nltk-sem
-application : ApplicationBorn(hearing) & ApplicationBorn(thought) & CauseFor(hearing,equal) & CauseFor(hearing,superior) & CauseFor(thought,equal) & CauseFor(thought,superior)
+application_examples : ApplicationBorn(hearing) & ApplicationBorn(thought) & CauseFor(hearing,equal) & CauseFor(hearing,superior) & CauseFor(thought,equal) & CauseFor(thought,superior)
+application_only : all x.all y.((ApplicationBorn(x) & CauseFor(x,y)) -> (y = equal | y = superior))
 association : AssociatedCause(citta,caitta) & SameSupport(citta,caitta)
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(ApplicationBorn(hearing) & ApplicationBorn(thought) & CauseFor(hearing,equal) & CauseFor(hearing,superior) & CauseFor(thought,equal) & CauseFor(thought,superior)) & (AssociatedCause(citta,caitta) & SameSupport(citta,caitta))
+((ApplicationBorn(hearing) & ApplicationBorn(thought) & CauseFor(hearing,equal) & CauseFor(hearing,superior) & CauseFor(thought,equal) & CauseFor(thought,superior)) & all x.all y.((ApplicationBorn(x) & CauseFor(x,y)) -> (y = equal | y = superior))) & (AssociatedCause(citta,caitta) & SameSupport(citta,caitta))
 
 # THEORY prose_cultivation
 # EXPECT prose_cultivation T

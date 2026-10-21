@@ -41,15 +41,16 @@ remains one token and has three referents.
 There is no expressed finite verb. The first clause resumes the
 preceding predicates and adds maturation; the second supplies
 “twofold” to both acquisitions and marks. The last predicate's
-“only” is explicit in the prose.
+“only” is explicit in the prose; the verse SEM records the positive
+outflow classification, and a separate prose theory records the exclusion.
 
 ```nltk-fcfg
 % start S
 # tokens: sabhāgatā sā tu punaḥ vipākaḥ api āptayaḥ dvidhā lakṣaṇāni ca niḥṣyandāḥ samāpattyasamanvayāḥ
-S[SEM=<(?same & ?twofold & ?only)>] -> SAMECLASS[SEM=?same] TWOFOLD[SEM=?twofold] OUTFLOWONLY[SEM=?only]
+S[SEM=<(?same & ?twofold & ?outflow)>] -> SAMECLASS[SEM=?same] TWOFOLD[SEM=?twofold] OUTFLOWGROUP[SEM=?outflow]
 SAMECLASS[SEM=<(SentientClassed(same_class) & HomogeneousOutflow(same_class) & Unobscured(same_class) & Indeterminate(same_class) & ResultOption(same_class,outflow) & ResultOption(same_class,maturation))>] -> CLASS[CASE=nom,NUM=sg] PRONOUN[CASE=nom,NUM=sg,REF=same_class] CONTRAST RESUMPTION RESULT[CASE=nom,NUM=sg] ALSO[FORCE=additional]
 TWOFOLD[SEM=<(ResultOption(acquisition,outflow) & ResultOption(acquisition,maturation) & ResultOption(marks,outflow) & ResultOption(marks,maturation))>] -> ACQUISITIONS[CASE=nom,NUM=pl] TWOWAYS[SORTS=2] MARKS[CASE=nom,NUM=pl] AND[SCOPE=twofold]
-OUTFLOWONLY[SEM=<all x.(OutflowOnlyKind(x) -> (ResultOption(x,outflow) & -ResultOption(x,maturation)))>] -> OUTFLOWS[CASE=nom,NUM=pl] COMPOUND[CASE=nom,NUM=pl,ATTAINMENTS=2,NONACQUISITION=1]
+OUTFLOWGROUP[SEM=<all x.(OutflowOnlyKind(x) -> ResultOption(x,outflow))>] -> OUTFLOWS[CASE=nom,NUM=pl] COMPOUND[CASE=nom,NUM=pl,ATTAINMENTS=2,NONACQUISITION=1]
 CLASS[CASE=nom,NUM=sg] -> 'sabhāgatā'
 PRONOUN[CASE=nom,NUM=sg,REF=same_class] -> 'sā'
 CONTRAST -> 'tu'
@@ -83,6 +84,7 @@ modeled separately from the inherited ethical and sentient predicates.
 > Same-class is likewise; that, however, is also maturation.
 > Acquisitions are twofold, and so are the marks.
 > The attainments and non-acquisition are homogeneous outflows.
+
 ### Bhāṣya-informed study translation
 
 > Same-class is likewise classed with sentient beings, is a homogeneous
@@ -90,6 +92,7 @@ modeled separately from the inherited ethical and sentient predicates.
 > Acquisitions and marks each admit two result-sorts: homogeneous outflow
 > and maturation. The two attainments and non-acquisition are homogeneous
 > outflows only.
+
 ## 6. Philosophical Translation
 
 > Shared catalogue membership does not impose a shared result-sort.
@@ -115,13 +118,18 @@ modeled separately from the inherited ethical and sentient predicates.
 ```nltk-sem
 same_class : (SentientClassed(same_class) & HomogeneousOutflow(same_class) & Unobscured(same_class) & Indeterminate(same_class) & ResultOption(same_class,outflow) & ResultOption(same_class,maturation))
 twofold : (ResultOption(acquisition,outflow) & ResultOption(acquisition,maturation) & ResultOption(marks,outflow) & ResultOption(marks,maturation))
-outflow_only : all x.(OutflowOnlyKind(x) -> (ResultOption(x,outflow) & -ResultOption(x,maturation)))
+outflow_group : all x.(OutflowOnlyKind(x) -> ResultOption(x,outflow))
+prose_only : all x.(OutflowOnlyKind(x) -> -ResultOption(x,maturation))
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-((SentientClassed(same_class) & HomogeneousOutflow(same_class) & Unobscured(same_class) & Indeterminate(same_class) & ResultOption(same_class,outflow) & ResultOption(same_class,maturation)) & (ResultOption(acquisition,outflow) & ResultOption(acquisition,maturation) & ResultOption(marks,outflow) & ResultOption(marks,maturation)) & all x.(OutflowOnlyKind(x) -> (ResultOption(x,outflow) & -ResultOption(x,maturation))))
+((SentientClassed(same_class) & HomogeneousOutflow(same_class) & Unobscured(same_class) & Indeterminate(same_class) & ResultOption(same_class,outflow) & ResultOption(same_class,maturation)) & (ResultOption(acquisition,outflow) & ResultOption(acquisition,maturation) & ResultOption(marks,outflow) & ResultOption(marks,maturation)) & all x.(OutflowOnlyKind(x) -> ResultOption(x,outflow)))
+
+# THEORY prose_only_outflow
+# EXPECT prose_only_outflow T
+all x.(OutflowOnlyKind(x) -> -ResultOption(x,maturation))
 
 # THEORY prose_classification
 # EXPECT prose_classification T
@@ -189,7 +197,7 @@ Answers => {}
 
 The six verse-kind labels are headings, not six distinct real dharmas:
 the marks remain a plural category. The nine result-option tuples
-give the passage's three two-sort headings and three outflow-only
+give the passage's three two-sort headings and three outflow-group
 headings, not nine produced dharmas. Options classify kinds; they do
 not assert that every instance is simultaneously both sorts.
 

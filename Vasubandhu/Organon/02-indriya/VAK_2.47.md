@@ -49,12 +49,12 @@ is an attributed alternative, not merged into the main Realm range.
 S[SEM=<(?definition & ?classification & ?continuation)>] -> DEFINITIONS[SEM=?definition] CLASSIFICATION[SEM=?classification] CONTINUATION[SEM=?continuation]
 DEFINITIONS[SEM=<(CollectionOf(name_group,designation) & CollectionOf(sentence_group,sentence) & CollectionOf(syllable_group,syllable))>] -> GROUPS[CASE=nom,NUM=pl,CNT=3] COLLECTIONS[CASE=nom,NUM=pl,MATCH=respectively]
 CLASSIFICATION[SEM=<all x.(GroupKind(x) -> (RealmOption(x,desire) & RealmOption(x,form) & SentientClassed(x) & HomogeneousOutflow(x) & Indeterminate(x)))>] -> REALMSENTIENT[CASE=nom,NUM=pl,REALMS=2] OUTFLOWETHICS[CASE=nom,NUM=pl]
-CONTINUATION[SEM=<ContinuesTo(likewise,next_verse_same_class)>] -> LIKEWISE[REF=next_verse_selected_classes]
+CONTINUATION[SEM=?continuation] -> LIKEWISE[REF=next_verse_selected_classes,SEM=?continuation]
 GROUPS[CASE=nom,NUM=pl,CNT=3] -> 'nāmakāyādayaḥ'
 COLLECTIONS[CASE=nom,NUM=pl,MATCH=respectively] -> 'saṃjñāvākyākṣarasamuktayaḥ'
 REALMSENTIENT[CASE=nom,NUM=pl,REALMS=2] -> 'kāmarūpāptasattvākhyāḥ'
 OUTFLOWETHICS[CASE=nom,NUM=pl] -> 'niḥṣyandāvyākṛtāḥ'
-LIKEWISE[REF=next_verse_selected_classes] -> 'tathā'
+LIKEWISE[REF=next_verse_selected_classes,SEM=<ContinuesTo(likewise,next_verse_same_class)>] -> 'tathā'
 ```
 
 ```nltk-dep
@@ -75,12 +75,14 @@ all sounds of a spoken sequence are simultaneous.
 > The groups of names and the rest are collections of designation, sentence,
 > and syllable. They are included in the desire and form realms,
 > classed with sentient beings, homogeneous outflows, and indeterminate.
+
 ### Bhāṣya-informed study translation
 
 > The groups of names and the rest are collections of designation, sentence,
 > and syllable respectively. They belong to the Desire and Form Realms,
 > are classed with sentient beings, are homogeneous outflows, and are
 > indeterminate. Likewise [the classification continues in the next verse].
+
 ## 6. Philosophical Translation
 
 > Three groups. Classed with the signifier, not the signified. Homogeneous outflow, unobscured-indeterminate. Succession pressures a single name-entity. The groups are maintained. Not settled.

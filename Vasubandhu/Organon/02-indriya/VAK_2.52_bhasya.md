@@ -10,7 +10,7 @@
 > prior-born. The Path crosses the nine levels as cause for the equal or
 > the superior.
 
-## 2. Continuous Sanskrit Witness
+## 2. Sanskrit Witness — Selected Passages
 
 > sabhāgahetuḥ katamaḥ /
 > sabhāgahetuḥ sadṛśāḥ /
@@ -19,9 +19,19 @@
 > svo nikāyo bhūś caiṣāṃ ta ime svanikāyabhuvaḥ /
 > anyo 'nyaṃ navabhūmis tu mārgaḥ samaviśiṣṭayoḥ // 2.52 //
 
-The unit is printed 85.08–87.20 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+The selected lines above do not transcribe the whole unit. The
+conflicting later lines in the [running witness](../../Sources/kosabhasya.txt)
+read:
 
-## 3. Continuous Conventional Translation
+> samaviśiṣṭayoḥ // 2.52 // [087|10]
+> nyūnasya heturbhavati / [087|11]
+> samaviśiṣṭayoḥ sabhāgaheturbhavanti na nyūnasya / [087|23, in the next unit]
+
+The 2.52 unit runs 85.08–87.20. The final quoted line is a
+cross-boundary check, not silently incorporated into 2.52. The
+contradiction is unresolved; this is not a collation.
+
+## 3. Conventional Argument Summary
 
 Similar dharmas are homogeneous causes of similar dharmas: wholesome aggregates of wholesome aggregates, and correspondingly for afflicted and indeterminate dharmas. In the ordinary case they belong to their own class and level. A prior arisen dharma can cause a later one, whether the latter has arisen or has yet to arise; a future dharma is not a homogeneous cause. The Bhāṣya argues about how this differs from maturation cause, whose character is established differently. The Path, adventitious in the nine levels and unappropriated by each level's craving, can be a homogeneous cause across levels. The verse gives equal and superior results; the printed prose at [087|11] says “of the inferior,” although subsequent examples and [087|23] support equal or superior.
 

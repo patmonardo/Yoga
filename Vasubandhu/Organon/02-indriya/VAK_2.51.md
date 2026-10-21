@@ -77,11 +77,13 @@ RESPECTS[CASE=inst,NUM=pl,OPEN=true,SEM=<all x.(FollowerKind(x) -> (TimeAligned(
 > The mental factors, the two restraints, and the marks of those and of
 > consciousness are followers of consciousness, by time, result, and the
 > rest, and by wholesomeness and the rest.
+
 ### Bhāṣya-informed study translation
 
 > The mental factors, the two restraints, and their marks, together with
 > the marks of consciousness, follow consciousness in time, result, and
-> ethical status.
+> ethical status, and related respects.
+
 ## 6. Philosophical Translation
 
 > Consciousness and its followers share a determinate course in time, result, and ethical character. Their co-arising calls for a causal account, but co-arising alone does not settle which dharma is a cause of which.
@@ -99,7 +101,7 @@ RESPECTS[CASE=inst,NUM=pl,OPEN=true,SEM=<all x.(FollowerKind(x) -> (TimeAligned(
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root `SEM` names the follower groups and states their alignment with consciousness in time, result, and ethical status. Its *ādi* remains open. The Bhāṣya expands those headings into ten respects and supplies the asymmetric counts of co-arisen causality; those prose claims are separate theories.
+**Kārikā, derived.** The root `SEM` names the follower groups and states their alignment with consciousness in time, result, and ethical status. Its two occurrences of *ādi* remain open. The Bhāṣya expands those headings into ten respects and supplies the asymmetric counts of co-arisen causality; those prose claims are separate theories.
 
 ```nltk-sem
 follower_respects : all x.(FollowerKind(x) -> (TimeAligned(x,citta) & ResultAligned(x,citta) & EthicalAligned(x,citta)))

@@ -6,9 +6,7 @@
 >
 > māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
 
-> Anger, resentment, crookedness, envy, spite, concealment, stinginess,
-> deception, intoxication, and harmfulness belong to the ground of limited
-> afflictions.
+> Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions.
 
 ## 2. Continuous Sanskrit Witness
 

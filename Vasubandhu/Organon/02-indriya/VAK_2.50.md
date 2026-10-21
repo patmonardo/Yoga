@@ -50,8 +50,8 @@ MUTUAL[SEM=<all x.all y.(MutualResult(x,y) -> (MutualResult(y,x) & CoarisenCause
 COARISEN[CASE=nom,NUM=sg,GEN=m] -> 'sahabhūḥ'
 REL[CASE=nom,NUM=pl,GEN=m] -> 'ye'
 RESULT[CASE=nom,NUM=pl,GEN=m,FORCE=reciprocal] -> 'mithaḥphalāḥ'
-EXAMPLES[SEM=<?elements & ?pairings>] -> ELEMENTS[FORCE=simile,COUNT=4,SEM=?elements] PAIRINGS[FORCE=simile,PAIRS=2,SEM=?pairings]
-ELEMENTS[FORCE=simile,COUNT=4,SEM=<all x.all y.((GreatElement(x) & GreatElement(y) & -(x = y)) -> MutualResult(x,y))>] -> 'bhūtavat'
+EXAMPLES[SEM=<?elements & ?pairings>] -> ELEMENTS[FORCE=simile,COUNT=4,SUPPLIED=prose_count,SEM=?elements] PAIRINGS[FORCE=simile,PAIRS=2,SEM=?pairings]
+ELEMENTS[FORCE=simile,COUNT=4,SUPPLIED=prose_count,SEM=<all x.all y.((GreatElement(x) & GreatElement(y) & -(x = y)) -> MutualResult(x,y))>] -> 'bhūtavat'
 PAIRINGS[FORCE=simile,PAIRS=2,SEM=<(MutualResult(citta,follower) & MutualResult(follower,citta) & MutualResult(mark,marked) & MutualResult(marked,mark))>] -> 'cittacittānuvartilakṣaṇalakṣyavat'
 ```
 
@@ -60,7 +60,8 @@ PAIRINGS[FORCE=simile,PAIRS=2,SEM=<(MutualResult(citta,follower) & MutualResult(
 'sahabhūḥ' -> 'ye' | 'mithaḥphalāḥ' | 'hetuḥ' | 'bhūtavat' | 'cittacittānuvartilakṣaṇalakṣyavat'
 ```
 
-**Feature chart checkpoints.** The carried definition spans [0, 4), the mutual-result criterion [4, 7), and its examples [7, 9). The root has one closed `SEM`. Ablative and nominative features constrain the first clause; nominative plural and reciprocal force constrain *ye mithaḥphalāḥ*. The example features distinguish the Bhāṣya's four elements from the two compound pairings.
+**Feature chart checkpoints.** The carried definition spans [0, 4), the mutual-result criterion [4, 7), and its examples [7, 9). The root has one closed `SEM`. Ablative and nominative features constrain the first clause; nominative plural and reciprocal force constrain *ye mithaḥphalāḥ*. The example features mark the four-element count as Bhāṣya-supplied
+and distinguish it from the two compound pairings.
 
 | Span | Constituent | Result |
 |---|---|
@@ -76,12 +77,14 @@ PAIRINGS[FORCE=simile,PAIRS=2,SEM=<(MutualResult(citta,follower) & MutualResult(
 > Other than itself is the conditioning cause. Co-arisen causes are those
 > mutually resulting, as the Great Elements, consciousness and its
 > followers, and mark and marked.
+
 ### Bhāṣya-informed study translation
 
 > What is other than itself is the conditioning cause. Co-arisen causes
 > are mutually resultant: the four Great Elements; consciousness and the
 > dharmas that follow it, each of the other; and the marks and what is
 > marked, each of the other.
+
 ## 6. Philosophical Translation
 
 > The cause that excludes itself gives way to reciprocal determination: where dharmas are one another's results, they are co-arisen causes. The Bhāṣya then tests the reach of that reciprocity against secondary marks.

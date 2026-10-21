@@ -26,7 +26,9 @@ vipākahetur aśubhāḥ kuśalāś caiva sāsravāḥ // 2.54 //
 | aśubhāḥ | masculine nominative plural adjective | unwholesome |
 | kuśalāḥ sāsravāḥ | masculine nominative plural adjectives | wholesome dharmas qualified by influx |
 
-**Grammar tokens.** Sandhi is opened at *vipākahetur aśubhāḥ* and *kuśalāś caiva*. The Bhāṣya resolves *pūrva-* as earlier arising and *kliṣṭānām* as the later afflicted results. The coordination makes both unwholesome and wholesome-with-influx dharmas maturation causes.
+**Grammar tokens.** Sandhi is opened at *vipākahetur aśubhāḥ* and *kuśalāś caiva*. The Bhāṣya resolves *pūrva-* as earlier arising and *kliṣṭānām* as the later afflicted results. The coordination makes both unwholesome and wholesome-with-influx
+dharmas maturation causes. Here *caiva* is additive and emphatic;
+the Bhāṣya supplies the explicit exclusions of other classes.
 
 ```text
 # tokens: sarvatragākhyaḥ kliṣṭānām svabhūmau pūrvasarvagāḥ vipākahetuḥ aśubhāḥ kuśalāḥ ca eva sāsravāḥ
@@ -43,13 +45,13 @@ PHEAD[CASE=nom,NUM=sg] -> 'sarvatragākhyaḥ'
 AFFLICTED[CASE=gen,NUM=pl] -> 'kliṣṭānām'
 LEVEL[CASE=loc,NUM=sg,REF=own] -> 'svabhūmau'
 PRIORP[CASE=nom,NUM=pl,TIME=prior] -> 'pūrvasarvagāḥ'
-MATURATION[SEM=<(MaturationCause(unwholesome) & MaturationCause(wholesome_influx) & HasInflux(wholesome_influx))>] -> MHEAD[CASE=nom,NUM=sg] BAD[CASE=nom,NUM=pl] GOOD[CASE=nom,NUM=pl] AND ONLY INFLUX[CASE=nom,NUM=pl]
+MATURATION[SEM=<(?bad & ?good & ?influx)>] -> MHEAD[CASE=nom,NUM=sg] BAD[CASE=nom,NUM=pl,SEM=?bad] GOOD[CASE=nom,NUM=pl,SEM=?good] AND EMPH INFLUX[CASE=nom,NUM=pl,SEM=?influx]
 MHEAD[CASE=nom,NUM=sg] -> 'vipākahetuḥ'
-BAD[CASE=nom,NUM=pl] -> 'aśubhāḥ'
-GOOD[CASE=nom,NUM=pl] -> 'kuśalāḥ'
+BAD[CASE=nom,NUM=pl,SEM=<(Unwholesome(unwholesome) & MaturationCause(unwholesome))>] -> 'aśubhāḥ'
+GOOD[CASE=nom,NUM=pl,SEM=<(Wholesome(wholesome_influx) & MaturationCause(wholesome_influx))>] -> 'kuśalāḥ'
 AND -> 'ca'
-ONLY -> 'eva'
-INFLUX[CASE=nom,NUM=pl] -> 'sāsravāḥ'
+EMPH -> 'eva'
+INFLUX[CASE=nom,NUM=pl,SEM=<HasInflux(wholesome_influx)>] -> 'sāsravāḥ'
 ```
 
 ```nltk-dep
@@ -57,7 +59,8 @@ INFLUX[CASE=nom,NUM=pl] -> 'sāsravāḥ'
 'vipākahetuḥ' -> 'aśubhāḥ' | 'kuśalāḥ' | 'ca' | 'eva' | 'sāsravāḥ'
 ```
 
-**Feature chart checkpoints.** Pervasive cause spans [0, 4), maturation cause [4, 10), and the root [0, 10). Prior-time, own-level locative, afflicted genitive, and wholesome-with-influx nominative features constrain their constituents. The verse does not itself state the Bhāṣya's cross-class exception or its exclusions.
+**Feature chart checkpoints.** Pervasive cause spans [0, 4), maturation cause [4, 10), and the root [0, 10). Prior-time, own-level locative, afflicted genitive, and wholesome-with-influx nominative features constrain their constituents. The verse names the two maturation-cause classes. `Eva` marks emphasis
+here; the Bhāṣya supplies the explicit exclusions and cross-class scope.
 
 ## 5. Translation
 
@@ -66,11 +69,13 @@ INFLUX[CASE=nom,NUM=pl] -> 'sāsravāḥ'
 > The cause called pervasive consists of prior pervasive dharmas of their
 > own level, for the afflicted there. Maturation cause is unwholesome and
 > wholesome with influx.
+
 ### Bhāṣya-informed study translation
 
 > The cause called pervasive is the prior pervasive dharmas of a level,
 > for later afflicted dharmas on that same level. Maturation cause is
 > unwholesome and wholesome with influx.
+
 ## 6. Philosophical Translation
 
 > Pervasive cause names the passage from an earlier pervasive dharma to later affliction on its level. Maturation cause names unwholesome or wholesome-with-influx dharmas under a different causal determination. The Bhāṣya tests the latter through weakness, craving, and the ripening of a continuum.
@@ -90,13 +95,13 @@ INFLUX[CASE=nom,NUM=pl] -> 'sāsravāḥ'
 
 ```nltk-sem
 pervasive : PervasiveCause(prior_pervasive,later_afflicted) & Prior(prior_pervasive,later_afflicted) & SameLevel(prior_pervasive,later_afflicted)
-maturation : MaturationCause(unwholesome) & MaturationCause(wholesome_influx) & HasInflux(wholesome_influx)
+maturation : Unwholesome(unwholesome) & MaturationCause(unwholesome) & Wholesome(wholesome_influx) & MaturationCause(wholesome_influx) & HasInflux(wholesome_influx)
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(PervasiveCause(prior_pervasive,later_afflicted) & Prior(prior_pervasive,later_afflicted) & SameLevel(prior_pervasive,later_afflicted)) & (MaturationCause(unwholesome) & MaturationCause(wholesome_influx) & HasInflux(wholesome_influx))
+(PervasiveCause(prior_pervasive,later_afflicted) & Prior(prior_pervasive,later_afflicted) & SameLevel(prior_pervasive,later_afflicted)) & (Unwholesome(unwholesome) & MaturationCause(unwholesome) & Wholesome(wholesome_influx) & MaturationCause(wholesome_influx) & HasInflux(wholesome_influx))
 
 # THEORY prose_cross_class
 # EXPECT prose_cross_class T
@@ -137,6 +142,8 @@ SameLevel => {(pp,la)}
 DifferentClass => {(pp,la)}
 SameClass => {}
 MaturationCause => {uw,wi}
+Unwholesome => {uw}
+Wholesome => {wi}
 HasInflux => {wi}
 Weak => {id}
 Unmoistened => {uc}

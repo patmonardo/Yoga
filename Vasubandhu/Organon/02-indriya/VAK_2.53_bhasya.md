@@ -11,17 +11,31 @@
 > Associated cause is consciousness and mental factors sharing one
 > support.
 
-## 2. Continuous Sanskrit Witness
+## 2. Sanskrit Witness — Selected Passages
 
 > prayogajās tayor eva /
 > samaviśiṣṭayoḥ sabhāgahetur bhavanti na nyūnasya /
 > śrutacintāmayādikāḥ /
 > ete hi prāyogikāḥ śrutacintābhāvanāmayā guṇāḥ samaviśiṣṭayor eva hetur nanyūnānām /
 > saṃprayuktakahetus tu cittacaittāḥ samāśrayāḥ // 2.53 //
+> evaṃ sati bhinnakālasantānajānāma pyanyonyasaṃprayuktakahetutvaprasaṅgaḥ /
+> ekākārā lambanāstarhi /
+> ekakālāstarhi /
+> evaṃ tarhi sati bhinnasantānajānāmapi prasaṅgo navacandrādīni paśyatām /
+> samāna āśrayo yeṣāṃ te cittacaittāḥ anyonyaṃ saṃprayuktakahetuḥ /
+> samāna ityabhinnastatadyathā ya eva cakṣurindriyakṣaṇaścakṣurvijñānasyāśrayaḥ sa eva tatsaṃprayuktānāṃ vedanādīnāmeva yāvanmanaḥ /
+> yaḥ saṃprayuktakahetuḥ sahabhūheturapi saḥ /
+> anyonyaphalārthena sahabhūhetuḥ /
+> pañcabhiḥ samatābhiḥ saṃprayogārthena saṃprayuktakahetuḥ /
 
-The unit is printed 87.20–88.27 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+These are selected lines from 87.20–88.27 in
+[the running witness](../../Sources/kosabhasya.txt). The source's
+segmented verse label has been replaced by the project number; the
+other quoted lines retain compressed or damaged wording. The quoted
+support-identity line is at 88.20–22, and the five-equalities line
+at 88.24–25. This is not a collation or a complete transcription.
 
-## 3. Continuous Conventional Translation
+## 3. Conventional Argument Summary
 
 Worldly qualities produced by application are homogeneous causes of the equal or the superior only. Hearing, thought, cultivation, by realm, as each is present. Nine grades, downward in reach as the grade rises. Birth-acquired wholesome, and the afflicted, of one another. Four unobscured-indeterminate, of four, three, two, and one. Effort is not fruitless. Decline is still stated. Prior acquisition is not prior arising. A future dharma is not this cause.
 
@@ -108,4 +122,4 @@ The first rejected theory tests the Bhāṣya's different-continuum objection. T
 
 ## 5. Review Status
 
-Grammar and Logic pass added for the selected [088|20] Bhāṣya proposition and its surrounding argument. The continuous Sanskrit witness remains partial and uncollated; the fuller source unit and disputed readings still need editorial review. The pervasive cause is next.
+Grammar and Logic pass added for the selected [088|20] Bhāṣya proposition and its surrounding argument. The selected Sanskrit witness remains partial and uncollated; the fuller source unit and disputed readings still need editorial review. The pervasive cause is next.

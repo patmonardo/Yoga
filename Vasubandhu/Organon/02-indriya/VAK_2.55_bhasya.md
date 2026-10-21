@@ -11,7 +11,7 @@
 > Conditioned dharmas and disconnection count as fruits; an unconditioned
 > dharma has neither cause nor fruit.
 
-## 2. Continuous Sanskrit Witness
+## 2. Sanskrit Witness — Selected Passages
 
 > sarvatragaḥ sabhāgaś ca dvayadhvagau /
 > atītapratyutpannāv eva anāgatau na staḥ /
@@ -22,10 +22,19 @@
 > katame /
 > saṃskṛtā dharmāḥ pratisaṃkhyānirodhaś ceti śāstram /
 > nāsaṃskṛtasya te // 2.55 //
+> saṃskṛtasyaiva dharmasya hetuphale bhavataḥ /
+> utpādanāt / kathaṃ visaṃyoge / prapaṇāt /
+> tasmānna tāvadasya mārgaḥ kathañcidapi hetuḥ /
+> phalaṃ cāsya visaṃyogaḥ /
 
-The unit is printed 90.23–92.22 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+These are selected lines from 90.23–92.22 in
+[the running witness](../../Sources/kosabhasya.txt), not a complete
+transcription or collation. The [091|04] sentence resolves the dual
+*te* as cause and fruit. The [091|11–12] lines distinguish producing
+acquisition from bringing to disconnection; they retain the source's
+claim that the Path is not a productive cause of disconnection.
 
-## 3. Continuous Conventional Translation
+## 3. Conventional Argument Summary
 
 Pervasive and homogeneous are past and present. Co-arisen, associated, and maturation are three times. The conditioning cause is all times and dissociated from time. The fruit is the conditioned and cessation by Discrimination. Cause and fruit belong only to a conditioned dharma in that matrix, although disconnection is itself counted among fruits. The Path produces the acquisition and brings one to disconnection. It is not the cause of disconnection. Entity or absence is disputed. Gone, for now.
 
@@ -129,4 +138,4 @@ The negative tests reject a three-cause antecedent for *te*, production of disco
 
 ## 5. Review Status
 
-Grammar and Logic added for selected [091|04] and its surrounding temporal and fruit argument. The continuous Sanskrit witness remains partial and uncollated; disputed unconditioned ontology is not resolved by the finite model. The assignment of fruits is next.
+Grammar and Logic added for selected [091|04] and its surrounding temporal and fruit argument. The selected Sanskrit witness remains partial and uncollated; disputed unconditioned ontology is not resolved by the finite model. The assignment of fruits is next.

@@ -38,12 +38,12 @@ saṃskṛtaṃ savisaṃyogaṃ phalaṃ nāsaṃskṛtasya te // 2.55 //
 % start S
 # tokens: sarvatragaḥ sabhāgaḥ ca dvayadhvagau tryadhvagāḥ trayaḥ saṃskṛtam savisaṃyogam phalam na asaṃskṛtasya te
 S[SEM=<(?two & ?three & ?fruits & ?exclusion)>] -> TWO[SEM=?two] THREE[SEM=?three] FRUITS[SEM=?fruits] EXCLUSION[SEM=?exclusion]
-TWO[SEM=<(TimeOf(pervasive,past) & TimeOf(pervasive,present) & TimeOf(homogeneous,past) & TimeOf(homogeneous,present))>] -> PERVASIVE[CASE=nom,NUM=sg] HOMOGENEOUS[CASE=nom,NUM=sg] AND TWO_TIMES[CASE=nom,NUM=du,COUNT=2]
+TWO[SEM=<(TimeOf(pervasive,past) & TimeOf(pervasive,present) & TimeOf(homogeneous,past) & TimeOf(homogeneous,present) & -TimeOf(pervasive,future) & -TimeOf(homogeneous,future))>] -> PERVASIVE[CASE=nom,NUM=sg] HOMOGENEOUS[CASE=nom,NUM=sg] AND TWO_TIMES[CASE=nom,NUM=du,COUNT=2]
 PERVASIVE[CASE=nom,NUM=sg] -> 'sarvatragaḥ'
 HOMOGENEOUS[CASE=nom,NUM=sg] -> 'sabhāgaḥ'
 AND -> 'ca'
 TWO_TIMES[CASE=nom,NUM=du,COUNT=2] -> 'dvayadhvagau'
-THREE[SEM=<(ThreeTimes(coarisen) & ThreeTimes(associated) & ThreeTimes(maturation))>] -> THREE_TIMES[CASE=nom,NUM=pl,COUNT=3] COUNT_THREE[CASE=nom,NUM=pl,COUNT=3]
+THREE[SEM=<(TimeOf(coarisen,past) & TimeOf(coarisen,present) & TimeOf(coarisen,future) & TimeOf(associated,past) & TimeOf(associated,present) & TimeOf(associated,future) & TimeOf(maturation,past) & TimeOf(maturation,present) & TimeOf(maturation,future))>] -> THREE_TIMES[CASE=nom,NUM=pl,COUNT=3] COUNT_THREE[CASE=nom,NUM=pl,COUNT=3]
 THREE_TIMES[CASE=nom,NUM=pl,COUNT=3] -> 'tryadhvagāḥ'
 COUNT_THREE[CASE=nom,NUM=pl,COUNT=3] -> 'trayaḥ'
 FRUITS[SEM=<(Fruit(conditioned) & Fruit(disconnection))>] -> CONDITIONED[CASE=nom,NUM=sg] WITH_DISCONNECTION[CASE=nom,NUM=sg] FRUIT[CASE=nom,NUM=sg]
@@ -63,7 +63,9 @@ BOTH[CASE=nom,NUM=du,REF=cause_fruit] -> 'te'
 'te' -> 'na' | 'asaṃskṛtasya'
 ```
 
-**Feature chart checkpoints.** The two-cause group spans [0, 4), the three-cause group [4, 6), fruits [6, 9), and the dual exclusion [9, 12). The root spans [0, 12). The dual `te` is bound to `cause_fruit`; changing it to a plural three-cause reference blocks the parse.
+**Feature chart checkpoints.** The two-cause group spans [0, 4), the three-cause group [4, 6), fruits [6, 9), and the dual exclusion [9, 12). The root spans [0, 12). The dual `te` is bound to `cause_fruit`; changing it to a plural
+three-cause reference blocks the parse. The `SEM` states all three
+times for each named cause and excludes future from the two-time pair.
 
 ## 5. Translation
 
@@ -72,6 +74,7 @@ BOTH[CASE=nom,NUM=du,REF=cause_fruit] -> 'te'
 > The pervasive and homogeneous range over two times; three causes range
 > over three. The conditioned, together with disconnection, is fruit;
 > cause and fruit do not belong to an unconditioned dharma.
+
 ### Bhāṣya-informed study translation
 
 > The pervasive and homogeneous causes occur in past and present; the
@@ -98,8 +101,8 @@ BOTH[CASE=nom,NUM=du,REF=cause_fruit] -> 'te'
 **Kārikā, derived.** The root `SEM` distinguishes the two-time and three-time cause groups, includes disconnection among fruits, and denies cause and fruit *of* an unconditioned dharma. The conditioning cause's unrestricted temporal range and the Path/acquisition/disconnection explanation are Bhāṣya determinations, modeled separately.
 
 ```nltk-sem
-two : TimeOf(pervasive,past) & TimeOf(pervasive,present) & TimeOf(homogeneous,past) & TimeOf(homogeneous,present)
-three : ThreeTimes(coarisen) & ThreeTimes(associated) & ThreeTimes(maturation)
+two : TimeOf(pervasive,past) & TimeOf(pervasive,present) & TimeOf(homogeneous,past) & TimeOf(homogeneous,present) & -TimeOf(pervasive,future) & -TimeOf(homogeneous,future)
+three : TimeOf(coarisen,past) & TimeOf(coarisen,present) & TimeOf(coarisen,future) & TimeOf(associated,past) & TimeOf(associated,present) & TimeOf(associated,future) & TimeOf(maturation,past) & TimeOf(maturation,present) & TimeOf(maturation,future)
 fruits : Fruit(conditioned) & Fruit(disconnection)
 exclusion : -HasCause(unconditioned) & -HasFruit(unconditioned)
 ```
@@ -107,7 +110,7 @@ exclusion : -HasCause(unconditioned) & -HasFruit(unconditioned)
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(TimeOf(pervasive,past) & TimeOf(pervasive,present) & TimeOf(homogeneous,past) & TimeOf(homogeneous,present)) & (ThreeTimes(coarisen) & ThreeTimes(associated) & ThreeTimes(maturation)) & (Fruit(conditioned) & Fruit(disconnection)) & (-HasCause(unconditioned) & -HasFruit(unconditioned))
+(TimeOf(pervasive,past) & TimeOf(pervasive,present) & TimeOf(homogeneous,past) & TimeOf(homogeneous,present) & -TimeOf(pervasive,future) & -TimeOf(homogeneous,future)) & (TimeOf(coarisen,past) & TimeOf(coarisen,present) & TimeOf(coarisen,future) & TimeOf(associated,past) & TimeOf(associated,present) & TimeOf(associated,future) & TimeOf(maturation,past) & TimeOf(maturation,present) & TimeOf(maturation,future)) & (Fruit(conditioned) & Fruit(disconnection)) & (-HasCause(unconditioned) & -HasFruit(unconditioned))
 
 # THEORY prose_conditioning_range
 # EXPECT prose_conditioning_range T
@@ -123,7 +126,7 @@ TimeOf(homogeneous,future) & TimeOf(homogeneous,present)
 
 # THEORY rejected_three_are_two
 # EXPECT rejected_three_are_two F
--ThreeTimes(maturation) & ThreeTimes(coarisen)
+-TimeOf(maturation,future) & TimeOf(coarisen,future)
 
 # THEORY rejected_disconnection_produced
 # EXPECT rejected_disconnection_produced F
@@ -149,8 +152,7 @@ disconnection => dc
 unconditioned => uc
 path => pt
 acquisition => aq
-TimeOf => {(pv,pa),(pv,pr),(hg,pa),(hg,pr),(cn,pa),(cn,pr),(cn,fu)}
-ThreeTimes => {co,as,ma}
+TimeOf => {(pv,pa),(pv,pr),(hg,pa),(hg,pr),(co,pa),(co,pr),(co,fu),(as,pa),(as,pr),(as,fu),(ma,pa),(ma,pr),(ma,fu),(cn,pa),(cn,pr),(cn,fu)}
 Fruit => {cd,dc}
 HasCause => {}
 HasFruit => {}

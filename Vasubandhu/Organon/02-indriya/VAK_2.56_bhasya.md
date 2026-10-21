@@ -2,7 +2,7 @@
 
 ## 1. Kārikā Anchor
 
-> vipākaphalam antyasya pūrvasya adhipajaṃ phalam /
+> vipākaphalam antyasya pūrvasyādhipataṃ phalam /
 >
 > sabhāgasarvatragayor niṣyandaḥ pauruṣaṃ dvayoḥ // 2.56 //
 
@@ -11,11 +11,11 @@
 > pervasive have homogeneous outflow; the co-arisen and associated have
 > efficacy as fruit.
 
-## 2. Continuous Sanskrit Witness
+## 2. Sanskrit Witness — Selected Passages
 
 > vipākaphalam antyasya /
 > tasya vipākaphalam /
-> pūrvasya adhipajaṃ phalam /
+> pūrvasyādhipataṃ phalam /
 > kāraṇahetuḥ pūrvam uktatvāt pūrvaḥ /
 > tasyādhipajaṃ phalam /
 > sabhāgasarvatragayor niṣyandaḥ /
@@ -27,9 +27,13 @@
 > anyeṣāmapyastyanyatra vipākahetoḥ /
 > tasyāpyasti viprakṛṣṭapuruṣakāraphalam / yathā karṣakāṇāṃ sasyamityapare /
 
-The selected witness extends through 95.08; the unit begins at 94.19 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+The selected witness extends through 95.08; the unit begins at 94.19
+in [the running witness](../../Sources/kosabhasya.txt). The verse
+reads *adhipataṃ* at 94.21; the explanatory prose reads *adhipajaṃ*
+at 94.22. This distinction is retained, not silently normalized.
+The remaining quoted forms are study word divisions, not a collation.
 
-## 3. Continuous Conventional Translation
+## 3. Conventional Argument Summary
 
 The last has maturation-fruit. The first has predominance. What predominance has mere non-obstruction? That very non-obstruction. A contributory role too. Homogeneous and pervasive have a similar fruit. Homogeneous outflow. The two are co-arisen and associated. Fruit of efficacy. Efficacy is the activity a dharma performs. Called a person's activity by resemblance. The later question shows the assignment is not exclusive: other causes can also have efficacy-fruit, except maturation cause in the main reply. A further opinion gives maturation cause a distant efficacy-fruit, likened to farmers' crop; it is reported without being made the principal assignment.
 

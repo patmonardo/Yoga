@@ -43,7 +43,7 @@ HEAD[CASE=nom,NUM=sg] -> 'sabhāgahetuḥ'
 SIMILAR[CASE=nom,NUM=pl] -> 'sadṛśāḥ'
 OWN[CASE=nom,NUM=pl,CLASS=own,LEVEL=own] -> 'svanikāyabhuvaḥ'
 PRIOR[CASE=nom,NUM=pl,TIME=prior] -> 'agrajāḥ'
-PATH_CLAUSE[SEM=<(NineLevels(path) & CrossLevel(path_cause,path_equal) & CrossLevel(path_cause,path_superior) & EqualGrade(path_cause,path_equal) & SuperiorGrade(path_superior,path_cause) & Prior(path_cause,path_equal) & Prior(path_cause,path_superior))>] -> RECIPROCAL[CASE=nom,ACC=acc] NINE[CASE=nom,NUM=sg,COUNT=9] CONTRAST PATH[CASE=nom,NUM=sg] RANGE[CASE=gen,NUM=du,GRADES=equal_superior]
+PATH_CLAUSE[SEM=<(NineLevels(path) & PathCauseFor(path_cause,path_equal) & PathCauseFor(path_cause,path_superior) & CrossLevel(path_cause,path_superior) & EqualGrade(path_cause,path_equal) & SuperiorGrade(path_superior,path_cause) & Prior(path_cause,path_equal) & Prior(path_cause,path_superior))>] -> RECIPROCAL[CASE=nom,ACC=acc] NINE[CASE=nom,NUM=sg,COUNT=9] CONTRAST PATH[CASE=nom,NUM=sg] RANGE[CASE=gen,NUM=du,GRADES=equal_superior]
 RECIPROCAL[CASE=nom,ACC=acc] -> OTHER_NOM[CASE=nom] OTHER_ACC[CASE=acc]
 OTHER_NOM[CASE=nom] -> 'anyaḥ'
 OTHER_ACC[CASE=acc] -> 'anyam'
@@ -59,7 +59,7 @@ RANGE[CASE=gen,NUM=du,GRADES=equal_superior] -> 'samaviśiṣṭayoḥ'
 'anyaḥ' -> 'anyam'
 ```
 
-**Feature chart checkpoints.** The ordinary definition spans [0, 4); the reciprocal Path exception spans [4, 10). One root `SEM` holds the ordinary same-class/same-level/prior relation and the Path's cross-level equal/superior cases. The `COUNT`, `GRADES`, case, and prior-time features constrain their respective constituents.
+**Feature chart checkpoints.** The ordinary definition spans [0, 4); the reciprocal Path exception spans [4, 10). One root `SEM` holds the ordinary same-class/same-level/prior relation and the Path's equal/superior cases, including an allowed cross-level case. The `COUNT`, `GRADES`, case, and prior-time features constrain their respective constituents.
 
 | Span | Constituent | Result |
 |---|---|---|
@@ -75,11 +75,13 @@ RANGE[CASE=gen,NUM=du,GRADES=equal_superior] -> 'samaviśiṣṭayoḥ'
 > Homogeneous causes are similar, of their own class and level, and
 > prior-born. The Path of nine levels is of one another, at the equal and
 > superior levels.
+
 ### Bhāṣya-informed study translation
 
 > A homogeneous cause is similar, of its own class and level, and
 > prior-born. The Path crosses the nine levels as cause for the equal or
 > the superior.
+
 ## 6. Philosophical Translation
 
 > Similarity becomes a homogeneous causal relation only with a direction: an earlier dharma conditions a later one. The ordinary case retains its own class and level; the Path can connect levels while retaining priority and the equal-or-superior range stated by the verse.
@@ -95,17 +97,18 @@ RANGE[CASE=gen,NUM=du,GRADES=equal_superior] -> 'samaviśiṣṭayoḥ'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root `SEM` records the ordinary definition and the Path exception. The ordinary same-class/same-level condition is not copied into the Path clause. The Path's priority and cross-level interpretation are resolved through the Bhāṣya. These named examples witness the verse's positive cases; they do not settle the contradictory prose line about an inferior result.
+**Kārikā, derived.** The root `SEM` records the ordinary definition and the Path exception. The ordinary same-class/same-level condition is not copied into the Path clause. The Path's priority and cross-level permission are resolved through the Bhāṣya.
+An equal-grade example is not thereby forced to cross levels. These named examples witness the verse's positive cases; they do not settle the contradictory prose line about an inferior result.
 
 ```nltk-sem
 ordinary : Similar(ordinary_cause,ordinary_result) & SameClass(ordinary_cause,ordinary_result) & SameLevel(ordinary_cause,ordinary_result) & Prior(ordinary_cause,ordinary_result)
-path : NineLevels(path) & CrossLevel(path_cause,path_equal) & CrossLevel(path_cause,path_superior) & EqualGrade(path_cause,path_equal) & SuperiorGrade(path_superior,path_cause) & Prior(path_cause,path_equal) & Prior(path_cause,path_superior)
+path : NineLevels(path) & PathCauseFor(path_cause,path_equal) & PathCauseFor(path_cause,path_superior) & CrossLevel(path_cause,path_superior) & EqualGrade(path_cause,path_equal) & SuperiorGrade(path_superior,path_cause) & Prior(path_cause,path_equal) & Prior(path_cause,path_superior)
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(Similar(ordinary_cause,ordinary_result) & SameClass(ordinary_cause,ordinary_result) & SameLevel(ordinary_cause,ordinary_result) & Prior(ordinary_cause,ordinary_result)) & (NineLevels(path) & CrossLevel(path_cause,path_equal) & CrossLevel(path_cause,path_superior) & EqualGrade(path_cause,path_equal) & SuperiorGrade(path_superior,path_cause) & Prior(path_cause,path_equal) & Prior(path_cause,path_superior))
+(Similar(ordinary_cause,ordinary_result) & SameClass(ordinary_cause,ordinary_result) & SameLevel(ordinary_cause,ordinary_result) & Prior(ordinary_cause,ordinary_result)) & (NineLevels(path) & PathCauseFor(path_cause,path_equal) & PathCauseFor(path_cause,path_superior) & CrossLevel(path_cause,path_superior) & EqualGrade(path_cause,path_equal) & SuperiorGrade(path_superior,path_cause) & Prior(path_cause,path_equal) & Prior(path_cause,path_superior))
 
 # THEORY prose_prior_not_future
 # EXPECT prose_prior_not_future T
@@ -156,14 +159,16 @@ SameLevel => {(oc,or),(wc,or)}
 Prior => {(oc,or),(wc,or),(wl,or),(pc,pe),(pc,ps)}
 HomogeneousCause => {(oc,or),(pc,pe),(pc,ps)}
 NineLevels => {p}
-CrossLevel => {(pc,pe),(pc,ps)}
+PathCauseFor => {(pc,pe),(pc,ps)}
+CrossLevel => {(pc,ps)}
 EqualGrade => {(pc,pe)}
 SuperiorGrade => {(ps,pc)}
 Adventitious => {p}
 AppropriatedAtOneLevel => {}
 ```
 
-The finite model witnesses the positive ordinary and Path cases and rejects similarity without the ordinary class/level restriction, a future cause, and a Path case that discards priority. It deliberately does not decide the printed *nyūnasya hetur bhavati* at [087|11]: the verse and the later *na nyūnasya* at [087|23] conflict with that line. A collation is needed before turning the inferior case into a source-grounded negative theory.
+The finite model witnesses the positive ordinary and Path cases and rejects similarity without the ordinary class/level restriction, a future cause, and a Path case that discards priority. The equal-grade case
+remains level-neutral; the model witnesses one cross-level superior case. It deliberately does not decide the printed *nyūnasya hetur bhavati* at [087|11]: the verse and the later *na nyūnasya* at [087|23] conflict with that line. A collation is needed before turning the inferior case into a source-grounded negative theory.
 
 ## 9. Interpretive Note
 

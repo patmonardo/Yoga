@@ -7,6 +7,7 @@ import unittest
 from nltk.grammar import FeatureGrammar
 from nltk.parse import FeatureChartParser
 from nltk.sem import Assignment, Model
+from nltk.sem.logic import Expression
 
 from audit_nltk_blocks import BLOCK, check_grammar, check_logic, load_valuation, section
 
@@ -1417,6 +1418,22 @@ class IndriyaPilotTests(unittest.TestCase):
         self.assertIn(("unwholesome_regret_moment",), valuation["RegretPresent"])
         self.assertNotIn(("unwholesome_regret_moment",), valuation["WholesomeDesireMoment"])
         verse = tree.label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        regret_cases = valuation["RegretPresent"]
+        valuation["RegretPresent"] = {("unwholesome_regret_moment",)}
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["RegretPresent"] = regret_cases
+        universal_regret = text.replace(
+            "SOMETIMES[SCOPE=some_cases,SEM=<\\P.exists c.(WholesomeDesireMoment(c) & P(c))>] ->",
+            "SOMETIMES[SCOPE=some_cases,SEM=<\\P.all c.(WholesomeDesireMoment(c) -> P(c))>] ->", 1,
+        )
+        self.assertNotEqual(universal_regret, text)
+        broad_grammar, broad_tokens = grammar_and_tokens(universal_regret)
+        broad_verse = list(FeatureChartParser(broad_grammar).parse(broad_tokens))[0].label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(broad_verse, Assignment(model.domain)))
         for predicate, pair in (
             ("BaseCount", ("base_moment", "count_twenty_two")),
             ("InitialExamination", ("base_moment",)),
@@ -1436,9 +1453,10 @@ class IndriyaPilotTests(unittest.TestCase):
             ("REASON[CASE=abl,PAIR=included] ->",
              "REASON[CASE=abl,PAIR=outside_count] ->"),
             ("TWENTYTWO[CNT=22,SEM=<", "TWENTYTWO[CNT=24,SEM=<"),
-            ("EXTRA[MODE=addition] ->", "EXTRA[MODE=replacement] ->"),
-            ("SOMETIMES[SCOPE=some_cases] ->",
-             "SOMETIMES[SCOPE=every_case] ->"),
+            ("EXTRA[MODE=addition,SUPPLIED=prose_count,SEM=<",
+             "EXTRA[MODE=replacement,SUPPLIED=prose_count,SEM=<"),
+            ("SOMETIMES[SCOPE=some_cases,SEM=<",
+             "SOMETIMES[SCOPE=every_case,SEM=<"),
         ):
             with self.subTest(feature=old):
                 self.assertIn(old, text)
@@ -2862,8 +2880,8 @@ class IndriyaPilotTests(unittest.TestCase):
              "COLLECTIONS[CASE=nom,NUM=pl,MATCH=interchangeably] ->"),
             ("REALMSENTIENT[CASE=nom,NUM=pl,REALMS=2] ->",
              "REALMSENTIENT[CASE=nom,NUM=pl,REALMS=3] ->"),
-            ("LIKEWISE[REF=next_verse_selected_classes] ->",
-             "LIKEWISE[REF=all_properties] ->"),
+            ("LIKEWISE[REF=next_verse_selected_classes,SEM=<ContinuesTo(likewise,next_verse_same_class)>] ->",
+             "LIKEWISE[REF=all_properties,SEM=<ContinuesTo(likewise,next_verse_same_class)>] ->"),
         ):
             with self.subTest(feature=old):
                 self.assertIn(old, text)
@@ -2945,12 +2963,18 @@ class IndriyaPilotTests(unittest.TestCase):
         model = Model(valuation.domain, valuation)
         self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
         valuation["SentientClassed"] = original
+        # The verse classifies the last three as outflows; the Bhāṣya's
+        # eva, checked separately, excludes maturation for them.
+        prose_only = Expression.fromstring(
+            "all x.(OutflowOnlyKind(x) -> -ResultOption(x,maturation))"
+        )
         original = valuation["ResultOption"]
         for kind in outflow_only:
             with self.subTest(incorrect_maturation=kind):
                 valuation["ResultOption"] = original | {(kind, valuation["maturation"])}
                 model = Model(valuation.domain, valuation)
-                self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+                self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+                self.assertFalse(model.satisfy(prose_only, Assignment(model.domain)))
         valuation["ResultOption"] = original
         for old, new in (
             ("PRONOUN[CASE=nom,NUM=sg,REF=same_class] ->",
@@ -2990,6 +3014,562 @@ class IndriyaPilotTests(unittest.TestCase):
         self.assertNotIn("next question", rendering)
         self.assertIn("does not transfer the two-Realm limit", section(bhasya, 4))
         self.assertIn("Nor does closing this discussion close the", section(bhasya, 6))
+
+
+    def test_2_49_six_cause_kinds_and_bhasya_argument(self):
+        text = study(49)
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [8, 1, 1, 1])
+        verse = parses[0].label()["SEM"].simplify()
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        self.assertEqual(len(valuation["CauseKind"]), 6)
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        for predicate, relation in (
+            ("CauseKind", (valuation["maturation"],)),
+            ("Held", (valuation["cause_account"],)),
+        ):
+            original = valuation[predicate]
+            valuation[predicate] = original - {relation}
+            model = Model(valuation.domain, valuation)
+            self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+            valuation[predicate] = original
+        valuation["CauseKind"] |= {(valuation["seventh"],)}
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        for old, new in (
+            ("NAMES[COUNT=6,SEM=<", "NAMES[COUNT=7,SEM=<"),
+            ("SIX[CASE=nom,NUM=sg,GEN=m,CNT=6,SEM=<",
+             "SIX[CASE=nom,NUM=sg,GEN=m,CNT=7,SEM=<"),
+            ("HEAD[CASE=nom,NUM=sg,GEN=m,SEM=<",
+             "HEAD[CASE=nom,NUM=sg,GEN=n,SEM=<"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.49_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split(
+            "### Bhāṣya-informed study translation\n", 1,
+        )[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        for passage in (
+            "vighnamuatpattau", "nirvāṇasyānutpattidharmakāṇāṃ",
+            "pradhānaḥ kāraṇahetuḥ", "na kārakabhāveneti",
+            "sāmarthyamityapare", "kāraṇaparaparayā",
+            "uktaḥ kāraṇahetuḥ",
+        ):
+            self.assertIn(passage, section(bhasya, 2))
+        self.assertIn("Others instead maintain", section(bhasya, 3))
+        self.assertIn("not as productive agents", section(bhasya, 3))
+
+
+    def test_2_50_mutual_result_and_secondary_mark_boundary(self):
+        text = study(50)
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [4, 3, 2])
+        verse = parses[0].label()["SEM"].simplify()
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        original = valuation["MutualResult"]
+        valuation["MutualResult"] = original - {
+            (valuation["follower"], valuation["citta"]),
+        }
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["MutualResult"] = original
+        self.assertNotIn(
+            (valuation["secondary_mark"], valuation["marked"]), original,
+        )
+        self.assertIn(
+            (valuation["marked"], valuation["secondary_mark"]),
+            valuation["CoarisenCauseFor"],
+        )
+        self.assertNotIn(
+            (valuation["secondary_mark"], valuation["marked"]),
+            valuation["CoarisenCauseFor"],
+        )
+        for old, new in (
+            ("FROM[CASE=abl] ->", "FROM[CASE=nom] ->"),
+            ("RESULT[CASE=nom,NUM=pl,GEN=m,FORCE=reciprocal] ->",
+             "RESULT[CASE=nom,NUM=pl,GEN=m,FORCE=one_way] ->"),
+            ("ELEMENTS[FORCE=simile,COUNT=4,SUPPLIED=prose_count,SEM=<",
+             "ELEMENTS[FORCE=simile,COUNT=5,SUPPLIED=prose_count,SEM=<"),
+            ("PAIRINGS[FORCE=simile,PAIRS=2,SEM=<",
+             "PAIRINGS[FORCE=simile,PAIRS=1,SEM=<"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.50_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split(
+            "### Bhāṣya-informed study translation\n", 1,
+        )[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        for passage in (
+            "katham /", "catvāri mahābhūtānyanyonyaṃ",
+            "yathāyogam", "vināpi cānyonyaphalatvena",
+        ):
+            self.assertIn(passage, section(bhasya, 2))
+        self.assertIn("secondary marks are not", section(bhasya, 3))
+
+
+    def test_2_51_follower_groups_and_directional_counts(self):
+        text = study(51)
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [7, 1, 1])
+        verse = parses[0].label()["SEM"].simplify()
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        self.assertEqual(len(valuation["FollowerKind"]), 5)
+        self.assertEqual(len(valuation["Respect"]), 10)
+        self.assertEqual(len(valuation["TimeRespect"]), 4)
+        self.assertEqual(len(valuation["ResultRespect"]), 3)
+        self.assertEqual(len(valuation["EthicalRespect"]), 3)
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        relation = (valuation["uncontaminated_restraint"], valuation["citta"])
+        valuation["Follows"].remove(relation)
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["Follows"].add(relation)
+        self.assertNotEqual(valuation["fifty_eight"], valuation["fifty_four"])
+        self.assertEqual(valuation["CausesCount"], {
+            (valuation["citta"], valuation["fifty_eight"]),
+        })
+        self.assertEqual(valuation["CausedByCount"], {
+            (valuation["citta"], valuation["fifty_four"]),
+        })
+        self.assertNotIn(
+            (valuation["own_secondary_marks"], valuation["citta"]),
+            valuation["CoarisenCauseFor"],
+        )
+        for old, new in (
+            ("TWO[CASE=nom,NUM=du,CNT=2] ->", "TWO[CASE=nom,NUM=du,CNT=1] ->"),
+            ("THEIR[CASE=gen,NUM=pl,REF=preceding_group] ->",
+             "THEIR[CASE=gen,NUM=pl,REF=citta] ->"),
+            ("MIND[CASE=gen,NUM=sg,REF=citta] ->",
+             "MIND[CASE=gen,NUM=sg,REF=preceding_group] ->"),
+            ("RESPECTS[CASE=inst,NUM=pl,OPEN=true,SEM=<",
+             "RESPECTS[CASE=nom,NUM=pl,OPEN=true,SEM=<"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.51_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split(
+            "### Bhāṣya-informed study translation\n", 1,
+        )[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        for passage in (
+            "daśabhiḥ kāraṇaiś", "aṣṭapañcāśato", "catuḥpañcāśad",
+            "caturdaśetyapare", "pradīpaprabhayo", "tridaṇḍānyonya",
+            "siddhaḥ sahabhūhetuḥ",
+        ):
+            self.assertIn(passage, section(bhasya, 2))
+        self.assertIn("fifty-eight dharmas", section(bhasya, 3))
+        self.assertIn("Fifty-four dharmas", section(bhasya, 3))
+        self.assertIn("three sticks", section(bhasya, 3))
+
+
+    def test_2_52_path_grade_does_not_force_every_case_cross_level(self):
+        text = study(52)
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [4, 6])
+        verse = parses[0].label()["SEM"].simplify()
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        equal = (valuation["path_cause"], valuation["path_equal"])
+        superior = (valuation["path_cause"], valuation["path_superior"])
+        self.assertIn(equal, valuation["PathCauseFor"])
+        self.assertIn(superior, valuation["PathCauseFor"])
+        self.assertNotIn(equal, valuation["CrossLevel"])
+        self.assertIn(superior, valuation["CrossLevel"])
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        valuation["PathCauseFor"].remove(equal)
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["PathCauseFor"].add(equal)
+        valuation["CrossLevel"].remove(superior)
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["CrossLevel"].add(superior)
+        for old, new in (
+            ("OWN[CASE=nom,NUM=pl,CLASS=own,LEVEL=own] ->",
+             "OWN[CASE=nom,NUM=pl,CLASS=other,LEVEL=own] ->"),
+            ("PRIOR[CASE=nom,NUM=pl,TIME=prior] ->",
+             "PRIOR[CASE=nom,NUM=pl,TIME=simultaneous] ->"),
+            ("NINE[CASE=nom,NUM=sg,COUNT=9] ->",
+             "NINE[CASE=nom,NUM=sg,COUNT=8] ->"),
+            ("RANGE[CASE=gen,NUM=du,GRADES=equal_superior] ->",
+             "RANGE[CASE=gen,NUM=du,GRADES=equal_inferior] ->"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.52_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split(
+            "### Bhāṣya-informed study translation\n", 1,
+        )[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        self.assertIn("nyūnasya heturbhavati", section(bhasya, 2))
+        self.assertIn("na nyūnasya", section(bhasya, 2))
+        self.assertIn("unresolved", section(bhasya, 2))
+
+
+    def test_2_53_eva_limits_application_results_and_support_is_identical(self):
+        text = study(53)
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [4, 4])
+        verse = parses[0].label()["SEM"].simplify()
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        inferior = (valuation["hearing"], valuation["inferior"])
+        valuation["CauseFor"].add(inferior)
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["CauseFor"].remove(inferior)
+        support = (valuation["citta"], valuation["caitta"])
+        valuation["SameSupport"].remove(support)
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["SameSupport"].add(support)
+        for old, new in (
+            ("RANGE[CASE=gen,NUM=du,REF=equal_superior] ->",
+             "RANGE[CASE=gen,NUM=sg,REF=equal_superior] ->"),
+            ("SUPPORT[CASE=nom,NUM=pl,IDENTITY=same] ->",
+             "SUPPORT[CASE=nom,NUM=pl,IDENTITY=same_kind] ->"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.53_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split(
+            "### Bhāṣya-informed study translation\n", 1,
+        )[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        for passage in (
+            "na nyūnasya", "samāna āśrayo yeṣāṃ",
+            "samāna ityabhinna", "pañcabhiḥ samatābhiḥ",
+        ):
+            self.assertIn(passage, section(bhasya, 2))
+        blocks = dict(BLOCK.findall(section(bhasya, 4)))
+        prose_grammar = FeatureGrammar.fromstring(blocks["nltk-fcfg"])
+        prose_tokens = re.search(
+            r"^# tokens: (.*)$", blocks["nltk-fcfg"], re.M,
+        ).group(1).split()
+        self.assertEqual(len(list(FeatureChartParser(prose_grammar).parse(prose_tokens))), 1)
+
+
+    def test_2_54_pervasive_scope_and_maturation_class_types(self):
+        text = study(54)
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [4, 6])
+        verse = parses[0].label()["SEM"].simplify()
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        for predicate, relation in (
+            ("Prior", (valuation["prior_pervasive"], valuation["later_afflicted"])),
+            ("SameLevel", (valuation["prior_pervasive"], valuation["later_afflicted"])),
+            ("Unwholesome", (valuation["unwholesome"],)),
+            ("Wholesome", (valuation["wholesome_influx"],)),
+            ("HasInflux", (valuation["wholesome_influx"],)),
+        ):
+            with self.subTest(predicate=predicate):
+                original = valuation[predicate]
+                valuation[predicate] = original - {relation}
+                model = Model(valuation.domain, valuation)
+                self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+                valuation[predicate] = original
+        self.assertNotIn((valuation["prior_pervasive"], valuation["later_afflicted"]), valuation["SameClass"])
+        self.assertIn((valuation["prior_pervasive"], valuation["later_afflicted"]), valuation["DifferentClass"])
+        for old, new in (
+            ("PRIORP[CASE=nom,NUM=pl,TIME=prior] ->",
+             "PRIORP[CASE=nom,NUM=pl,TIME=simultaneous] ->"),
+            ("LEVEL[CASE=loc,NUM=sg,REF=own] ->",
+             "LEVEL[CASE=loc,NUM=sg,REF=other] ->"),
+            ("EMPH -> 'eva'", "ONLY -> 'eva'"),
+            ("INFLUX[CASE=nom,NUM=pl,SEM=<",
+             "INFLUX[CASE=gen,NUM=pl,SEM=<"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.54_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split(
+            "### Bhāṣya-informed study translation\n", 1,
+        )[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        for passage in (
+            "durbalatvāt", "tṛṣṇānabhiṣyanditatvāt",
+            "ekasyobhayatheti vaibhāṣikāḥ", "pravāhāpekṣo hi vipākahetuḥ",
+        ):
+            self.assertIn(passage, section(bhasya, 2))
+        blocks = dict(BLOCK.findall(section(bhasya, 4)))
+        prose_grammar = FeatureGrammar.fromstring(blocks["nltk-fcfg"])
+        prose_tokens = re.search(
+            r"^# tokens: (.*)$", blocks["nltk-fcfg"], re.M,
+        ).group(1).split()
+        self.assertEqual(len(list(FeatureChartParser(prose_grammar).parse(prose_tokens))), 1)
+
+
+    def test_2_55_temporal_membership_and_unconditioned_fruit_scope(self):
+        text = study(55)
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [4, 2, 3, 3])
+        verse = parses[0].label()["SEM"].simplify()
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        for name in ("coarisen", "associated", "maturation"):
+            for time in ("past", "present", "future"):
+                relation = (valuation[name], valuation[time])
+                with self.subTest(cause=name, time=time):
+                    self.assertIn(relation, valuation["TimeOf"])
+                    valuation["TimeOf"].remove(relation)
+                    model = Model(valuation.domain, valuation)
+                    self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+                    valuation["TimeOf"].add(relation)
+        for name in ("pervasive", "homogeneous"):
+            relation = (valuation[name], valuation["future"])
+            with self.subTest(forbidden_future=name):
+                self.assertNotIn(relation, valuation["TimeOf"])
+                valuation["TimeOf"].add(relation)
+                model = Model(valuation.domain, valuation)
+                self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+                valuation["TimeOf"].remove(relation)
+        self.assertIn((valuation["disconnection"],), valuation["Fruit"])
+        self.assertNotIn((valuation["unconditioned"],), valuation["HasFruit"])
+        self.assertNotIn((valuation["unconditioned"],), valuation["HasCause"])
+        for old, new in (
+            ("TWO_TIMES[CASE=nom,NUM=du,COUNT=2] ->",
+             "TWO_TIMES[CASE=nom,NUM=pl,COUNT=2] ->"),
+            ("COUNT_THREE[CASE=nom,NUM=pl,COUNT=3] ->",
+             "COUNT_THREE[CASE=nom,NUM=pl,COUNT=2] ->"),
+            ("BOTH[CASE=nom,NUM=du,REF=cause_fruit] ->",
+             "BOTH[CASE=nom,NUM=pl,REF=three_causes] ->"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.55_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split(
+            "### Bhāṣya-informed study translation\n", 1,
+        )[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        for passage in (
+            "saṃskṛtasyaiva dharmasya hetuphale bhavataḥ",
+            "utpādanāt", "prapaṇāt", "phalaṃ cāsya visaṃyogaḥ",
+        ):
+            self.assertIn(passage, section(bhasya, 2))
+        blocks = dict(BLOCK.findall(section(bhasya, 4)))
+        prose_grammar = FeatureGrammar.fromstring(blocks["nltk-fcfg"])
+        prose_tokens = re.search(
+            r"^# tokens: (.*)$", blocks["nltk-fcfg"], re.M,
+        ).group(1).split()
+        self.assertEqual(len(list(FeatureChartParser(prose_grammar).parse(prose_tokens))), 1)
+
+
+    def test_2_56_verse_adhipata_and_principal_fruit_assignments(self):
+        text = study(56)
+        self.assertIn("pūrvasyādhipataṃ phalam", section(text, 2))
+        self.assertNotIn("pūrvasya adhipajaṃ phalam", section(text, 2))
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [2, 3, 2, 2])
+        verse = parses[0].label()["SEM"].simplify()
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        expected = {
+            (valuation[cause], valuation[fruit])
+            for cause, fruit in (
+                ("maturation_cause", "maturation_fruit"),
+                ("conditioning_cause", "predominance_fruit"),
+                ("homogeneous_cause", "outflow_fruit"),
+                ("pervasive_cause", "outflow_fruit"),
+                ("coarisen_cause", "efficacy_fruit"),
+                ("associated_cause", "efficacy_fruit"),
+            )
+        }
+        self.assertEqual(valuation["PrincipalFruit"], expected)
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        for relation in expected:
+            with self.subTest(missing=relation):
+                valuation["PrincipalFruit"] = expected - {relation}
+                model = Model(valuation.domain, valuation)
+                self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["PrincipalFruit"] = expected | {
+            (valuation["conditioning_cause"], valuation["efficacy_fruit"]),
+        }
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        for old, new in (
+            ("LAST_CAUSE[CASE=gen,NUM=sg,REF=maturation_cause] ->",
+             "LAST_CAUSE[CASE=gen,NUM=sg,REF=conditioning_cause] ->"),
+            ("MIDDLE_CAUSES[CASE=gen,NUM=du,REF=homogeneous_pervasive] ->",
+             "MIDDLE_CAUSES[CASE=gen,NUM=sg,REF=homogeneous_pervasive] ->"),
+            ("PAIR_CAUSES[CASE=gen,NUM=du,REF=coarisen_associated] ->",
+             "PAIR_CAUSES[CASE=gen,NUM=du,REF=homogeneous_pervasive] ->"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.56_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split(
+            "### Bhāṣya-informed study translation\n", 1,
+        )[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        self.assertIn("pūrvasyādhipataṃ phalam", section(bhasya, 2))
+        self.assertIn("tasyādhipajaṃ phalam", section(bhasya, 2))
+        blocks = dict(BLOCK.findall(section(bhasya, 4)))
+        prose_grammar = FeatureGrammar.fromstring(blocks["nltk-fcfg"])
+        prose_tokens = re.search(
+            r"^# tokens: (.*)$", blocks["nltk-fcfg"], re.M,
+        ).group(1).split()
+        self.assertEqual(len(list(FeatureChartParser(prose_grammar).parse(prose_tokens))), 1)
+
+
+    def test_2_57_three_distinct_fruits_and_prose_scope(self):
+        text = study(57)
+        self.assertEqual(check_grammar(text, strict=True)[1], [])
+        self.assertEqual(check_logic(text, strict=True)[1], [])
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [5, 2, 3])
+        verse = parses[0].label()["SEM"].simplify()
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        self.assertEqual(len({valuation[name] for name in ("maturation", "outflow", "disconnection")}), 3)
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        for predicate, name in (
+            ("Indeterminate", "maturation"),
+            ("Dharma", "maturation"),
+            ("SentientClassed", "maturation"),
+            ("ArisenFromDeterminate", "maturation"),
+            ("SimilarToCause", "outflow"),
+            ("CessationByDiscrimination", "disconnection"),
+        ):
+            with self.subTest(predicate=predicate):
+                relation = (valuation[name],)
+                self.assertIn(relation, valuation[predicate])
+                valuation[predicate].remove(relation)
+                changed = Model(valuation.domain, valuation)
+                self.assertFalse(changed.satisfy(verse, Assignment(changed.domain)))
+                valuation[predicate].add(relation)
+        for old, new in (
+            ("IND[CASE=nom,NUM=sg,GEN=m,SEM=?ind]", "IND[CASE=ins,NUM=sg,GEN=m,SEM=?ind]"),
+            ("BY[CASE=ins,NUM=sg] -> 'dhiyā'", "BY[CASE=nom,NUM=sg] -> 'dhiyā'"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.57_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split(
+            "### Bhāṣya-informed study translation\n", 1,
+        )[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        for passage in ("anivṛtāvyākṛto", "asādhāraṇastu", "hetor yaḥ sadṛśo", "dhīḥ prajñā"):
+            self.assertIn(passage, section(bhasya, 2))
+
+
+    def test_2_58_force_examples_and_predominance_limit(self):
+        text = study(58)
+        self.assertEqual(check_grammar(text, strict=True)[1], [])
+        self.assertEqual(check_logic(text, strict=True)[1], [])
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [5, 6])
+        verse = parses[0].label()["SEM"].simplify()
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        self.assertTrue(Model(valuation.domain, valuation).satisfy(verse, Assignment(valuation.domain)))
+        for relation in tuple(valuation["ArisesThroughForceOf"]):
+            with self.subTest(force=relation):
+                self.assertIn(relation, valuation["EfficacyFruitOf"])
+                valuation["EfficacyFruitOf"].remove(relation)
+                changed = Model(valuation.domain, valuation)
+                self.assertFalse(changed.satisfy(verse, Assignment(changed.domain)))
+                valuation["EfficacyFruitOf"].add(relation)
+        for predicate, referent in (("Conditioned", "craft"), ("OfConditionedAlone", "craft")):
+            with self.subTest(predicate=predicate):
+                member = (valuation[referent],)
+                valuation[predicate].remove(member)
+                changed = Model(valuation.domain, valuation)
+                self.assertFalse(changed.satisfy(verse, Assignment(changed.domain)))
+                valuation[predicate].add(member)
+        for old, new in (
+            ("FORCE[CASE=abl] -> 'yadvalāt'", "FORCE[CASE=gen] -> 'yadvalāt'"),
+            ("OF_COND[CASE=gen,NUM=sg] -> 'saṃskṛtasya'", "OF_COND[CASE=nom,NUM=sg] -> 'saṃskṛtasya'"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.58_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split("### Bhāṣya-informed study translation\n", 1)[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        for passage in ("kartuḥ puruṣakāraphalam", "akarturapyadhipatiphalam", "śilpini śilpaṃ"):
+            self.assertIn(passage, section(bhasya, 2))
+
+
+    def test_2_59_taking_and_giving_remain_distinct(self):
+        text = study(59)
+        self.assertEqual(check_grammar(text, strict=True)[1], [])
+        self.assertEqual(check_logic(text, strict=True)[1], [])
+        grammar, tokens = grammar_and_tokens(text)
+        parses = list(FeatureChartParser(grammar).parse(tokens))
+        self.assertEqual(len(parses), 1)
+        self.assertEqual([len(child.leaves()) for child in parses[0]], [4, 2, 2, 3])
+        valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        five = {valuation[name] for name in ("coarisen", "associated", "homogeneous", "pervasive", "maturation")}
+        self.assertEqual(valuation["InFive"], {(cause,) for cause in five})
+        self.assertEqual(valuation["TakesFruitWhilePresent"], {(cause,) for cause in five})
+        self.assertNotIn((valuation["conditioning"],), valuation["InFive"])
+        self.assertEqual(valuation["InTwoPresent"], valuation["GivesWhilePresent"])
+        self.assertEqual(valuation["InTwoEither"], valuation["GivesPresentOrPast"])
+        self.assertEqual(valuation["InOne"], valuation["GivesPastOnly"])
+        self.assertIn((valuation["homogeneous"],), valuation["TakesFruitWhilePresent"])
+        self.assertNotIn((valuation["homogeneous"],), valuation["GivesWhilePresent"])
+        for old, new in (
+            ("FIVE_NUM[CASE=nom,CNT=5] -> 'pañca'", "FIVE_NUM[CASE=nom,CNT=2] -> 'pañca'"),
+            ("TWO1[CASE=nom,NUM=du] -> 'dvau'", "TWO1[CASE=nom,NUM=sg] -> 'dvau'"),
+            ("PAST[CASE=nom,NUM=sg] -> 'atītaḥ'", "PAST[CASE=nom,NUM=du] -> 'atītaḥ'"),
+        ):
+            with self.subTest(feature=old):
+                self.assertIn(old, text)
+                changed, changed_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                self.assertEqual(list(FeatureChartParser(changed).parse(changed_tokens)), [])
+        bhasya = (STUDIES / "VAK_2.59_bhasya.md").read_text(encoding="utf-8")
+        translation = section(text, 5).split("### Bhāṣya-informed study translation\n", 1)[1].strip()
+        self.assertTrue(section(bhasya, 1).strip().endswith(translation))
+        for passage in ("sahabhūsaṃprayuktakahetū", "sabhāgasarvatragahetū", "bījabhāvopagamāt", "vipākaheturatīta"):
+            self.assertIn(passage, section(bhasya, 2))
 
 
 if __name__ == "__main__":

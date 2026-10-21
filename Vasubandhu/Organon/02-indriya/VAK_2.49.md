@@ -75,10 +75,12 @@ HELD[SEM=<Held(cause_account)>] -> 'iṣyate'
 
 > Conditioning, co-arisen, homogeneous, associated, pervasive, and that
 > called maturation: these are held to be the six causes.
+
 ### Bhāṣya-informed study translation
 
 > Cause is held to be sixfold: conditioning, co-arisen, homogeneous,
 > associated, pervasive, and that called maturation.
+
 ## 6. Philosophical Translation
 
 > The six causes articulate distinct modes of grounding. The verse names their wheel; the Bhāṣya begins to explain how one mode, conditioning, bears on arising.

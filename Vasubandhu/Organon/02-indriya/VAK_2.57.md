@@ -29,18 +29,26 @@ niḥṣyando hetusadṛśaḥ visaṃyogaḥ kṣayo dhiyā // 2.57 //
 | kṣayaḥ | m. sg. | Cessation. |
 | dhiyā | inst. sg. | By Discrimination. |
 
+The normalized tokens open external sandhi without altering the
+Sanskrit witness. The three predications are kept distinct: maturation,
+outflow, and disconnection.
+
+```text
+# tokens: vipākaḥ avyākṛtaḥ dharmaḥ sattvākhyaḥ vyākṛtodbhavaḥ niḥṣyandaḥ hetusadṛśaḥ visaṃyogaḥ kṣayaḥ dhiyā
+```
+
 ## 4. Grammar
 
 ```nltk-fcfg
 % start S
 # tokens: vipākaḥ avyākṛtaḥ dharmaḥ sattvākhyaḥ vyākṛtodbhavaḥ niḥṣyandaḥ hetusadṛśaḥ visaṃyogaḥ kṣayaḥ dhiyā
 S[SEM=<(?mat & ?out & ?disc)>] -> MAT[SEM=?mat] OUT[SEM=?out] DISC[SEM=?disc]
-MAT[SEM=<(Indeterminate(maturation) & SentientClassed(maturation) & ArisenFromDeterminate(maturation))>] -> MAT_HEAD[CASE=nom,NUM=sg,GEN=m] IND[CASE=nom,NUM=sg,GEN=m] DHARMA[CASE=nom,NUM=sg,GEN=m] SENT[CASE=nom,NUM=sg,GEN=m] FROM_DET[CASE=nom,NUM=sg,GEN=m]
+MAT[SEM=<(?ind & ?dharma & ?sent & ?from)>] -> MAT_HEAD[CASE=nom,NUM=sg,GEN=m] IND[CASE=nom,NUM=sg,GEN=m,SEM=?ind] DHARMA[CASE=nom,NUM=sg,GEN=m,SEM=?dharma] SENT[CASE=nom,NUM=sg,GEN=m,SEM=?sent] FROM_DET[CASE=nom,NUM=sg,GEN=m,SEM=?from]
 MAT_HEAD[CASE=nom,NUM=sg,GEN=m] -> 'vipākaḥ'
-IND[CASE=nom,NUM=sg,GEN=m] -> 'avyākṛtaḥ'
-DHARMA[CASE=nom,NUM=sg,GEN=m] -> 'dharmaḥ'
-SENT[CASE=nom,NUM=sg,GEN=m] -> 'sattvākhyaḥ'
-FROM_DET[CASE=nom,NUM=sg,GEN=m] -> 'vyākṛtodbhavaḥ'
+IND[CASE=nom,NUM=sg,GEN=m,SEM=<Indeterminate(maturation)>] -> 'avyākṛtaḥ'
+DHARMA[CASE=nom,NUM=sg,GEN=m,SEM=<Dharma(maturation)>] -> 'dharmaḥ'
+SENT[CASE=nom,NUM=sg,GEN=m,SEM=<SentientClassed(maturation)>] -> 'sattvākhyaḥ'
+FROM_DET[CASE=nom,NUM=sg,GEN=m,SEM=<ArisenFromDeterminate(maturation)>] -> 'vyākṛtodbhavaḥ'
 OUT[SEM=<SimilarToCause(outflow)>] -> OUT_HEAD[CASE=nom,NUM=sg,GEN=m] SIM[CASE=nom,NUM=sg,GEN=m]
 OUT_HEAD[CASE=nom,NUM=sg,GEN=m] -> 'niḥṣyandaḥ'
 SIM[CASE=nom,NUM=sg,GEN=m] -> 'hetusadṛśaḥ'
@@ -65,14 +73,16 @@ BY[CASE=ins,NUM=sg] -> 'dhiyā'
 > Maturation is an indeterminate dharma, classed with a sentient being,
 > arising from the determinate. Homogeneous outflow is like its cause;
 > disconnection is cessation by Discrimination.
+
 ### Bhāṣya-informed study translation
 
 > Maturation is an indeterminate dharma, classed with a sentient being and
 > arisen from the determinate. Homogeneous outflow resembles its cause;
 > disconnection is cessation by Discrimination.
+
 ## 6. Philosophical Translation
 
-> Maturation is later, unshared, indeterminate, from the determinate. Outflow is similar; pervasive likeness is level and affliction, not type. Disconnection is cessation by Discrimination. Mechanism not given.
+> Maturation is later, unshared, and indeterminate; it arises from the determinate. Outflow resembles its cause. Disconnection is cessation by Discrimination. The verse does not state a mechanism.
 
 ## 7. Technical Vocabulary
 
@@ -85,10 +95,10 @@ BY[CASE=ins,NUM=sg] -> 'dhiyā'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root SEM names the three fruits with their verse predicates. Later timing, unshared character, and the precise scope of “similar” (level and affliction for the pervasive cause) are prose elaborations and stay outside the verse formula. Disconnection receives no mechanism.
+**Kārikā, derived.** The root SEM names the three fruits with their verse predicates. Later timing, unshared character, and the precise scope of “similar” (level and affliction for the pervasive cause) are prose elaborations and stay outside the verse formula. No mechanism for disconnection is inferred from the verse.
 
 ```nltk-sem
-maturation : Indeterminate(maturation) & SentientClassed(maturation) & ArisenFromDeterminate(maturation)
+maturation : Indeterminate(maturation) & Dharma(maturation) & SentientClassed(maturation) & ArisenFromDeterminate(maturation)
 outflow : SimilarToCause(outflow)
 disconnection : CessationByDiscrimination(disconnection)
 ```
@@ -96,7 +106,7 @@ disconnection : CessationByDiscrimination(disconnection)
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(Indeterminate(maturation) & SentientClassed(maturation) & ArisenFromDeterminate(maturation) & SimilarToCause(outflow) & CessationByDiscrimination(disconnection))
+(Indeterminate(maturation) & Dharma(maturation) & SentientClassed(maturation) & ArisenFromDeterminate(maturation) & SimilarToCause(outflow) & CessationByDiscrimination(disconnection))
 
 # THEORY prose_maturation
 # EXPECT prose_maturation T
@@ -105,12 +115,12 @@ all x.all y.(ExperiencesMaturationOf(x,y) -> (x = y))
 
 # THEORY prose_outflow_likeness
 # EXPECT prose_outflow_likeness T
-SimilarToCause(outflow)
+SimilarToCause(outflow) & PervasiveLikeness(outflow)
 all x.(PervasiveLikeness(x) -> (LevelLikeness(x) & AfflictionLikeness(x) & -TypeLikeness(x)))
 
 # THEORY prose_disconnection
 # EXPECT prose_disconnection T
-CessationByDiscrimination(disconnection) & -MechanismGiven(disconnection)
+CessationByDiscrimination(disconnection) & IsDiscriminativeCessation(disconnection)
 
 # THEORY rejected_maturation_shared
 # EXPECT rejected_maturation_shared F
@@ -120,13 +130,13 @@ CessationByDiscrimination(disconnection) & -MechanismGiven(disconnection)
 # EXPECT rejected_outflow_type_likeness_for_pervasive F
 PervasiveLikeness(outflow) & TypeLikeness(outflow)
 
-# THEORY rejected_disconnection_has_mechanism
-# EXPECT rejected_disconnection_has_mechanism F
-MechanismGiven(disconnection)
+# THEORY rejected_disconnection_is_maturation
+# EXPECT rejected_disconnection_is_maturation F
+Indeterminate(disconnection) & CessationByDiscrimination(disconnection)
 
 # THEORY rejected_seventh_cause
 # EXPECT rejected_seventh_cause F
-CauseKind(seventh)
+CauseKind(seventh) & CessationByDiscrimination(disconnection)
 ```
 
 ```nltk-valuation
@@ -135,6 +145,7 @@ outflow => out
 disconnection => disc
 seventh => seventh_kind
 Indeterminate => {mat}
+Dharma => {mat}
 SentientClassed => {mat}
 ArisenFromDeterminate => {mat}
 UnobscuredIndeterminate => {mat}
@@ -149,11 +160,12 @@ LevelLikeness => {out}
 AfflictionLikeness => {out}
 TypeLikeness => {}
 CessationByDiscrimination => {disc}
-MechanismGiven => {}
+IsDiscriminativeCessation => {disc}
 CauseKind => {conditioning,co_arisen,homogeneous,associated,pervasive,maturation}
 ```
 
-The finite model keeps the three fruits distinct, records the prose restrictions on maturation and on pervasive likeness, and rejects both a shared maturation and a mechanism for disconnection. It does not invent a seventh cause.
+The finite model keeps the three fruits distinct, records the prose restrictions on maturation and on pervasive likeness, and rejects shared maturation or conflation of disconnection with maturation.
+The absence of a stated mechanism remains an editorial observation. It does not invent a seventh cause.
 
 ## 9. Interpretive Note
 
@@ -161,9 +173,12 @@ The finite model keeps the three fruits distinct, records the prose restrictions
 unobscured-indeterminate, later than its cause, neither simultaneous with
 nor immediately following it, and unshared: no one experiences another's
 karma-maturation. In the pervasive cause, likeness concerns level and
-affliction rather than type. No mechanism for disconnection is supplied.
+affliction rather than type. The passage does not supply a mechanism for disconnection.
 
-Not a seventh cause. Maturation is later, unshared, indeterminate, from the determinate. Outflow is similar. Disconnection is cessation by Discrimination. Mechanism not given.
+These are three fruit definitions, not a seventh cause. The Bhāṣya adds
+timing and unshared experience to maturation, and qualifies the scope
+of likeness for pervasive outflow. Disconnection remains cessation by
+Discrimination; no production mechanism is stated here.
 
 ## 10. OWL++ Seed
 

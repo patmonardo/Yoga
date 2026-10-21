@@ -36,12 +36,12 @@ Seven plus three yields ten class-members. *Ca* conjoins the two compound-level 
 ```nltk-fcfg
 % start S
 # tokens: krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ māyāmadavihiṃsāḥ ca parīttakleśabhūmikāḥ
-S[SEM=<LimitedKind(anger) & LimitedKind(resentment) & LimitedKind(crookedness) & LimitedKind(envy) & LimitedKind(spite) & LimitedKind(concealment) & LimitedKind(stinginess) & LimitedKind(deception) & LimitedKind(intoxication) & LimitedKind(harmfulness)>] -> MEMBERS CLASS
-MEMBERS -> SEVEN THREE AND
-SEVEN -> 'krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ'
-THREE -> 'māyāmadavihiṃsāḥ'
-AND -> 'ca'
-CLASS -> 'parīttakleśabhūmikāḥ'
+S[SEM=<?members(?class)>] -> MEMBERS[CNT=10,SEM=?members] CLASS[CASE=nom,NUM=pl,SEM=?class]
+MEMBERS[CNT=10,SEM=<\P.?and(?seven(P),?three(P))>] -> SEVEN[CASE=nom,NUM=pl,CNT=7,SEM=?seven] THREE[CASE=nom,NUM=pl,CNT=3,SEM=?three] AND[READING=enumeration,SEM=?and]
+SEVEN[CASE=nom,NUM=pl,CNT=7,SEM=<\P.(P(anger) & P(resentment) & P(crookedness) & P(envy) & P(spite) & P(concealment) & P(stinginess))>] -> 'krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ'
+THREE[CASE=nom,NUM=pl,CNT=3,SEM=<\P.(P(deception) & P(intoxication) & P(harmfulness))>] -> 'māyāmadavihiṃsāḥ'
+AND[READING=enumeration,SEM=<\L.\R.(L & R)>] -> 'ca'
+CLASS[CASE=nom,NUM=pl,SEM=<\x.LimitedKind(x)>] -> 'parīttakleśabhūmikāḥ'
 ```
 
 ```nltk-dep
@@ -85,9 +85,9 @@ CLASS -> 'parīttakleśabhūmikāḥ'
 **Kārikā, derived.** The *ca* SEM joins ten class-members, not ten simultaneous occurrences. The prose model represents association restrictions among afflictions separately from other accompanying dharmas.
 
 ```nltk-sem
-class_predicate : LimitedKind(anger)
-compound_conjunction : LimitedKind(anger) & LimitedKind(deception)
-seven_plus_three : LimitedKind(anger) & LimitedKind(resentment) & LimitedKind(crookedness) & LimitedKind(envy) & LimitedKind(spite) & LimitedKind(concealment) & LimitedKind(stinginess) & LimitedKind(deception) & LimitedKind(intoxication) & LimitedKind(harmfulness)
+class_predicate : \x.LimitedKind(x)
+compound_conjunction : \L.\R.(L & R)
+seven_plus_three : \P.(P(anger) & P(resentment) & P(crookedness) & P(envy) & P(spite) & P(concealment) & P(stinginess) & P(deception) & P(intoxication) & P(harmfulness))
 ```
 
 ```nltk-fol
