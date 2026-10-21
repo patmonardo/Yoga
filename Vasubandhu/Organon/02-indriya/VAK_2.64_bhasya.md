@@ -2,34 +2,72 @@
 
 ## 1. Kārikā Anchor
 
-> caturbhiś cittacaittāḥ samāpattīdvayaṃ tribhiḥ /
+> caturbhiś cittacaittā hi samāpattidvayaṃ tribhiḥ /
 >
-> dvābhyām anye samutpadyante neśvarādeḥ kramādibhiḥ // 2.64 //
+> dvābhyām anye tu jāyante neśvarādeḥ kramādibhiḥ // 2.64 //
 
 > Consciousness and mental factors arise through four conditions, the pair
 > of attainments through three, and the rest through two. The world does
 > not arise from Īśvara and the like as one cause, given observed
 > succession.
 
-## 2. Continuous Sanskrit Witness
+## 2. Sanskrit Witness — Selected Passages
 
-> caturbhiś cittacaittāḥ /
-> samāpattīdvayaṃ tribhiḥ /
-> dvābhyām anye samutpadyante /
+> caturbhiścattacaittā hi /
+> tatra hetupratyaya eṣāṃ sarve pañca hetavaḥ /
+> samantarapratyayaḥ pūrvakāścittacaittā anyairavyavahitāḥ /
+> ālambanapratyayo yathāyogaṃ pañca viṣayāḥ sarve dharmāśca /
+> adhipatipratyayaḥ svabhāvarjyāḥ sarvadharmāḥ /
+> samāpattidvayaṃ tribhiḥ /
+> nirodhāsaṃjñisamāpattyo rālambanapratyayo nāsti /
+> nahi te ālambike /
+> dvābhyāmanye tu jāyante /
+> anye tu viprayuktā rūpiṇaśca dharmā hetvadhipatipratyayābhyāṃ jāyante yathāvihitameva /
 > neśvarādeḥ kramādibhiḥ // 2.64 //
-> naikasya kāraṇasya sarvalokasya /
-> kramaḥ dṛśyate /
+> yadi hyekameva kāraṇamīśvaraḥ syādanyadvā yugapatsarveṇa jagatā bhavitavyaṃsyāt /
+> dṛśyate ca bhāvānāṃ kramasaṃbhavaḥ /
+> tasmānna lokasyaikaṃ kāraṇamasti /
+> svānyevaiṣāṃ karmāṇi tasyāṃ tasyāṃ jātau janayanti /
 
-The unit is printed 101.06–102.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+These selected passages follow 101.08–102.17 in
+[the running witness](../../Sources/kosabhasya.txt). The first
+fragment prints *cattacaittā*, normalized to *cittacaittā* in the
+kārikā study and the older VAK study. The verse is interleaved with a
+longer debate; this is not a collation.
 
-## 3. Continuous Conventional Translation
+## 3. Conventional Argument Summary
 
-Mind and the mental factors, through four. Cause-condition, the five. Immediately antecedent, the preceding mind and factors, uninterrupted. Object, as appropriate. Predominant, all dharmas other than itself. The pair of attainments, through three. Cessation-attainment and the non-reflective attainment have no object. They are not object-having. The others, dissociated and form, arise through cause-condition and predominant condition. Not from Īśvara, Puruṣa, Pradhāna, or the like, as one cause of the whole world. One sufficient cause would yield the world at once. Succession is observed. No one cause of the world. Beings' own actions generate them in their births. Not settled as a refutation of every position.
+Mind and mental factors arise through all four conditions. The
+cause-condition includes five causes; the immediately antecedent
+condition is the preceding mental complex without another mind
+intervening; the object-condition is the relevant object; and the
+predominant condition is all dharmas other than the event itself.
+
+The pair of attainments, cessation-attainment and the non-reflective
+attainment, arises through three conditions. Neither has an object, so
+the object-condition is absent; cause, immediately antecedent, and
+predominant conditions remain. Material and mind-dissociated dharmas
+arise through two: cause and predominant condition.
+
+The verse then rejects the claim that Īśvara or a similar single cause
+produces the whole world. If one unchanging cause were sufficient,
+worldly events would occur together; their observed succession counts
+against that proposal. The Bhāṣya extends the objection to proposed
+variations in divine will and to Pradhāna. It says beings' own actions
+generate their respective births. These claims belong to the
+particular argument here, not to a refutation of every possible
+account of causation.
 
 ## 4. Interpretation
 
-Mind and factors through four. Pair of attainments through three, no object. Others through two. Not from one world-cause; succession is the reason. Named Puruṣa is the proposal and stays enclosed. Karma is births, not every event.
+The three counts concern different kinds of arising dharma; they do
+not rank the conditions. The single-cause objection follows the
+condition analysis and uses succession as its stated ground. The
+named Puruṣa appears among the proposed world-causes in the prose;
+it should not be imported as the Organon comparison's own claim.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Named Puruṣa stays enclosed.
+The verse wording, three condition counts, and the succession
+objection have been checked against the running witness. The long
+world-cause debate is summarized rather than translated in full.

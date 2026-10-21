@@ -2,34 +2,66 @@
 
 ## 1. Kārikā Anchor
 
-> bhūtāni bhūtahetūni pañcadhā rūpahetavaḥ /
+> dvidhā bhūtāni taddhetuḥ bhautikasya tu pañcadhā /
 >
-> rūpaṃ rūpasya tridhā bhūtānām ekadhaiva tat // 2.65 //
+> tridhā bhautikam anyonyaṃ bhūtānām ekadhaiva tat // 2.65 //
 
-> Elements are cause-condition for Elements in two ways and for derived
-> Form in five. Form is cause-condition for Form in three ways; of the
-> Elements, in one way only.
+> Elements cause other elements in two ways and derived form in five.
+> Derived forms cause one another in three ways; derived form causes
+> elements in one way only.
 
-## 2. Continuous Sanskrit Witness
+## 2. Sanskrit Witness — Selected Passages
 
-> bhūtāni bhūtahetūni /
-> pañcadhā rūpahetavaḥ /
-> rūpaṃ rūpasya tridhā /
-> bhūtānām ekadhaiva tat // 2.65 //
-> kathaṃ bhūtāni bhūtānāṃ hetupratyayaḥ /
-> dvābhyām /
-> sabhāgasahabhūbhyām /
+> atha kathaṃ bhūtāni bhūtānāṃ hetupratyayaḥ /
+> dvidhā bhūtāni taddhetuḥ /
+> bhūtaheturityarthaḥ /
+> sabhāgasahabhūhetubhyāṃ /
+> bhautikasya tu pañcadhā /
+> bhautikasya tu bhūtāni pañcaprakāro hetuḥ /
+> "jananānniḥśrayāt sthānādupastambhogavṛṃhaṇāt" /
+> so 'yaṃ kāraṇahetureva punaḥ paṇycadhā bhinnaḥ /
+> tridhā bhautikamanyonyaṃ /
+> hetusahabhūsabhāgavipākahetubhiḥ kāraṇaheturaviśeṣayattitvāt na sarvadā gaṇyate /
+> tatra sahabhūheturanyonyaṃ cittānuparivartti kāyavākkarma /
+> nānyadupādāyarūpam /
+> bhūtānāmekadhaiva tat // 2.65 //
+> bhūtānāṃ tu tadbhūtikaṃ rūpaṃ vipākahetureva yasya kāyavākkarmaṇo bhūtāni vipākāḥ /
 
-The unit is printed 102.16–103.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+These selected passages follow 102.20–103.08 in
+[the running witness](../../Sources/kosabhasya.txt). The kārikā is
+interleaved with its explanation. Witness spellings, including
+*paṇycadhā*, are retained as printed; this is not a collation.
 
-## 3. Continuous Conventional Translation
+## 3. Conventional Argument Summary
 
-How are the Elements cause-condition for the Elements? In two ways: homogeneous and co-arisen. Of derived form, in five. Generation, dependent support, foundation, sustaining, increase. This is the conditioning cause, divided fivefold. Of one another, in three: co-arisen, homogeneous, maturation. The conditioning cause is not always counted. Of the Elements, in one way only: bodily and verbal action whose maturation is the Elements.
+Elements cause other elements in two ways, through homogeneous and
+co-arisen causes. They cause derived material form in five ways:
+generation, dependent support, foundation, sustaining, and increase.
+The prose treats these five functions as a division of the conditioning
+cause.
+
+Derived material form causes other derived form in three ways:
+co-arising, homogeneity, and maturation. The co-arisen case is
+qualified: bodily and verbal action accompanying mind participates;
+not every derived material form does. The conditioning cause is not
+always counted separately, because it does not differentiate this
+profile in every context.
+
+Derived form causes the elements in just one way: bodily or verbal
+action may be the maturation cause of elements that arise as its
+result. The verse's *tat* returns to derived form, so this is the
+reverse direction from the fivefold element-to-derived-form relation.
 
 ## 4. Interpretation
 
-Elements cause Elements in two ways, derived form in five functions of the conditioning cause. Derived form of derived form in three, of Elements in one, maturation. Conditioning cause is not always counted.
+The verse orders four directed profiles rather than assigning every
+causal mode to every individual material pair. The Bhāṣya specifies
+which cause types or functions fill each count and narrows the
+co-arisen case within the mutual derived-form profile.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Conditioning cause is not always counted.
+The four profiles, their direction, and the *anyonyaṃ* restriction
+have been checked against the running witness. The Bhāṣya's five
+functions and the maturation-only return are kept as prose
+determinations.

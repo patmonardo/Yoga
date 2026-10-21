@@ -3,138 +3,166 @@
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
-भूतानि भूतहेतूनि पञ्चधा रूपहेतवः /
-रूपं रूपस्य त्रिधा भूतानामेकधैव तत् // २.६५ //
+द्विधा भूतानि तद्धेतुः भौतिकस्य तु पञ्चधा /
+त्रिधा भौतिकमन्योन्यं भूतानामेकधैव तत् // २.६५ //
 ```
 
 ## 2. Sanskrit (IAST)
 
 ```text
-bhūtāni bhūtahetūni pañcadhā rūpahetavaḥ /
-rūpaṃ rūpasya tridhā bhūtānām ekadhaiva tat // 2.65 //
+dvidhā bhūtāni taddhetuḥ bhautikasya tu pañcadhā /
+tridhā bhautikam anyonyaṃ bhūtānām ekadhaiva tat // 2.65 //
 ```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| bhūtāni | neuter nominative plural | Elements |
-| bhūtahetūni | neuter nominative plural | causes of Elements |
-| pañcadhā | adverbial | in five ways |
-| rūpahetavaḥ | masculine nominative plural | causes of derived Form |
-| rūpam | neuter nominative singular | derived Form |
-| rūpasya | neuter genitive singular | of derived Form |
-| tridhā | adverbial | in three ways |
-| bhūtānām | neuter genitive plural | of the Elements |
-| ekadhā | adverbial | in one way |
-| eva | particle | only |
-| tat | neuter nominative singular | that |
+| dvidhā | numeral adverb | In two ways. |
+| bhūtāni | n. nom. pl. | The great elements. |
+| taddhetuḥ | m. nom. sg. compound | Their cause; the elements as cause of elements. |
+| bhautikasya | n. gen. sg. | Of derived material form. |
+| tu | particle | But; turns to another causal relation. |
+| pañcadhā | numeral adverb | In five ways. |
+| tridhā | numeral adverb | In three ways. |
+| bhautikam | n. nom. sg. | Derived material form. |
+| anyonyaṃ | reciprocal adverb | Mutually, one another. |
+| bhūtānām | n. gen. pl. | Of the great elements. |
+| ekadhā | numeral adverb | In one way. |
+| eva | particle | Only. |
+| tat | n. nom. sg. | That derived material form. |
 
-**Grammar tokens.**
+The [running witness](../../Sources/kosabhasya.txt) and older VAK
+study read *dvidhā bhūtāni taddhetuḥ* and *tridhā bhautikam
+anyonyaṃ*. The former Organon verse replaced both phrases and lost
+the reciprocal qualification. The normalized tokens open
+*ekadhaiva* to *ekadhā eva*.
 
 ```text
-# tokens: bhūtāni bhūtahetūni pañcadhā rūpahetavaḥ rūpam rūpasya tridhā bhūtānām ekadhā eva tat
+# tokens: dvidhā bhūtāni taddhetuḥ bhautikasya tu pañcadhā tridhā bhautikam anyonyaṃ bhūtānām ekadhā eva tat
 ```
 
 ## 4. Grammar
 
-The first two tokens state that Elements are causes of Elements. The next two state that they are causes of derived Form in five ways. The following three state that derived Form is cause of derived Form in three ways. The final three state that of the Elements that is in one way only. The grammar derives the four relations; the identities of the ways (homogeneous and co-arisen; the five functions of the conditioning cause; co-arising, homogeneity, and maturation; maturation only) and the note that the conditioning cause is not always counted are prose.
+The verse presents four class-level causal profiles: elements for
+elements in two ways, elements for derived form in five, derived form
+for derived form mutually in three, and derived form for elements in
+one way only. The Bhāṣya identifies the ways and qualifies their
+actual application. The `SEM` records profiles rather than asserting
+that every pair of material instances stands in every relation.
 
 ```nltk-fcfg
 % start S
-# tokens: bhūtāni bhūtahetūni pañcadhā rūpahetavaḥ rūpam rūpasya tridhā bhūtānām ekadhā eva tat
-S[SEM=<(?elem_elem & ?elem_form & ?form_form & ?form_elem)>] -> EE[SEM=?elem_elem] EF[SEM=?elem_form] FF[SEM=?form_form] FE[SEM=?form_elem]
-EE[SEM=<all x.all y.((Element(x) & Element(y)) -> CausesInTwoWays(x,y))>] -> ELEM1[CASE=nom,NUM=pl] ELEM_CAUSE[CASE=nom,NUM=pl]
-ELEM1[CASE=nom,NUM=pl] -> 'bhūtāni'
-ELEM_CAUSE[CASE=nom,NUM=pl] -> 'bhūtahetūni'
-EF[SEM=<all x.all y.((Element(x) & DerivedForm(y)) -> CausesInFiveWays(x,y))>] -> FIVE[FORCE=adv] FORM_CAUSE[CASE=nom,NUM=pl]
-FIVE[FORCE=adv] -> 'pañcadhā'
-FORM_CAUSE[CASE=nom,NUM=pl] -> 'rūpahetavaḥ'
-FF[SEM=<all x.all y.((DerivedForm(x) & DerivedForm(y)) -> CausesInThreeWays(x,y))>] -> FORM1[CASE=nom,NUM=sg] OF_FORM[CASE=gen,NUM=sg] THREE[FORCE=adv]
-FORM1[CASE=nom,NUM=sg] -> 'rūpam'
-OF_FORM[CASE=gen,NUM=sg] -> 'rūpasya'
-THREE[FORCE=adv] -> 'tridhā'
-FE[SEM=<all x.all y.((DerivedForm(x) & Element(y)) -> CausesInOneWay(x,y))>] -> OF_ELEM[CASE=gen,NUM=pl] ONE[FORCE=adv] ONLY THAT[CASE=nom]
-OF_ELEM[CASE=gen,NUM=pl] -> 'bhūtānām'
-ONE[FORCE=adv] -> 'ekadhā'
+# tokens: dvidhā bhūtāni taddhetuḥ bhautikasya tu pañcadhā tridhā bhautikam anyonyaṃ bhūtānām ekadhā eva tat
+S[SEM=<(?ee & ?ef & ?ff & ?fe)>] -> EE[SEM=?ee] EF[SEM=?ef] FF[SEM=?ff] FE[SEM=?fe]
+EE[SEM=<CauseProfile(element_kind,element_kind,two_ways)>] -> TWO[COUNT=2] ELEMENTS[CASE=nom,NUM=pl] THEIR_CAUSE[CASE=nom,NUM=sg]
+TWO[COUNT=2] -> 'dvidhā'
+ELEMENTS[CASE=nom,NUM=pl] -> 'bhūtāni'
+THEIR_CAUSE[CASE=nom,NUM=sg] -> 'taddhetuḥ'
+EF[SEM=<CauseProfile(element_kind,derived_form_kind,five_ways)>] -> OF_DERIVED[CASE=gen,NUM=sg] BUT FIVE[COUNT=5]
+OF_DERIVED[CASE=gen,NUM=sg] -> 'bhautikasya'
+BUT -> 'tu'
+FIVE[COUNT=5] -> 'pañcadhā'
+FF[SEM=<MutualCauseProfile(derived_form_kind,three_ways)>] -> THREE[COUNT=3] DERIVED[CASE=nom,NUM=sg] MUTUAL
+THREE[COUNT=3] -> 'tridhā'
+DERIVED[CASE=nom,NUM=sg] -> 'bhautikam'
+MUTUAL -> 'anyonyaṃ'
+FE[SEM=<CauseProfile(derived_form_kind,element_kind,one_way)>] -> OF_ELEMENTS[CASE=gen,NUM=pl] ONE[COUNT=1] ONLY THAT[CASE=nom,NUM=sg]
+OF_ELEMENTS[CASE=gen,NUM=pl] -> 'bhūtānām'
+ONE[COUNT=1] -> 'ekadhā'
 ONLY -> 'eva'
-THAT[CASE=nom] -> 'tat'
+THAT[CASE=nom,NUM=sg] -> 'tat'
 ```
 
 ```nltk-dep
-'bhūtahetūni' -> 'bhūtāni'
-'rūpahetavaḥ' -> 'pañcadhā'
-'rūpam' -> 'rūpasya' | 'tridhā'
+'bhūtāni' -> 'dvidhā' | 'taddhetuḥ'
+'bhautikasya' -> 'tu' | 'pañcadhā'
+'bhautikam' -> 'tridhā' | 'anyonyaṃ'
 'tat' -> 'bhūtānām' | 'ekadhā' | 'eva'
 ```
 
-**Feature chart checkpoints.** Element-to-Element spans [0, 2); Element-to-Form [2, 4); Form-to-Form [4, 7); Form-to-Element [7, 11); the root spans [0, 11). The adverbial numerals constrain the four relations. No identity of the ways is generated by the verse.
+**Feature chart checkpoints.** Element-to-element spans [0, 3),
+element-to-derived [3, 6), derived-to-derived [6, 9), and
+derived-to-element [9, 13); the root spans [0, 13). The four
+numeral features and the genitives constrain the pairings. Mutuality
+is explicit only in the third profile.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The Elements are cause-condition for the Elements in two ways, and for
-> derived Form in five. Form is cause-condition for Form in three ways; of
-> the Elements, that is in one way only.
+> The elements are causes of elements in two ways, but of derived form
+> in five. Derived form is cause of derived form mutually in three ways;
+> of the elements it is cause in just one way.
 
 ### Bhāṣya-informed study translation
 
-> Elements are cause-condition for Elements in two ways and for derived
-> Form in five. Form is cause-condition for Form in three ways; of the
-> Elements, in one way only.
+> Elements cause other elements in two ways and derived form in five.
+> Derived forms cause one another in three ways; derived form causes
+> elements in one way only.
 
 ## 6. Philosophical Translation
 
-> The verse states four cause-condition relations between Elements and derived Form. The Bhāṣya identifies the ways: homogeneous and co-arisen for Elements-to-Elements; five functions of the conditioning cause for Elements-to-Form; co-arising, homogeneity, and maturation for Form-to-Form; maturation alone for Form-to-Elements.
+> The verse specifies a four-part causal matrix across elements and
+> derived material form. The Bhāṣya identifies the two ways as
+> homogeneous and co-arisen causes, the five as functions of the
+> conditioning cause, the three mutual ways as co-arisen,
+> homogeneous, and maturation causes, and the one return to the
+> elements as maturation.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Running word | Determination |
-|---|---|---|
-| bhūta | Element | the four great elements |
-| rūpa | derived Form | Form derived from the Elements |
-| pañcadhā | in five ways | generation, support, foundation, sustaining, increase |
-| tridhā | in three ways | co-arising, homogeneity, maturation |
-| ekadhā | in one way | maturation only |
+| Term | Rendering |
+|---|---|
+| bhūta | Great element. |
+| bhautika | Derived material form. |
+| taddhetuḥ | Their cause; keeps the first profile element-to-element. |
+| anyonyaṃ | Mutually; qualifies the derived-form-to-derived-form profile. |
+| pañcadhā | Fivefold: generation, dependent support, foundation, sustaining, increase. |
+| ekadhā eva | In one way only: maturation in the Bhāṣya. |
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root SEM states the four relations. The identities of the ways and the note that the conditioning cause is not always counted are prose elaborations.
+**Kārikā, derived.** The root `SEM` records four class-level
+profiles. The identities of their modes and the caution that the
+conditioning cause is not always counted come from the Bhāṣya.
 
 ```nltk-sem
-elem_elem : all x.all y.((Element(x) & Element(y)) -> CausesInTwoWays(x,y))
-elem_form : all x.all y.((Element(x) & DerivedForm(y)) -> CausesInFiveWays(x,y))
-form_form : all x.all y.((DerivedForm(x) & DerivedForm(y)) -> CausesInThreeWays(x,y))
-form_elem : all x.all y.((DerivedForm(x) & Element(y)) -> CausesInOneWay(x,y))
+element_element : CauseProfile(element_kind,element_kind,two_ways)
+element_derived : CauseProfile(element_kind,derived_form_kind,five_ways)
+derived_derived : MutualCauseProfile(derived_form_kind,three_ways)
+derived_element : CauseProfile(derived_form_kind,element_kind,one_way)
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(all x.all y.((Element(x) & Element(y)) -> CausesInTwoWays(x,y)) & all x.all y.((Element(x) & DerivedForm(y)) -> CausesInFiveWays(x,y)) & all x.all y.((DerivedForm(x) & DerivedForm(y)) -> CausesInThreeWays(x,y)) & all x.all y.((DerivedForm(x) & Element(y)) -> CausesInOneWay(x,y)))
+(CauseProfile(element_kind,element_kind,two_ways) & CauseProfile(element_kind,derived_form_kind,five_ways) & MutualCauseProfile(derived_form_kind,three_ways) & CauseProfile(derived_form_kind,element_kind,one_way))
 
-# THEORY prose_identities
-# EXPECT prose_identities T
-Includes(two_ways,homogeneous) & Includes(two_ways,coarisen)
-Includes(five_ways,generation) & Includes(five_ways,support) & Includes(five_ways,foundation) & Includes(five_ways,sustaining) & Includes(five_ways,increase)
-Includes(three_ways,coarisen) & Includes(three_ways,homogeneous) & Includes(three_ways,maturation)
-Includes(one_way,maturation)
+# THEORY prose_two_and_five
+# EXPECT prose_two_and_five T
+Includes(two_ways,homogeneous) & Includes(two_ways,coarisen) & Includes(five_ways,generation) & Includes(five_ways,support) & Includes(five_ways,foundation) & Includes(five_ways,sustaining) & Includes(five_ways,increase)
+
+# THEORY prose_three_and_one
+# EXPECT prose_three_and_one T
+Includes(three_ways,coarisen) & Includes(three_ways,homogeneous) & Includes(three_ways,maturation) & Includes(one_way,maturation)
 
 # THEORY prose_not_always
 # EXPECT prose_not_always T
--AlwaysCounted(conditioning_cause)
+Includes(five_ways,generation) & -AlwaysCounted(conditioning_cause)
 
-# THEORY rejected_form_to_elem_not_maturation
-# EXPECT rejected_form_to_elem_not_maturation F
--Includes(one_way,maturation)
+# THEORY rejected_return_has_coarisen
+# EXPECT rejected_return_has_coarisen F
+Includes(one_way,maturation) & Includes(one_way,coarisen)
 
-# THEORY rejected_five_not_conditioning
-# EXPECT rejected_five_not_conditioning F
--Includes(five_ways,generation)
+# THEORY rejected_five_lacks_generation
+# EXPECT rejected_five_lacks_generation F
+Includes(five_ways,support) & -Includes(five_ways,generation)
 ```
 
 ```nltk-valuation
+element_kind => elem
+derived_form_kind => form
 two_ways => two
 five_ways => five
 three_ways => three
@@ -148,23 +176,31 @@ sustaining => sust
 increase => incr
 maturation => mat
 conditioning_cause => cond
-Element => {elem}
-DerivedForm => {form}
-CausesInTwoWays => {(elem,elem)}
-CausesInFiveWays => {(elem,form)}
-CausesInThreeWays => {(form,form)}
-CausesInOneWay => {(form,elem)}
+CauseProfile => {(elem,elem,two),(elem,form,five),(form,elem,one)}
+MutualCauseProfile => {(form,three)}
 Includes => {(two,homo),(two,co),(five,gen),(five,sup),(five,found),(five,sust),(five,incr),(three,co),(three,homo),(three,mat),(one,mat)}
 AlwaysCounted => {}
 ```
 
-The finite model records the four verse relations, the prose identities of the ways, and the note that the conditioning cause is not always counted. It does not decide whether every Element-to-Element relation must include both homogeneous and co-arisen.
+The finite valuation witnesses all four verse profiles. Removing any
+one profile makes the verse formula false. The Bhāṣya's fivefold
+conditioning-cause functions and the single maturation relation back
+to elements remain separate from the verse's bare counts.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya identifies the two Element-to-Element relations as homogeneous and co-arisen. Five Element-to-Form functions are generation, dependent support, foundation, sustaining, and increase; these are the conditioning cause divided fivefold. Form causes Form through co-arising, homogeneity, and maturation. Form causes Elements as bodily and verbal action whose maturation is the Elements. Conditioning cause is not always counted.
+**Translation note.** The two element-to-element causes are
+homogeneous and co-arisen. The five element-to-derived-form functions
+are generation, dependent support, foundation, sustaining, and
+increase, described as a fivefold division of the conditioning cause.
+Derived form may cause derived form through co-arising, homogeneity,
+and maturation; the prose narrows the co-arisen case to bodily and
+verbal action that accompanies mind. Derived form causes elements
+through maturation when elements are the maturation of bodily or
+verbal action. The conditioning cause is not counted in every context.
 
-The verse states the four relations. The next verses turn to the succession of consciousness.
+The verse gives four profiles, while the Bhāṣya determines their
+modes and scope. The next verse turns to the classes of mind.
 
 ## 10. OWL++ Seed
 
@@ -173,5 +209,5 @@ The verse states the four relations. The next verses turn to the succession of c
 
 vak:VAK_2_65 a vak:Karika ; vak:hasTopic vak:ElementsAndDerivedForm .
 vak:Elements vak:causeElements vak:TwoWays ; vak:causeDerivedForm vak:FiveFunctions .
-vak:DerivedForm vak:causeElements vak:OneWay .
+vak:DerivedForm vak:mutuallyCausesDerivedForm vak:ThreeWays ; vak:causeElements vak:OneWay .
 ```

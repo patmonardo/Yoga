@@ -1,192 +1,229 @@
-# VAK_2.70 — Formless and Uncontaminated
+# VAK_2.70 — Formless and Uncontaminated Succession
 
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
-नव चित्तानि तस्मात् षड्भिः / निवृतात् सप्त तद् एव /
-शैक्षं चतुर्भ्यः तस्मात् पञ्च / अशैक्षं तु पञ्चकात् // २.७० //
+नव चित्तानि तत् षण्णां निवृतात्सप्त तत्तथा /
+चतुर्भ्यः शैक्षमस्मात्तु पञ्च अशैक्षं तु पञ्चकात् // २.७० //
 ```
 
 ## 2. Sanskrit (IAST)
 
 ```text
-nava cittāni tasmāt ṣaḍbhiḥ / nivṛtāt sapta tad eva /
-śaikṣaṃ caturbhyo 'smāt pañca / aśaikṣaṃ tu pañcakāt // 2.70 //
+nava cittāni tat ṣaṇṇāṃ nivṛtāt sapta tat tathā /
+caturbhyaḥ śaikṣam asmāt tu pañca aśaikṣaṃ tu pañcakāt // 2.70 //
 ```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| nava | nominative plural | nine |
-| cittāni | neuter nominative plural | consciousnesses |
-| tasmāt | ablative singular | from that |
-| ṣaḍbhiḥ | instrumental plural | by six |
-| nivṛtāt | ablative singular | from obscured |
-| sapta | nominative plural | seven |
-| tad | neuter nominative singular | that |
-| eva | particle | indeed |
-| śaikṣam | neuter nominative singular | trainee |
-| caturbhyaḥ | ablative plural | from four |
-| asmāt | ablative singular | from this |
-| pañca | nominative plural | five |
-| aśaikṣam | neuter nominative singular | beyond-training |
-| tu | particle | however |
-| pañcakāt | ablative singular | from the group of five |
+| nava | numeral | Nine successor consciousnesses from the formless wholesome named in 2.69. |
+| cittāni | n. nom. pl. | Consciousnesses. |
+| tat | n. nom. sg. pronoun | That formless wholesome mind, then that obscured mind. |
+| ṣaṇṇām | gen. pl. numeral | Of six predecessor kinds. |
+| nivṛtāt | abl. sg. | From formless obscured mind. |
+| sapta | numeral | Seven successor kinds. |
+| tathā | adverb | Likewise; carries seven to predecessors of obscured. |
+| caturbhyaḥ | abl. pl. numeral | From four predecessor kinds. |
+| śaikṣam | n. nom. sg. | Trainee mind. |
+| asmāt | abl. sg. | From this trainee mind. |
+| tu | particle | Then or but; distinguishes the next relation. |
+| pañca | numeral | Five successors. |
+| aśaikṣam | n. nom. sg. | Beyond-training mind. |
+| pañcakāt | abl. sg. collective numeral | From the five-member predecessor group. |
 
-**Grammar tokens.** Sandhi opened in *caturbhyo 'smāt*.
+The [running witness](../../Sources/kosabhasya.txt) prints the verse
+in seven fragments, beginning after 2.69's *śubhāt punaḥ*. The
+former Organon file substituted *tasmāt ṣaḍbhiḥ* for *tat ṣaṇṇām*
+and *tad eva* for *tat tathā*. The normalized tokens open sandhi but
+retain the witnessed genitive *ṣaṇṇām*.
 
 ```text
-# tokens: nava cittāni tasmāt ṣaḍbhiḥ nivṛtāt sapta tad eva śaikṣam caturbhyaḥ asmāt pañca aśaikṣam tu pañcakāt
+# tokens: nava cittāni tat ṣaṇṇām nivṛtāt sapta tat tathā caturbhyaḥ śaikṣam asmāt tu pañca aśaikṣam tu pañcakāt
 ```
 
 ## 4. Grammar
 
-The first four tokens state that nine follow the (formless) wholesome and six follow it. The next four tokens state that seven follow the obscured and that the same number follows it. The next four tokens state that the trainee follows four and is followed by five. The final three tokens state that the beyond-training follows five. The grammar derives the seven succession claims; the identities of the groups and the note that the twelve are complete are prose.
+Nine minds follow formless wholesome, which itself follows six.
+Seven follow formless obscured, which likewise follows seven.
+Trainee mind follows four and has five successors. Beyond-training
+mind follows the group of five. The Bhāṣya then states that four
+follow beyond-training; that count lies outside this kārikā's words.
 
 ```nltk-fcfg
 % start S
-# tokens: nava cittāni tasmāt ṣaḍbhiḥ nivṛtāt sapta tad eva śaikṣam caturbhyaḥ asmāt pañca aśaikṣam tu pañcakāt
-S[SEM=<(?nine & ?six & ?seven_succ & ?seven_prec & ?trainee_four & ?trainee_five & ?beyond)>] -> NINE[SEM=?nine] SIX[SEM=?six] SEVEN_SUCC[SEM=?seven_succ] SEVEN_PREC[SEM=?seven_prec] TRAINEE_FOUR[SEM=?trainee_four] TRAINEE_FIVE[SEM=?trainee_five] BEYOND[SEM=?beyond]
-NINE[SEM=<all x.(FormlessWholesome(x) -> FollowedByNine(x))>] -> NINE_NUM[CASE=nom,CNT=9] CITTA[CASE=nom,NUM=pl]
-NINE_NUM[CASE=nom,CNT=9] -> 'nava'
-CITTA[CASE=nom,NUM=pl] -> 'cittāni'
-SIX[SEM=<all x.(FormlessWholesome(x) -> FollowsSix(x))>] -> FROM_THAT1[CASE=abl] BY_SIX[CASE=ins,CNT=6]
-FROM_THAT1[CASE=abl] -> 'tasmāt'
-BY_SIX[CASE=ins,CNT=6] -> 'ṣaḍbhiḥ'
-SEVEN_SUCC[SEM=<all x.(FormlessObscured(x) -> FollowedBySeven(x))>] -> FROM_OBSC[CASE=abl] SEVEN[CASE=nom,CNT=7]
-FROM_OBSC[CASE=abl] -> 'nivṛtāt'
-SEVEN[CASE=nom,CNT=7] -> 'sapta'
-SEVEN_PREC[SEM=<all x.(FormlessObscured(x) -> FollowsSeven(x))>] -> THAT[CASE=nom] INDEED
-THAT[CASE=nom] -> 'tad'
-INDEED -> 'eva'
-TRAINEE_FOUR[SEM=<all x.(Trainee(x) -> FollowsFour(x))>] -> TRAINEE[CASE=nom] FROM_FOUR[CASE=abl,CNT=4]
-TRAINEE[CASE=nom] -> 'śaikṣam'
-FROM_FOUR[CASE=abl,CNT=4] -> 'caturbhyaḥ'
-TRAINEE_FIVE[SEM=<all x.(Trainee(x) -> FollowedByFive(x))>] -> FROM_THIS[CASE=abl] FIVE[CASE=nom,CNT=5]
-FROM_THIS[CASE=abl] -> 'asmāt'
-FIVE[CASE=nom,CNT=5] -> 'pañca'
-BEYOND[SEM=<all x.(BeyondTraining(x) -> FollowsFive(x))>] -> BEYOND_HEAD[CASE=nom] HOWEVER FROM_FIVE[CASE=abl]
-BEYOND_HEAD[CASE=nom] -> 'aśaikṣam'
-HOWEVER -> 'tu'
-FROM_FIVE[CASE=abl] -> 'pañcakāt'
+# tokens: nava cittāni tat ṣaṇṇām nivṛtāt sapta tat tathā caturbhyaḥ śaikṣam asmāt tu pañca aśaikṣam tu pañcakāt
+S[SEM=<(?nine & ?six & ?seven_s & ?seven_p & ?four & ?five_s & ?five_p)>] -> NINE[SEM=?nine] SIX[SEM=?six] SEVEN_S[SEM=?seven_s] SEVEN_P[SEM=?seven_p] FOUR[SEM=?four] FIVE_S[SEM=?five_s] FIVE_P[SEM=?five_p]
+NINE[SEM=<SuccessorCount(formless_wholesome,nine)>] -> NINE_NUM[COUNT=9] MINDS[CASE=nom,NUM=pl]
+NINE_NUM[COUNT=9] -> 'nava'
+MINDS[CASE=nom,NUM=pl] -> 'cittāni'
+SIX[SEM=<PredecessorCount(formless_wholesome,six)>] -> THAT1[CASE=nom,NUM=sg] OF_SIX[CASE=gen,NUM=pl,COUNT=6]
+THAT1[CASE=nom,NUM=sg] -> 'tat'
+OF_SIX[CASE=gen,NUM=pl,COUNT=6] -> 'ṣaṇṇām'
+SEVEN_S[SEM=<SuccessorCount(formless_obscured,seven)>] -> FROM_OBSC[CASE=abl,NUM=sg] SEVEN_NUM[COUNT=7]
+FROM_OBSC[CASE=abl,NUM=sg] -> 'nivṛtāt'
+SEVEN_NUM[COUNT=7] -> 'sapta'
+SEVEN_P[SEM=<PredecessorCount(formless_obscured,seven)>] -> THAT2[CASE=nom,NUM=sg] LIKEWISE
+THAT2[CASE=nom,NUM=sg] -> 'tat'
+LIKEWISE -> 'tathā'
+FOUR[SEM=<PredecessorCount(trainee,four)>] -> FROM_FOUR[CASE=abl,NUM=pl,COUNT=4] TRAINEE[CASE=nom,NUM=sg]
+FROM_FOUR[CASE=abl,NUM=pl,COUNT=4] -> 'caturbhyaḥ'
+TRAINEE[CASE=nom,NUM=sg] -> 'śaikṣam'
+FIVE_S[SEM=<SuccessorCount(trainee,five)>] -> FROM_THIS[CASE=abl,NUM=sg] BUT1 FIVE_NUM[COUNT=5]
+FROM_THIS[CASE=abl,NUM=sg] -> 'asmāt'
+BUT1 -> 'tu'
+FIVE_NUM[COUNT=5] -> 'pañca'
+FIVE_P[SEM=<PredecessorCount(beyond_training,five)>] -> BEYOND[CASE=nom,NUM=sg] BUT2 FROM_FIVE[CASE=abl,NUM=sg,COUNT=5]
+BEYOND[CASE=nom,NUM=sg] -> 'aśaikṣam'
+BUT2 -> 'tu'
+FROM_FIVE[CASE=abl,NUM=sg,COUNT=5] -> 'pañcakāt'
 ```
 
 ```nltk-dep
-'nava' -> 'cittāni'
-'ṣaḍbhiḥ' -> 'tasmāt'
+'cittāni' -> 'nava'
+'tat' -> 'ṣaṇṇām' | 'tathā'
 'sapta' -> 'nivṛtāt'
-'tad' -> 'eva'
 'śaikṣam' -> 'caturbhyaḥ'
-'pañca' -> 'asmāt'
+'pañca' -> 'asmāt' | 'tu'
 'aśaikṣam' -> 'tu' | 'pañcakāt'
 ```
 
-**Feature chart checkpoints.** Nine-successors span [0, 2); six-predecessors [2, 4); seven-successors [4, 6); seven-predecessors [6, 8); trainee-four [8, 10); trainee-five [10, 12); beyond-five [12, 15); the root spans [0, 15). Number features constrain the claims. No identity of the groups is generated by the verse.
+**Feature chart checkpoints.** The seven fragments span [0, 2),
+[2, 4), [4, 6), [6, 8), [8, 10), [10, 13), and [13, 16); the
+root spans [0, 16). Genitive *ṣaṇṇām* and ablatives
+*caturbhyaḥ/pañcakāt* constrain predecessor counts. The
+beyond-training successor count is not in this verse.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> —nine consciousnesses; six from that [wholesome consciousness]. Seven
-> from the obscured, and the same number from it. The trainee follows
-> four; five follow it. The beyond-training follows five.
+> Nine consciousnesses [follow formless wholesome]; that [mind arises]
+> after six. Seven follow the obscured; it likewise
+> [follows seven]. Trainee [mind] follows four; from it, five [follow].
+> Beyond-training [mind] follows the group of five.
 
 ### Bhāṣya-informed study translation
 
-> —nine consciousnesses follow formless wholesome, and six follow it.
-> Seven follow formless obscured, and seven follow it. Trainee follows
-> four and is followed by five; beyond-training follows five.
+> Nine minds follow formless wholesome, which follows six. Seven
+> follow formless obscured, which likewise follows seven. Trainee mind
+> follows four and is followed by five; beyond-training follows that
+> group of five.
 
 ## 6. Philosophical Translation
 
-> The verse completes the succession constraints for formless wholesome, formless obscured, trainee, and beyond-training. The Bhāṣya enumerates the groups and notes that the twelve-kind count is complete.
+> The verse finishes the directional counts for formless wholesome,
+> formless obscured, trainee, and beyond-training mind. Its final
+> count is five predecessors of beyond-training. The Bhāṣya continues
+> with four successors of beyond-training and closes the twelve-kind
+> inventory.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Running word | Determination |
-|---|---|---|
-| śaikṣa | trainee | follows four, followed by five |
-| aśaikṣa | beyond-training | follows five, followed by four |
-| pañcaka | group of five | the four plus beyond-training |
+| Term | Rendering |
+|---|---|
+| ṣaṇṇām | Of six; predecessor count for formless wholesome. |
+| śaikṣa | Trainee mind; four predecessors, five successors. |
+| aśaikṣa | Beyond-training mind; five predecessors in the verse. |
+| pañcaka | Group of five predecessors; four leading to trainee plus beyond-training. |
+| tathā | Likewise; transfers seven to formless obscured's predecessors. |
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root SEM states the seven succession claims. The identities of the groups and the note that the twelve are complete are prose elaborations.
+**Kārikā, derived.** The root `SEM` records seven directed counts.
+The identities of the groups, beyond-training's four successors, and
+the closure of the twelve-kind inventory are in the Bhāṣya
+continuation. The verse itself has no beyond-training successor count.
 
 ```nltk-sem
-nine : all x.(FormlessWholesome(x) -> FollowedByNine(x))
-six : all x.(FormlessWholesome(x) -> FollowsSix(x))
-seven_succ : all x.(FormlessObscured(x) -> FollowedBySeven(x))
-seven_prec : all x.(FormlessObscured(x) -> FollowsSeven(x))
-trainee_four : all x.(Trainee(x) -> FollowsFour(x))
-trainee_five : all x.(Trainee(x) -> FollowedByFive(x))
-beyond : all x.(BeyondTraining(x) -> FollowsFive(x))
+formless_wholesome_successors : SuccessorCount(formless_wholesome,nine)
+formless_wholesome_predecessors : PredecessorCount(formless_wholesome,six)
+formless_obscured_successors : SuccessorCount(formless_obscured,seven)
+formless_obscured_predecessors : PredecessorCount(formless_obscured,seven)
+trainee_predecessors : PredecessorCount(trainee,four)
+trainee_successors : SuccessorCount(trainee,five)
+beyond_predecessors : PredecessorCount(beyond_training,five)
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(all x.(FormlessWholesome(x) -> FollowedByNine(x)) & all x.(FormlessWholesome(x) -> FollowsSix(x)) & all x.(FormlessObscured(x) -> FollowedBySeven(x)) & all x.(FormlessObscured(x) -> FollowsSeven(x)) & all x.(Trainee(x) -> FollowsFour(x)) & all x.(Trainee(x) -> FollowedByFive(x)) & all x.(BeyondTraining(x) -> FollowsFive(x)))
+(SuccessorCount(formless_wholesome,nine) & PredecessorCount(formless_wholesome,six) & SuccessorCount(formless_obscured,seven) & PredecessorCount(formless_obscured,seven) & PredecessorCount(trainee,four) & SuccessorCount(trainee,five) & PredecessorCount(beyond_training,five))
 
-# THEORY prose_identities
-# EXPECT prose_identities T
-Includes(nine_successors,own_three) & Includes(nine_successors,form_wholesome) & Includes(nine_successors,trainee) & Includes(nine_successors,beyond)
-Includes(six_predecessors,own_three) & Includes(six_predecessors,form_wholesome) & Includes(six_predecessors,trainee) & Includes(six_predecessors,beyond)
+# THEORY prose_formless_wholesome
+# EXPECT prose_formless_wholesome T
+Includes(nine_successors,own_three) & Includes(nine_successors,form_wholesome) & Includes(nine_successors,form_obscured) & Includes(nine_successors,afflicted_desire_two) & Includes(nine_successors,trainee) & Includes(nine_successors,beyond_training) & Includes(six_predecessors,own_three) & Includes(six_predecessors,form_wholesome)
+
+# THEORY prose_formless_obscured
+# EXPECT prose_formless_obscured T
 Includes(seven_successors,own_three) & Includes(seven_successors,form_wholesome) & Includes(seven_successors,form_obscured) & Includes(seven_successors,afflicted_desire_two)
-Includes(four_predecessors,realm_wholesome_three) & Includes(four_predecessors,trainee)
-Includes(five_successors,four_plus_beyond)
 
-# THEORY prose_complete
-# EXPECT prose_complete T
-TwelveComplete(succession_table)
+# THEORY prose_trainee_and_beyond
+# EXPECT prose_trainee_and_beyond T
+Includes(four_predecessors,realm_wholesome_three) & Includes(four_predecessors,trainee) & Includes(five_successors,four_plus_beyond) & SuccessorCount(beyond_training,four)
+
+# THEORY rejected_beyond_five_successors
+# EXPECT rejected_beyond_five_successors F
+PredecessorCount(beyond_training,five) & SuccessorCount(beyond_training,five)
+
+# THEORY rejected_formless_wholesome_six_successors
+# EXPECT rejected_formless_wholesome_six_successors F
+PredecessorCount(formless_wholesome,six) & SuccessorCount(formless_wholesome,six)
 ```
 
 ```nltk-valuation
-nine_successors => nine
-six_predecessors => six
-seven_successors => seven_s
-four_predecessors => four
-five_successors => five
-own_three => own3
-form_wholesome => form_whol
-form_obscured => form_obsc
+formless_wholesome => formless_good
+formless_obscured => formless_obscured_kind
 trainee => trainee_kind
-beyond => beyond_kind
-realm_wholesome_three => realm3
-four_plus_beyond => four_plus
-afflicted_desire_two => aff_des2
-succession_table => table
-FormlessWholesome => {formless_whol}
-FormlessObscured => {formless_obsc}
-Trainee => {trainee_kind}
-BeyondTraining => {beyond_kind}
-FollowedByNine => {formless_whol}
-FollowsSix => {formless_whol}
-FollowedBySeven => {formless_obsc}
-FollowsSeven => {formless_obsc}
-FollowsFour => {trainee_kind}
-FollowedByFive => {trainee_kind}
-FollowsFive => {beyond_kind}
-Includes => {(nine,own3),(nine,form_whol),(nine,trainee_kind),(nine,beyond_kind),(six,own3),(six,form_whol),(six,trainee_kind),(six,beyond_kind),(seven_s,own3),(seven_s,form_whol),(seven_s,form_obsc),(seven_s,aff_des2),(four,realm3),(four,trainee_kind),(five,four_plus)}
-TwelveComplete => {table}
+beyond_training => beyond_kind
+nine => nine_count
+six => six_count
+seven => seven_count
+four => four_count
+five => five_count
+nine_successors => nine_group
+six_predecessors => six_group
+seven_successors => seven_group
+four_predecessors => four_group
+five_successors => five_group
+own_three => own_three_group
+form_wholesome => form_good
+form_obscured => form_obscured_kind
+afflicted_desire_two => desire_afflicted_pair
+realm_wholesome_three => realm_good_triple
+four_plus_beyond => four_plus_beyond_group
+SuccessorCount => {(formless_good,nine_count),(formless_obscured_kind,seven_count),(trainee_kind,five_count),(beyond_kind,four_count)}
+PredecessorCount => {(formless_good,six_count),(formless_obscured_kind,seven_count),(trainee_kind,four_count),(beyond_kind,five_count)}
+Includes => {(nine_group,own_three_group),(nine_group,form_good),(nine_group,form_obscured_kind),(nine_group,desire_afflicted_pair),(nine_group,trainee_kind),(nine_group,beyond_kind),(six_group,own_three_group),(six_group,form_good),(seven_group,own_three_group),(seven_group,form_good),(seven_group,form_obscured_kind),(seven_group,desire_afflicted_pair),(four_group,realm_good_triple),(four_group,trainee_kind),(five_group,four_plus_beyond_group)}
 ```
 
-The finite model records the seven verse succession claims, the prose identities of the groups, and the note that the twelve-kind succession count is complete. It does not decide every edge case of rebirth-linking or emergence.
+The finite valuation witnesses the seven verse counts. It also
+records the Bhāṣya continuation's four successors of beyond-training;
+that relation is tested as prose and is absent from the verse `SEM`.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya lists the nine successors of formless wholesome and its six predecessors: its own three kinds, Form wholesome, trainee, and beyond-training. Seven follow formless obscured—its own three, Form wholesome and Form obscured, and the two afflicted desire kinds—and seven precede it, excluding the afflicted kinds of desire and Form and the two uncontaminated kinds. Trainee follows the three realm-wholesome kinds and itself; five follow it, those four plus beyond-training. Beyond-training follows that group of five. The twelve-kind succession count is complete.
+**Translation note.** Nine kinds follow formless wholesome, with
+desire wholesome and the desire and Form unobscured kinds excluded.
+It follows six: three of its own level, Form wholesome, trainee, and
+beyond-training. Seven follow formless obscured: its own three, Form
+wholesome and obscured, and two afflicted desire kinds. Seven also
+precede it. Trainee follows the three realm-wholesome kinds and
+itself; five follow it, those four plus beyond-training.
 
-The verse completes the succession table. The next verses subdivide the twelve further.
+Beyond-training follows that five-member group. The subsequent prose
+says four follow beyond-training and declares the twelve-kind
+inventory complete. Those are not extra words in the kārikā.
 
 ## 10. OWL++ Seed
 
 ```ttl
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 
-vak:VAK_2_70 a vak:Karika ; vak:hasTopic vak:FormlessAndUncontaminated .
-vak:FormlessWholesome vak:followedBy 9 ; vak:follows 6 .
-vak:Trainee vak:follows 4 ; vak:followedBy 5 .
-vak:Twelve vak:complete true .
+vak:VAK_2_70 a vak:Karika ; vak:hasTopic vak:FormlessAndUncontaminatedSuccession .
+vak:FormlessWholesome vak:successorCount 9 ; vak:predecessorCount 6 .
+vak:FormlessObscured vak:successorCount 7 ; vak:predecessorCount 7 .
+vak:Trainee vak:predecessorCount 4 ; vak:successorCount 5 .
+vak:BeyondTraining vak:predecessorCount 5 .
 ```

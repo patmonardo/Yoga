@@ -3,70 +3,85 @@
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
-चतुर्भिश्चित्तचैत्ताः समापत्तीद्वयं त्रिभिः /
-द्वाभ्याम् अन्ये समुत्पद्यन्ते नेश्वरादेः क्रमादिभिः // २.६४ //
+चतुर्भिश्चित्तचैत्ता हि समापत्तिद्वयं त्रिभिः /
+द्वाभ्यामन्ये तु जायन्ते नेश्वरादेः क्रमादिभिः // २.६४ //
 ```
 
 ## 2. Sanskrit (IAST)
 
 ```text
-caturbhiś cittacaittāḥ samāpattīdvayaṃ tribhiḥ /
-dvābhyām anye samutpadyante neśvarādeḥ kramādibhiḥ // 2.64 //
+caturbhiś cittacaittā hi samāpattidvayaṃ tribhiḥ /
+dvābhyām anye tu jāyante neśvarādeḥ kramādibhiḥ // 2.64 //
 ```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| caturbhiḥ | instrumental plural | through four |
-| cittacaittāḥ | masculine nominative plural | consciousness and mental factors |
-| samāpattīdvayam | neuter nominative singular | pair of attainments |
-| tribhiḥ | instrumental plural | through three |
-| dvābhyām | instrumental dual | through two |
-| anye | masculine nominative plural | others |
-| samutpadyante | 3rd plural present | arise |
-| na | particle | not |
-| īśvarādeḥ | ablative singular | from Īśvara and the like |
-| kramādibhiḥ | instrumental plural | on grounds of succession and the like |
+| caturbhiḥ | instrumental plural numeral | Through four conditions. |
+| cittacaittāḥ | masculine nominative plural | Mind and mental factors. |
+| hi | particle | Indeed; confirms the preceding four-condition account. |
+| samāpattidvayam | neuter nominative singular compound | The pair of attainments. |
+| tribhiḥ | instrumental plural numeral | Through three conditions. |
+| dvābhyām | instrumental dual numeral | Through two conditions. |
+| anye | masculine nominative plural | The other dharmas. |
+| tu | particle | But; contrasts this range with the preceding two. |
+| jāyante | third plural present middle | Arise. |
+| na | negation | Not. |
+| īśvarādeḥ | ablative/genitive singular | From Īśvara and similar proposed causes. |
+| kramādibhiḥ | instrumental plural | On grounds including observed succession. |
 
-**Grammar tokens.** Sandhi opened in *caturbhiś* and *neśvarādeḥ*.
+The running [Sanskrit witness](../../Sources/kosabhasya.txt) has
+*cattacaittā* in its first fragment; the older VAK study normalizes
+this to *cittacaittā*. The former Organon text also omitted *hi* and
+*tu*, lengthened *samāpattidvayam*, and replaced *jāyante*.
 
 ```text
-# tokens: caturbhiḥ cittacaittāḥ samāpattīdvayam tribhiḥ dvābhyām anye samutpadyante na īśvarādeḥ kramādibhiḥ
+# tokens: caturbhiḥ cittacaittāḥ hi samāpattidvayam tribhiḥ dvābhyām anye tu jāyante na īśvarādeḥ kramādibhiḥ
 ```
 
 ## 4. Grammar
 
-The first six tokens state the three ranges: consciousness and mental factors through four, the pair of attainments through three, and the others through two. The final three tokens reject arising from Īśvara and the like on the grounds of succession. The grammar keeps the ranges and the rejection distinct; the identities of the four/three/two conditions and the named proposals (Īśvara, Puruṣa, Pradhāna) are prose.
+The first three clauses give counts of four, three, and two conditions
+for mind and mental factors, the two attainments, and the other
+dharmas. The final clause rejects a proposed single world-cause such
+as Īśvara, with succession among the reasons. The identities of the
+applicable conditions and the extended argument are in the Bhāṣya.
 
 ```nltk-fcfg
 % start S
-% tokens: caturbhiḥ cittacaittāḥ samāpattīdvayam tribhiḥ dvābhyām anye samutpadyante na īśvarādeḥ kramādibhiḥ
+# tokens: caturbhiḥ cittacaittāḥ hi samāpattidvayam tribhiḥ dvābhyām anye tu jāyante na īśvarādeḥ kramādibhiḥ
 S[SEM=<(?four & ?three & ?two & ?reject)>] -> FOUR[SEM=?four] THREE[SEM=?three] TWO[SEM=?two] REJECT[SEM=?reject]
-FOUR[SEM=<all x.(CittaCaitta(x) -> ArisesThrough(x,four))>] -> THROUGH4[CASE=ins,CNT=4] CITTA[CASE=nom,NUM=pl]
+FOUR[SEM=<all x.(CittaCaitta(x) -> ArisesThrough(x,four))>] -> THROUGH4[CASE=ins,CNT=4] CITTA[CASE=nom,NUM=pl] INDEED
 THROUGH4[CASE=ins,CNT=4] -> 'caturbhiḥ'
 CITTA[CASE=nom,NUM=pl] -> 'cittacaittāḥ'
+INDEED -> 'hi'
 THREE[SEM=<all x.(AttainmentPair(x) -> ArisesThrough(x,three))>] -> ATTAIN[CASE=nom,NUM=sg] THROUGH3[CASE=ins,CNT=3]
-ATTAIN[CASE=nom,NUM=sg] -> 'samāpattīdvayam'
+ATTAIN[CASE=nom,NUM=sg] -> 'samāpattidvayam'
 THROUGH3[CASE=ins,CNT=3] -> 'tribhiḥ'
-TWO[SEM=<all x.(Other(x) -> ArisesThrough(x,two))>] -> THROUGH2[CASE=ins,NUM=du] OTHER[CASE=nom,NUM=pl] ARISE[NUM=pl]
+TWO[SEM=<all x.(Other(x) -> ArisesThrough(x,two))>] -> THROUGH2[CASE=ins,NUM=du] OTHER[CASE=nom,NUM=pl] BUT ARISE[NUM=pl]
 THROUGH2[CASE=ins,NUM=du] -> 'dvābhyām'
 OTHER[CASE=nom,NUM=pl] -> 'anye'
-ARISE[NUM=pl] -> 'samutpadyante'
-REJECT[SEM=<-ArisesFrom(isvara_and_like) & Reason(succession)>] -> NOT FROM[CASE=abl] REASON[CASE=ins,NUM=pl]
+BUT -> 'tu'
+ARISE[NUM=pl] -> 'jāyante'
+REJECT[SEM=<(-ArisesFrom(isvara_and_like) & Reason(succession))>] -> NOT FROM[CASE=abl] REASON[CASE=ins,NUM=pl]
 NOT -> 'na'
 FROM[CASE=abl] -> 'īśvarādeḥ'
 REASON[CASE=ins,NUM=pl] -> 'kramādibhiḥ'
 ```
 
 ```nltk-dep
-'cittacaittāḥ' -> 'caturbhiḥ'
-'samāpattīdvayam' -> 'tribhiḥ'
-'anye' -> 'dvābhyām' | 'samutpadyante'
+'cittacaittāḥ' -> 'caturbhiḥ' | 'hi'
+'samāpattidvayam' -> 'tribhiḥ'
+'anye' -> 'dvābhyām' | 'tu' | 'jāyante'
 'īśvarādeḥ' -> 'na' | 'kramādibhiḥ'
 ```
 
-**Feature chart checkpoints.** The four-condition range spans [0, 2); the three-condition range [2, 4); the two-condition range [4, 7); the rejection [7, 10); the root spans [0, 10). Instrumental number features constrain the ranges. No identity of the conditions or of the named proposals is generated by the verse.
+**Feature chart checkpoints.** The four-condition clause spans [0,
+3), the three-condition clause [3, 5), the two-condition clause [5,
+9), the rejection [9, 12), and the root [0, 12). Instrumental count
+and number features constrain the three ranges. The source text and
+the model keep the single-cause objection distinct from those counts.
 
 ## 5. Translation
 
@@ -99,7 +114,7 @@ REASON[CASE=ins,NUM=pl] -> 'kramādibhiḥ'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root SEM states the three ranges and the rejection. The identities of the conditions, the lack of object for the attainments, the named proposals, and the claim that beings' own actions generate them in their births are prose elaborations.
+**Kārikā, derived.** The root SEM states the three ranges and the objection to a single world-cause from succession. The identities of the conditions, the lack of object for the attainments, the named proposals, and the claim that beings' own actions generate them in their births are prose elaborations.
 
 ```nltk-sem
 four : all x.(CittaCaitta(x) -> ArisesThrough(x,four))
@@ -116,8 +131,8 @@ reject : -ArisesFrom(isvara_and_like) & Reason(succession)
 # THEORY prose_identities
 # EXPECT prose_identities T
 Includes(four,cause) & Includes(four,antecedent) & Includes(four,object) & Includes(four,predominant)
--Includes(three,object)
-Includes(two,cause) & Includes(two,predominant)
+Includes(three,cause) & Includes(three,antecedent) & Includes(three,predominant) & -Includes(three,object)
+Includes(two,cause) & Includes(two,predominant) & -Includes(two,antecedent) & -Includes(two,object)
 
 # THEORY prose_named
 # EXPECT prose_named T
@@ -125,11 +140,11 @@ NamedProposal(isvara) & NamedProposal(purusa) & NamedProposal(pradhana)
 
 # THEORY prose_karma
 # EXPECT prose_karma T
-OwnActionsGenerateBirths(beings)
+OwnActionsGenerateBirths(beings) & -ArisesFrom(isvara_and_like)
 
 # THEORY rejected_single_cause
 # EXPECT rejected_single_cause F
-ArisesFrom(isvara_and_like)
+Reason(succession) & ArisesFrom(isvara_and_like)
 
 # THEORY rejected_simultaneous_world
 # EXPECT rejected_simultaneous_world F
@@ -143,6 +158,7 @@ purusa => purusa_item
 pradhana => pradhana_item
 succession => succession_reason
 beings => beings_group
+world => world_item
 four => four_conditions
 three => three_conditions
 two => two_conditions
@@ -156,14 +172,14 @@ Other => {other_item}
 ArisesThrough => {(citta_item,four_conditions),(attain_item,three_conditions),(other_item,two_conditions)}
 ArisesFrom => {}
 Reason => {succession_reason}
-Includes => {(four_conditions,cause_cond),(four_conditions,ant_cond),(four_conditions,obj_cond),(four_conditions,pred_cond),(two_conditions,cause_cond),(two_conditions,pred_cond)}
+Includes => {(four_conditions,cause_cond),(four_conditions,ant_cond),(four_conditions,obj_cond),(four_conditions,pred_cond),(three_conditions,cause_cond),(three_conditions,ant_cond),(three_conditions,pred_cond),(two_conditions,cause_cond),(two_conditions,pred_cond)}
 NamedProposal => {isvara_item,purusa_item,pradhana_item}
 OwnActionsGenerateBirths => {beings_group}
 SingleSufficientCause => {}
 SimultaneousArising => {}
 ```
 
-The finite model records the three verse ranges, the rejection of a single world-cause, the prose identities of the conditions, the named proposals, and the rejection of simultaneous arising from one cause. It does not decide every alternative proposal.
+The finite model witnesses the three condition counts and the stated objection to a single world-cause. The Bhāṣya identifies the included conditions and adds the argument from simultaneous production. This model does not decide every alternative proposal.
 
 ## 9. Interpretive Note
 

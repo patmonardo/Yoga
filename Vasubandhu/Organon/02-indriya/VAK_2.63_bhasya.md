@@ -1,33 +1,65 @@
-# VAK_2.63 Bhāṣya — Activity Toward Ceasing and Arising
+# VAK_2.63 Bhāṣya — Activity at Ceasing and Arising
 
 ## 1. Kārikā Anchor
 
-> dvau hetū pañca ca /
+> nirudhyamāne kāritraṃ dvau hetū kurutaḥ trayaḥ /
 >
-> tataḥ anyau tu pratyayau tadviparyayāt // 2.63 //
+> jāyamāne tato 'nyau tu pratyayau tadviparyayāt // 2.63 //
 
-> Of the five causes, two act toward the ceasing present and three toward
-> the arising future. The other two conditions act in the reverse way.
+> Two causes act on a dharma that is ceasing, and three on one that is
+> arising. The other two conditions act in the reverse temporal order.
 
-## 2. Continuous Sanskrit Witness
+## 2. Sanskrit Witness — Selected Passages
 
-> dvau hetū pañca ca /
-> tataḥ anyau tu pratyayau tadviparyayāt // 2.63 //
-> kasyāṃ dharmasyāvasthāyāṃ pratyayāḥ kriyāṃ kurvanti /
-> hetupratyayaḥ pañcavidhaḥ /
-> nirudhyamānaṃ pratyutpannam /
-> utpadyamānam anāgatam /
+> athaite pratyayāḥ kāritraṃ kurvantaḥ kimavasthe dharme kurvanti /
+> hetupratyayastāvat pañcavidha uktaḥ /
+> nirudhyamāne kāritraṃ dvī hetū kurutaḥ /
+> nirudhyamānaṃ nāma varktamānam /
+> nirodhābhimukhatvāt /
+> tatra sahabhūsaṃprayuktakahetu kāritraṃ kurutaḥ /
+> trayaḥ /
+> jāyamāne /
+> jāyamānaṃ nāmānāgatamutpādābhimukham /
+> tatra sabhāgasarvatragavipākahetavaḥ kāritraṃ kurvanti /
+> tato 'nyau tu pratyayau tadviparyayāt // 2.63 //
+> samantarapratyayo jāyamāne kāritraṃ karotyavakāśadānāt /
+> ālambanapratyayo nirudhyamāne /
+> varttamānaiścittacaitairgrahaṇāt /
+> adhipatipratyayastu sarvasyāmavasthāyāmanāvaraṇabhāvenāvasthita ityetadevāsya kāritram /
 
-The unit is printed 100.16–101.05 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+These selected passages follow 100.19–101.05 in
+[the running witness](../../Sources/kosabhasya.txt). The verse is
+interleaved with its explanation. The running witness prints *dvī*
+for the dual numeral, while the older VAK verse reads *dvau*; the
+study text follows that verse reading. Other witness spellings are
+retained here. This is not a collation.
 
-## 3. Continuous Conventional Translation
+## 3. Conventional Argument Summary
 
-In what state of a dharma do the conditions act? Cause-condition is fivefold. Ceasing is the present, directed toward cessation. Co-arisen and associated act toward it. Their operation is on a fruit arisen together with them. Arising is the future, directed toward arising. Homogeneous, pervasive, and maturation act toward it. The other two, in the reverse order. Immediately antecedent acts toward the arising, by giving an opening. Object-condition acts toward the ceasing, because present mind and factors apprehend. Predominant condition stands in every state by non-obstruction. That is its activity. The conditions have been explained, with their activities.
+The text asks at what state of a dharma the conditions exercise their
+activity. Of the five causes that make up the cause-condition, the
+co-arisen and associated causes act at the ceasing state, explained as
+the present directed toward cessation. Their operation concerns a
+fruit arisen together with them. The homogeneous, pervasive, and
+maturation causes act at the arising state, explained as the future
+directed toward production.
+
+The other two conditions reverse that temporal arrangement. The
+immediately antecedent condition acts at arising by giving an
+opening. The object-condition acts at ceasing because present mind
+and mental factors apprehend an object. The predominant condition
+works in every state by non-obstruction. It stands outside the
+verse's “other two” timing contrast.
 
 ## 4. Interpretation
 
-Two causes act toward the present directed to cessation. Three toward the future directed to arising. Antecedent gives an opening toward arising. Object is present apprehension. Predominance is non-obstruction in every state. Target is not the cause.
+The timing contrast concerns activity relative to a dharma's state,
+not a claim that a target state is itself a cause. The Bhāṣya names
+the causes and conditions occupying each side of the verse's pattern.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Target is not the cause.
+The full verse wording, the two/three cause division, and the reverse
+condition assignments have been checked against the running witness.
+The predominant condition is recorded from the prose as acting by
+non-obstruction in every state.

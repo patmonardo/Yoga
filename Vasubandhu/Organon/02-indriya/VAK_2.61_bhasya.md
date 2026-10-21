@@ -1,36 +1,65 @@
-# VAK_2.61 Bhāṣya — Four Conditions
+# VAK_2.61 Bhāṣya — From Causes to Conditions
 
 ## 1. Kārikā Anchor
 
-> cittacaittāḥ samānāḥ śeṣāḥ saṃprayuktād ṛte /
+> cittacaittāḥ / tathā 'nye 'pi saṃprayuktakavarjitāḥ /
 >
-> catvāraḥ pratyayā uktāḥ hetvākhyaḥ pañca hetavaḥ // 2.61 //
+> catvāraḥ pratyayā uktāḥ / hetvākhyaḥ pañca hetavaḥ // 2.61 //
 
-> Consciousness and mental factors, and the other [dharmas] likewise,
-> except for the associated cause. Four conditions are taught; the
-> cause-condition is the five causes.
+> The four causal profiles apply to mind and mental factors, and
+> likewise to other dharmas except for the associated cause. Four
+> conditions are taught; five causes constitute the cause-condition.
 
-## 2. Continuous Sanskrit Witness
+## 2. Sanskrit Witness — Selected Passages
 
+> cittacaittāḥ /
+> atha ye cittaviprayuktā rūpiṇaśca dharmāste kathamityāha /
+> tathā 'nye 'pi saṃprayuktakavarjitāḥ /
+> prayuktakahetunaikena varjitāḥ anye 'pi kliṣṭādayo dharmāstathaivotpadyante yathā cittacaīttāḥ /
+> tatra kliṣṭāścatubhryo vipākajāśca /
+> śeṣāstribhyaḥ prathamānāsravā dvābhyām /
+> ekahetusaṃbhūto nāsti dharmaḥ /
+> pratyayāḥ katame /
 > catvāraḥ pratyayā uktāḥ /
+> kvavoktāḥ / sūtre /
+> "catasraḥ pratyayatāḥ /
+> hetupratyayatā samanantarapratyayatā ālambanapratyayatā adhipatipratyayatā ce"ti /
+> pratyayajātiḥ pratyayatā /
 > hetvākhyaḥ pañca hetavaḥ // 2.61 //
-> ke pratyayāḥ /
-> catvāra uktāḥ /
-> kutra /
-> sūtre /
-> catvāraḥ pratyayāḥ /
-> hetupratyayaḥ samanantarapratyaya ālambanapratyayo 'dhipatipratyayaḥ /
+> kāraṇahetuvarjyāḥ paṇyca hetavo hetupratyayaḥ /
 
-The unit is printed 98.18–98.25 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+These selected passages follow 97.27–98.08 in
+[the running witness](../../Sources/kosabhasya.txt). The source prints
+the kārikā in four separated fragments, with commentary between them.
+Forms such as *cittacaīttāḥ* and *paṇyca* are retained as printed;
+this is not a collation.
 
-## 3. Continuous Conventional Translation
+## 3. Conventional Argument Summary
 
-What are the conditions? Four are taught. Where? In the sūtra. Four kinds of condition: cause-condition, immediately antecedent condition, object-condition, predominant condition. A kind of condition is what conditionality means. Of these, the one named cause is the five causes. The five apart from the conditioning cause are the cause-condition.
+The preceding four causal profiles first apply to mind and mental
+factors. Asked about material and mind-dissociated dharmas, the text
+answers that these too follow the same profiles, but each lacks the
+associated cause. Their resulting counts are four for afflicted and
+maturation-born dharmas, three for the remaining, and two for the
+first uncontaminated. No dharma arises from just one cause.
+
+The exposition then asks what the conditions are. Four kinds are cited
+from a sūtra: cause, immediately antecedent, object, and predominant
+condition. *Pratyayatā* means a kind of condition. Of the six causes,
+the five apart from the conditioning cause constitute the
+cause-condition. The passage does not yet define the other three
+conditions.
 
 ## 4. Interpretation
 
-Four conditions named. Cause-condition is five causes, not the conditioning cause. Associated exclusion is a different question. Other three named, not defined.
+The associated-cause exception belongs to the other dharmas; mind and
+mental factors are the comparison domain. The condition inventory is a
+new classification. “Cause-condition” names five causes and excludes
+the conditioning cause, despite the similarity of their names.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Other three named, not defined.
+The kārikā anchor, scope of the associated-cause exception, and the
+five-cause condition have been checked against the running witness.
+The later treatment of immediately antecedent condition belongs to
+the next passage.

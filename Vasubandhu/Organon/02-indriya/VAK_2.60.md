@@ -3,14 +3,14 @@
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
-क्लिष्टा विपाकजाः शेषाः प्रथमं चानास्रवम् /
+क्लिष्टा विपाकजाः शेषाः प्रथमाऱ्या यथाक्रमम् /
 विपाकं सर्वगं हित्वा तौ सभागं च शेषजाः // २.६० //
 ```
 
 ## 2. Sanskrit (IAST)
 
 ```text
-kliṣṭā vipākajāḥ śeṣāḥ prathamaṃ cānāsravam /
+kliṣṭā vipākajāḥ śeṣāḥ prathamāryā yathākramam /
 vipākaṃ sarvagaṃ hitvā tau sabhāgaṃ ca śeṣajāḥ // 2.60 //
 ```
 
@@ -18,153 +18,166 @@ vipākaṃ sarvagaṃ hitvā tau sabhāgaṃ ca śeṣajāḥ // 2.60 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| kliṣṭāḥ | masculine nominative plural | afflicted |
-| vipākajāḥ | masculine nominative plural | maturation-born |
-| śeṣāḥ | masculine nominative plural | remaining |
-| prathamam | neuter nominative singular | first |
-| anāsravam | neuter nominative singular | uncontaminated |
-| vipākam | masculine accusative singular | maturation |
-| sarvagam | masculine accusative singular | pervasive |
-| hitvā | gerund | excluding |
-| tau | dual | those two |
-| sabhāgam | masculine accusative singular | homogeneous |
-| śeṣajāḥ | masculine nominative plural | born from the rest |
+| kliṣṭāḥ | m. nom. pl. | Afflicted dharmas. |
+| vipākajāḥ | m. nom. pl. | Maturation-born dharmas. |
+| śeṣāḥ | m. nom. pl. | Remaining dharmas. |
+| prathamāryāḥ | m. nom. pl. | First noble dharmas; the Bhāṣya specifies the first uncontaminated. |
+| yathākramam | indeclinable | In the stated order; aligns classes with exclusions. |
+| vipākam | m. acc. sg. | Maturation cause. |
+| sarvagam | m. acc. sg. | Pervasive cause. |
+| hitvā | absolutive | Having excluded. |
+| tau | m. acc. dual | Those two causes, maturation and pervasive. |
+| sabhāgam | m. acc. sg. | Homogeneous cause. |
+| ca | conjunction | And. |
+| śeṣajāḥ | m. nom. pl. | Arisen from the remaining causes. |
 
-**Grammar tokens.** Sandhi opened in *cānāsravam*.
+The first verse line has *prathamāryā yathākramam* in the local
+[Sanskrit witness](../../Sources/kosabhasya.txt) and the older VAK
+study. The former *prathamaṃ cānāsravam* reading in this Organon file
+was not supported by either witness. The normalized tokens restore the
+plural ending of *prathamāryāḥ* before *yathākramam*.
 
 ```text
-# tokens: kliṣṭāḥ vipākajāḥ śeṣāḥ prathamam ca anāsravam vipākam sarvagam hitvā tau sabhāgam ca śeṣajāḥ
+# tokens: kliṣṭāḥ vipākajāḥ śeṣāḥ prathamāryāḥ yathākramam vipākam sarvagam hitvā tau sabhāgam ca śeṣajāḥ
 ```
 
 ## 4. Grammar
 
-The first six tokens name the four classes. The remaining tokens state the successive exclusions: maturation, the pervasive, those two, and those two plus the homogeneous. The grammar derives the four exclusion patterns; the counts (five, five, four, three) and the additional omission of the associated cause for Form and dissociated dharmas are prose.
+The first five tokens name four classes and mark their order. The
+remaining seven express the ordered exclusions and arising from the
+remaining causes. The Bhāṣya supplies the counts for each profile.
 
 ```nltk-fcfg
 % start S
-# tokens: kliṣṭāḥ vipākajāḥ śeṣāḥ prathamam ca anāsravam vipākam sarvagam hitvā tau sabhāgam ca śeṣajāḥ
-S[SEM=<(?aff & ?mat & ?rem & ?first)>] -> AFF[SEM=?aff] MAT[SEM=?mat] REM[SEM=?rem] FIRST[SEM=?first]
-AFF[SEM=<all x.(Afflicted(x) -> ArisesFromExcluding(x,maturation))>] -> AFF_HEAD[CASE=nom,NUM=pl] EXCL1[CASE=acc] EXCLUDE[FORCE=ger]
-AFF_HEAD[CASE=nom,NUM=pl] -> 'kliṣṭāḥ'
-EXCL1[CASE=acc] -> 'vipākam'
-EXCLUDE[FORCE=ger] -> 'hitvā'
-MAT[SEM=<all x.(MaturationBorn(x) -> ArisesFromExcluding(x,pervasive))>] -> MAT_HEAD[CASE=nom,NUM=pl] EXCL2[CASE=acc]
-MAT_HEAD[CASE=nom,NUM=pl] -> 'vipākajāḥ'
-EXCL2[CASE=acc] -> 'sarvagam'
-REM[SEM=<all x.(Remaining(x) -> ArisesFromExcluding(x,maturation,pervasive))>] -> REM_HEAD[CASE=nom,NUM=pl] TWO[CASE=acc,NUM=du]
-REM_HEAD[CASE=nom,NUM=pl] -> 'śeṣāḥ'
-TWO[CASE=acc,NUM=du] -> 'tau'
-FIRST[SEM=<all x.(FirstUncontaminated(x) -> ArisesFromExcluding(x,maturation,pervasive,homogeneous))>] -> FIRST_HEAD[CASE=nom] AND1 UNCONT[CASE=nom] AND2 HOMO[CASE=acc] BORN[CASE=nom,NUM=pl]
-FIRST_HEAD[CASE=nom] -> 'prathamam'
-AND1 -> 'ca'
-UNCONT[CASE=nom] -> 'anāsravam'
-AND2 -> 'ca'
-HOMO[CASE=acc] -> 'sabhāgam'
-BORN[CASE=nom,NUM=pl] -> 'śeṣajāḥ'
+# tokens: kliṣṭāḥ vipākajāḥ śeṣāḥ prathamāryāḥ yathākramam vipākam sarvagam hitvā tau sabhāgam ca śeṣajāḥ
+S[SEM=<(?classes & ?exclusions)>] -> CLASSES[SEM=?classes] EXCLUSIONS[SEM=?exclusions]
+CLASSES[SEM=<(?aff & ?mat & ?rem & ?first)>] -> AFF[SEM=?aff] MAT[SEM=?mat] REM[SEM=?rem] FIRST[SEM=?first] ORDER
+AFF[SEM=<Afflicted(afflicted)>] -> 'kliṣṭāḥ'
+MAT[SEM=<MaturationBorn(maturation_born)>] -> 'vipākajāḥ'
+REM[SEM=<Remaining(remaining)>] -> 'śeṣāḥ'
+FIRST[SEM=<FirstNoble(first_noble)>] -> 'prathamāryāḥ'
+ORDER -> 'yathākramam'
+EXCLUSIONS[SEM=<(?ex1 & ?ex2 & ?two & ?homo & ?born)>] -> EX1[CASE=acc,SEM=?ex1] EX2[CASE=acc,SEM=?ex2] EXCLUDE TWO[CASE=acc,NUM=du,SEM=?two] HOMO[CASE=acc,SEM=?homo] AND BORN[CASE=nom,NUM=pl,SEM=?born]
+EX1[CASE=acc,SEM=<ExcludesCause(afflicted,maturation)>] -> 'vipākam'
+EX2[CASE=acc,SEM=<ExcludesCause(maturation_born,pervasive)>] -> 'sarvagam'
+EXCLUDE -> 'hitvā'
+TWO[CASE=acc,NUM=du,SEM=<(ExcludesCause(remaining,maturation) & ExcludesCause(remaining,pervasive) & ExcludesCause(first_noble,maturation) & ExcludesCause(first_noble,pervasive))>] -> 'tau'
+HOMO[CASE=acc,SEM=<ExcludesCause(first_noble,homogeneous)>] -> 'sabhāgam'
+AND -> 'ca'
+BORN[CASE=nom,NUM=pl,SEM=<(BornFromRemainder(afflicted) & BornFromRemainder(maturation_born) & BornFromRemainder(remaining) & BornFromRemainder(first_noble))>] -> 'śeṣajāḥ'
 ```
 
 ```nltk-dep
-'kliṣṭāḥ' -> 'vipākam' | 'hitvā'
-'vipākajāḥ' -> 'sarvagam'
-'śeṣāḥ' -> 'tau'
-'śeṣajāḥ' -> 'prathamam' | 'anāsravam' | 'sabhāgam'
+'śeṣajāḥ' -> 'kliṣṭāḥ' | 'vipākajāḥ' | 'śeṣāḥ' | 'prathamāryāḥ' | 'yathākramam' | 'vipākam' | 'sarvagam' | 'hitvā' | 'tau' | 'sabhāgam' | 'ca'
 ```
 
-**Feature chart checkpoints.** The four classes and their exclusions compose into one closed SEM. The gerund *hitvā* and the dual *tau* constrain the successive exclusions. No count or single-cause prohibition is generated by the verse.
+**Feature chart checkpoints.** The class phrase spans [0, 5), the
+exclusion phrase [5, 12), and the root [0, 12). The accusatives and
+dual *tau* constrain the cause exclusions. The `SEM` preserves the
+ordered pairings, including both exclusions repeated for the fourth
+class; the numerical totals come from the Bhāṣya.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Afflicted, maturation-born, remaining, and first uncontaminated
-> [dharmas] arise from the causes left after excluding maturation, the
-> pervasive, those two, and those two plus the homogeneous, respectively.
+> Afflicted, maturation-born, remaining, and first noble [dharmas], in
+> that order, arise from the remaining [causes] after excluding
+> maturation, the pervasive, those two, and those two together with
+> the homogeneous cause.
 
 ### Bhāṣya-informed study translation
 
-> Afflicted, maturation-born, remaining, and first uncontaminated dharmas
-> arise from the causes left after excluding maturation, the pervasive,
-> both, and both plus the homogeneous, respectively.
+> Afflicted, maturation-born, remaining, and first noble dharmas arise,
+> in that order, from the causes left after excluding the maturation
+> cause, the pervasive cause, both, and both plus the homogeneous cause.
 
 ## 6. Philosophical Translation
 
-> Four classes are defined by successive exclusion of causes. The Bhāṣya supplies the resulting counts for consciousness and mental factors and notes that Form and dissociated dharmas also omit the associated cause. No dharma arises from a single cause.
+> The four classes have distinct causal profiles under the six-cause
+> inventory. The first two each have five causes, but omit different
+> causes; the remaining have four, and the first noble, understood here
+> as the first uncontaminated dharmas, have three.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Running word | Determination |
-|---|---|---|
-| kliṣṭa | afflicted | omit maturation |
-| vipākaja | maturation-born | omit pervasive |
-| śeṣa | remaining | omit both |
-| prathama-anāsrava | first uncontaminated | omit both plus homogeneous |
-| eka-hetu-saṃbhūta | arisen from one cause | none |
+| Term | Rendering |
+|---|---|
+| kliṣṭa | Afflicted; maturation cause excluded. |
+| vipākaja | Maturation-born; pervasive cause excluded. |
+| śeṣa | Remaining; both of those causes excluded. |
+| prathamārya | First noble; the Bhāṣya identifies the first uncontaminated dharmas. |
+| yathākramam | In order; maps four classes to four exclusion patterns. |
+| śeṣajāḥ | Arisen from the remaining causes. |
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root SEM states the four exclusion patterns. The counts (five, five, four, three), the additional omission of the associated cause for Form and dissociated dharmas, and the prohibition of single-cause arising are prose elaborations.
+**Kārikā, derived.** The root `SEM` records the four class predicates,
+their ordered exclusion profiles, and arising from remaining causes.
+The resulting counts of five, five, four, and three come from the
+Bhāṣya. This verse does not yet give the separate rule for material and
+mind-dissociated dharmas; that belongs to 2.61.
 
 ```nltk-sem
-afflicted : all x.(Afflicted(x) -> ArisesFromExcluding(x,maturation))
-maturation_born : all x.(MaturationBorn(x) -> ArisesFromExcluding(x,pervasive))
-remaining : all x.(Remaining(x) -> ArisesFromExcluding(x,maturation,pervasive))
-first : all x.(FirstUncontaminated(x) -> ArisesFromExcluding(x,maturation,pervasive,homogeneous))
+classes : Afflicted(afflicted) & MaturationBorn(maturation_born) & Remaining(remaining) & FirstNoble(first_noble)
+exclusions : ExcludesCause(afflicted,maturation) & ExcludesCause(maturation_born,pervasive) & ExcludesCause(remaining,maturation) & ExcludesCause(remaining,pervasive) & ExcludesCause(first_noble,maturation) & ExcludesCause(first_noble,pervasive) & ExcludesCause(first_noble,homogeneous) & BornFromRemainder(afflicted) & BornFromRemainder(maturation_born) & BornFromRemainder(remaining) & BornFromRemainder(first_noble)
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(all x.(Afflicted(x) -> ArisesFromExcluding(x,maturation)) & all x.(MaturationBorn(x) -> ArisesFromExcluding(x,pervasive)) & all x.(Remaining(x) -> ArisesFromExcluding(x,maturation,pervasive)) & all x.(FirstUncontaminated(x) -> ArisesFromExcluding(x,maturation,pervasive,homogeneous)))
+(Afflicted(afflicted) & MaturationBorn(maturation_born) & Remaining(remaining) & FirstNoble(first_noble) & ExcludesCause(afflicted,maturation) & ExcludesCause(maturation_born,pervasive) & ExcludesCause(remaining,maturation) & ExcludesCause(remaining,pervasive) & ExcludesCause(first_noble,maturation) & ExcludesCause(first_noble,pervasive) & ExcludesCause(first_noble,homogeneous) & BornFromRemainder(afflicted) & BornFromRemainder(maturation_born) & BornFromRemainder(remaining) & BornFromRemainder(first_noble))
 
 # THEORY prose_counts
 # EXPECT prose_counts T
-CauseCount(afflicted,five) & CauseCount(maturation_born,five) & CauseCount(remaining,four) & CauseCount(first_uncontaminated,three)
+CauseCount(afflicted,five) & CauseCount(maturation_born,five) & CauseCount(remaining,four) & CauseCount(first_noble,three)
 
-# THEORY prose_form_dissociated
-# EXPECT prose_form_dissociated T
-all x.((Form(x) | Dissociated(x)) -> OmitsAssociated(x))
+# THEORY rejected_same_five_profile
+# EXPECT rejected_same_five_profile F
+ExcludesCause(afflicted,pervasive) & ExcludesCause(maturation_born,pervasive)
 
-# THEORY prose_no_single
-# EXPECT prose_no_single T
--exists x.ArisesFromSingleCause(x)
-
-# THEORY rejected_first_has_homogeneous
-# EXPECT rejected_first_has_homogeneous F
--ArisesFromExcluding(first_uncontaminated,homogeneous)
-
-# THEORY rejected_single_cause
-# EXPECT rejected_single_cause F
-ArisesFromSingleCause(some_dharma)
+# THEORY rejected_first_keeps_homogeneous
+# EXPECT rejected_first_keeps_homogeneous F
+FirstNoble(first_noble) & -ExcludesCause(first_noble,homogeneous)
 ```
 
 ```nltk-valuation
 afflicted => aff_class
 maturation_born => mat_class
 remaining => rem_class
-first_uncontaminated => first_class
+first_noble => first_class
 maturation => maturation_cause
 pervasive => pervasive_cause
 homogeneous => homogeneous_cause
-some_dharma => some_dharma_item
+five => five_count
+four => four_count
+three => three_count
 Afflicted => {aff_class}
 MaturationBorn => {mat_class}
 Remaining => {rem_class}
-FirstUncontaminated => {first_class}
-ArisesFromExcluding => {(aff_class,maturation_cause),(mat_class,pervasive_cause),(rem_class,maturation_cause),(rem_class,pervasive_cause),(first_class,maturation_cause),(first_class,pervasive_cause),(first_class,homogeneous_cause)}
-CauseCount => {(aff_class,five),(mat_class,five),(rem_class,four),(first_class,three)}
-Form => {}
-Dissociated => {}
-OmitsAssociated => {}
-ArisesFromSingleCause => {}
+FirstNoble => {first_class}
+ExcludesCause => {(aff_class,maturation_cause),(mat_class,pervasive_cause),(rem_class,maturation_cause),(rem_class,pervasive_cause),(first_class,maturation_cause),(first_class,pervasive_cause),(first_class,homogeneous_cause)}
+BornFromRemainder => {aff_class,mat_class,rem_class,first_class}
+CauseCount => {(aff_class,five_count),(mat_class,five_count),(rem_class,four_count),(first_class,three_count)}
 ```
 
-The finite model records the four verse exclusion patterns, the prose counts, the additional omission for Form and dissociated dharmas, and the rejection of single-cause arising. It does not decide whether every class must include the conditioning cause.
+The finite valuation is a witness to the ordered exclusions and the
+Bhāṣya’s counts. Removing any required exclusion makes the verse
+formula false. The two five-cause classes remain distinct because
+they exclude different causes.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya counts five causes for the afflicted, five for maturation-born, four for the remaining, and three for the first uncontaminated. These counts concern consciousness and mental factors; Form and dharmas dissociated from consciousness follow likewise but without the associated cause. The remaining class includes indeterminate dharmas apart from maturation-born and wholesome dharmas apart from the first uncontaminated moment. No dharma arises from a single cause.
+**Translation note.** The local Sanskrit witnesses read
+*prathamāryā yathākramam*. The Bhāṣya glosses this fourth class as
+the first uncontaminated dharmas. It defines the remaining class as
+indeterminate dharmas other than maturation-born and wholesome
+dharmas other than the first uncontaminated moment.
 
-The verse defines the four classes by exclusion. The next verse turns to the four conditions.
+The verse’s *yathākramam* makes the mapping between class and
+exclusion decisive. Counting alone would conceal the difference
+between the two five-cause profiles. The next verse takes up the
+mind–mental factor case and the rule for other dharmas.
 
 ## 10. OWL++ Seed
 
@@ -173,6 +186,5 @@ The verse defines the four classes by exclusion. The next verse turns to the fou
 
 vak:VAK_2_60 a vak:Karika ; vak:hasTopic vak:FourClassesByExclusion .
 vak:Afflicted vak:omitsCause vak:Maturation .
-vak:FirstUncontaminated vak:omitsCause vak:Homogeneous .
-vak:NoDharma vak:arisesFromOneCause false .
+vak:FirstNoble vak:omitsCause vak:Homogeneous .
 ```

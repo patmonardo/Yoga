@@ -1,168 +1,212 @@
-# VAK_2.67 — Desire Realm Succession
+# VAK_2.67 — Desire-Realm Succession
 
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
-कामे नव शुभात् तच्च अष्टाभ्यः दशभिर् अकुशलात् /
-तस्मात् चतुर्भिः निवृतं तथा // २.६७ //
+कामे नव शुभाच्चित्ताच्चित्तानि अष्टाभ्य एव तत् /
+दशभ्योऽकुशलं तस्माच्चत्वारि निवृतं तथा // २.६७ //
 ```
 
 ## 2. Sanskrit (IAST)
 
 ```text
-kāme nava śubhāt tac ca aṣṭābhyaḥ daśabhir akuśalāt /
-tasmāt caturbhiḥ nivṛtaṃ tathā // 2.67 //
+kāme nava śubhāc cittāc cittāni aṣṭābhya eva tat /
+daśabhyo 'kuśalaṃ tasmāc catvāri nivṛtaṃ tathā // 2.67 //
 ```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| kāme | locative singular | in the desire realm |
-| nava | nominative plural | nine |
-| śubhāt | ablative singular | from wholesome |
-| tat | neuter nominative singular | that |
-| ca | particle | and |
-| aṣṭābhyaḥ | ablative plural | from eight |
-| daśabhiḥ | instrumental plural | by ten |
-| akuśalāt | ablative singular | from unwholesome |
-| tasmāt | ablative singular | from that |
-| caturbhiḥ | instrumental plural | by four |
-| nivṛtam | neuter nominative singular | obscured |
-| tathā | adverbial | likewise |
+| kāme | loc. sg. | In the desire realm. |
+| nava | numeral | Nine successor consciousnesses. |
+| śubhāt | abl. sg. | From wholesome. |
+| cittāt | abl. sg. | From consciousness. |
+| cittāni | n. nom. pl. | Consciousnesses that arise. |
+| aṣṭābhyaḥ | abl. pl. numeral | From eight predecessor kinds. |
+| eva | particle | Precisely. |
+| tat | n. nom. sg. | That wholesome consciousness. |
+| daśabhyaḥ | abl. pl. numeral | From ten predecessor kinds. |
+| akuśalam | n. nom. sg. | Unwholesome consciousness. |
+| tasmāt | abl. sg. | From it, the unwholesome. |
+| catvāri | n. nom. pl. numeral | Four successor kinds. |
+| nivṛtam | n. nom. sg. | Obscured consciousness. |
+| tathā | adverb | Likewise; repeats the ten/four pattern. |
 
-**Grammar tokens.**
+The [running witness](../../Sources/kosabhasya.txt) and older VAK
+study read *śubhāc cittāc cittāni*, *aṣṭābhya eva tat*, and
+*daśabhyo 'kuśalaṃ tasmāc catvāri*. The former Organon text omitted
+key words and reversed the direction of the unwholesome counts. The
+normalized tokens open external sandhi without altering the witness.
 
 ```text
-# tokens: kāme nava śubhāt tat ca aṣṭābhyaḥ daśabhiḥ akuśalāt tasmāt caturbhiḥ nivṛtam tathā
+# tokens: kāme nava śubhāt cittāt cittāni aṣṭābhyaḥ eva tat daśabhyaḥ akuśalam tasmāt catvāri nivṛtam tathā
 ```
 
 ## 4. Grammar
 
-The first three tokens state that nine follow the wholesome in the desire realm. The next three state that that wholesome follows eight. The next two state that ten follow the unwholesome. The final three state that four follow it and that the obscured is likewise. The grammar derives the four succession claims; the identities of the nine and the eight, the four remotenesses excluding formless wholesome, and the asymmetry of formless obscured are prose.
+Five tokens give nine successors of desire-realm wholesome mind. The
+next three say that this mind arises from eight predecessors. The
+unwholesome arises from ten predecessors; four follow it. *Tathā*
+assigns the same ten-predecessor/four-successor pattern to obscured
+desire-realm mind. The Bhāṣya enumerates the nine and eight and
+explains the exclusions.
 
 ```nltk-fcfg
 % start S
-# tokens: kāme nava śubhāt tat ca aṣṭābhyaḥ daśabhiḥ akuśalāt tasmāt caturbhiḥ nivṛtam tathā
-S[SEM=<(?nine & ?eight & ?ten & ?four)>] -> NINE[SEM=?nine] EIGHT[SEM=?eight] TEN[SEM=?ten] FOUR[SEM=?four]
-NINE[SEM=<all x.(WholesomeDesire(x) -> FollowedByNine(x))>] -> IN_DESIRE[CASE=loc] NINE_NUM[CASE=nom,CNT=9] FROM_WHOL[CASE=abl]
-IN_DESIRE[CASE=loc] -> 'kāme'
-NINE_NUM[CASE=nom,CNT=9] -> 'nava'
-FROM_WHOL[CASE=abl] -> 'śubhāt'
-EIGHT[SEM=<all x.(WholesomeDesire(x) -> FollowsEight(x))>] -> THAT[CASE=nom] AND FROM_EIGHT[CASE=abl,CNT=8]
-THAT[CASE=nom] -> 'tat'
-AND -> 'ca'
-FROM_EIGHT[CASE=abl,CNT=8] -> 'aṣṭābhyaḥ'
-TEN[SEM=<all x.(UnwholesomeDesire(x) -> FollowedByTen(x))>] -> BY_TEN[CASE=ins,CNT=10] FROM_UNWHOL[CASE=abl]
-BY_TEN[CASE=ins,CNT=10] -> 'daśabhiḥ'
-FROM_UNWHOL[CASE=abl] -> 'akuśalāt'
-FOUR[SEM=<all x.((UnwholesomeDesire(x) | ObscuredDesire(x)) -> FollowedByFour(x))>] -> FROM_THAT[CASE=abl] BY_FOUR[CASE=ins,CNT=4] OBSC[CASE=nom] LIKEWISE
-FROM_THAT[CASE=abl] -> 'tasmāt'
-BY_FOUR[CASE=ins,CNT=4] -> 'caturbhiḥ'
-OBSC[CASE=nom] -> 'nivṛtam'
+# tokens: kāme nava śubhāt cittāt cittāni aṣṭābhyaḥ eva tat daśabhyaḥ akuśalam tasmāt catvāri nivṛtam tathā
+S[SEM=<(?nine & ?eight & ?ten & ?four)>] -> NINE[SEM=?nine] EIGHT[SEM=?eight] TEN[SEM=?ten] FOUR_SAME[SEM=?four]
+NINE[SEM=<SuccessorCount(wholesome_desire,nine)>] -> IN_DESIRE[CASE=loc,NUM=sg] NINE_NUM[COUNT=9] FROM_GOOD[CASE=abl,NUM=sg] FROM_MIND[CASE=abl,NUM=sg] MINDS[CASE=nom,NUM=pl]
+IN_DESIRE[CASE=loc,NUM=sg] -> 'kāme'
+NINE_NUM[COUNT=9] -> 'nava'
+FROM_GOOD[CASE=abl,NUM=sg] -> 'śubhāt'
+FROM_MIND[CASE=abl,NUM=sg] -> 'cittāt'
+MINDS[CASE=nom,NUM=pl] -> 'cittāni'
+EIGHT[SEM=<PredecessorCount(wholesome_desire,eight)>] -> FROM_EIGHT[CASE=abl,NUM=pl,COUNT=8] ONLY THAT[CASE=nom,NUM=sg]
+FROM_EIGHT[CASE=abl,NUM=pl,COUNT=8] -> 'aṣṭābhyaḥ'
+ONLY -> 'eva'
+THAT[CASE=nom,NUM=sg] -> 'tat'
+TEN[SEM=<PredecessorCount(unwholesome_desire,ten)>] -> FROM_TEN[CASE=abl,NUM=pl,COUNT=10] BAD[CASE=nom,NUM=sg]
+FROM_TEN[CASE=abl,NUM=pl,COUNT=10] -> 'daśabhyaḥ'
+BAD[CASE=nom,NUM=sg] -> 'akuśalam'
+FOUR_SAME[SEM=<(SuccessorCount(unwholesome_desire,four) & PredecessorCount(obscured_desire,ten) & SuccessorCount(obscured_desire,four))>] -> FROM_THAT[CASE=abl,NUM=sg] FOUR_NUM[CASE=nom,NUM=pl,COUNT=4] OBSC[CASE=nom,NUM=sg] LIKEWISE
+FROM_THAT[CASE=abl,NUM=sg] -> 'tasmāt'
+FOUR_NUM[CASE=nom,NUM=pl,COUNT=4] -> 'catvāri'
+OBSC[CASE=nom,NUM=sg] -> 'nivṛtam'
 LIKEWISE -> 'tathā'
 ```
 
 ```nltk-dep
-'nava' -> 'kāme' | 'śubhāt'
-'tat' -> 'aṣṭābhyaḥ'
-'dāśabhiḥ' -> 'akuśalāt'
-'nivṛtam' -> 'tasmāt' | 'caturbhiḥ' | 'tathā'
+'cittāni' -> 'kāme' | 'nava' | 'śubhāt' | 'cittāt'
+'tat' -> 'aṣṭābhyaḥ' | 'eva'
+'akuśalam' -> 'daśabhyaḥ'
+'nivṛtam' -> 'tasmāt' | 'catvāri' | 'tathā'
 ```
 
-**Feature chart checkpoints.** The nine-successors span [0, 3); the eight-predecessors [3, 6); the ten-successors [6, 8); the four-successors and likewise [8, 12); the root spans [0, 12). Number features constrain the claims. No identity of the successors or remoteness exclusion is generated by the verse.
+**Feature chart checkpoints.** The nine-successor phrase spans [0,
+5), eight-predecessor phrase [5, 8), ten-predecessor phrase [8, 10),
+and four-successor/likewise phrase [10, 14). The root spans [0, 14).
+Ablative and numeral features keep predecessor and successor counts
+separate.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> In the desire realm, nine follow the wholesome; that wholesome follows
-> eight. Ten follow the unwholesome; four follow it. The obscured follows
-> and is followed likewise.
+> In the desire realm, nine consciousnesses arise after wholesome
+> consciousness; that [wholesome mind] arises from eight. The
+> unwholesome arises from ten; from it, four [arise]. The obscured is
+> likewise.
 
 ### Bhāṣya-informed study translation
 
-> In the desire realm, nine consciousnesses follow the wholesome, which
-> follows eight. Ten follow the unwholesome, which is followed by four;
-> the obscured likewise follows ten and is followed by four.
+> In the desire realm, nine kinds of consciousness follow wholesome
+> mind, which itself follows eight. Unwholesome mind follows ten and
+> is followed by four; obscured mind likewise follows ten and is
+> followed by four.
 
 ## 6. Philosophical Translation
 
-> The verse states the succession constraints for the desire-realm kinds. The Bhāṣya enumerates the nine and the eight, notes the asymmetry of formless obscured, and excludes formless wholesome by four remotenesses.
+> Succession is directional: wholesome desire-realm mind has nine
+> possible successors and eight predecessors; unwholesome and obscured
+> mind each have ten predecessors and four successors. The Bhāṣya
+> supplies the kinds behind the first two counts and the conditions
+> under which higher-realm kinds can precede desire-realm mind.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Running word | Determination |
-|---|---|---|
-| śubha | wholesome | followed by nine, follows eight |
-| akuśala | unwholesome | followed by four, follows ten |
-| nivṛta | obscured | likewise follows ten, followed by four |
-| dūratā | remoteness | four kinds exclude formless wholesome |
+| Term | Rendering |
+|---|---|
+| śubha | Wholesome desire-realm mind; nine successors, eight predecessors. |
+| akuśala | Unwholesome desire-realm mind; ten predecessors, four successors. |
+| nivṛta | Obscured desire-realm mind; the same ten/four pattern. |
+| aṣṭābhyaḥ / daśabhyaḥ | From eight / from ten; both mark predecessors. |
+| tasmāt | From it; marks successors of the unwholesome. |
+| dūratā | Remoteness; four kinds exclude formless wholesome in the Bhāṣya. |
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root SEM states the four succession claims. The identities of the nine and the eight, the four remotenesses, and the asymmetry of formless obscured are prose elaborations.
+**Kārikā, derived.** The root `SEM` keeps successor and predecessor
+counts distinct for each kind. The Bhāṣya enumerates the nine and
+eight, explains the four remotenesses, and details rebirth and
+attainment contexts.
 
 ```nltk-sem
-nine : all x.(WholesomeDesire(x) -> FollowedByNine(x))
-eight : all x.(WholesomeDesire(x) -> FollowsEight(x))
-ten : all x.(UnwholesomeDesire(x) -> FollowedByTen(x))
-four : all x.((UnwholesomeDesire(x) | ObscuredDesire(x)) -> FollowedByFour(x))
+nine : SuccessorCount(wholesome_desire,nine)
+eight : PredecessorCount(wholesome_desire,eight)
+ten : PredecessorCount(unwholesome_desire,ten)
+four_same : SuccessorCount(unwholesome_desire,four) & PredecessorCount(obscured_desire,ten) & SuccessorCount(obscured_desire,four)
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(all x.(WholesomeDesire(x) -> FollowedByNine(x)) & all x.(WholesomeDesire(x) -> FollowsEight(x)) & all x.(UnwholesomeDesire(x) -> FollowedByTen(x)) & all x.((UnwholesomeDesire(x) | ObscuredDesire(x)) -> FollowedByFour(x)))
+(SuccessorCount(wholesome_desire,nine) & PredecessorCount(wholesome_desire,eight) & PredecessorCount(unwholesome_desire,ten) & SuccessorCount(unwholesome_desire,four) & PredecessorCount(obscured_desire,ten) & SuccessorCount(obscured_desire,four))
 
-# THEORY prose_identities
-# EXPECT prose_identities T
-Includes(nine_successors,own_four) & Includes(nine_successors,form_wholesome) & Includes(nine_successors,form_obscured) & Includes(nine_successors,formless_obscured) & Includes(nine_successors,trainee) & Includes(nine_successors,beyond)
-Includes(eight_predecessors,own_four) & Includes(eight_predecessors,form_wholesome) & Includes(eight_predecessors,form_obscured) & Includes(eight_predecessors,trainee) & Includes(eight_predecessors,beyond)
+# THEORY prose_nine_successors
+# EXPECT prose_nine_successors T
+Includes(nine_successors,own_four) & Includes(nine_successors,form_wholesome) & Includes(nine_successors,form_obscured) & Includes(nine_successors,formless_obscured) & Includes(nine_successors,trainee) & Includes(nine_successors,beyond_training)
+
+# THEORY prose_eight_predecessors
+# EXPECT prose_eight_predecessors T
+Includes(eight_predecessors,own_four) & Includes(eight_predecessors,form_wholesome) & Includes(eight_predecessors,form_obscured) & Includes(eight_predecessors,trainee) & Includes(eight_predecessors,beyond_training)
 
 # THEORY prose_remoteness
 # EXPECT prose_remoteness T
-Excludes(formless_wholesome,four_remotenesses)
+Excludes(formless_wholesome,four_remotenesses) & Includes(nine_successors,formless_obscured)
 
-# THEORY prose_asymmetry
-# EXPECT prose_asymmetry T
-Asymmetry(formless_obscured)
+# THEORY rejected_unwholesome_ten_successors
+# EXPECT rejected_unwholesome_ten_successors F
+PredecessorCount(unwholesome_desire,ten) & SuccessorCount(unwholesome_desire,ten)
 
-# THEORY rejected_formless_wholesome_follows
-# EXPECT rejected_formless_wholesome_follows F
-Includes(nine_successors,formless_wholesome)
+# THEORY rejected_formless_wholesome_successor
+# EXPECT rejected_formless_wholesome_successor F
+Includes(nine_successors,own_four) & Includes(nine_successors,formless_wholesome)
 ```
 
 ```nltk-valuation
-nine_successors => nine
-eight_predecessors => eight
-own_four => own4
-form_wholesome => form_whol
-form_obscured => form_obsc
-formless_obscured => formless_obsc
-formless_wholesome => formless_whol
+wholesome_desire => good_desire
+unwholesome_desire => bad_desire
+obscured_desire => obscured_desire_kind
+nine => nine_count
+eight => eight_count
+ten => ten_count
+four => four_count
+nine_successors => nine_group
+eight_predecessors => eight_group
+own_four => own_four_group
+form_wholesome => form_good
+form_obscured => form_obscured
+formless_obscured => formless_obscured_kind
+formless_wholesome => formless_good
 trainee => trainee_kind
-beyond => beyond_kind
-four_remotenesses => four_rem
-WholesomeDesire => {whol_des}
-UnwholesomeDesire => {unwhol_des}
-ObscuredDesire => {obsc_des}
-FollowedByNine => {whol_des}
-FollowsEight => {whol_des}
-FollowedByTen => {unwhol_des}
-FollowedByFour => {unwhol_des,obsc_des}
-Includes => {(nine,own4),(nine,form_whol),(nine,form_obsc),(nine,formless_obsc),(nine,trainee_kind),(nine,beyond_kind),(eight,own4),(eight,form_whol),(eight,form_obsc),(eight,trainee_kind),(eight,beyond_kind)}
-Excludes => {(formless_whol,four_rem)}
-Asymmetry => {formless_obsc}
+beyond_training => beyond_kind
+four_remotenesses => four_remotenesses_group
+SuccessorCount => {(good_desire,nine_count),(bad_desire,four_count),(obscured_desire_kind,four_count)}
+PredecessorCount => {(good_desire,eight_count),(bad_desire,ten_count),(obscured_desire_kind,ten_count)}
+Includes => {(nine_group,own_four_group),(nine_group,form_good),(nine_group,form_obscured),(nine_group,formless_obscured_kind),(nine_group,trainee_kind),(nine_group,beyond_kind),(eight_group,own_four_group),(eight_group,form_good),(eight_group,form_obscured),(eight_group,trainee_kind),(eight_group,beyond_kind)}
+Excludes => {(formless_good,four_remotenesses_group)}
 ```
 
-The finite model records the four verse succession claims, the prose identities of the nine and the eight, the remoteness exclusion, and the asymmetry of formless obscured. It does not decide every edge case of rebirth-linking.
+The finite valuation witnesses the six directional counts. Removing
+any one count falsifies the verse. The prose group memberships are
+compressed descriptions of enumerated kinds; *own_four* stands for
+four kinds, not one additional kind.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya enumerates the nine successors of wholesome desire-consciousness: its four own-level kinds, Form wholesome at attainment-entry, Form obscured at rebirth-linking, formless obscured at rebirth-linking, trainee, and beyond-training. It excludes formless wholesome by four remotenesses—support, aspect, object, and counteragent. The eight predecessors of wholesome are its four own-level kinds, Form wholesome at emergence, Form obscured when one pressured by afflicted attainment resorts to a wholesome supporting level, trainee, and beyond-training at emergence. Ten follow unwholesome, excluding the two uncontaminated kinds, by rebirth-linking after every Form and formless kind; four of its own level follow it. Obscured likewise follows ten and is followed by four.
+**Translation note.** The Bhāṣya enumerates the nine successors of
+wholesome desire-realm mind: four of its own level, Form wholesome at
+attainment-entry, Form obscured and formless obscured at rebirth,
+and the trainee and beyond-training kinds. Formless wholesome is
+excluded by remoteness of support, aspect, object, and counteragent.
+The eight predecessors are four of the same level, Form wholesome and
+obscured, and the two uncontaminated kinds.
 
-The verse states the desire-realm succession constraints. The next verses continue with Form and formless.
+Unwholesome and obscured desire-realm mind can each arise after ten
+contaminated kinds, including higher-realm kinds in rebirth contexts;
+only four of their own level can immediately follow either one. The
+verse states these counts; the Bhāṣya supplies their circumstances.
 
 ## 10. OWL++ Seed
 
@@ -170,6 +214,7 @@ The verse states the desire-realm succession constraints. The next verses contin
 @prefix vak: <http://127.0.0.1:3000/vak#> .
 
 vak:VAK_2_67 a vak:Karika ; vak:hasTopic vak:DesireRealmSuccession .
-vak:DesireWholesome vak:followedBy 9 ; vak:follows 8 .
-vak:FormlessWholesome vak:excludedBy vak:FourRemotenesses .
+vak:DesireWholesome vak:successorCount 9 ; vak:predecessorCount 8 .
+vak:DesireUnwholesome vak:predecessorCount 10 ; vak:successorCount 4 .
+vak:DesireObscured vak:predecessorCount 10 ; vak:successorCount 4 .
 ```

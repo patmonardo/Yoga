@@ -1,33 +1,67 @@
-# VAK_2.67 Bhāṣya — Desire Realm Succession
+# VAK_2.67 Bhāṣya — Desire-Realm Succession
 
 ## 1. Kārikā Anchor
 
-> kāme nava śubhāt tac ca aṣṭābhyaḥ daśabhir akuśalāt /
+> kāme nava śubhāc cittāc cittāni aṣṭābhya eva tat /
 >
-> tasmāt caturbhiḥ nivṛtaṃ tathā // 2.67 //
+> daśabhyo 'kuśalaṃ tasmāc catvāri nivṛtaṃ tathā // 2.67 //
 
-> In the desire realm, nine consciousnesses follow the wholesome, which
-> follows eight. Ten follow the unwholesome, which is followed by four;
-> the obscured likewise follows ten and is followed by four.
+> In the desire realm, nine kinds of consciousness follow wholesome
+> mind, which itself follows eight. Unwholesome mind follows ten and
+> is followed by four; obscured mind likewise follows ten and is
+> followed by four.
 
-## 2. Continuous Sanskrit Witness
+## 2. Sanskrit Witness — Selected Passages
 
-> kāme nava śubhāt /
-> tac ca aṣṭābhyaḥ /
-> daśabhir akuśalāt /
-> tasmāt caturbhiḥ /
+> kāme nava śubhāccittāccittāni /
+> kāmadhātau yatkuśalaṃ cittaṃ tasmādanantaraṃ nava cittānyutpadyante /
+> svabhūmikāni catvāri /
+> samāpattikāle kuśalaṃ pratisandhikāle nivṛtam /
+> ārūpyāvacaraṃ nivṛtameva pratisandhikāle /
+> ārūpyā hi kāmadhātoścatasṛbhirdūratābhirdūre /
+> āśrayākārālambanapratipakṣadūratābhiḥ /
+> aṣṭābhya eva tat /
+> tatra punaḥ kāmāvacaraṃ kuśalaṃ cittamaṣṭābhyaḥ samanantaramutpadyate /
+> daśabhyo 'kuśalaṃ /
+> śaikṣāśaikṣe hitvā kāmadhātau hi pratisandhimukhataḥ sarvebhyo rūpārūpyacittebhyaḥ samanantaramakuśalaṃ cittamutpadyate /
+> tasmāccatvāri /
+> akuśalāccittāt samanantaraṃ cittānyutpadyante svabhūmikānyeva /
 > nivṛtaṃ tathā // 2.67 //
+> daśabhya eva samanantaram /
+> tasmācca punaścatvāryeva /
 
-The unit is printed 103.26–104.15 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+These selected passages follow 103.19–104.08 in
+[the running witness](../../Sources/kosabhasya.txt). The verse is
+interleaved with explanations of attainment and rebirth. This is not
+a collation.
 
-## 3. Continuous Conventional Translation
+## 3. Conventional Argument Summary
 
-Immediately after, to be stated later. Nine after wholesome Desire Realm mind. Four of its own level. Two of the form realm: wholesome at entry into attainment, obscured at rebirth-linking. Formless, obscured only, at rebirth-linking. Not wholesome. Too remote. Four remotenesses: support, aspect, object, counteragent. Trainee and beyond-training. That wholesome mind follows eight. Four of its own level. Form wholesome, at emergence. Form obscured, when one pressed by an afflicted attainment resorts to the wholesome supporting level. Trainee and beyond-training, at emergence. Unwholesome follows ten, excluding trainee and beyond-training. By rebirth-linking, after all form and formless minds. Four follow it, its own level only. Obscured likewise: after ten, and four after it.
+After wholesome desire-realm mind, nine kinds may arise: four of its
+own level, Form wholesome at entry into an attainment, Form obscured
+and formless obscured at rebirth-linking, and the trainee and
+beyond-training kinds. Formless wholesome is excluded as too remote
+in support, aspect, object, and counteragent. The same wholesome
+mind can itself arise after eight kinds: four of its own level, Form
+wholesome and obscured, and the two uncontaminated kinds.
+
+Unwholesome desire-realm mind arises after ten kinds, excluding the
+two uncontaminated kinds. At rebirth-linking it can follow higher-realm
+minds. Four kinds, all of its own level, can follow it. Obscured
+desire-realm mind has the same ten-predecessor and four-successor
+pattern. The counts are directional; the later four are not the
+earlier ten.
 
 ## 4. Interpretation
 
-Desire wholesome followed by nine, follows eight. Asymmetry is formless obscured. Formless wholesome excluded by four remotenesses. Unwholesome and obscured follow ten, followed by four.
+The Sanskrit ablatives *aṣṭābhyaḥ* and *daśabhyaḥ* mark predecessor
+counts, while *tasmāt* marks the successor count from unwholesome
+mind. *Tathā* carries that ten/four pattern to obscured mind. The
+Bhāṣya's attainment and rebirth conditions explain the listed edges;
+they do not reverse the verse's directions.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Four remotenesses exclude formless wholesome.
+The full verse wording, directional counts, and the four remotenesses
+have been checked against the running witness. The selected passages
+support the succession claims without reproducing the full prose.

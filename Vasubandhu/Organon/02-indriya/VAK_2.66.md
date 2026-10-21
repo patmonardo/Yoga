@@ -1,167 +1,186 @@
-# VAK_2.66 — Twelve Kinds of consciousness
+# VAK_2.66 — Twelve Kinds of Consciousness
 
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
-कामेऽकुशलं चित्तं निवृतानिवृतं च /
-रूपारूप्येष्वकुशलात् ऋते अनास्रवं द्विधा // २.६६ //
+कुशलाकुशलं कामे निवृतानिवृतं मनः /
+रूपारूप्येष्वकुशलादन्यत्र अनास्रवं द्विधा // २.६६ //
 ```
 
 ## 2. Sanskrit (IAST)
 
 ```text
-kāme 'kuśalaṃ cittaṃ nivṛtānivṛtaṃ ca /
-rūpārūpyeṣv akuśalād ṛte anāsravaṃ dvidhā // 2.66 //
+kuśalākuśalaṃ kāme nivṛtānivṛtaṃ manaḥ /
+rūpārūpyeṣv akuśalād anyatra anāsravaṃ dvidhā // 2.66 //
 ```
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| kāme | locative singular | in the desire realm |
-| akuśalam | neuter nominative singular | unwholesome |
-| cittam | neuter nominative singular | consciousness |
-| nivṛtam | neuter nominative singular | obscured |
-| anivṛtam | neuter nominative singular | unobscured |
-| ca | particle | and |
-| rūpārūpyeṣu | locative plural | in Form and formless |
-| akuśalāt | ablative singular | from unwholesome |
-| ṛte | particle | except |
-| anāsravam | neuter nominative singular | uncontaminated |
-| dvidhā | adverbial | twofold |
+| kuśalākuśalam | n. nom. sg. compound | Wholesome and unwholesome kinds. |
+| kāme | loc. sg. | In the desire realm. |
+| nivṛtānivṛtam | n. nom. sg. compound | Obscured and unobscured kinds. |
+| manaḥ | n. nom. sg. | Mind or consciousness. |
+| rūpārūpyeṣu | loc. pl. | In the Form and formless realms. |
+| akuśalāt | abl. sg. | Apart from the unwholesome kind. |
+| anyatra | indeclinable | Except. |
+| anāsravam | n. nom. sg. | Uncontaminated consciousness. |
+| dvidhā | numeral adverb | Twofold. |
 
-**Grammar tokens.** Sandhi opened in *kāme 'kuśalam*.
+The [running witness](../../Sources/kosabhasya.txt) reads
+*kuśalākuśalaṃ kāme* and *akuśalādanyatra*. The former Organon
+verse omitted *kuśala* and replaced *anyatra* with *ṛte*. The
+normalized tokens open the sandhi before *anyatra*.
 
 ```text
-# tokens: kāme akuśalam cittam nivṛtam anivṛtam ca rūpārūpyeṣu akuśalāt ṛte anāsravam dvidhā
+# tokens: kuśalākuśalam kāme nivṛtānivṛtam manaḥ rūpārūpyeṣu akuśalāt anyatra anāsravam dvidhā
 ```
 
 ## 4. Grammar
 
-The first six tokens state that in the desire realm consciousness is unwholesome, obscured, and unobscured (implying the fourfold count with wholesome). The next three tokens state that in Form and formless realms it is the same except for unwholesome. The final two tokens state that uncontaminated consciousness is twofold. The grammar derives the three range claims; the explicit fourfold/threefold counts, the trainee/beyond-training identity of the uncontaminated pair, and the note that succession is not yet are prose.
+The first four tokens give four kinds of desire-realm mind: wholesome,
+unwholesome, obscured, and unobscured. The next three carry the kinds
+to Form and formless realms except the unwholesome. The final two say
+that uncontaminated mind is twofold. The Bhāṣya names the two
+uncontaminated kinds and makes the resulting twelve-count explicit.
 
 ```nltk-fcfg
 % start S
-# tokens: kāme akuśalam cittam nivṛtam anivṛtam ca rūpārūpyeṣu akuśalāt ṛte anāsravam dvidhā
-S[SEM=<(?desire & ?form_formless & ?uncont)>] -> DESIRE[SEM=?desire] FORM_FORMLESS[SEM=?form_formless] UNCONT[SEM=?uncont]
-DESIRE[SEM=<all x.(InDesire(x) -> (Unwholesome(x) | Obscured(x) | Unobscured(x)))>] -> IN_DESIRE[CASE=loc] UNWHOL[CASE=nom] CITTA[CASE=nom] OBSC[CASE=nom] UNOBSC[CASE=nom] AND
-IN_DESIRE[CASE=loc] -> 'kāme'
-UNWHOL[CASE=nom] -> 'akuśalam'
-CITTA[CASE=nom] -> 'cittam'
-OBSC[CASE=nom] -> 'nivṛtam'
-UNOBSC[CASE=nom] -> 'anivṛtam'
-AND -> 'ca'
-FORM_FORMLESS[SEM=<all x.((InForm(x) | InFormless(x)) -> (Obscured(x) | Unobscured(x) & -Unwholesome(x)))>] -> IN_FORM_FORMLESS[CASE=loc,NUM=pl] FROM_UNWHOL[CASE=abl] EXCEPT
-IN_FORM_FORMLESS[CASE=loc,NUM=pl] -> 'rūpārūpyeṣu'
-FROM_UNWHOL[CASE=abl] -> 'akuśalāt'
-EXCEPT -> 'ṛte'
-UNCONT[SEM=<all x.(Uncontaminated(x) -> Twofold(x))>] -> UNCONT_HEAD[CASE=nom] TWOFOLD[FORCE=adv]
-UNCONT_HEAD[CASE=nom] -> 'anāsravam'
-TWOFOLD[FORCE=adv] -> 'dvidhā'
+# tokens: kuśalākuśalam kāme nivṛtānivṛtam manaḥ rūpārūpyeṣu akuśalāt anyatra anāsravam dvidhā
+S[SEM=<(?desire & ?higher & ?uncont)>] -> DESIRE[SEM=?desire] HIGHER[SEM=?higher] UNCONT[SEM=?uncont]
+DESIRE[SEM=<(KindInRealm(wholesome,desire) & KindInRealm(unwholesome,desire) & KindInRealm(obscured,desire) & KindInRealm(unobscured,desire))>] -> GOOD_BAD[CASE=nom,NUM=sg] IN_DESIRE[CASE=loc,NUM=sg] OBSC_UNOBSC[CASE=nom,NUM=sg] MIND[CASE=nom,NUM=sg]
+GOOD_BAD[CASE=nom,NUM=sg] -> 'kuśalākuśalam'
+IN_DESIRE[CASE=loc,NUM=sg] -> 'kāme'
+OBSC_UNOBSC[CASE=nom,NUM=sg] -> 'nivṛtānivṛtam'
+MIND[CASE=nom,NUM=sg] -> 'manaḥ'
+HIGHER[SEM=<(KindInRealm(wholesome,form) & KindInRealm(obscured,form) & KindInRealm(unobscured,form) & -KindInRealm(unwholesome,form) & KindInRealm(wholesome,formless) & KindInRealm(obscured,formless) & KindInRealm(unobscured,formless) & -KindInRealm(unwholesome,formless))>] -> IN_HIGHER[CASE=loc,NUM=pl] FROM_BAD[CASE=abl,NUM=sg] EXCEPT
+IN_HIGHER[CASE=loc,NUM=pl] -> 'rūpārūpyeṣu'
+FROM_BAD[CASE=abl,NUM=sg] -> 'akuśalāt'
+EXCEPT -> 'anyatra'
+UNCONT[SEM=<TwofoldUncontaminated(uncontaminated)>] -> UNCONT_MIND[CASE=nom,NUM=sg] TWO[COUNT=2]
+UNCONT_MIND[CASE=nom,NUM=sg] -> 'anāsravam'
+TWO[COUNT=2] -> 'dvidhā'
 ```
 
 ```nltk-dep
-'cittam' -> 'kāme' | 'akuśalam' | 'nivṛtam' | 'anivṛtam'
-'rūpārūpyeṣu' -> 'akuśalāt' | 'ṛte'
+'manaḥ' -> 'kuśalākuśalam' | 'kāme' | 'nivṛtānivṛtam'
+'rūpārūpyeṣu' -> 'akuśalāt' | 'anyatra'
 'anāsravam' -> 'dvidhā'
 ```
 
-**Feature chart checkpoints.** Desire spans [0, 6); Form/formless [6, 9); uncontaminated [9, 11); the root spans [0, 11). The locative and ablative features constrain the ranges. No explicit count or trainee identity is generated by the verse.
+**Feature chart checkpoints.** Desire spans [0, 4), Form and
+formless [4, 7), uncontaminated [7, 9), and the root [0, 9). The
+locative and ablative features constrain realm scope. The higher
+realm exception applies to both Form and formless realms.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> In the desire realm, consciousness is unwholesome, obscured, and
-> unobscured; in Form and formless realms, [it is so] except for
-> unwholesome. Uncontaminated consciousness is twofold.
+> In the desire realm, mind is wholesome and unwholesome, obscured and
+> unobscured. In the Form and formless realms, [it has these kinds]
+> except the unwholesome. Uncontaminated mind is twofold.
 
 ### Bhāṣya-informed study translation
 
-> Consciousness is fourfold in the desire realm: wholesome, unwholesome,
+> Mind is fourfold in the desire realm: wholesome, unwholesome,
 > obscured-indeterminate, and unobscured-indeterminate. In Form and
-> formless realms it is threefold, without the unwholesome; uncontaminated
-> consciousness is twofold.
+> formless realms it has the other three kinds, without the
+> unwholesome. Uncontaminated mind is twofold.
 
 ## 6. Philosophical Translation
 
-> The verse introduces the twelve kinds of consciousness by realm and by contamination. The Bhāṣya supplies the fourfold count in desire, the threefold counts in Form and formless, and the trainee/beyond-training identity of the uncontaminated pair.
+> The verse sets out the inventory needed to ask which kind of mind
+> can follow which. The Bhāṣya counts four desire-realm kinds, three
+> in Form, three in formless, and two uncontaminated kinds: trainee
+> and beyond-training.
 
 ## 7. Technical Vocabulary
 
-| Sanskrit | Running word | Determination |
-|---|---|---|
-| kuśala | wholesome | one of the four in desire |
-| akuśala | unwholesome | present in desire, absent in Form and formless |
-| nivṛta | obscured | indeterminate kind |
-| anivṛta | unobscured | indeterminate kind |
-| anāsrava | uncontaminated | twofold: trainee and beyond-training |
+| Term | Rendering |
+|---|---|
+| kuśala | Wholesome; present in all three realm inventories. |
+| akuśala | Unwholesome; present only in the desire realm. |
+| nivṛta | Obscured; specified as indeterminate in the Bhāṣya. |
+| anivṛta | Unobscured; specified as indeterminate in the Bhāṣya. |
+| anāsrava | Uncontaminated; trainee and beyond-training in the Bhāṣya. |
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root SEM states the three range claims. The explicit counts (four, three, three, two), the trainee/beyond-training identity, and the note that succession is not yet are prose elaborations.
+**Kārikā, derived.** The root `SEM` assigns four kinds to desire,
+three to each higher realm with explicit unwholesome exclusions, and
+a twofold uncontaminated class. The twelve-count and the identities
+of the final two kinds are Bhāṣya determinations. A succession rule
+has not yet been stated; this observation stays in prose.
 
 ```nltk-sem
-desire : all x.(InDesire(x) -> (Unwholesome(x) | Obscured(x) | Unobscured(x)))
-form_formless : all x.((InForm(x) | InFormless(x)) -> (Obscured(x) | Unobscured(x) & -Unwholesome(x)))
-uncont : all x.(Uncontaminated(x) -> Twofold(x))
+desire : KindInRealm(wholesome,desire) & KindInRealm(unwholesome,desire) & KindInRealm(obscured,desire) & KindInRealm(unobscured,desire)
+higher : KindInRealm(wholesome,form) & KindInRealm(obscured,form) & KindInRealm(unobscured,form) & -KindInRealm(unwholesome,form) & KindInRealm(wholesome,formless) & KindInRealm(obscured,formless) & KindInRealm(unobscured,formless) & -KindInRealm(unwholesome,formless)
+uncontaminated : TwofoldUncontaminated(uncontaminated)
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(all x.(InDesire(x) -> (Unwholesome(x) | Obscured(x) | Unobscured(x))) & all x.((InForm(x) | InFormless(x)) -> (Obscured(x) | Unobscured(x) & -Unwholesome(x))) & all x.(Uncontaminated(x) -> Twofold(x)))
+(KindInRealm(wholesome,desire) & KindInRealm(unwholesome,desire) & KindInRealm(obscured,desire) & KindInRealm(unobscured,desire) & KindInRealm(wholesome,form) & KindInRealm(obscured,form) & KindInRealm(unobscured,form) & -KindInRealm(unwholesome,form) & KindInRealm(wholesome,formless) & KindInRealm(obscured,formless) & KindInRealm(unobscured,formless) & -KindInRealm(unwholesome,formless) & TwofoldUncontaminated(uncontaminated))
 
 # THEORY prose_counts
 # EXPECT prose_counts T
 KindCount(desire,four) & KindCount(form,three) & KindCount(formless,three) & KindCount(uncontaminated,two)
 
-# THEORY prose_identities
-# EXPECT prose_identities T
+# THEORY prose_uncontaminated_pair
+# EXPECT prose_uncontaminated_pair T
 Includes(uncontaminated,trainee) & Includes(uncontaminated,beyond_training)
 
-# THEORY prose_succession_not_yet
-# EXPECT prose_succession_not_yet T
--SuccessionStated(verse_2_66)
+# THEORY rejected_wholesome_absent_in_desire
+# EXPECT rejected_wholesome_absent_in_desire F
+KindInRealm(unwholesome,desire) & -KindInRealm(wholesome,desire)
 
 # THEORY rejected_unwholesome_in_form
 # EXPECT rejected_unwholesome_in_form F
-InForm(some_citta) & Unwholesome(some_citta)
+KindInRealm(wholesome,form) & KindInRealm(unwholesome,form)
 
-# THEORY rejected_uncontaminated_not_twofold
-# EXPECT rejected_uncontaminated_not_twofold F
-Uncontaminated(some_citta) & -Twofold(some_citta)
+# THEORY rejected_unwholesome_in_formless
+# EXPECT rejected_unwholesome_in_formless F
+KindInRealm(wholesome,formless) & KindInRealm(unwholesome,formless)
 ```
 
 ```nltk-valuation
+wholesome => good_kind
+unwholesome => bad_kind
+obscured => obscured_kind
+unobscured => unobscured_kind
 desire => desire_realm
 form => form_realm
 formless => formless_realm
-uncontaminated => uncont_realm
+uncontaminated => uncontaminated_class
 trainee => trainee_kind
 beyond_training => beyond_kind
-some_citta => some_citta_item
-verse_2_66 => verse_item
-InDesire => {desire_realm}
-InForm => {form_realm}
-InFormless => {formless_realm}
-Uncontaminated => {uncont_realm}
-Unwholesome => {}
-Obscured => {desire_realm,form_realm,formless_realm}
-Unobscured => {desire_realm,form_realm,formless_realm}
-Twofold => {uncont_realm}
-KindCount => {(desire_realm,four),(form_realm,three),(formless_realm,three),(uncont_realm,two)}
-Includes => {(uncont_realm,trainee_kind),(uncont_realm,beyond_kind)}
-SuccessionStated => {}
+four => four_count
+three => three_count
+two => two_count
+KindInRealm => {(good_kind,desire_realm),(bad_kind,desire_realm),(obscured_kind,desire_realm),(unobscured_kind,desire_realm),(good_kind,form_realm),(obscured_kind,form_realm),(unobscured_kind,form_realm),(good_kind,formless_realm),(obscured_kind,formless_realm),(unobscured_kind,formless_realm)}
+TwofoldUncontaminated => {uncontaminated_class}
+KindCount => {(desire_realm,four_count),(form_realm,three_count),(formless_realm,three_count),(uncontaminated_class,two_count)}
+Includes => {(uncontaminated_class,trainee_kind),(uncontaminated_class,beyond_kind)}
 ```
 
-The finite model records the three verse range claims, the prose counts and identities, and the note that succession is not yet stated. It does not decide the full succession table that begins in the following verses.
+The finite valuation witnesses all ten realm-bound kinds and the
+twofold uncontaminated class. Removing any positive membership or
+adding an unwholesome higher-realm membership makes the verse
+formula false.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya supplies twelve kinds in all: four in desire, three in Form, three in formless, and two uncontaminated. The ten contaminated kinds are the first ten; the uncontaminated kinds are trainee and beyond-training. The verse begins the transition from the general immediately-antecedent condition to the specific succession of consciousnesses.
+**Translation note.** The Bhāṣya makes twelve kinds in all: four in
+desire, three in Form, three in formless, and two uncontaminated.
+The ten realm-bound kinds are contaminated; the two uncontaminated
+kinds are trainee and beyond-training. The exclusion of the
+unwholesome applies to both higher realms.
 
-The verse introduces the twelve kinds. The next verses state the succession constraints.
+The verse supplies the inventory for the ensuing account of mental
+succession. It does not yet say which kind can follow which.
 
 ## 10. OWL++ Seed
 
@@ -170,5 +189,7 @@ The verse introduces the twelve kinds. The next verses state the succession cons
 
 vak:VAK_2_66 a vak:Karika ; vak:hasTopic vak:TwelveKindsOfConsciousness .
 vak:DesireConsciousness vak:kinds 4 .
+vak:FormConsciousness vak:kinds 3 .
+vak:FormlessConsciousness vak:kinds 3 .
 vak:UncontaminatedConsciousness vak:kinds 2 .
 ```

@@ -1,32 +1,65 @@
-# VAK_2.68 Bhāṣya — Unobscured and Form Wholesome
+# VAK_2.68 Bhāṣya — Desire Unobscured and Form Wholesome
 
 ## 1. Kārikā Anchor
 
-> anivṛtaṃ pañcabhyaḥ tadanantaraṃ sapta cittāni /
+> pañcabhyo 'nivṛtaṃ tasmāt sapta cittāny anantaram /
 >
 > rūpe daśaikaṃ ca śubhāt navabhyas tadanantaram // 2.68 //
 
-> Desire Realm unobscured-indeterminate follows five, and seven follow it.
-> In the Form realm, eleven follow wholesome consciousness, which itself
-> follows nine.
+> Desire-realm unobscured-indeterminate mind follows five kinds, and
+> seven follow it. In the Form realm, eleven kinds follow wholesome
+> mind, which itself follows nine.
 
-## 2. Continuous Sanskrit Witness
+## 2. Sanskrit Witness — Selected Passages
 
-> anivṛtaṃ pañcabhyaḥ /
-> tadanantaraṃ sapta cittāni /
+> pañcabhyo 'nivṛtaṃ /
+> kāma iti varttate /
+> anivṛtāvyākṛtaṃ cittaṃ pañcabhyaḥ samanantaramutpadyate /
+> svabhūmikebhya ścaturbhyo rūpāvacarācca kuśalānnirmāṇacittam /
+> tasmātsapta cittānyanantaram /
+> anivṛtāvyākṛṭātkāmāvacarātsvabhūmikāni catvāri /
+> rūpāvacare dve /
+> kuśalaṃ nirmāṇacittādanantaram /
+> kliṣṭam pratisandhikāle /
+> ārūpyāvacaraṃ ca kliṣṭam pratisandhikāla eva /
 > rūpe daśaikaṃ ca śubhāt /
-> navabhyas tadanantaram // 2.68 //
+> rūpe dhātau yatkukśalaṃ cittaṃ tasmādanantaramekādaśa cittānyutpadyante /
+> ārupyāvacaramanivṛtāvyākṛtaṃ varjayitvā /
+> navabhyastadanantaram // 2.68 //
+> rūpāvacaraṃ tu kuśalaṃ cittaṃ navabhyaḥ samanantaramutpadyate /
+> kāmāvacaraṃ kliṣṭadvayamārupyāvacaraṃ cānivṛtāvyākṛtaṃ hitvā /
 
-The unit is printed 104.16–104.25 in `Vasubandhu/Sources/kosabhasya.txt`. Defects remain. Not a collation.
+These selected passages follow 104.09–104.21 in
+[the running witness](../../Sources/kosabhasya.txt). The verse is
+interleaved with its explanatory prose. Witness spellings are retained
+as printed; this is not a collation.
 
-## 3. Continuous Conventional Translation
+## 3. Conventional Argument Summary
 
-Desire unobscured-indeterminate follows the four of its level and form wholesome, from which the mind of supernormal creation arises. Seven follow it: the four, form wholesome after the creation-mind, form obscured at rebirth-linking, formless obscured only at rebirth-linking. Eleven follow form wholesome, excluding formless unobscured-indeterminate. It follows nine, excluding the two afflicted desire kinds and formless unobscured-indeterminate.
+Desire-realm unobscured-indeterminate mind arises after five kinds:
+four of its own level and Form wholesome, from which creation mind
+arises. Seven kinds can follow it: four of its own level, Form
+wholesome after creation mind, Form obscured at rebirth-linking, and
+formless obscured at rebirth-linking.
+
+Eleven kinds can follow wholesome Form-realm mind; the one excluded
+kind is formless unobscured-indeterminate. Form wholesome itself
+arises after nine kinds, excluding the two afflicted desire-realm
+kinds and formless unobscured-indeterminate. The verse gives the
+counts; the prose identifies the omitted kinds and the special
+creation-mind and rebirth contexts.
 
 ## 4. Interpretation
 
-Desire unobscured follows five, followed by seven. Form wholesome followed by eleven, follows nine. Excludes formless unobscured.
+The two pairs of counts have different directions. *Pañcabhyaḥ* and
+*navabhyaḥ* mark predecessors of the named minds. *Tasmāt* and
+*śubhāt* mark the sources from which seven and eleven kinds follow.
+The contextual qualifications in the Bhāṣya explain why those edges
+appear in the succession table.
 
 ## 5. Review Status
 
-Fine-tuned with the kārikā. Excludes formless unobscured.
+The restored first line, the four directed counts, and the
+Form-wholesome exclusions have been checked against the running
+witness. The selected source lines support the summary without
+reproducing the entire continuation.
