@@ -33,7 +33,8 @@ The grammar retains both compounds and opens only external sandhi.
 
 ## 4. Grammar
 
-Seven plus three yields ten class-members. A class predicate applies
+Seven plus three yields ten class-members. `Ca` conjoins the two
+compound-level membership assertions. A class predicate applies
 to every named member; unlike the previous lists, no always-in-every-
 consciousness locative is present. The prose then supplies restrictions
 on associated ignorance, not additional verse tokens.
@@ -42,10 +43,10 @@ on associated ignorance, not additional verse tokens.
 % start S
 # tokens: krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ māyāmadavihiṃsāḥ ca parīttakleśabhūmikāḥ
 S[SEM=<?members(?class)>] -> MEMBERS[CNT=10,SEM=?members] CLASS[CASE=nom,NUM=pl,SEM=?class]
-MEMBERS[CNT=10,SEM=<\P.(?seven(P) & ?three(P))>] -> SEVEN[CASE=nom,NUM=pl,CNT=7,SEM=?seven] THREE[CASE=nom,NUM=pl,CNT=3,SEM=?three] AND[READING=enumeration]
+MEMBERS[CNT=10,SEM=<\P.?and(?seven(P),?three(P))>] -> SEVEN[CASE=nom,NUM=pl,CNT=7,SEM=?seven] THREE[CASE=nom,NUM=pl,CNT=3,SEM=?three] AND[READING=enumeration,SEM=?and]
 SEVEN[CASE=nom,NUM=pl,CNT=7,SEM=<\P.(P(anger) & P(resentment) & P(crookedness) & P(envy) & P(spite) & P(concealment) & P(stinginess))>] -> 'krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ'
 THREE[CASE=nom,NUM=pl,CNT=3,SEM=<\P.(P(deception) & P(intoxication) & P(harmfulness))>] -> 'māyāmadavihiṃsāḥ'
-AND[READING=enumeration] -> 'ca'
+AND[READING=enumeration,SEM=<\L.\R.(L & R)>] -> 'ca'
 CLASS[CASE=nom,NUM=pl,SEM=<\x.LimitedKind(x)>] -> 'parīttakleśabhūmikāḥ'
 ```
 
@@ -67,11 +68,13 @@ CLASS[CASE=nom,NUM=pl,SEM=<\x.LimitedKind(x)>] -> 'parīttakleśabhūmikāḥ'
 > Anger, resentment, crookedness, envy, spite, concealment, stinginess,
 > deception, intoxication, and harmfulness belong to the ground of limited
 > afflictions.
+
 ### Bhāṣya-informed study translation
 
 > Anger, resentment, crookedness, envy, spite, concealment, stinginess,
 > deception, intoxication, and harmfulness belong to the ground of limited
 > afflictions.
+
 ## 6. Philosophical Translation
 
 > Limited-affliction ground is a restricted range, not a universal
@@ -92,12 +95,14 @@ CLASS[CASE=nom,NUM=pl,SEM=<\x.LimitedKind(x)>] -> 'parīttakleśabhūmikāḥ'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** Ten class-members, not ten simultaneous
-occurrences. The prose model represents association restrictions
-among afflictions separately from other accompanying dharmas.
+**Kārikā, derived.** The `ca` SEM joins ten class-members, not ten
+simultaneous occurrences. The prose model represents association
+restrictions among afflictions separately from other accompanying
+dharmas.
 
 ```nltk-sem
 class_predicate : \x.LimitedKind(x)
+compound_conjunction : \L.\R.(L & R)
 seven_plus_three : \P.(P(anger) & P(resentment) & P(crookedness) & P(envy) & P(spite) & P(concealment) & P(stinginess) & P(deception) & P(intoxication) & P(harmfulness))
 ```
 

@@ -46,17 +46,19 @@ statuses, and the prose resolves the carried cultivation predicate.
 Threefold answers the opening question: abandonable by seeing, by
 cultivation, or not abandonable. The feminine gerundive agrees with
 distress; the instrumental cultivation specifies the means for the nine.
-For the five, also adds non-abandonment to the carried cultivation
-predicate. The final negation excludes abandonment of the triad.
+For the five, *api* adds non-abandonment to the carried
+cultivation predicate. A shared feature requires that carry to agree
+with the nine's instrumental clause. The final negation excludes
+abandonment of the triad.
 These are ranges across qualified instances, not completed acts.
 
 ```nltk-fcfg
 % start S
 # tokens: manovittitrayam tredhā dviheyā durmanaskatā nava bhāvanayā pañca tu aheyāni api na trayam
-S[SEM=<(?four & ?distress & ?nine & ?five & ?triad)>] -> FOUR[SEM=?four] DISTRESSCLAUSE[SEM=?distress] NINECLAUSE[SEM=?nine] FIVECLAUSE[SEM=?five] TRIADCLAUSE[SEM=?triad]
+S[SEM=<(?four & ?distress & ?nine & ?five & ?triad)>] -> FOUR[SEM=?four] DISTRESSCLAUSE[SEM=?distress] NINECLAUSE[STATUS=?s,SEM=?nine] FIVECLAUSE[INHERITED=?s,SEM=?five] TRIADCLAUSE[SEM=?triad]
 FOUR[SEM=<?range(?group)>] -> FOURGROUP[CASE=nom,NUM=sg,GEN=n,SEM=?group] THREEFOLD[SEM=?range]
 DISTRESSCLAUSE[SEM=<?range(?group)>] -> TWOHEYA[CASE=nom,NUM=sg,GEN=f,SEM=?range] DISTRESS[CASE=nom,NUM=sg,GEN=f,SEM=?group]
-NINECLAUSE[SEM=<(GroupCount(?group,nine) & ?by(?group))>] -> NINE[CNT=9,SEM=?group] CULTIVATION[CASE=ins,SEM=?by]
+NINECLAUSE[STATUS=cultivation,SEM=<(GroupCount(?group,nine) & ?by(?group))>] -> NINE[CNT=9,SEM=?group] CULTIVATION[CASE=ins,SEM=?by]
 FIVECLAUSE[INHERITED=cultivation,SEM=<(GroupCount(?group,five) & CultivationOrNot(?group) & ?not(?group))>] -> FIVE[CNT=5,SEM=?group] BUT NOTHEYA[CASE=nom,NUM=pl,GEN=n,SEM=?not] ALSO[SCOPE=additional_status]
 TRIADCLAUSE[SEM=<(GroupCount(?group,three) & ?not(?group))>] -> NOT[SEM=?not] TRIAD[CASE=nom,NUM=sg,GEN=n,SEM=?group]
 FOURGROUP[CASE=nom,NUM=sg,GEN=n,SEM=<mind_three_feelings>] -> 'manovittitrayam'
@@ -88,7 +90,7 @@ TRIAD[CASE=nom,NUM=sg,GEN=n,SEM=<realization_group>] -> 'trayam'
 | [4, 6) | `NINECLAUSE` | nine, cultivation only |
 | [6, 10) | `FIVECLAUSE` | five, cultivation or not abandonable |
 | [10, 12) | `TRIADCLAUSE` | triad, not abandonable |
-| [0, 12) | `S` | five distinct ranges |
+| [0, 12) | `S` | five ranges with cultivation carried into the five |
 
 ## 5. Translation
 
@@ -130,7 +132,9 @@ TRIAD[CASE=nom,NUM=sg,GEN=n,SEM=<realization_group>] -> 'trayam'
 **Kārikā, derived.** The root SEM records five ranges. The Bhāṣya
 supplies their members and maps the five's two statuses to with-outflows
 and without-outflows instances. Can be not abandoned describes the
-classification, not actual retention or permanence.
+classification, not actual retention or permanence. The
+`STATUS`/`INHERITED` link records the ellipsis resolved by the Bhāṣya;
+the five's two alternatives apply across qualified instances.
 
 ```nltk-sem
 three_statuses : \g.ThreeAbandonmentStatuses(g)
@@ -143,16 +147,28 @@ triad_status : \g.NotAbandonedOnly(g)
 # EXPECT verse T
 (ThreeAbandonmentStatuses(mind_three_feelings) & SeeingOrCultivation(distress_f) & GroupCount(nine_group,nine) & CultivationOnly(nine_group) & GroupCount(faith_group,five) & CultivationOrNot(faith_group) & CanBeNotAbandoned(faith_group) & GroupCount(realization_group,three) & NotAbandonedOnly(realization_group))
 
-# THEORY prose
-# EXPECT prose T
+# THEORY prose_type_ranges
+# EXPECT prose_type_ranges T
 all x.(FourType(x) -> (CanSeeing(x) & CanCultivation(x) & CanNotAbandon(x)))
-(CanSeeing(distress_f) & CanCultivation(distress_f) & -CanNotAbandon(distress_f))
+CanSeeing(distress_f) & CanCultivation(distress_f) & -CanNotAbandon(distress_f)
 all x.(NineType(x) -> (-CanSeeing(x) & CanCultivation(x) & -CanNotAbandon(x)))
 all x.(FaithType(x) -> (-CanSeeing(x) & CanCultivation(x) & CanNotAbandon(x)))
 all x.(RealizationType(x) -> (-CanSeeing(x) & -CanCultivation(x) & CanNotAbandon(x)))
+
+# THEORY prose_faith_instances
+# EXPECT prose_faith_instances T
+all x.(FaithInstance(x) -> (WithOutflows(x) | WithoutOutflows(x)))
+all x.(FaithInstance(x) -> -(WithOutflows(x) & WithoutOutflows(x)))
 all x.(FaithInstance(x) -> (ByCultivation(x) <-> WithOutflows(x)))
 all x.(FaithInstance(x) -> (NotToAbandon(x) <-> WithoutOutflows(x)))
+
+# THEORY prose_faultless
+# EXPECT prose_faultless T
 all x.(Faultless(x) -> -FitToAbandon(x))
+
+# THEORY rejected_both_faith_statuses
+# EXPECT rejected_both_faith_statuses F
+exists x.(FaithInstance(x) & ByCultivation(x) & NotToAbandon(x))
 
 # THEORY rejected_pain_in_threefold_group
 # EXPECT rejected_pain_in_threefold_group F
@@ -205,9 +221,9 @@ FitToAbandon => {faith_with_outflows}
 ```
 
 The Faculty partition contains 4 + 1 + 9 + 5 + 3 = 22 types. The two
-faith instances illustrate the prose's conditional rule, not extra
-Faculties or an exhaustive ontology. The model checks permitted ranges
-and their distinction; it does not supply a mechanism of abandonment.
+faith instances illustrate the prose's exclusive alternatives, not
+extra Faculties or an exhaustive ontology. The model checks
+permitted ranges and their distinction; it does not supply a mechanism of abandonment.
 
 Threefold here is not the ethical threefold of 2.11. Pain has moved.
 

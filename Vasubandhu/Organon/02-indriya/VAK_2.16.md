@@ -44,6 +44,8 @@ clauses and the new fruit inquiry remain separate constituents.
 
 The first two clauses complete the death count. The locative wholesome
 is resolved by the prose as wholesome consciousness; and adds five.
+The adverb `sarvatra` scopes the addition over each death context
+established in 2.15; it is not an unbound truth flag.
 The next nominative is attainment, with the dual extreme-fruit phrase
 specifying whose attainment. The final instrumental supplies three
 alternative counts for the other two fruits. The eleven-person
@@ -54,14 +56,14 @@ discussion belongs to the next verse's opening, not this token stream.
 # tokens: kramamṛtyau tu catvāri śubhe sarvatra pañca ca nava-āptiḥ antyaphalayoḥ sapta-aṣṭa-navabhiḥ dvayoḥ
 S[SEM=<(?gradual & ?wholesome & ?extreme & ?middle)>] -> GRADUAL[SEM=?gradual] WHOLESOME[SEM=?wholesome] EXTREME[SEM=?extreme] MIDDLE[SEM=?middle]
 GRADUAL[SEM=<TerminalCount(?case,?count)>] -> GRADUALCASE[CASE=loc,SEM=?case] BUT FOUR[CNT=4,SEM=?count]
-WHOLESOME[SEM=<(?every & AdditionalCount(?case,?count))>] -> WHOLESOMECASE[CASE=loc,SEM=?case] EVERYWHERE[SEM=?every] FIVE[CNT=5,SEM=?count] AND[SCOPE=addition]
+WHOLESOME[SEM=<?every(\c.AdditionalCount(c,?count))>] -> WHOLESOMECASE[CASE=loc,QUALITY=wholesome] EVERYWHERE[SEM=?every] FIVE[CNT=5,SEM=?count] AND[SCOPE=addition]
 EXTREME[SEM=<?count(?group)>] -> NINEATTAINMENT[CASE=nom,CNT=9,SEM=?count] EXTREMES[CASE=gen,NUM=du,CNT=2,SEM=?group]
 MIDDLE[SEM=<?counts(?group)>] -> COUNTS[CASE=ins,COUNTS=seven_eight_nine,SEM=?counts] TWO[CASE=gen,NUM=du,CNT=2,REF=middle,SEM=?group]
 GRADUALCASE[CASE=loc,SEM=<gradual_death>] -> 'kramamṛtyau'
 BUT -> 'tu'
 FOUR[CNT=4,SEM=<four>] -> 'catvāri'
-WHOLESOMECASE[CASE=loc,SEM=<wholesome_death>] -> 'śubhe'
-EVERYWHERE[SEM=<EveryStatedDeathCase>] -> 'sarvatra'
+WHOLESOMECASE[CASE=loc,QUALITY=wholesome] -> 'śubhe'
+EVERYWHERE[SEM=<\P.all c.(TerminalContext(c) -> P(c))>] -> 'sarvatra'
 FIVE[CNT=5,SEM=<five>] -> 'pañca'
 AND[SCOPE=addition] -> 'ca'
 NINEATTAINMENT[CASE=nom,CNT=9,SEM=<\g.AttainmentCount(g,nine)>] -> 'nava-āptiḥ'
@@ -120,20 +122,22 @@ TWO[CASE=gen,NUM=du,CNT=2,REF=middle,SEM=<middle_fruits>] -> 'dvayoḥ'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root SEM preserves the death qualifications
-and the two fruit groups. Count alternatives are route-dependent,
-not three incompatible totals for one event.
+**Kārikā, derived.** The root SEM scopes the wholesome five over every
+stated terminal context and preserves the two fruit groups. This
+quantifier checks the addition against all six contexts modeled in 2.15.
+Count alternatives are route-dependent, not three incompatible totals
+for one event.
 
 ```nltk-sem
 extreme_count : \g.AttainmentCount(g,nine)
 middle_counts : \g.(AttainmentCount(g,seven) & AttainmentCount(g,eight) & AttainmentCount(g,nine))
-wholesome_addition : AdditionalCount(wholesome_death,five)
+wholesome_addition : all c.(TerminalContext(c) -> AdditionalCount(c,five))
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(TerminalCount(gradual_death,four) & EveryStatedDeathCase & AdditionalCount(wholesome_death,five) & AttainmentCount(extreme_fruits,nine) & AttainmentCount(middle_fruits,seven) & AttainmentCount(middle_fruits,eight) & AttainmentCount(middle_fruits,nine))
+(TerminalCount(gradual_death,four) & all c.(TerminalContext(c) -> AdditionalCount(c,five)) & AttainmentCount(extreme_fruits,nine) & AttainmentCount(middle_fruits,seven) & AttainmentCount(middle_fruits,eight) & AttainmentCount(middle_fruits,nine))
 
 # THEORY prose_routes
 # EXPECT prose_routes T
@@ -164,7 +168,6 @@ all x.(SequentialSupraEight(x) <-> SharpMundaneEight(x))
 
 ```nltk-valuation
 gradual_death => gradual_case
-wholesome_death => wholesome_case
 extreme_fruits => extremes
 middle_fruits => middles
 four => count_four
@@ -192,9 +195,9 @@ one_person => person
 pleasure_attainment => attainment_pleasure
 gladness_attainment => attainment_gladness
 neutral_attainment => attainment_neutral
-EveryStatedDeathCase => True
+TerminalContext => {formless_case,form_case,desire_none_case,desire_one_case,desire_both_case,gradual_case}
 TerminalCount => {(gradual_case,count_four)}
-AdditionalCount => {(wholesome_case,count_five)}
+AdditionalCount => {(formless_case,count_five),(form_case,count_five),(desire_none_case,count_five),(desire_one_case,count_five),(desire_both_case,count_five),(gradual_case,count_five)}
 AttainmentCount => {(extremes,count_nine),(middles,count_seven),(middles,count_eight),(middles,count_nine)}
 ExtremeFruit => {stream_entry_fruit,arhatship_fruit}
 MiddleFruit => {once_returning_fruit,non_returning_fruit}

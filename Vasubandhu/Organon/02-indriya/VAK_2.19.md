@@ -39,8 +39,10 @@ remain intact. Eight completes the previous subject.
 
 ## 4. Grammar
 
-Eleven distributes over two separate possessors. Thirteen predicates
-endowment of the prospective Faculty's possessor. The Bhāṣya supplies
+Eleven distributes over two separate possessors. The compound
+contributes both cases to the SEM; the instrumental supplies their
+shared count. Thirteen predicates endowment of the prospective
+Faculty's possessor. The Bhāṣya supplies
 the lists, not a claim of simultaneous operation or a restriction
 of the whole thirteen to the uninterrupted Path.
 
@@ -48,12 +50,12 @@ of the whole thirteen to the uninterrupted Path.
 % start S
 # tokens: aṣṭābhiḥ ekādaśabhiḥ tu ājñā-ājñāta-indriya-anvitaḥ ājñāsyāmi-indriya-upetaḥ trayodaśabhiḥ anvitaḥ
 S[SEM=<(?carry & ?eleven & ?thirteen)>] -> CARRY[CONTINUED=previous_subject,SEM=?carry] ELEVENCLAUSE[SEM=?eleven] THIRTEENCLAUSE[SEM=?thirteen]
-ELEVENCLAUSE[SEM=<(NecessaryCount(knowledge_f,?count) & NecessaryCount(has_known_f,?count))>] -> ELEVEN[CASE=ins,CNT=11,SEM=?count] BUT TWOCASES[CASE=nom,NUM=sg,GEN=m,READING=alternative]
+ELEVENCLAUSE[SEM=<?cases(?count)>] -> ELEVEN[CASE=ins,CNT=11,SEM=?count] BUT TWOCASES[CASE=nom,NUM=sg,GEN=m,READING=alternative,SEM=?cases]
 THIRTEENCLAUSE[SEM=<NecessaryCount(?given,?count)>] -> PROSPECTIVE[CASE=nom,NUM=sg,GEN=m,SEM=?given] THIRTEEN[CASE=ins,CNT=13,SEM=?count] ENDOWED[CASE=nom,NUM=sg,GEN=m]
 CARRY[CONTINUED=previous_subject,SEM=<PreviousSubjectCount(eight)>] -> 'aṣṭābhiḥ'
 ELEVEN[CASE=ins,CNT=11,SEM=<eleven>] -> 'ekādaśabhiḥ'
 BUT -> 'tu'
-TWOCASES[CASE=nom,NUM=sg,GEN=m,READING=alternative] -> 'ājñā-ājñāta-indriya-anvitaḥ'
+TWOCASES[CASE=nom,NUM=sg,GEN=m,READING=alternative,SEM=<\n.(NecessaryCount(knowledge_f,n) & NecessaryCount(has_known_f,n))>] -> 'ājñā-ājñāta-indriya-anvitaḥ'
 PROSPECTIVE[CASE=nom,NUM=sg,GEN=m,SEM=<shall_know_f>] -> 'ājñāsyāmi-indriya-upetaḥ'
 THIRTEEN[CASE=ins,CNT=13,SEM=<thirteen>] -> 'trayodaśabhiḥ'
 ENDOWED[CASE=nom,NUM=sg,GEN=m] -> 'anvitaḥ'
@@ -115,6 +117,7 @@ is not formalized as a separate identity.
 ```nltk-sem
 necessary_count : \f.\n.NecessaryCount(f,n)
 continued_eight : PreviousSubjectCount(eight)
+two_elevens : \n.(NecessaryCount(knowledge_f,n) & NecessaryCount(has_known_f,n))
 prospective_count : NecessaryCount(shall_know_f,thirteen)
 ```
 

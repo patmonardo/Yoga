@@ -44,25 +44,27 @@ The six nominatives are coordinated, not alternatives. Always
 scopes the afflicted clause and is resolved as invariably in the
 prose for the unwholesome pair. Tu distinguishes the ranges; it
 does not replace the six with the two. Only in afflicted consciousness
-is an explicit prose conclusion, not the meaning of six.
+is an explicit prose conclusion, not the meaning of six. The first
+clause composes `kliṣṭe` with `sadā`; the second clause applies the
+Bhāṣya-resolved universal scope of `akuśale`.
 
 ```nltk-fcfg
 % start S
 # tokens: mohaḥ pramādaḥ kauśīdyam āśraddhyam styānam auddhatyam kliṣṭe sadā eva akuśale tu āhrīkyam anapatrapā
 S[SEM=<(?six & ?two)>] -> AFFLICTEDCLAUSE[SEM=?six] UNWHOLESOMECLAUSE[SEM=?two]
-AFFLICTEDCLAUSE[SEM=<all c.(AfflictedMoment(c) -> ?list(c))>] -> SIX[CNT=6,SEM=?list] AFFLICTED[CASE=loc] ALWAYS[SCOPE=every] EMPHASIS
+AFFLICTEDCLAUSE[SEM=<?always(?afflicted(?list))>] -> SIX[CNT=6,SEM=?list] AFFLICTED[CASE=loc,SEM=?afflicted] ALWAYS[SCOPE=every,SEM=?always] EMPHASIS
 SIX[CNT=6,SEM=<\c.(Present(c,?a) & Present(c,?b) & Present(c,?d) & Present(c,?e) & Present(c,?f) & Present(c,?g))>] -> DELUSION[SEM=?a] HEEDLESS[SEM=?b] LAZY[SEM=?d] FAITHLESS[SEM=?e] SLUGGISH[SEM=?f] AGITATED[SEM=?g]
-UNWHOLESOMECLAUSE[SEM=<all c.(UnwholesomeMoment(c) -> (Present(c,?a) & Present(c,?b)))>] -> UNWHOLESOME[CASE=loc] BUT[READING=scope_contrast] SHAMELESS[SEM=?a] UNCAUTIOUS[SEM=?b]
+UNWHOLESOMECLAUSE[SEM=<?unwholesome(\c.(Present(c,?a) & Present(c,?b)))>] -> UNWHOLESOME[CASE=loc,SUPPLIED=prose_universal,SEM=?unwholesome] BUT[READING=scope_contrast] SHAMELESS[SEM=?a] UNCAUTIOUS[SEM=?b]
 DELUSION[SEM=<delusion>] -> 'mohaḥ'
 HEEDLESS[SEM=<heedlessness>] -> 'pramādaḥ'
 LAZY[SEM=<laziness>] -> 'kauśīdyam'
 FAITHLESS[SEM=<faithlessness>] -> 'āśraddhyam'
 SLUGGISH[SEM=<sluggishness>] -> 'styānam'
 AGITATED[SEM=<agitation>] -> 'auddhatyam'
-AFFLICTED[CASE=loc] -> 'kliṣṭe'
-ALWAYS[SCOPE=every] -> 'sadā'
+AFFLICTED[CASE=loc,SEM=<\P.\c.(AfflictedMoment(c) -> P(c))>] -> 'kliṣṭe'
+ALWAYS[SCOPE=every,SEM=<\P.all c.P(c)>] -> 'sadā'
 EMPHASIS -> 'eva'
-UNWHOLESOME[CASE=loc] -> 'akuśale'
+UNWHOLESOME[CASE=loc,SUPPLIED=prose_universal,SEM=<\P.all c.(UnwholesomeMoment(c) -> P(c))>] -> 'akuśale'
 BUT[READING=scope_contrast] -> 'tu'
 SHAMELESS[SEM=<shamelessness>] -> 'āhrīkyam'
 UNCAUTIOUS[SEM=<lack_caution>] -> 'anapatrapā'
@@ -87,11 +89,13 @@ UNCAUTIOUS[SEM=<lack_caution>] -> 'anapatrapā'
 > Delusion, heedlessness, laziness, lack of faith, sluggishness, and
 > agitation are always present in the afflicted. But shamelessness and lack
 > of moral caution are always present in the unwholesome.
+
 ### Bhāṣya-informed study translation
 
 > Delusion, heedlessness, laziness, lack of faith, sluggishness, and
 > agitation are always present in afflicted consciousness; shamelessness and
 > lack of moral caution are always present in unwholesome consciousness.
+
 ## 6. Philosophical Translation
 
 > The six occur always and only in afflicted consciousness; this
@@ -117,15 +121,17 @@ UNCAUTIOUS[SEM=<lack_caution>] -> 'anapatrapā'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The conjunction records the six and the pair
-under their respective scopes. Prose checks add the six's restriction
-to afflicted consciousness and the interpretation of the quoted ten.
+**Kārikā with Bhāṣya-resolved second scope.** The lexical SEM
+records the six and the pair under their respective scopes. Prose
+checks add the six's restriction to afflicted consciousness and the
+interpretation of the quoted ten.
 Afflicted includes an illustrative non-unwholesome case; unwholesome
 is not substituted for the wider range.
 
 ```nltk-sem
 presence : \f.\c.Present(c,f)
-afflicted_scope : \P.all c.(AfflictedMoment(c) -> P(c))
+afflicted_condition : \P.\c.(AfflictedMoment(c) -> P(c))
+always_scope : \P.all c.P(c)
 unwholesome_scope : \P.all c.(UnwholesomeMoment(c) -> P(c))
 ```
 

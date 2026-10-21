@@ -39,17 +39,17 @@ uncontaminated Faculties. External sandhi is opened for parsing.
 
 The first subject follows its instrumental predicates. The prose's
 “who else?” separates the noble trainee from the person possessing
-both sex Faculties. The second clause carries endowment and nineteen
-from the first; it does not carry both-sex status or exclusion of all
-three stainless Faculties. Completeness and trainee status are
+both sex Faculties. The second clause inherits the numeral through
+shared `CNT` and `COUNTSEM` features; it does not carry both-sex
+status or exclusion of all three stainless Faculties. Completeness and trainee status are
 Bhāṣya qualifications, not additional words in the verse.
 
 ```nltk-fcfg
 % start S
 # tokens: bahubhiḥ yuktaḥ ekānnaviṃśatyā amala-varjitaiḥ dviliṅgaḥ āryaḥ rāgī eka-liṅga-dvaya-amala-varjitaiḥ
-S[SEM=<(?first & ?second)>] -> FIRST[SEM=?first] SECOND[SEM=?second]
-FIRST[SEM=<(MaximumCount(?person,?count) & ?exclude(?person) & BothSexes(?person))>] -> MOST[CASE=ins] ENDOWED[CASE=nom,GEN=m] NINETEEN[CASE=ins,CNT=19,SEM=?count] FIRSTEXCLUSION[CASE=ins,STAINLESS=3,SEM=?exclude] BOTH[CASE=nom,GEN=m,SEM=?person]
-SECOND[SEM=<(MaximumCount(learner,nineteen) & Noble(learner) & ?attached(learner) & ?exclude(learner))>] -> NOBLE[CASE=nom,GEN=m,SUBJECT=second] ATTACHED[CASE=nom,GEN=m,SEM=?attached] SECONDEXCLUSION[CASE=ins,SEX=1,STAINLESS=2,SEM=?exclude]
+S[SEM=<(?first & ?second)>] -> FIRST[CNT=?n,COUNTSEM=?count,SEM=?first] SECOND[CNT=?n,COUNTSEM=?count,SEM=?second]
+FIRST[CNT=19,COUNTSEM=?count,SEM=<(MaximumCount(?person,?count) & ?exclude(?person) & BothSexes(?person))>] -> MOST[CASE=ins] ENDOWED[CASE=nom,GEN=m] NINETEEN[CASE=ins,CNT=19,SEM=?count] FIRSTEXCLUSION[CASE=ins,STAINLESS=3,SEM=?exclude] BOTH[CASE=nom,GEN=m,SEM=?person]
+SECOND[CNT=19,COUNTSEM=?count,SEM=<(MaximumCount(learner,?count) & Noble(learner) & ?attached(learner) & ?exclude(learner))>] -> NOBLE[CASE=nom,GEN=m,SUBJECT=second] ATTACHED[CASE=nom,GEN=m,SEM=?attached] SECONDEXCLUSION[CASE=ins,SEX=1,STAINLESS=2,SEM=?exclude]
 MOST[CASE=ins] -> 'bahubhiḥ'
 ENDOWED[CASE=nom,GEN=m] -> 'yuktaḥ'
 NINETEEN[CASE=ins,CNT=19,SEM=<nineteen>] -> 'ekānnaviṃśatyā'
@@ -74,6 +74,7 @@ token coverage, not a full syntactic derivation.
 | [0, 5) | `FIRST` | nineteen, both sex Faculties, all three stainless excluded |
 | [5, 8) | `SECOND` | nineteen carried, noble still attached, one sex and two stainless excluded |
 | [0, 8) | `S` | two subjects and two exclusion patterns |
+
 ## 5. Translation
 
 ### Literal Translation
@@ -111,8 +112,8 @@ token coverage, not a full syntactic derivation.
 ## 8. Logical Determination
 
 **Kārikā, derived.** The SEM distinguishes the two subjects and their
-exclusion patterns. The following finite inventories expand the
-Bhāṣya: the complete first case, and two alternative trainee cases.
+exclusion patterns while deriving both counts from the one numeral.
+The following finite inventories expand the Bhāṣya: the complete first case, and two alternative trainee cases.
 The trainee alternatives are not a joint possession of both remaining
 realization-Faculties.
 

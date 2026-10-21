@@ -42,14 +42,15 @@ for parsing; the ten nominatives remain in their source order.
 ## 4. Grammar
 
 The enumeration is conjunctive, not a choice among ten. The final
-locative scopes every member. Presence is supplied as the predicate;
-the Bhāṣya specifies complete co-presence in each consciousness-moment.
+locative supplies the universal scope over every member. Presence is
+supplied as the predicate; the Bhāṣya specifies complete co-presence
+in each consciousness-moment.
 Its reportive kila is not a verse token.
 
 ```nltk-fcfg
 % start S
 # tokens: vedanā cetanā saṃjñā chandaḥ sparśaḥ matiḥ smṛtiḥ manaskāraḥ adhimokṣaḥ ca samādhiḥ sarvacetasi
-S[SEM=<all c.(ConsciousnessMoment(c) -> ?members(c))>] -> TEN[CNT=10,SEM=?members] EVERY[CASE=loc,SCOPE=every_moment]
+S[SEM=<?every(?members)>] -> TEN[CNT=10,SEM=?members] EVERY[CASE=loc,SCOPE=every_moment,SEM=?every]
 TEN[CNT=10,SEM=<\c.(Present(c,?a) & Present(c,?b) & Present(c,?d) & Present(c,?e) & Present(c,?f) & Present(c,?g) & Present(c,?h) & Present(c,?i) & Present(c,?j) & Present(c,?k))>] -> FEELING[CASE=nom,SEM=?a] VOLITION[CASE=nom,SEM=?b] REFLECTION[CASE=nom,SEM=?d] WISH[CASE=nom,SEM=?e] CONTACT[CASE=nom,SEM=?f] COMPREHENSION[CASE=nom,SEM=?g] MINDFULNESS[CASE=nom,SEM=?h] ATTENTION[CASE=nom,SEM=?i] RESOLUTION[CASE=nom,SEM=?j] AND[READING=conjunction] CONCENTRATION[CASE=nom,SEM=?k]
 FEELING[CASE=nom,SEM=<feeling>] -> 'vedanā'
 VOLITION[CASE=nom,SEM=<volition>] -> 'cetanā'
@@ -62,7 +63,7 @@ ATTENTION[CASE=nom,SEM=<attention>] -> 'manaskāraḥ'
 RESOLUTION[CASE=nom,SEM=<resolution>] -> 'adhimokṣaḥ'
 AND[READING=conjunction] -> 'ca'
 CONCENTRATION[CASE=nom,SEM=<concentration>] -> 'samādhiḥ'
-EVERY[CASE=loc,SCOPE=every_moment] -> 'sarvacetasi'
+EVERY[CASE=loc,SCOPE=every_moment,SEM=<\P.all c.(ConsciousnessMoment(c) -> P(c))>] -> 'sarvacetasi'
 ```
 
 ```nltk-dep
@@ -112,9 +113,10 @@ EVERY[CASE=loc,SCOPE=every_moment] -> 'sarvacetasi'
 
 ## 8. Logical Determination
 
-**Kārikā, derived; temporal scope resolved by the Bhāṣya.** The model
-uses factor-kinds, not numerically identical factor-tokens persisting
-through distinct moments. It tests the reported universal claim,
+**Kārikā, derived; temporal scope resolved by the Bhāṣya.** The
+`sarvacetasi` lexical SEM applies the universal moment-scope to the
+ten-factor conjunction. The model uses factor-kinds, not numerically
+identical factor-tokens persisting through distinct moments. It tests the reported universal claim,
 not an independent proof of that claim.
 
 ```nltk-sem
@@ -196,6 +198,12 @@ Conception while remaining distinct from consciousness and Mind.
 Reflection and discriminative comprehension are distinct entries
 within the present list, not interchangeable names for that governing
 Cognition. Universal presence is not universal adequacy.
+
+In the Organon reading, the `samādhi` named here is a factor in each
+consciousness-moment, glossed as one-pointedness. A proposed Samādhi
+operator that gathers conditioned sequence into determinate `artha`
+would be a further construction; this enumeration does not establish
+that return to Principle.
 
 ## 10. OWL++ Seed
 

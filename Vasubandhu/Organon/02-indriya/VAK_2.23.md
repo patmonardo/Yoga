@@ -44,7 +44,9 @@ Four units: reciprocal accompaniment, marks accompanying everything
 conditioned that arises, acquisition's restricted scope, and a fivefold
 classification. The scope restriction on acquisition and the five
 class-names are supplied by the Bhāṣya, not encoded as extra verse
-tokens. Necessarily together is carried into the marks clause.
+tokens. The `prāptyā` lexical SEM supplies the acquisition relation;
+the prose fixes its sentient-designation scope. Necessarily together
+is carried into the marks clause.
 
 ```nltk-fcfg
 % start S
@@ -52,7 +54,7 @@ tokens. Necessarily together is carried into the marks clause.
 S[SEM=<(?pair & ?marks & ?acquisition & ?classes)>] -> PAIR[SEM=?pair] MARKSCLAUSE[SEM=?marks] ACQUISITION[SEM=?acquisition] CLASSES[SEM=?classes]
 PAIR[SEM=<(all c.(Consciousness(c) -> exists f.(Factor(f) & Accompanies(f,c))) & all f.(Factor(f) -> exists c.(Consciousness(c) & Accompanies(f,c))))>] -> CONSCIOUSNESS[CASE=nom,NUM=sg] FACTORS[CASE=nom,NUM=pl] TOGETHER NECESSARILY
 MARKSCLAUSE[SEM=<all x.(ArisingConditioned(x) -> ?marks(x))>] -> ALL[CASE=nom,NUM=sg,SCOPE=arising_conditioned] MARKS[CASE=ins,SEM=?marks]
-ACQUISITION[SEM=<all x.(ArisingConditioned(x) -> (AcquisitionAccompanies(x) <-> SentientDesignated(x)))>] -> ACQUIRED[CASE=ins] OR[READING=scope_distinction]
+ACQUISITION[SEM=<all x.(ArisingConditioned(x) -> (?acquired(x) <-> SentientDesignated(x)))>] -> ACQUIRED[CASE=ins,SEM=?acquired] OR[READING=scope_distinction]
 CLASSES[SEM=<(ClassCount(factor_classes,five) & BeginsWithGreatGround(factor_classes))>] -> FIVE[CNT=5] FACTORS[CASE=nom,NUM=pl] DIVISION[ORDER=great_ground_first]
 CONSCIOUSNESS[CASE=nom,NUM=sg] -> 'cittam'
 FACTORS[CASE=nom,NUM=pl] -> 'caittāḥ'
@@ -60,7 +62,7 @@ TOGETHER -> 'saha'
 NECESSARILY -> 'avaśyam'
 ALL[CASE=nom,NUM=sg,SCOPE=arising_conditioned] -> 'sarvam'
 MARKS[CASE=ins,SEM=<\x.MarksAccompany(x)>] -> 'saṃskṛtalakṣaṇaiḥ'
-ACQUIRED[CASE=ins] -> 'prāptyā'
+ACQUIRED[CASE=ins,SEM=<\x.AcquisitionAccompanies(x)>] -> 'prāptyā'
 OR[READING=scope_distinction] -> 'vā'
 FIVE[CNT=5] -> 'pañcadhā'
 DIVISION[ORDER=great_ground_first] -> 'mahābhūmyādibhedataḥ'
@@ -119,11 +121,13 @@ Great is range. Not a meditative stage, and not a place.
 
 **Kārikā with Bhāṣya-resolved scope.** Accompaniment is a relation,
 not merely possession of a property called marks or acquisition.
-Factor-tokens accompany their own consciousness-tokens. Distinct
-episodes are not forced to co-arise with one another.
+Factor-tokens accompany their own consciousness-tokens. The acquisition
+relation comes from `prāptyā`; the restricted scope is Bhāṣya-resolved.
+Distinct episodes are not forced to co-arise with one another.
 
 ```nltk-sem
 marks : \x.MarksAccompany(x)
+acquisition_relation : \x.AcquisitionAccompanies(x)
 acquisition_scope : \x.(AcquisitionAccompanies(x) <-> SentientDesignated(x))
 ```
 

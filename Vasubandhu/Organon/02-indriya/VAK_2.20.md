@@ -42,9 +42,11 @@ Compounds remain intact; their member-lists are resolved from the Bhāṣya.
 The opening superlative sets the minimum question. Eight and the
 first instrumental compound predicate endowment of the root-severed
 person. Likewise carries that count to the Formless ordinary person,
-whose instrumental compound gives a different membership. It does not
-carry severed roots into the second case. The prose restricts wholesome
-to the faith-group through both the count and ordinary-person status.
+whose instrumental compound gives a different membership. Each
+compound builds an exact minimum-member set, without limiting actual
+possession to that set. Likewise does not carry severed roots into the
+second case. The prose restricts wholesome to the faith-group through
+both the count and ordinary-person status.
 
 ```nltk-fcfg
 % start S
@@ -55,12 +57,12 @@ SECOND[SEM=<(MinimumCase(formless_ordinary) & ?same(formless_ordinary) & ?member
 MINIMUM[CASE=ins,SEM=<\c.MinimumCase(c)>] -> 'sarvālpaiḥ'
 ROOTLESS[CASE=nom,GEN=m,SEM=<severed_roots>] -> 'niḥśubhaḥ'
 EIGHT[CASE=ins,CNT=8,SEM=<eight>] -> 'aṣṭābhiḥ'
-FIRSTSET[CASE=ins,SEM=<\c.FeelingsBodyMindLife(c)>] -> 'vit-manas-kāya-jīvitaiḥ'
+FIRSTSET[CASE=ins,SEM=<\c.all x.(MinimumMember(c,x) <-> (FeelingFive(x) | x = mind_f | x = body_f | x = life_f))>] -> 'vit-manas-kāya-jīvitaiḥ'
 ENDOWED[CASE=nom,GEN=m] -> 'yuktaḥ'
 ORDINARY[CASE=nom,GEN=m] -> 'bālaḥ'
 LIKEWISE[REF=minimum_eight,SEM=<\c.MinimumCount(c,eight)>] -> 'tathā'
 FORMLESS[CASE=loc] -> 'ārūpye'
-SECONDSET[CASE=ins,RANGE=faith_five,SEM=<\c.NeutralLifeMindFaith(c)>] -> 'upekṣā-āyus-manas-śubhaiḥ'
+SECONDSET[CASE=ins,RANGE=faith_five,SEM=<\c.all x.(MinimumMember(c,x) <-> (CoreThree(x) | FaithFive(x)))>] -> 'upekṣā-āyus-manas-śubhaiḥ'
 ```
 
 ```nltk-dep
@@ -108,26 +110,25 @@ SECONDSET[CASE=ins,RANGE=faith_five,SEM=<\c.NeutralLifeMindFaith(c)>] -> 'upek�
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The SEM records two minimum cases with different
-membership descriptions. The prose supplies the five feelings and
-restricts wholesome to the five beginning with faith. These are
-possession inventories, not simultaneous feeling-events.
+**Kārikā, Bhāṣya-resolved.** The two instrumental compounds contribute
+separate minimum-member sets to the SEM. The Bhāṣya resolves `vit` as
+the five feelings and restricts local `śubha` to the five beginning
+with faith. The verse supplies the two cases and the shared eight-count.
+These are possession inventories, not simultaneous feeling-events.
 
 ```nltk-sem
 minimum_count : \c.MinimumCount(c,eight)
-first_members : \c.FeelingsBodyMindLife(c)
-second_members : \c.NeutralLifeMindFaith(c)
+first_members : \c.all x.(MinimumMember(c,x) <-> (FeelingFive(x) | x = mind_f | x = body_f | x = life_f))
+second_members : \c.all x.(MinimumMember(c,x) <-> (CoreThree(x) | FaithFive(x)))
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(MinimumCase(severed_roots) & MinimumCount(severed_roots,eight) & FeelingsBodyMindLife(severed_roots) & MinimumCase(formless_ordinary) & MinimumCount(formless_ordinary,eight) & NeutralLifeMindFaith(formless_ordinary))
+(MinimumCase(severed_roots) & MinimumCount(severed_roots,eight) & all x.(MinimumMember(severed_roots,x) <-> (FeelingFive(x) | x = mind_f | x = body_f | x = life_f)) & MinimumCase(formless_ordinary) & MinimumCount(formless_ordinary,eight) & all x.(MinimumMember(formless_ordinary,x) <-> (CoreThree(x) | FaithFive(x))))
 
 # THEORY prose_members
 # EXPECT prose_members T
-all x.(MinimumMember(severed_roots,x) <-> (FeelingFive(x) | x = mind_f | x = body_f | x = life_f))
-all x.(MinimumMember(formless_ordinary,x) <-> (CoreThree(x) | FaithFive(x)))
 all x.(LocalWholesome(x) <-> FaithFive(x))
 all x.(RealizationFaculty(x) -> -MinimumMember(formless_ordinary,x))
 all x.(MinimumMember(severed_roots,x) -> Possesses(rootless_with_extra,x))
@@ -155,8 +156,6 @@ life_f => life
 rootless_with_extra => illustrative_rootless_person
 MinimumCase => {rootless_minimum,formless_minimum}
 MinimumCount => {(rootless_minimum,count_eight),(formless_minimum,count_eight)}
-FeelingsBodyMindLife => {rootless_minimum}
-NeutralLifeMindFaith => {formless_minimum}
 FeelingFive => {pain,pleasure,gladness,distress,neutral}
 CoreThree => {neutral,life,mind}
 FaithFive => {faith,vigor,mindfulness,concentration,comprehension}

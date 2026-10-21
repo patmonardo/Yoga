@@ -43,7 +43,8 @@ supplied only in the cross-verse continuation.
 
 The opening dual distributes the four-count over two separate possession
 cases. The eye-group and gladness share five, but not the same members.
-Pain takes seven. The final possessor subject continues into 2.19's
+The prose resolves `ādi` to eye, ear, nose, and tongue as separate
+five-count cases; the EYES SEM expands that local range. Pain takes seven. The final possessor subject continues into 2.19's
 eight. Necessarily possesses is carried from the ongoing question and
 repeated in the prose; none of the counts excludes extra Faculties.
 
@@ -52,12 +53,12 @@ repeated in the prose; none of the counts excludes extra Faculties.
 # tokens: caturbhiḥ sukha-kāyābhyām pañcabhiḥ cakṣurādimān saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān
 S[SEM=<(?four & ?five & ?seven & ?tail)>] -> FOURCLAUSE[SEM=?four] FIVECLAUSE[SEM=?five] SEVENCLAUSE[SEM=?seven] TAIL[CONTINUED=next_verse,SEM=?tail]
 FOURCLAUSE[SEM=<(NecessaryCount(pleasure_f,?count) & NecessaryCount(body_f,?count))>] -> FOUR[CASE=ins,CNT=4,SEM=?count] PAIR[CASE=ins,NUM=du,READING=distributive]
-FIVECLAUSE[SEM=<(EyeGroupCount(?count) & NecessaryCount(?glad,?count))>] -> FIVE[CASE=ins,CNT=5,SEM=?count] EYES[CASE=nom,GEN=m] GLAD[CASE=nom,GEN=m,SEM=?glad] AND
+FIVECLAUSE[SEM=<(?eyes(?count) & NecessaryCount(?glad,?count))>] -> FIVE[CASE=ins,CNT=5,SEM=?count] EYES[CASE=nom,GEN=m,SEM=?eyes] GLAD[CASE=nom,GEN=m,SEM=?glad] AND
 SEVENCLAUSE[SEM=<NecessaryCount(?pain,?count)>] -> PAIN[CASE=nom,GEN=m,SEM=?pain] BUT SEVEN[CASE=ins,CNT=7,SEM=?count]
 FOUR[CASE=ins,CNT=4,SEM=<four>] -> 'caturbhiḥ'
 PAIR[CASE=ins,NUM=du,READING=distributive] -> 'sukha-kāyābhyām'
 FIVE[CASE=ins,CNT=5,SEM=<five>] -> 'pañcabhiḥ'
-EYES[CASE=nom,GEN=m] -> 'cakṣurādimān'
+EYES[CASE=nom,GEN=m,SEM=<\n.(NecessaryCount(eye_f,n) & NecessaryCount(ear_f,n) & NecessaryCount(nose_f,n) & NecessaryCount(tongue_f,n))>] -> 'cakṣurādimān'
 GLAD[CASE=nom,GEN=m,SEM=<gladness_f>] -> 'saumanasyī'
 AND -> 'ca'
 PAIN[CASE=nom,GEN=m,SEM=<pain_f>] -> 'duḥkhī'
@@ -123,14 +124,14 @@ are identified as a cross-verse prose elaboration.
 
 ```nltk-sem
 necessary_count : \f.\n.NecessaryCount(f,n)
-eye_count : EyeGroupCount(five)
+eye_group_count : \n.(NecessaryCount(eye_f,n) & NecessaryCount(ear_f,n) & NecessaryCount(nose_f,n) & NecessaryCount(tongue_f,n))
 continued_subject : FemaleAndOthersSubject
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(NecessaryCount(pleasure_f,four) & NecessaryCount(body_f,four) & EyeGroupCount(five) & NecessaryCount(gladness_f,five) & NecessaryCount(pain_f,seven) & FemaleAndOthersSubject)
+(NecessaryCount(pleasure_f,four) & NecessaryCount(body_f,four) & NecessaryCount(eye_f,five) & NecessaryCount(ear_f,five) & NecessaryCount(nose_f,five) & NecessaryCount(tongue_f,five) & NecessaryCount(gladness_f,five) & NecessaryCount(pain_f,seven) & FemaleAndOthersSubject)
 
 # THEORY prose_closures
 # EXPECT prose_closures T
@@ -168,12 +169,15 @@ pain_f => pain
 female_f => female
 distress_f => distress
 faith_f => faith
+eye_f => eye
+ear_f => ear
+nose_f => nose
+tongue_f => tongue
 second_person => second_dhyana_person
 four => count_four
 five => count_five
 seven => count_seven
-NecessaryCount => {(pleasure,count_four),(body,count_four),(gladness,count_five),(pain,count_seven)}
-EyeGroupCount => {count_five}
+NecessaryCount => {(pleasure,count_four),(body,count_four),(eye,count_five),(ear,count_five),(nose,count_five),(tongue,count_five),(gladness,count_five),(pain,count_seven)}
 FemaleAndOthersSubject => True
 CoreThree => {neutral,life,mind}
 PainSeven => {body,life,mind,pain,pleasure,gladness,neutral}

@@ -48,15 +48,17 @@ resume the cessation predicate in the other realms. The prose assigns
 the Desire-realm alternatives to sexual characteristics and restricts
 the base counts to afflicted or indeterminate consciousness. Gradual
 death and the wholesome addition come from the next verse's opening,
-not from tokens silently inserted into this verse.
+not from tokens silently inserted into this verse. The shared
+`SCOPE=death_cessation` feature carries the opening predicate through
+the later realm counts without settling the uncertain opening words.
 
 ```nltk-fcfg
 % start S
 # tokens: nirodhayati uparamān-nārūpye jīvitam manaḥ upekṣām ca eva rūpe aṣṭau kāme daśa nava aṣṭau vā
-S[SEM=<(?formless & ?form & ?desire)>] -> FORMLESS[SEM=?formless] FORM[SEM=?form] DESIRE[SEM=?desire]
-FORMLESS[SEM=<(DeathCessationScope & ?member(?life,?case) & ?member(?mind,?case) & ?member(?neutral,?case))>] -> CEASE[SEM=?member] OPENING[WITNESS=uncertain,SUPPLIED=prose,SEM=?case] LIFE[CASE=acc,SEM=?life] MIND[CASE=acc,SEM=?mind] NEUTRAL[CASE=acc,SEM=?neutral] AND EMPHASIS
-FORM[SEM=<TerminalCount(?case,?count)>] -> FORMR[CASE=loc,SEM=?case] EIGHT[CNT=8,SEM=?count]
-DESIRE[SEM=<(AlternativeCount(?case,?ten) & AlternativeCount(?case,?nine) & AlternativeCount(?case,?eight))>] -> DESIRER[CASE=loc,SEM=?case] TEN[CNT=10,SEM=?ten] NINE[CNT=9,SEM=?nine] EIGHT[CNT=8,SEM=?eight] OR
+S[SEM=<(?formless & ?form & ?desire)>] -> FORMLESS[SCOPE=?s,SEM=?formless] FORM[SCOPE=?s,SEM=?form] DESIRE[SCOPE=?s,SEM=?desire]
+FORMLESS[SCOPE=death_cessation,SEM=<(DeathCessationScope & ?member(?life,?case) & ?member(?mind,?case) & ?member(?neutral,?case))>] -> CEASE[SEM=?member] OPENING[WITNESS=uncertain,SUPPLIED=prose,SEM=?case] LIFE[CASE=acc,SEM=?life] MIND[CASE=acc,SEM=?mind] NEUTRAL[CASE=acc,SEM=?neutral] AND EMPHASIS
+FORM[SCOPE=death_cessation,SEM=<TerminalCount(?case,?count)>] -> FORMR[CASE=loc,SEM=?case] EIGHT[CNT=8,SEM=?count]
+DESIRE[SCOPE=death_cessation,SEM=<(AlternativeCount(?case,?ten) & AlternativeCount(?case,?nine) & AlternativeCount(?case,?eight))>] -> DESIRER[CASE=loc,SEM=?case] TEN[CNT=10,SEM=?ten] NINE[CNT=9,SEM=?nine] EIGHT[CNT=8,SEM=?eight] OR
 CEASE[SEM=<\f.\c.CeasesAt(f,c)>] -> 'nirodhayati'
 OPENING[WITNESS=uncertain,SUPPLIED=prose,SEM=<formless_base>] -> 'uparamān-nārūpye'
 LIFE[CASE=acc,SEM=<life_f>] -> 'jīvitam'
@@ -86,7 +88,7 @@ uncertain opening supply its context, not an intention to cause death.
 | [0, 7) | `FORMLESS` | three named terminal Faculties, uncertain opening retained |
 | [7, 9) | `FORM` | eight in the Form realm |
 | [9, 14) | `DESIRE` | ten/nine/eight alternatives |
-| [0, 14) | `S` | terminal count under death scope |
+| [0, 14) | `S` | death-cessation scope shared by all realm counts |
 
 ## 5. Translation
 
@@ -126,7 +128,8 @@ uncertain opening supply its context, not an intention to cause death.
 Desire-realm alternatives are the verse-derived claims. The base-case
 qualification, exact member-sets, gradual case, and wholesome addition
 are supplied by the continuous Bhāṣya, including its cross-verse
-continuation.
+continuation. The prose model makes the Desire-realm alternatives
+explicit and applies the five-Faculty addition to every stated case.
 
 ```nltk-sem
 terminal_member : \f.\c.CeasesAt(f,c)
@@ -144,13 +147,20 @@ death_scope : DeathCessationScope
 all x.(CeasesAt(x,formless_base) <-> (x = life_f | x = mind_f | x = neutral_f))
 all x.(CeasesAt(x,form_base) <-> (CeasesAt(x,formless_base) | SensoryFive(x)))
 all x.(CeasesAt(x,gradual_base) <-> (x = body_f | x = life_f | x = mind_f | x = neutral_f))
+all x.(CeasesAt(x,desire_none) <-> CeasesAt(x,form_base))
+all x.(CeasesAt(x,desire_one) <-> (CeasesAt(x,desire_none) | x = male_f))
+all x.(CeasesAt(x,desire_both) <-> (CeasesAt(x,desire_none) | x = female_f | x = male_f))
+TerminalCount(desire_none,eight) & TerminalCount(desire_one,nine) & TerminalCount(desire_both,ten)
 (BaseConsciousness(afflicted) & BaseConsciousness(indeterminate))
 
 # THEORY cross_verse_wholesome_addition
 # EXPECT cross_verse_wholesome_addition T
-all x.(CeasesWholesomely(x,formless_base) <-> (CeasesAt(x,formless_base) | FaithFive(x)))
-all x.(CeasesWholesomely(x,form_base) <-> (CeasesAt(x,form_base) | FaithFive(x)))
+all c.(TerminalContext(c) -> all x.(CeasesWholesomely(x,c) <-> (CeasesAt(x,c) | FaithFive(x))))
 (AdditionalCount(wholesome,five) & TerminalCount(formless_wholesome,eight) & TerminalCount(form_wholesome,thirteen))
+
+# THEORY rejected_desire_both_equals_form
+# EXPECT rejected_desire_both_equals_form F
+all x.(CeasesAt(x,desire_both) <-> CeasesAt(x,form_base))
 
 # THEORY rejected_terminal_set_is_initial_maturation_set
 # EXPECT rejected_terminal_set_is_initial_maturation_set F
@@ -174,6 +184,11 @@ formless_base => formless_terminal
 form_base => form_terminal
 desire_base => desire_terminal
 gradual_base => gradual_terminal
+desire_none => desire_no_marks
+desire_one => desire_one_mark
+desire_both => desire_both_marks
+female_f => female
+male_f => male
 formless_wholesome => formless_wholesome_terminal
 form_wholesome => form_wholesome_terminal
 eight => count_eight
@@ -185,20 +200,22 @@ afflicted => afflicted_consciousness
 indeterminate => indeterminate_consciousness
 wholesome => wholesome_consciousness
 DeathCessationScope => True
-TerminalCount => {(form_terminal,count_eight),(formless_wholesome_terminal,count_eight),(form_wholesome_terminal,count_thirteen)}
+TerminalCount => {(form_terminal,count_eight),(desire_no_marks,count_eight),(desire_one_mark,count_nine),(desire_both_marks,count_ten),(formless_wholesome_terminal,count_eight),(form_wholesome_terminal,count_thirteen)}
 AlternativeCount => {(desire_terminal,count_ten),(desire_terminal,count_nine),(desire_terminal,count_eight)}
-CeasesAt => {(life,formless_terminal),(mind,formless_terminal),(neutral,formless_terminal),(life,form_terminal),(mind,form_terminal),(neutral,form_terminal),(eye,form_terminal),(ear,form_terminal),(nose,form_terminal),(tongue,form_terminal),(body,form_terminal),(body,gradual_terminal),(life,gradual_terminal),(mind,gradual_terminal),(neutral,gradual_terminal)}
+TerminalContext => {formless_terminal,form_terminal,desire_no_marks,desire_one_mark,desire_both_marks,gradual_terminal}
+CeasesAt => {(life,formless_terminal),(mind,formless_terminal),(neutral,formless_terminal),(life,form_terminal),(mind,form_terminal),(neutral,form_terminal),(eye,form_terminal),(ear,form_terminal),(nose,form_terminal),(tongue,form_terminal),(body,form_terminal),(body,gradual_terminal),(life,gradual_terminal),(mind,gradual_terminal),(neutral,gradual_terminal),(life,desire_no_marks),(mind,desire_no_marks),(neutral,desire_no_marks),(eye,desire_no_marks),(ear,desire_no_marks),(nose,desire_no_marks),(tongue,desire_no_marks),(body,desire_no_marks),(life,desire_one_mark),(mind,desire_one_mark),(neutral,desire_one_mark),(eye,desire_one_mark),(ear,desire_one_mark),(nose,desire_one_mark),(tongue,desire_one_mark),(body,desire_one_mark),(male,desire_one_mark),(life,desire_both_marks),(mind,desire_both_marks),(neutral,desire_both_marks),(eye,desire_both_marks),(ear,desire_both_marks),(nose,desire_both_marks),(tongue,desire_both_marks),(body,desire_both_marks),(female,desire_both_marks),(male,desire_both_marks)}
 SensoryFive => {eye,ear,nose,tongue,body}
 FaithFive => {faith,vigor,mindfulness,concentration,comprehension}
 BaseConsciousness => {afflicted_consciousness,indeterminate_consciousness}
 AdditionalCount => {(wholesome_consciousness,count_five)}
-CeasesWholesomely => {(life,formless_terminal),(mind,formless_terminal),(neutral,formless_terminal),(faith,formless_terminal),(vigor,formless_terminal),(mindfulness,formless_terminal),(concentration,formless_terminal),(comprehension,formless_terminal),(life,form_terminal),(mind,form_terminal),(neutral,form_terminal),(eye,form_terminal),(ear,form_terminal),(nose,form_terminal),(tongue,form_terminal),(body,form_terminal),(faith,form_terminal),(vigor,form_terminal),(mindfulness,form_terminal),(concentration,form_terminal),(comprehension,form_terminal)}
+CeasesWholesomely => {(life,formless_terminal),(mind,formless_terminal),(neutral,formless_terminal),(faith,formless_terminal),(vigor,formless_terminal),(mindfulness,formless_terminal),(concentration,formless_terminal),(comprehension,formless_terminal),(life,form_terminal),(mind,form_terminal),(neutral,form_terminal),(eye,form_terminal),(ear,form_terminal),(nose,form_terminal),(tongue,form_terminal),(body,form_terminal),(faith,form_terminal),(vigor,form_terminal),(mindfulness,form_terminal),(concentration,form_terminal),(comprehension,form_terminal),(life,desire_no_marks),(mind,desire_no_marks),(neutral,desire_no_marks),(eye,desire_no_marks),(ear,desire_no_marks),(nose,desire_no_marks),(tongue,desire_no_marks),(body,desire_no_marks),(faith,desire_no_marks),(vigor,desire_no_marks),(mindfulness,desire_no_marks),(concentration,desire_no_marks),(comprehension,desire_no_marks),(life,desire_one_mark),(mind,desire_one_mark),(neutral,desire_one_mark),(eye,desire_one_mark),(ear,desire_one_mark),(nose,desire_one_mark),(tongue,desire_one_mark),(body,desire_one_mark),(male,desire_one_mark),(faith,desire_one_mark),(vigor,desire_one_mark),(mindfulness,desire_one_mark),(concentration,desire_one_mark),(comprehension,desire_one_mark),(life,desire_both_marks),(mind,desire_both_marks),(neutral,desire_both_marks),(eye,desire_both_marks),(ear,desire_both_marks),(nose,desire_both_marks),(tongue,desire_both_marks),(body,desire_both_marks),(female,desire_both_marks),(male,desire_both_marks),(faith,desire_both_marks),(vigor,desire_both_marks),(mindfulness,desire_both_marks),(concentration,desire_both_marks),(comprehension,desire_both_marks),(body,gradual_terminal),(life,gradual_terminal),(mind,gradual_terminal),(neutral,gradual_terminal),(faith,gradual_terminal),(vigor,gradual_terminal),(mindfulness,gradual_terminal),(concentration,gradual_terminal),(comprehension,gradual_terminal)}
 ```
 
 The sensory five and the five beginning with faith are different sets.
 The Desire-realm base sets add neither, one, or both sexual Faculties
-to the Form terminal eight. Wholesome counts are the respective base
-counts plus five: 8, 13, 15/14/13, and 9 for gradual death. Only the
+to the Form terminal eight. `TerminalContext` ranges over those three
+cases, Formless, Form, and gradual death. Wholesome counts are
+the respective base counts plus five: 8, 13, 15/14/13, and 9 for gradual death. Only the
 Formless eight and Form thirteen are expressly recited; the others
 are calculated from the stated addition. These checks do not settle
 the uncertain opening wording or prove the account of dying.

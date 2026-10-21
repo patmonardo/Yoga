@@ -475,6 +475,8 @@ class IndriyaPilotTests(unittest.TestCase):
             ("NINE[CNT=9,SEM=<", "NINE[CNT=8,SEM=<"),
             ("ALSO[SCOPE=additional_status] ->",
              "ALSO[SCOPE=exclusive_status] ->"),
+            ("FIVECLAUSE[INHERITED=?s,SEM=?five]",
+             "FIVECLAUSE[INHERITED=seeing,SEM=?five]"),
         ):
             with self.subTest(feature=old):
                 self.assertIn(old, text)
@@ -527,6 +529,8 @@ class IndriyaPilotTests(unittest.TestCase):
              "THEM[CASE=ins,REF=nonspontaneous] ->"),
             ("TWO[CNT=2,SEM=<", "TWO[CNT=6,SEM=<"),
             ("HIGHERR[CASE=loc,SEM=<", "HIGHERR[CASE=nom,SEM=<"),
+            ("HIGHER[SCOPE=?s,SEM=?higher]",
+             "HIGHER[SCOPE=other_scope,SEM=?higher]"),
         ):
             with self.subTest(feature=old):
                 self.assertIn(old, text)
@@ -547,25 +551,33 @@ class IndriyaPilotTests(unittest.TestCase):
         valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
         base = {
             case: {faculty for faculty, context in valuation["CeasesAt"] if context == case}
-            for case in ("formless_terminal", "form_terminal", "gradual_terminal")
+            for case in (
+                "formless_terminal", "form_terminal", "gradual_terminal",
+                "desire_no_marks", "desire_one_mark", "desire_both_marks",
+            )
         }
-        self.assertEqual([len(group) for group in base.values()], [3, 8, 4])
+        self.assertEqual([len(group) for group in base.values()], [3, 8, 4, 8, 9, 10])
         self.assertEqual(base["gradual_terminal"], {"body", "life", "mind", "neutral"})
         sensory = {x[0] for x in valuation["SensoryFive"]}
         faith = {x[0] for x in valuation["FaithFive"]}
         self.assertEqual((len(sensory), len(faith)), (5, 5))
         self.assertFalse(sensory & faith)
         self.assertEqual(base["form_terminal"], base["formless_terminal"] | sensory)
-        for case, expected in (("formless_terminal", 8), ("form_terminal", 13)):
+        for case, expected in (
+            ("formless_terminal", 8), ("form_terminal", 13),
+            ("desire_no_marks", 13), ("desire_one_mark", 14),
+            ("desire_both_marks", 15), ("gradual_terminal", 9),
+        ):
             actual = {faculty for faculty, context in valuation["CeasesWholesomely"]
                       if context == case}
             self.assertEqual(actual, base[case] | faith)
             self.assertEqual(len(actual), expected)
-        desire_sets = [
-            base["form_terminal"], base["form_terminal"] | {"male"},
-            base["form_terminal"] | {"male", "female"},
-        ]
+        desire_sets = [base[case] for case in
+                       ("desire_no_marks", "desire_one_mark", "desire_both_marks")]
         self.assertEqual([len(group) for group in desire_sets], [8, 9, 10])
+        self.assertEqual(desire_sets[0], base["form_terminal"])
+        self.assertEqual(desire_sets[1] - desire_sets[0], {"male"})
+        self.assertEqual(desire_sets[2] - desire_sets[0], {"female", "male"})
         self.assertEqual([len(group | faith) for group in desire_sets], [13, 14, 15])
         self.assertEqual(len(base["gradual_terminal"] | faith), 9)
         for old, new in (
@@ -573,6 +585,8 @@ class IndriyaPilotTests(unittest.TestCase):
              "OPENING[WITNESS=settled,SUPPLIED=prose,SEM=<"),
             ("FORMR[CASE=loc,SEM=<", "FORMR[CASE=nom,SEM=<"),
             ("TEN[CNT=10,SEM=<", "TEN[CNT=8,SEM=<"),
+            ("DESIRE[SCOPE=?s,SEM=?desire]",
+             "DESIRE[SCOPE=other_scope,SEM=?desire]"),
         ):
             with self.subTest(feature=old):
                 self.assertIn(old, text)
@@ -591,6 +605,17 @@ class IndriyaPilotTests(unittest.TestCase):
         tree = list(FeatureChartParser(grammar).parse(tokens))[0]
         self.assertEqual([len(child.leaves()) for child in tree], [3, 4, 2, 2])
         valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        verse = tree.label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        additions = valuation["AdditionalCount"]
+        self.assertEqual(len(valuation["TerminalContext"]), 6)
+        for context, in valuation["TerminalContext"]:
+            with self.subTest(death_context=context):
+                valuation["AdditionalCount"] = additions - {(context, "count_five")}
+                model = Model(valuation.domain, valuation)
+                self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["AdditionalCount"] = additions
         for name, count in (
             ("CommonSix", 6), ("StreamNine", 9), ("ArhatFixedEight", 8),
             ("SequentialMundaneSeven", 7), ("SequentialSupraEight", 8),
@@ -666,6 +691,19 @@ class IndriyaPilotTests(unittest.TestCase):
                     model = Model(valuation.domain, valuation)
                     self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
         valuation["Possesses"] = original
+        # An existential reading of avaśyam would miss a person lacking life.
+        altered = text.replace(
+            "NECESSARILY[SEM=<\\P.all x.P(x)>] ->",
+            "NECESSARILY[SEM=<\\P.exists x.P(x)>] ->", 1,
+        )
+        self.assertNotEqual(altered, text)
+        weak_grammar, weak_tokens = grammar_and_tokens(altered)
+        weak_verse = list(FeatureChartParser(weak_grammar).parse(weak_tokens))[0].label()["SEM"].simplify()
+        valuation["Possesses"] = original - {("formless_person", "life")}
+        weak_model = Model(valuation.domain, valuation)
+        self.assertTrue(weak_model.satisfy(weak_verse, Assignment(weak_model.domain)))
+        self.assertFalse(weak_model.satisfy(verse, Assignment(weak_model.domain)))
+        valuation["Possesses"] = original
         self.assertTrue(any(faculty not in triad for _, faculty in original))
         self.assertIn(("formless_person", "mind"), original)
         self.assertNotIn(("formless_person", "eye"), original)
@@ -696,6 +734,16 @@ class IndriyaPilotTests(unittest.TestCase):
         tree = list(FeatureChartParser(grammar).parse(tokens))[0]
         self.assertEqual([len(child.leaves()) for child in tree], [2, 4, 3, 1])
         valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        verse = tree.label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        counts = valuation["NecessaryCount"]
+        for faculty in ("eye", "ear", "nose", "tongue"):
+            with self.subTest(eye_group_faculty=faculty):
+                valuation["NecessaryCount"] = counts - {(faculty, "count_five")}
+                model = Model(valuation.domain, valuation)
+                self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["NecessaryCount"] = counts
         requires = valuation["Requires"]
         closures = {
             given: {companion for source, companion in requires if source == given}
@@ -744,6 +792,16 @@ class IndriyaPilotTests(unittest.TestCase):
         tree = list(FeatureChartParser(grammar).parse(tokens))[0]
         self.assertEqual([len(child.leaves()) for child in tree], [1, 3, 3])
         valuation = load_valuation(dict(BLOCK.findall(section(text, 8)))["nltk-valuation"])
+        verse = tree.label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        counts = valuation["NecessaryCount"]
+        for given in ("knowledge", "one_who_has_known"):
+            with self.subTest(eleven_case=given):
+                valuation["NecessaryCount"] = counts - {(given, "count_eleven")}
+                model = Model(valuation.domain, valuation)
+                self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["NecessaryCount"] = counts
         common = {x[0] for x in valuation["CommonTen"]}
         self.assertEqual(len(common), 10)
         sets = {
@@ -763,8 +821,8 @@ class IndriyaPilotTests(unittest.TestCase):
         self.assertIn(("prospective_person", "pain"), valuation["Possesses"])
         self.assertNotIn(("prospective_person", "pain"), valuation["OccurringNow"])
         for old, new in (
-            ("TWOCASES[CASE=nom,NUM=sg,GEN=m,READING=alternative] ->",
-             "TWOCASES[CASE=nom,NUM=sg,GEN=m,READING=joint] ->"),
+            ("TWOCASES[CASE=nom,NUM=sg,GEN=m,READING=alternative,SEM=<",
+             "TWOCASES[CASE=nom,NUM=sg,GEN=m,READING=joint,SEM=<"),
             ("THIRTEEN[CASE=ins,CNT=13,SEM=<",
              "THIRTEEN[CASE=ins,CNT=11,SEM=<"),
             ("CARRY[CONTINUED=previous_subject,SEM=<",
@@ -793,6 +851,16 @@ class IndriyaPilotTests(unittest.TestCase):
             for case in ("rootless_minimum", "formless_minimum")
         }
         rootless, formless = sets.values()
+        verse = tree.label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        members = valuation["MinimumMember"]
+        for case, faculty in members:
+            with self.subTest(minimum_case=case, missing_faculty=faculty):
+                valuation["MinimumMember"] = members - {(case, faculty)}
+                model = Model(valuation.domain, valuation)
+                self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        valuation["MinimumMember"] = members
         self.assertEqual((len(rootless), len(formless)), (8, 8))
         self.assertEqual(rootless & formless, {"neutral", "life", "mind"})
         self.assertEqual(rootless - formless, {"body", "pain", "pleasure", "gladness", "distress"})
@@ -867,7 +935,16 @@ class IndriyaPilotTests(unittest.TestCase):
         self.assertFalse(Model(valuation.domain, valuation).satisfy(
             verse, Assignment(valuation.domain),
         ))
+        valuation["StillAttached"] = {("attached_trainee",)}
+        counts = valuation["MaximumCount"]
+        valuation["MaximumCount"] = counts - {("attached_trainee", "count_nineteen")}
+        self.assertFalse(Model(valuation.domain, valuation).satisfy(
+            verse, Assignment(valuation.domain),
+        ))
+        valuation["MaximumCount"] = counts
         for old, new in (
+            ("SECOND[CNT=19,COUNTSEM=?count,SEM=<",
+             "SECOND[CNT=18,COUNTSEM=?count,SEM=<"),
             ("NINETEEN[CASE=ins,CNT=19,SEM=<",
              "NINETEEN[CASE=ins,CNT=22,SEM=<"),
             ("FIRSTEXCLUSION[CASE=ins,STAINLESS=3,SEM=<",
@@ -915,6 +992,19 @@ class IndriyaPilotTests(unittest.TestCase):
                 self.assertEqual([len(c - {"odor", "taste"}) for c in clusters], [6, 7, 8])
         self.assertEqual(valuation["Soundless"], valuation["DesireRule"])
         verse = tree.label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        for old, new in (
+            ("REALM[CASE=loc,SEM=<\\c.DesireRule(c)>] ->",
+             "REALM[CASE=loc,SEM=<\\c.NoFaculty(c)>] ->"),
+            ("SOUNDLESS[CASE=nom,SEM=<\\c.Soundless(c)>] ->",
+             "SOUNDLESS[CASE=nom,SEM=<\\c.NoFaculty(c)>] ->"),
+        ):
+            with self.subTest(lexical_scope=old):
+                self.assertIn(old, text)
+                altered_grammar, altered_tokens = grammar_and_tokens(text.replace(old, new, 1))
+                altered_verse = list(FeatureChartParser(altered_grammar).parse(altered_tokens))[0].label()["SEM"].simplify()
+                self.assertFalse(model.satisfy(altered_verse, Assignment(model.domain)))
         original = valuation["Soundless"]
         for case in ("soundless_base", "soundless_body", "soundless_eye"):
             valuation["Soundless"] = original - {(case,)}
@@ -965,6 +1055,16 @@ class IndriyaPilotTests(unittest.TestCase):
         self.assertEqual(len(valuation["ClassName"]), 5)
         self.assertEqual(len(factors), 2)
         verse = tree.label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        altered = text.replace(
+            "ACQUIRED[CASE=ins,SEM=<\\x.AcquisitionAccompanies(x)>] ->",
+            "ACQUIRED[CASE=ins,SEM=<\\x.MarksAccompany(x)>] ->", 1,
+        )
+        self.assertNotEqual(altered, text)
+        altered_grammar, altered_tokens = grammar_and_tokens(altered)
+        altered_verse = list(FeatureChartParser(altered_grammar).parse(altered_tokens))[0].label()["SEM"].simplify()
+        self.assertFalse(model.satisfy(altered_verse, Assignment(model.domain)))
         for predicate, item in (
             ("Accompanies", ("factor_a", "consciousness_a")),
             ("MarksAccompany", ("external_form",)),
@@ -1011,6 +1111,18 @@ class IndriyaPilotTests(unittest.TestCase):
         original = valuation["Present"]
         self.assertEqual(original, {(c, f) for c in moments for f in kinds})
         verse = tree.label()["SEM"].simplify()
+        existential = text.replace(
+            "EVERY[CASE=loc,SCOPE=every_moment,SEM=<\\P.all c.(ConsciousnessMoment(c) -> P(c))>] ->",
+            "EVERY[CASE=loc,SCOPE=every_moment,SEM=<\\P.exists c.(ConsciousnessMoment(c) & P(c))>] ->", 1,
+        )
+        self.assertNotEqual(existential, text)
+        weak_grammar, weak_tokens = grammar_and_tokens(existential)
+        weak_verse = list(FeatureChartParser(weak_grammar).parse(weak_tokens))[0].label()["SEM"].simplify()
+        valuation["Present"] = original - {("moment_b", "concentration_kind")}
+        weak_model = Model(valuation.domain, valuation)
+        self.assertTrue(weak_model.satisfy(weak_verse, Assignment(weak_model.domain)))
+        self.assertFalse(weak_model.satisfy(verse, Assignment(weak_model.domain)))
+        valuation["Present"] = original
         for pair in original:
             with self.subTest(missing=pair):
                 valuation["Present"] = original - {pair}
@@ -1025,8 +1137,8 @@ class IndriyaPilotTests(unittest.TestCase):
             }), 1)
         for old, new in (
             ("AND[READING=conjunction] ->", "AND[READING=alternative] ->"),
-            ("EVERY[CASE=loc,SCOPE=every_moment] ->",
-             "EVERY[CASE=loc,SCOPE=somewhere_in_stream] ->"),
+            ("EVERY[CASE=loc,SCOPE=every_moment,SEM=<",
+             "EVERY[CASE=loc,SCOPE=somewhere_in_stream,SEM=<"),
             ("TEN[CNT=10,SEM=<", "TEN[CNT=9,SEM=<"),
         ):
             with self.subTest(feature=old):
@@ -1067,6 +1179,30 @@ class IndriyaPilotTests(unittest.TestCase):
         self.assertNotIn(valuation["nondelusion"], wholesome)
         self.assertNotEqual(valuation["equanimity"], valuation["neutral_feeling"])
         verse = tree.label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        weak = text.replace(
+            "ALWAYS[SCOPE=every_moment,SEM=<\\P.all c.P(c)>] ->",
+            "ALWAYS[SCOPE=every_moment,SEM=<\\P.exists c.P(c)>] ->", 1,
+        )
+        self.assertNotEqual(weak, text)
+        weak_grammar, weak_tokens = grammar_and_tokens(weak)
+        weak_verse = list(FeatureChartParser(weak_grammar).parse(weak_tokens))[0].label()["SEM"].simplify()
+        wholesome_moments = valuation["WholesomeMoment"]
+        valuation["WholesomeMoment"] = wholesome_moments | {("other_moment",)}
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        self.assertTrue(model.satisfy(weak_verse, Assignment(model.domain)))
+        valuation["WholesomeMoment"] = wholesome_moments
+        broad = text.replace(
+            "WHOLESOME[CASE=loc,SCOPE=wholesome_consciousness,SEM=<\\P.\\c.(WholesomeMoment(c) -> P(c))>] ->",
+            "WHOLESOME[CASE=loc,SCOPE=wholesome_consciousness,SEM=<\\P.\\c.(ConsciousnessMoment(c) -> P(c))>] ->", 1,
+        )
+        self.assertNotEqual(broad, text)
+        broad_grammar, broad_tokens = grammar_and_tokens(broad)
+        broad_verse = list(FeatureChartParser(broad_grammar).parse(broad_tokens))[0].label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(broad_verse, Assignment(model.domain)))
         for kind in wholesome:
             with self.subTest(missing=kind):
                 valuation["Present"] = original - {("wholesome_moment", kind)}
@@ -1078,9 +1214,9 @@ class IndriyaPilotTests(unittest.TestCase):
         for old, new in (
             ("ROOTPAIR[CNT=2,SEM=<", "ROOTPAIR[CNT=3,SEM=<"),
             ("HEEDFUL[PRIVATIVE=true,SEM=<", "HEEDFUL[PRIVATIVE=false,SEM=<"),
-            ("WHOLESOME[CASE=loc,SCOPE=wholesome_consciousness] ->",
-             "WHOLESOME[CASE=loc,SCOPE=all_consciousness] ->"),
-            ("ALWAYS[SCOPE=every_moment] ->", "ALWAYS[SCOPE=sometimes] ->"),
+            ("WHOLESOME[CASE=loc,SCOPE=wholesome_consciousness,SEM=<",
+             "WHOLESOME[CASE=loc,SCOPE=all_consciousness,SEM=<"),
+            ("ALWAYS[SCOPE=every_moment,SEM=<", "ALWAYS[SCOPE=sometimes,SEM=<"),
         ):
             with self.subTest(feature=old):
                 self.assertIn(old, text)
@@ -1128,6 +1264,30 @@ class IndriyaPilotTests(unittest.TestCase):
         self.assertTrue(valuation["UnwholesomeMoment"] < valuation["AfflictedMoment"])
         original = valuation["Present"]
         verse = tree.label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
+        weak = text.replace(
+            "ALWAYS[SCOPE=every,SEM=<\\P.all c.P(c)>] ->",
+            "ALWAYS[SCOPE=every,SEM=<\\P.exists c.P(c)>] ->", 1,
+        )
+        self.assertNotEqual(weak, text)
+        weak_grammar, weak_tokens = grammar_and_tokens(weak)
+        weak_verse = list(FeatureChartParser(weak_grammar).parse(weak_tokens))[0].label()["SEM"].simplify()
+        afflicted = valuation["AfflictedMoment"]
+        valuation["AfflictedMoment"] = afflicted | {("clear_moment",)}
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        self.assertTrue(model.satisfy(weak_verse, Assignment(model.domain)))
+        valuation["AfflictedMoment"] = afflicted
+        broad = text.replace(
+            "UNWHOLESOME[CASE=loc,SUPPLIED=prose_universal,SEM=<\\P.all c.(UnwholesomeMoment(c) -> P(c))>] ->",
+            "UNWHOLESOME[CASE=loc,SUPPLIED=prose_universal,SEM=<\\P.all c.(AfflictedMoment(c) -> P(c))>] ->", 1,
+        )
+        self.assertNotEqual(broad, text)
+        broad_grammar, broad_tokens = grammar_and_tokens(broad)
+        broad_verse = list(FeatureChartParser(broad_grammar).parse(broad_tokens))[0].label()["SEM"].simplify()
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(broad_verse, Assignment(model.domain)))
         required = {
             (c[0], f) for c in valuation["AfflictedMoment"] for f in six
         } | {("unwholesome_moment", f) for f in pair}
@@ -1142,7 +1302,7 @@ class IndriyaPilotTests(unittest.TestCase):
         self.assertTrue(model.satisfy(verse, Assignment(model.domain)))
         for old, new in (
             ("SIX[CNT=6,SEM=<", "SIX[CNT=10,SEM=<"),
-            ("ALWAYS[SCOPE=every] ->", "ALWAYS[SCOPE=sometimes] ->"),
+            ("ALWAYS[SCOPE=every,SEM=<", "ALWAYS[SCOPE=sometimes,SEM=<"),
             ("BUT[READING=scope_contrast] ->", "BUT[READING=replacement] ->"),
         ):
             with self.subTest(feature=old):
@@ -1180,6 +1340,18 @@ class IndriyaPilotTests(unittest.TestCase):
                 model = Model(valuation.domain, valuation)
                 self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
         valuation["LimitedKind"] = original
+        disjunctive = text.replace(
+            "AND[READING=enumeration,SEM=<\\L.\\R.(L & R)>] ->",
+            "AND[READING=enumeration,SEM=<\\L.\\R.(L | R)>] ->", 1,
+        )
+        self.assertNotEqual(disjunctive, text)
+        weak_grammar, weak_tokens = grammar_and_tokens(disjunctive)
+        weak_verse = list(FeatureChartParser(weak_grammar).parse(weak_tokens))[0].label()["SEM"].simplify()
+        valuation["LimitedKind"] = original - {("anger_kind",)}
+        model = Model(valuation.domain, valuation)
+        self.assertFalse(model.satisfy(verse, Assignment(model.domain)))
+        self.assertTrue(model.satisfy(weak_verse, Assignment(model.domain)))
+        valuation["LimitedKind"] = original
         self.assertEqual(
             {f for f, _ in valuation["AssociatedAffliction"]}, kinds,
         )
@@ -1203,7 +1375,7 @@ class IndriyaPilotTests(unittest.TestCase):
              "SEVEN[CASE=nom,NUM=pl,CNT=6,SEM=<"),
             ("THREE[CASE=nom,NUM=pl,CNT=3,SEM=<",
              "THREE[CASE=nom,NUM=pl,CNT=4,SEM=<"),
-            ("AND[READING=enumeration] ->", "AND[READING=cooccurrence] ->"),
+            ("AND[READING=enumeration,SEM=<", "AND[READING=cooccurrence,SEM=<"),
         ):
             with self.subTest(feature=old):
                 self.assertIn(old, text)

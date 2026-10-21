@@ -55,15 +55,17 @@ numerals. The negative qualifies the birth-agent, not acquisition in
 general. *Taiḥ* resumes the excluded spontaneously born beings and
 introduces their alternative counts. The Bhāṣya supplies the conditions
 for those alternatives and identifies the higher realm as Formless.
+`SCOPE=initial_maturation` is shared by all four clause constituents;
+the count predicates retain that scope after the explicit words end.
 
 ```nltk-fcfg
 % start S
 # tokens: kāmeṣu ādau vipākaḥ dve labhyate na upapādukaiḥ taiḥ ṣaṭ vā sapta vā aṣṭau vā ṣaṭ rūpeṣu ekam uttare
-S[SEM=<(?first & ?spontaneous & ?form & ?higher)>] -> FIRST[SEM=?first] SPONTANEOUS[SEM=?spontaneous] FORMCLAUSE[SEM=?form] HIGHER[SEM=?higher]
-FIRST[SEM=<(InitialMaturationScope & InitialCount(?case,?count))>] -> DESIRE[CASE=loc] INITIAL RESULT TWO[CNT=2,SEM=?count] ACQUIRE[NUM=sg] NOT BIRTH[CASE=ins,REF=spontaneous,SEM=?case]
-SPONTANEOUS[SEM=<(AlternativeCount(spontaneous_desire,?six) & AlternativeCount(spontaneous_desire,?seven) & AlternativeCount(spontaneous_desire,?eight))>] -> THEM[CASE=ins,REF=spontaneous] SIX[CNT=6,SEM=?six] OR SEVEN[CNT=7,SEM=?seven] OR EIGHT[CNT=8,SEM=?eight] OR
-FORMCLAUSE[SEM=<InitialCount(?case,?count)>] -> SIX[CNT=6,SEM=?count] FORM[CASE=loc,SEM=?case]
-HIGHER[SEM=<InitialCount(?case,?count)>] -> ONE[CNT=1,SEM=?count] HIGHERR[CASE=loc,SEM=?case]
+S[SEM=<(?first & ?spontaneous & ?form & ?higher)>] -> FIRST[SCOPE=?s,SEM=?first] SPONTANEOUS[SCOPE=?s,SEM=?spontaneous] FORMCLAUSE[SCOPE=?s,SEM=?form] HIGHER[SCOPE=?s,SEM=?higher]
+FIRST[SCOPE=initial_maturation,SEM=<(InitialMaturationScope & InitialMaturationCount(?case,?count))>] -> DESIRE[CASE=loc] INITIAL RESULT TWO[CNT=2,SEM=?count] ACQUIRE[NUM=sg] NOT BIRTH[CASE=ins,REF=spontaneous,SEM=?case]
+SPONTANEOUS[SCOPE=initial_maturation,SEM=<(AlternativeInitialMaturationCount(spontaneous_desire,?six) & AlternativeInitialMaturationCount(spontaneous_desire,?seven) & AlternativeInitialMaturationCount(spontaneous_desire,?eight))>] -> THEM[CASE=ins,REF=spontaneous] SIX[CNT=6,SEM=?six] OR SEVEN[CNT=7,SEM=?seven] OR EIGHT[CNT=8,SEM=?eight] OR
+FORMCLAUSE[SCOPE=initial_maturation,SEM=<InitialMaturationCount(?case,?count)>] -> SIX[CNT=6,SEM=?count] FORM[CASE=loc,SEM=?case]
+HIGHER[SCOPE=initial_maturation,SEM=<InitialMaturationCount(?case,?count)>] -> ONE[CNT=1,SEM=?count] HIGHERR[CASE=loc,SEM=?case]
 DESIRE[CASE=loc] -> 'kāmeṣu'
 INITIAL -> 'ādau'
 RESULT -> 'vipākaḥ'
@@ -82,8 +84,9 @@ HIGHERR[CASE=loc,SEM=<formless_case>] -> 'uttare'
 ```
 
 The first clause's negative and birth-agent are interpreted jointly as
-the non-spontaneous case. The grammar projects the count claims;
-it does not derive their biological or cosmological truth.
+the non-spontaneous case. The grammar projects initial maturation
+counts in every clause; it does not derive their biological or
+cosmological truth.
 
 ```nltk-dep
 'labhyate' -> 'kāmeṣu' | 'ādau' | 'vipākaḥ' | 'dve' | 'upapādukaiḥ'
@@ -99,7 +102,7 @@ it does not derive their biological or cosmological truth.
 | [7, 14) | `SPONTANEOUS` | resumed birth-agent, six/seven/eight alternatives |
 | [14, 16) | `FORMCLAUSE` | six in the Form realm |
 | [16, 18) | `HIGHER` | one in the higher realm |
-| [0, 18) | `S` | scope carried through all counts |
+| [0, 18) | `S` | initial-maturation scope unified across all four count clauses |
 
 ## 5. Translation
 
@@ -138,24 +141,24 @@ The birth-modes are the account. They are not rewritten as biology.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The SEM records the shared initial-maturation scope
-and count alternatives. The Bhāṣya assigns each spontaneous count to a
-sexual-characteristic condition and supplies the actual Faculty-sets.
+**Kārikā, derived.** The SEM records initial-maturation counts in
+each clause, with the shared scope unified in the chart. The Bhāṣya
+assigns each spontaneous count to a sexual-characteristic condition and supplies the actual Faculty-sets.
 
 ```nltk-sem
-initial_count : \c.\n.InitialCount(c,n)
-alternative_count : \c.\n.AlternativeCount(c,n)
+initial_count : \c.\n.InitialMaturationCount(c,n)
+alternative_count : \c.\n.AlternativeInitialMaturationCount(c,n)
 shared_scope : InitialMaturationScope
 ```
 
 ```nltk-fol
 # THEORY verse
 # EXPECT verse T
-(InitialMaturationScope & InitialCount(nonspontaneous_desire,two) & AlternativeCount(spontaneous_desire,six) & AlternativeCount(spontaneous_desire,seven) & AlternativeCount(spontaneous_desire,eight) & InitialCount(form_case,six) & InitialCount(formless_case,one))
+(InitialMaturationScope & InitialMaturationCount(nonspontaneous_desire,two) & AlternativeInitialMaturationCount(spontaneous_desire,six) & AlternativeInitialMaturationCount(spontaneous_desire,seven) & AlternativeInitialMaturationCount(spontaneous_desire,eight) & InitialMaturationCount(form_case,six) & InitialMaturationCount(formless_case,one))
 
 # THEORY prose
 # EXPECT prose T
-(InitialCount(spontaneous_none,six) & InitialCount(spontaneous_one,seven) & InitialCount(spontaneous_both,eight))
+(InitialMaturationCount(spontaneous_none,six) & InitialMaturationCount(spontaneous_one,seven) & InitialMaturationCount(spontaneous_both,eight))
 all x.(InitiallyMatures(x,nonspontaneous_desire) <-> (x = body_f | x = life_f))
 all x.(InitiallyMatures(x,formless_case) <-> (x = life_f))
 all x.(InitiallyMatures(x,form_case) <-> InitiallyMatures(x,spontaneous_none))
@@ -193,8 +196,8 @@ life_f => life
 mind_f => mind
 neutral_f => neutral
 InitialMaturationScope => True
-InitialCount => {(desire_nonspontaneous,count_two),(desire_spontaneous_none,count_six),(desire_spontaneous_one,count_seven),(desire_spontaneous_both,count_eight),(form_initial,count_six),(formless_initial,count_one)}
-AlternativeCount => {(desire_spontaneous,count_six),(desire_spontaneous,count_seven),(desire_spontaneous,count_eight)}
+InitialMaturationCount => {(desire_nonspontaneous,count_two),(desire_spontaneous_none,count_six),(desire_spontaneous_one,count_seven),(desire_spontaneous_both,count_eight),(form_initial,count_six),(formless_initial,count_one)}
+AlternativeInitialMaturationCount => {(desire_spontaneous,count_six),(desire_spontaneous,count_seven),(desire_spontaneous,count_eight)}
 InitiallyMatures => {(body,desire_nonspontaneous),(life,desire_nonspontaneous),(eye,desire_spontaneous_none),(ear,desire_spontaneous_none),(nose,desire_spontaneous_none),(tongue,desire_spontaneous_none),(body,desire_spontaneous_none),(life,desire_spontaneous_none),(eye,desire_spontaneous_one),(ear,desire_spontaneous_one),(nose,desire_spontaneous_one),(tongue,desire_spontaneous_one),(body,desire_spontaneous_one),(life,desire_spontaneous_one),(male,desire_spontaneous_one),(eye,desire_spontaneous_both),(ear,desire_spontaneous_both),(nose,desire_spontaneous_both),(tongue,desire_spontaneous_both),(body,desire_spontaneous_both),(life,desire_spontaneous_both),(female,desire_spontaneous_both),(male,desire_spontaneous_both),(eye,form_initial),(ear,form_initial),(nose,form_initial),(tongue,form_initial),(body,form_initial),(life,form_initial),(life,formless_initial)}
 AtRelinking => {mind,neutral}
 Afflicted => {mind,neutral}
@@ -206,7 +209,9 @@ Female-Faculty can replace it without changing the count. The two
 characteristics condition which Faculties are counted; they are not
 themselves counted as additional entities. The relinking predicates
 model the two factors under discussion, not everything present then.
-Count-to-set agreement requires separate cardinality tests. These finite
+Count-to-set agreement requires separate cardinality tests.
+`InitialMaturationCount` names what is counted; `InitiallyMatures`
+lists the Bhāṣya-resolved Faculty members for each case. These finite
 checks do not prove the account's birth-mode claims.
 
 ## 9. Interpretive Note

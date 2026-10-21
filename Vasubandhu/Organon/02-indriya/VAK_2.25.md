@@ -44,12 +44,14 @@ External sandhi is opened; the two roots remain one compound token.
 The list is conjunctive. Its nine nominal expressions count ten
 factor-kinds because the root-pair contributes two. Always in the
 wholesome scopes the whole list; consciousness is supplied by the prose.
-The two root-names are also prose-resolved, not extra verse tokens.
+`Kuśale` supplies the wholesome condition, and `sadā` quantifies over
+every moment in that condition. The two root-names are prose-resolved,
+not extra verse tokens.
 
 ```nltk-fcfg
 % start S
 # tokens: śraddhā apramādaḥ praśrabdhiḥ upekṣā hrīḥ apatrapā mūladvayam ahiṃsā ca vīryam ca kuśale sadā
-S[SEM=<all c.(WholesomeMoment(c) -> ?list(c))>] -> TEN[CNT=10,SEM=?list] WHOLESOME[CASE=loc,SCOPE=wholesome_consciousness] ALWAYS[SCOPE=every_moment]
+S[SEM=<?always(?wholesome(?list))>] -> TEN[CNT=10,SEM=?list] WHOLESOME[CASE=loc,SCOPE=wholesome_consciousness,SEM=?wholesome] ALWAYS[SCOPE=every_moment,SEM=?always]
 TEN[CNT=10,SEM=<\c.(Present(c,?a) & Present(c,?b) & Present(c,?d) & Present(c,?e) & Present(c,?f) & Present(c,?g) & ?roots(c) & Present(c,?h) & Present(c,?i))>] -> FAITH[SEM=?a] HEEDFUL[PRIVATIVE=true,SEM=?b] PLIANCY[SEM=?d] EQUANIMITY[SEM=?e] SHAME[SEM=?f] CAUTION[SEM=?g] ROOTPAIR[CNT=2,SEM=?roots] NONHARM[SEM=?h] AND VIGOR[SEM=?i] AND
 FAITH[SEM=<faith>] -> 'śraddhā'
 HEEDFUL[PRIVATIVE=true,SEM=<heedfulness>] -> 'apramādaḥ'
@@ -61,8 +63,8 @@ ROOTPAIR[CNT=2,SEM=<\c.(Present(c,nongreed) & Present(c,nonhatred))>] -> 'mūlad
 NONHARM[SEM=<nonharming>] -> 'ahiṃsā'
 AND -> 'ca'
 VIGOR[SEM=<vigor>] -> 'vīryam'
-WHOLESOME[CASE=loc,SCOPE=wholesome_consciousness] -> 'kuśale'
-ALWAYS[SCOPE=every_moment] -> 'sadā'
+WHOLESOME[CASE=loc,SCOPE=wholesome_consciousness,SEM=<\P.\c.(WholesomeMoment(c) -> P(c))>] -> 'kuśale'
+ALWAYS[SCOPE=every_moment,SEM=<\P.all c.P(c)>] -> 'sadā'
 ```
 
 ```nltk-dep
@@ -83,11 +85,13 @@ ALWAYS[SCOPE=every_moment] -> 'sadā'
 
 > Faith, heedfulness, pliancy, equanimity, moral shame and moral caution,
 > the two roots, non-harming, and vigor are always present in the wholesome.
+
 ### Bhāṣya-informed study translation
 
 > Faith, heedfulness, pliancy, equanimity, moral shame and moral caution,
 > the two roots—non-greed and non-hatred—non-harming, and vigor are
 > always present together in wholesome consciousness.
+
 ## 6. Philosophical Translation
 
 > The wholesome range is narrower than consciousness generally.
@@ -113,14 +117,16 @@ ALWAYS[SCOPE=every_moment] -> 'sadā'
 
 ## 8. Logical Determination
 
-**Kārikā with prose-resolved roots.** Each wholesome moment has
-the ten named kinds. The universal ten of 2.24 remain, and the
+**Kārikā with prose-resolved roots.** `Kuśale` and `sadā` compose
+the restricted universal scope: each wholesome moment has the ten
+named kinds. The universal ten of 2.24 remain, and the
 prose identifies non-delusion with discriminative comprehension
 rather than adding an eleventh wholesome-class member.
 
 ```nltk-sem
 root_pair : \c.(Present(c,nongreed) & Present(c,nonhatred))
-wholesome_scope : \P.all c.(WholesomeMoment(c) -> P(c))
+wholesome_scope : \P.\c.(WholesomeMoment(c) -> P(c))
+always_scope : \P.all c.P(c)
 ```
 
 ```nltk-fol

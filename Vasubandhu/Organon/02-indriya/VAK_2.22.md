@@ -39,6 +39,7 @@ opened for the grammar.
 ## 4. Grammar
 
 The locative and soundless qualification govern all three clauses.
+Their lexical SEM values are shared across the three constituents.
 The subject minimal cluster is carried into the last two. Another
 Faculty does not replace body: the prose says those same nine plus
 one of the four named Faculties. Sound-bearing cases are prose
@@ -47,13 +48,13 @@ extensions, not a fourth clause in the verse.
 ```nltk-fcfg
 % start S
 # tokens: kāme aṣṭadravyakaḥ aśabdaḥ paramāṇuḥ anindriyaḥ kāyendriyī navadravyaḥ daśadravyaḥ aparendriyaḥ
-S[SEM=<(?first & ?body & ?other)>] -> FIRST[SEM=?first] BODYCASE[SEM=?body] OTHERCASE[SEM=?other]
-FIRST[SEM=<(DesireRule(base_cluster) & Soundless(base_cluster) & NoFaculty(base_cluster) & ?count(base_cluster))>] -> REALM[CASE=loc] EIGHT[CASE=nom,CNT=8,SEM=?count] SOUNDLESS[CASE=nom] CLUSTER[CASE=nom] NONE[CASE=nom]
-BODYCASE[SEM=<(DesireRule(body_cluster) & Soundless(body_cluster) & BodyBearing(body_cluster) & ?count(body_cluster))>] -> BODY[CASE=nom] NINE[CASE=nom,CNT=9,SEM=?count]
-OTHERCASE[SEM=<(DesireRule(other_cluster) & Soundless(other_cluster) & BodyBearing(other_cluster) & OtherBearing(other_cluster) & ?count(other_cluster))>] -> TEN[CASE=nom,CNT=10,SEM=?count] OTHER[CASE=nom,RANGE=four_senses,MODE=addition]
-REALM[CASE=loc] -> 'kāme'
+S[SEM=<(?first & ?body & ?other)>] -> FIRST[REALMSEM=?realm,SOUNDSEM=?sound,SEM=?first] BODYCASE[REALMSEM=?realm,SOUNDSEM=?sound,SEM=?body] OTHERCASE[REALMSEM=?realm,SOUNDSEM=?sound,SEM=?other]
+FIRST[REALMSEM=?realm,SOUNDSEM=?sound,SEM=<(?realm(base_cluster) & ?sound(base_cluster) & NoFaculty(base_cluster) & ?count(base_cluster))>] -> REALM[CASE=loc,SEM=?realm] EIGHT[CASE=nom,CNT=8,SEM=?count] SOUNDLESS[CASE=nom,SEM=?sound] CLUSTER[CASE=nom] NONE[CASE=nom]
+BODYCASE[REALMSEM=?realm,SOUNDSEM=?sound,SEM=<(?realm(body_cluster) & ?sound(body_cluster) & BodyBearing(body_cluster) & ?count(body_cluster))>] -> BODY[CASE=nom] NINE[CASE=nom,CNT=9,SEM=?count]
+OTHERCASE[REALMSEM=?realm,SOUNDSEM=?sound,SEM=<(?realm(other_cluster) & ?sound(other_cluster) & BodyBearing(other_cluster) & OtherBearing(other_cluster) & ?count(other_cluster))>] -> TEN[CASE=nom,CNT=10,SEM=?count] OTHER[CASE=nom,RANGE=four_senses,MODE=addition]
+REALM[CASE=loc,SEM=<\c.DesireRule(c)>] -> 'kāme'
 EIGHT[CASE=nom,CNT=8,SEM=<\c.Count(c,eight)>] -> 'aṣṭadravyakaḥ'
-SOUNDLESS[CASE=nom] -> 'aśabdaḥ'
+SOUNDLESS[CASE=nom,SEM=<\c.Soundless(c)>] -> 'aśabdaḥ'
 CLUSTER[CASE=nom] -> 'paramāṇuḥ'
 NONE[CASE=nom] -> 'anindriyaḥ'
 BODY[CASE=nom] -> 'kāyendriyī'
@@ -108,12 +109,14 @@ OTHER[CASE=nom,RANGE=four_senses,MODE=addition] -> 'aparendriyaḥ'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The verse model keeps Desire-Realm and
-soundless scope in every clause. The prose inventories below are
-constituent-kind counts, not numbers of individual particles or
-Essences. Sound adds one only to the qualified configurations.
+**Kārikā, derived.** The locative and privative adjectives supply
+shared Desire-Realm and soundless scopes to every clause. The prose
+inventories below are constituent-kind counts, not numbers of individual
+particles or Essences. Sound adds one only to the qualified configurations.
 
 ```nltk-sem
+realm_scope : \c.DesireRule(c)
+soundless_scope : \c.Soundless(c)
 eight_count : \c.Count(c,eight)
 nine_count : \c.Count(c,nine)
 ten_count : \c.Count(c,ten)

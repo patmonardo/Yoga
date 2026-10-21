@@ -45,15 +45,16 @@ The instrumental eleven belongs to the report of attainment. The
 genitive one person depends on possibility, and the ablative gives
 the explanation. It does not say all eleven are possessed at once.
 In the second clause, the masculine subject and predicate describe
-the person. Necessarily governs the possession implication; it does
-not turn possession into simultaneous occurrence of all three.
+the person. Necessarily scopes the possession implication for any
+person; it does not turn possession into simultaneous occurrence of all
+three. The `avaśyam` lexical SEM supplies that universal scope.
 
 ```nltk-fcfg
 % start S
 # tokens: ekādaśabhiḥ arhattvam uktam tu ekasya saṃbhavāt upekṣā-jīvita-mano-yuktaḥ avaśyam traya-anvitaḥ
 S[SEM=<(?report & ?possession)>] -> REPORT[SEM=?report] POSSESSION[SEM=?possession]
 REPORT[SEM=<(ReportedAttainmentCount(?fruit,?count) & ?reason(?person))>] -> ELEVEN[CASE=ins,CNT=11,SEM=?count] FRUIT[CASE=nom,GEN=n,SEM=?fruit] SAID[CASE=nom,GEN=n] BUT ONE[CASE=gen,CNT=1,REF=person,SEM=?person] POSSIBILITY[CASE=abl,SEM=?reason]
-POSSESSION[SUPPLIED=prose,SEM=<all x.(?any(x) -> ?all(x))>] -> ANYONE[CASE=nom,NUM=sg,GEN=m,READING=any_one,SEM=?any] NECESSARILY ALLTHREE[CASE=nom,NUM=sg,GEN=m,CNT=3,SEM=?all]
+POSSESSION[SUPPLIED=prose,SEM=<?necessity(\x.(?any(x) -> ?all(x)))>] -> ANYONE[CASE=nom,NUM=sg,GEN=m,READING=any_one,SEM=?any] NECESSARILY[SEM=?necessity] ALLTHREE[CASE=nom,NUM=sg,GEN=m,CNT=3,SEM=?all]
 ELEVEN[CASE=ins,CNT=11,SEM=<eleven>] -> 'ekādaśabhiḥ'
 FRUIT[CASE=nom,GEN=n,SEM=<arhatship>] -> 'arhattvam'
 SAID[CASE=nom,GEN=n] -> 'uktam'
@@ -61,7 +62,7 @@ BUT -> 'tu'
 ONE[CASE=gen,CNT=1,REF=person,SEM=<one_person>] -> 'ekasya'
 POSSIBILITY[CASE=abl,SEM=<\p.PossibleAcrossAttainments(p)>] -> 'saṃbhavāt'
 ANYONE[CASE=nom,NUM=sg,GEN=m,READING=any_one,SEM=<\p.(Possesses(p,neutral_f) | Possesses(p,life_f) | Possesses(p,mind_f))>] -> 'upekṣā-jīvita-mano-yuktaḥ'
-NECESSARILY -> 'avaśyam'
+NECESSARILY[SEM=<\P.all x.P(x)>] -> 'avaśyam'
 ALLTHREE[CASE=nom,NUM=sg,GEN=m,CNT=3,SEM=<\p.(Possesses(p,neutral_f) & Possesses(p,life_f) & Possesses(p,mind_f))>] -> 'traya-anvitaḥ'
 ```
 
@@ -106,15 +107,16 @@ ALLTHREE[CASE=nom,NUM=sg,GEN=m,CNT=3,SEM=<\p.(Possesses(p,neutral_f) & Possesses
 | avaśyam | necessarily | none without the others |
 | aniyama | no fixed rule | the remainder |
 | apratilabdha | not acquired | distinct from a Faculty acquired and subsequently lost |
-| vihīna | lost | not merely possessed but currently inactive |
+| vihīna | lost | no longer possessed; distinct from a possessed Faculty that is currently inactive |
 | samucchinna-kuśala-mūla | severed wholesome roots | lacks the five |
 
 ## 8. Logical Determination
 
 **Kārikā, derived.** The SEM joins the carried eleven-person report to
-the reciprocal possession implication. Necessity is represented as a
-universal rule in this finite model, not as modal logic. Neither
-simultaneous attainment nor continuous occurrence is asserted.
+the reciprocal possession implication. The `avaśyam` SEM scopes the
+implication over persons. Necessity is represented as a universal rule
+in this finite model, not as modal logic. Neither simultaneous
+attainment nor continuous occurrence is asserted.
 
 ```nltk-sem
 any_of_three : \p.(Possesses(p,neutral_f) | Possesses(p,life_f) | Possesses(p,mind_f))
