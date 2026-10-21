@@ -32,8 +32,7 @@ saṃbhāro vyavadānaṃ ca yāvatā tāvad indriyam // 2.5 //
 
 Vikalpa here is female and male differentiation of the living basis. It is not concept, and it is not imagination.
 
-**Grammar tokens.** External sandhi is opened, including *saṃkleśa
-eva*. The two occurrences of *ca* remain separate tokens.
+**Grammar tokens.** External sandhi is opened, including *saṃkleśa eva*. The two occurrences of *ca* remain separate tokens.
 
 ```text
 # tokens: citta-āśrayaḥ tad-vikalpaḥ sthitiḥ saṃkleśaḥ eva ca saṃbhāraḥ vyavadānam ca yāvatā tāvat indriyam
@@ -41,34 +40,25 @@ eva*. The two occurrences of *ca* remain separate tokens.
 
 ## 4. Grammar
 
-The six nominatives form an ordered roster of roles. *Tad* in
-*tad-vikalpaḥ* resumes the sixfold Basis of Consciousness identified by
-the Bhāṣya. Although *vikalpa* can name a mental factor, the Bhāṣya
-specifies female and male differentiation of this sixfold basis here.
-*Eva* focuses the defilement member; the two *ca*s
-coordinate the roster. The correlative *yāvatā ... tāvat* sets both
-directions of its extent within what the Bhāṣya calls intended *here*:
-every counted Faculty has one of these roles, and the role-bearers
-identified in this enumeration are counted. It does not define every
-use of *indriya* in all contexts.
+The six nominatives form an ordered roster of roles. *Tad* in *tad-vikalpaḥ* resumes the sixfold Basis of Consciousness identified by the Bhāṣya. Although *vikalpa* can name a mental factor, the Bhāṣya specifies female and male differentiation of this sixfold basis here. *Eva* focuses the defilement member; the two *ca*s coordinate the roster. The correlative *yāvatā ... tāvat* sets both directions of its extent within what the Bhāṣya calls intended *here*: every counted Faculty has one of these roles, and the role-bearers identified in this enumeration are counted. It does not define every use of *indriya* in all contexts.
 
 ```nltk-fcfg
 % start S
 # tokens: citta-āśrayaḥ tad-vikalpaḥ sthitiḥ saṃkleśaḥ eva ca saṃbhāraḥ vyavadānam ca yāvatā tāvat indriyam
 S[SEM=<?limit(?roles)>] -> ROSTER[SEM=?roles] LIMIT[SEM=?limit]
-ROSTER[SEM=<\x.(?a(x) | ?b(x) | ?c(x) | ?d(x) | ?e(x) | ?f(x))>] -> BASIS[CASE=nom,REF=?r,SEM=?a] DIFF[CASE=nom,REF=?r,SEM=?b] STAY[CASE=nom,SEM=?c] DEFILE[CASE=nom,FOCUS=?focus,SEM=?d] EVA[FOCUS=?focus] CA EQUIP[CASE=nom,SEM=?e] PURIFY[CASE=nom,SEM=?f] CA
-LIMIT[SCOPE=here,SEM=<\P.(all x.(FacultyHere(x) -> P(x)) & all x.(P(x) -> FacultyHere(x)))>] -> YAVATA[DIRECTION=forward] TAVAT[DIRECTION=return] INDRIYAM[CASE=nom,NUM=sg,GEN=n,SCOPE=here]
-BASIS[CASE=nom,REF=basis_six,SEM=<\x.BasisOfConsciousness(x)>] -> 'citta-āśrayaḥ'
-DIFF[CASE=nom,REF=basis_six,SEM=<\x.Differentiates(x,basis_six)>] -> 'tad-vikalpaḥ'
-STAY[CASE=nom,SEM=<\x.Sustains(x,basis_six)>] -> 'sthitiḥ'
-DEFILE[CASE=nom,FOCUS=defilement,SEM=<\x.Defiles(x,basis_six)>] -> 'saṃkleśaḥ'
-EVA[FOCUS=defilement] -> 'eva'
+ROSTER[SEM=<\x.(BasisOfConsciousness(x) | Differentiates(x,basis_six) | Sustains(x,basis_six) | Defiles(x,basis_six) | EquipsPurification(x) | Purifies(x))>] -> BASIS DIFF STAY DEFILE EVA CA EQUIP PURIFY CA
+BASIS -> 'citta-āśrayaḥ'
+DIFF -> 'tad-vikalpaḥ'
+STAY -> 'sthitiḥ'
+DEFILE -> 'saṃkleśaḥ'
+EVA -> 'eva'
 CA -> 'ca'
-EQUIP[CASE=nom,SEM=<\x.EquipsPurification(x)>] -> 'saṃbhāraḥ'
-PURIFY[CASE=nom,SEM=<\x.Purifies(x)>] -> 'vyavadānam'
-YAVATA[DIRECTION=forward] -> 'yāvatā'
-TAVAT[DIRECTION=return] -> 'tāvat'
-INDRIYAM[CASE=nom,NUM=sg,GEN=n,SCOPE=here] -> 'indriyam'
+EQUIP -> 'saṃbhāraḥ'
+PURIFY -> 'vyavadānam'
+LIMIT[SEM=<\P.(all x.(FacultyHere(x) -> P(x)) & all x.(P(x) -> FacultyHere(x)))>] -> YAVATA TAVAT INDRIYAM
+YAVATA -> 'yāvatā'
+TAVAT -> 'tāvat'
+INDRIYAM -> 'indriyam'
 ```
 
 ```nltk-dep
@@ -77,11 +67,7 @@ INDRIYAM[CASE=nom,NUM=sg,GEN=n,SCOPE=here] -> 'indriyam'
 'vyavadānam' -> 'ca'
 ```
 
-**Feature chart checkpoints.** The normalized stream has twelve
-tokens. The shared `REF=basis_six` connects *tad* with its antecedent;
-`FOCUS=defilement` constrains *eva*. The correlative contributes both
-directions of the local extent at `LIMIT`; neither direction is merely
-a prose inference.
+**Feature chart checkpoints.** The normalized stream has twelve tokens. The shared reference connects *tad* with its antecedent; *eva* focuses the defilement member. The correlative contributes both directions of the local extent; neither direction is merely a prose inference.
 
 | Span | Constituent | Result |
 |---|---|---|
@@ -93,19 +79,15 @@ a prose inference.
 
 ### Literal Translation
 
-> Basis of Consciousness, its differentiation, persistence, and
-> defilement; equipment and purification: as far as that, so far Faculty.
+> Basis of Consciousness, its differentiation, persistence, and defilement; equipment and purification: as far as that, so far Faculty.
 
 ### Bhāṣya-informed study translation
 
-> The Basis of Consciousness, its differentiation, persistence, and
-> defilement, provision for purification, and purification itself:
-> Faculty extends just this far.
+> The Basis of Consciousness, its differentiation, persistence, and defilement, provision for purification, and purification itself: Faculty extends just this far.
 
 ## 6. Philosophical Translation
 
-> Within the intended enumeration, six roles determine which powers
-> count as Faculties. Governing efficacy alone does not settle membership.
+> Within the intended enumeration, six roles determine which powers count as Faculties. Governing efficacy alone does not settle membership.
 
 ## 7. Technical Vocabulary
 
@@ -124,12 +106,7 @@ a prose inference.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The parse composes the six roles into one
-predicate, then applies both sides of *yāvatā ... tāvat* to the
-locally scoped `FacultyHere`. This is an extent claim for the
-Bhāṣya's intended enumeration, not a definition that every governing
-power in every context must satisfy these six roles. The `Basis`
-relation belongs to *āśraya*; no *ālambana* relation is introduced.
+**Kārikā, derived.** The parse composes the six roles into one predicate, then applies both sides of *yāvatā ... tāvat* to the locally scoped FacultyHere. This is an extent claim for the Bhāṣya's intended enumeration, not a definition that every governing power in every context must satisfy these six roles. The Basis relation belongs to *āśraya*; no *ālambana* relation is introduced.
 
 ```nltk-sem
 roles : \x.(BasisOfConsciousness(x) | Differentiates(x,basis_six) | Sustains(x,basis_six) | Defiles(x,basis_six) | EquipsPurification(x) | Purifies(x))
@@ -165,12 +142,7 @@ all x.(ProposedActionPower(x) -> FacultyHere(x))
 all x.((x = genital_action_power) -> (x = female_faculty | x = male_faculty))
 ```
 
-The objection theory retains the efficacy of ignorance and the five
-proposed action powers in their stated fields. The reply theory rejects
-their supplementary inclusion in this enumeration without denying
-those causal relations. The final countermodel keeps the genital
-action organ proposed for pleasure distinct from the female and male
-Faculties that govern sexed differentiation in 2.02.
+The objection theory retains the efficacy of ignorance and the five proposed action powers in their stated fields. The reply theory rejects their supplementary inclusion in this enumeration without denying those causal relations. The final countermodel keeps the genital action organ proposed for pleasure distinct from the female and male Faculties that govern sexed differentiation in 2.02.
 
 ```nltk-valuation
 basis_six => sixfold_basis
@@ -200,23 +172,11 @@ IgnoranceOrOther => {ignorance}
 Governs => {(ignorance,formations),(speech,speaking),(hand,taking),(foot,moving),(anus,excretion),(genital_power,pleasure_act)}
 ```
 
-This finite witness has the Bhāṣya's 6 + 2 + 1 + 5 + 5 + 3 roster.
-The verse itself names six roles, not their member counts. The model
-does not establish that no other tradition can call a power
-*indriya*, or that the five provisions cease to govern purification
-because the three receive the purification role in this enumeration.
+This finite witness has the Bhāṣya's 6 + 2 + 1 + 5 + 5 + 3 roster. The verse itself names six roles, not their member counts. The model does not establish that no other tradition can call a power *indriya*, or that the five provisions cease to govern purification because the three receive the purification role in this enumeration.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): Faculty is the Basis of Consciousness, its differentiation,
-its persistence, and its defilement, together with its equipment and its
-purification: as far as these extend, so far is faculty. The six faculties
-are the Basis of Consciousness; its differentiation is through the female and
-male faculties, their persistence through life, their defilement through
-the feelings, the provision for purification through the five, and
-purification through the three. Ignorance and the rest, and speech and the
-other action-organs, are therefore not counted.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): Faculty is the Basis of Consciousness, its differentiation, its persistence, and its defilement, together with its equipment and its purification: as far as these extend, so far is faculty. The six faculties are the Basis of Consciousness; its differentiation is through the female and male faculties, their persistence through life, their defilement through the feelings, the provision for purification through the five, and purification through the three. Ignorance and the rest, and speech and the other action-organs, are therefore not counted.
 
 2.01 gave the predicate. 2.02 narrowed it to apprehension. 2.03 and 2.04 filled defilement and purification. This verse stops the count.
 
@@ -224,15 +184,7 @@ The objector is right that ignorance governs formations, and that speech and the
 
 The five are provision. They are not inert: 2.03 already has them check and draw the path. The three are purification itself. 2.04 already split them into seeing, cultivation, and one who has known. No chronology in which the five stop before the three begin.
 
-Here **Consciousness** renders *citta* in *cittāśraya*. The six faculties
-form its Basis; *citta* is not thereby identified with the single
-*manas* faculty among them. The Kośa's account concerns both Reason and
-Understanding in the Organon reading. Reason remains higher than
-Understanding, and important Ideas cannot be reduced to Understanding's
-functions. This ordering is a project determination, not a claim stated
-by this verse. Mental factors may be understood as factors of
-Consciousness, but the Bhāṣya specifies *tad-vikalpa* here as female and
-male differentiation of the sixfold Basis.
+Here **Consciousness** renders *citta* in *cittāśraya*. The six faculties form its Basis; *citta* is not thereby identified with the single *manas* faculty among them. The Kośa's account concerns both Reason and Understanding in the Organon reading. Reason remains higher than Understanding, and important Ideas cannot be reduced to Understanding's functions. This ordering is a project determination, not a claim stated by this verse. Mental factors may be understood as factors of Consciousness, but the Bhāṣya specifies *tad-vikalpa* here as female and male differentiation of the sixfold Basis.
 
 Interpretation: membership is the discriminator. The six roles define the intended scope. The victim traverses that path and not the powers left outside it. Not the verse English.
 

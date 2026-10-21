@@ -33,40 +33,34 @@ lakṣaṇāni punar jātir jarā sthitir anityatā // 2.45 //
 
 Verse order puts aging before persistence. The commentary's genetic order is arising, persistence, aging, impermanence. Both stay.
 
-The verse's dual is corrected to *ūṣmavijñānayoḥ* from the
-running witness; the inherited display omitted *na*. The support
-term is *ādhāra*, not an occurrence of *āśraya*.
+The verse's dual is corrected to *ūṣmavijñānayoḥ* from the running witness; the inherited display omitted *na*. The support term is *ādhāra*, not an occurrence of *āśraya*.
 
 ```text
 # tokens: āyuḥ jīvitam ādhāraḥ ūṣmavijñānayoḥ hi yaḥ lakṣaṇāni punar jātiḥ jarā sthitiḥ anityatā
 ```
+
 ## 4. Grammar
 
-The first clause identifies life with lifespan and explains it
-as support of warmth and Cognition. It does not settle whether
-this support must be a distinct real entity. The second clause
-lists all four marks together, not alternative definitions.
-The prose's death classifications and three-versus-four debate
-are not inserted into the verse's grammatical root.
+The first clause identifies life with lifespan and explains it as support of warmth and Cognition. It does not settle whether this support must be a distinct real entity. The second clause lists all four marks together, not alternative definitions. The prose's death classifications and three-versus-four debate are not inserted into the verse's grammatical root.
 
 ```nltk-fcfg
 % start S
 # tokens: āyuḥ jīvitam ādhāraḥ ūṣmavijñānayoḥ hi yaḥ lakṣaṇāni punar jātiḥ jarā sthitiḥ anityatā
 S[SEM=<(?life & ?marks)>] -> LIFE[SEM=?life] MARKS[SEM=?marks]
-LIFE[SEM=<(Identifies(life,lifespan) & Supports(lifespan,warmth) & Supports(lifespan,cognition))>] -> LIFESPAN[CASE=nom] LIFEWORD[CASE=nom] SUPPORT[CASE=nom] PAIR[CASE=gen,NUM=du,CNT=2] EXPLANATORY RELATIVE[CASE=nom,REF=lifespan]
-MARKS[SEM=<(Mark(arising) & Mark(aging) & Mark(persistence) & Mark(impermanence))>] -> MARKWORD[CASE=nom,NUM=pl] TRANSITION ARISING[CASE=nom] AGING[CASE=nom] PERSISTENCE[CASE=nom] IMPERMANENCE[CASE=nom]
-LIFESPAN[CASE=nom] -> 'āyuḥ'
-LIFEWORD[CASE=nom] -> 'jīvitam'
-SUPPORT[CASE=nom] -> 'ādhāraḥ'
-PAIR[CASE=gen,NUM=du,CNT=2] -> 'ūṣmavijñānayoḥ'
+LIFE[SEM=<Identifies(life,lifespan) & Supports(lifespan,warmth) & Supports(lifespan,cognition)>] -> LIFESPAN LIFEWORD SUPPORT PAIR EXPLANATORY RELATIVE
+LIFESPAN -> 'āyuḥ'
+LIFEWORD -> 'jīvitam'
+SUPPORT -> 'ādhāraḥ'
+PAIR -> 'ūṣmavijñānayoḥ'
 EXPLANATORY -> 'hi'
-RELATIVE[CASE=nom,REF=lifespan] -> 'yaḥ'
-MARKWORD[CASE=nom,NUM=pl] -> 'lakṣaṇāni'
+RELATIVE -> 'yaḥ'
+MARKS[SEM=<Mark(arising) & Mark(aging) & Mark(persistence) & Mark(impermanence)>] -> MARKWORD TRANSITION ARISING AGING PERSISTENCE IMPERMANENCE
+MARKWORD -> 'lakṣaṇāni'
 TRANSITION -> 'punar'
-ARISING[CASE=nom] -> 'jātiḥ'
-AGING[CASE=nom] -> 'jarā'
-PERSISTENCE[CASE=nom] -> 'sthitiḥ'
-IMPERMANENCE[CASE=nom] -> 'anityatā'
+ARISING -> 'jātiḥ'
+AGING -> 'jarā'
+PERSISTENCE -> 'sthitiḥ'
+IMPERMANENCE -> 'anityatā'
 ```
 
 ```nltk-dep
@@ -75,26 +69,21 @@ IMPERMANENCE[CASE=nom] -> 'anityatā'
 'lakṣaṇāni' -> 'punar' | 'jātiḥ' | 'jarā' | 'sthitiḥ' | 'anityatā'
 ```
 
-The two constituent lengths are six and six. The marks remain
-in verse order even though their explanatory sequence differs.
+The two constituent lengths are six and six. The marks remain in verse order even though their explanatory sequence differs.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Life is lifespan, the support of warmth and Cognition. The marks are
-> arising, aging, persistence, and impermanence.
+> Life is lifespan, the support of warmth and Cognition. The marks are arising, aging, persistence, and impermanence.
+
 ### Bhāṣya-informed study translation
 
-> Life is lifespan, the support of warmth and Cognition. The marks, in turn,
-> are arising, aging, persistence, and impermanence.
+> Life is lifespan, the support of warmth and Cognition. The marks, in turn, are arising, aging, persistence, and impermanence.
+
 ## 6. Philosophical Translation
 
-> The support-role of lifespan is argued over: a distinct entity
-> and a karma-projected duration are competing explanations.
-> The four marks then introduce a second inquiry. Neither the
-> duration account nor the later stream account is silently made
-> the verse's settled ontology.
+> The support-role of lifespan is argued over: a distinct entity and a karma-projected duration are competing explanations. The four marks then introduce a second inquiry. Neither the duration account nor the later stream account is silently made the verse's settled ontology.
 
 ## 7. Technical Vocabulary
 
@@ -113,8 +102,8 @@ in verse order even though their explanatory sequence differs.
 ## 8. Logical Determination
 
 ```nltk-sem
-life : (Identifies(life,lifespan) & Supports(lifespan,warmth) & Supports(lifespan,cognition))
-marks : (Mark(arising) & Mark(aging) & Mark(persistence) & Mark(impermanence))
+life : Identifies(life,lifespan) & Supports(lifespan,warmth) & Supports(lifespan,cognition)
+marks : Mark(arising) & Mark(aging) & Mark(persistence) & Mark(impermanence)
 ```
 
 ```nltk-fol
@@ -171,30 +160,15 @@ ProjectedDuration => {projected_duration_position}
 AllowsUntimelyDeath => {kashmir_explanation_position}
 ```
 
-The four death cases are class-level alternatives, not medical
-diagnoses or causes inferred for actual individuals. The two
-exhaustion axes distinguish the cases; relinquishing lifespan
-is assigned by the prose to the first rather than a fifth case.
-The model indexes the life accounts without settling their
-ontology. Three scriptural marks and the competing explanations
-for persistence are kept in the Bhāṣya argument, not reduced
-to “three equals four.”
+The four death cases are class-level alternatives, not medical diagnoses or causes inferred for actual individuals. The two exhaustion axes distinguish the cases; relinquishing lifespan is assigned by the prose to the first rather than a fifth case. The model indexes the life accounts without settling their ontology. Three scriptural marks and the competing explanations for persistence are kept in the Bhāṣya argument, not reduced to “three equals four.”
 
 ## 9. Interpretive Note
 
 **Translation note.** The commentary says lifespan, warmth, and Cognition leave the body, which lies cast aside like senseless wood. It rejects mutual support as the explanation of lifespan and considers karma as projecting duration; the relation of karma and Cognition remains part of the discussion, not the verse translation.
 
-The life discussion continues through 75.18, not merely the opening
-support explanation. The marks discussion follows through 76.09;
-secondary marks begin the next verse's argument. The damaged list
-of protected lives is retained without speculative restoration.
+The life discussion continues through 75.18, not merely the opening support explanation. The marks discussion follows through 76.09; secondary marks begin the next verse's argument. The damaged list of protected lives is retained without speculative restoration.
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, remaining distinct from
-consciousness and Mind. A support-role does not by itself establish
-an extra substance. Duration, interruption, and the marks of a
-conditioned course must be distinguished before competing accounts
-of their reality can be assessed.
+In the Organon reading, Cognition joins and governs Perception and Conception and guides the Dharma Base, remaining distinct from consciousness and Mind. A support-role does not by itself establish an extra substance. Duration, interruption, and the marks of a conditioned course must be distinguished before competing accounts of their reality can be assessed.
 
 ## 10. OWL++ Seed
 

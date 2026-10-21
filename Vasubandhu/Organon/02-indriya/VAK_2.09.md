@@ -32,9 +32,7 @@ rūpīṇi jīvitaṃ duḥkhe sāsravāṇi dvidhā nava // 2.9 //
 
 Duḥkhe is dual, not locative. Pain and distress.
 
-**Grammar tokens.** External sandhi is opened; the Path compound remains
-one token. Faculty ellipses are resolved by the Bhāṣya, not inserted into
-the verse stream.
+**Grammar tokens.** External sandhi is opened; the Path compound remains one token. Faculty ellipses are resolved by the Bhāṣya, not inserted into the verse stream.
 
 ```text
 # tokens: dṛg-bhāvanā-aśaikṣa-pathe nava trīṇi amalam trayam rūpīṇi jīvitam duḥkhe sāsravāṇi dvidhā nava
@@ -42,35 +40,30 @@ the verse stream.
 
 ## 4. Grammar
 
-The locative compound distributes the three designations over three Paths.
-The first nine and final nine resume the same types, under different
-questions. `REF=nine_types` unifies that cross-clause reference. The singular collective triad takes a singular predicate;
-the coordinated Form, life, and painful pair take a plural predicate.
-The Bhāṣya determines the seven Form Faculties and the membership of
-the nine; these are not numerals expressed in the verse.
+The locative compound distributes the three designations over three Paths. The first nine and final nine resume the same types, under different questions. The shared reference unifies that cross-clause reference. The singular collective triad takes a singular predicate; the coordinated Form, life, and painful pair take a plural predicate. The Bhāṣya determines the seven Form Faculties and the membership of the nine; these are not numerals expressed in the verse.
 
 ```nltk-fcfg
 % start S
 # tokens: dṛg-bhāvanā-aśaikṣa-pathe nava trīṇi amalam trayam rūpīṇi jīvitam duḥkhe sāsravāṇi dvidhā nava
-S[SEM=<(?paths & ?stainless & ?outflow & ?either)>] -> PATHS[REF=?r,SEM=?paths] STAINLESS[SEM=?stainless] OUTFLOW[SEM=?outflow] EITHER[REF=?r,SEM=?either]
-PATHS[REF=?r,SEM=<(?path(nine_group,triad) & ?nine(nine_group) & ?three(triad))>] -> PATH[CASE=loc,SEM=?path] NINE[CNT=9,REF=?r,SEM=?nine] THREE[CASE=nom,NUM=pl,GEN=n,CNT=3,SEM=?three]
-STAINLESS[SEM=<?status(?group)>] -> AMALA[CASE=nom,NUM=sg,GEN=n,SEM=?status] TRIAD[CASE=nom,NUM=sg,GEN=n,SEM=?group]
-OUTFLOW[SEM=<(?status(?form) & ?status(?life) & ?status(?painful))>] -> FORM[CASE=nom,NUM=pl,GEN=n,SEM=?form] LIFE[CASE=nom,NUM=sg,GEN=n,SEM=?life] PAIR[CASE=nom,NUM=du,GEN=n,CNT=2,SEM=?painful] WITH[CASE=nom,NUM=pl,GEN=n,SEM=?status]
-EITHER[REF=?r,SEM=<(?both(nine_group) & ?nine(nine_group))>] -> TWOFOLD[SEM=?both] NINE[CNT=9,REF=?r,SEM=?nine]
-PATH[CASE=loc,SEM=<\g.\t.PathDesignations(g,t)>] -> 'dṛg-bhāvanā-aśaikṣa-pathe'
-NINE[CNT=9,REF=nine_types,SEM=<\g.GroupCount(g,nine)>] -> 'nava'
-THREE[CASE=nom,NUM=pl,GEN=n,CNT=3,SEM=<\g.GroupCount(g,three)>] -> 'trīṇi'
-AMALA[CASE=nom,NUM=sg,GEN=n,SEM=<\g.WithoutOutflowsOnly(g)>] -> 'amalam'
-TRIAD[CASE=nom,NUM=sg,GEN=n,SEM=<triad>] -> 'trayam'
-FORM[CASE=nom,NUM=pl,GEN=n,SEM=<form_group>] -> 'rūpīṇi'
-LIFE[CASE=nom,NUM=sg,GEN=n,SEM=<life_group>] -> 'jīvitam'
-PAIR[CASE=nom,NUM=du,GEN=n,CNT=2,SEM=<painful_pair>] -> 'duḥkhe'
-WITH[CASE=nom,NUM=pl,GEN=n,SEM=<\g.WithOutflowsOnly(g)>] -> 'sāsravāṇi'
-TWOFOLD[SEM=<\g.EitherStatus(g)>] -> 'dvidhā'
+S[SEM=<(?paths & ?stainless & ?outflow & ?either)>] -> PATHS[SEM=?paths] STAINLESS[SEM=?stainless] OUTFLOW[SEM=?outflow] EITHER[SEM=?either]
+PATHS[SEM=<PathDesignations(nine_group,triad) & GroupCount(nine_group,nine) & GroupCount(triad,three)>] -> PATH NINE THREE
+PATH -> 'dṛg-bhāvanā-aśaikṣa-pathe'
+NINE -> 'nava'
+THREE -> 'trīṇi'
+STAINLESS[SEM=<WithoutOutflowsOnly(triad)>] -> AMALA TRIAD
+AMALA -> 'amalam'
+TRIAD -> 'trayam'
+OUTFLOW[SEM=<WithOutflowsOnly(form_group) & WithOutflowsOnly(life_group) & WithOutflowsOnly(painful_pair)>] -> FORM LIFE PAIR WITH
+FORM -> 'rūpīṇi'
+LIFE -> 'jīvitam'
+PAIR -> 'duḥkhe'
+WITH -> 'sāsravāṇi'
+EITHER[SEM=<EitherStatus(nine_group) & GroupCount(nine_group,nine)>] -> TWOFOLD NINE
+TWOFOLD -> 'dvidhā'
 ```
 
 ```nltk-dep
-'trīṇi' -> 'dṛg-bhāvanā-aśaikṣa-pathe' | 'nava'
+'dṛg-bhāvanā-aśaikṣa-pathe' -> 'nava' | 'trīṇi'
 'trayam' -> 'amalam'
 'sāsravāṇi' -> 'rūpīṇi' | 'jīvitam' | 'duḥkhe'
 'nava' -> 'dvidhā'
@@ -88,22 +81,15 @@ TWOFOLD[SEM=<\g.EitherStatus(g)>] -> 'dvidhā'
 
 ### Literal Translation
 
-> On the paths of seeing, cultivation, and no-more-training, the nine are
-> the three. The triad is stainless. Those possessing form, life, and the
-> two painful faculties are with outflows. Nine are twofold.
+> On the paths of seeing, cultivation, and no-more-training, the nine are the three. The triad is stainless. Those possessing form, life, and the two painful faculties are with outflows. Nine are twofold.
 
 ### Bhāṣya-informed study translation
 
-> On the Paths of seeing, cultivation, and no-more-training, the nine
-> Faculties are designated as the three; the triad is stainless, without
-> outflows. The Form Faculties, Life-Faculty, and the two painful Faculties
-> are exclusively with outflows; nine admit either status.
+> On the Paths of seeing, cultivation, and no-more-training, the nine Faculties are designated as the three; the triad is stainless, without outflows. The Form Faculties, Life-Faculty, and the two painful Faculties are exclusively with outflows; nine admit either status.
 
 ## 6. Philosophical Translation
 
-> Path-designation and outflow-status answer different questions. The
-> three realization Faculties are without outflows; the nine constituent
-> types are not restricted to their outflow-free Path operation.
+> Path-designation and outflow-status answer different questions. The three realization Faculties are without outflows; the nine constituent types are not restricted to their outflow-free Path operation.
 
 ## 7. Technical Vocabulary
 
@@ -123,16 +109,12 @@ TWOFOLD[SEM=<\g.EitherStatus(g)>] -> 'dvidhā'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The verse assigns group-level statuses and counts;
-the Bhāṣya supplies the members and ordered Path-names. Twofold concerns
-the possibilities of a type, not two simultaneous statuses of one instance.
-The shared `REF` feature prevents the two *nava* clauses from silently
-shifting to different groups.
+**Kārikā, derived.** The verse assigns group-level statuses and counts; the Bhāṣya supplies the members and ordered Path-names. Twofold concerns the possibilities of a type, not two simultaneous statuses of one instance. The shared reference prevents the two *nava* clauses from silently shifting to different groups.
 
 ```nltk-sem
-path_designations : \g.\t.PathDesignations(g,t)
-stainless_triad : \g.WithoutOutflowsOnly(g)
-twofold_types : \g.EitherStatus(g)
+path_designations : PathDesignations(nine_group,triad)
+stainless_triad : WithoutOutflowsOnly(triad)
+twofold_types : EitherStatus(nine_group)
 ```
 
 ```nltk-fol
@@ -214,23 +196,11 @@ WithOutflowsInstance => {mind_with_event}
 WithoutOutflowsInstance => {mind_without_event}
 ```
 
-The three type-sets contain 3, 10, and 9 distinct Faculty-names, totaling
-22; group and count labels are not additional Faculties. Two sample
-instances of Mind witness the two possibilities, while the disjoint
-instance predicates reject their simultaneous attribution to one event. Count predicates
-record the numerals, so their agreement with set cardinalities requires
-separate tests. Nine types are not nine factors co-present in every
-Path-event. This finite model does not prove the scriptural rebuttal;
-the paired Bhāṣya preserves its two alternative replies and two
-positive grounds.
+The three type-sets contain 3, 10, and 9 distinct Faculty-names, totaling 22; group and count labels are not additional Faculties. Two sample instances of Mind witness the two possibilities, while the disjoint instance predicates reject their simultaneous attribution to one event. Count predicates record the numerals, so their agreement with set cardinalities requires separate tests. Nine types are not nine factors co-present in every Path-event. This finite model does not prove the scriptural rebuttal; the paired Bhāṣya preserves its two alternative replies and two positive grounds.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): The three are not three further items. They are the
-same nine, named by the path-task. The triad is stainless. Those
-possessing form, life, and the two painful faculties are with outflows.
-Nine, as types, can be either.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): The three are not three further items. They are the same nine, named by the path-task. The triad is stainless. Those possessing form, life, and the two painful faculties are with outflows. Nine, as types, can be either.
 
 The chapter has named the twenty-two and defined the feelings. This verse qualifies them by path and by outflow.
 
@@ -240,12 +210,7 @@ Twofold is either status across instances, not both in one instance. With outflo
 
 Some restrict the five. The first reply limits the citation to the faculties without outflows. The alternative limits it to the outsider whose wholesome roots are severed. Or marks an alternative, not a second step that must be joined. The Wheel not yet turned, and the fivefold examination, are the positive grounds. The last quotation is abbreviated in the Sanskrit. It is not completed from elsewhere.
 
-Interpretation: the Path-task determines the realization name without
-making every instance of the nine constituent types outflow-free.
-The distinction is between qualified operation and type-level capacity,
-not between three extra substances and nine original substances.
-Stainless here means without outflows; a project-level account of Pure
-and Impure must not replace that explicit gloss.
+Interpretation: the Path-task determines the realization name without making every instance of the nine constituent types outflow-free. The distinction is between qualified operation and type-level capacity, not between three extra substances and nine original substances. Stainless here means without outflows; a project-level account of Pure and Impure must not replace that explicit gloss.
 
 ## 10. OWL++ Seed
 

@@ -23,9 +23,7 @@ māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
 | ca | conjunction | and; joins the two enumerations |
 | parītta-kleśa-bhūmikāḥ | nominative plural masculine class adjective | belonging to the limited-affliction ground; predicate of the enumeration |
 
-The English names are provisional; definitions are deferred. Compound
-members are not independently inflected singular nominatives.
-The grammar retains both compounds and opens only external sandhi.
+The English names are provisional; definitions are deferred. Compound members are not independently inflected singular nominatives. The grammar retains both compounds and opens only external sandhi.
 
 ```text
 # tokens: krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ māyāmadavihiṃsāḥ ca parīttakleśabhūmikāḥ
@@ -33,21 +31,17 @@ The grammar retains both compounds and opens only external sandhi.
 
 ## 4. Grammar
 
-Seven plus three yields ten class-members. `Ca` conjoins the two
-compound-level membership assertions. A class predicate applies
-to every named member; unlike the previous lists, no always-in-every-
-consciousness locative is present. The prose then supplies restrictions
-on associated ignorance, not additional verse tokens.
+Seven plus three yields ten class-members. *Ca* conjoins the two compound-level membership assertions. A class predicate applies to every named member; unlike the previous lists, no always-in-every-consciousness locative is present. The prose then supplies restrictions on associated ignorance, not additional verse tokens.
 
 ```nltk-fcfg
 % start S
 # tokens: krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ māyāmadavihiṃsāḥ ca parīttakleśabhūmikāḥ
-S[SEM=<?members(?class)>] -> MEMBERS[CNT=10,SEM=?members] CLASS[CASE=nom,NUM=pl,SEM=?class]
-MEMBERS[CNT=10,SEM=<\P.?and(?seven(P),?three(P))>] -> SEVEN[CASE=nom,NUM=pl,CNT=7,SEM=?seven] THREE[CASE=nom,NUM=pl,CNT=3,SEM=?three] AND[READING=enumeration,SEM=?and]
-SEVEN[CASE=nom,NUM=pl,CNT=7,SEM=<\P.(P(anger) & P(resentment) & P(crookedness) & P(envy) & P(spite) & P(concealment) & P(stinginess))>] -> 'krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ'
-THREE[CASE=nom,NUM=pl,CNT=3,SEM=<\P.(P(deception) & P(intoxication) & P(harmfulness))>] -> 'māyāmadavihiṃsāḥ'
-AND[READING=enumeration,SEM=<\L.\R.(L & R)>] -> 'ca'
-CLASS[CASE=nom,NUM=pl,SEM=<\x.LimitedKind(x)>] -> 'parīttakleśabhūmikāḥ'
+S[SEM=<LimitedKind(anger) & LimitedKind(resentment) & LimitedKind(crookedness) & LimitedKind(envy) & LimitedKind(spite) & LimitedKind(concealment) & LimitedKind(stinginess) & LimitedKind(deception) & LimitedKind(intoxication) & LimitedKind(harmfulness)>] -> MEMBERS CLASS
+MEMBERS -> SEVEN THREE AND
+SEVEN -> 'krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ'
+THREE -> 'māyāmadavihiṃsāḥ'
+AND -> 'ca'
+CLASS -> 'parīttakleśabhūmikāḥ'
 ```
 
 ```nltk-dep
@@ -65,22 +59,15 @@ CLASS[CASE=nom,NUM=pl,SEM=<\x.LimitedKind(x)>] -> 'parīttakleśabhūmikāḥ'
 
 ### Literal Translation
 
-> Anger, resentment, crookedness, envy, spite, concealment, stinginess,
-> deception, intoxication, and harmfulness belong to the ground of limited
-> afflictions.
+> Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions.
 
 ### Bhāṣya-informed study translation
 
-> Anger, resentment, crookedness, envy, spite, concealment, stinginess,
-> deception, intoxication, and harmfulness belong to the ground of limited
-> afflictions.
+> Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions.
 
 ## 6. Philosophical Translation
 
-> Limited-affliction ground is a restricted range, not a universal
-> accompanying bundle. The associated ignorance has specified
-> qualifications; this does not make it one identical occurrence
-> shared by all ten or settle which members can co-occur.
+> Limited-affliction ground is a restricted range, not a universal accompanying bundle. The associated ignorance has specified qualifications; this does not make it one identical occurrence shared by all ten or settle which members can co-occur.
 
 ## 7. Technical Vocabulary
 
@@ -95,15 +82,12 @@ CLASS[CASE=nom,NUM=pl,SEM=<\x.LimitedKind(x)>] -> 'parīttakleśabhūmikāḥ'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The `ca` SEM joins ten class-members, not ten
-simultaneous occurrences. The prose model represents association
-restrictions among afflictions separately from other accompanying
-dharmas.
+**Kārikā, derived.** The *ca* SEM joins ten class-members, not ten simultaneous occurrences. The prose model represents association restrictions among afflictions separately from other accompanying dharmas.
 
 ```nltk-sem
-class_predicate : \x.LimitedKind(x)
-compound_conjunction : \L.\R.(L & R)
-seven_plus_three : \P.(P(anger) & P(resentment) & P(crookedness) & P(envy) & P(spite) & P(concealment) & P(stinginess) & P(deception) & P(intoxication) & P(harmfulness))
+class_predicate : LimitedKind(anger)
+compound_conjunction : LimitedKind(anger) & LimitedKind(deception)
+seven_plus_three : LimitedKind(anger) & LimitedKind(resentment) & LimitedKind(crookedness) & LimitedKind(envy) & LimitedKind(spite) & LimitedKind(concealment) & LimitedKind(stinginess) & LimitedKind(deception) & LimitedKind(intoxication) & LimitedKind(harmfulness)
 ```
 
 ```nltk-fol
@@ -147,13 +131,7 @@ Present => {(anger_episode,anger_kind),(envy_episode,envy_kind)}
 UnfixedExample => {initial_examination,sustained_examination,regret,torpor}
 ```
 
-Qualified ignorance is a type-level representative, not a single
-token occurring simultaneously with all ten. The episodes are partial
-countermodels to inference from membership to a universal bundle;
-they do not establish the actual mutual-exclusion rules of the ten.
-OtherCompanion keeps the restriction from denying consciousness or
-universal factors. The four unfixed examples are not an exhaustive
-class and are not thereby ethically indeterminate.
+Qualified ignorance is a type-level representative, not a single token occurring simultaneously with all ten. The episodes are partial countermodels to inference from membership to a universal bundle; they do not establish the actual mutual-exclusion rules of the ten. OtherCompanion keeps the restriction from denying consciousness or universal factors. The four unfixed examples are not an exhaustive class and are not thereby ethically indeterminate.
 
 ## 9. Interpretive Note
 
@@ -165,11 +143,7 @@ Secondary affliction is the deferred discussion. It is not identified with this 
 
 The unfixed examples leave the list open. Their distributions wait on the count of what must be in a given consciousness.
 
-In the Organon reading, Cognition governs Perception and Conception
-without collapsing into consciousness or Mind. The range of this
-class restricts associated ignorance; it does not define a new
-Cognition or convert all ten factors into one operation. Shared
-constraints are not a required bundle.
+In the Organon reading, Cognition governs Perception and Conception without collapsing into consciousness or Mind. The range of this class restricts associated ignorance; it does not define a new Cognition or convert all ten factors into one operation. Shared constraints are not a required bundle.
 
 ## 10. OWL++ Seed
 

@@ -27,10 +27,7 @@ strītvapuṃstvādhipatyāt tu kāyāt strīpuruṣendriye // 2.2 //
 | kāyāt | ablative | from the body-faculty, as its portion in the Bhāṣya |
 | strī-puruṣa-indriye | nominative dual | the female and male faculties |
 
-**Grammar tokens.** External sandhi is opened at *ṣaḍindriyam*;
-the two causal compounds and the final dual remain whole. The five
-sensory faculties and mind are Bhāṣya-resolved semantic referents, not
-supplied Sanskrit tokens.
+**Grammar tokens.** External sandhi is opened at *ṣaḍindriyam*; the two causal compounds and the final dual remain whole. The five sensory faculties and mind are Bhāṣya-resolved semantic referents, not supplied Sanskrit tokens.
 
 ```text
 # tokens: sva-artha-upalabdhi-ādhipatyāt sarvasya ca ṣaṭ indriyam strītva-puṃstva-ādhipatyāt tu kāyāt strī-puruṣa-indriye
@@ -38,29 +35,23 @@ supplied Sanskrit tokens.
 
 ## 4. Grammar
 
-The first causal ablative assigns governance of apprehension to each of
-the five with respect to its own *artha*. *Sarvasya ca* widens the range
-for mind; it does not describe one episode apprehending everything at
-once. The singular *indriyam* predicates Faculty distributively of six.
-The second ablative gives the ordered female/male governing relation;
-*kāyāt* is resolved by the Bhāṣya as a portion of the body-faculty.
-The two clauses compose directly into a closed `SEM`.
+The first causal ablative assigns governance of apprehension to each of the five with respect to its own *artha*. *Sarvasya ca* widens the range for mind; it does not describe one episode apprehending everything at once. The singular *indriyam* predicates Faculty distributively of six. The second ablative gives the ordered female/male governing relation; *kāyāt* is resolved by the Bhāṣya as a portion of the body-faculty. The two clauses compose directly into a closed SEM.
 
 ```nltk-fcfg
 % start S
 # tokens: sva-artha-upalabdhi-ādhipatyāt sarvasya ca ṣaṭ indriyam strītva-puṃstva-ādhipatyāt tu kāyāt strī-puruṣa-indriye
 S[SEM=<(?six & ?body)>] -> SIX[SEM=?six] BODY[SEM=?body]
-SIX[SEM=<(all x.(SensoryFaculty(x) -> exists y.(OwnMeaning(x,y) & GovernsApprehensionOf(x,y))) & all y.(Meaning(y) -> GovernsApprehensionOf(mind,y)) & all x.((SensoryFaculty(x) | (x = mind)) -> Faculty(x)))>] -> OWN[CASE=abl,ROLE=own_apprehension] ALL[CASE=gen,SCOPE=all_meanings] CA SIX_NUM[CNT=6] FAC[NUM=sg,DISTRIBUTIVE=true]
-OWN[CASE=abl,ROLE=own_apprehension] -> 'sva-artha-upalabdhi-ādhipatyāt'
-ALL[CASE=gen,SCOPE=all_meanings] -> 'sarvasya'
+SIX[SEM=<all x.(SensoryFaculty(x) -> exists y.(OwnMeaning(x,y) & GovernsApprehensionOf(x,y))) & all y.(Meaning(y) -> GovernsApprehensionOf(mind,y)) & all x.((SensoryFaculty(x) | (x = mind)) -> Faculty(x))>] -> OWN ALL CA SIX_NUM FAC
+OWN -> 'sva-artha-upalabdhi-ādhipatyāt'
+ALL -> 'sarvasya'
 CA -> 'ca'
-SIX_NUM[CNT=6] -> 'ṣaṭ'
-FAC[NUM=sg,DISTRIBUTIVE=true] -> 'indriyam'
-BODY[SEM=<(Governs(female_faculty,female_being) & Governs(male_faculty,male_being) & PortionOf(female_faculty,body_faculty) & PortionOf(male_faculty,body_faculty) & Faculty(female_faculty) & Faculty(male_faculty))>] -> SEXGOV[CASE=abl,ORDER=female_male] TU FROM[CASE=abl,REL=portion] SEXDUAL[CASE=nom,NUM=du,ORDER=female_male]
-SEXGOV[CASE=abl,ORDER=female_male] -> 'strītva-puṃstva-ādhipatyāt'
+SIX_NUM -> 'ṣaṭ'
+FAC -> 'indriyam'
+BODY[SEM=<Governs(female_faculty,female_being) & Governs(male_faculty,male_being) & PortionOf(female_faculty,body_faculty) & PortionOf(male_faculty,body_faculty) & Faculty(female_faculty) & Faculty(male_faculty)>] -> SEXGOV TU FROM SEXDUAL
+SEXGOV -> 'strītva-puṃstva-ādhipatyāt'
 TU -> 'tu'
-FROM[CASE=abl,REL=portion] -> 'kāyāt'
-SEXDUAL[CASE=nom,NUM=du,ORDER=female_male] -> 'strī-puruṣa-indriye'
+FROM -> 'kāyāt'
+SEXDUAL -> 'strī-puruṣa-indriye'
 ```
 
 ```nltk-dep
@@ -68,33 +59,21 @@ SEXDUAL[CASE=nom,NUM=du,ORDER=female_male] -> 'strī-puruṣa-indriye'
 'strī-puruṣa-indriye' -> 'strītva-puṃstva-ādhipatyāt' | 'tu' | 'kāyāt'
 ```
 
-**Feature chart checkpoints.** The nine normalized tokens form `SIX`
-[0, 5), `BODY` [5, 9), and one root [0, 9). Changing the six-count,
-mind's all-meaning scope, the ordered dual, or the ablative body source
-blocks the parse. The `SEM` gives a range for mind, not simultaneous
-apprehension; the Bhāṣya's portion relation resolves *kāyāt*.
+**Feature chart checkpoints.** The nine normalized tokens form `SIX` [0, 5), `BODY` [5, 9), and one root [0, 9). Changing the six-count, mind's all-meaning scope, the ordered dual, or the ablative body source blocks the parse. The SEM gives a range for mind, not simultaneous apprehension; the Bhāṣya's portion relation resolves *kāyāt*.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Because of governing efficacy in the apprehension of their own meaning,
-> and of all, the six are faculty. But because of governing efficacy over
-> female-being and male-being, the female and male faculties are from the
-> body.
+> Because of governing efficacy in the apprehension of their own meaning, and of all, the six are faculty. But because of governing efficacy over female-being and male-being, the female and male faculties are from the body.
 
 ### Bhāṣya-informed study translation
 
-> The five are Faculties by governing apprehension of their own meanings;
-> mind is a Faculty by governing apprehension of all meanings. The female
-> and male Faculties are separately designated within the body-faculty
-> because they govern female-being and male-being.
+> The five are Faculties by governing apprehension of their own meanings; mind is a Faculty by governing apprehension of all meanings. The female and male Faculties are separately designated within the body-faculty because they govern female-being and male-being.
 
 ## 6. Philosophical Translation
 
-> The six are Faculties through governing apprehension of Meaning. The
-> female and male Faculties are named within the body-faculty through a
-> different governing relation.
+> The six are Faculties through governing apprehension of Meaning. The female and male Faculties are named within the body-faculty through a different governing relation.
 
 ## 7. Technical Vocabulary
 
@@ -112,12 +91,7 @@ apprehension; the Bhāṣya's portion relation resolves *kāyāt*.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root `SEM` says each sensory Faculty governs
-apprehension of a respective meaning, mind governs apprehension across
-the range of meanings, and all six are Faculties. The paired Bhāṣya
-resolves *kāyāt* as the same body-faculty's portion. Its objection then
-tests why a meaning that contributes to apprehension lacks the Faculty's
-superior governing efficacy. That reasoning is a separate prose theory.
+**Kārikā, derived.** The root SEM states each sensory Faculty governs apprehension of a respective meaning, mind governs apprehension across the range of meanings, and all six are Faculties. The paired Bhāṣya resolves *kāyāt* as the same body-faculty's portion. Its objection then tests why a meaning that contributes to apprehension lacks the Faculty's superior governing efficacy. That reasoning is a separate prose theory.
 
 ```nltk-sem
 six : all x.(SensoryFaculty(x) -> exists y.(OwnMeaning(x,y) & GovernsApprehensionOf(x,y))) & all y.(Meaning(y) -> GovernsApprehensionOf(mind,y)) & all x.((SensoryFaculty(x) | (x = mind)) -> Faculty(x))
@@ -182,20 +156,11 @@ MindEpisode => {mind_episode}
 ApprehendsEveryMeaningAtOnce => {}
 ```
 
-The valuation tests mind's range without treating it as an all-at-once
-episode. The sensory condition and the meaning it presents have separate
-roles in this Organon projection; that distinction is not another
-Sanskrit word in the verse. Countermodels reject causal contribution as
-sufficient for Faculty status and reject separate bodily substances.
-The finite witness is not a census or proof from Sanskrit.
+The valuation tests mind's range without treating it as an all-at-once episode. The sensory condition and the meaning it presents have separate roles in this Organon projection; that distinction is not another Sanskrit word in the verse. Countermodels reject causal contribution as sufficient for Faculty status and reject separate bodily substances. The finite witness is not a census or proof from Sanskrit.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): The six are faculty by governing apprehension—five of
-their own meaning, mind of all. The female and male faculties are not
-further substances; they are the body-faculty named apart because they
-govern female-being and male-being.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): The six are faculty by governing apprehension—five of their own meaning, mind of all. The female and male faculties are not further substances; they are the body-faculty named apart because they govern female-being and male-being.
 
 2.01 distributed four matters, two, defilement, and purification. This verse is the revision of the first distribution. The unnamed others keep cognition as the place of governing efficacy, and refuse a second operation called seeing. The reply is svārthopalabdhi.
 

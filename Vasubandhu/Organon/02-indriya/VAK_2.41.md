@@ -26,7 +26,7 @@ nirodhaś cittacaittānāṃ vipākaḥ te bṛhatphalāḥ // 2.41 //
 | vipākaḥ | nom. sg. m. | maturation |
 | te bṛhatphalāḥ | nom. pl. m. pronoun + compound predicate | those beings belong to the Great Fruit gods |
 
-`Nikāya-sabhāga` is the treatise's name for group same-class.
+*Nikāya-sabhāga* is the treatise's name for group same-class.
 
 ```text
 # tokens: sabhāgatā sattvasāmyam āsaṃjñikam asaṃjñiṣu nirodhaḥ cittacaittānām vipākaḥ te bṛhatphalāḥ
@@ -34,32 +34,25 @@ nirodhaś cittacaittānāṃ vipākaḥ te bṛhatphalāḥ // 2.41 //
 
 ## 4. Grammar
 
-The first nominal equation defines same-class without deciding its
-disputed ontology. The second defines the non-reflective result
-as cessation of consciousness and mental factors among the specified
-beings. *Vipākaḥ* identifies that cessation as maturation; the prose
-names the non-reflective attainment as its cause. The final plural
-concerns the beings, not an identity of attainment and divine class.
-The prose specifies a subset in a region of the Great Fruit gods,
-not that all Great Fruit gods are non-reflective.
+The first nominal equation defines same-class without deciding its disputed ontology. The second defines the non-reflective result as cessation of consciousness and mental factors among the specified beings. *Vipākaḥ* identifies that cessation as maturation; the prose names the non-reflective attainment as its cause. The final plural concerns the beings, not an identity of attainment and divine class. The prose specifies a subset in a region of the Great Fruit gods, not that all Great Fruit gods are non-reflective.
 
 ```nltk-fcfg
 % start S
 # tokens: sabhāgatā sattvasāmyam āsaṃjñikam asaṃjñiṣu nirodhaḥ cittacaittānām vipākaḥ te bṛhatphalāḥ
 S[SEM=<(?same & ?cessation & ?maturation & ?beings)>] -> SAMECLASS[SEM=?same] CESSATION[SEM=?cessation] MATURATION[SEM=?maturation] BEINGS[SEM=?beings]
-SAMECLASS[SEM=<Defines(same_class,sameness_among_beings)>] -> CLASS[CASE=nom] SAMENESS[CASE=nom]
-CESSATION[SEM=<(CessationOf(nonreflective_result,consciousness_and_factors) & Among(nonreflective_result,nonreflective_beings))>] -> RESULT[CASE=nom,REF=result_not_attainment] AMONG[CASE=loc,NUM=pl] STOPPING[CASE=nom] FACTORS[CASE=gen,NUM=pl]
-MATURATION[SEM=<Maturation(nonreflective_result)>] -> RIPENING[CASE=nom,REF=result]
-BEINGS[SEM=<IncludedIn(nonreflective_beings,great_fruit_gods)>] -> THEY[CASE=nom,NUM=pl,REF=beings] GREATFRUIT[CASE=nom,NUM=pl]
-CLASS[CASE=nom] -> 'sabhāgatā'
-SAMENESS[CASE=nom] -> 'sattvasāmyam'
-RESULT[CASE=nom,REF=result_not_attainment] -> 'āsaṃjñikam'
-AMONG[CASE=loc,NUM=pl] -> 'asaṃjñiṣu'
-STOPPING[CASE=nom] -> 'nirodhaḥ'
-FACTORS[CASE=gen,NUM=pl] -> 'cittacaittānām'
-RIPENING[CASE=nom,REF=result] -> 'vipākaḥ'
-THEY[CASE=nom,NUM=pl,REF=beings] -> 'te'
-GREATFRUIT[CASE=nom,NUM=pl] -> 'bṛhatphalāḥ'
+SAMECLASS[SEM=<Defines(same_class,sameness_among_beings)>] -> CLASS SAMENESS
+CLASS -> 'sabhāgatā'
+SAMENESS -> 'sattvasāmyam'
+CESSATION[SEM=<CessationOf(nonreflective_result,consciousness_and_factors) & Among(nonreflective_result,nonreflective_beings)>] -> RESULT AMONG STOPPING FACTORS
+RESULT -> 'āsaṃjñikam'
+AMONG -> 'asaṃjñiṣu'
+STOPPING -> 'nirodhaḥ'
+FACTORS -> 'cittacaittānām'
+MATURATION[SEM=<Maturation(nonreflective_result)>] -> RIPENING
+RIPENING -> 'vipākaḥ'
+BEINGS[SEM=<IncludedIn(nonreflective_beings,great_fruit_gods)>] -> THEY GREATFRUIT
+THEY -> 'te'
+GREATFRUIT -> 'bṛhatphalāḥ'
 ```
 
 ```nltk-dep
@@ -75,46 +68,33 @@ The constituent spans are [0, 2), [2, 6), [6, 7), and [7, 9).
 
 ### Literal Translation
 
-> Same-class is sameness among beings. The non-reflective, among the non-
-> reflective beings, is cessation of consciousness and the mental factors,
-> a maturation; those beings are Great Fruit gods.
+> Same-class is sameness among beings. The non-reflective, among the non-reflective beings, is cessation of consciousness and the mental factors, a maturation; those beings are Great Fruit gods.
+
 ### Bhāṣya-informed study translation
 
-> Same-class is sameness among beings. The non-reflective result among
-> non-reflective beings is cessation of consciousness and the mental
-> factors, a maturation. Those beings belong to the Great Fruit gods.
+> Same-class is sameness among beings. The non-reflective result among non-reflective beings is cessation of consciousness and the mental factors, a maturation. Those beings belong to the Great Fruit gods.
+
 ## 6. Philosophical Translation
 
-> Shared recognition and designation do not by themselves establish
-> a distinct real entity of same-class. The non-reflective result
-> is a maturation of an attainment, not that attainment itself;
-> its cessation occupies an interval bounded by reflection.
-
+> Shared recognition and designation do not by themselves establish a distinct real entity of same-class. The non-reflective result is a maturation of an attainment, not that attainment itself; its cessation occupies an interval bounded by reflection.
 
 ## 7. Technical Vocabulary
 
 **Sabhāgatā.** Same-class, explained as sameness among beings; the status of an independent entity remains disputed.
 
-**Āsaṃjñika.** The non-reflective result: cessation of consciousness
-and mental factors among the specified gods, a maturation of
-non-reflective attainment.
+**Āsaṃjñika.** The non-reflective result: cessation of consciousness and mental factors among the specified gods, a maturation of non-reflective attainment.
 
-**Asaṃjñi-samāpatti.** Non-reflective attainment, the cause whose
-maturation is distinguished here; its detailed classification opens
-in 2.42.
+**Asaṃjñi-samāpatti.** Non-reflective attainment, the cause whose maturation is distinguished here; its detailed classification opens in 2.42.
 
-**Bṛhatphala.** Great Fruit gods. Some in a particular region are
-non-reflective; the prose does not reverse that inclusion.
+**Bṛhatphala.** Great Fruit gods. Some in a particular region are non-reflective; the prose does not reverse that inclusion.
 
 ## 8. Logical Determination
 
-The verse definitions, the four alternatives, and the maturation
-account are separate claims. No finite valuation decides whether
-same-class is a distinct real entity.
+The verse definitions, the four alternatives, and the maturation account are separate claims. No finite valuation decides whether same-class is a distinct real entity.
 
 ```nltk-sem
 same_class : Defines(same_class,sameness_among_beings)
-result : \x.(CessationOf(x,consciousness_and_factors) & Maturation(x))
+result : CessationOf(nonreflective_result,consciousness_and_factors) & Maturation(nonreflective_result)
 ```
 
 ```nltk-fol
@@ -175,30 +155,13 @@ GreatFruitMember => {nonreflective_member,other_great_fruit_member}
 NonreflectiveMember => {nonreflective_member}
 ```
 
-The case labels represent the prose's four alternatives, not a
-claim that every entry into certainty occurs apart from every
-possible rebirth context. The depicted case occurs without dying
-and being reborn. The two Great Fruit examples test the subset
-distinction, not a population count. Later rebirth in the Desire
-Realm is not the location of the non-reflective interval itself.
+The case labels represent the prose's four alternatives, not a claim that every entry into certainty occurs apart from every possible rebirth context. The depicted case occurs without dying and being reborn. The two Great Fruit examples test the subset distinction, not a population count. Later rebirth in the Desire Realm is not the location of the non-reflective interval itself.
 
 ## 9. Interpretive Note
 
-**Translation note.** The extended same-class debate distinguishes
-the real-entity account, its objections, the Vaiśeṣika comparison,
-the Vaibhāṣika scriptural appeal, and the designation reply. The
-second presentation distinguishes the non-reflective result from
-its causal attainment, the Great Fruit region from later Desire-Realm
-rebirth, and the intervening cessation from its reflective boundaries.
+**Translation note.** The extended same-class debate distinguishes the real-entity account, its objections, the Vaiśeṣika comparison, the Vaibhāṣika scriptural appeal, and the designation reply. The second presentation distinguishes the non-reflective result from its causal attainment, the Great Fruit region from later Desire-Realm rebirth, and the intervening cessation from its reflective boundaries.
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base while remaining distinct
-from consciousness and Mind. Recognition of sameness calls for
-an account of the relation, not an automatic promotion of a common
-designation into another entity. Equally, the result of a practice
-must not be identified with the practice that conditions it.
-Detailed post-translation study of these Dharma presentations
-remains part of the later specialty pass.
+In the Organon reading, Cognition joins and governs Perception and Conception and guides the Dharma Base while remaining distinct from consciousness and Mind. Recognition of sameness calls for an account of the relation, not an automatic promotion of a common designation into another entity. Equally, the result of a practice must not be identified with the practice that conditions it. Detailed post-translation study of these Dharma presentations remains part of the later specialty pass.
 
 ## 10. OWL++ Seed
 

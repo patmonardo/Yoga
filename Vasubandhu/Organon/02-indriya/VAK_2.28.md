@@ -27,8 +27,7 @@ dvāviṃśatiś caitasikāḥ kaukṛtyam adhikaṃ kvacit // 2.28 //
 
 Kvacit keeps regret out of the wholesome ground. Consciousness itself is not one of the twenty-two.
 
-The two examination factors are counted within twenty-two, not
-added to it. External sandhi is opened for parsing.
+The two examination factors are counted within twenty-two, not added to it. External sandhi is opened for parsing.
 
 ```text
 # tokens: savitarkavicāratvāt kuśale kāmacetasi dvāviṃśatiḥ caitasikāḥ kaukṛtyam adhikam kvacit
@@ -36,25 +35,22 @@ added to it. External sandhi is opened for parsing.
 
 ## 4. Grammar
 
-The ablative gives the reason for the two additions to the inherited
-ten-plus-ten. The two locatives jointly restrict the base count and
-the conditional addition. Somewhere/in some cases does not mean
-regret is necessarily present or deliberately chosen.
+The ablative gives the reason for the two additions to the inherited ten-plus-ten. The two locatives jointly restrict the base count and the conditional addition. Somewhere/in some cases does not mean regret is necessarily present or deliberately chosen.
 
 ```nltk-fcfg
 % start S
 # tokens: savitarkavicāratvāt kuśale kāmacetasi dvāviṃśatiḥ caitasikāḥ kaukṛtyam adhikam kvacit
 S[SEM=<(?base & ?addition)>] -> BASE[SEM=?base] ADDITION[SEM=?addition]
-BASE[SEM=<all c.(WholesomeDesireMoment(c) -> (InitialExamination(c) & SustainedExamination(c) & BaseCount(c,?count)))>] -> REASON[CASE=abl,PAIR=included] WHOLESOME[CASE=loc] DESIRE[CASE=loc] TWENTYTWO[CNT=22,SEM=?count] FACTORS[CASE=nom,NUM=pl]
-ADDITION[SEM=<all c.((WholesomeDesireMoment(c) & RegretPresent(c)) -> LocalCount(c,twentythree))>] -> REGRET[CASE=nom] EXTRA[MODE=addition] SOMETIMES[SCOPE=some_cases]
-REASON[CASE=abl,PAIR=included] -> 'savitarkavicāratvāt'
-WHOLESOME[CASE=loc] -> 'kuśale'
-DESIRE[CASE=loc] -> 'kāmacetasi'
-TWENTYTWO[CNT=22,SEM=<twentytwo>] -> 'dvāviṃśatiḥ'
-FACTORS[CASE=nom,NUM=pl] -> 'caitasikāḥ'
-REGRET[CASE=nom] -> 'kaukṛtyam'
-EXTRA[MODE=addition] -> 'adhikam'
-SOMETIMES[SCOPE=some_cases] -> 'kvacit'
+BASE[SEM=<all c.(WholesomeDesireMoment(c) -> (InitialExamination(c) & SustainedExamination(c) & BaseCount(c,twentytwo)))>] -> REASON WHOLESOME DESIRE TWENTYTWO FACTORS
+REASON -> 'savitarkavicāratvāt'
+WHOLESOME -> 'kuśale'
+DESIRE -> 'kāmacetasi'
+TWENTYTWO -> 'dvāviṃśatiḥ'
+FACTORS -> 'caitasikāḥ'
+ADDITION[SEM=<all c.((WholesomeDesireMoment(c) & RegretPresent(c)) -> LocalCount(c,twentythree))>] -> REGRET EXTRA SOMETIMES
+REGRET -> 'kaukṛtyam'
+EXTRA -> 'adhikam'
+SOMETIMES -> 'kvacit'
 ```
 
 ```nltk-dep
@@ -72,21 +68,15 @@ SOMETIMES[SCOPE=some_cases] -> 'kvacit'
 
 ### Literal Translation
 
-> In wholesome Desire Realm consciousness, because it is accompanied by
-> initial and sustained examination, there are twenty-two mental factors; regret may be
-> additional in some cases.
+> In wholesome Desire Realm consciousness, because it is accompanied by initial and sustained examination, there are twenty-two mental factors; regret may be additional in some cases.
+
 ### Bhāṣya-informed study translation
 
-> In wholesome Desire-Realm consciousness, twenty-two mental factors
-> necessarily occur: the ten universal factors, the ten wholesome factors,
-> and initial and sustained examination. In some cases regret is additional,
-> making twenty-three where it is present.
+> In wholesome Desire-Realm consciousness, twenty-two mental factors necessarily occur: the ten universal factors, the ten wholesome factors, and initial and sustained examination. In some cases regret is additional, making twenty-three where it is present.
+
 ## 6. Philosophical Translation
 
-> The necessary inventory is inherited ten plus ten and the examination
-> pair. Regret is a conditional addition, not a universal wholesome
-> factor. Its name can be transferred from its Cognitive Condition
-> or, alternatively, from cause to effect; the deed is not the factor.
+> The necessary inventory is inherited ten plus ten and the examination pair. Regret is a conditional addition, not a universal wholesome factor. Its name can be transferred from its Cognitive Condition or, alternatively, from cause to effect; the deed is not the factor.
 
 ## 7. Technical Vocabulary
 
@@ -103,13 +93,11 @@ SOMETIMES[SCOPE=some_cases] -> 'kvacit'
 
 ## 8. Logical Determination
 
-**Kārikā with prose-resolved counts.** BaseCount is the necessary
-twenty-two; LocalCount records the local regret increment, not an
-exclusive ceiling over every later-qualified episode.
+**Kārikā with prose-resolved counts.** BaseCount is the necessary twenty-two; LocalCount records the local regret increment, not an exclusive ceiling over every later-qualified episode.
 
 ```nltk-sem
-base_scope : \P.all c.(WholesomeDesireMoment(c) -> P(c))
-regret_increment : \c.((WholesomeDesireMoment(c) & RegretPresent(c)) -> LocalCount(c,twentythree))
+base_scope : all c.(WholesomeDesireMoment(c) -> BaseCount(c,twentytwo))
+regret_increment : (WholesomeDesireMoment(c) & RegretPresent(c)) -> LocalCount(c,twentythree)
 ```
 
 ```nltk-fol
@@ -155,11 +143,7 @@ BaseMember => {feeling,volition,reflection,wish,contact,comprehension,mindfulnes
 Present => {(base_moment,feeling),(base_moment,volition),(base_moment,reflection),(base_moment,wish),(base_moment,contact),(base_moment,comprehension),(base_moment,mindfulness),(base_moment,attention),(base_moment,resolution),(base_moment,concentration),(base_moment,faith),(base_moment,heedfulness),(base_moment,pliancy),(base_moment,equanimity),(base_moment,shame),(base_moment,caution),(base_moment,nongreed),(base_moment,nonhatred),(base_moment,nonharming),(base_moment,vigor),(base_moment,initial_examination),(base_moment,sustained_examination),(regret_moment,feeling),(regret_moment,volition),(regret_moment,reflection),(regret_moment,wish),(regret_moment,contact),(regret_moment,comprehension),(regret_moment,mindfulness),(regret_moment,attention),(regret_moment,resolution),(regret_moment,concentration),(regret_moment,faith),(regret_moment,heedfulness),(regret_moment,pliancy),(regret_moment,equanimity),(regret_moment,shame),(regret_moment,caution),(regret_moment,nongreed),(regret_moment,nonhatred),(regret_moment,nonharming),(regret_moment,vigor),(regret_moment,initial_examination),(regret_moment,sustained_examination),(regret_moment,regret_kind)}
 ```
 
-The external unwholesome-regret example witnesses a scope error:
-regret alone does not imply this verse's twenty-three. Its full
-inventory is left unmodeled, not assigned a default count. These
-finite inventories test 10 + 10 + 2 and the conditional +1, not the
-adequacy of every factor definition or all later additions.
+The external unwholesome-regret example witnesses a scope error: regret alone does not imply this verse's twenty-three. Its full inventory is left unmodeled, not assigned a default count. These finite inventories test 10 + 10 + 2 and the conditional +1, not the adequacy of every factor definition or all later additions.
 
 ## 9. Interpretive Note
 
@@ -169,14 +153,9 @@ Five cases are announced. This verse is the wholesome one. Isolated is not consc
 
 Kvacit is the unfixed of 2.27 made local. Regret can be wholesome and still not be in every wholesome consciousness. Further additions may be stated later. This is the local rule.
 
-Two accounts of the name stay alternatives: naming through the
-Cognitive Condition, and the cause's name applied to the effect. The direction of the second is from cause to effect. Omission is included without pretending the omitted deed occurred.
+Two accounts of the name stay alternatives: naming through the Cognitive Condition, and the cause's name applied to the effect. The direction of the second is from cause to effect. Omission is included without pretending the omitted deed occurred.
 
-In the Organon reading, Cognition governs Perception and Conception
-without collapsing into consciousness or Mind. The present inventory
-counts mental factors accompanying consciousness, not Cognition
-as a twenty-third member. The deed and the regret directed toward
-it also remain distinct.
+In the Organon reading, Cognition governs Perception and Conception without collapsing into consciousness or Mind. The present inventory counts mental factors accompanying consciousness, not Cognition as a twenty-third member. The deed and the regret directed toward it also remain distinct.
 
 ## 10. OWL++ Seed
 

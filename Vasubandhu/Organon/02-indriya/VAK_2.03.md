@@ -32,10 +32,7 @@ jīvitaṃ vedanāḥ pañca śraddhādyāś cendriyaṃ matāḥ // 2.3 //
 
 The compound gives three fields. The second line gives three groups, in that order.
 
-**Grammar tokens.** The long causal compound remains one Sanskrit
-token; its three fields are separated in `SEM`. External sandhi is
-opened at *śraddhādyāś cendriyam*. The verse states five feelings; the
-Bhāṣya, not the verse, specifies five beginning with faith.
+**Grammar tokens.** The long causal compound remains one Sanskrit token; its three fields are separated in SEM. External sandhi is opened at *śraddhādyāś cendriyam*. The verse states five feelings; the Bhāṣya, not the verse, specifies five beginning with faith.
 
 ```text
 # tokens: nikāya-sthiti-saṃkleśa-vyavadāna-ādhipatyataḥ jīvitam vedanāḥ pañca śraddhā-ādyāḥ ca indriyam matāḥ
@@ -43,28 +40,20 @@ Bhāṣya, not the verse, specifies five beginning with faith.
 
 ## 4. Grammar
 
-The initial causal ablative gives three governed fields in order:
-class-persistence, defilement, purification. The second line gives their
-three bearer groups in the same order. The grammar unifies those orders
-and makes the three governing relations explicit. *Pañca* counts only
-*vedanāḥ*. Singular *indriyam* predicates Faculty distributively;
-plural *matāḥ* agrees with the coordinated subjects and marks the
-classification as held.
+The initial causal ablative gives three governed fields in order: class-persistence, defilement, purification. The second line gives their three bearer groups in the same order. The grammar unifies those orders and makes the three governing relations explicit. *Pañca* counts only *vedanāḥ*. Singular *indriyam* predicates Faculty distributively; plural *matāḥ* agrees with the coordinated subjects and marks the classification as held.
 
 ```nltk-fcfg
 % start S
 # tokens: nikāya-sthiti-saṃkleśa-vyavadāna-ādhipatyataḥ jīvitam vedanāḥ pañca śraddhā-ādyāḥ ca indriyam matāḥ
-S[SEM=<(?fields & ?faculties)>] -> FIELDS[CASE=abl,ORDER=life_feeling_faith,SEM=?fields] GROUPS[ORDER=life_feeling_faith,SEM=?faculties]
-FIELDS[CASE=abl,ORDER=life_feeling_faith,SEM=<(Governs(life_faculty,class_persistence) & all x.(FeelingFaculty(x) -> Governs(x,defilement)) & all x.(FaithSeriesFaculty(x) -> Governs(x,purification)))>] -> 'nikāya-sthiti-saṃkleśa-vyavadāna-ādhipatyataḥ'
-GROUPS[ORDER=life_feeling_faith,SEM=<(Faculty(life_faculty) & all x.(FeelingFaculty(x) -> Faculty(x)) & all x.(FaithSeriesFaculty(x) -> Faculty(x)))>] -> LIFE[CASE=nom,NUM=sg,GEN=n] FEELGROUP[CASE=nom,NUM=pl,GEN=f,CNT=5] FAITH[CASE=nom,NUM=pl] CA FAC[CASE=nom,NUM=sg,GEN=n,DISTRIBUTIVE=true] HELD[NUM=pl,EVID=held]
-LIFE[CASE=nom,NUM=sg,GEN=n] -> 'jīvitam'
-FEELGROUP[CASE=nom,NUM=pl,GEN=f,CNT=5] -> FEEL[CASE=nom,NUM=pl,GEN=f] NUM[CNT=5]
-FEEL[CASE=nom,NUM=pl,GEN=f] -> 'vedanāḥ'
-NUM[CNT=5] -> 'pañca'
-FAITH[CASE=nom,NUM=pl] -> 'śraddhā-ādyāḥ'
+S[SEM=<(?fields & ?faculties)>] -> FIELDS[SEM=?fields] GROUPS[SEM=?faculties]
+FIELDS[SEM=<Governs(life_faculty,class_persistence) & all x.(FeelingFaculty(x) -> Governs(x,defilement)) & all x.(FaithSeriesFaculty(x) -> Governs(x,purification))>] -> 'nikāya-sthiti-saṃkleśa-vyavadāna-ādhipatyataḥ'
+GROUPS[SEM=<Faculty(life_faculty) & all x.(FeelingFaculty(x) -> Faculty(x)) & all x.(FaithSeriesFaculty(x) -> Faculty(x))>] -> LIFE FEELGROUP FAITH CA FAC HELD
+LIFE -> 'jīvitam'
+FEELGROUP -> 'vedanāḥ' 'pañca'
+FAITH -> 'śraddhā-ādyāḥ'
 CA -> 'ca'
-FAC[CASE=nom,NUM=sg,GEN=n,DISTRIBUTIVE=true] -> 'indriyam'
-HELD[NUM=pl,EVID=held] -> 'matāḥ'
+FAC -> 'indriyam'
+HELD -> 'matāḥ'
 ```
 
 ```nltk-dep
@@ -73,32 +62,21 @@ HELD[NUM=pl,EVID=held] -> 'matāḥ'
 'śraddhā-ādyāḥ' -> 'ca'
 ```
 
-**Feature chart checkpoints.** The eight tokens form `FIELDS` [0, 1),
-`GROUPS` [1, 8), and one root [0, 8). The `ORDER` feature links the
-field triple to its bearer triple; changing it or the numeral's count
-blocks the parse. `DISTRIBUTIVE=true` records the singular class noun's
-force, while `EVID=held` records *matāḥ* outside the truth conditions.
-The Bhāṣya confirms the ordered distribution; token order alone does
-not establish it.
+**Feature chart checkpoints.** The eight tokens form `FIELDS` [0, 1), `GROUPS` [1, 8), and one root [0, 8). The order links the field triple to its bearer triple; changing it or the numeral's count blocks the parse. Distributive force is recorded for the singular class noun; *matāḥ* marks the classification as held. The Bhāṣya confirms the ordered distribution; token order alone does not establish it.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Because of governing efficacy over class-persistence, defilement, and
-> purification, life, the five feelings, and those beginning with faith are
-> held to be faculty.
+> Because of governing efficacy over class-persistence, defilement, and purification, life, the five feelings, and those beginning with faith are held to be faculty.
 
 ### Bhāṣya-informed study translation
 
-> Life, the five feelings, and those beginning with faith are held to be
-> Faculties through governing, respectively, class-persistence, defilement,
-> and purification.
+> Life, the five feelings, and those beginning with faith are held to be Faculties through governing, respectively, class-persistence, defilement, and purification.
 
 ## 6. Philosophical Translation
 
-> Facultyhood is explained here through governing class-persistence,
-> defilement, and purification, beyond the apprehension treated in 2.02.
+> Facultyhood is explained here through governing class-persistence, defilement, and purification, beyond the apprehension treated in 2.02.
 
 ## 7. Technical Vocabulary
 
@@ -120,13 +98,7 @@ not establish it.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root `SEM` assigns life to class-persistence,
-each feeling Faculty to defilement, and each member of the faith-series
-to purification. It also predicates Faculty of each bearer. The
-Bhāṣya specifies three feeling tones and two coordinated operations of
-the five beginning with faith. Those specifications are separate
-theories; neither feeling nor checking is identified with what it can
-occasion or prepare.
+**Kārikā, derived.** The root SEM assigns life to class-persistence, each feeling Faculty to defilement, and each member of the faith-series to purification. It also predicates Faculty of each bearer. The Bhāṣya specifies three feeling tones and two coordinated operations of the five beginning with faith. Those specifications are separate theories; neither feeling nor checking is identified with what it can occasion or prepare.
 
 ```nltk-sem
 fields : Governs(life_faculty,class_persistence) & all x.(FeelingFaculty(x) -> Governs(x,defilement)) & all x.(FaithSeriesFaculty(x) -> Governs(x,purification))
@@ -165,13 +137,7 @@ all x.(ChecksAfflictions(x) -> AbandonsAfflictions(x))
 all x.(Governs(x,class_persistence) -> CreatesClass(x))
 ```
 
-The Bhāṣya's cited sūtra relates attachment, aversion, and ignorance
-to pleasant, painful, and neutral feeling by *anuśete*; `LatentIn`
-records that relation without asserting identity or production. The
-five beginning with faith both check afflictions and bring the Path
-forward; the source gives no order between those operations. The false
-theories test three specific mistakes: feeling as affliction, checking
-as final abandonment, and class-persistence as creation.
+The Bhāṣya's cited sūtra relates attachment, aversion, and ignorance to pleasant, painful, and neutral feeling by *anuśete*; LatentIn records that relation without asserting identity or production. The five beginning with faith both check afflictions and bring the Path forward; the source gives no order between those operations. The false theories test three specific mistakes: feeling as affliction, checking as final abandonment, and class-persistence as creation.
 
 ```nltk-valuation
 life_faculty => life_d
@@ -199,19 +165,11 @@ AbandonsAfflictions => {}
 CreatesClass => {}
 ```
 
-The finite valuation has five feeling Faculties, three tones, and five
-members of the faith-series. The verse explicitly counts feelings;
-the Bhāṣya specifies the faith count and the cited three-tone scheme.
-The model witnesses these claims without proving exhaustive membership.
-The other three of the eight mentioned in 2.01 enter at 2.04.
+The finite valuation has five feeling Faculties, three tones, and five members of the faith-series. The verse explicitly counts feelings; the Bhāṣya specifies the faith count and the cited three-tone scheme. The model witnesses these claims without proving exhaustive membership. The other three of the eight mentioned in 2.01 enter at 2.04.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): Life governs the standing of the class, not its
-arising. The five feelings govern the tones on which affliction lies.
-Those beginning with faith govern purification by checking the afflictions
-and drawing the path forward. Each is faculty by that efficacy.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): Life governs the standing of the class, not its arising. The five feelings govern the tones on which affliction lies. Those beginning with faith govern purification by checking the afflictions and drawing the path forward. Each is faculty by that efficacy.
 
 2.01 named defilement and purification as the last distribution. 2.02 revised the six and the body-portion. This verse gives the predicate of the rest that are in view: life, the five feelings, and five of the eight.
 

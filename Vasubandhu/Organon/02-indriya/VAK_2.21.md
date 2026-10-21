@@ -27,9 +27,7 @@ dviliṅga āryo rāgī ekaliṅgadvayāmalavarjitaiḥ // 2.21 //
 | rāgī | nominative singular masculine adjective from rāgin | still with attachment, not free from attachment |
 | eka-liṅga-dvaya-amala-varjitaiḥ | instrumental plural compound adjective | with [Faculties] excluding one sex Faculty and two stainless Faculties |
 
-The running witness has a short vowel in the final compound; the
-study's long-vowel reading is editorial. The prose resolves two
-uncontaminated Faculties. External sandhi is opened for parsing.
+The running witness has a short vowel in the final compound; the study's long-vowel reading is editorial. The prose resolves two uncontaminated Faculties. External sandhi is opened for parsing.
 
 ```text
 # tokens: bahubhiḥ yuktaḥ ekānnaviṃśatyā amala-varjitaiḥ dviliṅgaḥ āryaḥ rāgī eka-liṅga-dvaya-amala-varjitaiḥ
@@ -37,27 +35,22 @@ uncontaminated Faculties. External sandhi is opened for parsing.
 
 ## 4. Grammar
 
-The first subject follows its instrumental predicates. The prose's
-“who else?” separates the noble trainee from the person possessing
-both sex Faculties. The second clause inherits the numeral through
-shared `CNT` and `COUNTSEM` features; it does not carry both-sex
-status or exclusion of all three stainless Faculties. Completeness and trainee status are
-Bhāṣya qualifications, not additional words in the verse.
+The first subject follows its instrumental predicates. The prose's “who else?” separates the noble trainee from the person possessing both sex Faculties. The second clause inherits the numeral through the shared count; it does not carry both-sex status or exclusion of all three stainless Faculties. Completeness and trainee status are Bhāṣya qualifications, not additional words in the verse.
 
 ```nltk-fcfg
 % start S
 # tokens: bahubhiḥ yuktaḥ ekānnaviṃśatyā amala-varjitaiḥ dviliṅgaḥ āryaḥ rāgī eka-liṅga-dvaya-amala-varjitaiḥ
-S[SEM=<(?first & ?second)>] -> FIRST[CNT=?n,COUNTSEM=?count,SEM=?first] SECOND[CNT=?n,COUNTSEM=?count,SEM=?second]
-FIRST[CNT=19,COUNTSEM=?count,SEM=<(MaximumCount(?person,?count) & ?exclude(?person) & BothSexes(?person))>] -> MOST[CASE=ins] ENDOWED[CASE=nom,GEN=m] NINETEEN[CASE=ins,CNT=19,SEM=?count] FIRSTEXCLUSION[CASE=ins,STAINLESS=3,SEM=?exclude] BOTH[CASE=nom,GEN=m,SEM=?person]
-SECOND[CNT=19,COUNTSEM=?count,SEM=<(MaximumCount(learner,?count) & Noble(learner) & ?attached(learner) & ?exclude(learner))>] -> NOBLE[CASE=nom,GEN=m,SUBJECT=second] ATTACHED[CASE=nom,GEN=m,SEM=?attached] SECONDEXCLUSION[CASE=ins,SEX=1,STAINLESS=2,SEM=?exclude]
-MOST[CASE=ins] -> 'bahubhiḥ'
-ENDOWED[CASE=nom,GEN=m] -> 'yuktaḥ'
-NINETEEN[CASE=ins,CNT=19,SEM=<nineteen>] -> 'ekānnaviṃśatyā'
-FIRSTEXCLUSION[CASE=ins,STAINLESS=3,SEM=<\c.ExcludesThreeStainless(c)>] -> 'amala-varjitaiḥ'
-BOTH[CASE=nom,GEN=m,SEM=<both_sexes>] -> 'dviliṅgaḥ'
-NOBLE[CASE=nom,GEN=m,SUBJECT=second] -> 'āryaḥ'
-ATTACHED[CASE=nom,GEN=m,SEM=<\c.StillAttached(c)>] -> 'rāgī'
-SECONDEXCLUSION[CASE=ins,SEX=1,STAINLESS=2,SEM=<\c.ExcludesOneSexTwoStainless(c)>] -> 'eka-liṅga-dvaya-amala-varjitaiḥ'
+S[SEM=<(?first & ?second)>] -> FIRST[SEM=?first] SECOND[SEM=?second]
+FIRST[SEM=<MaximumCount(both_sexes,nineteen) & ExcludesThreeStainless(both_sexes) & BothSexes(both_sexes)>] -> MOST ENDOWED NINETEEN FIRSTEXCLUSION BOTH
+MOST -> 'bahubhiḥ'
+ENDOWED -> 'yuktaḥ'
+NINETEEN -> 'ekānnaviṃśatyā'
+FIRSTEXCLUSION -> 'amala-varjitaiḥ'
+BOTH -> 'dviliṅgaḥ'
+SECOND[SEM=<MaximumCount(learner,nineteen) & Noble(learner) & StillAttached(learner) & ExcludesOneSexTwoStainless(learner)>] -> NOBLE ATTACHED SECONDEXCLUSION
+NOBLE -> 'āryaḥ'
+ATTACHED -> 'rāgī'
+SECONDEXCLUSION -> 'eka-liṅga-dvaya-amala-varjitaiḥ'
 ```
 
 ```nltk-dep
@@ -65,9 +58,7 @@ SECONDEXCLUSION[CASE=ins,SEX=1,STAINLESS=2,SEM=<\c.ExcludesOneSexTwoStainless(c)
 'āryaḥ' -> 'rāgī' | 'eka-liṅga-dvaya-amala-varjitaiḥ'
 ```
 
-The link from endowment to the second subject marks ellipsis; it does
-not make the two subjects one person. The dependency audit checks
-token coverage, not a full syntactic derivation.
+The link from endowment to the second subject marks ellipsis; it does not make the two subjects one person. The dependency audit checks token coverage, not a full syntactic derivation.
 
 | Span | Constituent | Result |
 |---|---|---|
@@ -79,24 +70,15 @@ token coverage, not a full syntactic derivation.
 
 ### Literal Translation
 
-> Endowed with the greatest number, nineteen, excluding the stainless: one
-> possessing both sex faculties. A noble person still possessing attachment,
-> excluding one sex faculty and two stainless faculties.
+> Endowed with the greatest number, nineteen, excluding the stainless: one possessing both sex faculties. A noble person still possessing attachment, excluding one sex faculty and two stainless faculties.
 
 ### Bhāṣya-informed study translation
 
-> A person possessing both sex Faculties, with Faculties complete,
-> possesses the greatest number, nineteen, excluding the three stainless
-> Faculties. A noble trainee still with attachment likewise possesses
-> nineteen, excluding one sex Faculty and two stainless Faculties:
-> the Faculty of one who has known and either of the other two.
+> A person possessing both sex Faculties, with Faculties complete, possesses the greatest number, nineteen, excluding the three stainless Faculties. A noble trainee still with attachment likewise possesses nineteen, excluding one sex Faculty and two stainless Faculties: the Faculty of one who has known and either of the other two.
 
 ## 6. Philosophical Translation
 
-> The maximum count does not measure completion of realization.
-> One nineteen includes both sex Faculties and no realization-Faculty;
-> the trainee's nineteen includes one sex Faculty and one
-> realization-Faculty. Equal totals preserve different qualifications.
+> The maximum count does not measure completion of realization. One nineteen includes both sex Faculties and no realization-Faculty; the trainee's nineteen includes one sex Faculty and one realization-Faculty. Equal totals preserve different qualifications.
 
 ## 7. Technical Vocabulary
 
@@ -111,16 +93,12 @@ token coverage, not a full syntactic derivation.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The SEM distinguishes the two subjects and their
-exclusion patterns while deriving both counts from the one numeral.
-The following finite inventories expand the Bhāṣya: the complete first case, and two alternative trainee cases.
-The trainee alternatives are not a joint possession of both remaining
-realization-Faculties.
+**Kārikā, derived.** The SEM distinguishes the two subjects and their exclusion patterns while deriving both counts from the one numeral. The following finite inventories expand the Bhāṣya: the complete first case, and two alternative trainee cases. The trainee alternatives are not a joint possession of both remaining realization-Faculties.
 
 ```nltk-sem
-first_exclusion : \c.ExcludesThreeStainless(c)
-attachment : \c.StillAttached(c)
-second_exclusion : \c.ExcludesOneSexTwoStainless(c)
+first_exclusion : ExcludesThreeStainless(both_sexes)
+attachment : StillAttached(learner)
+second_exclusion : ExcludesOneSexTwoStainless(learner)
 ```
 
 ```nltk-fol
@@ -177,41 +155,21 @@ ProspectiveMember => {eye,ear,nose,tongue,body,male,life,mind,pain,pleasure,glad
 KnowledgeMember => {eye,ear,nose,tongue,body,female,life,mind,pain,pleasure,gladness,distress,neutral,faith,vigor,mindfulness,concentration,comprehension,knowledge}
 ```
 
-Each inventory has nineteen actual members out of twenty-two.
-The trainee examples choose opposite sex Faculties to display the
-one-sex exclusion; neither realization alternative is tied to that
-choice. Either sex can be retained in either alternative. The first
-nineteen and each trainee nineteen share eighteen members.
-`MaximumCount` is a label checked against these inventories, not
-a proof that no unmodeled configuration exceeds nineteen.
+Each inventory has nineteen actual members out of twenty-two. The trainee examples choose opposite sex Faculties to display the one-sex exclusion; neither realization alternative is tied to that choice. Either sex can be retained in either alternative. The first nineteen and each trainee nineteen share eighteen members. MaximumCount is a label checked against these inventories, not a proof that no unmodeled configuration exceeds nineteen.
 
-The source's maximum question is not a universal assertion that every
-trainee, including one lacking other Faculties, possesses nineteen.
-Nor does possession assert simultaneous occurrence or greater strength.
+The source's maximum question is not a universal assertion that every trainee, including one lacking other Faculties, possesses nineteen. Nor does possession assert simultaneous occurrence or greater strength.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): The greatest number is nineteen. One possessing both
-sex faculties is endowed with nineteen, excluding the stainless triad. A
-trainee still possessing attachment is also endowed with nineteen,
-excluding one sex faculty and two of the stainless. The maximum is not the
-full twenty-two. It is the complete ordinary or still-attached noble
-continuum.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): The greatest number is nineteen. One possessing both sex faculties is endowed with nineteen, excluding the stainless triad. A trainee still possessing attachment is also endowed with nineteen, excluding one sex faculty and two of the stainless. The maximum is not the full twenty-two. It is the complete ordinary or still-attached noble continuum.
 
-The first case reaches nineteen by retaining all Faculties other than
-the realization triad, not by that absence alone. Both sex characteristics
-do not by themselves supply the nineteen. Complete is the qualification.
+The first case reaches nineteen by retaining all Faculties other than the realization triad, not by that absence alone. Both sex characteristics do not by themselves supply the nineteen. Complete is the qualification.
 
 The trainee exclusions are compatibility with a stage, not a deficit measured against the worldly case. Continuing attachment is kept. Noble is not the end of training. Possession is not nineteen faculties in one moment, and not a measure of strength.
 
 Dviliṅga does not join ārya. Who else introduces the second subject. Stainless is uncontaminated, all three in the first case, two named in the second. The conjunction is one who has known and either of the other two, not either completed knowledge or one other.
 
-The Bhāṣya closes the Faculty differentiation introduced through the
-Principles; it does not close the chapter. In the Organon reading,
-Cognition governs Perception and Conception without collapsing into
-Mind or consciousness. A count of possessed Faculties is not itself
-an account of that governing operation.
+The Bhāṣya closes the Faculty differentiation introduced through the Principles; it does not close the chapter. In the Organon reading, Cognition governs Perception and Conception without collapsing into Mind or consciousness. A count of possessed Faculties is not itself an account of that governing operation.
 
 ## 10. OWL++ Seed
 

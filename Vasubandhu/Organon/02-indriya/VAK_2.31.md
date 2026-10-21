@@ -29,8 +29,7 @@ dhyānāntare vitarkaś ca vicāraś cāpy ataḥ param // 2.31 //
 
 Ataḥ points back to the Desire Realm distribution. Not a cause.
 
-The later ataḥ points to the intermediate level. Sandhi is opened;
-the coordinated opening compound remains intact.
+The later ataḥ points to the intermediate level. Sandhi is opened; the coordinated opening compound remains intact.
 
 ```text
 # tokens: kaukṛtyamiddhākuśalāni ādye dhyāne na santi ataḥ dhyānāntare vitarkaḥ ca vicāraḥ ca api ataḥ param
@@ -38,32 +37,26 @@ the coordinated opening compound remains intact.
 
 ## 4. Grammar
 
-The first clause excludes three categories relative to the preceding
-distribution. The next two carry the negative predicate and prior
-exclusions forward. These are distinct levels with cumulative
-restrictions, not a chain of level identities. The prose resolves
-api as additionally excluding deception and crookedness beyond
-the intermediate.
+The first clause excludes three categories relative to the preceding distribution. The next two carry the negative predicate and prior exclusions forward. These are distinct levels with cumulative restrictions, not a chain of level identities. The prose resolves *api* as additionally excluding deception and crookedness beyond the intermediate.
 
 ```nltk-fcfg
 % start S
 # tokens: kaukṛtyamiddhākuśalāni ādye dhyāne na santi ataḥ dhyānāntare vitarkaḥ ca vicāraḥ ca api ataḥ param
 S[SEM=<(?first & ?intermediate & ?beyond)>] -> FIRST[SEM=?first] INTERMEDIATE[SEM=?intermediate] BEYOND[SEM=?beyond]
-FIRST[SEM=<(Excludes(first,regret) & Excludes(first,torpor) & Excludes(first,unwholesome))>] -> DROPS[CASE=nom,NUM=pl] FIRSTLEVEL[CASE=loc] DHYANA[CASE=loc] NOT ARE[NUM=pl] FROM[REF=desire_distribution]
-INTERMEDIATE[SEM=<(CarriesExclusions(intermediate,first) & Excludes(intermediate,initial))>] -> MIDLEVEL[CASE=loc] INITIAL[CASE=nom] AND
-BEYOND[SEM=<(CarriesExclusions(beyond,intermediate) & Excludes(beyond,sustained))>] -> SUSTAINED[CASE=nom] AND ALSO[READING=further_exclusion] FROM[REF=intermediate] BEYONDWORD
-DROPS[CASE=nom,NUM=pl] -> 'kaukṛtyamiddhākuśalāni'
-FIRSTLEVEL[CASE=loc] -> 'ādye'
-DHYANA[CASE=loc] -> 'dhyāne'
+FIRST[SEM=<Excludes(first,regret) & Excludes(first,torpor) & Excludes(first,unwholesome)>] -> DROPS FIRSTLEVEL DHYANA NOT ARE FROM
+DROPS -> 'kaukṛtyamiddhākuśalāni'
+FIRSTLEVEL -> 'ādye'
+DHYANA -> 'dhyāne'
 NOT -> 'na'
-ARE[NUM=pl] -> 'santi'
-FROM[REF=desire_distribution] -> 'ataḥ'
-MIDLEVEL[CASE=loc] -> 'dhyānāntare'
-INITIAL[CASE=nom] -> 'vitarkaḥ'
+ARE -> 'santi'
+FROM -> 'ataḥ'
+INTERMEDIATE[SEM=<CarriesExclusions(intermediate,first) & Excludes(intermediate,initial)>] -> MIDLEVEL INITIAL AND
+MIDLEVEL -> 'dhyānāntare'
+INITIAL -> 'vitarkaḥ'
 AND -> 'ca'
-SUSTAINED[CASE=nom] -> 'vicāraḥ'
-ALSO[READING=further_exclusion] -> 'api'
-FROM[REF=intermediate] -> 'ataḥ'
+BEYOND[SEM=<CarriesExclusions(beyond,intermediate) & Excludes(beyond,sustained)>] -> SUSTAINED AND ALSO FROM BEYONDWORD
+SUSTAINED -> 'vicāraḥ'
+ALSO -> 'api'
 BEYONDWORD -> 'param'
 ```
 
@@ -73,8 +66,7 @@ BEYONDWORD -> 'param'
 'vicāraḥ' -> 'ca' | 'api'
 ```
 
-The dependencies cover the carried predicate; the two identical ataḥ
-tokens receive their distinct references in the feature grammar.
+The dependencies cover the carried predicate; the two identical ataḥ tokens receive their distinct references in the feature grammar.
 
 | Span | Constituent | Result |
 |---|---|---|
@@ -86,17 +78,12 @@ tokens receive their distinct references in the feature grammar.
 
 ### Literal Translation
 
-> Regret, torpor, and the unwholesome factors are absent in the first
-> dhyāna. In the intermediate dhyāna, vitarka too is absent; beyond it,
-> vicāra too.
+> Regret, torpor, and the unwholesome factors are absent in the first dhyāna. In the intermediate dhyāna, vitarka too is absent; beyond it, vicāra too.
+
 ### Bhāṣya-informed study translation
 
-> Of the previously stated factors, regret, torpor, and all unwholesome
-> factors are absent in the first dhyāna. In the intermediate dhyāna,
-> initial examination is also absent. Beyond the intermediate—in the
-> second and higher dhyānas and the Formless levels—sustained examination
-> is also absent, as are deception and crookedness. Prior exclusions
-> continue to apply.
+> Of the previously stated factors, regret, torpor, and all unwholesome factors are absent in the first dhyāna. In the intermediate dhyāna, initial examination is also absent. Beyond the intermediate—in the second and higher dhyānas and the Formless levels—sustained examination is also absent, as are deception and crookedness. Prior exclusions continue to apply.
+
 ## 6. Philosophical Translation
 
 > The higher levels drop factors; they do not invent new ones. Unwholesome is excluded; not every affliction is. The accumulation is the rule.
@@ -117,14 +104,11 @@ Mada is not conceit. Middha is not sluggishness.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** Excludes relates a level to an excluded category.
-CarriesExclusions relates restrictions, not a consciousness's identity.
-The prose adds two named exclusions and specifies the first-level
-anger-group exceptions.
+**Kārikā, derived.** Excludes relates a level to an excluded category. CarriesExclusions relates restrictions, not a consciousness's identity. The prose adds two named exclusions and specifies the first-level anger-group exceptions.
 
 ```nltk-sem
-exclusion : \f.\l.Excludes(l,f)
-carry : \a.\b.CarriesExclusions(b,a)
+exclusion : Excludes(first,regret)
+carry : CarriesExclusions(intermediate,first)
 ```
 
 ```nltk-fol
@@ -169,12 +153,7 @@ FirstException => {crookedness_kind,intoxication_kind,deception_kind}
 FirstAngerGroupExclusion => {anger_kind,resentment_kind,envy_kind,spite_kind,concealment_kind,stinginess_kind,harmfulness_kind}
 ```
 
-The exclusion table mixes explicitly labeled categories and named
-factors; its row lengths are not totals of absent factors. In
-particular, unwholesome is not a single factor. Omission from the
-further drop does not assert intoxication's occurrence in every
-higher consciousness. The model tests the stated cumulative rules,
-not the entire distribution of every possible higher-level episode.
+The exclusion table mixes explicitly labeled categories and named factors; its row lengths are not totals of absent factors. In particular, unwholesome is not a single factor. Omission from the further drop does not assert intoxication's occurrence in every higher consciousness. The model tests the stated cumulative rules, not the entire distribution of every possible higher-level episode.
 
 ## 9. Interpretive Note
 
@@ -186,10 +165,7 @@ The title sequence is damaged. Creator, Producer is provisional. Four and I am a
 
 The close indexes three variables: which level, which consciousness, how many factors. The remainder as before keeps what was not altered.
 
-In the Organon reading, Cognition governs Perception and Conception
-without collapsing into consciousness or Mind. A level's inventory
-restricts possible accompanying factors; it does not identify that
-level with an earlier one or make status itself knowledge.
+In the Organon reading, Cognition governs Perception and Conception without collapsing into consciousness or Mind. A level's inventory restricts possible accompanying factors; it does not identify that level with an earlier one or make status itself knowledge.
 
 ## 10. OWL++ Seed
 

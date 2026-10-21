@@ -32,8 +32,7 @@ middhaṃ sarvāvirodhitvād yatra syād adhikaṃ hi tat // 2.30 //
 
 Indeterminate is karmic. Not the unfixed of 2.27. Torpor is not sluggishness.
 
-Desire-Realm scope is carried from the preceding counts. External
-sandhi is opened; other means the unobscured indeterminate.
+Desire-Realm scope is carried from the preceding counts. External sandhi is opened; other means the unobscured indeterminate.
 
 ```text
 # tokens: nivṛte aṣṭādaśa anyatra dvādaśa avyākṛte matāḥ middham sarvāvirodhitvāt yatra syāt adhikam hi tat
@@ -41,31 +40,27 @@ sandhi is opened; other means the unobscured indeterminate.
 
 ## 4. Grammar
 
-The two base-count clauses share the indeterminate qualification.
-The conditional relative clause restricts the increment to wherever
-torpor occurs. Compatibility is the reason the increment can apply
-across the previously stated cases, not a claim that torpor is
-present in every one.
+The two base-count clauses share the indeterminate qualification. The conditional relative clause restricts the increment to wherever torpor occurs. Compatibility is the reason the increment can apply across the previously stated cases, not a claim that torpor is present in every one.
 
 ```nltk-fcfg
 % start S
 # tokens: nivṛte aṣṭādaśa anyatra dvādaśa avyākṛte matāḥ middham sarvāvirodhitvāt yatra syāt adhikam hi tat
 S[SEM=<(?counts & ?increment)>] -> COUNTS[SEM=?counts] TORPORCLAUSE[SEM=?increment]
-COUNTS[SEM=<(BaseCount(obscured,?a) & BaseCount(unobscured,?b))>] -> OBSCURED[CASE=loc] EIGHTEEN[CNT=18,SEM=?a] OTHER[REF=unobscured] TWELVE[CNT=12,SEM=?b] INDETERMINATE[CASE=loc] ACCEPTED[CASE=nom,NUM=pl]
-TORPORCLAUSE[SEM=<(CompatibleWithStatedCases(torpor) & all c.((StatedCase(c) & TorporPresent(c)) -> AddsOne(c,torpor)))>] -> TORPOR[CASE=nom] REASON[CASE=abl,READING=compatibility] WHERE[READING=conditional] MAY[MOOD=opt] ADDITION[MODE=plus_one] INDEED THAT[REF=torpor]
-OBSCURED[CASE=loc] -> 'nivṛte'
-EIGHTEEN[CNT=18,SEM=<eighteen>] -> 'aṣṭādaśa'
-OTHER[REF=unobscured] -> 'anyatra'
-TWELVE[CNT=12,SEM=<twelve>] -> 'dvādaśa'
-INDETERMINATE[CASE=loc] -> 'avyākṛte'
-ACCEPTED[CASE=nom,NUM=pl] -> 'matāḥ'
-TORPOR[CASE=nom] -> 'middham'
-REASON[CASE=abl,READING=compatibility] -> 'sarvāvirodhitvāt'
-WHERE[READING=conditional] -> 'yatra'
-MAY[MOOD=opt] -> 'syāt'
-ADDITION[MODE=plus_one] -> 'adhikam'
+COUNTS[SEM=<BaseCount(obscured,eighteen) & BaseCount(unobscured,twelve)>] -> OBSCURED EIGHTEEN OTHER TWELVE INDETERMINATE ACCEPTED
+OBSCURED -> 'nivṛte'
+EIGHTEEN -> 'aṣṭādaśa'
+OTHER -> 'anyatra'
+TWELVE -> 'dvādaśa'
+INDETERMINATE -> 'avyākṛte'
+ACCEPTED -> 'matāḥ'
+TORPORCLAUSE[SEM=<CompatibleWithStatedCases(torpor) & all c.((StatedCase(c) & TorporPresent(c)) -> AddsOne(c,torpor))>] -> TORPOR REASON WHERE MAY ADDITION INDEED THAT
+TORPOR -> 'middham'
+REASON -> 'sarvāvirodhitvāt'
+WHERE -> 'yatra'
+MAY -> 'syāt'
+ADDITION -> 'adhikam'
 INDEED -> 'hi'
-THAT[REF=torpor] -> 'tat'
+THAT -> 'tat'
 ```
 
 ```nltk-dep
@@ -83,15 +78,12 @@ THAT[REF=torpor] -> 'tat'
 
 ### Literal Translation
 
-> In obscured-indeterminate consciousness, there are eighteen; in the other
-> indeterminate consciousness, twelve. Torpor, being incompatible with none,
-> may be additional wherever it occurs.
+> In obscured-indeterminate consciousness, there are eighteen; in the other indeterminate consciousness, twelve. Torpor, being incompatible with none, may be additional wherever it occurs.
+
 ### Bhāṣya-informed study translation
 
-> In the Desire Realm, eighteen mental factors are accepted in
-> obscured-indeterminate consciousness, and twelve in the other,
-> unobscured-indeterminate consciousness. Torpor is compatible with all
-> the previously stated cases and adds one wherever it occurs.
+> In the Desire Realm, eighteen mental factors are accepted in obscured-indeterminate consciousness, and twelve in the other, unobscured-indeterminate consciousness. Torpor is compatible with all the previously stated cases and adds one wherever it occurs.
+
 ## 6. Philosophical Translation
 
 > Obscured and unobscured are two indeterminate classes. View specializes. Torpor increments; it does not redefine the base.
@@ -110,14 +102,12 @@ THAT[REF=torpor] -> 'tat'
 
 ## 8. Logical Determination
 
-**Kārikā, derived; local scope resolved from the Bhāṣya.**
-BaseCount does not overwrite a count after an addition. AddsOne
-records the increment; actual member counts are checked separately.
+**Kārikā, derived; local scope resolved from the Bhāṣya.** BaseCount does not overwrite a count after an addition. AddsOne records the increment; actual member counts are checked separately.
 
 ```nltk-sem
-eighteen_count : \c.BaseCount(c,eighteen)
-twelve_count : \c.BaseCount(c,twelve)
-conditional_increment : \c.((StatedCase(c) & TorporPresent(c)) -> AddsOne(c,torpor))
+eighteen_count : BaseCount(obscured,eighteen)
+twelve_count : BaseCount(unobscured,twelve)
+conditional_increment : (StatedCase(c) & TorporPresent(c)) -> AddsOne(c,torpor)
 ```
 
 ```nltk-fol
@@ -167,13 +157,7 @@ RegionalRegretMember => {feeling,volition,reflection,wish,contact,comprehension,
 TorporUnobscuredMember => {feeling,volition,reflection,wish,contact,comprehension,mindfulness,attention,resolution,concentration,initial_examination,sustained_examination,torpor_kind}
 ```
 
-RegionalRegretMember belongs to the outer-region teachers' alternative,
-not the unqualified base account. The two thirteen-member inventories
-share twelve but differ in the added member. Tests also check
-18 → 19, 22 → 23, and 23 → 24. The latter two are the prose's
-explicit examples; the former and 12 → 13 apply its general rule.
-The finite inventories check accounting, not universal occurrence
-or the truth of the regional position.
+RegionalRegretMember belongs to the outer-region teachers' alternative, not the unqualified base account. The two thirteen-member inventories share twelve but differ in the added member. Tests also check 18 → 19, 22 → 23, and 23 → 24. The latter two are the prose's explicit examples; the former and 12 → 13 apply its general rule. The finite inventories check accounting, not universal occurrence or the truth of the regional position.
 
 ## 9. Interpretive Note
 
@@ -185,11 +169,7 @@ The views are named, not defined. No later account is imported. The alternative 
 
 And so forth leaves the rule open. It does not put every alternative in one consciousness.
 
-In the Organon reading, Cognition governs Perception and Conception
-without collapsing into consciousness or Mind. A view qualifies
-already-counted discriminative comprehension; torpor is a distinct
-addition where present. Ethical range, identity, and actual
-occurrence cannot be replaced by a bare numeral.
+In the Organon reading, Cognition governs Perception and Conception without collapsing into consciousness or Mind. A view qualifies already-counted discriminative comprehension; torpor is a distinct addition where present. Ethical range, identity, and actual occurrence cannot be replaced by a bare numeral.
 
 ## 10. OWL++ Seed
 

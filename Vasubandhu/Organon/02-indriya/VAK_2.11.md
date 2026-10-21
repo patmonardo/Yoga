@@ -33,10 +33,7 @@ daurmanasyaṃ mano 'nyā ca vittis tredhā anyad ekadhā // 2.11 //
 
 Vitti is feeling. Other excludes distress: pain, pleasure, gladness, neutral feeling.
 
-**Grammar tokens.** Sandhi is opened, separating the initial Mind member
-from the rest of the coordinated compound. It completes the preceding verse's ten, rather than
-supplying the members of the wholesome eight. The boundary remains in
-the parse.
+**Grammar tokens.** Sandhi is opened, separating the initial Mind member from the rest of the coordinated compound. It completes the preceding verse's ten, rather than supplying the members of the wholesome eight. The boundary remains in the parse.
 
 ```text
 # tokens: manaḥ anya-vitti-śraddhādīni aṣṭakam kuśalam dvidhā daurmanasyam manaḥ anyā ca vittiḥ tredhā anyat ekadhā
@@ -44,33 +41,28 @@ the parse.
 
 ## 4. Grammar
 
-The first compound is a carried enumeration. The Bhāṣya begins its new
-ethical question only at the eight. The singular collective eight agrees
-with wholesome; twofold applies to distress; Mind and the collectively
-singular other feeling take the threefold determination. The remainder
-is onefold. The adverbs themselves do not name the ethical alternatives;
-the Bhāṣya supplies those alternatives.
+The first compound is a carried enumeration. The Bhāṣya begins its new ethical question only at the eight. The singular collective eight agrees with wholesome; twofold applies to distress; Mind and the collectively singular other feeling take the threefold determination. The remainder is onefold. The adverbs themselves do not name the ethical alternatives; the Bhāṣya supplies those alternatives.
 
 ```nltk-fcfg
 % start S
 # tokens: manaḥ anya-vitti-śraddhādīni aṣṭakam kuśalam dvidhā daurmanasyam manaḥ anyā ca vittiḥ tredhā anyat ekadhā
-S[SEM=<(?carry & ?eight & ?distress & ?five & ?rest)>] -> CARRY[SCOPE=previous_ten,SEM=?carry] EIGHTCLAUSE[SEM=?eight] DISTRESSCLAUSE[SEM=?distress] FIVECLAUSE[SEM=?five] RESTCLAUSE[SEM=?rest]
-CARRY[SCOPE=previous_ten,SEM=<CompletesPreviousTen>] -> 'manaḥ' 'anya-vitti-śraddhādīni'
-EIGHTCLAUSE[SEM=<(GroupCount(?group,eight) & ?quality(?group))>] -> EIGHT[CASE=nom,NUM=sg,GEN=n,CNT=8,SEM=?group] WHOLESOME[CASE=nom,NUM=sg,GEN=n,SEM=?quality]
-DISTRESSCLAUSE[SEM=<?count(?group)>] -> TWOFOLD[SEM=?count] DISTRESS[CASE=nom,NUM=sg,GEN=n,SEM=?group]
-FIVECLAUSE[SEM=<(?count(?mind) & ?count(other_feelings) & OtherFeelingExcludesDistress)>] -> MIND[CASE=nom,NUM=sg,GEN=n,SEM=?mind] OTHER[CASE=nom,NUM=sg,GEN=f,REF=other_four] AND FEELING[CASE=nom,NUM=sg,GEN=f,REF=other_four] THREEFOLD[SEM=?count]
-RESTCLAUSE[SEM=<?count(?group)>] -> REST[CASE=nom,NUM=sg,GEN=n,SEM=?group] ONEFOLD[SEM=?count]
-EIGHT[CASE=nom,NUM=sg,GEN=n,CNT=8,SEM=<wholesome_eight>] -> 'aṣṭakam'
-WHOLESOME[CASE=nom,NUM=sg,GEN=n,SEM=<\g.WholesomeOnly(g)>] -> 'kuśalam'
-TWOFOLD[SEM=<\g.EthicalOptions(g,two)>] -> 'dvidhā'
-DISTRESS[CASE=nom,NUM=sg,GEN=n,SEM=<distress_f>] -> 'daurmanasyam'
-MIND[CASE=nom,NUM=sg,GEN=n,SEM=<mind_f>] -> 'manaḥ'
-OTHER[CASE=nom,NUM=sg,GEN=f,REF=other_four] -> 'anyā'
+S[SEM=<(?carry & ?eight & ?distress & ?five & ?rest)>] -> CARRY[SEM=?carry] EIGHTCLAUSE[SEM=?eight] DISTRESSCLAUSE[SEM=?distress] FIVECLAUSE[SEM=?five] RESTCLAUSE[SEM=?rest]
+CARRY[SEM=<CompletesPreviousTen>] -> 'manaḥ' 'anya-vitti-śraddhādīni'
+EIGHTCLAUSE[SEM=<GroupCount(wholesome_eight,eight) & WholesomeOnly(wholesome_eight)>] -> EIGHT WHOLESOME
+EIGHT -> 'aṣṭakam'
+WHOLESOME -> 'kuśalam'
+DISTRESSCLAUSE[SEM=<EthicalOptions(distress_f,two)>] -> TWOFOLD DISTRESS
+TWOFOLD -> 'dvidhā'
+DISTRESS -> 'daurmanasyam'
+FIVECLAUSE[SEM=<EthicalOptions(mind_f,three) & EthicalOptions(other_feelings,three) & OtherFeelingExcludesDistress>] -> MIND OTHER AND FEELING THREEFOLD
+MIND -> 'manaḥ'
+OTHER -> 'anyā'
 AND -> 'ca'
-FEELING[CASE=nom,NUM=sg,GEN=f,REF=other_four] -> 'vittiḥ'
-THREEFOLD[SEM=<\g.EthicalOptions(g,three)>] -> 'tredhā'
-REST[CASE=nom,NUM=sg,GEN=n,SEM=<remainder>] -> 'anyat'
-ONEFOLD[SEM=<\g.EthicalOptions(g,one)>] -> 'ekadhā'
+FEELING -> 'vittiḥ'
+THREEFOLD -> 'tredhā'
+RESTCLAUSE[SEM=<EthicalOptions(remainder,one)>] -> REST ONEFOLD
+REST -> 'anyat'
+ONEFOLD -> 'ekadhā'
 ```
 
 ```nltk-dep
@@ -80,9 +72,7 @@ ONEFOLD[SEM=<\g.EthicalOptions(g,one)>] -> 'ekadhā'
 'anyat' -> 'ekadhā'
 ```
 
-The dependency block records vocabulary coverage only. The opening
-compound closes the preceding ten; its membership is checked in a
-separate prose theory, not read as the wholesome eight.
+The dependency block records vocabulary coverage only. The opening compound closes the preceding ten; its membership is checked in a separate prose theory, not read as the wholesome eight.
 
 | Span | Constituent | Result |
 |---|---|---|
@@ -97,22 +87,15 @@ separate prose theory, not read as the wholesome eight.
 
 ### Literal Translation
 
-> Mind, the other feelings, and those beginning with faith. The eight are
-> wholesome. Distress is twofold. Mind and the other feeling are threefold.
-> The remainder is onefold.
+> Mind, the other feelings, and those beginning with faith. The eight are wholesome. Distress is twofold. Mind and the other feeling are threefold. The remainder is onefold.
 
 ### Bhāṣya-informed study translation
 
-> [The ten are] Mind, the other feelings, and those beginning with faith.
-> The eight are exclusively wholesome. Distress is wholesome or
-> unwholesome; Mind and the other feelings can be wholesome, unwholesome,
-> or indeterminate. The remainder is exclusively indeterminate.
+> [The ten are] Mind, the other feelings, and those beginning with faith. The eight are exclusively wholesome. Distress is wholesome or unwholesome; Mind and the other feelings can be wholesome, unwholesome, or indeterminate. The remainder is exclusively indeterminate.
 
 ## 6. Philosophical Translation
 
-> Feeling-tone and ethical quality are distinct. Distress can be wholesome;
-> neutral feeling can be wholesome, unwholesome, or indeterminate.
-> Governing efficacy does not by itself establish wholesomeness.
+> Feeling-tone and ethical quality are distinct. Distress can be wholesome; neutral feeling can be wholesome, unwholesome, or indeterminate. Governing efficacy does not by itself establish wholesomeness.
 
 ## 7. Technical Vocabulary
 
@@ -128,17 +111,11 @@ separate prose theory, not read as the wholesome eight.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The opening fragment completes the preceding
-enumeration, not the wholesome eight. The verse gives one explicit
-quality and three counts of alternatives. The prose fixes the contents
-of each range; possibilities across instances are not simultaneous
-qualities of an instance. `CompletesPreviousTen` marks the verse
-boundary, while the Bhāṣya resolves the carried and new groups in
-separate FOL theories.
+**Kārikā, derived.** The opening fragment completes the preceding enumeration, not the wholesome eight. The verse gives one explicit quality and three counts of alternatives. The prose fixes the contents of each range; possibilities across instances are not simultaneous qualities of an instance. CompletesPreviousTen marks the verse boundary, while the Bhāṣya resolves the carried and new groups in separate FOL theories.
 
 ```nltk-sem
-wholesome_group : \g.WholesomeOnly(g)
-ethical_range : \g.\n.EthicalOptions(g,n)
+wholesome_group : WholesomeOnly(wholesome_eight)
+ethical_range : EthicalOptions(distress_f,two)
 previous_enumeration : CompletesPreviousTen
 ```
 
@@ -202,21 +179,11 @@ CanBeUnwholesome => {distress,mind,pain,pleasure,gladness,neutral}
 CanBeIndeterminate => {mind,pain,pleasure,gladness,neutral,eye,ear,nose,tongue,body,female,male,life}
 ```
 
-The four disjoint groups contain 8 + 1 + 5 + 8 = 22 Faculty-types.
-The carried ten contain Mind, the four other feelings, and the five
-beginning with faith. The wholesome eight combine that faith-group
-with the three realization Faculties. They share five members, but
-they are different enumerations.
-The model records permitted ethical ranges, not conditions sufficient
-to make a particular occurrence wholesome.
+The four disjoint groups contain 8 + 1 + 5 + 8 = 22 Faculty-types. The carried ten contain Mind, the four other feelings, and the five beginning with faith. The wholesome eight combine that faith-group with the three realization Faculties. They share five members, but they are different enumerations. The model records permitted ethical ranges, not conditions sufficient to make a particular occurrence wholesome.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): The eight are wholesome by the very operation that
-defines them. Distress always bears a quality and is never indeterminate.
-Mind and the remaining feelings keep one function across the three
-qualities. The rest govern, yet remain exclusively indeterminate.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): The eight are wholesome by the very operation that defines them. Distress always bears a quality and is never indeterminate. Mind and the remaining feelings keep one function across the three qualities. The rest govern, yet remain exclusively indeterminate.
 
 The opening closes 2.10. Without that carry, the first words look like the wholesome eight. They are the ten.
 
@@ -224,10 +191,7 @@ Distress can be wholesome. The paragraph does not say when. No example is invent
 
 The two eights are different. Faith and the three are wholesome. Eye through life are indeterminate. Shared wholesome status does not erase the outflow split of 2.09. The five can be either. The three are without outflows.
 
-Interpretation: ethical assessment does not follow from tone, outflow,
-or maturation alone. The new question preserves those earlier
-determinations while distinguishing the qualities a Faculty may bear.
-It does not supply an example or mechanism of wholesome distress.
+Interpretation: ethical assessment does not follow from tone, outflow, or maturation alone. The new question preserves those earlier determinations while distinguishing the qualities a Faculty may bear. It does not supply an example or mechanism of wholesome distress.
 
 ## 10. OWL++ Seed
 

@@ -11,7 +11,7 @@
 
 ```text
 śraddhāpramādaḥ praśrabdhir upekṣā hrīr apatrapā /
-mūladvayam ahiṃsā ca vīryaṃ ca kuśale sadā // 2.25 //
+mūladwayam ahiṃsā ca vīryaṃ ca kuśale sadā // 2.25 //
 ```
 
 ## 3. Lexical Analysis
@@ -32,43 +32,37 @@ mūladvayam ahiṃsā ca vīryaṃ ca kuśale sadā // 2.25 //
 
 Ten, counting the two roots separately. Non-delusion is prajñā, already in the universal ten. Not counted again.
 
-The opening is faith plus heedfulness, not faith plus negligence.
-External sandhi is opened; the two roots remain one compound token.
+The opening is faith plus heedfulness, not faith plus negligence. External sandhi is opened; the two roots remain one compound token.
 
 ```text
-# tokens: śraddhā apramādaḥ praśrabdhiḥ upekṣā hrīḥ apatrapā mūladvayam ahiṃsā ca vīryam ca kuśale sadā
+# tokens: śraddhā apramādaḥ praśrabdhiḥ upekṣā hrīḥ apatrapā mūladwayam ahiṃsā ca vīryam ca kuśale sadā
 ```
 
 ## 4. Grammar
 
-The list is conjunctive. Its nine nominal expressions count ten
-factor-kinds because the root-pair contributes two. Always in the
-wholesome scopes the whole list; consciousness is supplied by the prose.
-`Kuśale` supplies the wholesome condition, and `sadā` quantifies over
-every moment in that condition. The two root-names are prose-resolved,
-not extra verse tokens.
+The list is conjunctive. Its nine nominal expressions count ten factor-kinds because the root-pair contributes two. Always in the wholesome scopes the whole list; consciousness is supplied by the prose. *Kuśale* supplies the wholesome condition, and *sadā* quantifies over every moment in that condition. The two root-names are prose-resolved, not extra verse tokens.
 
 ```nltk-fcfg
 % start S
-# tokens: śraddhā apramādaḥ praśrabdhiḥ upekṣā hrīḥ apatrapā mūladvayam ahiṃsā ca vīryam ca kuśale sadā
-S[SEM=<?always(?wholesome(?list))>] -> TEN[CNT=10,SEM=?list] WHOLESOME[CASE=loc,SCOPE=wholesome_consciousness,SEM=?wholesome] ALWAYS[SCOPE=every_moment,SEM=?always]
-TEN[CNT=10,SEM=<\c.(Present(c,?a) & Present(c,?b) & Present(c,?d) & Present(c,?e) & Present(c,?f) & Present(c,?g) & ?roots(c) & Present(c,?h) & Present(c,?i))>] -> FAITH[SEM=?a] HEEDFUL[PRIVATIVE=true,SEM=?b] PLIANCY[SEM=?d] EQUANIMITY[SEM=?e] SHAME[SEM=?f] CAUTION[SEM=?g] ROOTPAIR[CNT=2,SEM=?roots] NONHARM[SEM=?h] AND VIGOR[SEM=?i] AND
-FAITH[SEM=<faith>] -> 'śraddhā'
-HEEDFUL[PRIVATIVE=true,SEM=<heedfulness>] -> 'apramādaḥ'
-PLIANCY[SEM=<pliancy>] -> 'praśrabdhiḥ'
-EQUANIMITY[SEM=<equanimity>] -> 'upekṣā'
-SHAME[SEM=<shame>] -> 'hrīḥ'
-CAUTION[SEM=<caution>] -> 'apatrapā'
-ROOTPAIR[CNT=2,SEM=<\c.(Present(c,nongreed) & Present(c,nonhatred))>] -> 'mūladvayam'
-NONHARM[SEM=<nonharming>] -> 'ahiṃsā'
+# tokens: śraddhā apramādaḥ praśrabdhiḥ upekṣā hrīḥ apatrapā mūladwayam ahiṃsā ca vīryam ca kuśale sadā
+S[SEM=<all c.(WholesomeMoment(c) -> (Present(c,faith) & Present(c,heedfulness) & Present(c,pliancy) & Present(c,equanimity) & Present(c,shame) & Present(c,caution) & (Present(c,nongreed) & Present(c,nonhatred)) & Present(c,nonharming) & Present(c,vigor)))>] -> TEN WHOLESOME ALWAYS
+TEN -> FAITH HEEDFUL PLIANCY EQUANIMITY SHAME CAUTION ROOTPAIR NONHARM AND VIGOR AND
+FAITH -> 'śraddhā'
+HEEDFUL -> 'apramādaḥ'
+PLIANCY -> 'praśrabdhiḥ'
+EQUANIMITY -> 'upekṣā'
+SHAME -> 'hrīḥ'
+CAUTION -> 'apatrapā'
+ROOTPAIR -> 'mūladwayam'
+NONHARM -> 'ahiṃsā'
 AND -> 'ca'
-VIGOR[SEM=<vigor>] -> 'vīryam'
-WHOLESOME[CASE=loc,SCOPE=wholesome_consciousness,SEM=<\P.\c.(WholesomeMoment(c) -> P(c))>] -> 'kuśale'
-ALWAYS[SCOPE=every_moment,SEM=<\P.all c.P(c)>] -> 'sadā'
+VIGOR -> 'vīryam'
+WHOLESOME -> 'kuśale'
+ALWAYS -> 'sadā'
 ```
 
 ```nltk-dep
-'kuśale' -> 'śraddhā' | 'apramādaḥ' | 'praśrabdhiḥ' | 'upekṣā' | 'hrīḥ' | 'apatrapā' | 'mūladvayam' | 'ahiṃsā' | 'vīryam' | 'sadā'
+'kuśale' -> 'śraddhā' | 'apramādaḥ' | 'praśrabdhiḥ' | 'upekṣā' | 'hrīḥ' | 'apatrapā' | 'mūladwayam' | 'ahiṃsā' | 'vīryam' | 'sadā'
 'ahiṃsā' -> 'ca'
 'vīryam' -> 'ca'
 ```
@@ -83,22 +77,15 @@ ALWAYS[SCOPE=every_moment,SEM=<\P.all c.P(c)>] -> 'sadā'
 
 ### Literal Translation
 
-> Faith, heedfulness, pliancy, equanimity, moral shame and moral caution,
-> the two roots, non-harming, and vigor are always present in the wholesome.
+> Faith, heedfulness, pliancy, equanimity, moral shame and moral caution, the two roots, non-harming, and vigor are always present in the wholesome.
 
 ### Bhāṣya-informed study translation
 
-> Faith, heedfulness, pliancy, equanimity, moral shame and moral caution,
-> the two roots—non-greed and non-hatred—non-harming, and vigor are
-> always present together in wholesome consciousness.
+> Faith, heedfulness, pliancy, equanimity, moral shame and moral caution, the two roots—non-greed and non-hatred—non-harming, and vigor are always present together in wholesome consciousness.
 
 ## 6. Philosophical Translation
 
-> The wholesome range is narrower than consciousness generally.
-> The two roots contribute two members; non-delusion is not counted
-> again apart from discriminative comprehension. Equanimity's
-> compatibility with attention remains an examined difficulty,
-> not a demonstrated reconciliation.
+> The wholesome range is narrower than consciousness generally. The two roots contribute two members; non-delusion is not counted again apart from discriminative comprehension. Equanimity's compatibility with attention remains an examined difficulty, not a demonstrated reconciliation.
 
 ## 7. Technical Vocabulary
 
@@ -117,16 +104,12 @@ ALWAYS[SCOPE=every_moment,SEM=<\P.all c.P(c)>] -> 'sadā'
 
 ## 8. Logical Determination
 
-**Kārikā with prose-resolved roots.** `Kuśale` and `sadā` compose
-the restricted universal scope: each wholesome moment has the ten
-named kinds. The universal ten of 2.24 remain, and the
-prose identifies non-delusion with discriminative comprehension
-rather than adding an eleventh wholesome-class member.
+**Kārikā with prose-resolved roots.** *Kuśale* and *sadā* compose the restricted universal scope: each wholesome moment has the ten named kinds. The universal ten of 2.24 remain, and the prose identifies non-delusion with discriminative comprehension rather than adding an eleventh wholesome-class member.
 
 ```nltk-sem
-root_pair : \c.(Present(c,nongreed) & Present(c,nonhatred))
-wholesome_scope : \P.\c.(WholesomeMoment(c) -> P(c))
-always_scope : \P.all c.P(c)
+root_pair : Present(c,nongreed) & Present(c,nonhatred)
+wholesome_scope : WholesomeMoment(c) -> Present(c,faith)
+always_scope : all c.Present(c,faith)
 ```
 
 ```nltk-fol
@@ -174,12 +157,7 @@ UniversalKind => {feeling_kind,volition_kind,reflection_kind,wish_kind,contact_k
 Present => {(wholesome_moment,faith_kind),(wholesome_moment,heedfulness_kind),(wholesome_moment,pliancy_kind),(wholesome_moment,equanimity_kind),(wholesome_moment,shame_kind),(wholesome_moment,caution_kind),(wholesome_moment,nongreed_kind),(wholesome_moment,nonhatred_kind),(wholesome_moment,nonharming_kind),(wholesome_moment,vigor_kind),(wholesome_moment,feeling_kind),(wholesome_moment,volition_kind),(wholesome_moment,reflection_kind),(wholesome_moment,wish_kind),(wholesome_moment,contact_kind),(wholesome_moment,comprehension_kind),(wholesome_moment,mindfulness_kind),(wholesome_moment,attention_kind),(wholesome_moment,resolution_kind),(wholesome_moment,concentration_kind),(other_moment,feeling_kind),(other_moment,volition_kind),(other_moment,reflection_kind),(other_moment,wish_kind),(other_moment,contact_kind),(other_moment,comprehension_kind),(other_moment,mindfulness_kind),(other_moment,attention_kind),(other_moment,resolution_kind),(other_moment,concentration_kind)}
 ```
 
-The modeled wholesome moment has twenty distinct kinds from the two
-lists; this is a required subset, not an exclusive total. The other
-moment witnesses narrower scope without asserting that no wholesome
-factor can ever occur outside wholesome consciousness. The model
-does not solve the attention/equanimity objection or equate a name
-received through favorability with identity of nature.
+The modeled wholesome moment has twenty distinct kinds from the two lists; this is a required subset, not an exclusive total. The other moment witnesses narrower scope without asserting that no wholesome factor can ever occur outside wholesome consciousness. The model does not solve the attention/equanimity objection or equate a name received through favorability with identity of nature.
 
 ## 9. Interpretive Note
 
@@ -193,11 +171,7 @@ The equanimity result is a recorded difficulty and a deferral. Different respect
 
 Shame and caution are not filled from later passages. Non-harming and vigor stay the brief local definitions.
 
-In the Organon reading, Cognition governs Perception and Conception,
-remaining distinct from consciousness and Mind. Discriminative
-comprehension's presence in the universal list does not make every
-consciousness wholesome or every examination correct. The wholesome
-determination requires its own accompanying factors and scope.
+In the Organon reading, Cognition governs Perception and Conception, remaining distinct from consciousness and Mind. Discriminative comprehension's presence in the universal list does not make every consciousness wholesome or every examination correct. The wholesome determination requires its own accompanying factors and scope.
 
 ## 10. OWL++ Seed
 

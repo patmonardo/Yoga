@@ -27,14 +27,9 @@ caturdaśa tathānyāni nivṛtter indriyāṇi vā // 2.6 //
 | indriyāṇi | nominative neuter plural | Faculties |
 | vā | particle | or; marks the alternative opinion |
 
-*Pravṛtti* qualifies all four functions. *Tathā* carries the same fourfold
-pattern to *nivṛtti*. The Bhāṣya supplies the eight-member remainder and
-identifies the members of each function.
+*Pravṛtti* qualifies all four functions. *Tathā* carries the same fourfold pattern to *nivṛtti*. The Bhāṣya supplies the eight-member remainder and identifies the members of each function.
 
-**Grammar tokens.** External sandhi is opened; the four-member ablative
-compound remains one token with its internal order represented in SEM.
-The eight members are supplied by the Bhāṣya, not inserted into the
-verse's token stream.
+**Grammar tokens.** External sandhi is opened; the four-member ablative compound remains one token with its internal order represented in SEM. The eight members are supplied by the Bhāṣya, not inserted into the verse's token stream.
 
 ```text
 # tokens: pravṛtteḥ āśraya-utpatti-sthiti-pratyupabhogataḥ caturdaśa tathā anyāni nivṛtteḥ indriyāṇi vā
@@ -42,51 +37,39 @@ verse's token stream.
 
 ## 4. Grammar
 
-The first genitive assigns engagement to the four ordered functions
-named by the ablative compound. *Caturdaśa* counts that first group.
-*Tathā* carries the same four-place pattern to the distinct withdrawal
-group; *vā* marks the arrangement as another opinion. The verse calls
-the second group “the others”; its eight-member count belongs to the
-Bhāṣya theory below.
+The first genitive assigns engagement to the four ordered functions named by the ablative compound. *Caturdaśa* counts that first group. *Tathā* carries the same four-place pattern to the distinct withdrawal group; *vā* marks the arrangement as another opinion. The verse calls the second group “the others”; its eight-member count belongs to the Bhāṣya theory below.
 
 ```nltk-fcfg
 % start S
 # tokens: pravṛtteḥ āśraya-utpatti-sthiti-pratyupabhogataḥ caturdaśa tathā anyāni nivṛtteḥ indriyāṇi vā
-S[SEM=<(?eng & ?withdraw & ?alt)>] -> ENGCOURSE[ORDER=four_roles,SEM=?eng] SAME[PARALLEL=four_roles] WITHDRAWCOURSE[PARALLEL=four_roles,SEM=?withdraw] OR[ALT=opinion,SEM=?alt]
-ENGCOURSE[ORDER=four_roles,SEM=<(BasisSlot(engagement) & ArisingSlot(engagement) & PersistenceSlot(engagement) & ExperienceSlot(engagement) & GroupCount(engagement,fourteen) & FacultyGroup(engagement))>] -> ENG[CASE=gen] ROLES[CASE=abl,ORDER=four_roles] FOURTEEN[CASE=nom,NUM=pl,GEN=n,CNT=14]
-WITHDRAWCOURSE[PARALLEL=four_roles,SEM=<(BasisSlot(withdrawal) & ArisingSlot(withdrawal) & PersistenceSlot(withdrawal) & ExperienceSlot(withdrawal) & OtherGroup(withdrawal,engagement) & FacultyGroup(withdrawal))>] -> OTHER[CASE=nom,NUM=pl,GEN=n,GROUP=distinct] WITHDRAW[CASE=gen] FACULTIES[CASE=nom,NUM=pl,GEN=n]
-ENG[CASE=gen] -> 'pravṛtteḥ'
-ROLES[CASE=abl,ORDER=four_roles] -> 'āśraya-utpatti-sthiti-pratyupabhogataḥ'
-FOURTEEN[CASE=nom,NUM=pl,GEN=n,CNT=14] -> 'caturdaśa'
-SAME[PARALLEL=four_roles] -> 'tathā'
-OTHER[CASE=nom,NUM=pl,GEN=n,GROUP=distinct] -> 'anyāni'
-WITHDRAW[CASE=gen] -> 'nivṛtteḥ'
-FACULTIES[CASE=nom,NUM=pl,GEN=n] -> 'indriyāṇi'
-OR[ALT=opinion,SEM=<AlternativeOpinion>] -> 'vā'
+S[SEM=<(?eng & ?withdraw & ?alt)>] -> ENGCOURSE[SEM=?eng] SAME WITHDRAWCOURSE[SEM=?withdraw] OR[SEM=?alt]
+ENGCOURSE[SEM=<BasisSlot(engagement) & ArisingSlot(engagement) & PersistenceSlot(engagement) & ExperienceSlot(engagement) & GroupCount(engagement,fourteen) & FacultyGroup(engagement)>] -> ENG ROLES FOURTEEN
+ENG -> 'pravṛtteḥ'
+ROLES -> 'āśraya-utpatti-sthiti-pratyupabhogataḥ'
+FOURTEEN -> 'caturdaśa'
+SAME -> 'tathā'
+WITHDRAWCOURSE[SEM=<BasisSlot(withdrawal) & ArisingSlot(withdrawal) & PersistenceSlot(withdrawal) & ExperienceSlot(withdrawal) & OtherGroup(withdrawal,engagement) & FacultyGroup(withdrawal)>] -> OTHER WITHDRAW FACULTIES
+OTHER -> 'anyāni'
+WITHDRAW -> 'nivṛtteḥ'
+FACULTIES -> 'indriyāṇi'
+OR[SEM=<AlternativeOpinion>] -> 'vā'
 ```
 
 ```nltk-dep
 'indriyāṇi' -> 'pravṛtteḥ' | 'āśraya-utpatti-sthiti-pratyupabhogataḥ' | 'caturdaśa' | 'tathā' | 'anyāni' | 'nivṛtteḥ' | 'vā'
 ```
 
-**Feature chart checkpoints.** Eight tokens yield one root:
-`ENGCOURSE` [0, 3), `SAME` [3, 4), `WITHDRAWCOURSE` [4, 7), and
-`OR` [7, 8). `ORDER` and `PARALLEL` link the four functions without
-making the two groups identical. `CNT=14` belongs to *caturdaśa*;
-`ALT=opinion` belongs to *vā*.
+**Feature chart checkpoints.** Eight tokens yield one root: `ENGCOURSE` [0, 3), `SAME` [3, 4), `WITHDRAWCOURSE` [4, 7), and `OR` [7, 8). The order and parallel features link the four functions without making the two groups identical. The count belongs to *caturdaśa*; the alternative marker belongs to *vā*.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Or, as to Basis, arising, persistence, and experience of engagement,
-> fourteen; likewise the others are faculties of withdrawal.
+> Or, as to Basis, arising, persistence, and experience of engagement, fourteen; likewise the others are faculties of withdrawal.
 
 ### Bhāṣya-informed study translation
 
-> Or, for engagement, fourteen [Faculties] with respect to Basis, arising,
-> persistence, and experience; likewise, the others are Faculties of
-> withdrawal.
+> Or, for engagement, fourteen [Faculties] with respect to Basis, arising, persistence, and experience; likewise, the others are Faculties of withdrawal.
 
 ## 6. Philosophical Translation
 
@@ -107,11 +90,7 @@ making the two groups identical. `CNT=14` belongs to *caturdaśa*;
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root `SEM` gives both groups the four
-functional places, counts fourteen in engagement, distinguishes the
-other group, and retains the alternative-opinion marker. The Bhāṣya
-supplies the second group's eight members and the concrete distribution
-below. `BasisSlot` and `BasisFor` express *āśraya*, not *ālambana*.
+**Kārikā, derived.** The root SEM gives both groups the four functional places, counts fourteen in engagement, distinguishes the other group, and retains the alternative-opinion marker. The Bhāṣya supplies the second group's eight members and the concrete distribution below. BasisSlot and BasisFor express *āśraya*, not *ālambana*.
 
 ```nltk-sem
 engagement_course : BasisSlot(engagement) & ArisingSlot(engagement) & PersistenceSlot(engagement) & ExperienceSlot(engagement) & GroupCount(engagement,fourteen) & FacultyGroup(engagement)
@@ -179,18 +158,11 @@ PleasureDueTo => {(genital_pleasure_event,female_faculty)}
 Causes => {(speech_power,speaking_act),(hand_power,taking_act),(foot_power,moving_act),(anus_power,excretion_act),(genital_power,genital_pleasure_event)}
 ```
 
-The finite witness has 6 + 2 + 1 + 5 engagement Faculties and
-5 + 1 + 1 + 1 withdrawal Faculties. The model tests the reported
-distribution and its exclusions; it does not prove the Bhāṣya's
-empirical examples or turn every causal contributor into a Faculty.
+The finite witness has 6 + 2 + 1 + 5 engagement Faculties and 5 + 1 + 1 + 1 withdrawal Faculties. The model tests the reported distribution and its exclusions; it does not prove the Bhāṣya's empirical examples or turn every causal contributor into a Faculty.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): Or the same twenty-two under another order. Fourteen
-govern engagement through Basis, arising, persistence, and experience.
-Eight govern withdrawal in those same four places. Withdrawal is not bare
-absence; it has its own Basis, arising, persistence, and experience.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): Or the same twenty-two under another order. Fourteen govern engagement through Basis, arising, persistence, and experience. Eight govern withdrawal in those same four places. Withdrawal is not bare absence; it has its own Basis, arising, persistence, and experience.
 
 Tathā is the point. Withdrawal has the same four places as engagement. The members differ. Feeling-experience is not the experience of one who has known. They occupy the corresponding place.
 

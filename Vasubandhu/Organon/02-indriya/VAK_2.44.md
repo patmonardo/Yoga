@@ -28,40 +28,33 @@ kāmarūpāśraye bhūte nirodhākhyādito nṛṣu // 2.44 //
 | āditaḥ | adverb | at first |
 | nṛṣu | loc. pl. m. | among humans |
 
-Basis is not the attainment's level. The opening singular concerns
-cessation attainment; “both” is supplied only in the Basis clause.
-The no-prior-production explanation is the Kāśmīra account,
-disputed in the prose rather than endorsed by all speakers.
+Basis is not the attainment's level. The opening singular concerns cessation attainment; “both” is supplied only in the Basis clause. The no-prior-production explanation is the Kāśmīra account, disputed in the prose rather than endorsed by all speakers.
 
 ```text
 # tokens: bodhilabhyā muneḥ na prāk catustriṃśatkṣaṇāptitaḥ kāmarūpāśraye bhūte nirodhākhyā āditaḥ nṛṣu
 ```
+
 ## 4. Grammar
 
-The first five tokens complete the acquisition argument begun in
-2.43. The next two supply the shared Basis of both attainments;
-this does not transfer awakening-acquisition to non-reflective
-attainment. The last three restrict first production of cessation
-attainment to humans. Later Form-Realm production and the disputed
-loss argument are explained in the prose, not this last predicate.
+The first five tokens complete the acquisition argument begun in 2.43. The next two supply the shared Basis of both attainments; this does not transfer awakening-acquisition to non-reflective attainment. The last three restrict first production of cessation attainment to humans. Later Form-Realm production and the disputed loss argument are explained in the prose, not this last predicate.
 
 ```nltk-fcfg
 % start S
 # tokens: bodhilabhyā muneḥ na prāk catustriṃśatkṣaṇāptitaḥ kāmarūpāśraye bhūte nirodhākhyā āditaḥ nṛṣu
 S[SEM=<(?awakening & ?basis & ?first)>] -> AWAKENING[SEM=?awakening] BASIS[SEM=?basis] FIRST[SEM=?first]
-AWAKENING[SEM=<(AcquiredWithAwakening(sage,cessation) & DeniesPriorProduction(kashmir_account,cessation) & ReportedCount(kashmir_account,thirty_four))>] -> AWAKENINGACQUIRED[CASE=nom,NUM=sg,REF=cessation] SAGE[CASE=gen] NOT BEFORE REASON[FORM=tas,CNT=34]
-BASIS[SEM=<all x y.((Attainment(x) & BasisRealm(y)) -> CanAriseWithBasis(x,y))>] -> REALMBASIS[CASE=loc,CNT=2] PRESENT[CASE=loc]
-FIRST[SEM=<all x.(FirstProductionAmong(cessation,x) <-> (x = humans))>] -> CESSATION[CASE=nom] INITIALLY[SCOPE=first_production] HUMANS[CASE=loc,NUM=pl]
-AWAKENINGACQUIRED[CASE=nom,NUM=sg,REF=cessation] -> 'bodhilabhyā'
-SAGE[CASE=gen] -> 'muneḥ'
+AWAKENING[SEM=<AcquiredWithAwakening(sage,cessation) & DeniesPriorProduction(kashmir_account,cessation) & ReportedCount(kashmir_account,thirty_four)>] -> AWAKENINGACQUIRED SAGE NOT BEFORE REASON
+AWAKENINGACQUIRED -> 'bodhilabhyā'
+SAGE -> 'muneḥ'
 NOT -> 'na'
 BEFORE -> 'prāk'
-REASON[FORM=tas,CNT=34] -> 'catustriṃśatkṣaṇāptitaḥ'
-REALMBASIS[CASE=loc,CNT=2] -> 'kāmarūpāśraye'
-PRESENT[CASE=loc] -> 'bhūte'
-CESSATION[CASE=nom] -> 'nirodhākhyā'
-INITIALLY[SCOPE=first_production] -> 'āditaḥ'
-HUMANS[CASE=loc,NUM=pl] -> 'nṛṣu'
+REASON -> 'catustriṃśatkṣaṇāptitaḥ'
+BASIS[SEM=<all x y.((Attainment(x) & BasisRealm(y)) -> CanAriseWithBasis(x,y))>] -> REALMBASIS PRESENT
+REALMBASIS -> 'kāmarūpāśraye'
+PRESENT -> 'bhūte'
+FIRST[SEM=<all x.(FirstProductionAmong(cessation,x) <-> (x = humans))>] -> CESSATION INITIALLY HUMANS
+CESSATION -> 'nirodhākhyā'
+INITIALLY -> 'āditaḥ'
+HUMANS -> 'nṛṣu'
 ```
 
 ```nltk-dep
@@ -71,32 +64,21 @@ HUMANS[CASE=loc,NUM=pl] -> 'nṛṣu'
 'nirodhākhyā' -> 'āditaḥ' | 'nṛṣu'
 ```
 
-The three constituent lengths are 5, 2, and 3. The denial and count
-are explicitly indexed to the account identified by the commentary;
-this resolves the verse's argumentative voice without conflating
-the contrary western proposal.
+The three constituent lengths are 5, 2, and 3. The denial and count are explicitly indexed to the account identified by the commentary; this resolves the verse's argumentative voice without conflating the contrary western proposal.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> For the Sage, [cessation attainment] is acquired with awakening,
-> not beforehand, because of attainment in thirty-four moments.
-> [Both occur] when a Desire- or Form-Realm Basis is present.
-> The attainment called cessation [is produced] initially among humans.
+> For the Sage, [cessation attainment] is acquired with awakening, not beforehand, because of attainment in thirty-four moments. [Both occur] when a Desire- or Form-Realm Basis is present. The attainment called cessation [is produced] initially among humans.
+
 ### Bhāṣya-informed study translation
 
-> For the Sage, the attainment of cessation is acquired with awakening,
-> not beforehand, since awakening is attained in thirty-four moments.
-> Both attainments arise with a Desire- or Form-Realm Basis.
-> The attainment called cessation is first produced among humans.
+> For the Sage, the attainment of cessation is acquired with awakening, not beforehand, since awakening is attained in thirty-four moments. Both attainments arise with a Desire- or Form-Realm Basis. The attainment called cessation is first produced among humans.
+
 ## 6. Philosophical Translation
 
-> Basis and level remain distinct. Human first production does not
-> preclude later Form-Realm production. The account requiring prior
-> loss is disputed through a different level-assignment. The return
-> of consciousness and the status of cessation as entity or designation
-> remain questions argued by different speakers.
+> Basis and level remain distinct. Human first production does not preclude later Form-Realm production. The account requiring prior loss is disputed through a different level-assignment. The return of consciousness and the status of cessation as entity or designation remain questions argued by different speakers.
 
 ## 7. Technical Vocabulary
 
@@ -175,29 +157,13 @@ MutualSeedAccount => {earlier_teachers_position}
 PastConditionAccount => {vaibhasika_position}
 ```
 
-The Basis matrix has four class-level options; it does not state
-that every person can enter either attainment. Reported return
-positions are indexed, not merged into one ontology. The first
-half's full argument is retained in the preceding paired Bhāṣya
-and linked from this one; the same debate is not silently treated
-as universally accepted.
+The Basis matrix has four class-level options; it does not state that every person can enter either attainment. Reported return positions are indexed, not merged into one ontology. The first half's full argument is retained in the preceding paired Bhāṣya and linked from this one; the same debate is not silently treated as universally accepted.
 
 ## 9. Interpretive Note
 
-**Translation note.** The awakening clause is singular. The shared
-Basis clause alone concerns both attainments. The loss requirement
-follows within the summit-level account; another school assigns
-cessation also to fourth dhyāna and so avoids that inference,
-but its assignment is challenged. The damaged *pañcavyavacāra*
-quotation remains marked rather than expanded into five destinies.
+**Translation note.** The awakening clause is singular. The shared Basis clause alone concerns both attainments. The loss requirement follows within the summit-level account; another school assigns cessation also to fourth dhyāna and so avoids that inference, but its assignment is challenged. The damaged *pañcavyavacāra* quotation remains marked rather than expanded into five destinies.
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, remaining distinct from
-consciousness and Mind. A shared Basis is not identity of level,
-purpose, or acquisition. Explaining the return of consciousness
-also requires distinguishing a condition for resumption from
-the separate claim that the intervening non-operation is a real
-entity. Life begins the next topic.
+In the Organon reading, Cognition joins and governs Perception and Conception and guides the Dharma Base, remaining distinct from consciousness and Mind. A shared Basis is not identity of level, purpose, or acquisition. Explaining the return of consciousness also requires distinguishing a condition for resumption from the separate claim that the intervening non-operation is a real entity. Life begins the next topic.
 
 ## 10. OWL++ Seed
 

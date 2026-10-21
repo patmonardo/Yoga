@@ -31,9 +31,7 @@ saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān // 2.18 //
 
 The dual distributes four over two cases. It does not make pleasure and body one set of four.
 
-**Grammar tokens.** External sandhi is opened; compounds remain intact.
-The final subject has no numeral in this verse. Its eight-count is
-supplied only in the cross-verse continuation.
+**Grammar tokens.** External sandhi is opened; compounds remain intact. The final subject has no numeral in this verse. Its eight-count is supplied only in the cross-verse continuation.
 
 ```text
 # tokens: caturbhiḥ sukha-kāyābhyām pañcabhiḥ cakṣurādimān saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān
@@ -41,30 +39,25 @@ supplied only in the cross-verse continuation.
 
 ## 4. Grammar
 
-The opening dual distributes the four-count over two separate possession
-cases. The eye-group and gladness share five, but not the same members.
-The prose resolves `ādi` to eye, ear, nose, and tongue as separate
-five-count cases; the EYES SEM expands that local range. Pain takes seven. The final possessor subject continues into 2.19's
-eight. Necessarily possesses is carried from the ongoing question and
-repeated in the prose; none of the counts excludes extra Faculties.
+The opening dual distributes the four-count over two separate possession cases. The eye-group and gladness share five, but not the same members. The prose resolves *ādi* to eye, ear, nose, and tongue as separate five-count cases; the EYES SEM expands that local range. Pain takes seven. The final possessor subject continues into 2.19's eight. Necessarily possesses is carried from the ongoing question and repeated in the prose; none of the counts excludes extra Faculties.
 
 ```nltk-fcfg
 % start S
 # tokens: caturbhiḥ sukha-kāyābhyām pañcabhiḥ cakṣurādimān saumanasyī ca duḥkhī tu saptabhiḥ strīndriyādimān
-S[SEM=<(?four & ?five & ?seven & ?tail)>] -> FOURCLAUSE[SEM=?four] FIVECLAUSE[SEM=?five] SEVENCLAUSE[SEM=?seven] TAIL[CONTINUED=next_verse,SEM=?tail]
-FOURCLAUSE[SEM=<(NecessaryCount(pleasure_f,?count) & NecessaryCount(body_f,?count))>] -> FOUR[CASE=ins,CNT=4,SEM=?count] PAIR[CASE=ins,NUM=du,READING=distributive]
-FIVECLAUSE[SEM=<(?eyes(?count) & NecessaryCount(?glad,?count))>] -> FIVE[CASE=ins,CNT=5,SEM=?count] EYES[CASE=nom,GEN=m,SEM=?eyes] GLAD[CASE=nom,GEN=m,SEM=?glad] AND
-SEVENCLAUSE[SEM=<NecessaryCount(?pain,?count)>] -> PAIN[CASE=nom,GEN=m,SEM=?pain] BUT SEVEN[CASE=ins,CNT=7,SEM=?count]
-FOUR[CASE=ins,CNT=4,SEM=<four>] -> 'caturbhiḥ'
-PAIR[CASE=ins,NUM=du,READING=distributive] -> 'sukha-kāyābhyām'
-FIVE[CASE=ins,CNT=5,SEM=<five>] -> 'pañcabhiḥ'
-EYES[CASE=nom,GEN=m,SEM=<\n.(NecessaryCount(eye_f,n) & NecessaryCount(ear_f,n) & NecessaryCount(nose_f,n) & NecessaryCount(tongue_f,n))>] -> 'cakṣurādimān'
-GLAD[CASE=nom,GEN=m,SEM=<gladness_f>] -> 'saumanasyī'
+S[SEM=<(?four & ?five & ?seven & ?tail)>] -> FOURCLAUSE[SEM=?four] FIVECLAUSE[SEM=?five] SEVENCLAUSE[SEM=?seven] TAIL[SEM=?tail]
+FOURCLAUSE[SEM=<NecessaryCount(pleasure_f,four) & NecessaryCount(body_f,four)>] -> FOUR PAIR
+FOUR -> 'caturbhiḥ'
+PAIR -> 'sukha-kāyābhyām'
+FIVECLAUSE[SEM=<NecessaryCount(eye_f,five) & NecessaryCount(ear_f,five) & NecessaryCount(nose_f,five) & NecessaryCount(tongue_f,five) & NecessaryCount(gladness_f,five)>] -> FIVE EYES GLAD AND
+FIVE -> 'pañcabhiḥ'
+EYES -> 'cakṣurādimān'
+GLAD -> 'saumanasyī'
 AND -> 'ca'
-PAIN[CASE=nom,GEN=m,SEM=<pain_f>] -> 'duḥkhī'
+SEVENCLAUSE[SEM=<NecessaryCount(pain_f,seven)>] -> PAIN BUT SEVEN
+PAIN -> 'duḥkhī'
 BUT -> 'tu'
-SEVEN[CASE=ins,CNT=7,SEM=<seven>] -> 'saptabhiḥ'
-TAIL[CONTINUED=next_verse,SEM=<FemaleAndOthersSubject>] -> 'strīndriyādimān'
+SEVEN -> 'saptabhiḥ'
+TAIL[SEM=<FemaleAndOthersSubject>] -> 'strīndriyādimān'
 ```
 
 ```nltk-dep
@@ -73,9 +66,7 @@ TAIL[CONTINUED=next_verse,SEM=<FemaleAndOthersSubject>] -> 'strīndriyādimān'
 'saptabhiḥ' -> 'duḥkhī' | 'tu' | 'strīndriyādimān'
 ```
 
-The dependency block checks vocabulary coverage, not dependency parsing;
-the final subject is attached for coverage only, not as a seven-count
-case. Its predicate is outside this verse.
+The dependency block checks vocabulary coverage, not dependency parsing; the final subject is attached for coverage only, not as a seven-count case. Its predicate is outside this verse.
 
 | Span | Constituent | Result |
 |---|---|---|
@@ -89,17 +80,11 @@ case. Its predicate is outside this verse.
 
 ### Literal Translation
 
-> With four, in the cases of pleasure and body. One possessing the eye and
-> so forth, with five, and one possessing gladness. One possessing pain,
-> however, with seven. One possessing the female faculty and so forth.
+> With four, in the cases of pleasure and body. One possessing the eye and so forth, with five, and one possessing gladness. One possessing pain, however, with seven. One possessing the female faculty and so forth.
 
 ### Bhāṣya-informed study translation
 
-> One possessing Pleasure-Faculty or Body-Faculty necessarily possesses
-> four Faculties; one possessing eye or another of that group, five;
-> one possessing gladness also, five; one possessing pain, however,
-> seven. One possessing Female-Faculty and so forth [necessarily
-> possesses eight].
+> One possessing Pleasure-Faculty or Body-Faculty necessarily possesses four Faculties; one possessing eye or another of that group, five; one possessing gladness also, five; one possessing pain, however, seven. One possessing Female-Faculty and so forth [necessarily possesses eight].
 
 ## 6. Philosophical Translation
 
@@ -118,13 +103,11 @@ case. Its predicate is outside this verse.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The verse gives four, five, and seven, followed by
-the next clause's subject. The eight-count and its different member-sets
-are identified as a cross-verse prose elaboration.
+**Kārikā, derived.** The verse gives four, five, and seven, followed by the next clause's subject. The eight-count and its different member-sets are identified as a cross-verse prose elaboration.
 
 ```nltk-sem
-necessary_count : \f.\n.NecessaryCount(f,n)
-eye_group_count : \n.(NecessaryCount(eye_f,n) & NecessaryCount(ear_f,n) & NecessaryCount(nose_f,n) & NecessaryCount(tongue_f,n))
+necessary_count : NecessaryCount(pleasure_f,four)
+eye_group_count : NecessaryCount(eye_f,five) & NecessaryCount(ear_f,five) & NecessaryCount(nose_f,five) & NecessaryCount(tongue_f,five)
 continued_subject : FemaleAndOthersSubject
 ```
 
@@ -189,23 +172,11 @@ ThirdDhyanaAttained => {}
 AfflictedThirdLevelPleasure => {second_dhyana_person}
 ```
 
-`Requires` means necessary co-possession, not causal production or
-simultaneous manifestation. Its reflexive entries count the given
-Faculty itself. The faith-person is an illustrative countermodel to
-deriving the pain-seven from faith, not an exhaustive biography.
-The afflicted third-level pleasure is the source's short answer;
-no latent mechanism is supplied. Cardinality tests check every
-closure and distinguish the different eight-member sets.
+Requires means necessary co-possession, not causal production or simultaneous manifestation. Its reflexive entries count the given Faculty itself. The faith-person is an illustrative countermodel to deriving the pain-seven from faith, not an exhaustive biography. The afflicted third-level pleasure is the source's short answer; no latent mechanism is supplied. Cardinality tests check every closure and distinguish the different eight-member sets.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): Possession is not uniform. Pleasure and body each
-require four. The eye and the rest, and gladness, require five. Pain
-requires seven. The female faculty and those gathered with it require
-eight. The five beginning with faith require a different eight. The
-necessary companions are fixed by the faculty possessed; there is no
-single rule for the remainder.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): Possession is not uniform. Pleasure and body each require four. The eye and the rest, and gladness, require five. Pain requires seven. The female faculty and those gathered with it require eight. The five beginning with faith require a different eight. The necessary companions are fixed by the faculty possessed; there is no single rule for the remainder.
 
 The closures are minimums. They do not say no other faculty can be possessed.
 
@@ -213,8 +184,7 @@ Eye requires body, and body requires the triad. Gladness requires pleasure, and 
 
 The second-dhyāna answer is short. It does not explain the mechanism. Latent would add a theory the sentence does not give. The claim is the afflicted third-level pleasure, possessed, the dhyāna not attained.
 
-Distress is the next eight, not part of the seven. The faith eight does
-not add to the pain seven. The prose's tu marks that distinction.
+Distress is the next eight, not part of the seven. The faith eight does not add to the pain seven. The prose's tu marks that distinction.
 
 Interpretation: the set, the initiating faculty, and the relation. A number alone loses the determination. Not the verse English.
 

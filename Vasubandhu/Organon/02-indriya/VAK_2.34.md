@@ -30,8 +30,7 @@ sāśrayālambanākārāḥ saṃprayuktāś ca pañcadhā // 2.34 //
 
 Artha is meaning. Vijñāna is Cognition. Not Principle.
 
-The compound predicates are not independently inflected singular
-nouns. External sandhi is opened for parsing.
+The compound predicates are not independently inflected singular nouns. External sandhi is opened for parsing.
 
 ```text
 # tokens: cittam manaḥ atha vijñānam ekārtham cittacaitasāḥ sāśrayālambanākārāḥ saṃprayuktāḥ ca pañcadhā
@@ -39,28 +38,24 @@ nouns. External sandhi is opened for parsing.
 
 ## 4. Grammar
 
-The first clause predicates one meaning of three designations.
-The second gives three having-predicates of consciousness and
-factors, then specifies association as fivefold. The prose explains
-the naming roles and enumerates the five equalities. Those
-explanations are not extra words in the verse.
+The first clause predicates one meaning of three designations. The second gives three having-predicates of consciousness and factors, then specifies association as fivefold. The prose explains the naming roles and enumerates the five equalities. Those explanations are not extra words in the verse.
 
 ```nltk-fcfg
 % start S
 # tokens: cittam manaḥ atha vijñānam ekārtham cittacaitasāḥ sāśrayālambanākārāḥ saṃprayuktāḥ ca pañcadhā
 S[SEM=<(?names & ?pair)>] -> NAMES[SEM=?names] PAIR[SEM=?pair]
-NAMES[SEM=<(SameReference(citta_name,manas_name) & SameReference(manas_name,vijnana_name))>] -> CITTA[CASE=nom] MANAS[CASE=nom] ANDNAME VIJNANA[CASE=nom] ONE[READING=contextual_reference]
-PAIR[SEM=<(HasBasis(consciousness_factors) & HasCondition(consciousness_factors) & HasManner(consciousness_factors) & AssociationModes(consciousness_factors,five))>] -> SUBJECT[CASE=nom,NUM=pl] HAVING[CASE=nom,NUM=pl,CNT=3] ASSOCIATED[CASE=nom,NUM=pl] AND FIVE[CNT=5]
-CITTA[CASE=nom] -> 'cittam'
-MANAS[CASE=nom] -> 'manaḥ'
+NAMES[SEM=<SameReference(citta_name,manas_name) & SameReference(manas_name,vijnana_name)>] -> CITTA MANAS ANDNAME VIJNANA ONE
+CITTA -> 'cittam'
+MANAS -> 'manaḥ'
 ANDNAME -> 'atha'
-VIJNANA[CASE=nom] -> 'vijñānam'
-ONE[READING=contextual_reference] -> 'ekārtham'
-SUBJECT[CASE=nom,NUM=pl] -> 'cittacaitasāḥ'
-HAVING[CASE=nom,NUM=pl,CNT=3] -> 'sāśrayālambanākārāḥ'
-ASSOCIATED[CASE=nom,NUM=pl] -> 'saṃprayuktāḥ'
+VIJNANA -> 'vijñānam'
+ONE -> 'ekārtham'
+PAIR[SEM=<HasBasis(consciousness_factors) & HasCondition(consciousness_factors) & HasManner(consciousness_factors) & AssociationModes(consciousness_factors,five)>] -> SUBJECT HAVING ASSOCIATED AND FIVE
+SUBJECT -> 'cittacaitasāḥ'
+HAVING -> 'sāśrayālambanākārāḥ'
+ASSOCIATED -> 'saṃprayuktāḥ'
 AND -> 'ca'
-FIVE[CNT=5] -> 'pañcadhā'
+FIVE -> 'pañcadhā'
 ```
 
 ```nltk-dep
@@ -78,21 +73,15 @@ FIVE[CNT=5] -> 'pañcadhā'
 
 ### Literal Translation
 
-> Consciousness, Mind, and Cognition have one meaning. Consciousness and
-> mental factors have Basis, Cognitive Condition, and manner, and are
-> associated in five ways.
+> Consciousness, Mind, and Cognition have one meaning. Consciousness and mental factors have Basis, Cognitive Condition, and manner, and are associated in five ways.
+
 ### Bhāṣya-informed study translation
 
-> Consciousness, Mind, and Cognition have one meaning here. Consciousness
-> and mental factors have a Basis, a Cognitive Condition, and a manner,
-> and are associated through five equalities: Basis, Cognitive Condition,
-> manner, time, and individual instance—one consciousness and one of each
-> accompanying factor.
+> Consciousness, Mind, and Cognition have one meaning here. Consciousness and mental factors have a Basis, a Cognitive Condition, and a manner, and are associated through five equalities: Basis, Cognitive Condition, manner, time, and individual instance—one consciousness and one of each accompanying factor.
+
 ## 6. Philosophical Translation
 
-> Contextual common reference preserves different naming roles.
-> Association joins distinguishable factors through specified
-> equalities; one instance of each does not make all factors one entity.
+> Contextual common reference preserves different naming roles. Association joins distinguishable factors through specified equalities; one instance of each does not make all factors one entity.
 
 ## 7. Technical Vocabulary
 
@@ -112,14 +101,11 @@ What is gathered is not specified. No seed-theory is inserted.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** SameReference relates designations in this naming
-context, not unrestricted identity of their functions. The association
-model uses distinct consciousness and factor tokens with shared
-relational values; individual-instance equality means one of each.
+**Kārikā, derived.** SameReference relates designations in this naming context, not unrestricted identity of their functions. The association model uses distinct consciousness and factor tokens with shared relational values; individual-instance equality means one of each.
 
 ```nltk-sem
-common_reference : \a.\b.SameReference(b,a)
-five_modes : \x.AssociationModes(x,five)
+common_reference : SameReference(citta_name,manas_name)
+five_modes : AssociationModes(consciousness_factors,five)
 ```
 
 ```nltk-fol
@@ -161,33 +147,19 @@ OneInstanceEach => {(consciousness_token,feeling_token),(consciousness_token,att
 InstanceOf => {(consciousness_token,consciousness_kind),(feeling_token,feeling_kind),(attention_token,attention_kind)}
 ```
 
-The two factors illustrate association; they are not an exhaustive
-inventory replacing the universal ten. Tests check five modes,
-one distinct token per represented kind, and each shared relation.
-The equalities do not themselves resolve the previously disputed
-attention/equanimity relation or examination co-presence.
+The two factors illustrate association; they are not an exhaustive inventory replacing the universal ten. Tests check five modes, one distinct token per represented kind, and each shared relation. The equalities do not themselves resolve the previously disputed attention/equanimity relation or examination co-presence.
 
 ## 9. Interpretive Note
 
-**Translation note.** The commentary gives the five relations as equality
-of Basis, Cognitive Condition, manner, time, and instance, illustrated
-by one consciousness and one of each factor. Manner remains distinct
-from Basis and Cognitive Condition. Its fivefold account does not resolve the previously noted questions about shared support or simultaneous occurrence.
+**Translation note.** The commentary gives the five relations as equality of Basis, Cognitive Condition, manner, time, and instance, illustrated by one consciousness and one of each factor. Manner remains distinct from Basis and Cognitive Condition. Its fivefold account does not resolve the previously noted questions about shared support or simultaneous occurrence.
 
 The section closes. Distributions and particular distinctions give way to the names. Others are not a named school. The questions introduce explanations, not a developed objection.
 
-Basis is not Cognitive Condition. Manner is not established as a
-separate image or a theory of representation. Having manner is
-the local function.
+Basis is not Cognitive Condition. Manner is not established as a separate image or a theory of representation. Having manner is the local function.
 
-Fivefold association does not settle the shared Cognitive Condition
-of attention and equanimity, deferred at 2.25. It does not refute the alternative on vitarka and vicāra at 2.33. Level-attribution is still not moment-co-presence. Repeating the relation does not supply the missing explanation.
+Fivefold association does not settle the shared Cognitive Condition of attention and equanimity, deferred at 2.25. It does not refute the alternative on vitarka and vicāra at 2.33. Level-attribution is still not moment-co-presence. Repeating the relation does not supply the missing explanation.
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the reading of Dharma Base, remaining distinct
-in role from consciousness and Mind. The source's contextual naming
-claim is retained, not rewritten as three unrelated entities; neither
-does it license indiscriminate substitution in every argument.
+In the Organon reading, Cognition joins and governs Perception and Conception and guides the reading of Dharma Base, remaining distinct in role from consciousness and Mind. The source's contextual naming claim is retained, not rewritten as three unrelated entities; neither does it license indiscriminate substitution in every argument.
 
 ## 10. OWL++ Seed
 

@@ -33,9 +33,7 @@ nava bhāvanayā pañca tv aheyāny api na trayam // 2.13 //
 
 Manovittitrayam is four faculties. The three feelings are pleasure, gladness, and neutral feeling. Pain is not in that triad.
 
-**Grammar tokens.** External sandhi is opened, including *tu aheyāni api*.
-The opening compound remains one token. The question supplies the three
-statuses, and the prose resolves the carried cultivation predicate.
+**Grammar tokens.** External sandhi is opened, including *tu aheyāni api*. The opening compound remains one token. The question supplies the three statuses, and the prose resolves the carried cultivation predicate.
 
 ```text
 # tokens: manovittitrayam tredhā dviheyā durmanaskatā nava bhāvanayā pañca tu aheyāni api na trayam
@@ -43,36 +41,29 @@ statuses, and the prose resolves the carried cultivation predicate.
 
 ## 4. Grammar
 
-Threefold answers the opening question: abandonable by seeing, by
-cultivation, or not abandonable. The feminine gerundive agrees with
-distress; the instrumental cultivation specifies the means for the nine.
-For the five, *api* adds non-abandonment to the carried
-cultivation predicate. A shared feature requires that carry to agree
-with the nine's instrumental clause. The final negation excludes
-abandonment of the triad.
-These are ranges across qualified instances, not completed acts.
+Threefold answers the opening question: abandonable by seeing, by cultivation, or not abandonable. The feminine gerundive agrees with distress; the instrumental cultivation specifies the means for the nine. For the five, *api* adds non-abandonment to the carried cultivation predicate. A shared feature requires that carry to agree with the nine's instrumental clause. The final negation excludes abandonment of the triad. These are ranges across qualified instances, not completed acts.
 
 ```nltk-fcfg
 % start S
 # tokens: manovittitrayam tredhā dviheyā durmanaskatā nava bhāvanayā pañca tu aheyāni api na trayam
-S[SEM=<(?four & ?distress & ?nine & ?five & ?triad)>] -> FOUR[SEM=?four] DISTRESSCLAUSE[SEM=?distress] NINECLAUSE[STATUS=?s,SEM=?nine] FIVECLAUSE[INHERITED=?s,SEM=?five] TRIADCLAUSE[SEM=?triad]
-FOUR[SEM=<?range(?group)>] -> FOURGROUP[CASE=nom,NUM=sg,GEN=n,SEM=?group] THREEFOLD[SEM=?range]
-DISTRESSCLAUSE[SEM=<?range(?group)>] -> TWOHEYA[CASE=nom,NUM=sg,GEN=f,SEM=?range] DISTRESS[CASE=nom,NUM=sg,GEN=f,SEM=?group]
-NINECLAUSE[STATUS=cultivation,SEM=<(GroupCount(?group,nine) & ?by(?group))>] -> NINE[CNT=9,SEM=?group] CULTIVATION[CASE=ins,SEM=?by]
-FIVECLAUSE[INHERITED=cultivation,SEM=<(GroupCount(?group,five) & CultivationOrNot(?group) & ?not(?group))>] -> FIVE[CNT=5,SEM=?group] BUT NOTHEYA[CASE=nom,NUM=pl,GEN=n,SEM=?not] ALSO[SCOPE=additional_status]
-TRIADCLAUSE[SEM=<(GroupCount(?group,three) & ?not(?group))>] -> NOT[SEM=?not] TRIAD[CASE=nom,NUM=sg,GEN=n,SEM=?group]
-FOURGROUP[CASE=nom,NUM=sg,GEN=n,SEM=<mind_three_feelings>] -> 'manovittitrayam'
-THREEFOLD[SEM=<\g.ThreeAbandonmentStatuses(g)>] -> 'tredhā'
-TWOHEYA[CASE=nom,NUM=sg,GEN=f,SEM=<\g.SeeingOrCultivation(g)>] -> 'dviheyā'
-DISTRESS[CASE=nom,NUM=sg,GEN=f,SEM=<distress_f>] -> 'durmanaskatā'
-NINE[CNT=9,SEM=<nine_group>] -> 'nava'
-CULTIVATION[CASE=ins,SEM=<\g.CultivationOnly(g)>] -> 'bhāvanayā'
-FIVE[CNT=5,SEM=<faith_group>] -> 'pañca'
+S[SEM=<(?four & ?distress & ?nine & ?five & ?triad)>] -> FOUR[SEM=?four] DISTRESSCLAUSE[SEM=?distress] NINECLAUSE[SEM=?nine] FIVECLAUSE[SEM=?five] TRIADCLAUSE[SEM=?triad]
+FOUR[SEM=<ThreeAbandonmentStatuses(mind_three_feelings)>] -> FOURGROUP THREEFOLD
+FOURGROUP -> 'manovittitrayam'
+THREEFOLD -> 'tredhā'
+DISTRESSCLAUSE[SEM=<SeeingOrCultivation(distress_f)>] -> TWOHEYA DISTRESS
+TWOHEYA -> 'dviheyā'
+DISTRESS -> 'durmanaskatā'
+NINECLAUSE[SEM=<GroupCount(nine_group,nine) & CultivationOnly(nine_group)>] -> NINE CULTIVATION
+NINE -> 'nava'
+CULTIVATION -> 'bhāvanayā'
+FIVECLAUSE[SEM=<GroupCount(faith_group,five) & CultivationOrNot(faith_group) & CanBeNotAbandoned(faith_group)>] -> FIVE BUT NOTHEYA ALSO
+FIVE -> 'pañca'
 BUT -> 'tu'
-NOTHEYA[CASE=nom,NUM=pl,GEN=n,SEM=<\g.CanBeNotAbandoned(g)>] -> 'aheyāni'
-ALSO[SCOPE=additional_status] -> 'api'
-NOT[SEM=<\g.NotAbandonedOnly(g)>] -> 'na'
-TRIAD[CASE=nom,NUM=sg,GEN=n,SEM=<realization_group>] -> 'trayam'
+NOTHEYA -> 'aheyāni'
+ALSO -> 'api'
+TRIADCLAUSE[SEM=<GroupCount(realization_group,three) & NotAbandonedOnly(realization_group)>] -> NOT TRIAD
+NOT -> 'na'
+TRIAD -> 'trayam'
 ```
 
 ```nltk-dep
@@ -96,23 +87,15 @@ TRIAD[CASE=nom,NUM=sg,GEN=n,SEM=<realization_group>] -> 'trayam'
 
 ### Literal Translation
 
-> Mind and the triad of feelings are threefold. Distress is to be abandoned
-> in two ways. Nine by cultivation. The five, however, also not to be
-> abandoned. Not the triad.
+> Mind and the triad of feelings are threefold. Distress is to be abandoned in two ways. Nine by cultivation. The five, however, also not to be abandoned. Not the triad.
 
 ### Bhāṣya-informed study translation
 
-> Mind and the three feelings are to be abandoned by seeing, by
-> cultivation, or not at all. Distress is to be abandoned by seeing or
-> cultivation; nine Faculties by cultivation alone. The five, however,
-> are either to be abandoned by cultivation or not to be abandoned;
-> the triad is not to be abandoned.
+> Mind and the three feelings are to be abandoned by seeing, by cultivation, or not at all. Distress is to be abandoned by seeing or cultivation; nine Faculties by cultivation alone. The five, however, are either to be abandoned by cultivation or not to be abandoned; the triad is not to be abandoned.
 
 ## 6. Philosophical Translation
 
-> Abandonment classifies qualified instances, not the rejection of a
-> Faculty-type. The five differ according to outflow-status; the faultless
-> triad is not fit to be abandoned.
+> Abandonment classifies qualified instances, not the rejection of a Faculty-type. The five differ according to outflow-status; the faultless triad is not fit to be abandoned.
 
 ## 7. Technical Vocabulary
 
@@ -129,17 +112,12 @@ TRIAD[CASE=nom,NUM=sg,GEN=n,SEM=<realization_group>] -> 'trayam'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root SEM records five ranges. The Bhāṣya
-supplies their members and maps the five's two statuses to with-outflows
-and without-outflows instances. Can be not abandoned describes the
-classification, not actual retention or permanence. The
-`STATUS`/`INHERITED` link records the ellipsis resolved by the Bhāṣya;
-the five's two alternatives apply across qualified instances.
+**Kārikā, derived.** The root SEM records five ranges. The Bhāṣya supplies their members and maps the five's two statuses to with-outflows and without-outflows instances. Can be not abandoned describes the classification, not actual retention or permanence. The inherited status link records the ellipsis resolved by the Bhāṣya; the five's two alternatives apply across qualified instances.
 
 ```nltk-sem
-three_statuses : \g.ThreeAbandonmentStatuses(g)
-cultivation_only : \g.CultivationOnly(g)
-triad_status : \g.NotAbandonedOnly(g)
+three_statuses : ThreeAbandonmentStatuses(mind_three_feelings)
+cultivation_only : CultivationOnly(nine_group)
+triad_status : NotAbandonedOnly(realization_group)
 ```
 
 ```nltk-fol
@@ -220,25 +198,13 @@ Faultless => {shall_know,knowledge,one_who_has_known,faith_without_outflows}
 FitToAbandon => {faith_with_outflows}
 ```
 
-The Faculty partition contains 4 + 1 + 9 + 5 + 3 = 22 types. The two
-faith instances illustrate the prose's exclusive alternatives, not
-extra Faculties or an exhaustive ontology. The model checks
-permitted ranges and their distinction; it does not supply a mechanism of abandonment.
+The Faculty partition contains 4 + 1 + 9 + 5 + 3 = 22 types. The two faith instances illustrate the prose's exclusive alternatives, not extra Faculties or an exhaustive ontology. The model checks permitted ranges and their distinction; it does not supply a mechanism of abandonment.
 
 Threefold here is not the ethical threefold of 2.11. Pain has moved.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): Mind and the three feelings, pleasure, gladness, and
-neutral feeling, are threefold: to be abandoned by seeing, by cultivation,
-or not at all. Distress is to be abandoned in two ways, by seeing and by
-cultivation. Nine, the eye and the rest with life as the eighth, together
-with pain, are to be abandoned by cultivation alone. The five beginning
-with faith are both to be abandoned by cultivation and not to be
-abandoned, according as they are with or without outflows. The triad is
-not to be abandoned at all, for what is faultless is not fit to be
-abandoned.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): Mind and the three feelings, pleasure, gladness, and neutral feeling, are threefold: to be abandoned by seeing, by cultivation, or not at all. Distress is to be abandoned in two ways, by seeing and by cultivation. Nine, the eye and the rest with life as the eighth, together with pain, are to be abandoned by cultivation alone. The five beginning with faith are both to be abandoned by cultivation and not to be abandoned, according as they are with or without outflows. The triad is not to be abandoned at all, for what is faultless is not fit to be abandoned.
 
 This closes the distinctions of kind opened at 2.09: outflow, maturation, ethical quality, realm-connection, abandonment. Acquisition is the next question. It is not another name for this.
 

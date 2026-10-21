@@ -36,36 +36,30 @@ Two name-construals: attainment of the non-reflective beings, or attainment that
 
 ## 4. Grammar
 
-“Likewise” carries forward only cessation of consciousness and mental
-factors from 2.41, not that result's indeterminate ethical status.
-The prose resolves the final dhyāna as the fourth and the one temporal
-period as present acquisition. The wish for release describes the
-entrant's assessment, not an assertion that this attainment is liberation.
-The exclusive next-rebirth timing concerns maturation, not the time
-at which the attainment is entered.
+“Likewise” carries forward only cessation of consciousness and mental factors from 2.41, not that result's indeterminate ethical status. The prose resolves the final dhyāna as the fourth and the one temporal period as present acquisition. The wish for release describes the entrant's assessment, not an assertion that this attainment is liberation. The exclusive next-rebirth timing concerns maturation, not the time at which the attainment is entered.
 
 ```nltk-fcfg
 % start S
 # tokens: tathā asaṃjñisamāpattiḥ dhyāne antye niḥsṛtīcchayā śubhā upapadyavedyā eva na āryasya ekādhvikā āpyate
 S[SEM=<(?cessation & ?level & ?motive & ?ethical & ?timing & ?person & ?acquisition)>] -> CESSATION[SEM=?cessation] LEVEL[SEM=?level] MOTIVE[SEM=?motive] ETHICAL[SEM=?ethical] TIMING[SEM=?timing] PERSON[SEM=?person] ACQUISITION[SEM=?acquisition]
-CESSATION[SEM=<CessationOf(attainment,consciousness_and_factors)>] -> LIKEWISE[CARRIES=cessation_only] ATTAINMENT[CASE=nom]
-LEVEL[SEM=<AtLevel(attainment,fourth_dhyana)>] -> DHYANA[CASE=loc] FINAL[CASE=loc,REF=fourth]
-MOTIVE[SEM=<EnteredWithWish(attainment,release)>] -> WISH[CASE=ins]
-ETHICAL[SEM=<Wholesome(attainment)>] -> WHOLESOME[CASE=nom]
-TIMING[SEM=<all x.(MaturationTiming(attainment,x) <-> (x = next_rebirth))>] -> NEXT[CASE=nom] ONLY[EXCLUSIVE=true]
-PERSON[SEM=<-Eligible(noble,attainment)>] -> NOT NOBLE[CASE=gen]
-ACQUISITION[SEM=<all x.(AcquisitionTime(attainment,x) <-> (x = present))>] -> ONETIME[CASE=nom,REF=present_not_once] ACQUIRED
-LIKEWISE[CARRIES=cessation_only] -> 'tathā'
-ATTAINMENT[CASE=nom] -> 'asaṃjñisamāpattiḥ'
-DHYANA[CASE=loc] -> 'dhyāne'
-FINAL[CASE=loc,REF=fourth] -> 'antye'
-WISH[CASE=ins] -> 'niḥsṛtīcchayā'
-WHOLESOME[CASE=nom] -> 'śubhā'
-NEXT[CASE=nom] -> 'upapadyavedyā'
-ONLY[EXCLUSIVE=true] -> 'eva'
+CESSATION[SEM=<CessationOf(attainment,consciousness_and_factors)>] -> LIKEWISE ATTAINMENT
+LIKEWISE -> 'tathā'
+ATTAINMENT -> 'asaṃjñisamāpattiḥ'
+LEVEL[SEM=<AtLevel(attainment,fourth_dhyana)>] -> DHYANA FINAL
+DHYANA -> 'dhyāne'
+FINAL -> 'antye'
+MOTIVE[SEM=<EnteredWithWish(attainment,release)>] -> WISH
+WISH -> 'niḥsṛtīcchayā'
+ETHICAL[SEM=<Wholesome(attainment)>] -> WHOLESOME
+WHOLESOME -> 'śubhā'
+TIMING[SEM=<all x.(MaturationTiming(attainment,x) <-> (x = next_rebirth))>] -> NEXT ONLY
+NEXT -> 'upapadyavedyā'
+ONLY -> 'eva'
+PERSON[SEM=<-Eligible(noble,attainment)>] -> NOT NOBLE
 NOT -> 'na'
-NOBLE[CASE=gen] -> 'āryasya'
-ONETIME[CASE=nom,REF=present_not_once] -> 'ekādhvikā'
+NOBLE -> 'āryasya'
+ACQUISITION[SEM=<all x.(AcquisitionTime(attainment,x) <-> (x = present))>] -> ONETIME ACQUIRED
+ONETIME -> 'ekādhvikā'
 ACQUIRED -> 'āpyate'
 ```
 
@@ -83,23 +77,15 @@ The seven constituent lengths are 2, 2, 1, 1, 2, 2, and 2.
 
 ### Literal Translation
 
-> Likewise, the non-reflective attainment is in the final dhyāna and is
-> entered with the wish for release. It is wholesome, [its maturation]
-> experienced only in the next rebirth, not a noble person's, and
-> acquired in one temporal period.
+> Likewise, the non-reflective attainment is in the final dhyāna and is entered with the wish for release. It is wholesome, [its maturation] experienced only in the next rebirth, not a noble person's, and acquired in one temporal period.
+
 ### Bhāṣya-informed study translation
 
-> Likewise, non-reflective attainment is cessation of consciousness and
-> the mental factors. It belongs to the fourth dhyāna and is entered
-> with the wish for release. It is wholesome, with maturation experienced
-> only in the next rebirth; it is not for a noble person and is acquired
-> only as a present instance.
+> Likewise, non-reflective attainment is cessation of consciousness and the mental factors. It belongs to the fourth dhyāna and is entered with the wish for release. It is wholesome, with maturation experienced only in the next rebirth; it is not for a noble person and is acquired only as a present instance.
+
 ## 6. Philosophical Translation
 
-> “Likewise” shares the cessation, not the result's ethical status.
-> The attainment is wholesome; its next-rebirth maturation is
-> indeterminate. Present-only acquisition does not exclude later
-> possession of what has become past.
+> “Likewise” shares the cessation, not the result's ethical status. The attainment is wholesome; its next-rebirth maturation is indeterminate. Present-only acquisition does not exclude later possession of what has become past.
 
 ## 7. Technical Vocabulary
 
@@ -178,12 +164,7 @@ ReportedNecessaryRegaining => {(fallen_practitioner_example,nonreflective_attain
 ReportedRebirth => {(fallen_practitioner_example,nonreflective_being_group)}
 ```
 
-The second-moment example is a continuing attainment before
-relinquishment, not every possible second moment. Past possession
-does not mean acquiring a past instance on entry. The regaining
-predicates label the report marked by *kila*, not a finite proof
-of necessary future rebirth. Empty eligibility records only the
-negative noble-person case tested here, not universal ineligibility.
+The second-moment example is a continuing attainment before relinquishment, not every possible second moment. Past possession does not mean acquiring a past instance on entry. The regaining predicates label the report marked by *kila*, not a finite proof of necessary future rebirth. Empty eligibility records only the negative noble-person case tested here, not universal ineligibility.
 
 ## 9. Interpretive Note
 
@@ -191,12 +172,7 @@ negative noble-person case tested here, not universal ineligibility.
 
 Kila marks the necessary rebirth after falling away. Report, not a recommendation. The restraint of individual liberation is the analogy for present-only acquisition. Not an identity of the two.
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, remaining distinct from
-consciousness and Mind. An entrant's wish for release does not
-establish liberation. The classification must preserve the distinction
-between a practice, its maturation, present acquisition, continuing
-past possession, and cultivation of future instances.
+In the Organon reading, Cognition joins and governs Perception and Conception and guides the Dharma Base, remaining distinct from consciousness and Mind. An entrant's wish for release does not establish liberation. The classification must preserve the distinction between a practice, its maturation, present acquisition, continuing past possession, and cultivation of future instances.
 
 ## 10. OWL++ Seed
 

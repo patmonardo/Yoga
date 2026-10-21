@@ -37,34 +37,28 @@ Not-yet-arisen is future. Unobscured and indeterminate are two axes.
 
 ## 4. Grammar
 
-The first clause inherits “acquisition is co-arisen only” from 2.38;
-the prose specifies obscured-indeterminate manifest Form. The second
-excludes prior acquisition of Desire-Realm manifest and nonmanifest
-Form while admitting co-arisen and subsequent acquisition. Those
-ranges overlap: the second does not cancel the first's narrower
-restriction. The final pronoun switches the temporal subject to
-non-acquisition, with past and future as the paired dharma-times.
+The first clause inherits “acquisition is co-arisen only” from 2.38; the prose specifies obscured-indeterminate manifest Form. The second excludes prior acquisition of Desire-Realm manifest and nonmanifest Form while admitting co-arisen and subsequent acquisition. Those ranges overlap: the second does not cancel the first's narrower restriction. The final pronoun switches the temporal subject to non-acquisition, with past and future as the paired dharma-times.
 
 ```nltk-fcfg
 % start S
 # tokens: nivṛtasya ca rūpasya kāme rūpasya na agrajā akliṣṭā avyākṛtā aprāptiḥ sā atītājātayoḥ tridhā
 S[SEM=<(?obscured & ?desire & ?ethical & ?temporal)>] -> OBSCURED[SEM=?obscured] DESIRE[SEM=?desire] ETHICAL[SEM=?ethical] TEMPORAL[SEM=?temporal]
-OBSCURED[SEM=<(AcquisitionOption(obscured_manifest,coarisen) & -AcquisitionOption(obscured_manifest,prior) & -AcquisitionOption(obscured_manifest,subsequent))>] -> OBSCUREDGEN[CASE=gen] ALSO[INHERITS=coarisen_only] FORM[CASE=gen]
-DESIRE[SEM=<(-AcquisitionOption(desire_form,prior) & AcquisitionOption(desire_form,coarisen) & AcquisitionOption(desire_form,subsequent))>] -> DESIREREALM[CASE=loc] FORM[CASE=gen] NOT[POL=negative] PRIOR[CASE=nom]
-ETHICAL[SEM=<all x.(NonAcquisition(x) -> (Unobscured(x) & Indeterminate(x)))>] -> UNAFFLICTED[CASE=nom] INDETERMINATE[CASE=nom] NONACQUISITION[CASE=nom]
-TEMPORAL[SEM=<all x y.((PastFuture(x) & Time(y)) -> NonAcquisitionOption(x,y))>] -> THAT[REF=nonacquisition] PASTFUTURE[CASE=gen,NUM=du,CNT=2] THREE[CNT=3]
-OBSCUREDGEN[CASE=gen] -> 'nivṛtasya'
-ALSO[INHERITS=coarisen_only] -> 'ca'
-FORM[CASE=gen] -> 'rūpasya'
-DESIREREALM[CASE=loc] -> 'kāme'
-NOT[POL=negative] -> 'na'
-PRIOR[CASE=nom] -> 'agrajā'
-UNAFFLICTED[CASE=nom] -> 'akliṣṭā'
-INDETERMINATE[CASE=nom] -> 'avyākṛtā'
-NONACQUISITION[CASE=nom] -> 'aprāptiḥ'
-THAT[REF=nonacquisition] -> 'sā'
-PASTFUTURE[CASE=gen,NUM=du,CNT=2] -> 'atītājātayoḥ'
-THREE[CNT=3] -> 'tridhā'
+OBSCURED[SEM=<AcquisitionOption(obscured_manifest,coarisen) & -AcquisitionOption(obscured_manifest,prior) & -AcquisitionOption(obscured_manifest,subsequent)>] -> OBSCUREDGEN ALSO FORM
+OBSCUREDGEN -> 'nivṛtasya'
+ALSO -> 'ca'
+FORM -> 'rūpasya'
+DESIRE[SEM=<-AcquisitionOption(desire_form,prior) & AcquisitionOption(desire_form,coarisen) & AcquisitionOption(desire_form,subsequent)>] -> DESIREREALM FORM NOT PRIOR
+DESIREREALM -> 'kāme'
+NOT -> 'na'
+PRIOR -> 'agrajā'
+ETHICAL[SEM=<all x.(NonAcquisition(x) -> (Unobscured(x) & Indeterminate(x)))>] -> UNAFFLICTED INDETERMINATE NONACQUISITION
+UNAFFLICTED -> 'akliṣṭā'
+INDETERMINATE -> 'avyākṛtā'
+NONACQUISITION -> 'aprāptiḥ'
+TEMPORAL[SEM=<all x y.((PastFuture(x) & Time(y)) -> NonAcquisitionOption(x,y))>] -> THAT PASTFUTURE THREE
+THAT -> 'sā'
+PASTFUTURE -> 'atītājātayoḥ'
+THREE -> 'tridhā'
 ```
 
 ```nltk-dep
@@ -74,29 +68,21 @@ THREE[CNT=3] -> 'tridhā'
 'tridhā' -> 'sā' | 'atītājātayoḥ'
 ```
 
-The four constituents span [0, 3), [3, 7), [7, 10), [10, 13).
-The model's Desire-Realm Form label represents its general range,
-not a claim that each Form subtype admits subsequent acquisition.
+The four constituents span [0, 3), [3, 7), [7, 10), [10, 13). The model's Desire-Realm Form label represents its general range, not a claim that each Form subtype admits subsequent acquisition.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Of obscured Form also, [acquisition is co-arisen only].
-> Of Form in the Desire Realm, [acquisition] is not prior-arisen.
-> Non-acquisition is unafflicted and indeterminate; for past and
-> not-yet-arisen dharmas it is threefold.
+> Of obscured Form also, [acquisition is co-arisen only]. Of Form in the Desire Realm, [acquisition] is not prior-arisen. Non-acquisition is unafflicted and indeterminate; for past and not-yet-arisen dharmas it is threefold.
+
 ### Bhāṣya-informed study translation
 
-> Acquisition of obscured-indeterminate manifest Form is co-arisen only.
-> Acquisition of Desire-Realm Form is never prior to it.
-> Non-acquisition is always unobscured-indeterminate; for past and
-> future dharmas, non-acquisition may be past, present, or future.
+> Acquisition of obscured-indeterminate manifest Form is co-arisen only. Acquisition of Desire-Realm Form is never prior to it. Non-acquisition is always unobscured-indeterminate; for past and future dharmas, non-acquisition may be past, present, or future.
+
 ## 6. Philosophical Translation
 
-> Non-acquisition does not inherit the ethical class of what is not
-> possessed. Its temporal classification is also distinct from the
-> restrictions just imposed on acquisition of Form.
+> Non-acquisition does not inherit the ethical class of what is not possessed. Its temporal classification is also distinct from the restrictions just imposed on acquisition of Form.
 
 ## 7. Technical Vocabulary
 
@@ -157,29 +143,15 @@ NonAcquisitionOption => {(past_time,past_time),(past_time,present_time),(past_ti
 ProvisionalPresentOption => {(present_time,present_time)}
 ```
 
-The six past/future combinations belong to the verse theory.
-The present-only proposal has a separately named provisional
-predicate and theory; it is not smuggled into the verse's semantic
-root. Finite examples test internal classification, not the
-ontological dispute about acquisition and non-acquisition.
+The six past/future combinations belong to the verse theory. The present-only proposal has a separately named provisional predicate and theory; it is not smuggled into the verse's semantic root. Finite examples test internal classification, not the ontological dispute about acquisition and non-acquisition.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya grounds the weakness of obscured-
-indeterminate manifest Form in its failure to produce nonmanifest
-Form even when intense. Its present-dharma non-acquisition gloss
-is damaged. The proposed present-only reading is retained only
-in the Bhāṣya discussion and separately marked model, not the
-kārikā translation.
+**Translation note.** The Bhāṣya grounds the weakness of obscured-indeterminate manifest Form in its failure to produce nonmanifest Form even when intense. Its present-dharma non-acquisition gloss is damaged. The proposed present-only reading is retained only in the Bhāṣya discussion and separately marked model, not the kārikā translation.
 
 Realm classifications of non-acquisition, and ordinary-person status, are 2.40. The Buddha counterexample belongs there: absence of another lineage is not non-nobility.
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, without becoming consciousness
-or Mind. The acquisition/non-acquisition dyad retains distinct
-positive and negative classifications. A negative determination is
-not an untyped blank, nor does its classification by itself prove
-that it is a separate substance.
+In the Organon reading, Cognition joins and governs Perception and Conception and guides the Dharma Base, without becoming consciousness or Mind. The acquisition/non-acquisition dyad retains distinct positive and negative classifications. A negative determination is not an untyped blank, nor does its classification by itself prove that it is a separate substance.
 
 ## 10. OWL++ Seed
 

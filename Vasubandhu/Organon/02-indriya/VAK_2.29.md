@@ -38,29 +38,25 @@ Desire-Realm scope is carried from 2.28. Sandhi is opened for parsing.
 
 ## 4. Grammar
 
-The two locative cases share twenty. The second line distributes
-twenty-one across three kinds of single addition. Its four is the
-number of alternative afflictions, not four simultaneous increments.
-The prose identifies view as a specialization of an already counted
-universal factor.
+The two locative cases share twenty. The second line distributes twenty-one across three kinds of single addition. Its four is the number of alternative afflictions, not four simultaneous increments. The prose identifies view as a specialization of an already counted universal factor.
 
 ```nltk-fcfg
 % start S
 # tokens: āveṇike tu akuśale dṛṣṭiyukte ca viṃśatiḥ kleśaiḥ caturbhiḥ krodhādyaiḥ kaukṛtyena ekaviṃśatiḥ
 S[SEM=<(?base & ?extra)>] -> BASE[SEM=?base] ADDITIONS[SEM=?extra]
-BASE[SEM=<(LocalCount(isolated_case,?count) & LocalCount(view_case,?count))>] -> ISOLATED[CASE=loc] CONTRAST UNWHOLESOME[CASE=loc] VIEW[CASE=loc] AND TWENTY[CNT=20,SEM=?count]
-ADDITIONS[SEM=<(LocalCount(four_case,?count) & LocalCount(secondary_case,?count) & LocalCount(regret_case,?count))>] -> AFFLICTIONS[CASE=ins] FOUR[CNT=4,READING=alternatives] SECONDARY[CASE=ins,READING=one] REGRET[CASE=ins] TWENTYONE[CNT=21,SEM=?count]
-ISOLATED[CASE=loc] -> 'āveṇike'
+BASE[SEM=<LocalCount(isolated_case,twenty) & LocalCount(view_case,twenty)>] -> ISOLATED CONTRAST UNWHOLESOME VIEW AND TWENTY
+ISOLATED -> 'āveṇike'
 CONTRAST -> 'tu'
-UNWHOLESOME[CASE=loc] -> 'akuśale'
-VIEW[CASE=loc] -> 'dṛṣṭiyukte'
+UNWHOLESOME -> 'akuśale'
+VIEW -> 'dṛṣṭiyukte'
 AND -> 'ca'
-TWENTY[CNT=20,SEM=<twenty>] -> 'viṃśatiḥ'
-AFFLICTIONS[CASE=ins] -> 'kleśaiḥ'
-FOUR[CNT=4,READING=alternatives] -> 'caturbhiḥ'
-SECONDARY[CASE=ins,READING=one] -> 'krodhādyaiḥ'
-REGRET[CASE=ins] -> 'kaukṛtyena'
-TWENTYONE[CNT=21,SEM=<twentyone>] -> 'ekaviṃśatiḥ'
+TWENTY -> 'viṃśatiḥ'
+ADDITIONS[SEM=<LocalCount(four_case,twentyone) & LocalCount(secondary_case,twentyone) & LocalCount(regret_case,twentyone)>] -> AFFLICTIONS FOUR SECONDARY REGRET TWENTYONE
+AFFLICTIONS -> 'kleśaiḥ'
+FOUR -> 'caturbhiḥ'
+SECONDARY -> 'krodhādyaiḥ'
+REGRET -> 'kaukṛtyena'
+TWENTYONE -> 'ekaviṃśatiḥ'
 ```
 
 ```nltk-dep
@@ -79,23 +75,15 @@ TWENTYONE[CNT=21,SEM=<twentyone>] -> 'ekaviṃśatiḥ'
 
 ### Literal Translation
 
-> In isolated unwholesome consciousness, and in unwholesome consciousness
-> associated with a view, there are twenty. With one of the four
-> afflictions, one of those beginning with anger, or regret, there are
-> twenty-one.
+> In isolated unwholesome consciousness, and in unwholesome consciousness associated with a view, there are twenty. With one of the four afflictions, one of those beginning with anger, or regret, there are twenty-one.
+
 ### Bhāṣya-informed study translation
 
-> In the Desire Realm, isolated unwholesome consciousness and unwholesome
-> consciousness associated with a view each have twenty mental factors.
-> With one of the four afflictions—attachment, hostility, conceit, or doubt—
-> or one secondary affliction beginning with anger, or regret, the local
-> count is twenty-one.
+> In the Desire Realm, isolated unwholesome consciousness and unwholesome consciousness associated with a view each have twenty mental factors. With one of the four afflictions—attachment, hostility, conceit, or doubt—or one secondary affliction beginning with anger, or regret, the local count is twenty-one.
+
 ## 6. Philosophical Translation
 
-> Isolated excludes another affliction such as attachment, not the
-> established accompanying factors. View specializes discriminative
-> comprehension and adds no new factor. A distinct associate does add
-> one: identity and addition must be determined before counting.
+> Isolated excludes another affliction such as attachment, not the established accompanying factors. View specializes discriminative comprehension and adds no new factor. A distinct associate does add one: identity and addition must be determined before counting.
 
 ## 7. Technical Vocabulary
 
@@ -112,14 +100,11 @@ Not every view is unwholesome. The obscured-indeterminate views are the next uni
 
 ## 8. Logical Determination
 
-**Kārikā, derived; local scope carried from 2.28.** Case constants
-denote the stated Desire-Realm unwholesome configurations, not
-every consciousness with a view or regret. The four-case constant
-represents any one of the four named alternatives.
+**Kārikā, derived; local scope carried from 2.28.** Case constants denote the stated Desire-Realm unwholesome configurations, not every consciousness with a view or regret. The four-case constant represents any one of the four named alternatives.
 
 ```nltk-sem
-twenty_count : \c.LocalCount(c,twenty)
-twentyone_count : \c.LocalCount(c,twentyone)
+twenty_count : LocalCount(isolated_case,twenty)
+twentyone_count : LocalCount(four_case,twentyone)
 ```
 
 ```nltk-fol
@@ -174,12 +159,7 @@ FourAffliction => {attachment_kind,hostility_kind,conceit_kind,doubt_kind}
 SecondaryExample => {anger_kind}
 ```
 
-The inventories check twenty and single additions to twenty-one.
-Tests instantiate all four afflictions, an anger example, and regret
-independently. The view-associated inventory retains the same twenty,
-with comprehension qualified rather than duplicated. These are
-local counts before later additions such as torpor, not universal
-ceilings or proofs of the underlying factor identities.
+The inventories check twenty and single additions to twenty-one. Tests instantiate all four afflictions, an anger example, and regret independently. The view-associated inventory retains the same twenty, with comprehension qualified rather than duplicated. These are local counts before later additions such as torpor, not universal ceilings or proofs of the underlying factor identities.
 
 ## 9. Interpretive Note
 
@@ -193,11 +173,7 @@ Or distributes the four. Not twenty-four. The singular secondary controls the an
 
 Regret here is the unwholesome case of 2.28. Not all regret is unwholesome. Torpor is a later addition. These totals do not rule it out.
 
-In the Organon reading, Cognition governs Perception and Conception
-without collapsing into consciousness or Mind. A view qualifies
-discriminative comprehension, not Cognition as a new twenty-first
-factor. Labels cannot decide whether a determination is an identity
-or a distinct associate.
+In the Organon reading, Cognition governs Perception and Conception without collapsing into consciousness or Mind. A view qualifies discriminative comprehension, not Cognition as a new twenty-first factor. Labels cannot decide whether a determination is an identity or a distinct associate.
 
 ## 10. OWL++ Seed
 

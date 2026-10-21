@@ -33,33 +33,28 @@ Operation is activity, efficacy. Not a third synonym for the mark.
 ```text
 # tokens: jātijātyādayaḥ teṣām te aṣṭadharmaikavṛttayaḥ janyasya janikā jātiḥ na hetupratyayaiḥ vinā
 ```
+
 ## 4. Grammar
 
-The first clause supplies the secondary marks of the four primary
-marks. The compound distributes operation: each primary operates
-on the other eight members of a nine-member group, each secondary
-on its corresponding primary alone. The final instrumental
-restriction makes the conjunction of causes and Conditions
-necessary for the proposed arising-entity's generating activity;
-it does not assert that this entity alone suffices.
+The first clause supplies the secondary marks of the four primary marks. The compound distributes operation: each primary operates on the other eight members of a nine-member group, each secondary on its corresponding primary alone. The final instrumental restriction makes the conjunction of causes and Conditions necessary for the proposed arising-entity's generating activity; it does not assert that this entity alone suffices.
 
 ```nltk-fcfg
 % start S
 # tokens: jātijātyādayaḥ teṣām te aṣṭadharmaikavṛttayaḥ janyasya janikā jātiḥ na hetupratyayaiḥ vinā
 S[SEM=<(?secondary & ?operation & ?restriction)>] -> SECONDARIES[SEM=?secondary] OPERATIONS[SEM=?operation] RESTRICTION[SEM=?restriction]
-SECONDARIES[SEM=<(SecondaryOf(arising_secondary,arising) & SecondaryOf(persistence_secondary,persistence) & SecondaryOf(aging_secondary,aging) & SecondaryOf(impermanence_secondary,impermanence))>] -> SECONDARYLIST[CASE=nom,NUM=pl] OFTHESE[CASE=gen,REF=primary_marks]
-OPERATIONS[SEM=<(all x y.((Primary(x) & GroupMember(y) & -(x = y)) -> OperatesOn(x,y)) & all x y.(SecondaryOf(x,y) -> OperatesOn(x,y)))>] -> THEY[REF=both_mark_sets] EIGHTONE[PRIMARY=8,SECONDARY=1]
-RESTRICTION[SEM=<all x.(Generates(arising,x) -> CauseConditionConjunction(x))>] -> GENERAND[CASE=gen] GENERATOR[CASE=nom] ARISING[CASE=nom] NOT CAUSES[CASE=ins,NUM=pl] WITHOUT[REQUIRES=conjunction]
-SECONDARYLIST[CASE=nom,NUM=pl] -> 'jātijātyādayaḥ'
-OFTHESE[CASE=gen,REF=primary_marks] -> 'teṣām'
-THEY[REF=both_mark_sets] -> 'te'
-EIGHTONE[PRIMARY=8,SECONDARY=1] -> 'aṣṭadharmaikavṛttayaḥ'
-GENERAND[CASE=gen] -> 'janyasya'
-GENERATOR[CASE=nom] -> 'janikā'
-ARISING[CASE=nom] -> 'jātiḥ'
+SECONDARIES[SEM=<SecondaryOf(arising_secondary,arising) & SecondaryOf(persistence_secondary,persistence) & SecondaryOf(aging_secondary,aging) & SecondaryOf(impermanence_secondary,impermanence)>] -> SECONDARYLIST OFTHESE
+SECONDARYLIST -> 'jātijātyādayaḥ'
+OFTHESE -> 'teṣām'
+OPERATIONS[SEM=<all x y.((Primary(x) & GroupMember(y) & -(x = y)) -> OperatesOn(x,y)) & all x y.(SecondaryOf(x,y) -> OperatesOn(x,y))>] -> THEY EIGHTONE
+THEY -> 'te'
+EIGHTONE -> 'aṣṭadharmaikavṛttayaḥ'
+RESTRICTION[SEM=<all x.(Generates(arising,x) -> CauseConditionConjunction(x))>] -> GENERAND GENERATOR ARISING NOT CAUSES WITHOUT
+GENERAND -> 'janyasya'
+GENERATOR -> 'janikā'
+ARISING -> 'jātiḥ'
 NOT -> 'na'
-CAUSES[CASE=ins,NUM=pl] -> 'hetupratyayaiḥ'
-WITHOUT[REQUIRES=conjunction] -> 'vinā'
+CAUSES -> 'hetupratyayaiḥ'
+WITHOUT -> 'vinā'
 ```
 
 ```nltk-dep
@@ -69,22 +64,18 @@ WITHOUT[REQUIRES=conjunction] -> 'vinā'
 'vinā' -> 'na' | 'hetupratyayaiḥ'
 ```
 
-The three constituent lengths are 2, 2, and 6. The finite model
-represents the proposed operation scheme, not a proof of the
-marks' reality. Its exact target sets are regression-tested.
+The three constituent lengths are 2, 2, and 6. The finite model represents the proposed operation scheme, not a proof of the marks' reality. Its exact target sets are regression-tested.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The marks of arising and the rest have marks of their own. The primary
-> marks operate on eight dharmas, the secondary on one. Arising generates
-> what is to be generated, not without causes and conditions.
+> The marks of arising and the rest have marks of their own. The primary marks operate on eight dharmas, the secondary on one. Arising generates what is to be generated, not without causes and conditions.
+
 ### Bhāṣya-informed study translation
 
-> Arising-of-arising and the rest belong to those [primary marks]. The
-> primary marks operate on eight dharmas, the secondary on one. Arising
-> generates what is to be generated only with causes and Conditions.
+> Arising-of-arising and the rest belong to those [primary marks]. The primary marks operate on eight dharmas, the secondary on one. Arising generates what is to be generated only with causes and Conditions.
+
 ## 6. Philosophical Translation
 
 > Primary operate on eight, secondary on one. The stipulation stops the regress; it does not show the entities. Arising generates only with causes and conditions. The power seen is the conjunction. Arising is the transition, not a producer beside it. The marks are maintained as real. Not settled.
@@ -160,30 +151,15 @@ StreamInterpretation => {stream_account_position}
 MaintainsDoctrine => {vaibhasika_position}
 ```
 
-Operation and causally conditioned generation are separate predicates:
-the first records the nine-member scheme, the second illustrates
-the causal restriction without asserting that all future dharmas
-arise together. The ready/unready cases are illustrative, not an
-exhaustive causal theory or a sufficiency proof. The Sautrāntika
-and Vaibhāṣika positions are indexed rather than merged.
+Operation and causally conditioned generation are separate predicates: the first records the nine-member scheme, the second illustrates the causal restriction without asserting that all future dharmas arise together. The ready/unready cases are illustrative, not an exhaustive causal theory or a sufficiency proof. The Sautrāntika and Vaibhāṣika positions are indexed rather than merged.
 
 ## 9. Interpretive Note
 
 **Translation note.** The commentary lists arising-of-arising, persistence-of-persistence, aging-of-aging, and impermanence-of-impermanence, then uses the eight/one distinction to block an endless regress: arising generates eight, its secondary mark generates one. It explains generation through conjunction of causes and conditions and records, without settling, the dispute over whether the marks are real entities.
 
-The full unit ends at 80.11, not 79.18. Between the two halves
-of the verse stand the Sautrāntika stream account and objections
-concerning temporal activity, simultaneous persistence/destruction,
-and aging. The causal restriction then receives a further critique
-of explanatory redundancy and grammatical inference. The
-Vaibhāṣikas maintain the distinct entities at the close.
+The full unit ends at 80.11, not 79.18. Between the two halves of the verse stand the Sautrāntika stream account and objections concerning temporal activity, simultaneous persistence/destruction, and aging. The causal restriction then receives a further critique of explanatory redundancy and grammatical inference. The Vaibhāṣikas maintain the distinct entities at the close.
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, remaining distinct from
-consciousness and Mind. A closed operation scheme can answer a
-regress objection without establishing its entities. Likewise,
-the grammar of a genitive relation cannot alone decide whether
-its terms name two distinct real entities.
+In the Organon reading, Cognition joins and governs Perception and Conception and guides the Dharma Base, remaining distinct from consciousness and Mind. A closed operation scheme can answer a regress objection without establishing its entities. Likewise, the grammar of a genitive relation cannot alone decide whether its terms name two distinct real entities.
 
 ## 10. OWL++ Seed
 

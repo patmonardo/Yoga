@@ -31,9 +31,7 @@ viprayuktās tu saṃskārāḥ prāptyaprāptī sabhāgatā /
 
 Dissociated is the class-name. Not unconditioned. Not causally disconnected.
 
-The grammar opens external sandhi and retains the acquisition pair.
-The next verse's groups of names and so forth is not an extra token
-in this verse's parse.
+The grammar opens external sandhi and retains the acquisition pair. The next verse's groups of names and so forth is not an extra token in this verse's parse.
 
 ```text
 # tokens: viprayuktāḥ tu saṃskārāḥ prāptyaprāptī sabhāgatā āsaṃjñikam samāpattī jīvitam lakṣaṇāni ca
@@ -41,28 +39,24 @@ in this verse's parse.
 
 ## 4. Grammar
 
-The opening class-name predicates dissociation of the following
-enumeration. Two duals remain pairs; the marks remain plural.
-Their later definitions and any complete numerical inventory are
-not supplied by this introductory verse. The final conjunction
-does not close the cross-verse list.
+The opening class-name predicates dissociation of the following enumeration. Two duals remain pairs; the marks remain plural. Their later definitions and any complete numerical inventory are not supplied by this introductory verse. The final conjunction does not close the cross-verse list.
 
 ```nltk-fcfg
 % start S
 # tokens: viprayuktāḥ tu saṃskārāḥ prāptyaprāptī sabhāgatā āsaṃjñikam samāpattī jīvitam lakṣaṇāni ca
-S[SEM=<?members(?class)>] -> CLASS[SEM=?class] MEMBERS[SEM=?members]
-CLASS[SEM=<\x.DissociatedEntry(x)>] -> DISSOCIATED[CASE=nom,NUM=pl] CONTRAST FORMATIONS[CASE=nom,NUM=pl]
-MEMBERS[SEM=<\P.(P(acquisition) & P(nonacquisition) & P(commonality) & P(asamjnika) & P(attainment_one) & P(attainment_two) & P(life) & P(marks))>] -> ACQUISITIONPAIR[CASE=nom,NUM=du,CNT=2] COMMONALITY[CASE=nom] ASAMJNIKA[CASE=nom] ATTAINMENTS[CASE=nom,NUM=du,CNT=2] LIFE[CASE=nom] MARKS[CASE=nom,NUM=pl] AND[CONTINUATION=next_verse]
-DISSOCIATED[CASE=nom,NUM=pl] -> 'viprayuktāḥ'
+S[SEM=<DissociatedEntry(acquisition) & DissociatedEntry(nonacquisition) & DissociatedEntry(commonality) & DissociatedEntry(asamjnika) & DissociatedEntry(attainment_one) & DissociatedEntry(attainment_two) & DissociatedEntry(life) & DissociatedEntry(marks)>] -> CLASS MEMBERS
+CLASS -> DISSOCIATED CONTRAST FORMATIONS
+DISSOCIATED -> 'viprayuktāḥ'
 CONTRAST -> 'tu'
-FORMATIONS[CASE=nom,NUM=pl] -> 'saṃskārāḥ'
-ACQUISITIONPAIR[CASE=nom,NUM=du,CNT=2] -> 'prāptyaprāptī'
-COMMONALITY[CASE=nom] -> 'sabhāgatā'
-ASAMJNIKA[CASE=nom] -> 'āsaṃjñikam'
-ATTAINMENTS[CASE=nom,NUM=du,CNT=2] -> 'samāpattī'
-LIFE[CASE=nom] -> 'jīvitam'
-MARKS[CASE=nom,NUM=pl] -> 'lakṣaṇāni'
-AND[CONTINUATION=next_verse] -> 'ca'
+FORMATIONS -> 'saṃskārāḥ'
+MEMBERS -> ACQUISITIONPAIR COMMONALITY ASAMJNIKA ATTAINMENTS LIFE MARKS AND
+ACQUISITIONPAIR -> 'prāptyaprāptī'
+COMMONALITY -> 'sabhāgatā'
+ASAMJNIKA -> 'āsaṃjñikam'
+ATTAINMENTS -> 'samāpattī'
+LIFE -> 'jīvitam'
+MARKS -> 'lakṣaṇāni'
+AND -> 'ca'
 ```
 
 ```nltk-dep
@@ -80,13 +74,12 @@ AND[CONTINUATION=next_verse] -> 'ca'
 
 ### Literal Translation
 
-> The dissociated formations are acquisition and non-acquisition,
-> commonality, āsaṃjñika, the two attainments, life, and the marks.
+> The dissociated formations are acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, and the marks.
+
 ### Bhāṣya-informed study translation
 
-> The formations dissociated from consciousness are acquisition and
-> non-acquisition, commonality, āsaṃjñika, the two attainments, life,
-> and the marks.
+> The formations dissociated from consciousness are acquisition and non-acquisition, commonality, āsaṃjñika, the two attainments, life, and the marks.
+
 ## 6. Philosophical Translation
 
 > Dissociated is not unconditioned and not form. The list names; it does not establish each as a distinct real.
@@ -107,14 +100,11 @@ AND[CONTINUATION=next_verse] -> 'ca'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** Entry constants represent listed headings.
-Marks is a plural heading, not one mark; the two attainment slots
-are distinguished without importing their later names. Entry
-membership does not establish a count of distinct real dharmas.
+**Kārikā, derived.** Entry constants represent listed headings. Marks is a plural heading, not one mark; the two attainment slots are distinguished without importing their later names. Entry membership does not establish a count of distinct real dharmas.
 
 ```nltk-sem
-classification : \x.DissociatedEntry(x)
-acquisition_pair : \P.(P(acquisition) & P(nonacquisition))
+classification : DissociatedEntry(acquisition)
+acquisition_pair : DissociatedEntry(acquisition) & DissociatedEntry(nonacquisition)
 ```
 
 ```nltk-fol
@@ -159,12 +149,7 @@ ContinuationEntry => {name_groups_heading}
 SingleEntry => {acquisition_entry,nonacquisition_entry,commonality_entry,asamjnika_entry,attainment_slot_one,attainment_slot_two,life_entry}
 ```
 
-The prose-classification theory follows the contextual English
-against the running witness's conflicting double negation; it is not
-a parse or repair of that defective sentence. The continuation is
-modeled separately, not attributed to the numbered verse. No
-converse or exhaustive-list axiom is asserted, and the model does
-not determine causal relations or distinct real existence.
+The prose-classification theory follows the contextual English against the running witness's conflicting double negation; it is not a parse or repair of that defective sentence. The continuation is modeled separately, not attributed to the numbered verse. No converse or exhaustive-list axiom is asserted, and the model does not determine causal relations or distinct real existence.
 
 ## 9. Interpretive Note
 
@@ -174,16 +159,9 @@ The class opens after the close of consciousness and the mental factors. No obje
 
 Āsaṃjñika is not one of the two attainments. Their definitions are not imported. Life is not defined. The marks are not enumerated.
 
-The double negation stays in the source. The English follows the
-class-name and must remain marked as contextual. The groups of
-names and so forth continue the list at the opening of 2.36; that
-continuation belongs to this enumeration, not the acquisition definition.
+The double negation stays in the source. The English follows the class-name and must remain marked as contextual. The groups of names and so forth continue the list at the opening of 2.36; that continuation belongs to this enumeration, not the acquisition definition.
 
-In the Organon reading, Cognition governs Perception and Conception
-without collapsing into consciousness or Mind. Dissociation from
-consciousness is a classification contrast, not proof of absence
-from every relation to Cognition or a continuum. The named entries
-must be examined before their status is inferred from the list.
+In the Organon reading, Cognition governs Perception and Conception without collapsing into consciousness or Mind. Dissociation from consciousness is a classification contrast, not proof of absence from every relation to Cognition or a continuum. The named entries must be examined before their status is inferred from the list.
 
 ## 10. OWL++ Seed
 

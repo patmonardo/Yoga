@@ -28,9 +28,7 @@ avyākṛtāptiḥ sahajābhijñānairmāṇikād ṛte // 2.38 //
 | abhijñā-nairmāṇikāt | abl. sg.; compound, final t voiced before ṛte | superknowledges and magical-creation consciousness, the exception-group |
 | ṛte | indeclinable governing the exception | except |
 
-The Bhāṣya specifies two indeterminate superknowledges and
-magical-creation consciousness as exceptions. The verse retains
-the sandhied form; sahajā is simultaneous, not innate.
+The Bhāṣya specifies two indeterminate superknowledges and magical-creation consciousness as exceptions. The verse retains the sandhied form; sahajā is simultaneous, not innate.
 
 ```text
 # tokens: tridhā naśaikṣāśaikṣāṇām aheyānām dvidhā matā avyākṛtāptiḥ sahajā abhijñānairmāṇikāt ṛte
@@ -38,29 +36,23 @@ the sandhied form; sahajā is simultaneous, not innate.
 
 ## 4. Grammar
 
-Acquisition is supplied in the first two clauses. Threefold and
-twofold summarize ranges whose members the prose distinguishes;
-they do not give every subtype every option. The prose narrows
-the final rule to unobscured-indeterminate dharmas and then
-exempts the two indeterminate superknowledges and magical-creation
-consciousness. The final compound is an ablative exception-group,
-not a separate instrumental plural *abhijñā*.
+Acquisition is supplied in the first two clauses. Threefold and twofold summarize ranges whose members the prose distinguishes; they do not give every subtype every option. The prose narrows the final rule to unobscured-indeterminate dharmas and then exempts the two indeterminate superknowledges and magical-creation consciousness. The final compound is an ablative exception-group, not a separate instrumental plural *abhijñā*.
 
 ```nltk-fcfg
 % start S
 # tokens: tridhā naśaikṣāśaikṣāṇām aheyānām dvidhā matā avyākṛtāptiḥ sahajā abhijñānairmāṇikāt ṛte
 S[SEM=<(?status & ?abandonment & ?temporal)>] -> STATUS[SEM=?status] ABANDONMENT[SEM=?abandonment] TEMPORAL[SEM=?temporal]
-STATUS[SEM=<all x.(StatusClass(x) -> StatusAggregate(x))>] -> THREE[CNT=3] NEITHER[CASE=gen,NUM=pl,REF=neither_status]
-ABANDONMENT[SEM=<all x.(AbandonmentClass(x) -> AbandonmentAggregate(x))>] -> NOTABANDONABLE[CASE=gen,NUM=pl] TWO[CNT=2] HELD[CASE=nom,NUM=sg,GEND=f]
-TEMPORAL[SEM=<all x.((UnobscuredIndeterminate(x) & -MainException(x)) -> (TemporalOption(x,coarisen) & -TemporalOption(x,prior) & -TemporalOption(x,subsequent)))>] -> INDETERMINATE[CASE=nom,NUM=sg] COARISEN[ONLY=true] EXCEPTIONS[CASE=abl,REF=specified_group] EXCEPT
-THREE[CNT=3] -> 'tridhā'
-NEITHER[CASE=gen,NUM=pl,REF=neither_status] -> 'naśaikṣāśaikṣāṇām'
-NOTABANDONABLE[CASE=gen,NUM=pl] -> 'aheyānām'
-TWO[CNT=2] -> 'dvidhā'
-HELD[CASE=nom,NUM=sg,GEND=f] -> 'matā'
-INDETERMINATE[CASE=nom,NUM=sg] -> 'avyākṛtāptiḥ'
-COARISEN[ONLY=true] -> 'sahajā'
-EXCEPTIONS[CASE=abl,REF=specified_group] -> 'abhijñānairmāṇikāt'
+STATUS[SEM=<all x.(StatusClass(x) -> StatusAggregate(x))>] -> THREE NEITHER
+THREE -> 'tridhā'
+NEITHER -> 'naśaikṣāśaikṣāṇām'
+ABANDONMENT[SEM=<all x.(AbandonmentClass(x) -> AbandonmentAggregate(x))>] -> NOTABANDONABLE TWO HELD
+NOTABANDONABLE -> 'aheyānām'
+TWO -> 'dvidhā'
+HELD -> 'matā'
+TEMPORAL[SEM=<all x.((UnobscuredIndeterminate(x) & -MainException(x)) -> (TemporalOption(x,coarisen) & -TemporalOption(x,prior) & -TemporalOption(x,subsequent)))>] -> INDETERMINATE COARISEN EXCEPTIONS EXCEPT
+INDETERMINATE -> 'avyākṛtāptiḥ'
+COARISEN -> 'sahajā'
+EXCEPTIONS -> 'abhijñānairmāṇikāt'
 EXCEPT -> 'ṛte'
 ```
 
@@ -71,31 +63,21 @@ EXCEPT -> 'ṛte'
 'ṛte' -> 'abhijñānairmāṇikāt'
 ```
 
-The constituent spans are [0, 2), [2, 5), and [5, 9).
-The parse's temporal predicate is prose-resolved, not the unqualified
-claim that every indeterminate dharma has only co-arisen acquisition.
+The constituent spans are [0, 2), [2, 5), and [5, 9). The parse's temporal predicate is prose-resolved, not the unqualified claim that every indeterminate dharma has only co-arisen acquisition.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Acquisition of what is neither trainee nor beyond training is threefold.
-> Acquisition of what is not to be abandoned is twofold. Acquisition of the
-> indeterminate is co-arisen, except the superknowledges and magical-
-> creation consciousness.
+> Acquisition of what is neither trainee nor beyond training is threefold. Acquisition of what is not to be abandoned is twofold. Acquisition of the indeterminate is co-arisen, except the superknowledges and magical-creation consciousness.
+
 ### Bhāṣya-informed study translation
 
-> Acquisition of dharmas neither in training nor beyond training is
-> threefold in status. Acquisition of dharmas not to be abandoned is held
-> to be twofold. Acquisition of unobscured-indeterminate dharmas is
-> co-arisen only, except for the two indeterminate superknowledges and
-> magical-creation consciousness.
+> Acquisition of dharmas neither in training nor beyond training is threefold in status. Acquisition of dharmas not to be abandoned is held to be twofold. Acquisition of unobscured-indeterminate dharmas is co-arisen only, except for the two indeterminate superknowledges and magical-creation consciousness.
+
 ## 6. Philosophical Translation
 
-> The acquired dharma's status need not be its acquisition's status.
-> Nor does a dharma's not being abandonable make its acquisition
-> necessarily non-abandonable. The general temporal matrix now receives
-> a restricted simultaneous-only rule and specified exceptions.
+> The acquired dharma's status need not be its acquisition's status. Nor does a dharma's not being abandonable make its acquisition necessarily non-abandonable. The general temporal matrix now receives a restricted simultaneous-only rule and specified exceptions.
 
 ## 7. Technical Vocabulary
 
@@ -113,10 +95,7 @@ Crafts are a further attributed extension. Not every skill is a superknowledge.
 
 ## 8. Logical Determination
 
-The following finite cases distinguish paths by which cessation
-through Discrimination was acquired. They are not different
-cessation entities asserted by this model. The aggregate
-classifications are unions, not unrestricted per-case options.
+The following finite cases distinguish paths by which cessation through Discrimination was acquired. They are not different cessation entities asserted by this model. The aggregate classifications are unions, not unrestricted per-case options.
 
 ```nltk-sem
 status : all x.(StatusClass(x) -> StatusAggregate(x))
@@ -166,27 +145,13 @@ MainException => {superknowledge_one,superknowledge_two,creation_consciousness}
 TemporalOption => {(ordinary_unobscured,coarisen_time),(superknowledge_one,prior_time),(superknowledge_one,coarisen_time),(superknowledge_one,subsequent_time),(superknowledge_two,prior_time),(superknowledge_two,coarisen_time),(superknowledge_two,subsequent_time),(creation_consciousness,prior_time),(creation_consciousness,coarisen_time),(creation_consciousness,subsequent_time)}
 ```
 
-The unnamed superknowledge slots preserve the source's two without
-importing later identifications. Craft-based and greatly habituated
-deportment-based cases are an attributed further extension in the
-prose; they are not silently added to the main verse exceptions
-or denied by this partial illustrative model.
+The unnamed superknowledge slots preserve the source's two without importing later identifications. Craft-based and greatly habituated deportment-based cases are an attributed further extension in the prose; they are not silently added to the main verse exceptions or denied by this partial illustrative model.
 
 ## 9. Interpretive Note
 
-**Translation note.** The commentary resolves both aggregate counts
-through specific cases, then explicitly calls the simultaneous-only
-rule an exception to 2.37. It explains the main exceptions by strength
-and distinctive preparatory practice. The attributed craft/deportment
-extension follows before the obscured Form discussion of 2.39.
+**Translation note.** The commentary resolves both aggregate counts through specific cases, then explicitly calls the simultaneous-only rule an exception to 2.37. It explains the main exceptions by strength and distinctive preparatory practice. The attributed craft/deportment extension follows before the obscured Form discussion of 2.39.
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base while remaining distinct from
-consciousness and Mind. Here determination belongs to a relation:
-cessation's own status does not simply dictate that of acquisition.
-The classification must retain the acquiring path and temporal
-relation without confusing an abandonable acquisition with an
-already abandoned dharma.
+In the Organon reading, Cognition joins and governs Perception and Conception and guides the Dharma Base while remaining distinct from consciousness and Mind. Here determination belongs to a relation: cessation's own status does not simply dictate that of acquisition. The classification must retain the acquiring path and temporal relation without confusing an abandonable acquisition with an already abandoned dharma.
 
 ## 10. OWL++ Seed
 

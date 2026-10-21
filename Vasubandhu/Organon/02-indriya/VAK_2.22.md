@@ -28,9 +28,7 @@ kāyendriyī navadravyaḥ daśadravyo 'parendriyaḥ // 2.22 //
 | daśa-dravyaḥ | nominative singular masculine numeral compound adjective | consisting of ten constituents |
 | apara-indriyaḥ | nominative singular masculine possessive compound | possessing another Faculty in addition to body: one of eye, ear, nose, tongue |
 
-Dravya is rendered constituent; the prose examines the mixed counting
-unit rather than treating it as unproblematic substance. Sandhi is
-opened for the grammar.
+Dravya is rendered constituent; the prose examines the mixed counting unit rather than treating it as unproblematic substance. Sandhi is opened for the grammar.
 
 ```text
 # tokens: kāme aṣṭadravyakaḥ aśabdaḥ paramāṇuḥ anindriyaḥ kāyendriyī navadravyaḥ daśadravyaḥ aparendriyaḥ
@@ -38,29 +36,24 @@ opened for the grammar.
 
 ## 4. Grammar
 
-The locative and soundless qualification govern all three clauses.
-Their lexical SEM values are shared across the three constituents.
-The subject minimal cluster is carried into the last two. Another
-Faculty does not replace body: the prose says those same nine plus
-one of the four named Faculties. Sound-bearing cases are prose
-extensions, not a fourth clause in the verse.
+The locative and soundless qualification govern all three clauses. Their lexical SEM values are shared across the three constituents. The subject minimal cluster is carried into the last two. Another Faculty does not replace body: the prose says those same nine plus one of the four named Faculties. Sound-bearing cases are prose extensions, not a fourth clause in the verse.
 
 ```nltk-fcfg
 % start S
 # tokens: kāme aṣṭadravyakaḥ aśabdaḥ paramāṇuḥ anindriyaḥ kāyendriyī navadravyaḥ daśadravyaḥ aparendriyaḥ
-S[SEM=<(?first & ?body & ?other)>] -> FIRST[REALMSEM=?realm,SOUNDSEM=?sound,SEM=?first] BODYCASE[REALMSEM=?realm,SOUNDSEM=?sound,SEM=?body] OTHERCASE[REALMSEM=?realm,SOUNDSEM=?sound,SEM=?other]
-FIRST[REALMSEM=?realm,SOUNDSEM=?sound,SEM=<(?realm(base_cluster) & ?sound(base_cluster) & NoFaculty(base_cluster) & ?count(base_cluster))>] -> REALM[CASE=loc,SEM=?realm] EIGHT[CASE=nom,CNT=8,SEM=?count] SOUNDLESS[CASE=nom,SEM=?sound] CLUSTER[CASE=nom] NONE[CASE=nom]
-BODYCASE[REALMSEM=?realm,SOUNDSEM=?sound,SEM=<(?realm(body_cluster) & ?sound(body_cluster) & BodyBearing(body_cluster) & ?count(body_cluster))>] -> BODY[CASE=nom] NINE[CASE=nom,CNT=9,SEM=?count]
-OTHERCASE[REALMSEM=?realm,SOUNDSEM=?sound,SEM=<(?realm(other_cluster) & ?sound(other_cluster) & BodyBearing(other_cluster) & OtherBearing(other_cluster) & ?count(other_cluster))>] -> TEN[CASE=nom,CNT=10,SEM=?count] OTHER[CASE=nom,RANGE=four_senses,MODE=addition]
-REALM[CASE=loc,SEM=<\c.DesireRule(c)>] -> 'kāme'
-EIGHT[CASE=nom,CNT=8,SEM=<\c.Count(c,eight)>] -> 'aṣṭadravyakaḥ'
-SOUNDLESS[CASE=nom,SEM=<\c.Soundless(c)>] -> 'aśabdaḥ'
-CLUSTER[CASE=nom] -> 'paramāṇuḥ'
-NONE[CASE=nom] -> 'anindriyaḥ'
-BODY[CASE=nom] -> 'kāyendriyī'
-NINE[CASE=nom,CNT=9,SEM=<\c.Count(c,nine)>] -> 'navadravyaḥ'
-TEN[CASE=nom,CNT=10,SEM=<\c.Count(c,ten)>] -> 'daśadravyaḥ'
-OTHER[CASE=nom,RANGE=four_senses,MODE=addition] -> 'aparendriyaḥ'
+S[SEM=<(?first & ?body & ?other)>] -> FIRST[SEM=?first] BODYCASE[SEM=?body] OTHERCASE[SEM=?other]
+FIRST[SEM=<DesireRule(base_cluster) & Soundless(base_cluster) & NoFaculty(base_cluster) & Count(base_cluster,eight)>] -> REALM EIGHT SOUNDLESS CLUSTER NONE
+REALM -> 'kāme'
+EIGHT -> 'aṣṭadravyakaḥ'
+SOUNDLESS -> 'aśabdaḥ'
+CLUSTER -> 'paramāṇuḥ'
+NONE -> 'anindriyaḥ'
+BODYCASE[SEM=<DesireRule(body_cluster) & Soundless(body_cluster) & BodyBearing(body_cluster) & Count(body_cluster,nine)>] -> BODY NINE
+BODY -> 'kāyendriyī'
+NINE -> 'navadravyaḥ'
+OTHERCASE[SEM=<DesireRule(other_cluster) & Soundless(other_cluster) & BodyBearing(other_cluster) & OtherBearing(other_cluster) & Count(other_cluster,ten)>] -> TEN OTHER
+TEN -> 'daśadravyaḥ'
+OTHER -> 'aparendriyaḥ'
 ```
 
 ```nltk-dep
@@ -79,21 +72,15 @@ OTHER[CASE=nom,RANGE=four_senses,MODE=addition] -> 'aparendriyaḥ'
 
 ### Literal Translation
 
-> In the Desire Realm, a soundless minimal cluster without a Faculty
-> consists of eight constituents. One possessing the body-Faculty consists
-> of nine. One possessing another Faculty consists of ten.
+> In the Desire Realm, a soundless minimal cluster without a Faculty consists of eight constituents. One possessing the body-Faculty consists of nine. One possessing another Faculty consists of ten.
 
 ### Bhāṣya-informed study translation
 
-> In the Desire Realm, a soundless minimal Form-cluster without a Faculty
-> has eight constituents. A soundless cluster with the body-Faculty has
-> nine; with body and one other Faculty—eye, ear, nose, or tongue—it has ten.
+> In the Desire Realm, a soundless minimal Form-cluster without a Faculty has eight constituents. A soundless cluster with the body-Faculty has nine; with body and one other Faculty—eye, ear, nose, or tongue—it has ten.
 
 ## 6. Philosophical Translation
 
-> Distinct characteristics do not require separate arising. The
-> soundless eight, nine, and ten count differently qualified minimal
-> Form-clusters; the number remains answerable to its counting unit.
+> Distinct characteristics do not require separate arising. The soundless eight, nine, and ten count differently qualified minimal Form-clusters; the number remains answerable to its counting unit.
 
 ## 7. Technical Vocabulary
 
@@ -109,17 +96,14 @@ OTHER[CASE=nom,RANGE=four_senses,MODE=addition] -> 'aparendriyaḥ'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The locative and privative adjectives supply
-shared Desire-Realm and soundless scopes to every clause. The prose
-inventories below are constituent-kind counts, not numbers of individual
-particles or Essences. Sound adds one only to the qualified configurations.
+**Kārikā, derived.** The locative and privative adjectives supply shared Desire-Realm and soundless scopes to every clause. The prose inventories below are constituent-kind counts, not numbers of individual particles or Essences. Sound adds one only to the qualified configurations.
 
 ```nltk-sem
-realm_scope : \c.DesireRule(c)
-soundless_scope : \c.Soundless(c)
-eight_count : \c.Count(c,eight)
-nine_count : \c.Count(c,nine)
-ten_count : \c.Count(c,ten)
+realm_scope : DesireRule(base_cluster)
+soundless_scope : Soundless(base_cluster)
+eight_count : Count(base_cluster,eight)
+nine_count : Count(body_cluster,nine)
+ten_count : Count(other_cluster,ten)
 ```
 
 ```nltk-fol
@@ -171,19 +155,11 @@ OtherMember => {earth,water,fire,wind,visible,odor,taste,dependent_tangible,body
 SoundOtherMember => {earth,water,fire,wind,visible,odor,taste,dependent_tangible,body,eye,sound}
 ```
 
-Eye is one representative of the four alternatives, not their joint
-addition. Persistent tests instantiate all four and sound's three
-increments. The Form-Realm six/seven/eight removes odor and taste
-under its own scope; it does not contradict the Desire-Realm eight.
-These inventories check the numerical accounting, not the disputed
-physical presence of every constituent or the seed alternative.
+Eye is one representative of the four alternatives, not their joint addition. Persistent tests instantiate all four and sound's three increments. The Form-Realm six/seven/eight removes odor and taste under its own scope; it does not contradict the Desire-Realm eight. These inventories check the numerical accounting, not the disputed physical presence of every constituent or the seed alternative.
 
 ## 9. Interpretive Note
 
-**Translation note.** The study translation supplies the prose's
-Form-cluster gloss, carries soundlessness through all three cases,
-and resolves another Faculty as body plus one of the four named senses.
-Sound's increment remains in the prose analysis, not the verse English.
+**Translation note.** The study translation supplies the prose's Form-cluster gloss, carries soundlessness through all three cases, and resolves another Faculty as body plus one of the four named senses. Sound's increment remains in the prose analysis, not the verse English.
 
 The faculty-property differentiation closed at 2.21. This asks a different relation.
 
@@ -191,16 +167,9 @@ Hard, fluid, hot, and moving are predominance, not the absence of the others. Ac
 
 Visible color in wind is said to be accepted, not inferred. An inference is then offered from odor in moving air. The tension is kept.
 
-Eight is not a count of every individual determination. Grouping solely
-by Essence would instead give four. Basis is counted as constituent;
-what is based upon it is counted by Essence. Repeated Elemental
-quartets are counted by kind. Words may be chosen; meaning is examined.
-The damaged compounds remain marked in the paired Bhāṣya.
+Eight is not a count of every individual determination. Grouping solely by Essence would instead give four. Basis is counted as constituent; what is based upon it is counted by Essence. Repeated Elemental quartets are counted by kind. Words may be chosen; meaning is examined. The damaged compounds remain marked in the paired Bhāṣya.
 
-Interpretation: the unit of the count travels with the number.
-Cognition governs Perception and Conception without collapsing into
-Mind or consciousness. The fivefold classification's consciousness
-and the Form co-arising rule retain their distinct functions.
+Interpretation: the unit of the count travels with the number. Cognition governs Perception and Conception without collapsing into Mind or consciousness. The fivefold classification's consciousness and the Form co-arising rule retain their distinct functions.
 
 ## 10. OWL++ Seed
 

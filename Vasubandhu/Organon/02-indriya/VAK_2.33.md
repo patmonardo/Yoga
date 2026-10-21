@@ -28,9 +28,7 @@ madaḥ svadharme raktasya paryādānaṃ tu cetasaḥ // 2.33 //
 | cetasaḥ | gen. sg. n. | of consciousness |
 | tu | contrastive particle | distinguishes intoxication from conceit |
 
-The prose explicitly carries the later of consciousness into the
-examination definition, and supplies it again for conceit. The verse
-opens three definition units. Sandhi is opened for parsing.
+The prose explicitly carries the later of consciousness into the examination definition, and supplies it again for conceit. The verse opens three definition units. Sandhi is opened for parsing.
 
 ```text
 # tokens: vitarkacārau audāryasūkṣmate mānaḥ unnatiḥ madaḥ svadharme raktasya paryādānam tu cetasaḥ
@@ -38,29 +36,25 @@ opens three definition units. Sandhi is opened for parsing.
 
 ## 4. Grammar
 
-The dual pairs initial examination with coarseness and sustained
-examination with subtlety; it does not assert their simultaneous
-occurrence. The final genitive supplies the locus of taking-over,
-not its object as one's own qualities: the latter are what the
-person is attached to.
+The dual pairs initial examination with coarseness and sustained examination with subtlety; it does not assert their simultaneous occurrence. The final genitive supplies the locus of taking-over, not its object as one's own qualities: the latter are what the person is attached to.
 
 ```nltk-fcfg
 % start S
 # tokens: vitarkacārau audāryasūkṣmate mānaḥ unnatiḥ madaḥ svadharme raktasya paryādānam tu cetasaḥ
 S[SEM=<(?examination & ?conceit & ?intoxication)>] -> EXAMINATION[SEM=?examination] CONCEITCLAUSE[SEM=?conceit] INTOXICATIONCLAUSE[SEM=?intoxication]
-EXAMINATION[SEM=<(DefinedAs(initial,coarseness) & DefinedAs(sustained,subtlety))>] -> EXAMPAIR[NUM=du] STATEPAIR[NUM=du,ORDER=respective]
-CONCEITCLAUSE[SEM=<DefinedAs(conceit,elevation)>] -> CONCEIT[CASE=nom] ELEVATION[CASE=nom]
-INTOXICATIONCLAUSE[SEM=<(DefinedAs(intoxication,taking_over) & AttachmentTo(intoxication,own_qualities) & Locus(intoxication,consciousness))>] -> INTOXICATION[CASE=nom] OWN[CASE=loc] ATTACHED[CASE=gen] TAKEOVER[CASE=nom] BUT CONSCIOUSNESS[CASE=gen]
-EXAMPAIR[NUM=du] -> 'vitarkacārau'
-STATEPAIR[NUM=du,ORDER=respective] -> 'audāryasūkṣmate'
-CONCEIT[CASE=nom] -> 'mānaḥ'
-ELEVATION[CASE=nom] -> 'unnatiḥ'
-INTOXICATION[CASE=nom] -> 'madaḥ'
-OWN[CASE=loc] -> 'svadharme'
-ATTACHED[CASE=gen] -> 'raktasya'
-TAKEOVER[CASE=nom] -> 'paryādānam'
+EXAMINATION[SEM=<DefinedAs(initial,coarseness) & DefinedAs(sustained,subtlety)>] -> EXAMPAIR STATEPAIR
+EXAMPAIR -> 'vitarkacārau'
+STATEPAIR -> 'audāryasūkṣmate'
+CONCEITCLAUSE[SEM=<DefinedAs(conceit,elevation)>] -> CONCEIT ELEVATION
+CONCEIT -> 'mānaḥ'
+ELEVATION -> 'unnatiḥ'
+INTOXICATIONCLAUSE[SEM=<DefinedAs(intoxication,taking_over) & AttachmentTo(intoxication,own_qualities) & Locus(intoxication,consciousness)>] -> INTOXICATION OWN ATTACHED TAKEOVER BUT CONSCIOUSNESS
+INTOXICATION -> 'madaḥ'
+OWN -> 'svadharme'
+ATTACHED -> 'raktasya'
+TAKEOVER -> 'paryādānam'
 BUT -> 'tu'
-CONSCIOUSNESS[CASE=gen] -> 'cetasaḥ'
+CONSCIOUSNESS -> 'cetasaḥ'
 ```
 
 ```nltk-dep
@@ -81,15 +75,12 @@ CONSCIOUSNESS[CASE=gen] -> 'cetasaḥ'
 
 ### Literal Translation
 
-> Vitarka and vicāra are coarseness and subtlety. Conceit is elevation.
-> Intoxication is the taking-over of the consciousness of one attached to
-> one's own qualities.
+> Vitarka and vicāra are coarseness and subtlety. Conceit is elevation. Intoxication is the taking-over of the consciousness of one attached to one's own qualities.
+
 ### Bhāṣya-informed study translation
 
-> Initial and sustained examination are, respectively, coarseness and
-> subtlety of consciousness. Conceit is elevation of consciousness through
-> a constructed distinction relative to another. Intoxication, however,
-> is the taking-over of consciousness in one attached to one's own qualities.
+> Initial and sustained examination are, respectively, coarseness and subtlety of consciousness. Conceit is elevation of consciousness through a constructed distinction relative to another. Intoxication, however, is the taking-over of consciousness in one attached to one's own qualities.
+
 ## 6. Philosophical Translation
 
 > Coarseness and subtlety do not by themselves settle co-presence. Conceit compares. Intoxication takes over one's own. Level-attribution is not moment-co-presence.
@@ -110,14 +101,11 @@ CONSCIOUSNESS[CASE=gen] -> 'cetasaḥ'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** DefinedAs records the formulas being examined,
-not a proof that the disputed definitions withstand every objection.
-The Bhāṣya's positions are indexed separately: the model does not
-assert both co-presence and its denial as one theory.
+**Kārikā, derived.** DefinedAs records the formulas being examined, not a proof that the disputed definitions withstand every objection. The Bhāṣya's positions are indexed separately: the model does not assert both co-presence and its denial as one theory.
 
 ```nltk-sem
-definition : \a.\b.DefinedAs(b,a)
-locus : \x.Locus(x,consciousness)
+definition : DefinedAs(initial,coarseness)
+locus : Locus(intoxication,consciousness)
 ```
 
 ```nltk-fol
@@ -170,11 +158,7 @@ LevelFive => {separation_position}
 MomentFive => {}
 ```
 
-The balancing and speech accounts defend co-presence in different
-ways and face different objections. The separation account's
-level/moment reply stays attributed, not substituted for the prior
-co-arising rules. The model checks these distinctions; it does not
-decide the debate or reduce difference of kind to intensity.
+The balancing and speech accounts defend co-presence in different ways and face different objections. The separation account's level/moment reply stays attributed, not substituted for the prior co-arising rules. The model checks these distinctions; it does not decide the debate or reduce difference of kind to intensity.
 
 ## 9. Interpretive Note
 
@@ -184,11 +168,7 @@ Three positions: balancing, speech-formation, denial of co-presence. No harmoniz
 
 The summit objection uses the exclusions of 2.31. A satisfactory account would name the factors and keep that range.
 
-In the Organon reading, Cognition governs Perception and Conception
-without collapsing into consciousness or Mind. The present dispute
-concerns factors and determinations of consciousness, not definitions
-of that governing Cognition. Condition versus nature, kind versus
-degree, and level versus moment remain distinct tests.
+In the Organon reading, Cognition governs Perception and Conception without collapsing into consciousness or Mind. The present dispute concerns factors and determinations of consciousness, not definitions of that governing Cognition. Condition versus nature, kind versus degree, and level versus moment remain distinct tests.
 
 ## 10. OWL++ Seed
 

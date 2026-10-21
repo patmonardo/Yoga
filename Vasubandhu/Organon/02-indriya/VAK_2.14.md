@@ -36,13 +36,9 @@ taiḥ ṣaḍ vā sapta vā aṣṭau vā ṣaḍ rūpeṣu ekam uttare // 2.14
 
 The count is faculties first acquired as maturation. It is not every faculty present.
 
-The running Bhāṣya reads *taiḥ*, matching Devanāgarī तैः; the earlier
-IAST *teḥ* is corrected. The singular *labhyate* is retained, not silently
-regularized.
+The running Bhāṣya reads *taiḥ*, matching Devanāgarī तैः; the earlier IAST *teḥ* is corrected. The singular *labhyate* is retained, not silently regularized.
 
-**Grammar tokens.** External sandhi is opened; ṣaḍ is normalized to ṣaṭ.
-The Sanskrit witness above remains unchanged apart from the stated taiḥ
-correction.
+**Grammar tokens.** External sandhi is opened; ṣaḍ is normalized to ṣaṭ. The Sanskrit witness above remains unchanged apart from the stated taiḥ correction.
 
 ```text
 # tokens: kāmeṣu ādau vipākaḥ dve labhyate na upapādukaiḥ taiḥ ṣaṭ vā sapta vā aṣṭau vā ṣaṭ rūpeṣu ekam uttare
@@ -50,43 +46,34 @@ correction.
 
 ## 4. Grammar
 
-The first clause supplies initial acquisition as maturation for all later
-numerals. The negative qualifies the birth-agent, not acquisition in
-general. *Taiḥ* resumes the excluded spontaneously born beings and
-introduces their alternative counts. The Bhāṣya supplies the conditions
-for those alternatives and identifies the higher realm as Formless.
-`SCOPE=initial_maturation` is shared by all four clause constituents;
-the count predicates retain that scope after the explicit words end.
+The first clause supplies initial acquisition as maturation for all later numerals. The negative qualifies the birth-agent, not acquisition in general. *Taiḥ* resumes the excluded spontaneously born beings and introduces their alternative counts. The Bhāṣya supplies the conditions for those alternatives and identifies the higher realm as Formless. The initial-maturation scope is shared by all four clause constituents; the count predicates retain that scope after the explicit words end.
 
 ```nltk-fcfg
 % start S
 # tokens: kāmeṣu ādau vipākaḥ dve labhyate na upapādukaiḥ taiḥ ṣaṭ vā sapta vā aṣṭau vā ṣaṭ rūpeṣu ekam uttare
-S[SEM=<(?first & ?spontaneous & ?form & ?higher)>] -> FIRST[SCOPE=?s,SEM=?first] SPONTANEOUS[SCOPE=?s,SEM=?spontaneous] FORMCLAUSE[SCOPE=?s,SEM=?form] HIGHER[SCOPE=?s,SEM=?higher]
-FIRST[SCOPE=initial_maturation,SEM=<(InitialMaturationScope & InitialMaturationCount(?case,?count))>] -> DESIRE[CASE=loc] INITIAL RESULT TWO[CNT=2,SEM=?count] ACQUIRE[NUM=sg] NOT BIRTH[CASE=ins,REF=spontaneous,SEM=?case]
-SPONTANEOUS[SCOPE=initial_maturation,SEM=<(AlternativeInitialMaturationCount(spontaneous_desire,?six) & AlternativeInitialMaturationCount(spontaneous_desire,?seven) & AlternativeInitialMaturationCount(spontaneous_desire,?eight))>] -> THEM[CASE=ins,REF=spontaneous] SIX[CNT=6,SEM=?six] OR SEVEN[CNT=7,SEM=?seven] OR EIGHT[CNT=8,SEM=?eight] OR
-FORMCLAUSE[SCOPE=initial_maturation,SEM=<InitialMaturationCount(?case,?count)>] -> SIX[CNT=6,SEM=?count] FORM[CASE=loc,SEM=?case]
-HIGHER[SCOPE=initial_maturation,SEM=<InitialMaturationCount(?case,?count)>] -> ONE[CNT=1,SEM=?count] HIGHERR[CASE=loc,SEM=?case]
-DESIRE[CASE=loc] -> 'kāmeṣu'
+S[SEM=<(?first & ?spontaneous & ?form & ?higher)>] -> FIRST[SEM=?first] SPONTANEOUS[SEM=?spontaneous] FORMCLAUSE[SEM=?form] HIGHER[SEM=?higher]
+FIRST[SEM=<InitialMaturationScope & InitialMaturationCount(nonspontaneous_desire,two)>] -> DESIRE INITIAL RESULT TWO ACQUIRE NOT BIRTH
+DESIRE -> 'kāmeṣu'
 INITIAL -> 'ādau'
 RESULT -> 'vipākaḥ'
-TWO[CNT=2,SEM=<two>] -> 'dve'
-ACQUIRE[NUM=sg] -> 'labhyate'
+TWO -> 'dve'
+ACQUIRE -> 'labhyate'
 NOT -> 'na'
-BIRTH[CASE=ins,REF=spontaneous,SEM=<nonspontaneous_desire>] -> 'upapādukaiḥ'
-THEM[CASE=ins,REF=spontaneous] -> 'taiḥ'
-SIX[CNT=6,SEM=<six>] -> 'ṣaṭ'
+BIRTH -> 'upapādukaiḥ'
+SPONTANEOUS[SEM=<AlternativeInitialMaturationCount(spontaneous_desire,six) & AlternativeInitialMaturationCount(spontaneous_desire,seven) & AlternativeInitialMaturationCount(spontaneous_desire,eight)>] -> THEM SIX OR SEVEN OR EIGHT OR
+THEM -> 'taiḥ'
+SIX -> 'ṣaṭ'
 OR -> 'vā'
-SEVEN[CNT=7,SEM=<seven>] -> 'sapta'
-EIGHT[CNT=8,SEM=<eight>] -> 'aṣṭau'
-FORM[CASE=loc,SEM=<form_case>] -> 'rūpeṣu'
-ONE[CNT=1,SEM=<one>] -> 'ekam'
-HIGHERR[CASE=loc,SEM=<formless_case>] -> 'uttare'
+SEVEN -> 'sapta'
+EIGHT -> 'aṣṭau'
+FORMCLAUSE[SEM=<InitialMaturationCount(form_case,six)>] -> SIX FORM
+FORM -> 'rūpeṣu'
+HIGHER[SEM=<InitialMaturationCount(formless_case,one)>] -> ONE HIGHERR
+ONE -> 'ekam'
+HIGHERR -> 'uttare'
 ```
 
-The first clause's negative and birth-agent are interpreted jointly as
-the non-spontaneous case. The grammar projects initial maturation
-counts in every clause; it does not derive their biological or
-cosmological truth.
+The first clause's negative and birth-agent are interpreted jointly as the non-spontaneous case. The grammar projects initial maturation counts in every clause; it does not derive their biological or cosmological truth.
 
 ```nltk-dep
 'labhyate' -> 'kāmeṣu' | 'ādau' | 'vipākaḥ' | 'dve' | 'upapādukaiḥ'
@@ -108,21 +95,15 @@ cosmological truth.
 
 ### Literal Translation
 
-> In the desire realm, initially, two are acquired as maturation, not by the
-> spontaneously born. By them, six or seven or eight. Six in the form realm.
-> One in the higher.
+> In the desire realm, initially, two are acquired as maturation, not by the spontaneously born. By them, six or seven or eight. Six in the form realm. One in the higher.
 
 ### Bhāṣya-informed study translation
 
-> In the desire realm, two are first acquired as maturation, but not by the
-> spontaneously born. By them, six, seven, or eight; in the Form realm, six;
-> in the higher, Formless realm, one.
+> In the desire realm, two are first acquired as maturation, but not by the spontaneously born. By them, six, seven, or eight; in the Form realm, six; in the higher, Formless realm, one.
 
 ## 6. Philosophical Translation
 
-> The initial maturation-count does not enumerate everything present at
-> relinking. Mind and neutral feeling occur there but are afflicted,
-> not maturation under this question.
+> The initial maturation-count does not enumerate everything present at relinking. Mind and neutral feeling occur there but are afflicted, not maturation under this question.
 
 ## 7. Technical Vocabulary
 
@@ -141,13 +122,11 @@ The birth-modes are the account. They are not rewritten as biology.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The SEM records initial-maturation counts in
-each clause, with the shared scope unified in the chart. The Bhāṣya
-assigns each spontaneous count to a sexual-characteristic condition and supplies the actual Faculty-sets.
+**Kārikā, derived.** The SEM records initial-maturation counts in each clause, with the shared scope unified in the chart. The Bhāṣya assigns each spontaneous count to a sexual-characteristic condition and supplies the actual Faculty-sets.
 
 ```nltk-sem
-initial_count : \c.\n.InitialMaturationCount(c,n)
-alternative_count : \c.\n.AlternativeInitialMaturationCount(c,n)
+initial_count : InitialMaturationCount(nonspontaneous_desire,two)
+alternative_count : AlternativeInitialMaturationCount(spontaneous_desire,six)
 shared_scope : InitialMaturationScope
 ```
 
@@ -204,26 +183,11 @@ Afflicted => {mind,neutral}
 MaturationAtRelinking => {}
 ```
 
-The one-characteristic case uses Male-Faculty as one representative;
-Female-Faculty can replace it without changing the count. The two
-characteristics condition which Faculties are counted; they are not
-themselves counted as additional entities. The relinking predicates
-model the two factors under discussion, not everything present then.
-Count-to-set agreement requires separate cardinality tests.
-`InitialMaturationCount` names what is counted; `InitiallyMatures`
-lists the Bhāṣya-resolved Faculty members for each case. These finite
-checks do not prove the account's birth-mode claims.
+The one-characteristic case uses Male-Faculty as one representative; Female-Faculty can replace it without changing the count. The two characteristics condition which Faculties are counted; they are not themselves counted as additional entities. The relinking predicates model the two factors under discussion, not everything present then. Count-to-set agreement requires separate cardinality tests. InitialMaturationCount names what is counted; InitiallyMatures lists the Bhāṣya-resolved Faculty members for each case. These finite checks do not prove the account's birth-mode claims.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): In the desire realm, at the beginning, two faculties
-are acquired as maturation, the body-faculty and the life-faculty, but not
-by the spontaneously born. By the spontaneously born, six, seven, or eight
-are acquired: six without sexual characteristic, seven with one, eight
-with both. In the form realm, six. In the higher, the formless, one: life
-alone. Mind and neutral feeling are not among these, because at relinking
-both are necessarily afflicted.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): In the desire realm, at the beginning, two faculties are acquired as maturation, the body-faculty and the life-faculty, but not by the spontaneously born. By the spontaneously born, six, seven, or eight are acquired: six without sexual characteristic, seven with one, eight with both. In the form realm, six. In the higher, the formless, one: life alone. Mind and neutral feeling are not among these, because at relinking both are necessarily afflicted.
 
 2.13 closed the distinctions of kind. This opens acquisition. What can be connected with a realm does not settle what is first acquired there as maturation. The formless eight of 2.12 are another question. One here is the maturation-count, not the absence of mind.
 

@@ -26,12 +26,9 @@ aṣṭābhir ekādaśabhis tv ājñājñātendriyānvitaḥ /
 | trayodaśabhiḥ | instrumental plural numeral | with thirteen [Faculties] |
 | anvitaḥ | nominative singular masculine past passive participle | endowed; necessarily possessing under the ongoing question |
 
-The gloss at 51.17 is difficult. The two cases are distinguished by
-the explicit ājñendriyeṇa and ājñātāvīndriyeṇa in the following prose.
-This does not settle every occurrence of the damaged ājñātendriya.
+The gloss at 51.17 is difficult. The two cases are distinguished by the explicit ājñendriyeṇa and ājñātāvīndriyeṇa in the following prose. This does not settle every occurrence of the damaged ājñātendriya.
 
-**Grammar tokens.** External sandhi is opened; the possessor compounds
-remain intact. Eight completes the previous subject.
+**Grammar tokens.** External sandhi is opened; the possessor compounds remain intact. Eight completes the previous subject.
 
 ```text
 # tokens: aṣṭābhiḥ ekādaśabhiḥ tu ājñā-ājñāta-indriya-anvitaḥ ājñāsyāmi-indriya-upetaḥ trayodaśabhiḥ anvitaḥ
@@ -39,26 +36,21 @@ remain intact. Eight completes the previous subject.
 
 ## 4. Grammar
 
-Eleven distributes over two separate possessors. The compound
-contributes both cases to the SEM; the instrumental supplies their
-shared count. Thirteen predicates endowment of the prospective
-Faculty's possessor. The Bhāṣya supplies
-the lists, not a claim of simultaneous operation or a restriction
-of the whole thirteen to the uninterrupted Path.
+Eleven distributes over two separate possessors. The compound contributes both cases to the SEM; the instrumental supplies their shared count. Thirteen predicates endowment of the prospective Faculty's possessor. The Bhāṣya supplies the lists, not a claim of simultaneous operation or a restriction of the whole thirteen to the uninterrupted Path.
 
 ```nltk-fcfg
 % start S
 # tokens: aṣṭābhiḥ ekādaśabhiḥ tu ājñā-ājñāta-indriya-anvitaḥ ājñāsyāmi-indriya-upetaḥ trayodaśabhiḥ anvitaḥ
-S[SEM=<(?carry & ?eleven & ?thirteen)>] -> CARRY[CONTINUED=previous_subject,SEM=?carry] ELEVENCLAUSE[SEM=?eleven] THIRTEENCLAUSE[SEM=?thirteen]
-ELEVENCLAUSE[SEM=<?cases(?count)>] -> ELEVEN[CASE=ins,CNT=11,SEM=?count] BUT TWOCASES[CASE=nom,NUM=sg,GEN=m,READING=alternative,SEM=?cases]
-THIRTEENCLAUSE[SEM=<NecessaryCount(?given,?count)>] -> PROSPECTIVE[CASE=nom,NUM=sg,GEN=m,SEM=?given] THIRTEEN[CASE=ins,CNT=13,SEM=?count] ENDOWED[CASE=nom,NUM=sg,GEN=m]
-CARRY[CONTINUED=previous_subject,SEM=<PreviousSubjectCount(eight)>] -> 'aṣṭābhiḥ'
-ELEVEN[CASE=ins,CNT=11,SEM=<eleven>] -> 'ekādaśabhiḥ'
+S[SEM=<(?carry & ?eleven & ?thirteen)>] -> CARRY[SEM=?carry] ELEVENCLAUSE[SEM=?eleven] THIRTEENCLAUSE[SEM=?thirteen]
+CARRY[SEM=<PreviousSubjectCount(eight)>] -> 'aṣṭābhiḥ'
+ELEVENCLAUSE[SEM=<NecessaryCount(knowledge_f,eleven) & NecessaryCount(has_known_f,eleven)>] -> ELEVEN BUT TWOCASES
+ELEVEN -> 'ekādaśabhiḥ'
 BUT -> 'tu'
-TWOCASES[CASE=nom,NUM=sg,GEN=m,READING=alternative,SEM=<\n.(NecessaryCount(knowledge_f,n) & NecessaryCount(has_known_f,n))>] -> 'ājñā-ājñāta-indriya-anvitaḥ'
-PROSPECTIVE[CASE=nom,NUM=sg,GEN=m,SEM=<shall_know_f>] -> 'ājñāsyāmi-indriya-upetaḥ'
-THIRTEEN[CASE=ins,CNT=13,SEM=<thirteen>] -> 'trayodaśabhiḥ'
-ENDOWED[CASE=nom,NUM=sg,GEN=m] -> 'anvitaḥ'
+TWOCASES -> 'ājñā-ājñāta-indriya-anvitaḥ'
+THIRTEENCLAUSE[SEM=<NecessaryCount(shall_know_f,thirteen)>] -> PROSPECTIVE THIRTEEN ENDOWED
+PROSPECTIVE -> 'ājñāsyāmi-indriya-upetaḥ'
+THIRTEEN -> 'trayodaśabhiḥ'
+ENDOWED -> 'anvitaḥ'
 ```
 
 ```nltk-dep
@@ -66,8 +58,7 @@ ENDOWED[CASE=nom,NUM=sg,GEN=m] -> 'anvitaḥ'
 'anvitaḥ' -> 'ājñāsyāmi-indriya-upetaḥ' | 'trayodaśabhiḥ' | 'aṣṭābhiḥ'
 ```
 
-The dependency block checks vocabulary coverage, not parsing. The opening
-eight has its subject in 2.18, not in the thirteen-clause.
+The dependency block checks vocabulary coverage, not parsing. The opening eight has its subject in 2.18, not in the thirteen-clause.
 
 | Span | Constituent | Result |
 |---|---|---|
@@ -80,22 +71,15 @@ eight has its subject in 2.18, not in the thirteen-clause.
 
 ### Literal Translation
 
-> With eight. But one accompanied by the knowledge-faculty or the faculty of
-> one who has known, with eleven. One furnished with the faculty “I shall
-> know” is accompanied by thirteen.
+> With eight. But one accompanied by the knowledge-faculty or the faculty of one who has known, with eleven. One furnished with the faculty “I shall know” is accompanied by thirteen.
 
 ### Bhāṣya-informed study translation
 
-> With eight. One possessing the knowledge-Faculty or the Faculty of
-> one who has known, however, necessarily possesses eleven Faculties
-> in either case. One possessing the “I shall know” Faculty necessarily
-> possesses thirteen.
+> With eight. One possessing the knowledge-Faculty or the Faculty of one who has known, however, necessarily possesses eleven Faculties in either case. One possessing the “I shall know” Faculty necessarily possesses thirteen.
 
 ## 6. Philosophical Translation
 
-> The necessary possession sets differ without ranking realization by
-> their size. Eleven and thirteen describe guaranteed companions,
-> not the constituents of a single Path-moment.
+> The necessary possession sets differ without ranking realization by their size. Eleven and thirteen describe guaranteed companions, not the constituents of a single Path-moment.
 
 ## 7. Technical Vocabulary
 
@@ -110,14 +94,12 @@ eight has its subject in 2.18, not in the thirteen-clause.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** Eight is the carried count. Eleven distributes over
-two cases, and thirteen over the third. The damaged introductory gloss
-is not formalized as a separate identity.
+**Kārikā, derived.** Eight is the carried count. Eleven distributes over two cases, and thirteen over the third. The damaged introductory gloss is not formalized as a separate identity.
 
 ```nltk-sem
-necessary_count : \f.\n.NecessaryCount(f,n)
+necessary_count : NecessaryCount(knowledge_f,eleven)
 continued_eight : PreviousSubjectCount(eight)
-two_elevens : \n.(NecessaryCount(knowledge_f,n) & NecessaryCount(has_known_f,n))
+two_elevens : NecessaryCount(knowledge_f,eleven) & NecessaryCount(has_known_f,eleven)
 prospective_count : NecessaryCount(shall_know_f,thirteen)
 ```
 
@@ -163,22 +145,11 @@ Possesses => {(knowledge_person,pleasure),(knowledge_person,gladness),(knowledge
 OccurringNow => {(prospective_person,shall_know)}
 ```
 
-The elevens share ten and differ in the given realization Faculty.
-Thirteen contains the common ten, body, pain, and its own realization
-Faculty. These are possession implications, not exclusive totals.
-The knowledge-person's extra Body-Faculty illustrates that omission
-from a necessary list does not entail absence; it is not a biography
-established by this passage. `OccurringNow` is likewise an illustrative
-countermodel, not a full Path psychology.
+The elevens share ten and differ in the given realization Faculty. Thirteen contains the common ten, body, pain, and its own realization Faculty. These are possession implications, not exclusive totals. The knowledge-person's extra Body-Faculty illustrates that omission from a necessary list does not entail absence; it is not a biography established by this passage. OccurringNow is likewise an illustrative countermodel, not a full Path psychology.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): The knowledge-faculty and the faculty of one who has
-known each require eleven. “I shall know” requires thirteen. The
-difference is not further realization. Its possession list includes
-body and pain; the passage does not explain their necessity by
-assigning the whole list to one Path-moment.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): The knowledge-faculty and the faculty of one who has known each require eleven. “I shall know” requires thirteen. The difference is not further realization. Its possession list includes body and pain; the passage does not explain their necessity by assigning the whole list to one Path-moment.
 
 The eight stands in 2.18. Pratyekam still holds: female, male, distress, and each of the five are separate eights.
 

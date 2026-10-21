@@ -30,9 +30,7 @@ prāptyā vā pañcadhā caittā mahābhūmyādibhedataḥ // 2.23 //
 
 Citta is consciousness. It is not a substance behind the event. Caitta is the factor. Manas is not this word.
 
-The prose separates *sarvam* from *saṃskṛtalakṣaṇaiḥ*; the verse's
-continuous spelling is not read as “with all conditioned marks.”
-Sandhi is opened for parsing.
+The prose separates *sarvam* from *saṃskṛtalakṣaṇaiḥ*; the verse's continuous spelling is not read as “with all conditioned marks.” Sandhi is opened for parsing.
 
 ```text
 # tokens: cittam caittāḥ saha avaśyam sarvam saṃskṛtalakṣaṇaiḥ prāptyā vā pañcadhā caittāḥ mahābhūmyādibhedataḥ
@@ -40,32 +38,26 @@ Sandhi is opened for parsing.
 
 ## 4. Grammar
 
-Four units: reciprocal accompaniment, marks accompanying everything
-conditioned that arises, acquisition's restricted scope, and a fivefold
-classification. The scope restriction on acquisition and the five
-class-names are supplied by the Bhāṣya, not encoded as extra verse
-tokens. The `prāptyā` lexical SEM supplies the acquisition relation;
-the prose fixes its sentient-designation scope. Necessarily together
-is carried into the marks clause.
+Four units: reciprocal accompaniment, marks accompanying everything conditioned that arises, acquisition's restricted scope, and a fivefold classification. The scope restriction on acquisition and the five class-names are supplied by the Bhāṣya, not encoded as extra verse tokens. The *prāptyā* lexical SEM supplies the acquisition relation; the prose fixes its sentient-designation scope. Necessarily together is carried into the marks clause.
 
 ```nltk-fcfg
 % start S
 # tokens: cittam caittāḥ saha avaśyam sarvam saṃskṛtalakṣaṇaiḥ prāptyā vā pañcadhā caittāḥ mahābhūmyādibhedataḥ
 S[SEM=<(?pair & ?marks & ?acquisition & ?classes)>] -> PAIR[SEM=?pair] MARKSCLAUSE[SEM=?marks] ACQUISITION[SEM=?acquisition] CLASSES[SEM=?classes]
-PAIR[SEM=<(all c.(Consciousness(c) -> exists f.(Factor(f) & Accompanies(f,c))) & all f.(Factor(f) -> exists c.(Consciousness(c) & Accompanies(f,c))))>] -> CONSCIOUSNESS[CASE=nom,NUM=sg] FACTORS[CASE=nom,NUM=pl] TOGETHER NECESSARILY
-MARKSCLAUSE[SEM=<all x.(ArisingConditioned(x) -> ?marks(x))>] -> ALL[CASE=nom,NUM=sg,SCOPE=arising_conditioned] MARKS[CASE=ins,SEM=?marks]
-ACQUISITION[SEM=<all x.(ArisingConditioned(x) -> (?acquired(x) <-> SentientDesignated(x)))>] -> ACQUIRED[CASE=ins,SEM=?acquired] OR[READING=scope_distinction]
-CLASSES[SEM=<(ClassCount(factor_classes,five) & BeginsWithGreatGround(factor_classes))>] -> FIVE[CNT=5] FACTORS[CASE=nom,NUM=pl] DIVISION[ORDER=great_ground_first]
-CONSCIOUSNESS[CASE=nom,NUM=sg] -> 'cittam'
-FACTORS[CASE=nom,NUM=pl] -> 'caittāḥ'
+PAIR[SEM=<all c.(Consciousness(c) -> exists f.(Factor(f) & Accompanies(f,c))) & all f.(Factor(f) -> exists c.(Consciousness(c) & Accompanies(f,c)))>] -> CONSCIOUSNESS FACTORS TOGETHER NECESSARILY
+CONSCIOUSNESS -> 'cittam'
+FACTORS -> 'caittāḥ'
 TOGETHER -> 'saha'
 NECESSARILY -> 'avaśyam'
-ALL[CASE=nom,NUM=sg,SCOPE=arising_conditioned] -> 'sarvam'
-MARKS[CASE=ins,SEM=<\x.MarksAccompany(x)>] -> 'saṃskṛtalakṣaṇaiḥ'
-ACQUIRED[CASE=ins,SEM=<\x.AcquisitionAccompanies(x)>] -> 'prāptyā'
-OR[READING=scope_distinction] -> 'vā'
-FIVE[CNT=5] -> 'pañcadhā'
-DIVISION[ORDER=great_ground_first] -> 'mahābhūmyādibhedataḥ'
+MARKSCLAUSE[SEM=<all x.(ArisingConditioned(x) -> MarksAccompany(x))>] -> ALL MARKS
+ALL -> 'sarvam'
+MARKS -> 'saṃskṛtalakṣaṇaiḥ'
+ACQUISITION[SEM=<all x.(ArisingConditioned(x) -> (AcquisitionAccompanies(x) <-> SentientDesignated(x)))>] -> ACQUIRED OR
+ACQUIRED -> 'prāptyā'
+OR -> 'vā'
+CLASSES[SEM=<ClassCount(factor_classes,five) & BeginsWithGreatGround(factor_classes)>] -> FIVE FACTORS DIVISION
+FIVE -> 'pañcadhā'
+DIVISION -> 'mahābhūmyādibhedataḥ'
 ```
 
 ```nltk-dep
@@ -86,17 +78,11 @@ DIVISION[ORDER=great_ground_first] -> 'mahābhūmyādibhedataḥ'
 
 ### Literal Translation
 
-> Consciousness and the mental factors, necessarily together. Everything
-> with the marks of the conditioned. Or with acquisition. Mental factors are
-> fivefold, by the division beginning with the great ground.
+> Consciousness and the mental factors, necessarily together. Everything with the marks of the conditioned. Or with acquisition. Mental factors are fivefold, by the division beginning with the great ground.
 
 ### Bhāṣya-informed study translation
 
-> Consciousness and mental factors necessarily arise together. All
-> conditioned dharmas arise together with the marks of the conditioned.
-> As for acquisition, only those designated as belonging to a sentient
-> being arise together with it. Mental factors
-> are fivefold by divisions beginning with the great ground.
+> Consciousness and mental factors necessarily arise together. All conditioned dharmas arise together with the marks of the conditioned. As for acquisition, only those designated as belonging to a sentient being arise together with it. Mental factors are fivefold by divisions beginning with the great ground.
 
 ## 6. Philosophical Translation
 
@@ -119,16 +105,12 @@ Great is range. Not a meditative stage, and not a place.
 
 ## 8. Logical Determination
 
-**Kārikā with Bhāṣya-resolved scope.** Accompaniment is a relation,
-not merely possession of a property called marks or acquisition.
-Factor-tokens accompany their own consciousness-tokens. The acquisition
-relation comes from `prāptyā`; the restricted scope is Bhāṣya-resolved.
-Distinct episodes are not forced to co-arise with one another.
+**Kārikā with Bhāṣya-resolved scope.** Accompaniment is a relation, not merely possession of a property called marks or acquisition. Factor-tokens accompany their own consciousness-tokens. The acquisition relation comes from *prāptyā*; the restricted scope is Bhāṣya-resolved. Distinct episodes are not forced to co-arise with one another.
 
 ```nltk-sem
-marks : \x.MarksAccompany(x)
-acquisition_relation : \x.AcquisitionAccompanies(x)
-acquisition_scope : \x.(AcquisitionAccompanies(x) <-> SentientDesignated(x))
+marks : MarksAccompany(x)
+acquisition_relation : AcquisitionAccompanies(x)
+acquisition_scope : AcquisitionAccompanies(x) <-> SentientDesignated(x)
 ```
 
 ```nltk-fol
@@ -177,22 +159,11 @@ GreatGroundKind => {illustrative_universal_kind}
 OccursKind => {(illustrative_universal_kind,consciousness_a),(illustrative_universal_kind,consciousness_b)}
 ```
 
-The illustrative universal kind is not an enumeration of 2.24's
-members. Factor-tokens and factor-kinds remain separate. The model
-checks reciprocal accompaniment and the two scopes without asserting
-that all five classes occur in every consciousness or are disjoint.
-It illustrates the stated necessity; a finite valuation does not
-prove necessity over every possible episode.
+The illustrative universal kind is not an enumeration of 2.24's members. Factor-tokens and factor-kinds remain separate. The model checks reciprocal accompaniment and the two scopes without asserting that all five classes occur in every consciousness or are disjoint. It illustrates the stated necessity; a finite valuation does not prove necessity over every possible episode.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): Consciousness and the mental factors necessarily
-co-arise; neither exists without the other. Everything conditioned arises
-with the marks. Acquisition accompanies only what is designated as
-belonging to a sentient being. Mental factors are fivefold by the division
-beginning with the great ground. The great-ground factors occur in every
-consciousness.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): Consciousness and the mental factors necessarily co-arise; neither exists without the other. Everything conditioned arises with the marks. Acquisition accompanies only what is designated as belonging to a sentient being. Mental factors are fivefold by the division beginning with the great ground. The great-ground factors occur in every consciousness.
 
 Three relations, not one together. Reciprocal for consciousness and factors. Universal for the marks. Restricted for acquisition.
 
@@ -200,11 +171,7 @@ Ground is range of operation. Not a place, not automatically a meditative level,
 
 Universality of the first class does not make it wholesome. The wholesome class stays available for the next verses.
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception without collapsing into consciousness or Mind. The present
-pair is consciousness and mental factors; it does not introduce a
-further controller. Keep that distinction active when interpreting
-the factors' ranges of operation.
+In the Organon reading, Cognition joins and governs Perception and Conception without collapsing into consciousness or Mind. The present pair is consciousness and mental factors; it does not introduce a further controller. Keep that distinction active when interpreting the factors' ranges of operation.
 
 ## 10. OWL++ Seed
 

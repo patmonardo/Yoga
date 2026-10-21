@@ -32,9 +32,7 @@ duḥkhe ca hitvā ārūpyāptaṃ sukhe cāpohya rūpi ca // 2.12 //
 
 Both duals are exclusions, not locatives. The earlier exclusions carry forward.
 
-**Grammar tokens.** External sandhi is opened, including *ca apohya*.
-Compounds remain intact. The Bhāṣya resolves the excluded triad and
-pairs without adding their members to the verse stream.
+**Grammar tokens.** External sandhi is opened, including *ca apohya*. Compounds remain intact. The Bhāṣya resolves the excluded triad and pairs without adding their members to the verse stream.
 
 ```text
 # tokens: kāmāptam amalam hitvā rūpāptam strīpumindriye duḥkhe ca hitvā ārūpyāptam sukhe ca apohya rūpi ca
@@ -42,31 +40,26 @@ pairs without adding their members to the verse stream.
 
 ## 4. Grammar
 
-Each clause classifies Faculties by exclusions. The Bhāṣya explicitly
-carries the stainless exclusion into the second clause and all prior
-exclusions into the third. A shared feature chain carries them from
-Desire to Form and then to Formless. The inherited exclusions are a prose-resolved
-projection, not additional Sanskrit words. Connection here means a type
-can have realm-connected instances, not that every instance is so connected.
+Each clause classifies Faculties by exclusions. The Bhāṣya explicitly carries the stainless exclusion into the second clause and all prior exclusions into the third. A shared feature chain carries them from Desire to Form and then to Formless. The inherited exclusions are a prose-resolved projection, not additional Sanskrit words. Connection here means a type can have realm-connected instances, not that every instance is so connected.
 
 ```nltk-fcfg
 % start S
 # tokens: kāmāptam amalam hitvā rūpāptam strīpumindriye duḥkhe ca hitvā ārūpyāptam sukhe ca apohya rūpi ca
-S[SEM=<(?desire & ?form & ?formless)>] -> DESIRE[EXCLUDED=?d,SEM=?desire] FORMCLAUSE[INHERITED=?d,EXCLUDED=?f,SEM=?form] FORMLESS[INHERITED=?f,SEM=?formless]
-DESIRE[EXCLUDED=stainless,SEM=<all x.(Faculty(x) -> (?realm(x) <-> -?excluded(x)))>] -> DESIRER[CASE=nom,SEM=?realm] STAINLESS[CASE=acc,SEM=?excluded] OMIT
-FORMCLAUSE[INHERITED=stainless,EXCLUDED=stainless_sex_pain,SEM=<all x.(Faculty(x) -> (?realm(x) <-> (-Stainless(x) & -?sex(x) & -?pain(x))))>] -> FORMR[CASE=nom,SEM=?realm] SEX[CASE=acc,NUM=du,CNT=2,SEM=?sex] PAINFUL[CASE=acc,NUM=du,CNT=2,SEM=?pain] AND OMIT
-FORMLESS[INHERITED=stainless_sex_pain,SEM=<all x.(Faculty(x) -> (?realm(x) <-> (-Stainless(x) & -SexFaculty(x) & -PainfulFaculty(x) & -?pleasant(x) & -?form(x))))>] -> FORMLESSR[CASE=nom,SEM=?realm] PLEASANT[CASE=acc,NUM=du,CNT=2,SEM=?pleasant] AND REMOVE FORMF[CASE=acc,SEM=?form] AND
-DESIRER[CASE=nom,SEM=<\x.CanConnect(x,desire_realm)>] -> 'kāmāptam'
-STAINLESS[CASE=acc,SEM=<\x.Stainless(x)>] -> 'amalam'
+S[SEM=<(?desire & ?form & ?formless)>] -> DESIRE[SEM=?desire] FORMCLAUSE[SEM=?form] FORMLESS[SEM=?formless]
+DESIRE[SEM=<all x.(Faculty(x) -> (CanConnect(x,desire_realm) <-> -Stainless(x)))>] -> DESIRER STAINLESS OMIT
+DESIRER -> 'kāmāptam'
+STAINLESS -> 'amalam'
 OMIT -> 'hitvā'
-FORMR[CASE=nom,SEM=<\x.CanConnect(x,form_realm)>] -> 'rūpāptam'
-SEX[CASE=acc,NUM=du,CNT=2,SEM=<\x.SexFaculty(x)>] -> 'strīpumindriye'
-PAINFUL[CASE=acc,NUM=du,CNT=2,SEM=<\x.PainfulFaculty(x)>] -> 'duḥkhe'
+FORMCLAUSE[SEM=<all x.(Faculty(x) -> (CanConnect(x,form_realm) <-> (-Stainless(x) & -SexFaculty(x) & -PainfulFaculty(x))))>] -> FORMR SEX PAINFUL AND OMIT
+FORMR -> 'rūpāptam'
+SEX -> 'strīpumindriye'
+PAINFUL -> 'duḥkhe'
 AND -> 'ca'
-FORMLESSR[CASE=nom,SEM=<\x.CanConnect(x,formless_realm)>] -> 'ārūpyāptam'
-PLEASANT[CASE=acc,NUM=du,CNT=2,SEM=<\x.PleasantFaculty(x)>] -> 'sukhe'
+FORMLESS[SEM=<all x.(Faculty(x) -> (CanConnect(x,formless_realm) <-> (-Stainless(x) & -SexFaculty(x) & -PainfulFaculty(x) & -PleasantFaculty(x) & -FormFaculty(x))))>] -> FORMLESSR PLEASANT AND REMOVE FORMF AND
+FORMLESSR -> 'ārūpyāptam'
+PLEASANT -> 'sukhe'
 REMOVE -> 'apohya'
-FORMF[CASE=acc,SEM=<\x.FormFaculty(x)>] -> 'rūpi'
+FORMF -> 'rūpi'
 ```
 
 ```nltk-dep
@@ -86,18 +79,11 @@ FORMF[CASE=acc,SEM=<\x.FormFaculty(x)>] -> 'rūpi'
 
 ### Literal Translation
 
-> Excluding the stainless, Desire Realm-connected. Excluding the female and
-> male faculties and the two painful faculties, Form Realm-connected.
-> Excluding also the two pleasant faculties and what possesses form,
-> Formless Realm-connected.
+> Excluding the stainless, Desire Realm-connected. Excluding the female and male faculties and the two painful faculties, Form Realm-connected. Excluding also the two pleasant faculties and what possesses form, Formless Realm-connected.
 
 ### Bhāṣya-informed study translation
 
-> Except for the stainless triad, the Faculties are connected with the
-> desire realm. Excluding the female and male Faculties and the two painful
-> Faculties, the remainder are connected with the Form realm. Excluding in
-> addition both pleasure and gladness and the Form Faculties, the remainder
-> are connected with the Formless realm.
+> Except for the stainless triad, the Faculties are connected with the desire realm. Excluding the female and male Faculties and the two painful Faculties, the remainder are connected with the Form realm. Excluding in addition both pleasure and gladness and the Form Faculties, the remainder are connected with the Formless realm.
 
 ## 6. Philosophical Translation
 
@@ -120,17 +106,12 @@ FORMF[CASE=acc,SEM=<\x.FormFaculty(x)>] -> 'rūpi'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The three biconditionals specify possible connection
-for Faculty-types, incorporating the Bhāṣya's explicit carry of earlier
-exclusions. The `EXCLUDED`/`INHERITED` chain requires the Form clause
-to receive the stainless exclusion and the Formless clause to receive
-the expanded Form exclusions. These are type-level possibilities; they
-do not locate every instance or its bearer in a realm.
+**Kārikā, derived.** The three biconditionals specify possible connection for Faculty-types, incorporating the Bhāṣya's explicit carry of earlier exclusions. The inherited-exclusion chain requires the Form clause to receive the stainless exclusion and the Formless clause to receive the expanded Form exclusions. These are type-level possibilities; they do not locate every instance or its bearer in a realm.
 
 ```nltk-sem
-desire_connection : \x.CanConnect(x,desire_realm)
-form_connection : \x.CanConnect(x,form_realm)
-formless_connection : \x.CanConnect(x,formless_realm)
+desire_connection : CanConnect(x,desire_realm)
+form_connection : CanConnect(x,form_realm)
+formless_connection : CanConnect(x,formless_realm)
 ```
 
 ```nltk-fol
@@ -173,22 +154,11 @@ FormlessRemainder => {mind,life,neutral,faith,vigor,mindfulness,concentration,co
 CanConnect => {(eye,desire),(ear,desire),(nose,desire),(tongue,desire),(body,desire),(female,desire),(male,desire),(life,desire),(mind,desire),(pain,desire),(distress,desire),(pleasure,desire),(gladness,desire),(neutral,desire),(faith,desire),(vigor,desire),(mindfulness,desire),(concentration,desire),(comprehension,desire),(eye,form),(ear,form),(nose,form),(tongue,form),(body,form),(life,form),(mind,form),(pleasure,form),(gladness,form),(neutral,form),(faith,form),(vigor,form),(mindfulness,form),(concentration,form),(comprehension,form),(mind,formless),(life,formless),(neutral,formless),(faith,formless),(vigor,formless),(mindfulness,formless),(concentration,formless),(comprehension,formless)}
 ```
 
-The ranges contain 19, 15, and 8 types. Female and male are already
-excluded before the final removal of Form Faculties, so that removal
-subtracts five further types, not seven again. The model checks the
-extension of the classifications, not the causal adequacy of the
-reported reasons for absence or the sūtra's male designation.
+The ranges contain 19, 15, and 8 types. Female and male are already excluded before the final removal of Form Faculties, so that removal subtracts five further types, not seven again. The model checks the extension of the classifications, not the causal adequacy of the reported reasons for absence or the sūtra's male designation.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): Excluding the stainless triad, which is connected with
-no realm, the faculties are connected with the desire realm. Excluding
-also the female and male faculties and the two painful faculties, pain and
-distress, they are connected with the form realm. Excluding in addition
-the two pleasant faculties and whatever possesses form, they are connected
-with the formless realm: mind, life, neutral feeling, and the five
-beginning with faith, and no others.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): Excluding the stainless triad, which is connected with no realm, the faculties are connected with the desire realm. Excluding also the female and male faculties and the two painful faculties, pain and distress, they are connected with the form realm. Excluding in addition the two pleasant faculties and whatever possesses form, they are connected with the formless realm: mind, life, neutral feeling, and the five beginning with faith, and no others.
 
 The axes now include function, feeling, path-name, outflow, maturation, what produces maturation, ethical quality, and realm-connection. None settles the others.
 
@@ -198,9 +168,7 @@ Pain and distress have separate reasons. Clarity and absence of the unwholesome.
 
 The eight are not a minimum theory of mind, and not liberation. The triad stays unaffiliated with all three.
 
-Interpretation: realm-connection is a qualified relation, not a location
-assigned indiscriminately to a Faculty, its instances, and its bearer.
-The stainless Path is not a fourth or higher conditioned realm.
+Interpretation: realm-connection is a qualified relation, not a location assigned indiscriminately to a Faculty, its instances, and its bearer. The stainless Path is not a fourth or higher conditioned realm.
 
 ## 10. OWL++ Seed
 

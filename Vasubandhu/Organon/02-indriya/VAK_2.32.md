@@ -32,8 +32,7 @@ prema śraddhā gurutvaṃ hrīḥ te punaḥ kāmarūpayoḥ // 2.32 //
 
 The verse equates. The commentary qualifies.
 
-The dual pronoun does not refer to the negative pair or to all
-forms of faith and moral shame. Sandhi is opened for parsing.
+The dual pronoun does not refer to the negative pair or to all forms of faith and moral shame. Sandhi is opened for parsing.
 
 ```text
 # tokens: ahrīḥ agurutā avadye bhayādarśitvam atrapā prema śraddhā gurutvam hrīḥ te punaḥ kāmarūpayoḥ
@@ -41,32 +40,28 @@ forms of faith and moral shame. Sandhi is opened for parsing.
 
 ## 4. Grammar
 
-Four nominal clauses: two definitions, two compact identifications,
-then a dual anaphor with a dual realm-locative. The prose restricts
-the identifications and the realm statement to person-directed forms.
-The first definition pair is not withdrawn by the subsequent debate
-over how failure to see danger differs from comprehension or ignorance.
+Four nominal clauses: two definitions, two compact identifications, then a dual anaphor with a dual realm-locative. The prose restricts the identifications and the realm statement to person-directed forms. The first definition pair is not withdrawn by the subsequent debate over how failure to see danger differs from comprehension or ignorance.
 
 ```nltk-fcfg
 % start S
 # tokens: ahrīḥ agurutā avadye bhayādarśitvam atrapā prema śraddhā gurutvam hrīḥ te punaḥ kāmarūpayoḥ
 S[SEM=<(?shame & ?caution & ?pair & ?range)>] -> SHAMECLAUSE[SEM=?shame] CAUTIONCLAUSE[SEM=?caution] PAIR[SEM=?pair] RANGE[SEM=?range]
-SHAMECLAUSE[SEM=<DefinedAs(shamelessness,lack_respect)>] -> SHAMELESS[CASE=nom] NORESPECT[CASE=nom]
-CAUTIONCLAUSE[SEM=<DefinedAs(lack_caution,failure_danger_blameworthy)>] -> BLAMEWORTHY[CASE=loc] FAILURE[CASE=nom] UNCAUTIOUS[CASE=nom]
-PAIR[SEM=<(ScopedAs(affection,faith) & ScopedAs(respect,moral_shame))>] -> AFFECTION[CASE=nom] FAITH[CASE=nom] RESPECT[CASE=nom] MORALSHAME[CASE=nom]
-RANGE[SEM=<(RealmRange(affection,desire_form) & RealmRange(respect,desire_form))>] -> THOSE[NUM=du,REF=affection_respect] HOWEVER REALMS[CASE=loc,NUM=du]
-SHAMELESS[CASE=nom] -> 'ahrīḥ'
-NORESPECT[CASE=nom] -> 'agurutā'
-BLAMEWORTHY[CASE=loc] -> 'avadye'
-FAILURE[CASE=nom] -> 'bhayādarśitvam'
-UNCAUTIOUS[CASE=nom] -> 'atrapā'
-AFFECTION[CASE=nom] -> 'prema'
-FAITH[CASE=nom] -> 'śraddhā'
-RESPECT[CASE=nom] -> 'gurutvam'
-MORALSHAME[CASE=nom] -> 'hrīḥ'
-THOSE[NUM=du,REF=affection_respect] -> 'te'
+SHAMECLAUSE[SEM=<DefinedAs(shamelessness,lack_respect)>] -> SHAMELESS NORESPECT
+SHAMELESS -> 'ahrīḥ'
+NORESPECT -> 'agurutā'
+CAUTIONCLAUSE[SEM=<DefinedAs(lack_caution,failure_danger_blameworthy)>] -> BLAMEWORTHY FAILURE UNCAUTIOUS
+BLAMEWORTHY -> 'avadye'
+FAILURE -> 'bhayādarśitvam'
+UNCAUTIOUS -> 'atrapā'
+PAIR[SEM=<ScopedAs(affection,faith) & ScopedAs(respect,moral_shame)>] -> AFFECTION FAITH RESPECT MORALSHAME
+AFFECTION -> 'prema'
+FAITH -> 'śraddhā'
+RESPECT -> 'gurutvam'
+MORALSHAME -> 'hrīḥ'
+RANGE[SEM=<RealmRange(affection,desire_form) & RealmRange(respect,desire_form)>] -> THOSE HOWEVER REALMS
+THOSE -> 'te'
 HOWEVER -> 'punaḥ'
-REALMS[CASE=loc,NUM=du] -> 'kāmarūpayoḥ'
+REALMS -> 'kāmarūpayoḥ'
 ```
 
 ```nltk-dep
@@ -88,22 +83,15 @@ REALMS[CASE=loc,NUM=du] -> 'kāmarūpayoḥ'
 
 ### Literal Translation
 
-> Shamelessness is lack of respect. Lack of moral caution is failure to see
-> danger in what is blameworthy. Affection is faith; respect is moral shame.
-> These occur in the desire and form realms.
+> Shamelessness is lack of respect. Lack of moral caution is failure to see danger in what is blameworthy. Affection is faith; respect is moral shame. These occur in the desire and form realms.
+
 ### Bhāṣya-informed study translation
 
-> Shamelessness is lack of respect; lack of moral caution is failure to see
-> danger in the blameworthy. Affection here is person-directed faith,
-> and respect is person-directed moral shame. These two forms occur
-> in the Desire and Form Realms, not in the Formless Realm.
+> Shamelessness is lack of respect; lack of moral caution is failure to see danger in the blameworthy. Affection here is person-directed faith, and respect is person-directed moral shame. These two forms occur in the Desire and Form Realms, not in the Formless Realm.
+
 ## 6. Philosophical Translation
 
-> Compact identification is not unrestricted identity of ranges.
-> Person-directed forms are restricted; faith and moral shame
-> themselves are not thereby removed from wholesome Formless
-> consciousness. Alternative accounts distinguish preceding esteem
-> or acknowledgment from the attitude that follows.
+> Compact identification is not unrestricted identity of ranges. Person-directed forms are restricted; faith and moral shame themselves are not thereby removed from wholesome Formless consciousness. Alternative accounts distinguish preceding esteem or acknowledgment from the attitude that follows.
 
 ## 7. Technical Vocabulary
 
@@ -120,15 +108,11 @@ REALMS[CASE=loc,NUM=du] -> 'kāmarūpayoḥ'
 
 ## 8. Logical Determination
 
-**Kārikā with prose-resolved reference.** DefinedAs records the
-definition, not a reduction of lack of caution to ignorance or
-comprehension. ScopedAs records the compact identification under
-the final person-directed qualification; it does not erase the
-alternative accounts. The finite examples below test ranges.
+**Kārikā with prose-resolved reference.** DefinedAs records the definition, not a reduction of lack of caution to ignorance or comprehension. ScopedAs records the compact identification under the final person-directed qualification; it does not erase the alternative accounts. The finite examples below test ranges.
 
 ```nltk-sem
-definition : \a.\b.DefinedAs(b,a)
-scoped_identification : \a.\b.ScopedAs(b,a)
+definition : DefinedAs(shamelessness,lack_respect)
+scoped_identification : ScopedAs(affection,faith)
 ```
 
 ```nltk-fol
@@ -179,28 +163,19 @@ PersonAffectionExample => {children_companions,own_teacher}
 PersonRespectExample => {other_teachers,own_teacher}
 ```
 
-The fourfold examples are illustrations in the commentary, not
-universal judgments about all children or teachers. The two
-comparisons use distinct universes. The model does not reconstruct
-the damaged positive reversal or decide between the attributed
-accounts of affection and respect.
+The fourfold examples are illustrations in the commentary, not universal judgments about all children or teachers. The two comparisons use distinct universes. The model does not reconstruct the damaged positive reversal or decide between the attributed accounts of affection and respect.
+
 ## 9. Interpretive Note
 
 **Translation note.** The commentary qualifies affection and respect as person-directed forms of faith and moral shame, and says the pair is absent from the formless realm. It records alternative accounts and examples in which affection and faith, or respect and shame, may separate. The reversal of the negative pair is textually damaged; disposition is not treated as an extra latent entity.
 
-The counts deferred these definitions. Lack of moral caution was
-counted apart from discriminative comprehension and from delusion. The reply keeps that count.
+The counts deferred these definitions. Lack of moral caution was counted apart from discriminative comprehension and from delusion. The reply keeps that count.
 
 The person examples show the relations can separate. They are not judgments about every parent or teacher. Others are reported. Not a final rejection of the verse's equations.
 
-The reversal of the negative pair is damaged. Seeing danger is the contextual positive construal, not a secure
-transcription of the damaged wording following the announced reversal. It wants collation. Disposition does not add a latent entity beside the named factor.
+The reversal of the negative pair is damaged. Seeing danger is the contextual positive construal, not a secure transcription of the damaged wording following the announced reversal. It wants collation. Disposition does not add a latent entity beside the named factor.
 
-In the Organon reading, Cognition governs Perception and Conception
-without collapsing into consciousness or Mind. The comprehension/
-ignorance dilemma tests a proposed reduction of a mental factor;
-it must not turn every use of seeing into governing Cognition.
-Compact identification remains answerable to range and relation.
+In the Organon reading, Cognition governs Perception and Conception without collapsing into consciousness or Mind. The comprehension/ignorance dilemma tests a proposed reduction of a mental factor; it must not turn every use of seeing into governing Cognition. Compact identification remains answerable to range and relation.
 
 ## 10. OWL++ Seed
 

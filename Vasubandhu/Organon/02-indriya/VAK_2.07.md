@@ -32,13 +32,9 @@ duḥkhendriyam aśātā yā kāyikī vedanā sukham /
 | sā | nominative singular feminine demonstrative | that; resumes agreeable feeling |
 | sukhendriyam | nominative singular neuter compound | Pleasure-Faculty, the predicate of the qualified clause |
 
-The feminine forms agree with feeling; the neuter Faculty-names are
-predicates, not adjectives agreeing with it. The Bhāṣya supplies bodily
-feeling in the elliptical pleasure clause.
+The feminine forms agree with feeling; the neuter Faculty-names are predicates, not adjectives agreeing with it. The Bhāṣya supplies bodily feeling in the elliptical pleasure clause.
 
-**Grammar tokens.** External sandhi is opened. No words are added to the
-verse stream; the second clause's resumed subject is marked
-`SUPPLIED=prose` in the grammar.
+**Grammar tokens.** External sandhi is opened. No words are added to the verse stream; the second clause's resumed subject is marked as prose-supplied in the grammar.
 
 ```text
 # tokens: duḥkhendriyam aśātā yā kāyikī vedanā sukham śātā dhyāne tṛtīye tu caitasī sā sukhendriyam
@@ -46,33 +42,28 @@ verse stream; the second clause's resumed subject is marked
 
 ## 4. Grammar
 
-The relative clause defines Pain-Faculty. The second clause resumes bodily
-feeling, as the Bhāṣya explicitly confirms. In the last clause, the
-locative pair constrains the mental case to the third dhyāna. The feminine
-anaphor resumes agreeable feeling from the preceding clause, while
-mental mode and third-dhyāna level delimit its new predication. The
-shared `REF` feature records that antecedent without identifying a
-bodily feeling-token with a mental one.
+The relative clause defines Pain-Faculty. The second clause resumes bodily feeling, as the Bhāṣya explicitly confirms. In the last clause, the locative pair constrains the mental case to the third dhyāna. The feminine anaphor resumes agreeable feeling from the preceding clause, while mental mode and third-dhyāna level delimit its new predication. The shared reference records that antecedent without identifying a bodily feeling-token with a mental one.
 
 ```nltk-fcfg
 % start S
 # tokens: duḥkhendriyam aśātā yā kāyikī vedanā sukham śātā dhyāne tṛtīye tu caitasī sā sukhendriyam
-S[SEM=<(?pain & ?pleasure & ?third)>] -> PAIN[SEM=?pain] PLEASURE[REF=?r,SEM=?pleasure] THIRD[REF=?r,SEM=?third]
-PAIN[SEM=<all x.((?feeling(x) & ?body(x) & ?tone(x)) -> ?faculty(x))>] -> PAINF[CASE=nom,NUM=sg,GEN=n,SEM=?faculty] TONE[CASE=nom,NUM=sg,GEN=f,POLARITY=disagreeable,SEM=?tone] REL[CASE=nom,NUM=sg,GEN=f] BODY[CASE=nom,NUM=sg,GEN=f,SEM=?body] FEELING[CASE=nom,NUM=sg,GEN=f,SEM=?feeling]
-PLEASURE[REF=?r,SUPPLIED=prose,SEM=<all x.((Feeling(x) & Bodily(x) & ?tone(x)) -> ?faculty(x))>] -> PLEASUREF[CASE=nom,NUM=sg,GEN=n,SEM=?faculty] TONE[CASE=nom,NUM=sg,GEN=f,POLARITY=agreeable,REF=?r,SEM=?tone]
-THIRD[REF=?r,SEM=<all x.((Feeling(x) & ?tone(x) & ?mental(x) & ?level(x)) -> ?faculty(x))>] -> DHYANA[CASE=loc,NUM=sg,GEN=n] THIRDLEVEL[CASE=loc,NUM=sg,GEN=n,LEVEL=third,SEM=?level] BUT MENTAL[CASE=nom,NUM=sg,GEN=f,SEM=?mental] THAT[CASE=nom,NUM=sg,GEN=f,REF=?r,SEM=?tone] PLEASUREF[CASE=nom,NUM=sg,GEN=n,SEM=?faculty]
-PAINF[CASE=nom,NUM=sg,GEN=n,SEM=<\x.ClassifiedAs(x,pain_f)>] -> 'duḥkhendriyam'
-TONE[CASE=nom,NUM=sg,GEN=f,POLARITY=disagreeable,SEM=<\x.Disagreeable(x)>] -> 'aśātā'
-REL[CASE=nom,NUM=sg,GEN=f] -> 'yā'
-BODY[CASE=nom,NUM=sg,GEN=f,SEM=<\x.Bodily(x)>] -> 'kāyikī'
-FEELING[CASE=nom,NUM=sg,GEN=f,SEM=<\x.Feeling(x)>] -> 'vedanā'
-PLEASUREF[CASE=nom,NUM=sg,GEN=n,SEM=<\x.ClassifiedAs(x,pleasure_f)>] -> 'sukham' | 'sukhendriyam'
-TONE[CASE=nom,NUM=sg,GEN=f,POLARITY=agreeable,REF=agreeable_feeling,SEM=<\x.Agreeable(x)>] -> 'śātā'
-DHYANA[CASE=loc,NUM=sg,GEN=n] -> 'dhyāne'
-THIRDLEVEL[CASE=loc,NUM=sg,GEN=n,LEVEL=third,SEM=<\x.AtLevel(x,third_dhyana)>] -> 'tṛtīye'
+S[SEM=<(?pain & ?pleasure & ?third)>] -> PAIN[SEM=?pain] PLEASURE[SEM=?pleasure] THIRD[SEM=?third]
+PAIN[SEM=<all x.((Feeling(x) & Bodily(x) & Disagreeable(x)) -> ClassifiedAs(x,pain_f))>] -> PAINF TONE1 REL BODY FEELING
+PAINF -> 'duḥkhendriyam'
+TONE1 -> 'aśātā'
+REL -> 'yā'
+BODY -> 'kāyikī'
+FEELING -> 'vedanā'
+PLEASURE[SEM=<all x.((Feeling(x) & Bodily(x) & Agreeable(x)) -> ClassifiedAs(x,pleasure_f))>] -> PLEASUREF TONE2
+PLEASUREF -> 'sukham'
+TONE2 -> 'śātā'
+THIRD[SEM=<all x.((Feeling(x) & Agreeable(x) & Mental(x) & AtLevel(x,third_dhyana)) -> ClassifiedAs(x,pleasure_f))>] -> DHYANA THIRDLEVEL BUT MENTAL THAT PLEASUREF2
+DHYANA -> 'dhyāne'
+THIRDLEVEL -> 'tṛtīye'
 BUT -> 'tu'
-MENTAL[CASE=nom,NUM=sg,GEN=f,SEM=<\x.Mental(x)>] -> 'caitasī'
-THAT[CASE=nom,NUM=sg,GEN=f,REF=agreeable_feeling,SEM=<\x.Agreeable(x)>] -> 'sā'
+MENTAL -> 'caitasī'
+THAT -> 'sā'
+PLEASUREF2 -> 'sukhendriyam'
 ```
 
 ```nltk-dep
@@ -92,15 +83,11 @@ THAT[CASE=nom,NUM=sg,GEN=f,REF=agreeable_feeling,SEM=<\x.Agreeable(x)>] -> 'sā'
 
 ### Literal Translation
 
-> Pain-Faculty is whichever bodily feeling is disagreeable; pleasure is
-> agreeable [bodily feeling]. But in the third dhyāna, that [agreeable
-> feeling], mental, is Pleasure-Faculty.
+> Pain-Faculty is whichever bodily feeling is disagreeable; pleasure is agreeable [bodily feeling]. But in the third dhyāna, that [agreeable feeling], mental, is Pleasure-Faculty.
 
 ### Bhāṣya-informed study translation
 
-> Pain-Faculty is whichever bodily feeling is disagreeable; Pleasure-Faculty
-> is agreeable bodily feeling. But in the third dhyāna, that agreeable
-> mental feeling is Pleasure-Faculty.
+> Pain-Faculty is whichever bodily feeling is disagreeable; Pleasure-Faculty is agreeable bodily feeling. But in the third dhyāna, that agreeable mental feeling is Pleasure-Faculty.
 
 ## 6. Philosophical Translation
 
@@ -123,18 +110,12 @@ Sukha and duḥkha here are two of the five. Gladness and distress are the next 
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root SEM conjoins three scoped implications.
-The shared `REF=agreeable_feeling` preserves the anaphora across the
-second and third clauses; it does not assert numerical identity between
-two feeling events. The last implication requires agreeable tone, mental
-mode, and third-dhyāna level together. The bodily restriction of the
-second clause is Bhāṣya-resolved ellipsis, not an additional Sanskrit
-token.
+**Kārikā, derived.** The root SEM conjoins three scoped implications. The shared reference preserves the anaphora across the second and third clauses; it does not assert numerical identity between two feeling events. The last implication requires agreeable tone, mental mode, and third-dhyāna level together. The bodily restriction of the second clause is Bhāṣya-resolved ellipsis, not an additional Sanskrit token.
 
 ```nltk-sem
-pain_classification : \x.ClassifiedAs(x,pain_f)
-pleasure_classification : \x.ClassifiedAs(x,pleasure_f)
-third_level : \x.AtLevel(x,third_dhyana)
+pain_classification : all x.((Feeling(x) & Bodily(x) & Disagreeable(x)) -> ClassifiedAs(x,pain_f))
+pleasure_classification : all x.((Feeling(x) & Bodily(x) & Agreeable(x)) -> ClassifiedAs(x,pleasure_f))
+third_level : all x.((Feeling(x) & Agreeable(x) & Mental(x) & AtLevel(x,third_dhyana)) -> ClassifiedAs(x,pleasure_f))
 ```
 
 ```nltk-fol
@@ -182,19 +163,11 @@ Supportive => {bodily_pleasure_event,third_pleasure_event,other_mental_pleasure_
 FiveCognitionGroupsPresent => {}
 ```
 
-The other mental-pleasure event is a counterexample to dropping the level
-restriction; its Faculty-name is left to 2.08. The prose states the absence
-of the five Cognition-groups as the reason bodily feeling is absent. The
-valuation checks those absences, not a general causal law from absence
-alone to Pleasure-Faculty. These are finite-model checks, not proofs.
+The other mental-pleasure event is a counterexample to dropping the level restriction; its Faculty-name is left to 2.08. The prose states the absence of the five Cognition-groups as the reason bodily feeling is absent. The valuation checks those absences, not a general causal law from absence alone to Pleasure-Faculty. These are finite-model checks, not proofs.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): Pain is disagreeable bodily feeling. Pleasure is
-agreeable bodily feeling. The exception is narrow: in the third dhyāna the
-five cognition-groups are absent, so agreeable mental feeling takes the
-pleasure-faculty. Mental feeling is not thereby bodily.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): Pain is disagreeable bodily feeling. Pleasure is agreeable bodily feeling. The exception is narrow: in the third dhyāna the five cognition-groups are absent, so agreeable mental feeling takes the pleasure-faculty. Mental feeling is not thereby bodily.
 
 2.03 assigned the feelings to defilement. 2.06 assigned them to the experience of engagement. This verse begins the internal cut.
 
@@ -204,12 +177,7 @@ Sā resumes the agreeable feeling. It is not one bodily feeling turning into a m
 
 Eye through male is the range already treated. It is not a count of ten Form faculties. Mind is in that range. Life is deferred because dissociated. The five beginning with faith are deferred to the mental factors.
 
-Interpretation: Faculty-classification requires the mode and level, not
-agreeable tone alone. The five Cognition-groups mediate the bodily case;
-their absence does not turn mental feeling into bodily feeling. Cognition
-joins and governs Perception and Conception without becoming identical to
-Mind or consciousness. Here the source establishes only the local absence
-of the five groups; the governing synthesis belongs to the Organon reading.
+Interpretation: Faculty-classification requires the mode and level, not agreeable tone alone. The five Cognition-groups mediate the bodily case; their absence does not turn mental feeling into bodily feeling. Cognition joins and governs Perception and Conception without becoming identical to Mind or consciousness. Here the source establishes only the local absence of the five groups; the governing synthesis belongs to the Organon reading.
 
 ## 10. OWL++ Seed
 

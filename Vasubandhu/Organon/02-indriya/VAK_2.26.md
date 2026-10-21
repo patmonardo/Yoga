@@ -31,8 +31,7 @@ kliṣṭe sadaivākuśale tv āhrīkyam anapatrapā // 2.26 //
 
 Afflicted and unwholesome are not the same range.
 
-The final locative starts a second clause; consciousness is supplied
-in both by the prose. Sandhi is opened, including sadā eva and tu.
+The final locative starts a second clause; consciousness is supplied in both by the prose. Sandhi is opened, including sadā eva and tu.
 
 ```text
 # tokens: mohaḥ pramādaḥ kauśīdyam āśraddhyam styānam auddhatyam kliṣṭe sadā eva akuśale tu āhrīkyam anapatrapā
@@ -40,34 +39,28 @@ in both by the prose. Sandhi is opened, including sadā eva and tu.
 
 ## 4. Grammar
 
-The six nominatives are coordinated, not alternatives. Always
-scopes the afflicted clause and is resolved as invariably in the
-prose for the unwholesome pair. Tu distinguishes the ranges; it
-does not replace the six with the two. Only in afflicted consciousness
-is an explicit prose conclusion, not the meaning of six. The first
-clause composes `kliṣṭe` with `sadā`; the second clause applies the
-Bhāṣya-resolved universal scope of `akuśale`.
+The six nominatives are coordinated, not alternatives. Always scopes the afflicted clause and is resolved as invariably in the prose for the unwholesome pair. Tu distinguishes the ranges; it does not replace the six with the two. Only in afflicted consciousness is an explicit prose conclusion, not the meaning of six. The first clause composes *kliṣṭe* with *sadā*; the second clause applies the Bhāṣya-resolved universal scope of *akuśale*.
 
 ```nltk-fcfg
 % start S
 # tokens: mohaḥ pramādaḥ kauśīdyam āśraddhyam styānam auddhatyam kliṣṭe sadā eva akuśale tu āhrīkyam anapatrapā
 S[SEM=<(?six & ?two)>] -> AFFLICTEDCLAUSE[SEM=?six] UNWHOLESOMECLAUSE[SEM=?two]
-AFFLICTEDCLAUSE[SEM=<?always(?afflicted(?list))>] -> SIX[CNT=6,SEM=?list] AFFLICTED[CASE=loc,SEM=?afflicted] ALWAYS[SCOPE=every,SEM=?always] EMPHASIS
-SIX[CNT=6,SEM=<\c.(Present(c,?a) & Present(c,?b) & Present(c,?d) & Present(c,?e) & Present(c,?f) & Present(c,?g))>] -> DELUSION[SEM=?a] HEEDLESS[SEM=?b] LAZY[SEM=?d] FAITHLESS[SEM=?e] SLUGGISH[SEM=?f] AGITATED[SEM=?g]
-UNWHOLESOMECLAUSE[SEM=<?unwholesome(\c.(Present(c,?a) & Present(c,?b)))>] -> UNWHOLESOME[CASE=loc,SUPPLIED=prose_universal,SEM=?unwholesome] BUT[READING=scope_contrast] SHAMELESS[SEM=?a] UNCAUTIOUS[SEM=?b]
-DELUSION[SEM=<delusion>] -> 'mohaḥ'
-HEEDLESS[SEM=<heedlessness>] -> 'pramādaḥ'
-LAZY[SEM=<laziness>] -> 'kauśīdyam'
-FAITHLESS[SEM=<faithlessness>] -> 'āśraddhyam'
-SLUGGISH[SEM=<sluggishness>] -> 'styānam'
-AGITATED[SEM=<agitation>] -> 'auddhatyam'
-AFFLICTED[CASE=loc,SEM=<\P.\c.(AfflictedMoment(c) -> P(c))>] -> 'kliṣṭe'
-ALWAYS[SCOPE=every,SEM=<\P.all c.P(c)>] -> 'sadā'
+AFFLICTEDCLAUSE[SEM=<all c.(AfflictedMoment(c) -> (Present(c,delusion) & Present(c,heedlessness) & Present(c,laziness) & Present(c,faithlessness) & Present(c,sluggishness) & Present(c,agitation)))>] -> SIX AFFLICTED ALWAYS EMPHASIS
+SIX -> DELUSION HEEDLESS LAZY FAITHLESS SLUGGISH AGITATED
+DELUSION -> 'mohaḥ'
+HEEDLESS -> 'pramādaḥ'
+LAZY -> 'kauśīdyam'
+FAITHLESS -> 'āśraddhyam'
+SLUGGISH -> 'styānam'
+AGITATED -> 'auddhatyam'
+AFFLICTED -> 'kliṣṭe'
+ALWAYS -> 'sadā'
 EMPHASIS -> 'eva'
-UNWHOLESOME[CASE=loc,SUPPLIED=prose_universal,SEM=<\P.all c.(UnwholesomeMoment(c) -> P(c))>] -> 'akuśale'
-BUT[READING=scope_contrast] -> 'tu'
-SHAMELESS[SEM=<shamelessness>] -> 'āhrīkyam'
-UNCAUTIOUS[SEM=<lack_caution>] -> 'anapatrapā'
+UNWHOLESOMECLAUSE[SEM=<all c.(UnwholesomeMoment(c) -> (Present(c,shamelessness) & Present(c,lack_caution)))>] -> UNWHOLESOME BUT SHAMELESS UNCAUTIOUS
+UNWHOLESOME -> 'akuśale'
+BUT -> 'tu'
+SHAMELESS -> 'āhrīkyam'
+UNCAUTIOUS -> 'anapatrapā'
 ```
 
 ```nltk-dep
@@ -86,23 +79,15 @@ UNCAUTIOUS[SEM=<lack_caution>] -> 'anapatrapā'
 
 ### Literal Translation
 
-> Delusion, heedlessness, laziness, lack of faith, sluggishness, and
-> agitation are always present in the afflicted. But shamelessness and lack
-> of moral caution are always present in the unwholesome.
+> Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation are always present in the afflicted. But shamelessness and lack of moral caution are always present in the unwholesome.
 
 ### Bhāṣya-informed study translation
 
-> Delusion, heedlessness, laziness, lack of faith, sluggishness, and
-> agitation are always present in afflicted consciousness; shamelessness and
-> lack of moral caution are always present in unwholesome consciousness.
+> Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation are always present in afflicted consciousness; shamelessness and lack of moral caution are always present in unwholesome consciousness.
 
 ## 6. Philosophical Translation
 
-> The six occur always and only in afflicted consciousness; this
-> does not make them its only factors. The quoted ten count five
-> separate affliction factors and five afflicted modes of universal
-> factors. Sluggishness completes the six. Predominance names a
-> disposition without separating sluggishness from agitation.
+> The six occur always and only in afflicted consciousness; this does not make them its only factors. The quoted ten count five separate affliction factors and five afflicted modes of universal factors. Sluggishness completes the six. Predominance names a disposition without separating sluggishness from agitation.
 
 ## 7. Technical Vocabulary
 
@@ -121,18 +106,13 @@ UNCAUTIOUS[SEM=<lack_caution>] -> 'anapatrapā'
 
 ## 8. Logical Determination
 
-**Kārikā with Bhāṣya-resolved second scope.** The lexical SEM
-records the six and the pair under their respective scopes. Prose
-checks add the six's restriction to afflicted consciousness and the
-interpretation of the quoted ten.
-Afflicted includes an illustrative non-unwholesome case; unwholesome
-is not substituted for the wider range.
+**Kārikā with Bhāṣya-resolved second scope.** The lexical SEM records the six and the pair under their respective scopes. Prose checks add the six's restriction to afflicted consciousness and the interpretation of the quoted ten. Afflicted includes an illustrative non-unwholesome case; unwholesome is not substituted for the wider range.
 
 ```nltk-sem
-presence : \f.\c.Present(c,f)
-afflicted_condition : \P.\c.(AfflictedMoment(c) -> P(c))
-always_scope : \P.all c.P(c)
-unwholesome_scope : \P.all c.(UnwholesomeMoment(c) -> P(c))
+presence : Present(c,delusion)
+afflicted_condition : AfflictedMoment(c) -> Present(c,delusion)
+always_scope : all c.Present(c,delusion)
+unwholesome_scope : all c.(UnwholesomeMoment(c) -> Present(c,shamelessness))
 ```
 
 ```nltk-fol
@@ -185,14 +165,7 @@ ModeOf => {(lost_mindfulness,mindfulness_kind),(distraction,concentration_kind),
 Present => {(unwholesome_moment,delusion_kind),(unwholesome_moment,heedlessness_kind),(unwholesome_moment,laziness_kind),(unwholesome_moment,faithlessness_kind),(unwholesome_moment,sluggishness_kind),(unwholesome_moment,agitation_kind),(unwholesome_moment,shamelessness_kind),(unwholesome_moment,lack_caution_kind),(unwholesome_moment,feeling_kind),(obscured_moment,delusion_kind),(obscured_moment,heedlessness_kind),(obscured_moment,laziness_kind),(obscured_moment,faithlessness_kind),(obscured_moment,sluggishness_kind),(obscured_moment,agitation_kind),(obscured_moment,feeling_kind),(clear_moment,feeling_kind)}
 ```
 
-The presence relation is a partial inventory: it omits the other
-universal factors rather than asserting their absence. ModeOf records
-the main explanation of the ten-recitation; only the first two
-identifications are explicitly glossed before “and so on.” Those
-who distinguish distraction from wrong concentration require a
-different analysis, not silently incorporated into this valuation.
-The fourfold comparison is about the quoted classifications, not
-whether feeling can occur in an afflicted episode.
+The presence relation is a partial inventory: it omits the other universal factors rather than asserting their absence. ModeOf records the main explanation of the ten-recitation; only the first two identifications are explicitly glossed before “and so on.” Those who distinguish distraction from wrong concentration require a different analysis, not silently incorporated into this valuation. The fourfold comparison is about the quoted classifications, not whether feeling can occur in an afflicted episode.
 
 ## 9. Interpretive Note
 
@@ -204,11 +177,7 @@ The first alternative does not say feeling cannot occur in afflicted consciousne
 
 The retort is damaged. Recitation against intention is the contrast. Not a restored first compound. Bodily sluggishness is the feeling analogy, not expanded, and not sleep.
 
-In the Organon reading, Cognition governs Perception and Conception
-without collapsing into consciousness or Mind. An afflicted mode
-of discriminative comprehension does not become a new governing
-Cognition. Class membership, occurrence, and predominance must
-retain their different logical roles.
+In the Organon reading, Cognition governs Perception and Conception without collapsing into consciousness or Mind. An afflicted mode of discriminative comprehension does not become a new governing Cognition. Class membership, occurrence, and predominance must retain their different logical roles.
 
 ## 10. OWL++ Seed
 

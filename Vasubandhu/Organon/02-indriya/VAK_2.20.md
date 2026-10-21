@@ -30,8 +30,7 @@ yukto bālas tathārūpye upekṣāyurmanaḥśubhaiḥ // 2.20 //
 
 Niḥśubha is severed wholesome roots. Śubha here is the five beginning with faith, not the three.
 
-**Grammar tokens.** External sandhi is opened, including *tathā ārūpye*.
-Compounds remain intact; their member-lists are resolved from the Bhāṣya.
+**Grammar tokens.** External sandhi is opened, including *tathā ārūpye*. Compounds remain intact; their member-lists are resolved from the Bhāṣya.
 
 ```text
 # tokens: sarvālpaiḥ niḥśubhaḥ aṣṭābhiḥ vit-manas-kāya-jīvitaiḥ yuktaḥ bālaḥ tathā ārūpye upekṣā-āyus-manas-śubhaiḥ
@@ -39,30 +38,23 @@ Compounds remain intact; their member-lists are resolved from the Bhāṣya.
 
 ## 4. Grammar
 
-The opening superlative sets the minimum question. Eight and the
-first instrumental compound predicate endowment of the root-severed
-person. Likewise carries that count to the Formless ordinary person,
-whose instrumental compound gives a different membership. Each
-compound builds an exact minimum-member set, without limiting actual
-possession to that set. Likewise does not carry severed roots into the
-second case. The prose restricts wholesome to the faith-group through
-both the count and ordinary-person status.
+The opening superlative sets the minimum question. Eight and the first instrumental compound predicate endowment of the root-severed person. Likewise carries that count to the Formless ordinary person, whose instrumental compound gives a different membership. Each compound builds an exact minimum-member set, without limiting actual possession to that set. Likewise does not carry severed roots into the second case. The prose restricts wholesome to the faith-group through both the count and ordinary-person status.
 
 ```nltk-fcfg
 % start S
 # tokens: sarvālpaiḥ niḥśubhaḥ aṣṭābhiḥ vit-manas-kāya-jīvitaiḥ yuktaḥ bālaḥ tathā ārūpye upekṣā-āyus-manas-śubhaiḥ
 S[SEM=<(?first & ?second)>] -> FIRST[SEM=?first] SECOND[SEM=?second]
-FIRST[SEM=<(?minimum(?case) & MinimumCount(?case,?count) & ?members(?case))>] -> MINIMUM[CASE=ins,SEM=?minimum] ROOTLESS[CASE=nom,GEN=m,SEM=?case] EIGHT[CASE=ins,CNT=8,SEM=?count] FIRSTSET[CASE=ins,SEM=?members] ENDOWED[CASE=nom,GEN=m]
-SECOND[SEM=<(MinimumCase(formless_ordinary) & ?same(formless_ordinary) & ?members(formless_ordinary))>] -> ORDINARY[CASE=nom,GEN=m] LIKEWISE[REF=minimum_eight,SEM=?same] FORMLESS[CASE=loc] SECONDSET[CASE=ins,RANGE=faith_five,SEM=?members]
-MINIMUM[CASE=ins,SEM=<\c.MinimumCase(c)>] -> 'sarvālpaiḥ'
-ROOTLESS[CASE=nom,GEN=m,SEM=<severed_roots>] -> 'niḥśubhaḥ'
-EIGHT[CASE=ins,CNT=8,SEM=<eight>] -> 'aṣṭābhiḥ'
-FIRSTSET[CASE=ins,SEM=<\c.all x.(MinimumMember(c,x) <-> (FeelingFive(x) | x = mind_f | x = body_f | x = life_f))>] -> 'vit-manas-kāya-jīvitaiḥ'
-ENDOWED[CASE=nom,GEN=m] -> 'yuktaḥ'
-ORDINARY[CASE=nom,GEN=m] -> 'bālaḥ'
-LIKEWISE[REF=minimum_eight,SEM=<\c.MinimumCount(c,eight)>] -> 'tathā'
-FORMLESS[CASE=loc] -> 'ārūpye'
-SECONDSET[CASE=ins,RANGE=faith_five,SEM=<\c.all x.(MinimumMember(c,x) <-> (CoreThree(x) | FaithFive(x)))>] -> 'upekṣā-āyus-manas-śubhaiḥ'
+FIRST[SEM=<MinimumCase(severed_roots) & MinimumCount(severed_roots,eight) & all x.(MinimumMember(severed_roots,x) <-> (FeelingFive(x) | x = mind_f | x = body_f | x = life_f))>] -> MINIMUM ROOTLESS EIGHT FIRSTSET ENDOWED
+MINIMUM -> 'sarvālpaiḥ'
+ROOTLESS -> 'niḥśubhaḥ'
+EIGHT -> 'aṣṭābhiḥ'
+FIRSTSET -> 'vit-manas-kāya-jīvitaiḥ'
+ENDOWED -> 'yuktaḥ'
+SECOND[SEM=<MinimumCase(formless_ordinary) & MinimumCount(formless_ordinary,eight) & all x.(MinimumMember(formless_ordinary,x) <-> (CoreThree(x) | FaithFive(x)))>] -> ORDINARY LIKEWISE FORMLESS SECONDSET
+ORDINARY -> 'bālaḥ'
+LIKEWISE -> 'tathā'
+FORMLESS -> 'ārūpye'
+SECONDSET -> 'upekṣā-āyus-manas-śubhaiḥ'
 ```
 
 ```nltk-dep
@@ -80,22 +72,15 @@ SECONDSET[CASE=ins,RANGE=faith_five,SEM=<\c.all x.(MinimumMember(c,x) <-> (CoreT
 
 ### Literal Translation
 
-> One without the wholesome is endowed, at the least, with eight: feeling,
-> mind, body, and life. Likewise an ordinary person in the formless realm,
-> with neutral feeling, life, mind, and the wholesome faculties.
+> One without the wholesome is endowed, at the least, with eight: feeling, mind, body, and life. Likewise an ordinary person in the formless realm, with neutral feeling, life, mind, and the wholesome faculties.
 
 ### Bhāṣya-informed study translation
 
-> At the minimum, one whose wholesome roots are severed possesses eight
-> Faculties: the five feelings, Mind, body, and life. Likewise, an ordinary
-> person in the Formless realm possesses eight: neutral feeling, life,
-> Mind, and the five beginning with faith.
+> At the minimum, one whose wholesome roots are severed possesses eight Faculties: the five feelings, Mind, body, and life. Likewise, an ordinary person in the Formless realm possesses eight: neutral feeling, life, Mind, and the five beginning with faith.
 
 ## 6. Philosophical Translation
 
-> The minimum count does not identify one universal eight-member set.
-> The two cases share neutral feeling, life, and Mind but differ in
-> the five Faculties completing their minima.
+> The minimum count does not identify one universal eight-member set. The two cases share neutral feeling, life, and Mind but differ in the five Faculties completing their minima.
 
 ## 7. Technical Vocabulary
 
@@ -110,16 +95,12 @@ SECONDSET[CASE=ins,RANGE=faith_five,SEM=<\c.all x.(MinimumMember(c,x) <-> (CoreT
 
 ## 8. Logical Determination
 
-**Kārikā, Bhāṣya-resolved.** The two instrumental compounds contribute
-separate minimum-member sets to the SEM. The Bhāṣya resolves `vit` as
-the five feelings and restricts local `śubha` to the five beginning
-with faith. The verse supplies the two cases and the shared eight-count.
-These are possession inventories, not simultaneous feeling-events.
+**Kārikā, Bhāṣya-resolved.** The two instrumental compounds contribute separate minimum-member sets to the SEM. The Bhāṣya resolves *vit* as the five feelings and restricts local *śubha* to the five beginning with faith. The verse supplies the two cases and the shared eight-count. These are possession inventories, not simultaneous feeling-events.
 
 ```nltk-sem
-minimum_count : \c.MinimumCount(c,eight)
-first_members : \c.all x.(MinimumMember(c,x) <-> (FeelingFive(x) | x = mind_f | x = body_f | x = life_f))
-second_members : \c.all x.(MinimumMember(c,x) <-> (CoreThree(x) | FaithFive(x)))
+minimum_count : MinimumCount(severed_roots,eight)
+first_members : all x.(MinimumMember(severed_roots,x) <-> (FeelingFive(x) | x = mind_f | x = body_f | x = life_f))
+second_members : all x.(MinimumMember(formless_ordinary,x) <-> (CoreThree(x) | FaithFive(x)))
 ```
 
 ```nltk-fol
@@ -165,23 +146,11 @@ MinimumMember => {(rootless_minimum,pain),(rootless_minimum,pleasure),(rootless_
 Possesses => {(illustrative_rootless_person,pain),(illustrative_rootless_person,pleasure),(illustrative_rootless_person,gladness),(illustrative_rootless_person,distress),(illustrative_rootless_person,neutral),(illustrative_rootless_person,mind),(illustrative_rootless_person,body),(illustrative_rootless_person,life),(illustrative_rootless_person,eye)}
 ```
 
-Each minimum has eight members; their intersection is the possession
-triad. The extra-eye case illustrates why the first minimum is not an
-exact total for every root-severed person. `LocalWholesome` records
-the verse's restricted reference; it does not deny that the three
-realization Faculties are wholesome. These finite checks establish
-membership and count consistency, not a proof that all possible
-possession configurations have at least eight.
+Each minimum has eight members; their intersection is the possession triad. The extra-eye case illustrates why the first minimum is not an exact total for every root-severed person. LocalWholesome records the verse's restricted reference; it does not deny that the three realization Faculties are wholesome. These finite checks establish membership and count consistency, not a proof that all possible possession configurations have at least eight.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): The fewest is eight. One whose wholesome roots are
-severed is endowed with the five feelings, body, mind, and life. An
-ordinary person in the formless realm is endowed with neutral feeling,
-life, mind, and the five beginning with faith. The path-faculties are
-excluded because the subject is eight and the subject is an ordinary
-person.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): The fewest is eight. One whose wholesome roots are severed is endowed with the five feelings, body, mind, and life. An ordinary person in the formless realm is endowed with neutral feeling, life, mind, and the five beginning with faith. The path-faculties are excluded because the subject is eight and the subject is an ordinary person.
 
 The question has changed. Not what one faculty entails. What is the fewest a possessor can have.
 

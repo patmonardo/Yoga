@@ -29,10 +29,7 @@ uttarottarasaṃprāptinirvāṇādyādhipatyataḥ // 2.4 //
 
 The short name is anājñātam ājñāsyāmi, I shall know what is not known.
 
-**Grammar tokens.** External sandhi is opened between the three named
-items. The final causal compound stays one token; its internal order is
-represented in `SEM`. No additional spoken Faculty or attainment word
-is inserted.
+**Grammar tokens.** External sandhi is opened between the three named items. The final causal compound stays one token; its internal order is represented in SEM. No additional spoken Faculty or attainment word is inserted.
 
 ```text
 # tokens: ājñāsyāmi-ākhyam ājñā-ākhyam ājñātāvi-indriyam tathā uttarottara-saṃprāpti-nirvāṇa-ādi-ādhipatyataḥ
@@ -40,53 +37,38 @@ is inserted.
 
 ## 4. Grammar
 
-The three names are neuter singular Faculty designations. *Tathā*
-distributes Facultyhood to each; the causal ablative assigns the first
-two to successive attainments and the third to *nirvāṇa*. The Bhāṣya
-confirms that distribution. `ALT=other_account` records the force of
-*ādi*, which introduces another explanation of the same three rather
-than a fourth Faculty or destination.
+The three names are neuter singular Faculty designations. *Tathā* distributes Facultyhood to each; the causal ablative assigns the first two to successive attainments and the third to *nirvāṇa*. The Bhāṣya confirms that distribution. The force of *ādi* introduces another explanation of the same three rather than a fourth Faculty or destination.
 
 ```nltk-fcfg
 % start S
 # tokens: ājñāsyāmi-ākhyam ājñā-ākhyam ājñātāvi-indriyam tathā uttarottara-saṃprāpti-nirvāṇa-ādi-ādhipatyataḥ
-S[SEM=<(?each & ?reason)>] -> FIRST[CASE=nom,NUM=sg,GEN=n,ROLE=first] SECOND[CASE=nom,NUM=sg,GEN=n,ROLE=second] THIRD[CASE=nom,NUM=sg,GEN=n,ROLE=third] TATHA[DISTR=each,SEM=?each] REASON[CASE=abl,ALT=other_account,ORDER=first_second_third,SEM=?reason]
-FIRST[CASE=nom,NUM=sg,GEN=n,ROLE=first] -> 'ājñāsyāmi-ākhyam'
-SECOND[CASE=nom,NUM=sg,GEN=n,ROLE=second] -> 'ājñā-ākhyam'
-THIRD[CASE=nom,NUM=sg,GEN=n,ROLE=third] -> 'ājñātāvi-indriyam'
-TATHA[DISTR=each,SEM=<(Faculty(shall_know_faculty) & Faculty(knowledge_faculty) & Faculty(has_known_faculty))>] -> 'tathā'
-REASON[CASE=abl,ALT=other_account,ORDER=first_second_third,SEM=<(GovernsAttainmentOf(shall_know_faculty,knowledge_faculty) & GovernsAttainmentOf(knowledge_faculty,has_known_faculty) & Governs(has_known_faculty,nirvana))>] -> 'uttarottara-saṃprāpti-nirvāṇa-ādi-ādhipatyataḥ'
+S[SEM=<(?each & ?reason)>] -> FIRST SECOND THIRD TATHA[SEM=?each] REASON[SEM=?reason]
+FIRST -> 'ājñāsyāmi-ākhyam'
+SECOND -> 'ājñā-ākhyam'
+THIRD -> 'ājñātāvi-indriyam'
+TATHA[SEM=<Faculty(shall_know_faculty) & Faculty(knowledge_faculty) & Faculty(has_known_faculty)>] -> 'tathā'
+REASON[SEM=<GovernsAttainmentOf(shall_know_faculty,knowledge_faculty) & GovernsAttainmentOf(knowledge_faculty,has_known_faculty) & Governs(has_known_faculty,nirvana)>] -> 'uttarottara-saṃprāpti-nirvāṇa-ādi-ādhipatyataḥ'
 ```
 
 ```nltk-dep
 'uttarottara-saṃprāpti-nirvāṇa-ādi-ādhipatyataḥ' -> 'ājñāsyāmi-ākhyam' | 'ājñā-ākhyam' | 'ājñātāvi-indriyam' | 'tathā'
 ```
 
-**Feature chart checkpoints.** The five tokens yield one root. The
-three `ROLE` features keep the named positions distinct; `DISTR=each`
-marks the scope of *tathā*. The causal compound carries the ordered
-first explanation, while `ALT=other_account` points to the separate
-Bhāṣya theory below. No unspoken Faculty or attainment token is added.
+**Feature chart checkpoints.** The five tokens yield one root. The three positions remain distinct; *tathā* distributes Facultyhood to each. The causal compound carries the ordered first explanation; *ādi* points to the separate Bhāṣya theory. No unspoken Faculty or attainment token is added.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Likewise, the one called “I shall know,” the one called knowledge, and the
-> faculty of one who has known, because of governing efficacy over
-> successive attainment, nirvāṇa, and the rest.
+> Likewise, the one called “I shall know,” the one called knowledge, and the faculty of one who has known, because of governing efficacy over successive attainment, nirvāṇa, and the rest.
 
 ### Bhāṣya-informed study translation
 
-> Likewise, each of the three is a Faculty: “I shall know” and “knowledge”
-> govern attainment of their respective successors, and “one who has
-> known” governs nirvāṇa; another account is also given.
+> Likewise, each of the three is a Faculty: “I shall know” and “knowledge” govern attainment of their respective successors, and “one who has known” governs nirvāṇa; another account is also given.
 
 ## 6. Philosophical Translation
 
-> The first two govern attainment of their successor Faculties; the
-> third governs nirvāṇa. The further account explains the same three
-> through abandonment and liberated abiding, without adding a fourth.
+> The first two govern attainment of their successor Faculties; the third governs nirvāṇa. The further account explains the same three through abandonment and liberated abiding, without adding a fourth.
 
 ## 7. Technical Vocabulary
 
@@ -106,11 +88,7 @@ Bhāṣya theory below. No unspoken Faculty or attainment token is added.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The parse predicates Faculty of each named item,
-assigns the first two to attainment of their respective successors,
-and assigns the third to *nirvāṇa*. This ordered distribution is
-Bhāṣya-informed. It neither adds a fourth Faculty nor identifies the
-verse's *nirvāṇa* with the prose's *parinirvāṇa*.
+**Kārikā, derived.** The parse predicates Faculty of each named item, assigns the first two to attainment of their respective successors, and assigns the third to *nirvāṇa*. This ordered distribution is Bhāṣya-informed. It neither adds a fourth Faculty nor identifies the verse's *nirvāṇa* with the prose's *parinirvāṇa*.
 
 ```nltk-sem
 each : Faculty(shall_know_faculty) & Faculty(knowledge_faculty) & Faculty(has_known_faculty)
@@ -145,13 +123,7 @@ exists x.((x = fourth_faculty) & GovernsAttainmentOf(has_known_faculty,x))
 all p.(PleasantAbiding(p) -> Parinirvanes(p))
 ```
 
-The first prose account specifies *parinirvāṇa* and says liberated mind
-is necessary for it; the rejected converse prevents sufficiency from
-being read into that claim. The second account, signalled by *ādi*,
-assigns abandonment by seeing, abandonment by cultivation, and
-pleasant abiding in this life to the same three Faculties. The two
-abandonment classes are not enumerated here. Present pleasant abiding
-is distinct from *parinirvāṇa* and from the checking in 2.03.
+The first prose account specifies *parinirvāṇa* and says liberated mind is necessary for it; the rejected converse prevents sufficiency from being read into that claim. The second account, signalled by *ādi*, assigns abandonment by seeing, abandonment by cultivation, and pleasant abiding in this life to the same three Faculties. The two abandonment classes are not enumerated here. Present pleasant abiding is distinct from *parinirvāṇa* and from the checking in 2.03.
 
 ```nltk-valuation
 shall_know_faculty => first_f
@@ -172,18 +144,11 @@ PleasantAbiding => {living_realized}
 ExperiencesLiberationJoyAndHappiness => {living_realized}
 ```
 
-The finite model witnesses the accepted and rejected readings. It does
-not identify verse *nirvāṇa* with prose *parinirvāṇa*, establish a full
-path-stage chronology, or prove that liberated mind suffices for final
-attainment. The seeing-abandonment reading depends on the marked
-Bhāṣya witness repair and remains provisional.
+The finite model witnesses the accepted and rejected readings. It does not identify verse *nirvāṇa* with prose *parinirvāṇa*, establish a full path-stage chronology, or prove that liberated mind suffices for final attainment. The seeing-abandonment reading depends on the marked Bhāṣya witness repair and remains provisional.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): The three complete the series. The first governs
-attainment of the next, the second governs attainment of the last, and the
-third governs parinirvāṇa. They are not tenses of one act.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): The three complete the series. The first governs attainment of the next, the second governs attainment of the last, and the third governs parinirvāṇa. They are not tenses of one act.
 
 2.03 took five of the eight. This verse takes the three that remain, and the twenty-two are named. Their constitution is not yet analyzed.
 

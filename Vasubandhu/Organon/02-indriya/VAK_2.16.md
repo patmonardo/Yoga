@@ -32,9 +32,7 @@ navāptir antyaphalayoḥ saptāṣṭanavabhir dvayoḥ // 2.16 //
 
 Antya is the extremes of the four, stream-entry and arhatship, not the last two in time. The instrument is faculties. The fruit is not the set.
 
-**Grammar tokens.** External sandhi is opened. Numeral compounds remain
-single tokens; the semantic projection expands their counts. The death
-clauses and the new fruit inquiry remain separate constituents.
+**Grammar tokens.** External sandhi is opened. Numeral compounds remain single tokens; the semantic projection expands their counts. The death clauses and the new fruit inquiry remain separate constituents.
 
 ```text
 # tokens: kramamṛtyau tu catvāri śubhe sarvatra pañca ca nava-āptiḥ antyaphalayoḥ sapta-aṣṭa-navabhiḥ dvayoḥ
@@ -42,34 +40,27 @@ clauses and the new fruit inquiry remain separate constituents.
 
 ## 4. Grammar
 
-The first two clauses complete the death count. The locative wholesome
-is resolved by the prose as wholesome consciousness; and adds five.
-The adverb `sarvatra` scopes the addition over each death context
-established in 2.15; it is not an unbound truth flag.
-The next nominative is attainment, with the dual extreme-fruit phrase
-specifying whose attainment. The final instrumental supplies three
-alternative counts for the other two fruits. The eleven-person
-discussion belongs to the next verse's opening, not this token stream.
+The first two clauses complete the death count. The locative wholesome is resolved by the prose as wholesome consciousness; and adds five. The adverb *sarvatra* scopes the addition over each death context established in 2.15; it is not an unbound truth flag. The next nominative is attainment, with the dual extreme-fruit phrase specifying whose attainment. The final instrumental supplies three alternative counts for the other two fruits. The eleven-person discussion belongs to the next verse's opening, not this token stream.
 
 ```nltk-fcfg
 % start S
 # tokens: kramamṛtyau tu catvāri śubhe sarvatra pañca ca nava-āptiḥ antyaphalayoḥ sapta-aṣṭa-navabhiḥ dvayoḥ
 S[SEM=<(?gradual & ?wholesome & ?extreme & ?middle)>] -> GRADUAL[SEM=?gradual] WHOLESOME[SEM=?wholesome] EXTREME[SEM=?extreme] MIDDLE[SEM=?middle]
-GRADUAL[SEM=<TerminalCount(?case,?count)>] -> GRADUALCASE[CASE=loc,SEM=?case] BUT FOUR[CNT=4,SEM=?count]
-WHOLESOME[SEM=<?every(\c.AdditionalCount(c,?count))>] -> WHOLESOMECASE[CASE=loc,QUALITY=wholesome] EVERYWHERE[SEM=?every] FIVE[CNT=5,SEM=?count] AND[SCOPE=addition]
-EXTREME[SEM=<?count(?group)>] -> NINEATTAINMENT[CASE=nom,CNT=9,SEM=?count] EXTREMES[CASE=gen,NUM=du,CNT=2,SEM=?group]
-MIDDLE[SEM=<?counts(?group)>] -> COUNTS[CASE=ins,COUNTS=seven_eight_nine,SEM=?counts] TWO[CASE=gen,NUM=du,CNT=2,REF=middle,SEM=?group]
-GRADUALCASE[CASE=loc,SEM=<gradual_death>] -> 'kramamṛtyau'
+GRADUAL[SEM=<TerminalCount(gradual_death,four)>] -> GRADUALCASE BUT FOUR
+GRADUALCASE -> 'kramamṛtyau'
 BUT -> 'tu'
-FOUR[CNT=4,SEM=<four>] -> 'catvāri'
-WHOLESOMECASE[CASE=loc,QUALITY=wholesome] -> 'śubhe'
-EVERYWHERE[SEM=<\P.all c.(TerminalContext(c) -> P(c))>] -> 'sarvatra'
-FIVE[CNT=5,SEM=<five>] -> 'pañca'
-AND[SCOPE=addition] -> 'ca'
-NINEATTAINMENT[CASE=nom,CNT=9,SEM=<\g.AttainmentCount(g,nine)>] -> 'nava-āptiḥ'
-EXTREMES[CASE=gen,NUM=du,CNT=2,SEM=<extreme_fruits>] -> 'antyaphalayoḥ'
-COUNTS[CASE=ins,COUNTS=seven_eight_nine,SEM=<\g.(AttainmentCount(g,seven) & AttainmentCount(g,eight) & AttainmentCount(g,nine))>] -> 'sapta-aṣṭa-navabhiḥ'
-TWO[CASE=gen,NUM=du,CNT=2,REF=middle,SEM=<middle_fruits>] -> 'dvayoḥ'
+FOUR -> 'catvāri'
+WHOLESOME[SEM=<all c.(TerminalContext(c) -> AdditionalCount(c,five))>] -> WHOLESOMECASE EVERYWHERE FIVE AND
+WHOLESOMECASE -> 'śubhe'
+EVERYWHERE -> 'sarvatra'
+FIVE -> 'pañca'
+AND -> 'ca'
+EXTREME[SEM=<AttainmentCount(extreme_fruits,nine)>] -> NINEATTAINMENT EXTREMES
+NINEATTAINMENT -> 'nava-āptiḥ'
+EXTREMES -> 'antyaphalayoḥ'
+MIDDLE[SEM=<AttainmentCount(middle_fruits,seven) & AttainmentCount(middle_fruits,eight) & AttainmentCount(middle_fruits,nine)>] -> COUNTS TWO
+COUNTS -> 'sapta-aṣṭa-navabhiḥ'
+TWO -> 'dvayoḥ'
 ```
 
 ```nltk-dep
@@ -91,16 +82,11 @@ TWO[CASE=gen,NUM=du,CNT=2,REF=middle,SEM=<middle_fruits>] -> 'dvayoḥ'
 
 ### Literal Translation
 
-> In gradual death, however, four. With a wholesome mind, everywhere five in
-> addition. Attainment of the two extreme fruits is through nine. Of the
-> two, through seven, eight, or nine.
+> In gradual death, however, four. With a wholesome mind, everywhere five in addition. Attainment of the two extreme fruits is through nine. Of the two, through seven, eight, or nine.
 
 ### Bhāṣya-informed study translation
 
-> In gradual death, however, four; with wholesome consciousness,
-> everywhere five in addition. The two extreme fruits, stream-entry and
-> arhatship, are attained through nine Faculties; the two middle fruits,
-> once-returning and non-returning, through seven, eight, or nine.
+> In gradual death, however, four; with wholesome consciousness, everywhere five in addition. The two extreme fruits, stream-entry and arhatship, are attained through nine Faculties; the two middle fruits, once-returning and non-returning, through seven, eight, or nine.
 
 ## 6. Philosophical Translation
 
@@ -122,15 +108,11 @@ TWO[CASE=gen,NUM=du,CNT=2,REF=middle,SEM=<middle_fruits>] -> 'dvayoḥ'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The root SEM scopes the wholesome five over every
-stated terminal context and preserves the two fruit groups. This
-quantifier checks the addition against all six contexts modeled in 2.15.
-Count alternatives are route-dependent, not three incompatible totals
-for one event.
+**Kārikā, derived.** The root SEM scopes the wholesome five over every stated terminal context and preserves the two fruit groups. This quantifier checks the addition against all six contexts modeled in 2.15. Count alternatives are route-dependent, not three incompatible totals for one event.
 
 ```nltk-sem
-extreme_count : \g.AttainmentCount(g,nine)
-middle_counts : \g.(AttainmentCount(g,seven) & AttainmentCount(g,eight) & AttainmentCount(g,nine))
+extreme_count : AttainmentCount(extreme_fruits,nine)
+middle_counts : AttainmentCount(middle_fruits,seven) & AttainmentCount(middle_fruits,eight) & AttainmentCount(middle_fruits,nine)
 wholesome_addition : all c.(TerminalContext(c) -> AdditionalCount(c,five))
 ```
 
@@ -217,28 +199,13 @@ ByPerson => {(attainment_pleasure,person),(attainment_gladness,person),(attainme
 UsesFeeling => {(attainment_pleasure,pleasure),(attainment_gladness,gladness),(attainment_neutral,neutral)}
 ```
 
-Each arhatship set is the fixed eight plus one feeling, hence nine.
-Their union for the represented person is eleven across repeated
-attainments, not eleven at once. Even a nine-count may combine two
-Path-stages. The sharp-route sets likewise count neutral feeling and
-gladness across stages; they do not assert simultaneous feelings.
-Cardinality tests check these unions separately from the finite-model
-formulas. The model does not establish the possibility of relapse;
-it represents the Bhāṣya's reported answer.
+Each arhatship set is the fixed eight plus one feeling, hence nine. Their union for the represented person is eleven across repeated attainments, not eleven at once. Even a nine-count may combine two Path-stages. The sharp-route sets likewise count neutral feeling and gladness across stages; they do not assert simultaneous feelings. Cardinality tests check these unions separately from the finite-model formulas. The model does not establish the possibility of relapse; it represents the Bhāṣya's reported answer.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): The extreme fruits are attained through nine.
-Stream-entry takes the five beginning with faith, excluding one who has
-known, with mind and neutral feeling. Arhatship takes the five, excluding
-“I shall know,” with mind and any one feeling. The middle fruits take
-seven, eight, or nine according to route. Eleven is not a simultaneous
-count. It is one person attaining again across different feelings.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): The extreme fruits are attained through nine. Stream-entry takes the five beginning with faith, excluding one who has known, with mind and neutral feeling. Arhatship takes the five, excluding “I shall know,” with mind and any one feeling. The middle fruits take seven, eight, or nine according to route. Eleven is not a simultaneous count. It is one person attaining again across different feelings.
 
-The death clauses are numbered in this verse and studied with the
-continuous death unit at 2.15. Four do not cease separately in that
-terminal context. Five are added with wholesome consciousness.
+The death clauses are numbered in this verse and studied with the continuous death unit at 2.15. Four do not cease separately in that terminal context. Five are added with wholesome consciousness.
 
 Extreme is first and last, not the last two. The stream-entry nine includes two path-names. They are not nine factors in one moment. Arhatship says any one feeling, not three together. That prepares the eleven.
 

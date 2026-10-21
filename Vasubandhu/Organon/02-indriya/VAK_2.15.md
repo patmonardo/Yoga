@@ -32,10 +32,7 @@ upekṣāṃ caiva rūpe 'ṣṭau kāme daśa navāṣṭau vā // 2.15 //
 
 Nirodha here is cessation of possessed faculties at death. It is not abandonment, and it is not the deferred identity.
 
-**Grammar tokens.** Sandhi is opened where secure. The uncertain opening
-sequence is retained as a single token, `uparamān-nārūpye`; its semantic
-projection is explicitly Bhāṣya-resolved, not a settled morphological
-analysis. The Sanskrit witness remains unchanged.
+**Grammar tokens.** Sandhi is opened where secure. The uncertain opening sequence is retained as a single token, `uparamān-nārūpye`; its semantic projection is explicitly Bhāṣya-resolved, not a settled morphological analysis. The Sanskrit witness remains unchanged.
 
 ```text
 # tokens: nirodhayati uparamān-nārūpye jīvitam manaḥ upekṣām ca eva rūpe aṣṭau kāme daśa nava aṣṭau vā
@@ -43,39 +40,31 @@ analysis. The Sanskrit witness remains unchanged.
 
 ## 4. Grammar
 
-The named accusatives identify the Formless terminal set. Later numerals
-resume the cessation predicate in the other realms. The prose assigns
-the Desire-realm alternatives to sexual characteristics and restricts
-the base counts to afflicted or indeterminate consciousness. Gradual
-death and the wholesome addition come from the next verse's opening,
-not from tokens silently inserted into this verse. The shared
-`SCOPE=death_cessation` feature carries the opening predicate through
-the later realm counts without settling the uncertain opening words.
+The named accusatives identify the Formless terminal set. Later numerals resume the cessation predicate in the other realms. The prose assigns the Desire-realm alternatives to sexual characteristics and restricts the base counts to afflicted or indeterminate consciousness. Gradual death and the wholesome addition come from the next verse's opening, not from tokens silently inserted into this verse. The shared death-cessation scope carries the opening predicate through the later realm counts without settling the uncertain opening words.
 
 ```nltk-fcfg
 % start S
 # tokens: nirodhayati uparamān-nārūpye jīvitam manaḥ upekṣām ca eva rūpe aṣṭau kāme daśa nava aṣṭau vā
-S[SEM=<(?formless & ?form & ?desire)>] -> FORMLESS[SCOPE=?s,SEM=?formless] FORM[SCOPE=?s,SEM=?form] DESIRE[SCOPE=?s,SEM=?desire]
-FORMLESS[SCOPE=death_cessation,SEM=<(DeathCessationScope & ?member(?life,?case) & ?member(?mind,?case) & ?member(?neutral,?case))>] -> CEASE[SEM=?member] OPENING[WITNESS=uncertain,SUPPLIED=prose,SEM=?case] LIFE[CASE=acc,SEM=?life] MIND[CASE=acc,SEM=?mind] NEUTRAL[CASE=acc,SEM=?neutral] AND EMPHASIS
-FORM[SCOPE=death_cessation,SEM=<TerminalCount(?case,?count)>] -> FORMR[CASE=loc,SEM=?case] EIGHT[CNT=8,SEM=?count]
-DESIRE[SCOPE=death_cessation,SEM=<(AlternativeCount(?case,?ten) & AlternativeCount(?case,?nine) & AlternativeCount(?case,?eight))>] -> DESIRER[CASE=loc,SEM=?case] TEN[CNT=10,SEM=?ten] NINE[CNT=9,SEM=?nine] EIGHT[CNT=8,SEM=?eight] OR
-CEASE[SEM=<\f.\c.CeasesAt(f,c)>] -> 'nirodhayati'
-OPENING[WITNESS=uncertain,SUPPLIED=prose,SEM=<formless_base>] -> 'uparamān-nārūpye'
-LIFE[CASE=acc,SEM=<life_f>] -> 'jīvitam'
-MIND[CASE=acc,SEM=<mind_f>] -> 'manaḥ'
-NEUTRAL[CASE=acc,SEM=<neutral_f>] -> 'upekṣām'
+S[SEM=<(?formless & ?form & ?desire)>] -> FORMLESS[SEM=?formless] FORM[SEM=?form] DESIRE[SEM=?desire]
+FORMLESS[SEM=<DeathCessationScope & CeasesAt(life_f,formless_base) & CeasesAt(mind_f,formless_base) & CeasesAt(neutral_f,formless_base)>] -> CEASE OPENING LIFE MIND NEUTRAL AND EMPHASIS
+CEASE -> 'nirodhayati'
+OPENING -> 'uparamān-nārūpye'
+LIFE -> 'jīvitam'
+MIND -> 'manaḥ'
+NEUTRAL -> 'upekṣām'
 AND -> 'ca'
 EMPHASIS -> 'eva'
-FORMR[CASE=loc,SEM=<form_base>] -> 'rūpe'
-EIGHT[CNT=8,SEM=<eight>] -> 'aṣṭau'
-DESIRER[CASE=loc,SEM=<desire_base>] -> 'kāme'
-TEN[CNT=10,SEM=<ten>] -> 'daśa'
-NINE[CNT=9,SEM=<nine>] -> 'nava'
+FORM[SEM=<TerminalCount(form_base,eight)>] -> FORMR EIGHT
+FORMR -> 'rūpe'
+EIGHT -> 'aṣṭau'
+DESIRE[SEM=<AlternativeCount(desire_base,ten) & AlternativeCount(desire_base,nine) & AlternativeCount(desire_base,eight)>] -> DESIRER TEN NINE EIGHT OR
+DESIRER -> 'kāme'
+TEN -> 'daśa'
+NINE -> 'nava'
 OR -> 'vā'
 ```
 
-The causative supplies the cessation relation; the death question and
-uncertain opening supply its context, not an intention to cause death.
+The causative supplies the cessation relation; the death question and uncertain opening supply its context, not an intention to cause death.
 
 ```nltk-dep
 'nirodhayati' -> 'uparamān-nārūpye' | 'jīvitam' | 'manaḥ' | 'upekṣām' | 'ca' | 'eva' | 'rūpe' | 'kāme'
@@ -94,21 +83,15 @@ uncertain opening supply its context, not an intention to cause death.
 
 ### Literal Translation
 
-> Brings to cessation, at death in the formless realm, life, mind, and
-> neutral feeling. In the form realm, eight. In the desire realm, ten, nine,
-> or eight.
+> Brings to cessation, at death in the formless realm, life, mind, and neutral feeling. In the form realm, eight. In the desire realm, ten, nine, or eight.
 
 ### Bhāṣya-informed study translation
 
-> One dying in the Formless realm brings life, Mind, and neutral feeling
-> to cessation; in the Form realm, eight Faculties; in the Desire-realm,
-> ten, nine, or eight.
+> One dying in the Formless realm brings life, Mind, and neutral feeling to cessation; in the Form realm, eight Faculties; in the Desire-realm, ten, nine, or eight.
 
 ## 6. Philosophical Translation
 
-> The terminal count is not initial maturation in reverse. The count
-> depends on realm, mode of dying, sexual characteristics, and the
-> ethical quality of the final consciousness.
+> The terminal count is not initial maturation in reverse. The count depends on realm, mode of dying, sexual characteristics, and the ethical quality of the final consciousness.
 
 ## 7. Technical Vocabulary
 
@@ -124,16 +107,11 @@ uncertain opening supply its context, not an intention to cause death.
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The named Formless members, Form count, and
-Desire-realm alternatives are the verse-derived claims. The base-case
-qualification, exact member-sets, gradual case, and wholesome addition
-are supplied by the continuous Bhāṣya, including its cross-verse
-continuation. The prose model makes the Desire-realm alternatives
-explicit and applies the five-Faculty addition to every stated case.
+**Kārikā, derived.** The named Formless members, Form count, and Desire-realm alternatives are the verse-derived claims. The base-case qualification, exact member-sets, gradual case, and wholesome addition are supplied by the continuous Bhāṣya, including its cross-verse continuation. The prose model makes the Desire-realm alternatives explicit and applies the five-Faculty addition to every stated case.
 
 ```nltk-sem
-terminal_member : \f.\c.CeasesAt(f,c)
-terminal_count : \c.\n.TerminalCount(c,n)
+terminal_member : CeasesAt(life_f,formless_base)
+terminal_count : TerminalCount(form_base,eight)
 death_scope : DeathCessationScope
 ```
 
@@ -211,23 +189,11 @@ AdditionalCount => {(wholesome_consciousness,count_five)}
 CeasesWholesomely => {(life,formless_terminal),(mind,formless_terminal),(neutral,formless_terminal),(faith,formless_terminal),(vigor,formless_terminal),(mindfulness,formless_terminal),(concentration,formless_terminal),(comprehension,formless_terminal),(life,form_terminal),(mind,form_terminal),(neutral,form_terminal),(eye,form_terminal),(ear,form_terminal),(nose,form_terminal),(tongue,form_terminal),(body,form_terminal),(faith,form_terminal),(vigor,form_terminal),(mindfulness,form_terminal),(concentration,form_terminal),(comprehension,form_terminal),(life,desire_no_marks),(mind,desire_no_marks),(neutral,desire_no_marks),(eye,desire_no_marks),(ear,desire_no_marks),(nose,desire_no_marks),(tongue,desire_no_marks),(body,desire_no_marks),(faith,desire_no_marks),(vigor,desire_no_marks),(mindfulness,desire_no_marks),(concentration,desire_no_marks),(comprehension,desire_no_marks),(life,desire_one_mark),(mind,desire_one_mark),(neutral,desire_one_mark),(eye,desire_one_mark),(ear,desire_one_mark),(nose,desire_one_mark),(tongue,desire_one_mark),(body,desire_one_mark),(male,desire_one_mark),(faith,desire_one_mark),(vigor,desire_one_mark),(mindfulness,desire_one_mark),(concentration,desire_one_mark),(comprehension,desire_one_mark),(life,desire_both_marks),(mind,desire_both_marks),(neutral,desire_both_marks),(eye,desire_both_marks),(ear,desire_both_marks),(nose,desire_both_marks),(tongue,desire_both_marks),(body,desire_both_marks),(female,desire_both_marks),(male,desire_both_marks),(faith,desire_both_marks),(vigor,desire_both_marks),(mindfulness,desire_both_marks),(concentration,desire_both_marks),(comprehension,desire_both_marks),(body,gradual_terminal),(life,gradual_terminal),(mind,gradual_terminal),(neutral,gradual_terminal),(faith,gradual_terminal),(vigor,gradual_terminal),(mindfulness,gradual_terminal),(concentration,gradual_terminal),(comprehension,gradual_terminal)}
 ```
 
-The sensory five and the five beginning with faith are different sets.
-The Desire-realm base sets add neither, one, or both sexual Faculties
-to the Form terminal eight. `TerminalContext` ranges over those three
-cases, Formless, Form, and gradual death. Wholesome counts are
-the respective base counts plus five: 8, 13, 15/14/13, and 9 for gradual death. Only the
-Formless eight and Form thirteen are expressly recited; the others
-are calculated from the stated addition. These checks do not settle
-the uncertain opening wording or prove the account of dying.
+The sensory five and the five beginning with faith are different sets. The Desire-realm base sets add neither, one, or both sexual Faculties to the Form terminal eight. TerminalContext ranges over those three cases, Formless, Form, and gradual death. Wholesome counts are the respective base counts plus five: 8, 13, 15/14/13, and 9 for gradual death. Only the Formless eight and Form thirteen are expressly recited; the others are calculated from the stated addition. These checks do not settle the uncertain opening wording or prove the account of dying.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): One dying in the formless realm brings to cessation
-life, mind, and neutral feeling. In the form realm, eight: those three and
-the five beginning with the eye. In the desire realm, ten, nine, or eight,
-according to sexual characteristic: ten with both sex faculties, nine with
-one, eight with neither.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): One dying in the formless realm brings to cessation life, mind, and neutral feeling. In the form realm, eight: those three and the five beginning with the eye. In the desire realm, ten, nine, or eight, according to sexual characteristic: ten with both sex faculties, nine with one, eight with neither.
 
 2.14 asked what is first acquired as maturation. Mind and neutral feeling were present and not in that count. Here they cease. The inventories are not the same list run backward.
 

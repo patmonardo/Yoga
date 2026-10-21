@@ -33,28 +33,22 @@ Ordinary person is the path-status. Not an insult. Not a nature.
 
 ## 4. Grammar
 
-The opening inherits “threefold” from 2.39 but now classifies by
-Realm rather than time. The identification of ordinary-person
-status retains *iṣyate*, “is held.” The last clause returns to
-non-acquisition generally: *tat* refers to the dharma not acquired,
-not only to the path. The prose makes “relinquished” precise as
-arising of non-acquisition of that non-acquisition and severance
-of its acquisition, within the account under discussion.
+The opening inherits “threefold” from 2.39 but now classifies by Realm rather than time. The identification of ordinary-person status retains *iṣyate*, “is held.” The last clause returns to non-acquisition generally: *tat* refers to the dharma not acquired, not only to the path. The prose makes “relinquished” precise as arising of non-acquisition of that non-acquisition and severance of its acquisition, within the account under discussion.
 
 ```nltk-fcfg
 % start S
 # tokens: kāmādyāptāmalānām ca mārgasya aprāptiḥ iṣyate pṛthagjanatvam tatprāptibhūsaṃcārāt vihīyate
 S[SEM=<(?realm & ?status & ?relinquishment)>] -> REALMS[SEM=?realm] STATUS[SEM=?status] RELINQUISHMENT[SEM=?relinquishment]
-REALMS[SEM=<(all x y.((DharmaClass(x) & Realm(y)) -> NonAcquisitionRealm(x,y)) & -Realm(uncontaminated))>] -> CLASSES[CASE=gen,NUM=pl,CNT=4] ALSO[INHERITS=threefold_realm]
-STATUS[SEM=<HeldIdentification(path_nonacquisition,ordinary_status)>] -> PATH[CASE=gen] NONACQUISITION[CASE=nom] HELD[VOICE=reported] ORDINARY[CASE=nom]
-RELINQUISHMENT[SEM=<(RelinquishmentGround(nonacquisition,acquiring_that_dharma) & RelinquishmentGround(nonacquisition,level_transition))>] -> GROUNDS[CASE=abl,CNT=2,REF=that_dharma] RELINQUISHED
-CLASSES[CASE=gen,NUM=pl,CNT=4] -> 'kāmādyāptāmalānām'
-ALSO[INHERITS=threefold_realm] -> 'ca'
-PATH[CASE=gen] -> 'mārgasya'
-NONACQUISITION[CASE=nom] -> 'aprāptiḥ'
-HELD[VOICE=reported] -> 'iṣyate'
-ORDINARY[CASE=nom] -> 'pṛthagjanatvam'
-GROUNDS[CASE=abl,CNT=2,REF=that_dharma] -> 'tatprāptibhūsaṃcārāt'
+REALMS[SEM=<all x y.((DharmaClass(x) & Realm(y)) -> NonAcquisitionRealm(x,y)) & -Realm(uncontaminated)>] -> CLASSES ALSO
+CLASSES -> 'kāmādyāptāmalānām'
+ALSO -> 'ca'
+STATUS[SEM=<HeldIdentification(path_nonacquisition,ordinary_status)>] -> PATH NONACQUISITION HELD ORDINARY
+PATH -> 'mārgasya'
+NONACQUISITION -> 'aprāptiḥ'
+HELD -> 'iṣyate'
+ORDINARY -> 'pṛthagjanatvam'
+RELINQUISHMENT[SEM=<RelinquishmentGround(nonacquisition,acquiring_that_dharma) & RelinquishmentGround(nonacquisition,level_transition)>] -> GROUNDS RELINQUISHED
+GROUNDS -> 'tatprāptibhūsaṃcārāt'
 RELINQUISHED -> 'vihīyate'
 ```
 
@@ -65,34 +59,21 @@ RELINQUISHED -> 'vihīyate'
 'vihīyate' -> 'tatprāptibhūsaṃcārāt'
 ```
 
-The constituent spans are [0, 2), [2, 6), and [6, 8).
-The two grounds are retained as such, not promoted to an exhaustive
-causal theory. Transition of level relinquishes the relevant
-level-specific non-acquisition; it is not attainment of the noble path.
+The constituent spans are [0, 2), [2, 6), and [6, 8). The two grounds are retained as such, not promoted to an exhaustive causal theory. Transition of level relinquishes the relevant level-specific non-acquisition; it is not attainment of the noble path.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Of dharmas included in Desire and the other Realms, and of the
-> uncontaminated, [non-acquisition is threefold]. Non-acquisition of
-> the path is held to be ordinary-person status. [Non-acquisition]
-> is relinquished through acquisition of that [dharma] or transition
-> of level.
+> Of dharmas included in Desire and the other Realms, and of the uncontaminated, [non-acquisition is threefold]. Non-acquisition of the path is held to be ordinary-person status. [Non-acquisition] is relinquished through acquisition of that [dharma] or transition of level.
+
 ### Bhāṣya-informed study translation
 
-> Non-acquisition of dharmas included in the Desire, Form, and Formless
-> Realms, and of uncontaminated dharmas, may belong to any of the three
-> Realms. Non-acquisition of the path is held to be ordinary-person
-> status. Non-acquisition is relinquished through acquisition of the
-> dharma concerned or through transition of level.
+> Non-acquisition of dharmas included in the Desire, Form, and Formless Realms, and of uncontaminated dharmas, may belong to any of the three Realms. Non-acquisition of the path is held to be ordinary-person status. Non-acquisition is relinquished through acquisition of the dharma concerned or through transition of level.
+
 ## 6. Philosophical Translation
 
-> Non-acquisition is never itself uncontaminated. Its identification
-> with ordinary-person status must distinguish having attained no noble
-> dharma from merely lacking some noble dharma. The competing account
-> locates ordinary status in a continuum where noble dharmas have not
-> arisen; the ontological dispute remains open.
+> Non-acquisition is never itself uncontaminated. Its identification with ordinary-person status must distinguish having attained no noble dharma from merely lacking some noble dharma. The competing account locates ordinary status in a continuum where noble dharmas have not arisen; the ontological dispute remains open.
 
 ## 7. Technical Vocabulary
 
@@ -109,7 +90,7 @@ level-specific non-acquisition; it is not attainment of the noble path.
 
 ```nltk-sem
 realm_range : all x y.((DharmaClass(x) & Realm(y)) -> NonAcquisitionRealm(x,y))
-ordinary_test : \x.(Person(x) & -exists y.(NobleDharma(y) & HasAttained(x,y)))
+ordinary_test : all x.(Person(x) & -exists y.(NobleDharma(y) & HasAttained(x,y)))
 ```
 
 ```nltk-fol
@@ -160,29 +141,13 @@ OrdinaryByAbsence => {ordinary_person}
 Secures => {(primary_acquisition_token,base_dharma_token),(primary_acquisition_token,higher_acquisition_token),(higher_acquisition_token,primary_acquisition_token)}
 ```
 
-The person/attainment inventory is illustrative, not a complete
-account of the Buddha's attainments. It tests the cited lineage
-counterexample and quantifier distinction. The three-token
-mutual-possession graph illustrates the reported reply, not its
-ontological truth or a bound on later proliferation. The prose's
-second- and third-moment counts, six and eighteen new acquisitions,
-are preserved in the Bhāṣya rather than replaced by a fabricated
-finite proof of the infinite-series critique.
+The person/attainment inventory is illustrative, not a complete account of the Buddha's attainments. It tests the cited lineage counterexample and quantifier distinction. The three-token mutual-possession graph illustrates the reported reply, not its ontological truth or a bound on later proliferation. The prose's second- and third-moment counts, six and eighteen new acquisitions, are preserved in the Bhāṣya rather than replaced by a fabricated finite proof of the infinite-series critique.
 
 ## 9. Interpretive Note
 
-**Translation note.** The commentary completes the threefold rule for
-non-acquisition in 2.39, now by Realm. It qualifies the absence
-defining ordinary status, reports another narrower definition,
-and explicitly names the Sautrāntika alternative. Relinquishment
-returns to non-acquisition generally before the regress discussion.
+**Translation note.** The commentary completes the threefold rule for non-acquisition in 2.39, now by Realm. It qualifies the absence defining ordinary status, reports another narrower definition, and explicitly names the Sautrāntika alternative. Relinquishment returns to non-acquisition generally before the regress discussion.
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, without becoming consciousness
-or Mind. The negative side of the acquisition dyad requires scope
-and quantification: lacking some determination is not lacking every
-attainment. Mutual possession can answer a linear regress objection
-without answering the critic's separate objection to proliferation.
+In the Organon reading, Cognition joins and governs Perception and Conception and guides the Dharma Base, without becoming consciousness or Mind. The negative side of the acquisition dyad requires scope and quantification: lacking some determination is not lacking every attainment. Mutual possession can answer a linear regress objection without answering the critic's separate objection to proliferation.
 
 ## 10. OWL++ Seed
 

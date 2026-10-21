@@ -31,46 +31,39 @@ nirodhākhyā tathaiveyaṃ vihārārthaṃ bhavāgrajā /
 | āpyā | nom. sg. f.; gerundive of √āp | to be acquired |
 | prayogataḥ | adverbial ablative in -tas | through application |
 
-The prose specifies peaceful abiding and the Essence of neither
-reflection nor non-reflection. Unfixed concerns maturation, not
-ethical indeterminacy. Sandhi is opened for parsing.
+The prose specifies peaceful abiding and the Essence of neither reflection nor non-reflection. Unfixed concerns maturation, not ethical indeterminacy. Sandhi is opened for parsing.
 
 ```text
 # tokens: nirodhākhyā tathā eva iyam vihārārtham bhavāgrajā śubhā dvivedyā aniyatā ca āryasya āpyā prayogataḥ
 ```
+
 ## 4. Grammar
 
-“Likewise” supplies cessation of consciousness and mental factors,
-not the other attainment's purpose, level, or maturation timing.
-The prose resolves the two times as next rebirth and a later
-existence, while unfixed allows non-maturation. The acquisition
-clause states the application rule for noble persons; the Buddha
-exception is introduced by the following verse, not silently
-folded into this clause.
+“Likewise” supplies cessation of consciousness and mental factors, not the other attainment's purpose, level, or maturation timing. The prose resolves the two times as next rebirth and a later existence, while unfixed allows non-maturation. The acquisition clause states the application rule for noble persons; the Buddha exception is introduced by the following verse, not silently folded into this clause.
 
 ```nltk-fcfg
 % start S
 # tokens: nirodhākhyā tathā eva iyam vihārārtham bhavāgrajā śubhā dvivedyā aniyatā ca āryasya āpyā prayogataḥ
 S[SEM=<(?cessation & ?purpose & ?level & ?ethical & ?timing & ?acquisition)>] -> CESSATION[SEM=?cessation] PURPOSE[SEM=?purpose] LEVEL[SEM=?level] ETHICAL[SEM=?ethical] TIMING[SEM=?timing] ACQUISITION[SEM=?acquisition]
-CESSATION[SEM=<CessationOf(attainment,consciousness_and_factors)>] -> NAMED[CASE=nom] LIKEWISE[CARRIES=cessation_only] EMPHATIC THIS[CASE=nom]
-PURPOSE[SEM=<Purpose(attainment,peaceful_abiding)>] -> ABIDING[PURPOSE=peaceful_abiding]
-LEVEL[SEM=<AtLevel(attainment,summit)>] -> SUMMIT[CASE=nom]
-ETHICAL[SEM=<Wholesome(attainment)>] -> WHOLESOME[CASE=nom]
-TIMING[SEM=<(all x.(MaturationOption(attainment,x) <-> (x = next_rebirth | x = later_existence)) & UnfixedMaturation(attainment))>] -> TWO[CNT=2] UNFIXED[AXIS=maturation] AND
-ACQUISITION[SEM=<(RestrictedTo(attainment,noble) & AcquisitionRule(attainment,application))>] -> NOBLE[CASE=gen] ACQUIRABLE[CASE=nom] APPLICATION[FORM=tas]
-NAMED[CASE=nom] -> 'nirodhākhyā'
-LIKEWISE[CARRIES=cessation_only] -> 'tathā'
+CESSATION[SEM=<CessationOf(attainment,consciousness_and_factors)>] -> NAMED LIKEWISE EMPHATIC THIS
+NAMED -> 'nirodhākhyā'
+LIKEWISE -> 'tathā'
 EMPHATIC -> 'eva'
-THIS[CASE=nom] -> 'iyam'
-ABIDING[PURPOSE=peaceful_abiding] -> 'vihārārtham'
-SUMMIT[CASE=nom] -> 'bhavāgrajā'
-WHOLESOME[CASE=nom] -> 'śubhā'
-TWO[CNT=2] -> 'dvivedyā'
-UNFIXED[AXIS=maturation] -> 'aniyatā'
+THIS -> 'iyam'
+PURPOSE[SEM=<Purpose(attainment,peaceful_abiding)>] -> ABIDING
+ABIDING -> 'vihārārtham'
+LEVEL[SEM=<AtLevel(attainment,summit)>] -> SUMMIT
+SUMMIT -> 'bhavāgrajā'
+ETHICAL[SEM=<Wholesome(attainment)>] -> WHOLESOME
+WHOLESOME -> 'śubhā'
+TIMING[SEM=<all x.(MaturationOption(attainment,x) <-> (x = next_rebirth | x = later_existence)) & UnfixedMaturation(attainment)>] -> TWO UNFIXED AND
+TWO -> 'dvivedyā'
+UNFIXED -> 'aniyatā'
 AND -> 'ca'
-NOBLE[CASE=gen] -> 'āryasya'
-ACQUIRABLE[CASE=nom] -> 'āpyā'
-APPLICATION[FORM=tas] -> 'prayogataḥ'
+ACQUISITION[SEM=<RestrictedTo(attainment,noble) & AcquisitionRule(attainment,application)>] -> NOBLE ACQUIRABLE APPLICATION
+NOBLE -> 'āryasya'
+ACQUIRABLE -> 'āpyā'
+APPLICATION -> 'prayogataḥ'
 ```
 
 ```nltk-dep
@@ -86,24 +79,15 @@ The six constituent lengths are 4, 1, 1, 1, 3, and 3.
 
 ### Literal Translation
 
-> This attainment, called cessation, is likewise for the sake of abiding and
-> is born of the summit of existence. It is wholesome, to be experienced at
-> two times or unfixed, belongs to a noble person, and is acquired through
-> application.
+> This attainment, called cessation, is likewise for the sake of abiding and is born of the summit of existence. It is wholesome, to be experienced at two times or unfixed, belongs to a noble person, and is acquired through application.
+
 ### Bhāṣya-informed study translation
 
-> The attainment called cessation is likewise cessation of consciousness
-> and the mental factors. It is entered for peaceful abiding and belongs
-> to the summit of existence. It is wholesome; its maturation may be
-> experienced in the next rebirth or a later existence, or may not occur.
-> It is restricted to noble persons and is acquired through application.
+> The attainment called cessation is likewise cessation of consciousness and the mental factors. It is entered for peaceful abiding and belongs to the summit of existence. It is wholesome; its maturation may be experienced in the next rebirth or a later existence, or may not occur. It is restricted to noble persons and is acquired through application.
+
 ## 6. Philosophical Translation
 
-> The shared cessation does not erase different purposes and levels:
-> peaceful abiding at the summit is not escape sought in fourth dhyāna.
-> Wholesomeness does not guarantee maturation. Acquisition through
-> application is the stated rule; the Buddha exception is developed
-> in the following verse.
+> The shared cessation does not erase different purposes and levels: peaceful abiding at the summit is not escape sought in fourth dhyāna. Wholesomeness does not guarantee maturation. Acquisition through application is the stated rule; the Buddha exception is developed in the following verse.
 
 ## 7. Technical Vocabulary
 
@@ -189,34 +173,15 @@ EarlierProduction => {western_teachers}
 ReportedMomentCount => {(kashmir_teachers,thirty_four_count)}
 ```
 
-The timing options are alternatives, not two mandatory results.
-The count predicate labels the four-Base maturation, not four
-simultaneous attainment tokens. Cross-verse accounts are indexed
-by speaker; the model tests that they are not merged, not which
-one is historically or doctrinally true. The reported thirty-four
-is checked as 16 + 2 × 9 = 34 in the regression test.
+The timing options are alternatives, not two mandatory results. The count predicate labels the four-Base maturation, not four simultaneous attainment tokens. Cross-verse accounts are indexed by speaker; the model tests that they are not merged, not which one is historically or doctrinally true. The reported thirty-four is checked as 16 + 2 × 9 = 34 in the regression test.
 
 ## 9. Interpretive Note
 
-**Translation note.** Attention preceded by reflection on peaceful
-abiding differs from the non-reflective attainment's escape motive.
-The summit is the level of the Essence of neither reflection nor
-non-reflection. Unfixed maturation can mean no maturation at all,
-not an ethically indeterminate attainment.
+**Translation note.** Attention preceded by reflection on peaceful abiding differs from the non-reflective attainment's escape motive. The summit is the level of the Essence of neither reflection nor non-reflection. Unfixed maturation can mean no maturation at all, not an ethically indeterminate attainment.
 
-The inherited Bhāṣya extends into the first half of 2.44, where
-the Buddha exception and prior-production debate occur; that
-continuation is explicitly labeled, not attributed to this verse.
-The shared Basis of the two attainments belongs to the remaining
-2.44 discussion. *Kila* qualifies the reported thirty-four moments;
-the damaged sentence about non-emergence remains uncertain.
+The inherited Bhāṣya extends into the first half of 2.44, where the Buddha exception and prior-production debate occur; that continuation is explicitly labeled, not attributed to this verse. The shared Basis of the two attainments belongs to the remaining 2.44 discussion. *Kila* qualifies the reported thirty-four moments; the damaged sentence about non-emergence remains uncertain.
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, remaining distinct from
-consciousness and Mind. Sharing a cessation-description does not
-erase differences of purpose, level, result, and acquisition.
-Neither temporary cessation nor mastery over it is silently
-identified with liberation.
+In the Organon reading, Cognition joins and governs Perception and Conception and guides the Dharma Base, remaining distinct from consciousness and Mind. Sharing a cessation-description does not erase differences of purpose, level, result, and acquisition. Neither temporary cessation nor mastery over it is silently identified with liberation.
 
 ## 10. OWL++ Seed
 

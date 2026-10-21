@@ -30,10 +30,7 @@ upekṣājīvitamanoyukto 'vaśyaṃ trayānvitaḥ // 2.17 //
 
 Any one is the commentary's anyatamena. The kārikā compresses it.
 
-**Grammar tokens.** External sandhi is opened; compounds remain intact.
-The first clause completes the preceding attainment inquiry. The second
-begins necessary possession, with the Bhāṣya resolving the compound as
-any one of the three.
+**Grammar tokens.** External sandhi is opened; compounds remain intact. The first clause completes the preceding attainment inquiry. The second begins necessary possession, with the Bhāṣya resolving the compound as any one of the three.
 
 ```text
 # tokens: ekādaśabhiḥ arhattvam uktam tu ekasya saṃbhavāt upekṣā-jīvita-mano-yuktaḥ avaśyam traya-anvitaḥ
@@ -41,29 +38,23 @@ any one of the three.
 
 ## 4. Grammar
 
-The instrumental eleven belongs to the report of attainment. The
-genitive one person depends on possibility, and the ablative gives
-the explanation. It does not say all eleven are possessed at once.
-In the second clause, the masculine subject and predicate describe
-the person. Necessarily scopes the possession implication for any
-person; it does not turn possession into simultaneous occurrence of all
-three. The `avaśyam` lexical SEM supplies that universal scope.
+The instrumental eleven belongs to the report of attainment. The genitive one person depends on possibility, and the ablative gives the explanation. It does not say all eleven are possessed at once. In the second clause, the masculine subject and predicate describe the person. Necessarily scopes the possession implication for any person; it does not turn possession into simultaneous occurrence of all three. The *avaśyam* lexical SEM supplies that universal scope.
 
 ```nltk-fcfg
 % start S
 # tokens: ekādaśabhiḥ arhattvam uktam tu ekasya saṃbhavāt upekṣā-jīvita-mano-yuktaḥ avaśyam traya-anvitaḥ
 S[SEM=<(?report & ?possession)>] -> REPORT[SEM=?report] POSSESSION[SEM=?possession]
-REPORT[SEM=<(ReportedAttainmentCount(?fruit,?count) & ?reason(?person))>] -> ELEVEN[CASE=ins,CNT=11,SEM=?count] FRUIT[CASE=nom,GEN=n,SEM=?fruit] SAID[CASE=nom,GEN=n] BUT ONE[CASE=gen,CNT=1,REF=person,SEM=?person] POSSIBILITY[CASE=abl,SEM=?reason]
-POSSESSION[SUPPLIED=prose,SEM=<?necessity(\x.(?any(x) -> ?all(x)))>] -> ANYONE[CASE=nom,NUM=sg,GEN=m,READING=any_one,SEM=?any] NECESSARILY[SEM=?necessity] ALLTHREE[CASE=nom,NUM=sg,GEN=m,CNT=3,SEM=?all]
-ELEVEN[CASE=ins,CNT=11,SEM=<eleven>] -> 'ekādaśabhiḥ'
-FRUIT[CASE=nom,GEN=n,SEM=<arhatship>] -> 'arhattvam'
-SAID[CASE=nom,GEN=n] -> 'uktam'
+REPORT[SEM=<ReportedAttainmentCount(arhatship,eleven) & PossibleAcrossAttainments(one_person)>] -> ELEVEN FRUIT SAID BUT ONE POSSIBILITY
+ELEVEN -> 'ekādaśabhiḥ'
+FRUIT -> 'arhattvam'
+SAID -> 'uktam'
 BUT -> 'tu'
-ONE[CASE=gen,CNT=1,REF=person,SEM=<one_person>] -> 'ekasya'
-POSSIBILITY[CASE=abl,SEM=<\p.PossibleAcrossAttainments(p)>] -> 'saṃbhavāt'
-ANYONE[CASE=nom,NUM=sg,GEN=m,READING=any_one,SEM=<\p.(Possesses(p,neutral_f) | Possesses(p,life_f) | Possesses(p,mind_f))>] -> 'upekṣā-jīvita-mano-yuktaḥ'
-NECESSARILY[SEM=<\P.all x.P(x)>] -> 'avaśyam'
-ALLTHREE[CASE=nom,NUM=sg,GEN=m,CNT=3,SEM=<\p.(Possesses(p,neutral_f) & Possesses(p,life_f) & Possesses(p,mind_f))>] -> 'traya-anvitaḥ'
+ONE -> 'ekasya'
+POSSIBILITY -> 'saṃbhavāt'
+POSSESSION[SEM=<all x.((Possesses(x,neutral_f) | Possesses(x,life_f) | Possesses(x,mind_f)) -> (Possesses(x,neutral_f) & Possesses(x,life_f) & Possesses(x,mind_f)))>] -> ANYONE NECESSARILY ALLTHREE
+ANYONE -> 'upekṣā-jīvita-mano-yuktaḥ'
+NECESSARILY -> 'avaśyam'
+ALLTHREE -> 'traya-anvitaḥ'
 ```
 
 ```nltk-dep
@@ -82,22 +73,15 @@ ALLTHREE[CASE=nom,NUM=sg,GEN=m,CNT=3,SEM=<\p.(Possesses(p,neutral_f) & Possesses
 
 ### Literal Translation
 
-> Arhatship is said through eleven, however, because of the possibility for
-> one person. One endowed with neutral feeling, life, or mind is necessarily
-> accompanied by the three.
+> Arhatship is said through eleven, however, because of the possibility for one person. One endowed with neutral feeling, life, or mind is necessarily accompanied by the three.
 
 ### Bhāṣya-informed study translation
 
-> Arhatship is said to be attained through eleven Faculties, however,
-> because that is possible across one person's repeated attainments.
-> One who possesses any one of neutral feeling, life, or Mind necessarily
-> possesses all three.
+> Arhatship is said to be attained through eleven Faculties, however, because that is possible across one person's repeated attainments. One who possesses any one of neutral feeling, life, or Mind necessarily possesses all three.
 
 ## 6. Philosophical Translation
 
-> Possession of any one of neutral feeling, life, or Mind entails the
-> other two. This is neither exactly three Faculties nor three factors
-> continuously occurring together.
+> Possession of any one of neutral feeling, life, or Mind entails the other two. This is neither exactly three Faculties nor three factors continuously occurring together.
 
 ## 7. Technical Vocabulary
 
@@ -112,15 +96,11 @@ ALLTHREE[CASE=nom,NUM=sg,GEN=m,CNT=3,SEM=<\p.(Possesses(p,neutral_f) & Possesses
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** The SEM joins the carried eleven-person report to
-the reciprocal possession implication. The `avaśyam` SEM scopes the
-implication over persons. Necessity is represented as a universal rule
-in this finite model, not as modal logic. Neither simultaneous
-attainment nor continuous occurrence is asserted.
+**Kārikā, derived.** The SEM joins the carried eleven-person report to the reciprocal possession implication. The *avaśyam* SEM scopes the implication over persons. Necessity is represented as a universal rule in this finite model, not as modal logic. Neither simultaneous attainment nor continuous occurrence is asserted.
 
 ```nltk-sem
-any_of_three : \p.(Possesses(p,neutral_f) | Possesses(p,life_f) | Possesses(p,mind_f))
-all_three : \p.(Possesses(p,neutral_f) & Possesses(p,life_f) & Possesses(p,mind_f))
+any_of_three : Possesses(p,neutral_f) | Possesses(p,life_f) | Possesses(p,mind_f)
+all_three : Possesses(p,neutral_f) & Possesses(p,life_f) & Possesses(p,mind_f)
 person_history : PossibleAcrossAttainments(one_person)
 ```
 
@@ -178,28 +158,13 @@ DesireDispassionate => {formless_person,third_person,fourth_person}
 SeveredRoots => {rootless_person}
 ```
 
-The representative cases test that the triad can accompany extra
-Faculties and that eye-possession is not entailed. `OccurringNow` is
-an illustrative countermodel to identifying possession with occurrence,
-not an exhaustive psychology of these persons. The exclusion formulas
-preserve ordinary-person and dispassion qualifications. Damaged
-realization-Faculty compounds remain provisional in the paired Bhāṣya;
-they are not hardened into formal axioms. No fixed rule for the
-remainder means no additional possession follows from this triad
-alone, not that other rules are absent.
+The representative cases test that the triad can accompany extra Faculties and that eye-possession is not entailed. OccurringNow is an illustrative countermodel to identifying possession with occurrence, not an exhaustive psychology of these persons. The exclusion formulas preserve ordinary-person and dispassion qualifications. Damaged realization-Faculty compounds remain provisional in the paired Bhāṣya; they are not hardened into formal axioms. No fixed rule for the remainder means no additional possession follows from this triad alone, not that other rules are absent.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): One who possesses any one of neutral feeling, life, or
-mind necessarily possesses the three. None of them is possessed without
-the others. With the remaining faculties there is no fixed rule.
-Possession is excluded by birth, by non-acquisition or loss, by
-dispassion, by severed roots, and by path-status. Where not excluded,
-possession stands.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): One who possesses any one of neutral feeling, life, or mind necessarily possesses the three. None of them is possessed without the others. With the remaining faculties there is no fixed rule. Possession is excluded by birth, by non-acquisition or loss, by dispassion, by severed roots, and by path-status. Where not excluded, possession stands.
 
-The eleven is numbered in this verse and studied with 2.16's continuous
-attainment discussion. The second half changes the predicate.
+The eleven is numbered in this verse and studied with 2.16's continuous attainment discussion. The second half changes the predicate.
 
 The triad is reciprocal. Necessarily, and none without the others. The count is accompaniment, not exactly three and no more.
 

@@ -35,9 +35,7 @@ daurmanasyāc ca tattv ekaṃ savipākaṃ daśa dvidhā // 2.10 //
 
 Vipāka is what the present instance is. Savipāka is what it produces. The two questions are not one word.
 
-**Grammar tokens.** External sandhi is opened, including *tat tu ekam*
-and *antya-aṣṭakāt ṛte*. No Bhāṣya-supplied members or life exception
-are inserted into the verse stream.
+**Grammar tokens.** External sandhi is opened, including *tat tu ekam* and *antya-aṣṭakāt ṛte*. No Bhāṣya-supplied members or life exception are inserted into the verse stream.
 
 ```text
 # tokens: vipākaḥ jīvitam dvedhā dvādaśa antya-aṣṭakāt ṛte daurmanasyāt ca tat tu ekam savipākam daśa dvidhā
@@ -45,36 +43,30 @@ are inserted into the verse stream.
 
 ## 4. Grammar
 
-The opening predicate states the life rule; the Bhāṣya qualifies it for
-concentration-projected life. The first twofold class excludes the final
-eight and distress, with life already treated separately. That separate
-placement remains even though the Bhāṣya later gives a life-instance
-that is not maturation. *Tat* resumes distress, not life or the twelve. The Bhāṣya construes *tu* as restrictive
-and displaced: distress alone is invariably maturation-producing, not
-the only Faculty capable of producing maturation.
+The opening predicate states the life rule; the Bhāṣya qualifies it for concentration-projected life. The first twofold class excludes the final eight and distress, with life already treated separately. That separate placement remains even though the Bhāṣya later gives a life-instance that is not maturation. *Tat* resumes distress, not life or the twelve. The Bhāṣya construes *tu* as restrictive and displaced: distress alone is invariably maturation-producing, not the only Faculty capable of producing maturation.
 
 ```nltk-fcfg
 % start S
 # tokens: vipākaḥ jīvitam dvedhā dvādaśa antya-aṣṭakāt ṛte daurmanasyāt ca tat tu ekam savipākam daśa dvidhā
 S[SEM=<(?life & ?twelve & ?distress & ?ten)>] -> LIFECLAUSE[SEM=?life] TWELVECLAUSE[SEM=?twelve] DISTRESSCLAUSE[SEM=?distress] TENCLAUSE[SEM=?ten]
-LIFECLAUSE[SEM=<?result(?life)>] -> RESULT[CASE=nom,NUM=sg,AXIS=is_result,SEM=?result] LIFE[CASE=nom,NUM=sg,GEN=n,SEM=?life]
-TWELVECLAUSE[SEM=<(?either(twelve_group) & ?count(twelve_group) & ?exclude(twelve_group,final_eight) & ?exclude(twelve_group,distress_f))>] -> EITHER[AXIS=is_result,SEM=?either] TWELVE[CNT=12,SEM=?count] EIGHT[CASE=abl,CNT=8] EXCEPT[SEM=?exclude] DISTRESS[CASE=abl,REF=distress] AND
-DISTRESSCLAUSE[SEM=<(SoleInvariableProducer(?ref) & ?produces(?ref))>] -> THAT[CASE=nom,NUM=sg,GEN=n,REF=distress,SEM=?ref] ONLY[SCOPE=invariable] ONE[CASE=nom,NUM=sg,GEN=n,CNT=1] PRODUCES[CASE=nom,NUM=sg,GEN=n,AXIS=has_result,SEM=?produces]
-TENCLAUSE[SEM=<(?count(ten_group) & ?either(ten_group))>] -> TEN[CNT=10,SEM=?count] EITHER[AXIS=has_result,SEM=?either]
-RESULT[CASE=nom,NUM=sg,AXIS=is_result,SEM=<\f.LifeMaturationRule(f)>] -> 'vipākaḥ'
-LIFE[CASE=nom,NUM=sg,GEN=n,SEM=<life_f>] -> 'jīvitam'
-EITHER[AXIS=is_result,SEM=<\g.EitherMaturation(g)>] -> 'dvedhā'
-TWELVE[CNT=12,SEM=<\g.GroupCount(g,twelve)>] -> 'dvādaśa'
-EIGHT[CASE=abl,CNT=8] -> 'antya-aṣṭakāt'
-EXCEPT[SEM=<\g.\e.Excludes(g,e)>] -> 'ṛte'
-DISTRESS[CASE=abl,REF=distress] -> 'daurmanasyāt'
+LIFECLAUSE[SEM=<LifeMaturationRule(life_f)>] -> RESULT LIFE
+RESULT -> 'vipākaḥ'
+LIFE -> 'jīvitam'
+TWELVECLAUSE[SEM=<EitherMaturation(twelve_group) & GroupCount(twelve_group,twelve) & Excludes(twelve_group,final_eight) & Excludes(twelve_group,distress_f)>] -> EITHER TWELVE EIGHT EXCEPT DISTRESS AND
+EITHER -> 'dvedhā'
+TWELVE -> 'dvādaśa'
+EIGHT -> 'antya-aṣṭakāt'
+EXCEPT -> 'ṛte'
+DISTRESS -> 'daurmanasyāt'
 AND -> 'ca'
-THAT[CASE=nom,NUM=sg,GEN=n,REF=distress,SEM=<distress_f>] -> 'tat'
-ONLY[SCOPE=invariable] -> 'tu'
-ONE[CASE=nom,NUM=sg,GEN=n,CNT=1] -> 'ekam'
-PRODUCES[CASE=nom,NUM=sg,GEN=n,AXIS=has_result,SEM=<\f.AlwaysProducesMaturation(f)>] -> 'savipākam'
-TEN[CNT=10,SEM=<\g.GroupCount(g,ten)>] -> 'daśa'
-EITHER[AXIS=has_result,SEM=<\g.EitherProduces(g)>] -> 'dvidhā'
+DISTRESSCLAUSE[SEM=<SoleInvariableProducer(distress_f) & AlwaysProducesMaturation(distress_f)>] -> THAT ONLY ONE PRODUCES
+THAT -> 'tat'
+ONLY -> 'tu'
+ONE -> 'ekam'
+PRODUCES -> 'savipākam'
+TENCLAUSE[SEM=<GroupCount(ten_group,ten) & EitherProduces(ten_group)>] -> TEN EITHER2
+TEN -> 'daśa'
+EITHER2 -> 'dvidhā'
 ```
 
 ```nltk-dep
@@ -97,21 +89,15 @@ EITHER[AXIS=has_result,SEM=<\g.EitherProduces(g)>] -> 'dvidhā'
 
 ### Literal Translation
 
-> Life is maturation. Twelve are twofold, apart from the final eight and
-> distress. That one alone possesses maturation as its result. Ten are
-> twofold.
+> Life is maturation. Twelve are twofold, apart from the final eight and distress. That one alone possesses maturation as its result. Ten are twofold.
 
 ### Bhāṣya-informed study translation
 
-> Life is maturation. Apart from the final eight and distress, twelve
-> Faculties can be maturation or not. That distress alone invariably
-> produces maturation; ten Faculties can produce maturation or not.
+> Life is maturation. Apart from the final eight and distress, twelve Faculties can be maturation or not. That distress alone invariably produces maturation; ten Faculties can produce maturation or not.
 
 ## 6. Philosophical Translation
 
-> Being a matured result and producing such a result are different
-> determinations. Distress is never the former and invariably the latter;
-> the life rule is qualified by concentration-projected life.
+> Being a matured result and producing such a result are different determinations. Distress is never the former and invariably the latter; the life rule is qualified by concentration-projected life.
 
 ## 7. Technical Vocabulary
 
@@ -131,16 +117,11 @@ EITHER[AXIS=has_result,SEM=<\g.EitherProduces(g)>] -> 'dvidhā'
 
 ## 8. Logical Determination
 
-**Kārikā, derived.** `LifeMaturationRule` records the opening rule without
-silently excluding the prose's counterexample. `EitherMaturation` and
-`EitherProduces` concern different questions. `SoleInvariableProducer`
-does not exclude conditional production by the ten. The twelve-count
-is an enumerative class, not a claim that Life can never have an
-exceptional non-maturation instance.
+**Kārikā, derived.** LifeMaturationRule records the opening rule without silently excluding the prose's counterexample. EitherMaturation and EitherProduces concern different questions. SoleInvariableProducer does not exclude conditional production by the ten. The twelve-count is an enumerative class, not a claim that Life can never have an exceptional non-maturation instance.
 
 ```nltk-sem
-received_result : \g.EitherMaturation(g)
-productive_result : \g.EitherProduces(g)
+received_result : EitherMaturation(twelve_group)
+productive_result : EitherProduces(ten_group)
 distress_reference : distress_f
 ```
 
@@ -211,24 +192,11 @@ CanNotProduce => {mind,pain,pleasure,gladness,neutral,faith,vigor,mindfulness,co
 NeverProduces => {eye,ear,nose,tongue,body,female,male,life,shall_know,knowledge,one_who_has_known}
 ```
 
-The received-result partition is 1 + 12 + 9. Life has both
-instance-level possibilities but remains the separately named first
-class; the twelve are the remaining types with both possibilities.
-The productive partition is 1 + 10 + 11.
-Finite-model tests check these counts and contrasts, not the efficacy
-of lifespan practices or the truth of every reported causal account.
-The opening Life rule does not assert that every life-instance is
-maturation. `CanBeNonMaturation(life_f)` records the prose exception
-without changing the verse's twelve-count.
+The received-result partition is 1 + 12 + 9. Life has both instance-level possibilities but remains the separately named first class; the twelve are the remaining types with both possibilities. The productive partition is 1 + 10 + 11. Finite-model tests check these counts and contrasts, not the efficacy of lifespan practices or the truth of every reported causal account. The opening Life rule does not assert that every life-instance is maturation. CanBeNonMaturation(life_f) records the prose exception without changing the verse's twelve-count.
 
 ## 9. Interpretive Note
 
-**Translation note.** Earlier explanatory rendering (moved out of the
-verse translation): What the instance is, and what it produces, are
-separate. Life is received maturation, except the life concentration
-projects. Distress is never received. It is produced and calmed by present
-construction, yet always produces future maturation. Ten can either
-produce it or not.
+**Translation note.** Earlier explanatory rendering (moved out of the verse translation): What the instance is, and what it produces, are separate. Life is received maturation, except the life concentration projects. Distress is never received. It is produced and calmed by present construction, yet always produces future maturation. Ten can either produce it or not.
 
 The opening rule is qualified before the twelve are counted. Concentration-generated life is not maturation. Resource-maturation converted to lifespan, a remainder drawn forward, and Ghoṣaka's Great Elements are reported alternatives. The adopted explanation is the turned impetus. The digression on why, where, and the Buddha's three months is marked incidental. It is not a practical instruction.
 
