@@ -11,25 +11,30 @@
 
 ## 2. Continuous Sanskrit Witness
 
-> yadi pañca vijñānadhātavo vitarkavicārābhyāṃ saṃprayuktāḥ katham avikalpakā ity ucyante /
+> yadi pañca vijñānakāyāḥ savitarkāḥ savicārāḥ katham avikalpakā ity ucyante /
 >
 > nirūpaṇānusmaraṇavikalpenāvikalpakāḥ /
 >
-> trividho hi vikalpaḥ / svabhāvābhinirūpaṇānusmaraṇavikalpaḥ /
+> trividhaḥ kila vikalpaḥ / svabhāvābhinirūpaṇānusmaraṇavikalpaḥ /
 >
-> teṣāṃ svabhāvavikalpo 'sti na tu itarau / ato 'vikalpakā ity ucyante / ekapādako 'śvo 'pādaka iti yadvat /
+> tad eṣāṃ svabhāvavikalpo 'sti / netarau / tasmād avikalpakā ity ucyante /
+> yathā ekapādako 'śvo 'pādaka iti /
 >
-> tatra svabhāvavikalpo vitarkaḥ / sa tu caitasikeṣu nirdiṣṭaḥ /
+> tatra svabhāvavikalpo vitarkaḥ / sa caitteṣu paścān nirdekṣyate /
 >
-> itarau punar etau kiṃsvabhāvau /
+> itarau punaḥ kiṃsvabhāvau / yathākramaṃ /
 >
 > tau prajñā mānasī vyagrā smṛtiḥ sarvaiva mānasī /
 >
-> manovijñānasaṃprayuktā prajñā mānasīty ucyate / asamāhitā vyagrety ucyate / sa cābhinirūpaṇāvikalpaḥ /
+> manovijñānasaṃprayuktā prajñā mānasīty ucyate / asamāhitā vyagrety ucyate /
+> sā hy abhinirūpaṇāvikalpaḥ /
 >
-> smṛtis tu sarvaiva mānasī samāhitā vā asamāhitā vānusmaraṇavikalpaḥ /
+> mānasī eva sarvā smṛtiḥ samāhitā cāsamāhitā cānusmaraṇavikalpaḥ /
 
-Word division is editorial. The verse has nirūpaṇa. The prose has abhinirūpaṇa. Both stay. The next question is 1.34 and is not this unit.
+The unit runs from `[022|18]` through `[022|26]`. Word division is editorial.
+The verse has *nirūpaṇa*; the prose has *abhinirūpaṇa*. Both are retained.
+The local *paścān nirdekṣyate* points forward to a later discussion of
+mental factors. The next question opens 1.34.
 
 ## 3. Continuous Conventional Translation
 
@@ -37,7 +42,7 @@ Word division is editorial. The verse has nirūpaṇa. The prose has abhinirūpa
 >
 > They are without vikalpa in respect of examining and recollective vikalpa.
 >
-> For vikalpa is threefold: intrinsic, examining, and recollective. They have the intrinsic vikalpa, but not the other two. So they are called without vikalpa, as a one-footed horse is called footless.
+> Vikalpa is said to be threefold: intrinsic, examining, and recollective. The five have intrinsic vikalpa but lack the other two. Thus they are called without vikalpa, as a one-footed horse may be called footless.
 >
 > Of these, intrinsic vikalpa is vitarka. It is indicated later among the mental factors.
 >
@@ -51,7 +56,12 @@ Word division is editorial. The verse has nirūpaṇa. The prose has abhinirūpa
 
 ## 4. Movement
 
-The objection is the previous verse. The five are with the pair, so the name without vikalpa looks false. The answer restricts the name to the other two. The horse is the measure. Intrinsic vikalpa is named and deferred. The verse then gives the nature of the two that the five lack. There is no rival school.
+The objection arises from 1.32: if the five sensory Cognitions have
+*vitarka* and *vicāra*, why call them without *vikalpa*? The answer
+restricts that name to the absence of examining and recollective
+*vikalpa*. The one-footed horse illustrates this restricted naming.
+Intrinsic *vikalpa* is identified as *vitarka* and deferred for later
+discussion. No rival school is named here.
 
 ## 5. Decisions
 
@@ -65,15 +75,20 @@ The objection is the previous verse. The five are with the pair, so the name wit
 
 ## 6. Interpretation
 
-The five are the desireling's present. They have vitarka, and vitarka is a vikalpa, and they are still called without it. The name is by the missing two. Examining and recollecting are Mind-Cognition work. The Formless, where the last three remain, is not this page. That seeing waits for Loka:Karma. The page prints the three kinds and the horse.
+The five sensory Cognitions possess *vitarka*, the intrinsic kind of
+*vikalpa*, yet are called “without *vikalpa*” because they lack the
+examining and recollective kinds. The name is therefore selective, not an
+absence of all discrimination. Examining and recollecting here require
+specific mental modes associated with Mind-Cognition; this passage does
+not classify every possible act of recognition.
 
 The engine reading: the name *avikalpaka* is by privation of two kinds,
 not of the whole. The five keep intrinsic vikalpa, vitarka, as 1.32 required.
-They also have prajñā and smṛti of their own; these are not mental, so
-they are not vikalpa. The same mental factor is vikalpa or not by its
-association with Mind-Cognition, and prajñā examines only when
-unconcentrated, while all mental smṛti recollects. Kind is a relation
-again, as in 1.32.
+The prose specifies the two missing kinds: examining is unconcentrated
+mental *prajñā*; recollecting is mental *smṛti*, whether concentrated or
+not. This is a relation among factor, association, and state, as in 1.32.
+The passage does not need a claim about every factor accompanying each
+sensory Cognition to make its distinction.
 
 ## 7. Review Status
 

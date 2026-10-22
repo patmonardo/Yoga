@@ -49,7 +49,7 @@
 >
 > kecid āhus tejo-dhātur eva dagdhā gurutvam eva ca tulyam iti /
 
-Word division is editorial. The jewel-radiance clause is read with the later clarity in the same unit. The next question is 1.37 and is not this unit.
+Word division is editorial. The local source at [024|20]–[025|05] has a damaged first jewel-radiance clause; its later *acchatvāt* (“because of clarity”) guides the reading here. The final expression for the burner is also uncertain in that copy; the preceding *dāhakaṃ* and the kārikā's *dagdhṛ* establish the sense of the dispute. The next question opens 1.37.
 
 ## 3. Continuous Conventional Translation
 
@@ -59,9 +59,9 @@ Word division is editorial. The jewel-radiance clause is read with the later cla
 >
 > The one called Visible Form, Odor, Taste, and Tangible, designated as axe, wood, and the like.
 >
-> What dharma is this cutting? The production, as divided, of a stream of clusters that arises in connection.
+> What is the event called cutting? It is the divided arising of a connected stream of clusters.
 >
-> The Body Faculty and the others are not cut. When a limb is cut off without remainder, they are not made twofold by that. For Faculties do not become two, because the severed limb is without the Faculty. Nor do they cut, because of clarity, like the radiance of a jewel.
+> The Body Faculty and the other Faculties are not cut. Even when a limb is completely severed, the Faculty is not thereby divided in two: the severed limb no longer has that Faculty. Nor do the Faculties cut. They are clear, like the radiance of a jewel.
 >
 > As the outer tetrad cuts and is cut, so it is burned and it weighs. That same one is burned. That same one weighs. The Faculties do not, because of clarity, like the radiance of a jewel. Nor does Sound, because it is cut off.
 >
@@ -69,12 +69,12 @@ Word division is editorial. The jewel-radiance clause is read with the later cla
 
 ## 4. Movement
 
-The question is six. The verse answers with the outer four, then the burn and the weighing, then a dispute. Cutting is defined as a divided arising. The Faculty is refused twice: it is not cut, and it does not cut. Sound is refused for the burn and the weighing. The dispute is not settled. There is no school name.
+The six questions separate agents from patients: cutter/cut, burner/burned, weigher/weighed. The verse assigns the first pair and the passive burning and active weighing to the outer four. The prose defines cutting as a change in the arising of connected clusters; it does not split a Faculty into two. Sound and the Faculties are excluded from the burning and weighing cases. The remaining two roles, burner and weighed, are disputed without a named school or decision.
 
 ## 5. Decisions
 
 1. The outer four Principles cut and are cut: Visible Form, Odor, Taste, Tangible.
-2. Cutting is the divided production of a stream of clusters that arises in connection.
+2. Cutting is the divided arising of a connected stream of clusters.
 3. The Faculties are not cut. A severed limb does not make them two.
 4. The Faculties do not cut, burn, or weigh. Clarity, like jewel-radiance.
 5. Sound is not burned or weighed. It is cut off.
@@ -82,7 +82,7 @@ The question is six. The verse answers with the outer four, then the burn and th
 
 ## 6. Interpretation
 
-The Faculty is not divided by the cut that divides the limb. The four do the work the names axe and wood are given for. The fire in the other account is the Fire Principle, an Element Principle. The page does not decide the dispute. The page prints the four, the Faculty, and the two sides.
+This sharpens 1.35's distinction between an Element, what depends on Elements, and their accumulation. The axe and wood name material configurations of the outer four; cutting changes the continuity of their clusters. The Body Faculty is present in the living limb, but the cut neither bisects it nor turns it into the cutter. In one account the outer four also occupy the disputed roles. In the other, the Fire Principle is the burner and heaviness is what is weighed. The text leaves these accounts open. Read as an Instrument distinction, the outer material configuration is what an embodied agent works through; the Faculty is not itself an axe. That last formulation is our interpretation, not an additional claim of the Sanskrit.
 
 ## 7. Review Status
 

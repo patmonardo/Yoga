@@ -101,7 +101,12 @@
 >
 > vipākaṃ praty avyākaraṇād ity apare / evam anāsrave 'pi prasaṅgaḥ //
 
-Word division is editorial. The running `porativandha` is read `pratibandha`. The Prajñapti quotation is kept as reported.
+The unit runs from `[018|26]` through `[020|09]`. Word division and evident
+spelling repairs are editorial. The running `porativandha` is read
+`pratibandha`; damaged forms of *viṣaya* and *ālambana* are normalized where
+the immediate context supplies them. The Prajñapti quotation is kept as
+reported, including its unfamiliar animal names. This is a working witness,
+not a critical collation.
 
 ## 3. Continuous Conventional Translation
 
@@ -119,23 +124,23 @@ Word division is editorial. The running `porativandha` is read `pratibandha`. Th
 >
 > The ten Principles included in the Form Base are resistant.
 >
-> Resistance means striking, and it is threefold: obstruction, Condition, and support.
+> Resistance means being impeded. It has three forms: obstruction in a place, resistance with respect to a Condition, and resistance with respect to what consciousness takes as its support.
 >
 > Obstruction is the blocking of another's arising in one's own place. A hand is struck by a hand, or by a stone. A stone is struck by either.
 >
 > Condition-resistance belongs to the eye and the rest, as possessors of a Condition, toward Visible Form and the rest as Conditions. As the Prajñapti says: there is an eye struck in water but not on land, as with fish; on land but not in water, as generally with humans; in both, as with the dolphin, the frog, the piśāca, the fisherman, and the rest; in neither, setting those cases aside. There is an eye struck at night but not by day, as with the titīla, the owl, and the rest; by day but not at night, as generally with humans; by night and by day, as with the dog, the jackal, the horse, the leopard, the cat, and the rest; in neither, setting those cases aside. This is Condition-resistance.
 >
-> Support-resistance belongs to consciousness and the concomitants, toward their own supports.
+> Support-resistance belongs to Cognition and mental factors with respect to what they take as their own supports.
 >
-> What, then, is the difference between Condition and support? That in which something has its function is its Condition. What is grasped by consciousness and the concomitants is the support.
+> What distinguishes Condition from support here? A thing's Condition is that in relation to which it exercises its function. Its support, in this usage, is what Cognition and mental factors grasp.
 >
 > Why is what is operating in its own Condition, or in its support, said to be struck? Because it does not operate by another. Or the particle here marks the resistance that is the operation in its own Condition.
 >
 > Here the resistance of the ten is to be known by obstruction, because they obstruct one another.
 >
-> Are those resistant by Condition-resistance also resistant by obstruction? Four alternatives. The first: the Cognition Principle, the seven — six Cognition Principles and the Mind Principle — and the associated portion of the Dharma Principle. The second: the five Conditions. The third: the five Faculties. The fourth: the portion of the Dharma Principle excluding the associated.
+> Are things resistant with respect to a Condition also resistant by obstruction? There are four cases. **Condition-resistance only:** the seven mental Principles—the six Cognition Principles and Mind Principle—and the associated portion of the Dharma Principle. **Obstruction only:** the five sensory Conditions. **Both:** the five Faculties. **Neither:** the portion of the Dharma Principle other than the associated factors.
 >
-> Are those resistant by Condition-resistance also resistant by support-resistance? The implication runs back. Whatever is resistant by support is also resistant by Condition. There can be resistance by Condition alone, not by support: the five Faculties.
+> Are things resistant with respect to a Condition also resistant with respect to a cognitive support? The implication holds in the reverse direction: whatever has support-resistance also has Condition-resistance. But the five Faculties have Condition-resistance without support-resistance.
 >
 > Where others can strike a mind about to arise, that is to be known as resistant; the reverse is accepted as not resistant. So the Venerable Kumāralāta. The resistant and the non-resistant have been stated.
 >
@@ -150,6 +155,10 @@ Word division is editorial. The running `porativandha` is read `pratibandha`. Th
 ## 4. Movement
 
 Three questions. The middle one opens the three resistances, then returns to obstruction for the count of ten. The Prajñapti examples are reported. Kumāralāta is named. The maturation account is others, and it is answered.
+
+Here *ālambana* is what Cognition and mental factors grasp. The English
+“support” translates that local usage; it is not the Faculty serving as
+*āśraya* for Cognition in 1.17–1.19.
 
 ## 5. Decisions
 
@@ -170,13 +179,21 @@ classification over the Principles. Each count is a biconditional over the
 eighteen and is checked extensionally: one visible, ten resistant, eight
 only-indeterminate.
 
-Resistance is not one relation. The two tetralemmas show it: obstruction and
-Condition-resistance cross-classify the eighteen (with the Dharma Principle
-split into its associated and non-associated portions), while
-support-resistance nests inside Condition-resistance. The count picks
-obstruction. The seven in the comparison are the Cognition Principles and
-the Mind Principle; they are Condition-resistant and support-resistant, not
-the ten. Cognition is not Form.
+Resistance is not one relation. The four cases cross-classify obstruction
+and Condition-resistance: the seven mental Principles and associated Dharma
+portion meet the latter alone; the five sensory Conditions meet obstruction
+alone; the five Faculties meet both; the remaining Dharma portion meets
+neither. Support-resistance is narrower than Condition-resistance. The verse's
+count of ten picks obstruction, not every kind of resistance. Thus the seven
+mental Principles enter the comparison without becoming members of the
+Form-bearing ten.
+
+For the Organon inquiry, these cuts specify different ways an Instrument is
+limited in use: occupying a place, operating in a Condition, and taking a
+cognitive support. The Bhāṣya distinguishes those relations; treating them
+as moments of the Instrument is our interpretation. This supplies a precise
+question for dependent origination without yet making 1.29 a full account
+of that doctrine.
 
 Indeterminate means not declared wholesome or unwholesome. The maturation
 account is the others', and it fails because it would make the Pure

@@ -18,7 +18,7 @@ make every member a product of both causes.
 The anchor follows the kārikā witness with sandhi applied (*śabdo 'pratighā*);
 the running Bhāṣya text reads the unsandhied *śabdaḥ apratighā*.
 
-## 2. Continuous Sanskrit
+## 2. Continuous Sanskrit Witness
 
 > kati vipākajāḥ dhātavaḥ katyaupacayikāḥ kati naiḥṣyandikāḥ kati dravyayuktāḥ kati kṣaṇikāḥ /
 >
@@ -84,7 +84,7 @@ the running Bhāṣya text reads the unsandhied *śabdaḥ apratighā*.
 > vipākajā vipākahetujanitāḥ /
 > aupacayikā na santyapratighānāṃ sañābhāvāt /
 
-The unit extends from printed page 25.06 through 26.01. The opening
+The local source unit extends from [025|06] through [026|01]. The opening
 question also announces two classifications developed in 1.38. That
 next verse begins by completing the present causal enumeration with
 the remaining four Principles; its *tridhā 'nye* is reserved there.
@@ -105,55 +105,53 @@ provisional construal used below.
 
 ## 3. Continuous Conventional Translation
 
-How many Principles are maturation-born, how many upacaya-reinforced,
-how many continuity-born, how many associated with substance, and how
-many are momentary? It is said:
+How many Principles arise through maturation, how many are reinforced
+through increase, how many arise through causal continuity, how many
+possess substance, and how many are momentary? The reply begins:
 
-The five internal Principles—the Eye and the others—are both
-maturation-born and upacaya-reinforced. There are no separately
-classified homogeneous-continuation instances, because no continuation
-distinct from those two is identified.
+The five internal Principles, beginning with the Eye Faculty, are
+maturation-born and reinforced through increase. No separate
+continuity-born class is counted for them, because there is no such
+continuity apart from the two just named.
 
-Those born from a maturation Ground are called maturation-born. The
-middle member is omitted, as in “ox-cart.” Alternatively, karma that
-has reached the time of its result is called maturation because it
-matures; what is born from it is maturation-born. The result itself
-is called maturation because it is precisely the ripening. Let the
-result's name be applied figuratively to its cause, just as the cause's
-name is applied to its result: “These six Essences of contact should be
-understood as old karma.”
+Why call them maturation-born? They arise from a maturation Ground;
+the word for Ground is omitted from the compound, as a middle term can
+be omitted in “ox-cart.” Alternatively, karma that has reached the time
+of its result is called maturation because it ripens; what arises from
+that karma is maturation-born. Strictly speaking, the ripened result is
+the maturation. Here the result's name is transferred to its cause,
+just as a cause's name can be transferred to its result: “These six
+Contact Essences should be understood as old karma.”
 
-Those increased by nourishment, conditioning, sleep, and particular
-states of concentration are upacaya-reinforced. Some add “and by celibate
-discipline.” But through that there would be only freedom from injury,
-not increase. The reinforcement-continuum protects the
-maturation-continuum like a surrounding wall.
+What is reinforced through increase? That which is built up by food,
+conditioning, sleep, and particular states of concentration. Some also
+name celibate discipline. The reply is that this prevents injury; it
+does not itself produce increase. The continuing reinforcement protects
+the continuing maturation like a surrounding wall.
 
-Sound has upacaya-reinforced and homogeneous-continuation instances.
-Sound is not maturation-born. Why? Because it proceeds
+Sound can arise through reinforcement or corresponding causal
+continuity, but it is not maturation-born. Why? Because it proceeds
 from exertion.
 
-But what of the statement in the Prajñaptiśāstra that through thorough
-cultivation of abstention from harsh speech, the great-person mark
-of a Brahmā-like voice is produced? Some say that this is a third-member
-succession: from karma come the Great Elements, and from the Great
-Elements Sound.
-Others say it is a fifth-member succession: from karma come
-maturation-born Great Elements; from these, upacaya-reinforced Great
-Elements; from these, homogeneous-continuation Great Elements; and from
-these, Sound.
+But the Prajñaptiśāstra says that thoroughly cultivating abstention
+from harsh speech produces the great-person mark of a Brahmā-like
+voice. How can Sound be excluded? Some explain this as a three-member
+sequence: karma produces Great Elements, which produce Sound. Others
+give a five-member sequence: karma produces maturation-born Great
+Elements; these give rise to reinforced Great Elements; these to
+continuity-born Great Elements; and these to Sound.
 
-Then bodily Feeling too, since it arises from karma-born Great Elements,
-would fail to be maturation. — [That would follow] if there were a
-conflict with reasoning as in the case of Sound.
+Objection: bodily Feeling also arises from karma-born Great Elements.
+By that reasoning, would it too cease to count as maturation?
+Reply: it would, if the same conflict with reasoning arose in its case
+as in Sound's.
 
-The eight non-resistant Principles include homogeneous-continuation
-and maturation-born instances. Which eight? The seven consciousness
-Principles and the Dharma Principle. Homogeneous-continuation instances
-are generated by homogeneous and universally operative causes; maturation-born
-instances are generated by a maturation Ground. There are no
-upacaya-reinforced instances, because non-resistant Principles
-[lack accumulation].
+The eight non-resistant Principles have continuity-born and
+maturation-born instances. They are the seven Cognition Principles and the
+Dharma Principle. Their continuity-born instances arise from
+homogeneous and universally operative Grounds; their maturation-born
+instances arise from a maturation Ground. They are not reinforced
+through increase, because non-resistant Principles [do not accumulate].
 
 The bracketed final phrase follows the research repair of the damaged
 word. “Conditioning” leaves *saṃskāra* in the reinforcement list broad;
@@ -253,7 +251,7 @@ source argues a particular exclusion and tests its justification.
 
 ## 8. The Eight Non-resistant Principles and the Kārikā's Decisions
 
-The eight are the seven consciousness Principles plus the Dharma Principle.
+The eight are the seven Cognition Principles plus the Dharma Principle.
 Their homogeneous-continuation instances are defined by *sabhāgahetu* and
 *sarvatragahetu*, while maturation-born instances are defined by
 *vipākahetu*. “Continuation” here names specific causal relations,
@@ -278,18 +276,18 @@ The resulting translation decisions are:
 
 ## 9. Interpretation
 
-For the Organon inquiry into learning, the passage distinguishes
-production of a capacity, its reinforcement, and protection against
-impairment. Those contributions are related but not equivalent. Its
-explicit mention of concentration among reinforcing conditions also
-connects cognitive practice with the conditions of the Faculties,
-without supplying a complete theory of that connection.
+After 1.36 distinguishes the Faculty from the outer configuration that
+cuts and is cut, 1.37 asks how the Faculty itself is generated and
+maintained. Maturation supplies one causal history; food, sleep, and
+concentration can reinforce its living continuity. Protection from
+injury is a further, weaker claim than positive increase. These
+distinctions give the Instrument a temporal and causal account, without
+making the Faculty into the material implement it employs.
 
-The Sound discussion adds a distinction between having a karmic causal
-history and belonging to a specific class of karmic result. A lineage
-of conditions alone does not settle the classification of its final
-event. The bodily-feeling objection makes that limit part of the
-argument itself.
+The Sound exchange distinguishes a karmic causal history from direct
+membership in the class of maturation-results. The objection about
+bodily Feeling prevents the proposed sequence from becoming a blanket
+rule: each classification still needs its own reason.
 
 These distinctions may help frame how prajñā is cultivated and
 manifests within saṃvṛti: establishing conditions, sustaining a capacity,

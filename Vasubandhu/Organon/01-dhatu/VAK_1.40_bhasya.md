@@ -61,50 +61,48 @@
 >
 > tasmād anyatra jātaṃ aṣaṣṭhajaṃ pañcendriya-jaṃ ca yat tad api nāsti darśana-prahātavyam /
 
-Word division is editorial. The question which Principles are views is the next unit.
+Word division is editorial. The local source runs from [028|25] through [029|12]. Its second-line verse reading at [029|05] is damaged; the clear repetition *nāpy aṣaṣṭhajam* at [029|10] and the explanation at [029|11–12] secure the reading used here. The question about which Principles count as views begins at [029|13].
 
 ## 3. Continuous Conventional Translation
 
-> How many Principles are abandoned by seeing, how many by cultivation, how many are not abandoned?
+> Of the eighteen Principles, how many contain dharmas abandoned by seeing, how many by cultivation, and how many not abandoned?
 >
-> The Form Principles, to begin with.
->
-> Ten are abandoned by cultivation, and five.
->
-> The Cognition Principles.
+> Begin with the ten Form Principles. They are abandoned by cultivation, as are the five sensory Cognition Principles.
 >
 > The last three are threefold.
 >
-> The Mind Principle, the Dharma Principle, and the Mind-Cognition Principle. These three Principles, last in the order of recitation, are of three kinds. The eighty-eight latent afflictions, what arises with them, their acquisitions, and their attendants are abandoned by seeing. The remaining Impure are abandoned by cultivation. The Pure are not abandoned.
+> The last three are the Mind, Dharma, and Mind-Cognition Principles. Each contains instances in all three classes. The eighty-eight latent afflictions, the factors arising with them, their acquisitions, and their attendant factors are abandoned by seeing. The remaining dharmas with āsravas are abandoned by cultivation. Those without āsravas are not abandoned.
 >
-> But is there not something else to be abandoned by seeing: ordinary-person status, and body and speech action leading to a bad destination, because they oppose the noble path?
+> Objection: ordinary-person status and bodily or verbal action leading to a bad destination oppose the noble path. Should they not also be abandoned by seeing?
 >
-> They are not to be abandoned by seeing. For this is the summary.
+> Reply: opposition to the path does not suffice. The concise rule is this:
 >
-> Nothing unafflicted is abandoned by seeing, nor Form, nor what is not born from the sixth.
+> Nothing unafflicted is abandoned by seeing; neither is Form, nor anything that does not arise from the sixth.
 >
-> There is nothing unafflicted to be abandoned by seeing, nor any Form. And ordinary-person status is unafflicted and indeterminate, since even those whose wholesome roots are cut, and those freed from attachment, possess it. Body and speech action is Form. Therefore it is not to be abandoned by seeing. And because there is no misapprehension concerning the truths, and because ordinary-person status would follow at the receptivity to Dharma-knowledge concerning suffering.
+> No unafflicted dharma is abandoned by seeing, and neither is any Form. Ordinary-person status is unafflicted and indeterminate: even someone whose wholesome roots have been severed, or who is free of attachment, may possess it. Bodily and verbal action belongs to Form. Neither therefore falls under abandonment by seeing. The argument further appeals to the absence of mistaken judgment about the truths and to the consequence of ordinary-person status at the moment of receptivity to Dharma-knowledge concerning suffering.
 >
 > Nor what is not born from the sixth.
 >
-> The sixth is called the Mind Essence. Therefore what is born elsewhere, not born from the sixth, and what is born of the five Faculties, is also not to be abandoned by seeing.
+> The sixth is the Mind Essence. Thus what arises elsewhere, including what arises from the five sensory Faculties, is not abandoned by seeing.
 
 ## 4. Movement
 
-The question is the three statuses. Fifteen are cultivation only. The last three take all three. The objection offers ordinary-person status and body and speech action, because they oppose the path. The verse excludes the unafflicted, form, and what is not born from the sixth. The sixth is the Mind Essence.
+The count first assigns the ten Form Principles and five sensory Cognition Principles to cultivation. The final three Principles have instances in all three classes. An objection proposes ordinary-person status and bodily or verbal action as further objects of abandonment by seeing. The answer supplies three exclusions: the unafflicted, Form, and what does not arise from the sixth Essence. The issue is the ground of the classification, not simply whether something impedes the path.
 
 ## 5. Decisions
 
 1. The ten Form Principles and the five sensory Cognition Principles are abandoned by cultivation.
 2. The last three are threefold: seeing, cultivation, and not abandoned.
-3. The eighty-eight, what arises with them, their acquisitions, and their attendants are abandoned by seeing. The remaining Impure are abandoned by cultivation. The Pure are not abandoned.
+3. The eighty-eight latent afflictions, their accompanying factors, acquisitions, and attendants are abandoned by seeing. The remaining dharmas with āsravas are abandoned by cultivation; those without āsravas are not abandoned.
 4. Ordinary-person status is unafflicted and indeterminate. It is not abandoned by seeing.
 5. Body and speech action is Form. It is not abandoned by seeing.
 6. The sixth is the Mind Essence. What is not born from it is not abandoned by seeing.
 
 ## 6. Interpretation
 
-Opposing the path is not the mark of abandonment by seeing. The mark is afflicted, not Form, and born from the sixth. The fifteen never meet it. Ordinary-person status survives the cut of the wholesome roots and the freedom from attachment. That is why seeing does not take it.
+The classification now reflects on the *mode of correction* appropriate to each determination. Seeing addresses the afflicted dharmas in the last three Principles that meet the stated conditions; cultivation addresses Form and the five sensory Cognitions, as well as the remaining dharmas with āsravas in the last three. Dharmas without āsravas are not abandoned. The three exclusions are necessary conditions for abandonment by seeing, not a claim that every afflicted product of the Mind Essence is abandoned by seeing.
+
+On our Model and Feature reading, Cognition is the working Model, while “abandoned by seeing,” “abandoned by cultivation,” and “not abandoned” are reflective determinations of its instances. The Bhāṣya gives criteria that constrain those determinations. This is an Organon interpretation of its classificatory work, not a claim that *heya* means Feature in Sanskrit.
 
 ## 7. Review Status
 

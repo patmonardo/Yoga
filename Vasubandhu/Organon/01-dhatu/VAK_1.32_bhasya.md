@@ -15,7 +15,7 @@
 >
 > savitarkavicārā hi pañca vijñānadhātavaḥ /
 >
-> pañca vijñānadhātavo nityaṃ vitarkavicārābhyāṃ saṃprayuktāḥ / niyamārtho hiśabdaḥ /
+> pañca vijñānadhātavo nityaṃ vitarkavicārābhyāṃ saṃprayuktāḥ / avadhāraṇārtho hiśabdaḥ /
 >
 > antyās trayas triprakārāḥ /
 >
@@ -51,7 +51,11 @@
 >
 > daśa rūpiṇo dhātavaḥ śeṣā nityam avitarkā avicārā asaṃprayogitvāt /
 
-Word division is editorial. The question why the five are called non-discriminating is 1.33 and is not this unit.
+The unit runs from `[022|02]` through `[022|17]`. Word division and evident
+spelling repairs are editorial. The local witness reads *avadhāraṇārtho
+hiśabdaḥ*, expressing the restrictive force of *hi*. Damaged forms of
+*dharmadhātu*, *avitarka*, and *vitarkamātra* are normalized above. The
+question why the five are called non-discriminating opens 1.33.
 
 ## 3. Continuous Conventional Translation
 
@@ -59,7 +63,7 @@ Word division is editorial. The question why the five are called non-discriminat
 >
 > The five Cognition Principles are with vitarka and with vicāra.
 >
-> The five Cognition Principles are always associated with vitarka and vicāra. The word hi has the force of restriction.
+> The five Cognition Principles are always associated with vitarka and vicāra. The particle *hi* makes this an exclusive statement.
 >
 > The last three are of three kinds.
 >
@@ -93,7 +97,15 @@ The question sets three classes. The verse answers with the five, the last three
 
 ## 6. Interpretation
 
-The pair is how the last three run the wheel. Desire and the first concentration still have both. The intermediate drops vitarka and keeps vicāra. From the second concentration to the summit, neither. The five Cognitions do not get that range. They are the desireling's present, and they are always with both. The ten whose nature is Form do not associate, so the pair never reaches them. The page does not print the wheel. The page prints the three kinds and the four.
+The last three Principles admit different relations to *vitarka* and
+*vicāra* by level: both in the Desire Realm and first concentration,
+*vicāra* alone in the intermediate concentration, and neither from the
+second concentration to the summit. The five sensory Cognitions have no
+such range of kinds: wherever they occur, they are associated with both.
+As 1.30 shows, some occur in the Form Realm as well as the Desire Realm.
+The ten Form-natured Principles are unassociated and therefore have
+neither. This is a classification of how Principles occur, not another
+list of Principles.
 
 The engine reading: kind is a relation between a Principle, through its
 portions, and a level. *Hi* makes the five exclusive; *tri-prakāra* gives

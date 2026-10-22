@@ -41,21 +41,32 @@
 >
 > spraṣṭavyāni bhikṣo bāhyam āyatanaṃ catvāri mahābhūtāni caturbhir mahābhūtair upādāya rūpaṃ anidarśanaṃ sapratigham /
 >
-> bhūtānāṃ spraṣṭavyāyatanekadeśasaṃgrahāt śeṣasya bhūtatvābhāvaḥ siddhaḥ /
+> spraṣṭavyāyatanekadeśenaiva bhūtānāṃ saṃgrahāc cheṣaṃ na bhūtānīti spaṣṭam ādarśitam /
 >
-> yat tarhi sūtra uktaṃ yad asmin cakṣuṣi māṃsapiṇḍe kāṭhinyaṃ tat pṛthivīdhātur iti / māṃsapiṇḍasyopadeśaḥ /
+> yat tarhi sūtra uktaṃ “yac cakṣuṣi māṃsapiṇḍe khakkhaṭaṃ kharagatam” iti /
+> tenāvinirbhāgavartino māṃsapiṇḍasya eṣa upadeśaḥ /
 >
-> ṣaḍdhātukaḥ puruṣa iti garbhāvakrāntau sattvadravyanidarśanārtham / ṣaṭ sparśāyatanāny ucyante / anyathā caittābhāvaḥ syāt /
+> “ṣaḍdhātur ayaṃ bhikṣo puruṣa” iti garbhāvakrāntau maulasattvadravyasaṃdarśanārtham /
+> punaḥ ṣaṭ sparśāyatanavacanāc caittābhāvaprasaṅgāc ca /
 >
-> na ca caittāś cittamātram iti yuktam / sūtre saṃjñā vedanā ca cittānuparivartinī cittapratibaddheti / sarāgādi cittam uktam /
+> na ca yuktaṃ cittam eva caittā ity abhyupetum /
+> “saṃjñā ca vedanā ca caitasika eṣa dharmaś cittānvayaś cittaniśritaḥ” iti
+> sūtre vacanāt sarāgacittādi vacanāc ca /
 >
 > tasmād yathokta eva dhātūnāṃ bhūtabhautikatvaviniścayaḥ /
 >
 > kati saṃcitāḥ katy asaṃcitāḥ /
 >
-> saṃcitā daśa rūpiṇaḥ / pañcendriyadhātavaḥ pañca viṣayadhātavaḥ / paramāṇusaṃghātatvāt / śeṣā na saṃcitāḥ /
+> saṃcitā daśa rūpiṇaḥ / pañcendriyadhātavaḥ pañca viṣayāḥ saṃcitāḥ /
+> paramāṇusaṃghātatvāt / śeṣā na saṃcitā iti siddhaṃ bhavati /
 
-Word division is editorial. The sūtra lines are restored to the argument, not to a named edition. The next question is 1.36 and is not this unit.
+The unit runs from `[023|18]` through `[024|19]`. Word division and many
+repairs to the damaged local e-text are editorial. In particular, the
+quoted sūtra at `[024|03]`–`[024|08]` is a working reconstruction of its
+readable syntax, not a verbatim transcription or a critical collation.
+The reply about the fleshy eye and the six-Principle person now follows
+the local wording rather than replacing it with a doctrinal paraphrase.
+The next question opens 1.36.
 
 ## 3. Continuous Conventional Translation
 
@@ -77,13 +88,13 @@ Word division is editorial. The sūtra lines are restored to the argument, not t
 >
 > And it is said in a sūtra: the eye, monk, is an internal Essence, a clarity of Form depending on the four Great Elements, whose nature is Form, invisible, resistant. So through the body. Visible forms, monk, are an external Essence, depending on the four Great Elements, whose nature is Form, visible, resistant. Sound, monk, is an external Essence, depending on the four Great Elements, whose nature is Form, invisible, resistant. So Odor and Taste. Tangibles, monk, are an external Essence: the four Great Elements, and Form depending on the four Great Elements, whose nature is Form, invisible, resistant.
 >
-> Since the Elements are included in one portion of the Tangible Essence, the rest is established as not Elements.
+> Since the Elements are included in just one portion of the Tangible Essence, the text clearly shows that the rest are not Elements.
 >
-> What then of what is said in the sūtra, whatever in this fleshy mass of the eye is hard, that is the Earth Principle? That is an instruction about the fleshy mass. A person consists of six Principles: in the descent into the womb, this is to show the constituents of a being. The six Contact Essences are stated. Otherwise there would be no mental factors. And it is not reasonable that the mental factors are just citta. In a sūtra, reflection and feeling follow citta and depend on citta. And citta with passion and the rest is stated. Therefore the determination of Element and Element-dependent is as stated.
+> What, then, of the sūtra's statement about what is hard and rough in the fleshy mass of the eye? It refers to that fleshly mass, which accompanies the Faculty inseparably, rather than to the Faculty's own nature. The statement in the discourse on descent into the womb, “This person has six Principles,” points out the primary constituents of a being. The teaching also speaks of six Contact Essences; otherwise it would follow that mental factors were absent. Nor is it reasonable to identify mental factors simply with *citta*: a sūtra says that Reflection and Feeling are mental dharmas following and depending on *citta*, and speaks of *citta* with passion and the rest. Thus the Elements and Element-dependent dharmas are determined as stated.
 >
 > How many are Accumulated, how many not?
 >
-> The ten whose nature is Form are Accumulated: the five Faculty Principles and the five Condition Principles, because they are clusters of atoms. The rest are not accumulated.
+> The ten whose nature is Form are Accumulated: the five Faculty Principles and five Condition Principles, because they are clusters of atoms. It follows that the rest are not Accumulated.
 
 ## 4. Movement
 
@@ -101,7 +112,15 @@ The first question is Element and Element-dependent. The Tangible is both. The o
 
 ## 6. Interpretation
 
-The Element is not the Principle. The four sit in the Tangible, and the Element-dependent sits there with them. The eye is a clarity depending on the four. It is not the four. Avijñapti is Element-dependent, and it is not among the ten. Accumulated is the atom-cut, and it stops at the ten. The page does not print the science. The page prints the twofold Tangible and the refusal.
+The cuts are not interchangeable. The four Great Elements are instances
+of the Tangible Principle, alongside seven Element-dependent kinds of
+Tangible. The other nine Form-bearing Principles are Element-dependent,
+as is *avijñapti*, a portion of the Dharma Principle. Yet only the ten
+Form-bearing Principles are Accumulated as atomic clusters: *avijñapti*
+is Element-dependent without joining that count. The eye Faculty is a
+clarity dependent on the Elements, while the fleshy eye belongs to the
+material mass associated with it. This is why Buddhadeva's identification
+of all ten Form Essences with the Elements fails in the Bhāṣya's argument.
 
 ## 7. Review Status
 

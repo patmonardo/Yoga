@@ -137,13 +137,17 @@
 >
 > tasmāt siddham etad rūpadhātvāptāś caturdaśa dhātava iti /
 
-Word division is editorial. The formless count is 1.31 and is not this unit.
+The unit runs from `[020|10]` through `[021|19]`. Word division and evident
+spelling repairs are editorial. At `[020|24]` the local witness reads
+*tatrabhāvaprasaṅgaḥ*; the objection requires *tatrābhāvaprasaṅgaḥ*,
+“it would follow that it is absent there,” which is read above. This is a
+working text, not a critical collation. The Formless count opens 1.31.
 
 ## 3. Continuous Conventional Translation
 
 > The others are threefold.
 >
-> The other ten Principles are wholesome, unwholesome, and indeterminate. Of them, the Cognition Principle, the seven — six Cognition Principles and the Mind Principle — associated with non-greed and the rest is wholesome; associated with greed and the rest, unwholesome; otherwise, indeterminate.
+> The other ten Principles can each be wholesome, unwholesome, or indeterminate. Of these, the seven mental Principles—the six Cognition Principles and the Mind Principle—are wholesome when associated with non-greed and the like, unwholesome when associated with greed and the like, and otherwise indeterminate.
 >
 > The Dharma Principle is wholesome when it has the nature of non-greed and the rest, is associated with them, or has arisen from them, and so is the cessation through discrimination. It is unwholesome when it has the nature of greed and the rest, is associated with them, or has arisen from them. The rest is indeterminate.
 >
@@ -159,17 +163,37 @@ Word division is editorial. The formless count is 1.31 and is not this unit.
 >
 > Fourteen Principles in the Form Realm, excluding the Odor, Taste, nose-Cognition, and tongue-Cognition Principles.
 >
-> For Odor and Taste are not there, because they are morsel food, and those free of passion for that are born there. Hence nose-Cognition and tongue-Cognition are not there either, because the support is absent.
+> Odor and Taste are absent there: they belong to morsel food, and those born in the Form Realm are free of passion for such food. Nose-Cognition and tongue-Cognition are absent as well, because what they would take as their cognitive support (*ālambana*) is absent.
 >
-> Then the Tangible Principle also should be absent there, because it is morsel food. — What is not of the nature of food is there. — The same would follow for Odor and Taste. — There is no enjoyment of Odor and Taste apart from ingestion. The Tangible, however, is there as the support of a Faculty, as a basis, and as a covering. So for those free of passion for ingestion, Odor and Taste are of no use there, but the Tangible is not.
+> Objection. Then the Tangible Principle should also be absent there, because it too can be morsel food. Reply. What is not food by nature remains there. Objection. The same could be said of Odor and Taste. Reply. There is no enjoyment of Odor or Taste apart from ingestion. The Tangible, however, serves as a Faculty's support, a basis, and a covering. Thus Odor and Taste have no use for those free of passion for ingestion, whereas the Tangible does.
 >
-> Others say: depending on the attainment of concentration, forms are seen here and sounds are heard, and the body is favored by a special Tangible accompanied by pliancy. So just these three occur in a birth from concentration, and Odor and Taste do not.
+> Others say: depending on the attainment of concentration, forms are seen here and sounds are heard, and the body is sustained by a special Tangible accompanied by pliancy. Hence just these three can occur in a birth from concentration, while Odor and Taste do not.
 >
-> Then the nose and tongue Faculties should be absent, because they are of no use. — They have a use. Without them the support would not be beautiful, and there would be no discourse of them. — If that is the use, let the site alone be, for beauty and for speech. Let there be no Faculty. — A site that is not a Faculty does not occur, as with the site of the male Faculty. — That absence is fitting, because it is of no use. The site of nose and tongue has a use, so its occurrence without the Faculty is fitting. — The production of a Faculty can be of no use, as with those certain to die in the womb. It may be of no use. It is not without a cause. And what is the cause of a Faculty's arising? A special action of one who craves the Faculty. And one free of craving for the Condition is certainly free of craving for the Faculty too. So the nose and tongue Faculties should not occur for those free of passion for that Condition. — Then why does the male Faculty not cease? — Because it does not make for ugliness. — Why should the concealed bladder and the private part not be beautiful? — And arising is not by force of a use. By what, then? By force of a cause. So even what does not make for beauty does arise when the cause is present.
+> Objection. Then the nose and tongue Faculties should be absent too, since
+> they have no use. Reply. They do have a use: without them the bodily support
+> would lack beauty, and ordinary speech about them would fail.
+>
+> Objection. If that is their use, let the bodily sites remain for beauty and
+> speech, without the Faculties. Reply. A site without its Faculty does not
+> occur, as in the case of the male Faculty's site. Rejoinder. That absence is
+> reasonable because that site has no use; nose and tongue sites do have a
+> use and could occur without their Faculties.
+>
+> Reply. A Faculty can arise without serving a use, as with those certain to
+> die in the womb. Rejoinder. It may lack a use, but it does not arise without
+> a cause. A special action of someone craving a Faculty causes its arising;
+> one free of craving for its Condition is also free of craving for that
+> Faculty. Hence the nose and tongue Faculties should not arise for those
+> free of passion for their Conditions.
+>
+> Objection. Why, then, does the male Faculty not cease? Reply. Because it
+> does not cause ugliness. Rejoinder. Why should the concealed bladder and
+> private part not be beautiful? Arising follows a cause, not a use. Even
+> something that does not make for beauty can arise when its cause is present.
 >
 > Then the sūtra is contradicted: “not deficient, not lacking Faculties.” — Not deficient by the Faculties that are there, not lacking those Faculties. What contradiction is there? Otherwise the same would follow for the male Faculty.
 >
-> They explain it thus. The nose and tongue Faculties are there. Odor and Taste are not. For the activity of craving toward the six Essences proceeds by way of the person, not by way of the Condition. Toward the male Faculty, it proceeds by way of sexual contact. Therefore this is established: fourteen Principles are connected with the Form Realm.
+> They explain it thus: the nose and tongue Faculties are there, but Odor and Taste are not. Craving concerning the six Essences operates through embodied existence, rather than through the sensory Condition; craving concerning the male Faculty operates through sexual contact. Thus the conclusion stands: fourteen Principles are connected with the Form Realm.
 
 ## 4. Movement
 
@@ -183,7 +207,9 @@ The ethical threefold closes the question opened at 1.29. The realm question beg
 4. All eighteen are connected with the Desire Realm.
 5. The Form Realm has fourteen. The four excluded are Odor, Taste, nose-Cognition, and tongue-Cognition.
 6. Nose and tongue, the Faculties, are not excluded.
-7. Absence of the support removes the Cognition. A use does not, by itself, remove the Faculty.
+7. Absence of the relevant *ālambana* removes nose- and tongue-Cognition. The
+   question whether a Faculty remains is argued separately through use, site,
+   cause, and craving.
 
 ## 6. Interpretation
 
@@ -205,11 +231,12 @@ determinations do not substitute for one another. How Base and Principle
 stand as levels of Cognition is left open here.
 
 The Form Realm debate keeps its full sequence. Odor and Taste go as morsel
-food; their Cognitions go with the support. The Tangible stays as support
-of a Faculty, basis, and covering. The nose and tongue Faculties stay:
-arising follows a cause, not a use, and craving there runs by way of the
-person, not the Condition. The concentration account is the others'. The
-formless count is 1.31.
+food; their Cognitions lack the *ālambana* they would take. This is distinct
+from the Faculty as the Cognition's *āśraya*. The Tangible stays as support
+of a Faculty, basis, and covering. The nose and tongue Faculties stay in the
+fourteen despite the absence of their Conditions; the text tests that result
+through use, site, cause, and craving. The concentration account is the
+others'. The Formless count belongs to 1.31.
 
 ## 7. Review Status
 

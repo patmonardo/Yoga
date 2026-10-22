@@ -27,13 +27,15 @@
 >
 > pañcadaśa dhātavaḥ śeṣās tv ekāntasāsravāḥ /
 
-Word division is editorial. The question on applied thought and investigation is 1.32 and is not this unit.
+The unit runs from `[021|20]` through `[022|01]`. Word division is editorial;
+the local *tadāśrrayālambanāḥ* is read *tadāśrayālambanāḥ*. The question
+about applied thought and investigation opens 1.32.
 
 ## 3. Continuous Conventional Translation
 
 > Connected with the Formless are the Mind Principle, the Dharma Principle, and the Mind-Cognition Principle.
 >
-> Those free of passion for Form are born there. So the ten Principles whose nature is Form do not occur there, nor the five Cognition Principles that have those as support and Condition.
+> Those free of passion for Form are born there. Thus the ten Principles whose nature is Form do not occur there, nor do the five sensory Cognition Principles dependent on them as support and cognitive Condition.
 >
 > How many are Impure, how many Pure? These that have been stated, the Mind Principle, the Dharma Principle, and the Mind-Cognition Principle: these three are Impure and Pure.
 >
@@ -45,7 +47,12 @@ Word division is editorial. The question on applied thought and investigation is
 
 ## 4. Movement
 
-The first sentence completes the realm count begun at 1.30. The reason is birth: free of passion for Form, so no Form-natured Principle, and no Cognition that takes one as support or Condition. The question of Impure and Pure then begins a new cut. These three admit both. The fifteen do not. There is no rival school in the unit.
+The first sentence completes the Realm count begun at 1.30. Birth among those
+free of passion for Form excludes the ten Form-natured Principles and the
+five sensory Cognitions dependent on them. The question of Impure and Pure
+then begins a separate cut. Each of the remaining three Principles can have
+both Impure and Pure instances; the other fifteen are exclusively Impure.
+No rival school is named in this unit.
 
 ## 5. Decisions
 
@@ -59,9 +66,14 @@ The first sentence completes the realm count begun at 1.30. The reason is birth:
 
 ## 6. Interpretation
 
-The realm cut is Dharma:Formless:Form:Desire. Everything is in everything, and desire is covered by dharma. The birth-cut is still a cut. The desireling is the eating and mating machine. That machine is not born in the Form Realm, and it is not born in the Formless. The Formless drops the ten whose nature is Form. It does not drop the Form of Universality. That Form is the Concept, and it is in the Formless as the three that remain. The page does not print that. The page prints the three Principles and the Pure and the Impure.
+The Formless excludes the Form-natured Principles and the sensory Cognitions
+dependent on them. It does not exclude Cognition as such: Mind, Dharma, and
+Mind-Cognition remain. In the Organon reading, this is a sharper question
+about the Instrument than a mere subtraction from eighteen. What operation
+remains when the sensory route is absent? The passage establishes the three
+surviving Principles; a fuller account of their unity belongs to later study.
 
-The engine reading is narrower. The realm count closes: eighteen in the
+The classification is exact. The Realm count closes: eighteen in the
 Desire Realm, fourteen in the Form Realm, three in the Formless, each
 checked extensionally. The Formless drops exactly the ten Form-natured
 Principles and the five Cognitions that take them as support and

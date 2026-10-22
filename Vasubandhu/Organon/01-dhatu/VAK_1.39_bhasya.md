@@ -143,7 +143,7 @@
 >
 > ye punar asabhāgās te teṣāṃ sabhāgānāṃ jāti-sāmānyena sabhāgatvāt tat-sabhāgāḥ /
 
-Word division is editorial. The Kāśmīra count is read with the unseen, as the later field count has it. The abandonment classification is the next unit.
+Word division is editorial. This unit runs from [027|01] to [028|24] in the local source. At [028|04–05] that transcription appears to read *dṛṣṭvā* (“having seen”) in the Kāśmīra list. Its definition of *tat-sabhāga* and the parallel list for Visible Form at [028|09] require the eye that has **not** seen; the working witness therefore reads *adṛṣṭvā*. The abandonment classification begins at [028|25].
 
 ## 3. Continuous Conventional Translation
 
@@ -155,21 +155,21 @@ Word division is editorial. The Kāśmīra count is read with the unseen, as the
 >
 > Having set aside those beginning with Visible Form.
 >
-> The six Cognitions and the six Bases: these twelve Principles are inner. The six Condition Principles beginning with Visible Form are outer.
+> The six Cognitions and their six supports make twelve internal Principles. The six Condition Principles, beginning with Visible Form, are external.
 >
 > There being no self, how is there inner or outer?
 >
-> Citta is designated self because it is the support of the I-maker. It is said: by a well-tamed self the wise one reaches heaven. And elsewhere the Blessed One has spoken of the taming of citta: taming of citta is good; a tamed citta brings ease. Therefore, because of nearness, as Bases, to that citta which is the designated self, the eye and the rest are inner. Those beginning with Visible Form are outer because they are Conditions.
+> Citta is figuratively called “self” because it supports I-making. Thus it is said, “By a well-tamed self the wise person reaches heaven.” Elsewhere the Blessed One says, “Taming citta is good; a tamed citta brings ease.” The Eye and the other supports of citta are called internal because they are close to this conventionally named “self.” Visible Form and the other Conditions are called external because they stand as what is encountered.
 >
-> Then the six Cognition Principles would not be inner. For so long as they have not become the Mind Principle they are not the support of citta.
+> Objection: on that account, the six Cognition Principles would not be internal. Until a Cognition becomes the Mind Principle, it does not serve as a support for citta.
 >
-> When they have, they are that. They do not exceed the mark. Otherwise the Mind Principle would be past only, and not future or present. And the eighteen Principles are admitted as belonging to the three times. If the future and present Cognition did not have the mark of the Mind Principle, the Mind Principle would not be settled in the past time either. The mark does not fail across the times.
+> Reply: when a Cognition becomes the Mind Principle, it remains that very Cognition; its defining mark does not change. Otherwise the Mind Principle would exist only in the past, although the eighteen Principles are admitted in past, present, and future. If present and future Cognition lacked the mark of the Mind Principle, there would be no basis for recognizing that Principle even in the past. A defining mark cannot vary across the three times.
 >
 > How many Principles are sabhāga, how many tat-sabhāga?
 >
 > Without exception, the one called dharma is sabhāga.
 >
-> A Condition determined for a Cognition is called sabhāga if that Cognition has arisen toward it or is of a nature to arise. And there is no Dharma Principle toward which endless Mind-Cognition has not arisen or will not arise. For this citta must arise for every noble person: all dharmas are without self. Apart from its own-nature and what arises with it, all dharmas are its Support. And that moment of citta is the Support of another moment of citta. In two moments, all dharmas are Support. Therefore the Dharma Principle is always sabhāga.
+> A Condition assigned to a Cognition is *sabhāga* if that Cognition has arisen in relation to it or can arise. No instance of the Dharma Principle lies beyond Mind-Cognition in this way. For every noble person a citta must arise that knows, “All dharmas are without self.” All dharmas except that moment's own nature and its accompanying factors are its Supports. That moment itself becomes the Support of a subsequent moment. Thus, across the two moments, all dharmas can serve as Support. The Dharma Principle is therefore always *sabhāga*.
 >
 > And the rest are tat-sabhāga. The word and means they are also sabhāga.
 >
@@ -177,13 +177,13 @@ Word division is editorial. The Kāśmīra count is read with the unseen, as the
 >
 > Whichever does not do its own work.
 >
-> What is said is: whichever does its own work is sabhāga. An eye by which Visible Forms were seen, are seen, or will be seen is called a sabhāga eye. So on through mind, each to be stated by its own operation on its Condition.
+> Conversely, what does its own work is *sabhāga*. An eye by which Visible Forms were seen, are seen, or will be seen is a *sabhāga* eye. The same applies through Mind, each according to its own operation with its Condition.
 >
-> For the Kāśmīras a tat-sabhāga eye is fourfold: ceased, ceasing, or about to cease without having seen Visible Forms, and not of a nature to arise. For the Westerners it is fivefold: that same not of a nature to arise is made twofold, connected with Cognition and not connected. So on through the body. Mind, however, is tat-sabhāga only when not of a nature to arise.
+> The Kāśmīras count four cases of a *tat-sabhāga* eye: one that ceased, is ceasing, or will cease without seeing Visible Forms, and one that will never arise. The Westerners count five by dividing the last case into one associated with Cognition and one not associated with it. The same pattern extends through the Body Faculty. Mind, however, is *tat-sabhāga* only when it cannot arise.
 >
 > And Visible Forms which the eye saw, sees, or will see are sabhāga. Tat-sabhāga ones are fourfold: ceased, ceasing, or about to cease unseen, and not of a nature to arise. So on through Tangible. They are to be understood by the operation of their own Faculty.
 >
-> An eye that is sabhāga for one is so for all. Likewise when it is tat-sabhāga. So on through mind. Visible Form, however, is sabhāga for the one who sees it and tat-sabhāga for the one who does not. Why? There is the possibility that what one sees, many also see, as in looking at the moon, a performer, or a wrestler. There is no possibility that two see by one eye. Therefore, because the eye is uncommon, the settlement is by one continuum. Because Visible Form is common, by many continua. As Visible Form, so Sound, Odor, Taste, and Tangible.
+> If an eye is *sabhāga* for one person, it is classified that way for anyone assessing that eye; likewise if it is *tat-sabhāga*. The same holds through Mind. Visible Form differs: it is *sabhāga* for whoever sees it and *tat-sabhāga* for whoever does not. Many can see the same moon, performer, or wrestler, but two people cannot see through one eye. The eye belongs to one continuum; Visible Form can be shared among many. The same account extends to Sound, Odor, Taste, and Tangible.
 >
 > Let Sound be so. But Odors and the rest that are grasped by one are not grasped by another, because the grasping is on contact. Because they are uncommon, should they not follow the eye and the rest?
 >
@@ -197,20 +197,22 @@ Word division is editorial. The Kāśmīra count is read with the unseen, as the
 
 ## 4. Movement
 
-Two questions. How many are inner, how many outer. How many do their own work, how many are only of that kind. The self-objection is answered by a designation: citta supports the I-maker. The cognition-objection is answered by the three times. The Dharma Principle never fails the work. The rest fail it in counted ways. The eye is uncommon. Visible Form is common. Odor is common only in possibility.
+The first question locates twelve Principles relative to citta without positing a substantial self. An objection about the six Cognitions forces the account to preserve a Principle's defining mark across the three times. The second question distinguishes *sabhāga*, actual or possible participation in proper operation, from *tat-sabhāga*, failure of that operation despite belonging to the same kind. The Dharma Principle is always available as Support across the two-moment argument. The other Principles admit both statuses. Finally, the Bhāṣya tests whether a Condition can be shared among different personal continua: Visible Form plainly can, while Odor is shareable in possibility.
 
 ## 5. Decisions
 
-1. Twelve are inner: six Cognitions and six Bases. Six are outer: the Condition Principles beginning with Visible Form.
+1. Twelve are internal: six Cognitions and their six supports. Six are external: the Condition Principles beginning with Visible Form.
 2. Citta is designated self as support of the I-maker. Inner is nearness to that. There is no self.
 3. The Cognition Principles are inner. When past they are the Mind Principle. The mark holds in the three times.
-4. The Dharma Principle is always sabhāga.
-5. The rest are sabhāga when they do their own work, tat-sabhāga when they do not.
+4. The Dharma Principle is always *sabhāga* by the two-moment argument concerning Support.
+5. The rest are *sabhāga* when they do or can do their own work, *tat-sabhāga* when they do not.
 6. The eye is uncommon, settled by one continuum. Visible Form is common, settled by many. Odor and the rest are common in possibility.
 
 ## 6. Interpretation
 
-Inner is not a self found. It is proximity to citta, and citta is called self only as the support of the I-maker. Sabhāga is not a further Principle. It is the Principle doing the work it is. The Dharma Principle does not have the failure. The eye cannot be the seeing of two. One Visible Form can be the seeing of many. That is the cut between uncommon and common.
+Here the determination of Form becomes relational. “Internal” names the six Cognitions and their supports in relation to citta; “external” names their Conditions. *Sabhāga* then asks whether a given Faculty, Condition, or Cognition participates in its proper operation. This is no new substance or nineteenth Principle. The same Visible Form can function for one observer and fail to function for another, while an eye belongs to one personal continuum. The account therefore determines Form through the relations in which it can appear and operate.
+
+In our Hegelian reading, this is a movement of Essence before the treatment of concrete existence: Ground and condition are being articulated through possible and actual operation, and through what can be common to several subjects. That comparison is an interpretive mapping. The Bhāṣya itself argues by the eighteen Principles, the three times, and the work of Faculty, Condition, and Cognition; it does not name Hegelian Dependent Origination.
 
 ## 7. Review Status
 

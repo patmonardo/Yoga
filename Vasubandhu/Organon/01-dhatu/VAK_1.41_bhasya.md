@@ -56,46 +56,48 @@
 >
 > cakṣuḥ paśyati rūpāṇi /
 
-Word division is editorial. The sentence that the eye sees Visible Form opens the next dispute. That dispute is not this page.
+Word division is editorial. The local source runs from [029|13] to [030|02]. Its printed *pradeśu* at [029|14] is read as the kārikā's dual *pradeśau*; several forms in the view list are damaged in the transcription. “The eye sees Visible Forms” at [030|03] begins the argument of 1.42 and is quoted here only to show where this unit hands off.
 
 ## 3. Continuous Conventional Translation
 
 > Of the eighteen Principles, how many are view, how many are not?
 >
-> The eye and a portion of the Dharma Principle, two portions, are view.
+> Two portions of the eighteen count as view: the Eye Principle, and a portion of the Dharma Principle.
 >
-> Which is that? He says: eightfold.
+> What is that portion of the Dharma Principle? It has eight forms.
 >
-> The five views beginning with the view of a real body, worldly right view, the trainee's view, and the adept's view: this eightfold portion of the Dharma Principle is view. The remainder is not view. The explanation of those beginning with the view of a real body will come at its time, in the exposition of the latent afflictions.
+> It comprises the five views beginning with the view of a real body, worldly right view, the trainee's view, and the view of one beyond training. Only this eightfold portion of the Dharma Principle is view; the remainder is not. The five views beginning with the view of a real body will be explained in the treatment of latent afflictions.
 >
-> And worldly right view is wholesome Impure prajñā associated with Mind-Cognition. The Pure view of a trainee is the trainee's view. That of one beyond training is the adept's view.
+> Worldly right view is wholesome *prajñā* with āsravas, associated with Mind-Cognition. The trainee's view is a view without āsravas belonging to a trainee; the view of one beyond training likewise belongs to one beyond training.
 >
-> Seeing dharmas by afflicted and unafflicted worldly view, by the trainee's view, and by the adept's view is like seeing Visible Form by night or by day, with cloud or without cloud.
+> Seeing dharmas through afflicted or unafflicted worldly views, a trainee's view, or a view beyond training differs as seeing Visible Form does by night or day, under clouds or clear sky.
 >
 > Then why is worldly right view said to be associated with Mind-Cognition only? Because:
 >
-> Discrimination born with the five Cognitions is not view, because it does not ascertain.
+> Discriminative comprehension arising with the five sensory Cognitions is not view, because it does not ascertain.
 >
-> For view ascertains, because it proceeds by attentive examination. And prajñā born with the five Cognitions is not like that. Therefore it is not view. For this reason other prajñā too, whether afflicted or unafflicted, is not view.
+> View, in this sense, ascertains through attentive examination. The *prajñā* accompanying the five sensory Cognitions does not examine in that way, so it is not view. The same exclusion applies to other afflicted or unafflicted *prajñā* that lacks such ascertainment.
 >
-> Now, the eye not ascertaining, how is it view? By the sense of disclosing Visible Form. Because the eye sees Visible Form.
+> Objection: the Eye does not ascertain either. Why call it view? Because “view” can also mean the disclosure of Visible Form. The claim that the Eye sees Visible Forms opens the next inquiry.
 
 ## 4. Movement
 
-The question is how many of the eighteen are view. Two portions. The Dharma Principle portion is eightfold, and the remainder is not view. Worldly right view is then restricted to Mind-Cognition, because prajñā born with the five Cognitions does not ascertain. The eye is view by another sense. The dispute that follows from that sentence is the next unit.
+The verse first isolates two portions: the whole Eye Principle and an eightfold portion of the Dharma Principle. It then asks why worldly right view belongs with Mind-Cognition rather than the five sensory Cognitions. The answer is ascertainment: sensory-accompanying *prajñā* does not perform it. The Eye remains “view” in a different sense, the disclosure of Visible Form. The next verse disputes what performs that seeing.
 
 ## 5. Decisions
 
 1. The Eye Principle, whole, and a portion of the Dharma Principle are view.
 2. The Dharma Principle portion is eightfold. The remainder is not view.
-3. Worldly right view is wholesome Impure prajñā associated with Mind-Cognition.
-4. The trainee's view and the adept's view are Pure.
-5. Prajñā born with the five Cognitions is not view, because it does not ascertain.
+3. Worldly right view is wholesome *prajñā* with āsravas, associated with Mind-Cognition.
+4. The trainee's view and the view beyond training are without āsravas.
+5. *Prajñā* accompanying the five sensory Cognitions is not view in the ascertaining sense.
 6. The eye is view by disclosure of Visible Form, not by ascertainment.
 
 ## 6. Interpretation
 
-View is ascertainment, and ascertainment proceeds by attentive examination. Prajñā born with the five Cognitions does not do that, so it is not view. The eye does not do it either. The page keeps it as view by another sense, disclosure. That second sense is not yet the dispute. The eight are a portion of the Dharma Principle, not the Principle as such.
+This is a precise test of the Model/Feature distinction. “View” is a determination applied to two different operations: sensory disclosure by the Eye, and discriminative ascertainment in a portion of the Dharma Principle. The same word does not make the operations identical. Nor does the presence of *prajñā* alongside sensory Cognition suffice for the ascertaining kind of view. The eight forms belong to a portion of the Dharma Principle; the rest of that Principle remains outside the classification.
+
+For our Science of Principles, this is a reflective distinction between a capacity to disclose Form and a determination of what is disclosed. The text does not yet decide whether the Eye or its dependent Cognition is the seer. That question belongs to 1.42.
 
 ## 7. Review Status
 

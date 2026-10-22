@@ -51,27 +51,30 @@
 >
 > yal loke sacetanam ity ucyate /
 
-Word division is editorial. The question of primary and derived form is 1.35 and is not this unit.
+The unit runs from `[022|27]` through `[023|17]`. Word division and evident
+spelling repairs are editorial; the local *it isiddham* is read *iti
+siddham*, and *opiagṛhītam* is read *upagṛhītam*. The question of primary
+and Element-dependent Form opens 1.35.
 
 ## 3. Continuous Conventional Translation
 
-> How many take a Support, how many do not?
+> How many take a cognitive Support (*ālambana*), and how many do not?
 >
-> Seven consciousness Principles take a Support.
+> Seven consciousness Principles take such a Support.
 >
 > The Eye, Ear, Nose, Tongue, and Body Cognition Principles, the Mind-Cognition Principle, and the Mind Principle: these seven consciousness Principles take a Support, because they grasp a Condition.
 >
-> And a half with respect to the Dharma Principle.
+> And the mental-factor half of the Dharma Principle does too.
 >
-> What has the nature of the mental factors takes a Support. So the remaining ten Principles whose nature is Form, and the unassociated portion of the Dharma Principle, do not take a Support. That is established.
+> The portion consisting of mental factors takes a Support. The ten remaining Principles whose nature is Form, and the unassociated portion of the Dharma Principle, do not. That is established.
 >
 > How many are appropriated, how many unappropriated?
 >
 > Nine are Unappropriated.
 >
-> Which nine? The seven stated as taking a Support, together with a half of the eighth.
+> Which nine? Recall the seven that take a Support, together with the half of an eighth.
 >
-> Those eight, and Sound.
+> Those eight Principles, and Sound.
 >
 > These are the nine Unappropriated: the seven consciousness Principles, the Dharma Principle, and the Sound Principle.
 >
@@ -79,11 +82,17 @@ Word division is editorial. The question of primary and derived form is 1.35 and
 >
 > Appropriated and unappropriated. Of these, eye, ear, nose, tongue, and body, when present, are appropriated. Past and future, they are unappropriated. The Visible Form, Odor, Taste, and Tangible Principles, when present and not separate from the Faculty, are appropriated. The others are unappropriated, as in hair, body-hair, nails, and teeth apart from the root, in feces, urine, saliva, mucus, blood, and the like, and in earth, water, and the like.
 >
-> What does appropriated mean? What citta and the mental factors have taken up as a basis, because they follow one another in benefit and injury. What the world calls animate.
+> What does “appropriated” mean? What *citta* and mental factors have taken up as a basis, so that benefit or injury to one is followed by benefit or injury to the other. This is what the world calls animate.
 
 ## 4. Movement
 
-The first question is the Support. The seven take a Support, and the associated half of the Dharma Principle. The ten of Form and the unassociated half do not. The second question is appropriation. The resumption recalls the seven and a half. The verse then counts eight and Sound, and the commentary names the whole Dharma Principle. The definition of appropriated closes the unit. There is no rival school.
+The first question concerns *ālambana*: the seven consciousness Principles
+and the mental-factor portion of Dharma take one; the ten Form-natured
+Principles and Dharma's unassociated portion do not. The second question
+concerns appropriation. Its resumption recalls the earlier seven plus a
+portion, but its count of nine treats Dharma as one whole Principle: the
+seven, Dharma, and Sound. The definition of appropriation closes the unit.
+No rival school is named.
 
 ## 5. Decisions
 
@@ -98,7 +107,14 @@ The first question is the Support. The seven take a Support, and the associated 
 
 ## 6. Interpretation
 
-Taking a Support is not appropriation. The seven grasp a Condition. The associated half takes a Support. The basis is the other cut. What citta has taken up as a basis follows it in benefit and injury, and that is the animate. Sound never is that basis. Neither is the Dharma Principle. The page does not print the science. The page prints the two counts and the definition.
+Taking an *ālambana* and being appropriated as an *adhiṣṭhāna* are different
+relations. The seven consciousness Principles grasp a Condition and take a
+cognitive Support; the mental-factor portion of Dharma does too. The
+appropriation question asks instead what *citta* and mental factors take up
+as a basis whose benefit and injury are reciprocally felt. The whole Dharma
+Principle and Sound are always Unappropriated, even though a portion of
+Dharma takes an *ālambana*. The change from portion to whole is essential
+to the second count.
 
 ## 7. Review Status
 
