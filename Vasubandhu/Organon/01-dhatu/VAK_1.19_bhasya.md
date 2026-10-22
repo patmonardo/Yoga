@@ -9,9 +9,9 @@
 > Principle through commonality of kind, range, and Cognition. Yet they arise
 > in pairs for the beauty of the bodily support.
 
-The commentary meets the count, then explains the pair. The next sentence, that
-bases, essences, and principles have been explained, opens 1.20. It is not
-taken here.
+The commentary answers two questions in order: why paired Faculties do not
+raise the Principle count to twenty-one, and why they occur in pairs at all.
+The next sentence opens 1.20 and is left for that study.
 
 ## 2. Continuous Sanskrit
 
@@ -41,31 +41,28 @@ taken here.
 >
 > anyathā hy ekacakṣuḥśrotrādhiṣṭhānaikanāsikābilasaṃbhavāt mahad vairūpyaṃ syād iti /
 
-The unit runs from the twenty-one objection through the disfigurement. Word
-division is editorial. The local e-text has *tra*, *tasmad*, *cakṣuradīnaṃ*,
-*anya thā*, and *vairupyaṃ*. Read *tatra*, *tasmād*, *cakṣurādīnāṃ*, *anyathā*, and
-*vairūpyaṃ*. *Ubhayo rūpaviṣayatvāt* is sandhi of *ubhayoḥ* before *rūpa*. In the
-closing compound, *nāsikāvila* is read as *nāsikābila*, nostril-opening. The
-repair stays marked. Not a critical text.
+The unit runs from `[012|17]` through `[013|01]`. Word division is editorial.
+The local e-text has *tra*, *tasmad*, *cakṣuradīnaṃ*, *anya thā*, and
+*vairupyaṃ*. Read *tatra*, *tasmād*, *cakṣurādīnāṃ*, *anyathā*, and
+*vairūpyaṃ*. *Ubhayo rūpaviṣayatvāt* divides as *ubhayoḥ
+rūpaviṣayatvāt*. In the closing compound, local *nāsikāvila* is read as
+*nāsikābila*, “nostril-opening”; this repair remains provisional. This is
+a working witness, not a critical text.
 
 ## 3. Continuous Conventional Translation
 
-Objection. But should there not be twenty-one principles, because the eye is
-twofold, and the ear and the nose as well?
+Objection. Should there not be twenty-one Principles? There are two eyes, two
+ears, and two nostrils.
 
-Answer. There should not. For, from commonality of kind, range, and Cognition,
-there is the status of one principle, even in the duality of the eye and the
-rest.
+Answer. No. Although each occurs as a pair, it counts as one Principle
+because the two share a kind, a range, and a Cognition. Both eyes have the
+nature of an eye; both have visible Form as their range; and both serve as
+supports for Eye-Cognition. Therefore there is one Eye Principle. The same
+reasoning applies to the ears and the nostrils.
 
-Here, commonality of kind, because both have the nature of the eye.
-Commonality of range, because both take visible form. Commonality of
-Cognition, because both are supports of one Eye-Cognition. Therefore there is
-just one eye-principle. The same is to be applied to ear and nose.
-
-But the arising as a pair is for the sake of beauty. Even in the status of one
-principle, the occurrence of the eye and the rest as two is for the beauty of
-the support. Otherwise, from the occurrence of a single eye-site, a single
-ear-site, and a single nostril-opening, there would be great disfigurement.
+Why, then, do they arise in pairs? For the beauty of the bodily support.
+Although each pair counts as one Principle, a single eye-site, ear-site,
+and nostril-opening would make the bodily support markedly disfigured.
 
 ## 4. Movement
 
@@ -96,9 +93,15 @@ one principle.
 *Gocara* is controlled by *rūpaviṣayatva*. The range is visible form. It is not a
 claim that each eye receives the same view.
 
-*Ekacakṣurvijñānāśrayatva* says both are supports of one eye-cognition. It does
-not say both eyes are active in every seeing. It does not add a second organ
-to the Form System. The organ is one principle, seated at two sites.
+In the chapter's classification, that shared range is the visible Form Essence.
+The Bhāṣya here says *gocara* and *rūpaviṣaya*; identifying their place in the
+Essence scheme makes the common range explicit without replacing the other two
+grounds of unity.
+
+*Ekacakṣurvijñānāśrayatva* says both are supports of Eye-Cognition for this
+classification. The singular does not establish that both sites operate in
+every individual act of seeing. Nor does the pair add another Eye Principle
+to the Form System.
 
 All three belong to the answer. The Principle count alone is not the verse.
 
@@ -137,14 +140,19 @@ second is not a reason for the first.
 
 ## 9. Interpretation
 
-1.18 included by own-nature. This verse says what that nature is not. It is not
-the number of sites. Two eyes share kind, range, and Cognition, grounding one Principle. That
-commonality is the inclusion. The sites remain two.
+1.18 grounded inclusion in own-nature. Here the count turns on three
+commonalities: kind, range, and Cognition. The number of bodily sites does
+not by itself determine the number of Principles. The two sites remain
+real in the bodily account; their pairing is answered separately through
+beauty, without making beauty a fourth ground of Principle identity.
 
-The sites are substrate: the Impure support, seated twice. They are not two
-substances, and they are not a second principle. The objection counted organs
-as if each site were an owner. The reply refuses that. Beauty keeps the body
-in the account without letting the body set the count.
+In the Organon reading, the Faculty is an **Instrument**: two bodily sites
+exercise one kind of access to a common Essence, visible Form, and support one
+kind of Eye-Cognition. The Principle is the unity of this determinate
+operation, not a third bodily site behind the pair. A common Essence matters
+because it gives both sites one range; common kind and common Cognition complete
+the argument. This does not require the two eyes to deliver the same individual
+View or to act together in every episode.
 
 The next sentence says the bases, the essences, and the principles have been
 explained. That is the door to their meanings. It is 1.20. It is not opened
@@ -156,5 +164,6 @@ Upgraded reading of the nineteenth Bhāṣya study. The unit through the
 disfigurement checked against the running Sanskrit. The nostril-opening reading
 stays marked.
 
-Two sites are substrate, not two principles. That reading is once, here. 1.20
-is not opened.
+The Organon interpretation now makes the Instrument's operation across common
+Essence and Cognition explicit. The Sanskrit argument remains the three
+commonalities; 1.20 is not opened here.

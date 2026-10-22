@@ -39,31 +39,34 @@ They are not taken here.
 >
 > etac ca tredhopapādayiṣyāmaḥ /
 
-The unit runs from the question through the promise of a threefold
-demonstration. Word division is editorial. The local e-text has *pṛthakaskndhau*,
-*viṣaryastasaṃjñaḥ*, and *tredho papādayiṣyāmaḥ*. Read *pṛthak skandhau*,
-*viparyastasaṃjñaḥ*, and *tredhopapādayiṣyāmaḥ*. Not a critical text.
+The unit runs from `[014|15]` through `[014|23]`, from the question through
+the promise of a threefold demonstration. Word division is editorial. The
+local e-text has *pṛthakaskndhau*, *viṣaryastasaṃjñaḥ*, and *tredho
+papādayiṣyāmaḥ*. Read *pṛthak skandhau*, *viparyastasaṃjñaḥ*, and
+*tredhopapādayiṣyāmaḥ*. The earlier *viparītasaṃjñā* (“inverted
+reflection”) is distinct from this damaged later spelling. This is a
+working text, not a critical collation.
 
 ## 3. Continuous Conventional Translation
 
-Why are the mental factors placed together in the formations-base, while
-feeling and reflection are established as distinct bases?
+Why are the mental factors placed together in the Formations Base, while
+Feeling and Reflection are made distinct Bases?
 
 Because they are causes of the roots of dispute and of saṃsāra, and because of
 the reason of order, feeling and reflection are established as bases apart from
 the other mental factors.
 
-There are two roots of dispute: fixation upon sensual desire, and fixation upon
-views. Feeling and reflection are, in that order, their principal causes. Under
-the influence of savoring feeling, one clings to sensual desires. Under the
-influence of inverted reflection, one clings to views.
+There are two roots of dispute: fixation upon sensual desire and fixation upon views.
+Feeling and Reflection are their principal causes, respectively. Through the
+savor of Feeling, people cling to sensual desires; through inverted Reflection, they
+cling to views.
 
-These two are also principal causes of saṃsāra. One who is greedy for the savor
-of feeling, and whose reflection is inverted, wanders in saṃsāra.
+These two are also principal causes of saṃsāra. A person greedy for the savor
+of Feeling and inverted in Reflection wanders in saṃsāra.
 
-The reason for the order of the bases, which will be explained, is also to be
-understood as a reason for giving these two distinct bases. We shall
-demonstrate this in three ways.
+The reason for the order of the Bases, to be explained below, is also a reason
+for setting these two apart as distinct Bases. We shall demonstrate this in
+three ways.
 
 ## 4. Movement
 
@@ -73,13 +76,15 @@ demonstrate this in three ways.
 | Answer | Causes of the roots of dispute, of saṃsāra, and of the order. |
 | Named | Two fixations. Two principal causes, in order. |
 | Saṃsāra | One subject: greedy for the savor, inverted in reflection. |
-| Promise | The order, in three ways. Not given here. |
+| Promise | A threefold demonstration of the order is announced. |
 
 No school is named.
 
 ## 5. Two Roots
 
-The roots are the fixations, not feeling and reflection themselves.
+The roots are the fixations; Feeling and Reflection are named as their
+principal causes. The first route runs from the savor of Feeling to desire;
+the second runs from inverted Reflection to views.
 
 | Principal factor | Mediation | Root |
 |---|---|---|
@@ -125,17 +130,14 @@ The hinge is the inverted mark. The bases make those hinges visible. They do
 not make feeling or reflection a substrate that owns the rest, and they do not
 make them substances.
 
-The two routes join in the one who wanders. They are not collapsed into one
-route. The order that would rank the bases is the next verse. It is not opened
-here.
+The two routes join in the one who wanders. They remain distinct causal
+routes. The ordering of the Bases is taken up in the next verse.
 
 ## 10. Review Status
 
-Upgraded reading of the twenty-first Bhāṣya study. The unit through the promise
-of three ways checked against the running Sanskrit.
-
-Knowledge Base and Reasoning withdrawn. The order is deferred. The next study
-is not opened.
+The unit through the promise of three ways has been checked against the local
+Sanskrit witness. The ordered causal pairings are explicit in the translation;
+the promised explanation of the Base order remains for the next study.
 
 The paired kārikā now has verse-order tokens, dual agreement, ablative
 government, derived reasons and placements, and separate prose checks

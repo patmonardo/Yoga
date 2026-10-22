@@ -9,9 +9,10 @@
 > the Mind Essence; and one Principle, the Dharma Principle. This inclusion is
 > by own-nature, through separation from another's nature.
 
-The commentary states the ranges, names the three, gives the ground, and sets
-a conventional gathering beside the rule. The paired eyes open the next verse.
-They are not taken here.
+The commentary states three ranges of inclusion, names the three classes
+that jointly cover all dharmas, and explains why inclusion rests on
+own-nature. Its closing assembly example gives a different, conventional
+use of “gathering.” The paired eyes open the next verse.
 
 ## 2. Continuous Sanskrit
 
@@ -51,32 +52,32 @@ They are not taken here.
 > yas tv anyenānyasya saṃgraha ucyate yathā saṃgrahavastubhiḥ parṣadāṃ sa hi
 > kādācitkatvāt sāṃketiko veditavyaḥ /
 
-The unit runs from the ranges through the assembly. Word division is editorial.
+The unit runs from `[012|04]` through `[012|16]`. Word division is editorial.
 The local e-text has *skandehnāyatanena*, *parabhavena*, and the splits
 *ā yatanadhātubhiḥ* and *tadbhāva viyuktatvāt*. Read *skandhenāyatanena*,
-*parabhāvena*, *āyatanadhātubhiḥ*, and *tadbhāvaviyuktatvāt*. Not a critical text.
+*parabhāvena*, *āyatanadhātubhiḥ*, and *tadbhāvaviyuktatvāt*. These are
+working repairs, not a critical text.
 
 ## 3. Continuous Conventional Translation
 
-There, inclusion of all the conditioned is by the bases. Of all the Impure, by
-the bases of appropriation. Of all dharmas, by the essences and the principles.
+The Bases include all conditioned dharmas. The Bases of appropriation include
+all Impure dharmas. The Essences and Principles include all dharmas.
 
-In brief, it is to be known: the inclusion of all is by one base, and by one
-essence, and by one principle. Inclusion of all dharmas is to be understood by
-the Form Base, the mind-essence, and the dharma-principle.
+More briefly, one Base, one Essence, and one Principle together suffice for
+this inclusion of all: the Form Base, Mind Essence, and Dharma Principle.
 
-Wherever this inclusion is spoken, it is to be known as by own-nature, not by
-another's nature. Why? Because of separation from another's nature. A dharma is
-separate from another's nature. Therefore it is not reasonable that it be
-included by that very nature from which it is separate.
+Whenever inclusion is spoken of in this sense, it is by a dharma's own-nature,
+not by another's nature. Why? A dharma is separate from another's nature; it
+cannot reasonably be included through the nature from which it is separate.
 
-For example, the eye is included by the Form Base, by the eye-essence and the
-eye-principle, and by the truths of suffering and origin, because it has that
-nature. Not by the other bases and the rest, because it is separate from their
-nature.
+For example, the Eye Faculty is included in the Form Base, in Eye Essence and
+Eye Principle, and in the truths of suffering and origin, because it has the
+relevant natures. It is not included in the other Bases and classes whose
+natures it does not have.
 
-But when the inclusion of one by another is spoken, as assemblies by the means
-of gathering, that is to be known as conventional, because it is occasional.
+There is also a conventional use of “inclusion”: people can be brought into
+an assembly through means of gathering. That gathering is occasional, rather
+than inclusion by their own-nature.
 
 ## 4. Movement
 
@@ -110,9 +111,9 @@ all the conditioned. The unconditioned are in the third row, and in no base.
 
 | Named | What the preceding verses already placed |
 |---|---|
-| Form Base | five organs, five meanings, *avijñapti* |
-| mind-essence | the cognition-base |
-| dharma-principle | feeling, reflection, formations, *avijñapti*, the unconditioned |
+| Form Base | five Faculties, five meanings, *avijñapti* |
+| Mind Essence | the Cognition Base |
+| Dharma Principle | Feeling, Reflection, Formations, *avijñapti*, the unconditioned |
 
 Together they cover all. Not each alone. *Avijñapti* is in the Form Base and
 in the dharma-principle. That overlap is the inclusion, not a flaw in it.
@@ -125,10 +126,12 @@ nature one is separate from is not the nature that includes.
 This is classificatory membership. It does not cancel support, or the borne.
 Those stand. They are not this inclusion.
 
-The eye is the case. Form Base, eye-essence, eye-principle, suffering and
-origin, because it has that nature. Not the other bases, because their nature
-is not its own. Several determinations. Not one determination said three times.
-Suffering and origin are not the Form Base.
+The Eye Faculty is the case. The Bhāṣya names Form Base, Eye Essence, Eye
+Principle, suffering, and origin as its inclusions. The opening distinction
+between all conditioned and all Impure supplies the scope for the last two;
+the example does not state that every possible Eye Faculty is Impure. Several
+determinations are involved, not one name repeated. Suffering and origin are
+not the Form Base.
 
 Own-nature is the warrant of the place. It is not a thesis that each dharma
 sits alone.
@@ -156,11 +159,10 @@ inserted.
 
 ## 9. Interpretation
 
-The preceding verse's objection counted by substance. That count was pointing
-past the Impure. None of the eighteen, as included here, is that. The Impure
-row is a substrate: what appropriation takes up, and what persists as taken up.
-Substrate is not substance. The joint inclusion does not promote the Form Base,
-the mind-essence, or the dharma-principle into a substance that owns the rest.
+The preceding verse defended the eighteenfold count against a count by
+substance. Here the question changes: what includes what, and on what
+ground? The three named classes cover all dharmas jointly without becoming
+one substance that owns their members.
 
 One base, one essence, one principle, jointly. Form is the Form System. Mind
 is the cognition-base under essence. Dharma-principle takes what the Form Base

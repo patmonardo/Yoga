@@ -9,7 +9,9 @@
 > also the Mind Essence. In the Principle arrangement, it is counted as
 > seven Principles: the six Cognition Principles and the Mind Principle.
 
-Base first. The essence equation is second. The principle count is third. The office of the mind-principle is the next verse.
+The Bhāṣya first defines the Cognition Base, then places that same Base in
+the Essence and Principle arrangements. The next verse explains the role of
+Mind Principle.
 
 ## 2. Continuous Sanskrit
 
@@ -39,21 +41,30 @@ Base first. The essence equation is second. The principle count is third. The of
 >
 > vijñānaskandho mana āyatanaṃ ṣaḍ vijñānadhātavo manodhātuś ceti /
 
-The unit runs from the definition through the close. Word division is editorial. The local e-text has *saspta*, *bhavaṇti*, *dhatavaḥ*, and a damaged join of the two names. Read *sapta*, *bhavanti*, *dhātavaḥ*, and *manovijñānadhātur manodhātuś ca*. The mark before *vijñapti* in the close is an avagraha: *trayo 'vijñaptiḥ*. Not a critical text.
+The unit runs from `[011|06]` through `[011|18]`. Word division is editorial.
+The local e-text has *saspta*, *bhavaṇti*, *dhatavaḥ*, and a damaged join of
+the two names. Read *sapta*, *bhavanti*, *dhātavaḥ*, and
+*manovijñānadhātur manodhātuś ca*. The mark before *vijñapti* in the close
+is an avagraha: *trayo 'vijñaptiḥ*. These are working repairs, not a
+critical text.
 
 ## 3. Continuous Conventional Translation
 
-Cognition is respective apprehension. Apprehension, *upalabdhi*, with respect to each condition, is what is called the cognition-base.
+Cognition is respective apprehension: apprehension (*upalabdhi*) with respect
+to each Condition. This is what is called the Cognition Base. It comprises
+six groups of Cognition, from Eye-Cognition through Mind-Cognition.
 
-That, again, is six groups of cognition: the eye-cognition through the mind-group cognition.
+The Cognition Base just described is, in the Essence arrangement, Mind
+Essence. In the Principle arrangement, that same Base is counted as seven
+Principles. Which seven? The six Cognition Principles, from Eye-Cognition
+Principle through Mind-Cognition Principle, together with Mind Principle.
 
-The cognition-base just stated is, in the essence-arrangement, the mind-essence. Cognition-essence is mind-essence.
-
-In the principle-arrangement, that same base is seven principles. Which seven? The six cognition-principles, and the mind-principle. The seventh cognition-principle is the mind-principle. Not mind.
-
-Thus five bases, twelve essences, and eighteen principles are set out here. The Form Base, apart from *avijñapti*, is ten essences and ten principles. The three bases beginning with feeling, *avijñapti*, and the unconditioned are the dharma-essence and the dharma-principle. The cognition-base is the mind-essence, the six cognition-principles, and the mind-principle.
-
-*Katame sapta* is answered here. No opponent is named.
+Thus five Bases, twelve Essences, and eighteen Principles have been set
+out. The Form Base, excluding *avijñapti*, supplies ten Essences and ten
+Principles. The three Bases beginning with Feeling, together with
+*avijñapti* and the unconditioned, are Dharma Essence and Dharma
+Principle. The Cognition Base is Mind Essence; as Principles, it is the
+six Cognition Principles and Mind Principle.
 
 ## 4. Movement
 
@@ -62,10 +73,10 @@ base
     → apprehension with respect to each condition
     → six groups
 essence
-    → cognition-essence is mind-essence
+    → Cognition Base is Mind Essence
 principle
-    → six cognition-principles
-    → seventh cognition-principle is the mind-principle
+    → six Cognition Principles
+    → Mind Principle completes the seven
 close
     → five bases, twelve essences, eighteen principles
 ```
@@ -78,33 +89,45 @@ The word *vijñapti* is shared with 1.11. The gloss in this unit is apprehension
 
 ## 6. Base, then Essence, then Principle
 
-*Saḥ* resumes the cognition-base and divides it into six groups. *Kāya* is the group. That is the base. *Ya eṣa* fixes *tat*: the base already defined. In the essence-arrangement, cognition-essence is mind-essence. Skandha and āyatana are different subgraphs. The equation crosses them.
+*Saḥ* resumes the Cognition Base and divides it into six groups. *Kāya* means
+group. *Ya eṣa* fixes *tat* as the Base already defined. The Bhāṣya says
+that this Base is **Mind Essence** when arranged as Essences. It does not
+introduce a separate “Cognition Essence.”
 
-*Sa eva* carries that subject into the principle-arrangement. Seven cognition-principles. Six, and the seventh. The seventh cognition-principle is the mind-principle. The verse's *manaḥ* is *manodhātu*. Not mind. The office of that principle is the next verse.
+*Sa eva* carries the same Base into the Principle arrangement. The count is
+six Cognition Principles plus Mind Principle. The latter completes the
+seven; it is not another Cognition Principle. The Bhāṣya expands the verse's
+*manaḥ* to *manodhātu*. Its role is explained in the next verse.
 
 ## 7. The Close, and the Form System
 
 | Base | Essence | Principle |
 |---|---|---|
-| Form Base, apart from *avijñapti* | ten essences | ten |
-| feeling, reflection, formations, with *avijñapti* and the unconditioned | dharma-essence | dharma-principle |
-| cognition-base | mind-essence | six cognition-principles, and the mind-principle |
+| Form Base, apart from *avijñapti* | ten Essences | ten Principles |
+| Feeling, Reflection, Formations, with *avijñapti* and the unconditioned | Dharma Essence | Dharma Principle |
+| Cognition Base | Mind Essence | six Cognition Principles and Mind Principle |
 | five | twelve | eighteen |
 
 The arithmetic is `10 + 1 + 1 = 12` and `10 + 1 + 7 = 18`.
 
-The Form Base is the Form System. Five organs, five meanings, and the continuity. Apart from the continuity, the system is the ten. The continuity stays in the Form Base and enters the dharma pair. One content, two determinations. Not a further substance, and not matter set beside form.
+The Form Base is the Form System: five Faculties, five meanings, and the
+continuity. Apart from the continuity, the system supplies the ten. The
+continuity stays in the Form Base and enters the Dharma pair: one content,
+two determinations.
 
-A matter system would treat the ten as stuff, and form as a later appearance. That is the opposite. The ten are organs and meanings. The principles of 1.12 are principles of form. The worldly names of 1.13 point at color and configuration, which are form. Nothing in the close is matter.
+The ten are Faculties and meanings. The Principles of 1.12 determine Form;
+the worldly names of 1.13 point to color and configuration. The close here
+keeps those determinations in view when it counts Essences and Principles.
 
 The unconditioned have no base. They sit in the dharma pair.
 
 ## 8. Decisions for the Kārikā
 
 1. Start at the base. *Prativijñapti* is apprehension with respect to each condition.
-2. The six run from the eye-cognition through the mind-group cognition.
-3. Cognition-essence is mind-essence.
-4. The seventh cognition-principle is the mind-principle. Not mind.
+2. The six groups run from Eye-Cognition through Mind-Cognition.
+3. The Cognition Base is Mind Essence in the Essence arrangement.
+4. Mind Principle completes the seven Principles of the Cognition Base; it is
+   distinct from the six Cognition Principles.
 5. *Avijñapti* is excluded from the ten and included in the dharma pair. It remains form.
 6. The unconditioned sit in that pair and are not a base.
 7. The Form Base is a Form System. It is not a matter system.
@@ -112,12 +135,27 @@ The unconditioned have no base. They sit in the dharma pair.
 
 ## 9. Interpretation
 
-The base is defined before it is placed. Reflection takes the mark. The cognition is the higher reflection: the same work, raised so that a condition is determined under a principle rather than left a stray impression. *Prati* is the respect in which that raising meets each condition. Not a second word for reflection, and not consciousness.
+The Base is defined before it is placed. Reflection takes up a mark;
+Cognition apprehends with respect to each Condition. The latter is not a
+second name for mark-taking. In the Organon reading, Cognition is higher
+than Reflection: a mark held in Reflection can enter determinate knowing.
+This expresses the philosophical relation between the two; the Bhāṣya's
+local definition is *prati vijñaptiḥ*, glossed *upalabdhiḥ*.
 
-The Form System is what the cognition is set toward, on the side of form. The organs and the meanings are the ten. The continuity is form that does not inform, and so is not among the ten. The cognition does not convert that system into matter in order to have something to apprehend.
+The Form System is what Cognition is set toward, on the side of Form. The
+Faculties and meanings are the ten. The continuity is Form that does not
+inform and so is not among those ten. Cognition does not turn that system
+into a separate inventory in order to apprehend it.
 
-Cognition-essence is mind-essence. That equation is not a refusal of an essence, and it is not `<Mind>` reduced to a cognition-essence. The seventh cognition-principle is the mind-principle. Calling that seventh mind closes the distinction the commentary has already made. Its office is the next verse.
+The Cognition Base's Essence placement is Mind Essence. Its Principle
+placement comprises six Cognition Principles and Mind Principle. These
+are classifications of one Base under different arrangements, not an
+identity of Essence with Principle. The next verse explains why Mind
+Principle is counted separately from the six without positing another
+substance.
 
 ## 10. Review Status
 
-Rewritten from the base. Cognition-essence is mind-essence. The seventh cognition-principle is the mind-principle. `1.17` is not opened.
+The Cognition Base is defined by respective apprehension and placed as Mind
+Essence and seven Principles. Mind Principle completes the seven but is not
+a seventh Cognition Principle. Its role is taken up in 1.17.

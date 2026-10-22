@@ -20,7 +20,8 @@ The commentary places the verse under the wider question, then gives the first e
 > yeṣāṃ vāksvabhāvaṃ buddhavacanaṃ teṣāṃ tāni rūpaskandhasaṃgṛhītāni /
 > yeṣāṃ nāmasvabhāvaṃ teṣāṃ saṃskāraskandhena /
 
-The unit runs from the question at printed location 017.04–05 through the two positions at 017.09. The measure of a dharma-collection opens 1.26. It is not answered here.
+The unit runs from `[017|04]` through `[017|09]`, from the question through
+the two positions. The measure of a Dharma-collection opens 1.26.
 
 Word division and punctuation are editorial. The running Sanskrit and the research witnesses agree on the wording. No lexical repair is needed. The number is eighty thousand: `aśītiṃ` with `sahasrāṇi`. The sandhi `vāṅnāma veti` is retained.
 
@@ -28,7 +29,10 @@ Word division and punctuation are editorial. The running Sanskrit and the resear
 
 > Other things designated in the sūtras as Bases, Essences, and Principles are also found. Are they included in these very classifications, or do they stand apart? They are included in these very classifications. They do not stand apart.
 >
-> First, the eighty thousand dharma-collections which the Sage proclaimed — speech, or name — their inclusion is in Form and Formations. For those who hold that Buddha-word is speech by nature, they are included in the Form Base. For those who hold that it is name by nature, they are included in the Formations Base.
+> Consider first the eighty thousand Dharma-collections proclaimed by the Sage.
+> Are they speech or name? On the account that Buddha-word is speech by nature,
+> they are included in the Form Base; on the account that it is name by nature,
+> they are included in the Formations Base.
 
 ## 4. Movement
 

@@ -33,7 +33,8 @@ The commentary extends the eighty thousand into the rule, then applies it. Princ
 > manodharmāyatanābhyām / evaṃ bahudhātuke 'pi dvāṣaṣṭir dhātavo
 > deśitāḥ / teṣāṃ yathāyogaṃ saṃgraho veditavyaḥ /
 
-The unit begins with the comparison at printed location 017.20–21 and ends with the sixty-two Principles at 018.08–09. The next question opens 1.28.
+The unit runs from `[017|20]` through `[018|09]`, from the comparison through
+the sixty-two Principles. The next question opens 1.28.
 
 Word division and punctuation are editorial. The running source's `opratipāditāni`, `pratiopādyāḥ`, `asmiṃacchāstre`, `saṃpradharya`, and `gandharsāyatana` are normalized to `pratipāditāni`, `pratipādyāḥ`, `asmiñ śāstre`, `saṃpradhārya`, and `gandharasāyatana`. `Aṣṭāvalobha` is divided as `aṣṭāv alobha`. The compressed sound-mind-dharma instrumental is read as one plural. The five-member compound is retained as transmitted. Liberation is not repeated before knowledge-and-vision in the running compound. That relation is supplied in the translation. It is not inserted into the Sanskrit.
 
@@ -45,7 +46,7 @@ Word division and punctuation are editorial. The running source's `opratipādit�
 >
 > Of the ten totalities, eight, being non-greed by nature, are included in the Dharma Essence. Together with their attendants, being five Bases by nature, they are included in the Mind Essence and the Dharma Essence. So too the masteries.
 >
-> The totalities of infinite space and infinite cognition, and the four attainments beginning with infinite space, are four Bases by nature, and are included in the Mind Essence and the Dharma Essence. The five liberations, being wisdom by nature, are included in the Dharma Essence. Together with their attendants, they are included in the Sound Essence, the Mind Essence, and the Dharma Essence.
+> The totalities of infinite space and infinite Cognition, and the four attainments beginning with infinite space, are four Bases by nature, and are included in the Mind Essence and the Dharma Essence. The five Essences of Liberation, being wisdom by nature, are included in the Dharma Essence. Together with their attendants, they are included in the Sound Essence, the Mind Essence, and the Dharma Essence.
 >
 > Of the two further cases, non-percipient beings are included in ten Essences, Odor and Taste being absent. Beings in neither-perception-nor-non-perception are included in the Mind Essence and the Dharma Essence. In the discourse of many Principles, sixty-two Principles are taught. Their inclusion is to be known as appropriate.
 
@@ -61,7 +62,12 @@ Determination precedes assignment. The commentary then distinguishes principal n
 | masteries | likewise | likewise |
 | five liberations | wisdom; Dharma Essence | Sound Essence, Mind Essence, Dharma Essence |
 
-Infinite space, infinite cognition, and the four attainments are four Bases, and take the Mind Essence and the Dharma Essence. Non-percipient beings take ten Essences. Odor and Taste are absent. The sentence does not say a cognition is occurring. Classification and current operation stay distinct.
+Infinite space, infinite Cognition, and the four attainments are four Bases,
+and take the Mind Essence and the Dharma Essence. The text names five
+*vimuktyāyatanāni*, Essences of Liberation, rather than simply five
+liberations. Non-percipient beings take ten Essences. Odor and Taste are
+absent. The sentence does not say a Cognition is occurring. Classification
+and current operation stay distinct.
 
 ## 6. Decisions
 

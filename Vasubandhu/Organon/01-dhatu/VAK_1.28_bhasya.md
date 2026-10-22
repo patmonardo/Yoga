@@ -35,8 +35,8 @@ Its closing assigns the six within the eighteen-Principle arrangement.
 > spraṣṭavyadhātāv antarbhūtāḥ pañcamo rūpadhātau ṣaṣṭhaḥ saptasu
 > vijñānadhātuṣv iti /
 
-The unit runs from the six-Principle question at printed location 018.10–11
-through its reassignment at 018.24–25. The following question about
+The unit runs from `[018|10]` through `[018|25]`, from the six-Principle
+question through its reassignment. The following question about
 visibility within the eighteen dhātus opens 1.29.
 
 Word division and punctuation are editorial. The stray `aca` in
@@ -199,7 +199,12 @@ classification.
 
 The six-Principle teaching is assigned into the eighteen. The Cognition Principle of this verse is Impure Cognition, not the Cognition Base, and not all seven.
 
-With this worked case the classification engine of 1.24–1.28 is specified: naming (1.24), closure (1.25), measure (1.26), assignment (1.27), and demonstration (1.28). A received teaching enters, each member's scope is determined, and the members are mapped four/one/one into the eighteen without adding a Principle.
+With this worked case the classification engine of 1.24–1.28 is specified:
+naming (1.24), closure (1.25), measure (1.26), assignment (1.27), and
+demonstration (1.28). A received teaching enters; the own-characteristic and
+scope of each member are determined; its members are then mapped four/one/one
+into the eighteen without adding a Principle. The result can be checked
+against both the incoming sixfold teaching and the established eighteen.
 
 ## 10. Review Status
 

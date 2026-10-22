@@ -8,8 +8,6 @@
 > Of the six Cognitions, whichever has just ceased is Mind. The eighteen
 > Principles are taught so that Mind may be established as the sixth support.
 
-The commentary opens the question 1.16 left standing, answers it, meets a count-objection, and tests the answer on an arhat's final consciousness. What the bases include is the next study. It is not taken here.
-
 ## 2. Continuous Sanskrit
 
 > nanu ca ṣaḍ vijñānakāyā vijñānaskandha ity uktam /
@@ -48,21 +46,39 @@ The commentary opens the question 1.16 left standing, answers it, meets a count-
 >
 > anyakāraṇavaikalyāt tu nottaravijñānasaṃbhūtiḥ /
 
-The unit runs from the objection through the arhat's final consciousness. Word division is editorial. The local e-text has *kiṃ narhi*, *aṣṭādāśa*, a broken purpose-compound, and a damaged join on eighteen. Read *kiṃ tarhi*, *aṣṭādaśa*, *ṣaṣṭhāśrayaprasiddhyarthaṃ*, and *'ṣṭādaśa*. *Ucyeta* is kept: would be called. *Cakṣurdhātvāyatanādayaḥ* is the five supports beginning with the eye. Not a critical text.
+The unit runs from `[011|19]` through `[012|03]`. Word division is editorial.
+The local e-text has *kiṃ narhi*, *aṣṭādāśa*, a damaged
+*ṣaṣṭhāśrayaprasiddhyarthaṃ dhātavo 'ṣṭādaśa*, and damaged forms in the
+following prose, including *ālambanaṣṭkavyavasathānād* and
+*tatsasmanantarātītaṃ*. The text above gives working repairs. *Ucyeta* is
+kept: “would be called.” *Cakṣurdhātvāyatanādayaḥ* names the five supports
+beginning with the eye. This is not a critical text.
 
 ## 3. Continuous Conventional Translation
 
-Objection. But it was said that the six groups of cognition are the cognition-base. What, then, is this mind-principle, other than those?
+Objection. The six groups of Cognition were said to constitute the Cognition
+Base. Is Mind Principle something else in addition to those six?
 
-Answer. It is certainly nothing other. What, then? Of those very six, whichever cognition is immediately past, that is mind. Whichever cognition has ceased immediately before would be called the mind-principle. As the same son becomes father of another, and the same fruit is the seed of another.
+Answer. No, it is nothing else. Of those very six Cognitions, whichever has
+just ceased is Mind. A Cognition that has ceased immediately before would
+be called Mind Principle, just as the same person who is a son can be
+another's father, or the same fruit can be another fruit's seed.
 
-Objection. Then, by substance, there are seventeen principles, or twelve, since the six cognitions and the mind-principle include one another. Why establish eighteen?
+Objection. If it is the same Cognition, then by substance there would be
+seventeen Principles, or even twelve, since the six Cognition Principles
+and Mind Principle include one another. Why, then, establish eighteen?
 
-Answer. Even so, eighteen principles are taught in order to establish the sixth support. The five principles have five supports, beginning with the eye. The sixth, the mental cognition-principle, has no other support. Therefore the mind-principle is taught, so that its support be established. Thus, by the establishment of six supports, six supported, and six borne, there are eighteen principles.
+Answer. Eighteen are taught to establish the sixth support. Each of the
+first five Cognition Principles has a support, beginning with the eye. The
+sixth, Mind-Cognition Principle, has no other support. Mind Principle is
+therefore taught as its support. In this way there are six supports, six
+supported Cognitions, and six Cognitive Conditions: eighteen Principles.
 
-Objection. Then an arhat's final consciousness will not be mind. There is nothing for which it would be immediately past.
+Objection. Then an arhat's final Consciousness would not be Mind, since no
+later Cognition exists for which it could have just ceased.
 
-Answer. No. It too stands in the status of mind. A next principle does not arise because another cause is wanting.
+Answer. It does retain the status of Mind. A later Cognition fails to arise
+because another required cause is absent.
 
 ## 4. Movement
 
@@ -96,9 +112,10 @@ The reply is a purpose. So that the sixth support be established. The five alrea
 |---|---|
 | *āśraya*, support | five, beginning with the eye, and mind |
 | *āśrita*, the supported | the six cognitions |
-| *ālambana*, the borne | the six that are borne |
+| *ālambana*, Cognitive Condition | the six Conditions taken by Cognition |
 
-Support and the borne are not the same relation. The commentary does not merge them.
+Support and Cognitive Condition are different relations. The commentary
+counts six of each.
 
 ## 7. The Arhat's Last Consciousness
 
@@ -121,12 +138,21 @@ Office and production stay apart. A formula that said mind is whatever produces 
 
 The seventh name is an office. Present, the cognition is one of the six. Just ceased, that same principle is mind, the support of the mental cognition-principle. The change is of relation, not of substance.
 
-The five supports belong to the Form System: eye and the rest, organs. The sixth support is not a sixth organ. It is the immediately past principle, in the office of mind. That is why eighteen, and not a matter-count of twelve.
+The five supports belong to the Form System: the eye and the other Faculties.
+The sixth support is Mind Principle, the immediately past Cognition in that
+role. This preserves the eighteenfold arrangement without adding a seventh
+Cognition substance.
 
 The arhat's case keeps the distinction the verse needs. A support is not a sufficient cause. The office remains when the next does not arise.
 
-Mind is not consciousness. The objection uses *citta* for the last moment, and *manas* for the office. The answer keeps both. Consciousness stands as mind. It does not become a second principle.
+The objection calls the arhat's last moment *citta*, Consciousness, and asks
+whether it can still be *manas*, Mind. The reply says yes: Mind names its
+role even when no later Cognition arises. The two words are not made
+synonyms, and the absence of a successor does not erase the role.
 
 ## 10. Review Status
 
-Mind-group withdrawn. The unit through the arhat's final consciousness otherwise unchanged. The next study is not opened.
+The sixth-support argument and the arhat's final Consciousness were checked
+against the local Sanskrit. Mind Principle is a role of one of the six
+Cognitions, not an additional Cognition substance; support and Cognitive
+Condition remain distinct.

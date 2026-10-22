@@ -11,7 +11,7 @@
 
 ```text
 dharmaskandhasahasrāṇi yāny aśītiṃ jagau muniḥ /
-tāni vāṅnāma vety eṣāṃ rūpasamskārasaṃgrahaḥ // 1.25 //
+tāni vāṅnāma vety eṣāṃ rūpasaṃskārasaṃgrahaḥ // 1.25 //
 ```
 
 ## 3. Lexical Analysis

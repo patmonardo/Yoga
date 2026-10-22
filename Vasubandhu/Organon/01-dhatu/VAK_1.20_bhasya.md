@@ -60,7 +60,7 @@ It is not taken here.
 >
 > asaṃskṛtaṃ tarhi na dhātuḥ syāt /
 >
-> cittacittānāṃ tarhi jātivācako 'yaṃ dhātuśabda ity apare /
+> cittacaittānāṃ tarhi jātivācako 'yaṃ dhātuśabda ity apare /
 >
 > aṣṭādaśadharmāṇāṃ jātayaḥ svabhāvā aṣṭādaśa dhātava iti /
 >
@@ -73,23 +73,36 @@ It is not taken here.
 >
 > kāryabhārodvahanārthaḥ skandhārtha ity apare / pracchedārtho vā /
 >
+> tathā hi vaktāro bhavanti tribhiḥ skandhakair deyaṃ dāsyāma iti /
+>
 > tad etad utsūtram / sūtraṃ hi rāśyartham eva bravīti /
 >
+> pratyekam atītādirūpasya skandhatvaṃ tatra vijñāpyate /
+> sarvam etad atītādirūpam ekaśo rūpaskandha iti /
+> na śakyam evaṃ vijñātum /
 > “tat sarvam aikadhyam abhisaṃkṣipya” iti vacanāt /
 >
 > tasmād rāśivad eva skandhāḥ prajñaptisantaḥ /
 >
 > rūpīṇy api tarhy āyatanāni prajñaptisanti prāpnuvanti /
 >
+> bahūnāṃ cakṣurādiparamāṇūnām āyadvārabhāvāt /
+>
 > na / ekaśaḥ samagrāṇāṃ kāraṇabhāvāt /
+> viṣayasahakāritvād vā nendriyaṃ pṛthag āyatanaṃ syāt /
 >
 > vibhāṣāyāṃ tūcyate “yady ābhidharmikaḥ skandhaprajñaptim apekṣate sa āha
 > paramāṇur ekasya dhātor ekasyāyatanasya ekasya skandhasya pradeśaḥ / atha
 > nāpekṣate sa āha paramāṇur eko dhātur ekam āyatanam ekaḥ skandha” iti /
 >
+> bhavati hi pradeśe 'pi pradeśivad upacāro yathā paṭaikadeśe dagdhe paṭo
+> dagdha iti /
+>
 > kim arthaṃ bhagavān skandhādimukhena trividhāṃ deśanām ārabhate /
 >
 > vineyānāṃ mohendriyarucitraidhāt tisraḥ skandhādideśanāḥ /
+>
+> trayaḥ prakārās traidham /
 >
 > kecic caitteṣu saṃmūḍhāḥ piṇḍātmagrahaṇataḥ / kecid rūpa eva / kecid
 > rūpacittayoḥ /
@@ -100,7 +113,13 @@ It is not taken here.
 >
 > teṣāṃ yathākramaṃ tisraḥ skandhāyatanadhātudeśanā iti /
 
-The unit runs from “the three have been explained” through the assignment of the teachings. Word division is editorial. *Cittacittānāṃ* is kept. It is uncertain, and the next sentence carries the general definition. Not a critical text.
+The unit runs from `[013|02]` through `[014|14]`. Word division is editorial.
+The local e-text is damaged at several points; clauses previously omitted
+from this study at `[013|28]`–`[014|08]` are restored above. Local
+*cittacittānāṃ* is read *cittacaittānāṃ*, supported by nearby
+*cittacaittāyadvārārtha* and [Yaśomitra's explanation](https://textgridrep.de/browse/49p10.0).
+The exact attachment of that phrase remains worth checking against a
+printed edition. This is a working text, not a critical collation.
 
 ## 3. Continuous Conventional Translation
 
@@ -116,15 +135,26 @@ Objection. Relative, therefore unestablished?
 
 Answer. No. The reference differs. What is gross relative to one thing is never subtle relative to that same thing, as father and son. Inferior means afflicted. Excellent means unafflicted. Far means past and future. Near means present. So on, as far as Cognition.
 
-But with this difference: gross has the five Faculties as support; subtle is mental. Or by level, say the Vaibhāṣikas. The Venerable says: gross Form is graspable by the five Faculties; subtle Form is the rest. Inferior is disagreeable; excellent is agreeable. Far is a place not seen; near is a place seen, since past and the rest have already been stated in their own words. Feeling and the rest are to be understood in the same way. Their far and near depend on the support.
+The same pattern applies through Cognition, with these distinctions: the
+Vaibhāṣikas call what has the five Faculties as support gross and what is
+mental subtle; alternatively, they distinguish them by level. The Venerable
+says gross Form is what the five Faculties can grasp, and subtle Form is the
+rest. Inferior is disagreeable, excellent agreeable; far is in a place not
+seen, near in a place seen. He uses place here because past and future have
+already been named separately. Feeling and the remaining Bases are to be
+understood likewise: their distance depends on their support, and the
+gross–subtle distinction follows the preceding account.
 
-The meaning of essence is the door of arrival for consciousness and the mental factors. The derivation: they extend the arrival of consciousness and the mental factors; hence essences. The meaning is: they spread them out.
+Essence means a door of arrival for Consciousness and the mental factors.
+The derivation says that Essences extend their arrival: they spread it out.
 
 The meaning of principle is source-kind. As in one mountain many source-kinds — iron, copper, silver, gold, and the rest — are called principles, so in one support, or in one continuum, eighteen source-kinds are called eighteen principles. There the mines are called the source-kinds. Of what are these, beginning with the eye, mines? Of their own kind, because they are homogeneous causes.
 
 Objection. Then the unconditioned would not be a principle.
 
-Others. Then this word “principle” expresses kind. The kinds, the own-natures, of the eighteen dharmas are the eighteen principles.
+Others. In the case of Consciousness and the mental factors, the word
+“Principle” expresses kind: the kinds, or own-natures, of the eighteen
+dharmas are the eighteen Principles.
 
 Objection. If the meaning of base is collection, bases obtain as existing by designation, because they are assemblages of many, like a heap or a person.
 
@@ -132,19 +162,38 @@ Answer. No, because even one atom has the status of a base.
 
 Objection. Then it should not be said that the meaning of base is collection. One item has no status as a collection.
 
-Others. The meaning of base is bearing the burden of the effect. Or a division.
+Others. “Base” could mean bearing the burden of an effect, or a division.
+People do speak of giving what is owed in three installments.
 
-Answer. This departs from the sūtra. The sūtra states precisely the collection meaning. It cannot be understood as each past form, severally, a base, because of the statement “all of it, gathered into one.” Therefore bases exist by designation, just as heaps do.
+Answer. These alternatives depart from the sūtra, which gives the sense of
+collection. Could it mean that each past or other Form, taken singly, is
+called the Form Base? No: the sūtra says to gather **all of it into one**.
+Therefore the Bases, like collections, exist by designation.
 
-Objection. Then the form-essences too would exist by designation.
+Objection. Then the Essences belonging to Form must also exist by
+designation, since many atoms beginning with those of the eye together
+serve as a door of arrival.
 
-Answer. No, because each is a cause when they are assembled.
+Answer. No. When assembled, the atoms are causes individually. Moreover,
+if cooperation with a Condition alone settled the Essence, a Faculty would
+not stand as an Essence distinct from that Condition.
 
-Vibhāṣā. If an Abhidharma specialist attends to the designation of the base, he says: an atom is a portion of one principle, of one essence, of one base. If he does not attend to it, he says: an atom is one principle, one essence, one base.
+Vibhāṣā. If an Abhidharma specialist attends to the designation of the
+Base, he says an atom is a part of one Principle, one Essence, and one Base.
+If he does not attend to that designation, he says an atom is one Principle,
+one Essence, and one Base. Ordinary speech can name a part as the whole:
+when a portion of a cloth burns, one says the cloth has burned.
 
 Why does the Blessed One undertake a threefold teaching by way of the bases and the rest?
 
-Answer. Because those to be trained are threefold in confusion, faculty, and inclination, there are three teachings beginning with the bases. Some are confused about the mental factors, from grasping a self as a lump. Some about form alone. Some about form and consciousness. The faculties are sharp, middling, or weak. Inclination wants a brief, intermediate, or extensive text. For these, in order, are the three teachings: bases, essences, principles.
+Answer. Because those to be trained differ threefold in confusion, Faculty,
+and inclination, there are three teachings beginning with the Bases.
+“Threefold” means three kinds. Some are confused about mental factors
+because they grasp a self as a lump; others about Form alone; others about
+Form and Consciousness together. Their Faculties are sharp, middling, or
+weak, and their inclinations favor brief, intermediate, or extensive
+exposition. Correspondingly, the teachings are of Bases, Essences, and
+Principles.
 
 ## 4. Movement
 
@@ -201,13 +250,13 @@ in a row as a fixed psychological profile.
 
 This is the test the count was for. Collection is not the door. The door is not the source. A base gathers, and the gathering is a designation. An essence is how consciousness and the mental factors arrive. A principle is the kind, and, where there is a series, the mine of that kind.
 
-The Sūtra Base is the collection. Once the Principle is had, the base is no longer what one reads. The teaching remains three, because the one to be trained is not one. Sharp and brief is not a higher truth than extensive. It is the teaching that fits.
+The sūtra establishes the Base as a collection. Essence then specifies a door of arrival, while Principle specifies a source-kind. These are three determinations of the cognitive field, not a succession that discards the Base. The teaching remains three because those to be trained differ. Sharp and brief is not a higher truth than extensive; it is the teaching that fits.
 
 The reading is once, here. 1.21 is not opened.
 
 ## 9. Review Status
 
-Upgraded reading of the twentieth Bhāṣya study. The unit through the three teachings checked against the running Sanskrit. *Cittacittānāṃ* retained as uncertain.
+Upgraded reading of the twentieth Bhāṣya study. The unit through the three teachings checked against the running Sanskrit. Local *cittacittānāṃ* is emended to *cittacaittānāṃ* in §2, with the witness and reason recorded there.
 
 The three meanings are the three teachings. That reading is once, here. The next study is not opened.
 

@@ -30,17 +30,19 @@ Distinction applies to both names. Primacy explains the Essence called Form. The
 > nānyeṣv iti / viṃśatiprakāratvenaudārikatvān
 > māṃsadivyāryaprajñācakṣustrayagocaratvāc caikaṃ rūpāyatanam ity apare /
 
-The unit runs from the two naming questions at printed location 016.14 through the alternative explanation at 017.02–03. The following question about other scriptural names opens 1.25.
+The unit runs from `[016|14]` through `[017|03]`, from the two naming
+questions through the alternative explanation. The following question about
+other scriptural names opens 1.25.
 
 Word division and punctuation are editorial. The running source's `dharmasvabhaveṣu` and `rūpakayātanam` are read as `dharmasvabhāveṣu` and `rūpāyatanam`. The transmitted `jñāsyata` before `iti` is retained. The final compound is joined so that the explicit `traya`, three, governs the three eyes. These repairs support a normalized reading. They are not a critical reconstruction.
 
 ## 3. Continuous Conventional Translation
 
-> Why, among the ten Essences included in the Form Base, is one called the Form Essence? And why, though all are dharma by own-nature, is one called the Dharma Essence? The answer is: for the sake of distinction, because of primacy, and because many dharmas and the highest are gathered. One Essence is called Form, and one is called Dharma.
+> Why, among the ten Essences included in the Form Base, is one called the Form Essence? And why, although all are dharmas by own-nature, is one called the Dharma Essence? The answer is: for the sake of distinction, because of primacy, and because many dharmas and the highest are gathered. One Essence is called Form, and one is called Dharma.
 >
-> How is this for distinction? So that each of these ten is known as an Essence, arranged as Condition and what has the Condition, not as one collective. Eye and the rest already have their names. What is Form, and is not called eye or by those other names, is known as the Form Essence. No further name is given.
+> How does this serve distinction? It lets us understand that each of the ten is an Essence, arranged as Condition and what has the Condition, rather than all ten forming a single Essence. Eye and the rest already have distinguishing names. What is Form but is not called eye or by the other names is recognized as the Form Essence; no additional name is given to it.
 >
-> Or the Form Essence is named from primacy. It resists: contact with the hand and the rest makes it Form. It can be shown: this, here, there. In the world too, that is what is recognized as Form, not the others.
+> Alternatively, the Form Essence receives its name through primacy. It is resistant: when touched by a hand or the like, it is affected. It is also visible and can be indicated as “this, here or there.” In ordinary speech, this is what people recognize as Form, rather than the other Essences.
 >
 > For distinction, one Dharma Essence is named, not all. Many dharmas, beginning with Feeling, are gathered there, so the general name Dharma is used. The highest dharma, nirvāṇa, is gathered there, and not in the others.
 >
@@ -64,7 +66,10 @@ Eye and the rest already have names. What remains is called Form. Naming only th
 
 ## 6. Primacy
 
-Resistance: contact with the hand and the rest makes it Form. Able to be shown: this, here, there. In the world, that is what is recognized as Form. Resistance alone is not said to separate it from every other; the ten all resist. The three marks are joined.
+Resistance: touch by a hand or the like affects it. Visibility: one can point
+it out as “this, here or there.” Ordinary usage also calls it Form. Resistance
+alone does not distinguish it from all nine others; the ten Form Essences are
+resistant. The passage gives the other grounds as well.
 
 ## 7. The Name Dharma
 

@@ -41,7 +41,7 @@ Form, and one Essence the Dharma Essence, opens 1.24. It is not taken here.
 >
 > dūrāśutaravṛttyānyat /
 >
-> śeṣaṃ punar yathāyogaṃ dūrāśutaravṛttyā pūrvam uktam /
+> śeṣaṃ punar itasmād yathāyogaṃ dūrāśutaravṛttyā pūrvam uktam /
 >
 > cakṣuḥśrotraṃ hi dūraviṣayam / tat pūrvam uktaṃ dvayāt /
 >
@@ -64,40 +64,41 @@ Form, and one Essence the Dharma Essence, opens 1.24. It is not taken here.
 >
 > manaḥ punas tāny eva niśritam adeśasthaṃ ceti yathāsthānam eṣāṃ kramaḥ syāt /
 
-The unit runs from the order of the six through the sites. Word division is
-editorial. Three expressions are not repaired: *vyadhvānadhraviṣayam*,
-*aprāptasyaiva jihvā bhojyasya*, and *takyāḥ syāsya bahulyena*. Not a critical
-text.
+The unit runs from `[015|22]` through `[016|13]`, from the order of the six
+through the sites. Word division is editorial. Three expressions remain
+unrepaired: *vyadhvānadhraviṣayam*, *aprāptasyaiva jihvā bhojyasya*, and
+*takyāḥ syāsya bahulyena*. The local witness also has *punar itasmād* in the
+remainder clause; its force is uncertain. This is a working text, not a
+critical collation.
 
 ## 3. Continuous Conventional Translation
 
-The order of the six, beginning with the eye, among the Bases and the
-Principles, is to be stated. By that very order the order of their Conditions
-and of their Cognitions follows.
+The order of the six beginning with the eye, among the Essences and
+Principles, must be explained. The order of their Conditions and corresponding
+Cognitions follows from it.
 
-Of those six, the five come first, because their Conditions are present. The
-five beginning with the eye are stated first, because they have a present
-Condition. Mind, however, has an unrestricted Condition. Some of it is a present
-Condition. Some of it is the damaged compound.
+Of the six, the five come first because they have present Conditions. The five
+beginning with the eye are stated first for that reason. Mind, however, is not
+restricted in this way: some of its Conditions are present; the contrasting
+category in the local witness is damaged.
 
-The four, because their Conditions are Element-dependent. “First” carries
-forward. Of the five, four are stated first, because they have Element-dependent
-Form as Condition. The Body's Condition is unrestricted in this respect:
-sometimes the Great Elements, sometimes Element-dependent Form, sometimes both.
+The four come first because their Conditions are Element-dependent Form;
+“first” carries forward from the preceding clause. Of the five, four are
+stated before Body for this reason. Body has no such restriction: its Condition
+is sometimes the Great Elements, sometimes Element-dependent Form, and
+sometimes both.
 
-The rest, by farther or quicker operation. The remainder is stated first, as
-fits, by farther or quicker operation. Eye and ear have a distant Condition, so
-they are stated before the other two. Of those two, the eye operates farther:
-one sees a river from afar and does not hear its sound. Therefore the eye is
-stated first. Nose does not operate at a distance, nor does tongue. Of those
-two, nose is stated first, because it operates more quickly, taking the odor of
-food before that food has reached the tongue. The phrase is damaged.
+The remaining Faculties are ordered by farther or quicker operation, as
+appropriate. Eye and ear take distant Conditions, so they precede nose and
+tongue. Eye operates farther than ear: one can see a distant river without
+hearing its sound. Nose and tongue do not operate at a distance. Nose precedes
+tongue because it takes the odor of food before the food reaches the tongue;
+the local wording of this last example is damaged.
 
-Or the order is according to location. In this body the site of the eye is
-placed uppermost. Below that, the ear. Below that, the nose. Below that, the
-tongue. Then the Body's site, for the most part: the phrase is damaged. Mind
-depends on those very Faculties and is not situated in a place. So their order
-may follow the sites.
+Alternatively, the order follows bodily location. The eye's site is uppermost;
+below it are the sites of ear, nose, and tongue in turn. The following clause
+about Body's site is damaged. Mind depends on those very Faculties but occupies
+no bodily site. Thus their order may follow their sites.
 
 ## 4. Movement
 
@@ -148,18 +149,17 @@ Faculties and is not in a place. Non-location does not make Mind unconditioned.
 
 ## 9. Interpretation
 
-This closes the base, and only the Form System. The five Faculties work in the
-present. Mind is not that restriction. The Conditions and the Cognitions follow
-the order of the Faculties. That is the Form System's last arrangement in this
-chapter: Faculty and meaning, seated in the body or not seated at all.
+This closes the ordering of the six Faculties. The five sense Faculties take
+present Conditions; Mind is not so restricted. The Conditions and Cognitions
+follow the order of the Faculties. Their bodily sites provide an alternative
+account of that order, with Mind dependent on the Faculties but without a site.
 
-The Dharma System is the other direction. It unfolds as Principle, then
-Essence, then Base. Those are different powers. The Base gathers. The Essence
-is the door. The Principle is the source. To run them in that order is not this
-verse. This verse still reads from the Faculty outward.
+The chapter continues its analysis through Essence and Principle. As 1.20
+distinguished them, the Base gathers, the Essence is a door, and the Principle
+is a source-kind. Here the verse reads from the Faculty toward its Condition
+and corresponding Cognition; it does not exhaust the other determinations.
 
-If that system holds, the armory of the determinations is available. It is not
-printed on the verse. 1.24 is not opened.
+The question why one Essence is named Form and another Dharma opens in 1.24.
 
 ## 10. Review Status
 
@@ -170,5 +170,5 @@ The order of Conditions and Cognitions now follows *tadviṣayavijñānānāṃ*
 the earlier "principles" for *vijñāna* is withdrawn. Objects are now
 Conditions, organs are Faculties, and derived form is Element-dependent Form.
 The two precedence reasons, the distance and quickness comparisons, and the
-site alternative are separated in the kārikā logic. This closes the Form
-System. The next study is not opened.
+site alternative are separated in the kārikā logic. This closes the ordering
+passage and leads into the naming questions of 1.24.

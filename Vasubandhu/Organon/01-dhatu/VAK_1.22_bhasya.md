@@ -82,58 +82,59 @@ The order of the six faculties opens 1.23. It is not taken here.
 > yata ete audārikatare saṃkleśānukramahetū bhājanavyañjanabhūte
 > tatprabhāvitaṃ ca dhātudvayam iti /
 
-The unit runs from the exclusion through the recap. Word division is editorial.
-The local e-text is repaired at the obvious breaks. Two discrepancies are not
-repaired. The recap says vessel and seasoning. The analogy said food and
-seasoning. 1.21 promised three ways. This unit gives four. Not a critical text.
+The unit runs from `[014|24]` through `[015|21]`, from the exclusion through
+the recap. Word division and evident spelling repairs are editorial. Two
+discrepancies remain: 1.21 promises three ways, whereas this unit gives four
+grounds; the closing recap calls Feeling and Reflection “vessel and
+seasoning,” whereas the earlier analogy assigns them “food and seasoning.”
+This is a working text, not a critical collation.
 
 ## 3. Continuous Conventional Translation
 
-The unconditioned is not stated among the bases, because the meaning does not
-apply. Stated among them, it cannot be included in these, because the meaning
-does not apply: it is not Form, nor any of the rest, up through Cognition.
-Nor can a sixth base be stated. Why? Because the meaning does not apply. It has
-been said that the meaning of base is collection. The unconditioned is not
-divided by past and the rest, as form and the others are, so that all of it
-could be gathered into one and reckoned an unconditioned base.
+The unconditioned is not stated among the Bases, because their defining
+meaning does not apply. It cannot be included in any of the five: it is not
+Form, nor any of the others through Cognition. Nor can it be called a sixth
+Base. Why? A Base means a collection. Unlike Form and the others, the
+unconditioned is not divided into past and the remaining distinctions so that
+its instances could be gathered into one and reckoned an Unconditioned Base.
 
-The expression “bases of appropriation” makes known the ground of affliction.
+The expression “Bases of appropriation” makes known the ground of affliction;
 “Bases” makes known the ground of affliction and purification. The
-unconditioned is neither, in that manner. So it is not established among them,
-because the meaning does not apply.
+unconditioned does not serve either purpose in that way. Therefore it is not
+established among the Bases: their meaning does not apply.
 
 Others. As the cessation of a pot is not a pot, the cessation of the bases
 cannot be a base.
 
-For them the same consequence follows for the principles and the essences as
-well. Another aspect of the bases has been explained.
+The same argument would wrongly exclude the unconditioned from the Principles
+and Essences as well. Another account of the Bases has now been given.
 
-The order, again, is according to grossness, affliction, the meaning beginning
-with a vessel, and Realm or level.
+The order, then, follows grossness, affliction, the meanings beginning with a
+vessel, and Realm or level.
 
-Form is the grossest of all, because it is resistant. Among those without form,
-feeling is gross in its course. People say, “feeling in my hand, feeling in my
-foot.” Reflection is grosser than the two that remain. Formations are grosser
-than Cognition. Therefore what is grosser is stated first.
+Form is the grossest, because it is resistant. Among what is without form,
+Feeling is gross in its activity: people say, “Feeling in my hand, feeling in
+my foot.” Reflection is grosser than the two that remain, and Formations
+are grosser than Cognition. Thus the grosser comes first.
 
-Or, in beginningless saṃsāra, women and men delight in one another's form, and
-that is from greed for the savor of feeling. That greed is from inversion of
-reflection. That inversion is from the afflictions, and consciousness is
-afflicted by them. So the order is also according to affliction.
+Or, in beginningless saṃsāra, women and men delight in one another's Form.
+That delight comes from greed for the savor of Feeling; the greed comes from
+inverted Reflection; the inversion comes from afflictions, which also afflict
+Consciousness. Thus the order can be explained by affliction.
 
-Or by the meaning beginning with a vessel. The bases beginning with form are
-vessel, food, seasoning, maker, and eater.
+Or consider the meanings beginning with a vessel. The five Bases, beginning
+with Form, serve as vessel, food, seasoning, maker, and eater, respectively.
 
-Or according to Realm or level. The Desire Realm is distinguished by the forms
-of sensual pleasure. The dhyānas by feeling. The three formless by reflection.
-The summit of existence by formations alone. These are the stations of the
-cognition, and the cognition is established in them. So the sequence of the
-bases displays field and seed.
+Or consider Realm or level. The Desire Realm is distinguished by the forms of
+sensual pleasure; the dhyānas by Feeling; three formless levels by Reflection;
+and the summit of existence by Formations alone. These are stations for
+Cognition, which is established in them. Thus the order of the Bases displays
+field and seed.
 
-For these reasons there are five bases, neither fewer nor more. For this reason
-of order too, feeling and reflection are made distinct bases apart from the
-formations: they are grosser, they are causes in the sequence of affliction,
-they are vessel and seasoning, and two Realm-or-level groups are distinguished by them.
+For these reasons there are five Bases, neither fewer nor more. The order also
+explains why Feeling and Reflection are set apart from the Formations: they are
+grosser, they cause the sequence of affliction, they are called vessel and
+seasoning here, and two Realm or level groups are distinguished by them.
 
 The last sentence keeps “vessel” as transmitted. The analogy's “food” is not
 substituted.

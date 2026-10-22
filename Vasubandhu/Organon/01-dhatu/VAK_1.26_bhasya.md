@@ -25,13 +25,17 @@ The commentary distinguishes the three measures. The last explains the eighty th
 > aśītiś caritasahasrāṇi sattvānām / rāgadveṣamohamānādicaritabhedena /
 > teṣāṃ pratipakṣeṇa bhagavatā 'śītir dharmaskandhasahasrāṇy uktāni /
 
-The unit begins with the measure question at printed location 017.10 and ends with the disposition explanation at 017.20. The following comparison is reserved for 1.27.
+The unit runs from `[017|10]` through `[017|20]`, from the measure question
+through the disposition explanation. The comparison that follows belongs to
+1.27.
 
 Word division and punctuation are editorial. The running `opramaṇam`, `skandhādīnaṃ`, `prātyekam`, and `caritasahasraṇi` are normalized to `pramāṇam`, `skandhādīnāṃ`, `pratyekam`, and `caritasahasrāṇi`. The research verse has `śāstrapramāṇā`. The running verse and the commentary read `śāstrapramāṇa`. That reading is kept.
 
 ## 3. Continuous Conventional Translation
 
-> What is the measure of a Dharma-collection? Some say a treatise is its measure. They mean the Abhidharma treatise named Dharmaskandha. That is six thousand. The unit is not stated.
+> What is the measure of a Dharma-collection? Some say its measure is that of
+> the Abhidharma treatise named *Dharmaskandha*: six thousand. The text does
+> not specify a unit for this number.
 >
 > Others say: an exposition of each of the Bases and the rest. An exposition of each of the Bases, the Essences, the Principles, dependent arising, the truths, the nutriments, the concentrations, the immeasurables, the formless attainments, the liberations, the masteries, the totalities, the factors of awakening, the higher knowledges, the discriminations, knowledge through resolve, freedom from conflict, and the rest, is a Dharma-collection.
 >
