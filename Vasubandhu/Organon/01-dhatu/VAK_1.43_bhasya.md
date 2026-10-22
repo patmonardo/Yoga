@@ -133,7 +133,7 @@
 >
 > no cet spṛṣṭasyāpy aprasaṅgaḥ /
 
-Word division is editorial. Equality of organ and object in size is the next unit.
+Word division is editorial. This unit runs from [031|19] through [033|07] in the local source. The printed readings for “clearer seeing” at [031|22–23], “without an interval” at [032|19], and several words in the quoted Vibhāṣā cases are damaged; the working text follows the sense secured by their immediate explanations. The question about the relative size of Faculty and *artha* begins at [033|08].
 
 ## 3. Continuous Conventional Translation
 
@@ -141,41 +141,43 @@ Word division is editorial. Equality of organ and object in size is the next uni
 >
 > One sees with both eyes too, because the seeing is clearer.
 >
-> One sees with both eyes too: so the Ābhidhārmikas. For when both are open, the seeing is cleaner. And when one eye is open and the second half-closed, there is the grasp of a double moon and the rest. Not from the alteration of one alone. And there is no consequence that Cognition breaks from a break of the support, because cognition is not stationed in a place, as form is.
+> The Ābhidhārmikas say that one can see with both eyes. When both are open, vision is clearer. With one open and the other half closed, one may see a double moon; this is not explained by a change in one eye alone. Nor does a divided support imply that Cognition itself is divided: unlike Form, Cognition is not located in a place.
 >
 > If the eye sees, the ear hears, and so on to mind cognizes, is their Condition reached or unreached?
 >
 > Eye, ear, and mind do not reach their Condition.
 >
-> For one sees a distant Visible Form, and does not see the collyrium situated in the eye. One hears a distant Sound. And if they reached their Condition, the divine eye and ear would not arise here for those in dhyāna, as the nose and the rest do not. If the eye does not reach, why does it not see every unreached thing, the distant and the screened? Why, to begin with, does a magnet not draw every unreached iron? The same holds even if it reaches. Why does it not see every reached thing, the collyrium or the probe? And as the Condition of the nose and the rest is reached, but not every one, because they do not grasp a co-arisen Odor and the rest, so the eye's too may be unreached, but not every unreached. Mind, however, not being form, is unable to reach at all.
+> One sees a distant Visible Form but does not see the collyrium on one's own eye; one hears a distant Sound. If Eye and Ear had to reach their Conditions, the divine Eye and Ear of meditators could not arise here, just as a divine Nose does not. Objection: if the Eye takes an unreached Condition, why does it not see every distant or screened Form? Reply: a magnet does not attract every piece of iron at a distance. Reaching would face the parallel problem: why does the Eye not see every thing touching it, such as the collyrium or an eye probe? Nose and the other contact Faculties do not apprehend every Condition that reaches them, including Odors arising alongside them. So the Eye may apprehend an unreached Condition without apprehending all unreached Conditions. Mind has no Form and cannot reach by contact at all.
 >
-> Some, again, think the ear both reaches and does not, because one hears a Sound inside the ear as well. The rest, called nose, tongue, and body:
+> Some hold that the Ear can apprehend both reached and unreached Conditions, since one also hears a Sound inside the ear. The remaining three are Nose, Tongue, and Body:
 >
 > The three are otherwise.
 >
-> The meaning is: they reach their Condition. How does the nose reach its Condition? Because one who does not breathe out does not grasp Odor. What is this reaching? Arising without an interval.
+> That is, they apprehend Conditions they reach. How does the Nose reach its Condition? Without exhaling, Odor is not apprehended. What does “reaching” mean here? Arising with nothing intervening.
 >
-> Do atoms touch one another, or not? The Kāśmīras say they do not. Why? If they touched with their whole being, the substances would merge. If with one part, they would have parts. And atoms are partless. How is Sound produced? For this very reason. If they touched, a hand struck against a hand would stick, and a stone against a stone. Why does a struck heap not scatter? Because it is held together by the Wind Principle. One Wind Principle operates to scatter, as in the contraction. One to hold together, as in the expansion.
+> Do atoms themselves touch? The Kāśmīras say no. If they touched wholly, their substances would merge; if they touched by a part, they would have parts, whereas atoms are held to be partless. How, then, is Sound produced by a blow? Precisely without such atomic contact: if atoms touched, two struck hands or stones would stick together. Why does a struck cluster not scatter? The Wind Principle holds it together. Wind can also disperse a cluster, as at contraction, or sustain one, as at expansion.
 >
-> How then are the three said to reach their Condition by a reaching without an interval? That they are without an interval is precisely that there is nothing between them. Or there is no fault in saying that assemblages touch, since they have parts. And so this passage also stands in the Vibhāṣā. Having asked whether a touching arises from a touching cause or from a non-touching cause, it says: it depends on the cause. Sometimes a non-touching arises from a touching cause, when it scatters. Sometimes a touching from a non-touching cause, when it accumulates. Sometimes a touching from a touching cause, when what is already accumulated accumulates. Sometimes a non-touching from a non-touching cause, as dust at a window.
+> If atoms never touch, how do Nose, Tongue, and Body “reach” their Conditions? Because nothing intervenes between their clusters. One may also say that the clusters touch, since clusters have parts. The Vibhāṣā distinguishes four causal cases: a touching cause may yield a non-touching result when a cluster disperses; a non-touching cause may yield a touching result when a cluster forms; touching may yield touching when existing clusters grow; and non-touching may yield non-touching, as with dust at a window.
 >
-> If atoms touched, they would stand in the next moment: so the venerable Vasumitra. They do not touch. Where there is no interval, the designation touching is used: so the venerable one. And the venerable one's position is to be accepted. Otherwise, if atoms had intervals, what would block motion through the empty intervals, since they are admitted to be resistant? And assemblages are not other than atoms. Those very atoms that are the assemblages are touched, just as they are affected as form. And if a distinction of directional parts is imagined in an atom, having parts follows whether it touches or does not touch. If not, having parts does not follow even for a touching atom.
+> The venerable Vasumitra argues that touching atoms would persist into a further moment. Another venerable teacher says that atoms do not touch; “touching” is the designation used when no interval remains. The text accepts this latter position. If atoms were separated by empty gaps, what would prevent them from moving through those gaps, given that they are held to resist one another? Clusters are nothing over and above atoms, yet the clusters can be said to touch. Finally, if one attributes distinct directional sides to an atom, it acquires parts whether it touches or not. Without such directional sides, touching alone does not give it parts.
 
 ## 4. Movement
 
-No rule of one eye. Both, because the seeing is cleaner. Then reached and unreached. Eye, ear, and mind do not reach. Nose, tongue, and body do. Reaching is arising without an interval. That interval forces the atom dispute. They do not touch. The designation is used where there is no interval.
+The first question permits seeing with either one eye or both; clearer vision and the double-moon case are offered for the latter. The second divides Faculties by whether they apprehend a Condition across an interval: Eye, Ear, and Mind do; Nose, Tongue, and Body do not. An objection about selective apprehension is met without changing that division. The third question asks what “reaching” can mean if partless atoms cannot touch. The answer distinguishes atomic non-contact from the ordinary designation of contact when no interval remains, and tests it with four Vibhāṣā causal cases.
 
 ## 5. Decisions
 
-1. One sees with one eye or with both. Both open, the seeing is cleaner.
+1. Seeing with both eyes is possible and clearer; the verse does not exclude one-eyed seeing.
 2. Eye, ear, and mind do not reach their Condition. Mind cannot, because it is not form.
 3. Nose, tongue, and body reach. Reaching is arising without an interval.
-4. Atoms do not touch. Whole contact would merge them. Partial contact would give them parts.
-5. The Bhadanta position is accepted: no touch; the designation where there is no interval.
+4. On the Kāśmīra atom account, atoms do not touch: whole contact would merge them, and partial contact would give them parts.
+5. The accepted Bhadanta position calls clusters “touching” where there is no interval, without requiring partless atoms to touch.
 
 ## 6. Interpretation
 
-The cleaner seeing is the two eyes open, not a second seer. The unreached three are eye, ear, and mind. Reaching is nothing between, not a contact of atoms. The designation touching does the work the touch is refused.
+The first problem follows directly from 1.42: if the Eye sees, how do two Eyes contribute to one episode of seeing? The reply gives a difference in clarity, not a second seer. The next problem concerns the *artha* relation. A Faculty can disclose a Condition across a distance, as Eye and Ear do, or through a contiguous field, as Nose, Tongue, and Body do. Mind cannot reach spatially because it is not Form.
+
+“Reaching” is then refined rather than discarded. It means arising without an intervening interval at the level of the operative clusters. The argument about atoms prevents us from turning that operational relation into a crude picture of partless particles pressing their surfaces together. This is another determination of how Form can serve an Instrument, while the Kāśmīra and Bhadanta claims remain attributed claims of this Bhāṣya.
 
 ## 7. Review Status
 

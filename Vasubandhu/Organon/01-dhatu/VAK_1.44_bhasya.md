@@ -116,37 +116,37 @@
 >
 > samanantarābhyatītaś caitasiko dharma-dhātur iti /
 
-Word division is editorial. The next question is not this page.
+Word division is editorial. This unit runs from [033|08] through [034|16] in the local source. The example of the grape at [033|13–14] and several anatomical terms are imperfectly transmitted; the working text keeps their apparent sense without claiming a critical reconstruction. The question why Faculties rather than Visible Forms are called Bases begins at [034|17] in 1.45.
 
 ## 3. Continuous Conventional Translation
 
-> Do these, beginning with the eye, grasp a Condition equal to their own size, and a mountain and the rest by a swift operation, like a fire-wheel? Or equal and unequal?
+> Do the Faculties beginning with the Eye apprehend only a Condition equal to themselves in extent, so that a mountain seems to be grasped by a rapid succession, like a circle made by a whirling firebrand? Or can they apprehend Conditions of unequal extent as well?
 >
 > Those said to reach their Condition:
 >
 > By the three beginning with the nose, grasp of an equal Condition is held.
 >
-> For as many Faculty-atoms as there are, so many Condition-atoms come together and produce Cognition. By eye and ear, however, there is no rule. Sometimes fewer, when one sees the tip of a hair. Sometimes equal, when one sees a grape. Sometimes more, when one sees a great mountain by merely opening the eye. So with the ear, in the hearing of the sound of a mosquito, a cloud, and the rest. Mind, being unformed, has no determination of size.
+> As many Condition-atoms as Faculty-atoms come together to produce Cognition in these three cases. Eye and Ear, however, have no fixed equality of extent. The Eye may apprehend fewer atoms, as with a hair-tip; a comparable number, as with a grape; or many more, as with a great mountain seen as soon as the Eye opens. The Ear likewise hears sounds from a mosquito, a cloud, and other differently sized sources. Mind has no spatial magnitude to compare with its Condition.
 >
-> How are these Faculty-atoms, beginning with the eye, arranged? The eye-atoms stand on the pupil like a cumin flower. Covered by a clear skin, they do not scatter. Others say they stand piled, one above another, like a ball. And they do not cover one another, being clear like crystal. The ear-atoms stand inside the ear-cavity. The nose-atoms stand like a probe inside a pot. The first three Faculties stand like a garland. The tongue-atoms stand like a half-moon. The middle of the tongue, the measure of a hair-tip, is not occupied by tongue-atoms. The body-atoms stand like the body. The atoms of the female Faculty are like the bowl of a drum. Those of the male Faculty are like a thumb.
+> How, then, are the Faculty-atoms arranged? Eye-Faculty atoms lie at the pupil like a cumin flower. A transparent membrane keeps them from scattering. Others describe them as piled like a ball; they do not obscure one another because they are clear like crystal. Ear-Faculty atoms lie within the ear; Nose-Faculty atoms are compared to a probe inside a vessel. The first three Faculties are arranged like garlands. Tongue-Faculty atoms form a half-moon; a hair-tip-sized patch at the center of the tongue is said not to be distinctly pervaded by them. Body-Faculty atoms follow the body's shape. The female Faculty is compared to a drum bowl, the male Faculty to a thumb.
 >
-> Sometimes all the eye-atoms do their own work. Sometimes they correspond and do not. Sometimes some do and some do not. So through the tongue-atoms. The body-atoms, however, are never all doing their own work. Even of those confined inside a blazing hell, innumerable body-atoms correspond and do not. If Cognition arose through all of them, the Basis would disintegrate. And no single Faculty-atom or Condition-atom produces Cognition, because the five Cognition-groups have an accumulated Basis and an accumulated Support. For this reason an atom is invisible, because it is not seen.
+> Sometimes all Eye-Faculty atoms perform their work (*sabhāga*); sometimes none do (*tat-sabhāga*); sometimes the two statuses are mixed. This holds through the Tongue Faculty. Body-Faculty atoms, however, are never all functioning at once. Even for someone enclosed in a blazing hell, innumerable Body-Faculty atoms remain *tat-sabhāga*; if all produced Cognition, the Basis would disintegrate. Nor can one Faculty-atom or one Condition-atom produce Cognition by itself: the five sensory Cognition groups depend on an accumulated Basis and an accumulated Support. An individual atom therefore is not visible.
 >
-> These six Cognition Principles already stated, Eye-Cognition through Mind-Cognition: as the Condition of the five is present, and of the last of the three times, is the Basis likewise? He says no. What then?
+> The Conditions of the five sensory Cognitions are present, while Mind-Cognition can take Conditions from all three times. Are their Bases distributed across time in the same way? No.
 >
 > The Basis of the last is past.
 >
-> The Basis of the Mind-Cognition Principle is Mind that ceased immediately before.
+> Mind-Cognition rests on Mind that ceased immediately before it.
 >
 > Of the five, a co-born one too, with them.
 >
-> "And" means past as well. The eye is the co-born Basis of Eye-Cognition, through the Body as Basis of Body-Cognition. Their past Basis is Mind. So these five Cognition-groups have two Bases.
+> The verse's “and” adds a past Basis to the five. The Eye is born together with and supports Eye-Cognition, as each sensory Faculty supports its corresponding Cognition through Body-Cognition. Immediately past Mind is their other Basis. Each of the five sensory Cognitions thus has a co-born Faculty Basis and a past Mind Basis.
 >
-> Hence it is said: whatever serves Eye-Cognition as Basis, does it also serve as the immediately preceding Condition? Four alternatives. The first is the eye. The second is the immediately past mental Dharma Principle. The third is immediately past Mind. The fourth is dharmas other than those stated. So through Body-Cognition: each one's own Faculty is to be stated. For Mind-Cognition the relation is one-sided. Whatever serves as Basis also serves as the immediately preceding Condition. There can be an immediately preceding Condition that is not the Basis: the immediately past mental Dharma Principle.
+> This prompts a fourfold test: does everything serving as a Basis for Eye-Cognition also serve as its immediately preceding Condition? (1) The Eye is Basis only. (2) An immediately past mental factor in the Dharma Principle is immediately preceding Condition only. (3) Immediately past Mind is both. (4) Other dharmas are neither. The same test applies through Body-Cognition, substituting its own Faculty. For Mind-Cognition the relation is one-sided: whatever is Basis is also immediately preceding Condition, but an immediately past mental factor can be immediately preceding Condition without being Basis.
 
 ## 4. Movement
 
-Equal grasp for the three that reach. No rule for eye and ear. The seats of the atoms, then the work they do. One atom does not produce Cognition. The Basis of Mind-Cognition is past. The five have a co-born Basis and a past Basis. Basis and the immediately preceding Condition are four alternatives, not one.
+The first inquiry continues 1.43's contact division. Nose, Tongue, and Body have matching extents of Faculty and Condition in the stated atom account; Eye and Ear have no fixed ratio, and Mind has no spatial magnitude. The anatomical images locate the Faculties, then the *sabhāga* distinction asks which portions are operating. A single atom is insufficient for sensory Cognition. The second inquiry changes from spatial extent to temporal support: Mind-Cognition has immediately past Mind as Basis; each sensory Cognition has both its co-born Faculty and past Mind. The fourfold test then separates Basis from immediately preceding Condition.
 
 ## 5. Decisions
 
@@ -159,7 +159,9 @@ Equal grasp for the three that reach. No rule for eye and ear. The seats of the 
 
 ## 6. Interpretation
 
-Equal grasp is the meeting of two counts. Eye and ear are not held to that count. The Basis is timed otherwise than the Condition. Present Condition, past Basis, and for the five a co-born Basis as well. The four alternatives keep the Basis from collapsing into the immediately preceding Condition.
+The two halves determine an Instrument from different directions. Spatially, the material extent of a Condition need not equal the extent of the Faculty that apprehends it; equal atom counts are asserted only for the three contact Faculties. Operationally, only some Faculty-atoms may be *sabhāga* in a given episode, and no single atom produces Cognition. Temporally, a present sensory Condition meets a co-born Faculty Basis while immediately past Mind also supports that Cognition. The four cases show exactly why “Basis” cannot simply mean “immediately preceding Condition.”
+
+This supplies a more precise answer to the earlier two-eye question. In 1.19 the paired eyes count as one Principle because they share kind, range, and Cognition; in 1.43 both may participate in seeing; here their atoms need not all be operative. One Principle, two bodily sites, and variable participation in an episode are three distinct determinations.
 
 ## 7. Review Status
 

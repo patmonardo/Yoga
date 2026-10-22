@@ -41,37 +41,39 @@
 >
 > yathā bherī-śabdo yava-aṅkura iti /
 
-Word division is editorial. The local na punā is kept. The next question is not this page.
+Word division is editorial. This unit runs from [034|17] through [034|30] in the local source; its *na punā* is retained. The next question, about whether Faculty, Visible Form, Cognition, and bodily location must occupy one realm level, starts at [035|01].
 
 ## 3. Continuous Conventional Translation
 
-> Cognition arises depending on both. Why are the Eye and the rest alone called Bases, and not Visible Forms and the rest?
+> The arising of Cognition depends on both Faculty and presented Condition. Why, then, are the Eye and the other Faculties called its Bases, rather than Visible Form and the other Conditions?
 >
-> Because of being altered by their alteration, the Eye and the rest are Bases.
+> The Eye and the other Faculties are Bases because their Cognitions change when they change.
 >
-> "Principles" carries over. For when the Eye and the rest are altered, their Cognitions are altered, following benefit or impairment, acuity or dullness. There is no such alteration from an alteration of Visible Forms and the rest. Therefore, because the dependence is stronger, they alone are Bases, not Visible Forms and the rest.
+> “Principles” is understood from the continuing topic. Benefit or damage to a Faculty, and its sharpness or dullness, are reflected in the corresponding Cognition. Changes in Visible Form and the other Conditions do not produce *that kind* of change in Cognition. Because Cognition depends more directly on the Faculty in this respect, the Faculty is called its Basis.
 >
-> Why, though Visible Forms and the rest are cognized by them, is it called Eye-Cognition through Mind-Cognition, and not Form-Cognition through Dharma-Cognition? Those, the Eye and the rest, are their Bases.
+> But why say Eye-Cognition through Mind-Cognition, rather than Form-Cognition through Dharma-Cognition, when Visible Forms and the other Conditions are what is cognized? Because the Eye and the other Faculties are the Bases of the corresponding Cognitions.
 >
 > Therefore, because they are not in common, Cognition is designated by them.
 >
-> How are they not in common? An eye cannot be the Basis of another Cognition. A Visible Form, however, becomes the Support of Mind-Cognition and of another Eye-Cognition as well. So through the Body. Therefore, from being the Basis and from not being in common, Cognition is designated by that very Basis, not by Visible Forms and the rest, as drum-sound and barley-sprout.
+> In what sense are these Bases unshared? The Eye does not serve as Basis for a different *kind* of Cognition. A Visible Form, by contrast, can serve as Support for Mind-Cognition and for another instance of Eye-Cognition. The same reasoning extends through the Body Faculty. Thus Cognition is designated by its specific Basis, as in “drum-sound” and “barley-sprout,” rather than by a Condition that can support several Cognitions.
 
 ## 4. Movement
 
-Both are required. Only the Eye and the rest are Bases, because the Cognition follows their alteration. The name follows the Basis, because the Basis is not in common. A Visible Form is the Support of more than one Cognition.
+Two grounds answer two questions. Both Faculty and Condition are required for Cognition to arise; the Faculty is singled out as **Basis** because damage or improvement to it alters Cognition's acuity. Cognition is then **named** by that Basis because the Faculty is specific to its corresponding kind of Cognition, whereas Visible Form may support Mind-Cognition and more than one Eye-Cognition. The passage does not deny that a changed object changes what is cognized.
 
 ## 5. Decisions
 
-1. The Eye and the rest are Bases. Visible Forms and the rest are not.
-2. The reason is alteration: benefit, impairment, acuity, dullness.
+1. The Eye and the other Faculties are Bases of their corresponding Cognitions; Visible Form and the other Conditions are required but are not Bases in this argument.
+2. The first ground is Faculty-linked alteration of Cognition: benefit, impairment, acuity, and dullness.
 3. The name is Eye-Cognition, not Form-Cognition.
-4. The eye cannot be the Basis of another Cognition. A Visible Form can be the Support of Mind-Cognition and of another Eye-Cognition.
-5. Drum-sound and barley-sprout: the Basis names the product.
+4. The Eye is specific to Eye-Cognition as a kind. A Visible Form can be the Support of Mind-Cognition and another Eye-Cognition.
+5. “Drum-sound” and “barley-sprout” illustrate naming a product from its specific source.
 
 ## 6. Interpretation
 
-The Support is shared. The Basis is not. The name is taken from the one that is not in common. Alteration is the mark of the Basis, not of the Visible Form.
+This advances the Being and Doing distinction. The presented Visible Form supplies what can be cognized; the Faculty's own state helps determine *how* its corresponding Cognition can operate. The causal test for Basis is whether damage, improvement, sharpness, or dullness of the Faculty is reflected in that Cognition. The naming test is specificity: the Eye supports Eye-Cognition as a kind, while one Visible Form can be available to several cognitive episodes and to Mind-Cognition. “Unshared” cannot mean that a physical Eye supports only one moment of Cognition in its life.
+
+The two tests let us say why the Eye is an Instrument without mistaking it for the Visible Form it presents or for the Cognition that arises with its help. This is our Organon articulation of the Bhāṣya's grounds, not an additional etymology imposed on *āśraya*.
 
 ## 7. Review Status
 

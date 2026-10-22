@@ -48,6 +48,10 @@
 >
 > na kāyasyādharaṃ cakṣuḥ /
 >
+> pañca-bhūmikāni hi kāya-cakṣū-rūpāṇi kāmāvacarāṇi yāvac caturtha-dhyāna-bhūmikāni /
+>
+> dvi-bhūmikaṃ cakṣur-vijñānaṃ kāmāvacaraṃ prathama-dhyāna-bhūmikaṃ ca /
+>
 > tatra yad-bhūmikaḥ kāyas tad-bhūmikaṃ cakṣur ūrdhva-bhūmikaṃ vā cakṣur bhavati na tv adhara-bhūmikam /
 >
 > yad-bhūmikaṃ cakṣus tad-bhūmikam adhara-bhūmikaṃ vā rūpaṃ viṣayo bhavati /
@@ -66,33 +70,35 @@
 >
 > kāyasya cobhe rūpa-vijñāne sarvato bhavataḥ /
 
-Word division is editorial. The sentence that sets his own Visible Forms beside first-dhyāna planes is damaged and left damaged. Hearing is the next unit.
+Word division is editorial. This unit runs from [035|01] through [036|03] in the local source. The example at [035|04–05] juxtaposes “his own Visible Forms” and “first-dhyāna Forms” in a damaged construction; no plane assignment is silently supplied. The five-plane and two-plane constraints at [035|19–20] are included here because they explain the cases. The extension to hearing begins at [036|04] in 1.47.
 
 ## 3. Continuous Conventional Translation
 
-> Where one stands in a body and sees Visible Forms by the eye, are the body, the eye, the Visible Form, and the Cognition of one plane only, or of other planes as well? He says: there is difference in all of them.
+> When someone situated in a Body sees Visible Forms with an Eye, must Body, Eye, Visible Form, and Eye-Cognition all belong to one plane? The answer is that their planes can differ.
 >
-> For one born in the Desire Realm who sees his own Visible Forms by his own eye, all are of his own plane. The next sentence is damaged: his own Visible Forms, first-dhyāna planes, and all three of that plane are set side by side, and the construction is not kept. For one who sees his own Visible Forms by an eye of the second dhyāna, body and Visible Form are of his own plane, the eye of that plane, and Cognition of the first dhyāna. For one who sees Visible Forms of the first dhyāna, Cognition and Visible Form are of that plane, the body of the Desire Realm, and the eye of the second dhyāna. For one who sees Visible Forms of the second dhyāna, eye and Visible Form are of that plane, the body of the Desire Realm, and Cognition of the first plane. So it is to be applied for one who, by an eye of the third or fourth dhyāna, sees Visible Forms of that plane or of a lower plane.
+> For a person born in the Desire Realm, seeing its Visible Forms with an Eye of that realm, all four belong to the same plane. [The next example in the local witness is too damaged to assign all four planes securely.] With an Eye of the second dhyāna, that person may see Desire-Realm Forms: Body and Visible Form remain in the Desire Realm, Eye belongs to the second dhyāna, and Eye-Cognition to the first. If the Form belongs to the first dhyāna, Form and Cognition share that plane, Eye remains in the second, and Body in the Desire Realm. If the Form belongs to the second dhyāna, Form and Eye share that plane, Cognition belongs to the first, and Body to the Desire Realm. The same method applies to an Eye of the third or fourth dhyāna seeing Forms of its own or a lower plane.
 >
-> For one born in the first dhyāna who sees his own Visible Forms by his own eye, all are of his own plane. When he sees lower Visible Forms, three are of his own plane. When he sees Visible Forms of his own plane by an eye of the second dhyāna, three are of his own plane and the eye of that plane. When he sees Visible Forms of the Desire Realm, body and Cognition are of his own plane, the Visible Forms are lower, and the eye is of that plane. When he sees Visible Forms of the second dhyāna, eye and Visible Form are of that plane and the rest of his own. So it is to be applied with an eye of the third dhyāna. For one born in the second dhyāna or above, the cases of seeing Visible Forms of his own plane or another, by an eye of his own plane or another, are to be applied as they fit.
+> A person born in the first dhyāna likewise has all four on one plane when seeing its Forms with an Eye of that plane. Seeing lower Forms leaves Body, Eye, and Cognition on the first plane. With a second-dhyāna Eye, seeing first-dhyāna Forms leaves Body, Form, and Cognition on the first plane; seeing Desire-Realm Forms leaves Body and Cognition there, puts Form below, and Eye above. Seeing second-dhyāna Forms puts Eye and Form above while Body and Cognition remain on the first plane. The procedure extends to higher Eyes and to persons born in the second and higher dhyānas, as appropriate.
 >
-> This, however, is the fixed rule. The eye is not lower than the body. Of whatever plane the body is, the eye is of that plane or of a higher plane, never of a lower. Of whatever plane the eye is, a Visible Form of that plane or of a lower plane is its Condition. A Visible Form is not higher than the eye. A Visible Form of a higher plane can never be seen by an eye of a lower plane. Cognition too is not higher than the eye, as a Visible Form is not. Relative to this Cognition just stated, a Visible Form is a Condition in every way: higher, lower, and of its own plane. And relative to the body, both, the Visible Form and the Cognition, are in every way.
+> The fixed rule is this. Body, Eye, and Visible Form may belong to any of five planes, from the Desire Realm through the fourth dhyāna. Eye-Cognition belongs to only two, the Desire Realm and the first dhyāna. An Eye may share its Body's plane or stand above it, never below. A Visible Form may share its Eye's plane or stand below it, never above; Eye-Cognition likewise cannot stand above its Eye. Relative to Eye-Cognition, however, a Visible Form may be higher, lower, or on the same plane. Relative to the Body, both Visible Form and Eye-Cognition admit all three relations.
 
 ## 4. Movement
 
-The four need not be of one plane. The cases run through the Desire Realm and the dhyānas. The fixed rule closes them. The eye is not lower than the body. A Visible Form is not higher than the eye. Cognition is not higher than the eye. Relative to the Cognition, and relative to the body, the remainder is open.
+The catalogue of cases demonstrates that the four roles in a single seeing need not occupy one plane. The fixed rules then explain which combinations are possible. Body, Eye, and Visible Form have five possible planes; Eye-Cognition has two. The Eye cannot be below the Body, and neither Visible Form nor Eye-Cognition can be above the Eye. The relation of Form to Cognition, and of each to Body, admits all three comparisons when the other constraints are respected.
 
 ## 5. Decisions
 
-1. Body, eye, visible, and Cognition may be of different planes.
+1. Body, Eye, Visible Form, and Eye-Cognition can belong to different planes in one act of seeing.
 2. The eye is of the body's plane or a higher plane, never a lower.
 3. A Visible Form is of the eye's plane or a lower plane, never a higher.
-4. Eye-Cognition is not higher than the eye, and belongs to two planes only.
-5. Relative to that cognition, a Visible Form may be higher, lower, or the same. Relative to the body, both may.
+4. Eye-Cognition cannot be higher than the Eye and occurs only in the Desire Realm or first dhyāna.
+5. Relative to Eye-Cognition, Visible Form can be higher, lower, or the same; relative to Body, both can occupy all three relations in permitted cases.
 
 ## 6. Interpretation
 
-The cases are the freedom. The rule is the cut that remains. Below the body, the eye does not go. Above the eye, the Visible Form does not go, and Cognition does not go. The open three belong to the Visible Form against the Cognition, and to both against the body.
+The four roles of seeing have distinct constraints. The Body gives the embodied location; the Eye may be of that plane or a higher one; the Form it discloses and the Cognition that arises cannot outrank the Eye. Yet Form and Cognition need not share a plane. This is a precise account of mediated operation: the Instrument has a range, and the presented Condition and Cognition can vary within it. The examples show admissible combinations; the rule states their limits.
+
+In our Being and Doing reading, a Principle is not exhausted by where its Body is situated. Its work is determined by the relation among Body, Faculty, Form, and Cognition, with a real asymmetry between them. That is the Organon reading of the *bhūmi* constraints, not a replacement for the Bhāṣya's realm analysis.
 
 ## 7. Review Status
 
