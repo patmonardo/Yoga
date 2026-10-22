@@ -9,7 +9,7 @@
 > These same dharmas are past, present, and future; subjects of discourse;
 > have an exit in nirvāṇa; and possess a real basis.
 
-Span: Pradhan `[004|23]`–`[005|08]`.
+The Bhāṣya unit runs from `[004|23]` through `[005|08]` in the local Sanskrit source.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -32,25 +32,25 @@ Span: Pradhan `[004|23]`–`[005|08]`.
 > hetuvacanaḥ kila vastuśabda iti vaibhāṣikāḥ /
 > ity ete saṃskṛtadharmaparyāyāḥ /
 
-At `[004|26]` the witness omits `saṃjñāskandha`. Not patched. The kārikā says five.
+Compared with `Vasubandhu/Sources/kosabhasya.txt` at `[004|23]`–`[005|08]`. At `[004|26]` the local prose lists four Bases and omits `saṃjñāskandha`; the kārikā explicitly says five, and this witness preserves the omission rather than silently supplying the missing term. Other local forms are regularized for reading, including `dhārmā` to `dharmā`, `kathā vāvāyam` to `kathā vākyam`, `urakaraṇagrantho` to `prakaraṇagrantho`, and `saṃskṛtadharmauaryāyāḥ` to `saṃskṛtadharmaparyāyāḥ`. These are editorial repairs of the local transcription, not an independent collation.
 
 ## 3. Continuous Conventional Translation
 
-As for what was said, Conditioned dharmas excluding the Path are Impure: which are those Conditioned dharmas?
+It was said that Conditioned dharmas other than the Path are Impure. Which dharmas are Conditioned?
 
-Those Conditioned dharmas are the five bases beginning with form. The witness names the form-base, the feeling-base, the formations-base, and the cognition-base.
+They are the five Bases beginning with Form. The local prose names the Form Base, Feeling Base, Formations Base, and Cognition Base; it omits the Perception Base from its list of five.
 
-They are called Conditioned because they are made by conditions that have come together and that act together. Nothing is produced by a single condition. There is no contradiction in applying the name to future dharmas, by kind, as with milk and fuel.
+They are called Conditioned because they are produced through conditions coming together. Nothing is produced by a single condition. Future dharmas can also bear this name because they belong to the same kind, as in the examples of milk and fuel.
 
-Those same Conditioned dharmas are the course, the *kathāvastu*, the *saniḥsāra*, and the *savastuka*.
+These same Conditioned dharmas are also called courses of time, *kathāvastu*, *saniḥsāra*, and *savastuka*.
 
-They are the courses because they have the states of having gone, going, and about to go; or because they are consumed by impermanence.
+They are courses of time because they have the states of having gone, going, and yet to go; alternatively, because they are consumed by impermanence.
 
-Discourse is speech, and its *vastu* is the name. The Conditioned is called *kathāvastu* because meaningful speech takes it up. Otherwise the Prakaraṇa would be contradicted: the *kathāvastu* are included in the eighteen principles.
+Discourse is an utterance, and its *vastu* is a name. But the name is taken together with its meaning; in that sense Conditioned dharmas are called *kathāvastu*, subjects of discourse. Otherwise the *Prakaraṇa* statement that *kathāvastu* are included among the eighteen dhātus would be contradicted.
 
-The going-out from everything Conditioned is nirvāṇa. Because they have that, they are *saniḥsāra*.
+The going-out from everything Conditioned is nirvāṇa. Since Conditioned dharmas have this going-out, they are called *saniḥsāra*.
 
-Because they have a cause, they are *savastuka*. The Vaibhāṣikas say, *kila*, that the word *vastu* expresses cause.
+Because they have causes, they are *savastuka*. The Vaibhāṣikas say, *kila*, that *vastu* here means cause.
 
 These are alternative designations of Conditioned dharmas.
 

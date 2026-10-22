@@ -5,8 +5,8 @@
 > caturbhyo 'nye tu saṃskāraskandhaḥ ete punas trayaḥ /
 > dharmāyatanadhātvākhyāḥ sahāvijñaptyasaṃskṛtaiḥ // 1.15 //
 
-> Apart from the four, the others are the Formations Base. These three—
-> Feeling, Reflection, and Formations—together with *avijñapti* and the
+> Apart from the four, the others are the Formations Base. These three—Feeling,
+> Reflection, and Formations—together with *avijñapti* and the
 > unconditioned are also named the Dharma Essence and the Dharma Principle.
 
 The commentary defends the remainder, then counts the seven. The next verse
@@ -23,10 +23,10 @@ defines the cognition-base. It is not taken here.
 > sā hi karmasvarūpatvād abhisaṃskaraṇe pradhānā /
 >
 > ata evoktaṃ bhagavatā “saṃskṛtam abhisaṃskaroti /
-> tasmāt saṃskārā upādānaskandha ity ucyata” iti /
+> tasmāt saṃskārā upādānaskandha ity ucyate” iti /
 >
 > anyathā hi śeṣāṇāṃ caitasikānāṃ viprayuktānāṃ ca saṃskārāṇāṃ
-> skandhāsaṃgrahād duḥkhasamudayasatyatvaṃ na syād iti parijñāparihāṇe
+> skandhāsaṃgrahād duḥkhasamudayasatyatvaṃ na syād iti parijñāprahāṇe
 > api na syātām /
 >
 > uktaṃ ca bhagavatā “nāham ekadharmam api anabhijñāyāparijñāya
@@ -44,38 +44,40 @@ defines the cognition-base. It is not taken here.
 > ity etāni sapta dravyāṇi dharmāyatanaṃ dharmadhātuś cety ākhyāyante /
 
 The unit runs from the remainder through the seven. Span: `[010|19]`–`[011|05]`.
-Word division is editorial. The local e-text has *catubbryo* and a broken
-avagraha in *saṃgraho*. Read *caturbhyo* and *saṃgraho 'bhyupagantavyaḥ*.
-*Parijñāparihāṇe* is retained; *aprahāya* controls the pair as full
-comprehension and abandonment. Not a critical text.
+Word division is editorial. The local e-text has *catubbryo*, *ucyata*, and
+a broken avagraha after *saṃgraho*. Read *caturbhyo*, *ucyate*, and
+*saṃgraho 'bhyupagantavyaḥ*. More consequentially, it reads
+*parijñāparihāṇe*; the text above reads *parijñāprahāṇe*, as in
+[Yaśomitra's commentary](https://textgridrep.de/browse/49p10.0), which
+explicitly pairs comprehension of suffering with abandonment of its origin.
+The following *aprahāya* supports the same sense. This is a working reading,
+not a critical text.
 
 ## 3. Continuous Conventional Translation
 
-The others, apart from the four, are the formations-base. The formations apart
-from the four — form, feeling, reflection, and the cognition-base — are the
-formations-base.
+“The others, apart from the four, are the Formations Base.” The four Bases
+are Form, Feeling, Reflection, and Cognition. The remaining formations are
+gathered in a fifth Base.
 
-In a sūtra, however, the Blessed One said six groups of volition, because of
-predominance. For that volition is predominant in the active forming, because
-it has the nature of karma. For this very reason the Blessed One said: it
-actively forms the conditioned; therefore it is called the formations-base of
-appropriation.
+But a sūtra names six groups of volition. It names the leading member:
+volition is karma by nature and takes the leading role in forming the
+conditioned. For the same reason the Blessed One said, “It forms the
+conditioned; therefore it is called the Formations Base of appropriation.”
 
-Otherwise, since the remaining associated factors and the dissociated
-formations would not be included in a base, they would not have the truth of
-suffering and of origin. Full comprehension and abandonment would not apply to
-them either. And the Blessed One said: I do not declare the ending of
-suffering without directly knowing and fully comprehending even a single
-dharma. Likewise, without abandoning, is said. Therefore their inclusion in
-the formations-base must necessarily be accepted.
+Suppose that the other mental factors and formations dissociated from Mind
+were left out. They would then belong to no Base and so could not be counted
+under the truths of suffering and its origin; comprehension and abandonment
+would lose their objects in these cases. Yet the Blessed One said, “I do not
+declare the ending of suffering without directly knowing and fully
+comprehending even a single dharma.” He likewise spoke of not declaring it
+without abandonment. These remaining formations must therefore be admitted
+to the Formations Base.
 
-These three, again: the feeling-base, the reflection-base, and the
-formations-base, in the essence-and-principle arrangement, together with
-*avijñapti* and the unconditioned, are called the dharma-essence and the
-dharma-principle. These seven are designated the dharma-essence and the
-dharma-principle.
-
-The teacher of the sūtra is the Blessed One. No opponent is named.
+The arrangement now changes. “These three” are the Feeling, Reflection,
+and Formations Bases. Together with *avijñapti* and the unconditioned, they
+are called Dharma Essence when arranged as Essences and Dharma Principle
+when arranged as Principles. The seven counted are those three Bases,
+*avijñapti*, and the three unconditioned.
 
 ## 4. Movement
 
@@ -112,17 +114,20 @@ same phrase.
 
 ## 6. Inclusion
 
-*Anyathā*. If the rest were excluded, they would be in no base. Then they
-would not be suffering and origin. Then full comprehension and abandonment
-would not apply.
+*Anyathā* introduces a reductio: if volition alone filled the Formations
+Base, other mental factors and formations dissociated from Mind would fall
+outside all five Bases. The argument concerns their necessary inclusion,
+not a claim that every member of the Formations Base is both the truth of
+suffering and the truth of origin. Yaśomitra explicitly relates
+*parijñā* to suffering and *prahāṇa* to origin.
 
 *Anabhijñāya*, *aparijñāya*: without directly knowing, without fully
 comprehending. *Aprahāya*: without abandoning. The Blessed One does not
 declare the ending of suffering on that failure, even for a single dharma.
 
-The inclusion must be accepted. Classifying them is not itself the
-abandonment. The argument does not make every conditioned formation Impure.
-The conditioned Pure path has already been distinguished.
+Their inclusion must be accepted. Classification is not itself abandonment;
+the argument does not make every conditioned formation Impure. The
+conditioned Pure path has already been distinguished.
 
 ## 7. The Seven
 
@@ -136,13 +141,14 @@ essence and principle.
 | feeling-base | conditioned base |
 | reflection-base | conditioned base |
 | formations-base | conditioned base |
-| *avijñapti* | form; still in the form-base |
+| *avijñapti* | form; still in the Form Base |
 | space | unconditioned; no base |
 | cessation through discrimination | unconditioned; no base |
 | cessation without discrimination | unconditioned; no base |
 
-Three, one, three. *Dravya* is the commentary's word for the count. It does
-not say each base is one indivisible item.
+Three, one, three. *Dravya* is the commentary's word for the count. Here the
+seven are counted entries in the Dharma Essence and Dharma Principle, not
+seven individual dharmas: each of the three Bases gathers many members.
 
 The ten of 1.14 did not include the continuity. The continuity is placed here,
 and remains form. The unconditioned enters the same names and does not acquire
@@ -160,16 +166,29 @@ a base.
 
 ## 9. Interpretation
 
-The remainder is how a base is gathered: what is other than the four, taken as
-one. Predominance explains the sūtra. It does not license a smaller base.
-Leaving the rest outside would leave a dharma outside the ending of suffering.
-The inclusion is compulsory.
+This is a higher-level view of the five Bases. Form, Feeling, Reflection,
+and Cognition are distinguished before Formations is defined as the
+remainder. The remainder is not whatever happens to be left on a list:
+the passage argues that the other mental factors and dissociated
+formations must belong to a Base if their place in comprehension and
+abandonment is to remain intelligible.
 
-The second line is not a sixth base. Feeling, reflection, and formations
-already have bases. They are named again, as dharma-essence and
-dharma-principle. *Saha* is the accompaniment, not a promotion. The continuity
-keeps the form-base and receives the dharma names. The unconditioned receives
-the dharma names and receives no base.
+In the Organon reading, Form, Feeling, and Reflection are distinct
+determinations within the Kantian problem of cognition. *Vijñāna* is
+**Cognition** in that strong sense: determinate knowing, not a generic
+word for mental life. Here it is named as the fourth Base excluded from
+the remainder; 1.16 determines it directly. This comparison articulates
+the role of the four without pretending that the Bhāṣya uses Kant's terms.
+
+Predominance explains why the sūtra can name volition without shrinking
+the Formations Base to volition alone.
+
+The second line changes the classificatory view. Feeling, Reflection, and
+Formations retain their places as Bases while being counted under Dharma
+Essence and Dharma Principle. *Avijñapti* remains in the Form Base while
+receiving those same names; the unconditioned receives them without
+acquiring a Base. This is why one member can have more than one
+classificatory role without the classifications becoming interchangeable.
 
 The cognition-base is the fourth excluded, and it is not one of the three.
 Its definition is the next verse. Not opened.

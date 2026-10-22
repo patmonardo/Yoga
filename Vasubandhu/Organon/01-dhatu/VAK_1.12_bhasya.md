@@ -33,8 +33,12 @@ not taken here.
 > tat tu laghutvam upādāya rūpam apy uktaṃ prakaraṇeṣu / ato ya
 > īraṇāsvabhāvo dharmaḥ sa vāyur iti karmaṇā 'sya svabhāvo 'bhivyaktaḥ /
 
-The unit runs from which Elements through the function making own-character
-evident. Span: Pradhan `[008|11]`–`[008|25]`. Word division is editorial.
+Compared with `Vasubandhu/Sources/kosabhasya.txt` from `[008|11]` through
+`[008|25]`. The following question at `[008|26]` opens 1.13. Word division
+is editorial. The witness regularizes visibly damaged local forms, including
+`mahāsṇniveśatvāt` to *mahāsaṃniveśatvāt*, `saṃsidhāḥ` to *saṃsiddhāḥ*,
+`prakāraṇeṣu` to *prakaraṇeṣu*, and `karṃaṇā` to *karmaṇā*. These are working
+repairs, not an independently collated text.
 
 ## 3. Continuous Conventional Translation
 
@@ -43,28 +47,28 @@ evident. Span: Pradhan `[008|11]`–`[008|25]`. Word division is editorial.
 > The Elements are the Earth Principle and the Water, Fire, and
 > Wind Principles.
 >
-> These four are called principles, and the four Great Elements, because they
-> hold own-character and derived form. Their greatness is from magnitude, as
-> support of all other form. Or else, from their great gathering in the masses
-> of earth, water, fire, and wind, where the corresponding operation has
-> arisen.
+> These four are called Principles, and the four Great Elements, because they
+> hold their own-characters and derived Form. They are called “great” because
+> of their gross extent as supports of all other Form. Alternatively, they are
+> great because they are present in large concentrations in the masses called
+> earth, water, fire, and wind, where their respective activities arise.
 >
-> Again, in what function are these principles established, and of what
-> own-character? It says: established in functions beginning with support.
-> These, the Earth, Water, Fire, and Wind Principles, are established in
+> In which functions are these Principles established, and what are their
+> own-characters? The verse says they are established in functions beginning
+> with support. The Earth, Water, Fire, and Wind Principles are established in
 > order in the functions of support, gathering, ripening, and spreading.
-> Spreading is to be known as increase and extension. This is their function.
-> Own-character, however, in order, is hardness, cohesion, heat, and impulsion.
+> Spreading here means growth and extension. Those are their functions; their
+> own-characters, in the same order, are hardness, cohesion, heat, and impulsion.
 >
-> Hardness is the Earth Principle. Cohesion is the Water Principle. Heat is
-> the Fire Principle. Impulsion is the Wind Principle. It is called impulsion
-> because by it the stream of Elements is impelled, from producing in another
-> place, as the moving of a lamp-flame.
+> Hardness is the Earth Principle, cohesion the Water Principle, heat the Fire
+> Principle, and impulsion the Wind Principle. It is called impulsion because
+> it impels the stream of Elements to arise in another place, as a lamp flame
+> moves.
 >
-Scripture and treatise. “What is the Wind Principle? Lightness of movement,”
-stated in the treatises and in a sūtra. But that lightness is also said in
-the treatises to be derived form. Therefore the dharma whose own-character is
-impulsion is wind. By the function its own-character is made evident.
+> The *Prakaraṇa* texts and a sūtra describe the Wind Principle as “lightness
+> of movement.” Yet the *Prakaraṇa* texts also classify that lightness as
+> derived Form. Therefore Wind is the dharma whose own-character is
+> impulsion; its function makes that own-character evident.
 
 ## 4. Movement
 

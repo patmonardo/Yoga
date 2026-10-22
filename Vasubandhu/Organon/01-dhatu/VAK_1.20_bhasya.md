@@ -108,7 +108,7 @@ The bases, the essences, and the principles have been explained. This, however, 
 
 Bases, essences, and principles have the meanings of collection, door of arrival, and source-kind.
 
-Scripture. From the statement, “Whatever form is past, future, or present, internal or external, gross or subtle, inferior or excellent, or far or near — all of it, gathered into one, goes under the reckoning ‘form-base’” — it is established that in the sūtra the meaning of base is collection.
+Scripture. From the statement, “Whatever form is past, future, or present, internal or external, gross or subtle, inferior or excellent, or far or near — all of it, gathered into one, goes under the reckoning ‘Form Base’” — it is established that in the sūtra the meaning of base is collection.
 
 There, past form has ceased by impermanence. Future form has not arisen. Present form has arisen and not ceased. Internal belongs to one's own continuum; external is another's. Or the distinction is by essence. Gross is resistant; subtle is non-resistant. Or these are relative.
 

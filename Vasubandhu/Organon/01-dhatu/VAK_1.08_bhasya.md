@@ -9,7 +9,7 @@
 > appropriation; they too are with conflict. These same dharmas are
 > suffering, origin, the world, the station of views, and becoming.
 
-Span: Pradhan `[005|08]`–`[005|20]`. Next question at `[005|21]` opens 1.09.
+The Bhāṣya unit runs from `[005|08]` through `[005|20]` in the local Sanskrit source. The next question at `[005|21]` opens 1.09.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -34,17 +34,17 @@ Span: Pradhan `[005|08]`–`[005|20]`. Next question at `[005|21]` opens 1.09.
 > bhavatīti bhavaḥ /
 > ity ete sāsravāṇāṃ dharmāṇām anvarthaparyāyāḥ /
 
-Local IAST reads `lakṣyata iti lokaḥ`. Working reading `lujyata`, with Yaśomitra: it breaks down. Not a printed-edition claim.
+Compared with `Vasubandhu/Sources/kosabhasya.txt` at `[005|08]`–`[005|20]`. The local transcription reads `lakṣyata iti lokaḥ` at `[005|18–19]`; *lujyata* in the witness is an editorial reading supported by the breakdown gloss found in parallel transmission, not the local reading. It governs the translation “they dissolve”; retaining *lakṣyata* would require a different construal, such as “they are perceived.” The witness also repairs visibly damaged forms including `truṇatupāgnivat` to *tṛṇatuṣāgnivat*, `raṇsā` to *raṇā*, `stadanuśayitatvāt` to *tadanuśayitatvāt*, and `sāsravāṇasaṃ` to *sāsravāṇām*. These repairs have not been collated against a printed edition.
 
 ## 3. Continuous Conventional Translation
 
 These are the same Conditioned dharmas. Those which are Impure are the bases of appropriation.
 
-What follows? Whatever is a base of appropriation is a base. Not every base is a base of appropriation. There are also Pure formations.
+What follows from that? Every Base of appropriation is a Base, but not every Base is a Base of appropriation: there are also Pure formations.
 
 Here the appropriations are the afflictions. The bases are called bases of appropriation for three reasons: they arise from the appropriations, as fire from grass or chaff; they are governed by them, as the king’s servant; or the appropriations arise from them, as flowers and fruit from a tree. These same dharmas are called Impure.
 
-They are also with conflict. The afflictions are conflicts because they injure oneself and others. Because those conflicts persist latently in the bases, the bases are with conflict, as they are Impure.
+They are also “with conflict.” The afflictions are conflicts because they injure oneself and others. Since these conflicts persist in those dharmas, they are called “with conflict,” just as they are called Impure.
 
 They are also suffering, origin, world, the station of views, and becoming.
 
@@ -58,7 +58,7 @@ Station of views, because views stand in them by persisting there.
 
 Becoming, because they come to be.
 
-These are designations of the Impure dharmas, each matching its meaning. They are coextensive, not synonyms.
+These are designations of the Impure dharmas, each matching its meaning.
 
 ## 4. Movement
 

@@ -10,7 +10,7 @@
 > not through discrimination. Among these, space is non-obstruction, where
 > Form can move.
 
-Span: Pradhan `[003|15]`–`[003|23]`. The next line opens 1.06.
+The Bhāṣya unit occupies `[003|15]`–`[003|23]` in the local Sanskrit source. Its next line opens 1.06.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -27,7 +27,7 @@ Span: Pradhan `[003|15]`–`[003|23]`. The next line opens 1.06.
 > tatrākāśam anāvṛtiḥ /
 > anāvaraṇasvabhāvam ākāśaṃ yatra rūpasya gatiḥ /
 
-Local forms normalized for reading. Not a critical edition.
+Compared with `Vasubandhu/Sources/kosabhasya.txt` at `[003|15]`–`[003|23]`. The local text opens with `anasravāḥ katame`; the witness normalizes this to `anāsravāḥ katame`, in agreement with the following verse and prose. It also opens sandhi and regularizes word division, including `katamattri vidham` as `katamat trividham`. These are editorial readings of the local source, not a critical edition. The answer to “which two?” names the cessations here; their definitions belong to the following unit.
 
 ## 3. Continuous Conventional Translation
 
@@ -39,11 +39,11 @@ What is the threefold? Space and the two cessations.
 
 Which are the two? Cessation through discrimination, and cessation not through discrimination.
 
-Thus the threefold unconditioned beginning with space, together with the Truth of the Path, are the pure dharmas.
+Thus the threefold unconditioned beginning with space, together with the Truth of the Path, are pure dharmas.
 
 Why? Because the *āsravas* do not persist in them.
 
-Among the three unconditioned dharmas just enumerated, space is non-obstruction. Its nature is non-obstruction. It is where form can move.
+Among the three unconditioned dharmas just enumerated, space is non-obstruction. Space has the nature of non-obstruction: it is where form can move.
 
 ## 4. Movement of the Commentary
 

@@ -21,15 +21,17 @@ The commentary calls this *sarvadharmāṇāṃ samāsanirdeśaḥ*, the summary
 > yathā 'tra nānuśerate tat paścād anuśayanirdeśa eva jñāpayiṣyāmaḥ /
 > uktāḥ sāsravāḥ /
 
-This unit runs from the transition question through *uktāḥ sāsravāḥ*. The local IAST is normalized for reading. It remains an edited, non-critical working text.
+This unit runs from the transition question at `[003|05]` through *uktāḥ sāsravāḥ* at `[003|14]` in `Vasubandhu/Sources/kosabhasya.txt`. The opening question also closes the preceding unit. The witness opens sandhi and regularizes `samāsanirddeśaḥ` to `samāsanirdeśaḥ`. More consequentially, the local text at `[003|12–13]` reads `na tinuśerate`; `na tv anuśerate` above is a contextual reconstruction, not a verified source reading. The witness remains an edited, non-critical working text.
 
 ## 3. Continuous Conventional Translation
 
 > Which, then, are those dharmas for whose discrimination the Abhidharma instruction is given? He says: dharmas are impure and pure. This is the summary designation of all dharmas.
 >
-> Among them, which dharmas are impure? He says: conditioned, excluding the Path, are impure. That is, conditioned dharmas other than the Truth of the Path are impure. Why? Because the *āsravas* persist through them.
+> Among them, which dharmas are impure? He says: conditioned, excluding the Path, are impure. That is, conditioned dharmas other than the Truth of the Path are impure. Why? Because the *āsravas* persist in them.
 >
-> Granted, *āsravas* also arise taking the Truth of Cessation and the Truth of the Path as *ālambana*. But they do not persist through those two. It does not follow that those two are impure. How they do not persist through them will be explained later, in the Exposition of the Anuśayas. The impure dharmas have now been stated.
+> Granted, *āsravas* also arise taking the Truth of Cessation and the Truth of the Path as *ālambana*. But they do not persist in either. It does not follow that those two are impure. How they fail to persist in them will be explained later, in the Exposition of the Anuśayas. The impure dharmas have now been stated.
+
+Here “persist in” renders *samanuśerate* and its reprise *anuśerate*: the claim concerns the *āsravas*' relation to those dharmas, not mere duration. The passage promises a fuller account later; this translation does not supply that account in advance.
 
 ## 4. Movement of the Commentary
 

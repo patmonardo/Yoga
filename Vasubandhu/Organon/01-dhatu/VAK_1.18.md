@@ -80,9 +80,9 @@ The disjunction is within the scope of “all”: each Dharma falls within at le
 
 Again, two lines. The first names the inclusion. The second names the ground.
 
-One base, one essence, one principle, taken together, include all. The commentary names the three: form-base, mind-essence, dharma-principle. Form is the Form System: Faculties, meanings, and *avijñapti*. Mind-essence is the cognition-base. Dharma-principle takes feeling, reflection, formations, *avijñapti*, and the unconditioned. Overlap is the point. *Avijñapti* sits in form and in the dharma-principle. The unconditioned have no base, and still enter.
+One base, one essence, one principle, taken together, include all. The commentary names the three: Form Base, mind-essence, dharma-principle. Form is the Form System: Faculties, meanings, and *avijñapti*. Mind-essence is the cognition-base. Dharma-principle takes feeling, reflection, formations, *avijñapti*, and the unconditioned. Overlap is the point. *Avijñapti* sits in form and in the dharma-principle. The unconditioned have no base, and still enter.
 
-Own-nature is the warrant. Not isolation. The eye is included in the form-base, in the eye-essence and the eye-principle, and, when Impure, in suffering and origin, because it has that nature. It is not included where the nature is not its own.
+Own-nature is the warrant. Not isolation. The eye is included in the Form Base, in the eye-essence and the eye-principle, and, when Impure, in suffering and origin, because it has that nature. It is not included where the nature is not its own.
 
 The same word gathers an assembly. That gathering is occasional, and conventional. It happens. It does not place the gathered in the gatherer's own nature. Two grounds. The science is the difference.
 
@@ -96,7 +96,7 @@ The same word gathers an assembly. That gathering is occasional, and conventiona
 | upādāna-skandha | appropriated Base | the Impure |
 | āyatana | essence | all dharmas |
 | dhātu | principle | all dharmas |
-| rūpa-skandha | form-base | the Form System |
+| rūpa-skandha | Form Base | the Form System |
 | mana-āyatana | mind-essence | the cognition-base, under essence |
 | dharma-dhātu | dharma-principle | feeling, reflection, formations, *avijñapti*, the unconditioned |
 | svabhāva | own-nature | the ground of inclusion |

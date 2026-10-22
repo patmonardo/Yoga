@@ -1,4 +1,4 @@
-# VAK_1.09 Bhāṣya — The Form-Base
+# VAK_1.09 Bhāṣya — The Form Base
 
 ## 1. Kārikā Anchor
 
@@ -13,7 +13,7 @@
 
 The commentary enumerates, cites the scripture, and aligns the Prakaraṇa. The five meanings are the next verse. They are not taken here.
 
-Span: Pradhan `[005|21]`–`[006|07]`.
+The Bhāṣya unit runs from `[005|21]` through `[006|07]` in the local Sanskrit source.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -34,7 +34,7 @@ Span: Pradhan `[005|21]`–`[006|07]`.
 > “cakṣuḥ katamat / cakṣurvijñānāśrayo rūpaprasāda” iti vistaraḥ /
 > nirdiṣṭāni pañcendriyāṇi / arthāḥ pañca nirdeśyāḥ /
 
-The unit runs from the five bases already stated through the five meanings still to be indicated. Word division is editorial. Not a critical text.
+Compared with `Vasubandhu/Sources/kosabhasya.txt` at `[005|21]`–`[006|07]`. The witness opens sandhi and repairs damaged local forms, including the five-Faculty list at `[005|23]`, `prakaraṇagraṇtho` to *prakaraṇagrantho*, and `nirddeśyāḥ` to *nirdeśyāḥ*. The local punctuation places the closing quotation mark before *rūpaprasāda* in the scriptural citation; the displayed witness reads it with the citation, as the following *iti vistaraḥ* suggests. That quotation boundary has not been independently collated. The final sentence announces the detailed treatment of the five meanings in 1.10.
 
 ## 3. Continuous Conventional Translation
 
@@ -42,15 +42,15 @@ It has been said: five bases, beginning with form. Among them, form is the five 
 
 The five faculties are the eye, the ear, the nose, the tongue, and the body.
 
-The five meanings are the five conditions of those very faculties, beginning with the eye, each its own, called visible form, sound, odor, taste, and the tangible.
+The five meanings are the respective five *viṣayas* of those Faculties: visible Form, sound, odor, taste, and the tangible.
 
-And *avijñapti*. So much is the form-base.
+The Form Base also includes *avijñapti*. These eleven make up the Form Base.
 
-There, those five meanings, beginning with visible form, have been stated. The clarities of form, beginning with the eye, are supports of the corresponding cognition. The five clarities, whose nature is form, that are supports of the cognitions of visible form, sound, odor, taste, and the tangible, are to be known in order as eye, ear, nose, tongue, and body.
+The five meanings beginning with visible Form have now been named. The eye and the other Faculties are clarities of Form that support their corresponding Cognitions. The five Form-natured clarities support Cognition of visible Form, sound, odor, taste, and the tangible, respectively; in that same order they are called eye, ear, nose, tongue, and body.
 
-As the Blessed One said: “The eye, monk, is an internal essence, a clarity of form depending on the four Great Elements,” and the rest.
+As the Blessed One said: “The eye, monk, is an internal Essence, a clarity of Form depending on the four Great Elements,” and so on.
 
-What have been stated, beginning with the eye, are supports of the corresponding cognition, clarities of form, beginning with the eye. The meaning is: supports of the cognition of the eye and the rest. So taken, the Prakaraṇa too is in agreement: “What is the eye? A clarity of form that is the support of the cognition of the eye,” and the rest.
+Thus “the eye and the rest are clarities of Form supporting their corresponding Cognitions” means that the eye supports eye-Cognition, the ear supports ear-Cognition, and so on. On this reading, the *Prakaraṇa* agrees: “What is the eye? A clarity of Form that supports eye-Cognition,” and so on.
 
 The five faculties have been indicated. The five meanings are to be indicated.
 
@@ -98,7 +98,7 @@ nor a completed transcendental theory is supplied by this unit.
 
 ## 6. Decisions for the Kārikā
 
-1. *Rūpa* is form, the form-base, eleven.
+1. *Rūpa* is form, the Form Base, eleven.
 2. *Indriya* is faculty. Organ is not this page.
 3. *Artha* is meaning, lowercase. *Viṣaya* is the gloss, condition, not a second list.
 4. *Avijñapti* is named, not defined.

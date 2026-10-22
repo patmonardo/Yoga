@@ -51,7 +51,7 @@ The cognition-base just stated is, in the essence-arrangement, the mind-essence.
 
 In the principle-arrangement, that same base is seven principles. Which seven? The six cognition-principles, and the mind-principle. The seventh cognition-principle is the mind-principle. Not mind.
 
-Thus five bases, twelve essences, and eighteen principles are set out here. The form-base, apart from *avijñapti*, is ten essences and ten principles. The three bases beginning with feeling, *avijñapti*, and the unconditioned are the dharma-essence and the dharma-principle. The cognition-base is the mind-essence, the six cognition-principles, and the mind-principle.
+Thus five bases, twelve essences, and eighteen principles are set out here. The Form Base, apart from *avijñapti*, is ten essences and ten principles. The three bases beginning with feeling, *avijñapti*, and the unconditioned are the dharma-essence and the dharma-principle. The cognition-base is the mind-essence, the six cognition-principles, and the mind-principle.
 
 *Katame sapta* is answered here. No opponent is named.
 
@@ -86,14 +86,14 @@ The word *vijñapti* is shared with 1.11. The gloss in this unit is apprehension
 
 | Base | Essence | Principle |
 |---|---|---|
-| form-base, apart from *avijñapti* | ten essences | ten |
+| Form Base, apart from *avijñapti* | ten essences | ten |
 | feeling, reflection, formations, with *avijñapti* and the unconditioned | dharma-essence | dharma-principle |
 | cognition-base | mind-essence | six cognition-principles, and the mind-principle |
 | five | twelve | eighteen |
 
 The arithmetic is `10 + 1 + 1 = 12` and `10 + 1 + 7 = 18`.
 
-The form-base is the Form System. Five organs, five meanings, and the continuity. Apart from the continuity, the system is the ten. The continuity stays in the form-base and enters the dharma pair. One content, two determinations. Not a further substance, and not matter set beside form.
+The Form Base is the Form System. Five organs, five meanings, and the continuity. Apart from the continuity, the system is the ten. The continuity stays in the Form Base and enters the dharma pair. One content, two determinations. Not a further substance, and not matter set beside form.
 
 A matter system would treat the ten as stuff, and form as a later appearance. That is the opposite. The ten are organs and meanings. The principles of 1.12 are principles of form. The worldly names of 1.13 point at color and configuration, which are form. Nothing in the close is matter.
 
@@ -107,7 +107,7 @@ The unconditioned have no base. They sit in the dharma pair.
 4. The seventh cognition-principle is the mind-principle. Not mind.
 5. *Avijñapti* is excluded from the ten and included in the dharma pair. It remains form.
 6. The unconditioned sit in that pair and are not a base.
-7. The form-base is a Form System. It is not a matter system.
+7. The Form Base is a Form System. It is not a matter system.
 8. Skandha, āyatana, and dhātu are different subgraphs. The order is base, essence, principle.
 
 ## 9. Interpretation

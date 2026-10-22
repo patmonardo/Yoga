@@ -63,14 +63,14 @@ the bases of appropriation. Of all dharmas, by the essences and the principles.
 
 In brief, it is to be known: the inclusion of all is by one base, and by one
 essence, and by one principle. Inclusion of all dharmas is to be understood by
-the form-base, the mind-essence, and the dharma-principle.
+the Form Base, the mind-essence, and the dharma-principle.
 
 Wherever this inclusion is spoken, it is to be known as by own-nature, not by
 another's nature. Why? Because of separation from another's nature. A dharma is
 separate from another's nature. Therefore it is not reasonable that it be
 included by that very nature from which it is separate.
 
-For example, the eye is included by the form-base, by the eye-essence and the
+For example, the eye is included by the Form Base, by the eye-essence and the
 eye-principle, and by the truths of suffering and origin, because it has that
 nature. Not by the other bases and the rest, because it is separate from their
 nature.
@@ -86,7 +86,7 @@ ranges
 brief
     → one base, one essence, one principle
 named
-    → form-base, mind-essence, dharma-principle
+    → Form Base, mind-essence, dharma-principle
 ground
     → own-nature, not another's
 case
@@ -110,11 +110,11 @@ all the conditioned. The unconditioned are in the third row, and in no base.
 
 | Named | What the preceding verses already placed |
 |---|---|
-| form-base | five organs, five meanings, *avijñapti* |
+| Form Base | five organs, five meanings, *avijñapti* |
 | mind-essence | the cognition-base |
 | dharma-principle | feeling, reflection, formations, *avijñapti*, the unconditioned |
 
-Together they cover all. Not each alone. *Avijñapti* is in the form-base and
+Together they cover all. Not each alone. *Avijñapti* is in the Form Base and
 in the dharma-principle. That overlap is the inclusion, not a flaw in it.
 
 ## 6. Own-Nature
@@ -125,10 +125,10 @@ nature one is separate from is not the nature that includes.
 This is classificatory membership. It does not cancel support, or the borne.
 Those stand. They are not this inclusion.
 
-The eye is the case. Form-base, eye-essence, eye-principle, suffering and
+The eye is the case. Form Base, eye-essence, eye-principle, suffering and
 origin, because it has that nature. Not the other bases, because their nature
 is not its own. Several determinations. Not one determination said three times.
-Suffering and origin are not the form-base.
+Suffering and origin are not the Form Base.
 
 Own-nature is the warrant of the place. It is not a thesis that each dharma
 sits alone.
@@ -147,7 +147,7 @@ inserted.
 ## 8. Decisions for the Kārikā
 
 1. The three ranges differ, and are stated separately.
-2. The named three are form-base, mind-essence, and dharma-principle. Jointly
+2. The named three are Form Base, mind-essence, and dharma-principle. Jointly
    they include all dharmas.
 3. The coverage overlaps at *avijñapti*. It is not an exclusive partition.
 4. Inclusion is by own-nature. The nature one is separate from will not include.
@@ -159,11 +159,11 @@ inserted.
 The preceding verse's objection counted by substance. That count was pointing
 past the Impure. None of the eighteen, as included here, is that. The Impure
 row is a substrate: what appropriation takes up, and what persists as taken up.
-Substrate is not substance. The joint inclusion does not promote the form-base,
+Substrate is not substance. The joint inclusion does not promote the Form Base,
 the mind-essence, or the dharma-principle into a substance that owns the rest.
 
 One base, one essence, one principle, jointly. Form is the Form System. Mind
-is the cognition-base under essence. Dharma-principle takes what the form-base
+is the cognition-base under essence. Dharma-principle takes what the Form Base
 does not exhaust, including the unconditioned, which have no base. The same
 dharma can sit in more than one determination. The determinations do not become
 the same thing, and they do not become a substance by being jointly sufficient.

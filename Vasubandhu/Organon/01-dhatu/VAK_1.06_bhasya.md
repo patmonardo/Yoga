@@ -10,7 +10,7 @@
 > discriminative comprehension, is an absolute obstruction to the arising
 > of a future dharma.
 
-Span: Pradhan `[003|24]`–`[004|22]`. The next question opens 1.07.
+The Bhāṣya unit runs from `[003|24]` through `[004|22]` in the local Sanskrit source. The next question opens 1.07.
 
 ## 2. Continuous Sanskrit Witness
 
@@ -48,31 +48,31 @@ Span: Pradhan `[003|24]`–`[004|22]`. The next question opens 1.07.
 > tadyathātītapratyutpanna-utpattidharmāṇām anāsravāṇām iti /
 > uktaṃ trividham asaṃskṛtam /
 
-The sensory line is read as *na hi te saty atītaṃ viṣayam ālambayitum*. Not checked against the printed editions.
+Compared with `Vasubandhu/Sources/kosabhasya.txt` at `[003|24]`–`[004|22]`. This is an edited witness, with sandhi and word division opened. The sensory sentence at `[004|16–17]` is especially damaged in the local transcription (`na hi te satyā atītaṃ viṣayamālambayi tulmiti`); the displayed *na hi te saty atītaṃ viṣayam ālambayitum* is a conjectural reconstruction, not a verified reading. The local text also has `sākṣātk karaṇāt`, `anutpasttidharmāṇām`, and `aṇāsravāṇām` where the witness prints regularized forms. None of these repairs has been checked against a printed edition. “Four” in the translation makes explicit the conventional number of Noble Truths; the Sanskrit here says “the Noble Truths beginning with suffering,” without stating the number.
 
 ## 3. Continuous Conventional Translation
 
-Disjunction from impure dharmas is cessation through discrimination. Discrimination is the consideration of the Noble Truths, beginning with suffering. It is a particular prajñā. The cessation attained by it is cessation through discrimination. The expression drops the middle member, as in ox-cart.
+Cessation through discrimination is disjunction. More precisely, it is disjunction from Impure dharmas. Here “discrimination” means discriminative examination of the Four Noble Truths, beginning with the Truth of Suffering; it is a particular form of *prajñā*. The cessation attained through that *prajñā* is called “cessation through discrimination.” The shortened name omits “attained through,” just as “ox-cart” leaves “yoked to oxen” unspoken.
 
-Is there, then, just one such cessation for all impure dharmas?
+Is there, then, just one cessation through discrimination for all Impure dharmas? No. How many are there?
 
-No. What then? Separately, in each case. There are as many disjunctions as there are conjunctions. Otherwise, realizing the cessation of the afflictions abandoned by seeing suffering would entail realizing the cessation of all afflictions. And then cultivation of the remaining counteragents would be pointless.
+They are separate in each case: there are as many distinct disjunctions as there are distinct conjunctions. If there were only one, realizing the cessation of the afflictions abandoned by seeing suffering would amount to realizing the cessation of every affliction. Cultivating the remaining counteragents would then be pointless.
 
-What, then, does “cessation is without a homogeneous cause” mean? It means cessation has no homogeneous cause, and is the homogeneous cause of nothing. It does not mean cessation has no homogeneous counterpart. Cessation through discrimination has been explained.
+But cessation has been called “without a homogeneous cause.” What does that mean if there are many cessations? A cessation has no homogeneous cause, nor is it the homogeneous cause of anything else. The phrase does not mean that no other cessation is similar to it. This concludes the explanation of cessation through discrimination.
 
-The cessation other than disjunction, an absolute obstruction to the arising of future dharmas, is cessation not through discrimination. It is not attained by discrimination. How, then? By deficiency of conditions.
+The other cessation is not disjunction. It absolutely obstructs the arising of a future dharma and is called “cessation not through discrimination.” It is not attained through discrimination. How, then, is it attained? Through a deficiency of conditions.
 
-When the eye and the mind are occupied with one form, other forms, sounds, odors, tastes, and tangibles pass by. The five groups of cognition that would have taken them cannot arise afterward. They cannot take what has passed. So this cessation is obtained for them by deficiency of conditions.
+For example, while eye and mind are occupied with one form, other forms, sounds, odors, tastes, and tangible objects pass by. The five groups of cognition that would have taken those objects cannot subsequently arise with those objects: they cannot take a past object as their *ālambana*. Because the required conditions are lacking, cessation not through discrimination is obtained for those groups of cognition.
 
-There are dharmas for which cessation through discrimination alone is obtained: past, present, and future impure dharmas capable of arising.
+This yields four possibilities. Cessation through discrimination alone is obtained for past and present Impure dharmas, and for future Impure dharmas destined to arise.
 
-There are dharmas for which cessation not through discrimination alone is obtained: future pure conditioned dharmas incapable of arising.
+There are dharmas for which cessation not through discrimination alone is obtained: Pure conditioned dharmas that will not arise.
 
-There are dharmas for which both are obtained: impure dharmas incapable of arising.
+There are dharmas for which both are obtained: Impure dharmas that will not arise.
 
-There are dharmas for which neither is obtained: past, present, and future pure dharmas capable of arising.
+There are dharmas for which neither is obtained: past and present Pure dharmas, and future Pure dharmas destined to arise.
 
-The threefold unconditioned has been explained.
+With this, the threefold unconditioned has been explained.
 
 ## 4. Movement of the Commentary
 

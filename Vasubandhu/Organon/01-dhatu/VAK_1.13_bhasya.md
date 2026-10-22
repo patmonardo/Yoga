@@ -9,9 +9,9 @@
 > configuration; wind, however, is also the Principle itself, though in
 > that way too it is called from color and configuration.
 
-The verse is the cut between ordinary name and principle. The commentary
-extends the unit through the form-base and the hard member. The next verse
-defines reflection. It is not taken here.
+The verse distinguishes ordinary names from their Principles, then preserves
+both uses of “wind.” The commentary goes on to ask why the Form Base,
+through *avijñapti*, counts as Form. The next verse begins a new inquiry.
 
 ## 2. Continuous Sanskrit
 
@@ -119,33 +119,36 @@ defines reflection. It is not taken here.
 
 The unit runs from the difference of names through the last reply. Span:
 `[008|26]`–`[010|06]`. Word division is editorial. The local e-text has
-damaged forms, including *vāyuar*, *rūpopādānasdandha*, *sañghātasthaṃ*,
-*āśrtya*, *utpattinimiktamātraṃ*, and *avijña ptyāśayeṣu*. The readings
-above are working repairs. Not a critical text.
+damaged forms, including *vāyuar* (twice), *rūpopādānasdandha*,
+*sañghātasthaṃ*, *āśrtya*, *utpattinimiktamātraṃ*, and
+*avijña ptyāśayeṣu*. The readings above are working repairs. The source
+also breaks *yujyate* off after *nā ... tathaivāśritā*; here it is joined
+to its clause. This is a working witness, not a critical text.
 
 ## 3. Continuous Conventional Translation
 
 Exposition. What, then, is the difference between earth and the rest, and the
 Earth Principle and the rest?
 
-By worldly designation, color and configuration are called earth. For those
-who point out earth point out color and configuration.
+By worldly designation, color and configuration are called earth. For when
+people point out earth, they point out color and configuration.
 
 As earth, so water and fire. By worldly designation, color and configuration
 alone are called by those names.
 
-Wind, however, is the Principle itself. That very Wind Principle is what, in
-the world, is called wind.
+Wind, however, is the Principle itself: the very Wind Principle is what people
+call wind.
 
-And yet also in that way. As color and configuration are called earth by
-worldly designation, so also wind: a blue storm, a circular storm.
+And yet wind is also named in the same way as earth, from color and
+configuration: a blue whirlwind, a circular whirlwind.
 
-Why, then, is this called the form-base, extending through *avijñapti*?
-Because of being affected.
+Why, then, is this called the Form Base, extending through *avijñapti*?
+Because it is affected.
 
-Scripture. The Blessed One said: it is affected, it is affected, monks;
-therefore it is called the form-base of appropriation. Affected by what?
-Even touched by the hand, it is affected. And the rest of the discourse.
+Scripture. The Blessed One said: “It is affected, it is affected, monks;
+therefore it is called the Form Base of appropriation.” Affected by what?
+“Even when touched by the hand, it is affected,” and so the discourse
+continues.
 
 Exposition. Affected means afflicted.
 
@@ -165,17 +168,17 @@ collection, it is indeed affected.
 
 Objection. Then past and future form would not be form.
 
-Answer. That too is form: already affected, yet to be affected, and of that
-kind. As fuel.
+Answer. Those too are Form: past Form has been affected, future Form will be
+affected, and both belong to the kind that is affected, as with fuel.
 
 Objection. Then *avijñapti* would not be form.
 
 Answer. It too is affected through the affecting of the *vijñapti*, as a
 shadow moves when the tree moves.
 
-Objection. No, because it is not modified in that way. And when the *vijñapti*
-ceased, the *avijñapti* would cease, as the shadow is absent when the tree is
-absent.
+Objection. No: *avijñapti* does not undergo that alteration. If it depended
+on the *vijñapti* as a shadow depends on a tree, it would cease when the
+*vijñapti* ceased, just as the shadow disappears when the tree is gone.
 
 Others. Because the Great Elements that are its support are affected.
 
@@ -183,25 +186,30 @@ Objection. Then the eye-cognition and the rest would also be form, because
 their support is affected.
 
 Answer. The comparison is unequal. *Avijñapti* continues in dependence on the
-Elements, as a shadow on a tree, as radiance on a jewel. The eye-cognition and
-the rest do not continue in dependence on the eye and the rest. Those are only
-a condition of arising.
+Great Elements, as a shadow on a tree or radiance on a jewel. Eye-Cognition
+and the other Cognitions do not continue in dependence on the eye and the
+other Faculties in that way; those Faculties are only conditions for their
+arising.
 
-Criticism. This, to begin with, is not Vaibhāṣika: that a shadow continues in
-dependence on a tree, and radiance on a jewel. It is accepted that each
-color-atom of shadow, radiance, and the like depends on its own four great
-Elements. And even granting that dependence, *avijñapti* is not reasonably
-dependent in just that way. It is accepted that *avijñapti* does not cease
-even when the Great Elements that were its support have ceased. Therefore this
-is not the repair.
+Criticism. To begin with, it is not Vaibhāṣika doctrine that shadow depends
+on the tree or radiance on the jewel: each color-atom of shadow, radiance,
+and the like is held to depend on its own four Great Elements. Even if such
+dependence were granted for shadow and radiance, it would not establish the
+same dependence for *avijñapti*. For *avijñapti* is held to persist after the
+Great Elements that supported it have ceased. This reply therefore fails.
 
-Others. The support of the eye-cognition and the rest is differentiated. Some
-is affected, the eye and the rest. Some is not affected, as mind. Not so
-*avijñapti*. Therefore the consequence is not the same. Hence it is reasonable
-that it is form because its support is affected.
+Others offer another reply. The supports of Eye-Cognition and the other
+Cognitions differ: some are affected, such as the eye; another, Mind, is not.
+The support of *avijñapti* does not have that division. So the same
+consequence does not follow, and it is reasonable to call *avijñapti* Form
+because its support is affected.
 
-The last reply is *anye*. The teacher of the sūtra is the Blessed One. No
-single opponent is named through the sequence.
+Here *rūpaskandha* is “Form Base” in this study: the passage treats it as
+a range whose membership must be defended, through *avijñapti*. The quoted
+*rūpopādānaskandha* adds “of appropriation.” The claim that Form is
+“affected” is tested against atomic Form, past and future Form, and
+*avijñapti*; the final support argument remains a reported reply, not a
+resolution of every preceding objection.
 
 ## 4. Movement
 

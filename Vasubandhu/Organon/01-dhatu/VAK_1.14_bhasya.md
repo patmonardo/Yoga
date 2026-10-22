@@ -41,59 +41,52 @@ next verse takes up formations. It is not taken here.
 >
 > sa punar bhidyamānaḥ ṣaṭ saṃjñākāyā vedanāvat /
 
-The unit runs from the form-base contents through the six groups of
-reflection. Span: `[010|07]`–`[010|18]`. Word division is editorial. The local
-e-text reads *indriyārthasta ... aśāyatanadhātavaḥ*, *cakṣurchātū*, and
-*yāvamvanaḥsaṃsparśajā*. Read with the kārikā, and as *cakṣurdhātuḥ*,
-*yāvan manaḥsaṃsparśajā*. *Mitramitra* is transmitted. Friend and enemy is a
-possible division, uncertain at the letter. Not a critical text.
+The unit runs from the Form Base contents through the six groups of
+Reflection. Span: `[010|07]`–`[010|18]`. Word division is editorial. The local
+e-text reads *indriyārthasta ... aśāyatanadhātavaḥ*, *cakṣurchātū*,
+*vaktavyaḥ*, and *yāvamvanaḥsaṃsparśajā*. The reading above follows the
+kārikā at the first locus and repairs the others as *cakṣurdhātuḥ*,
+*vaktavyāḥ*, and *yāvan manaḥsaṃsparśajā*. The witness has *mitramitra*;
+“friend and enemy” would require a repair such as *mitrāmitra*, which is not
+adopted here. This is a working witness, not a critical text.
 
 ## 3. Continuous Conventional Translation
 
-The very ones already stated as having the nature of the form-base:
+Those already described as belonging to the Form Base—the Faculties and their
+meanings—are the very same ten accepted as Essences and Principles.
 
-These very Faculties and meanings are accepted as the ten essences and the ten
-principles.
+Arranged as Essences, they are ten: Eye Essence, Visible Form Essence, and so
+on through Body Essence and Tangible Essence. Arranged as Principles, these
+same ten are Eye Principle, Visible Form Principle, and so on through Body
+Principle and Tangible Principle.
 
-In the essence-arrangement, ten essences: eye-essence, visible-form-essence,
-through body-essence and tangible-essence.
+The Form Base and its arrangement as Essences have now been stated. Feeling
+and the remaining Bases must be explained. First, Feeling is experience.
+Experience is threefold—pleasant, painful, and neither painful nor pleasant—
+and constitutes the Feeling Base. Divided according to the contact from which
+it arises, Feeling forms six groups, from Feeling born of eye-contact through
+Feeling born of Mind-contact.
 
-In the principle-arrangement, these very ten principles: eye-principle,
-visible-form-principle, through body-principle and tangible-principle.
-
-The form-base has been stated, and its essence-arrangement. Feeling and the
-rest are to be stated. Among them, feeling is undergoing.
-
-Undergoing is threefold. That is the feeling-base: pleasant, painful, and
-neither painful nor pleasant.
-
-Divided further, six groups of feeling: feeling born of eye-contact, through
-feeling born of mind-contact.
-
-Reflection has the taking up of the mark as its nature.
-
-The taking up of marks such as blue, yellow, long, short, woman, man,
-*mitramitra*, pleasant, painful, and the rest: that is the reflection-base.
-
-Divided further, six groups of reflection, as with feeling.
-
-No opponent is named.
+Reflection has taking up a mark as its nature. Taking up marks such as blue,
+yellow, long, short, woman, man, *mitramitra*, pleasant, painful, and the
+rest constitutes the Reflection Base. Divided in the same way as Feeling,
+Reflection forms six groups.
 
 ## 4. Movement
 
 ```text
-already in the form-base
+already in the Form Base
     → these very Faculties and meanings
     → ten essences
     → the same ten principles
-form-base closed
+Form Base closed
     → feeling: three tones; six groups by contact
     → reflection: the mark; six groups, as feeling
 ```
 
 ## 5. The Same Ten
 
-*Ya eva rūpaskandhasvabhāvā uktāḥ* resumes the form-base. *Te eva* carries
+*Ya eva rūpaskandhasvabhāvā uktāḥ* resumes the Form Base. *Te eva* carries
 the same Faculties and meanings. *Daśa* is distributed.
 
 | Arrangement | Opens | Closes | Count |
@@ -102,7 +95,7 @@ the same Faculties and meanings. *Daśa* is distributed.
 | principle | eye-principle, visible-form-principle | body-principle, tangible-principle | the same ten |
 
 The lists alternate Faculty and meaning. *Yāvat* covers the middle. *Avijñapti*
-is in the form-base and not among these ten. *Ukto rūpaskandhaḥ* closes that
+is in the Form Base and not among these ten. *Ukto rūpaskandhaḥ* closes that
 account before the new definitions.
 
 ## 6. Feeling
@@ -133,7 +126,7 @@ reflection is the taking up of the mark. Not the same word in force.
 2. Each arrangement has ten. *Avijñapti* is not among them.
 3. Feeling is three tones of undergoing, and six groups by contact.
 4. Reflection takes up the mark, and has six groups on the same pattern.
-5. The form-base account closes in this unit. Formations begin after it.
+5. The Form Base account closes in this unit. Formations begin after it.
 
 ## 9. Interpretation
 
@@ -151,7 +144,7 @@ The mark is not yet the principle. The six groups run from eye-contact through
 mind-contact. Mind is the sixth support of the group. Not a seventh substance,
 and not stated as such here.
 
-The continuity of 1.13 is absent from the ten. It remains in the form-base,
+The continuity of 1.13 is absent from the ten. It remains in the Form Base,
 and it is not given an essence or a principle in this verse. That placement
 is addressed at 1.16. It is not supplied here.
 

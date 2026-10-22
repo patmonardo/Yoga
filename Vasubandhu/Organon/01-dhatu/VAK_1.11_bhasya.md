@@ -38,44 +38,44 @@ name. Which Great Elements are meant opens 1.12. It is not taken here.
 >
 > samāsatas tu vijñaptisamādhisaṃbhūtaṃ kuśalākuśalaṃ rūpam avijñaptiḥ /
 
-The unit runs from *avijñapti* now to be explained through the summary.
-The question which Great Elements are meant is 1.12. Span:
-`[007|29]`–`[008|10]`.
-
-Word division is editorial. The local verse reads *anubaṇdhaḥ*; the kārikā
-witness and the gloss support *anubandhaḥ*. These are normalizations, not a
-critical text.
+Compared with `Vasubandhu/Sources/kosabhasya.txt` from `[007|29]` through
+`[008|10]`. The following question, at `[008|11]`, opens 1.12. Word division
+is editorial. The local verse has *anubaṇdhaḥ*; the kārikā witness and the
+prose gloss *pravāhaḥ* support the displayed *anubandhaḥ*. The local prose
+also separates `yo 'nu bandha` where this witness reads *yo 'nubandha*.
+These are working repairs, not a critical text.
 
 ## 3. Continuous Conventional Translation
 
-> *Avijñapti* is now to be explained. It is stated thus.
+> *Avijñapti* is now to be explained. The verse states:
 >
-> The wholesome or unwholesome continuity which, depending on the great
-> Elements, belongs even to one whose consciousness is otherwise directed or
-> absent: that indeed is called *avijñapti*.
+> The wholesome or unwholesome continuity that persists even when
+> consciousness is directed elsewhere or absent depends on the Great
+> Elements; that indeed is called *avijñapti*.
 >
-> “Of one whose consciousness is otherwise directed” means also of one who has
-> a different consciousness. “Even of one without consciousness” means also of
-> one who has entered the attainment of non-perception or the attainment of
-> cessation. By the word “even” it is known: also of one who has consciousness
-> and is not otherwise directed.
+> “Consciousness directed elsewhere” means that a different consciousness is
+> present. “Without consciousness” refers to someone who has entered the
+> attainment of non-perception or the attainment of cessation. The word “even”
+> also includes someone whose consciousness is present and not directed
+> elsewhere.
 >
-> “Which continuity” means which stream. “Wholesome or unwholesome” means
-> *kuśala* or *akuśala*.
+> “Continuity” means a stream; “wholesome or unwholesome” means *kuśala* or
+> *akuśala*.
 >
-> There is also a stream of acquisition, wholesome or unwholesome, of this
-> sort. To distinguish from that, it is said: depending on the Great Elements.
+> A stream of acquisition can likewise be wholesome or unwholesome. To
+> distinguish *avijñapti* from that stream, the verse adds “depending on the
+> Great Elements.”
 >
-> The Vaibhāṣikas say the meaning of *upādāya* is causal, because the Elements
-> have the status of cause, beginning with production.
+> The Vaibhāṣikas take *upādāya* in a causal sense: the Great Elements serve as
+> causes, beginning with production.
 >
-> In “that indeed is *avijñapti*,” the word “indeed” is for making known the
-> assignment of this name. Although it has the nature of form and action, it
-> does not inform another as *vijñapti* does. Hence *avijñapti*. “Is called”
-> shows a statement of the teacher.
+> In “that indeed is *avijñapti*,” “indeed” marks the assignment of the name.
+> Although *avijñapti* has the nature of Form and action, it does not inform
+> another as *vijñapti* does. That is why it is called *avijñapti*. “Is called”
+> indicates a statement by the teacher.
 >
-> In summary, however, *avijñapti* is wholesome or unwholesome form arisen
-> from *vijñapti* or from absorption.
+> In summary, *avijñapti* is wholesome or unwholesome Form arising from
+> *vijñapti* or from absorption.
 
 The causal reading is ascribed to the Vaibhāṣikas. The teacher is not named
 more narrowly. No separate objector speaks.
