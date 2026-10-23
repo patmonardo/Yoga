@@ -77,15 +77,15 @@ contextual English readings are provisional, not independent collation.
 
 ## 3. Continuous Conventional Translation
 
-This is now considered. Do these conditioned dharmas, just as they have distinct characteristics, also arise separately, or are there some that necessarily arise together? There are, he says. All these dharmas fall into five classes: Form, consciousness, mental factors, formations dissociated from consciousness, and the unconditioned. The unconditioned does not arise at all. For Form dharmas, this is the rule.
+The question now is whether conditioned dharmas, distinct in characteristic, also arise separately, or whether some necessarily arise together. Some do, he says. Dharmas are classified here in five groups: Form, consciousness, mental factors, formations dissociated from consciousness, and the unconditioned. The unconditioned does not arise. For Form dharmas, the rule is as follows.
 
-In the Desire Realm, a soundless minimal cluster without a Faculty consists of eight constituents. The most subtle cluster of Form is called a minimal cluster, beyond which a further smaller cluster could not be discerned. In the Desire Realm, without sound and without a Faculty, it arises with eight, lacking none. The eight are the four Great Elements and four Element-dependent Forms: visible Form, odor, taste, and the tangible. A soundless cluster possessing a Faculty arises with nine or ten. One possessing the body-Faculty has nine: those eight and the body-Faculty. One possessing another Faculty has ten: those nine and one among eye, ear, nose, and tongue. With sound, they arise with nine, ten, and eleven respectively. There is also sound inseparable from a Faculty, caused by appropriated Great Elements.
+In the Desire Realm, a soundless minimal Form-cluster without a Faculty has eight constituents. *Paramāṇu* names the subtlest cluster of Form, whose members cannot be distinguished separately. This cluster arises with no fewer than eight: the four Great Elements and four forms dependent on them—visible form, odor, taste, and the tangible. A soundless cluster with a Faculty has nine or ten. With the body-Faculty, it has the original eight plus body. With one other Faculty—eye, ear, nose, or tongue—it has those nine plus that Faculty. If sound is present, these three clusters have nine, ten, and eleven constituents respectively. Sound can also be inseparable from a Faculty when it is caused by appropriated Great Elements.
 
 If the Elements are inseparable, how does one cluster arise hard, another fluid, hot, or moving? Whichever is most intense, standing out by its efficacy, is apprehended there—as with the touch of a bundle of needles [the first compound is uncertain], and the taste of flour and powdered salt. How is the rest known to be present? From their activities: holding together, sustaining, ripening, and spreading; and because, when conditions are available, the hard becomes fluid and so forth. Others say heat in water is known from the greater degree of cold. But a greater degree of cold could occur without admixture, as with greater intensity of sound or feeling. Others say the Elements are present as seeds, not in their own Form, from the statement, “There are various Principles in this log.”
 
 How is visible color present in wind? This matter is to be accepted, not inferred. [An inferential reason follows:] odor is apprehended from moving air, and odor does not occur without visible color. The absence of odor and taste in the Form Realm has been stated; the clusters there have six, seven, or eight constituents. Since their character has thereby been indicated, they are not stated again.
 
-Is constituent here an individual real constituent, or an Essence? What follows from that? If individual, eight, nine, or ten is too little: there must also be shape [the clause is damaged], since that too consists of accumulated minimal clusters; heaviness or lightness; smoothness or roughness; and sometimes cold, hunger, and thirst. If an Essence is counted as a constituent, eight is too much: four should be stated, since the Elements also belong to the Tangible Essence. Here what serves as Basis is counted as an individual constituent, and what is based upon it as an Essence. Even so the Elemental constituents would be more, each Element-dependent Form depending on its own quartet of Elements. Here, however, constituent-kind is counted. The other quartets do not go beyond their own kinds. Why the effort to speak through these distinctions [the question is damaged]? Words may be used as one chooses. The meaning is to be examined.
+What does “constituent” count here: each individual thing, or each Essence? If each individual thing, the stated numbers are too small. Shape must also be present [the clause is damaged], since it too consists of accumulated minimal clusters; so must one of heavy and light, one of smooth and rough, and sometimes cold, hunger, and thirst. If the count is by Essence, eight is too large: there would be only four, since the Elements themselves belong to the Tangible Essence. The reply counts the supporting Elements individually and what depends on them by Essence. But then there would still be more Elements, since each dependent form rests on its own quartet. The answer is that the count is by *kind* of constituent: the additional quartets do not add new Element-kinds. Why insist on describing it in this way [the question is damaged]? Words can be used by convention; their meaning must be examined.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -140,10 +140,9 @@ account cannot silently become eight particles or eight Essences.
 This shift from possession to necessary co-arising does not itself
 explain Path entry.
 
-Cognition joins and governs Perception and Conception and guides
-the reading of Dharma Base, remaining distinct from consciousness
-and Mind. The opening fivefold classification names consciousness;
-it must not be silently replaced by Mind or Cognition.
+The opening fivefold classification names consciousness. It does not
+establish the wider Organon account of Cognition, Perception, and
+Conception. The present rule concerns co-arising Form dharmas.
 
 ## 10. Review Status
 

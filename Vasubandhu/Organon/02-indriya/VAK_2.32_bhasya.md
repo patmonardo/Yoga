@@ -79,22 +79,19 @@ The examination-factor distinction at 60.23 begins 2.33.
 
 ## 3. Continuous Conventional Translation
 
-The distinctions established in the treatise among certain mental factors will now be stated. What distinguishes shamelessness from lack of moral caution? Shamelessness is lack of respect. Absence of reverence toward qualities and those possessing them, non-acknowledgment of authority, absence of fear, and refusal to be governed constitute shamelessness, a factor opposed to respect. Lack of moral caution is failure to see danger in the blameworthy. The blameworthy is what good persons condemn. Failure to see danger in it is lack of moral caution. Danger here means an undesirable result.
+The distinctions established in the treatise among certain mental factors will now be stated. What distinguishes shamelessness from lack of moral caution? Shamelessness is lack of respect: irreverence toward qualities and those who possess them, refusal to acknowledge authority, and lack of restraint through fear. It is a factor opposed to respect. Lack of moral caution is failure to see danger in the blameworthy, meaning what good persons condemn. Here danger is an undesirable result.
 
-How should this be understood: seeing an absence of danger, or not seeing danger? If seeing an absence of danger, it would be discriminative comprehension. If not seeing danger, ignorance. The disposition so described is not simply seeing, nor simply not seeing. The secondary affliction that occasions either is lack of moral caution.
+Does “failure to see danger” mean seeing that danger is absent, or failing to see danger? The first would be discriminative comprehension; the second, ignorance. But the relevant disposition is neither simply an act of seeing nor simply its absence. The secondary affliction that gives rise to either is lack of moral caution.
 
-Others say shamelessness is being unashamed of faults with reference to oneself, and lack of moral caution with reference to others. How can the two references be established simultaneously? It is not said that one simultaneously considers oneself and another. There is a lack of shame that can operate even when one considers oneself: shamelessness. One that operates when one considers another: lack of moral caution. Moral shame and moral caution by reversing these. On the first account, moral shame is respect, acknowledgment of
-authority, and not being governed by fear; moral caution is seeing
-danger in the blameworthy [a provisional construal of the damaged
-positive reversal]. On the second, shame with reference to oneself and to others.
+Others say shamelessness is lack of shame about one's own faults, while lack of moral caution concerns faults in relation to others. How can both references hold at once? The claim is not that one considers self and other simultaneously. Rather, one kind of shamelessness can occur while considering oneself, and the other while considering someone else. Reverse these accounts to understand moral shame and moral caution. On the first account, moral shame involves respect and acknowledgment of authority without being ruled by fear; moral caution sees danger in the blameworthy [the positive reversal is damaged in the witness]. On the second, the distinction turns on shame in relation to self or other.
 
-Affection is faith. Affection is twofold, afflicted and unafflicted. Afflicted is craving, as toward children and spouse. Unafflicted is faith toward the Teacher, preceptors, and those endowed with qualities. Faith without affection: directed toward suffering and its origin. Affection without faith: afflicted affection. Both: faith directed toward cessation and the path. Neither outside these modes. Among persons, affection without respect toward children, spouse, companions, and pupils. Respect without affection toward other teachers. Both toward one's own teacher. Neither outside these cases. Faith is esteem for qualities. Affection is fondness preceded by that esteem. Others say affection is not identical with faith. Respect is acknowledgment of authority. Moral shame is shame preceded by that acknowledgment. Others say respect is not identical with moral shame.
+What distinguishes affection from respect? The verse says, “Affection is faith.” Affection can be afflicted or unafflicted. Afflicted affection is craving, as toward children or a spouse; unafflicted affection is faith toward the Teacher, preceptors, and people possessing qualities. Four cases follow: faith without affection, when directed toward suffering and its origin; affection without faith, when afflicted; both, as faith directed toward cessation and the path; and neither, outside these cases. Considering persons, affection without respect occurs toward children, a spouse, companions, or pupils; respect without affection toward other teachers; both toward one's own teacher; and neither outside these cases. Others distinguish the attitudes more sharply: faith is esteem for qualities, and affection is fondness preceded by that esteem, so affection is not simply faith. Likewise, respect is acknowledgment of authority, and moral shame is shame preceded by it; on this account, respect is not simply moral shame.
 
-These, however, occur in the desire and form realms. Affection and respect do not occur in the formless realm. Faith and moral shame occur there too, being wholesome great-ground factors. Faith is twofold, toward dharmas and toward persons. Acknowledgment of authority likewise. The forms that have persons as Cognitive Condition do not occur there. Those are what is intended here by affection and respect.
+The affection and respect intended here occur in the Desire and Form Realms, not in the Formless Realm. But faith and moral shame, as wholesome great-ground factors, occur there too. The reply distinguishes their Supports: faith can be directed toward dharmas or toward persons, and the same distinction applies to respect. The person-directed forms of faith and moral shame do not occur in the Formless Realm. It is these forms that the verse calls affection and respect.
 
 ## 4. Movement and Voice of the Commentary
 
-Definitions deferred at the counts. The first account of the negative pair meets the collapse into prajñā or ignorance. The alternative meets simultaneity. Both are reversed. Affection and respect get compressed identifications, fourfold comparisons, and attributed alternatives. The realm objection tests the restriction against wholesome great-ground occurrence. The reply restricts by Cognitive Condition.
+Definitions deferred at the counts. The first account of the negative pair meets the collapse into prajñā or ignorance. The alternative meets simultaneity. Both are reversed. Affection and respect get compressed identifications, fourfold comparisons, and attributed alternatives. The realm objection tests the restriction against wholesome great-ground occurrence. The reply restricts by Support.
 
 ## 5. Moral Caution
 
@@ -125,7 +122,7 @@ The person examples show the relations can separate. Not judgments about every p
 
 Faith and moral shame are wholesome great-ground factors, so they occur in wholesome consciousness in the formless realm. If affection and respect were those factors without restriction, they could not be absent there.
 
-The reply narrows the reference. Person-directed forms are what the restriction means. Faith and moral shame are not withdrawn. The general factor, the directed form, and the realm stay apart.
+The reply narrows the reference. Person-directed forms are what the restriction means. Faith and moral shame are not withdrawn. The general factor, its Support, the directed form, and the realm stay apart.
 
 ## 9. Interpretation
 
@@ -135,11 +132,13 @@ Absence of the directed form is not absence of the factor.
 Distinguishing faith from the affection it precedes does not erase
 the relation. The attributed alternatives remain distinct.
 
-Cognition joins and governs Perception and Conception and guides
-the reading of Dharma Base, remaining distinct from consciousness
-and Mind. The comprehension/ignorance dilemma does not identify
-the separate lack-of-caution factor with Cognition. Its occasioning
-role and the attitudes' preceding relations remain different claims.
+The comprehension/ignorance dilemma asks what gives rise to the
+apparent cognition or non-cognition of danger; it does not identify
+the lack-of-caution factor with either. The attributed alternatives
+then test identity against sequence: faith can precede affection,
+and respect can precede shame. The Formless objection tests a third
+relation, directedness toward a person as Support. These are distinct
+ways an episode can be structured, beyond a list of member names.
 
 ## 10. Review Status
 

@@ -70,15 +70,15 @@ claimed. Limited affliction at 57.04 begins 2.27.
 
 ## 3. Continuous Conventional Translation
 
-An extensive ground is a great ground. Those whose great ground is affliction are the affliction great-ground factors: the dharmas that occur always in afflicted consciousness. Which occur always in afflicted consciousness? Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation, always in the afflicted. Delusion means ignorance, not knowing, lack of clear comprehension. Heedlessness is non-cultivation of wholesome dharmas, a factor opposed to heedfulness. Laziness is the absence of energetic arousal in consciousness, opposed to vigor. Lack of faith is absence of clarity in consciousness, opposed to faith. What is sluggishness? Heaviness of body and consciousness, unworkability of body and consciousness. The Abhidharma speaks of bodily sluggishness and mental sluggishness. How is a mental factor called bodily? As bodily feeling. Agitation is the non-pacification of consciousness. These are the six.
+An extensive ground is a great ground. The affliction great-ground factors are the dharmas that always occur in afflicted consciousness. Which are they? Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation. Delusion is ignorance: not knowing, a lack of clear comprehension. Heedlessness is failure to cultivate wholesome dharmas, the opposite of heedfulness. Laziness is a lack of energetic arousal in consciousness, the opposite of vigor. Lack of faith is a lack of clarity in consciousness, the opposite of faith. Sluggishness is heaviness and unworkability of body and consciousness. The Abhidharma speaks of bodily and mental sluggishness. How can a mental factor be called bodily? In the same way as bodily feeling. Agitation is the failure of consciousness to become settled. These are the six affliction great-ground factors.
 
-But does the Abhidharma not recite ten: lack of faith, laziness, loss of recollection, distraction of consciousness, ignorance, lack of clear comprehension, improper attention, false resolution, agitation, and heedlessness? You know the recitation, not the intention. What is the intention? Loss of recollection, distraction, lack of clear comprehension, improper attention, and false resolution are not determined exclusively as affliction great-ground factors, because they belong to the universal great-ground factors. Likewise non-delusion is not determined exclusively as a wholesome great-ground factor, since it has the nature of discriminative comprehension. Loss of recollection is recollection when afflicted. Distraction is concentration when afflicted, and so on.
+But does the Abhidharma not list ten: lack of faith, laziness, loss of recollection, distraction of consciousness, ignorance, lack of clear comprehension, improper attention, false resolution, agitation, and heedlessness? You know the recitation, comes the reply, but not its intended distinction. What is that distinction? Loss of recollection, distraction, lack of clear comprehension, improper attention, and false resolution are not classified *exclusively* as affliction great-ground factors: they are afflicted forms of factors belonging to the universal great-ground class. Likewise non-delusion is not classified exclusively as a wholesome great-ground factor, since its nature is discriminative comprehension. Loss of recollection is recollection when afflicted; distraction is concentration when afflicted; and so on.
 
-Hence the question: are those that are great-ground factors also affliction great-ground factors? Four alternatives. The first: feeling, volition, reflection, wish to perform, and contact. The second: lack of faith, laziness, ignorance, agitation, and heedlessness. The third: the five afflicted factors beginning with loss of recollection, as stated. The fourth excludes these modes. Some hold distraction of consciousness to be different from wrong concentration. For them the fourfold analysis is otherwise.
+Does it follow, then, that the universal great-ground factors are also affliction great-ground factors? There are four cases. Universal only: feeling, volition, reflection, wish to perform, and contact. Affliction great-ground only: lack of faith, laziness, ignorance, agitation, and heedlessness. Both: the five afflicted forms beginning with loss of recollection. Neither: factors outside these cases. Some, however, hold that distraction of consciousness differs from wrong concentration; for them, the four cases must be drawn differently.
 
-Sluggishness is admitted to be associated with every affliction. Whose fault is it that it is not recited? They say it should be recited, but is not, because favorable to concentration. Someone predominantly sluggish, it is said, would produce concentration more quickly than someone predominantly agitated. Who is sluggish without being agitated, or agitated without being sluggish? These two never cease to accompany one another. Nevertheless, designation follows whichever predominates. Thus precisely six are established. They occur always and only in afflicted consciousness, nowhere else.
+Sluggishness, however, is admitted to be associated with every affliction. Why was it left out of the quoted list? Some say it should have been included, but was omitted because it favors concentration: a person dominated by sluggishness would, it is said, produce concentration sooner than one dominated by agitation. Yet who is sluggish without agitation, or agitated without sluggishness? The two never cease to accompany one another. A person is designated by whichever predominates. Thus the six affliction great-ground factors are established: they occur always in afflicted consciousness and nowhere else.
 
-But in the unwholesome, shamelessness and lack of moral caution. In unwholesome consciousness these two are invariably present, and are called unwholesome great-ground factors. Their characteristics will be explained later.
+In unwholesome consciousness, shamelessness and lack of moral caution are also invariably present. These two are called the unwholesome great-ground factors. Their characteristics will be explained later.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -120,12 +120,12 @@ Occurrence in afflicted consciousness is not exclusive membership in the afflict
 
 Range, qualified form, and predominance stay apart. Six against ten is the first two. Sluggish against agitated is the third. One label cannot do all three.
 
-Cognition joins and governs Perception and Conception and guides
-the reading of Dharma Base, remaining distinct from consciousness
-and Mind. The classification of an afflicted comprehension-mode
-does not introduce a new Cognition or erase its relation to the
-universal factor. The dissent about distraction keeps identity
-claims open to examination rather than treating names as proof.
+The classification of an afflicted comprehension-mode does not by
+itself establish a new factor distinct from universal discriminative
+comprehension. The reported dissent about distraction shows why
+identity claims require argument rather than a match between names.
+This unit classifies factors by occurrence and qualified form; it does
+not define the episode's Basis or Support.
 
 ## 10. Review Status
 

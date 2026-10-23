@@ -43,7 +43,7 @@ The wholesome-class introduction at 55.02–03 belongs to 2.25.
 
 ## 3. Continuous Conventional Translation
 
-Which, then, occur in every consciousness? Feeling, volition, reflection, wish to perform, contact, discriminative comprehension, mindfulness, attention, resolution, and concentration, in every consciousness. These ten dharmas, it is said, are all present together in every moment of consciousness. Feeling is threefold experience: pleasant, painful, and neither painful nor pleasant. Volition is the formative activity of consciousness, mental action. Reflection is recognizing: take-up of the Condition's distinguishing mark [a provisional reading of the damaged gloss]. Wish to perform is the wish to act. Contact is the touching born from the conjunction of Faculty, Condition, and Cognition. Discriminative comprehension is the discriminative examination of dharmas. Mindfulness is non-loss of the Cognitive Condition. Attention is the application of consciousness. Resolution is settling upon. Concentration is the one-pointedness of consciousness.
+Which factors occur in every consciousness? Feeling, volition, reflection, wish to perform, contact, discriminative comprehension, mindfulness, attention, resolution, and concentration. These ten dharmas, it is said, are present together in every moment of consciousness. Feeling is threefold experience: pleasant, painful, or neither painful nor pleasant. Volition is the formative activity of consciousness, mental action. Reflection is recognition, the taking up of the Condition's distinguishing mark [a provisional reading of the damaged gloss]. Wish to perform is the wish to act. Contact is the touching born from the conjunction of Faculty, Condition, and Cognition. Discriminative comprehension is the examination of dharmas. Mindfulness is not losing the Support. Attention is the application of consciousness; resolution is settling upon; concentration is the one-pointedness of consciousness.
 
 The distinction between consciousness and mental factors is subtle. It is difficult to delimit even in their streams, all the more so in individual moments. Even among certain medicinal plants possessing Form and having many tastes, differences of taste apprehensible by the Faculties are difficult to determine. How much more so with dharmas that are without Form and apprehensible by understanding.
 
@@ -74,7 +74,7 @@ Contact is born of the conjunction of Faculty, Condition, and Cognition.
 It is not confined to bodily touch. This sentence does not decide
 whether the Condition is externally established.
 
-Mindfulness is non-loss of the Cognitive Condition. Attention is application. Resolution is settling upon, a short gloss, not a theory of decision. Concentration is one-pointedness. The four do not collapse into attention.
+Mindfulness is non-loss of the Support (*ālambana*). Attention is application. Resolution is settling upon, a short gloss, not a theory of decision. Concentration is one-pointedness. The four do not collapse into attention.
 
 ## 7. The Difficulty
 
@@ -91,11 +91,11 @@ the definitions, and the difficulty of seeing the differences.
 
 The definitions stay one passage. The order follows the verse. No then is inserted.
 
-Mindfulness is non-loss of the Cognitive Condition, not only memory of a past event. Concentration is one-pointedness in the reported universal context, not only perfected practice.
+Mindfulness is non-loss of the Support, not only memory of a past event. Concentration is one-pointedness in the reported universal context, not only perfected practice.
 
-Ground and Cognitive Condition stay apart. Every consciousness is the
-operating range. That does not make every consciousness a single
-common Cognitive Condition for all ten.
+Ground and Support stay apart. Every consciousness is the operating
+range. That does not make every consciousness a single common Support
+for all ten.
 
 ## 9. Interpretation
 
@@ -108,11 +108,14 @@ say that no other mental factors can accompany a consciousness.
 The numerical inventory is of ten universal factor-kinds, not a
 maximum total for each episode.
 
-Cognition joins and governs Perception and Conception and guides
-the reading of Dharma Base, remaining distinct from consciousness
-and Mind. Its place in contact's definition is not interchangeable
-with reflection or discriminative comprehension. These relations
-must remain differentiated within the co-occurring episode.
+Some of these factors are also named as Faculties elsewhere in this
+chapter: feeling, mindfulness, concentration, and discriminative
+comprehension. This ten-factor list classifies what accompanies every
+consciousness; it does not turn all ten into Faculties. The contact
+definition names a Faculty alongside Condition and Cognition, without
+making that Faculty identical to the contact-factor itself. The wider
+Organon account of Cognition, Perception, and Conception is not
+established by this list.
 
 ## 10. Review Status
 
@@ -126,7 +129,7 @@ Executable Grammar–Logic replaces the alternative-list grammar and
 unfinished formula. Tests require all ten kinds in every modeled
 moment without treating ten as an exclusive total, universal feeling
 as three simultaneous modes, or presence as guaranteed adequacy.
-Contact and mindfulness use the controlled Condition terminology;
+Contact and mindfulness use the controlled Condition and Support terminology;
 the unsupported acquisition look-ahead is removed.
 
 2.25 has not been opened.

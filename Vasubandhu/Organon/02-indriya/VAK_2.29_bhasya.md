@@ -41,9 +41,9 @@ collation. Obscured-indeterminate at 58.18 begins 2.30.
 
 ## 3. Continuous Conventional Translation
 
-But in isolated unwholesome consciousness and in that associated with a view, twenty. In an unwholesome consciousness that is isolated there are twenty mental factors: ten universal great-ground factors, six affliction great-ground factors, two unwholesome great-ground factors, and initial and sustained examination. Isolated names a consciousness in which ignorance alone occurs, without another affliction such as attachment. In unwholesome consciousness associated with a view there are likewise twenty, the same as in the isolated case. But should there not be twenty-one, since the view is additional? No. A certain special form of discriminative comprehension, itself belonging to the universal great-ground factors, is called a view. Here unwholesome consciousness associated with a view means that in which there is wrong view, attachment to views, or attachment to rules and observances.
+In isolated unwholesome consciousness, and in unwholesome consciousness associated with a view, there are twenty mental factors. The isolated case has ten universal great-ground factors, six affliction great-ground factors, two unwholesome great-ground factors, and initial and sustained examination. “Isolated” means that ignorance occurs without a further affliction such as attachment. The view-associated case has the same twenty. Should the view not make twenty-one? No: a particular form of discriminative comprehension, already counted among the universal great-ground factors, is called a view. The unwholesome views in question are wrong view, attachment to views, and attachment to rules and observances.
 
-With the four afflictions, those beginning with anger, or regret, twenty-one. When unwholesome consciousness is associated with one of the four, attachment, hostility, conceit, or doubt, there are twenty-one: that affliction and the twenty stated for the isolated case. Likewise, in consciousness associated with a secondary affliction beginning with anger, as previously stated, those twenty and that secondary affliction make twenty-one. With regret too there are twenty-one. Regret itself is the twenty-first. In summary, in isolated unwholesome consciousness and in that associated with a view there are twenty. In that associated with another affliction or secondary affliction, twenty-one.
+When unwholesome consciousness is associated instead with one of four afflictions—attachment, hostility, conceit, or doubt—the count is twenty-one: the twenty just stated, plus that affliction. The same count applies when one of the secondary afflictions beginning with anger is present. With regret, too, the count is twenty-one; regret itself is the additional factor. In brief, isolated unwholesome consciousness and the view-associated case have twenty, while consciousness associated with another affliction or secondary affliction has twenty-one.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -103,11 +103,12 @@ of names and the same number of factors.
 Labels alone would count view twice. Collapsing every addition into
 a qualification would lose the twenty-first. Identity before the count.
 
-Cognition joins and governs Perception and Conception and guides
-the reading of Dharma Base, remaining distinct from consciousness
-and Mind. A specialized comprehension-factor is not another
-Cognition added to the inventory; nor does that identity license
-collapsing the distinct associates into already-counted factors.
+The view is a specialized form of discriminative comprehension, not
+another factor beside it. That identity does not license collapsing
+the additional afflictions into already-counted factors. A fine-grained
+reading of a consciousness must test identity before adding members;
+the count depends on which dharmas are actually distinct in the
+episode. This passage does not identify a caitta with a Faculty.
 
 ## 10. Review Status
 
@@ -121,5 +122,5 @@ and each alternative single addition to twenty-one. Isolated does
 not remove the established accompaniments. Torpor remains a later
 qualification, not excluded by these local counts.
 
-The following indeterminate-count passage was read to establish the
-boundary; paired review of 2.30 remains next.
+The following indeterminate-count passage was read to establish this
+unit's boundary.

@@ -28,7 +28,9 @@ at 2.23; neither is silently changed to match the other.
 
 ## 3. Continuous Conventional Translation
 
-Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions. Limited afflictions are their ground, so they are called factors of that ground, because associated only with ignorance that is abandonable through cultivation and belongs to the mental sphere. Their exposition will be given among the secondary afflictions. These five classes of mental factors have been stated. There are also others, unfixed, such as initial examination, sustained examination, regret, and torpor.
+Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions. They are so called because their range is limited affliction: they are associated with ignorance only when it is abandonable through cultivation and belongs to the mental sphere. These factors will be explained later among the secondary afflictions.
+
+The five classes of mental factors have now been stated. There are also other, unfixed factors, such as initial examination, sustained examination, regret, and torpor.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -75,12 +77,12 @@ Common range is not necessary co-presence. The universal class, the wholesome cl
 
 Naming classes has not said which factors, or how many, occur in a particular consciousness. That is the next inquiry. Not this result in advance.
 
-Cognition joins and governs Perception and Conception and guides
-the reading of Dharma Base, remaining distinct from consciousness
-and Mind. Mental-sphere restriction is not a license to substitute
-Mind for Cognition or for the consciousness accompanied by factors.
-Class membership must remain distinct from the composition of an
-actual episode.
+For an Organon Rules Engine reading, this passage supplies a testable
+applicability restriction: these factors have a specified range of
+association, yet their membership does not entail their co-occurrence
+with one another. It does not identify them as Faculties or establish
+a Principle as their Basis. Class membership must remain distinct
+from the composition of an actual episode.
 
 ## 10. Review Status
 
@@ -96,5 +98,4 @@ kind. Commentary on this scope is placed after the continuous
 translation. The deferred definitions, local class-name difference,
 and open-ended unfixed examples remain intact.
 
-The next counting question was read to establish the boundary;
-paired review of 2.28 remains next.
+The next counting question was read to establish this unit's boundary.

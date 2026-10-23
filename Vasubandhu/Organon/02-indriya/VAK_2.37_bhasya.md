@@ -10,35 +10,34 @@
 > For wholesome, unwholesome, and indeterminate dharmas, acquisition is
 > respectively wholesome, unwholesome, and indeterminate. For dharmas
 > included in a Realm, acquisition belongs to that same Realm;
-> for those not included in a Realm, it is fourfold in all.
+> for dharmas not included in a Realm, acquisition has four classes in all.
 
 ## 2. Continuous Sanskrit Witness
 
-> sā kilaiṣā prāptiḥ /
-> traiyadhvikānāṃ trividhā /
-> atītānāṃ dharmāṇām atītā 'pi prāptir asti anāgatā 'pi pratyutpannā 'pi /
-> evam anāgatapratyutpannānāṃ pratyekaṃ trividhā /
-> śubhādīnāṃ śubhādikā /
-> kuśalākuśalāvyākṛtānāṃ kuśalākuśalāvyākṛtaiva yathākramaṃ prāptiḥ /
-> svadhātukā tadāptānām /
-> ye dharmās taddhātvāptās teṣāṃ svadhātukā prāptiḥ /
+> sā kilaiṣā praptiḥ
+> traiyadhvikānāṃ trividhā
+> atītānāṃ dharmāṇāmatītā 'pi prāptirastyanāgatyā 'pi pratyutpannā 'pi /
+> evamanāgataparatyutpannānāṃ pratyekaṃ trividhā /
+> ṣubhādīnāṃ ṣubhādikā /
+> kuśalākuśalāvyākṛtānāṃ kuāśalākuśalāvyākṛtaiva yathākramaṃ prāptiḥ /
+> svadhātukā tadāptānāṃ
+> ye dharmāstaddhātvāptāsteṣāṃ svadhātukā prāptiḥ /
 > kāmarūpārūpyāvacarāṇāṃ kāmarūpārūpyāvacarī yathākramam /
-> anāptānāṃ caturvidhā // 2.37 //
-> anāsravāṇāṃ dharmāṇāṃ caturvidhā prāptiḥ /
+> anāptā nāṃ caturvidhā // VAkK_2.37 //
+> anāsravāṇāṃ dharmāṇāṃ caturvidhā praptiḥ /
 > samāsena traidhātukī cānāsravā ca /
-> tatrāpratisaṃkhyānirodhasya traidhātukī pratisaṃkhyānirodhasya rūpārūpyāvacarī cānāsravā ca /
+> tatrāpraptiṃsaṃṅkhyānirodhasya traidhātukī pratisaṃkhyānirodhasya rūpārūpyāvacarī cānāsravā ca /
 > mārgasatyasyānāsravaiva /
-> seyaṃ samāsya caturvidhā bhavati /
+> seyaṃ samasya caturvidhā bhavati /
 
-The classification runs from the introductory *sā kilaiṣā prāptiḥ*
-at 64.12 through 64.24 in
-[the running witness](../../Sources/kosabhasya.txt). This is a normalized
-study transcription, not a collation. For example, it regularizes
-*anāgatyā*, *paratyutpannānām*, *ṣubhādīnāṃ*, *kuāśala-*,
-and the damaged *apraptiṃsaṃṅkhyānirodhasya* to the corresponding
-forms above. The final *samāsya* is read as *samasya*, taken together.
-The trainee-status discussion beginning at 64.25 leads into 2.38
-and is reserved for that paired unit.
+This passage runs from printed 64.12 through 64.24 in
+[the running witness](../../Sources/kosabhasya.txt). It is an exact
+local-source transcription apart from removal of page locators and
+indentation. Thus the source's *praptiḥ*, *anāgatyā*,
+*paratyutpannānām*, *ṣubhādīnāṃ*, *kuāśala-*, and damaged
+*apraptiṃsaṃṅkhyānirodhasya* remain visible. The English follows
+the contextual reading where these are defective; no collation is
+claimed. The trainee-status question at 64.25 begins the 2.38 unit.
 
 ## 3. Continuous Conventional Translation
 
@@ -56,13 +55,14 @@ Realm. Acquisition of dharmas belonging to the Desire, Form, and
 Formless Realms belongs respectively to the Desire, Form, and
 Formless Realms.
 
-For those not included in a Realm, acquisition is fourfold:
-acquisition of uncontaminated dharmas is, in summary, of the three
-Realms and uncontaminated. Within these, acquisition of cessation
+For dharmas not included in a Realm, acquisition is fourfold:
+acquisition of *anāsrava* dharmas (dharmas without *āsrava*) is, in
+summary, of the three Realms or itself *anāsrava*. Within these,
+acquisition of cessation
 not through Discrimination is of the three Realms. Acquisition of
 cessation through Discrimination belongs to the Form or Formless
-Realm, or is uncontaminated. Acquisition of path-truth is
-uncontaminated only. Taken together, this is fourfold.
+Realm, or is *anāsrava*. Acquisition of path-truth is
+*anāsrava* only. Taken together, these are four classes in all.
 
 ## 4. Four Relations, Not One Matching Rule
 
@@ -79,37 +79,38 @@ requires a same-Realm match, not nine cross-Realm combinations.
 
 ## 5. The Combined Fourfold Range
 
-| Uncontaminated dharma | Permitted acquisition classifications |
+| *Anāsrava* dharma | Permitted acquisition classifications |
 |---|---|
 | Cessation not through Discrimination | Desire Realm, Form Realm, Formless Realm |
-| Cessation through Discrimination | Form Realm, Formless Realm, uncontaminated |
-| Path-truth | Uncontaminated only |
+| Cessation through Discrimination | Form Realm, Formless Realm, *anāsrava* |
+| Path-truth | *Anāsrava* only |
 
 The first two rows each have three members, but they are not the
-same set. The union of all rows has four members. Uncontaminated
+same set. The union of all rows has four members. *Anāsrava*
 is not a fourth Realm; not realm-included does not mean unacquired
-or unconditioned. Path-truth supplies the conditioned uncontaminated
+or unconditioned. Path-truth supplies the conditioned *anāsrava*
 case. Space remains outside acquisition and non-acquisition by
-2.36, not because this verse silently reclassifies it as contaminated.
+2.36, not because this verse silently reclassifies its *āsrava* status.
 
-## 6. Interpretation
+## 6. Reading Control
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception, guiding the Dharma Base while remaining distinct from
-consciousness and Mind. Acquisition needs more than a present
-possession flag: its relation to the acquired dharma has temporally
-distinct indices and differently constrained ethical and Realm
-determinations. This matrix articulates those relations without
-settling the preceding dispute over acquisition as a distinct real.
-The reportive opening keeps that argumentative setting visible.
+The four clauses classify acquisition along different dimensions.
+The first supplies three possible time classes for each time class
+of the acquired dharma; the next two require corresponding ethical
+and Realm classes. The last collects four acquisition classes across
+the *anāsrava* cases, rather than assigning all four to each case.
+The reportive *kila* at the opening keeps the preceding dispute over
+acquisition in view. This classification does not decide whether
+acquisition is a separate real dharma.
 
 ## 7. Review Status
 
-Paired source QA and executable Grammar–Logic review completed.
+The complete 64.12–64.24 witness has been checked against the local
+source. The kārikā Grammar and Logic were left untouched in this pass.
 The false temporal matching rule is replaced by the general nine-cell
 matrix; ethical and Realm correspondence remain respectively matched.
 The fourfold count is checked as a union with subtype restrictions,
 not four options for every uncontaminated dharma. Reportive *kila*
 and normalized witness defects are identified. Trainee-status and
 the general temporal rule's exceptions belong to the next paired
-unit, 2.38; only that boundary has been consulted.
+unit, 2.38. No broader Dharma Theory is asserted here.

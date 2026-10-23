@@ -38,9 +38,9 @@ collation. The transition ya eva kāmadhātau begins 2.31.
 
 ## 3. Continuous Conventional Translation
 
-In the obscured, eighteen. In the Desire Realm, consciousness associated with the view of a self in the personal Bases or with a view grasping an extreme is obscured-indeterminate. Eighteen mental factors: ten universal great-ground factors, six affliction great-ground factors, and initial and sustained examination. As before, the view is not an addition. In the other indeterminate, twelve are accepted. The indeterminate other than the obscured is the unobscured-indeterminate. Twelve are accepted: ten universal great-ground factors, and initial and sustained examination. Teachers of the outer regions also accept indeterminate regret. On their account, consciousness associated with it has thirteen.
+In obscured-indeterminate consciousness there are eighteen mental factors. In the Desire Realm, this is consciousness associated with a view of a self in the personal Bases or with a view that grasps an extreme. Its eighteen are the ten universal great-ground factors, six affliction great-ground factors, and initial and sustained examination. As before, the view adds no separate factor. The other indeterminate consciousness is unobscured; it has twelve factors, the ten universal factors plus the two kinds of examination. Teachers of outlying regions also accept indeterminate regret. On their account, consciousness accompanied by it has thirteen.
 
-Because torpor is incompatible with none, wherever it occurs it is additional. Torpor is not incompatible with any of the mental factors already stated, since it can be wholesome, unwholesome, or indeterminate. Wherever it occurs, it is additional. Where twenty-two, twenty-three. Where twenty-three, twenty-four. And so forth.
+Torpor is compatible with all the factors just discussed, since it may be wholesome, unwholesome, or indeterminate. Wherever it occurs, it adds one to the count: where there were twenty-two, there are twenty-three; where there were twenty-three, there are twenty-four; and so on.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -98,10 +98,13 @@ Thirteen without its derivation does not say whether torpor was added
 or regret under the regional alternative. Compatibility is not occurrence.
 The Desire-Realm inquiry closes; higher levels are the next restriction.
 
-Cognition joins and governs Perception and Conception and guides
-the reading of Dharma Base, remaining distinct from consciousness
-and Mind. Neither a view's specialization nor torpor's addition
-introduces Cognition as another counted mental factor.
+An episode is constrained along more than one axis. Obscured status
+includes the six affliction factors without making the episode
+unwholesome; a view can specialize an already-counted factor; torpor
+is a distinct factor whose compatibility permits, but does not require,
+its occurrence. Those are different relations, and the same number
+can arise through different ones. The passage does not define these
+relations as appearances or assign them an Organon controller.
 
 ## 10. Review Status
 
@@ -116,5 +119,5 @@ regionally accepted regret. The regional position remains attributed;
 explicit prose examples remain distinct from applications of the
 general rule. Compatibility does not become necessary occurrence.
 
-The following higher-level restrictions were read to establish the
-boundary; paired review of 2.31 remains next.
+The following higher-level restrictions were read to establish this
+unit's boundary.

@@ -44,9 +44,11 @@ Distinctions among factors at 59.16 begin 2.32.
 
 ## 3. Continuous Conventional Translation
 
-Taking the rule for mental factors already stated for the Desire Realm: of these, regret, torpor, and the unwholesome are not present in the first dhyāna. Of what has been described, regret and torpor are entirely absent in the first dhyāna, as is whatever is unwholesome: hostility; the factors beginning with anger, except crookedness, intoxication, and deception; and shamelessness and lack of moral caution. Everything else remains as before. Those absent in the first dhyāna are also absent in the intermediate dhyāna, together with initial examination. The remainder is as before. Beyond this, sustained examination also. Beyond the intermediate dhyāna, in the second and subsequent dhyānas and in the Formless levels, what was previously excluded is absent, as is sustained examination. Also includes deception and crookedness. The remainder is as before.
+The preceding rules for mental factors concerned the Desire Realm. In the first dhyāna, regret and torpor are entirely absent, as is anything unwholesome: hostility; the factors beginning with anger, apart from crookedness, intoxication, and deception; and shamelessness and lack of moral caution. The other factors remain as before.
 
-Crookedness is recounted only as far as Brahmā, not above, because connected with an assembly. When the monk Aśvajit asked him in his own assembly, where, Brahmā, do these four Great Elements cease without remainder, he did not know and made an evasion: I am Brahmā, the Lord, the Maker, the Fashioner, the Creator, the Producer, the Father of beings. Thus it has been stated how many mental factors occur in which consciousness at which level.
+The intermediate dhyāna retains those exclusions and also excludes initial examination. Beyond the intermediate dhyāna, in the second and higher dhyānas and in the Formless levels, sustained examination is also absent. The word “also” includes deception and crookedness among the further exclusions. Everything else remains as before.
+
+Crookedness is described as occurring as high as Brahmā, but not above, because it is connected with an assembly. In his own assembly, the monk Aśvajit asked Brahmā where the four Great Elements cease without remainder. Brahmā did not know and evaded the question: “I am Brahmā, the Lord, the Maker, the Fashioner, the Creator, the Producer, the Father of beings.” [The distinction between “Creator” and “Producer” is uncertain in the damaged title sequence.] This completes the account of how many mental factors occur in each kind of consciousness at each level.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -96,11 +98,14 @@ Level, ethical character, and identity stay apart. Unwholesome excluded is not e
 Status is not knowledge. The evasion is the commentary's evidence
 for crookedness, not an endorsement of the asserted creative titles.
 
-Cognition joins and governs Perception and Conception and guides
-the reading of Dharma Base, remaining distinct from consciousness
-and Mind. Restricting a level's accompanying mental factors does
-not identify that level with governing Cognition or make authority
-a substitute for knowing.
+The cumulative exclusions constrain which mental episodes can occur
+at each level. They do not make the level itself a caitta or prove
+that all remaining factors are present in every episode. The Brahmā
+story tests a real case of crookedness against an assumed upward
+purification of every mental factor. It also distinguishes asserted
+authority from knowledge: Brahmā evades the question he cannot answer.
+The passage does not locate the caittas in a new Base, Essence, or
+Principle merely because the episode depends on Form.
 
 ## 10. Review Status
 
@@ -115,5 +120,5 @@ crookedness in the further drop, not intoxication. Category labels
 are not treated as counts of individual absent factors. The Brahmā
 episode remains in its local argument without completing it elsewhere.
 
-The following distinction questions were read to establish the
-boundary; paired review of 2.32 remains next.
+The following distinction questions were read to establish this
+unit's boundary.

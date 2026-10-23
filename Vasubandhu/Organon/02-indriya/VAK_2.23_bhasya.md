@@ -42,9 +42,9 @@ Word division is editorial. Sahavaśyaṃ is read as sahāvaśyaṃ. Satvākhyam
 
 ## 3. Continuous Conventional Translation
 
-The rule of co-arising for Form dharmas has been stated. That for the remaining dharmas must now be stated. First: consciousness and mental factors necessarily arise together. For they cannot exist without one another. Everything with the marks of the conditioned. Necessarily together is carried forward. Whatever arises—Form, consciousness, mental factors, or formations dissociated from consciousness—arises together with the marks of the conditioned. Or with acquisition. Only what is designated as belonging to a sentient being arises together with acquisition, not anything else. Thus or expresses a distinction of cases.
+The rule for the co-arising of Form dharmas has been stated. The rule for the remaining dharmas must now be given. First, consciousness and mental factors necessarily arise together: neither can occur without the other. Every conditioned dharma also arises together with the marks of the conditioned. This applies to whatever arises, whether Form, consciousness, mental factors, or formations dissociated from consciousness. The verse then says “or with acquisition.” Here “or” distinguishes a narrower case: only what is designated as belonging to a sentient being arises together with acquisition.
 
-Mental factors have been mentioned. What are they? Mental factors are fivefold, according to the division beginning with the great ground. Five classes: great-ground, wholesome great-ground, affliction great-ground, unwholesome great-ground, and limited-affliction great-ground. A ground means a range of operation. Whatever is something's range of operation is called its ground. Those whose ground is extensive are the great-ground factors. They occur in every consciousness.
+Mental factors have been mentioned. What are they? They fall into five classes: great-ground, wholesome great-ground, affliction great-ground, unwholesome great-ground, and limited-affliction great-ground factors. A “ground” is a range of operation: whatever is a factor's range of operation is called its ground. Great-ground factors have an extensive range, for they occur in every consciousness.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -96,11 +96,14 @@ Reciprocal accompaniment is not an all-to-all relation between every
 factor and every consciousness; universality belongs to the
 great-ground kinds, not to arbitrary factor-tokens.
 
-Cognition joins and governs Perception and Conception and guides
-the reading of Dharma Base, remaining distinct from consciousness
-and Mind. The consciousness–factor pair is not an additional
-controller, and restricted acquisition is not here an explanation
-of Path entry.
+Faculty and mental factor are different classifications. The preceding
+study locates the five beginning with faith among mental factors, while
+the bodily Faculties and life have other placements. This co-arising
+rule does not require every Faculty to be a mental factor, or make
+every mental factor one of the twenty-two Faculties. It supplies no
+separate act of confirmation by consciousness. The wider Organon
+account of Cognition, Perception, and Conception remains to be tested
+against later passages.
 
 ## 10. Review Status
 
@@ -114,8 +117,5 @@ overlap of marks and acquisition in the sentient range. Five counts
 classes, not accompanying factors. The class members await the
 following studies. The unsupported controller/telos passage is removed.
 
-A dedicated later pass remains planned for the quality and organization
-of the Bhāṣya study sections after the translation; this paired pass
-does not attempt that broader restructuring.
-
-2.24 has not been opened.
+The question naming the factors that occur in every consciousness begins
+at 2.24 and remains outside this review.
