@@ -42,7 +42,9 @@ experiences. Contextual, not a collation. The greatest number at
 
 ## 3. Continuous Conventional Translation
 
-Now, with how many faculties is someone endowed who possesses the fewest? One without the wholesome is endowed, at the least, with eight: feeling, mind, body, and life. One whose wholesome roots have been severed is without the wholesome. Such a person is endowed, at the least, with eight faculties: the five feelings, and body, mind, and life. Feeling is called vit because it experiences; or vit means experiencing, just as saṃpat means accomplishment. And just as one without the wholesome is endowed, at the least, with eight faculties, likewise an ordinary person in the formless realm. Bāla is a designation for an ordinary person. With which eight? With neutral feeling, life, mind, and the wholesome faculties: neutral feeling, life, and mind, together with those beginning with faith. Since those beginning with faith are exclusively wholesome, they are included by the expression wholesome. Then those beginning with the faculty “I shall know” would also have to be included. No: because the subject here is eight, and because the subject is an ordinary person.
+Now, what is the smallest number of faculties with which someone is endowed? One “without the wholesome” possesses eight at the minimum: the five feelings, body, Mind, and life. “Without the wholesome” means that the person's wholesome roots have been severed. The word *vit* names feeling because it experiences; alternatively, it means the act of experiencing, as *saṃpat* means accomplishment.
+
+An ordinary person in the Formless realm likewise possesses eight at the minimum, but a different eight. *Bāla* here means an ordinary person. Which faculties are counted? Neutral feeling, life, Mind, and the five beginning with faith. Those five are included under “the wholesome” because they are exclusively wholesome. Would that expression also include the three faculties beginning with “I shall know”? No: the count is eight, and the person in question is an ordinary person.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -98,10 +100,10 @@ cannot replace the conditions identifying the five additional members.
 This passage does not establish a controller, a telos of acquisition,
 or a condition for entering the Path.
 
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base without collapsing into Mind or consciousness.
-Mind is one member of both minima; its shared possession does not
-make their different Faculty-sets identical cognitive operations.
+Mind is one member of both minima. Sharing it does not make the two
+sets identical or turn possession into current cognitive operation.
+The wider Organon account of Cognition, Perception, and Conception
+remains to be tested elsewhere.
 
 ## 10. Review Status
 
@@ -116,4 +118,4 @@ restrictions remain intact. The interpretation's unsupported
 controller and telos claims are removed; no global minimum proof
 is claimed from a finite example model.
 
-2.21 has not been opened.
+The maximum-possession question beginning 2.21 remains outside this review.

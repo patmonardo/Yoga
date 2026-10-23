@@ -40,39 +40,35 @@
 >
 > kadācit kāya-mano-vijñāna-dharmaiḥ samāna-bhūmikaṃ mano bhavati kadācid ūrdhvādho-bhūmikam /
 >
-> pañca-bhūmike 'pi hi kāye sarva-bhūmikāni mana-ādīni bhavanti samāpatty-upapatti-kāle yathā-yogam iti vistareṇa samāpatti-kośa-sthāne nirdiṣṭam /
+> pañca-bhūmike 'pi hi kāye sarva-bhūmikāni mana-ādīni bhavanti samāpatty-upapatti-kāle yathā-yogam iti vistareṇa samāpatti-nirdeśe kośa-sthāne etad ākhyāyiṣyate /
 >
-> atibahu-grantha-bhārāt punar iha na nirdiśyate /
+> atibahu-grantha-bhāra-parihārārthaṃ tu nedānīṃ punar ākhyāyate /
 >
-> alpo hy arthaḥ mahāṃś ca pariśramaḥ /
+> alpaṃ ca prayojanaṃ mahāṃś ca śramaḥ /
 >
-> iti prakaraṇaṃ parisamāptam /
+> iti samāpta ānuṣaṅgikaḥ prasaṅgaḥ /
 
-Word division is editorial. The incidental discussion closes here. The next verse is not this page.
+Word division is editorial. The local unit runs from [036|03] through [036|20]. The reference at [036|17–19] is to an explanation **to come** in the chapter on attainments; the earlier working witness had made it a completed explanation. The passage explicitly closes an incidental discussion before 1.48 starts at [036|21].
 
 ## 3. Continuous Conventional Translation
 
-> As this has been stated of the eye, so it is to be understood in detail of the ear.
->
-> Likewise the ear.
->
-> The ear is not lower than the body. Sound is not higher than the ear. Cognition too. Relative to this, Sound. And relative to the body, both, in every way. It is to be applied in detail.
+> What was said of the Eye applies in detail to the Ear. The Ear is not of a lower plane than the Body; Sound and Ear-Cognition are not of a higher plane than the Ear. Relative to Ear-Cognition, Sound can be higher, lower, or of the same plane; relative to the Body, both Sound and Ear-Cognition admit all three relations. The cases are to be worked out as before.
 >
 > Of the three, however, everything is of its own plane.
 >
-> Of the nose, tongue, and body, the Faculty, the Condition, and the Cognition are of their own plane only. Having made the general rule with this distinction, an exception is begun in order to qualify it.
+> For Nose, Tongue, and Body, the Faculty, its Condition, and its Cognition ordinarily belong to the plane of the embodied person. The text states this as a general rule, then introduces a qualification:
 >
 > Body-Cognition is of a lower plane or its own.
 >
-> The body and the Tangible are always of their own plane. Body-Cognition, however, is of its own plane for some, as for those born in the Desire Realm or the first dhyāna. Of a lower plane for some, as for those born in the second dhyāna or above.
+> The Body Faculty and the Tangible Condition always belong to the person's own plane. Body-Cognition belongs to that plane for those born in the Desire Realm or first dhyāna; for those born in the second or a higher dhyāna, it belongs to a lower plane.
 >
 > Mind is not fixed.
 >
-> Sometimes mind is of the same plane as the body, Mind-Cognition, and the dharmas. Sometimes of a higher or a lower plane. For even in a body of the five planes, mind and the rest are of all planes, as fits, at the time of attainment and of rebirth. It will be explained in detail in the chapter on attainments. It is not explained again here, to avoid the burden of too long a text. The benefit would be small and the labor great. So the incidental discussion is concluded.
+> Mind may share the plane of Body, Mind-Cognition, and dharmas, or stand above or below them. Even with a Body on one of the five planes, Mind and the other factors can belong to various planes at the times of attainment and rebirth, as the case permits. The chapter on attainments will explain this in detail. Repeating it here would burden the text for little gain and much work. This ends the incidental discussion.
 
 ## 4. Movement
 
-The ear takes the eye's rule. The three stay on their own plane. Body-Cognition is the exception, lower or its own. Mind is not fixed, and the working of that is deferred.
+The Ear inherits the Eye's ordered relations from 1.46. Nose, Tongue, and Body are then given a stricter own-plane rule. The Bhāṣya immediately qualifies it: Body and Tangible stay on that plane, while Body-Cognition may occur on a lower one. Mind admits same, higher, and lower relations according to attainment and rebirth; the detailed account is deferred to the chapter on attainments. The prose says explicitly that this incidental discussion has ended.
 
 ## 5. Decisions
 
@@ -83,7 +79,7 @@ The ear takes the eye's rule. The three stay on their own plane. Body-Cognition 
 
 ## 6. Interpretation
 
-The three that reach are held to their plane. The exception is the Cognition of the body, which may stand below the birth. Mind is the one this page refuses to fix.
+This is a small lesson in how a Principle-rule is formed. The Ear inherits the Eye's pattern; the three contact Faculties receive a tighter general rule; Body-Cognition forces an explicit exception. The exception refines the rule without dissolving it. Mind remains open across planes, and the text names the later inquiry needed to determine its cases. In our reading, that is reflective work on the relation of Faculty, Condition, Cognition, and embodied plane, rather than a new inventory of Faculties.
 
 ## 7. Review Status
 

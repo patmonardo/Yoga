@@ -38,7 +38,9 @@ Faculties. The next unit begins with the inquiry into co-arising at 52.19.
 
 ## 3. Continuous Conventional Translation
 
-Now, with how many faculties is someone endowed who possesses the greatest number? Endowed with the greatest number, nineteen, excluding the stainless faculties: excluding the three uncontaminated faculties. And who is that? One possessing both sex faculties. A person possessing both sex characteristics, whose faculties are complete, is endowed with nineteen. Who else? A noble person still possessing attachment. A trainee who is not yet free from attachment is also endowed with the greatest number, nineteen, excluding one sex faculty and two stainless faculties: excluding one sex characteristic and two uncontaminated faculties, the faculty of one who has known and either one of the other two. The detailed differentiation of the faculties, which entered the discussion in connection with the differentiation of the principles, has now been stated.
+Now, how many faculties does someone possess who is endowed with the greatest number? Nineteen, excluding the three stainless, or uncontaminated, faculties. Who is this? A person with both sex characteristics whose faculties are otherwise complete; such a person possesses nineteen.
+
+Who else possesses nineteen? A noble trainee who has not yet become free of attachment. This person's nineteen exclude one sex faculty and two uncontaminated faculties: the faculty of one who has known, together with either one of the other two. Thus the detailed classification of the faculties, introduced during the differentiation of the Principles, has been stated.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -98,10 +100,10 @@ to its permitted inventory; it does not mean possession of all
 twenty-two. Acquisition is not supplied here as an explanation of
 Path entry.
 
-Cognition joins and governs Perception and Conception and guides
-the reading of Dharma Base, remaining distinct from Mind and
-consciousness. Mind belongs to both inventories; their equal counts
-do not make their realization status or cognitive operation identical.
+Mind belongs to both inventories. Their equal counts do not make
+their realization status or cognitive operation identical. This
+passage does not establish the wider Organon account of Cognition,
+Perception, and Conception; that account remains to be tested elsewhere.
 
 ## 10. Review Status
 
@@ -116,4 +118,4 @@ claiming a finite model proves the global ceiling. The unsupported
 Path-entry interpretation is removed.
 
 The opening question of the next co-arising unit was read to locate
-this boundary; paired review of 2.22 remains next.
+this boundary. This review ends at 2.21.

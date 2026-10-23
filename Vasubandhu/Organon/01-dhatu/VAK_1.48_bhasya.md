@@ -55,48 +55,50 @@
 >
 > abhidharmakośa-bhāṣye dhātu-nirdeśo nāma prathamaṃ kośa-sthānaṃ samāptam iti /
 
-Word division is editorial. The colophon is this page. The next chapter is not opened.
+Word division is editorial. This unit runs from [036|21] through the chapter colophon at [037|18] in the local source. The source then gives a post-colophon verse and copying notice, followed by the opening of the Indriya chapter. Those are outside this Bhāṣya unit.
 
 ## 3. Continuous Conventional Translation
 
-> This is now examined. Of the eighteen Principles and the six Cognitions, which is knowable by which?
+> A new question is examined: among the eighteen Principles and six Cognitions, which Principle is knowable by which Cognition?
 >
 > He says: the five external are knowable by two.
 >
-> The Principles of Visible Form, Sound, Odor, Taste, and Tangible, experienced respectively by Eye-Cognition, Ear-Cognition, Nose-Cognition, Tongue-Cognition, and Body-Cognition, are cognized by Mind-Cognition. So each of these is knowable by two Cognitions. The remaining thirteen Principles, not being the Condition of the five Cognition-groups, are knowable by Mind-Cognition alone. That is stated.
+> Visible Form, Sound, Odor, Taste, and Tangible are each experienced by the corresponding sensory Cognition—Eye, Ear, Nose, Tongue, or Body-Cognition—and can also be cognized by Mind-Cognition. Each is therefore knowable by two Cognitions. The other thirteen Principles are not Conditions for any of the five sensory Cognitions; Mind-Cognition alone knows them.
 >
-> Of these eighteen Principles, how many are permanent, how many impermanent? No Principle is permanent in its entirety.
+> Which of the eighteen Principles are permanent? None is permanent as a whole.
 >
 > Unconditioned dharmas are permanent.
 >
-> So a portion of the Dharma Principle is permanent. The rest are impermanent.
+> Thus only the unconditioned portion of the Dharma Principle is permanent; what remains is impermanent.
 >
 > How many are Faculty, how many are not?
 >
-> A portion of the Dharma is Faculty, and the twelve taught as internal.
+> A portion of the Dharma Principle counts as Faculty, as do the twelve Principles taught as internal.
 >
-> Twenty-two Faculties are stated in the sūtra: eye, ear, nose, tongue, body, mind, female, male, life, pleasure, pain, gladness, distress, equanimity, faith, vigor, mindfulness, concentration, prajñā, "I shall know what is not known," knowing, and one who has known. The Ābhidharmikas, however, following the arrangement of the six Essences, recite the Mind Faculty immediately after the life Faculty, because it takes a Support.
+> The sūtra teaches twenty-two Faculties: Eye, Ear, Nose, Tongue, Body, Mind; female and male; life; pleasure, pain, gladness, distress, and equanimity; faith, vigor, mindfulness, concentration, and *prajñā*; and the three knowledge Faculties, “I shall know what is not yet known,” “knowing,” and “one who has known.” The Ābhidhārmikas arrange the list differently. Following the order of the six Essences, they place Mind immediately after life, because Mind takes a Support.
 >
-> Here the portion of the Dharma is the eleven Faculties beginning with life, and a portion of three more, because they are a portion of the Dharma Principle. Of the twelve internal, the five beginning with the eye are stated under their own names. The seven Mind Principles are the Mind Faculty. The female and male Faculties are a portion of the Body Principle, as will be stated later. So it is established that the remaining five Principles and a portion of the Dharma Principle are not Faculty.
+> The Faculty-bearing portion of the Dharma Principle contains the eleven Faculties from life through *prajñā*, as well as the relevant portions of the three knowledge Faculties. Among the twelve internal Principles, the five sensory Faculties beginning with Eye bear their own names. The seven Citta Principles—Mind and the six Cognition Principles—together constitute the Mind Faculty. The female and male Faculties belong to portions of the Body Principle, as will be explained later. The five external Principles, and the remainder of the Dharma Principle, do not count as Faculty.
 >
 > In the Abhidharmakośabhāṣya, the first chapter, called the Exposition of the Principles, is complete.
 
 ## 4. Movement
 
-Which is known by which. Then which is permanent. Then which is Faculty. The colophon closes the chapter.
+The first question assigns each Principle a range of Cognitions that can know it: two for each of the five sensory Conditions, Mind-Cognition alone for the other thirteen. The second distinguishes the permanent unconditioned portion of the Dharma Principle from every whole Principle. The third maps the twenty-two Faculties onto the eighteen Principles, including partial membership in Dharma and Body. The colophon then closes the Dhātu chapter.
 
 ## 5. Decisions
 
-1. The five external are knowable by their own Cognition and by Mind-Cognition.
-2. The remaining thirteen are knowable by Mind-Cognition alone.
-3. No Principle is permanent entire. The unconditioned portion of the Dharma Principle is permanent.
-4. Faculty is a portion of the Dharma Principle and the twelve internal.
-5. The five external and the remaining portion are not Faculty.
-6. The Exposition of the Principles is complete.
+1. Each of the five external sensory Principles is knowable by its corresponding sensory Cognition and by Mind-Cognition.
+2. The remaining thirteen Principles are knowable by Mind-Cognition alone.
+3. No whole Principle is permanent; the unconditioned portion of the Dharma Principle is.
+4. The twelve internal Principles and a portion of the Dharma Principle bear Faculty status; the female and male Faculties occupy portions of the Body Principle.
+5. The five external Principles and the remaining portion of Dharma are not Faculty.
+6. The colophon completes the Exposition of the Principles.
 
 ## 6. Interpretation
 
-The close is three cuts. Known twice, or once. Permanent only as a portion. Faculty as a portion and the twelve internal. The chapter ends on the handoff, not on a new list.
+The chapter closes by reflecting on its own classification. A Principle can be known through a sensory Cognition and again through Mind-Cognition, or through Mind-Cognition alone. Permanence belongs to unconditioned dharmas within one Principle, not to that Principle wholesale. Faculty is likewise a determination distributed across whole internal Principles and specified portions of Body and Dharma. These are relations and partitions of the Dhātu system, not a fresh set of twenty-two unrelated objects.
+
+That makes the Bhāṣya a promising site for what we are calling Dharma-Essence: it tests how the Principles are known, endure, and operate as Faculties. The twenty-two-Faculty list is the bridge into the Indriya chapter. The Organon language names our reading of this transition; the colophon itself simply marks the first chapter complete.
 
 ## 7. Review Status
 

@@ -13,6 +13,18 @@
 
 ## 2. Continuous Sanskrit Witness
 
+> kramamṛtyau tu catvāri /
+> krameṇa tu mriyamāṇaś catvārīndriyāṇi nirodhayati /
+> kāyajīvitamanaupekṣendriyāṇi / na hy eṣāṃ pṛthagnirodhaḥ /
+> eṣa ca nyāyaḥ kliṣṭāvyākṛtacittasya maraṇe veditavyaḥ /
+> yadā tu kuśale cetasi sthito mriyate tadā /
+> śubhe sarvatra pañca ca /
+> kuśale cetasi mriyamāṇaḥ sarvatra yathoktam indriyāṇi nirodhayati /
+> śraddhādīni ca pañcādhikāni /
+> eṣāṃ kuśale cetasy avaśyaṃbhāvaḥ /
+> evam ārūpyeṣv aṣṭau nirodhayati rūpeṣu trayodaśeti
+> vistareṇa gaṇanīyam /
+>
 > indriyaprakaraṇe sarva indriyadharmā vicāryante /
 > atha katamacchrāmaṇyaphalaṃ katibhirindriyaiḥ prāpyate /
 > navāptirantya phalayoḥ
@@ -56,15 +68,18 @@
 > nahyasau parihīṇaḥ kadācitsukhendriyeṇa prāpnoti na ca vītarāgapūrvī parihīyate /
 > tadvairāgyasya dvimārgaprāpaṇāt /
 
-The attainment discussion is printed 49.05–50.08 in
-[the Sanskrit witness](../../Sources/kosabhasya.txt). The numbered
-verse's death clauses are studied in the continuous unit at 2.15.
-This discussion includes 2.17's opening answer concerning eleven.
-Necessary co-possession at 50.09 is not taken.
+The death clauses are printed 48.23–49.04 and the attainment discussion
+49.05–50.08 in [the Sanskrit witness](../../Sources/kosabhasya.txt).
+The death clauses also complete the unit studied under 2.15; they are
+included here so that the whole numbered verse has a continuous witness.
+The attainment discussion includes 2.17's opening answer concerning
+eleven. Necessary co-possession at 50.09 is not taken.
 
-Word division is editorial. Contextual repairs, not a collation: praptir → prāptir, visaṃyioga → visaṃyoga, saptāṣṭnava → saptāṣṭanava, vimūkti → vimukti, tīkṣṇenriyatvā → tīkṣṇendriyatvād, praviśāti → praviśati, ājñenriya → ājñendriya, ekādaśbhhir → ekādaśabhiḥ, saumanasyīpekṣā → saumanasyopekṣā, anāgābhino → anāgāmino. The malformed editorial aṣṪbhis is corrected to the running witness's aṣṭabhis. Other defective forms remain visible where retained; the translation follows the stated contextual construals.
+Word division is editorial. Repairs in the death clauses: ṣubhe → śubhe and trayodaśāeti → trayodaśeti. Further contextual repairs, not a collation: praptir → prāptir, visaṃyioga → visaṃyoga, saptāṣṭnava → saptāṣṭanava, vimūkti → vimukti, tīkṣṇenriyatvā → tīkṣṇendriyatvād, praviśāti → praviśati, ājñenriya → ājñendriya, ekādaśbhhir → ekādaśabhiḥ, saumanasyīpekṣā → saumanasyopekṣā, anāgābhino → anāgāmino. The malformed editorial aṣṪbhis is corrected to the running witness's aṣṭabhis. Other defective forms remain visible where retained; the translation follows the stated contextual construals.
 
 ## 3. Continuous Conventional Translation
+
+In gradual death, four faculties cease: body, life, Mind, and neutral feeling. These do not cease separately. This rule concerns death with an afflicted or indeterminate mind. If one dies with a wholesome mind, five more faculties cease in every case: those beginning with faith, which necessarily occur in a wholesome mind. Thus eight cease in the Formless realm and thirteen in the Form realm; the other totals are to be calculated in the same way.
 
 In the section on faculties, all matters concerning faculties are examined. Which fruit of the path is attained through how many faculties? Attainment of the two extreme fruits is through nine. Which are the extremes? Stream-entry and arhatship. Which are the middle? Once-returning and non-returning.
 
@@ -99,8 +114,8 @@ Arhatship says any one feeling, not three. That prepares the eleven.
 Sequential mundane is seven: faith, vigor, mindfulness, concentration,
 discriminative comprehension, Mind, and neutral feeling. Supramundane
 adds the knowledge-faculty. Prior dispassion permits nine, compared
-with stream-entry. Non-returning varies the feeling by the support.
-The supports are not enumerated. None are supplied.
+with stream-entry. Non-returning varies the feeling by its Basis.
+The Bases are not enumerated. None are supplied.
 
 The sharp case: neutral feeling on the uninterrupted path, gladness on liberation. Both enter the count. Mundane eight. Supramundane nine.
 
@@ -118,7 +133,7 @@ A fallen non-returner does not regain the fruit with pleasure. One already free 
 
 Āpti and prāpti are attainment. Visaṃyogaprāpti is acquisition of disconnection. The instrumentals name the faculties through which. They do not identify the fruit with the set.
 
-Ānantaryamārga is uninterrupted path. Vimuktimārga is path of liberation. Both stay visible where the count includes both. Niśrayaviśeṣa is difference of support. The bases are not listed.
+Ānantaryamārga is uninterrupted path. Vimuktimārga is path of liberation. Both stay visible where the count includes both. Niśrayaviśeṣa is difference of Basis. The particular Bases are not listed.
 
 Bhūyovītarāga is more extensively free from desire. No degree is added. Through nine alone restricts the attainment. It does not deny the elevenfold range of one person. Ekasya matters as much as the number.
 
@@ -137,16 +152,17 @@ The Organon determination preserves both instrumental mediation and
 temporal scope. A fruit is not identical to the Faculty-set through
 which it is attained; a count may span successive Path-moments.
 
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base without collapsing into Mind or consciousness.
 Mind is one Faculty in these instrumental sets, not a name for their
-whole operation. The temporal distinctions cannot be replaced by one
-undifferentiated cognitive state.
+whole operation. The passage distinguishes faculties counted across
+successive path moments from alternatives possible across one person's
+repeated attainments. The wider Organon account of Cognition,
+Perception, and Conception remains to be tested elsewhere.
 
 ## 10. Review Status
 
-Reviewed with the kārikā against printed 49.05–50.08 and the death
-continuation at 48.23–49.04. The study translation makes the five
+Reviewed with the kārikā against printed 48.23–50.08. The study now
+includes the death clauses in its own continuous witness and translation;
+those clauses are also discussed under 2.15. The translation makes the five
 additive and names the extreme and middle fruits; the anchor matches.
 The malformed Sanskrit aṣṪbhis is repaired against the running witness.
 

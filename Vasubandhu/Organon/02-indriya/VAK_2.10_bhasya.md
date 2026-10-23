@@ -9,6 +9,21 @@
 > Faculties can be maturation or not. That distress alone invariably
 > produces maturation; ten Faculties can produce maturation or not.
 
+The source prints this **one kārikā in four installments**: “life is
+maturation” at 43.09, “twelve are twofold” with its exclusions at
+44.22–25, “that one alone has maturation as result” at 45.23, and “ten
+are twofold” at 45.26. The `VAkK_2.10` marker follows the final phrase.
+The two counts answer different questions:
+
+| Question | Fixed case | Variable group | Outside the variable group |
+|---|---|---|---|
+| **Is it a matured result?** *vipāka* | life ordinarily; concentration-projected life is an exception | 12: seven Form Faculties, mind, and four feelings other than distress | final eight and distress |
+| **Can it yield a matured result?** *savipāka* | distress invariably can | 10: mind, four feelings other than distress, and five beginning with faith | seven Form Faculties, life, and three realization faculties |
+
+The first partition is 1 + 12 + 9 = 22 at the level of faculty groups,
+with the stated life exception. The second is 1 + 10 + 11 = 22. The
+groups overlap because the predicates differ.
+
 ## 2. Continuous Sanskrit Witness
 
 > katīndriyāṇi vipākaḥ kati na vipākaḥ / ekāntena tāvat /
@@ -152,7 +167,7 @@ maturation. These construals remain provisional.
 
 ## 3. Continuous Conventional Translation
 
-How many faculties are maturation, and how many are not? First, categorically: life is maturation. But when an arhat monk sustains the lifespan-formations, of what is that life-faculty the maturation? The treatise: an arhat with extraordinary powers and mastery of mind gives a bowl, a robe, or another requisite, directs his resolve, and enters the prāntakoṭika fourth dhyāna. Emerging, he forms the intention: may what would mature as resources mature as lifespan. It does. Those who hold that a remainder of maturation ripens say he draws forth, by the power of cultivation, the remaining maturation of action done in a previous birth.
+How many faculties are maturation, and how many are not? First, as a general rule, life is maturation. But when an arhat monk sustains the lifespan-formations, of what is that life-faculty the maturation? According to the treatise, an arhat with extraordinary powers and mastery of mind gives a bowl, a robe, or another requisite for monastic life to the community or to an individual. Having directed his resolve, he enters the prāntakoṭika fourth dhyāna. On emerging, he forms an intention and says: “May what would mature as resources mature as lifespan.” It does so. Those who hold that a remainder of maturation ripens say that, by the power of cultivation, he draws forth and experiences the remaining maturation of action done in a previous birth.
 
 Relinquishing is the same act reversed: may what would mature as lifespan mature as resources. Ghoṣaka says that by the power of dhyāna he produces, in that same support, Form Realm Great Elements favorable or adverse to lifespan. The explanation that should stand: such is the power of concentration that they turn aside the impetus, born of prior action, that determines the duration of the faculties and Great Elements, and project a new impetus born of concentration. That life-faculty is not maturation. Life other than that is.
 
@@ -172,9 +187,9 @@ Why is distress not maturation? It is produced and calmed by particular conceptu
 
 The eight with life as eighth are maturation of wholesome action in a favorable destiny, of unwholesome action in an unfavorable one. Mind is either in either. Pleasure, gladness, and neutral feeling are wholesome maturation. Pain is unwholesome. In a favorable destiny, acquisition of that condition in one with both sexual marks is unwholesome. Not the faculty itself: its projection is wholesome. This is concluded.
 
-How many have maturation as a result, and how many do not? Distress, just mentioned: that one alone. Invariably. Tu means only, and stands out of place. Distress is not indeterminate, and not without outflows, because it is not concentrated. So there is no distress that does not produce maturation.
+How many have maturation as a result, and how many do not? Distress, just mentioned: that one alone has maturation as a result invariably. The word *tu* means “only” and stands out of its expected order. Distress is neither indeterminate nor without *āsrava*, because it is not concentrated. Thus there is no instance of distress that does not produce maturation.
 
-Ten are twofold, producing and not. Which ten? Mind, the other feelings, and those beginning with faith. The other feelings are feeling other than distress. The five are faith, vigor, mindfulness, concentration, and discriminative comprehension. Mind, pleasure, gladness, and neutral feeling produce maturation when unwholesome, or wholesome with outflows. Without outflows, or indeterminate, they do not. Pain produces it when wholesome or unwholesome, and not when indeterminate. The five produce it when with outflows, and not when without. The rest produce none.
+Ten are twofold: they may produce maturation or not. Which ten? Mind, the other feelings, and those beginning with faith. “Other feelings” means the four other than distress. The five are faith, vigor, mindfulness, concentration, and discriminative comprehension. Mind, pleasure, gladness, and neutral feeling produce maturation when unwholesome, or when wholesome and with *āsrava*. When without *āsrava* or indeterminate, they do not. Pain produces it when wholesome or unwholesome, but not when indeterminate. The five beginning with faith produce it when with *āsrava*, but not when without *āsrava*. The remaining faculties produce none.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -203,7 +218,7 @@ The sūtra of three actions is association. Distress-experiencing action is not 
 
 ## 7. What Produces Maturation
 
-Distress alone always produces it. Not indeterminate, not without outflows, not concentrated. The ten are either. The three realization-faculties, the seven of form, and life produce none. That last follows. It is the complement of the ten and of distress.
+Distress alone always produces it: it is neither indeterminate nor without *āsrava*, and it is not concentrated. The ten may produce it or not. The three realization faculties, the seven of form, and life produce none. They are the eleven outside the ten and distress.
 
 ## 8. The Bhāṣya's Decisions for Translation
 
@@ -225,11 +240,10 @@ productive capacity; productive capacity does not establish being a
 result. The life exception also requires a distinction between a
 type-level rule and its qualified instances.
 
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base without collapsing into Mind or consciousness.
-Here Mind is one of the classified Faculties; the two maturation axes
+Here Mind is one of the classified Faculties. The two maturation axes
 do not reduce all mental activity to received results or all results
-to present conceptual construction.
+to present conceptual construction. The wider Organon account of
+Cognition, Perception, and Conception is not established by this passage.
 
 ## 10. Review Status
 
@@ -244,4 +258,4 @@ producing maturation. The anchor matches exactly. The formal model
 keeps the life exception separate and tests both Faculty partitions;
 it does not validate the reported lifespan practices.
 
-2.11 has not been opened.
+The ethical classification beginning 2.11 remains outside this review.

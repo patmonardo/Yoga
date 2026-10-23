@@ -72,7 +72,7 @@ Upekṣā is neither painful nor pleasant. Avyākṛta is neither wholesome nor 
 
 The seven of form and life are exclusively indeterminate. That is the faculties themselves. It does not make every act that uses them indeterminate, and it does not deny that they govern.
 
-The wholesome eight still carry 2.09. The five can be with or without outflows. The three are without outflows. Shared wholesome status does not erase that. Wholesome is not without outflows.
+The wholesome eight still carry the 2.09 distinction. The five beginning with faith can be with or without *āsrava*; the three realization faculties are without *āsrava*. Their shared wholesome status does not erase that difference. Wholesome is not another name for being without *āsrava*.
 
 ## 8. The Bhāṣya's Decisions for Translation
 
@@ -82,18 +82,18 @@ Anyā vittiḥ is read as the other feelings, the four. Jīvitāṣṭamam is th
 
 ## 9. Interpretation
 
-Ethical quality is a further question about faculties already established. A function can admit three qualities, or two, or one. Importance does not supply the judgment.
+Ethical quality is a further question about the faculties already established. The 2.09 question concerned *āsrava* status; 2.10 asked whether a faculty is maturation and whether it can produce maturation; 2.11 asks which ethical qualities each faculty type admits. These are different classification axes, not additional levels or newly enumerated faculties.
 
 The Organon determination keeps the questions independent. Being
-maturation is not an ethical quality; without-outflows status is not
+maturation is not an ethical quality; being without *āsrava* is not
 another word for wholesome; neutral feeling is not ethical indeterminacy.
 The source specifies permitted qualities, not a mechanism assigning a
 quality to every concrete instance.
 
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base while remaining distinct from Mind and
-consciousness. Mind's threefold ethical range does not make every
-cognitive power identical to that Faculty or exhaust its systematic role.
+Mind's threefold ethical range does not make every cognitive power
+identical to that Faculty or exhaust its systematic role. The wider
+Organon account of Cognition, Perception, and Conception remains to be
+tested against passages that address those relations.
 
 ## 10. Review Status
 
@@ -107,4 +107,4 @@ eights remain explicit. Grammar–Logic preserves the carry boundary
 and tests the 8 + 1 + 5 + 8 partition without inventing examples of
 wholesome distress or treating permitted qualities as co-present.
 
-2.12 has not been opened.
+The realm classification beginning 2.12 remains outside this review.

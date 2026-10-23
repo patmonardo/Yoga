@@ -41,7 +41,7 @@ Word division is editorial. Repairs: mriyalmāṇo → mriyamāṇo, ṣubhe →
 
 ## 3. Continuous Conventional Translation
 
-Loss must now be explained. When dying in a given realm, how many faculties does one bring to cessation? At death in the formless realm, one brings life, mind, and neutral feeling to cessation; in the form realm, eight. One dying in the form realm brings eight to cessation: those three and the five beginning with the eye. For all beings there are spontaneously born. They arise and die with their faculties complete.
+Loss must now be explained. When one dies in a given realm, how many faculties cease? At death in the Formless realm, life, Mind, and neutral feeling cease. In the Form realm, eight cease: those three and the five beginning with the eye. For all beings in the Form realm are spontaneously born; they arise and die with their faculties complete.
 
 In the desire realm, ten, nine, or eight. One dying in the desire realm with both sexual characteristics brings ten faculties to cessation: those eight together with the female and male faculties. One with a single sexual characteristic brings nine. One with neither, eight. This is the rule for death occurring all at once. But in gradual death, four. One dying gradually brings four faculties to cessation: body, life, mind, and neutral feeling. For these do not cease separately. This rule is to be understood of dying with an afflicted or indeterminate mind.
 
@@ -115,10 +115,11 @@ not the reversal of first acquisition as maturation. Cessation here
 does not itself establish path-abandonment or the impossibility of
 future continuation.
 
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base without collapsing into Mind or consciousness.
-Mind is one counted Faculty; the ethical qualification of final
-consciousness is a distinct determination.
+Mind is one of the counted Faculties. The ethical quality of the final
+consciousness is a separate condition governing whether the five
+beginning with faith are added to the terminal count. This passage
+does not establish the wider Organon account of Cognition, Perception,
+and Conception.
 
 ## 10. Review Status
 

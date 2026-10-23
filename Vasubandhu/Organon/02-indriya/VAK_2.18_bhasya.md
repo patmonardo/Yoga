@@ -47,11 +47,11 @@ Word division is editorial. Śaraddhādīnām is read as śraddhādīnām. The s
 
 ## 3. Continuous Conventional Translation
 
-In the cases of pleasure and body, four. One possessing the pleasure-faculty necessarily possesses four: the three already mentioned, beginning with neutral feeling, and pleasure. One possessing the body-faculty likewise possesses four: those three and body. One possessing the eye and so forth, five. One possessing the eye necessarily possesses five: neutral feeling, life, mind, body, and that faculty. The same is to be understood for ear, nose, and tongue.
+Possession of the Pleasure-Faculty or the Body-Faculty entails possession of four faculties in each case. With pleasure, these are neutral feeling, life, Mind, and pleasure. With body, they are neutral feeling, life, Mind, and body. Possession of the eye entails five: neutral feeling, life, Mind, body, and eye. The same five-member pattern applies separately to ear, nose, and tongue, with the named sensory faculty in the fifth place.
 
-And one possessing gladness. One possessing gladness also necessarily possesses five: neutral feeling, life, mind, pleasure, and gladness. With which pleasure-faculty is someone born in the second dhyāna, who has not attained the third, endowed? With an afflicted one belonging to the level of the third dhyāna. One possessing pain, however, seven. One possessing pain necessarily possesses seven: body, life, and mind, with four feeling-faculties.
+One possessing gladness also necessarily possesses five: neutral feeling, life, Mind, pleasure, and gladness. With which Pleasure-Faculty is someone born in the second dhyāna, who has not attained the third, endowed? With an afflicted one belonging to the level of the third dhyāna. One possessing pain, however, necessarily possesses seven: body, life, Mind, and four feeling-faculties—pain, pleasure, gladness, and neutral feeling.
 
-One possessing the female faculty and so forth, eight. One possessing the female faculty necessarily possesses eight: those seven and the female faculty. And so forth includes the male faculty, distress, and those beginning with faith. A possessor of any of these likewise possesses eight in each case: those seven with the male faculty as eighth, and similarly with distress. One possessing a faculty beginning with faith, however, possesses those five together with neutral feeling, life, and mind.
+One possessing the Female-Faculty and so forth necessarily possesses eight. For the Female-Faculty, these are the seven just named and the Female-Faculty; the same pattern gives the seven plus the Male-Faculty or distress. “And so forth” also includes the faculties beginning with faith. Anyone possessing one of those necessarily possesses all five, together with neutral feeling, life, and Mind: a different set of eight.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -117,10 +117,10 @@ Necessary co-possession is not each member producing the others. The
 second-dhyāna question tests possession independently of attainment
 and manifestation, without giving a mechanism for that possession.
 
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base without collapsing into Mind or consciousness.
-Mind belongs to the common possession triad; it does not replace the
-different Faculty-functions or their relations with one cognitive power.
+Mind belongs to the common possession triad; this does not identify it
+with the other Faculties or explain the mechanism of their possession.
+The wider Organon account of Cognition, Perception, and Conception
+remains to be tested elsewhere.
 
 ## 10. Review Status
 

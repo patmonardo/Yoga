@@ -43,9 +43,9 @@ Word division is editorial. Repairs: kāmachātau → kāmadhātau, akuśalā bh
 
 ## 3. Continuous Conventional Translation
 
-Which of these faculties is connected with which realm? Excluding the stainless triad, they are connected with the desire realm. First, the faculties are to be understood as connected with the desire realm apart from the exclusively without-outflow triad beginning with the faculty “I shall know.” For that triad is entirely unconnected with the realms.
+Which of these faculties is connected with which realm? Excluding the stainless triad, they are connected with the desire realm. More precisely, the faculties are connected with the desire realm apart from the triad beginning with the faculty “I shall know,” which is exclusively without *āsrava*. That triad is unconnected with the realms.
 
-They are connected with the form realm, excluding the female and male faculties and the two painful faculties. The exclusion of the stainless triad continues. The two painful faculties are pain and distress. The female and male faculties are absent in the form realm because of dispassion toward sexual intercourse and because they would produce unattractiveness. How, then, are those beings called males? Where? In the sūtra: it is impossible, there is no possibility, that a woman should occupy the status of Brahmā. That possibility does not exist. It is possible that a man should. The male-being of men in the desire realm is different. The pain-faculty is absent because of the clarity of the support and the absence of the unwholesome. The distress-faculty is absent because the continuum is softened by tranquillity and because bases for resentment are absent.
+They are connected with the Form realm, excluding the female and male faculties and the two painful faculties. The exclusion of the stainless triad continues. The two painful faculties are pain and distress. The female and male faculties are absent in the Form realm because of dispassion toward sexual intercourse and because they would produce unattractiveness. How, then, are those beings called males? Where are they so called? In the sūtra: it is impossible for a woman to attain the status of Brahmā, but possible for a man. The male-being meant there differs from that of men in the desire realm. The Pain-Faculty is absent because the Basis is clear and the unwholesome is absent. The Distress-Faculty is absent because the continuum is softened by tranquillity and there is no basis for resentment.
 
 They are connected with the formless realm, removing also the two pleasant faculties and what possesses form. The exclusion of female and male, the two painful faculties, and the stainless triad continues. What remains? Mind, life, neutral feeling, and the five beginning with faith. These, and no others, are found connected with the formless realm.
 
@@ -69,7 +69,7 @@ Two reasons for female and male: dispassion toward intercourse, and unattractive
 
 The sūtra calls a possible Brahmā male. The reply distinguishes Desire Realm puruṣabhāva. It does not retract the absence of the faculty, and it does not specify the other characteristic. Social, symbolic, or anatomical would exceed the sentence.
 
-Pain and distress have separate reasons. Clarity of the support, and absence of the unwholesome. A continuum softened by tranquillity, and no basis for resentment. Not one claim that a subtler realm is simply happier.
+Pain and distress have separate reasons. Pain is excluded by clarity of the Basis and absence of the unwholesome; distress by a continuum softened by tranquillity and absence of a basis for resentment. The passage does not reduce these to one claim that a subtler realm is happier.
 
 ## 7. The Formless Remainder
 
@@ -91,15 +91,15 @@ Amalaṃ ceti vartate keeps the earlier exclusion active. Rūpi collects the fac
 
 ## 9. Interpretation
 
-Realm-connection is another predicate. Faculty, connection, outflow, ethical quality, and the path-name stay apart. Confusing them would put the triad in a higher realm, or make it impossible for a knower who is still connected.
+Realm-connection is another predicate. Faculty, realm-connection, *āsrava* status, ethical quality, and path-name stay distinct. The stainless triad is unconnected with all three realms; this does not mean a person connected with a realm cannot develop it.
 
 The male name in the sūtra is not the male faculty. The unspecified characteristic is not invented.
 
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base without collapsing into Mind or consciousness.
-The Formless remainder retains Mind as a Faculty; it is neither the
-whole of Cognition nor an account of liberation. The classification
-does not make the stainless Path a higher conditioned realm.
+The Formless remainder retains Mind as a Faculty; it is not an account
+of liberation or of Cognition as a whole. The wider Organon account of
+Cognition, Perception, and Conception remains to be tested elsewhere.
+Here the text supplies a realm-connection filter, not another level
+of the stainless Path.
 
 ## 10. Review Status
 
@@ -113,4 +113,4 @@ pain and distress remain intact. Grammar–Logic checks the 19–15–8
 ranges and stainless exclusion without confusing possible connection
 with the occurrence of a Faculty in a bearer.
 
-2.13 has not been opened.
+The abandonment classification beginning 2.13 remains outside this review.

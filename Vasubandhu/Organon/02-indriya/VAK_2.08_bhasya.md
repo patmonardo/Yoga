@@ -98,13 +98,14 @@ The five feeling-places are filled. Bodily and mental pleasure and pain differ i
 
 Avikalpanāt negates a second faculty only for that operation. It does not erase bodily and mental. The third-dhyāna exception still stands: agreeable mental feeling is pleasure there, gladness elsewhere.
 
-The Organon determination is a rule of qualified unity: a shared
-Faculty-function need not erase its distinct modes. Conversely, agreeable
-mental tone alone does not settle the name independently of level.
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base, while remaining distinct from Mind and
-consciousness. Here that synthesis must preserve the local difference
-between differentiation in arising and non-difference in neutral effect.
+For the Organon Rules Engine reading, this is a rule of qualified unity:
+one neutral Faculty includes bodily and mental modes because the Bhāṣya
+finds no relevant difference in their neutral function. Agreeable mental
+tone alone does not settle a Faculty-name without the dhyāna condition.
+The wider proposal that Cognition joins Perception and Conception or guides
+the reading of Dharma Base is not established by this passage. Any use of
+that proposal here must preserve the Bhāṣya's distinct explanations of
+arising and effect.
 
 ## 10. Review Status
 
@@ -119,4 +120,4 @@ universal causation. Grammar–Logic models the three determinations and
 tests rejected loss of the level restriction, mental-only neutrality,
 and neutral classification of every mental feeling.
 
-2.09 has not been opened.
+The path-faculty verse beginning 2.09 remains outside this review.

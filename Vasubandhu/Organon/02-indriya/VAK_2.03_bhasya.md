@@ -23,7 +23,7 @@ The prose is printed 39.20–23 in `Vasubandhu/Sources/kosabhasya.txt`, after th
 
 ## 3. Continuous Conventional Translation
 
-The life-faculty has governing efficacy over the persistence of the homogeneous class of living beings, and the feelings over defilement. For it is said in the sūtra: attachment lies latent in pleasant feeling, aversion in painful feeling, and ignorance in neither-painful-nor-pleasant feeling. The five beginning with faith have governing efficacy over purification, for through them the afflictions are checked and the path is brought forward. Therefore each of these also is individually accepted as a faculty.
+The life-faculty governs the persistence of the homogeneous class of living beings; the feelings govern defilement. As the sūtra says, attachment lies latent in pleasant feeling, aversion in painful feeling, and ignorance in feeling that is neither painful nor pleasant. The five beginning with faith govern purification: through them afflictions are held in check and the path is brought forth. Each of these, too, is therefore accepted as a faculty in its own right.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -47,7 +47,7 @@ The preceding verse preserved a place for feeling in purification. This paragrap
 
 ## 7. The Two Operations of Purification
 
-The five are śraddhā, vīrya, smṛti, samādhi, and prajñā: faith, vigor, mindfulness, concentration, and Discrimination. The prose specifies five. The opening verse grouped eight under purification. The remaining three are the next verse. They are not this unit.
+The five are śraddhā, vīrya, smṛti, samādhi, and prajñā: faith, vigor, mindfulness, concentration, and discriminative comprehension. This paragraph specifies their number but does not list them by name. The opening verse grouped eight under purification; the remaining three are treated in the next verse.
 
 Through them the afflictions are checked and the path is brought forward. Viṣkabhyante is checking. It is not irreversible abandonment. Āvāhyate is bringing the path forward. The two clauses are coordinated. The text does not say checking must finish before the path begins, and it does not assign a separate operation to each of the five. Pratyekam establishes individual faculty. It does not give five causal analyses.
 
@@ -59,12 +59,12 @@ Sthiti is persistence. Checking and brought forward keep the two operations apar
 
 ## 9. Interpretation
 
-Applied Indriya. The same predicate, governing efficacy, receives three fields: standing of the class, defilement, purification.
+For the Organon, this verse offers a precise test of the “dual” Concept seeded by the Dhātu Idea. Defilement and purification are paired fields of governing efficacy, while life governs persistence of the living class. The pairing is stated in the kārikā and explained in the prose; calling it a dual Concept is our interpretation, not the Bhāṣya's term.
 
-Defilement and purification are the Kośa Path. The five feelings and the five beginning with faith are its controllers. Life controls the standing of the class beside that path. Checking is not final abandonment. The negation, when it comes, is of the afflictive relation, not of the feeling and not of the principle in which the faculty was located. The principles remain deposited. Not the verse English.
+The sūtra relates afflictions to feeling by their latency; it does not identify feeling with affliction. The faith-group checks afflictions and brings forth the path. The two operations are coordinated here, without an account of their final outcome. Any deeper Organon account of negation or return must remain answerable to those relations rather than being read back into this brief paragraph.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. Discernment withdrawn. The path-controllers are marked, not printed as the translation.
+The single kārikā anchor matches the Bhāṣya's ordered distribution: life to class-persistence, feelings to defilement, and the five beginning with faith to purification. The continuous translation covers the full prose unit at 39.20–23, including the sūtra and the two operations of the faith-group.
 
-The complete commentary is one paragraph. The five faculties and the three tones stay distinct. 2.04 has not been opened.
+The complete commentary is one paragraph. The five feeling faculties and the three tones stay distinct. The verse beginning 2.04 remains outside this review.

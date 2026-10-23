@@ -38,7 +38,7 @@ Word division is editorial. Karisyate → kariṣyate, karttavyaḥ → kartavya
 
 The faculties beginning with the eye and extending through the male faculty have been explained. Because the life-faculty is dissociated from mind, it will be explained among the factors dissociated from mind. Those beginning with faith will be explained among the mental factors. The faculties beginning with pleasure, and those beginning with the faculty called “I shall know,” remain to be explained. That explanation is now given.
 
-Disagreeable bodily feeling is the pain-faculty. Disagreeable means injurious: that is the meaning of painful. Pleasure is agreeable: the pleasure-faculty is agreeable bodily feeling. Agreeable means supportive: that is the meaning of pleasurable. But in the third dhyāna, that mental feeling is the pleasure-faculty. In the third dhyāna, that same agreeable feeling, being mental, is the pleasure-faculty. For there is no bodily feeling there, because the five cognition-groups are absent.
+Disagreeable bodily feeling is the Pain-Faculty. “Disagreeable” means injurious; that is what painful means here. Pleasure is agreeable: the Pleasure-Faculty is agreeable bodily feeling. “Agreeable” means supportive; that is what pleasurable means here. In the third dhyāna, however, agreeable mental feeling is also the Pleasure-Faculty. There the same agreeable feeling is classified as mental pleasure, since bodily feeling is absent when the five Cognition-groups are absent.
 
 ## 4. The Transition to Definitions
 
@@ -83,13 +83,13 @@ tone alone does not establish Pleasure-Faculty; the bodily case and the
 third-dhyāna mental case must remain distinguishable. The same Faculty-name
 does not posit one feeling persisting through a change of mode.
 
-In the Organon synthesis, Cognition joins and governs Perception and
-Conception, guides the reading of Dharma Base, and remains distinct from
-Mind and consciousness. The local passage contributes a precise constraint:
-where the five Cognition-groups are absent, bodily feeling is absent.
-This does not establish the absence of all Cognition or all feeling. The
-interpretive force is a rule of qualified classification, not an additional
-causal mechanism attributed to the Sanskrit.
+For the Organon Rules Engine reading, this is a qualified classification:
+the tone and bodily or mental mode of feeling matter, and the third-dhyāna
+condition determines the exceptional mental case. The Bhāṣya gives the
+absence of the five Cognition-groups as the reason bodily feeling is absent
+there. It does not claim that all Cognition or all feeling is absent. A wider
+account of Cognition, Perception, or Conception remains a proposal to test
+against later passages, not a determination made by this one.
 
 ## 10. Review Status
 

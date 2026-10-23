@@ -13,6 +13,17 @@
 
 ## 2. Continuous Sanskrit Witness
 
+> yat tarhy abhidharma uktaṃ "katibhir indriyair arhattvaṃ prāpnotīty āha
+> ekādaśabhir iti" / tat kathaṃ navabhir ity ucyate /
+> navabhir eva tat prāpnoti /
+> ekādaśabhir arhattvam uktaṃ tv ekasya saṃbhavāt /
+> asti saṃbhavo yad ekaḥ pudgalaḥ parihāya parihāya
+> sukhasaumanasyopekṣābhir arhattvaṃ prāpnuyād ata ekādaśabhir ity uktam /
+> na tu khalu saṃbhavo 'sti sukhādīnām ekasmin kāle /
+> katham anāgāmino 'py eṣa prasaṅgo na bhavati /
+> na hy asau parihīṇaḥ kadācit sukhendriyeṇa prāpnoti /
+> na ca vītarāgapūrvī parihīyate / tadvairāgyasya dvimārgaprāpaṇāt /
+>
 > idaṃ vicāryate /
 > katamenendriyeṇa samanvāgataḥ katibhiḥ avaśyaṃ samanvāgato bhavati /
 > tatra
@@ -37,22 +48,26 @@
 > ājñātāvīndriyeṇa pṛthagjanaśaikṣaikṣyā asamanvāgatāḥ /
 > apratiṣiddhāsvavasthāsu yathoktasamanvāgato veditavyaḥ /
 
-The possession unit runs from printed 50.09 through 50.22 in
-[the Sanskrit witness](../../Sources/kosabhasya.txt). The numbered verse's
-eleven-person clause is studied with the attainment unit at 2.16.
-Further possession counts at 50.23 open 2.18.
+The eleven-person explanation runs from printed 49.28 through 50.08;
+the possession unit runs from 50.09 through 50.22 in
+[the Sanskrit witness](../../Sources/kosabhasya.txt). The first span
+overlaps the attainment discussion under 2.16 and is included here so
+the whole numbered verse has a continuous witness. Further possession
+counts at 50.23 open 2.18.
 
-Word division is editorial. Repairs: anyo 'ynena → anyo 'nyena, kāmadhatau → kāmadhātau, apratipiddhāsu → apratiṣiddhāsu. Caturdhyāna is read as the fourth dhyāna, with the next sentence. Pṛthagjanaphalathānasamanvāgatāḥ and pṛthagjanaśaikṣaikṣyā are damaged. The translation follows the research reading and marks it provisional. No independent collation is claimed.
+Word division is editorial. Repairs in the first span include prapnoti → prāpnoti, ekādaśbhhir → ekādaśabhiḥ, arhattavam → arhattvam, saumanasyīpekṣā → saumanasyopekṣā, and anāgābhino → anāgāmino. In the possession span: anyo 'ynena → anyo 'nyena, kāmadhatau → kāmadhātau, apratipiddhāsu → apratiṣiddhāsu. Caturdhyāna is read as the fourth dhyāna, with the next sentence. Pṛthagjanaphalathānasamanvāgatāḥ and pṛthagjanaśaikṣaikṣyā are damaged. The translation follows the research reading and marks it provisional. No independent collation is claimed.
 
 ## 3. Continuous Conventional Translation
 
-This is now examined: one possessing which faculty necessarily possesses how many? One possessing neutral feeling, life, or mind necessarily possesses the three. Whoever possesses any one of these, beginning with neutral feeling, necessarily possesses three faculties, these very three. For none of them is possessed without the others. With the remaining faculties there is no fixed rule. One may possess them or may not.
+But the Abhidharma says that arhatship is attained through eleven faculties. How, then, can it be said to be attained through nine? A given attainment occurs through nine. Eleven is stated because one person may attain arhatship repeatedly after falling away, with pleasure on one occasion, gladness on another, and neutral feeling on another. The three feelings cannot occur at one time in this attainment. Why does the same argument not apply to a non-returner? After falling away, such a person never regains that fruit with the Pleasure-Faculty. One previously free from desire does not fall away, because that dispassion was attained through both paths.
+
+Now another question is examined: possession of which faculty necessarily entails possession of how many? Anyone possessing neutral feeling, life, or Mind necessarily possesses all three. Possession of any one of these entails possession of the other two; none is possessed without them. No such fixed implication holds for the remaining faculties: one may possess them or not.
 
 One born in the formless realm does not possess the eye, ear, nose, or tongue. In the desire realm, one also lacks them when they have not been acquired or have been lost. One born in the formless realm does not possess the body-faculty. One born in the form or formless realm does not possess the female faculty. In the desire realm, one lacks it when it has not been acquired or has been lost. The same applies to the male faculty.
 
 An ordinary person born in the fourth dhyāna or the formless realm does not possess pleasure. An ordinary person born in the third or fourth dhyāna or the formless realm does not possess gladness. One born in the form or formless realm does not possess pain. One free from desire for the desire realm does not possess distress. One whose wholesome roots have been severed does not possess the faculties beginning with faith.
 
-Ordinary persons and those established in the fruits do not possess “I shall know.” Ordinary persons and those on the paths of seeing and no-more-training do not possess the knowledge-faculty. Ordinary persons and trainees do not possess the faculty of one who has known. In conditions not excluded, possession is to be understood as stated.
+Ordinary persons and those established in the fruits do not possess “I shall know.” Ordinary persons and those on the paths of seeing and no-more-training do not possess the knowledge-faculty. Ordinary persons and trainees do not possess the faculty of one who has known. In conditions not excluded, possession is to be understood as stated. These last three assignments follow provisional readings of damaged compounds.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -105,15 +120,17 @@ not a minimum theory of Mind or a claim of continuously occurring
 neutral feeling. The grounds of absence remain distinct rather than
 being treated as one generic failure.
 
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base without collapsing into Mind or consciousness.
 Mind's necessary possession with life and neutral feeling does not
-identify those Faculties with one another or with Cognition.
+identify those Faculties with one another. It is an implication about
+endowment, not a claim about their simultaneous occurrence as events.
+The wider Organon account of Cognition, Perception, and Conception
+remains to be tested elsewhere.
 
 ## 10. Review Status
 
-Reviewed with the kārikā against printed 50.03–22, with the possession
-unit beginning at 50.09. The study translation replaces the incorrect
+Reviewed with the kārikā against printed 49.28–50.22, with the possession
+unit beginning at 50.09. The continuous witness and translation now include
+the first half of this numbered verse. The study translation replaces the incorrect
 eleven-Faculty possession claim with the Bhāṣya's repeated-attainment
 reading; the anchor matches exactly.
 
@@ -123,4 +140,4 @@ severed-root qualifications remain explicit. The damaged path-status
 compounds are preserved as provisional and are not formalized as
 settled axioms.
 
-2.18 has not been opened.
+The further possession counts beginning 2.18 remain outside this review.

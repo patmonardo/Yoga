@@ -28,9 +28,9 @@ Word division is editorial. Repairs follow the research bhāṣya: indrim → in
 
 ## 3. Continuous Conventional Translation
 
-The word likewise indicates that each is individually a faculty. Among these, the faculty called “I shall know” has governing efficacy with respect to attainment of the knowledge-faculty; the knowledge-faculty, with respect to attainment of the faculty of one who has known; and the faculty of one who has known, with respect to parinirvāṇa. For there is no parinirvāṇa for one whose mind is not liberated.
+“Likewise” indicates that each of the three is a faculty in its own right. The faculty called “I shall know” governs attainment of the knowledge-faculty; the knowledge-faculty governs attainment of the faculty of one who has known; and the faculty of one who has known governs parinirvāṇa. For one whose mind is not liberated cannot attain parinirvāṇa.
 
-And so forth indicates another mode of explanation. What is that other mode? The faculty called “I shall know” has governing efficacy with respect to abandonment of the afflictions to be abandoned by seeing; the knowledge-faculty, with respect to abandonment of the afflictions to be abandoned by cultivation; and the faculty of one who has known, with respect to pleasant abiding in this life, because one experiences the joy and happiness of liberation.
+“And so forth” indicates another way to explain their governing efficacy. What is it? The faculty called “I shall know” governs abandonment of afflictions to be abandoned by seeing; the knowledge-faculty governs abandonment of afflictions to be abandoned by cultivation; and the faculty of one who has known governs pleasant abiding in this life, through experiencing the joy and happiness of liberation.
 
 ## 4. Movement and Voice of the Commentary
 
@@ -70,12 +70,10 @@ The verse says nirvāṇa. The prose says parinirvāṇa. That difference stands
 
 ## 9. Interpretation
 
-Applied Indriya. The three complete the eight that govern purification. They are controllers of that side of the Kośa Path, with the five of 2.03. Succession is one account. Abandonment and present abiding are the other. Checking is not abandonment.
+For the Organon, these three complete the eight associated with purification in 2.01. The first explanation orders their governing efficacy by successive attainment and parinirvāṇa; the second by abandonment and pleasant abiding in this life. The distinction between checking afflictions in 2.03 and abandoning them here matters for any account of the chapter's Hub. Neither explanation states the proposed “dual” Concept, though both can test it.
 
-The principles remain deposited. A portion of the dharma-principle was where 1.48 located these faculties. This verse does not recount the eighteen. Knowledge is the faculty-name, not the Idea. Not the verse English.
+The first chapter located these faculties within a portion of the dharma-principle. Here the Bhāṣya explains what each governs. “Knowledge” is a faculty-name in this passage; identifying it with the Organon Idea would be a further interpretive step.
 
 ## 10. Review Status
 
-Fine-tuned with the kārikā. Domain withdrawn. The essay is not the translation. Both accounts kept. The seeing-abandonment repair remains provisional.
-
-2.05 has not been opened.
+The single kārikā anchor matches the Bhāṣya's distribution of the three faculties. The continuous translation covers both explanations through printed 40.08. The seeing-abandonment repair remains provisional. The objection beginning 2.05 is outside this review.

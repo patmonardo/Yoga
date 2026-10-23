@@ -47,11 +47,11 @@ Word division is editorial. Repairs: saṃsvedajaīr → saṃsvedajair, ṣaḍ
 
 ## 3. Continuous Conventional Translation
 
-Acquisition must now be explained. How many faculties are first acquired as maturation, and in which realm? Initially in the desire realm, two are acquired as maturation: the body-faculty and the life-faculty. These, however, are acquired not by the spontaneously born. Since the spontaneously born are excluded, the statement is to be understood of the egg-born, womb-born, and moisture-born. Why not the faculties of mind and neutral feeling? Because at the time of relinking both are necessarily afflicted.
+Acquisition must now be explained. How many faculties are first acquired as maturation, and in which realm? In the desire realm, two are initially acquired as maturation: the body-faculty and the life-faculty. This two-faculty case excludes spontaneous birth; it concerns the egg-born, womb-born, and moisture-born. Why are the Mind-Faculty and Neutral-Feeling Faculty not counted? Because both are necessarily afflicted at the time of relinking.
 
 How many are acquired by the spontaneously born? By them, six, if they have no sexual characteristic, like the beings at the beginning of the cosmic age. Which six? Eye, ear, nose, tongue, body, and life. Or seven, if they have one sexual characteristic, as among gods and others. Or eight, if they have both. Are there spontaneously born beings with both sexual characteristics? There are, in the unfortunate destinies.
 
-So much for the desire realm. How is it in the form and formless realms? Six in the forms. The desire realm is designated desires because desire predominates there. The form realm is designated forms because form predominates there. It is also said in a sūtra: those peaceful liberations, monks, which, having transcended forms, are formless. In the form realm, six faculties are first acquired as maturation: the same ones acquired in the desire realm by spontaneously born beings without sexual characteristics.
+So much for the desire realm. What about the Form and Formless realms? Six are acquired in the Form realm. The desire realm is called “desires” because desire predominates there; the Form realm is called “forms” because form predominates there. As a sūtra says: “Those peaceful liberations, monks, which, having transcended forms, are formless.” In the Form realm, six faculties are first acquired as maturation: the same six acquired in the desire realm by spontaneously born beings without sexual characteristics.
 
 One in the higher. The formless realm is higher than the form realm, because it is beyond it with respect to meditative attainment and superior with respect to rebirth. There only one faculty, the life-faculty, is first acquired as maturation, and no other. Acquisition has been explained.
 
@@ -108,11 +108,11 @@ time, and maturation qualify what is counted. Reducing the count to
 bare presence would falsely exclude Mind and neutral feeling from
 relinking or include them as maturation.
 
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base without collapsing into Mind or consciousness.
-Mind's exclusion from this maturation-count is not the absence of
-Cognition, and the one-Faculty Formless count is not a complete
-description of its cognitive life.
+Mind's exclusion from the first two-faculty count does not mean Mind
+is absent at relinking; the prose explicitly gives its afflicted
+condition as the reason for exclusion. Likewise, the one-faculty
+Formless count concerns initial acquisition as maturation, not the
+whole inventory of faculties connected with that realm in 2.12.
 
 ## 10. Review Status
 
@@ -127,4 +127,4 @@ Faculties; they are not substituted for them. Presence at relinking
 remains distinct from the count. The source's birth-mode claims are
 preserved without independent biological validation.
 
-2.15 has not been opened.
+The relinquishment question beginning 2.15 remains outside this review.

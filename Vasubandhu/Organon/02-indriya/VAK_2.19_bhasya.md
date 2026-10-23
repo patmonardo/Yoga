@@ -13,6 +13,15 @@
 
 ## 2. Continuous Sanskrit Witness
 
+> aṣṭābhiḥ /
+> yaḥ strīndriyeṇa samanvāgataḥ so 'vaśyam aṣṭābhis
+> taiś ca saptabhiḥ strīndriyeṇa ca /
+> ādiśabdena puruṣendriyadaurmanasyaśraddhādīnāṃ saṃgrahaḥ /
+> tadvān api pratyekam aṣṭābhiḥ samanvāgato bhavati /
+> taiś ca saptabhir aṣṭamena ca puruṣendriyeṇa /
+> evaṃ daurmanasyendriyeṇa /
+> śraddhādimāṃs tu taiś ca pañcabhir upekṣājīvitamanobhiś ca /
+>
 > ekādaśabhis tv ājñājñātendriyānvitaḥ /
 > ājñāta indriyam ājñātendriyam /
 > ya ājñātendriyeṇa samanvāgataḥ so 'vaśyam ekādaśabhiḥ
@@ -24,15 +33,20 @@
 > manojīvitakāyendriyaiḥ catasṛbhir vedanābhiḥ śraddhādibhir
 > ājñāsyāmīndriyeṇa ca //
 
-The unit is printed 51.16–51.22 in
-[the Sanskrit witness](../../Sources/kosabhasya.txt). Word division is
-editorial. Ājñā tāvīndriyeṇa is joined. Three forms stay difficult:
+The opening eight is printed 51.11–15 and the realization-faculty
+counts 51.16–22 in [the Sanskrit witness](../../Sources/kosabhasya.txt).
+The first span overlaps the unit studied under 2.18 and is included
+here to give the whole numbered verse a continuous witness. Word
+division is editorial. Śaraddhādīnām is read as śraddhādīnām, and
+ājñā tāvīndriyeṇa is joined. Three forms stay difficult:
 ājñāta indriyam, ya ājñātendriyeṇa, and manaśraddhādibahir.
 No independent collation is claimed.
 
 ## 3. Continuous Conventional Translation
 
-But one possessing the knowledge-faculty or the faculty of one who has known, eleven. Ājñātendriya denotes the faculty of one who has known. One possessing the knowledge-faculty necessarily possesses eleven: pleasure, gladness, neutral feeling, life, mind, the faculties beginning with faith, and the knowledge-faculty. The same applies to one possessing the faculty of one who has known: those same ten, together with that faculty.
+With eight: one possessing the Female-Faculty necessarily possesses the seven already stated and that faculty as eighth. “And so forth” includes the Male-Faculty, distress, and those beginning with faith. A possessor of the Male-Faculty or distress has the corresponding seven plus that faculty. A possessor of any faculty beginning with faith instead possesses all five of that group, together with neutral feeling, life, and Mind. Each case yields eight, with different members.
+
+One possessing the Knowledge-Faculty or the Faculty of one who has known, however, necessarily possesses eleven. The damaged gloss appears to explain *ājñātendriya* as the Faculty of one who has known. For the Knowledge-Faculty case, the eleven are pleasure, gladness, neutral feeling, life, Mind, the five beginning with faith, and the Knowledge-Faculty itself. The same ten common faculties are possessed in the other case, together with the Faculty of one who has known.
 
 One possessing the faculty called “I shall know” is endowed with thirteen. Which thirteen? Mind, life, and body; four feelings; the faculties beginning with faith; and the faculty called “I shall know.”
 
@@ -94,15 +108,16 @@ Equal counts can have different necessary companions. Unequal counts
 need not be degrees of knowledge. Co-possession is not causal support
 or current operation.
 
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base without collapsing into Mind or consciousness.
-Mind is one of the common ten; it does not make the ten one
-undifferentiated cognition or all possessed feelings manifest in one act.
+Mind is one of the common ten. That does not turn the ten into one
+undifferentiated cognition or make all the possessed feelings manifest
+in one act. The wider Organon account of Cognition, Perception, and
+Conception remains to be tested elsewhere.
 
 ## 10. Review Status
 
-Reviewed with the kārikā against printed 51.16–22. The opening eight
-completes 2.18. Necessary possession is explicit in the study
+Reviewed with the kārikā against printed 51.11–22. The opening eight
+completes 2.18 and is now included in this continuous witness and
+translation. Necessary possession is explicit in the study
 translation and its exact anchor.
 
 Grammar–Logic checks the distinct elevens and thirteen without an
@@ -110,4 +125,4 @@ unsupported Path-stage constraint. Omission is not universal absence,
 and possession is not current operation. The damaged gloss remains
 provisional; no independent repair is claimed.
 
-2.20 has not been opened.
+The minimum-possession inquiry beginning 2.20 remains outside this review.

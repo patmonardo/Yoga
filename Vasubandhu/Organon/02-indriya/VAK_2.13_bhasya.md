@@ -35,13 +35,13 @@ Uktaḥ prakārabhedaḥ closes the distinctions. Lābha idānīṃ vaktavyaḥ 
 
 ## 3. Continuous Conventional Translation
 
-How many faculties are to be abandoned by seeing, how many by cultivation, and how many are not to be abandoned? Mind and the three feelings are threefold. Which three feelings? Pleasure, gladness, and neutral feeling. Distress is to be abandoned in two ways: distress is to be abandoned by both seeing and cultivation. Nine by cultivation: to be abandoned continues to apply. Those beginning with the eye, with life as the eighth, together with the pain-faculty, are to be abandoned only by cultivation. The five, however, may also be not to be abandoned: the five beginning with faith are both to be abandoned by cultivation and not to be abandoned, because they can be with outflows or without outflows. The triad is not: the three beginning with the faculty “I shall know” are not to be abandoned at all, because they are without outflows. For what is faultless is not fit to be abandoned. The distinctions of kind have been explained.
+How many faculties are to be abandoned by seeing, how many by cultivation, and how many are not to be abandoned? Mind and three feelings admit all three classifications. Which feelings? Pleasure, gladness, and neutral feeling. Distress is to be abandoned in two ways, by seeing or by cultivation. Nine are to be abandoned by cultivation alone: the seven beginning with the eye, life as the eighth, and the Pain-Faculty. The five beginning with faith are, depending on the instance, to be abandoned by cultivation or not to be abandoned, because they can occur with or without *āsrava*. The triad beginning with the faculty “I shall know” is not to be abandoned, because it is without *āsrava*. What is faultless is not fit to be abandoned. The distinctions of kind have now been explained.
 
 ## 4. Movement and Voice of the Commentary
 
-A question, then the distribution. The compressed groups are named. The implied predicate is made explicit. Outflow is the reason for the last two assignments. No opponent. No school.
+A question, then the distribution. The compressed groups are named and the implied predicate made explicit. *Āsrava* status explains the last two assignments. No opponent or school is named.
 
-The last sentence closes the distinctions opened at 2.09. Outflow, maturation, ethical quality, realm-connection, and abandonment have been examined. Acquisition is next. It is not this status under another name.
+The last sentence closes the distinctions opened at 2.09. *Āsrava* status, maturation, ethical quality, realm-connection, and abandonment have been examined. Acquisition is next, as a different question.
 
 ## 5. The Five Groups
 
@@ -59,7 +59,7 @@ Both seeing and cultivation distributes instances. One instance is not abandoned
 
 ## 6. Cultivation-Abandonable Is Not Unwholesome
 
-The nine include faculties that 2.11 called indeterminate. The five are wholesome, and their with-outflow instances are still cultivation-abandonable. The predicate is not ethically bad.
+The nine include faculties that 2.11 called indeterminate. The five are wholesome, and their instances with *āsrava* are still cultivation-abandonable. The predicate does not mean ethically bad.
 
 Distress can be wholesome or unwholesome, and it has no class that is not to be abandoned. Tone, quality, and abandonment stay three determinations.
 
@@ -67,12 +67,12 @@ The paragraph does not give the mechanism. It is not an instruction to destroy t
 
 ## 7. The Five and the Faultless Triad
 
-The five are with outflows or without. Cultivation-abandonable is the
+The five are with or without *āsrava*. Cultivation-abandonable is the
 first. Not to be abandoned is the second. Not every faith, vigor,
 mindfulness, concentration, or discriminative comprehension is to be
 discarded.
 
-The triad is exclusively without outflows, and so not to be abandoned. Na hi nirdoṣaṃ prahāṇārham: what is faultless is not fit to be abandoned.
+The triad is exclusively without *āsrava*, and so not to be abandoned. *Na hi nirdoṣaṃ prahāṇārham*: what is faultless is not fit to be abandoned.
 
 Not to be abandoned is the path-status. It is not permanence, not uninterrupted operation, and not exemption from analysis.
 
@@ -95,16 +95,14 @@ four Faculties.
 ## 9. Interpretation
 
 A Faculty-name does not by itself settle whether seeing, cultivation,
-or non-abandonment applies. For the five, outflow-status decides. The
+or non-abandonment applies. For the five, *āsrava* status decides. The
 abandonability of a qualified instance is not the rejection of the type;
 non-abandonment is not the permanence of an event.
 
-Cognition joins and governs Perception and Conception and guides the
-reading of Dharma Base without collapsing into Mind or consciousness.
-That synthesis must preserve the different kinds classified here:
-the nine include Form Faculties and life, not only mental factors.
-The source supplies a rule of classification, not an instruction to
-retain or delete a psychological power-system.
+The nine include Form Faculties and life, not only mental factors.
+This classification concerns qualified instances of the twenty-two
+Faculties. The wider Organon account of Cognition, Perception, and
+Conception remains a proposal to test against other passages.
 
 ## 10. Review Status
 
@@ -113,8 +111,8 @@ specifies the abandonment ranges and restores cultivation for the
 five's abandonable class; the anchor matches exactly.
 
 The five groups and faultlessness maxim are preserved. Grammar–Logic
-distinguishes the four from the nine, the five's outflow-qualified
+distinguishes the four from the nine, the five's *āsrava*-qualified
 instances, and non-abandonment from completed action or permanence.
 The interpretation no longer treats every Faculty as a mental factor.
 
-2.14 has not been opened.
+The acquisition question beginning 2.14 remains outside this review.
