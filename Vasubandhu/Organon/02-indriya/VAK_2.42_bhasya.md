@@ -14,56 +14,55 @@
 
 ## 2. Continuous Sanskrit Witness
 
-> atha samāpattī iti yad uktaṃ katame te samāpattī /
-> asaṃjñisamāpattir nirodhasamāpattiś ca /
-> keyam asaṃjñisamāpattiḥ /
-> yathaivāsaṃjñikam uktaṃ nirodhaś cittacaittānām iti /
-> tathāsaṃjñisamāpattiḥ /
-> asaṃjñināṃ samāpattir asaṃjñā vety asaṃjñisamāpattiḥ /
+> atha samāpattī iti yaduktaṃ katame te samāpattī /
+> asaṃjñisamāpattirnirodhasamāpattiśca /
+> keyamasaṃjñisamāpattiḥ /
+> yathaivāsaṃjñikamuktaṃ "niarodhaścittacaittānāmi"ti /
+> tathā 'saṃjñisamāpattiḥ
+> asaṃjñināṃ samāpattirasaṃjñā ve tyasaṃjñisamāpattiḥ /
 > sā 'pi cittacaittānāṃ nirodhaḥ /
-> etāvat tathāśabdenānvākṛṣyate /
+> etāvattathāśabdenānvākṛṣyate /
 > sā tu samāpattiḥ /
-> dhyāne 'ntye /
-> antyadhyānaṃ caturthaṃ tatparyāpannā 'sau nānyabhūmikā /
-> kimartham enāṃ samāpadyante /
+> dhyāne 'ntye
+> antyadhyānaṃ caturthaṃ tatparyāpannā 'sau nānyabhumikā /
+> kimarthamenāṃ samāpadyante /
 > niḥsṛtīcchayā /
-> niḥsaraṇam eṣāṃ manyante /
+> niḥsaraṇameṣāṃ manyante /
 > ato mokṣakāmatayā samāpadyante /
-> āsaṃjñikaṃ vipākatvād avyākṛtam iti siddham /
-> iyaṃ tu /
-> śubhā /
+> āsaṃjñikaṃ vipākatvāt avyākṛtamiti siddham /
+> iyaṃ tu
+> śubhā
 > kuśalaivāsaṃjñisamāpattiḥ /
 > tasyā asaṃjñisattveṣu pañcaskandhako vipākaḥ /
-> kuśalā satī /
-> upapadyavedyaiva /
+> kuśalā satī
+> upapadyavedyaiva
 > upapadyavedanīyaiva /
-> na dṛṣṭadharmaparyāyavedanīyā nāpy aniyatā /
-> yo 'py enām utpādya parihīyate so 'pi kilāvaśyaṃ punar utpādyāsaṃjñisattveṣūpapadyata iti /
+> na dṛṣṭadharmaparyāyavedanīyā nāpi aniyatā /
+> yo 'pyenāmutpādya parihīyate so 'pi kilāvaśyaṃ punarutpādyāsaṃjñisattveṣūpapadyata iti /
 > ata eva tallābhī niyāmaṃ nāvakrāmati /
 > seyaṃ pṛthagjanasyaiveṣyate /
-> nāryasya /
-> na hy āryā asaṃjñisamāpattiṃ samāpadyante vinipātasthānam ivaitāṃ paśyantaḥ /
+> nāryasya
+> nahyāryāṃ asaṃjñisamāpattiṃ samāpadyante vinipātasthānamivaitāṃ paśyantaḥ/
 > niḥsaraṇasaṃjñino hi tāṃ samāpadyante /
-> atha kim enām āryāś caturthadhyānalābhād atītānāgatāṃ pratilabhante dhyānavat /
-> anye 'pi tāvan na pratilabhante /
+> atha kimenāmāryāścaturthadhyānalābhādatītānāgatāṃ pratilabhante dhyānavat /
+> anye 'pi atāvanna pratilabhante /
 > kiṃ kāraṇam /
-> eṣā hy ucitā 'pi satī mahābhisaṃskārasādhyatvād acittakatvāc ca /
-> ekādhvikāpyate // 2.42 //
-> ekakālikety arthaḥ /
-> vartamānakālikaiva labhyate /
+> eṣā hyucitā 'pi satī mahābhisaṃskārasādhyatvādacittakatvācca /
+> ekādhvikāpyate // VAkK_2.42 //
+> ekakāliketyarthaḥ /
+> varttamānakālikaiva labhyate
 > yathā prātimokṣasaṃvaraḥ /
-> labdhayā tu dvitīyādiṣu kṣaṇeṣv atītayā 'pi samanvāgato bhavati yāvan na tyajati /
-> acittakatvān nānāgatā bhāvyate /
+> labdhayā tu dvitaīyādiṣu kṣaṇeṣvatītayā 'pi samanvāgato bhavati yāvanna tyajati /
+> acittaka tvānnānāgatā bhāvyate /
 
-The unit is printed 68.28–69.23 in
-[the running witness](../../Sources/kosabhasya.txt). The previously
-excerpted opening is now continued through the acquisition explanation.
-This is a normalized study transcription, not a collation. It
-regularizes *niarodha*, *nānyabhumikā*, *āryāṃ*, *anye 'pi atāvan*,
-*dvitaīyādiṣu*, and spacing of *acittaka tvāt*. The two
-name-construals and reportive *kila* remain visible. The question
-at 69.24 introduces the attainment of cessation in 2.43 and is
-outside this unit.
+The unit runs from printed 68.28 through 69.23 in
+[the running witness](../../Sources/kosabhasya.txt). This is an exact
+local-source transcription apart from removal of page locators and
+indentation. The source's *niarodha*, *nānyabhumikā*, *āryāṃ*,
+*anye 'pi atāvan*, *dvitaīyādiṣu*, and separated *acittaka tvāt*
+remain visible. The two name-construals and reportive *kila*
+remain in their places. The question at 69.24 introduces the
+attainment of cessation in 2.43.
 
 ## 3. Continuous Conventional Translation
 
@@ -98,7 +97,7 @@ The two attainments are named. The first is taken up. Likewise is limited. Level
 
 ## 5. Attainment and Result
 
-Wholesome cause. Indeterminate maturation. Likewise does not transfer the result's determinations. Five Bases are the resultant existence. Birth and death are reflective. The interval is not specified moment by moment. Wholesome does not by itself fix next-rebirth timing. Here it is stated for this attainment.
+The attainment is wholesome; the non-reflective result is indeterminate because it is maturation. “Likewise” carries over cessation of consciousness and mental factors, not the result's ethical class. The resultant existence has five Bases. The text expressly fixes this attainment's maturation in the next rebirth; that timing does not follow simply from its being wholesome.
 
 ## 6. Wish and the Noble
 
@@ -114,33 +113,30 @@ is the acquisition account; regaining is the earlier report.
 Without consciousness qualifies the attained state. Great formative
 effort and the wish for release are stated, not an unintentional lapse.
 
-## 8. Decisions
+## 8. Textual Decisions
 
-Damaged forms are read from the explanations. The two name-construals stay. Rebirth does not precede the attainment in the sequence stated here.
+The damaged forms remain in the Sanskrit, and their contextual readings are confined to the English. The two explanations of the attainment's name remain distinct. The reported regaining precedes the rebirth among non-reflective beings.
 
-## 9. Interpretation
+## 9. Reading Control
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, remaining distinct from
-consciousness and Mind. Cessation alone is not liberation: the
-wish for release does not establish its achievement. A wholesome
-practice can have indeterminate maturation without sharing its
-result's ethical status. Present acquisition, later possession
-of a past instance, and cultivation of future instances are
-different relations; a single availability flag would erase
-the argument's determinations.
+The wish for release is attributed to those entering this
+attainment; the passage does not say that their wish achieves
+release. Its wholesome status, the indeterminate status of its
+maturation, and the specified next-rebirth timing are different
+claims. Present acquisition, later possession of a past instance,
+and cultivation of a future instance are also distinguished by
+the Bhāṣya. The last is denied here because the attainment is
+without consciousness.
 
 ## 10. Review Status
 
-Paired source QA and executable Grammar–Logic review completed.
-The full Sanskrit explanation is restored through 69.23. “Likewise”
-inherits cessation only; fourth-dhyāna location, entrant's motive,
-wholesome practice, next-rebirth maturation, noble-person exclusion,
-and present-only acquisition remain distinct. Past possession is
-not mistaken for past acquisition, and *kila* qualifies the necessary
-regaining/rebirth report. Unrelated same-class discussion is removed
-from this unit's interpretation. Detailed study of the extended
-argument remains for the later specialty pass.
+The complete 68.28–69.23 witness has been checked against the local
+source. The kārikā Grammar and Logic were left untouched in this
+pass. “Likewise” inherits cessation only; fourth-dhyāna location,
+entrant's motive, wholesome practice, next-rebirth maturation,
+noble-person exclusion, and present-only acquisition remain distinct.
+Past possession is not mistaken for past acquisition, and *kila*
+qualifies the necessary regaining/rebirth report. The study keeps
+the attainment, its maturation, and the entrant's purpose separate.
 
-The next unit is 2.43, attainment of cessation; only its introductory
-boundary has been consulted.
+The next unit is 2.43, attainment of cessation.

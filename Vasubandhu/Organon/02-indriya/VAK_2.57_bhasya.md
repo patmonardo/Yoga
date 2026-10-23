@@ -10,57 +10,95 @@
 > arisen from the determinate. Homogeneous outflow resembles its cause;
 > disconnection is cessation by Discrimination.
 
-## 2. Sanskrit Witness — Selected Passages
+## 2. Continuous Sanskrit Witness
 
+> kiṃ punaridaṃ vipākaphalaṃ nāma kiṃ yāvadadhipatiphalam /
 > vipāko 'vyākṛto dharmaḥ /
 > anivṛtāvyākṛto hi dharmaḥ vipākaḥ /
-> sattvākhyaḥ /
+> asattvākhyo 'pi syādata āha /
+> sattvākhyaḥ
+> aupacayiko 'pi syāt naiḥṣyandiko 'pyat āha /
 > vyākṛtodbhavaḥ /
-> kuśalākuśalaṃ hi vipākaṃ prati vyākaraṇād vyākṛtam /
+> kuśalākuśalaṃ hi vipākaṃ prati vyākaraṇādvyākṛtam /
 > tasmādya utarakālaṃ bhavati na saha nāntaraṃ sa vipākaḥ /
+> etadvipākasya lakṣaṇam /
+> kasmādasattvākhyo 'rthaḥ karmajo na vipākaḥ /
+> sādhāraṇatvāt /
+> anyo 'pi hi tattathaiva paribhoktuṃ samarthaḥ /
 > asādhāraṇastu vipākaḥ /
 > nahyanyakṛtasya karmaṇo 'nyo vipākaṃ pratisaṃvedayate /
+> adhipatiphalaṃ kasmāt pratisaṃvedayate /
+> sādhāraṇakarmasaṃbhūtatvāt /
 > niḥṣyando hetusadṛśaḥ /
-> hetor yaḥ sadṛśo dharmaḥ sa niṣyandaphalam /
+> hetoryaḥ sadṛśo dharmaḥ sa niṣyandaphalam /
+> tadyathā sabhāgasarvatragahetvoḥ /
+> yadi sarvatragahetorapi samānaṃ phalaṃ kasmānna sabhāgahetoreveṣyate /
 > yasmāt bhūmitaḥ kliṣṭatayā cāsya sādṛśyaṃ natu prakārataḥ /
-> visaṃyogaḥ kṣayo dhiyā // 2.57 //
+> yasya tu prakārato 'pi sādṛśyaṃ so 'bhyupagamyata eva sabhāgahetuḥ /
+> atha eva yo yasya sabhāgahetuḥ sarvatragaheturapi sa tasyeti catuṣkoṭikaḥ kriyate /
+> prathamā koṭirasarvatragaḥ sabhāgahetuḥ /
+> dvitīyā 'nyanaikāyikaḥ sarvatragahetuḥ /
+> tṛtīyaikanaikāyikaḥ sarvatragahetuḥ /
+> caturthyatānākārānsthāpayitveti /
+> visaṃyogaḥ kṣayo dhiyā // VAkK_2.57 //
 > kṣayo nirodhaḥ /
 > dhīḥ prajñā /
 > tenā pratisaṃkhyā nirodho visaṃyogaphalamityuktaṃ bhavati /
 
-These are selected lines from 95.10–96.02 in
-[the running witness](../../Sources/kosabhasya.txt). The verse's
-closing line is at 96.01; the following prose identifies *dhī* with
-*prajñā*. The source unit runs further into the next fruit definition.
-The form *utarakālaṃ* is retained as printed. This is not a collation.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 95.09 through 96.02. Source spellings and damaged readings
+are retained. The next fruit definition begins at 96.03.
 
-## 3. Conventional Argument Summary
+## 3. Continuous Conventional Translation
 
-Maturation is an unobscured-indeterminate dharma classed with a
-sentient being and arisen from wholesome or unwholesome, determinate
-karma. It arises later, neither together with its cause nor immediately
-after it. Unlike a shareable result of common karma, maturation is
-unshared: one person does not experience the maturation of another's
-karma.
+What are maturation-fruit and the other fruits? Maturation is an
+unobscured-indeterminate dharma. That description alone might
+include a non-sentient thing; the verse therefore adds that it is
+classed with a sentient being. It might still be a product of
+accumulation or a homogeneous outflow; the verse adds that it arises
+from what is ethically determinate. Wholesome and unwholesome
+[actions] are determinate in relation to maturation. A maturation
+arises later, neither together with its cause nor immediately after
+it. These are its defining features.
 
-Homogeneous outflow resembles its cause. With a pervasive cause,
-likeness lies in level and afflicted character, not necessarily in
-kind. A result also like its cause in kind can be assigned to
-homogeneous cause; the prose then distinguishes the two causal
-relations through a fourfold comparison.
+Why is a non-sentient thing produced by action not maturation?
+Because it is shareable: others can enjoy it in the same way.
+Maturation is not shared; no one experiences the maturation of
+another's action. Why, then, can someone experience a dominant
+fruit [of another's action]? Because it arises from action held in
+common.
 
-Disconnection is cessation by *dhī*, here explained as *prajñā* or
-Discrimination. Thus it is cessation through discriminative
-comprehension. This passage states the definition, without supplying
-a production mechanism.
+A homogeneous outflow is a dharma resembling its cause, as with the
+homogeneous and pervasive causes. If the pervasive cause also has
+a similar fruit, why is it not simply a homogeneous cause? Its
+fruit resembles it in level and afflicted character, but not
+necessarily in kind. Where it is also similar in kind, it is
+accepted as a homogeneous cause as well. Accordingly, a fourfold
+comparison asks whether a cause is homogeneous, pervasive, both,
+or neither. The first case is a homogeneous cause that is not
+pervasive. The second is a pervasive cause for a dharma of another
+class. The third is a pervasive cause for one of its own class.
+The fourth excludes those cases [its source phrase is damaged].
 
-## 4. Interpretation
+Disconnection is cessation through *dhī*. “Cessation” means
+stopping, and *dhī* means *prajñā*, Discrimination. Thus cessation
+through discrimination is called the fruit of disconnection.
 
-Maturation is later, unshared, indeterminate, from the determinate. Outflow is similar. Pervasive likeness is level and affliction, not type. Disconnection is cessation by Discrimination. Mechanism not given.
+## 4. Reading Control
+
+The maturation definition accumulates restrictions: unobscured-
+indeterminate, sentient-classified, born from ethically determinate
+action, and temporally delayed. The outflow discussion distinguishes
+similarity of level and affliction from similarity of kind, then
+cross-classifies homogeneous and pervasive causes. The final
+*visaṃyoga* line names cessation through Discrimination; it does
+not say that Discrimination produces an unconditioned entity.
 
 ## 5. Review Status
 
-The selected witness and argument summary distinguish verse predicates
-from the Bhāṣya’s timing, unshared maturation, and qualified outflow
-likeness. The definition of disconnection is retained without adding
-a production claim. The next verse continues with efficacy-fruit.
+The complete Sanskrit witness has been checked against the local
+source from 95.09 through 96.02. The continuous translation now
+covers maturation's exclusions, shareable and unshared fruits,
+qualified similarity, the fourfold comparison, and disconnection.
+The damaged fourth case remains marked. The kārikā Grammar and
+Logic files were not changed in this pass.

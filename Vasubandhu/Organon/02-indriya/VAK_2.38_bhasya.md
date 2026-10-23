@@ -14,39 +14,42 @@
 
 ## 2. Continuous Sanskrit Witness
 
-> śaikṣāṇāṃ dharmāṇāṃ śaikṣaiva prāptiḥ aśaikṣāṇām aśaikṣī naśaikṣāśaikṣāṇāṃ tu bhedaḥ /
-> sa nirdiśyate /
-> tridhā naśaikṣāśaikṣāṇām /
-> naiva śaikṣānāśaikṣā dharmā ucyante sāsravā dharmā asaṃskṛtaṃ ca /
+> śaikṣāṇāṃ dharmāṇāṃ śaikṣaiva prāptiḥ akṣaikṣāṇāmaśaikṣānāśaikṣāṇāntubhedaḥ /
+> sa nirdiśyate
+> tridhā naśaikṣā 'śaikṣāṇāṃ
+> naivaśaikṣānāśaikṣā dharmā ucyante sāsravā dharmā asaṃskāṛtaṃ ca /
 > teṣāṃ śaikṣādibhedena trividhā prāptiḥ /
-> sāsravāṇāṃ tāvan naiva śaikṣānāśaikṣī prāptiḥ /
-> apratisaṃkhyānirodhasya ca pratisaṃkhyānirodhasya cānāryeṇa prāptasya /
-> tasyaiva śaikṣeṇa mārgeṇa prāptasya śaikṣī aśaikṣeṇāśaikṣī /
-> darśanabhāvanāheyānāṃ yathākramaṃ darśanabhāvanāheyaiva prāptiḥ /
-> aheyānāṃ tu bhedaḥ / sa nirdiśyate /
+> sāsravāṇāṃ tāvat naivaśaikṣānāśaikṣī prāptiḥ /
+> apratisaṃkhyānirodhasya ca pratisaṃkhyānirodhasya cānāryeṇa praptasya /
+> tasyaiva śaikṣeṇa mārgeṇa praptasya śaikṣī aśaikṣeṇāśaikṣī /
+> darśanabhāvanāheyānāṃ yathākramaṃ darāśanabhāvanāheyaiva parāptiḥ /
+> aheyānāṃ tu bhedaḥ /
+> sa nirdiśyate
 > aheyānāṃ dvidhā matā /
-> apraheyā dharmā anāsravāḥ /
-> teṣām apratisaṃkhyānirodhasya bhāvanāheyā prāptiḥ anāryaprāptasya ca pratisaṃkhyānirodhasya /
+> apraheyādharmā anāsravāḥ /
+> teṣāmapratisaṃkhyānirodhasya bhāvanāheyā prāptiḥ anāryaprāptasya ca pratisaṃkhyānirodhasya /
 > tasyaivāryamārgaprāptasyānāsravā 'heyā mārgasatyasya ca /
-> yad uktaṃ "traiyadhvikānāṃ trividhā" iti tasyotsargasyāyam apavādaḥ /
-> avyākṛtāptiḥ sahajā /
-> anivṛtāvyākṛtānāṃ sahajaiva prāptir nāgrajā na paścātkālajā /
+> yaduktaṃ "traiyadhvikānāṃ trividhe" ti tasyotsargasyāyamapavādaḥ
+> avyākṛtāptiḥ sahajā
+> anivṛtāvyākṛtānāṃ sahajaiva prāptirnāgrajā na paścātkālajā /
 > durbalatvāt /
-> tena teṣām atītānām atītaiva yāvat pratyutpannānāṃ pratyutpannaiva /
-> kiṃ sarvasyaivānivṛtāvyākṛtasya / na sarvasya /
-> abhijñānairmāṇikād ṛte // 2.38 //
+> tenateṣāmatītānāmatītaiva yāvat pratyutpannānāṃ pratyutpannaiva /
+> kiṃ sarvasyaivānivṛtāvyākṛtasya /
+> na sarvasya /
+> abhijñānairmāṇikādṛte // VAkK_2.38 //
 > dve abhijñe avyākṛte nirmāṇacittaṃ ca varjayitvā /
-> teṣāṃ hi balavattvāt prayogaviśeṣaniṣpatteḥ pūrvaṃ paścāt sahajā prāptiḥ /
-> śailpasthānikasyāpi kasyacid īryāpathikasyātyartham abhyastasyecchanti /
+> teṣāṃ hi balavattvāt prayogaviśeṣaniṣpatteḥ pūrva paścāt sahajā prāptiḥ /
+> śailpasthānikasyāpi kasyacidīryāpathikasyā
+> tyarthamabhyastasyecchanti /
 
-The unit begins with the status transition at 64.25–65.01 and ends
-at 65.20 in [the running witness](../../Sources/kosabhasya.txt).
-This is a normalized study transcription, not a collation. It
-regularizes the damaged opening *akṣaikṣāṇāmaśaikṣānāśaikṣāṇāntu*,
-as well as *asaṃskāṛtaṃ*, *darāśana-*, *parāptiḥ*, and the quoted
-*trividhe*. The final line's split *īryāpathikasyā / tyartham*
-is joined; its craft/deportment extension remains attributed by
-*icchanti*, “they accept.”
+The unit runs from printed 64.25 through 65.20 in
+[the running witness](../../Sources/kosabhasya.txt). This is an exact
+local-source transcription apart from removal of page locators and
+indentation. The opening *akṣaikṣāṇāmaśaikṣānāśaikṣāṇāntu*,
+*asaṃskāṛtaṃ*, *darāśana-*, *parāptiḥ*, the quoted *trividhe*,
+and the split *īryāpathikasyā / tyartham* remain as printed.
+The last sentence reports a further acceptance with *icchanti*.
+The question at 65.21 introduces 2.39.
 
 ## 3. Continuous Conventional Translation
 
@@ -54,10 +57,10 @@ Acquisition of dharmas in training is itself in training; acquisition
 of those beyond training is beyond training. For those neither in
 training nor beyond training, there is a distinction. It is stated:
 threefold for those neither in training nor beyond training.
-Contaminated dharmas and the unconditioned are called neither in
+Dharmas with *āsrava* and the unconditioned are called neither in
 training nor beyond training. Their acquisition is threefold according
 to the distinction of in training and so forth. Acquisition of
-contaminated dharmas is neither in training nor beyond training.
+dharmas with *āsrava* is neither in training nor beyond training.
 So too is acquisition of cessation not through Discrimination,
 and of cessation through Discrimination acquired by an ordinary
 person. Acquisition of that same cessation through a trainee path
@@ -67,11 +70,11 @@ Acquisition of dharmas abandonable through seeing and through
 cultivation is respectively abandonable through seeing and through
 cultivation. For those not to be abandoned, however, there is a
 distinction. It is stated: acquisition of those not to be abandoned
-is held to be twofold. Dharmas not to be abandoned are uncontaminated.
+is held to be twofold. Dharmas not to be abandoned are *anāsrava*.
 Among these, acquisition of cessation not through Discrimination
 is abandonable through cultivation, as is acquisition of cessation
 through Discrimination acquired by an ordinary person. Acquisition
-of that same cessation through a noble path is uncontaminated and
+of that same cessation through a noble path is *anāsrava* and
 not to be abandoned, as is acquisition of path-truth.
 
 What was said—“threefold for dharmas of the three times”—is the
@@ -92,14 +95,14 @@ and for greatly habituated deportment-based cases.
 
 | Acquired dharma or acquisition context | Acquisition status |
 |---|---|
-| Contaminated dharmas | Neither in training nor beyond training |
+| Dharmas with *āsrava* | Neither in training nor beyond training |
 | Cessation not through Discrimination | Neither in training nor beyond training |
 | Cessation through Discrimination, acquired by an ordinary person | Neither in training nor beyond training |
 | The same cessation, acquired through a trainee path | In training |
 | The same cessation, acquired through a path beyond training | Beyond training |
 
 The threefold range is collective. It does not mean that every
-contaminated dharma can have trainee acquisition. The opening also
+dharma with *āsrava* can have trainee acquisition. The opening also
 preserves the cases where status does correspond: trainee dharmas
 and dharmas beyond training have acquisition of the respective status.
 The unconditioned heading does not revoke 2.36's exclusion of space.
@@ -134,25 +137,27 @@ not make every skill a superknowledge or every unobscured-indeterminate
 dharma strong. Neither “co-arisen” nor the weakness explanation means
 innate. The obscured Form continuation belongs to 2.39.
 
-## 7. Interpretation
+## 7. Reading Control
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, without becoming interchangeable
-with consciousness or Mind. The acquisition dyad requires relational
-determination, not the copying of a dharma's attributes onto an
-undifferentiated possession flag. The path by which cessation is
-acquired changes acquisition's status without turning cessation
-itself into a trainee dharma. Temporal restriction supplies another
-relation, not a substitute for path or abandonment classification.
+The threefold training-status count and twofold abandonment count
+each cover several cases; neither says that every individual dharma
+admits every acquisition class. The path by which cessation through
+Discrimination is acquired changes the acquisition's class without
+changing the cessation into a trainee dharma. The co-arisen rule
+then restricts the earlier temporal classification; its explicit
+exceptions are explained by strength derived from practice. These
+are separate qualifications of acquisition, not definitions of
+the listed dharmas' own natures.
 
 ## 8. Review Status
 
-Paired source QA and executable Grammar–Logic review completed.
-The status transition, respectively matched abandonment classes,
+The complete 64.25–65.20 Sanskrit passage has been checked against
+the local source. The kārikā Grammar and Logic were left alone in
+this pass. The status transition, respectively matched abandonment classes,
 subtype explanations, temporal exception argument, and attributed
 craft/deportment extension are restored in Sanskrit and English.
 Both aggregate counts are checked through their actual case sets.
 The main temporal exceptions remain two unnamed superknowledge
 slots and creation-consciousness; the further attributed extension
 is not silently promoted into the verse's enumeration. The next
-paired unit is 2.39; only its opening boundary has been consulted.
+paired unit is 2.39.

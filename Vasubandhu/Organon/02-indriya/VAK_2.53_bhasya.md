@@ -8,46 +8,146 @@
 
 > Application-produced qualities are homogeneous causes of the equal or
 > superior only: those born of hearing, thought, and cultivation.
-> Associated cause is consciousness and mental factors sharing one
-> support.
+> Associated cause is mind and mental factors sharing one
+> Basis.
 
-## 2. Sanskrit Witness — Selected Passages
+## 2. Continuous Sanskrit Witness
 
-> prayogajās tayor eva /
-> samaviśiṣṭayoḥ sabhāgahetur bhavanti na nyūnasya /
+> laukikā api hi
+> prayogajāstayoreva
+> samaviśiṣṭayoḥ sabhāgaheturbhavanti na nyūnasya /
+> yathā katame ityāha
 > śrutacintāmayādikāḥ /
-> ete hi prāyogikāḥ śrutacintābhāvanāmayā guṇāḥ samaviśiṣṭayor eva hetur nanyūnānām /
-> saṃprayuktakahetus tu cittacaittāḥ samāśrayāḥ // 2.53 //
+> ete hi prāyogikāḥ śrutacintābhāvanāmayā guṇāḥ samaviśiṣṭayoreva heturnanyūnānām /
+> tadyathā kāmāvacarāḥ śrutamayāḥ śrutacintāmayānāṃ cintāmayācintāmayānām /
+> bhāvanāmayābhāvāt /
+> rūpāvacarāḥ śrutamayāḥ śrutabhāvanāmayānāṃ cintāmayābhāvāt /
+> bhāvanāmayā bhāvanāmayānāmeva /
+> ārūpyāvacarābhāvanāmayā bhāvanāmayānāmeva /
+> teṣāmapi navaprakārabhedāt mṛdumṛdavaḥ sarveṣāṃ mṛdumadhyā aṣṭānāmityeṣānītiḥ /
+> upapattipratilambhikāstu kuśalā dharmāḥ sarve navaprakārāḥ paraspara sabhāgahetuḥ /
+> kliṣṭā apyevam /
+> anivṛtāvyākṛtāstu caturvidhāḥ /
+> vipākajā airyapathikāḥ śailpasthānikāḥ nirmāṇacittasahajāśca /
+> te yathākramaṃ catustrīdvekeṣāṃ sabhāgahetuḥ nirmāṇacittamapoi kāmāvacara caturdhyanaphalam /
+> tatra nottaradhyānaphalamadharadhyānaphalasya /
+> nahyābhisaṃskārikasya sabhāgahetorhīyamānaṃ phalaṃ bhavati /
+> tadyathā śāliryavādīnāṃ mā bhūnniṣphalaḥ prayatna iti /
+> ata eva cāhuḥ syādutpanno 'nāsravo 'nutpannasyāsravasya na hetuḥ syāttadyathā duḥkhe dharmajñānamutpanāmanutpannānāṃ duḥkhe dharmajñānakṣāntīnām/
+> sarvaṃ ca viśiṣṭaṃ nyūnasya na hetuḥ /
+> syādekasantānaniyataḥ pūrvapratilabdho 'nāsravo dharmaḥ paścādutpannasya nahetuḥ /
+> syādanāgatāḥ duḥkhe dharmajñānakṣāntayo duḥkhe dharmajñānasyayasmānna pūrvataraṃ phalamastyanāgato vā sabhāgahetuḥ /
+> syāt pūrvotpanno 'nāsravo dharmaḥ paścādutpannasyānāsravasya na hetuḥ /
+> syādavimātro nyūnasya /
+> tadyathottaraphalaparihīṇasyāvara phalasaṃmukhībhāve duḥkhe dharmajñānaprāptiścottarottara kṣaṇa sahotpannānāṃ duḥkhe dharmajñānakṣāntiprāptīnāṃ nyūnatvāditi /
+> uktaḥ sabhāgahetuḥ /
+> saṃprayuktakahetustu cittacaittāḥ /
 > evaṃ sati bhinnakālasantānajānāma pyanyonyasaṃprayuktakahetutvaprasaṅgaḥ /
 > ekākārā lambanāstarhi /
+> evamapi sa eva prasaṅgaḥ /
 > ekakālāstarhi /
 > evaṃ tarhi sati bhinnasantānajānāmapi prasaṅgo navacandrādīni paśyatām /
+> tasmāttarhi
+> samāśrayāḥ // VAkK_2.53 //
 > samāna āśrayo yeṣāṃ te cittacaittāḥ anyonyaṃ saṃprayuktakahetuḥ /
 > samāna ityabhinnastatadyathā ya eva cakṣurindriyakṣaṇaścakṣurvijñānasyāśrayaḥ sa eva tatsaṃprayuktānāṃ vedanādīnāmeva yāvanmanaḥ /
+> indriyakṣaṇo manovijñānatsaṃprayukṭānāṃ veditavyaḥ /
 > yaḥ saṃprayuktakahetuḥ sahabhūheturapi saḥ /
+> atha kenārthena sahabhūhetuḥ kena saṃprayuktakahetuḥ /
 > anyonyaphalārthena sahabhūhetuḥ /
+> sahasārthikānyonyabalamārgaprayāṇavat /
 > pañcabhiḥ samatābhiḥ saṃprayogārthena saṃprayuktakahetuḥ /
+> teṣāmeva sārthikānāṃ samānānnapānādiparibhogakriyāprayogavat /
+> ekenāpi hi vinā sarveṇa na saṃprayujyanta ityayameṣāṃ hetubhāvaḥ /
+> uktaḥ saṃprayuktakahetuḥ /
 
-These are selected lines from 87.20–88.27 in
-[the running witness](../../Sources/kosabhasya.txt). The source's
-segmented verse label has been replaced by the project number; the
-other quoted lines retain compressed or damaged wording. The quoted
-support-identity line is at 88.20–22, and the five-equalities line
-at 88.24–25. This is not a collation or a complete transcription.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 87.20–21 through 88.27. The opening answers the question at
+87.20, already quoted with 2.52. Source spelling and damaged
+readings are retained; the pervasive-cause question begins at 89.01.
 
-## 3. Conventional Argument Summary
+## 3. Continuous Conventional Translation
 
-Worldly qualities produced by application are homogeneous causes of the equal or the superior only. Hearing, thought, cultivation, by realm, as each is present. Nine grades, downward in reach as the grade rises. Birth-acquired wholesome, and the afflicted, of one another. Four unobscured-indeterminate, of four, three, two, and one. Effort is not fruitless. Decline is still stated. Prior acquisition is not prior arising. A future dharma is not this cause.
+Worldly qualities produced through application are also homogeneous
+causes only of what is equal or superior, not of what is inferior.
+Which are these? Qualities formed through hearing, thinking, and
+cultivation. In the Desire Realm, what is formed through hearing
+causes what is formed through hearing or thinking; what is formed
+through thinking causes what is formed through thinking. There is
+nothing formed through cultivation there. In the Form Realm, what
+is formed through hearing causes what is formed through hearing or
+cultivation, since the thought-formed kind is absent; the
+cultivation-formed causes its own kind. In the Formless Realm, the
+cultivation-formed likewise causes only its own kind.
 
-Associated cause requires the same support. Aspect, object, and time are not enough. The new moon is the other-continuum case. Same means non-different: one faculty-moment. Associated is also co-arisen. Not the converse. Five equalities. The associated cause has been explained.
+These qualities also divide into nine grades. The weakest of the
+weak is a cause of all nine; the middle of the weak is a cause of
+eight; continue the series accordingly. Wholesome dharmas acquired
+by birth, in all nine grades, are homogeneous causes of one another;
+the afflicted are likewise. Unobscured-indeterminate dharmas are
+fourfold: maturation-born, connected with modes of conduct,
+connected with crafts, and co-arisen with a mind of creation.
+In that order they are homogeneous causes of four, three, two,
+and one kinds. A mind of creation can also be a result of the four
+meditations; one resulting from a higher meditation does not cause
+one resulting from a lower meditation. A homogeneous cause produced
+by deliberate formation has no inferior result, just as rice is not
+a cause of barley and the like: effort should not become fruitless.
 
-## 4. Interpretation
+For this reason it is said that an arisen dharma without *āsrava*
+may fail to be a cause of one without *āsrava* that has not arisen:
+Dharma Knowledge of suffering already arisen, for example, is not
+a cause of future receptivities to that knowledge. In general,
+what is superior does not cause what is inferior. Even within one
+continuum, an earlier acquired dharma without *āsrava* may not be
+a cause of one arising later. Future receptivities to Dharma
+Knowledge of suffering are not causes of that knowledge: the result
+cannot precede the cause, and a future dharma is not a homogeneous
+cause. An earlier arisen dharma without *āsrava* may likewise fail
+to cause one arising later if the former is superior and the latter
+inferior. For example, when someone falls from a higher attainment
+and a lower one becomes present, an acquisition of Dharma Knowledge
+of suffering can stand beside later moments of acquisition of its
+receptivity; their grades differ [the compressed source wording here
+requires further collation]. The homogeneous cause has been explained.
 
-Application-produced is equal or superior only. Associated is the same support, five equalities. Also co-arisen, not the converse. Same support is non-different, not same kind.
+Associated cause, then, concerns mind and mental factors. Would this
+make factors arising at different times or in different continuums
+associated causes of one another? Say they have the same aspect and
+Support: the objection still applies. Say they occur at the same
+time: the objection still applies to different continuums, as when
+people see the new moon and similar objects. They must therefore
+share a Basis. Mind and mental factors with the same Basis are
+associated causes of one another. “Same” means numerically
+identical: the very moment of eye Faculty that is the Basis of eye
+Cognition is also the Basis of its associated feelings and other
+factors; similarly, for mind Cognition and its associated factors,
+the same moment of mind Faculty serves as Basis.
+
+An associated cause is also a co-arisen cause. In what respect is
+it co-arisen, and in what respect associated? It is co-arisen through
+mutual result, like companions traveling a road by one another's
+strength. It is associated through five equalities, like those same
+companions sharing food, drink, and other activities. Without even
+one of these equalities they are not associated in every respect;
+this is their causal relation. The associated cause has been
+explained.
+
+## 4. Reading Control
+
+The first part completes the homogeneous-cause discussion by limiting
+application-produced qualities to equal or superior results while
+specifying Realm and grade. The second part introduces associated
+cause. Shared aspect, Support, and time do not suffice across distinct
+continuums; the same Basis means the identical Faculty moment, not
+merely a Faculty of the same kind. The associated pair is also
+co-arisen through mutual result, but co-arising alone does not
+establish association. The five equalities are invoked here without
+being enumerated.
 
 ### Grammar of the Bhāṣya determination
 
-This selected proposition at [088|20] supplies the missing numerical force of *samāśrayāḥ*. Sandhi and inflection are normalized for parsing; the quoted witness above remains unchanged. The grammar derives association from the named consciousness/factor pair with identical support, rather than from merely similar support kinds.
+This proposition at [088|20] specifies the numerical force of *samāśrayāḥ*. Sandhi and inflection are normalized for parsing; the quoted witness above remains unchanged. The grammar derives association from the named mind/factor pair with an identical Basis, rather than from merely similar Basis kinds.
 
 ```text
 # tokens: samānaḥ āśrayaḥ yeṣām te cittacaittāḥ anyonyam saṃprayuktakahetuḥ
@@ -72,7 +172,7 @@ CAUSE[CASE=nom,NUM=sg] -> 'saṃprayuktakahetuḥ'
 
 ### Logic of the Bhāṣya argument
 
-The source moves through objections: common aspect/object, then common time, then the different-continuum counterexample, before requiring the identical support moment at [088|20–22]. The five equalities and the relation to co-arisen cause are stated at [088|22–26]. The finite theories make those steps testable; they are not asserted to be an exhaustive parse of the full, uncollated prose unit.
+The source moves through objections: common aspect/object, then common time, then the different-continuum counterexample, before requiring the identical support moment at [088|20–22]. The five equalities and the relation to co-arisen cause are stated at [088|22–26]. The finite theories represent selected steps; they are not an exhaustive parse of the continuous prose unit.
 
 ```nltk-sem
 association : SameSupport(citta,caitta) & AssociatedCause(citta,caitta) & AssociatedCause(caitta,citta)
@@ -122,4 +222,10 @@ The first rejected theory tests the Bhāṣya's different-continuum objection. T
 
 ## 5. Review Status
 
-Grammar and Logic pass added for the selected [088|20] Bhāṣya proposition and its surrounding argument. The selected Sanskrit witness remains partial and uncollated; the fuller source unit and disputed readings still need editorial review. The pervasive cause is next.
+The complete 47-line Sanskrit witness has been checked against the
+local source from 87.20–21 through 88.27. The continuous translation
+now covers the Realm and grade cases, exceptional temporal examples,
+and the associated-cause argument through its five equalities and
+closing statement. Damaged wording remains marked. The embedded
+study grammar and logic have not been re-tested in this pass, and
+the separate kārikā Grammar and Logic files were not changed.

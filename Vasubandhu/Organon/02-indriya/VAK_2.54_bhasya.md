@@ -8,40 +8,182 @@
 
 > The cause called pervasive is the prior pervasive dharmas of a level,
 > for later afflicted dharmas on that same level. Maturation cause is
-> unwholesome and wholesome with influx.
+> unwholesome and wholesome with *āsrava*.
 
-## 2. Sanskrit Witness — Selected Passages
+## 2. Continuous Sanskrit Witness
 
 > sarvatragahetuḥ katamaḥ /
-> sarvatragākhyaḥ kliṣṭānāṃ svabhūmau pūrvasarvagāḥ /
+> sarvatragākhyaḥ klilṣṭānāṃ svabhūmau pūrvasarvagāḥ /
 > svabhūmikāḥ pūrvotpannāḥ sarvatragā dharmāḥ paścimānāṃ kliṣṭānāṃ dharmāṇāṃ sarvatragahetuḥ /
-> vipākahetur aśubhāḥ kuśalāś caiva sāsravāḥ // 2.54 //
+> tān punaḥ paścādanuśayanirdeśakośasthāna eva vyākhyāsyāmaḥ /
+> kliṣṭadharmasāmānyakāraṇatvenāyaṃ sabhāgahetoḥ pṛthak vyavasthāpyate /
+> nikāyāntarīyāṇāmapi hetutvādeṣāṃ hi prabhāveṇānyanaikāyikā api kleśā upajāyante /
+> kimāryapudgalasyāpi kliṣṭā dharmāḥ sarvatragahetukāḥ /
+> sarva eva kliṣṭā dharmā darśanaprahātavyahetukā iti kāśmīrāḥ /
+> tathā prakāraṇeṣūktaṃ "darśanaprahātavyahetukāḥ dharmāḥ katame /
+> kliṣṭā dharmāḥ yaśca darśanaprahātavyānāṃ dharmāṇāṃ vipāka iti /
+> avyākṛtahetukā dharmāḥ katame /
+> avyākṛtāḥ saṃskṛtā dharmā akuśalāśceti /
+> duḥkhasatyaṃ syāt satkāyadṛṣṭihetukaṃ na satkāyadṛṣṭerheturiti vistaro yāvanna satkāyadṛṣṭeḥ teṣāṃ ca dharmāṇāṃ jātiṃ jarāṃ sthitimanityatāṃ ca sthāpayitvā yattadanyat kliṣṭam duḥkhasatya"miti /
+> idaṃ tarhi prajñaptibhāṣyaṃ kathaṃ nīyate "syāddharmo 'kuśalo 'kuśalahetuka eva /
+> syādāryapudgalaḥ kāmavairāgyāt parihīyamāṇo yāṃ tatprathamataḥ klilṣṭāñcetanāṃ saṃmukhīkarotī"ti /
+> aprahīṇahetumetat saṃdhāyoktam /
+> darśanaprahātavyo hi tasyā hetuḥ prahīṇatvānnoktaḥ /
+> uktaḥ sarvadagahetuḥ /
+> vipākahetuḥ katamaḥ /
+> vipākaheturaśubhāḥ kuśalāścaiva sāsravāḥ // VAkK_2.54 //
 > akuśalāḥ kuśalasāsravāśca dharmā vipākahetuḥ /
+> vipākadharmatvāt /
 > kasmādavyākṛtā dharmāḥ vipākaṃ na nirvarttayanti /
-> durbalatvāt / pūti bījavat /
-> kasmānnānāsravāḥ / tṛṣṇānabhiṣyanditatvāt /
+> durbalatvāt /
+> pūti bījavat /
+> kasmānnānāsravāḥ /
+> tṛṣṇānabhiṣyanditatvāt /
+> anabhiṣyanditasārabījavat /
+> apratisaṃyuktā hi kiṃpratisaṃyuktaṃ vipākamabhinirvarttayeyuḥ /
+> śeṣāstūbhayavidhatvānnirvarttayanti /
+> sārābhiṣyanditabījavat /
+> kathamidaṃ vijñātavyaṃ vipākasya heturvipākaheturāhosvidvipāka eva heturvipākahetuḥ /
+> kiṃ cātaḥ /
+> yadi vipākasya heturvipākahetuḥ "vīpākajaṃ cakṣuri"ti etanna prāpnoti /
+> atha vipāka eva heturvipākahetuḥ "karmaṇo vipāka" ityetanna prāpnoti /
+> naiṣa doṣaḥ /
+> "ubhayathāpi yoga" ityuktaṃ prāk //
+> atha vipāka iti ko 'rthaḥ /
 > visadṛśaḥ pāko vipākaḥ /
+> anyeṣāṃ tu hetūnāṃ sadṛśaḥ pākaḥ /
 > ekasyobhayatheti vaibhāṣikāḥ /
+> naiva tu teṣāṃ pāko yuktaḥ /
 > pāko hi nāma santatipariṇāmaviśeṣajaḥ phalaparyantaḥ /
+> na ca sahābhūsaṃprayuktahetvoḥ santatipariṇāmaviśeṣajaṃ phalamasti /
+> na cāpi sabhāgahetvādīnāṃ phalaparyanto 'sti /
+> punaḥ punaḥ kuśalādyāsaṃsāraphalatvāt /
+> kāmadhātāvekaskandhako vipākaheturekaphalaḥ pratyayastajjātyādayaśca /
+> dviskandhaka ekaphalaḥ kāyavākkarma tajjātyādayaśca /
+> catuskandhaka ekaphalaḥ kuśalākuśalāścittacaittāḥ saha jātyādibhiḥ //
+> rūpadhātāvekaskandhako vīpākaheturekaphalaḥ prāptirasaṃjñisamāpattiśca saha jātyādibhiḥ /
+> dviskandhaka ekaphalaḥ prathame dhyāne vijñaptiḥ saha jātyādibhiḥ /
+> catuskandhaka ekaphalaḥ kuśale cetasyasamāhite /
+> pañcaskandhaka ekaphalaḥ samāhite //
+> ārūpyadhātāvekaskandhako vipākaheturekaphalaḥ prāptirnirodhasamāpatiśca saha jātyādibhiḥ /
+> catuskandhakaḥ kuśalāścittacaittāḥ tajjātyādayaśca /
+> asti karma yasyaikameva dharmāyatanaṃ vīpāko vipacyate jīvitendriyam /
+> yasya mana āyatanaṃ tasya dve manodharmāyatane /
+> evaṃ yasya spraṣṭavyāyatanaṃ yasya kāyāyatanaṃ tasya trīṇi kāyaspraṣṭavyadharmāyatanāni /
+> evaṃ yasya rūpagandharasāyatanāni /
+> yasya cakṣurāyatanaṃ tasya catvāri cakṣuḥkāyaspraṣṭavyadharmāyatanāni /
+> evaṃ yasya śrotragrāṇajihvāyatanāni /
+> asti tat karma yasya pañca ṣaṭ saptāṣṭau nava daśaikādaśāyatanāni vipāko vipacyate /
+> vicitrāvicitraphalatvāt karmaṇo bāhyabījavat /
+> tadyathā bāhyāni vījāni kānicidvicitraphalāni bhavanti /
+> tadyathā padmadāḍimanyagrodhādīnām /
+> kānicidavicitraphālāni tadyathā yavagodūmādīnām /
+> ekādhvikasya karmaṇastraiyadhviko vipāko vipacyate /
+> na tu dvaiyadhvikasyāpyekādhviko mā bhūdatinyūnaṃ hetoḥ phalamiti /
+> ekamekakṣanikasya bahukṣāṇiko nanu viparyayāt /
 > na ca karmaṇā saha vipāko vipacyate nāpyanantaraṃ samanantarapratyayākṛṣṭatvāt samanantarakṣaṇasya /
 > pravāhāpekṣo hi vipākahetuḥ /
 
-These are selected lines from 89.01–90.22 in
-[the running witness](../../Sources/kosabhasya.txt), not a complete
-transcription or collation. The excluded classes, reported Vaibhāṣika
-view, and delayed-continuum conclusion are kept at prose level.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 89.01 through 90.22. Its spellings and damaged readings are
+retained. The temporal classification of the causes begins at 90.23.
 
-## 3. Conventional Argument Summary
+## 3. Continuous Conventional Translation
 
-Prior pervasive dharmas of a level cause later afflicted dharmas on that level, including another class. The list is later. A noble person's afflicted dharmas still have a seeing-abandoned cause, unmentioned because abandoned. Unwholesome and wholesome with influx mature. Indeterminate are weak. Uncontaminated are not moistened by craving. The prose first calls maturation a dissimilar ripening and reports the Vaibhāṣika allowance of two senses. It then argues that ripening, properly so called, reaches its result through a special transformation of a continuum; the other causal kinds lack that pattern. The cause depends on a series. Not together with the karma, and not immediately after.
+What is pervasive cause? Pervasive dharmas that arose earlier on their
+own level cause later afflicted dharmas on that level. They will be
+explained in the later Kośa section on underlying tendencies. This
+cause is distinguished from homogeneous cause because it is a common
+cause of afflicted dharmas: its influence extends to afflictions of
+other classes. Do even an ārya's afflicted dharmas have a pervasive
+cause? The Kashmir teachers say that all afflicted dharmas have a
+cause abandoned by seeing. A cited *Prakaraṇa* passage calls
+“caused by what is abandoned by seeing” both afflicted dharmas
+and the maturation of dharmas abandoned by seeing. It also calls
+indeterminate conditioned and unwholesome dharmas “caused by the
+indeterminate,” and raises the case of suffering-truth caused by
+identity-view without causing identity-view, apart from the marks
+of that view and its associated dharmas [the quotation is compressed
+and damaged in this witness].
 
-## 4. Interpretation
+But another cited passage allows an unwholesome dharma caused only
+by an unwholesome cause: a noble person falling from freedom from
+Desire first manifests an afflicted intention. This refers to a
+cause that has not been abandoned. Its cause abandoned by seeing
+is omitted because it has been abandoned. The pervasive cause has
+been explained.
 
-Pervasive cause is prior, own-level, and directed to later affliction even across abandonment classes. Maturation cause is restricted to unwholesome and wholesome-with-influx dharmas. The Bhāṣya argues through exclusions and a contested definition of ripening before requiring a continuum and delayed result.
+What is maturation cause? Unwholesome dharmas and wholesome dharmas
+with *āsrava* are maturation causes, because they are capable of
+maturation. Why do indeterminate dharmas not produce maturation?
+They are weak, like rotten seeds. Why do dharmas without *āsrava*
+not do so? They are not moistened by craving, like sound seeds that
+have not been moistened. Being unconnected [with a Realm], what
+Realm-linked maturation could they produce? The remaining dharmas
+can produce it because they have both firmness and moisture, like
+sound moistened seeds.
+
+Does “maturation cause” mean a cause of maturation, or a cause that
+itself is maturation? If it means the former, how could an eye be
+said to be “born of maturation”? If the latter, how could there be
+“maturation of action”? There is no fault: both constructions are
+admissible, as stated earlier. What does *vipāka* mean? A ripening
+unlike its cause; for other causes the ripening is similar. The
+Vaibhāṣikas say the same cause can bear both senses. But, the reply
+continues, “ripening” is not properly said of those other causes.
+Ripening is a result at the end of a distinctive transformation of
+a continuum. The co-arisen and associated causes lack a result born
+of such a transformation; homogeneous and other causes have no
+terminal result, since wholesome and other dharmas can keep yielding
+results throughout saṃsāra.
+
+In the Desire Realm, a maturation cause comprising one Base and
+having one result consists of a condition [the source reads
+*pratyaya*] and its marks, such as arising. A two-Base case is
+bodily or vocal action with its marks. A four-Base case is wholesome
+or unwholesome mind and mental factors with their marks. In the
+Form Realm, a one-Base case is acquisition or the attainment of
+non-perception with its marks. A two-Base case is manifest expression
+in the first meditation with its marks. A four-Base case is wholesome
+mind outside concentration; a five-Base case occurs in concentration.
+In the Formless Realm, a one-Base case is acquisition or the
+attainment of cessation with its marks; a four-Base case is
+wholesome mind and mental factors with their marks.
+
+Some action ripens as a single Dharma Essence, the life Faculty.
+If it ripens as the Mind Essence, there are two Essences: Mind and
+Dharma. For a tangible Essence or Body Essence there are three:
+Body, Tangible, and Dharma. The same pattern applies where the
+ripening involves the visible, smell, or taste Essence. For an
+Eye Essence there are four: Eye, Body, Tangible, and Dharma;
+likewise for Ear, Nose, and Tongue. Some action ripens as five,
+six, seven, eight, nine, ten, or eleven Essences. Action has varied
+or unvaried results, as external seeds do: lotus, pomegranate,
+and banyan seeds yield varied results, whereas barley and wheat
+seeds yield relatively uniform ones.
+
+Action belonging to one time may ripen through three times. Action
+belonging to two times does not ripen in just one, lest the result
+be too small for its cause. Action of one moment may have a result
+lasting many moments, but not conversely. Maturation does not ripen
+simultaneously with the action, nor in the immediately following
+moment, which is drawn forth by the immediately preceding Condition.
+Maturation cause depends on a continuum.
+
+## 4. Reading Control
+
+Pervasive cause is prior, on its own level, and reaches later
+afflictions even across abandonment classes. The Kashmir teachers'
+answer about an ārya and the cited counterexample retain their
+separate voices. Maturation cause is restricted to unwholesome and
+wholesome dharmas with *āsrava*. The subsequent argument distinguishes
+what merely has a result from a ripening that ends a transformation
+of a continuum; its Realm and Essence inventories apply that account
+before the final temporal restriction.
 
 ### Grammar of the Bhāṣya determination
 
-The selected [089|03] prose sentence resolves the kārikā's compressed pervasive-cause clause: own level, prior arising, and later afflicted result. Its normalized tokens open compounds and inflection for the feature chart; they do not replace the source witness.
+The [089|03] prose sentence resolves the kārikā's compressed pervasive-cause clause: own level, prior arising, and later afflicted result. Its normalized tokens open compounds and inflection for the feature chart; they do not replace the source witness.
 
 ```text
 # tokens: svabhūmikāḥ pūrvotpannāḥ sarvatragāḥ dharmāḥ paścimānām kliṣṭānām dharmāṇām sarvatragahetuḥ
@@ -137,4 +279,11 @@ The finite valuation is a behavioral witness to the attributed argument. It sepa
 
 ## 5. Review Status
 
-Grammar and Logic added for the selected [089|03] Bhāṣya proposition and its surrounding exclusions and ripening argument. The selected Sanskrit witness remains partial and uncollated. The temporal classification is next.
+The complete 71-line Sanskrit witness has been checked against the
+local source from 89.01 through 90.22. The continuous translation now
+covers the pervasive-cause exchange, maturation exclusions and
+terminology, Realm and Essence inventories, and the temporal close.
+Damaged readings remain marked, including the one-Base Desire Realm
+case at 90.04. The embedded study grammar and logic have not been
+re-tested in this pass, and the separate kārikā Grammar and Logic
+files were not changed.

@@ -7,85 +7,90 @@
 > pṛthagjanatvaṃ tatprāptibhūsaṃcārād vihīyate // 2.40 //
 
 > Non-acquisition of dharmas included in the Desire, Form, and Formless
-> Realms, and of uncontaminated dharmas, may belong to any of the three
+> Realms, and of *anāsrava* dharmas, may belong to any of the three
 > Realms. Non-acquisition of the path is held to be ordinary-person
 > status. Non-acquisition is relinquished through acquisition of the
 > dharma concerned or through transition of level.
 
 ## 2. Continuous Sanskrit Witness
 
-> kāmādyāptāmalānāṃ ca /
-> trividheti vartate /
+> kāmādyāptāmalānāṃ ca
+> trividheti varttate /
 > kāmāptānāṃ kāmarūpārūpyāvacarī /
-> evaṃ rūpārūpyāptānām anāsravāṇāṃ ca nāsty anāsravā kācid aprāptiḥ /
-> tathā hi /
-> mārgasyāprāptir iṣyate /
-> pṛthagjanatvam /
-> pṛthagjanatvaṃ katamat /
-> āryadharmāṇām alābha iti śāstrapāṭhaḥ /
-> alābhaś ca nāmāprāptiḥ /
-> na ca pṛthagjanatvam anāsravaṃ bhavitum arhati /
-> katameṣām āryadharmāṇām alābhaḥ /
-> sarveṣām aviśeṣavacanāt /
+> evaṃ rūpārūpyāptānāmanāsravāṇāṃ ca nāstyanāsravā kācidaprāptiḥ /
+> tathāhi /
+> mārgasyāprāptiriṣyate /
+> pṛthagjanatvam
+> "pṛthagjanatvaṃ katamat /
+> āryadharmāṇāmalābha" iti śāstrapāṭhaḥ /
+> alābhaśca nāmāprāptiḥ /
+> naca pṛthagjanatvamanāsravaṃ bhavitumarhati /
+> katameṣāmāryadharmāṇāmalābhaḥ /
+> sarveṣāmaviśeṣavacanāt /
 > sa tu yo vinā lābhenālābhaḥ /
-> anyathā hi buddho 'pi śrāvakapratyekabuddhagotrakair asamanvāgamād anāryaḥ syāt /
-> evaśabdas tarhi paṭhitavyaḥ /
-> na paṭhitavyaḥ / ekapadāny api hy avadhāraṇāni bhavanti /
-> tad yathā abbhakṣo vāyubhakṣa iti /
-> duḥkhe dharmajñānakṣāntitatsahabhuvām alābha ity apare /
-> na ca tadyogād anāryatvaprasaṅgaḥ /
+> anyathā hi cuddho 'pi śrāvakapratyekabuddhagotrakai rasamanvāgamādanāryaḥ syāt /
+> evaśabdastarhi paṭhitavyaḥ /
+> na paṭhitavyaḥ /
+> ekapadānyapi hyavadhāraṇāni bhavanti /
+> tadyathā abbhakṣo vāyubhakṣa iti /
+> duḥkhe dharmajñānakṣāntitatsahabhuvāmalābha ityapare /
+> na ca tadyogā danāryatvaprasaṅgaḥ /
 > tadalābhasyātyantaṃ hatatvāt /
-> te tarhi trigotrā iti katameṣām alābhaḥ /
-> sarveṣām / evaṃ tarhi sa eva doṣaḥ /
+> te tarhi trigotrā iti katameṣāmalābhaḥ /
+> sarveṣām /
+> evaṃ tarhi sa eva doṣaḥ /
 > punaḥ sa eva parihāraḥ /
-> yatnas tarhi vyarthaḥ /
+> yatnastarhi vyarthaḥ /
 > evaṃ tu sādhu yathā sautrāntikānām /
 > kathaṃ ca sautrāntikānām /
-> anutpannāryadharmasantatiḥ pṛthagjanatvam iti /
-> atheyam aprāptiḥ kathaṃ vihīyate /
-> yasya yā dharmasya aprāptir asau /
-> tatprāptibhūsaṃcārād vihīyate // 2.40 //
-> yathā tāvad āryamārgasyālābhaḥ pṛthagjanatvaṃ tasya lābhāt tadvihīyate bhūmisaṃcārāc ca /
-> evam anyeṣām api yojyam /
-> vihīyata iti tasyā aprāpter aprāptir utpadyate prāptiś chidyate /
-> kiṃ punar aprāptiprāptyor api prāptyaprāptī bhavataḥ /
-> ubhayor apy ubhayaṃ bhavatīty āhuḥ /
-> nanu caivam anavasthāprasaṅgaḥ prāptīnām /
-> nānavasthāprasaṅgaḥ / parasparasamanvāgamāt /
+> "anutpannāryadharmasantatiḥ pṛthagjanatvami"ti /
+> atheyamaprāptiḥ kathaṃ vihīyate /
+> yasya yā dharmasya prāptirasau
+> tatprāptibhusaṃcārād vihīyate // VAkK_2.40 //
+> yathā tāvadāryamārgasyālābhaḥ pṛthagjanatvaṃ tasya lābhāttadvihīyate bhūmisaṃcārācca /
+> evamanyeṣāmapi yojyam /
+> vihīyata iti tasyā aprāpteraprāptirutpadyate prāptiśchidyate /
+> kiṃ punaraprāptiprāptyorapi prāptyaprāptī bhavataḥ /
+> ubhayorapyubhayaṃ bhavtītyāhuḥ /
+> nanu caivamanavasthā prasaṅgaḥ praptīnām /
+> nānavasthāprasaṅgaḥ /
+> parasparasamanvāgamāt /
 > ātmanā tṛtīyo hi dharma utpadyate /
-> sa ca dharmas tasya prāptiḥ prāptiprāptiś ca /
-> tatra prāptyutpādāt tena dharmeṇa samanvāgato bhavati prāptiprāptyā ca /
-> prāptiprāptyutpādāt punaḥ prāptyaiva samanvāgato bhavaty ato nānavasthā /
-> evaṃ ca kṛtvā ātmanā tṛtīyasya dharmasya kuśalasya kliṣṭasya kliṣṭasya vā dvitīye kṣaṇe tisraḥ prāptayo jāyante /
-> tāsāṃ ca punas tisro 'nuprāptaya iti ṣaḍ bhavanti /
-> tṛtīye kṣaṇe prathamadvitīyakṣaṇotpannānāṃ dravyāṇāṃ nava prāptayaḥ sārdham anuprāptibhir ity aṣṭādaśa bhavanti /
-> evam uttarottaravṛddhiprasaṅgenaitāḥ prāptayo visarpantyaḥ sarveṣām atītānāgatānāṃ kleśopakleśakṣaṇānām upapattilābhikānāṃ ca kuśalakṣaṇānāṃ saṃprayogasahabhuvām anādyantasaṃsāraparyāpannānām anantā ekasya prāṇinaḥ kṣaṇe kṣaṇe upajāyante ity anantadravyāḥ pratisantānam ātmabhāvakṣaṇāḥ sattvānāṃ bhavanti /
-> atyutsavo vatāyaṃ prāptīnāṃ vartate /
-> kevalaṃ tu apratighātinyo yato 'vakāśam ākāśe labhante /
-> itarathā hy ākāśe 'py avakāśo na syād dvitīyasya prāṇinaḥ //
+> sa ca dharmastasya prāptiḥ prāptiprāptiśca /
+> tatra prāptyutpādāttena dharmeṇa samanvāgato bhavati prāptiprāptyā ca /
+> prāptiprāptyutpādāt punaḥ prāptyaiva samanvāgato bhavatyato nānavsthā /
+> evaṃ ca kṛtva ātmanā tṛtīyasya dharmasya kuśalasya kliṣṭasya kliṣṭasya vā dvitīye kṣaṇe tisraḥ prāptayo jāyante /
+> tāsāṃ ca punastisro 'nuprāptaya iti ṣaḍ bhavanti /
+> tṛtīye kṣaṇe prathamadvitīyakṣaṇotpannānāṃ dravyāṇāṃ nava prāptayaḥ sārdhamanuprāptibhirityaṣṭādāśa bhavanti /
+> evamuttarottaravāṛddhiprasaṇṅgenaitāḥ praptayo visarpantyaḥ sarveṣāmatītānāgatānāṃ kleśopakleśakṣaṇānāmupapattilābhikānāṃ ca kuśalakṣaṇānāṃ saṃprayoga sahabhuvāmanādyantasaṃsāraparyāpannānāmanantā ekasya prāṇinaḥ kṣaṇe kṣaṇe upajāyante ityanantadravyāḥ pratisantānamātmabhāvakṣaṇāḥ sattvānāṃ bhavanti /
+> atyutsavo vatāyaṃ prāptīnāṃ varttate /
+> kevalaṃ tu apratighātinyo yato 'vakāśamākāśe labhante /
+> itarathā hyākāśe 'pyava kāśo na syāt dvitīyasya prāṇinaḥ //
 
-The unit runs from 66.06 through 67.12 in
-[the running witness](../../Sources/kosabhasya.txt), not merely
-through the relinquishment sentence. This is a normalized study
-transcription, not a collation. It regularizes such forms as
-*cuddho*, *bhavtīty*, *nānavsthā*, *aṣṭādāśa*, and
-*uttarottaravāṛddhiprasaṇṅga*. At 66.21 the running text has
-*yasya yā dharmasya prāptirasau*; the study provisionally reads
-*aprāptir asau* from the question and ensuing relinquishment
-explanation. The duplicated *kliṣṭasya kliṣṭasya vā* at 67.03
-is retained, not silently repaired.
+The unit runs from printed 66.06 through 67.12 in
+[the running witness](../../Sources/kosabhasya.txt), including the
+post-verse regress and proliferation argument. This is an exact
+local-source transcription apart from removal of page locators and
+indentation. The source reads *prāptirasau* at 66.21, although the
+question and ensuing explanation concern *aprāpti*; the translation
+marks that contextual construal. The duplicated *kliṣṭasya*
+at 67.03–04 is retained. Other damaged readings, including
+*cuddho*, *bhavtīty*, and *aṣṭādāśa*, remain as printed; no
+independent collation is claimed. The *sabhāgatā* inquiry at
+67.13 begins 2.41.
 
 ## 3. Continuous Conventional Translation
 
 For dharmas included in Desire and the other Realms, and for
-uncontaminated dharmas also, “threefold” continues. Non-acquisition
+*anāsrava* dharmas also, “threefold” continues. Non-acquisition
 of Desire-Realm dharmas belongs to the Desire, Form, or Formless
 Realm; likewise for Form-Realm and Formless-Realm dharmas and
-uncontaminated dharmas. There is no uncontaminated non-acquisition.
-For non-acquisition of the path is held to be ordinary-person status.
+*anāsrava* dharmas. No non-acquisition is itself *anāsrava*.
+This is because non-acquisition of the path is held to be
+ordinary-person status.
 The treatise reads: “What is ordinary-person status? Non-obtaining
 of noble dharmas.” Non-obtaining means non-acquisition, and
-ordinary-person status cannot be uncontaminated.
+ordinary-person status cannot itself be *anāsrava*.
 
 Non-obtaining of which noble dharmas? Of all, because the statement
 does not distinguish. But it is non-obtaining without obtaining.
@@ -105,9 +110,9 @@ pointless. The Sautrāntika account is preferable in this respect.
 What is their account? “Ordinary-person status is a continuum
 in which noble dharmas have not arisen.”
 
-How is this non-acquisition relinquished? Whatever dharma a
-non-acquisition concerns [contextual reading of the damaged
-introductory clause], it is relinquished through acquisition of
+How is this non-acquisition relinquished? Whatever dharma it concerns
+[the source's introductory clause says *prāpti* where the context
+requires *aprāpti*], it is relinquished through acquisition of
 that dharma or transition of level. For example, insofar as
 non-obtaining of the noble path is ordinary-person status, it is
 relinquished through obtaining that path and through transition
@@ -125,9 +130,9 @@ the dharma and the acquisition-of-acquisition. Through arising
 of acquisition-of-acquisition, one possesses the acquisition itself.
 Thus there is no regress.
 
-On this arrangement, for a wholesome or afflicted dharma with its
-two companions [the class-list here contains a duplicated,
-damaged reading], three acquisitions arise at the second moment,
+On this arrangement, for a wholesome or afflicted dharma—the
+third class term is repeated as *kliṣṭasya*, “afflicted,” in the
+damaged witness—three acquisitions arise at the second moment,
 and three further acquisitions of those acquisitions, making six.
 At the third moment, nine acquisitions of the entities arisen
 at the first and second moments, together with their further
@@ -144,11 +149,11 @@ room even in space for a second living being.
 
 ## 4. Realm Range and Qualified Absence
 
-Each of the three Realm-included dharma classes and the uncontaminated
+Each of the three Realm-included dharma classes and the *anāsrava*
 class admits non-acquisition belonging to any of the three Realms.
 These are twelve class-level combinations. Unlike acquisition of
 Realm-included dharmas in 2.37, non-acquisition is not confined to
-the acquired dharma's Realm. Uncontaminated is not a fourth Realm
+the acquired dharma's Realm. *Anāsrava* is not a fourth Realm
 or a possible classification of non-acquisition.
 
 The Buddha counterexample distinguishes having attained none from
@@ -185,25 +190,26 @@ The later six and eighteen are newly arising acquisition entities,
 not total numbers of all entities ever counted. The closing irony
 is preserved as criticism, not treated as a settled ontology.
 
-## 7. Interpretation
+## 7. Reading Control
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, remaining distinct from
-consciousness and Mind. Ordinary status is a determinate relation
-to attainment, not a person's immutable essence. The negative
-side of the dyad must distinguish absence of every attainment from
-absence of some attainment. A relational closure can answer regress
-while leaving proliferation unanswered: those are distinct tests
-of the acquisition account, not interchangeable objections.
+The Sautrāntika continuum definition is explicitly preferred after
+the Buddha counterexample and the unsuccessful restriction to one
+receptivity. The next question returns to the account of
+non-acquisition being relinquished. The mutual-acquisition answer
+blocks a simple infinite regress, while the subsequent arithmetic
+presses a different objection: acquisitions multiply without bound
+across moments. The closing “festival” and space remarks express
+that criticism. They are not the defender's conclusion.
 
 ## 8. Review Status
 
-Paired source QA and executable Grammar–Logic review completed.
-The full Sanskrit and continuous English argument are restored
+The complete 66.06–67.12 witness has been checked against the local
+source. The kārikā Grammar and Logic were left alone in this pass.
+The Sanskrit and continuous English argument run
 through 67.12: qualified absence, the narrower alternative, explicit
 Sautrāntika account, general relinquishment, mutual possession,
 and the proliferation critique. The twelve Realm combinations and
 Buddha counterexample are checked without conflating reported
 positions. The defective relinquishment introduction and duplicated
 class-list remain marked, not silently collated. The next paired
-unit is 2.41, commonality; only its opening boundary has been consulted.
+unit is 2.41, commonality.

@@ -9,125 +9,135 @@
 > Life is lifespan, the support of warmth and Cognition. The marks, in turn,
 > are arising, aging, persistence, and impermanence.
 
+Here “support” renders *ādhāra*, the sustaining role argued over in
+the Bhāṣya; it is not the technical Support (*ālambana*) or Basis
+(*āśraya*).
+
 ## 2. Continuous Sanskrit Witness
 
 > jīvitaṃ katamat /
-> āyur jīvitam /
-> evaṃ hy uktam abhidharme jīvitendriyaṃ katamat /
-> traidhātukam āyur iti /
-> etac caiva na jñāyate āyur nāma ka eṣa dharma iti /
-> ādhāra ūṣmavijñānayor hi yaḥ /
-> idam uktaṃ bhagavatā /
-> āyur ūṣmātha vijñānaṃ yadā kāyaṃ jahaty amī /
-> apaviddhas tadā śete yathā kāṣṭham acetana iti /
-> tad ya ūṣmaṇo vijñānasya cādhārabhūto dharmaḥ sthitihetus tad āyuḥ /
-> tasyedānīm āyuṣaḥ ka ādhārabhūtaḥ /
-> evaṃ tarhi parasparāpekṣyavṛttitvād eṣāṃ kaḥ pūrvaṃ nivartiṣyate /
-> yadvaśād itarau nivartiṣyete iti nityānivṛttiprasaṅgaḥ /
-> āyuṣas tarhi karmādhārabhūtaṃ yāvad ākṣiptaṃ karmaṇā tāvad anuvarttanāt /
-> ūṣmavijñānayor api kimarthaṃ karmaivādhārabhūtaṃ neṣyate /
-> mā bhūt sarvaṃ vijñānam āmaraṇād vipāka iti /
-> ūṣmaṇas tarhi karmādhārabhūtaṃ bhaviṣyati ūṣmā ca vijñānasya /
-> evam apy ārūpyeṣv anādhāraṃ vijñānaṃ syād ūṣmābhāvāt /
+> āyurjīvitam
+> evaṃ hyuktamabhidharme 'jīvitenriyaṃ katamat /
+> traidhātukamāyuri"ti /
+> etaccaiva na jñāyate āyurnāma ka eṣa dharma iti /
+> ādhāra ūṣmavijñānayorhi yaḥ /
+> idamuktaṃ bhagavatā
+> "āyurūṣmātha vijñānaṃ yadā kāyaṃ jahatyamī /
+> apaviddhastadā śete yathā kāṣṭhamacetana" iti //
+> tad ya ūṣmaṇo vijñānasya cādhārabhūto dharmaḥ sthitihetustadāyuḥ /
+> tasyedānīmāyuṣaḥ ka ādhārabhūtaḥ /
+> evaṃ tarhi parasparāpekṣyavṛttitvādeṣāṃ kaḥ pūrvaṃ nivartiṣyate /
+> yadvaśādibhavau vivarttiṣyete iti nityānivṛttiprasaṅgaḥ /
+> āyuṣastarhi karmādhārabhūtaṃ yāvadākṣiptaṃ karmaṇā tāvadanuvarttanāt /
+> ūṣmavijñānayorapi kimarthaṃ karmaivādhārabhūtaṃ neṣyate /
+> mā bhūt sarvaṃ vijñānamāmaraṇādvipāka iti /
+> ūṣmaṇastarhi karmādhārbhūtaṃ bhaviṣyati ūṣmā ca vijñānasya /
+> evamapyārūpyeṣvanādhāraṃ vijñānaṃ syādūṣmābhāvāt /
 > tasya punaḥ karmādhāro bhaviṣyati /
-> na vai labhyate kāmacāro yat kvacid evoṣmā vijñānasyādhāro bhaviṣyati kvacid eva karmeti /
-> uktaṃ cātra / kim uktam /
-> mā bhūt sarvaṃ vijñānam āmaraṇād vipāka iti /
-> tasmād asty eva tayor ādhārabhūtam āyuḥ /
-> na hi nāstīti brūmo na tu dravyāntaram /
-> kiṃ tarhi / traidhātukena karmaṇā nikāyasabhāgasya sthitikālāvedhaḥ /
-> yāvad dhi karmaṇā nikāyasabhāgasyāvedhaḥ kṛto bhavaty etāvantaṃ kālam avasthātavyam iti tāvat so 'vatiṣṭhate tad āyur ity ucyate /
-> sasyānāṃ pākakālāvedhavat kṣipteṣuḥsthitikālāvedhavac ca /
-> yas tu manyate saṃskāro nāma kaścid guṇaviśeṣa iṣau jāyate yadvaśād gamanam āpatanād bhavatīti /
-> tasya tadekatvāt pratipannābhāvāc ca deśāntaraiḥ śīghrataratamaprāptikālabhedānupapattiḥ patanānupapattiś ca /
+> [073|28-074|01
+> na vai labhyate kāmacāro yat kvacidevoṣmā vijñānasyādhāro bhaviṣyati kvacideva karmeti /
+> uktaṃ cātra /
+> kimuktam /
+> "mā bhūtsarvaṃ vijñānamāmaraṇādvipāka" iti /
+> tasmādastyeva tayorādhārabhūtamāyuḥ /
+> nahi nāstīti brūmo natu dravyāntaram /
+> kiṃ tarhi /
+> traidhātukena karmaṇā nikāyasabhāgasya sthitikālāvedhaḥ /
+> yāvaddhi karmaṇā nikāyasabhāgasyāvedhaḥ kṛto bhavatyetāvantaṃ kālamavasthātavyamiti tāvat so 'vatiṣṭhate tadāyurityucyate /
+> sasyānāṃ pākakālāvedhavat kṣipteṣusthitikālāvedhavacca /
+> yastu manyate saṃskāro nāma kaścin guṇaviśeṣa iṣau jāyate yadvaśādgamanamāpatanād bhavatīti /
+> tasya tadekatvāt pratipannābhāvācca deśāntaraiḥ śīghra taratamaprāptikālabhedā nupapattiḥ patanānupapattiśca /
 > vāyunā tatpratibandha iti cet /
-> arvākpatanaprasaṅgo na vā kadācid vāyor aviśeṣāt /
-> evaṃ tu varṇayanti dravyāntaram evāyur astīti /
-> atha kim āyuḥkṣayād eva maraṇaṃ bhavaty āhosvid anyathāpi /
-> prajñaptāv uktam āyuḥkṣayān maraṇaṃ na puṇyakṣayād iti /
+> arvākpatanaprasaṅgo na vā kadācidvāyoraviśeṣāt /
+> evaṃ tu varṇayanti dravyāntaramevāyurastīti /
+> atha kimāyuḥkṣayādeva maraṇaṃ bhavatyāhosvidanyathāpi /
+> prajñaptāvuktam "āyuḥkṣayānmaraṇaṃ na puṇyakṣayādi"ti /
 > catuṣkoṭiḥ /
-> prathamā koṭir āyurvipākasya karmaṇaḥ paryādānāt /
-> dvitīyā bhogavipākasya / tṛtīyobhayoḥ /
+> prathamā koṭirāyurvipākasya karmaṇaḥ paryādānāt /
+> dvitīyā bhogavipākasya /
+> tṛtīyobhayoḥ /
 > caturthī viṣamāparihāreṇa /
-> āyurutsargāc ceti vaktavyam / na vaktavyam /
-> āyuḥkṣayād eva tan maraṇam / prathamakoṭyantargamāt /
-> kṣīṇe tv āyuṣi puṇyakṣayasya maraṇe nāsti sāmarthyam /
-> tasmād ubhayakṣaye sati maraṇam āyuḥkṣayād ity uktam /
-> jñānaprasthāne 'py uktam āyuḥ santatyupanibaddhaṃ vartata iti vaktavyam /
-> sakṛd utpannaṃ tiṣṭhatīti vaktavyam / āha /
-> kāmāvacarāṇāṃ sattvānām asaṃjñisamāpattiṃ nirodhasamāpattiṃ ca samāpannānāṃ santatyupanibaddhaṃ vartata iti vaktavyam /
-> samāpannānāṃ rūpārūpyāvacarāṇāṃ ca sattvānāṃ sakṛd utpannaṃ tiṣṭhatīti vaktavyam /
+> āyurutsargācceti vaktavyakm /
+> na vaktavyam /
+> āyuḥkṣayādeva tanmaraṇam /
+> prathamakoṭyantargamāt /
+> kṣīṇe tvāyuṣi puṇyakṣayasya maraṇe nāsti sāmarthyam /
+> tasmādubhayakṣaye sati maraṇamāyuḥkṣayādityuktam /
+> jñānaprasthāne 'pyuktam "āyuḥ santatyupanibaddhaṃ vartata iti vaktavyam /
+> sakṛdutpannaṃ tiṣṭhanīti vaktavyam /
+> āha /
+> kāmāvacarāṇāṃ sattvānāmasaṃjñisamāparttiṃ nirodhasamāparttiṃ ca samāpannānāṃ santatyupanibaddhaṃ varttata iti vaktavyam /
+> samāpannānāṃ rūpārūpyāvacarāṇāṃ ca sattvānāṃ sakrdutpannaṃ tiṣṭhatīti vaktavyam" /
 > ko 'sya bhāṣitasyārthaḥ /
-> yasyāśrayopaghātād upaghātas tat santatyadhīnatvāt prathamam /
-> yasya tv āśrayopaghāta eva nāsti tad yathotpannāvasthānād dvitīyam /
-> sāntarāyaṃ prathamaṃ nirantarāyaṃ dvitīyam iti kāśmīrāḥ /
-> tasmād asty akālamṛtyuḥ /
-> sūtra uktam catvāra ātmabhāvapratilambhāḥ /
-> asty ātmabhāvapratilambho yatrātmasaṃcetanā kramate na parasaṃcetaneti /
+> yasyāśrayopaghātādupāghatastatsantatyadhīnatvāt prathamam /
+> yasya tvāśrayopaghāta eva nāsti tadyatho tpannāvasthānāt dvitīyam /
+> sāntarāyaṃ prathamaṃ nirantarāyaṃ dvitīyamiti kāśmīrāḥ /
+> tasmādastyakālamṛtyuḥ /
+> sūtra uktam "catvāra ātmabhāvapratilambhāḥ /
+> astyātmabhāvapratilambho yatrātmasaṃcetanā kramate na parasaṃcetane"ti /
 > catuṣkoṭikaḥ /
-> ātmasaṃcetanaiva kramate kāmadhātau krīḍāpramoṣakāṇāṃ devānāṃ manaḥpradūṣakāṇāṃ ca /
-> teṣāṃ hi praharṣamanopradoṣābhyāṃ tasmāt sthānāc cyutir bhavati nānyathā /
-> duddhānāṃ ceti vaktavyam / svayaṃmṛtyutvāt /
+> ātmasaṃcetanaiva kramate kāmadhātau krīḍāpramoṣkāṇāṃ devānāṃ manaḥpradūṣakāṇāṃ ca /
+> teṣāṃ hi praharṣamanaḥopradoṣābhyāṃ tasmāt sthānāccyutirbhavati nānyathā/
+> duddhānāṃ ceti vaktavyam /
+> svayaṃmṛtyutvāt /
 > parasaṃcetanaiva kramate garbhāṇḍagatānām /
-> ubhayam apy eṣāṃ kāmāvacarāṇāṃ prāyeṇa /
-> nobhayaṃ sarveṣām antarābhavikāṇāṃ rūpārūpyāvacarāṇām anekajātīyānāṃ kāmāvacarāṇāṃ tadyathā nārakāṇām uttarakauravāṇāṃ darśanamārgamaitrīnirodhāsaṃjñisamāpattisamāpannānāṃ rājarṣijinadūtajinādiṣṭadharmilottaragaṅgilaśreṣṭhiputrayaśaḥ dumārajīvakādīnāṃ sarveṣā caramabhavikānāṃ vodhisattvamātus tadgarbhāyāḥ cakravarttinaś cakravarttimātuś ca tadgarbhāyāḥ /
-> atha kasmāt sūtra uktaṃ katame te bhadanta sattvā yeṣāṃ nātmasaṃcetanā kramate na parasaṃcetanā /
-> naivasaṃjñānāsaṃjñāyatanopagāḥ śāriputreti /
-> anyeṣu kila dhyānārūpyeṣv ātmasaṃcetanā svabhūmika āryamārgaḥ parasaṃcetanā uttarabhūmisāmantakas tatra cobhayaṃ nāstīti /
+> ubhayamapyeṣāṃ kāmāvacarāṇāṃ prāyeṇa /
+> nobhayaṃ sarveṣā mantarābhavikāṇāṃ rūpārūpyāvacarāṇāmanekajātīyānāṃ kāmāvacarāṇāṃ tadyathā nārakāṇā muttarakauravāṇāṃ darśanamārgamaitrīnirodhāsaṃjñi samāpattisamāpannānāṃ rājarṣijinadūtajinādiṣṭa dharmilo ttaragaṅgila śreṣṭhiputrayaśaḥ dumārajīvakādīnāṃ sarveṣā caramabhavikānāṃvodhisattva mātustadgarbhāyāḥ cakravarttinaścakravarttimātuśca tadgarbhāyāḥ/
+> atha kasmātsūtra uktaṃ katame te bhadanta sattvā yeṣāṃ nātmasaṃcetanā kramate na parasaṃacetanā /
+> naivasaṃjñānāsaṃjñāyatanopagāḥ śāriputre"ti /
+> anyeṣu kila dhyānarūpyedhvātmasaṃcetanāsvabhūmika āryamārgaḥ parasaṃcetanā uttarabhūmisāmantakastatra cobhayaṃ nāstīti /
 > nanu caivaṃ tatrāpi parabhūmika āryamārgaḥ parasaṃcetanā prāpnoti /
-> paryantagrahaṇāt tarhi tadādisaṃpratyayaḥ /
-> kvacid ādisaṃpratyayaḥ kvacid ādinā paryanto 'pi pratīyate /
-> yad āha / tadyathā devā brahmakāyikāḥ / iyaṃ prathamā sukhopapattir iti /
-> kvacit paryantenādir api pratīyate /
-> yad āha / tadyathā devā ābhāsvarāḥ / iyaṃ dvitīyā sukhopapattir iti /
-> ayam atra tadyathāśabdo dṛṣṭāntavācaka iti yukta etasmāc cheṣasaṃpratyayaḥ /
-> eṣa hi dṛṣṭāntadharmo yad ekam api tajjātīyakaṃ dṛśyate /
-> sa ceha tadyathāśabdo nāstīty anupasaṃhāra eṣaḥ /
-> yady ayaṃ tadyathāśabdo dṛṣṭāntavācakaḥ syād iha na prāpnuyāt /
-> santi sattvā nānātvakāyā nānātvasaṃjñinas tadyathā manuṣyās tadekatyāś ca devā iti /
-> tasmād upadarśanārtha evāyaṃ draṣṭavya ity alam atiprasaṅgena /
+> paryantagrahaṇāttarhi tadādisaṃpratyayaḥ /
+> kvacidādisaṃpratyayaḥ kvacidādinā paryanto 'pi pratīyate /
+> yadāha /
+> "tadyathā devā brahmakāyikāḥ /
+> iyaṃ prathamā sukhopapattiriti /
+> kvacit paryantenādirapi pratīyate /
+> yadāha /
+> tadyathā devā ābhāsvarāḥ /
+> iyaṃ dvitīyā sukhopapattiri"ti
+> ayamatra tadyathāśabdo dṛṣṭāntavācaka iti yukta etasmāccheṣasaṃ pratyayaḥ /
+> eṣa hi dṛṣṭāntadharmo yadekamapi tajjātīyakaṃ dṛśyate /
+> sa ceha tadyathāśabdo nāstītyanupasaṃhāra eṣaḥ /
+> yadyayaṃ tadyathāśabdo dṛṣṭāntavācakaḥ syādiha na prāpnuyāt /
+> santi sattvā nānātvakāyā nānātvasaṃjñinastadyathā manuṣyastadekatyāścadevā iti /
+> tasmādupadarśanārtha evāyaṃ draṣṭavya ityalamatiprasaṅgena /
 > uktaṃ jīvitam //
-> lakṣaṇāni punar jātir jarā sthitir anityatā // 2.45 //
+> lakṣaṇāni punarjātirjarā sthitiranityatā // VAkK_2.45 //
 > etāni hi saṃskṛtasya catvāri lakṣaṇāni /
 > yatraitāni bhavanti sa dharmaḥ saṃskṛto lakṣyate /
-> viparyayād asaṃskṛtaḥ /
-> tatra jātis taṃ dharmaṃ janayati sthitiḥ sthāpayati jarā jarayati anityatā vināśayati /
-> nanu trīṇīmāni saṃskṛtalakṣaṇānīti sūtra uktam /
-> caturtham apy atra vaktavyaṃ syāt / kiṃ cātra noktam / āha /
-> sthitiḥ / yat tarhīdaṃ sthityanyathātvam iti /
-> jarāyā eṣa paryāyas tadyathā jāter utpāda ity anityatāyāś ca vyaya iti /
-> ye hi dharmāḥ saṃskārāṇām adhvasaṃcārāya pravṛttās ta eva sūtre lakṣaṇāny uktāny udvejanārtham /
-> jātir hi yā saṃskārān anāgatād adhvanaḥ pratyutpannam adhvānaṃ saṃcārayati /
-> jarānityate punaḥ pratyutpannād atītaṃ durbalīkṛtya pratighātāt /
+> viparyayādasaṃskṛtaḥ /
+> tatra jātistaṃ dharmaṃ janayati sthitiḥ sthapayati jarā jarayati anityatā vināśayati /
+> nanu "trīṇimāni saṃskṛta lakṣaṇānī"ti sūtra uktam /
+> caturthamapyatra vaktavyaṃ syāt /
+> kiṃ cātra noktam /
+> āha /
+> sthitiḥ /
+> yattarhi "idaṃ sthityanyathātvami"ti /
+> jarāyā eṣa paryāyastadyathā jāterutpāda ityanityatāyāśca vyaya iti /
+> ye hi dharmāḥ saṃskārāṇāmadhvasaṃcārāya pravṛttāsta eva sūtre lakṣaṇānyuktānyudvejanārtham /
+> jātirhi yā saṃskārānanāgatādadhvanaḥ pratyutpannamadhvānaṃ saṃcārayati /
+> jarā 'nityate punaḥ pratyutpannādatītaṃ durbalīkṛtya pratighātāt /
 > tadyathā kila gahanapraviṣṭasya puruṣasya trayaḥ śatravaḥ /
-> tata eka enaṃ gahanād ākarṣed dvau punar jīvitād vyaparopayetāṃ tadvad iti /
-> sthitis tu tān saṃskārān upaguhya tiṣṭhaty aviyogam ivecchantī /
+> tata eka enaṃ gahanādākarṣet dvau punarjīvitādvacyaparopayetāṃ tadvaditi /
+> sthitistu tān saṃskārānupaguhya tiṣṭhatyaviyogamivecchantī /
 > ato 'sau saṃskṛtalakṣaṇaṃ na vyavasthāpitā /
 > asaṃskṛtasyāpi ca svalakṣaṇe sthitibhāvāt /
-> anye punaḥ kalpayanti sthitiṃ jarāṃ cābhisamasya sthityanyathātvam ity ekaṃ lakṣaṇam uktaṃ sūtre /
+> anye punaḥ kalpayanti sthitiṃ jarāṃ cābhisamasya sthityanyathātvamityekaṃ lakṣaṇamuktaṃ sūtre /
 > kiṃ prayojanam /
-> eṣā hy eṣu saṅgāspadam ataḥ śriyam ivaināṃ kālakarṇīsahitāṃ darśayām āsa tasyām anāsaṅgārtham iti /
-> ataś catvāry eva saṃskṛtalakṣaṇāni /
+> eṣā hyeṣu saṅgāspadamataḥ śriyamivaināṃ kālakarṇīsahitāṃ darśayāmāsa tasyāmanāsaṅgārthamiti /
+> ataścatvāryeva saṃskṛta lakṣaṇāni /
+> teṣāmapi nāma jātyādīnāṃ saṃskṛtatvādanyairjātyādibhirbhavitavyam /
 
-The paired unit runs from 73.14 through 76.09 in
-[the running witness](../../Sources/kosabhasya.txt), not merely
-the opening 73.15–73.28. This is a normalized study transcription,
-not a collation. It regularizes *jīvitenriya*, *tiṣṭhanīti*,
-*samāpartti*, and sandhi.
-The damaged *yadvaśādibhavau vivarttiṣyete* is contextually
-read as the withdrawal of the other two. The Jñānaprasthāna
-quotation transmits *samāpannānām* in both opposed groups;
-the English leaves the first group's entry-status unresolved
-rather than silently supplying a negative. The protected-life
-list and *duddhānāṃ* remain defective; no full list of names
-or Buddha reading is asserted. The arrow argument's
-*pratipannābhāvāc ca* remains uncertain. The closing
-*tadyathā* exchange is translated as an argumentative exchange,
-not treated as a fully restored quotation.
-
-The following *jātijātyādayas teṣām* begins 2.46's secondary-mark
-argument. Its regress reply and the later Sautrāntika stream account
-are reserved for the next paired unit.
+The unit runs from printed 73.14 through 76.09 in
+[the running witness](../../Sources/kosabhasya.txt). This is an exact
+local-source transcription apart from removal of page locators and
+indentation. Damaged readings remain visible, including the mutual-
+support clause, the arrow argument, the opposed *samāpannānām*
+groups in the *Jñānaprasthāna* quotation, *duddhānāṃ*, and the
+protected-life names. The English marks uncertain construals
+rather than claiming a Sanskrit collation. The secondary-mark
+question at 76.10 begins 2.46.
 
 ## 3. Continuous Conventional Translation
 
@@ -307,29 +317,25 @@ The secondary marks and their regress problem begin 2.46.
 The later Sautrāntika stream interpretation should not
 be promoted into this verse's continuous translation.
 
-## 7. Interpretation
+## 7. Reading Control
 
-In the Organon reading, Cognition joins and governs
-Perception and Conception and guides the Dharma Base,
-remaining distinct from consciousness and Mind. Duration,
-its sustaining conditions, and its interruption must not
-be reduced to one extra entity by definition. Equally,
-recognizing the marks of a conditioned course does not
-yet settle their ontological status. The competing
-explanations remain material for detailed study, not
-verdicts inferred from a finite classification model.
+The Bhāṣya first argues that lifespan sustains warmth and Cognition.
+The critic accepts the sustaining role but explains lifespan as a
+duration projected by karma, without a further entity. The reply
+reasserts a distinct entity. The death classifications then test
+how duration may end and whether interruption is possible; they do
+not by themselves decide the entity dispute. In the final section,
+the verse gives four marks while a cited sūtra gives three. Two
+different reconciliations are reported and kept separate.
 
 ## 8. Review Status
 
-Paired source QA and executable Grammar–Logic review
-completed. The omitted life argument is restored through
-75.18, and the marks discussion through 76.09. The
-displayed Cognition compound is corrected from the
-running witness. Four marks are conjoined, not parsed
-as exclusive alternatives. The two death classifications
-are distinguished, with uncertainty retained in the
-quoted groups, protected names, and arrow clause.
-The distinct-entity and projected-duration accounts
-remain attributed. The next unit is 2.46, secondary
-marks and their extended critique; only its opening
-boundary has been consulted.
+The complete 73.14–76.09 Sanskrit witness has been checked against
+the local source. The kārikā Grammar and Logic were left untouched
+in this pass. The support argument, projected-duration alternative,
+two death classifications, and three-versus-four marks dispute are
+all represented in the continuous translation. Four marks are
+conjoined, not parsed as exclusive alternatives. Uncertainty remains
+marked in the quoted groups, protected names, and arrow clause.
+The distinct-entity and projected-duration accounts remain attributed.
+The next unit is 2.46, secondary marks and their extended critique.

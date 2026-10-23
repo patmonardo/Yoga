@@ -11,8 +11,9 @@
 
 ## 2. Continuous Sanskrit Witness
 
-> kāraṇaṃ sahabhūś caiva sabhāgaḥ saṃprayuktakaḥ /
-> sarvatrago vipākākhyaḥ ṣaḍvidho hetur iṣyate // 2.49 //
+> yaktūktaṃ "janyasya janikā jātirna hetupratyayairvinā" iti ka ime hetavaḥ keca pratyayāḥ /
+> kāraṇaṃ sahabhūścaiva sabhāgaḥ saṃprayuktakaḥ /
+> sarvatrago vipākākhyaḥ ṣaḍvidho heturiṣyate // VAkK_2.49 //
 > ṣaḍime hetavaḥ /
 > kāraṇahetuḥ sahabhūhetuḥ sabhāgahetuḥ saṃprayuktakahetuḥ sarvatragahetuḥ vipākaheturiti /
 > tatra
@@ -38,16 +39,17 @@
 > eṣā hi dik /
 > uktaḥ kāraṇahetuḥ /
 
-The unit is printed 82.21–83.17 in
-[the running witness](../../Sources/kosabhasya.txt). The passage's
-first definition is the opening of 2.50, quoted here because the
-2.49 Bhāṣya comments on it. This is a running transcription, not a
-collation. The witness has evident defects, including *vighnamuatpattau*,
-*vidhna*, *vījādayo*, and *kāraṇaparaparayā*; they are retained here
-rather than silently repaired. The translation below follows the
-argument where those defects do not affect its main alternatives.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 82.19–20 through 83.17, including the question that recalls
+2.46. The definition of the first `hetu` uses the opening half-line
+of 2.50; its co-arisen definition begins at 83.18. Source spellings
+and damaged readings are retained.
 
 ## 3. Continuous Conventional Translation
+
+It was said that arising generates what is to be generated only
+with causes and Conditions. What are these causes, and what are
+these Conditions? The verse now names six kinds of *hetu*.
 
 These are the six causes: conditioning, co-arisen, homogeneous,
 associated, pervasive, and maturation. First, the conditioning cause:
@@ -88,8 +90,10 @@ understanding other cases. The conditioning cause has been explained.
 
 ## 4. Movement and Voice of the Commentary
 
-The verse reports a sixfold classification; the Bhāṣya first lists
-its names and then begins the conditioning-cause definition of 2.50.
+The Bhāṣya first recalls the causal restriction from 2.46 and asks
+what the causes and Conditions are. The verse then lists six kinds
+of *hetu*, and the commentary takes up the first definition using
+the opening half-line of 2.50. The Conditions are not classified here.
 The objection from knowledge and obstructed influxes narrows the
 non-obstruction formula to what actually arises. A second objection
 presses the status of what lacks any power to obstruct. The reply
@@ -102,8 +106,10 @@ alternative, not the preceding reply's own premise.
 
 ## 5. Review Status
 
-The witness and continuous translation now carry the argument through
-83.17. The verse's six kinds, the Bhāṣya's conditioning-cause
-definition, the objections, the principal examples, and the attributed
-alternative remain at their respective source levels. The co-arisen
-cause's own definition follows in 2.50.
+The Sanskrit witness has been checked against the complete local
+source span, 82.19–20 through 83.17. The continuous translation now
+includes the opening question, sixfold list, non-obstruction
+objections, principal productive examples, and attributed mediated
+account in source order. The argument distinguishes broad causehood by non-obstruction
+from productive agency; it does not yet define the *pratyaya*. The kārikā Grammar and Logic files were not changed
+in this pass.

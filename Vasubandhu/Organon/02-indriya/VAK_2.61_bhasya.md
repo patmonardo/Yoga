@@ -10,56 +10,65 @@
 > likewise to other dharmas except for the associated cause. Four
 > conditions are taught; five causes constitute the cause-condition.
 
-## 2. Sanskrit Witness — Selected Passages
+## 2. Continuous Sanskrit Witness
 
-> cittacaittāḥ /
+> katame ime dharmāścaturvidhā nirdiṣṭā ityāha
+> cittacaittāḥ
 > atha ye cittaviprayuktā rūpiṇaśca dharmāste kathamityāha /
 > tathā 'nye 'pi saṃprayuktakavarjitāḥ /
 > prayuktakahetunaikena varjitāḥ anye 'pi kliṣṭādayo dharmāstathaivotpadyante yathā cittacaīttāḥ /
 > tatra kliṣṭāścatubhryo vipākajāśca /
 > śeṣāstribhyaḥ prathamānāsravā dvābhyām /
-> ekahetusaṃbhūto nāsti dharmaḥ /
+> ekahetusaṃbhūto nāsti dharmaḥ //
+> samāpto hetuvistaraḥ //
 > pratyayāḥ katame /
-> catvāraḥ pratyayā uktāḥ /
-> kvavoktāḥ / sūtre /
+> catvāraḥ pratyayā uktāḥ
+> kvavoktāḥ /
+> sūtre /
 > "catasraḥ pratyayatāḥ /
 > hetupratyayatā samanantarapratyayatā ālambanapratyayatā adhipatipratyayatā ce"ti /
 > pratyayajātiḥ pratyayatā /
-> hetvākhyaḥ pañca hetavaḥ // 2.61 //
+> tatra
+> hetvākhyaḥ pañca hetavaḥ // VAkK_2.61 //
 > kāraṇahetuvarjyāḥ paṇyca hetavo hetupratyayaḥ /
 
-These selected passages follow 97.27–98.08 in
-[the running witness](../../Sources/kosabhasya.txt). The source prints
-the kārikā in four separated fragments, with commentary between them.
-Forms such as *cittacaīttāḥ* and *paṇyca* are retained as printed;
-this is not a collation.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 97.26 through 98.08. The kārikā is distributed through
+the prose. Source spellings, including `cittacaīttāḥ` and
+`paṇyca`, are retained. The next anchor begins at 98.09.
 
-## 3. Conventional Argument Summary
+## 3. Continuous Conventional Translation
 
-The preceding four causal profiles first apply to mind and mental
-factors. Asked about material and mind-dissociated dharmas, the text
-answers that these too follow the same profiles, but each lacks the
-associated cause. Their resulting counts are four for afflicted and
-maturation-born dharmas, three for the remaining, and two for the
-first uncontaminated. No dharma arises from just one cause.
+To which dharmas do the four cause profiles just listed apply?
+To mind and mental factors. What of material dharmas and formations
+dissociated from mind? They arise in the same way, but without the
+associated cause. Thus afflicted and maturation-born dharmas of
+those kinds arise from four causes each, the remaining dharmas
+from three, and the first dharmas without *āsrava* from two.
+No dharma arises from only one cause. The detailed discussion of
+the causes is complete.
 
-The exposition then asks what the conditions are. Four kinds are cited
-from a sūtra: cause, immediately antecedent, object, and predominant
-condition. *Pratyayatā* means a kind of condition. Of the six causes,
-the five apart from the conditioning cause constitute the
-cause-condition. The passage does not yet define the other three
-conditions.
+What are the *pratyaya*? Four kinds are taught. Where? In a sūtra:
+there is cause-condition, immediately antecedent condition,
+Support-condition, and predominant condition. *Pratyayatā* means
+a kind of condition. Of the six previously named causes, five—the
+ones other than the conditioning cause—make up the cause-condition.
 
-## 4. Interpretation
+## 4. Reading Control
 
-The associated-cause exception belongs to the other dharmas; mind and
-mental factors are the comparison domain. The condition inventory is a
-new classification. “Cause-condition” names five causes and excludes
-the conditioning cause, despite the similarity of their names.
+The associated-cause exclusion applies to material and mind-
+dissociated dharmas, not to mind and mental factors. The four
+*pratyaya* form a new classification, introduced after the six-cause
+account is closed. The cause-condition includes five causes and
+excludes *kāraṇahetu*, despite the similarity of their names.
+This verse lists the four kinds; the immediately antecedent
+condition is taken up next.
 
 ## 5. Review Status
 
-The kārikā anchor, scope of the associated-cause exception, and the
-five-cause condition have been checked against the running witness.
-The later treatment of immediately antecedent condition belongs to
-the next passage.
+The complete Sanskrit witness has been checked against the local
+source from 97.26 through 98.08. The continuous translation
+includes the final cause counts, the six-cause close, the four
+conditions quoted from sūtra, and the five-cause scope of
+*hetupratyaya*. The kārikā Grammar and Logic files were not
+changed in this pass.

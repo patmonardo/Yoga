@@ -230,10 +230,21 @@ one that has arisen can cause one that remains future. The next
 question asks whether only the Path is a homogeneous cause of
 equal and superior results; its answer opens 2.53.
 
-## 4. Interpretation
+## 4. Reading Control
 
-The defining relation joins similarity with temporal priority. The own-class/own-level restriction is scoped to contaminated dharmas; the Path is its cross-level exception, not an exception to priority. The equal/superior direction is the kārikā's wording. The conflict in the Bhāṣya witness is unresolved and should not be repaired by silently adding a negative.
+The defining relation joins similarity with temporal priority. The
+own-class and own-level restriction is scoped to dharmas with *āsrava*;
+the Path is its cross-level exception, not an exception to priority.
+The equal-or-superior direction is the kārikā's wording. The contrary
+reading at 87.11 remains unresolved and should not be repaired by
+silently adding a negative. The later examples bear on the question,
+but a decisive textual correction would require another witness.
 
 ## 5. Review Status
 
-The continuous Sanskrit witness and conventional translation now cover 85.08–87.20, including the treatise objections, temporal argument, maturation comparison, and Path examples. The Sanskrit is reproduced from the local running source without a collation. The contradictory [087|11] requires collation before a definitive claim about an inferior Path result; Grammar and Logic were left unchanged in this pass.
+All 92 Sanskrit lines in the continuous witness match the local source
+from 85.08 through 87.20. The conventional translation covers the
+similarity and priority restrictions, cited treatise objections, the
+future-cause argument, maturation comparison, and Path examples in
+source order. The conflict at 87.11 remains marked pending collation.
+The kārikā Grammar and Logic files were not changed in this pass.

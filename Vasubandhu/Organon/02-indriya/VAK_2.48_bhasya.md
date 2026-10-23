@@ -14,29 +14,26 @@
 
 ## 2. Continuous Sanskrit Witness
 
-> sabhāgatā sā tu punar vipāko 'pi
+> sabhāgatā sā tu punarvipāko 'pi
 > na kevalaṃ naiḥṣyandikī kāmarūpārūpyāvacarī /
 > āptayo dvidhā /
-> prāptayo naiḥṣyandikyo vipākajāś ca /
+> prāptayo naiḥṣyandikyo vipākajāśca /
 > lakṣaṇāni ca /
-> dvidheti vartate prāptivat /
-> niḥṣyandāḥ samāpattyasamanvayāḥ // 2.48 //
-> dve acittasamāpattī asamanvāgamaś ca naiḥṣyandikā eva /
-> śeṣam eṣāṃ vaktavyam uktam /
-> śeṣayoś cāsaṃjñikajīvitayor ato na punar brūmaḥ /
+> dvidheti varttate prāptivat /
+> niḥṣyandāḥ samāpattya samanvayāḥ // VAkK_2.48 //
+> dve acittasamāpattī asamanvāgamaśca naiḥṣyandikā eva /
+> śeṣameṣāṃ vaktavyamuktam /
+> śeṣayoścāsaṃjñikajīvitayorato na punarbrumaḥ /
 > kathaṃ prāptyādīnāṃ sattvākhyatoktā samanvāgamavacanāt /
 > kathaṃ lakṣaṇānāṃ sattvāsattvākhyatoktā /
-> sarvasaṃskṛtasahabhūtvāt //
+> sarvasaṃskṛṭasahabhūtvāt //
 > uktā viprayuktāḥ //
 
-The unit runs through printed 82.09–82.18 in
-[the running witness](../../Sources/kosabhasya.txt). The opening completes
-2.47's final *tathā*. The witness mislabels the marks lines as 81.13–14.
-This study joins *samāpattya samanvayāḥ* as
-*samāpattyasamanvayāḥ*, following the prose's explicit two attainments
-and non-acquisition; it normalizes *varttate* to *vartate* and
-*saṃskṛṭa* to *saṃskṛta*, and regularizes spacing and sandhi.
-These are local study normalizations, not a collation.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 82.09 through 82.18. The source itself mislabels the marks
+lines as 81.13–14; its spellings, spacing, and readings are retained.
+The opening completes 2.47's `tathā`. At 82.19–20 the text turns
+to the causes and Conditions introduced for 2.49.
 
 ## 3. Continuous Conventional Translation
 
@@ -107,26 +104,22 @@ the marks' two sentient-status options do not mean that each individual
 mark is both. The closing classification does not reopen or settle
 the preceding disputes about distinct real entities.
 
-## 6. Interpretation
+## 6. Reading Control
 
-Cognition joins and governs Perception and Conception and guides the
-Dharma Base, remaining distinct from consciousness and Mind. The
-central hub's closure here is a determination of relations: possession,
-same-class, marks, attainments, and non-acquisition do not acquire
-one undifferentiated nature by sharing a catalogue.
-
-The movement from this classification to causes and conditions asks
-how the differentiated dharmas operate together. Classification is
-not causal sufficiency. Nor does closing this discussion close the
-Indriya chapter. The local result-sort model preserves the distinctions
-needed for that next inquiry without answering it in advance.
+The inherited “likewise” has limited scope: the prose adds maturation
+and the Formless Realm to same-class. “Twofold” then applies to
+acquisition and marks, while the two attainments without consciousness
+and non-acquisition receive homogeneous outflow alone. The closing
+questions explain sentient classification through possession and the
+marks' wider scope through co-arising with all conditioned dharmas.
+The next question about causes and Conditions opens a new inquiry;
+this classification does not answer it in advance.
 
 ## 7. Review Status
 
-Paired source QA restores the omitted retrospective explanations
-through 82.18 and corrects the inherited chapter-ending claim.
-The exact study-translation anchor and executable Grammar–Logic
-distinguish selective inheritance, three-Realm same-class, twofold
-result-sorts, outflow-only cases, and the marks' dual classification.
-Local witness normalizations are recorded; no collation is claimed.
-Later specialty passes may deepen the post-translation study sections.
+The Sanskrit witness has been checked against the complete local
+source span, 82.09 through 82.18. The continuous translation retains
+the selective inheritance from 2.47, three-Realm same-class, the
+twofold and outflow-only classifications, and the retrospective
+explanations in source order. The kārikā Grammar and Logic files were
+not changed in this pass.

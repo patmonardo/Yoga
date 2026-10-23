@@ -13,74 +13,69 @@
 ## 2. Continuous Sanskrit Witness
 
 > atha keyaṃ sabhāgatā /
-> sabhāgatā sattvasāmyam /
+> sabhāgatā sattvasāmyaṃ
 > sabhāgatā nāma dravyam /
-> sattvānāṃ sādṛśyaṃ nikāyasabhāga ity asyāḥ śāstre saṃjñā /
-> sā punar abhinnā bhinnā ca /
+> sattvānāṃ sākṛśyaṃ nikāyasa bhāga ityasyāḥ śāstre saṃjñā /
+> sā punarabhinnā bhinnā ca /
 > abhinnā sarvasattvānāṃ sattvasabhāgatā /
 > pratisattvaṃ sarveṣu bhāvāt /
-> bhinnā punas teṣām eva sattvānāṃ dhātubhūmigatiyonijātistrīpuruṣopāsakabhikṣuśaikṣāśaikṣyādibhedena pratiniyatā /
-> dharmasabhāgatā punaḥ skandhāyatanadhātutaḥ /
-> yadi sattvasabhāgatā dravyam aviśiṣṭaṃ na syāt anyonyaviśeṣabhinneṣu sattveṣu sattvatvam ity abhedena buddhir na syāt prajñaptiś ca /
-> evaṃ skandhādibuddhiprajñaptayor api yojyāḥ /
-> syāc cyavetopapadyeta na ca sattvasabhāgatāṃ vijahyān na ca pratilabheteti /
+> bhinnā punasteṣāmeva sattvānāṃ dhātubhūmigatiyonijātistrīpuruṣopāsakabhikṣuśaikṣā śaikṣyādibhedena pratiniyatā dharmasabhāgatā /
+> punaḥ skndhāyatanadhātutaḥ yadi satvasabhāgatā dravyamaviśiṣtaṃ na syāt anyonyaviśeṣabhinneṣu sattveṣu sattvasttva ityabhedena buddhirna syāt prajñaptiśca /
+> evaṃ skandhādi buddhiprajñaptayyo 'pi yojyāḥ /
+> syāccyavetopapadyeta na ca sattvasabhāgatāṃ vijahyānna ca pratilabheteti /
 > catuṣkoṭikaḥ /
-> prathamā koṭiḥ yataś cyavate tatraivopapadyamānaḥ /
-> dvitīyā niyāmam avakrāman /
-> sa hi pṛthagjanasabhāgatāṃ vijahyād āryasabhāgatāṃ pratilabhate /
+> prathamā koṭiḥ yataścyavate tatraivopapadyamānaḥ /
+> dvitīyā niyāmamavkrāman /
+> sa hi pṛthagjanasabhāgatāṃ vijahyādāryasabhāgatāṃ pratilabhate /
 > tṛtīyā gatisaṃcārāt /
-> caturthy etān ākārān sthāpayitvā /
-> yadi pṛthagjanasabhāgatā nāma dravyam asti kiṃ punaḥ pṛthagjanatvena /
-> na hi manuṣyasabhāgatāyā anyan manuṣyatvaṃ kalpyeta /
-> naiva ca lokaḥ sabhāgatāṃ paśyaty arūpiṇītvāt na caināṃ prajñayā paricchinatti pratipadyate ca sattvānāṃ jātyabhedam iti satyā api tasyāḥ kathaṃ tatra vyāpāraḥ /
-> api cāsattvasabhāgatā 'pi kiṃ neṣyate /
-> śāliyavamudgamāṣāmrapanasalohakāñcanādīnāṃ svajātisādṛśyāt /
-> tāsāṃ ca sabhāgatānām anyonyabhinnānāṃ katham abhedena sabhāgatāprajñaptiḥ kriyate /
-> vaiśeṣikāś caivaṃ dyotitā bhavanti /
-> teṣām api hy eṣa siddhāntaḥ /
-> sāmānyapadārtho nāmāsti yataḥ samānapratyayotpattir atulyaprakāreṣv apīti /
+> caturthyetānākārān sthāpayitvā /
+> yadi pṛthagjanasabhāgatā nāma dravyamasti kiṃ punaḥ pṛthagjanatvena /
+> nahi manuṣyasabhāgatāyā anyanmanuṣyatvaṃ kalpyete /
+> naiva ca lokaḥ sabhāgatāṃ paśyatyarūpiṇītvāt nacaināṃ prajñayā paricchinatti pratipadyate ca satvānāṃ jātyabhedamiti satyā api tasyāḥ kathaṃ tatra vyāpāraḥ /
+> apicāsattvasabhāgatā 'pi kiṃ neṣyate /
+> śāliyavamudgamāsāmrapanasalohakāñcanādīnāṃ svajātisādṛśyāt tāsāṃ ca sabhāgatānāmanyonyabhinnānāṃ kathamabhedena sabhāgatā prajñaptiḥ kriyate /
+> vaiśeṣikāścaivaṃ dyotitā bhavanti /
+> teṣāmapi hyeṣa siddhāntaḥ /
+> sāmānyapadārtho nāmāsti yataḥ samānapratyayotpattiratulyaprakāreṣvapīti /
 > ayaṃ tu teṣāṃ viśeṣaḥ /
-> sa eko 'py anekasmin vartate /
-> yadi dyotitā yadi na dyotitā /
-> asty eṣā tu sabhāgatā sūtre vacanād iti vaibhāṣikāḥ /
-> uktaṃ hi bhagavatā "sa ced itthantvam āgacchati manuṣyāṇāṃ sabhāgatām" iti /
-> uktam etan na tūktaṃ dravyāntaram iti /
+> sa eko 'pyanekasmin varttate yadi dyotitā yadi na dyotitā /
+> astyeṣā tu sabhāgatā sūtre vacanāditi vaibhāṣikāḥ /
+> ustaṃ hi bhagavatā "sa ceditthantvamāgacchati manuṣyāṇāṃ sabhāgatāmi"ti /
+> uktametannatūktaṃ dravyāntaramiti /
 > kā tarhi sā /
 > ta eva hi tathābhūtāḥ saṃskārā yeṣu manuṣyādiprajñaptiḥ śālyādiṣu sabhāgatāvat /
-> tattv etan na varṇayanti /
-> atha kim idam āsaṃjñikaṃ nāma /
-> āsaṃjñikam asaṃjñiṣu /
-> nirodhaś cittacaittānām /
-> asaṃjñisattveṣu deveṣūpapannānāṃ yaś cittacaittānāṃ nirodhas tad āsaṃjñikaṃ nāma dravyaṃ yena cittacaittā anāgate 'dhvani kālāntaraṃ saṃnirudhyante notpattuṃ labhante /
+> tattvetanna varṇayanti /
+> atha kimidamāsaṃjñikaṃ nāma /
+> āsaṃjñikamasaṃjñiṣu /
+> nirodhaścittacaittānāṃ
+> asaṃjñisattveṣu devepūpapannānāṃ yaścittacaittānāṃ nirodhastadāsaṃjñikaṃnāma dravyaṃ yena cittacaittā anāgate 'dhvani kālāntaraṃ saṃnirudhyante notpattuṃ labhante /
 > nadītoyasaṃnirodhavat /
-> tat punar ekāntena /
-> vipākaḥ /
-> kasya vipākaḥ / asaṃjñisamāpatteḥ /
-> katame te sattvā yeṣv asaṃjñisattvāḥ /
-> te bṛhatphalāḥ // 2.41 //
-> bṛhatphalā nāma devā yeṣāṃ kecid asaṃjñisattvāḥ pradeśe bhavanti dhyānāntarikāvat /
-> kiṃ punas te naiva kadācit saṃjñino bhavanti /
-> bhavanty upapattikāle cyutikāle ca /
-> "prakṛṣṭam api kālaṃ sthitvā saha saṃjñotpādāt teṣāṃ sattvānāṃ tatsthānāt cyutir bhavati" iti sūtre pāṭhaḥ /
-> te ca tato dīrghasvapnavyutthitā iva cyutvā kāmadhātāv upapadyante nānyatra /
-> pūrvasamāpattisaṃskāraparikṣayāt apūrvānupacayāc ca kṣiptā iva kṣīṇavegā iṣavaḥ pṛthivīṃ patanti /
-> yena ca tatropapattavyaṃ tasyāvaśyaṃ kāmāvacaraṃ karmāparaparyāyavedanīyaṃ bhavati /
-> yathottarakauravāṇāṃ devopapattivedanīyam /
+> tat punarekāntena
+> vipākaḥ
+> kasya vipākaḥ /
+> asaṃjñisamāpatteḥ /
+> katame te sattvā yeṣvasaṃjñisattvāḥ /
+> te bṛhatphalāḥ // VAkK_2.41 //
+> bṛhatphalā nāma devā yeṣāṃ kecidasaṃjñisattvāḥ pradeśe bhavanti dhyānāntarikāvat /
+> kiṃ punastenaiva kadāciat saṃśino bhavanti /
+> bhavantyupapattikāle cyutikāle ca /
+> "prakṛṣṭamapi kālaṃ sthitvā saha saṃjñotpādātteṣāṃ sattvānāṃ tatsthānāt cyutirbhavatī"ti sūtre pāthaḥ /
+> te ca tato dīrghasvapnavyutthitā iva cyutvā kāmadhātāvupapadyante nānyatra /
+> pūrvasamāpattisaṃskāraparikṣayāt apūrvānupacayācca kṣiptā iva kṣīṇavegā iṣavaḥ pṛthivīṃ patanti /
+> yena ca tatropapattavyaṃ tasyāvaśyaṃ kāmāvacaraṃ karmāparaparyāyavedanīyaṃbhavati /
+> yathottarakauravāṇāṃ devopapāttivedanīyam /
 
-The unit runs from 67.13 through 68.27 in
+The unit runs from printed 67.13 through 68.27 in
 [the running witness](../../Sources/kosabhasya.txt), including the
-post-verse account of reflective boundaries and subsequent rebirth.
-This is a normalized study transcription, not a collation. It
-regularizes, for example, *sākṛśyaṃ*, *skndha-*, *satvasttva*,
-*avkrāman* and *devepūpapannānāṃ*. The sentence division before
-*dharmasabhāgatā punaḥ* is normalized to distinguish the two
-classifications. The running
-*kiṃ punastenaiva kadāciat saṃśino* is provisionally divided and
-read as *kiṃ punas te naiva kadācit saṃjñino*, following the
-birth/death reply. The malformed locator for the river-water analogy
-is not a second passage. The Vaiśeṣika exchange's *dyotitā* and
-the closing *tattv etan na varṇayanti* are retained without claiming
-an independently collated resolution of their force.
+post-verse account of *saṃjñā* at birth and death and subsequent
+rebirth. This is an exact local-source transcription apart from
+removal of page locators and indentation. The malformed locator
+for the river-water analogy is omitted; its Sanskrit line remains.
+The source's *sākṛśyaṃ*, *skndha-*, *devepūpapannānāṃ*, and
+*kiṃ punastenaiva kadāciat saṃśino* remain as printed. The last
+question is damaged; the English reads it from the answer, without
+claiming a restored Sanskrit wording. The next attainment inquiry
+at 68.28 begins 2.42.
 
 ## 3. Continuous Conventional Translation
 
@@ -205,28 +200,25 @@ The sleep and spent-arrow comparisons, exhaustion of prior
 attainment formations, absence of new accumulation, and necessary
 later-experienced karma are all retained as steps in the account.
 
-## 7. Interpretation
+## 7. Reading Control
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, remaining distinct from
-consciousness and Mind. Shared designation is a determinate relation
-requiring explanation, not an automatic proof of another entity.
-The non-reflective presentation likewise requires keeping an
-attainment, its maturation, and the duration of that result distinct.
-The cessation of consciousness and factors is the source's claim;
-it should not be diluted to merely reduced attention, nor should
-the result be silently turned into the practice that precedes it.
+The same-class dispute asks whether recognition and designation
+require a further real entity. The Vaiśeṣika comparison and the
+Vaibhāṣika appeal to the sūtra are reported positions; the critic's
+reply accepts the wording without granting that extra entity.
+The second half of the verse changes subject. It calls the
+non-reflective cessation a maturation of an attainment, not the
+attainment itself. The birth and death exceptions delimit the
+interval of cessation in the account given here.
 
 ## 8. Review Status
 
-Paired source QA and executable Grammar–Logic review completed.
-The large presentations are preserved through 68.27: full same-class
+The complete 67.13–68.27 witness has been checked against the local
+source. The kārikā Grammar and Logic were left untouched in this pass.
+The presentations are preserved through 68.27: full same-class
 argument, four alternatives, Vaiśeṣika comparison, Vaibhāṣika
 scriptural defense and reply, and the non-reflective maturation
 with its boundaries and subsequent rebirth. Result and causal
 attainment are separated in translation, model, and seed. Damaged
 question wording and uncertain closing phrases remain marked.
-Detailed study and post-translation refinement of these extended
-Dharma presentations remain for later specialty passes. The next
-unit is 2.42, non-reflective attainment; only its opening boundary
-has been consulted.
+The next unit is 2.42, non-reflective attainment.

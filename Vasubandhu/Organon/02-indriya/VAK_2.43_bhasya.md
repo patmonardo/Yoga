@@ -14,44 +14,51 @@
 
 ## 2. Continuous Sanskrit Witness
 
-> nirodhasamāpattir idānīṃ katamā /
-> nirodhākhyā tathaiveyam /
-> yathaivāsaṃjñisamāpattiḥ /
+> nirodhasamāpattiridāniṃ katamā /
+> nirodhākhyā tathaiveyaṃ
+> yathaivāsaṃjñimāpatthiḥ /
 > tathāśabdena kaḥ prakāro gṛhyate /
-> nirodhaś cittacaittānām iti /
-> ayaṃ tv asyā viśeṣaḥ /
-> iyaṃ /
-> vihārārtham /
-> śāntavihārasaṃjñāpūrvakeṇa manasikāreṇa enāṃ samāpadyante /
-> tāṃ tu niḥsaraṇasaṃjñāpūrvakeṇa /
-> sā khalv api caturthadhyānabhūmikā /
-> iyaṃ tu /
+> "nirodhaścittacaittānāmi"ti /
+> ayaṃ tvasyā viśeṣaḥ /
+> iyaṃ
+> vihārārthaṃ
+> śāntavihārasaṃjñāpūarvakeṇa manasikāreṇa enāṃ samāpadyante /
+> tāṃ tu niḥsaraṇasaṃjñā pūrvakeṇa /
+> sā khalvapi caturthadhyānabhūmikā /
+> iyaṃ tu
 > bhavāgrajā /
 > naivasaṃjñānāsaṃjñāyatanabhūmikaiva /
-> sā ceyaṃ /
-> śubhā /
-> kuśalaiva na kliṣṭā nāvyākṛtā /
-> kuśalā satī /
+> sā ceyaṃ
+> śubhā
+> kuśalaiva na klilṣṭā nāvyākāṛtā /
+> kuśalā satī
 > dvivedyā 'niyatā ca /
-> dvayoḥ kālayor vedyā upapadyavedanīyā cāparaparyāyavedanīyā ca /
-> aniyatā ca vipākaṃ prati kadācin na vipacyate /
-> yadīha parinirvāyāt tasyā hi bhavāgre catuḥskandhako vipākaḥ /
-> sā ceyam ekāntena /
-> āryasya /
-> na hi pṛthagjanā nirodhasamāpattim utpādayituṃ śaknuvanty ucchedabhīrutvād āryamārgabalena cotpādanād dṛṣṭadharmanirvāṇasya tadadhimuktitaḥ /
+> dvayoḥ kālayorvedyā upapadyavedanīyā cāparaparyāyavedanīyā ca /
+> aniyatā ca vipākaṃ prati kadācinna vipacyate /
+> yadīha pariniarvāyāt tasyā hi bhavāgre catuḥskandhako vipākaḥ /
+> sā ceyamekāntena
+> āryasya
+> nahi pṛthagjanā nirodhasamāpattimutpādayituṃ śaknuvantyucchedabhīrutvādāryamārgabalena cotpādanāddṛṣṭadharmanirvāṇasya tadadhimuktitaḥ /
 > āryasyāpi ceyaṃ na vairāgyalabhyā /
 > kiṃ tarhi /
-> āpyā prayogataḥ // 2.43 //
+> āpyā prayogataḥ // VAkK_2.43 //
 > prayogalabhyaiveyam /
-> na cātītā labhyate nāpy anāgatā bhāvyate /
+> na cātītā labhyate nāpyanāgata bhāvyate /
 > cittabalena tadbhāvanāt /
 
 The 2.43 explanation runs from 69.24 through 70.21 in
 [the running witness](../../Sources/kosabhasya.txt).
-The inherited study continues into the Buddha-acquisition argument
-on the first half of 2.44, restored below through 71.16. The
-common Basis discussion beginning immediately afterward is reserved
-for the next paired unit.
+The block above is an exact local-source transcription apart from
+removal of page locators and indentation. It retains the source's
+*asaṃjñimāpatthiḥ*, *pūarvakeṇa*, *klilṣṭā*,
+*avyākāṛtā*, and *pariniarvāyāt*. The question on the same printed
+line at 70.21 opens 2.44 and is not part of the checked 2.43 block.
+
+### Inherited 2.44 look-ahead
+
+The following Buddha-acquisition argument belongs to the first half
+of 2.44. It remains here as an inherited look-ahead for continuity;
+the complete checked witness is now in 2.44's paired file.
 
 > kiṃ bhagavato 'pi prāyogikī /
 > nety āha /
@@ -81,17 +88,18 @@ for the next paired unit.
 > asyāśayasyāvyutthānād ekāyana eva sarvārthaparisamāpter iti bahirdeśakāḥ /
 > pūrvam eva tu varṇayanti kāśmīrāḥ /
 
-This is a normalized study transcription, not a collation.
-It regularizes *asaṃjñimāpatthiḥ*, *pūarvakeṇa*, *klilṣṭā*,
-*avyākāṛtā*, *pariniarvāyāt*, *parāyogikī*,
-*kṣayajñānasamanaṃ*, and *utapādanaṃ*, among spacing and
-orthographic defects. The Upagupta quotation's final *tathāgata*
+The 2.44 look-ahead is a normalized study transcription, not a
+collation. It regularizes *parāyogikī*, *kṣayajñānasamanaṃ*,
+and *utapādanaṃ*, among spacing and orthographic defects. The
+Upagupta quotation's final *tathāgata*
 is retained without completing its construction. The running
 *na tu āsrava mārgāvyutthānāt* remains damaged and uncollated;
 the English marks its contextual force rather than inventing
 a permission to interrupt. *Kila* remains on the thirty-four report.
 
 ## 3. Continuous Conventional Translation
+
+### 2.43 explanation
 
 What is the attainment of cessation? This, called cessation, is
 likewise—like non-reflective attainment. What feature does “likewise”
@@ -116,6 +124,8 @@ is not obtained by dispassion. How, then? It is acquired through
 application only. A past instance is not acquired, nor is a future
 instance cultivated, since that cultivation depends on the power
 of consciousness.
+
+### Inherited 2.44 look-ahead
 
 Is it acquired through application even for the Blessed One? No:
 for the Sage it is acquired through awakening. Buddhas obtain it
@@ -187,29 +197,25 @@ non-emergence clause is not a secure restored reading; the
 pledge concerns resolve and posture as argued by the speakers,
 not a settled permission to interrupt.
 
-## 8. Interpretation
+## 8. Reading Control
 
-In the Organon reading, Cognition joins and governs Perception and
-Conception and guides the Dharma Base, remaining distinct from
-consciousness and Mind. Shared cessation does not imply shared
-purpose, level, maturation, or acquisition. Nor is the attained
-cessation identical to final nirvāṇa: final nirvāṇa here explains
-why maturation may not occur. The practice, its result, and
-mastery over producing it must remain distinct determinations.
+“Likewise” carries only cessation of consciousness and mental
+factors from the other attainment. The Bhāṣya then differentiates
+purpose, level, maturation, eligible practitioner, and manner of
+acquisition. Final nirvāṇa is invoked to explain why maturation
+may fail to occur; it is not equated with this attainment.
+The Buddha-acquisition dispute displayed above is a 2.44
+continuation and should be evaluated with that verse.
 
 ## 9. Review Status
 
-Paired source QA and executable Grammar–Logic review completed.
-The full Sanskrit and English differentiations are restored,
-including the cross-verse Buddha-acquisition dispute inherited
-in this file. Timing alternatives and possible non-maturation
-are distinguished from ethical indeterminacy. The four-Base result,
-application rule, absence of past acquisition/future cultivation,
-and reported thirty-four count remain separate claims. Disputed
-accounts are indexed, not reconciled; damaged clauses remain
-marked. Detailed study of these arguments remains for the
-later specialty pass.
+The complete 69.24–70.21 passage belonging to 2.43 has been checked
+against the local Sanskrit source. The kārikā Grammar and Logic were
+left untouched. “Likewise” inherits cessation only; peaceful abiding,
+summit-level location, wholesome status, two possible maturation
+times or non-maturation, noble-person scope, and acquisition through
+application remain separate. The past-acquisition and future-cultivation
+negatives are both retained. The inherited 2.44 debate remains labeled
+as a look-ahead; its full source QA is in the 2.44 paired file.
 
-The next paired unit is 2.44, beginning with the Buddha-acquisition
-continuation already consulted here, then the shared Basis
-of the two attainments.
+The next paired unit is 2.44.

@@ -17,77 +17,71 @@
 > nāmakāyādayaḥ saṃjñāvākyākṣarasamuktayaḥ /
 > ādigrahaṇena padavyañjanakāyagrahaṇam /
 > tatra saṃjñākaraṇaṃ nāma /
-> tadyathā rūpaṃ śabda ity evamādiḥ /
-> vākyaṃ padaṃ yāvatā 'rthaparisamāptis tadyathā anityā vata saṃskārā ity evamādi yena kriyāguṇakālasaṃbandhaviśeṣā gamyante /
-> vyañjanam akṣaraṃ tadyathā a ā ity evamādi /
-> nanu cākṣarāṇy api lipyavayavānāṃ nāmāni /
-> na vai lipyavayavānāṃ pratyāyanārtham akṣarāṇi praṇītāny akṣarāṇām eva tu pratyāyanārthaṃ lipyavayavāḥ praṇītāḥ /
-> katham aśrūyamāṇāni lekhyena pratīyerann iti nākṣarāṇy eṣāṃ nāmāni /
+> tadyathā rūpaṃ śabda ityevamādiḥ /
+> vākyaṃ padaṃ yāvatā 'rthaparisamāptistadyathā "anityā vata saṃskārā" ityevamādi yena kriyāguṇakālasaṃbandhaviśeṣā gamyante /
+> vyañjanamakṣaraṃ tadyathā a ā ityevamādi /
+> nanu cākṣarāṇyapi lipyavayavānāṃ nāmāni /
+> na vai lipyavayavānāṃ pratyāyanārthamakṣārāṇi praṇītānyakṣarāṇāmeva tu pratyāyanārthaṃ lipyavayavāḥ praṇītāḥ /
+> kathamaśrūyamāṇāni lekhyena pratīyeranniti nākṣarāṇyeṣāṃ nāmāni /
 > eṣāṃ ca saṃjñādīnāṃ samuktayo nāmādikāyāḥ /
-> uca samavāye paṭhanti / tasya samuktir ity etad rūpaṃ bhavati /
-> yo 'rthaḥ samavāya iti so 'rthaḥ samuktir iti /
-> tatra nāmakāyas tadyathā rūpaśabdagandharasaspraṣṭavyānīty evamādi /
-> padakāyaḥ tadyathā sarvasaṃskārā anityāḥ sarvadharmā anātmānaḥ śāntaṃ nirvāṇam ity evamādi /
-> vyañjanakāyas tadyathā ka kha ga gha ñety evamādi /
-> nanu caite vāksvabhāvatvāc chabdātmakā iti rūpasvabhāvā bhavanti /
-> kasmāc cittaviprayuktā ity ucyante / naite vāksvabhāvāḥ /
-> ghoṣo hi vāk na ca ghoṣamātreṇārthāḥ pratīyante /
-> kiṃ tarhi / vāṅ nāmni pravartate nāmārthaṃ dyotayati /
-> naiva ghoṣamātraṃ vāg yena tu ghoṣeṇārthaḥ pratīyate sa ghoṣo vāk /
-> kena punar ghoṣeṇārthaḥ pratīyate /
-> yo 'rtheṣu kṛtāvadhir vaktṛbhis tadyathā gaur ity eṣa śabdo navasv artheṣu kṛtāvadhiḥ /
-> vāgdigbhūraśmivajreṣu paśvakṣisvargavāriṣu /
-> navasv artheṣu medhāvī gośabdam upadhārayed iti //
-> yo 'pi hi manyate nāmārthaṃ dyotayatīti tenāpy etad avaśyam abhyupagantavyaṃ yadi pratipadārthakaṃ bhavatīti /
-> tac caitac chabdamātrād eva pratītapadārthakāt sidhyatīti kimarthakaṃ nāma kalpayitvā /
-> idaṃ cāpi na jñāyate kathaṃ vāṅ nāmni pravartata iti /
-> kiṃ tāvad utpādayaty āhosvit prakāśayati /
-> yady utpādayati / ghoṣasvabhāvatvād vācaḥ sarvaṃ ghoṣamātraṃ nāmotpādayiṣyati /
-> yādṛśo vā ghoṣaviśeṣa iṣyate nāmna utpādakaḥ sa evārthasya dyotako bhaviṣyati /
-> atha prakāśayati / ghoṣasvabhāvatvād vācaḥ sarvaṃ ghoṣamātraṃ nāma prakāśayiṣyati /
-> yādṛśo vā ghoṣaviśeṣa iṣyate nāmnaḥ prakāśakaḥ sa evārthasya dyotako bhaviṣyati /
-> na khalv api śabdānāṃ sāmagryam asti kṣaṇaikamilanam /
-> na caikasya bhāgaśa utpādo yukta iti katham utpādayantī vāṅ nāmotpādayet /
-> kathaṃ tāvad atītāpekṣaḥ paścimo vijñaptikṣaṇa utpādayaty avijñaptim /
-> evaṃ tarhi paścima eva de nāmna utpādād yo 'pi tam evaikaṃ śṛṇoti so 'py arthaṃ pratipadyeta /
-> athāpy evaṃ kalpyeta vāg vyañjanaṃ janayati vyañjanaṃ tu nāmeti /
-> atrāpi sa eva prasaṅgo vyañjanānāṃ sāmagryābhāvāt /
+> uca samavāye paṭhanti /
+> tasya samuktirityetad rūpaṃ bhavati /
+> yo 'rthaḥ samavāya iti so 'rthaḥ samuktiriti /
+> tatra nāmakāyastadyathā rūpaśabdagandharasaspraṣṭavyānītyevamādi /
+> padakāyaḥ tadyathā "sarvasaṃskārā anityāḥ sarvadharma anātmānaḥ śāntaṃ nirvāṇami" tyevamādi /
+> vyañjanakāyastadyathā ka kha ga gha ñetyevamādi /
+> nanu caite vāksvabhāvatvācchabdātmakā iti rūpasvabhāvā bhavanti /
+> kasmāccittaviprayuktā ityucyante /
+> naite vāksvabhāvāḥ /
+> ghoṣo hi vāk naca ghoṣāmātrenārthāḥ pratīyante /
+> kiṃ tarhi /
+> vāṅnāmni pravrttate nāmārthaṃ dyotayati naiva ghoṣamātraṃ vāg yena tu ghoṣeṇārthaḥ pratīyate sa ghoṣo vāk /
+> kena punarghoṣeṇārthaḥ pratīyate /
+> yo 'rtheṣu kṛtāvadhirvaktṛbhistadyathāgaurityeṣa śabdo navasvartheṣu kṛtāvadhiḥ /
+> "vāgdigbhūraśmivajreṣu paśvakṣisvargavāriṣu /
+> navasvartheṣu medhāvī gośabdamupadhārayedi"ti //
+> yo 'pi hi manyate nāmārthaṃ dyotayatīti tenāpyetadavaśyamabhyupagantavyaṃ yadi pratīpadārthakaṃ bhavatīti /
+> taccaita cchabdamātrādeva pratītapadārthakāt sidhyatīti kimartharaṃ nāma kalpayitvā /
+> idaṃ cāpi na jñāyate kathaṃ vāṅnāmni pravarttata iti /
+> kiṃ tāvadutpādayatyāhosvit prakāśayati /
+> yadyutpāda yati /
+> ghoṣasvavatvādvācaḥ sarvaṃ ghoṣamātraṃ nāmotpādayiṣyati yādṛśo vā ghoṣaviāśeṣa iṣyate nāmna utpādakaḥ sa evārthasya dyotako bhaviṣyati /
+> atha prakāśayati /
+> ghoṣasvabhāvatvādvācaḥ sarvaṃ ghoṣamātraṃ nāma prakaśayiṣyati yādṛśo vā ghoṣaviśeṣa iṣyate nāmnaḥ parakāśakaḥ sa evārthasya dyotako bhaviṣyati /
+> na khalvapi śabdānāṃ sāmargyamasti kṣaṇaikamilanam /
+> na caikasya bhāgaśa utpādo yukta iti kathamutpādayantī vāṅnāmotpādayet /
+> kathaṃ tāvadatītāpekṣaḥ paścimo vijñaptikṣaṇa utpādayatyavijñaptim /
+> evaṃ tarhi paścima eva de nāmna utpādādyo 'pi tamevaikam śṛṇoti so 'pyarthaṃ pratipadyeta /
+> athāpyevaṃ kalpyeta vāgvyañjanaṃ janayati vyañjanaṃ tu nāmeti /
+> atrāpi sa eva prasaṅgo vyañjanāṃ sāmargyābhāvāt /
 > eṣa eva ca prasaṅgo nāmnaḥ prakāśakatve vācaḥ /
-> vyañjanānām api vāgviśiṣṭaprajñā apy avyavahitacetaskā lakṣaṇataḥ paricchettuṃ notsahanta iti vyañjanasya api vāṅ naivotpādikā na prakāśikā yujyate /
-> athāpy arthasahajaṃ nāma jātyādivad iṣyate /
-> evaṃ saty atītānāgatasyārthasya vartamānaṃ nāma na syāt /
-> apatyānāṃ pitṛbhir yatheṣṭaṃ nāmāni kalpyanta iti kataman nāma tatsahajaṃ syāt /
-> asaṃskṛtānāṃ ca dharmāṇāṃ kena sahajaṃ nāma syād ity aniṣṭir eveyam /
-> yad apy uktaṃ bhagavatā / nāmasaṃniśritā gāthā gāthānāṃ kavir āśraya iti //
-> atrārtheṣu kṛtāvadhiḥ śabdo nāma nāmnā ca racanāviśeṣo gātheti nāmasaṃniśritā bhavati /
-> racanāviśeṣaś ca dravyāntaraṃ nopapadyate /
-> paṅktivac cittānupūrvyavac ca /
+> vyañjanāṃ pi vāgviśiṣṭaprajñā apyavahitacetaskā lakṣaṇataḥ paricchettum notsahanta iti vyañjayāpi vāk naivotpādikā na prakāśikā yujyate /
+> athāpyarthasahajaṃ nāma jātyādivadiṣyate /
+> evaṃ satyatītānāgatasyārthasya varttamānaṃ nāma na syād /
+> apatyānāṃ pitṛbhiryatheṣṭaṃ nāmāni kalpyanta iti katamannāma tatsahajaṃ syāt asaṃskṛtānāṃ ca dharmāṇāṃ kena sahajaṃ nāma syādityaniṣṭireveyam /
+> yadapyuktaṃ bhagavatā
+> "nāmasaṃniśāritā gāthā gāthānāṃ kavirāśrayaḥ" iti
+> atrārtheṣu kṛtāvadhiḥ śabdo nāma nāmnā ca racanāviśeṣo gātheti nāmasaṃnitābhavati racanāviśeṣāśca dravyāntaraṃ nopapadyate /
+> paṅktivaccittānupūrvyavacca /
 > astu vā vyañjanamātrasya dravyāntarabhāvaparikalpanā /
-> tatsamūhā eva nāmakāyādayo bhaviṣyantīty apārthikā tatprajñaptiḥ /
-> santy eva tu viprayuktasaṃskārabhāvena nāmakāyā dravyata iti vaibhāṣikāḥ /
-> na hi sarvadharmās tarkagamyā bhavantīti /
+> tatsamūhā eva nāmakāyādayo bhaviṣyantītyapārthikā tatprajñaptiḥ /
+> santyeva tu viprayuktasaṃskārabhāvanā nāmakāyā dravyata iti vaibhāṣikāḥ /
+> nahi sarva dharmāstarkagamyā bhavantīti /
 > atha kiṃpratisaṃyuktā ete nāmakāyādayaḥ sattvākhyā asattvākhyā vipākajā aupacayikā naiḥṣyandikāḥ kuśalā akuśalā avyākṛtā iti vaktavyam /
-> āha / kāmarūpāptasattvākhyā niḥṣyandāvyākṛtāḥ /
-> kāmāptā rūpāptāś ceti /
-> ārūpyāptā api santi te tv anabhilāpyā ity apare /
+> āha
+> kāmarūpāptasattvākhyā niḥṣyandāvyākṛtāḥ /
+> kāmāptā rūpāptāśceti /
+> ārupyāptā api santi te tvanabhilāpyā ityapare /
 > sattvākhyā ete /
-> yaś ca dyotayati sa taiḥ samanvāgato na yo dyotyate /
-> naiḥṣyandikā anivṛtāvyākṛtāś ca /
-> yathā caite nāmakāyādayaḥ sattvākhyā naiḥṣyandikā anivṛtāvyākṛtāś ca /
-> tathā // 2.47 //
+> yaśca dyotayati sa taiḥ samanvāgato na yo dyotyate /
+> naiḥṣyandikā anivṛtāvyākṛtāśca /
+> yathā caite nāmakāyādayaḥ sattvākhyā naiḥṣyandikā anivṛtāvyākṛtāśca /
+> tathā // VAkK_2.47 //
 
-The unit runs from 80.12 through 82.08 in
-[the running witness](../../Sources/kosabhasya.txt).
-This is a normalized study transcription, not a collation.
-It regularizes defective *ghoṣāmātra*, *sāmargya*,
-*kimartharaṃ*, *saṃniśāritā*, and *viprayuktasaṃskārabhāvanā*,
-among sandhi and orthographic defects. The syllable example's
-*ñ* after *gha* is retained, not silently replaced by *ṅ*.
-The damaged *paścima eva de* and the sentence about delimiting
-*vyañjana* remain marked as uncertain in translation. “Likewise”
-at 82.08 continues into the same-class clause at 82.09,
-the opening of 2.48; its subject is not supplied as another
-name-group property.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 80.12 through 82.08. Its spelling and damaged readings are retained.
+The `tathā` at 82.08 leads into 2.48 at 82.09; no subject is
+supplied for it here.
 
 ## 3. Continuous Conventional Translation
 
@@ -242,28 +236,23 @@ It does not transfer the two-Realm restriction:
 same-class is there assigned to all three Realms
 and also admits maturation.
 
-## 7. Interpretation
+## 7. Reading Control
 
-In the Organon reading, Cognition joins and governs
-Perception and Conception and guides the Dharma
-Base, remaining distinct from consciousness and
-Mind. Meaningful conventional sound, its temporal
-sequence, and a proposed distinct name-entity
-are not interchangeable determinations. The
-argument tests whether a further entity explains
-anything beyond convention and arrangement,
-while the Vaibhāṣikas maintain its reality.
-Classification must not erase that opposition.
+The initial account classifies name, sentence, and syllable groups
+as formations dissociated from consciousness. The critic argues
+that conventionally applied sound and its arrangement already
+explain intelligible speech, and presses the difficulty of producing
+or revealing a separate name through successive sounds. The
+Vaibhāṣikas reaffirm the groups as distinct entities before the
+classification resumes. Their reaffirmation is an attributed
+position, not a conclusion supplied by the critic's argument.
 
 ## 8. Review Status
 
-Paired source QA and executable Grammar–Logic
-review completed. The omitted linguistic debate
-is restored through the classifications and
-cross-verse “likewise.” The three collections
-are respectively mapped, signifier and signified
-are distinguished, and the attributed Formless
-extension is kept separate. Damaged clauses
-remain marked. The next unit is 2.48, whose
-opening same-class continuation has been read
-to establish this boundary.
+The Sanskrit witness has been checked against the complete local
+source span, 80.12 through 82.08. The continuous translation
+covers the three collections, the sound and convention argument,
+production and revelation, the co-arising proposal, the verse
+quotation, the Vaibhāṣika reply, and the classifications in
+source order. Damaged clauses remain marked. The kārikā Grammar
+and Logic files were not changed in this pass.

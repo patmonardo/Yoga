@@ -11,39 +11,83 @@
 > pervasive have homogeneous outflow; the co-arisen and associated have
 > efficacy as fruit.
 
-## 2. Sanskrit Witness — Selected Passages
+## 2. Continuous Sanskrit Witness
 
-> vipākaphalam antyasya /
+> athaiṣāṃ phalānāṃ katamat phalaṃ kasya hetoḥ /
+> vipākaphalamantyasya
+> vipākaheturantye 'bhihitatvāt antyaḥ /
 > tasya vipākaphalam /
 > pūrvasyādhipataṃ phalam /
-> kāraṇahetuḥ pūrvam uktatvāt pūrvaḥ /
+> kāraṇahetuḥ pūrvamuktatvāt pūrvaḥ /
 > tasyādhipajaṃ phalam /
-> sabhāgasarvatragayor niṣyandaḥ /
-> sadṛśaphalatvād anayor niḥṣyandaphalam /
-> pauruṣaṃ dvayoḥ // 2.56 //
+> anāvaraṇabhāvamātreṇāvasthitasya kimādhipatyam /
+> etadeva aṅgībhāvo 'pi cāsti kāraṇahetostadyathā "pañcasu vijñānakāyeṣudaśānāmāyatanānāṃ bhājanaloke ca karmaṇām /
+> śrotrādīnāmapyasti cakṣurvijñānotpattau pāraṃparyeṇādhipatyam /
+> śrutvā draṣṭukāmatotpatte" rityevamādi yojyam /
+> sabhāga sarvatragayorniṣyandaḥ
+> sadṛśaphalatvādanayorniḥṣyandaphalam /
+> pauruṣaṃ dvayoḥ // VAkK_2.56 //
 > sahabhūsaṃprayuktakahetvoḥ puruṣakāraphalam /
-> ko 'yaṃ puruṣakāro nāma / yasya dharmasya yat kāritram /
+> puruṣabhāvavyatirekāt puruṣakāraḥ puruṣaṃ eva /
+> tasya phalaṃ pauruṣam /
+> ko 'yaṃ puruṣakāro nāma /
+> yasya dharmasya yat kāritram /
+> puruṣakāra iva hi puruṣakāraḥ /
+> tadyathā kākajaṅghā oṣadhirmattahastī manuṣya iti /
 > kimanyeṣāmapyasti puruṣakāraphāmutāho dvayoreva /
 > anyeṣāmapyastyanyatra vipākahetoḥ /
-> tasyāpyasti viprakṛṣṭapuruṣakāraphalam / yathā karṣakāṇāṃ sasyamityapare /
+> yasmātsahotpannaṃ vā samanantarotpannaṃ vā puruṣakāraphalaṃ bhavati /
+> na caivaṃ vipākaḥ /
+> tasyāpyasti viprakṛṣṭapuruṣakāraphalam /
+> yathā karṣakāṇāṃ sasyamityapare /
 
-The selected witness extends through 95.08; the unit begins at 94.19
-in [the running witness](../../Sources/kosabhasya.txt). The verse
-reads *adhipataṃ* at 94.21; the explanatory prose reads *adhipajaṃ*
-at 94.22. This distinction is retained, not silently normalized.
-The remaining quoted forms are study word divisions, not a collation.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 94.18 through 95.08. The kārikā reads `adhipataṃ` at
+94.21, while the prose reads `adhipajaṃ` at 94.22. Both are
+retained. The question defining the fruits begins at 95.09.
 
-## 3. Conventional Argument Summary
+## 3. Continuous Conventional Translation
 
-The last has maturation-fruit. The first has predominance. What predominance has mere non-obstruction? That very non-obstruction. A contributory role too. Homogeneous and pervasive have a similar fruit. Homogeneous outflow. The two are co-arisen and associated. Fruit of efficacy. Efficacy is the activity a dharma performs. Called a person's activity by resemblance. The later question shows the assignment is not exclusive: other causes can also have efficacy-fruit, except maturation cause in the main reply. A further opinion gives maturation cause a distant efficacy-fruit, likened to farmers' crop; it is reported without being made the principal assignment.
+Which fruit belongs to which of these causes? The last cause has
+maturation as its fruit. “Last” means the maturation cause, named
+last in the list. The first has predominance-born fruit: “first”
+means the conditioning cause, named first. What predominance does
+one have by mere non-obstruction? That itself counts, and a
+conditioning cause can also make a positive contribution. Thus
+ten Essences have predominance in relation to the five groups of
+Cognition, and actions in relation to the surrounding world.
+Ear and the other Faculties can also have an indirect predominance
+in the arising of eye Cognition: after hearing, for example,
+one may wish to see. Extend the account in this way.
 
-## 4. Interpretation
+Homogeneous and pervasive causes have homogeneous outflow as fruit,
+because each produces a similar result. The two co-arisen and
+associated causes have the fruit of activity (*puruṣakāra*). What
+is this activity? It is whatever work a dharma performs. The
+expression is figurative, like other names that compare one thing
+to another [the source gives the herb “crow's leg” and a person
+called “mad elephant”].
 
-The verse assigns each cause its characteristic fruit. The Bhāṣya then distinguishes principal assignment from further fruit relations and attributes the distant-crop alternative. *Puruṣakāra* names a dharma's activity by figure; it does not introduce an external Puruṣa agent.
+Do only these two causes have activity as fruit, or do the others
+also? The others do too, except the maturation cause, says the
+first reply. An activity-fruit arises together with, or immediately
+after, its cause; maturation does neither. Others hold that even
+the maturation cause has a remote activity-fruit, as a crop is the
+fruit of farmers' work. That is an attributed alternative, not
+the verse's principal assignment.
+
+## 4. Reading Control
+
+The verse assigns each cause its characteristic fruit. The Bhāṣya
+then distinguishes that principal assignment from further fruit
+relations and attributes the remote-crop alternative to others.
+*Puruṣakāra* describes the work of a dharma by a figure of speech;
+the prose explicitly asks what that work is before considering
+whether other causes also have such a fruit.
 
 ### Grammar of the Bhāṣya determination
 
-The selected [095|05–06] reply, *anyeṣām apy asti anyatra vipākahetoḥ*, limits the verse's apparent exclusivity. Sandhi is opened for the normalized parse. The following distant-crop opinion remains a separate reported claim.
+The [095|05–06] reply, *anyeṣām apy asti anyatra vipākahetoḥ*, limits the verse's apparent exclusivity. Sandhi is opened for the normalized parse. The following distant-crop opinion remains a separate reported claim.
 
 ```text
 # tokens: anyeṣām api asti anyatra vipākahetoḥ
@@ -128,4 +172,9 @@ The countertests reject an exclusive reading of *dvayoḥ*, importing the distan
 
 ## 5. Review Status
 
-Grammar and Logic added for the selected [095|05–06] Bhāṣya reply and its attributed alternative. The Sanskrit witness is still partial and uncollated. The assignment is principal, not exclusive.
+The complete Sanskrit witness has been checked against the local
+source from 94.18 through 95.08. The continuous translation covers
+the four principal fruit assignments, the examples of predominance,
+the activity figure, and the two answers on further activity-fruits.
+The embedded study grammar and logic have not been re-tested in this
+pass, and the separate kārikā Grammar and Logic files were not changed.
