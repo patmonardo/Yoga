@@ -1,4 +1,4 @@
-# VAK_2.08 Bhāṣya — Gladness, Distress, and One Neutral Feeling
+# VAK_2.08 Bhāṣya — Gladness, Distress, One Neutral
 
 ## 1. Kārikā Anchor
 

@@ -1,4 +1,4 @@
-# VAK_2.54 Bhāṣya — Pervasive and Maturation
+# VAK_2.54 Bhāṣya — Pervasive Cause and Maturation Cause
 
 ## 1. Kārikā Anchor
 

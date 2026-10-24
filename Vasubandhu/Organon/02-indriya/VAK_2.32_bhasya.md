@@ -1,4 +1,4 @@
-# VAK_2.32 Bhāṣya — Moral Shame, Caution, Affection, and Respect
+# VAK_2.32 Bhāṣya — The Distinctions
 
 ## 1. Kārikā Anchor
 

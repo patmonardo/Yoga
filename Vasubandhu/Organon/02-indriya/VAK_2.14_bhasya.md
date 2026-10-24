@@ -1,4 +1,4 @@
-# VAK_2.14 Bhāṣya — Initial Acquisition as Maturation
+# VAK_2.14 Bhāṣya — First Acquired as Maturation
 
 ## 1. Kārikā Anchor
 

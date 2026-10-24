@@ -1,4 +1,4 @@
-# VAK_2.16 Bhāṣya — Faculties Through Which the Fruits Are Attained
+# VAK_2.16 Bhāṣya — Fruits Through Faculties
 
 ## 1. Kārikā Anchor
 

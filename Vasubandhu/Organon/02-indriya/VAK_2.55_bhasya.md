@@ -1,4 +1,4 @@
-# VAK_2.55 Bhāṣya — Times and Disconnection
+# VAK_2.55 Bhāṣya — Times of the Causes
 
 ## 1. Kārikā Anchor
 

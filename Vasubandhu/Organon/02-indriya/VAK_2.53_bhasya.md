@@ -1,4 +1,4 @@
-# VAK_2.53 Bhāṣya — Application and Associated
+# VAK_2.53 Bhāṣya — Application, and the Associated Cause
 
 ## 1. Kārikā Anchor
 

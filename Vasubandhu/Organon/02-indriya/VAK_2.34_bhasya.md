@@ -1,4 +1,4 @@
-# VAK_2.34 Bhāṣya — Names of Consciousness and Fivefold Association
+# VAK_2.34 Bhāṣya — One Meaning, Fivefold Association
 
 ## 1. Kārikā Anchor
 

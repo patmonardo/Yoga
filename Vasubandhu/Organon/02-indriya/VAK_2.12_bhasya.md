@@ -1,4 +1,4 @@
-# VAK_2.12 Bhāṣya — Faculties and Realm-Connection
+# VAK_2.12 Bhāṣya — Realm-Connection
 
 ## 1. Kārikā Anchor
 

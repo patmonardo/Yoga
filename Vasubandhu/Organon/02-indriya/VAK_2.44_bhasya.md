@@ -1,4 +1,4 @@
-# VAK_2.44 Bhāṣya — Basis, Loss, and the Return of Consciousness
+# VAK_2.44 Bhāṣya — Awakening, Basis, and First Production
 
 ## 1. Kārikā Anchor
 

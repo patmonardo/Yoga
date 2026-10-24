@@ -1,4 +1,4 @@
-# VAK_2.02 Bhāṣya — Governing Apprehension, and the Body-Portion
+# VAK_2.02 Bhāṣya — Own Meaning, and the Body-Portion
 
 ## 1. Kārikā Anchor
 

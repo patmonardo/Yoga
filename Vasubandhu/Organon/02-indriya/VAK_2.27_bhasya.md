@@ -1,4 +1,4 @@
-# VAK_2.27 Bhāṣya — The Restricted Ground of Afflictions
+# VAK_2.27 Bhāṣya — The Limited Ground
 
 ## 1. Kārikā Anchor
 

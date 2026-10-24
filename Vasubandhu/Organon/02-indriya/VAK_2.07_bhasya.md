@@ -1,4 +1,4 @@
-# VAK_2.07 Bhāṣya — Bodily Feeling and Third-Dhyāna Pleasure
+# VAK_2.07 Bhāṣya — Pain, and Pleasure in the Third Dhyāna
 
 ## 1. Kārikā Anchor
 

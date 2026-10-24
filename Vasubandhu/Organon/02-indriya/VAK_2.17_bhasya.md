@@ -1,4 +1,4 @@
-# VAK_2.17 Bhāṣya — Necessary Possession of Neutral Feeling, Life, and Mind
+# VAK_2.17 Bhāṣya — The Necessary Three
 
 ## 1. Kārikā Anchor
 

@@ -1,4 +1,4 @@
-# VAK_2.21 Bhāṣya — The Greatest Number of Faculties Possessed
+# VAK_2.21 Bhāṣya — The Greatest Number
 
 ## 1. Kārikā Anchor
 

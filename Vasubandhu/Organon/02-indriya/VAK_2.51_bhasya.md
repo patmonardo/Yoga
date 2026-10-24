@@ -1,4 +1,4 @@
-# VAK_2.51 Bhāṣya — Followers of Mind
+# VAK_2.51 Bhāṣya — Followers of Consciousness
 
 ## 1. Kārikā Anchor
 

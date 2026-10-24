@@ -1,4 +1,4 @@
-# VAK_2.01 Bhāṣya — Faculties and Governing Efficacy
+# VAK_2.01 Bhāṣya — Governing Efficacy
 
 ## 1. Kārikā Anchor
 

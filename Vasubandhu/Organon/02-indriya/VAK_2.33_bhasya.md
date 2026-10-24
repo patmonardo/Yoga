@@ -1,4 +1,4 @@
-# VAK_2.33 Bhāṣya — Examination, Conceit, and Intoxication
+# VAK_2.33 Bhāṣya — Coarse and Subtle
 
 ## 1. Kārikā Anchor
 

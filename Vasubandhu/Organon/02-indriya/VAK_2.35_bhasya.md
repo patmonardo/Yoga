@@ -1,4 +1,4 @@
-# VAK_2.35 Bhāṣya — Formations Dissociated from Consciousness
+# VAK_2.35 Bhāṣya — Dissociated Formations
 
 ## 1. Kārikā Anchor
 

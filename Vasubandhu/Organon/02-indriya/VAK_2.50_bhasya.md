@@ -1,4 +1,4 @@
-# VAK_2.50 Bhāṣya — Co-Arisen Cause
+# VAK_2.50 Bhāṣya — Co-arisen Cause
 
 ## 1. Kārikā Anchor
 

@@ -1,4 +1,4 @@
-# VAK_2.61 Bhāṣya — From Causes to Conditions
+# VAK_2.61 Bhāṣya — Four Conditions
 
 ## 1. Kārikā Anchor
 

@@ -1,4 +1,4 @@
-# VAK_2.22 Bhāṣya — Necessary Co-Arising of Form Dharmas
+# VAK_2.22 Bhāṣya — What Arises Together
 
 ## 1. Kārikā Anchor
 

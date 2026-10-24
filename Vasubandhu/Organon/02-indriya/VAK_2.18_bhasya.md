@@ -1,4 +1,4 @@
-# VAK_2.18 Bhāṣya — Further Relations of Necessary Possession
+# VAK_2.18 Bhāṣya — What Possession Entails
 
 ## 1. Kārikā Anchor
 

@@ -1,4 +1,4 @@
-# VAK_2.30 Bhāṣya — Indeterminate Consciousness and the Addition of Torpor
+# VAK_2.30 Bhāṣya — The Indeterminate Counts
 
 ## 1. Kārikā Anchor
 

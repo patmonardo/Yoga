@@ -1,4 +1,4 @@
-# VAK_2.25 Bhāṣya — The Wholesome Great-Ground Factors
+# VAK_2.25 Bhāṣya — Always in the Wholesome
 
 ## 1. Kārikā Anchor
 

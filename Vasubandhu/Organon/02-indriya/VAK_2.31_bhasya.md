@@ -1,4 +1,4 @@
-# VAK_2.31 Bhāṣya — Mental-Factor Exclusions at Higher Levels
+# VAK_2.31 Bhāṣya — What the Higher Levels Drop
 
 ## 1. Kārikā Anchor
 

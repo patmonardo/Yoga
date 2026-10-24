@@ -1,4 +1,4 @@
-# VAK_2.05 Bhāṣya — The Scope of the Faculty Enumeration
+# VAK_2.05 Bhāṣya — As Far As That
 
 ## 1. Kārikā Anchor
 

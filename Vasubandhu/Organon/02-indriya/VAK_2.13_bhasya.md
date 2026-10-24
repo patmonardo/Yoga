@@ -1,4 +1,4 @@
-# VAK_2.13 Bhāṣya — What Is and Is Not to Be Abandoned
+# VAK_2.13 Bhāṣya — To Be Abandoned, and Not
 
 ## 1. Kārikā Anchor
 

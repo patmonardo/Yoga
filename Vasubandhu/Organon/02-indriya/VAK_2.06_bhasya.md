@@ -1,4 +1,4 @@
-# VAK_2.06 Bhāṣya — Engagement, Withdrawal, and the Limit
+# VAK_2.06 Bhāṣya — Engagement and Withdrawal
 
 ## 1. Kārikā Anchor
 

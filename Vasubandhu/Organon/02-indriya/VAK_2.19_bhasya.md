@@ -1,4 +1,4 @@
-# VAK_2.19 Bhāṣya — Possession of the Realization Faculties
+# VAK_2.19 Bhāṣya — Realization and What It Entails
 
 ## 1. Kārikā Anchor
 

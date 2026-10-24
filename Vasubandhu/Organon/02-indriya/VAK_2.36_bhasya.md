@@ -1,4 +1,4 @@
-# VAK_2.36 Bhāṣya — Acquisition, Possession, and the Seed Account
+# VAK_2.36 Bhāṣya — Acquisition
 
 ## 1. Kārikā Anchor
 

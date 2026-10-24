@@ -1,4 +1,4 @@
-# VAK_2.09 Bhāṣya — Path Designations and Āsrava Classification
+# VAK_2.09 Bhāṣya — Nine as Three, and the Partition
 
 ## 1. Kārikā Anchor
 

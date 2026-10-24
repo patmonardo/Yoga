@@ -1,4 +1,4 @@
-# VAK_2.11 Bhāṣya — Ethical Quality of the Faculties
+# VAK_2.11 Bhāṣya — Wholesome, Unwholesome, Indeterminate
 
 ## 1. Kārikā Anchor
 

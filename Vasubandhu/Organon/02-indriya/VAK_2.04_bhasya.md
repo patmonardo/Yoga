@@ -1,4 +1,4 @@
-# VAK_2.04 Bhāṣya — Successive Attainment and Liberated Abiding
+# VAK_2.04 Bhāṣya — The Three That Complete the Eight
 
 ## 1. Kārikā Anchor
 

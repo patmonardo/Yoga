@@ -1,4 +1,4 @@
-# VAK_2.15 Bhāṣya — Cessation of Faculties at Death
+# VAK_2.15 Bhāṣya — What Ceases at Death
 
 ## 1. Kārikā Anchor
 

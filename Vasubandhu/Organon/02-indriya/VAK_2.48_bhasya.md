@@ -1,4 +1,4 @@
-# VAK_2.48 Bhāṣya — Same-Class and the Close
+# VAK_2.48 Bhāṣya — Result-Sort
 
 ## 1. Kārikā Anchor
 

@@ -1,4 +1,4 @@
-# VAK_2.20 Bhāṣya — The Fewest Faculties Possessed
+# VAK_2.20 Bhāṣya — The Fewest
 
 ## 1. Kārikā Anchor
 

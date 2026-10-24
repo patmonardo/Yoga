@@ -1,4 +1,4 @@
-# VAK_2.66 Bhāṣya — Twelve Kinds of Mind
+# VAK_2.66 Bhāṣya — Twelve Kinds of Consciousness
 
 ## 1. Kārikā Anchor
 

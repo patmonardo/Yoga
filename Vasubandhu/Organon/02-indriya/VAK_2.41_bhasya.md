@@ -1,4 +1,4 @@
-# VAK_2.41 Bhāṣya — Same-Class and the Non-Reflective Result
+# VAK_2.41 Bhāṣya — Same-Class and the Non-Reflective
 
 ## 1. Kārikā Anchor
 

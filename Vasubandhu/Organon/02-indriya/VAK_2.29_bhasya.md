@@ -1,4 +1,4 @@
-# VAK_2.29 Bhāṣya — Counting Unwholesome Mental Factors
+# VAK_2.29 Bhāṣya — How Many in the Unwholesome
 
 ## 1. Kārikā Anchor
 

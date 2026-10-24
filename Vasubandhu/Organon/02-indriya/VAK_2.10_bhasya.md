@@ -1,4 +1,4 @@
-# VAK_2.10 Bhāṣya — Maturation and What Produces It
+# VAK_2.10 Bhāṣya — Maturation, and What Produces It
 
 ## 1. Kārikā Anchor
 

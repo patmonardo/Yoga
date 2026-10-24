@@ -1,4 +1,4 @@
-# VAK_2.46 Bhāṣya — Primary and Secondary Marks
+# VAK_2.46 Bhāṣya — Secondary Marks, and the Restriction
 
 ## 1. Kārikā Anchor
 

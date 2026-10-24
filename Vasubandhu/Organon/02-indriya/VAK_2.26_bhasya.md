@@ -1,4 +1,4 @@
-# VAK_2.26 Bhāṣya — Afflicted and Unwholesome Mental Factors
+# VAK_2.26 Bhāṣya — Always in the Afflicted
 
 ## 1. Kārikā Anchor
 

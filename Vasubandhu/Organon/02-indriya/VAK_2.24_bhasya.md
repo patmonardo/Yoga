@@ -1,4 +1,4 @@
-# VAK_2.24 Bhāṣya — The Ten Factors in Every Consciousness
+# VAK_2.24 Bhāṣya — In Every Consciousness
 
 ## 1. Kārikā Anchor
 

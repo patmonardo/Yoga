@@ -1,4 +1,4 @@
-# VAK_2.23 Bhāṣya — Co-Arising and the Grounds of Mental Factors
+# VAK_2.23 Bhāṣya — Consciousness and the Factors
 
 ## 1. Kārikā Anchor
 

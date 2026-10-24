@@ -1,4 +1,4 @@
-# VAK_2.28 Bhāṣya — Wholesome Consciousness and Regret
+# VAK_2.28 Bhāṣya — How Many in the Wholesome
 
 ## 1. Kārikā Anchor
 
