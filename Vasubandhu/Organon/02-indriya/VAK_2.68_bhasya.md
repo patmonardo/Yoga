@@ -10,9 +10,9 @@
 > seven follow it. In the Form realm, eleven kinds follow wholesome
 > mind, which itself follows nine.
 
-## 2. Sanskrit Witness — Selected Passages
+## 2. Continuous Sanskrit Witness
 
-> pañcabhyo 'nivṛtaṃ /
+> pañcabhyo 'nivṛtaṃ
 > kāma iti varttate /
 > anivṛtāvyākṛtaṃ cittaṃ pañcabhyaḥ samanantaramutpadyate /
 > svabhūmikebhya ścaturbhyo rūpāvacarācca kuśalānnirmāṇacittam /
@@ -22,44 +22,47 @@
 > kuśalaṃ nirmāṇacittādanantaram /
 > kliṣṭam pratisandhikāle /
 > ārūpyāvacaraṃ ca kliṣṭam pratisandhikāla eva /
-> rūpe daśaikaṃ ca śubhāt /
+> rūpe daśaikaṃ ca śubhāt
 > rūpe dhātau yatkukśalaṃ cittaṃ tasmādanantaramekādaśa cittānyutpadyante /
 > ārupyāvacaramanivṛtāvyākṛtaṃ varjayitvā /
-> navabhyastadanantaram // 2.68 //
+> navabhyastadanantaram // VAkK_2.68 //
 > rūpāvacaraṃ tu kuśalaṃ cittaṃ navabhyaḥ samanantaramutpadyate /
 > kāmāvacaraṃ kliṣṭadvayamārupyāvacaraṃ cānivṛtāvyākṛtaṃ hitvā /
 
-These selected passages follow 104.09–104.21 in
-[the running witness](../../Sources/kosabhasya.txt). The verse is
-interleaved with its explanatory prose. Witness spellings are retained
-as printed; this is not a collation.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 104.09 through 104.21. Source spellings are retained.
+The Form Realm obscured case begins at 104.22.
 
-## 3. Conventional Argument Summary
+## 3. Continuous Conventional Translation
 
-Desire-realm unobscured-indeterminate mind arises after five kinds:
-four of its own level and Form wholesome, from which creation mind
-arises. Seven kinds can follow it: four of its own level, Form
-wholesome after creation mind, Form obscured at rebirth-linking, and
-formless obscured at rebirth-linking.
+Desire Realm unobscured-indeterminate mind arises immediately
+after five kinds. Four are of its own level; the fifth is wholesome
+Form Realm mind, from which a mind of creation arises. Seven kinds
+can follow it: the four of its own level, two Form Realm kinds,
+and one Formless kind. The Form Realm wholesome kind follows a
+mind of creation; the obscured kind follows at rebirth-linking.
+The obscured Formless kind likewise follows only at
+rebirth-linking.
 
-Eleven kinds can follow wholesome Form-realm mind; the one excluded
-kind is formless unobscured-indeterminate. Form wholesome itself
-arises after nine kinds, excluding the two afflicted desire-realm
-kinds and formless unobscured-indeterminate. The verse gives the
-counts; the prose identifies the omitted kinds and the special
-creation-mind and rebirth contexts.
+In the Form Realm, eleven kinds can follow wholesome mind: all
+but Formless Realm unobscured-indeterminate mind. Conversely,
+wholesome Form Realm mind can arise immediately after nine kinds,
+all but the two afflicted Desire Realm kinds and the Formless
+unobscured-indeterminate kind. The verse's four numbers thus
+alternate between successors of a named mind and predecessors
+from which that mind can arise.
 
-## 4. Interpretation
+## 4. Reading Control
 
-The two pairs of counts have different directions. *Pañcabhyaḥ* and
-*navabhyaḥ* mark predecessors of the named minds. *Tasmāt* and
-*śubhāt* mark the sources from which seven and eleven kinds follow.
-The contextual qualifications in the Bhāṣya explain why those edges
-appear in the succession table.
+*Pañcabhyaḥ* and *navabhyaḥ* mark predecessors; *tasmāt* and
+*śubhāt* mark sources from which successors arise. The creation-
+mind and rebirth contexts qualify particular transitions. The
+Form Realm eleven and nine are different directed profiles,
+not two descriptions of the same set.
 
 ## 5. Review Status
 
-The restored first line, the four directed counts, and the
-Form-wholesome exclusions have been checked against the running
-witness. The selected source lines support the summary without
-reproducing the entire continuation.
+The complete Sanskrit witness has been checked against the local
+source from 104.09 through 104.21. The continuous translation
+preserves all four directed counts and their explicit exceptions.
+The kārikā Grammar and Logic files were not changed in this pass.

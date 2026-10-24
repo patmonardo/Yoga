@@ -10,58 +10,85 @@
 > Derived forms cause one another in three ways; derived form causes
 > elements in one way only.
 
-## 2. Sanskrit Witness — Selected Passages
+## 2. Continuous Sanskrit Witness
 
 > atha kathaṃ bhūtāni bhūtānāṃ hetupratyayaḥ /
-> dvidhā bhūtāni taddhetuḥ /
+> dvidhā bhūtāni taddhetuḥ
 > bhūtaheturityarthaḥ /
-> sabhāgasahabhūhetubhyāṃ /
+> sabhāgasahabhūhetubhyāṃ
 > bhautikasya tu pañcadhā /
 > bhautikasya tu bhūtāni pañcaprakāro hetuḥ /
-> "jananānniḥśrayāt sthānādupastambhogavṛṃhaṇāt" /
+> katham /
+> "jananānniḥśrayāt sthānādupastambhogavṛṃhaṇāt"
 > so 'yaṃ kāraṇahetureva punaḥ paṇycadhā bhinnaḥ /
+> jananahetustebhya utpatteḥ /
+> niśrayaheturjātasya bhūtānuvidhāyitvāt puruṣakāraphalādācāryādiniḥśrayavat /
+> pratiṣṭhāheturādhārabhāvāt /
+> citrakṛtyavat /
+> upastambhaheturanucchedahetutvāt /
+> evameṣāṃ janmavikārādhārasthitivṛddhihetutvamākhyātaṃ bhavati /
 > tridhā bhautikamanyonyaṃ /
 > hetusahabhūsabhāgavipākahetubhiḥ kāraṇaheturaviśeṣayattitvāt na sarvadā gaṇyate /
 > tatra sahabhūheturanyonyaṃ cittānuparivartti kāyavākkarma /
 > nānyadupādāyarūpam /
-> bhūtānāmekadhaiva tat // 2.65 //
+> sabhāgahetuḥ sarvaṃ pūrvotpannaṃ sabhāgasya /
+> vipākaheturyasya vākkarmaṇaścakṣurādayo vipākaḥ /
+> bhūtānāmekadhaiva tat // VAkK_2.65 //
 > bhūtānāṃ tu tadbhūtikaṃ rūpaṃ vipākahetureva yasya kāyavākkarmaṇo bhūtāni vipākāḥ /
 
-These selected passages follow 102.20–103.08 in
-[the running witness](../../Sources/kosabhasya.txt). The kārikā is
-interleaved with its explanation. Witness spellings, including
-*paṇycadhā*, are retained as printed; this is not a collation.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 102.20 through 103.08. Source spellings and compressed
+readings are retained. The question about ordering kinds of mind
+begins at 103.09–10.
 
-## 3. Conventional Argument Summary
+## 3. Continuous Conventional Translation
 
-Elements cause other elements in two ways, through homogeneous and
-co-arisen causes. They cause derived material form in five ways:
-generation, dependent support, foundation, sustaining, and increase.
-The prose treats these five functions as a division of the conditioning
-cause.
+How are the Great Elements a cause-condition for other Great
+Elements? In two ways: as homogeneous causes and as co-arisen
+causes. How are they causes for derived Form? In five ways:
+by generating it, serving as what it depends on, providing a
+place for it, sustaining it, and increasing it. These are five
+forms of the conditioning cause.
 
-Derived material form causes other derived form in three ways:
-co-arising, homogeneity, and maturation. The co-arisen case is
-qualified: bodily and verbal action accompanying mind participates;
-not every derived material form does. The conditioning cause is not
-always counted separately, because it does not differentiate this
-profile in every context.
+They generate derived Form because it arises from them. They
+serve as its dependence because, once arisen, it follows the
+Elements, as one relies on a teacher for the result of an
+activity [the compressed comparison needs closer reading]. They
+provide its foundation by acting as its Basis, as with a surface
+for a picture [contextual reading of the example]. They sustain
+it by preventing its interruption. The five functions are thus
+summarized as causes of birth, alteration, foundation, persistence,
+and growth.
 
-Derived form causes the elements in just one way: bodily or verbal
-action may be the maturation cause of elements that arise as its
-result. The verse's *tat* returns to derived form, so this is the
-reverse direction from the fivefold element-to-derived-form relation.
+Derived Form is a cause for other derived Form in three ways:
+co-arisen cause, homogeneous cause, and maturation cause. The
+conditioning cause is not always counted, since its broad scope
+does not distinguish this case. For the co-arisen relation, bodily
+and vocal action that follows mind can be reciprocal causes; other
+derived Form does not thereby qualify. Whatever derived Form arose
+earlier is a homogeneous cause of its own kind. Vocal action is a
+maturation cause where eye and other Faculties are its maturation.
 
-## 4. Interpretation
+In the reverse direction, derived Form is a cause of the Great
+Elements in one way only: it is a maturation cause when the
+Elements are the maturation of bodily or vocal action. The verse's
+“it” therefore refers back to derived Form, not to the Elements.
 
-The verse orders four directed profiles rather than assigning every
-causal mode to every individual material pair. The Bhāṣya specifies
-which cause types or functions fill each count and narrows the
-co-arisen case within the mutual derived-form profile.
+## 4. Reading Control
+
+The verse orders four directed profiles. The five functions from
+Elements to derived Form are a differentiation of *kāraṇahetu*;
+the three relations within derived Form are co-arisen,
+homogeneous, and maturation cause. The co-arisen case is limited
+to relevant bodily and vocal action following mind. The one-way
+return from derived Form to Elements is maturation cause. These
+counts do not license every causal mode for every individual pair.
 
 ## 5. Review Status
 
-The four profiles, their direction, and the *anyonyaṃ* restriction
-have been checked against the running witness. The Bhāṣya's five
-functions and the maturation-only return are kept as prose
-determinations.
+The complete Sanskrit witness has been checked against the local
+source from 102.20 through 103.08. The continuous translation
+now includes the five function explanations and the examples
+qualifying the three derived-Form relations. Two compressed
+comparisons remain marked. The kārikā Grammar and Logic files
+were not changed in this pass.

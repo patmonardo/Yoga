@@ -11,25 +11,38 @@
 
 ## 2. Continuous Sanskrit Witness
 
-> tasmāccatvāri cittāni /
+> tasmāccatvāri cittāni
 > tasmātpunaraśaikṣāccittātsamanantaraṃ catvāri cittānyutpadyante /
 > traidhātukāni kuśalānyaśaikṣaṃ ca //
-> samāptāni dvādaśa cittāni // punaḥ kriyante
-> dvādaśaitāni viṃśatiḥ / kathaṃ kṛtvā /
-> prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // 2.71 //
+> samāptāni dvādaśa cittāni //
+> punaḥ kriyante
+> dvādaśaitāni viṃśatiḥ /
+> kathaṃ kṛtvā /
+> prāyogikopapattyāptaṃ śubhaṃ bhittvā triṣu dvidhā // VAkK_2.71 //
 > triṣu dhātuṣu kuśalaṃ cittaṃ dvidhā bhidyate /
 > prāyogikaṃ copapattilābhikaṃ ca
 
-Selected witness, printed 105.24–106.04 in `Vasubandhu/Sources/kosabhasya.txt`; line breaks and omitted intervening source layout are editorial. The source's first verse line begins at 105.24. This is not a collation.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 105.24 through 106.04. The opening resumes the prose close
+of the twelve-kind inventory; the twentyfold refinement continues
+in 2.72 at 106.05. Source spelling is retained.
 
 ## 3. Continuous Conventional Translation
 
 Four minds immediately follow a beyond-training mind: the wholesome minds of the three realms and a beyond-training mind. This completes the twelve. The text then announces a twentyfold inventory and asks how it is made. In each of the three realms, wholesome mind is divided into application-produced and birth-acquired kinds.
 
-## 4. Interpretation
+## 4. Reading Control
 
-The four close the twelve. The stated division replaces three wholesome kinds with six, making fifteen at this stage. The twenty is an announced result whose remaining construction is outside this verse's present determination.
+The four successors close the twelve-kind scheme. The new
+classification splits wholesome mind in each of the three Realms
+into application-produced and birth-acquired kinds, changing
+three entries into six. The remaining steps that produce twenty
+are stated in 2.72; this verse announces the total and starts
+the construction.
 
 ## 5. Review Status
 
-Checked against the selected Sanskrit witness and the kārikā's grammar and logic. The remaining construction is deferred.
+The complete Sanskrit witness has been checked against the local
+source from 105.24 through 106.04. The continuous translation
+covers the closure of twelve and the first split toward twenty.
+The kārikā Grammar and Logic files were not changed in this pass.

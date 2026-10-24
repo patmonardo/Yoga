@@ -228,17 +228,24 @@ in relation to itself, or even another dharma in some cases;
 a conditioned dharma in relation to an unconditioned one, and
 an unconditioned dharma in relation to another unconditioned one.
 
-## 4. Interpretation
+## 4. Reading Control
 
-The three conditions are differentiated by their functions: immediate
-mental succession, objecthood relative to cognition, and
-predominance. The whole-complex analysis and the relevant-cognition
-restriction specify the first two definitions without changing their
-verse wording.
+The three Conditions are differentiated by role: immediate mental
+succession, Support relative to Cognition, and predominance.
+The immediately antecedent debate tests which succession counts,
+including mindless attainment and the arhat's final mind. The
+Support section keeps the object relation distinct from Basis;
+the predominance section then identifies a wider non-obstructive
+relation. These are textual distinctions to test against any
+Organon account of an instrument, not an imposed theory of
+representation.
 
 ## 5. Review Status
 
-The object-condition wording and the three verse predications have
-been checked against the running witness. The selected Bhāṣya lines
-support the whole-complex and relevant-object qualifications; the
-long intervening debate is summarized rather than translated in full.
+The complete Sanskrit witness has been checked against the local
+source from 98.09 through 100.18. The continuous translation
+covers immediate succession and its objections, future knowledge,
+the arhat's final mind, the fourfold attainment cases, the six
+Cognition Supports, and predominance. Damaged and compressed
+readings remain marked. The kārikā Grammar and Logic files were
+not changed in this pass.

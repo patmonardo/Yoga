@@ -11,58 +11,63 @@
 > unobscured follows the same three/six rule. From formless wholesome,
 > however—
 
-## 2. Sanskrit Witness — Selected Passages
+## 2. Continuous Sanskrit Witness
 
-> aṣṭābhyo nivṛtaṃ /
+> aṣṭābhyo nivṛtaṃ
 > nivṛtāvyākṛtaṃ rūpāvacaraṃ cittamaṣṭabhya utpadyate /
 > kāmāvacaraṃ kliṣṭadvayaṃ śaikṣāśaikṣe ca sthāpayitvā /
-> tasmāt ṣaṭ /
+> tasmāt ṣaṭ
 > rūpāvacarānnivṛtāvyākṛtādanantaraṃ ṣaṭ /
 > svabhūmikāni trīṇi kāmāvacarāṇi cānivṛtāvyākṛtaṃ muktvā /
 > tribhyo 'nivṛtaṃ punaḥ /
 > rūpāvacaramanivṛtāvyākṛtaṃ tribhyaḥ svabhūmikebhya eva /
-> tasmāt ṣaṭ /
+> tasmāt ṣaṭ
 > svabhūmikāni trīṇi /
 > kāmāvacare ca kliṣṭe /
 > ārūpyāvacaraṃ ca /
+> yathā rūpadhātāvanivṛtāvyākṛtamuktam /
 > evamārūpye tasya nītiḥ /
 > tatastadapyanivṛtāvyākṛtaṃ tribhya evotpadyate svabhūmikebhyaḥ /
 > tasmādapi ca ṣaḍevotpadyante /
 > svabhūmikāni trīṇi adharadhātukāni ca kliṣṭāni /
-> śubhātpunaḥ // 2.69 //
+> śubhātpunaḥ // VAkK_2.69 //
 
-These selected passages follow 104.22–105.07 in
-[the running witness](../../Sources/kosabhasya.txt). The verse is
-interleaved with explanations of its directed counts. *Śubhāt
-punaḥ* leads into the next verse's count; this is not a collation.
+The witness follows [the local running source](../../Sources/kosabhasya.txt)
+from 104.22 through 105.07. Source spellings are retained.
+The open `śubhāt punaḥ` receives its count at 105.08 in 2.70.
 
-## 3. Conventional Argument Summary
+## 3. Continuous Conventional Translation
 
-Form-realm obscured-indeterminate mind arises after eight kinds. The
-two afflicted desire-realm kinds and the two uncontaminated kinds are
-excluded. Six kinds follow it: three of its own level and three
-desire-realm kinds other than unobscured-indeterminate.
+Obscured-indeterminate Form Realm mind arises immediately after
+eight kinds: all except the two afflicted Desire Realm kinds and
+the trainee and beyond-training minds without *āsrava*. Six kinds
+can follow it: the three of its own level and the three Desire
+Realm kinds other than unobscured-indeterminate.
 
-Form-realm unobscured-indeterminate mind arises only after the three
-of its own level. Six follow it: those three, the two afflicted
-desire-realm kinds, and formless obscured mind. The text then says the
-same rule applies to formless unobscured-indeterminate mind: it too
-arises after three of its own level and is followed by six, namely
-three of its own level and afflicted kinds in lower realms.
+Unobscured-indeterminate Form Realm mind arises after the three
+kinds of its own level alone. Six kinds follow it: the same three
+Form Realm kinds, the two afflicted Desire Realm kinds, and
+obscured Formless Realm mind. The rule for unobscured-
+indeterminate mind in the Formless Realm is parallel: it follows
+only the three kinds of its own level, and six kinds follow it—
+those same three plus the three afflicted kinds of the lower
+Realms [two Desire and one Form].
 
-The closing *śubhāt punaḥ* turns to formless wholesome mind. Its
-successor count is supplied in the next verse, so no number is
-assigned to it here.
+“From wholesome, however” opens the next count for wholesome
+Formless Realm mind. No successor number is given in this unit.
 
-## 4. Interpretation
+## 4. Reading Control
 
-Each “from” marks predecessors of the named mind; each subsequent
-“from that” marks its successors. The formless continuation repeats
-the unobscured three/six rule. It does not transfer Form obscured's
-eight-predecessor profile to every formless mind.
+Each ablative count marks predecessors of the named mind; each
+*tasmāt* count marks its successors. The Formless continuation
+copies the unobscured three/six profile, not Form obscured's
+eight/six profile. The final *śubhāt punaḥ* is a forward link;
+its number appears in 2.70.
 
 ## 5. Review Status
 
-The full verse, the four Form counts, and the formless unobscured
-continuation have been checked against the running witness. The open
-wholesome fragment remains without a count until 2.70.
+The complete Sanskrit witness has been checked against the local
+source from 104.22 through 105.07. The continuous translation
+preserves all Form and Formless predecessor/successor counts and
+the open wholesome fragment. The kārikā Grammar and Logic files
+were not changed in this pass.
