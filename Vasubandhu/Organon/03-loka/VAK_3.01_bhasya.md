@@ -16,6 +16,8 @@ Desire Realm, but they are not identical classifications.
 
 ## 2. Continuous Sanskrit
 
+> oṃ namo buddhāya /
+>
 > idam idānīṃ vaktavyam / kāmarūpārūpyanaiyamyena cittādīnāṃ kṛto
 > nirdeśaḥ / tatra katame te kāmarūpārūpyadhātava ity ucyate /
 >
@@ -38,21 +40,26 @@ Desire Realm, but they are not identical classifications.
 > kāmadhātuḥ paranirmitavaśavartibhyo yāvad avīciḥ sabhājanagrahaṇena
 > tu yāvad vāyumaṇḍalam /
 
-This unit runs from printed 111.03 through 111.15 in
+The chapter invocation occurs at printed 111.02. The 3.01 Bhāṣya unit runs
+from printed 111.03 through 111.15 in
 `Vasubandhu/Sources/kosabhasya.txt`. The next words, `etasmāc ca
 kāmadhātoḥ`, open the determination of the Form Realm accompanying VAK 3.02.
 
 Word division and punctuation are editorial. The running e-text transmits
+`oṃ namo duddhāya` at the invocation; `buddhāya` is the transparent repair,
+shown above while the witness reading remains recorded here. It also transmits
 `strāyastriṃśā`; the expected standard name is `trāyastriṃśā`. The transmitted
 reading remains visible above rather than being silently corrected. The source
 is treated as a working textual witness, not as a critical edition. The
 continent name `avaragodānīyaḥ` retains the final `ḥ` present in the running
 source; it had been omitted in the earlier continuous transcription.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
-This must now be explained. Citta and the other dharmas have been analyzed
-according to their restriction to the Desire, Form, and Formless Realms.
+Oṃ, homage to the Buddha.
+
+This must now be explained. Consciousness and the other dharmas have been
+analyzed according to their restriction to the Desire, Form, and Formless Realms.
 What, then, are these Realms? It is said:
 
 “Hell-beings, pretas, animals, humans, and the six heaven-dwellers: the
@@ -75,16 +82,20 @@ devas just mentioned, the animals, and the pretas make twenty locations.
 The Desire Realm extends from the Paranirmitavaśavartins down to Avīci. When
 the container-world is included, it extends as far down as the wind-circle.
 
-“Restriction” renders `naiyamya`: the earlier analyses assigned citta and
-other dharmas a determinate belonging to one or more Realms. “Container-world”
-renders `bhājanaloka`; **Cosmic Frame** is reserved for the later Organon study
-and is not inserted into the conventional translation.
+“Restriction” renders `naiyamya`: the earlier analyses assigned Consciousness
+and other dharmas a determinate belonging to one or more Realms.
+“Container-world” renders `bhājanaloka`; **Cosmic Frame** is the Organon
+determination developed in §9.
 
 The “four destinies” here are the four nondeva groups named before the six
 deva classes. The later five-destiny formulation in 3.04 includes the deva
 destiny, of which these six classes are the Desire Realm portion.
 
 ## 4. Movement and Voice of the Commentary
+
+The chapter invocation precedes the numbered exposition. It is not one of the
+twenty locations or a step in their enumeration; it marks the standpoint from
+which the new chapter begins.
 
 The opening does not begin an independent cosmological survey. It returns to a
 classification already used in Indriyanirdeśa: citta and other dharmas were
@@ -251,9 +262,9 @@ joined world-account
     complete lower extent: vāyumaṇḍala
 ```
 
-These capitalized terms belong only to the Organon register. They do not
-replace the close doctrinal renderings “world” and “container-world.” Nor does
-the unity erase the difference of its moments:
+World System and Cosmic Frame determine the relation named here by
+`kāmadhātu` and `bhājanaloka`. Their unity retains the difference of its
+moments:
 
 ```text
 sentient plurality without world-support
@@ -289,7 +300,7 @@ subsequent Loka units have supplied their determinations.
 
 Provisional first study of the Lokanirdeśa Bhāṣya sequence. The research
 kārikā and Bhāṣya witnesses, the official Organon kārikā study, the Chapter 1
-and Chapter 2 Bhāṣya forms, and the running Sanskrit at 111.03–111.15 have been
+and Chapter 2 Bhāṣya forms, and the running Sanskrit at 111.02–111.15 have been
 compared.
 
 The natural unit ends before `etasmāc ca kāmadhātoḥ`, which opens the
@@ -297,6 +308,9 @@ Form Realm determination accompanying VAK 3.02. The transmitted
 `strāyastriṃśā` remains visible and is identified as a source caution; no
 critical reconstruction is claimed. The research witnesses and running source
 remain unchanged.
+
+The invocation at 111.02 is now included with the transmitted `duddhāya`
+recorded as a witness error. The opening `citta` is translated Consciousness.
 
 The study remains provisional pending critical rereading. The next sequential
 unit is VAK 3.02; it has not been undertaken here.

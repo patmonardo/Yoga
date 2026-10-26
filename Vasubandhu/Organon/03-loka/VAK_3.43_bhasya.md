@@ -13,6 +13,8 @@
 Bhāṣya supplies the arhat as the subject of `nirvāti`, identifies the two
 indeterminate minds, distinguishes sudden from gradual death, and correlates
 the three bodily loci with different destinations.
+After the account of vital points, it distinguishes fallible advance signs
+from five signs said to accompany a deva's death unfailingly.
 
 The arhat as supplied subject, the two indeterminate minds, the distinction
 between sudden and gradual death, and the destination–locus mapping are Bhāṣya
@@ -70,12 +72,24 @@ ucyante.
 Kasmān na pṛthivīdhātunā? Caturthadoṣābhāvāt. Vātapittaśleṣmāṇo hi
 trayo doṣāḥ. Te cāptejovāyudhātupradhānā yathāyogam iti.
 Bhājanalokasaṃvartanīsādharmyeṇety apare. Deveṣu nāsti marmacchedaḥ.
+
+kiṃ tu cyavanadharmaṇo devaputrasya pañcopanimittāni prādurbhavanti:
+vastrāṇām ābharaṇānāṃ ca manojñaḥ śabdo niścarati, śarīraprabhā
+mandībhavati, snātasyodabindavaḥ kāye saṃtiṣṭhante, capalātmanāpy ekatra
+viṣaye buddhir avatiṣṭhate, unmeṣanimeṣau cākṣṇoḥ saṃbhavataḥ.
+
+etāni tu vyabhicārīṇi. pañca punar nimittāni maraṇaṃ nātivartante:
+vāsāṃsi kliśyanti, mālā mlāyanti, kakṣābhyāṃ svedo mucyate, daurgandhyaṃ
+kāye 'vakrāmati, sve cāsane devaputro nābhiramate.
 ```
 
 The running witness contains several mechanically damaged compounds and
 forms. This continuous text regularizes punctuation and evident sandhi, and
 provisionally repairs the phrase comparing the pain to the impact of a sharp
 weapon. These repairs require control against critical Sanskrit witnesses.
+
+The deva signs continue the unit at printed 157.06–157.11. Their two sets
+of five are kept separate in the witness and translation.
 
 ## 3. Continuous Conventional Translation
 Even there—that is, even in mental differentiated cognition—these two do not
@@ -131,6 +145,19 @@ disorder: the disorders are the three—wind, bile, and phlegm—and, as
 appropriate, these are principally associated with the wind, fire, and water
 domains. Others explain the matter by analogy with the forces that dissolve
 the container-world. Devas do not suffer impairment of vital points.
+
+
+A deva does not undergo severing of vital points. Instead, five preliminary
+signs appear for a deva about to pass away: a pleasant sound comes from clothes
+and ornaments; bodily radiance dims; drops of water remain on the body after
+bathing; even an ordinarily restless mind settles on a single object; and the
+eyes begin to blink. These signs can occur without death.
+
+Five further signs do not fail to accompany death: clothes become soiled, a
+garland withers, sweat comes from the armpits, bodily odor develops, and the
+deva takes no pleasure in the usual seat. The Bhāṣya thus distinguishes
+fallible advance signs from signs said to be unfailing. These are claims of
+the transmitted account, not independent observations.
 
 ## 4. Argument and Voices
 
@@ -332,7 +359,8 @@ later Ocular representation.
 
 ## 10. Review Status
 
-This Study restores the complete natural VAK 3.43 unit at 156.03–157.06: the
+This Study carries VAK 3.43 and its post-verse explanation from 156.03
+through 157.11. The prior unit at 156.03–157.06 covers: the
 exclusion of concentrated and mindless states, the arhat's two possible final
 minds, sudden and gradual death, destination-specific loci, the disputed
 arhat locus, contraction of the bodily faculty, and the account of
@@ -345,5 +373,5 @@ equanimity require comparison with critical Sanskrit, Tibetan, Chinese, and
 established translations. The medical correspondences should likewise be
 read as the Bhāṣya's doctrinal physiology rather than modern anatomy.
 
-The Study stops with “devas do not suffer impairment of vital points.” It
-does not begin VAK 3.44 or its classification of beings into three groups.
+The continuation preserves both groups of five deva death signs and their
+different reliability. VAK 3.44 begins with the three-group transition.

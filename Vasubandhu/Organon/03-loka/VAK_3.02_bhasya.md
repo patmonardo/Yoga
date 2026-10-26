@@ -49,12 +49,12 @@ as “house”; the exact image and its attachment to Mahābrahmā's station
 remain provisional. No silent lexical repair or critical reconstruction
 is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Above this Desire Realm is “the Form Realm, having seventeen stations.” How
-is this so? He says: “Separately, each dhyāna there has three levels.” The
-first, second, and third dhyānas are each three-levelled. “But the fourth has
-eight levels.”
+is this so? He says: “There, each [of the first three] dhyānas has three
+levels.” The first, second, and third dhyānas are each three-levelled. “But
+the fourth has eight levels.”
 
 Here the first dhyāna comprises the Brahmakāyikas, Brahmapurohitas, and
 Mahābrahmās. The second comprises the Parīttābhas, Apramāṇābhas, and
@@ -257,6 +257,6 @@ remains provisional. The argument requires only a specially differentiated
 station within the Brahmapurohita level, not another `bhūmi`.
 
 The research witnesses, running source, and existing Kārikā study remain
-unchanged. The VAK 3.01 Bhāṣya Study now uses the reviewed Realm terminology.
-This study remains provisional pending critical rereading. The next sequential
-unit is VAK 3.03; it has not been undertaken here.
+unchanged. This QA pass confirms the complete 3.02 unit and clarifies the
+first-three-dhyāna scope in the continuous translation. The `parigaṇa iva`
+comparison remains provisional pending closer lexical and textual comparison.

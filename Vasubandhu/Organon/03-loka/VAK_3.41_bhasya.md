@@ -14,6 +14,8 @@ beings and beings seeking birth. After narratives about expectation, memory,
 and sustained life, it states why four nutriments are singled out, assigns
 each its predominant function, and tests the functional definition through
 four-cornered cases and the nutriment of hell beings.
+The passage then disputes whom a sūtra calls the ordinary person in the
+Jambū grove.
 
 The identifications of support and supported, the four exact assignments, and
 the karma-conditioned `vijñāna`-seed are Bhāṣya determinations.
@@ -92,6 +94,27 @@ upacayāhārābhisaṃdhivacanād avirodhaḥ. apacayāhāras tu narakeṣu
 lakṣaṇaprāptatvāt. so 'pi hi jighatsāṃ pipāsāṃ hantuṃ samartha iti. api tu
 pratyekanarakeṣu manuṣyavat kavaḍīkārāhārasadbhāvād yuktaṃ
 pañcagatikatvam.
+
+uktaṃ bhagavatā: “yaś ca bāhyakānām ṛṣīṇāṃ kāmebhyo vītarāgāṇāṃ śataṃ
+bhojayed, yaś caikaṃ jambūṣaṇḍagataṃ pṛthagjanam, ato dānād idaṃ dānaṃ
+mahāphalataram” iti. ko 'yaṃ jambūṣaṇḍagato nāma pṛthagjanaḥ?
+
+jambūdvīpanivāsinaḥ kukṣimanta ity eke. tad etan na yuktam “ekam” iti
+vacanāt. kaś cātra viśeṣaḥ? syād yadi bhūyasaḥ pṛthagjanān bhojayitvā
+bhūyaḥ puṇyaṃ syān nālpīyaso vītarāgān iti.
+
+saṃnikṛṣṭo bodhisattva ity apare. tad etan na varṇayanti: “bahutaraṃ hi
+tasmai datvā puṇyaṃ nārhatkoṭibhyaḥ” iti. ato nirvedhabhāgīyalābhī
+pṛthagjana eṣo 'bhipreta iti vaibhāṣikāḥ.
+
+na tv iyam anvarthā saṃjñā nāpi kvacit paribhāṣitā sūtre śāstre vā.
+“jambūṣaṇḍagato nirvedhabhāgīyalābhī” iti parikalpa evāyaṃ kevalaḥ.
+bodhisattva eva tv eṣu jambūdvīpaṣaṇḍeṣu niṣaṇṇo yujyate. sa hi
+pṛthagjanaḥ kāmavairāgyasaṃbandhena tadānīṃ tebhyo viśiṣyamāṇa ukta iti.
+anantebhyo 'pi hi sa tebhyo viśiṣyamānaḥ. śatagrahaṇaṃ tu pūrvādhikārāt.
+itthaṃ caitad evaṃ yad evaṃ paryudasya bāhyakebhya eva
+srotāpattiphalapratipannakaṃ viśeṣayāṃbabhūva. anyathā hi
+jambūṣaṇḍagatād eva vyaśeṣayiṣyat.
 ```
 
 The running witness is damaged throughout this long unit. The continuous text
@@ -99,6 +122,10 @@ repairs obvious forms, including the missing opening of the sūtra quotation,
 the verse's `ākṣepa-nirvṛtti` compound, and the expressions for molten copper
 and the five destinies. The stories, the four-cornered analysis, and the hell
 discussion remain provisional pending critical comparison.
+
+The Jambū-grove debate follows at printed 155.05–155.18. Its word division
+and grammatical repairs are editorial; the referent is disputed in the
+Bhāṣya itself.
 
 ## 3. Continuous Conventional Translation
 How many nutriments serve the persistence of beings, and how many support
@@ -176,6 +203,30 @@ the defining characteristic; it can at least remove hunger and thirst. More
 securely, the presence of morsel nutriment in isolated hells in a manner
 comparable to humans establishes its occurrence throughout the five
 destinies.
+
+
+The Blessed One said that feeding one ordinary person in the Jambū grove
+brings a greater fruit than feeding a hundred outside seers free from desire
+for sensual pleasures. Who is this “ordinary person in the Jambū grove”?
+Some identify him with a pot-bellied inhabitant of Jambūdvīpa. The singular
+“one” counts against that reading. The comparison would lose its point if
+feeding many ordinary people produced more merit than feeding fewer people
+free from sensual desire. Others identify a bodhisattva approaching awakening.
+This too is challenged by a statement that giving to him brings more merit
+than giving to multitudes of arhats. The Vaibhāṣikas therefore identify him
+as an ordinary person who has obtained the factors conducive to penetration.
+
+The rejoinder says that this name is neither self-explanatory nor defined in
+sūtra or treatise; the Vaibhāṣika identification is a supposition. It proposes
+the bodhisattva seated among the Jambūdvīpa groves. Though still an ordinary
+person, he is singled out in relation to freedom from sensual desire, and
+surpasses even innumerable such seers. The reference to a hundred carries
+over from the preceding comparison. The passage then appeals to the way the
+source singles out a candidate for stream-entry fruit from the outside seers:
+otherwise, it would have distinguished him from the Jambū-grove person.
+
+The competing identifications and the last citation's precise referent are
+provisional in this damaged witness.
 
 ## 4. Arguments and Schools
 
@@ -335,7 +386,7 @@ discrimination an Ocular analysis must preserve.
 
 ## 10. Review Status
 
-This Study restores the complete natural unit at 153.21–155.05: the
+This Study now carries the post-verse discussion through 155.18. The previously restored nutriment unit at 153.21–155.05 includes: the
 Vaibhāṣika two-purpose thesis, the ash-bag and foam narratives, the egg-memory
 dispute with the Sautrāntikas, the principle of predominance, the four ordered
 nutriment functions, the nurse and mother analogies, the four-cornered
@@ -345,5 +396,5 @@ The Sanskrit and translation remain provisional. The narratives, the bearer
 of recollection in the egg passage, `ākṣepa-nirvṛtti`, the four corners, the
 two times of nutritive action, and the distinction between increase- and
 decrease-nutriment require comparison with critical Sanskrit, Tibetan,
-Chinese, and established translations. The Study stops with the five-destiny
-argument and does not begin VAK 3.42.
+Chinese, and established translations. The following Jambū-grove debate is also retained, including its distinct
+proposals and rebuttals. VAK 3.42 begins with a new question at 155.18.

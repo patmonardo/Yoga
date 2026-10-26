@@ -12,7 +12,7 @@
 The verse constructs four embodied combinations from two variables, body and
 perception, and adds three formless classes. The running exposition immediately
 supplies the name completed in the opening words of VAK 3.06: these are the
-seven `vijñānasthiti`, stations of consciousness.
+seven `vijñānasthiti`, stations of Cognition.
 
 ## 2. Continuous Sanskrit
 
@@ -109,17 +109,17 @@ Bhāṣya's concluding `ārūpyās trayaḥ`. Word division and punctuation are
 editorial. Other small normalizations remain provisional; the running witness
 has not been altered.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Within these same three Realms and five destinies, the following should be
 understood in order: those with diverse bodies and diverse perceptions; those
 with diverse bodies and one perception; by reversal, those with one body and
 diverse or one perception; and the three formless classes. These are the seven
-stations of consciousness.
+stations of Cognition.
 
 The sūtra says: “There are form-possessing beings with diverse bodies and
 diverse perceptions, such as humans and certain devas. This is the first
-station of consciousness.” Which are those certain devas? Those of
+station of Cognition.” Which are those certain devas? Those of
 the Desire Realm and those belonging to the level of the first dhyāna, apart
 from the beings first arisen there.
 
@@ -130,7 +130,7 @@ pleasure.
 
 The sūtra continues: “There are form-possessing beings with diverse bodies
 and one perception, such as the Brahmakāyika devas first arisen there. This is
-the second station of consciousness.”
+the second station of Cognition.”
 
 Those newly arisen beings all have the same perception: “We were created by
 this Brahmā.” Brahmā likewise thinks, “These were created by me.” They
@@ -200,7 +200,7 @@ Thus, in the first dhyāna, beings have one perception through an afflicted
 perception; in the second they have diverse perceptions through wholesome
 perception; and in the third they have one perception through a
 maturation-born perception. The three formless classes are as stated in the
-sūtra. These are the seven stations of consciousness.
+sūtra. These are the seven stations of Cognition.
 
 ## 4. Movement and Voices of the Commentary
 
@@ -225,6 +225,12 @@ explanation contrasting tranquil pleasure with mentally agitating gladness.
 The cosmic-fire passage is itself introduced as a sūtra explanation. It
 should not be collapsed into the preceding pleasure/equanimity account: the
 text presents two different grounds for the Ābhāsvaras' perceptual diversity.
+
+The dhyāna levels here locate classes of beings in the rebirth scheme. The
+question about having attained the second-dhyāna absorption at 116.03–05
+instead concerns an attainment used to test a proposed memory. That local
+question does not turn this seven-station classification into an account of
+dhyāna as a discipline within saṃyama.
 
 ## 5. The Body–Perception Matrix
 
@@ -319,10 +325,11 @@ translated “perception,” while its recognitional force is retained wherever
 the beings understand the same flame as danger or as a familiar phase of a
 cosmic process.
 
-`Vijñānasthiti` is translated “station of consciousness.” The earlier
-rendering “station of differentiated cognition” added a qualifier absent from
-the Sanskrit. The distinction between the seven stations is supplied by their
-listed conditions, not by an adjective modifying `vijñāna`.
+`Vijñānasthiti` is translated “station of Cognition,” following the
+controlled rendering of `vijñāna`. The earlier rendering “station of
+differentiated cognition” added a qualifier absent from the Sanskrit. The
+distinction between the seven stations is supplied by their listed conditions,
+not by an adjective modifying `vijñāna`.
 
 The phrase `vijñānasthitayaḥ sapta` belongs metrically to VAK 3.06, but it is
 syntactically and explanatorily required by the prose on 3.05. This Study
@@ -341,7 +348,7 @@ domain
     destiny
         body-configuration
         perception-configuration
-            station of consciousness
+            station of Cognition
 ```
 
 The decisive result is a non-entailment: bodily sameness does not entail
@@ -376,6 +383,10 @@ Bhāṣya support and remains provisional pending a critical witness.
 This pass removed the unsupported qualifier “differentiated” from the
 translation of `vijñānasthiti` and clarified that the final sentence shares
 the 117.04 source marker with the opening question of VAK 3.06.
+The current check restored the controlled rendering “Cognition” throughout
+and distinguished the dhyāna rebirth levels from the attainment mentioned in
+the Brahmā memory objection. No continuous block is missing in the local
+115.17–117.04 witness.
 
 The research witnesses, running source, existing Kārikā study, and preceding
 Bhāṣya Studies remain unchanged. VAK 3.06 begins its distinct inquiry at

@@ -1,4 +1,4 @@
-# VAK_3.04 Bhāṣya — Domains, Destinies, and the Designation “Being”
+# VAK_3.04 Bhāṣya — Destinies and the Designation “Being”
 
 ## 1. Kārikā Anchor
 
@@ -17,62 +17,6 @@ intermediate existence is maintained, though its justification is debated.
 
 ## 2. Continuous Sanskrit
 
-> atha kasmād ete kāmarūpārūpyadhātava ity ucyante / svalakṣaṇadhāraṇād
-> dhātuḥ / kāmapratisaṃyukto dhātuḥ kāmadhātuḥ / rūpapratisaṃyukto dhātū
-> rūpadhātur madhyapadalopād vajrabālakavan maricapānakavac ca / nātra
-> rūpam astīty arūpaḥ / arūpasya bhāva ārūpyam / rūpaṇīyo vā rūpyaḥ / na
-> rūpyo 'rūpyas tadbhāva ārūpyam / tatpratisaṃyukto dhātur ārūpyadhātuḥ /
-> kāmānāṃ dhātuḥ kāmadhātuḥ kāmān yo dadhāti / evaṃ rūpārūpyadhātū
-> veditavyau /
->
-> ko 'yaṃ kāmo nāma / samāsataḥ kavaḍīkārāhāram maithunopasaṃhito rāgaḥ /
->
-> “na te kāmā yāni citrāṇi loke saṃkalparāgaḥ puruṣasya kāmaḥ /
-> tiṣṭhanti citrāṇi tathaiva loke athātra dhīrā vinayanti kāmam” //
->
-> iti gāthābhidhānāt / ājīvaka āryaśāriputraṃ praty āha—
->
-> “na te kāmā yāni citrāṇi loke saṃkalparāgaṃ vadasīha kāmam /
-> bhikṣur bhaviṣyaty api kāmabhogī saṃkalpayan so 'kuśalān vitarkān” /
->
-> āryaśāriputra āha—
->
-> “te cet kāmā yāni citrāṇi loke saṃkalparāgo yadi te na kāmaḥ /
-> śāstāpi te bhavitā kāmabhogī dṛṣṭvaiva rūpāṇi manoramāṇi” //
->
-> kiṃ punar ye kecana dharmāḥ kāmarūpārūpyadhātuṣu samudācaranti sarve te
-> kāmarūpārūpyapratisaṃyuktāḥ / nety āha / kiṃ tarhi / yeṣu
-> kāmarūpārūpyarāgā anuśerate / ke punar amī kāmarūpārūpyarāgāḥ / ye
-> kāmarūpārūpyadhātuṣv anuśerate / idam idānīṃ tad aśvabandhīyam—kasyāyam
-> aśvabandho yasyāyam aśvaḥ / kasyāyam aśvaḥ / yasyāyam aśvabandhaḥ—ity
-> ubhayam api na jñāyate /
->
-> nedam aśvabandhīyam / kṛtanirdeśāni hi sthānāni kāmadhātau / teṣv
-> avītarāgasya yo rāgaḥ sa kāmarāgaḥ / yatrānuśete so 'pi dharmaḥ
-> kāmapratisaṃyuktaḥ / evaṃ rūpārūpyarāgāv adhovītarāgasya yathāyogaṃ
-> veditavyau / asamāhitabhūmiko vā rāgaḥ kāmarāgaḥ / dhyānārūpyeṣu rāgo
-> rūpārūpyarāgaḥ /
->
-> nirmāṇacitte kathaṃ kāmarāgaḥ / śrutvā parihāya ca tadāsvādanāt /
-> nirmāṇavaśena vā nirmāyakacitto 'pi rāgaḥ / gandharasanirmāṇād vā /
-> tasya kāmāvacaratvam / rūpāvacareṇa tayor anirmāṇāt /
->
-> kiṃ punar ekam eva traidhātukam / traidhātukānām anto nāsti / yāvad
-> ākāśaṃ tāvanto dhātavaḥ / ata eva ca nāsty apūrvasattvaprādurbhāvaḥ /
-> pratibuddhotpādaṃ cāsaṃkhyeyasattvaparinirvāṇe 'pi nāsti sattvānāṃ
-> parikṣaya ākāśavat /
->
-> katham avasthānaṃ lokadhātūnām / tiryaksūtra uktaṃ tad yathā—“īṣādhāre
-> deve varṣati nāsti vīcir vā antarikā vāntarīkṣād vāridhārāṇāṃ
-> prapatantīnām / evaṃ pūrvasyāṃ diśi nāsti vīcir vā antarikā vā
-> lokadhātūnāṃ saṃvartamānānāṃ vivartamānānāṃ ca / yathā pūrvasyāṃ diśi
-> evaṃ dakṣiṇasyāṃ paścimāyām uttarasyām” iti / na tūktam ūrdhvam adhaś
-> ceti / ūrdhvam apy adho 'pīty apare / nikāyāntarapāṭhāt / akaniṣṭhād
-> ūrdhvaṃ punaḥ kāmadhātuḥ / kāmadhātoś cādhaḥ punar akaniṣṭhāḥ / yaś
-> caikasmāt kāmadhātor vītarāgaḥ sa sarvebhyaḥ / evaṃ rūpārūpyebhyaḥ /
-> yaś ca prathamadhyānasaṃniśrayād ṛddhim utpādayati sa yatra lokadhātau jāta
-> utpādayati tatratyam eva brahmalokam upāgacchati nānyam /
->
 > ya ete trayo dhātava uktāḥ /
 >
 > narakādisvanāmoktā gatayaḥ pañca teṣu /
@@ -138,91 +82,16 @@ intermediate existence is maintained, though its justification is debated.
 > avyākṛtā eva tu gatayo varṇyante vaibhāṣikaiḥ / tāś ca vipākasvabhāvā
 > evety eke / aupacayikasvabhāvā apīty apare /
 
-This complete unit runs from printed 112.24 through 115.16 in
+This unit runs from printed 114.04 through 115.16 in
 `Vasubandhu/Sources/kosabhasya.txt`. The transitional sentence at 115.17 and
 the verse beginning `nānātvakāyasaṃjñāś ca` open VAK 3.05.
 
-The research Bhāṣya witness begins only at 114.04 and ends at 114.27. The
-official Study restores both the preceding domain inquiry and the subsequent
-doctrinal dispute. Word division, punctuation, and several evident e-text
-forms have been editorially normalized; notably, the transmitted
-`saṃniśrayāddhi utpādayati` is read as
-`saṃniśrayād ṛddhim utpādayati`. The running witness remains unchanged. The
-long citations especially require comparison with a critical
-edition before they can be treated as established text.
+The domain inquiry at 112.24–114.04 belongs to VAK 3.03 and is now
+retained there. The longer destiny discussion here continues beyond the
+short research witness, which ends at 114.27. Word division and punctuation
+are editorial; the long citations require critical comparison.
 
-In the rain simile, `īṣādhāre deve varṣati` is read as “when the rain god
-Īṣādhāra rains.” [Edgerton's Buddhist Hybrid Sanskrit dictionary](https://kosha.sanskrit.today/word/sa/%E0%A4%88%E0%A4%B7%E0%A4%BE%E0%A4%A7%E0%A4%BE%E0%A4%B0)
-also records Īṣādhāra as the name of a rain-giving deity; the image does not
-describe rain falling *onto* an axle-support.
-
-## 3. Continuous Conventional Translation
-
-Why are these called the Desire, Form, and Formless Realms? A domain is so
-called because it bears its own characteristic. The domain connected with
-desire is the Desire Realm. The domain connected with form is the
-Form Realm, with the middle member elided, as in compounds such as
-“diamond-child” and “pepper-drink.” Because form does not exist there, it is
-formless. The state of being formless is formlessness. Alternatively, what is
-capable of being formed is “formable”; what is not formable is “formless,” and
-its state is formlessness. The domain connected with that is the
-Formless Realm. Or the Desire Realm is the domain of desires, that which
-bears desires. The Form and Formless Realms should be understood similarly.
-
-What is this thing called desire? In brief, it is craving associated with
-morsel-food and sexual intercourse. For a verse says: “The attractive things
-in the world are not desires; a person's desire is craving born of
-conception. The attractive things remain just as they are in the world, while
-the resolute discipline desire concerning them.”
-
-An Ājīvaka answered the venerable Śāriputra: “If the attractive things in the
-world are not desires, and you call conceptual craving desire, then a monk who
-conceives unwholesome thoughts will still be an enjoyer of desires.”
-Śāriputra replied: “If the attractive things in the world are desires, and
-conceptual craving is not desire for you, then your own teacher will be an
-enjoyer of desires merely upon seeing delightful forms.”
-
-Are all dharmas that occur in the three Realms connected with their
-respective Realms? No. Those in which craving for desire, form, or
-formlessness lies latent are connected with that Realm. What, then, are those
-three cravings? Those which lie latent in the three respective Realms. Is
-this not the circular explanation of the horse and its tether—“Whose tether
-is this? The horse's. Whose horse is this? The tether's”—so that neither is
-known?
-
-It is not circular in this way, because the locations within the Desire Realm
-have already been specified. The craving of one not free from attachment to
-those locations is desire-craving, and the dharma in which it lies latent is
-connected with the Desire Realm. Craving for form and formlessness should be
-understood correspondingly in one who is free from attachment to the lower
-Realm. Alternatively, craving belonging to a non-concentrated level is
-desire-craving; craving in the dhyānas and formless attainments is craving for
-form and formlessness.
-
-How can desire-craving occur in a mind of magical creation? Because one takes
-delight in that creation after hearing of it or after falling away from it;
-or the creator's mind may itself have craving through the force of the
-creation, or because odors and tastes are created. This craving belongs to the
-Desire Realm, since a mind in the Form Realm does not create those two.
-
-Is there only one system of three Realms? Systems of three Realms have no
-end: there are as many domains as the extent of space. For this very reason
-there is no appearance of completely new beings. Although innumerable beings
-attain complete nirvāṇa at the appearance of each Buddha, beings are never
-exhausted, just as space is not exhausted.
-
-How are the world-systems arranged? The Tiryaksūtra says that, just as when the
-rain god Īṣādhāra rains there is no break or interval between the
-streams of water falling from the sky, so toward the east there is no break
-or interval among world-systems contracting and expanding; and likewise in
-the south, west, and north. It does not say “above and below.” Others say that
-there are systems above and below too, according to a reading of another
-school. Above Akaniṣṭha there is again a Desire Realm, and below a
-Desire Realm there are again Akaniṣṭhas. One who is free from attachment to
-one Desire Realm is free from attachment to all Desire Realms, and likewise
-for the Form and Formless Realms. Someone born in a given world-system who
-develops a supernormal power based on the first dhyāna reaches only that
-world-system's Brahmā-world, not another.
+## 3. Continuous Translation
 
 Within the three Realms just stated are “five destinies called by their own
 names beginning with hell”: hell-beings, animals, pretas, devas, and humans.
@@ -240,9 +109,10 @@ intermixed. They are designated as beings and are not intermediate existence.
 The Prajñapti says that the five destinies are included within the four modes
 of birth, but that the four modes of birth are not exhausted by the five
 destinies: intermediate existence is left unincluded. The Dharmaskandha also
-lists the eye-Principle derived from the four Great Elements as hellish, animal,
-preta, divine, human, cultivation-produced, and belonging to intermediate
-existence.
+asks what the eye-Principle is: the sensitive Form derived from the four Great
+Elements, called the eye, eye-faculty, eye-Essence, and eye-Principle. It lists
+this as hellish, animal, preta, divine, human, cultivation-produced, and
+belonging to intermediate existence.
 
 A sūtra likewise excludes intermediate existence from the destinies. Which
 sūtra? The one that gives seven existences: hell-existence, animal-existence,
@@ -255,15 +125,16 @@ karma-existence, from them.
 The Kāśmīras also recite a discourse attributed to the elder Śāriputra. When
 one produces and accumulates karma to be experienced in hell through the
 manifestation of the relevant influxes and through the crookedness, faults,
-and impurities of body, speech, and mind, the five Bases mature in the
-hells as result. Once the result has arisen, one receives the designation
+and impurities of body, speech, and mind, Form, Perception, Feeling,
+Formation, and Cognition—the five Bases—mature in the hells as result. Once
+the result has arisen, one receives the designation
 “hell-being”; yet no hell-being is apprehended apart from those dharmas. This
 too is taken to prove that the destinies are exclusively non-obscured
 indeterminate.
 
 An objection appeals to the Prakaraṇa statement that all latent tendencies lie
 latent in the destinies. The reply is that there are five kinds of
-relinking-consciousness corresponding to the destinies. The statement is
+relinking Consciousness corresponding to the destinies. The statement is
 therefore unobjectionable because “destiny” includes the entrance into a
 destiny, just as mention of a village includes its outskirts.
 
@@ -296,65 +167,15 @@ say that they also include what is produced through accumulation.
 
 ## 4. Movement and Voices of the Commentary
 
-This is a compound unit with three movements:
+The transition `ya ete trayo dhātava uktāḥ` takes the three Realms
+just determined in 3.03 as the field for the five destinies. The verse
+enumerates those destinies and then limits their status. The Bhāṣya tests
+the limits through citations from the Prajñapti, Dharmaskandha, and a
+Śāriputra discourse, followed by objections and a Vaibhāṣika restatement.
+The alternative admitting wholesome or afflicted destinies remains a
+reported view, not a silent correction of the verse.
 
-```text
-112.24–114.04
-    what makes a dhātu and what connects a dharma with it?
-    how many three-Realm world-systems are there?
-
-114.04–114.27
-    what are the five destinies?
-    why are intermediate existence and karmic cause excluded?
-
-114.27–115.16
-    objections to their exclusively indeterminate status
-    alternate view and Vaibhāṣika restatement
-```
-
-The expository voice conducts the domain inquiry. Scriptural verses, an
-Ājīvaka, and Śāriputra appear in the discussion of desire. The destiny
-argument invokes the Prajñapti, Dharmaskandha, another sūtra, and a Kāśmīra
-recension of a Śāriputra discourse. An unnamed alternate position argues that
-destinies may also be wholesome or afflicted. The concluding sentence
-explicitly attributes the exclusively indeterminate account to the
-Vaibhāṣikas, while noting two internal explanations of its constitution.
-
-The research witness contains only the middle movement. Treating it as the
-whole commentary would conceal both the determination of the field in which
-destinies occur and the objections limiting the apparent finality of the
-verse's ethical classification.
-
-## 5. Domain, Connection, and World-System
-
-The initial definition, `svalakṣaṇadhāraṇād dhātuḥ`, makes a domain that which
-bears its own characteristic. Yet a dharma's occurrence in a domain is not
-enough to make it “connected with” that domain. Connection is determined by
-the craving capable of lying latent in it. The apparent circle—domain-craving
-defined by domain, domain-connection defined by craving—is checked by the
-already established locations and by the alternative distinction between
-non-concentrated, dhyāna, and formless levels.
-
-This preserves three different relations:
-
-```text
-occurs in a domain
-    ≠ necessarily connected with that domain
-
-craving lies latent in a dharma
-    → that dharma is connected with the corresponding domain
-
-domain
-    bears its characteristic field of connected dharmas
-```
-
-The discussion then pluralizes the entire three-Realm structure. There are
-indefinitely many world-systems, arranged without gaps horizontally and,
-according to another school's reading, also above and below. Yet freedom from
-attachment to one domain applies to all corresponding domains. Cosmological
-plurality does not multiply the kind of attachment or the liberation from it.
-
-## 6. Destiny Within Domain
+## 5. Destiny Within Domain
 
 The locative `teṣu`, “within those,” marks a strict containment rather than an
 identity:
@@ -380,7 +201,7 @@ corresponding Bases have arisen as karmic result, and no such being is
 found apart from the dharmas. The text determines a rule of designation upon
 a resultant complex, not an independent bearer separable from it.
 
-## 7. Result, Cause, Transition, and Dispute
+## 6. Result, Cause, Transition, and Dispute
 
 The Vaibhāṣika argument separates four functions:
 
@@ -413,15 +234,13 @@ exclusively indeterminate classification, but even they differ over whether a
 destiny is exclusively maturation-result or also includes accumulation-produced
 dharmas.
 
-## 8. The Bhāṣya's Decisions for the Kārikā
+## 7. The Bhāṣya's Decisions for the Kārikā
 
-The preparatory prose prevents `dhātu` from being translated as a mere place.
-In the general Organon mapping, *dhātu* is **Principle**; the specific
+The preceding 3.03 inquiry prevents `dhātu` from being translated as a mere
+place. In the general Organon mapping, *dhātu* is **Principle**; the specific
 compounds *kāmadhātu*, *rūpadhātu*, and *ārūpyadhātu* are Desire Realm, Form
-Realm, and Formless Realm. Here the Bhāṣya describes the generic Domain as
-characteristic-bearing and connected with dharmas. It also states that
-innumerable instances of the three-Realm world-system may occur throughout
-space.
+Realm, and Formless Realm. This unit asks how the five destinies are situated
+within those already determined Realms.
 
 `Gati` is best retained as “destiny,” provided its verbal and functional force
 remains visible: it is a course that terminates in a determinate rebirth
@@ -444,7 +263,7 @@ independent hell-being apart from the relevant dharmas, while the opposing
 interpretation cautions that this alone does not determine the complete range
 of dharmas included in a destiny.
 
-## 9. Interpretation
+## 8. Interpretation
 
 VAK 3.04 changes the cosmology from a map into a differentiated process:
 
@@ -477,39 +296,19 @@ remain distinguishable. The text itself supplies the narrower architecture;
 “Rational Moral Agent” is the project's reconstruction, not a translation of
 `sattva`.
 
-The discussion of innumerable world-systems adds an important universality.
-Freedom from attachment is not local escape from one cosmic territory: one
-who is free from a given domain's attachment is free from all corresponding
-domains. Thus the cosmological many and the functional determination of
-craving do not compete. Repetition of the field does not multiply its
-principle.
-
 This also disciplines the project's language of Outflow and Projection.
 Karmic activity generates a resultant placement, but the produced destiny is
 not identical with that activity. Any later theory of Projection must retain
 the distinction between projecting cause, transition, projected
 configuration, and the designation of the agent within it.
 
-## 10. Review Status
+## 9. Review Status
 
-Fourth study of the Lokanirdeśa Bhāṣya sequence, reviewed in a second pass.
-The research kārikā and Bhāṣya witnesses, the official Organon kārikā study,
-the adjacent VAK 3.03 Bhāṣya Study, and the running Sanskrit at 112.24–115.16
-have been compared.
-
-This Study deliberately exceeds the boundary claimed by the research Bhāṣya
-report. The running source places a substantial domain inquiry before the
-verse and a sustained dispute after the Śāriputra citation; both are necessary
-to the natural commentary unit. Several readings and the scriptural citations
-remain provisional because the e-text is non-critical. The source typo
-`[114|26-224|26]` is treated only as a faulty page label and has not been
-copied into the Study's reference boundary.
-
-This pass corrected the rain simile and translated `ṛddhim utpādayati` as
-developing a supernormal power. The placement in the world-system of birth is
-now explicit in the latter sentence.
-
-The research witnesses, running source, and existing Kārikā study remain
-unchanged. The preceding Bhāṣya Studies use the reviewed Realm terminology.
-This study remains provisional pending critical rereading. VAK 3.05 begins at 115.17 and has not been undertaken
-here.
+The 3.04 unit now begins at the source transition `ya ete trayo dhātava
+uktāḥ` at 114.04 and runs through the Vaibhāṣika alternatives at 115.16.
+The preceding domain inquiry, including the rain simile and the world-system
+argument, is in 3.03. The long citations and several witness readings in this
+destiny debate remain provisional pending critical comparison. This pass
+rechecked the full 114.04–115.16 sequence against the running Sanskrit and
+restored the Dharmaskandha's eye synonym chain and the five named Bases in the
+Śāriputra citation; no further continuous passage is missing from this unit.
