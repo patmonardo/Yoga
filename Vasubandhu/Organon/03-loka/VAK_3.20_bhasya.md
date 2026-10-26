@@ -222,4 +222,6 @@ those wider relations; it remains distinct from consciousness and Mind.
 
 ## 7. Review Status
 
-Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation. Source span not yet recorded here.
+Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation.
+The continuous Sanskrit and translation cover 131.03–131.18; the question at
+131.19 begins VAK 3.21. No outright omission was found in this range.

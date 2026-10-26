@@ -127,7 +127,10 @@ illuminated.
 But the Bodhisattva's mother saw in a dream a young white elephant entering
 her womb. That was only a sign, because the Bodhisattva had long been removed
 from animal birth—just as King Kṛkī saw ten symbolic dreams. The transmitted
-verse then lists those dreams.
+verse names an elephant, a well, roasted meal, sandalwood, an elephant calf,
+gardens, a monkey's coronation, a filthy monkey, a cloth, and a quarrel as the
+ten things seen by the king. The word division of this compact list remains
+provisional.
 
 An intermediate being does not enter by breaking through the womb; it enters
 through the mother's birth passage. For this reason, among twins the one born
@@ -334,7 +337,9 @@ The research Bhāṣya omits most of the middle of the natural unit. This Study
 restores the physical objections, the Bodhisattva dream and poetry dispute,
 the account of womb-entry and clothing, and the complete return to the
 fourfold definition of existence. The dream list and the Śuklā passage remain
-textually uncertain and have not been made to bear the main argument.
+textually uncertain and have not been made to bear the main argument. This
+pass adds a provisional rendering of the ten dreams to the continuous
+translation.
 
 The research witnesses, running source, existing Kārikā study, and preceding
 Bhāṣya Studies remain unchanged. VAK 3.14 begins at 124.22 and has not been

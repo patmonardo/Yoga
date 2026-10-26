@@ -185,15 +185,19 @@ Alternatively, the first attains parinirvāṇa after acquiring the common class
 character in the Form Realm; the second after also experiencing divine
 prosperity; and the third after entering the devas' recitation of Dharma. One
 who attains parinirvāṇa upon rebirth enters a still more excellent recitation,
-or, in most cases, attains it immediately upon rebirth after shortening the
-lifespan.
+or attains it after much of the lifespan has passed, not immediately upon
+rebirth.
 
 None of these explanations corresponds to the similes of the spark and heated
 iron, because they lack the relevant distinctions of place and course. On
 these accounts an intermediate attainer should also be taught in the
 Formless Realm, since one could attain parinirvāṇa at an interval in the
-lifespan there; but none is taught. The cited verse enumerating lifespan
-classes does not do so. Therefore these explanations too are mere invention.
+lifespan there; but none is taught. The cited lifespan-giving verse says:
+“By the dhyānas, four tens; by the formless attainments, three sevens; with
+perception making a sixty, the group is complete.” Its numerical construction
+remains uncertain in this working text, but it does not list an intermediate
+attainer in the Formless Realm. Therefore these explanations too are mere
+invention.
 
 What if the opponents do not recite any of these sūtras? What can now be done,
 since the Teacher has attained parinirvāṇa and this leaderless teaching has
@@ -413,7 +417,10 @@ its reference line extending to approximately 122.19. This Study
 restores the remaining rival interpretations, the explicit reflection on
 fragmented transmission, and the apparent countertexts concerning Dūṣī Māra,
 Avīci, immediate-retribution karma, and intermediate lodging. Numerous cited
-readings remain provisional pending comparison with a critical edition.
+readings remain provisional pending comparison with a critical edition. This
+pass restores the cited lifespan verse in the continuous translation and
+corrects `nopapannamātra eva`: the proposed attainment is not immediately upon
+rebirth.
 
 The research witnesses, running source, existing Kārikā study, and preceding
 Bhāṣya Studies remain unchanged. VAK 3.13 begins with the question at 123.20

@@ -114,10 +114,11 @@ women or attendants skilled in the care of children anoint a hand with
 comfortably warm ghee-oil, finely ground silk-cotton paste, or another
 substance, and attach a sharp, narrow instrument to it. They insert the hand
 into what the text describes, in deliberately repellent detail, as the great
-birth-channel wound produced by former karmic maturation—dark, foul-smelling,
-wet, continually discharging, covered only by thin perforated skin, and
-befouled by reproductive fluids and bodily impurities—and extract the fetus
-piece by piece.
+birth-channel wound produced by former karmic maturation—like a pit of
+excrement, dark and foul-smelling, inhabited by multitudes of worms,
+continually discharging, covered only by thin perforated skin, and sticky
+with semen, blood, lymph, and other impurities—and extract the fetus piece
+by piece.
 
 That continuity too is led to some destiny by prior karma whose result is to
 be experienced on another occasion.
@@ -307,4 +308,6 @@ The translation remains provisional. The medical passage contains multiple
 damaged compounds, especially at 130.06–130.20, and requires comparison with
 critical Sanskrit, Tibetan, Chinese, and established translations. Its
 physiology is recorded as source doctrine, not endorsed as modern medicine.
+This pass restores the compressed list of details in the medical description
+while keeping its damaged compounds provisional.
 The Study stops at 131.02 and does not enter VAK 3.20.
