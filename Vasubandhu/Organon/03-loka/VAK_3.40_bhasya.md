@@ -60,7 +60,7 @@ regularizes evident forms provisionally. The local derivation of `gandharva`,
 the exact wording of both sūtra citations, and the distribution of the
 fourfold alternative require comparison with critical witnesses.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Contact, volition, and differentiated cognition are nutriments when they are
 with outflows, and they occur in all three realms. Contact is born from the
 conjunction of the triad. Volition is mental action. Volition and

@@ -29,7 +29,7 @@ Kārikā study: [`VAK_7.25.md`](./VAK_7.25.md).
 (`akopyaprativedho 'ṣṭau vimuktimārgāḥ`). Aśaikṣa and pṛthagjana clauses
 follow; not absorbed into the trainee eight. Voice: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The ninth liberation path of detachment from Bhavāgra is exhaustion-knowledge.
 > There, cultivation of nine knowledges, except non-arising-knowledge.

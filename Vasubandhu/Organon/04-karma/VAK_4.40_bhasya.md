@@ -18,7 +18,7 @@ reading here. The unit runs from [224|19] through the closing line
 at [225|02] in `Vasubandhu/Sources/kosabhasya.txt`. The next
 verse turns to the loss of non-restraint at [225|03].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 atha dhyānānāsravasaṃvarayoḥ kathaṃ tyāgaḥ /
@@ -46,7 +46,7 @@ and the likely irregular `mṛddhindriyamārgaḥ`; the translation
 keeps their contextual sense provisional. The Kārikā witness's
 `utpatti` is recorded above rather than silently replaced.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How are meditation-born and uncontaminated restraints relinquished?
 “Wholesome dharmas acquired through dhyāna are relinquished

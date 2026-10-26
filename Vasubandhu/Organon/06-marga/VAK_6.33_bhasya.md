@@ -60,7 +60,7 @@ breaks are editorial. Uneven forms including `vacyavasthāpyate`,
 `nirdūyate`, `valavanto`, and `opaghātavacya` remain as transmitted and
 await collation. The next unit begins at [355|22].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The gradual sequence is now to be explained. First this classification:
 as the Desire Realm afflictions have been taught in nine grades, so in

@@ -15,7 +15,7 @@ and runs through its closing statement at [211|20–21] in
 `Vasubandhu/Sources/kosabhasya.txt`. The following question at
 [211|22] begins 4.26, on how restraints are acquired.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 syād vijñaptyā samanvāgato nāvijñaptyeti catuṣkoṭikam. tatra tāvat:
@@ -44,7 +44,7 @@ last explanation of the noble person is also compressed; the
 translation below marks its two alternatives without claiming that
 all temporal details are settled.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Can a person be endowed with manifest action but not with non-manifest
 action? A four-cornered analysis is made. First: “A person standing in

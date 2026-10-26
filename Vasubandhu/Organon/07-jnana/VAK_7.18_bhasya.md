@@ -30,7 +30,7 @@ Kārikā study: [`VAK_7.18.md`](./VAK_7.18.md).
 Hearing/reflection/cultivation and `vyavacchinna-bhūmi` follow in the same
 span. Voice: question (one knowledge of all dharmas?) and Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Conditioned dharmas are made eightfold: those of the desire, form, and
 > formless domains, and the uncontaminated, by the associated / non-associated

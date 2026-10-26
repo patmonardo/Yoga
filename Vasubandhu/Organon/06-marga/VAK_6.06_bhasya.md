@@ -49,7 +49,7 @@ alabdhapraṇītaprabhūtecchā mahecchatā /
 
 This is the complete running unit at [335|08–335|18] in `Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line breaks are editorial. The running verse has `mahecchātā` where the separate kārikā has `mahecchatā`; the witness form remains visible above. The next half-verse at [335|19] opens 6.07.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 For someone thus engaged in cultivation, how is cultivation accomplished?
 The verse says: for one possessing the two withdrawals. That means withdrawal

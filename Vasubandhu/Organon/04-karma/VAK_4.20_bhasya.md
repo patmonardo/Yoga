@@ -15,7 +15,7 @@ The running Bhāṣya unit extends from [209|12] through [209|21–22] in
 was stated at the end of 4.19 and is carried into this unit. The next
 Kārikā half opens at [210|01].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 yathā prātimokṣasaṃvarastha uktaḥ:
@@ -43,7 +43,7 @@ preceding general rule in 4.19 reads `atyāgāt`. The Kārikā's compressed
 `atītājātayā` is explained in prose by
 `atītānāgatābhyām avijñaptibhyām`, “past and future avijñaptis.”
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 As the case of one established in prātimokṣa restraint has been stated,
 so too is the case of one established in non-restraint. For as long as

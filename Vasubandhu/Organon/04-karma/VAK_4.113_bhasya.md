@@ -12,7 +12,7 @@
 The Bhāṣya distinguishes the thing given from the giving-action, then
 specifies its motive, means, activating factors, and result.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kim idaṃ dānaṃ nāma? yad api dīyate tad dānam; iha tu:
@@ -48,7 +48,7 @@ relative-correlative construction. The cited verse reads `tat kṣaṇaṃ`
 with a space. The closing colon introduces the next topic, which begins
 at `[268|21]`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What is called giving? In ordinary usage, the thing that is given may
 itself be called a gift. Here, however, the definition is: “Giving is

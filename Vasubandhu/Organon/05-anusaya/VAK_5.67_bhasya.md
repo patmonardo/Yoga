@@ -49,7 +49,7 @@ later textual review.
 The last “side” is supplied as *anvayajñāna-pakṣa* by the prose. `Pakṣa`
 includes corresponding *kṣānti* and *jñāna* moments, not one knowledge alone.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 All nine *parijñās* are fruits of the noble path. Two are
 fruits of the mundane path: the *parijñās* of abandonment

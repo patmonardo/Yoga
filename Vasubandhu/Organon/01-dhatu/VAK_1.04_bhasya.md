@@ -10,7 +10,7 @@
 
 The commentary calls this *sarvadharmāṇāṃ samāsanirdeśaḥ*, the summary designation of all dharmas. It specifies *mārga* as the Truth of the Path, and distinguishes an *āsrava* taking something as *ālambana* from its persistence through a dharma.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > katame punas te dharmā yeṣāṃ pravicayārtham abhidharmopadeśa ity āha /
 > sāsravā anāsravā dharmāḥ / eṣa sarvadharmāṇāṃ samāsanirdeśaḥ / tatra
@@ -23,7 +23,7 @@ The commentary calls this *sarvadharmāṇāṃ samāsanirdeśaḥ*, the summary
 
 This unit runs from the transition question at `[003|05]` through *uktāḥ sāsravāḥ* at `[003|14]` in `Vasubandhu/Sources/kosabhasya.txt`. The opening question also closes the preceding unit. The witness opens sandhi and regularizes `samāsanirddeśaḥ` to `samāsanirdeśaḥ`. More consequentially, the local text at `[003|12–13]` reads `na tinuśerate`; `na tv anuśerate` above is a contextual reconstruction, not a verified source reading. The witness remains an edited, non-critical working text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Which, then, are those dharmas for whose discrimination the Abhidharma instruction is given? He says: dharmas are impure and pure. This is the summary designation of all dharmas.
 >

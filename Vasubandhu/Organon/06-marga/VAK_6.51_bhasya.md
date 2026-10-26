@@ -59,7 +59,7 @@ removed and line breaks editorial. The running verse's
 `śrāvaṇyamamalo mārgaṃḥ` remains as transmitted, distinct from the
 study's `śrāmaṇyam amalo mārgaḥ`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The four previously stated fruits are fruits of śrāmaṇya. What is
 śrāmaṇya? It is the stainless Path: the uncontaminated Path. By that

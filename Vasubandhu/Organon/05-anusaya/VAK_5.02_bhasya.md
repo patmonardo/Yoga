@@ -90,7 +90,7 @@ punctuation above are editorial. The e-text's `mānānuśyaḥ`,
 retained as rough readings. The source's `kleśakṛtamevecchati` is
 divided as `kleśakṛtam evecchati` without changing its letters.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Because attachment is divided, the six are stated as seven.” The six
 anuśayas are spoken of as seven in the sūtra by dividing attachment in

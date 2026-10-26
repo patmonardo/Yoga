@@ -11,7 +11,7 @@
 > follows four and is followed by five; beyond-training follows that
 > group of five.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > śubhātpunaḥ // VAkK_2.69 //
 > nava cittāni
@@ -40,7 +40,7 @@ from 105.07 through 105.26. The opening `śubhāt punaḥ` is the
 carried final fragment of 2.69. Source spellings are retained.
 The next refinement of the twelve minds begins at 105.27.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 From wholesome Formless Realm mind, nine kinds of mind can arise:
 all except wholesome Desire Realm mind and the unobscured-

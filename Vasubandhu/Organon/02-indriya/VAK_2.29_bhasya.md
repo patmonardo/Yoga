@@ -12,7 +12,7 @@
 > or one secondary affliction beginning with anger, or regret, the local
 > count is twenty-one.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > āveṇike tv akuśale dṛṣṭiyukte ca viṃśatiḥ /
 > yad akuśalaṃ cittam āveṇikaṃ tatra viṃśatiś caittāḥ /
@@ -39,7 +39,7 @@ are read as viṃśatiḥ and kleśamahābhūmikā; eka viṃśatiḥ is
 joined as ekaviṃśatiḥ. These contextual repairs are not independent
 collation. Obscured-indeterminate at 58.18 begins 2.30.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 In isolated unwholesome consciousness, and in unwholesome consciousness associated with a view, there are twenty mental factors. The isolated case has ten universal great-ground factors, six affliction great-ground factors, two unwholesome great-ground factors, and initial and sustained examination. “Isolated” means that ignorance occurs without a further affliction such as attachment. The view-associated case has the same twenty. Should the view not make twenty-one? No: a particular form of discriminative comprehension, already counted among the universal great-ground factors, is called a view. The unwholesome views in question are wrong view, attachment to views, and attachment to rules and observances.
 

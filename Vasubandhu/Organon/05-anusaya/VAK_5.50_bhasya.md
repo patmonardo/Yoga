@@ -38,7 +38,7 @@ punctuation are editorial. The source's `viheṭhnaṃ` and
 the compact remainder of the `śāṭhya` definition remain
 for textual review.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Obstinate fault-clinging, sustained resentment, and
 harmfulness complete the six stains. Of these, deceit is

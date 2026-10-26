@@ -47,7 +47,7 @@ punarapyeṣa mārgo bodhipakṣyākhyāṃ labhate /
 
 This is the complete running unit [382|07]–[382|20–21] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The next paragraph at [382|21] enumerates the thirty-seven Bodhi-aligned dharmas for 6.67. The running verse reads `dhanyābhijñā`, while the surrounding prose repeatedly reads and explains `dhandhābhijñā`; the study's normalized verse follows that prose.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The Path itself is also called a course of progress, *pratipad*, because it leads to Nirvāṇa. There are four courses: difficult with slow realization, difficult with quick realization, and the corresponding two easy courses.
 

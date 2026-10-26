@@ -27,7 +27,7 @@ Kārikā study: [`VAK_8.20.md`](./VAK_8.20.md).
 
 **Witness.** Pradhan 446|22–447|07. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Having given the general rule, he makes an exception. For one reborn at the
 > summit, destruction of outflows comes from making present the uncontaminated

@@ -9,7 +9,7 @@
 > Cause is held to be sixfold: conditioning, co-arisen, homogeneous,
 > associated, pervasive, and that called maturation.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > yaktūktaṃ "janyasya janikā jātirna hetupratyayairvinā" iti ka ime hetavaḥ keca pratyayāḥ /
 > kāraṇaṃ sahabhūścaiva sabhāgaḥ saṃprayuktakaḥ /
@@ -45,7 +45,7 @@ from 82.19–20 through 83.17, including the question that recalls
 of 2.50; its co-arisen definition begins at 83.18. Source spellings
 and damaged readings are retained.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 It was said that arising generates what is to be generated only
 with causes and Conditions. What are these causes, and what are

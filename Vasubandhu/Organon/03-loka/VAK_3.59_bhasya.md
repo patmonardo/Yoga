@@ -114,7 +114,7 @@ by the local source. The readings `anukrāmatām`, `vivartanīvāyubījavat`, an
 the second derivation of `utsada` remain provisional; no critical Sanskrit
 text has been silently substituted for the witness.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 What are the sixteen subsidiary regions?
 
 Embers, putrid mire, then the razor-road group, and a river lie in the four

@@ -9,7 +9,7 @@
 > supported by it does not see, since, it is said, a Visible Form screened by
 > a wall is not seen.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > cakṣur idānīm asantīrakatve kathaṃ dṛṣṭiḥ /
 >
@@ -155,7 +155,7 @@
 
 Word division is editorial. This unit runs from [030|02] to [031|18] in the local source. The damaged reading near [030|10] is retained cautiously; the immediate question is whether the Cognition supported by the Eye can be called the seer. The question whether one eye or both sees begins at [031|19].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The eye, now, not ascertaining, how is it view? By the sense of disclosing Visible Forms. Because:
 >

@@ -64,7 +64,7 @@ are retained; the English follows the local argument rather than silently
 correcting the Sanskrit. The next sentence at [334|13] turns toward seeing
 the truths and 6.05.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The Blessed One has stated the four truths, and also the two truths,
 conventional truth and ultimate truth. What distinguishes these two? Where

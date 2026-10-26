@@ -79,7 +79,7 @@ ascetics is explicitly introduced as a prior account, not as an independently
 verified historical report. In `pratisrotaḥnayanam`, the compound is spaced
 for readability; the sense is leading beings against the current.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 At what time do Buddhas arise—during increase, or during decrease? During
 decrease, from the period beginning at the eighty-thousand-year lifespan down
 to the time when human beings have lifespans of one hundred years. They do

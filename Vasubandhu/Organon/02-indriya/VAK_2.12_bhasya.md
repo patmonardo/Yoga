@@ -12,7 +12,7 @@
 > addition both pleasure and gladness and the Form Faculties, the remainder
 > are connected with the Formless realm.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > katamad indriyaṃ katamadhātvāptam eṣām indriyāṇām /
 > kāmāptam amalaṃ hitvā /
@@ -41,7 +41,7 @@ The unit runs from printed 46.17 through 47.03 in
 
 Word division is editorial. Repairs: kāmachātau → kāmadhātau, akuśalā bhāvāccha → akuśalābhāvāc ca, avaśāiṣyate → avaśiṣyate, varttate → vartate. Anyaḥ puruṣabhāvo yaḥ kāmadhātau puruṣāṇāṃ bhavati is retained. No words are added to specify the other characteristic. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Which of these faculties is connected with which realm? Excluding the stainless triad, they are connected with the desire realm. More precisely, the faculties are connected with the desire realm apart from the triad beginning with the faculty “I shall know,” which is exclusively without *āsrava*. That triad is unconnected with the realms.
 

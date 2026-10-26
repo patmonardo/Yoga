@@ -25,7 +25,7 @@ Kārikā study: [`VAK_8.19.md`](./VAK_8.19.md).
 
 **Witness.** Pradhan 446|06–21. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > When from contaminated first dhyāna one enters uncontaminated third, from that
 > contaminated infinite space, from that uncontaminated nothingness — and likewise

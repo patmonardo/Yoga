@@ -52,7 +52,7 @@ Spacing and sandhi have been regularized. `Ardhatṛtīye varṣaśate` is
 translated as 250 years, in line with the preceding halving and the Bhāṣya's
 construction of the continental sequence.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Just as the measures differ, do lifespans also differ? They do, the Bhāṣya
 says.
 

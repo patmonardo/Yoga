@@ -13,7 +13,7 @@ to 4.48. Here `api ca` at [229|07] opens a further analysis, running
 through the return to karma at [229|17–18]. The next classification
 begins at [229|19].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 api ca /
@@ -45,7 +45,7 @@ Word division, punctuation, and verse number are editorial. The
 quoted sūtra phrases are retained as the running source gives them;
 their identification and full contexts are not supplied here.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Furthermore: “Being experienced is fivefold: through own nature,
 association, an object, maturation, and present manifestation.”

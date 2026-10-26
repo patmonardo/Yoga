@@ -23,7 +23,7 @@ Kārikā study: [`VAK_8.07.md`](./VAK_8.07.md).
 
 **Witness.** Pradhan 437|13–438|03. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Of these attainments, it is the dhyānas that [have these factors], not the
 > formless. In the first there are five limbs: vitarka, vicāra, joy, ease, and

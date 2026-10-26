@@ -9,7 +9,7 @@
 > wholesome actions in the world, volition at the summit of becoming has the
 > greatest maturation-result.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 eṣām ānantaryāṇāṃ katamat mahāsāvadyam?
@@ -58,7 +58,7 @@ This study follows `[264|03]–[264|21]`. The running witness reads
 immediate-result actions is retained without assigning its ordinal
 members beyond the text. Sandhi, spacing, and punctuation are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Which of these immediate-result actions is the most culpable?
 

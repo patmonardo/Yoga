@@ -9,7 +9,7 @@
 > destinies, inhabitants of Uttarakuru, and non-percipient beings are held to be
 > the three obstructions.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 trīṇy āvaraṇāny uktāni bhagavatā:
@@ -62,7 +62,7 @@ The source unit is `[259|04]–[259|24]`. The witness has damaged readings.
 compressed list of other possible limiting conditions and the phrase
 `sarvajaghanyam` are retained without imposing a disputed interpretation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The Blessed One has stated three obstructions: action-obstruction,
 affliction-obstruction, and maturation-obstruction. What is their nature?

@@ -10,7 +10,7 @@
 > likewise to other dharmas except for the associated cause. Four
 > conditions are taught; five causes constitute the cause-condition.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > katame ime dharmāścaturvidhā nirdiṣṭā ityāha
 > cittacaittāḥ
@@ -37,7 +37,7 @@ from 97.26 through 98.08. The kārikā is distributed through
 the prose. Source spellings, including `cittacaīttāḥ` and
 `paṇyca`, are retained. The next anchor begins at 98.09.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 To which dharmas do the four cause profiles just listed apply?
 To mind and mental factors. What of material dharmas and formations

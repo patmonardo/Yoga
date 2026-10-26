@@ -43,7 +43,7 @@ the prose. Word division and punctuation are editorial.
 The running source writes `kutastyā`; the contextual
 question is how many of these factors belong where.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How many of these factors are to be understood as occurring
 in which places? Deceit and crookedness occur in the desire

@@ -10,7 +10,7 @@
 > govern attainment of their respective successors, and “one who has
 > known” governs nirvāṇa; another account is also given.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > pratyekam indriyam ity upadarśanārthaṃ tathāśabdaḥ /
 > tatrājñāsyāmīndriyasyājñendriyasya prāptāv ādhipatyam /
@@ -26,7 +26,7 @@ The prose is printed 40.03–08 in `Vasubandhu/Sources/kosabhasya.txt`, after th
 
 Word division is editorial. Repairs follow the research bhāṣya: indrim → indriyam, ājñendraiyasya → ājñendriyasya, pāryāyaḥ → paryāyaḥ, kleāśa → kleśa. Darśnaheyakleśaparihāṇam is read as darśanaheyakleśaprahāṇam, with the parallel bhāvanāheyakleśaprahāṇam. That repair is more than orthography. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Likewise” indicates that each of the three is a faculty in its own right. The faculty called “I shall know” governs attainment of the knowledge-faculty; the knowledge-faculty governs attainment of the faculty of one who has known; and the faculty of one who has known governs parinirvāṇa. For one whose mind is not liberated cannot attain parinirvāṇa.
 

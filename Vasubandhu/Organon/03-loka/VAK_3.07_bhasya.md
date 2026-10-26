@@ -13,9 +13,9 @@ The first half closes the ninefold classification of sentient abodes by
 excluding the bad destinies. The second half introduces a distinct scriptural
 classification of four `vijñānasthiti`. Here “support” conveys the Bhāṣya's
 functional explanation: these are the four Bases upon which
-differentiated cognition becomes established.
+Cognition becomes established.
 The translation's “exclusively in its own ground” follows `svabhūmāv eva`;
-the delayed `kevalam` also limits the exclusion of consciousness to the
+the delayed `kevalam` also limits the exclusion of Cognition to the
 fourfold scheme, as the commentary explains below.
 
 ## 2. Continuous Sanskrit
@@ -79,7 +79,7 @@ omits the ensuing explanation through `kevalam`; that text has been restored
 from the running source without altering the witness. The pagination label
 `[118|01-128|01]` is defective and is not copied into the Study.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 For in these nine abodes beings dwell by their own wish.
 
@@ -88,33 +88,33 @@ The bad destinies. In them, unwilling beings are made to reside by the
 rākṣasas of karma. They do not dwell there by choice. Therefore those states
 are not sentient abodes, just as a place of confinement is not an abode.
 
-In one sūtra seven stations of differentiated cognition are taught. In
+In one sūtra seven stations of Cognition are taught. In
 another, “there are again four supports.” What are the four? A support of
-differentiated cognition associated with form, one associated with feeling,
+Cognition associated with form, one associated with feeling,
 one associated with perception, and one associated with formations.
 
 What is their own-nature? Respectively, they are “the four Bases with
 outflows.” And these are “exclusively in their own ground,” not in another
 ground. Why? Because a `sthiti` is an establishment. Under the power of
-craving, differentiated cognition does not become established in Bases
+craving, Cognition does not become established in Bases
 belonging to a dissimilar ground.
 
-Why is consciousness not itself called a station of consciousness, when the
+Why is Cognition not itself called a station of Cognition, when the
 seven stations include all five Bases? Because a station is designated
 apart from what stands upon it. The one that stands is not itself its seat,
 just as a king is not the royal throne. The Vaibhāṣikas say that the dharmas
-which consciousness mounts and by which it travels, like a boat passenger,
-are called its stations. Consciousness does not mount itself and travel;
+which Cognition mounts and by which it travels, like a boat passenger,
+are called its stations. Cognition does not mount itself and travel;
 hence it is not named among the four.
 
 But how, then, should we understand the sūtra saying that when there is
-delight and craving for consciousness as nutriment, consciousness is
+delight and craving for Cognition as nutriment, Cognition is
 established and mounted there? And how are the seven stations said to be
-included in the five Bases? In that case, when consciousness operates
+included in the five Bases? In that case, when Cognition operates
 with delight in the Bases taken together within a realm of rebirth,
-consciousness too is included in a station of consciousness. Considered
+Cognition too is included in a station of Cognition. Considered
 separately, however, form and the other Bases become conditions for the
-defilement of consciousness. Therefore the restriction applies **only** to
+defilement of Cognition. Therefore the restriction applies **only** to
 the four stations: `kevalam`.
 
 ## 4. Movement and Voices of the Commentary
@@ -128,14 +128,14 @@ nine sentient abodes
 seven cognition-stations taught in one context
     four Base-supports taught in another context
 
-why consciousness belongs to the seven but not the four
+why Cognition belongs to the seven but not the four
     Vaibhāṣika seat/rider explanation
     scriptural challenge and qualified answer
 ```
 
 The expository voice makes explicit both objects suppressed by the verse:
 “no others” means no bad destinies among the sentient abodes, and the four
-`sthiti` are supports of consciousness associated with form, feeling,
+`sthiti` are supports of Cognition associated with form, feeling,
 perception, and formations. The Vaibhāṣikas are explicitly named for the
 seat/rider explanation. An unnamed questioner presses two scriptural
 counterexamples, prompting a distinction between the Bases taken
@@ -196,7 +196,7 @@ does one local job: it distinguishes imposed placement from willing dwelling.
 ## 7. Four Base-Supports in Their Own Ground
 
 The second classification is not another list of cosmic populations. It names
-four supports associated with differentiated cognition:
+four supports associated with Cognition:
 
 | Support named in the prose | Base that constitutes it |
 |---|---|
@@ -206,13 +206,13 @@ four supports associated with differentiated cognition:
 | associated with formations | formations Base with outflows |
 
 `Sāsrava` restricts these supports to conditioned Bases with outflows.
-The consciousness Base is not included in this fourfold list. The
+The Cognition Base is not included in this fourfold list. The
 question why is already raised and argued before the final word `kevalam` of
 VAK 3.07. The Vaibhāṣika explanation distinguishes what stands from its seat;
 the scriptural challenge then requires a more qualified account. In the
 sevenfold scheme, all five Bases are included together within a rebirth
 realm. In the fourfold scheme, the supports are considered individually, in
-their relation to the defilement of consciousness.
+their relation to the defilement of Cognition.
 
 The final restriction is equally important. A support functions only in its
 own `bhūmi`, not in a dissimilar ground. The Bhāṣya explains this through the
@@ -239,7 +239,7 @@ formations. “Bases with outflows” retains the Sanskrit structure;
 `Svabhūmāv eva` restricts each support to its own ground. The Bhāṣya's
 `pratiṣṭā hi sthitiḥ` confirms that this is a rule of establishment rather
 than simply a geographical statement. The delayed `kevalam` also limits the
-fourfold scheme: consciousness is excluded as a support *only* when the four
+fourfold scheme: Cognition is excluded as a support *only* when the four
 are considered separately. It is included in the sevenfold scheme as part of
 the complete Base complex. The two restrictions must not be collapsed
 into a single redundant “exclusively.”

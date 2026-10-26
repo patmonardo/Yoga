@@ -14,7 +14,7 @@ volition. The Bhāṣya constructs the permitted numbers from concrete
 configurations rather than treating the ten Courses of Action as freely combinable
 items.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 karmapathaprasaṅga evāyaṃ vartate. tatra vaktavyaṃ katibhiḥ karmapathaiḥ
@@ -82,7 +82,7 @@ including `prayoggaṃ`, `kāmabhithyācāraṃ`, and `yo jayitavyā`. The conti
 text adopts the contextually secure readings `prayogaṃ`, `kāmamithyācāraṃ`,
 and `yojayitavyā`. It also opens sandhi and compounds for readability.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The discussion returns to the Courses of Action and asks how many can occur
 simultaneously with one arising volition.

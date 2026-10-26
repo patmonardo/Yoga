@@ -30,7 +30,7 @@ Kārikā study: [`VAK_7.56.md`](./VAK_7.56.md).
 **Witness.** Pradhan 430|11–431|03; colophon 431|04. Voices: Vasubandhu;
 counterexample of natural former-life memory.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > “Birth-acquired” continues. Birth-acquired other-mind knowledge is threefold:
 > wholesome, unwholesome, indeterminate. Inferential other-mind knowledge of

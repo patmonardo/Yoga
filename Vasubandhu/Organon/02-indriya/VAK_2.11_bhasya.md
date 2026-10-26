@@ -11,7 +11,7 @@
 > unwholesome; Mind and the other feelings can be wholesome, unwholesome,
 > or indeterminate. The remainder is exclusively indeterminate.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kati kuśalāni katy akuśalāni katy avyākṛtāni /
 > ekāntena tāvat / aṣṭakaṃ kuśalaṃ /
@@ -30,7 +30,7 @@ to 2.10: the opening words of this numbered kārikā complete that
 preceding explanation. They remain in the verse and its translation,
 but are not repeated as though they began the ethical Bhāṣya.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How many are wholesome, how many unwholesome, and how many indeterminate? First, categorically, the eight are wholesome: the five beginning with faith and the three beginning with the faculty “I shall know.” Distress is twofold: wholesome and unwholesome. Mind and the other feelings are threefold: wholesome, unwholesome, and indeterminate. The remainder is onefold. What is that remainder? Those beginning with the eye, with life as the eighth. These are exclusively indeterminate.
 

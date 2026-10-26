@@ -58,7 +58,7 @@ The anchor copies the separate kārikā's `tisra`; the running verse reads
 `nisra`. The prose fixes the threefold sense. This verse enumerates six
 seeing-abandonment *parijñās* of the announced nine.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Is all abandonment just one *parijñā*? No. There are nine.
 First, in the Desire Realm, abandoning the first pair of

@@ -120,7 +120,7 @@ continuous text as `vidyāvidyābhyāṃ`; the rendering preserves the
 classification without forcing an interpretation of that phrase. The
 running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 What, then, is meant by “Name-and-Form”? Form has been explained in detail
 above.
 

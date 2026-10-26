@@ -113,7 +113,7 @@ are editorial. Its forms `gīcarā`, `lsukhaduḥkhayoḥ`, `pariśūddhacyā`,
 attributed alternative (`apare`) and the closing summary verse are included.
 The next unit begins at [340|15].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The verse calls recollection of inhalation and exhalation Prajñā, occurring on
 five grounds, with wind as its cognitive field and a Desire Realm basis.

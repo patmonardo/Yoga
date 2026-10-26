@@ -10,7 +10,7 @@
 > results, respectively. For action to be abandoned through cultivation, those
 > classes have two, four, and three results, respectively.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 trīṇi catvāri caikaṃ ca dṛg-gheyasya tad-ādayaḥ /
@@ -31,7 +31,7 @@ The source unit is `[257|17]–[257|22]`. The prose distributes each count
 over the same three target classes. The kārikā's `dṛg-gheya` and the prose's
 `darśanaheya` refer here to the same class.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 For action to be abandoned through seeing, dharmas to be abandoned through
 seeing are three results, with maturation and disconnection excluded.

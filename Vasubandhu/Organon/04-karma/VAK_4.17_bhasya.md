@@ -13,7 +13,7 @@ The Bhāṣya unit runs from [207|22] through [208|13] of
 `Vasubandhu/Sources/kosabhasya.txt`. The next sentence introduces the
 question of when the latter two receive another name, taken up in 4.18.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 athaiṣāṃ saṃvarāṇāṃ kena kaḥ samanvāgataḥ?
@@ -52,7 +52,7 @@ regularizes the source's `katamo tau`. The last source phrase is
 compressed; its contrast between another mind and a mindless condition
 is clearer than its case construction.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Now, who is endowed with which of these restraints? The eight disciplinary
 classes are endowed with prātimokṣa restraint, from monk and nun through

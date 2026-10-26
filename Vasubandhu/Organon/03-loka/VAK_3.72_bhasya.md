@@ -68,7 +68,7 @@ preserved rather than expanded into a confident etymology. The phrase
 form; its syntax is compressed, but the following question and answer make
 the contrast with a constructed lower-bhūmi body clear.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Of the twenty-two stations of the devas that have been described, how far is
 each higher one from the one below it?
 

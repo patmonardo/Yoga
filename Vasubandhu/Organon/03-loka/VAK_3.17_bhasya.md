@@ -46,7 +46,7 @@ Word division and punctuation are editorial. The e-text's compressed
 `viśada puṇyakarmajñānānām` has also been regularized. The running source
 remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Here, moreover, the following is taught: “Three modes of womb-descent belong
 to the wheel-turning ruler and the self-arisen ones.” That is, to the

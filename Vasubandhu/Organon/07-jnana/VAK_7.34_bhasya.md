@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.34.md`](./VAK_7.34.md).
 damaged — not silently repaired. Voice: question; Vasubandhu. `Gotra` is
 prose expansion of `jāti`, clan not path-disposition.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Are all Buddhas common in every mode? He says: no.
 >

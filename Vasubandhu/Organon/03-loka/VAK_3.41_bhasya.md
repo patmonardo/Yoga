@@ -127,7 +127,7 @@ The Jambū-grove debate follows at printed 155.05–155.18. Its word division
 and grammatical repairs are editorial; the referent is disputed in the
 Bhāṣya itself.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 How many nutriments serve the persistence of beings, and how many support
 those seeking birth? The Vaibhāṣikas say that all four serve both purposes.
 Morsel nutriment also conduces to renewed becoming for those attached to it,

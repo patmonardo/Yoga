@@ -24,7 +24,7 @@ Kārikā study: [`VAK_7.38.md`](./VAK_7.38.md).
 `samādhivaśisaṃprakyāne` unrestored. 418|19–20 (7.39) confirms speech and
 Path as the fourth's objects. Voice: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > In the bodies of names, phrases, and verbal units, in meaning, and in speech:
 > that unfailing knowledge is dharma-, artha-, and nirukti-pratisaṃvid,

@@ -12,7 +12,7 @@
 > co-arisen only, except for the two indeterminate superknowledges and
 > magical-creation consciousness.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > śaikṣāṇāṃ dharmāṇāṃ śaikṣaiva prāptiḥ akṣaikṣāṇāmaśaikṣānāśaikṣāṇāntubhedaḥ /
 > sa nirdiśyate
@@ -51,7 +51,7 @@ and the split *īryāpathikasyā / tyartham* remain as printed.
 The last sentence reports a further acceptance with *icchanti*.
 The question at 65.21 introduces 2.39.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Acquisition of dharmas in training is itself in training; acquisition
 of those beyond training is beyond training. For those neither in

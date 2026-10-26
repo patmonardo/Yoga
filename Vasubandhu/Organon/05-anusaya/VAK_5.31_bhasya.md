@@ -81,7 +81,7 @@ two halves are separated by prose; the additional verse
 introduced as a summary (`saṃgraha`) is kept distinct from
 the 5.31 Kārikā. Spacing and punctuation are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “In all three domains, those to be abandoned by seeing cessation
 or the path have their own corresponding citta added to their

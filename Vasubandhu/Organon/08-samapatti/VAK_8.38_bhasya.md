@@ -26,7 +26,7 @@ Kārikā study: [`VAK_8.38.md`](./VAK_8.38.md).
 
 **Witness.** Pradhan 458|18–459|07. Voices: Vasubandhu. Final `udbhūtavṛtti` clause compressed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > How are special formless [items] and dhyānas produced in the form and formless
 > domains? By three: causal power, karmic power, dharmatā.

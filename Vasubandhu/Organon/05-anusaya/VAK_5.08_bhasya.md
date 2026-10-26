@@ -63,7 +63,7 @@ The opening `satyakāraṇe` is especially compressed: the exact force
 of “a true/actual cause” needs witness comparison and the following
 argument, rather than a quick doctrinal paraphrase.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 A view of a cause in connection with an actual causal matter can be
 adherence to discipline and observance. Why is it not abandoned

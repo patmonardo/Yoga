@@ -33,7 +33,7 @@ Kārikā study: [`VAK_7.19.md`](./VAK_7.19.md).
 **Witness.** Pradhan 405|07–17. Joined `rāgīprathame` unrestored. Voice:
 Vasubandhu. `Ānvita` here is possession, not anvayajñāna.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > This is to be stated: who is possessed of how many knowledges?
 >

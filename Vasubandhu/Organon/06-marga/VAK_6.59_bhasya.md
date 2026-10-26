@@ -50,7 +50,7 @@ line breaks editorial. The next question begins at [378|05].
 The closing `aparihāṇivādī` explicitly marks the non-regression
 speaker.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The cited sūtra says that, of four higher pleasant abidings attained
 in this life, a practitioner may fall away from one or another;

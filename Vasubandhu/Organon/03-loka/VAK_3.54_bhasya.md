@@ -44,7 +44,7 @@ mechanical form `cturthamasya`. The alternation between `Prāgvideha` and
 `Pūrva Videha` is retained as the text's own naming relation rather than
 silently standardized away.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Jambūdvīpa's one remaining side is three and one-half yojanas. Its fourth
 side measures three and one-half yojanas, and precisely because of this it is
 cart-shaped.

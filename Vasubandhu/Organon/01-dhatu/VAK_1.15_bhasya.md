@@ -53,7 +53,7 @@ explicitly pairs comprehension of suffering with abandonment of its origin.
 The following *aprahāya* supports the same sense. This is a working reading,
 not a critical text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “The others, apart from the four, are the Formations Base.” The four Bases
 are Form, Feeling, Reflection, and Cognition. The remaining formations are

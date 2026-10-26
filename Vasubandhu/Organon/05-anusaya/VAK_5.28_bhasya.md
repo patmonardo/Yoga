@@ -38,7 +38,7 @@ introduces the condensed account beginning in 5.29. Spacing,
 punctuation, and the joining of the running source's
 `visaṃ yuktaḥ` are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Now this is examined. If a `vastu` has been abandoned, is
 the person disconnected from that `vastu`? Conversely,

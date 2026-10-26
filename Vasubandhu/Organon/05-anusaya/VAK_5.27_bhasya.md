@@ -212,7 +212,7 @@ text. In particular, the compressed or damaged readings in
 the cited sayings remain visible. The verse itself is spread
 through the exchange and closes only at [301|13].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 After the state-and-function account of 5.26, the questioner
 asks: if past and future dharmas exist substantially, why are

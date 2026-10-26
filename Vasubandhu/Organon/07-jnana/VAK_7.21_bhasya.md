@@ -34,7 +34,7 @@ Vasubandhu; objector on origination; `apare` (entourage); initial
 never-arise answer; pūrvācāryāḥ; Vaibhāṣikas refuse. Not silently labeled
 Sautrāntika.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Therefore that conventional knowledge is called belonging to the end of
 > direct realization — because it is cultivated at the end of the direct

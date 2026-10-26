@@ -32,7 +32,7 @@ nāsty asya nityatvam.
 Kena punaḥ krameṇaitāḥ saṃvartanyo bhavanti? Nirantaraṃ tāvat—
 ```
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 It is not eternal together with the being, because that being's celestial
 abode arises and passes away. The fourth dhyāna is not connected to one
 continuous plane. What, then, is it? It consists of locations separated from

@@ -13,7 +13,7 @@
 The Bhāṣya completes the distribution by adding uncontaminated Cognition as
 neither initiating nor accompanying. The kārikā study is `VAK_4.11.md`.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 tatra ca:
@@ -52,7 +52,7 @@ are editorial. The e-text alternates `pravartaka` and `pravarttaka`; its
 compressed exchange about the path classification of produced Form is not
 silently regularized.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Cognition abandoned by seeing is initiating.” A consciousness abandoned by
 seeing initiates manifestation because it is the causal basis for the

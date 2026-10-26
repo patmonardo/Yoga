@@ -11,7 +11,7 @@
 > are classed with sentient beings, are homogeneous outflows, and are
 > indeterminate. Likewise [the classification continues in the next verse].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > nāmakāyādayaḥ katame /
 > nāmakāyādayaḥ saṃjñāvākyākṣarasamuktayaḥ /
@@ -83,7 +83,7 @@ from 80.12 through 82.08. Its spelling and damaged readings are retained.
 The `tathā` at 82.08 leads into 2.48 at 82.09; no subject is
 supplied for it here.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What are the groups of names and the rest? Collections of
 designation, sentence, and syllable. “And the rest” includes

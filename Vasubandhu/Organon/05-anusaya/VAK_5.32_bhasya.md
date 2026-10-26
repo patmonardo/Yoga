@@ -57,7 +57,7 @@ above are editorial. The source's `avidyāyyogāt` and
 `ityevmādi` are retained; their intended readings are
 recoverable in context but not silently repaired.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 If a citta is called `sānuśaya` through certain anuśayas,
 do those anuśayas actually adhere in it? Some do: those

@@ -53,7 +53,7 @@ uses the normalized forms `pratyekabuddha`,
 uses `bhavann asau` as a grammatical repair of `bhavanntasau`. These forms
 have not been independently collated here against the printed editions.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Wishing to compose a treatise and to make known the greatness of his own
 > teacher, he begins his homage to him, preceded by a declaration of

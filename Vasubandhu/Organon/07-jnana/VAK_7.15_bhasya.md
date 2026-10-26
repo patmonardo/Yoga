@@ -26,7 +26,7 @@ Kārikā study: [`VAK_7.15.md`](./VAK_7.15.md).
 `dharmākhyam`; remainder gloss damaged. Working sense of `anyat`: excluding
 paracitta and dharma-knowledge. Voice: Vasubandhu. No opponent.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Knowledge of another mind [occurs] in the four dhyānas only, nowhere else.
 >

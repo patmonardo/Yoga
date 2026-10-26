@@ -89,7 +89,7 @@ line breaks editorial. The next question begins at [372|01].
 Source irregularities such as `prartitatvāt` and `triparirtaṃ` remain
 as transmitted.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The same śrāmaṇya is called brāhmaṇya and the Brahma-wheel. It is
 brāhmaṇya because it carries away afflictions. The Blessed One is

@@ -67,7 +67,7 @@ effort, but its exact qualifier requires collation. The earlier research
 witness silently normalizes these damaged readings. The running source
 remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 This twelve-member *samutpāda* is further to be understood as having three
 functional natures: affliction, karma, and Vastu.
 

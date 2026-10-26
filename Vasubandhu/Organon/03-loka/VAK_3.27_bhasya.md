@@ -59,7 +59,7 @@ affliction-from-Vastu. Here Vastu means Thing or basis in its support-
 function, not a cognitive Condition or Object. The running source remains
 unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 An objection arises. If *samutpāda* consists of precisely twelve members,
 then, because no cause of Ignorance is taught, Saṃsāra would have a
 beginning; and because no result of Aging-and-Death is taught, it would have

@@ -35,7 +35,7 @@ The running witness has the evident mechanical form `antaradbvīpā`, here
 regularized to `antaradvīpā`. The eight proper names are otherwise retained
 in their local witness forms pending critical comparison.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 In the spaces between those continents, intermediate islands have come into
 formation. Which are they, and how many are there? The answer is: Deha,
 Videha, Kuru, Kaurava, Cāmara, Avara, Gāṭha, and Uttaramantriṇa are their

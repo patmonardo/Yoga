@@ -14,7 +14,7 @@
 Bhāṣya. The commentary introduces four grounds of ethical predication; this
 verse determines the first two. The kārikā study is `VAK_4.08.md`.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kāme 'pi nivṛtā nāsti.
@@ -65,7 +65,7 @@ describes Mahābrahmā's act as bodily action, while the
 describe speech and self-praise; the exact form of the anecdotal act remains
 uncertain.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Even in the desire realm, obscured-indeterminate manifestation does not
 exist.” It exists only in Brahmaloka. A bodily action arising from deceit is

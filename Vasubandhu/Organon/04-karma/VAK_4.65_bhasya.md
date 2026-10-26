@@ -12,7 +12,7 @@
 The second half widens `manoduścarita` beyond mental karma as
 strictly identified with `cetanā`.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 trīṇi duścaritānyuktāni / tatra
@@ -45,7 +45,7 @@ conflating the witnesses. Line breaks, punctuation, and verse
 numbering are editorial. The next half-verse, `viparyayāt
 sucaritam`, begins the 4.66 unit at [237|23].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Three kinds of bad conduct have been stated. In this connection:
 “Unwholesome bodily action and the rest are held to be the three

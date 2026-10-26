@@ -58,7 +58,7 @@ are editorial. The forms `poratisaṃyuktau`, `tuṣṭacyātmakās`, and
 `jsaṃtuṣṭisvabhāvāḥ` remain as transmitted; the English follows the locally
 explicit argument. The next question at [336|13] opens 6.08.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 By reversal of discontent and great desire, their two counterforces are to be
 understood: contentment and fewness of desires. These two occur in all three

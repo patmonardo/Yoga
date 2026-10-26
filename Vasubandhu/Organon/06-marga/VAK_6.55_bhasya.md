@@ -58,7 +58,7 @@ breaks editorial. The next discussion begins at [372|16]. The prose
 form `saṃgenā` remains as transmitted beside the explicit `asaṃvega`
 and `saṃvijante` context.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 In which realm are how many fruits of śrāmaṇya attained? The first
 three are attained in the desire realm alone. The final fruit,

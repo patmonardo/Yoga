@@ -10,7 +10,7 @@
 > in that order, from the causes left after excluding the maturation
 > cause, the pervasive cause, both, and both plus the homogeneous cause.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > tatra katame dharmāḥ katibhiḥ hetubhirutpadyanta ityāha samāsata ime caturvidhā dharmāstadyathā kliṣṭā dharmā vipākajāḥ prathamānāsravāstebhyaśca śeṣāḥ /
 > ke punaḥ śeṣāḥ /
@@ -29,7 +29,7 @@ begins at 97.26 and is included with the cross-verse anchor of
 2.61. Source spellings, including `hetvā` and `caturbhryo`,
 are retained.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Which dharmas arise from how many causes? In summary they are of
 four kinds: afflicted, maturation-born, first dharmas without

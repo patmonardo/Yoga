@@ -33,7 +33,7 @@ This unit runs [308|08–13] in
 [308|14–15] begins the remaining explanations in 5.40.
 Word division and punctuation are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Now, what does *anuśaya* mean, and what do the terms through
 *upādāna* mean? “These are subtle and accompany; they also

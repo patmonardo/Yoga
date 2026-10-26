@@ -38,7 +38,7 @@ suggests associated and independent ignorance, but the exact
 wording requires comparison with another witness. The research
 excerpt repeats the same damaged sequence.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Of the ninety-eight anuśayas, how many take a support with outflows
 and how many a support without outflows? The verse identifies

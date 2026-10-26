@@ -31,7 +31,7 @@ are editorial. The running verse has `ānatyduḥkhataḥ`, where the separate
 kārikā reads `ānityaduḥkhataḥ`; the prose has `anityataḥ`. The first statement
 about Heat at [343|10] opens 6.17.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Having thus cultivated the establishments of recollection with body and the
 other fields as their cognitive Conditions, the practitioner is established

@@ -14,7 +14,7 @@ This is the Bhāṣya-informed study translation in `VAK_4.16.md`. The
 commentary unit runs from [207|07] through [207|21]; the next question
 begins at [207|22] and belongs to 4.17.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 sa eṣa prātimokṣasaṃvaraḥ.
@@ -49,7 +49,7 @@ reads *prātimokṣakiyāpathaḥ*; the Kārikā witness reads
 segmentation. The witness's *kṣaṇeṣui* at [207|20–21] is normalized
 above as *kṣaṇeṣu*.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 This is *prātimokṣa* restraint.
 

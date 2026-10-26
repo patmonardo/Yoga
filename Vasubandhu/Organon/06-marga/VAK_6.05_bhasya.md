@@ -75,7 +75,7 @@ are editorial. Forms such as `udgṛhlātyarthaṃ`, `śruṇeni`, `siddhacyatī
 `samādhijjo`, and `gāyaḥ` remain as transmitted. The next question at
 [335|08] opens 6.06.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The truths have been stated. How does seeing of them occur? That must be said,
 beginning from the first preparation.

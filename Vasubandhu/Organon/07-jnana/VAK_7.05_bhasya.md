@@ -45,7 +45,7 @@ Practitioner-rank sentences are corrupt (`dṛṣṭiprāptāsamayavimuktārga`,
 restored. Voice: Vasubandhu. The vajropama question belongs to the 7.04
 continuation, not to a paracitta debate.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > When exhaustion-knowledge and non-arising-knowledge first arise, they are
 > suffering- and origination-anvaya-knowledges, because they take the

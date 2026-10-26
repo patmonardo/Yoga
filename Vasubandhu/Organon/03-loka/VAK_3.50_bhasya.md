@@ -73,7 +73,7 @@ and sandhi. `Ṣoḍaśa yojanaśatasahasram`, sixteen hundred-thousands, is
 supplied from the explicit 80,000 + 80,000 calculation; the witness's exact
 reading must be checked rather than treated as critically settled.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Meru is made of four precious substances. Its four faces are made,
 respectively, of gold, silver, vaidūrya, and crystal. Whatever substance a
 face of Sumeru is made of, through that face's efficacy the sky in its

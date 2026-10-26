@@ -12,7 +12,7 @@
 The second half announces a sūtra classification whose terms and
 allocation are supplied across 4.59–4.60.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 punastrayo vaṅkā uktāḥ sūtre / kāyavaṅkok vāgvaṅko manovaṅkaḥ /
@@ -46,7 +46,7 @@ above rather than silently normalized. Verse numbering, line breaks,
 and quotation marks are editorial. The allocation of the four
 classes starts with 4.60 at [235|04].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Again, a sūtra speaks of three crooked actions: crookedness of body,
 speech, and mind; three faults: faults of body, speech, and mind; and

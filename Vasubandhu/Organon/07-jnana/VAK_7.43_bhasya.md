@@ -30,7 +30,7 @@ Kārikā study: [`VAK_7.43.md`](./VAK_7.43.md).
 **Witness.** Pradhan 421|13–422|14. Prose `caturthadhyānabhūmikāḥ` vs verse
 `dhyānacatuṣṭaye` — verse controls four dhyānas. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Leaving aside other-mind and influx-exhaustion higher knowledges, four are
 > conventional knowledge. Other-mind: five — dharma, anvaya, path, conventional,

@@ -54,7 +54,7 @@ compressed; its precise quantifier force needs comparison rather
 than expansion into a claim that every object is apprehended in
 one simultaneous cognition.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Of these ninety-eight anuśayas, how many range universally and
 how many do not? The verse identifies the views abandoned through

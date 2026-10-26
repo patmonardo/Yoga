@@ -13,7 +13,7 @@ Here “support” renders *ādhāra*, the sustaining role argued over in
 the Bhāṣya; it is not the technical Support (*ālambana*) or Basis
 (*āśraya*).
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > jīvitaṃ katamat /
 > āyurjīvitam
@@ -139,7 +139,7 @@ protected-life names. The English marks uncertain construals
 rather than claiming a Sanskrit collation. The secondary-mark
 question at 76.10 begins 2.46.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What is life? Lifespan. For the Abhidharma says, “What is the
 Life Faculty? Lifespan of the three Realms.” But this still does

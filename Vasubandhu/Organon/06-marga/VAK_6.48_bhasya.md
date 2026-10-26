@@ -47,7 +47,7 @@ This is the complete running unit [367|15]–[368|07] in
 line breaks editorial. The next verse begins at [368|08]. Uneven
 spacing and compounds remain as transmitted.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 In conquering three grounds, the last liberation Path can arise from
 a fundamental dhyāna or from its preliminary concentration. There

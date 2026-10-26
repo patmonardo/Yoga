@@ -10,7 +10,7 @@
 > Cognition, however, a Visible Form is of a higher, lower, or the same
 > plane; and relative to the Body, so are both.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > atha yatra kāye sthitaś cakṣuṣā rūpāṇi paśyati kiṃ tāni kāya-cakṣū-rūpa-vijñānāny eka-bhūmikāny eva bhavanty āhosvid anya-bhūmikāny api /
 >
@@ -72,7 +72,7 @@
 
 Word division is editorial. This unit runs from [035|01] through [036|03] in the local source. The example at [035|04–05] juxtaposes “his own Visible Forms” and “first-dhyāna Forms” in a damaged construction; no plane assignment is silently supplied. The five-plane and two-plane constraints at [035|19–20] are included here because they explain the cases. The extension to hearing begins at [036|04] in 1.47.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > When someone situated in a Body sees Visible Forms with an Eye, must Body, Eye, Visible Form, and Eye-Cognition all belong to one plane? The answer is that their planes can differ.
 >

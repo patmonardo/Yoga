@@ -31,7 +31,7 @@ Kārikā study: [`VAK_7.31.md`](./VAK_7.31.md).
 alternative series; derived form); Bhadanta (boundless body). `Uktāni balāni`
 closes the powers before 7.32.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > In the body, the Buddha's strength is described as Nārāyaṇa-strength.
 > Others: Nārāyaṇa-strength in each joint.

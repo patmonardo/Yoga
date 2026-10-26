@@ -25,7 +25,7 @@ Kārikā study: [`VAK_8.13.md`](./VAK_8.13.md).
 
 **Witness.** Pradhan 442|07–18. Voices: objector; Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > If in the second and higher the three knowledge-bodies are not found, and
 > vitarka and vicāra are not, how do they see, even to touching, and how do they

@@ -87,7 +87,7 @@ breaks are editorial. The forms `va4itvalābha`, `ikābhisamaya`,
 `pūrvābhisayaya`, and `ṣoḍhaśacittako` remain as transmitted; their
 precise readings await collation. The next discussion begins at [352|12].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 By the sequence just set out, direct realization of the Truths comprises
 sixteen moments of consciousness. Other schools speak of a single direct

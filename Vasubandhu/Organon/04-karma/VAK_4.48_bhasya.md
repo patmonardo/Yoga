@@ -13,7 +13,7 @@ The unit begins at [228|14]. The Bhāṣya continues beyond the
 research witness's endpoint [229|03], explaining `vedanīya` through
 [229|07]. `Api ca` at [229|07] opens the fivefold analysis of 4.49.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 adho 'pi madhyam asty eke /
@@ -63,7 +63,7 @@ difficult `tatkukśalam` and a compressed passage around
 `sukhavedanoyaṃ ... snānīyakapāyavat`; these are preserved rather
 than given silent doctrinal repairs.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Some hold that the middle class exists even below.” Others say
 that the middle karma just mentioned, karma to be experienced as

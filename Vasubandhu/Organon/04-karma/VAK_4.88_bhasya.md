@@ -13,7 +13,7 @@ The first half completes the classification begun in 4.87. The second begins
 a new matrix whose rows are the ethical qualities of action and whose columns
 are the ethical qualities of the resulting dharmas.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 anāsravaṃ punaḥ śeṣaṃ tribhir avyākṛtaṃ ca yat /
@@ -32,7 +32,7 @@ The witness reads `kuśalsya` at `[256|06–07]`, normalized above to
 `kuśalasya`. Its `strīṇi` at `[256|07–08]` is resolved by segmentation as
 `avyākṛtās trīṇi`, “indeterminate dharmas, three.”
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Action without Influx outside the Path of Abandonment possesses three results,
 with maturation and disconnection excluded. Indeterminate action likewise

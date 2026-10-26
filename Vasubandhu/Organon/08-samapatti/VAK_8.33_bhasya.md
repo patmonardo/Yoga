@@ -24,7 +24,7 @@ Kārikā study: [`VAK_8.33.md`](./VAK_8.33.md).
 **Witness.** Pradhan 455|20–456|09. Voices: Vasubandhu; apare. Closing summary
 compressed — not reconstructed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Cessation of perception and feeling is the eighth release — the cessation-
 > attainment already taught. Release: turning away from perception and feeling,

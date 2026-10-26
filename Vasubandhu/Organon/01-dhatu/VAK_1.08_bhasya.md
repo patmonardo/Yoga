@@ -11,7 +11,7 @@
 
 The Bhāṣya unit runs from `[005|08]` through `[005|20]` in the local Sanskrit source. The next question at `[005|21]` opens 1.09.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > ta eva punaḥ saṃskṛtā dharmāḥ /
 > ye sāsravā upādānaskandhās te /
@@ -36,7 +36,7 @@ The Bhāṣya unit runs from `[005|08]` through `[005|20]` in the local Sanskrit
 
 Compared with `Vasubandhu/Sources/kosabhasya.txt` at `[005|08]`–`[005|20]`. The local transcription reads `lakṣyata iti lokaḥ` at `[005|18–19]`; *lujyata* in the witness is an editorial reading supported by the breakdown gloss found in parallel transmission, not the local reading. It governs the translation “they dissolve”; retaining *lakṣyata* would require a different construal, such as “they are perceived.” The witness also repairs visibly damaged forms including `truṇatupāgnivat` to *tṛṇatuṣāgnivat*, `raṇsā` to *raṇā*, `stadanuśayitatvāt` to *tadanuśayitatvāt*, and `sāsravāṇasaṃ` to *sāsravāṇām*. These repairs have not been collated against a printed edition.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 These are the same Conditioned dharmas. Those which are Impure are the bases of appropriation.
 

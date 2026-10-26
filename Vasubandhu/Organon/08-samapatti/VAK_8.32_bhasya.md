@@ -26,7 +26,7 @@ Kārikā study: [`VAK_8.32.md`](./VAK_8.32.md).
 **Witness.** Pradhan 454|24–455|19. Voices: Vasubandhu; apare. Second canonical
 formula flagged: running text does not securely negate internal form-perception.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > First: possessed of form, one sees forms. Second: internally perceiving form,
 > one sees forms outside — formula under review. Third: having realized the

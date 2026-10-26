@@ -57,7 +57,7 @@ Forms including `ānupoūrvikaḥ`, `apūrvā`, and `nai` are retained as
 transmitted. The fifth-chapter colophon at [326|15–326|16] follows the
 closure and is noted below rather than absorbed into the argument.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Because their consolidation occurs through dispassion from a domain
 and attainment of a fruit. Two causes bring about the consolidation

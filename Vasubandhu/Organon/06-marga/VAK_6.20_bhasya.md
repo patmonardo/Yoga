@@ -65,7 +65,7 @@ breaks are editorial. The witness retains `apoi`, `vedhā`, `duḥkhamayaṃ`,
 `nordhva`, and the closing `taḥ` as transmitted; their exact readings await
 collation. The next unit starts at [346|17].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Thus the class conducive to penetration is fourfold”: these are the four
 wholesome roots, Heat, Summits, Acceptances, and the Highest Dharmas. The

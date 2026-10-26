@@ -9,7 +9,7 @@
 > discrimination. Those two are, respectively, unconcentrated mental
 > discriminative comprehension and all mental mindfulness.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > yadi pañca vijñānakāyāḥ savitarkāḥ savicārāḥ katham avikalpakā ity ucyante /
 >
@@ -36,7 +36,7 @@ The verse has *nirūpaṇa*; the prose has *abhinirūpaṇa*. Both are retained.
 The local *paścān nirdekṣyate* points forward to a later discussion of
 mental factors. The next question opens 1.34.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > If the five Cognition Principles are associated with vitarka and vicāra, how are they called without vikalpa?
 >

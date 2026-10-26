@@ -41,7 +41,7 @@ new question, and [367|15] begins 6.48. Source labels are removed and
 line breaks editorial. The first compound and `ardha prakāra` remain
 open for collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 As with a person partly freed from the summit of existence, or with
 someone reborn above a lower ground, there is no renewed possession.

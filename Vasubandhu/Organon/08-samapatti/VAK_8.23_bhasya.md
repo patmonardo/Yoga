@@ -23,7 +23,7 @@ Kārikā study: [`VAK_8.23.md`](./VAK_8.23.md).
 
 **Witness.** Pradhan 448|11–449|07. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > That intermediate dhyāna is threefold: savoring-associated, pure, and
 > uncontaminated. Neither pain nor pleasure means joined with the faculty of

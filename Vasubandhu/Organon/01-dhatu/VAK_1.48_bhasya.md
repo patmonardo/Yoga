@@ -9,7 +9,7 @@
 > Unconditioned dharmas are permanent. A portion of the Dharma Principle is
 > Faculty, and so are the twelve Principles taught as internal.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > idam idānīṃ vicāryate /
 >
@@ -57,7 +57,7 @@
 
 Word division is editorial. This unit runs from [036|21] through the chapter colophon at [037|18] in the local source. The source then gives a post-colophon verse and copying notice, followed by the opening of the Indriya chapter. Those are outside this Bhāṣya unit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > A new question is examined: among the eighteen Principles and six Cognitions, which Principle is knowable by which Cognition?
 >

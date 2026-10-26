@@ -94,7 +94,7 @@ Source labels are removed and line breaks are editorial. Forms including
 noun, and `karmajñānārthaṃ` remain as transmitted. Their precise readings
 await collation. The next unit begins at [350|12].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The liberation-conducive root is described as hearing-born and
 reflection-born, not cultivation-born. How many actions are involved?

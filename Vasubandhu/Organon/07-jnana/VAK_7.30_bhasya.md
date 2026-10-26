@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.30.md`](./VAK_7.30.md).
 **Witness.** Pradhan 412|10–413|03. Opening lemma damaged. Voices: Vasubandhu;
 Śāriputra examples abbreviated, not retold. Next: bodily strength.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Constitution has been stated; level is now stated.
 >

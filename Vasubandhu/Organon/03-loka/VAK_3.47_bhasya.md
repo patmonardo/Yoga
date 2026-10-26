@@ -26,7 +26,7 @@ Samānaṃ hy etad ubhayaṃ vistārataḥ.
 The running witness is mechanically clear in this brief unit. Punctuation
 and word division have been regularized without altering its substance.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 The water-and-gold maṇḍala measures transversely twelve hundred-thousand,
 three thousand, and four hundred fifty yojanas. For these two—the water
 maṇḍala and the golden maṇḍala—are equal in breadth.

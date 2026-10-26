@@ -39,7 +39,7 @@ has `pratipakṣānyām`, `hetūpacayoto`; study readings `pratipakṣābhyām`,
 left attached-or-not open. Voice: Vasubandhu reporting seven grounds (`kila`).
 No developed opponent.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > [The knowledges] are established as ten. Through seven grounds, it is said.
 >

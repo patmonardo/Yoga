@@ -13,7 +13,7 @@ This is the Bhāṣya-informed study translation in `VAK_4.13.md`. The source
 unit runs from [205|12] through [205|18]; the following verse opens the
 eightfold division of *prātimokṣa* restraint.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 sā tu pūrvoktā
@@ -38,7 +38,7 @@ Word division and punctuation are editorial. The running witness reads
 occurrence ([205|18]) leads into 4.14 and is omitted here to keep the natural
 unit boundary.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The non-disclosing continuity mentioned earlier is to be understood as
 threefold: restraint, non-restraint, and that which is other than those two.

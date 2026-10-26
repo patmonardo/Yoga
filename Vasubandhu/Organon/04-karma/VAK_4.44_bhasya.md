@@ -16,7 +16,7 @@ Bhāṣya unit is [226|25]–[227|03] in
 explicitly turns to karmas taught in the sūtras; that sentence
 opens the next study rather than extending this verse.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kāmarūpajadevānāṃ dhyānajaḥ
@@ -39,7 +39,7 @@ while the verse has `asaṃjñisattva-`; both readings remain visible.
 4.43. The prose, not the compact verse alone, fixes the final
 distinction between possession and present manifestation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Meditation-born [restraint occurs] among gods born in the desire
 and form realms.” Gods born in those two realms can have

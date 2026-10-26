@@ -16,7 +16,7 @@ The complete opening unit runs through [227|12–13]. The phrase
 `tatra tāvat` at [227|13] introduces the explanation of the
 merit triad taken up in 4.46.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 ataḥ param idānīṃ karmanirdeśādhikārāt sūtrīddiṣṭānāṃ
@@ -49,7 +49,7 @@ Kārikā witness reads `aniñjaṃ` and the explanatory prose has
 but the variation is not hidden. Other compressed forms in the
 source, including `kameti`, are left visible.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Now, in the course of the exposition of karma, the karmas named
 in the sūtras will be explained. There are three karmas:

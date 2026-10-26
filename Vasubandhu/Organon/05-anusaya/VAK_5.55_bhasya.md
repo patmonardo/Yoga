@@ -47,7 +47,7 @@ editorial. The running source has `sukhabhyāṃ` in the
 first fragment while the official Kārikā study prints
 `sukhābhyāṃ`; this difference remains for review.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Of the five feeling faculties beginning with pleasure,
 which can be conjoined with each kleśa or upakleśa?

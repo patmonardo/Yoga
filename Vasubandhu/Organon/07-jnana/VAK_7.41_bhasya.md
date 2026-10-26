@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.41.md`](./VAK_7.41.md).
 **Witness.** Pradhan 420|07–421|03. `Tatṣaḍivadhaṃ` unrestored. Voice:
 Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > That final-limit fourth dhyāna is sixfold in nature: araṇā, resolve-knowledge,
 > three pratisaṃvids. Nirukti-pratisaṃvid is acquired by its power, but it is

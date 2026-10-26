@@ -23,7 +23,7 @@ Kārikā study: [`VAK_7.54.md`](./VAK_7.54.md).
 **Witness.** Pradhan 429|04–15 for this verse. Opening question damaged. Voices:
 Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > For one entered into dhyāna, by application directed to sound and light, two
 > refined Form faculties come about from dhyāna-ground Great Elements, near the eye

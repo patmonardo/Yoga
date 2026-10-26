@@ -83,7 +83,7 @@ elided initial *a-* of *aśubhā* (“unattractive”). Other repairs include
 `tvbālambanam` to `tv ālambanam` at 147.21–22, and `āmadhātau` to
 `kāmadhātau` at 147.26. The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Why is the pleasure of the third dhyāna not included among Mental Rangings?
 At the outset, in the desire realm, there is no mental-level Pleasure
 Faculty; correspondingly, there is no distress-Ranging as its counterpart.

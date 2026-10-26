@@ -27,7 +27,7 @@ Kārikā study: [`VAK_8.12.md`](./VAK_8.12.md).
 
 **Witness.** Pradhan 441|19–442|06. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Are the feelings in dhyāna-attainment the same as those in dhyāna-rebirth?
 > No. What then?

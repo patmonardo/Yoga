@@ -33,7 +33,7 @@ The continuous text regularizes punctuation and numerical word division. The
 local witness reads `īśādhāraḥ`; that form is retained rather than silently
 replaced by the better-known `Īṣādhara` without critical comparison.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Reckoned all around, however, its measure is threefold. That is, when it is
 calculated all around by circumference, the measure becomes three times as
 great: thirty-six hundred-thousand, ten thousand, and three hundred fifty

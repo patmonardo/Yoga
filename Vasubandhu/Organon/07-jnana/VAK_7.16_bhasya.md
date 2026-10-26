@@ -30,7 +30,7 @@ Kārikā study: [`VAK_7.16.md`](./VAK_7.16.md).
 **Witness.** Pradhan 403|08–18. Devanāgarī witness `dharmadhīrgocaro`;
 IAST/prose `dharmadhīgocaraḥ` / `dharmajñānasya`. Voice: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The determination of levels and supports is complete. Inclusion under
 > the applications of mindfulness is to be stated.

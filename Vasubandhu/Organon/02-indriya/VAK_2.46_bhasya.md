@@ -10,7 +10,7 @@
 > primary marks operate on eight dharmas, the secondary on one. Arising
 > generates what is to be generated only with causes and Conditions.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > teṣāmapi nāma jātyādīnāṃ saṃskṛtatvādanyairjātyādibhirbhavitavyam /
 > bhavantyeva /
@@ -169,7 +169,7 @@ The witness follows `Sources/kosabhasya.txt` from 76.09–10 through
 80.11. Source spellings and damaged readings are retained; the
 translation flags uncertain construals. Verse 2.47 begins at 80.12.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Since arising and the other marks are conditioned, must they not
 have further arising and other marks? They do: arising-of-arising

@@ -45,7 +45,7 @@ Source labels are removed and line breaks editorial. The running
 verse reads `tyavate` where the study uses `tyakte`; the witness is
 preserved pending collation. The question at [367|11] begins 6.47.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Now, when an Ārya obtains dispassion by a mundane Path, two kinds of
 attainment of separation arise: mundane and supramundane. Some say that

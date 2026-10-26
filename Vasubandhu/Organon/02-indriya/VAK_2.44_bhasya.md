@@ -11,7 +11,7 @@
 > Both attainments arise with a Desire- or Form-Realm Basis.
 > The attainment called cessation is first produced among humans.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kiṃ bhagavato 'pi parāyogikī /
 > netyāha /
@@ -124,7 +124,7 @@ in the reciprocal-seed analogy. No
 independent collation or silent Sanskrit repair is claimed. The
 life inquiry at 73.14 begins 2.45.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Is it acquired through application even for the Blessed One?
 No: for the Sage it is acquired through awakening. Buddhas

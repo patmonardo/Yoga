@@ -23,7 +23,7 @@ Kārikā study: [`VAK_8.31.md`](./VAK_8.31.md).
 
 **Witness.** Pradhan 453|11–454|23. Voices: Vasubandhu; kecit / apare.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Sympathetic joy: first and second dhyāna — it is gladness. The other three: six
 > grounds — anāgamya, intermediate dhyāna, four dhyānas. Some drop anāgamya and

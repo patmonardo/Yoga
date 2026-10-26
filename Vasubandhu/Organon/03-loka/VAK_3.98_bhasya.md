@@ -24,7 +24,7 @@ Ato 'sya kṛtsnasyānarthaughasya dvau dharmau mūlayoniḥ: rasarāga ālasya�
 
 Punctuation and sandhi are lightly regularized.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 As these courses of action increased, human beings gradually declined in
 lifespan until people with ten-year lifespans appeared. The two root causes
 of this entire flood of misfortune are attachment to savor and laziness.

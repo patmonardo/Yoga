@@ -12,7 +12,7 @@
 > nineteen, excluding one sex Faculty and two stainless Faculties:
 > the Faculty of one who has known and either of the other two.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > atha yaḥ sarvabahubhir indriyaiḥ samanvāgataḥ sa kiyadbhiḥ /
 > bahubhir yukta ekānnaviṃśatyā 'malavarjitaiḥ /
@@ -36,7 +36,7 @@ long-vowel reading is editorial, not an independently collated variant.
 The prose explicitly resolves one sex Faculty and two uncontaminated
 Faculties. The next unit begins with the inquiry into co-arising at 52.19.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Now, how many faculties does someone possess who is endowed with the greatest number? Nineteen, excluding the three stainless, or uncontaminated, faculties. Who is this? A person with both sex characteristics whose faculties are otherwise complete; such a person possesses nineteen.
 

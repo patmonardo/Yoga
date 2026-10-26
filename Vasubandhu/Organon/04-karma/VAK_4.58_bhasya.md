@@ -12,7 +12,7 @@
 The last phrase follows the Bhāṣya's own expansion of the compressed
 `akurukāminām`; its exact word division deserves further review.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 yattarhi sattvānāṃ cittakṣepo bhavati / katamasminnasau citte
@@ -77,7 +77,7 @@ the fourfold distinction (`kṣiptaṃ tāvanna kṣiptaṃ vikṣiptacittasya`)
 These readings are retained, not silently repaired. The 4.59 inquiry
 begins at [234|19]. Line breaks and verse numbering are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 But when beings experience disturbance of mind, in which consciousness
 does it occur, and from what cause? “Disturbance of mind occurs in

@@ -5,7 +5,7 @@
 > caturdhā naratiryañco nārakā upapādukāḥ /
 > antarābhavadevāś ca pretā api jarāyujāḥ // 3.09 //
 
-> Humans and animals occur through four modes of birth; narakas,
+> Humans and animals occur through four modes of birth; hell-beings,
 > intermediate-existence beings, and devas are spontaneously arisen. Pretas
 > too are womb-born.
 
@@ -84,7 +84,7 @@ The segmentation of the moisture-born names, especially the sequence after
 `māndhātu`, is also tentative; the e-text does not securely establish every
 name printed below.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The question is raised: in which destiny are how many modes of birth found?
 
@@ -304,6 +304,11 @@ the distinction between the main purposive explanation and the reported relic
 explanation, together with the criticism of the latter. Several e-text forms,
 especially the sentence describing confidence in bodily relics, remain
 provisional and require a critical witness.
+
+The renewed check found no omitted continuous passage from 119.03 through
+120.05. The four birth-modes here follow the four-station discussion; `kevalam`
+belongs to the 3.07–3.08 hinge and limits the exclusion of Cognition from the
+fourfold station scheme, not the scope of the four modes of birth.
 
 This pass marked the uncertain segmentation of the moisture-born names and
 the conjectural confidence reading in the continuous translation. Neither

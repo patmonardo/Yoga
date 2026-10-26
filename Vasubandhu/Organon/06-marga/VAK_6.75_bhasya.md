@@ -43,7 +43,7 @@ aśaikṣādhimokṣaḥ saṃskṛtā vimuktiḥ /
 
 This is the complete running unit [387|14–15]–[388|05] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The opening `mārgaś ca`, `dravyatas tu dve śraddhā śīlaṃ ca`, and `nirmalāḥ` of the study's composite verse are witnessed immediately before this unit in the 6.74 Bhāṣya passage. The source spellings and sandhi in this unit are retained; 6.76 begins at [388|06].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The sūtra says that the trainee is endowed with eight factors and the one beyond training with ten. Why are right liberation and right Knowing not stated for the trainee? Liberation is not named a trainee factor because the trainee is still bound by afflictive bonds. How could liberation be established for one who remains bound? One freed from only a portion of bondage is not called liberated. And without liberation, how could Knowing of liberation be established? The one beyond training, having been wholly released from all afflictive bonds, is characterized by liberation and immediate Knowing of it; those designations are fitting for that person.
 

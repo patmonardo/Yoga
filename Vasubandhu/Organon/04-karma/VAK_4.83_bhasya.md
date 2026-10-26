@@ -14,7 +14,7 @@ The verse completes the regional distribution begun in 4.82. `Atra` carries
 forward Uttarakuru; `anyatra` then excludes both Uttarakuru and the hells
 from its general statement about the rest of the Desire Realm.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 saptamaḥ svayam apy atra
@@ -50,7 +50,7 @@ reading is printed above and the witness form is preserved here. The witness
 also has `bhriyanta` at `[253|08–09]`; `mriyante`, “they die,” is the secure
 contextual reading.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Here in Uttarakuru, the seventh Course of Action—disordered or frivolous
 afflicted speech—also occurs by present manifestation, for its inhabitants

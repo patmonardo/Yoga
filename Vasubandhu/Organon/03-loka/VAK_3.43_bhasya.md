@@ -91,7 +91,7 @@ weapon. These repairs require control against critical Sanskrit witnesses.
 The deva signs continue the unit at printed 157.06–157.11. Their two sets
 of five are kept separate in the witness and translation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Even there—that is, even in mental differentiated cognition—these two do not
 occur in concentrated consciousness or in a mindless state. “These two” means
 death and arising. A person does not die or arise in rebirth while the mind is

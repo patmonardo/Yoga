@@ -47,7 +47,7 @@ proper names. `Kiyatyaḥ` is understood contextually as asking the terraces'
 extent or dimensions; the following answer differentiates their vertical
 interval from their outward projection.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 What beings inhabit these celestial residences beginning with those of the
 sun?
 

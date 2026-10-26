@@ -61,7 +61,7 @@ verses, especially around `catuskandhā`, `asitāḥ`, and the closing flame
 description. The continuous text regularizes evident spacing and sandhi but
 does not silently reconstruct a critical sūtra text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Where are the hells located, and how large are they?
 
 Twenty thousand yojanas beneath this Jambūdvīpa lies Avīci, itself of that

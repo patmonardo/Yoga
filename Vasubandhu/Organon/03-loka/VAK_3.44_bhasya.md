@@ -54,7 +54,7 @@ the running witness. The transmitted etymological phrase explaining `ārya`
 is retained but remains philologically uncertain; its exact form and force
 require comparison with critical witnesses.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 This sentient world, arising, persisting, and passing away in this manner,
 was placed by the Blessed One into three groups.
 

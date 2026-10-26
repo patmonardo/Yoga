@@ -32,7 +32,7 @@ Kārikā study: [`VAK_7.17.md`](./VAK_7.17.md).
 **Witness.** Pradhan 403|16–404|10 for this table; 7.18 begins the ten
 classes. `Paracitajñāne` unrestored. Voice: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > For dharma-knowledge, nine knowledges are object-supports, except
 > anvaya-knowledge. For anvaya-knowledge also, nine, except dharma-knowledge.

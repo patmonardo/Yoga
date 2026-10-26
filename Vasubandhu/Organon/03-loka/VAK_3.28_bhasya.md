@@ -298,7 +298,7 @@ collation. The earlier research witness excerpts only the discussions at
 136.02–136.13 and 140.26–141.08; it omits most of this sustained argument.
 The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Another sūtra says that ignorance has unwise attention as its cause, and that
 unwise attention in turn has ignorance as its cause. Some say that unwise
 attention is already stated here because it is included within appropriation.

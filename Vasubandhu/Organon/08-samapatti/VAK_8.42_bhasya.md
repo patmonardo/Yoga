@@ -21,7 +21,7 @@ Kārikā study: [`VAK_8.42.md`](./VAK_8.42.md).
 
 **Witness.** Pradhan 460|07–11. Voice: Vasubandhu. Verse carries the argument.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Then, when the Self-Arisen had gone to supreme peace, and when those who bore
 > the burden of his teaching had also gone, the world without a protector: here

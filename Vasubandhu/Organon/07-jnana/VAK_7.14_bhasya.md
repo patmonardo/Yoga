@@ -34,7 +34,7 @@ Kārikā study: [`VAK_7.14.md`](./VAK_7.14.md).
 **Witness.** Pradhan 402|06–18. Forms `bhavatvāt`, `kāmadhātī`, `punr`
 unrestored. Voice: Vasubandhu. No opponent.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Conventional knowledge is “the first” because it stands first in the verse.
 > It is threefold: wholesome, unwholesome, and indeterminate. The other nine

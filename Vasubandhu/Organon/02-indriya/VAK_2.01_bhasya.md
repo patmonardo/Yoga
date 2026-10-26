@@ -11,7 +11,7 @@
 > respect to two each. The five feeling Faculties govern defilement; the
 > eight beginning with faith govern purification.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > uktānīndriyāṇi / kaḥ punar indriyārthaḥ / "idi paramaiśvarye" /
 > tasya indantīti indriyāṇi / ata ādhipatyārtha indriyārthaḥ /
@@ -58,7 +58,7 @@ Word division and punctuation are editorial. Mechanical repairs include arthev �
 
 Three places require more than mechanical correction. The difficult tadviprayuktavikalpānām is retained; its internal construal remains provisional. The life-faculty's saṃbandhasādhāraṇayoḥ is retained; connection and maintenance is the working interpretation, and the second member is not secure. The damaged duḥdhupaniṣacchraddhāṣaṇnaiṣkramyāśritāḥ is provisionally read as duḥkhopaniṣac chraddhā ṣaṇ naiṣkramyāśritāḥ: faith conditioned by suffering, followed by six renunciation-based states beginning with gladness. The compressed syntax does not securely establish how these examples connect. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The faculties have been stated. But what is the meaning of faculty? The verbal root idi is given in the sense of supreme lordship. From this, those that exercise lordship are called faculties. Thus the meaning of faculty is governing efficacy. Which of these has governing efficacy, and with respect to what?
 

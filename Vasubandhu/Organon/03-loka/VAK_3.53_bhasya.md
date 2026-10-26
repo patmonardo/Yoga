@@ -41,7 +41,7 @@ reading rather than silently inserting a missing word; the conventional
 translation follows the clear metrical statement and marks the discrepancy
 for critical review.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 That outer great ocean measures three hundred-thousand plus twenty-two
 thousand yojanas in breadth. In it are four continents, situated on the four
 sides of Sumeru.

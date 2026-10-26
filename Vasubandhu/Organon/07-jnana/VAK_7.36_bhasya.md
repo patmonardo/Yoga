@@ -30,7 +30,7 @@ Kārikā study: [`VAK_7.36.md`](./VAK_7.36.md).
 **Witness.** Pradhan 417|02–18. `Bhena` and compressed purpose-clause unrestored.
 Voice: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > A certain arhat, knowing beings' suffering as born of afflictions and himself
 > a distinguished recipient of offerings, wishing to avoid afflictions arising

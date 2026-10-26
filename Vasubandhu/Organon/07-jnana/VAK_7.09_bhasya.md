@@ -31,7 +31,7 @@ sense: complete dharma-knowledge as complete desire-domain counteraction —
 not each event abandoning every desire-domain affliction at once. Voice:
 Vasubandhu. No opponent.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Because of being the complete counteragent of the complete [desire domain],
 > dharma-knowledge was said to be the counteragent to the desire domain.

@@ -38,7 +38,7 @@ Word division and punctuation are editorial. The e-text's
 `prāk caturāyatanotpādād iti`. The source's `sā 'vasthā` is joined by
 ordinary word division. The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 > Before the arising of the six Essences.
 
 The stage after junction consciousness and before the six Essences have

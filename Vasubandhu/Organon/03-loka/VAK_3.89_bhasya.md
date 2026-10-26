@@ -52,7 +52,7 @@ Spacing and sandhi are regularized. The mnemonic verse on the placement of
 the `ūnarātra` is translated cautiously: its wording is compressed, while
 the prose explicitly states that six such nights are omitted in a year.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Thirty lavas make one muhūrta; thirty muhūrtas make one day-and-night. The
 night is sometimes longer, sometimes shorter, and sometimes equal [to the
 day]. Thirty day-and-nights make one month.

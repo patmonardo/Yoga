@@ -29,7 +29,7 @@ Kārikā study: [`VAK_7.49.md`](./VAK_7.49.md).
 **Witness.** Pradhan 425|18–426|11. `Dvacyāyātanaṃ nirmiṇotīty apare` unrestored.
 Voices: Vasubandhu; `apare` alternative.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Desire-domain construction has the nature of the visible-form, taste, smell,
 > and tangible fields. It is twofold: connected with one's own body or another

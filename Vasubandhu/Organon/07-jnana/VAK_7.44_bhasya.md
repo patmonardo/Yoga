@@ -30,7 +30,7 @@ Kārikā study: [`VAK_7.44.md`](./VAK_7.44.md).
 **Witness.** Pradhan 422|15–423|09. Final pāda unrestored. Voices: Vasubandhu;
 objection from sūtra wording.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The ground on which the ṛiddhi-abhijñā is: to that ground one goes by it,
 > or creates, or a lower — not a higher. So divine hearing: own-ground or lower

@@ -14,7 +14,7 @@ The Bhāṣya articulates the bodily and verbal course as preparation
 (`pṛṣṭha`). It then asks how these phases are related to manifestation,
 result, other courses, and the three unwholesome roots.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 sāmantakāstu vijñaptiḥ
@@ -201,7 +201,7 @@ inside the cited examples. They have not been silently repaired. The first
 half of VAK 4.69 begins at `[241|20]` with the question concerning the
 three roots of covetousness and the other mental courses.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “The proximate actions are manifest action.” The actions proximate to a
 course of karma necessarily have manifest action as their nature.

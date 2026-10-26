@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.22.md`](./VAK_7.22.md).
 **Witness.** Pradhan 407|18–408|07. `Purāgatāni` doubtful in a future-
 cultivation context; not used as a technical foundation. Voice: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > “Are cultivated” continues.
 >

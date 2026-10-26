@@ -45,7 +45,7 @@ kiṃ kāraṇam /
 
 This is the complete running unit [378|20]–[379|12] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The first kārikā fragment reads `dṛṣṭacyāptatāyāmekaikaḥ`; the study normalizes the verse using the prose's explicit `dṛṣṭiprāptāyāṃ`. The causal `yataḥ` marks a continuation rather than a complete explanation within this unit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 When the seeing-attained condition is being entered, there is just one uninterrupted Path and one liberation Path. The preparatory Path is one in every case. All of those uninterrupted and liberation Paths are uncontaminated: noble persons do not change their faculties by means of a contaminated Path.
 

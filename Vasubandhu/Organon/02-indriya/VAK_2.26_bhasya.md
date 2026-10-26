@@ -10,7 +10,7 @@
 > agitation are always present in afflicted consciousness; shamelessness and
 > lack of moral caution are always present in unwholesome consciousness.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > mahatī bhūmir mahābhūmiḥ /
 > kleśā mahābhūmir eṣāṃ ta ime kleśamahābhūmikā ye dharmāḥ sadaiva kliṣṭe cetasi bhavanti /
@@ -68,7 +68,7 @@ anyacetaso in the source are construed in the non-delusion parallel
 and distraction dissent respectively. No independent collation is
 claimed. Limited affliction at 57.04 begins 2.27.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 An extensive ground is a great ground. The affliction great-ground factors are the dharmas that always occur in afflicted consciousness. Which are they? Delusion, heedlessness, laziness, lack of faith, sluggishness, and agitation. Delusion is ignorance: not knowing, a lack of clear comprehension. Heedlessness is failure to cultivate wholesome dharmas, the opposite of heedfulness. Laziness is a lack of energetic arousal in consciousness, the opposite of vigor. Lack of faith is a lack of clarity in consciousness, the opposite of faith. Sluggishness is heaviness and unworkability of body and consciousness. The Abhidharma speaks of bodily and mental sluggishness. How can a mental factor be called bodily? In the same way as bodily feeling. Agitation is the failure of consciousness to become settled. These are the six affliction great-ground factors.
 

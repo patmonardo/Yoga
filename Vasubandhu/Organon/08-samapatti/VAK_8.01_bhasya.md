@@ -37,7 +37,7 @@ Kārikā study: [`VAK_8.01.md`](./VAK_8.01.md).
 line. Voices: Vasubandhu; objector (minds themselves? every mind? every samādhi?);
 `apare`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Under the heading of knowledge the knowledge-qualities were set out. Now the
 > dhyānas are begun, because they are the support of all qualities. In summary

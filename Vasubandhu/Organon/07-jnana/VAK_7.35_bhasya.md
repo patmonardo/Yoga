@@ -24,7 +24,7 @@ Kārikā study: [`VAK_7.35.md`](./VAK_7.35.md).
 **Witness.** Pradhan 416|17–417|02. Long compound compressed. Araṇā
 introduction 417|02–05 belongs to 7.36's determination. Voice: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > These, then, are called the eighteen distinctive qualities of the Buddhas.
 >

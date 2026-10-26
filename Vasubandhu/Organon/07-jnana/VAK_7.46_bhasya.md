@@ -26,7 +26,7 @@ Kārikā study: [`VAK_7.46.md`](./VAK_7.46.md).
 **Witness.** Pradhan 423|20–424|07. `Tadāsye`, `śaikṣsya` unrestored. Voices:
 Vasubandhu; objector (why not learner-vidyās?).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Of these, in the strict sense, only direct realization of influx-exhaustion
 > is the beyond-training vidyā. The other two are called beyond-training because

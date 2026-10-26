@@ -10,7 +10,7 @@
 > comprehension, mindfulness, attention, resolution, and concentration are
 > all present together in every moment of consciousness.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > ke punaḥ sarvatra cetasi /
 > vedanā cetanā saṃjñā cchandaḥ sparśo matiḥ smṛtiḥ /
@@ -41,7 +41,7 @@ damaged. Take-up of the Condition's distinguishing mark is a
 contextual construal as viṣayanimitta-udgraha, not a collated repair.
 The wholesome-class introduction at 55.02–03 belongs to 2.25.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Which factors occur in every consciousness? Feeling, volition, reflection, wish to perform, contact, discriminative comprehension, mindfulness, attention, resolution, and concentration. These ten dharmas, it is said, are present together in every moment of consciousness. Feeling is threefold experience: pleasant, painful, or neither painful nor pleasant. Volition is the formative activity of consciousness, mental action. Reflection is recognition, the taking up of the Condition's distinguishing mark [a provisional reading of the damaged gloss]. Wish to perform is the wish to act. Contact is the touching born from the conjunction of Faculty, Condition, and Cognition. Discriminative comprehension is the examination of dharmas. Mindfulness is not losing the Support. Attention is the application of consciousness; resolution is settling upon; concentration is the one-pointedness of consciousness.
 

@@ -78,7 +78,7 @@ present reading follows the fourfold explanation, but remains a marked
 repair. `kuṇḍayamūla` is also uncertain and has provisionally been read as
 `kuḍyamūla`. The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Concerning the statement “with inverted understanding, it goes”: must every
 intermediate being necessarily enter its mother's womb in that way? No, he

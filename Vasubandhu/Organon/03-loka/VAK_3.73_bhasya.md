@@ -49,7 +49,7 @@ The question asks about the middle and great thousandfold systems as well,
 but this study stops after the definition of the small system. Their
 definitions follow with VAK 3.74.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Now, how large are these residences beginning with those of the Yāmas?
 
 Some say that the four extend as far as the summit of Sumeru. Others say that

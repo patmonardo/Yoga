@@ -10,7 +10,7 @@
 > the marks of mind, follow mind in time, result, and
 > ethical status, and related respects.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > ke punarete cittānuvarttino dharmāḥ /
 > caittā dvau saṃvarau teṣāṃ cetaso lakṣaṇāni ca /
@@ -65,7 +65,7 @@ from 83.25 through 85.07. The source has a malformed locator at
 `satkāyadṛṣṭekśca`, `sahabhvapi`, and `aṅdurasyotpattau`, are retained.
 The next question, about homogeneous cause, begins at 85.08.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Which dharmas follow mind? The mental factors, the two
 restraints, and their marks and the marks of mind. All the

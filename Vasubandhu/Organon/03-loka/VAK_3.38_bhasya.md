@@ -69,7 +69,7 @@ secure. The sūtra introduction at 152.09–10 has
 `abhisaṃbudhyākhyātaḥ` and `sarvasattvā`. These passages need collation;
 the running witness has not been altered.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Rebirth-becoming is defiled—necessarily so. By which affliction? By all the
 afflictions belonging to its own level. Whatever level the rebirth-becoming
 belongs to, its defilement concerns afflictions of that same level. The

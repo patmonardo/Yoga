@@ -42,7 +42,7 @@ The continuous text regularizes punctuation and evident sandhi. The simile
 rendering require critical comparison; it appears to compare Uttarakuru's
 square form to a platform or seat used for a particular function.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Godānīya measures seven and one-half thousand yojanas and is circular. To the
 west of here, on the western side of Sumeru, lies the continent
 Aparagodānīya. Its total measure is seven and one-half thousand yojanas. It

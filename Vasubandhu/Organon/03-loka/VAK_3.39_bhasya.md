@@ -63,7 +63,7 @@ in the pleasure clause at 153.01. The continuous text regularizes these
 provisionally. The examples of subtle nutriment, the scope of `niḥṣyanda`,
 and the difficult final compound in the verse require critical comparison.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Morsel nutriment is the first nutriment. It is gross and subtle. It is subtle
 for intermediate beings because they subsist upon odor; likewise for gods and
 beings of the first cosmic age, because they have no excretive residue and it

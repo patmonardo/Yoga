@@ -13,7 +13,7 @@ The prose specifies what the first half adds to 4.61: the ninth
 Desire Realm path concerns both the mixed class and the final
 remaining grade of black unwholesome karma.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 navame cetanā yā sā kṛṣṇaśuklakṣayāya ca /
@@ -41,7 +41,7 @@ the translation follows their contextual sense. Verse numbering,
 line breaks, and punctuation are editorial. Alternative teachers'
 views begin at [236|14] with 4.63.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Volition in the ninth [uninterrupted path] also serves to exhaust
 black-and-white karma.” Volition in the ninth uninterrupted path of

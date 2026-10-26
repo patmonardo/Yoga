@@ -1,4 +1,4 @@
-# VAK_3.06 Bhāṣya — Stations of Consciousness and Sentient Abodes
+# VAK_3.06 Bhāṣya — Stations of Cognition and Sentient Abodes
 
 ## 1. Kārikā Anchor
 
@@ -55,33 +55,33 @@ forms `catuteṃ`, `upadhātidatvāt`, `nāshi`, and the run-together
 `upaghātitatvāt`, `nāsti`, and `bhavāgre 'paṭupracāratvān na`. No critical
 text is claimed, and the running witness remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
-There are seven stations of consciousness.
+There are seven stations of Cognition.
 
-What here constitutes a station of consciousness? As appropriate
+What here constitutes a station of Cognition? As appropriate
 to the case, it is the five Bases or the four Bases connected with
 that state.
 
 Why is the remainder not a cognition-station? Because “the remainder
 possesses conditions that disrupt it.” What is the remainder? The bad
 destinies, the fourth dhyāna, and the peak of existence. Conditions that
-disrupt consciousness occur in these; for that very reason they
+disrupt Cognition occur in these; for that very reason they
 are not cognition-stations.
 
-What is the disruption by which consciousness is broken apart? In
+What is the disruption by which Cognition is broken apart? In
 the bad destinies, painful feeling is disruptive because of its injurious
 character. In the fourth dhyāna, the non-percipient condition and the
 attainment of non-perception are disruptive. At the peak of existence, the
 attainment of cessation is disruptive because it cuts the continuity of
-mind (`citta-santati`).
+Consciousness (`citta-santati`).
 
 Another explanation is given. A cognition-station is said to be a state to
 which those here wish to go and from which those already there do not wish to
 depart. In the bad destinies neither condition is present. In the fourth
 dhyāna, beings have unsettled intentions: ordinary persons wish to enter the
 non-percipient state, while noble ones wish to enter the Pure Abodes. At the
-peak of existence, consciousness does not operate vigorously.
+peak of existence, cognitive activity is not vigorous.
 Consequently these are not cognition-stations.
 
 These, then, are the seven cognition-stations described above. Together with
@@ -142,18 +142,20 @@ The excluded remainder comprises three different cases:
 | Excluded range | Disruptive condition | Bhāṣya's reason |
 |---|---|---|
 | bad destinies | painful feeling | its injurious character disrupts cognition |
-| fourth dhyāna | non-percipient condition and attainment | perception and cognitive continuity are suspended |
-| peak of existence | attainment of cessation | continuity of mind is cut |
+| fourth dhyāna | non-percipient condition and attainment | these disrupt the station of Cognition; the mechanism is not specified here |
+| peak of existence | attainment of cessation | continuity of Consciousness is cut |
 
-`Paribheda` is thus not one uniform event. Pain may injure cognition,
-non-perception may suspend its establishment, and cessation-attainment may
-interrupt its continuity. What unifies these cases is their incompatibility
+`Paribheda` is thus not one uniform event. Pain may injure Cognition; the
+non-percipient condition and attainment disrupt its station; and cessation-
+attainment is said to cut the continuity of Consciousness. What unifies these
+cases is their incompatibility
 with the kind of stable establishment designated by `vijñānasthiti`.
 
 The statement about the peak of existence must remain exact. The Bhāṣya does
 not say that cognition is simply absent there. It says that cessation-
-attainment can cut mind-continuity and, in the alternate account,
-that cognition operates weakly or without vigor there.
+attainment can cut the continuity of Consciousness and, in the alternate
+account, that cognitive activity lacks vigor there. Neither statement says
+that Consciousness itself is injured or diminished.
 
 ## 7. The Alternative Criterion of Inclination
 
@@ -182,21 +184,27 @@ without explicitly deriving one from the other.
 
 ## 8. The Bhāṣya's Decisions for the Kārikā
 
-`Vijñānasthiti` is rendered “station of consciousness” in the conventional
-translation, consistent with VAK 3.05. “Differentiated cognition” is an
-Organon gloss on `vijñāna`, not a modifier present in the Sanskrit. `Sthiti`
-is standing or establishment rather than the spatial `sthāna` of VAK 3.02.
+`Vijñānasthiti` is rendered “station of Cognition,” consistent with VAK 3.05
+and the controlled rendering of `vijñāna`. In the Organon determination,
+Cognition is a distinguishable factor within Consciousness: the
+`vijñāna-skandha` is the Cognition Base, while Consciousness as First
+Principle includes all five Bases. There is no separate “Consciousness Base.”
+The Bhāṣya's `vijñānaparibheda` concerns the disruption of Cognition's
+establishment.
+`Sthiti` is standing or
+establishment rather than the spatial `sthāna` of VAK 3.02.
 “Cognition-station” remains a short analytical label, not a physical place.
 
-`Tatparibhedavat` means possessing what disrupts differentiated cognition.
+`Tatparibhedavat` means possessing what disrupts Cognition.
 The Bhāṣya's question `kaḥ punaḥ paribhedo yena vijñānaṃ paribhidyate` makes
 the active force explicit. A rendering such as “the remainder has further
 subdivisions” would miss the entire explanation.
 
 At the peak of existence the Bhāṣya says `cittasantaticchedāt`, “because of
-cutting the continuity of mind.” The immediate argument concerns disruption
-of `vijñāna`, but its explanatory term is `citta`; the translation keeps that
-distinction visible.
+cutting the continuity of Consciousness.” The immediate argument concerns
+disruption of `vijñāna`, but its explanatory term is `citta`. Cutting a
+continuity is the source's claim; injury or reduction of Consciousness as
+such would be a further claim, not stated here.
 
 `Bhavāgra` is the peak of conditioned existence, not an absolute beyond the
 world-system. `Asaṃjñisattva` is rendered “non-percipient being” here because
@@ -218,7 +226,7 @@ sentient abode
     beings can dwell there
 
 cognition-station
-    differentiated cognition can take stable standing there
+    Cognition can take stable standing there
 ```
 
 This sharpens the body–perception matrix of VAK 3.05. A configuration of body
@@ -232,7 +240,7 @@ be distinguished. But those larger conclusions need not be developed during
 the present translation pass.
 
 The textual achievement is already precise: the Kośa distinguishes where
-beings dwell from where differentiated cognition stands. It thereby analyzes
+beings dwell from where Cognition stands. It thereby analyzes
 world not only as a distribution of inhabitants but as a field containing
 different conditions of cognitive stability.
 
@@ -249,9 +257,10 @@ existence, and records the e-text repairs rather than treating them as a
 critical text. The naming phrase shared with the preceding exposition is
 included without duplicating the VAK 3.05 analysis.
 
-This pass aligned the conventional rendering of `vijñānasthiti` with VAK
-3.05, kept `citta-santati` distinct from `vijñāna`, and marked the damaged
-`bhavāgra` sentence as an editorial repair.
+This pass aligned the rendering of `vijñānasthiti` with VAK 3.05, kept
+`citta-santati` distinct from `vijñāna`, and marked the damaged
+`bhavāgra` sentence as an editorial repair. A renewed comparison with every
+clause of the local 117.04–117.16 witness found no omitted continuous passage.
 
 The research witnesses, running source, existing Kārikā study, and preceding
 Bhāṣya Studies remain unchanged. VAK 3.07 begins with

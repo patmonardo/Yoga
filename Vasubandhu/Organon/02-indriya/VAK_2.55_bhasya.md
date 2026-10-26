@@ -11,7 +11,7 @@
 > Conditioned dharmas and disconnection count as fruits; an unconditioned
 > dharma has neither cause nor fruit.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > atha ka eṣāṃ hetūnāmadhvaniyamaḥ /
 > ukta eṣāmarthato 'dhvaniyamaḥ natu sūtrita ityataḥ sūtryate /
@@ -176,7 +176,7 @@ from 90.23 through 94.17. Its spellings, damaged readings, and
 arguments are retained. The next question, assigning fruits to
 causes, begins at 94.18.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What is the temporal range of these causes? It was explained in
 meaning but not yet formulated in a verse. The pervasive and

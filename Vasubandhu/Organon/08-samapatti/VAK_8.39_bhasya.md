@@ -25,7 +25,7 @@ Kārikā study: [`VAK_8.39.md`](./VAK_8.39.md).
 
 **Witness.** Pradhan 459|07–14. Voices: Vasubandhu; āhuḥ; apare.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > How long will this true Dharma remain — the one in which such varieties of
 > dharmas are discerned? The Teacher's true Dharma is twofold: transmission and

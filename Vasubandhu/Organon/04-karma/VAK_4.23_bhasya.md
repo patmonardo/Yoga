@@ -13,7 +13,7 @@ The running unit begins at [210|20] and ends at [211|01] in
 `Vasubandhu/Sources/kosabhasya.txt`. The preceding sentence closes
 the avijñapti discussion; the first half of 4.24 starts at [211|02].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 vijñaptyā tu punaḥ sarve kurvanto madhyayānvitāḥ.
@@ -37,7 +37,7 @@ and `ātyāgād` in the two following lines; the separate Kārikā
 witness prints `atyāgān` by sandhi before `nāsti`. These spellings
 are recorded without manufacturing a substantive disagreement.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Now, in turn, all who are acting are endowed with manifest action in
 the middle temporal mode.” All three classes—those established in

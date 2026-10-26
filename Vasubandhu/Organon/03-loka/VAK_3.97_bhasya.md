@@ -86,7 +86,7 @@ rewritten. The source's phrase `ālasyāt saṃnidhiṃ kṛtvā sāgrahaiḥ k�
 bhṛtaḥ` is compressed and its relation to the prose is uncertain; it is
 retained above. Some sandhi and obvious spelling variants are regularized.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Is the possession of a wheel the only distinction between Cakravartins and
 other kings? There is another: they possess the thirty-two marks of a great
 person, as Buddhas do. The Muni's marks are superior through their more exact

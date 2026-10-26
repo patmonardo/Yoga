@@ -9,7 +9,7 @@
 > three, and two results, respectively. For action belonging to neither of those
 > two classes, they have two, two, and five results, respectively.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 dharmāḥ śaikṣādikā ekaṃ phalaṃ trīṇy api ca dvayam /
@@ -30,7 +30,7 @@ The source unit is `[257|11]–[257|16]`. It supplies the continuation left
 open in 4.91, then states the result profile for action belonging to neither
 trainee nor beyond-training status.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 For action belonging to one beyond training, trainee dharmas are one result:
 the dominant result. Beyond-training dharmas are three results, excluding

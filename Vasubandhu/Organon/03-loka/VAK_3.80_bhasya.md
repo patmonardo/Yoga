@@ -54,7 +54,7 @@ The running source has `rātrindiva`/`rātrindivena` beside the kārikā's
 transmitted in a compressed list of signs for day-and-night; I retain it
 without forcing a more specific botanical or lunar interpretation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 For the higher devas, both measures double successively: the day-and-night
 measure and the lifespan. How so? One hundred human years make one
 day-and-night for the Trāyastriṃśa devas. By that day-and-night, their

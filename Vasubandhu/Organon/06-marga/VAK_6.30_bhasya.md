@@ -50,7 +50,7 @@ Other uneven forms, including `pratīpannakau`, `dvītīya`, and the
 spaced `tṛtīya pratīpannakau`, remain unregularized for collation.
 The next unit begins at [354|09].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Up to five grades destroyed”: if a mundane path previously abandoned
 as many as five grades among Desire Realm afflictions to be abandoned by

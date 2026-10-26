@@ -44,7 +44,7 @@ opens 5.17. Word division and punctuation are editorial.
 The e-text's `śīlavṛataparāmarśau`, `nirodhamāgauṃ`, and
 `śāntaśuddhayagrabhāvataḥ` remain visible as rough forms.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why are attachment, aversion, conceit, and the two forms of
 adherence not admitted as taking an uncontaminated support?

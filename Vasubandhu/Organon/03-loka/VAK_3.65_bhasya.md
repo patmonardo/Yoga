@@ -46,7 +46,7 @@ sentence, `pañcayojanaśatapramāṇāḥ` states the measure of the four peaks
 does not specify a separate dimension such as height or width; the translation
 therefore preserves “500-yojana measure.”
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 The Thirty-Three dwell on Meru's summit.
 
 Now, how large is Meru's summit?

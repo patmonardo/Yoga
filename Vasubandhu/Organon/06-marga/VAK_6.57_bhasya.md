@@ -73,7 +73,7 @@ line breaks editorial. The question at [374|09] begins 6.58.
 Source irregularities such as `akoopyadharmatāṃ` and `varihāṇadharmā`
 remain as transmitted.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Therefore the immovable arhat is called liberated independently of
 occasion. Liberation does not depend on a suitable occasion, since

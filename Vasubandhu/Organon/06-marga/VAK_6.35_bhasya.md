@@ -39,7 +39,7 @@ Source labels are removed and line breaks editorial. The verse's
 `dvitīyapratīpannakaḥ`, the prose's `ekaprakāroyāvat`, and
 `janmāghāvāt` remain as transmitted; they await collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 That same person, again established in a fruit, becomes a candidate for
 the second fruit by destroying up through the fifth grade. If any grade

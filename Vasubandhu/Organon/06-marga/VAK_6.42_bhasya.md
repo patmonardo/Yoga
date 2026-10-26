@@ -70,7 +70,7 @@ source has the anomalous label `[363|02-362|03]`; uneven forms such
 as `katamaddhacyānaṃ`, `niṣpatti`, and `pravāhāprahāsena` remain
 unrepaired in the witness.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Returning to the statement that a practitioner with intermingled
 dhyāna goes to Akaniṣṭha: which dhyāna is intermingled first? The

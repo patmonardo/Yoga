@@ -50,7 +50,7 @@ kārikā at the first locus and repairs the others as *cakṣurdhātuḥ*,
 “friend and enemy” would require a repair such as *mitrāmitra*, which is not
 adopted here. This is a working witness, not a critical text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Those already described as belonging to the Form Base—the Faculties and their
 meanings—are the very same ten accepted as Essences and Principles.

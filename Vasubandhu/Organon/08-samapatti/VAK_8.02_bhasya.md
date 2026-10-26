@@ -29,7 +29,7 @@ Kārikā study: [`VAK_8.02.md`](./VAK_8.02.md).
 
 **Witness.** Pradhan 433|15–434|10. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > First: wholesome one-pointedness joined with vicāra, joy, and ease. From saying
 > vicāra, vitarka too is stated — by concomitance, like smoke and fire.

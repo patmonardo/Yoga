@@ -25,7 +25,7 @@ Kārikā study: [`VAK_8.28.md`](./VAK_8.28.md).
 **Witness.** Pradhan 451|14–452|04. Voices: Vasubandhu. `Ataś caturbhya evāha`
 left compressed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Divine-eye superknowledge is cultivation for knowledge-and-seeing. All
 > application-born qualities — of the three domains and uncontaminated — are

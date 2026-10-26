@@ -50,7 +50,7 @@ compound are editorial. The running source reads `irṣyā`
 and `bhrakṣa` in that compound; these are preserved rather
 than silently normalized.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The other upakleśas included among the enveloping
 afflictions, beyond the five just discussed, are abandoned

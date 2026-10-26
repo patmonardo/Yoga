@@ -14,7 +14,7 @@ The complete running unit is [225|22]–[226|01–02] in
 beings can possess restraint or non-restraint at [226|03] opens
 4.43.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kāmāptaṃ kuśalārūpaṃ mūlacchedordhvajanmataḥ /
@@ -37,7 +37,7 @@ non-Form by nature. It does not denote the Formless Realm
 classifies as Form (`rūpa`). The latter confusion in the
 earlier Kārikā interpretation is corrected here.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Wholesome non-Form dharma belonging to the desire realm is
 relinquished through severance of the roots or birth above.” A

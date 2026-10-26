@@ -10,7 +10,7 @@
 > beneficence and lack of inhibition. The remaining two obstructions occur in
 > the five destinies.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 athaiṣām āvaraṇānāṃ katamat kasyāṃ gatau veditavyam?
@@ -52,7 +52,7 @@ The complete unit is `[259|25]–[260|12–13]`. The witness reads
 editorial. The source's historical classifications are preserved as source
 terms, without mapping them to current identities.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Among these obstructions, where is each to be understood? First, the
 *ānantarya* actions are admitted in the three continents—not in Uttarakuru

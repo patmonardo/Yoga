@@ -29,7 +29,7 @@ Kārikā study: [`VAK_7.24.md`](./VAK_7.24.md).
 restored. `Pratipiddhatvāt` unrestored.
 Voices: Vasubandhu; `kecit`. No school name.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > In the liberation path of a trainee's faculty-strengthening: for one not
 > detached, cultivation of six — dharma, anvaya, suffering, origination,

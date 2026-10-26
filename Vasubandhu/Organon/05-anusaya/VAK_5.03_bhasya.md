@@ -42,7 +42,7 @@ contrast with the preceding five; no such negative has been silently
 inserted. The research excerpt supplies a corrected `rāgaḥ pratigho`
 but likewise preserves `yathā`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Again, these six anuśayas are made into ten in the Abhidharma. How?
 “The views are five: satkāya-view, false view, extreme-grasping view,

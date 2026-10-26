@@ -90,7 +90,7 @@ are retained above. The meanings of this term and `sāṃbandhika` remain
 dependent upon this compressed classification and require collation.
 The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 This *samutpāda* is said to be fourfold: momentary, progressive, connected,
 and stage-based. How is it momentary? All twelve members can occur even
 within one moment. Suppose, for example, that under the power of Greed one

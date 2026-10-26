@@ -237,7 +237,7 @@ line breaks editorial. The long school dispute belongs to this unit.
 The sūtra question at [377|13–16] begins 6.59. The witness is retained
 with its irregular forms for later collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 From what can these arhats fall: fruit or disposition? Four types,
 beginning with the volition-characterized type, may fall from a

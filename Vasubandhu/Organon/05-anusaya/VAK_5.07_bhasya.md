@@ -62,7 +62,7 @@ editorial. The running e-text's `paṇca`, `druvo`, `hīnā gra`,
 forms need witness comparison. At [282|13] a fresh question about
 viewing a genuine cause as cause begins the 5.08 argument.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The five views have been specified by name, but not by their own
 character. What is that character? The verse gives views concerning

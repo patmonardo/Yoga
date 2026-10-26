@@ -11,7 +11,7 @@
 > dharmas that follow it, each of the other; and the marks and what is
 > marked, each of the other.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > sahabhūrye mithaḥphalāḥ /
 > mithaḥ pāraṃparyeṇa ye dharmāḥ parasparaphalāste parasparaḥ sahabhūheturyathā /
@@ -28,7 +28,7 @@ from 83.18 through 83.24. The first clause of the 2.50 kārikā
 was quoted at 82.25 and explained with 2.49. The source reading
 `taṣām` and compressed word boundaries are retained.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Co-arisen [causes] are those that are one another's results.” The
 dharmas that are mutually results are co-arisen causes of one another.

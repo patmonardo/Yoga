@@ -51,7 +51,7 @@ clauses. The continuous text regularizes spacing, sandhi, and punctuation.
 lunar residence's conveyance or motion; the passage itself does not further
 analyze the compound.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 By what measure does night or day increase?
 
 The increases of night and day occur lava by lava. Night increases one lava

@@ -15,7 +15,7 @@ change of support can break principal completion. Across a coordinated
 group, unity of undertaking can extend the completed course beyond the
 immediate executor.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 yaḥ paraṃ maraṇānniyamayya samaṃ tena pūrvaṃ vā mriyate kimasya maulaḥ
@@ -58,7 +58,7 @@ well as a difficult quotation at `[242|26]–[243|02]`; they remain visible
 rather than receiving silent repairs. The inquiry into the defining marks
 of each individual course begins at `[243|12]` and leads into VAK 4.73.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Suppose someone arranges another person's death and then dies at the same
 time as that person or before them. Does the principal course of karma

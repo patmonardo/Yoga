@@ -8,7 +8,7 @@
 > That is held to be wheel-division in Jambūdvīpa with nine or more [monks];
 > division of communal action occurs in the three continents with eight or more.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 yo 'yaṃ saṃghabheda uktaḥ
@@ -52,7 +52,7 @@ the preceding sentence about reunion, and ends with the verse at
 the context identifies the names as `cakrabheda` and `saṃghabheda`.
 Word division and punctuation are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The Saṅgha division just described is held to be division of the Dharma
 Chakra. For the Blessed One's Dharma Chakra is then divided through

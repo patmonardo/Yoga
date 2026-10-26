@@ -87,7 +87,7 @@ The anchor copies the separate kārikā witness exactly. The running text's
 `dvyekatā` is glossed as `dvayor ekatā`; it also reads
 `skandhavidhāta` where the separate kārikā has `skandhavighāta`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The sūtra teaches five hindrances: sensual desire, ill will,
 torpor and sleepiness, restlessness and remorse, and doubt.

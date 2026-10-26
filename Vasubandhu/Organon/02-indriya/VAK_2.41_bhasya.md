@@ -10,7 +10,7 @@
 > non-reflective beings is cessation of consciousness and the mental
 > factors, a maturation. Those beings belong to the Great Fruit gods.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > atha keyaṃ sabhāgatā /
 > sabhāgatā sattvasāmyaṃ
@@ -77,7 +77,7 @@ question is damaged; the English reads it from the answer, without
 claiming a restored Sanskrit wording. The next attainment inquiry
 at 68.28 begins 2.42.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What is this same-class? Same-class is sameness among beings.
 Same-class is an entity, on the account being presented: resemblance

@@ -37,7 +37,7 @@ compressed `viṃśaṃ kṣaṇaśatam` as 120 moments. The next verse begins t
 application of the thirtyfold progression; its calculations are not imported
 here.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Eight krośas are said to make one yojana. The measure of the yojana has been
 stated; now the measure of the year is to be explained.
 

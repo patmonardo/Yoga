@@ -45,7 +45,7 @@ regularized. The wording `ekottareṇa dhātuśatena` is rendered as “one hund
 and one substances,” following the conventional parsing reflected in the
 study witness.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 And concerning the summit of Meru:
 
 At its center is a city named Sudarśana, 2,500 yojanas on each side and one

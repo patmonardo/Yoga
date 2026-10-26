@@ -23,7 +23,7 @@ Kārikā study: [`VAK_8.24.md`](./VAK_8.24.md).
 
 **Witness.** Pradhan 449|07–450|01. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Signless samādhi is joined with the four aspects of the truth of cessation.
 > Nirvāṇa is signless — free from ten signs — and the samādhi that takes it as

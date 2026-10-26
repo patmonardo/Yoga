@@ -57,7 +57,7 @@ forms remain visible. The research excerpt omits the quoted
 three-way higher-domain support formula and the explicit final
 instruction to supply the third and fourth corners.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The eleven anuśayas universally ranging within a corresponding
 domain have been stated. “Of these, nine have higher domains as

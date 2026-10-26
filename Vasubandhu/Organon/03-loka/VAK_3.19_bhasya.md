@@ -84,7 +84,7 @@ irregular forms in the medical passage. Among the provisional repairs are
 `sa krūrapurīṣapiṇḍa iva` at 130.08 remains especially uncertain. No claim to
 a critical Sanskrit text is made, and the running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 That continuum, “having developed in sequence according to its projection,
 goes again to another world through afflictions and karma.” The projection of

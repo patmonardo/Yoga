@@ -11,7 +11,7 @@ Not the eighteen. Not the three worlds. Termini of one End.
 
 Kārikā study: [`VAK_6.78.md`](./VAK_6.78.md). Next: 6.79.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > ka eṣāṃ viśeṣaḥ /
 > ekaiva sāsaṃskṛtā vimuktiḥ / tisra ākhyāḥ /
@@ -21,7 +21,7 @@ Kārikā study: [`VAK_6.78.md`](./VAK_6.78.md). Next: 6.79.
 
 **Witness.** Pradhan 389|12–20. Voice: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > What is the difference among these? One unconditioned liberation. Three names.
 > Abandonment of attachment: domain of dispassion. Abandonment of the other

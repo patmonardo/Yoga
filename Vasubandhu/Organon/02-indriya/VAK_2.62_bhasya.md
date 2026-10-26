@@ -11,7 +11,7 @@
 > Conditions. What is called the conditioning cause is held to be
 > the predominant Condition.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > cittacaittā acaramā utpannāḥ samanantaraḥ /
 > arhataḥ paścimānapāsyotpannāścittacaittāḥ samanantarapratyayaḥ /
@@ -108,7 +108,7 @@ commentary. Source spellings and damaged readings are retained.
 The question about when Conditions act begins at 100.19 and opens
 the next unit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Arisen mind and mental factors, except the final ones, are the
 immediately antecedent Condition. The exception is the arhat's

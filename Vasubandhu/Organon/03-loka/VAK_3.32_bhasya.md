@@ -141,7 +141,7 @@ three sets of grounds at 146.06–10. At 145.09–10 the witness reads
 to preserve the passage's contrast between treatise and sūtra. These
 readings remain provisional; the source file is unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Feeling must now be explained. The sixfold Contact previously stated gives
 rise to six Feelings: Feelings born from Eye-Contact, Ear-Contact,
 Nose-Contact, Tongue-Contact, Body-Contact, and Mind-Contact. The first five

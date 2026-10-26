@@ -32,7 +32,7 @@ several explanatory series; then what an aspect is. E-text damage
 vs sixteen-substantial presentation; Vasubandhu's question; objector on
 prajñā lacking an aspect; reformulation. Schools not named at every step.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > What dharma is this that is called an aspect? Prajñā is the aspect.
 >

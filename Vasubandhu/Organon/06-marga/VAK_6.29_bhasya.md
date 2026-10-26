@@ -51,7 +51,7 @@ the extra `upa` in the prior study. Forms including `pañcādaśa kṣaṇa`,
 `mṛddhindriya`, `tesu`, `sakalavandhanau`, and `to` are retained as
 transmitted pending collation. The next unit starts at [353|23].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The commentary now explains how persons in whom the Noble Path has arisen
 are classified. The fifteen moments described as belonging to the Path

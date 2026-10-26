@@ -93,7 +93,7 @@ gives a short passage labeled 143.19–143.24 that does not match this unit
 in the running source; its wording and labels require separate collation.
 The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 An objection proposes an analogy: just as a bad wife is called “no wife” and
 a bad son “no son,” let ignorance likewise mean defective discriminative
 comprehension.

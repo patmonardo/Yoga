@@ -20,7 +20,7 @@ Kārikā study: [`VAK_8.41.md`](./VAK_8.41.md).
 
 **Witness.** Pradhan 460|04–07. Voice: Vasubandhu. Verse carries the argument.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > When the Teacher — the Eye of the World — had closed, and when the body of
 > witnesses had for the most part gone to extinction, this teaching was made

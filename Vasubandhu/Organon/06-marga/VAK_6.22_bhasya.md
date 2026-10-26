@@ -58,7 +58,7 @@ breaks are editorial. Compressed forms including `dveparihāṇyā`,
 as transmitted. Their exact segmentation remains open to collation. The
 next unit starts at [348|01].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 An ordinary practitioner loses the first two roots, Heat and Summits, by
 regression as well as by death. A Noble practitioner does not regress from

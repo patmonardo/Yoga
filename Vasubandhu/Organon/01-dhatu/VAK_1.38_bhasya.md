@@ -9,7 +9,7 @@
 > last three are momentary. The Eye Principle and the Eye-Cognition Principle
 > may be acquired separately or together.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > tridhā 'nye /
 >
@@ -75,7 +75,7 @@
 
 Word division is editorial; the passage runs from [026|02] to [026|25] in the local source. The compact sentence on other conditioned dharmas is retained as transmitted and read as an exception claim. The question at [027|01] begins 1.39.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The others are of three kinds.
 >

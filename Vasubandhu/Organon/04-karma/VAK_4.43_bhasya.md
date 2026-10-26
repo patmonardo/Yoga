@@ -17,7 +17,7 @@ The specification of restraint among gods starts with 4.44 at
 classifications; they are not identities inferred about people
 today.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 atha keṣāṃ sattvānām asaṃvaro bhavati keṣāṃ saṃvaraḥ /
@@ -74,7 +74,7 @@ difficult forms, retained without a claimed repair. The
 research witness skips the full Mahānāma citation at [226|10–12];
 it is present here.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 For which beings does non-restraint occur, and for which does
 restraint occur? “Non-restraint occurs among humans, excepting

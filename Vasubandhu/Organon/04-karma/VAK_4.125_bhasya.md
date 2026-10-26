@@ -12,7 +12,7 @@
 The verse uses `nirvāṇabhāgīya`; the Bhāṣya explains this middle category
 as `mokṣabhāgīya`, liberation-oriented.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 āmiṣadānam uktam. dharmadānaṃ vaktavyam. tad idam ucyate:
@@ -42,7 +42,7 @@ prints a space in `yathābhūta sūtrādyakliṣṭadeśanā`; the compound is
 presented joined in the kārikā block. The compact phrase
 `romaharṣāśrūpātau` is retained rather than silently regularized.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Material giving has been discussed; Dharma-giving must now be stated.
 This is what is said:

@@ -12,7 +12,7 @@
 `Antyajanmane bodhisattvāya` names one recipient: a Bodhisattva in the
 final birth. The Bhāṣya confirms five fields in the verse.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 srota āpattiphalapratipannakāya dānaṃ dattvā 'prameyavipākaḥ;
@@ -40,7 +40,7 @@ reads `dikṣeptavyaḥ`; `nikṣeptavyaḥ` is a conjectural repair. At
 has been conjectured. The translation signals the uncertainty rather than
 silently adopting either repair.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 A sūtra states: “Having given to one practicing for the fruit of
 stream-entry, [there is] immeasurable maturation; from that, [there is]

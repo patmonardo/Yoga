@@ -37,7 +37,7 @@ This is the running witness at [327|03–327|10] in
 editorial; its `darśanakhya`, `bhavanāmārgo`, and `laukikok` are retained,
 not silently corrected to the kārikā study's normalized reading.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 It has been stated how an abandonment receives the name *parijñā*. It has
 also been explained that afflictions are abandoned through seeing the truths

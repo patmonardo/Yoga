@@ -11,7 +11,7 @@
 > arhatship, are attained through nine Faculties; the two middle fruits,
 > once-returning and non-returning, through seven, eight, or nine.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kramamṛtyau tu catvāri /
 > krameṇa tu mriyamāṇaś catvārīndriyāṇi nirodhayati /
@@ -77,7 +77,7 @@ eleven. Necessary co-possession at 50.09 is not taken.
 
 Word division is editorial. Repairs in the death clauses: ṣubhe → śubhe and trayodaśāeti → trayodaśeti. Further contextual repairs, not a collation: praptir → prāptir, visaṃyioga → visaṃyoga, saptāṣṭnava → saptāṣṭanava, vimūkti → vimukti, tīkṣṇenriyatvā → tīkṣṇendriyatvād, praviśāti → praviśati, ājñenriya → ājñendriya, ekādaśbhhir → ekādaśabhiḥ, saumanasyīpekṣā → saumanasyopekṣā, anāgābhino → anāgāmino. The malformed editorial aṣṪbhis is corrected to the running witness's aṣṭabhis. Other defective forms remain visible where retained; the translation follows the stated contextual construals.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 In gradual death, four faculties cease: body, life, Mind, and neutral feeling. These do not cease separately. This rule concerns death with an afflicted or indeterminate mind. If one dies with a wholesome mind, five more faculties cease in every case: those beginning with faith, which necessarily occur in a wholesome mind. Thus eight cease in the Formless realm and thirteen in the Form realm; the other totals are to be calculated in the same way.
 

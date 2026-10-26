@@ -13,7 +13,7 @@ VAK 4.68 classified the roots from which preparation can arise. VAK 4.70
 now asks which root is immediately operative when a particular course
 reaches its defining completion.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 yaduktaṃ "na sarveṣāṃ karmapathānāṃ lobhādibhirniṣṭhe"tyatha kasya
@@ -37,7 +37,7 @@ The complete unit is `[242|06]–[242|12]`. The running witness reads
 silently repaired to the expected `pāruṣyāṇām`. The first half of VAK 4.71
 begins at `[242|13]` with the completion root of false view.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 It was said that not all courses of karma reach completion through greed
 and the other roots alike. Which course, then, reaches completion through

@@ -67,7 +67,7 @@ Māyā inquiry explicitly separate from the Kośa's stated classifications.
   determine compressed wording. Copy the settled translation exactly into
   the paired Bhāṣya's Kārikā Anchor during that verse's review. The literal
   rendering stays a syntactic check in the kārikā study. The Bhāṣya's
-  continuous conventional translation translates the commentary passage
+  continuous translation translates the commentary passage
   in its own right.
 - Every kārikā study uses the same ten numbered stage headings, in the same
   order: Sanskrit (Devanāgarī), Sanskrit (IAST), Lexical
@@ -745,8 +745,8 @@ Number every top-level Bhāṣya section consecutively. The opening and closing
 sections are:
 
 1. `Kārikā Anchor`
-2. `Continuous Sanskrit` (or `Continuous Sanskrit Witness` when needed)
-3. `Continuous Conventional Translation`
+2. `Continuous Sanskrit`
+3. `Continuous Translation`
 4. A section tracing the Bhāṣya's argument, such as `Movement of the Commentary`
 5. Further source-specific analysis, translation decisions, and Organon study,
    each with the next section number
@@ -762,7 +762,7 @@ section 5 of the paired kārikā study. Do not add a `Literal Translation` or
 `Bhāṣya-informed study translation` subheading inside the anchor. Put any
 explanation of the translation after the quote, or in the Bhāṣya analysis.
 The anchor gives the reader the verse and its settled reading; the continuous
-conventional translation gives the Bhāṣya prose.
+translation gives the Bhāṣya prose.
 
 Check the chapter's technical expressions during each verse review. Establish
 the Sanskrit term's local force, the English used in translation, and any

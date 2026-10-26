@@ -13,7 +13,7 @@ The complete unit runs from [222|08] through [222|16–17] in
 `Vasubandhu/Sources/kosabhasya.txt`. The announcement of the
 next topic, abandonment (`tyāga`), at [222|18] opens 4.38.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 uktam idam asaṃvarasya yebhyo lābhaḥ /
@@ -44,7 +44,7 @@ the prose's three alternatives. `Śeṣāvijñapti` is the remaining
 unmanifest karmic form, distinct from the standing forms of
 restraint and non-restraint just discussed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 It has been explained **with respect to what** non-restraint is
 acquired; **how** it is acquired has not yet been stated. So this

@@ -52,7 +52,7 @@ construes `dvayāśrayān`; its prose repeats `dvacyāśrayān`. The transmitted
 `tyajatisatyasati` are retained as received.
 The next unit starts at [347|08].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 All four roots have a support in the Desire Realm. The first three initially
 arise only among humans, on the three continents. Where they have already

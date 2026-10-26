@@ -126,9 +126,9 @@ release from world.
 
 ## 6. Dhyāna as an Articulation of World
 
-In this passage `dhyāna` does not name only an inward meditative episode. It
-organizes the Form Realm itself. The relation is neither a casual analogy nor
-an identity between a private mental state and an external place:
+In this passage the four `dhyānas` organize the Form Realm's rebirth levels
+and their inhabitants. This is a classification of world, rather than an
+account of dhyāna as a discipline:
 
 ```text
 rūpadhātu

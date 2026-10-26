@@ -36,7 +36,7 @@ half of 5.18 begins the exception. Word division and punctuation
 above are editorial. The closing sentence is Vasubandhu's
 transition: after the general rule, he states a qualification.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Of the ninety-eight anuśayas, how many adhere by way of their
 cognitive support, and how many solely by association?

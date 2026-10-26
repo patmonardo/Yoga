@@ -15,7 +15,7 @@ Buddha-case, and completes the final clause by identifying maturation-born
 consciousness as neither initiating nor accompanying. The kārikā study is
 `VAK_4.12.md`.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kiṃ khalu yathā pravartakaṃ tathaivānuvartakaṃ bhavati? nāyam ekāntam.
@@ -78,7 +78,7 @@ list is provisionally divided into maturation-born, posture-related, and
 creation-related Cognitions, following the Chapter 2 inventory; the running
 witness is not silently emended.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Does the accompanying Cognition necessarily have the same ethical quality as
 the initiator? “This is not an invariant rule.” When the initiator is

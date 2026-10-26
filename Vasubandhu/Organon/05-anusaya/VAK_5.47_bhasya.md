@@ -31,7 +31,7 @@ editorial. The running verse reads `āhlīkyam` and
 `uddhavaḥ`; the official Kārikā study prints `āhrīkyam`
 and also has `uddhavaḥ`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What are the enveloping afflictions? The term can also
 include the kleśas themselves here, since a sūtra speaks

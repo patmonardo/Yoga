@@ -13,7 +13,7 @@ The final construction is intentionally incomplete. The first row of the
 training-status matrix is explained here; the verse then opens the
 beyond-training row, whose numbers occur in 4.92.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 svabhūmidharmāś catvāri
@@ -40,7 +40,7 @@ The running witness presents no major lacuna in this unit. Compounds and
 sandhi have been opened, and the phrase `dhātvapatitatvāt` has been retained
 without reducing `dhātu` and `bhūmi` to one undifferentiated spatial notion.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Dharmas belonging to the same ground as the action stand as four results,
 with disconnection-result excluded.

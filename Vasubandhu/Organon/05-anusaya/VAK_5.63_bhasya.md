@@ -52,7 +52,7 @@ expressions in the verse's second line name six possible occasions in the
 Bhāṣya's count: one liberation path, four fruit attainments, and one faculty
 transition.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Does advancing to a further special stage of the path
 produce a further abandonment of the afflictions? No. Every

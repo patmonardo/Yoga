@@ -10,7 +10,7 @@
 > changed, parentage may remain: the mother is she from whose blood the living
 > being arose.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kasmān mātṛvadhādiṣv ānantaryaṃ nānyatra?
@@ -86,7 +86,7 @@ also compresses the quoted examples and the closing discussion. Word
 division and punctuation are editorial; the examples below are rendered
 without adding detail beyond their argumentative role.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why does killing one's mother and related cases receive the
 immediate-result classification, and not other cases? Because of

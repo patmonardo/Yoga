@@ -48,7 +48,7 @@ atra veditavyam /
 
 This is the complete running unit [383|09]–[384|02] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The question “which ten?” occurs just before this unit at [383|08]. The next verse begins at [384|03] by qualifying these identifications as taking the predominant factor. The working witness's spelling in the long mapping sentence is preserved above.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The ten constituent dharmas are confidence, energy, recollection, Prajñā, collectedness, joy, equanimity, pliancy, ethical discipline, and resolve. How is that count obtained? The establishments of recollection are Prajñā. The right abandonments are energy, and the bases of spiritual power are collectedness. These three groups have the respective natures of Prajñā, energy, and collectedness.
 

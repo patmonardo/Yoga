@@ -47,7 +47,7 @@ measure of 250 yojanas on each side, in agreement with the kārikā's clear
 splendor is syntactically compressed; the translation preserves its sense
 without supplying a more elaborate construction.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Here Vaijayanta has sides of 250 yojanas.
 
 Vaijayanta is the palace of Śakra, Indra of the gods, in the middle of the

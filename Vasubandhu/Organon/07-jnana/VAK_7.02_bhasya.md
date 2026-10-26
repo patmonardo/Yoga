@@ -43,7 +43,7 @@ sandhi are supplied for reading.
 The unit begins with the leftover of 7.01 and ends when the two
 uncontaminated names have been stated. 7.03 opens the object-ranges.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The five views and worldly right view: this sixfold worldly prajñā is
 > view; the other [worldly prajñā] is not view. But both this and the other

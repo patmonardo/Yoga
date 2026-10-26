@@ -35,7 +35,7 @@ Kārikā study: [`VAK_7.33.md`](./VAK_7.33.md).
 malformed intensity heading — not a sixth ground. Eighth comparison
 (`atulyakaruṇāyanāt`) open. Voice: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Great compassion has conventional knowledge as its nature. Otherwise it
 > would not be established as taking all beings as object, nor as having the

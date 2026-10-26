@@ -11,7 +11,7 @@
 > and initial and sustained examination. In some cases regret is additional,
 > making twenty-three where it is present.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > tatra vaktavyaṃ kasmiṃś citte kati caittā avaśyaṃ bhavantīti /
 > kāmāvacaraṃ tāvat pañcavidhaṃ cittam /
@@ -51,7 +51,7 @@ veditavyami as veditavyam, and ubhayādhiṣṭānam as ubhayādhiṣṭhānam.
 These repairs are contextual, not independent collation.
 Unwholesome counts at 58.04 begin 2.29.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 We must now say how many mental factors necessarily occur in each kind of consciousness. Desire Realm consciousness has five cases: wholesome; unwholesome, either isolated or associated with another affliction; and indeterminate, either obscured or unobscured. Desire Realm consciousness necessarily has initial and sustained examination. Thus wholesome Desire Realm consciousness has twenty-two mental factors: ten universal great-ground factors, ten wholesome great-ground factors, and those two kinds of examination. Regret occurs in some cases, adding a twenty-third factor where it is present.
 

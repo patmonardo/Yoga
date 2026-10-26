@@ -52,7 +52,7 @@ repeats it as `sa eva rūpadhātus teṣāṃ svaḥ`. The continuous text retai
 second, better-spelled occurrence once. Minor irregularities in compounds
 and sandhi are regularized provisionally; the running source is unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Their own realm is the cognitive Condition for eight. That very Form realm
 is “their own” realm. It is the Condition for eight Mental Rangings, with
 the four Smell- and Taste-Rangings omitted.

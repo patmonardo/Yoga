@@ -42,7 +42,7 @@ their exact forms are uncertain, so they remain visible here.
 The verse and its explanatory prose securely identify the
 first triad as `rāga`, `pratigha`, and `māna`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Whichever anuśaya of a person adheres to a given support connects
 that person with that support through the anuśaya. What remains

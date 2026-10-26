@@ -88,7 +88,7 @@ critically reconstructed. The long sequence of named numerical magnitudes is
 abridged as marked; the translation states its rule and the Bhāṣya’s
 conclusion.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 These eighty intermediate kalpas are a great kalpa. This is the measure of a
 great kalpa. What is a kalpa by nature? It has the nature of the five
 Bases.

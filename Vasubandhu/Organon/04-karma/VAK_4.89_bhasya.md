@@ -13,7 +13,7 @@ Together with 4.88, this verse completes a three-by-three matrix relating the
 ethical quality of action to the ethical quality of dharmas functioning as
 its results under the five technical result relations.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 aśubhasya śubhādyā dve trīṇi catvāry anukramam /
@@ -37,7 +37,7 @@ as the dual `puruṣakārādhipatiphale`. At `[256|16–17]`, the compressed
 `avyākṛtayordṛṣṭyoniḥrṣyandaphalam` is segmented and normalized as
 `avyākṛtayor dṛṣṭyor niṣyandaphalam`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 For unwholesome action, the result counts for dharmas beginning with
 wholesome are two, three, and four, respectively.

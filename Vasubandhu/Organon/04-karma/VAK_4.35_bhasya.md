@@ -14,7 +14,7 @@ through the correction about future restraint at [220|02–03] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about whether
 restraint is acquired from every being at [220|04–05] begins 4.36.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 ya ime trayaḥ prātimokṣadhyānānāsravasaṃvarāḥ kimeṣāṃ yata eko
@@ -61,7 +61,7 @@ is made. The Sanskrit calls the three restraints
 `prātimokṣa`, `dhyāna`, and `anāsrava`; the verse calls the first
 `kāmāpta`, belonging to the desire realm.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 There are these three restraints: prātimokṣa, meditation-born, and
 uncontaminated. If one of them is acquired from a given basis, are

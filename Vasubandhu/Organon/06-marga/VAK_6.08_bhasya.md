@@ -61,7 +61,7 @@ explanation, the uneven sūtra quotation, the spaced `mamāha kāra`, and
 `uktāmidaṃ` remain as transmitted. The local argument supplies their sense.
 The question at [337|07] opens 6.09.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What did the Blessed One show through the four noble lineages? Livelihood by
 the three and work by the fourth. The Blessed One, master of Dharma, prescribed

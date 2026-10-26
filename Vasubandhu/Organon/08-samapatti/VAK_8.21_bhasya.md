@@ -26,7 +26,7 @@ Kārikā study: [`VAK_8.21.md`](./VAK_8.21.md).
 
 **Witness.** Pradhan 447|08–17. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > For principal wholesome formless [items], a contaminated entity of a lower
 > ground is not the object — they take their own or higher ground. Uncontaminated

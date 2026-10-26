@@ -9,7 +9,7 @@
 > Five causes take their fruit while present. Two give fruit while
 > present, two while present or past, and one gives it only when past.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > athaiṣāṃ hetūnāṃ katammo hetuḥ kasminkāle phalaṃ pratigṛhṇāti dadāti vā /
 > vartamānāḥ phalaṃ pañca gṛhṇanti
@@ -72,7 +72,7 @@ from 96.11 through 97.15. Source spellings and damaged readings
 are retained. The next question, about how many causes produce
 each class of dharma, begins at 97.16–17.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 At what times do these causes take or give a fruit? Five take their
 fruit while present. They do not take it while past, for it has

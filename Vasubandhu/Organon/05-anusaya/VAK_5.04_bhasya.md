@@ -39,7 +39,7 @@ and subsequent prose under 5.04, but the running source places it
 after this unit. The 5.03 study has already preserved the prose
 lead-in at [279|21–23].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “In the Desire Realm, these ten, then seven, seven, and eight,
 respectively excluding three and two views, are abandoned through

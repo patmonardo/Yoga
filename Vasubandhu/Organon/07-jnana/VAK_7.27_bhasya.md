@@ -30,7 +30,7 @@ Kārikā study: [`VAK_7.27.md`](./VAK_7.27.md).
 Voices: question; Vasubandhu; bāhyābhidharmikas; Kāśmīras. Four right efforts
 not in this span.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Is cultivation acquisition alone? It is said: no. Cultivation is fourfold:
 > acquisition, practice, counteraction, and expulsion.

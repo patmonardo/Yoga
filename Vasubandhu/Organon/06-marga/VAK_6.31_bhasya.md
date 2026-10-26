@@ -50,7 +50,7 @@ separate kārikā reads `śraddhādhimuktadṛṣṭyāptau mṛdutīkṣṇendr
 The uneven forms `phalastho` and `srota āpattiphale` remain as received.
 The next unit begins at [354|18–354|19].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “At the sixteenth moment, those two stand in the fruit toward which each
 had proceeded.” Once the sixteenth moment of consciousness arises, the

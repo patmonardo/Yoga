@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.47.md`](./VAK_7.47.md).
 **Witness.** Pradhan 424|08–425|03. Running forms damaged; extract regularized
 — disclosed. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The higher knowledges of extraordinary efficacy, another mind, and influx-
 > exhaustion are, respectively, the wonders of extraordinary efficacy, indication,

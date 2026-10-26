@@ -52,7 +52,7 @@ and punctuation are editorial. The running text's
 `adhobhūmikāḥ` beside a verse about `ūrdhvabhūmikāḥ`
 remain visible as witness problems for later review.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Doubt is conjoined with mental distress, for a person in
 doubt seeks certainty and becomes distressed. The other

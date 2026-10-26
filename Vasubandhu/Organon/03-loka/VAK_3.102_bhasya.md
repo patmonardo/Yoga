@@ -58,7 +58,7 @@ teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇa” iti.
 Abhidharmakośabhāṣye Lokanirdeśo nāma tṛtīyaṃ kośasthānaṃ samāptam iti.
 ```
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 In what sequence, then, do these contractions occur? First, without
 interruption, seven occur by fire. Then one occurs by water, after the seven
 fire-contractions. When seven water-contractions have occurred in this way,

@@ -40,7 +40,7 @@ Spacing is regularized. The Bhāṣya's technical unit-names are retained as
 transmitted; their role in the sequence is clear even where their lexical
 derivation is not.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 This series, beginning with the ultimate atom, is to be understood as
 successively sevenfold. Seven ultimate atoms make one aṇu; seven aṇus make
 one loharajas. Seven of those make one avrajas; seven avrajas make one

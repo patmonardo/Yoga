@@ -51,7 +51,7 @@ Spacing and sandhi have been regularized. In the hell list, `Tāpane` is the
 locative name of the sixth hell, Tāpana; the source's joined spelling is
 preserved in sense, not treated as a different class.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Now the unfortunate destinies are to be explained. First, in the six hells
 beginning with Saṃjīva, day-and-night units correspond in order to the
 lifespans of the six classes of Desire Realm devas.

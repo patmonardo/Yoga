@@ -10,7 +10,7 @@
 > the two roots—non-greed and non-hatred—non-harming, and vigor are
 > always present together in wholesome consciousness.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kuśalā mahābhūmir eṣāṃ ta ime kuśalamahābhūmikā ye sarvadā kuśale cetasi bhavanti /
 > ke punas ta iti /
@@ -68,7 +68,7 @@ cittakarmaṇyatā at 55.12–13 is construed as the object
 cittakarmaṇyatām. These contextual repairs are not independent
 collation. Afflicted consciousness at 56.02 begins 2.26.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The wholesome is the extensive ground of the wholesome great-ground factors: they always occur in wholesome consciousness. Which factors are these? Faith, heedfulness, pliancy, equanimity, moral shame, moral caution, the two roots, non-harming, and vigor. These ten dharmas are invariably present in wholesome consciousness.
 

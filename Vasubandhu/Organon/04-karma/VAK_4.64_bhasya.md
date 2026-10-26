@@ -13,7 +13,7 @@ The Kārikā names **Mind**, not “mental karma,” as the third silence;
 the Bhāṣya makes that distinction explicit. The official Kārikā
 records `sarvaṃ` as a normalization of the base witness's `sarva`.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 sūtra uktaṃ trīṇi mauneyāni kāyamauneyaṃ vāṅmauneyaṃ manomauneyaṃ ca /
@@ -57,7 +57,7 @@ witness before a critical edition. Line breaks, punctuation, and
 verse numbering are editorial. The sentence on three bad conducts
 at [237|13] starts 4.65.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 A sūtra states that there are three silences: bodily, verbal, and
 mental silence. In this connection: “The bodily and verbal actions,

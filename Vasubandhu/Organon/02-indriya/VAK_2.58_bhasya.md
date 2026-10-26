@@ -10,7 +10,7 @@
 > conditioned dharma not arisen before is the predominance-fruit of
 > conditioned dharmas alone.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > yadvalājjāyate yattatphalaṃ puruṣakārajam /
 > tadyathā adharabhūmikasya prayogacittasyoparibhūmikaḥ samādhiḥ sāsravasyānāsravo dhyānacittasya nirmāṇacittamityevamādi /
@@ -29,7 +29,7 @@ from 96.03 through 96.10. Source spelling and the malformed
 is reproduced above without locators. The next question begins at
 96.11.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Whatever arises through the force of a given dharma is its activity-
 fruit. Thus a concentration at a higher level may arise through an

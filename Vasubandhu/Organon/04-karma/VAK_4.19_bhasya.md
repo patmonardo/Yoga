@@ -13,7 +13,7 @@ The complete running unit for this verse extends from [209|04] through
 [209|11–12] in `Vasubandhu/Sources/kosabhasya.txt`. The next sentence
 begins the application to non-restraint in 4.20.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 idaṃ vicāryate: kaḥ katamayā vijñaptyā 'vijñaptyā vā kiyantaṃ kālaṃ
@@ -39,7 +39,7 @@ anchor follows its separate Kārikā witness. The running source also has
 an extraneous `[` after the [209|11] marker; it has not been made part of
 the Sanskrit passage.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 This is to be examined: who is endowed with which manifest or non-manifest
 action, and for how long? First: “One established in prātimokṣa restraint

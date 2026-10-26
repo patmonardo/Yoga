@@ -74,7 +74,7 @@ punctuation above are editorial. The source forms `ye he`
 and `atītamanāmataṃ` are retained as transmitted; the latter
 is especially uncertain in the enumeration of the three times.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Does this past and future that we speak of exist or not? If it
 exists, conditioned formations seem to become permanent through

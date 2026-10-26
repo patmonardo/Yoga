@@ -9,7 +9,7 @@
 > of the Dharma Principle, are Element-dependent. The ten Form Principles
 > are Accumulated.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kati dhātavo bhūtasvabhāvāḥ kati bhautikāḥ /
 >
@@ -68,7 +68,7 @@ The reply about the fleshy eye and the six-Principle person now follows
 the local wording rather than replacing it with a doctrinal paraphrase.
 The next question opens 1.36.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > How many Principles are of the nature of the Elements, how many Element-dependent?
 >

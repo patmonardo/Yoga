@@ -45,7 +45,7 @@ editorial. The running IAST source reads `vividhasmṛtimūlāni`
 and `dṛṣṭānnīti`; both are retained rather than conjecturally
 repaired. The former is difficult to construe in this context.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “The other two are not roots, because of divided and upward
 movement.” Doubt, it is said, cannot be a root because its

@@ -10,7 +10,7 @@
 > is past; the five sensory Cognitions have a Basis born together with
 > them, and the past one as well.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kiṃ punar ebhiś cakṣur-ādibhir ātma-parimāṇa-tulyasyārthasya grahaṇaṃ bhavaty āśu-vṛttyā ca parvata-ādīnām alāta-cakrādivad āhosvit tulyātulyasya /
 >
@@ -118,7 +118,7 @@
 
 Word division is editorial. This unit runs from [033|08] through [034|16] in the local source. The example of the grape at [033|13–14] and several anatomical terms are imperfectly transmitted; the working text keeps their apparent sense without claiming a critical reconstruction. The question why Faculties rather than Visible Forms are called Bases begins at [034|17] in 1.45.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Do the Faculties beginning with the Eye apprehend only a Condition equal to themselves in extent, so that a mountain seems to be grasped by a rapid succession, like a circle made by a whirling firebrand? Or can they apprehend Conditions of unequal extent as well?
 >

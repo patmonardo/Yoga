@@ -70,7 +70,7 @@ evamanye 'pi pudgalāḥ saṃbhavataḥ saṃkhyeyāḥ /
 
 This is the complete running unit [380|04]–[380|22] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The following question at [381|01] opens 6.64's discussion of liberation in both respects and wisdom-liberation. The witness's `dṛṣṭioprāptaḥ` in the opening list is retained; the later prose has `dṛṣṭiprāptau`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 All noble persons are seven: the faith-follower, Dharma-follower, faith-resolved, seeing-attained, body-witness, wisdom-liberated, and liberated in both respects. They are designated by application, faculty, meditative attainment, liberation, or both attainment and liberation.
 

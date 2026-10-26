@@ -9,7 +9,7 @@
 > spontaneously born. By them, six, seven, or eight; in the Form realm, six;
 > in the higher, Formless realm, one.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > lābha idānīṃ vaktavyaḥ /
 > katīndriyāṇi kasmin dhātau vipākaḥ prathamato labhyante /
@@ -45,7 +45,7 @@ vaktavyaḥ at 48.15 opens relinquishment and is 2.15.
 
 Word division is editorial. Repairs: saṃsvedajaīr → saṃsvedajair, ṣaḍa vā → ṣaḍ vā, ṣaḍḍindriyāṇi → ṣaḍ indriyāṇi, parathamato → prathamato, avyañjanaiarupapādukaiḥ → avyañjanair upapādukaiḥ, ārupyā → ārūpyā. Rūpadhātū rūpāṇīti is retained, parallel to the Desire Realm designation. Locator 48.02–048.92 is defective. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Acquisition must now be explained. How many faculties are first acquired as maturation, and in which realm? In the desire realm, two are initially acquired as maturation: the body-faculty and the life-faculty. This two-faculty case excludes spontaneous birth; it concerns the egg-born, womb-born, and moisture-born. Why are the Mind-Faculty and Neutral-Feeling Faculty not counted? Because both are necessarily afflicted at the time of relinking.
 

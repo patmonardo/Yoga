@@ -12,7 +12,7 @@ False view now appears at its strongest practical degree. It no longer
 merely misclassifies one action: it can remove the generative bases through
 which wholesome action arises.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 mūlacchedastvasaddṛṣṭyā
@@ -132,7 +132,7 @@ forms including `dahani`, `kuśalamūlāli`, `samuchidyante`,
 4.80 begins at `[250|02]` by asking which human continuums can perform the
 severance and how reconnection occurs.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Severance of the roots occurs through false view.” The wholesome roots are
 severed by false view that has become fully intense.

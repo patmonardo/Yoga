@@ -11,7 +11,7 @@
 > a constructed distinction relative to another. Intoxication, however,
 > is the taking-over of consciousness in one attached to one's own qualities.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > vitarkavicārayoḥ kiṃ nānākāraṇam /
 > vitarkacārāv audāryasūkṣmate /
@@ -61,7 +61,7 @@ mṛdvadhimātratavāt, pañcāṅgayukataṃ, and saṃprahaṛśaṇa.
 No independent collation is claimed. Technical designations at
 61.20 begin 2.34.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What distinguishes initial from sustained examination? They are coarseness and subtlety—but of what? Of consciousness, as the verse will say later. Initial examination is the coarseness of consciousness; sustained examination is its subtlety. How, then, can both occur in one consciousness? Some say that clarified butter placed in water [a provisional reading] and warmed by the sun's rays neither hardens nor melts excessively. Likewise, when both factors are present, consciousness is neither excessively coarse nor excessively subtle: each factor has an effect there.
 

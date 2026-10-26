@@ -32,7 +32,7 @@ Kārikā study: [`VAK_7.37.md`](./VAK_7.37.md).
 **Witness.** Pradhan 417|18–418|12. `Prāṇidhi` unrestored. Voices: Vasubandhu;
 Vaibhāṣikas on formless access. Farmer illustration named, not narrated.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > This too is conventional knowledge, in the final dhyāna, of an immovable
 > one, with human support. The difference: resolve-knowledge has all dharmas

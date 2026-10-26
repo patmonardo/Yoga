@@ -12,7 +12,7 @@
 
 The Bhāṣya unit runs from `[003|24]` through `[004|22]` in the local Sanskrit source. The next question opens 1.07.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > pratisaṃkhyānirodho yo visaṃyogaḥ /
 > yaḥ sāsravair dharmair visaṃyogaḥ sa pratisaṃkhyānirodhaḥ /
@@ -50,7 +50,7 @@ The Bhāṣya unit runs from `[003|24]` through `[004|22]` in the local Sanskrit
 
 Compared with `Vasubandhu/Sources/kosabhasya.txt` at `[003|24]`–`[004|22]`. This is an edited witness, with sandhi and word division opened. The sensory sentence at `[004|16–17]` is especially damaged in the local transcription (`na hi te satyā atītaṃ viṣayamālambayi tulmiti`); the displayed *na hi te saty atītaṃ viṣayam ālambayitum* is a conjectural reconstruction, not a verified reading. The local text also has `sākṣātk karaṇāt`, `anutpasttidharmāṇām`, and `aṇāsravāṇām` where the witness prints regularized forms. None of these repairs has been checked against a printed edition. “Four” in the translation makes explicit the conventional number of Noble Truths; the Sanskrit here says “the Noble Truths beginning with suffering,” without stating the number.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Cessation through discrimination is disjunction. More precisely, it is disjunction from Impure dharmas. Here “discrimination” means discriminative examination of the Four Noble Truths, beginning with the Truth of Suffering; it is a particular form of *prajñā*. The cessation attained through that *prajñā* is called “cessation through discrimination.” The shortened name omits “attained through,” just as “ox-cart” leaves “yoked to oxen” unspoken.
 

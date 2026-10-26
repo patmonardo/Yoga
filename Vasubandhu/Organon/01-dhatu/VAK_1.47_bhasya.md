@@ -10,7 +10,7 @@
 > plane, except that Body-Cognition is of a lower plane or its own. Mind is
 > not fixed.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > yathā cedaṃ cakṣur uktaṃ vistareṇa veditavyam /
 >
@@ -50,7 +50,7 @@
 
 Word division is editorial. The local unit runs from [036|03] through [036|20]. The reference at [036|17–19] is to an explanation **to come** in the chapter on attainments; the earlier working witness had made it a completed explanation. The passage explicitly closes an incidental discussion before 1.48 starts at [036|21].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > What was said of the Eye applies in detail to the Ear. The Ear is not of a lower plane than the Body; Sound and Ear-Cognition are not of a higher plane than the Ear. Relative to Ear-Cognition, Sound can be higher, lower, or of the same plane; relative to the Body, both Sound and Ear-Cognition admit all three relations. The cases are to be worked out as before.
 >

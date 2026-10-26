@@ -15,7 +15,7 @@ The natural unit starts at [225|03] and ends at [225|20–21] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next verse begins with
 the loss of Desire Realm wholesome nonmaterial dharmas at [225|22].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 asaṃvaraḥ saṃvarāptimṛtyudvivyañjanodayaiḥ /
@@ -60,7 +60,7 @@ The running source has irregular forms including `asaṃvaś`,
 The upavāsa exchange changes speakers abruptly; punctuation
 there is not a decision about which side owns every clause.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Non-restraint ends through acquiring restraint, death, or the
 arising of both sexual characteristics.” There are three causes

@@ -53,7 +53,7 @@ are editorial. The running Kārikā has `vidvaśād`, and
 its explanatory prose has `trivedanāvaśārttīṇi`;
 both are retained as uncertain transmitted forms.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Just as the Blessed One taught five lower fetters, so the
 higher fetters too are five: attachment to form, attachment

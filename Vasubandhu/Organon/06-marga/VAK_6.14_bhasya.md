@@ -46,7 +46,7 @@ are editorial. The transmitted `śunyatā 'nātmate` and
 conventional renderings “emptiness and not-self” and “establishment of
 recollection of the body.” The question at [341|16] opens 6.15.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The two entry practices have been stated. Having gained concentration through
 them, the practitioner whose śamatha is accomplished should cultivate the

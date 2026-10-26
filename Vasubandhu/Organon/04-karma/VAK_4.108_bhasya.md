@@ -14,7 +14,7 @@ This answers the preceding question about killing a bodhisattva established
 in certainty. The Bhāṣya gives a technical threshold for that designation;
 it does not claim to settle every use of “bodhisattva.”
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 yad uktaṃ "bodhisattvasya māraṇam" iti:
@@ -56,7 +56,7 @@ punctuation are opened for readability. The Bhāṣya's gloss of `avyakṣa`
 is retained. Its terms for family and bodily status are translated as
 source claims rather than generalized norms.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The preceding passage mentioned the killing of a bodhisattva. From what
 point onward should one be called a bodhisattva? From the time one begins

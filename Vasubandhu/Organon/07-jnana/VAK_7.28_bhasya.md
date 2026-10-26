@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.28.md`](./VAK_7.28.md).
 Vasubandhu. “For all persons” = the general kṣaya-occasion, not that every
 person has exhaustion-knowledge.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > In general, cultivation of qualities at exhaustion-knowledge has been stated
 > for persons. But the eighteen distinctive Buddha-qualities, beginning with

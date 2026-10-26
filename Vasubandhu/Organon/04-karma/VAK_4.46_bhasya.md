@@ -14,7 +14,7 @@ The Bhāṣya unit begins with `tatra tāvat` at [227|13] and ends at
 The research witness stops at [228|01]; the final two sentences
 below are recovered from the running source.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 tatra tāvat
@@ -58,7 +58,7 @@ these difficult readings remain visible rather than being silently
 repaired. Its spellings of the immovable term also vary locally
 (`āneñja`/`āniñja`).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 First, then: “Wholesome karma in the Desire Realm is meritorious;
 what is produced above is immovable.” The word “wholesome” carries

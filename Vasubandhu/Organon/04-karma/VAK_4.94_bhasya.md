@@ -9,7 +9,7 @@
 > two, and four results, respectively. Some say that afflicted action and action
 > deviating from prescribed procedure are improperly constituted.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 apraheyasya te tv ekaṃ dve catvāri yathākramam /
@@ -44,7 +44,7 @@ different accounts of action constitution. The witness reads `karmaṃ` in
 `kuśalaṃ karmaṃ` at `[258|08–09]`; the continuous text above normalizes this
 to `karma`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 For action not to be abandoned, dharmas to be abandoned through seeing are
 one result: the dominant result. Dharmas to be abandoned through cultivation

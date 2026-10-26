@@ -64,7 +64,7 @@ and line breaks editorial. Uneven forms and the compressed second
 response to Śakra's statement remain as transmitted and await
 collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Does the differentiation just given also apply to a non-returner who
 has passed through another birth? The verse answers: a Noble who has

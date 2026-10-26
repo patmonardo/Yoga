@@ -60,7 +60,7 @@ The third member of the anchor follows the separate kārikā's
 `ālambanagrahāṇāc ca`, while its prose explains
 `ālambanaprahāṇāt`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 This is to be examined. Consider universal afflictions of
 a different domain and contaminated-condition afflictions

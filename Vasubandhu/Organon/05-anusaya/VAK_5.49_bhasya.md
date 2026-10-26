@@ -33,7 +33,7 @@ has `kodherṣye`, whereas the official Kārikā prints
 `krodherṣye`; the prose's `pratighasamutthe` secures the
 local meaning while leaving the spelling for review.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Remorse arises from doubt. Anger and envy belong to
 hostility; the prose explains that they arise from it.

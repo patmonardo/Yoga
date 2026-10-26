@@ -13,7 +13,7 @@ VAK 4.85 used a threefold practical account of results. This verse returns to
 the complete Abhidharma taxonomy of five results and asks which result
 relations belong to each class of action.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 yāni pūrvaṃ pañca phalāny uktāni, teṣāṃ katamat karma katibhiḥ phalaiḥ
@@ -47,7 +47,7 @@ regression after `[255|14]`; it is read as `[255|15]`. The transmitted
 conjectural compound division. The witness's `karmaṃ` at `[256|01–02]` is
 normalized to `karma`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Of the five results explained earlier, which kinds of action possess which
 results?

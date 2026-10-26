@@ -47,7 +47,7 @@ uncertain. Because the Kārikā's `āyasaḥ` securely identifies Cakravāḍa a
 iron, the conventional translation follows that explicit reading while
 leaving the damaged prose form visible for later review.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Aśvakarṇa, Vinitaka, and Mount Nimindhara complete the list. These are the
 eight great mountains established upon the golden maṇḍala. Sumeru is in the
 middle, while the others are positioned in surrounding arrangements around

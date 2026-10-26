@@ -52,7 +52,7 @@ The verse's `mṛtyūpapatti-` preserves the regular sandhi of `mṛtyu +
 upapatti` and agrees with the running witness and Devanāgarī. The earlier
 IAST `mṛtyupapatti-` was a transcription error.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What is this so-called intermediate existence?
 

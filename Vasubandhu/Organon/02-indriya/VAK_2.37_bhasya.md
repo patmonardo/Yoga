@@ -12,7 +12,7 @@
 > included in a Realm, acquisition belongs to that same Realm;
 > for dharmas not included in a Realm, acquisition has four classes in all.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > sā kilaiṣā praptiḥ
 > traiyadhvikānāṃ trividhā
@@ -39,7 +39,7 @@ indentation. Thus the source's *praptiḥ*, *anāgatyā*,
 the contextual reading where these are defective; no collation is
 claimed. The trainee-status question at 64.25 begins the 2.38 unit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 This acquisition, it is said, is threefold for dharmas of the three times.
 For past dharmas there is past acquisition, future acquisition, and

@@ -23,7 +23,7 @@ Kārikā study: [`VAK_8.43.md`](./VAK_8.43.md).
 
 **Witness.** Pradhan 460|12–14. Voice: Vasubandhu. Verse + colophon.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Knowing thus that the Sage's teaching has its breath at the throat, and that
 > this is the season of strength for the stains, those who desire liberation must

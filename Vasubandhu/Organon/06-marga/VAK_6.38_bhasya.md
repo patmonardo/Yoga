@@ -84,7 +84,7 @@ while the study verse has `ārūpyagaḥ`; the prose itself reads
 `ārupyago`. Uneven forms such as `ardhpluto`, `vyayakīrya`, and
 `dhyānacyāt` await collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 That Akaniṣṭha-bound upward-streamer is threefold: leaper,
 half-leaper, and one who traverses every station. The leaper has

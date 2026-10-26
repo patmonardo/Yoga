@@ -24,7 +24,7 @@ The first partition is 1 + 12 + 9 = 22 at the level of faculty groups,
 with the stated life exception. The second is 1 + 10 + 11 = 22. The
 groups overlap because the predicates differ.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > katīndriyāṇi vipākaḥ kati na vipākaḥ / ekāntena tāvat /
 > vipāko jīvitam /
@@ -165,7 +165,7 @@ sthitikālāvedha is the
 impetus that determines duration. Vipākoccheṣa is a remainder of
 maturation. These construals remain provisional.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How many faculties are maturation, and how many are not? First, as a general rule, life is maturation. But when an arhat monk sustains the lifespan-formations, of what is that life-faculty the maturation? According to the treatise, an arhat with extraordinary powers and mastery of mind gives a bowl, a robe, or another requisite for monastic life to the community or to an individual. Having directed his resolve, he enters the prāntakoṭika fourth dhyāna. On emerging, he forms an intention and says: “May what would mature as resources mature as lifespan.” It does so. Those who hold that a remainder of maturation ripens say that, by the power of cultivation, he draws forth and experiences the remaining maturation of action done in a previous birth.
 

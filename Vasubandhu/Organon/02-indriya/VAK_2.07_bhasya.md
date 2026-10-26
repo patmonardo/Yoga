@@ -10,7 +10,7 @@
 > is agreeable bodily feeling. But in the third dhyāna, that agreeable
 > mental feeling is Pleasure-Faculty.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > tatra cakṣurādīnāṃ puruṣendriyaparyantānāṃ kṛto nirdeśaḥ /
 > jīvitendriyasya viprayuktatvād viprayukteṣv eva kariṣyate nirdeśaḥ /
@@ -34,7 +34,7 @@ taken here.
 
 Word division is editorial. Karisyate → kariṣyate, karttavyaḥ → kartavyaḥ, kāyikī śāta vedanā → kāyikī śātā vedanā. Upaghātikā follows the research bhāṣya against the running upadhātikā, for the contrast with anugrāhikā. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The faculties beginning with the eye and extending through the male faculty have been explained. Because the life-faculty is dissociated from mind, it will be explained among the factors dissociated from mind. Those beginning with faith will be explained among the mental factors. The faculties beginning with pleasure, and those beginning with the faculty called “I shall know,” remain to be explained. That explanation is now given.
 

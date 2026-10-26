@@ -34,7 +34,7 @@ identifies `pāda` as one quarter of a krośa and names all six Desire Realm
 classes. `Tataḥ param`, “beyond that,” closes the verse's explanation while
 pointing forward; the further Form Realm measures belong to the next unit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Among the Desire Realm devas, bodily measure increases by quarter-krośas, up
 to one and a half krośas. A quarter is one fourth of a krośa. The body of a
 Cāturmahārājakāyika is one such quarter; that of a Trāyastriṃśa is two

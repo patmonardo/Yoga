@@ -60,7 +60,7 @@ The first three grounds qualify *kṣānti*-fruit cases; the prose adds domain
 transcendence for *jñāna*-fruit abandonment. This does not make all four
 grounds an undifferentiated condition for every *parijñā*.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why is not each individual abandonment established as a
 *parijñā*? First, abandonment that is a fruit of *kṣānti*

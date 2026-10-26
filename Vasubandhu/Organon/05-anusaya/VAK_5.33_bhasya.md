@@ -56,7 +56,7 @@ editorial. The alternative explanation beginning `apare`
 has compressed syntax, so its precise referent remains
 provisional.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “From that comes grasping an extreme.” From self-view comes
 extreme-view: one grasps the self as permanent or as subject

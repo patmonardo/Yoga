@@ -52,7 +52,7 @@ breaks editorial. The next kārikā begins at [373|09]. Source forms
 such as `śraddhādhhimuktijāḥ`, `akokpyadharmāṇaṃ`, and
 `sāmayikyeṣām` remain as transmitted.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The earlier discussion said that, if the arhat is immovable, Knowing
 of non-arising follows Knowing of exhaustion. Are there distinctions

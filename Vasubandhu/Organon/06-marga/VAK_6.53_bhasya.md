@@ -60,7 +60,7 @@ This is the complete running span [370|08]–[370|22] in
 removed and line breaks editorial. The running verse's
 `laukikāoptaṃ` and `phalalm` remain as transmitted.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The next two criteria are acquisition of the eight Knowings and
 cultivation of the sixteen aspects. The previous Path is relinquished

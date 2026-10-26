@@ -33,7 +33,7 @@ compressed or damaged forms (`saṣkṛtāsaṃskṛtā`, `dharmakhyam`, `dukha�
 `rūpārupyāvacaraṃ`). The running text above is a reading normalization,
 not a collated edition. Voice is Vasubandhu throughout; no opponent.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Conventional [knowledge] has all objects.
 >

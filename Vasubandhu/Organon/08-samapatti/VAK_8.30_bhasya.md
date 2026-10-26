@@ -24,7 +24,7 @@ Kārikā study: [`VAK_8.30.md`](./VAK_8.30.md).
 
 **Witness.** Pradhan 452|18–453|11. Voices: Vasubandhu; objector (false if they are not happy?).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Equanimity has the nature of non-greed. How then does it oppose ill will?
 > Ill will is drawn by greed. A nature of both [non-greed and non-hatred] is

@@ -61,7 +61,7 @@ passage, punctuation makes explicit the three contrasts carried by the
 Bhāṣya: seclusion-born joy and pleasure, samādhi-born joy and pleasure, and
 pleasure without joy.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Here in the kāmadhātu, the three modes are to be understood.
 
 There are three modes of sensual-desire rebirth among humans and the

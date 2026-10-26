@@ -64,7 +64,7 @@ regularizes those features. Its reading after the wind-circuit,
 rendered provisionally as describing winds that bear the upper courses of the
 moon, sun, and stars. No external critical reading has been silently inserted.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Now, upon what are the moon and sun established? Upon wind.
 
 Winds in the intermediate space, produced through the governing efficacy of

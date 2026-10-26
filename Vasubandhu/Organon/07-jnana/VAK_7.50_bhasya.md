@@ -30,7 +30,7 @@ Kārikā study: [`VAK_7.50.md`](./VAK_7.50.md).
 **Witness.** Pradhan 426|11–427|05. `Śuddhakāddhacyānād`, `gatitaḥ` unrestored.
 Voices: Vasubandhu; question on direct emergence.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > First-dhyāna results: two construction-minds — desire-domain and first-dhyāna.
 > Second: three — desire, first, second. Likewise four and five for the third and

@@ -32,7 +32,7 @@ duḥkhāduḥkhāsukhavedanīyāv api yojyau.
 ta ete ṣoḍaśa sparśā bhavanti. uktaḥ sparśaḥ.
 ```
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 There are three beginning with pleasant-feeling-bearing Contact.
 
 There is pleasant-feeling-bearing Contact, painful-feeling-bearing Contact,

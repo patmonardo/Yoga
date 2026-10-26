@@ -10,7 +10,7 @@
 > has eight constituents. A soundless cluster with the body-Faculty has
 > nine; with body and one other Faculty—eye, ear, nose, or tongue—it has ten.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > idamidānīṃ vicāryate /
 > kimete saṃskṛtā dharmā yathā bhinnalakṣaṇā evaṃ bhinnotpādā utāho niyatasahotpādā api kecitsanti /
@@ -75,7 +75,7 @@ Sūcītūnī, saṃgrahaghṛti, avyati bhede, taddravyasaṃsthānenāpi,
 ayivahṇidam, and kaḥ punaryatsa remain visible above. Their
 contextual English readings are provisional, not independent collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The question now is whether conditioned dharmas, distinct in characteristic, also arise separately, or whether some necessarily arise together. Some do, he says. Dharmas are classified here in five groups: Form, consciousness, mental factors, formations dissociated from consciousness, and the unconditioned. The unconditioned does not arise. For Form dharmas, the rule is as follows.
 

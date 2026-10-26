@@ -22,7 +22,7 @@ Kārikā study: [`VAK_8.29.md`](./VAK_8.29.md).
 
 **Witness.** Pradhan 452|04–17. Voices: Vasubandhu; Vaibhāṣikas; preferred alternative.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Now the qualities that rest on samādhi. Four immeasurables: friendliness,
 > compassion, sympathetic joy, and equanimity — because they take immeasurable

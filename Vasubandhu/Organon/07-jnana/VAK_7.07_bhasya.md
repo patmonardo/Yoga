@@ -43,7 +43,7 @@ Both voices are kept. E-text irregularities (`na pounaḥ`, `sākṣātakṛto`,
 that follows (`bhāṣyākṣepāt`, `jpratyakṣavṛttitvādvā`) is not restored here.
 Ten-name recapitulation at 394|16–18 is noted, not re-derived.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Now, what is the difference between exhaustion-knowledge and
 > non-arising-knowledge?

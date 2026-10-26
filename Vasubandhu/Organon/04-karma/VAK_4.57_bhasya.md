@@ -11,7 +11,7 @@
 This classifies *feeling as maturation*, not every feeling that may
 occur in the life of someone affected by such karma.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 vipākaḥ punarvedanāpradhānaḥ / tadidānīṃ vicāryate /
@@ -44,7 +44,7 @@ witness's form above and translate the evident corrected reading.
 Line breaks, punctuation, and verse numbering are editorial. The
 question about `cittakṣepa` at [233|16] starts the next unit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Maturation, moreover, has feeling as its predominant aspect. This
 is now examined. Could a karma mature with mental feeling alone as

@@ -47,7 +47,7 @@ and punctuation are editorial. The running verse's
 their exact lexical identities remain uncertain. The
 source also has `āhlīkya` in the closing list.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Of these anuśayas, how many belong to the mental level, and
 how many can belong to the six cognition groups? In

@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.42.md`](./VAK_7.42.md).
 **Witness.** Pradhan 421|03–12. `Ṛddhhi`, `cyutyutpapāda` unrestored. Voice:
 Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > These, then, are qualities shared with śrāvakas — the higher knowledges and
 > the rest — also with ordinary persons.

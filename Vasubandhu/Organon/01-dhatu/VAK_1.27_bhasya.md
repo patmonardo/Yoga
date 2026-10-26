@@ -11,7 +11,7 @@
 
 The commentary extends the eighty thousand into the rule, then applies it. Principal nature and the attended complex are different scopes.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > yathaitāny aśītir dharmaskandhasahasrāṇy eṣv eva pañcaskandheṣu
 > pratipāditāni / tathā 'nye 'pi yathāyogaṃ skandhāyatanadhātavaḥ /
@@ -38,7 +38,7 @@ the sixty-two Principles. The next question opens 1.28.
 
 Word division and punctuation are editorial. The running source's `opratipāditāni`, `pratiopādyāḥ`, `asmiṃacchāstre`, `saṃpradharya`, and `gandharsāyatana` are normalized to `pratipāditāni`, `pratipādyāḥ`, `asmiñ śāstre`, `saṃpradhārya`, and `gandharasāyatana`. `Aṣṭāvalobha` is divided as `aṣṭāv alobha`. The compressed sound-mind-dharma instrumental is read as one plural. The five-member compound is retained as transmitted. Liberation is not repeated before knowledge-and-vision in the running compound. That relation is supplied in the translation. It is not inserted into the Sanskrit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Just as these eighty thousand Dharma-collections have been placed in these very five Bases, so other Bases, Essences, and Principles stated in other sūtras are to be assigned among those already stated, having determined each one's own characteristic as set out in this treatise.
 >

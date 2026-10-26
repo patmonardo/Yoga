@@ -48,7 +48,7 @@ continuous text makes provisional spacing and sandhi repairs sufficient for
 readability; it is not offered as a critical edition. The exact form of
 `pakvakṣīraśarībhāva` especially requires control against other witnesses.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Above it, the water-maṇḍala has a vertical extent of eleven
 hundred-thousand plus twenty thousand yojanas. The word “maṇḍala” is carried
 forward from the preceding verse.

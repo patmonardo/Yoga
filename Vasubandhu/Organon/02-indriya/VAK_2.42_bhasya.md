@@ -12,7 +12,7 @@
 > only in the next rebirth; it is not for a noble person and is acquired
 > only as a present instance.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > atha samāpattī iti yaduktaṃ katame te samāpattī /
 > asaṃjñisamāpattirnirodhasamāpattiśca /
@@ -64,7 +64,7 @@ remain visible. The two name-construals and reportive *kila*
 remain in their places. The question at 69.24 introduces the
 attainment of cessation in 2.43.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What are the two attainments? The non-reflective attainment and the attainment of cessation. What is the non-reflective attainment? Just as the non-reflective was called cessation of consciousness and the mental factors, so is this. Attainment of the non-reflective beings, or attainment that is non-reflective. It too is that cessation. That much likewise carries. It is in the final dhyāna, the fourth, not another ground. Why do they enter it? By the wish for release. They consider it an escape, and enter wishing for liberation.
 

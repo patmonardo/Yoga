@@ -12,7 +12,7 @@
 > and maturation. The two attainments and non-acquisition are homogeneous
 > outflows only.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > sabhāgatā sā tu punarvipāko 'pi
 > na kevalaṃ naiḥṣyandikī kāmarūpārūpyāvacarī /
@@ -35,7 +35,7 @@ lines as 81.13–14; its spellings, spacing, and readings are retained.
 The opening completes 2.47's `tathā`. At 82.19–20 the text turns
 to the causes and Conditions introduced for 2.49.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Same-class is likewise [classed with sentient beings, a homogeneous
 outflow, and unobscured-indeterminate, as stated immediately before].

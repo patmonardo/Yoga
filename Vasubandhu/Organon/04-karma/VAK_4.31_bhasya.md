@@ -13,7 +13,7 @@ The running unit extends from [215|14] through [216|12–13] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about refuge at
 [216|13–14] opens the next discussion and is reserved for 4.32.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 sarve cet saṃvṛtā ekadeśakāryādayaḥ katham /
@@ -71,7 +71,7 @@ The later quotation has `paripūrṇakārī`; the two forms are not silently
 made identical. The quoted formula containing `prāṇāpetaṃ` is
 especially uncertain, and the passage itself disputes that reading.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “If all are restrained, how can there be one-part practitioners and
 the rest?” If every upāsaka stands in lay restraint, why did the

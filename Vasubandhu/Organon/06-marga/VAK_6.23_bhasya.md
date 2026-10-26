@@ -65,7 +65,7 @@ breaks are editorial. The transmitted `mṛdvacyā`, `vacyāvartya`, and
 `parahitkriyā` remain unregularized; their precise segmentation awaits
 collation. The next unit begins at [348|20].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Even after regression, one who attained the Summits does not cut off the
 wholesome roots. Such a practitioner may nevertheless enter painful

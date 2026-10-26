@@ -10,7 +10,7 @@
 > six, six, and two kinds; for wholesome Form Realm mind, of three;
 > for trainee mind, of four; for the remainder, of that mind itself.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > yāni dvādaśa cittāni uktānyeṣāṃ katamasmiṃścitte katīnāṃ lābhaḥ /
 > kliṣṭe traidhātuke lābhaḥ ṣaṇṇāṃ ṣaṇṇāṃ dvayoḥ
@@ -52,7 +52,7 @@ and separator rules are omitted; Sanskrit spelling and damaged
 readings are retained. The following third-chapter heading begins
 at 110.09.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Of the twelve kinds of mind previously listed, when a given kind
 is present, how many kinds can be acquired? When an afflicted

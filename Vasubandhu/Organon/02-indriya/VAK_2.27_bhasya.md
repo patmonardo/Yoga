@@ -8,7 +8,7 @@
 
 > Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > krodhopanāhaśāṭhyerṣyāpradāsamrakṣamatsarāḥ /
 > māyāmadavihiṃsāś ca parīttakleśabhūmikāḥ // 2.27 //
@@ -26,7 +26,7 @@ parīttakleśabhūmikāḥ, and nirdekśa to nirdeśa. No independent
 collation is claimed. This class-name lacks the mahā of the name
 at 2.23; neither is silently changed to match the other.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Anger, resentment, crookedness, envy, spite, concealment, stinginess, deception, intoxication, and harmfulness belong to the ground of limited afflictions. They are so called because their range is limited affliction: they are associated with ignorance only when it is abandonable through cultivation and belongs to the mental sphere. These factors will be explained later among the secondary afflictions.
 

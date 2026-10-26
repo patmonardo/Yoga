@@ -49,7 +49,7 @@ rūpaviṣayatvāt*. In the closing compound, local *nāsikāvila* is read as
 *nāsikābila*, “nostril-opening”; this repair remains provisional. This is
 a working witness, not a critical text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Objection. Should there not be twenty-one Principles? There are two eyes, two
 ears, and two nostrils.

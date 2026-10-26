@@ -135,7 +135,7 @@ provisionally normalized, including `skndhabheda`, `paṭhacyate`, `uttrasyā`,
 technical alternatives remain textually uncertain and require a critical
 witness. The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Intermediate existence exists because it is expressly stated. A sūtra says:
 “There are seven existences: hell-existence, animal-existence, preta-

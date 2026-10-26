@@ -51,7 +51,7 @@ measure of Cakravāḍa. The continuous text regularizes punctuation and sandhi;
 the exact numerical compound for 312½ yojanas remains provisional pending
 comparison with critical witnesses.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Across the eight outer heights there is successive diminution by halves. The
 height of Sumeru above the water is eighty thousand yojanas. Yugandhara is
 half of that, forty thousand yojanas. Īśādhara is half of Yugandhara, and the

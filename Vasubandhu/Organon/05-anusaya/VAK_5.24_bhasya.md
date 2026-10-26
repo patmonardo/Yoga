@@ -48,7 +48,7 @@ are editorial; the Sanskrit is taken from the running IAST
 source. The Kārikā is dispersed through the prose, and its
 four parts have been kept at their source positions.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “By these future mental afflictions, everywhere.” The earlier
 condition “where they have not been abandoned” continues.

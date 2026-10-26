@@ -31,7 +31,7 @@ forms (`śīṇā`, `tadvala-`, `śranye`, `vahirdeśakāḥ`) unrestored. Voice
 Vasubandhu; Kashmiris (closure); bahirdeśaka (further aspect from śāstra);
 objection offering a weaker reading; reply `anyatrāvacanāt`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The remaining two have fourteen aspects, emptiness and non-self excluded.
 >

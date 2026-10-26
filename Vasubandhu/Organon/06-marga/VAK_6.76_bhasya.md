@@ -56,7 +56,7 @@ yaduta kṣayajñānamanutpādajñānaṃ ca /
 
 This is the complete continuous unit [388|03]–[388|18–19] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The opening repeats the twofold division introduced at the end of 6.75. The source's spellings, including `vimuktiskndho`, are retained. A new question about which consciousness is liberated begins at [388|20].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Liberation is conditioned and unconditioned. Unconditioned liberation is the abandonment of afflictions; conditioned liberation is the liberative determination of one beyond training. The unconditioned liberation is joined with the factors of one beyond training, whose factors are conditioned. That same conditioned liberation is the two liberations named in the sūtra: liberation of consciousness and liberation through Prajñā. The Base of liberation should be understood in the same way.
 

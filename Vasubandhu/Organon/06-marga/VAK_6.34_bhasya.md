@@ -168,7 +168,7 @@ anomalous `[257|05]` label within this unit. Readings including
 remain uncorrected in the witness.
 The study verse prints `kulaṃkulaḥ`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 With nine affliction grades everywhere, the person established in a fruit
 who has not exhausted what cultivation must abandon is seven-at-most.

@@ -14,7 +14,7 @@ The kārikā completes the account begun at 4.79. It identifies who can sever
 the wholesome roots, defines the severance as non-endowment, and specifies
 the cognition through which their continuity is restored.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 chinatti strī pumān
@@ -77,7 +77,7 @@ is printed above while the witness irregularity is recorded here. Several
 compounds and sandhi divisions have likewise been opened for readability;
 the doctrine has not been rewritten.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Both a woman and a man sever the roots. Others say that a woman does not,
 because her resolve, vigor, and discernment are weak. But the following

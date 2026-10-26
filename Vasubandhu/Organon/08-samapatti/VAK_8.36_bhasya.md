@@ -30,7 +30,7 @@ Kārikā study: [`VAK_8.36.md`](./VAK_8.36.md).
 
 **Witness.** Pradhan 457|13–458|10. Voices: Vasubandhu; eke (wind).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Ten totality-Essences — from uninterrupted complete pervasion. Earth, water,
 > fire, wind, blue, yellow, red, white; and the totalities of infinite space and

@@ -42,7 +42,7 @@ first explanation, and the boat quotation has
 `gratiprasravdhyā`; both are preserved rather than silently
 repaired. The latter is particularly uncertain.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “These cause to remain and flow; they carry away, fasten,
 and take hold. These are the explanations of their names

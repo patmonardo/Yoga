@@ -9,7 +9,7 @@
 > Ten included in the Form Base are resistant. Eight of those ten are
 > indeterminate: those same ten excluding Visible Form and Sound.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > ye punar ime aṣṭādaśa dhātava uktās teṣāṃ kati sanidarśanāḥ katy anidarśanāḥ /
 >
@@ -108,7 +108,7 @@ the immediate context supplies them. The Prajñapti quotation is kept as
 reported, including its unfamiliar animal names. This is a working witness,
 not a critical collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Of these eighteen Principles that have been stated, how many are visible, and how many are not?
 >

@@ -53,7 +53,7 @@ The research excerpt stops at [288|18] and omits the final
 objection about whether the dharmajñāna side could support
 higher-domain afflictions.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 For false view and the other anuśayas that take cessation as
 support, only the cessation of their own level is their support:

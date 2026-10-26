@@ -25,7 +25,7 @@ Kārikā study: [`VAK_8.06.md`](./VAK_8.06.md).
 **Witness.** Pradhan 437|03–13. Transition at 437|13–14 belongs with 8.07.
 Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > For savoring is craving. Worldly wholesome attainment is called pure because
 > of conjunction with pure dharmas beginning with non-greed. That pure attainment

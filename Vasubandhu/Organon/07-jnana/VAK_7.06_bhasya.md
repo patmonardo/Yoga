@@ -37,7 +37,7 @@ Damaged strings (`kāmadhāturdhvadhātupratikṣālambanatvāttayoḥ`,
 clause left unrestored; paired restriction is enough. Voice: Vasubandhu;
 `ity apare` for first/second/fifteenth.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Other-mind knowledge belonging to the dharma-knowledge side does not know
 > citta belonging to the anvaya-knowledge side. Other-mind knowledge

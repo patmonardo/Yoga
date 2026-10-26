@@ -9,7 +9,7 @@
 > Mind-Cognition Principle. These three are Impure and Pure; the remaining
 > fifteen are Impure.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > ārūpyāptā manodharmamanovijñānadhātavaḥ /
 >
@@ -31,7 +31,7 @@ The unit runs from `[021|20]` through `[022|01]`. Word division is editorial;
 the local *tadāśrrayālambanāḥ* is read *tadāśrayālambanāḥ*. The question
 about applied thought and investigation opens 1.32.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Connected with the Formless are the Mind Principle, the Dharma Principle, and the Mind-Cognition Principle.
 >

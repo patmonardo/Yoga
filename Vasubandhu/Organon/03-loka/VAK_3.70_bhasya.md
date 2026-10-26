@@ -39,7 +39,7 @@ witness is clear apart from spacing and sandhi, regularized here. The
 commentary explicitly supplies `yathāsaṃkhyam`, “respectively,” and identifies
 `rūpiṇaḥ` as rūpāvacara devas.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 How large are they when they are born?
 
 Among these, a child resembling one of five years up through one resembling

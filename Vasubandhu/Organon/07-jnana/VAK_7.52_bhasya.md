@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.52.md`](./VAK_7.52.md).
 **Witness.** Pradhan 428|01–12. Flesh-example `adhhiṣṭhānāt` unrestored. Voices:
 first account; `apare`; Vasubandhu on counts.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Does the sustaining determination continue only while one lives, or also of
 > one who has died? [First account:] even of the dead — from the standing of

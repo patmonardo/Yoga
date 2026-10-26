@@ -48,7 +48,7 @@ samāpattita eva samāpattīndriyaśca paripūrṇatvaṃ nāsti vina phalena /
 
 This is the complete running unit [381|01]–[381|13] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The opening question asks about the last two person designations of 6.63. At [381|14], the next verse begins its account of completeness beyond training. The quoted scriptural line at [381|06–07] is retained in the witness; its compressed wording makes a fully literal rendering uncertain.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The commentary asks who is called liberated in both respects and who is called liberated by Prajñā. One who has gained the attainment of cessation is liberated in both respects, because the powers of Prajñā and samādhi free that person from the obstruction of afflictions and from the obstruction to meditative releases. The other is liberated through Prajñā, because that power alone frees the person from afflictive obstruction.
 

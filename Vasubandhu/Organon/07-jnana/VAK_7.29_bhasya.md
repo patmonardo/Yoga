@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.29.md`](./VAK_7.29.md).
 member recovered from 7.30 pairing with cyutyupapatti, source line untouched.
 `Vā` = matavikalpa / scope. Voice: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The power of knowing dhyānas, liberations, concentrations, and attainments
 > is nine knowledges, excluding cessation-knowledge. Likewise the powers of

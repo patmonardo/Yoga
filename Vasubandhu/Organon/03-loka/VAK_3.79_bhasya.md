@@ -33,7 +33,7 @@ dvādaśamāsakena saṃvatsareṇa, divyāni pañcavarṣaśatāny āyuḥpram�
 The source uses both `ahorātra` and `rātrindiva` for the day-and-night unit;
 both are retained in the Sanskrit rather than silently normalized.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 The human lifespans have been stated; now those of the devas must be
 explained. Their day-and-night must first be established, for only then can
 their lifespan be stated. So that measure is established for them.

@@ -52,7 +52,7 @@ immediate prose and the official Kārikā study, so this division
 is an explicit conjecture. The compound `aparapīḍāpravṛttatvāt` is also
 left as transmitted; its negative scope needs care.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Of the ninety-eight anuśayas, how many are unwholesome and how
 many ethically indeterminate? “Above, all are indeterminate.”

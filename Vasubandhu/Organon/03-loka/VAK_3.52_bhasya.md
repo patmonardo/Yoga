@@ -48,7 +48,7 @@ and `hṣārodakasya`. The continuous text provisionally restores evident word
 division and reads the latter as `kṣārodakasya`; these are not presented as
 critical-edition decisions.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 That is the inner ocean. For there are two oceans, an inner and an outer.
 That Śītā—the first—is the inner ocean.
 

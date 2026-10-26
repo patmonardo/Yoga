@@ -45,7 +45,7 @@ The transmitted phrase `sarveṣāṃ mahiṣṭhaḥ` is retained as “the hig
 all,” while recognizing that the scope of this evaluative statement is not
 further elaborated in this unit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 On those terraces are the Karoṭapāṇis, the Mālādhāras, and the Sadāmadas; and
 there are also Mahārājika devas on the seven mountains.
 

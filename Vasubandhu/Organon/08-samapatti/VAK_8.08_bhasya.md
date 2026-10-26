@@ -24,7 +24,7 @@ Kārikā study: [`VAK_8.08.md`](./VAK_8.08.md).
 
 **Witness.** Pradhan 438|04–12. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > In the third dhyāna, five limbs: equanimity, mindfulness, clear comprehension,
 > ease, and samādhi. For stability is a synonym of samādhi — from the sūtra:

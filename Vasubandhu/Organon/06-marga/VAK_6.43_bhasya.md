@@ -103,7 +103,7 @@ Source labels are removed and line breaks editorial. The witness's
 uneven `vacyavakīrṇa`, `saṃmukhīdriyante`, `savijñānakāṃ`, and
 `ṣaṇṇṇavakāni` remain uncorrected pending collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why are there exactly five rebirths in the Pure Abodes? The fourth
 dhyāna cultivated through intermingling is fivefold, graded from mild

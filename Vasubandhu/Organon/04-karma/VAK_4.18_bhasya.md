@@ -14,7 +14,7 @@ The running Bhāṣya unit begins at [208|13] and ends at [209|03] in
 mind-following restraints of 4.17. The inquiry into how long manifest and
 non-manifest action are possessed begins a new unit at [209|04].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 punas tāv eva dhyānānāsravasaṃvarau prahāṇasaṃvarākhyāṃ labhete.
@@ -56,7 +56,7 @@ introducing the four-case analysis. The witness's `punardvigrahaṇaṃ` is
 divided as *punar dvigrahaṇaṃ* without replacing its wording with a
 smoother paraphrase.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Further, those same two restraints, meditation restraint and
 uncontaminated restraint, receive the name “abandonment restraint.” At

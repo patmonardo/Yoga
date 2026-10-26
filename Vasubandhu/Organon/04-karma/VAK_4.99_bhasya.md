@@ -9,7 +9,7 @@
 > endowed with it. He undergoes maturation in Avīci for a kalpa; with additional
 > actions of immediate retribution, the pains are greater.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 yo hi bhinnaḥ tasya bhedo na bhettuḥ.
@@ -45,7 +45,7 @@ forms: `tad-avadyaṃ`, `kalpam`, and `adhikair`. Word division and sandhi
 are editorial. The study stops before the question about who can divide
 the Saṅgha at `[261|07–08]`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The division belongs to the one divided, not to the divider. With what,
 then, is the divider endowed?

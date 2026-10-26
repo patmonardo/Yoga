@@ -11,7 +11,7 @@
 > and male Faculties are separately designated within the body-faculty
 > because they govern female-being and male-being.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > apare punar āhuḥ / naiva cakṣuḥśrotrābhyām ātmabhāvaparikarṣaṇaṃ
 > vijñāya viṣamaparihārāt / vijñāne tu tayor ādhipatyam /
@@ -44,7 +44,7 @@ The unit runs from apare punar āhuḥ at printed 39.03 through etad dhi puṃsa
 
 Word division and punctuation are editorial. Mechanical repairs: śrītra → śrotra, parikaṛṣaṇa → parikarṣaṇa, srītva → strītva, arthantarabhūte → arthāntarabhūte, paratilabhate → pratilabhate, puṃstvayyor → puṃstvayor. The defective svasyasvasyārthasyopalabdhādhipatyam is read as svasya svasyārthasyopalabdhāv ādhipatyam. The running cakṣuṣaścakṣūrūpopalabdhāvadhikamaiśvaryam is provisionally read as cakṣuṣaś ca rūpopalabdhāv adhikam aiśvaryam, omitting the repeated cakṣūr before rūpa. The compressed striyākṛtiḥ svaraceṣṭā abhiprāyāḥ is retained. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Others, however, say: it is not by the eye and ear themselves that embodied existence is preserved, since danger is avoided after it has been cognized. Their governing efficacy concerns cognition. Nor is seeing visible form or hearing sound something other than cognition, such that a separate governing efficacy could properly be assigned to them as specific causes. Therefore their status as faculties is not established in this way. How, then?
 

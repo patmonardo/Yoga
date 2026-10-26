@@ -44,7 +44,7 @@ study uses `uttarādharagocarāḥ` in light of the higher/lower prose.
 The source's `niḥsarṇataḥ` and other forms remain as transmitted.
 The next topic opens at [368|18].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Mundane liberation and uninterrupted Paths operate, respectively,
 with aspects beginning with peacefulness and coarseness. Liberation

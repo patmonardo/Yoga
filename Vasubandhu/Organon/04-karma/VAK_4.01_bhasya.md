@@ -14,7 +14,7 @@ The Kārikā study is `VAK_4.01.md`. The Bhāṣya specifies that the world at
 issue includes beings and their receptacle-world, and that the karma at
 issue is the karma of beings.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 oṃ namo buddhāya.
@@ -65,7 +65,7 @@ which is retained here rather than silently recast. The HTML copy in
 independent Sanskrit witness. The sūtra citation's transmitted `ce"ti`
 is divided above as `ca” iti`; that expansion is editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Homage to the Buddha.
 

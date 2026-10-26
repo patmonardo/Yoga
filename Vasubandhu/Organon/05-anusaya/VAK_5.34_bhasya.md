@@ -38,7 +38,7 @@ editorial. The post-verse `kadācitkial` is retained as
 transmitted; the likely particle `kila` remains a proposed
 reading, not a silent correction.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 When an affliction arises, it arises through three conditions:
 an unabandoned anuśaya, an object that has appeared, and

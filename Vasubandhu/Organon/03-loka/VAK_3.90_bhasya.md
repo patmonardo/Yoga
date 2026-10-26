@@ -107,7 +107,7 @@ without treating the damaged reading as certain. Several technical compounds
 and a short fire-propagation explanation are difficult; their translation
 below follows the clear sequence without pretending to settle every detail.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 The four kinds are the intermediate kalpa, contraction kalpa, expansion kalpa,
 and great kalpa. First, the contraction kalpa runs from the non-arising of
 beings in the narakas through the exhaustion of the receptacle-world. There are

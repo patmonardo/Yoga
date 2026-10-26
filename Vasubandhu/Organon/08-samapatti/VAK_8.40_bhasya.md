@@ -26,7 +26,7 @@ Kārikā study: [`VAK_8.40.md`](./VAK_8.40.md).
 **Witness.** Pradhan 459|15–460|03. Voices: Vasubandhu, first person. Opening
 question compressed — construe still a review point.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Is the Abhidharma spoken in this treatise that same Abhidharma taught as
 > śāstra? This Abhidharma has been related by me *for the most part* as established

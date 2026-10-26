@@ -29,7 +29,7 @@ Kārikā study: [`VAK_7.55.md`](./VAK_7.55.md).
 
 **Witness.** Pradhan 429|16–430|10. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > How far does one see with the divine eye? According to the kind of eye one has.
 > Without deliberate exertion, śrāvaka, pratyekabuddha, and Buddha see respectively

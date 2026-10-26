@@ -12,7 +12,7 @@
 > concern conditioned dharmas belonging to one's own continuum and,
 > among the unconditioned, the two cessations.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > nāmakāyādayaśceti
 > ime saṃskārā na cittena asaṃprayuktā naca rūpasvabhāvā iti cittaviprayuktāucyante /
@@ -103,7 +103,7 @@ inquiry begins with *tatra tāvat* at 62.15. The final
 and is excluded here. The source's positive *bhavyas* at 64.09–10
 conflicts with the preceding negative quotation and is retained.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 And groups of names and the rest complete the preceding list. The intervening sentence calls those formations dissociated from consciousness and denies that they have the nature of Form; its conflicting double negative is discussed under 2.35. Among these formations, first: acquisition is obtaining and possession. Acquisition is twofold: obtaining what was not obtained or had been relinquished, and possessing what has been obtained. Non-acquisition is established by the reverse. Of what are acquisition and non-acquisition predicated? Of what belongs to one's own continuum, not another's; no one possesses another's dharmas. Nor are they predicated of what belongs to no sentient continuum; no one possesses what is classed as non-sentient. This is the rule for conditioned dharmas. Among the unconditioned, they concern the two cessations.
 

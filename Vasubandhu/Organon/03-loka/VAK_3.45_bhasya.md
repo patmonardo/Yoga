@@ -35,7 +35,7 @@ evident duplicated nasal have been regularized provisionally. The expression
 `mahālagno 'pi vajreṇa` is textually uncertain and has not been silently
 resolved into a confident critical reading.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 The sentient world has been explained; the container-world is now to be
 explained.
 

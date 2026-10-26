@@ -72,7 +72,7 @@ Source labels are removed and line breaks editorial. The witness's
 `dvivadho`, `vyavakorṇa`, `tatriva`, `tvaṃnabhisaṃskāreṇa`, and other
 uneven forms remain uncorrected pending collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The same non-returner is fivefold. The verse first names final
 completion in an intermediate existence, after arising, with exertion,

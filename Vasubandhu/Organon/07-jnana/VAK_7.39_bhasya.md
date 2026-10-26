@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.39.md`](./VAK_7.39.md).
 
 **Witness.** Pradhan 418|19–419|11. `Ālmvanam` unrestored. Voice: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Speech and Path are its object-support. Pratibhāna-pratisaṃvid has the nature
 > of nine knowledges, except cessation-knowledge. It belongs to all levels,

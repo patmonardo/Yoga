@@ -13,7 +13,7 @@ The Bhāṣya's prose specifies that this result is certain **in the
 present life**. The verse's `sadyaḥ` does not establish an exact
 interval between the act and its result.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kīdṛśaṃ punaḥ kṣetraṃ yatrāvaśyaṃ dṛṣṭadharmavedanīyaṃ karma
@@ -53,7 +53,7 @@ breaks, punctuation, and verse numbering are editorial; the long
 compounds and their spellings are retained. The next source sentence
 at [233|04] opens a new inquiry into maturation and feeling.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What kind of field is there in relation to which karma necessarily
 becomes something to be experienced in this very life? He says: the

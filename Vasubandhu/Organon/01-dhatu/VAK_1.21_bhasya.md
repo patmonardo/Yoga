@@ -47,7 +47,7 @@ papādayiṣyāmaḥ*. Read *pṛthak skandhau*, *viparyastasaṃjñaḥ*, and
 reflection”) is distinct from this damaged later spelling. This is a
 working text, not a critical collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why are the mental factors placed together in the Formations Base, while
 Feeling and Reflection are made distinct Bases?

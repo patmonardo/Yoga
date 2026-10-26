@@ -48,7 +48,7 @@ The prose is punctuated and spaced for reading. In the final sentence,
 of the middle kalpas; the first kalpa's decline and the last kalpa's increase
 each occupy that same duration.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 While the world is expanding, nineteen intermediate kalpas pass during which
 human beings have immeasurable lifespans. As those lifespans gradually
 decrease, they eventually reach ten years. This is the first intermediate

@@ -49,7 +49,7 @@ domains are grouped. The verse is distributed among the
 prose. Spacing and punctuation are editorial. The running
 source's `dṛṣṭyobho` is retained and remains uncertain.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The same anuśayas are taught in sūtra as three āsravas:
 desire, existence, and ignorance; as four floods: desire,

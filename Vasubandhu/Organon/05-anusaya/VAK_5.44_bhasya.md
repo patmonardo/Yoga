@@ -34,7 +34,7 @@ The unit runs [310|17–311|06] in
 division and punctuation are editorial. The opening
 `apare punar āhuḥ` attributes this explanation to “others.”
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Others say: “Unwillingness to go, deviation from the route,
 and doubt about the route are obstacles to going toward

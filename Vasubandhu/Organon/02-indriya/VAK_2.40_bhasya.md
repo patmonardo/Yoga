@@ -12,7 +12,7 @@
 > status. Non-acquisition is relinquished through acquisition of the
 > dharma concerned or through transition of level.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kāmādyāptāmalānāṃ ca
 > trividheti varttate /
@@ -79,7 +79,7 @@ at 67.03–04 is retained. Other damaged readings, including
 independent collation is claimed. The *sabhāgatā* inquiry at
 67.13 begins 2.41.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 For dharmas included in Desire and the other Realms, and for
 *anāsrava* dharmas also, “threefold” continues. Non-acquisition

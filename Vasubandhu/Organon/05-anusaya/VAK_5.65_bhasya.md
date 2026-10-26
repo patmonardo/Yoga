@@ -50,7 +50,7 @@ The anchor copies the separate kārikā; its compact first line is interpreted
 through the prose's three explicit glosses. *Kṣānti* and *jñāna* remain
 distinct technical terms.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The other three *parijñās* are the exhaustion of the
 lower-part bonds, the form influx, and all influxes. The

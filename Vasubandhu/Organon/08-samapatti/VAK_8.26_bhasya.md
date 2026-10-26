@@ -22,7 +22,7 @@ Kārikā study: [`VAK_8.26.md`](./VAK_8.26.md).
 
 **Witness.** Pradhan 450|12–20. Voices: Vasubandhu. Running `akṣaikṣaṃ` controlled by prose `aśaikṣa`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The two further samādhis take an adept's samādhi as object. Emptiness-of-
 > emptiness: an adept's emptiness-samādhi, under emptiness. Non-directedness-of-

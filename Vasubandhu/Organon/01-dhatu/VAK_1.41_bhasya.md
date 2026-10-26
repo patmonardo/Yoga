@@ -10,7 +10,7 @@
 > arising with the five sensory Cognitions is not view, because it does not
 > ascertain.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > aṣṭādaśānāṃ dhātūnāṃ kati dṛṣṭiḥ kati na dṛṣṭiḥ /
 >
@@ -58,7 +58,7 @@
 
 Word division is editorial. The local source runs from [029|13] to [030|02]. Its printed *pradeśu* at [029|14] is read as the kārikā's dual *pradeśau*; several forms in the view list are damaged in the transcription. “The eye sees Visible Forms” at [030|03] begins the argument of 1.42 and is quoted here only to show where this unit hands off.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Of the eighteen Principles, how many are view, how many are not?
 >

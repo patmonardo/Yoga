@@ -31,7 +31,7 @@ Spacing and sandhi are regularized. The Bhāṣya glosses `dhanu` with
 village-relative region of about one krośa; it is not another unit in the
 conversion chain.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Twenty-four finger-breadths make one hasta, and four hastas make one dhanu,
 that is, one measured span. Five hundred of these make one krośa. A region
 about one krośa from a village is conventionally regarded as wilderness.

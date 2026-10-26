@@ -11,7 +11,7 @@
 > unobscured-indeterminate consciousness. Torpor is compatible with all
 > the previously stated cases and adds one wherever it occurs.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > nivṛte 'ṣṭādaśa
 > satkāyāntagrāhadṛṣṭisaṃprayuktaṃ cittaṃ kāmadhātau nivṛtāvyākṛtam /
@@ -36,7 +36,7 @@ tat syāt normalizes the running ato tatra tatsyāt under the
 verse's yatra syāt. This is a contextual reading, not independent
 collation. The transition ya eva kāmadhātau begins 2.31.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 In obscured-indeterminate consciousness there are eighteen mental factors. In the Desire Realm, this is consciousness associated with a view of a self in the personal Bases or with a view that grasps an extreme. Its eighteen are the ten universal great-ground factors, six affliction great-ground factors, and initial and sustained examination. As before, the view adds no separate factor. The other indeterminate consciousness is unobscured; it has twelve factors, the ten universal factors plus the two kinds of examination. Teachers of outlying regions also accept indeterminate regret. On their account, consciousness accompanied by it has thirteen.
 

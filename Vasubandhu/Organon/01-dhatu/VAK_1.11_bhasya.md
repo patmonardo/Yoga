@@ -45,7 +45,7 @@ prose gloss *pravāhaḥ* support the displayed *anubandhaḥ*. The local prose
 also separates `yo 'nu bandha` where this witness reads *yo 'nubandha*.
 These are working repairs, not a critical text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > *Avijñapti* is now to be explained. The verse states:
 >

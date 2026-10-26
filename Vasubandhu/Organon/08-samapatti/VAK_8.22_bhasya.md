@@ -26,7 +26,7 @@ Kārikā study: [`VAK_8.22.md`](./VAK_8.22.md).
 **Witness.** Pradhan 447|18–448|11. Voices: Vasubandhu; `kecit`. Damaged
 `yantabāhyatvāt` left unresolved.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > How many access [items]? Eight — one for each, by which one enters that
 > [principal]. Are they also threefold, and is feeling the same? No. They are

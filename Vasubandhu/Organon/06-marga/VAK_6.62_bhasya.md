@@ -36,7 +36,7 @@ ityate mṛdumṛdvādinavaprakārendriyabhedānnava pudgalā bhavanti /
 
 This is the complete running unit [379|13]–[380|03] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. At [380|04], `sarva eva tvāryapudgalāḥ sapta bhavanti` opens a distinct sevenfold classification that belongs with 6.63. The source's `uttāpanāgata` is retained above; the conventional rendering takes it as arrival through sharpening.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The practitioner who changes faculties relinquishes the fruit along with the weak-faculty Path qualified by that fruit, and acquires the fruit and Path belonging to a sharp-faculty disposition. That is the reason for the preceding restriction: the non-returner fruit is not included in a formless ground.
 

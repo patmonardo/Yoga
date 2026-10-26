@@ -11,7 +11,7 @@
 > Associated cause is mind and mental factors sharing one
 > Basis.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > laukikā api hi
 > prayogajāstayoreva
@@ -66,7 +66,7 @@ from 87.20–21 through 88.27. The opening answers the question at
 87.20, already quoted with 2.52. Source spelling and damaged
 readings are retained; the pervasive-cause question begins at 89.01.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Worldly qualities produced through application are also homogeneous
 causes only of what is equal or superior, not of what is inferior.

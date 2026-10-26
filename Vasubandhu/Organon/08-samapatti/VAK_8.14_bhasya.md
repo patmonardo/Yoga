@@ -31,7 +31,7 @@ Kārikā study: [`VAK_8.14.md`](./VAK_8.14.md).
 
 **Witness.** Pradhan 442|19–443|12. Voices: Vasubandhu; objector (niyāma).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > How are the pure and other dhyānas and formless attainments acquired?
 >

@@ -9,7 +9,7 @@
 > before the pair [of foremost disciples], after the Sage has passed away, or
 > while the boundary is unbound.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 cakrabhedas tu ṣaṭsu kāleṣu na bhavati. katameṣu?
@@ -43,7 +43,7 @@ The source unit is `[262|10]–[262|19]`. The compound
 the following `pratisaṃdhānīyatvāt` associates the foremost pair with
 reconciliation. Word division and punctuation are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Division of the Dharma Chakra does not occur at six times. Which six?
 

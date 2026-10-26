@@ -52,7 +52,7 @@ katamāni daśa /
 
 This is the complete running unit [382|20–21]–[383|08] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The opening transition also closes 6.66; it is repeated here because it introduces the thirty-sevenfold classification. The question at [383|08] asks which ten dharmas are meant; their list begins at [383|09] with 6.68.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 This same Path again receives the designation *bodhipakṣya*, Bodhi-aligned. There are thirty-seven Bodhi-aligned dharmas: four establishments of recollection, four right abandonments, four bases of spiritual power, five faculties, five powers, seven factors of Awakening, and the noble eightfold Path.
 

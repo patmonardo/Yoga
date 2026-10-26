@@ -13,7 +13,7 @@
 The compressed second half contains three distinct judgments. The Bhāṣya
 separates them before explaining the eightfold list.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 atha kṣetraṃ kathaṃ viśiṣyate?
@@ -71,7 +71,7 @@ is editorial. The list at `[270|21–25]` is reproduced as a witness
 passage, not silently divided into eight numbered items. Its opening
 and joins are uncertain. The next topic begins at `[270|26]`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How is the recipient field distinguished? First, it is distinguished by
 a difference in destination. For it is said by the Blessed One: “Having

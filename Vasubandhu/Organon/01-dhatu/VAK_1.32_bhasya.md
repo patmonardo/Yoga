@@ -9,7 +9,7 @@
 > The last three—Mind Principle, Dharma Principle, and Mind-Cognition
 > Principle—are of three kinds; the remaining ten are without both.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kati savitarkāḥ savicārāḥ / katy avitarkā vicāramātrāḥ / katy avitarkā avicārāḥ /
 >
@@ -57,7 +57,7 @@ hiśabdaḥ*, expressing the restrictive force of *hi*. Damaged forms of
 *dharmadhātu*, *avitarka*, and *vitarkamātra* are normalized above. The
 question why the five are called non-discriminating opens 1.33.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > How many are with vitarka and with vicāra? How many are without vitarka and with vicāra alone? How many are without vitarka and without vicāra?
 >

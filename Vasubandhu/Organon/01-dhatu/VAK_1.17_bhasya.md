@@ -54,7 +54,7 @@ following prose, including *ālambanaṣṭkavyavasathānād* and
 kept: “would be called.” *Cakṣurdhātvāyatanādayaḥ* names the five supports
 beginning with the eye. This is not a critical text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Objection. The six groups of Cognition were said to constitute the Cognition
 Base. Is Mind Principle something else in addition to those six?

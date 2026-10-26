@@ -31,7 +31,7 @@ Kārikā study: [`VAK_7.23.md`](./VAK_7.23.md).
 eleventh knowledge-kind. `Śaikṣasya` not spread over immovability. Voice:
 Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > “Seven knowledges are cultivated” continues.
 >

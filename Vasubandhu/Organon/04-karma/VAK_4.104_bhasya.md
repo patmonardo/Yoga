@@ -10,7 +10,7 @@
 > arhat-killing action if the target becomes an arhat only afterward. For one
 > engaged in immediate-retribution action, dispassion or its fruit cannot arise.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kim avaśyaṃ tathāgatasya duṣṭacittarudhirotpādanād ānantaryam?
@@ -43,7 +43,7 @@ reading `anyakarmapathaprayogaṃ` would make the compound a preparation
 for another action-course, but remains conjectural. The Sanskrit above
 retains the witness form.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Does causing blood to flow from the Tathāgata with a hostile mind
 necessarily receive the immediate-result classification? It does when

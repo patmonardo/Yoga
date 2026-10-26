@@ -10,7 +10,7 @@
 > for later afflicted dharmas on that same level. Maturation cause is
 > unwholesome and wholesome with *āsrava*.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > sarvatragahetuḥ katamaḥ /
 > sarvatragākhyaḥ klilṣṭānāṃ svabhūmau pūrvasarvagāḥ /
@@ -88,7 +88,7 @@ The witness follows [the local running source](../../Sources/kosabhasya.txt)
 from 89.01 through 90.22. Its spellings and damaged readings are
 retained. The temporal classification of the causes begins at 90.23.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What is pervasive cause? Pervasive dharmas that arose earlier on their
 own level cause later afflicted dharmas on that level. They will be

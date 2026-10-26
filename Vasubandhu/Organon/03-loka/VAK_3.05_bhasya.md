@@ -159,7 +159,7 @@ the thought “we saw him” arose in them.
 
 The sūtra continues: “There are form-possessing beings with one body and
 diverse perceptions, such as the Ābhāsvara devas. This is the third station of
-consciousness.” Because the terminal class is named here, the
+Cognition.” Because the terminal class is named here, the
 entire second dhyāna must be understood; otherwise, under which station would
 the Parīttābhas and Apramāṇābhas be placed? They have one body because color,
 sex-characteristics, and bodily configuration do not differ. They have
@@ -192,7 +192,7 @@ and neither pain nor pleasure.
 
 The sūtra continues: “There are form-possessing beings with one body and one
 perception, such as the Śubhakṛtsna devas. This is the fourth station of
-consciousness.” They have one body because their color,
+Cognition.” They have one body because their color,
 configuration, and sex-characteristics do not differ. They have one
 perception because they perceive pleasure.
 

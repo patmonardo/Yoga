@@ -97,7 +97,7 @@ source's `śāstrā gamitatvāt` is represented by the uncertain compound
 thirty-sixfold division, requires collation. The running source remains
 unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 The Mental Rangings connected with the Formless realm are now explained. At
 the threshold of the Formless realm—here, the threshold of the Essence of
 Infinite Space—there are four: Rangings through Form, Sound, Tangible, and

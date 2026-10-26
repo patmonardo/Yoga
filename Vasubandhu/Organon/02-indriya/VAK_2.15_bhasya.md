@@ -10,7 +10,7 @@
 > to cessation; in the Form realm, eight Faculties; in the Desire-realm,
 > ten, nine, or eight.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > tyāga idānīṃ vaktavyaḥ /
 > kasmin dhātau mriyamāṇaḥ katīndriyāṇi nirodhayatīti /
@@ -39,7 +39,7 @@ close belongs to 2.14. The fruit question at 49.05–06 is not taken.
 
 Word division is editorial. Repairs: mriyalmāṇo → mriyamāṇo, ṣubhe → śubhe, trayodaśāeti → trayodaśeti. The uncertain verse wording is kept. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Loss must now be explained. When one dies in a given realm, how many faculties cease? At death in the Formless realm, life, Mind, and neutral feeling cease. In the Form realm, eight cease: those three and the five beginning with the eye. For all beings in the Form realm are spontaneously born; they arise and die with their faculties complete.
 

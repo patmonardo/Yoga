@@ -10,7 +10,7 @@
 
 Distinction applies to both names. Primacy explains the Essence called Form. The gathering of many dharmas, and of the highest, explains the Essence called Dharma.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kiṃ punaḥ kāraṇaṃ daśasv āyataneṣu rūpaskandhasaṃgṛhīteṣv ekaṃ
 > rūpāyatanam ucyate / sarveṣu ca dharmasvabhāveṣv ekaṃ
@@ -36,7 +36,7 @@ other scriptural names opens 1.25.
 
 Word division and punctuation are editorial. The running source's `dharmasvabhaveṣu` and `rūpakayātanam` are read as `dharmasvabhāveṣu` and `rūpāyatanam`. The transmitted `jñāsyata` before `iti` is retained. The final compound is joined so that the explicit `traya`, three, governs the three eyes. These repairs support a normalized reading. They are not a critical reconstruction.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Why, among the ten Essences included in the Form Base, is one called the Form Essence? And why, although all are dharmas by own-nature, is one called the Dharma Essence? The answer is: for the sake of distinction, because of primacy, and because many dharmas and the highest are gathered. One Essence is called Form, and one is called Dharma.
 >

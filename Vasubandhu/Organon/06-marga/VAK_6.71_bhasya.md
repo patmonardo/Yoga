@@ -42,7 +42,7 @@ sāmantakānāṃ balavāhanīyatvādadharabhūmisāśaṅkatvācca /
 
 This is the complete running unit [385|12]–[385|22–23] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The next kārikā fragment at [386|01] continues the ground-by-ground count in 6.72. The source's `samyagdṛṣṭacyādayaḥ` is retained in the witness and read contextually as mundane right view and similar factors.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The commentary now asks how many Bodhi-aligned dharmas have outflows and how many are without outflows. The awakening factors and the factors of the Path are uncontaminated, because these designations are established for the Paths of cultivation and Seeing. Mundane right view and similar qualities also exist, but they do not receive the name “Noble Path.” The other Bodhi-aligned factors are twofold, admitting both contaminated and uncontaminated forms.
 

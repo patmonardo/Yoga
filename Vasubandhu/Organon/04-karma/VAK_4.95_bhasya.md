@@ -8,7 +8,7 @@
 > One action projects one birth; many actions complete it. The two non-mental
 > attainments do not project birth, nor do acquisitions.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kim ekaṃ karma ekam eva janmākṣipati, atha naikam api? tathā kim ekam api
@@ -54,7 +54,7 @@ normalizes the contextually supported readings `etarhy āḍhye`, `samṛddhiṃ
 and `bahvībhiḥ`; the difficult sentence concerning an afflicted
 `nikāyasabhāga` is retained closely rather than silently resolved.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Does one action project one birth only, or not even one? And does one action
 project one birth, or many? The established position is this:

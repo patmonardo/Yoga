@@ -10,7 +10,7 @@
 > defilement, provision for purification, and purification itself:
 > Faculty extends just this far.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > ādhipatyād indriyatve 'vidyādīnām upasaṃkhyānaṃ kartavyam /
 > avidyādīnām api hi saṃskārādiṣv ādhipatyam ata eṣām apīndriyatvam
@@ -33,7 +33,7 @@ The unit runs from the objection at printed 40.08–09 through ato nāvidyādīn
 
 Word division is editorial. Repairs: ādhipātyād → ādhipatyād, karttavyam → kartavyam, vākyāṇi → vākpāṇi, saṭtva → sattva, strīpuruṣendraiyābhyām → strīpuruṣendriyābhyām. Vākpāṇi restores speech and hand as the first two of the five, matching speaking and taking hold; this is a substantive repair of the local witness. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 If being a faculty follows from governing efficacy, ignorance and the others must be added to the enumeration. For ignorance and the others also have governing efficacy with respect to formations and the rest; therefore they too must be counted as faculties. Speech and the rest must also be added. Speech, hand, foot, anus, and genital organ must likewise be counted as faculties, because they have governing efficacy over speaking, taking hold, moving about, excretion, and pleasure.
 

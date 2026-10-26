@@ -11,7 +11,7 @@
 > and respect is person-directed moral shame. These two forms occur
 > in the Desire and Form Realms, not in the Formless Realm.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > idānīṃ keṣāñcid eva caittānāṃ tantravihitaṃ nānākāraṇaṃ vakṣyate /
 > āhrīkyasyānapatrāpyasya ca kiṃ nānākāraṇam /
@@ -77,7 +77,7 @@ danger from the announced reversal, not from an independently
 established repaired reading. No independent collation is claimed.
 The examination-factor distinction at 60.23 begins 2.33.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The distinctions established in the treatise among certain mental factors will now be stated. What distinguishes shamelessness from lack of moral caution? Shamelessness is lack of respect: irreverence toward qualities and those who possess them, refusal to acknowledge authority, and lack of restraint through fear. It is a factor opposed to respect. Lack of moral caution is failure to see danger in the blameworthy, meaning what good persons condemn. Here danger is an undesirable result.
 

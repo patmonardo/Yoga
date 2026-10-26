@@ -71,7 +71,7 @@ for spacing and sandhi. The expression describing the spread of branches and
 foliage is retained as a 50-yojana extent; the precise geometric axis is not
 further specified.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 In the four directions from these gardens are four pleasant grounds,
 separated from them by twenty yojanas. They are themselves recreation places
 of the gods, and through their mutual rivalry they spread beauty.

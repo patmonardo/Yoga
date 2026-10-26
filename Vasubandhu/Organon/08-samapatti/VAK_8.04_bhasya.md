@@ -28,7 +28,7 @@ Kārikā study: [`VAK_8.04.md`](./VAK_8.04.md).
 **Witness.** Pradhan 436|01–11. Final pāda damaged in the running source.
 Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Are space and the rest their objects alone, that they are so named? No. First
 > the three: because of application in those ways. They apply themselves by

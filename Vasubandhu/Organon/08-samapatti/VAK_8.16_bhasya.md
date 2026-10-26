@@ -29,7 +29,7 @@ Kārikā study: [`VAK_8.16.md`](./VAK_8.16.md).
 **Witness.** Pradhan 444|09–445|02. Voices: Vasubandhu; objector (if you first
 cut the stain, the move is from kuśala).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Immediately after a defiled attainment-item, same-level pure and defiled arise.
 > Likewise a lower pure: oppressed by defilement, one values even a lower pure

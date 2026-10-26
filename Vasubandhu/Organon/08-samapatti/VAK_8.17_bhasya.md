@@ -27,7 +27,7 @@ Kārikā study: [`VAK_8.17.md`](./VAK_8.17.md).
 **Witness.** Pradhan 445|02–10. First list order ≠ functional mapping; mapping
 governs. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Not from every pure [item] does the uncontaminated arise. Pure is fourfold:
 > decline-conducive, distinction-conducive, stability-conducive, penetration-

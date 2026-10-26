@@ -56,7 +56,7 @@ punctuation above are editorial. The source's line tag
 continuous. `Dharma-anvaya-jñāna-kṣānti` remains a compressed
 compound whose distributive force is indicated by `yathāyogam`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 It was said that certain anuśayas are to be abandoned through
 seeing. Are they necessarily abandoned only through seeing? No.

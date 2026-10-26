@@ -9,7 +9,7 @@
 > and Mind apprehend a Condition they do not reach; the other three—Nose,
 > Tongue, and Body—apprehend a Condition they reach.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > tad yadi cakṣuḥ paśyati kim ekena cakṣuṣā rūpāṇi paśyaty āhosvid ubhābhyām /
 >
@@ -135,7 +135,7 @@
 
 Word division is editorial. This unit runs from [031|19] through [033|07] in the local source. The printed readings for “clearer seeing” at [031|22–23], “without an interval” at [032|19], and several words in the quoted Vibhāṣā cases are damaged; the working text follows the sense secured by their immediate explanations. The question about the relative size of Faculty and *artha* begins at [033|08].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > If the eye sees, does one see Visible Forms with one eye, or with both? There is no rule.
 >

@@ -12,7 +12,7 @@
 The first hemistich was quoted and explained with 4.122. The local
 commentary begins by defining the second hemistich.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 dauḥśīlyataddhetvahataṃ tadvipakṣaśamāśritam / [4.123a;
@@ -36,7 +36,7 @@ The local 4.123 unit is `[273|23]–[274|04]`. The first hemistich
 is included as an anchor only; it was explained in the preceding 4.122
 study. The closing question introduces 4.124.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Concentrated wholesomeness, however, is cultivation.”
 

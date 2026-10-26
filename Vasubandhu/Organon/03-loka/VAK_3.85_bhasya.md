@@ -64,7 +64,7 @@ dense and its compounds are difficult to segment; the Sanskrit is retained
 with only light punctuation. The clause at `[176|06-07]` contains the unclear
 reading `utkāni`, left visible rather than silently emended.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 So, among these beings with lifespans, does death occur before the lifespan
 is complete, or not? It does in general. Outside Uttarakuru, premature death
 can occur. In Uttarakuru, beings with fixed lifespans necessarily live out

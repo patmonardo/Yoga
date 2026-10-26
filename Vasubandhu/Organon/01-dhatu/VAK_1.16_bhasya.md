@@ -48,7 +48,7 @@ the two names. Read *sapta*, *bhavanti*, *dhātavaḥ*, and
 is an avagraha: *trayo 'vijñaptiḥ*. These are working repairs, not a
 critical text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Cognition is respective apprehension: apprehension (*upalabdhi*) with respect
 to each Condition. This is what is called the Cognition Base. It comprises

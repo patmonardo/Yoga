@@ -53,7 +53,7 @@ Source labels are removed and line breaks editorial. Uneven readings
 including `gatāopratyāgateśca`, `dṛṣṭacyā`, `poāryāyikaṃ`, and
 `adhhikāraḥ` remain uncorrected pending collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How, then, does the sūtra teach seven courses of the good person?
 Because the upward-streamer is stated without subdivision. One whose

@@ -43,7 +43,7 @@ source's `pṛṭhak`, `dṛṣṭyogha`, and
 `paryavasthānānīti` are retained for later textual review.
 The quotation at [307|13] begins 5.38.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The floods and yokes should be understood as these influxes
 were stated, but views are separately established because

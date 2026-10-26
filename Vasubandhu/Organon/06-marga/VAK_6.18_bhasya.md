@@ -58,7 +58,7 @@ argument supports first placement of aspects and non-presence of earlier
 grades, but those forms remain available for textual review. The next unit
 begins at [344|16].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The initial formation of both Heat and the Summits is through the dharma
 establishment. What is formation? It is the first placement of aspects on the

@@ -12,7 +12,7 @@
 > seven. One possessing Female-Faculty and so forth [necessarily
 > possesses eight].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > caturbhiḥ sukhakāyābhyāṃ /
 > yaḥ sukhendriyeṇa samanvāgataḥ so 'vaśyaṃ caturbhir indriyaiḥ
@@ -45,7 +45,7 @@ The unit is printed 50.23–51.15 in
 
 Word division is editorial. Śaraddhādīnām is read as śraddhādīnām. The short answer to the second-dhyāna question is not expanded in the Sanskrit. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Possession of the Pleasure-Faculty or the Body-Faculty entails possession of four faculties in each case. With pleasure, these are neutral feeling, life, Mind, and pleasure. With body, they are neutral feeling, life, Mind, and body. Possession of the eye entails five: neutral feeling, life, Mind, body, and eye. The same five-member pattern applies separately to ear, nose, and tongue, with the named sensory faculty in the fifth place.
 

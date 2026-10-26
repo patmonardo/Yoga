@@ -29,7 +29,7 @@ Kārikā study: [`VAK_7.40.md`](./VAK_7.40.md).
 compressed; no one-to-one table invented. Voice: Vasubandhu; alternative prep
 accounts.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Dharma-pratisaṃvid belongs to five levels — desire-domain and the four
 > dhyānas — because above there are no name-collections.

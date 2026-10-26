@@ -29,7 +29,7 @@ Kārikā study: [`VAK_8.18.md`](./VAK_8.18.md).
 
 **Witness.** Pradhan 445|11–446|06. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Of these four, how many arise immediately after which?
 >

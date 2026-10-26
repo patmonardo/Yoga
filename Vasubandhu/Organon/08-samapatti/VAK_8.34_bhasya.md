@@ -28,7 +28,7 @@ Kārikā study: [`VAK_8.34.md`](./VAK_8.34.md).
 
 **Witness.** Pradhan 456|09–24. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > For the first [three]: desire-domain visible form as object — unpleasant or
 > pleasant as fits. Formless releases: suffering of own and higher grounds, its

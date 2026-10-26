@@ -41,7 +41,7 @@ precise compound division remains provisional. The source reads
 `mātuḥ kukṣī`; the translation provisionally construes this as the locative
 “in the mother's womb.” The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 What, then, are these members beginning with Ignorance?
 
 > The state of former afflictions is Ignorance.

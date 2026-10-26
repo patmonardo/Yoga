@@ -15,7 +15,7 @@ at [218|09–10] and ends with the explanation of intoxicants as a
 `Vasubandhu/Sources/kosabhasya.txt`. The question about the three
 kinds of restraint at [219|11–12] starts 4.35.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 atha kasmāt mṛṣāvādād viratir evopāsakasaṃvaraśikṣāpadaṃ
@@ -87,7 +87,7 @@ below is provisional. The research witness ends at [219|05] and
 summarizes [218|24–219|05]; this study restores the actual running
 passage through [219|10] without claiming a corrected edition.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why is abstention from false speech, rather than from divisive
 speech and the other verbal faults, a training rule of lay

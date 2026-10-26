@@ -14,7 +14,7 @@ The running Bhāṣya unit begins with the procedural question at
 [214|01–02] in `Vasubandhu/Sources/kosabhasya.txt`. The next
 question asks why there are eight limbs and opens 4.29.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 athāhorātraṃ gṛhyamāṇa upavāsaḥ kathaṃ grahītavyaḥ?
@@ -55,7 +55,7 @@ where the separate Kārikā witness prints `nirbhūṣeṇa`. The running
 prose's `otkuṭṭakena` and its compressed closing etymologies remain
 visible; their precise forms are not silently regularized.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How is an upavāsa received when it is undertaken for a day and a
 night? It is to be received at the proper time, from another, by a

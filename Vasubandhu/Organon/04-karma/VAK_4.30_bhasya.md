@@ -14,7 +14,7 @@ and ends with the comparison to monks and novices at [215|12–13] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question at [215|14]
 opens the further challenge in 4.31.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kiṃ khalv ayam upavāsakasyaivopavāsa āhosvid anyasyāpi?
@@ -58,7 +58,7 @@ explained in the prose by `upāsakasaṃvaro jāyate`. The phrase
 caution; Vasubandhu himself supplies the latter's intended sense
 as `prāṇātipātādyapetam`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Does the upavāsa belong only to one already an observer of upavāsa,
 or also to someone else? “Upavāsa can also belong to another, but

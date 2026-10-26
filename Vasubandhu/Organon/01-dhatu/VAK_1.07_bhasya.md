@@ -11,7 +11,7 @@
 
 The Bhāṣya unit runs from `[004|23]` through `[005|08]` in the local Sanskrit source.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > yat tūktam “saṃskṛtā mārgavarjitāḥ sāsravā” iti /
 > katame te saṃskṛtāḥ /
@@ -34,7 +34,7 @@ The Bhāṣya unit runs from `[004|23]` through `[005|08]` in the local Sanskrit
 
 Compared with `Vasubandhu/Sources/kosabhasya.txt` at `[004|23]`–`[005|08]`. At `[004|26]` the local prose lists four Bases and omits `saṃjñāskandha`; the kārikā explicitly says five, and this witness preserves the omission rather than silently supplying the missing term. Other local forms are regularized for reading, including `dhārmā` to `dharmā`, `kathā vāvāyam` to `kathā vākyam`, `urakaraṇagrantho` to `prakaraṇagrantho`, and `saṃskṛtadharmauaryāyāḥ` to `saṃskṛtadharmaparyāyāḥ`. These are editorial repairs of the local transcription, not an independent collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 It was said that Conditioned dharmas other than the Path are Impure. Which dharmas are Conditioned?
 

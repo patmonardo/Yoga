@@ -89,7 +89,7 @@ Other uneven forms, including `kṣāṇā`, `apoūrvaṃ`, `dedāram`, and
 `pravandhikatvācca`, remain unregularized for collation. The next unit
 begins at [353|12].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why must there be both Acceptances and Knowings? Because, in that order,
 they are uninterrupted paths and liberation paths. Acceptances are

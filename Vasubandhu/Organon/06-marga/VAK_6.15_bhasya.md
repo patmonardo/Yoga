@@ -100,7 +100,7 @@ are editorial. The witness's irregular sūtra quotations and forms including
 `smṛtyupasthā nānyuktāni` remain visible. The next unit begins within the
 following labeled line [343|04–343|05].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What is the intrinsic nature of the establishments of recollection? The name
 has several applications: an establishment by intrinsic nature, by

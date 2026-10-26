@@ -54,7 +54,7 @@ are editorial. The forms `kuśāmūlam`, `duḥkhatḥ`, and the compressed
 `cala kuśalamūlamūrdhatvāt` remain as transmitted. The following unit opens
 at [344|03].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 From the dharma establishment repeatedly cultivated in this way there
 gradually arises a wholesome root called Heat. It is called Heat because it

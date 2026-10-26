@@ -11,7 +11,7 @@
 > āsaṃjñika, the two attainments, life, and the marks; the list continues
 > with groups of names and related groups at the start of 2.36.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > viprayuktās tu saṃskārāḥ prāptyaprāptī sabhāgatā /
 > āsaṃjñikaṃ samāpattī jīvitaṃ lakṣaṇāni ca // 2.35 //
@@ -27,7 +27,7 @@ is the contextual English construal, not a literal resolution of
 the double negative or an independently collated repair.
 The acquisition inquiry begins at 62.15.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The formations dissociated from consciousness are acquisition and non-acquisition, commonality, *āsaṃjñika*, the two attainments, life, and the marks. The enumeration continues in the next verse with groups of names and related groups. They are called formations dissociated from consciousness because they are not associated with it [a contextual reading of the witness's defective double negative], yet they are not Form by nature either.
 

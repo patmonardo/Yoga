@@ -62,7 +62,7 @@ are editorial. The transmitted `pātrobhūtasya`, `avahimukhatvād`,
 visible. The separate kārikā has `śaṃkalā`; the running witness has `śaṅkalā`.
 The next prose unit at [338|02–338|03] opens 6.10.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 For one thus become a suitable vessel, how does entry into cultivation occur?
 It is through the unattractive and through recollection of inhalation and

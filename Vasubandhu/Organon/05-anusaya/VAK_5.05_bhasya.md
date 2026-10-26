@@ -57,7 +57,7 @@ The transmitted `śīlavrataparāmaṛśo`, `pañca mānāṃ`, and
 `āmidhārmikāṇām` are retained as rough readings. The research
 excerpt preserves them too.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Four are to be abandoned through cultivation”: attachment,
 resistance, conceit, and ignorance. They are abandoned through

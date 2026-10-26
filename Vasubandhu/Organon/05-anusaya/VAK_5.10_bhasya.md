@@ -85,7 +85,7 @@ textual irregularity. The source's `cittasyonnatirmāna uktāḥ`,
 retained without silent correction. Word spacing in the three
 ninefold lists remains provisional.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Is view the only anuśaya that admits an internal division? Conceit
 does too. It has seven forms: māna, atimāna, mānātimāna,

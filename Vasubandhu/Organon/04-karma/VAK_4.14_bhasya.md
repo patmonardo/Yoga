@@ -14,7 +14,7 @@ This is the Bhāṣya-informed study translation in `VAK_4.14.md`. The prose
 unit runs from [205|19] through [206|21]; the next question begins at
 [206|22] and belongs to 4.15.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 aṣṭadhā prātimokṣākhyaḥ.
@@ -75,7 +75,7 @@ a conjectural reconstruction. The source's sequence of the two female
 novice designations at [206|04–05] is also difficult; the study text
 preserves the names without treating the wording as settled.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The restraint called *prātimokṣa* is eightfold. The Bhāṣya names the
 restraints of monks, nuns, women in training, male novices, female

@@ -10,7 +10,7 @@
 > Derived forms cause one another in three ways; derived form causes
 > elements in one way only.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > atha kathaṃ bhūtāni bhūtānāṃ hetupratyayaḥ /
 > dvidhā bhūtāni taddhetuḥ
@@ -41,7 +41,7 @@ from 102.20 through 103.08. Source spellings and compressed
 readings are retained. The question about ordering kinds of mind
 begins at 103.09–10.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How are the Great Elements a cause-condition for other Great
 Elements? In two ways: as homogeneous causes and as co-arisen

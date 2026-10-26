@@ -36,7 +36,7 @@ Becoming in VAK 3.24 with *tathā ca paridhāvan*.
 Word division and punctuation are editorial. No substantive conjectural
 repair has been introduced; the running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Once the capacity for discrimination is present:
 
 > Feeling is before sexual coupling.

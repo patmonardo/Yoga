@@ -28,7 +28,7 @@ Kārikā study: [`VAK_8.10.md`](./VAK_8.10.md).
 **Witness.** Pradhan 441|01–11. Voices: question; first account (`kecid`); second
 account (`kecit punaḥ`).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Do the prescribed limbs also occur in defiled dhyānas? What is not found in
 > them?

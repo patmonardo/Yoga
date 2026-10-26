@@ -14,7 +14,7 @@ the conclusion at [212|09] in `Vasubandhu/Sources/kosabhasya.txt`.
 The following question about how long prātimokṣa is undertaken
 opens 4.27.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 athaite saṃvarāḥ kathaṃ labhyante?
@@ -60,7 +60,7 @@ retained, not silently corrected. Several proper names and the
 closing refuge phrase are compressed or irregular in this e-text;
 the translations of those details remain provisional.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How, then, are these restraints acquired? “Meditation-born restraint
 is acquired through a dhyāna ground.” When one acquires a

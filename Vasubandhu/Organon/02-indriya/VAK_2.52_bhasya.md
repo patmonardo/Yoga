@@ -10,7 +10,7 @@
 > prior-born. The Path crosses the nine levels as cause for the equal or
 > the superior.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > sabhāgahetuḥ katamaḥ /
 > sabhāgahetuḥ sadṛśāḥ
@@ -116,7 +116,7 @@ examples, and 87.23's explicit *na nyūnasya*. No negative is
 silently supplied. The 87.20 question about whether this rule
 applies only to the Path leads into 2.53.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What is a homogeneous cause? Similar dharmas are homogeneous causes
 of similar dharmas. Thus the five wholesome Bases are causes of

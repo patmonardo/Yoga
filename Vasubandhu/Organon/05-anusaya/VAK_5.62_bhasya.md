@@ -57,7 +57,7 @@ assigned to named historical speakers by the text.
 The anchor copies the separate kārikā's plural `dūratāḥ`;
 the running verse has singular `dūratā`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 This is called distancing. How many kinds of distance are
 there? Distance is said to be fourfold: through unlike

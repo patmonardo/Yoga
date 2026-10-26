@@ -11,7 +11,7 @@
 > person in the Formless realm possesses eight: neutral feeling, life,
 > Mind, and the five beginning with faith.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > atha yaḥ sarvālpaiḥ samanvāgataḥ sa kiyadbhir indriyaiḥ /
 > sarvālpair niḥśubho 'ṣṭābhir vinmanaḥkāyajīvitaiḥ / yuktaḥ /
@@ -40,7 +40,7 @@ Vedanādibhiḥ supplies the five feelings. Vedayata is construed as
 experiences. Contextual, not a collation. The greatest number at
 52.09 opens 2.21.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Now, what is the smallest number of faculties with which someone is endowed? One “without the wholesome” possesses eight at the minimum: the five feelings, body, Mind, and life. “Without the wholesome” means that the person's wholesome roots have been severed. The word *vit* names feeling because it experiences; alternatively, it means the act of experiencing, as *saṃpat* means accomplishment.
 

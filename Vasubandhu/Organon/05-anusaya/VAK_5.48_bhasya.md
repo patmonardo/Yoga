@@ -54,7 +54,7 @@ punctuation are editorial. The running source's `āhlīkya`,
 They differ from the official Kārikā's `āhrīkya`, `mrakṣa`,
 and the prose's other `niḥṣyanda` forms.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 According to the Vaibhāṣika method, there are ten
 enveloping afflictions: the preceding eight, plus anger and

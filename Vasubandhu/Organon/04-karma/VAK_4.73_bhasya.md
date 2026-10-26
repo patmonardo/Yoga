@@ -13,7 +13,7 @@ course. The visible event is insufficient: intention, recognition of the
 objective basis, mode of action, and fulfilled result must form one
 determinate practical relation.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kiyatā punaḥ prāṇātipātaṃ svayaṃ kurvataḥ karmapatho bhavati kiyatā
@@ -98,7 +98,7 @@ sentence concerning treasure and `parivartaka`; they remain visible and
 the uncertain constructions are not silently repaired. VAK 4.74 begins at
 `[244|13]` with the fourfold definition of sexual misconduct.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Under what conditions does one who personally kills commit the course of
 killing, and under what conditions does each course through false view

@@ -14,7 +14,7 @@ The running unit begins with the transition to abandonment at
 [222|26–27] in `Vasubandhu/Sources/kosabhasya.txt`. The
 alternative theories introduced at [223|01] belong to 4.39.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 tyāga idānīṃ vaktavyaḥ / tatra tāvat
@@ -43,7 +43,7 @@ The source has `prātimokṣadamatyāgaḥ`; the Kārikā witness separates
 The list of five in the verse is distributed by the prose: four
 general causes, plus one specific to `upavāsa`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Abandonment must now be explained. First: “Prātimokṣa discipline
 is lost through laying down the training, death, the arising of

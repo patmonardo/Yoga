@@ -58,7 +58,7 @@ The local e-text has *skandehnāyatanena*, *parabhavena*, and the splits
 *parabhāvena*, *āyatanadhātubhiḥ*, and *tadbhāvaviyuktatvāt*. These are
 working repairs, not a critical text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The Bases include all conditioned dharmas. The Bases of appropriation include
 all Impure dharmas. The Essences and Principles include all dharmas.

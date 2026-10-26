@@ -16,7 +16,7 @@ The Bhāṣya makes `pratyekam`, **each**, explicit: both actions have a
 `vijñapti` and an `avijñapti` mode. The existing Kārikā study is
 `VAK_4.02.md`.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 te tu vijñaptyavijñaptī.
@@ -73,7 +73,7 @@ a `daṇḍika` has a staff, as a `kṣaṇika` has a moment. The translation be
 follows that reading without silently changing the local Sanskrit.
 See [*Abhidharmakośabhāṣya*, p. 172](https://icabs.repo.nii.ac.jp/record/363/files/sbp-ms-18.pdf).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Those two have manifestation and non-manifestation.” The bodily and verbal
 actions are each to be understood as having the natures of manifestation

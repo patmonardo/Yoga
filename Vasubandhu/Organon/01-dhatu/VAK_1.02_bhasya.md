@@ -12,7 +12,7 @@
 
 Span: Pradhan `[002|02]`–`[002|17]`. Next unit opens 1.03 at `[002|18]`.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > ko 'yam abhidharmaḥ nāma /
 > prajñā 'malā sānucarā 'bhidharmaḥ /
@@ -36,7 +36,7 @@ Span: Pradhan `[002|02]`–`[002|17]`. Next unit opens 1.03 at `[002|18]`.
 
 Local title form `abhidharvarmakośam` and verse citation `sa cāśrayo syety` are normalized for reading. Not a critical edition.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 **Question**
 

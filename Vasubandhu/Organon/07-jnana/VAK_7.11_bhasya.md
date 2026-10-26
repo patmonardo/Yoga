@@ -35,7 +35,7 @@ Closing field-statement (398|20–23), compressed:
 singular range. Voice: Vasubandhu, objector on sūtra wording, Vaibhāṣika
 readings of the pairs. Method-rule: `varaṃ śāstravirodho na sūtravirodhaḥ`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Uncontaminated knowledge of another mind is likewise [four-aspected],
 > because it has the aspects of its own truth — Path-knowledge.

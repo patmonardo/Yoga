@@ -12,7 +12,7 @@
 The unit runs from [230|08] through the explanation of the hell
 exception at [230|24–25]. The next kārikā begins at [230|26].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 catuṣkoṭikam ity anye
@@ -57,7 +57,7 @@ running source has the unusual spelling `vipāke 'nīyatam` and a
 compressed phrase at [230|24]; these are displayed without silently
 changing their doctrinal force.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Others set out four alternatives.” The Dārṣṭāntikas make a
 four-cornered analysis. There is karma determinate as to its stage

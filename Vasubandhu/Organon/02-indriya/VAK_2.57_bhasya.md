@@ -10,7 +10,7 @@
 > arisen from the determinate. Homogeneous outflow resembles its cause;
 > disconnection is cessation by Discrimination.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kiṃ punaridaṃ vipākaphalaṃ nāma kiṃ yāvadadhipatiphalam /
 > vipāko 'vyākṛto dharmaḥ /
@@ -49,7 +49,7 @@ The witness follows [the local running source](../../Sources/kosabhasya.txt)
 from 95.09 through 96.02. Source spellings and damaged readings
 are retained. The next fruit definition begins at 96.03.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What are maturation-fruit and the other fruits? Maturation is an
 unobscured-indeterminate dharma. That description alone might

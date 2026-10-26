@@ -115,7 +115,7 @@ Sanskrit above regularizes spacing and obvious sandhi but does not claim a
 critical edition. The closing phrase about “not refuting” the atom argument
 is particularly uncertain; its force is left open below.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 What are the contractions? There are three: by fire, water, and wind. Beings
 associated with one dhyāna contract together in that domain; hence it is
 called a contraction. Fire-contraction occurs through seven suns,

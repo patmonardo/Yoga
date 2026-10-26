@@ -48,7 +48,7 @@ Spacing and sandhi are regularized. The source reading `aśvatalī` in the
 great-nāga list is retained as `Aśvatalī` rather than silently emended. The
 scriptural quotation is excerpted as it appears in the running witness.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 In the great hell Pratāpana, lifespan is half an intermediate kalpa; in
 Avīci, it is one intermediate kalpa.
 

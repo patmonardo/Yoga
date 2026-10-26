@@ -109,7 +109,7 @@ This is the running unit [365|10]–[366|16] in
 breaks editorial. The final `tatra punaḥ` introduces the next unit and
 is excluded. Uneven spellings and sandhi remain as transmitted.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The ninth grade at the summit of existence is the one abandoned by
 diamond-like concentration. With attainment of its destruction, Knowing

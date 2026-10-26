@@ -53,7 +53,7 @@ Sandhi and word division have been regularized. The second kārikā line is
 presented according to the parsing confirmed by the Bhāṣya, rather than the
 compressed form of the local root-text witness.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 In the formless realm, lifespans increase successively by twenty thousand
 kalpas. In the Essence of Infinite Space, lifespan is twenty thousand
 kalpas; in the Essence of Infinite Cognition, twenty thousand more; in the

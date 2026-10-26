@@ -112,7 +112,7 @@ Normalizations are provisional. The hierarchy introduced by `apare`, the
 duration doctrines, and the seasonal examples require critical verification.
 The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 This intermediate existence is “visible to those of its own class and to a
 purified divine eye.” It is seen only by intermediate beings of the same kind.

@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.26.md`](./VAK_7.26.md).
 **Witness.** Pradhan 410|03–17. `Yardvarāgyāya` and `a4ubhā` unrestored.
 Voice: Vasubandhu. 410|18 opens 7.27: is cultivation only acquisition?
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Now, on which path is knowledge of how many levels cultivated?
 >

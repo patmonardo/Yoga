@@ -47,7 +47,7 @@ its two criteria complete the five explained here. Source labels are
 removed and line breaks editorial. The running verse reads
 `pañakāraṇasaṃbhavāt`; the study follows the prose's explicit five.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 An objection follows the eighty-nine paired cases: must the Buddha's
 list of four fruits be expanded? No. Though fruits are numerous, a

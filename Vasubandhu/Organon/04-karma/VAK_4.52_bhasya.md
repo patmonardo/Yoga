@@ -14,7 +14,7 @@ The unit begins at [230|26] and ends with a forward reference at
 [231|07–08]. The question about karma in the intermediate existence
 at [231|09] begins the next unit.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 yadviraktaḥ sthiro bālas tatra notpadyavedyakṛt /
@@ -48,7 +48,7 @@ to `sthira iti vartate` (“stable continues”), and has
 forms are preserved above; the readable translation indicates where
 it relies on the local context rather than a secure reading.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “A stable ordinary person detached from a given level does not make
 karma to be experienced there at the next birth.” When an ordinary

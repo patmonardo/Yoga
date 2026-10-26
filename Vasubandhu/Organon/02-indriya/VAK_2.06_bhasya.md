@@ -10,7 +10,7 @@
 > persistence, and experience; likewise, the others are Faculties of
 > withdrawal.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > matavikalpārtho vāśabdaḥ / apare punar āhuḥ /
 > pravṛtter āśrayaḥ ṣaḍindriyāṇi / utpattiḥ strīpuruṣendriye /
@@ -40,7 +40,7 @@ The prose runs from printed 40.20 through 41.03–04 in `Vasubandhu/Sources/kosa
 
 Word division is editorial. Repairs: śraddhadīni → śraddhādīni, caīṣām → caiṣām, uragaprabhṛtīṇām → uragaprabhṛtīnām, kariyāyām → kriyāyām, ayukataṃ → ayuktam. The split vikāśana kriyāsu is joined. Tad eva hi tad is retained. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The word “or” marks a difference of opinion. Others say: the six faculties are the Basis of engagement. The female and male faculties account for its arising, because it arises from them. The life-faculty accounts for its persistence, because it continues through that faculty. Experience occurs through the feelings. These are the fourteen faculties of engagement. The remaining faculties are assigned to withdrawal in the same way: those beginning with faith are its Bases; the faculty called “I shall know” is its arising; the knowledge-faculty is its persistence; and experience occurs through the faculty of one who has known. This explains both why there are just this many faculties and why they occur in this order.
 

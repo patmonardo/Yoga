@@ -8,7 +8,7 @@
 > Saṅgha division has non-concord as its nature; it is a dissociated,
 > non-afflicted, indeterminate Dharma. The Saṅgha is endowed with it.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kiṃsvabhāvāny ānantaryāṇi?
@@ -39,7 +39,7 @@ The unit includes the five-action classification that leads into the
 verse, but stops before the question at `[260|23]` about what the divider
 is endowed with.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What is the nature of the actions of *ānantarya*? Four are bodily actions
 and one is a speech-action; three are acts of killing, one is false speech,

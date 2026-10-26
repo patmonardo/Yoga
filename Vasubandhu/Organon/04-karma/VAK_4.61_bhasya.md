@@ -8,7 +8,7 @@
 > Volition in the dharma-knowledge kṣāntis and the eight uninterrupted paths of
 > detachment is twelvefold; this karma serves to exhaust black karma.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kiṃ punaḥ sarvamanāsravaṃ karma sarvasyāsya trividhasya karmaṇaḥ
@@ -28,7 +28,7 @@ written `anāsravaṃ` here as in the source question; line breaks,
 punctuation, and verse numbering are editorial. The ninth path
 belongs to the next verse, beginning at [236|05].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Does all karma without influxes lead to the exhaustion of all three
 kinds of karma just described? No, it is said. What, then? On the

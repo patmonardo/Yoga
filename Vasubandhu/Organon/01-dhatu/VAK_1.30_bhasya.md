@@ -9,7 +9,7 @@
 > Realm; fourteen occur in the Form Realm, excluding the Principles of Odor,
 > Taste, nose-Cognition, and tongue-Cognition.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > tridhā 'nye /
 >
@@ -143,7 +143,7 @@ spelling repairs are editorial. At `[020|24]` the local witness reads
 “it would follow that it is absent there,” which is read above. This is a
 working text, not a critical collation. The Formless count opens 1.31.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The others are threefold.
 >

@@ -308,7 +308,7 @@ triduḥkhatāyogādvā sarvaṃ sāsravaṃ duḥkhamiti /
 
 This is the complete running unit at [328|23–333|02] in `Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line breaks are editorial. The running `manāṣā`, `ābhivārmikāḥ`, and damaged citations are retained, not silently corrected. The next question at [333|02–333|03] begins the origin-truth discussion.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Only one portion of feeling has pain as its own nature. How, then, are *all*
 > contaminated formations called suffering?

@@ -48,7 +48,7 @@ tasya mṛdvindriyagotraṃ bhavatīti nālpena vyāvarttayituṃ śakyate /
 
 This is the complete running unit [378|05]–[378|18–19] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The next kārikā begins at [378|20]. The running witness has `navokopye` where the study's continuous verse reads `navākopye`, and `pritovedha` in the gloss of `prativedhanābhavya`; neither source reading has been silently substituted above.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The commentary asks whether someone who falls from Arhat fruit will be born again and answers no. No one dies while fallen from that fruit. It cites a sūtra about a noble disciple's lapse of mindfulness quickly reaching its end; otherwise the holy life would offer no assurance. Moreover, one fallen from a fruit does not perform what someone established in that fruit ought not do. Even in the fallen state, the practitioner performs no action contrary to that fruit, like a hero who stumbles and falls.
 

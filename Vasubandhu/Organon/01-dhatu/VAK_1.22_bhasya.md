@@ -89,7 +89,7 @@ grounds; the closing recap calls Feeling and Reflection “vessel and
 seasoning,” whereas the earlier analogy assigns them “food and seasoning.”
 This is a working text, not a critical collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The unconditioned is not stated among the Bases, because their defining
 meaning does not apply. It cannot be included in any of the five: it is not

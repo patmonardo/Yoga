@@ -12,7 +12,7 @@
 > being arise together with it. Mental factors
 > are fivefold by divisions beginning with the great ground.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > ukto rūpiṇāṃ sahotpādaniyamaḥ /
 > śeṣāṇāṃ vaktavyas tatra tāvat /
@@ -40,7 +40,7 @@ which occur in every consciousness opens 2.24.
 
 Word division is editorial. Sahavaśyaṃ is read as sahāvaśyaṃ. Satvākhyam as sattvākhyam. Gativiśayaḥ as gativiṣayaḥ. Eśām as eṣām. The fifth class-name is kept. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The rule for the co-arising of Form dharmas has been stated. The rule for the remaining dharmas must now be given. First, consciousness and mental factors necessarily arise together: neither can occur without the other. Every conditioned dharma also arises together with the marks of the conditioned. This applies to whatever arises, whether Form, consciousness, mental factors, or formations dissociated from consciousness. The verse then says “or with acquisition.” Here “or” distinguishes a narrower case: only what is designated as belonging to a sentient being arises together with acquisition.
 

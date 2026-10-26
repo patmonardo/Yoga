@@ -51,7 +51,7 @@ definition: its connection with the following striking/obstruction
 explanation remains unclear. The provisional translation marks the problem
 rather than attributing a new theory of mental Form to the passage.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Of the six Principles stated there—earth, water, fire, wind, space, and
 > Cognition—the characteristics of two have not been stated. Is the Space

@@ -13,7 +13,7 @@ The Bhāṣya unit runs from [228|04] through [228|13] in the running
 source. Its `sasaṃbhārā` conclusion belongs to this unit. The next
 argument begins with `adho 'pi madhyam asty eke` at [228|14].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 sukhavedyaṃ śubhaṃ dhyānād ā tṛtīyāt
@@ -42,7 +42,7 @@ Word division, punctuation, and the verse number are editorial.
 The running source gives the verse in three separated portions and
 has the compact expression `kāmadhātustrīṇi ca dhyānāni`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Wholesome karma is to be experienced pleasantly through the third
 dhyāna.” Wholesome karma is to be experienced pleasantly as far

@@ -58,7 +58,7 @@ evaṃ prasannasyaiṣā pratipattiriti /
 
 This is the complete continuous unit [386|14]–[387|14] in `Vasubandhu/Sources/kosabhasya.txt`, with labels removed. The opening [386|14] and its explanation also complete the confidence distribution begun in 6.73. The source spelling `saṃghayiorapi` is preserved; the study verse normalizes it. The Bodhisattva–Pratyekabuddha dual occurs in the witnessed verse but is not separately unpacked in this prose.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 At direct realization of the Path there is also acquisition of verified confidence concerning the Buddha and his Saṃgha. One directly realizing suffering, origin, and cessation acquires verified confidence in Dharma and the ethical disciplines dear to the noble ones. One directly realizing the Path acquires verified confidence in the Buddha and his community of disciples. Confidence in those two is confidence in the beyond-training dharmas constituting the Buddha and the training and beyond-training dharmas constituting the Saṃgha. The word “also” includes acquisition of the ethical and Dharma confidences.
 

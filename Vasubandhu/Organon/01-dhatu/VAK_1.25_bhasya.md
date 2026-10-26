@@ -11,7 +11,7 @@
 
 The commentary places the verse under the wider question, then gives the first example. Two accounts of Buddha-word are reported. Neither is chosen.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > anyāny api skandhāyatanadhātusaṃśabditāny upalabhyante sūtreṣu /
 > teṣāṃ kim ebhir eva saṃgraho veditavya āhosvid vyatirekaḥ / ebhir eva
@@ -25,7 +25,7 @@ the two positions. The measure of a Dharma-collection opens 1.26.
 
 Word division and punctuation are editorial. The running Sanskrit and the research witnesses agree on the wording. No lexical repair is needed. The number is eighty thousand: `aśītiṃ` with `sahasrāṇi`. The sandhi `vāṅnāma veti` is retained.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Other things designated in the sūtras as Bases, Essences, and Principles are also found. Are they included in these very classifications, or do they stand apart? They are included in these very classifications. They do not stand apart.
 >

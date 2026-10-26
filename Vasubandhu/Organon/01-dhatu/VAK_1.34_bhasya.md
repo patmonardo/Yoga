@@ -9,7 +9,7 @@
 > Principle take a Support. Nine are Unappropriated: those eight and Sound.
 > The other nine are twofold.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kati sālambanāḥ katy anālambanāḥ /
 >
@@ -56,7 +56,7 @@ spelling repairs are editorial; the local *it isiddham* is read *iti
 siddham*, and *opiagṛhītam* is read *upagṛhītam*. The question of primary
 and Element-dependent Form opens 1.35.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > How many take a cognitive Support (*ālambana*), and how many do not?
 >

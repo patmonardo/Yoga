@@ -29,7 +29,7 @@ Kārikā study: [`VAK_8.03.md`](./VAK_8.03.md).
 **Witness.** Pradhan 434|10–435|26. Voices: Vasubandhu; objector (slight form;
 canonical dependence; how after many kalpas?; how citta without form?).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Access to infinite space does not receive the designation: its object is still
 > the fourth dhyāna, so form-perception has not gone. The four-Base claim

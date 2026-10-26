@@ -11,7 +11,7 @@
 > One who possesses any one of neutral feeling, life, or Mind necessarily
 > possesses all three.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > yat tarhy abhidharma uktaṃ "katibhir indriyair arhattvaṃ prāpnotīty āha
 > ekādaśabhir iti" / tat kathaṃ navabhir ity ucyate /
@@ -57,7 +57,7 @@ counts at 50.23 open 2.18.
 
 Word division is editorial. Repairs in the first span include prapnoti → prāpnoti, ekādaśbhhir → ekādaśabhiḥ, arhattavam → arhattvam, saumanasyīpekṣā → saumanasyopekṣā, and anāgābhino → anāgāmino. In the possession span: anyo 'ynena → anyo 'nyena, kāmadhatau → kāmadhātau, apratipiddhāsu → apratiṣiddhāsu. Caturdhyāna is read as the fourth dhyāna, with the next sentence. Pṛthagjanaphalathānasamanvāgatāḥ and pṛthagjanaśaikṣaikṣyā are damaged. The translation follows the research reading and marks it provisional. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 But the Abhidharma says that arhatship is attained through eleven faculties. How, then, can it be said to be attained through nine? A given attainment occurs through nine. Eleven is stated because one person may attain arhatship repeatedly after falling away, with pleasure on one occasion, gladness on another, and neutral feeling on another. The three feelings cannot occur at one time in this attainment. Why does the same argument not apply to a non-returner? After falling away, such a person never regains that fruit with the Pleasure-Faculty. One previously free from desire does not fall away, because that dispassion was attained through both paths.
 

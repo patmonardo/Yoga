@@ -14,7 +14,7 @@ distribution was completed in 4.82–4.84. The Bhāṣya first enumerates the
 three results and then derives their differentiation from three aspects of
 killing as a completed Course of Action.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 ta ete daśākuśalāḥ karmapathāḥ kuśalāś ca
@@ -72,7 +72,7 @@ printed above and the repair is marked here. Other obvious running-text forms
 normalized above include `narakeṣrapapadyate`, `praṇātipāta`, `maulelnety`,
 and `prāṇātīpātena`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 These ten unwholesome and ten wholesome Courses of Action are all held to
 give dominant, corresponding, and maturation results.

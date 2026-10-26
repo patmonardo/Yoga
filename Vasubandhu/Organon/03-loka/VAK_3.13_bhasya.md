@@ -94,7 +94,7 @@ meaning remain uncertain. No detailed translation is forced. Evident forms
 such as `upapattibhabo` and `maraṇabhabo` are normalized. The running source
 remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What form does intermediate existence assume for one who is going toward a
 particular destiny?

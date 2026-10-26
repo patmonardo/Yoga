@@ -11,7 +11,7 @@
 > does not arise from Īśvara and the like as one cause, given
 > observed succession.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > atha katamo dharmaḥ katibhiḥ pratyayairutpadyate /
 > caturbhiścattacaittā hi
@@ -70,7 +70,7 @@ from 101.07 through 102.19. The verse is interleaved with the
 commentary. Source spellings and damaged readings are retained;
 the question about Great Elements begins at 102.20.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Which dharmas arise through how many Conditions? Mind and mental
 factors arise through four. Their cause-condition consists of all

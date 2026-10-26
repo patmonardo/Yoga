@@ -32,13 +32,12 @@ def check_headings(headings: tuple[str, ...]) -> list[str]:
     titles = [heading_title(heading) for heading in headings]
     required = {
         0: "Kārikā Anchor",
-        2: "Continuous Conventional Translation",
+        1: "Continuous Sanskrit",
+        2: "Continuous Translation",
     }
     for index, title in required.items():
         if len(titles) <= index or titles[index] != title:
             errors.append(f"section {index + 1} must be {title}")
-    if len(titles) < 2 or not titles[1].startswith("Continuous Sanskrit"):
-        errors.append("section 2 must be Continuous Sanskrit")
     if len(headings) < 5:
         errors.append("Bhāṣya needs argument, study, and review sections after the opening three")
     if titles[-1] != "Review Status":

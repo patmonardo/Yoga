@@ -32,7 +32,7 @@ reads `paryasthāna` in the final sentence, while the next
 question and verse use `paryavasthāna`; the variant remains
 visible for textual review.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Other afflicted mental factors belonging to the Base
 of formations, distinct from the kleśas, are also

@@ -23,7 +23,7 @@ Kārikā study: [`VAK_8.37.md`](./VAK_8.37.md).
 
 **Witness.** Pradhan 458|11–18. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Cessation-release was already taught in every mode. The other releases and the
 > related practices are obtained through dispassion *or* through application —

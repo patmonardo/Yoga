@@ -30,7 +30,7 @@ Kārikā study: [`VAK_7.10.md`](./VAK_7.10.md).
 **Witness.** Pradhan 395|17–396|02. Quotation `ṣoḍḍaśākāram`; prose also
 `ṣoḍaśākāram`. Voice: Vasubandhu. No opponent. Aspect-list not imported.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Of these ten knowledges:
 >

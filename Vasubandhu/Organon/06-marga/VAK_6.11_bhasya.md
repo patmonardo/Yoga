@@ -63,7 +63,7 @@ transmitted. The source questions at [338|24–338|26] are especially uneven;
 the translation below marks their determination as provisional. The next
 verse starts at [339|05].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Through holding consciousness (`citta`) between the eyebrows, a practitioner
 is called one whose attention has passed beyond. Having released even the

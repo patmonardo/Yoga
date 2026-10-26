@@ -13,7 +13,7 @@ The running commentary unit begins with the first half-verse at
 [210|01] and ends at [210|11] in `Vasubandhu/Sources/kosabhasya.txt`.
 The next question opens 4.22.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 samāhitāryamārgasthau tau yuktau vartamānayā.
@@ -44,7 +44,7 @@ harmonized. The Bhāṣya resolves the compressed dual into two practitioners.
 The source reads `ātyāgād` at [210|11], whereas the governing phrase in
 4.19 is `atyāgāt`; the former remains visible in the Sanskrit above.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “The one in concentration and the one established in the noble Path are
 endowed with present [avijñapti].” The two who possess meditation and

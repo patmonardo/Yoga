@@ -11,7 +11,7 @@
 > abandoned by seeing, nothing of Form, and nothing not born from the sixth
 > Essence.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kati dhātavo darśana-heyāḥ kati bhāvanā-heyāḥ katy aheyāḥ /
 >
@@ -63,7 +63,7 @@
 
 Word division is editorial. The local source runs from [028|25] through [029|12]. Its second-line verse reading at [029|05] is damaged; the clear repetition *nāpy aṣaṣṭhajam* at [029|10] and the explanation at [029|11–12] secure the reading used here. The question about which Principles count as views begins at [029|13].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Of the eighteen Principles, how many contain dharmas abandoned by seeing, how many by cultivation, and how many not abandoned?
 >

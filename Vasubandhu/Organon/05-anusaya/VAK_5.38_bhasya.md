@@ -61,7 +61,7 @@ running source has `sā 'vidyā`, `dṛṣṭyu pādānaṃ`, and
 for textual review. The official Kārikā witness prints
 `sāvidyā`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The yokes already stated, together with ignorance, are the
 appropriations, while the views are divided in two. The

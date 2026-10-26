@@ -11,7 +11,7 @@ Vajropama is the last Śaikṣa instant. Not a slogan.
 
 Kārikā study: [`VAK_6.77.md`](./VAK_6.77.md). Next: 6.78.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > anāgatam aśaikṣaṃ cittaṃ jāyamānam āvaraṇebhyo vimucyate /
 > kleśaprāptir asyotpattim āvṛṇoti /
@@ -21,7 +21,7 @@ Kārikā study: [`VAK_6.77.md`](./VAK_6.77.md). Next: 6.78.
 
 **Witness.** Pradhan 388|21–389|10. Voice: Vasubandhu + objector on mundane mind.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The future Aśaikṣa mind, while arising, is released from the covers. What cover?
 > Acquisition of the afflictions: it blocks that mind from arising. In diamond-like

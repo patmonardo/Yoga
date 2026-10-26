@@ -12,7 +12,7 @@
 The ten are a selection from a wider ethical field, not an
 exhaustive list of everything good or bad one can do.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 viparyayātsucaritam
@@ -54,7 +54,7 @@ the preceding explanation. Line breaks, punctuation, and verse
 numbering are editorial. A new inquiry into the constitution of
 the courses begins at [238|13].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Good conduct is the converse.” It comprises desirable, wholesome
 bodily, verbal, and mental karma, together with non-covetousness,

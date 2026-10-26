@@ -50,7 +50,7 @@ term for the first of the four is `āhrīkya`. Word division,
 punctuation, and removal of the verse identifier are
 editorial. These discrepancies remain for textual review.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Deception, crookedness, concealment, and sleep are
 conjoined in both ways, with mental gladness and mental

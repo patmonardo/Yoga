@@ -13,7 +13,7 @@ The first half completes the classification by root begun in VAK 4.70.
 The second reorganizes the ten courses into four groups according to the
 `adhiṣṭhāna` upon which each group operates.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 mithyādṛṣṭestu mohena
@@ -46,7 +46,7 @@ surface forms remain visible. A new problem concerning death before or
 simultaneously with the intended victim begins at `[242|23]` and leads into
 VAK 4.72.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “False view, however, reaches completion through delusion,” for delusion
 that has become intense brings it to completion.

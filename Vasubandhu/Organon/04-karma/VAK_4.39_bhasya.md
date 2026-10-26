@@ -15,7 +15,7 @@ meditation-born and uncontaminated restraint at [224|19] opens
 4.40. The research Bhāṣya abbreviates [223|23–224|16]; this
 study retains the intervening argument and marks difficult forms.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 patanīyena cety eke
@@ -102,7 +102,7 @@ are visibly irregular. The translation preserves their argumentative
 role without claiming a recovered critical text. Speaker turns are
 rapid and sometimes unnamed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Some say [restraint is lost] through a downfall offense.” They
 say that any one of the four grave offenses ends a monk's or

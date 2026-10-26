@@ -25,7 +25,7 @@ Kārikā study: [`VAK_8.11.md`](./VAK_8.11.md).
 
 **Witness.** Pradhan 441|11–19. Voices: Vasubandhu; `apare`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The Blessed One called the three dhyānas subject to movement — because they
 > still have disturbances. What are those disturbances? Vitarka and vicāra;

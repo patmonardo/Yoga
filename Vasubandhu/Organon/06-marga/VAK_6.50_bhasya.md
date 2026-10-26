@@ -43,7 +43,7 @@ breaks editorial. The prose's `kṣavajñāna` and `akopoyadharma` are
 retained as transmitted forms; their contextual senses are
 `kṣayajñāna` and `akopyadharma`. The next question begins at [369|08].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The subsidiary discussion has ended. What arises after Knowing of
 exhaustion? If the arhat has an immovable nature, Knowing of

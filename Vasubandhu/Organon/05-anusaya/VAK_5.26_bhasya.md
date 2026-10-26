@@ -75,7 +75,7 @@ positions. Spacing and punctuation above are editorial.
 The running witness's `lakṣāṇānyathiko` is retained despite
 the expected `lakṣaṇa-` form.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The four Sarvāstivādin positions are named according to a
 change in mode, characteristic, state, or relative position.

@@ -43,7 +43,7 @@ compound `trisāhasra-mahāsāhasra` is expanded from the prose to give the full
 name of the final cluster. The Bhāṣya explicitly equates `saṃbhava` with
 `vivarta` in this context and says the fuller explanation comes later.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 One thousand of those small thousandfold world-systems forms the middle,
 second-order world-system.
 

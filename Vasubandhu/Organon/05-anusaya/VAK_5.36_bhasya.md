@@ -40,7 +40,7 @@ sense is recoverable, but their exact forms remain for the
 later textual reliability pass. The Kārikā anchor follows
 the witness and running verse in reading `ekīkṛtāḥ`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why are the anuśayas belonging to the form and formless
 domains gathered together as one existence āsrava?

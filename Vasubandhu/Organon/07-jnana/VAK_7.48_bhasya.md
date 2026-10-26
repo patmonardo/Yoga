@@ -27,7 +27,7 @@ Kārikā study: [`VAK_7.48.md`](./VAK_7.48.md).
 **Witness.** Pradhan 425|04–18. `Rava` in the speed-gloss unrestored. Voices:
 Vasubandhu reporting Vaibhāṣikas; scriptural appeal to inconceivable Buddha-domain.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > What is this ṛiddhi? By the Vaibhāṣika method: ṛiddhi is concentration —
 > one accomplishes by this. What is accomplished through it? Movement and

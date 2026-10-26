@@ -121,7 +121,7 @@ from this study at `[013|28]`–`[014|08]` are restored above. Local
 The exact attachment of that phrase remains worth checking against a
 printed edition. This is a working text, not a critical collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The bases, the essences, and the principles have been explained. This, however, is to be said: what is the meaning of base, essence, and principle?
 

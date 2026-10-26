@@ -59,7 +59,7 @@ editorial. The running source's `anunvaya`, `dṣṭi`,
 The official Kārikā witness joins `dravyāmarśana-sāmānyāt`;
 the running source separates `dravyāmarśana sāmānyāt`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Those same anuśayas are again divided fivefold: fetter
 (*saṃyojana*), bond (*bandhana*), anuśaya, secondary

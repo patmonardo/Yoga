@@ -79,7 +79,7 @@ Punctuation and sandhi are lightly regularized. The source's famine names and
 the expression `vaivastryadaurbalye` are obscure; they are retained rather
 than given a falsely certain technical interpretation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 For people whose lifespans are ten years, the intermediate age reaches its
 conclusion. How does it end? Through three calamities: weapons, disease, and
 famine. At that time people are attached to unrighteous desire, overwhelmed

@@ -15,7 +15,7 @@ The three wholesome mental Courses of Action were distributed in 4.83. The
 abstentions corresponding to the three bodily and four verbal unwholesome
 Courses of Action.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 ārūpyāsaṃjñisattveṣu lābhataḥ sapta
@@ -50,7 +50,7 @@ The running witness has `ārūpyoopapannānām` at `[253|14–16]`, an evident
 vowel duplication normalized above as `ārūpyopapannānām`. It also prints
 `śesaḥ` at `[253|21]`; the expected form is `śeṣaḥ`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 In the Formless Realm and among non-percipient beings, the seven wholesome
 bodily and verbal Courses of Action exist only through endowment.

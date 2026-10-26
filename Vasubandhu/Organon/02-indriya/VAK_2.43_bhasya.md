@@ -12,7 +12,7 @@
 > experienced in the next rebirth or a later existence, or may not occur.
 > It is restricted to noble persons and is acquired through application.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > nirodhasamāpattiridāniṃ katamā /
 > nirodhākhyā tathaiveyaṃ
@@ -97,7 +97,7 @@ is retained without completing its construction. The running
 the English marks its contextual force rather than inventing
 a permission to interrupt. *Kila* remains on the thirty-four report.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 ### 2.43 explanation
 

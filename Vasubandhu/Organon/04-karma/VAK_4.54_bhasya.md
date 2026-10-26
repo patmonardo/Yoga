@@ -13,7 +13,7 @@ The unit begins with the question at [231|22] and ends at [232|04].
 The next question, concerning present-life-result karma, begins at
 [232|05].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kīdṛśaṃ karma niyataṃ veditavyam /
@@ -38,7 +38,7 @@ running e-text has `gunakṣetre` and a compressed construction at
 uncertain, though the distinction it makes between a qualified
 field and the other conditions is clear from context.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 What kind of karma should be understood as determinate? “Whatever
 is done through intense affliction or confidence, through

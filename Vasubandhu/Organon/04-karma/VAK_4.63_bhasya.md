@@ -13,7 +13,7 @@
 The verse reports **other teachers'** classifications; it does
 not silently replace Vasubandhu's preceding allocation.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 anye narakavedyānyakāmavedyaṃ dvayaṃ viduḥ /
@@ -41,7 +41,7 @@ official verse's reading order. Line breaks, punctuation, and verse
 numbering are editorial. The new sūtra on three silences begins at
 [236|23] and belongs to 4.64.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Some hold the two to be what is experienced in hell and what is
 experienced elsewhere in the Desire Realm.” Other teachers regard

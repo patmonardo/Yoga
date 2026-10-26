@@ -13,7 +13,7 @@ ends with the Sautrāntika explanation at [213|10–11] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question, at [213|12],
 opens 4.28 on how the one-day observance is undertaken.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 sa punar eṣa prātimokṣāsaṃvaraḥ samādīyamānaḥ kiyantaṃ kālaṃ
@@ -72,7 +72,7 @@ Word division and punctuation are editorial. The running e-text has
 above rather than silently normalized. Their grammatical detail is
 provisional where the context alone does not settle a repair.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 For how long should this prātimokṣa restraint be undertaken? “The
 undertaking of restraint is for life or for a day and night.” The

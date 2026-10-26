@@ -14,7 +14,7 @@ the compound `karmapatha`. In the Vaibhāṣika account, the mental three
 channel associated volition; the bodily and verbal seven are themselves
 karma and also the courses upon which their originating volition proceeds.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 vyāpādaḥ sattvavidveṣaḥ
@@ -84,7 +84,7 @@ before supplying qualifications that preserve the earlier selection rule.
 The first half of VAK 4.79 begins at `[248|15]` with the cutting off of
 wholesome roots.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Hostility is hatred of living beings.” Hostility toward living beings is
 `vyāpāda` when it proceeds in the form of harming another.

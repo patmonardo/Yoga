@@ -63,7 +63,7 @@ referent is unclear in this excerpt; it is not folded into the preceding
 class-by-class mapping. The reference to `kālaparimāṇa` is likewise preserved
 without supplying a duration that this passage does not state.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Above the Thirty-Three, devas are established in celestial residences. These
 are the Yāmas, Tuṣitas, Nirmāṇaratis, and Paranirmitavaśavartins, as well as
 the previously described sixteen stations beginning with the Brahmakāyikas.

@@ -11,7 +11,7 @@
 > pervasive have homogeneous outflow; the co-arisen and associated have
 > efficacy as fruit.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > athaiṣāṃ phalānāṃ katamat phalaṃ kasya hetoḥ /
 > vipākaphalamantyasya
@@ -46,7 +46,7 @@ from 94.18 through 95.08. The kārikā reads `adhipataṃ` at
 94.21, while the prose reads `adhipajaṃ` at 94.22. Both are
 retained. The question defining the fruits begins at 95.09.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Which fruit belongs to which of these causes? The last cause has
 maturation as its fruit. “Last” means the maturation cause, named

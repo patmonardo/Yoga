@@ -50,7 +50,7 @@ endings. The continuous text regularizes these provisionally. The opening
 summary of persistence and death, and the exact force of `paṭu` and `apaṭu`,
 require comparison with critical witnesses.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 It has been explained how dependent co-arising operates for sentient beings
 and how they persist. Death through such causes as the exhaustion of lifespan
 has also been explained.

@@ -31,7 +31,7 @@ Kārikā study: [`VAK_7.45.md`](./VAK_7.45.md).
 **Witness.** Pradhan 423|10–20. `Vāhuliko` kept. Voice: Vasubandhu; objection
 from a general definition.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Divine sight and hearing are indeterminate. They are discriminative knowing
 > associated with visual and auditory consciousness. How then are they established

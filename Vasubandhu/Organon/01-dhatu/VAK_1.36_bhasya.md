@@ -9,7 +9,7 @@
 > and are cut; they are burned and weigh. Whether this same fourfold group is
 > also the burner and the weighed is disputed.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > aṣṭādaśānāṃ dhātūnāṃ kaś chinatti kaś chidyate ko dahati ko dahyate kas tulayati kas tulyate /
 >
@@ -51,7 +51,7 @@
 
 Word division is editorial. The local source at [024|20]–[025|05] has a damaged first jewel-radiance clause; its later *acchatvāt* (“because of clarity”) guides the reading here. The final expression for the burner is also uncertain in that copy; the preceding *dāhakaṃ* and the kārikā's *dagdhṛ* establish the sense of the dispute. The next question opens 1.37.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Of the eighteen Principles, which cuts, which is cut, which burns, which is burned, which weighs, which is weighed?
 >

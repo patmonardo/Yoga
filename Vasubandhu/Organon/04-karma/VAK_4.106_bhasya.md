@@ -12,7 +12,7 @@
 The kārikā gives four members. The Bhāṣya completes the set with the fifth
 member named in the opening half of 4.107.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kim ānantaryair evāvaśyaṃ narakeṣūpapadyate?
@@ -35,7 +35,7 @@ The unit is `[264|22]–[265|04]`. The witness has `ānatnaryāṇāṃ` at
 compound `saṃghāyadvārahārikā` is difficult, so the translation follows
 the Bhāṣya's prose paraphrase while marking its uncertain referent.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Do only the immediate-result actions necessarily lead to rebirth in Hell?
 Actions analogous to the immediate-result actions also necessarily do so.

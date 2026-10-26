@@ -76,7 +76,7 @@ samāhitacitto yathābhūtaṃ prajānātīti /
 
 This is the complete running unit [383|13]–[384|13–14] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. Its first kārikā line occurs within the prose of 6.68, before the 6.69 marker at [384|03]; the overlap preserves the actual order of the witness. The next question at [384|15] begins the distribution of factor-groups by stage in 6.70. Source spellings including `gunāḥ` and `guṇāḥḥ` are retained.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Energy is what bears the name right abandonment, and the bases of spiritual power are samādhis. The prose first completes the ten-dharma mapping begun in 6.68. The establishments of recollection, the investigation-of-dharmas awakening-factor, and right view count as Prajñā; the right abandonments, the energy awakening-factor, and right effort as energy; the bases of power, the collectedness awakening-factor, and right collectedness as samādhi; the recollection awakening-factor and right recollection as recollection. The remaining joy, pliancy, equanimity, right resolve, and ethical Path-factors complete the count. The Vaibhāṣikas count eleven when bodily and verbal ethical actions are distinct.
 

@@ -40,7 +40,7 @@ is editorial. The witness regularizes visibly damaged local forms, including
 `prakāraṇeṣu` to *prakaraṇeṣu*, and `karṃaṇā` to *karmaṇā*. These are working
 repairs, not an independently collated text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > “Depending on the Great Elements” was stated. Which are the Elements?
 >

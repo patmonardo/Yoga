@@ -53,7 +53,7 @@ their rough forms need witness comparison. The research excerpt
 omits the Airāvaṇa example, whose function is to specify a
 particular `bhavatṛṣṇā` included by `tathā`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “The wish for nonexistence.” Thirst for nonexistence too is to be
 abandoned through cultivation. What is the dharma here called

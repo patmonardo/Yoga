@@ -109,7 +109,7 @@ movement. Spacing and punctuation are editorial. Forms such as
 and the damaged self-identification in the cited sūtra are
 retained from the IAST witness rather than silently repaired.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The sūtra speaks of fourteen undetermined matters. Are they
 called `avyākṛta` because they have the ethically indeterminate

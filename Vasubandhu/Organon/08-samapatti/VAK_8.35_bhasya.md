@@ -29,7 +29,7 @@ Kārikā study: [`VAK_8.35.md`](./VAK_8.35.md).
 
 **Witness.** Pradhan 457|01–12. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Internally perceiving form, one sees external forms — limited, attractive or
 > unattractive — and knows and sees them as mastered. That is the first. Likewise

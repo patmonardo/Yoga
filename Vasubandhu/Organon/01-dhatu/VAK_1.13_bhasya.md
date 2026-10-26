@@ -125,7 +125,7 @@ damaged forms, including *vāyuar* (twice), *rūpopādānasdandha*,
 also breaks *yujyate* off after *nā ... tathaivāśritā*; here it is joined
 to its clause. This is a working witness, not a critical text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Exposition. What, then, is the difference between earth and the rest, and the
 Earth Principle and the rest?

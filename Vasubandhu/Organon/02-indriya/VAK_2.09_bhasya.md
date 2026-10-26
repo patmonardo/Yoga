@@ -11,7 +11,7 @@
 > *āsrava*. The Form Faculties, Life-Faculty, and the two painful Faculties
 > are exclusively with *āsrava*; nine admit either status.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > dṛgbhāvanāśaikṣapathe nava trīṇi /
 > manaḥ sukhasaumanasyopekṣāḥ śraddhādīni ca pañca /
@@ -64,7 +64,7 @@ opens 2.10. The debate after the verse belongs to this unit.
 
 Word division is editorial. Repairs follow the research bhāṣya: sraddhā → śraddhā, ājñātm → ājñātam, enriyam → indriyam, svabhāvanirdeśāṃ → svabhāvanirdeśaṃ, dukhaḥdaurmanasya → duḥkhadaurmanasya, stri → strī, srvaṃ → sarvaṃ, adhikāṛtya → adhikṛtya, yāvacchāham → yāvac cāham. The verse's defective 'saikṣa is read as aśaikṣa from the prose. Locator 43.02–032.04 is a locator defect. Ājñātāvaḥ and kṣayānutpādijñāna are retained. No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 On the paths of seeing, cultivation, and no-more-training, the nine are the three. The nine are mind, pleasure, gladness, neutral feeling, and the five beginning with faith. These nine faculties are called three faculties on the three paths: on the path of seeing, the faculty “I shall know what has not been known”; on the path of cultivation, the knowledge-faculty; on the path of no-more-training, the faculty of one who has known. Why? On the path of seeing, one is engaged in knowing what has not been known. On the path of cultivation, there is nothing unprecedented to be known. One knows that same thing for the sake of abandoning the remaining latent afflictions. On the path of no-more-training, the ascertainment “it has been known” is called ājñātāva. One who possesses this is ājñātāvin. Or the name means one whose disposition is to preserve what has been known, because of attaining the knowledges of exhaustion and non-arising. The faculty of one in such a condition — suffering has been fully known by me; it is not to be fully known again — is the faculty of one who has known.
 

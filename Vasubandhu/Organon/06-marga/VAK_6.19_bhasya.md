@@ -82,7 +82,7 @@ are editorial. Forms including `apradharmasaṃśleṣād`, `kāvāvacaram`,
 phrases remain as transmitted. The final matrix is kept whole for later
 collation. The next unit starts at [345|21].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Strong” still qualifies Acceptance. Its cognitive Condition is only
 suffering belonging to the Desire Realm. Because no corresponding restriction

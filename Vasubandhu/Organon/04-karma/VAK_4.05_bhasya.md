@@ -14,7 +14,7 @@ The Kārikā study is `VAK_4.05.md`. After 4.04's debate over the reality
 of `avijñapti`, this unit asks which Great Elements support bodily and
 verbal karma.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 atha kutastyāni mahābhūtāny upādāya kutastyaṃ kāyavākkarma?
@@ -42,7 +42,7 @@ Kārikā, the contrast, and the explanation require `anāsravaṃ`; that
 correction is displayed rather than silently attributed to the witness.
 The following `naiḥṣyandikī` at [200|04] opens the next determination.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Now, which level's Great Elements support bodily and verbal karma, and to
 which level does that karma belong?

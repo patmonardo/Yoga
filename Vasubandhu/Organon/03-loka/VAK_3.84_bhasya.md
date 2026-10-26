@@ -44,7 +44,7 @@ Spacing and sandhi are regularized. The source's `cūḍikāvaddhaḥ` is render
 as tied or sealed. The final `iti` introduces an abbreviated citation, whose
 intervening sequence is not reproduced in this witness.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 What is the measure of lifespan in the cold hells?
 
 The Blessed One has explained their lifespan by comparison alone: “Suppose,

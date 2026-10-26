@@ -86,7 +86,7 @@ breaks are editorial. Forms including `budhaḥ`, `niśrityaniñjyapaṭu-`,
 `mokṣabhāgoyaṃ`, `eka śikṣām`, and `valādhāna` remain as transmitted;
 precise readings await collation. The next unit begins at [350|01].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The Teacher is the Buddha, and the rhinoceros-like one is a
 Pratyekabuddha. For these two, the whole course from the roots conducive

@@ -39,7 +39,7 @@ Kārikā anchor has `svakādhara-`. The Sanskrit block retains
 the running form; the prose explicitly resolves the intended
 own, lower, and higher distribution.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Form Realm dharmas are objects of their own [three], the
 lower three, one higher, and the undefiled.” The same three

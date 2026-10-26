@@ -60,7 +60,7 @@ acquisition.” These are editorial readings, not established readings of a
 critical edition. The cited earlier verses and chapter cross-references
 remain Bhāṣya prose rather than Kārikā wording.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 The remaining limbs are not stated again. Why? Because some have been
 explained and others will be explained later. Some members have been explained
 here, while others will be explained afterward. Discriminative Cognition has

@@ -12,7 +12,7 @@
 The Bhāṣya specifies that “both” concerns the mixture of karmas
 within a continuum, not a single intrinsically black-and-white act.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 aśubhaṃ rūpakāmāptaṃ śubhaṃ caiva yathākramam /
@@ -62,7 +62,7 @@ clauses and compressed compounds remain provisional. The question
 at [235|22] opens the next verse. Line breaks, quotation marks,
 and verse numbering are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Unwholesome karma, wholesome karma belonging to the Form Realm,
 and wholesome karma belonging to the Desire Realm are, respectively,

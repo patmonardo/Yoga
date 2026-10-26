@@ -13,7 +13,7 @@ The verse explains why the Noble Eightfold Path names wrong livelihood in
 addition to wrong speech and wrong action. The difference is one of causal
 root and practical function, not a fourth medium of action.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 yad bhagavatā "mithyāvāṅ mithyākarmānto mithyājīva" ity uktaṃ, ko 'yam
@@ -56,7 +56,7 @@ not attributed to the witness. The following source marker is printed
 `[254|15]`, although the sequence requires `[255|15]`; that next unit is not
 included here.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The Blessed One speaks of wrong speech, wrong action, and wrong livelihood.
 What wrong livelihood is there apart from the first two? There is no other

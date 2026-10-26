@@ -37,7 +37,7 @@ punctuation are editorial. The running verse has
 `āhlīkya` and `uddhava`; the official Kārikā study
 prints `āhrīkya` and also `uddhava`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Obstinate fault-clinging arises from grasping at view,
 while crookedness arises from view. The latter is fitting

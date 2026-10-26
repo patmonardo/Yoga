@@ -38,7 +38,7 @@ Spacing and sandhi have been regularized. The verse's compressed `hitvā`
 clause is read with the prose: the expected doubled measure is reduced by
 three yojanas for the Anabhrakas.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 The measure increases by successive half-yojana steps. At the next three
 stations, the Brahmapurohitas measure one yojana, Mahābrahman one and a half,
 and the Parīttābhas two yojanas.

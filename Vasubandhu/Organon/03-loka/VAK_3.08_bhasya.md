@@ -1,4 +1,4 @@
-# VAK_3.08 Bhāṣya — Consciousness, Field, Inclusion, and Birth
+# VAK_3.08 Bhāṣya — Cognition, Field, Inclusion, and Birth
 
 ## 1. Kārikā Anchor
 
@@ -85,6 +85,8 @@ Word division and punctuation are editorial. The source label
 read as the source's own suggested `upapādane`. The difficult phrase
 `yuvanty asyāṃ` is retained provisionally and translated only tentatively;
 the explanation securely turns on `prasavasāmya`, similarity of generation.
+The bird list normalizes the e-text's `kroñca` and `śūka` to `krauñca` and
+`śuka`; these readings need comparison with a printed witness.
 In the four-corner list, the transmitted `prathamāḥ ... yaddhijñānam` is
 provisionally read as `prathamā ... yad vijñānam`; the compressed
 `caturthyetānākārān` is divided as `caturthī etān ākārān`.
@@ -92,33 +94,33 @@ The running witness remains unchanged. The opening passage at 117.28–118.09
 is shared with VAK 3.07, whose delayed `kevalam` closes that verse; the next
 fragment, `vijñānaṃ na sthitiḥ proktam`, begins VAK 3.08 at 118.10.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
-Why is consciousness not itself called a station of consciousness, whereas
+Why is Cognition not itself called a station of Cognition, whereas
 the seven stations include all five Bases? Because a station is designated
 apart from what stands upon it. The one that stands is not itself its seat,
 just as the king is not himself the royal throne. The Vaibhāṣikas say that
-the dharmas which consciousness mounts and by which it travels, like a boat
-passenger, are called its stations. Consciousness does not mount itself and
+the dharmas which Cognition mounts and by which it travels, like a boat
+passenger, are called its stations. Cognition does not mount itself and
 travel; therefore it is not included among the four.
 
 But what, then, of the sūtra statement: “When there is delight and craving for
-consciousness as nutriment, consciousness is established and has mounted
-there”? And how is it said that “the seven stations of consciousness are
+Cognition as nutriment, Cognition is established and has mounted
+there”? And how is it said that “the seven stations of Cognition are
 included within the five Bases”?
 
-In that case, when consciousness occurs with delight in the Bases taken
-together, without distinction, within a birthplace, consciousness too belongs
-to a station of consciousness. But when the four are considered individually
+In that case, when Cognition occurs with delight in the Bases taken
+together, without distinction, within a birthplace, Cognition too belongs
+to a station of Cognition. But when the four are considered individually
 as form and the rest, each becomes a condition for the defilement of
-consciousness. Therefore, among the four stations alone, “consciousness is
+Cognition. Therefore, among the four stations alone, “Cognition is
 not declared to be a station.”
 
-Moreover, the Blessed One taught the four stations of consciousness under
-the aspect of field, while consciousness together with appropriation, taken
+Moreover, the Blessed One taught the four stations of Cognition under
+the aspect of field, while Cognition together with appropriation, taken
 as a whole, was taught under the aspect of seed. He did not establish the
 seed itself as the field of that seed. The dharmas that coexist with
-consciousness are better fitted to function as its field; therefore they
+Cognition are better fitted to function as its field; therefore they
 alone are called its stations.
 
 How, then, are the four supports included within the seven cognition-stations,
@@ -127,8 +129,8 @@ seven, nor are the seven simply included within the four.
 
 “When inclusion is examined, the relation is four-cornered.” Four cases must
 be understood. Something may be included within the seven but not within the
-four, and so forth. The first corner is the consciousness occurring within the
-seven stations. The second is the Bases other than consciousness, as
+four, and so forth. The first corner is the Cognition occurring within the
+seven stations. The second is the Bases other than Cognition, as
 present in the bad destinies, the fourth dhyāna, and the peak of existence.
 The third is the four support Base types, as applicable, within the
 seven stations. The fourth is what remains after these cases are set aside.
@@ -215,13 +217,19 @@ Thus “cognition is not a support” is not an unrestricted statement that
 cognition never belongs to anything called a `vijñānasthiti`. It applies to
 the fourfold support-classification.
 
+In the Organon determination, this is a claim about the conditioned Cognition
+Base and its station. The sevenfold classification includes that Base in the
+whole set of five; the fourfold classification treats the other Bases as its
+fields. Neither count introduces a separate “Consciousness Base,” nor does the
+fourfold exclusion concern Consciousness as First Principle.
+
 ## 6. Seed and Field
 
 The second explanation assigns different functions:
 
 | Function | Member |
 |---|---|
-| seed | consciousness together with appropriation |
+| seed | Cognition together with appropriation |
 | field | the four coexisting Bases |
 
 A seed is not the field for itself. The Bases coexisting with cognition
@@ -236,7 +244,7 @@ the Bases. Seed and field are explanatory roles occupied by conditioned
 dharmas.
 
 The field account fits the earlier qualification `sāsrava`: these Bases
-can serve as fields for consciousness under appropriation, delight, craving,
+can serve as fields for Cognition under appropriation, delight, craving,
 and defilement. The Bhāṣya does not derive their with-outflow status from the
 seed-and-field analogy alone.
 
@@ -248,7 +256,7 @@ four propositions:
 | Corner | In the seven | In the four | Bhāṣya case |
 |---|---:|---:|---|
 | first | yes | no | cognition occurring within the seven cognition-stations |
-| second | no | yes | Bases other than consciousness in bad destinies, fourth dhyāna, and peak of existence |
+| second | no | yes | Bases other than Cognition in bad destinies, fourth dhyāna, and peak of existence |
 | third | yes | yes | the four support Base types, where present, within the seven |
 | fourth | no | no | remaining cases after the preceding three are excluded |
 
@@ -258,7 +266,7 @@ classify modes of existence in which cognition stands; the four classify the
 Base-fields supporting cognition.
 
 The second corner says `vijñānavarjyāḥ skandhāḥ`, Bases other than
-consciousness. It must not be glossed as four Bases in every excluded
+Cognition. It must not be glossed as four Bases in every excluded
 state: the formless peak of existence lacks the form Base. The same
 qualification applies to the third corner's four support types wherever a
 formless station is under consideration.
@@ -311,7 +319,7 @@ coexisting Bases as field
 ```
 
 The two terms are inseparable within the process but not interchangeable in
-function. This is more precise than saying that consciousness merely
+function. This is more precise than saying that Cognition merely
 “projects” its own world. The projecting or seed-function requires a field,
 while the field is the conditioned complex through which that cognition can
 stand and become defiled.
@@ -342,11 +350,14 @@ scope in which cognition is not a support, and records the uncertain e-text
 forms in the modes-of-birth passage. The difficult `yuvanty asyāṃ` phrase
 remains unresolved; its bracketed rendering is tentative.
 
-This pass marked the overlap with VAK 3.07, aligned the conventional
-translation of `vijñāna` with VAK 3.05–3.06, and corrected the second and
+This pass marked the overlap with VAK 3.07, aligned the translation of
+`vijñāna` with VAK 3.05–3.06, and corrected the second and
 third inclusion corners for formless states. The seed-and-field account's
 relation to `sāsrava` is now identified as an inference rather than an
 explicit derivation by the Bhāṣya.
+
+The renewed 3.08 QA found no omitted continuous passage between 118.10 and
+119.02. The preceding 117.28–118.09 argument remains shared with 3.07.
 
 The research witnesses, running source, existing Kārikā study, and preceding
 Bhāṣya Studies remain unchanged. VAK 3.09 begins with the question at 119.03

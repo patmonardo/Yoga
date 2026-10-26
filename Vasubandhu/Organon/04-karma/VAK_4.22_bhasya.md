@@ -14,7 +14,7 @@ ends with the explicit avijñapti closing sentence at [210|19] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next Kārikā begins a discussion
 of `vijñapti` at [210|20].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kim asaṃvarasthaḥ kadācit kuśalayā vijñaptyā samanvāgato bhavati,
@@ -42,7 +42,7 @@ The question's reading is preserved above; its discrepancy is not
 silently repaired. `Prasāda` is rendered “confidence” here, retaining
 its force of clarity and trust rather than treating it as mere assent.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Can someone established in non-restraint ever be endowed with a
 wholesome manifestation, or someone established in restraint with an

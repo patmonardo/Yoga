@@ -11,7 +11,7 @@
 > in either case. One possessing the “I shall know” Faculty necessarily
 > possesses thirteen.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > aṣṭābhiḥ /
 > yaḥ strīndriyeṇa samanvāgataḥ so 'vaśyam aṣṭābhis
@@ -42,7 +42,7 @@ division is editorial. Śaraddhādīnām is read as śraddhādīnām, and
 ājñāta indriyam, ya ājñātendriyeṇa, and manaśraddhādibahir.
 No independent collation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 With eight: one possessing the Female-Faculty necessarily possesses the seven already stated and that faculty as eighth. “And so forth” includes the Male-Faculty, distress, and those beginning with faith. A possessor of the Male-Faculty or distress has the corresponding seven plus that faculty. A possessor of any faculty beginning with faith instead possesses all five of that group, together with neutral feeling, life, and Mind. Each case yields eight, with different members.
 

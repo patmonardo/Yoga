@@ -13,7 +13,7 @@ The complete unit begins at [229|19] and continues through the
 Vaibhāṣika seed analogy at [230|07]. The next kārikā begins at
 [230|08].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 niyatāniyataṃ tac ca
@@ -54,7 +54,7 @@ vipākaḥ` is difficult; its exact wording and argumentative force
 remain provisional below. The opening of 4.51, `catuṣkoṭikam`, is
 excluded.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “That karma is determinate or indeterminate.” The threefold karma
 beginning with karma to be experienced pleasantly is to be

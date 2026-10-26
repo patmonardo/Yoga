@@ -11,7 +11,7 @@
 
 The commentary distinguishes the three measures. The last explains the eighty thousand. `Tu` contrasts. It does not say the first two are false.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kiṃ punar dharmaskandhasya pramāṇam / śāstrapramāṇa ity eke /
 > eke tāvad āhur dharmaskandhasaṃjñakasyaivābhidharmaśāstrasyāsya
@@ -31,7 +31,7 @@ through the disposition explanation. The comparison that follows belongs to
 
 Word division and punctuation are editorial. The running `opramaṇam`, `skandhādīnaṃ`, `prātyekam`, and `caritasahasraṇi` are normalized to `pramāṇam`, `skandhādīnāṃ`, `pratyekam`, and `caritasahasrāṇi`. The research verse has `śāstrapramāṇā`. The running verse and the commentary read `śāstrapramāṇa`. That reading is kept.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > What is the measure of a Dharma-collection? Some say its measure is that of
 > the Abhidharma treatise named *Dharmaskandha*: six thousand. The text does

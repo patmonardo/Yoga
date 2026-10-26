@@ -29,7 +29,7 @@ Kārikā study: [`VAK_8.09.md`](./VAK_8.09.md).
 **Witness.** Pradhan 438|12–440|22 (long middle debate compressed). Voices:
 Vasubandhu; `apare` (bodily pleasure); objectors. Count is eleven, not ten.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > By substance these are eleven. Five of the first dhyāna. In the second, inward
 > clarity increases [the count]. In the third: equanimity, mindfulness, clear

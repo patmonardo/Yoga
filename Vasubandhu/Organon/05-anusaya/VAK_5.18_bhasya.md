@@ -56,7 +56,7 @@ compressed final `syur ... syur` remain as transmitted. The
 research excerpt stops at [290|06] and omits the final two
 sentences; their exact conditional force remains provisional.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Those whose objects are uncontaminated or higher do not
 adhere.” Anuśayas taking uncontaminated supports do not adhere

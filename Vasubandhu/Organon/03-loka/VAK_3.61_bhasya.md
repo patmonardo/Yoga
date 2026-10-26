@@ -45,7 +45,7 @@ predicate `vartate` makes explicit that `antyanavamyām` is carried forward
 from the first half of the verse; it is already present in the Bhāṣya and is
 not an independent calendrical conjecture.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Regarding this matter, moreover:
 
 In the second month of the rainy season, on the ninth day of the latter

@@ -55,7 +55,7 @@ it remains a conjecture pending collation. At 151.14–15 the witness reads
 to `pravartate`; the second is retained, rather than silently changed to
 `pravarteta`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Karma is like a grain enclosed in its husk, and likewise like a plant and a
 flower. Something that possesses a husk is called “husked.” Affliction has
 already been said to occupy the place of the husk; now Karma is said to

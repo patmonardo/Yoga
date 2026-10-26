@@ -28,7 +28,7 @@ Kārikā study: [`VAK_8.15.md`](./VAK_8.15.md).
 
 **Witness.** Pradhan 443|13–444|08. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > After which attainment-item do how many immediately arise?
 >

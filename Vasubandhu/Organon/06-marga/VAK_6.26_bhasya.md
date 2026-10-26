@@ -58,7 +58,7 @@ breaks are editorial. The transmitted `atraia`, `anvaya jñānam`, and
 `kāmavacara` remain unregularized; their readings await collation. The
 next unit begins at [351|07].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Immediately after Dharma-Knowing-Acceptance concerning suffering in the
 Desire Realm, Dharma-Knowing arises concerning that same suffering. It is

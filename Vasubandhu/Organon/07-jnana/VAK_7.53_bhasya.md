@@ -26,7 +26,7 @@ Kārikā study: [`VAK_7.53.md`](./VAK_7.53.md).
 **Witness.** Pradhan 428|12–429|03. Nine-āyatana compound compressed. Voices:
 Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Is every construction-mind indeterminate? What is a result of cultivation is
 > necessarily indeterminate. A birth-acquired construction-mind is wholesome,

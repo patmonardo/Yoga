@@ -34,7 +34,7 @@ varjitā iti vartate /
 
 This is the complete running unit [386|01]–[386|08–09] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. Its spellings `triṣvarupiṣu` and `ārupyesu` are retained as witnessed; the study verse normalizes `triṣv arūpiṣu`. The next kārikā fragment begins at [386|10].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 In the second dhyāna there are precisely thirty-six, with right resolve excluded because applied thought is absent there. In the third and fourth dhyānas there are thirty-five, deprived of joy and resolve. In the intermediate concentration too there are precisely thirty-five, deprived of those same two.
 

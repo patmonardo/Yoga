@@ -197,7 +197,7 @@ The witness also mislabels the unit following [195|04] as `[194|06]` and
 the round-shape clause as `[194|17-194|27]`; neither locator changes the
 prose sequence.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Otherwise destruction would never be without a cause.” If destruction
 required a cause as arising does, nothing would perish without a cause.

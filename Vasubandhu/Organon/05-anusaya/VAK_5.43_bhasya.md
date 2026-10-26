@@ -57,7 +57,7 @@ division and punctuation are editorial. The running text's
 `etānv` and `vicikitsāpravatitā` are retained for later
 textual review.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Elsewhere the Blessed One taught five lower fetters:
 personality view, grasping at discipline and observance,

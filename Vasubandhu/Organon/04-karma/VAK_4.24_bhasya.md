@@ -17,7 +17,7 @@ prepared research Bhāṣya witness begins only at [211|08] and omits
 the first half-verse and its explanation; these are recovered below
 from the running source.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 nivṛtānivṛtābhyāṃ ca nātītābhyāṃ samanvitaḥ.
@@ -46,7 +46,7 @@ contains only the second half. Its omission is not filled by inference
 from the Kārikā: the first-half prose is taken directly from
 `kosabhasya.txt`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Nor is one endowed with past obscured or unobscured [manifest
 actions].” No one is endowed even with past manifest actions that are

@@ -9,7 +9,7 @@
 > Two causes act on a dharma that is ceasing, and three on one that is
 > arising. The other two conditions act in the reverse temporal order.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > athaite pratyayāḥ kāritraṃ kurvantaḥ kimavasthe dharme kurvanti /
 > hetupratyayastāvat pañcavidha uktaḥ /
@@ -38,7 +38,7 @@ at the opening and reads `dvī` in the first verse fragment; both
 are retained in their respective places. The next question begins
 at 101.07.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 When these Conditions act, at what state of a dharma do they do so?
 The cause-condition has been said to comprise five causes. Of these,

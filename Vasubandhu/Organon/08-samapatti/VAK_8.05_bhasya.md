@@ -24,7 +24,7 @@ Kārikā study: [`VAK_8.05.md`](./VAK_8.05.md).
 
 **Witness.** Pradhan 436|12–437|02. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Thus these eight principal attainment-items: the four dhyānas and the four
 > formless. Other than the summit of existence, seven are threefold: associated

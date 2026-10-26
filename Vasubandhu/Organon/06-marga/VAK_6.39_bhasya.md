@@ -56,7 +56,7 @@ prints `rupopagāḥ` in the first verse half and uneven prose forms
 including `kleśenriya` and `prtyekam`; the study normalizes only its
 own verse text to `rūpopagāḥ`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Having made the three types threefold again, nine form-going
 non-returners are reckoned. Which three are divided? Those completing

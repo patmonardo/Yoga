@@ -44,7 +44,7 @@ The running witness contains minor mechanical forms, including `sravnti` and
 qualities. The continuous text regularizes evident spelling and sandhi while
 leaving the exact syntax of the eight-quality phrase provisional.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Here, to the north, beyond the nine Kīṭa mountains, is Himavān. Here within
 Jambūdvīpa, to its north, there are three black mountains. After crossing
 them there are another three and then again three. Thus, beyond the nine Kīṭa

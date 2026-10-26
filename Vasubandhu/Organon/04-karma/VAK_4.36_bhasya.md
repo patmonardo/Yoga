@@ -15,7 +15,7 @@ non-restraint is acquired, begins at [222|08] and opens 4.37.
 The research Bhāṣya omits substantial prose at [220|25–221|07]
 and [221|13–222|04]; this study restores it from the running text.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 atha kiṃ saṃvarāsaṃvarau sarvasattvebhya eva labhyete
@@ -137,7 +137,7 @@ than silently inserting it into the Sanskrit. The source label
 `[221|21-212|22]` is also malformed. No independent collation is
 claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Are restraint and non-restraint acquired with respect to all beings,
 all limbs, and all causes, or do they differ? There are determinate

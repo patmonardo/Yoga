@@ -15,7 +15,7 @@ The commentary enumerates, cites the scripture, and aligns the Prakaraṇa. The 
 
 The Bhāṣya unit runs from `[005|21]` through `[006|07]` in the local Sanskrit source.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > pañca rūpādayaḥ skandhā ity uktam / tatra rūpaṃ pañcendriyāṇy arthāḥ
 > pañcāvijñaptir eva ca / pañcendriyāṇi
@@ -36,7 +36,7 @@ The Bhāṣya unit runs from `[005|21]` through `[006|07]` in the local Sanskrit
 
 Compared with `Vasubandhu/Sources/kosabhasya.txt` at `[005|21]`–`[006|07]`. The witness opens sandhi and repairs damaged local forms, including the five-Faculty list at `[005|23]`, `prakaraṇagraṇtho` to *prakaraṇagrantho*, and `nirddeśyāḥ` to *nirdeśyāḥ*. The local punctuation places the closing quotation mark before *rūpaprasāda* in the scriptural citation; the displayed witness reads it with the citation, as the following *iti vistaraḥ* suggests. That quotation boundary has not been independently collated. The final sentence announces the detailed treatment of the five meanings in 1.10.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 It has been said: five bases, beginning with form. Among them, form is the five faculties, the five meanings, and *avijñapti*.
 

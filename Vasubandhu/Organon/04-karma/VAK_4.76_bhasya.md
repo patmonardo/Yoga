@@ -13,7 +13,7 @@ The verse completes the definitions of the verbal courses. This unit gives
 the broad definition of the fourth course. The alternative residual account
 begins as the first half of VAK 4.77 and belongs to the next study.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 paiśunyaṃ kliṣṭacittasya vacanaṃ parabhedane /
@@ -47,7 +47,7 @@ at `[247|01]` with `ato 'nyat kliṣṭamityanye`, an attributed alternative
 definition of `saṃbhinnapralāpa`. This boundary corrects the earlier draft,
 which had carried that next half-verse and its prose into 4.76.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Divisive speech is the utterance of one whose consciousness is afflicted,
 directed toward dividing others.” Speech arising from afflicted consciousness

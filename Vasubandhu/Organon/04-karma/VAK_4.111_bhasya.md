@@ -12,7 +12,7 @@
 The Bhāṣya treats the verse as specifying when three perfections are
 complete: giving in the first half, patience and discipline in the second.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 atha kasyām avasthāyāṃ bodhisattvaḥ kāṃ pāramitāṃ paripūrayate?
@@ -35,7 +35,7 @@ The source unit is `[267|03]–[267|09]`. The witness reads
 Sandhi and punctuation are opened for readability. The next source line
 begins 4.112.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 At what stage does a bodhisattva complete which perfection?
 

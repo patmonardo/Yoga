@@ -49,7 +49,7 @@ The unit runs from the pairing of acceptances/knowledges with right
 view/right knowledge through the enumeration of the six worldly views. The
 next question of the chapter begins a new unit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Acceptances are spoken of, and knowledges are spoken of; likewise right
 > view and right knowledge.

@@ -9,7 +9,7 @@
 > Form. The Dharma Principle is *sabhāga*; the others are *sabhāga* when
 > performing their own function, and *tat-sabhāga* when they do not.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > katy ādhyātmikā dhātavaḥ kati bāhyāḥ /
 >
@@ -145,7 +145,7 @@
 
 Word division is editorial. This unit runs from [027|01] to [028|24] in the local source. At [028|04–05] that transcription appears to read *dṛṣṭvā* (“having seen”) in the Kāśmīra list. Its definition of *tat-sabhāga* and the parallel list for Visible Form at [028|09] require the eye that has **not** seen; the working witness therefore reads *adṛṣṭvā*. The abandonment classification begins at [028|25].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > How many Principles are inner, how many outer?
 >

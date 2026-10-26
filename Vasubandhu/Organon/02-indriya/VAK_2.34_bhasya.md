@@ -12,7 +12,7 @@
 > manner, time, and individual instance—one consciousness and one of each
 > accompanying factor.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > uktāḥ saha cittena caittāḥ prakāraśas teṣāṃ punar imāḥ saṃjñāḥ paribhāṣyante /
 > pravacane etābhiḥ sadvyavahārāt /
@@ -49,7 +49,7 @@ equality; last is not inserted into the Sanskrit question.
 No independent collation is claimed. Dissociated formations
 at 62.11 begin 2.35.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Mental factors together with consciousness have been explained by kind. Their technical designations must now be defined, since they are used in the teaching. “Consciousness,” “Mind,” and “Cognition” have one referent here. It is called consciousness (*citta*) because it gathers, Mind (*manas*) because it considers, and Cognition (*vijñāna*) because it cognizes. Others explain the names differently: it is *citta* because it is variegated by wholesome and unwholesome Principles; the same thing, when serving as Basis, is called Mind, and when based upon it, Cognition.
 

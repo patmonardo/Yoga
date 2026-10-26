@@ -33,7 +33,7 @@ source reads `īṣryā` in the question and verse, while the
 official Kārikā study prints `īrṣyā`. This difference is
 preserved for textual review.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why are envy and avarice each stated separately as a fetter,
 but no other enveloping affliction is? “Because both are

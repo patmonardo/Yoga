@@ -47,7 +47,7 @@ The research excerpt already changes `pandhanārthaṃ` to
 `bandhanārthaṃ`. The compact `athāgrahaṇaṃ` also needs independent
 comparison before its precise grammatical force can be fixed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 It was said that “the diversity of the world is born from karma.” Those
 actions accumulate under the power of the anuśayas; without the anuśayas

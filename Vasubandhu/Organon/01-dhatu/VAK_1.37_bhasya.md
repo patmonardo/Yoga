@@ -18,7 +18,7 @@ make every member a product of both causes.
 The anchor follows the kārikā witness with sandhi applied (*śabdo 'pratighā*);
 the running Bhāṣya text reads the unsandhied *śabdaḥ apratighā*.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kati vipākajāḥ dhātavaḥ katyaupacayikāḥ kati naiḥṣyandikāḥ kati dravyayuktāḥ kati kṣaṇikāḥ /
 >
@@ -103,7 +103,7 @@ The last sentence has *sañābhāvāt*. The research transcription's
 *saṃcayābhāvāt*, “because of absence of accumulation,” supplies the
 provisional construal used below.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How many Principles arise through maturation, how many are reinforced
 through increase, how many arise through causal continuity, how many

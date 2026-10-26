@@ -14,7 +14,7 @@ ends with the first-moment objection at [214|23–24] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question, at
 [214|25], asks who may undertake upavāsa and opens 4.30.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kimarthaṃ punar aṣṭāṅgany upādīyante? yasmāt:
@@ -65,7 +65,7 @@ visible above. The prose has `vṛtāṅga`, while the Kārikā has
 `vratāṅga`. The exact first analogy after `samudāya` and the
 segmentation of the awakening-factor example remain provisional.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why are eight limbs undertaken? Because four are limbs of
 discipline, one is a limb of heedfulness, and three are limbs of

@@ -12,7 +12,7 @@
 
 The Bhāṣya unit occupies `[003|15]`–`[003|23]` in the local Sanskrit source. Its next line opens 1.06.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > anāsravāḥ katame /
 > anāsravā mārgasatyaṃ trividhaṃ cāpy asaṃskṛtam /
@@ -29,7 +29,7 @@ The Bhāṣya unit occupies `[003|15]`–`[003|23]` in the local Sanskrit source
 
 Compared with `Vasubandhu/Sources/kosabhasya.txt` at `[003|15]`–`[003|23]`. The local text opens with `anasravāḥ katame`; the witness normalizes this to `anāsravāḥ katame`, in agreement with the following verse and prose. It also opens sandhi and regularizes word division, including `katamattri vidham` as `katamat trividham`. These are editorial readings of the local source, not a critical edition. The answer to “which two?” names the cessations here; their definitions belong to the following unit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Which dharmas are pure?
 

@@ -50,7 +50,7 @@ Word division and punctuation are editorial. The transmitted final phrase
 gloss without silently emending the Sanskrit verse. The running source
 remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Running about in that way, “one produces karma whose result is future
 existence; that is becoming.” Running about for the sake of obtaining
 Conditions, one accumulates karma productive of renewed existence. This is

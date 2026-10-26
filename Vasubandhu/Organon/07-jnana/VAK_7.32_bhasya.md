@@ -30,7 +30,7 @@ Kārikā study: [`VAK_7.32.md`](./VAK_7.32.md).
 “second” = karmic maturation. Sūtra fragments not reconstructed. Voices:
 Vasubandhu; objector (why not knowledge itself?).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > As the power of knowing possibility and impossibility, so the fearlessness
 > “I am fully awakened.” As the influx-exhaustion power, so “my influxes are

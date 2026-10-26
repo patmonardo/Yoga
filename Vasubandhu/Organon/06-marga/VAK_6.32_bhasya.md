@@ -42,7 +42,7 @@ breaks are editorial. The source kārikā's `nāstyanaḥ` differs from the
 study's `nāsty ataḥ`; the former remains visible here for collation.
 The next unit begins at [355|04].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why is someone who had already abandoned five grades still called a
 stream-enterer at the sixteenth moment, rather than a candidate for the

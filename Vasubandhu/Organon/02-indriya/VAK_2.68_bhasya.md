@@ -10,7 +10,7 @@
 > seven follow it. In the Form realm, eleven kinds follow wholesome
 > mind, which itself follows nine.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > pañcabhyo 'nivṛtaṃ
 > kāma iti varttate /
@@ -33,7 +33,7 @@ The witness follows [the local running source](../../Sources/kosabhasya.txt)
 from 104.09 through 104.21. Source spellings are retained.
 The Form Realm obscured case begins at 104.22.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Desire Realm unobscured-indeterminate mind arises immediately
 after five kinds. Four are of its own level; the fifth is wholesome

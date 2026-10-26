@@ -24,7 +24,7 @@ Kārikā study: [`VAK_8.27.md`](./VAK_8.27.md).
 **Witness.** Pradhan 450|20–451|13. Voices: Vasubandhu. Compressed later-life
 clause left unrestored.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > These further samādhis are exclusively contaminated — opposition to the noble
 > path. They arise among humans, not gods; of the unshakeable arhat, not another.

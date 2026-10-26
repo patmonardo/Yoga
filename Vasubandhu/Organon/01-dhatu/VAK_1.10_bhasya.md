@@ -14,7 +14,7 @@ The commentary counts, then says how the taking works. *Avijñapti* is next. It 
 
 Span: Pradhan `[006|07]`–`[007|28]`.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > tatra tāvat / rūpaṃ dvidhā / varṇaḥ saṃsthānaṃ ca / tatra varṇaś
 > caturvidho nīlādiḥ / tadbhedā anye / saṃsthānam aṣṭavidhaṃ dīrghādi
@@ -76,7 +76,7 @@ Span: Pradhan `[006|07]`–`[007|28]`.
 
 The line *ghādīnāṃ pradeṣaḥ* is damaged in the local witness. Kept. Not repaired. Word division is editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 There, first: visible form is twofold. Color and configuration. Color is fourfold, beginning with blue; the others are its divisions. Configuration is eightfold, from long through uneven. That same visible-form essence is further said to be twentyfold. Namely: blue, yellow, red, white, long, short, round, circular, raised, lowered, even, uneven, cloud, smoke, dust, mist, shadow, sunlight, light, and darkness. Some include the sky as one color and recite twenty-one.
 

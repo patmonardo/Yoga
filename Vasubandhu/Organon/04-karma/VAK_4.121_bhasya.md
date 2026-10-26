@@ -12,7 +12,7 @@
 The Bhāṣya explains the difficult `agṛhṇati` through merit arising without
 a recipient who accepts or uses the offering.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 caitye sarāgasyātmārthaṃ dānam ity uktam.
@@ -62,7 +62,7 @@ reading near `dānakriyāvīja` at `[272|19–20]`, normalized as
 `dānakriyābījam`. The transmitted verse form `agṛhṇati` is difficult;
 the explanation follows the Bhāṣya's explicit no-recipient reading.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 It was said that a passion-bearing person gives at a shrine for the
 person's own sake. When there is no one who uses the offering, how can

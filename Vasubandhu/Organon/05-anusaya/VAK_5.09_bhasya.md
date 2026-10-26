@@ -97,7 +97,7 @@ the sūtra quotation marks the source's own `yāvat` abbreviation,
 not omitted prose from this study. The research excerpt stops at
 [284|06] and omits the subsequent school disagreement.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The preceding discussion mentioned inversions concerning
 permanence and self. Are there only two? There are four: taking

@@ -51,7 +51,7 @@ transmitted. The separate kārikā reads `kapālārdha`, where the running verse
 has `kapālārtha`; the prose twice specifies half the skull. The half-verse at
 [338|16] opens 6.11.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The practitioner cultivating the unattractive is said to be of three kinds: a
 beginner, one who has gained familiarity, and one whose attention has passed

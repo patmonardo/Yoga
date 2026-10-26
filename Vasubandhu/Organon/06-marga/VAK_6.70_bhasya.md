@@ -64,7 +64,7 @@ siddho 'nukramaḥ /
 
 This is the complete running unit [384|15]–[385|11] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The question at [385|12] begins the next unit on contaminated and uncontaminated Bodhi-aligned factors. The witness's compressed readings and the two scriptural citations in the alternate account are retained without ellipsis.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The commentary asks at which stage each Bodhi-aligned group is especially developed. In the beginner's stage, the establishments of recollection discern body and the other fields. At Heat, the right abandonments come forward as energy is applied to attaining further distinction. At the Summits, the bases of spiritual power are prominent because the practitioner has entered wholesome roots that do not decline. At Acceptance, the faculties have acquired governing efficacy and that stage does not fall away. At the Highest Mundane Dharmas, the powers are not overcome by afflictions—or by other mundane dharmas.
 

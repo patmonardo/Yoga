@@ -42,7 +42,7 @@ punctuation are editorial; the Sanskrit is drawn from the
 running IAST source. The prose itself unpacks the compact
 compound `svakatrayaikarūpāpta`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 If one stated separately how many anuśayas adhere in each
 `vastu`, there would be a great deal to say. Therefore a

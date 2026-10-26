@@ -11,7 +11,7 @@
 > and Formless Realms it has the other three kinds, without the
 > unwholesome. Mind without *āsrava* is twofold.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > abhedena cittacaittāḥ samanantarapratyaya uktā niyamastu noktaḥ kasya cittasyānantaraṃ kasyotpaktiriti /
 > sa idānīṃ vaktavyaḥ /
@@ -35,7 +35,7 @@ from 103.09–10 through 103.18. The source mislabels one locator
 as 101.13; its text is retained. The succession rules start
 at 103.19.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Mind and mental factors were called immediately antecedent
 Conditions without differentiating their kinds. The rule saying

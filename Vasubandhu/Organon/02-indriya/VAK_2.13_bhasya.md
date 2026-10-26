@@ -11,7 +11,7 @@
 > are either to be abandoned by cultivation or not to be abandoned;
 > the triad is not to be abandoned.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > katīndriyāṇi darśanaprahātavyāni kati bhāvanāprahātavyāni
 > katy aprahātavyāni / manovittitrayaṃ tredhā /
@@ -33,7 +33,7 @@ the running verse. No independent collation is claimed.
 
 Uktaḥ prakārabhedaḥ closes the distinctions. Lābha idānīṃ vaktavyaḥ opens acquisition and is 2.14.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How many faculties are to be abandoned by seeing, how many by cultivation, and how many are not to be abandoned? Mind and three feelings admit all three classifications. Which feelings? Pleasure, gladness, and neutral feeling. Distress is to be abandoned in two ways, by seeing or by cultivation. Nine are to be abandoned by cultivation alone: the seven beginning with the eye, life as the eighth, and the Pain-Faculty. The five beginning with faith are, depending on the instance, to be abandoned by cultivation or not to be abandoned, because they can occur with or without *āsrava*. The triad beginning with the faculty “I shall know” is not to be abandoned, because it is without *āsrava*. What is faultless is not fit to be abandoned. The distinctions of kind have now been explained.
 

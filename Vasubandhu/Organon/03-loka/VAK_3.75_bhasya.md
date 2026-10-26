@@ -35,7 +35,7 @@ The commentary's first Jambūdvīpa measure is given as three and a half
 `hasta`, while `kecit tu` explicitly preserves an alternative of four. The
 prose identifies the successive measures for the other three populations.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 Do beings have differences in bodily measure just as world-containers have
 differences in measure? They do, the Bhāṣya says.
 

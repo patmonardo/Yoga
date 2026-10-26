@@ -11,7 +11,7 @@
 > Non-acquisition is always unobscured-indeterminate; for past and
 > future dharmas, non-acquisition may be past, present, or future.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kimanivṛtāvyākṛtasyaiva sahajā praptirityāha
 > nivṛtasya ca rūpasya
@@ -40,7 +40,7 @@ indentation. It retains *praptir*, *saharjaiva*, and
 restored Sanskrit or polarity is asserted for it. The next
 Realm-classification clause at 66.06 belongs to 2.40.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Is acquisition co-arisen only for the unobscured-indeterminate?
 The reply is: of obscured Form also. Acquisition of obscured-

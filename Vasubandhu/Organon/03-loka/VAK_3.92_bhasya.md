@@ -43,7 +43,7 @@ Sandhi and punctuation are lightly regularized. The source reads
 `abhinivartante` in the receptacle sentence; its sense there is uncertain,
 and it is retained without emendation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 By this reckoning of intermediate kalpas, this expanded world stands for
 twenty intermediate kalpas. It remains in the expanded state for twenty;
 the expansion process likewise takes twenty. Then it remains contracted for

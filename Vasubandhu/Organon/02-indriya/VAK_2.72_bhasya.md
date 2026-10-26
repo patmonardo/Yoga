@@ -10,7 +10,7 @@
 > maturation-born, deportment-related, craft-related, and creation;
 > in the Form Realm, it is without craft.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > vipākajaiyapithikaśailpasthānikanairmitam /
 > caturdhā 'vyākṛtaṃ kāme
@@ -147,7 +147,7 @@ prose treatment of twenty-kind succession and attention before
 and after the noble Path. Source spellings and damaged readings
 are retained. The acquisition question begins at 109.04.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The word “dividing” continues from the preceding verse. In the
 Desire Realm, unobscured-indeterminate mind divides into four:

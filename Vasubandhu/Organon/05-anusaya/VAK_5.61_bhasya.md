@@ -64,7 +64,7 @@ come from the explicit Bhāṣya glosses, not a secure division of the damaged
 first pāda. The running verse has `ālambanāt` where the separate kārikā
 prints `ālambanān`.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How many kinds of counteragent are there? Four. The
 counteragent of abandonment is the uninterrupted path

@@ -45,7 +45,7 @@ independently collated against the printed editions. The conjectural verse
 ending `śāstraḥ` remains as displayed in the current Kārikā study; it is not
 established by the local IAST text.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Why, then, is instruction in Abhidharma given, and by whom was it first
 > taught, that the teacher undertakes to expound the *Abhidharmakośa*? He

@@ -77,7 +77,7 @@ labels are removed and line breaks editorial. The running verse reads
 `pratipannakaḥ`. Uneven numerical and compound forms remain as
 transmitted pending collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The non-returner remains the subject. From detachment from the first
 cultivation-abandonable grade of the first dhyāna through the

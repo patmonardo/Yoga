@@ -48,7 +48,7 @@ study's contextual correction `avyākṛtamūlāni`; the continuous
 Sanskrit retains the running witness's reading. The separation
 of `avyākṛta mūlāni` in the prose is also retained.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How many are roots of the unwholesome, and how many are not?
 “In the Desire Realm, attachment, hostility, and delusion are

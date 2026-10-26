@@ -51,7 +51,7 @@ tajjātīyādadhimātrataratvāduttarottaraprāpaṇāt nirūpadhiśeṣapraveś
 
 This is the complete running unit [381|14]–[382|06] in `Vasubandhu/Sources/kosabhasya.txt`, with source labels removed. The next sentence at [382|07] introduces the four modes of *pratipad* in 6.66. The witness's compact `lokokttara` in its retrospective list is retained as transmitted.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Completeness in one beyond training is determined in two respects: faculty and meditative attainment. Someone incomplete with respect to fruit would not be beyond training at all, so fruit is not established again as a variable measure of that person's completeness. The commentary gives three examples: one liberated independently of occasion but through Prajñā is complete by faculty; one liberated in both respects but dependent on occasion is complete by attainment; and one liberated in both respects independently of occasion is complete by faculty and attainment.
 

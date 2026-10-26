@@ -17,7 +17,7 @@ explanation; neither reading is silently normalized. The natural unit runs from
 `Vasubandhu/Sources/kosabhasya.txt`. The question about false
 speech at [218|09–10] opens the next discussion.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kiṃ punaḥ kāraṇam anyeṣu saṃvareṣv abrahmacaryād viratiḥ
@@ -60,7 +60,7 @@ contrast is clear—abstention from sexual misconduct rather than
 complete celibacy—but the latter sentence cannot be translated as
 though its transmitted wording were unproblematic.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Why is abstention from non-celibacy established as a training rule
 in the other restraints, but abstention from sexual misconduct in

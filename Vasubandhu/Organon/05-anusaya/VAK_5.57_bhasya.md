@@ -33,7 +33,7 @@ the separate kārikā witness has nominative `upanāhaḥ`.
 The transmitted form is preserved here. Line division and
 the removal of the source's verse identifier are editorial.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Now, concerning the secondary afflictions: remorse, envy,
 anger, harmfulness, sustained resentment, and obstinate fault-clinging are

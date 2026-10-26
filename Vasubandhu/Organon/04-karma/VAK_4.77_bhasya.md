@@ -13,7 +13,7 @@ The first half records an alternative, residual definition of the fourth
 verbal course. The second turns to the first mental course and identifies
 its practical content: the wish to make another's possession one's own.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 ato 'nyat kliṣṭamityanye
@@ -61,7 +61,7 @@ The complete unit is `[247|01]–[247|17]`. The running witness reads
 remain visible. VAK 4.78 begins at `[247|18]` with hostility and false view
 before asking why the ten are called courses of karma.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Others say that afflicted speech other than these is disordered
 discourse.” According to this position, afflicted speech other than false

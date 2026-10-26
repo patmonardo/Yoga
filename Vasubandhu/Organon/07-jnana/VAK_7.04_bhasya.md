@@ -34,7 +34,7 @@ quoted only to fix the syntax of this unit, not as a completed 7.05 study:
 **Witness.** Citation: Pradhan 392|13–20, with the 393|01–03
 opening as boundary-control. Voice: Vasubandhu. No opponent.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Those very two [are] four through distinction according to the truths.
 >

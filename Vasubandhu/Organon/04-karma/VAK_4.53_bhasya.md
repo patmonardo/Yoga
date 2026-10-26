@@ -13,7 +13,7 @@ The Bhāṣya unit begins with the question at [231|09] and ends at
 [231|20–21]. The next question, about which karma is determinate,
 begins at [231|22].
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kim antarābhave 'py asti karmaṇa ākṣepaḥ /
@@ -53,7 +53,7 @@ post-birth stage names; the conventional “youth” below is inferred
 from the announced fivefold count, not silently restored into the
 Sanskrit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Can karma also be projected during intermediate existence? Yes, he
 says: “In the Desire Realm, intermediate existence projects

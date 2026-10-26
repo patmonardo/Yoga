@@ -62,7 +62,7 @@ antarābhāsaṃjñikayā`, which is incoherent in context. It has provisionally
 been read as `skandhamātram antarābhavasaṃjñikayā`; this is a substantive
 repair requiring collation. The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 At this point the externalists rise up, embracing the doctrine of an ātman.
 They argue: “If it is maintained that a sentient being passes into another

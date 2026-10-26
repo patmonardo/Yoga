@@ -22,7 +22,7 @@ Kārikā study: [`VAK_8.25.md`](./VAK_8.25.md).
 
 **Witness.** Pradhan 450|01–11. Voices: Vasubandhu.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > These three samādhis are twofold: worldly-pure and uncontaminated. Worldly: on
 > eleven grounds. Supramundane: where the path is. The uncontaminated three are

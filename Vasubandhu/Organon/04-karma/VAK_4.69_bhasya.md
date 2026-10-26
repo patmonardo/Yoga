@@ -14,7 +14,7 @@ The first half completes the preceding inquiry into the three unwholesome
 roots. The second applies the three-phase form of VAK 4.68 to wholesome
 courses and explains their genesis from wholesome consciousness.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 abhidhyādayaḥ kathaṃ lobhajāḥ /
@@ -59,7 +59,7 @@ The complete unit is `[241|20]–[242|05]`. The running witness reads
 irregularities have not been silently normalized. The next inquiry begins
 at `[242|06]` and introduces the completion roots classified in VAK 4.70.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 How are covetousness and the other mental courses born from greed?
 “Because they arise immediately after them, covetousness and the other

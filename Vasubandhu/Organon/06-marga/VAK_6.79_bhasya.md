@@ -11,7 +11,7 @@ Last verse of Mārga-nirdeśa. The chapter ends on a matrix, not a mood.
 
 Kārikā study: [`VAK_6.79.md`](./VAK_6.79.md).
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > duḥkhe samudayakṣāntijñānair eva nirvidyate nānyaiḥ /
 > sarvair api duḥkha-samudaya-nirodha-mārga-kṣāntijñānair virajyate / yaiḥ kleśān prajahāti /
@@ -22,7 +22,7 @@ Kārikā study: [`VAK_6.79.md`](./VAK_6.79.md).
 
 **Witness.** Pradhan 389|21 ff. Voice: Vasubandhu. End of chapter prose.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > One is disenchanted only by the receptivities and knowledges of suffering and
 > origin — not by the others. Those take a basis fit for turning away.

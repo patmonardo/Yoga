@@ -9,7 +9,7 @@
 > by their alteration. Therefore, because they are not shared, Cognition is
 > designated by them.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kiṃ punaḥ kāraṇam ubhayādhīnāyāṃ vijñānotpattau cakṣur-ādaya evāśrayā ucyante na rūpādayaḥ /
 >
@@ -43,7 +43,7 @@
 
 Word division is editorial. This unit runs from [034|17] through [034|30] in the local source; its *na punā* is retained. The next question, about whether Faculty, Visible Form, Cognition, and bodily location must occupy one realm level, starts at [035|01].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > The arising of Cognition depends on both Faculty and presented Condition. Why, then, are the Eye and the other Faculties called its Bases, rather than Visible Form and the other Conditions?
 >

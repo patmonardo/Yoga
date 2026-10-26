@@ -120,7 +120,7 @@ corrupt in places, particularly in the explanation of the Buddha's activity.
 The translation follows the clear argumentative movement without claiming a
 critical reconstruction.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 The four Cakravartins rule one, two, three, or four continents respectively.
 The iron-wheel ruler is lord of one continent, the copper-wheel ruler of two,
 the silver-wheel ruler of three, and the gold-wheel ruler of four. This is a

@@ -93,7 +93,7 @@ study](https://www.cambridge.org/core/journals/religious-studies/article/sanghab
 That parallel has spontaneous beings appear “in space”; it does not by itself
 establish the damaged Sanskrit word. The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 First, relying upon reasoning, it is said: “Because of relevant similarity to
 the continuity of rice, the arising of existence is uninterrupted.” Dharmas
@@ -147,8 +147,8 @@ example.
 It is dissimilar also “because it arises from two.” A reflection arises from
 two causes, the original image and the mirror, and arises in dependence upon
 the principal cause. Rebirth-existence does not likewise arise from two
-principal causes—from death-existence and from some other independent
-principal cause. For this reason too the example is dissimilar.
+causes—from death-existence and from some other principal cause. For this
+reason too the example is dissimilar.
 
 Nor is it reasonable to say that external, [insentient] semen and blood alone
 are the principal cause. Where spontaneously arisen beings appear without

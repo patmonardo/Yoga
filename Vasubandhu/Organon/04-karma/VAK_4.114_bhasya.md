@@ -12,7 +12,7 @@
 The Bhāṣya separates benefit-scope from the further distinctions of giver,
 thing, and field.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 tat khalv etad dānam:
@@ -49,7 +49,7 @@ dānam` at `[268|20]` continues from 4.113. The witness reads
 conjecture and is not silently substituted above. The giver analysis
 begins at `[269|07]` and belongs to 4.115.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 This giving is performed for one's own benefit, another's benefit, both,
 or neither.

@@ -53,7 +53,7 @@ The question is `kaḥ katibhiḥ parijñābhiḥ samanvāgataḥ`: who is endow
 with how many *parijñās*? The numbers describe present endowment at
 specified Path positions, not the number of abandonments ever produced.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Who is endowed with how many *parijñās*? One standing in the path of
 seeing is endowed first with none and then with as many as five. An

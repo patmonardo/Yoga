@@ -12,7 +12,7 @@
 > nor disagreeable feeling, both bodily and mental, undivided because
 > there is no difference with respect to remaining neutral.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > anyatra sā saumanasyaṃ /
 > tṛtīyād dhyānād anyatra kāmadhātau prathame dvitīye ca dhyāne
@@ -41,7 +41,7 @@ dṛgbhāvanā at 42.07, which opens 2.09.
 
 Word division is editorial. Caiatasikī → caitasikī. Abhisamasyai kam is joined as abhisamasyaikam. Ce tyekam is joined as cety ekam. The malformed locator 42.02–41.03 is a locator defect, not a displacement. No substantive emendation is claimed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Elsewhere, that feeling is gladness. Outside the third dhyāna, in the desire realm and in the first and second dhyānas, that agreeable mental feeling is the gladness-faculty. In the third dhyāna, however, because of dispassion toward rapture, it is precisely the pleasure-faculty and not the gladness-faculty. For rapture is gladness. Disagreeable mental feeling, in turn, is distress. Neutral feeling is the middle. Feeling that is neither agreeable nor disagreeable, neither painful nor pleasurable, is called the middle. That is the neutral-feeling faculty. Is it bodily or mental? Of both kinds. Why, then, is it combined into a single faculty? Because of non-differentiation.
 

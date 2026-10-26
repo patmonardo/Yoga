@@ -11,7 +11,7 @@
 > followed by four; obscured mind likewise follows ten and is
 > followed by four.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > kāme nava śubhāccittāccittāni
 > anantaramiti paścādvakṣyati /
@@ -43,7 +43,7 @@ The witness follows [the local running source](../../Sources/kosabhasya.txt)
 from 103.19 through 104.08. Source spellings are retained. The
 unobscured Desire Realm case begins at 104.09 with 2.68.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 In the Desire Realm, nine kinds of mind can immediately follow a
 wholesome mind. “Immediately” is supplied in the following line.

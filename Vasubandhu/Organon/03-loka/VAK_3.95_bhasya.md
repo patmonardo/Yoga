@@ -37,7 +37,7 @@ compressed form `cakrkāṇi`; `cakrāṇi` is adopted above as the clear readin
 required by the sentence. The verse's compound supplies the four materials,
 including iron (`ayas`).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 When do Cakravartins arise? They arise while human lifespans are immeasurable,
 down to eighty thousand years, but not below that. Those whose lifespans fall
 below this are not a suitable basis for that abundance of crops.

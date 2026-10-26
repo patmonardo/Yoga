@@ -62,7 +62,7 @@ The witness's `ekavīcido`, `vidhnayitum`, and `samukhīkṛtaḥ` remain
 without silent repair. The source has an anomalous `[358|17-258|18]`
 label at the end of this unit.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 That same person established in a fruit, with seven or eight fault
 portions destroyed, has one birth remaining and is one-interval,

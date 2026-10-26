@@ -33,7 +33,7 @@ api śabdācchīladharmāvetyaprasādau ca pratilabhate /
 
 This is the continuous source passage [386|10]–[386|18] in `Vasubandhu/Sources/kosabhasya.txt`, with labels removed. The quoted 6.74 opening at [386|14] makes the following explanation of both verses continuous; its Path-truth and `api` belong to 6.74's translation. The source spellings `dvārviśatir` and `saṃghayiorapi` are retained as witnessed.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 In the desire realm and at the summit of existence, the factors of awakening and the factors of the Path are absent. There are twenty-two Bodhi-aligned factors in each, because an uncontaminated Path is absent from both. At what stage should acquisition of verified confidence be understood for one proceeding among the Bodhi-aligned factors? At the Seeing of the three Truths there is acquisition of the verified confidences concerning ethical discipline and Dharma.
 

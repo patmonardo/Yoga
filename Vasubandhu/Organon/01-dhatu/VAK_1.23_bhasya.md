@@ -71,7 +71,7 @@ unrepaired: *vyadhvānadhraviṣayam*, *aprāptasyaiva jihvā bhojyasya*, and
 remainder clause; its force is uncertain. This is a working text, not a
 critical collation.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The order of the six beginning with the eye, among the Essences and
 Principles, must be explained. The order of their Conditions and corresponding

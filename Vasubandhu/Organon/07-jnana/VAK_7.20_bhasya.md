@@ -24,7 +24,7 @@ Kārikā study: [`VAK_7.20.md`](./VAK_7.20.md).
 **Witness.** Pradhan 405|18–406|06. Reason-clause `gotrāṇāmaporatilabdhatvāt`
 unrestored. Voice: Vasubandhu. Path-anvaya exclusion developed in 7.21.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > Now, at which stage are how many knowledges cultivated?
 >

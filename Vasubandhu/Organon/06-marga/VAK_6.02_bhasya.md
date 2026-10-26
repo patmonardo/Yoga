@@ -113,7 +113,7 @@ dve āryāṇāṃ satye dve ārye cāryāṇāṃ ca satye ityapare /
 
 The running witness is [327|11–328|23] in `Vasubandhu/Sources/kosabhasya.txt`. Its distributed kārikā and forms such as `vavoktāni`, `deṣāñcit`, and `karamād` are retained. Indentation and removal of source labels are editorial. The simile and cited verse also contain uncertain readings; their precise wording remains provisional. The next question at [328|23–328|24] belongs to 6.03.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “Seeing the truths” was mentioned. What are these truths, and how many are
 there? Four have already been stated in the exposition of dharmas with and

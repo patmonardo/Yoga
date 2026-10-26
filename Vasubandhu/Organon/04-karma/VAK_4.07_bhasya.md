@@ -16,7 +16,7 @@ The Bhāṣya identifies “the other” as both `vijñapti` and `cetanā`, and
 the two levels as the desire realm and first dhyāna. The Kārikā study
 is `VAK_4.07.md`.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 nāvyākṛtāsty avijñaptiḥ.
@@ -64,7 +64,7 @@ the latter two are displayed as `avijñaptir nārhati` and
 `samāpattur nālaṃ`, editorial repairs rather than mere word division.
 The translation remains provisional where these readings matter.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 “There is no ethically indeterminate non-disclosing continuity.” Why? An
 ethically indeterminate consciousness is weak. It cannot project forceful

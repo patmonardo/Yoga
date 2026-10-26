@@ -15,7 +15,7 @@ restraints at [217|19] in `Vasubandhu/Sources/kosabhasya.txt`.
 The question about the lay sexual-conduct rule at [217|20–21]
 starts the next topic.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kiṃ punaḥ saṃvaragrahaṇād evopāsakaḥ syād vinā śaraṇagamanaiḥ /
@@ -92,7 +92,7 @@ repaired. Its phrasing about the future Saṅgha is compressed; the
 translation below follows the argument provisionally. The cited
 verses are part of this Bhāṣya unit, not separate kārikās.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Does one become an upāsaka just by receiving restraint, without
 going for refuge? No, except in the case of ignorance. When someone

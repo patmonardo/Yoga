@@ -48,7 +48,7 @@ are editorial.
 The “five or eight” is a disagreement over attribution of fruits to a
 meditative basis, not over the ninefold enumeration of 5.64–5.65.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 All the *parijñās* are fruits of *anāgamya*. For the
 fundamental dhyānas, according to the Vaibhāṣikas, five

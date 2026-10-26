@@ -10,7 +10,7 @@
 > Faculties through governing, respectively, class-persistence, defilement,
 > and purification.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > nikāyasabhāgasthitau jīvitendriyasyādhipatyaṃ saṃkleśe vedanānām /
 > tathā hi sukhāyāṃ vedanāyāṃ rāgo 'nuśete duḥkhāyāṃ pratigho
@@ -21,7 +21,7 @@
 
 The prose is printed 39.20–23 in `Vasubandhu/Sources/kosabhasya.txt`, after the verse at 39.18–19. It ends before the next kārikā at 40.01–02. Word division is editorial. No substantive emendation. The avagraha in 'duḥkhāsukhāyām is the elided a of aduḥkhāsukha, neither painful nor pleasant.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The life-faculty governs the persistence of the homogeneous class of living beings; the feelings govern defilement. As the sūtra says, attachment lies latent in pleasant feeling, aversion in painful feeling, and ignorance in feeling that is neither painful nor pleasant. The five beginning with faith govern purification: through them afflictions are held in check and the path is brought forth. Each of these, too, is therefore accepted as a faculty in its own right.
 

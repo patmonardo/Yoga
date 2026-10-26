@@ -14,7 +14,7 @@ volition. This verse shifts the coordinate: it asks which unwholesome Courses
 of Action occur in particular destinations, either by present manifestation
 or by endowment.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 ```iast
 kasyāṃ gatau kati karmapathā akuśalāḥ kuśalā vā saṃmukhībhāvataḥ
@@ -45,7 +45,7 @@ endowment.” The opening question governs this whole regional enumeration: it c
 both unwholesome and wholesome Courses of Action, although 4.82 itself begins
 with the unwholesome distribution.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 In which destination do how many wholesome or unwholesome Courses of Action
 occur, through present manifestation or through endowment?

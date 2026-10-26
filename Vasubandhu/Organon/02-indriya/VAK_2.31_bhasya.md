@@ -13,7 +13,7 @@
 > is also absent, as are deception and crookedness. Prior exclusions
 > continue to apply.
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > ya eva kāmadhātau caittānāṃ niyama uktaḥ
 > kaukṛtyamiddhākuśalāny ādye dhyāne na santy ataḥ /
@@ -42,7 +42,7 @@ damaged title sequence sraṣṭā sṛjaḥ; it does not establish two
 secure distinct titles. No independent collation is claimed.
 Distinctions among factors at 59.16 begin 2.32.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The preceding rules for mental factors concerned the Desire Realm. In the first dhyāna, regret and torpor are entirely absent, as is anything unwholesome: hostility; the factors beginning with anger, apart from crookedness, intoxication, and deception; and shamelessness and lack of moral caution. The other factors remain as before.
 

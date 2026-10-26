@@ -11,7 +11,7 @@
 > unobscured follows the same three/six rule. From formless wholesome,
 > however—
 
-## 2. Continuous Sanskrit Witness
+## 2. Continuous Sanskrit
 
 > aṣṭābhyo nivṛtaṃ
 > nivṛtāvyākṛtaṃ rūpāvacaraṃ cittamaṣṭabhya utpadyate /
@@ -36,7 +36,7 @@ The witness follows [the local running source](../../Sources/kosabhasya.txt)
 from 104.22 through 105.07. Source spellings are retained.
 The open `śubhāt punaḥ` receives its count at 105.08 in 2.70.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 Obscured-indeterminate Form Realm mind arises immediately after
 eight kinds: all except the two afflicted Desire Realm kinds and

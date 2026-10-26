@@ -51,7 +51,7 @@ Word division and punctuation are editorial. The source e-text's
 `ūpadiṣṭaḥ` is regularized here to `upadiṣṭaḥ`; the running source is
 unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 The Base-continuum just taught as extending through three births is that
 conditioned arising, twelve-membered and three-sectioned.
 

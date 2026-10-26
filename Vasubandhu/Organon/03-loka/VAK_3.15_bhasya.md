@@ -88,7 +88,7 @@ provisionally regularized. A damaged phrase in the second scriptural citation
 at 127.08 has been marked by an ellipsis rather than silently reconstructed.
 The running source remains unchanged.
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 This intermediate existence arises for the purpose of reaching the place of
 its destiny. “With inverted understanding, it goes to the place of its

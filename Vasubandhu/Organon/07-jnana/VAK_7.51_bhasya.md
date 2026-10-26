@@ -28,7 +28,7 @@ Kārikā study: [`VAK_7.51.md`](./VAK_7.51.md).
 **Witness.** Pradhan 427|05–428|01. `Vahūnāṃ` unrestored. Voices: Vasubandhu;
 objection (no construction-mind ⇒ no manifestation?).
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 > A construction of one ground is not produced by a construction-mind of another
 > ground. `Ca` means also by a same-ground mind. A desire-domain or first-dhyāna

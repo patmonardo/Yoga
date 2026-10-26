@@ -139,8 +139,8 @@ class KarikaBhasyaAlignmentTests(unittest.TestCase):
             with self.subTest(verse=verse):
                 self.assertTrue(headings, f"{stem} has no Bhāṣya sections")
                 self.assertEqual(headings[0], "1. Kārikā Anchor")
-                self.assertTrue(headings[1].startswith("2. Continuous Sanskrit"))
-                self.assertEqual(headings[2], "3. Continuous Conventional Translation")
+                self.assertEqual(headings[1], "2. Continuous Sanskrit")
+                self.assertEqual(headings[2], "3. Continuous Translation")
                 self.assertRegex(headings[-1], rf"^{len(headings)}\. Review Status$")
                 for number, heading in enumerate(headings, 1):
                     self.assertTrue(

@@ -60,7 +60,7 @@ are editorial. The forms `bhiyamāṇasya`, `chhinnānāṃ`, `lakṣayete`, and
 compressed final `nāvareṇeryāpathika nairmāṇikena` remain as transmitted.
 The latter clause is not silently resolved; the next unit starts at [341|07].
 
-## 3. Continuous Conventional Translation
+## 3. Continuous Translation
 
 The two breaths must be understood further. Inhalation and exhalation belong
 to the same ground as the body, because they are parts of it. They occur in
