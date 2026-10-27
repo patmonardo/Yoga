@@ -39,7 +39,7 @@ There is pleasant-feeling-bearing Contact, painful-feeling-bearing Contact,
 and neither-painful-nor-pleasant-feeling-bearing Contact, because they are
 conducive to pleasant feeling and the rest. Alternatively, that which is
 experienced, or can be experienced, is called feeling-bearing. What is that?
-Experience. Contact is pleasant-feeling-bearing when pleasant feeling is
+What is experienced. Contact is pleasant-feeling-bearing when pleasant feeling is
 experienced in it. The painful and neither-painful-nor-pleasant cases are to
 be construed in the same way.
 

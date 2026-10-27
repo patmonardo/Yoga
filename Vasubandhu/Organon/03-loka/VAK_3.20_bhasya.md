@@ -80,8 +80,7 @@ Realm person is indicated, with the statement: “If Discriminative Cognition,
 When conditioned arising is instead divided into two sections—the
 former-limit and latter-limit arrangements—the former has seven members,
 extending through Feeling, and the latter has five. The commentary connects
-this division with taking the prior and subsequent limits together with
-result and cause.
+this division with taking each limit together with its causes and results.
 
 ## 4. Commentary Movement
 

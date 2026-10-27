@@ -43,7 +43,7 @@ yad eva hīdaṃ sahotpannayor janyajanakabhāvo nāstīti tad evedaṃ jāte
 dharme dharmasya nāstīti. anyonyajanakaprasaṅgas tarhi. iṣṭatvād adoṣaḥ.
 iṣṭam eva hi sahabhūhetor anyonyaphalatvam.
 
-iṣṭam idaṃ śāstre, tv aniṣṭaṃ sparśavedanayor anyonyaphalatvam,
+iṣṭam idaṃ sūtre tv aniṣṭaṃ sparśavedanayor anyonyaphalatvam,
 “cakṣuḥsaṃsparśaṃ pratītyotpadyate cakṣuḥsaṃsparśajā vedanā, na tu
 cakṣuḥsaṃsparśajāṃ vedanāṃ pratītyotpadyate cakṣuḥsaṃsparśaḥ” iti vacanāt.
 janakadharmātikramāc cāyuktam. yo hi dharmo yasya dharmasya janakaḥ
@@ -137,9 +137,9 @@ upavicārikā, avikalpakatvād ity ayogaḥ.
 The supplied witness contains corrupt spellings and joins. The continuous
 text provisionally regularizes the moment-sequence around 145.20 and the
 three sets of grounds at 146.06–10. At 145.09–10 the witness reads
-`sūtre tv aniṣṭam`; the rendering provisionally reads `śāstre tv aniṣṭam`
-to preserve the passage's contrast between treatise and sūtra. These
-readings remain provisional; the source file is unchanged.
+`sūtre tv aniṣṭam`: mutual fruition is granted in the preceding scholastic
+argument but is denied scriptural warrant by this reply. The source file is
+unchanged.
 
 ## 3. Continuous Translation
 Feeling must now be explained. The sixfold Contact previously stated gives
@@ -158,8 +158,8 @@ that co-arisen things cannot be generator and generated. Would this not make
 each generate the other? There is no fault, because mutual fruition is
 accepted for coexistent causes.
 
-An opponent answers that, even if this is accepted in the treatise, mutual
-fruition between Contact and Feeling is not accepted in the sūtra. The sūtra
+An opponent answers that, even if this is accepted, mutual fruition between
+Contact and Feeling is not accepted in the sūtra. The sūtra
 says that Eye-Contact conditions Feeling born from Eye-Contact, not that such
 Feeling conditions Eye-Contact. Moreover, a productive Dharma is ordinarily
 earlier than what it produces: seed before sprout, milk before curd, impact
@@ -170,8 +170,8 @@ or nothing would ever arise, since there would be no later difference.
 The Vaibhāṣikas maintain that coexistence is also established and compare
 Contact and Feeling to shadow and sprout. The opposing side replies that even
 the cited cases can be understood from earlier Conditions: Faculty and
-Meaning precede Cognition, and a later configuration of Great Principles and
-Principle-dependent Forms arises from an earlier configuration.
+Meaning precede Cognition, and a later configuration of Great Elements and
+Element-dependent Forms arises from an earlier configuration.
 
 Others therefore say that Feeling occurs after Contact. Faculty and Meaning
 occupy the first moment, Cognition the second; the conjunction of the three
@@ -198,18 +198,25 @@ simultaneously. It can mean that they occur, as appropriate, across three cognit
 one with applied and sustained thought, one without applied thought and with
 sustained thought alone, and one without either; three ethical grounds—
 wholesome, unwholesome, and indeterminate; and three path grounds—in-training,
-beyond-training, and neither-in-training-nor-beyond-training. The unwholesome
-Great-Ground Dharmas were not included in this recitation; formerly they
-were not recited.
+beyond-training, and neither-in-training-nor-beyond-training. Factors present
+throughout all these grounds are Great-Ground Dharmas; those occurring only
+on wholesome grounds are wholesome Great-Ground Dharmas, and those occurring
+only on afflicted grounds are affliction Great-Ground Dharmas. According to
+this alternative, the factors occur as appropriate in succession, not all
+simultaneously. The unwholesome Great-Ground Dharmas were not included in
+this recitation; formerly they were not recited.
 
 Scriptural arguments continue. One sūtra says that with eye and forms as
 Conditions Eye-Cognition arises; the conjunction of the three is Contact;
 Feeling, recognition, and volition are co-arisen. The reply notes that it
 says “co-arisen,” not “co-arisen with Contact,” and that “together with” can
-also apply to what follows immediately. Another sūtra says that Feeling,
-recognition, volition, and Cognition are blended rather than unblended. Yet
-the meaning of “blended” must be determined: does it establish the same
-cognitive Condition/support or the same moment?
+also apply to what follows immediately, as in the injunction to cultivate
+the awakening factor of mindfulness “together with loving-kindness.” Another
+sūtra says that Feeling, recognition, volition, and Cognition are blended
+rather than unblended. It continues: “What one feels, one intends; what one
+intends, one clearly comprehends; what one clearly comprehends, one
+cognizes.” Yet the meaning of “blended” must be determined: does it
+establish the same cognitive Condition or the same moment?
 
 The counterargument notes that life and heat are called “blended” when they
 coexist, supporting a same-moment reading. It also invokes the definition
@@ -224,13 +231,13 @@ through the establishment of eighteen Mental Rangings; the link marked by
 “again” is to be observed here. There are six rangings of gladness, six of
 distress, and six of equanimity. Why exactly eighteen? By intrinsic character
 alone there would be three; by association alone there would be one, since
-all are associated with Mind; by cognitive Condition/support alone there
+all are associated with Mind; by cognitive Condition alone there
 would be six, since the Conditions are the six fields beginning with Form.
 The eighteen are established by all three determinations.
 
 Of these, the fifteen rangings through the Form-to-Tangible Conditions have
-unmixed, specifically fixed cognitive Conditions/supports. The three
-Dharma-Condition rangings allow both mixed and unmixed support. What does
+unmixed, specifically fixed cognitive Conditions. The three
+Dharma-Condition rangings allow both mixed and unmixed Conditions. What does
 “Mental Ranging” mean? One explanation says that, dependent upon Mind,
 gladness and the others range through Conditions. Others say that they make
 Mind range through Conditions, since under the influence of Feeling, Mind
@@ -348,13 +355,13 @@ The Bhāṣya tests the possible grounds explicitly:
 ```text
 intrinsic character alone        → 3
 association with Mind alone      → 1
-cognitive Condition/support alone → 6
+cognitive Condition alone         → 6
 all three grounds together       → 18
 ```
 
 The fifteen associated with Form through Tangible Conditions have specifically
-fixed, unmixed cognitive Conditions/supports. The three Dharma-Condition
-Rangings allow mixed or unmixed support. `Manopavicāra` is then explained
+fixed, unmixed cognitive Conditions. The three Dharma-Condition
+Rangings allow mixed or unmixed Conditions. `Manopavicāra` is then explained
 either as the affective modes ranging through Conditions dependent upon Mind
 or as their making Mind range through Conditions. The common determination
 is repeated Mental Ranging under the influence of Feeling.
@@ -389,7 +396,7 @@ This Study covers the Bhāṣya from 144.23 through the exclusion of bodily
 Feeling from Mental Ranging at 147.09. The third-dhyāna question beginning at
 147.10 opens the VAK 3.33 unit.
 
-The witness has mechanical corruptions. The three-moment sequence, the
-grounds at 146.06–10, and the reading `śāstre tv aniṣṭam` at 145.09–10 are
-provisional; this Study records the repairs and preserves the witness's
-reading where it differs.
+The witness has mechanical corruptions. The three-moment sequence and the
+grounds at 146.06–10 remain provisional. This pass restores the witness's
+`sūtre tv aniṣṭam` at 145.09–10 and the two scriptural examples compressed
+in the earlier translation.

@@ -184,13 +184,13 @@ is the sixth and is called designation-Contact.
 Why? “Designation” means Name. It is said to be an additional Condition for
 Mind-Cognition, and therefore this is called designation-Contact. As stated:
 “Eye-Cognition cognizes blue, but not ‘blue’; Mind-Cognition cognizes blue
-and also cognizes ‘blue.’” One is determined by its support, the other by
+and also cognizes ‘blue.’” One is determined by its Basis, the other by
 its Condition.
 
 Others say that mental Cognition, unlike the five sensory Cognitions,
 proceeds toward meanings with reference to a word; that is why it is called
 designation. Contact associated with it is designation-Contact. On this
-account, the first is determined by support, the second by association.
+account, the first is determined by its Basis, the second by association.
 
 Again, those same six Contacts are three: Contact with Knowledge, Contact with
 Ignorance, and Contact with neither. They are understood in that order: Contact without Influx is Contact with
@@ -218,8 +218,8 @@ The unit moves through these determinations:
    distinct Dharma associated with consciousness. Their scriptural arguments
    and replies remain distinct; the excursus is set aside without a final
    settlement.
-4. The five sensory Contacts are classified through resistant Faculty
-   support; Mind-Contact is designation-Contact. The Bhāṣya reports two
+4. The five sensory Contacts are classified by their Basis in resistant
+   Faculties; Mind-Contact is designation-Contact. The Bhāṣya reports two
    explanations of designation's role: as an additional Condition, or as
    word-referenced mental Cognition and its associated Contact.
 5. The six Contacts are further divided into Contact with Knowledge, with
@@ -300,13 +300,13 @@ cause. The Bhāṣya records these arguments and then stops the digression.
 
 ## 8. Resistant Contact and Designation-Contact
 
-The five sensory Contacts receive their name through resistant Faculty
-support:
+The five sensory Contacts receive their name because resistant Faculties
+serve as their Basis:
 
 ```text
 five sensory Contacts
     resistant Faculties
-    → support-determined
+    → Basis-determined
 ```
 
 Mind-Contact is called designation-Contact. One explanation treats

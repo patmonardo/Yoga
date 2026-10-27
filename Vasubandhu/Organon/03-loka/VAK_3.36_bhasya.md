@@ -66,7 +66,7 @@ explained and others will be explained later. Some members have been explained
 here, while others will be explained afterward. Discriminative Cognition has
 already been stated: “Discriminative Cognition is specific presentation, and
 that is also Mind Essence.” The six Essences have also been stated: “The clear
-Form Faculties beginning with the Eye are the supports of those Cognitions.”
+Form Faculties beginning with the Eye serve as the Basis for those Cognitions.”
 Formations and Becoming will be explained in the Karma chapter; Craving and
 Appropriation in the Affliction chapter.
 

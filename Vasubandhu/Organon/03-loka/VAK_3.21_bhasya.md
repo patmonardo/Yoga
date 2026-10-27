@@ -59,8 +59,8 @@ Formations.
 
 > The junction Bases, however, are Discriminative Cognition.
 
-At the moment of rebirth-linking in the mother's womb, the five Bases
-together are Discriminative Cognition.
+At the moment of rebirth-linking in the mother's womb, the complex of five
+Bases is named Discriminative Cognition.
 
 > After this comes Name-and-Form.
 
