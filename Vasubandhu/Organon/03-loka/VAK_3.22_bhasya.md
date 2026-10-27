@@ -56,9 +56,9 @@ Discriminative Cognition.
 > Contact is before the capacity to discriminate the causes of pleasure,
 > pain, and the other Feeling.
 
-Contact arises from the conjunction of the three. The stage in which one
-becomes capable of discriminating the causes of the three Feelings is called
-Contact.
+Contact arises from the conjunction of the three. The stage up to the point
+at which one becomes capable of discriminating the causes of the three
+Feelings is called Contact.
 
 ## 4. Commentary Movement
 
@@ -163,4 +163,7 @@ vak:CauseDiscriminationCapacity
 
 ## 7. Review Status
 
-Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation. Source span not yet recorded here.
+Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation.
+The continuous Sanskrit and translation cover 132.02–132.11; the next
+statement at 132.11 begins VAK 3.23. This pass corrected the upper boundary
+of the Contact stage in the continuous translation.

@@ -140,9 +140,9 @@ The placement of `bhava` with karma confirms VAK 3.24: becoming here is the
 renewal-producing karma accumulated through appropriative activity, not the
 future result considered by itself.
 
-`Vastu` means Thing or basis, not Object or an inert substance. The Bhāṣya
-explains these seven members' support-function through `āśraya`: affliction
-and karma operate in dependence on them.
+`Vastu` is Thing, not Object or an inert substance. The Bhāṣya explains why
+these seven are Things by their `āśraya` function: they serve as a Basis for
+affliction and karma. Thing names the members; Basis names this relation.
 
 ## 6. The Same Seven as Vastu and Result
 
@@ -153,7 +153,7 @@ relative to prior affliction and karma
     → result
 
 relative to renewed affliction and karma
-    → basis or support
+    → Basis
 ```
 
 Thus result does not remain inert:
@@ -167,7 +167,7 @@ prior affliction + karma
 ```
 
 The remaining five members are causes because they have affliction or karma
-as their functional nature. “Cause,” “result,” and “basis” therefore express
+as their functional nature. “Cause,” “result,” and “Basis” therefore express
 relations within the cycle, not three self-standing kinds of substance.
 
 ## 7. Why the Middle Is Expanded
@@ -274,4 +274,6 @@ The translation remains provisional. The final `punar aparātmakaṃ` phrase,
 the exact nuance of `vastu`, and the compressed explanation of the past cause
 require comparison with critical Sanskrit, Tibetan, Chinese, and established
 translations during the later learning pass. The Study stops before the
-mutual-production formula and does not enter VAK 3.27.
+mutual-production formula and does not enter VAK 3.27. This pass found no
+outright omission and distinguished `vastu`, Thing, from the Basis relation
+given by `āśraya`.

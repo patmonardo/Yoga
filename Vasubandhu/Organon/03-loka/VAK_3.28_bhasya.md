@@ -405,7 +405,10 @@ reached or depended upon,” and *samutpāda* as manifestation or arising:
 arising upon reaching a condition. A grammatical objection says the absolutive
 normally gives an earlier action by the same agent—“having bathed, he eats.”
 But before arising no entity exists that could first depend and later arise,
-while an action without an agent also seems impossible.
+while an action without an agent also seems impossible. A cited verse presses
+the objection: “If it depends before arising, that is impossible because it
+does not yet exist; if dependence and arising are simultaneous, the
+absolutive does not fit, for it indicates a prior action.”
 
 The reply turns the objection back upon the grammarian. Does a present or a
 future dharma arise? If present, it would already have arisen, and repeated
@@ -418,12 +421,15 @@ of becoming distinct from the becoming thing is found. Conventional usage
 should not be manipulated into a trick.
 
 The sentence means: when this exists, that exists; from the arising of this,
-that arises. Verses add that an absolutive can also occur with simultaneous
-relations, as darkness goes upon obtaining a lamp or someone sleeps with the
-mouth opened. Others propose a different etymology involving distributive
-conditions and unstable things arising through assemblages of causes, but the
-proposal does not fit formulations such as “depending on the Eye Faculty and
-Forms, Eye-Cognition arises.”
+that arises. A reply in verse says, provisionally: “As what does not yet exist
+arises, so it also depends; if already existent, the unwanted consequence is
+that what has arisen arises again, or that it existed before. An absolutive
+also occurs with simultaneous events: darkness goes upon the arrival of a
+lamp, and one sleeps with one's mouth open. If the opening were simply
+earlier, why would the mouth not close afterward?” Others propose a different
+etymology involving distributive conditions and unstable things arising
+through assemblages of causes, but the proposal does not fit formulations
+such as “depending on the Eye Faculty and Forms, Eye-Cognition arises.”
 
 Why does the Buddha state both “when this exists, that exists” and “from the
 arising of this, that arises”? Suggested answers include: emphasis; showing
@@ -540,6 +546,13 @@ repeating the Vaibhāṣika position. `Nikāyāntarīyāḥ`, other-school propo
 advance the unconditioned-law thesis. Several explanations are assigned to
 unnamed “others” or teachers. The final causal exposition explicitly returns
 to the Vaibhāṣika method.
+
+That return matters for the count of Bases. The momentary example in VAK
+3.25 calls the four Bases co-arising with Vijñāna Name-and-Form. Here the
+closing exposition calls Name-and-Form a five-Base complex extending through
+life and also names the six classes of Vijñāna. These belong to distinct
+explanatory presentations in the debate; neither count should silently
+replace the other.
 
 ## 5. Cause and Result as Relational Roles
 
@@ -684,5 +697,6 @@ The Sanskrit and translation are necessarily provisional. This passage
 contains dense school controversy, damaged e-text, unattributed alternatives,
 technical grammatical arguments, and several citations requiring comparison
 with critical Sanskrit, Tibetan, Chinese, and established translations. The
-Study preserves rather than resolves those layers. It stops after the proof
-that ignorance is a distinct dharma and does not enter VAK 3.29.
+Study preserves rather than resolves those layers. This pass restores the two
+quoted grammatical verses in the continuous translation. It stops after the
+proof that ignorance is a distinct dharma and does not enter VAK 3.29.

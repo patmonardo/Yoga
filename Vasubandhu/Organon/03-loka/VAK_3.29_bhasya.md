@@ -93,6 +93,11 @@ gives a short passage labeled 143.19–143.24 that does not match this unit
 in the running source; its wording and labels require separate collation.
 The running source remains unchanged.
 
+Here `asaṃprakhyāna` is rendered “non-discernment,” as in the Organon's
+account of the same term at 5.38; it is distinct from the “non-disclosure”
+used for `avijñapti`. The final words of the quoted sūtra at 142.12 also
+require collation before their sense can be fixed.
+
 ## 3. Continuous Translation
 An objection proposes an analogy: just as a bad wife is called “no wife” and
 a bad son “no son,” let ignorance likewise mean defective discriminative
@@ -141,24 +146,26 @@ the kind of defilement intended, the same qualification would have to be
 made explicitly for discriminative comprehension as well.
 
 Let ignorance, then, be a distinct Dharma. What is its own nature? One answer
-is: non-disclosure of the truths and of karma and its results. But what this
-“non-disclosure” itself is remains unknown. If it simply means lack of
-disclosure, the same defect returns as with defining ignorance by absence.
-If it means a distinct Dharma opposed to disclosure, we still ask what that
+is: non-discernment of the truths and of karma and its results. But what this
+“non-discernment” itself is remains unknown. If it simply means lack of
+discernment, the same defect returns as with defining ignorance by absence.
+If it means a distinct Dharma opposed to discernment, we still ask what that
 Dharma is.
 
 The reply says that Dharmas can be defined relationally in just this fashion.
 For example: “What is the Eye? The transparent Form that serves as the
-support of Eye-Cognition.”
+Basis of Eye-Cognition.”
 
-The venerable Dharmatrāta proposes an “I am” mode of self-making as
+The venerable Dharmatrāta proposes a *mayatā* connected with “I am” as
 ignorance; the transmitted wording is uncertain. An objection asks how this
-self-making differs from the conceit “I am.” A sūtra distinguishes cravings,
-views, modes of self-making, ego-making, possessiveness, the conceit “I am,”
-adherence, and latent tendencies, and speaks of their abandonment and full
-comprehension.
+*mayatā* differs from the conceit “I am.” A sūtra says: “Having known thus,
+having seen thus, through abandoning and fully comprehending all cravings,
+all views, all forms of *mayatā*, and all latent tendencies toward ego-making,
+mine-making, the conceit ‘I am,’ and fixation, [one is] *niśchāyo nivṛtaḥ*.”
+The final expression is left in Sanskrit because the witness's reading is
+uncertain.
 
-Such mine-making or selfhood does exist. But why identify precisely this with
+Such *mayatā* does exist. But why identify precisely this with
 ignorance? Because, the proposal answers, it cannot be assigned to another
 affliction. Could it not instead be another form of conceit? Pursuing that
 question would require a lengthy further discussion. The Bhāṣya therefore
@@ -180,10 +187,10 @@ alternate reading of “defilement”
 all afflictions collectively
     → rejected by separate enumeration and association
 
-non-disclosure of truths and karmic result
+non-discernment of truths and karmic result
     → challenged as obscure or merely privative
 
-Dharmatrāta's “I-am” selfhood
+Dharmatrāta's “I-am” *mayatā*
     → recorded, questioned, and left unresolved
 ```
 
@@ -243,14 +250,14 @@ ignorance is defective discriminative comprehension
 ignorance is all afflictions collectively
 ```
 
-The proposed positive definition “non-disclosure of the truths and karmic
-results” remains difficult because what “non-disclosure” is remains
+The proposed positive definition “non-discernment of the truths and karmic
+results” remains difficult because what “non-discernment” is remains
 unexplained. The relational definition of the Eye Faculty shows that not
 every definition must provide a simpler intrinsic nature, but it does not
 make the obscurity disappear.
 
-Dharmatrāta's proposal identifies ignorance with a form of self-making or
-“I-am”-ness. The Bhāṣya records the proposal and the objection that it may
+Dharmatrāta's proposal identifies ignorance with a *mayatā* related to
+“I am.” The Bhāṣya records the proposal and the objection that it may
 instead be conceit. It concludes, “let this remain”; neither the proposal nor
 its rejection is settled.
 
@@ -296,8 +303,12 @@ ignorance.
 This Study restores the complete natural unit at 141.08–142.14, including
 the bad-wife analogy, the arguments from wrong view, association, and
 defilement, the counter-reading of contaminated prajñā, the rejection of
-“all afflictions,” the difficult non-disclosure definition, and Dharmatrāta's
-suspended account of “I-am” selfhood.
+“all afflictions,” the difficult non-discernment definition, and Dharmatrāta's
+suspended account of “I-am” *mayatā*.
+
+This pass restores the opening and complete list of the quoted sūtra at
+142.10–12, keeps its uncertain close visible, and distinguishes
+`asaṃprakhyāna` from `avijñapti` and `āśraya` from generic support.
 
 The Sanskrit and translation remain provisional. The technical meaning of
 `saṃprayoga`, the sarcastic or permissive force of `ko hi parikalpayan

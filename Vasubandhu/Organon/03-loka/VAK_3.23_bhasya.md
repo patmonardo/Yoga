@@ -155,4 +155,7 @@ vak:AppropriationStage
 
 ## 7. Review Status
 
-Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation. Source span not yet recorded here.
+Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation.
+The continuous Sanskrit and translation cover the second statement at 132.11
+through the first statement at 132.18; the next phrase at 132.18 begins VAK
+3.24. No outright omission was found in this range.

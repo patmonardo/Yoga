@@ -55,9 +55,9 @@ and example, `vastuno vastu: vijñānān nāmarūpam`; `vedanāyā stṛṣṇet
 135.02–03 is provisionally divided as `vedanāyās tṛṣṇeti`. The verse's
 `bhavāṅganāmayaṃ` is read as `bhavāṅgānām ayaṃ`. The compact verse compound
 `vastukleśāḥ` is unfolded by the prose as both Vastu-from-Vastu and
-affliction-from-Vastu. Here Vastu means Thing or basis in its support-
-function, not a cognitive Condition or Object. The running source remains
-unchanged.
+affliction-from-Vastu. Here Vastu means Thing; its role as a Basis for
+affliction and karma was explained in VAK 3.26. It is not a cognitive
+Condition or Object. The running source remains unchanged.
 
 ## 3. Continuous Translation
 An objection arises. If *samutpāda* consists of precisely twelve members,
@@ -244,4 +244,6 @@ The Sanskrit and translation remain provisional. The reading of
 which renewed affliction is related to the aging-and-death basis require
 comparison with critical Sanskrit, Tibetan, Chinese, and established
 translations during the later learning pass. The Study stops before the
-extended inquiry into ignorance and does not enter VAK 3.28.
+extended inquiry into ignorance and does not enter VAK 3.28. This pass found
+no outright omission and aligned the distinction between Thing and Basis
+with VAK 3.26.

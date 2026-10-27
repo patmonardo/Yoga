@@ -193,7 +193,7 @@ Condition pursued
 ```
 
 For the Organon, VAK 3.24 also demonstrates that labels depend upon analytic
-position and scale. One event-range can be typed “consciousness” when viewed
+position and scale. One event-range can be typed “Cognition” when viewed
 as a present junction and “birth” when viewed as the future result of present
 causes. Four finely resolved present stages can be represented by one
 prospective result-member.

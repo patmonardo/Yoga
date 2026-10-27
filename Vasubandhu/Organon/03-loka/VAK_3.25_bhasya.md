@@ -184,6 +184,14 @@ Bases, Faculties, Contact, Feeling, Greed, associated affliction, action,
 emergence, maturation, and dissolution instantiate the twelve-member pattern
 at a compressed scale.
 
+Here the prose names Vijñāna separately and calls the four Bases co-arising
+with it `nāmarūpa`. Within this momentary analysis, those four are Form plus
+Feeling, Perception, and Formations. Thus Name supplies three Bases here;
+Vijñāna is the separately designated fifth. This is an inference from the
+explicit count and the five-Base scheme, not a new list stated in the prose.
+It differs from the general definition of Name as all four non-Form Bases
+later given at VAK 3.30.
+
 The reported explanation then defines the stage-based mode as twelve
 five-Base stages across three continuous births and identifies that
 same course as extended. The exact distribution of the remaining labels is
@@ -308,4 +316,6 @@ The translation remains provisional. The exact force and allocation of
 single-moment example, and the wording of the cited sūtra require comparison
 with critical Sanskrit, Tibetan, Chinese, and established translations. The
 Study stops before the three-nature reclassification of the members and does
-not enter VAK 3.26.
+not enter VAK 3.26. This pass made explicit the local four-Base count in the
+momentary Name-and-Form member while distinguishing it from the general
+definition of Name in VAK 3.30.

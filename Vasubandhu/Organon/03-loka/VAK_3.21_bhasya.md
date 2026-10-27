@@ -174,4 +174,6 @@ organon:AssociationAndPredominance
 
 ## 7. Review Status
 
-Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation. Source span not yet recorded here.
+Kārikā Anchor aligned with the kārikā study's Bhāṣya-informed translation.
+The continuous Sanskrit and translation cover 131.19–132.01; the next pāda at
+132.02 begins VAK 3.22. No outright omission was found in this range.
