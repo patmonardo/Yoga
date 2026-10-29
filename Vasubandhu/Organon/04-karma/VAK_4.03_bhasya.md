@@ -187,12 +187,17 @@ avijñaptiḥ pūrvamevoktā /
 This unit begins at [193|17] and ends at [196|04] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next sentence, `sā 'pi dravyato
 nāstīti sautrāntikāḥ`, opens the dispute over `avijñapti` that belongs to
-4.04. The Sanskrit above preserves the running witness's words while
-removing only its line labels; its irregular forms and locators are not a
-critical text. In particular, the source prints the anomalous locator
+4.04. With line labels removed and spacing and punctuation editorially
+supplied, the Sanskrit above preserves the witness's letters through this
+unit; it is not a critical text. In particular, the source prints the anomalous locator
 `[194|06]` amid page 195 and the reading `kāyavijñarpti` near [195|18–19].
 Its numerous spelling and segmentation problems require comparison with
 independent witnesses before a corrected Sanskrit text can be offered.
+At [195|22–23] the witness repeats `saṃkalpacetanā pūrvaṃ bhavati`; the
+translation gives the sense once. At [195|27–28] it reads
+`samāhitavijñaptivat`, though the comparison appears to concern
+*avijñapti*. The continuous translation marks that construal below;
+neither reading is silently repaired in the Sanskrit.
 The witness also mislabels the unit following [195|04] as `[194|06]` and
 the round-shape clause as `[194|17-194|27]`; neither locator changes the
 prose sequence.
@@ -222,17 +227,17 @@ untenable that the very condition of their being, or one just like it,
 should also be the condition of their non-being. One might invent a
 different cause in each successive flame; how would that account for the
 varieties of cooked qualities arising through contact with alkali, frost,
-acid, sun, water, or earth?
+sour fermented liquid, sun, water, or earth?
 
 What, then, does fire do when boiling water dwindles? It increases the
-power of the fire Principle. Under that influence the mass of water
+power of the Fire Principle (*tejodhātu*). Under that influence the mass of water
 becomes progressively attenuated until it no longer continues its series.
 That is what contact with fire does here. Things have no separate cause
 of destruction; being perishable, they cease as soon as they arise.
 Momentary perishing is thereby established, and with it the absence of
 the passage of one enduring thing from place to place. The appearance of
 motion arises through uninterrupted production in different places, like
-fire spreading through grass. With motion excluded, bodily manifestation as
+fire spreading through grass and the like. With motion excluded, bodily manifestation as
 configuration is established on the view just argued.
 
 The Sautrāntikas object that configuration is not a real entity in its own
@@ -246,15 +251,18 @@ were, “it would be apprehended in two ways.” One judges something long by
 sight and also by touch; a single material object of sight would thereby
 be grasped by two faculties, which is not admitted.
 
-An objection on behalf of real configuration proposes that the judgment of shape when touching
-is memory prompted by an associated tangible quality, not direct touch of
-a shape-dharma. Seeing fire can recall heat, and smelling a flower can
+One may instead propose that longness and the like are grasped in visible
+color just as they are grasped in the tangible. The answer appeals to
+memory arising through association with a tangible, rather than direct
+apprehension. Seeing fire can recall heat, and smelling a flower can
 recall its color. The Sautrāntika reply grants those dependable associations,
 but no specific tangible quality invariably accompanies a given shape. If
 recollection could be regular without such association, the same account
 would apply just as well to color, or recollection of shape would be
 irregular. One also risks making many colors occupy one place, as with a
-patterned covering. Thus configuration is not a separate real entity.
+patterned covering. The following clause compares this with color, but its
+local reading (*taccāyīuktaṃ varṇavat*) is damaged; its exact assertion
+remains uncertain. Thus configuration is not a separate real entity.
 
 Moreover, anything resistant and materially real must be found in an
 atom. “But that is not in an atom”: longness and the like are not found
@@ -264,8 +272,8 @@ mere partiality until their own characteristic is established; only then
 could their aggregation be invoked. An opponent points to pots of the
 same color but different shapes. The reply compares the different
 configurations called a line or circle in arrangements of ants. Another
-asks why longness is seen in a distant post even when its color cannot
-be distinguished. The answer is that indistinct visible material is
+asks why longness is seen in a post even when its color is not seen, or
+when viewed from afar. The answer is that indistinct visible material is
 seen and construed as long, as one may construe a distant line as an
 army. Sometimes only an indeterminate mass is seen: “something is
 there.”
@@ -273,8 +281,8 @@ there.”
 The question then presses the Sautrāntikas: having rejected bodily motion
 and configuration as a real entity, what bodily manifestation do they
 allow? They still designate configuration as bodily manifestation, but
-not as a separate substance. Bodily karma is action with the body as its
-basis: the volition that directs the body here and there. Verbal and
+not as a separate substance. Bodily karma is action having the body as its
+locus: the volition that directs the body here and there. Verbal and
 mental karma are understood correspondingly. What, then, of the sūtra's
 “volition and action after having willed”? First comes planning volition:
 “I shall do this or that.” Afterward comes operative volition, by which
@@ -285,7 +293,8 @@ no Desire Realm non-disclosing continuity, with many unwelcome consequences.
 The reply says that consequences of that objection will themselves have
 consequences. Another objection says that if non-disclosing continuity arises
 from a special volition, it should follow consciousness, as a
-concentration-born non-disclosing continuity does. The reply denies the
+concentration-born [non-disclosing continuity] does (the witness reads
+`samāhitavijñaptivat`). The reply denies the
 parallel: the distinctive volition projects it differently. Even where
 manifestation exists, its capacity to project non-disclosing continuity looks
 to the power of volition, because it is inert on its own.
@@ -298,6 +307,9 @@ is verbal manifestation. Non-disclosing continuity has already been mentioned.
 The English follows the continuous argumentative sequence. The attribution
 of the touch-memory objection and its reply agrees with a [philological
 discussion of this passage](https://ora.ox.ac.uk/objects/uuid%3A2c3fb70d-96fd-4568-85b2-25d9f8a92136/files/dbk128b47p).
+The phrase *tamapi dūrād vā* at [195|14] is syntactically rough; “even
+when its color is not seen, or when viewed from afar” follows the
+transmitted reading without supplying an unverified darkness conjecture.
 Several local readings, especially the examples in the double-apprehension
 debate and the exact objection-and-reply sequence at [195|24–196|01], remain
 provisional because the e-text is rough.
@@ -376,9 +388,19 @@ and “separately real entity” preserve the contested ontological status.
 “Appearance of motion” renders `gatyabhimāna` without suggesting that
 ordinary observation is sheer falsehood. `Saṃkalpa-cetanā` and the later
 operative volition must not be collapsed into one timeless intention.
+The Fire Principle (*tejodhātu*) in the boiling-water reply names the
+operative heat determination. In the Organon reading, the Fire Base is
+the fiery Element's being-there, the Fire Essence specifies an aspect of
+that being-there, and the Fire Principle expresses its intelligible rule.
+This threefold articulation is not a further division stated by this
+Bhāṣya sentence. The body as *adhiṣṭhāna*
+is the action's locus in the Sautrāntika account; this does not silently
+identify it with Basis (*āśraya*).
 
 The source is an e-text with visible corruptions and anomalous line
-labels. Its school positions are clear in outline, but close decisions
+labels. The repeated planning-volition phrase and the
+`samāhitavijñaptivat` comparison remain marked above. Its school positions
+are clear in outline, but close decisions
 about several objections await a critical witness comparison. This
 Study gives a continuous working translation, not an emended edition.
 
@@ -387,6 +409,17 @@ Study gives a continuous working translation, not an emended edition.
 The Bhāṣya's account of action distinguishes prior planning Cetanā from the
 later Cetanā that impels the body; it calls the latter action after having
 willed. This is a passage-specific explanation of bodily and verbal karma.
+The boiling-water reply can be read as an operative sentence: contact with
+fire strengthens the Fire Principle; under its power the water mass thins;
+finally that stream no longer continues. The Bhāṣya states those relations.
+Calling their ordered unity a Sentence is the Organon reading, not a further
+Sanskrit term in this passage.
+In this reading, Fire and Water as Bases name elemental being-there; their
+Essences specify aspects of it; their Principles make heat, cohesion, and
+the changing relation intelligible. “Boiling point” names the threshold
+at which the water-continuum no longer renews, not a measured temperature
+or a claim that the text speaks of H₂O. The Fire Principle is therefore
+an Idea or Cognition of fiery operation, not another fiery body.
 The debate over configuration remains divided between the Sautrāntika and
 Vaibhāṣika positions, and the further dispute over `avijñapti` begins in 4.04.
 

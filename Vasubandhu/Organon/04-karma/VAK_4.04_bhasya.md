@@ -7,7 +7,7 @@
 
 
 > The Vaibhāṣikas establish *avijñapti* as a distinct real Form Dharma from
-> teachings on three kinds of Form and on uncontaminated Form, the increase of
+> teachings on three kinds of Form and on Pure Form, the increase of
 > merit, action-paths completed through another's agency, and other grounds.
 > Beyond its first moment, Desire Realm *avijñapti* is born from past Great
 > Elements.
@@ -267,119 +267,166 @@ real entity. It is merely the non-doing accepted by undertaking restraint;
 moreover, it is designated as depending even on past Great Elements,
 which no longer exist in their own nature, and it lacks the character of
 Form. The Vaibhāṣikas say that it does exist. How is this known?
-From the teachings on three kinds of Form and uncontaminated Form, the
+From the teachings on three kinds of Form and Pure Form, the
 increase of merit, action-paths completed by one not personally acting,
 and other grounds.
 
-A sūtra states that Form is included in three classes: visible and
-resistant, invisible and resistant, and invisible and non-resistant.
-The Blessed One also spoke of uncontaminated Form among the Dharmas in
-which attraction and aversion do not arise. The Vaibhāṣikas argue that
-without `avijñapti` no Form could satisfy the third class or count as
-uncontaminated Form.
+A sūtra states: “Form is included in three places: there is Form that is
+visible and resistant; Form that is invisible and resistant; and Form that
+is invisible and non-resistant.” The Blessed One also spoke of Pure Form:
+“Which Dharmas are Pure? In whatever Form, past, future, or present, neither
+attachment nor aversion arises—and so on through whatever Cognition—these
+are called Pure Dharmas.” The Vaibhāṣikas argue that without `avijñapti`
+no Form could satisfy the third class or count as Pure Form.
 
-Increase is also taught: for a faithful donor endowed with the seven
-material bases of meritorious action, merit continually increases while
-the donor walks, sleeps, stands, or wakes; the teaching likewise mentions
-non-material bases. How could merit increase while the donor's Mind is
+Increase is also taught: “For a faithful son or daughter of good family
+endowed with these seven material Things occasioning meritorious action,
+whether walking, sleeping, standing, or awake, merit constantly increases;
+merit continually arises.” The teaching likewise mentions non-material
+occasions. How could merit increase while the donor's Consciousness is
 elsewhere without `avijñapti`? Likewise a person who directs
 others to act would fail to complete an action-path while not personally
 doing the final deed. The manifest command cannot itself be the
 principal action-path before the deed has been done, and it has a
 different nature even once the deed is complete.
 
-The Vaibhāṣikas add that the Dharma Essence is described as invisible and
-non-resistant, without being called immaterial. The noble eightfold path
-would lack right speech, action, and livelihood during meditative
-absorption if no `avijñapti` were present. A cited passage saying
-that those three factors had already been purified refers, they say, to
-prior detachment through a worldly path. Prātimokṣa restraint would also
-be absent after its initial undertaking when a monk's or nun's Mind was
-elsewhere. A sūtra calls abstention a barrier to misconduct. How could
-something nonexistent function as such a barrier? Hence `avijñapti` exists.
+The Vaibhāṣikas add a further quotation: “The Dharma Essence, monks, is an
+external Essence, not included among the other eleven Essences, invisible
+and non-resistant.” It is not called immaterial. What purpose would that
+description serve, they ask, if `avijñapti` Form were absent from the
+Dharma Essence? The noble eightfold Path would also lack right speech,
+right action, and right livelihood during meditative absorption if no
+`avijñapti` were present. An objector cites a passage in which, for one
+who knows and sees in this way, right view, resolve, effort, mindfulness,
+and concentration are brought to completion through cultivation, while
+right speech, action, and livelihood have already been purified. The reply
+says that this refers to prior detachment through a worldly Path.
+Prātimokṣa restraint would also be absent after its undertaking when a
+monk's or nun's Consciousness was elsewhere. A sūtra calls abstention a
+bridge or barrier because it obstructs misconduct. How could something
+nonexistent function as such a barrier? Hence, say the Vaibhāṣikas,
+`avijñapti` exists.
 
-The Sautrāntikas reply that the case is elaborate but does not establish
-its conclusion. Meditation practitioners (`yogācārāḥ`) explain invisible,
-non-resistant Form as arising through the power of concentration and belonging to
-a meditator's meditative object. It is invisible because it is not an
-object of the eye and non-resistant because it does not obstruct space.
-If asked how it can still be Form, the same question faces the proposed
-non-disclosing continuity. In uncontaminated concentration, this concentration-
-born Form can be called uncontaminated. Others propose an arhat's
-external Form, because it no longer supports the influxes. The ensuing
-sūtra exchange distinguishes senses in which Form may be called
-contaminated or uncontaminated; the qualifiers in the cited texts matter.
+The Sautrāntikas reply: “This is extensive and ingenious, but it is not so.”
+On the threefold-Form quotation, meditation practitioners (`yogācārāḥ`)
+teach that Form arises through the power of concentration as a meditator's
+concentration-Condition (*samādhi-viṣaya*). It is invisible because it is
+not a Condition for the Eye Faculty, and non-resistant because it does not
+obstruct space. If asked how it can still be Form, the same question faces
+the proposed non-disclosing continuity. The practitioners say that this
+concentration-born Form is Pure in Pure concentration. Others propose an
+arhat's external Form as Pure because it no longer serves as a Basis for
+influxes. An opponent cites a sūtra naming the eye and Forms among Impure
+Dharmas. The answer says they are called Impure there because they do not
+counter the influxes. Would that make the same Form both Impure and Pure?
+What confusion of characteristics would follow? As it is Impure in one
+respect, it is never Pure in that same respect. If visible Forms and the
+other Essences were exclusively Impure, why would another sūtra qualify
+them as “Forms that are Impure, appropriable, and a ground of mental
+obstruction and resentment”? The qualification would be idle.
 
-As for merit increasing, earlier teachers explain that giving-Cetanā
-cultivates the donor's continuum. As recipients use the gift and benefit
-from it, that cultivated continuum undergoes a subtle transformation,
-even while the donor's Mind is elsewhere, making it capable of greater
-future fruit. That is what the saying about merit increasing may mean.
-The objection asks how a change in one person's continuum can affect
-another's. The same question confronts a supposed non-manifest dharma
-arising in one continuum through another's change. With non-material
-bases of merit, repeated cultivation of giving-Cetanā directed at the
-object can accompany the donor even in dreams; where there is no
-manifest action, the proponent of `avijñapti` must explain its
-own account. A further sūtra about a virtuous recipient's meditation
-and the donor's flow of merit leads the Sautrāntika to prefer a specific
-transformation of the continuum.
+On merit increasing, earlier teachers explain: as recipients use a donor's
+gifts, the recipients' qualities and the specific benefit they receive
+vary. Even when the donor's Consciousness is elsewhere, giving-volitions
+taking that [gift] as Support (*tadālambana-dānacetanā*) have
+cultivated the donor's continuum. That continuum undergoes subtle,
+specific transformation and becomes capable of producing greater future
+fruit. This, they say, is the sense in which merit “continually increases
+and arises.” How can a change in a recipient's continuum transform the
+donor's while the donor's Consciousness is elsewhere? The same difficulty
+faces an `avijñapti` allegedly arising in one continuum from a change in
+another. What of non-material occasions of merit? Frequent cultivation of
+volitions taking them as Support makes those volitions accompany the donor
+even in dreams. The `avijñapti` proponent must explain how it arises where
+there is no manifestation. Others apply frequent cultivation of such
+volition even to material gifts.
+
+A further sūtra says that when a virtuous monk uses an offered meal and
+enters an immeasurable concentration of Consciousness realized bodily, an immeasurable
+outflow of merit, wholesome outflow, and stream of pleasant experience
+should be expected for the donor. What special volition does the donor
+have at that moment? The Sautrāntika concludes that a specific
+transformation of the continuum is the fitting account.
 
 The action-path of an instigator is explained similarly. When another
-person completes the commissioned deed, a subtle transformation arises
-in the instigator's continuum, capable of producing greater future
-fruit. The transformation is called an action-path by applying a name
-associated with the cause to its effect. The same reasoning applies to
-one who personally acts when the deed is completed. Another proposal
-relates killing to the agent's volition before, during, and after the
-act; the commentary cautions that mere belief that one has killed,
-when the intended person is unharmed, cannot complete the principal
-path. An objector asks why one should reject invisible `avijñapti` yet
-accept an equally unseen continuum-transformation. The
-reply denies hostility to invisibility: it is the production of an
-additional dharma separate from mind and body that remains unpersuasive.
-A causal transformation of the agent's own mental continuum can explain
-later fruit.
+person completes the commissioned deed and harms someone, a subtle,
+specific transformation arises in the instigator's continuum, capable
+of producing greater future fruit. The same principle applies to one
+who personally acts when the deed is completed. That transformed
+continuum is called an action-path by applying the cause's name to its
+effect. It is called bodily or verbal because it results from that
+bodily or verbal deed, just as proponents of `avijñapti` assign bodily
+or verbal status to it. The venerable [teacher] offers another account:
+with appropriated Bases, killing is reached through volition across
+three times—“I will kill,” “I am killing,” “I have killed.” Yet this alone
+cannot complete the action-path; otherwise one who mistakenly thinks
+an unharmed mother or another protected person has been killed would
+incur an immediate-retribution offense. For one who actually kills,
+the threefold occurrence of volition is intelligible.
+
+An objector asks why one should reject invisible `avijñapti` yet accept
+an equally unseen continuum-transformation. The reply denies hostility
+to invisibility. What fails to satisfy is an additional Dharma, separate
+from the instigator's Consciousness and bodily undertaking, produced
+when the commissioned act is completed. A transformation in that
+instigator's own continuum, caused by the completion of an act set in
+motion by that person, is acceptable; later fruit arises from the
+Consciousness-and-mental-factor continuum. A prior objection had also
+argued from the absence of manifestation to the absence of `avijñapti`.
 
 The Sautrāntika reply then addresses the Dharma Essence argument: the
 text's invisible, non-resistant Form can be included there without
-establishing the proposed distinct `avijñapti`. For the noble
-path, they ask what right speech, action, and livelihood mean while one
-is absorbed and neither speaks, acts, nor seeks livelihood. The
-Vaibhāṣika answer is that one acquires an uncontaminated `avijñapti`,
-which shapes conduct after emerging. The Sautrāntika proposes
-instead that one acquires a corresponding intention and basis that shape
-later conduct; the names of path factors are then applied through their
-causal signs. Another reply treats the necessary abstention itself as
-the path factor, noting that enumerated dharmas need not all be distinct
-substances.
+establishing the proposed distinct `avijñapti`. For the Noble Path,
+they ask what right speech, right action, and right livelihood mean
+while one is absorbed: is the practitioner speaking, acting, or seeking
+robes and other requisites? No. The Vaibhāṣika answer is that the
+practitioner acquires a Pure `avijñapti`, through which, after emerging,
+wrong speech and the rest do not recur and right speech and the rest
+do occur. The Path names are applied to it by naming a causal sign
+after what it signifies. The Sautrāntika asks why, by the same reasoning,
+one cannot say that the absorbed practitioner acquires the corresponding
+disposition (*āśaya*) and Basis (*āśraya*) without `avijñapti`, producing
+the same later conduct. The eight Path members could be named through
+their causal signs on that account as well.
+
+Another speaker proposes that the Path member here is simply the fixed
+non-performance of wrong action acquired through the Noble Path's power;
+it is Pure because it depends on the Pure Path. Enumerated Dharmas need
+not all be distinct substances. The eight worldly conditions, for example,
+include gain and loss, fame and infamy, blame and praise, pleasure and pain;
+the non-acquisition of robes and other goods is not a separate entity.
 
 Prātimokṣa restraint can likewise be the volitional undertaking that
-restrains bodily and verbal misconduct. When the mind is elsewhere, the
-undertaking has been cultivated and can be recollected when action is
-at issue. Remembering the pledge and feeling shame at misconduct can
-function as a barrier. Indeed, if `avijñapti` alone prevented
-misconduct, someone who forgot the training could never break a rule.
+restrains bodily and verbal misconduct. Would restraint fail when
+Consciousness is elsewhere? No. The undertaking has been cultivated and
+can arise in memory when action is at issue. Recalling the pledge not
+to act and feeling shame at misconduct can function as the sūtra's
+barrier; that is the very purpose of undertaking restraint. Indeed, if
+`avijñapti` alone prevented misconduct, someone who forgot the training
+could never break a rule.
 The Vaibhāṣikas end the dispute by reaffirming that `avijñapti` is a
 distinct real Form Dharma.
 
-The discussion then asks about its material basis. Does it arise from
+The discussion then asks about its material Basis. Does it arise from
 the same Great Elements as manifest action? The answer is no: one and
 the same causal complex is not suited to produce both a coarse and a
 subtle result. Most derivative Forms depend on contemporary Great
-Principles, but some present and future Forms depend on past ones.
-Which Forms? “After the first moment, desire-domain `avijñapti` is born
-from past Great Elements.” These are the Great Elements of its
-initial moment, now past. They serve as its producing basis (`āśraya`);
-present bodily Great Elements serve as
-its continuing support (`saṃniśraya`). Their functions are initiation
-and continuation respectively, like the hand's impulse and the ground's
-support for a rolling wheel.
+Elements, but some present and future Forms depend on past ones.
+Which Forms? “After the first moment, Desire Realm `avijñapti` is born
+from past Great Elements.” The past Great Elements serve as its
+initiating Basis (*āśraya*); present bodily Great Elements serve as
+its sustaining Basis (*saṃniśraya*). They account respectively for
+initiation and continuation, like a hand's impulse and the ground beneath
+a rolling wheel. The text does not explicitly identify the past Great
+Elements as those of the first moment; that inference follows its
+temporal distinction.
 
 The translation follows the complete dispute rather than treating the
 Vaibhāṣika proof-list as the author's final unchallenged conclusion.
 Several quoted sūtra clauses and the exact scope of individual replies
-require independent textual comparison.
+require independent textual comparison. The bracketed referents in the
+giving and three-times passages are provisional construals, not repairs
+to the Sanskrit witness.
 
 ## 4. Argument and Voices
 
@@ -409,7 +456,7 @@ whether action has consequences.
 A donor's earlier Cetanā can cultivate a continuum capable of later
 transformation as the gift benefits others. Similarly, completion of an
 act by an agent can alter an instigator's continuum. The reply about
-an attempted killing whose object survives guards the difference
+an attempted killing whose intended person survives guards the difference
 between intention, belief, and the actual completion of the principal
 action-path. The text does not allow a mere inner conviction to stand
 in for every external condition of the deed.
@@ -424,14 +471,14 @@ series. This is the sharpest point of the dispute.
 
 The noble path and prātimokṣa examples test how a standing practical
 status persists when its bearer is not presently speaking or acting.
-The Sautrāntika appeals to acquired intention, basis, habituation,
+The Sautrāntika appeals to acquired intention, Basis, habituation,
 and recollection; the Vaibhāṣika appeals to an existing `avijñapti`.
 The forgotten-vow counterexample tests whether it
 could be an automatic barrier against misconduct.
 
 After reaffirming real `avijñapti`, the Vaibhāṣikas distinguish the
 **Great Elements of its first moment, now past, that initiate it** from the
-**present bodily Great Elements that support its continuation**. The wheel analogy assigns
+**present bodily Great Elements that sustain its continuation**. The wheel analogy assigns
 different causal roles to the first impulse and continuing support.
 This material account is an attributed position in the debate.
 
@@ -439,12 +486,13 @@ This material account is an attributed position in the debate.
 
 `Avijñapti` is the controlled technical term for non-disclosing continuity;
 this rendering does not decide its substantial reality in advance.
-`Sāsrava` and `anāsrava` mean contaminated and uncontaminated in the
+`Sāsrava` and `anāsrava` are rendered Impure and Pure in the
 cited argument; neither is merely visible or invisible.
 `Saṃtati-pariṇāma-viśeṣa` names a subtle modification of a causal
 continuum, not a second substance smuggled into that continuum.
-`Āśraya` and `saṃniśraya` have different functions in the final
-Vaibhāṣika account.
+`Āśraya` is the initiating Basis and `saṃniśraya` the sustaining Basis
+in the final Vaibhāṣika account. Neither is cognitive Support
+(*ālambana*), which occurs in the donor's giving-volition.
 The source's `yogācārāḥ` refers to meditation practitioners in this
 argument; its occurrence alone does not establish affiliation with the
 later Yogācāra school. See the [Stanford Encyclopedia of Philosophy
@@ -461,13 +509,18 @@ presents the Sautrāntika replies through continuum transformation, and
 returns to the Vaibhāṣika account of its material support. The verse's
 first pāda summarizes grounds in dispute; its second states the production
 and continuing support assigned to desire-domain `avijñapti`.
+The dream example shows how cultivated giving-volitions can accompany a
+donor even in dreams. It does not decide whether dream experience involves
+Contact or the proposed “Mock Contact”; that remains a research question.
 
 ## 10. Review Status
 
 This Study includes the natural unit through [199|20–21] and stops before
 4.05. The first pāda's proof-list and the long Sautrāntika reply are
-both translated. The Sanskrit block matches the running witness token for
-token after removing its locators and verse siglum. The underlying witness
+both translated, including the quoted classifications and the Path and
+restraint exchanges. The Sanskrit block matches the running witness letter
+for letter after removing its locators, verse siglum, and editorial spacing
+and punctuation. The underlying witness
 and conventional translation remain provisional; the cited sūtras,
 anomalous forms, and fine speaker attributions need review against
 independent witnesses.

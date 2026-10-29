@@ -33,7 +33,7 @@ manifestation with speech sound.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | na | negative particle | not |
-| kasyacit | genitive neuter singular indefinite pronoun | of anything / for anything |
+| kasyacit | genitive singular indefinite pronoun | of anything / for anything |
 | ahetoḥ | ablative singular compound | without a cause; because no cause is required |
 | syāt | third-person singular optative | would be / would occur |
 | hetuḥ | nominative masculine singular | cause or productive ground |
@@ -79,9 +79,6 @@ The first two clauses use the optative `syāt` with `ahetoḥ` and `hetuḥ ... 
 > does not exist in a single atom. Verbal manifestation, however, is vocal
 > sound.
 
-The bracketed subjects and the conditional force of the first sentence are
-supplied from the continuous Bhāṣya argument.
-
 ### Bhāṣya-informed study translation
 
 > If destruction required a cause as arising does, no destruction would be
@@ -110,12 +107,13 @@ supplied from the continuous Bhāṣya argument.
 | aṇu / paramāṇu | atom | minimal material unit in which configuration is not found |
 | saṃniveśa | arrangement / disposition | organized plurality upon which longness and other configurations are designated |
 | prajñapti | designation | attribution grounded in arrangement without a separate configuration-entity |
-| kāyādhiṣṭhāna karma | action having the body as its basis or domain | Sautrāntika reconstruction of bodily action |
+| kāyādhiṣṭhāna karma | action having the body as its locus | Sautrāntika reconstruction of bodily action; *adhiṣṭhāna* is not the technical Basis (*āśraya*) |
 | cetanā | Cetanā; volition or intending | specific role in the definition and division of karma; not all mental activity |
 | saṃkalpa-cetanā | planning Cetanā | Bhāṣya: prior intending, “I shall act thus” |
 | kriyā-cetanā | operative Cetanā | Bhāṣya: later volition that directs and impels the body |
 | praṇetrī | directing / leading | Bhāṣya characterization of operative volition's relation to the body |
 | citta | consciousness | distinct from Cetanā; in this passage, the Bhāṣya asks whether non-disclosing continuity follows consciousness |
+| tejodhātu | Fire Principle | the intelligible rule of fiery operation in the boiling-water reply; distinct from Fire as Element at the Base level and from its Essential aspect |
 | vijñapti / avijñapti | manifestation/disclosure / non-disclosing continuity | distinct modes in the karma discussion; the further dispute over avijñapti begins in 4.04 |
 | vāg-vijñapti | verbal manifestation | speech as manifest action |
 | vāk-dhvani | vocal sound / speech-sound | material manifestation of verbal karma |

@@ -52,7 +52,7 @@ trividha-rūpa-ukti
     teaching of three kinds of Form
 
 amala / anāsrava-rūpa-ukti
-    teaching of uncontaminated Form
+    teaching of Pure Form
 ```
 
 The final compound is likewise commentary-resolved:
@@ -67,31 +67,32 @@ atīta-mahābhūta-jā
 
 ## 4. Grammar
 
-The first pāda is an instrumental phrase listing grounds in `-uktyā`, `-vṛddhyā`, and `-pathādibhiḥ`. The second is a nominal predication: `avijñaptiḥ` is qualified by `kāmāptā` and `atītabhūtajā`, with `kṣaṇād ūrdhvam` marking the temporal frame.
+The first pāda is a compressed compound governed by the instrumental plural
+ending `-ādibhiḥ`; the Bhāṣya separates its grounds as teachings, increase,
+the completed action-path, and further reasons. It does not print separate
+`-uktyā` or `-vṛddhyā` endings. The second is a nominal predication:
+`avijñaptiḥ` is qualified by `kāmāptā` and `atītabhūtajā`, with
+`kṣaṇād ūrdhvam` marking the temporal frame.
 
 ## 5. Translation
 
 ### Literal Translation
-> [Its existence is argued] from the teaching of threefold and uncontaminated
+> [Its existence is argued] from the teaching of threefold and Pure
 > Form, from increase, from the action-path of one not personally acting, and
 > from further grounds. Beyond the first moment, desire realm `avijñapti` is
 > born from past Great Elements.
 
-The bracketed conclusion, the separation of the two `rūpa` teachings, the
-reference of `patha` to an action-path, and the expansion of `bhūta` to great
-material determinations are supplied by the Bhāṣya.
-
 ### Bhāṣya-informed study translation
 
 > The Vaibhāṣikas establish *avijñapti* as a distinct real Form Dharma from
-> teachings on three kinds of Form and on uncontaminated Form, the increase of
+> teachings on three kinds of Form and on Pure Form, the increase of
 > merit, action-paths completed through another's agency, and other grounds.
 > Beyond its first moment, Desire Realm *avijñapti* is born from past Great
 > Elements.
 
 ## 6. Philosophical Translation
 
-> [Existence is argued] from the teaching of threefold and uncontaminated Form, from increase, from the action-path of one not personally acting, and from further grounds. Beyond the first moment, desire realm non-disclosing continuity is born from past Great Elements.
+> [Existence is argued] from the teaching of threefold and Pure Form, from increase, from the action-path of one not personally acting, and from further grounds. Beyond the first moment, Desire Realm non-disclosing continuity is born from past Great Elements.
 
 ## 7. Technical Vocabulary
 
@@ -101,19 +102,19 @@ material determinations are supplied by the Bhāṣya.
 | dravyataḥ | as an independently real entity | status denied by Sautrāntikas and affirmed by Vaibhāṣikas |
 | dravyāntara | another distinct real entity | exact ontological commitment of the Vaibhāṣika conclusion |
 | trividha-rūpa | threefold Form | visible-resistant, invisible-resistant, and invisible-non-resistant Form |
-| anāsrava-rūpa | uncontaminated Form | scriptural category claimed by Vaibhāṣikas for `avijñapti` and reinterpreted through concentration-generated Form by meditation practitioners |
+| anāsrava-rūpa | Pure Form | scriptural category claimed by Vaibhāṣikas for `avijñapti` and reinterpreted through concentration-generated Form by meditation practitioners |
 | anidarśana | invisible / not visually manifest | not an object of the eye faculty |
 | apratigha | non-resistant | not spatially obstructive |
 | vṛddhi | increase | continuous growth of merit even while the donor's consciousness is otherwise directed |
-| puṇyakriyāvastu | basis of meritorious action | gift or other basis whose efficacy is said to continue increasing |
+| puṇyakriyāvastu | Thing occasioning meritorious action | a gift or other meritorious occasion whose efficacy is said to continue increasing; not the technical Basis (*āśraya*) |
 | akurvat-patha | action-path of one not personally acting | completed karmapatha of an instigator after another performs the commissioned deed |
 | ājñāpana-vijñapti | manifestation consisting in a command | initiating expression distinguished from the completed principal action-course |
 | saṃtati-pariṇāma-viśeṣa | specific transformation of the continuum | Sautrāntika explanation of continuing karmic capacity |
 | bhāvita-saṃtati | cultivated or conditioned continuum | continuum transformed by prior volition |
 | kārye kāraṇopacāra | application of the cause-name to the effect | explains designation of the transformed continuum as `karmapatha` |
 | āśaya | disposition / orientation | acquired Path-determination governing later conduct |
-| āśraya | supporting or producing basis | Path-basis generally; here past Great Elements producing Desire Realm `avijñapti` |
-| saṃniśraya | continuing or sustaining support | present bodily Great Elements supporting continuation |
+| āśraya | Basis | here the past Great Elements initiating Desire Realm `avijñapti`; also a Path Basis in the earlier debate |
+| saṃniśraya | sustaining Basis | present bodily Great Elements sustaining continuation; distinct from cognitive Support (*ālambana*) |
 | pravṛtti | initiation | first causal production of the non-manifest stream |
 | anuvṛtti | continuation | persistence supported after initiation |
 | samyagvāk | right speech | Path-member absent as present speech during samāpatti |
@@ -140,7 +141,7 @@ An instrumental series names the stated grounds; the second pāda predicates Des
 
 ## 9. Interpretive Note
 
-**Translation note.** The attribution to the Vaibhāṣikas is explicit in the Bhāṣya, which argues for *avijñapti* as a distinct real Form Dharma. Further examples include restraint and the completeness of the Noble Eightfold Path. In the material genealogy, the Bhāṣya distinguishes past Great Elements as the producing basis from present bodily Great Elements as continuing support.
+**Translation note.** The attribution to the Vaibhāṣikas is explicit in the Bhāṣya, which argues for *avijñapti* as a distinct real Form Dharma. Further examples include restraint and the completeness of the Noble Eightfold Path. In the material genealogy, the Bhāṣya distinguishes past Great Elements as the initiating Basis from present bodily Great Elements as the sustaining Basis. The bracketed conclusion, the separation of the two Form teachings, the reference of `patha` to an action-path, and the expansion of `bhūta` to Great Elements are supplied by the Bhāṣya.
 
 The Bhāṣya presents two explanations of continuity. The Vaibhāṣikas defend
 `avijñapti` as a distinct real Form Dharma; the Sautrāntikas explain the
@@ -153,8 +154,8 @@ dispute, not a general claim that one account applies to every kind of action.
 The first pāda records the Vaibhāṣika grounds for affirming `avijñapti`;
 the Bhāṣya then gives the Sautrāntika replies and their account of continuum
 transformation. The second pāda states the Vaibhāṣika account of the
-Desire Realm `avijñapti`: past Great Elements produce it, while present
-bodily Great Elements support its continuation. The cited Path and
+Desire Realm `avijñapti`: past Great Elements initiate it, while present
+bodily Great Elements sustain its continuation. The cited Path and
 restraint examples test how the schools explain conduct when no corresponding
 bodily or verbal action is presently performed.
 

@@ -82,7 +82,7 @@ The verse produces its claim in three successive predications. First, `loka-vaic
 | buddhipūrvaka | preceded by intelligence / deliberately designed | Bhāṣya term excluding construction of the World by a designing maker |
 | vyāmiśrakārin | one whose activity is mixed | Bhāṣya explanation for disparity between embodiment and enjoyments |
 | avyāmiśrakārin | one whose activity is unmixed | Bhāṣya description of gods whose embodiment and enjoyments are both agreeable |
-| āśraya | support | first Bhāṣya ground considered for classifying the three actions |
+| āśraya | Basis | first Bhāṣya ground considered for classifying the three actions; the mixed-karma reply also uses the plural for bodily bases |
 | svabhāva | intrinsic nature | second Bhāṣya ground considered for classification |
 | samutthāna | origination / originating source | third Bhāṣya ground; all three actions originate from mind |
 

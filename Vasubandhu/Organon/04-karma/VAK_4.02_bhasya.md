@@ -75,9 +75,9 @@ See [*Abhidharmakośabhāṣya*, p. 172](https://icabs.repo.nii.ac.jp/record/363
 
 ## 3. Continuous Translation
 
-“Those two have manifestation and non-manifestation.” The bodily and verbal
-actions are each to be understood as having the natures of manifestation
-and non-manifestation. Among them, bodily manifestation is held to be
+“Those two have manifestation and non-disclosing continuity.” The bodily
+and verbal actions are each to be understood as having the natures of manifestation
+and non-disclosing continuity. Among them, bodily manifestation is held to be
 configuration. Bodily manifestation is the body configured in one way or
 another under the power of consciousness.
 
@@ -209,7 +209,7 @@ theory from its opening statement.
 ## 9. Interpretation
 
 The passage resumes the bodily and verbal actions produced after intending
-and assigns both manifestation and non-manifestation to each. It then
+and assigns both manifestation and non-disclosing continuity to each. It then
 examines bodily manifestation as configuration rather than motion, arguing
 from the momentariness of conditioned things. `Avijñapti` is named but not
 positively defined here; the account of its constitution and of karmic

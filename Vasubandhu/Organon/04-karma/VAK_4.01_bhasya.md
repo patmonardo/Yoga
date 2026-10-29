@@ -19,7 +19,7 @@ issue is the karma of beings.
 ```iast
 oṃ namo buddhāya.
 
-atha yad etat sattva-bhājana-lokasya bahudhā vaicitryam uktaṃ tat kena
+atha yad etat sattva-bhājana-lokasya bahudhā vaicitryam ukta tat kena
 kṛtam? na khalu kenacid buddhi-pūrvakaṃ kṛtam. kiṃ tarhi? sattvānāṃ
 
 karmajaṃ lokavaicitryam.
@@ -55,7 +55,9 @@ veditavye.
 
 This unit runs from [192|02] through [192|20] of
 `Vasubandhu/Sources/kosabhasya.txt`; the next verse begins at [192|21].
-Word division and punctuation above are editorial. The running witness's
+Word division and punctuation above are editorial. The running witness reads
+`ukta` at [192|03], retained above despite the expected agreement of
+`vaicitryam uktaṃ`; the translation follows the sense. The running witness's
 rough phrase `tānyevañjātīyāti vyābhiśrakāriṇāṃ` and its reading
 `cetanākṛṭaṃ` are retained. Their exact wording remains unsettled; the
 translation below brackets the uncertain syntax rather than claiming a
@@ -74,10 +76,10 @@ receptacle-world has been described. By what was it made? It was certainly
 not made by anyone acting with prior intelligence. By what, then? The
 differentiation of the world is born from the karma of beings.
 
-If it is born from karma, why do the karmas of beings produce attractive
-things such as saffron and sandalwood, but not correspondingly attractive
-bodies for those beings? [For beings whose karma is mixed, karmas of this
-kind produce] bodily supports that are like wounds, and attractive
+If it is born from karma, why do the karmas of beings produce more attractive
+things such as saffron and sandalwood, but not their bodies? [For beings whose
+karma is mixed, karmas of this kind produce] bodily bases that are like
+wounds, and attractive
 enjoyments that serve as remedies for them. For gods whose action is
 unmixed, both are attractive.
 
@@ -87,8 +89,8 @@ after having willed.” What is described as action after having willed is
 also what is produced by volition. These two karmas become three: bodily,
 verbal, and mental action.
 
-How are these actions classified? Is it by support, by intrinsic nature, or
-by origination? If by support alone, only bodily action would result, since
+How are these actions classified? Is it by Basis, by intrinsic nature, or
+by origination? If by Basis alone, only bodily action would result, since
 all depend on the body. If by intrinsic nature alone, only verbal action
 would result, since speech has the nature of action. If by origination
 alone, only mental action would result, since all arise from mind. The
@@ -100,8 +102,10 @@ as mental action. “Verbal and bodily actions are born from it”: what was
 called action born from volition, action after having willed, is to be
 understood as bodily and verbal action.
 
-The bracketed subject and causal link in the mixed-karma reply are a
-provisional construal, not a recovered reading. “Like wounds” preserves
+“Bases” here renders the plural `āśrayāḥ`, bodily supports in this objection;
+it does not introduce a further Base classification. The bracketed subject
+and causal link in the mixed-karma reply are a provisional construal, not a
+recovered reading. “Like wounds” preserves
 `vraṇabhūtāḥ`; “remedies” preserves `pratīkāra`. A
 [separate English translation excerpt](https://abhidharmakosa.wordpress.com/wp-content/uploads/2010/09/kosa-karika-study.pdf)
 also reads a contrast between mixed action and gods' unmixed action
@@ -174,7 +178,7 @@ from Cetanā and identifying its bodily and verbal forms.
 ## 7. Grounds of Classification
 
 The Bhāṣya asks whether bodily, verbal, and mental action are named by
-`āśraya` (support), `svabhāva` (intrinsic nature), or `samutthāna`
+`āśraya` (Basis), `svabhāva` (intrinsic nature), or `samutthāna`
 (origination). Applied indiscriminately, each criterion would erase the
 threefold distinction: all depend on body, speech has karmic nature, and
 all arise from mind. The Vaibhāṣika answer distributes the criteria
@@ -197,8 +201,8 @@ The mixed-karma reply cannot be treated as a settled translation of every
 word. The exact form `cetanākṛṭaṃ` and the apparent break around
 `tānyevañjātīyāti` require comparison with independent Sanskrit witnesses
 and critical editions. Word division and the displayed expansion of the
-sūtra citation are editorial; no lexical repair is built into the
-continuous Sanskrit above.
+sūtra citation are editorial; the witness's `ukta` is also retained, and no
+lexical repair is built into the continuous Sanskrit above.
 
 ## 9. Interpretation
 

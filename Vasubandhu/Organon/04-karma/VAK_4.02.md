@@ -26,7 +26,7 @@ Cetanā.
 |---|---|---|
 | te | nominative neuter dual pronoun | those two: bodily and verbal actions from 4.01 |
 | tu | contrastive or transitional particle | now / as for those two |
-| vijñaptyavijñaptī | nominative feminine dual compound | manifestation/disclosure and non-disclosing continuity; Bhāṣya distributes both to each of the two actions |
+| vijñaptyavijñaptī | nominative feminine dual compound | manifestation/disclosure and non-disclosing continuity; the Bhāṣya supplies the distributive relation to each of the two actions |
 | kāyavijñaptiḥ | nominative feminine singular compound | bodily manifestation / bodily making-known |
 | iṣyate | present passive, third-person singular | is accepted, maintained, or held to be |
 | saṃsthānam | nominative neuter singular | configuration, determinate spatial arrangement |
@@ -55,12 +55,16 @@ established by the following units.
 
 ## 4. Grammar
 
-`Te tu` resumes a dual subject; `vijñaptyavijñaptī` supplies its dual predicate. The next clause predicates `saṃsthānam`, and denies `gati`, of bodily manifestation. `Yasmāt` introduces the final causal clause, with `saṃskṛtaṃ`, `kṣaṇikam`, and `vyayāt` forming its predicate.
+`Te tu` resumes the neuter dual `vākkāyakarmaṇī` of 4.01. The feminine
+dual `vijñaptyavijñaptī` names the two modes in a compressed predicate;
+the Bhāṣya spells out that each action has both. The next clause predicates
+`saṃsthānam`, and denies `gati`, of bodily manifestation. `Yasmāt`
+introduces the reason: the conditioned is momentary because it perishes.
 
 ## 5. Translation
 
 ### Literal Translation
-> Those two, however, are manifestation and non-manifestation. Bodily
+> Those two, however, are manifestation and non-disclosing continuity. Bodily
 > manifestation is held to be configuration, not motion, because the
 > conditioned is momentary owing to its perishing.
 
@@ -80,7 +84,7 @@ established by the following units.
 |---|---|---|
 | vijñapti | manifestation / disclosure | expressive mode of bodily or verbal karma |
 | avijñapti | non-disclosing continuity | mode assigned to each bodily and verbal action; positive determination remains for subsequent verses |
-| vijñapti-avijñapti-svabhāva | having manifestation and non-manifestation as natures | Bhāṣya's distributive analysis of bodily and verbal karma |
+| vijñapti-avijñapti-svabhāva | having manifestation and non-disclosing continuity as natures | Bhāṣya's distributive analysis of bodily and verbal karma |
 | kāya-vijñapti | bodily manifestation | bodily configuration generated under the determination of consciousness |
 | cittavaśena | under the direction or power of consciousness | Bhāṣya-only condition distinguishing expressive configuration from mere shape |
 | tathā tathā saṃsthāna | configuration in this or that determinate manner | Bhāṣya expansion of bodily manifestation |
