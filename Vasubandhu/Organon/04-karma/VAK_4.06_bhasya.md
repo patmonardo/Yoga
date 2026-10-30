@@ -12,8 +12,10 @@
 > produced by homogeneous outflow. Samādhi-born [non-disclosing continuity] is
 > cultivation-produced and born from non-appropriated, undivided Great Elements.
 
-The second line follows the running witness's rough spelling; the
-Kārikā study `VAK_4.06.md` gives `anupāttā` where it reads `anupātā`.
+The anchor follows the kārikā reading `anupāttā`, also found in
+[Gokhale's separately published kārikā text](https://theosnet.net/dzyan/sanskrit/abhidharmakosa_1946.pdf);
+the running Bhāṣya e-text reads
+`anupātā` in its repetition of the line.
 The bracketed scope in the translation comes from the Bhāṣya's
 `asamāhitabhūmikāyā eṣa prakāraḥ`, not from the Kārikā alone.
 
@@ -61,8 +63,8 @@ avijñaptiḥ` at [200|26], begins 4.07. The research Bhāṣya witness ends
 its excerpt at [200|14]; the continuous text above restores the later
 objection concerning bodily configuration and the closing classification.
 Word division and punctuation are editorial. The e-text reads `anupātā`
-and `anupātāni`; their relation to the expected `anupāttā` and
-`anupāttāni` remains a witness question. It also reads `pravandhād` in
+and `anupātāni`; the separately published kārikā supports `anupāttā`
+in the verse, while the Bhāṣya prose remains a witness question. It also reads `pravandhād` in
 the configuration objection, retained above.
 
 ## 3. Continuous Translation
@@ -70,17 +72,17 @@ the configuration objection, retained above.
 “It belongs to homogeneous outflow and is designated in relation to a
 sentient being.” Further, it is “born from outflow-derived, appropriated
 Great Elements.” Non-disclosing continuity arises depending on Great Elements
-of homogeneous outflow, and also on consciousness and mental factors. This is the
+of homogeneous outflow, and also on Consciousness and mental factors. This is the
 account for the non-concentrated level.
 
 “That born from concentration arises from cultivated, non-appropriated,
 undivided Great Elements.” Non-disclosing continuity consisting in restraint
-born from meditation and uncontaminated restraint is born from concentration.
+born from meditation and Pure restraint is born from concentration.
 It arises depending on Great Elements produced through concentration,
 cultivated and non-appropriated. They are also undivided: the very Great
 Elements on which abstention from killing depends are those on which
 abstention through the last of the verbal wrongs depends. Why? Because the
-Great Elements are not divided, just as consciousness is not divided. With
+Great Elements are not divided, just as Consciousness is not divided. With
 prātimokṣa restraint, by contrast, the seven non-disclosing continuities depend
 on different Great Elements.
 
@@ -111,6 +113,9 @@ wholesome and unwholesome.
 The wording around the interruption of a prior configuration is
 provisional. The argument's two alternatives and the porous-body reply
 are clear, but the e-text's `pravandhād` requires witness comparison.
+The closing sentence's compressed `cetayitvā punar dvidhā: kāyavākkarma
+cetanā ca` is punctuated to preserve the stated threefold count; its
+syntax is rough in the running e-text.
 
 ## 4. Movement and Voices
 

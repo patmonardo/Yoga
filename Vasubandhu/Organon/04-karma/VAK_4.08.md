@@ -59,7 +59,7 @@ The first pāda places the understood subject in the locative `kāme`; `yataḥ`
 
 ## 6. Philosophical Translation
 
-> Even in the desire realm, obscured [manifestation] does not occur, because its originating condition is absent. Liberation is wholesome ultimately; the roots, shame, and fear of blame are wholesome intrinsically.
+> Even in the desire realm, obscured [manifestation] does not occur, because its originating condition is absent. Liberation is wholesome ultimately; the roots, ethical self-respect, and moral circumspection are wholesome intrinsically.
 
 ## 7. Technical Vocabulary
 
@@ -68,9 +68,9 @@ The first pāda places the understood subject in the locative `kāme`; `yataḥ`
 | `vijñapti` | manifestation / disclosure | bodily or verbal action in its outwardly manifest mode |
 | `nivṛta` | obscured | in `nivṛtāvyākṛta`, obscured but ethically indeterminate |
 | `avyākṛta` | ethically indeterminate | neither wholesome nor unwholesome |
-| `samutthāna` | originating condition | the consciousness from which the manifestation is produced |
-| `vitarka`, `vicāra` | initial application, sustained examination | factors of the consciousness required for the manifestation described |
-| `bhāvanāprahātavya` | to be abandoned through cultivation | class of consciousness that can produce the relevant manifestation |
+| `samutthāna` | originating condition | the Consciousness from which the manifestation is produced |
+| `vitarka`, `vicāra` | initial application, sustained examination | factors of the Consciousness required for the manifestation described |
+| `bhāvanāprahātavya` | to be abandoned through cultivation | class of Consciousness that can produce the relevant manifestation |
 | `darśanaprahātavya` | to be abandoned through seeing | class described as proceeding inwardly |
 | `kuśala`, `śubha` | wholesome | ethical classification determined here by two of four grounds |
 | `paramārthataḥ` | ultimately | ground exemplified by liberation / nirvāṇa |
@@ -83,6 +83,14 @@ The first pāda places the understood subject in the locative `kāme`; `yataḥ`
 | `apatrāpya` | moral circumspection | wholesome intrinsically |
 
 ## 8. Logical Determination
+
+Manifestation requires an originating Consciousness with *vitarka* and
+*vicāra* that belongs to the class abandoned through cultivation. The first
+requirement excludes manifestation above Brahmaloka in the account being
+explained; the second excludes the obscured-indeterminate case in the desire
+realm. Ethical wholesomeness, however, has four distinct grounds;
+this verse determines liberation as wholesome ultimately and the three roots,
+*hrī*, and *apatrāpya* as wholesome by their own nature.
 
 ## 9. Interpretive Note
 
@@ -109,6 +117,19 @@ manifestation. The second half prevents that causal explanation from becoming
 a universal rule for ethical classification: the Bhāṣya distinguishes four
 grounds—ultimate, intrinsic, associative, and originating-condition—and
 explains only the first two here.
+
+The Bhāṣya's intervening question names the **Sound Essence**
+(*śabdāyatana*), asking how sound caused by external Great Elements can
+occur above Brahmaloka when verbal manifestation is denied there. The
+question does **not** say that Sound Principles (*śabda-dhātu*) are absent.
+In the Organon reading, *vāg-vijñapti* can be tested as an immediate
+determination at the Sound Principle level, while Sound Essence names the
+mediated auditory relation at issue in the question. The move from
+Great-Element cause to Sound Essence does not by itself establish verbal
+manifestation. This is a project-level distinction, not a substitution
+of Sound Principle for *vāg-vijñapti* in the Sanskrit. Sound's role as a
+Verbal Relation belongs to the *Nāma* determination; the Kośa also
+classifies sound among Form.
 
 In the Kośa's broader system, Discriminative Cognition (*vijñāna*) governs
 Mind (*manas*) and guides Dharma Base; it is distinct from the consciousness

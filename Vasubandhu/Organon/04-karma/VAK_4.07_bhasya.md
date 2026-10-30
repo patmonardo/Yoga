@@ -62,43 +62,44 @@ whose final word is uncertain. The source also reads `kāmahātau`,
 `avijñaptināṃrhati`, and `samāpattunārlaṃ`. The first is retained;
 the latter two are displayed as `avijñaptir nārhati` and
 `samāpattur nālaṃ`, editorial repairs rather than mere word division.
+The translation reads `kāmahātau` as the expected `kāmadhātau`
+(“in the Desire Realm”); this is a conjecture, not a witness reading.
+The compact sequence `āśrayākārālambana` is construed as Basis,
+Aspect, and Support, preserving three distinct technical relations.
 The translation remains provisional where these readings matter.
 
 ## 3. Continuous Translation
 
 “There is no ethically indeterminate non-disclosing continuity.” Why? An
-ethically indeterminate consciousness is weak. It cannot project forceful
-karma that would continue even after that consciousness has ceased.
+ethically indeterminate Consciousness is weak. It cannot project forceful
+action that would continue even after that Consciousness has ceased.
 
 “The other action is threefold.” Other karma is wholesome,
 unwholesome, or ethically indeterminate. What is this other karma?
 Manifestation and volition.
 
-“The unwholesome, however, is in the desire realm.” Unwholesome karma
-proper is to be understood as belonging to the desire realm and not
+“The unwholesome, however, is in the Desire Realm.” Unwholesome action
+as a Thing (*vastu-karma*) is to be understood as belonging to the Desire Realm and not
 elsewhere, because the roots of the unwholesome, shamelessness, and lack
 of moral concern have been abandoned [above it]. Wholesome and
-indeterminate karma, by contrast, occur at all levels as ethical classes;
-this does not mean that each mode of karma occurs at every level. The damaged
-Sanskrit reason is left unresolved; parallel Chinese translations explain
-that the verse does not separately rule them out.
+ethically indeterminate [action], by contrast, are said to occur
+everywhere; the reason in the damaged *prativedhāt* clause is unclear.
 
 “Non-disclosing continuity exists also in the Form realm”: the word “also”
 includes the desire realm. It does not exist in the formless realms,
 because Elements are absent there. Where body and speech
 operate, there are restraints of body and speech.
 
-An interlocutor asks whether one absorbed in a formless attainment
-would then possess uncontaminated non-disclosing continuity, as in the case
-under discussion. The answer distinguishes an uncontaminated factor,
+An interlocutor asks whether one absorbed here would then possess Pure
+[non-disclosing continuity], as with manifestation. The answer distinguishes a Pure factor,
 which does not belong to a realm, from non-disclosing continuity belonging
 specifically to the formless realms. The latter could not depend on
 Elements of a dissimilar class. Someone who has entered a formless
 attainment, turned away from all form and removed the perception of
 Form, cannot thereby produce Form. Discipline counters
 misconduct, and the misconduct at issue belongs to the desire realm.
-The formless attainments stand far from the desire realm by support,
-mode, object, and antidote. For these reasons the Vaibhāṣikas say there
+The formless attainments stand far from the Desire Realm by Basis,
+Aspect, Support, and counteragent. For these reasons the Vaibhāṣikas say there
 is no non-disclosing continuity in those realms.
 
 “Manifestation occurs in the two levels possessing *vicāra*.” It occurs

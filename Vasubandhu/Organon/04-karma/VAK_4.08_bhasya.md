@@ -69,26 +69,27 @@ uncertain.
 
 “Even in the desire realm, obscured-indeterminate manifestation does not
 exist.” It exists only in Brahmaloka. A bodily action arising from deceit is
-reported of Mahābrahmā. The Sanskrit says that he acted before his retinue in
-connection with the venerable Aśvajit; the Chinese witnesses describe boastful
-self-praise to evade Aśvajit's question. The precise act is not secure.
+reported of Mahābrahmā. The damaged Sanskrit says that, before his retinue
+and for the purpose of dismissing venerable Aśvajit, he “cast himself”
+(*ātmānaṃ kṣiptavāt*). The Chinese witnesses describe boastful self-praise
+to evade Aśvajit's question. The precise act is not secure.
 
 If verbal manifestation is absent above that level, how can the Sound Essence
 there be caused by external Great Elements? Others say that manifestation
 exists also in the second and higher dhyānas as unobscured-indeterminate,
 neither wholesome nor afflicted. One born at those levels does not bring a
-lower-level consciousness into presence to produce such manifestation,
-because that consciousness is inferior and has been abandoned. The commentary
-then returns to the account it explains.
+lower-level Consciousness into presence to produce such manifestation,
+because that Consciousness is inferior and has been abandoned. They then
+explain the earlier account.
 
 Why is there no manifestation above Brahmaloka, and no
 obscured-indeterminate manifestation in the desire realm? “Because its
 originating condition is absent.” Manifestation is produced by a
-consciousness possessing both `vitarka` and `vicāra`; such consciousness is
+Consciousness possessing both `vitarka` and `vicāra`; such Consciousness is
 absent from the second dhyāna upward. Manifestation is produced by
-consciousness abandoned through cultivation. What is abandoned through seeing
+Consciousness abandoned through cultivation. What is abandoned through seeing
 proceeds inwardly and does not produce this outward manifestation. The
-relevant obscured-indeterminate consciousness is absent in the desire realm.
+relevant obscured-indeterminate Consciousness is absent in the desire realm.
 
 Are Dharmas then to be classified as wholesome or unwholesome solely through
 their originating condition? No. The Bhāṣya gives four grounds:
@@ -127,9 +128,11 @@ obscured-indeterminate consciousness capable of producing the manifestation
 at issue.
 
 The alternative account of higher-level sound is not silently merged with
-this explanation. Sound produced by external Great Elements is not
-automatically the same thing as verbal `vijñapti`; the Bhāṣya's question
-preserves that distinction.
+this explanation. The question names the Sound Essence (*śabdāyatana*) and
+asks how it can have external Great Elements as causes where verbal
+manifestation is absent. Sound's causal support does not by itself settle
+whether it functions as verbal *vijñapti*. The project's determination of
+sound as a Verbal Relation belongs to the interpretive level.
 
 ## 6. Four Grounds of Ethical Predication
 

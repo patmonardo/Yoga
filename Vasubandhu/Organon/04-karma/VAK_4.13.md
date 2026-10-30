@@ -31,7 +31,7 @@ discipline of action. It first distinguishes three modes of
 | itarā | nominative feminine singular | the class other than either of the first two |
 | prātimokṣa-ākhyaḥ | nominative masculine singular compound adjective | called prātimokṣa |
 | dhyāna-jaḥ | nominative masculine singular compound adjective | born from meditation |
-| anāsravaḥ | nominative masculine singular adjective | uncontaminated |
+| anāsravaḥ | nominative masculine singular adjective | Pure; without influx |
 | tathā | adverb | likewise; also |
 
 The Bhāṣya resolves `saṃvarāsaṃvaretarā` as three classes: restraint,
@@ -47,36 +47,42 @@ The first pāda predicates `tridhā jñeyā` of `avijñaptiḥ`; the compound `s
 ### Literal Translation
 > Non-disclosing continuity is to be understood as threefold: restraint,
 > non-restraint, and that which is neither. Restraint is called
-> *prātimokṣa*, is meditation-born, and is likewise uncontaminated.
+> *prātimokṣa*, meditation-born, or Pure.
 
 ### Bhāṣya-informed study translation
 
 > Non-disclosing continuity is threefold: restraint, non-restraint, and neither.
-> Restraint is prātimokṣa, meditation-born, and likewise uncontaminated.
+> Restraint is of three kinds: called *prātimokṣa*, meditation-born, and Pure.
 
 ## 6. Philosophical Translation
 
-> Non-disclosing continuity is to be understood as threefold: restraint, non-restraint, and that which is neither. Restraint is called prātimokṣa, is meditation-born, and is likewise uncontaminated.
+> Non-disclosing continuity is to be understood as threefold: restraint, non-restraint, and that which is neither. Restraint is called prātimokṣa, meditation-born, or Pure.
 
 ## 7. Technical Vocabulary
 
 | Sanskrit | Controlled rendering | Determination in this unit |
 |---|---|---|
 | `avijñapti` | non-disclosing continuity | classified as restraint, non-restraint, or neither |
-| `saṃvara` | restraint | checking the spread of misconduct |
+| `saṃvara` | restraint | checking and stopping the spread of misconduct |
 | `asaṃvara` | non-restraint | one class contrasted with restraint |
 | `itarā` | neither | neither restraint nor non-restraint |
 | `dauḥśīlya` | misconduct | the spread of which restraint checks |
 | `prātimokṣa-saṃvara` | prātimokṣa restraint | identified by the Bhāṣya with Desire Realm discipline |
 | `dhyāna-saṃvara` | meditation-born restraint | identified with Form Realm discipline |
-| `anāsrava-saṃvara` | uncontaminated restraint | identified with uncontaminated discipline |
+| `anāsrava-saṃvara` | Pure restraint | identified with Pure discipline |
 | `śīla` | discipline | the Bhāṣya's term for the three corresponding forms |
 
 ## 8. Logical Determination
 
+Non-disclosing continuity is divided into restraint, non-restraint, and
+neither. Only the first of these is then divided again: prātimokṣa,
+meditation-born, and Pure restraint. The Bhāṣya defines restraint by its
+operative check on the spread of misconduct and assigns the three forms
+to Desire Realm, Form Realm, and Pure discipline, respectively.
+
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya identifies the three forms as *prātimokṣa*, meditation-born, and uncontaminated restraint, associating them respectively with Desire Realm discipline, Form Realm discipline, and uncontaminated discipline. It also glosses restraint as checking the spread of misconduct; these explanations are not stated in the kārikā.
+**Translation note.** The Bhāṣya identifies the three forms as *prātimokṣa*, meditation-born, and Pure restraint, associating them respectively with Desire Realm discipline, Form Realm discipline, and Pure discipline. It also glosses restraint as checking and stopping the spread of misconduct; these explanations are not stated in the kārikā.
 
 ### Textual Notes
 

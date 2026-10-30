@@ -6,8 +6,8 @@
 > anāsravaṃ yatra jāto 'vijñaptir anupāttikā // 4.05 //
 
 
-> Contaminated bodily and verbal action depends on its own Great Elements.
-> Uncontaminated bodily and verbal action depends on the Great Elements of the
+> Impure bodily and verbal action depends on its own Great Elements.
+> Pure bodily and verbal action depends on the Great Elements of the
 > level where one is born. Non-disclosing continuity is non-appropriated.
 
 The Kārikā study is `VAK_4.05.md`. After 4.04's debate over the reality
@@ -37,9 +37,10 @@ avijñaptir anupāttikā.
 
 This unit runs from [199|22] through [200|03] of
 `Vasubandhu/Sources/kosabhasya.txt`. Word division and punctuation are
-editorial. The witness reads `asravaṃ` at [199|27–200|01], where the
-Kārikā, the contrast, and the explanation require `anāsravaṃ`; that
-correction is displayed rather than silently attributed to the witness.
+editorial. The witness reads `kāyavākkarmaṃ` at [199|24–25], `asravaṃ`
+at [199|27–200|01], and `tadvalena` at [200|01]. The displayed text
+repairs these to `kāyavākkarma`, `anāsravaṃ`, and `tadbalena`,
+respectively; all three repairs remain editorial conjectures.
 The following `naiḥṣyandikī` at [200|04] opens the next determination.
 
 ## 3. Continuous Translation
@@ -47,18 +48,18 @@ The following `naiḥṣyandikī` at [200|04] opens the next determination.
 Now, which level's Great Elements support bodily and verbal karma, and to
 which level does that karma belong?
 
-“Contaminated bodily and verbal karma depends upon its own Great
-Principles.” Desire-domain bodily and verbal karma depends upon
+“Impure bodily and verbal action depends upon its own Great
+Elements.” Desire Realm bodily and verbal action depends upon
 Desire Realm Great Elements. Likewise, up through karma belonging to
 the fourth meditative level, each depends upon Great Elements of that
 same level.
 
-“Uncontaminated karma [depends upon those of the level] in which one is
-born.” Uncontaminated bodily and verbal karma is to be understood as
+“Pure [action depends upon those of the level] in which one is
+born.” Pure bodily and verbal action is to be understood as
 depending upon the Great Elements belonging to the level in which the
-person producing it is born. This is because uncontaminated Dharmas do
-not fall within a Principle-classification, because there are no
-uncontaminated Great Elements, and because that karma arises through
+person producing it is born. This is because Pure Dharmas do
+not fall within any Realm, because there are no
+Pure Great Elements, and because that action arises through
 the force of the Great Elements belonging to that level.
 
 Here both forms of karma called manifestation and non-disclosing
@@ -90,11 +91,11 @@ anāsrava karma      → Great Elements of the producer's level
 ```
 
 The first rule is level correspondence. The second is necessary because
-`anāsrava` does not name another level and there are no
+`anāsrava` does not name another Realm or level and there are no
 uncontaminated Great Elements. Great Elements of a given level can
 support uncontaminated bodily or verbal karma without themselves becoming
 uncontaminated. `Tadbalena` points back to the level-specific Great
-Principles: the karma arises through their causal power without
+Elements: the action arises through their causal power without
 becoming identical with its basis.
 
 ## 6. Manifestation and Non-disclosing Continuity
@@ -124,7 +125,7 @@ check.
 `Tadbalena` literally says “through its/their power.” The immediate
 antecedent is the Great Elements of the producer's level, so the
 translation makes that referent explicit rather than substituting the
-level itself for those Principles.
+level itself for those Elements.
 
 ## 8. Doctrinal Limit
 

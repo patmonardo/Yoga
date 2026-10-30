@@ -70,9 +70,18 @@ The first pāda predicates `dvidhā` of `samutthānam` and names its two forms i
 | `vijñapti` | manifestation / disclosure | bodily or verbal action in its outwardly manifest mode |
 | `avijñapti` | non-disclosing continuity | discussed in the opening objection |
 | `mahābhūta` | Great Element | material support distinguished from the agent's intention |
-| `saṃvara` | restraint | its arising without consciousness is raised as a question |
+| `saṃvara` | restraint | its arising without Consciousness is raised as a question |
 
 ## 8. Logical Determination
+
+An initiating condition projects action; a contemporaneous condition
+accompanies its performance. Their distinct roles explain how an earlier
+wrong view can initiate the action named in a scriptural sequence without
+being the Consciousness present when the action occurs. The Bhāṣya tests
+the need for accompaniment with the corpse comparison, then qualifies it
+with restraint arising without Consciousness. Its opening questions about
+the ethical status of Great Elements and concentration-born *avijñapti*
+remain open.
 
 ## 9. Interpretive Note
 

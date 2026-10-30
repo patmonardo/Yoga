@@ -57,6 +57,9 @@ The unit runs from [202|13] through [203|05] in
 `Vasubandhu/Sources/kosabhasya.txt`; `idaṃ vicāryate` at [203|05–06] opens
 the next inquiry. Word division and punctuation are editorial. The running
 witness's `samutthā nāt`, `kāyavāvakkarmaṇi`, and `kukśalam` remain visible.
+The producer phrase `kuśalamūlādisaṃprayuktai dharmaḥ` is also grammatically
+rough; the English construes the associated Dharmas as the producers without
+silently replacing the transmitted letters.
 The compressed `prāptinirodhāsaṃjñisamāpattayas` is read as naming
 `prāpti`, `nirodhasamāpatti`, and `asaṃjñisamāpatti`, in light of their
 separate treatment in Chapter 2. The question about certain `prāptis` is
@@ -70,23 +73,23 @@ through association: without association with those factors they would not
 be wholesome. They are like water mixed with medicine.
 
 “Actions and the rest are wholesome through origination.” Bodily and verbal
-actions and formations dissociated from consciousness—including arising and
+actions and formations dissociated from Consciousness—including arising and
 related determinations, acquisition, the attainment of cessation, and the
 attainment of non-perception—are wholesome through being produced by Dharmas
 associated with those wholesome roots and related factors. They are compared
 to a wet-nurse's milk produced after drinking a medicinal preparation.
 
-The Bhāṣya then asks how acquisitions produced by a consciousness of a
+The Bhāṣya then asks how acquisitions produced by a Consciousness of a
 different ethical class can be wholesome. It gives compressed examples:
 reconnection with wholesome roots through doubt and acquisition connected
 with return to or loss of a realm. The difficulty is left for explanation.
 
 As wholesomeness has been explained, “the unwholesome is determined
-conversely.” Saṃsāra is unwholesome ultimately because it consists in the
-continuation of all suffering and is the opposite of supreme security. The
+conversely.” How so? Saṃsāra is unwholesome ultimately because it consists in the
+continuation of all suffering and is utterly insecure (*parama-akṣema*). The
 unwholesome roots, shamelessness, and lack of moral concern are unwholesome
 intrinsically. Dharmas associated with them are unwholesome through
-association; bodily and verbal actions and related products are unwholesome
+association; bodily and verbal actions, their arising, and acquisitions are unwholesome
 through origination. The comparisons include illness and harmful medicine.
 
 An objection follows: since contaminated Dharmas belong to saṃsāra, would
@@ -116,6 +119,10 @@ Dharmas as indeterminate without qualification.
 The objection beginning `evaṃ tarhi` is not Vasubandhu's conclusion. The
 question about `prāpti` is expressly left open. The study preserves both
 limits rather than forcing a resolution.
+
+`Paramākṣematvāt` is read as *parama-akṣematvāt*, “because of utter
+insecurity,” in deliberate contrast to the *parama-kṣema* (“supreme
+security”) ascribed to nirvāṇa in 4.08.
 
 ## 5. Association and Origination
 

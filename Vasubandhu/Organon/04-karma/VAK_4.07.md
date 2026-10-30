@@ -52,19 +52,16 @@ determination.
 
 ## 4. Grammar
 
-The opening clause negates the existence of `avyākṛtā avijñaptiḥ`; `tridhā anyat` gives the next nominal predication. The remaining clauses use `kāme` and `rūpe` as locatives and `savicārayoḥ` as a dual locative phrase. `Punaḥ` and `api` qualify those clauses.
+The opening clause negates the existence of `avyākṛtā avijñaptiḥ`; `tridhā anyat` gives the next nominal predication. The remaining clauses use `kāme` and `rūpe` as locatives and `savicārayoḥ` as a dual locative phrase. `Punaḥ` and `api` qualify those clauses. The plural “remaining actions” in the close translation supplies the Bhāṣya's `vijñapti` and `cetanā`. The running kārikā e-text has the damaged `tridhānvyat`; `tridhānyat` follows the Bhāṣya's explicit `tridhā 'nyat`.
 
 ## 5. Translation
 
 ### Literal Translation
 > There is no ethically indeterminate non-disclosing continuity; the
-> remaining [karmas] are threefold. The unwholesome, however, exists in the
+> remaining [actions] are threefold. The unwholesome, however, exists in the
 > desire realm. Non-disclosing continuity exists also in the Form realm;
 > manifestation exists in the two
 > levels possessing `vicāra`.
-
-The plural “remaining karmas” is supplied from the Bhāṣya's explicit
-identification of `vijñapti` and `cetanā`.
 
 ### Bhāṣya-informed study translation
 
@@ -76,7 +73,7 @@ identification of `vijñapti` and `cetanā`.
 
 ## 6. Philosophical Translation
 
-> There is no ethically indeterminate non-disclosing continuity; the remaining [karmas] are threefold. The unwholesome, however, exists in the desire realm. Non-disclosing continuity exists also in the Form realm; manifestation exists in the two levels possessing coarse thought.
+> There is no ethically indeterminate non-disclosing continuity; the remaining [actions] are threefold. The unwholesome, however, exists in the desire realm. Non-disclosing continuity exists also in the Form realm; manifestation exists in the two levels possessing sustained examination.
 
 ## 7. Technical Vocabulary
 
@@ -88,14 +85,15 @@ identification of `vijñapti` and `cetanā`.
 | avijñapti | non-disclosing continuity | karma that may be wholesome or unwholesome, never indeterminate |
 | vijñapti | manifestation / disclosure | bodily or verbal action in its disclosive mode |
 | cetanā | volition | mental karma; with `vijñapti`, included in the threefold ethical classification |
-| durbala-citta | weak consciousness | Bhāṣya explanation of ethically indeterminate consciousness's insufficient projective force |
-| balavat-karma | forceful karma | karma capable of continuing after the originating mind has ceased |
-| ākṣip | project / establish | generate a karmic determination with continuing causal efficacy |
-| anubandh | continue after / follow upon | persist in the continuum after the originating citta has ceased |
+| durbala-citta | weak Consciousness | Bhāṣya explanation of ethically indeterminate Consciousness's insufficient projective force |
+| balavat-karma | forceful action | action capable of continuing after the originating Consciousness has ceased |
+| ākṣip | project / establish | generate an action determination with continuing causal efficacy |
+| anubandh | continue after / follow upon | persist in the continuum after the originating Consciousness has ceased |
 | kāmadhātu | desire realm | only realm in which unwholesome karma occurs |
 | rūpadhātu | Form realm | realm in which `avijñapti` can occur |
 | ārūpyadhātu | formless realm | excludes `avijñapti` because Elements are absent |
-| bhūta | Element | support relevant to the absence of `avijñapti` in formless realms |
+| bhūta | Element | material basis relevant to the absence of `avijñapti` in formless realms |
+| āśraya / ākāra / ālambana | Basis / Aspect / Support | three of four distances separating formless attainments from Desire Realm action |
 | savicāra | possessing sustained examination | character of the desire realm and first dhyāna relevant to `vijñapti` |
 | prathama-dhyāna | first dhyāna | highest contemplative level in which `vijñapti` occurs |
 | āhrīkya | shamelessness | unwholesome factor abandoned above the desire realm |

@@ -45,26 +45,24 @@ who, born in a given level, produces uncontaminated bodily or verbal karma.
 
 ## 4. Grammar
 
-The first pāda predicates `sāsravam` of `kāya-vāk-karma`; `svāni bhūtāni upādāya` is its dependent absolutive phrase. The second pāda gives `anāsravam` as a further nominal subject, followed by the relative phrase `yatra jātaḥ`. It closes with the nominal predication `avijñaptiḥ anupāttikā`.
+The first pāda predicates `sāsravam` of `kāya-vāk-karma`; `svāni bhūtāni upādāya` is its dependent absolutive phrase. The second pāda gives `anāsravam` as an elliptical further predication of bodily and verbal action, followed by the relative phrase `yatra jātaḥ`. It closes with the nominal predication `avijñaptiḥ anupāttikā`. Bracketed words in the close translation supply the understood action, producer, and Great Elements from the Bhāṣya.
 
 ## 5. Translation
 
 ### Literal Translation
-> Contaminated bodily and verbal karma depends upon its own Great Elements.
-> Uncontaminated [karma depends upon the Great Elements of the level] where
+> Impure bodily and verbal action depends upon its own Great Elements.
+> Pure [action depends upon the Great Elements of the level] where
 > [its producer] is born. Non-disclosing continuity is non-appropriated.
-
-The bracketed terms are syntactically supplied from the Bhāṣya.
 
 ### Bhāṣya-informed study translation
 
-> Contaminated bodily and verbal action depends on its own Great Elements.
-> Uncontaminated bodily and verbal action depends on the Great Elements of the
+> Impure bodily and verbal action depends on its own Great Elements.
+> Pure bodily and verbal action depends on the Great Elements of the
 > level where one is born. Non-disclosing continuity is non-appropriated.
 
 ## 6. Philosophical Translation
 
-> Contaminated bodily and verbal karma depends upon its own Great Elements. Uncontaminated [karma depends upon the Great Elements of the level] where [its producer] is born. Non-disclosing continuity is non-appropriated.
+> Impure bodily and verbal action depends upon its own Great Elements. Pure [action depends upon the Great Elements of the level] where [its producer] is born. Non-disclosing continuity is non-appropriated.
 
 ## 7. Technical Vocabulary
 
@@ -75,11 +73,11 @@ The bracketed terms are syntactically supplied from the Bhāṣya.
 | upādāya | depending upon; taking as basis | dependence upon a basis, not identity with it |
 | kāya-karma | bodily karma | may be in the mode of manifestation or non-disclosing continuity |
 | vāk-karma | verbal karma | may be in the mode of manifestation or non-disclosing continuity |
-| sāsrava | with influx; contaminated | karma associated with the contaminated classification |
-| anāsrava | without influx; uncontaminated | karma distinct from the contaminated classification |
+| sāsrava | Impure; with influx | action classified by the presence of influx |
+| anāsrava | Pure; without influx | action classified by the absence of influx |
 | bhūmi | level | locus whose Great Elements support the karma produced there |
 | tadbhūmika | belonging to that level | Bhāṣya term specifying the level correspondence |
-| dhātu-apratitatva | not included within a Principle-classification | reason uncontaminated Dharmas have no corresponding classification |
+| dhātvapatitatva | not included within a Realm | reason uncontaminated Dharmas do not belong to the three Realms |
 | anāsrava-bhūta-abhāva | absence of uncontaminated Great Elements | no separate uncontaminated Great-Element basis exists |
 | tadbalena utpatti | arising through their force | karma arises through the Great Elements of that level |
 | vijñapti | manifestation; disclosure | bodily or verbal karma in its disclosive mode |
@@ -94,7 +92,7 @@ anāsrava
     ≠ belonging to a separate uncontaminated Great-Element level
 
 supported by Great Elements
-    ≠ identical with those supporting Principles
+    ≠ identical with those Great Elements
 
 Form-classified
     ≠ necessarily appropriated bodily support
@@ -109,7 +107,7 @@ Contaminated bodily and verbal action → its own Elements; the second pāda qua
 **Translation note.** The Bhāṣya establishes the same-level series through the fourth dhyāna and says that no uncontaminated Great Elements exist. It specifies that *jātaḥ* refers to the person born at the level, and that uncontaminated action arises by the force of that level's Great Elements.
 
 The Bhāṣya distinguishes the level of the karma from the level of the Great
-Principles that support it. It then states that `avijñapti` is
+Elements that support it. It then states that `avijñapti` is
 non-appropriated, without explaining this property further in the present
 unit.
 
@@ -136,17 +134,17 @@ vak:VAK_4_05
     rdfs:label "VAK 4.05" ;
     vak:continues vak:VAK_4_04 ;
     vak:belongsTo karma:AbhidharmaKarmaSection ;
-    vak:hasTopic karma:LevelSpecificGreatPrincipleSupport,
+    vak:hasTopic karma:LevelSpecificGreatElementSupport,
         karma:UncontaminatedAction,
         karma:NonAppropriatedAvijnapti .
 
 karma:ContaminatedBodySpeechKarma
-    logic:hasMaterialBasis karma:GreatPrinciplesOfSameLevel .
+    logic:hasMaterialBasis karma:GreatElementsOfSameLevel .
 
 karma:UncontaminatedBodySpeechKarma
     logic:hasSoteriologicalStatus karma:WithoutOutflows ;
-    logic:hasMaterialBasis karma:GreatPrinciplesOfPractitionerLevel ;
-    logic:doesNotRequire karma:UncontaminatedGreatPrinciples .
+    logic:hasMaterialBasis karma:GreatElementsOfPractitionerLevel ;
+    logic:doesNotRequire karma:UncontaminatedGreatElements .
 
 karma:Avijnapti
     a karma:DerivedFormDetermination ;

@@ -50,17 +50,17 @@ silently completed.
 
 ## 3. Continuous Translation
 
-This is to be examined. If bodily and verbal karma are wholesome or
+This is to be examined. If bodily and verbal action are wholesome or
 unwholesome because of their originating condition, why are the Great
 Elements not classified in the same way? The agent's intention is directed
 toward the action, not toward the Great Elements. But in the case of
 `avijñapti` belonging to one who is concentrated, there is no intention; nor
-can a non-concentrated consciousness produce it, since that consciousness
-belongs to a different realm. How, then, is that `avijñapti` wholesome? And
+can a non-concentrated Consciousness produce it, since that Consciousness
+belongs to a different level. How, then, is that `avijñapti` wholesome? And
 would the divine Eye and Ear not also have to be wholesome? “Effort is needed
 here.”
 
-It was said that consciousness abandoned through seeing does not produce
+It was said that Consciousness abandoned through seeing does not produce
 manifestation. What, then, of the Blessed One's statement that from wrong
 view wrong resolve arises, followed by wrong speech, wrong bodily action,
 and so on? “There is no contradiction.”
@@ -77,9 +77,10 @@ performance.
 
 What capacity does this accompanying condition have in the action? Without
 it, the action, though already projected, would not occur, as in the case of
-a corpse. How, then, does restraint arise in someone without consciousness?
-The reply says that this capacity is clearer when consciousness is present;
-it does not say that restraint cannot arise without it.
+a corpse. How, then, does restraint arise in someone without Consciousness?
+The reply says that restraint is more distinct for someone with
+Consciousness; this is the accompanying condition's efficacy. It does not
+say that restraint cannot arise without Consciousness.
 
 ## 4. Questions and Voices
 
@@ -97,9 +98,9 @@ origination explains how a remote causal condition can initiate an action
 without being the condition present during its performance.
 
 The final exchange asks what the contemporaneous condition contributes and
-raises restraint arising without consciousness. The reply identifies a
-capacity more evident when consciousness is present; the question of
-mindless restraint is not settled here.
+raises restraint arising without Consciousness. The reply says restraint is
+more distinct for someone with Consciousness; restraint without
+Consciousness is not ruled out here.
 
 ## 5. Two Functions of Origination
 

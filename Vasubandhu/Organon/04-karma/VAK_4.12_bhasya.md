@@ -8,7 +8,7 @@
 
 > When the initiator is wholesome and so forth, the accompanier may nevertheless
 > be of any of the three ethical kinds. For the Sage, they correspond within the
-> wholesome range. Maturation-born consciousness is neither.
+> wholesome range. Maturation-born Consciousness is neither.
 
 The Bhāṣya specifies the ordinary threefold range, qualifies the
 Buddha-case, and completes the final clause by identifying maturation-born
@@ -93,7 +93,7 @@ initiator is never followed by an indeterminate accompanier. This occurs
 while the Buddhas' teaching is being recited.
 
 Members of another school say that Buddhas have no indeterminate
-consciousness: their continua are exclusively wholesome because they are
+Consciousness: their continua are exclusively wholesome because they are
 always concentrated. A sūtra says that a nāga is concentrated while
 walking, standing, sleeping, and sitting. The Vaibhāṣikas explain this as
 freedom from involuntary scattering; it does not mean that Buddhas lack
@@ -102,7 +102,7 @@ Cognitions.
 
 Mind-Cognition abandoned through cultivation can both initiate and
 accompany, and may be of any of the three ethical classes.
-“Maturation-born [consciousness], however, is neither.” It is neither
+“Maturation-born [Consciousness], however, is neither.” It is neither
 initiating nor accompanying because it proceeds without deliberate
 constructive activity.
 
@@ -112,18 +112,21 @@ obscured-indeterminate manifestation would also occur here, since views of
 personality and extremes can initiate action; one would then need to specify
 which seeing-abandoned initiator is meant. If it follows the accompanier,
 manifestation undertaken with prātimokṣa restraint could fail to be
-wholesome when the accompanying consciousness is unwholesome or
+wholesome when the accompanying Consciousness is unwholesome or
 indeterminate.
 
 The reply relates manifestation to its initiating causal sequence, but not
-to every seeing-abandoned consciousness without qualification: a
-cultivation-abandoned consciousness intervenes. A final objection asks why
-the sūtra's claim should then be stated in terms of causal rather than
-contemporaneous origination. The response specifies a causal origination
-separated from the action by another cognition. The discussion is concluded.
+to every seeing-abandoned Consciousness without qualification: a
+Consciousness abandoned through cultivation intervenes. The final objection
+presses the earlier formulation: if manifestation's ethical quality does not
+depend on its accompanier, one should not say simply that the sūtra names
+causal rather than contemporaneous origination and therefore there is no
+obscured-indeterminate manifestation here. The response says more precisely
+that the sūtra refers to causal origination separated by another
+[Consciousness]. The discussion is concluded.
 
 The final exchange is tightly compressed. Its exact wording and the force
-of the intervening consciousness remain provisional.
+of the intervening Consciousness remain provisional.
 
 ## 4. Argument and Voices
 

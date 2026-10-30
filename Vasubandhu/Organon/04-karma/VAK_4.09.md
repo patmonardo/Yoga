@@ -66,7 +66,7 @@ The first pāda uses `saṃprayogeṇa` and `samutthānāt` as the grounds for t
 | `saṃprayoga` | association | relation through which joined Dharmas receive an ethical classification |
 | `samutthāna` | originating condition | causal relation through which actions and related products receive an ethical classification |
 | `kriyā` | action | bodily and verbal action in the Bhāṣya's examples |
-| `cittaviprayukta-saṃskāra` | formation dissociated from consciousness | includes arising and related determinations in the Bhāṣya's list |
+| `cittaviprayukta-saṃskāra` | formation dissociated from Consciousness | includes arising and related determinations in the Bhāṣya's list |
 | `prāpti` | acquisition | a case that complicates a simple originating-condition rule |
 | `viparyaya` | converse | applies the contrary ethical classifications to the unwholesome |
 | `vipāka` | karmic maturation | basis for classifying contaminated Dharmas as wholesome or indeterminate |
@@ -75,6 +75,15 @@ The first pāda uses `saṃprayogeṇa` and `samutthānāt` as the grounds for t
 | `apratisaṃkhyānirodha` | non-analytical cessation | the other unconditioned Dharma named |
 
 ## 8. Logical Determination
+
+The same ethical predicate can be grounded in four different ways:
+ultimately, by own nature, by association, or by originating condition.
+The first two were given in 4.08; here associated Dharmas and produced
+actions receive their classifications by the latter two relations. The
+converse applies to the unwholesome. Calling saṃsāra ultimately
+unwholesome does not cancel the wholesome or indeterminate status assigned
+to Impure Dharmas relative to maturation. Space and non-analytical
+cessation alone are named ultimately indeterminate in this unit.
 
 ## 9. Interpretive Note
 
@@ -87,7 +96,9 @@ The natural unit runs from [202|13] through [203|05] in
 the next inquiry.
 
 The running witness has rough forms including `samutthā nāt`,
-`kāyavāvakkarmaṇi`, and `kukśalam`. The study preserves these in its source
+`kāyavāvakkarmaṇi`, and `kukśalam`. The producer phrase
+`kuśalamūlādisaṃprayuktai dharmaḥ` is grammatically rough as well. The
+study preserves these in its source
 record and marks its editorial readings in the translation. The compressed
 `prāptinirodhāsaṃjñisamāpattayaḥ` is segmented as `prāpti`,
 `nirodhasamāpatti`, and `asaṃjñisamāpatti`, following their separate

@@ -7,7 +7,7 @@
 
 
 > Non-disclosing continuity is threefold: restraint, non-restraint, and neither.
-> Restraint is prātimokṣa, meditation-born, and likewise uncontaminated.
+> Restraint is of three kinds: called *prātimokṣa*, meditation-born, and Pure.
 
 This is the Bhāṣya-informed study translation in `VAK_4.13.md`. The source
 unit runs from [205|12] through [205|18]; the following verse opens the
@@ -43,12 +43,12 @@ unit boundary.
 The non-disclosing continuity mentioned earlier is to be understood as
 threefold: restraint, non-restraint, and that which is other than those two.
 There is restraint and there is non-restraint; the third class is neither.
-Restraint is the checking of the spread of misconduct.
+Restraint is the checking and stopping of the spread of misconduct.
 
 Restraint, in turn, is threefold: *prātimokṣa* restraint, meditation-born
-restraint, and uncontaminated restraint. The Bhāṣya identifies them,
+restraint, and Pure restraint. The Bhāṣya identifies them,
 respectively, as Desire Realm discipline, Form Realm discipline, and
-uncontaminated discipline.
+Pure discipline.
 
 ## 4. Argument and Scope
 
@@ -63,7 +63,7 @@ avijñapti
 restraint
     → prātimokṣa
     → meditation-born
-    → uncontaminated
+    → Pure
 ```
 
 The third class in the first division is not simply another name for
@@ -71,7 +71,7 @@ non-restraint. The prose explicitly says it is neither of the first two.
 The second division applies only to restraint and identifies its three
 forms with three kinds of `śīla`.
 
-The functional definition is concise: restraint checks the spread of
+The functional definition is concise: restraint checks and stops the spread of
 misconduct. The commentary then assigns the three restraints to the
 corresponding ethical disciplines. The eightfold subdivision of
 *prātimokṣa* begins in the next verse and lies outside this unit.

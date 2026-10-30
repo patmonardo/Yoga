@@ -10,7 +10,7 @@
 > cultivation does both; the five sensory Cognitions, however, are accompanying
 > only.
 
-The Bhāṣya completes the distribution by adding uncontaminated Cognition as
+The Bhāṣya completes the distribution by adding Pure Cognition as
 neither initiating nor accompanying. The kārikā study is `VAK_4.11.md`.
 
 ## 2. Continuous Sanskrit
@@ -54,29 +54,32 @@ silently regularized.
 
 ## 3. Continuous Translation
 
-“Cognition abandoned by seeing is initiating.” A consciousness abandoned by
+“Cognition abandoned by seeing is initiating.” A Consciousness abandoned by
 seeing initiates manifestation because it is the causal basis for the
 `vitarka` and `vicāra` that produce it. It does not accompany performance:
-the outward-facing consciousness present during the action is not that
-initiating consciousness.
+the outward-facing Consciousness present during the action is not that
+initiating Consciousness.
 
 But Form produced by it would then be abandoned by seeing. What would follow?
 The Abhidharma would be contradicted. The exchange invokes the claim that
 Form is not abandoned by seeing because it is not opposed by knowledge or
 ignorance; one interlocutor says this position itself requires proof. The
 discussion then asks whether Great Elements produced by the same
-consciousness would also be abandoned by seeing. The compressed replies
-reject assigning them either that status or the status “not to be
-abandoned,” since a non-afflicted Dharma is not opposed by knowledge or
-ignorance. The conclusion is that the sūtra concerns causal origination, so
+Consciousness would also be abandoned by seeing. “That does not follow,”
+comes the first reply, “just as they do not become wholesome or
+unwholesome.” Another turn allows, “Or let them be so”; the answer says
+that cannot stand, because the Great Elements cannot coherently be
+classified either as abandoned by seeing or as not to be abandoned.
+Why? A non-afflicted Dharma is not opposed by knowledge or ignorance.
+The conclusion is that the sūtra concerns causal origination, so
 there is no contradiction.
 
 “Mind-Cognition abandoned through cultivation does both.” It can initiate
 and accompany manifestation. “The fivefold group, however, accompanies.”
 The five sensory Cognitions accompany only. The Bhāṣya completes the
-fourfold account: consciousness abandoned by seeing initiates only; the five
+fourfold account: Consciousness abandoned by seeing initiates only; the five
 sensory Cognitions accompany only; Mind-Cognition abandoned through
-cultivation does both; uncontaminated Cognition does neither.
+cultivation does both; Pure Cognition does neither.
 
 The produced-Form exchange is tightly compressed in the running witness.
 Its argumentative outcome is reported without treating every brief voice or
@@ -91,9 +94,10 @@ seeing can initiate manifestation through its causal relation to
 whether the path status of that consciousness transfers to the Form it
 produces, and extends the problem to the Great Elements.
 
-The next objection cites a scriptural sequence from wrong view to wrong
-resolve, speech, and action. The answer distinguishes causal initiation
-from the consciousness present during performance. The closing prose makes
+The objection and reply concerning the scriptural sequence from wrong view
+to wrong speech occurred in 4.10. This unit completes that answer: the
+sūtra speaks of causal initiation, which need not be the Consciousness
+present during performance. The closing prose makes
 the classification explicit as a `catuṣkoṭika`, a fourfold arrangement.
 
 The objections about Form and Great Elements are dialectical; the text does
@@ -106,7 +110,7 @@ not securely assign each short statement to a named speaker or school.
 | Initiates only | Consciousness abandoned by seeing |
 | Accompanies only | The five sensory Cognitions |
 | Initiates and accompanies | Mind-Cognition abandoned through cultivation |
-| Neither | Uncontaminated Cognition |
+| Neither | Pure Cognition |
 
 These roles are relative to manifestation. The final case does not deny
 uncontaminated Cognition other causal or liberative functions.
@@ -142,13 +146,13 @@ Great Elements.
 ## 8. Translation and Doctrinal Limits
 
 “Cognition” renders *vijñāna* and remains distinct from *citta* /
-consciousness and *vijñapti* / manifestation. The verse uses *vijñāna*;
+Consciousness and *vijñapti* / manifestation. The verse uses *vijñāna*;
 the Bhāṣya restates the first case using *citta*. `Mānasaṃ` is identified in
 the prose as `manovijñāna`, rendered Mind-Cognition. The fivefold group is
 identified as the five sensory Cognitions.
 
 `Akliṣṭa` is “non-afflicted” and must not be conflated with `anāsrava`,
-“uncontaminated,” which names the fourth member of the fourfold
+“Pure,” which names the fourth member of the fourfold
 classification. `Dṛṣṭiheya` and `bhāvanāheya` refer to modes of Path
 abandonment, not to visual versus nonvisual Cognition.
 

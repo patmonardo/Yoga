@@ -58,7 +58,7 @@ The first clause places the initiating condition in the locative `pravartake śu
 
 > When the initiator is wholesome and so forth, the accompanier may nevertheless
 > be of any of the three ethical kinds. For the Sage, they correspond within the
-> wholesome range. Maturation-born consciousness is neither.
+> wholesome range. Maturation-born Consciousness is neither.
 
 ## 6. Philosophical Translation
 
@@ -76,17 +76,26 @@ The first clause places the initiating condition in the locative `pravartake śu
 | `muni` | Sage | specifically the Buddha in the Bhāṣya |
 | `tulya` | corresponding | qualified correspondence in the Buddha-case |
 | `samāhita` | concentrated | description cited in the dispute about Buddha-consciousness |
-| `vipākaja-citta` | maturation-born consciousness | excluded from both action functions |
-| `airyāpathika-citta` | posture-related consciousness | indeterminate Buddha-cognition retained by the Vaibhāṣikas |
-| `nirmāṇa-citta` | creation-related consciousness | further indeterminate Buddha-cognition retained by the Vaibhāṣikas |
-| `nirabhisaṃskāra-vāhitva` | proceeding without deliberate construction | reason maturation-born consciousness is neither function |
-| `anāsrava` | uncontaminated | fourth member of the 4.11 classification, not a synonym for indeterminate |
+| `vipākaja-citta` | maturation-born Consciousness | excluded from both action functions |
+| `airyāpathika-citta` | posture-related Consciousness | indeterminate Consciousness of a Buddha retained by the Vaibhāṣikas |
+| `nirmāṇa-citta` | creation-related Consciousness | further indeterminate Consciousness of a Buddha retained by the Vaibhāṣikas |
+| `nirabhisaṃskāra-vāhitva` | proceeding without deliberate construction | reason maturation-born Consciousness is neither function |
+| `anāsrava` | Pure | fourth member of the 4.11 classification, not a synonym for indeterminate |
 
 ## 8. Logical Determination
 
+For ordinary agents, the accompanier can take any of the three ethical
+qualities whatever the initiator's quality. The Buddha case restricts this
+range asymmetrically: wholesome initiation has wholesome accompaniment,
+while indeterminate initiation can have either indeterminate or wholesome
+accompaniment. Maturation-born Consciousness performs neither function.
+The subsequent objection tests which function determines the ethical
+quality of manifestation; the reply favors initiation while qualifying
+which causal initiator is relevant when another Consciousness intervenes.
+
 ## 9. Interpretive Note
 
-**Translation note.** For ordinary action-series, the accompanier may be wholesome, unwholesome, or indeterminate whatever the initiator's quality. For the Buddha, a wholesome initiator has a wholesome accompanier; an indeterminate initiator may be followed by an indeterminate or wholesome accompanier, while a wholesome initiator is not followed by an indeterminate one. Maturation-born consciousness is neither initiating nor accompanying because it proceeds without deliberate construction. These qualifications come from the Bhāṣya.
+**Translation note.** For ordinary action-series, the accompanier may be wholesome, unwholesome, or indeterminate whatever the initiator's quality. For the Buddha, a wholesome initiator has a wholesome accompanier; an indeterminate initiator may be followed by an indeterminate or wholesome accompanier, while a wholesome initiator is not followed by an indeterminate one. Maturation-born Consciousness is neither initiating nor accompanying because it proceeds without deliberate construction. These qualifications come from the Bhāṣya.
 
 ### Textual Notes
 

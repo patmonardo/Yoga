@@ -83,11 +83,11 @@ Both hemistichs share the understood subject `avijñaptiḥ`. The first coordina
 | upātta | appropriated | incorporated into the living psycho-physical support |
 | anupātta | non-appropriated | not incorporated as a living bodily constituent |
 | asamāhita-bhūmika | belonging to a non-concentrated level | Bhāṣya classification of the first-hemistich mode |
-| citta-caitta | consciousness and mental factors | co-condition, with Great Elements, of ordinary `avijñapti` |
+| citta-caitta | Consciousness and mental factors | co-condition, with Great Elements, of ordinary `avijñapti` |
 | samādhijā | born from samādhi | generated through meditative concentration |
 | aupacayika | cultivation-produced / development-produced | produced by cultivated increase rather than ordinary homogeneous outflow |
 | dhyānasaṃvara | restraint of dhyāna | one form of samādhi-born `avijñapti` |
-| anāsravasaṃvara | uncontaminated restraint | Path restraint generated through uncontaminated concentration |
+| anāsravasaṃvara | Pure restraint | Path restraint generated through Pure concentration |
 | abhinna-bhūta | undivided or common Great-Element basis | the same supporting Great Elements underlying all seven samādhi restraints |
 | prātimokṣasaṃvara | individual-liberation restraint | contrasting case in which the seven `avijñaptis` have distinct material bases |
 | prāṇātipātād virati | abstention from killing | first member of the seven bodily and verbal restraints |
@@ -113,7 +113,7 @@ Ordinary non-disclosing continuity → the first set of predicates; meditation-b
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya places the first kind at the non-concentrated level and adds dependence on consciousness and mental factors. It identifies the two samādhi-born forms as dhyāna restraint and uncontaminated restraint. Their seven abstentions depend on one undivided, common Great-Element basis, unlike the seven distinct bases of prātimokṣa restraint.
+**Translation note.** The Bhāṣya places the first kind at the non-concentrated level and adds dependence on Consciousness and mental factors. It identifies the two samādhi-born forms as dhyāna restraint and Pure restraint. Their seven abstentions depend on one undivided, common Great-Element basis, unlike the seven distinct bases of prātimokṣa restraint.
 
 The Bhāṣya distinguishes two sources of `avijñapti`: ordinary causal
 continuation, supported by appropriated Great Elements and mental factors,

@@ -17,7 +17,7 @@ mānasaṃ bhāvanāheyaṃ pañcakaṃ tv anuvartakam // 4.11 //
 VAK 4.10 distinguished origination that initiates an action from origination
 that accompanies its performance. VAK 4.11 assigns those roles to kinds of
 Cognition. The kārikā states three cases; the Bhāṣya completes the
-fourfold classification by adding uncontaminated Cognition as neither.
+fourfold classification by adding Pure Cognition as neither.
 
 ## 3. Lexical Analysis
 
@@ -61,21 +61,29 @@ The first clause identifies `dṛṣṭiheyaṃ vijñānam` as `pravartakam`. Th
 |---|---|---|
 | `vijñāna` | Cognition | classified by its role in initiating or accompanying manifestation |
 | `manovijñāna` | Mind-Cognition | the mental Cognition identified by the Bhāṣya |
-| `citta` | consciousness | the causal mind discussed in the prose |
+| `citta` | Consciousness | the causal factor discussed in the prose, distinct in expression from the verse's `vijñāna` |
 | `vijñapti` | manifestation / disclosure | bodily or verbal action in its outwardly manifest mode |
 | `dṛṣṭiheya` | to be abandoned by seeing | path classification of the initiating Cognition |
 | `bhāvanāheya` | to be abandoned through cultivation | path classification of Mind-Cognition that performs both roles |
 | `pañca vijñānakāyāḥ` | five sensory Cognitions | identified by the Bhāṣya as accompanying only |
-| `anāsrava` | uncontaminated | the Bhāṣya's fourth case, which is neither |
+| `anāsrava` | Pure | the Bhāṣya's fourth case, which is neither |
 | `akliṣṭa` | non-afflicted | distinct from `anāsrava` in the objection |
 | `mahābhūta` | Great Element | distinguished from ethical and path classification |
 | `rūpa` | Form | the product whose classification is debated |
 
 ## 8. Logical Determination
 
+The four cases cross two functions without merging them: seeing-abandoned
+Consciousness initiates only; the five sensory Cognitions accompany only;
+Mind-Cognition abandoned through cultivation does both; Pure Cognition
+does neither. The Bhāṣya's objection tests whether a cause's Path
+classification passes to produced Form and Great Elements. Its closing
+answer keeps causal initiation distinct from the classification of the
+produced Form.
+
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya adds a fourth case: uncontaminated Cognition is neither initiating nor accompanying. It also identifies the fivefold group as the five sensory Cognitions; the kārikā does not name this fourth member explicitly.
+**Translation note.** The Bhāṣya adds a fourth case: Pure Cognition is neither initiating nor accompanying. It also identifies the fivefold group as the five sensory Cognitions; the kārikā does not name this fourth member explicitly.
 
 ### Textual Notes
 
