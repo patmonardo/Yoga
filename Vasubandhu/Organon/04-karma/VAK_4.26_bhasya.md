@@ -1,11 +1,11 @@
-# VAK 4.26 Bhāṣya — How the Three Restraints Are Acquired
+# VAK_4.26 Bhāṣya — How the Three Restraints Are Acquired
 
 ## 1. Kārikā Anchor
 
 > dhyānajo dhyānabhūmyaiva labhyate 'nāsravas tayā /
 > āryayā prātimokṣākhyaḥ paravijñāpanādibhiḥ // 4.26 //
 
-> Meditation-born restraint is acquired through a dhyāna ground;
+> Meditation-born restraint is acquired only through a dhyāna ground;
 > uncontaminated restraint through that ground when noble; and prātimokṣa
 > restraint through notification by another and related means.
 
@@ -59,6 +59,9 @@ citation, `saṃdhād` where the context points to `saṃghād`, and
 retained, not silently corrected. Several proper names and the
 closing refuge phrase are compressed or irregular in this e-text;
 the translations of those details remain provisional.
+The compressed `anāgamyasyānantaraṃ` is understood as naming
+`anāgamya` and the intermediate dhyāna alongside the four dhyānas;
+the stated total of six and the later ground lists support that reading.
 
 ## 3. Continuous Translation
 
@@ -93,7 +96,7 @@ Dharmadinnā; a procedure with a Vinaya-holder and five in frontier
 regions; a ten-member group in central regions; and a threefold
 refuge procedure for the group named at the end of the list. Thus,
 for those cases prātimokṣa restraint is not necessarily dependent
-on another's manifestation.
+on manifestation (`vijñapti`).
 
 ## 4. Three Grounds of Acquisition
 
@@ -126,7 +129,7 @@ self-arising and special recognitions alongside communal and
 individual procedures.
 
 The concluding claim is narrow and important: prātimokṣa restraint
-is **not necessarily dependent on another person's vijñapti** in
+is **not necessarily dependent on vijñapti** in
 every recognized case. It does not follow that all procedures are
 equivalent, or that the ordinary Saṃgha and individual distinctions
 can be discarded. The passage establishes plurality of valid
@@ -146,8 +149,8 @@ Science of Knowing.
 
 ## 7. Review Status
 
-The complete running unit through [212|09] is represented,
+The complete running unit through [212|09] is translated,
 including the long Vinaya enumeration. Its compressed names and
 closing refuge clause need further textual comparison. The running
-source and research witness are unchanged; 4.27 begins with the
+source is unchanged; 4.27 begins with the
 question of duration.

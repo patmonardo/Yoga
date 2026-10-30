@@ -11,7 +11,7 @@
 
 ```iast
 vijñaptyā tu punaḥ sarve kurvanto madhyayānvitāḥ /
-atītayā kṣaṇād ūrdhvam atyāgān nāsty ajātayā // 4.23 //
+atītayā kṣaṇād ūrdhvam ātyāgān nāsty ajātayā // 4.23 //
 ```
 
 
@@ -34,12 +34,12 @@ possession of `vijñapti`.
 | `atītayā` | instrumental feminine singular | with past [vijñapti] |
 | `kṣaṇāt` | ablative singular | from the [first] moment |
 | `ūrdhvam` | adverb | afterward; subsequently |
-| `atyāgāt` | ablative singular | because of non-abandonment |
+| `ā tyāgāt` | preposition `ā` with ablative singular | until abandonment |
 | `na asti` | negated existential construction | there is not; no one possesses |
 | `ajātayā` | instrumental feminine singular | with not-yet-arisen, future [vijñapti] |
 
 
-**Word division (verse order).** `vijñaptyā tu punaḥ sarve kurvantaḥ madhyayā anvitāḥ / atītayā kṣaṇāt ūrdhvam atyāgāt na asti ajātayā //`
+**Word division (verse order).** `vijñaptyā tu punaḥ sarve kurvantaḥ madhyayā anvitāḥ / atītayā kṣaṇāt ūrdhvam ā tyāgāt na asti ajātayā //`
 
 **`tu punaḥ`**
 
@@ -104,11 +104,11 @@ yāvat vijñaptiṃ kurvanti tāvat
 ```text
 atītayā [vijñaptyā anvitāḥ]
 kṣaṇāt ūrdhvam
-atyāgāt
+ā tyāgāt
 ```
 
-> After the first moment, provided it has not been abandoned, they are also
-> endowed with past vijñapti.
+> After the first moment, until abandonment, they are also endowed with past
+> vijñapti.
 
 The Bhāṣya resolves the implicit moment as `prathamāt kṣaṇāt`, the first
 moment.
@@ -129,18 +129,18 @@ arisen disclosure is presently possessed as vijñapti.
 
 ### Literal Translation
 > But now, with vijñapti in turn: all who are acting are endowed with it as
-> present. After the first moment, provided it has not been abandoned, they are
-> also endowed with it as past. No one is endowed with future vijñapti.
+> present. After the first moment, until abandonment, they are also endowed
+> with it as past. No one is endowed with future vijñapti.
 
 ### Bhāṣya-informed study translation
 
 > All who act possess disclosure as present while they perform it; after its
-> first moment, if it has not been abandoned, they also possess it as past. No
+> first moment, until abandonment, they also possess it as past. No
 > one possesses future disclosure.
 
 ## 6. Philosophical Translation
 
-> But now, with vijñapti in turn: all who are acting are endowed with it as present. After the first moment, provided it has not been abandoned, they are also endowed with it as past. No one is endowed with future vijñapti.
+> But now, with vijñapti in turn: all who are acting are endowed with it as present. After the first moment, until abandonment, they are also endowed with it as past. No one is endowed with future vijñapti.
 
 ## 7. Technical Vocabulary
 
@@ -174,11 +174,12 @@ No agent possesses a future vijñapti because disclosure requires actual
 arising. This distinguishes a presently operative disposition or projected
 possibility from an action that has become manifest.
 
-**`atyāga`**
+**`ā tyāgāt`**
 
-Non-abandonment governs possession of past vijñapti. The verse does not claim
-that every performed disclosure remains indefinitely attributable under
-all conditions.
+The preposition `ā` with ablative `tyāgāt` gives the endpoint: until
+abandonment. This differs in wording from `atyāgāt`, “because of
+non-abandonment,” in 4.19, though both limit possession to a period in
+which abandonment has not occurred.
 
 **Transition marker**
 
@@ -358,7 +359,7 @@ Paramārthika Wheel in these terms.
 **Former Philosophical Translation.**
 > Disclosure belongs to the present only in its actual production. Once a
 > moment of that production has passed, the action is also possessed under the
-> determination of pastness, provided it has not been abandoned. But
+> determination of pastness, until abandonment. But
 > disclosure cannot be possessed in advance as future disclosure: what
 > has not yet arisen may be intended or otherwise conditioned, but it is not
 > yet `vijñapti` as an actually expressed bodily or verbal act.

@@ -50,8 +50,8 @@ The first pāda coordinates four names—`śīlam`, `sucaritam`, `karma`, and `s
 ### Bhāṣya-informed study translation
 
 > It is called discipline, good conduct, action, and restraint. In the first
-> moment, manifestation and non-disclosing continuity are the *prātimokṣa*
-> course of action.
+> moment, manifestation and non-disclosing continuity are called
+> *prātimokṣa* and an action-course.
 
 ## 6. Philosophical Translation
 
@@ -59,9 +59,23 @@ The first pāda coordinates four names—`śīlam`, `sucaritam`, `karma`, and `s
 
 ## 7. Technical Vocabulary
 
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `śīla` | discipline | undertaking abstention from improper actions; also explained through coolness |
+| `sucarita` | good conduct | praised by the learned |
+| `karma / kriyā` | action / activity | restraint is produced activity despite the limited sense of `akriyā` |
+| `vijñapti / avijñapti` | manifestation / non-disclosing continuity | both named at the first moment of undertaking restraint |
+| `citta` | Consciousness | named with manifestation as producing non-disclosing continuity |
+| `prātimokṣa / prātimokṣa-saṃvara` | first-moment designation / restraint across moments | both apply initially; only the second continues in later moments |
+| `karmapatha / maula / pṛṣṭha` | action-course / fundamental phase / following phase | explains why the initial and later moments receive different names |
+
 ## 8. Logical Determination
 
-Restraint receives four names; the first undertaking moment pairs manifestation with non-disclosing continuity; later restraint continues as a distinct moment.
+Restraint receives four names, each with a stated ground. At the first
+moment of undertaking, manifestation and non-disclosing continuity are
+called *prātimokṣa* and an action-course; in later moments the restraint
+continues without those first-moment designations. The following phase
+is distinct from the fundamental action-course.
 
 ## 9. Interpretive Note
 
@@ -75,9 +89,9 @@ and belongs to 4.17.
 
 The Kārikā witness reads *prātimokṣakriyāpathaḥ*. The running Bhāṣya
 citation has *prātimokṣakiyāpathaḥ*, while the explanatory prose uses
-*karmapatha*. The word-formation sentence at [207|19] is retained in
-the Bhāṣya study without conjectural interpretation. The witness's
-`kṣaṇeṣui` at [207|20–21] is normalized as *kṣaṇeṣu*.
+*karmapatha*. The word-formation sentence at [207|19] is rendered closely
+in the Bhāṣya study, with its grammatical force left provisional. The
+witness's `kṣaṇeṣui` at [207|20–21] is normalized as *kṣaṇeṣu*.
 
 ### Interpretation
 

@@ -146,9 +146,9 @@ samagra-aṅgaḥ
 
 ### Bhāṣya-informed study translation
 
-> Upavāsa restraint is received at sunrise from another, by one seated lower
-> and repeating after the giver; it is complete in all its limbs, undertaken
-> without adornment, and maintained until the night ends.
+> Upavāsa restraint is received at sunrise from another, by one positioned
+> lower and repeating after the giver; it is complete in all its limbs,
+> undertaken without special adornment, and maintained until the night ends.
 
 ## 6. Philosophical Translation
 

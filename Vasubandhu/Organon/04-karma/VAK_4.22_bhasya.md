@@ -1,4 +1,4 @@
-# VAK 4.22 Bhāṣya — Contrary Action Within an Established Standing
+# VAK_4.22 Bhāṣya — Contrary Action Within an Established Standing
 
 ## 1. Kārikā Anchor
 
@@ -7,7 +7,7 @@
 
 > One established in non-restraint is endowed with wholesome non-disclosing
 > continuity, and one established in restraint with unwholesome non-disclosing
-> continuity, for as long as the force of prasāda or defilement continues.
+> continuity, for as long as the force of serene confidence or affliction continues.
 
 The running source unit begins with the question at [210|11–12] and
 ends with the explicit avijñapti closing sentence at [210|19] in
@@ -39,7 +39,7 @@ Word division and punctuation are editorial. The introductory question
 reads `vijñaptyā` in the running witness, while the Kārikā, its
 explanation, and the final sentence expressly concern `avijñapti`.
 The question's reading is preserved above; its discrepancy is not
-silently repaired. `Prasāda` is rendered “confidence” here, retaining
+silently repaired. `Prasāda` is rendered “serene confidence” here, retaining
 its force of clarity and trust rather than treating it as mere assent.
 
 ## 3. Continuous Translation
@@ -49,9 +49,9 @@ wholesome manifestation, or someone established in restraint with an
 unwholesome one? If so, when and for how long? He says: “One
 established in non-restraint is endowed with wholesome avijñapti, and
 one established in restraint with unwholesome avijñapti, for as long
-as the force of confidence or affliction continues.”
+as the force of serene confidence or affliction continues.”
 
-Through a force of confidence, wholesome avijñapti arises in someone
+Through a force of serene confidence, wholesome avijñapti arises in someone
 established in non-restraint while that person performs acts such as
 praise or reverence. Through a force of affliction, unwholesome
 avijñapti arises in someone established in restraint while that person
@@ -111,5 +111,5 @@ statement of our vow.
 
 The complete unit through `avijñaptyadhikāraḥ samāptaḥ` is translated.
 The `vijñaptyā` reading in the question remains visible and
-unresolved. The research witness and running source are unchanged;
+unresolved. The running source is unchanged;
 the next verse begins the analysis of `vijñapti`.

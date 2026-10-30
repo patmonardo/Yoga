@@ -51,9 +51,9 @@ The coordinated numerals `pañca`, `aṣṭa`, `daśa`, and `sarvebhyaḥ` quali
 
 ### Bhāṣya-informed study translation
 
-> By undertaking abstention from five, eight, ten, or all avoidable actions, one
-> respectively becomes a lay follower, an observer of *upavāsa*, a novice, or a
-> monk.
+> By undertaking abstention from five, eight, ten, or all things to be
+> avoided, one respectively becomes a lay follower, an observer of
+> *upavāsa*, a novice, or a monk.
 
 ## 6. Philosophical Translation
 
@@ -61,9 +61,21 @@ The coordinated numerals `pañca`, `aṣṭa`, `daśa`, and `sarvebhyaḥ` quali
 
 ## 7. Technical Vocabulary
 
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `virati-graha / virati-samādāna` | undertaking abstention | kārikā and Bhāṣya expressions for taking up restraint |
+| `varjya / varjanīya dharma` | thing to be avoided | the counted field of prohibited practices, not a second name for restraint |
+| `upāsaka-saṃvara` | lay-follower restraint | undertaking five abstentions |
+| `upavāsa-stha` | one observing *upavāsa* | undertaking the eightfold observance |
+| `śramaṇoddeśa / śrāmaṇera` | novice | undertaking the tenfold discipline |
+| `bhikṣu` | monk | undertaking abstention from all prohibited bodily and verbal actions |
+
 ## 8. Logical Determination
 
-Five / eight / ten / all abstentions → the four restraint statuses in the listed order.
+Five / eight / ten / all things to be avoided → the four restraint statuses
+in the listed order. The eightfold observance groups adornment with
+entertainment; the novice count separates them and adds the refusal of
+gold and silver.
 
 ## 9. Interpretive Note
 

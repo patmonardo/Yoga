@@ -1,13 +1,13 @@
-# VAK 4.28 Bhāṣya — Receiving the Eight-Limbed Upavāsa
+# VAK_4.28 Bhāṣya — Receiving the Eight-Limbed Upavāsa
 
 ## 1. Kārikā Anchor
 
 > kālyaṃ grāhyo 'nyato nīcaiḥ sthitenoktānuvāditā /
 > upavāsaḥ samagrāṅgo nirbhūṣeṇāniśākṣayāt // 4.28 //
 
-> Upavāsa restraint is received at sunrise from another, by one seated lower
-> and repeating after the giver; it is complete in all its limbs, undertaken
-> without adornment, and maintained until the night ends.
+> Upavāsa restraint is received at sunrise from another, by one positioned
+> lower and repeating after the giver; it is complete in all its limbs,
+> undertaken without special adornment, and maintained until the night ends.
 
 The running Bhāṣya unit begins with the procedural question at
 [213|12] and ends with the cited explanation of `poṣadha` at
@@ -146,5 +146,5 @@ procedure into our Pure Reason vows.
 
 The complete source unit through [214|01–02] is translated. The
 `nirbhuṣeṇa` reading and compressed posture and etymological
-phrases remain marked. The research witness and running source are
-unchanged; 4.29 begins with the purpose of the eight limbs.
+phrases remain marked. The running source is unchanged; 4.29 begins
+with the purpose of the eight limbs.

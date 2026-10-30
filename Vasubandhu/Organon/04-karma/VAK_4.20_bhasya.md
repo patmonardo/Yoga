@@ -1,4 +1,4 @@
-# VAK 4.20 Bhāṣya — Temporal Possession Across Three Restraints
+# VAK_4.20 Bhāṣya — Temporal Possession Across Three Restraints
 
 ## 1. Kārikā Anchor
 
@@ -7,8 +7,8 @@
 
 > So too for one established in non-restraint. One possessing meditation-born
 > restraint is continually endowed with past and future *avijñapti*. A noble
-> person likewise, except that at the first moment past [uncontaminated
-> *avijñapti*] is absent.
+> person likewise, but in the first moment has no past [Pure
+> *avijñapti*].
 
 The running Bhāṣya unit extends from [209|12] through [209|21–22] in
 `Vasubandhu/Sources/kosabhasya.txt`. The governing condition `atyāgāt`
@@ -47,20 +47,20 @@ preceding general rule in 4.19 reads `atyāgāt`. The Kārikā's compressed
 
 As the case of one established in prātimokṣa restraint has been stated,
 so too is the case of one established in non-restraint. For as long as
-such a person does not abandon non-restraint, he is continually endowed
-with present avijñapti and, after the first moment, with past avijñapti
-as well.
+such a person does not abandon non-restraint, they are continually endowed
+with present *avijñapti* and, after the first moment, with past
+*avijñapti* as well.
 
 One possessing meditation restraint is continually endowed with past
-and future avijñapti. The person who has obtained meditation restraint
-is endowed with past and future avijñaptis so long as it has not been
-abandoned. For even in the first moment he obtains, as past, meditation
-restraint that had been abandoned in another birth.
+and future *avijñapti*. The person who has obtained meditation restraint
+is endowed with past and future instances of *avijñapti* so long as it
+has not been abandoned. For even in the first moment they obtain, as past,
+meditation restraint that had been abandoned in another birth.
 
-The noble person, however, is not endowed with past avijñapti in the
-first moment. The noble person is similarly endowed with uncontaminated
-avijñapti, but with this difference: in the first moment he is not
-endowed with past avijñapti, because the Path had not previously arisen.
+The noble person, however, is not endowed with past *avijñapti* in the
+first moment. The noble person is similarly endowed with Pure
+*avijñapti*, but with this difference: in the first moment they are not
+endowed with past *avijñapti*, because the Path had not previously arisen.
 
 ## 4. The Extension to Non-Restraint
 
@@ -89,14 +89,14 @@ restraint is absolutely eternal.
 
 ## 6. The Noble Person's First Moment
 
-The noble person is treated similarly with regard to uncontaminated
-restraint, but the first Path moment has no **past** uncontaminated
+The noble person is treated similarly with regard to Pure
+restraint, but the first Path moment has no **past** Pure
 avijñapti. Vasubandhu supplies the reason: `mārgasya pūrvam
 anutpāditatvāt`, the Path had not arisen before. This is the precise
 contrast with meditation restraint, whose past instance can be
 obtained again. It does not deny the first noble Path moment itself.
 
-The present mode of meditation and uncontaminated restraint is treated
+The present mode of meditation and Pure restraint is treated
 in the next Kārikā half, 4.21. Importing its rule here would blur the
 boundary of this unit.
 
@@ -116,5 +116,4 @@ distinctions.
 
 The complete running unit through [209|21–22] is translated. The
 `ātyāgāt` reading and the prose resolution of `atītājātayā` are
-recorded. The source and research witness remain unchanged; the next
-study begins at 4.21.
+recorded. The next study begins at 4.21.

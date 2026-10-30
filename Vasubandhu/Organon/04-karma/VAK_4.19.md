@@ -23,7 +23,8 @@ avijñaptyā anvitaḥ pūrvāt kṣaṇāt ūrdhvam atītayā //
 
 The Bhāṣya’s prose citation contains two evident electronic irregularities in
 forms of `prātimokṣa`. They do not create a substantive alternative to the
-kārikā reading printed above.
+kārikā reading printed above. Its prose also has the damaged case sequence
+`tām avijñaptir`; the translation follows the object required by the sense.
 
 ## 3. Lexical Analysis
 
@@ -193,7 +194,7 @@ moment 1
     no past avijñapti of this restraint yet
 ```
 
-This is the temporal side of the acquisition-moment distinguished in VAK
+This is the temporal side of the acquisition moment distinguished in VAK
 4.16.
 
 **Every subsequent moment**
@@ -248,7 +249,7 @@ scope stated by the Bhāṣya.
 **The vow is a temporal rule**
 
 VAK 4.17 established that prātimokṣa restraint does not merely follow the
-currently occurring consciousness. VAK 4.19 now gives that independence a
+currently occurring Consciousness. VAK 4.19 now gives that independence a
 temporal articulation. Once acquired, the restraint is continually present so
 long as it is not abandoned, while its preceding determinations remain
 possessed as past.
@@ -302,8 +303,8 @@ belong to one intelligible practical continuity.
 
 VAK 4.19 gives avijñapti a precise positive sense. It is not simply what fails
 to appear. It is the acquired determination that remains attributable to the
-continuum under the condition of non-abandonment. Its non-manifest character
-allows the vow to govern conduct beyond the moment of explicit declaration.
+continuum under the condition of non-abandonment. This determination can
+govern conduct beyond the moment of explicit declaration.
 
 In the language of the Ideal Copula:
 

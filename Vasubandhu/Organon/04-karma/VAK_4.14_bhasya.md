@@ -6,17 +6,19 @@
 > liṅgato nāmasaṃcārāt pṛthak te cāvirodhinaḥ // 4.14 //
 
 
-> Prātimokṣa restraint is eightfold by designation, but fourfold in substance.
-> Its designations shift with *liṅga*, and the distinct restraints remain
-> without conflict.
+> Prātimokṣa restraint is eightfold by name, but fourfold by distinct
+> restraint-type, since names transfer with *liṅga*. Those [successively
+> undertaken restraints] arise separately and remain compatible.
 
 This is the Bhāṣya-informed study translation in `VAK_4.14.md`. The prose
-unit runs from [205|19] through [206|21]; the next question begins at
+unit is introduced at [205|18] and runs through [206|21]; the next question begins at
 [206|22] and belongs to 4.15.
 
 ## 2. Continuous Sanskrit
 
 ```iast
+tatra punaḥ
+
 aṣṭadhā prātimokṣākhyaḥ.
 
 bhikṣusaṃvaro bhikṣuṇīsaṃvaraḥ śikṣamāṇāsaṃvaraḥ śrāmaṇerasaṃvaraḥ
@@ -66,44 +68,51 @@ te ca trayo 'pi saha vartante. nottarasaṃvarasamādānāt pūrvakasya
 tyāgaḥ. mā bhūd bhikṣusaṃvaraparityāgād anupāsaka eveti.
 ```
 
-This is a word-divided working text, not a diplomatic transcript.
+This is a word-divided working text, not a diplomatic transcript. The opening
+`tatra punaḥ` is at [205|18] and introduces 4.14; the preceding threefold
+classification belongs to 4.13.
 `Śramaṇera`/`śrāmaṇera`, `vahutarāṇi`, `maddapramādapadebhyo`, and
 `dayor` vary in the witness; the latter three are provisionally normalized
 above as `bahutarāṇi`, `madapramādapadebhyo`, and `dvayor`. The compact
 numerical expression at [206|08–10] is preserved as transmitted, without
 a conjectural reconstruction. The source's sequence of the two female
 novice designations at [206|04–05] is also difficult; the study text
-preserves the names without treating the wording as settled.
+preserves the names without treating the wording as settled. The witness's
+`śikṣamāṇāsaṃvara`, `caturṇā`, and `purvakasya` have been displayed with
+regularized endings or vowel length above; these are editorial repairs.
 
 ## 3. Continuous Translation
 
-The restraint called *prātimokṣa* is eightfold. The Bhāṣya names the
-restraints of monks, nuns, women in training, male novices, female
+Now, among these, the restraint called *prātimokṣa* is eightfold. These are
+the restraints of monks, nuns, women in training, male novices, female
 novices, male lay followers, female lay followers, and those undertaking
 the fasting observance. These eight designations are called
 *prātimokṣa* restraint; it is eightfold by name.
 
 By distinct restraint-type, however, it is fourfold: monk, novice, lay
-follower, and fasting-observance restraint. The Bhāṣya says that each has
-a specifically fixed characteristic. Nun's restraint is not different
-from monk's restraint; the restraints of women in training and female
+follower, and fasting-observance restraint. Each has a specifically fixed
+characteristic. Nun's restraint is not different from monk's restraint;
+the restraints of women in training and female
 novices are not different from novice restraint; female lay follower's
 restraint is not different from male lay follower's restraint. How is
 this known? Because names transfer according to *liṅga*.
 
-The Bhāṣya explains *liṅga* as the characteristic by which female and
+*Liṅga* is the designation of the characteristic by which female and
 male are distinguished. With a change in this characteristic, the
 disciplinary names change: someone called a monk is called a nun, or a
-nun a monk; corresponding name changes occur among the novice and lay
-designations. But such a change gives no reason to abandon the former
-restraint or to acquire a new one. Therefore the restraint-natures are
-not different merely because these designations differ.
+nun a monk; [a male novice] is called a female novice, while a female
+novice or a woman in training is called a male novice; a male lay follower
+is called a female lay follower, and conversely. But such a change gives
+no reason to abandon the former
+restraint or to acquire a new one. Therefore these four parallel restraints
+do not differ in nature from the three monk, novice, and lay restraints.
 
 Suppose someone undertakes novice restraint after lay restraint, and
 then monastic restraint. Are these restraints only increasing quantities
-of the same abstentions, as in the compressed comparison in the text, or
-do they each arise separately and completely? The Bhāṣya answers:
-separately. They arise unmixed, each with its own characteristic. Across
+of the same abstentions, like fifteen and twenty or a hundred dinars
+[the comparison is textually compressed], or do they each arise separately
+and completely? The answer is: separately.
+They arise unmixed, each with its own characteristic. Across
 the three restraints there are three abstentions from killing, and
 likewise for the further prohibited actions. What distinguishes these
 abstentions? A difference in their causal grounds.
@@ -114,8 +123,8 @@ killing and other prohibited actions, and enter more conditions for
 abstention. Thus differences in causal grounds distinguish the
 abstentions. Otherwise, someone who renounced monastic restraint would
 have to relinquish all three restraints, since the other two would be
-included in it. The Bhāṣya rejects this and concludes that the
-restraints arise separately.
+included in it. This is not accepted; therefore the restraints arise
+separately.
 
 They are also compatible: all three can be present together. Undertaking
 a later restraint does not abandon an earlier one. Otherwise, giving up
@@ -163,6 +172,7 @@ and compatibility.
 
 ## 6. Review Status
 
-The source unit through [206|21] is translated. The numerical comparison
+The source unit from its introduction at [205|18] through [206|21] is
+translated. The numerical comparison
 at [206|08–10] and several variant readings remain provisional. The
 question beginning at [206|22] is reserved for 4.15.

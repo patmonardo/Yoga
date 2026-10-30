@@ -135,7 +135,7 @@ The instrumental plural prevents reduction to a single universal ceremony.
 
 ### Bhāṣya-informed study translation
 
-> Meditation-born restraint is acquired through a dhyāna ground;
+> Meditation-born restraint is acquired only through a dhyāna ground;
 > uncontaminated restraint through that ground when noble; and prātimokṣa
 > restraint through notification by another and related means.
 
@@ -211,7 +211,7 @@ Vasubandhu concludes:
 ```text
 prātimokṣa restraint
     is not necessarily dependent
-    upon another person’s vijñapti
+    upon vijñapti
 ```
 
 Ordinary declaration remains important, but the validity of the restraint is
@@ -260,10 +260,10 @@ describes an already acquired vow nor creates it through arbitrary words.
 
 ```text
 ordinary prātimokṣa acquisition
-    often depends on interpersonal disclosure
+    often depends on interpersonal notification
 
 all prātimokṣa acquisition
-    does not universally depend on interpersonal disclosure
+    does not universally depend on vijñapti
 ```
 
 The exceptional cases belong to the definition of the acquisition field.
@@ -447,10 +447,10 @@ Constraint: AcquisitionGroundMatchesRestraintKind
     UncontaminatedRestraint requires NobleGround
     PratimokshaRestraint requires RecognizedVinayaProcedure
 
-Constraint: PratimokshaNotUniversallyDependentOnAnotherVijnapti
+Constraint: PratimokshaNotUniversallyDependentOnVijnapti
     PratimokshaRestraint
-    is not universally dependsUpon
-    another person's Vijnapti
+    does not universally depend upon
+    Vijnapti
 
 Constraint: CoArisingDoesNotMeanIdentity
     coArisesWith(Restraint, Consciousness)

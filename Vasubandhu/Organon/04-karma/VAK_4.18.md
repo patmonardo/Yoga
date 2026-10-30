@@ -42,7 +42,7 @@ Bhāṣya: both restraints have both `smṛti` and `saṃprajñāna` as their na
 
 `Anāgamya` names the preliminary or threshold concentration. The Bhāṣya
 restricts the rule to its nine uninterrupted paths; it does not apply the name
-`prahāṇasaṃvara` to every occurrence of meditation-born or uncontaminated
+`prahāṇasaṃvara` to every occurrence of meditation-born or Pure
 restraint.
 
 **`prahāṇākhya`**
@@ -101,7 +101,7 @@ the predicate `prahāṇākhyau`:
 > restraints.
 
 The identity of “the two” is carried forward from VAK 4.17: meditation-born
-restraint and uncontaminated restraint.
+restraint and Pure restraint.
 
 **Qualification of the two**
 
@@ -171,7 +171,7 @@ clear comprehension.
 
 **`prahāṇasaṃvara`**
 
-Abandonment restraint names meditation-born and uncontaminated restraint only
+Abandonment restraint names meditation-born and Pure restraint only
 under a specific functional determination:
 
 ```text
@@ -182,6 +182,12 @@ within the nine uninterrupted paths of the anāgamya
 
 The name therefore expresses what the restraint accomplishes in that Path
 relation.
+
+**`sāsrava / anāsrava`**
+
+“Influx-bearing” and “Pure” distinguish the two restraint classes in the
+four-case analysis. “Pure” means without influx here; neither term by itself
+states whether the restraint receives the further name “abandonment.”
 
 **`dauḥśīlya`**
 
@@ -207,12 +213,12 @@ The Bhāṣya applies a four-cornered analysis to prevent the identity of
 meditation restraint and abandonment restraint:
 
 1. meditation restraint but not abandonment restraint;
-2. abandonment restraint but not contaminated meditation restraint;
+2. abandonment restraint but not meditation restraint;
 3. both;
 4. neither.
 
-An analogous analysis applies when uncontaminated restraint is taken as the
-starting predicate. The exact membership varies with contamination-status,
+An analogous analysis applies when Pure restraint is taken as the
+starting predicate. The exact membership varies with influx status,
 path, and moment.
 
 **`manaḥsaṃvara`**
@@ -244,7 +250,7 @@ not establish one identical ontological nature in everything called
 **A functional predicate is not a new substance**
 
 ```text
-meditation-born restraint or uncontaminated restraint
+meditation-born restraint or Pure restraint
     +
 occurrence in the relevant uninterrupted path
     +
@@ -273,7 +279,7 @@ predicates rather than reducing one definition to the other.
 saṃvara as avijñapti restraint
     prātimokṣa restraint
     meditation-born restraint
-    uncontaminated restraint
+    Pure restraint
 
 saṃvara as cognitive restraint
     mind-restraint
@@ -303,7 +309,7 @@ would leave the restraint incomplete.
 
 ## 9. Interpretive Note
 
-**Translation note.** “Meditation-born and uncontaminated,” the count of nine uninterrupted paths, and the distributive “each” are Bhāṣya-supplied resolutions of the compressed verse.
+**Translation note.** “Meditation-born and Pure,” the count of nine uninterrupted paths, and the distributive “each” are Bhāṣya-supplied resolutions of the compressed verse.
 
 **Yama reaches the producer of misconduct**
 
@@ -388,7 +394,7 @@ cross-cutting classifications, and the dual cognitive nature of both
 mind-restraint and faculty-restraint.
 
 **Former Philosophical Translation.**
-> Meditation-born and uncontaminated restraint acquire the further name
+> Meditation-born and Pure restraint acquire the further name
 > “abandonment restraint” only when, in the preliminary concentration, they
 > function within the nine uninterrupted paths to abandon misconduct and the
 > defilements that generate it. Mind-restraint and restraint of the faculties
@@ -404,7 +410,7 @@ determinations into the bare words of the kārikā.
 ```text
 Class: Restraint
 Class: MeditationBornRestraint
-Class: UncontaminatedRestraint
+Class: PureRestraint
 Class: AbandonmentRestraint
 Class: MindRestraint
 Class: FacultyRestraint
@@ -463,8 +469,8 @@ Rule: AbandonmentDesignationForMeditationRestraint
     and abandons(?r, ConductGeneratingDefilement)
     -> AbandonmentRestraint(?r)
 
-Rule: AbandonmentDesignationForUncontaminatedRestraint
-    UncontaminatedRestraint(?r)
+Rule: AbandonmentDesignationForPureRestraint
+    PureRestraint(?r)
     and occursIn(?r, NineUninterruptedPaths)
     and abandons(?r, BadConduct)
     and abandons(?r, ConductGeneratingDefilement)

@@ -7,8 +7,8 @@
 
 
 > It is called discipline, good conduct, action, and restraint. In the first
-> moment, manifestation and non-disclosing continuity are the *prātimokṣa*
-> course of action.
+> moment, manifestation and non-disclosing continuity are called
+> *prātimokṣa* and an action-course.
 
 This is the Bhāṣya-informed study translation in `VAK_4.16.md`. The
 commentary unit runs from [207|07] through [207|21]; the next question
@@ -45,33 +45,35 @@ na prātimokṣaḥ. pṛṣṭhaṃ ca na maulaḥ karmapathaḥ.
 Word division and punctuation are editorial. The running verse citation
 reads *prātimokṣakiyāpathaḥ*; the Kārikā witness reads
 *prātimokṣakriyāpathaḥ*, while the prose explains the term as
-*karmapatha*. The sentence at [207|19] is retained without conjectural
-segmentation. The witness's *kṣaṇeṣui* at [207|20–21] is normalized
-above as *kṣaṇeṣu*.
+*karmapatha*. The compressed word-formation sentence at [207|19] is
+retained as transmitted and translated closely below; its exact grammatical
+force remains provisional. The witness's *kṣaṇeṣui* at [207|20–21] is
+normalized above as *kṣaṇeṣu*.
 
 ## 3. Continuous Translation
 
 This is *prātimokṣa* restraint.
 
-It is called *śīla* because it is undertaken as abstention from
-improper actions. The Bhāṣya also offers an explanatory association with
-coolness, citing a verse that says the body does not burn when pleasant
-discipline is undertaken. It is called good conduct because the learned
-praise it. It is called action because its nature is activity.
+It is called discipline, good conduct, action, and restraint. It is called
+*śīla* because abstention from improper actions is undertaken. Its
+derivation also invokes coolness: “Upon undertaking pleasant discipline,
+the body does not burn,” as a verse says. It is called good conduct because
+the learned praise it. It is called action because its nature is activity.
 
 One may object: *avijñapti* is called non-action; how can it be activity?
 It is called non-action because conscientious people who have undertaken
 it do not commit evil through it. Yet it is activity because it is
-produced by manifestation and consciousness. Others say that it is a
+produced by manifestation and Consciousness. Others say that it is a
 cause and a result of activity. It is called restraint because it
-contains body and speech. Thus, generally, these are names for
+restrains body and speech. Thus, generally, these are names for
 *prātimokṣa* restraint.
 
 Further: in the first moment of undertaking restraint, manifestation
 and non-disclosing continuity are called *prātimokṣa*, because through
-them evil is released or cast off. [The following word-formation
-explanation is uncertain.] It is also called *prātimokṣa* restraint
-because it contains body and speech, and an action-course because it is
+them evil is released or cast off. Vowel strengthening is prescribed in
+the word's own sense, as with *vaikṛta* and *vaiśasa* [the grammatical
+explanation remains provisional]. It is also called *prātimokṣa* restraint
+because it restrains body and speech, and an action-course because it is
 included in the fundamental phase. In the second and later moments it
 is *prātimokṣasaṃvara*, but not *prātimokṣa* in that strict
 first-moment sense. What follows is not itself the fundamental
@@ -117,8 +119,8 @@ name Cetanā here.
 
 ## 6. Review Status
 
-The unit through [207|21] is translated. The reading and interpretation
-of the word-formation sentence at [207|19] remain open. The distinction
+The unit through [207|21] is translated. The grammatical force of the
+word-formation sentence at [207|19] remains open. The distinction
 between the Kārikā's *kriyāpatha*, the running citation's
 *kiyāpatha*, and the prose *karmapatha* is preserved. The next question
 begins at [207|22].

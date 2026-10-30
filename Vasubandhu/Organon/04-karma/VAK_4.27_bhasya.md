@@ -1,12 +1,13 @@
-# VAK 4.27 Bhāṣya — The Duration and Purpose of Undertaking
+# VAK_4.27 Bhāṣya — The Duration and Purpose of Undertaking
 
 ## 1. Kārikā Anchor
 
 > yāvajjīvaṃ samādānam ahorātraṃ ca saṃvṛteḥ /
 > nāsaṃvaro 'sty ahorātraṃ na kilaivaṃ pragṛhyate // 4.27 //
 
-> Restraint is undertaken for life or for one day and night; non-restraint is
-> not ordinarily undertaken for merely one day and night.
+> Prātimokṣa restraint is undertaken for life or for one day and night. There
+> is no non-restraint for a day and night; for, it is said, no one undertakes
+> it in that way.
 
 The running Bhāṣya unit begins with the question at [212|09–10] and
 ends with the Sautrāntika explanation at [213|10–11] in
@@ -69,8 +70,9 @@ kuśalacitto 'pi tadvān ucyate, tasyānirākṛtatvāt.
 Word division and punctuation are editorial. The running e-text has
 `prātimokṣāsaṃvaraḥ` in the opening question, `ahārotrāṇāṃ`,
 `śāstisma`, `anutpartti`, and `edadṛṣṭam`; these forms are displayed
-above rather than silently normalized. Their grammatical detail is
-provisional where the context alone does not settle a repair.
+above rather than silently normalized. In the last case,
+`na tv edadṛṣṭam iti` is read as `na tu etad dṛṣṭam iti`, “but this is
+not observed”; the running witness's single `d` remains visible.
 
 ## 3. Continuous Translation
 
@@ -119,7 +121,7 @@ intention is not lifelong, because the person seeks restraint. If
 someone deliberately sought and undertook non-restraint for a
 limited time, that person would indeed acquire it. The passage
 declines to establish this as the ordinary rule because no such
-case is observed [the source wording here is uncertain].
+case is observed.
 
 The Sautrāntikas say that non-restraint, like avijñapti, does not
 exist as a distinct substance. Rather, non-restraint is the
@@ -189,6 +191,6 @@ does not call that movement “dialectical dhyāna.”
 
 The complete unit through [213|10–11] is translated, including the
 Vaibhāṣika restriction, the counterquestions, and the Sautrāntika
-alternative. Several irregular e-text forms remain visible and
-provisional. The research witness and running source are unchanged;
+alternative. Several irregular e-text forms remain visible. The
+running source is unchanged;
 4.28 begins with the method of undertaking a day-and-night upavāsa.

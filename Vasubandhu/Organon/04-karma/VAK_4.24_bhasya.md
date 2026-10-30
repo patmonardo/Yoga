@@ -1,4 +1,4 @@
-# VAK 4.24 Bhāṣya — Weak Manifestation and the Names of Non-Restraint
+# VAK_4.24 Bhāṣya — Weak Manifestation and the Names of Non-Restraint
 
 ## 1. Kārikā Anchor
 
@@ -12,10 +12,8 @@
 The running Bhāṣya unit extends from [211|02] through the explanation
 of `karmapathaḥ` at [211|12] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about being endowed
-with vijñapti but not avijñapti, also at [211|12], opens 4.25. The
-prepared research Bhāṣya witness begins only at [211|08] and omits
-the first half-verse and its explanation; these are recovered below
-from the running source.
+with vijñapti but not avijñapti, also at [211|12], opens 4.25.
+Both halves of 4.24 and their explanations are present below.
 
 ## 2. Continuous Sanskrit
 
@@ -41,10 +39,8 @@ maulasaṃgṛhītatvāt karmapathaḥ.
 
 Word division and punctuation are editorial. The second half-verse
 reads `karmaṃ` in the running witness, against `karma` in the separate
-Kārikā file; the variant is visible above. The research Bhāṣya file
-contains only the second half. Its omission is not filled by inference
-from the Kārikā: the first-half prose is taken directly from
-`kosabhasya.txt`.
+Kārikā witness; the variant is visible above. The first-half prose
+has been checked directly against `kosabhasya.txt`.
 
 ## 3. Continuous Translation
 
@@ -127,7 +123,6 @@ Kośa's own categories.
 ## 7. Review Status
 
 Both halves and their running-source explanations through [211|12]
-are translated. The first half is absent from the prepared research
-Bhāṣya file and is recovered here; `karmaṃ` remains marked as the
-running witness reading. No source witness has been changed. The
+are translated. `Karmaṃ` remains marked as the running witness reading.
+No source witness has been changed. The
 four-cornered question that follows belongs to the next study.

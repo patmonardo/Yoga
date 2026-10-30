@@ -1,4 +1,4 @@
-# VAK 4.19 Bhāṣya — Present and Past Prātimokṣa Restraint
+# VAK_4.19 Bhāṣya — Present and Past Prātimokṣa Restraint
 
 ## 1. Kārikā Anchor
 
@@ -35,22 +35,24 @@ Word division and punctuation are editorial. The running witness has
 `prātimmokṣasthito` in its first citation and
 `prātimokṣāsaṃvarasthaḥ` in the prose. Both are retained here as source
 readings, not presented as alternative doctrines. The official Kārikā
-anchor follows its separate Kārikā witness. The running source also has
-an extraneous `[` after the [209|11] marker; it has not been made part of
-the Sanskrit passage.
+anchor follows its separate Kārikā witness. The prose also reads
+`tām avijñaptir`, with an accusative demonstrative but nominative noun;
+the translation follows the intended object without silently replacing
+the Sanskrit. The running source has an extraneous `[` after the
+[209|11] marker; it has not been made part of the Sanskrit passage.
 
 ## 3. Continuous Translation
 
-This is to be examined: who is endowed with which manifest or non-manifest
-action, and for how long? First: “One established in prātimokṣa restraint
-is continually endowed with present avijñapti, so long as he has not
-abandoned it.” The person described as established in prātimokṣa
-restraint is continually endowed with that avijñapti in its present mode
-for as long as he does not abandon it.
+This is to be examined: who is endowed with which manifestation or
+non-disclosing continuity, and for how long? First: “One established in
+prātimokṣa restraint is continually endowed with present *avijñapti*,
+so long as it has not been abandoned.” The person described as established
+in prātimokṣa restraint is continually endowed with that *avijñapti* in
+its present mode for as long as they do not abandon it.
 
-“After the first moment, [he is endowed] with past [avijñapti].” After
-the first moment he is also endowed with avijñapti in its past mode. The
-phrase “so long as it has not been abandoned” should be understood as
+“After the first moment, [they are endowed] with past [avijñapti].” After
+the first moment the person is also endowed with avijñapti in its past
+mode. The phrase “so long as it has not been abandoned” should be understood as
 governing throughout.
 
 ## 4. What Is Being Timed

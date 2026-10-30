@@ -1,4 +1,4 @@
-# VAK 4.18 Bhāṣya — Abandonment, Mind, and Faculty Restraint
+# VAK_4.18 Bhāṣya — Abandonment, Mind, and Faculty Restraint
 
 ## 1. Kārikā Anchor
 
@@ -11,8 +11,8 @@
 
 The running Bhāṣya unit begins at [208|13] and ends at [209|03] in
 `Vasubandhu/Sources/kosabhasya.txt`. Its first question resumes the two
-mind-following restraints of 4.17. The inquiry into how long manifest and
-non-manifest action are possessed begins a new unit at [209|04].
+mind-following restraints of 4.17. The inquiry into how long manifestation
+and non-disclosing continuity are possessed begins a new unit at [209|04].
 
 ## 2. Continuous Sanskrit
 
@@ -59,30 +59,30 @@ smoother paraphrase.
 ## 3. Continuous Translation
 
 Further, those same two restraints, meditation restraint and
-uncontaminated restraint, receive the name “abandonment restraint.” At
+Pure restraint, receive the name “abandonment restraint.” At
 what stage? He says: “In the preliminary concentration, those two, when
 born in the uninterrupted paths, are called abandonment restraints.” The
-meditation and uncontaminated restraints are so called in the nine
+meditation and Pure restraints are so called in the nine
 uninterrupted paths of the preliminary concentration, because through
 them bad conduct and the defilements that give rise to it are abandoned.
 
 Now a four-cornered analysis is made: can something be meditation
-restraint but not abandonment restraint? The first case is contaminated
+restraint but not abandonment restraint? The first case is influx-bearing
 meditation restraint outside the uninterrupted paths of the preliminary
-concentration. The second is uncontaminated restraint in those paths. The
-third is contaminated meditation restraint in those paths. The fourth is
-uncontaminated restraint outside them. In the same way, as appropriate,
+concentration. The second is Pure restraint in those paths. The
+third is influx-bearing meditation restraint in those paths. The fourth is
+Pure restraint outside them. In the same way, as appropriate,
 one should understand the four-cornered analysis beginning with the
-question whether something can be uncontaminated restraint but not
+question whether something can be Pure restraint but not
 abandonment restraint.
 
 But what of the Blessed One's statement: “Restraint of body is good, and
 restraint of speech is good; restraint of mind is good, and restraint
 everywhere is good”? And what of the statement that one dwells restrained
-by restraint of the eye faculty? What is the nature of these two, mind-
-restraint and faculty-restraint? They do not have non-manifest discipline
-as their nature. What, then, is their nature? “Mind-restraint and faculty-
-restraint each have two natures: clear comprehension and recollection.”
+by restraint of the eye faculty? What is the nature of these two,
+mind-restraint and faculty-restraint? Their nature is not the discipline of
+non-disclosing continuity. What, then, is their nature? “Mind-restraint and
+faculty-restraint each have two natures: clear comprehension and recollection.”
 The word “two” is repeated to indicate a twofold nature in each case, so
 that the terms are not understood as corresponding one by one. Mind-
 restraint has recollection and clear comprehension as its nature; so does
@@ -103,22 +103,22 @@ The four cases make the restricted extension explicit:
 
 | Case relative to meditation and abandonment restraint | Instance |
 |---|---|
-| Meditation restraint only | Contaminated meditation restraint outside the specified paths |
-| Abandonment restraint only | Uncontaminated restraint within the specified paths |
-| Both | Contaminated meditation restraint within the specified paths |
-| Neither | Uncontaminated restraint outside the specified paths |
+| Meditation restraint only | Influx-bearing meditation restraint outside the specified paths |
+| Abandonment restraint only | Pure restraint within the specified paths |
+| Both | Influx-bearing meditation restraint within the specified paths |
+| Neither | Pure restraint outside the specified paths |
 
 The “only” and “neither” descriptions are relative to the **two predicates
-being compared**. In particular, the fourth case still has uncontaminated
+being compared**. In particular, the fourth case still has Pure
 restraint. The Bhāṣya then requests an analogous analysis beginning with
-uncontaminated restraint, without spelling out another four rows.
+Pure restraint, without spelling out another four rows.
 
 ## 5. Another Nature of Restraint
 
 The cited sayings about body, speech, mind, and the eye faculty prompt a
 new classification question. Vasubandhu answers it negatively first:
 `manaḥsaṃvara` and `indriyasaṃvara` are **not**
-`avijñaptiśīlasvabhāva`, discipline whose nature is non-manifest action.
+`avijñaptiśīlasvabhāva`, discipline constituted by non-disclosing continuity.
 Here `saṃvara` also names restraint constituted by cognitive factors.
 
 The Kārikā's paired dual expressions might invite a one-to-one assignment:
@@ -142,6 +142,7 @@ the Organon, not a claim that Vasubandhu describes its architecture.
 
 ## 7. Review Status
 
-The complete running unit through [209|03] is represented; its two cited
-sayings and four cases remain within the continuous translation. The
-running source, research Bhāṣya, and Kārikā files are unchanged.
+The complete running unit through [209|03] is translated, including its
+two cited sayings and four cases. The four-case classification distinguishes
+influx-bearing from Pure restraint; the two cognitive restraints are not
+`avijñaptiśīla`.

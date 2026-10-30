@@ -23,7 +23,7 @@ The verse gives the two crossed cases announced by the Bhāṣya’s
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `vijñaptyā` | instrumental feminine singular | with disclosure; with disclosure |
+| `vijñaptyā` | instrumental feminine singular | with disclosure |
 | `eva` | restrictive particle | only; precisely |
 | `anvitaḥ` | nominative masculine singular | endowed with; possessed of |
 | `kurvan` | nominative masculine singular present participle | acting; while performing |
@@ -169,10 +169,12 @@ a persistent practical determination.
 **Indeterminate action and the exception**
 
 The Bhāṣya says the absence of avijñapti is still more evident for
-indeterminate action, while preserving an exception expressed through the
-compressed term `aupadika-puṇyakriyā-vastu-karmapatha`. Because the exact scope
-of this technical expression is not developed in the present unit, the
-exception is retained rather than expanded into the primary translation.
+indeterminate action, with an exception expressed as
+`anyatraupadhikapuṇyakriyāvastukarmapathebhyaḥ`. The Sanskrit runs the
+terms together. The 4.04 Bhāṣya treats material bases of meritorious
+action and action-courses as separate cases in its argument for
+avijñapti, which supports reading two exception classes here. Their
+precise scope in this sentence remains open.
 
 **Noble avijñapti without vijñapti**
 

@@ -1,4 +1,4 @@
-# VAK 4.17 Bhāṣya — Bearers and Mind-Following Restraint
+# VAK_4.17 Bhāṣya — Bearers and Mind-Following Restraint
 
 ## 1. Kārikā Anchor
 
@@ -7,7 +7,7 @@
 
 > The eight [disciplinary classes] are endowed with prātimokṣa restraint; one
 > endowed with dhyāna is endowed with meditation-born restraint. Noble beings
-> have uncontaminated restraint. The latter two follow consciousness.
+> have Pure restraint. The latter two follow Consciousness.
 
 The Bhāṣya unit runs from [207|22] through [208|13] of
 `Vasubandhu/Sources/kosabhasya.txt`. The next sentence introduces the
@@ -46,11 +46,11 @@ kāraṇam? anyacittācittakasyāpy anuvṛtteḥ.
 
 Word division and punctuation are editorial. `Dhyānaja` is expressly
 glossed in two ways, born **from** or **in** meditation. The witness's
-village example has `vraiheyam`; its precise crop name is not needed for
-the analogy and remains uncorrected here. `Katamau tau` provisionally
-regularizes the source's `katamo tau`. The last source phrase is
-compressed; its contrast between another mind and a mindless condition
-is clearer than its case construction.
+village example has `vraiheyam`; its precise crop name remains uncorrected.
+`Katamau tau` provisionally regularizes the source's `katamo tau`; the
+quoted `cittānuvartinau` regularizes its `cittānuvartināvi`. The last
+source phrase is compressed; its contrast between another Consciousness
+and the absence of Consciousness is clearer than its case construction.
 
 ## 3. Continuous Translation
 
@@ -65,16 +65,16 @@ One endowed with meditation is endowed with the restraint born from
 meditation. “Meditation-born” means born from meditation or born in it.
 Whoever possesses meditation necessarily possesses meditation restraint.
 Here the neighboring attainment is also called meditation by extension,
-just as the outskirts of a village may be called the village: one may say
-that a certain field lies “in this village.”
+just as the outskirts of a village may be called the village: one may say,
+“In this village there is a *śāleya* field and a *vraiheya* field.”
 
-Noble persons are endowed with uncontaminated restraint. These persons
+Noble persons are endowed with Pure restraint. These persons
 include trainees and those beyond training. Earlier, in treating
-coexistent cause, it was said that two restraints follow the mind. Which
+coexistent cause, it was said that two restraints follow Consciousness. Which
 two? Of these three, the latter two: meditation restraint and
-uncontaminated restraint, not prātimokṣa restraint. Why not the last?
-Because prātimokṣa restraint continues even with another mind and in a
-mindless condition.
+Pure restraint, not prātimokṣa restraint. Why not the last?
+Because prātimokṣa restraint continues even with another Consciousness
+and for one without present Consciousness.
 
 ## 4. Possession and Its Grounds
 
@@ -85,7 +85,7 @@ The three bearer relations are stated with `anvita` in the Kārikā and
 |---|---|
 | prātimokṣa | the eight disciplinary classes of 4.14 |
 | meditation born | one endowed with meditation, including the neighboring attainment by extended usage |
-| uncontaminated | noble persons, both trainees and those beyond training |
+| Pure | noble persons, both trainees and those beyond training |
 
 Being **endowed with** a restraint is a relation between a person or
 continuum and a restraint. It is not an assertion that the two are
@@ -107,25 +107,26 @@ or cannot accomplish. For translation, `samādānaśīla` and
 `prātimokṣasaṃvara` must remain distinct even where outward rules resemble
 one another.
 
-## 6. Two Relations to Present Mind
+## 6. Two Relations to Present Consciousness
 
 `Antyau`, “the latter two,” refers back to the three restraints, not to
-the eight disciplinary classes. Meditation-born and uncontaminated
+the eight disciplinary classes. Meditation-born and Pure
 restraint are `cittānuvartin`, mind-following. The immediate contrast is
-that prātimokṣa restraint continues when another mind is present and even
-when there is no present mind. This proves the narrower point that it does
-not require its original or corresponding mind at every later moment.
+that prātimokṣa restraint continues when another Consciousness is present
+and even when there is no present Consciousness. This proves the narrower
+point that it does not require its original or corresponding Consciousness
+at every later moment.
 
 The verse does not make prātimokṣa restraint uncaused or eternal. VAK 4.16
 had distinguished its first acquisition from its continuation. For the
 Organon, the useful distinction is between an acquired practical
-determination that survives changes of present mind and a determination
+determination that survives changes of present Consciousness and a determination
 that follows a particular mental state. This is a project comparison,
 not a replacement for the Kośa's technical account of the three restraints.
 
 ## 7. Review Status
 
-The complete source unit through [208|13] is translated. The village
-example's crop term and the precise grammatical force of
+The complete source unit through [208|13] is translated. The exact identity
+of the village example's `vraiheya` crop and the grammatical force of
 `anyacittācittakasyāpy anuvṛtteḥ` remain provisional. The research
 witness and running source are unchanged.

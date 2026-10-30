@@ -52,9 +52,9 @@ The first pāda predicates `aṣṭadhā` and `caturvidhaḥ` of the understood 
 
 ### Bhāṣya-informed study translation
 
-> Prātimokṣa restraint is eightfold by designation, but fourfold in substance.
-> Its designations shift with *liṅga*, and the distinct restraints remain
-> without conflict.
+> Prātimokṣa restraint is eightfold by name, but fourfold by distinct
+> restraint-type, since names transfer with *liṅga*. Those [successively
+> undertaken restraints] arise separately and remain compatible.
 
 ## 6. Philosophical Translation
 
@@ -62,9 +62,22 @@ The first pāda predicates `aṣṭadhā` and `caturvidhaḥ` of the understood 
 
 ## 7. Technical Vocabulary
 
+| Sanskrit | Controlled rendering | Determination in this unit |
+|---|---|---|
+| `prātimokṣa-saṃvara` | *prātimokṣa* restraint | eight named disciplines, four distinct restraint-types |
+| `nāmataḥ / dravyataḥ` | by name / by distinct restraint-type | two grounds of counting, not two competing inventories |
+| `liṅga / vyañjana` | sex-characteristic / distinguishing mark | the Bhāṣya's ground for transfer of disciplinary names without transfer of restraint |
+| `virati` | abstention | separately present within successively undertaken restraints |
+| `nidāna-viśeṣa` | difference in causal grounds | explains why corresponding abstentions remain distinct |
+| `pṛthak / avirodhin` | separate / compatible | distinct restraints can coexist |
+
 ## 8. Logical Determination
 
-Eight designations → four restraint-types; name-transfer is distinct from type; successive restraints are separate and compatible.
+Eight designations → four restraint-types: the four parallel designations
+share the natures of three of those types, while fasting-observance restraint
+is the fourth. Transfer of a disciplinary name does not by itself alter the
+restraint. Successively undertaken lay, novice, and monastic restraints
+arise separately through different causal grounds and can coexist.
 
 ## 9. Interpretive Note
 
@@ -72,7 +85,8 @@ Eight designations → four restraint-types; name-transfer is distinct from type
 
 ### Textual Notes
 
-The Bhāṣya unit runs from [205|19] through [206|21] in
+The Bhāṣya unit is introduced by `tatra punaḥ` at [205|18] and runs
+through [206|21] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question begins at [206|22]
 and belongs to 4.15.
 
@@ -81,7 +95,9 @@ reads `vahutarāṇi`, `maddapramādapadebhyo`, and `dayor`. The continuous
 Bhāṣya study normalizes these provisionally as `bahutarāṇi`,
 `madapramādapadebhyo`, and `dvayor`. The compressed expression
 `pañcadaśa viṃśativat dīnāraśateravacca` is retained without conjectural
-reconstruction. These readings remain open for collation.
+reconstruction. The witness's `śikṣamāṇāsaṃvara`, `caturṇā`, and
+`purvakasya` are also displayed with regularized endings or vowel length
+in the Bhāṣya study. These readings remain open for collation.
 
 ### Interpretation
 

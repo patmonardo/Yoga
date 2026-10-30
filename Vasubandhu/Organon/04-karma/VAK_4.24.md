@@ -16,9 +16,8 @@ asaṃvaro duścaritaṃ dauḥśīlyaṃ karma tatpathaḥ // 4.24 //
 
 
 
-The prepared Bhāṣya witness begins with the second half of the kārikā. The
-commentary on the first half has therefore been read directly from the local
-primary Sanskrit witness and is identified as Bhāṣya material below.
+The paired Bhāṣya study includes both halves of the kārikā and their
+explanations, checked against the local Sanskrit source.
 
 ## 3. Lexical Analysis
 
@@ -170,7 +169,7 @@ Its past vijñapti is likewise not possessed.
 
 **Weak acquisition**
 
-The recovered Bhāṣya gives the rule:
+The Bhāṣya gives the rule:
 
 ```text
 weak dharma

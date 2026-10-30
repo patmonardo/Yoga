@@ -1,12 +1,12 @@
-# VAK 4.23 Bhāṣya — Possession of Manifest Action
+# VAK_4.23 Bhāṣya — Possession of Manifest Action
 
 ## 1. Kārikā Anchor
 
 > vijñaptyā tu punaḥ sarve kurvanto madhyayānvitāḥ /
-> atītayā kṣaṇād ūrdhvam atyāgān nāsty ajātayā // 4.23 //
+> atītayā kṣaṇād ūrdhvam ātyāgān nāsty ajātayā // 4.23 //
 
 > All who act possess disclosure as present while they perform it; after its
-> first moment, if it has not been abandoned, they also possess it as past. No
+> first moment, until abandonment, they also possess it as past. No
 > one possesses future disclosure.
 
 The running unit begins at [210|20] and ends at [211|01] in
@@ -21,9 +21,9 @@ vijñaptyā tu punaḥ sarve kurvanto madhyayānvitāḥ.
 sarve saṃvarāsaṃvaramadhyasthā yāvadijñaptiṃ kurvanti tāvat tayā
 vartamānayā samanvāgatāḥ.
 
-atītayā kṣaṇād ūrdhvam ātyāgāt.
+atītayā kṣaṇād ūrdhvam ā tyāgāt.
 
-prathamāt kṣaṇād ūrdhvam ātyāgād atītayā vijñaptyā samanvāgato bhavati.
+prathamāt kṣaṇād ūrdhvam ā tyāgād atītayā vijñaptyā samanvāgato bhavati.
 
 nāsty ajātayā.
 
@@ -33,9 +33,11 @@ anāgatayā tu vijñaptyā na kaścit samanvāgataḥ.
 Word division and punctuation are editorial. The source has
 `yāvadijñaptiṃ` at [210|21], retained here rather than silently
 changed to the expected `yāvad vijñaptiṃ`. It also reads `ātyāgāt`
-and `ātyāgād` in the two following lines; the separate Kārikā
-witness prints `atyāgān` by sandhi before `nāsti`. These spellings
-are recorded without manufacturing a substantive disagreement.
+and `ātyāgād` in the two following lines; these are divided above as
+`ā tyāgāt` and `ā tyāgād`, “until abandonment.” The separate Kārikā
+witness prints `ātyāgāt` before `nāsti`; the form `ātyāgān` is its
+regular sandhi. This is distinct from `atyāgāt`, “because of
+non-abandonment,” in 4.19.
 
 ## 3. Continuous Translation
 
@@ -45,9 +47,9 @@ restraint, those established in non-restraint, and those in neither—are
 endowed with a manifest action as present for as long as they perform
 it.
 
-“After the first moment, with past [manifest action], provided it has
-not been abandoned.” After the first moment, one is also endowed with
-past manifest action under the condition of non-abandonment.
+“After the first moment, with past [manifest action], until abandonment.”
+After the first moment, one is also endowed with past manifest action
+until it is abandoned.
 
 “There is no [possession] with the not-yet-arisen.” No one is endowed
 with a future manifest action.
@@ -69,7 +71,7 @@ not decide its moral quality merely from the bearer's standing.
 ## 5. Past and Future Are Asymmetric
 
 After the first moment, the agent may also possess the manifest action
-as **past**, subject to the inherited non-abandonment condition. The
+as **past**, until abandonment. The
 last line excludes possession of **future** vijñapti altogether:
 `anāgatayā tu vijñaptyā na kaścit samanvāgataḥ`. This is a rule about
 being endowed with a not-yet-arisen manifestation, not a denial that
@@ -95,7 +97,6 @@ not a translation of the Kārikā into our architecture.
 
 ## 7. Review Status
 
-The complete running unit through [211|01] is translated. The
-`yāvadijñaptiṃ` and `ātyāga` spellings remain visible and provisional.
-The running source and research witness are unchanged. The next
+The complete running unit through [211|01] is translated. The source's
+`yāvadijñaptiṃ` spelling remains visible. The running source is unchanged. The next
 half-verse, at [211|02], belongs to 4.24 and is not imported here.

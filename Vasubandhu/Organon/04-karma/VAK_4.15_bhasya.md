@@ -6,9 +6,9 @@
 > upāsakopavāsasthaśramaṇoddeśabhikṣutā // 4.15 //
 
 
-> By undertaking abstention from five, eight, ten, or all avoidable actions, one
-> respectively becomes a lay follower, an observer of *upavāsa*, a novice, or a
-> monk.
+> By undertaking abstention from five, eight, ten, or all things to be
+> avoided, one respectively becomes a lay follower, an observer of
+> *upavāsa*, a novice, or a monk.
 
 This is the Bhāṣya-informed study translation in `VAK_4.15.md`. The
 prose unit runs from [206|22] through [207|07]; the next kārikā begins
@@ -56,14 +56,15 @@ undertaking abstention from five, eight, ten, or all things to be
 avoided, respectively. The enumeration is to be understood in that
 order.
 
-By undertaking abstention from five avoidable actions, one is established
+By undertaking abstention from five things to be avoided, one is established
 in lay restraint: killing, taking what is not given, sexual misconduct,
-false speech, and drinking intoxicating liquor.
+false speech, and drinking *surā*, *maireya*, or other intoxicants.
 
 By undertaking abstention from eight, one is established in the
 *upavāsa* observance: abstention from killing, taking what is not given,
-sexual activity, false speech, intoxicants, the combined field of
-adornment and entertainment, elevated beds, and untimely eating.
+sexual activity, false speech, intoxicants, garlands, perfumes, and
+ointments together with dancing, singing, and instrumental music,
+high or large beds, and eating out of time.
 
 By undertaking abstention from ten, one becomes a novice. These are the
 same fields, together with abstention from accepting gold and silver.
@@ -90,8 +91,9 @@ in the order given by the kārikā:
 
 The eightfold list is not merely copied unchanged into the tenfold count:
 the Bhāṣya explicitly says to divide the adornment-and-entertainment
-field into two and add acceptance of gold and silver. The precise
-subdivision of the compressed eightfold list remains editorial.
+field into two and add acceptance of gold and silver. The grouping of
+the densely compounded eightfold list remains an editorial construal;
+the instruction to separate the two fields for the tenfold count is explicit.
 
 ## 5. Interpretation
 

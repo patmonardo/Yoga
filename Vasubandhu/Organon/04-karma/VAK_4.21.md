@@ -51,7 +51,12 @@ from that state.
 **`āryamārgastha`**
 
 One “standing in the noble Path” is presently entered into the Path-state.
-The corresponding present avijñapti is uncontaminated restraint.
+The corresponding present avijñapti is Pure restraint.
+
+**`anāsrava`**
+
+“Pure” here renders “without influx,” the classification of the noble Path
+restraint. It does not mean unconditioned.
 
 **`madhyastha`**
 
@@ -97,13 +102,13 @@ one entered into concentration
     → present meditation-born avijñapti
 
 one entered into the noble Path
-    → present uncontaminated avijñapti
+    → present Pure avijñapti
 ```
 
 **Actual entry, not mere qualification**
 
 The prose adds `na tu vyutthitau`, “but not when emerged.” Present possession
-requires actual occurrence of the corresponding consciousness. This completes
+requires actual occurrence of the corresponding Consciousness. This completes
 the meaning of `cittānuvartin` from VAK 4.17.
 
 **The conditional middle case**
@@ -158,10 +163,10 @@ presently possessing the corresponding mind-following avijñapti.
 **Present mind-following restraint**
 
 ```text
-corresponding consciousness present
+corresponding Consciousness present
     → corresponding restraint present
 
-corresponding consciousness absent
+corresponding Consciousness absent
     → corresponding restraint not present
 ```
 
@@ -206,15 +211,15 @@ it has not been abandoned.
 **State-dependent present determination**
 
 ```text
-meditative consciousness
+meditative Consciousness
     ↔ present meditation restraint
 
-noble-Path consciousness
-    ↔ present uncontaminated restraint
+noble-Path Consciousness
+    ↔ present Pure restraint
 ```
 
 The double arrow marks co-presence in the present analysis, not identity of
-consciousness and restraint.
+Consciousness and restraint.
 
 **System and episode**
 
@@ -329,7 +334,7 @@ At the Organon level, VAK 4.21 distinguishes:
 
 ```text
 determination through an actual state
-    the corresponding consciousness and restraint co-occur
+    the corresponding Consciousness and restraint co-occur
 
 determination through a contingent deed
     an occasional avijñapti is produced and gains temporal depth
@@ -345,8 +350,8 @@ and the conditional temporal possession of a middle person’s avijñapti.
 
 **Former Philosophical Translation.**
 > Mind-following restraint exists presently only with its corresponding
-> consciousness: meditation restraint while concentration is occurring, and
-> uncontaminated restraint while the noble Path is occurring. A person
+> Consciousness: meditation restraint while concentration is occurring, and
+> Pure restraint while the noble Path is occurring. A person
 > established in neither restraint nor non-restraint has no necessary
 > avijñapti-system, yet a particular deed may produce an occasional
 > non-manifest determination. In its first moment that determination is
@@ -361,7 +366,7 @@ determination without converting the `madhyastha` into a metaphysical Middle.
 Class: Restraint
 Class: NonRestraint
 Class: MeditationBornRestraint
-Class: UncontaminatedRestraint
+Class: PureRestraint
 Class: Concentration
 Class: NoblePath
 Class: ConcentratedPractitioner
@@ -406,7 +411,7 @@ Rule: PresentMeditationRestraint
     and actuallyEnteredInto(?p, Concentration)
     -> endowedWith(?p, PresentAvijnapti)
 
-Rule: PresentUncontaminatedRestraint
+Rule: PresentPureRestraint
     NoblePathPractitioner(?p)
     and actuallyEnteredInto(?p, NoblePath)
     -> endowedWith(?p, PresentAvijnapti)
@@ -432,7 +437,7 @@ Constraint: EmergenceExcludesPresentMindFollowingRestraint
     EmergedPractitioner
     is not presently endowedWith
     the corresponding MeditationBornRestraint
-    or UncontaminatedRestraint
+    or PureRestraint
 
 Constraint: EpisodeDoesNotEstablishSystem
     possession of OccasionalAvijnapti

@@ -120,18 +120,19 @@ Bhāṣya does not treat this first answer as the end of inquiry.
 ## 5. Translation
 
 ### Literal Translation
-> Restraint is undertaken for life or for one day and night. Non-restraint is
-> not recognized for merely one day and night, since it is not ordinarily
-> undertaken in that manner.
+> Restraint is undertaken for life or for one day and night. There is no
+> non-restraint for a day and night; for, it is said, it is not undertaken
+> in that way.
 
 ### Bhāṣya-informed study translation
 
-> Restraint is undertaken for life or for one day and night; non-restraint is
-> not ordinarily undertaken for merely one day and night.
+> Prātimokṣa restraint is undertaken for life or for one day and night. There
+> is no non-restraint for a day and night; for, it is said, no one undertakes
+> it in that way.
 
 ## 6. Philosophical Translation
 
-> Restraint is undertaken for life or for one day and night. Non-restraint is not recognized for merely one day and night, since it is not ordinarily undertaken in that manner.
+> Restraint is undertaken for life or for one day and night. There is no non-restraint for a day and night; for, it is said, it is not undertaken in that way.
 
 ## 7. Technical Vocabulary
 

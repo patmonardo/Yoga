@@ -32,23 +32,24 @@ dhyānasaṃvaro rūpāvacaraṃ śīlam. anāsravasaṃvaro 'nāsravaṃ śīla
 ```
 
 Word division and punctuation are editorial. The running witness reads
-`tābhyāṃ cetaro`; its division as `tābhyāṃ ca itaraḥ` is provisional, while
+`tābhyāṃ cetaro`; its construal as `tābhyāṃ ca itaraḥ` is provisional, while
 `naiva saṃvaro nāsaṃvaraḥ` makes the intended “neither” clear. The first
 `tatra punaḥ` ([205|15]) introduces the second line of 4.13; the later
 occurrence ([205|18]) leads into 4.14 and is omitted here to keep the natural
-unit boundary.
+unit boundary. The witness reads `ihatyānāṃ` in the identification of
+*prātimokṣa* restraint; its referent is not specified in this passage.
 
 ## 3. Continuous Translation
 
 The non-disclosing continuity mentioned earlier is to be understood as
 threefold: restraint, non-restraint, and that which is other than those two.
 There is restraint and there is non-restraint; the third class is neither.
-Restraint is the checking and stopping of the spread of misconduct.
+Restraint is the containment or stopping of the spread of misconduct.
 
-Restraint, in turn, is threefold: *prātimokṣa* restraint, meditation-born
-restraint, and Pure restraint. The Bhāṣya identifies them,
-respectively, as Desire Realm discipline, Form Realm discipline, and
-Pure discipline.
+Among these, restraint is called *prātimokṣa*, born from meditation, and Pure.
+Restraint is threefold. For those here, *prātimokṣa* restraint is Desire Realm
+discipline; meditation restraint is Form Realm discipline; and Pure restraint
+is Pure discipline.
 
 ## 4. Argument and Scope
 
@@ -94,5 +95,6 @@ realization.
 
 The source unit through [205|18] is translated; the eightfold
 *prātimokṣa* division beginning at [205|19] is reserved for the next verse.
-The segmentation of `tābhyāṃ cetaro` and the precise force of
-`ihatyānām` remain provisional.
+The construal of `tābhyāṃ cetaro` remains provisional. “For those here”
+renders `ihatyānāṃ` closely; the passage does not specify the referent of
+“here.”

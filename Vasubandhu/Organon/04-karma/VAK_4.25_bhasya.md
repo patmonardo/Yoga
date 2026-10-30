@@ -1,4 +1,4 @@
-# VAK 4.25 Bhāṣya — Manifestation and Non-Manifestation Come Apart
+# VAK_4.25 Bhāṣya — Manifestation and Non-Manifestation Come Apart
 
 ## 1. Kārikā Anchor
 
@@ -38,8 +38,9 @@ vijñaptyavijñaptisamanvāgamanavyavasthānam.
 Word division and punctuation are editorial. The running witness's
 `akukśalaṃ` is retained above, though the intended contrast is plainly
 `kuśala` / `akuśala`. Its compressed
-`anyatraupadhikapuṇyakriyāvastukarmapathebhyaḥ` is not silently
-resolved into a more specific class than the wording secures. The
+`anyatraupadhikapuṇyakriyāvastukarmapathebhyaḥ` is read provisionally
+with two exceptions: material bases of meritorious action and
+action-courses, both discussed in the 4.04 Bhāṣya. The
 last explanation of the noble person is also compressed; the
 translation below marks its two alternatives without claiming that
 all temporal details are settled.
@@ -52,8 +53,8 @@ neither restraint nor non-restraint, acting with weak intention, is
 endowed only with manifest action.” Such a person, performing a
 wholesome or unwholesome action with weak intention, is endowed with
 vijñapti alone and not with avijñapti. This is all the more so with
-indeterminate action, apart from the specified action-courses
-connected with material bases of merit-making.
+indeterminate action, apart from material bases of meritorious action
+and action-courses.
 
 “A noble person whose manifest action has been relinquished or has
 not yet arisen is endowed with non-manifest action.” A noble person is
@@ -75,9 +76,10 @@ person, this weakness of intention, and possession of the two action
 modes; it is not a reduction of all avijñapti to volition.
 
 `Prāgevāvyākṛte` adds “all the more with indeterminate action,” but
-`anyatra ...` limits that extension with a technical exception
-involving material bases of merit-making and action-courses. The
-exception's exact scope deserves further textual comparison. It
+`anyatra ...` limits that extension with two apparent exception
+classes: material bases of meritorious action and action-courses. The
+4.04 Bhāṣya discusses both as cases where avijñapti matters. The
+exception's precise scope here deserves further textual comparison. It
 should not be dropped merely to make the rule look universal.
 
 ## 5. Non-Manifest Action Without Manifest Action
@@ -110,6 +112,6 @@ Vasubandhu's own software or vow theory.
 ## 7. Review Status
 
 The complete source unit through [211|20–21] is translated. The
-`akukśalaṃ` reading and the merit-making exception remain visible,
-with the latter's exact scope provisional. No source witness has been
+`akukśalaṃ` reading and the two apparent exception classes remain visible,
+with their precise scope provisional. No source witness has been
 changed. The next verse begins with the acquisition of restraints.

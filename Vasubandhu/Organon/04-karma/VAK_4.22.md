@@ -135,17 +135,17 @@ This is commentary, not wording contained in the kārikā itself.
 ### Literal Translation
 > One established in non-restraint may be endowed with wholesome avijñapti,
 > and one established in restraint with unwholesome avijñapti, for as long as
-> the force of serene confidence or defilement continues.
+> the force of serene confidence or affliction continues.
 
 ### Bhāṣya-informed study translation
 
 > One established in non-restraint is endowed with wholesome non-disclosing
 > continuity, and one established in restraint with unwholesome non-disclosing
-> continuity, for as long as the force of prasāda or defilement continues.
+> continuity, for as long as the force of serene confidence or affliction continues.
 
 ## 6. Philosophical Translation
 
-> One established in non-restraint may be endowed with wholesome avijñapti, and one established in restraint with unwholesome avijñapti, for as long as the force of serene confidence or defilement continues.
+> One established in non-restraint may be endowed with wholesome avijñapti, and one established in restraint with unwholesome avijñapti, for as long as the force of serene confidence or affliction continues.
 
 ## 7. Technical Vocabulary
 

@@ -36,10 +36,10 @@ The Bhāṣya resolves the compressed second quarter: one who is endowed with
 | `aṣṭau` | nominative masculine plural numeral | the eight disciplinary classes |
 | `dhyānajena` | instrumental singular of `dhyāna-ja` | with the restraint born from or in dhyāna |
 | `tadanvitaḥ` | nominative masculine singular, `tad-anvita` | one endowed with that, namely dhyāna |
-| `anāsraveṇa` | instrumental singular of `anāsrava` | with uncontaminated restraint |
+| `anāsraveṇa` | instrumental singular of `anāsrava` | with Pure restraint |
 | `āryasattvāḥ` | nominative masculine plural | noble beings |
 | `antyau` | nominative masculine dual | the latter two |
-| `cittānuvartinau` | nominative masculine dual | following consciousness |
+| `cittānuvartinau` | nominative masculine dual | following Consciousness |
 
 **`anvita` and `samanvāgata`**
 
@@ -66,14 +66,14 @@ The compound therefore should not be forced into only one causal nuance.
 
 ```text
 citta + anuvartin
-    following consciousness
-    accompanying consciousness
-    continuing in conformity with consciousness
+    following Consciousness
+    accompanying Consciousness
+    continuing in conformity with Consciousness
 ```
 
-Here `citta` is rendered “consciousness.” The predicate is technical: the
+Here `citta` is rendered “Consciousness.” The predicate is technical: the
 restraint occurs and ceases in dependence upon the corresponding
-consciousness.
+Consciousness.
 
 ## 4. Grammar
 
@@ -121,7 +121,7 @@ anāsraveṇa ārya-sattvāḥ [anvitāḥ]
 
 The predicate of possession is carried forward elliptically:
 
-> Noble beings are endowed with uncontaminated restraint.
+> Noble beings are endowed with Pure restraint.
 
 **Final dual predication**
 
@@ -132,26 +132,26 @@ antyau citta-anuvartinau
 Both words are nominative dual. `Antyau`, “the latter two,” refers to:
 
 1. meditation-born restraint;
-2. uncontaminated restraint.
+2. Pure restraint.
 
-They—not prātimokṣa restraint—are predicated as following consciousness.
+They—not prātimokṣa restraint—are predicated as following Consciousness.
 
 ## 5. Translation
 
 ### Literal Translation
 > The eight are endowed with prātimokṣa restraint. One endowed with that
 > [dhyāna] is endowed with the restraint born from dhyāna. Noble beings are
-> endowed with uncontaminated restraint. The latter two follow consciousness.
+> endowed with Pure restraint. The latter two follow Consciousness.
 
 ### Bhāṣya-informed study translation
 
 > The eight [disciplinary classes] are endowed with prātimokṣa restraint; one
 > endowed with dhyāna is endowed with meditation-born restraint. Noble beings
-> have uncontaminated restraint. The latter two follow consciousness.
+> have Pure restraint. The latter two follow Consciousness.
 
 ## 6. Philosophical Translation
 
-> The eight are endowed with prātimokṣa restraint. One endowed with that [dhyāna] is endowed with the restraint born from dhyāna. Noble beings are endowed with uncontaminated restraint. The latter two follow consciousness.
+> The eight are endowed with prātimokṣa restraint. One endowed with that [dhyāna] is endowed with the restraint born from dhyāna. Noble beings are endowed with Pure restraint. The latter two follow Consciousness.
 
 ## 7. Technical Vocabulary
 
@@ -202,19 +202,25 @@ aśaikṣa
     one requiring no further training
 ```
 
-Both are endowed with uncontaminated restraint.
+Both are endowed with Pure restraint.
+
+**`anāsrava`**
+
+“Pure” renders “without influx” in this restraint classification. It does
+not mean “unconditioned”; the Bhāṣya predicates the restraint of noble
+persons and distinguishes its relation to Consciousness.
 
 **`acittaka`**
 
 `Acittaka`, a mindless condition, supplies the strongest contrastive test.
 Prātimokṣa restraint can continue even there. This does not make it absolutely
 uncaused or independent of a continuum; it establishes only that it does not
-require the corresponding consciousness to be presently occurring.
+require the corresponding Consciousness to be presently occurring.
 
 **`sahabhūhetu`**
 
 The Bhāṣya recalls the earlier doctrine of coexistent cause. Meditation-born
-and uncontaminated restraint follow consciousness as co-occurring
+and Pure restraint follow Consciousness as co-occurring
 determinations. Prātimokṣa restraint has a different mode of continuation.
 
 ## 8. Logical Determination
@@ -229,7 +235,7 @@ meditation-born restraint
     → whoever is endowed with dhyāna
     → sāmantaka included by extended designation
 
-uncontaminated restraint
+Pure restraint
     → noble persons
     → trainees and non-trainees
 ```
@@ -243,24 +249,24 @@ of the bearer.
 ```text
 mind-following persistence
     meditation-born restraint
-    uncontaminated restraint
+    Pure restraint
 
 non-mind-following continuation
     prātimokṣa restraint
 ```
 
 “Non-mind-following” must not be expanded into “uncaused,” “eternal,” or
-“independent of all consciousness.” It means that the restraint continues
-when another consciousness occurs and even in a mindless state.
+“independent of all Consciousness.” It means that the restraint continues
+when another Consciousness occurs and even in a mindless state.
 
 **The Bhāṣya’s contrastive proof**
 
 ```text
-if restraint R requires its corresponding present consciousness C,
+if restraint R requires its corresponding present Consciousness C,
 then R is cittānuvartin
 
-dhyāna restraint requires corresponding meditative consciousness
-uncontaminated restraint requires corresponding uncontaminated consciousness
+dhyāna restraint requires corresponding meditative Consciousness
+Pure restraint follows corresponding Consciousness
 
 therefore the latter two are cittānuvartin
 ```
@@ -268,8 +274,8 @@ therefore the latter two are cittānuvartin
 But:
 
 ```text
-prātimokṣa restraint continues with another consciousness
-prātimokṣa restraint continues without present consciousness
+prātimokṣa restraint continues with another Consciousness
+prātimokṣa restraint continues without present Consciousness
 
 therefore prātimokṣa restraint is not cittānuvartin
 ```
@@ -302,22 +308,22 @@ Aspects of a practical undertaking. VAK 4.17 now prevents those Aspects from
 being treated as a single undifferentiated mechanism. A determination can
 persist in more than one way.
 
-Meditation-born restraint and uncontaminated restraint are immediately
-correlative with determinate consciousness. When that consciousness is
+Meditation-born restraint and Pure restraint are immediately
+correlative with determinate Consciousness. When that Consciousness is
 present, its restraint is present; when it is absent, that restraint does not
 continue as though it had an independent substrate. Their form is
-`cittānuvartin`: consciousness and restraint occur together.
+`cittānuvartin`: Consciousness and restraint occur together.
 
 Prātimokṣa restraint has been acquired through an undertaking, but its
 continuation is not tied to the uninterrupted presence of the acquisition
-consciousness. It can traverse different mental states and even a mindless
+Consciousness. It can traverse different mental states and even a mindless
 condition. The vow would not govern a life if it disappeared whenever
 attention moved elsewhere.
 
 This gives positive precision to `avijñapti`. It need not be imagined as a
 hidden transcendent substance. It names a karmically effective determination
 whose mode of persistence cannot be reduced to a presently manifest act or a
-presently corresponding consciousness.
+presently corresponding Consciousness.
 
 **The practical Copula**
 
@@ -325,7 +331,7 @@ At the Organon level, the verse differentiates two operations of the practical
 Copula:
 
 ```text
-corresponding consciousness
+corresponding Consciousness
     ↔ its immediately accompanying restraint
 
 undertaking
@@ -341,7 +347,7 @@ continuum.
 
 This is the next turn of the wheel. The Middle does not merely project
 `vijñapti` and `avijñapti`; it differentiates the modes by which their unity is
-sustained. One form follows the present consciousness. Another, once
+sustained. One form follows the present Consciousness. Another, once
 instituted, holds across its alteration. The extremes are thus not detached
 entities but functional Aspects of distinct practical relations.
 
@@ -366,9 +372,9 @@ remaining an occasional intention.
 > The three forms of restraint are distributed according to their bearers
 > and their grounds. Prātimokṣa restraint belongs to the eight classes that
 > undertake it. Restraint born from meditative absorption belongs necessarily
-> to one established in that absorption, and uncontaminated restraint belongs
-> to noble beings. The latter two accompany the consciousness that grounds
-> them; prātimokṣa restraint can continue when the present consciousness has
+> to one established in that absorption, and Pure restraint belongs
+> to noble beings. The latter two accompany the Consciousness that grounds
+> them; prātimokṣa restraint can continue when the present Consciousness has
 > changed or is absent.
 
 This translation includes the Bhāṣya’s contrastive criterion. “Grounds” is
@@ -381,7 +387,7 @@ it is not a translation of a single Sanskrit term in the verse.
 Class: Restraint
 Class: PratimokshaRestraint
 Class: MeditationBornRestraint
-Class: UncontaminatedRestraint
+Class: PureRestraint
 Class: DisciplinaryClass
 Class: EightDisciplinaryClasses
 Class: DhyanaPossessor
@@ -413,7 +419,7 @@ DhyanaPossessor SubClassOf
     endowedWith some MeditationBornRestraint
 
 NoblePerson SubClassOf
-    endowedWith some UncontaminatedRestraint
+    endowedWith some PureRestraint
 
 Trainee SubClassOf NoblePerson
 NonTrainee SubClassOf NoblePerson
@@ -423,9 +429,9 @@ MeditationBornRestraint SubClassOf MindFollowingRestraint
 MeditationBornRestraint SubClassOf
     follows some CorrespondingConsciousness
 
-UncontaminatedRestraint SubClassOf Restraint
-UncontaminatedRestraint SubClassOf MindFollowingRestraint
-UncontaminatedRestraint SubClassOf
+PureRestraint SubClassOf Restraint
+PureRestraint SubClassOf MindFollowingRestraint
+PureRestraint SubClassOf
     follows some CorrespondingConsciousness
 
 PratimokshaRestraint SubClassOf Restraint
@@ -456,7 +462,7 @@ Rule: LatterTwoFollowConsciousness
     MeditationBornRestraint(?r)
     -> MindFollowingRestraint(?r)
 
-    UncontaminatedRestraint(?r)
+    PureRestraint(?r)
     -> MindFollowingRestraint(?r)
 
 Rule: PratimokshaContinuesAcrossMentalChange
@@ -466,5 +472,5 @@ Rule: PratimokshaContinuesAcrossMentalChange
 ```
 
 The formal distinction is modal rather than substantial: it records whether
-the restraint requires a corresponding present consciousness, not whether the
+the restraint requires a corresponding present Consciousness, not whether the
 restraint is conditioned at all.

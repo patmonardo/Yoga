@@ -64,6 +64,12 @@ The Bhāṣya paraphrases the expression with the dual
 `atītānāgatābhyām avijñaptibhyām`, “with past and future avijñaptis.” The
 translation therefore makes both temporal modes explicit.
 
+**`anāsrava`**
+
+“Pure” renders “without influx” for the noble person's restraint here.
+It does not mean unconditioned, and it is distinct from the past/future
+classification.
+
 **`abhyatīta`**
 
 In context `abhyatītayā` is understood as past avijñapti. The negation applies
@@ -104,9 +110,8 @@ preceding discussion:
 > One possessing meditation restraint is continually endowed with past and
 > future avijñapti.
 
-Present possession is supplied by its previously established status as
-`cittānuvartin`: the present restraint accompanies the corresponding present
-consciousness. The present verse adds the past and future modes.
+This verse specifies past and future possession. The conditions for present
+possession are stated in 4.21.
 
 **The noble exception**
 
@@ -119,9 +124,10 @@ na atītayā [avijñaptyā samanvāgataḥ]
 > The noble person is likewise; however, in the first moment he is not endowed
 > with past avijñapti.
 
-The Bhāṣya supplies “likewise” for uncontaminated restraint, then states the
-exception. At the first noble Path moment, present and future uncontaminated
-restraint are possessed, but no past instance exists.
+The Bhāṣya supplies “likewise” for Pure restraint, then states the
+exception. At the first noble Path moment, future Pure *avijñapti* is
+included by that comparison, but no past instance exists. Present
+possession is specified in 4.21.
 
 ## 5. Translation
 
@@ -135,8 +141,8 @@ restraint are possessed, but no past instance exists.
 
 > So too for one established in non-restraint. One possessing meditation-born
 > restraint is continually endowed with past and future *avijñapti*. A noble
-> person likewise, except that at the first moment past [uncontaminated
-> *avijñapti*] is absent.
+> person likewise, but in the first moment has no past [Pure
+> *avijñapti*].
 
 ## 6. Philosophical Translation
 
@@ -166,7 +172,7 @@ ethical value.
 
 The Bhāṣya calls the bearer one who has obtained meditation restraint. Such a
 bearer possesses the restraint as past and future, and possesses its present
-mode when the corresponding meditative consciousness occurs.
+mode when the corresponding meditative Consciousness occurs.
 
 **`janmāntaratyakta`**
 
@@ -185,18 +191,18 @@ the absolute beginning of this class of determination in the continuum.
 **`pūrvam anutpādita`**
 
 The first noble Path moment differs because the Path was “not previously
-produced.” No earlier uncontaminated restraint can therefore be possessed as
+produced.” No earlier Pure restraint can therefore be possessed as
 past at that moment.
 
 **`ārya`**
 
 Here `ārya` is not merely an honorific. It identifies the person in whom the
-uncontaminated Path has arisen. The temporal exception applies to the first
+Pure Path has arisen. The temporal exception applies to the first
 moment of that Path.
 
-**Three-times possession**
+**The temporal modes across 4.20–4.21**
 
-For meditation restraint, and for uncontaminated restraint apart from its
+For meditation restraint, and for Pure restraint apart from its
 first-moment exception, the analysis involves:
 
 ```text
@@ -205,8 +211,8 @@ present
 future
 ```
 
-The verse states past and future explicitly; present possession follows from
-the mind-following relation established in VAK 4.17.
+This verse states past and future possession. The following verse specifies
+present possession during the corresponding meditative or noble Path state.
 
 ## 8. Logical Determination
 
@@ -217,7 +223,7 @@ first present moment of recovered meditation restraint
     → past restraint possessed
 
 first present moment of the noble Path
-    → no past uncontaminated restraint possessed
+    → no past Pure restraint possessed
 ```
 
 The difference cannot be inferred from “first present moment” alone.
@@ -257,11 +263,11 @@ the determination has not been abandoned
 ```
 
 This inherited condition applies to non-restraint, meditation restraint, and
-uncontaminated restraint throughout the Bhāṣya’s discussion.
+Pure restraint throughout the Bhāṣya’s discussion.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya extends the preceding pattern to non-restraint: present *avijñapti* persists until abandonment, and after the first moment past *avijñapti* is also possessed. With meditation-born restraint, past and future *avijñapti* accompany present restraint while the corresponding consciousness is active. The noble person's uncontaminated restraint follows this pattern except that past *avijñapti* is absent at the first moment.
+**Translation note.** The Bhāṣya extends the preceding pattern to non-restraint: present *avijñapti* persists until abandonment, and after the first moment past *avijñapti* is also possessed. With meditation-born restraint, the verse states possession of past and future *avijñapti*. The noble person's Pure restraint follows this pattern except that past *avijñapti* is absent at the first moment. Present possession for these two restraints is specified in 4.21.
 
 **The present does not contain its whole truth immediately**
 
@@ -336,7 +342,7 @@ draws between recovered meditation restraint and the unprecedented noble Path.
 > present possession and, after its first moment, possession as past.
 > Meditation-born restraint can already possess a past at its first current
 > attainment because restraint abandoned in another birth is recovered; it
-> also possesses a future range. Uncontaminated restraint has no past at the
+> also possesses a future range. Pure restraint has no past at the
 > first noble Path moment because that Path has never before arisen in the
 > continuum.
 
@@ -351,7 +357,7 @@ Class: PracticalDetermination
 Class: Restraint
 Class: NonRestraint
 Class: MeditationBornRestraint
-Class: UncontaminatedRestraint
+Class: PureRestraint
 Class: NonRestraintBearer
 Class: MeditationRestraintBearer
 Class: NoblePerson
@@ -378,7 +384,7 @@ ObjectProperty: accompanies
 
 NonRestraint SubClassOf PracticalDetermination
 MeditationBornRestraint SubClassOf Restraint
-UncontaminatedRestraint SubClassOf Restraint
+PureRestraint SubClassOf Restraint
 
 PastAvijnapti SubClassOf
     hasTemporalMode some PastMode
@@ -413,9 +419,9 @@ Rule: MeditationRestraintHasFuture
 
 Constraint: FirstNoblePathMomentHasNoPast
     if NoblePerson p occurs in FirstNoblePathMoment
-    and UncontaminatedRestraint never previously arose in p
+    and PureRestraint never previously arose in p
     then p is not endowedWith PastAvijnapti
-    of UncontaminatedRestraint
+    of PureRestraint
 
 Constraint: FirstCurrentMomentDoesNotDeterminePastPossession
     first current occurrence
