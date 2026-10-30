@@ -7,6 +7,10 @@
 प्रतिक्षेपणसावद्यान्मद्यादेवान्यगुप्तये ॥ ४.३४ ॥
 ```
 
+The text above follows the running Bhāṣya's `anyaguptaye`. The separate
+kārikā witness has `anyuguptaye`; its final compound is not silently
+substituted into the reading translated here.
+
 ## 2. Sanskrit (IAST)
 
 ```iast
@@ -138,9 +142,9 @@ changes questions before introducing intoxicants.
 
 ### Bhāṣya-informed study translation
 
-> When any training rule is transgressed, an occasion for false speech arises;
-> and, because prohibited acts are censurable, abstention from intoxicants
-> alone is for guarding the others.
+> When any training rule is transgressed, false speech can follow; among faults
+> blameworthy through prohibition, abstention from intoxicants in particular
+> guards the other rules.
 
 ## 6. Philosophical Translation
 

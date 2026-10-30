@@ -17,7 +17,10 @@ maulebhyaḥ sarvakālebhyo dhyānānāsravasaṃvarau // 4.35 //
 
 
 The compact `sarva-ubhaya` receives two separate decompositions in the
-Bhāṣya. Neither “all” nor “both” may be left as a vague universal.
+Bhāṣya. Neither “all” nor “both” may be left as a vague universal. The
+separate kārikā witness spaces `dhyānānāsrava saṃvarau` as two words; the
+running Bhāṣya citation joins them. The difference does not alter the two
+restraints being named.
 
 ## 3. Lexical Analysis
 
@@ -92,7 +95,8 @@ divisions.
 **`vartamāna`**
 
 The Bhāṣya specifies present `skandha`, `āyatana`, and `dhātu` bases. Its
-reason is `sattvādhiṣṭhānapravṛttatva`: prātimokṣa operates with a living
+reason is `sattvādhiṣṭhānapravṛttatva` (the running witness reads
+`sattvādhiṣṭānapravṛttatvāt`): prātimokṣa operates with a living
 being as its support or objective basis. Past and future beings are not
 presently counted as living beings in that operative sense.
 

@@ -1,19 +1,21 @@
-# VAK 4.34 Bhāṣya — Truthful Disclosure and Guarding the Other Precepts
+# VAK_4.34 Bhāṣya — Truthful Disclosure and Guarding the Other Precepts
 
 ## 1. Kārikā Anchor
 
 > mṛṣāvādaprasaṅgāc ca sarvaśikṣāvyatikrame /
 > pratikṣepaṇasāvadyān madyād evānyaguptaye // 4.34 //
 
-> When any training rule is transgressed, an occasion for false speech arises;
-> and, because prohibited acts are censurable, abstention from intoxicants
-> alone is for guarding the others.
+> When any training rule is transgressed, false speech can follow; among faults
+> blameworthy through prohibition, abstention from intoxicants in particular
+> guards the other rules.
 
 The complete running unit begins at the question about false speech
 at [218|09–10] and ends with the explanation of intoxicants as a
 `pramādasthāna` at [219|10] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about the three
-kinds of restraint at [219|11–12] starts 4.35.
+kinds of restraint at [219|11–12] starts 4.35. The separate kārikā witness
+reads `anyuguptaye` where the running Bhāṣya citation at [218|19] reads
+`anyaguptaye`; the anchor follows the running citation.
 
 ## 2. Continuous Sanskrit
 
@@ -83,9 +85,8 @@ Word division and punctuation are editorial. The quoted instruction
 to monks has irregular quotation marks in the running source. The
 sentence at [219|01–02], notably `madnīyamātrānīyamanāt`, and the
 compound at [219|07–08] are damaged or difficult; their sense
-below is provisional. The research witness ends at [219|05] and
-summarizes [218|24–219|05]; this study restores the actual running
-passage through [219|10] without claiming a corrected edition.
+below is provisional. This study includes the running passage through
+[219|10] without claiming a corrected edition.
 
 ## 3. Continuous Translation
 
@@ -188,6 +189,5 @@ remain training rules, their faults, and heedlessness.
 
 The full source unit through [219|10] is present, including the
 Vinayadhara objection, Ābhidharmika reply, and the explanation of
-the precept's wording omitted from the research witness. Difficult
-readings are marked. The running source and research witness are
-unchanged; 4.35 begins with the question at [219|11–12].
+the precept's wording. Difficult readings are marked. The running
+source is unchanged; 4.35 begins with the question at [219|11–12].

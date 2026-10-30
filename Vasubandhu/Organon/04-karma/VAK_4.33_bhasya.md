@@ -1,18 +1,21 @@
-# VAK 4.33 Bhāṣya — The Determinate Scope of a Lay Vow
+# VAK_4.33 Bhāṣya — The Determinate Scope of a Lay Vow
 
 ## 1. Kārikā Anchor
 
 > mithyācārātigarhyatvāt saukaryād akriyāptitaḥ /
 > yathābhyupagamaṃ lābhaḥ saṃvarasya na saṃtate // 4.33 //
 
-> Because sexual misconduct is especially blameworthy, abstention is
-> practicable, and non-performance is acquired, restraint is acquired
-> according to the undertaking, not for the continuum as a whole.
+> Because sexual misconduct is especially blameworthy, abstaining from it is
+> practicable, and a restraint of non-doing is acquired, one gains restraint
+> according to the undertaking, not by reference to [the spouse's] continuum.
 
-The Kārikā witness reads `na saṃtate`; the separate Bhāṣya citation
-reads `na saṃtateḥ` at [218|05]. The anchor above follows the
-Kārikā witness, while the translation follows the Bhāṣya's
-explanation; neither reading is silently normalized. The natural unit runs from
+The Kārikā witness reads `na saṃtate`; the running Bhāṣya citation
+reads `na saṃtateḥ` at [218|05]. The separate Kārikā also reads
+`saukaryādākriyāptitaḥ`, while the running citation at [217|22] reads
+`saukaryādakriyāptitaḥ`; the prose `akriyāniyama` at [218|01–02] supports
+the privative reading used here. The anchor above follows the running
+Bhāṣya in the first half and the separate Kārikā in the second, while the
+translation follows the Bhāṣya's explanation. The natural unit runs from
 [217|20–21] through [218|07–08] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about false
 speech at [218|09–10] opens the next discussion.
@@ -151,4 +154,4 @@ The source unit through [218|07–08] is translated, including the
 three reasons, the marriage objection, and its answer. The
 `saṃtate`/`saṃtateḥ` difference and defective prose sentence
 remain explicit. The next false-speech question is reserved for
-4.34. The running source and research witness are unchanged.
+4.34. The running source is unchanged.

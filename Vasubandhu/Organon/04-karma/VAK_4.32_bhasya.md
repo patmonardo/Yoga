@@ -1,13 +1,13 @@
-# VAK 4.32 Bhāṣya — What the Three Refuges Protect
+# VAK_4.32 Bhāṣya — What the Three Refuges Protect
 
 ## 1. Kārikā Anchor
 
 > buddhasaṃghakarān dharmān aśaikṣān ubhayāṃś ca saḥ /
 > nirvāṇaṃ ceti śaraṇaṃ yo yāti śaraṇatrayam // 4.32 //
 
-> Whoever goes to the three refuges takes refuge in the aśaikṣa qualities that
-> constitute a Buddha, in both kinds of qualities that constitute the Saṅgha,
-> and in nirvāṇa.
+> Whoever goes to the Three Refuges takes refuge in the aśaikṣa dharmas that
+> make one a Buddha, in the dharmas of trainees and those beyond training that
+> make the Saṅgha, and in nirvāṇa.
 
 The natural unit starts with the question about restraint and refuge
 at [216|13–14] and ends with refuge as the gateway to undertaking
@@ -208,8 +208,8 @@ not of the Upaniṣadic Self or an explicitly named adhyāsa.
 ## 7. Review Status
 
 The continuous unit through [217|19], including the five cited
-refuge verses, is present in Sanskrit and conventional translation.
+refuge verses, is present in Sanskrit and continuous translation.
 The source's irregular forms and the uncertain future-Saṅgha phrase
 remain marked. Source doctrine and the Organon wheel remain
-separate. The research witness and running source are unchanged;
+separate. The running source is unchanged;
 the next topic starts at [217|20–21].

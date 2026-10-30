@@ -1,13 +1,13 @@
-# VAK 4.37 Bhāṣya — How Standing Karmic Forms Are Acquired
+# VAK_4.37 Bhāṣya — How Standing Karmic Forms Are Acquired
 
 ## 1. Kārikā Anchor
 
 > asaṃvarasya kriyayā lābho 'bhyupagamena vā /
 > śeṣāvijñaptilābhas tu kṣetrādānādarehanāt // 4.37 //
 
-> Non-restraint is acquired through action or deliberate undertaking. Other
-> non-disclosing continuity is acquired through a field, undertaking, and
-> earnest endeavor.
+> Non-restraint is acquired through action or deliberate adoption; the
+> remaining avijñapti is acquired through an efficacious field, an
+> undertaking, or earnest pursuit of an action.
 
 The complete unit runs from [222|08] through [222|16–17] in
 `Vasubandhu/Sources/kosabhasya.txt`. The announcement of the
@@ -108,4 +108,4 @@ Kośa's acquisition analysis; the passage itself classifies
 The full source unit through [222|16–17] is translated. The
 Kārikā's compact list is governed by the Bhāṣya's examples; the
 next announcement of `tyāga` is reserved for 4.38. The running
-source and research witness are unchanged.
+source is unchanged.

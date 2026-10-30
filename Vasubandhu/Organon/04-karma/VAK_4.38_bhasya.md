@@ -1,4 +1,4 @@
-# VAK 4.38 Bhāṣya — How Prātimokṣa Restraint Is Lost
+# VAK_4.38 Bhāṣya — How Prātimokṣa Restraint Is Lost
 
 ## 1. Kārikā Anchor
 
@@ -37,8 +37,9 @@ samādānaviruddhavijñaptyutpādād āśrayatyāgād
 ```
 
 Word spacing, punctuation, and the verse-end label are editorial.
-The source has `prātimokṣadamatyāgaḥ`; the Kārikā witness separates
-`prātimokṣadamas tyāgaḥ`. `Dama` is immediately glossed as
+Both the running source and the separate Kārikā witness print
+`prātimokṣadamatyāgaḥ` without a word break; the anchor divides it as
+`prātimokṣadamas tyāgaḥ` on syntactic grounds. `Dama` is immediately glossed as
 `saṃvara`, so this is the same restraint under discussion.
 The list of five in the verse is distributed by the prose: four
 general causes, plus one specific to `upavāsa`.
@@ -112,5 +113,5 @@ Kośa here analyzes prātimokṣa and upavāsa restraint.
 
 The full unit through [222|26–27] is translated, including the
 Bhāṣya's four-plus-one distribution and its corresponding causal
-explanations. The running source and research witness are
-unchanged; 4.39 takes up the alternative loss theories.
+explanations. The running source is unchanged; 4.39 takes up the
+alternative loss theories.

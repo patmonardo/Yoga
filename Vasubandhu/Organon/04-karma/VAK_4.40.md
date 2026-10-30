@@ -4,28 +4,18 @@
 
 ```sanskrit
 भूमिसंचारहानिभ्यां ध्यानाप्तं त्यज्यते शुभम् ।
-तथारूप्याप्तमार्यं तु फलाप्त्युत्पत्तिहानिभिः ॥ ४.४० ॥
+तथारूप्याप्तमार्यं तु फलाप्त्युत्तप्तिहानिभिः ॥ ४.४० ॥
 ```
 
-The kārikā witness transmits `फलाप्त्युत्पत्तिहानिभिः`, suggesting
-`utpatti`. The Bhāṣya anchor and its prose explanation instead establish
-`phalāptyuttaptihānibhiḥ`, with `uttapti` explained as strengthening of the
-faculties (`indriyottāpana`). The witness is preserved above; the
-Bhāṣya-supported reading governs the translation.
+Both the separate kārikā witness and the running Bhāṣya citation transmit
+`phalāptyuttaptihānibhiḥ`. The Bhāṣya explains `uttapti` through
+`indriyottāpana`, strengthening of the faculties.
 
 ## 2. Sanskrit (IAST)
 
-Kārikā witness:
-
 ```iast
 bhūmisaṃcārahānibhyāṃ dhyānāptaṃ tyajyate śubham /
-tathārūpyāptam āryaṃ tu phalāptyutpattihānibhiḥ // 4.40 //
-```
-
-Bhāṣya-supported final compound:
-
-```iast
-phalāpti-uttapti-hānibhiḥ
+tathārūpyāptam āryaṃ tu phalāptyuttaptihānibhiḥ // 4.40 //
 ```
 
 
@@ -279,12 +269,11 @@ when F is attained
 
 The Path’s temporal limit is internal to its function.
 
-**Textual correction controls conceptual result**
+**The witnessed reading controls the conceptual result**
 
-Reading `utpatti`, “arising,” would leave the middle cause vague. Reading
-`uttapti` through `indriyottāpana` gives a precise transition from
-weaker-faculty to stronger-faculty Path. The philosophical structure depends
-on the philological correction.
+Both witnesses read `uttapti`, and the prose `indriyottāpana` specifies a
+transition from weaker-faculty to stronger-faculty Path. The philosophical
+structure follows the witnessed reading and its Bhāṣya explanation.
 
 ## 9. Interpretive Note
 
@@ -352,7 +341,7 @@ This is not an external taxonomy. The cause of cessation expresses the kind
 of determination that was acquired.
 
 This is the Organon contact. The two meditative causes, three noble causes,
-and the `uttapti` correction belong explicitly to the Bhāṣya.
+and the explanation of `uttapti` belong explicitly to the Bhāṣya.
 
 **Former Philosophical Translation.**
 > A determination may cease because its sustaining ground has been left, its
@@ -435,10 +424,10 @@ Rule: RegressionLoss
     and FallingAway(?f)
     -> relinquishedThrough(?p, ?f)
 
-Constraint: UttaptiNotUtpatti
-    final compound is interpreted through indriyottapana
+Constraint: UttaptiExplained
+    witnessed final compound has uttapti
+    Bhāṣya explains it through indriyottapana
     as FacultyStrengthening
-    not generic arising
 
 Constraint: RelinquishmentModesRemainDistinct
     GroundTransition

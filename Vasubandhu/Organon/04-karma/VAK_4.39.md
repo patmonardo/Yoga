@@ -18,7 +18,11 @@ dhanarṇavat tu kāśmīrair āpannasyeṣyate dvayam // 4.39 //
 
 The verse reports three positions. It does not identify the Kāśmīra
 wealth-and-debt analogy as Vasubandhu’s own final conclusion. The Bhāṣya
-subjects that position to sustained criticism.
+subjects that position to sustained criticism. The separate kārikā witness
+reads `saddharmāntadhito` and `kāśmīrair`; the running Bhāṣya citation has
+`saddhamantirdhito` and `kādmīrair`. The IAST above gives an interpretive
+normalization of the first form and follows the separate kārikā for the
+second.
 
 ## 3. Lexical Analysis
 
@@ -138,7 +142,7 @@ determinations.
 
 > Some say restraint is lost through a downfall offense, others when the true
 > Dharma disappears; the Kāśmīras hold that the offender possesses both
-> restraint and non-restraint, as with wealth and debt.
+> discipline and misconduct, as with wealth and debt.
 
 ## 6. Philosophical Translation
 

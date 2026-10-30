@@ -1,4 +1,4 @@
-# VAK 4.29 Bhāṣya — The Eight Limbs as Functions and as a Whole
+# VAK_4.29 Bhāṣya — The Eight Limbs as Functions and as a Whole
 
 ## 1. Kārikā Anchor
 
@@ -6,8 +6,8 @@
 > catvāry ekaṃ tathā trīṇi smṛtināśo madaś ca taiḥ // 4.29 //
 
 > Four are limbs of discipline, one is a limb of heedfulness, and three are
-> limbs of observance, in order. Through those [factors] recollection is lost,
-> and intoxicated self-indulgence arises.
+> limbs of observance, in order. Without those supporting limbs, recollection
+> is lost and intoxication arises.
 
 The running Bhāṣya unit begins with the question at [214|03] and
 ends with the first-moment objection at [214|23–24] in
@@ -160,6 +160,6 @@ the argument, not a new translation of `aṅga`.
 
 The complete unit through [214|23–24] is translated. The running
 source's irregular examples and the unresolved force of the final
-whole–part objection remain explicit. The research witness and
-running source are unchanged; 4.30 begins with the eligibility
+whole–part objection remain explicit. The running source is
+unchanged; 4.30 begins with the eligibility
 question.

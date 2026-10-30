@@ -16,7 +16,9 @@ catvāry ekaṃ tathā trīṇi smṛtināśo madaś ca taiḥ // 4.29 //
 
 
 
-The final instrumental `taiḥ`, “through those,” is compressed. The Bhāṣya
+The final instrumental `taiḥ`, “through those,” is compressed. The Bhāṣya's
+preceding question supplies `anupāttaiḥ`, “when not undertaken”: loss of
+recollection and `mada` follow from omitting the protective limbs. It then
 distributes the causal functions: intoxicants destroy recollection, indulgent
 luxury produces `mada`, and abstention from untimely eating positively sustains
 recollection of the observance and `saṃvega`.
@@ -34,7 +36,7 @@ recollection of the observance and `saṃvega`.
 | `trīṇi` | nominative neuter plural numeral | three |
 | `smṛtināśaḥ` | nominative masculine singular compound | destruction of recollection |
 | `madaḥ` | nominative masculine singular | intoxication, self-inflation, indulgent exhilaration |
-| `taiḥ` | instrumental masculine/neuter plural pronoun | through those; by those factors |
+| `taiḥ` | instrumental masculine/neuter plural pronoun | with those [supporting limbs not undertaken, per the Bhāṣya] |
 
 
 **Word division (verse order).** `śīla-aṅgāni apramāda-aṅgam vrata-aṅgāni yathā-kramam / catvāri ekam tathā trīṇi smṛti-nāśaḥ madaḥ ca taiḥ //`
@@ -125,7 +127,9 @@ They accord with `saṃvega`, the sober urgency appropriate to the observance.
 
 **Force of the final pāda**
 
-The kārikā’s compression is expanded by the Bhāṣya:
+The Bhāṣya asks what would follow if the heedfulness and observance limbs
+were not undertaken. Its `anupāttaiḥ` determines the force of the verse's
+`taiḥ` here. The explanation then distributes the effects:
 
 ```text
 intoxicants
@@ -144,18 +148,18 @@ departure from ordinary meal-time
 
 ### Literal Translation
 > Respectively, four are limbs of discipline, one is a limb of heedfulness,
-> and three are limbs of observance. Through those [contrary factors] there is
-> destruction of recollection and intoxicated self-indulgence.
+> and three are limbs of observance. When those [supporting limbs] are not
+> undertaken, recollection is lost and intoxication arises.
 
 ### Bhāṣya-informed study translation
 
 > Four are limbs of discipline, one is a limb of heedfulness, and three are
-> limbs of observance, in order. Through those [factors] recollection is lost,
-> and intoxicated self-indulgence arises.
+> limbs of observance, in order. Without those supporting limbs, recollection
+> is lost and intoxication arises.
 
 ## 6. Philosophical Translation
 
-> Respectively, four are limbs of discipline, one is a limb of heedfulness, and three are limbs of observance. Through those [contrary factors] there is destruction of recollection and intoxicated self-indulgence.
+> Respectively, four are limbs of discipline, one is a limb of heedfulness, and three are limbs of observance. When those [supporting limbs] are not undertaken, recollection is lost and intoxication arises.
 
 ## 7. Technical Vocabulary
 

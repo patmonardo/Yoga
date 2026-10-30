@@ -18,7 +18,9 @@ ubhayavyañjanotpatter mūlacchedān niśātyayāt // 4.38 //
 
 The Bhāṣya distributes the list: ordinary prātimokṣa restraint has four
 causes of abandonment; upavāsa restraint has those four plus expiration at
-the end of the night.
+the end of the night. Both witnesses print `prātimokṣadamatyāgaḥ` without a
+word break; the IAST above divides it as `prātimokṣadamas tyāgaḥ` to expose
+the verse's predication.
 
 ## 3. Lexical Analysis
 

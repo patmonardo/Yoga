@@ -155,7 +155,7 @@ fewer beings within those predicates
 
 > Restraint is acquired with respect to all beings, though its limbs and
 > causes admit distinctions. Non-restraint is acquired with respect to all
-> beings and through all limbs, but not through causes.
+> beings and all limbs, but not through all causal strengths at once.
 
 ## 6. Philosophical Translation
 
@@ -437,6 +437,7 @@ Class: UniversalIntention
 Class: GoodConduct
 Class: RecognizedRestraintType
 Class: PrivateRestriction
+Class: NonFixedForm
 Class: VaibhasikaPosition
 Class: SautrantikaPosition
 
@@ -472,6 +473,7 @@ VaibhasikaRule: CompleteNonRestraint
 
 SautrantikaRule: ScopeFollowsUndertaking
     PrivateRestriction(?p)
+    and NonFixedForm(?p)
     -> allowedAccordingTo(?p, SautrantikaPosition)
 
 Constraint: NoBeingExceptionsInPratimoksa

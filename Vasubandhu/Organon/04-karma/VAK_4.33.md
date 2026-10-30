@@ -8,9 +8,12 @@
 ```
 
 The kārikā witness transmits `न संतते` without a final visarga. The Bhāṣya
-anchor transmits `na saṃtateḥ` and explains the expression through the
-practitioner’s continuum (`saṃtāna`). The difference is retained rather than
-silently normalized.
+anchor transmits `na saṃtateḥ`; its prose applies `saṃtāna` to the woman who
+becomes the lay follower's wife. The kārikā witness also has
+`saukaryādākriyāptitaḥ`, against the running Bhāṣya's
+`saukaryādakriyāptitaḥ`. The Sanskrit above follows the running Bhāṣya in
+the first half and the separate kārikā in the second; these differences are
+retained rather than silently normalized.
 
 ## 2. Sanskrit (IAST)
 
@@ -162,9 +165,9 @@ qualification into a doctrine about every possible implication of every vow.
 
 ### Bhāṣya-informed study translation
 
-> Because sexual misconduct is especially blameworthy, abstention is
-> practicable, and non-performance is acquired, restraint is acquired
-> according to the undertaking, not for the continuum as a whole.
+> Because sexual misconduct is especially blameworthy, abstaining from it is
+> practicable, and a restraint of non-doing is acquired, one gains restraint
+> according to the undertaking, not by reference to [the spouse's] continuum.
 
 ## 6. Philosophical Translation
 

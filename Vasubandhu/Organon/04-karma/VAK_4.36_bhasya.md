@@ -1,4 +1,4 @@
-# VAK 4.36 Bhāṣya — Universality, Partial Vows, and Non-restraint
+# VAK_4.36 Bhāṣya — Universality, Partial Vows, and Non-restraint
 
 ## 1. Kārikā Anchor
 
@@ -7,13 +7,11 @@
 
 > Restraint is acquired with respect to all beings, though its limbs and
 > causes admit distinctions. Non-restraint is acquired with respect to all
-> beings and through all limbs, but not through causes.
+> beings and all limbs, but not through all causal strengths at once.
 
 The natural source unit runs from [220|04–05] through [222|07] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question, **how**
 non-restraint is acquired, begins at [222|08] and opens 4.37.
-The research Bhāṣya omits substantial prose at [220|25–221|07]
-and [221|13–222|04]; this study restores it from the running text.
 
 ## 2. Continuous Sanskrit
 
@@ -284,8 +282,8 @@ not its own formulation of the Self or the Idea of the Good.
 ## 7. Review Status
 
 The complete unit through [222|07] is translated, including the
-previously omitted debate over impossible and extinct beings and
-the objections concerning family, occupation, and partial rules.
+debate over impossible and extinct beings and the objections
+concerning family, occupation, and partial rules.
 Irregular readings and the disputed five-limit sentence remain
-marked. The source and research witness are unchanged; the
+marked. The running source is unchanged; the
 question at [222|08] starts the next study.

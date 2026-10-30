@@ -1,4 +1,4 @@
-# VAK 4.30 Bhāṣya — Refuge, Lay Status, and Acquired Restraint
+# VAK_4.30 Bhāṣya — Refuge, Lay Status, and Acquired Restraint
 
 ## 1. Kārikā Anchor
 
@@ -6,8 +6,8 @@
 > upāsakatvopagamāt saṃvṛt uktis tu bhikṣuvat // 4.30 //
 
 > Upavāsa restraint may also belong to another, but not to one who has not
-> gone for refuge. Restraint arises from undertaking upāsaka status, while its
-> declaration follows, as in the case of a monk.
+> gone for refuge. Restraint arises from undertaking upāsaka status; the
+> training rules are stated afterward, as in the case of a monk.
 
 The running unit starts with the eligibility question at [214|25]
 and ends with the comparison to monks and novices at [215|12–13] in
@@ -141,5 +141,5 @@ Organon comparison, not an attribution of our vows to the sūtra.
 The complete source unit through [215|12–13] is translated, with
 the sūtra citation and opposing school claims retained. The
 `upavāsaka`/`upāsaka` variation, `anyatrājñānāt`, and the elliptical
-formula remain explicit. The running source and research witness
-are unchanged; 4.31 takes up the ensuing challenge.
+formula remain explicit. The running source is unchanged; 4.31 takes
+up the ensuing challenge.

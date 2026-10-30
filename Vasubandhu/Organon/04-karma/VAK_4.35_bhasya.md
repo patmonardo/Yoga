@@ -1,4 +1,4 @@
-# VAK 4.35 Bhāṣya — The Bases and Times of Three Restraints
+# VAK_4.35 Bhāṣya — The Bases and Times of Three Restraints
 
 ## 1. Kārikā Anchor
 
@@ -29,7 +29,7 @@ sarvebhya iti maulaprayogapṛṣṭhebhyaḥ /
 ubhayebhya iti sattvāsattvākhyebhyaḥ
 prakṛtipratikṣepaṇasāvadyebhyaś ca vartamānebhya eva
 skandhāyatanadhātubhyo labhyate /
-sattvādhiṣṭhānapravṛttatvāt nātītānāgatebhyaḥ /
+sattvādhiṣṭānapravṛttatvāt nātītānāgatebhyaḥ /
 teṣām asattvasaṃkhyātatvāt /
 
 maulebhyaḥ sarvakālebhyo dhyānānāsravasaṃvarau // 4.35 //
@@ -54,8 +54,10 @@ anāgatānām eva saṃvaraṇaṃ yujyate nātītavartamānānām /
 ```
 
 Spacing and punctuation are editorial. The running source's
-`skandha dhātvāyatanāti` and `sāmantakapṛṣṭhemyaḥ` are retained
-as uncertain forms. The latter is contextually parallel to
+`sattvādhiṣṭānapravṛttatvāt`, `skandha dhātvāyatanāti`, and
+`sāmantakapṛṣṭhemyaḥ` are retained as uncertain forms. The first is
+understood as `sattvādhiṣṭhānapravṛttatvāt` in the analysis; the last is
+contextually parallel to
 `sāmantakapṛṣṭhebhyaḥ` in the first corner, but no silent repair
 is made. The Sanskrit calls the three restraints
 `prātimokṣa`, `dhyāna`, and `anāsrava`; the verse calls the first
@@ -155,5 +157,5 @@ Vasubandhu.
 
 The whole unit through [220|02–03] is translated, including the
 four corners and the final temporal correction. Source irregularities
-remain visible. The running source and research witness are
-unchanged; the next study begins at [220|04–05].
+remain visible. The running source is unchanged; the next study
+begins at [220|04–05].

@@ -16,9 +16,9 @@ vegādānakriyārthāyurmūlacchedais tu madhyamā // 4.41 //
 
 
 
-The second compound names six causes of loss. Here `artha` is the Idea as a
-purposive determination realized in an enduring `vastu`, not merely an external
-thing and not an abstract meaning detached from practical realization.
+The second compound names six causes of loss. The Bhāṣya explains `artha`
+by listing concrete `vastu` such as a shrine or net. Reading the purposive
+determination realized in such a work as an Idea belongs to the Organon layer.
 
 ## 3. Lexical Analysis
 
@@ -32,7 +32,7 @@ thing and not an abstract meaning detached from practical realization.
 | `vega` | compound member | force, momentum, projected impulse |
 | `ādāna` | compound member | taking up or undertaking |
 | `kriyā` | compound member | activity, performance |
-| `artha` | compound member | Idea; purposive determination realized through a practical project |
+| `artha` | compound member | the relevant work or object (`vastu`) in the Bhāṣya; realized Idea in the Organon reading |
 | `āyus` | compound member | lifespan |
 | `mūla` | compound member | root; here wholesome root |
 | `cchedaiḥ` | instrumental plural from `cheda` under sandhi | through severances |
@@ -112,7 +112,7 @@ vega-ādāna-kriyā-artha-āyus-mūla-cchedaiḥ
 ```
 
 > Intermediate avijñapti, however, is relinquished through severance of its
-> force, undertaking, activity, Idea, lifespan, or root.
+> force, undertaking, activity, sustaining work, lifespan, or root.
 
 `Cheda` distributes across the compound, although `ādāna` is expressed in the
 prose as relinquishment of the undertaking. The understood feminine
@@ -129,14 +129,13 @@ prose as relinquishment of the undertaking. The understood feminine
 ### Bhāṣya-informed study translation
 
 > Non-restraint is relinquished through acquisition of restraint, death, or
-> the arising of both sexual characteristics. Other non-disclosing continuity
-> ceases through exhaustion of force, relinquishment of its undertaking,
-> cessation of activity, fulfillment of purpose, end of lifespan, or severance
-> of roots.
+> the arising of both sexual characteristics. Intermediate avijñapti ceases
+> when its force is cut off, its undertaking laid down, its activity stops,
+> its sustaining work is lost, its bearer dies, or wholesome roots are severed.
 
 ## 6. Philosophical Translation
 
-> Non-restraint is relinquished through acquisition of restraint, death, or the arising of both sexual characteristics. The intermediate [avijñapti], however, is relinquished through severance of force, undertaking, activity, Idea, lifespan, or root.
+> Non-restraint is relinquished through acquisition of restraint, death, or the arising of both sexual characteristics. The intermediate [avijñapti], however, is relinquished through severance of force, undertaking, activity, sustaining work, lifespan, or root.
 
 ## 7. Technical Vocabulary
 
@@ -174,26 +173,22 @@ must remain distinct.
 **Temporary upavāsa problem**
 
 Suppose a bearer of non-restraint undertakes one-day upavāsa. When the
-temporary restraint ends, two positions are recorded:
+temporary restraint ends, the Bhāṣya asks whether non-restraint returns or
+the person remains neither restrained nor non-restrained:
 
 ```text
-Position 1
-    non-restraint returns
-    because the intention to abandon it was not final
+one answer
+    non-restraint returns because renunciation was not final
 
-Position 2
-    non-restraint does not return automatically
-    reacquisition depends on a new vijñapti
+glowing-iron analogy
+    seems also to favor return without a new act
+
+vijñapti condition
+    raises an obstacle to automatic reacquisition
 ```
 
-The second position preserves a strict acquisition rule:
-
-```text
-prior history of non-restraint
-    ≠ automatic present reacquisition
-```
-
-The short exchange is anonymous, so no school attribution is forced.
+The speaker assignment of the analogy and final condition is compressed. The
+short exchange does not securely establish a settled second position.
 
 **Projected force: `vega`**
 
@@ -239,10 +234,9 @@ Where continuing performance sustains the avijñapti, failure to perform what
 was undertaken cuts that continuity. This cause is distinct from verbal
 relinquishment: the project may cease in practice without a formal statement.
 
-**Destruction of the realized `artha`**
+**Severance of `artha`**
 
-The Bhāṣya names the concrete `vastu` in which practical Ideas have been
-realized:
+The Bhāṣya answers “which `artha`?” by naming concrete `vastu`:
 
 ```text
 caitya
@@ -257,10 +251,8 @@ A meritorious construction or harmful device may continue to function as the
 objective realization of an earlier practical Idea. Destruction of that
 `vastu` removes the realized basis of the associated avijñapti.
 
-Thus `artha` is best translated here as “Idea”: not a merely subjective thought,
-but the purposive determination that has attained objective existence in a
-`vastu`. The Bhāṣya's concrete examples specify its embodiment rather than
-reducing `artha` to “Object.”
+The source identifies the work or object whose loss ends this avijñapti. The
+Organon reads its purposive determination as an Idea embodied in that `vastu`.
 
 **Life and wholesome root**
 
@@ -323,27 +315,26 @@ Persistence may therefore be mediated through an Idea that has achieved an
 enduring practical actuality, not only through an internal intention or
 repeated bodily motion.
 
-**Reacquisition requires a cause**
+**The reacquisition question remains open**
 
-The second upavāsa position refuses automatic return:
+The final `vijñapti` sentence presses a condition on reacquisition:
 
 ```text
 temporary contrary ends
     does not by itself regenerate prior non-restraint
 
-new vijñapti
-    supplies reacquisition condition
+vijñapti
+    is named as a condition of acquisition
 ```
 
-Loss of an opposing state and positive acquisition of the former state are
-different transitions.
+The heated-iron analogy appears to press the other way. The witness leaves
+their speaker alignment uncertain.
 
 ## 9. Interpretive Note
 
 **Translation note.** The superior strength of the contrary restraint and the sixfold prose
-distribution are supplied by the Bhāṣya; its examples show the `vastu` through
-which the `artha`, the practical Idea, remains realized.
-supplied by the Bhāṣya.
+distribution are supplied by the Bhāṣya. It glosses `artha` through concrete
+`vastu`; the practical Idea is an Organon determination of that relation.
 
 **Stopping is not conversion**
 

@@ -135,8 +135,8 @@ understand its determinate content.
 ### Bhāṣya-informed study translation
 
 > Upavāsa restraint may also belong to another, but not to one who has not
-> gone for refuge. Restraint arises from undertaking upāsaka status, while its
-> declaration follows, as in the case of a monk.
+> gone for refuge. Restraint arises from undertaking upāsaka status; the
+> training rules are stated afterward, as in the case of a monk.
 
 ## 6. Philosophical Translation
 

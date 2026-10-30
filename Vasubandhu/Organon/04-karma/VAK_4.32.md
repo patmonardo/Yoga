@@ -157,9 +157,9 @@ comprehension.
 
 ### Bhāṣya-informed study translation
 
-> Whoever goes to the three refuges takes refuge in the aśaikṣa qualities that
-> constitute a Buddha, in both kinds of qualities that constitute the Saṅgha,
-> and in nirvāṇa.
+> Whoever goes to the Three Refuges takes refuge in the aśaikṣa dharmas that
+> make one a Buddha, in the dharmas of trainees and those beyond training that
+> make the Saṅgha, and in nirvāṇa.
 
 ## 6. Philosophical Translation
 
@@ -320,9 +320,8 @@ made possible.
 ## 9. Interpretive Note
 
 **Translation note.** The examples `kṣayajñāna`, the eight noble persons, and
-`pratisaṃkhyānirodha` are Bhāṣya determinations. “Constitute” renders `-kara`
-without turning the constituting dharmas into a complete identity-definition
-of Buddha or Saṅgha.
+`pratisaṃkhyānirodha` are Bhāṣya determinations. “Make” renders `-kara` and
+keeps the distinction between these dharmas and their Buddha or Saṅgha bearer.
 
 **Determination constitutes the bearer**
 

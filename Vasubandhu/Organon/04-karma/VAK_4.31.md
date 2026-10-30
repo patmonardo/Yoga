@@ -163,8 +163,8 @@ not numerical division into parts.
 ### Bhāṣya-informed study translation
 
 > If all are restrained, how can there be one-part practitioners and the rest?
-> They are said to be so according to what they preserve, it is said;
-> [restraint] has degrees of weakness and the like, as does the mind.
+> They are reportedly named for the rules they preserve; [restraint] has
+> degrees of weakness and the like, as does the mind.
 
 ## 6. Philosophical Translation
 
@@ -404,7 +404,7 @@ three degrees of strength belong to the Bhāṣya itself.
 > to the mind-continuum in which it operates.
 
 This rendering keeps the Bhāṣya’s dispute open. It does not convert the
-reported Vaibhāṣika answer into the settled meaning of the kārikā.
+reported full-restraint answer into the settled meaning of the kārikā.
 
 ## 10. OWL++ Seed
 
@@ -427,7 +427,7 @@ Class: StrongRestraint
 Class: MindContinuum
 Class: TeachersPrescription
 Class: KasmiraPosition
-Class: VaibhasikaPosition
+Class: ReceivedFullRestraintPosition
 Class: OpposingPosition
 
 ObjectProperty: possesses
@@ -455,7 +455,7 @@ Rule: ReceivedPreservationAccount
     and possesses(?p, UpasakaRestraint)
     and preserves(?p, TrainingRule)
     -> designatedAs(?p, PractitionerDesignation)
-    and assertedAccordingTo(PractitionerDesignation, VaibhasikaPosition)
+    and assertedAccordingTo(PractitionerDesignation, ReceivedFullRestraintPosition)
 
 Rule: IntensityFromOwnContinuum
     UpasakaRestraint(?r)

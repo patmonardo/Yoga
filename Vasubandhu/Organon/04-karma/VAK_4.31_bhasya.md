@@ -1,4 +1,4 @@
-# VAK 4.31 Bhāṣya — Partial Practice and the Strength of Restraint
+# VAK_4.31 Bhāṣya — Partial Practice and the Strength of Restraint
 
 ## 1. Kārikā Anchor
 
@@ -6,8 +6,8 @@
 > tatpālanāt kila proktā mṛdvāditvaṃ yathā manaḥ // 4.31 //
 
 > If all are restrained, how can there be one-part practitioners and the rest?
-> They are said to be so according to what they preserve, it is said;
-> [restraint] has degrees of weakness and the like, as does the mind.
+> They are reportedly named for the rules they preserve; [restraint] has
+> degrees of weakness and the like, as does the mind.
 
 The running unit extends from [215|14] through [216|12–13] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question about refuge at
@@ -70,6 +70,8 @@ source's verse-end label with `4.31` are editorial. The unusual readings
 The later quotation has `paripūrṇakārī`; the two forms are not silently
 made identical. The quoted formula containing `prāṇāpetaṃ` is
 especially uncertain, and the passage itself disputes that reading.
+The separate Kārikā witness prints `tatpalanāt`; the running Bhāṣya
+witness has `tatpālanāt`, followed by the prose verb `pālayati`.
 
 ## 3. Continuous Translation
 
@@ -177,6 +179,6 @@ The complete 4.31 unit through [216|12–13] is translated. The
 reported answer, scriptural challenge, alternative designation
 proposal, Kāśmīra rejection, and final strength classification
 remain distinct. The uncertain citation and e-text forms need
-further witness comparison. The source and research files are
-unchanged; the refuge question beginning [216|13–14] belongs to
+further witness comparison. The running source is unchanged; the
+refuge question beginning [216|13–14] belongs to
 the next study.

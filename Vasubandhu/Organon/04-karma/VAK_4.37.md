@@ -147,9 +147,9 @@ list would obscure the relation between earnestness and striving.
 
 ### Bhāṣya-informed study translation
 
-> Non-restraint is acquired through action or deliberate undertaking. Other
-> non-disclosing continuity is acquired through a field, undertaking, and
-> earnest endeavor.
+> Non-restraint is acquired through action or deliberate adoption; the
+> remaining avijñapti is acquired through an efficacious field, an
+> undertaking, or earnest pursuit of an action.
 
 ## 6. Philosophical Translation
 

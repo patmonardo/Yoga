@@ -1,4 +1,4 @@
-# VAK 4.39 Bhāṣya — Can a Root Offense Leave Restraint Intact?
+# VAK_4.39 Bhāṣya — Can a Root Offense Leave Restraint Intact?
 
 ## 1. Kārikā Anchor
 
@@ -7,13 +7,13 @@
 
 > Some say restraint is lost through a downfall offense, others when the true
 > Dharma disappears; the Kāśmīras hold that the offender possesses both
-> restraint and non-restraint, as with wealth and debt.
+> discipline and misconduct, as with wealth and debt.
 
 The complete unit runs from [223|01] through [224|17–18] in
 `Vasubandhu/Sources/kosabhasya.txt`. The new question about
 meditation-born and uncontaminated restraint at [224|19] opens
-4.40. The research Bhāṣya abbreviates [223|23–224|16]; this
-study retains the intervening argument and marks difficult forms.
+4.40. This study includes the intervening argument and marks
+difficult forms.
 
 ## 2. Continuous Sanskrit
 
@@ -96,7 +96,9 @@ nāsti / labdhasya tu nāsti tyāgaḥ /
 
 Word division, punctuation, and replacement of the verse-end label
 are editorial. The running source's `saddhamantirdhito` and
-`kādmīrair` differ from the Kārikā witness above; several Vinaya
+`kādmīrair` differ from the separate Kārikā's `saddharmāntadhito`
+and `kāśmīrair`. The running source also has `saddharmāntardhāne bu`
+at [224|17], understood here as `tu`. Several Vinaya
 quotations and the string of analogies after `ākṛtimātrāvaśeṣatvāt`
 are visibly irregular. The translation preserves their argumentative
 role without claiming a recovered critical text. Speaker turns are
@@ -216,5 +218,5 @@ The entire argument through [224|17–18] is translated, including
 the Vinaya definitions, palm-tree analogy, exclusion arguments,
 and final distinction between new acquisition and continuing
 possession. Damaged source analogies and rapid speaker changes
-remain marked. The running source and research witness are
-unchanged; 4.40 begins at [224|19].
+remain marked. The running source is unchanged; 4.40 begins at
+[224|19].

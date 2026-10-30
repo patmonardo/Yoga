@@ -1,20 +1,19 @@
-# VAK 4.40 Bhāṣya — Relinquishment by Regression and by Advance
+# VAK_4.40 Bhāṣya — Relinquishment by Regression and by Advance
 
 ## 1. Kārikā Anchor
 
 > bhūmisaṃcārahānibhyāṃ dhyānāptaṃ tyajyate śubham /
-> tathārūpyāptam āryaṃ tu phalāptyutpattihānibhiḥ // 4.40 //
+> tathārūpyāptam āryaṃ tu phalāptyuttaptihānibhiḥ // 4.40 //
 
 > Wholesome determination acquired through dhyāna is relinquished through
 > transition of ground or falling away; that acquired through formless
 > attainments likewise. Noble determination, however, is relinquished through
 > fruit-attainment, strengthening of the faculties, or falling away.
 
-The Kārikā witness reads `phalāptyutpattihānibhiḥ`, but the
-running Bhāṣya verse reads `phalāptyuttaptihānibhiḥ`; its prose
-explains this as `indriyottāpana`, strengthening of the faculties.
-The anchor follows the Kārikā witness while retaining the Bhāṣya
-reading here. The unit runs from [224|19] through the closing line
+Both the separate Kārikā and the running Bhāṣya verse read
+`phalāptyuttaptihānibhiḥ`; the prose explains `uttapti` through
+`indriyottāpana`, strengthening of the faculties. The unit runs
+from [224|19] through the closing line
 at [225|02] in `Vasubandhu/Sources/kosabhasya.txt`. The next
 verse turns to the loss of non-restraint at [225|03].
 
@@ -43,8 +42,7 @@ evaṃ tāvat saṃvarās tyajyante /
 Word division, punctuation, and verse numbering are editorial.
 The running source has the difficult sequence `ūrdhvaṃ cāvaśyaṃ`
 and the likely irregular `mṛddhindriyamārgaḥ`; the translation
-keeps their contextual sense provisional. The Kārikā witness's
-`utpatti` is recorded above rather than silently replaced.
+keeps their contextual sense provisional.
 
 ## 3. Continuous Translation
 
@@ -90,9 +88,8 @@ The uncontaminated case has a different sequence:
 The word `tyāga` therefore does not by itself mean a moral or
 meditative failure. Two of the three noble-path cases are forms
 of progress. `Uttapti` is crucial here: the Bhāṣya's
-`indriyottāpana` makes strengthening of faculties explicit,
-whereas the separate Kārikā witness's `utpatti` would suggest
-mere arising and obscure the particular path being superseded.
+`indriyottāpana` makes strengthening of faculties explicit and
+identifies the weaker-faculty path being superseded.
 
 ## 5. Interpretation
 
@@ -108,7 +105,6 @@ claiming that Vasubandhu uses those terms in this passage.
 ## 6. Review Status
 
 The whole unit through [225|02], including its closing sentence,
-is translated. The `utpatti`/`uttapti` witness difference and
-two compressed prose expressions remain explicit. The running
-source and research witness are unchanged; 4.41 begins with
+is translated. Two compressed prose expressions remain explicit.
+The running source is unchanged; 4.41 begins with
 non-restraint at [225|03].
