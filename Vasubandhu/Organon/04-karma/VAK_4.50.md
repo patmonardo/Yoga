@@ -3,7 +3,7 @@
 ## 1. Sanskrit (Devanāgarī)
 
 ```sanskrit
-नियतामनियतं तच्च नियतं त्रिविधं पुनः ।
+नियतानियतं तच्च नियतं त्रिविधं पुनः ।
 दृष्टधर्मादिवेद्यत्वात् पञ्चधा कर्म केचन ॥ ४.५० ॥
 ```
 
@@ -43,8 +43,9 @@ dṛṣṭa-dharma-ādi-vedyatvāt pañcadhā karma kecana //
 
 **`niyata`**
 
-The Bhāṣya defines the opposition through necessity of fruition. `Niyata`
-karma is necessarily to be experienced, after which its time is specified.
+In the opening fourfold account, the Bhāṣya defines the opposition
+through necessity of fruition. `Niyata` karma is necessarily to be
+experienced, after which its time is specified.
 
 **`aniyata`**
 
@@ -53,8 +54,9 @@ na avaśya vedanīyam
     not necessarily to be experienced
 ```
 
-This is stronger than temporal uncertainty. The issue is whether fruition
-must occur, not merely whether its date is known.
+This opening gloss concerns whether fruition must occur. The
+attributed fivefold count then also distinguishes the absence of a
+fixed time from the certainty of maturation.
 
 **`dṛṣṭadharma`**
 
@@ -155,13 +157,13 @@ Karma whose maturation occurs after the next rebirth, in a later life.
 
 **The alternative fivefold classification**
 
-Some authorities divide the fourth member:
+Some authorities divide the class without a fixed time:
 
 ```text
-indeterminate as to being experienced
+without a fixed time of experience
     + maturation determinate
 
-indeterminate as to being experienced
+without a fixed time of experience
     + maturation indeterminate
 ```
 
@@ -177,7 +179,7 @@ fruit after different intervals.
 
 ## 8. Logical Determination
 
-**Modality before temporality**
+**The opening fourfold account**
 
 ```text
 KARMA(K)
@@ -195,6 +197,13 @@ NECESSARY_FRUITION(K)
         next life
         later life
 ```
+
+**The attributed fivefold account**
+
+Here timing and fruition are separately tested: absence of a fixed
+life of maturation does not by itself decide whether maturation
+will occur. The fourfold opening gloss `nāvaśyavedanīyam` does not
+exhaust the attributed fifth class.
 
 **Do not collapse the two indeterminacies**
 
@@ -217,7 +226,9 @@ karma is causally formed
 its fruit must become actual
 ```
 
-This is the modal contribution of `aniyata`.
+This is the modal contribution of `aniyata` in the opening
+fourfold account; the fivefold alternative introduces an
+untimed but maturation-determinate case.
 
 **Temporal range belongs to causal differentiation**
 

@@ -1,4 +1,4 @@
-# VAK 4.47 Bhāṣya — Karma Classified by the Feeling of Its Result
+# VAK_4.47 Bhāṣya — Karma Classified by the Feeling of Its Result
 
 ## 1. Kārikā Anchor
 
@@ -46,7 +46,7 @@ has the compact expression `kāmadhātustrīṇi ca dhyānāni`.
 
 “Wholesome karma is to be experienced pleasantly through the third
 dhyāna.” Wholesome karma is to be experienced pleasantly as far
-as the third dhyāna. For this is the range of pleasant feeling:
+as the third dhyāna. For the domain of pleasant feeling comprises
 the Desire Realm and the three dhyānas.
 
 “Above that, however, it is to be experienced as neither painful nor
@@ -65,7 +65,7 @@ accompaniments.
 Vasubandhu distributes the three classes announced in 4.45 by both
 the ethical quality of karma and the level of its maturation:
 
-| Karma | Range named here | Feeling of maturation |
+| Karma | Range named here | Feeling character of the fruit |
 |---|---|---|
 | Wholesome | Desire Realm through the third dhyāna | Pleasant |
 | Wholesome | Above the third dhyāna | Neither painful nor pleasant |
@@ -77,7 +77,7 @@ The second carries forward `śubham`, again explicitly noted in the
 Bhāṣya. `Iha` does work in the third: it restricts unwholesome karma
 to the Desire Realm.
 
-The explanation concerns the feeling character of *maturation*.
+The explanation concerns the feeling character of the karmic *fruit*.
 It does not say that an actor necessarily feels pleasure or pain
 while performing the action. The next verse will test the scope
 of this initial distribution; it should not be treated as the last
@@ -99,7 +99,8 @@ determination from the felt character under which its result later
 appears. The result's feeling is one aspect of its concrete
 configuration, not the entire appearance. This is an Organon
 comparison; the source's own claim concerns `vedanīya` karma and
-its `vipāka`.
+its `phala`. The preceding verse specifies the relevant
+`vipāka` relation.
 
 ## 7. Review Status
 

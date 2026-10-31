@@ -1,4 +1,4 @@
-# VAK 4.51 Bhāṣya — Four Corners and the Projection of a Rebirth Series
+# VAK_4.51 Bhāṣya — Four Corners and the Projection of a Rebirth Series
 
 ## 1. Kārikā Anchor
 
@@ -82,7 +82,7 @@ those three actions here.
 
 “Three kinds project a rebirth series.” Of these four kinds of karma,
 present-life-result karma does not project a `nikāyasabhāga`, a
-continuum of the same class. In which Realm, and in which destiny,
+same-class rebirth continuum. In which Realm, and in which destiny,
 can how many kinds of karma be initiated? “Everywhere, four kinds
 can be initiated.” In all three Realms and all destinies, the four
 kinds can be initiated as wholesome or unwholesome, as applicable.
@@ -129,9 +129,17 @@ For the Practical Reason of our agent, this verse is a worked
 example of case classification. It keeps assurance of a result,
 temporal placement, initiation of action, and projection of a
 future series as separate questions. The hell case then tests a
-general rule against the conditions of a particular Realm. This
-is our methodological use of the passage; the source's claims
-remain about karma, Realms, and destinies.
+general rule against the conditions of a particular Realm.
+
+Read in sequence, 4.49 establishes the different relations under
+which something is called *experienced*; 4.50 asks whether and when
+the karmic result becomes experience; 4.51 crosses those modal and
+temporal determinations and asks which actions project the
+same-class continuum in which future experience can occur. This
+is a substantial Kośa basis for our Hegel–Yoga **Logic of
+Experience**. The systematic title and comparison are Organon
+determinations; Vasubandhu's explicit claims here concern karma,
+Realms, and destinies.
 
 ## 7. Review Status
 

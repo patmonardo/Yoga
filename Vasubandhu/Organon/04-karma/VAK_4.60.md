@@ -56,8 +56,8 @@ kāmāpta śubha karma
 
 **`nirāsrava / anāsrava`**
 
-The kārikā uses `nirāsrava`; the Bhāṣya uses the standard `anāsrava`. Both mean
-karma without influxes in this passage.
+The kārikā uses `nirāsrava`; the running Bhāṣya witness has `anasrava`,
+construed as `anāsrava`. Both terms mean karma without influxes here.
 
 **`tatkṣaya`**
 
@@ -77,8 +77,8 @@ yathā-kramam
 kṛṣṇam śuklam ubhayam [bhavati]
 ```
 
-> Unwholesome karma, wholesome karma of the Form Realm, and wholesome karma of the Desire Realm
-> karma are respectively black, white, and both.
+> Unwholesome karma, wholesome karma of the Form Realm, and wholesome karma
+> of the Desire Realm are respectively black, white, and both.
 
 `Yathākramam` controls the ordered distribution. “Both” is clarified by the
 Bhāṣya at the level of the continuum, not as one karma with two intrinsic
@@ -214,7 +214,7 @@ black / white / mixed karma
 
 anāsrava karma
     → no ordinary vipāka
-    → opposes continued karmic production
+    → opposes ongoing conditioned becoming (pravṛtti)
     → conduces to exhaustion of karma
 ```
 
@@ -253,22 +253,22 @@ Formless Realm is omitted in this formulation, calls outflow-free karma neither
 black nor white and without maturation, and says it exhausts the other three
 classes.
 
-**Kleśa as Ground and its absence**
+**Productive karma and karma without influxes**
 
-The first three classes remain within action grounded by conditioned
-affliction and its maturation. The fourth is determined through absence of the
-influx-ground:
+The first three classes are productive karmas differentiated by their
+respective maturations. The Bhāṣya calls black karma afflicted; it does not
+call all three classes afflicted. The fourth lacks influxes:
 
 ```text
-kleśa-ground present
-    → reproductive karma
+black / white / mixed karma
+    → productive karma with maturation
 
-kleśa-ground absent
-    → anāsrava activity
+anāsrava karma
+    → without maturation
     → exhaustion rather than further production
 ```
 
-The absence is not an empty nothing. It changes the function of activity.
+The absence of influxes changes the function of activity in this account.
 
 **`Tadabhāva` as practical transformation**
 

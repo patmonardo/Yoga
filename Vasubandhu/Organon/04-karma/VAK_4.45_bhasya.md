@@ -1,4 +1,4 @@
-# VAK 4.45 Bhāṣya — Karma as Security, Merit, and Felt Result
+# VAK_4.45 Bhāṣya — Karma as Security, Merit, and Felt Result
 
 ## 1. Kārikā Anchor
 
@@ -36,7 +36,7 @@ avyākṛtam ity arthaḥ / punaḥ
 
 puṇyāpuṇyam aviñjaṃ ca sukhavedyādi ca trayam // 4.45 //
 
-trīṇi karmāṇi puṇyam apuṇyam āneñjaṃ ca /
+trīṇī karmāṇi puṇyam apuṇyam āneñjaṃ ca /
 punaḥ trīṇi /
 sukhavedanīyaṃ karma duḥkhavedanīyam
 aduḥkhāsukhavedanīyaṃ ca /
@@ -46,7 +46,9 @@ Word division, punctuation, and verse numbering are editorial.
 The running source reads `aviñjaṃ` in the third pāda, while the
 Kārikā witness reads `aniñjaṃ` and the explanatory prose has
 `āneñjaṃ`. The prose supports the technical sense “immovable,”
-but the variation is not hidden. Other compressed forms in the
+but the variation is not hidden. The running source also has
+`trīṇī` in the second enumeration, beside `trīṇi` in the first;
+the unusual form is retained. Other compressed forms in the
 source, including `kameti`, are left visible.
 
 ## 3. Continuous Translation
@@ -127,6 +129,7 @@ The complete opening unit through [227|12–13] is translated.
 The first two apparent triads are related as mark and class;
 the following two triads are retained as announcements rather
 than explained in advance. The `aviñja`/`aniñja`/`āneñja`
-variation remains explicit. The running source and research
-witness are unchanged; 4.46 begins after `tatra tāvat` at
+variation and the second enumeration's `trīṇī` remain explicit.
+The running source and research witness are unchanged; 4.46
+begins after `tatra tāvat` at
 [227|13].

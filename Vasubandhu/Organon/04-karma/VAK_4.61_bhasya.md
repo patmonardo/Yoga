@@ -1,4 +1,4 @@
-# VAK 4.61 Bhāṣya — Twelve Volitions That End Black Karma
+# VAK_4.61 Bhāṣya — Twelve Volitions That End Black Karma
 
 ## 1. Kārikā Anchor
 
@@ -23,19 +23,21 @@ cāṣṭāsvānantaryamārgeṣu yā cetanā seyaṃ dvādaśavidhā cetanā
 kṛṣṇasya karmaṇaḥ prahāṇāya karma /
 ```
 
-The unit runs from [235|22] through [236|04]. `Anāsravaṃ` is
-written `anāsravaṃ` here as in the source question; line breaks,
-punctuation, and verse numbering are editorial. The ninth path
+The unit runs from [235|22] through [236|04]. The source question's
+`sarvamanāsravaṃ` is construed as `sarvam anāsravaṃ`; line
+breaks, punctuation, and verse numbering are editorial. The ninth path
 belongs to the next verse, beginning at [236|05].
 
 ## 3. Continuous Translation
 
 Does all karma without influxes lead to the exhaustion of all three
-kinds of karma just described? No, it is said. What, then? On the
-Path of Seeing there are four `dharmajñānakṣānti` states; in
-detachment from the Desire Realm there are eight uninterrupted
-paths. The volition occurring in these twelve path-moments is karma
-whose function is the abandonment of black karma.
+kinds of karma just described? No, it is said. What, then? “Volition
+in the dharma-kṣāntis and the eight uninterrupted paths of detachment
+is twelvefold; that karma serves to exhaust black karma.” On the Path
+of Seeing, these are the four `dharmajñānakṣānti` states; in detachment
+from the Desire Realm, they are the eight uninterrupted paths. The
+volition occurring in these twelve path-moments is karma for the
+abandonment of black karma.
 
 ## 4. Which Karma Without Influxes Does What?
 

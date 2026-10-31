@@ -1,4 +1,4 @@
-# VAK 4.52 Bhāṣya — Detachment and the Karma One Can Still Produce
+# VAK_4.52 Bhāṣya — Detachment and the Karma One Can Still Produce
 
 ## 1. Kārikā Anchor
 
@@ -45,8 +45,9 @@ Word division, punctuation, and verse number are editorial. The
 running e-text has `thara iti vartate` where context strongly points
 to `sthira iti vartate` (“stable continues”), and has
 `tatropapadyadanīyaṃ` and `laparihīṇasya`, both suspect. These
-forms are preserved above; the readable translation indicates where
-it relies on the local context rather than a secure reading.
+forms are preserved above; the readable translation follows the
+local context, while the final rule about dying remains a
+contextual reading of the damaged word.
 
 ## 3. Continuous Translation
 
@@ -65,15 +66,13 @@ experienced there in a later life. Such a person cannot return to a
 lower level. They might make indeterminate karma, and present-life
 karma if born there.
 
-“Even one liable to fall back does not, with respect to the desire
+“Even one liable to fall back does not, with respect to the Desire
 Realm or the summit.” A noble person who is liable to fall back,
 yet has become free of desire for the Desire Realm or for the
 summit of existence, cannot make karma for either of those levels
 to be experienced at the next birth or in a later life. Why? Such
 a person falls back from the fruit. As will be explained later, one
 who has fallen from the fruit does not die in that fallen condition.
-The final statement is contextually clear but rests on a damaged
-word in this e-text.
 
 ## 4. Three Cases, Three Scopes
 
@@ -93,7 +92,9 @@ The prohibition concerns karma newly made under the stated
 conditions. It does not by itself say that every earlier karma for
 that level has ceased. Nor does the permission for `aniyata`
 karma imply assured fruition; 4.50 defined that class by the
-absence of necessity.
+absence of necessity in its opening fourfold account. Its
+attributed fivefold account also allows an untimed karma whose
+maturation is determinate.
 
 ## 5. Practical Determination
 

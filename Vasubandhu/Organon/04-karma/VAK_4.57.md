@@ -33,7 +33,7 @@ witness variant is retained in the Bhāṣya study.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `kuśalasya` | genitive neuter singular | of wholesome [karma] |
-| `avitarkasya` | genitive neuter singular | without vitarka; belonging to the non-discursive range |
+| `avitarkasya` | genitive neuter singular | without `vitarka`; here beginning with intermediate dhyāna |
 | `karmaṇaḥ` | genitive neuter singular | of karma |
 | `vedanā` | nominative feminine singular | feeling |
 | `matā` | nominative feminine singular past participle | held; regarded |
@@ -47,7 +47,9 @@ witness variant is retained in the Bhāṣya study.
 **`avitarka`**
 
 This is not a general description of quiet thought. It technically marks karma
-from `dhyānāntara` through `bhavāgra`, where `vitarka` is absent.
+from `dhyānāntara` through `bhavāgra`, where `vitarka` is absent. Intermediate
+dhyāna still has `vicāra` (VAK 8.23); `avitarka` alone does not mean that both
+factors are absent.
 
 **`caitasikī vedanā`**
 
@@ -61,7 +63,7 @@ exclusive painful maturation-feeling directly produced by unwholesome karma.
 
 ## 4. Grammar
 
-**Wholesome non-discursive karma**
+**Wholesome karma without `vitarka`**
 
 ```text
 kuśalasya avitarkasya karmaṇaḥ
@@ -69,7 +71,7 @@ vedanā vipākaḥ
 caitasikī eva matā
 ```
 
-> For wholesome karma belonging to the non-discursive range, the feeling that
+> For wholesome karma without `vitarka`, the feeling that
 > constitutes maturation is held to be exclusively mental.
 
 `Caitasikī` agrees with `vedanā`; `vipākaḥ` states the relation in which that
@@ -145,12 +147,13 @@ therefore
 **Accompaniment and direct maturation**
 
 ```text
-mental distress accompanies painful result
+mental distress occurring alongside bodily pain
     does not entail
 mental distress is the vipāka produced by that karma
 ```
 
-This preserves causal role as well as phenomenological presence.
+This is a possible experiential relation, not an additional claim made by
+the Bhāṣya. The stated exclusion is that `daurmanasya` is not `vipāka`.
 
 **`vedanā-pradhāna vipāka`**
 
@@ -240,10 +243,10 @@ psychophysical continuum, each governed by determinate causal constraints.
 
 **Direct result versus reaction to result**
 
-Mental distress can arise in response to bodily pain. Vasubandhu's claim is
-not that this never happens, but that the distress is not the direct vipāka of
-the unwholesome karma. This distinction is essential for precise Kriyā/Karma
-analysis.
+Mental distress could arise in response to bodily pain, but this passage does
+not discuss that sequence. Its stated claim is that distress cannot serve as
+the maturation of unwholesome karma. The distinction between a possible
+reaction and direct maturation is useful for Kriyā/Karma analysis.
 
 **Dharmapāda contact**
 
@@ -280,7 +283,6 @@ Class: PleasantFeeling
 Class: PainfulFeeling
 Class: MentalDistress
 Class: VitarkaVicaraMode
-Class: NonDiscursiveMode
 Class: IntermediateDhyana
 Class: SummitOfExistence
 

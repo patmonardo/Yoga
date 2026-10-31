@@ -1,4 +1,4 @@
-# VAK 4.59 Bhāṣya — Crookedness, Fault, Stain, and Four Karmas
+# VAK_4.59 Bhāṣya — Crookedness, Fault, Stain, and Four Karmas
 
 ## 1. Kārikā Anchor
 
@@ -44,7 +44,8 @@ The source unit is [234|19]–[235|03]. The witness reads `śaṭhyajaṃ` in
 the prose explanation, `kāyavaṅkok`, and `punaḥḥ`; these are retained
 above rather than silently normalized. Verse numbering, line breaks,
 and quotation marks are editorial. The allocation of the four
-classes starts with 4.60 at [235|04].
+classes starts with 4.60 at [235|04]. The final `tatra` is an open
+connective leading into that allocation.
 
 ## 3. Continuous Translation
 
@@ -56,7 +57,7 @@ of actions born of deceit, hatred, and attachment. Bodily action
 born of deceit is called bodily crookedness because it follows
 deviousness; the same applies to crooked speech and mind. Bodily
 action born of hatred is called a bodily fault because it follows
-the corruption of mind; the same applies to faults of speech and
+the corruption of Consciousness; the same applies to faults of speech and
 mind. Bodily action born of attachment is called a bodily stain
 because it follows coloring by attachment; the same applies to
 stains of speech and mind.
@@ -65,8 +66,8 @@ stains of speech and mind.
 white.” The cited sūtra states: there is black karma with black
 maturation; white karma with white maturation; black-and-white karma
 with black-and-white maturation; and karma neither black nor white,
-without maturation, which leads to the exhaustion of karma. The
-Bhāṣya now turns to the allocation of these classes.
+without maturation, which leads to the exhaustion of karma. As for
+these—
 
 ## 4. Two Sūtra Classifications
 
@@ -96,6 +97,6 @@ the source's particular ethical judgments remain Abhidharma claims.
 
 ## 6. Review Status
 
-The complete unit [234|19]–[235|03] is translated. Two visible
-witness irregularities remain marked; the fourfold allocation is
+The complete unit [234|19]–[235|03] is translated. The three noted
+witness readings remain marked; the fourfold allocation is
 reserved for 4.60. Research and running-source files are unchanged.

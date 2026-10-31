@@ -22,7 +22,7 @@ navame cetanā yā sā kṛṣṇa-śukla-kṣayāya ca /
 ```
 
 The Bhāṣya distinguishes intrinsic destruction from abandonment through the
-elimination of afflictions that take wholesome karma as their object.
+elimination of afflictions that take wholesome karma as their Support.
 
 ## 3. Lexical Analysis
 
@@ -143,15 +143,15 @@ after being called abandoned.
 ```text
 abandonment of wholesome karma
     = abandonment of every kleśa
-      that takes that karma as ālambana
+      that takes that karma as Support (ālambana)
 ```
 
 So long as even one such affliction remains, abandonment is incomplete.
 
 **Why only the final uninterrupted path**
 
-The final path is required because only then has the last object-taking
-affliction been eliminated. Earlier paths weaken the relation-system without
+The final path is required because only then has the last affliction taking
+it as Support been eliminated. Earlier paths weaken the relation-system without
 yet exhausting it.
 
 ## 8. Logical Determination
@@ -174,7 +174,7 @@ INTRINSIC_NEGATION(X)
     → destroy X itself
 
 RELATIONAL_NEGATION(X)
-    → eliminate every afflicted relation R to X
+    → eliminate every affliction taking X as Support
 ```
 
 Vasubandhu chooses the second for wholesome karma.
@@ -192,16 +192,16 @@ Instead:
 ```text
 ABANDONED(X)
     iff
-no remaining kleśa takes X as ālambana
+no remaining kleśa takes X as Support (ālambana)
 ```
 
 **Completion is exhaustion of the relation-system**
 
 ```text
-one object-taking kleśa remains
+one kleśa taking it as Support remains
     → abandonment incomplete
 
-last object-taking kleśa removed
+last kleśa taking it as Support removed
     → abandonment complete
 ```
 
@@ -215,7 +215,7 @@ Bhāṣya. The ninth uninterrupted path of detachment from the Desire Realm aban
 both black-and-white wholesome karma and the ninth grade of black unwholesome karma.
 The final uninterrupted path for each of the four dhyānas abandons white karma.
 Wholesome karma is not destroyed in its own nature: abandonment removes the
-remaining afflictions that take it as object.
+remaining afflictions that take it as Support.
 
 **This is the exact logic of `tadabhāva`**
 
@@ -247,18 +247,19 @@ kleśa-ground absent
 
 **Practical liberation preserves positive content**
 
-The Path does not purify by annihilating everything it encounters. It removes
-the relations through which positive contents become supports of attachment
-and renewed karmic production.
+The Path does not purify by annihilating everything it encounters. Here it
+removes the afflictions having wholesome karma as Support while that karma
+can still manifest.
 
 **The final path is systemic completion**
 
-The last operation is final because no supporting affliction remains, not
+The last operation is final because no affliction taking it as Support remains, not
 because its intensity simply exceeds the earlier paths. Completion is
 structural exhaustion.
 
 This is the Organon contact. The double target, four dhyāna-paths, rejection of
-intrinsic destruction, and object-taking-affliction account belong to the
+intrinsic destruction, and account of afflictions taking wholesome karma as
+Support belong to the
 Bhāṣya.
 
 **Former Philosophical Translation.**
@@ -266,8 +267,8 @@ Bhāṣya.
 > ways. The final Desire Realm operation completes the abandonment of the last
 > black type and the mixed wholesome field. White karma, however, is not
 > annihilated as positive content: the Path removes every afflictive relation
-> that can appropriate it as an object. Abandonment is complete when the final
-> supporting kleśa-relation has disappeared, even though the wholesome dharma
+> that can take it as Support. Abandonment is complete when the final
+> kleśa that takes it as Support has disappeared, even though the wholesome dharma
 > remains capable of manifestation.
 
 Negation is therefore relational transformation rather than destruction of
@@ -286,14 +287,12 @@ Class: PathVolition
 Class: NinthDesireRealmDetachmentPath
 Class: FinalDhyanaDetachmentPath
 Class: Affliction
-Class: ObjectTakingAffliction
-Class: Object
 Class: IntrinsicDestruction
 Class: RelationalAbandonment
 
 ObjectProperty: occursInPathStage
 ObjectProperty: targetsForAbandonment
-ObjectProperty: takesAsObject
+ObjectProperty: takesAsSupport
 ObjectProperty: eliminatesRelation
 ObjectProperty: mayBecomeManifest
 
@@ -302,7 +301,6 @@ BlackWhiteKarma SubClassOf WholesomeKarma
 WhiteKarma SubClassOf WholesomeKarma
 WholesomeKarma SubClassOf Karma
 PathVolition SubClassOf Volition
-ObjectTakingAffliction SubClassOf Affliction
 
 Rule: NinthPathCompletesDesireRealmAbandonment
     PathVolition(?c)
@@ -315,11 +313,11 @@ Rule: FinalDhyanaPathsAbandonWhiteKarma
     and occursInPathStage(?c, FinalDhyanaDetachmentPath)
     -> targetsForAbandonment(?c, WhiteKarma)
 
-Rule: FinalDhyanaAbandonmentEliminatesObjectTakingAfflictions
+Rule: FinalDhyanaAbandonmentEliminatesSupportTakingAfflictions
     WhiteKarma(?k)
     and occursInPathStage(?c, FinalDhyanaDetachmentPath)
-    and ObjectTakingAffliction(?a)
-    and takesAsObject(?a, ?k)
+    and Affliction(?a)
+    and takesAsSupport(?a, ?k)
     and PathVolition(?c)
     -> eliminatesRelation(?c, ?a)
 
@@ -333,7 +331,7 @@ Constraint: AbandonedWholesomeKarmaMayManifest
 
 Constraint: CompletionRequiresLastAfflictionRemoved
     abandonment is complete only when
-    no ObjectTakingAffliction remains
+    no Affliction taking that WholesomeKarma as Support remains
 ```
 
 The seed models wholesome abandonment as elimination of afflictive relations

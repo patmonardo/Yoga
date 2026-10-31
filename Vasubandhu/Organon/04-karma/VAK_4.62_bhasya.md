@@ -1,4 +1,4 @@
-# VAK 4.62 Bhāṣya — The Ninth Path and the Abandonment of White Karma
+# VAK_4.62 Bhāṣya — The Ninth Path and the Abandonment of White Karma
 
 ## 1. Kārikā Anchor
 
@@ -53,30 +53,30 @@ the dhyānas [serves to exhaust] white karma.” For one becoming
 detached from each dhyāna, the volition in its final, ninth
 uninterrupted path is fourfold; it abandons white karma. Why is
 wholesome karma abandoned by the final uninterrupted path and not
-another? Its own nature is not
-destroyed, since it can still come to presence even after its
-abandonment. Rather, the afflictions that take it as their object
-are abandoned. Therefore, so long as even one kind of such
-object-directed affliction remains, its abandonment cannot occur.
+another? Its own nature is not destroyed, since it can still come
+to presence even after its abandonment. Rather, the afflictions
+that take it as their Support (`ālambana`) are abandoned. Therefore,
+so long as even one kind of affliction having it as Support remains,
+its abandonment cannot occur.
 
 ## 4. Abandonment Is Not Intrinsic Destruction
 
 Two terminal moments are distinguished. The ninth Desire Realm
-uninterrupted path ends the mixed wholesome class and the ninth grade
-of black unwholesome karma. The final uninterrupted path for each of four dhyānas
-ends white karma associated with that level.
+uninterrupted path abandons the mixed wholesome class and the ninth
+grade of black unwholesome karma. The final uninterrupted path for
+each of four dhyānas abandons white karma associated with that level.
 
 The explanation of `prahāṇa` is the crucial limit. A wholesome
 karma can still become manifest after its “abandonment,” so the
-Bhāṣya does not mean destruction of its `svabhāva`. Its relevant
-afflictive relations as an object have ceased. The final path is
+Bhāṣya does not mean destruction of its `svabhāva`. The afflictions
+having it as Support have ceased. The final path is
 needed because the abandonment is incomplete while any such
 affliction remains.
 
 ## 5. Interpretation
 
-The study distinguishes removing a thing from removing the
-afflictive relation to that thing. A classification that treats
+The study distinguishes destroying a wholesome karma from removing
+afflictions having it as Support. A classification that treats
 `prahāṇa` as literal erasure would miss the Bhāṣya's explicit
 possibility of renewed manifestation. The broader application is
 our interpretive use of the distinction; the specified ninth

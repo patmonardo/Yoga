@@ -314,6 +314,7 @@ IndeterminateStatus SubClassOf ModalStatus
 
 Rule: SameContinuumGroundsPresentExistenceResult
     Karma(?k)
+    and DeterminateKarma(?k)
     and producedIn(?k, ?a)
     and maturesIn(?k, ?b)
     and belongsToContinuum(?a, ?n)

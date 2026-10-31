@@ -1,4 +1,4 @@
-# VAK 4.56 Bhāṣya — Exceptional Field: Saṅgha and Five Emergent States
+# VAK_4.56 Bhāṣya — Exceptional Field: Saṅgha and Five Emergent States
 
 ## 1. Kārikā Anchor
 
@@ -64,7 +64,7 @@ arhatship, the result of benefiting or harming them is experienced
 at once.”
 
 One who has emerged from the attainment of cessation obtains supreme
-peace of mind, because the attainment resembles nirvāṇa. It is as
+peace of Consciousness, because the attainment resembles nirvāṇa. It is as
 though that person had gone to nirvāṇa and returned. The continuum
 of one who has emerged from `araṇā` proceeds suffused with an
 intention of non-contention toward immeasurable beings and with an

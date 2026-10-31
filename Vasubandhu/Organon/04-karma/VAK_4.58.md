@@ -1,4 +1,4 @@
-# VAK_4.58 — Disturbance of Mind and Its Conditions
+# VAK_4.58 — Disturbance of Consciousness and Its Conditions
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -28,8 +28,8 @@ bodily maturation that immediately conditions it.
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `cittakṣepaḥ` | nominative masculine singular compound | derangement or displacement of mental functioning |
-| `manaścitte` | locative neuter singular compound | in mental cognition; in manovijñāna |
+| `cittakṣepaḥ` | nominative masculine singular compound | disturbance of Consciousness |
+| `manaścitte` | locative neuter singular compound | in Mind Cognition; glossed as `manovijñāna` |
 | `saḥ` | nominative masculine singular pronoun | it; that derangement |
 | `karma-vipāka-jaḥ` | nominative masculine singular compound | born from karmic maturation |
 | `bhaya` | compound member | fear |
@@ -37,18 +37,18 @@ bodily maturation that immediately conditions it.
 | `vaiṣamya` | compound member | disequilibrium or bodily imbalance |
 | `śokaiḥ` | instrumental masculine plural | through grief |
 | `ca` | conjunction | and; also |
-| `akurukāminām` | genitive masculine plural; division disputed | see the competing Kārikā and Bhāṣya readings below |
+| `akurukāminām` | genitive masculine plural compound | among Desire Realm beings other than the Kurus |
 
 **`cittakṣepa`**
 
-This is derangement of mental functioning, including disruption of stable
+This is disturbance of Consciousness, including disruption of stable
 orientation and recollection. The Bhāṣya distinguishes it from `vikṣepa`,
 afflictive distraction.
 
 **`manaścitta`**
 
-The Bhāṣya glosses this as `manovijñāna`, the mental cognition-series. The five
-sensory cognition-series are excluded because they are `avikalpaka`.
+The Bhāṣya glosses this as `manovijñāna`, Mind Cognition. The five
+sensory Cognition-series are excluded because they are `avikalpaka`.
 
 **`vipākaja`**
 
@@ -57,11 +57,13 @@ the manifest derangement is itself the immediate maturation.
 
 **`akurukāminām`: population phrase**
 
-The Kārikā's compound admits the division `a-kuru-kāminām` (“among
-Desire Realm beings outside the Kurus”). The Bhāṣya instead gives
-`akuruṇāṃ kāminām` (“among those without compassion in the Desire Realm”).
-The running witness preserves the compressed form, so the intended division
-and population range remain uncertain.
+The Kārikā's `a-kuru-kāminām` means Desire Realm beings other than the
+Kurus. The running Bhāṣya witness has the irregular `akuruṇāṃ kāminām`;
+the parallel Chinese Bhāṣya explicitly excludes Northern Kuru (`除北俱盧`)
+while retaining the other Desire Realm beings. See [Xuanzang's
+translation, T1558, chapter 15](https://deerpark.app/cbeta/T1558/15).
+The earlier reading “without compassion” mistook this geographical
+exclusion for a moral qualification.
 
 ## 4. Grammar
 
@@ -72,7 +74,7 @@ citta-kṣepaḥ
 manaḥ-citte [bhavati]
 ```
 
-> Mental derangement occurs in mental cognition.
+> Disturbance of Consciousness occurs in Mind Cognition.
 
 The locative identifies the cognitive series in which the disturbance occurs.
 
@@ -97,7 +99,7 @@ a-kuru-kāminām
 ```
 
 > It also occurs through fear, injury, bodily imbalance, and grief among the
-> beings designated by `akurukāminām`; the population phrase is disputed.
+> beings of the Desire Realm other than the Kurus.
 
 The instrumental compound supplies proximate causes; the genitive gives the
 range of beings in the text's cosmology.
@@ -105,29 +107,29 @@ range of beings in the text's cosmology.
 ## 5. Translation
 
 ### Literal Translation
-> Mental derangement occurs in mental cognition. It may be born from karmic
-> maturation and may also arise through fear, injury, bodily imbalance, or
-> grief among those designated by the disputed `akurukāminām`.
+> Disturbance of Consciousness occurs in Mind Cognition. It may be born from
+> karmic maturation and may also arise through fear, injury, bodily imbalance, or
+> grief among Desire Realm beings other than the Kurus.
 
 ### Bhāṣya-informed study translation
 
-> Mental derangement occurs in mental cognition; it is born from karmic
-> maturation, and also from fear, injury, imbalance, and grief among those
-> called `akurukāminām`.
+> Disturbance of Consciousness occurs in Mind Cognition; it is born from karmic
+> maturation, and also from fear, injury, imbalance, and grief among Desire
+> Realm beings other than the Kurus.
 ## 6. Philosophical Translation
 
-> Mental derangement occurs in mental cognition. It may be born from karmic maturation and may also arise through fear, injury, bodily imbalance, or grief among those designated by the disputed `akurukāminām`.
+> Disturbance of Consciousness occurs in Mind Cognition. It may be born from karmic maturation and may also arise through fear, injury, bodily imbalance, or grief among Desire Realm beings other than the Kurus.
 
 ## 7. Technical Vocabulary
 
-**Why derangement occurs in mental cognition**
+**Why disturbance occurs in Mind Cognition**
 
 ```text
-five sensory vijñāna-series
+five sensory Cognition-series
     avikalpaka
     → not locus of cittakṣepa
 
-manovijñāna
+Mind Cognition (`manovijñāna`)
     supports recollection and practical differentiation
     → locus of cittakṣepa
 ```
@@ -146,12 +148,12 @@ lose recollection. Such karma may later condition one's own derangement.
 past karma
     → disturbance of mahābhūtas as vipāka
     → constitutional disequilibrium
-    → disturbed mental cognition
+    → disturbed Mind Cognition
     → loss of recollection and orientation
 ```
 
-The deranged mind is `vipākaja`, but the bodily disturbance is the immediate
-`vipāka`.
+The disturbed Consciousness is `vipākaja`, but the bodily disturbance is
+the immediate `vipāka`.
 
 **Proximate conditions**
 
@@ -183,7 +185,8 @@ vikṣepa
 ```
 
 Vasubandhu treats them as logically independent: either, both, or neither can
-be present.
+be present. The first quadrant is damaged in the running Sanskrit witness;
+Xuanzang's parallel Bhāṣya gives a disturbed but unafflicted Consciousness.
 
 ## 8. Logical Determination
 
@@ -238,16 +241,19 @@ More than one causal level can be true of the same occurrence.
 The distinction prevents mental disturbance from being treated automatically
 as moral or afflictive fault.
 
+The disturbed but unafflicted quadrant is supported by the Chinese parallel;
+the running Sanskrit witness's first member is corrupt.
+
 ## 9. Interpretive Note
 
 **Translation note.** The exclusion of the sensory series and the mediate bodily
 causal sequence are supplied by the Bhāṣya. The Bhāṣya excludes the five sensory
 cognition-series and explains a mediate route: karmic maturation disturbs the bodily
-constitution through the Great Elements, after which mental cognition and
-recollection are disordered. It reads the population phrase as `akuruṇāṃ kāminām`
-(“those without compassion in the Desire Realm”); the competing division
-`a-kuru-kāminām` (“Desire Realm beings outside the Kurus”) remains possible, so the
-population range is unresolved.
+constitution through the Great Elements, after which Mind Cognition and
+recollection are disordered. The running Bhāṣya witness reads
+`akuruṇāṃ kāminām`, but the Kārikā's `a-kuru-kāminām` and Xuanzang's parallel
+translation identify the range as Desire Realm beings other than those of
+Northern Kuru. The Sanskrit prose spelling remains irregular.
 
 **Practical Dependent Origination**
 

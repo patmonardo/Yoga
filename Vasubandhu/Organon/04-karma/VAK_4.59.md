@@ -135,7 +135,7 @@ explanation.
 
 ```text
 dveṣa
-    → corruption of mind
+    → corruption of Consciousness
     → doṣa karma
 ```
 

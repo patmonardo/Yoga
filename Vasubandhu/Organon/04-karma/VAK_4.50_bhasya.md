@@ -1,4 +1,4 @@
-# VAK 4.50 Bhāṣya — Whether and When Karma Ripens
+# VAK_4.50 Bhāṣya — Whether and When Karma Ripens
 
 ## 1. Kārikā Anchor
 
@@ -64,12 +64,13 @@ means that its result is not necessarily to be experienced.
 “The determinate is again threefold, beginning with what is to be
 experienced in this life.” These are karma to be experienced in the
 present life, in the next birth, and on a later occasion. These
-three determinate classes together with karma whose result is
-indeterminate make four kinds.
+three determinate classes together with karma not necessarily to
+be experienced make four kinds.
 
 “Some count karma fivefold.” Others hold that karma has five kinds
-by dividing the indeterminate class in two: determinate with respect
-to maturation and indeterminate with respect to maturation. Karma
+by dividing the class without a fixed time of experience in two:
+determinate with respect to maturation and indeterminate with respect
+to maturation. Karma
 to be experienced in the present life ripens in the birth in which
 it was performed; karma to be experienced at the next birth ripens
 in the second birth; karma to be experienced on a later occasion
@@ -78,8 +79,8 @@ ripens after that.
 Others say that even karma called “to be experienced in the present
 life” can have its maturation in a different birth; its name is
 established according to the circumstance of its initiation. A
-following compressed sentence appears to raise a problem about an
-undesirable result of a karma whose result was thought desirable;
+following compressed sentence appears to raise a problem about a
+less desirable maturation of karma regarded as desirable;
 the exact argument is uncertain in this e-text. The Vaibhāṣikas do
 not accept the proposed extension. For some karma bears fruit soon
 and not at a distance, while other karma does the reverse, like
@@ -101,11 +102,13 @@ inevitable. Its basic count is:
 | `aniyatavedanīya` | Not necessarily to be experienced |
 
 The fivefold count is attributed to `apare`, “others.” They split
-the last class according to whether `vipāka` is determinate or
-indeterminate. This introduces two questions that the opening labels
-alone can obscure: **is maturation assured, and is its life fixed?**
-The next verse develops the distinction more formally. We should
-not silently assign this alternative count to the Vaibhāṣikas.
+`aniyatavedanīya` according to whether `vipāka` is determinate or
+indeterminate. In the initial fourfold account, `aniyata` is glossed
+as “not necessarily to be experienced.” In this attributed fivefold
+account, the split also requires a class **without a fixed time of
+experience but with determinate maturation**. The next verse makes
+the timing and maturation axes explicit. This alternative count is
+not silently assigned to the Vaibhāṣikas.
 
 ## 5. The Dispute Over “This Life”
 

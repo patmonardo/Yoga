@@ -22,7 +22,7 @@ saṃmukhī-bhāvataḥ ca iti pañcadhā vedanīyatā //
 ```
 
 The compound expressions expand into five grounds: intrinsic nature,
-association, object-support, maturation, and present manifestation.
+association, Support, maturation, and present manifestation.
 
 ## 3. Lexical Analysis
 
@@ -30,7 +30,7 @@ association, object-support, maturation, and present manifestation.
 |---|---|---|
 | `svabhāva` | compound member | intrinsic nature; own character |
 | `saṃprayogābhyām` | instrumental dual | by intrinsic nature and association |
-| `ālambana` | compound member | object-support of cognition or feeling |
+| `ālambana` | compound member | Support relation of cognition or feeling |
 | `vipākataḥ` | ablative adverbial formation | by or through maturation |
 | `saṃmukhībhāvataḥ` | ablative adverbial formation | through present manifestation |
 | `ca` | conjunction | and |
@@ -50,8 +50,8 @@ saṃmukhībhāvataḥ
 
 **`ālambana`**
 
-`Ālambana` is the object insofar as cognition or feeling takes it as support.
-It names a functional object-relation, not the intrinsic nature of the object.
+`Ālambana` is the Support relation under which a Condition (`viṣaya`)
+is taken in experience. It is distinct from the Condition's own nature.
 
 **`saṃmukhībhāva`**
 
@@ -69,7 +69,7 @@ svabhāva-saṃprayogābhyām
 saṃmukhībhāvataḥ ca
 ```
 
-> By intrinsic nature and association, by object-support and maturation, and
+> By intrinsic nature and association, by Support and maturation, and
 > by present manifestation.
 
 The instrumental dual expresses the first pair. The adverbial forms in
@@ -92,15 +92,15 @@ that license the designation `vedanīya`.
 
 ### Literal Translation
 > The condition of being “to be experienced” is fivefold: by intrinsic nature,
-> association, object-support, maturation, and present manifestation.
+> association, Support, maturation, and present manifestation.
 
 ### Bhāṣya-informed study translation
 
 > Being designated “to be experienced” is fivefold: through its own nature,
-> association, an object, maturation, and present manifestation.
+> association, Support, maturation, and present manifestation.
 ## 6. Philosophical Translation
 
-> The condition of being “to be experienced” is fivefold: by intrinsic nature, association, object-support, maturation, and present manifestation.
+> The condition of being “to be experienced” is fivefold: by intrinsic nature, association, Support, maturation, and present manifestation.
 
 ## 7. Technical Vocabulary
 
@@ -126,10 +126,10 @@ Contact is not identical with feeling; it is conjoined with it.
 
 ```text
 viṣaya
-    is vedanīya as the object-support of feeling
+    is vedanīya as a Condition taken as Support by feeling
 ```
 
-The object is what feeling takes up, not feeling's intrinsic nature.
+The Condition is what feeling takes up as Support, not feeling's intrinsic nature.
 The antecedent of feminine `tām` in the e-text is uncertain; the translation
 does not assign it a more specific referent.
 
@@ -151,11 +151,10 @@ absent. One does not experience the pleasant feeling through a second feeling
 standing over against it. By bringing that feeling into present manifestation,
 one is said to experience it.
 
-**Bathing and drinking analogy**
+**The preceding bathing analogy**
 
-The Bhāṣya compares the relational usage to something “for bathing” or “for
-drinking.” The designation expresses what a thing enables or produces rather
-than identifying its intrinsic nature.
+The bathing comparison occurs at the end of 4.48. It prepares the
+relational usage explained here but is not part of the 4.49 unit.
 
 ## 8. Logical Determination
 
@@ -172,7 +171,7 @@ remains semantically incomplete until its relation is specified:
 ```text
 VEDANIYA(X, by intrinsic nature)
 VEDANIYA(X, by association)
-VEDANIYA(X, by object-support)
+VEDANIYA(X, by Support)
 VEDANIYA(X, by maturation)
 VEDANIYA(X, by present manifestation)
 ```
@@ -210,8 +209,8 @@ predication.
 **Translation note.** The assignment of examples to the five grounds and the
 concluding application to karma are supplied by the Bhāṣya. The five grounds are
 illustrated respectively by feeling itself, contact associated with feeling, an
-object taken through feeling, karma through its maturation, and a feeling through
-present occurrence. On this basis karma is called pleasant-, painful-, or
+Condition taken as Support through feeling, karma through its maturation,
+and a feeling through present occurrence. On this basis karma is called pleasant-, painful-, or
 neutral-to-be-experienced because of its maturation, not because karma itself is
 feeling.
 
@@ -223,7 +222,7 @@ does not settle semantic determination:
 ```text
 X is P
     may conceal
-identity, association, object-relation,
+identity, association, Support relation,
 causal result, or present manifestation
 ```
 
@@ -237,12 +236,12 @@ The source grounds these designations in `svabhāva`, `saṃprayoga`,
 feeling-Faculty; those terms should not be inserted into its conventional
 analysis.
 
-**Object in ordinary usage**
+**Condition and Support in this passage**
 
-Here “object” is appropriate for `ālambana` because the text means what
-feeling takes as its support. Nothing requires importing the technical
-Hegelian sense of Objectivity into the ordinary translation. The philosophical
-analysis concerns the relation under which the object functions.
+`Ālambana-vedanīyatā viṣayāṇām` attributes this designation to
+Conditions (`viṣaya`) because of their Support (`ālambana`) relation
+to feeling. These are two roles in one account, not interchangeable
+English names for the same Sanskrit expression.
 
 **Present manifestation is not reflexive duplication**
 
@@ -269,21 +268,21 @@ Semantic identity must therefore not be inferred from sameness of predicate.
 Class: Dharma
 Class: Feeling
 Class: Contact
-Class: ObjectSupport
+Class: Condition
 Class: Karma
 Class: Maturation
 Class: PresentManifestation
 Class: ExperientialDesignation
 Class: IntrinsicNatureMode
 Class: AssociationMode
-Class: ObjectSupportMode
+Class: SupportMode
 Class: MaturationMode
 Class: PresentManifestationMode
 
 ObjectProperty: hasExperientialDesignation
 ObjectProperty: designationGroundedBy
 ObjectProperty: associatedWith
-ObjectProperty: takesAsObjectSupport
+ObjectProperty: takesAsSupport
 ObjectProperty: producesMaturation
 ObjectProperty: characterizedByFeeling
 ObjectProperty: presentlyManifests
@@ -303,10 +302,11 @@ Rule: ContactIsVedaniyaByAssociation
     and Feeling(?f)
     -> designationGroundedBy(?c, AssociationMode)
 
-Rule: ObjectIsVedaniyaBySupport
+Rule: ConditionIsVedaniyaBySupport
     Feeling(?f)
-    and takesAsObjectSupport(?f, ?o)
-    -> designationGroundedBy(?o, ObjectSupportMode)
+    and takesAsSupport(?f, ?c)
+    and Condition(?c)
+    -> designationGroundedBy(?c, SupportMode)
 
 Rule: KarmaIsVedaniyaByMaturation
     Karma(?k)
@@ -330,7 +330,7 @@ Constraint: KarmaIsNotFeeling
 Constraint: FiveModesRemainDistinct
     IntrinsicNatureMode
     AssociationMode
-    ObjectSupportMode
+    SupportMode
     MaturationMode
     and PresentManifestationMode
     are not interchangeable

@@ -1,4 +1,4 @@
-# VAK 4.46 Bhāṣya — Immovable Karma and the Level of Maturation
+# VAK_4.46 Bhāṣya — Immovable Karma and the Level of Maturation
 
 ## 1. Kārikā Anchor
 
@@ -11,8 +11,7 @@
 
 The Bhāṣya unit begins with `tatra tāvat` at [227|13] and ends at
 `sa eṣa kriyate` at [228|03]. The next kārikā begins at [228|04].
-The research witness stops at [228|01]; the final two sentences
-below are recovered from the running source.
+The closing transition at [228|02–03] is included in full.
 
 ## 2. Continuous Sanskrit
 
@@ -57,6 +56,8 @@ compressed compound beginning `pramāṇabalavarṇakarmānyabhūmika`;
 these difficult readings remain visible rather than being silently
 repaired. Its spellings of the immovable term also vary locally
 (`āneñja`/`āniñja`).
+The word boundaries in the dense result-list at [227|22–24]
+remain uncertain; the English below gives its apparent sense.
 
 ## 3. Continuous Translation
 
@@ -82,9 +83,7 @@ class of gods can ripen in another divine class. The same karma
 capable of producing features such as measure, strength, complexion,
 activity, happiness, and enjoyment, which ripens among gods, may
 sometimes, through other conditions, ripen instead among humans,
-animals, or pretas. The compact Sanskrit for this list and its
-qualification by `anyabhūmika` are uncertain in the running
-e-text.
+animals, or pretas.
 
 Karma belonging to the Form and Formless Realms, however, is never
 able to ripen in a level other than its own. It is therefore called
@@ -148,6 +147,6 @@ not a translation of `āneñja` into a general generator of reality.
 ## 7. Review Status
 
 The running-source unit [227|13]–[228|03] is translated, including
-the two closing sentences omitted by the research witness. The
+the closing transition to the felt-result classes. The
 unstable spellings and the compressed result-list remain marked for
 philological review. The source and research witness are unchanged.

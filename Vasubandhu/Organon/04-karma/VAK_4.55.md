@@ -117,11 +117,10 @@ exceptional recipient-field
     → present-life result
 ```
 
-The Bhāṣya reports a transformation of sexual characteristics associated with
-conduct involving speech about a woman connected to the Saṅgha. The source
-phrase is compressed, so the exact act and the woman's relation to the Saṅgha
-remain uncertain. The account exemplifies field-conditioned present-life
-result; its inherited bodily categories remain text-bound.
+The Bhāṣya reports a transformation of sexual characteristics after someone
+called the Saṅgha “women.” The source does not supply the surrounding
+narrative. The account exemplifies field-conditioned present-life result;
+its inherited bodily categories remain text-bound.
 
 **Exceptional intention**
 
@@ -216,9 +215,9 @@ its modal status.
 
 **Translation note.** The examples of exceptional field and intention and the exact
 modal limitation on the detachment rule are supplied by the Bhāṣya. The commentary
-illustrates the exceptional field with an act involving a woman associated with the
-Saṅgha, and exceptional intention with a `śaṇḍha` freeing cattle from castration;
-the first compressed action remains uncertain. Complete detachment makes the karma
+illustrates the exceptional field with speech calling the Saṅgha “women,”
+and exceptional intention with a `śaṇḍha` freeing cattle from castration.
+Complete detachment makes the karma
 present-life-result only when maturation is fixed but its temporal stage is not
 fixed. Karma fixed to another stage matures there; indeterminate karma instead fails
 to mature through detachment.

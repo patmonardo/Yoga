@@ -146,11 +146,15 @@ The Bhāṣya allows:
 
 ```text
 aniyata karma
-    because its fruition is not necessary
+    under 4.50's opening fourfold gloss, its fruition is not necessary
 
 dṛṣṭadharmavedanīya karma
     if the person is presently born in that level
 ```
+
+The alternative fivefold count in 4.50 also allows an untimed
+karma with determinate maturation; it should not be silently
+excluded by the opening gloss.
 
 **Unstable noble person**
 

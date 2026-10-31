@@ -115,7 +115,7 @@ which the action is performed.
 **Emerged from cessation**
 
 The person emerging from `nirodhasamāpatti` possesses exceptional peace of
-mind because the attainment resembles nirvāṇa. The Bhāṣya strikingly compares
+Consciousness because the attainment resembles nirvāṇa. The Bhāṣya strikingly compares
 the person to one who has gone to nirvāṇa and returned.
 
 **Emerged from non-contention**
@@ -152,13 +152,18 @@ and fresh purification are not complete in the required way.
 
 ## 8. Logical Determination
 
-**Field-state determines causal force**
+**The recipient's emergent condition determines the exceptional field**
 
 ```text
 ATTAINMENT_OR_PATH_EVENT(recipient)
-    → FRESH_TRANSFORMATION(recipient continuum)
+    → CONDITION_OF_CONTINUUM_AFTER_EMERGENCE(recipient)
     → EXCEPTIONAL_FIELD(recipient)
 ```
+
+The Bhāṣya specifies peace of Consciousness after cessation, intentions and
+merit after `araṇā` and loving-kindness, and fresh Basis transformation after
+the Path of Seeing and arhat fruit. It does not assign Basis transformation
+to all five cases.
 
 Then:
 
@@ -196,7 +201,7 @@ exact interval or collapse their ethical difference.
 **Continuation of sufficient-ground analysis**
 
 ```text
-freshly transformed field
+recipient's specified emergent condition
     is sufficient ground
     for a result certain in the present life
 ```
@@ -225,11 +230,12 @@ The field is not an inert Object receiving an already complete act. Its
 determination participates in grounding the causal force and timing of the
 result.
 
-**Fresh transformation has maximal relational force**
+**The emergent condition has relational force**
 
-The Bhāṣya repeatedly stresses the newly calmed, benevolent, or purified
-continuum. The Path-event has just reorganized the field; action entering that
-field encounters the attained determination in its fresh actuality.
+The Bhāṣya distinguishes the peaceful, benevolently oriented, and purified
+continua. For the two path cases, it expressly attributes the purified
+continuum to fresh Basis transformation. Action toward these recipients
+encounters the condition attained in each case.
 
 **Dharmapāda contact**
 
@@ -252,7 +258,7 @@ The five cases and their explanations belong to Vasubandhu's karmic system.
 Their broader logical form can be retained without turning every encounter
 with a spiritually accomplished person into the technical rule stated here.
 
-This is the Organon contact. The five fields, their transformed states, and
+This is the Organon contact. The five fields, their emergent conditions, and
 the negative boundary belong to the Bhāṣya.
 
 **Former Philosophical Translation.**
@@ -274,6 +280,7 @@ Class: Person
 Class: Recipient
 Class: Continuum
 Class: ExceptionalField
+Class: ExceptionalEmergentContinuum
 Class: FreshlyTransformedContinuum
 Class: CessationEmergent
 Class: NonContentionEmergent
@@ -303,10 +310,10 @@ PathOfSeeingEmergent SubClassOf Recipient
 ArhatFruitEmergent SubClassOf Recipient
 FreshlyTransformedContinuum SubClassOf Continuum
 
-Rule: FreshTransformationCreatesExceptionalField
+Rule: ExceptionalEmergentContinuumCreatesExceptionalField
     Recipient(?r)
     and hasContinuum(?r, ?c)
-    and FreshlyTransformedContinuum(?c)
+    and ExceptionalEmergentContinuum(?c)
     -> hasFieldStatus(?r, ExceptionalField)
 
 Rule: ActionTowardExceptionalFieldHasPresentLifeResult
@@ -332,5 +339,6 @@ Constraint: AsrayaparivrttiRemainsLocal
     does not automatically import later Yogacara technical determinations
 ```
 
-The seed makes the recipient's freshly transformed continuum an internal
-condition of a result certain in the present life.
+The seed makes the recipient's specified emergent continuum an internal
+condition of a result certain in the present life. Fresh Basis transformation
+belongs expressly to the two path cases.

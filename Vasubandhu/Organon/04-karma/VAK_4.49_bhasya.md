@@ -1,4 +1,4 @@
-# VAK 4.49 Bhāṣya — Five Grounds of Being Experienced
+# VAK_4.49 Bhāṣya — Five Grounds of Being Experienced
 
 ## 1. Kārikā Anchor
 
@@ -6,7 +6,7 @@
 > saṃmukhībhāvataś ceti pañcadhā vedanīyatā // 4.49 //
 
 > Being designated “to be experienced” is fivefold: through its own nature,
-> association, an object, maturation, and present manifestation.
+> association, Support, maturation, and present manifestation.
 
 The preceding question about why karma is called `vedanīya` belongs
 to 4.48. Here `api ca` at [229|07] opens a further analysis, running
@@ -48,15 +48,16 @@ their identification and full contexts are not supplied here.
 ## 3. Continuous Translation
 
 Furthermore: “Being experienced is fivefold: through own nature,
-association, an object, maturation, and present manifestation.”
+association, Support, maturation, and present manifestation.”
 
 Feeling is experienced through its own nature, because it is
 experienced precisely by being feeling. Contact is experienced
 through association, as in the expression “contact to be experienced
-pleasantly.” Sense objects are experienced by being objects. Thus
-it is said: “Having seen forms with the eye, one experiences forms,
+pleasantly.” Conditions (`viṣaya`) are experienced by serving as
+Supports (`ālambana`). Thus it is said: “Having seen forms with
+the eye, one experiences forms,
 but does not experience passion for forms,” and so on. For one
-experiences what is at issue by taking it as an object through feeling.
+experiences what is at issue by taking it as Support through feeling.
 
 Karma is experienced through maturation, as in “karma to be
 experienced in this present life,” and the fuller set of such
@@ -77,7 +78,7 @@ cases.
 |---|---|---|
 | `svabhāva` | Feeling (`vedanā`) | By its own nature |
 | `saṃprayoga` | Contact (`sparśa`) | By association with feeling |
-| `ālambana` | A sense object (`viṣaya`) | As the object taken up in experience |
+| `ālambana` | A Condition (`viṣaya`) | By its Support relation to feeling |
 | `vipāka` | Karma | Through its maturation |
 | `saṃmukhībhāva` | Present feeling | Through its manifestation now |
 
@@ -86,14 +87,21 @@ antecedent in the e-text; the translation therefore leaves it open.
 
 These are five grounds of designation, **not five additional kinds
 of feeling**. The Bhāṣya's examples make the type of relation
-explicit in each case. In particular, `ālambana` names an object
-relation; the object is not thereby identical with feeling.
+explicit in each case. In particular, `viṣaya` names what can
+be taken as a Condition, while `ālambana` specifies its Support
+relation here. Neither is thereby identical with feeling.
 
 The fifth ground is also distinct from the first. Feeling qualifies
 by own nature as feeling; a feeling's being presently manifest
 explains its being experienced *now*. The cited passage rules out
 supposing a second, simultaneous feeling that would experience the
 pleasant feeling.
+
+The Pleasure Faculty (`sukhendriya`) considered in 4.48 is a Faculty
+classification of feeling, not a sixth ground in this fivefold
+account. Here the source tracks why feeling, contact, a Condition,
+karma, and a presently manifest feeling can each be called
+`vedanīya` under different relations.
 
 ## 5. The Return to Karma
 
@@ -108,8 +116,8 @@ entire fruit consists only of feeling.
 
 This is a precise source for our concern with the semantic copula.
 The surface form “X is experienced” does not determine whether X is
-feeling, accompanies feeling, is its object, produces an experience
-through maturation, or becomes presently manifest. A system that
+feeling, accompanies feeling, is taken as Support, produces an
+experience through maturation, or becomes presently manifest. A system that
 tracks the mediating relation can preserve all five claims without
 equating their subjects. That generalization is our Organon use of
 the passage; the five examples themselves are Vasubandhu's.

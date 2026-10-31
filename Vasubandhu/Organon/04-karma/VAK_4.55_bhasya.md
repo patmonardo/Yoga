@@ -1,4 +1,4 @@
-# VAK 4.55 Bhāṣya — Present-Life Result and Complete Detachment
+# VAK_4.55 Bhāṣya — Present-Life Result and Complete Detachment
 
 ## 1. Kārikā Anchor
 
@@ -43,10 +43,13 @@ yac cāniyataṃ tasyāvipāka evātyantavairāgyāt /
 ```
 
 Word division, punctuation, and verse numbering are editorial.
-`Saṃghastrīvādasamudācārāt` is compressed and its exact narrative
-details are uncertain. The source uses `śrūyate` (“it is reported”)
-for the bodily-change example; neither example is presented here as
-an independently verified event.
+`Saṃghastrīvādasamudācārāt` describes the act of calling the Saṅgha
+“women”; the narrative circumstances are not supplied. The source uses
+`śrūyate` (“it is reported”) for the bodily-change example. The running
+witness also has the compressed `tatyaiṣa` at [232|14]; “this rule
+applies” renders its contextual sense without silently repairing the
+Sanskrit. Neither example is presented here as an independently verified
+event.
 
 ## 3. Continuous Translation
 
@@ -54,9 +57,8 @@ What sort of karma should be understood as having a result in this
 life? “Karma has a present-life result because of an exceptional
 field or intention.” Karma to be experienced in this life may arise
 through the special character of its field. Thus a change of bodily
-sex characteristics is reported after conduct involving speech
-about a woman associated with the Saṅgha; the precise action in the
-compressed source phrase remains uncertain. Or it may arise through
+sex characteristics is reported after someone called the Saṅgha
+“women.” Or it may arise through
 a distinctive intention, as in the account of a person described as
 `śaṇḍha` who, after freeing cattle from castration, acquired male
 characteristics.
@@ -120,5 +122,5 @@ from a `bhūmi`.
 The complete unit [232|05]–[232|16] is translated. The field and
 intention examples are presented as textual reports, and the
 detachment rule is restricted to its stated modal class. The
-compressed example remains marked for review. The running source
-and research witness are unchanged.
+compressed `tatyaiṣa` remains marked in the source note. The running
+source and research witness are unchanged.

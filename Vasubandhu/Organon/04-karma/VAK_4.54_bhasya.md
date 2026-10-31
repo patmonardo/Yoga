@@ -1,4 +1,4 @@
-# VAK 4.54 Bhāṣya — Conditions That Make Karma Determinate
+# VAK_4.54 Bhāṣya — Conditions That Make Karma Determinate
 
 ## 1. Kārikā Anchor
 
@@ -88,6 +88,13 @@ fruition fixed. This is an exercise in case judgment: intensity of
 motive, persistence, recipient-field, and the particular act each
 matter. The verse gives conditions for `niyata` karma, rather than
 an instruction to generate those conditions.
+
+`Guṇakṣetra` names the qualified recipient field in which an act
+is performed. Its force here concerns the certainty of karmic
+maturation. The `viṣaya` and `ālambana` analysis of 4.49 concerned
+how a Condition is experienced through its Support relation. The
+two passages thus specify different relations under which a field
+enters a determination.
 
 ## 6. Interpretation
 

@@ -1,4 +1,4 @@
-# VAK 4.48 Bhāṣya — Neutral Maturation Below the Fourth Dhyāna
+# VAK_4.48 Bhāṣya — Neutral Maturation Below the Fourth Dhyāna
 
 ## 1. Kārikā Anchor
 
@@ -101,11 +101,12 @@ How, moreover, is karma whose nature is not feeling called “to be
 experienced pleasantly” and so on? It is conducive to pleasant
 feeling; or the expression is explained by what is pleasantly
 experienced as its result. What is to be experienced? The maturation.
-The remaining comparison in the running text is compressed and
-uncertain; it appears to liken this usage to naming something by
-its use in bathing. The
-same explanation is to be applied to karma experienced painfully
-and to karma experienced as neither painful nor pleasant.
+For that [maturation] is experienced; or it is called “to be
+experienced” in relation to pleasure because through it one
+experiences pleasure. The following compressed comparison appears
+to name something by its use in bathing. The same explanation
+applies to karma experienced painfully and to karma experienced
+as neither painful nor pleasant.
 
 ## 4. The Two Grounds for the Qualification
 
@@ -144,7 +145,35 @@ simile as bathing clothes, but the Sanskrit e-text has
 claim is the distinction between karma's
 own nature and the experience of its maturation.
 
-## 6. Interpretation
+## 6. Faculty, Feeling, and What Is Experienced
+
+The passage moves across distinct roles. `Karma` is not itself
+feeling (`avedanāsvabhāva`), though its maturation may have a
+feeling character. One reported answer makes the Pleasure Faculty
+(`sukhendriya`) the maturation of intermediate-dhyāna karma.
+Another denies that any feeling is its maturation; the cited
+treatise rejects that denial by allowing *mental feeling*
+(`caitasikī vedanā`) to ripen as a result of wholesome karma
+without thinking. The Faculty-name and the feeling-result have
+distinct roles in this debate; neither names the producing karma.
+
+The closing question, `kaś ca vedanīyaḥ?`, turns to what is
+experienced: `yo vipākaḥ`, the maturation. The following sentence
+also allows a relational construal, that through the maturation
+one experiences pleasure. Thus `vedanīya` can qualify the karma
+by its relation to an experienced result, even though the karma's
+own nature is not sensation. The damaged bathing comparison is
+left provisional; the two relations are expressed in the preceding
+Sanskrit itself.
+
+`Viṣaya` is not named in this 4.48 unit. The next unit explicitly
+introduces `ālambana-vedanīyatā viṣayāṇām` at [229|11]: the
+Condition or field of experience is called `vedanīya` in the
+support relation. That will let 4.49 place a *viṣaya* beside
+karma's maturation relation without identifying either with
+the feeling or its Faculty.
+
+## 7. Interpretation
 
 For our OM theory, `bāhulika` is an instructive correction of a
 classification: a general mapping from karmic realm to felt result
@@ -153,10 +182,10 @@ require it. This is a project analogy about rules and their scope.
 The source's argument concerns particular Buddhist karma classes,
 not a general claim that all determinations have exceptions.
 
-## 7. Review Status
+## 8. Review Status
 
 The full unit [228|14]–[229|07] is translated, including the
-`vedanīya` discussion omitted from the research witness. The
+`vedanīya` discussion and its second relational explanation. The
 uncertain readings and the attribution to “some” remain visible.
-The source and research witness are unchanged; 4.49 begins after
-`api ca`.
+The source and research witness are unchanged; 4.49 opens with
+`api ca` on [229|07].

@@ -1,4 +1,4 @@
-# VAK 4.60 Bhāṣya — Allocating the Four Colors of Karma
+# VAK_4.60 Bhāṣya — Allocating the Four Colors of Karma
 
 ## 1. Kārikā Anchor
 
@@ -93,11 +93,12 @@ unwholesome karma. Outflow-free karma leads to the exhaustion or
 abandonment of the other three karmas. It is not black because it
 is unafflicted; it is called “not white” because it lacks *white
 maturation*. “Not white” is an expression used with a particular
-intention: the Blessed One calls the non-learner's dharmas wholly
-wholesome and blameless, and a treatise also calls wholesome and
-unobstructed indeterminate dharmas “white.” Outflow-free karma is
-without maturation because it does not belong to a realm and
-opposes the course of continued existence.
+intention: in the Great Emptiness, speaking of the non-learner's
+dharmas, the Blessed One says, “These dharmas, Ānanda, are entirely
+wholesome, entirely blameless.” And in a treatise: “Which dharmas
+are white? Wholesome dharmas and unobscured indeterminate dharmas.”
+Outflow-free karma is without maturation because it does not belong
+to a realm and opposes the course of continued existence.
 
 ## 4. What the Colors Classify
 
