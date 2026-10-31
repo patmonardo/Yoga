@@ -1,4 +1,4 @@
-# VAK 4.41 Bhāṣya — Ending Non-restraint and Intermediate Avijñapti
+# VAK_4.41 Bhāṣya — Ending Non-restraint and Intermediate Avijñapti
 
 ## 1. Kārikā Anchor
 
@@ -6,10 +6,9 @@
 > vegādānakriyārthāyurmūlacchedais tu madhyamā // 4.41 //
 
 > Non-restraint is relinquished through acquisition of restraint, death, or
-> the arising of both sexual characteristics. Other non-disclosing continuity
-> ceases through exhaustion of force, relinquishment of its undertaking,
-> cessation of activity, fulfillment of purpose, end of lifespan, or severance
-> of roots.
+> the arising of both sexual characteristics. Intermediate avijñapti ceases
+> when its force is cut off, its undertaking laid down, its activity stops,
+> its sustaining work is lost, its bearer dies, or wholesome roots are severed.
 
 The natural unit starts at [225|03] and ends at [225|20–21] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next verse begins with
@@ -93,9 +92,9 @@ ends, like the motion of a potter's wheel [or an arrow] when
 its impulse is spent. It also ends when the undertaking is
 relinquished—“Enough of this undertaking”—or when the action
 stops, as when one no longer does what one undertook. It ends
-when its `artha` is cut off: when the associated undertaking or
-its concrete basis, such as a shrine, park, monastery, bed or seat,
-mechanism, or net, ceases to sustain the practical determination.
+when its `artha` is cut off: when the relevant `vastu`, such as a shrine,
+park, monastery, bed or seat, mechanism, or net, ceases to sustain the
+practical determination.
 It ends when the person's life ends or when the severance of
 wholesome roots begins. These are the six causes for abandoning
 intermediate avijñapti.
@@ -129,16 +128,15 @@ a continuing practical determination can lose support:
 | Force (`vega`) | The projected momentum of confidence or affliction ends |
 | Undertaking (`ādāna`) | One relinquishes the adopted practice |
 | Activity (`kriyā`) | One stops doing what was undertaken |
-| Purpose (`artha`) | The associated undertaking or its concrete `vastu` ceases to sustain the practical determination |
+| `Artha` | The relevant concrete `vastu` ceases to sustain the practical determination |
 | Lifespan (`āyus`) | The bearer's life ends |
 | Wholesome root (`mūla`) | Its severance begins |
 
 The examples for `artha` include both meritorious constructions
-and harmful devices. Here `artha` is a purposive determination
-realized in a concrete `vastu`; it should not be rendered as
-free-floating “meaning” or reduced to an arbitrary physical
-object. The project's continuing efficacy depends on that
-relation between purpose and enduring result.
+and harmful devices. The Bhāṣya glosses it through concrete
+`vastu`. The Organon reads the purposive determination realized
+in that work as an Idea; the project's continuing efficacy depends
+on the relation between purpose and enduring result.
 
 ## 6. Interpretation
 
@@ -156,5 +154,5 @@ of karmic avijñapti.
 The whole unit through [225|20–21] is translated, including the
 six causes of intermediate avijñapti's loss. Irregular forms and
 the compressed upavāsa exchange remain marked. The running
-source and research witness are unchanged; 4.42 begins at
+source is unchanged; 4.42 begins at
 [225|22].

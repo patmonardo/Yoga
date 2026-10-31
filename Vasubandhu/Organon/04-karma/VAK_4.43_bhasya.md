@@ -1,4 +1,4 @@
-# VAK 4.43 Bhāṣya — Who Can Bear a Standing Restraint?
+# VAK_4.43 Bhāṣya — Who Can Bear a Standing Restraint?
 
 ## 1. Kārikā Anchor
 
@@ -70,9 +70,8 @@ Word division, punctuation, and verse numbering are editorial.
 The running source's sūtra quotation has an uneven opening and
 closing; its `yāvad` abbreviates intervening refuge wording.
 The `ūṣarakṣetra` comparison and the nāga quotation contain
-difficult forms, retained without a claimed repair. The
-research witness skips the full Mahānāma citation at [226|10–12];
-it is present here.
+difficult forms, retained without a claimed repair. The full
+Mahānāma citation at [226|10–12] is present here.
 
 ## 3. Continuous Translation
 
@@ -158,5 +157,5 @@ of the three restraints among beings.
 The full 4.43 unit through [226|24], including the Mahānāma
 citation and nāga objection, is translated. Difficult source
 forms and the limits of the inherited categories remain marked.
-The running source and research witness are unchanged. The
+The running source is unchanged. The
 sequential study stops before 4.44 at [226|25].

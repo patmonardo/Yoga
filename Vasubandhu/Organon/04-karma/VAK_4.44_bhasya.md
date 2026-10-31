@@ -1,4 +1,4 @@
-# VAK 4.44 Bhāṣya — Restraint Possessed Without Present Manifestation
+# VAK_4.44 Bhāṣya — Restraint Possessed Without Present Manifestation
 
 ## 1. Kārikā Anchor
 
@@ -7,8 +7,8 @@
 
 > Meditation-born restraint occurs among gods born in the Desire and Form
 > Realms. Uncontaminated restraint occurs among beings born in those Realms,
-> except those born in the intermediate dhyāna and non-percipient beings; it
-> also occurs among the formless.
+> except those born in the intermediate dhyāna and non-percipient beings;
+> among the formless it is possessed without being presently manifest.
 
 The verse continues the distribution begun in 4.43. Its complete
 Bhāṣya unit is [226|25]–[227|03] in
@@ -35,6 +35,8 @@ na saṃmukhībhāvataḥ /
 Word division, punctuation, and verse numbering are editorial.
 The running source has `asaṃjñisatva-` in the explanatory prose,
 while the verse has `asaṃjñisattva-`; both readings remain visible.
+The prose also uses `dhyānāntarika-` where the verse has
+`dhyānāntara-`.
 `Saṃvaraḥ` is understood in the Kārikā from the discussion in
 4.43. The prose, not the compact verse alone, fixes the final
 distinction between possession and present manifestation.
@@ -105,6 +107,6 @@ the source's claim concerns `anāsrava-saṃvara` and its bearers.
 
 The complete 4.44 unit through [227|03] is translated. The
 possession/manifestation distinction and inherited realm
-exclusions remain explicit. The running source and research
-witness are unchanged. The sūtra-based account of karma is
+exclusions remain explicit. The running source is unchanged.
+The sūtra-based account of karma is
 announced at [227|04] and begins with 4.45.

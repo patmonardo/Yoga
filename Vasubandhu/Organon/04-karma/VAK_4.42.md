@@ -230,17 +230,18 @@ corresponding Path arises
 
 The Bhāṣya states `nānyathā`: not otherwise.
 
-**One-to-one determination**
+**Type-specific counteragent**
 
 The relation is typed:
 
 ```text
-each upakleśa-prakāra
-    has its corresponding prahāṇamārga
+for a given upakleśa-prakāra
+    its applicable prahāṇamārga abandons it
 ```
 
 A generic positive state is not automatically the counteragent to every
-defilement.
+defilement. The passage does not establish a numerical one-to-one mapping
+between defilement types and distinct Path instances.
 
 **Taxonomic boundary**
 

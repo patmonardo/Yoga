@@ -1,4 +1,4 @@
-# VAK 4.42 Bhāṣya — Loss by Realm Shift, Abandonment by Path
+# VAK_4.42 Bhāṣya — Loss by Realm Shift, Abandonment by Path
 
 ## 1. Kārikā Anchor
 
@@ -95,5 +95,5 @@ an Organon reconstruction, not Vasubandhu's terminology here.
 The whole unit through [226|01–02] is translated. The revised
 study corrects the `arūpa`/`avijñapti` confusion from the
 Kārikā pass and limits the counter-path claim to the wording
-actually given. The running source and research witness are
-unchanged; 4.43 begins at [226|03].
+actually given. The running source is unchanged; 4.43 begins at
+[226|03].

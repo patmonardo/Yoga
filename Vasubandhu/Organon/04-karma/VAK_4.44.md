@@ -125,8 +125,9 @@ not by present manifestation.
 
 > Meditation-born restraint occurs among gods born in the Desire and Form
 > Realms. Uncontaminated restraint occurs among beings born in those Realms,
-> except those born in the intermediate dhyāna and non-percipient beings; it
-> also occurs among the formless.
+> except those born in the intermediate dhyāna and non-percipient beings;
+> among the formless it is possessed without being presently manifest.
+
 ## 6. Philosophical Translation
 
 > Meditation-born [restraint belongs] to gods born in the Desire and Form Realms. Uncontaminated [restraint], in turn, [belongs to those born in those Realms], excluding those born in the intermediate dhyāna and non-percipient beings, and also to formless beings.
@@ -183,8 +184,8 @@ uncontaminated restraint among formless beings.
 **The exclusions**
 
 The intermediate-dhyāna and non-percipient births are excluded from the
-relevant Desire-and-Form Realm distribution. The exclusion is functional:
-the required cognitive and path conditions are not actualized there.
+relevant Desire-and-Form Realm distribution. The Bhāṣya states this
+exclusion without separately explaining its cause in this unit.
 
 ## 8. Logical Determination
 

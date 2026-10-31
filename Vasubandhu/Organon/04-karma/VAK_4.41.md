@@ -124,7 +124,7 @@ prose as relinquishment of the undertaking. The understood feminine
 > Non-restraint is relinquished through acquisition of restraint, death, or
 > the arising of both sexual characteristics. The intermediate [avijñapti],
 > however, is relinquished through severance of force, undertaking, activity,
-> Idea, lifespan, or root.
+> sustaining work, lifespan, or root.
 
 ### Bhāṣya-informed study translation
 
@@ -434,7 +434,6 @@ Class: WholesomeRoot
 Class: Death
 Class: SupportDisruption
 Class: ContraryAcquisition
-Class: VerbalManifestation
 
 ObjectProperty: acquiredThrough
 ObjectProperty: cutOffBy
@@ -443,7 +442,6 @@ ObjectProperty: dependsOn
 ObjectProperty: relinquishes
 ObjectProperty: sustains
 ObjectProperty: destroyedBy
-ObjectProperty: reacquiredThrough
 
 PratimoksaRestraint SubClassOf Restraint
 DhyanaRestraint SubClassOf Restraint
@@ -474,21 +472,15 @@ Rule: DependencyDestructionEndsAvijnapti
     and destroyedBy(?v, ?e)
     -> cutOffBy(?a, ?e)
 
-Rule: ReacquisitionRequiresManifestation
-    NonRestraint(?n)
-    and VerbalManifestation(?v)
-    -> reacquiredThrough(?n, ?v)
-
 Constraint: InactivityIsNotRestraint
     cessation of current harmful activity
     does not entail acquisition of Restraint
     or loss of NonRestraint
 
-Constraint: ArthaIsPracticalIdea
-    artha in VAK_4_41
-    denotes RealizedPracticalIdea
-    whose objective existence depends on RealizingVastu
-    not a merely external Object or subjective representation
+Constraint: OrganonArthaReading
+    Bhāṣya glosses artha with concrete vastu
+    Organon reads the purpose embodied in that vastu
+    as RealizedPracticalIdea
 
 Constraint: IntermediateIsThirdClass
     IntermediateAvijnapti
@@ -496,7 +488,7 @@ Constraint: IntermediateIsThirdClass
 
 Constraint: AutomaticReturnRemainsDisputed
     return of NonRestraint after UpavasaRestraint
-    is recorded as an anonymous doctrinal dispute
+    remains uncertain in the compressed anonymous exchange
 ```
 
 The seed distinguishes conversion by a stronger contrary from cessation by
