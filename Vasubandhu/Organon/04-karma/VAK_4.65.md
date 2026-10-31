@@ -283,6 +283,16 @@ mithyādṛṣṭi
 
 The project term must therefore not be inserted into the primary textual layer.
 
+**Emergent Meaning in the DharmaChakra**
+
+Our `[[Dhātu:Indriya] [Loka:Karma]]` reading makes the distinction in this
+verse methodologically consequential. The prior determinations of Dharma's
+kinds and operative faculties, together with the world's field of action,
+give “karma” its place in the system. Here the Bhāṣya tests that Meaning:
+an afflictive mental orientation can be bad conduct without being the
+volition that counts as karma in the Vaibhāṣika account. This is an
+Organon determination, not an additional claim of the 4.65 Kārikā.
+
 **Testing the false-view hypothesis**
 
 The verse supports the project-level claim that false view becomes practically

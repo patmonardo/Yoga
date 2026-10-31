@@ -1,4 +1,4 @@
-# VAK 4.91 Bhāṣya — Ground and Training-status Result Matrices
+# VAK 4.91 Bhāṣya — Level and Training-status Result Matrices
 
 ## 1. Kārikā Anchor
 
@@ -37,16 +37,17 @@ aśaikṣasya tu karmaṇaḥ // 4.91 //
 ```
 
 The running witness presents no major lacuna in this unit. Compounds and
-sandhi have been opened, and the phrase `dhātvapatitatvāt` has been retained
+sandhi have been opened; the witness's `vipākaniḥṣyandaphale` is normalized
+here to `vipākaniṣyandaphale`. The phrase `dhātvapatitatvāt` has been retained
 without reducing `dhātu` and `bhūmi` to one undifferentiated spatial notion.
 
 ## 3. Continuous Translation
 
-Dharmas belonging to the same ground as the action stand as four results,
+Dharmas belonging to the same level as the action stand as four results,
 with disconnection-result excluded.
 
-Dharmas belonging to another ground stand as three or two results. If those
-other-ground dharmas are without Influx, they stand as three results, with
+Dharmas belonging to another level stand as three or two results. If those
+other-level dharmas are without Influx, they stand as three results, with
 maturation and disconnection excluded, because they do not fall within a
 realm. If they are with Influx, they stand as two results: activity-produced
 and dominant.
@@ -59,13 +60,13 @@ here maturation and correspondence are excluded.
 
 As for beyond-training action—the classification continues in the next verse.
 
-## 4. The Same-ground Profile
+## 4. The Same-level Profile
 
 When action and result-dharma belong to the same `bhūmi`, four result
 relations are available:
 
 ```text
-same ground:
+same level:
     maturation
     correspondence
     activity-production
@@ -75,18 +76,18 @@ excluded:
     disconnection
 ```
 
-Disconnection is not a ground-bound conditioned dharma. The same-ground
+Disconnection is not a level-bound conditioned dharma. The same-level
 comparison therefore ranges over the remaining four causal modes.
 
-`Bhūmi` here means a classified causal and contemplative ground. It should not
+`Bhūmi` here means a classified causal and contemplative level. It should not
 be reduced to physical location, nor identified without qualification with
 the broader `dhātu` classification.
 
-## 5. Other-ground Results
+## 5. Other-level Results
 
-The other-ground cell divides according to Influx status:
+The other-level cell divides according to Influx status:
 
-| Other-ground result | Number | Included relations |
+| Other-level result | Number | Included relations |
 |---|---:|---|
 | without Influx | 3 | corresponding, activity-produced, dominant |
 | with Influx | 2 | activity-produced, dominant |
@@ -96,9 +97,9 @@ disconnection result in this comparison. The stated reason is
 `dhātvapatitatva`: they do not fall within a conditioned realm in the manner
 required for realm-bound maturation.
 
-Dharmas with Influx from another ground also lack corresponding results. A
+Dharmas with Influx from another level also lack corresponding results. A
 corresponding result continues a similar causal series within the relevant
-ground; cross-ground dharmas with Influx can instead be produced or
+level; cross-level dharmas with Influx can instead be produced or
 conditioned through the broader activity and dominance relations.
 
 ## 6. The Trainee-action Row
@@ -149,25 +150,25 @@ classifications:
 
 ```text
 Matrix A:
-    action ground × result ground × Influx status → result types
+    action level × result level × Influx status → result types
 
 Matrix B:
     action training status × result training status → result types
 ```
 
-Ground determines causal continuity across classified fields. Training
+Level determines causal continuity across classified fields. Training
 status determines causal direction within the architecture of the Path. Both
 constrain the same five result relations, but they answer different questions.
 
 ## 9. Interpretation
 
-The Causal Algebra for Agency now needs ground and developmental status as
+The Causal Algebra for Agency now needs level and developmental status as
 first-class types:
 
 ```text
 ActionResultEdge {
-    actionGround
-    resultGround
+    actionLevel
+    resultLevel
     resultInfluxStatus
     actionTrainingStatus
     resultTrainingStatus
@@ -188,14 +189,14 @@ The same numerical signature can encode different operations:
 Counts are therefore only compressed checksums. The executable meaning lies
 in exact typed membership.
 
-These architecture terms are the Organon reconstruction. The ground theory,
+These architecture terms are the Organon reconstruction. The level analysis,
 realm status of dharmas without Influx, and trainee classifications remain
 the doctrine of the Bhāṣya.
 
 ## 10. Review Status
 
 The complete 4.91 unit `[257|02]–[257|10]` is included. It gives the full
-same-ground/other-ground classification and the full trainee-action row. It
+same-level/other-level classification and the full trainee-action row. It
 preserves the final phrase opening the beyond-training action row without
 importing the 4.92 commentary that completes it. Source and reconstruction
 remain distinct.

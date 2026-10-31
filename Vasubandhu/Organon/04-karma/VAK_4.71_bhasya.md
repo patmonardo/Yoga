@@ -152,13 +152,15 @@ objective basis
 ```
 
 This is precisely the kind of crossing required by the Dialectical Matrix.
-Each course occupies a position formed by at least three coordinates:
+For analysis, each completed course can be described by three moments:
 
 ```text
 <Root, Course, Adhiṣṭhāna>
 ```
 
-The speech group makes the matrix visible. One stable basis—`nāmakāya`—
+These moments belong to one generated course; they are not three actions
+assembled after the fact. The speech group makes the matrix visible. One kind
+of basis—`nāmakāya`—
 supports three different courses, and each of those courses can reach
 completion through any of three roots. Practical meaning belongs to the
 whole configuration rather than to a word, behavior label, or motive taken
@@ -176,10 +178,21 @@ Course takes its Stand upon Adhiṣṭhāna
     as objective field.
 ```
 
-The karmapatha mediates the two. It is the determinate course through which
-a root becomes objectively effective upon a basis. For our agent
-architecture, a practical judgment therefore needs to represent the
-governing root, the course-form, and the field upon which it operates.
+The karmapatha mediates the two. It is the one generated course through which
+a root becomes objectively effective upon a basis. In the Organon reading,
+its articulated order is:
+
+```text
+Principle  →  Essence  →  Base
+root          determinate     field on which
+              course-form     the course operates
+```
+
+This maps the roles in a practical genesis; it does not translate
+`adhiṣṭhāna` as the technical term Base or reduce the whole karmapatha to
+its middle moment. For our agent architecture, a practical judgment needs
+to represent the governing root, course-form, and field as moments of one
+action.
 
 This also clarifies why dictionary thinking is inadequate. `Nāmakāya` is
 already configured language. Falsehood, division, and disorder are

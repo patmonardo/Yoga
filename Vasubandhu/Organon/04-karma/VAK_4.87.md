@@ -212,7 +212,7 @@ OtherWithInfluxAction
 | action in the Path without stain (without Influx) | no | yes | yes | yes | yes |
 | other wholesome or unwholesome action with Influx | yes | yes | no | yes | yes |
 
-The table exposes three independent axes:
+The table displays four distinct coordinates:
 
 ```text
 path-function          uninterrupted Path of Abandonment / other activity

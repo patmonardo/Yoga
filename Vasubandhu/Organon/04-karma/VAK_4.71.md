@@ -245,7 +245,7 @@ root ≠ course ≠ basis
 ```
 
 Yet they are not detached classifications. A completed karmapatha is the
-determinate relation connecting all three.
+one genetic relation articulated through all three.
 
 **Speech as flexible mediation**
 
@@ -279,7 +279,12 @@ subjective root
 The root becomes objectively effective only through a course operating upon a
 determinate field. Conversely, the basis does not determine the ethical act by
 itself; it becomes the basis of this course through the rooted activity
-directed upon it.
+directed upon it. In the Organon reading, this is the genetic movement
+**Principle → Essence → Base**: the root is its governing Principle, the
+determinate course-form its Essence, and the field on which it operates its
+Base. The whole karmapatha is this articulated action, rather than only its
+middle term. `Adhiṣṭhāna` remains “basis” in the source translation; the
+capitalized Base belongs to this project determination.
 
 **The name-complex is a practical medium**
 

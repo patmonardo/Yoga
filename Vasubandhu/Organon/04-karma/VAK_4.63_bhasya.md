@@ -35,11 +35,11 @@ anyattu kāmāvacaraṃ karma kṛṣṇaśuklam / kiṃ tadanyat /
 bhāvanāprahātavyam / taddhi kuśalaṃ cākuśalaṃ ceti /
 ```
 
-The source unit is [236|14]–[236|22]. Its verse citation is divided
+The source unit is [236|14]–[236|22-23]. Its verse citation is divided
 among prose explanations; the continuous Kārikā above restores the
 official verse's reading order. Line breaks, punctuation, and verse
 numbering are editorial. The new sūtra on three silences begins at
-[236|23] and belongs to 4.64.
+[236|23-24] and belongs to 4.64.
 
 ## 3. Continuous Translation
 
@@ -87,6 +87,6 @@ to other teachers.
 
 ## 6. Review Status
 
-The complete unit [236|14]–[236|22] is translated. The two
+The complete unit [236|14]–[236|22-23] is translated. The two
 alternative voices and the transition to the next sūtra topic are
 explicit. Research and running-source files are unchanged.

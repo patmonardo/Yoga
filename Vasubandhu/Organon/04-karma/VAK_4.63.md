@@ -216,12 +216,7 @@ elsewhere in the Desire Realm, both wholesome and unwholesome karma mature. The
 second group calls karma abandoned by the Path of Seeing black because it is unmixed
 with wholesome karma. The remaining Desire Realm karma is abandoned through
 cultivation and is black-and-white because it comprises both wholesome and
-unwholesome karma. The first teachers correlate the pair with black and
-black-and-white karma: in hell only unwholesome karma matures, whereas elsewhere in
-the Desire Realm both wholesome and unwholesome karma mature. The other teachers
-call the karma abandoned by seeing black because it is unmixed with wholesome karma;
-the remaining Desire Realm karma is abandoned by cultivation and contains both
-classes.
+unwholesome karma.
 
 The grounds supplied for both alternatives and the identification of the
 remainder are supplied by the Bhāṣya.

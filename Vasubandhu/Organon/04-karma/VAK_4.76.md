@@ -19,7 +19,7 @@ pāruṣyamapriyaṃ sarvaṃ kliṣṭaṃ bhinna pralāpitā // 4.76 //
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `paiśunyam` | nominative neuter singular | divisive speech |
-| `kliṣṭa-cittasya` | genitive masculine singular compound | of one whose consciousness is afflicted |
+| `kliṣṭa-cittasya` | genitive masculine singular compound | of one whose Consciousness is afflicted |
 | `vacanam` | nominative neuter singular | utterance; speech |
 | `para-bhedane` | locative neuter singular | for the division of others |
 | `pāruṣyam` | nominative neuter singular | harsh or injurious speech |
@@ -54,7 +54,7 @@ kliṣṭa-cittasya
         paiśunyam [bhavati]
 ```
 
-> Divisive speech is the utterance of one whose consciousness is afflicted, directed
+> Divisive speech is the utterance of one whose Consciousness is afflicted, directed
 > toward dividing others.
 
 The genitive supplies the speaker's afflictive condition; the locative gives
@@ -68,7 +68,7 @@ the practical end toward which the utterance is directed.
         pāruṣyam [bhavati]
 ```
 
-> Harsh speech is disagreeable speech arising from afflicted consciousness.
+> Harsh speech is disagreeable speech arising from afflicted Consciousness.
 
 The Bhāṣya carries `kliṣṭacittasya`, `vacanam`, and the previously established
 conditions `arthābhijña` and `abhrānti` into this compressed definition.
@@ -88,19 +88,19 @@ alternative residual definition begins in VAK 4.77.
 ## 5. Translation
 
 ### Literal Translation
-> Divisive speech is the utterance of one whose consciousness is afflicted,
+> Divisive speech is the utterance of one whose Consciousness is afflicted,
 > directed toward dividing others. Harsh speech is disagreeable speech.
-> All afflicted speech is disordered discourse.
+> Every afflicted [statement] is the condition of disordered discourse.
 
 ### Bhāṣya-informed study translation
 
-> Divisive speech is the utterance of one whose consciousness is afflicted,
+> Divisive speech is the utterance of one whose Consciousness is afflicted,
 > directed toward dividing others. Harsh speech is disagreeable speech. All
 > afflicted speech is disordered discourse.
 
 ## 6. Philosophical Translation
 
-> Divisive speech is the utterance of one whose consciousness is afflicted, directed toward dividing others. Harsh speech is disagreeable speech. All afflicted speech is disordered discourse.
+> Divisive speech is the utterance of one whose Consciousness is afflicted, directed toward dividing others. Harsh speech is disagreeable speech. All afflicted speech is disordered discourse.
 
 ## 7. Technical Vocabulary
 
@@ -110,7 +110,7 @@ Speech practically directed toward breaking a relation among others. The
 Bhāṣya adds `aprīti`, estrangement or lack of affection, as the effect it aims
 to produce.
 
-**`Kliṣṭacitta` — afflicted consciousness**
+**`Kliṣṭacitta` — afflicted Consciousness**
 
 Consciousness operating under an unwholesome root or afflictive determination. The
 term marks the ethical generation of speech; it should not be converted into
@@ -124,9 +124,10 @@ toward division.
 
 **`Arthābhijña` and `abhrānti` carried forward**
 
-The Bhāṣya states that the hearer must understand the meaning and that there
+The Bhāṣya states that the hearer must understand the Meaning and that there
 must be no mistake concerning the intended person. These completion-conditions
-from false speech govern both divisive and harsh speech here.
+from false speech govern both divisive and harsh speech here. The earlier
+question of actual understanding versus capacity to understand remains open.
 
 **`Pāruṣya` — harsh speech**
 
@@ -147,7 +148,7 @@ in the succeeding discussion.
 
 ```text
 afflicted generation
-    + meaning-bearing utterance
+    + Meaning-bearing utterance
     + recipient comprehension
     + non-mistaken recipient relation
     + determinate practical function
@@ -160,7 +161,7 @@ The exact practical function differentiates the courses.
 
 ```text
 FALSE SPEECH
-    speaker-recognition ↔ asserted meaning
+    speaker-recognition ↔ asserted Meaning
     corrupted through deliberate divergence
 
 DIVISIVE SPEECH
@@ -191,7 +192,7 @@ present source unit.
 mistake conditions, the definition of the fourth course as all afflicted
 speech are supplied by the Bhāṣya. The Bhāṣya specifies that divisive speech
 aims to produce estrangement and carries forward the conditions that the
-recipient understand the meaning and that the intended person not be mistaken.
+recipient understand the Meaning and that the intended person not be mistaken.
 Those conditions also govern harsh speech, which is afflicted, disagreeable
 address understood by the person actually intended. Here the fourth course is
 defined broadly as all afflicted utterance; the alternative residual
@@ -206,7 +207,7 @@ orientation even while remaining intelligible.
 
 ```text
 rooted intention
-    → meaning-bearing manifestation
+    → Meaning-bearing manifestation
     → recipient comprehension
     → relational or practical effect
     → karmic determination
@@ -233,7 +234,7 @@ synthesis.
 
 **Former Philosophical Translation.**
 > Speech becomes karmically determinate through the practical relation it
-> realizes. It may corrupt the speaker's relation to meaning through
+> realizes. It may corrupt the speaker's relation to Meaning through
 > falsehood, rupture relations among others through division, reach an
 > intended person as afflicted painful address, or fall under the broad
 > fourth course simply as afflicted utterance. Semantic coherence alone does

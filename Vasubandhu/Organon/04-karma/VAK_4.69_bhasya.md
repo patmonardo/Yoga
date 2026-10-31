@@ -12,7 +12,7 @@
 
 The first half completes the preceding inquiry into the three unwholesome
 roots. The second applies the three-phase form of VAK 4.68 to wholesome
-courses and explains their genesis from wholesome consciousness.
+courses and explains their genesis from wholesome Consciousness.
 
 ## 2. Continuous Sanskrit
 
@@ -55,8 +55,11 @@ avijñaptica yāvadatuvartate idaṃ pṛṣṭham /
 ```
 
 The complete unit is `[241|20]–[242|05]`. The running witness reads
-`kuṣalacitta`, `malobhādibhiḥ`, and `yāvadatuvartate`; these visible
-irregularities have not been silently normalized. The next inquiry begins
+`uktā kuśalāḥ karmapathāḥ` where the context requires “the unwholesome
+courses of karma have been explained”; the translation follows that contextual
+reading without silently changing the Sanskrit. It also reads `kuṣalacitta`,
+`malobhādibhiḥ`, and `yāvadatuvartate`; these visible irregularities have not
+been silently normalized. The next inquiry begins
 at `[242|06]` and introduces the completion roots classified in VAK 4.70.
 
 ## 3. Continuous Translation
@@ -73,7 +76,7 @@ ones constituted? The verse says: “The wholesome courses, together with
 their preparation and aftermath, are born from non-greed, non-hatred, and
 non-delusion.” Wholesome courses of karma, including preparation and
 aftermath, arise from non-greed, non-hatred, and non-delusion because they
-arise from wholesome consciousness, which is necessarily associated
+arise from wholesome Consciousness, which is necessarily associated
 with non-greed and the other wholesome roots.
 
 In this analysis, abstention from preparation for an unwholesome course is
@@ -112,13 +115,13 @@ The wholesome side supplies a different but complementary relation:
 
 ```text
 alobha + adveṣa + amoha
-    necessarily associated with wholesome consciousness
+    necessarily associated with wholesome Consciousness
         ↓
 wholesome preparation → principal course → aftermath
 ```
 
 Here the wholesome roots do not merely label an act retrospectively. They
-belong to the consciousness from which the entire course arises. The
+belong to the Consciousness from which the entire course arises. The
 Bhāṣya thereby distinguishes behavioral non-performance from a positively
 generated wholesome restraint.
 
@@ -154,7 +157,7 @@ complete genesis:
 
 ```text
 Wholesome Roots
-    → wholesome consciousness
+    → wholesome Consciousness
     → Preparation
     → Principal Restraint
     → Persistent Aftermath
@@ -164,7 +167,7 @@ For our Rational Moral Agent, this prevents a behavior-only judgment. The
 same visible omission can arise from inability, fear, calculation, or an
 acquired wholesome determination. The course is wholesome when its phases
 are generated and governed by the appropriate roots through wholesome
-consciousness.
+Consciousness.
 
 This allows a comparison between `karmapatha` and `Mārga` without equating
 them. Here `karmapatha` names a wholesome course articulated through

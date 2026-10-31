@@ -124,7 +124,7 @@ continuum, not annihilation of eternal substances.
 **`Mūlaccheda` / `samuccheda` — root-severance**
 
 Loss of the relevant wholesome roots such that the continuum no longer
-possesses them and is rendered an unsuitable basis for corresponding higher
+possesses them and is rendered an unsuitable receptacle for corresponding higher
 wholesome acquisitions.
 
 **`Adhimātra-paripūrṇā mithyādṛṣṭi` — fully intensified false view**
@@ -179,11 +179,18 @@ function remains explicit.
 The Bhāṣya's expansion of the complete field of wholesome roots and the graded
 false view that severs them.
 
-**`Bhājana` / `abhājana` — suitable or unsuitable basis**
+**`Bhājana` / `abhājana` — suitable or unsuitable receptacle**
 
 The continuum becomes unsuitable for acquiring higher-realm wholesome roots.
 This explains how direct severance of Desire Realm roots also places those
 higher acquisitions far away.
+
+**`Ālambana` — Support**
+
+The Bhāṣya asks which Support the severing false view takes. It specifies a
+Support with influx rather than one without influx, and a Support in a
+corresponding Realm rather than a different Realm. This is a restriction on
+the view's Support, distinct from the `hetu` it denies.
 
 ## 8. Logical Determination
 

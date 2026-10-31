@@ -32,8 +32,10 @@ duḥkhadarśanādiheyā avyākṛtayor dṛṣṭyor niṣyandaphalam. avyāk�
 etāny eva trīṇi.
 ```
 
-The witness reads `puruṣakārādhipatiphalel` at `[256|15]`; this is normalized
-as the dual `puruṣakārādhipatiphale`. At `[256|16–17]`, the compressed
+The witness reads `niḥṣyandaphalam` at `[256|12–13]`, normalized above to
+`niṣyandaphalam` in accord with the kārikā's result name in 4.85. It reads
+`puruṣakārādhipatiphalel` at `[256|15]`; this is normalized as the dual
+`puruṣakārādhipatiphale`. At `[256|16–17]`, the compressed
 `avyākṛtayordṛṣṭyoniḥrṣyandaphalam` is segmented and normalized as
 `avyākṛtayor dṛṣṭyor niṣyandaphalam`.
 
@@ -55,7 +57,7 @@ and three results, respectively.
 Wholesome dharmas stand as two results of indeterminate action: the
 activity-produced and dominant results. Unwholesome dharmas stand as three
 results, with maturation and disconnection excluded. Unwholesome dharmas
-abandoned by seeing suffering and the other truths are corresponding results
+abandoned by seeing suffering and so on are corresponding results
 of the two indeterminate views. Indeterminate dharmas stand under these same
 three result-relations.
 
@@ -130,7 +132,7 @@ indeterminate views:
 These views are ethically indeterminate in the Sarvāstivāda classification,
 yet they stand as corresponding results of pervasive unwholesome dharmas and
 unwholesome dharmas abandoned by seeing suffering. Conversely, unwholesome
-dharmas abandoned by seeing suffering and the remaining truths can stand as
+dharmas abandoned by seeing suffering and so on can stand as
 corresponding results of the two views.
 
 ```text

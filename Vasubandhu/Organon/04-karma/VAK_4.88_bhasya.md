@@ -28,8 +28,11 @@ catvāri phalāni, vipākaphalaṃ hitvā; akuśalā dve,
 puruṣakārādhipatiphale; avyākṛtās trīṇi, niṣyandavisaṃyogaphale hitvā.
 ```
 
-The witness reads `kuśalsya` at `[256|06–07]`, normalized above to
-`kuśalasya`. Its `strīṇi` at `[256|07–08]` is resolved by segmentation as
+The witness reads `śeṣāṃ` in the kārikā at `[256|03]`, normalized above to
+the expected neuter `śeṣaṃ` agreeing with `anāsravaṃ [karma]`. It reads
+`kuśalsya` at `[256|06–07]`, normalized to `kuśalasya`, and `niḥṣyanda` at
+`[256|07–08]`, normalized to `niṣyanda` in accord with the kārikā's result
+name in 4.85. Its `strīṇi` at `[256|07–08]` is resolved by segmentation as
 `avyākṛtās trīṇi`, “indeterminate dharmas, three.”
 
 ## 3. Continuous Translation

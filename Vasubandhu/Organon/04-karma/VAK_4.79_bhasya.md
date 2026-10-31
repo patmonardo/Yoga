@@ -9,7 +9,7 @@
 > Realm wholesome roots acquired by birth, completely and in sequence.
 
 False view now appears at its strongest practical degree. It no longer
-merely misclassifies one action: it can remove the generative bases through
+merely misclassifies one action: it can remove the generative capacities through
 which wholesome action arises.
 
 ## 2. Continuous Sanskrit
@@ -152,18 +152,19 @@ formless domains.
 How, then, should one understand the statement in the *Prajñaptibhāṣya* that
 this person has severed wholesome roots belonging to all three domains? It
 means that acquisition of those higher roots has been made remote because
-the continuum has been rendered an unsuitable basis for them. Only roots
+the continuum has been rendered an unsuitable receptacle for them. Only roots
 acquired by birth are directly severed; those produced through practice
 have already been lost before the final severance.
 
-Through false view having what object are they severed? “Through a view
+With what Support does false view sever them? “Through a view
 denying result and ground.” One denial concerns the ground: “There is no
 good conduct and no bad conduct.” The other concerns the result: “Wholesome
 and unwholesome karma have no fruit or maturation.” Some compare these two
 denials respectively to the uninterrupted and liberation paths.
 
-The severing view takes a contaminated object rather than an uncontaminated
-one, and an object belonging to its own domain rather than another domain.
+The severing view takes a Support with influx, rather than one without
+influx, and a Support belonging to a corresponding Realm rather than a
+different Realm.
 One explanation appeals to the weakness of an anuśaya that operates merely
 through association. The witness is compressed here, so the precise scope
 of that subsidiary explanation remains provisional.
@@ -187,9 +188,9 @@ Some say false view severs the roots through its manifest arising, as does
 the path of seeing. The preferred account describes both modes. Some say
 that restraint is abandoned first and the wholesome roots are cut off
 afterward. The alternative explanation says that the restraint belonging
-as result to a particular citta is abandoned through abandonment of that
-citta. The relation between restraint-loss and root-severance is preserved
-as a transmitted dispute.
+as result to a particular Consciousness is abandoned through abandonment of
+that Consciousness. The relation between restraint-loss and root-severance
+is preserved as a transmitted dispute.
 
 Where are wholesome roots severed? “Among humans.” This occurs among human
 beings, not in the lower destinies, because afflicted and unafflicted
@@ -238,7 +239,7 @@ form and formless-domain roots
 ```
 
 “Roots of all three domains are severed” therefore describes a transformation
-of the continuum's eligibility. The continuum becomes an unsuitable basis
+of the continuum's eligibility. The continuum becomes an unsuitable receptacle
 for acquiring the higher roots. Direct loss and exclusion of future
 acquisition must remain distinct.
 
@@ -303,7 +304,7 @@ erase the efficacy of the wholesome/unwholesome distinction
         ↓
 progressively disable wholesome generation
         ↓
-render the continuum an unsuitable basis for higher acquisition
+render the continuum an unsuitable receptacle for higher acquisition
 ```
 
 An agent can make a local error while retaining the principles required for

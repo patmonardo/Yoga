@@ -6,12 +6,12 @@
 > senādiṣvekakāryatvāt sarve kartṛvadanvitāḥ // 4.72 //
 
 > For one who dies simultaneously with the victim or beforehand, there is no
-> principal course, because another support arises. In an army and similar
+> principal course, because another Basis arises. In an army and similar
 > undertakings, all are connected with the course like the doer because they
 > participate in one common operation.
 
 The verse places two attribution problems together. Across rebirth, a
-change of support can break principal completion. Across a coordinated
+change of Basis can break principal completion. Across a coordinated
 group, unity of undertaking can extend the completed course beyond the
 immediate executor.
 
@@ -73,10 +73,10 @@ whose life is taken or at the same time. Why is that so? While the intended
 victim remains alive, the killer is not yet connected with the fault of
 killing; nor is a killer who has died simultaneously connected with it.
 
-This is “because another support arises.” The preparation was performed
-through one support, but that support has ceased and an entirely different
-support, belonging to another `nikāyasabhāga`, has arisen. Because this
-later support did not instigate the preparation, it is not properly joined
+This is “because another Basis arises.” The preparation was performed
+through one Basis, but that Basis has ceased and an entirely different
+Basis, belonging to another `nikāyasabhāga`, has arisen. Because this
+later Basis did not instigate the preparation, it is not properly joined
 to the principal course.
 
 When many people set out together in an army attack, a hunt, or a raid for
@@ -92,25 +92,25 @@ What, then, of someone taken along by force? That person too is connected,
 except when they go with the settled resolution: “Even for the sake of my
 life, I will not kill a living being.”
 
-## 4. Completion Across a Change of Support
+## 4. Completion Across a Change of Basis
 
 The first case separates causal efficacy from principal attribution:
 
 ```text
-support A arranges the killing
+Basis A arranges the killing
     → preparation is established
 
-support A ceases before or with the victim's death
-    → another support B arises
+Basis A ceases before or with the victim's death
+    → another Basis B arises
 
 the victim dies
     → the intended result occurs
-    → principal killing-course is not transferred to support B
+    → principal killing-course is not transferred to Basis B
 ```
 
 The later result does not retroactively disappear. What fails is the
-required unity between the support that undertook the preparation and the
-support present when the defining result completes the course. The Bhāṣya
+required unity between the Basis that undertook the preparation and the
+Basis present when the defining result completes the course. The Bhāṣya
 therefore tracks two distinct relations:
 
 ```text
@@ -119,15 +119,15 @@ principal possession of the completed course
 ```
 
 `Anyāśraya` is not merely another moment of the same embodied agent. It is
-the support arising in another membership-series after the former support
+the Basis arising in another class of beings after the former Basis
 has ceased. The Abhidharma continuity is causally effective without making
-every later support the bearer of every principal course whose preparation
+every later Basis the bearer of every principal course whose preparation
 occurred earlier.
 
 ## 5. Collective Agency Through One Operation
 
-The second case moves in the opposite direction. Many bodily supports can
-be united by `ekakāryatva`, participation in one common practical
+The second case moves in the opposite direction. Many persons with distinct
+Bases can be united by `ekakāryatva`, participation in one common practical
 operation:
 
 ```text
@@ -156,7 +156,7 @@ VAK 4.72 gives two rules for the unity of a Course of Action:
 
 ```text
 diachronic unity
-    continuity of the relevant support through completion
+    continuity of the relevant Basis through completion
 
 synchronic unity
     many participants integrated through one operation
@@ -164,15 +164,15 @@ synchronic unity
 
 Thus physical continuity and numerical individuality are insufficient as
 general measures of agency. A causal process can continue after its former
-support has ceased without transferring principal possession; many persons
+Basis has ceased without transferring principal possession; many persons
 can bear one completed determination through coordinated participation.
 
 For our Rational Moral Agent, the executable configuration requires:
 
 ```text
-<Initiating Support,
+<Initiating Basis,
  Completion Event,
- Support Transition,
+ Basis Transition,
  Participants,
  Common Operation,
  Practical Refusal>
@@ -180,9 +180,12 @@ For our Rational Moral Agent, the executable configuration requires:
 
 This develops `karmapatha` as a ruling practical Form. The course determines
 which acts and participants belong to one operation and which transition
-breaks its attribution. The language of diachronic and synchronic unity is
-the Organon reconstruction; the support rule, collective examples, mutual
-instigation, and refusal exception belong to the Bhāṣya.
+breaks its attribution. In the Organon triad of 4.71, the objective Base is
+the field on which the course operates; the `āśraya` or Basis here is the
+bearer through whom the course is undertaken. The two roles must remain
+distinct when we describe one genetic action. The language of diachronic and
+synchronic unity is the Organon reconstruction; the Basis rule, collective
+examples, mutual instigation, and refusal exception belong to the Bhāṣya.
 
 ## 7. Review Status
 

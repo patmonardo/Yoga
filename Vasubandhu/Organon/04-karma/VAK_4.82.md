@@ -91,9 +91,9 @@ present manifestation there.
 ## 5. Translation
 
 ### Literal Translation
-> In hell, disordered or frivolous speech, harsh speech, and ill will occur in
-> both modes; covetousness and false view occur by endowment. In Kuru, the
-> three occur by endowment.
+> In hell, disordered speech, harsh speech, and ill will [are present] in two
+> ways; covetousness and false view [are present] by endowment. In Kuru, the
+> three [are present by endowment].
 
 ### Bhāṣya-informed study translation
 
@@ -145,6 +145,12 @@ incoherence.
 The condition associated with mutual torment and manifestation of harsh
 speech.
 
+**`Rañjanīya-vastu` — attractive Thing**
+
+The Bhāṣya denies such a Thing in hell when explaining why covetousness
+does not become manifest there. The same `vastu` appears in
+`āghāta-vastu`, a Thing occasioning hostility.
+
 **`Karmaphala-pratyakṣatva` — direct evidence of karmic result**
 
 The reason false view does not manifest in hell. The lived result is too
@@ -163,8 +169,8 @@ The Bhāṣya's reason covetousness does not manifest in Uttarakuru.
 
 **`Snigdha-saṃtānatva` and `āghāta-vastvabhāva`**
 
-Gentleness of the continuum and absence of a basis for hostility. Together
-they block the present manifestation of ill will.
+Gentleness of the continuum and absence of a Thing occasioning hostility.
+Together they block the present manifestation of ill will.
 
 **`Apāpāśayatva` — absence of corrupt practical disposition**
 
@@ -279,10 +285,10 @@ explanations of absence are supplied by the Bhāṣya. The Bhāṣya explains th
 the first three Courses of Action are both endowments and presently manifest:
 lamentation manifests disordered speech, mutual torment harsh speech, and
 mutual hatred ill will. Covetousness and false view remain endowed but do not
-manifest in hell, where there is no attractive basis and karmic result is
+manifest in hell, where there is no attractive Thing and karmic result is
 directly evident. In Uttarakuru, covetousness, ill will, and false view remain
-endowed but unmanifest because possessiveness, a hostile basis, and an
-unwholesome disposition are absent.
+endowed but unmanifest because possessiveness, a Thing occasioning
+hostility, and an unwholesome disposition are absent.
 
 **Endowment, possibility, and actuality**
 
@@ -305,9 +311,9 @@ This is more exact than calling a Course of Action simply present or absent.
 
 Hell is not described as uniformly producing every unwholesome Course of
 Action, nor is Uttarakuru described as erasing every unwholesome endowment.
-Each Course of Action is tested against its own requirements: an attractive basis for covetousness,
-purpose for deception, an undivided relation for divisive speech, or a hostile
-basis for ill will.
+Each Course of Action is tested against its own requirements: an attractive
+Thing for covetousness, purpose for deception, an undivided relation for
+divisive speech, or a Thing occasioning hostility for ill will.
 
 **Favorable conditions can inhibit without curing**
 

@@ -6,7 +6,7 @@
 > saṃmukhībhāvataś cāpi hitvā sanarakān kurūn // 4.84 //
 
 > In the Formless Realm and among non-percipient beings, the seven wholesome
-> bodily and verbal Courses of Action occur by acquisition. In the remainder
+> bodily and verbal Courses of Action occur by endowment. In the remainder
 > they also occur by present manifestation, excluding hell beings and the
 > Kurus.
 
@@ -31,24 +31,22 @@ tenārūpyeṣv atītena samanvāgato bhavati. pañcabhūmyāśrayeṇa tv anāg
 
 saṃmukhībhāvataś cāpi hitvā sanarakān kurūn // 4.84 //
 
-śeṣaḥ kṛtaḥ śeṣitaḥ. yo 'nyo dhātuḥ śeṣito gatir vā, tatrāite sapta
+śeṣaḥ kṛtaḥ śeṣitaḥ. yo 'nyo dhātuḥ śeṣito gatir vā, tatraite sapta
 kuśalāḥ karmapathāḥ saṃmukhībhāvato 'pi saṃvidyante 'nyatra
 narakottarakurubhyaḥ.
 
 te punas tiryakpreteṣu saṃvaranirmuktāḥ, rūpadhātau tu
 saṃvarasaṃgṛhītāḥ, anyatrobhayathā.
-
-ta ete daśākuśalāḥ karmapathāḥ kuśalāś ca—
 ```
 
-The final phrase begins the transition to 4.85 and grammatically gathers the
-ten unwholesome and ten wholesome Courses of Action for the coming analysis
-of their results. It is included because it closes the distribution just
-completed; the new predicate concerning results begins with the next kārikā.
+The next sentence begins `ta ete daśākuśalāḥ karmapathāḥ kuśalāś ca` at
+`[253|23–24]` and is translated with its predicate in 4.85.
 
 The running witness has `ārūpyoopapannānām` at `[253|14–16]`, an evident
 vowel duplication normalized above as `ārūpyopapannānām`. It also prints
-`śesaḥ` at `[253|21]`; the expected form is `śeṣaḥ`.
+`śesaḥ` at `[253|21]`; the expected form is `śeṣaḥ`. At `[253|16–17]`,
+`yadbhūmyā śrayamāryeṇa` is read as `yadbhūmyāśrayeṇāryeṇa`;
+the running witness's spacing and `m` are corrupt in this compound.
 
 ## 3. Continuous Translation
 
@@ -57,12 +55,12 @@ bodily and verbal Courses of Action exist only through endowment.
 
 For noble beings reborn in the Formless Realm, this is because they are
 endowed with past and future without-Influx restraint. Non-percipient beings
-are endowed with concentration-born restraint.
+are endowed with Dhyāna restraint.
 
-When a noble being has produced and then ceased without-Influx restraint in
-dependence on a particular ground, that being, while in the Formless Realm,
-remains endowed with the past restraint associated with that ground. Future
-restraint is endowed in dependence upon five grounds.
+When a noble being has produced and then ceased without-Influx restraint
+using a particular level as Basis, that being, while in the Formless Realm,
+remains endowed with that past restraint. The being is also endowed with
+future restraint whose Basis comprises five levels.
 
 “In the remainder” means that a remainder has been made: whichever other
 realm or destiny remains. There the seven wholesome Courses of Action also
@@ -70,8 +68,7 @@ exist by present manifestation, except among hell beings and in Uttarakuru.
 
 Among animals and hungry ghosts these seven are independent of formal
 restraint; in the Form Realm they are included within restraint; elsewhere
-they occur in both ways. These, then, are the ten unwholesome and ten
-wholesome Courses of Action whose results will next be explained.
+they occur in both ways.
 
 ## 4. What the Seven Are
 
@@ -105,29 +102,29 @@ conditions for its present exercise are absent
 
 For noble beings in the Formless Realm, the endowment specifically concerns
 restraint classified as without-Influx across temporal modes. For
-non-percipient beings, it derives from concentration-born restraint. Thus
+non-percipient beings, it derives from Dhyāna restraint. Thus
 “not now manifest” does not mean that
 the restraint has no standing in the continuum.
 
 ## 6. Past and Future Without-Influx Restraint
 
 The temporal qualification is exact. Past endowment corresponds to the
-ground upon which the noble being actually produced and ceased the
-without-Influx restraint. Future endowment extends across five supporting
-grounds.
+level used as Basis when the noble being actually produced and ceased the
+without-Influx restraint. Future endowment extends to restraint with five
+levels as its Basis.
 
 ```text
 past restraint
-    indexed to the ground of actual prior production
+    indexed to the level used as Basis in actual prior production
 
 future restraint
-    available in relation to five supporting grounds
+    with five levels as Basis
 ```
 
 The passage therefore combines three coordinates:
 
 ```text
-Course of Action × temporal mode × supporting ground
+Course of Action × temporal mode × level serving as Basis
 ```
 
 The present formless existence does not erase the restraint's past and future
@@ -196,7 +193,7 @@ how that manifestation relates to formal restraint. Endowment is not a
 present deed, but neither is it an inert object hidden inside an agent.
 
 The Bhāṣya's account further indexes endowment to temporal mode and
-supporting ground. Thus its practical structure is not a simple agent-to-act
+level serving as Basis. Thus its practical structure is not a simple agent-to-act
 sequence:
 
 ```text
@@ -204,7 +201,7 @@ RestraintStanding {
     courseOfAction
     continuum
     temporalMode
-    supportingGround
+    basisLevel
     formalStatus
     manifestableHere
 }
@@ -212,14 +209,14 @@ RestraintStanding {
 
 Within the Bhava Chakra, realm and destination condition the modes in which
 wholesome action belongs and manifests. The source's Sarvāstivāda account of
-past and future Dharmas and the five supporting grounds remains explicit in
+past and future Dharmas and the five levels serving as Basis remains explicit in
 that interpretation.
 
 ## 10. Review Status
 
-The complete 4.84 unit `[253|13]–[253|24]` is included. It covers the seven
+The complete 4.84 unit `[253|13]–[253|23]` is included. It covers the seven
 Courses of Action as endowments in the Formless Realm and among non-percipient
-beings, the temporal and ground-indexed account of without-Influx restraint,
+beings, the temporal account of without-Influx restraint indexed to Basis,
 manifestation in the remaining fields, and the three restraint statuses. It stops before the 4.85
-predicate assigning three kinds of result. Two witness irregularities are
+sentence assigning three kinds of result. Three witness irregularities are
 recorded explicitly.

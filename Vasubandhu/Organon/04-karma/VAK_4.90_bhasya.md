@@ -33,9 +33,12 @@ ajātasya phalāni trīṇy anāgatāḥ // 4.90 //
 anāgatasyānāgatāni trīṇi phalāni, niṣyandavisaṃyogaphale hitvā.
 ```
 
-The witness reads `phalaṃ` at `[256|20]`, `catvāti` at `[256|22]`,
-`pratyupannasya` at `[256|24]`, and `triṇy` at `[256|25]`. These are
-normalized above according to the immediately explicit syntax.
+The witness reads `traiyadvikāḥ` at `[256|19–20]` and
+`visaṃyogaphalalṃ` at `[256|20]`; these are normalized above to
+`traiyadhvikāḥ` and `visaṃyogaphalaṃ`. It also reads `catvāti` at
+`[256|22]`, `pratyupannasya` at `[256|24]`, `triṇy` at `[256|25]`, and
+`niḥṣyanda` at `[257|01]`; these are normalized to `catvāri`,
+`pratyutpannasya`, `trīṇy`, and `niṣyanda` respectively.
 
 ## 3. Continuous Translation
 

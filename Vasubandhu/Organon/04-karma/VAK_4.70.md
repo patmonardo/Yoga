@@ -105,7 +105,7 @@ of a karmapatha.
 
 The afflictive root characterized by aversion and rejection. The Bhāṣya
 explains the hatred-triad through the immediate presence of a rejecting,
-harsh consciousness (`parityāga-paruṣa-citta-saṃmukhībhāva`).
+harsh Consciousness (`parityāga-paruṣa-citta-saṃmukhībhāva`).
 
 **The hatred-completed triad**
 
@@ -184,6 +184,9 @@ preparation for an unwholesome course
     may arise from any of the three roots
 ```
 
+VAK 4.69 also classifies mental courses by the root immediately preceding
+their arising. Neither relation alone specifies the root at completion.
+
 VAK 4.70 now determines:
 
 ```text
@@ -230,7 +233,7 @@ principial course brought to completion through intensified delusion.
 ## 9. Interpretive Note
 
 **Translation note.** The Bhāṣya explains the hatred-triad through the immediate presence of a
-rejecting and harsh consciousness. Its discussion here completes the two
+rejecting and harsh Consciousness. Its discussion here completes the two
 triads named by the Kārikā. VAK 4.71 continues the classification by assigning
 false view to intense delusion and the three remaining speech-courses to any
 of the three roots.

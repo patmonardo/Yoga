@@ -102,21 +102,21 @@ three realms.
 ## 5. Translation
 
 ### Literal Translation
-> Here in Uttarakuru, the seventh Course of Action also occurs by present
-> manifestation. Elsewhere in the Desire Realm, all ten unwholesome Courses of
-> Action also occur by present manifestation. But the three wholesome mental
-> Courses of Action occur everywhere by present manifestation and acquisition.
+> Here [in Uttarakuru], the seventh [Course of Action] also occurs directly.
+> Elsewhere in the Desire Realm, ten unwholesome [Courses of Action]
+> [occur]. But the three wholesome [Courses of Action] occur everywhere by
+> present manifestation and acquisition.
 
 ### Bhāṣya-informed study translation
 
 > Here in Uttarakuru, the seventh Course of Action also occurs by present
 > manifestation. Elsewhere in the Desire Realm, all ten unwholesome Courses of
 > Action also occur by present manifestation. But the three wholesome mental
-> Courses of Action occur everywhere by present manifestation and acquisition.
+> Courses of Action occur everywhere by present manifestation and endowment.
 
 ## 6. Philosophical Translation
 
-> Here in Uttarakuru, the seventh Course of Action also occurs by present manifestation. Elsewhere in the Desire Realm, all ten unwholesome Courses of Action also occur by present manifestation. But the three wholesome mental Courses of Action occur everywhere by present manifestation and acquisition.
+> Here in Uttarakuru, the seventh Course of Action also occurs by present manifestation. Elsewhere in the Desire Realm, all ten unwholesome Courses of Action also occur by present manifestation. But the three wholesome mental Courses of Action occur everywhere by present manifestation and endowment.
 
 ## 7. Technical Vocabulary
 
@@ -133,9 +133,9 @@ the Course of Action exists through `saṃmukhībhāva`, actual present occurren
 
 **Why the seventh can manifest**
 
-The inhabitants sometimes sing with afflicted consciousness. The same surface form,
-song, was already shown in VAK 4.76–4.77 to vary in ethical status according
-to its orientation.
+The inhabitants sometimes sing with afflicted Consciousness. The same
+surface form, song, was already shown in VAK 4.76–4.77 to vary in ethical
+status according to its orientation.
 
 **`Apāpāśaya` — absence of corrupt disposition**
 
@@ -182,8 +182,9 @@ by false view.
 
 **`Lābha` — acquisition or endowment**
 
-The continuum-level relation through which a Course of Action belongs operatively to a
-continuum. Here it is paired directly with present manifestation.
+The continuum-level relation through which a Course of Action belongs
+operatively to a continuum. Here the Bhāṣya explains `lābhataḥ` as `samanvāgamataḥ`,
+endowment, and pairs it with present manifestation.
 
 ## 8. Logical Determination
 
@@ -279,7 +280,7 @@ of permissions.
 **Translation note.** The identification of the seventh, its mode of
 occurrence, the exact scope of `anyatra`, and the universal expansion of
 `sarvatra` are supplied by the Bhāṣya. The seventh is disordered or frivolous
-afflicted speech: its inhabitants sometimes sing with afflicted consciousness,
+afflicted speech: its inhabitants sometimes sing with afflicted Consciousness,
 although the three unwholesome mental Courses of Action remain merely endowed
 there. “Elsewhere” excludes hell and Uttarakuru. The three wholesome Courses
 of Action are non-covetousness, non-hostility, and right view; each can belong
@@ -303,9 +304,8 @@ why its members are unequally distributed.
 **Favorable environment is not perfected agency**
 
 Uttarakuru removes many occasions and supports for wrongdoing, but an
-afflicted consciousness can still generate the seventh verbal Course of
-Action. External
-configuration can constrain action without completing the internal
+afflicted Consciousness can still generate the seventh verbal Course of
+Action. External configuration can constrain action without completing the internal
 transformation of every continuum.
 
 **Wholesome portability**

@@ -5,7 +5,7 @@
 > paiśunyaṃ kliṣṭacittasya vacanaṃ parabhedane /
 > pāruṣyamapriyaṃ sarvaṃ kliṣṭaṃ bhinna pralāpitā // 4.76 //
 
-> Divisive speech is the utterance of one whose consciousness is afflicted,
+> Divisive speech is the utterance of one whose Consciousness is afflicted,
 > directed toward dividing others. Harsh speech is disagreeable speech. All
 > afflicted speech is disordered discourse.
 
@@ -49,22 +49,23 @@ which had carried that next half-verse and its prose into 4.76.
 
 ## 3. Continuous Translation
 
-“Divisive speech is the utterance of one whose consciousness is afflicted,
-directed toward dividing others.” Speech arising from afflicted consciousness
+“Divisive speech is the utterance of one whose Consciousness is afflicted,
+directed toward dividing others.” Speech arising from afflicted Consciousness
 and directed toward dividing others and producing estrangement is divisive
-speech. The conditions “one understanding the meaning” and “without
+speech. The conditions “one understanding the Meaning” and “without
 mistake” continue to apply.
 
 “Harsh speech is disagreeable speech.” The expressions “utterance of one
-whose consciousness is afflicted,” “one understanding the meaning,” and “without
+whose Consciousness is afflicted,” “one understanding the Meaning,” and “without
 mistake” also continue here. Afflicted speech that is disagreeable to
-others, whose meaning is understood, and which is addressed to the very
+others, whose Meaning is understood, and which is addressed to the very
 person intended is harsh speech.
 
 “All afflicted speech is disordered discourse.” The governing term
 “statement” continues. Every afflicted statement is `saṃbhinnapralāpa`.
-This condition is `saṃbhinnapralāpitā`, and through conjunction with it
-someone becomes one who engages in disordered discourse.
+That very afflicted speech constitutes `saṃbhinnapralāpitā`, the condition
+of engaging in disordered discourse; through association with it, someone
+becomes one who engages in disordered discourse.
 
 ## 4. Three Determinations of Verbal Action
 
@@ -83,7 +84,9 @@ DISORDERED SPEECH — BROAD ACCOUNT
 
 Divisive and harsh speech inherit `arthābhijña` and `abhrānti`. The
 utterance must become intelligible for the recipient and reach the person
-or relation actually intended.
+or relation actually intended. The question in 4.74 of actual understanding
+versus capacity to understand is inherited with `arthābhijña`; it is not
+settled afresh here.
 
 Harsh speech is more determinate than whatever a hearer happens to dislike.
 Its disagreeable character belongs to an afflicted semantic act directed

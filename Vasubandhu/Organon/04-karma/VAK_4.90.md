@@ -103,10 +103,9 @@ the temporal status of the candidate result-dharmas.
 ## 5. Translation
 
 ### Literal Translation
-> For past action, dharmas of all three times stand under four
-> result-relations. For present action, future dharmas stand under those
-> same four, and present dharmas under two. For future action, future dharmas
-> stand under three result-relations.
+> All [dharmas] stand under four results of past [action]; future [dharmas]
+> likewise under four of middle [action]. Middle [dharmas] stand under two;
+> future [dharmas] stand under three results of unborn [action].
 
 ### Bhāṣya-informed study translation
 

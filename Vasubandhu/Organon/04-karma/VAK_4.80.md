@@ -98,10 +98,10 @@ result.
 ## 5. Translation
 
 ### Literal Translation
-> A woman or a man whose disposition is governed by view severs them; that
-> severance is non-endowment. Reconnection occurs through doubt or the view
-> that karmic ground and result exist, but not here for one who has committed
-> an immediate-retribution action.
+> A woman or a man governed by view severs [those roots]; that [severance]
+> is non-endowment. Reconnection is through doubt or the view that there is
+> [karmic ground and result], but not here for one who has committed an
+> immediate-retribution action.
 
 ### Bhāṣya-informed study translation
 

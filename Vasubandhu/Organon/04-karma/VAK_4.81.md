@@ -84,9 +84,9 @@ universalized beyond that context.
 ## 5. Translation
 
 ### Literal Translation
-> Volition occurs simultaneously with up to eight unwholesome Courses of
-> Action; with up to ten wholesome Courses of Action, but not with one, eight,
-> or five.
+> Volition occurs simultaneously with as many as eight unwholesome [Courses
+> of Action]; [it occurs] with as many as ten wholesome [Courses of Action],
+> but not with one, eight, or five.
 
 ### Bhāṣya-informed study translation
 
@@ -157,10 +157,10 @@ Examples supplied by the Bhāṣya include:
 vyāpāda + prāṇātipāta
     = 2
 
-intent to divide
-    + false speech
+one mental Course of Action
     + divisive speech
-    + harsh speech
+    + disordered speech (inferred from the broad 4.76 account)
+    + false speech or harsh speech
     = 4
 
 preparation concerning six Courses of Action
@@ -172,6 +172,11 @@ preparation concerning six Courses of Action
 The examples establish possible structures, not a universal recipe for every
 event of that cardinality.
 
+The third verbal member in the fourfold example is inferred from the broad
+4.76 definition of disordered speech. The 4.81 Bhāṣya states the count and
+says “false speech or harsh speech,” but does not name all three verbal
+members separately.
+
 **Completion-root rule preserved**
 
 The Bhāṣya raises an apparent contradiction: if taking what is not given can
@@ -181,7 +186,7 @@ greed? The answer restricts the earlier rule:
 ```text
 characteristic completion-root
     governs the case
-    where the completing consciousness is not otherwise determined
+    where the completing Consciousness is not otherwise determined
 
 complex co-presence
     may contain additional mental determinants

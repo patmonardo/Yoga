@@ -75,8 +75,8 @@ desire as such.
 ## 5. Translation
 
 ### Literal Translation
-> Others say that afflicted speech other than these is disordered
-> discourse, as with flattering talk, song, drama, and corrupt treatises.
+> Afflicted [speech] other than these [is disordered discourse], say others,
+> as with flattering talk, song, drama, and corrupt treatises.
 > Covetousness, however, is wrongful longing for another's possession.
 
 ### Bhāṣya-informed study translation
@@ -332,11 +332,6 @@ Rule: CovetousnessProjectsWrongfulAppropriation
     and desiresAsOwn(?agent, ?object)
     and WrongfulAppropriativeLonging(?desire)
     -> Covetousness(?agent)
-
-Rule: GeneticAppropriationSequence
-    Covetousness(?mentalCourse)
-    and TakingWhatIsNotGiven(?bodilyCourse)
-    -> geneticallyPrecedes(?mentalCourse, ?bodilyCourse)
 
 Constraint: DesireInGeneralIsNotCovetousnessKarmapatha
     desire or craving without wrongful appropriation of another's possession

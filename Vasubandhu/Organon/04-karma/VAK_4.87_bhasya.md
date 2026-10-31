@@ -42,10 +42,17 @@ caturbhir visaṃyogaphalaṃ hitvā.
 ```
 
 The running source marks the opening question `[254|15]`, an impossible
-regression after `[255|14]`; it is read as `[255|15]`. The transmitted
+regression after `[255|14]`; it is read as `[255|15]`. That question also
+ends with a dangling `prahāṇam`, apparently anticipating the kārikā's
+`prahāṇamārge`; it is recorded here rather than silently treated as part of
+the question. The transmitted
 `svabhūmāviṣṭo vipākaḥ` is compact; it is retained without imposing a
-conjectural compound division. The witness's `karmaṃ` at `[256|01–02]` is
-normalized to `karma`.
+conjectural compound division. At `[255|20–21]` the witness prints
+`'dhimuktimārgas`; `vimuktimārgas` (Path of Liberation) is a conjectural
+repair, supported by the established pairing with the immediately preceding
+`ānantaryamārga`. The witness's `karmaṃ` at `[256|01–02]` is normalized to
+`karma`. Its `niḥṣyandaphalaṃ` is normalized to `niṣyandaphalaṃ` in accord
+with the kārikā.
 
 ## 3. Continuous Translation
 
@@ -57,8 +64,8 @@ A path is directed toward abandonment, or the afflictions are abandoned by
 means of it; hence “Path of Abandonment.” This is the uninterrupted Path.
 Any action with Influx within it possesses all five results.
 
-Its maturation result is the maturation belonging to and entering its own
-ground. Its corresponding result consists in later similar dharmas born from
+Its maturation result is maturation situated in its own level (`bhūmi`). Its
+corresponding result consists in later similar dharmas born from
 samādhi. Its disconnection-result is disconnection itself, the abandonment
 in question. Its activity-produced result consists in the dharmas drawn forth
 by it, such as the Path of Liberation and the dharmas arising together with
@@ -115,7 +122,7 @@ result relation:
 
 | Result | Bhāṣya determination |
 |---|---|
-| maturation | maturation associated with its own ground |
+| maturation | maturation situated in its own level |
 | corresponding | later similar samādhi-born dharmas |
 | disconnection | the abandonment or disconnection itself |
 | activity-produced | liberation path, co-arising dharmas, future cultivation, and abandonment drawn forth |

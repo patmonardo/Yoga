@@ -22,8 +22,8 @@ anyathāsaṃjñino vākyamarthābhijñe mṛṣāvacaḥ // 4.74 //
 | `kāma-mithyā-ācāraḥ` | nominative masculine singular compound | wrong conduct in the sexual domain |
 | `catur-vidhaḥ` | nominative masculine singular | fourfold |
 | `anyathā-saṃjñinaḥ` | genitive masculine singular | of one whose recognition is otherwise |
-| `vākyam` | nominative neuter singular | statement; meaning-bearing utterance |
-| `artha-abhijñe` | locative masculine singular | in relation to one who understands the meaning |
+| `vākyam` | nominative neuter singular | statement; Meaning-bearing utterance |
+| `artha-abhijñe` | locative masculine singular | in relation to one who understands the Meaning |
 | `mṛṣā-vacaḥ` | nominative neuter singular compound | false speech |
 
 **`Agamya` is relational**
@@ -71,28 +71,28 @@ anyathā-saṃjñinaḥ
 ```
 
 > The statement of one whose recognition is otherwise, when addressed to one
-> who understands its meaning, is false speech.
+> who understands its Meaning, is false speech.
 
 The genitive qualifies the speaker through the divergence between inward
 recognition and statement. The locative gives the recipient-side condition:
-the hearer understands the meaning asserted.
+the hearer understands the Meaning asserted.
 
 ## 5. Translation
 
 ### Literal Translation
 > Going where one should not approach is sexual misconduct, and it is
 > fourfold. The statement of one whose recognition is otherwise, when the
-> hearer understands its meaning, is false speech.
+> hearer understands its Meaning, is false speech.
 
 ### Bhāṣya-informed study translation
 
 > Sexual misconduct is fourfold approach to what is not to be approached.
 > False speech is the statement of one whose recognition is otherwise,
-> directed to one capable of understanding its meaning.
+> directed to one capable of understanding its Meaning.
 
 ## 6. Philosophical Translation
 
-> Going where one should not approach is sexual misconduct, and it is fourfold. The statement of one whose recognition is otherwise, when the hearer understands its meaning, is false speech.
+> Going where one should not approach is sexual misconduct, and it is fourfold. The statement of one whose recognition is otherwise, when the hearer understands its Meaning, is false speech.
 
 ## 7. Technical Vocabulary
 
@@ -133,8 +133,11 @@ attributed to the Bhāṣya.
 Carried forward from VAK 4.73. If an actual prohibited partner is mistakenly
 taken to be one's permitted partner, the Bhāṣya denies the completed course.
 For the converse—approaching one person while taking them to be a prohibited
-partner—it reports two views: one finds completion through intention plus use
-of the basis; another finds preparation only, by analogy with killing.
+partner—it reports two views: one finds completion through preparation aimed
+at a prohibited partner plus enjoyment of the actual Thing (`vastu`);
+another finds preparation only, by analogy with killing. Here `vastu`
+names the actual Thing involved; VAK 4.71's `adhiṣṭhāna` classifies the
+kind of field on which the course operates.
 
 **`Saṃjñā` — recognition**
 
@@ -143,17 +146,17 @@ matter otherwise than the statement represents it.
 
 **`Vākya` — statement**
 
-A structured, meaning-bearing utterance. It may consist of many phonetic units
+A structured, Meaning-bearing utterance. It may consist of many phonetic units
 and is not reducible to a single sound considered in isolation.
 
-**`Arthābhijña` — understanding the meaning**
+**`Arthābhijña` — understanding the Meaning**
 
 The recipient who grasps what the statement asserts. Hearing sounds without
-understanding their meaning does not complete false speech under this rule.
+understanding their Meaning does not complete false speech under this rule.
 
 **`Mṛṣāvacas` / `mṛṣāvāda` — false speech**
 
-Speech whose asserted meaning diverges from the speaker's own recognition and
+Speech whose asserted Meaning diverges from the speaker's own recognition and
 is successfully understood by the recipient.
 
 **`Varṇa` — phonetic unit**
@@ -228,7 +231,7 @@ and hearer understands Q
 earlier phonetic units
     = prayoga
 
-final meaning-completing unit
+final Meaning-completing unit
     + avijñapti
     = maula karmapatha
 ```
@@ -243,8 +246,8 @@ comprehension belong to the Bhāṣya. The Bhāṣya classifies sexual misconduc
 the person or relation, bodily locus, place, or time, and carries forward the
 non-mistake condition. It reports disagreement about cases in which intended
 and actual partners do not coincide. False speech is completed when a speaker
-asserts a meaning contrary to their own recognition and the recipient
-understands that meaning. If understanding does not occur, the speech is
+asserts a Meaning contrary to their own recognition and the recipient
+understands that Meaning. If understanding does not occur, the speech is
 classified instead as disordered speech; whether actual understanding or only
 capacity is required remains disputed in the commentary.
 
@@ -288,7 +291,7 @@ Form is the project synthesis.
 > relations they realize. Sexual activity is classified through the governing
 > interpersonal, bodily, spatial, and temporal conditions of its performance.
 > False speech is a semantic act in which the speaker asserts for another a
-> meaning divergent from the speaker's own recognition. Its
+> Meaning divergent from the speaker's own recognition. Its
 > completion therefore lies not in sound alone but in successfully constituted
 > understanding.
 

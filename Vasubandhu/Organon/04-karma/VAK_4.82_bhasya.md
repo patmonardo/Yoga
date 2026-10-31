@@ -57,7 +57,7 @@ harsh speech through mutual torment and the roughness of the continua; ill
 will through mutual hatred.
 
 Covetousness and false view occur there by endowment, but not through present
-manifestation. There is no attractive basis, and karmic result is directly
+manifestation. There is no attractive Thing, and karmic result is directly
 evident. There is no killing because death occurs through exhaustion of the
 action sustaining the hell existence. There is neither taking what is not
 given nor sexual misconduct because property and possession of women are
@@ -69,8 +69,8 @@ In Uttarakuru, the three mental unwholesome Courses of Action occur by
 endowment. The phrase “by endowment” continues to govern. Covetousness, ill
 will, and false view do not become presently manifest there because there is
 no possessive appropriation, because the inhabitants' continua are gentle,
-because there is no basis for injury, and because their dispositions are not
-unwholesome.
+because there is no Thing that could occasion hostility, and because their
+dispositions are not unwholesome.
 
 ## 4. Two Modes of Presence
 
@@ -106,7 +106,7 @@ than from a generic statement that every evil must occur there.
 | frivolous speech | endowment and manifestation | lamentation |
 | harsh speech | endowment and manifestation | mutual torment and rough continua |
 | ill will | endowment and manifestation | mutual hatred |
-| covetousness | endowment only | no attractive object |
+| covetousness | endowment only | no attractive Thing |
 | false view | endowment only | karmic result is directly evident |
 
 The remaining five Courses of Action are absent for distinct reasons:
@@ -130,7 +130,7 @@ not arise presently. The Bhāṣya assigns a separate absence-condition to each:
 
 ```text
 no possessive “mine” or appropriation  → no manifest covetousness
-gentle continuum and no injury-basis   → no manifest ill will
+gentle continuum and no Thing occasioning hostility → no manifest ill will
 absence of an unwholesome disposition  → no manifest false view
 ```
 

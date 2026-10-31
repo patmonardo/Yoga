@@ -123,20 +123,20 @@ the aśaikṣa Mind itself
     → mental silence
 
 not
-    mental karma modeled as a third vijñapti
+    mental karma modeled as a third avijñapti
 ```
 
-The Bhāṣya gives the reason: there is no mental `vijñapti` corresponding to
-bodily and verbal manifestation.
+The Bhāṣya gives the reason: there is no `avijñapti` of Consciousness
+corresponding to bodily and verbal abstention.
 
 **`cittaṃ hi paramārthamuniḥ`**
 
 ```text
-for consciousness is the sage in the highest sense
+for Consciousness is the sage in the highest sense
 ```
 
 The inward condition is inferred from bodily and verbal karmas. Their outward
-appearance is evidence from which consciousness is inferred, not a replacement
+appearance is evidence from which Consciousness is inferred, not a replacement
 for it.
 
 **Why only the arhat**
@@ -179,18 +179,18 @@ cleanliness.
 Bhāṣya's epistemic direction
     bodily and verbal action
         → inference
-        → consciousness (citta)
+        → Consciousness (citta)
 ```
 
-The passage identifies Mind itself as the third silence but says consciousness
+The passage identifies Mind itself as the third silence but says Consciousness
 is inferred from bodily and verbal action. It does not state a direct causal
 sequence from restrained Mind to those actions.
 
 **No artificial symmetry**
 
 ```text
-body     → karma / vijñapti / abstention
-speech   → karma / vijñapti / abstention
+body     → karma / avijñapti / abstention
+speech   → karma / avijñapti / abstention
 Mind     → Mind itself restrained
 ```
 
@@ -221,14 +221,14 @@ Purity is determined through its genetic relation to the contrary it removes.
 
 **Translation note.** The Bhāṣya specifies that bodily and verbal silence are the bodily and verbal
 karma of one beyond training, while the third is Mind itself, not mental
-karma. It calls consciousness the sage in the highest sense and says that
-consciousness is inferred from bodily and verbal karma. Since silence means
+karma. It calls Consciousness the sage in the highest sense and says that
+Consciousness is inferred from bodily and verbal karma. Since silence means
 abstention, Mind itself, when restrained, is called silence. The arhat
 qualifies because all afflictive chatter has ceased. Purity comprises all
 bodily, verbal, and mental good conduct, removing the stain of bad conduct
 temporarily or completely.
 
-The asymmetry of the mental member, absence of mental `vijñapti`, restriction
+The asymmetry of the mental member, absence of a Consciousness `avijñapti`, restriction
 to the arhat, and genetic definition of purity are supplied by the Bhāṣya.
 
 **The *abhāva* of kleśa becomes silence**
@@ -244,17 +244,17 @@ kleśa-jalpa absent
 
 The absence of the afflictive Ground frees activity rather than abolishing it.
 
-**Vijñapti and avijñapti reach their limit**
+**The limit of avijñapti**
 
-Body and speech admit manifest action and abstention-forms. Mind must not be
-forced into that structure by inventing a mental `vijñapti`. The Bhāṣya itself
+Body and speech admit abstention-forms. Mind must not be
+forced into that structure by inventing an `avijñapti` of Consciousness. The Bhāṣya itself
 protects the difference of levels.
 
 **Appearance and inference**
 
 Another person does not directly inspect the inward determination. Body and
 speech provide its appearances; inference returns from those appearances to
-consciousness. This is a disciplined relation between inward Ground and outward sign.
+Consciousness. This is a disciplined relation between inward Ground and outward sign.
 
 **Threshold into conduct**
 
@@ -275,9 +275,9 @@ Bhāṣya.
 **Former Philosophical Translation.**
 > True silence is not blank muteness but perfected abstention. Bodily and
 > verbal karma can be abstentions by nature; mental silence is Mind itself
-> when restrained, not a third mental manifestation parallel to bodily and
-> verbal `vijñapti`. The Bhāṣya distinguishes this Mind from consciousness,
-> which it calls the sage in the highest sense and says is inferred from
+> when restrained, not a third mental `avijñapti` parallel to bodily and
+> verbal abstention. The Organon distinguishes this Mind from Consciousness,
+> which the Bhāṣya calls the sage in the highest sense and says is inferred from
 > bodily and verbal karma. Read through the Techne, this asymmetry lets inward
 > determination and outward evidence remain related without reducing one to
 > the other. Purity, likewise, is good conduct that removes the stain of bad

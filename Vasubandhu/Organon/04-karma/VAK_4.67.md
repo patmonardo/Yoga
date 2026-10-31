@@ -170,7 +170,7 @@ non-manifest modes.
 **`Samādhija` — born from concentration**
 
 The Bhāṣya includes restraint associated with dhyāna and uncontaminated
-restraint. Because this discipline depends upon consciousness alone
+restraint. Because this discipline depends upon Consciousness alone
 (`cittamātrādhīna`), it is `avijñapti` alone.
 
 ## 8. Logical Determination
@@ -222,7 +222,7 @@ verse will articulate preparation, principal completion, and aftermath.
 explicit undertaking
     → vijñapti + avijñapti
 
-concentration dependent on consciousness alone
+concentration dependent on Consciousness alone
     → avijñapti
 ```
 
@@ -241,7 +241,7 @@ death occurs at the time; if death occurs later, only non-manifest
 determination remains at the principal completion. The seven wholesome
 bodily and verbal courses grounded in undertaken discipline are twofold;
 restraint born from concentration is non-manifest alone because it depends
-upon consciousness alone.
+upon Consciousness alone.
 
 The identities of the six, the delegated-action rationale, the temporal
 qualification, and the contrast between undertaken and concentration-born
@@ -293,7 +293,7 @@ is the project synthesis.
 > completion need not coincide. The course may therefore attain effective
 > ethical determination where the responsible continuum has no principal
 > manifestation of its own. Conversely, wholesome restraint can be generated
-> through an explicit undertaking or arise from concentrated consciousness;
+> through an explicit undertaking or arise from concentrated Consciousness;
 > its mode of existence follows its mode of generation.
 
 This is still a classification of karmic modes, not a claim that inward

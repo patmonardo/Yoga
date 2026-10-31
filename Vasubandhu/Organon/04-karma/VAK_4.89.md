@@ -146,8 +146,8 @@ unwholesome resulting dharmas can be related through `niṣyanda`.
 
 Requires a doctrinal continuity or special similarity, but not universal
 identity of ethical quality. The neutral views and unwholesome afflictions
-show that correspondence can cross the wholesome/unwholesome/indeterminate
-partition where the causal lineage warrants it.
+show that correspondence can cross between the unwholesome and indeterminate
+classes where the causal lineage warrants it.
 
 **`Vipāka-phala` — maturation result**
 

@@ -48,12 +48,14 @@ duścaritamalāpakarṣaṇāttāvatkālamatyantaṃ vā /
 eṣā ca deśanā mithyāmauna śaucādhimuktikānāṃ vivecānārtham /
 ```
 
-The natural unit is [236|23]–[237|12–13]. Verse halves occur
+The natural unit is [236|23-24]–[237|12-13]. Verse halves occur
 within separate explanations; the complete Kārikā is given in
-the anchor. The running witness's `cittā vijñaptyabhāvāt`,
-`parmārthamunitvāt`, and spaced `mithyāmauna śauca` are retained
-above; their syntax or spelling should be checked against another
-witness before a critical edition. Line breaks, punctuation, and
+the anchor. The running witness's `cittā vijñaptyabhāvāt` is retained
+above, but its sandhi is read as `citta-avijñapty-abhāvāt`: because
+Consciousness has no `avijñapti`. The witness's `parmārthamunitvāt`
+and spaced `mithyāmauna śauca` are also retained; their spelling
+should be checked against another witness before a critical edition.
+Line breaks, punctuation, and
 verse numbering are editorial. The sentence on three bad conducts
 at [237|13] starts 4.65.
 
@@ -64,13 +66,13 @@ mental silence. In this connection: “The bodily and verbal actions,
 and the Mind, of one beyond training are respectively the three
 silences.” The bodily and verbal actions of one beyond training are
 bodily and verbal silence. But mental silence is the very Mind of
-one beyond training, **not mental karma**. Why? For consciousness is the sage
+one beyond training, **not mental karma**. Why? For Consciousness is the sage
 in the highest sense. Consciousness, the text says, is inferred from bodily
 and verbal actions.
 
 Moreover, bodily and verbal actions may be abstentions by nature;
-mental karma is not such an abstention, since there is no mental
-`vijñapti`. “Silence” is understood as refraining. Thus the Mind
+mental karma is not such an abstention, since there is no
+`avijñapti` of Consciousness. “Silence” is understood as refraining. Thus the Mind
 itself, when restrained, is called silence. Why only that of one
 beyond training? Because the arhat is a sage in the highest sense:
 all the chatter of afflictions has ceased.
@@ -87,13 +89,12 @@ those who adhere to false notions of silence and purity.
 
 The first two members of `maunatraya` are bodily and verbal
 **karma**. The third is `manaḥ` itself. Vasubandhu supplies two
-reasons. First, consciousness is the `paramārthamuni`, inferred by another
+reasons. First, Consciousness is the `paramārthamuni`, inferred by another
 from bodily and verbal actions. Second, bodily and verbal karma can
 be abstention by nature, whereas mental karma is not classified in
-the same way: there is no mental `vijñapti`. The passage's claim
-about mental indication should not be confused with the wider
-dispute over the ontological status of bodily and verbal
-`avijñapti-rūpa`.
+the same way: there is no `avijñapti` of Consciousness. This is a
+claim about the absence of a mental non-disclosing abstention, not
+about the absence of mental karma as such.
 
 The restriction to `aśaikṣa` is also real. The arhat's afflictive
 chatter has ceased; the Bhāṣya therefore calls the arhat a sage in
@@ -113,15 +114,16 @@ purity from mistaken understandings of them.
 ## 6. Interpretation
 
 The verse distinguishes Mind itself as the third silence from bodily
-and verbal karma. The Bhāṣya also says consciousness is the sage in
+and verbal karma. The Bhāṣya also says Consciousness is the sage in
 the highest sense and is inferred from bodily and verbal actions.
-The Techne preserves Mind (*manas*) and consciousness (*citta*) as
+The Techne preserves Mind (*manas*) and Consciousness (*citta*) as
 distinct determinations, and relates inward restraint to outward
 action without treating the latter as a substitute for the former.
 
 ## 7. Review Status
 
-The complete unit [236|23]–[237|12–13] is included and translated.
-The source's compressed or irregular readings and the Kārikā's
-`sarva`/`sarvaṃ` issue are marked. Research and running-source
+The complete unit [236|23-24]–[237|12-13] is included and translated.
+The source's compressed or irregular readings, the sandhi at
+`cittā vijñaptyabhāvāt`, and the Kārikā's `sarva`/`sarvaṃ` issue are marked.
+Research and running-source
 witnesses are unchanged.

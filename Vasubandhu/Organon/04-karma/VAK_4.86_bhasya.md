@@ -10,8 +10,8 @@
 > from greed for requisites—no, not according to the sūtra.
 
 The verse explains why the Noble Eightfold Path names wrong livelihood in
-addition to wrong speech and wrong action. The difference is one of causal
-root and practical function, not a fourth medium of action.
+addition to wrong speech and wrong action. The differentiating ground here
+is the causal root; separate naming addresses difficulty of purification.
 
 ## 2. Continuous Sanskrit
 
@@ -48,9 +48,9 @@ nyastāni. kiṃ kāraṇam? mithyāviṣayaparibhogāt. gatam etat.
 
 The running witness compresses and damages several forms. At `[254|25–26]`,
 `mithyāvāṃimathyākarmānto` has been normalized according to the three Path
-factors named by the sentence. At `[255|07–08]`, the witness reads singular
-`gṛhiṇāṃ ... vividhadṛṣṭinā` and `bhikṣuṇā ... āyattadṛṣṭine`; the continuous
-text gives the contextually expected parallel plurals and reads `vṛtti`,
+factors named by the sentence. At `[255|07–08]`, the witness already has
+plural `gṛhiṇāṃ`, but reads `vividhadṛṣṭinā`, `bhikṣuṇā`, and
+`āyattadṛṣṭine`; the continuous text gives contextually parallel plurals and reads `vṛtti`,
 livelihood, in the final compound. These repairs remain conjectural and are
 not attributed to the witness. The following source marker is printed
 `[254|15]`, although the sequence requires `[255|15]`; that next unit is not
@@ -61,11 +61,13 @@ included here.
 The Blessed One speaks of wrong speech, wrong action, and wrong livelihood.
 What wrong livelihood is there apart from the first two? There is no other
 kind of action. Rather, bodily or verbal action born from greed is wrong
-livelihood, whereas actions born from hatred or delusion fall under wrong action. Wrong livelihood is treated separately from those two
+livelihood, whereas bodily and verbal wrongful actions born from hatred or
+delusion belong under the corresponding conduct factors. Wrong livelihood is
+treated separately from those two
 because it is difficult to purify.
 
-Greed is compelling, and consciousness is difficult to guard against actions
-arising from it. Livelihood is therefore difficult to purify.
+Greed is compelling, and Consciousness is difficult to guard when action
+arises from it. Livelihood is therefore difficult to purify.
 It is separately indicated in order to produce careful attention toward it.
 
 A verse is cited here: “The view of householders, always divided among many
@@ -78,23 +80,22 @@ account, dancing, singing, and similar activity undertaken for one's own
 enjoyment would have no connection with livelihood. This restriction does
 not accord with the sūtra. In the section on ethical conduct, the Blessed One
 also places watching elephant fights and similar spectacles under wrong
-livelihood. Why? Because they involve enjoyment of an improper experiential
-field. That
-concludes the matter.
+livelihood. Why? Because they involve enjoyment of an improper Condition
+(`viṣaya`). That concludes the matter.
 
 ## 4. No Additional Medium of Action
 
 The opening question is classificatory. If action is bodily, verbal, or
 mental, does wrong livelihood name some fourth kind? Vasubandhu answers no.
-The same bodily or verbal action receives a different Path determination
-according to its causal root:
+The same bodily or verbal medium receives a different Path determination
+according to the causal root:
 
 ```text
 bodily or verbal action born from greed
     → wrong livelihood
 
-bodily or verbal action born from hatred or delusion
-    → wrong action
+bodily or verbal wrongful action born from hatred or delusion
+    → the corresponding bodily or verbal conduct factor
 ```
 
 Wrong livelihood is therefore `pṛthak kṛta`, treated separately, without
@@ -143,30 +144,30 @@ clear: livelihood would then mean only conduct performed to obtain
 sustenance. The Bhāṣya rejects this extension as too narrow because the sūtra
 includes watching elephant fights and related spectacles.
 
-The supplied reason is `mithyāviṣayaparibhoga`, enjoyment or consumption of
-an improper experiential field. Wrong livelihood therefore reaches beyond how resources
-are acquired. It can include how a life is maintained and occupied through
-bodily and verbal participation in an improper field of enjoyment.
+The supplied reason is `mithyāviṣayaparibhoga`, enjoyment of an improper
+Condition (`viṣaya`). Wrong livelihood therefore reaches beyond how
+requisites are acquired. The example extends the category's demonstrated
+scope; it does not add an experiential-field test to the verse's definition.
 
 The source does not thereby classify every pleasure, song, or spectacle as
 wrong livelihood. Its argument is narrower: the proposed requisites-only
 definition fails to cover examples that the cited ethical discourse itself
 places in the class.
 
-## 8. Classification by Root, Medium, and Function
+## 8. Classification by Root and Medium
 
-The analysis requires at least three coordinates:
+The definition here requires two coordinates:
 
 ```text
 Medium   = body or speech
-Root     = greed, hatred, or delusion
-Function = livelihood or another practical end
+Root     = greed
 ```
 
 Surface form alone is insufficient. Identical speech can be classified
-differently when one instance is organized by greed as a means of life and
-another is organized by hatred. Conversely, the separate Path name does not
-license invention of a new action substance.
+differently when one instance arises from greed and another from hatred.
+The proposed third requirement, acquisition of life's requisites, is rejected
+by the Bhāṣya. The separate Path name does not license invention of a new
+action substance.
 
 ## 9. Interpretation
 
@@ -174,23 +175,25 @@ For the Rational Moral Agent, 4.86 supplies a rule for practical auditing:
 
 ```text
 ActionClass =
-    classify(Medium, Root, PracticalFunction, ConsumptionField)
+    classify(Medium, Root)
 ```
 
 An operation's API shape does not determine its moral class. The same bodily
 or verbal operation may serve different governing motives and world
-relations. The audit must therefore preserve provenance from root through function to
-the experiential field engaged.
+relations. The audit must therefore preserve the causal root; practical
+function and the Condition enjoyed may supply further context without
+becoming requirements of this definition.
 
 The separate warning for livelihood also models risk-based observability.
 A recurrent, dependency-laden operation deserves explicit monitoring when
 its errors are unusually hard to detect and purify, even if it reuses ordinary
 execution channels.
 
-In the wider Karman framework, volition (*cetanā*) is the enacted practical
-determination; greed is the causal root organizing this bodily or verbal
-action as livelihood. They are distinct, not equivalents. Separate naming
-makes this difficult-to-purify relation visible to disciplined correction.
+In the wider Karman framework, volition (*cetanā*) enacts the practical
+determination; greed is the causal root by which bodily or verbal action is
+classified here as wrong livelihood. They are distinct, not equivalents.
+Separate naming makes this difficult-to-purify relation visible to disciplined
+correction.
 
 ## 10. Review Status
 

@@ -95,7 +95,9 @@ kṛte karmaṇi sīmāprāptebhyaḥ akṛte sarvabuddhaśaikṣyebhyaḥ /
 The complete unit is `[243|12]–[244|12]`. The running witness contains
 `gabhasthayoḥ`, `cāturapīḍane`, `parigṛthītam`, and a compressed final
 sentence concerning treasure and `parivartaka`; they remain visible and
-the uncertain constructions are not silently repaired. VAK 4.74 begins at
+the uncertain constructions are not silently repaired. The last sentence's
+boundary and formal-act distinction is translatable, while the precise
+denotation of `parivartaka` remains open. VAK 4.74 begins at
 `[244|13]` with the fourfold definition of sexual misconduct.
 
 ## 3. Continuous Translation
@@ -113,16 +115,16 @@ the course of killing.
 What if one kills while uncertain whether the target is alive or not, or
 whether it is this being or another? Even then, one necessarily reaches a
 decision before striking: “Whoever it is, let it be.” This already
-constitutes a `tyāga-citta`, a consciousness resolved on relinquishing
+constitutes a `tyāga-citta`, a Consciousness resolved on relinquishing
 life.
 
-How can killing occur when the Bases are momentary? One account calls
-`prāṇa` a vital wind supported by body and consciousness: killing brings
+How can killing occur when the aggregates are momentary? One account calls
+`prāṇa` a vital wind dependent on body and Consciousness: killing brings
 that to an end, as one extinguishes a lamp or stops the sound of a bell.
 Alternatively, `prāṇa` is the Life Faculty, and one brings that to
-cessation. If one
-obstructs the arising of even a single moment of life that otherwise would
-arise, one is touched by the fault of killing; otherwise one is not.
+cessation. If one obstructs the arising of even a single moment of life
+that otherwise would arise, one is touched by the fault of killing;
+otherwise one is not.
 
 Whose life is it? It is the life of the one who dies through its absence.
 The force of the genitive “whose” will be examined later in the discussion
@@ -143,7 +145,7 @@ this list, but the argumentative target is clear: causal contribution alone
 would distribute moral fault too broadly.
 
 The intended victim would also become connected with the act, as fire burns
-its own support. Yet a mere result does not generate the consequence where
+its own Basis. Yet a mere result does not generate the consequence where
 the relevant practical connection is absent—just as someone who causes
 another person to touch fire is not thereby burned. Otherwise insentient
 wood and similar objects could incur evil when the collapse of a house
@@ -160,11 +162,11 @@ One who removes something from a stūpa takes what belongs to the Buddha,
 because, according to one position, the Blessed One accepted all such
 property at the time of final nirvāṇa. Others say the offense is against
 those charged with protecting it. One who extracts ownerless treasure takes
-from the lord of that territory. The witness then gives a compressed and
-difficult allocation concerning `parivartaka`, performance of the relevant
-act, territorial boundaries, and—in the unperformed case—all Buddhas and
-disciples. Its exact institutional application remains uncertain pending
-comparison with another witness.
+from the lord of that territory. One who takes `parivartaka` goods takes,
+when the formal act has been performed, from those within the boundary;
+when it has not been performed, from all the Buddha's disciples in training.
+The precise kind of goods designated by `parivartaka` and the formal act's
+institutional details remain uncertain in this witness.
 
 ## 4. Killing as a Constituted Course
 

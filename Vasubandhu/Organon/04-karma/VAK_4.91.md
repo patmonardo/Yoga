@@ -1,4 +1,4 @@
-# VAK_4.91 — Ground and Training-status Result Matrices
+# VAK_4.91 — Level and Training-status Result Matrices
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -122,7 +122,7 @@ predicate and numerical distribution occur in VAK 4.92.
 
 ## 7. Technical Vocabulary
 
-**`Bhūmi` — ground or classified level**
+**`Bhūmi` — classified level**
 
 Here `bhūmi` is active within causal determination. A dharma can function as
 same-level or different-level only relative to the causal action under
@@ -131,8 +131,8 @@ consideration. It should not be flattened into physical location.
 **`Sva-bhūmika` — belonging to the same level**
 
 A relational determination joining source action and candidate result-dharma
-within one ground. Four relations are possible: maturation, correspondence,
-activity-production, and dominant conditioning.
+within one level. Four relations are possible across this class: maturation,
+correspondence, activity-production, and dominant conditioning.
 
 **`Anya-bhūmika` — belonging to another level**
 
@@ -163,8 +163,9 @@ result-set.
 
 **Same-level `vipāka`**
 
-Maturation remains within the relevant ground. It is present in the same-level
-profile but absent from both different-level profiles.
+Maturation remains within the relevant level. It is among the possible
+relations of the same-level class but absent from both different-level
+profiles. Action without Influx still lacks maturation under 4.87.
 
 **Cross-level `niṣyanda`**
 
@@ -182,6 +183,11 @@ must not be conflated.
 
 **Bhūmi-relation profiles**
 
+These sets enumerate result types available across each specified class of
+action and result-dharma. They do not assert that every individual action
+instantiates every type; the Influx and ethical restrictions from 4.87–4.89
+still apply.
+
 Let:
 
 ```text
@@ -195,16 +201,14 @@ A = adhipati
 Then:
 
 ```text
-SameBhumi(Action, ResultDharma)
-    → {V, N, P, A}
+AllowedResultTypes(SameBhumi)
+    = {V, N, P, A}
 
-DifferentBhumi(Action, ResultDharma)
-and WithoutInflux(ResultDharma)
-    → {N, P, A}
+AllowedResultTypes(DifferentBhumi, WithoutInfluxResult)
+    = {N, P, A}
 
-DifferentBhumi(Action, ResultDharma)
-and WithInflux(ResultDharma)
-    → {P, A}
+AllowedResultTypes(DifferentBhumi, WithInfluxResult)
+    = {P, A}
 ```
 
 **Bhūmi table**
@@ -268,11 +272,12 @@ cannot be adequately translated and then left as an isolated noun meaning
 other-level, the Influx status of the result, and the result-relation
 that remains possible across the boundary.
 
-The three profiles exhibit a rational contraction. Within one ground, action
-can mature, correspond, actively produce, and dominantly condition. Across
-grounds toward a result without Influx, maturation falls away because the
-result does not belong within a realm, though correspondence remains. Across
-grounds toward a result with Influx, correspondence also falls away. Active
+The three profiles exhibit a rational contraction. Within the same-level
+class, maturation, correspondence, active production, and dominant
+conditioning are available. Across levels toward a result without Influx,
+maturation falls away because the result does not belong within a realm,
+though correspondence remains. Across
+levels toward a result with Influx, correspondence also falls away. Active
 production and dominant efficacy constitute the most universal causal
 relations because they can operate across the greatest difference.
 
@@ -396,21 +401,21 @@ ObjectProperty: hasResultTrainingStatus
 
 Rule: SameBhumiProfile
   if sameBhumi(sourceAction, resultDharma)
-  then permittedResultTypes(sourceAction, resultDharma)
+  then classAvailableResultTypes(sourceAction, resultDharma)
        = {MaturationResult, CorrespondingResult,
           ActivityProducedResult, DominantResult}
 
 Rule: OtherBhumiWithoutInfluxProfile
   if differentBhumi(sourceAction, resultDharma)
      and resultDharma hasResultInfluxStatus WithoutInflux
-  then permittedResultTypes(sourceAction, resultDharma)
+  then classAvailableResultTypes(sourceAction, resultDharma)
        = {CorrespondingResult, ActivityProducedResult,
           DominantResult}
 
 Rule: OtherBhumiWithInfluxProfile
   if differentBhumi(sourceAction, resultDharma)
      and resultDharma hasResultInfluxStatus WithInflux
-  then permittedResultTypes(sourceAction, resultDharma)
+  then classAvailableResultTypes(sourceAction, resultDharma)
        = {ActivityProducedResult, DominantResult}
 
 Rule: TraineeToTrainee
@@ -427,5 +432,6 @@ Rule: TraineeToNeitherStatus
 
 Constraint: BhumiRelationRequiresBothSourceAndResult
 Constraint: EqualResultCountsDoNotEntailEqualResultSets
+Constraint: IndividualActionResultTypesMustAlsoSatisfyPriorActionRules
 Constraint: BeyondTrainingSourceRowContinuesInNextVerse
 ```

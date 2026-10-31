@@ -87,8 +87,8 @@ The omitted complements are restored by the Bhāṣya's explicit explanation.
 
 ### Literal Translation
 > Hostility is hatred of living beings. False view is the view that
-> wholesome and unwholesome karma do not exist. Here the three are routes
-> of karma, while the seven are both karma and routes of karma.
+> wholesome and unwholesome karma do not exist. Here the three are
+> paths [of karma], and the seven are karma too.
 
 ### Bhāṣya-informed study translation
 
@@ -176,6 +176,12 @@ The larger Bhāṣya unit also reports a Dārṣṭāntika alternative treating 
 mental three themselves as mental karma. The official determination here
 preserves the operative Vaibhāṣika explanation stated directly around the
 Kārikā and marks the alternative without collapsing it into that account.
+
+The Bhāṣya also calls preparatory and subsequent acts `karmapathāḥ` because
+they are directed toward or rooted in a principal course. It then recalls
+the restriction to gross or salient forms. The exact reach of the name in
+that wider process remains a question; these acts do not add types to the
+canonical list of ten.
 
 ## 8. Logical Determination
 

@@ -186,8 +186,9 @@ IndeterminateAction          = {N, P, A}
 ```
 
 The two profiles have both equal cardinality and equal membership, but remain
-different action classes because Influx status and ethical quality are
-independent determinations.
+different action classes: one is other action without Influx; the other is
+ethically indeterminate action. Identical result sets do not erase those
+distinct source classifications.
 
 **Wholesome-action result matrix**
 

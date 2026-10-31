@@ -9,9 +9,9 @@
 > Through greed comes the completion of sexual misconduct, covetousness, and
 > taking what is not given.
 
-VAK 4.68 classified the roots from which preparation can arise. VAK 4.70
-now asks which root is immediately operative when a particular course
-reaches its defining completion.
+VAK 4.68 classified the roots from which preparation can arise; VAK 4.69
+classified mental courses by an immediately preceding root. VAK 4.70 now
+asks which root is operative when a particular course reaches completion.
 
 ## 2. Continuous Sanskrit
 
@@ -45,7 +45,7 @@ which root?
 
 “Killing, hostility, and harsh speech reach completion through hatred.”
 These three—killing, hostility, and harsh speech—are completed through
-hatred because a rejecting and harsh consciousness has become immediately
+hatred because a rejecting and harsh Consciousness has become immediately
 present.
 
 “Through greed comes the completion of sexual misconduct, covetousness,
@@ -57,11 +57,14 @@ what is not given reach completion through greed.
 The distinction from the preceding verses is exact:
 
 ```text
-genetic root
-    the root from which preparation arises
+preparatory root (4.68)
+    a root from which preparation can arise
 
-completion root
-    the root immediately governing the fulfilled course
+immediately preceding root (4.69)
+    a root after which a mental course arises
+
+completion root (4.70)
+    the root governing the fulfilled course
 ```
 
 Preparation for any unwholesome course can arise from greed, hatred, or
@@ -89,7 +92,7 @@ rejection. Greed completes courses whose fulfilled determination is
 appropriative possession or enjoyment. These formulations render the
 relation conceptually; the source itself states the root assignments and
 explains the hatred triad through the immediate presence of a rejecting,
-harsh consciousness.
+harsh Consciousness.
 
 ## 5. Course as Practical Syllogism
 

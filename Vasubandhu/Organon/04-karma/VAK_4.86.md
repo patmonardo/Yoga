@@ -41,8 +41,9 @@ wrong livelihood
 ```
 
 It immediately denies that the third introduces another action-medium.
-Wrong livelihood remains bodily or verbal karma, but is differently
-determined by its causal root and practical field.
+Wrong livelihood remains bodily or verbal karma, distinguished here by its
+greed-root. The later objection tests whether its scope can be restricted to
+greed for life's requisites.
 
 ## 4. Grammar
 
@@ -104,10 +105,10 @@ necessities.
 
 **`Mithyājīva` — wrong livelihood**
 
-Greed-born bodily or verbal action within the practical economy of sustaining
-and enjoying life. It is wider than fraudulent occupation and narrower than
-every instance of greed: medium, root, and practical field jointly determine
-the classification.
+Greed-born bodily or verbal action. The Bhāṣya explicitly rejects limiting
+this class to greed for life's requisites. The bodily or verbal medium and
+the greed-root determine the definition given here; enjoyment of improper
+Conditions supplies a further example, not an additional defining test.
 
 **`Ājīva` — sustaining life**
 
@@ -118,14 +119,14 @@ objects within an economy of support.
 **`Lobhaja` — born from greed**
 
 The causal-root determination. Hatred-born and delusion-born bodily or verbal
-actions remain wrong bodily or verbal conduct, while greed-born action in the
-relevant practical field receives the additional classification of wrong
+actions remain wrong bodily or verbal conduct, while greed-born bodily or
+verbal action receives the additional classification of wrong
 livelihood.
 
 **`Hārī` — carrying, dragging, captivating**
 
-The Bhāṣya's characterization of greed. Greed carries consciousness along, making
-action that arises from it difficult to guard. This supplies the causal reason
+The Bhāṣya's characterization of greed. Actions arising from greed make
+Consciousness difficult to guard. This supplies the causal reason
 for `duḥśodhatva`.
 
 **`Duḥśodhatva` — difficulty of purification**
@@ -140,18 +141,19 @@ The Bhāṣya's stated purpose for naming wrong livelihood separately. A
 classification can be doctrinally necessary because it directs practice
 toward a structurally vulnerable field.
 
-**`Pariṣkāra` — requisite or support**
+**`Pariṣkāra` — requisite or equipment**
 
 Food, clothing, dwelling, medicine, and other equipment of life. Greed for
-such supports is an important instance of wrong livelihood, especially for a
+such requisites is an important instance of wrong livelihood, especially for a
 renunciant dependent on others, but it does not exhaust the category.
 
-**`Mithyā-viṣaya-paribhoga` — improper engagement with an experiential field**
+**`Mithyā-viṣaya-paribhoga` — enjoyment of an improper Condition**
 
 The Bhāṣya's reason for including activities such as attendance at elephant
-fights: they involve enjoyment of an improper experiential field. Wrong
-livelihood concerns not only how supports are acquired but how the agent
-practically participates in and enjoys such a field.
+fights: they involve enjoyment of an improper `viṣaya`, here rendered
+Condition. This scriptural example defeats the proposed restriction to
+acquisition of requisites; it does not add a new condition to the verse's
+definition of greed-born bodily or verbal action.
 
 **`Sūtrataḥ` — according to the sūtra**
 
@@ -172,8 +174,6 @@ Action A
 │   └── verbal
 ├── causal root
 │   └── greed
-├── practical field
-│   └── support, maintenance, use, or enjoyment
 └── correction profile
     └── difficult to purify
 ```
@@ -191,15 +191,14 @@ wrong livelihood                ≠ merely a socially disapproved job
 
 ```text
 body/speech arising from greed
-    → wrong livelihood in the relevant practical economy
+    → wrong livelihood
 
 body/speech arising from hatred or delusion
     → wrong bodily or verbal conduct under those roots
 ```
 
-The Bhāṣya's contrast identifies the differentiating ground, but it does not
-make every greed-born movement automatically wrong livelihood without regard
-to the practical field established by the passage.
+The Bhāṣya's contrast concerns bodily or verbal action. It does not classify
+greed merely felt without such action as wrong livelihood.
 
 **Rejected restrictive definition**
 
@@ -209,8 +208,8 @@ WrongLivelihood
     ↔ greed-driven acquisition of life-requisites
 
 scriptural counter-instance:
-improper engagement with or enjoyment of an experiential field
-    can also instantiate WrongLivelihood
+enjoyment of an improper Condition, such as viewing an elephant fight,
+    is assigned to WrongLivelihood in the cited discourse
 
 therefore:
 greed for requisites
@@ -221,7 +220,7 @@ greed for requisites
 
 ```text
 greed has dragging efficacy
-    → consciousness becomes difficult to guard
+    → Consciousness becomes difficult to guard
     → livelihood becomes difficult to purify
     → explicit classification generates vigilance
     → disciplined correction becomes possible
@@ -232,17 +231,19 @@ is justified by the practical work it enables.
 
 ## 9. Interpretive Note
 
-**Translation note.** The dragging character of greed, the pedagogical purpose of separate naming,
-the vulnerability created by dependence on support, and the scriptural
-example are Bhāṣya determinations. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Bodily or verbal action born from greed is wrong livelihood. It is treated separately because it is difficult to purify. If wrong livelihood is said to arise only from greed for requisites—no, not according to the sūtra. Wrong livelihood is not a third kind of expressive action beside wrong speech and wrong bodily action. Greed has a dragging power, making consciousness especially difficult to guard against actions that arise from it and livelihood especially difficult to purify. Nor may wrong livelihood be restricted to greed-driven acquisition of food, clothing, shelter, medicine, and other requisites. The sūtra includes a wider economy of improper engagement and enjoyment, exemplified by attendance at spectacles such as elephant fights.
+**Translation note.** The difficulty of guarding Consciousness when action
+arises from greed, the pedagogical reason for separate naming, the verse about
+monks dependent on others, and the scriptural counterexample are Bhāṣya
+determinations. The kārikā defines wrong livelihood as greed-born bodily or
+verbal action. The Bhāṣya rejects limiting it to greed for requisites: the
+cited discourse also classifies viewing spectacles such as elephant fights as
+wrong livelihood because of enjoyment of improper Conditions.
 
 VAK 4.86 demonstrates that ethical meaning cannot be read directly from an
 isolated bodily movement or utterance. The same expressive medium receives
-different determination according to its root and its station within the
-agent's practical relations. Wrong livelihood is therefore a systematic
-meaning: body or speech, greed, dependence on support, engagement with experiential fields,
-difficulty of purification, and the pedagogical need for vigilance determine
-one another within the category.
+different determination according to its root. The verse's definition joins
+body or speech with greed. The Bhāṣya then explains why this category receives
+separate attention and why greed for requisites cannot exhaust it.
 
 The renunciant case exposes the contradiction sharply. Dependence on others
 for support is not itself a fault; it is an objective condition of that form
@@ -253,10 +254,10 @@ inverted into domination by the supports it was meant to mediate.
 
 This is why “wrong livelihood” cannot be reduced to earning money through a
 forbidden occupation. Such a gloss isolates a modern institutional form and
-misses the Concept. The Bhāṣya ranges across acquisition, dependence,
-presentation, use, and enjoyment. Livelihood names the complete practical
-relation through which life reproduces itself in an objective and social
-field.
+misses the Concept. The Bhāṣya's counterexample includes enjoyment beyond
+acquisition of requisites. The monk's dependence on others illustrates why
+this class is difficult to purify without narrowing its definition to
+monastic economic conduct.
 
 Hegelian Transcendental Philosophy reveals the force of the separate naming.
 An abstract taxonomy would object that wrong livelihood adds no new action
@@ -267,9 +268,8 @@ necessary. Its truth lies in the self-transformation it makes possible.
 
 **Former Philosophical Translation.**
 > Wrong livelihood is not recognizable from the visible shape of an act
-> alone. Bodily and verbal action take this classification when greed governs
-> their participation in the practical economy through which life sustains
-> and enjoys itself. Its separate name marks no new faculty; it makes explicit
+> alone. Bodily and verbal action take this classification when they arise
+> from greed. Its separate name marks no new faculty; it makes explicit
 > a contradiction within ordinary self-maintenance. The activity by which the
 > agent preserves life can simultaneously place that life under an appetitive
 > power that is exceptionally difficult to govern.
@@ -279,9 +279,10 @@ The determination is therefore relational:
 ```text
 body or speech
     + greed as governing root
-    + practical economy of support and enjoyment
-    + difficulty of self-correction
     = wrong livelihood
+
+difficulty of purification
+    → reason for separate naming
 ```
 
 In Hegelian-transcendental terms, livelihood is a necessary mediation between
@@ -303,9 +304,8 @@ Class: GreedBornAction
 Class: WrongLivelihood
   SubClassOf: GreedBornAction
 Class: LifeRequisite
-Class: PracticalEconomyOfSupportAndEnjoyment
-Class: ExperientialField
-Class: ImproperExperientialFieldEngagement
+Class: Condition
+Class: ImproperConditionEnjoyment
 Class: DifficultToPurifyProfile
 
 ObjectProperty: hasExpressiveMedium
@@ -316,13 +316,9 @@ ObjectProperty: arisesFromRoot
   Domain: Action
   Range: Greed or Hatred or Delusion
 
-ObjectProperty: operatesWithinPracticalField
-  Domain: Action
-  Range: PracticalEconomyOfSupportAndEnjoyment
-
 ObjectProperty: seeksOrUses
   Domain: Action
-  Range: LifeRequisite or ExperientialField
+  Range: LifeRequisite or Condition
 
 ObjectProperty: hasCorrectionProfile
   Domain: PracticalClassification
@@ -331,7 +327,6 @@ ObjectProperty: hasCorrectionProfile
 Rule: WrongLivelihoodClassification
   if x instanceOf BodilyOrVerbalAction
      and x arisesFromRoot Greed
-     and x operatesWithinPracticalField PracticalEconomyOfSupportAndEnjoyment
   then x instanceOf WrongLivelihood
 
 Rule: SeparateTreatment
@@ -341,15 +336,18 @@ Rule: SeparateTreatment
        and x introducesNewExpressiveMedium false
 
 Rule: RequisiteGreedIsNonExhaustive
-  if x arisesFromRoot Greed
+  if x instanceOf BodilyOrVerbalAction
+     and x arisesFromRoot Greed
      and x seeksOrUses some LifeRequisite
-  then x mayInstantiate WrongLivelihood
-       but not EquivalentClass(WrongLivelihood, RequisiteGreedAction)
+  then x instanceOf WrongLivelihood
+
+Constraint: WrongLivelihood is not EquivalentClass RequisiteGreedAction
 
 Rule: ImproperEnjoymentExtension
   if x instanceOf BodilyOrVerbalAction
-     and x instanceOf ImproperExperientialFieldEngagement
-  then x mayInstantiate WrongLivelihood
+     and x arisesFromRoot Greed
+     and x instanceOf ImproperConditionEnjoyment
+  then x instanceOf WrongLivelihood
 
 Constraint: SurfaceFormDoesNotExhaustEthicalClassification
 Constraint: SeparateTreatmentDoesNotEntailSeparateSubstrate

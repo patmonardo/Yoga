@@ -79,8 +79,8 @@ samudācāravirodhinaḥ /
 
 The complete unit is `[247|18]–[248|14]`. The witness contains the compact
 compound explanation `karmapathāścakarma ca karmapathāśca`, and its sentence
-on preparation and aftermath appears to call them `karmāṇi karmapathāḥ`
-before supplying qualifications that preserve the earlier selection rule.
+on preparation and aftermath directly calls them `karmāṇi karmapathāḥ`
+before supplying the earlier salience qualification.
 The first half of VAK 4.79 begins at `[248|15]` with the cutting off of
 wholesome roots.
 
@@ -108,7 +108,7 @@ their influence it is configured in that manner.
 
 The seven beginning with killing are karma because they are bodily and
 verbal karma. They are also routes for karma because the volition from which
-they arise proceeds while taking them as its basis. Thus one group consists
+they arise proceeds by relying on them. Thus one group consists
 of Courses of Action, while the other consists of both karma and Courses of
 Action; the common plural `karmapatha` is established even though the members
 are not of identical form.
@@ -117,10 +117,10 @@ The wholesome counterparts—non-covetousness and the others, together with
 abstention from killing and the remaining courses—are to be understood in
 the same manner.
 
-Preparatory and subsequent acts are karma and stand in relation to the
-courses because their activity is directed toward those courses and rooted
-in them. Yet, as explained earlier, the ten are selected according to the
-gross or salient forms. Through the increase and decrease of these courses,
+Preparatory and subsequent acts are karma and are called courses of karma,
+because their activity is directed toward those courses and rooted in them.
+As explained earlier, the designation takes the gross or salient forms.
+Through the increase and decrease of these courses,
 the internal and external states of the world likewise undergo increase and
 decrease.
 
@@ -204,8 +204,9 @@ practical Power.
 ## 6. Salience and the Wider Process
 
 The discussion of preparation and aftermath must be held together with VAK
-4.66. They are karmic activities ordered toward or rooted in a course, while
-the canonical ten select the especially salient forms:
+4.66. The Bhāṣya explicitly calls these surrounding acts `karmapathāḥ` because
+they are ordered toward or rooted in a principal course, while invoking the
+earlier selection of salient forms:
 
 ```text
 wider karmic process
@@ -215,9 +216,10 @@ ten karmapathas
     selected governing forms within that process
 ```
 
-This resolves the apparent tension in the compressed prose. The surrounding
-acts derive their intelligibility from the principal course without every
-minor act becoming an additional member of the canonical ten.
+The wording leaves a question of scope: how broadly the name `karmapatha`
+extends to the surrounding acts, given the salience restriction. Their
+relation to a principal course explains the name here, but does not add
+new types to the canonical list of ten.
 
 The claim that their increase or decrease affects both internal and external
 states expands karmapatha beyond private morality. Courses structure the

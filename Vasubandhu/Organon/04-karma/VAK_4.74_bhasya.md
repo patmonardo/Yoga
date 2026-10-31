@@ -7,7 +7,7 @@
 
 > Sexual misconduct is fourfold approach to what is not to be approached.
 > False speech is the statement of one whose recognition is otherwise,
-> directed to one capable of understanding its meaning.
+> directed to one capable of understanding its Meaning.
 
 The two definitions determine bodily and verbal conduct through complete
 relations. The first classifies sexuality through person, bodily locus,
@@ -98,9 +98,9 @@ begins a new inquiry at `[245|09]` and leads into VAK 4.75.
 Sexual approach to what is not to be approached has four forms. One may
 approach an impermissible person: someone committed to another, one's
 mother or daughter, or a maternal or paternal relative. One may approach
-through an impermissible bodily locus, even with one's own spouse. One may
-act in an impermissible place, such as openly, at a sanctuary, or in a
-monastery. Or one may act at an impermissible time.
+through an impermissible bodily locus, the anus or mouth, even with one's
+own spouse. One may act in an impermissible place, such as openly, at a
+sanctuary, or in a monastery. Or one may act at an impermissible time.
 
 What is an impermissible time? The commentary lists pregnancy, nursing, or
 being under an observance. Some restrict the last case to an observance
@@ -111,36 +111,36 @@ If someone approaches another's spouse while recognizing that person as
 their own spouse, the completed course does not arise. If someone approaches
 one person while recognizing that person as another's spouse, one opinion
 holds that the course arises because there is preparation directed toward
-another's spouse and use of the relevant basis. Others hold that it does
-not arise because the preparation was directed elsewhere, as in the case
-of killing.
+another's spouse and enjoyment of the actual Thing (`vastu`). Others hold
+that it does not arise because the preparation was directed elsewhere,
+as in the case of killing.
 
 When someone approaches a nun, against whom is the sexual misconduct
 committed? The Bhāṣya answers: against the lord of the territory, because
 he cannot tolerate it. Yet she is under an observance and is therefore not
-to be approached by him either. In the case of an unmarried young woman,
+to be approached by him either, just as his own spouse under an observance
+would not be. In the case of an unmarried young woman,
 the relevant relation is to the person to whom she has been given; if she
 has not been given, to her protector, ultimately the king. These examples
 record the guardianship and disciplinary assumptions of the received
 social classification.
 
 “False speech is the statement of one whose recognition is otherwise,
-directed to one capable of understanding its meaning.” If a speaker
-recognizes the matter otherwise than the meaning stated, and the person
-about whom or to whom the statement is made understands its meaning, that
-statement is false speech.
+directed to one capable of understanding its Meaning.” If a speaker
+recognizes the matter otherwise than the Meaning stated, and the person
+addressed understands its Meaning, that statement is false speech.
 
 What if the recipient does not understand? It is disordered speech. The
 verse says “statement.” Since a statement can consist of many phonetic
 units, which one bears the course of karma? The final unit, together with
 *avijñapti* (non-disclosing continuity), constitutes the course at the point
-where the recipient understands the meaning. The preceding phonetic units
+where the recipient understands the Meaning. The preceding phonetic units
 are preparation.
 
-The expression “one understanding the meaning” raises a further question.
-Does it mean a hearer who has actually understood the meaning, or one
+The expression “one understanding the Meaning” raises a further question.
+Does it mean a hearer who has actually understood the Meaning, or one
 capable of understanding it? What follows from the distinction? If it means
-one who has already understood, then because sentence-meaning is a
+one who has already understood, then because sentence Meaning is a
 Condition of Mind-Cognition, and because the speech-manifestation has ceased
 together with Auditory Cognition, only non-disclosing continuity would
 constitute the principal course. If it means someone capable of
@@ -202,9 +202,9 @@ The completed course has three principal poles:
 ```text
 speaker's recognition
     ≠
-asserted meaning
+asserted Meaning
     →
-recipient capable of understanding that meaning
+recipient capable of understanding that Meaning
 ```
 
 This distinguishes lying from factual error. A speaker who states what they
@@ -223,12 +223,12 @@ The analysis of a multi-unit statement repeats the three-phase structure:
 earlier phonetic units
     = preparation
 
-meaning-completing final unit + avijñapti (non-disclosing continuity)
+Meaning-completing final unit + avijñapti (non-disclosing continuity)
     = principal course
 ```
 
 Yet the source immediately recognizes a difficulty. Auditory Cognition
-apprehends sound; Mind-Cognition apprehends the sentence meaning. By the
+apprehends sound; Mind-Cognition apprehends the sentence Meaning. By the
 time semantic comprehension occurs, the speech-manifestation may have
 ceased. The proposal that the recipient need only be capable of
 understanding protects a manifest component at completion, but the Bhāṣya
@@ -249,7 +249,7 @@ cannot be classified from message content alone:
 ```
 
 The `nāmakāya` basis from VAK 4.71 is now active. A statement is a configured
-semantic whole whose earlier parts prepare a meaning that becomes
+semantic whole whose earlier parts prepare a Meaning that becomes
 practically effective in reception. This is why a language model's output
 cannot be judged solely as a sequence of tokens: the course belongs to the
 relation between recognition, asserted Form, intended recipient, and uptake.

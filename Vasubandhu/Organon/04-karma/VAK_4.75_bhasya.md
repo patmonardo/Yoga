@@ -5,8 +5,8 @@
 > cakṣuḥ śrotramanaścittairanubhūtaṃ tribhiśca yat /
 > taddṛṣṭaśrutavijñātaṃ mataṃ coktaṃ yathākramam // 4.75 //
 
-> What is experienced through consciousness associated with the eye, ear, and
-> Mind, and through the three other consciousnesses, is called seen, heard,
+> What is experienced through Consciousness associated with the eye, ear, and
+> Mind, and through the three other Consciousnesses, is called seen, heard,
 > known, and thought, respectively.
 
 The verse states a Vaibhāṣika allocation of four modes of assertion to the
@@ -131,7 +131,9 @@ The complete unit is `[245|09]–[246|15]`. The running witness contains
 numerous visible irregularities, including `vijñātapātram`, `amyate`,
 `vyavahrilyante`, `yuktiṃrapyeṣā`, `ākharitam`, `syiāt`, `parākrakmeta`,
 and a compressed final `avijñapti` problem. They remain uncorrected in the
-continuous text. VAK 4.76 begins at `[246|16]` with divisive speech.
+continuous text. At `[246|13]–[246|14]`, `na cāvijñaptikāstyavijñaptiḥ
+kāmāvacarī` is construed as denying Desire Realm *avijñapti* without
+*vijñapti*. VAK 4.76 begins at `[246|16]` with divisive speech.
 
 ## 3. Continuous Translation
 
@@ -145,17 +147,17 @@ was known, and to say that the unseen was unseen through saying that the
 unknown was unknown—these are the eight noble modes.
 
 What, then, are the defining characteristics of the seen, heard, thought,
-and known? The verse says: “What is experienced through consciousness
+and known? The verse says: “What is experienced through Consciousness
 associated with the eye, ear, and Mind, and through the three other
-consciousnesses, is called seen, heard, known, and thought, respectively.”
+Consciousnesses, is called seen, heard, known, and thought, respectively.”
 The Bhāṣya interprets the first three through visual Cognition, auditory
 Cognition, and Mind-Cognition; it assigns olfactory, gustatory, and tactile
 Cognition to thought.
 
 Why are the last three called thought? The Vaibhāṣikas say that odors,
-tastes, and tangibles are indeterminate and as though inert; therefore the
-designation “thought” applies to them. What establishes this? Scripture and
-reasoning.
+tastes, and tangibles are ethically indeterminate and as though inert;
+therefore the designation “thought” applies to them. What establishes
+this? Scripture and reasoning.
 
 The cited sūtra asks Māhakīmātṛ whether forms never seen before, not now
 seen, and not even wished to be seen give rise to desire, passion,
@@ -203,9 +205,9 @@ by the fault of false speech; one may act bodily, or act neither bodily nor
 verbally, and be touched by both faults. The text points to the corruption
 of the sages' Minds and to the `poṣadha` example.
 
-But if one acts in neither manner, and if one lacking non-disclosing
-continuity has no Desire Realm non-disclosing continuity, how are the two
-courses established?
+But if one acts in neither manner, and there is no Desire Realm
+non-disclosing continuity (*avijñapti*) without manifestation
+(*vijñapti*), how are the two courses established?
 Effort must be made on this point. The discussion of false speech is complete.
 The Bhāṣya thus records the difficulty without resolving it in this unit.
 
@@ -251,7 +253,7 @@ inward mental realization         → known
 ```
 
 These are distinct principles of classification. The first assigns a fixed
-predicate according to cognitive basis and Condition. The second classifies how
+predicate according to Cognition type and Condition. The second classifies how
 the agent obtained or realized the content. Under the second account, one
 Condition can support several predicates because access can vary.
 
@@ -295,7 +297,7 @@ For the VAK LogicSet, a claim requires explicit epistemic placement:
 ```text
 Claim {
     content
-    cognitive_basis
+    cognition_type
     condition_field
     access_mode
     asserted_status
@@ -318,12 +320,10 @@ A mismatch can constitute false speech when it is knowingly asserted and
 received under the conditions established in VAK 4.74. The Organon therefore
 tracks both truth of content and truthfulness of epistemic self-location.
 
-The unresolved bodily-indication problem adds a warning: semantic action may
-be accomplished through bodily manifestation, speech, or non-disclosing
-continuity.
-The immediate text recognizes that its own existing categories do not yet
-fully explain every combination. We preserve that open problem rather than
-manufacturing closure.
+The unresolved bodily-indication problem asks how the courses can be
+established without bodily or verbal manifestation when Desire Realm
+*avijñapti* does not arise without *vijñapti*. The immediate text leaves
+that combination unexplained.
 
 ## 8. Review Status
 

@@ -220,7 +220,7 @@ Suppose someone wishing to kill an animal rises from bed, takes money,
 goes out, examines the animal, buys it, brings it home, feeds it, confines
 it, takes up a weapon to kill it, and strikes it once or twice. Until the
 animal is deprived of life, all this is preparation. The manifestation
-belonging to the blow by which it is deprived of life, together with the
+belonging to the blow by which it is deprived of life, or the
 non-manifest action of that moment, is the principal course of karma. One
 becomes connected with the fault of killing for two reasons: through the
 preparation and, once the animal has died, through completion of the
@@ -252,13 +252,15 @@ ceased. Let the interpretation avoid the fault. How does it do so? By
 taking “undertaking” there to mean the principal course itself.
 
 How, then, can the manifestation be the principal course at that later
-time? Why should it not be? Because it no longer possesses causal power.
+time? Why should it not be? Because of its incapacity [to do so].
 But how can the non-manifest action occur then? The resulting
 determination is that at the time when the result of the preparation is
 completed, both are the course of karma. The discussion is compressed and
 textually difficult; it seeks to coordinate the earlier manifestation
 with completion of the result rather than identify the visible blow alone
-as the entire course.
+as the entire course. The earlier sentence offers manifestation or
+same-moment non-manifest action; this concluding `tadubhayaṃ` says “both.”
+The tension remains visible in the translation.
 
 A course of karma can itself function as the preparation or aftermath of
 another course. All ten courses can serve as preparation for killing. For
@@ -271,7 +273,7 @@ killing. The other courses should be connected in corresponding ways.
 
 Yet covetousness and the other mental courses are not properly called
 preparatory actions merely as mental occurrences. The mere arising of
-consciousness does not constitute practical engagement, because action
+Consciousness does not constitute practical engagement, because action
 has not begun.
 
 The sūtra says: “Monks, killing is threefold: born from greed, born from

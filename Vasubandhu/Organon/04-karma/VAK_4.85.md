@@ -27,8 +27,8 @@ duḥkhanān māraṇād ojo-nāśanāt trividhaṃ phalam // 4.85 //
 | `duḥkhanāt` | ablative singular action noun | from causing suffering |
 | `māraṇāt` | ablative singular action noun | from killing or causing death |
 | `ojas-nāśanāt` | ablative singular compound | from destroying vitality |
-| `trividham` | accusative neuter singular | threefold |
-| `phalam` | accusative neuter singular | result |
+| `trividham` | nominative/accusative neuter singular, predicative here | threefold |
+| `phalam` | nominative/accusative neuter singular, subject here | result |
 
 **Sandhi in the second pāda**
 
@@ -74,7 +74,7 @@ sarve [karmapathāḥ]
 > All Courses of Action are held to give dominant, corresponding, and
 > maturation results.
 
-The long compound coordinates three objects of `-dāḥ`. It does not name one
+The long compound coordinates three result types governed by `-dāḥ`. It does not name one
 undifferentiated composite fruit. `Matāḥ` marks the received doctrinal
 determination.
 
@@ -133,7 +133,8 @@ from killing.
 **`Niṣyanda-phala` — corresponding result**
 
 A later determination specially corresponding to the qualitative form of the
-Course of Action: killing with short life, taking what is not given with loss
+Course of Action: killing with the agent's later shortness of life,
+taking what is not given with loss
 of possessions, divisive speech with broken friendships, and so forth. The
 correspondence denotes qualitative similarity, not numerical transmission of
 an entity.
@@ -206,7 +207,7 @@ completed determination does in different relations.
 
 | Course of Action | Corresponding result | Dominant field-result |
 |---|---|---|
-| killing | short life | external things have little vitality |
+| killing | being short-lived | external things have little vitality |
 | taking what is not given | loss of possessions | destructive environmental disturbances |
 | sexual misconduct | unsatisfactory partner relations | polluted or dusty surroundings |
 | false speech | frequent false accusation | foul-smelling conditions |
@@ -272,7 +273,7 @@ because the result preserves the deed's form through transformation, not
 because an invisible object travels unchanged across time.
 
 The objection concerning short human life is philosophically decisive. Human
-life is itself a wholesome maturation, so killing cannot simply be declared
+life is itself a wholesome result, so killing cannot simply be declared
 the producer of that very life. Vasubandhu instead determines killing as an
 `antarāya-hetu`: it obstructs and qualifies a life produced through other
 grounds. This is a sophisticated account of conditioned causality in which

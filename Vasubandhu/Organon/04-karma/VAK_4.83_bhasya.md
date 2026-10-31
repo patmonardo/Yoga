@@ -8,7 +8,7 @@
 > Here in Uttarakuru, the seventh Course of Action also occurs by present
 > manifestation. Elsewhere in the Desire Realm, all ten unwholesome Courses of
 > Action also occur by present manifestation. But the three wholesome mental
-> Courses of Action occur everywhere by present manifestation and acquisition.
+> Courses of Action occur everywhere by present manifestation and endowment.
 
 The verse completes the regional distribution begun in 4.82. `Atra` carries
 forward Uttarakuru; `anyatra` then excludes both Uttarakuru and the hells
@@ -34,7 +34,7 @@ daśākuśalāḥ karmapathāḥ saṃmukhībhāvato 'pi vidyante.
 tiryakpretadeveṣv asaṃvaranirmuktāḥ; manuṣyeṣv asaṃvarasaṃgṛhītā api.
 
 yady api devo devaṃ na mārayati, anyagatisthaṃ tu mārayati. devā api
-śiromadhyacchedād mriyanta ity apare.
+śiromadhyacchedād mriyante ity apare.
 
 uktā aśubhāḥ.
 
@@ -45,16 +45,16 @@ saṃmukhībhāvataḥ samanvāgamataś ca vidyante.
 ```
 
 At `[252|26]` the running witness reads `asaṃbhinnapralāpaḥ`, although the
-seventh Course of Action and the context require `saṃbhinnapralāpaḥ`. The normalized
-reading is printed above and the witness form is preserved here. The witness
-also has `bhriyanta` at `[253|08–09]`; `mriyante`, “they die,” is the secure
-contextual reading.
+seventh Course of Action and the context require `saṃbhinnapralāpaḥ`. The
+normalized reading is printed above and the witness form is preserved here.
+The witness also has `bhriyanta` at `[253|08–09]`; the Sanskrit above reads
+`mriyante`, “they die,” as a contextual repair.
 
 ## 3. Continuous Translation
 
 Here in Uttarakuru, the seventh Course of Action—disordered or frivolous
 afflicted speech—also occurs by present manifestation, for its inhabitants
-sometimes sing with afflicted consciousness. Courses of Action beginning
+sometimes sing with afflicted Consciousness. Courses of Action beginning
 with killing do not occur because their dispositions are not unwholesome,
 their lifespans are fixed, possessions and possession of women are absent,
 and there is no purpose for the relevant acts.
@@ -78,9 +78,9 @@ are cut through the middle.
 
 The unwholesome Courses of Action have now been stated. The three wholesome
 mental Courses of Action occur everywhere through present manifestation and
-acquisition. In all five destinies throughout the three realms,
+endowment. In all five destinies throughout the three realms,
 non-covetousness, non-hostility, and right view are found both as presently
-manifest and as acquired by the continuum.
+manifest and as endowed in the continuum.
 
 ## 4. Uttarakuru: The Seventh Course of Action
 
@@ -95,7 +95,7 @@ occasional afflicted singing
 ```
 
 The example is exacting. Pleasant or musical expression is not condemned as
-such. The Bhāṣya specifies singing performed with an afflicted mind. The
+such. The Bhāṣya specifies singing performed with afflicted Consciousness. The
 determining factor is the afflicted practical character of the occurrence.
 
 The other unwholesome Courses of Action lack their required supports. Fixed lifespan

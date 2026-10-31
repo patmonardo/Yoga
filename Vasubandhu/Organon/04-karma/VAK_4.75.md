@@ -21,9 +21,9 @@ taddṛṣṭaśrutavijñātaṃ mataṃ coktaṃ yathākramam // 4.75 //
 | `cakṣuḥ` | compound member | eye |
 | `śrotra` | compound member | ear |
 | `manas` | compound member | Mind |
-| `cittaiḥ` | instrumental plural of `citta` | through consciousness associated with eye, ear, and Mind |
+| `cittaiḥ` | instrumental plural of `citta` | through Consciousness associated with eye, ear, and Mind |
 | `anubhūtam` | nominative neuter singular past participle | experienced; undergone |
-| `tribhiḥ` | instrumental plural | through the three remaining consciousnesses |
+| `tribhiḥ` | instrumental plural | through the three remaining Consciousnesses |
 | `yat ... tat` | correlative pronouns | whatever ... that |
 | `dṛṣṭam` | nominative neuter singular | seen |
 | `śrutam` | nominative neuter singular | heard |
@@ -34,8 +34,8 @@ taddṛṣṭaśrutavijñātaṃ mataṃ coktaṃ yathākramam // 4.75 //
 
 **The sixfold field**
 
-The kārikā names consciousness associated with the eye, ear, and Mind, then
-three further consciousnesses. The Bhāṣya interprets this compact structure
+The kārikā names Consciousness associated with the eye, ear, and Mind, then
+three further Consciousnesses. The Bhāṣya interprets this compact structure
 through six kinds of Cognition (`vijñāna`):
 
 ```text
@@ -49,7 +49,7 @@ tactile Cognition
 
 The verse distributes these through four conventional expressions. The
 distinction between the kārikā's `citta` and the Bhāṣya's `vijñāna` is
-preserved: consciousness is not silently rendered as Cognition.
+preserved: Consciousness is not silently rendered as Cognition.
 
 ## 4. Grammar
 
@@ -57,8 +57,8 @@ preserved: consciousness is not silently rendered as Cognition.
 
 ```text
 yat
-    through consciousness associated with the eye, ear, and Mind
-    through the three remaining consciousnesses
+    through Consciousness associated with the eye, ear, and Mind
+    through the three remaining Consciousnesses
 
 tat
     dṛṣṭam
@@ -68,8 +68,8 @@ tat
     yathākramam uktam
 ```
 
-> What is experienced through consciousness associated with the eye, ear,
-> and Mind, and through the three other consciousnesses, is called seen,
+> What is experienced through Consciousness associated with the eye, ear,
+> and Mind, and through the three other Consciousnesses, is called seen,
 > heard, known, and thought, respectively.
 
 `Yathākramam` requires an ordered correspondence. The Bhāṣya states the
@@ -88,19 +88,19 @@ account in the prose.
 ## 5. Translation
 
 ### Literal Translation
-> What is experienced through consciousness associated with the eye, ear,
-> and Mind, and through the three other consciousnesses, is called seen,
+> What is experienced through Consciousness associated with the eye, ear,
+> and Mind, and through the three other Consciousnesses, is called seen,
 > heard, known, and thought, respectively.
 
 ### Bhāṣya-informed study translation
 
-> What is experienced through consciousness associated with the eye, ear, and
-> Mind, and through the three other consciousnesses, is called seen, heard,
+> What is experienced through Consciousness associated with the eye, ear, and
+> Mind, and through the three other Consciousnesses, is called seen, heard,
 > known, and thought, respectively.
 
 ## 6. Philosophical Translation
 
-> What is experienced through consciousness associated with the eye, ear, and Mind, and through the three other consciousnesses, is called seen, heard, known, and thought, respectively.
+> What is experienced through Consciousness associated with the eye, ear, and Mind, and through the three other Consciousnesses, is called seen, heard, known, and thought, respectively.
 
 ## 7. Technical Vocabulary
 
@@ -262,7 +262,7 @@ The decisive philosophical question is not which table is easiest to encode,
 but what relation generates the four distinctions:
 
 ```text
-fixed cognitive basis and Condition?
+fixed Cognition type and Condition?
 
 or
 
@@ -286,7 +286,7 @@ project synthesis.
 **Former Philosophical Translation.**
 > Truthful speech requires a determination of the sense in which a matter is
 > seen, heard, thought, or known. One account fixes these expressions by the
-> cognitive basis or Condition-field; competing accounts fix them by how the
+> Cognition type or Condition-field; competing accounts fix them by how the
 > speaker has gained access to the matter. The passage therefore does not
 > deliver a single unchallenged epistemic table. It exposes a question about
 > the ground of differentiation: are the predicates licensed by Faculty and
@@ -309,7 +309,7 @@ Class: Seen
 Class: Heard
 Class: Thought
 Class: Known
-Class: CognitionBasis
+Class: CognitionType
 Class: ModeOfAccess
 Class: VaibhasikaAllocation
 Class: AlternativeAccessAllocation
@@ -318,7 +318,7 @@ Class: ContextualPurpose
 
 ObjectProperty: experiencedThrough
 ObjectProperty: designatedAs
-ObjectProperty: classifiedByBasis
+ObjectProperty: classifiedByCognitionType
 ObjectProperty: classifiedByAccessMode
 ObjectProperty: offeredAsProofFor
 ObjectProperty: hasContextualPurpose

@@ -23,7 +23,7 @@ senādiṣvekakāryatvāt sarve kartṛvadanvitāḥ // 4.72 //
 | `mṛtasya` | genitive masculine singular past participle of `√mṛ` | for one who has died |
 | `asti na` | third-person singular plus negation | there is not |
 | `maulaḥ` | nominative masculine singular | the principal karmic course |
-| `anya-āśraya-udayāt` | ablative compound | because another support arises |
+| `anya-āśraya-udayāt` | ablative compound | because another Basis arises |
 | `senā-ādiṣu` | locative masculine plural compound | in armies and similar collectives |
 | `eka-kāryatvāt` | ablative abstract compound | because of having one common undertaking |
 | `sarve` | nominative masculine plural | all participants |
@@ -33,7 +33,7 @@ senādiṣvekakāryatvāt sarve kartṛvadanvitāḥ // 4.72 //
 **The two attribution problems**
 
 ```text
-one lethal project across a transition of support
+one lethal project across a transition of Basis
     diachronic attribution
 
 one lethal project distributed across many participants
@@ -61,17 +61,17 @@ read “there is no principal course,” not “the principal course exists.” 
 comparison is with the victim's death: the instigator dies at the same time as
 the victim or before the victim.
 
-**Reason from support-transition**
+**Reason from a change of Basis**
 
 ```text
 anya-āśraya-udayāt
     [maulaḥ na asti]
 ```
 
-> There is no principal course because another support arises.
+> There is no principal course because another Basis arises.
 
-The ablative gives the reason. The support that undertook preparation has
-ceased; a later support was not the preparatory instigator.
+The ablative gives the reason. The Basis that undertook preparation has
+ceased; a later Basis was not the preparatory instigator.
 
 **Collective implication**
 
@@ -92,19 +92,19 @@ of shared attribution.
 
 ### Literal Translation
 > For one who has died simultaneously or beforehand, there is no principal
-> course, because another support arises. In armies and similar collectives,
+> course, because another Basis arises. In armies and similar collectives,
 > because there is one common undertaking, all are connected like the doer.
 
 ### Bhāṣya-informed study translation
 
 > For one who dies simultaneously with the victim or beforehand, there is no
-> principal course, because another support arises. In an army and similar
+> principal course, because another Basis arises. In an army and similar
 > undertakings, all are connected with the course like the doer because they
 > participate in one common operation.
 
 ## 6. Philosophical Translation
 
-> For one who has died simultaneously or beforehand, there is no principal course, because another support arises. In armies and similar collectives, because there is one common undertaking, all are connected like the doer.
+> For one who has died simultaneously or beforehand, there is no principal course, because another Basis arises. In armies and similar collectives, because there is one common undertaking, all are connected like the doer.
 
 ## 7. Technical Vocabulary
 
@@ -114,23 +114,24 @@ The completed course distinguished from preparation and aftermath. For
 killing, the Bhāṣya locates principal completion at the victim's death, not at
 the prior intention, command, assault, or other causal preparation.
 
-**`Āśraya` — support**
+**`Āśraya` — Basis**
 
-The psycho-physical support through which the karmic process is undertaken and
+The psycho-physical Basis through which the karmic process is undertaken and
 borne. It should not be reduced to a permanent agent or merely to the physical
-body.
+body. This is the bearer of the action, distinct from 4.71's `adhiṣṭhāna`,
+the objective basis on which a course operates.
 
-**`Anyāśraya` — another support**
+**`Anyāśraya` — another Basis**
 
-The support arising after the former support has ceased. The Bhāṣya describes
-it as belonging to another `nikāyasabhāga`; it is not the support that carried
+The Basis arising after the former Basis has ceased. The Bhāṣya describes
+it as belonging to another `nikāyasabhāga`; it is not the Basis that carried
 out the preparation.
 
-**`Nikāyasabhāga` — membership-series**
+**`Nikāyasabhāga` — class-membership**
 
 The class-continuity belonging to a particular form of rebirth. Its mention
-marks the difference between the support that initiated the lethal project
-and the later support arising after death.
+marks the difference between the Basis that initiated the lethal project
+and the later Basis arising after death.
 
 **`Ekakāryatva` — unity of undertaking**
 
@@ -175,16 +176,16 @@ The result-event is necessary, but it does not alone settle attribution.
 **Diachronic restriction**
 
 ```text
-support A
+Basis A
     undertakes preparation
         ↓
-support A ceases before or with victim's death
+Basis A ceases before or with victim's death
         ↓
-support B arises
+Basis B arises
         ↓
-support B did not undertake the preparation
+Basis B did not undertake the preparation
         ↓
-principal killing-course is not transferred to B
+principal killing-course is not transferred to Basis B
 ```
 
 Thus:
@@ -230,12 +231,12 @@ settled refusal of the killing-project
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya explains that the later support did not undertake the preparation,
+**Translation note.** The Bhāṣya explains that the later Basis did not undertake the preparation,
 so the completed course is not transferred to it. By contrast, participants
 in a common killing-project are connected with the course like its immediate
 performer because they function as mutual instigators.
 
-The arranged-killing scenario, the later-support reasoning, the collective
+The arranged-killing scenario, the reasoning about the later Basis, the collective
 examples, and mutual-instigation analysis are supplied by the Bhāṣya.
 
 **Agency is not identical with physical execution**
@@ -247,9 +248,9 @@ movement.
 
 **Causation and attribution remain distinct**
 
-The death of the initiating support does not erase the causal efficacy of the
+The death of the initiating Basis does not erase the causal efficacy of the
 arrangement: the victim may still die. Yet the principal course does not
-simply migrate along the causal chain into a new support. The system therefore
+simply migrate along the causal chain into a new Basis. The system therefore
 records both:
 
 ```text
@@ -263,7 +264,7 @@ These questions intersect without being identical.
 
 ```text
 unity through time
-    depends upon continuity of the relevant support through completion
+    depends upon continuity of the relevant Basis through completion
 
 unity across persons
     depends upon participation in one common undertaking
@@ -272,14 +273,14 @@ unity across persons
 This yields distributed responsibility without introducing a permanent agent
 or substantial collective self.
 
-This is the Organon contact. The temporal rule, support analysis, army and
+This is the Organon contact. The temporal rule, Basis analysis, army and
 related examples, mutual instigation, and stringent refusal exception belong
 to the Bhāṣya; the formulation in terms of two forms of Practical Unity is the
 project synthesis.
 
 **Former Philosophical Translation.**
 > Causal efficacy by itself does not determine who bears the principal karmic
-> completion. Across time, attribution is restricted when the support that
+> completion. Across time, attribution is restricted when the Basis that
 > initiated the project has ceased before the defining result occurs. Across
 > persons, attribution is extended when multiple participants constitute one
 > common undertaking. Practical unity is therefore neither permanent
@@ -289,7 +290,7 @@ project synthesis.
 The verse coordinates two apparently opposed results:
 
 ```text
-support-difference
+change of Basis
     can break attribution
 
 unity of undertaking
@@ -303,8 +304,8 @@ Class: KarmicProcess
 Class: PreparatoryPhase
 Class: PrincipalKillingCourse
 Class: CompletionEvent
-Class: PsychoPhysicalSupport
-Class: LaterSupport
+Class: PsychoPhysicalBasis
+Class: LaterBasis
 Class: CollectiveUndertaking
 Class: ImmediateDoer
 Class: CollectiveParticipant
@@ -324,12 +325,12 @@ Rule: KillingCompletesAtVictimDeath
     PrincipalKillingCourse(?c)
     -> hasCompletionEvent(?c, DeathOfVictim)
 
-Rule: SupportTransitionBlocksTransfer
-    undertakesPreparationThrough(?p, ?supportA)
-    and CeasesBeforeOrWithCompletion(?supportA, ?p)
-    and LaterSupport(?supportB)
-    and arisesAfter(?supportB, ?supportA)
-    -> not bearsPrincipalCourse(?supportB, ?p)
+Rule: BasisTransitionBlocksTransfer
+    undertakesPreparationThrough(?p, ?basisA)
+    and CeasesBeforeOrWithCompletion(?basisA, ?p)
+    and LaterBasis(?basisB)
+    and arisesAfter(?basisB, ?basisA)
+    -> not bearsPrincipalCourse(?basisB, ?p)
 
 Rule: CommonUndertakingDistributesAttribution
     CollectiveParticipant(?x)

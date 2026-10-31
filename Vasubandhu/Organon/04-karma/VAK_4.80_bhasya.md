@@ -17,6 +17,8 @@ the cognition through which their continuity is restored.
 ## 2. Continuous Sanskrit
 
 ```iast
+tāni punaḥ
+
 chinatti strī pumān
 
 strī ca samucchinatti puruṣaś ca mandacchandavīryaprajñatvān na strīty
@@ -71,18 +73,21 @@ kuśalamūlasamucchedikāyā mithyādṛṣṭer avīcau vipākaḥ.
 ānantaryakāriṇāṃ tu tatra vānyatra vā narake.
 ```
 
-The running witness reads `aṣṭidṛṣṭir` at `[250|15]`; the context and the
-kārikā require `astidṛṣṭir`, “the view that there is.” The normalized reading
-is printed above while the witness irregularity is recorded here. Several
-compounds and sandhi divisions have likewise been opened for readability;
-the doctrine has not been rewritten.
+The unit begins with `tāni punaḥ` at `[250|01]`, the lead-in to `chinatti`
+at `[250|02]`. The running witness reads `aṣṭidṛṣṭir` at `[250|15]`; the
+context and the kārikā require `astidṛṣṭir`, “the view that there is.” The
+normalized reading is printed above. The witness also reads `navakebhyaś`
+in the quotation at `[250|20]–[250|22]`; the translation interprets this
+as a likely error for `narakebhyaḥ`, “from the hells,” in light of the
+immediate-retribution context. Several compounds and sandhi divisions have
+been opened for readability; these repairs are recorded rather than concealed.
 
 ## 3. Continuous Translation
 
-Both a woman and a man sever the roots. Others say that a woman does not,
-because her resolve, vigor, and discernment are weak. But the following
-canonical statement would contradict them: “One endowed with the Female
-Faculty is necessarily endowed with eight Faculties.”
+Those roots, in turn, are severed by both a woman and a man. Others say
+that a woman does not, because her resolve, vigor, and discernment are weak.
+But the following canonical statement would contradict them: “One endowed
+with the Female Faculty is necessarily endowed with eight Faculties.”
 
 Even among those persons, one governed by craving does not sever the roots,
 because the underlying disposition is unstable. Who, then, does so? One
@@ -278,10 +283,10 @@ state chronology, the named persons, or maturation.
 
 ## 10. Review Status
 
-The complete 4.80 commentary unit `[250|02]–[251|04]` is included. The unit
+The complete 4.80 commentary unit `[250|01]–[251|04]` is included. The unit
 ends immediately before Vasubandhu says that the discussion now returns to
 the courses of action at `[251|05]`. The competing position on women, the
 definition through non-endowment, both modes of reconnection, the temporal
 classifications, the fourfold matrix, and the maturation distinction have
-all been retained. The running-source irregularity `aṣṭidṛṣṭir` is recorded
-rather than silently concealed.
+all been retained. The running-source irregularities `aṣṭidṛṣṭir` and
+`navakebhyaś` are recorded rather than silently concealed.

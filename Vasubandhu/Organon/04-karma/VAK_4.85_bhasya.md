@@ -70,7 +70,8 @@ The witness at `[254|01–05]` reads `sa saṃpannadāraḥ`, which contradicts 
 unwholesome-result series; the expected negative reading `asampannadāraḥ` is
 printed above and the repair is marked here. Other obvious running-text forms
 normalized above include `narakeṣrapapadyate`, `praṇātipāta`, `maulelnety`,
-and `prāṇātīpātena`.
+and `prāṇātīpātena`. The witness also repeatedly has `niḥṣyanda`,
+normalized here to `niṣyanda` in accord with the kārikā.
 
 ## 3. Continuous Translation
 
@@ -81,7 +82,7 @@ First, through practicing, cultivating, and making any of the unwholesome
 Courses of Action abundant, one is reborn in hell. That is their maturation
 result.
 
-If the person comes to be among humans, killing produces short life; taking
+If the person comes to be among humans, through killing one is short-lived; taking
 what is not given produces loss of possessions; sexual misconduct leaves the
 person without a suitable spouse; false speech brings frequent accusation;
 divisive speech produces the breakup of friendships; harsh speech leads to
@@ -165,7 +166,7 @@ The middle series pairs each Course of Action with a later human determination:
 | false view | intense delusion |
 
 The objection about lifespan prevents a crude identity. Human life, however
-short, arises as a wholesome maturation. Killing does not manufacture that
+short, is a wholesome result. Killing does not manufacture that
 life; it obstructs its possible extent. “Correspondence” therefore names a
 similarity of causal determination, not the reappearance of one numerically
 identical effect.

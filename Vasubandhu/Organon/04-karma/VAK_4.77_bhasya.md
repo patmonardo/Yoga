@@ -118,10 +118,10 @@ or inferentially shapeless. Flattery, performance, and a corrupt treatise
 can possess polished organization. Their defect lies in afflicted genesis
 and orientation.
 
-The wheel-turning monarch example separates expressive Form from governing
-Power: song governed by sensual-afflictive savor is afflicted discourse;
-song governed by renunciation is not afflicted in that manner. Afflicted
-verbal conduct may also exist without acquiring karmapatha degree.
+The wheel-turning monarch example distinguishes the act of singing from
+the orientation of the song: song connected with sensual savor is afflicted
+discourse in this discussion; song connected with renunciation is not.
+Afflicted verbal conduct may also exist without acquiring karmapatha degree.
 
 ## 5. Covetousness as a Mental Course
 

@@ -18,7 +18,7 @@ saṃmukhībhāvataś cāpi hitvā sa-narakān kurūn // 4.84 //
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `ārūpye` | locative neuter singular, metrically `ārūpya` in compound coordination | in the Formless Realm |
+| `ārūpya-` | first member of the compound `ārūpyāsaṃjñisattveṣu` | the Formless Realm |
 | `asaṃjñi-sattveṣu` | locative masculine plural | among non-percipient beings |
 | `lābhataḥ` | ablative used adverbially | by acquisition |
 | `sapta` | nominative plural numeral | the seven wholesome bodily and verbal Courses of Action |
@@ -102,13 +102,13 @@ Bhāṣya identifies the Kurus as the inhabitants of Uttarakuru.
 ### Bhāṣya-informed study translation
 
 > In the Formless Realm and among non-percipient beings, the seven wholesome
-> bodily and verbal Courses of Action occur by acquisition. In the remainder
+> bodily and verbal Courses of Action occur by endowment. In the remainder
 > they also occur by present manifestation, excluding hell beings and the
 > Kurus.
 
 ## 6. Philosophical Translation
 
-> In the Formless Realm and among non-percipient beings, the seven wholesome bodily and verbal Courses of Action occur by acquisition. In the remainder they also occur by present manifestation, excluding hell beings and the Kurus.
+> In the Formless Realm and among non-percipient beings, the seven wholesome bodily and verbal Courses of Action occur by endowment. In the remainder they also occur by present manifestation, excluding hell beings and the Kurus.
 
 ## 7. Technical Vocabulary
 
@@ -121,7 +121,8 @@ conduct, not mere physical inactivity.
 **`Lābha` — acquisition or endowment**
 
 A continuum-level possession relation. A Course of Action can belong to a continuum by
-acquisition although it is not presently manifest. `Lābha` must therefore not
+endowment although it is not presently manifest. The Bhāṣya glosses `lābhataḥ`
+with `samanvāgamata eva` (through endowment alone); it must therefore not
 be translated as the occurrence of a current act.
 
 **`Saṃmukhībhāva` — present manifestation**
@@ -140,17 +141,18 @@ the seven.
 
 Restraint belonging to the noble path. The Bhāṣya explains that a noble being
 in the Formless Realm may remain endowed with past restraint that was
-generated and ceased, and with future restraint supported by five levels.
+generated and ceased using a particular level as Basis, and with future
+restraint whose Basis comprises five levels.
 This temporal endowment accounts for the seven there without present bodily
 or verbal manifestation.
 
 **`Asaṃjñi-sattva` — non-percipient being**
 
 A being in the non-percipient attainment of rebirth, not a general expression
-for unconscious or inanimate entities. The seven belong here through concentration-born
+for unconscious or inanimate entities. The seven belong here through Dhyāna
 restraint rather than current bodily or verbal enactment.
 
-**`Dhyāna-saṃvara` — concentration-born restraint**
+**`Dhyāna-saṃvara` — Dhyāna restraint**
 
 Restraint arising with meditative concentration. It supplies the endowment of
 the seven among non-percipient beings.
@@ -204,7 +206,7 @@ Collapsing any two of these produces a false distribution.
 | Location or class | Endowment | Present manifestation | Relation to restraint |
 |---|---:|---:|---|
 | qualified noble beings in the Formless Realm | yes | no | without-Influx restraint |
-| non-percipient beings | yes | no | concentration-born restraint |
+| non-percipient beings | yes | no | Dhyāna restraint |
 | hell beings | not denied by this line | no | not classified here |
 | inhabitants of Uttarakuru | not denied by this line | no | not classified here |
 | animals and pretas where manifested | yes | yes | restraint-independent |
@@ -228,11 +230,11 @@ realm membership                ≠ one uniform mode of ethical presence
 
 ```text
 seven wholesome bodily-verbal Courses of Action
-├── acquisition only
+├── endowment without manifestation
 │   ├── noble continuum in the Formless Realm: without-Influx restraint
-│   └── non-percipient continuum: concentration-born restraint
-└── acquisition plus possible manifestation
-    ├── hell and Uttarakuru: manifestation excluded
+│   └── non-percipient continuum: Dhyāna restraint
+├── hell and Uttarakuru: manifestation excluded here
+└── endowment plus possible manifestation
     ├── animals and pretas: outside formal restraint
     ├── Form Realm: within formal restraint
     └── other remaining cases: either relation to restraint
@@ -245,7 +247,7 @@ case, the two kinds of restraint, and the final threefold distribution are
 supplied by the Bhāṣya. The Bhāṣya specifies endowment alone in these two
 cases: noble beings born in the Formless Realm remain endowed with past and
 future without-Influx restraint, while non-percipient beings are endowed
-through concentration-born restraint. In the remaining realms and destinies,
+through Dhyāna restraint. In the remaining realms and destinies,
 the seven can become presently manifest. Their manifestation is independent of
 formal restraint among animals and pretas, included within restraint in the
 Form Realm, and either way elsewhere.

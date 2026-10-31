@@ -101,9 +101,8 @@ possession one's own.
 **`Prāṇa` — life**
 
 Within `prāṇātipāta`, life or living vitality, not physiological breath alone.
-The Bhāṣya offers vital wind supported by body and consciousness as one
-formulation and `jīvitendriya`, the Life Faculty, as the more exact
-Abhidharma determination.
+The Bhāṣya offers a vital wind dependent on body and Consciousness as one
+formulation, or `jīvitendriya`, the Life Faculty, as another.
 
 **`Atipāta` — striking down or destruction**
 
@@ -121,7 +120,7 @@ The being or possession intended must be the one actually affected. This is
 more precise than generic absence of error: it preserves the linkage between
 intended basis and completed result.
 
-**`Tyāgacitta` — relinquishing consciousness**
+**`Tyāgacitta` — relinquishing Consciousness**
 
 Bhāṣya terminology explaining the doubtful case. A person initially unsure
 whether the target is alive or which being it is can nevertheless settle upon
@@ -183,7 +182,7 @@ mere causal contribution
 
 **Life under momentariness**
 
-The Bhāṣya asks how killing is possible if the Bases are momentary. Its
+The Bhāṣya asks how killing is possible if the aggregates are momentary. Its
 answer does not posit a permanent living substance:
 
 ```text
