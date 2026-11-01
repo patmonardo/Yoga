@@ -5,9 +5,9 @@
 > ānantaryāṇi karmāṇi tīvrakleśo 'tha durgatiḥ /
 > kauravāsaṃjñisattvāś ca matam āvaraṇatrayam // 4.96 //
 
-> The actions of immediate retribution, persistent affliction, and then bad
-> destinies, inhabitants of Uttarakuru, and non-percipient beings are held to be
-> the three obstructions.
+> The *ānantarya* actions form one obstruction, recurrent affliction another,
+> and the three bad destinies together with the people of Uttarakuru and
+> non-percipient beings the third.
 
 ## 2. Continuous Sanskrit
 
@@ -56,11 +56,13 @@ tadbhāva ānantaryam:
 yasya dharmasya yogāt so 'nantaro bhavati, śrāmaṇyavat.
 ```
 
-The source unit is `[259|04]–[259|24]`. The witness has damaged readings.
-`Tathāgataśrīre` is normalized to the contextually supported
-`tathāgataśarīre`; `pajñakāni` is normalized as `prajñāpakāni`. The
-compressed list of other possible limiting conditions and the phrase
-`sarvajaghanyam` are retained without imposing a disputed interpretation.
+The source unit is `[259|04]–[259|24]`. The working witness has damaged
+readings. `Tathāgataśrīre` is normalized to `tathāgataśarīre`,
+`śaṇṭhādīnām` to `śaṇḍhādīnām`, `pajñakāni` to `prajñāpakāni`, and
+`tāmyāṃ` to `tābhyāṃ`; `tivra` and `abhikṣṇika` are also normalized to
+`tīvra` and `abhīkṣṇika`.
+The compressed list of other possible limiting conditions remains
+uncertain in its segmentation.
 
 ## 3. Continuous Translation
 
@@ -73,9 +75,10 @@ and, with a hostile mind, causing blood to flow from a Tathāgata's body.
 
 Recurrent affliction is affliction-obstruction. Affliction is of two kinds:
 *tīvra*, which is frequent or recurrent, and *tīkṣṇa*, which is very strong.
-Of these, the recurrent kind is the obstruction. Even an affliction of
-extreme force, if occasional, can be removed; but even a collection that is
-continual is not readily removed. When affliction is continual, there is no
+Of these, the recurrent kind is the obstruction, as in the source's
+`śaṇḍha` and related cases. Even an affliction of extreme force, if
+occasional, can be removed; but even a collection of afflictions, if
+continual, cannot be removed. When affliction is continual, there is no
 time for exertion toward removing it. Depending on a mild affliction, a
 moderate one arises; depending on a moderate one, an intense one arises.
 
@@ -84,14 +87,16 @@ favorable destiny, are the people of Uttarakuru and non-percipient beings.
 
 What do these obstructions obstruct? The noble Path and the wholesome roots
 preparatory to the noble Path. Other actions fixed to limiting conditions
-could also have been named. The text names these because they are especially
-clear and discriminable under five aspects: support, result, destiny, mode
+could also have been named; the compressed list mentions bad destinies and
+the like, egg and moisture birth, female status, and an eighth existence.
+The text names these obstructions because they are especially clear and
+discriminable under five aspects: basis, result, destiny, mode
 of birth, and person.
 
-Among these, affliction-obstruction is described as *sarvajaghanya*; next
-comes action-obstruction. The Vaibhāṣikas say that through these two a person
-can be beyond remedy even in a second birth, because of successive
-transmission.
+Among these, affliction-obstruction is the worst of all; action-obstruction
+comes next. The Vaibhāṣikas say that through these two a person can be
+beyond remedy even in a second birth, because each brings forth the next
+obstruction.
 
 What does *ānantarya* mean? These actions cannot be interrupted with respect
 to their maturation by the result, in another birth, of another action;
@@ -167,25 +172,27 @@ conditions, then explains that the listed cases are especially
 recognizable through five aspects:
 
 ```text
-adhiṣṭhāna  support
+adhiṣṭhāna  basis
 phala        result
 gati         destiny
 upapatti     mode of birth
 pudgala      person
 ```
 
-The running witness's list of further conditions is compressed and
-orthographically uncertain. The five-aspect explanation is retained without
-claiming that the listed obstructions exhaust every possible limitation.
+The running witness's list of further conditions names bad destinies and
+the like, egg and moisture birth, female status, and an eighth existence.
+Its segmentation is uncertain; these are the source's historical categories.
+The five-aspect explanation does not claim that the listed obstructions exhaust every
+possible limitation.
 
 ## 8. The Bhāṣya's Ranking
 
-The text calls affliction-obstruction *sarvajaghanya* and then places
-action-obstruction next. Because the precise force of *jaghanya* here can
-signal a lowest rank without making the scale explicit, this study preserves
-the Sanskrit term rather than asserting an unambiguous severity hierarchy.
-The Vaibhāṣika account that follows says these two can continue to make a
-person beyond remedy even in a second birth through successive transmission.
+The text calls affliction-obstruction *sarvajaghanya*, the worst of all,
+and places action-obstruction next. The Vaibhāṣika explanation says these
+two can continue to make a person beyond remedy even in a second birth
+because one obstruction leads to the next: affliction to action, and action
+to its maturation. This causal unfolding explains the ranking; it is not a
+measure of how unpleasant each resultant state feels.
 
 ## 9. Interpretation
 

@@ -71,7 +71,7 @@ at `[268|09]` and belongs to 4.113.
 Through the praise of Tiṣya, vigor was completed.
 
 Seeing the Tathāgata Tiṣya in the Ratna Cave, absorbed in an attainment
-of the Fire Principle, the Blessed One, while a bodhisattva, stood on
+of the Fire Element, the Blessed One, while a bodhisattva, stood on
 one foot and praised him for seven days with a single verse:
 
 “Neither in heaven nor on earth, nor in this world, nor in the abode of
@@ -83,16 +83,18 @@ earth with its mountains and forests?”
 At that time, it is said, the perfection of vigor was complete, and nine
 kalpas were turned back.
 
-“Immediately after concentration and the Science of Principles” is
-clarified as immediately before awakening: the perfections of concentration
-and the Science of Principles were completed in diamond-like concentration.
-They are called perfections because they reached the far shore of their
-own excellence.
+The completion of discriminative comprehension and concentration comes
+immediately before awakening: the perfections of meditative concentration
+and discriminative comprehension were completed in diamond-like concentration.
+They are called perfections because each reached the far shore of its own
+excellence.
 
 A sūtra says there are three bases of meritorious activity: giving-formed,
 discipline-formed, and cultivation-formed. How is this triad a basis of
-meritorious activity? As with paths of karma, the triad is merit, activity,
-and basis according to function.
+meritorious activity? The verse answers: merit, activity, and its basis,
+as with paths of karma. Each of these three is merit, activity, and basis
+as appropriate. Similarly, they are called paths of karma because they
+are both karma and paths, or because they are paths of karma.
 
 In the giving-formed basis, bodily and verbal action has all three
 designations. The volition that brings it forth is merit and activity;
@@ -115,11 +117,11 @@ activity in the strict sense and that these three are its bases.
 |---|---|
 | Vigor | Completed through the Bodhisattva's seven-day praise of Tiṣya; nine kalpas are said to have been turned back |
 | Concentration | Completed in diamond-like concentration immediately before awakening |
-| Science of Principles | Completed together with concentration immediately before awakening |
+| Discriminative comprehension (`prajñā`) | Completed together with concentration immediately before awakening |
 
 The prose prevents the first line's `anantaram` from being read as
 “immediately after the Tiṣya praise.” It resolves the timing as immediately
-before awakening. The Fire Principle belongs to the description of Tiṣya's
+before awakening. The Fire Element belongs to the description of Tiṣya's
 attainment in the jewel cave, not to the later completion of the perfections.
 
 ## 5. Merit, Activity, and Basis
@@ -155,8 +157,8 @@ That last view does not erase the preceding factor-by-factor account.
 ## 6. Interpretation
 
 The Tiṣya episode and the later merit analysis belong to one source unit
-but have distinct arguments. Praise completes vigor; concentration and the
-Science of Principles are completed at a different threshold, immediately
+but have distinct arguments. Praise completes vigor; concentration and
+discriminative comprehension are completed at a different threshold, immediately
 before awakening. The word `anantaram` is therefore read through the
 Bhāṣya's explicit correction, not attached to the chronology of the praise.
 

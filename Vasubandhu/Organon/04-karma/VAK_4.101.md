@@ -71,8 +71,9 @@ the Bhāṣya does not derive that number as two groups of four.
 
 ### Bhāṣya-informed study translation
 
-> That is held to be wheel-division in Jambūdvīpa with nine or more [monks];
-> division of communal action occurs in the three continents with eight or more.
+> That Saṅgha division is held to be division of the Dharma Chakra in
+> Jambūdvīpa with nine or more monks; division of communal action occurs in
+> the three continents where the Teaching exists, with eight or more monks.
 
 ## 6. Philosophical Translation
 
@@ -144,6 +145,7 @@ Saṅgha-division.
 > performed in a divided manner within one shared boundary. The two forms
 > differ in what is divided, where they occur, and the stated minimum
 > number of monks.
+
 ## 10. OWL++ Seed
 
 ```text

@@ -92,7 +92,7 @@ the fruit or make it absent, but does not make the fruit undesirable.
 - **`Maitryādi`** — loving-kindness and related practices. The Bhāṣya
   invokes the immeasurables and cultivation of right view as practices
   that can yield merit without a recipient's acceptance.
-- **`Svacittaprabhava`** — arising from one's own mind; the Bhāṣya's
+- **`Svacittaprabhava`** — arising from one's own Consciousness; the Bhāṣya's
   explanation of merit in those practices.
 - **`Bhakti`** — devotion. When it gives rise to bodily and verbal
   offering or honor, it is more intense than devotion alone.
@@ -137,8 +137,14 @@ the field to condition whether, and to what degree, fruit occurs.
 
 ## 9. Interpretive Note
 
-**Translation note.** The two kinds of merit, the role of enacted devotion, and the limits of
-the seed-and-field comparison are explained by the Bhāṣya. The informed translation also included: The Bhāṣya distinguishes merit arising from relinquishment itself from merit arising through the recipient's use of what is given. A shrine offering has the former, not the latter. Merit can also arise from the giver's own mental cultivation, as in loving-kindness and cultivation of right view. Yet an offering or act of honor is not useless: devotion expressed through bodily and verbal action is more intense than devotion alone. A gift-seed moved by the resolve for another's welfare retains desirable fruit in a deficient field, although the field's defect can reduce the fruit or prevent it.
+**Translation note.** The Bhāṣya distinguishes merit from relinquishment
+itself and merit from the recipient's use of what is given. A shrine
+offering has the former. Loving-kindness and cultivation of right view
+show how merit may also arise from one's own Consciousness. Bodily and
+verbal acts of giving or honor express a more intense devotion than
+devotion alone. A giving-seed moved by resolve for another's welfare
+retains its desirable direction in a deficient field, although the
+field's defect can reduce or prevent its fruit.
 
 Read with 4.119–4.120, this passage does not make merit a matter of
 intention alone or of recipient-benefit alone. The Bhāṣya distinguishes
@@ -148,16 +154,17 @@ significant in both directions: an intention expressed through bodily or
 verbal action has more force than intention alone.
 
 The account of merit arising from `svacitta` is a claim about the causal
-role of mental cultivation, not an identification of the whole action with
-Mind. The passage distinguishes the gift, the giver's orientation, the
-recipient's use, and the field; Bases gather content and frames, not Mind
-itself.
+role of one's own Consciousness, not an identification of the whole action
+with Consciousness. The passage distinguishes the gift, the giver's
+orientation, the recipient's use, and the field; Bases gather content and
+frames, not Mind itself.
 
 The source span is `[272|04]–[273|01]`. The witness has `tyāgānvyaṃ`
-at `[272|07]`, normalized as `tyāgānvayaṃ`, and a compressed form near
-`dānakriyāvīja` at `[272|19–20]`. The interpretation of `agṛhṇati`
-follows the Bhāṣya's no-recipient explanation. The giving-based merit
-discussion closes at `[273|01]`.
+at `[272|08]`, normalized as `tyāgānvayaṃ`, and `caityai 'pi` at
+`[272|11]`, regularized as `caitye 'pi`. Its `dānakriyāvīja` at
+`[272|19–20]` is normalized as `dānakriyābījam`. The interpretation of
+`agṛhṇati` follows the Bhāṣya's no-recipient explanation. The giving-based
+merit discussion closes at `[273|01]`.
 
 **Former Philosophical Translation.**
 > Benefit to a recipient is not the only source of merit. Relinquishment

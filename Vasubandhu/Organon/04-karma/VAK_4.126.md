@@ -92,7 +92,7 @@ mental collecting or reckoning of Dharmas.
   to it.
 - **`Vākkarma`** — verbal action; the Bhāṣya assigns calculation and
   poetry to it.
-- **`Manaskarma`** — mental action; here it is the mind's collecting or
+- **`Manaskarma`** — mental action; here it is Mind's collecting or
   reckoning of Dharmas.
 - **`Gaṇanā` and `saṃkhyā`** — related to counting or number, but not
   interchangeable here: the Bhāṣya classifies `gaṇanā` as verbal action
@@ -126,9 +126,11 @@ calculation expressed through speech ≠ mental reckoning of Dharmas
 
 ## 9. Interpretive Note
 
-**Translation note.** The verse supplies the ordered examples; the body–speech–mind assignments,
-the definition of `saṃkhyā`, and the five-Base determination are supplied
-by the Bhāṣya. The informed translation also included: The Bhāṣya identifies the three modes as bodily, verbal, and mental action: writing and sealing are bodily; calculation and poetry are verbal; and `saṃkhyā` is mental action, the mind's collecting or reckoning of Dharmas. It says the first four activities are of the nature of the five Bases.
+**Translation note.** The verse supplies the ordered examples; the
+Bhāṣya assigns writing and sealing to bodily action, calculation and
+poetry to verbal action, and `saṃkhyā` to mental action, defined as Mind's
+collection of Dharmas. The statement that these first four activities
+have the nature of the five Bases follows their assignments in the prose.
 
 VAK 4.125 classifies wholesome activity by its developmental orientation:
 merit, nirvāṇa, or penetration. VAK 4.126 turns to a different question:

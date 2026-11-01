@@ -5,10 +5,10 @@
 > buddhe na tāḍanecchasya prahārān nordhvam arhati /
 > nānantaryaprayuktasya vairāgyaphalasaṃbhavaḥ // 4.104 //
 
-> In the Buddha case, one who intends only to strike [does not incur immediate
-> retribution]; nor does an earlier blow against a non-arhat become an
-> arhat-killing action if the target becomes an arhat only afterward. For one
-> engaged in immediate-retribution action, dispassion or its fruit cannot arise.
+> In the Buddha case, intending only to strike does not incur *ānantarya*;
+> nor does a blow against a non-arhat become arhat-killing if that person
+> becomes an arhat afterward. For one engaged in *ānantarya* preparation,
+> dispassion or Path fruit cannot arise.
 
 ## 2. Continuous Sanskrit
 
@@ -38,7 +38,9 @@ na punaḥ karmapathotpattir āśrayasyātyantaṃ tadviruddhatvāt.
 The opening question and its answer overlap the preceding 4.103
 discussion of the Buddha case. The new question about unreversed
 preparation begins at `[263|23–24]`; the verse is at `[263|25]`. The
-witness reads `anyakarmaphalapathaprayogaṃ` at `[264|01–02]`. A proposed
+witness reads `anyakarmaphalapathaprayogaṃ` at `[264|01–02]`. It has
+`kuṭuṣṭacitta` at `[263|18–19]` and `tāḍanābhitrāya` at `[263|21]`,
+normalized above as `duṣṭacitta` and `tāḍanābhiprāya`. A proposed
 reading `anyakarmapathaprayogaṃ` would make the compound a preparation
 for another action-course, but remains conjectural. The Sanskrit above
 retains the witness form.
@@ -53,8 +55,8 @@ In the Buddha case, not for one whose intention is only to strike. If
 someone intends only to strike, the immediate-result classification does
 not follow. If someone acts against a person who is not an arhat, and
 that person becomes an arhat afterward, the classification still does
-not follow. The verse says, “nor after the blow does [the person] become
-an arhat”; the point is that the action was not directed at an arhat.
+not follow. The verse's compressed “not after the blow an arhat” denies
+retroactive classification, since the action was not directed at an arhat.
 
 If someone has undertaken preparation for an immediate-result action and
 has not reversed that preparation, can dispassion or a Path fruit arise?
@@ -62,7 +64,7 @@ For one engaged in an immediate-result action, the possibility of
 dispassion or a Path fruit does not arise.
 
 The following prose contrasts another action-course: when the noble Path
-arises, that action-course does not arise again, because the support is
+arises, that action-course does not arise again, because the Basis is
 wholly opposed to it. The witness's compound in this last sentence is
 uncertain; this rendering preserves only the secure contrast stated by
 the remainder of the sentence.
@@ -88,8 +90,8 @@ Path fruit; it does not say that anyone who once began such a course can
 never abandon it.
 
 The final prose adds the converse practical direction: when the noble
-Path arises after an ordinary action-course has been prepared, that
-course does not arise again because the support has become wholly opposed
+Path arises after another action-course has been prepared, that
+course does not arise again because the Basis is wholly opposed
 to it. This explanation is attributed to the Bhāṣya; the witness's
 compound `anyakarmaphalapathaprayogaṃ` remains unresolved.
 

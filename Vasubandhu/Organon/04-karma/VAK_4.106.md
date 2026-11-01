@@ -14,10 +14,10 @@ dūṣaṇaṃ mātur arhantyā niyatisthasya māraṇam /
 bodhisattvasya śaikṣasya saṃghāyadvārahārikā // 4.106 //
 ```
 
-The verse lists four acts. Its final compound is compressed; the Bhāṣya
-paraphrases it as taking away something through which the Saṅgha obtains
-comfort. The commentary supplies the fifth member from the opening half of
-4.107.
+The verse lists four acts. Its final compound is compressed and points to
+depriving the Saṅgha of a means of subsistence, though the local Bhāṣya
+prose is irregular. The commentary supplies the fifth member from the
+opening half of 4.107.
 
 ## 3. Lexical Analysis
 
@@ -30,8 +30,7 @@ comfort. The commentary supplies the fifth member from the opening half of
 | `māraṇam` | nominative neuter singular action noun | killing |
 | `bodhisattvasya` | genitive masculine singular | of a bodhisattva |
 | `śaikṣasya` | genitive masculine singular | of a trainee |
-| `saṃghāya` | dative masculine singular | for or with respect to the Saṅgha |
-| `dvāra-hārikā` | nominative feminine singular compound | taking away an access or means; its precise force is clarified by the Bhāṣya's prose |
+| `saṃghāyadvārahārikā` | nominative feminine singular compound; internal division uncertain | taking away a source of livelihood from the Saṅgha, provisionally |
 
 The genitives specify the persons involved in the first three acts. The final
 expression is difficult to parse in isolation; the Bhāṣya's paraphrase guides
@@ -57,26 +56,25 @@ forward elliptically for the trainee:
 ```
 
 The final compound is not expanded into a confident word-for-word
-construction. Its sense is read with the prose `saṃghasya sukhāya dvārikaṃ
-harati`, which describes taking away an access or means associated with the
-Saṅgha's comfort.
+construction. Its *āya-dvāra* wording points to a source of livelihood;
+the prose witness has the difficult `saṃghasya sukhāyadvārikaṃ harati`.
 
 ## 5. Translation
 
 ### Literal Translation
 > Violation of one's mother when she is an arhat; killing a bodhisattva
-> established in certainty; killing a trainee; and taking away an access
-> or means associated with the Saṅgha's comfort.
+> established in certainty; killing a trainee; and taking away the Saṅgha's
+> source of livelihood.
 
 ### Bhāṣya-informed study translation
 
-> Violation of one's mother when she is an arhat; killing a bodhisattva established
-> in certainty; killing a trainee; and taking away an access or means associated
-> with the Saṅgha's comfort.
+> Sexually violating one's mother when she is an arhat; killing a bodhisattva
+> established in certainty; killing a trainee; and depriving the Saṅgha of a
+> means of subsistence.
 
 ## 6. Philosophical Translation
 
-> Violation of one's mother when she is an arhat; killing a bodhisattva established in certainty; killing a trainee; and taking away an access or means associated with the Saṅgha's comfort.
+> Violation of one's mother when she is an arhat; killing a bodhisattva established in certainty; killing a trainee; and taking away the Saṅgha's source of livelihood.
 
 ## 7. Technical Vocabulary
 
@@ -91,9 +89,9 @@ Saṅgha's comfort.
   The verse names this Path-related status but does not explain its stages.
 - **`Śaikṣa`** — one who is still in training. The passage locates the
   person within a Path-related category.
-- **`Saṃghāya dvāra-hārikā`** — a difficult expression concerning the
-  Saṅgha. The Bhāṣya's paraphrase refers to taking away an access or means
-  associated with communal comfort; the precise object remains uncertain.
+- **`Saṃghāyadvārahārikā`** — provisionally, depriving the Saṅgha of a
+  source of livelihood. The local prose's `sukhāyadvārikaṃ` is irregular,
+  so the precise object remains uncertain.
 - **`Stūpa-bhedana`** — destruction of a stūpa, the fifth analogue supplied
   in the next half-verse.
 
@@ -164,7 +162,7 @@ Class: ImmediateResultAnalogue
 Class: CertainHellRebirth
 Class: BodhisattvaEstablishedInCertainty
 Class: Trainee
-Class: SaṅghaComfortAccess
+Class: SaṅghaMeansOfSubsistence
 Class: StupaDestruction
 
 Rule: AnalogueCorrespondence

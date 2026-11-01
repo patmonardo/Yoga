@@ -5,9 +5,9 @@
 > dūṣaṇaṃ mātur arhantyā niyatisthasya māraṇam /
 > bodhisattvasya śaikṣasya saṃghāyadvārahārikā // 4.106 //
 
-> Violation of one's mother when she is an arhat; killing a bodhisattva established
-> in certainty; killing a trainee; and taking away an access or means associated
-> with the Saṅgha's comfort.
+> Sexually violating one's mother when she is an arhat; killing a bodhisattva
+> established in certainty; killing a trainee; and depriving the Saṅgha of a
+> means of subsistence.
 
 The kārikā gives four members. The Bhāṣya completes the set with the fifth
 member named in the opening half of 4.107.
@@ -27,13 +27,14 @@ bodhisattvasya śaikṣasya saṃghāyadvārahārikā // 4.106 //
 etāni pañca pañcānām ānantaryāṇāṃ yathākramaṃ sabhāgāni.
 yadi mātaram arhantīṃ dūṣayaty abrahmacaryakaraṇāt,
 niyatipatitaṃ bodhisattvaṃ mārayati, śaikṣaṃ mārayati,
-saṃghasya sukhāya dvārikaṃ harati, stūpabhedaṃ karoti.
+saṃghasya sukhāyadvārikaṃ harati, stūpabhedaṃ karoti.
 ```
 
 The unit is `[264|22]–[265|04]`. The witness has `ānatnaryāṇāṃ` at
 `[265|02]`; the reading is normalized here to `ānantaryāṇāṃ`. The compact
-compound `saṃghāyadvārahārikā` is difficult, so the translation follows
-the Bhāṣya's prose paraphrase while marking its uncertain referent.
+compound `saṃghāyadvārahārikā` points provisionally to a source of
+livelihood. The prose witness has the difficult `sukhāyadvārikaṃ`, left
+unsplit above; its precise referent remains uncertain.
 
 ## 3. Continuous Translation
 
@@ -42,14 +43,13 @@ Actions analogous to the immediate-result actions also necessarily do so.
 Other teachers say, however, that the rebirth does not necessarily follow
 immediately. Which actions are these?
 
-Violation of one's mother when she is an arhat; killing a bodhisattva
-established in certainty; killing a trainee; taking away an access or means
-associated with the Saṅgha's comfort; and, as the fifth, destruction of a
-stūpa. These five correspond in order to the five immediate-result actions.
+Sexually violating one's mother when she is an arhat; killing a bodhisattva
+established in certainty; killing a trainee; depriving the Saṅgha of a means
+of subsistence; and, as the fifth, destruction of a stūpa. These five
+correspond in order to the five immediate-result actions.
 The prose specifies sexual misconduct in the first case and restates the
 remaining acts. Its expression concerning the Saṅgha is difficult; the
-paraphrase describes taking away a `dvārika` associated with the Saṅgha's
-comfort.
+livelihood rendering is provisional.
 
 The main account asserts the certainty of Hell rebirth for these analogues.
 The reported alternative disputes whether that rebirth must immediately
@@ -62,7 +62,7 @@ follow; it does not deny the analogy or change the set's five members.
 | Membership | Five actions are `ānantarya-sabhāga` | The analogues are not thereby members of the strict immediate-result class |
 | Correspondence | They correspond in order to the five immediate-result actions | The rationale for each pairing is not explained here |
 | Consequence | The main account says Hell rebirth necessarily follows | A reported view denies that it must follow immediately |
-| Saṅgha case | A `dvārika` associated with the Saṅgha's comfort is taken away | The precise referent of the compressed kārikā compound remains difficult |
+| Saṅgha case | A means of the Saṅgha's subsistence is taken away | The local prose's `sukhāyadvārikaṃ` leaves the precise referent uncertain |
 
 The first analogue combines the relation of mother with the status of arhat;
 the Bhāṣya specifies the action as sexual misconduct. The next cases concern

@@ -59,8 +59,8 @@ The second half states:
 
 The genitive identifies the person engaged in the preparation; the
 Bhāṣya's preceding question specifies that this preparation remains
-unreversed. Its prose then contrasts this with an ordinary action-course
-that does not arise again after the noble Path arises, because the support
+unreversed. Its prose then contrasts this with another action-course
+that does not arise again after the noble Path arises, because the Basis
 has become wholly opposed to it.
 
 ## 5. Translation
@@ -73,10 +73,10 @@ has become wholly opposed to it.
 
 ### Bhāṣya-informed study translation
 
-> In the Buddha case, one who intends only to strike [does not incur immediate
-> retribution]; nor does an earlier blow against a non-arhat become an
-> arhat-killing action if the target becomes an arhat only afterward. For one
-> engaged in immediate-retribution action, dispassion or its fruit cannot arise.
+> In the Buddha case, intending only to strike does not incur *ānantarya*;
+> nor does a blow against a non-arhat become arhat-killing if that person
+> becomes an arhat afterward. For one engaged in *ānantarya* preparation,
+> dispassion or Path fruit cannot arise.
 
 ## 6. Philosophical Translation
 
@@ -94,8 +94,8 @@ has become wholly opposed to it.
 - **`Ānantarya`** — the immediate-result classification discussed here.
 - **`Vairāgya`** — dispassion; `phala` is the Path fruit at issue in the
   Bhāṣya's question.
-- **`Āśraya`** — support. The Bhāṣya says the arising of the noble Path
-  makes the support wholly opposed to the ordinary action-course.
+- **`Āśraya`** — Basis. The Bhāṣya says the Basis is wholly opposed to the
+  other action-course when the noble Path arises.
 - **`Abhiprāya` / `icchā`** — intention or desire in the stated cases.
   The passage does not name *cetanā*; these terms are not silently
   equated with the project's technical rendering **volition**.
@@ -117,10 +117,10 @@ Attainment:
     → no arising of dispassion or Path fruit
 
 Contrasting course:
-    ordinary action-course prepared
+    another action-course prepared
     + noble Path arises
     → no later arising of that action-course
-       because the support is opposed to it
+       because the Basis is opposed to it
 ```
 
 The last relation is the Bhāṣya's explanatory contrast. Its final
@@ -130,14 +130,14 @@ Sanskrit compound is uncertain in the witness.
 
 **Translation note.** The final contrast is Bhāṣya prose, not an additional clause of the
 kārikā. The witness's `anyakarmaphalapathaprayogaṃ` in that prose is
-uncertain; the precise compound is not silently normalized here. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Intention merely to strike in the Buddha case does not produce the immediate-result classification; nor does an earlier action against a non-arhat become an arhat-killing action if the person becomes an arhat only afterward. For one engaged in an immediate-result action, the possibility of dispassion or a Path fruit does not arise. The Bhāṣya's question specifies that the preparation remains unreversed. It then contrasts this with another action-course: when the noble Path arises, that course does not arise again because its support is wholly opposed to it.
+uncertain; the precise compound is not silently normalized here. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Intention merely to strike in the Buddha case does not produce the immediate-result classification; nor does an earlier action against a non-arhat become an arhat-killing action if the person becomes an arhat only afterward. For one engaged in an immediate-result action, the possibility of dispassion or a Path fruit does not arise. The Bhāṣya's question specifies that the preparation remains unreversed. It then contrasts this with another action-course: when the noble Path arises, that course does not arise again because its Basis is wholly opposed to it.
 
 The passage separates intention, preparation, field-status, completion,
 and later attainment rather than treating the physical result as a
 self-sufficient classification. It also distinguishes two process
 directions: an unreversed immediate-result preparation excludes
 dispassion or Path fruit, while the arising of the noble Path excludes
-the later arising of an incompatible ordinary action-course.
+the later arising of another incompatible action-course.
 
 The intention terms here are *icchā* and *abhiprāya*, not *cetanā*. The
 passage therefore informs the study of agency without supplying a new
@@ -154,8 +154,9 @@ before the next question at `[264|03]`.
 > change in the victim's status does not retroactively alter the earlier
 > undertaking. The verse's final claim concerns an immediate-result
 > preparation; the Bhāṣya qualifies it as unreversed. In the contrasting
-> case, the arising of the noble Path changes the support so that an
-> incompatible ordinary action-course does not arise again.
+> case, the arising of the noble Path leaves the Basis opposed to that
+> incompatible action-course, which does not arise again.
+
 ## 10. OWL++ Seed
 
 ```text
@@ -163,11 +164,11 @@ Class: ImmediateResultAction
 Class: Buddha
 Class: Arhat
 Class: Preparation
-Class: OrdinaryActionCourse
+Class: OtherActionCourse
 Class: NoblePath
 Class: Dispassion
 Class: PathFruit
-Class: Support
+Class: Basis
 
 ObjectProperty: directedToward
   Domain: Preparation
@@ -177,7 +178,7 @@ ObjectProperty: remainsUnreversed
   Domain: Preparation
 ObjectProperty: transforms
   Domain: NoblePath
-  Range: Support
+  Range: Basis
 
 Rule: BuddhaCase
   field = Buddha
@@ -194,8 +195,8 @@ Rule: UnreversedImmediateResultPreparation
   remainsUnreversed = true
   excludes = {Dispassion, PathFruit}
 
-Rule: NoblePathAndOrdinaryActionCourse
+Rule: NoblePathAndOtherActionCourse
   noblePathArises = true
-  support = WhollyOpposedToOrdinaryActionCourse
+  basis = WhollyOpposedToOtherActionCourse
   result = NoFurtherArisingOfThatCourse
 ```

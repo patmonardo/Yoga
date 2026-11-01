@@ -123,8 +123,15 @@ fixed numerical rule for all actions.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya's completion examples and its application to wholesome action
-are preserved in the paired study. The informed translation also included: The Bhāṣya says deliberate action is done after consideration, not without prior awareness or suddenly. Completion is relative to the number of misconducts or action-courses required in a particular case: until that course is complete, action has been done but is not accumulated; when complete, it is accumulated. The other conditions are that the action is without remorse and without an opposing factor, that unwholesome action has unwholesome accompaniment (and wholesome action is to be analyzed correspondingly), and that its giving of maturation is determinate.
+**Translation note.** The Bhāṣya gives five causes for calling an action
+accumulated. It explains deliberate action as action done after
+consideration, rather than without prior awareness or suddenly. Its
+completion examples concern the number of misconducts or action-courses
+through which someone reaches a lower destination: before that course is
+complete, the action is done but not accumulated. The action must also be
+without remorse and an opposing factor, have accompaniment of its own
+ethical kind, and be determinate in giving maturation. The Bhāṣya extends
+the analysis to wholesome action.
 
 VAK 4.119 asks how the mildness or intensity of six factors determines
 action-weight. VAK 4.120 asks when an action that has occurred is also
@@ -139,9 +146,10 @@ action as one condition among five, with completion, opposition,
 accompaniment, and maturation separately articulated.
 
 The source span is `[271|19]–[272|03]`. The witness reads `saṃcenataḥ`
-in the first explanatory question, normalized as `saṃcetanataḥ`, and has
-the compressed `vipākadāna niyataṃ`, parsed here as `vipākadāne niyatam`.
-The next topic opens at `[272|04]`.
+in the first explanatory question, normalized as `saṃcetanataḥ`; its
+`samāpattitaḥ` is regularized as `samāptitaḥ` in light of the verse and
+explanation; and its compressed `vipākadāna niyataṃ` is parsed here as
+`vipākadāne niyatam`. The next topic opens at `[272|04]`.
 
 **Former Philosophical Translation.**
 > A performed action and an accumulated action are not identical

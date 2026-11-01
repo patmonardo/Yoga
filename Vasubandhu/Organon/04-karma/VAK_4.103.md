@@ -68,10 +68,10 @@ technical maternity and practical caregiving to the Bhāṣya.
 
 ### Bhāṣya-informed study translation
 
-> Because of abandoning a benefactor and destroying a field of qualities, an
-> immediate-retribution action is incurred. Even if sexual characteristics have
-> changed, parentage may remain: the mother is she from whose blood the living
-> being arose.
+> These are *ānantarya* actions because they repudiate benefactors or destroy
+> a field of qualities. Even when a parent's sexual characteristic has changed,
+> the parental relation can remain: the mother is the one from whose blood the
+> living being arose.
 
 ## 6. Philosophical Translation
 
@@ -92,6 +92,8 @@ technical maternity and practical caregiving to the Bhāṣya.
 - **`Ānantarya`** — the immediate-result classification discussed in this
   passage; render the associated *karman* as action, not as an automatic
   moral reward or result.
+- **`Āśraya`** — Basis: the particular person fixed as the intended victim,
+  and the one Basis when a father is also an arhat.
 - **`Vijñapti / avijñapti`** — disclosure / non-disclosing continuity.
   The Bhāṣya records differing counts of these factors in one case.
 - **`Abhiprāya`** — intention in the distinctions between intending to
@@ -128,7 +130,7 @@ bearing + nourishing + rearing
 
 Where one action affects two victims, the Bhāṣya counts two
 non-disclosing continuities; its account of disclosure is disputed by
-Bhadanta Ghoṣaka. A father who is also an arhat is one support and receives
+Bhadanta Ghoṣaka. A father who is also an arhat is one Basis and receives
 one immediate-result classification in the Bhāṣya's analysis, though a
 cited account speaks of two grounds.
 
@@ -138,7 +140,8 @@ cited account speaks of two grounds.
 modern biological definition. The caregiving relation remains explicit
 in the same passage. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: The immediate-result classification arises from repudiating a benefactor and destroying a field of qualities. A change in sexual characteristic does not erase parentage; for the technical maternity criterion, the mother is the woman from whose maternal blood the living being arose. The Bhāṣya explains parental killing through the agent's relation to parents from whom embodied existence arose, and arhat-killing through the arhat's status as a field of qualities. In its exceptional case of two maternal relations, the source assigns technical maternity by maternal origin while preserving the other woman's roles of bearing, nourishing, and rearing. The further cases distinguish intended target, actual victim, status at the time of action, and the number of disclosure and non-disclosing-continuity factors.
 
-This unit continues the action analysis from 4.102 by examining how
+This unit returns to the *ānantarya* analysis after 4.102's account of
+Saṅgha division, examining how
 exceptional status depends on relations, not merely on a bodily event.
 Parents, an arhat, a technical maternal relation, and a caregiving relation
 occupy distinct positions in the Bhāṣya's reasoning. The later questions
@@ -162,6 +165,7 @@ The source unit runs from the question at `[262|20]` through the answer at
 > and care, selecting one relation for the technical rule without denying
 > the others. The remaining cases show that intended target, actual victim,
 > and the target's status at the time of action are not interchangeable.
+
 ## 10. OWL++ Seed
 
 ```text

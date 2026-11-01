@@ -86,7 +86,7 @@ sequence beginning with `uṣman`.
 - **`Yathābhūta`** — as things are; the exposition must not invert the
   teaching's determination.
 - **`Akliṣṭa`** — unafflicted. The Bhāṣya contrasts this with an afflicted
-  mind seeking gain, honor, or fame.
+  Consciousness seeking gain, honor, or fame.
 - **`Puṇyabhāgīya`** — merit-oriented wholesomeness, characterized here by
   desirable maturation.
 - **`Nirvāṇabhāgīya`** — the verse's term for the second orientation. The
@@ -111,7 +111,7 @@ exposition as things are
     → Dharma-giving
 
 inverted Dharma
-    or exposition with an afflicted, reward-seeking mind
+    or exposition with afflicted, reward-seeking Consciousness
     → great loss of merit
 ```
 
@@ -137,9 +137,16 @@ penetration → fourfold sequence beginning with uṣman
 
 ## 9. Interpretive Note
 
-**Translation note.** The verse states the three orientations; the explanation of their
-respective characteristics, the teaching-response sign, and the warning
-about afflicted exposition come from the Bhāṣya. The informed translation also included: The Bhāṣya says that exposition of an inverted Dharma, or exposition with an afflicted mind seeking gain, honor, or fame, causes a great loss of merit. It explains merit-oriented wholesomeness as having desirable maturation; liberation-oriented wholesomeness, when it arises, makes one certain to be destined for final nirvāṇa; and penetration-oriented wholesomeness as the fourfold sequence beginning with `uṣman`, which it will explain later. The Bhāṣya also treats horripilation and tears on hearing a teaching about saṃsāra's drawbacks, non-self, and nirvāṇa's qualities as a sign of an existing liberation-oriented wholesome root, like a sprout indicating a seed.
+**Translation note.** The Bhāṣya explains the three orientations beyond
+the verse's list. Merit-oriented wholesomeness has desirable maturation.
+When liberation-oriented wholesomeness arises, one is certain to be
+destined for final nirvāṇa. Penetration-oriented wholesomeness comprises
+four stages beginning with `uṣman`, deferred for later explanation.
+The Bhāṣya also warns that expounding inverted Dharma or teaching with
+afflicted Consciousness seeking gain, honor, or fame causes great loss of
+merit. It compares horripilation and tears on hearing about saṃsāra's
+drawbacks, non-self, and nirvāṇa's qualities to a sprout indicating a
+seed: a sign of an existing liberation-oriented wholesome root.
 
 VAK 4.125 turns from material giving to Dharma-giving, then distinguishes
 three orientations of wholesome activity. The first definition makes
@@ -157,11 +164,9 @@ of a liberation-oriented root, compared to a sprout revealing a seed.
 It is not presented as the definition of that root or as a criterion that
 every hearer must display.
 
-In the Interpretation, the passage makes the speaker's volitional
-orientation relevant to Dharma-giving without naming `cetanā` or
-redefining the verse through that term. This preserves the user's
-emphasis on volition while keeping the technical claim at the level the
-Bhāṣya supplies.
+The speaker's purpose is relevant to Dharma-giving here, though neither
+the verse nor this explanation names `cetanā`. The source's terms remain
+the accurate exposition and the presence or absence of affliction.
 
 The Bhāṣya unit covers `[274|14]–[274|23–24]`. It begins by closing the
 discussion of material giving and ends by deferring the four stages of

@@ -6,8 +6,8 @@
 > vipaśyī dīpakṛd ratnaśikhī śākyamuniḥ purā // 4.110 //
 
 > Each individual mark is born from a hundred merits. Vipaśyin, Dīpaṃkara, and
-> Ratnaśikhin occur at the ends of the three incalculable periods; earlier was
-> Śākyamuni.
+> Ratnaśikhin occur at the ends of the three incalculable periods; before
+> all three was an earlier Buddha named Śākyamuni.
 
 The Bhāṣya asks how much one merit measures, supplies the period-by-period
 chronology, and identifies an earlier Buddha Śākyamuni as the setting of
@@ -56,8 +56,9 @@ The source span is `[266|11]–[267|02]`. At `[266|24]` the witness reads
 `śāsyamuniḥ`; the prose immediately after has `śākyamunir nāma`, so the
 verse is normalized here to `śākyamuniḥ`. The witness also has `pratheme`
 for `prathame` and `vabhūva` for `babhūva`. The closing line about the
-earlier Buddha's era and teaching is too rough here for a reliable
-reconstruction; it is retained as a crux rather than silently repaired.
+earlier Buddha's era and teaching has recognizable references to an age of
+decline and a thousand-year teaching, but its syntax remains uncertain;
+the difficult reading is retained as a crux.
 
 ## 3. Continuous Translation
 
@@ -79,10 +80,12 @@ At the end of which incalculable period was each Buddha? In reverse order:
 Ratnaśikhin brought the first incalculable period to its end; Dīpaṃkara,
 the second; Vipaśyin, the third. Before all of them was Śākyamuni.
 
-There was formerly a fully awakened Buddha named Śākyamuni. Before him,
+There was formerly a fully awakened Buddha named Śākyamuni. In his presence,
 the Blessed One, while a bodhisattva, first made the vow: “May I become
-a Buddha of just this kind.” The witness's following statement about that
-earlier Buddha's era and teaching remains uncertain.
+a Buddha of just this kind.” The damaged closing sentence appears to say
+that this earlier Buddha too arose in an age of decline and that his teaching
+lasted a thousand years; the intervening comparison and exact syntax remain
+uncertain in this witness.
 
 ## 4. Merit Measures and Period Chronology
 
@@ -117,8 +120,8 @@ The chronology likewise distinguishes the three period-ending Buddhas
 from the earlier Śākyamuni before whom the first vow is made. That vow
 gives the long career an explicit direction, but the source does not call
 it *cetanā* or equate it with every subsequent volition. The closing
-statement about the earlier Buddha's era and teaching is not secure enough
-to extend the interpretation.
+statement about the earlier Buddha's era and teaching is only partly secure
+and does not support a further interpretation here.
 
 ## 6. Review Status
 
@@ -126,4 +129,5 @@ This study covers `[266|11]–[267|02]`, including the three reported
 measures of merit, the Buddha counts and chronology, and the first-vow
 account. It stops before `[267|03]`, where the Bhāṣya asks about the
 perfections. The verse reading `śākyamuniḥ` follows the adjacent prose;
-the rough closing statement remains marked as a textual crux.
+the rough closing statement is rendered only in its recoverable parts and
+remains marked as a textual crux.

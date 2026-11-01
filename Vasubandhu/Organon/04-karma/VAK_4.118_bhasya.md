@@ -6,8 +6,8 @@
 > bodhisattvāya cāmeyā anāryebhyo 'pi dakṣiṇā // 4.118 //
 
 > An offering to one's mother, father, a sick person, a Dharma speaker, or a
-> Bodhisattva in the final birth is immeasurable, even when these recipients are not
-> noble persons.
+> Bodhisattva in the final birth is immeasurable in result, even when these
+> recipients are not noble persons.
 
 `Antyajanmane bodhisattvāya` names one recipient: a Bodhisattva in the
 final birth. The Bhāṣya confirms five fields in the verse.
@@ -48,7 +48,7 @@ still greater [maturation] for one who has attained stream-entry.” This
 is stated at length in the sūtra. However:
 
 “An offering to one's mother, father, a sick person, a Dharma speaker, or
-a Bodhisattva in the final birth is immeasurable, even when these
+a Bodhisattva in the final birth is immeasurable in result, even when these
 recipients are not noble persons.”
 
 An offering to these five, even when they are ordinary persons, is
@@ -58,7 +58,7 @@ final birth is one whose present existence is the final one.
 Among the four kinds of distinction of the recipient field, under which
 category should a Dharma speaker be placed? Under the category of
 benefactors. For the Dharma speaker is a great beneficial friend, gives
-the eye of the Science of Principles to people blinded by ignorance,
+the eye of discriminative comprehension to people blinded by ignorance,
 makes clear what is even and uneven, and [according to a conjectural
 reading] brings about the Dharma-body without influx. In brief, the
 Dharma speaker performs Buddha-work.
@@ -71,7 +71,7 @@ Dharma speaker performs Buddha-work.
 | `aprameyā phalato dakṣiṇā` | Immeasurable offering with respect to result for the five fields |
 | `pṛthagjanabhūta` | The five recipients may be ordinary persons |
 | `upakāripakṣa` | The Dharma speaker belongs among benefactors |
-| `prajñācakṣus` | The Science-of-Principles eye given to those blinded by ignorance |
+| `prajñācakṣus` | The eye of discriminative comprehension given to those blinded by ignorance |
 | `ātinivartayitā` | Witness reading in the Dharma-body phrase; exact force uncertain |
 | `abhinirvartayitā` | Conjectural reading that would mean “bringing about” the Dharma-body without influx |
 
@@ -82,8 +82,8 @@ translation.
 ## 5. Interpretation
 
 The Dharma speaker is assigned to the benefactor field because the
-speaker's instruction enables others: it gives the eye of the Science of
-Principles, clarifies what is even and uneven, and performs Buddha-work.
+speaker's instruction enables others: it gives the eye of discriminative
+comprehension, clarifies what is even and uneven, and performs Buddha-work.
 This is the Bhāṣya's reason for recognizing the speaker as a field of
 immeasurable result, not a general claim about every person who speaks
 about Dharma.

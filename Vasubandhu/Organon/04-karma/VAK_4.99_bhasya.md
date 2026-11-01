@@ -7,7 +7,7 @@
 
 > The culpable action in Saṅgha division is false speech, and the divider is
 > endowed with it. He undergoes maturation in Avīci for a kalpa; with additional
-> actions of immediate retribution, the pains are greater.
+> actions of *ānantarya*, the pains are greater.
 
 ## 2. Continuous Sanskrit
 
@@ -64,7 +64,7 @@ great Avīci hell for an intermediate kalpa; the other actions of
 If someone has performed many actions of *ānantarya*, do they all mature
 immediately in succession? What then occurs through them? The greater the
 number, the greater the pains. Through many such actions, that person
-obtains a denser and more sensitive support in that same Avīci, and the
+obtains a denser and more sensitive Basis in that same Avīci, and the
 causes are more numerous and more intense, so that the person experiences
 feeling twofold, threefold, fourfold, or fivefold.
 
@@ -101,7 +101,7 @@ greater pains. The explanation is increased painfulness in the same Avīci
 field, described through:
 
 ```text
-denser and more sensitive support
+denser and more sensitive Basis
 more numerous and more intense causes
 twofold, threefold, fourfold, or fivefold feeling
 ```

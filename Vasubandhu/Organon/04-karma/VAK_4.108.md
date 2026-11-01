@@ -68,9 +68,9 @@ sugatiḥ | kulajaḥ | avyakṣaḥ | pumān | jātismaraḥ | anivṛt
 ### Bhāṣya-informed study translation
 
 > From what point onward is one called a bodhisattva? From the time one undertakes
-> action whose maturation produces the marks. Thereafter: a favorable rebirth
-> destination, birth in an eminent family, unimpaired Faculties, male embodiment,
-> memory of former births, and non-retrogression.
+> action whose maturation produces the marks. Thereafter one has a favorable
+> rebirth destination, is born in an eminent family, has unimpaired Faculties,
+> is male, remembers former births, and does not turn back.
 
 ## 6. Philosophical Translation
 
@@ -118,9 +118,9 @@ they are not generalized into universal Organon axioms.
 ## 9. Interpretive Note
 
 **Translation note.** The family and bodily qualifications are reported as the Bhāṣya's own
-historical claims, not as a general norm. Its servant image and social
-language are likewise attributed to the source. The informed translation also included: The Bhāṣya says that from this point onward these conditions apply
-continually and that the person has entered certainty. It explains favorable
+historical claims. Its servant image and social language are likewise
+attributed to the source. The Bhāṣya says that from this point onward these
+conditions apply continually and that the person has entered certainty. It explains favorable
 destination as birth among gods or humans; specifies kṣatriya, brahmin, and
 wealthy householder families; and glosses `avyakṣa` as having unimpaired
 Faculties. It defines non-retrogression practically: suffering and the

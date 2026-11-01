@@ -72,9 +72,9 @@ three bad destinies + Uttarakuru + non-percipient existence
 
 ### Bhāṣya-informed study translation
 
-> The actions of immediate retribution, persistent affliction, and then bad
-> destinies, inhabitants of Uttarakuru, and non-percipient beings are held to be
-> the three obstructions.
+> The *ānantarya* actions form one obstruction, recurrent affliction another,
+> and the three bad destinies together with the people of Uttarakuru and
+> non-percipient beings the third.
 
 ## 6. Philosophical Translation
 
@@ -95,7 +95,8 @@ three bad destinies + Uttarakuru + non-percipient existence
 - **Intense** (*tīkṣṇa*, explained as *adhimātra*) — very strong in degree;
   occasional intensity alone does not constitute the obstruction described.
 - **Action of *ānantarya*** — one of the five specified actions; the Bhāṣya
-  explains the designation through two accounts of non-interruption.
+  explains the designation through two accounts of non-interruption. It is
+  left in Sanskrit here because the accounts differ on what has no interval.
 - **Preparatory wholesome roots** (*āryamārga-prāyogika kuśalamūla*) — the
   wholesome roots preparatory to the noble Path, also named as obstructed.
 
@@ -152,6 +153,7 @@ recurrence and opportunity for counter-effort, not simply peak force.
 > resultant mode of existence incompatible with Path-preparation. The
 > criterion is not simply painfulness or intensity; each obstruction names
 > a different way the practical conditions for the Path are unavailable.
+
 ## 10. OWL++ Seed
 
 ```text

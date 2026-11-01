@@ -98,6 +98,8 @@ the Bodhisattva as “the eighth.”
   of all living beings, the Bhāṣya's stated rationale for its rank.
 - **`Yogasaṃbhāra`** — equipment for yoga, among the purposes in the
   separate eightfold gift-list.
+- **`Cittālaṅkāra` / `cittapariṣkāra`** — adornment and refinement of
+  Consciousness, named in the final purpose-cluster of that list.
 - **`Vipāka`** — maturation; the Bhāṣya's cited comparisons state
   hundredfold, thousandfold, and hundred-thousandfold measures.
 
@@ -129,8 +131,9 @@ eighth gift in a separate eightfold classification
     = foremost in that classification
 ```
 
-The witness's list is compressed and damaged in places; the sequence is
-preserved in the Bhāṣya study without an invented numbered reconstruction.
+The witness's list is compressed and damaged in places; its readable
+sequence is translated in the Bhāṣya study without a conjectural numbered
+reconstruction.
 
 ## 9. Interpretive Note
 
@@ -139,7 +142,7 @@ material things and concerns those free from passion. The Bodhisattva gift
 is foremost because the Bodhisattva is a cause of benefit to all living
 beings, even when both giver and recipient are not yet free. In the
 separate eightfold classification, the eighth gift is for the adornment
-and purification of Mind, as equipment for yoga and for attaining the
+and refinement of Consciousness, as equipment for yoga and for attaining the
 highest goal.
 
 The examples grounding the four field-distinctions and the separate

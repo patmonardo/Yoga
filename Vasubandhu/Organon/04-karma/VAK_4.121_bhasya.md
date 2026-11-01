@@ -57,10 +57,12 @@ bhavaty aphalaṃ vā. gataṃ dānamayapuṇyakriyāvastu saprasaṅgam.
 ```
 
 The source span is `[272|04]–[273|01]`. The witness has `tyāgānvyaṃ`
-at `[272|07]`, normalized here as `tyāgānvayaṃ`, and a compressed
-reading near `dānakriyāvīja` at `[272|19–20]`, normalized as
-`dānakriyābījam`. The transmitted verse form `agṛhṇati` is difficult;
-the explanation follows the Bhāṣya's explicit no-recipient reading.
+at `[272|08]`, normalized here as `tyāgānvayaṃ`, and `caityai 'pi` at
+`[272|11]`, regularized as `caitye 'pi`. Its `dānakriyāvīja` at
+`[272|19–20]` is normalized as `dānakriyābījam`. The transmitted verse
+form `agṛhṇati` is difficult; the explanation follows the Bhāṣya's
+explicit no-recipient reading. In the translation, “proper field” renders
+`svakṣetre` in contrast with the deficient field of the reply.
 
 ## 3. Continuous Translation
 
@@ -81,9 +83,9 @@ acknowledged at a shrine as well:
 “As with loving-kindness, even without a recipient.”
 
 Just as in loving-kindness and related practices merit arises from one's
-own mind, even without a recipient or benefit to another, so merit arises
-from one's own mind when one acts from devotion to a virtuous Teacher of
-the past.
+own Consciousness, even without a recipient or benefit to another, so
+merit arises from one's own Consciousness when one acts from devotion to
+a virtuous Teacher of the past.
 
 “Then acts of giving and honoring would be useless.” No: devotion that
 gives rise to those actions is more intense. Just as bodily and verbal
@@ -93,8 +95,8 @@ even if that person is already dead—not through intention alone—so one
 who performs acts of giving and honoring arising from devotion to a
 Teacher of the past produces greater merit, not through devotion alone.
 
-“If a seed of giving-action yields desirable fruit in a good field, then
-in that field [a deficient field] it will yield undesirable fruit.”
+“If a seed of giving-action yields desirable fruit in its proper field,
+then in a deficient field it will yield undesirable fruit.”
 
 “Even in a deficient field, there is desirable fruit because fruit does
 not invert the seed.”
@@ -105,7 +107,8 @@ arises, bitter. Likewise, even in a deficient field, the seed of giving
 that proceeds from a resolve for another's welfare produces desirable
 fruit, not undesirable fruit. Because of the field's defect, however,
 that seed may produce little fruit or no fruit. Thus the discussion of
-the giving-based basis of meritorious action is concluded.
+the giving-based basis of meritorious action, together with its attendant
+questions, is concluded.
 
 ## 4. The Bhāṣya's Causal Distinctions
 
@@ -138,15 +141,15 @@ amount or prevent fruit from occurring, but cannot turn it into
 undesirable fruit. This is a claim about the Bhāṣya's ethical causality,
 not a universal empirical law about every gift or recipient.
 
-The source's `svacitta` names the giver's own mental contribution; it
-does not make the whole action identical with Mind. The passage keeps
-relinquishment, devotion, bodily and verbal enactment, recipient-use,
-and field-condition distinct.
+The source's `svacitta` names the giver's own Consciousness; it does not
+make the whole action identical with Consciousness. The passage keeps
+relinquishment, devotion, bodily and verbal enactment, recipient-use, and
+field-condition distinct.
 
 ## 6. Review Status
 
 This study covers `[272|04]–[273|01]`, preserving the opponent's
 objections and the Bhāṣya's replies. It records the normalized readings
-`tyāgānvyaṃ` → `tyāgānvayaṃ` and `dānakriyāvīja` →
-`dānakriyābījam`, and treats `agṛhṇati` through the commentary's
-no-recipient explanation. The next topic begins at `[273|02]`.
+`tyāgānvyaṃ` → `tyāgānvayaṃ`, `caityai 'pi` → `caitye 'pi`, and
+`dānakriyāvīja` → `dānakriyābījam`, and treats `agṛhṇati` through the
+commentary's no-recipient explanation. The next topic begins at `[273|02]`.

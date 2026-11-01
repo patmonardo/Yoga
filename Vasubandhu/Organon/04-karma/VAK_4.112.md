@@ -35,8 +35,9 @@ puṇyaṃ kriyātha tadvastu trayaṃ karmapathā yathā // 4.112 //
 | `karma-pathāḥ` | nominative masculine plural compound | paths of karma; the Bhāṣya treats the relation as an analogy |
 | `yathā` | comparative adverb | as, just as |
 
-The Bhāṣya glosses `dhī` as `prajñā` and pairs it with `dhyāna`;
-in the project's terminology, `prajñā` is the **discriminative comprehension**.
+The Bhāṣya glosses `dhī` as `prajñā` and pairs it with `dhyāna`.
+The study translation renders `prajñā` as **discriminative comprehension**;
+the Organon's **Science of Principles** is a further project determination.
 
 ## 4. Grammar
 
@@ -98,6 +99,8 @@ to their function.
 - **`Samādhi` / `dhyāna`** — concentration; the Bhāṣya places its
   completion together with the discriminative comprehension in diamond-like
   concentration immediately before awakening.
+- **`Tejodhātu`** — Fire Element, named in the Bhāṣya's description of
+  Tiṣya's attainment.
 - **`Pāramitā`** — perfection. The Bhāṣya explains the designation through
   reaching the far shore of the capacity's own excellence.
 - **`Puṇyakriyāvastu`** — basis of meritorious activity. The cited triad

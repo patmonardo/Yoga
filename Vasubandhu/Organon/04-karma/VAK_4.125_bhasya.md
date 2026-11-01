@@ -44,22 +44,22 @@ presented joined in the kārikā block. The compact phrase
 
 ## 3. Continuous Translation
 
-“Material giving has been discussed; Dharma-giving must now be stated.
+Material giving has been discussed; Dharma-giving must now be stated.
 This is what is said:
 
-‘Dharma-giving is the unafflicted exposition of sūtra and related
-teachings as they are.’
+“Dharma-giving is the unafflicted exposition of sūtra and related
+teachings as they are.”
 
 Unafflicted exposition of sūtra and related teachings as they are is
 Dharma-giving. Therefore those who expound an inverted Dharma, or who,
-with an afflicted mind, desire gain, honor, or fame, cause a great loss
+with afflicted Consciousness, desire gain, honor, or fame, cause a great loss
 of merit for themselves.
 
 Wholesome activity has been stated to be threefold according to the
 bases of meritorious activity; again:
 
-‘Wholesome activity is threefold: merit-oriented, nirvāṇa-oriented, and
-penetration-oriented.’
+“Wholesome activity is threefold: merit-oriented, nirvāṇa-oriented, and
+penetration-oriented.”
 
 Merit-oriented [wholesomeness] is that which has desirable maturation.
 Liberation-oriented [wholesomeness] is that upon whose arising one
@@ -72,13 +72,13 @@ root exists. This is like the presence of a seed being shown by the
 emergence of a sprout in the furrows during the rainy season.
 
 Penetration-oriented [wholesomeness] is fourfold, beginning with
-`uṣman`; we shall explain it later.”
+`uṣman`; we shall explain it later.
 
 ## 4. Interpretation
 
 The Bhāṣya gives Dharma-giving two requirements: the teaching is expounded
 as it is, and the exposition is unafflicted. Its warning specifies two
-failures: inverting Dharma, or teaching with an afflicted mind that seeks
+failures: inverting Dharma, or teaching with afflicted Consciousness that seeks
 gain, honor, or fame. Its object is the speaker's own great loss of merit.
 
 The commentary then signals a second, additional threefold division.

@@ -31,6 +31,7 @@ pratikṣiptāc ca buddhena
 yad api na prakṛtyā dauḥśīlyaṃ bhagavatā ca buddhena
 pratikṣiptam, akālabhojanādikaṃ, tasmād api dvidhā viratiḥ śīlam.
 samāttaśikṣasya tu tadadhyācārād dauḥśīlyaṃ jāyate.
+uktaṃ samāsena śīlam.
 
 viśuddhaṃ tu caturguṇam // 4.122 //
 
@@ -58,7 +59,8 @@ gataṃ śīlam.
 
 The source span is `[273|02]–[273|22]`. The quoted line from 4.123a
 is included because it supplies the four qualities promised in 4.122.
-The witness has `dauḥśītlama` at `[273|03]`, `dauḥśītyena` at
+The witness has `dauḥśītlama` at `[273|03]`, `dauḥśīlayaṃ` at
+`[273|09–10]`, `tamāsena` at `[273|10–11]`, `dauḥśītyena` at
 `[273|15]`, and `nirvāṇapariṇāmitavāt` at `[273|17]`; the forms above
 are local normalizations. The alternative accounts are explicitly
 attributed to `apare`, “other teachers.”
@@ -73,7 +75,7 @@ modes.”
 
 For unwholesome Form is called misconduct; therefore abstention is
 discipline. This abstention is twofold: that by which one refrains,
-through manifestation, and that abstention itself, which is
+through disclosure, and that abstention itself, which is
 non-disclosing continuity.
 
 Discipline is not abstention only from misconduct. What else?
@@ -84,6 +86,8 @@ Even what is not misconduct by nature but has been prohibited by the
 Blessed Buddha—such as eating at an improper time—is also a basis for
 twofold abstention as discipline. For one who has undertaken the
 training, misconduct arises from acting contrary to it.
+
+Discipline has been stated briefly.
 
 “Purified, however, is fourfold.”
 
@@ -115,7 +119,7 @@ is concluded.
 
 | Classification | Members or force |
 |---|---|
-| Modes of abstention | Manifestation (`vijñapti`) and non-disclosing continuity (`avijñapti`) |
+| Modes of abstention | Disclosure (`vijñapti`) and non-disclosing continuity (`avijñapti`) |
 | Objects of abstention | Misconduct by nature; conduct prohibited within an undertaken training |
 | Four qualities of purified discipline | Not harmed by misconduct; not harmed by its causes; grounded in its counteragent; resting on peace and directed toward nirvāṇa |
 | Alternative fivefold account | Root and adjacent action-courses; not harmed by thoughts; protected by mindfulness; directed toward nirvāṇa |
@@ -128,7 +132,7 @@ other teachers' four types are distinct classifications.
 
 The Bhāṣya defines discipline as abstention, not simply as the absence
 of an action. Its two modes preserve the distinction between
-manifestation and non-disclosing continuity. It also distinguishes
+disclosure and non-disclosing continuity. It also distinguishes
 misconduct by nature from an act that becomes misconduct for someone
 who has undertaken a training and violates its prohibition.
 

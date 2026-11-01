@@ -40,13 +40,15 @@ nopacitam.
 
 The source span is `[271|19]–[272|03]`. The witness reads `saṃcenataḥ`
 in the first explanatory question, normalized here as `saṃcetanataḥ`.
-At `[272|02]` it has the compressed `vipākadāna niyataṃ`, parsed here
-as `vipākadāne niyatam`.
+At `[271|22–23]`, `samāpattitaḥ` is regularized as `samāptitaḥ` in light
+of the verse's `samāpti` and the explanation that follows. At `[272|02]`
+the compressed `vipākadāna niyataṃ` is parsed here as
+`vipākadāne niyatam`.
 
 ## 3. Continuous Translation
 
 An action is called both done and accumulated. How does an action become
-accumulated? Through five conditions:
+accumulated? Through five causes:
 
 “An action is called accumulated through deliberate intention, completion,
 absence of remorse and counteraction, accompaniment, and determination
@@ -102,5 +104,5 @@ accumulation, not a substitute for the other four.
 ## 6. Review Status
 
 This study covers `[271|19]–[272|03]` and stops before the shrine-offering
-discussion at `[272|04]`. The readings `saṃcenataḥ` and
+discussion at `[272|04]`. The readings `saṃcenataḥ`, `samāpattitaḥ`, and
 `vipākadāna niyataṃ` are recorded with their editorial normalization.

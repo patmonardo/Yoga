@@ -134,9 +134,12 @@ thing alone.
 
 ## 9. Interpretive Note
 
-**Translation note.** The distinction between thing given and giving-action, the motive
-qualification, the activating cluster, the cited verse, and the
-abundant-enjoyment result are supplied or explained by the Bhāṣya. The informed translation also included: A thing may also be handed over through passion and other afflictions, but the Bhāṣya excludes those cases from the giving defined here. It explains the activation as a cluster of factors that brings the action into operation. A cited verse says that when a person gives a personal resource with a wholesome Mind, the wholesome Bases present at that moment are called giving.
+**Translation note.** The Bhāṣya distinguishes the thing given from the
+giving-action and specifies its motive, activating cluster, and result.
+A thing may also be handed over through passion and other afflictions,
+but those cases fall outside the giving defined here. The cited verse
+calls the wholesome Bases present when someone gives a personal resource
+with a wholesome Mind “giving.”
 
 The preceding verse explicitly names *cetanā* in its analysis of
 meritorious activity. This verse does not: its definition names the wish
@@ -151,7 +154,10 @@ giving-event, not Mind itself. The quoted line keeps wholesome Mind
 Bases name the gathered content/frame of the event, not a mental
 substance.
 
-The source unit is `[268|09]–[268|20]`. The witness reads `daddānam`
+The `-maya` examples explain constitution: a grass house is constituted
+of grass, and a leaf vessel of leaves; likewise, the meritorious-activity
+basis here is constituted as giving. The source unit is `[268|09]–[268|20]`.
+The witness reads `daddānam`
 at `[268|09–10]`; the study separates `tad dānam` according to the
 relative-correlative syntax. The cited verse has `tat kṣaṇaṃ` as two
 words. The study stops at the colon introducing the next topic at

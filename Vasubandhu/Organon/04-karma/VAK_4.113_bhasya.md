@@ -87,8 +87,8 @@ leaves.” The Bhāṣya then begins its next topic: “This giving ...”
 | Result | Abundant enjoyment |
 
 The phrase `dānamayaṃ puṇyakriyāvastu` is explained through constitution
-or nature, not literal material composition. The grass house and leaf vessel
-are the Bhāṣya's analogies for this use of `-maya`.
+or nature: just as a grass house is made of grass and a leaf vessel of
+leaves, this meritorious-activity basis is constituted as giving.
 
 ## 5. Interpretation
 

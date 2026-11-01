@@ -89,10 +89,10 @@ non-percipient beings among gods as instances of the latter.
 
 ### Bhāṣya-informed study translation
 
-> Actions of immediate retribution are admitted in the three continents, but not
-> for persons classified as *śaṇḍha* and related cases, because of lesser
-> beneficence and lack of inhibition. The remaining two obstructions occur in
-> the five destinies.
+> *Ānantarya* actions are admitted in the three continents, but not for
+> persons classified as *śaṇḍha* and related cases, because of lesser
+> parental beneficence and lack of inhibiting shame. The remaining two
+> obstructions occur in the five destinies.
 
 ## 6. Philosophical Translation
 
@@ -110,8 +110,9 @@ non-percipient beings among gods as instances of the latter.
   here.
 - **Beneficence** (*upakāra*) — in the Bhāṣya, parental benefit attributed
   to the relation under discussion.
-- **Inhibition** (*alajjitva*, explained with *apatrāpya*) — the inhibition
-  toward parents that the Bhāṣya says is relevant to the classification.
+- **Inhibiting shame** (absence: *alajjitva*; explained with *apatrāpya*) —
+  the sense of shame before parents that the Bhāṣya says is relevant to the
+  classification.
 - **Remaining two** (*śeṣe*) — affliction-obstruction and
   maturation-obstruction, not additional action-types.
 - **Five destinies** (*pañca gati*) — the scope assigned by the Bhāṣya to
@@ -136,7 +137,7 @@ The text's primary restriction is:
 ```text
 ānantarya
     → three continents
-    → not Uttarakuru, other destinies, or another Principle
+    → not Uttarakuru, other destinies, or another realm
     → within those continents, further agent conditions are specified
 ```
 
@@ -156,7 +157,7 @@ qualifications remain attributed positions, not universalized rules.
 
 **Translation note.** The agent restrictions and their rationale are the Bhāṣya's classifications,
 not general empirical claims. The source's category *śaṇḍha* is retained
-without equating it with any present-day identity. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Among these obstructions, where is each to be understood? The actions of *ānantarya* are admitted in the three continents—not in Uttarakuru, the other destinies, or another Principle; even there, only for women and men. They are not admitted for persons classified in the text as *śaṇḍha* and related cases. The Bhāṣya recalls its earlier explanation concerning non-restraint and adds lesser parental beneficence and lesser inhibition toward parents, assigning these reasons respectively to the parents and the persons. It attributes the claimed difference in beneficence to embodied condition and parental affection. It extends the exclusion to animals and pretas, while Bhadanta allows a possible case among those of exceptional intelligence, such as a well-bred horse. A human who kills nonhuman parents is also said not to incur *ānantarya*. The Bhāṣya then clarifies that the “remaining” two are affliction-obstruction and maturation-obstruction, which occur across the five destinies; it identifies the Kuru condition among humans and non-percipient beings among gods as instances of the latter.
+without equating it with any present-day identity. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Among these obstructions, where is each to be understood? The actions of *ānantarya* are admitted in the three continents—not in Uttarakuru, the other destinies, or another realm; even there, only for women and men. They are not admitted for persons classified in the text as *śaṇḍha* and related cases. The Bhāṣya recalls its earlier explanation concerning non-restraint and adds lesser parental beneficence and lesser shame before parents, assigning these reasons respectively to the parents and the persons. It attributes the claimed difference in beneficence to embodied condition and parental affection. It extends the exclusion to animals and pretas, while Bhadanta allows a possible case among those of exceptional intelligence, such as a well-bred horse. A human who kills nonhuman parents is also said not to incur *ānantarya*. The Bhāṣya then clarifies that the “remaining” two are affliction-obstruction and maturation-obstruction, which occur across the five destinies; it identifies the Kuru condition among humans and non-percipient beings among gods as instances of the latter.
 
 The verse clarifies the scope of the three-obstruction scheme rather than
 adding another action-type. Its compressed `śeṣe` depends on the structure
@@ -173,6 +174,7 @@ persons.
 > classification. The verse then distinguishes this restricted action-class
 > from affliction-obstruction and maturation-obstruction, whose scope
 > extends across the five destinies.
+
 ## 10. OWL++ Seed
 
 ```text

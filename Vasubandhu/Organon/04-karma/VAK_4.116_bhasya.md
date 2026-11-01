@@ -1,12 +1,12 @@
-# VAK 4.116 Bhāṣya — The Distinction of the Gift-Object
+# VAK 4.116 Bhāṣya — The Distinction of the Thing Given
 
 ## 1. Kārikā Anchor
 
 > varṇādisampadā vastu surūpatvaṃ yaśasvi vā /
 > priyatā sukumārartusukhasparśāṅgatā tataḥ // 4.116 //
 
-> The gift-object is distinguished by excellence of color and the other qualities.
-> From giving such an object arise beauty, renown, belovedness, delicacy of limbs,
+> The thing given is distinguished by excellence of color and the other qualities.
+> From giving such a thing arise beauty, renown, belovedness, delicacy of limbs,
 > and limbs pleasant to touch according to the seasons.
 
 The Bhāṣya specifies four qualities of the thing given and pairs them in
@@ -38,15 +38,17 @@ sparśasaṃpannaṃ dattvā sukumārāṅgaś ca bhavati,
 The source span is `[269|20]–[270|03]`. At `[269|22–23]`, the witness
 reads `dadvarṇa...`; this transcription separates and repairs it as
 `tad varṇa...`. At `[269|24–25]`, the witness has `surūptvaṃ`; the
-repository kārikā reading `surūpatvaṃ` is used in the anchor. The verse's
-`yaśasvi vā` is retained, while the prose specifies `yaśasvī bhavati`.
+repository kārikā reading `surūpatvaṃ` is used in the anchor. The witness
+also reads `...sparśāṅtā` where the study has `...sparśāṅgatā`, supported
+by the prose's `aṅgāni`. The verse's `yaśasvi vā` is retained, while the
+prose specifies `yaśasvī bhavati`.
 The recipient-field question begins at `[270|04]`.
 
 ## 3. Continuous Translation
 
 How is the thing given distinguished? The phrase “through excellence of
 color and the other qualities” means that the thing given is distinguished.
-If what is given is endowed with even one among color, smell, taste, and
+If what is given excels in even one among color, smell, taste, and
 touch, the thing is distinguished in that respect. What follows from giving
 such a thing? The results follow in order:
 
@@ -69,7 +71,7 @@ according to the seasons, as with the jewel-woman.
 `Yathākramam` specifies the order. The last quality yields two related
 results; it does not add another quality of the thing given. The Bhāṣya
 states that excellence in any one of the four qualities can distinguish
-the gift-object. Its comparisons of fragrance with spreading renown and
+the thing given. Its comparisons of fragrance with spreading renown and
 taste with agreeableness explain the listed correspondences.
 
 ## 5. Interpretation
@@ -85,12 +87,12 @@ need not be one-to-one at the level of individual fruits.
 The giver, thing given, and recipient field remain distinct determinations
 of the giving-event. Bases gather content and frames; they are not Mind
 itself. The passage itself does not name `cetanā`, so this interpretation
-does not insert it into the source's wording: it relates the gift-object
-analysis to the chapter's larger account of volitional action.
+does not insert it into the source's wording: it relates the analysis of
+the thing given to the chapter's larger account of volitional action.
 
 ## 6. Review Status
 
 This study covers `[269|20]–[270|03]` and stops before the recipient-field
-analysis at `[270|04]`. The readings `dadvarṇa...` and `surūptvaṃ` are
-recorded with their editorial handling; `yaśasvi vā` remains in the verse
-anchor alongside the prose's `yaśasvī bhavati`.
+analysis at `[270|04]`. The readings `dadvarṇa...`, `surūptvaṃ`, and
+`...sparśāṅtā` are recorded with their editorial handling; `yaśasvi vā`
+remains in the verse anchor alongside the prose's `yaśasvī bhavati`.

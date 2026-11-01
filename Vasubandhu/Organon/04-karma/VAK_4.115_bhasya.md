@@ -5,9 +5,10 @@
 > dātā viśiṣṭaḥ śraddhādyaiḥ satkṛtyādi dadāty ataḥ /
 > satkārodārarucitā kālānācchedyalābhitā // 4.115 //
 
-> A giver distinguished by faith and related qualities gives respectfully and in
-> other specified ways. Consequently, there is receipt of honor, taste for excellent
-> enjoyments, timely acquisition, and acquisition not liable to seizure or
+> A giver distinguished by faith and related qualities gives respectfully,
+> with one's own hand, at the proper time, and without harming others. In
+> that order the results are receipt of honor, a taste for excellent
+> enjoyments, timely acquisition, and possessions not liable to seizure or
 > destruction.
 
 This develops the giver-determinant named in 4.114. The Bhāṣya expands

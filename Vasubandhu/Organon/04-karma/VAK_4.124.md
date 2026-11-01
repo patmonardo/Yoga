@@ -95,7 +95,7 @@ constitutes this Brahmā-merit.
 - **`Visaṃyoga`** — disjunction; the result principally associated with
   cultivation.
 - **`Bhāvanā`** — cultivation, defined in 4.123 through concentrated
-  wholesomeness conditioning consciousness.
+  wholesomeness conditioning Consciousness.
 - **`Brāhmapuṇya`** — Brahmā-merit, whose measure is disputed in the
   Bhāṣya.
 - **Vaibhāṣika account** — links Brahmā-merit with the measure for action
@@ -132,12 +132,19 @@ former-teacher account
 
 The local passage does not enumerate the four persons or collapse the
 two explanations into one.
+The related
+[Sanskrit sūtra](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/vinv172u.htm)
+does enumerate them; that list is external to this Bhāṣya unit.
 
 ## 9. Interpretive Note
 
-**Translation note.** The two measures and the comparison among giving, discipline, and
-cultivation are Bhāṣya explanations; the four persons' identities are not
-provided here. The informed translation also included: The Bhāṣya clarifies that giving also conduces to heaven, while discipline also conduces to disjunction. The Vaibhāṣikas connect Brahmā-merit with the measure used for action whose maturation produces the Buddha's marks. Former teachers define it by result: the merit through which one delights in the heavens for a kalpa, in accord with the kalpa-long lifespan of Brahmā's ministers. Another collection transmits a verse stating this result.
+**Translation note.** The Bhāṣya clarifies that giving also conduces to
+heaven and discipline also conduces to disjunction. It leaves the four
+persons unidentified. The Vaibhāṣikas refer to the measure used for
+action whose maturation produces the Buddha's marks. Former teachers
+define Brahmā-merit by enjoyment in the heavens for a kalpa, citing the
+kalpa-long lifespan of Brahmā's ministers. Another collection transmits
+a verse stating this result.
 
 VAK 4.124 completes the discussion of giving, discipline, and cultivation
 by describing their predominant results. The Bhāṣya's `prādhānyāt`
@@ -151,7 +158,10 @@ disjunction merely because it is vast in duration. The four persons named
 in the cited sūtra remain unidentified in this passage.
 
 The source span is `[274|05]–[274|13]`. The witness has `sutra` at
-`[274|07]`, normalized as `sūtra`. The Vaibhāṣika reference points back
+`[274|07]`, normalized as `sūtra`; `prasavantī` is resolved to
+`prasavanti` before a separate `iti`. Its `modata` at `[274|13]` is
+regularized as `modate`, supported by the same line in a related Sanskrit
+sūtra. The Vaibhāṣika reference points back
 to the earlier account of action producing the Buddha's marks; the
 measure is not repeated here. The next topic begins with material giving
 at `[274|14]`.

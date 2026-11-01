@@ -20,18 +20,20 @@ bhikṣur dṛkcarito vṛttī bhinatty anyatra bāliśān /
 |---|---|---|
 | `bhikṣuḥ` | nominative masculine singular | the monk who effects the division |
 | `dṛk-caritaḥ` | nominative masculine singular compound | governed in conduct by view |
-| `vṛttī` | nominative masculine singular, `-in` stem | characterized by conduct; the exact force is clarified by the Bhāṣya |
+| `vṛttī` | nominative masculine singular, `-in` stem | established in conduct; the Bhāṣya contrasts this with broken conduct |
 | `bhinatti` | third-person singular present of `√bhid` | divides |
 | `anyatra` | indeclinable adverb | elsewhere than where the Blessed One is present |
 | `bāliśān` | accusative masculine plural | the immature persons who are divided |
 | `śāstṛ-antara-mārga-antara-kṣāntau` | locative singular compound | upon acceptance of another teacher and another path |
 | `bhinnaḥ` | nominative masculine singular past passive participle | divided; said of the Saṅgha |
 | `na` | negative particle | negates the duration expressed by `vivasati` |
-| `vivasati` | third-person singular present of `vi-√vas` | remains through the night |
+| `vivasati` | third-person singular present of `vi-√vas` | spends the night in the divided state |
 | `asau` | nominative masculine singular demonstrative | that divided Saṅgha |
 
-The witness reading around `vṛttī` is damaged; the Bhāṣya's contrast with
-broken conduct informs, but does not remove, that uncertainty.
+The witness's preceding `du kvacarito` is damaged; the Bhāṣya's explicit
+`dṛṣṭicarita` supports the normalized `dṛkcarito`. The witness reads
+`vṛttī` clearly, while its precise force is informed by the prose contrast
+with broken conduct.
 
 ## 4. Grammar
 
@@ -57,7 +59,7 @@ The second clause gives the condition for completed division:
 
 The Bhāṣya explains the compound through acceptance of both a teacher other
 than the Tathāgata and a path other than the one he taught. The final clause
-states that this division does not last through the night; the Saṅgha is
+states that the divided Saṅgha does not spend the night in that state: it is
 reunited before the night has elapsed.
 
 ## 5. Translation
@@ -65,24 +67,24 @@ reunited before the night has elapsed.
 ### Literal Translation
 > A monk governed by view and established in conduct divides the immature
 > elsewhere. Upon acceptance of another teacher and another path, the Saṅgha
-> is divided; that division does not last through the night.
+> is divided; that Saṅgha does not spend the night divided.
 
 ### Bhāṣya-informed study translation
 
-> A monk governed by view and established in conduct divides the immature
-> elsewhere. The Saṅgha is divided upon acceptance of another teacher and
-> path; that division does not last through the night.
+> A monk governed by view and established in conduct divides ordinary persons
+> away from the Blessed One's presence. The Saṅgha is divided when they accept
+> another teacher and another path; it is reunited before that night passes.
 
 ## 6. Philosophical Translation
 
-> A monk governed by view and established in conduct divides the immature elsewhere. Upon acceptance of another teacher and another path, the Saṅgha is divided; that division does not last through the night.
+> A monk governed by view and established in conduct divides the immature elsewhere. Upon acceptance of another teacher and another path, the Saṅgha is divided; that Saṅgha does not spend the night divided.
 
 ## 7. Technical Vocabulary
 
 - **`Dṛk-carita` / `dṛṣṭi-carita`** — governed in conduct by view; the
   Bhāṣya contrasts this with conduct governed by craving
   (`tṛṣṇā-carita`).
-- **`Vṛttī` / `bhinnavṛtta`** — the kārikā's witness is uncertain. The
+- **`Vṛttī` / `bhinnavṛtta`** — `vṛttī` is legible in the witness. The
   Bhāṣya contrasts proper standing with broken conduct and explains that
   the latter's words would not be accepted (`anādeyavākya`).
 - **`Bāliśa` / `pṛthagjana`** — the immature, glossed as ordinary persons.
@@ -91,8 +93,8 @@ reunited before the night has elapsed.
 - **`Kṣānti`** — in `śāstṛmārgāntarakṣāntau`, acceptance of another
   teacher and another path. Do not conflate this compound with the
   Bhāṣya's separate reference to recipients who have attained `kṣānti`.
-- **`Na vivasati`** — the division does not last through the night; the
-  Bhāṣya says the Saṅgha is necessarily reunited before it passes.
+- **`Na vivasati`** — the divided Saṅgha does not spend the night divided;
+  the Bhāṣya says it is necessarily reunited before the night passes.
 
 ## 8. Logical Determination
 
@@ -112,14 +114,15 @@ This unit does not itself name *cetanā* or restate the action taxonomy.
 ## 9. Interpretive Note
 
 **Translation note.** The witness's `bhikṣurdu kvacarito vṛttī` at `[261|09]` is damaged around
-`dṛkcarito`; the verse form supplies the normalized anchor above. The
-opening prose question's `bhanatti` is normalized to `bhinatti`. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: A monk governed by view and established in conduct divides the immature elsewhere. Upon acceptance of another teacher and another path, the Saṅgha is divided; that division does not last through the night. The Bhāṣya specifies that the monk is not governed by craving or of broken conduct, that the division occurs away from the Blessed One's presence, and that reunion is necessary before the night has passed.
+`dṛkcarito`; `vṛttī` itself is legible. The Bhāṣya's `dṛṣṭicarita` supports
+the normalized anchor above. The opening prose question's `bhanatti` is
+normalized to `bhinatti`. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: A monk governed by view and established in conduct divides the immature elsewhere. Upon acceptance of another teacher and another path, the Saṅgha is divided; that Saṅgha does not spend the night divided. The Bhāṣya specifies that the monk is not governed by craving or of broken conduct, that the division occurs away from the Blessed One's presence, and that reunion is necessary before the night has passed.
 
 The source unit runs from the question at `[261|07–08]` through the
 reunion statement at `[261|23]`; it stops before the next statement,
 `cakrabhedaḥ`, at `[261|24]`. Its focus is the agent, recipients, and
 recognition conditions of this form of Saṅgha division. The damaged
-`vṛttī` reading and the normalization of `bhanatti` to `bhinatti` are
+`dṛkcarito` reading and the normalization of `bhanatti` to `bhinatti` are
 marked in the paired study. The discussion distinguishes this collective
 result from 4.99's culpable verbal action without inserting *cetanā* where
 the passage does not name it.
@@ -130,6 +133,7 @@ the passage does not name it.
 > teacher and a different path. This recognized alternative establishes a
 > temporary non-concord in the Saṅgha, which is necessarily repaired before
 > the night has passed.
+
 ## 10. OWL++ Seed
 
 ```text

@@ -54,7 +54,7 @@ are to be known in brief. They are:
 according to whether these are mild or intense, action is mild or intense.”
 
 “Repetition” is the renewed enactment of what has been done. “Field” is
-that in which acts of benefit or harm are performed. “Action-course” is
+that in which acts of benefit or harm are performed. `Adhiṣṭhāna` means
 the action-course. “Undertaking” is bodily or verbal action for its sake.
 “Volition” is that by which one completes the action-course. “Resolve”
 is the intention: “I will do this in this way; I will not do that in that

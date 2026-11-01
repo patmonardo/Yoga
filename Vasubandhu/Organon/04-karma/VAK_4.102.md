@@ -19,7 +19,7 @@ sīmāyāṃ cāpy abaddhāyāṃ cakrabhedo na jāyate // 4.102 //
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ādau` | locative singular used adverbially | at the beginning of the Dharma Chakra's operation |
-| `ante` | locative singular used adverbially | at its end |
+| `ante` | locative singular used adverbially | at the end, glossed as the time of the Blessed One's parinirvāṇa |
 | `arbudāt` | ablative neuter singular | before the `arbuda`, glossed by the Bhāṣya as defects of discipline and view |
 | `pūrvam` | indeclinable adverb | before; governs `arbudāt` and is carried forward to `yugāt` |
 | `yugāt` | ablative neuter singular | before the pair, identified by the Bhāṣya as the foremost pair of disciples |
@@ -67,9 +67,10 @@ depends on action.
 
 ### Bhāṣya-informed study translation
 
-> Wheel-division does not arise at the beginning or end, before the *arbuda*,
-> before the pair [of foremost disciples], after the Sage has passed away, or
-> while the boundary is unbound.
+> Division of the Dharma Chakra does not arise when the Wheel has just begun
+> to turn, at the Teacher's parinirvāṇa, before defects of discipline and view
+> appear, before the foremost pair of disciples appears, after the Sage has
+> passed away, or before a common boundary is established.
 
 ## 6. Philosophical Translation
 
@@ -99,7 +100,7 @@ depends on action.
 ```text
 Exclusions from cakrabheda:
     beginning of the Dharma Chakra's operation
-    end of the dispensation
+    at the Blessed One's parinirvāṇa
     before discipline and view defects arise
     before the foremost pair of disciples appears
     after the Sage has passed away
@@ -116,11 +117,12 @@ boundary to an actual `cakrabheda`.
 
 ## 9. Interpretive Note
 
-**Translation note.** The commentary explains that the beginning and end are times when the
-Saṅgha is `ekarasa`, one in tenor; that the two `arbuda` are defects of
-discipline and view; and that the pair is the foremost pair of disciples.
-It further says that division does not arise after the Sage has passed
-away because no rival remains, or before a common boundary is established.
+**Translation note.** The commentary explains that the beginning and the time of the
+Blessed One's parinirvāṇa are times when the Saṅgha is `ekarasa`, one in tenor.
+It separately excludes the time after the Sage has passed away because no
+rival remains. The two `arbuda` are defects of discipline and view, and the
+pair is the foremost pair of disciples. Division also cannot arise before a
+common boundary is established.
 Its concluding qualification is that actual division depends on action. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Division of the Dharma Chakra does not arise at the beginning or end, before defects of discipline and view have arisen, before the foremost pair of disciples has appeared, after the Sage has passed away, or while the communal boundary remains unbound.
 
 The passage distinguishes conditions that make this division unavailable
@@ -146,6 +148,7 @@ foremost pair is retained as uncertain.
 > after the Teacher has passed away, and before one common boundary can
 > hold the two parties. Even when those conditions are available, division
 > is not automatic; its occurrence remains action-dependent.
+
 ## 10. OWL++ Seed
 
 ```text
@@ -160,7 +163,7 @@ Class: DivisiveAction
 Rule: ExcludedCakrabheda
   when = AnyOf(
     BeginningOfDharmaChakra,
-    EndOfDispensation,
+    BlessedOnesParinirvāṇa,
     BeforeDisciplineOrViewDefect,
     BeforeForemostDisciplePair,
     AfterSageHasPassedAway,

@@ -5,8 +5,9 @@
 > cakrabhedaḥ sa ca mato jambūdvīpe navādibhiḥ /
 > karmabhedas triṣu dvīpeṣv aṣṭabhir adhikaiś ca saḥ // 4.101 //
 
-> That is held to be wheel-division in Jambūdvīpa with nine or more [monks];
-> division of communal action occurs in the three continents with eight or more.
+> That Saṅgha division is held to be division of the Dharma Chakra in
+> Jambūdvīpa with nine or more monks; division of communal action occurs in
+> the three continents where the Teaching exists, with eight or more monks.
 
 ## 2. Continuous Sanskrit
 
@@ -99,8 +100,8 @@ communal action is divided within a shared boundary. The named object of
 division, spatial range, and participant threshold differ.
 
 This offers a bounded test for the BEP-protocol insight: the passage
-distinguishes what is divided and specifies the shared institutional
-support for one kind of division. That relation is suggestive for the
+distinguishes what is divided and specifies the shared boundary within
+which one kind of division occurs. That relation is suggestive for the
 Organon, but the Bhāṣya itself does not state a complete
 Base–Essence–Principle protocol here. Its local use of *karman* also
 reminds us to read action by its grammatical and institutional function,

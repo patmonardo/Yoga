@@ -76,8 +76,8 @@ eṣām mṛdu-adhimātratvāt
 
 - **`Pṛṣṭha`** — follow-up repetition or renewed enactment of what has
   already been done.
-- **`Kṣetra`** — field in which benefit or harm is done; here continuous
-  with the recipient-field analysis of 4.117–4.118.
+- **`Kṣetra`** — field in which benefit or harm is done. The recipient field
+  in 4.117–4.118 is one case of this broader use.
 - **`Adhiṣṭhāna` / `karmapatha`** — the action-course itself.
 - **`Prayoga`** — bodily or verbal undertaking directed toward the
   action-course.
@@ -120,8 +120,14 @@ course is not evaluated apart from the field.
 
 ## 9. Interpretive Note
 
-**Translation note.** The definitions, examples of a single factor's force, and limiting cases are
-provided by the Bhāṣya. The informed translation also included: The Bhāṣya defines repetition as renewed enactment after an act has been done; field as that in which benefit or harm is performed; action-course as the course of action itself; undertaking as bodily or verbal activity for that course; volition as that by which the course is completed; and resolve as the intention, “I will do this in this way; I will not do that in that way.” In some cases repetition alone, field alone, or the action-course within a field makes an action heavy. When all six factors are intense, the action is extremely heavy; when they are mild, it is extremely mild.
+**Translation note.** The six definitions, examples of a single factor's
+force, and limiting cases come from the Bhāṣya. Its definition of `kṣetra`
+includes acts of benefit and harm. Its definition of `cetanā` assigns
+volition the specific function of completing the action-course; its
+definition of `āśaya` gives the intention expressed as what one will or
+will not do. Repetition alone, field alone, or the action-course within a
+field can make an action heavy. When all six factors are intense, the
+action is extremely heavy; when they are mild, it is extremely mild.
 
 After 4.114–4.118 distinguish the giver, thing given, and recipient field
 within giving, 4.119 generalizes the inquiry to factors that determine

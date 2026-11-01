@@ -29,7 +29,9 @@ vipākaniṣyandaphale muktvā.
 
 The source unit is `[257|17]–[257|22]`. The prose distributes each count
 over the same three target classes. The kārikā's `dṛg-gheya` and the prose's
-`darśanaheya` refer here to the same class.
+`darśanaheya` refer here to the same class. The witness's
+`vipākaniḥṣyandaphale` at `[257|22]` is normalized above to
+`vipākaniṣyandaphale`; its two exclusions remain unchanged.
 
 ## 3. Continuous Translation
 
@@ -79,7 +81,8 @@ cell.
 
 The two rows are directed. Their result-sets cannot be inferred by reversing
 the action and result statuses, and equal counts do not entail equal
-memberships.
+memberships. Each cell lists the types available across its class; the
+conditions on an individual action still apply.
 
 ## 7. The Ordered Abandonment Classes
 

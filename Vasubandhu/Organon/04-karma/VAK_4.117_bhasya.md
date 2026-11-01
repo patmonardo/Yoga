@@ -53,11 +53,11 @@ aṣṭamam // 4.117 //
 
 agram iti vartate. katamāny aṣṭau?
 
-[witness list: āsādya dānaṃ bhayadānam adānme dānaṃ dāsyati me
-dānaṃ dattpūrvaṃ me dānaṃ pitṛbhiśca pitāmahaiśceti dānaṃ dadāti
+āsādya dānaṃ bhayadānam adānme dānaṃ dāsyati me dānaṃ
+dattpūrvaṃ me dānaṃ pitṛbhiśca pitāmahaiśceti dānaṃ dadāti
 svargārthaṃ dānaṃ kīrtyarthaṃ dānaṃ cittālaṅkārārthaṃ dānaṃ
-cittapariṣkārārthaṃ yogasaṃbhārārtham uttamārthasya prāptaye
-dānaṃ dadāti]
+cittapariṣkārārthaṃ yiogasaṃbhārārthamuttamārthasya prāptaye
+dānaṃ dadāti.
 
 tatrāsādya dānaṃ yad āsannebhya upagatebhyo dānaṃ dadātīti paurāṇāḥ.
 bhayadānaṃ yad vināśābhimukhaṃ dṛṣṭvā varaṃ dadāmīti dadāti.
@@ -68,8 +68,10 @@ At `[270|04]` the witness reads `viśipyate`; the kārikā and explanation
 use `viśiṣyate`. At `[270|08]` the witness has the difficult reading
 `duḥkhaviśeṣā dviśiṣyate`; the normalized `duḥkhaviśeṣād viśiṣyate`
 is editorial. The list at `[270|21–25]` is reproduced as a witness
-passage, not silently divided into eight numbered items. Its opening
-and joins are uncertain. The next topic begins at `[270|26]`.
+passage, not silently divided into eight numbered items. Its `adānme`,
+`dattpūrvaṃ`, and `yiogasaṃbhārārtham` readings are retained from the
+witness; the opening and joins are uncertain. The next topic begins at
+`[270|26]`.
 
 ## 3. Continuous Translation
 
@@ -102,11 +104,18 @@ for the benefit of all living beings is foremost, even when giver and
 recipient are not yet free.
 
 Setting these aside, of the other eight gifts stated by the Blessed One,
-the eighth is foremost. Which eight? [The witness list is preserved above.]
+the eighth is foremost. Which eight? The witness names giving on approach
+and giving from fear, then has the unclear `adānme` phrase, “he will give
+to me,” “previously given to me,” and giving as fathers and grandfathers
+did. It goes on to giving for heaven and for fame. It closes with giving
+for the adornment and refinement of Consciousness, as equipment for yoga
+and for attaining the highest aim. The joins in this damaged list do not
+permit a secure numbering of all eight entries.
+
 The ancient teachers say that giving to those nearby who have arrived is
 “giving upon approach.” “Giving from fear” is giving when, seeing that
-loss is imminent, one thinks, “Better that I give.” The rest are not
-explained because their meaning is clear.
+loss is imminent, one thinks, “Better that I give.” The remaining entries
+are not explained in the Bhāṣya because their meaning is taken as clear.
 
 ## 4. The Recipient-Field Grounds and Foremost Cases
 
@@ -121,9 +130,9 @@ explained because their meaning is clear.
 | Eighth gift in another classification | Foremost within that eightfold series |
 
 The numbers attached to maturation, and the classifications of “foremost,”
-are claims cited or made by the Bhāṣya. The damaged eightfold list is not
-reconstructed into a clean numbered catalogue; only the first two entries
-receive explicit explanation in this passage.
+are claims cited or made by the Bhāṣya. The damaged eightfold list is
+translated in sequence without a conjectural numbered catalogue; only
+the first two entries receive explicit explanation in this passage.
 
 ## 5. Interpretation
 
@@ -147,6 +156,6 @@ the chapter's broader analysis of volitional action.
 ## 6. Review Status
 
 This study covers `[270|04]–[270|25–26]`. It records the witness's
-`viśipyate` and difficult `duḥkhaviśeṣā dviśiṣyate`, and preserves the
+`viśipyate` and difficult `duḥkhaviśeṣā dviśiṣyate`, and translates the
 eightfold list without an unsupported segmentation. The sentence at
 `[270|26]` begins the next topic.

@@ -90,6 +90,9 @@ is the Saṅgha, not the agent who caused the division.
 - **Non-afflicted** (*akliṣṭa*) and **indeterminate** (*avyākṛta*) — the
   technical classifications of the resulting condition; they do not
   transfer the ethical classification of the causal action to its result.
+  The Bhāṣya prose uses *anivṛta-avyākṛta*, “unobscured and
+  indeterminate,” for that same condition; the two Sanskrit descriptions
+  should remain visible.
 - **Result-name applied to cause** (*hetau phalopacāra*) — the Bhāṣya's
   explanation for calling the causal action “Saṅgha division.”
 - **Endowed with** (*samanvita*) — the predicate assigning the resulting
@@ -140,6 +143,7 @@ separates causal agency, conditioned result, and bearer.
 > determinations. The action belongs to the divider; the resulting
 > non-concord is borne by the Saṅgha. Naming the cause by its result does
 > not make them one and the same Dharma.
+
 ## 10. OWL++ Seed
 
 ```text

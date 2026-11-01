@@ -67,8 +67,9 @@ When a person still subject to passion, or an ordinary person free from
 passion, gives to other living beings, the giving benefits both.
 
 When a noble person free from passion gives to a caitya, setting aside a
-result to be experienced in this life, the giving benefits neither. It is
-given solely from reverence and gratitude.
+result to be experienced in this life, the giving benefits neither in
+the two senses under discussion. It is given solely from reverence and
+gratitude.
 
 Giving was stated generally to have abundant enjoyment as its result.
 Its further distinction depends on the distinction of the giver, the thing
@@ -79,9 +80,9 @@ given, and the recipient field.
 | Donor and recipient | Actual recipient assistance | Future donor maturation | Classification |
 |---|---|---|---|
 | Donor still eligible for future maturation gives to a caitya | None | Possible | Donor's benefit alone |
-| Dispassionate noble gives to living beings | Yes | Not beyond any present-life result | Others' benefit alone |
+| Dispassionate noble gives to living beings | Yes | None; a present-life result is set aside | Others' benefit alone |
 | Donor still eligible for maturation gives to living beings | Yes | Possible | Benefit to both |
-| Dispassionate noble gives to a caitya | None | Not beyond any present-life result | Neither, in the stated senses |
+| Dispassionate noble gives to a caitya | None | None; a present-life result is set aside | Neither, in the stated senses |
 
 The final case remains positively grounded in reverence and gratitude. The
 classification “neither” concerns the two benefit-relations under discussion;

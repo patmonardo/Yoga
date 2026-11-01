@@ -52,9 +52,9 @@ paripūrakam [karma]
 
 > One action projects one birth; the completing action is multiple.
 
-The Bhāṣya clarifies the direction of this numerical claim: one action does
-not project many births, while many actions may project one birth together,
-so the `nikāyasabhāga` is not projected piecemeal.
+The Bhāṣya clarifies both limits of this numerical claim: one action does
+not project many births, and many actions do not jointly project one birth,
+which would divide the projection of `nikāyasabhāga` into parts.
 
 **What is not a projector**
 
@@ -110,21 +110,22 @@ multiple completing actions.
 ```text
 Kp → J
 Kp ↛ many distinct J
-{Kp₁, Kp₂, ...} → one J may be jointly projected
+{Kp₁, Kp₂, ...} ↛ one J by joint projection
 {Kc₁, Kc₂, ...} → particular features of J are completed
 ```
 
-Thus the Bhāṣya asserts a limit on one-to-many projection but permits
-many-to-one projection. It does not state a strict one-to-one bijection
-between individual actions and births.
+Thus the Bhāṣya rejects both one-to-many and many-to-one projection by
+actions. This does not make action the sole cause of birth: the commentary
+also admits other factors with maturation as projectors.
 
 ```text
 Projects(non-mental attainment, J) = false
 Projects(prāpti, J) = false
 ```
 
-The Bhāṣya says the attainments lack maturation and are not coexistent with
-action. It separately excludes acquisitions, with the compressed rationale
+On the emended `savipākābhyām` reading, the attainments have maturation but
+are not coexistent with action. The Bhāṣya separately excludes acquisitions,
+with the compressed rationale
 `karmaṇo 'nekaphalatvāt`; that explanation is retained without expanding it
 beyond what the passage states.
 
@@ -132,27 +133,28 @@ beyond what the passage states.
 
 **Translation note.** The Aniruddha example, the two explanations of his remembered births, the
 painter analogy, and the stated grounds for excluding attainments and
-acquisitions belong to the Bhāṣya. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: One action projects one `nikāyasabhāga`, one common class of beings, and does not project many such births. Many actions may project one class together, rather than projecting it in fragments. Many completing actions fill out that birth's particular features. The two non-mental attainments do not project a birth-class, nor do acquisitions.
+acquisitions belong to the Bhāṣya. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: One action projects one `nikāyasabhāga`, one common class of beings, and does not project many such births. Many actions do not jointly project one class, since that would divide its projection into parts. Many completing actions fill out that birth's particular features. The two non-mental attainments do not project a birth-class, nor do acquisitions.
 
 The painter example distinguishes unity of projected class from multiplicity
-of completed features: an outline establishes a figure, then many strokes
+of completed features: one brush outlines a figure, then many brushes
 differentiate it. The Aniruddha exchange similarly distinguishes a singular
 reported occasion from a causal history that may include further action or a
 stream of volitions. The Bhāṣya's own qualifications prevent the formula
-“one action, one birth” from becoming an absolute one-to-one law.
+"one action, one birth" from becoming a claim that action alone causes birth.
 
 **Former Philosophical Translation.**
 > Projection establishes the unity of a birth-class; completion differentiates
 > its particular features. The unity is not a one-cause/one-life arithmetic:
-> one projecting action does not extend to many births, but multiple actions
-> may jointly project one undivided class-membership. The causal relation is
-> therefore asymmetrical, not a simple bijection. Neither the two
-> non-mental attainments nor acquisition as a possession-relation performs
+> one projecting action does not extend to many births, and multiple actions
+> do not jointly project one class-membership. Many actions instead complete
+> that birth's particular features. Neither the two non-mental attainments
+> nor acquisition as a possession-relation performs
 > this projecting function.
 
 This reading stays with the Bhāṣya's claim about `nikāyasabhāga`; it does not
 reduce the full constitution of a life to a single cause or infer that
 projecting and completing exhaust every causal contribution.
+
 ## 10. OWL++ Seed
 
 ```text
@@ -174,7 +176,7 @@ ObjectProperty: completesBirthFeatures
   Range: BirthClass
 
 Rule: OneActionDoesNotProjectManyBirthClasses
-Rule: MultipleActionsMayJointlyProjectOneBirthClass
+Rule: MultipleActionsDoNotJointlyProjectOneBirthClass
 Rule: MultipleCompletingActionsMayCompleteBirthFeatures
 
 Constraint: NonMentalAttainmentsAreNotProjectors

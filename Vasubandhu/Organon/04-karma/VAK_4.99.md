@@ -70,7 +70,7 @@ adhikaiḥ [ānantarya-karmabhiḥ]
 > actions of *ānantarya*, the pains are greater.
 
 The Bhāṣya glosses the duration as one intermediate kalpa and explains the
-increase through a more susceptible support and more numerous, more intense
+increase through a more susceptible Basis and more numerous, more intense
 causes of pain.
 
 ## 5. Translation
@@ -84,7 +84,7 @@ causes of pain.
 
 > The culpable action in Saṅgha division is false speech, and the divider is
 > endowed with it. He undergoes maturation in Avīci for a kalpa; with additional
-> actions of immediate retribution, the pains are greater.
+> actions of *ānantarya*, the pains are greater.
 
 ## 6. Philosophical Translation
 
@@ -106,6 +106,8 @@ causes of pain.
   the verse's `kalpam`.
 - **Pain** (*ruj*) — increased in proportion to additional actions of
   *ānantarya* in the Bhāṣya's account.
+- **Basis** (*āśraya*) — the more dense and sensitive embodied basis in which
+  the painful feeling is experienced.
 - **Action of *ānantarya*** — the additional grave action whose presence
   increases the painful maturation in this passage.
 
@@ -135,7 +137,7 @@ immediately successive births:
 
 ```text
 more ānantarya actions
-    → denser, more sensitive support
+    → denser, more sensitive Basis
     → more numerous and intense causes
     → twofold through fivefold feeling
 ```
@@ -143,12 +145,12 @@ more ānantarya actions
 ## 9. Interpretive Note
 
 **Translation note.** The disclosure/non-disclosing-continuity analysis, intermediate-kalpa
-duration, and explanation of increased pain are Bhāṣya determinations. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: The culpable action that produces the Saṅgha's division is false speech, and it is this verbal action—not the community's condition of non-concord— that belongs to the divider. More precisely, it comprises verbal disclosure and non-disclosing continuity co-arising with the division. This action matures in the great Avīci hell for one intermediate kalpa. When additional actions of *ānantarya* are present, the support becomes denser and more sensitive, and the causes of pain become more numerous and more intense.
+duration, and explanation of increased pain are Bhāṣya determinations. The Bhāṣya-based expansion formerly embedded in the study translation is retained here: The culpable action that produces the Saṅgha's division is false speech, and it is this verbal action—not the community's condition of non-concord— that belongs to the divider. More precisely, it comprises verbal disclosure and non-disclosing continuity co-arising with the division. This action matures in the great Avīci hell for one intermediate kalpa. When additional actions of *ānantarya* are present, the Basis becomes denser and more sensitive, and the causes of pain become more numerous and more intense.
 
 VAK 4.98 assigns the resulting non-concord to the Saṅgha. VAK 4.99
 completes the attribution by assigning culpable false speech to the
 divider, then describes the maturation of that action. The Bhāṣya's
-account of multiple actions intensifying the painful support resolves the
+account of multiple actions intensifying the painful Basis resolves the
 question of how several *ānantarya* actions relate without treating each
 as a separate intervening birth.
 
@@ -158,6 +160,7 @@ as a separate intervening birth.
 > divider's continuum. One causal course links these distinct determinations
 > without collapsing action, collective result, and experienced maturation
 > into one bearer or one moment.
+
 ## 10. OWL++ Seed
 
 ```text

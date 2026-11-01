@@ -74,12 +74,12 @@ the vow to become a Buddha of that kind.
 ### Bhāṣya-informed study translation
 
 > Each individual mark is born from a hundred merits. Vipaśyin, Dīpaṃkara, and
-> Ratnaśikhin occur at the ends of the three incalculable periods; earlier was
-> Śākyamuni.
+> Ratnaśikhin occur at the ends of the three incalculable periods; before
+> all three was an earlier Buddha named Śākyamuni.
 
 ## 6. Philosophical Translation
 
-> Each individual mark is born from a hundred merits. Vipaśyin, Dīpaṃkara, and Ratnaśikhin occur at the ends of the three incalculable periods; earlier was Śākyamuni.
+> Each individual mark is born from a hundred merits. Vipaśyin, Dīpaṃkara, and Ratnaśikhin occur at the ends of the three incalculable periods; before all three was an earlier Buddha named Śākyamuni.
 
 ## 7. Technical Vocabulary
 
@@ -125,7 +125,11 @@ or present the numbers as one speaker's account.
 
 **Translation note.** The Bhāṣya asks what one merit measures and reports three different
 answers. It also gives counts of Buddhas attended in each period. These
-explanations and the first-vow episode are not all stated in the kārikā. The informed translation also included: The Bhāṣya reverses the names into chronological order: Ratnaśikhin ends the first period, Dīpaṃkara the second, and Vipaśyin the third. Before these, an earlier Buddha named Śākyamuni was present when the Bodhisattva first vowed, “May I become a Buddha of just this kind.”
+explanations and the first-vow episode are not all stated in the kārikā.
+The Bhāṣya reverses the names into chronological order: Ratnaśikhin ends
+the first period, Dīpaṃkara the second, and Vipaśyin the third. Before
+these, an earlier Buddha named Śākyamuni was present when the Bodhisattva
+first vowed, “May I become a Buddha of just this kind.”
 
 The hundredfold statement gives each mark its own merit-ground. The
 Bhāṣya then resists reducing “one merit” to a convenient human unit:
@@ -141,10 +145,11 @@ also careful to distinguish the earlier Buddha named Śākyamuni from the
 later Buddha whose career is being recounted.
 
 The source witness reads `śāsyamuniḥ` in the verse at `[266|24]`, while the
-following prose has `śākyamunir nāma`; the study follows the prose and
-research reading. It also records `pratheme` for `prathame` and `vabhūva`
-for `babhūva`. The closing statement about the earlier Buddha's era and
-teaching is rough in this witness and is not conjecturally reconstructed.
+following prose has `śākyamunir nāma`; the study follows that prose reading.
+It also records `pratheme` for `prathame` and `vabhūva` for `babhūva`.
+The closing statement about the earlier Buddha's era and teaching is rough
+in this witness. Its references to an age of decline and a thousand-year
+teaching can be recognized, but their exact syntactic relation is uncertain.
 The unit covers `[266|11]–[267|02]` and stops before the question about
 the perfections at `[267|03]`.
 

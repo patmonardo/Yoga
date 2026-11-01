@@ -16,7 +16,8 @@ cintāmayaṃ kalpaśate śeṣam ākṣipate hi tat // 4.109 //
 
 The Bhāṣya connects this verse to the action whose maturation produces the
 marks introduced in 4.108. It specifies the verse's compressed `buddhacetana`
-as volition taking an actually present Buddha as its object.
+as volition taking a Buddha as its Support (`ālambana`) while the Teacher
+is present.
 
 ## 3. Lexical Analysis
 
@@ -26,17 +27,19 @@ as volition taking an actually present Buddha as its object.
 | `pumān` | nominative masculine singular | as a man, within the source's stated restriction |
 | `eva` | emphatic particle | only |
 | `saṃmukham` | adverbial accusative | face-to-face, in the Teacher's presence |
-| `buddha-cetanaḥ` | nominative masculine singular compound | having volition directed to a Buddha |
-| `cintā-mayam` | accusative neuter singular | formed through reflection |
+| `buddha-cetanaḥ` | nominative masculine singular compound | having volition directed to a Buddha; the Bhāṣya specifies the Buddha as its Support |
+| `cintā-mayam` | accusative neuter singular | formed through reflection; qualifies the karma |
 | `kalpa-śate` | locative singular | over one hundred kalpas |
-| `śeṣam` | accusative neuter singular | the remainder |
+| `śeṣam` | accusative neuter singular | the remainder; the witness prints `śeṣa` |
 | `ākṣipate` | third-person singular present middle of `ā-√kṣip` | projects or carries forward |
 | `hi` | explanatory particle | indeed, for |
 | `tat` | accusative neuter singular demonstrative | that karma, specified by the Bhāṣya as mark-maturing karma |
 
 The prose clarifies `buddhacetanaḥ` through `buddhālambanayaiva cetanayā`:
-the volition takes a Buddha as its object. The Bhāṣya further specifies
-that the Teacher is actually present face-to-face.
+the volition takes a Buddha as its Support. The Bhāṣya further specifies
+that the Teacher is actually present face-to-face. The working witness has
+`śeṣa ākṣipate` in the verse; the translation reads `śeṣam` as the object
+of `ākṣipate`. The prose likewise prints `śeṣa ākṣipati`.
 
 ## 4. Grammar
 
@@ -51,14 +54,14 @@ jambū-dvīpe
 > Only in Jambūdvīpa, as a man, [does the bodhisattva project that karma].
 
 The phrase `saṃmukhaṃ buddhacetanaḥ` is compressed. The Bhāṣya expands it
-as the Teacher being present and volition having a Buddha as its object:
+as the Teacher being present and volition having a Buddha as its Support:
 
 ```text
 saṃmukhībhūte śāstari
     buddhālambanayaiva cetanayā
 ```
 
-`Cintāmayaṃ` qualifies the karma being projected; `śeṣam` is its remainder,
+`Cintāmayaṃ` qualifies the karma being projected; `śeṣam` names its remainder,
 and `kalpaśate` gives the period over which that remainder is projected.
 The Bhāṣya distinguishes this karma from both hearing-formed and
 meditation-formed action.
@@ -67,24 +70,24 @@ meditation-formed action.
 
 ### Literal Translation
 > Only in Jambūdvīpa, as a man, face-to-face with the Teacher and with
-> volition taking a Buddha as its object, does the bodhisattva project the
+> volition taking a Buddha as its Support, does the bodhisattva project the
 > reflection-formed remainder of that karma over one hundred kalpas.
 
 ### Bhāṣya-informed study translation
 
-> Only in Jambūdvīpa, as a man, face-to-face with the Teacher and with volition
-> taking a Buddha as its object, does the bodhisattva project the reflection-formed
-> remainder of that karma over one hundred kalpas.
+> Only in Jambūdvīpa, as a man, with the Teacher present face-to-face and
+> volition taking a Buddha as its Support, does the bodhisattva project that
+> reflection-formed karma; he projects its remainder over one hundred kalpas.
 
 ## 6. Philosophical Translation
 
-> Only in Jambūdvīpa, as a man, face-to-face with the Teacher and with volition taking a Buddha as its object, does the bodhisattva project the reflection-formed remainder of that karma over one hundred kalpas.
+> Only in Jambūdvīpa, as a man, with the Teacher present face-to-face and volition taking a Buddha as its Support, does the bodhisattva project that reflection-formed karma; he projects its remainder over one hundred kalpas.
 
 ## 7. Technical Vocabulary
 
 - **`Lakṣaṇa-vipāka karma`** — action whose maturation produces the marks;
   the kind of karma carried forward in this verse.
-- **`Buddhālambana-cetanā`** — volition taking a Buddha as its object. The
+- **`Buddhālambana-cetanā`** — volition taking a Buddha as its Support. The
   Bhāṣya specifies an actually present Teacher, not only a general aspiration
   toward future Buddhahood.
 - **`Saṃmukha`** — face-to-face; here the Teacher is present.
@@ -107,7 +110,7 @@ Mark-maturing karma:
     locus = Jambūdvīpa
     embodiment = male, as stated by the source
     condition = Teacher present face-to-face
-    volition's object = Buddha
+    volition's Support = Buddha
     mode = formed through reflection
     standard projection = remainder over one hundred kalpas
 
@@ -123,11 +126,17 @@ earlier teachers; their identities are not supplied in this passage.
 ## 9. Interpretive Note
 
 **Translation note.** The Jambūdvīpa rationale, male restriction, direct presence of the Teacher,
-the Buddha as volitional object, the contrast among modes of formation, the
+the Buddha as volitional Support, the contrast among modes of formation, the
 ninety-one-kalpa account, and the earlier teachers' additional claim are
-supplied by the Bhāṣya. The informed translation also included: The Bhāṣya says the karma is formed through reflection, neither through hearing nor through meditative cultivation. It adds that Śākyamuni's exceptionally ardent vigor removed nine kalpas from the standard period, so the projection was completed in ninety-one. It also reports that, according to earlier teachers, natural memory of former births accompanies the later career; four faults are avoided and two qualities obtained, though this passage does not identify them.
+supplied by the Bhāṣya. It says the karma is formed through reflection,
+neither through hearing nor through meditative cultivation. It adds that
+Śākyamuni's exceptionally ardent vigor removed nine kalpas from the standard
+period, so the projection was completed in ninety-one. According to earlier
+teachers, natural memory of former births accompanies the later career;
+four faults are avoided and two qualities obtained, though this passage does
+not identify them.
 
-Here *cetanā* is explicit, and its object is precisely specified: a Buddha.
+Here *cetanā* is explicit, and its Support is precisely specified: a Buddha.
 The Bhāṣya narrows the relation further by requiring the Teacher's actual
 face-to-face presence. This supports the user's interest in volition as an
 operative relation: the volition is not merely a private wish or a
@@ -146,16 +155,16 @@ before the next question about the merit of the marks.
 **Former Philosophical Translation.**
 > Mark-producing action is not generated by an isolated image of future
 > Buddhahood. The Bhāṣya describes a concrete relation: an actually present
-> Teacher is taken as the object of volition, and reflection forms the karma
+> Teacher is taken as the Support of volition, and reflection forms the karma
 > whose maturation will be the marks. The future is being practically
-> prepared through a present object and a specific mode of volition.
+> prepared through a present Support and a specific mode of volition.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: MarkMaturingKarma
 Class: ActualTeacherPresent
-Class: BuddhaAsObjectOfVolition
+Class: BuddhaAsSupportOfVolition
 Class: ReflectionFormedAction
 Class: HearingFormedAction
 Class: CultivationFormedAction
@@ -164,7 +173,7 @@ Class: ProjectionPeriod
 Rule: MarkKarmaProjection
   locus = Jambudvipa
   condition = ActualTeacherPresent
-  volitionObject = Buddha
+  volitionSupport = Buddha
   formationMode = ReflectionFormedAction
   period = OneHundredKalpas
 

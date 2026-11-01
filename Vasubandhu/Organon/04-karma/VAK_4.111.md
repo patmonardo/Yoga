@@ -122,9 +122,11 @@ criterion for discipline or further describe conduct in response to injury.
 
 ## 9. Interpretive Note
 
-**Translation note.** The bodily examples are the Bhāṣya's account of the perfection-test, not
-a behavioral recommendation. The source's qualification that passion
-remains is retained. The informed translation also included: The Bhāṣya specifies giving everything to everyone, extending from the eye to the marrow, without seeking exceptional personal advancement. It explains that, although passion has not yet been abandoned, not even the slightest anger arises during the bodily injury.
+**Translation note.** The Bhāṣya specifies giving everything to everyone,
+extending from the eye to the marrow, without seeking exceptional personal
+advancement. It explains that, although passion has not yet been abandoned,
+not even the slightest anger arises during the bodily injury. The verse's
+dual `kṣāntiśīlayoḥ` names both perfections under this single condition.
 
 The verse specifies compassion as the ground of giving and non-anger as
 the decisive condition shared by patience and discipline. It does not
@@ -132,8 +134,7 @@ name *cetanā* here; the motive is expressed through compassion and the
 absence of a desire for special advancement. These terms should not be
 silently collapsed into a technical identity.
 
-The bodily giving and injury examples belong to the source's account and
-are preserved without turning them into practical advice. The study covers
+The bodily giving and injury examples belong to the source's account. The study covers
 `[267|03]–[267|09]`; 4.112 begins at `[267|10]` with the perfection of
 vigor.
 

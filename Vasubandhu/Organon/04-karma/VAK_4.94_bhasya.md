@@ -5,9 +5,9 @@
 > apraheyasya te tv ekaṃ dve catvāri yathākramam /
 > ayogavihitaṃ kliṣṭaṃ vidhibhraṣṭaṃ ca kecana // 4.94 //
 
-> For action related to dharmas not to be abandoned, the three classes have one,
-> two, and four results, respectively. Some say that afflicted action and action
-> deviating from prescribed procedure are improperly constituted.
+> For action not to be abandoned, the three result classes have one, two, and
+> four results, respectively. Some call afflicted action improperly constituted;
+> others also include action that deviates from prescribed procedure.
 
 ## 2. Continuous Sanskrit
 
@@ -59,16 +59,15 @@ the treatises speak of action as improperly constituted, properly
 constituted, and neither properly nor improperly constituted. What are
 their characteristics?
 
-Some classify afflicted action and action deviating from prescribed
-procedure as improperly constituted. One view says afflicted action is
+One view says afflicted action is
 improperly constituted because it arises from non-methodical attention.
 Others also include action that deviates from the prescribed manner of
 going, standing, eating, and conducting oneself. Action performed otherwise
 is improperly constituted because its manner of prescription is unfitting.
 
-Other teachers say wholesome action is properly constituted and has not
-deviated from prescribed procedure. What is other than both classes is
-neither properly nor improperly constituted.
+Other teachers say that wholesome action is properly constituted and also
+include action not deviating from prescribed procedure. What is other than
+the properly and improperly constituted classes is neither.
 
 ## 4. The Non-abandonable-action Row
 
@@ -80,7 +79,9 @@ neither properly nor improperly constituted.
 
 The phrase `te ... yathākramam` carries forward the same target order used
 in 4.93. The source row completes the three-by-three matrix without
-collapsing result count into result membership.
+collapsing result count into result membership. Its result types describe
+the status classes; an individual action remains subject to the earlier
+action-specific restrictions.
 
 ## 5. The Repeated Order and Abbreviated Recitation
 
@@ -135,9 +136,9 @@ constituted because its manner of prescription is unfitting.
 
 **Wholesome-action account and the residual class**
 
-Other teachers say wholesome action is properly constituted and has not
-deviated from procedure. Action other than the two classes is neither
-properly nor improperly constituted. These reported criteria remain
+Other teachers say wholesome action is properly constituted and also include
+action not deviating from procedure. Action other than the properly and
+improperly constituted classes is neither. These reported criteria remain
 distinct: the source does not reduce ethical quality, attention, and
 procedural conformity to one test.
 

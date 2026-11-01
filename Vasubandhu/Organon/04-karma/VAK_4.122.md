@@ -133,8 +133,14 @@ of discipline listed by other teachers later in the Bhāṣya.
 
 ## 9. Interpretive Note
 
-**Translation note.** The two modes, the training qualification, the example of improper-time
-eating, and the four qualities are explained in the Bhāṣya. The informed translation also included: The two modes are disclosure, through which one refrains, and non-disclosing continuity, which is that abstention. The same twofold abstention applies to what is not misconduct by nature but has been prohibited by the Buddha, such as eating at an improper time; for one who has undertaken the training, acting contrary to that rule becomes misconduct. The four qualities are that discipline is unharmed by misconduct and its causes, rests on its counteragent, and is directed toward peace and nirvāṇa rather than a particular rebirth.
+**Translation note.** The Bhāṣya explains the two modes as disclosure,
+through which one refrains, and non-disclosing continuity, which is the
+abstention itself. The same twofold abstention applies to conduct
+prohibited by the Buddha, such as eating at an improper time, even if
+that conduct is not misconduct by nature. For one who has undertaken
+the training, violation becomes misconduct. The Bhāṣya then closes its
+brief account of discipline and explains the four qualities of purified
+discipline through the quoted first half of 4.123.
 
 The Bhāṣya closes the giving-based basis of meritorious action and turns
 to discipline. It treats abstention as an action-form with a manifest
@@ -151,7 +157,8 @@ Bhāṣya's four qualities of purified discipline.
 
 The source span is `[273|02]–[273|22]`. It includes the Bhāṣya's
 quotation of 4.123a, which supplies the four qualities. The witness has
-`dauḥśītlama`, `dauḥśītyena`, and `nirvāṇapariṇāmitavāt`; the readable
+`dauḥśītlama`, `dauḥśīlayaṃ`, `tamāsena`, `dauḥśītyena`, and
+`nirvāṇapariṇāmitavāt`; the readable
 forms in the paired study are local normalizations. The next study
 continues with the second half of 4.123 at `[273|23]`.
 

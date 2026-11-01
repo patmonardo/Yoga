@@ -28,7 +28,9 @@ naivaśaikṣānāśaikṣāḥ pañca phalāni /
 
 The source unit is `[257|11]–[257|16]`. It supplies the continuation left
 open in 4.91, then states the result profile for action belonging to neither
-trainee nor beyond-training status.
+trainee nor beyond-training status. The running witness joins
+`ekamadhipatiphalam`, `aśaikṣāstrīṇi`, and `śaikṣāśaikṣābhyāmanyasya` by
+sandhi; the continuous text separates these without changing their sense.
 
 ## 3. Continuous Translation
 
@@ -68,8 +70,9 @@ activity-produced and dominant results.
 The phrase `aśaikṣā apy evam` carries the two-result profile from trainee
 dharmas to beyond-training dharmas. The final clause assigns all five
 results to neither-status dharmas. It states the full admissible result-set
-for this classification, not that every individual action manifests five
-separate results.
+across this classification. It does not say that every individual action
+manifests five separate results; the restrictions on particular actions in
+4.87–4.89 still apply.
 
 ## 6. Completed Directed Matrix
 

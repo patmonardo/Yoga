@@ -5,10 +5,10 @@
 > upakāriguṇakṣetranirākṛtivipādanāt /
 > vyañjanāntarito 'pi syān mātā yacchoṇitodbhavaḥ // 4.103 //
 
-> Because of abandoning a benefactor and destroying a field of qualities, an
-> immediate-retribution action is incurred. Even if sexual characteristics have
-> changed, parentage may remain: the mother is she from whose blood the living
-> being arose.
+> These are *ānantarya* actions because they repudiate benefactors or destroy
+> a field of qualities. Even when a parent's sexual characteristic has changed,
+> the parental relation can remain: the mother is the one from whose blood the
+> living being arose.
 
 ## 2. Continuous Sanskrit
 
@@ -59,7 +59,7 @@ anarhatsaṃjñayāpy arhadghāte bhavaty ānantaryam,
 "ahaṃ hanmi" ity āśrayāvadhāraṇāt.
 
 yaḥ pitaram arhantaṃ hiṃsyāt tasyāpy ekam eva syād ānantaryam,
-āśrayikatvāt.
+āśrayaikatvāt.
 idam avadānaṃ kathaṃ nīyate:
 "gaccha śikhaṇḍinaṃ brūhi dve ānantarye bhavatā kṛte:
 yac ca pitā jīvitād vyaparopito yac cārhan" iti?
@@ -81,10 +81,13 @@ na hi tena tatra prayogaḥ kṛtaḥ.
 ```
 
 The witness at `[262|21]` reads `upakāriyuṇakṣetranirākṛtivipādanāt`;
-the research reading `upakāriguṇakṣetra` is printed above. The witness
-also compresses the quoted examples and the closing discussion. Word
-division and punctuation are editorial; the examples below are rendered
-without adding detail beyond their argumentative role.
+the research reading `upakāriguṇakṣetra` is printed above. The witness also
+has `jīvitādvacyaparopayen` at `[263|02]`, `kuṭuṣṭacitta` at `[263|18–19]`,
+and `tāḍanābhitrāya` at `[263|21]`; the continuous text normalizes these as
+`jīvitād vyaparopayen`, `duṣṭacitta`, and `tāḍanābhiprāya`. It retains
+the witness's `āśrayaikatvāt` at `[263|15]`. Word division and punctuation
+are editorial. The witness's `dhāvakasya` in the second illustrative case
+remains unclear.
 
 ## 3. Continuous Translation
 
@@ -97,11 +100,13 @@ are they benefactors? Because this embodied existence arose through them.
 What is repudiation of them? Abandonment. Killing an arhat has the
 immediate-result classification because the arhat is a field of qualities.
 
-If a mother's or father's sexual characteristic has changed, one
-tradition states that the parental relation remains. The cited reciprocal
-cases concern a person classified as mother whose characteristic has
-changed and a person classified as father whose characteristic has
-changed.
+If a mother's or father's sexual characteristic has changed, one tradition
+states that the parental relation remains. Thus the text asks: could someone
+kill a man who is neither his father nor an arhat and still incur the fault
+of an *ānantarya* action? Yes, if his mother's sexual characteristic had
+changed. Could someone kill a woman who is neither his mother nor an arhat
+woman and still incur that fault? Yes, if his father's sexual characteristic
+had changed.
 
 Suppose the early embryonic material from one woman was received by
 another woman's womb. Which is the mother for the immediate-result
@@ -112,7 +117,9 @@ all practical contexts, for she bore, nourished, and reared the child.
 If an action directed at the mother instead affects another person, the
 immediate-result classification does not follow. Nor does it follow when
 the action is directed at someone other than the mother but the mother
-becomes the actual victim. The Bhāṣya gives examples of these mismatches.
+becomes the actual victim. The Bhāṣya adduces a mother concealed beneath a
+bed and a father killed by a son acting against a mosquito as examples;
+the witness's wording of the latter example is partly uncertain.
 
 When one action affects the mother and another person, two
 non-disclosing continuities occur. The manifestation is classified as
@@ -121,10 +128,10 @@ Bhadanta Ghoṣaka holds that the manifestation also divides into two
 because it is composed of atomic constituents.
 
 Even if the agent does not recognize the victim as an arhat, killing an
-arhat receives the immediate-result classification because the intended
-individual is fixed in the resolve, “I kill this person.” If the father
+arhat receives the immediate-result classification because the Basis—the
+particular person—is fixed in the resolve, “I kill [him].” If the father
 is also an arhat, the Bhāṣya counts one immediate-result action because
-there is one support. A cited account speaks of two; the explanation is
+there is one Basis. A cited account speaks of two; the explanation is
 that there are two grounds, or that the action is described in two ways.
 
 Does producing blood from the Tathāgata necessarily receive the
@@ -146,7 +153,7 @@ The Bhāṣya keeps several determinations distinct:
 | What of the other woman? | Her roles of bearing, nourishing, and rearing are expressly retained. |
 | Does intended target matter? | Yes; when intended parent and actual victim differ, the special classification does not follow. |
 | Does recognition of arhat status matter? | Not if the intended individual is fixed and is in fact an arhat. |
-| One father who is also an arhat? | One immediate-result action because there is one support; the cited double description is explained by two grounds or expressions. |
+| One father who is also an arhat? | One immediate-result action because there is one Basis; the cited double description is explained by two grounds or expressions. |
 | One action, two victims? | The Bhāṣya counts two non-disclosing continuities; Ghoṣaka disputes the count of manifestations. |
 | Tathāgata case? | Intention to kill is required; intention only to strike does not suffice. |
 

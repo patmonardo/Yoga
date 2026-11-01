@@ -29,7 +29,7 @@ them, in order, with four features of the result.
 | `ādi` | indeclinable compound member | and the other manners supplied by the Bhāṣya |
 | `dadāti` | third-person singular present active of `√dā` | gives |
 | `ataḥ` | causal adverb | from this, consequently |
-| `satkāra` | nominative masculine singular | receipt of honor |
+| `satkāra` | compound member | honor received as a result |
 | `udāra-ruci` | compound result expression | taste for excellent enjoyments |
 | `kāla` | compound member | proper time |
 | `an-ācchedya-lābhitā` | abstract result expression | acquisition not liable to seizure or destruction |
@@ -83,14 +83,15 @@ them. It likewise expands the result-complex into four distinct outcomes.
 
 ### Bhāṣya-informed study translation
 
-> A giver distinguished by faith and related qualities gives respectfully and in
-> other specified ways. Consequently, there is receipt of honor, taste for excellent
-> enjoyments, timely acquisition, and acquisition not liable to seizure or
+> A giver distinguished by faith and related qualities gives respectfully,
+> with one's own hand, at the proper time, and without harming others. In
+> that order the results are receipt of honor, a taste for excellent
+> enjoyments, timely acquisition, and possessions not liable to seizure or
 > destruction.
 
 ## 6. Philosophical Translation
 
-> A giver distinguished by faith and related qualities gives respectfully and in other specified ways. Consequently, there is receipt of honor, taste for excellent enjoyments, timely acquisition, and acquisition not liable to seizure or destruction.
+> A giver distinguished by faith and related qualities gives respectfully, with one's own hand, at the proper time, and without harming others. In that order the results are receipt of honor, a taste for excellent enjoyments, timely acquisition, and possessions not liable to seizure or destruction.
 
 ## 7. Technical Vocabulary
 
@@ -138,8 +139,12 @@ property security.
 
 ## 9. Interpretive Note
 
-**Translation note.** The four manners, their ordered correspondence, and the explanatory
-examples of seizure and destruction are supplied by the Bhāṣya. The informed translation also included: The Bhāṣya specifies the manners as respectful giving, giving with one's own hand, giving at the proper time, and giving without harming others. It pairs these, respectively, with receiving honor, developing a taste for excellent enjoyments, acquiring resources at the proper time, and acquiring resources that others do not take away and that are not destroyed by fire or similar causes.
+**Translation note.** The Bhāṣya supplies the four manners and their
+ordered correspondence with four results. It further explains the last
+result as possessions that others do not take away and that fire or
+similar causes do not destroy. The working witness's `ācchādyante` is
+uncertain; the translation of seizure follows `anācchedya` and the
+proposed reading `ācchidyante`.
 
 VAK 4.114 named the giver, the thing given, and the recipient field as
 distinct determinants of giving's further distinction. VAK 4.115 isolates

@@ -105,6 +105,11 @@ disconnection, activity-produced, and dominant results respectively.
 
 **Rows specified in this verse**
 
+The cells list result types available across each action/result-status class.
+An individual action must also satisfy the restrictions established in
+4.87–4.89; the five-type neither/neither cell is not a claim that every such
+action has all five types.
+
 | Action status ↓ / Result status → | Trainee | Beyond training | Neither |
 |---|---|---|---|
 | beyond training | `A` | `C, P, A` | `P, A` |
@@ -128,8 +133,8 @@ the set.
 **Translation note.** The Bhāṣya-based expansion formerly embedded in the study translation is retained here: For beyond-training action, trainee dharmas stand as one result: the dominant result. Dharmas belonging to one beyond training stand as three results, with maturation and disconnection excluded; the corresponding, activity-produced, and dominant results remain. Dharmas belonging to neither trainee nor one beyond training stand as two results: activity-produced and dominant. For action belonging to neither trainee nor one beyond training, trainee dharmas stand as two results: activity-produced and dominant. Dharmas belonging to one beyond training stand in the same way. Dharmas belonging to neither status stand as all five results: maturation, corresponding, disconnection, activity-produced, and dominant.
 
 The completed matrix makes action-status and result-status jointly
-determinative. The Bhāṣya gives an exact set of result-relations for each
-ordered pair; a count is only a compressed statement of that set. In the
+determinative. The Bhāṣya gives the result-types available across each
+ordered class-pair; a count is only a compressed statement of that set. In the
 Kośa's wider cognitive movement, Discriminative Cognition joins and governs
 Perception and Conception; this matrix articulates practical causal
 differentiation through action and result-status. Its five-result
@@ -180,21 +185,22 @@ ObjectProperty: hasResultTrainingStatus
   Domain: ResultDharma
 
 Rule: BeyondTrainingToTrainee
-  permittedResultTypes = {DominantResult}
+  classAvailableResultTypes = {DominantResult}
 Rule: BeyondTrainingToBeyondTraining
-  permittedResultTypes = {CorrespondingResult,
+  classAvailableResultTypes = {CorrespondingResult,
                           ActivityProducedResult, DominantResult}
 Rule: BeyondTrainingToNeither
-  permittedResultTypes = {ActivityProducedResult, DominantResult}
+  classAvailableResultTypes = {ActivityProducedResult, DominantResult}
 Rule: NeitherToTrainee
-  permittedResultTypes = {ActivityProducedResult, DominantResult}
+  classAvailableResultTypes = {ActivityProducedResult, DominantResult}
 Rule: NeitherToBeyondTraining
-  permittedResultTypes = {ActivityProducedResult, DominantResult}
+  classAvailableResultTypes = {ActivityProducedResult, DominantResult}
 Rule: NeitherToNeither
-  permittedResultTypes = {MaturationResult, CorrespondingResult,
+  classAvailableResultTypes = {MaturationResult, CorrespondingResult,
                           DisconnectionResult, ActivityProducedResult,
                           DominantResult}
 
 Constraint: ResultCountsAreDerivedFromResultTypeMembership
 Constraint: ReversingTrainingStatusDoesNotPreserveResultMembership
+Constraint: IndividualActionResultTypesMustAlsoSatisfyPriorActionRules
 ```

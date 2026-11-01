@@ -34,8 +34,12 @@ nikāyāntare gāthāṃ paṭhanti:
 ```
 
 The source span is `[274|05]–[274|13]`. The witness reads `sutra` at
-`[274|07]`, normalized here as `sūtra`. The next topic begins at
-`[274|14]`.
+`[274|07]`, normalized here as `sūtra`. Its `prasavantī` before `iti`
+resolves to `prasavanti` when the quotation is separated from `iti`.
+The closing quotation has `modata` at `[274|13]`, regularized as
+`modate`; the same kalpa line has `modate` in the related
+[Sanskrit sūtra](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/vinv172u.htm).
+The next topic begins at `[274|14]`.
 
 ## 3. Continuous Translation
 
@@ -87,4 +91,4 @@ here.
 
 This study covers `[274|05]–[274|13]` and stops before the material-giving
 discussion at `[274|14]`. It preserves the Vaibhāṣika and former-teacher
-accounts separately.
+accounts separately and records the sandhi resolution and gāthā repair.

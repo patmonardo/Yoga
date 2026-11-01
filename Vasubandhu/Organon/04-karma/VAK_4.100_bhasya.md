@@ -5,9 +5,9 @@
 > bhikṣur dṛkcarito vṛttī bhinatty anyatra bāliśān /
 > śāstṛmārgāntarakṣāntau bhinno na vivasaty asau // 4.100 //
 
-> A monk governed by view and established in conduct divides the immature
-> elsewhere. The Saṅgha is divided upon acceptance of another teacher and
-> path; that division does not last through the night.
+> A monk governed by view and established in conduct divides ordinary persons
+> away from the Blessed One's presence. The Saṅgha is divided when they accept
+> another teacher and another path; it is reunited before that night passes.
 
 ## 2. Continuous Sanskrit
 
@@ -52,10 +52,11 @@ aparyuṣita eva hi saṃghabhede saṃgho 'vaśyaṃ pratisaṃdhīyate.
 ```
 
 The witness at `[261|09]` reads `bhikṣurdu kvacarito vṛttī`, damaged around
-`dṛkcarito`; the anchor follows the normalized verse form. Word division
-and punctuation in the continuous Sanskrit are editorial. The prose
-reading `ṛtastho` is retained without resolving its precise force beyond
-the contrast with `bhinnavṛtta`.
+`dṛkcarito`; `vṛttī` itself is legible. The Bhāṣya's `dṛṣṭicarita` supports
+the normalized verse form. The opening question's `bhanatti` is normalized
+to `bhinatti`. Word division and punctuation in the continuous Sanskrit are
+editorial. The prose reading `ṛtastho` is retained without resolving its
+precise force beyond the contrast with `bhinnavṛtta`.
 
 ## 3. Continuous Translation
 
@@ -78,8 +79,8 @@ another path. When they accept as teacher someone other than the Tathāgata
 and accept a path other than the one he taught, the Saṅgha is to be said to
 be divided in this respect.
 
-How long does it remain divided? It does not last through that same night.
-For before the night has passed, the Saṅgha is necessarily reunited.
+How long does the Saṅgha remain divided? It does not spend that same night
+divided. Before the night has passed, the Saṅgha is necessarily reunited.
 
 ## 4. The Conditions of Division
 
@@ -118,4 +119,5 @@ The complete unit `[261|07–08]–[261|23]` is included: the question of who
 divides the Saṅgha, the agent and conduct conditions, location, recipients,
 acceptance of another teacher and path, and the duration limit. It stops
 before the identification of this division as `cakrabheda` at `[261|24]`.
-The damaged witness reading around `vṛttī` is retained as an uncertainty.
+The damaged witness reading around `dṛkcarito` is marked, while `vṛttī`
+remains legible in the witness.

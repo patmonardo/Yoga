@@ -5,10 +5,10 @@
 > triṣu dvīpeṣv ānantaryaṃ śaṇḍhādīnāṃ tu neṣyate /
 > alpopakārālajjitvāc cheṣe gatiṣu pañcasu // 4.97 //
 
-> Actions of immediate retribution are admitted in the three continents, but not
-> for persons classified as *śaṇḍha* and related cases, because of lesser
-> beneficence and lack of inhibition. The remaining two obstructions occur in
-> the five destinies.
+> *Ānantarya* actions are admitted in the three continents, but not for
+> persons classified as *śaṇḍha* and related cases, because of lesser
+> parental beneficence and lack of inhibiting shame. The remaining two
+> obstructions occur in the five destinies.
 
 ## 2. Continuous Sanskrit
 
@@ -47,27 +47,29 @@ manuṣyeṣu vipākāvaraṇam: kauravāḥ;
 deveṣv asaṃjñisattvāḥ.
 ```
 
-The complete unit is `[259|25]–[260|12–13]`. The witness reads
-`tetṣvapi`, normalized here as `teṣv api`. Spacing and punctuation are
+The complete unit is `[259|25]–[260|12–13]`. The witness's `tetṣvapi` is
+normalized to `teṣv api`, `śaṇḍā dīnāṃ` to `śaṇḍhādīnāṃ`, and
+`tiryavapretānām` to `tiryakpretānām`. Spacing and punctuation are
 editorial. The source's historical classifications are preserved as source
-terms, without mapping them to current identities.
+terms.
 
 ## 3. Continuous Translation
 
 Among these obstructions, where is each to be understood? First, the
 *ānantarya* actions are admitted in the three continents—not in Uttarakuru
-or the other destinies, still less in another Principle. Even in those
+or the other destinies, still less in another realm. Even in those
 continents, they are admitted only for women and men.
 
 They are not admitted for persons classified as *śaṇḍha* and related cases.
 Why? The reason previously given concerning the absence of non-restraint is
 also cited. Further, the verse says “because of lesser beneficence and
-absence of inhibition.” These apply respectively to the parents and to
+absence of shame.” These apply respectively to the parents and to
 those persons. Their parents are said to have rendered comparatively little
-benefit because of the persons' bodily condition and because parental
-affection is slight. The text says that the persons also lack strong
-*apatrāpya* in relation to their parents, such that killing them would
-count as *ānantarya*. For the same reason, it is not accepted for animals
+benefit because of their role in producing what the source calls an impaired
+bodily constitution and because parental affection is slight. The text says
+that the persons also lack a sense of shame (*apatrāpya*) before their
+parents strong enough for killing them to count as *ānantarya*. For the same
+reason, it is not accepted for animals
 and pretas.
 
 Bhadanta says that it might occur among those of sharp intelligence, as in

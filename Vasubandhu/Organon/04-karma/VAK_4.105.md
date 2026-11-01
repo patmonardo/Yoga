@@ -72,9 +72,9 @@ names a different maximum for the fruit of disconnection.
 
 ### Bhāṣya-informed study translation
 
-> In Saṅgha division, false speech is regarded as the most culpable. Among
-> wholesome actions in the world, volition at the summit of becoming has the
-> greatest maturation-result.
+> Among *ānantarya* actions, the false speech that divides the Saṅgha is held
+> most culpable. Among wholesome actions in the world, volition at the summit
+> of becoming has the greatest maturation-result.
 
 ## 6. Philosophical Translation
 
@@ -84,6 +84,9 @@ names a different maximum for the fruit of disconnection.
 
 - **`Mṛṣāvāda`** — false speech; here the speech occasioning Saṅgha
   division.
+- **`Manodaṇḍa`** — mental rod; the Bhāṣya cites its ranking among the
+  three rods, then resolves it by restricting the comparison to the three
+  actions.
 - **`Mahā-avadya`** — great culpability. The Bhāṣya specifies the
   comparison class before applying the superlative.
 - **`Cetanā`** — volition. The verse names it directly in
@@ -117,13 +120,14 @@ With respect to disconnection-result:
         = exhaustion of all fetters
 ```
 
-Saṅgha division is especially culpable because it obstructs entry into
+Saṅgha-dividing false speech is especially culpable because its speaker
+knowingly reverses Dharma and non-Dharma, and the division obstructs entry into
 certainty, fruit-attainment, dispassion, Influx-exhaustion, meditation,
 study, recitation, reflection, and action for many beings. The Bhāṣya
 also states that its maturation occurs in Avīci for one kalpa.
 
 The Bhāṣya's other maximum-fault statements are likewise class-relative:
-Saṅgha division among immediate-result actions, mental action among the
+Saṅgha division among *ānantarya* actions, the mental rod among the
 three actions, and wrong view among views. Its alternative explanations
 refer to maturation's extent, harm to many, and severing wholesome roots;
 the mapping is kept as the text presents it.
@@ -159,6 +163,7 @@ hell, at `[264|22]`.
 > not thereby the greatest with respect to liberation. The volition of
 > diamond-like concentration is greatest on the distinct axis of
 > disconnection-result.
+
 ## 10. OWL++ Seed
 
 ```text

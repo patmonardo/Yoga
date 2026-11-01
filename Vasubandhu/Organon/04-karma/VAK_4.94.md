@@ -56,13 +56,12 @@ abandoned through cultivation, and dharmas not to be abandoned.
 
 ```text
 ayogavihitam [karma]
-    kliṣṭam
-    vidhibhraṣṭam ca
-    kecana [manyante]
+    kliṣṭam [iti eke]
+    vidhibhraṣṭam ca kecana [manyante]
 ```
 
-> Some include afflicted action and action deviating from prescribed
-> procedure under the classification “improperly constituted.”
+> One view calls afflicted action improperly constituted; some also include
+> action that deviates from prescribed procedure.
 
 The Bhāṣya distinguishes the explanations offered by different teachers;
 they should not be collapsed into one unqualified definition.
@@ -71,18 +70,18 @@ they should not be collapsed into one unqualified definition.
 
 ### Literal Translation
 > For action not to be abandoned, those same result classes have respectively
-> one, two, and four results. Some classify afflicted action, and also action
-> deviating from prescribed procedure, as improperly constituted.
+> one, two, and four results. Improperly constituted action is afflicted;
+> some also [include] action that has deviated from prescribed procedure.
 
 ### Bhāṣya-informed study translation
 
-> For action related to dharmas not to be abandoned, the three classes have one,
-> two, and four results, respectively. Some say that afflicted action and action
-> deviating from prescribed procedure are improperly constituted.
+> For action not to be abandoned, the three result classes have one, two, and
+> four results, respectively. Some call afflicted action improperly constituted;
+> others also include action that deviates from prescribed procedure.
 
 ## 6. Philosophical Translation
 
-> For action not to be abandoned, those same result classes have respectively one, two, and four results. Some classify afflicted action, and also action deviating from prescribed procedure, as improperly constituted.
+> For action not to be abandoned, those same result classes have respectively one, two, and four results. Improperly constituted action is afflicted; some also include action that has deviated from prescribed procedure.
 
 ## 7. Technical Vocabulary
 
@@ -109,6 +108,9 @@ they should not be collapsed into one unqualified definition.
 Let `M`, `C`, `D`, `P`, and `A` name maturation, corresponding,
 disconnection, activity-produced, and dominant results respectively.
 
+The cells list result types available across each status class. The
+restrictions on an individual action from 4.87–4.89 still apply.
+
 **Final abandonment-status row**
 
 | Action status ↓ / Result status → | Seeing-abandonable | Cultivation-abandonable | Not to be abandoned |
@@ -129,7 +131,7 @@ matrix.
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Action not to be abandoned has, in order, one, two, and four results when related to dharmas to be abandoned through seeing, to be abandoned through cultivation, and not to be abandoned: the dominant result; the activity-produced and dominant results; and the corresponding, disconnection, activity-produced, and dominant results. The Bhāṣya explains that the repeated “respectively” preserves the order through its abbreviated middle statement. The inquiry then distinguishes action properly constituted, improperly constituted, and neither. One view classifies afflicted action as improperly constituted because it arises from non-methodical attention; another also includes action that departs from the appropriate procedure. Other teachers identify wholesome action as properly constituted and not deviating from procedure, with action outside these classes neither properly nor improperly constituted.
+**Translation note.** The Bhāṣya-based expansion formerly embedded in the study translation is retained here: Action not to be abandoned has, in order, one, two, and four results when related to dharmas to be abandoned through seeing, to be abandoned through cultivation, and not to be abandoned: the dominant result; the activity-produced and dominant results; and the corresponding, disconnection, activity-produced, and dominant results. The Bhāṣya explains that the repeated “respectively” preserves the order through its abbreviated middle statement. The inquiry then distinguishes action properly constituted, improperly constituted, and neither. One view classifies afflicted action as improperly constituted because it arises from non-methodical attention; another also includes action that departs from the appropriate procedure. Other teachers classify wholesome action, and action not deviating from procedure, as properly constituted; action outside the properly and improperly constituted classes is neither.
 
 The completed matrix does not make “not to be abandoned” synonymous with
 absence of causal operation: its self-status cell retains four result
@@ -160,11 +162,11 @@ Class: CultivationAbandonable
 Class: NonAbandonable
 
 Rule: NonAbandonableToSeeingAbandonable
-  permittedResultTypes = {DominantResult}
+  classAvailableResultTypes = {DominantResult}
 Rule: NonAbandonableToCultivationAbandonable
-  permittedResultTypes = {ActivityProducedResult, DominantResult}
+  classAvailableResultTypes = {ActivityProducedResult, DominantResult}
 Rule: NonAbandonableToNonAbandonable
-  permittedResultTypes = {CorrespondingResult, DisconnectionResult,
+  classAvailableResultTypes = {CorrespondingResult, DisconnectionResult,
                           ActivityProducedResult, DominantResult}
 
 Class: ActionConstitutionStatus
@@ -191,4 +193,5 @@ Rule: ReportedWholesomeActionAccount
 
 Constraint: PreserveReportedViewAttribution
 Constraint: DoNotCollapseAfflictedOriginAndProceduralDeviation
+Constraint: IndividualActionResultTypesMustAlsoSatisfyPriorActionRules
 ```

@@ -5,12 +5,12 @@
 > sāvadyā nivṛtā hīnāḥ kliṣṭā dharmāḥ śubhāmalāḥ /
 > praṇītāḥ saṃskṛtaśubhāḥ sevyāḥ mokṣas tv anuttaraḥ // 4.127 //
 
-> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,” “stainless,”
-> and “excellent” are designations for Dharmas. Conditioned wholesome Dharmas are to
+> Afflicted Dharmas are faulty, obscured, and inferior. Wholesome Dharmas and
+> stainless Dharmas are excellent. Conditioned wholesome Dharmas are to
 > be cultivated; liberation, however, is unsurpassed.
 
-The Bhāṣya explicitly glosses `praṇīta` (“excellent”) as a designation
-for wholesome Dharmas without influx.
+The Bhāṣya glosses `praṇīta` (“excellent”) for both wholesome Dharmas
+and Dharmas without influx.
 
 ## 2. Continuous Sanskrit
 
@@ -48,27 +48,28 @@ pañcamaṃ kośasthānam.
 ```
 
 The verse and commentary occupy `[275|07]–[275|19]`; the colophon is at
-`[275|20–21]`. The witness reads `kusalasaṃskṛtānāṃ`; it is normalized
-here as `kuśalasaṃskṛtānāṃ`.
+`[275|20–21]`. The witness reads `kusalasaṃskṛtānāṃ`, normalized here
+as `kuśalasaṃskṛtānāṃ`, and `karmanirddeśo` in the colophon, normalized
+as `karmanirdeśo`.
 
 ## 3. Continuous Translation
 
-“Now some alternative designations for Dharmas are stated:
+Now some alternative designations for Dharmas are stated:
 
-‘Faulty, obscured, inferior—afflicted Dharmas.’
+“Faulty, obscured, inferior—afflicted Dharmas.”
 
 Faulty, obscured, and inferior are alternative designations for afflicted
 Dharmas.
 
-‘Auspicious, stainless; excellent.’
+“Wholesome Dharmas and stainless Dharmas are excellent.”
 
-‘Excellent’ is an alternative designation for wholesome Dharmas without
-influx. From inferior and excellent, it follows that the others are
-intermediate.
+“Excellent” is an alternative designation for wholesome Dharmas and
+Dharmas without influx. From inferior and excellent, it follows that the
+others are intermediate.
 
-‘Conditioned wholesome Dharmas are to be practiced.’
+“Conditioned wholesome Dharmas are to be practiced.”
 
-‘To be practiced’ is an alternative designation for conditioned wholesome
+“To be practiced” is an alternative designation for conditioned wholesome
 Dharmas; it follows that the remainder are not to be practiced.
 
 Why is the unconditioned not to be practiced? Because it cannot be
@@ -77,22 +78,22 @@ undertaken for the sake of fruit.
 
 All other Dharmas have something higher than themselves.
 
-‘Liberation, however, is unsurpassed.’
+“Liberation, however, is unsurpassed.”
 
 For nothing is more excellent than nirvāṇa. It is superior to all because
 it is wholesome and permanent.
 
 Thus, in the *Abhidharmakośabhāṣya*, the fourth Kośa chapter, named
-Karmanirdeśa, is complete. The fifth Kośa chapter [begins].”
+Karmanirdeśa, is complete. The fifth Kośa chapter [begins].
 
 ## 4. Interpretation
 
 The Bhāṣya's opening word, `paryāya`, controls the first movement: the
 verse organizes alternative designations for Dharma classes rather than
 introducing a fresh inventory. Faulty, obscured, and inferior are
-predicated of afflicted Dharmas. The Bhāṣya explicitly identifies
-`praṇīta` (“excellent”) with wholesome Dharmas without influx and infers
-an intermediate rank between inferior and excellent.
+predicated of afflicted Dharmas. The Bhāṣya explicitly applies
+`praṇīta` (“excellent”) to wholesome Dharmas and Dharmas without influx
+and infers an intermediate rank between inferior and excellent.
 
 The next movement changes the question from evaluation to practice.
 Conditioned wholesome Dharmas are to be practiced; the unconditioned is
@@ -109,11 +110,11 @@ conditioned product within that scheme.
 
 ## 5. Review Status
 
-The verse's `śubhāmalāḥ` and `praṇītāḥ` are retained as separate
-expressions. The explicit Bhāṣya gloss ties `praṇīta` to wholesome
-Dharmas without influx; the translation does not silently expand that
-gloss into a universal equation between all positive qualities,
-conditioned wholesomeness, and liberation.
+The verse's `śubhāmalāḥ` and `praṇītāḥ` are read as a predication:
+wholesome Dharmas and stainless Dharmas are excellent. The Bhāṣya's
+`kuśalānāsravāṇāṃ` specifies the two corresponding Dharma classes.
+The separate `sevyā` clause restricts what is to be practiced to
+conditioned wholesome Dharmas.
 
 The chapter colophon at `[275|20–21]` confirms that this is the closing
 unit of the fourth Kośa chapter, Karmanirdeśa. It is included as

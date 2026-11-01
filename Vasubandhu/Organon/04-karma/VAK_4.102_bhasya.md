@@ -5,9 +5,10 @@
 > ādāv ante 'rbudāt pūrvaṃ yugāc coparate munau /
 > sīmāyāṃ cāpy abaddhāyāṃ cakrabhedo na jāyate // 4.102 //
 
-> Wheel-division does not arise at the beginning or end, before the *arbuda*,
-> before the pair [of foremost disciples], after the Sage has passed away, or
-> while the boundary is unbound.
+> Division of the Dharma Chakra does not arise when the Wheel has just begun
+> to turn, at the Teacher's parinirvāṇa, before defects of discipline and view
+> appear, before the foremost pair of disciples appears, after the Sage has
+> passed away, or before a common boundary is established.
 
 ## 2. Continuous Sanskrit
 
@@ -55,8 +56,10 @@ Even in the middle period, division does not occur before the `arbuda`,
 until the defects of discipline and view have arisen in the Teaching.
 
 Nor does it occur before the pair, until the foremost pair of disciples
-has appeared. The phrase `bhinnanyāyaparivāsāt` is difficult; the
-commentary also says that reconciliation is to be effected through them.
+has appeared: because of residence under a divergent rule or procedure
+(`bhinnanyāyaparivāsāt`, provisional), and because reconciliation must be
+effected through that pair. The exact force of the first reason remains
+uncertain.
 
 After the Sage—the Teacher—has passed away and attained parinirvāṇa, it
 does not occur, because there is no rival.
@@ -74,7 +77,7 @@ Chakra, because its occurrence depends on action.
 | Exclusion | Bhāṣya's explanation |
 |---|---|
 | At the beginning | The Dharma Chakra has only recently begun to turn. |
-| At the end | The Blessed One is at parinirvāṇa; the Saṅgha is one in tenor. |
+| At the end | The Blessed One is at the time of parinirvāṇa; the Saṅgha is one in tenor. |
 | Before `arbuda` | Defects of discipline and view have not yet arisen in the Teaching. |
 | Before the foremost pair | The foremost pair of disciples has not yet appeared; the exact force of the related compound remains uncertain. |
 | After the Sage has passed away | There is no rival to the living Teacher. |

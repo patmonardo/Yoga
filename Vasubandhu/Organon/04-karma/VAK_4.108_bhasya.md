@@ -6,9 +6,9 @@
 > sugatiḥ kulajo 'vyakṣaḥ pumān jātismaro 'nivṛt // 4.108 //
 
 > From what point onward is one called a bodhisattva? From the time one undertakes
-> action whose maturation produces the marks. Thereafter: a favorable rebirth
-> destination, birth in an eminent family, unimpaired Faculties, male embodiment,
-> memory of former births, and non-retrogression.
+> action whose maturation produces the marks. Thereafter one has a favorable
+> rebirth destination, is born in an eminent family, has unimpaired Faculties,
+> is male, remembers former births, and does not turn back.
 
 This answers the preceding question about killing a bodhisattva established
 in certainty. The Bhāṣya gives a technical threshold for that designation;
@@ -69,22 +69,24 @@ or humans. In such a favorable destination, one is born in a kṣatriya,
 brahmin, or wealthy householder family; the Bhāṣya says that no other
 family is considered eminent here. One is `avyakṣa`: the commentary first
 explains the word through defective faculties, then glosses it as having
-unimpaired faculties. One is male, not female or another bodily category
-in the Bhāṣya's classification.
+unimpaired faculties. One is male, not female, much less one in the Bhāṣya's
+`śaṇḍha` category or a similar category.
 
-One remembers former births. One is `anivṛt`, non-retrogressing: suffering
-in all its forms and opposition from beings do not wear one down in working
-for their welfare.
+One remembers former births. A `nivṛt` is one who turns back in every birth;
+`anivṛt` negates this, meaning one who does not turn back. Suffering in all
+its forms and opposition from beings do not wear one down in working for
+their welfare.
 
 The Bhāṣya says that such bodhisattvas are described in the world as an
 “unbought slave.” Though they have attained exceptional distinction, they
-place themselves among beings without conceit, through dependence on
-compassion without interested return. They endure every affront and bear
-every hardship on behalf of beings.
+are bound by unconditional compassion. Without conceit,
+they place themselves among all beings like a child of a Caṇḍāla, in the
+Bhāṣya's social comparison. They endure every affront and bear every hardship
+on behalf of beings.
 
-The “unbought slave” and social-status language is the Bhāṣya's historical
-imagery. Its practical explanation is endurance in the work for beings'
-welfare, not a general approval of slavery or inherited rank.
+The “unbought slave” and Caṇḍāla-child comparison are the Bhāṣya's
+historical social imagery. Its practical explanation is endurance in the
+work for beings' welfare.
 
 ## 4. Threshold and Recurring Predicates
 

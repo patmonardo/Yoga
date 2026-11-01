@@ -59,19 +59,19 @@ maturation.”
 ## 5. Translation
 
 ### Literal Translation
-> The analogues of the immediate-result actions; destruction of a stūpa
-> is the fifth. Karma is a powerful obstruction at the attainments of
-> acceptance, non-returnership, and arhatship.
+> These are analogous to *ānantarya* actions; destruction of a stūpa is
+> the fifth. At the attainments of acceptance, non-returnership, and
+> arhatship, action produces a strong obstruction.
 
 ### Bhāṣya-informed study translation
 
-> The analogues of the immediate-result actions; destruction of a stūpa is the
-> fifth. Karma is a powerful obstruction at the attainments of acceptance,
-> non-returnership, and arhatship.
+> These actions are analogous to *ānantarya*; destruction of a stūpa is the
+> fifth. At the attainments of acceptance, the fruit of non-returnership,
+> and arhatship, maturation-bearing action becomes especially obstructive.
 
 ## 6. Philosophical Translation
 
-> The analogues of the immediate-result actions; destruction of a stūpa is the fifth. Karma is a powerful obstruction at the attainments of acceptance, non-returnership, and arhatship.
+> These are analogous to *ānantarya* actions; destruction of a stūpa is the fifth. At the attainments of acceptance, non-returnership, and arhatship, action produces a strong obstruction.
 
 ## 7. Technical Vocabulary
 
@@ -83,8 +83,8 @@ maturation.”
 - **`Arhattva`** — arhatship, the third threshold.
 - **`Savipāka karma`** — action possessing maturation. The Bhāṣya says that
   this broader class, not merely the five analogues, can obstruct.
-- **`Vipākabhūmi`** — maturation ground. The first case is explained by
-  passage beyond the ground in which the karma would mature.
+- **`Vipākabhūmi`** — maturation level. The first case is explained by
+  passage beyond the level in which the karma would mature.
 - **`Dṛṣṭadharmavedanīya karma`** — action whose maturation is to be
   experienced in the present life; excepted from the stated obstruction at
   the non-returnership threshold.
@@ -97,17 +97,17 @@ maturation.”
 ```text
 Approaching kṣānti from the summit stage:
     karma leading to bad destinies obstructs
-    because its maturation ground is being passed beyond
+    because its maturation level is being passed beyond
 
 Approaching the fruit of non-returnership:
     Desire Realm karma obstructs
     except action to be experienced in the present life
 
 Approaching arhatship:
-    form- and Formless Realm karma obstructs
+    Form Realm and Formless Realm karma obstruct
 ```
 
-The Bhāṣya's repeated `tathaiva` carries the maturation-ground rationale
+The Bhāṣya's repeated `tathaiva` carries the maturation-level rationale
 from the first case to the latter two. These are three specified
 attainment-and-maturation relations, not a universal assertion that all
 accumulated actions necessarily obstruct progress or that any obstruction
@@ -117,19 +117,19 @@ must succeed.
 
 **Translation note.** The creditor simile explains the first case: claims appear when someone is
 about to leave the country. It illustrates why karma presses as its
-maturation ground is being left; it does not say that every obstructing
+maturation level is being left; it does not say that every obstructing
 action necessarily prevents attainment. The informed translation also included: The Bhāṣya makes clear that
 this second claim is not confined to the five analogues: other karma
 possessing maturation can obstruct at these thresholds. As one advances
 from the summit stage toward acceptance, karma leading to bad destinies
-obstructs because its maturation ground is being passed beyond. Desire Realm
+obstructs because its maturation level is being passed beyond. Desire Realm
 karma similarly obstructs one approaching the fruit of non-returnership,
 except for action whose maturation is to be experienced in the present
-life. Form- and Formless Realm karma similarly obstruct one approaching
+life. Form Realm and Formless Realm karma similarly obstruct one approaching
 arhatship.
 
 This verse sharpens the preceding discussion of future trajectory. The
-obstruction arises at a transition beyond the field in which a result could
+obstruction arises at a transition beyond the level in which a result could
 mature; the creditor simile makes that temporal pressure vivid. This offers
 a textual basis for examining how Path attainment and future maturation
 interact, but it is not a guarantee that only “proper” births follow from
@@ -150,10 +150,10 @@ at `[265|10–11]`.
 
 **Former Philosophical Translation.**
 > A Path threshold can become the point at which an action's maturation
-> presses most strongly. As the practitioner passes beyond the field in
+> presses most strongly. As the practitioner passes beyond the level in
 > which a result could ripen, that outstanding maturation acts like a
 > creditor appearing at the moment of departure. The obstruction is
-> transition-sensitive: its force is related to the maturation ground being
+> transition-sensitive: its force is related to the maturation level being
 > crossed, not to a general claim that all karma blocks every attainment.
 
 ## 10. OWL++ Seed
@@ -166,12 +166,12 @@ Class: PresentLifeMaturationAction
 Class: FormRealmKarma
 Class: FormlessRealmKarma
 Class: PathAttainmentThreshold
-Class: MaturationGround
+Class: MaturationLevel
 
 Rule: KshantiObstruction
   threshold = Kshanti
   obstructingAction = BadDestinyLeadingKarma
-  groundRelation = MaturationGroundBeingPassed
+  levelRelation = MaturationLevelBeingPassed
 
 Rule: NonReturnershipObstruction
   threshold = NonReturnershipFruit

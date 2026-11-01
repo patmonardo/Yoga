@@ -1,4 +1,4 @@
-# VAK 4.123 — Cultivation and the Conditioning of consciousness
+# VAK 4.123 — Cultivation and the Conditioning of Consciousness
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -31,11 +31,11 @@ half, defining cultivation.
 | `tu` | contrastive particle | however |
 | `kuśalam` | nominative singular neuter | wholesomeness |
 | `bhāvanā` | nominative singular feminine | cultivation |
-| `citta-vāsanāt` | ablative singular compound | because it conditions or perfumes consciousness |
+| `citta-vāsanāt` | ablative singular neuter compound | because it conditions or perfumes Consciousness |
 
 The four qualities in the first half are explained in the preceding
 Bhāṣya unit. The second half defines cultivation through the effect of
-concentrated wholesomeness on `citta`, translated here as consciousness.
+concentrated wholesomeness on `citta`, translated here as Consciousness.
 
 ## 4. Grammar
 
@@ -68,27 +68,27 @@ samāhitaṃ kuśalaṃ
 ```
 
 > Concentrated wholesomeness is cultivation because it conditions
-> consciousness.
+> Consciousness.
 
-The Bhāṣya explains `samāhita` as what has the nature of concentration
-and co-arises with it.
+The Bhāṣya includes concentration itself and what co-arises with it under
+`samāhita`.
 
 ## 5. Translation
 
 ### Literal Translation
 > Purified discipline is unharmed by misconduct and its causes, rests on
 > their counteragent and on peace. Cultivation, however, is concentrated
-> wholesomeness because it conditions consciousness.
+> wholesomeness because it conditions Consciousness.
 
 ### Bhāṣya-informed study translation
 
 > Purified discipline is unharmed by misconduct and its causes, rests on their
 > counteragent and on peace. Cultivation, however, is concentrated wholesomeness
-> because it conditions consciousness.
+> because it conditions Consciousness.
 
 ## 6. Philosophical Translation
 
-> Purified discipline is unharmed by misconduct and its causes, rests on their counteragent and on peace. Cultivation, however, is concentrated wholesomeness because it conditions consciousness.
+> Purified discipline is unharmed by misconduct and its causes, rests on their counteragent and on peace. Cultivation, however, is concentrated wholesomeness because it conditions Consciousness.
 
 ## 7. Technical Vocabulary
 
@@ -100,11 +100,12 @@ and co-arises with it.
   identifies its support with the establishments of mindfulness.
 - **`Śamāśrita`** — resting on peace; explained as directed toward
   nirvāṇa rather than a particular rebirth.
-- **`Samāhita-kuśala`** — wholesome factor with the nature of concentration
-  and co-arising with it.
+- **`Samāhita-kuśala`** — wholesome concentration itself and what
+  co-arises with it; the Bhāṣya includes both under `samāhita`.
 - **`Bhāvanā`** — cultivation, defined by its conditioning effect on
-  consciousness.
-- **`Citta-vāsanā`** — conditioning or “perfuming” consciousness.
+  Consciousness.
+- **`Citta-vāsana`** — conditioning or “perfuming” Consciousness; the
+  verse has the ablative `cittavāsanāt`, from the action noun `vāsana`.
 - **`Saṃtati`** — continuing series or continuum, which comes to partake
   of the cultivated qualities.
 - **`Tanmayīkaraṇa`** — making the continuum partake of that nature; the
@@ -124,9 +125,8 @@ resting on peace and directed toward nirvāṇa
 The second half defines cultivation by its operation:
 
 ```text
-wholesome factor
-    + nature of concentration and co-arising with it
-    → conditions consciousness
+wholesome concentration and what co-arises with it
+    → conditions Consciousness
     → the continuum partakes of its qualities
 ```
 
@@ -135,22 +135,31 @@ not the replacement of that continuum by a different substance.
 
 ## 9. Interpretive Note
 
-**Translation note.** The four qualities of purified discipline are supplied in the 4.122
-Bhāṣya study; the local 4.123 Bhāṣya defines concentrated wholesome
-cultivation and gives the flower-and-sesame analogy. The informed translation also included: The Bhāṣya explains that a wholesome factor “concentrated” in this sense has the nature of concentration and co-arises with it. It strongly perfumes consciousness, making the continuing series partake of its qualities, as flowers perfume sesame seeds.
+**Translation note.** The first half's four qualities of purified
+discipline are explained in the 4.122 Bhāṣya study. The local Bhāṣya
+includes both concentration itself and what co-arises with it under
+`samāhita`. It says this concentrated wholesome activity strongly
+perfumes Consciousness, making the continuing series partake of its
+qualities, as flowers perfume sesame seeds.
 
 VAK 4.122 treats discipline as abstention in two modes and announces the
 four qualities of purified discipline. VAK 4.123 completes that account,
 then defines cultivation as concentrated wholesomeness that conditions
-consciousness. The distinction between `citta` (consciousness) and
+Consciousness. The distinction between `citta` (Consciousness) and
 `manas` (Mind) remains in force: the Bhāṣya says the former is conditioned,
 not that Mind or a Base is the subject of this transformation.
 
 Read with your stated practice of Samādhi as Dhyāna, Śamatha, and
 Vipaśyanā, the passage supplies a criterion of cultivation: concentrated
-wholesomeness must condition consciousness and the continuing series.
+wholesomeness must condition Consciousness and the continuing series.
 Those three practice terms are your project framing; the verse itself
 does not enumerate them.
+
+This is a direct occurrence of the perfuming vocabulary relevant to our
+earlier vāsanā question: `cittavāsanāt` in the verse and `cittaṃ vāsayati`
+in the Bhāṣya. The verse's `-vāsanāt` is the ablative of
+`vāsana`, the act of perfuming; it does not by itself specify a class of
+latent `vāsanā` tendencies or their composition across actions.
 
 The local Bhāṣya span is `[273|23]–[274|04]`; the first hemistich was
 quoted and explained with 4.122. At `[274|03–04]`, the commentary turns
@@ -158,7 +167,7 @@ to the results of discipline and cultivation, the subject of 4.124.
 
 **Former Philosophical Translation.**
 > Cultivation is not merely the occurrence of a wholesome state. A
-> wholesome factor co-arising with concentration conditions consciousness
+> wholesome factor co-arising with concentration conditions Consciousness
 > and gives the continuing series its qualities. The flower-and-sesame
 > comparison describes formation through sustained relation: the qualities
 > of cultivation become qualities of the continuum, rather than remaining
@@ -177,7 +186,7 @@ Class: CultivatedQualities
 Rule: CultivationConditionsConsciousness
   ConcentratedWholesomeness -> Cultivation
   Cultivation -> conditions Consciousness
-  Consciousness -> ContinuingSeriesPartakesOf CultivatedQualities
+  CultivatedQualities -> condition ContinuingSeries
 
 Attribution: FlowerAndSesameAnalogy
   source = Bhāṣya

@@ -28,7 +28,7 @@ liberation.
 | `hīnāḥ` | nominative plural masculine | inferior |
 | `kliṣṭāḥ` | nominative plural masculine | afflicted |
 | `dharmāḥ` | nominative plural masculine | Dharmas; determinations |
-| `śubhāḥ` | nominative plural masculine | auspicious |
+| `śubhāḥ` | nominative plural masculine | wholesome |
 | `amalāḥ` | nominative plural masculine | stainless |
 | `praṇītāḥ` | nominative plural masculine | excellent |
 | `saṃskṛtaśubhāḥ` | nominative plural masculine compound | conditioned wholesome [Dharmas] |
@@ -37,7 +37,7 @@ liberation.
 | `tu` | adversative particle | however |
 | `anuttaraḥ` | nominative singular masculine | unsurpassed; having nothing higher |
 
-The Bhāṣya explicitly glosses `praṇīta` as a designation for wholesome
+The Bhāṣya glosses `praṇīta` for two classes, wholesome Dharmas and
 Dharmas without influx. It separately identifies conditioned wholesome
 Dharmas as those to be practiced.
 
@@ -53,8 +53,8 @@ kliṣṭā dharmāḥ
     hīnāḥ [ucyante]
 ```
 
-The verse then gives the positive terms `śubha`, `amala`, and `praṇīta`.
-The Bhāṣya specifically supplies the referent for `praṇīta`:
+The verse then predicates `praṇīta` of `śubha` and `amala`. The Bhāṣya
+supplies the corresponding classes for that predication:
 
 ```text
 kuśalānāsravāṇāṃ praṇītā iti paryāyaḥ
@@ -77,20 +77,20 @@ mokṣaḥ tu
 ## 5. Translation
 
 ### Literal Translation
-> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,”
-> “stainless,” and “excellent” are designations for Dharmas. Conditioned
+> Afflicted Dharmas are faulty, obscured, and inferior. Wholesome Dharmas
+> and stainless Dharmas are excellent. Conditioned
 > wholesome Dharmas are to be cultivated; liberation, however, is
 > unsurpassed.
 
 ### Bhāṣya-informed study translation
 
-> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,” “stainless,”
-> and “excellent” are designations for Dharmas. Conditioned wholesome Dharmas are to
+> Afflicted Dharmas are faulty, obscured, and inferior. Wholesome Dharmas and
+> stainless Dharmas are excellent. Conditioned wholesome Dharmas are to
 > be cultivated; liberation, however, is unsurpassed.
 
 ## 6. Philosophical Translation
 
-> Afflicted Dharmas are faulty, obscured, and inferior. “Auspicious,” “stainless,” and “excellent” are designations for Dharmas. Conditioned wholesome Dharmas are to be cultivated; liberation, however, is unsurpassed.
+> Afflicted Dharmas are faulty, obscured, and inferior. Wholesome Dharmas and stainless Dharmas are excellent. Conditioned wholesome Dharmas are to be cultivated; liberation, however, is unsurpassed.
 
 ## 7. Technical Vocabulary
 
@@ -101,8 +101,9 @@ mokṣaḥ tu
   designations faulty, obscured, and inferior.
 - **`Nivṛta`** — obscured or covered. Keep it distinct from `nivṛtta`,
   “ceased” or “turned away.”
-- **`Praṇīta`** — excellent. The Bhāṣya explicitly identifies this
-  designation with wholesome Dharmas without influx.
+- **`Praṇīta`** — excellent. The Bhāṣya applies this designation to
+  both wholesome Dharmas and Dharmas without influx, following `śubha`
+  and `amala`.
 - **`Madhya`** — intermediate. The Bhāṣya infers this rank from the
   inferior and the excellent.
 - **`Saṃskṛtaśubha`** — conditioned wholesome Dharma; the class specified
@@ -124,7 +125,7 @@ collapsed into one ranking:
 ```text
 evaluative designations:
     afflicted Dharma → faulty, obscured, inferior
-    praṇīta           → wholesome Dharma without influx
+    wholesome or without-influx Dharma → excellent
     intermediate      → inferred between inferior and excellent
 
 practical relation:
@@ -144,8 +145,15 @@ cultivable means ≠ unsurpassed end
 
 ## 9. Interpretive Note
 
-**Translation note.** The synonym relations, intermediate rank, account of practice, and final
-explanation of nirvāṇa are given by the Bhāṣya. The informed translation also included: The Bhāṣya calls the first three alternative designations for afflicted Dharmas, and specifies “excellent” as a designation for wholesome Dharmas without influx. It infers an intermediate rank between inferior and excellent. Conditioned wholesome Dharmas are to be practiced; the remainder are not. The unconditioned is not itself practiced as a habituated cause, because it cannot be repeatedly cultivated and yields no further fruit; practice is undertaken for fruit. All other Dharmas have something higher than themselves, but liberation is unsurpassed: nothing is more excellent than nirvāṇa, which is superior to all because it is wholesome and permanent.
+**Translation note.** The Bhāṣya calls faulty, obscured, and inferior
+alternative designations for afflicted Dharmas. It applies “excellent”
+to two classes, wholesome Dharmas and Dharmas without influx, and infers
+an intermediate rank between inferior and excellent. Conditioned
+wholesome Dharmas are to be practiced; the remainder are not. The
+unconditioned is not repeatedly cultivated for a further fruit. All
+other Dharmas have something higher, while liberation is unsurpassed:
+nirvāṇa is superior because it is
+wholesome and permanent.
 
 VAK 4.127 closes the chapter by joining three questions: how Dharmas are
 evaluated, which conditioned Dharmas are to be practiced, and what stands
@@ -177,9 +185,11 @@ is unsurpassed and that nirvāṇa is wholesome and permanent. The chapter's
 `brāhmapuṇya` in 4.124 names Brahmā-merit; it should not be confused with
 the project-level Brahman Chakra.
 
-The verse and Bhāṣya occupy `[275|07]–[275|19]`. The colophon at
-`[275|20–21]` closes the fourth Kośa chapter, the Karmanirdeśa; the fifth
-chapter begins immediately afterward.
+The verse and Bhāṣya occupy `[275|07]–[275|19]`. The witness's
+`karmanirddeśo` in the colophon is normalized as `karmanirdeśo` in the
+paired transcription. The colophon at `[275|20–21]` closes the fourth
+Kośa chapter, the Karmanirdeśa; the fifth chapter begins immediately
+afterward.
 
 **Former Philosophical Translation.**
 > Affliction marks a defective and obscured mode of determination.
@@ -194,7 +204,8 @@ chapter begins immediately afterward.
 
 ```text
 Class: AfflictedDharma
-Class: WholesomeDharmaWithoutInflux
+Class: WholesomeDharma
+Class: WithoutInfluxDharma
 Class: IntermediateDharma
 Class: ConditionedWholesomeDharma
 Class: UnconditionedDharma
@@ -202,7 +213,8 @@ Class: Liberation
 
 Attribution: Bhāṣya
   AfflictedDharma -> Faulty + Obscured + Inferior
-  WholesomeDharmaWithoutInflux -> Excellent
+  WholesomeDharma -> Excellent
+  WithoutInfluxDharma -> Excellent
   IntermediateDharma -> BetweenInferiorAndExcellent
   ConditionedWholesomeDharma -> ToBePracticed
   OtherDharmas -> HaveSomethingHigher

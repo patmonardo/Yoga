@@ -7,7 +7,7 @@
 
 > Purified discipline is unharmed by misconduct and its causes, rests on their
 > counteragent and on peace. Cultivation, however, is concentrated wholesomeness
-> because it conditions consciousness.
+> because it conditions Consciousness.
 
 The first hemistich was quoted and explained with 4.122. The local
 commentary begins by defining the second hemistich.
@@ -40,8 +40,8 @@ study. The closing question introduces 4.124.
 
 “Concentrated wholesomeness, however, is cultivation.”
 
-What is “concentrated”? What has the nature of concentration and
-co-arises with it. Why is this called cultivation?
+What is “concentrated”? Concentration itself, and what co-arises with it.
+Why is this called cultivation?
 
 “Because it conditions Consciousness.”
 
@@ -54,9 +54,9 @@ discipline and cultivation?
 
 ## 4. Interpretation
 
-The Bhāṣya defines `samāhita` relationally: the wholesome factor has the
-nature of concentration and co-arises with it. It defines `bhāvanā`
-through `cittavāsanā`, the conditioning or perfuming of Consciousness.
+The Bhāṣya includes concentration itself and the wholesome factors
+co-arising with it under `samāhita`. It defines `bhāvanā` through
+`cittavāsana`, the conditioning or perfuming of Consciousness.
 The flower-and-sesame analogy clarifies this as a qualitative change in
 the continuing series, without claiming that Consciousness is literally
 a substance absorbing fragrance.
@@ -67,7 +67,9 @@ on 4.122. Keep them distinct from this local explanation of cultivation.
 ## 5. Review Status
 
 The Sanskrit phrase `samādhisvabhāvaṃ sahabhū yat` is retained in its
-compact form and translated as “what has the nature of concentration and
-co-arises with it,” without adding an unsupported list of accompanying
-factors. This study covers `[273|23]–[274|04]` and stops before the
+compact form and read as concentration itself together with what
+co-arises with it, without adding a list of accompanying factors. The
+verse's `cittavāsanāt` is an ablative from `vāsana` (perfuming), and the
+Bhāṣya confirms the verbal sense with `cittaṃ vāsayati`. This study
+covers `[273|23]–[274|04]` and stops before the
 4.124 verse at `[274|05]`.

@@ -98,6 +98,10 @@ bhāvanā-heya-karmaṇaḥ
 Let `M`, `C`, `D`, `P`, and `A` name maturation, corresponding,
 disconnection, activity-produced, and dominant results respectively.
 
+The cells give the result types available across each abandonment-status
+class-pair. They do not claim that every individual action instantiates each
+type; the action-specific restrictions from 4.87–4.89 still apply.
+
 | Action status ↓ / Result status → | Seeing-abandonable | Cultivation-abandonable | Not to be abandoned |
 |---|---|---|---|
 | seeing-abandonable | `C, P, A` | `M, C, P, A` | `A` |
@@ -150,22 +154,23 @@ Class: DominantResult
   SubClassOf: ResultRelationType
 
 Rule: SeeingAbandonableToSeeingAbandonable
-  permittedResultTypes = {CorrespondingResult,
+  classAvailableResultTypes = {CorrespondingResult,
                           ActivityProducedResult, DominantResult}
 Rule: SeeingAbandonableToCultivationAbandonable
-  permittedResultTypes = {MaturationResult, CorrespondingResult,
+  classAvailableResultTypes = {MaturationResult, CorrespondingResult,
                           ActivityProducedResult, DominantResult}
 Rule: SeeingAbandonableToNonAbandonable
-  permittedResultTypes = {DominantResult}
+  classAvailableResultTypes = {DominantResult}
 Rule: CultivationAbandonableToSeeingAbandonable
-  permittedResultTypes = {ActivityProducedResult, DominantResult}
+  classAvailableResultTypes = {ActivityProducedResult, DominantResult}
 Rule: CultivationAbandonableToCultivationAbandonable
-  permittedResultTypes = {MaturationResult, CorrespondingResult,
+  classAvailableResultTypes = {MaturationResult, CorrespondingResult,
                           ActivityProducedResult, DominantResult}
 Rule: CultivationAbandonableToNonAbandonable
-  permittedResultTypes = {DisconnectionResult,
+  classAvailableResultTypes = {DisconnectionResult,
                           ActivityProducedResult, DominantResult}
 
 Constraint: ActionAndResultAbandonmentStatusesAreOrdered
 Constraint: ResultCountsAreDerivedFromResultMembership
+Constraint: IndividualActionResultTypesMustAlsoSatisfyPriorActionRules
 ```

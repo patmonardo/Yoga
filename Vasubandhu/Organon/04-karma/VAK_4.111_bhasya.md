@@ -62,10 +62,9 @@ of patience and discipline are complete.
 | Discipline | Complete under the same no-anger condition | The Bhāṣya gives no separate criterion here |
 
 The phrase `ā akṣṇaḥ ā majjāyāḥ` extends the gift from eye to marrow.
-The bodily example is a claim made by the source, not an instruction to
-imitate bodily injury or self-harm. In the second case, `avītarāgaḥ api`
-preserves the point that passion may remain even when these two perfections
-are complete.
+In the second case, `avītarāgaḥ api` preserves the point that passion
+may remain even when these two perfections are complete. The Bhāṣya
+does not give a separate test for discipline here.
 
 ## 5. Interpretation
 
@@ -78,9 +77,8 @@ separate account of the discipline-perfection's operation.
 
 The verse does not use *cetanā*. Its account of motive is given through
 compassion and the absence of desire for exceptional advancement; those
-should remain the source's own terms. The bodily examples are presented as
-part of the text's perfection-criteria, not as present-day behavioral
-guidance.
+should remain the source's own terms. The bodily examples belong to the
+text's criteria for these perfections.
 
 ## 6. Review Status
 

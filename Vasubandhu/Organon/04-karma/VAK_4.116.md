@@ -1,4 +1,4 @@
-# VAK 4.116 — The Distinction of the Gift-Object
+# VAK 4.116 — The Distinction of the Thing Given
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -15,15 +15,17 @@ priyatā sukumārartusukhasparśāṅgatā tataḥ // 4.116 //
 ```
 
 The source witness reads `surūptvaṃ` where the repository kārikā has
-`surūpatvaṃ`; the latter is retained here. The transmitted `yaśasvi vā` is
-also retained, while the Bhāṣya explains the result as `yaśasvī bhavati`.
+`surūpatvaṃ`, and `...sparśāṅtā` where the study has `...sparśāṅgatā`;
+the latter is supported by the prose's `aṅgāni`. The transmitted
+`yaśasvi vā` is retained, while the Bhāṣya explains the result as
+`yaśasvī bhavati`.
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `varṇādisampadā` | instrumental singular feminine compound | through excellence of color and the other qualities |
-| `vastu` | nominative singular neuter | the thing given; the gift-object |
+| `vastu` | nominative singular neuter | the thing given |
 | `surūpatvam` | nominative singular neuter abstract noun | beauty of form |
 | `yaśasvi` | transmitted neuter form; prose construes `yaśasvī` | renowned; possessing renown |
 | `vā` | indeclinable | or; retained in the transmitted verse wording |
@@ -58,24 +60,24 @@ touch      → delicacy of limbs and seasonally pleasant touch
 ```
 
 The last compound gathers two related bodily results under touch; it does
-not add a fifth quality of the gift-object.
+not add a fifth quality of the thing given.
 
 ## 5. Translation
 
 ### Literal Translation
-> The gift-object is distinguished by excellence of color and the other
-> qualities. From giving such an object arise beauty, renown, belovedness,
+> The thing given is distinguished by excellence of color and the other
+> qualities. From giving such a thing arise beauty, renown, belovedness,
 > delicacy of limbs, and limbs pleasant to touch according to the seasons.
 
 ### Bhāṣya-informed study translation
 
-> The gift-object is distinguished by excellence of color and the other qualities.
-> From giving such an object arise beauty, renown, belovedness, delicacy of limbs,
+> The thing given is distinguished by excellence of color and the other qualities.
+> From giving such a thing arise beauty, renown, belovedness, delicacy of limbs,
 > and limbs pleasant to touch according to the seasons.
 
 ## 6. Philosophical Translation
 
-> The gift-object is distinguished by excellence of color and the other qualities. From giving such an object arise beauty, renown, belovedness, delicacy of limbs, and limbs pleasant to touch according to the seasons.
+> The thing given is distinguished by excellence of color and the other qualities. From giving such a thing arise beauty, renown, belovedness, delicacy of limbs, and limbs pleasant to touch according to the seasons.
 
 ## 7. Technical Vocabulary
 
@@ -98,7 +100,7 @@ not add a fifth quality of the gift-object.
 ## 8. Logical Determination
 
 ```text
-Quality of the gift-object              Result stated by the Bhāṣya
+Quality of the thing given              Result stated by the Bhāṣya
 ---------------------------              ---------------------------
 excellence of color                     beauty
 excellence of smell                     renown
@@ -107,7 +109,7 @@ excellence of touch                     delicate limbs
                                         seasonally pleasant touch
 ```
 
-Any one of the four qualities can distinguish the thing given. Touch has
+Excellence in any one of the four qualities can distinguish the thing given. Touch has
 two stated results, so the correspondence is four qualities to five
 outcomes—not five independent qualities or one undifferentiated reward.
 The analogies between fragrance and spreading fame, and between taste and
@@ -115,14 +117,16 @@ agreeableness, belong to the Bhāṣya's explanation.
 
 ## 9. Interpretive Note
 
-**Translation note.** The four qualities and their ordered correspondence are explicit in the
-Bhāṣya, not separately enumerated in the compact kārikā. The informed translation also included: The Bhāṣya specifies color, smell, taste, and touch: giving something excellent in color yields beauty; something fragrant yields renown; something excellent in taste yields belovedness; and something excellent in touch yields delicate limbs and limbs pleasant to touch according to the seasons.
+**Translation note.** The Bhāṣya names color, smell, taste, and touch and
+matches them in order with beauty, renown, belovedness, and the two bodily
+results associated with touch. Excellence in any one quality is enough
+to distinguish the thing given.
 
 VAK 4.115 considered the giver and manner of giving; 4.116 considers the
 thing given. The giving-event thus has distinct relational determinations:
-volition is not the gift-object, and neither the object nor the recipient
+volition is not the thing given, and neither the thing nor the recipient
 is Mind itself. In the project's terms, Bases articulate content and frames;
-they are not Mind. Here the material and sensible qualities of the object
+they are not Mind. Here the material and sensible qualities of the thing
 make the deed's recipient-facing content specific, while the Bhāṣya traces
 those distinctions into its account of maturation.
 
@@ -130,8 +134,9 @@ This passage does not itself name `cetanā`; the volitional dimension is
 carried forward from the chapter's broader analysis of giving, not inserted
 as a term in this kārikā. The source span is `[269|20]–[270|03]`. At
 `[269|22–23]`, the witness's `dadvarṇa...` is separated and repaired as
-`tad varṇa...`; at `[269|24–25]`, it reads `surūptvaṃ`, while the
-repository kārikā gives `surūpatvaṃ`. The next recipient-field question
+`tad varṇa...`; at `[269|24–25]`, it reads `surūptvaṃ` and
+`...sparśāṅtā`, while the study follows `surūpatvaṃ` and
+`...sparśāṅgatā`. The next recipient-field question
 begins at `[270|04]`.
 
 **Former Philosophical Translation.**
@@ -139,13 +144,13 @@ begins at `[270|04]`.
 > given has its own qualities and makes a particular form of benefit
 > available. The Bhāṣya reads maturation as corresponding to those
 > qualities, including two bodily outcomes from touch. This extends the
-> giver-side analysis of 4.115 without collapsing the giver, the gift-object,
+> giver-side analysis of 4.115 without collapsing the giver, the thing given,
 > or its results into one undifferentiated event.
 
 ## 10. OWL++ Seed
 
 ```text
-Class: DistinguishedGiftObject
+Class: DistinguishedThingGiven
 Class: ExcellentColor
 Class: ExcellentSmell
 Class: ExcellentTaste
@@ -156,13 +161,13 @@ Class: Belovedness
 Class: DelicateLimbs
 Class: SeasonallyPleasantTouch
 
-Rule: GiftObjectQualityResults
+Rule: ThingGivenQualityResults
   ExcellentColor -> BeautyOfForm
   ExcellentSmell -> Renown
   ExcellentTaste -> Belovedness
   ExcellentTouch -> DelicateLimbs
   ExcellentTouch -> SeasonallyPleasantTouch
 
-Attribution: GiftObjectQualityResults
+Attribution: ThingGivenQualityResults
   source = Bhāṣya
 ```

@@ -5,9 +5,9 @@
 > jambūdvīpe pumān eva saṃmukhaṃ buddhacetanaḥ /
 > cintāmayaṃ kalpaśate śeṣam ākṣipate hi tat // 4.109 //
 
-> Only in Jambūdvīpa, as a man, face-to-face with the Teacher and with volition
-> taking a Buddha as its object, does the bodhisattva project the reflection-formed
-> remainder of that karma over one hundred kalpas.
+> Only in Jambūdvīpa, as a man, with the Teacher present face-to-face and
+> volition taking a Buddha as its Support, does the bodhisattva project that
+> reflection-formed karma; he projects its remainder over one hundred kalpas.
 
 The Bhāṣya explains this as the projection of the action whose maturation
 produces the marks, introduced in 4.108.
@@ -39,7 +39,9 @@ eva bodhisattva etāṃś caturo doṣān vyāvartayati, dvau ca guṇau
 pratilabhata iti pūrvācāryāḥ.
 ```
 
-The source unit is `[265|26–27]–[266|11]`. The saying at `[266|07–09]`
+The source unit is `[265|26–27]–[266|11]`. The verse and prose both print
+`śeṣa` where the syntax calls for accusative `śeṣam`; the study translation
+follows this grammatical reading. The saying at `[266|07–09]`
 is textually rough; its spacing and punctuation are provisional, and the
 phrase concerning `pakṣabhikṣāpradāna` remains uncertain. The witness reads
 `dvau ca guṇo` at `[266|09–11]`; the text above normalizes this
@@ -54,17 +56,17 @@ only in Jambūdvīpa, because its inhabitants are held to have sharp
 intelligence. The text restricts this to a man, not a woman.
 
 It is when the Teacher is actually present face-to-face and through volition
-that takes a Buddha as its object. That action is formed through reflection,
+that takes a Buddha as its Support. That action is formed through reflection,
 not through hearing and not through meditative cultivation.
 
 The remainder is projected over one hundred kalpas, not across many
 existences. Because of exceptionally ardent vigor, the Blessed Śākyamuni
 removed nine kalpas; it was projected over ninety-one kalpas.
 
-For this reason, a saying referring to ninety-one kalpas is quoted. The
-speaker says that they do not remember or know of even one family being
-injured or harmed because of `pakṣabhikṣāpradāna`. The syntax and the
-precise force of that phrase remain uncertain.
+For this reason, a saying referring to ninety-one kalpas is quoted. Its
+speaker addresses a headman: “I do not recall or know of even one family
+being injured or harmed because of `pakṣabhikṣāpradāna`.” The opening words
+and the precise force of that phrase remain uncertain in this witness.
 
 Thereafter, because of natural memory of former births, the bodhisattva who
 has passed beyond the first incalculable period avoids these four faults
@@ -78,7 +80,7 @@ not specify the four faults or the two qualities.
 | Place | Jambūdvīpa alone, because of its inhabitants' sharp intelligence |
 | Embodiment | Male alone, within the source's inherited restriction |
 | Relational condition | The Teacher is actually present face-to-face |
-| Volitional object | A Buddha |
+| Volitional Support (`ālambana`) | A Buddha |
 | Mode of formation | `Cintāmaya`, through reflection; not `śrutamaya` or `bhāvanāmaya` |
 | Standard period | The remainder over one hundred kalpas, not many existences |
 | Śākyamuni's period | Ninety-one kalpas, with nine removed through exceptional vigor |
@@ -92,7 +94,7 @@ identifying its members.
 ## 5. Interpretation
 
 This passage makes the volitional relation unusually precise: *cetanā*
-takes a Buddha as its object, and the Teacher is actually present
+takes a Buddha as its Support, and the Teacher is actually present
 face-to-face. The action whose maturation produces the marks is therefore
 not described as a private wish for future Buddhahood. It is formed
 reflectively in relation to a present Teacher. The contrast with
@@ -105,7 +107,7 @@ career begins, then its accumulation is projected through a specified
 volitional relation and mode. The source's restrictions to Jambūdvīpa and
 male embodiment, as well as its one-hundred-kalpa measure, remain claims of
 this received account rather than universal Organon rules. The exceptional
-ninety-one-kalpa case changes the duration, not the stated object of
+ninety-one-kalpa case changes the duration, not the stated Support of
 volition or kind of karma.
 
 ## 6. Review Status

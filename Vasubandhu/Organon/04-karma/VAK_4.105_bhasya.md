@@ -5,9 +5,9 @@
 > saṃghabhede mṛṣāvādo mahāvadyatamo mataḥ /
 > bhavāgracetanā loke mahāphalatamā śubhe // 4.105 //
 
-> In Saṅgha division, false speech is regarded as the most culpable. Among
-> wholesome actions in the world, volition at the summit of becoming has the
-> greatest maturation-result.
+> Among *ānantarya* actions, the false speech that divides the Saṅgha is held
+> most culpable. Among wholesome actions in the world, volition at the summit
+> of becoming has the greatest maturation-result.
 
 ## 2. Continuous Sanskrit
 
@@ -63,8 +63,8 @@ members beyond the text. Sandhi, spacing, and punctuation are editorial.
 Which of these immediate-result actions is the most culpable?
 
 False speech occasioning Saṅgha division is regarded as the most culpable.
-The false speech that occasions Saṅgha division displays an inversion of
-Dharma and non-Dharma and is the most culpable of all misconduct. Why?
+The speaker knows Dharma and non-Dharma yet presents them in reverse; this
+false speech is the most culpable of all misconduct. Why?
 Because it strikes the Tathāgata's Dharma-body and obstructs the paths to
 heaven and liberation for beings.
 
@@ -78,11 +78,11 @@ kalpa.
 Among the remaining immediate-result actions, the fifth, third, and first
 are successively heavier; killing one's father is the lightest of all.
 
-But the Blessed One called mental action the most culpable of the three
-actions, and elsewhere wrong view the most culpable among views. Saṅgha
+But the Blessed One called the mental rod (*manodaṇḍa*) the most culpable
+of the three rods, and elsewhere wrong view the worst of faults. Saṅgha
 division is called the most culpable when the comparison is restricted to
-immediate-result actions; mental action when restricted to the three
-actions; and wrong view when restricted to views. Alternatively, these
+*ānantarya* actions; the mental rod when restricted to the three actions;
+and wrong view when restricted to views. Alternatively, these
 judgments are made respectively with regard to extent of maturation, harm
 to many beings, and severing wholesome roots.
 
@@ -99,7 +99,7 @@ result is the exhaustion of all fetters. For this reason the verse says
 | Judgment | Comparison class | Result or ground |
 |---|---|---|
 | Most culpable | Immediate-result actions | Saṅgha-dividing false speech; it strikes the Tathāgata's Dharma-body and obstructs paths to heaven and liberation. |
-| Mental action most culpable | The three actions | A maximum within that stated class. |
+| Mental rod most culpable | The three actions, as specified in the Bhāṣya's answer | A maximum within that stated class. |
 | Wrong view most culpable | Views | A maximum within that stated class. |
 | Greatest wholesome worldly volition | Wholesome actions in the world | `Bhavāgra-cetanā`; exceptionally tranquil maturation for eighty thousand kalpas. |
 | Greatest disconnection-result | Actions compared by disconnection-result | `Vajropama-samādhi-cetanā`; exhaustion of all fetters. |
@@ -112,7 +112,7 @@ of result differ.
 The first superlative is explained by the effects of Saṅgha division on
 the shared practices and attainments of many beings. Its culpability is
 not ranked by speech considered in isolation; the Bhāṣya emphasizes its
-inversion of Dharma and non-Dharma, its relation to the Tathāgata's
+knowing inversion of Dharma and non-Dharma, its relation to the Tathāgata's
 Dharma-body, and its obstruction of paths to heaven and liberation.
 
 The second half directly foregrounds *cetanā*: volition at the summit of

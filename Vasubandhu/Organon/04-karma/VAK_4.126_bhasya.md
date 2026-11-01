@@ -36,21 +36,20 @@ activities by assigning each group to a mode of action.
 
 ## 3. Continuous Translation
 
-“What is the nature of the worldly practices called writing, sealing,
-calculation, poetry, and reckoning?
+What is the nature of what people call writing, sealing, calculation,
+poetry, and reckoning?
 
-‘Action set in motion by a specific method, together with what gives rise
+“Action set in motion by a specific method, together with what gives rise
 to it, is threefold: writing and sealing; calculation and poetry; and
-reckoning, in the corresponding order.’
+reckoning, in the corresponding order.”
 
-‘Set in motion by a method’ means set in motion by a specific means.
-‘Threefold action’ means bodily, verbal, and mental action.
+“Set in motion by a method” means set in motion by a specific means.
+“Threefold action” means bodily, verbal, and mental action.
 
-Writing and sealing, in particular, are bodily action set in motion by a
-specific method; the Bhāṣya describes this as their `samutthāpanam`
-(bringing-forth). Calculation and poetry are verbal action. These [first
-four] are of the nature of the five Bases.
-`Saṃkhyā` is mental action: the mental collecting or reckoning of Dharmas.”
+Writing and sealing, in particular, consist of the production of bodily
+action set in motion by a specific method. Calculation and poetry are
+verbal action. These [first four] are of the nature of the five Bases.
+`Saṃkhyā` is mental action: the collection of Dharmas by Mind.
 
 ## 4. Interpretation
 

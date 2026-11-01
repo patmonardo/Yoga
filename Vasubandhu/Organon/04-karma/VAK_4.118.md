@@ -61,12 +61,12 @@ It does not make the five recipients into one spiritual-status class.
 ### Bhāṣya-informed study translation
 
 > An offering to one's mother, father, a sick person, a Dharma speaker, or a
-> Bodhisattva in the final birth is immeasurable, even when these recipients are not
-> noble persons.
+> Bodhisattva in the final birth is immeasurable in result, even when these
+> recipients are not noble persons.
 
 ## 6. Philosophical Translation
 
-> An offering to one's mother, father, a sick person, a Dharma speaker, or a Bodhisattva in the final birth is immeasurable, even when these recipients are not noble persons.
+> An offering to one's mother, father, a sick person, a Dharma speaker, or a Bodhisattva in the final birth is immeasurable in result, even when these recipients are not noble persons.
 
 ## 7. Technical Vocabulary
 
@@ -125,8 +125,13 @@ preserves each term's local role.
 
 ## 9. Interpretive Note
 
-**Translation note.** The fivefold count, the ordinary-person qualification, and the placement
-of the Dharma speaker among benefactors come from the Bhāṣya. The informed translation also included: The Bhāṣya says the result of offering to these five is immeasurable even when they are ordinary persons. It classifies the Dharma speaker among benefactors: a great beneficial friend who gives the eye of the discriminative comprehension to people blinded by ignorance, makes clear what is even and uneven, and—through a textually uncertain verb—brings about the Dharma-body without influx. In brief, the Dharma speaker performs Buddha-work.
+**Translation note.** The Bhāṣya confirms five recipients, qualifies the
+immeasurability as pertaining to the offering's result, and places the
+Dharma speaker among benefactors. The speaker gives the eye of
+discriminative comprehension to people blinded by ignorance, makes clear
+what is even and uneven, and performs Buddha-work. The verb in the
+intervening Dharma-body clause remains textually uncertain. The Organon's
+**Science of Principles** is a further determination of *prajñā*.
 
 VAK 4.117 distinguished recipient fields by destination, suffering,
 beneficence, and qualities. VAK 4.118 applies that account to five cases.

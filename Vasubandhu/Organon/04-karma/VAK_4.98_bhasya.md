@@ -36,8 +36,9 @@ The complete unit is `[260|13]–[260|22]`. The witness reads
 `asāmagrī nāna` at `[260|19]`; `asāmagrī nāma` is the contextually
 supported repair printed here. Sandhi and word division are editorial.
 The unit includes the five-action classification that leads into the
-verse, but stops before the question at `[260|23]` about what the divider
-is endowed with.
+verse. The final printed line `[260|22]` contains both the closing statement
+about the divided Saṅgha and the next question about what the divider is
+endowed with. The latter begins the 4.99 unit and is not repeated here.
 
 ## 3. Continuous Translation
 
@@ -52,7 +53,7 @@ it.
 
 But Saṅgha division has non-concord as its nature; it is a dissociated,
 non-afflicted, indeterminate Dharma. “Non-concord” is a conditioned
-formation dissociated from consciousness, non-afflicted, and indeterminate:
+formation dissociated from consciousness, unobscured and indeterminate:
 this is Saṅgha division.
 
 Could that itself be the action of *ānantarya*? No, and the divider is not
@@ -92,8 +93,9 @@ anivṛta-avyākṛta
 ```
 
 That is, a conditioned formation dissociated from consciousness, classified
-as non-afflicted and indeterminate. These predicates characterize the
-resulting division, not the action of the divider.
+in the prose as unobscured and indeterminate. The kārikā calls it
+*akliṣṭa-avyākṛta*, non-afflicted and indeterminate. Both descriptions
+characterize the resulting division, not the action of the divider.
 
 ## 6. The Divider and the Bearer
 
@@ -111,7 +113,7 @@ Saṅgha:
 
 The closing sentence makes the assignment explicit: the division belongs
 to the one divided, not to the divider. The question about what the divider
-is endowed with belongs to the next unit.
+is endowed with follows on the same printed line and belongs to the next unit.
 
 ## 7. Interpretation
 
@@ -127,4 +129,4 @@ The complete 4.98 unit `[260|13]–[260|22]` is included: the classification
 of the five actions, the two explanations of the name “Saṅgha division,”
 the resulting condition's nature, and the Saṅgha as its bearer. The
 conjectural repair `nāma` is marked. The study stops before the question
-about the divider's own endowment at `[260|23]`.
+about the divider's own endowment on `[260|22]`.
