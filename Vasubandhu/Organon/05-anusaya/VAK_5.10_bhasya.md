@@ -79,8 +79,10 @@ begins 5.11. Sandhi division and punctuation are editorial.
 The source uses `abhimāna` twice in its seven definitions: once
 where the initial list and subsequent ninefold derivation require
 `atimāna`, and once for claiming an unattained attainment. The
-second occurrence fits `abhimāna`; the first is retained as a
-textual irregularity. The source's `cittasyonnatirmāna uktāḥ`,
+second occurrence fits `abhimāna`; an [independent Sanskrit
+collation with Chinese parallels](https://blog.udn.com/agantuka/16727374)
+reads `atimāna` in the first. The local `abhimāna` is retained
+above as a textual irregularity. The source's `cittasyonnatirmāna uktāḥ`,
 `dṛgbhāvanākṣyāḥ`, and cramped ninefold compounds are also
 retained without silent correction. Word spacing in the three
 ninefold lists remains provisional.
@@ -90,7 +92,7 @@ ninefold lists remains provisional.
 Is view the only anuśaya that admits an internal division? Conceit
 does too. It has seven forms: māna, atimāna, mānātimāna,
 asmimāna, abhimāna, ūnamāna, and mithyāmāna. In general,
-conceit is an elevation of citta; its operations differentiate
+conceit is an elevation of Consciousness; its operations differentiate
 it sevenfold.
 
 Māna is the elevation in thinking oneself superior to an inferior
@@ -106,15 +108,20 @@ But a treatise speaks of nine modes of conceit: “I am superior,”
 “I am equal,” “I am inferior”; “I have a superior,” “I have an
 equal,” “I have an inferior”; and “I have no superior,” “I have
 no equal,” “I have no inferior.” They arise from three of the
-conceits already named: māna, atimāna, and ūnamāna. The prose
-assigns each of the three triplets to these comparative modes.
-It then asks how “I have no inferior” could elevate citta.
-The answer appeals to one's favored class of beings: one may
-still esteem oneself highly there despite relative inferiority.
-It also notes a rule in the Jñānaprasthāna and says that, in a
-contextual description, even “I am superior” can express
-different conceits depending on whether the comparison is with
-an inferior, an equal, or a superior.
+conceits already named: māna, atimāna, and ūnamāna. The first
+triplet, grounded in view, is assigned in order to atimāna,
+māna, and ūnamāna; the second to ūnamāna, māna, and atimāna;
+and the third to māna, atimāna, and ūnamāna.
+
+It is intelligible that someone who thinks “I am only slightly
+inferior” to one far superior finds a ground for elevation. But
+where is that ground in “I have no inferior”? An equal exists:
+even someone low in a favored, superior class of beings may
+esteem himself highly. The text also notes the rule laid down
+in the Jñānaprasthāna. Following the Prakaraṇa description,
+even “I am superior” may express māna, atimāna, or
+mānātimāna, according as the comparison is with an inferior,
+an equal, or a superior.
 
 How are the seven conceits abandoned? Through seeing and
 cultivation. But must everything still classified as
@@ -122,14 +129,13 @@ cultivation-abandonable actually manifest in noble practitioners?
 Not necessarily. For example, the afflictive occupation by which
 one deliberately kills a living being, up to speaking falsely,
 belongs to what is abandoned through cultivation because its
-cognitive support belongs to that class. The verse closes with
+Support belongs to that class. The verse closes with
 “likewise,” carrying this point forward.
 
 ## 4. Argument and Doctrinal Determination
 
-The generic definition `cittasya unnati` does not turn citta into
-a psychological container. It identifies conceit's operation as
-an elevation in the citta configuration. The seven forms specify
+The generic definition `cittasya unnati` identifies conceit's
+operation as an elevation of Consciousness. The seven forms specify
 different distortions of comparison, appropriation, attainment,
 and claimed quality.
 
@@ -165,6 +171,7 @@ the Kośa, not a claim about executable Rust or TypeScript types.
 ## 6. Review Status
 
 The full 5.10 unit has been checked against the running source,
-including its split Kārikā and terminal `tathā`. The double use
-of `abhimāna` and the compact ninefold compounds need independent
-witness comparison.
+including its split Kārikā, all three ordered ninefold triplets,
+and terminal `tathā`. The first `abhimāna` conflicts with the
+independent witness's `atimāna`; the local form and the compact
+ninefold compounds remain marked for review.

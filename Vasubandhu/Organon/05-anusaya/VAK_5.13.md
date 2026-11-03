@@ -23,7 +23,7 @@ universal anuśaya share its universal status.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `nava` | cardinal numeral | nine |
-| `ūrdhva-ālambanāḥ` | nominative plural masculine | having a higher realm as object-support |
+| `ūrdhva-ālambanāḥ` | nominative plural masculine | having a higher domain as Support |
 | `eṣām` | genitive plural pronoun | of these [eleven universal anuśayas] |
 | `dṛṣṭi-dvaya-vivarjitāḥ` | nominative plural masculine | excluding the two views |
 | `prāpti-varjyāḥ` | nominative plural masculine | excluding acquisitions |
@@ -56,7 +56,7 @@ dṛṣṭi-dvaya-vivarjitāḥ nava
 ūrdhva-ālambanāḥ [bhavanti]
 
 of these [eleven], nine, excluding the two views,
-have a higher realm as their object-support
+have a higher domain as their Support
 ```
 
 The numeral `nava` and the predicate adjective `ūrdhvālambanāḥ` agree with the
@@ -87,22 +87,23 @@ results.
 
 ### Literal Translation
 
-> Of these, nine—excluding the two views—have higher [realms] as their
-> object-support. Whatever [dharmas] arise together with these, excluding
+> Of these, nine—excluding the two views—have higher [domains] as their
+> Support. Whatever [dharmas] arise together with these, excluding
 > acquisitions, are also universal.
 
 ### Bhāṣya-informed study translation
 
 > Of these eleven, nine—excluding satkāya-view and extreme-grasping view—take
-> higher realms as cognitive support; dharmas co-arising with these, except
+> higher domains as Support; dharmas co-arising with these, except
 > acquisitions, are likewise universal.
 
 ## 6. Philosophical Translation
 
 > Universality is neither confinement to one level nor absence of every
 > boundary. Nine universal anuśayas can direct their determining relation
-> beyond their present realm toward a higher one. The two views structured by
-> self-appropriation cannot do so. Within an actual afflicted event,
+> beyond their present domain toward a higher one. The two views are excluded
+> on the stated ground of self-appropriation, which the Brahmā case challenges.
+> Within an actual afflicted event,
 > universality also belongs to the co-arisen complex, though not to the
 > acquisition relation. A determination may therefore extend vertically and
 > communicate its character through a concrete conjunction, but only under
@@ -111,7 +112,7 @@ results.
 VAK 5.13 differentiates:
 
 ```text
-object-range across realms
+Support range across domains
     from
 shared status within a co-arisen event
     from
@@ -122,11 +123,11 @@ These are three relations, not three expressions for the same fact.
 
 ## 7. Technical Vocabulary
 
-**`Ūrdhvālambana` — having a higher realm as object-support**
+**`Ūrdhvālambana` — having a higher domain as Support**
 
 The nine can take one or two different higher realms as `ālambana`, according
 to the Bhāṣya. Their same-realm universality from VAK 5.12 therefore does not
-exhaust their possible objective range.
+exhaust their possible Support range.
 
 **The two excluded views**
 
@@ -141,10 +142,10 @@ This Bhāṣya expression complements `sabhāgadhātu-sarvatraga` in VAK 5.12.
 Sameness or difference of realm specifies the direction of the
 `ālambana` relation; it does not introduce an unconditioned universality.
 
-**`Mithyājñāna` — false cognition**
+**`Mithyājñāna` — false Knowledge**
 
 When an inhabitant of the Desire Realm regards Brahmā as a being and as
-permanent, the Abhidharmikas classify this cognition as false cognition rather
+permanent, the Abhidharmikas classify this cognition as false Knowledge rather
 than either of the two excluded views. Vasubandhu challenges the distinction:
 the thesis must be demonstrated, not merely asserted.
 
@@ -168,12 +169,12 @@ and causal office overlap without being identical.
 
 ## 8. Logical Determination
 
-The eleven from VAK 5.12 divide by cross-realm object-range:
+The eleven from VAK 5.12 divide by cross-domain Support range:
 
 ```text
 ElevenUniversalAnusayas
     − {SatkayaDrsti, AntagrahaDrsti}
-    = NineHigherRealmObjectAnusayas
+    = NineHigherDomainSupportAnusayas
 ```
 
 The exclusion is relational:
@@ -193,7 +194,7 @@ This is the Abhidharmika rationale reported in the Bhāṣya. Vasubandhu does no
 allow the taxonomy to validate itself:
 
 ```text
-NamesAs(FalseCognition, x)
+NamesAs(FalseKnowledge, x)
 AND Denies(View, x)
     ⇏ DemonstratesTheDifference(x)
 ```
@@ -227,7 +228,7 @@ horizontal scope. Here nine anuśayas can cross upward into a different realm:
 
 ```text
 determination in present realm
-    → higher-realm objective support
+    → higher-domain Support
 ```
 
 This is not the Subject escaping every condition. It is a determinate form in
@@ -250,7 +251,7 @@ relation:
 
 ```text
 type of determination
-object-range of determination
+Support range of determination
 co-arisen participation
 acquired possession
 causal function
@@ -272,14 +273,14 @@ Vasubandhu's explicit demand that the inherited distinction be demonstrated.
 vak:VAK_5_13 a vak:Karika ;
     rdfs:label "VAK 5.13" ;
     vak:continues vak:VAK_5_12 ;
-    vak:hasTopic vak:HigherRealmObjectRange,
+    vak:hasTopic vak:HigherDomainSupportRange,
                  vak:CoArisenUniversality .
 
-vak:NineHigherRealmObjectAnusayas
+vak:NineHigherDomainSupportAnusayas
     vak:selectedFrom vak:ElevenUniversalAnusayas ;
     vak:excludes vak:SatkayaDrsti,
                  vak:AntagrahaDrsti ;
-    vak:hasObjectRange vak:HigherOrDifferentRealm .
+    vak:hasSupportRange vak:HigherOrDifferentDomain .
 
 vak:AbhidharmikaExceptionRationale a vak:AttributedDoctrine ;
     vak:requires vak:SelfOrMineAppropriation ;

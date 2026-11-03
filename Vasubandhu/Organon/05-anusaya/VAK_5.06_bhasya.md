@@ -55,6 +55,10 @@ punctuation above are editorial. The source's line tag
 `[p28|107-28108]` is malformed, but the intervening sentence is
 continuous. `Dharma-anvaya-jñāna-kṣānti` remains a compressed
 compound whose distributive force is indicated by `yathāyogam`.
+In the final sentence, masculine plural `te parihīṇā` resumes the
+practitioners previously described by `vītarāgāṇām`, not the feminine
+plural views (*dṛṣṭayaḥ*). What they have fallen from is supplied from
+that context.
 
 ## 3. Continuous Translation
 
@@ -80,16 +84,16 @@ are always abandoned through cultivation for both groups.
 Some others say that outsiders never abandon those anuśayas classed
 as to be abandoned through seeing. They appeal to the
 Mahākarmavibhāgasūtra: it reports the occurrence of views taking
-the Desire Realm as cognitive support among people free from
+the Desire Realm as Support among people free from
 desire who speculate about the past, including eternalists,
 partial eternalists, and proponents of uncaused arising.
 Form Realm afflictions cannot, they argue, have the Desire Realm
-as support for people free from desire. These views must therefore
+as Support for people free from desire. These views must therefore
 remain connected with the Desire Realm and un-abandoned.
 
-The Vaibhāṣikas answer that the relevant earlier afflictions fell
-away at the very moment the views arose, as in the case of
-Devadatta. The comparison is compressed; this local unit does not
+The Vaibhāṣikas answer that those practitioners fell away [from their
+prior detachment] at the very moment the views arose, as in the case
+of Devadatta. The comparison is compressed; this local unit does not
 explain the Devadatta case further.
 
 ## 4. Argument and Voices
@@ -115,8 +119,11 @@ counteracted by kṣānti with what is counteracted by `jñāna`.
 The closing controversy has distinct voices. `Apare` introduces
 the objection about outsiders and the cited sūtra. `Iti
 vaibhāṣikāḥ` explicitly assigns the final answer to the
-Vaibhāṣikas. The compressed Devadatta analogy warrants no stronger
-historical or causal reconstruction from this passage alone.
+Vaibhāṣikas. Their answer makes the practitioners, not the afflictions,
+the subject of `parihīṇā`: the manifest Desire Realm views coincide
+with loss of their previous detachment. The compressed Devadatta
+analogy warrants no stronger historical reconstruction from this
+passage alone.
 
 ## 5. Translation and Interpretation
 
@@ -126,7 +133,9 @@ practitioner distinction on which the rule depends. `Bāhyaka`
 in the appended dispute denotes an outsider to the Buddhist path;
 it should not be silently equated with every ordinary person.
 `Samudācāra` is the occurrence or active manifestation of a view,
-not proof by itself of its uninterrupted persistence.
+not proof by itself of its uninterrupted persistence. `Te parihīṇā`
+is read with the masculine practitioner antecedent; the bracketed
+object of their loss is supplied from `vītarāgāṇām`.
 
 **Organon reconstruction.** The mode of correction is a relation
 among the affliction, its level, its counteragent, and the
@@ -140,4 +149,5 @@ already specifies a software architecture.
 The complete 5.06 unit, including the attributed disagreement,
 has been checked against the running source. The malformed source
 line tag and compressed Devadatta comparison remain visible as
-limits on a more exact reading.
+limits on a more exact reading. The Vaibhāṣika reply refers to the
+practitioners' regression, not the disappearance of their afflictions.

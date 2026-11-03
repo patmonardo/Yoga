@@ -193,7 +193,7 @@ requires both sides:
 
 ```text
 objective determination:
-    cognitive support and level of the affliction
+    Support and level of the affliction
 
 subjective determination:
     achieved status and counteractive capacity of the practitioner
@@ -208,11 +208,11 @@ knowing and acting capacity of the practitioner differs.
 **Appended doctrinal dispute**
 
 Other teachers argue that outsiders do not abandon what is properly
-seeing-abandonable. They cite the later occurrence of Desire Realm-supported
-speculative views among persons free from sensual attachment. The Vaibhāṣikas
-reply that earlier afflictions had fallen away at the very moment those later
-views arose. The local passage does not fully explain the Devadatta comparison,
-so no stronger reconstruction is imposed.
+seeing-abandonable. They cite the occurrence of views taking the Desire
+Realm as Support among persons previously free from sensual attachment.
+The Vaibhāṣikas reply that those practitioners fell away from their prior
+detachment when the views arose. The local passage does not fully
+explain the Devadatta comparison, so no stronger reconstruction is imposed.
 
 ## 9. Interpretive Note
 
@@ -232,7 +232,7 @@ affliction-in-a-level
 ```
 
 This is an important manifestation of the Middle we have begun to identify.
-The objective display includes the level and cognitive support of the
+The objective display includes the level and Support of the
 anuśaya; the Subject inheres as a specifically developed capacity to see or
 cultivate. The Path-operation is the unity in which those determinations meet
 and the affliction can actually be overcome.
@@ -240,7 +240,7 @@ and the affliction can actually be overcome.
 The Absolute Concept must not be inserted as an unexplained additional term
 inside Vasubandhu's classification. Its Interpretation appears in the form of
 the result: the correction is adequate only when the whole relation—level,
-support, counteragent, and practitioner—determines itself as an executable
+Support, counteragent, and practitioner—determines itself as an executable
 transformation.
 
 Thus VAK 5.06 adds a decisive implementation principle:

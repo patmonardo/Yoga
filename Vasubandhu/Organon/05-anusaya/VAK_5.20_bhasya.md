@@ -9,8 +9,8 @@
 > unwholesome; the three roots of the ethically indeterminate are craving,
 > ignorance, and discriminative comprehension in its indeterminate form.
 
-The third pāda here is the official study's contextual reading;
-the running IAST text differs, as noted below.
+The third pāda follows the indeterminate-root formula at [291|11];
+the kārikā-only witness instead repeats the unwholesome-root formula.
 
 ## 2. Continuous Sanskrit
 
@@ -28,7 +28,10 @@ lobho 'kuśalamūlaṃ dveṣo moho 'kuśalamūlam.
 yad dhy akuśalaṃ cākuśalasya ca mūlaṃ tad evākuśalamūlam
 iṣṭam. śeṣā anuśayā nākuśalamūlānīti siddham.
 
-katy avyākṛtamūlāni kati na? trīṇy avyākṛta mūlāni.
+katy avyākṛtamūlāni kati na?
+
+    trīṇy avyākṛta mūlāni.
+
 katamāni trīṇi?
 
     tṛṣṇā 'vidyā matiś ca sā.
@@ -40,13 +43,17 @@ avyākṛtamūlam iti kāśmīrāḥ.
 
 The complete running-source unit is [291|03–14] in
 `Vasubandhu/Sources/kosabhasya.txt`; [291|15] opens 5.21.
-Spacing and punctuation above are editorial. The running IAST
-text explicitly has `trīṇyakuśalamūlāni` in the verse at
-[291|07], while its own subsequent prose says `trīṇyavyākṛta
-mūlāni` at [291|11]. The Kārikā anchor adopts the official
-study's contextual correction `avyākṛtamūlāni`; the continuous
-Sanskrit retains the running witness's reading. The separation
-of `avyākṛta mūlāni` in the prose is also retained.
+Spacing, punctuation, and the isolation of [291|11] as a verse pāda
+above are editorial. The running IAST text has
+`trīṇyakuśalamūlāni` at [291|07], inside the unwholesome-root
+explanation; at [291|11] it has `trīṇyavyākṛta mūlāni` immediately
+after the new question about indeterminate roots. A [textual study](https://rissho.repo.nii.ac.jp/record/5789/files/A69_text.pdf)
+identifies [291|11] as 5.20c. The separate kārikā-only witness reads
+`trīṇyakuśalamūlāni` as 5.20c; the adopted anchor follows the
+Bhāṣya's [291|11] formula. Both running readings, including the
+separation of `avyākṛta mūlāni`, remain visible above. Xuanzang's
+[translation](https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra12/T29n1558.pdf)
+also separates the unwholesome and indeterminate root triads.
 
 ## 3. Continuous Translation
 
@@ -89,13 +96,13 @@ Kāśmīra position explicitly marked by `iti kāśmīrāḥ`.
 Thus neither `prajñā` nor `mati` is intrinsically a liberating
 or wholesome act merely because it is a form of cognition.
 
-The running text's `trīṇy akuśalamūlāni` is coherent with the
-preceding definition of the three unwholesome roots, but it
-leaves the subsequent question about three indeterminate roots
-to supply that category in prose. The official Kārikā study
-adopts `avyākṛtamūlāni` for its third pāda. Both textual facts
-must remain visible; the doctrinal argument does not by itself
-establish the history of the verse's wording.
+The running text's `trīṇy akuśalamūlāni` at [291|07] fits the
+preceding explanation of the three unwholesome roots. The later
+`trīṇy avyākṛta mūlāni` at [291|11] fits the new question and
+the final pāda. The kārikā-only witness instead places the first
+formula in 5.20c. The adopted anchor places the second formula
+there; this editorial decision does not establish
+the history of the verse's wording.
 
 ## 5. Translation and Interpretation
 
@@ -118,6 +125,9 @@ any claim about implemented software.
 
 ## 6. Review Status
 
-Provisional. The whole unit was checked against the running
-IAST source. The third-pāda discrepancy and the compressed
-`yathākramam` clause remain marked for later textual review.
+The complete natural unit [291|03–14] has been checked against
+the running IAST witness, with no omitted span; [291|15] begins
+5.21. The adopted third pāda is supported by the Bhāṣya's
+[291|11] formula and Xuanzang's distinct indeterminate-root
+verse, while the kārikā-only witness's conflicting reading and
+the compressed `yathākramam` clause remain marked for review.

@@ -108,6 +108,9 @@ movement. Spacing and punctuation are editorial. Forms such as
 `paripṛcchayya`, `vyākattevyam`, `sa vyaktavyo`, `yo hhi`,
 and the damaged self-identification in the cited sūtra are
 retained from the IAST witness rather than silently repaired.
+The word `audārikaṃ` (“gross”) and the subsequent conditional
+answer remain legible; only the intervening self-identification
+is uncertain.
 
 ## 3. Continuous Translation
 
@@ -143,33 +146,41 @@ identifying a question as one to be set aside would fail to
 answer it.
 
 The Ābhidharmikas then offer a more developed account. Categorical
-answers concern such determinations as the Buddha's awakening,
-the well-taught Dharma, the well-practicing community, and the
-impermanence of form through cognition; these bear directly
-on the intended matter. An answer by division progressively
-specifies a request to “speak of dharmas”: past, future, or
-present; then form through cognition; then wholesome,
-unwholesome, or indeterminate form; then kinds of abstention;
+answers concern whether the Blessed One is the Tathāgata, Arhat,
+and perfectly awakened one; whether his Dharma is well taught and
+his disciples practice well; whether Form through Cognition is
+impermanent; and whether Suffering through Path is rightly
+designated. These bear directly on the intended matter. An answer
+by division progressively specifies a request to “speak of dharmas”:
+past, future, or present; then Form through Cognition; then wholesome,
+unwholesome, or indeterminate Form; then seven kinds of abstention,
+from abstaining from killing through abstaining from frivolous speech;
 then abstention arising from non-greed, non-hatred, or
-non-delusion; and finally manifest and unmanifest forms of
+non-delusion; and finally disclosing and non-disclosing forms of
 non-greed-born abstention.
 
 With a tricky questioner, one may instead keep asking which
-dharmas are intended until the questioner falls silent or
-supplies the needed specification. The text asks whether a
-request such as “Tell me the road” already counts as a question,
-and answers that replying through counter-question can therefore
-count as a form of answer. Questions such as whether the world
-is finite or infinite are set aside.
+dharmas are intended without supplying the division, until the
+questioner falls silent or answers for himself. An objection says
+that the two requesters have merely asked to be told something,
+while the responders have merely asked questions: how can these
+count as questions and answers? The reply says that “Tell me the
+road” does ask about the road, and answering by a counter-question
+can therefore count as an answer. Questions such as whether the
+world is finite or infinite are set aside; the passage directs
+the reader to the sūtra for the characteristics of the answer modes.
 
 The venerable Mahāsāṅghikas are then said to recite a sūtra on
 the four modes. “Are all conditioned things impermanent?” is
 categorical. The result of intentional action calls for division.
-A question about whether self and perceptions are the same or
-different calls first for asking what the questioner takes the
-self to be; the witness's quoted reply is damaged. Questions
-about an eternal or non-eternal, finite or infinite world, the
-Tathāgata after death, and whether life is other than the body
+A question about whether a person's perceptions and self are
+identical or different calls first for asking
+what the questioner takes the self to be. If he says that he takes
+the self to be gross [the witness's self-identification is damaged],
+the reply is that perceptions and self are different. Questions
+whether the world is eternal, non-eternal, both, or neither; finite,
+infinite, both, or neither; whether the Tathāgata exists or does not
+exist after death, and so on; and whether life and body are different
 are set aside.
 
 ## 4. Argument and Doctrinal Determination
@@ -194,7 +205,8 @@ expansion makes division a disciplined sequence of increasingly
 specific determinations, reaching `vijñapti` and `avijñapti`.
 The Mahāsāṅghika citation preserves another set of examples;
 its damaged line about self should not carry more doctrinal
-weight than the witness can support.
+weight than the witness can support. The subsequent conditional
+reply, however, is legible and has been translated.
 
 ## 5. Translation and Interpretation
 
@@ -218,7 +230,8 @@ completed formal system.
 
 ## 6. Review Status
 
-Provisional. The full unit and transition to 5.23 were checked
-against the running IAST source. The cited sūtra's damaged
-self-identification and scattered orthographic irregularities
-remain for the later reliability study.
+The complete natural unit [292|08–294|04] has been compared with
+the running Sanskrit witness. Missing spans in the continuous
+translation have been restored; [294|04–05] begins the movement
+to 5.23. The cited sūtra's damaged self-identification and
+scattered orthographic irregularities remain open.

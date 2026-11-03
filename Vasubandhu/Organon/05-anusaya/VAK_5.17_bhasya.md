@@ -1,11 +1,11 @@
-# VAK 5.17 Bhāṣya — Adherence Through Cognitive Support
+# VAK 5.17 Bhāṣya — Adherence Through Support
 
 ## 1. Kārikā Anchor
 
 > sarvatragā anuśayāḥ sakalām anuśerate |
 > svabhūmim ālambanataḥ svanikāyam asarvagāḥ || 5.17 ||
 
-> Universal anuśayas adhere through cognitive support to their entire own
+> Universal anuśayas adhere through Support to their entire own
 > level; non-universal anuśayas adhere to their own class.
 
 The verse gives a general rule for one mode of `anuśayana`.
@@ -39,25 +39,25 @@ transition: after the general rule, he states a qualification.
 ## 3. Continuous Translation
 
 Of the ninety-eight anuśayas, how many adhere by way of their
-cognitive support, and how many solely by association?
-“Universal anuśayas adhere, by way of cognitive support, to
+Support, and how many solely by association?
+“Universal anuśayas adhere, by way of Support, to
 their entire own level; non-universal ones to their own class.”
 
-Universal anuśayas adhere by taking as support their own whole
+Universal anuśayas adhere by taking as Support their own whole
 level in all five modes. Non-universal anuśayas, within their
-own level, adhere by taking as support only their own class,
+own level, adhere by taking as Support only their own class,
 not another. For example, those to be abandoned through seeing
 suffering take the class to be abandoned through seeing
-suffering as support. The same holds through to those to be
+suffering as Support. The same holds through to those to be
 abandoned through cultivation: they take only their own
 corresponding class. Having given the general rule, he turns
 to an exception.
 
 ## 4. Argument and Doctrinal Determination
 
-The opening question distinguishes `ālambanataḥ`, through a
-cognitive support, from `saṃprayogataḥ`, through association.
-The Kārikā answers first for the support relation. A universal
+The opening question distinguishes `ālambanataḥ`, through
+Support, from `saṃprayogataḥ`, through association.
+The Kārikā answers first for the Support relation. A universal
 anuśaya ranges across the five abandonment classes within its
 own `bhūmi`; a non-universal one is restricted to its own
 `nikāya` there. The prose fixes `nikāya` locally as one of the
@@ -66,7 +66,7 @@ five truth- or cultivation-specific abandonment classes.
 This is a scoped universality, not a claim that one anuśaya
 pervades every domain or every object without restriction.
 It also does not settle the association side of the opening
-question. The next verse states exceptions to the support rule
+question. The next verse states exceptions to the Support rule
 and then supplies the distinct association rule.
 
 ## 5. Translation and Interpretation
@@ -79,7 +79,7 @@ abandonment class, not a social school or a loose group.
 and the cultivation class previously established.
 
 **Organon reconstruction.** The same affliction can be described
-by the level over which its support relation ranges and by the
+by the level over which its Support relation ranges and by the
 class within that level. A formal account of our Science of
 Citta would have to preserve those two scopes as well as the
 separate association relation. That is a prospective constraint,

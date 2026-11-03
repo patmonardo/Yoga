@@ -41,11 +41,10 @@ etac ca paścāt pravedayiṣyāmaḥ.
 The unit runs from [277|03] through [277|15] in
 `Vasubandhu/Sources/kosabhasya.txt`; [277|16] opens 5.02. Spacing,
 punctuation, and the sandhi separation are editorial. The running e-text
-reads `arigṛhṇāti` and `pandhanārthaṃ`. Both are uncertain; the latter
-likely intends `bandhanārthaṃ`, but neither is silently repaired here.
-The research excerpt already changes `pandhanārthaṃ` to
-`bandhanārthaṃ`. The compact `athāgrahaṇaṃ` also needs independent
-comparison before its precise grammatical force can be fixed.
+reads `arigṛhṇāti` and `pandhanārthaṃ`; both are retained above.
+`Parigṛhṇāti` and `bandhanārthaṃ` are plausible repairs, but they are not
+substituted for the witness. The compact `athāgrahaṇaṃ` needs independent
+comparison before its segmentation and grammatical force can be fixed.
 
 ## 3. Continuous Translation
 
@@ -57,21 +56,21 @@ understand: “The anuśayas are the root of existence.”
 For an affliction in operation performs ten functions: it strengthens
 the root, establishes the continuum, prepares the field, produces an
 outflow, brings forth karmic existence, takes up its own accumulation,
-deludes with regard to the cognitive condition, bends the stream of
+deludes with regard to the Support, bends the stream of
 Cognition, departs from the wholesome side, and extends for the sake
 of binding, in the mode of not passing beyond the realm.
 
 How many anuśayas are there? In summary, six. Which? “Attachment,
-resistance, conceit, ignorance, view, and doubt.” The expression
-`atha` [as transmitted in `athāgrahaṇaṃ`] is said to indicate, by way
-of attachment, that the others also lie upon their cognitive supports.
-This will be explained later. “These, in turn—”
+resistance, conceit, ignorance, view, and doubt.” [The transmitted
+`athāgrahaṇaṃ` is uncertain.] The reference to attachment serves to
+indicate that the others also adhere to their Supports. This will be
+explained later. “These, in turn—”
 
 The sixth function, translated provisionally as “takes up its own
 accumulation,” rests on the uncertain `arigṛhṇāti`. The final function
-uses the likely sense of `bandhana` while retaining the witness form in
-the Sanskrit above. The explanation of `athāgrahaṇaṃ` remains
-provisional as well.
+uses the likely sense of `bandhana` while retaining `pandhanārthaṃ` in
+the Sanskrit above. The bracketed sentence records uncertainty in the
+closing clause rather than silently assigning `athāgrahaṇaṃ` a meaning.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -99,11 +98,12 @@ this study.
 
 **Translation decisions.** `Bhava` means conditioned existence here:
 the prose specifies its production by accumulated karma. `Ālambana`
-is rendered “cognitive condition”; it should not be merged with Object,
-the comprehended truth of a thing. `Vijñānasrotas` is the stream of
+is rendered “Support” in both occurrences; it should not be merged with
+Basis (*āśraya*), Condition (*viṣaya*), or Object, the comprehended truth
+of a thing. `Vijñānasrotas` is the stream of
 Cognition, not a term for consciousness (*citta*). `Anuśaya` remains transliterated
 until the chapter's own analysis establishes its relation to active
-affliction. “Lies upon” in the final explanatory sentence is a
+affliction. “Adhere to” in the final explanatory sentence is a
 provisional rendering of `anuśāyita`, not a claim that the six are
 always manifest.
 
@@ -117,6 +117,8 @@ visible episode of attachment or aversion.
 
 ## 6. Review Status
 
-The complete 5.01 unit has been checked against the running source and
-translated. The three readings `arigṛhṇāti`, `pandhanārthaṃ`, and
-`athāgrahaṇaṃ` remain open for comparison with another witness.
+The complete 5.01 unit, [277|03]–[277|15], has been checked against the
+running source, including all ten functions and the closing explanation.
+The three readings `arigṛhṇāti`, `pandhanārthaṃ`, and `athāgrahaṇaṃ`
+remain open for comparison with an independent witness. No sentence from
+the 5.02 unit beginning at [277|16] is included here.

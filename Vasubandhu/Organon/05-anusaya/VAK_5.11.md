@@ -109,16 +109,16 @@ as a second list.
 > manifestation. Those formations may remain formally assigned to later
 > cultivation, yet they can no longer become active in the noble continuum.
 > Seeing therefore acts both directly, by abandoning view, and indirectly, by
-> breaking the support through which dependent conceit, craving, harmful
-> occupation, and unwholesome remorse could arise. Liberation develops through
-> differentiated states: classification, availability, manifestation, and
-> completed abandonment cannot be collapsed.
+> disabling the conceit, craving, and harmful occupation nourished by those
+> views. Unwholesome remorse has a separate dependency on doubt. Classification,
+> availability, manifestation, and completed abandonment must remain distinct
+> in the account of liberation.
 
 The Bhāṣya's image is `bhagnapṛṣṭha`, “broken-backed”:
 
 ```text
 nourishing view destroyed
-    → dependent affliction loses its operative support
+    → dependent affliction loses its nourishing source
         → it no longer rises into manifestation
 ```
 
@@ -152,8 +152,9 @@ Yoga's technical `asmitā` without comparative analysis.
 
 **`Dṛṣṭipuṣṭa` — nourished by view**
 
-A dependency relation, not mere agreement with a doctrine. The view supplies
-the operative condition through which a secondary formation can manifest.
+A dependency relation, not mere agreement with a doctrine. The view nourishes
+the secondary formation so that it can manifest. This relation is distinct
+from `ālambana`, cognitive Support.
 
 **`Bhagnapṛṣṭhatva` — having its back broken**
 
@@ -196,6 +197,9 @@ AND DependsForManifestation(SecondaryAffliction, View)
     → NotManifestableIn(SecondaryAffliction, Arya)
 ```
 
+The remorse case has a different stated ground: it arises from
+`vicikitsā`, doubt. The view-nourishment rule does not subsume it.
+
 But:
 
 ```text
@@ -216,7 +220,7 @@ presently manifest
 formally abandoned
 ```
 
-VAK 5.11 therefore refines `hetu–phala`: removing a supporting cause can
+VAK 5.11 therefore refines `hetu–phala`: removing a nourishing view can
 produce the result of non-manifestability before the dependent determination
 itself reaches completed abandonment.
 
@@ -224,15 +228,15 @@ itself reaches completed abandonment.
 
 This verse gives the Product an internal state architecture. A determination
 cannot be represented adequately by one Boolean property such as present or
-absent. Its status includes its type, remaining support, capacity to execute,
-actual manifestation, and stage of transformation.
+absent. Its status includes its type, remaining dependencies, capacity to
+execute, actual manifestation, and stage of transformation.
 
 ```text
 Anuśaya
     available disposition
 
 View-nourishment
-    enabling support for manifestation
+    enabling relation for manifestation
 
 Paryavasthāna / samudācāra
     active occurrence
@@ -252,7 +256,7 @@ possible transactions.
 This supplies an implementation principle of unusual precision:
 
 ```text
-remove or transform a generative support
+remove or transform a nourishing view
     → dependent operations become non-executable
 without pretending
     → their full lifecycle has already been erased
@@ -261,7 +265,7 @@ without pretending
 That is a determinate result of Reason in the Product. It prevents both errors:
 reporting an affliction as active merely because it remains classified as
 un-abandoned, and reporting it as completely eliminated merely because its
-current support has been disabled.
+the nourishing view has been removed.
 
 This is Organon reconstruction. The textual basis is Vasubandhu's distinction
 between cultivation-abandonable status and actual manifestation, together

@@ -14,7 +14,7 @@ svabhūmy-uparamo mārgaḥ ṣaḍbhūmi-navabhūmikaḥ |
 tad-gocarāṇāṃ viṣayo mārgo hy anyo 'nya-hetukaḥ || 5.15 ||
 ```
 
-The verse specifies the object-range of the cessation-oriented and
+The verse specifies the range of the cessation-oriented and
 path-oriented anuśayas identified in VAK 5.14.
 
 ## 3. Lexical Analysis
@@ -26,7 +26,7 @@ path-oriented anuśayas identified in VAK 5.14.
 | `ṣaḍ-bhūmi` | first member of the compound `ṣaḍbhūmi-navabhūmikaḥ` | the six-level side of the path |
 | `nava-bhūmikaḥ` | nominative singular masculine adjective | belonging to nine levels |
 | `tad-gocarāṇām` | genitive plural | of those whose cognitive range is that |
-| `viṣayaḥ` | nominative singular masculine | object, determinate field |
+| `viṣayaḥ` | nominative singular masculine | Condition, determinate field |
 | `hi` | explanatory particle | for, because |
 | `anyaḥ anya-hetukaḥ` | nominative singular construction | one has another as cause; one is causally related to another |
 
@@ -38,7 +38,7 @@ the Bhāṣya distributes them across the two knowledge-sides of the Path.
 
 The compact first pāda requires the Bhāṣya to distribute the six- and
 nine-level predicates. They do not qualify cessation: they distinguish two
-sides of the path and their corresponding afflicted object-relations.
+sides of the path and their corresponding afflicted range-relations.
 
 ## 4. Grammar
 
@@ -61,12 +61,12 @@ mārgaḥ ṣaḍ-bhūmiḥ [vā] nava-bhūmikaḥ
 tad-gocarāṇāṃ viṣayaḥ
 
 the path belonging to six or nine levels
-is the object of those whose range is that
+is the Condition for those whose range is that
 ```
 
 The Bhāṣya resolves the compressed construction: the six-level
-`dharmajñāna` side is the object for Desire Realm path-oriented anuśayas; the
-nine-level `anvayajñāna` side is the object for those of the form and formless
+`dharmajñāna` side is the Condition for Desire Realm path-oriented anuśayas; the
+nine-level `anvayajñāna` side is the Condition for those of the form and formless
 realms.
 
 **Causal rationale**
@@ -79,7 +79,7 @@ for one path has another as cause
 
 The distributive force of `anyaḥ ... anya-` expresses causal connection among
 distinct path moments. The Bhāṣya also speaks of mutual causality, while still
-restricting object-range according to counteragent function.
+restricting the range according to counteragent function.
 The restriction by `pratipakṣa`, counteragent function, belongs to the
 Bhāṣya's subsequent objections and qualifies the path's possible range.
 
@@ -88,14 +88,14 @@ Bhāṣya's subsequent objections and qualifies the path's possible range.
 ### Literal Translation
 
 > Cessation is the cessation of its own level. The path, belonging to six
-> levels or nine levels, is the object of those whose range is that; for one
+> levels or nine levels, is the Condition for those whose range is that; for one
 > path has another as cause.
 
 ### Bhāṣya-informed study translation
 
-> Cessation is confined to its own level. Those whose range is the Path take
-> as object the six-level dharmajñāna Path or the nine-level anvayajñāna Path,
-> according to realm, since one path is a cause of another.
+> Cessation is confined to its own level. Those whose range is the Path have
+> the six-level dharmajñāna Path or the nine-level anvayajñāna Path as their
+> Condition, according to domain, since one path is a cause of another.
 
 ## 6. Philosophical Translation
 
@@ -125,7 +125,7 @@ structure.
 **`Svabhūmy-uparama` — cessation of one's own level**
 
 For an anuśaya belonging to the Desire Realm, only cessation of the desire
-realm is its cessation-object; the same own-level rule continues through the
+realm serves as its Support; the same own-level rule continues through the
 summit of existence. Cessation is determinate termination, not bare absence.
 
 **`Bhūmi` — level or stage**
@@ -136,22 +136,22 @@ mere spatial location.
 
 **`Dharmajñāna-pakṣa` — the dharma-knowledge side of the path**
 
-The Bhāṣya assigns this six-level path to the object-range of Desire Realm
+The Bhāṣya assigns this six-level path to the Support range of Desire Realm
 path-oriented anuśayas. Its fuller determination belongs to the later Path
 and Knowledge chapters.
 
 **`Anvayajñāna-pakṣa` — the subsequent or corresponding-knowledge side**
 
-The Bhāṣya assigns this nine-level path to the object-range of path-oriented
+The Bhāṣya assigns this nine-level path to the Support range of path-oriented
 anuśayas belonging to the Form and Formless realms, including levels not
 directly seen.
 The provisional English remains subordinate to its later technical analysis.
 
 **`Pratipakṣa` — counteragent**
 
-Object-range is not established by causal connectedness alone. The Bhāṣya
+Support range is not established by causal connectedness alone. The Bhāṣya
 notes that `anvayajñāna` is not the counteragent to the Desire Realm; hence
-Desire Realm path-oriented anuśayas do not take that side as support.
+Desire Realm path-oriented anuśayas do not take that side as Support.
 
 **`Anyo 'nya-hetuka` — one path caused by another**
 
@@ -162,9 +162,10 @@ termination, does not possess.
 **`Gocara`, `viṣaya`, and `ālambana`**
 
 The kārikā uses `gocara` and `viṣaya`; the Bhāṣya explains the relation through
-`ālambana`. All concern cognitive range here, but their syntactic roles remain
-distinct: the anuśaya has a range, while the determinate path is its object-
-support.
+`ālambana`. Here `gocara` marks the anuśaya's range, `viṣaya` names the
+Path as its Condition in the verse, and `ālambana` names the Path as its
+Support in the prose. This local relation does not make the three terms
+lexical synonyms.
 
 ## 8. Logical Determination
 
@@ -172,8 +173,8 @@ The cessation rule is indexical:
 
 ```text
 BelongsToLevel(anuśaya, L)
-AND HasObjectType(anuśaya, Cessation)
-    → HasObjectSupport(anuśaya, CessationOf(L))
+AND HasSupportType(anuśaya, Cessation)
+    → HasSupport(anuśaya, CessationOf(L))
 ```
 
 It excludes cross-level substitution:
@@ -188,11 +189,11 @@ The path rule is differentiated by realm:
 ```text
 DesireRealm(x)
 AND PathOriented(x)
-    → HasObjectSupport(x, SixLevelDharmajñanaPath)
+    → HasSupport(x, SixLevelDharmajñanaPath)
 
 FormOrFormlessRealm(x)
 AND PathOriented(x)
-    → HasObjectSupport(x, NineLevelAnvayajnanaPath)
+    → HasSupport(x, NineLevelAnvayajnanaPath)
 ```
 
 Causal relation is necessary but not sufficient for unrestricted range:
@@ -200,7 +201,7 @@ Causal relation is necessary but not sufficient for unrestricted range:
 ```text
 CausallyRelated(PathA, PathB)
 AND Counteracts(PathB, RealmOf(x))
-    → AdmissiblePathObject(x, PathB)
+    → AdmissiblePathSupport(x, PathB)
 ```
 
 Therefore:
@@ -261,7 +262,7 @@ phala
 
 Cause and result are not two externally juxtaposed events. A produced path-
 moment becomes a condition for a further path-moment; `phala` becomes a new
-`hetu`. Nor are support and object two inert poles. The achieved bhūmi is the
+`hetu`. Nor are Basis and Support two inert poles. The achieved bhūmi is the
 concrete `āśraya` from which the next determination operates, while the path
 as known truth is its `ālambana`. The Way is their determinate unity at the
 higher level.
@@ -292,21 +293,24 @@ vak:VAK_5_15 a vak:Karika ;
     vak:hasTopic vak:OwnLevelCessation,
                  vak:CausallyArticulatedPath .
 
-vak:OwnLevelCessationRule a vak:ObjectRangeRule ;
+vak:OwnLevelCessationRule a vak:SupportRangeRule ;
     vak:requires vak:AnusayaLevelIdentity ;
     vak:produces vak:CessationOfSameLevel ;
     vak:excludes vak:DifferentLevelCessation .
 
 vak:SixLevelDharmajñanaPath
-    a vak:UncontaminatedPathObject ;
-    vak:objectFor vak:DesireRealmPathOrientedAnusaya .
+    a vak:UncontaminatedPathSupport ;
+    vak:conditionFor vak:DesireRealmPathOrientedAnusaya ;
+    vak:supportFor vak:DesireRealmPathOrientedAnusaya .
 
 vak:NineLevelAnvayajnanaPath
-    a vak:UncontaminatedPathObject ;
-    vak:objectFor vak:FormRealmPathOrientedAnusaya,
+    a vak:UncontaminatedPathSupport ;
+    vak:conditionFor vak:FormRealmPathOrientedAnusaya,
+                     vak:FormlessRealmPathOrientedAnusaya ;
+    vak:supportFor vak:FormRealmPathOrientedAnusaya,
                   vak:FormlessRealmPathOrientedAnusaya .
 
-vak:PathObjectAdmissibilityRule a vak:ObjectRangeRule ;
+vak:PathSupportAdmissibilityRule a vak:SupportRangeRule ;
     vak:requires vak:CausalPathRelation,
                  vak:AppropriateCounteragentFunction .
 
@@ -324,7 +328,8 @@ vak:PathObjectivity a vak:HigherObjectivity ;
                     vak:AlambanaFunction .
 ```
 
-The seed distinguishes terminal level-identity from generative path-causality.
-It also represents Path Objectivity through all four functions, without
+The seed keeps the verse's Condition relation and the Bhāṣya's Support relation
+distinct while distinguishing terminal level-identity from generative
+path-causality. It also represents Path Objectivity through all four functions, without
 claiming that their Organon synthesis is an explicit four-term list in the
 kārikā.

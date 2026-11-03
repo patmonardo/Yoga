@@ -43,7 +43,14 @@ The unit is [291|15–292|07] of
 starts the next discussion. Word division and punctuation are
 editorial. The running IAST source reads `vividhasmṛtimūlāni`
 and `dṛṣṭānnīti`; both are retained rather than conjecturally
-repaired. The former is difficult to construe in this context.
+repaired. The former is difficult to construe in this context. The
+verse has `te`, while its prose gloss begins `sa ity`; the following
+`avyākṛtā tṛṣṇā dṛṣṭir māno 'vidyā ca` establishes the intended
+indeterminate qualification without settling that mismatch.
+Xuanzang's [parallel](https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra12/T29n1558.pdf)
+explicitly gives the stable and downward-moving root analogy and
+the rival four-root list; it supports the sense without resolving
+the Sanskrit forms.
 
 ## 3. Continuous Translation
 
@@ -56,8 +63,8 @@ observed in the world to be stable and to extend downward.
 
 “The outside authorities say there are just four.” They hold
 that four factors are roots of the indeterminate: “craving,
-view, conceit, and delusion—those.” The pronoun indicates that
-these are the indeterminate instances: indeterminate craving,
+view, conceit, and delusion—those.” The prose says that `sa`
+indicates indeterminate status: indeterminate craving,
 view, conceit, and ignorance. Why do they consider these roots
 of the indeterminate? “Because of the meditators, through
 ignorance.” There are three sorts of meditator, dominated
@@ -87,22 +94,24 @@ the rivalry in this unit.
 
 **Translation decisions.** `Kila` marks the reported explanation.
 `Dvaidha-vṛtti` describes doubt's divided movement; `ūrdhva-vṛtti`
-describes conceit's upward movement. The prose interprets `te`
-as limiting all four rival candidates to their indeterminate
-instances. `Tṛṣṇā-dṛṣṭi-māna-uttara-dhyāyinaḥ` is read as three
+describes conceit's upward movement. Despite the `te`/`sa ity`
+mismatch, the prose limits all four rival candidates to their
+indeterminate instances. `Tṛṣṇā-dṛṣṭi-māna-uttara-dhyāyinaḥ` is read as three
 meditator types distinguished by their predominant factor;
 `avidyāvaśāt` gives their shared dependence on ignorance.
 
 **Organon reconstruction.** This dispute tests what it means
 for a factor to be a root. One account uses the formal behavior
-of the factor; the rival invokes recurring configurations of
+of the factor; the rival invokes three configurations of
 meditative experience. For the Science of Citta, those are
 distinct kinds of evidence. This comparison is a project-level
 reconstruction, separate from either school's stated doctrine.
 
 ## 6. Review Status
 
-Provisional. The complete IAST unit and the next discussion's
-boundary were checked. The two difficult transmitted forms
-`vividhasmṛtimūlāni` and `dṛṣṭānnīti` remain open for later
-textual review.
+The complete natural unit [291|15–292|07] has been compared with
+the running Sanskrit witness, with no omitted span; [292|08]
+begins the next discussion. Xuanzang's parallel supports the
+root analogy and the rival four-root list. The difficult
+transmitted forms `vividhasmṛtimūlāni` and `dṛṣṭānnīti`, and
+the verse/prose `te`/`sa ity` mismatch, remain open for textual review.

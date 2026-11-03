@@ -59,8 +59,8 @@ This unit runs from [281|17] through [282|12–13] in
 `Vasubandhu/Sources/kosabhasya.txt`. Spacing and punctuation are
 editorial. The running e-text's `paṇca`, `druvo`, `hīnā gra`,
 `pravṛṭtā`, `śīlavṛta`, and `mokṣāsya` remain visible; their exact
-forms need witness comparison. At [282|13] a fresh question about
-viewing a genuine cause as cause begins the 5.08 argument.
+forms need witness comparison. At [282|13] the next unit opens with
+a causal question following a short introductory clause.
 
 ## 3. Continuous Translation
 
@@ -75,11 +75,11 @@ The view of a self or of what belongs to a self is satkāya-view.
 Thus `satkāya` denotes the five Bases of appropriation. This
 expression is meant to dispel notions of permanence and of a
 compact whole, which precede grasping those Bases as self.
-Any view taking contaminated Bases as its cognitive support
-could broadly be called a view concerning satkāya, but the name
-`satkāyadṛṣṭi` is restricted here to the view of self or mine. The
-restriction shows that its object is neither an actual self nor
-something belonging to one. The cited saying states that whoever
+Every view taking what has outflows as its Support concerns satkāya
+in this broad sense, but the name `satkāyadṛṣṭi` is restricted here
+to the view of self or mine. The restriction shows that this view
+concerns the five appropriated Bases, not an actual self or an
+actual possession of self. The cited saying states that whoever
 regards something as self regards these five Bases of
 appropriation.
 
@@ -89,8 +89,8 @@ of eternalism and annihilationism.
 
 When a truth such as suffering obtains, the view “it does not
 exist” is false view. All inverted views could broadly bear that
-name, but this one receives it especially because of its
-predominance, like an especially foul wound. It denies what is
+name, but this one receives it because its fault is especially
+pronounced, like an especially foul wound. It denies what is
 there; the other views superimpose what is not there.
 
 The view that what is inferior is supreme is adherence to views.
@@ -134,6 +134,8 @@ Bases as a self or its possessions.
 
 **Translation decisions.** `Satkāya` remains visible because its
 Bhāṣya etymology and its reference to the five Bases matter.
+`Sāsravālambanā` is rendered “taking what has outflows as Support”;
+the Support is not the project term Object.
 `Ātman` is not rendered as a generic psychological “ego.”
 `Sāsrava` is glossed as “with outflows,” while the Sanskrit remains
 the controlled term. `Apavāda` and `samāropa` name distinct
@@ -151,4 +153,6 @@ here for that distinct question.
 
 The complete 5.07 definition unit has been checked against the
 running source and stops before 5.08's causal question. The rough
-e-text forms named above remain provisional.
+e-text forms named above remain provisional. The five definitions,
+the cancellation/superimposition distinction, and the closing
+examples are all included in the continuous translation.

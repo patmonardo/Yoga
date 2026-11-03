@@ -15,7 +15,7 @@ nitīraṇāt samāropāt saṃjñā-citte tu tad-vaśāt || 5.9 ||
 ```
 
 The verse defines a technically restricted class of inversion. Four
-`viparyāsas` arise from three views; recognition and consciousness are called
+`viparyāsas` arise from three views; recognition and Consciousness are called
 inverted through being governed by those primary view-inversions.
 
 ## 3. Lexical Analysis
@@ -27,7 +27,7 @@ inverted through being governed by those primary view-inversions.
 | `viparītataḥ` | ablatival adverb | because of contrariness |
 | `nitīraṇāt` | ablative singular | because of decisive determination |
 | `samāropāt` | ablative singular | because of superimposition |
-| `saṃjñā-citte` | nominative dual neuter | recognition and consciousness |
+| `saṃjñā-citte` | nominative dual neuter | recognition and Consciousness |
 | `tu` | contrastive particle | but, however |
 | `tad-vaśāt` | ablative singular compound used adverbially | through being under its power |
 
@@ -39,7 +39,7 @@ bearers.
 
 The Bhāṣya supports `nitīraṇa` through the explanatory vocabulary
 `nitīraka` and `santīraka`: decisively determining or fixing the cognitive
-support.
+Support.
 
 ## 4. Grammar
 
@@ -84,11 +84,11 @@ required characteristics of a proper `viparyāsa`.
 saṃjñā-citte tu
     tad-vaśāt [viparyāse]
 
-recognition and consciousness, however,
+recognition and Consciousness, however,
     [are inverted] through being under its power
 ```
 
-The Bhāṣya makes `dṛṣṭi-viparyāsa` primary. Recognition and consciousness
+The Bhāṣya makes `dṛṣṭi-viparyāsa` primary. Recognition and Consciousness
 receive the designation through association with and governance by the view.
 The mapping, the three defining conditions, and the primacy of `dṛṣṭi` are
 Bhāṣya determinations.
@@ -98,22 +98,22 @@ Bhāṣya determinations.
 ### Literal Translation
 
 > From three views comes the fourfold inversion, because of contrariness,
-> decisive determination, and superimposition. Recognition and consciousness,
+> decisive determination, and superimposition. Recognition and Consciousness,
 > however, [are called inverted] through being under its power.
 
 ### Bhāṣya-informed study translation
 
 > From three views come four inversions, marked by contrariness, decisive
-> determination, and superimposition; recognition and consciousness are
+> determination, and superimposition; recognition and Consciousness are
 > called inverted through the power of those views.
 
 ## 6. Philosophical Translation
 
 > A proper inversion is not merely an incorrect statement. A governing view
-> encounters a cognitive support, determines it decisively under a contrary
-> predicate, and superimposes that predicate as the form in which the support
+> encounters a cognitive Support, determines it decisively under a contrary
+> predicate, and superimposes that predicate as the form in which the Support
 > is recognized. What is impermanent appears as permanent; suffering as
-> pleasure; impurity as purity; non-self as self. Recognition and consciousness
+> pleasure; impurity as purity; non-self as self. Recognition and Consciousness
 > then operate under this determination. Error has become formative: it
 > organizes how Concrete Existence appears and thereby reproduces itself
 > through the very field it has misconstrued.
@@ -125,7 +125,7 @@ governing view
     → contrary determination of ālambana
         → decisive fixation
             → positive superimposition
-                → recognition and consciousness under its power
+                → recognition and Consciousness under its power
 ```
 
 ## 7. Technical Vocabulary
@@ -133,7 +133,7 @@ governing view
 **`Viparyāsa` — technically proper inversion**
 
 Not every error qualifies. The Bhāṣya requires contrariness, decisive fixing
-of the cognitive support, and positive superimposition.
+of the cognitive Support, and positive superimposition.
 
 **The four inversions**
 
@@ -148,18 +148,19 @@ anātman → ātman    non-self taken as self
 
 The eternalist side of extreme-grasping view, view-adherence, and satkāya-view.
 Annihilationism and false view are excluded because they proceed through a
-mode of absence rather than positive superimposition. Discipline-and-observance
-adherence is excluded because it is not wholly contrary in the required way.
+mode of absence rather than positive superimposition. Adherence to discipline
+and observance is excluded because its Support is a measure of purification
+and it is therefore not wholly contrary in the required way.
 
 **`Nitīraṇa` — decisive determination**
 
 The cognition does not merely entertain a predicate. It fixes its cognitive
-support under that predicate. This committed determination helps distinguish
+Support under that predicate. This committed determination helps distinguish
 inversion from a passing or indeterminate error.
 
 **`Samāropa` — positive superimposition**
 
-Attribution of a determination that does not belong to the support. It
+Attribution of a determination that does not belong to the Support. It
 continues the contrast with `apavāda`, which cancels what does belong.
 
 **`Abhāvamukhapravṛtta` — proceeding through absence**
@@ -174,7 +175,7 @@ Satkāya-view is articulated as “I” and “mine.” The possessive side does
 require an independent sixth view; it is a second face of the same
 appropriative determination.
 
-**`Saṃjñā` and `citta` — recognition and consciousness**
+**`Saṃjñā` and `citta` — recognition and Consciousness**
 
 They are derivative inversion-bearers under `tadvaśa`, the power of the
 primary view-inversion. The Bhāṣya does not extend ordinary usage to call every
@@ -223,20 +224,21 @@ The sequence is recursive:
 ```text
 view structures recognition
 recognition presents the field accordingly
-consciousness operates within that presentation
+Consciousness operates within that presentation
 the presented field appears to confirm the governing view
 ```
 
-Abandoning the primary seeing-abandonable view therefore abandons its
-associated inversion-complex.
+On the primary account, abandoning the seeing-abandonable view also
+abandons its associated inversion complex. The other school's
+four cultivation-abandoned cases dispute that full extension.
 
 ## 9. Interpretive Note
 
 VAK 5.09 shows how the Subject can inhere in an objective display while
-misrecognizing its truth. `Ālambana` is a cognitive Condition, not Object,
-the comprehended truth of Vastu; it is the cognitive support transactionally
-presented. The governing view fixes that support under an alien predicate,
-and recognition and consciousness proceed within the resulting appearance.
+misrecognizing its truth. `Ālambana` names the cognitive Support;
+Condition and Object remain distinct project terms. The governing
+view fixes that Support under an alien predicate, and recognition
+and Consciousness proceed within the resulting appearance.
 
 ```text
 twofold objective display
@@ -264,7 +266,7 @@ it must restore the Subject's adequate comprehension of the Product.
 
 That is the Interpretation. The textual determination remains narrower:
 Vasubandhu defines proper inversion through contrariness, decisive
-determination, and superimposition, and makes recognition and consciousness
+determination, and superimposition, and makes recognition and Consciousness
 derivative from the governing view.
 
 ## 10. OWL++ Seed
@@ -311,5 +313,5 @@ vak:ConsciousnessInversion
 ```
 
 The seed distinguishes the generating view from the derivative inversion of
-recognition and consciousness. It also encodes positive superimposition rather
+recognition and Consciousness. It also encodes positive superimposition rather
 than flattening every error into a generic false value.

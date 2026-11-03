@@ -115,7 +115,7 @@ excludes the conception that the two higher realms are liberation.
 > sensuous. It can withdraw from outward desire and preserve itself as
 > attachment to refined conditioned existence. In the form and formless
 > realms this predominantly takes the form of attachment to samāpatti: the
-> attainment is savored together with the mode of existence that supports it.
+> attainment is savored together with its Basis and thus with one's mode of existence.
 > Because such attachment proceeds inwardly, it can resemble release. The
 > sevenfold classification exposes the retained binding relation within that
 > appearance of transcendence.
@@ -187,7 +187,7 @@ marks the explanation concerning the two realms as a reported position,
 
 **`Āsvāda` — savoring or enjoyment**
 
-The active relation by which beings enjoy samāpatti together with its support
+The active relation by which beings enjoy samāpatti together with its Basis
 and thereby enjoy their own `ātmabhāva`.
 
 **`Anuśaya`, `kleśa`, and `paryavasthāna` — disputed relation**
@@ -236,7 +236,7 @@ samāpattirāga
         → possible appearance of liberation
             → need for explicit discrimination
 
-savoring samāpatti with its support
+savoring samāpatti with its Basis
     → savoring one's ātmabhāva
         → attachment to existence
 ```
@@ -279,7 +279,7 @@ appropriation overcome
 Samāpatti remains the unity of its determinate cognitive operation; it is not
 introduced here as another afflictive member alongside the anuśayas. What is
 classified is `samāpattirāga`, the attachment that takes the attainment and
-its supporting mode of existence as what is to be enjoyed.
+its Basis as what is to be enjoyed, thereby savoring their own mode of existence.
 
 For the Yoga–Kośa project, this is a textual constraint on any higher
 reconstruction: inwardness, abstraction, stability, or power cannot certify
@@ -313,7 +313,8 @@ vak:BhavaRaga a vak:AnusayaType ;
     vak:mustBeDistinguishedFrom vak:Moksa .
 
 vak:AttachmentToSamapatti
-    vak:hasObject vak:SamapattiWithSupport ;
+    vak:hasBasis vak:SamapattiBasis ;
+    vak:attachesTo vak:Samapatti ;
     vak:involves vak:Savoring ;
     vak:appropriates vak:Atmabhava .
 

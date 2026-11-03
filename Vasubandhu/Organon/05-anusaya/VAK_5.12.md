@@ -90,7 +90,7 @@ count. Their range is the whole of their corresponding realm.
 ## 6. Philosophical Translation
 
 > An anuśaya is universal not because it is active at every place and moment,
-> but because its way of determining an object is general enough to range
+> but because its way of determining a Support is general enough to range
 > throughout its proper realm. Views, doubt, and their forms of ignorance can
 > misdetermine an entire field under a common character. Attachment and
 > conceit may repeatedly follow such views, yet repetition over particulars
@@ -111,7 +111,7 @@ resolution.
 
 **`Sarvatraga` — universally ranging**
 
-A classification by object-range. The term does not mean omnipresent,
+A classification by Support range. The term does not mean omnipresent,
 continually manifest, maximally intense, or unrestricted across every realm.
 
 **`Sabhāgadhātu-sarvatraga` — universal within a corresponding realm**
@@ -119,11 +119,12 @@ continually manifest, maximally intense, or unrestricted across every realm.
 The Bhāṣya's restriction prevents “universal” from becoming absolutely
 unbounded. The affliction ranges throughout its own homogeneous realm.
 
-**`Sakala-svadhātu-ālambana` — having the whole of its own realm as object-support**
+**`Sakala-svadhātu-ālambana` — having the whole of its own realm as Support**
 
-This is the Bhāṣya's defining rationale. `Ālambana` here names the objective
-range upon which cognition and affliction operate. “Whole” does not require a
-single simultaneous apprehension of every item.
+This is the Bhāṣya's defining rationale. `Ālambana` names the cognitive
+Support range of the affliction. The reply to the simultaneity objection
+allows taking all five classes of its own domain together; “whole” does
+not require apprehending every individual item at once.
 
 **The eleven universal anuśayas**
 
@@ -168,7 +169,7 @@ AND GeneralRealmRange(x)
 The Bhāṣya sharpens `GeneralRealmRange`:
 
 ```text
-HasObjectRange(x, WholeOfOwnRealm)
+HasSupportRange(x, WholeOfOwnRealm)
 AND RestrictedTo(x, CorrespondingRealm)
     → GeneralRealmRange(x)
 ```
@@ -204,10 +205,10 @@ Neither axis can be derived mechanically from the other.
 
 ## 9. Interpretive Note
 
-VAK 5.12 gives `ālambana` a decisive systematic role. It is not merely the
-external item called an “object.” It is the determinate objective field over
-which an afflictive form has jurisdiction. `Sarvatraga` describes the scope of
-that relation, while `sabhāgadhātu` supplies its boundary.
+VAK 5.12 gives `ālambana` a decisive systematic role as Support. Here
+it reaches across the five classes of the affliction's own domain.
+`Sarvatraga` describes the scope of that relation, while
+`sabhāgadhātu` supplies its boundary.
 
 This lets the Product be represented at two different logical resolutions:
 
@@ -264,7 +265,7 @@ vak:ElevenUniversalAnusayas
     ] .
 
 vak:UniversalAnusaya
-    vak:hasObjectRange vak:WholeOfOwnRealm ;
+    vak:hasSupportRange vak:WholeOfOwnRealm ;
     vak:rangeRestrictedBy vak:CorrespondingRealm ;
     vak:doesNotEntail vak:SimultaneousTotalApprehension .
 
@@ -280,6 +281,6 @@ vak:VaibhasikaResolution a vak:AttributedDoctrine ;
                                    vak:Conceit .
 ```
 
-The seed treats realm, object-range, manifestation, and association as
+The seed treats realm, Support range, manifestation, and association as
 separate relations. It does not infer universality from frequency,
 co-occurrence, or propagation across particulars.

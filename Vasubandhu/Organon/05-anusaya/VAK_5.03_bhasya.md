@@ -35,12 +35,12 @@ This unit begins with the transitional question at [279|13–14] and
 ends at [279|23] in `Vasubandhu/Sources/kosabhasya.txt`. The next
 verse answers `katame taḥ` with the detailed thirty-twofold
 Desire Realm enumeration. Spacing and punctuation above are editorial.
-The running source misnumbers the line containing `yathā
-dṛṣṭisvabhāvāḥ` as [278|18–19] and transmits the rough
-`rāgahpratidhho`. Its `yathā` appears to require a negative for the
-contrast with the preceding five; no such negative has been silently
-inserted. The research excerpt supplies a corrected `rāgaḥ pratigho`
-but likewise preserves `yathā`.
+The running witness has `śīlavṛta` and `antagrāha` where the paired
+kārikā study normalizes the spellings. It misnumbers the line containing
+`yathā dṛṣṭisvabhāvāḥ` as [278|18–19] and transmits the rough
+`rāgahpratidhho`. Its `yathā` conflicts with the contrast between the
+five views and the five remaining anuśayas; no negative has been
+silently inserted. The Sanskrit above retains both rough readings.
 
 ## 3. Continuous Translation
 
@@ -50,9 +50,9 @@ adherence to views, and adherence to discipline and observance. Thus,
 again, ten.” By making the view among the six anuśayas fivefold, they
 become ten. Five have the nature of view: satkāya-view,
 extreme-grasping view, false view, adherence to views, and adherence
-to discipline and observance. Attachment, resistance, conceit,
-ignorance, and doubt are the other five [the source's connecting
-word is uncertain].
+to discipline and observance. The remaining five are attachment,
+resistance, conceit, ignorance, and doubt [the witness reads `yathā
+dṛṣṭisvabhāvāḥ`, which would wrongly assign them the nature of view].
 
 These ten anuśayas, again, are made ninety-eight in the Abhidharma:
 thirty-six belonging to the Desire Realm, thirty-one to the
@@ -86,8 +86,9 @@ mere opinions detached from their domain and path relations.
 **Translation decisions.** The five view names remain technical
 compounds because this unit counts them but does not define them.
 The uncertain `yathā` sentence is rendered by its evident
-classificatory contrast and flagged above. `Abhidharme` locates the
-tenfold and ninety-eightfold schemes in the source's doctrinal
+classificatory contrast; its contrary transmitted wording is flagged
+in the continuous translation. `Abhidharme` locates the tenfold and
+ninety-eightfold schemes in the source's doctrinal
 classification, not in a project taxonomy.
 
 **Organon reconstruction.** Here a concept becomes more determinate
@@ -100,7 +101,8 @@ does not itself implement or authorize a software type system.
 
 ## 6. Review Status
 
-The complete 5.03 unit, including its lead-in and the question that
-hands off to 5.04, has been checked against the running source. The
-rough `rāgahpratidhho`, the line-number slip, and the uncertain
-`yathā` remain explicit pending another witness.
+The complete 5.03 unit, [279|13–23], including its lead-in and the
+question that hands off to 5.04, has been checked against the running
+source. The rough `rāgahpratidhho`, the line-number slip, and the
+conflicting `yathā` remain explicit pending an independent Sanskrit
+witness. The 5.04 verse begins at [280|01].

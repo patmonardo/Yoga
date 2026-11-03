@@ -54,8 +54,8 @@ The unit is [280|08–25] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question at [281|01]
 opens 5.06. Sandhi division and punctuation above are editorial.
 The transmitted `śīlavrataparāmaṛśo`, `pañca mānāṃ`, and
-`āmidhārmikāṇām` are retained as rough readings. The research
-excerpt preserves them too.
+`āmidhārmikāṇām` are retained as rough readings; the English follows
+the identifiable technical terms without silently changing the Sanskrit.
 
 ## 3. Continuous Translation
 
@@ -75,7 +75,7 @@ through cultivation.
 
 What distinguishes those abandoned through seeing suffering, and
 so on up to those abandoned through cultivation? Those whose
-cognitive supports belong to what is abandoned through seeing a
+Supports belong to what is abandoned through seeing a
 given truth are themselves abandoned through seeing that truth;
 the remainder are abandoned through cultivation. Thus there are
 twelve views, four doubts, five attachments, five resistances, five
@@ -108,22 +108,21 @@ resistance cases: `36 − 5 = 31` in each. Hence `36 + 31 + 31 = 98`.
 The source explicitly calls this the Abhidharmikas' reckoning.
 
 The prose's `evam antagrāhadṛṣṭiḥ` assigns extreme-grasping view
-the same one mode as satkāya-view. The research excerpt and its
-prose summary incorrectly group it with the four-mode false view;
-the running source's sentence boundary corrects that reading.
+the same one mode as satkāya-view. The four-mode classification begins
+with `mithyādṛṣṭiḥ` in the next clause.
 
 The test for a seeing-abandoned type is its `ālambana`: what it
-depends on as a cognitive support. A type whose support belongs to
+takes as Support. A type whose Support belongs to
 the relevant truth's abandonment class is assigned to that seeing;
 the remainder are assigned to cultivation. This is the text's
 rule for generating the matrix, not mere arithmetic after the fact.
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Mārgābhyāsa` is cultivation of the path
+**Translation decisions.** `Mārgābhyāsa` is cultivation of the Path
 after the truths have been seen; it does not erase the distinction
-between seeing and cultivation. `Ālambana` is rendered “cognitive
-support” to keep its technical relational role visible. The
+between seeing and cultivation. `Ālambana` is rendered “Support” to
+keep it distinct from Basis (*āśraya*) and Condition (*viṣaya*). The
 unusual forms in the e-text require comparison with another witness
 before normalizing the Sanskrit.
 
@@ -138,5 +137,6 @@ claimed by this textual result.
 
 The complete 5.05 unit has been checked against the running source,
 including the split Kārikā halves. The one-mode status of
-extreme-grasping view corrects the research prose summary. The
-rough e-text forms remain provisional pending another witness.
+extreme-grasping view follows the clause boundary before
+`mithyādṛṣṭiḥ`. The rough e-text forms remain provisional pending
+another witness.

@@ -39,7 +39,7 @@ bhāvanayā | tathā`. In the Bhāṣya's compact
 `māna`, `atimāna`, and `ūnamāna`.
 
 `Māna` is related to √mā, “measure,” but the Bhāṣya gives the operative
-definition `cittasya unnati`, elevation of consciousness. Its sevenfold
+definition `cittasya unnati`, elevation of Consciousness. Its sevenfold
 difference arises through `pravṛttibheda`, difference in operation.
 
 ## 4. Grammar
@@ -101,7 +101,7 @@ The seven definitions, the three sources of the nine modes, and the range of
 ## 6. Philosophical Translation
 
 > Once a field has been misconstrued, the agent measures itself within that
-> field. Conceit is this elevation of consciousness differentiated through
+> field. Conceit is this elevation of Consciousness differentiated through
 > comparative operation: superiority, equality, inferiority, attainment, and
 > self-appropriation become forms in which the continuum assigns itself a
 > position. Some forms lose their ground through seeing; others persist as
@@ -120,12 +120,12 @@ māna
     measures the self within that configured field
 
 paryavasthāna
-    occupies consciousness strongly enough to issue in deliberate action
+    occupies Consciousness strongly enough to issue in deliberate action
 ```
 
 ## 7. Technical Vocabulary
 
-**`Māna` — elevation of consciousness**
+**`Māna` — elevation of Consciousness**
 
 The Bhāṣya's generic definition is `cittasya unnati`. It is not restricted to
 boastfulness. Even judgments of equality or inferiority can preserve the
@@ -143,20 +143,31 @@ afflicted elevation by making self-comparison the governing relation.
 | `ūnamāna` | oneself as only slightly inferior to one greatly superior |
 | `mithyāmāna` | oneself as possessing excellence when excellence is absent |
 
-The local prose appears to write `abhimāna` where the sequence calls for the
-definition of `atimāna`; the controlled list follows the stated sevenfold
-enumeration while preserving this source caution.
+The local prose writes `abhimāna` where the sequence calls for the
+definition of `atimāna`. An independent Sanskrit collation and its Chinese
+parallels support `atimāna`; the sevenfold list above follows that reading
+while preserving the local source caution in the paired Bhāṣya study.
 
 **`Navavidhā mānāḥ` — nine conventional modes**
 
 The nine judgments concern being superior, equal, or inferior, together with
 having or not having someone superior, equal, or inferior. The Bhāṣya derives
-them from `māna`, `atimāna`, and `ūnamāna`, with their allocation varying
-according to the comparative relation intended.
+them from `māna`, `atimāna`, and `ūnamāna`. The Bhāṣya assigns the
+three ordered triplets as follows:
+
+| Judgment series | Conceits in order |
+|---|---|
+| “I am superior / equal / inferior” | `atimāna / māna / ūnamāna` |
+| “I have a superior / equal / inferior” | `ūnamāna / māna / atimāna` |
+| “I have no superior / equal / inferior” | `māna / atimāna / ūnamāna` |
+
+The later Prakaraṇa reading makes “I am superior” express different
+conceits according to whether the comparison concerns an inferior,
+an equal, or a superior.
 
 **`Pravṛttibheda` — difference in operation**
 
-The seven are not seven substances. One generic elevation of consciousness is
+The seven are not seven substances. One generic elevation of Consciousness is
 differentiated according to the way it operates.
 
 **`Paryavasthāna` — afflictive occupation**
@@ -218,7 +229,7 @@ AND HasCultivationAbandonableSupport(x)
     → CultivationAbandonable(x)
 ```
 
-This continues the `ālambana` rule: the cognitive support helps determine the
+This continues the `ālambana` rule: the cognitive Support helps determine the
 valid removal-mode.
 
 ## 9. Interpretive Note

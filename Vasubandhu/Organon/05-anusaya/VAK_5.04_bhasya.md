@@ -34,10 +34,8 @@ darśanaprahātavyāḥ, satyānāṃ darśanamātreṇa prahāṇāt.
 The Sanskrit follows [280|01–07] of
 `Vasubandhu/Sources/kosabhasya.txt`; only spacing and punctuation
 have been adjusted. At [280|08], `catvāro bhāvanāheyāḥ` begins the
-next Kārikā's material. The research excerpt includes that phrase
-and subsequent prose under 5.04, but the running source places it
-after this unit. The 5.03 study has already preserved the prose
-lead-in at [279|21–23].
+next kārikā's material. The 5.03 study preserves the prose lead-in at
+[279|21–23].
 
 ## 3. Continuous Translation
 
@@ -100,4 +98,5 @@ additional doctrine attributed to Vasubandhu.
 
 The complete 5.04 unit has been checked against the running source.
 It stops at [280|07], before the half-verse opening of 5.05. The
-research excerpt's later material is assigned to the next study.
+origination group has seven members, but the prose does not name its
+three excluded views in this unit.

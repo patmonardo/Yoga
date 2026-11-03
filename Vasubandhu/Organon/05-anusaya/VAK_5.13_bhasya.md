@@ -6,10 +6,10 @@
 > prāpti-varjyāḥ sahabhuvo ye 'py ebhis te 'pi sarvagāḥ || 5.13 ||
 
 > Of these eleven, nine—excluding satkāya-view and extreme-grasping view—take
-> higher realms as cognitive support; dharmas co-arising with these, except
+> higher domains as Support; dharmas co-arising with these, except
 > acquisitions, are likewise universal.
 
-The first half divides the eleven of 5.12 by cross-domain object-range;
+The first half divides the eleven of 5.12 by cross-domain Support range;
 the second asks how universal status extends to co-arisen dharmas.
 
 ## 2. Continuous Sanskrit
@@ -61,30 +61,31 @@ instruction to supply the third and fourth corners.
 
 The eleven anuśayas universally ranging within a corresponding
 domain have been stated. “Of these, nine have higher domains as
-cognitive supports, excluding two views.” Apart from
+Support, excluding two views.” Apart from
 satkāya-view and extreme-grasping view, the other nine can range
-universally toward a different domain. Sometimes their support
+universally toward a different domain. Sometimes their Support
 is one other domain, sometimes two. The cited formulation gives
-Desire Realm-connected anuśayas supported by Form Realm items,
+Desire Realm-connected anuśayas having Form Realm items as Support,
 by Formless Realm items, or by items of both higher domains.
 
 An objection asks: when someone in the Desire Realm forms a view
 of Brahmā as a being and as permanent, how could satkāya-view
-and extreme-grasping view lack a higher-domain support? The
+and extreme-grasping view lack a higher-domain Support? The
 answer says Brahmā is not grasped as self or mine; extreme-grasping
 view arises from precisely that self-appropriation. What, then,
-is this view? The Abhidharmikas call it false knowledge rather
+is this view? The Abhidharmikas call it false Knowledge rather
 than a view. The response challenges that classification: on
-what ground is another cognition with this support counted as
+what ground is another cognition with this Support counted as
 `dṛṣṭi`, while this one is not? The doctrine must be demonstrated.
 
 Are only the anuśayas universally ranging? No. “Those other
 dharmas that co-arise with them are also universal, excluding
 acquisitions.” Acquisitions are excluded because they have
-multiple results. Accordingly a four-cornered analysis can
-distinguish universal anuśayas from dharmas that are causes by
-the universal-cause relation. Future universal anuśayas form
-the first corner; past and present dharmas co-arising with them
+multiple results. Accordingly the text asks whether there can be
+universally ranging anuśayas that are not causes through the
+universal-cause relation, and opens a four-cornered analysis.
+Future universal anuśayas form the first corner; past and present
+dharmas co-arising with them
 form the second. The third and fourth corners are to be supplied
 accordingly; this passage does not spell them out.
 
@@ -93,11 +94,11 @@ accordingly; this passage does not spell them out.
 The nine are not all eleven: satkāya-view requires the self/mine
 relation, and extreme-grasping view depends on that appropriation.
 The quoted Abhidharma formula supports the possibility of one
-or two higher domains as cognitive supports for Desire Realm
-anuśayas. The Brahmā counterexample then tests whether the
-two excluded views really cannot take such a support.
+or two higher domains as Support for Desire Realm anuśayas.
+The Brahmā counterexample then tests whether the two excluded
+views really cannot take such a Support.
 
-`Ity ābhidhārmikāḥ` explicitly assigns the “false knowledge,
+`Ity ābhidhārmikāḥ` explicitly assigns the “false Knowledge,
 not view” reply to the Abhidharmikas. The following demand for
 proof prevents their naming of a category from settling the
 matter. The source leaves the exact differentiation contested
@@ -107,15 +108,16 @@ demonstrated.
 The second half distinguishes a universal anuśaya from its
 co-arisen dharmas and from its acquisition (`prāpti`). It then
 distinguishes being such an anuśaya from standing in the
-`sarvatrahetu` causal relation. The first two corners of the
-`catuṣkoṭika` are stated; the other two are referred to the
-reader. Supplying them as though they were explicit prose here
+`sarvatrahetu` causal relation. Its explicit question is whether
+a universal anuśaya can lack that causal function. The first two
+corners of the `catuṣkoṭika` are stated; the other two are referred
+to the reader. Supplying them as though they were explicit prose here
 would change the source's presentation.
 
 ## 5. Translation and Interpretation
 
 **Translation decisions.** `Ūrdhvālambana` is a higher-domain
-cognitive support, while the prose also says `visabhāgadhātu`,
+Support, while the prose also says `visabhāgadhātu`,
 a domain different from the corresponding one. `Mithyājñāna`
 is the Abhidharmikas' contested classification; it is not our
 final name for the Brahmā cognition. `Prāpti` remains a technical
@@ -123,7 +125,7 @@ acquisition relation, not a synonym for manifestation or for
 the co-arisen event.
 
 **Organon reconstruction.** Universal range, cross-domain
-support, co-arisen participation, acquisition, and causal
+Support, co-arisen participation, acquisition, and causal
 function are separate relations. This is the kind of division
 our Science of Citta needs before any formal representation.
 The strongest methodological point is the source's demand to

@@ -100,8 +100,8 @@ qualification does not change the verse's stated class list.
 > of an unwholesome act. Its ethical status depends upon the realm in which it
 > occurs, the factors with which it is conjoined, the way it was generated,
 > the conduct with which it is compatible, and the maturation it can produce.
-> The same named view can therefore receive a different ethical determination
-> when its mode of genesis and practical efficacy differ.
+> In the earlier teachers' reported account, body-view receives different
+> ethical determinations when its mode of genesis differs.
 
 The verse and Bhāṣya separate:
 
@@ -161,9 +161,10 @@ may support.
 
 **`Sahajā` and `vikalpitā satkāyadṛṣṭi`**
 
-Innate body-view, found even in animals, is indeterminate. Earlier teachers
-classify the constructed or conceptually elaborated form as unwholesome. The
-same doctrinal species is thus differentiated by genesis.
+The Bhāṣya reports the earlier teachers' distinction: innate body-view,
+found even in animals, is indeterminate, while its constructed or conceptually
+elaborated form is unwholesome. This qualifies the verse's general class
+statement; the difference by genesis belongs to this attributed account.
 
 ## 8. Logical Determination
 
@@ -191,7 +192,7 @@ CompatibleWithWholesomePractice(x)
 The higher-realm argument is genetic:
 
 ```text
-LacksCause(x, OtherDirectedInjury)
+HigherRealmAnusaya(x) ∧ LacksCause(x, OtherDirectedInjury)
     → LacksResult(x, PainfulMaturationOfThatKind)
     → EthicallyIndeterminate(x)
 ```
@@ -199,11 +200,12 @@ LacksCause(x, OtherDirectedInjury)
 The Desire Realm exception adds conjunction and genesis:
 
 ```text
-ConjoinedWith(Ignorance, IndeterminateView)
+ConjoinedWith(Ignorance, SatkayaViewOrExtremeView)
     → EthicallyIndeterminate(Ignorance)
 
 Innate(BodyView)
     → EthicallyIndeterminate(BodyView)
+        [attributed to earlier teachers]
 
 ConceptuallyConstructed(BodyView)
     → EthicallyUnwholesome(BodyView)
@@ -218,7 +220,7 @@ and efficacy rather than an immutable value attached to a lexical class.
 VAK 5.19 shows why the higher Objectivity of Path needs both Theory and Path-
 bhūmi. Theory can diagnose a determination as false or contaminated. But its
 practical and ethical status becomes known only through the achieved complex
-of cause, support, object, conjunction, action, and result.
+of cause, Basis, Support, Condition, conjunction, action, and result.
 
 This is not a weakening of truth. It is a refusal to confuse theoretical
 defect with practical evil:
@@ -244,17 +246,21 @@ phala
     ethical efficacy and karmic maturation actually produced
 
 āśraya
-    realm and conjoined event-complex in which the determination operates
+    Basis in which the determination operates; the realm and conjunction
+    must also be specified
 
 ālambana
-    the object-complex as falsely, innately, or conceptually determined
+    Support taken by the cognition; its relation to the Condition and the
+    mode of determination require separate analysis
 ```
 
-No single term can decide the classification alone. The `ālambana` may be
-falsely determined while the `phala` is not painful maturation; the higher
-`āśraya` may refine conduct while retaining afflicted cognition; a constructed
-`hetu` may turn an innate indeterminate view into an unwholesome doctrinal
-formation. Ethical status is the concrete result of the entire circuit.
+No single term can decide the classification alone. A cognition taking a
+Support may be false while its `phala` is not painful maturation; a higher
+realm may exclude the specified cause of injury while retaining afflicted
+cognition. On the earlier teachers' account, constructed body-view receives
+a different ethical classification from innate body-view. Ethical status
+requires the concrete relations stated in the passage, while the fourfold
+circuit here is an Organon reconstruction.
 
 This explains how the shock can be handled scientifically. The system does
 not excuse error, but neither does it demonize every error as the same form of
@@ -285,7 +291,7 @@ vak:HigherRealmAnusaya
     vak:hasEthicalStatus vak:Indeterminate .
 
 vak:DesireRealmIndeterminateSet
-    vak:includes vak:InnateBodyView,
+    vak:includes vak:SatkayaView,
                  vak:ExtremeView,
                  vak:IgnoranceConjoinedWithThoseViews .
 
@@ -297,6 +303,12 @@ vak:ConstructedBodyViewClassification
     vak:attributedTo vak:EarlierTeachers ;
     vak:classifies vak:ConstructedBodyView ;
     vak:hasEthicalStatus vak:Unwholesome .
+
+vak:InnateBodyViewClassification
+    a vak:AttributedDoctrine ;
+    vak:attributedTo vak:EarlierTeachers ;
+    vak:classifies vak:InnateBodyView ;
+    vak:hasEthicalStatus vak:Indeterminate .
 
 vak:EthicalDeterminationCircuit
     vak:evaluates vak:HetuFunction,

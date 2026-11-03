@@ -124,8 +124,9 @@ permanence and compact unity.
 **`Satkāyadṛṣṭi` — view of self or mine**
 
 The five Bases are taken either as self or as belonging to self. The
-commentary stresses that the view does not take a real self as its object; it
-misconstrues the collection of Bases under “I” and “mine.”
+commentary stresses that the view concerns the five appropriated Bases,
+not a real self or its possessions. The Bases are its Support; it
+misconstrues them under “I” and “mine.”
 
 **`Antagrāhadṛṣṭi` — extreme-grasping view**
 
@@ -136,7 +137,7 @@ extremes presuppose the prior appropriation.
 
 Paradigmatically, the judgment “it does not exist” concerning truths such as
 suffering that do obtain. Although every inverted view may broadly be called
-false, this one receives the name by predominance.
+false, this one receives the name because its fault is especially marked.
 
 **`Dṛṣṭiparāmarśa` — elevation of the inferior as supreme**
 

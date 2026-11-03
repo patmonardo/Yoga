@@ -7,7 +7,7 @@
 तृष्णादृङ्मानमोहास्ते ध्यायितृत्वादविद्यया ॥ ५.२१ ॥
 ```
 
-The kārikā-only witness gives a closely related initial form, but the Bhāṣya
+The kārikā-only witness reads `द्विधोर्ध्ववृत्तेः`, but the Bhāṣya
 transmits and distributively explains `द्वैधोर्ध्ववृत्तेः`: twofold movement
 belongs to doubt and upward movement to conceit. The official study adopts the
 Bhāṣya-supported reading while retaining the variant as an open critical-text
@@ -102,10 +102,10 @@ transmitted wording; its exact Sanskrit construal remains provisional.
 > A root is not every factor that precedes or influences another. On one
 > account, roothood belongs to a determination whose inner form is stable and
 > grounding: doubt fails because it oscillates, and conceit fails because it
-> elevates. On the competing account, a root is disclosed through what it
-> repeatedly produces: craving, view, and conceit each organize a recognizable
-> type of meditator, while ignorance governs all three. Ground may therefore be
-> sought either in supporting form or in generated appearance.
+> elevates. The competing account points to three kinds of meditator,
+> distinguished by whether craving, view, or conceit predominates, and says
+> all three arise under ignorance. This offers a different ground for its
+> four-root list without explaining that ground by the stability analogy.
 
 The disagreement concerns the criterion of ground:
 
@@ -113,11 +113,11 @@ The disagreement concerns the criterion of ground:
 inner form
     what is stable enough to support a field?
 
-manifested product
-    what repeatedly generates a determinate practitioner-type?
+meditator classification
+    which factors predominate in practitioners, and under what common power?
 ```
 
-The two tests are related, but the text does not make them equivalent.
+The two arguments are related, but the text does not make them equivalent.
 
 ## 7. Technical Vocabulary
 
@@ -153,8 +153,9 @@ indeterminate conceit
 indeterminate ignorance
 ```
 
-The pronoun `te`, as explained by the Bhāṣya, carries the indeterminate
-qualification.
+The verse's `te` points to the named four. The Bhāṣya's following prose
+specifies their indeterminate instances, although its introductory `sa ity`
+does not match the verse's pronoun exactly in the working witness.
 
 **`Dhyāyin` — meditator**
 
@@ -189,11 +190,12 @@ UpwardMovement(Conceit)
     → NotRoot(Conceit)
 ```
 
-The alternative criterion reasons from products:
+The alternative appeal to meditator types can be represented more cautiously:
 
 ```text
-RepeatedlyGenerates(x, MeditatorType)
-    → RootAccordingToAlternativeSchool(x)
+PredominatesIn(CravingOrViewOrConceit, MeditatorType)
+    AND ArisesUnder(MeditatorType, Ignorance)
+    → EvidenceFor(AlternativeFourRootList)
 ```
 
 with a governing condition:
@@ -209,26 +211,26 @@ The two predicates must remain distinct:
 
 ```text
 HasGroundingForm(x)
-    ≠ GeneratesRecognizablePractitionerType(x)
+    ≠ PredominatesIn(x, MeditatorType)
 ```
 
-The doctrinal dispute asks whether roothood is established from internal form
-or from recurrent generated actuality.
+The doctrinal dispute sets an argument from the form of a root beside an
+argument from kinds of meditator; the precise causal relation in the latter
+is not further analyzed here.
 
 ## 9. Interpretive Note
 
 VAK 5.21 gives an unexpectedly exact form to the distinction between Path in
 itself and Path in appearance. The Kāśmīra account looks toward the inner form
-of ground: stability and supporting direction. The outside authorities look
-toward manifestation: the type of meditator that a determination repeatedly
-produces.
+of ground: stability and supporting direction. The outside authorities point
+to meditators in whom craving, view, or conceit predominates under ignorance.
 
 ```text
 Path in itself
     internal organization determining the function of each moment
 
 Path in appearance
-    practitioner- and bhūmi-forms generated through that organization
+    practitioner- and bhūmi-forms in which organization appears
 ```
 
 But the verse also supplies the necessary warning: an appearing meditator is
@@ -255,30 +257,31 @@ has not become actual; appearance without the inner form may be an organized
 product of ignorance. The Concrete Path is the identity of its rational
 organization with its adequate manifestation.
 
-The fourfold circuit shows how to test that identity:
+The fourfold circuit is the Organon's proposed way to test that identity:
 
 ```text
 hetu
     the governing root or inner generative determination
 
 phala
-    the practitioner-type and attained state that appear from it
+    the result of practice, to be established rather than inferred merely
+    from the name of a meditator type
 
 āśraya
-    the stable supporting field in which the practice is established
+    Basis in which the practice is established
 
 ālambana
-    the objective truth-field toward which the meditation is directed
+    Support taken in meditation; its relation to the Condition is distinct
 ```
 
-A meditative `phala` alone does not prove an adequate `hetu`. Its `āśraya` may
-be stabilized while its governing condition remains ignorance, and its
-`ālambana` may be a higher state without being correctly determined. Path
+A meditative `phala` alone does not prove an adequate `hetu`. The study must
+also determine the Basis, Support, and Condition of practice; here the source
+specifically says that the three named meditator types arise under ignorance. Path
 Objectivity must therefore validate the whole circuit.
 
 This is Organon–Yoga reconstruction. Its textual ground is the opposition
-between the Kāśmīra structural criterion and the alternative inference from
-generated meditator-types, together with the Bhāṣya's statement that all three
+between the Kāśmīra structural criterion and the alternative appeal to
+meditator types, together with the Bhāṣya's statement that all three
 types operate under ignorance.
 
 ## 10. OWL++ Seed
@@ -288,7 +291,7 @@ vak:VAK_5_21 a vak:Karika ;
     rdfs:label "VAK 5.21" ;
     vak:continues vak:VAK_5_20 ;
     vak:hasTopic vak:CriterionOfRoothood,
-                 vak:MeditatorTypeGeneration .
+                 vak:MeditatorTypeEvidence .
 
 vak:KashmiraRootCriterion
     a vak:AttributedDoctrine ;
@@ -304,7 +307,7 @@ vak:AlternativeFourRootDoctrine
                  vak:IndeterminateView,
                  vak:IndeterminateConceit,
                  vak:IndeterminateIgnorance ;
-    vak:infersRootFrom vak:GeneratedMeditatorType .
+    vak:cites vak:ThreeAfflictedMeditatorTypes .
 
 vak:ThreeAfflictedMeditatorTypes
     vak:includes vak:CravingDominatedMeditator,

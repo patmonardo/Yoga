@@ -5,13 +5,13 @@
 > na rāgas tasya varjyatvān na dveṣo 'napakārataḥ |
 > na māno na parāmarśau śānta-śuddhy-agrabhāvataḥ || 5.16 ||
 
-> Attachment does not take cessation or the Path as its support, since
+> Attachment does not take cessation or the Path as its Support, since
 > attachment is to be relinquished; nor does aversion, since they cause no
 > injury; nor conceit or the two adherences, since they are peaceful,
 > genuinely pure, and supreme.
 
 The subject carried from 5.14–5.15 is whether these afflictions
-can take cessation or the path as an uncontaminated cognitive support.
+can take cessation or the Path as an uncontaminated Support.
 
 ## 2. Continuous Sanskrit
 
@@ -47,10 +47,10 @@ The e-text's `śīlavṛataparāmarśau`, `nirodhamāgauṃ`, and
 ## 3. Continuous Translation
 
 Why are attachment, aversion, conceit, and the two forms of
-adherence not admitted as taking an uncontaminated support?
+adherence not admitted as taking an uncontaminated Support?
 “Attachment does not, because it is to be relinquished.”
 Attachment is to be relinquished; were it directed toward an
-uncontaminated support in the relevant way, it would not be
+uncontaminated Support in the relevant way, it would not be
 relinquishable, like aspiration toward a wholesome dharma.
 
 “Nor aversion, because there is no injury.” Aversion arises in
@@ -59,12 +59,12 @@ such things.
 
 “Neither conceit nor the two adherences, because cessation and
 path are peaceful, pure, and supreme.” Their peacefulness does
-not provide a basis for conceit's self-elevation. Because their
-purity is genuine, taking them as pure is not adherence to
+not permit conceit's self-elevation. Because their purity is genuine,
+taking them as pure is not adherence to
 discipline and observance. They are themselves supreme, while
 adherence to views consists in taking what is inferior as
 supreme. Hence it is inappropriate to assign these five
-afflictions uncontaminated cognitive supports.
+afflictions uncontaminated Supports.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -72,22 +72,22 @@ Each exclusion has a different ground. The comparison with
 `kuśaladharmacchanda` distinguishes wholesome aspiration toward
 a dharma from afflicted `rāga`. The source does not condemn every
 positive orientation toward the path. Aversion requires an
-injurious support; the text denies that characterization of
+injurious Support; the text denies that characterization of
 cessation and path. Conceit requires `unnati`, self-elevation,
 which their peacefulness does not sustain.
 
 The two `parāmarśa` exclusions depend on the relation between
-predicate and support. `Śīlavrataparāmarśa` falsely treats a
+predicate and Support. `Śīlavrataparāmarśa` falsely treats a
 non-path as purifying, whereas cessation and path are actually
 pure. `Dṛṣṭiparāmarśa` elevates the inferior as supreme,
-whereas these supports are themselves supreme. Merely using
+whereas these Supports are themselves supreme. Merely using
 the words “pure” or “supreme” is not the affliction; the
-affliction is the false determination of its support.
+affliction is the false determination of its Support.
 
-This closes the object-status question opened in 5.14. False
+This closes the Support-status question opened in 5.14. False
 view, doubt, and ignorance may be directed toward cessation and
 path; the five types here are excluded by the character of
-their own operation in relation to those supports.
+their own operation in relation to those Supports.
 
 ## 5. Translation and Interpretation
 
@@ -99,7 +99,7 @@ not a second word for rāga. `Parāmarśau` is the dual of
 distributes “pure” and “supreme” between them.
 
 **Organon reconstruction.** The relation between determination
-and support is decisive. A word or predicate alone does not
+and Support is decisive. A word or predicate alone does not
 identify an affliction; its adequacy to what it determines
 matters. This is a source-grounded constraint for our Science
 of Citta, kept distinct from any claim of an implemented type

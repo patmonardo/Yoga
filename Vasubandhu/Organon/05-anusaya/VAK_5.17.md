@@ -14,8 +14,8 @@ sarvatragā anuśayāḥ sakalām anuśerate |
 svabhūmim ālambanataḥ svanikāyam asarvagāḥ || 5.17 ||
 ```
 
-The verse states the general rule for the scope of adherence by cognitive
-support. VAK 5.18 will introduce its exceptions and the distinct relation of
+The verse states the general rule for the scope of adherence through
+Support. VAK 5.18 will introduce its exceptions and the distinct relation of
 adherence by conjunction.
 
 ## 3. Lexical Analysis
@@ -27,14 +27,14 @@ adherence by conjunction.
 | `sakalām` | accusative singular feminine | the whole, entire |
 | `anuśerate` | third-person plural present middle of `anu-√śī` | adhere to, lie along, persist in relation to |
 | `sva-bhūmim` | accusative singular feminine | their own level or sphere |
-| `ālambanataḥ` | ablative used adverbially | by way of cognitive support |
+| `ālambanataḥ` | ablative used adverbially | by way of Support |
 | `sva-nikāyam` | accusative singular masculine | their own abandonment-class |
 | `asarvagāḥ` | nominative plural masculine | non-universal anuśayas |
 
 Padaccheda: `sarvatragāḥ | anuśayāḥ | sakalām | anuśerate |
 sva-bhūmim | ālambanataḥ | sva-nikāyam | asarvagāḥ`.
 The second clause carries forward both `anuśerate` and `ālambanataḥ`;
-the contrast is between two ranges of adherence by cognitive support.
+the contrast is between two ranges of adherence through Support.
 
 The Bhāṣya fixes `nikāya` here as one of the five classes determined by mode of
 abandonment, not an unspecified collection or social group.
@@ -49,7 +49,7 @@ sakalāṃ sva-bhūmim
 ālambanataḥ anuśerate
 
 the universal anuśayas adhere,
-by way of cognitive support,
+by way of Support,
 to their whole own level
 ```
 
@@ -64,11 +64,11 @@ asarvagāḥ [anuśayāḥ]
 sva-nikāyam [ālambanataḥ anuśerate]
 
 the non-universal [anuśayas]
-adhere [by way of cognitive support] to their own class
+adhere [by way of Support] to their own class
 ```
 
 The verb and adverbial qualifier are understood by ellipsis from the first
-half. The contrast is therefore within one and the same object-support
+half. The contrast is therefore within one and the same Support
 relation: whole-level range versus own-class restriction.
 The Bhāṣya specifies five abandonment classes within the whole level and
 calls this statement an `utsarga`, a general rule before the exception in
@@ -78,12 +78,12 @@ calls this statement an `utsarga`, a general rule before the exception in
 
 ### Literal Translation
 
-> The universal anuśayas adhere, by way of cognitive support, to their entire
+> The universal anuśayas adhere, by way of Support, to their entire
 > own level; the non-universal ones [adhere] to their own class.
 
 ### Bhāṣya-informed study translation
 
-> Universal anuśayas adhere through cognitive support to their entire own
+> Universal anuśayas adhere through Support to their entire own
 > level; non-universal anuśayas adhere to their own class.
 
 ## 6. Philosophical Translation
@@ -111,16 +111,16 @@ Neither term is intelligible without both `bhūmi` and `nikāya`.
 
 **`Anuśerate` — they adhere or lie along**
 
-The Bhāṣya frames this verb through two possible relations: adherence by
-object-support (`ālambanataḥ`) and adherence by conjunction
+The Bhāṣya frames this verb through two possible relations: adherence through
+Support (`ālambanataḥ`) and adherence through conjunction
 (`saṃprayogataḥ`). VAK 5.17 gives the general rule for the first. Anuśaya is
 therefore not being treated merely as a concealed item resident in a
 continuum.
 
-**`Ālambanataḥ anuśayana` — adherence by cognitive support**
+**`Ālambanataḥ anuśayana` — adherence through Support**
 
 An affliction adheres to a field by taking it as its `ālambana`. The breadth
-of this objective relation determines whether its scope is universal or
+of this Support relation determines whether its scope is universal or
 non-universal.
 
 **`Svabhūmi` — one's own level**
@@ -144,7 +144,7 @@ cultivation
 **`Svanikāya` — one's own abandonment-class**
 
 A non-universal anuśaya abandoned through seeing suffering takes the
-suffering-seeing class as support; one abandoned through cultivation takes
+suffering-seeing class as Support; one abandoned through cultivation takes
 the cultivation-abandonable class. The rule excludes other classes within the
 same level.
 
@@ -171,11 +171,11 @@ The general rules are:
 ```text
 UniversalAnusaya(x)
 AND OwnLevel(x, L)
-    → ObjectRange(x, EveryAbandonmentClassWithin(L))
+    → SupportRange(x, EveryAbandonmentClassWithin(L))
 
 NonUniversalAnusaya(x)
 AND OwnClass(x, C)
-    → ObjectRange(x, C)
+    → SupportRange(x, C)
 ```
 
 Consequently:
@@ -185,7 +185,7 @@ Universal(x)
     ⇏ UnrestrictedAcrossAllLevels(x)
 
 NonUniversal(x)
-    ⇏ WithoutObjectiveRange(x)
+    ⇏ WithoutSupportRange(x)
 ```
 
 Both have a positive range; they differ in quantification across the internal
@@ -232,27 +232,27 @@ phala
     the concrete extension or restriction produced by that rule
 
 āśraya
-    the bhūmi as achieved basis of the differentiated field
+    the bhūmi as achieved Basis of the differentiated field
 
 ālambana
-    the class or whole level taken in the objective relation
+    the class or whole level taken in the Support relation
 ```
 
 This does not identify `bhūmi` lexically with `āśraya`; it states their Organon
-relation. The achieved level supplies the concrete basis within which an
-object-range is possible. Likewise, the universal is not an abstraction above
+relation. The achieved level supplies the concrete Basis within which a
+Support range is possible. Likewise, the universal is not an abstraction above
 the five classes. It is the rule immanent in their totality, whereas the
 non-universal is a determination restricted to one class of that same field.
 
 The verse also refines the subjective-psychological tone of Anuśaya. To say a
 disposition “lies within” the Subject is insufficient. Its reality includes
-where and how it adheres: through what objective support, across which level,
+where and how it adheres: through what Support, across which level,
 and within which class. Subjective inherence becomes concrete only through
-this articulated objective range.
+this articulated Support range.
 
 This is Organon reconstruction. Its textual ground is the kārikā's explicit
 `ālambanataḥ`, the Bhāṣya's fivefold `svabhūmi`, its technical determination
-of `svanikāya`, and its distinction between object-support and conjunction.
+of `svanikāya`, and its distinction between Support and conjunction.
 
 ## 10. OWL++ Seed
 
@@ -260,7 +260,7 @@ of `svanikāya`, and its distinction between object-support and conjunction.
 vak:VAK_5_17 a vak:Karika ;
     rdfs:label "VAK 5.17" ;
     vak:continues vak:VAK_5_16 ;
-    vak:hasTopic vak:ObjectSupportAdherence,
+    vak:hasTopic vak:SupportAdherence,
                  vak:ScopedUniversality .
 
 vak:Bhumi a owl:Class .
@@ -268,12 +268,12 @@ vak:AbandonmentClass a owl:Class .
 
 vak:UniversalAnusayaScopeRule a vak:GeneralRule ;
     vak:hasScope vak:EveryAbandonmentClassWithinOwnLevel ;
-    vak:hasRelation vak:ObjectSupportAdherence ;
+    vak:hasRelation vak:SupportAdherence ;
     vak:qualifiedBy vak:VAK_5_18_ExceptionRules .
 
 vak:NonUniversalAnusayaScopeRule a vak:GeneralRule ;
     vak:hasScope vak:OwnAbandonmentClassWithinOwnLevel ;
-    vak:hasRelation vak:ObjectSupportAdherence ;
+    vak:hasRelation vak:SupportAdherence ;
     vak:qualifiedBy vak:VAK_5_18_ExceptionRules .
 
 vak:PathBhumiObjectivity
@@ -289,6 +289,6 @@ vak:ScopedDetermination
                     vak:AlambanaFunction .
 ```
 
-The seed treats universal and non-universal as quantified object-ranges within
+The seed treats universal and non-universal as quantified Support ranges within
 an articulated level. It preserves the Bhāṣya's warning that exceptions are
 still to follow.

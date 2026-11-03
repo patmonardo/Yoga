@@ -7,11 +7,12 @@
 त्रीण्यव्याकृतमूलानि तृष्णाविद्या मतिश्च सा ॥ ५.२० ॥
 ```
 
-The local kārikā-only witness repeats `अकुशलमूलानि` in the third pāda. The
-Bhāṣya explicitly asks how many roots of the indeterminate there are, answers
-“three roots of the indeterminate,” and names them. The official study
-therefore adopts the contextually required reading `अव्याकृतमूलानि` while
-recording rather than concealing the received variant.
+The local kārikā-only witness repeats `अकुशलमूलानि` in the third pāda.
+In the Bhāṣya's running sequence, that formula occurs at [291|07] in the
+unwholesome-root explanation, whereas [291|11] asks about indeterminate
+roots and gives `trīṇy avyākṛta mūlāni` immediately before the final pāda.
+The study prints `अव्याकृतमूलानि` as 5.20c on that contextual and textual
+basis, while preserving the kārikā-only witness's different reading.
 
 ## 2. Sanskrit (IAST)
 
@@ -91,13 +92,13 @@ and attributes the broad inclusion of indeterminate, even maturation-born,
 
 ## 6. Philosophical Translation
 
-> To possess an ethical quality is not yet to be a root of that quality. A root
-> must both have the determination and generate further dharmas of the same
-> order. Attachment, hostility, and delusion reproduce the unwholesome field;
-> craving, ignorance, and discriminative comprehension can reproduce an
-> indeterminate field. Discriminative comprehension is therefore a formal power of determination,
-> not an intrinsically liberating principle. Its value depends upon the whole
-> system in which it functions.
+> To possess an ethical quality is not yet to be a root of that quality. For
+> unwholesome roots, the Bhāṣya explicitly requires both unwholesome status
+> and root-function. It identifies attachment, hostility, and delusion as the
+> three such roots. The Kāśmīra teachers likewise classify indeterminate
+> craving, ignorance, and discriminative comprehension as roots of the
+> indeterminate. Thus discriminative comprehension is not intrinsically
+> liberating; its status and function must be determined in context.
 
 The movement is from predicate to ground:
 
@@ -140,7 +141,7 @@ third root is the remaining unwholesome delusion.
 
 **`Avyākṛtamūla` — root of the ethically indeterminate**
 
-The corrected reading is guaranteed by the Bhāṣya's explicit question,
+The adopted reading is supported by the Bhāṣya's explicit question,
 answer, and enumeration. The category names a positive generative structure,
 not an absence of causal determination.
 
@@ -205,7 +206,7 @@ Discriminates(x)
 ```
 
 The role of discriminative comprehension must be determined through its status,
-object, support, and productive function.
+Condition, Support, and productive function in the Organon reconstruction.
 
 ## 9. Interpretive Note
 
@@ -221,15 +222,15 @@ phala
     the unwholesome or indeterminate field reproduced from that root
 
 āśraya
-    the realm and concrete complex in which the root operates
+    Basis in which the root operates; its realm must be specified separately
 
 ālambana
-    the objective determination through which cognition and affliction proceed
+    Support taken by a cognition; its relation to the Condition is distinct
 ```
 
 The appearance of `mati`, explicitly glossed as `prajñā`, among indeterminate
-roots is crucial for the Yoga–Organon architecture. It proves that
-discriminative comprehension considered in abstraction is not yet Path. A formal
+roots is crucial for the Yoga–Organon architecture. It supports the inference
+that discriminative comprehension considered in abstraction is not yet Path. A formal
 capacity to distinguish can organize bondage, ethical neutrality, or
 liberation according to the system in which it is active.
 
@@ -266,9 +267,9 @@ Neither side is complete alone. Without Aṣṭāṅga, the bhūmis would be an
 external succession of stages. Without the bhūmis, Aṣṭāṅga would remain an
 unmanifest schema. Their unity is the Concrete Path.
 
-This is Organon–Yoga reconstruction. The textual ground in VAK 5.20 is the
+This is Organon–Yoga reconstruction. Its textual ground in VAK 5.20 is the
 distinction between ethical status and generative root-function, together with
-the Bhāṣya's refusal to treat `prajñā` as intrinsically liberating.
+the Bhāṣya's inclusion of indeterminate `prajñā` among the Kāśmīra roots.
 
 ## 10. OWL++ Seed
 

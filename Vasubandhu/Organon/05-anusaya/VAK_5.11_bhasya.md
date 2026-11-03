@@ -49,7 +49,10 @@ This is [286|01–16] in
 `Vasubandhu/Sources/kosabhasya.txt`; [286|17] opens 5.12.
 Spacing and punctuation are editorial. The e-text's
 `prarthanā`, `asmimamānaś`, and `akukśalaṃ` remain as transmitted;
-their rough forms need witness comparison. The research excerpt
+an [independent Sanskrit collation with Chinese parallels](https://blog.udn.com/agantuka/16727374)
+reads `prārthanā`, `asmimānaś`, and `akuśalaṃ`. Its `anityā`
+also differs from the local `anityatā`; both express
+impermanence in this context. The research excerpt
 omits the Airāvaṇa example, whose function is to specify a
 particular `bhavatṛṣṇā` included by `tathā`.
 
@@ -69,7 +72,7 @@ noble practitioner; nor does I-am conceit.” The word “beginning”
 extends the series as far as thirst for nonexistence. Why do
 these not manifest even though they have not yet been abandoned?
 “Because they are nourished by views.” The conceit-modes and
-I-am conceit are nourished by satkāya-view. With that support
+I-am conceit are nourished by satkāya-view. Once that view is
 broken, they lack the strength to arise again. The afflictive
 occupation beginning with killing is nourished by false view;
 thirst for nonexistence by annihilationist view; and this
@@ -94,7 +97,8 @@ one vague influence:
 
 Unwholesome remorse is separately said to arise from doubt. The
 image `bhagnapṛṣṭhatva`, having its back broken, names the loss of
-support once the nourishing view has been removed.
+operative force once the nourishing view has been removed. This
+nourishment relation is distinct from `ālambana`, cognitive Support.
 
 The technical distinction is between **classification for
 abandonment** and **present capacity to manifest**. These
@@ -123,5 +127,7 @@ formal or executable representation.
 ## 6. Review Status
 
 The complete 5.11 unit has been checked against the running
-source and stops before 5.12. The restored Airāvaṇa example and
-the three rough e-text forms remain marked for review.
+source and stops before 5.12. The Airāvaṇa example is present;
+the local rough forms and the independent variants are marked
+above. The distinct view-nourishment and doubt-origin claims are
+preserved in the translation.

@@ -102,8 +102,8 @@ excluded views.
 > seeing origination, cessation, and the Path. The resulting thirty-two are
 > removed through truth-disclosure itself; the following verse opens the
 > complementary cultivation classification.
-> Thus the subjective field is articulated by realm, object, and mode of
-> transformation rather than treated as a collection of private mental states.
+> Thus the subjective field is articulated by realm and the specific
+> truth-seeing through which an affliction is abandoned.
 
 The verse joins epistemic disclosure and practical change:
 
@@ -225,10 +225,10 @@ bhāvanā
 ## 9. Interpretive Note
 
 The increasingly subjective and psychological tone is real, but “subjective”
-must be understood systematically. Chapter 5 does not begin from an isolated
-inner individual and inventory private feelings. It begins from `dhātu`, the
+must be understood systematically. Chapter 5 begins from `dhātu`, the
 conditioned realm in which a form of affliction can operate, and determines
-the affliction through its object and its mode of removal.
+the affliction here by the truth-seeing through which it is abandoned. The
+criterion involving its Support (*ālambana*) is stated in 5.05.
 
 ```text
 dhātu

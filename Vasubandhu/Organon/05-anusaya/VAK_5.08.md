@@ -140,9 +140,9 @@ to the same seeing-abandonment class.
 **`Vipratipanna` — mistaken with respect to**
 
 The commentary also says that this view is mistaken with respect to suffering
-and generalizes the point to views having a sāsrava cognitive support. This
-shows that classification depends upon underlying support and misconstrual,
-not only the surface predicate “cause.”
+and generalizes the point to views whose Support has outflows. This challenges
+a simple assignment by the view's surface predicate “cause,” but the ensuing
+questions leave the full classification criterion under examination.
 
 **`Parīkṣya` — to be examined**
 
@@ -178,9 +178,9 @@ surface topic of a view
     does not by itself determine
 its proper truth-specific correction
 
-genetic ground + cognitive support
-    determine
-the relevant seeing-abandonment class
+genetic ground + Support
+    must be examined together with
+the actual mode of correction
 ```
 
 The Bhāṣya then tests its own rule. If all sāsrava-supported views are mistaken
@@ -267,7 +267,7 @@ vak:DuhkhaSeeingCorrection
 vak:TruthSpecificClassificationRule
     vak:mustConsider vak:SurfaceClaim,
                      vak:GeneticGround,
-                     vak:CognitiveSupport,
+                     vak:Support,
                      vak:ActualCorrectionCondition ;
     vak:hasReviewStatus vak:RequiresExamination .
 

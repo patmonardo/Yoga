@@ -6,7 +6,7 @@
 > nitīraṇāt samāropāt saṃjñā-citte tu tad-vaśāt || 5.9 ||
 
 > From three views come four inversions, marked by contrariness, decisive
-> determination, and superimposition; recognition and consciousness are
+> determination, and superimposition; recognition and Consciousness are
 > called inverted through the power of those views.
 
 The Bhāṣya first delimits `viparyāsa`, then disputes how far the
@@ -92,10 +92,18 @@ The complete unit spans [283|05–284|21] in
 [284|22] begins the division of conceit in 5.10. Sandhi
 separation and punctuation are editorial. The e-text's
 `vīparītataḥ`, `santīrakā`, `dṛṣṭisamutye`, and
-`dṛṣṭivīparyāsaḥ` remain rough readings. The ellipsis within
+`dṛṣṭivīparyāsaḥ` remain rough readings. The local
+`ānandenārthaṃ vāgīśam` at [284|16] is also uncertain against
+the parallel's `ānandenāryavāgīśam`. The ellipsis within
 the sūtra quotation marks the source's own `yāvat` abbreviation,
 not omitted prose from this study. The research excerpt stops at
-[284|06] and omits the subsequent school disagreement.
+[284|06] and omits the subsequent school disagreement. At
+[283|11–13] the local `paśyen nātmīyaṃ paśyati` conflicts with its
+two-faced-self-view argument. An [independent Sanskrit collation
+with Chinese parallels](https://blog.udn.com/agantuka/16727374)
+reads `paśyann ātmīyaṃ paśyati`: seeing the self as master there,
+one sees something as its possession. The translation follows
+that coherent reading; the local witness is retained above.
 
 ## 3. Continuous Translation
 
@@ -108,51 +116,61 @@ extreme-grasping view gives the permanence-inversion; adherence
 to views gives the pleasure- and purity-inversions; and the
 self-view within satkāya-view gives the self-inversion. Others
 say the whole of satkāya-view belongs here. An objection asks how
-its “mine” side could be an inversion. The reply treats self-view
-as two-faced: if “mine” were an independent view beside “I,”
-parallel views would have to be posited for “by me” and “for me.”
+its “mine” side could be an inversion. The reply asks in turn how
+it could fail to be one, invoking the sūtra on inversion: seeing
+the self as master in a matter, one regards that matter as its
+possession. Self-view thus has two faces. If “mine” were an
+independent view beside “I,” parallel views would also have to
+be posited for “by me” and “for me.”
 
 Why are other afflictions not inversions? Three conditions delimit
 the class: being wholly contrary, decisively determining the
-cognitive support, and superimposing a determination on it.
+cognitive Support, and superimposing a determination on it.
 Annihilationist and false views proceed by negation, so they do
 not superimpose. Adherence to discipline and observance is not
-wholly contrary in the required way. The other afflictions do
-not decisively determine their supports.
+wholly contrary in the required way, because it takes a measure
+of purification as its Support. The other afflictions do not
+decisively determine their Supports.
 
-But a sūtra speaks of inversions of saṃjñā and citta as well as
-view. View is primary here; saṃjñā and citta associated with the
+But a sūtra says that regarding the impermanent as permanent is
+an inversion of recognition, Consciousness, and view. View is
+primary here; recognition and Consciousness associated with the
 inverted view receive the name through its power. Why not feeling
-and the other associated factors? Ordinary speech calls saṃjñā
-and citta inverted, but does not ordinarily call feeling inverted.
+and the other associated factors? Ordinary speech calls recognition
+and Consciousness inverted, but does not ordinarily call feeling
+inverted.
 
 On this account all these inversions are abandoned by a
 stream-enterer, because the views and their associated factors
-are abandoned through seeing. Four contents, each expressed as
-view-, saṃjñā-, and citta-inversion, yield twelve.
+are abandoned through seeing. A twelvefold reckoning counts
+recognition-, view-, and Consciousness-inversion for each of the
+four contents, from permanence through self.
 
 Members of another school disagree. They say eight are abandoned
-through seeing, while four—the saṃjñā- and citta-inversions about
+through seeing, while four—the recognition- and Consciousness-inversions about
 pleasure and purity—are abandoned through cultivation. Otherwise,
 they ask, how could sensual attachment remain in a noble person
-who is not yet free of desire, without saṃjñā of pleasure and
+who is not yet free of desire, without recognition of pleasure and
 purity?
 
 The Vaibhāṣikas reject that inference. If the occurrence of
-pleasure- and purity-related saṃjñā and citta proved that those
-inversions remained, the occurrence of a conception of a living
-being accompanying sensual attachment would similarly prove a
-remaining self-inversion. A cited sūtra says the inversions are
-abandoned when a learned noble disciple knows suffering as a
-noble truth. The Vaibhāṣikas therefore restrict proper saṃjñā-
-and citta-inversion to their occurrence with inverted view;
-other momentary mistakes are compared to an illusion of a
-firebrand circle or a painted figure.
+pleasure- and purity-related recognition and Consciousness proved
+that those inversions remained, the occurrence of recognition and
+Consciousness concerning a living being would likewise prove a
+remaining self-inversion: sensual attachment concerning a woman
+or one's own person presupposes recognition of a living being.
+A cited sūtra says that when a learned noble disciple knows
+suffering as a noble truth as it really is, the inversions of
+recognition, Consciousness, and view are abandoned. The Vaibhāṣikas
+therefore restrict proper recognition- and Consciousness-inversion
+to what arises from inverted view; other momentary mistakes are
+compared to confusion over a firebrand circle or a painted yakṣa.
 
-An objection cites words attributed to the elder Ānanda about
-saṃjñā's inversion and a mind burning in relation to an attractive
-sign. Some others conclude that all eight saṃjñā- and
-citta-inversions remain in a trainee. The response says these
+An objection cites words spoken by the elder Ānanda concerning
+Vāgīśa: “When recognitions are inverted, your Consciousness burns;
+therefore avoid the attractive sign bound up with attachment.”
+Some others conclude that all eight recognition- and
+Consciousness-inversions remain in a trainee. The response says these
 too are abandoned through knowing the noble truths as they
 really are; the quoted instruction names a means, so it need
 not contradict the sūtra.
@@ -182,9 +200,9 @@ settle which technical inversions remain.
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Saṃjñā` remains visible as a technical
-term; “recognition” is an approximate gloss. `Citta` is retained
-rather than flattened to “mind.” `Tadvaśāt` marks derivative
+**Translation decisions.** `Saṃjñā` is rendered “recognition” as an
+approximate technical gloss. `Citta` is rendered Consciousness,
+distinct from Mind. `Tadvaśāt` marks derivative
 designation under the view's power. `Srota āpanna` means a
 stream-enterer in this passage, and `śaikṣa` a trainee; neither
 names the state of every practitioner.
@@ -198,7 +216,10 @@ over how the designation survives after truth-seeing.
 
 ## 6. Review Status
 
-The complete 5.09 commentary through [284|21] has been restored
-from the running source and translated. The research excerpt's
+The complete 5.09 commentary through [284|21] has been checked
+against the running source and translated, including the sūtra
+reply, the rationale concerning partial purification, the
+Vaibhāṣika reply, and Ānanda's quoted verse. The research excerpt's
 missing debate, named school voices, and rough e-text readings
-are marked for review.
+are marked for review. The local `paśyen nātmīyaṃ paśyati` remains
+uncertain against the independent Sanskrit and Chinese parallels.

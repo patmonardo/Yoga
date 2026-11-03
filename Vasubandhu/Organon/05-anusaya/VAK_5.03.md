@@ -29,9 +29,10 @@ dṛṣṭi-śīlavrata-parāmarśāv iti punar daśa || 5.3 ||
 The first compressed expression supplies a shared *dṛṣṭi* ending to three
 view names: *satkāyadṛṣṭi*, *mithyādṛṣṭi*, and *antagrahadṛṣṭi*. The dual
 *parāmarśau* supplies a shared ending to *dṛṣṭiparāmarśa* and
-*śīlavrataparāmarśa*. The local Bhāṣya witness writes *śīlavṛta* and
-*antagrāha* in its continuous Sanskrit; the kārikā study retains its
-transmitted *śīlavrata* and *antagraha* forms.
+*śīlavrataparāmarśa*. The local running witness writes *śīlavṛta* and
+*antagrāha*; the kārikā study uses the normalized *śīlavrata* and
+*antagraha* forms. These spellings do not change the five members of
+the enumeration.
 
 ## 4. Grammar
 

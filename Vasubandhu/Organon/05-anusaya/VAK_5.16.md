@@ -16,7 +16,7 @@ na māno na parāmarśau śānta-śuddhy-agrabhāvataḥ || 5.16 ||
 
 The verse explains why attachment, resistance, conceit, and the two
 overvaluations cannot take the uncontaminated cessation and path as their
-cognitive supports.
+Supports.
 
 ## 3. Lexical Analysis
 
@@ -51,7 +51,7 @@ conceit and the two overvaluations.
 tasya [anāsravasya ālambane] rāgaḥ na
 varjyatvāt [rāgasya]
 
-attachment does not [arise] with it as support,
+attachment does not [arise] with it as Support,
 because attachment is relinquishable
 ```
 
@@ -65,7 +65,7 @@ instead be wholesome aspiration.
 ```text
 dveṣaḥ na, an-apakārataḥ
 
-resistance does not [take them as support],
+resistance does not [take them as Support],
 because [cessation and path] do no injury
 ```
 
@@ -88,14 +88,14 @@ automatically `rāga`.
 
 ### Literal Translation
 
-> Attachment does not [take the uncontaminated as support], because it is
+> Attachment does not [take the uncontaminated as Support], because it is
 > relinquishable; nor resistance, because there is no injury; nor conceit, nor
 > the two overvaluations, because [cessation and path] are peaceful, pure, and
 > supreme.
 
 ### Bhāṣya-informed study translation
 
-> Attachment does not take cessation or the Path as its support, since
+> Attachment does not take cessation or the Path as its Support, since
 > attachment is to be relinquished; nor does aversion, since they cause no
 > injury; nor conceit or the two adherences, since they are peaceful,
 > genuinely pure, and supreme.
@@ -115,9 +115,9 @@ The governing principle is:
 
 ```text
 affliction-form
-    requires a determinate object-condition
+    requires a determinate Support character
 
-object lacks that condition
+Support lacks that character
     → the affliction-form is structurally inadmissible
 ```
 
@@ -140,13 +140,13 @@ longer be the `rāga` that the path abandons.
 **`Dveṣa / pratigha` — resistance or hostility**
 
 The verse uses `dveṣa`; the Bhāṣya explains through `pratigha`. Its required
-object-condition is an `apakāravastu`, something represented as injurious.
+Support character is an `apakāravastu`, something represented as injurious.
 Cessation and path do not possess that character.
 
 **`Māna / unnati` — conceit as self-elevation**
 
 Conceit requires an elevation of the appropriated self. The peaceful character
-of cessation and path does not provide the appropriate support for this
+of cessation and path does not provide the appropriate Support for this
 operation.
 
 **`Śīlavrataparāmarśa` — overvaluation of disciplines and observances**
@@ -163,7 +163,7 @@ of them does not instantiate the erroneous relation.
 
 **`Śānta`, `śuddha`, `agra` — peaceful, pure, supreme**
 
-These are positive object-determinations of cessation and path. Their truth is
+These are positive determinations of cessation and path. Their truth is
 what blocks specific afflicted relations; they are not merely honorific
 labels.
 
@@ -172,9 +172,9 @@ labels.
 The verse establishes a compatibility rule:
 
 ```text
-RequiresObjectCondition(AfflictionType, Condition)
-AND Lacks(ObjectSupport, Condition)
-    → CannotCharacteristicallyTake(AfflictionType, ObjectSupport)
+RequiresSupportCharacter(AfflictionType, Character)
+AND Lacks(Support, Character)
+    → CannotCharacteristicallyTake(AfflictionType, Support)
 ```
 
 Applied locally:
@@ -199,14 +199,14 @@ Surface predicates do not determine relation-type:
 Desires(x, WholesomeDharma)
     ⇏ Attachment(x)
 
-Predicates(Pure, GenuinelyPureObject)
+Predicates(Pure, GenuinelyPureSupport)
     ⇏ DisciplineOvervaluation(x)
 
-Predicates(Supreme, GenuinelySupremeObject)
+Predicates(Supreme, GenuinelySupremeSupport)
     ⇏ ViewOvervaluation(x)
 ```
 
-The classification depends upon correspondence between predicate, object, and
+The classification depends upon correspondence between predicate, Support, and
 operative intention.
 
 ## 9. Interpretive Note
@@ -274,15 +274,15 @@ afflicted attachment and wholesome aspiration.
 vak:VAK_5_16 a vak:Karika ;
     rdfs:label "VAK 5.16" ;
     vak:continues vak:VAK_5_15 ;
-    vak:hasTopic vak:ObjectRelationCompatibility,
+    vak:hasTopic vak:SupportRelationCompatibility,
                  vak:PathObjectivityNorm .
 
 vak:WholesomeAspiration
     owl:distinctFrom vak:Attachment ;
-    vak:hasObjectSupport vak:WholesomeDharma .
+    vak:hasSupport vak:WholesomeDharma .
 
 vak:Resistance
-    vak:requiresObjectCondition vak:Injury .
+    vak:requiresSupportCharacter vak:Injury .
 
 vak:DisciplineOvervaluation
     vak:requiresRelation vak:FalsePurityAttribution .
@@ -291,14 +291,14 @@ vak:ViewOvervaluation
     vak:requiresRelation vak:InferiorTakenAsSupreme .
 
 vak:CessationAndPath
-    a vak:UncontaminatedObjectSupport ;
+    a vak:UncontaminatedSupport ;
     vak:hasCharacter vak:Peaceful,
                      vak:GenuinelyPure,
                      vak:GenuinelySupreme ;
-    vak:lacksObjectCondition vak:Injury .
+    vak:lacksSupportCharacter vak:Injury .
 
 vak:PathObjectivityCompatibilityRule a vak:RelationConstraint ;
-    vak:evaluates vak:ObjectCharacter,
+    vak:evaluates vak:SupportCharacter,
                   vak:PredicateContent,
                   vak:RelationType ;
     vak:excludes vak:IncompatibleAfflictedRelation .
@@ -310,6 +310,6 @@ vak:PathObjectivity
                     vak:AlambanaFunction .
 ```
 
-The seed represents affliction as a typed relation with object-conditions. It
+The seed represents affliction as a typed relation with Support conditions. It
 does not infer error from a predicate without testing its correspondence to
-the object and its mode of operation.
+the Support and its mode of operation.

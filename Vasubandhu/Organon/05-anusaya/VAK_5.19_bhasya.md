@@ -50,7 +50,9 @@ without repair. Its final verse reads `śeṣastvihāśubhāḥ`;
 `śeṣās tv ihāśubhāḥ` follows the grammatical plural in the
 immediate prose and the official Kārikā study, so this division
 is an explicit conjecture. The compound `aparapīḍāpravṛttatvāt` is also
-left as transmitted; its negative scope needs care.
+left as transmitted. Xuanzang's parallel reads `非欲逼害他有情故`,
+confirming a negative sense about harming others, without settling
+the Sanskrit compound's segmentation ([T1558, fascicle 19](https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra12/T29n1558.pdf)).
 
 ## 3. Continuous Translation
 
@@ -72,7 +74,7 @@ Even annihilationist view may be favorable to liberation. Hence
 the Blessed One said: “The foremost of outsiders' views is this:
 May I not be, may there be nothing of mine; I shall not be, and
 there will be nothing of mine.” Moreover, these two views involve
-confusion about their own basis and do not tend toward harming
+confusion about their own entity and do not tend toward harming
 others [reading the compound in context].
 
 But then the same consequence would follow for craving for heaven
@@ -100,8 +102,9 @@ the Kośa's account of liberation.
 The sentence about heavenly craving and `asmimāna` presses an
 objection against the proposed criterion: they too might qualify
 if compatibility or lack of injury were sufficient. The reply
-distinguishes innate from constructed self-view and explicitly
-attributes the latter's unwholesome status to the earlier teachers.
+reports the earlier teachers' distinction between innate and constructed
+self-view; Xuanzang's parallel explicitly places both classifications
+within that attribution.
 The passage does not spell out a full independent answer for both
 cases raised in the objection, so that argumentative gap remains
 visible.
@@ -112,9 +115,11 @@ visible.
 classification; it does not mean unafflicted. `Sahābhyāṃ` and
 the prose `tatsaṃprayuktā` restrict the relevant ignorance to
 what is associated with the two views. `Aparapīḍāpravṛttatva`
-is provisionally translated from context as lack of a tendency
-to injure others. Its compound structure is not silently
-rewritten as `aparapīḍā-apravṛtti`. `Sahajā` and `vikalpitā`
+is translated as lack of a tendency to injure others, supported by
+Xuanzang's `非欲逼害他有情故`. Its Sanskrit segmentation remains uncertain;
+the witness is not silently rewritten as `aparapīḍā-apravṛtti`.
+`Svadravya` is retained as “their own entity,” not the technical
+Basis (*āśraya*). `Sahajā` and `vikalpitā`
 mark innate and conceptually constructed forms of self-view.
 
 **Organon reconstruction.** The distinction between affliction
@@ -126,7 +131,9 @@ formulated the Organon's architecture.
 
 ## 6. Review Status
 
-Provisional. The complete running IAST unit has been checked for
-its boundaries. The working text's `tayoirnāsti`, the scope of
-`aparapīḍāpravṛttatvāt`, and the compressed reply to the
-objection remain open for later philological review.
+The complete natural unit [290|09–291|02] has been compared with the
+running Sanskrit witness, with no omitted spans; [291|03] begins 5.20.
+Xuanzang's parallel supports the negative sense of
+`aparapīḍāpravṛttatvāt` and the earlier-teachers attribution.
+The working text's `tayoirnāsti`, the compound's Sanskrit
+segmentation, and the compressed answer to the objection remain open.

@@ -47,12 +47,13 @@ tasmān na sarvatragāv iti vaibhāṣikāḥ.
 
 The unit is [286|17–287|09] of
 `Vasubandhu/Sources/kosabhasya.txt`. The transition at
-[287|10] begins 5.13's question about the object-range beyond
+[287|10] begins 5.13's question about the Support range beyond
 the corresponding domain. Spacing and punctuation are editorial.
 The source's `api tu pañcaprakāramapi sarvaṃ yugapat` is
-compressed; its precise quantifier force needs comparison rather
-than expansion into a claim that every object is apprehended in
-one simultaneous cognition.
+compressed. The [Chinese Kośa parallel](https://blog.udn.com/agantuka/16727374)
+identifies the five `prakāra` as five classes and speaks of the
+capacity to take them together. This does not assert simultaneous
+apprehension of every individual item in the domain.
 
 ## 3. Continuous Translation
 
@@ -62,23 +63,22 @@ seeing suffering and origination, together with doubt, ignorance
 associated with them, and independent ignorance. These are eleven
 anuśayas universally ranging within the corresponding domain:
 seven views, two doubts, and two ignorances. Their cognitive
-support extends over the whole of their own domain.
+Support extends over the whole of their own domain.
 
-Do they take that support all at once or in sequence? If in
+Do they take that Support all at once or in sequence? If in
 sequence, the same claim would extend to other afflictions. If
-all at once, who takes the whole Desire Realm as something
+all at once, who takes the whole desire-realm as something
 purifying, or the whole domain's non-causes as causes? Calling
 the range “whole” does not say that every item is taken at one
-moment; the reply instead speaks of all five relevant modes
-being available as a whole.
+moment; the reply says they can take all five classes together.
 
 Even so, wherever there is self-view there is thirst for self;
 where there are views of supremacy and purification there is
 aspiration for what they present and conceit concerning it.
 Thirst and conceit would thus also appear to range universally.
-If they take as supports both seeing-abandonable and
+If they take as Supports both seeing-abandonable and
 cultivation-abandonable items, which mode abandons them?
-One answer assigns them to cultivation because their supports
+One answer assigns them to cultivation because their Supports
 are mixed. Another allows seeing-abandonment because they
 operate through the power supplied by view.
 
@@ -94,19 +94,19 @@ range within the **corresponding domain** (`sabhāgadhātu`), not
 an unrestricted metaphysical omnipresence. Nor is it merely a
 measure of frequency or intensity. Its Bhāṣya ground is
 `sakalasvadhātvālambanatva`, having the whole of one's own
-domain as cognitive support.
+domain as cognitive Support.
 
 The simultaneous-versus-successive objection tests that
 formula. Successive contact alone would overgenerate the class;
 one instantaneous grasp of every item is also rejected. The
-compressed reply must be held at this level until its fivefold
-`prakāra` is resolved with the adjacent classification and a
-better witness.
+five `prakāra` are the five abandonment classes; the reply says
+the affliction can take all five together, while leaving the
+exact extent of an individual cognition unspecified.
 
 The more serious objection concerns accompanying thirst and
 conceit. Co-occurrence with a universal view seems to give them
 the same range. The proposed abandonment assignments then
-conflict because their supports can be mixed. The final
+conflict because their Supports can be mixed. The final
 Vaibhāṣika distinction answers by **mode of determination**:
 thirst and conceit concern particular characteristics
 (`svalakṣaṇa`), whereas the universal class concerns a general
@@ -116,8 +116,8 @@ not a single settled authorial rule.
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Ālambana` is kept as “cognitive
-support,” preserving the technical relation that defines range.
+**Translation decisions.** `Ālambana` is rendered **Support**,
+preserving the technical relation that defines range.
 `Sabhāgadhātu` limits the claim to a corresponding domain.
 `Āveṇikī avidyā` is independent ignorance, while associated
 ignorance is named separately in the prose. The two counted
@@ -136,6 +136,7 @@ an unverified software-wide “global state.”
 ## 6. Review Status
 
 The complete 5.12 unit has been checked against the running
-source and stops before 5.13. The compressed `pañcaprakāram`
-reply remains provisional pending comparison with another
-witness and the ensuing chapter context.
+source and stops before 5.13. The five-class sense of
+`pañcaprakāram` has been checked against the Chinese parallel;
+the precise simultaneous extent of an individual cognition
+remains unresolved.

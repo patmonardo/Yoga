@@ -77,7 +77,7 @@ rūpārūpyadhātujo rāgo bhavarāgaḥ kṛṭaḥ. kiṃ kāraṇam evaṃ k�
 samāpattirāgo hi teṣāṃ prāyeṇa; sa cāntarmukhapravṛttas tasmād
 bhavarāgaḥ. uktas tayoḥ kila dhātvormokṣasaṃjñāvyāvyavarttanārtham
 ekeṣām iti. ātmabhāva eva tu bhavaḥ. te ca sattvāḥ samāpattiṃ
-sāśrayā māsvādayanta ātmabhāvam evāsvādayanti kāmavītarāgatvāt.
+sāśrayām āsvādayanta ātmabhāvam evāsvādayanti kāmavītarāgatvāt.
 ataḥ sa rāgo bhavarāga ity uktaḥ.
 ```
 
@@ -85,10 +85,12 @@ This runs from [277|16] through [279|13] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next sentence, `punar ete
 ṣaḍanuśayāḥ`, begins the division of views in 5.03. Spacing and
 punctuation above are editorial. The e-text's `mānānuśyaḥ`,
-`anuśya`, `vījabhāva`, `vīprayukta`, `kṛṭaḥ`,
-`mokṣasaṃjñāvyāvyavarttanārtham`, and `sāśrayā māsvādayanta` are
-retained as rough readings. The source's `kleśakṛtamevecchati` is
-divided as `kleśakṛtam evecchati` without changing its letters.
+`anuśya`, `vījabhāva`, `vīprayukta`, `kṛṭaḥ`, and
+`mokṣasaṃjñāvyāvyavarttanārtham` are retained as rough readings.
+The source's `sāśrayā māsvādayanta` is divided as `sāśrayām
+āsvādayanta`: the first word qualifies `samāpattiṃ` and contains
+`āśraya` (Basis). The source's `kleśakṛtamevecchati` is divided as
+`kleśakṛtam evecchati` without changing its letters.
 
 ## 3. Continuous Translation
 
@@ -103,8 +105,10 @@ anuśaya? What follows from the choice? If sensual attachment itself
 is the anuśaya, a sūtra appears to contradict it. The sūtra says that
 someone does not dwell much with a mind possessed by sensual
 attachment; they know as it really is an escape beyond the arisen
-possession by sensual attachment; and that possession, with its
-anuśaya, is abandoned. If instead attachment has an anuśaya, an
+possession by sensual attachment; and that possession, in its force and
+properly carried away [the exact force of `sthāmaśaḥ
+samyaktvasamavahataṃ` is uncertain], is abandoned together with its
+anuśaya. If instead attachment has an anuśaya, an
 anuśaya separate from associated mind would follow, contradicting
 the Abhidharma statement that it is associated with three faculties.
 
@@ -120,7 +124,8 @@ prevent a new wholesome state from arising, and cause decline from an
 arisen one. Hence, they say anuśayas cannot be separate from associated
 consciousness. A separate
 anuśaya always present would make wholesome states impossible, yet
-wholesome states are observed.
+wholesome states are observed. Their cited conclusion is: “Since the
+wholesome is observed, the anuśayas here are not dissociated.”
 
 The reply finds that proof inconclusive. Someone who accepts a
 separate anuśaya need not ascribe those active effects to the anuśaya;
@@ -141,8 +146,8 @@ But does a sūtra not call kleśa itself an anuśaya when it says that
 someone “has an anuśaya of attachment toward pleasant feeling”?
 The wording “comes to have” does not require the active kleśa to be
 anuśaya at that very moment. It is called that when dormant; or the
-name of the cause is applied figuratively to its effect. Enough of
-the digression: let the treatise proceed.
+name of its later dormant condition is applied figuratively to the
+active cause. Enough of the digression: let the treatise proceed.
 
 The sūtra thus divides attachment into sensual attachment and
 attachment to existence. What is the latter? “Attachment to existence
@@ -152,7 +157,7 @@ of that as liberation.” There attachment is predominantly attachment
 to samāpatti, and it proceeds inwardly. According to some, the name
 prevents these two domains from being conceived as liberation. But
 `bhava` here means one's mode of existence. Beings free of sensual
-attachment savor samāpatti together with its support, and so savor
+attachment savor samāpatti together with its Basis, and so savor
 their own mode of existence. That attachment is therefore called
 `bhavarāga`.
 
@@ -181,7 +186,9 @@ Vaibhāṣika argument; “mind” would obscure the technical question.
 `Saṃprayukta` concerns association with faculties and citta;
 `viprayukta` concerns a purportedly dissociated item. Neither term
 is equivalent to the simple contrast between conscious and
-unconscious. `Ātmabhāva` here denotes the being's constituted mode of
+unconscious. `Sāśrayām` qualifies `samāpattiṃ`: the attainment is
+savored with its Basis (*āśraya*), not an *ālambana* Support.
+`Ātmabhāva` here denotes the being's constituted mode of
 existence, not a metaphysical self. The precise wording of the sūtra
 quotation and several rough e-text forms need witness comparison.
 
@@ -199,5 +206,7 @@ not the worth of samāpatti as such.
 
 The complete source unit has been restored from the running text and
 translated, including the debate omitted by the research excerpt.
-The e-text irregularities named above and the exact sūtra wording
-remain provisional pending comparison with another witness.
+The e-text irregularities named above and the exact sūtra wording,
+especially `sthāmaśaḥ samyaktvasamavahataṃ`, remain provisional pending
+comparison with another witness. The unit stops at [279|13]; the next
+sentence opens 5.03.
