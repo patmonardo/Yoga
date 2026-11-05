@@ -14,9 +14,9 @@ sarvakālāstitā uktatvād dvayāt sad-viṣayāt phalāt |
 tad-asti-vādāt sarvāstivādā iṣṭāś caturvidhāḥ || 5.25 ||
 ```
 
-The verse makes explicit the temporal ontology presupposed by VAK 5.23–5.24:
-if past and future dharmas can be objects, bind, and bear causal relations,
-they cannot be reduced to sheer nonbeing.
+The verse presents the Vaibhāṣika temporal ontology invoked after VAK
+5.23–5.24: on that account, past and future dharmas must exist to enter
+relations of Support, bondage, and fruition. Later verses test the argument.
 
 ## 3. Lexical Analysis
 
@@ -24,8 +24,8 @@ they cannot be reduced to sheer nonbeing.
 |---|---|---|
 | `sarva-kāla-astitā` | nominative singular feminine compound | existence in all times |
 | `ukta-tvāt` | ablative singular abstract noun | because it has been stated |
-| `dvayāt` | ablative singular numeral | because of the pair [faculty and object] |
-| `sat-viṣayāt` | ablative singular compound | because cognition has an existent object |
+| `dvayāt` | ablative singular numeral | because of the pair [Faculty and its corresponding Support] |
+| `sat-viṣayāt` | ablative singular compound | because Cognition has an existent Condition |
 | `phalāt` | ablative singular | because of fruit or result |
 | `tat-asti-vādāt` | ablative singular compound | because of asserting “that exists” or “all exists” |
 | `sarva-asti-vādāḥ` | nominative plural masculine | proponents of the doctrine that all exists |
@@ -49,7 +49,7 @@ sarva-kāla-astitā [iṣṭā]
 existence in all times is maintained
     because it has been stated,
     because of the pair,
-    because cognition has an existent object,
+    because Cognition has an existent Condition,
     and because of fruit
 ```
 
@@ -80,15 +80,15 @@ permanent remains part of the reported Vaibhāṣika defense.
 ### Literal Translation
 
 > Existence in all times [is maintained] because it has been stated, because
-> of the pair, because cognition has an existent object, and because of fruit.
+> of the pair, because Cognition has an existent Condition, and because of fruit.
 > From the assertion that all exists, Sarvāstivādins are recognized; they are
 > accepted as fourfold.
 
 ### Bhāṣya-informed study translation
 
 > Existence in all three times is maintained because scripture states it,
-> cognition depends on a Faculty–object pair, cognition requires an
-> existent object, and karma bears fruit. Those who affirm existence in all
+> cognition depends on a Faculty–Support pair, cognition requires an
+> existent Condition, and karma bears fruit. Those who affirm existence in all
 > three times are called Sarvāstivādins; four accounts are recognized.
 
 ## 6. Philosophical Translation
@@ -101,7 +101,8 @@ permanent remains part of the reported Vaibhāṣika defense.
 > and future. The common thesis establishes the problem; four doctrines will
 > attempt to determine the difference of its temporal modes.
 
-The dilemma is exact:
+This articulates the Vaibhāṣika demand as an Organon problem; later verses
+test whether its premises require the stated ontology. The dilemma is:
 
 ```text
 past and future are nothing
@@ -134,20 +135,24 @@ the problem for the four positions.
 **`Uktatvāt` — because it has been stated**
 
 The first scriptural ground. The cited teaching connects the noble disciple's
-non-attachment toward past form and non-delight in future form with the
-existence of those temporal objects.
+non-attachment toward past Form and non-delight in future Form with the
+existence of those temporal referents. Its double negative says that, without
+future Form, this non-delight would not occur; a
+[Saṃyukta Āgama parallel](https://abuddhistview.com/agamas/SA/SA79)
+supports that construal.
 
-**`Dvaya` — the pair of Faculty and object**
+**`Dvaya` — the pair of Faculty and Support**
 
-The second scriptural ground. Cognition arises dependent upon eye and form,
-and so on through mind and dharmas. Mental cognition of past and future would
-lose the object-side of this pair if those dharmas were absolutely nonexistent.
+The second scriptural ground. Cognition arises dependent upon eye and forms,
+and so on through mind and dharmas. Cognition supported by past and future
+dharmas would lose the Support side of this pair if those dharmas were absent.
 
-**`Sadviṣaya` — having an existent object**
+**`Sadviṣaya` — having an existent Condition**
 
-The first rational ground. The Bhāṣya states that cognition operates when its
-object exists, not when there is no object. `Ālambana` must have sufficient
-being to enter the cognitive relation.
+The first rational ground. The Bhāṣya states that Cognition operates when its
+Condition (`viṣaya`) exists. It then argues that without past and future
+dharmas such Cognition would lack a Support (`ālambana`). This is the
+Vaibhāṣika argument's premise, not a settled result of the later debate.
 
 **`Phala` — fruit or result**
 
@@ -171,6 +176,9 @@ positions announced for the next verse.
 
 ## 8. Logical Determination
 
+The following rules reconstruct the Vaibhāṣika argument. The later debate
+tests whether its requirement follows from cognition and causation.
+
 The preceding operation generates an ontological requirement:
 
 ```text
@@ -182,9 +190,9 @@ RealRelation(r, x, y)
 Applied to cognition:
 
 ```text
-ArisesDependentOn(Cognition, Faculty, Object)
+ArisesDependentOn(Cognition, Faculty, Support)
 AND Cognizes(Cognition, PastOrFutureDharma)
-    → SufficientlyExistsAsObject(PastOrFutureDharma)
+    → SufficientlyExistsAsSupport(PastOrFutureDharma)
 ```
 
 Applied to karma:
@@ -214,13 +222,13 @@ VAK 5.26 supplies four candidate principles.
 
 ## 9. Interpretive Note
 
-VAK 5.25 is a remarkable confirmation of the fourfold architecture. The
-Bhāṣya does not present ontology as a detached theory of what “exists.” It is
-forced by two concrete systems of relation:
+VAK 5.25 gives the fourfold architecture a concrete test case. The Bhāṣya
+reports a Vaibhāṣika argument for all-time existence from two systems of
+relation:
 
 ```text
-faculty + object
-    → cognition
+Faculty + Support
+    → Cognition
 
 past karmic cause + future fruit
     → temporal efficacy
@@ -230,10 +238,10 @@ Functionally, these are the two pairs we have been tracking:
 
 ```text
 āśraya
-    the faculty or mind-side supporting the cognitive event
+    the Faculty or Mind mapped as the Basis of Cognition
 
 ālambana
-    the existent objective support toward which cognition operates
+    the Support that Cognition takes
 
 hetu
     past karma remaining efficacious as maturation-cause
@@ -249,7 +257,7 @@ for temporal being:
 
 ```text
 āśraya–ālambana
-    require sufficient being for objective cognition
+    are mapped to the cognitive pair in this Organon reconstruction
 
 hetu–phala
     require sufficient being for causal continuity
@@ -262,8 +270,8 @@ This realizes the earlier distinction between paramārthika and vyāvahārika
 without separating two worlds. `Hetu–phala` expresses Reason as the inner
 necessity by which a determination produces its result. `Āśraya–ālambana`
 expresses that same Reason in transactional manifestation as supported
-cognition of an objective field. Temporal existence is the Product required
-for both relations to be real.
+Cognition across a field of Conditions. Within the Vaibhāṣika proof, temporal
+existence is the Product required for both relations to be real.
 
 Hegel's contribution, properly understood, is the refusal to choose between
 empty disappearance and immutable persistence. The past is no longer present,
@@ -274,14 +282,14 @@ recognize the shared logical demand: identity must contain temporal difference
 rather than abolish it.
 
 The Path in itself must transform this whole fourfold structure. Aṣṭāṅga
-determines the right organization of support, object, cause, and result. The
+determines the right organization of Support, Condition, cause, and result. The
 bhūmis show that organization in appearance as progressively achieved temporal
 existence. Liberation is therefore not deletion of the past or fantasy about
 the future; it is the actual reorganization of what remains cognitively,
 causally, and normatively efficacious.
 
 This is Organon–Yoga–Hegel reconstruction. Its textual ground is the Bhāṣya's
-faculty-object `dvaya`, existent-object argument, past-cause/future-fruit
+Faculty–Support `dvaya`, existent-Condition argument, past-cause/future-fruit
 argument, and explicit rejection of permanence as the meaning of three-time
 existence.
 
@@ -296,15 +304,15 @@ vak:VAK_5_25 a vak:Karika ;
 
 vak:ThreeTimeExistenceDoctrine
     vak:supportedBy vak:ScripturalStatement,
-                    vak:FacultyObjectPair,
-                    vak:ExistentObjectRequirement,
+                    vak:FacultySupportPair,
+                    vak:ExistentConditionRequirement,
                     vak:FutureFruitionRequirement ;
     vak:doesNotEntail vak:PermanentConditionedSubstance ;
     vak:hasInterpretationCount 4 .
 
 vak:CognitiveManifestation
-    vak:hasAsrayaFunction vak:FacultyOrMindSupport ;
-    vak:hasAlambanaFunction vak:ExistentObject ;
+    vak:hasAsrayaFunction vak:FacultyOrMindBasis ;
+    vak:hasAlambanaFunction vak:ExistentSupport ;
     vak:produces vak:Cognition .
 
 vak:TemporalCausalEfficacy

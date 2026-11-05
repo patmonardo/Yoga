@@ -6,8 +6,8 @@
 > tad-asti-vādāt sarvāstivādā iṣṭāś caturvidhāḥ || 5.25 ||
 
 > Existence in all three times is maintained because scripture states it,
-> cognition depends on a Faculty–object pair, cognition requires an
-> existent object, and karma bears fruit. Those who affirm existence in all
+> cognition depends on a Faculty–Support pair, cognition requires an
+> existent Condition, and karma bears fruit. Those who affirm existence in all
 > three times are called Sarvāstivādins; four accounts are recognized.
 
 ## 2. Continuous Sanskrit
@@ -73,6 +73,11 @@ among its arguments in the running source. Spacing and
 punctuation above are editorial. The source forms `ye he`
 and `atītamanāmataṃ` are retained as transmitted; the latter
 is especially uncertain in the enumeration of the three times.
+The cited future-Form sentence has two negatives (`na ...
+nābhyanandiṣyat`): it denies that non-delight could occur if
+future Form did not exist. The [Saṃyukta Āgama parallel](https://abuddhistview.com/agamas/SA/SA79)
+supports this reading; it is not an added sentence in the
+running Sanskrit.
 
 ## 3. Continuous Translation
 
@@ -85,22 +90,22 @@ these have the marks of the conditioned. They do, however,
 plainly assert “existence in all times.”
 
 Why? First, “because it has been stated.” The cited teaching
-says that, if past form did not exist, a learned noble disciple
-could not be without longing toward past form; because it exists,
-that disciple can be without longing. Likewise, if future form
+says that, if past Form did not exist, a learned noble disciple
+could not be without longing toward past Form; because it exists,
+that disciple can be without longing. Likewise, if future Form
 did not exist, the disciple could not refrain from delighting
-in it; because future form exists, this is possible.
+in it; because future Form exists, this is possible.
 
 Second, “because of the pair.” Cognition is said to arise
 depending on two: eye and forms, and so on through mind and
-dharmas. Without past and future objects, a cognition
-taking them as support could not arise depending on that pair.
+dharmas. Without past and future dharmas, Cognition taking
+them as Support could not arise depending on that pair.
 These are the scriptural grounds. There are also rational ones.
 
-Third, “because of an existent object.” Cognition operates
-with an existent `viṣaya`, not a nonexistent one. If past and
-future did not exist, a cognition of them would have a
-nonexistent support; without a support, that cognition would
+Third, “because of an existent Condition.” Cognition operates
+when its `viṣaya` exists, not when it is absent. If past and
+future did not exist, a Cognition of them would have a
+nonexistent Support; without a Support, that Cognition would
 not arise. Fourth, “because of fruit.” If the past did not
 exist, how could wholesome or unwholesome karma bear fruit
 later? When the fruit arises, its maturation cause is not
@@ -127,14 +132,14 @@ that conditioned dharmas are thereby eternal.
 
 The four grounds have different functions. `Uktatvāt` appeals
 to a cited teaching about the disciple's relation to past and
-future form. `Dvayāt` appeals to the scriptural formula that
-cognition arises from a faculty-object pair. The Bhāṣya
+future Form. `Dvayāt` appeals to the scriptural formula that
+Cognition arises from a Faculty–Support pair. The Bhāṣya
 then names these two grounds `āgama`. `Sadviṣayāt` is a
-claim about cognition requiring an existent object; `phalāt`
+claim about Cognition requiring an existent Condition; `phalāt`
 is a causal claim about past karma and later maturation.
 Those latter two are given as `yukti`. This is the
 Vaibhāṣika argument as reported here, not an uncontested
-proof that every opponent must accept its account of objects
+proof that every opponent must accept its account of Supports
 or karmic causation.
 
 The final contrast specifies the doctrinal boundary. The
@@ -149,10 +154,13 @@ does not yet describe them.
 **Translation decisions.** `Sarvakālāstitā` is the thesis of
 existence in all times, not an assertion here that conditioned
 things are immutable; the prose explicitly rejects
-`śāśvatatva`. `Dvaya` is the faculty-object pair. `Viṣaya`
-and `ālambana` occur in a connected argument, but their
-lexical difference is preserved. `Adattaphala` and
-`dattaphala` distinguish past karma that has not yet yielded
+`śāśvatatva`. `Dvaya` is the Faculty–Support pair in the
+local cognitive argument. `Viṣaya` is Condition and
+`ālambana` is Support; both occur in the argument, and their
+lexical difference is preserved. The cited teaching's double
+negative means that non-delight in future Form would not
+occur without future Form; the parallel confirms this construal.
+`Adattaphala` and `dattaphala` distinguish past karma that has not yet yielded
 fruit from past karma that has. The damaged enumeration is
 translated according to the immediate contrast and remains
 marked as such.
@@ -167,7 +175,10 @@ settle the metaphysics on Vasubandhu's behalf.
 
 ## 6. Review Status
 
-Provisional. The complete distributed 5.25 unit was checked
-against the running IAST source. The damaged three-time
-enumeration and the exact force of the cited teaching remain
-for later textual review.
+The complete distributed unit [295|02–296|08] has been
+compared with the running IAST source. Its continuous Sanskrit
+has no omitted span, and the translation covers all four
+grounds, the school contrast, and the announcement of four
+accounts. [296|09] begins 5.26. The damaged three-time
+enumeration remains uncertain; the cited teaching's double
+negative has been checked against a parallel.

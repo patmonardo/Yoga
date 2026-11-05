@@ -123,15 +123,16 @@ But modal non-actualization does not by itself equal abandonment.
 
 **`Mānasa / manobhūmika` — belonging to the mental plane**
 
-The Bhāṣya applies this to future attachment, aversion, and conceit associated
-with mind-cognition. Because mental cognition can take past, present, and
-future objects, these afflictions bind across all three times.
+The Bhāṣya applies this to future attachment, aversion, and conceit on the
+mental plane. Their three-time Condition range explains why these afflictions
+bind with respect to past, present, and future objects.
 
-**`Tryadhva-viṣayatva` — having the three times as object-range**
+**`Tryadhva-viṣayatva` — having Conditions in all three times**
 
 The explicit Bhāṣya rationale for the universal temporal scope of future
-mental afflictions. The carrier's cognitive range determines the affliction's
-binding range.
+mental afflictions. Their Condition range (`viṣaya`) spans past, present,
+and future, while the Bhāṣya calls the connected objects `vastu`. The
+carrier's cognitive range determines the affliction's binding range.
 
 **`Pañca-vijñāna-kāyika` — belonging to the five Cognition-groups**
 
@@ -248,16 +249,18 @@ phala
     the binding range generated across temporal objects
 
 āśraya
-    mind- or sense-cognition as the operative cognitive locus
+    the operative cognitive Basis, mapped from the mental or sensory locus
 
 ālambana
-    past, present, or future objects within the carrier's range
+    a determinate Support within the relevant Condition range
 ```
 
-Here `āśraya` is especially concrete. The same broad affliction receives a
-different range according to whether mind-cognition or sensory
-cognition carries it. The `ālambana` is correspondingly tri-temporal or
-own-period. From their relation the binding `phala` follows.
+In this Organon mapping, `āśraya` marks the cognitive Basis. The same broad
+affliction receives a different range according to whether mental or sensory
+cognition carries it. The field of Conditions (`viṣaya`) is accordingly
+three-time or own-period; a determinate Support (`ālambana`) falls within
+that field. The Bhāṣya itself gives the range argument using `viṣaya` and
+`vastu`, without naming an `āśraya` here.
 
 The general-character afflictions reveal a further danger. A view, doubt, or
 ignorance can configure the entire temporal field even without attaching to

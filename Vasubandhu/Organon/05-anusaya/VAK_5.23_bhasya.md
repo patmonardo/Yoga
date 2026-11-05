@@ -24,8 +24,8 @@ dṛṣṭivicikitsāda 'vidyāḥ. tatra tāvat:
 
 atītāḥ pratyutpannāś ca rāgapratighamānā yasmin
 vastuny utpannā na ca prahīṇās tasmin vastuni taiḥ
-saṃyuktaḥ. ete hi svalakṣaṇakleśatvān na sarvasya
-avaśyaṃ sarvatrotpadyante.
+saṃyuktaḥ. ete hi svalakṣaṇakleśatvān na
+sarvasyāvaśyaṃ sarvatrotpadyante.
 ```
 
 The unit begins with the transitional question at [294|04–06]
@@ -106,7 +106,9 @@ has already been implemented.
 
 ## 6. Review Status
 
-Provisional. The bridge after 5.22 and the 5.24 boundary were
-checked against the running IAST source. The two damaged
-classification forms and the word division of the temporal question
-remain open for later textual review.
+The complete natural unit [294|04–294|12] has been checked against
+the running IAST source, including the bridge after 5.22 and the
+start of 5.24 at [294|13]. The continuous Sanskrit has no omitted
+span, and the continuous translation covers the whole local
+argument. The two damaged classification forms and the editorial
+division of the temporal question remain uncertain.

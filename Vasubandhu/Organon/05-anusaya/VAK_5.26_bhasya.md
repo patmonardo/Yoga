@@ -79,7 +79,7 @@ the expected `lakṣaṇa-` form.
 
 The four Sarvāstivādin positions are named according to a
 change in mode, characteristic, state, or relative position.
-The venerable Dharmatrāta teaches change of mode. As a dharma
+The venerable Dharmatrāta is said to teach change of mode. As a dharma
 moves through the times, its mode changes but its substance
 does not. A gold vessel may be broken and reshaped while its
 color remains; milk becoming curd gives up taste, potency,
@@ -88,23 +88,23 @@ from future to present gives up its future mode, not its
 substantial being; passing into the past it gives up its
 present mode, not its substantial being.
 
-The venerable Ghoṣaka teaches change of characteristic.
+The venerable Ghoṣaka is said to teach change of characteristic.
 A past dharma possesses the characteristic of pastness without
 being separated from the characteristics of future and present.
 The same pattern applies to future and present dharmas. His
 comparison is a man attached to one woman while not detached
 from the others.
 
-The venerable Vasumitra teaches change of state. A dharma is
+The venerable Vasumitra is said to teach change of state. A dharma is
 designated differently upon reaching different states, not
 because its substance has changed. A single counter is called
 one in the units place, one hundred in the hundreds place,
 and one thousand in the thousands place.
 
-The venerable Buddhadeva teaches relative difference. A dharma
-is named differently in relation to what precedes and follows,
-not through a different substance, as the same woman may be
-called mother or daughter.
+The venerable Buddhadeva is said to teach relative difference.
+A dharma is named differently in relation to what precedes and
+follows, through difference of state rather than difference
+of substance, as the same woman may be called mother or daughter.
 
 These are the four positions. The first, says the text, belongs
 with Sāṃkhya because it teaches transformation. The second
@@ -116,8 +116,9 @@ a single time: within a past sequence one moment is earlier,
 another later, and the middle one present relative to them.
 The same holds within a future sequence.
 
-Therefore the third, change of state, is preferable. According
-to it, the times are distinguished by activity (`kāritra`):
+Therefore the third, change of state, is preferable. On this
+reported account (`kila`), the times are distinguished by
+activity (`kāritra`):
 a dharma is future when it does not perform its activity,
 present while performing it, and past when, having performed
 it, it has ceased.
@@ -128,7 +129,8 @@ All four proposals preserve the Sarvāstivādin claim that a
 dharma does not become another substance across time. They
 disagree about what changes. Dharmatrāta locates difference
 in mode; Ghoṣaka in the marked characteristic; Vasumitra in
-state; Buddhadeva in relations of earlier and later.
+state; Buddhadeva in state as determined by relations of
+earlier and later.
 
 The criticism of Ghoṣaka is more exact than a charge of a bad
 analogy. His example distinguishes `samudācāra`, manifestation,
@@ -155,7 +157,10 @@ ontology into them. `Kāritra` means operative activity here.
 `Samudācāra` and `samanvāgama` are kept distinct as
 manifestation and possession. `Śobhanaḥ` means preferable
 within this comparison; it does not certify the third theory
-against the subsequent objection.
+against the subsequent objection. Buddhadeva's prose also has
+`avasthāntarataḥ`, difference of state, which is qualified by
+his earlier-and-later relation. Repeated `kila` marks the
+teachers' accounts as reported positions.
 
 **Organon reconstruction.** The four proposals pose a precise
 problem for Theoretical Reason: what can remain invariant while
@@ -167,7 +172,10 @@ from any claim of implemented architecture.
 
 ## 6. Review Status
 
-Provisional. The full distributed verse and its exposition
-were checked against the running IAST source. The transmitted
-`lakṣāṇānyathiko` and the compressed fourfold designation
-remain for later textual review.
+The complete natural unit [296|09–297|13] has been compared
+with the running IAST source. Its continuous Sanskrit has no
+omitted span; the translation covers all four accounts, the
+three objections, and the third account's activity rule.
+`Parigatam etat sarvam` at [297|13] opens the 5.27 challenge.
+The transmitted `lakṣāṇānyathiko` and the compressed fourfold
+designation remain uncertain in this working witness.

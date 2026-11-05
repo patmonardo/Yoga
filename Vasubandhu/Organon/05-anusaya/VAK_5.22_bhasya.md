@@ -111,6 +111,12 @@ retained from the IAST witness rather than silently repaired.
 The word `audārikaṃ` (“gross”) and the subsequent conditional
 answer remain legible; only the intervening self-identification
 is uncertain.
+Xuanzang's [parallel translation](https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra12/T29n1558.pdf)
+also identifies the gross self in the Mahāsāṅghika example. It
+adds an explicit contrast between a straightforward and an
+evasive requester after the road-example exchange. That extra
+sentence is absent from this running Sanskrit unit and is not
+inserted into the continuous Sanskrit or its translation.
 
 ## 3. Continuous Translation
 
@@ -159,9 +165,9 @@ then abstention arising from non-greed, non-hatred, or
 non-delusion; and finally disclosing and non-disclosing forms of
 non-greed-born abstention.
 
-With a tricky questioner, one may instead keep asking which
-dharmas are intended without supplying the division, until the
-questioner falls silent or answers for himself. An objection says
+For an evasive requester (`śaṭha`), one should say that dharmas are
+many, but not divide them, continuing until the requester falls
+silent or answers for himself. An objection says
 that the two requesters have merely asked to be told something,
 while the responders have merely asked questions: how can these
 count as questions and answers? The reply says that “Tell me the
@@ -172,7 +178,8 @@ the reader to the sūtra for the characteristics of the answer modes.
 
 The venerable Mahāsāṅghikas are then said to recite a sūtra on
 the four modes. “Are all conditioned things impermanent?” is
-categorical. The result of intentional action calls for division.
+categorical. The question of what one experiences after intentionally
+doing an action calls for division.
 A question about whether a person's perceptions and self are
 identical or different calls first for asking
 what the questioner takes the self to be. If he says that he takes
@@ -203,6 +210,13 @@ The second speaker shows that examples can shift category when
 their wording and intended scope change. The Ābhidharmika
 expansion makes division a disciplined sequence of increasingly
 specific determinations, reaching `vijñapti` and `avijñapti`.
+The same unspecific request to speak of dharmas receives a different
+procedure for a `śaṭha` requester: the respondent asks for a
+specification but withholds the progressive division. Thus the
+passage attends to the requester's stance as well as the question's
+wording and subject matter. The counter-question is itself defended
+as an answer; calling a question one to be set aside is likewise an
+explicit answer about its answerability, distinct from mere silence.
 The Mahāsāṅghika citation preserves another set of examples;
 its damaged line about self should not carry more doctrinal
 weight than the witness can support. The subsequent conditional
@@ -220,6 +234,11 @@ topics. The corrupt forms in the running IAST source have been
 kept visible in the Sanskrit and translated only where their
 local sense is recoverable.
 
+**Parallel witness.** Xuanzang makes the contrast between direct
+and evasive requests explicit and agrees on the gross self example.
+These points aid interpretation of the local Sanskrit but do not
+authorize silently adding the extra sentence to its translation.
+
 **Organon reconstruction.** This is a useful discipline for
 Theoretical Reason: determine what sort of question has been
 asked before producing a determination. The four answer modes
@@ -231,7 +250,9 @@ completed formal system.
 ## 6. Review Status
 
 The complete natural unit [292|08–294|04] has been compared with
-the running Sanskrit witness. Missing spans in the continuous
-translation have been restored; [294|04–05] begins the movement
-to 5.23. The cited sūtra's damaged self-identification and
-scattered orthographic irregularities remain open.
+the running Sanskrit witness. Its continuous Sanskrit has no
+omitted span; the continuous translation covers the complete
+argument, including the requester distinction and the cited
+sūtra. [294|04–05] begins the movement to 5.23. The cited
+sūtra's damaged self-identification and scattered orthographic
+irregularities remain open.

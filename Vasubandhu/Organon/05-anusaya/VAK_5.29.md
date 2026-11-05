@@ -15,8 +15,8 @@ svakatrayaikarūpāptāmalavijñānagocarāḥ || 5.29 ||
 ```
 
 The Bhāṣya identifies this as the first entry in a condensed exposition
-(`piṇḍavibhāṣā`) of the relations between classes of dharmas and classes of
-consciousness classes that can take them as object-supports.
+(`piṇḍavibhāṣā`) of which Dharma classes can be Supports for which
+Consciousness classes. Possible anuśaya adherence is then inferred.
 
 ## 3. Lexical Analysis
 
@@ -26,10 +26,10 @@ consciousness classes that can take them as object-supports.
 | `hetu-dṛk-praheyāḥ` | nominative plural compound | dharmas to be abandoned by seeing its cause or origination |
 | `abhyāsa-praheyāḥ` | nominative plural compound | dharmas to be abandoned by cultivation |
 | `kāma-dhātu-jāḥ` | nominative plural compound | belonging to or arisen in the Desire Realm |
-| `svaka-traya` | compound member | the three [consciousness classes] belonging to their own realm |
-| `eka-rūpa-āpta` | compound member | one [consciousness class] belonging to the Form Realm |
+| `svaka-traya` | compound member | the three [Consciousness classes] belonging to their own realm |
+| `eka-rūpa-āpta` | compound member | one [Consciousness class] belonging to the Form Realm |
 | `amala-vijñāna` | compound member | undefiled Cognition |
-| `gocarāḥ` | nominative plural masculine | objects or cognitive ranges |
+| `gocarāḥ` | nominative plural masculine | within the cognitive range of |
 
 The tightly compressed first compound distributes `praheyāḥ` across three
 path-indexed classes. The Bhāṣya explicitly analyzes `svakatraya` as “their
@@ -49,7 +49,7 @@ These are respectively the Desire Realm dharmas abandoned by seeing
 suffering, seeing origination, and cultivation. `Hetu-dṛk` is construed by the
 Bhāṣya as `samudaya-darśana`, seeing the origination of suffering.
 
-**Predicate: the consciousness classes whose range they are**
+**Predicate: the Consciousness classes whose range they are**
 
 ```text
 [svaka-traya
@@ -57,36 +57,38 @@ Bhāṣya as `samudaya-darśana`, seeing the origination of suffering.
  amala-vijñāna]-gocarāḥ
 ```
 
-The long predicate compound says that those dharmas are objects of five consciousness classes. The Bhāṣya resolves the elliptical counts: three corresponding consciousness classes in the Desire Realm, one cultivation-abandonable consciousness of the Form Realm,
-and one undefiled consciousness.
+The long predicate compound places those Dharmas in the range of five
+Consciousness classes. The Bhāṣya resolves the elliptical counts: three
+corresponding Desire Realm classes, one Form Realm class to be abandoned
+through cultivation, and one without influx. The verse names the last as
+undefiled Cognition (`amala-vijñāna`).
 
 ## 5. Translation
 
 ### Literal Translation
 
-> The Desire Realm [dharmas] to be abandoned by seeing suffering, by seeing
-> its cause, and by cultivation are the objects of their own three [consciousness classes],
-> one belonging to the Form Realm, and undefiled Cognition.
+> The Desire Realm [Dharmas] to be abandoned by seeing suffering, by seeing
+> its cause, and by cultivation are within the range of their own three
+> [Consciousness classes], one belonging to the Form Realm, and undefiled
+> Cognition.
 
 ### Bhāṣya-informed study translation
 
-> Desire Realm dharmas abandoned through seeing suffering, seeing origination,
-> or cultivation are objects for three corresponding consciousness classes in their own
-> realm, one Form Realm consciousness class abandoned through cultivation, and
-> undefiled Cognition.
+> Desire Realm Dharmas to be abandoned by seeing suffering, seeing origination,
+> or cultivation lie in the cognitive range of their three corresponding
+> Desire Realm Consciousness classes, one Form Realm Consciousness class to be
+> abandoned through cultivation, and undefiled Cognition.
 
 ## 6. Philosophical Translation
 
-> A dharma's place within an afflictive realm does not restrict it to cognition
-> of that same status. The three indicated classes of Desire Realm dharmas are
-> accessible not only to corresponding Desire Realm consciousness classes, but also to a
-> higher-realm consciousness and to undefiled Cognition. The status of what is known
-> and the status of the cognition knowing it must therefore be determined
-> separately. By first fixing their admissible object-relations, one can then
-> infer where anuśaya-adherence remains possible.
+> The three indicated Desire Realm Dharma classes are within the cognitive
+> range of their corresponding Desire Realm Consciousness classes, a Form
+> Realm Consciousness class, and undefiled Cognition. The Dharma class and
+> the Consciousness class must be determined separately. Their Support
+> relation is established before possible anuśaya adherence is inferred.
 
-This is not an assertion that every consciousness capable of cognizing a contaminated
-object is thereby contaminated by it. Object-access and afflictive adherence
+This does not assert that every Consciousness having a contaminated Dharma
+as Support is thereby contaminated. Support access and anuśaya adherence
 are distinct relations.
 
 ## 7. Technical Vocabulary
@@ -97,7 +99,7 @@ The Bhāṣya's name for the method beginning here. Rather than answer a flood o
 individual questions, it compresses them into typed classes and reusable
 relations.
 
-**The sixteen dharma- and consciousness classes**
+**The sixteen Dharma and Consciousness classes**
 
 The Bhāṣya supplies the governing classification:
 
@@ -109,7 +111,7 @@ The Bhāṣya supplies the governing classification:
     = 16 dharma-classes
 
 the same division
-    = 16 consciousness classes
+    = 16 Consciousness classes
 ```
 
 The five within each realm are the four classes abandoned by seeing the four
@@ -121,30 +123,31 @@ the five Desire Realm classes.
 A relational determination indexed to a path-operation, not an intrinsic
 description detached from that operation.
 
-**`Gocara` — cognitive range or object-field**
+**`Gocara` — cognitive range**
 
-What a cognition can range over. The Bhāṣya expresses this relation as the
-dharma being the consciousness's `ālambana`, its object-support.
+What a Cognition can range over. The Bhāṣya specifies these Dharmas as
+Supports (`ālambana`) of the corresponding Consciousness classes. The
+verse and prose terms are related here, not lexically identical.
 
 **`Amala-vijñāna` — undefiled Cognition**
 
-The undefiled consciousness class in the sixteenfold scheme. Its access to contaminated
-dharmas shows that contamination of the object does not by itself contaminate
-the cognition.
+The verse's undefiled Cognition corresponds to the prose's Consciousness
+class without influx (`anāsrava`). Its access to contaminated Dharmas
+does not by itself make that Consciousness contaminated.
 
 **`Abhyūhitavya` — to be inferred**
 
-The Bhāṣya's methodological instruction: once the object-support relation is
-known, the possible number of anuśayas adhering with respect to that object is
-to be reasoned out.
+The Bhāṣya's methodological instruction: once the Support relation is
+known, the possible number of anuśayas lying latent with respect to that
+Thing is to be inferred.
 
 ## 8. Logical Determination
 
-The Bhāṣya establishes a two-stage derivation:
+The Bhāṣya establishes a two-stage inquiry:
 
 ```text
-1. determine AlambanaOf(DharmaClass, ConsciousnessClass)
-2. infer possible AnusayaAdherence(DharmaClass, ConsciousnessClass)
+1. determine SupportOf(DharmaClass, ConsciousnessClass)
+2. infer possible AnuśayaCountFor(DharmaClass)
 ```
 
 For the present matrix entry:
@@ -154,52 +157,52 @@ D = {Kāma-Duḥkha-Dṛk-Praheya,
      Kāma-Hetu-Dṛk-Praheya,
      Kāma-Abhyāsa-Praheya}
 
-C = {the corresponding three Kāma consciousness classes,
-     Rūpa-Abhyāsa-Praheya consciousness,
-     Amala consciousness}
+C = {the corresponding three Kāma Consciousness classes,
+     Rūpa-Abhyāsa-Praheya Consciousness,
+     Anāsrava Consciousness}
 
 for each d in D:
-    ObjectOf(d, c) for the five admissible consciousness classes c in C
+    SupportOf(d, c) for the five admissible Consciousness classes c in C
 ```
 
 The inferential guard is essential:
 
 ```text
-ObjectOf(d, c)
-    ⇏ AnuśayaAdheres(c, d)
+SupportOf(d, c)
+    ⇏ FullyDetermined(AnuśayaCountFor(d))
 
-ObjectOf(d, c)
+SupportOf(d, c)
     → candidate relation from which adherence may be inferred
        together with the remaining doctrinal conditions
 ```
 
-In the project's fourfold architecture, 5.29 concentrates on the middle
-relation required for diagnosis:
+In the project's architecture, 5.29 establishes the
+Consciousness–Support relation required for diagnosis:
 
 ```text
-āśraya   = the realm- and path-typed consciousness
-ālambana = the realm- and path-typed dharma-class
+Consciousness = the realm- and path-typed citta class
+Support       = the realm- and path-typed Dharma class
 
 their admissible relation
-    constrains which hetu–phala afflictive operations are possible
+    constrains the later anuśaya inquiry
 ```
 
-Thus `āśraya–ālambana` is the transactional manifestation through which the
-generative structure can be inferred; it is not a bare subject confronting an
-independent object.
+The passage does not identify Consciousness with Basis (`āśraya`) or
+provide a `hetu`–`phala` rule for each matrix entry. Those would be
+further Organon determinations, not claims established by this verse.
 
 ## 9. Interpretive Note
 
-**Source determination.** The Bhāṣya first classifies dharmas and consciousness classes by the
-same sixteenfold scheme. It then makes the `ālambana` relation the lookup key:
-determine which consciousness can take which dharma-class as object, and from that
-structured access infer the possible anuśaya relations. VAK 5.29 supplies the
-first row-group of this matrix.
+**Source determination.** The Bhāṣya classifies Dharmas and Consciousnesses
+by the same sixteenfold scheme. It then makes the `ālambana` relation the
+lookup key: determine which Consciousness can take which Dharma class as
+Support, then infer the possible anuśaya count for a Thing. VAK 5.29 supplies
+the first three Dharma rows of this matrix.
 
 **Continuation of VAK 5.28.** The preceding verse showed that an abandoned
-dharma may remain the object of a still-unabandoned affliction. The present
-verse begins determining exactly which consciousness classes can sustain such object-
-relations. It replaces the abstract possibility with a typed relational map.
+Thing may remain the Support of a still-unabandoned affliction. The present
+verse begins classifying which Consciousness classes can have specified
+Dharma classes as Supports. It begins the typed map needed for that inquiry.
 
 **Yoga–Organon reconstruction.** This is Path rendered as determinate
 Objectivity. A path-operation does not merely label a state “abandoned”; it
@@ -212,7 +215,7 @@ principle governing their sequence.
 
 ```text
 typed classification
-    → admissible āśraya–ālambana relations
+    → admissible Consciousness–Support relations
         → inferred anuśaya determinations
 ```
 
@@ -225,24 +228,25 @@ rule from which the many cases can be regenerated.
 ```text
 Class: DharmaClass
 Class: ConsciousnessClass
-Class: realm
+Class: Realm
 Class: PathOperation
 Class: AnusayaAdherence
+Class: SupportRelation
 
 ObjectProperty: belongsToRealm
     Domain: DharmaClass or ConsciousnessClass
-    Range: realm
+    Range: Realm
 
 ObjectProperty: abandonedBy
     Domain: DharmaClass or ConsciousnessClass
     Range: PathOperation
 
-ObjectProperty: takesAsAlambana
+ObjectProperty: takesAsSupport
     Domain: ConsciousnessClass
     Range: DharmaClass
 
 ObjectProperty: permitsInferenceOf
-    Domain: AlambanaRelation
+    Domain: SupportRelation
     Range: AnusayaAdherence
 
 Individual: KamaSufferingSeeingDharma
@@ -261,19 +265,19 @@ Individual: KamaCultivationDharma
     abandonedBy: Cultivation
 
 Rule: CorrespondingKamaConsciousness(?c, ?d)
-    -> takesAsAlambana(?c, ?d)
+    -> takesAsSupport(?c, ?d)
 
 Rule: RupaCultivationConsciousness(?c)
     AND PresentVerseDharmaClass(?d)
-    -> takesAsAlambana(?c, ?d)
+    -> takesAsSupport(?c, ?d)
 
 Rule: UndefiledConsciousness(?c)
     AND PresentVerseDharmaClass(?d)
-    -> takesAsAlambana(?c, ?d)
+    -> takesAsSupport(?c, ?d)
 
-Constraint: takesAsAlambana(?c, ?d)
+Constraint: takesAsSupport(?c, ?d)
     doesNotEntail ContaminatedBy(?c, ?d)
 ```
 
-The seed represents the object-support matrix as an inferential interface. It
-does not collapse cognition, object, or anuśaya-adherence into one relation.
+The seed represents the Support matrix as an inferential interface. It
+does not collapse Consciousness, Support, or anuśaya adherence into one relation.

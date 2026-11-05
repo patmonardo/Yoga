@@ -29,11 +29,13 @@ abandonment, but abandonment need not yet entail disconnection.
 | `prāk` | adverb | previously, earlier |
 | `prakāre` | locative singular masculine | in a grade or mode |
 | `śeṣaiḥ` | instrumental plural | through the remaining ones |
-| `tad-viṣayaiḥ` | instrumental plural compound | having that as their object |
+| `tad-viṣayaiḥ` | instrumental plural compound | having that as their Condition |
 | `malaiḥ` | instrumental plural masculine | through stains or defilements |
 
-The kārikā says `tadviṣaya`, “having that as object.” The Bhāṣya sharpens the
-same relation with `tadālambana`, “having that as object-support.”
+The kārikā says `tadviṣaya`, “having that as Condition.” The Bhāṣya
+specifies the continuing bond through `tadālambana`, “taking that as
+Support.” The two terms converge in this case without becoming synonyms.
+
 ## 4. Grammar
 
 **The first path sequence**
@@ -58,15 +60,15 @@ prāk prahīṇe prakāre ca
     śeṣaiḥ tad-viṣayaiḥ malaiḥ [saṃyuktaḥ]
 
 and when a grade has previously been abandoned,
-    [one remains connected] through the remaining defilements that take it as object
+    [one remains connected] through the remaining defilements that have it as Condition
 ```
 
 `Saṃyuktaḥ` is carried forward from the first half. `Tadviṣayaiḥ` qualifies
-`malaiḥ`, and `śeṣaiḥ` distinguishes the grades not yet abandoned from the
-grade already removed.
+`malaiḥ`; `śeṣaiḥ` marks the defilements that remain after the earlier
+grade has been abandoned.
 The Bhāṣya's opening question distinguishes abandonment of a class or
 grade from disconnection from it: the continuing bond comes through another
-affliction taking what was abandoned as its object.
+affliction taking what was abandoned as its Support.
 
 ## 5. Translation
 
@@ -75,24 +77,21 @@ affliction taking what was abandoned as its object.
 > When what is to be abandoned by seeing suffering has been abandoned, one
 > remains connected [with it] through the remaining universally ranging
 > [afflictions]; and when a grade has previously been abandoned, [one remains
-> connected] through the remaining stains that have it as their object.
+> connected] through the remaining stains that have it as their Condition.
 
 ### Bhāṣya-informed study translation
 
 > After the class abandoned by seeing suffering has been removed, one remains
 > connected with it through the remaining universal afflictions; likewise,
 > after an earlier cultivation grade is removed, one remains connected with it
-> through defilements that still take that grade as their object.
+> through defilements that still have that grade as their Condition.
 
 ## 6. Philosophical Translation
 
-> Removing an afflictive factor is not yet the removal of every relation to it.
-> What has been abandoned no longer needs to operate as the cause of bondage;
-> another, still-unabandoned affliction can take it as object and thereby
-> maintain the connection. Liberation therefore proceeds both through the
-> elimination of determinate afflictions and through the exhaustion of the
-> remaining object-relations by which the continuum can still be organized
-> around them.
+> Abandonment of a class or grade can be a genuine Path achievement while a
+> remaining affliction still takes that Thing as Support. The current bond
+> belongs to the remaining affliction and its relation to the abandoned
+> Thing. Disconnection requires that this further relation also be released.
 
 The verse distinguishes a genuine but incomplete achievement from complete
 release. A stage of the Path is not invalid because further relations remain;
@@ -102,9 +101,9 @@ its determinacy is precisely what makes the next required operation visible.
 
 **`Prahīṇa` and `prahāṇa` — abandoned and abandonment**
 
-Elimination of the relevant afflictive factor from the practitioner's
-continuum. Here this is a real achievement, but it is weaker than complete
-disconnection from every relation involving that factor.
+Abandonment of the relevant Thing, class, or grade. Here this is a real
+achievement, but it is weaker than disconnection from every remaining
+afflictive relation directed toward it.
 
 **`Visaṃyukta` and `visaṃyoga` — disconnected and disconnection**
 
@@ -120,7 +119,7 @@ prahīṇa ↛ visaṃyukta
 
 An affliction whose objective reach extends across a broad contaminated domain.
 Here the remaining universal afflictions belonging to the seeing of origination
-can still take the class already abandoned by seeing suffering as object.
+can still take the class already abandoned by seeing suffering as Support.
 
 **`Prakāra` — grade or mode**
 
@@ -128,17 +127,18 @@ One of the nine grades within the afflictions abandoned through cultivation.
 Their ordered removal makes partial abandonment without complete relational
 release possible.
 
-**`Viṣaya` and `ālambana` — object and object-support**
+**`Viṣaya` and `ālambana` — Condition and Support**
 
-The verse uses `viṣaya`; the Bhāṣya uses `ālambana` to explain the same
-directed relation. Their occurrence here is technical evidence that an object
-may remain transactionally presented without remaining as an active affliction
-or a substantially persistent past entity.
+The verse describes remaining defilements as having the abandoned grade as
+their Condition (`tadviṣaya`). The Bhāṣya says they take it as Support
+(`tadālambana`). Both describe the continuing bond, while the two
+technical offices remain distinct. The abandoned Thing is not thereby
+restored as an operative affliction.
 
 **`Piṇḍavibhāṣā` — condensed systematic exposition**
 
-The Bhāṣya says that enumerating individually which anuśayas lie latent with
-respect to which objects would be excessively long. It therefore announces the
+The next Bhāṣya unit says that enumerating which anuśayas lie latent with
+respect to which Things would be excessively long. It therefore announces the
 condensed matrix beginning with VAK 5.29.
 
 ## 8. Logical Determination
@@ -158,7 +158,7 @@ The counterexample has a relational rather than substantial form:
 ```text
 Abandoned(x)
 AND Unabandoned(y)
-AND TakesAsObject(y, x)
+AND TakesAsSupport(y, x)
     → ConnectedThrough(person, x, y)
 ```
 
@@ -179,7 +179,7 @@ phala     = the continuing connection mediated by that affliction
 ```
 
 Thus the circulation identified in VAK 5.27 receives an important restriction.
-A prior determination may return as the object of a new operation, but it does
+A prior determination may become the Support of a new operation, but it does
 not thereby return as its own cause. The causal office belongs to the presently
 remaining affliction:
 
@@ -190,11 +190,11 @@ remaining affliction:
 
 ## 9. Interpretive Note
 
-**Source determination.** Vasubandhu distinguishes factor-level abandonment
+**Source determination.** Vasubandhu distinguishes abandonment of a Thing
 from relation-level disconnection. On the Path of Seeing, the suffering-class
-may be gone while universal afflictions removed by seeing origination still
-take it as object. On the Path of Cultivation, an earlier grade may be gone
-while remaining grades retain the corresponding object-relation.
+may be gone while universal afflictions to be removed by seeing origination still
+take it as Support. On the Path of Cultivation, an earlier grade may be gone
+while remaining afflictions retain a relation to it as Support.
 
 **Yoga–Organon reconstruction.** Aṣṭāṅga may be read as the Path in itself: the
 internally articulated work required for release. The bhūmis display that Path
@@ -209,11 +209,11 @@ relation through which it remains objectively effective must be reorganized.
 This is a comparative logical articulation, not a doctrine asserted by the
 kārikā or Bhāṣya.
 
-**The Product is not skipped.** The continued bond is a new result produced by
-the current configuration: remaining affliction, present continuum, and
-abandoned determination as object. The Product is therefore neither the old
-affliction secretly surviving nor a merely external after-effect. It is the
-concrete relational existence generated by the still-incomplete Path.
+**The Product is not skipped.** In this Organon reconstruction, the continuing
+bond is the relational result of the current configuration: remaining
+affliction, present continuum, and abandoned determination as Support. This
+does not posit a fresh arising of bondage at the moment of abandonment. It
+records why the achieved abandonment is not yet disconnection.
 
 ## 10. OWL++ Seed
 
@@ -223,14 +223,17 @@ Class: UniversalAffliction
     SubClassOf: Affliction
 Class: CultivationGrade
 Class: PractitionerContinuum
-Class: ObjectRelation
+Class: SupportRelation
 Class: ContinuingConnection
 
-ObjectProperty: hasSupport
+ObjectProperty: hasBasis
     Domain: Affliction
     Range: PractitionerContinuum
 
-ObjectProperty: takesAsObject
+ObjectProperty: takesAsSupport
+    Domain: Affliction
+
+ObjectProperty: hasCondition
     Domain: Affliction
 
 ObjectProperty: remainsConnectedThrough
@@ -245,7 +248,7 @@ Rule: isDisconnected(x, true)
 
 Rule: isAbandoned(x, true)
     AND isAbandoned(y, false)
-    AND takesAsObject(y, x)
+    AND takesAsSupport(y, x)
     -> remainsConnectedThrough(PractitionerContinuum, y)
 
 Constraint: isAbandoned(x, true)
@@ -259,5 +262,5 @@ OrganonMapping:
 ```
 
 The seed models abandonment and disconnection separately. The abandoned item
-may remain the object of a current relation, but no rule restores it as an
+may remain the Support of a current relation, but no rule restores it as an
 operative cause.

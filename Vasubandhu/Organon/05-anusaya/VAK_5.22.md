@@ -170,13 +170,19 @@ in scholastic application.
 
 ## 8. Logical Determination
 
-The first operation is meta-judgment:
+The first operation is meta-judgment. The Bhāṣya also considers the
+requester's stance: the same open request to speak of dharmas receives
+progressive division in one exchange, while a `śaṭha` requester receives
+counter-questions that do not supply the division. Xuanzang's parallel
+explicitly contrasts direct and evasive intentions; the running Sanskrit
+marks the evasive requester without stating that contrast in a separate
+sentence.
 
 ```text
-Question(q)
-    → DetermineLogicalForm(q)
-    → SelectAnswerMode(q)
-    → ProduceAnswer(q)
+Question(q, requester)
+    → DetermineLogicalFormAndIntendedScope(q, requester)
+    → SelectAnswerMode(q, requester)
+    → ProduceAnswer(q, requester)
 ```
 
 The selection rules are:
@@ -196,6 +202,12 @@ PresupposesUnestablishedSubstantialSubject(q)
 
 WorldLimitOrEternityQuestion(q)
     → SetAside(q)  [cited sūtra; grounds not given here]
+
+OpenRequestToSpeakOfDharmas(q) ∧ EvasiveRequester(p)
+    → CounterQuestionWithoutSuppliedDivision(q, p)
+
+ExplicitlyDeclaresQuestionSetAside(q)
+    → AnswersQuestionOfAnswerability(q)
 ```
 
 Several negations are essential:
@@ -206,13 +218,19 @@ SetAside(q)
     ≠ Doubts(q)
     ≠ RefusesToReason(q)
 
+ExplicitSetAsideDeclaration(q)
+    ≠ MereSilence(q)
+
 SameWord(x, y)
     ⇏ SameDetermination(x, y)
 ```
 
 `Vibhajya` and `paripṛcchya` may traverse similar differentiations, but their
-pragmatic relations differ: the first supplies the division; the second
-requires the interlocutor to determine the missing parameter.
+pragmatic relations differ in the Ābhidharmika exchange: the first supplies
+the division; the second requires the requester to specify its scope while
+the respondent withholds that division. This is a reconstruction of the
+exchange, not a universal rule that every counter-question withholds an
+answer.
 
 ## 9. Interpretive Note
 
@@ -312,9 +330,15 @@ vak:DividedAnswer
 vak:CounterQuestion
     vak:requires vak:MissingRelationalCorrelate .
 
+vak:EvasiveRequesterExchange
+    vak:uses vak:CounterQuestionWithoutSuppliedDivision .
+
 vak:SetAside
     vak:illustratedBy vak:BeingApartFromBasesQuestion,
                       vak:WorldLimitQuestion .
+
+vak:ExplicitSetAsideDeclaration
+    vak:answers vak:QuestionOfAnswerability .
 
 vak:EthicallyIndeterminateDharma
     owl:distinctFrom vak:SetAsideQuestion .

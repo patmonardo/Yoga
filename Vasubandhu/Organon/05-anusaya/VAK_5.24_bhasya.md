@@ -54,8 +54,8 @@ four parts have been kept at their source positions.
 condition “where they have not been abandoned” continues.
 Through future attachment, aversion, and conceit belonging
 to the mental level, one is connected with every object in
-the three times, because mental afflictions can take objects
-from all three times.
+the three times, because the mental afflictions have Conditions
+in all three times (`tryadhvaviṣayatva`).
 
 “By the others, to what belongs to their own time.” Through
 other future attachment and aversion, one is connected only
@@ -82,8 +82,9 @@ Its distinctions depend on **temporal position**, **cognitive
 locus**, and **whether a future affliction will arise**. Future
 attachment, aversion, and conceit in the mental domain can
 range over past, present, and future objects. The Bhāṣya gives
-the reason explicitly: mental afflictions have objects in
-all three times (`tryadhvaviṣayatva`).
+the reason explicitly: their Condition range (`viṣaya`) spans
+all three times. The connected objects are called `vastu` in
+the prose; the two terms should not be silently collapsed.
 
 The “others” (`paraiḥ`) are future attachment and aversion
 associated with the five sense cognitions. For those
@@ -110,9 +111,11 @@ not a new unnamed set. `Svādhvike` means an object belonging
 to the same time as those future sensory afflictions, hence
 a future object here. `Ajaiḥ` is glossed by the Bhāṣya as
 factors whose nature is not to arise; it does not simply
-mean factors that have not arisen yet. `Sarvatra` concerns
-the range of relevant `vastu`, qualified throughout by
-non-abandonment.
+mean factors that have not arisen yet. `Tryadhvaviṣayatva`
+names a three-time range of Conditions, while `vastu` names
+the object with respect to which the person is connected.
+`Sarvatra` concerns the range of relevant `vastu`, qualified
+throughout by non-abandonment.
 
 **Organon reconstruction.** The passage requires a model to
 keep possible range, actual arising, and effective bondage
@@ -124,6 +127,9 @@ architecture.
 
 ## 6. Review Status
 
-Provisional. The whole distributed Kārikā and its prose were
-checked against the running IAST source. The next question
-about existence across the three times is reserved for 5.25.
+The complete unit [294|13–295|02], including all four
+distributed parts of the Kārikā, has been compared with the
+running IAST source. Its continuous Sanskrit has no omitted
+span, and the translation covers each argument step. The
+question at [295|02–03] begins 5.25's investigation of
+existence across the three times.

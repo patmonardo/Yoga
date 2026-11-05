@@ -1,111 +1,120 @@
-# VAK 5.29 Bhāṣya — The First Entry in the Object Matrix
+# VAK 5.29 Bhāṣya — The First Entry in the Support Matrix
 
 ## 1. Kārikā Anchor
 
 > duḥkhahetudṛgabhyāsapraheyāḥ kāmadhātujāḥ |
 > svakatrayaikarūpāptāmalavijñānagocarāḥ || 5.29 ||
 
-> Desire Realm dharmas abandoned through seeing suffering, seeing origination,
-> or cultivation are objects for three corresponding consciousness classes in their own
-> realm, one Form Realm consciousness class abandoned through cultivation, and
-> undefiled Cognition.
+> Desire Realm Dharmas to be abandoned by seeing suffering, seeing origination,
+> or cultivation lie in the cognitive range of their three corresponding
+> Desire Realm Consciousness classes, one Form Realm Consciousness class to be
+> abandoned through cultivation, and undefiled Cognition.
 
 ## 2. Continuous Sanskrit
 
 ```iast
-kasmin vastuni katy anuśayā anuśerata iti etat
-pratipadam abhidhīyamānaṃ bahutaraṃ vaktavyaṃ jāyate.
-tasmāt piṇḍavibhāṣāṃ kurvanti: katham alpenālpena
-yatnena mahato mahataḥ praśnaughān pratipādyemahīti.
-samāsata ime ṣoḍaśa dharmāḥ: kāmarūpārūpyāvacarāḥ
-pañcaprakārāḥ, anāsravāś ca. cittāny api ṣoḍaśa
-etāny eva. tatra katamo dharmaḥ kasya cittasyālambanam
-iti jñātvā amuṣminn iyanto 'nuśayā anuśerata ity
-etad abhyūhitavyam. tatra tāvat:
-
-    duḥkhahetudṛgabhyāsapraheyāḥ kāmadhātujāḥ |
-    svakatrayaikarūpāptāmalavijñānagocarāḥ.
-
-svakaṃ ca tat trayaṃ ca svakatrayam. ekaṃ ca tad
-rūpāptaṃ ca ekarūpāptam. eṣā vigrahajātiḥ.
-kāmāvacarās tāvad duḥkhasamudayadarśanaheyā
-bhāvanāheyāś ca dharmāḥ pañcānāṃ cittānām
-ālambanam: svadhātukānāṃ trayāṇāṃ teṣām eva,
-ūrdhvadhātukasyaikasya bhāvanāheyasyaiva,
-anāsravasya ceti.
+kasminvastuni katyanuśayā anuśerata iti etatpratipadamabhidhīyamānaṃ bahutaraṃ vaktavyaṃ jāyate /
+tasmāt piṇḍavibhāṣāṃ kurvanti /
+kathamalpenālpena yatnena mahato mahataḥ praśnaughān pratipādyemahīti /
+samāsata ime ṣoḍaśa dharmāḥ kāmarūpārupyāvacarāḥ pañcaprakārāḥ anāsravāśca /
+cittānyapi ṣoḍaśa etānyeva /
+tatra katamo dharmaḥ kasya cittasyālambanamiti jñātvā amuṣminniyanto 'nuśayā anuśerata ityetadabhyūhitavyam /
+tatra tāvat
+duḥkhahetudṛgabhyāsapraheyāḥ kāmadhātujāḥ /
+svakatrayaikarūpāptāmalavijñānagocarāḥ //
+svakaṃ ca tattrayaṃ ca svakatrayam /
+ekaṃ ca tadrūprāptaṃ ca ekarūpāptam /
+eṣā vigrahajātiḥ /
+kāmāvacarāstāvad duḥkhasamudayadarśanaheyā bhāvanāheyāśca dharmāḥ pañcānāṃ cittānāmālambanam /
+svadhātukānāṃ trayāṇāṃ teṣāmeva ūrdhvadhātukasyaikasya bhāvanāheyasyaiva anāsravasya ceti /
 ```
 
-The unit begins with the new question at [302|04] and ends
-at [302|15] in `Vasubandhu/Sources/kosabhasya.txt`.
-The verse portion at [302|16] begins 5.30. Spacing and
-punctuation are editorial; the Sanskrit is drawn from the
-running IAST source. The prose itself unpacks the compact
-compound `svakatrayaikarūpāpta`.
+The complete natural unit runs from the new question at
+[302|04] through [302|15] in `Vasubandhu/Sources/kosabhasya.txt`.
+The first half of 5.30 begins at [302|16]. The Sanskrit above
+retains the running witness's wording and slash punctuation;
+only page labels and the Kārikā tag have been removed. In
+[302|12–13], that witness reads `rūprāptaṃ` in the prose
+analysis of `ekarūpāpta`, with an additional `r` relative to
+the compound itself. The translation follows the explicit
+compound and its following Form Realm explanation, while the
+running reading remains visible.
 
 ## 3. Continuous Translation
 
-If one stated separately how many anuśayas adhere in each
-`vastu`, there would be a great deal to say. Therefore a
-condensed exposition is made: how can a vast flood of questions
-be answered with relatively little effort? In summary, there
-are sixteen dharma classes: five classes in each of the desire,
-form, and formless domains, and one undefiled class. Cittas
-are divided into these same sixteen classes. Once one knows
-which dharma is the `ālambana` of which citta, one should infer
-how many anuśayas adhere with respect to that object.
+“In which Thing do how many anuśayas lie latent?” To state
+this item by item would require much to be said. Therefore
+they make a condensed exposition: “How could we answer a
+very great flood of questions with very little effort?” In
+summary, there are sixteen Dharma classes: five kinds in each
+of the Desire, Form, and Formless Domains, plus the class
+without influx. Consciousnesses too have these same sixteen
+classes. Having learned which Dharma is the Support
+(`ālambana`) of which Consciousness, one should infer how
+many anuśayas lie latent with respect to that Thing.
 
-First, Desire Realm dharmas abandoned through seeing suffering,
-seeing origination, or cultivation are objects of their own
-three citta classes, one Form Realm citta, and undefiled
-cognition. The prose resolves “own three” as the three
-corresponding Desire Realm cittas and “one Form Realm” as
-the Form Realm citta abandoned through cultivation. Thus
-these three dharma classes are objects of five citta classes
-in all: three in their own domain, one in the higher domain,
-and one undefiled.
+First: “Desire Realm Dharmas to be abandoned by seeing
+suffering, seeing origination, or cultivation lie in the
+cognitive range of their three corresponding Desire Realm
+Consciousness classes, one Form Realm Consciousness class to
+be abandoned through cultivation, and undefiled Cognition.”
+The prose parses “their own three” as both their own and
+three, and “one Form Realm class” as both one and belonging
+to Form. This is the form of the compound analysis. The three
+specified Desire Realm Dharma classes are Supports of five
+Consciousness classes: their corresponding three in their
+own domain, one in the higher domain to be abandoned through
+cultivation alone, and one without influx.
 
 ## 4. Argument and Doctrinal Determination
 
-The `piṇḍavibhāṣā` compresses a combinatorial problem.
-The text first classifies both possible objects and cognitions
-into sixteen positions: five abandonment classes for each
-of three domains, plus the undefiled class. It then asks
-which object class can be taken by which citta class. Only
-after establishing that relation does it infer where an
-anuśaya may adhere. An object's availability to a citta is
-therefore a necessary step in the calculation, not by itself
-a claim that every such cognition is afflicted.
+The condensed exposition (`piṇḍavibhāṣā`) orders a large
+question. It classifies the Dharmas and Consciousnesses
+separately, each into sixteen classes. It then determines
+which Dharma class can serve as Support for which
+Consciousness class. Only after that relation is known does
+it direct the reader to infer how many anuśayas can lie
+latent with respect to a given Thing. The five admissible
+Consciousness classes in this verse are therefore a Support
+count, not a count of anuśayas and not a claim that every
+such Consciousness is afflicted.
 
-The first entry concerns three Desire Realm object classes:
-those abandoned by seeing suffering, by seeing origination,
-and by cultivation. The corresponding three Desire Realm
-cittas can take them as objects. The cultivation-abandonable
-Form Realm citta and an undefiled citta can also do so.
-Thus the object's domain and abandonment class do not
-automatically determine the ethical status or domain of the
-cognition that takes it as its object.
+The first matrix entry concerns three Desire Realm Dharma
+classes: those to be abandoned by seeing suffering, by
+seeing origination, and through cultivation. Their Support
+relation extends to three corresponding Desire Realm
+Consciousness classes, one Form Realm class to be abandoned
+through cultivation, and one without influx. The final
+class shows in this local enumeration that having a Dharma
+as Support does not by itself give the Consciousness that
+Dharma's afflictive status.
 
 ## 5. Translation and Interpretation
 
 **Translation decisions.** `Hetudṛk` is read through the
-prose's `samudayadarśana`, seeing origination or cause.
-`Abhyāsa-praheya` corresponds to `bhāvanāheya`, what
-is abandoned through cultivation. `Amala-vijñāna` is
-rendered as undefiled cognition; the prose says `anāsrava`.
-`Svaka-traya` and `eka-rūpāpta` are divided according to
-the Bhāṣya's explicit `vigrahajāti` rather than guessed
-from the verse alone.
+prose's `samudayadarśana`, seeing origination. `Abhyāsa-
+praheya` corresponds here to `bhāvanāheya`, to be abandoned
+through cultivation. The verse's `amala-vijñāna` is
+undefiled Cognition; the prose identifies the fifth
+Consciousness class as `anāsrava`, without influx. `Gocara`
+marks cognitive range in the verse; `ālambana` marks Support
+in the prose. `Svaka-traya` and `eka-rūpāpta` follow the
+Bhāṣya's explicit compound analysis, subject to the recorded
+`rūprāptaṃ` witness defect.
 
-**Organon reconstruction.** The text offers a disciplined
-method for the Science of Citta: type the object and the
-cognition independently, establish their admissible object
-relation, and only then assess anuśaya-adherence. That is
-a project-level use of the Kośa's matrix, separate from
-any implemented data model.
+**Organon reconstruction.** The passage offers an order for
+the Science of Citta: classify the Dharma and Consciousness
+terms independently, establish their Support relation, and
+only then assess possible anuśaya adherence. This is a
+project-level use of the Kośa's matrix. The unit does not
+identify Consciousness (`citta`) with Basis (`āśraya`).
 
 ## 6. Review Status
 
-Provisional. The introductory method, full 5.29 verse, and
-its explanation were checked against the running IAST source.
-The remaining rows of the matrix belong to the following
-kārikās and have not been imported here.
+The complete [302|04–15] natural unit was compared with the
+running IAST source. Its continuous Sanskrit matches after
+removal of page labels and the Kārikā tag, and the translation
+covers each natural step from the opening question to the
+five-class Support count. The prose reading `rūprāptaṃ`
+remains marked as uncertain. The next verse starts at
+[302|16]; its matrix entries remain for 5.30.

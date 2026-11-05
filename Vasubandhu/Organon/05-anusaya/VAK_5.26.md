@@ -91,11 +91,9 @@ these four; its further challenge to the role of activity begins in 5.27.
 > a mediating principle. Four candidates locate the difference in mode,
 > characteristic, state, or relation. Functional state is initially superior:
 > it distinguishes what has not yet operated, what is operating, and what has
-> completed operation. Yet a true middle must generate the difference it
-> mediates. If function is external to the dharma, the temporal problem is
-> merely duplicated; if function is identical with the dharma, the distinction
-> has not been explained. The best available answer remains answerable to a
-> higher test of genesis.
+> completed operation. This is a comparative preference among four accounts;
+> whether activity itself explains the temporal difference remains the question
+> taken up in the next verse.
 
 The dialectical sequence is:
 
@@ -109,8 +107,8 @@ four candidate mediations
 provisional selection
     state determined through function
 
-immanent critique
-    does function actually generate temporal difference?
+next inquiry in 5.27
+    does activity explain temporal difference?
 ```
 
 Preference within a doctrinal set is not yet final truth.
@@ -138,7 +136,9 @@ different values according to its numerical position.
 **`Anyathānyathatva` — relative otherness**
 
 Buddhadeva determines temporal designation through relation to what precedes
-and follows, as one woman may be called mother or daughter. The objection is
+and follows, as one woman may be called mother or daughter. His prose also
+says this is a difference of state, not substance; the earlier-and-later
+relation specifies how his state difference is construed. The objection is
 that all three times could then be generated within any one temporal course.
 
 **`Kāritra` — operative activity or function**
@@ -151,8 +151,8 @@ presently functioning → present
 function completed    → past
 ```
 
-The Bhāṣya then asks whether past causes that still give results possess
-function, and whether function is different from or identical with the dharma.
+The 5.27 Bhāṣya will ask whether past causes that still give results possess
+activity, and whether activity is different from or identical with the dharma.
 
 **`Tṛtīyaḥ śobhanaḥ` — the third is preferable**
 
@@ -193,33 +193,19 @@ PerformsFunction(x)       → Present(x)
 PerformedAndCeased(x)     → Past(x)
 ```
 
-Vasubandhu's test of mediation is stronger:
-
-```text
-Distinct(Function, Dharma)
-    → FunctionRequiresItsOwnTemporalExplanation
-
-Identical(Function, Dharma)
-    → FunctionDoesNotExplainWhySameDharmaSometimesOperates
-```
-
-Therefore:
-
-```text
-NamesTemporalStates(Mediator)
-    ⇏ GeneratesTemporalDifference(Mediator)
-```
-
-An adequate middle must produce the distinction without presupposing it.
+These rules state the locally preferred account's criterion. They do not
+establish why activity occurs at one time rather than another; that question
+belongs to 5.27.
 
 ## 9. Interpretive Note
 
-VAK 5.26 gives exact logical content to the image of something being presented
-to Puruṣa for a “thumbs up or down.” Four temporal determinations are presented
-through buddhi or discriminative cognition. The third first appears adequate
-because function seems to mediate identity and difference. Yet the examination
-continues until the proposed determination either becomes transparent or
-reveals that it presupposes what it was meant to explain.
+The Bhāṣya's explicit Sāṃkhya comparison concerns Dharmatrāta's
+transformation theory (`pariṇāmavāda`). The following Puruṣa–buddhi
+reading is an Organon–Yoga comparison. In that register, the four
+temporal accounts can be presented for discriminative testing, like
+something brought before Puruṣa for a “thumbs up or down.” The third
+receives a provisional preference; 5.27 resumes the examination of
+its activity criterion.
 
 Puruṣa should not be converted into a psychological executive choosing among
 theories. In the Yoga reconstruction, its standpoint is the non-appropriative
@@ -233,35 +219,35 @@ buddhi presents determinate form
 ```
 
 The “thumb” is therefore the result of the determination's own intelligibility.
-Vasumitra receives a provisional affirmation; Vasubandhu's renewed questions
-show that provisional success is not Absolute adequacy.
+Vasumitra receives a provisional affirmation here. The renewed questions
+in 5.27 test whether that success is adequate.
 
 This is also Hegel's demand upon the middle term. A mediator cannot merely stand
 between identity and difference or attach labels to them. It must generate
 their unity through its own movement. Otherwise mediation is either a second
 unexplained thing or only another name for the original terms.
 
-The fourfold architecture can be stated here as:
+The fourfold architecture can be mapped here as an Organon extension.
+`Āśraya`, `ālambana`, `hetu`, and `phala` are not terms used in this
+5.26 unit; the diagram assigns project functions, not Sanskrit glosses:
 
 ```text
 āśraya
-    the dharma asserted as the persisting basis across temporal modes
+    the analytic Basis of a proposed temporal account
 
 ālambana
-    the temporal determination presented to cognition as past, present, future
+    the temporal determination taken as Support for inquiry
 
 hetu
-    kāritra proposed as the differentiating and generative mediator
+    kāritra proposed as the differentiating reason
 
 phala
-    the resulting temporal state and its determinate efficacy
+    the resulting temporal designation
 ```
 
-The problem exposed by Vasubandhu is whether this `hetu` truly produces the
-`phala`. If `kāritra` already presupposes time, it cannot ground temporal
-difference. If the same `āśraya` exists identically in all three times, its
-presentation as a different `ālambana` still needs to be generated rather than
-asserted.
+In this mapping, 5.26 states the activity criterion that connects the
+proposed `hetu` to the temporal `phala`. Whether that criterion explains
+the temporal difference is taken up in 5.27.
 
 The Aṣṭāṅga–Bhūmi distinction now receives a criterion of adequacy:
 
@@ -279,9 +265,9 @@ not adequate if it cannot produce the transformed appearance it claims to
 mediate.
 
 This is Organon–Yoga–Hegel reconstruction. Its textual ground is the four
-Sarvāstivāda theories, the provisional preference for state-difference through
-function, and Vasubandhu's immanent critique of whether `kāritra` genuinely
-constitutes temporal difference.
+Sarvāstivāda theories, the explicit comparison of Dharmatrāta with
+Sāṃkhya transformation, and the provisional preference for state
+difference through activity. The further critique belongs to 5.27.
 
 ## 10. OWL++ Seed
 
@@ -290,7 +276,7 @@ vak:VAK_5_26 a vak:Karika ;
     rdfs:label "VAK 5.26" ;
     vak:continues vak:VAK_5_25 ;
     vak:hasTopic vak:TemporalDifferenceTheories,
-                 vak:GeneticMediationTest .
+                 vak:ActivityCriterion .
 
 vak:FourTemporalTheories
     vak:includes vak:ModeDifferenceTheory,
@@ -301,24 +287,22 @@ vak:FourTemporalTheories
 vak:StateDifferenceTheory
     vak:attributedTo vak:Vasumitra ;
     vak:provisionallyPreferred true ;
-    vak:usesMediator vak:OperativeFunction .
+    vak:usesMediator vak:OperativeFunction ;
+    vak:testedFurtherIn vak:VAK_5_27 .
 
 vak:TemporalFunctionRule
     vak:notYetOperativeState vak:Future ;
     vak:currentlyOperativeState vak:Present ;
     vak:completedOperationState vak:Past .
 
-vak:GeneticMediationTest
-    vak:rejects vak:MerelyLabelsDifference ;
-    vak:requires vak:GenerationOfTemporalDifference .
-
 vak:TemporalPresentationCircuit
-    vak:hasAsrayaFunction vak:PersistingDharma ;
+    vak:layer vak:OrganonReconstruction ;
+    vak:hasAsrayaFunction vak:TemporalAccountBasis ;
     vak:hasAlambanaFunction vak:TemporalDetermination ;
     vak:hasHetuFunction vak:OperativeMediator ;
     vak:hasPhalaFunction vak:DeterminateTemporalState .
 ```
 
-The seed preserves the third theory's provisional superiority while encoding
-Vasubandhu's further demand that the proposed mediator generate rather than
-merely rename temporal difference.
+The seed records the third theory's local preference and activity rule,
+while pointing to the further test in 5.27. Its fourfold circuit is a
+project reconstruction.
