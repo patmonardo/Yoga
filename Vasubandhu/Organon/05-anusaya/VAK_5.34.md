@@ -15,24 +15,25 @@ ayoniśo manaskārāt kleśaḥ saṃpūrṇakāraṇaḥ || 5.34 ||
 ```
 
 VAK 5.32–5.33 described the ordered genesis of the ten kleśas. VAK 5.34 now
-asks what conditions are required for a kleśa actually to manifest.
+asks how a kleśa arises when its causal complex is complete.
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `aprahīṇāt` | ablative singular past passive participle with negative prefix | from what has not been abandoned |
-| `anuśayāt` | ablative singular masculine | from an anuśaya, a latent afflictive disposition |
-| `viṣayāt` | ablative singular masculine | from an object or objective field |
-| `pratyupasthitāt` | ablative singular past passive participle | from what has become present or appeared before cognition |
+| `anuśayāt` | ablative singular masculine | from an anuśaya, here the unabandoned afflictive cause |
+| `viṣayāt` | ablative singular masculine | from a Condition |
+| `pratyupasthitāt` | ablative singular past passive participle | from what has become present |
 | `ayoniśaḥ` | adverbial form | unwisely, without proceeding according to the proper ground or source |
 | `manaskārāt` | ablative singular masculine | from attention or mental application |
-| `kleśaḥ` | nominative singular masculine | manifest affliction |
+| `kleśaḥ` | nominative singular masculine | affliction arising in this causal account |
 | `saṃpūrṇa-kāraṇaḥ` | nominative singular masculine compound | having its causal complex complete |
 
 The three ablative constructions name the conditions from which the nominative
 `kleśaḥ` arises. The Bhāṣya explicitly correlates them, in order, with three
-powers: cause, object, and application.
+powers: cause, Condition, and application.
+
 ## 4. Grammar
 
 **The three causal conditions**
@@ -61,53 +62,52 @@ The verb “arises” is supplied by the Bhāṣya's framing question and prose.
 
 The verse states the complete ordinary causal configuration. The Bhāṣya
 immediately reports an exceptional case in which a kleśa may arise through
-object-power alone, as with an arhat liable to fall away. The triad should
+Condition power alone, as with an arhat liable to fall away. The triad should
 therefore not be converted into an exceptionless biconditional.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> From an unabandoned anuśaya, from an object that has become present, and
+> From an unabandoned anuśaya, from a Condition that has become present, and
 > from unwise attention, a kleśa [arises] with its causal conditions complete.
 
 ### Bhāṣya-informed study translation
 
 > An affliction arises with its causal complex complete: from an
-> unabandoned anuśaya, an object that has become present, and unwise attention.
+> unabandoned anuśaya, a Condition now present, and unwise attention.
 
 ## 6. Philosophical Translation
 
-> Affliction is neither an inner thing that manifests by itself nor the direct
-> effect of an external stimulus. A retained disposition, a presently given
-> object, and a defective act of attention must ordinarily become one concrete
-> causal configuration. The disposition supplies the generative possibility;
-> the object supplies determinate presentation; attention actively configures
+> Affliction arises through several coordinated factors. An unabandoned
+> anuśaya, a presently given Condition, and unwise attention form a concrete
+> causal configuration. The anuśaya contributes the causal power;
+> the Condition supplies determinate presentation; attention actively configures
 > their encounter; and the manifest kleśa is the Product of this completed
-> relation. Availability becomes actuality only through the operation joining
-> these moments.
+> relation. In the ordinary case, the operation joins these moments into a
+> complete causal configuration.
 
-The same object need not produce the same result. If the relevant anuśaya has
-been abandoned or attention takes the object wisely, the ordinary causal
+The same Condition need not produce the same result. If the relevant anuśaya has
+been abandoned or attention meets the Condition wisely, the ordinary causal
 complex is not complete.
 
 ## 7. Technical Vocabulary
 
-**`Aprahīṇa-anuśaya` — unabandoned latent affliction**
+**`Aprahīṇa-anuśaya` — unabandoned anuśaya**
 
-The retained afflictive power capable of manifestation. The Bhāṣya's example
+The unabandoned afflictive cause in this account. The Bhāṣya's example
 adds `aparijñāta`, not fully comprehended, to characterize its unresolved
 status.
 
-**`Pratyupasthita-viṣaya` — presently arisen object**
+**`Pratyupasthita-viṣaya` — presently appearing Condition**
 
-An object that has entered the current cognitive situation and is capable of
+The Condition that has become present and is capable of
 occasioning the relevant affliction. Presence supplies an occasion, not by
 itself the ordinary complete cause.
 
 **`Ayoniśo manaskāra` — unwise attention**
 
-The defective way cognition applies itself to the presented object. It is not
+The defective way attention engages the presented Condition. It is not
 passive reception: the Bhāṣya classifies it as `prayoga-bala`, the power of
 application.
 
@@ -120,9 +120,9 @@ a structured plurality of powers, not one undifferentiated efficient cause.
 
 The causal power of the unabandoned anuśaya.
 
-**`Viṣaya-bala` — power of the object**
+**`Viṣaya-bala` — power of the Condition**
 
-The occasioning power of the object that has become present.
+The occasioning power of the Condition that has become present.
 
 **`Prayoga-bala` — power of application**
 
@@ -131,13 +131,13 @@ attention.
 
 **`Anuśaya` and `kleśa`**
 
-The verse distinguishes latent disposition from manifested affliction:
+The verse relates an unabandoned anuśaya to the arising of an affliction:
 
 ```text
-operative possibility ≠ manifest event
+anuśaya named as cause → kleśa named as arising
 ```
 
-Their relation requires causal completion.
+It does not here define their full ontological relation.
 
 ## 8. Logical Determination
 
@@ -147,7 +147,7 @@ The ordinary generative rule is conjunctive:
 Unabandoned(a)
 AND Anusaya(a)
 AND Present(o)
-AND RelevantObject(o, a)
+AND RelevantCondition(o, a)
 AND UnwiseAttention(m, o)
     → NormallyArises(ManifestKlesa(a, o, m))
 ```
@@ -156,15 +156,15 @@ No single condition ordinarily suffices:
 
 ```text
 UnabandonedAnuśaya alone  ⇏ ManifestKleśa
-PresentObject alone       ⇏ ManifestKleśa
+PresentCondition alone    ⇏ ManifestKleśa
 UnwiseAttention alone     ⇏ this determinate ManifestKleśa
 ```
 
 The Bhāṣya names the corresponding powers:
 
 ```text
-hetu-bala     = power of the latent cause
-viṣaya-bala   = power of the presented object
+hetu-bala     = power of the unabandoned anuśaya
+viṣaya-bala   = power of the presented Condition
 prayoga-bala  = power of cognitive application
 
 their coordinated completion
@@ -177,7 +177,7 @@ This is a default causal rule, not an exceptionless equivalence:
 CompleteOrdinaryComplex → Manifestation
 
 but sometimes, according to the reported qualification:
-ViṣayaBala without ordinary HetuBala → Manifestation
+ViṣayaBala without HetuBala → Manifestation
 ```
 
 The distinction between normal rule and exceptional path prevents the model
@@ -187,46 +187,49 @@ from confusing strong generative structure with rigid mechanical necessity.
 
 **Source determination.** The Bhāṣya maps the verse's three conditions in exact
 order onto `hetu-bala`, `viṣaya-bala`, and `prayoga-bala`. Its example is sensual
-desire: an unabandoned desire-anuśaya, desire-conducive objects entering
+desire: an unabandoned desire-anuśaya, desire-conducive Dharmas entering
 appearance, and unwise attention together produce manifest desire.
 
-**From the matrix to the event.** VAK 5.29–5.31 established which consciousness may
-take which dharma as `ālambana`. VAK 5.32 distinguished the relational grounds
+**From the matrix to the event.** VAK 5.29–5.31 established which Consciousness may
+take which Dharma as Support (`ālambana`). VAK 5.32 distinguished the relational grounds
 of `sānuśaya`; VAK 5.32–5.33 then displayed the genetic order of afflictions.
 VAK 5.34 now integrates those determinations as an event-producing field:
 
 ```text
-latent relation
-    + admissible objective presentation
+anuśaya relation
+    + a presently appearing Condition
     + mode of cognitive application
         → concrete afflictive event
 ```
 
-**Fourfold Organon reconstruction.** The verse and Bhāṣya explicitly provide
-cause, object, application, and result. Within the project's architecture, the
+**Organon reconstruction.** The verse and Bhāṣya explicitly provide
+cause, Condition, application, and result. Within the project's architecture, the
 full operation may be rendered:
 
 ```text
 hetu      = unabandoned anuśaya / hetu-bala
 āśraya    = the presently configured cognitive continuum
-ālambana  = the presented viṣaya / viṣaya-bala
+viṣaya    = the presented Condition / viṣaya-bala
+ālambana  = a Support relation to be specified separately
 operation = manaskāra as prayoga-bala
 phala     = manifest kleśa
 ```
 
 `Āśraya` is supplied here as an Organon determination, not as a word occurring
-in the kārikā. It names the concrete support in which attention joins the
-latent cause and presented object. The Product must not be skipped: the kleśa
+in the kārikā. It names the concrete Basis in which attention joins the
+unabandoned anuśaya and presented Condition. The verse does not call its
+`viṣaya` an `ālambana`; the two relations must be established separately.
+The Product must not be skipped: the kleśa
 is the newly manifested determination generated by their completed relation.
 
-**Yoga Technē.** This structure gives practice three distinguishable points of
-intervention: abandon the disposition, govern objective exposure, and transform
-the mode of attention. The deepest practical operation is not flight from the
-object but conversion of `ayoniśo manaskāra` into adequate attention, so that
-presentation does not complete the afflictive causal circuit.
+**Yoga Technē.** This structure suggests three distinguishable points of
+intervention: abandon the anuśaya, govern exposure to the Condition, and
+transform the mode of attention. A practice-level proposal is to replace
+`ayoniśo manaskāra` with adequate attention, so that presentation does not
+complete the ordinary afflictive causal complex.
 
 **Sessional synthesis.** The reward for the preceding dharma theory is now
-visible. Classification made the object-relations knowable; those relations
+visible. Classification made the Support relations knowable; those relations
 made the grounds of predication distinguishable; genetic ordering made the
 transitions intelligible; and VAK 5.34 finally shows how the whole structure
 produces an actual event.
@@ -235,19 +238,19 @@ produces an actual event.
 
 ```text
 Class: Anusaya
-Class: PresentedObject
+Class: PresentedCondition
 Class: AttentionOperation
 Class: CognitiveContinuum
 Class: ManifestKlesa
 Class: CausalComplex
 
-ObjectProperty: hasLatentCause
+ObjectProperty: hasAnusayaCause
     Domain: CausalComplex
     Range: Anusaya
 
-ObjectProperty: hasAlambana
+ObjectProperty: hasCondition
     Domain: CausalComplex
-    Range: PresentedObject
+    Range: PresentedCondition
 
 ObjectProperty: hasAsraya
     Domain: CausalComplex
@@ -266,7 +269,7 @@ DataProperty: isAbandoned
     Range: Boolean
 
 DataProperty: isPresent
-    Domain: PresentedObject
+    Domain: PresentedCondition
     Range: Boolean
 
 DataProperty: isWise
@@ -275,12 +278,12 @@ DataProperty: isWise
 
 Rule: Anusaya(?a)
     AND isAbandoned(?a, false)
-    AND PresentedObject(?o)
+    AND PresentedCondition(?o)
     AND isPresent(?o, true)
     AND AttentionOperation(?m)
     AND isWise(?m, false)
-    AND hasLatentCause(?x, ?a)
-    AND hasAlambana(?x, ?o)
+    AND hasAnusayaCause(?x, ?a)
+    AND hasCondition(?x, ?o)
     AND hasApplication(?x, ?m)
     AND hasAsraya(?x, ?s)
     -> produces(?x, ManifestKlesa)
@@ -289,7 +292,7 @@ DefaultConstraint:
     CompleteCausalComplex normallyProduces ManifestKlesa
 
 ExceptionMarker:
-    ObjectPowerAlone mayOccasion ManifestKlesa
+    ConditionPowerAlone mayOccasion ManifestKlesa
 ```
 
 The seed preserves the causal plurality, the supported operation, the produced

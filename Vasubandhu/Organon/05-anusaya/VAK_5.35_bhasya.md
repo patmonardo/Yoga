@@ -6,120 +6,128 @@
 > mohenānuśayā eva rūpārūpye bhavāsravaḥ || 5.35 ||
 
 > In the Desire Realm, afflictions together with paryavasthānas, apart from
-> ignorance, constitute the desire āsrava. In the form and formless realms,
+> ignorance, constitute the desire āsrava. In the Form and Formless Realms,
 > only the anuśayas, again apart from ignorance, constitute the existence
 > āsrava.
 
 ## 2. Continuous Sanskrit
 
 ```iast
-eta evānuśayāḥ sūtre bhagavatā traya āsravā uktāḥ:
-kāmasravo bhavāsravo 'vidyāsrava iti. catvāra oghāḥ:
-kāmaugho bhavaugho dṛṣṭyobho 'vidyaughaś ca.
-catvāro yogā eta eva. catvāry upādānāni:
-kāmopādānaṃ dṛṣṭyupādānaṃ śīlavṛtopādānam
-ātmavādopādānam iti. tatra tāvat:
-
-    kāme saparyavasthānāḥ kleśāḥ kāmāsravo vinā
-    mohena.
-
-avidyāṃ varjayitvā 'nye kāmāvacarāḥ kleśāḥ saha
-paryavasthānaiḥ kāmāsravo veditavya ekacatvāriṃśad
-dravyāṇi: ekatriṃśad anuśayāḥ pañcaprakārām avidyāṃ
-hitvā, daśa paryavasthānāni.
-
-    anuśayā eva rūpārūpye bhavāsravaḥ.
-
-vinā moheneti vartate. rūpārūpyāvacarā avidyāvarjyā
-anuśayā bhavāsravo dvāpañcāśad dravyāṇi:
-rūpāvacarāḥ ṣaḍviṃśatir anuśayāḥ pañcaprakārām
-avidyāṃ hitvā, ārūpyāvacarāḥ ṣaḍviṃśatiḥ.
-nanu ca tatrāpy asti paryavasthānadvayaṃ styānam
-auddhatyaṃ ca? prakaraṇeṣu coktaṃ: "bhavāsravaḥ
-katamaḥ? avidyāṃ sthāpayitvā yāni tadanyāni
-rūpārūpyapratisaṃyuktāni
-saṃyojanabandhanānuśayopakleśaparyavasthānānī"ti.
-kasmād iha tasyāgrahaṇam? asvātantryād iti kāśmīrāḥ.
+eta evānuśayāḥ sūtre bhagavatā traya āsravā uktāḥ kāmasravo bhavāsravo 'vidyāsrava iti /
+catvāra oghāḥ kāmaugho bhavaugho dṛṣṭyobho 'vidyaughaśca /
+catvāro yogā eta eva /
+catvāryupādānāni kāmopādānaṃ dṛṣṭyupādānaṃ śīlavṛtopādānamātmavādopādānamiti /
+tatra tāvat
+kāme saparyavasthānāḥ kleśāḥ kāmāsravo vinā /
+mohena
+avidyāṃ varjayitvā 'nye kāmāvacarāḥ kleśāḥ saha paryavasthānaiḥ kāmāsravo veditavya ekacatvāriṃśaddravyāṇi /
+ekatriṃśadanuśayāḥ pañcaprakārāmavidyāṃ hitvā daśa paryavasthānāni /
+anuśayā eva rūpārūpye bhavāsravaḥ //
+vinā moheneti vartate /
+rūpārūpyāvacarā avidyāvarjyā anuśayā bhavāsravo dvāpañcāśaddravyāṇi /
+rūpāvacarāḥ ṣaḍviṃśatiranuśayāḥ pañcaprakārāmavidyāṃ hitvā /
+ārūpyāvacarāḥ ṣaḍviṃśatiḥ /
+nanu ca tatrāpyasti paryavasthānadvayaṃ styānamauddhatyaṃ ca /
+prakaraṇeṣu coktaṃ "bhavāsravaḥ katamaḥ /
+avidyāṃ sthāpayitvā yāni tadanyāni rūpārūpyapratisaṃyuktāni /
+saṃyojanabandhanānuśayopakleśaparyavasthānānī"ti /
+kasmā diha tasyāgrahaṇam /
+asvātantryāditi kāśmīrāḥ /
 ```
 
-The unit runs from [306|02–17] in
-`Vasubandhu/Sources/kosabhasya.txt`. The question at
-[306|18] opens 5.36's explanation of why the two higher
-domains are grouped. The verse is distributed among the
-prose. Spacing and punctuation are editorial. The running
-source's `dṛṣṭyobho` is retained and remains uncertain.
+The complete unit is [306|02–17] in
+`Vasubandhu/Sources/kosabhasya.txt`; [306|18] opens
+5.36's question about grouping the two higher domains.
+The two verse halves are distributed through the prose.
+The Sanskrit block retains the running witness's wording
+and slash punctuation, with only page labels and the
+Kārikā tag removed. `Dṛṣṭyobho` in the four-flood list
+and the separated `kasmā diha` remain as transmitted;
+context supports “flood of views” and “why here,”
+respectively, without a silent Sanskrit emendation.
 
 ## 3. Continuous Translation
 
-The same anuśayas are taught in sūtra as three āsravas:
-desire, existence, and ignorance; as four floods: desire,
-existence, views, and ignorance; as four yokes with the
-same names; and as four appropriations: of desire, views,
-discipline and observance, and a doctrine of self.
+In the sūtra, the Blessed One taught these very anuśayas as
+three āsravas: desire āsrava, existence āsrava, and ignorance
+āsrava; as four floods: desire, existence, views, and ignorance;
+and as four yokes of those same kinds. There are also four
+appropriations: appropriation of desire, of views, of discipline
+and observance, and of a doctrine of self. First, the verse says:
+“In the Desire Realm, afflictions together with envelopments
+constitute the desire āsrava, apart from ignorance.”
 
-First, in the Desire Realm the afflictions together with
-the paryavasthānas, excluding ignorance, constitute the
-desire āsrava. There are forty-one counted factors:
-thirty-one anuśayas after excluding the five modes of
-ignorance, and ten paryavasthānas.
+Excluding ignorance, the other Desire Realm afflictions together
+with the envelopments are to be understood as the desire āsrava:
+forty-one counted items. These are thirty-one anuśayas after
+excluding the five kinds of ignorance, plus ten envelopments.
 
-In the form and formless domains, only the anuśayas,
-again excluding ignorance, constitute the existence āsrava.
-There are fifty-two factors: twenty-six in the form domain
-and twenty-six in the formless domain. But are torpor and
-restlessness not also present there as two paryavasthānas?
-And does the *Prakaraṇa* not include higher-domain
-paryavasthānas among the existence āsrava's factors?
-Why are they omitted here? The Kāśmīra teachers answer:
-because they lack independence.
+“Only the anuśayas in the Form and Formless Realms constitute
+the existence āsrava.” The phrase “apart from ignorance” carries
+forward. The Form and Formless Realm anuśayas, excluding
+ignorance, make up the existence āsrava: fifty-two counted
+items. There are twenty-six Form Realm anuśayas after
+excluding the five kinds of ignorance, and twenty-six
+Formless Realm anuśayas.
+
+But are there not also two envelopments there, torpor and
+restlessness? And in the *Prakaraṇa* texts it is said:
+“What is the existence āsrava? Apart from ignorance, it is
+those other fetters, bonds, anuśayas, secondary afflictions,
+and envelopments connected with the Form and Formless Realms.”
+Why are those [envelopments] not included here? The Kāśmīra
+teachers say: because they lack independence.
 
 ## 4. Argument and Doctrinal Determination
 
-The opening says `eta eva anuśayāḥ`: a previously analyzed
-afflictive field is being reorganized under several
-canonical headings. The classifications have different
-membership rules. The desire āsrava counts paryavasthānas
-along with non-ignorance afflictions; the existence āsrava
-counts only non-ignorance anuśayas. Ignorance is excluded
-from both because it receives its own category.
+The opening reorganizes an already analyzed afflictive field
+under three āsravas, four floods, four yokes, and four
+appropriations. The present verse defines only the first two
+āsravas. The desire āsrava includes non-ignorance afflictions
+and ten envelopments in the Desire Realm. The existence āsrava
+counts only non-ignorance anuśayas of the two higher realms.
+Ignorance is separately named in the opening list; its own
+count and reason for separate status belong to 5.36.
 
-The arithmetic is exact: in the Desire Realm, 36 anuśayas
-minus five modes of ignorance gives 31, plus ten
-paryavasthānas gives 41. Each higher domain has 31
-anuśayas; removing its five ignorance modes leaves 26,
-so the two domains give 52. The objection about higher
-torpor and restlessness shows that “not counted here”
-does not mean “absent there.” The Kāśmīra reply appeals
-to their lack of independence; that is an attributed
-classificatory reason, not a general denial of their
-occurrence.
-
-The reason for combining the higher domains under one
-existence āsrava is taken up in 5.36.
+The arithmetic is explicit: thirty-one Desire Realm anuśayas
+plus ten envelopments give forty-one; twenty-six anuśayas
+in each higher realm give fifty-two. The objection quotes a
+broader *Prakaraṇa* definition that includes envelopments
+connected with the higher realms. The preceding question
+specifically names torpor and restlessness. The Kāśmīra
+answer explains their exclusion from the present count by
+lack of independence.
+The text does not specify a fuller test of independence here,
+and exclusion from this count does not deny their occurrence.
 
 ## 5. Translation and Interpretation
 
 **Translation decisions.** `Āsrava` remains transliterated
-in the main study because “influx” and “outflow” each
-emphasize only part of its later doctrinal use. `Eva`
+in the preferred verse translation. `Paryavasthāna` is
+“envelopment” in the continuous translation. `Eva`
 restricts the higher-domain count to anuśayas in this
-enumeration. `Asvātantryāt` is the Kāśmīra reason for
-omitting the two paryavasthānas, not a claim that they do
-not occur. The source's `dṛṣṭyobho` in the opening list
-is left visible.
+enumeration. The verse uses `kleśāḥ` for the Desire Realm
+class, while the prose gives its count as thirty-one
+anuśayas plus ten envelopments. `Asvātantryāt` is the
+Kāśmīra reason for omitting the two higher-domain
+envelopments from this enumeration, not a denial that they
+occur. The working `dṛṣṭyobho` and `kasmā diha` remain
+visible in the Sanskrit block.
 
-**Organon reconstruction.** One field of affliction can
-be classified by domain, by kind of adherence, and now
-by the particular āsrava to which a factor contributes.
-The explanatory work lies in the rule for membership,
-including why a factor present in a domain is or is not
-counted independently. This is a project-level use of
-the Kośa's classifications, separate from the Kāśmīra
-position and from any implemented system.
+**Organon reconstruction.** A factor's presence in a realm
+and its separate membership in a given classification are
+different determinations. This allows one field to be
+classified under distinct āsrava, flood, yoke, and
+appropriation predicates. The present unit establishes the
+first two āsrava counts; the grounds for grouping the
+higher realms and separating ignorance await 5.36.
 
 ## 6. Review Status
 
-Provisional. The complete 5.35 explanation and its
-boundary with 5.36 were checked against the running IAST
-source. The transmitted `dṛṣṭyobho` remains for later
-textual reliability review.
+The full [306|02–17] natural unit was compared with the
+running IAST source. Its continuous Sanskrit matches after
+page labels and the Kārikā tag are removed. The translation
+covers the opening lists, both counts, the complete quoted
+*Prakaraṇa* objection, and the attributed Kāśmīra reply.
+The working forms `dṛṣṭyobho` and `kasmā diha` remain
+marked. The next unit begins at [306|18].

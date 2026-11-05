@@ -14,47 +14,37 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    tato 'ntagrahaṇaṃ.
-
-satkāyadṛṣṭer antagrāhadṛṣṭiḥ pravartate,
-ātmanaḥ śāśvatocchedāntagrahaṇāt.
-
-    tasmāc chīlāmarśaḥ.
-
-antagrahāc chīlavrataparāmarśaḥ. yam evāntaṃ gṛhṇāti
-tena śuddhipratyāgamanāt.
-
-    tato dṛśaḥ.
-
-āmarśa iti vartate. śīlavrataparāmarśād
-dṛṣṭiparāmarśaḥ pravartate, yena śuddhiṃ pratyeti
-tasyāgrato grahaṇāt. tato
-
-    rāgaḥ svadṛṣṭau mānaś ca.
-
-tasyām abhiṣvaṅgāt tayā connatigamanāt.
-
-    dveṣo 'nyatra.
-
-svadṛṣṭyadhyavasitasya tatpratyanīkabhūtāyāṃ
-paradṛṣṭau dveṣaḥ pravartate. apare svadṛṣṭāv
-evānyatra gṛhīte tyaktāyāṃ dveṣam icchanti
-darśanaheyānāṃ rāgādīnāṃ
-svāsāntānikadṛṣṭyālambanatvāt.
-
-    ity anukramaḥ.
-
-eṣa eṣāṃ daśānāṃ kleśānāṃ pravṛttikramaḥ.
+tato 'ntagrahaṇaṃ
+satkāyadṛṣṭerantagrāhadṛṣṭiḥ pravartate /
+ātmanaḥ śāśvatocchedāntagrahaṇāt /
+tasmācchhīlāmarśaḥ
+antagrahācchīlavrataparāmarśaḥ /
+yamevāntaṃ gṛhṇāti tena śuddhipratyāgamanāt /
+tato dṛśaḥ /
+āmarśa iti vartate /
+śīlavrataparāmarśāddṛṣṭiparāmarśaḥ pravartate /
+yena śuddhiṃ pratyeti tasyāgrato grahaṇāt /
+tato /
+rāgaḥ svadṛṣṭau mānaśca
+tasyāmabhiṣvaṅgāt tayā connatigamanāt /
+dveṣo 'nyatra
+svadṛṣṭyadhyavasitasya tatpratyanīkabhūtāyāṃ paradṛṣṭau dveṣaḥ pravartate /
+apare svadṛṣṭāvevānyatra gṛhīte tyaktāyāṃ dveṣamicchanti darśanaheyānāṃ rāgādīnāṃ svāsāntānikadṛṣṭyālambanatvāt /
+ityanukramaḥ //
+eṣa eṣāṃ daśānāṃ kleśānāṃ pravṛttikramaḥ /
 ```
 
 The unit is [304|22–305|15] in
 `Vasubandhu/Sources/kosabhasya.txt`; [305|16] begins the
 next explanation of the conditions for a kleśa's arising.
-The verse is distributed through the prose. Spacing,
-punctuation, and division of the continuous IAST are
-editorial. The alternative explanation beginning `apare`
-has compressed syntax, so its precise referent remains
-provisional.
+The verse is distributed through the prose. The Sanskrit
+block retains the running witness's wording and slash
+punctuation, with only page labels, the Kārikā tag, and
+blank lines removed. The `apare` sentence has compressed
+syntax; [Xuanzang's Chinese Kośa](https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra12/T29n1558.pdf)
+supports adopting and rejecting views in one's own
+continuum, without settling the
+exact Sanskrit construction.
 
 ## 3. Continuous Translation
 
@@ -73,12 +63,13 @@ to it, conceit through being elevated by it.
 
 “Hostility elsewhere.” A person settled in their own view
 becomes hostile to an opposed view. Others instead locate
-the hostility with respect to one's own view when it has
-been taken in another way and then abandoned [the syntax
-is compressed]. Their reason is that attachment and related
-afflictions abandoned through seeing take a view within
-one's own continuum as object. “Such is the sequence”:
-this is the order of operation of the ten afflictions.
+hostility among views in one's own continuum: when one view
+is adopted and another rejected, hostility is directed at
+the rejected view [the Sanskrit syntax is compressed]. Their
+reason is that attachment and related afflictions abandoned
+through seeing take a view within one's own continuum as
+Support. “Such is the sequence”: this is the order of
+operation of the ten afflictions.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -88,17 +79,19 @@ whose fate is then grasped under the alternatives of
 permanence and annihilation. The chosen extreme is made
 into a claimed means of purification. That means or view
 is then elevated as supreme. At this point a view has become
-an object of `rāga` and a ground for `māna`; opposition
-to it becomes an object of `dveṣa`.
+Support for `rāga` and a ground for `māna`; an opposed view
+becomes Support for `dveṣa` in the principal explanation.
 
 The main explanation of `anyatra` points to a rival or
-opposed view. The `apare` explanation brings the object
+opposed view. The `apare` explanation brings the Support
 back into one's own continuum, on the technical ground
 that seeing-abandonable attachment and related afflictions
-take such a view as their object. The two construals should
-not be collapsed into a single claim about hostility toward
-other people. The source locates the relation at the level
-of views and their object range.
+take such a view as Support. The Chinese parallel specifies
+adopting one own view and rejecting another; the
+Sanskrit's compact locatives leave that detail provisional.
+The two construals should not be collapsed into a single
+claim about hostility toward other people. The source
+locates the relation at the level of views taken as Supports.
 
 The final `pravṛttikrama` calls this an order of operation
 of the ten kleśas. It is a reported doctrinal sequence,
@@ -114,7 +107,9 @@ word `āmarśa` after `tato dṛśaḥ`, yielding
 `dṛṣṭiparāmarśa`. `Abhiṣvaṅga` grounds attachment,
 while `unnatigamana` grounds conceit. The scope of
 `anyatra` is contested by the unnamed `apare` and
-remains visibly plural in the translation.
+remains visibly plural in the translation. The alternative
+sets an adopted view against another rejected view within
+one's own continuum.
 
 **Organon reconstruction.** The sequence shows how an
 unexamined self-determination can generate a view about
@@ -127,7 +122,9 @@ an attribution of our framework to Vasubandhu.
 
 ## 6. Review Status
 
-Provisional. The full distributed verse and closing prose
-were checked against the running IAST source. The `apare`
-sentence needs special attention in the later textual
-reliability pass.
+The full [304|22–305|15] natural unit was compared with the
+running IAST source. The continuous Sanskrit matches after
+page labels and the Kārikā tag are removed; the translation
+covers both explanations of `anyatra` and the closing
+`pravṛttikrama`. The compact `apare` locatives remain a
+textual caution. The next unit begins at [305|16].

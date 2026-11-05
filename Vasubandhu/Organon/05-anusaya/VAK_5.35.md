@@ -14,9 +14,8 @@ kāme saparyavasthānāḥ kleśāḥ kāmāsravo vinā |
 mohenānuśayā eva rūpārūpye bhavāsravaḥ || 5.35 ||
 ```
 
-After VAK 5.34 explains the manifestation of a particular kleśa, VAK 5.35
-reclassifies the afflictive field according to the sustained currents called
-`āsravas`.
+After VAK 5.34 explains the arising of a particular kleśa, VAK 5.35
+reclassifies the afflictive field under the first two `āsravas`.
 
 ## 3. Lexical Analysis
 
@@ -28,11 +27,12 @@ reclassifies the afflictive field according to the sustained currents called
 | `kāma-āsravaḥ` | nominative singular masculine | the influx of desire |
 | `vinā mohena` | indeclinable governing instrumental | apart from delusion or ignorance |
 | `anuśayāḥ eva` | nominative plural with restrictive particle | the anuśayas alone |
-| `rūpa-arūpye` | locative dual | in the form- and Formless Realms |
+| `rūpa-arūpye` | locative dual | in the Form and Formless Realms |
 | `bhava-āsravaḥ` | nominative singular masculine | the influx of existence |
 
 The singular collective predicates `kāmāsravaḥ` and `bhavāsravaḥ` gather
 plural afflictive factors under new functional classifications.
+
 ## 4. Grammar
 
 **Desire-influx**
@@ -44,8 +44,8 @@ vinā mohena
     kāma-āsravaḥ [veditavyaḥ]
 ```
 
-The locative fixes the realm; `sa-paryavasthānāḥ` includes the enveloping or
-manifest secondary afflictions; and `vinā mohena` excludes ignorance for
+The locative fixes the realm; `sa-paryavasthānāḥ` includes the
+envelopments; and `vinā mohena` excludes ignorance for
 separate classification. The Bhāṣya supplies “is to be understood as.”
 
 **Existence-influx**
@@ -66,28 +66,29 @@ paryavasthānas occur in the higher realms.
 ### Literal Translation
 
 > In the Desire Realm, the afflictions together with the paryavasthānas,
-> apart from delusion, are the desire-influx. In the form- and Formless Realms,
+> apart from delusion, are the desire-influx. In the Form and Formless Realms,
 > the anuśayas alone, [again apart from delusion], are the existence-influx.
 
 ### Bhāṣya-informed study translation
 
 > In the Desire Realm, afflictions together with paryavasthānas, apart from
-> ignorance, constitute the desire āsrava. In the form and formless realms,
+> ignorance, constitute the desire āsrava. In the Form and Formless Realms,
 > only the anuśayas, again apart from ignorance, constitute the existence
 > āsrava.
 
 ## 6. Philosophical Translation
 
-> The afflictive event of VAK 5.34 belongs to a larger continuity. Recurrent
-> dispositions and manifestations are gathered according to the current by
-> which they sustain a realm of conditioned existence. Desire-influx includes
-> the more manifest envelopments of desire-life; existence-influx gathers the
-> non-ignorance tendencies of the concentrated higher realms under one
-> functionally unified stream. Ignorance is withheld because its operation
-> traverses the three realms and will constitute a current of its own.
+> The first two āsravas classify afflictive factors by realm and by what the
+> present enumeration counts. The Desire Realm total includes ten envelopments;
+> the higher-realm total counts only non-ignorance anuśayas. The objection about
+> torpor and restlessness makes presence in a realm distinct from separate
+> membership in this count. The Kāśmīra reply names lack of independence as
+> the reason for that exclusion, leaving its fuller criterion unstated here.
 
-The classifications do not manufacture new dharmas. They redescribe one
-determinate afflictive field according to different practical functions.
+This classification gives the individual-path inquiry a precise inventory of
+what is counted. It does not by itself describe an individual's course of
+affliction or the reason the two higher realms form one āsrava; the latter
+question opens in 5.36.
 
 ## 7. Technical Vocabulary
 
@@ -103,10 +104,10 @@ paryavasthānas: forty-one counted items.
 
 **`Bhavāsrava` — existence-influx**
 
-The non-ignorance anuśayas of the form- and Formless Realms combined: fifty-
+The non-ignorance anuśayas of the Form and Formless Realms combined: fifty-
 two counted items.
 
-**`Paryavasthāna` — afflictive envelopment or manifest domination**
+**`Paryavasthāna` — afflictive envelopment**
 
 Included independently in desire-influx. Torpor and restlessness occur in the
 higher realms, but the Kāśmīra reply excludes them as separate members of this
@@ -114,9 +115,9 @@ enumeration because of `asvātantrya`.
 
 **`Asvātantrya` — lack of independence**
 
-A classificatory, not existential, exclusion. A factor may occur in a realm
-without possessing the independent functional standing required to be counted
-as a separate member of the present total.
+A reason attributed to the Kāśmīra teachers for excluding the two named
+higher-realm envelopments from this count. The present unit does not define
+a general criterion of independence.
 
 **`Dravya` — counted factor**
 
@@ -126,9 +127,8 @@ whether they are counted independently here.
 
 **Alternative functional classifications**
 
-The Bhāṣya says that the same anuśayas are also taught as four floods
-(`ogha`), four yokes (`yoga`), and four appropriations (`upādāna`). These are
-distinct classificatory views upon the analyzed field.
+The Bhāṣya also lists four floods (`ogha`), four yokes (`yoga`), and four
+appropriations (`upādāna`). Their detailed membership is treated later.
 
 ## 8. Logical Determination
 
@@ -163,43 +163,29 @@ Thus:
 new valid classification
     ≠ new entity
 
-one dharma-field
-    → multiple functionally determined Views
+one afflictive field
+    → multiple named classifications
 ```
 
 ## 9. Interpretive Note
 
-**Source determination.** The Bhāṣya begins from “these same anuśayas” and
-projects them into several canonical arrangements: influxes, floods, yokes,
-and appropriations. VAK 5.35 defines the first two influxes. Their membership
-is exact, numerically accountable, and governed by functional independence.
+**Source determination.** The Bhāṣya begins with “these very anuśayas” and
+lists three āsravas, four floods, four yokes, and four appropriations. It then
+gives exact memberships for desire and existence āsrava: thirty-one plus ten
+and twenty-six plus twenty-six. The *Prakaraṇa* objection names additional
+higher-realm envelopments, and the Kāśmīra answer excludes them from the
+present count because they lack independence.
 
-**From event to stream.** VAK 5.34 produced a manifest kleśa from cause,
-object, and application. VAK 5.35 now shows how determinate afflictive factors
-belong to currents that sustain modes of conditioned existence:
+**Organon determination.** Occurrence, domain, and counted membership must be
+represented separately. A factor can occur in a realm and still be omitted
+from a particular total. This is a project-level reading of the objection and
+reply, not a general criterion for independence supplied by the source.
 
-```text
-event-producing causal circuit
-    → recurrence and mutual reinforcement
-        → realm-sustaining āsrava
-```
-
-The stream is not a second substance above its members. It is their organized
-continuity under a common function.
-
-**The karmically determinate living continuum.** In the project's Yoga–Organon
-reconstruction, the `jīva` with non-zero karma-vipāka is the transactional
-continuum through which these currents have concrete existence. The jīva does
-not stand outside the impure dharma-field as a finished subject; its present
-life is the Product in which prior karma, latent anuśaya, objective occasion,
-and cognitive operation continue to meet.
-
-**The direction of the Path.** The movement from avidyā to vidyā must transform
-not only isolated kleśa-events but the recurrent organization that makes them
-a stream. The Path therefore carries the conditioned afflictions into knowledge
-by determining their realms, relations, grounds, manifestations, and modes of
-aggregation. What was blindly reproduced as āsrava becomes objectively
-comprehended as a system—and thereby available for cessation.
+**The individual path.** These counts constrain any later account of how
+an individual's afflictions operate: a claim about a given factor must say
+which realm and which classification it concerns. This unit establishes the
+inventory; 5.36 asks why the two higher realms are combined and why ignorance
+is separately classified.
 
 ## 10. OWL++ Seed
 
@@ -222,10 +208,6 @@ ObjectProperty: memberOfInflux
     Domain: AfflictiveFactor
     Range: Asrava
 
-ObjectProperty: sharesFunctionalCharacterWith
-    Domain: AfflictiveFactor
-    Range: AfflictiveFactor
-
 DataProperty: isIgnorance
     Domain: AfflictiveFactor
     Range: Boolean
@@ -247,8 +229,8 @@ Constraint: occursInRealm(?x, ?d)
     doesNotEntail hasIndependentMembership(?x, ?classification)
 
 View: AsravaClassification
-    Projects: UnderlyingAnusayaField
-    Preserves: FactorIdentity, realm, FunctionalGround, Provenance
+    Projects: UnderlyingAfflictiveField
+    Preserves: FactorIdentity, realm, Provenance
 ```
 
 The seed treats `āsrava` as a functionally grounded view of the same afflictive

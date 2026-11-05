@@ -34,8 +34,8 @@ distinctive sharpness.
 | `āsya-anukūlatā` | nominative singular feminine | suitability for the operation of making settle or remain |
 
 
-The transmitted continuous form `asyānukūlatā` is interpreted through the
-Bhāṣya's `āsyānukūlāḥ` and its promised derivation `āsayantīty āsravāṇām`.
+The transmitted continuous form `kilāsyānukūlatā` is interpreted through the
+Bhāṣya's `āsyānukūlāḥ` and its promised derivation `āsayantītyāsravāṇāṃ`.
 The second half therefore depends upon the Bhāṣya for both segmentation and
 the exact force of the elliptical construction.
 
@@ -63,7 +63,7 @@ asahāyānām [dṛṣṭīnām]
 ```
 
 The predicate and the reference to views are supplied from the first half.
-The Bhāṣya glosses `asahāyānām` with `kevalā dṛṣṭayaḥ`: views considered alone
+The Bhāṣya glosses `asahāyānām` with `kevalā dṛṣṭya`: views considered alone
 or without accompanying afflictions. It explains that, precisely because of
 their sharpness, views alone are not suited to the `āsya`-operation associated
 with an influx. They remain members of the influxes, but are included there in
@@ -88,15 +88,12 @@ influx.
 
 ## 6. Philosophical Translation
 
-> One afflictive field admits different rational partitions because the
-> operation under consideration changes. The sharpness of views gives them
-> independent force as that which overwhelms and that which binds; hence a
-> separate view-flood and view-yoke. Yet the same sharpness prevents views,
-> when isolated, from independently performing the gradual settling function
-> attributed to an influx. There they operate only in conjunction with other
-> afflictions. A determination is therefore neither universally separate nor
-> universally merged: its classificatory position follows the specific
-> relation in which its power is exercised.
+> One afflictive field admits different partitions. Because views are sharp,
+> the Bhāṣya counts them separately among floods and yokes. Because views
+> alone are said to be unsuited to the settling associated with an āsrava,
+> it counts them there in mixture. This is a difference in classification,
+> not a change in the views themselves. The fuller derivation of āsrava is
+> deferred by the Bhāṣya.
 
 The verse does not introduce new dharmas. It reorganizes the same members by
 their distinct modes of efficacy.
@@ -105,14 +102,14 @@ their distinct modes of efficacy.
 
 **`Ogha` — flood**
 
-A functional classification of afflictions according to their overwhelming
-or carrying-away power. The Bhāṣya recognizes desire-, existence-, view-, and
-ignorance-floods.
+A fourfold classification of afflictions into desire-, existence-, view-, and
+ignorance-floods. This unit gives their membership and counts; it does not
+explain the name's functional force.
 
 **`Yoga` — yoke or bond**
 
-A functional classification according to binding or fastening power. Its
-fourfold membership is identical to that of the floods.
+A fourfold classification with the same membership and counts as the floods.
+This unit does not explain the name's functional force.
 
 **`Dṛṣṭi` — view**
 
@@ -122,9 +119,9 @@ yokes, but not among influxes.
 
 **`Pāṭava` / `paṭutva` — sharpness or acuteness**
 
-The property that grounds both classificatory consequences. It makes views
-independently effective in flooding and binding, but ill-suited by themselves
-to the settling operation assigned to influx.
+The property cited for both classificatory consequences: separate counting
+among floods and yokes, and the reported unsuitability of unaided views to
+settling as an independent āsrava class.
 
 **`Asahāya` / `kevala` — unaided or alone**
 
@@ -133,15 +130,14 @@ views are not excluded from influxes, but denied independent influx-status.
 
 **`Āsya-anukūlatā` — suitability to making settle or remain**
 
-The criterion invoked for independent influx-status. The Bhāṣya derives the
-name `āsrava` through `āsayanti`, “they cause to settle or remain,” but says
-that the full derivation will be explained later.
+The criterion invoked for independent āsrava status. The Bhāṣya invokes
+`āsayanti`, “they cause to settle or remain,” but says the derivation will
+be explained later. The rendering remains provisional.
 
 **`Miśrīkṛtya sthāpita` — established in mixture**
 
-The Bhāṣya's description of how views occur within the influx classification:
-they are included jointly with other afflictions, not erected as a separate
-fifth influx.
+The Bhāṣya's description of how views are placed within the āsrava
+classification: in mixture rather than as a separate class.
 
 **Fourfold numerical partition**
 
@@ -158,22 +154,15 @@ twenty instances of craving and conceit and eight doubts.
 
 ## 8. Logical Determination
 
-The same factor can receive different membership predicates under different
-operative relations:
+The Bhāṣya gives different counting rules for the same views:
 
 ```text
 Sharp(View)
-AND Operation = Overwhelming
     → IndependentlyClassify(View, ViewFlood)
-
-Sharp(View)
-AND Operation = Binding
     → IndependentlyClassify(View, ViewYoke)
 
-Sharp(View)
-AND Operation = Settling
-AND Unaccompanied(View)
-    → NOT IndependentlyClassify(View, ViewInflux)
+Sharp(View) AND Unaccompanied(View)
+    → NOT IndependentlyClassify(View, ViewĀsrava)
 ```
 
 The last rule does not entail exclusion:
@@ -182,22 +171,21 @@ The last rule does not entail exclusion:
 NOT IndependentInfluxClass(View)
     ≠ NOT MemberOfInflux(View)
 
-View(x)
-AND AccompaniedByOtherAfflictions(x)
-    → IncludedInMixture(x, DomainInflux)
+View(x) AND MemberOfĀsrava(x)
+    → ClassifiedInMixture(x, DomainĀsrava)
 ```
 
-Thus one property has opposed classificatory consequences relative to two
-different functions:
+The stated reasons and the resulting classes must be recorded together:
 
 ```text
-ClassificatoryForce(Property)
-    is determined by
-Relation(Property, Operation)
+Separate(View, FloodOrYoke)  because Sharp(View)
+Mixed(View, Āsrava)           because Unaided(View) is said to be
+                            unsuitable to settling
 ```
 
-The taxonomy is neither a flat list nor an arbitrary relabeling. Each View of
-the afflictive field is generated by a stated functional rationale.
+The second reason is reportative (`kila`), and the Bhāṣya defers the complete
+derivation of āsrava. This model records the argument given here without
+supplying a theory of how floods or yokes operate.
 
 ## 9. Interpretive Note
 
@@ -207,28 +195,25 @@ It then establishes the thirty-six views as their own flood and yoke. In the
 influx taxonomy, those same views are mixed with other afflictions because
 they do not independently meet the operative criterion.
 
-**One ground, opposed results.** `Pāṭava` cannot be read as an isolated quality
-with a fixed taxonomic consequence:
+**One ground, different placements.** `Pāṭava` has different stated
+consequences in these classifications:
 
 ```text
-sharpness relative to overwhelming and binding
-    → separation
+sharpness in flood and yoke counting
+    → separate view class
 
-sharpness relative to settling and sustaining
-    → non-separation
+sharpness of unaided views under the reported āsrava criterion
+    → placement in mixture
 ```
 
-Meaning emerges from the complete relation among factor, power, operation,
-and classificatory purpose. The same view is not changed into another entity
-when the taxonomy changes; what changes is the determination under which its
-efficacy is judged.
+The same view is not changed into another entity when the taxonomy changes;
+its classificatory relation changes. This is an Organon determination drawn
+from the Bhāṣya's stated reasons.
 
-**From doctrinal view to practical architecture.** VAK 5.32–5.33 showed views
-arising within a genetic afflictive sequence and then helping to organize
-attachment, conceit, and hostility. VAK 5.37 now measures their functional
-scope. A view can independently seize and fasten the continuum because it
-organizes the field under an explicit determination, while its contribution
-to the domain-sustaining current remains conjunctive.
+**From doctrinal view to practical architecture.** VAK 5.37 supplies a
+distinct counting relation for views across the three classes. The passage
+does not establish that a view independently seizes or fastens a continuum;
+those possible functions require their own source argument.
 
 **Organon interpretation.** A relation-sensitive Dataset must therefore
 preserve factor identity while permitting multiple typed Views:
@@ -240,11 +225,12 @@ one AfflictiveFactor record
     → membership in a Yoga View
 
 each membership
-    → retains its own operation and rationale
+    → retains its source count and stated rationale
 ```
 
-The system must not infer identical meaning from identical extension, nor
-multiply entities merely because a valid functional partition has changed.
+The system should preserve the factor's identity and its separate
+classification records. The flood and yoke names remain distinct even though
+the memberships and counts given here coincide.
 
 ## 10. OWL++ Seed
 
@@ -276,42 +262,34 @@ ObjectProperty: accompaniedBy
 DataProperty: hasSharpness
     Domain: AfflictiveFactor
 
-DataProperty: independentlyCounted
-    Domain: AfflictiveFactor
-    Range: Boolean
-
 Rule: View(?x)
     AND HighSharpness(?x)
-    -> classifiedAs(?x, ViewFlood)
-    AND classifiedAs(?x, ViewYoke)
+    -> independentlyClassifiedAs(?x, ViewFlood)
+    AND independentlyClassifiedAs(?x, ViewYoke)
 
 Rule: View(?x)
     AND HighSharpness(?x)
     AND Unaccompanied(?x)
-    -> independentlyCounted(?x, InfluxClassification, false)
+    -> notIndependentlyClassifiedAs(?x, ViewĀsrava)
 
-Rule: View(?x)
-    AND accompaniedBy(?x, ?affliction)
-    AND MemberOfDomainInflux(?affliction, ?influx)
-    -> classifiedAs(?x, ?influx)
-
-Constraint: independentlyCounted(?x, ?classification, false)
-    doesNotEntail NOT classifiedAs(?x, ?classification)
+Assertion: Views are classified in mixture within domain āsravas.
+Constraint: notIndependentlyClassifiedAs(?x, ViewĀsrava)
+    doesNotEntail NOT classifiedAs(?x, DomainĀsrava)
 
 View: FloodClassification
-    Reason: OverwhelmingFunction
-    Preserves: FactorIdentity, Domain, Provenance
+    Reason: ViewSharpness
+    Preserves: FactorIdentity, Domain, Count, Provenance
 
 View: YokeClassification
-    Reason: BindingFunction
-    Preserves: FactorIdentity, Domain, Provenance
+    Reason: ViewSharpness
+    Preserves: FactorIdentity, Domain, Count, Provenance
 
 View: InfluxClassification
-    Reason: SettlingAndSustainingFunction
-    Preserves: FactorIdentity, ConjunctiveMembership, Provenance
+    Reason: ReportedUnsuitabilityOfUnaidedViewsToSettling
+    Preserves: FactorIdentity, MixedMembership, Provenance
 ```
 
-The seed distinguishes membership from independent counting and makes the
-operative rationale part of each classification. It thereby preserves the
-verse's central determination: the same sharp view is separate under one
-relation and conjunctive under another.
+This is a project-level sketch, not executable OWL. It distinguishes
+membership from independent counting and records the reportative status of
+the āsrava reason. The same sharp view is separate under one classification
+and placed in mixture under another.

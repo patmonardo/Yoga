@@ -15,7 +15,7 @@ ata ekīkṛtāḥ mūlam avidyety āsravaḥ pṛthak || 5.36 ||
 ```
 
 VAK 5.36 gives the reasons for the classifications introduced in VAK 5.35:
-the two higher domains are unified by a threefold shared mode, while ignorance
+the two higher domains are unified by threefold similarity, while ignorance
 is separated because it is the root.
 
 ## 3. Lexical Analysis
@@ -36,7 +36,7 @@ is separated because it is the root.
 
 
 The first half predicates three common determinations of `te`; the second draws
-two opposed classificatory consequences: unification by similarity and
+two distinct classificatory consequences: unification by similarity and
 separation by roothood.
 
 ## 4. Grammar
@@ -51,7 +51,7 @@ te hi
 ataḥ ekīkṛtāḥ
 ```
 
-`Te` refers to the form- and Formless Realm anuśayas of VAK 5.35. The three
+`Te` refers to the Form and Formless Realm anuśayas of VAK 5.35. The three
 coordinated predicates give the reason introduced by `hi`; `ataḥ` then marks
 the conclusion that they are gathered into one `bhavāsrava`.
 
@@ -63,15 +63,16 @@ mūlam avidyā iti
 ```
 
 The relation is causal and classificatory: because ignorance is the root of
-the other afflictions, it is established as an influx apart. The Bhāṣya counts
-five ignorance-types across each of three domains, totaling fifteen items.
+the other afflictions, it is established as an influx apart. The Bhāṣya gives
+fifteen items across the three domains; read with the preceding counts, this
+is five kinds of ignorance per domain.
 
 **Textual caution**
 
-The working Bhāṣya e-text transmits `sādhamyerṇa` in its prose explanation;
-the intended sense is clearly “through threefold similarity or commonality.”
-The anomalous spelling remains a witness-level issue rather than being silently
-introduced into the kārikā.
+The working Bhāṣya e-text transmits `bhavāgra` in the opening question, and
+`ūbhaye` and `sādhamyerṇa` in the prose. Context supports “existence āsrava,”
+“both,” and “through threefold similarity,” respectively; the anomalous
+forms remain visible in the paired Bhāṣya study.
 
 ## 5. Translation
 
@@ -83,7 +84,7 @@ introduced into the kārikā.
 
 ### Bhāṣya-informed study translation
 
-> The form- and Formless Realm anuśayas are unified as one existence āsrava
+> The Form and Formless Realm anuśayas are unified as one existence āsrava
 > because they are ethically indeterminate, inward-directed, and situated on
 > concentrated planes. Ignorance, the root of all these afflictions, is
 > classified as a separate āsrava.
@@ -92,7 +93,8 @@ introduced into the kārikā.
 
 > Classification follows its explanatory ground. Under the determination of
 > operative mode, afflictions distributed across two distinct domains form one
-> current because their ethical status, direction, and cognitive plane agree.
+> current because their ethical status, direction, and belonging to
+> concentrated planes agree.
 > Under the determination of causal rank, ignorance must be separated from the
 > very afflictions among which it occurs, because it is their generative root.
 > Rational classification therefore both unifies and differentiates: identity
@@ -105,34 +107,33 @@ is the distinctness of its office within that field.
 
 **`Avyākṛta` — ethically indeterminate**
 
-One shared determination of form- and Formless Realm affliction. It does not
+One shared determination of Form and Formless Realm affliction. It does not
 mean causally inert or liberating.
 
 **`Antarmukha-pravṛtta` — inward-directed in operation**
 
-The Bhāṣya's expanded form of the kārikā's `antarmukha`. It distinguishes the
-operative direction of higher-domain affliction from coarse outward dispersion.
+The Bhāṣya's expanded form of the kārikā's `antarmukha`; it specifies
+inward-directed operation in both higher-domain groups.
 
 **`Samāhita-bhūmika` — belonging to concentrated planes**
 
-The common cognitive level upon which both groups of higher-domain anuśayas
-operate.
+Both groups belong to concentrated planes, without implying that their
+particular planes are identical.
 
-**`Trividha-sādharmya` — threefold similarity**
+**`Trividhena sādhamyerṇa` — through threefold similarity**
 
-The formal ground for synthesizing the two higher-domain groups as one
-existence-influx.
+The running form `sādhamyerṇa` is anomalous; the three listed properties
+ground the grouping of the higher-domain anuśayas.
 
 **`Ekīkṛta` — unified**
 
 Gathered under a single functional classification. This does not erase the
-distinction between the form- and Formless Realms.
+distinction between the Form and Formless Realms.
 
 **`Mūla` — root**
 
-The generative rank assigned to avidyā relative to the other afflictions. Here
-`mūla` is a causal role within the afflictive system, not the project's
-Transcendental or Absolute Ground.
+The root relation assigned to ignorance relative to the other afflictions.
+It is the stated reason for a separate ignorance āsrava.
 
 **`Avidyāsrava` — ignorance-influx**
 
@@ -150,8 +151,8 @@ For x in FormAnuśayas and y in FormlessAnuśayas:
 
 EthicalStatus(x) = EthicalStatus(y) = Avyākṛta
 Direction(x)     = Direction(y)     = Inward
-Plane(x)         = Plane(y)         = Concentrated
-    → BaseUnder(x, y, BhavaĀsrava)
+ConcentratedPlane(x) AND ConcentratedPlane(y)
+    → GroupUnder(x, y, BhavaĀsrava)
 ```
 
 Separation by generative priority:
@@ -184,46 +185,23 @@ from a stated Reason, and its validity depends upon preservation of that Reason.
 
 ## 9. Interpretive Note
 
-**Source determination.** The higher-domain anuśayas become one `bhavāsrava`
-through threefold functional similarity. Avidyā becomes a separate
-`avidyāsrava` because it is the root of the other afflictions. The Bhāṣya
-therefore grounds both synthesis and division rather than merely reporting
-traditional lists.
+**Source determination.** The Bhāṣya explains the single existence āsrava
+through the three shared traits of Form and Formless Realm anuśayas. It invokes
+the earlier naming of `bhavarāga` as a parallel. It then counts fifteen
+ignorance factors across the three domains and gives their root relation as
+the reason for a separate ignorance āsrava. The opening `bhavāgra` remains a
+witness uncertainty, not the translated class-name.
 
-**Avidyā as conditioned root.** Avidyā is not merely the first member of the
-genetic series in VAK 5.32. It is now recognized as the cross-domain root that
-allows the other afflictive currents to arise and persist. Yet it remains a
-conditioned, removable determination within the Path's field; roothood does not
-make it an Absolute substrate.
+**Organon determination.** A classification records its reason: similarity
+of ethical status, direction, and kind of plane groups the higher-domain
+anuśayas; root relation separates ignorance. These reasons define distinct
+predicates rather than a single undifferentiated membership relation.
 
-**The impure-dharma game.** The karmically determinate living continuum bears
-both levels:
-
-```text
-avidyā as reproductive root
-    → differentiated anuśaya and kleśa currents
-        → karma and experienced vipāka
-            → renewed field for the same root-operation
-```
-
-The Path from avidyā to vidyā must therefore distinguish the root from its
-conditioned products while bringing the whole generated field into cognition.
-The kleśas are “carried along” as determinate contents of the Path because
-their intelligible return to the root is what makes radical cessation possible.
-
-**Organon classification.** One underlying field can support multiple valid
-partitions only when every partition records its rationale:
-
-```text
-View: BhavaĀsrava
-Reason: threefold shared operational mode
-
-View: AvidyāĀsrava
-Reason: asymmetric generative roothood
-```
-
-Meaning lies neither in the isolated member nor in the class-name, but in the
-systematic ground by which the members are joined or separated.
+**Individual-path inquiry.** The inward-directed operation named here gives a
+source-based characteristic of the higher-domain anuśayas. It does not itself
+establish a three-power structure of cognition or identify this account with
+other philosophical triads. Those comparisons require separate textual
+arguments as the path analysis proceeds.
 
 ## 10. OWL++ Seed
 

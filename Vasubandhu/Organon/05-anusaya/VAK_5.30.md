@@ -14,7 +14,7 @@ svakādharatrayordhvaikāmalānāṃ rūpadhātujāḥ |
 ārūpyajāstridhātvāptatrayānāsravagocarāḥ || 5.30 ||
 ```
 
-The verse continues the condensed object-support matrix begun in VAK 5.29.
+The verse continues the condensed Support matrix begun in VAK 5.29.
 The same three abandonment-classes are retained while their realm is varied
 from the Form Realm to the Formless Realm.
 
@@ -23,17 +23,28 @@ from the Form Realm to the Formless Realm.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `svaka` | compound member | belonging to their own realm |
-| `adhara-traya` | compound member | the corresponding three consciousness classes of the lower realm |
-| `ūrdhva-eka` | compound member | one consciousness class of the higher realm |
-| `amalānām` | genitive plural | of the undefiled [consciousness classes] |
-| `rūpa-dhātu-jāḥ` | nominative plural compound | dharmas belonging to the Form Realm |
-| `ārūpya-jāḥ` | nominative plural compound | dharmas belonging to the Formless Realm |
-| `tri-dhātu-āpta-traya` | compound member | the corresponding three consciousness classes belonging to each of the three realms |
-| `anāsrava-gocarāḥ` | nominative plural compound | objects of undefiled consciousness |
+| `adhara-traya` | compound member | the corresponding three Consciousness classes of the lower realm |
+| `ūrdhva-eka` | compound member | one Consciousness class of the higher realm |
+| `amalānām` | genitive plural | of the undefiled [Consciousness classes] |
+| `rūpa-dhātu-jāḥ` | nominative plural compound | Dharmas belonging to the Form Realm |
+| `ārūpya-jāḥ` | nominative plural compound | Dharmas belonging to the Formless Realm |
+| `tri-dhātu-āpta-traya` | compound member | the corresponding three Consciousness classes belonging to each of the three realms |
+| `anāsrava-gocarāḥ` | nominative plural compound | within the range of Consciousness without influx |
 
 The Bhāṣya carries forward from VAK 5.29 the three classes abandoned by seeing
 suffering, seeing origination, and cultivation. They are not restated in the
 kārikā's second half.
+
+The running Bhāṣya verse has `svadādhara-` at [302|16],
+against this Kārikā study's `svakādhara-`. An
+[independent Kārikā e-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_vasubandhu-abhidharmakoza.htm)
+also reads `svakādhara-`; the Bhāṣya prose supports own,
+lower, and higher classes. The independent e-text reads
+`tridhātvātpatraya` in the second half against the local
+working `tridhātvāptatraya`. The prose's three classes in
+three domains resolves the count, not the exact compound
+spelling. The running verse also has `ārupya-` against
+`ārūpya-` in this study and in the following Bhāṣya prose.
 ## 4. Grammar
 
 **Form Realm dharmas**
@@ -47,9 +58,10 @@ rūpa-dhātu-jāḥ
 ```
 
 The governing `gocara` relation is compressed across the first half and made
-explicit at the end of the verse. The Bhāṣya expands the count: three consciousness classes
-of their own Form Realm, three of the lower Desire Realm, one cultivation-
-abandonable consciousness of the higher Formless Realm, and undefiled consciousness.
+explicit at the end of the verse. The Bhāṣya expands the count: three
+Consciousness classes of their own Form Realm, three of the lower Desire
+Realm, one Formless Realm Consciousness class to be abandoned through
+cultivation, and one without influx.
 
 **Formless Realm dharmas**
 
@@ -60,214 +72,196 @@ abandonable consciousness of the higher Formless Realm, and undefiled consciousn
 ```
 
 The Bhāṣya construes `tridhātvāptatraya` distributively: the corresponding
-three consciousness classes in each of the three realms. With undefiled consciousness, the
-total object-range is ten consciousness classes.
+three Consciousness classes in each of the three domains. With one class
+without influx, the total cognitive range has ten Consciousness classes.
 
 **Textual caution**
 
-The working Bhāṣya e-text transmits `svadā...` where the kārikā witness reads
-`svakā...`. Its prose explanation with `svadhātukānām`, `adharadhātukānām`,
-and `ūrdhvadhātukasya` confirms the intended own/lower/higher structure. The
-variant should remain open for a later textual-witness review.
+The working Bhāṣya e-text transmits `svadā...` where the independent Kārikā
+witness and this study read `svakā...`. Its prose explanation with
+`svadhātukānām`, `adharadhātukānām`, and `ūrdhvadhātukasya` confirms the
+own/lower/higher structure. The second-half `āpta` / `ātpa` spelling
+difference does not alter the prose's distribution.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Those belonging to the Form Realm are objects of their own three [consciousness classes],
-> the lower three, one higher [consciousness], and the undefiled [consciousness]. Those belonging
-> to the Formless Realm are objects of the corresponding three belonging to
-> the three realms and of undefiled [consciousness].
+> Those belonging to the Form Realm are within the range of their own
+> [three], the lower three, one higher, and the undefiled. Those born in the
+> Formless Realm are within the range of three belonging to the three domains
+> and of what is without influx.
 
 ### Bhāṣya-informed study translation
 
-> The three classes of Form Realm dharmas are objects for three corresponding
-> consciousness classes in their own realm, three in the lower realm, one consciousness
-> class of the higher realm abandoned through cultivation, and undefiled consciousness.
-> The same Formless Realm dharma classes are objects for the corresponding three
-> consciousness classes in each of the three realms and for undefiled consciousness.
+> The three Form Realm Dharma classes lie in the cognitive range of three
+> corresponding Form Realm Consciousness classes, three lower Desire Realm
+> classes, one higher Formless Realm class to be abandoned through cultivation,
+> and undefiled Consciousness. The corresponding three Formless Realm Dharma
+> classes lie in the range of three Consciousness classes in each of the three
+> domains and Consciousness without influx.
 
 ## 6. Philosophical Translation
 
-> Realm-membership determines where a dharma belongs, but not the complete
-> range of consciousness through which it can be presented. Form Realm dharmas may be
-> apprehended from below, within their own realm, from one specified standpoint
-> above, and by undefiled consciousness. Formless Realm dharmas are accessible to
-> the corresponding consciousness types in all three realms and to undefiled
-> consciousness. The hierarchy is therefore an ordered field of determinate access,
-> not a set of cognitively sealed compartments.
+> A Dharma's domain and the domain of a Consciousness taking it as Support
+> are distinct coordinates. The three specified Form Realm Dharma classes
+> are Supports for three own-domain, three lower-domain, one higher-domain,
+> and one Consciousness class without influx. Their Formless Realm
+> counterparts are Supports for three corresponding classes in each of the
+> three domains and one without influx. Access is determined by an ordered
+> relation, not by simple identity of domains.
 
-The Bhāṣya does not infer sameness of cognition from shared access. The
-differences of realm, abandonment-type, and purity remain constitutive of each
-object-relation.
+The Bhāṣya's counts do not make the admissible Consciousness classes
+identical or equally afflicted. Realm, abandonment class, and freedom from
+influx remain separate determinations.
 
 ## 7. Technical Vocabulary
 
 **`Rūpadhātujā` — belonging to the Form Realm**
 
-Here it qualifies the same three dharma-classes treated for the Desire Realm
-in VAK 5.29: those abandoned by seeing suffering, seeing origination, and
+Here it qualifies the three Dharma classes treated in 5.29 for the Desire
+Realm: those to be abandoned by seeing suffering, seeing origination, and
 cultivation.
 
 **`Ārūpyaja` — belonging to the Formless Realm**
 
-The corresponding three dharma-classes at the highest of the three conditioned
-realms.
+The corresponding three Dharma classes in the Formless Realm.
 
 **`Adhara` and `ūrdhva` — lower and higher**
 
-Relational realm-indexes. They do not imply inferiority or superiority of the
-particular cognition's truth; they locate its arising relative to the dharma
-being taken as object.
+These index the Consciousness domain relative to the Dharma domain. They do
+not rank the truth of a particular Consciousness.
 
-**`Gocara` and `ālambana` — range and object-support**
+**`Gocara` and `ālambana` — cognitive range and Support**
 
-`Gocara` predicates cognitive range in the verse. The Bhāṣya restates each
-entry by saying that the dharmas are `ālambana` of the enumerated consciousness classes.
+`Gocara` names cognitive range in the verse. The Bhāṣya says that the
+specified Dharmas are Supports (`ālambana`) of the enumerated
+Consciousness classes. Their local coordination does not make the terms
+lexical synonyms.
 
-**`Amala` and `anāsrava` — undefiled**
+**`Amala` and `anāsrava` — undefiled and without influx**
 
-The verse employs both terms across its halves. The Bhāṣya treats them as the
-undefiled consciousness class appended to each contaminated realm-based count.
+The verse uses `amala` in its first half and `anāsrava` in its second.
+The Bhāṣya calls the final Consciousness class of both counts `anāsrava`.
+This is a local correspondence, with the lexical difference preserved.
 
-**Eight and ten consciousness classes**
+**Eight and ten Consciousness classes**
 
 The Bhāṣya makes the compressed arithmetic explicit:
 
 ```text
-Form Realm dharmas:
-    3 own + 3 lower + 1 higher + 1 undefiled = 8
+Form Realm Dharmas:
+    3 own + 3 lower + 1 higher + 1 without influx = 8
 
-Formless Realm dharmas:
-    (3 corresponding × 3 realms) + 1 undefiled = 10
+Formless Realm Dharmas:
+    (3 corresponding × 3 domains) + 1 without influx = 10
 ```
 
 ## 8. Logical Determination
 
-Let:
+Let `S(C, D)` mean that Consciousness class `C` can take Dharma class `D`
+as Support. For each of the three abandonment classes carried from 5.29:
 
 ```text
-A(C, D) = consciousness class C may take dharma-class D as ālambana
+Domain(D) = Desire     → |{C : S(C,D)}| = 5
+Domain(D) = Form       → |{C : S(C,D)}| = 8
+Domain(D) = Formless   → |{C : S(C,D)}| = 10
 ```
 
-VAK 5.29–5.30 generate three patterned object-ranges for the same three
-abandonment-types:
+The distribution is typed by domain and abandonment class:
 
 ```text
-Realm(D) = Desire     → |{C : A(C,D)}| = 5
-Realm(D) = Form       → |{C : A(C,D)}| = 8
-Realm(D) = Formless   → |{C : A(C,D)}| = 10
+D = domain × AbandonmentClass
+C = domain × AbandonmentClass, or WithoutInflux
+
+S(C, D) ⇏ SameDomain(C, D)
+S(C, D) ⇏ FullyDetermined(AnuśayaCountFor(D))
 ```
 
-The relation is typed in both directions:
-
-```text
-D = realm × AbandonmentType
-C = realm × AbandonmentType or Undefiled
-
-Admissible(C, D)
-    depends on both determinations
-```
-
-Accordingly:
-
-```text
-BelongsToRealm(D, x)
-    ≠ CognizableOnlyFromRealm(D, x)
-
-A(C, D)
-    ≠ SameRealm(C, D)
-
-A(C, D)
-    ⇏ AnuśayaAdheres(C, D)
-```
-
-The matrix supplies the admissible `āśraya–ālambana` presentation. Further
-conditions determine whether this presentation becomes an afflictive
-`hetu–phala` operation.
+The matrix supplies Consciousness–Support relations. The verse does not
+identify Consciousness with Basis (`āśraya`) or derive an afflictive
+`hetu`–`phala` operation from each admissible relation. Those would require
+further determinations.
 
 ## 9. Interpretive Note
 
-**Source determination.** The variable held constant is abandonment-type; the
-variable changed is realm. Form Realm objects admit eight consciousness-relations,
-and Formless Realm objects admit ten. Together with VAK 5.29, this closes the
-first block of the matrix: the three realm-specific classes abandoned by
-seeing suffering, seeing origination, and cultivation.
+**Source determination.** The three abandonment classes are held constant
+while the Dharma domain changes. Form Realm Dharmas admit eight
+Consciousness classes as their possible takers; Formless Realm Dharmas admit
+ten. Together with 5.29, this completes the three specified classes across
+all three domains.
 
-**A relational hierarchy.** The sequence `5 → 8 → 10` does not rank the objects
-by intrinsic worth. It registers a widening field of admissible presentation.
-The higher realms remain determinate precisely because access across their
-boundaries is governed rather than indiscriminate.
+**A relational hierarchy.** The sequence `5 → 8 → 10` records a widening
+set of admissible Support relations. It does not rank the Dharmas by worth
+or equate the Consciousness classes that take them.
 
-**Yoga–Organon reconstruction.** A bhūmi is not a private enclosure. As a
-determinate appearance of the Path, it must be intelligible from its own level,
-from other specified levels, and ultimately from undefiled consciousness. What
-changes across the levels is not merely content but the structured reach of
-the standpoint that presents it.
+**Yoga–Organon reconstruction.** The matrix offers a comparison for staged
+practice: the status of a level and the range of standpoints that can take
+its determinations must be tracked separately. A Yoga *bhūmi* is not
+textually the same classification as a Kośa *dhātu*; the comparison concerns
+the relation between a level and its possible cognitive access.
 
-**The emerging science.** The Bhāṣya has now replaced a large collection of
-questions with a small generative apparatus:
+**The emerging science.** The Bhāṣya compresses many questions into an
+order of inquiry:
 
 ```text
-hold abandonment-type constant
-vary realm
-derive admissible object-relations
-use those relations to infer possible anuśaya-adherence
+hold abandonment class constant
+vary Dharma domain
+establish admissible Consciousness–Support relations
+use those relations in the later anuśaya inference
 ```
 
-This is more than taxonomic economy. It is a science of determinate cognitive
-access: the objects, standpoints, and transitions are mutually indexed so that
-new results can be derived without flattening their differences. This is an
-Organon reconstruction of the Bhāṣya's formal achievement, not terminology
-asserted by Vasubandhu.
+This is an Organon description of the method. The eight and ten counts and
+the concluding closure of the three-domain block are the Bhāṣya's stated
+claims.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: DharmaClass
 Class: ConsciousnessClass
-Class: realm
+Class: Domain
 Class: AbandonmentType
 Class: UndefiledConsciousness
 
 ObjectProperty: belongsToRealm
     Domain: DharmaClass or ConsciousnessClass
-    Range: realm
+    Range: Domain
 
 ObjectProperty: hasAbandonmentType
     Domain: DharmaClass or ConsciousnessClass
     Range: AbandonmentType
 
-ObjectProperty: takesAsAlambana
+ObjectProperty: takesAsSupport
     Domain: ConsciousnessClass
     Range: DharmaClass
 
 Rule: FormThreefoldDharma(?d)
     AND CorrespondingOwnConsciousness(?c, ?d)
-    -> takesAsAlambana(?c, ?d)
+    -> takesAsSupport(?c, ?d)
 
 Rule: FormThreefoldDharma(?d)
     AND CorrespondingLowerConsciousness(?c, ?d)
-    -> takesAsAlambana(?c, ?d)
+    -> takesAsSupport(?c, ?d)
 
 Rule: FormThreefoldDharma(?d)
     AND HigherCultivationConsciousness(?c, ?d)
-    -> takesAsAlambana(?c, ?d)
+    -> takesAsSupport(?c, ?d)
 
 Rule: FormlessThreefoldDharma(?d)
     AND CorrespondingConsciousnessInAnyRealm(?c, ?d)
-    -> takesAsAlambana(?c, ?d)
+    -> takesAsSupport(?c, ?d)
 
 Rule: UndefiledConsciousness(?c)
     AND ThreefoldRealmDharma(?d)
-    -> takesAsAlambana(?c, ?d)
+    -> takesAsSupport(?c, ?d)
 
-Constraint: takesAsAlambana(?c, ?d)
+Constraint: takesAsSupport(?c, ?d)
     doesNotEntail hasSameRealm(?c, ?d)
 
-Constraint: takesAsAlambana(?c, ?d)
-    doesNotEntail anusayaAdheres(?c, ?d)
+Constraint: takesAsSupport(?c, ?d)
+    doesNotEntail determinateAnusayaCount(?d)
 ```
 
-The seed records a typed accessibility matrix. realm-location, object-access,
+The seed records a typed accessibility matrix. Domain location, Support access,
 and afflictive adherence remain separate determinations.

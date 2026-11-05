@@ -36,6 +36,7 @@ arising or manifestation.
 
 The Bhāṣya explicitly carries `āmarśa` forward in the compressed `tato dṛśaḥ`,
 yielding `dṛṣṭiparāmarśa`, attachment to or overvaluation of views.
+
 ## 4. Grammar
 
 **Continuation from self-view**
@@ -185,23 +186,25 @@ Holds(agent, view)
 ≠ Hates(agent, opposedView)
 ```
 
-The fourfold circulation is visible at every transition: the result and
-objective determination achieved in one operation becomes the causal ground
-and support for the next. Yet each passage requires a new mediating act; no
-term merely changes its label.
+Each transition has its own stated ground. The sequence is an order of
+arising (`pravṛttikrama`), and the alternative account of hostility preserves
+a second possible Support for the final relation.
 
 ## 9. Interpretive Note
 
 **Source determination.** The Bhāṣya presents a `pravṛttikrama`, grounding each
-affliction's emergence in a prior determination. False self becomes extreme
-view; extreme view becomes a purificatory discipline; discipline becomes
-supreme doctrine; doctrine becomes attachment, conceit, and hostility.
+affliction's emergence in a prior determination. Self-view leads to an extreme
+view. That extreme is treated as a means of purity, and what promises purity
+is grasped as supreme. Attachment and conceit arise in relation to one's own
+view; hostility takes an opposed view as Support in the principal explanation.
 
-**Alternative interpretation of `anyatra`.** Other teachers do not construe
-the hostility simply as directed toward a rival doctrine held by someone else.
-They take it as hostility toward a view that arose within one's own continuum
-and was subsequently abandoned, because the relevant afflictions take a view
-in one's own continuum as object. This technical alternative must remain open.
+**Alternative interpretation of `anyatra`.** The principal reading directs
+hostility toward an opposed view held by another. The unnamed `apare` instead
+place its Support among views in one's own continuum: one view is adopted and
+another rejected, and hostility is directed at the rejected view. The
+Sanskrit locatives are compressed; the [Chinese Kośa parallel](https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra12/T29n1558.pdf)
+supports adopting and rejecting one's own views. This technical alternative
+remains distinct from the principal reading.
 
 **The production of opposition.** The opposed view is not initially present as
 an enemy. It acquires that determination only after one's own view has become

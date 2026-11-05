@@ -14,60 +14,56 @@
 
 ```iast
 yathā caite āsravā uktā veditavyāḥ
-
-    tathaughayogā dṛṣṭīnāṃ pṛthagbhāvas tu pāṭavāt.
-
-kāmāsrava eva kāmaughaḥ kāmayogaś ca. evaṃ bhavāsrava
-eva bhavaugho bhavayogaś cānyatra dṛṣṭibhyaḥ.
-tāḥ kila paṭutvād oghayogeṣu pṛthak sthāpitāḥ.
-
-    nāsraveṣv asahāyānāṃ na kilāsyānukūlatā.
-
-āsayantīty āsravāṇāṃ nirvacanaṃ paścād vakṣyate.
-na ca kila kevalā dṛṣṭya āsyānukūlāḥ paṭutvāt.
-ata āsraveṣu na pṛṭhak sthāpitāḥ. miśrīkṛtya
-sthāpitā iti tad evaṃ kāmaugha ekānnatriṃśad
-dravyāṇi: rāgapratighamānāḥ pañcadaśa,
-vicikitsāś catasro, daśa paryavasthānānīti.
-bhavaugho 'ṣṭāviṃśati dravyāṇi: rāgamānā
-viṃśatir, vicikitsā 'ṣṭau. dṛṣṭyoghaḥ
-ṣaṭtriṃśad dravyāṇi. avidyaughaḥ pañcadaśa
-dravyāṇi. oghavad yogā veditavyāḥ.
+tathaughayogā dṛṣṭīnāṃ pṛthagbhāvastu pāṭavāt /
+kāmāsrava eva kāmaughaḥ kāmayogaśca /
+evaṃ bhavāsrava eva bhavaugho bhavayogaścānyatra dṛṣṭibhyaḥ /
+tāḥ kila paṭutvādoghayogeṣu pṛthak sthāpitāḥ /
+nāsraveṣvasahāyānāṃ na kilāsyānukūlatā //
+āsayantītyāsravāṇāṃ nirvacanaṃ paścādvakṣyate /
+na ca kila kevalā dṛṣṭya āsyānukūlāḥ paṭutvāt /
+ata āsraveṣu na pṛṭhak sthāpitāḥ /
+miśrīkṛtya sthāpitā iti tadevaṃ kāmaugha ekānnatriṃśaddravyāṇi /
+rāgapratighamānāḥ pañcadaśa vicikitsāścatasro daśa paryavasthānānīti /
+bhavaugho 'ṣṭāviṃsatidravyāṇi /
+rāgamānā viṃśatirvicikitsā 'ṣṭau /
+dṛṣṭyoghaḥ ṣaṭtriṃśaddravyāṇi /
+avidyaughaḥ pañcadaśa dravyāṇi /
+oghavad yogā veditavyāḥ /
 ```
 
 The unit is [307|02–12] in
 `Vasubandhu/Sources/kosabhasya.txt`. The verse is
-distributed through the prose. Word division, punctuation,
-and the colons in the counts are editorial. The running
-source's `pṛṭhak`, `dṛṣṭyogha`, and
-`paryavasthānānīti` are retained for later textual review.
+distributed through the prose. The lines above retain the
+running witness's spelling and punctuation, including
+`pṛṭhak`, `dṛṣṭyogha`, and `paryavasthānānīti`;
+the source's page labels and verse tag alone are omitted.
 The quotation at [307|13] begins 5.38.
 
 ## 3. Continuous Translation
 
-The floods and yokes should be understood as these influxes
-were stated, but views are separately established because
-of their sharpness. The desire influx is itself the desire
-flood and desire yoke; likewise the existence influx is the
-existence flood and existence yoke, apart from the views.
+The floods and yokes should be understood in the way these
+āsravas were stated, except that views have a separate place
+because of their sharpness. The desire āsrava itself is the
+desire flood and desire yoke; likewise the existence āsrava
+is the existence flood and existence yoke, apart from views.
 Views, it is said, are set apart among floods and yokes
 because they are sharp.
 
-Among influxes, however, views are not separately
-established: when unaided they are said to be unsuited to
-its settling function. The derivation of *āsrava* from
-“they cause to settle” will be explained later. Views alone,
-it is said, are unsuited to settling because of their
-sharpness. Thus they are placed among the influxes in
-mixture with other factors, not separately.
+Among āsravas, however, views are not separately established:
+when unaided they are said to be unsuited to settling. The
+derivation of *āsrava* from “they cause to settle” will be
+explained later. Views alone, it is said, are unsuited to
+settling because of their sharpness. Thus they are not
+separately established among the āsravas, but are established
+in mixture.
 
-The desire flood accordingly contains twenty-nine factors:
-fifteen instances of craving, hostility, and conceit; four
-of doubt; and ten envelopments. The existence flood contains
-twenty-eight: twenty of craving and conceit, and eight of
-doubt. The view flood contains thirty-six; the ignorance
-flood, fifteen. The yokes are to be understood in the same
-way as the floods.
+Thus the desire flood contains twenty-nine factors: fifteen
+instances of attachment, hostility, and conceit; four of
+doubt; and ten envelopments. The existence flood contains
+twenty-eight: twenty of attachment and conceit, and eight of
+doubt. The view flood contains thirty-six factors; the
+ignorance flood, fifteen. The yokes are to be understood in
+the same way as the floods.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -113,7 +109,9 @@ an implementation claim.
 
 ## 6. Review Status
 
-Provisional. The whole commentary unit and its boundary
-with 5.38 were checked against the running IAST source.
-The anomalous source forms and the promised later
-derivation of `āsrava` require separate textual review.
+Coverage checked against the complete running-source unit
+[307|02–12]; no clause or count is omitted. The Sanskrit
+block retains the working witness's anomalous forms, which
+remain uncertain pending textual review. The derivation of
+`āsrava` is explicitly deferred by this Bhāṣya. The next
+verse begins at [307|13].
