@@ -55,9 +55,9 @@ krodha-īrṣye
     pratigha-anvaye
 ```
 
-The ablative supplies doubt as the source of remorse. The dual subject anger
-and envy takes the dual predicate `pratighānvaye`; the Bhāṣya's plural-dual
-sense is explicit in `pratighasamutthe`.
+The ablative supplies doubt as the source of remorse. The dual expression
+for anger and envy is qualified by `pratighānvaye`; the Bhāṣya's
+`pratighasamutthe` confirms that both are meant.
 
 **Opening of the six stains**
 

@@ -11,27 +11,23 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-atha kasmād īṣryāmātsarye saṃyojane pṛthak
-saṃyojanadvayam uktaṃ nānyat paryavasthānam?
-
-    ekāntākuśalaṃ yasmāt svatantraṃ cobhayaṃ yataḥ |
-    īṣryāmātsaryam eṣūktaṃ pṛthak saṃyojanadvayam.
-
-na hy anyat paryavasthānam evañjātīyakam asti
-yatraitad ubhayaṃ syād ekāntākuśalatvaṃ
-svatantratvaṃ ceti. yasyāṣṭau paryavasthānāni
-tasyaivaṃ syāt. yasya punar daśa tasya
-krodhamrakṣāv apy ubhayaprakārau. tasmān na
-bhavaty ayaṃ parihāra ity apare.
+atha kasmādīṣryāmātsarye saṃyojane pṛthaksaṃyojanadvayamuktaṃ nānyat paryavasthānam /
+ekāntākuśalaṃ yasmāt svatantraṃ cobhayaṃ yataḥ /
+īṣryāmātsaryameṣūktaṃ pṛthak saṃyojanadvayam //
+nahyanyatparyavasthānamevañjātīyakamasti yatraitadubhayaṃ syādekāntākuśalatvaṃ svatantratvaṃ ceti /
+yasyāṣṭau paryavasthānāni tasyevaṃ syāt /
+yasya punardaśa tasya krodhamrakṣāvapyubhayaprakārau /
+tasmānna bhavatyayaṃ parihāra ityapare /
 ```
 
 The complete unit is [309|18–24] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next sentence
-at [309|24–25] turns to the five lower fetters in 5.43.
-Word division and punctuation are editorial. The running
-source reads `īṣryā` in the question and verse, while the
-official Kārikā study prints `īrṣyā`. This difference is
-preserved for textual review.
+at [309|24–25] turns to the lower fetters in 5.43. The
+Sanskrit block retains the working witness's spelling and
+punctuation; page labels and the verse tag alone are omitted.
+The witness reads `īṣryā` in the question and verse, while
+the paired Kārikā study prints `īrṣyā`. This difference
+remains open for textual review.
 
 ## 3. Continuous Translation
 
@@ -54,8 +50,8 @@ comparison class is the *paryavasthānas*: why do envy and
 avarice alone receive separate fetter headings? The verse
 proposes two jointly distinguishing marks,
 `ekāntākuśalatva` and `svatantratva`. The prose does not
-further define the latter as autonomous causal operation;
-“independent” remains the local classificatory term.
+define the latter's mode; “independent” is therefore left
+unexpanded.
 
 The answer is immediately tested against two enumerations.
 On an eight-member list, the proposed marks single out envy
@@ -88,7 +84,9 @@ source doctrine about which enumeration is final.
 
 ## 6. Review Status
 
-Provisional. The complete question, verse, objection, and
-boundary with 5.43 were checked against the running IAST
-source. The `īṣryā`/`īrṣyā` difference remains open for
-the textual reliability pass.
+Coverage checked against the full source unit [309|18–24]:
+the question, verse, initial explanation, eight-versus-ten
+comparison, and attributed objection are translated. The
+Sanskrit block matches the working witness after removing
+page labels and the verse tag. The `īṣryā`/`īrṣyā` difference
+remains open. The sentence at [309|24–25] begins 5.43.

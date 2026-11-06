@@ -86,18 +86,16 @@ sharp.
 
 ## 6. Philosophical Translation
 
-> Under the relation of appropriation, the afflictive field is reorganized
-> according to determinate grasping. Ignorance permeates and conditions this
-> field, but does not independently perform its positive act of seizure;
-> therefore what roothood separated, grasping-power recombines. At the same
-> time, discipline-and-observance must be distinguished from views in general
-> because it converts a finite practice into a counterfeit path, directing
-> conduct through a false claim to purification. Appropriation is thus neither
-> mere obscurity nor mere contact with an object: it is the practical taking-up
-> of a determination as governing one's existence and way.
+> Under the relation of appropriation, the afflictive inventory is
+> repartitioned according to grasping existence. Ignorance was counted
+> separately as a root in 5.36; here the Bhāṣya says it does not grasp by
+> itself, so it is counted in mixture. Six discipline-and-observance views
+> receive their own class because their path claims mislead householders and
+> renunciants. The Organon can record these as distinct classificatory
+> relations without assigning a new nature to any factor.
 
-The same factor can be a separate root under one relation and a distributed
-condition under another without contradiction.
+The same factor can be a separate root under one relation and counted in
+mixture under another without contradiction.
 
 ## 7. Technical Vocabulary
 
@@ -109,13 +107,13 @@ The Bhāṣya explains the term through `bhava-grahaṇa`, grasping existence.
 **`Kāmopādāna` — appropriation of desire**
 
 The desire-yoke recombined with Desire Realm ignorance: thirty-four items,
-consisting of twenty instances of craving, hostility, conceit, and ignorance,
+consisting of twenty instances of attachment, hostility, conceit, and ignorance,
 four doubts, and ten paryavasthānas.
 
 **`Ātmavādopādāna` — appropriation of self-doctrine**
 
 The existence-yoke recombined with higher-domain ignorance: thirty-eight
-items, consisting of thirty instances of craving, conceit, and ignorance and
+items, consisting of thirty instances of attachment, conceit, and ignorance and
 eight doubts. The technical class-name should not be expanded into a claim
 that every member is itself a formulated self-view.
 
@@ -131,13 +129,14 @@ the Path and deceive both householders and renunciants.
 
 **`Grāhikā` — grasping or seizing power**
 
-The operative criterion for an independent appropriation. It denotes a
-positive taking-hold, not merely a condition that allows grasping to occur.
+The operative criterion for a separate appropriation class in this explanation.
+The Bhāṣya says ignorance is not a grasper because it is non-discerning and
+unsharp.
 
 **`Asaṃprakhyāna-lakṣaṇa` — characterized by non-discernment**
 
-The Bhāṣya's determination of ignorance. Because ignorance fails to articulate
-its object clearly, it does not independently execute appropriation.
+The Bhāṣya's determination of ignorance. Along with its lack of sharpness,
+this is the stated reason ignorance is not a separate grasper.
 
 **`Mārgapratidvandvitva` — opposition to the Path**
 
@@ -187,28 +186,29 @@ Under GraspingPower:
     Avidyā → MixedIntoAppropriations
 ```
 
-The decisive distinction is:
+The locally attested distinction is:
 
 ```text
-Conditions(x, Grasping)
-    ⇏ Executes(x, Grasping)
+RootOfAfflictions(Avidyā)
+    ⇏ IndependentGrasper(Avidyā)
 
 NonDiscerning(Avidyā)
 AND NotSharp(Avidyā)
     → NOT IndependentGrasper(Avidyā)
 ```
 
-The separation of discipline-and-observance adds a teleological criterion:
+The separation of discipline-and-observance adds a practical criterion:
 
 ```text
-Practice(x)
-AND FalselyTakenAsSufficientPath(x)
-    → OpposesActualPath(x)
+ŚīlavrataView(x)
+AND MistakesObservanceForPath(x)
+    → OpposesPath(x)
     → ClassifyAs(Śīlavratopādāna)
 ```
 
-Classification follows not isolated properties but the relation among a
-factor, its operation, and the end it claims to attain.
+The first rules restate the source counts and reasons. The last rule is an
+Organon abstraction from the Bhāṣya's householder and renunciant examples;
+it does not claim that every observance is an afflictive view.
 
 ## 9. Interpretive Note
 
@@ -217,52 +217,50 @@ ignorance into the desire- and existence-based complexes, and divides the
 view-yoke into two. The result is not five appropriations but four, because
 ignorance lacks independent grasping power.
 
-**Ground is not operation.** VAK 5.36 separated ignorance as the generative
-root of the afflictions. VAK 5.38 does not revoke that determination; it judges
-the same factor under a new universal:
+**Root and grasper.** VAK 5.36 separated ignorance as the root of the
+afflictions. VAK 5.38 does not revoke that determination; it applies the
+criterion of grasping to the same factor:
 
 ```text
-ignorance grounds the obscured field of appropriation
+ignorance is separately classified as a root
     ≠
-ignorance performs determinate appropriation
+ignorance independently grasps existence
 ```
 
-Failure to discern enables the seizure of a determination without itself
-being that seizure. Removing ignorance and releasing appropriation are
-therefore internally related but distinguishable operations of the Path.
+The Bhāṣya explicitly denies the second proposition and places ignorance
+among the appropriations in mixture. Any account of how ignorance conditions
+another factor's grasping would require a further source argument.
 
-**The counterfeit Path.** Discipline-and-observance becomes independently
-significant when a limited practice is grasped as sufficient for an end it
-cannot produce. Its error is systematic rather than merely lexical:
+**The counterfeit Path.** The six discipline-and-observance views become a
+separate class because the Bhāṣya says they oppose the Path and mislead both
+householders and renunciants:
 
 ```text
-finite observance
-    → appropriated as the complete means
-        → expected heaven or purification
-            → displacement of the actual Path
+fasting and similar acts → taken as a path to heaven
+avoidance of desired objects → expected to yield purification
 ```
 
-The householder and renunciant examples differ in content but share this
-formal defect. An act receives a false position within the means–end system.
+The examples differ in content but share a mistaken means–end claim. The
+formal relation is an Organon interpretation of the two source examples.
 
-**Organon interpretation.** The Dataset must distinguish conditioning,
-execution, mixture, and appropriation rather than collapsing them into generic
-association:
+**Organon interpretation.** A proposed Dataset should distinguish root
+status, inclusion in mixture, and independent grasping:
 
 ```text
 Avidyā
-    conditions Appropriation
     isMixedInto AppropriationComplex
-    doesNotIndependentlyExecute Grasping
+    isNotAnIndependentGrasper
 
 ŚīlavrataView
-    appropriates PracticeAsSufficientPath
-    displaces ActualPath
+    mistakes ObservanceForPath
+    opposes Path
 ```
 
-This is a relational determination of meaning: the error becomes intelligible
-through the practice adopted, the end projected, the sufficiency claimed, and
-the Path thereby obstructed.
+This is a project-level relation model. The cited sūtra usage at the end of
+the Bhāṣya complicates any claim that the scriptural names always carry the
+full 108-factor extension: desire yoke and appropriation are there discussed
+in terms of desire-attachment. The scholastic counts and cited usage should
+remain distinct in the record.
 
 ## 10. OWL++ Seed
 
@@ -282,12 +280,9 @@ Class: DisciplineObservanceAppropriation
 Class: Practice
 Class: Path
 
-ObjectProperty: conditions
-ObjectProperty: executes
 ObjectProperty: mixedInto
-ObjectProperty: appropriatesAs
-ObjectProperty: claimsAsMeansTo
 ObjectProperty: opposesPath
+ObjectProperty: takesAsPath
 
 DataProperty: hasSharpness
 DataProperty: hasDiscernment
@@ -301,24 +296,24 @@ Fact: hasMemberCount(DisciplineObservanceAppropriation, 6)
 Rule: Ignorance(?x)
     AND hasDiscernment(?x, false)
     AND hasSharpness(?x, low)
-    -> conditions(?x, Appropriation)
-    AND mixedInto(?x, Appropriation)
-    AND NOT executes(?x, IndependentGrasping)
+    -> mixedInto(?x, DesireOrSelfDoctrineAppropriation)
+    AND NOT independentGrasper(?x)
 
 Rule: DisciplineObservanceView(?x)
-    AND appropriatesAs(?x, ?practice)
-    AND claimsAsMeansTo(?practice, ?end)
-    AND NOT ActuallySufficientFor(?practice, ?end)
+    AND takesAsPath(?x, ?observance)
     -> opposesPath(?x, ActualPath)
 
-Constraint: conditions(?x, ?operation)
-    doesNotEntail executes(?x, ?operation)
+Constraint: RootOfAfflictions(?x)
+    doesNotEntail independentGrasper(?x)
 
 View: AppropriationClassification
     Projects: UnderlyingAfflictiveField
-    Preserves: FactorIdentity, Domain, Operation, Rationale, Telos, Provenance
+    Preserves: FactorIdentity, Domain, Count, Rationale, Provenance
 ```
 
-The seed preserves ignorance as a distributed condition rather than inventing
-an independent ignorance-appropriation. It also records the practical error of
-discipline-and-observance as a misdetermined relation between means and end.
+This is a project-level sketch, not executable OWL. It does not infer that
+ignorance causally conditions each act of appropriation from this unit alone.
+
+The sketch records ignorance in mixture without inventing an independent
+ignorance appropriation. It also records the two mistaken path claims given
+for discipline-and-observance views.

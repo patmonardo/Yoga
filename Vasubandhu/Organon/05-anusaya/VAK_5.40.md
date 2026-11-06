@@ -78,9 +78,9 @@ preferred account:
 ```
 
 The phrase `evaṃ tu sādhīyaḥ syāt`, “but this would be better,” explicitly
-marks the second account as preferable. It changes the explanation from loose
-verbal association to the determinate operation of a continuum flowing toward
-objects through the afflictions.
+marks the second account as preferable. It changes the explanation from the
+initial verbal derivation to one in which a continuum flows toward Conditions
+through the āsravas.
 
 ## 5. Translation
 
@@ -99,18 +99,15 @@ objects through the afflictions.
 
 ## 6. Philosophical Translation
 
-> Afflictive names become adequate when they disclose operations. Influx is
-> the current by which the continuum moves toward its objects when opposing
-> effort relaxes. Flood is that current intensified into a force whose bearer
-> is carried in its direction. Yoke is the structural bond to manifold
-> suffering, a bond that need not announce itself through maximum intensity.
-> Appropriation is repeated adherence through which objects and determinations
-> are continually taken up. These are not interchangeable metaphors but
-> distinct relations within one afflictive process. The superior explanation
-> is therefore the one that reveals how the relation is actually generated.
+> The Bhāṣya first derives these names from five verbs, then says a further
+> explanation would be better. In that account, āsravas are what let the
+> continuum flow toward Conditions; floods have excessive force; yokes bind
+> to manifold suffering even without extreme manifestation; and appropriation
+> is explained through frequent adherence. These give distinct grounds for
+> names that can still cover the same afflictive members.
 
-The Bhāṣya itself licenses the movement from verbal derivation to causal-
-functional determination by calling the latter account “better.”
+The Bhāṣya itself marks the further explanation as “better”; the Organon
+reading of this as a methodological distinction remains an interpretation.
 
 ## 7. Technical Vocabulary
 
@@ -124,7 +121,7 @@ more adequate functional explanation.
 
 Initially explained through causing beings to remain in saṃsāra and flowing
 through the six Essence-wounds. Preferably explained as that through which
-the continuum flows toward objects.
+the continuum flows toward Conditions (*viṣaya*).
 
 **`Āyatana-vraṇa` — Essence-wound**
 
@@ -134,19 +131,21 @@ relational account of Essence.
 
 **`Saṃtati` — continuum**
 
-The temporally connected series that flows toward objects through the
+The temporally connected series that flows toward Conditions through the
 influxes. It is the grammatical subject of Vasubandhu's preferred derivation.
 
 **`Pratisrotas` and `anusrotas` — against and with the stream**
 
 The directions in the sūtra's boat simile. Counter-current movement requires
-great effort; when that effort ceases, downstream movement occurs with little
-difficulty.
+great effort; downstream movement occurs with little difficulty. The word
+describing the change in effort is damaged in the working witness, so
+“relaxation” remains a contextual inference.
 
 **`Ogha` — flood**
 
-Explained by `adhimātra-vega`, excessive force or velocity. Its bearer is
-carried away through conformity with its direction (`tadanuvidhāna`).
+Explained by `adhimātra-vega`, excessive force or velocity. The next sentence
+says `tadvān` is carried through conformity (`tadanuvidhāna`); its referent
+remains uncertain.
 
 **`Yoga` — yoke or bond**
 
@@ -155,8 +154,9 @@ efficacy is not identical with extreme intensity of present manifestation.
 
 **`Upādāna` — appropriation**
 
-Explained through frequent or repeated adherence (`ābhīkṣṇyānuṣaṅga`) arising
-from appropriations beginning with desire.
+Alternatively explained through frequent adherence
+(`ābhīkṣṇyānuṣaṅga`) and `kāmādyupādānāt`, whose precise
+syntax remains uncertain.
 
 **`Sādhīyas` — better or more adequate**
 
@@ -169,7 +169,7 @@ The preferred explanations supply four non-equivalent operation-types:
 
 ```text
 Āsrava(x)
-    → FlowsTowardObjectThrough(Continuum, x)
+    → FlowsTowardConditionThrough(Continuum, x)
 
 Ogha(x)
     → HasExcessiveVelocity(x)
@@ -179,7 +179,7 @@ Yoga(x)
     → BindsTo(x, ManifoldSuffering)
 
 Upādāna(x)
-    → RepeatedlyProducesAdherence(x)
+    → FrequentlyAdheres(x)  [alternative derivation]
 ```
 
 The yoke determination explicitly blocks a mistaken inference:
@@ -195,8 +195,8 @@ The boat simile gives a transition structure:
 CounterEffortPresent
     → UpstreamResistancePossible
 
-CounterEffortCeases
-    → ExistingCurrentCarriesContinuumDownstream
+EffortRelaxes [inferred from damaged witness reading]
+    → BoatCarriedDownstreamWithLittleDifficulty
 ```
 
 Finally, the Bhāṣya orders two kinds of explanation:
@@ -212,34 +212,36 @@ pointer to the operation that warrants the designation.
 ## 9. Interpretive Note
 
 **Source determination.** The first two verbs jointly explain `āsrava`.
-`Āsayanti` must therefore not be mapped back to `anuśaya`. The Bhāṣya first
-offers a conventional fourfold nirukti and then explicitly prefers a more
-determinate account grounded in the behavior of the continuum.
+`Āsayanti` therefore belongs to that name's derivation in this verse. The
+Bhāṣya first gives a four-name nirukti and then explicitly offers a better
+account grounded in the behavior of the continuum.
 
-**The current and counter-effort.** The boat simile describes neither fatalism
-nor effortless liberation. It determines an asymmetry:
+**The current and effort.** The boat simile contrasts effortful movement
+against the stream with easy movement downstream. The damaged word in the
+second sentence leaves the exact formulation uncertain. At the Organon level,
+the contrast may be represented as:
 
 ```text
 afflictive current already operative
-    + cessation of counter-effort
+    + relaxation of counter-effort [contextual inference]
         → easy conformity with the stream
 
 movement against that current
     → sustained countervailing exertion
 ```
 
-The simile concerns the causal efficacy of an established current. The later
-Path analysis must determine how its conditions are abandoned, not merely how
-one momentarily resists its effects.
+The source uses the simile to support the preferred āsrava explanation. The
+later Path analysis must establish any further account of how that current
+is overcome.
 
-**Intensity and structural bondage.** Flood and yoke answer different
-questions. Flood emphasizes overpowering momentum; yoke emphasizes connection
-to suffering. A quieter affliction may fail the criterion of flood-like force
-while still maintaining the bond:
+**Intensity and bondage.** Flood and yoke have distinct explanations here:
+excessive force and binding to manifold suffering. The latter can occur
+without extreme manifestation. Their membership remains the same in 5.37;
+these explanations do not change the counts:
 
 ```text
-phenomenal intensity
-    ≠ structural efficacy
+flood membership = yoke membership
+explanatory grounds differ
 ```
 
 **Organon interpretation.** VAK 5.40 supplies a model for functional semantics:
@@ -252,7 +254,7 @@ term
                 → consequence sustained
 ```
 
-A Dataset should therefore preserve the underlying afflictive factors while
+A Dataset could preserve the underlying afflictive factors while
 projecting typed Views for flow, transport, bondage, and appropriation. The
 term becomes meaningful through the whole relation, not through a detached
 gloss. This architecture is an Organon reconstruction, not terminology placed
@@ -263,7 +265,7 @@ into Vasubandhu's mouth.
 ```text
 Class: AfflictiveFactor
 Class: AfflictiveContinuum
-Class: ObjectSupport
+Class: Condition
 Class: FunctionalDesignation
 Class: Influx
     SubClassOf: FunctionalDesignation
@@ -278,7 +280,7 @@ Class: Suffering
 
 ObjectProperty: flowsToward
     Domain: AfflictiveContinuum
-    Range: ObjectSupport
+    Range: Condition
 
 ObjectProperty: flowsThrough
     Domain: AfflictiveContinuum
@@ -292,10 +294,6 @@ ObjectProperty: bindsTo
     Domain: Yoke
     Range: Suffering
 
-ObjectProperty: producesAdherenceTo
-    Domain: Appropriation
-    Range: ObjectSupport
-
 ObjectProperty: opposedBy
     Domain: AfflictiveContinuum
     Range: CounterEffort
@@ -306,7 +304,7 @@ DataProperty: hasRecurrenceFrequency
 
 Rule: AfflictiveContinuum(?s)
     AND flowsThrough(?s, ?influx)
-    AND flowsToward(?s, ?object)
+    AND flowsToward(?s, ?condition)
     -> FunctionallyDesignatedAs(?influx, Influx)
 
 Rule: Flood(?x)
@@ -318,7 +316,7 @@ Constraint: hasManifestIntensity(?x, NonExtreme)
     doesNotEntail NOT bindsTo(?x, Suffering)
 
 View: InfluxOperation
-    Reason: ContinuumFlowsTowardObjects
+    Reason: ContinuumFlowsTowardConditions
 
 View: FloodOperation
     Reason: ExcessiveCarryingForce
@@ -330,6 +328,6 @@ View: AppropriationOperation
     Reason: RepeatedAdherence
 ```
 
-The seed preserves four distinct functional relations over one afflictive
-field. It also records Vasubandhu's methodological advance: a designation is
-best grounded by the operation through which its effects are produced.
+This is a project-level sketch, not executable OWL. It records the distinct
+explanations of four names over the afflictive field, while retaining their
+shared membership where established in 5.37.

@@ -92,15 +92,14 @@ fetters themselves grasp an entrance and root as their objects.
 
 ## 6. Philosophical Translation
 
-> Lower bondage has more than one operation. Desire and hostility retain the
-> continuum within a domain; the cognitive triad can restore the lower
-> condition even after a passage beyond it. Scripture's abbreviated list is
-> also not merely incomplete enumeration. It selects determinations that stand
-> at the entrances to wider afflictive groupings and that generate omitted
-> derivatives. By taking the operative roots, the teaching includes what
-> proceeds from them. Completeness can therefore be genetic: an exposition may
-> name fewer items while preserving the relations through which the entire
-> relevant field is produced and abandoned.
+> In the first explanation, desire and hostility prevent passage beyond the
+> desire domain, while the other three bring return even after passage beyond
+> it. An attributed alternative reads “lower” along two axes: ordinary-person
+> status for the three and the desire domain for the two. The later question
+> asks why the teaching names only three when six afflictions are abandoned.
+> Its answer selects representative entrances and roots, then names three
+> omitted views as set in motion by those roots. The Organon can preserve both
+> the abbreviated list and the stated relations to what it omits.
 
 This rendering develops the Bhāṣya's explicit root-relations. The compressed
 account of the numerical “entrances” remains provisional and is not expanded
@@ -162,27 +161,26 @@ Path.”
 
 **`Mūla-graha` — inclusion through the root**
 
-Naming the generating affliction includes its derivative in the rationale of
-abandonment. The Bhāṣya gives three explicit pairs.
+The Bhāṣya gives three explicit pairs of named factors and views they set in
+motion. The stream-entry question supplies the local abandonment context.
 
 **`Pravartita` — set in motion**
 
-The relation of each omitted view to its named root. This is a genetic
-dependency, not mere membership in the same list.
+The relation of each omitted view to its named root. “Set in motion” follows
+the Bhāṣya's wording without specifying a complete causal mechanism.
 
 ## 8. Logical Determination
 
 The primary fivefold division yields two operations:
 
 ```text
-HasFetter(x, Kāmacchanda)
-OR HasFetter(x, Vyāpāda)
-    → DoesNotTranscend(x, DesireDomain)
+Through({Kāmacchanda, Vyāpāda})
+    → DoesNotPassBeyond(DesireDomain)
 
-HasAnyFetter(x, {Satkāyadṛṣṭi,
-                 Śīlavrataparāmarśa,
-                 Vicikitsā})
-    → MayReturnTo(x, LowerCondition)
+Through({Satkāyadṛṣṭi,
+         Śīlavrataparāmarśa,
+         Vicikitsā})
+    → ReturnAfterPassingBeyond(DesireDomain)
 ```
 
 The alternative account indexes “lower” along two axes:
@@ -208,15 +206,16 @@ Vicikitsā
     → SetsInMotion(Mithyādṛṣṭi)
 ```
 
-Thus the abbreviated enumeration follows a genetic rule:
+At the Organon level, the abbreviated enumeration can be recorded as:
 
 ```text
 Names(Root)
 AND Records(DerivativeOf, Root)
-    → IncludesByGenesis(Derivative)
+    → RepresentsOmittedView(Derivative)
 ```
 
-This permits a distinction between two kinds of completeness:
+This suggests a distinction between two kinds of completeness in the
+project's editorial model:
 
 ```text
 CompleteByExtension
@@ -261,7 +260,7 @@ preventsStatusTranscendence
 causesReturn
 representsGroupEntrance
 setsDerivativeInMotion
-isAbandonedWithRoot
+isAbandonedInStreamEntryContext
 ```
 
 A Dataset that retains only list-membership loses the reason why three names
@@ -272,6 +271,7 @@ Bhāṣya and which formal structures belong to the Organon reconstruction.
 ## 10. OWL++ Seed
 
 ```text
+Class: AfflictiveFactor
 Class: Fetter
 Class: LowerPartFetter
     SubClassOf: Fetter
@@ -280,6 +280,7 @@ Class: DomainRetainingFetter
 Class: ReturnProducingFetter
     SubClassOf: LowerPartFetter
 Class: AfflictiveView
+    SubClassOf: AfflictiveFactor
 Class: DesireDomain
 Class: OrdinaryPersonStatus
 Class: AfflictiveGrouping
@@ -295,12 +296,12 @@ ObjectProperty: representsEntranceTo
     Range: AfflictiveGrouping
 
 ObjectProperty: setsInMotion
-    Domain: AfflictiveView
+    Domain: AfflictiveFactor
     Range: AfflictiveView
 
-ObjectProperty: abandonedWithRoot
+ObjectProperty: abandonedWithNamedTriadAtStreamEntry
     Domain: AfflictiveView
-    Range: AfflictiveView
+    Range: LowerPartFetter
 
 Rule: KamaDesireFetter(?x)
     OR HostilityFetter(?x)
@@ -315,14 +316,14 @@ Rule: DisciplineObservanceGrasping(?x)
 Rule: Doubt(?x)
     -> setsInMotion(?x, FalseView)
 
-Rule: setsInMotion(?root, ?derivative)
-    AND Abandoned(?root)
-    -> abandonedWithRoot(?derivative, ?root)
+Assertion: At stream entry, abandoning the named three fetters
+    accompanies abandonment of six afflictions.
 
 View: LowerFetterClassification
     Preserves: FetterIdentity, DomainAxis, StatusAxis, RetentionFunction,
                ReturnFunction, RootDerivativeRelation, ScripturalProvenance
 ```
 
-The seed preserves the two axes of lower bondage and the explicit genetic
-relations by which the named triad accounts for the omitted views.
+This is a project-level sketch, not executable OWL. It keeps the two accounts
+of lower bondage distinct and records the three stated root relations without
+generalizing stream-entry abandonment into a universal causal rule.

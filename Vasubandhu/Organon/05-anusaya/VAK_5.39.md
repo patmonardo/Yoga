@@ -54,7 +54,7 @@ ete
 `Ete` refers to the anuśayas discussed throughout the chapter. The adjective
 `aṇavaḥ`, participle `anugatāḥ`, and finite middle verb `anuśerate` coordinate
 three determinations. `Dvidhā` qualifies `anuśerate`, not `anugatāḥ`: according
-to the Bhāṣya, anuśayas lie along in relation to an object-support and through
+to the Bhāṣya, anuśayas lie along by Support and through
 conjunction.
 
 **Reason and designation**
@@ -100,19 +100,18 @@ functional reasons.
 ### Bhāṣya-informed study translation
 
 > These are subtle and accompany through acquisition; they lie along in two
-> ways, through object-support and conjunction. Because they continue to
+> ways, through Support and conjunction. Because they continue to
 > bind, they are called anuśayas.
 
 ## 6. Philosophical Translation
 
 > An anuśaya is known neither by constant manifestation nor by an isolated
 > hidden presence. Its mode is subtle; it accompanies a continuum under the
-> source's technical relation of acquisition; it inheres relationally through
-> an object taken up and through conjunction with cognition; and its unabandoned
-> power becomes evident when affliction returns without being deliberately
-> produced and even against attempted restraint. Latency is therefore a
-> determinate structure of possible recurrence. What lies along continues to
-> bind by supplying the ground upon which affliction can become present again.
+> source's technical relation of acquisition; it lies along by Support and
+> by conjunction; and its continued binding is explained by repeated
+> manifestation without deliberate application, even during attempted
+> restraint. The passage thereby distinguishes the subtle mode, two relations,
+> and recurrent manifestation without reducing them to one hidden thing.
 
 This philosophical rendering is an analytical reconstruction of the Bhāṣya's
 relations. It does not replace the Vaibhāṣika category of `prāpti` with a
@@ -129,34 +128,35 @@ anuśaya operates and is known.
 **`Anugata` — accompanying**
 
 Explained by `prāptyanuṣaṅga`, association with acquisition or possession.
-The Bhāṣya thus gives a technical Abhidharma ground for continuity rather than
+The Bhāṣya thus gives a technical ground for accompaniment rather than
 merely saying that the anuśaya persists through time.
 
 **`Prāpti` — acquisition or possession**
 
-A Vaibhāṣika technical relation by which a dharma is acquired by or belongs to
-a continuum. Its doctrinal status must remain distinct from the Organon's
-relational modeling of persistence.
+Here named as the ground for `anugata`, accompaniment. Its broader
+Vaibhāṣika status belongs to a wider source discussion and remains distinct
+from the Organon's relational modeling.
 
 **`Anuśayana` — lying along**
 
 The operation expressed by `anuśerate`. It occurs in two ways: through
-object-support (`ālambanataḥ`) and through conjunction (`saṃprayogataḥ`).
+Support (`ālambanataḥ`) and through conjunction (`saṃprayogataḥ`).
 
-**`Ālambana` — object-support**
+**`Ālambana` — Support**
 
-The dharma in relation to which an anuśaya operates as its object. This is one
-mode of lying-along and must not be collapsed into mental conjunction.
+One stated mode of lying along. This unit identifies the mode as a relation
+by Support but does not further specify its object or scope.
 
 **`Saṃprayoga` — conjunction**
 
-Association with the consciousness and caittas occurring together in a cognitive
-event. It is the second mode of lying-along.
+The second stated mode of lying along. This unit names conjunction without
+specifying the conjoined factors; the wider citta-caitta account belongs to
+its own source discussion.
 
 **`Anubandhana` — continued binding**
 
-The power of an unabandoned anuśaya to condition renewed manifestation and
-thus prolong bondage.
+Continued binding, explained here through repeated manifestation without
+deliberate application and despite attempted restraint.
 
 **`Aprayoga` — absence of deliberate application**
 
@@ -170,46 +170,43 @@ the Bhāṣya's practical evidence of continued binding.
 
 ## 8. Logical Determination
 
-The verse and Bhāṣya define an anuśaya through a relational conjunction:
+The verse and Bhāṣya give four stated grounds for the designation:
 
 ```text
 Anuśaya(x)
     → SubtleOperation(x)
     AND AssociatedWithPrāpti(x)
-    AND [LiesAlongByObjectSupport(x)
-         OR LiesAlongByConjunction(x)]
+    AND LiesAlongBySupportOrConjunction(x)
     AND ContinuesToBind(x)
 ```
 
 The two modes of lying-along remain typed and irreducible:
 
 ```text
-HasAsObjectSupport(x, y)
+HasAsSupport(x, y)
     ≠ ConjoinedWith(x, y)
 ```
 
-The recurrence criterion supplies an inference from events to an unabandoned
-ground:
+The recurrence clause supports this Organon inference from events to a
+continuing afflictive relation:
 
 ```text
 NoDeliberateApplication(x)
 AND AttemptedRestraint(x)
 AND RepeatedManifestation(x)
-    → EvidenceOf(UnabandonedAnuśaya(x))
+    → EvidenceOf(ContinuedBindingByAnuśaya(x))
 ```
 
-This does not equate the latent determination with its manifest event:
+The source distinguishes a subtle mode and repeated becoming manifest. A
+further Organon distinction is:
 
 ```text
-PresentAsAnuśaya(x)
-    ≠ ManifestAsKleśaEvent(x)
-
-NotManifestNow(x)
-    ⇏ WithoutConditioningPower(x)
+SubtleModeOfAnuśaya(x)
+    ≠ ManifestEpisode(x)
 ```
 
-The manifest recurrence is the consequence through which the subtle ground
-becomes cognitively available.
+The passage does not specify a complete theory of latency, activation, or
+abandonment. Those require their own source arguments.
 
 ## 9. Interpretive Note
 
@@ -228,7 +225,7 @@ subtle operation
 association with prāpti
     → accompaniment of the continuum
 
-object-support and conjunction
+Support and conjunction
     → two typed modes of lying-along
 
 recurrent manifestation
@@ -238,17 +235,13 @@ recurrent manifestation
 The term becomes meaningful through the complete system of mode, relation,
 transition, and consequence.
 
-**Recurrence under resistance.** The strongest practical determination is
-that an anuśaya may become manifest without present deliberate application and
-even when opposed. Attempted restraint can inhibit an event without yet
-removing its generative condition. The Path must therefore distinguish:
+**Recurrence under resistance.** The Bhāṣya says these factors repeatedly
+become manifest without deliberate application, even for one who restrains
+them. The Organon may distinguish:
 
 ```text
-temporary nonmanifestation
-    ≠ abandonment of the anuśaya
-
-event-restraint
-    ≠ destruction of the ground of recurrence
+attempted restraint of an episode
+    ≠ assurance that binding has ended
 ```
 
 **Organon interpretation.** A latent determination should be represented not
@@ -258,15 +251,16 @@ structure:
 ```text
 Anuśaya
     isPossessedBy Continuum
-    hasObjectSupport Dharma
+    hasSupport Dharma
     mayBeConjoinedIn CognitiveEvent
     mayManifestAs KleśaEvent
     continuesToBind Continuum
 ```
 
 This is project architecture, not a restatement of source ontology. Its aim is
-to preserve the distinctions made by the source: acquisition, object-support,
-conjunction, manifestation, restraint, recurrence, and abandonment.
+to preserve the distinctions made by the source: acquisition, Support,
+conjunction, manifestation, restraint, and recurrence. Abandonment is a
+further project question rather than a term defined by this unit.
 
 ## 10. OWL++ Seed
 
@@ -277,7 +271,7 @@ Class: Anusaya
 Class: CognitiveContinuum
 Class: CognitiveEvent
 Class: KlesaEvent
-Class: ObjectSupport
+Class: Support
 Class: Prapti
 Class: PathOperation
 
@@ -285,9 +279,9 @@ ObjectProperty: associatedWithAcquisition
     Domain: Anusaya
     Range: Prapti
 
-ObjectProperty: hasObjectSupport
+ObjectProperty: hasSupport
     Domain: Anusaya
-    Range: ObjectSupport
+    Range: Support
 
 ObjectProperty: conjoinedIn
     Domain: Anusaya
@@ -301,35 +295,25 @@ ObjectProperty: continuesToBind
     Domain: Anusaya
     Range: CognitiveContinuum
 
-ObjectProperty: restrainedBy
-    Domain: KlesaEvent
+ObjectProperty: attemptedRestraintBy
+    Domain: Anusaya
     Range: PathOperation
 
 DataProperty: hasOperationalSubtlety
 DataProperty: isDeliberatelyApplied
-DataProperty: isAbandoned
-
-Rule: Anusaya(?x)
-    AND isAbandoned(?x, false)
-    AND ActivationConditionsComplete(?x)
-    -> mayManifestAs(?x, KlesaEvent)
-
 Rule: RepeatedlyManifests(?x)
     AND isDeliberatelyApplied(?x, false)
-    AND restrainedBy(?x, ?operation)
-    -> EvidenceOfUnabandonedAnusaya(?x)
+    AND attemptedRestraintBy(?x, ?operation)
+    -> EvidenceOfContinuedBinding(?x)
 
-Constraint: hasObjectSupport(?x, ?y)
+Constraint: hasSupport(?x, ?y)
     doesNotEntail conjoinedIn(?x, ?event)
 
-Constraint: NotCurrentlyManifest(?x)
-    doesNotEntail isAbandoned(?x, true)
-
 View: AnusayaDisposition
-    Preserves: Continuum, Prapti, ObjectSupport, Conjunction,
-               ManifestationHistory, RestraintHistory, AbandonmentStatus
+    Preserves: Continuum, Prapti, Support, Conjunction,
+               ManifestationHistory, RestraintHistory
 ```
 
-The seed preserves latency as an articulated network of relations and possible
-transitions. It also keeps `prāpti` visible as source vocabulary rather than
-silently identifying it with the Organon's implementation categories.
+This is a project-level sketch, not executable OWL. It keeps `prāpti` and
+Support visible as source vocabulary without supplying a full theory of
+abandonment from this short naming passage.

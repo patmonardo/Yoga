@@ -12,20 +12,16 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    pradāśa upanāhaś ca vihiṃsā ceti.
-
-tatra paravañcanā māyā. cittakauṭilyaṃ śāṭhyaṃ
-yena yathābhūtaṃ nāviṣkaroti vikṣipatya
-parisphuṭaṃ vā pratipadyate. madaḥ pūrvoktaḥ.
-sāvadyavastudṛḍhagrāhitā pradāśo yena
-nyāyasaṃjñaptiṃ na gṛhṇāti.
-āghātavastuvahulīkāra upanāhaḥ.
-viheṭhnaṃ vihiṃsā yena prahārapāruṣyādibhiḥ
-parān viheṭhyate.
-
+pradāśa upanāhaśca vihiṃsā ceti
+tatra paravañcanā māyā /
+cittakauṭilyaṃ śāṭhyaṃ yena yathābhūtaṃ nāviṣkaroti vikṣipatya parisphuṭaṃ vā pratipadyate /
+madaḥ pūrvoktaḥ /
+sāvadyavastudṛḍhagrāhitā pradāśo yena nyāyasaṃjñaptiṃ na gṛhṇāti /
+āghātavastuvahulīkāra upanāhaḥ /
+viheṭhnaṃ vihiṃsā yena prahārapāruṣyādibhiḥ parān viheṭhyate /
 eṣāṃ punaḥ ṣaṇṇāṃ kleśamalānāṃ
-
-    rāgajau māyāmadau pratighaje upanāhavihiṃsane.
+rāgajau
+māyāmadau pratighaje upanāhavihiṃsane //
 ```
 
 The distributed unit is [313|12–19] in
@@ -33,29 +29,29 @@ The distributed unit is [313|12–19] in
 fragment completes the list begun in 5.49; the final
 fragment assigns four sources. The next line at [314|01],
 `dṛṣṭyāmarśāt pradāśas tu śāṭhyaṃ dṛṣṭisamutthitam`,
-begins 5.51's account of the other two. Word division and
-punctuation are editorial. The source's `viheṭhnaṃ` and
-the compact remainder of the `śāṭhya` definition remain
-for textual review.
+begins 5.51's account of the other two. The Sanskrit block
+retains the working witness's spelling and punctuation; only
+page labels and the verse tag are omitted. The source's
+`viheṭhnaṃ` and the compact remainder of the `śāṭhya`
+definition remain for textual review.
 
 ## 3. Continuous Translation
 
 Obstinate fault-clinging, sustained resentment, and
 harmfulness complete the six stains. Of these, deceit is
-deceiving another. Crookedness is crookedness of citta,
-through which one does not disclose matters as they are;
-the remainder of this clause is uncertain. Intoxication
+deceiving another. Crookedness is crookedness of Consciousness,
+through which one does not disclose a matter as it is, but
+deflects it or responds unclearly [the segmentation of the
+last two alternatives is provisional]. Intoxication
 was explained earlier. Obstinate fault-clinging is firm
 adherence to a blameworthy matter, through which one does
 not accept proper admonition. Sustained resentment is
 repeated enlargement of a basis of injury. Harmfulness is
 injuring others by striking, harshness, and the like.
 
-Of the six afflictive stains, deceit and intoxication are
-the two born of attachment; sustained resentment and
-harmfulness are the two born of hostility. The source
-affiliations of obstinate fault-clinging and crookedness
-come in the next verse.
+Of these six stains of affliction, the two born from
+attachment are deceit and intoxication; those born from
+hostility are sustained resentment and harmfulness.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -90,9 +86,12 @@ the `dṛḍhagrāhitā` of the prose visible, while the rendering
 of `nyāyasaṃjñapti` as “proper admonition” is provisional.
 “Sustained resentment” renders the multiplication in
 `āghātavastuvahulīkāra`. The `śāṭhya` clause securely
-begins with `cittakauṭilya` and failure to reveal what is;
-its remaining syntax should not be forced into a polished
-definition from this witness.
+begins with `cittakauṭilya` and failure to reveal what is.
+The working `vikṣipatya parisphuṭaṃ` can be segmented as
+`vikṣipaty aparisphuṭaṃ`, supporting “deflects or responds
+unclearly”; a [published discussion](https://icabs.repo.nii.ac.jp/record/344/files/spb-ms-20b.pdf)
+quotes this latter segmentation. The witness itself has not
+been normalized.
 
 **Organon reconstruction.** Membership in one class, a
 factor's operation, and its stated source are three
@@ -104,8 +103,9 @@ Bhāṣya, not an implementation claim.
 
 ## 6. Review Status
 
-Provisional. Both fragments of 5.50, the definitions between
-them, and the boundary with 5.51 were checked against the
-running IAST source. This study now contains [313|12–16],
-which an earlier 5.49 draft had assigned incorrectly.
-`Viheṭhnaṃ` and the `śāṭhya` clause need philological review.
+Coverage checked against the complete unit [313|12–19]:
+both distributed verse fragments, all six stain definitions
+or back-references, and the two stated origin pairs are translated.
+The Sanskrit block matches the working witness after page labels
+and the verse tag are removed. The next verse begins at [314|01].
+`Viheṭhnaṃ` and the `śāṭhya` segmentation remain for textual review.

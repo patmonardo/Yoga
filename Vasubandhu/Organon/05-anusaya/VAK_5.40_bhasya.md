@@ -13,34 +13,30 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    āsayanty āsravanty ete haranti śleṣayanty atha |
-    upagṛhṇanti cety eṣām āsravādiniruktayaḥ.
-
-āsayanti saṃsāre āsravanti bhavāgrādyāvad avīciṃ
-ṣaṅbhir āyatanavraṇair ity āsravāḥ. harantīty
-oghāḥ. śleṣayantīti yogāḥ. upagṛhṇantīti
-upadānāni.
-
-evaṃ tu sādhīyaḥ syāt: āsravaty ebhiḥ saṃtatir
-viṣayeṣv ity āsravāḥ. "tadyathā āyuṣmanto naur
-mahadbhir abhisaṃskāraiḥ pratisroto nīyate.
-sā teṣām eva saṃskārāṇāṃ gratiprasravdhyā
-'lpakṛcchreṇānusrota uhyata" iti
-sūtravādānusārāt.
-
-adhimātravegatvād oghāḥ. tarhi tadvān uhyate
-tadanuvidhānāt. nātimātrasamudācāriṇo 'pi
-yogā vividhaduḥkhasaṃyojanāt. ābhīkṣṇyānuṣaṅgato
-vā kāmādyupādānād upādānānīti.
+āsayantyāsravantyete haranti śleṣayantyatha /
+upagṛhṇanti cetyeṣāmāsravādiniruktayaḥ //
+āsayanti saṃsāre āsravanti bhavāgrādyāvadavīciṃ ṣaṅbhirāyatanavraṇair ityāsravāḥ /
+harantītyoghāḥ /
+śleṣayantīti yogāḥ /
+upagṛhṇantīti upadānāni /
+evaṃ tu sādhīyaḥ syād /
+āsravatyebhiḥ saṃtatirviṣayeṣvityāsravāḥ /
+"tadyathā āyuṣmanto naurmahadbhirabhisaṃskāraiḥ pratisroto nīyate /
+sā teṣāmeva saṃskārāṇāṃ gratiprasravdhyā 'lpakṛcchreṇānusrota uhyata''; iti sūtravādānusārāt /
+adhimātravegatvādoghāḥ /
+tarhi tadvānuhyate tadanuvidhānāt /
+nātimātrasamudācāriṇo 'pi yogā vividhaduḥkhasaṃyojanāt /
+ābhīkṣṇyānuṣaṅgato vā kāmādyupādānādupādānānīti /
 ```
 
 The unit is [308|14–23] in
-`Vasubandhu/Sources/kosabhasya.txt`. The quotation at
-[308|24] begins 5.41. Word division and punctuation are
-editorial. The running source reads `upadānāni` in the
-first explanation, and the boat quotation has
-`gratiprasravdhyā`; both are preserved rather than silently
-repaired. The latter is particularly uncertain.
+`Vasubandhu/Sources/kosabhasya.txt`. The verse at
+[308|24] begins 5.41. The Sanskrit block retains the
+working witness's spelling and punctuation; page labels and
+the verse tag alone are omitted. The witness reads
+`upadānāni` in the first explanation and has
+`gratiprasravdhyā` in the boat quotation. Both remain
+uncertain rather than silently repaired.
 
 ## 3. Continuous Translation
 
@@ -54,19 +50,20 @@ away, yokes because they fasten, and appropriations because
 they take hold.
 
 But this would be better: they are influxes because through
-them the continuum flows toward objects. This accords with
-the cited sūtra: a boat is driven against the stream only
-with great effort, but when those very exertions cease, it
-is carried with the stream with little difficulty. The word
-for the cessation of effort is damaged in this witness, so
-that part of the translation remains provisional.
+them the continuum flows toward Conditions. This accords with
+the cited sūtra: “Just as, venerable ones, a boat is driven
+against the stream with great efforts, so, through the
+`gratiprasravdhyā` [uncertain; apparently relaxation] of those
+very efforts, it is carried with the stream with little
+difficulty.”
 
-They are floods because of excessive force. The bearer is
-then carried along by conforming to that force. They are
-yokes because they bind to manifold suffering even without
-extremely intense manifestation. Or they are appropriations
-because of frequent adherence through taking up desire and
-the other objects.
+They are floods because of excessive force. Then one who has
+it is carried along by following it [the referent of `tadvān`
+remains uncertain]. They are yokes because they connect one
+to manifold suffering even when their manifestation is not
+extreme. Or they are appropriations because of frequent
+adherence, through appropriation of desire and so on [the
+syntax of `kāmādyupādānāt` remains uncertain].
 
 ## 4. Argument and Doctrinal Determination
 
@@ -80,7 +77,7 @@ definition of *āyatana*.
 
 `Evaṃ tu sādhīyaḥ syāt` explicitly introduces a better
 explanation. Here the subject of the flow is the continuum
-(`saṃtati`), moving toward objects through the influxes.
+(`saṃtati`), moving toward Conditions through the influxes.
 The boat simile illustrates how countervailing effort and
 conformity to an existing current yield different movement.
 The text does not say that every effortless movement is an
@@ -100,26 +97,29 @@ first `upagṛhṇanti` gloss.
 
 **Translation decisions.** “Cause to remain” supplies the
 unstated object of `āsayanti` from the commentary's
-`saṃsāre`. The damaged `gratiprasravdhyā` is interpreted
-provisionally through the sūtra's contrast between great
-effort upstream and easy motion downstream; no Sanskrit
-emendation is installed. `Tadvān` is rendered “the bearer,”
-but its precise referent deserves later review.
+`saṃsāre`. The damaged `gratiprasravdhyā` is left visible;
+“relaxation” is only a contextual inference from the
+upstream/downstream contrast, and no Sanskrit emendation is
+installed. `Tadvān` is rendered “one who has it,” but its
+precise referent deserves later review.
 `Ābhīkṣṇyānuṣaṅga` points to frequent adherence; the
 syntax of `kāmādyupādānāt` remains open.
 
 **Organon reconstruction.** These names distinguish
 operations over the same afflictive field: flow toward
-objects, being carried along, bondage to suffering, and
+Conditions, being carried along, bondage to suffering, and
 repeated taking up. The move to a “better” explanation is
 also a methodological cue for the Science of Citta: a name
-gains precision when its affected continuum, object, and
+gains precision when its affected continuum, Condition, and
 causal operation are specified. This is a project-level
 reading, separate from the source's own niruktis.
 
 ## 6. Review Status
 
-Provisional. The complete unit and its boundary with 5.41
-were checked against the running IAST witness. The sūtra
-quotation and the forms `upadānāni`, `gratiprasravdhyā`,
-and `tadvān` require philological review.
+Coverage checked against the complete unit [308|14–23].
+The Sanskrit block matches the working witness after removing
+page labels and the verse tag; the translation represents the
+boat quotation, each alternative derivation, and the final
+qualification. The forms `upadānāni`, `gratiprasravdhyā`,
+`tadvān`, and `kāmādyupādānāt` require philological review.
+The verse at [308|24] begins 5.41.

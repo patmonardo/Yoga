@@ -32,9 +32,6 @@ four of them to two afflictive sources. The remaining sources of `pradāśa` and
 | `upanāha-vihiṃsane` | nominative dual feminine | sustained resentment and harmfulness |
 
 
-The two paired constructions are syntactically exact:
-
-
 Each source adjective agrees with its dual pair.
 
 ## 4. Grammar
@@ -135,8 +132,10 @@ cosmic principle of appearance in this Abhidharma context.
 
 **`Śāṭhya` — crookedness or duplicity**
 
-Crookedness of mind by which matters are not disclosed as they actually are.
-Its genetic affiliation is deferred to VAK 5.51.
+Crookedness of Consciousness by which a matter is not disclosed as it is,
+but is deflected or answered unclearly. The latter alternatives depend on
+the provisional segmentation `vikṣipaty aparisphuṭaṃ` of the working witness's
+`vikṣipatya parisphuṭaṃ`; its genetic affiliation is deferred to VAK 5.51.
 
 **`Mada` — intoxication or infatuation**
 
@@ -224,7 +223,7 @@ not yet a catalogue of remedies. One must distinguish a stain's concrete
 operation from its source-affiliation before relating either to abandonment.
 That soteriological axis becomes explicit in the next verses.
 
-**Organon interpretation.** The Dataset should represent class, source, and
+**Organon interpretation.** A proposed Dataset would represent class, source, and
 operation independently:
 
 ```text
@@ -237,8 +236,8 @@ StainAssertion
 ```
 
 This allows incomplete-but-controlled knowledge: four sources can be asserted
-without inventing the remaining two, while all six operational definitions
-remain available.
+without inventing the remaining two, while the local definitions and the
+back-reference for intoxication remain available.
 
 ## 10. OWL++ Seed
 

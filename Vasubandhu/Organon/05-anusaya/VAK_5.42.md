@@ -25,7 +25,7 @@ enumerations.
 |---|---|---|
 | `ekānta-akuśalam` | nominative singular neuter predicate | exclusively or invariably unwholesome |
 | `yasmāt` | ablative singular relative pronoun used causally | because, since |
-| `sva-tantram` | nominative singular neuter predicate | independent in classificatory standing |
+| `sva-tantram` | nominative singular neuter predicate | independent; the local mode is not specified |
 | `ca` | conjunction | and |
 | `ubhayam` | nominative singular neuter collective | both, the pair together |
 | `yataḥ` | relative adverb used causally | because, since |
@@ -36,9 +36,9 @@ enumerations.
 | `saṃyojana-dvayam` | nominative singular neuter | a pair of fetters, two fetters |
 
 
-The working Bhāṣya e-text transmits `īṣryā` where standard Sanskrit has
-`īrṣyā`. The anomalous prose spelling remains a witness-level issue and is not
-silently substituted into the kārikā.
+The working Bhāṣya witness transmits `īṣryā` in both its question and verse,
+while the paired Kārikā study prints `īrṣyā`. The difference remains a
+witness-level issue and is not silently resolved.
 
 ## 4. Grammar
 
@@ -50,9 +50,8 @@ yataḥ ca [ubhayam] sva-tantram
 ```
 
 The two causal relatives coordinate two predicates of the collective
-`ubhayam`. The distributive force of the second predicate is clarified by the
-conclusion: envy and avarice are counted separately, so each has independent
-status.
+`ubhayam`. The conclusion applies the two marks to envy and avarice
+separately, but the Bhāṣya does not further explain the kind of independence.
 
 **Classificatory conclusion**
 
@@ -94,8 +93,8 @@ enumeration.
 > independence isolate envy and avarice under an eight-member field; when the
 > field expands to ten, the same conjunction also includes anger and
 > concealment. The proposed ground then loses the power to generate the
-> intended boundary. The reality of the four afflictions is not disputed; what
-> fails is the sufficiency of a reason for granting two of them exclusive
+> intended boundary. Anger and concealment also meet the proposed marks; what
+> fails is the sufficiency of a reason for granting only two of them exclusive
 > classificatory privilege.
 
 The Bhāṣya thus preserves the kārikā's proposed rationale while also preserving
@@ -111,9 +110,9 @@ paryavasthānas.
 
 **`Svatantra` — independent**
 
-Independent for purposes of counting and classification. The Bhāṣya does not
-here expand this into metaphysical self-subsistence, a detailed account of
-intentional direction, or a theory of autonomous causal operation.
+The second proposed mark. The Bhāṣya does not define the kind of independence
+here, so the term should not be expanded into a theory of autonomous arising
+or metaphysical self-subsistence.
 
 **`Īrṣyā` — envy**
 
@@ -128,8 +127,9 @@ local argument concerns classification rather than a complete phenomenology.
 
 **`Paryavasthāna` — enveloping or dominating manifestation**
 
-The comparison domain within which the proposed marks are tested. Competing
-Abhidharma enumerations recognize either eight or ten such factors.
+The comparison domain within which the proposed marks are tested. The Bhāṣya
+compares people who count eight with people who count ten such factors; it
+does not identify their schools here.
 
 **`Krodha` — anger**
 
@@ -139,8 +139,8 @@ to the proposed exclusive distinction.
 
 **`Mrakṣa` — concealment**
 
-Covering or concealing one's fault. It supplies the second counterexample
-under the tenfold enumeration.
+It supplies the second counterexample under the tenfold enumeration. This
+unit does not define its psychological character.
 
 **`Parihāra` — reply or resolution**
 
@@ -201,8 +201,8 @@ question: why are two paryavasthānas, envy and avarice, counted separately as
 fetters while the others are not? The answer proposes exclusive
 unwholesomeness and independence as jointly distinguishing marks.
 
-**The counterexample.** The proposed marks succeed only for a school or
-enumeration recognizing eight paryavasthānas. For one recognizing ten, anger
+**The counterexample.** The proposed marks succeed for an enumeration of
+eight paryavasthānas. For one recognizing ten, anger
 and concealment share both marks. The reported critics therefore conclude:
 
 ```text
@@ -276,10 +276,13 @@ DataProperty: hasIndependentStatus
     Domain: AfflictiveFactor
     Range: Boolean
 
-Rule: Paryavasthana(?x)
+RuleProposal: Paryavasthana(?x)
     AND isExclusivelyUnwholesome(?x, true)
     AND hasIndependentStatus(?x, true)
     -> qualifiesAs(?x, SeparateFetter)
+
+Audit: RuleProposal distinguishes Envy and Avarice in EightMemberDomain.
+Audit: RuleProposal fails to distinguish them in TenMemberDomain.
 
 Fact: Extension(EightMemberDomain, ProposedCriteria,
                 {Envy, Avarice})
@@ -295,6 +298,6 @@ View: FetterRationaleAudit
                ActualExtension, Counterexamples, Attribution
 ```
 
-The seed records not only the proposed rule but also the field against which
-it succeeds or fails. It preserves the Bhāṣya's distinction between true
-predicates and an adequate classificatory ground.
+This is a project-level sketch, not executable OWL. It records the proposed
+rule and the domain-dependent objection while preserving the Bhāṣya's
+attribution of that objection to “others.”

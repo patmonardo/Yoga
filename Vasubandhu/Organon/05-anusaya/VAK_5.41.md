@@ -125,14 +125,15 @@ separate inventories.
 
 **`Anunaya-saṃyojana` — fetter of attraction**
 
-Defined as desire across all three domains (`traidhātuka-rāga`). The Bhāṣya
+Defined as attachment across all three domains (`traidhātuka-rāga`). The Bhāṣya
 says that the remaining fetters are to be correlated with the earlier field
 as applicable.
 
 **`Dṛṣṭi-saṃyojana` — view-fetter**
 
-The grouped fetter comprising body-view, extreme view, and false view. Across
-their relevant modes these constitute eighteen dravyas.
+The three-view group, with eighteen counted factors in this Bhāṣya. Its
+members are body-view, extreme view, and false view in the wider chapter
+classification; this unit does not repeat their names.
 
 **`Parāmarśa-saṃyojana` — grasping-fetter**
 
@@ -143,25 +144,24 @@ observance. These likewise constitute eighteen dravyas and share
 **`Dravya-sāmānya` — commonality in dravya-constitution**
 
 Here the Bhāṣya gives a specific enumerative ground: the three-view group and
-the two-view group each comprise eighteen real items. It should not be reduced
-to the broader claim that all views merely share discriminative comprehension as a common
-substrate.
+the two-view group each comprise eighteen counted factors. This ground should
+not be replaced by an unstated common cognitive substrate.
 
 **`Āmarśana-sāmānya` — commonality of grasping**
 
-The formal commonality of the two parāmarśa-views. Both take hold of a
-determination through an estimative or appropriative operation.
+The common grasping nature attributed to the two parāmarśa views. The local
+sentence is compact; it does not specify a full theory of their operation.
 
 **`Grāhya-grāhaka-bheda` — distinction between grasped and grasper**
 
-The Bhāṣya's concluding relational distinction. It differentiates what is
-taken as the content of a view from the grasping operation directed upon it.
+The Bhāṣya's concluding distinction between what is grasped and what grasps.
+Its exact application to the two view groups remains open.
 
 **`Sarvatraga` and `asarvatraga` — universal and non-universal**
 
 The path-stage counterexample depends on this distinction. The relevant
 universal view has already been abandoned, and no remaining non-universal
-member of the view-fetter bears the required object and conjunction relations.
+member of the view-fetter bears the required Support and conjunction relations.
 
 ## 8. Logical Determination
 
@@ -192,7 +192,9 @@ The Bhāṣya's path-stage example proves non-equivalence of predicates:
 SamudayaKnowledgeArisen
 AND NirodhaKnowledgeNotYetArisen
 AND DharmaConjoinedWithParāmarśaView(x)
+AND AbandonedBySeeingCessationOrPath(x)
     → DṛṣṭyAnuśayaLiesAlongByConjunction(x)
+    AND BoundByAnunayaSaṃyojanaThroughSupport(x)
     AND NOT BoundByDṛṣṭiSaṃyojana(x)
 ```
 
@@ -203,7 +205,7 @@ DṛṣṭyAnuśaya(x, context)
     ⇏ DṛṣṭiSaṃyojana(x, context)
 ```
 
-Classification is context-indexed because the relevant object-relations,
+Classification is context-indexed because the relevant Support relations,
 conjunctions, and abandonments change across the Path.
 
 ## 9. Interpretive Note
@@ -246,12 +248,11 @@ Classifies(
 )
 ```
 
-Entity identity alone cannot settle class membership. The Dataset must retain
-the current abandonments, object-support, conjunction, and governing relation.
-The `grāhya/grāhaka` distinction further requires typed roles within the
-grasping relation rather than a generic symmetric edge. This is an Organon
-architectural consequence, not a claim that Vasubandhu supplied a modern data
-model.
+Entity identity alone cannot settle class membership. A proposed Dataset must
+retain the current abandonments, Support, conjunction, and governing relation.
+The `grāhya/grāhaka` distinction suggests typed roles within the grasping
+relation, though its application here remains philologically compact. This is
+an Organon architectural proposal, not a data model supplied by Vasubandhu.
 
 ## 10. OWL++ Seed
 
@@ -312,9 +313,9 @@ Constraint: ClassificationAssertion(?a)
 
 View: FetterClassification
     Preserves: FactorIdentity, ClassificationPrinciple, PathContext,
-               ObjectSupport, Conjunction, AbandonmentStatus, Rationale
+               Support, Conjunction, AbandonmentStatus, Rationale
 ```
 
-The seed preserves the Bhāṣya's decisive result: a factor's identity does not
-determine its classificatory role apart from the relation and Path-context in
-which that role is asserted.
+This is a project-level sketch, not executable OWL. It records the Bhāṣya's
+counterexample while leaving the exact reach of its final grasped/grasper
+distinction open.

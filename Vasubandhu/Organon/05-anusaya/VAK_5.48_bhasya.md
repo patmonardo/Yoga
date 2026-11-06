@@ -12,44 +12,36 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-vaibhāṣikanyāyena punar daśa paryavasthānāny
-etāni cāṣṭau
-
-    krodhabhrakṣau ca.
-
-tatrāhlīkyānapatrāpye vyākhyāte.
-parasaṃpattau cetaso vyāroṣa īrṣyā.
-dharmāmiṣakauśalapradānavirodhī cittāgraho
-mātsaryam. auddhatyaṃ cetaso 'vyupaśamaḥ.
-kaukṛtyaṃ styānaṃ ca vyākhyāte.
-kāyasaṃdhāraṇāsamarthaś cittābhisaṃkṣepo
-middham. tat tu kliṣṭam eva paryavasthānam,
-kaukṛtyaṃ ca. vyāpāda vihiṃsāvarjitaḥ
-sattvāsattvayor āghātaḥ krodhaḥ.
-avadyapracchādanaṃ bhrakṣaḥ.
+vaibhāṣikanyāyena punardaśa paryavasthānānyetāni cāṣṭau
+krodhabhrakṣau ca
+tatrāhlīkyānapatrāpye vyākhyāte /
+parasaṃpattau cetaso vyāroṣa īrṣyā /
+dharmāmiṣakauśalapradānavirodhī cittāgraho mātsaryam /
+auddhatyaṃ cetaso 'vyupaśamaḥ /
+kaukṛtyaṃ styānaṃ ca vyākhyāte /
+kāyasaṃdhāraṇāsamarthaścittābhisaṃkṣepo middham /
+tattu kliṣṭameva paryavasthānam /
+kaukṛtyaṃ ca vyāpāda vihiṃsāvarjitaḥ sattvāsattvayorāghātaḥ krodhaḥ /
+avadyapracchādanaṃ bhrakṣaḥ /
 eṣāṃ ca daśānāṃ paryavasthānānāṃ
-
-    rāgotthā āhlīkyauddhatyamatsarāḥ.
-
-ete traya upakleśā rāganiḥṣyandāḥ.
-
-    bhrakṣe vivādaḥ.
-
-tṛṣṇāniḥṣyanada ity eke, avidyāniḥṣyanda
-ity apare, ubhayor ity anye, yathā kramaṃ
-jñātājñātānām iti.
-
-    avidyātaḥ styānamiddhānapatrapāḥ.
-
-ete trayo 'vidyāniḥṣyandāḥ.
+rāgotthā āhlīkyauddhatyamatsarāḥ /
+ete traya upakleśā rāganiḥṣyandāḥ /
+bhrakṣe vivādaḥ
+tṛṣṇāniḥṣyanada ityeke /
+avidyāniḥṣyanda ityapare /
+ubhayorityanye /
+yathā kramaṃ jñātājñātānāmiti /
+avidyātaḥ styānamiddhānapatrapāḥ //
+ete trayo 'vidyāniḥṣyandāḥ /
 ```
 
 The unit runs [312|14–313|05] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next line at
 [313|06] begins the continuation in 5.49. The verse is
 distributed through the prose; the Vaibhāṣika sentence
-starts before its first fragment. Word division and
-punctuation are editorial. The running source's `āhlīkya`,
+starts before its first fragment. The Sanskrit block retains
+the working witness's spelling and punctuation; only page
+labels and the verse tag are omitted. The running source's `āhlīkya`,
 `bhrakṣa`, and `niḥṣyanada` are preserved as transmitted.
 They differ from the official Kārikā's `āhrīkya`, `mrakṣa`,
 and the prose's other `niḥṣyanda` forms.
@@ -59,13 +51,13 @@ and the prose's other `niḥṣyanda` forms.
 According to the Vaibhāṣika method, there are ten
 enveloping afflictions: the preceding eight, plus anger and
 concealment. Shamelessness and lack of moral concern have
-already been explained. Envy is irritation of citta at
-another's success. Avarice is a grip of citta that resists
-giving Dharma, material goods, or skill. Excitation is the
-non-pacification of citta. Remorse and torpor have already
-been explained. Sleepiness is a contraction of citta that
-leaves the body unable to sustain itself; only afflicted
-sleepiness, and likewise afflicted remorse, counts here as
+already been explained. Envy is irritation of Consciousness
+at another's prosperity. Avarice is a grip of Consciousness
+that resists giving Dharma, material goods, or skill.
+Excitation is the non-pacification of Consciousness. Remorse
+and torpor have already been explained. Sleepiness is a
+contraction of Consciousness unable to maintain the body;
+only afflicted sleepiness, and likewise afflicted remorse, counts here as
 an envelopment. Anger is hostility toward beings or
 non-beings apart from ill will and harmfulness. Concealment
 is hiding a fault.
@@ -110,7 +102,7 @@ compressed to assign every case securely.
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** The manuscript-like e-text's
+**Translation decisions.** The working e-text's
 `bhrakṣa` is retained in continuous Sanskrit while
 “concealment” follows the local definition
 `avadyapracchādana`. The phrase defining `krodha` is terse;
@@ -118,7 +110,10 @@ compressed to assign every case securely.
 psychological mechanism. `Niḥṣyanda` is translated as
 “derivative,” with “outflow” kept as a possible literal
 gloss. The three views of concealment's source remain
-separate reported positions.
+separate reported positions. The unpunctuated `kaukṛtyaṃ ca`
+after the restriction on afflicted sleepiness is read as
+applying that restriction to remorse too; this division is
+interpretive, not a change to the witness.
 
 **Organon reconstruction.** The identity and local
 definition of an affliction can be recorded even when its
@@ -130,8 +125,9 @@ afflictions or any implemented graph.
 
 ## 6. Review Status
 
-Provisional. All fragments of 5.48, the intervening
-definitions, and the boundary with 5.49 were checked
-against the running IAST source. The anomalous forms and
-the known/unknown qualification remain for philological
-review.
+Coverage checked against the complete unit [312|14–313|05]:
+all verse fragments, intervening definitions, reported views,
+and derivative explanations are translated. The Sanskrit block
+matches the working witness after page labels and the verse tag
+are removed. The next verse begins at [313|06–07]. The anomalous
+forms and known/unknown qualification remain for textual review.

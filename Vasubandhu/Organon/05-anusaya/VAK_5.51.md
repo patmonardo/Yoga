@@ -137,7 +137,7 @@ The source-relation assigned to crookedness. The Bhāṣya restates it as
 
 **`Śāṭhya` — crookedness or duplicity**
 
-Crookedness of mind preventing disclosure of matters as they are. Its class,
+Crookedness of Consciousness preventing disclosure of matters as they are. Its class,
 operation, and origin are now all stated on separate textual grounds.
 
 **The five twofold factors**
@@ -241,7 +241,7 @@ view. The official study does not add that doctrinal opposition is necessarily
 experienced as personal attack or that crookedness is always strategic
 self-presentation; those mechanisms are not supplied here.
 
-**Organon interpretation.** The Dataset must reify the contextual assertion:
+**Organon interpretation.** A proposed Dataset would record the contextual assertion:
 
 ```text
 AbandonmentAssertion

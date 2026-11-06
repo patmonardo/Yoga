@@ -12,35 +12,31 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    kaukṛtyaṃ vicikitsātaḥ kodherṣye pratighānvaye.
-
-pratighasamutthe ity ete ca daśa kleśaniḥṣyandā
-upakleśāḥ.
-
-    anye ca ṣaṭkleśamalāḥ.
-
+kaukṛtyaṃ vicikitsātaḥ kodherṣye pratighānvaye /
+pratighasamutthe ityete ca daśa kleśaniḥṣyandā upakleśāḥ /
+anye ca ṣaṭkleśamalāḥ
 tadyathā
-
-    māyā śāṭhyaṃ madas tathā.
+māyā śāṭhyaṃ madastathā //
 ```
 
 The complete 5.49 unit is [313|06–11] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next line,
 `pradāśa upanāhaś ca vihiṃsā ceti` at [313|12], is
-the first part of the distributed 5.50 verse. Word
-division and punctuation are editorial. The running source
+the first part of the distributed 5.50 verse. The Sanskrit
+block retains the working witness's spelling and punctuation;
+only page labels and the verse tag are omitted. The running source
 has `kodherṣye`, whereas the official Kārikā prints
 `krodherṣye`; the prose's `pratighasamutthe` secures the
 local meaning while leaving the spelling for review.
 
 ## 3. Continuous Translation
 
-Remorse arises from doubt. Anger and envy belong to
-hostility; the prose explains that they arise from it.
-These complete the ten upakleśas that are derivatives of
-kleśas. There are also six other afflictive stains. Which
-ones? Deceit, crookedness, intoxication, and—as the next
-verse continues—three more.
+Remorse is from doubt; anger and envy belong to hostility's
+lineage. The prose explains that these two arise from
+hostility and that these ten are secondary afflictions
+derivative of afflictions. There are also six other stains
+of affliction. Which ones? Deceit, crookedness, and
+intoxication as well.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -77,8 +73,9 @@ movement, separate from any implemented model.
 
 ## 6. Review Status
 
-Provisional. The verse and its boundary at [313|11] were
-checked against the running IAST source. An earlier draft
-assigned [313|12–16] to 5.49; those lines have been moved
-to 5.50, where the running verse resumes. `Kodherṣye`
-remains for philological review.
+Coverage checked against the complete unit [313|06–11]:
+the two distributed verse fragments, the gloss of hostility's
+lineage, the tenfold closure, and the opening of the six stains
+are translated. The Sanskrit block matches the working witness
+after page labels and the verse tag are removed. The continuation
+at [313|12] begins 5.50; `kodherṣye` remains for textual review.

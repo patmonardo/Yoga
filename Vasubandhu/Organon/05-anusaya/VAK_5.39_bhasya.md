@@ -6,24 +6,20 @@
 > anubadhnanti yasmāc ca tasmād anuśayāḥ smṛtāḥ || 5.39 ||
 
 > These are subtle and accompany through acquisition; they lie along in two
-> ways, through object-support and conjunction. Because they continue to
+> ways, through Support and conjunction. Because they continue to
 > bind, they are called anuśayas.
 
 ## 2. Continuous Sanskrit
 
 ```iast
-atha ko 'yam anuśayārthaḥ kaś ca yāvad upādānārthaḥ?
-
-    aṇavo 'nugatāś caite dvidhā cāpy anuśerate |
-    anubadhnanti yasmāc ca tasmād anuśayāḥ smṛtāḥ.
-
-tatrāṇavaḥ sūkṣmapracāratvāt durvijñānatayā.
-anugatāḥ prāptyanuṣaṅgataḥ.
-anuśerate dvābhyāṃ prakārābhyām ālambanataḥ
-saṃprayogataś ca.
-anubadhnanty aprayogeṇa prativārayato 'pi punaḥ
-punaḥ saṃmukhībhāvāt.
-ebhiḥ kāraṇair anuśayā ucyante.
+atha ko 'yamanuśayārthaḥ kaśca yāvadupādānārthaḥ /
+aṇavo 'nugatāścaite dvidhā cāpyanuśerate /
+anubadhnanti yasmācca tasmādanuśayāḥ smṛtāḥ //
+tatrāṇavaḥ sūkṣmapracāratvāt durvijñānatayā /
+anugatāḥ prāptyanuṣaṅgataḥ /
+anuśerate dvābhyāṃ prakārābhyāmālambanataḥ saṃprayogataśca /
+anubadhnantyaprayogeṇa prativārayato 'pi punaḥ punaḥ saṃmukhībhāvāt /
+ebhiḥ kāraṇairanuśayā ucyante /
 ```
 
 This unit runs [308|08–13] in
@@ -31,7 +27,9 @@ This unit runs [308|08–13] in
 [308|08] launches an explanation of the names through
 *upādāna*; 5.39 answers its first part. The verse at
 [308|14–15] begins the remaining explanations in 5.40.
-Word division and punctuation are editorial.
+The Sanskrit block retains the working witness's spelling
+and punctuation; page labels and the verse tag alone are
+omitted.
 
 ## 3. Continuous Translation
 
@@ -41,10 +39,10 @@ lie along in two ways. Because they continue to bind, they
 are called anuśayas.”
 
 They are subtle because their operation is fine and they are
-difficult to discern. They accompany because they are
-associated with acquisition or possession (*prāpti*). They
-lie along in two ways: by relation to an object (*ālambana*)
-and by conjunction (*saṃprayoga*). They continue to bind
+difficult to discern. They accompany through connection with
+acquisition or possession (*prāpti*). They lie along in two
+ways: by Support (*ālambana*) and by conjunction
+(*saṃprayoga*). They continue to bind
 because, without deliberate application and even when one
 tries to restrain them, they repeatedly become manifest.
 For these reasons they are called anuśayas.
@@ -58,23 +56,21 @@ a single synonym for “latent”:
 |---|---|
 | `aṇavaḥ` | Subtle operation and difficulty of discernment |
 | `anugatāḥ` | Association with `prāpti` |
-| `dvidhā anuśerate` | Object relation and conjunction |
+| `dvidhā anuśerate` | Support relation and conjunction |
 | `anubadhnanti` | Repeated manifestation without deliberate application, even under attempted restraint |
 
 `Prāptyanuṣaṅga` supplies the technical ground for
 accompaniment. It should not be replaced by an unspecified
 psychological habit. The two ways of `anuśayana` also remain
-distinct: an object of an affliction is one relation; the
-factors conjoined in an occurrence are another. Neither
+distinct: a Support relation is one; conjunction is another. Neither
 relation alone says that the affliction is continuously
 manifest.
 
 The recurrence clause is practical and temporal. An
 anuśaya may come to presence (`saṃmukhībhāva`) again
 without a new deliberate effort and despite attempted
-restraint. Thus present nonmanifestation and successful
-restraint of an episode do not by themselves establish the
-abandonment of what continues to bind. The passage does not
+restraint. Attempted restraint does not itself show that
+continued binding has ended. The passage does not
 here specify all conditions for that renewed manifestation;
 5.34 treated conditions for arising separately.
 
@@ -91,7 +87,7 @@ restraint. `Saṃmukhībhāva` names becoming present, not the
 entire enduring status of an anuśaya.
 
 **Organon reconstruction.** For the Science of Citta, the
-passage suggests keeping possession, object relation,
+passage suggests keeping possession, Support relation,
 conjunction, manifestation, and restraint as separate
 determinations. Recurrence supplies evidence of a still
 effective afflictive ground, while the manifest episode
@@ -101,6 +97,9 @@ Kośa's `prāpti` doctrine or a claim of implementation.
 
 ## 6. Review Status
 
-Provisional. The opening question, complete verse,
-four prose explanations, and boundary with 5.40 were
-checked against the running IAST source.
+Coverage checked against the full running-source unit
+[308|08–13]: the opening question, complete verse, four
+prose explanations, and closing sentence are translated.
+The Sanskrit block matches the working witness after
+removing page labels and the verse tag. The verse at
+[308|14–15] begins 5.40.

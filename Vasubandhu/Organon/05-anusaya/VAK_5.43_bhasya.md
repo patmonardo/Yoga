@@ -12,49 +12,37 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-punar anyatra bhagavatā saṃyojanam uktaṃ
-
-    pañcadhā 'varabhāgīyaṃ.
-
-tadyathā satkāyadṛṣṭiḥ śīlavrataparāmarśo
-vicikitsā kāmacchando vyāpāda iti.
-kasmād etānv avarabhāgīyāny ucyante?
-avarabhāgahitatvāt. avaro hi bhāgaḥ kāmadhātur
-etāni ca tasyānuguṇāni. yasmāt
-
-    dvābhyāṃ kāmānatikramaḥ |
-    tribhis tu punarāvṛttiḥ.
-
-kāmacchandavyāpādābhyāṃ kāmadhātuṃ nātikrāmati.
-satkāyadṛṣṭyādibhir atikrānto 'pi punarāvartyate
-dauvārikānucarasādharmyāt.
-tribhiḥ sattvāvaratāṃ nātikrāmati pṛthagjanatvaṃ,
-dvābhyāṃ dhātvavaratāṃ kāmadhātum.
-ata eva tāny avarabhāgīyānīty apare.
-
-yadā srota āpannasya paryādāya trisaṃyojana-
-prahāṇāt ṣaṭkleśāḥ prahīṇāḥ kimarthaṃ tisro
-dṛṣṭīr apahāya trayam evāha satkāyadṛṣṭiṃ
-śīlavrataparāmarśaṃ vicikitsāṃ ca?
-sarvam etad vaktavyaṃ syāt. kiṃ tūktam
-
-    mukhamūlagrahāt trayam.
-
-triprakārāḥ kila kleśā ekaprakārā dviprakārāś
-catuprakārāś ca. teṣām ebhis tribhir mukhaṃ
-gṛhītam iti. api cāntagrāhadṛṣṭiḥ
-satkāyadṛṣṭipravartitā. dṛṣṭiparāmarśaḥ
-śīlavrataparāmarśapravartitaḥ,
-mithyādṛṣṭir vicikitsāpravatitā.
-mūlaṃ gṛhītam iti.
+punaranyatra bhagavatā saṃyojanamuktam
+pañcadhā 'varabhāgīyaṃ
+tadyathā satkāyadṛṣṭiḥ śīlavrataparāmarśo vicikitsā kāmacchando vyāpāda iti /
+kasmādetānvavarabhāgīyānyucyante /
+avarabhāgahitatvāt /
+avaro hi bhāgaḥ kāmadhāturetāni ca tasyānuguṇāni /
+yasmāt /
+dvābhyāṃ kāmānatikramaḥ /
+tribhistu punarāvṛttiḥ
+kāmacchandavyāpādābhyāṃ kāmadhātuṃ nātikrāmati /
+satkāyadṛṣṭyādibhiratikrānto 'pi punarāvartyate dauvārikānucarasādharmyāt /
+tribhiḥ sattvāvaratāṃ nātikrāmati pṛthagjanatvaṃ dvābhyāṃ dhātvavaratāṃ kāmadhātum /
+ata eva tānyavarabhāgīyānītyapare /
+yadā srota āpannasya paryādāya trisaṃyojanaprahāṇāt ṣaṭkleśāḥ prahīṇāḥ kimarthaṃ tisro dṛṣṭīrapahāya trayamevāha satkāyadṛṣṭiṃ śīlavrataparāmarśaṃ vicikitsāṃ ca /
+sarvametadvaktavyaṃ syāt /
+kiṃ tūktaṃ
+mukhamūlagrahāttrayam //
+triprakārāḥ kila kleśā ekaprakārā dviprakārākścatuprakārākśca /
+teṣāmebhistribhirmukhaṃ gṛhītamiti /
+apicāntagrāhadṛṣṭiḥ satkāyadṛṣṭipravartitā /
+dṛṣṭiparāmarśaḥ śīlavrataparāmarśapravartitaḥ mithyādṛṣṭirvicikitsāpravatitā /
+mūlaṃ gṛhītamiti /
 ```
 
 The unit runs [309|24–310|16] in
 `Vasubandhu/Sources/kosabhasya.txt`. At [310|17],
-`apare punar āhuḥ` introduces the alternative argument of
-5.44. The Kārikā is distributed across the prose. Word
-division and punctuation are editorial. The running text's
-`etānv` and `vicikitsāpravatitā` are retained for later
+`apare punarāhuḥ` introduces the alternative argument of
+5.44. The Kārikā is distributed across the prose. The
+Sanskrit block retains the working witness's spelling and
+punctuation; page labels and the verse tag alone are omitted.
+The forms `etānv` and `vicikitsāpravatitā` remain open for
 textual review.
 
 ## 3. Continuous Translation
@@ -79,8 +67,8 @@ fetters abandons six afflictions, why are only personality
 view, grasping at discipline and observance, and doubt
 named, with three further views omitted? All six might
 have been named. The answer is: the three are named because
-the entrances and roots are taken. The afflictions are said
-to occur in onefold, twofold, and fourfold kinds; these
+the entrances and roots are taken. The afflictions, it is
+said, fall into three patterns: onefold, twofold, and fourfold; these
 three take the entrances to those kinds. Moreover, extreme
 view is set in motion by personality view, grasping at views
 by grasping at discipline and observance, and false view by
@@ -139,7 +127,11 @@ and from any implemented model.
 
 ## 6. Review Status
 
-Provisional. The complete distributed verse and its
-boundary with 5.44 were checked against the running IAST
-source. The onefold/twofold/fourfold grouping and damaged
-forms need philological review.
+Coverage checked against the complete source unit
+[309|24–310|16], including each segment of the distributed
+verse, both accounts of “lower,” the stream-entry question,
+and the three root relations. The Sanskrit block matches the
+working witness after removing page labels and the verse tag.
+The onefold/twofold/fourfold grouping and witness anomalies
+remain open for philological review. The next unit begins at
+[310|17].

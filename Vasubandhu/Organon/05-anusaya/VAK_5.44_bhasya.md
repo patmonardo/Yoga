@@ -11,28 +11,25 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-apare punar āhuḥ:
-
-    agantukāmatā mārgavibhramo mārgasaṃśayaḥ |
-    ity antarāyā mokṣasya gamane 'tas trideśanā.
-
-trayo 'ntarāyā deśāntaragamane bhavanti:
-agantukāmatā, mārgavibhramo 'nyamārga-
-saṃśrayaṇāt, mārgasaṃśayaś ca.
-evaṃ mokṣagamane 'py eta eva trayo 'ntarāyāḥ.
-tatra satkāyadṛṣṭyā mokṣād utrāsam āpannasya
-agantukāmatā bhavati. śīlavrataparāmarśena
-anyamārgasaṃśrayaṇān mokṣavibhramaḥ.
-vicikitsayā mārgasaṃśayaḥ.
-eṣāṃ mokṣagamanāntarāyāṇāṃ prahāṇaṃ dyotayan
-bhagavān kleśatrayasyaiva prahāṇaṃ deśitavān.
+apare punarāhuḥ /
+agantukāmatāmārgavibhramo mārgasaṃśayaḥ /
+ityantarāyā mokṣasya gamane 'tastrideśanā //
+trayo 'ntarāyā deśāntaragamane bhavanti /
+agantukāmatā mārgavibhramo 'nyamārgasaṃśrayaṇāt mārgasaṃśayaśca /
+evaṃ mokṣagamane 'pyeta eva trayontarāyāḥ /
+tatra satkāyadṛṣṭyā mokṣādutrāsamāpannasyāgantukāmatā bhavati /
+śīlavrataparāmarśenānyamārgasaṃśrayaṇānmokṣavibhramaḥ /
+vicikitsayā mārgasaṃśayaḥ /
+eṣāṃ mokṣagamanāntarāyāṇāṃ prahāṇaṃ dyotayan bhagavān kleśatrayasyaiva prahāṇaṃ deśitavān /
 ```
 
 The unit runs [310|17–311|06] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next sentence at
-[311|06] opens the five higher fetters of 5.45. Word
-division and punctuation are editorial. The opening
-`apare punar āhuḥ` attributes this explanation to “others.”
+[311|06] opens the five higher fetters of 5.45. The
+Sanskrit block retains the working witness's spelling and
+punctuation; page labels and the verse tag alone are omitted.
+The opening `apare punarāhuḥ` attributes this explanation
+to “others.”
 
 ## 3. Continuous Translation
 
@@ -95,6 +92,9 @@ unattributed doctrinal claims.
 
 ## 6. Review Status
 
-Provisional. The complete attributed explanation and its
-boundary with 5.45 were checked against the running IAST
-source.
+Coverage checked against the complete unit [310|17–311|06]:
+the attributed verse, ordinary travel analogy, three
+correspondences, and purpose clause are translated. The
+Sanskrit block matches the working witness after removing
+page labels and the verse tag. The next sentence at [311|06]
+begins 5.45.

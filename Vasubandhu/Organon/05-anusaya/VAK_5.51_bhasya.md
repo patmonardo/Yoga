@@ -13,33 +13,28 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    dṛṣṭyāmarśāt pradāśas tu śāṭhyaṃ dṛṣṭisamutthitam.
-
-"kiṃ kuṭilaṃ pāpikā dṛṣṭir iti" gāthāvacanād yujyate.
-śāṭhyaṃ dṛṣṭiniḥṣyandaḥ.
-
-ka eṣāṃ kiṃprahātavyaḥ?
-yāni tāvad daśa paryavasthānāny uktāni
-
-    tatrāhlīkyānapatrāpyastyānamiddhoddhavā dvidhā.
-
-ete pañca dharmā dvividhā darśanabhāvanāprahātavyā
-ubhayaprakārakleśasaṃprayogāt.
-yaś ca yad darśanaheya-saṃprayuktaḥ sa tad darśana-
-prahātavyaḥ.
+dṛṣṭyāmarśāt pradāśastu śāṭhyaṃ dṛṣṭisamutthitam /
+"kiṃ kuṭilaṃ pāpikā dṛṣṭiriti" gāthāvacanād yujyate /
+śāṭhyaṃ dṛṣṭiniḥṣyandaḥ /
+ka eṣāṃ kiṃprahātavyaḥ /
+yāni tāvat daśa paryavasthānānyuktāni
+tatrāhlīkyānapatrāpyastyānamiddhoddhavā dvidhā //
+ete pañca dharmā dvividhā darśanabhāvanāprahātavyā ubhayaprakārakleśasaṃprayogāt /
+yaśca yaddarśanaheyasaṃprayuktaḥ sa taddarśanaprahātavyaḥ /
 ```
 
 The unit runs [314|01–07] in
 `Vasubandhu/Sources/kosabhasya.txt`. The verse's two
 halves are separated by prose and a new question.
-The quotation at [314|08] opens 5.52. Word division and
-punctuation are editorial. The running verse has
+The verse fragment at [314|08] opens 5.52. The Sanskrit block
+retains the working witness's spelling and punctuation; only
+page labels and the verse tag are omitted. The running verse has
 `āhlīkya` and `uddhava`; the official Kārikā study
 prints `āhrīkya` and also `uddhava`.
 
 ## 3. Continuous Translation
 
-Obstinate fault-clinging arises from grasping at view,
+Obstinate fault-clinging, however, arises from grasping at view,
 while crookedness arises from view. The latter is fitting
 in light of a stanza asking, “What is crooked? An evil
 view.” Crookedness is a derivative of view.
@@ -96,7 +91,10 @@ an implemented data model.
 
 ## 6. Review Status
 
-Provisional. Both parts of the distributed verse, the
-intervening transition, and the boundary with 5.52 were
-checked against the running IAST source. The `āhlīkya`
-and `uddhava` forms remain for textual review.
+Coverage checked against the complete unit [314|01–07]:
+both verse fragments, the stanza citation, the new question,
+the fivefold explanation, and the specific seeing rule are
+translated. The Sanskrit block matches the working witness
+after page labels and the verse tag are removed. The next
+verse begins at [314|08]; `āhlīkya` and `uddhava` remain
+for textual review.

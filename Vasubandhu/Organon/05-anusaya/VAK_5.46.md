@@ -15,8 +15,9 @@ kleśebhyas te 'py upakleśās te tu na kleśa-saṃjñitāḥ || 5.46 ||
 ```
 
 VAK 5.46 begins the `upakleśa` discussion after VAK 5.45 completes the
-fetter and bond classifications. The Bhāṣya establishes `upakleśa` as a broad
-mind-defiling designation that includes every kleśa as well as additional
+fetter and bond classifications. The closing 5.45 Bhāṣya establishes
+`upakleśa` as a broad Consciousness-afflicting designation that includes
+every kleśa; 5.46 identifies additional
 afflicted mental factors.
 
 ## 3. Lexical Analysis
@@ -30,7 +31,7 @@ afflicted mental factors.
 | `kliṣṭāḥ` | nominative plural masculine | afflicted or defiled |
 | `saṃskāra-skandha-saṃjñitāḥ` | nominative plural masculine compound | designated as included in the Base of formations |
 | `kleśebhyaḥ` | ablative plural masculine | apart from or other than the kleśas |
-| `upakleśāḥ` | nominative plural masculine | mind-defilements or secondary afflictions |
+| `upakleśāḥ` | nominative plural masculine | secondary afflictions, including factors beyond the kleśas |
 | `tu` | adversative particle | but, however |
 | `na kleśa-saṃjñitāḥ` | negation with nominative plural compound | not designated as kleśas |
 
@@ -77,9 +78,9 @@ ye yāvat kleśāḥ
         cittopakleśanāt
 ```
 
-Whatever factors are kleśas are also upakleśas because they defile consciousness. This
-statement controls the class relation and prevents treating the two terms as
-disjoint.
+Whatever factors are kleśas are also upakleśas because they afflict
+Consciousness. This statement closes the 5.45 Bhāṣya; it controls the class
+relation but is not part of the 5.46 Sanskrit unit.
 
 ## 5. Translation
 
@@ -97,9 +98,9 @@ disjoint.
 
 ## 6. Philosophical Translation
 
-> The afflicted field does not divide into two mutually exclusive classes of
-> roots and derivatives. `Upakleśa` first names the broader function of
-> defiling consciousness: every kleśa therefore satisfies it. Yet the same functional
+> The afflicted field does not divide into two mutually exclusive classes.
+> `Upakleśa` names the broader function of afflicting Consciousness: every
+> kleśa therefore satisfies it. Yet the same functional
 > extension also contains afflicted mental factors that lack the stricter
 > doctrinal status named by `kleśa`. Inclusion under a broad operative
 > predicate does not erase difference under a narrower classifier. Nor does
@@ -115,17 +116,17 @@ in later verses.
 **`Kleśa` — affliction**
 
 The stricter doctrinal class established earlier in the chapter. The Bhāṣya
-states that every kleśa also counts as an upakleśa under the mind-defiling
+states that every kleśa also counts as an upakleśa under the Consciousness-afflicting
 function.
 
-**`Upakleśa` — mind-defilement or secondary affliction**
+**`Upakleśa` — secondary affliction**
 
-A broader functional designation grounded in `cittopakleśana`, defiling consciousness.
+A broader functional designation grounded in `cittopakleśana`, afflicting Consciousness.
 “Secondary affliction” remains a useful conventional rendering only if it does
 not imply that all upakleśas are non-kleśas or that the term itself encodes
 causal derivation.
 
-**`Cittopakleśana` — defiling or disturbing consciousness**
+**`Cittopakleśana` — afflicting Consciousness**
 
 The Bhāṣya's explicit reason why kleśas themselves fall within the broader
 upakleśa class.
@@ -149,14 +150,14 @@ designation `kleśa`.
 
 **`Kṣudravastuka` — Minor Topics**
 
-The textual or doctrinal source to which the Bhāṣya assigns the fuller
-inventory of these additional upakleśas. Chapter 5 deliberately treats only a
-selected portion.
+The text in which, according to the Bhāṣya, these additional upakleśas
+are listed. This passage selects only a portion for discussion.
 
-**`Paryavasthāna` — enveloping manifestation**
+**`Paryavasthāna` — envelopment**
 
 One of the two locally selected subgroups to be explained next, beginning in
-VAK 5.47.
+VAK 5.47. The 5.46 prose reads `paryasthāna` in the working witness; the
+next question reads `paryavasthāna`.
 
 **`Kleśa-mala` — afflictive stain**
 
@@ -169,7 +170,7 @@ The Bhāṣya establishes an inclusion without equivalence:
 
 ```text
 Kleśa(x)
-    → DefilesConsciousness(x)
+    → AfflictsConsciousness(x)
     → Upakleśa(x)
 
 Upakleśa(x)
@@ -218,7 +219,7 @@ discussion.
 
 ```text
 all kleśas are upakleśas
-    because all defile consciousness
+    because all afflict Consciousness
 
 some upakleśas are not kleśas
     because additional afflicted caitasikas share that function
@@ -242,13 +243,13 @@ KleśaView
     classifier: stricter doctrinal status
 
 UpakleśaView
-    classifier: mind-defiling function
+    classifier: Consciousness-afflicting function
 
 ChapterFiveScope
     projection: paryavasthāna and kleśa-mala subsets
 ```
 
-The Dataset must preserve both membership and the reason for membership. This
+The proposed Dataset would preserve both membership and the reason for membership. This
 is an Organon architectural consequence of the Bhāṣya's classifications, not
 an attempt to replace Abhidharma terminology with software ontology.
 
@@ -258,10 +259,12 @@ an attempt to replace Abhidharma terminology with software ontology.
 Class: MentalFactor
 Class: AfflictedMentalFactor
     SubClassOf: MentalFactor
-Class: Klesa
-    SubClassOf: AfflictedMentalFactor
 Class: Upaklesa
+Class: Klesa
+    SubClassOf: Upaklesa
+Class: AdditionalUpaklesa
     SubClassOf: AfflictedMentalFactor
+    SubClassOf: Upaklesa
 Class: SamskaraBaseMember
 Class: Paryavasthana
     SubClassOf: Upaklesa
@@ -281,18 +284,14 @@ ObjectProperty: selectedByScope
     Domain: DiscussionScope
     Range: AfflictedMentalFactor
 
-DataProperty: defilesConsciousness
+DataProperty: afflictsConsciousness
     Domain: MentalFactor
     Range: Boolean
-
-Rule: Klesa(?x)
-    AND defilesConsciousness(?x, true)
-    -> Upaklesa(?x)
 
 Rule: AfflictedMentalFactor(?x)
     AND includedInBase(?x, SamskaraBase)
     AND NotDesignatedAs(?x, Klesa)
-    -> Upaklesa(?x)
+    -> AdditionalUpaklesa(?x)
 
 Constraint: Upaklesa(?x)
     doesNotEntail NotDesignatedAs(?x, Klesa)
@@ -302,7 +301,7 @@ Constraint: DistinctFromClass(?x, Klesa)
 
 View: ChapterFiveUpaklesaSelection
     Scope: {Paryavasthana, KlesaMala}
-    Preserves: FactorIdentity, BaseMembership, DefilingFunction,
+    Preserves: FactorIdentity, BaseMembership, ConsciousnessAffliction,
                DoctrinalDesignation, SourceReference, ScopeProvenance
 ```
 

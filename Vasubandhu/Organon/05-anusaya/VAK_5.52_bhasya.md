@@ -14,31 +14,21 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    tadanye bhāvanāheyāḥ.
-
-tebhyo 'nye paryavasthānasaṃgṛhītā upakleśā
-bhāvanāheyā eva. irṣyāmātsaryakaukṛtyakrodha-
-bhrakṣāḥ svatantrāś ca. svatantrāś caite
-pañcopakleśā adhimātrasaṃprayogitvāt.
+tadanye bhāvanāheyāḥ
+tebhyo 'nye paryavasthānasaṃgṛhītā upakleśā bhāvanāheyā eva /
+irṣyāmātsaryakaukṛtyakrodhabhrakṣāḥ svatantrāśca /
+svatantrāścaite pañcopakleśā adhimātrasaṃprayogitvāt /
 yathaite īrṣyādayaḥ pañcopakleśā bhāvanāheyāḥ
-
-    svatantrāś ca tathā malāḥ.
-
-ṣaṭkleśamalās tathaiva. ete punar yathoktā
-upakleśāḥ
-
-    kāme 'śubhāḥ.
-
-kāmadhātāv akuśalāḥ. tatrāpi
-
-    trayo dvidhā.
-
-styānauddhatyamiddhāny akuśalāvyākṛtāni.
-
-    pareṇāvyākṛtās tataḥ.
-
-kāmadhātor ūrdhvam avyākṛtāḥ upakleśā
-yathāsaṃbhavam.
+svatantrāśca tathā malāḥ /
+ṣaṭkleśamalāstathaiva /
+ete punaryathoktā upakleśāḥ
+kāme 'śubhāḥ
+kāmadhātāvakuśalāḥ /
+tatrāpi
+trayo dvidhā
+styānauddhatyamiddhānyakuśalāvyākṛtāni /
+pareṇāvyākṛtāstataḥ //
+kāmadhātorurdhvamavyākṛtāḥ upakleśā yathāsaṃbhavam /
 ```
 
 The unit runs [314|08–19] in

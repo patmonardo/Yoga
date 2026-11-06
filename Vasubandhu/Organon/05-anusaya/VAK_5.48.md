@@ -38,8 +38,8 @@ into the kārikā.
 | `styāna-middha-anapatrapāḥ` | nominative plural masculine coordinative compound | torpor, sleepiness, and lack of moral concern |
 
 
-The ablatives in `rāgotthāḥ` and `avidyātaḥ` mark source-relations. The
-Bhāṣya determines these more precisely as `rāga-niḥṣyanda` and
+The compound `rāgotthāḥ` and the ablative `avidyātaḥ` mark
+source-relations. The Bhāṣya determines these more precisely as `rāga-niḥṣyanda` and
 `avidyā-niḥṣyanda`.
 
 ## 4. Grammar
@@ -143,12 +143,12 @@ a further psychological mechanism linking the two.
 
 **`Auddhatya` — excitation or restlessness**
 
-An attachment-derived upakleśa, previously defined as non-pacification of
-mind.
+An attachment-derived upakleśa, defined in this Bhāṣya unit as
+non-pacification of Consciousness.
 
 **`Mātsarya` — avarice**
 
-An attachment-derived gripping of mind opposed to giving Dharma, goods, or
+An attachment-derived gripping of Consciousness opposed to giving Dharma, goods, or
 skill.
 
 **`Styāna` — torpor**
@@ -222,7 +222,7 @@ Bhāṣya expressly calls the two triads `niḥṣyandas`, turning general
 classification into a stated genetic relation.
 
 **What VAK 5.46 did not say.** VAK 5.46 used a separative ablative and defined
-the broader upakleśa field through mind-defilement. VAK 5.48 now introduces
+the broader upakleśa field through afflicting Consciousness. VAK 5.48 now introduces
 source-derivation for specified members:
 
 ```text

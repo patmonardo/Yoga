@@ -95,8 +95,8 @@ influx.
 > not a change in the views themselves. The fuller derivation of āsrava is
 > deferred by the Bhāṣya.
 
-The verse does not introduce new dharmas. It reorganizes the same members by
-their distinct modes of efficacy.
+The verse does not introduce new dharmas. It repartitions the members of the
+earlier āsrava classification under the flood and yoke names.
 
 ## 7. Technical Vocabulary
 
@@ -114,8 +114,8 @@ This unit does not explain the name's functional force.
 **`Dṛṣṭi` — view**
 
 The thirty-six afflictive views distributed across the three domains. Their
-acute cognitive operation warrants an independent place among floods and
-yokes, but not among influxes.
+stated sharpness warrants a separate class among floods and yokes, but not
+among āsravas.
 
 **`Pāṭava` / `paṭutva` — sharpness or acuteness**
 
@@ -148,9 +148,9 @@ dṛṣṭyogha / dṛṣṭiyoga        36
 avidyaugha / avidyāyoga      15
 ```
 
-The desire group comprises fifteen instances of craving, hostility, and
+The desire group comprises fifteen instances of attachment, hostility, and
 conceit, four doubts, and ten paryavasthānas. The existence group comprises
-twenty instances of craving and conceit and eight doubts.
+twenty instances of attachment and conceit and eight doubts.
 
 ## 8. Logical Determination
 
@@ -189,11 +189,11 @@ supplying a theory of how floods or yokes operate.
 
 ## 9. Interpretive Note
 
-**Source determination.** The Bhāṣya identifies the desire- and existence-
-influxes with the corresponding floods and yokes only after removing views.
-It then establishes the thirty-six views as their own flood and yoke. In the
-influx taxonomy, those same views are mixed with other afflictions because
-they do not independently meet the operative criterion.
+**Source determination.** The Bhāṣya identifies the desire and existence
+āsravas with the corresponding floods and yokes, subject to the explicit
+exception for views. It then establishes the thirty-six views as their own
+flood and yoke. In the āsrava taxonomy, those same views are counted in
+mixture because unaided views are said to be unsuited to settling.
 
 **One ground, different placements.** `Pāṭava` has different stated
 consequences in these classifications:

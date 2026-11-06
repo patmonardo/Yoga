@@ -12,72 +12,55 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    yathoktā eva sā 'vidyā dvidhā dṛṣṭivivecanāt |
-    upādānāni.
-
-kāmayoga eva sahāvidyayā kāmopādānaṃ catustriṃśad
-dravyāṇi. rāgapratighamānā 'vidyā viṃśatir,
-vicikitsāś catasro, daśa paryavasthānāni.
-bhavayoga eva sahāvidyayā ātmavādopādānam
-aṣṭatriṃśad dravyāṇi. rāgamānāvidyās triṃśad,
-vicikitsā aṣṭau. dṛṣṭiyogāc chīlavrataṃ niṣkṛṣya
-dṛṣṭyu pādānaṃ triṃśad dravyāṇi.
-śīlavratopādānaṃ ṣaḍ dravyāṇi karmadṛṣṭibhyo
-niṣkṛṣṭam. mārgapratidvandvitvād
-ubhayapakṣavipralambhanāc ca. gṛhiṇo 'py anena
-vipralabdhā anaśanādibhiḥ svargamārgasaṃjñayā,
-pravrajitā apīṣṭaviṣayaparivarjanena
-śuddhipratyāgamanād iti.
-
-kiṃ kāraṇam avidyāṃ miśrayitvopādānam uktaṃ na pṛthak?
-bhavagrahaṇād upādānāni.
-
-    avidyā tu grāhikā neti miśritā.
-
-asaṃprakhyānalakṣaṇatayā 'paṭutvād avidyā na
-grāhikā bhavaty ataḥ kila miśritā.
-
-sūtre tu bhagavatoktaṃ "kāmayogaḥ katamaḥ?
-vistareṇa yāvad yo 'sya bhavati kāmeṣu kāmarāgaḥ
-kāmacchandaḥ kāmasnehaḥ kāmaprema kāmecchā
-kāmamūrcchā kāmagṛddhaḥ kāmaparigarddhaḥ
-kāmanandī kāmaniyantiḥ kāmādhyavasānaṃ
-tadanyacittam paryādāya tiṣṭhati. ayam ucyate
-kāmayogaḥ. evaṃ yāvad bhavayogaḥ".
-cchandarāgaś copādānam uktaṃ sutrāntareṣv ato
-vijñāyate kāma hy upādānam api kāmādiṣu
-cchandarāga iti.
-
-uktam idam anuśayā evāsravaughayogopādāna-
-saṃśabditāḥ sūtreṣv iti.
+yathoktā eva sā 'vidyā dvidhā dṛṣṭivivecanāt /
+upādānāni
+kāmayoga evasahāvidyayā kāmopādānaṃ catustriṃśaddravyāṇi /
+rāgapratighamānā 'vidyāviṃśatirvicikitsāścatasro daśa paryavasthānāni /
+bhavayoga eva sahāvidyayā ātmavādopādānamaṣṭatriṃśaddravyāṇi /
+rāgamānāvidyāstriṃśadvicikitsā aṣṭau /
+dṛṣṭiyogācchīlavrataṃ niṣkṛṣya dṛṣṭyu pādānaṃ triṃśaddravyāṇi /
+śīlavratopādānaṃ ṣaḍdravyāṇi karmadṛṣṭibhyo niṣkṛṣṭam /
+mārgapratidvandvitvā dubhayapakṣavipralambhanācca /
+gṛhiṇo 'pyanena vipralabdhā anaśanādibhiḥ svargamārgasaṃjñayā pravrajitā apīṣṭaviṣayaparivarjanena śuddhipratyāgamanāditi /
+kiṃ kāraṇamavidyāṃ miśrayitvopādānamuktaṃ na pṛthak /
+bhavagrahaṇādupādānāni /
+avidyā tu grāhikā neti miśritā //
+asaṃprakhyānalakṣaṇatayā 'paṭutvādavidyā na grāhikā bhavatyataḥ kila miśritā /
+sūtre tu bhagavatoktaṃ "kāmayogaḥ katamaḥ /
+vistareṇa yāvadyo 'sya bhavati kāmeṣu kāmarāgaḥ kāmacchandaḥ kāmasnehaḥ kāmaprema kāmecchā kāmamūrcchā kāmagṛddhaḥ kāmaparigarddhaḥ kāmanandī kāmaniyantiḥ kāmādhyavasānaṃ tadanyacittam paryādāya tiṣṭhati /
+ayamucyate kāmayogaḥ /
+evaṃ yāvadbhavayogaḥ" /
+cchandarāgaścopādānamuktaṃ sutrāntareṣvato vijñāyate kāma hyupādānamapi kāmādiṣu cchandarāga iti /
+uktamidamanuśayā evāsravaughayogopādānasaṃśabditāḥ sūtreṣviti /
 ```
 
 The unit runs [307|13–308|07] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question at
 [308|08] opens the explanation of the names beginning with
-5.39. Word division and punctuation are editorial. The
-running source has `sā 'vidyā`, `dṛṣṭyu pādānaṃ`, and
-`karmadṛṣṭibhyo`; their form or segmentation remains open
-for textual review. The official Kārikā witness prints
-`sāvidyā`.
+5.39. The Sanskrit block retains the running witness's
+spelling and punctuation; page labels and the verse tag alone
+are omitted. The witness's `sā 'vidyā`, `dṛṣṭyu pādānaṃ`,
+`karmadṛṣṭibhyo`, and compact sūtra wording remain open for
+textual review. The official Kārikā witness prints `sāvidyā`.
 
 ## 3. Continuous Translation
 
-The yokes already stated, together with ignorance, are the
-appropriations, while the views are divided in two. The
-desire yoke with ignorance is desire appropriation, comprising
-thirty-four factors: twenty instances of craving, hostility,
+The previously stated yokes, with ignorance included, become
+appropriations when the views are divided in two. The desire
+yoke together with ignorance is desire appropriation, comprising
+thirty-four factors: twenty instances of attachment, hostility,
 conceit, and ignorance; four of doubt; and ten envelopments.
-The existence yoke with ignorance is appropriation of the
-self doctrine, comprising thirty-eight: thirty instances of
-craving, conceit, and ignorance, and eight of doubt. Once
+The existence yoke together with ignorance is self-doctrine
+appropriation, comprising thirty-eight: thirty instances of
+attachment, conceit, and ignorance, and eight of doubt. After
 discipline and observance is extracted from the view yoke,
-view appropriation has thirty factors. Appropriation of
-discipline and observance has six, extracted from the views.
-This last class stands apart because it opposes the Path and
-deceives both groups: householders regard fasting and similar
-acts as a path to heaven, while renunciants expect purification
-from avoiding desired objects.
+view appropriation has thirty factors. Discipline-and-observance
+appropriation has six factors, extracted from the action-views
+(`karmadṛṣṭibhyo`, a reading requiring textual review). It is
+separated because it opposes the Path and deceives both groups:
+householders are misled by fasting and similar acts under the
+notion that they are a path to heaven; renunciants, by expecting
+purification from avoiding desired objects.
 
 Why is ignorance mixed into the appropriations rather than
 named separately? Appropriations grasp existence. Ignorance
@@ -85,16 +68,19 @@ does not grasp, so it is mixed with the others. Characterized
 by non-discernment and lacking sharpness, ignorance, it is
 said, does not function as a grasper.
 
-Yet in a sūtra the Blessed One asks, “What is desire yoke?”
-The cited description lists craving, desire, affection, love,
-longing, infatuation, greed, delight, attachment, and fixation
-concerning desires; it says this occupies and holds the other
-mind. This is called desire yoke, and the account extends to
-existence yoke. Other sūtras call desire-craving appropriation.
-From these usages, desire appropriation too is understood as
-desire-craving in regard to desires and the other objects.
-The point already made is that the very anuśayas are called
-influxes, floods, yokes, and appropriations in the sūtras.
+But in a sūtra the Blessed One says, “What is the desire yoke?
+At length, as far as: whatever attachment to desires, desire
+for them, affection for them, love for them, wish for them,
+infatuation with them, greed for them, covetous pursuit of
+them, delight in them, `kāmaniyantiḥ` [uncertain], and fixation
+on them occurs in a person, it remains having fully occupied
+that other Consciousness [the referent of `tadanyacittam` is
+uncertain]. This is called the desire yoke”; and likewise, up
+to the existence yoke. Desire-attachment is also called appropriation in other
+sūtras. Thus desire appropriation too is understood as
+desire-attachment toward desires and the like. It has been
+stated that the very anuśayas are called āsravas, floods,
+yokes, and appropriations in the sūtras.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -126,7 +112,7 @@ reported, and its force should not be overstated.
 
 The sūtra quotation adds a source-level complication:
 scriptural uses of “desire yoke” and “appropriation” can
-focus on desire-craving, whereas the scholastic enumeration
+focus on desire-attachment, whereas the scholastic enumeration
 here distributes many anuśaya factors among these headings.
 The closing sentence asserts their common anuśaya basis.
 It does not demonstrate that every use of the names has
@@ -135,27 +121,32 @@ the later textual review.
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Grāhikā` means an active grasper
-in the local explanation, while `asaṃprakhyāna` is
-non-discernment, not an absence of all causal effect.
-`Śīlavrata` refers to discipline and observance taken up as
-a means to the promised end; the error in these examples
-lies in the path claim. The quoted sūtra's `tadanyacittam`
-is left close to its wording as “the other mind”; its exact
-referent and the quotation's boundaries need source review.
+**Translation decisions.** `Grāhikā` means a grasper in the
+local explanation, while `asaṃprakhyāna` is non-discernment;
+the passage does not deny all causal effect to ignorance.
+`Śīlavrata` here names a view about discipline and observance
+as a means to the promised end. The working witness reads
+`karmadṛṣṭibhyo`, rendered provisionally “from the action-views”;
+the preceding extraction from the view yoke is clear. The
+sūtra excerpt's `vistareṇa yāvat` and `evaṃ yāvat` remain
+visible as ellipses; `kāmaniyantiḥ` and `tadanyacittam` need
+textual review before a more determinate English rendering.
 
 **Organon reconstruction.** One afflictive inventory is
-repartitioned by the relation of grasping. A factor may
-ground an operation yet lack its independent executing
-power; a practice may become afflictive through the end
-ascribed to it. Those are proposed relations for the Science
-of Citta, separate from the Kośa's explicit classifications
-and from any implemented data model.
+repartitioned by the relation of grasping. The root status of
+ignorance in 5.36 does not make it a separate grasper here;
+a view can misidentify an observance as a means to its promised
+end. These are proposed relations for the Science of Citta,
+separate from the Kośa's explicit classifications and from any
+implemented data model.
 
 ## 6. Review Status
 
-Provisional. The running-source unit was checked through
-its closing sentence at [308|07]. The anomalous forms, the
-sūtra quotation, and the relation between its narrower
-language and the 108-factor enumeration need philological
-review.
+Coverage checked against the complete running-source unit
+[307|13–308|07]; every count, example, and clause in the
+elliptical sūtra quotation is represented. The Sanskrit block
+matches the working witness after removing page labels and
+the verse tag. The anomalous forms, parts of the sūtra
+quotation, and the relation between its narrower language and
+the 108-factor enumeration remain open for philological
+review. The question at [308|08] belongs to 5.39.

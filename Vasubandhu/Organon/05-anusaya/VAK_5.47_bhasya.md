@@ -11,13 +11,11 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-kāni punaḥ paryavasthānānīty āha:
-kleśā apīha paryavasthānaṃ kāmarāga-
-paryavasthānapratyayaduḥkham iti sūtre vacanāt.
+kāni punaḥ paryavasthānānītyāha /
+kleśā apīhiparyavasthānaṃ kāmarāgaparyavasthānapratyayaduḥkhamiti sūtre vacanāt /
 prakaraṇaśāstre tu
-
-    āhlīkyam anapatrāpyam īrṣyā mātsaryam uddhavaḥ |
-    kaukṛtyaṃ styānamiddhaṃ ca paryavasthānam aṣṭadhā.
+āhlīkyamanapatrāpyamīrṣyāmātsaryamuddhavaḥ /
+kaukṛtyaṃ styānamiddhaṃ ca paryavasthānamaṣṭadhā //
 ```
 
 This unit runs [312|10–13] in
@@ -26,29 +24,29 @@ sentence about the Vaibhāṣika ten begins at [312|14]
 and continues at [312|15] with `krodhabhrakṣau ca`,
 the opening fragment of 5.48. That complete sentence and
 the following definitions belong to the next study.
-Word division and punctuation are
-editorial. The running verse reads `āhlīkyam` and
+The Sanskrit block retains the working witness's spelling and punctuation;
+only page labels and the verse tag are omitted. The running verse reads `āhlīkyam` and
 `uddhavaḥ`; the official Kārikā study prints `āhrīkyam`
 and also has `uddhavaḥ`.
 
 ## 3. Continuous Translation
 
-What are the enveloping afflictions? The term can also
-include the kleśas themselves here, since a sūtra speaks
-of suffering conditioned by the envelopment of desire.
-In the *Prakaraṇaśāstra*, however, envelopment is eightfold:
+What, then, are the envelopments? He says: even the kleśas
+are called envelopment here, since a sūtra speaks of
+“suffering conditioned by the envelopment of sensual
+attachment.” In the *Prakaraṇaśāstra*, however, envelopment
+is eightfold:
 shamelessness, lack of moral concern, envy, avarice,
-excitation, remorse, torpor, and sleepiness. The following
-passage adds the Vaibhāṣika tenfold count.
+excitation, remorse, torpor, and sleepiness.
 
 ## 4. Argument and Doctrinal Determination
 
-The passage distinguishes three **contexts of use**. The
-sūtra wording permits a kleśa such as desire itself to be
+The passage and its immediate continuation distinguish three **contexts of use**. The
+sūtra wording permits a kleśa such as sensual attachment itself to be
 called a paryavasthāna. The *Prakaraṇaśāstra* supplies the
 eight-member enumeration in this verse. The next unit gives
-a Vaibhāṣika count of ten. This is the same difference in
-comparison domain that mattered in the objection at 5.42.
+a Vaibhāṣika count of ten. The 5.47 unit itself states only
+the sūtra usage and the *Prakaraṇaśāstra* enumeration.
 
 The eight names are enumerated, not arranged into four
 explicit pairs. Nor does this passage define
@@ -78,7 +76,9 @@ one unqualified list exhausts the concept.
 
 ## 6. Review Status
 
-Provisional. The verse and its preceding sūtra comparison
-were checked against the running IAST source. The tenfold
-sentence and definitions are reserved for 5.48.
-The `āhlīkyam` and `uddhavaḥ` forms need textual review.
+Coverage checked against the complete unit [312|10–13]:
+the question, sūtra citation, attribution to the *Prakaraṇaśāstra*,
+and eightfold verse are translated. The Sanskrit block matches the
+working witness after removing page labels and the verse tag.
+The tenfold sentence begins 5.48 at [312|14]; `āhlīkyam`
+and `uddhavaḥ` remain for textual review.

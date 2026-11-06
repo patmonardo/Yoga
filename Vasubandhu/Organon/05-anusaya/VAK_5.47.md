@@ -144,7 +144,8 @@ ClassifiedAs(x, Paryavasthāna, SūtraUsage)
 
 Extension(Paryavasthāna, PrakaraṇaScheme)
     = {Āhrīkya, Anapatrāpya, Īrṣyā, Mātsarya,
-       Auddhatya, Kaukṛtya, Styāna, Middha}
+       Uddhava [identified as Auddhatya in following prose],
+       Kaukṛtya, Styāna, Middha}
 
 ```
 
@@ -185,7 +186,7 @@ Bhāṣya does not arrange the eight into four formal pairs. Nor does it define
 `paryavasthāna` as the final manifest stage of a root-to-derivative causal
 sequence. Such structures must not be presented as source doctrine.
 
-**Organon interpretation.** The Dataset should separate concept,
+**Organon interpretation.** A proposed Dataset would separate concept,
 classification scheme, and membership assertion:
 
 ```text

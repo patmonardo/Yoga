@@ -89,11 +89,11 @@ the `mukha-mūla-graha` account of VAK 5.43.
 > Liberative movement can be interrupted at three non-equivalent positions.
 > The destination can inspire refusal, a different route can replace the route
 > to that destination, or the route can remain cognitively unresolved. These
-> are not three quantities of one generic obstruction. They negate departure,
-> orientation, and determination respectively within a single movement toward
-> an end. The three fetters are thus taught together because their abandonment
-> restores the articulated possibility of going: willingness to depart,
-> fidelity to the route, and sufficient resolution concerning it.
+> are three positions of obstruction within one movement toward an end.
+> The reported account says that teaching the abandonment of the three
+> afflictions makes evident the removal of these obstacles. The Organon can
+> model willingness, route choice, and doubt as distinct relations in that
+> movement.
 
 This processual reconstruction develops the reported analogy while retaining
 its status as an alternative explanation.
@@ -290,7 +290,6 @@ Rule: DisciplineObservanceGrasping(?x)
     -> producesObstacle(?x, PathDeviation)
 
 Rule: Doubt(?x)
-    AND HasAsObject(?x, LiberativePath)
     -> producesObstacle(?x, PathDoubt)
 
 Constraint: CommonDestination(?x, ?y, Liberation)
@@ -302,5 +301,6 @@ View: ThreefoldLiberativeObstacle
                RouteRelation, PedagogicalRationale, Provenance
 ```
 
-The seed preserves the three failure-locations within one directed movement
-and records the account's attribution as a reported alternative.
+This is a project-level sketch, not executable OWL. It preserves the three
+locations of failure within one directed movement and records the account's
+attribution as a reported alternative.

@@ -12,50 +12,34 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    saṃyojanādibhedena punas te pañcadhoditāḥ.
-
-ta evānuśayāḥ punaḥ saṃyojanabandhanānuśayopakleśa-
-paryavasthānabhedena pañcadhā bhittvoktāḥ.
-tatra nava saṃyojanāny anunvayapratighamānāvidyā-
-dṛṣṭiparāmarśavicikitserṣyā mātsaryasaṃyojanāni.
-tatrānunayasaṃyojanaṃ traidhātuko rāgaḥ.
-evam anyāni yathāsaṃbhavaṃ yojyāni.
-dṛṣṭisaṃyojanaṃ tisro dṛṣṭayaḥ.
-parāmarśasaṃyojanaṃ dve dṛṣṭī.
-
-ata evocyate: syāt dṣṭisaṃprayukteṣu dharmeṣv
-anunayasaṃyojanena saṃyukto na dṛṣṭisaṃyojanena
-na ca tatra dṛṣṭyanuśayo nānuśayīta?
-āha: syāt samudayajñāne utpanne nirodhajñāne
-'nutpanne nirodhamārgadarśānaprahātavyeṣu
-dṛṣṭiśīlavrataparāmarśasaṃprayukteṣu dharmeṣu.
-teṣv anunayasaṃyojanena saṃyuktas tadālambanena
-dṛṣṭisaṃyojanenāsaṃyuktaḥ. sarvatragasya
-prahīṇatvād asarvatragasya ca tadālambana-
-saṃprayogiṇo dṛṣṭisaṃyojanasyābhāvāt.
-dṛṣṭyanuśayaś ca teṣv anuśete.
-te eva parāmarśaḍṛṣṭī saṃprayogataḥ.
-
-kiṃ punaḥ kāraṇaṃ saṃyojaneṣu tisro dṛṣṭayo
-dṛṣṭisaṃprayojanaṃ pṛthag uktaṃ dve punar dṛṣṭī
-parāmarśāsaṃyojanaṃ pṛthak?
-
-    dravyāmarśana sāmānyād dṛṣṭī saṃyojanāntaram.
-
-aṣṭādaśa dravyāṇi tisro dṛṣṭayaḥ.
-aṣṭādaśaiva dve parāmarśadṛṣṭī.
-ataḥ kila dravya sāmānyād ete saṃyojanāntaraṃ kṛte.
-ete ca dve parāmarśasvabhāvena śeṣāiti
-parāmarśanasāmānyād apy ete pṛthag vihite
-grāhyagrāhakabhedāt.
+saṃyojanādibhedena punaste pañcadhoditāḥ /
+ta evānuśayāḥ punaḥ saṃyojanabandhanānuśayopakleśaparyavasthānabhedena pañcadhā bhittvoktāḥ /
+tatra nava saṃyojanānyanunvayapratighamānāvidyādṛṣṭiparāmarśavicikitserṣyā mātsaryasaṃyojanāni /
+tatrānunayasaṃyojanaṃ traidhātuko rāgaḥ /
+evamanyāni yathāsaṃbhavam yojyāni /
+dṛṣṭisaṃyojanaṃ tisro dṛṣṭayaḥ /
+parāmarśasaṃyojanaṃ dve dṛṣṭī /
+ata evocyate syāt dṣṭisaṃprayukteṣu dharmeṣvanunayasaṃyojanena saṃyukto na dṛṣṭisaṃyojanena na ca tatra dṛṣṭyanuśayo nānuśayīta /
+āha syāt samudayajñāne utpanne nirodhajñāne 'nutpanne nirodhamārgadarśānaprahātavyeṣu dṛṣṭiśīlavrataparāmarśasaṃprayukteṣu dharmeṣu /
+teṣvanunayasaṃyojanena saṃyuktastadālambanena dṛṣṭisaṃyojanenāsaṃyuktaḥ /
+sarvatragasya prahīṇatvādasarvatragasya ca tadālambanasaṃprayogiṇo dṛṣṭisaṃyojanasyābhāvāt /
+dṛṣṭyanuśayaśca teṣvanuśete /
+te eva parāmarśaḍṛṣṭī saṃprayogataḥ /
+kiṃ punaḥ kāraṇaṃ saṃyojaneṣu tisro dṛṣṭayo dṛṣṭisaṃprayojanaṃ pṛthaguktaṃ dve punardṛṣṭī parāmarśāsaṃyojanaṃ pṛthak /
+dravyāmarśana sāmānyāddṛṣṭī saṃyojanāntaram //
+aṣṭādaśa dravyāṇi tisro dṛṣṭayaḥ /
+aṣṭādaśaiva dve parāmarśadṛṣṭī /
+ataḥ kila dravya sāmānyādete saṃyojanāntaram kṛte /
+ete ca dve parāmarśasvabhāvena śeṣāiti parāmarśanasāmānyādapyete pṛthagvihite grāhyagrāhakabhedāt /
 ```
 
 The verse and prose run [308|24–309|17] in
 `Vasubandhu/Sources/kosabhasya.txt`; the question at
-[309|18–19] begins 5.42. Word division and punctuation are
-editorial. The running source's `anunvaya`, `dṣṭi`,
+[309|18–19] begins 5.42. The Sanskrit block retains the
+working witness's spelling and punctuation; page labels and
+the verse tag alone are omitted. The forms `anunvaya`, `dṣṭi`,
 `dṛṣṭisaṃprayojana`, `parāmarśāsaṃyojana`, and
-`śeṣāiti` are retained as transmitted for textual review.
+`śeṣāiti` remain uncertain for textual review.
 The official Kārikā witness joins `dravyāmarśana-sāmānyāt`;
 the running source separates `dravyāmarśana sāmānyāt`.
 
@@ -66,7 +50,7 @@ Those same anuśayas are again divided fivefold: fetter
 affliction (*upakleśa*), and enveloping affliction
 (*paryavasthāna*). There are nine fetters: attraction,
 hostility, conceit, ignorance, view, grasping, doubt, envy,
-and avarice. The fetter of attraction is craving in the
+and avarice. The fetter of attraction is attachment in the
 three domains; the remaining terms are to be connected as
 applicable. Three views make up the view fetter; two views
 make up the grasping fetter.
@@ -78,10 +62,10 @@ lies along there? Yes. This can occur after knowledge of
 arising has appeared and before knowledge of cessation has
 appeared, with dharmas conjoined with the two grasping views
 that are to be abandoned by seeing cessation and the Path.
-Attraction binds in relation to these through taking them
-as object. The view fetter does not: its universal member
+One is bound by the attraction fetter with these as Support.
+The view fetter does not bind: its universal member
 has been abandoned, and no remaining non-universal member
-of that fetter has the required object and conjunction
+of that fetter has the required Support and conjunction
 relations. Yet a view anuśaya lies along there through
 conjunction: namely, the two grasping views themselves.
 
@@ -90,10 +74,11 @@ the other two the grasping fetter separately? “Through
 commonality of factors and of grasping, the two view groups
 are distinct fetters.” The three views comprise eighteen
 factors; so do the two grasping views. Their equal factor
-counts are given as one ground for separation. The latter
-two also share the nature of grasping, and are separately
-grouped on that ground, with a distinction between what is
-grasped and what grasps.
+counts are reported as one ground for separation. The latter
+two are distinguished from the rest by their grasping nature
+[`śeṣāiti` is uncertain]; they are also separately specified
+through commonality of grasping, because of a distinction
+between what is grasped and what grasps.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -110,7 +95,7 @@ designation is restricted here to a three-view fetter; the
 second can apply to the two grasping views conjoined with
 the dharmas in question. The distinction also depends on
 which views have already been abandoned and on the
-object and conjunction relations. The prose does not
+Support and conjunction relations. The prose does not
 license treating “view” as one unqualified predicate at
 every stage of the Path.
 
@@ -138,7 +123,7 @@ the conventional translation follows the locally coherent
 reading.
 
 **Organon reconstruction.** This passage requires a
-classification to retain its governing relation, object,
+classification to retain its governing relation, Support,
 conjunction, and Path stage. One and the same afflictive
 family can support a true view-anuśaya statement and a
 false view-fetter statement in the example's context. The
@@ -149,7 +134,10 @@ data model.
 
 ## 6. Review Status
 
-Provisional. Both halves of the distributed verse and the
-complete intervening argument were checked against the
-running IAST source. Several damaged forms and the compact
-`grāhya-grāhaka` conclusion require philological review.
+Coverage checked against the complete unit [308|24–309|17],
+including both halves of the distributed verse and the
+intervening counterexample. The Sanskrit block matches the
+working witness after removing page labels and the verse tag.
+The anomalous forms and compact `grāhya-grāhaka` conclusion
+remain open for philological review. The question at
+[309|18–19] begins 5.42.

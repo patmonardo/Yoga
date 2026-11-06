@@ -11,71 +11,69 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-yathā bhagavatā pañcavidham avarabhāgīyaṃ
-saṃyojanam uktaṃ, evaṃ punaḥ
-
-    pañcadhaivordhvabhāgīyaṃ.
-
-katham ity āha:
-
-    dvau rāgau rūpyarūpijau.
-
+yathā bhagavatā pañcavidhamavarabhāgīyaṃ saṃyojanamuktam /
+evaṃ punaḥ
+pañcadhaivordhvabhāgīyaṃ
+kathamityāha
+dvau rāgau rūpyarūpijau
 tau
-
-    auddhatyamānamohāś ca.
-
-ity etāni pañcordhvabhāgīyāni saṃyojanāni.
-tadyathā rūparāga ārūpyarāga auddhatyaṃ
-māno 'vidyā ca. eṣām aprahāṇenordhvadhātv-
-anatikramāt. samāptaḥ saṃyojanaprasaṅgaḥ.
-
-bandhanāni katamāni? trīṇi bandhanāni.
-rāgo bandhanaṃ sarvaḥ, dveṣo bandhanaṃ sarvaḥ,
-moho bandhanaṃ sarvaḥ. kasmād etad eva trayaṃ
-bandhanam uktaṃ bhagavatā?
-
-    vidvaśād bandhanatrayam.
-
-trivedanāvaśārttīṇi bandhanāni. sukhāyāṃ hi
-vedanāyāṃ rāgo 'nuśete ālambanasaṃprayogābhyām.
-duḥkhāyāṃ dveṣaḥ. aduḥkhāsukhāyāṃ moho na
-tathā rāgadveṣau. svāsāṃtanikālambanato vā niyamaḥ.
-
-anuśayāḥ pūrvam evoktāḥ. upakleśāḥ vaktavyāḥ.
-tatra ye yāvat kleśā upakleśā api te,
-cittopakleśanāt.
+auddhatyamānamohāśca
+ityetāni pañcordhvabhāgīyāni saṃyojanāni /
+tadyathā rūparāga ārūpyarāga auddhatyaṃ māno 'vidyā ca /
+eṣāmaprahāṇenordhvadhātvanatikramāt /
+samāptaḥ saṃyojanaprasaṅgaḥ /
+bandhanāni katamāni /
+trīṇi bandhanāni /
+rāgo bandhanaṃ sarvaḥ dveṣo bandhanaṃ sarvaḥ moho bandhanaṃ sarvaḥ /
+kasmādetadeva trayaṃ bandhanamuktaṃ bhagavatā /
+vidvaśād bandhanatrayam //
+trivedanāvaśārttīṇi bandhanāni /
+sukhāyāṃ hi vedanāyāṃ rāgo 'nuśete ālambanasaṃprayogābhyām /
+duḥkhāyāṃ dveṣaḥ /
+aduḥkhāsukhāyāṃ moho na tathā rāgadveṣau /
+svāsāṃtanikālambanato vā niyamaḥ /
+anuśayāḥ pūrvamevoktāḥ /
+upakleśāḥ vaktavyāḥ /
+tatra ye yāvat kleśā upakleśā api te /
+cittopakleśanāt /
 ```
 
 The unit runs [311|06–312|05] in
 `Vasubandhu/Sources/kosabhasya.txt`. The verse at
-[312|06–07] begins 5.46. Word division and punctuation
-are editorial. The running Kārikā has `vidvaśād`, and
-its explanatory prose has `trivedanāvaśārttīṇi`;
-both are retained as uncertain transmitted forms.
+[312|06–07] begins 5.46. The Sanskrit block retains the
+working witness's spelling and punctuation; page labels and
+the verse tag alone are omitted. The Kārikā's `vidvaśād`
+and prose `trivedanāvaśārttīṇi` remain uncertain.
 
 ## 3. Continuous Translation
 
-Just as the Blessed One taught five lower fetters, so the
-higher fetters too are five: attachment to form, attachment
-to the formless, restlessness, conceit, and ignorance.
-Because these remain unabandoned, one does not pass beyond
-the higher domains. The discussion of fetters is complete.
+Just as the Blessed One taught five lower fetters, so, again,
+the higher-part [fetter-group] is precisely fivefold. How so?
+He says: the two attachments born in the form and formless
+domains. Those two, together with restlessness, conceit, and
+delusion, are the five higher-part fetters, namely attachment
+to form, attachment to the formless, restlessness, conceit,
+and ignorance. Because they remain unabandoned, one does not
+pass beyond the higher domains. The discussion of fetters is
+complete.
 
-What are the bonds? There are three: all craving is a bond,
+What are the bonds? There are three: all attachment is a bond,
 all hostility is a bond, and all delusion is a bond. Why
-did the Blessed One teach these three? The Kārikā's
-`vidvaśād` is uncertain; the prose relates the bonds to
-the three feelings. With pleasant feeling, craving lies
-along by object relation and conjunction. With painful
-feeling, hostility does; with neither painful nor pleasant
-feeling, delusion does, while craving and hostility do not
-do so in the same way. Or the restriction is based on
-taking feeling in one's own continuum as object.
+did the Blessed One teach precisely these three as bonds?
+The Kārikā says `vidvaśād bandhanatrayam`, whose first term
+is uncertain in this witness. The prose says that the bonds
+are under the sway of the three feelings, though its form
+`trivedanāvaśārttīṇi` is also uncertain. In pleasant feeling,
+attachment lies along by Support and conjunction. In painful feeling,
+hostility; in neither painful nor pleasant feeling, delusion,
+while attachment and hostility do not do so in the same way.
+Or the restriction is based on having what belongs to one's
+own continuum as Support [the exact target is unspecified].
 
 The anuśayas have already been explained. Secondary
 afflictions are next. All afflictions (*kleśas*) are also
 secondary afflictions (*upakleśas*) insofar as they afflict
-the citta.
+Consciousness (*citta*).
 
 ## 4. Argument and Doctrinal Determination
 
@@ -84,16 +82,15 @@ the account of fetters has ended. This controls the
 distributed verse. Restlessness, conceit, and ignorance
 complete the five **higher fetters**; they are not the three
 bonds. The bond question begins afterward, and its answer
-names craving, hostility, and delusion. The earlier Kārikā
-research witness itself recognizes that its earlier
-translation had joined these groups incorrectly.
+names attachment, hostility, and delusion.
 
 The bond triad is explained through a threefold relation to
-feeling: pleasant/craving, painful/hostility, and neither
-painful nor pleasant/delusion. For craving with pleasant
-feeling, the prose names both `ālambana` and `saṃprayoga`.
-It states a restriction (`niyama`) with an alternative based
-on an object in one's own continuum. The terse wording does
+feeling: pleasant/attachment, painful/hostility, and neither
+painful nor pleasant/delusion. For attachment with pleasant
+feeling, the prose names both `ālambana` (Support) and
+`saṃprayoga` (conjunction). It states a restriction (`niyama`)
+with an alternative based on Support belonging to one's own
+continuum. The terse wording does
 not settle every possible feeling-affliction combination.
 Feeling and affliction must not be identified simply because
 the passage correlates them.
@@ -102,7 +99,7 @@ The close moves through the fivefold scheme opened in 5.41:
 fetters are complete, anuśayas have already been discussed,
 and *upakleśa* is the next heading. The statement that all
 kleśas are also upakleśas gives a broad inclusion on the
-ground that they afflict citta; 5.46 will distinguish other
+ground that they afflict Consciousness (*citta*); 5.46 will distinguish other
 afflicted mental factors from the kleśas.
 
 ## 5. Translation and Interpretation
@@ -115,8 +112,8 @@ emendation. `Moha` is rendered “delusion” in the bond triad;
 the prose names `avidyā` as the fifth higher fetter. The
 two classifications and their source terms remain distinct.
 `Cittopakleśanāt` grounds the final inclusive statement in
-the afflicting of citta, without translating citta as a
-generic “mind.”
+the afflicting of Consciousness, the controlled rendering of
+`citta`.
 
 **Organon reconstruction.** This verse is a sharp case of a
 classification boundary inside one Kārikā. A formal reading
@@ -128,7 +125,10 @@ own claims and from any implementation.
 
 ## 6. Review Status
 
-Provisional. The distributed verse, explicit fetter closure,
-bond triad, and transition toward 5.46 were checked against
-the running IAST source. `Vidvaśād` and
-`trivedanāvaśārttīṇi` require textual review.
+Coverage checked against the complete unit [311|06–312|05]:
+the distributed verse, fetter closure, bond triad, feeling
+explanation, alternative restriction, and transition to
+upakleśas are translated. The Sanskrit block matches the
+working witness after removing page labels and the verse tag.
+`Vidvaśād` and `trivedanāvaśārttīṇi` require textual review;
+the next verse begins at [312|06–07].
