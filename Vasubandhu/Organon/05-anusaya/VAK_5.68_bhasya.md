@@ -15,47 +15,36 @@
 ```iast
 kasmānnaikaikaṃ prahāṇaṃ parijñā vyavasthāpyate /
 yasmāt kṣāntiphalaṃ tāvat prahāṇaṃ vyavasthāpyate /
-
-    anāsravaviyogāpterbhavāgravikalīkṛteḥ /
-    hetudvayasamudghātāt parijñā
-
-yatraitāni trīṇi kāraṇāni bhavanti tat prahāṇaṃ
-parijñocyate /
-pṛthagjanasya tāvadanāsravā visaṃyogaprāptirnāsti
-bhavāgravikalīkaraṇaṃ ceti nāsya prahāṇaṃ parijñākhyāṃ
-labhate /
+anāsravaviyogāpterbhavāgravikalīkṛteḥ /
+hetudvayasamudghātāt parijñā
+yatraitāni trīṇi kāraṇāni bhavanti tat prahāṇaṃ parijñocyate /
+pṛthagjanasya tāvadanāsravā visaṃyogaprāptirnāsti bhavāgravikalīkaraṇaṃ ceti nāsya prahāṇaṃ parijñākhyāṃ labhate /
 āryasyāpi yat kṣāntiphalaṃ tāvat prahāṇam /
-tatra yāvat duḥkhe 'nvayajñānakṣāntāvanāsravā
-visaṃyogaprāptirasti na tu bhavāgravikalīkṛṭam /
-duḥkhe 'nvayajñāne ubhayamasti na tu
-hetudvayasamudghātaḥ /
+tatra yāvat duḥkhe 'nvayajñānakṣāntāvanāsravā visaṃyogaprāptirasti na tu bhavāgravikalīkṛṭam /
+duḥkhe 'nvayajñāne ubhayamasti na tu hetudvayasamudghātaḥ /
 samudayadarśanaprahātavyasya sarvatragahetoraprahīṇatvāt /
 anyeṣu dharmānvayajñāneṣu sarvaṃ trayamasti /
 atastāsvavasthāsu prahāṇaṃ parijñākhyāṃ labhate /
 jñānaphalaṃ tu prahāṇam /
 ataśca kāraṇatrayāt parijñākhyāṃ labhate /
 caturthācca
-
-    dhātvatikramāt
-
+dhātvatikramāt //
 yadā dhātuṃ samatikrāmati /
-kṛtsnadhātuverāgyāt ubhayasaṃyogaviyogaṃ pañcamaṃ
-kāraṇamāhurapare /
-yaḥ prakāraḥ prahīṇo yadi tatrānyena tadālambanena
-kleśena visaṃyukto bhavatīti /
-sa tu nāsya ubhayahetusamudghātāt
-dhātusamatikramācceti na brūmaḥ /
+kṛtsnadhātuverāgyāt ubhayasaṃyogaviyogaṃ pañcamaṃ kāraṇamāhurapare /
+yaḥ prakāraḥ prahīṇo yadi tatrānyena tadālambanena kleśena visaṃyukto bhavatīti /
+sa tu nāsya ubhayahetusamudghātāt dhātusamatikramācceti na brūmaḥ /
 ```
 
 The complete unit is [324|14–325|11] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question at
 [325|12], `kaḥ katibhiḥ parijñābhiḥ samanvāgataḥ`, opens
 5.69. The verse is distributed through the commentary.
-Word and line division and omission of its source
-identifier are editorial. `Hetudvaya` is not explicitly
-unpacked into two named causes in this unit; the text does
-identify the still-unabandoned universal cause belonging
-to the origin-seeing class.
+The Sanskrit block preserves the source's word division,
+punctuation, and line order, omitting only page labels,
+indentation, and the verse identifier. `Hetudvaya` is not
+explicitly unpacked into two named causes in this unit. It
+does identify the still-unabandoned universal cause in the
+origin-seeing class.
 The first three grounds qualify *kṣānti*-fruit cases; the prose adds domain
 transcendence for *jñāna*-fruit abandonment. This does not make all four
 grounds an undifferentiated condition for every *parijñā*.
@@ -91,7 +80,7 @@ transcendence of a domain, when one passes beyond that
 domain. Others propose a fifth ground, disconnection from
 both bonds upon complete dispassion toward a whole domain:
 when a type has been abandoned, one is also disconnected
-there from another affliction taking it as its cognitive Condition. The
+there from another affliction taking it as its Support. The
 expositor does not count this separately, because it is
 already covered by eradication of the two causes and
 transcendence of the domain.
@@ -124,7 +113,7 @@ The reported `apare` view proposes a fifth qualification,
 disconnection but rejects its **independent count**: it is
 already included under the third and fourth grounds. This
 is a genuine disagreement over classification, not a denial
-that afflictions taking it as their cognitive Condition may cease to bind.
+that afflictions taking it as their Support may cease to bind.
 
 ## 5. Translation and Interpretation
 
@@ -146,7 +135,9 @@ its twofold causal terminology open for textual study.
 
 ## 6. Review Status
 
-Provisional. The complete unit and boundary with 5.69 were
-checked against the running IAST source. The unenumerated
-second cause and compressed alternative fifth ground need
-later philological and doctrinal review.
+Provisional. The complete [324|14–325|11] unit was checked
+against the running IAST source, with 5.69 beginning at
+[325|12]. The `tadālambanena` relation is translated as
+Support. The unenumerated second cause and compressed
+alternative fifth ground need later philological and
+doctrinal review.

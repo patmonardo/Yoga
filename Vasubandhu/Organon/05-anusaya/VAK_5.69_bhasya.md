@@ -15,40 +15,32 @@
 
 ```iast
 kaḥ katibhiḥ parijñābhiḥ samanvāgataḥ /
-
-    naikayā pañcabhiryāvaddarśanasthaḥ samanvitaḥ /
-
+naikayā pañcabhiryāvaddarśanasthaḥ samanvitaḥ /
 pṛthagjanastāvannaiva samanvāgataḥ /
-āryo 'pi darśanamārgastho yāvatsamudayadharmajñānakṣāntiṃ
-naiva samanvāgataḥ /
+āryo 'pi darśanamārgastho yāvatsamudayadharmajñānakṣāntiṃ naiva samanvāgataḥ /
 samudaye dharmajñāna ekayā samanvāgataḥ /
 samudaye 'nvayajñāne dvābhyām /
-nirodhe dharmajñāne tisṛbhhirnirodhānvayajñāne
-catasṛbhirmārgadharmajñāne pañcabhiḥ /
-
-    bhavanāsthaḥ punaḥ ṣaṅbhirekayā vā dvayena vā
-
-bhāvanāmārgasthaḥ punarāryapudgalo mārgānvayajñāne
-ṣaḍibhiḥ parijñābhiḥ samanvāgato yāvat kāmavairāgyaṃ
-na prāptaḥ /
-parihīṇo vā tataḥ kāmavairāgyaṃ prāptaḥ pūrvaṃ paścād vā
-ekayā 'varabhāgīyaprahāṇaparijñayā /
+nirodhe dharmajñāne tisṛbhhirnirodhānvayajñāne catasṛbhirmārgadharmajñāne pañcabhiḥ /
+bhavanāsthaḥ punaḥ ṣaṅbhirekayā vā dvayena vā //
+bhāvanāmārgasthaḥ punarāryapudgalo mārgānvayajñāne ṣaḍibhiḥ parijñābhiḥ samanvāgato yāvat kāmavairāgyaṃ na prāptaḥ /
+parihīṇo vā tataḥ kāmavairāgyaṃ prāptaḥ pūrvaṃ paścād vā ekayā 'varabhāgīyaprahāṇaparijñayā /
 arhattvaṃ prāpta ekayaiva sarvasaṃyojanaparyādānaparijñayā /
-parihīṇo 'pi rūpāvacareṇa paryavasthānenaikayā
-'varabhāgīyaprahāṇaparijñayā /
-rūpavairāgyaṃ prāpto
-dvabhyāmavarabhāgīyaprahāṇarūparāgakṣayaparijñābhyām /
+parihīṇo 'pi rūpāvacareṇa paryavasthānenaikayā 'varabhāgīyaprahāṇaparijñayā /
+rūpavairāgyaṃ prāpto dvabhyāmavarabhāgīyaprahāṇarūparāgakṣayaparijñābhyām /
 prahīṇo 'pyārūpyāvacareṇa paryavasthānenābhyāmeva /
-kiṃ punaḥ kāraṇamanāgāmyarhatorekaiva parijñā
-vyavasthāpyate na bhūyasyaḥ /
+kiṃ punaḥ kāraṇamanāgāmyarhatorekaiva parijñā vyavasthāpyate na bhūyasyaḥ /
 ```
 
 This is the running witness at [325|12–325|25] in
 `Vasubandhu/Sources/kosabhasya.txt`. The following `yasmāt` and
 *saṃkalana* verse begin the answer in 5.70. The kārikā is distributed
-through the prose. Indentation, line breaks, and omission of the source
-identifier are editorial; witness forms such as `ṣaṅbhir`, `ṣaḍibhiḥ`,
+through the prose. The Sanskrit block preserves the source's word division,
+punctuation, and line order, omitting only page labels, indentation, and the
+verse identifier. Witness forms such as `ṣaṅbhir`, `ṣaḍibhiḥ`,
 `tisṛbhhir`, and `dvabhyām` are retained rather than silently repaired.
+The last clause prints `prahīṇo 'pi` where the preceding fall clause
+has `parihīṇo 'pi`; the English reads it as a fall, following the
+context and the Chinese parallel.
 The question is `kaḥ katibhiḥ parijñābhiḥ samanvāgataḥ`: who is endowed
 with how many *parijñās*? The numbers describe present endowment at
 specified Path positions, not the number of abandonments ever produced.
@@ -96,11 +88,11 @@ person without Desire Realm dispassion. The clause `parihīṇo vā tataḥ`
 also belongs to this six-count case: **or one who has fallen from that
 dispassion**. The next words, `kāmavairāgyaṃ prāptaḥ pūrvaṃ paścād vā`,
 start the one-count case, whether that dispassion was attained earlier
-or later. The research Bhāṣya translation joins “fallen” to “attained”
-as a single case; that obscures the sequence and is not followed here.
-The running source has no punctuation to settle the split by itself;
-the two finite possession predicates and the contrast of six with one
-support this construal. It remains a marked interpretive decision.
+or later. [Xuanzang's Chinese Kośa translation](https://deerpark.app/cbeta/T1558/21)
+explicitly places both lack and loss of Desire Realm dispassion in the
+six-count case, then starts the one-count case with its attainment. This
+supports the division of the unpunctuated Sanskrit line, whose number
+forms remain uncertain.
 
 Equal counts need not have equal content. Desire Realm dispassion
 brings the *avarabhāgīya-prahāṇa-parijñā*; arhatship brings the
@@ -122,7 +114,9 @@ with the Bhāṣya as the initial zero, followed by counts up to five.
 `Paryavasthāna` denotes an afflictive envelopment involved in the
 specified fall; it is not a new *parijñā*. The witness's anomalous
 number forms are preserved above, while the translation follows the
-locally explicit numerical sequence.
+locally explicit numerical sequence. The final “fall” construes the
+working `prahīṇo 'pi` contextually; it is not a silent emendation of
+the Sanskrit block.
 
 **Organon reconstruction.** Our Anuśaya:Mārga study should record an
 event of attaining or losing dispassion separately from the *parijñā*
@@ -133,7 +127,9 @@ Vasubandhu's own formal vocabulary.
 
 ## 6. Review Status
 
-Provisional. The complete unit and its boundary with 5.70 were checked
-against the running IAST witness. The punctuation of `parihīṇo vā
-tataḥ kāmavairāgyaṃ prāptaḥ` requires later philological review;
-the preferred reading is stated above rather than silently imposed.
+Provisional. The complete [325|12–325|25] unit was checked against the
+running IAST witness and the Chinese Kośa parallel; `yasmāt` begins 5.70
+at [325|25–325|01]. No clause was missing from the continuous translation.
+The punctuation of `parihīṇo vā tataḥ kāmavairāgyaṃ prāptaḥ` remains
+editorial in the English, supported by the Chinese parallel. The final
+`prahīṇo 'pi` also needs later philological review.

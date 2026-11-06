@@ -130,7 +130,7 @@ not receive the parijñā designation.
 
 A fifth cause proposed by other teachers (`apare`): through complete
 dispassion toward an entire realm, one is also disconnected from another
-affliction taking the abandoned type as its cognitive Condition.
+affliction taking the abandoned type as its Support.
 
 Vasubandhu accepts no independent fifth member because this feature is already
 included under eradication of the two causes and transcendence of the realm.

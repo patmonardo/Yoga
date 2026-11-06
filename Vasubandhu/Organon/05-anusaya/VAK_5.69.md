@@ -151,7 +151,9 @@ rūparāga-kṣaya-parijñā
 ```
 
 These two remain even after the stated fall through a Formless Realm
-paryavasthāna.
+paryavasthāna. The running Sanskrit prints `prahīṇo 'pi` here;
+“fall” follows the preceding `parihīṇo 'pi` case and the
+Chinese Kośa parallel, rather than silently normalizing that reading.
 
 **`Paryavasthāna` — active afflictive enveloping**
 

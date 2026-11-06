@@ -85,6 +85,13 @@ here list each of the six and five separately; those
 members should be reconstructed from the earlier ninefold
 scheme in the later clarification pass.
 
+[Xuanzang's Chinese Kośa translation](https://deerpark.app/cbeta/T1558/21)
+independently gives the same nine, two, two, three, six,
+and five counts. For the last pair it explicitly includes
+both the corresponding knowledge and *kṣānti* within each
+side. This confirms the count and the scope of `pakṣa`;
+it does not repair the compact Sanskrit spellings.
+
 ## 5. Translation and Interpretation
 
 **Translation decisions.** “Fruit” preserves `phala` as
@@ -108,7 +115,8 @@ source taxonomy.
 ## 6. Review Status
 
 Provisional. The full [324|03–13] unit was checked against
-the running IAST source, with 5.68 beginning at [324|14].
+the running IAST source and the Chinese Kośa parallel, with
+5.68 beginning at [324|14].
 No clause was missing from the continuous translation. The
 compact final gloss and the precise membership of each
 *pakṣa* fruit set remain for later review.

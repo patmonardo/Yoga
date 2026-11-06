@@ -19,24 +19,16 @@ second half accounts for changes in present possession.
 
 ```iast
 yasmāt
-
-    tāsāṃ saṃkalanaṃ dhātuvairāgyaphalalābhataḥ /
-
-dvābhyāṃ kāraṇābhyāṃ parijñānāṃ saṃkalanaṃ bhavatyekatvena
-vyavasthāpanaṃ dhātuvairāgyāt phalaprāptitaśca /
+tāsāṃ saṃkalanaṃ dhātuvairāgyaphalalābhataḥ /
+dvābhyāṃ kāraṇābhyāṃ parijñānāṃ saṃkalanaṃ bhavatyekatvena vyavasthāpanaṃ dhātuvairāgyāt phalaprāptitaśca /
 tayoścāvasthayoretadubhayaṃ bhavati /
 ataḥ sarvaṃ prahāṇaṃ saṃkalayyaikā parijñocyate /
-
 atha kaḥ kati parijñāstyajati labhate vā /
-
-    ekāṃ dve pañca ṣaṭ kaścijjahātyāpnoti pañca na
-
+ekāṃ dve pañca ṣaṭ kaścijjahātyāpnoti pañca na //
 ekāṃ tyajati arhattvāt kāmavairāgyād vā parihīyamāṇaḥ /
-dve parijñe tyajatyanāgāmī rūpavītarāgaḥ kāmavairāgyāt
-parihīyamāṇaḥ /
+dve parijñe tyajatyanāgāmī rūpavītarāgaḥ kāmavairāgyāt parihīyamāṇaḥ /
 pañca tyajati vītarāgapūrvī mārgānvayajñāne /
-sa hyavarabhāgīyaprahāṇaparijñālābhe pūrvikāḥ pañca
-parijñāstyajati /
+sa hyavarabhāgīyaprahāṇaparijñālābhe pūrvikāḥ pañca parijñāstyajati /
 ṣaṭ parijñāstyajatyānupoūrvikaḥ kāmavairāgyāt /
 lābhe 'pyevameva /
 kaścidekāṃ parijñāṃ labhate /
@@ -44,25 +36,38 @@ yaḥ kaścidapūrvā labhate /
 kaścid dve yaḥ kevalādārūpyadhātuvairāgyāt parihīyate /
 kaścit ṣaṭ yo 'nāgāmiphalāt parihīyate /
 pañca tu nai kaścillabhate /
+samāptaḥ parijñāprasaṅgaḥ //
+```
 
-    samāptaḥ parijñāprasaṅgaḥ //
+The closing paratext follows the argument:
+
+```iast
+abhidharmakośabhāṣye 'nuśayanirddeśo nāma
+pañcamaṃ kośasthānaṃ samāptmiti //
+śrīlāmāvākasya yadatra puṇyam /
+ṣaṣṭhaṃ kośasthānam
 ```
 
 The source unit is [325|25–326|14] in
 `Vasubandhu/Sources/kosabhasya.txt`; the question prompting `yasmāt`
 stands at [325|24–325|25] and was included with 5.69. The verse's
-halves occur on either side of the prose explanation. Indentation,
-line division, and omission of the source identifier are editorial.
+halves occur on either side of the prose explanation. The first Sanskrit
+block preserves the source's word division, punctuation, and line order,
+omitting only page labels, indentation, and the verse identifier.
 Forms including `ānupoūrvikaḥ`, `apūrvā`, and `nai` are retained as
-transmitted. The fifth-chapter colophon at [326|15–326|16] follows the
-closure and is noted below rather than absorbed into the argument.
+transmitted. The second block preserves the colophon and merit fragment
+at [326|15–17] and the following sixth-section heading, omitting
+only page labels, indentation, and separator rules. Its `samāptmiti`
+is preserved as printed. The next `namo buddhāya` belongs to the
+opening of the sixth section.
 
 ## 3. Continuous Translation
 
 Because their consolidation occurs through dispassion from a domain
 and attainment of a fruit. Two causes bring about the consolidation
 of the *parijñās*, their establishment as one: dispassion from a
-domain and attainment of a fruit. At those two states both are present.
+domain and attainment of a fruit. In both states just asked about—the
+non-returner's and the arhat's—both conditions are present.
 Therefore, gathering all the abandonment together, one *parijñā* is
 designated.
 
@@ -83,6 +88,11 @@ Someone who falls solely from dispassion toward the formless domain
 acquires two; someone who falls from the fruit of non-returning
 acquires six. No one acquires five. Thus the discussion of *parijñā*
 is complete.
+
+The closing paratext states: “In the *Abhidharmakośabhāṣya*, the fifth
+Kośa section, named *Anuśayanirdeśa*, is complete.” It then gives the
+fragment “whatever merit is here of Śrīlāmāvāka” and announces the
+sixth Kośa section.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -117,6 +127,14 @@ spell out a general proof that no conceivable path transition could
 produce five. Its categorical `pañca tu nai kaścillabhate` is retained
 as the doctrinal rule here.
 
+[Xuanzang's Chinese Kośa translation](https://deerpark.app/cbeta/T1558/21)
+confirms the one, two, five, and six relinquishment counts and the one,
+two, and six acquisition counts. It also names two additional cases:
+relinquishing two on attaining arhatship, and acquiring one on falling
+from arhatship through a Form Realm affliction. Those details are not
+printed in this local Sanskrit unit and are not inserted into its
+continuous translation.
+
 ## 5. Translation and Interpretation
 
 **Translation decisions.** `Dhātu-vairāgya` means dispassion from a
@@ -137,8 +155,8 @@ not a formalism attributed to Vasubandhu.
 
 ## 6. Review Status
 
-Provisional. The unit was checked against the running IAST witness.
-The chapter closes after `samāptaḥ parijñāprasaṅgaḥ`; the following
-colophon states that the fifth Kośa section, *Anuśayanirdeśa*, is
-complete. The damaged Sanskrit forms and the scope of the categorical
-no-five acquisition rule remain for a later textual review.
+Provisional. The complete [325|25–326|14] unit and the [326|15–17]
+closing paratext were checked against the running IAST witness. The
+damaged forms, the merit fragment, and the scope of the categorical
+no-five acquisition rule remain for later textual review. The sixth
+Kośa section begins after this boundary.
