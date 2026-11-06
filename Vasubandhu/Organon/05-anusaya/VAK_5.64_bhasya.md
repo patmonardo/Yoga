@@ -17,43 +17,29 @@
 kimekaiva parijñā sarvaprahāṇam /
 netyāha /
 kiṃ tarhi /
-
-    parijñā nava
-
+parijñā nava
 tatra tāvat
-
-    kāmādyaprakāradvayasaṃkṣayaḥ /
-    ekā
-
-kāmadhātāvādyasya prakāradvayasya
-duḥkhasamudayadarśanaheyasya prahāṇamekā parijñā /
-
-    dvayoḥ kṣaye dve te
-
-kāmadhātāveva nirodhadarśanaheyasya
-prakārasyaprahāṇamekā parijñā /
+kāmādyaprakāradvayasaṃkṣayaḥ /
+ekā
+kāmadhātāvādyasya prakāradvayasya duḥkhasamudayadarśanaheyasya prahāṇamekā parijñā /
+dvayoḥ kṣaye dve te
+kāmadhātāveva nirodhadarśanaheyasya prakārasyaprahāṇamekā parijñā /
 mārgadarśanaheyasyaikā /
-yathā kāmāvacarāṇāṃ darśanaprahātavyānāṃ
-prahāṇaṃ tisraḥ parijñāḥ
-
-    tathordhvaṃ nisra eva tāḥ
-
-rūpārūpyāvacarāṇāṃ darśanaprahātavyānāṃ
-prahāṇaṃ tathaiva tisraḥ parijñā bhavanti /
-duḥkhasamudayadarśanaprahātavyānāṃ prahāṇamekā
-nirodhadarśanaheyānāṃ prahāṇaṃ dvitīyā
-mārgadarśanaheyānāṃ prahāṇaṃ tṛtīyeti traidhātukānāṃ
-darśanaheyānāṃ prahāṇaṃ ṣaṭ parijñā bhavanti /
+yathā kāmāvacarāṇāṃ darśanaprahātavyānāṃ prahāṇaṃ tisraḥ parijñāḥ
+tathordhvaṃ nisra eva tāḥ //
+rūpārūpyāvacarāṇāṃ darśanaprahātavyānāṃ prahāṇaṃ tathaiva tisraḥ parijñā bhavanti /
+duḥkhasamudayadarśanaprahātavyānāṃ prahāṇamekā nirodhadarśanaheyānāṃ prahāṇaṃ dvitīyā mārgadarśanaheyānāṃ prahāṇaṃ tṛtīyeti traidhātukānāṃ darśanaheyānāṃ prahāṇaṃ ṣaṭ parijñā bhavanti /
 ```
 
 The unit runs [322|08–21] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next distributed
 verse starts at [323|01] with `anyā avarabhāgīya...`.
-The source's `nisra` and compact compounds are preserved;
-line division and omission of the source's verse identifier
-are editorial. The terminology of two *parijñās* was
-introduced at the end of 5.63; the present count concerns
-*prahāṇa-parijñā*, completed abandonments.
+The Sanskrit block preserves the source's `nisra`, compact
+compounds, and line order, omitting only page labels,
+indentation, and the verse identifier. The terminology of
+two *parijñās* was introduced at the end of 5.63; the
+present count concerns *prahāṇa-parijñā*, completed
+abandonments.
 The anchor copies the separate kārikā's `tisra`; the running verse reads
 `nisra`. The prose fixes the threefold sense. This verse enumerates six
 seeing-abandonment *parijñās* of the announced nine.
@@ -127,7 +113,9 @@ that the Bhāṣya itself does not supply here.
 
 ## 6. Review Status
 
-Provisional. The full sixfold enumeration and its boundary
-with 5.65 were checked against the running IAST source.
+Provisional. The full [322|08–21] sixfold enumeration was
+checked against the running IAST source, with 5.65 beginning
+at [323|01]. No clause was missing from the continuous
+translation.
 The `nisra` / `tisra` variation and the rationale for
 grouping the first two truth classes remain for review.

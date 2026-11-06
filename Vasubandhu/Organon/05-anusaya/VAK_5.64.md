@@ -18,10 +18,11 @@ VAK 5.63 stated that the same disconnection receives the designation
 `parijñā` in different Path-states. VAK 5.64 now announces nine parijñās and
 enumerates the first six, all belonging to abandonment through seeing.
 
-**Textual caution.** The working Bhāṣya e-text prints `nisra` in one prose
-recapitulation where the kārikā and context require `tisra`, “three.” The
-research witness remains unchanged; the secure contextual sense is recorded
-without silently correcting that source file.
+**Textual caution.** The working Bhāṣya e-text prints `nisra` in the
+running verse where the separate kārikā and context support
+`tisra`, “three.” The research witness remains unchanged;
+the secure contextual sense is recorded without silently
+correcting that source file.
 
 ## 3. Lexical Analysis
 
@@ -125,8 +126,9 @@ The ninefold enumeration concerns the second.
 **`Jñāna-parijñā` — parijñā as knowledge**
 
 The cognitive causal side. The source defines it with the transmitted phrase
-`sāsravaṃ jñānam`; its wider doctrinal implications are not settled in this
-verse and should remain open for later clarification.
+`sāsravaṃ jñānam`; 5.63 records the Chinese witness's contrary
+`無漏智`. Their doctrinal implications are not settled in this
+verse and remain open for later clarification.
 
 **`Prahāṇa-parijñā` — parijñā as abandonment**
 

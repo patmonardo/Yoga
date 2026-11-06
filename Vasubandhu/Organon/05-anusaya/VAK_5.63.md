@@ -217,6 +217,13 @@ progressively fewer, down to two.
 receives the name `parijñā`. The next block therefore studies a named Path-
 attainment structure, not a fresh series of affliction-destructions.
 
+**Witness difference.** The running Sanskrit defines knowledge as *parijñā*
+with `sāsravaṃ jñānam` (knowledge with outflows), but
+[Xuanzang's Chinese Kośa translation](https://deerpark.app/cbeta/T1558/21)
+has `無漏智` (knowledge without outflows). The Bhāṣya study
+translates the Sanskrit as transmitted and leaves the doctrinal
+choice open; the verse itself does not decide this predicate.
+
 **Organon interpretation.** A semantic representation must distinguish the
 irreversible target-event from repeatable subject-stage relations:
 

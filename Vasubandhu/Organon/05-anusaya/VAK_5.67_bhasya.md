@@ -14,26 +14,16 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    āryamārgasya sarvāḥ
-
+āryamārgasya sarvāḥ
 nava parijñāḥ phalam /
-
-    dve laukikasya
-
+dve laukikasya
 laukisya mārgasya dve avarabhāgīyarūparāgakṣayaparijñe phalam /
-
-    anvayasya ca /
-
+anvayasya ca /
 anvayajñānasyāpi dveparijñe phalaṃ paścime /
-
-    dharmajñānasya tisrastu
-
+dharmajñānasya tisrastu
 paścimā eva tridhātukabhāvanāheya pratipakṣatvāt /
-
-    ṣaṭ tatpakṣasya pañca ca
-
-dharmajñānapakṣasya ṣaṭ parijñāḥ phalaṃ yā eva
-dharmajñāna kṣantijñānānām /
+ṣaṭ tatpakṣasya pañca ca //
+dharmajñānapakṣasya ṣaṭ parijñāḥ phalaṃ yā eva dharmajñāna kṣantijñānānām /
 anvayajñānapakṣasya pañca yā evānvayakṣāntijñānānām /
 pakṣagrahaṇena hi kṣāntijñānāni gṛhyante /
 ```
@@ -42,10 +32,11 @@ The complete unit runs [324|03–13] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question at
 [324|14], why every individual abandonment is not a
 *parijñā*, opens 5.68. The running text's `laukisya`,
-`dveparijñe`, and `kṣantijñānānām` are retained. Word
-division, line division, and omission of the verse
-identifier are editorial; the compact final gloss needs
-later textual review.
+`dveparijñe`, and `kṣantijñānānām` are retained. The
+Sanskrit block preserves the source's word division,
+punctuation, and line order, omitting only page labels,
+indentation, and the verse identifier. The compact final
+gloss needs later textual review.
 The last “side” is supplied as *anvayajñāna-pakṣa* by the prose. `Pakṣa`
 includes corresponding *kṣānti* and *jñāna* moments, not one knowledge alone.
 
@@ -116,7 +107,8 @@ source taxonomy.
 
 ## 6. Review Status
 
-Provisional. The whole 5.67 unit and the opening question of
-5.68 were checked against the running IAST source. The
+Provisional. The full [324|03–13] unit was checked against
+the running IAST source, with 5.68 beginning at [324|14].
+No clause was missing from the continuous translation. The
 compact final gloss and the precise membership of each
 *pakṣa* fruit set remain for later review.

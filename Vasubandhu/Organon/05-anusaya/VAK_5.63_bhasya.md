@@ -15,17 +15,11 @@
 kim mārgaviśeṣagamanāt kleśānāṃ punaḥ prahāṇaviśeṣo bhavati /
 naitadasti /
 sarveṣāṃ hi kleśānāṃ
-
-    sakṛt kṣayaḥ
-
+sakṛt kṣayaḥ
 yasya yaḥ prahāṇamārgastenaiva tasya kṣayaḥ /
-
-    visaṃyogalābhasteṣāṃ punaḥ punaḥ /
-
+visaṃyogalābhasteṣāṃ punaḥ punaḥ /
 katiṣu kāleṣvityāha ṣaṭsu kāleṣu /
-
-    pratipakṣodayaphalaprāptīndriyavivṛddhiṣu /
-
+pratipakṣodayaphalaprāptīndriyavivṛddhiṣu //
 pratipakṣo vimuktimārga etasminnabhipretaḥ /
 phalāni catvāri śrāmaṇyaphalāni /
 indriyavivṛddhirindriyasaṃcāraḥ /
@@ -45,8 +39,9 @@ The unit runs [321|17–322|08] in
 ninefold enumeration of 5.64. The brief `parijñā` gloss
 belongs here because it explains why the same disconnection
 just discussed receives that designation. The verse is
-distributed through prose; word division, line division,
-and removal of its source identifier are editorial.
+distributed through prose. The Sanskrit block preserves
+the source's word division and line order, omitting only
+page labels, indentation, and the verse identifier.
 `Teṣām` refers to the afflictions of the prose question. The three
 expressions in the verse's second line name six possible occasions in the
 Bhāṣya's count: one liberation path, four fruit attainments, and one faculty
@@ -101,9 +96,12 @@ The same `visaṃyoga` can then be called `parijñā` under
 various conditions. The text distinguishes knowledge as
 *parijñā* from abandonment as *parijñā*, and explains the
 second naming as a transfer from cause to result. The
-running reading `sāsravaṃ jñānam` is retained; its doctrinal
-scope needs separate review before replacing it with an
-expected form. This transitional gloss is necessary for
+running Sanskrit reads `sāsravaṃ jñānam` (knowledge with
+outflows), whereas [Xuanzang's Chinese Kośa translation](https://deerpark.app/cbeta/T1558/21)
+reads `無漏智` (knowledge without outflows) at this point.
+The two witnesses disagree on this predicate; the
+continuous translation follows the Sanskrit witness.
+This transitional gloss is necessary for
 reading the next verse's question about how many
 abandonment-*parijñās* there are.
 
@@ -129,6 +127,6 @@ the destroyed kleśa or an implemented state machine.
 
 Provisional. The full 5.63 unit, including its `parijñā`
 transition, was checked against the running IAST source.
-The interpretation of `sāsravaṃ jñānam` and the exact
-application of the six-to-two range need later doctrinal
-review.
+The Sanskrit–Chinese disagreement over `sāsravaṃ jñānam`
+and the exact application of the six-to-two range need
+later doctrinal review.

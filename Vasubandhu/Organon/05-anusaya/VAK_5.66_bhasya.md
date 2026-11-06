@@ -14,28 +14,19 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    anāgamyaphalaṃ sarvā dhyānānāṃ pañca vāthavā /
-    aṣṭau
-
-vaibhāṣikamatena mauladhyānaphalaṃ pañca parijñā yā
-rūpārūpyāvacarakleśaprahāṇa svabhāvāḥ /
-kāmāvacarakleśaprahāṇasyānāgamyaphalatvāt
-bhadantaghoṣakasya matenāṣṭau /
-sa hi vītarāgasyāpi kāmāvacarāṇāṃ darśanaheyānāṃ
-prahāṇaṃ darśanamārgaphalamicchanti /
+anāgamyaphalaṃ sarvā dhyānānāṃ pañca vāthavā /
+aṣṭau
+vaibhāṣikamatena mauladhyānaphalaṃ pañca parijñā yā rūpārūpyāvacarakleśaprahāṇa svabhāvāḥ /
+kāmāvacarakleśaprahāṇasyānāgamyaphalatvāt bhadantaghoṣakasya matenāṣṭau /
+sa hi vītarāgasyāpi kāmāvacarāṇāṃ darśanaheyānāṃ prahāṇaṃ darśanamārgaphalamicchanti /
 anāsravavisaṃyogaprāptilābhāt /
 avarabhāgīyaprahāṇaparijñā tvanāgamyaphalameva /
 dhyānāntaraṃ dhyānavaddraṣṭavyam /
 ārupyāṇāṃ tu
-
-    sāmantakasyaikā
-
+sāmantakasyaikā
 ākāśānantyāyatanasāmantakasyaikā rūparāgakṣayaparijñā phalam /
-
-    maulārūpyatrayasya ca
-
-maulānāṃ ca trayāṇāmārūpyāṇāmekaiva
-sarvasaṃyojanaparyādānaparijñā phalam /
+maulārūpyatrayasya ca //
+maulānāṃ ca trayāṇāmārūpyāṇāmekaiva sarvasaṃyojanaparyādānaparijñā phalam /
 ```
 
 The complete distributed unit runs [323|13–324|02] in
@@ -43,8 +34,9 @@ The complete distributed unit runs [323|13–324|02] in
 [324|03] with `āryamārgasya sarvāḥ`. The running forms
 `sa hi ... icchanti` and `ārupyāṇāṃ` are preserved;
 their agreement and spelling need later textual review.
-Line division and omission of the source's verse identifier
-are editorial.
+The Sanskrit block preserves the source's word division,
+punctuation, and line order, omitting only page labels,
+indentation, and the verse identifier.
 The “five or eight” is a disagreement over attribution of fruits to a
 meditative basis, not over the ninefold enumeration of 5.64–5.65.
 
@@ -122,7 +114,8 @@ not a new resolution of it.
 
 ## 6. Review Status
 
-Provisional. The full unit and transition to 5.67 were
-checked against the running IAST source. Ghoṣaka's compact
-sentence and the exact fruit relation remain for later
-philological and doctrinal review.
+Provisional. The full [323|13–324|02] unit was checked
+against the running IAST source, with 5.67 beginning at
+[324|03]. No clause was missing from the continuous
+translation. Ghoṣaka's compact sentence and the exact fruit
+relation remain for later philological and doctrinal review.

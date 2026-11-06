@@ -13,25 +13,18 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    anyā avarabhāgīyarūpasarvāsravakṣayāḥ /
-    tisraḥ parijñāḥ
-
+anyā avarabhāgīyarūpasarvāsravakṣayāḥ /
+tisraḥ parijñāḥ
 avarabhāgīyaprahāṇamekā parijñā /
 rūpāsravaprahāṇamekā rūparāgakṣayaparijñā /
-ārūpyāptānāṃ sarvāsravaprahāṇamekā
-sarvasaṃyojanaparyādāna parijñā /
-kasmādrūpārūpyāvacarāṇāṃ bhāvanāheyānāṃ prahāṇaṃ
-pṛthak parijñā na darśanaheyānām /
+ārūpyāptānāṃ sarvāsravaprahāṇamekā sarvasaṃyojanaparyādāna parijñā /
+kasmādrūpārūpyāvacarāṇāṃ bhāvanāheyānāṃ prahāṇaṃ pṛthak parijñā na darśanaheyānām /
 bhāvanāheyānāmatulyapratipakṣatvāt /
 ityetā nava parijñāḥ /
 āsāṃ pūrvikāḥ
-
-    ṣaṭ kṣāntiphalaṃ
-
+ṣaṭ kṣāntiphalaṃ
 yā eva darśanaheyaprahāṇasvabhāvāḥ /
-
-    jñānasya śeṣitāḥ
-
+jñānasya śeṣitāḥ //
 avarabhāgīyaprahāṇādiparijñā bhāvanāmārgaphalatvāt /
 kathaṃ kṣāntiphalaṃ parijñā bhavanti /
 kṣāntīnāṃ jñānaparivāratvāt /
@@ -42,8 +35,9 @@ jñānaikaphalatvācca /
 The complete unit is [323|01–12] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next distributed
 verse begins [323|13] with `anāgamyaphalaṃ sarvā`.
-Word and line division, punctuation, and removal of the
-source verse identifier are editorial. The running text's
+The Sanskrit block preserves the source's word division,
+punctuation, and line order, omitting only page labels,
+indentation, and the verse identifier. The running text's
 `ārūpyāptānāṃ` and compact `sarvasaṃyojanaparyādāna
 parijñā` are kept for later review.
 The anchor copies the separate kārikā; its compact first line is interpreted
@@ -106,7 +100,7 @@ affect the count. The passage does not derive a universal
 arithmetic rule for every possible *parijñā* from this
 single reason.
 
-The second half reclassifies the nine by their path basis.
+The second half reclassifies the nine by their path relation.
 Six have the nature of seeing-abandonment and are called
 `kṣāntiphala`; three are fruits of the cultivation path and
 belong to `jñāna`. The prose immediately tests the first
@@ -138,7 +132,8 @@ relation remains more precise than an abstract sequence of
 
 ## 6. Review Status
 
-Provisional. The full 5.65 unit and boundary with 5.66 were
-checked against the running IAST source. The compact ninth
-designation and its range require later textual and
-doctrinal review.
+Provisional. The full [323|01–12] unit was checked against
+the running IAST source, with 5.66 beginning at [323|13].
+No clause was missing from the continuous translation. The
+compact ninth designation and its range require later
+textual and doctrinal review.

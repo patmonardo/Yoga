@@ -16,15 +16,12 @@
 dūrībhāva ityucyate /
 katividhho dūrībhāvaḥ /
 caturvidhā kila dūratā /
-
-    vailakṣaṇyādvipakṣatvāddeśavicchedakālataḥ /
-    bhūtaśīlapradeśādhvadvayānāmiva dūratā /
-
+vailakṣaṇyādvipakṣatvāddeśavicchedakālataḥ /
+bhūtaśīlapradeśādhvadvayānāmiva dūratā //
 vilakṣaṇadūratā yathā mahābhūtānām /
 vailakṣaṇyātsahajānāmapi dūratā /
 vipakṣadūratā yathā śīlasya dauḥśīlyam /
-deśavicchedadūratā yathā viprakṛṣṭadeśānāṃ
-deśavicchedāt pūrvapaścimasamudravat /
+deśavicchedadūratā yathā viprakṛṣṭadeśānāṃ deśavicchedāt pūrvapaścimasamudravat /
 kāladūratā yathā atītānāgatadūramucyate /
 dutastaddūram /
 vartamānāt /
@@ -48,12 +45,13 @@ atītaṃ ca pracyutatvāditi /
 The complete unit runs [321|04–16] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question at
 [321|17] about whether further path progress makes a
-further abandonment opens 5.63. The running witness's
-`katividhho`, `dutastaddūram`, `akāritrā ttarhi`, and
-`ubhayo rāsannatvād` are preserved. Word division, line
-division, and removal of the verse identifier are
-editorial. The rapid question-and-answer sequence is not
-assigned to named historical speakers by the text.
+further abandonment opens 5.63. The Sanskrit block copies
+the running witness's word division and line order, omitting
+only page labels, indentation, and the verse identifier.
+Its uncertain `katividhho`, `dutastaddūram`, `akāritrā
+ttarhi`, and `ubhayo rāsannatvād` are preserved. The rapid
+question-and-answer sequence is not assigned to named
+historical speakers by the text.
 The anchor copies the separate kārikā's plural `dūratāḥ`;
 the running verse has singular `dūratā`.
 
@@ -85,8 +83,8 @@ for space (`ākāśa`)?
 Perhaps instead past and future are distant from each other
 because the present intervenes. The present would be near
 both, and the unconditioned near because nothing intervenes.
-But this would also make past and future near to one another
-through their nearness to the present. A more fitting
+Even then, both [nearness and distance] would follow for
+past and future, given the present's nearness. A more fitting
 account is that the future is distant from a dharma's own
 characteristic because it has not yet attained it, while
 the past is distant because it has fallen away from it.
@@ -107,9 +105,9 @@ duration fails because an immediately past or imminent
 occurrence can still be called distant. Distinct temporal
 courses threaten to make the present distant too. Lack of
 activity raises the unconditioned case. Interposition of
-the present between past and future produces the opposite
-problem: nearness to the present may make both count as
-near. The final proposal, introduced by `evaṃ tu yuktaṃ
+the present between past and future produces the problem
+that both nearness and distance would follow for them. The
+final proposal, introduced by `evaṃ tu yuktaṃ
 syāt`, shifts to the dharma's own characteristic: the
 future has not attained it; the past has passed from it.
 This is the local preferred account, not a proof that all
@@ -143,7 +141,10 @@ theory of every kind of otherness.
 
 ## 6. Review Status
 
-Provisional. The complete dialectic and its boundary with
-5.63 were checked against the running IAST source. The
-damaged question, singular/plural verse variant, and
-unconditioned-space exchange need later philological QA.
+Provisional. The complete [321|04–16] dialectic was checked
+against the running IAST source, including its [321|17]
+boundary with 5.63. The damaged question, singular/plural
+verse variant, and unconditioned-space exchange need later
+philological QA. The supplied pair in “both [nearness and
+distance]” construes `ubhayaṃ` from the preceding proposal;
+the witness does not spell out those two predicates.
