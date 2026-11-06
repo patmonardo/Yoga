@@ -14,22 +14,15 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-yāni sūtre pañca nivaraṇāni uktāni kāmacchando vyāpādaḥ
-styānamiddhamauddhatyakaukṛtyaṃ vicikitsā ca /
+yāni sūtre pañca nivaraṇāni uktāni kāmacchando vyāpādaḥ styānamiddhamauddhatyakaukṛtyaṃ vicikitsā ca /
 tatra kiṃ traidhātukyaḥ styānauddhatyavicikitsā gṛhyante /
 atha kāmapratisaṃyuktā eva /
-"kevalo 'yaṃ paripūrṇo'kuśala rāśiryaduta pañca
-nivaraṇānī"tyekāntākuśalatvavacanātsūtre /
-
-    kāme nivaraṇāni
-
+"kevalo 'yaṃ paripūrṇo'kuśala rāśiryaduta pañca nivaraṇānī"tyekāntākuśalatvavacanātsūtre /
+kāme nivaraṇāni
 nānyatra dhātau /
-kiṃ punaḥ kāraṇaṃ dve styānamiddhe ekaṃ nivaraṇamuktaṃ
-dve cauddhatyakaukṛtye ekam /
-
-    ekavipakṣāhārakṛtyataḥ /
-    dvyekatā
-
+kiṃ punaḥ kāraṇaṃ dve styānamiddhe ekaṃ nivaraṇamuktaṃ dve cauddhatyakaukṛtye ekam /
+ekavipakṣāhārakṛtyataḥ /
+dvyekatā
 dvayorekatā dvyekatā /
 vipakṣaḥ pratipakṣo 'nāhāra ityeko 'rthaḥ /
 styānamiddhayoreka āhāraḥ sūtre 'nāhāraśca /
@@ -42,47 +35,38 @@ ubhe api hyete cittaṃ layaṃ codayataḥ /
 auddhatyakaukṛtyayorapyeka āhāra uktaḥ ekonāhāraḥ /
 kaścauddhatyakaukṛtyanivaraṇasyāhāraḥ /
 catvāro dharmāḥ /
-jñātivitarko janapadavitarko 'maravitarkaḥ paurāṇasya ca
-hasitakriḍitaramitaparibhāvitasyānusmartā bhavatīti /
+jñātivitarko janapadavitarko 'maravitarkaḥ paurāṇasya ca hasitakriḍitaramitaparibhāvitasyānusmartā bhavatīti /
 kaścauddhatyakaukṛtyanivaraṇasyānāhāraḥ /
 śamatha iti /
 kṛtyamapyanayorekam /
 ubhe api hyete cittamavyupaśāntaṃ vartayataḥ /
-nata ekavipakṣāhārakṛtyatvāt dvayorapyekatvamuktam /
+ata ekavipakṣāhārakṛtyatvāt dvayorapyekatvamuktam /
 yadi sarvakleśā nivaraṇaṃ kasmāt pañcaivoktāni /
-
-    pañcatā skandhavidhātavicikitsanāt /
-
+pañcatā skandhavidhātavicikitsanāt
 kāmacchandavyāpādābhyāṃ śīlaskandhavidhātaḥ /
-styānamiddhena prajñāskandhasyauddhatyakaukṛtyena
-samādhiskandhasya samādhiprajñayorabhāve satyeṣu
-vicikitsako bhavatītyataḥ pañcoktāni /
-etasyāṃ tu kalpanāyāṃ samādhiskandhavirodhina
-auddhatyakaukṛtyanivaraṇasya pūrva grahaṇaṃ prāpnoti /
-ato yathāsaṃkhyametābhyāṃ samādhiprajñāskandhopaghāta
-ityapare /
+styānamiddhena prajñāskandhasyauddhatyakaukṛtyena samādhiskandhasya samādhiprajñayorabhāve satyeṣu vicikitsako bhavatītyataḥ pañcoktāni /
+etasyāṃ tu kalpanāyāṃ samādhiskandhavirodhina auddhatyakaukṛtyanivaraṇasya pūrva grahaṇaṃ prāpnoti /
+ato yathāsaṃkhyametābhyāṃ samādhiprajñāskandhopaghāta ityapare /
 samādhiprayuktasya hi styānamiddhādbhayam /
 dharmapravicayaprayuktasyauddhatyakaukṛtyāditi /
 anye tvanyathā varṇayanti /
 kathaṃ varṇayanti /
-cāragatasya priyāpriyarūpeṣu viṣayeṣu nimittagrāhādvihāragatasya
-tatpūrvakau kāmacchandavyāpādau samādhipraveśasyādito
-'ntarāyaṃ kurutaḥ /
-tataḥ samādhipraviṣṭasyāprayogeṇa śamathavipaśyanā
-sevanāt styānamiddhamauddhatyakaukṛtyaṃ vicikitsā ca
-yathākramaṃ śamathavipaśyanayorantarāyaṃ kurutaḥ /
+cāragatasya priyāpriyarūpeṣu viṣayeṣu nimittagrāhādvihāragatasya tatpūrvakau kāmacchandavyāpādau samādhipraveśasyādito 'ntarāyaṃ kurutaḥ /
+tataḥ samādhipraviṣṭasyāprayogeṇa śamathavipaśyanā sevanāt styānamiddhamauddhatyakaukṛtyaṃ vicikitsā ca yathākramaṃ śamathavipaśyanayorantarāyaṃ kurutaḥ /
 vyutthitasyāpi dharmanidhyānakāle vicikitsāntarāyaṃ karoti /
-nataḥ pañca nivaraṇānyuktāni /
+ataḥ pañca nivaraṇānyuktāni /
 ```
 
 This unit is [318|08–319|18] of
 `Vasubandhu/Sources/kosabhasya.txt`. The next sentence,
 `idaṃ vicāryate` at [319|19], opens 5.60. The running
-text's `nata` at two transitions, `dvyekatā`,
-`skandhavidhāta`, `'maravitarkaḥ`, and the compact
-`styānamiddhamauddhatyakaukṛtyaṃ` are retained. Line
-division and omission of the source's verse identifier are
-editorial; the syntax and variant readings need later review.
+text's `dvyekatā`, `skandhavidhāta`, `'maravitarkaḥ`, and
+the compact `styānamiddhamauddhatyakaukṛtyaṃ` are retained.
+The two transitions read `ata` and `ataḥ`, not `nata`.
+The block retains the working witness's word division and
+punctuation; only page labels, indentation, and the verse
+tag are omitted. The compressed syntax and variant readings
+need further review.
 The anchor copies the separate kārikā witness exactly. The running text's
 `dvyekatā` is glossed as `dvayor ekatā`; it also reads
 `skandhavidhāta` where the separate kārikā has `skandhavighāta`.
@@ -108,14 +92,14 @@ one nourishment, and one function. “Unity of two” explains
 For torpor and sleepiness, the sūtra gives one nourishment
 and one non-nourishment. Their nourishment is five factors:
 languor, discontent, yawning, imbalance regarding food, and
-sinking of mind. Their non-nourishment is the perception of
-light. They also have one function: both drive the mind
+sinking of Consciousness. Their non-nourishment is the perception of
+light. They also have one function: both drive Consciousness
 toward collapse. Restlessness and remorse likewise have one
 nourishment and one non-nourishment. Their nourishment is
 four factors: thought about relatives, thought about a
 locality, the transmitted `amara-vitarka`, and recalling
 former laughter, play, and enjoyment. Their non-nourishment
-is calming (`śamatha`). Both keep the mind unpacified.
+is calming (`śamatha`). Both keep Consciousness unpacified.
 Thus each pair counts as one through its common counteragent,
 nourishment, and function.
 
@@ -133,16 +117,17 @@ the one engaged in concentration fears torpor and sleepiness;
 the one engaged in examining dharmas fears restlessness and
 remorse.
 
-Still others explain it differently. Sign-grasping among
-agreeable and disagreeable objects while one is moving
-about gives rise to sensual desire and ill will when one
-settles down; these initially obstruct entry into
-concentration. For one who has entered concentration,
-failure to apply oneself to calming and insight allows
-torpor and sleepiness, restlessness and remorse, and doubt
-to obstruct calming and insight in the stated sequence.
-Even after emerging, doubt obstructs reflection on Dharma.
-That is why five hindrances are taught.
+Still others explain it differently. How? When someone
+has been moving about and grasping signs in agreeable and
+disagreeable Conditions, sensual desire and ill will arise
+from that prior activity when the person returns to the
+dwelling; they obstruct entry into concentration at the outset.
+For one who has entered concentration, nonapplication in
+cultivating calm and insight is followed by torpor with
+sleepiness, restlessness with remorse, and doubt as obstacles
+to calm and insight “in order.” The mapping in this compressed
+sentence is not fully explicit. Even after one emerges, doubt
+obstructs contemplation of Dharma. Thus five hindrances are taught.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -159,8 +144,8 @@ shared nourishment (`āhāra`), opposing or non-nourishing
 condition (`vipakṣa` / `pratipakṣa` / `anāhāra`), and effect
 (`kṛtya`). The text supplies the concrete conditions and
 effects for each pair. Torpor and sleepiness tend toward
-`citta-laya`; restlessness and remorse keep the mind
-`avyupaśānta`. These are different failures of the mind's
+`citta-laya`; restlessness and remorse keep Consciousness
+`avyupaśānta`. These are different failures of Consciousness's
 readiness, not one generic “distraction.”
 
 The fivefold explanation concerns **śīla-, samādhi-, and
@@ -184,7 +169,10 @@ Path-Bases” in light of the three named skandhas; the
 separate kārikā's `vighāta` would make the obstructive sense
 more transparent. The reading and exact sense of
 `'maravitarkaḥ` remain open, so no conjectural English
-equivalent is inserted into the translation.
+equivalent is inserted into the translation. The final
+practice-sequence account lists three later hindrances beside
+two named practices and then singles out doubt after emergence;
+its `yathākramam` does not by itself secure a one-to-one mapping.
 
 **Organon reconstruction.** A factor's identity and the
 count of operative hindrances answer different questions.
@@ -198,8 +186,13 @@ pairings and preserves rival analyses.
 
 ## 6. Review Status
 
-Provisional. The whole commentary unit, distributed verse,
-and opening boundary of 5.60 were checked against the
-running IAST source. The Kārikā variants, `amara-vitarka`,
-and the final account's compressed sequence need a later
-philological pass.
+Coverage checked against the complete unit [318|08–319|18]:
+the sūtra inventory, Desire Realm restriction, two pairwise
+grounds with their nourishments and counteragents, the
+fivefold Path-Base account, objection, and two attributed
+alternatives are represented in the continuous translation.
+The 41-line Sanskrit block matches the working witness after
+page labels, indentation, and the verse tag are removed.
+The opening question of 5.60 begins at [319|19]. The kārikā
+variants, `'maravitarkaḥ`, and the final account's compressed
+sequence remain open for philological review.

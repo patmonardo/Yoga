@@ -13,15 +13,11 @@
 
 ```iast
 upakleśānāṃ punaḥ
-
-    daurmanasyena kaukṛtyamīrṣyā krodho vihiṃsanam /
-    upanāhaṃ pradāśaśca
-
+daurmanasyena kaukṛtyamīrṣyā krodho vihiṃsanam /
+upanāhaṃ pradāśaśca
 saṃprayuktānīti vartate /
 dainyākāravartitvādeṣāṃ manobhūmikatvācca /
-
-    mātsaryaṃ tu viparyayāt /
-
+mātsaryaṃ tu viparyayāt
 saumanasyenetyarthaḥ /
 lobhānvayatvena harṣākāravartitvāt /
 ```
@@ -30,16 +26,17 @@ This unit occupies [317|09–14] of
 `Vasubandhu/Sources/kosabhasya.txt`; [317|15] begins the
 next kārikā. The running witness has `upanāhaṃ`, whereas
 the separate kārikā witness has nominative `upanāhaḥ`.
-The transmitted form is preserved here. Line division and
-the removal of the source's verse identifier are editorial.
+The transmitted form is preserved here. The block retains
+the working witness's word division and punctuation; only
+page labels, indentation, and the verse tag are omitted.
 
 ## 3. Continuous Translation
 
 Now, concerning the secondary afflictions: remorse, envy,
-anger, harmfulness, sustained resentment, and obstinate fault-clinging are
-conjoined with mental distress. The words “are conjoined”
-are to be supplied. These factors operate in a mode of
-dejection and belong to the mental level.
+anger, harmfulness, sustained resentment, and obstinate
+fault-clinging are conjoined with mental distress. The words
+“are conjoined” carry over. These factors operate in a mode
+of dejection and belong to the mental level.
 
 Avarice, however, goes with the opposite feeling: that is,
 with mental gladness. It belongs to the lineage of greed
@@ -63,11 +60,12 @@ mental distress rather than bodily pain.
 
 `Viparyayāt` is resolved by the prose as `saumanasyena`:
 avarice is conjoined with mental gladness. Here the text
-adds an afflictive affiliation, `lobhānvaya`, and an
-operative mode, `harṣākāra`. Greed lineage, exhilarated
-mode, and actual conjunction with gladness are related
-determinations, not three names for one thing. The
-pleasant feeling does not make avarice wholesome.
+gives two explanatory grounds: avarice belongs to greed's
+lineage (`lobhānvaya`) and operates in an exhilarated mode
+(`harṣākāra`). Lineage, mode, and conjunction with gladness
+are distinct determinations. The text does not specify a
+temporal or genetic sequence among these three. The pleasant
+feeling does not make avarice wholesome.
 
 ## 5. Translation and Interpretation
 
@@ -89,6 +87,11 @@ supplies such a schema.
 
 ## 6. Review Status
 
-Provisional. The complete 5.57 unit and its transition to
-5.58 were checked against the running IAST source. The
-`upanāhaṃ` variant remains for the later textual review.
+Coverage checked against the complete unit [317|09–14]:
+the transition to secondary afflictions, six distress cases,
+two common grounds, avarice, and its two grounds are represented
+in the continuous translation. The eight-line Sanskrit block
+matches the working witness after page labels, indentation,
+and the verse tag are removed. The next fragment begins 5.58
+at [317|15]. The `upanāhaṃ` / `upanāhaḥ` difference remains
+marked for textual review.

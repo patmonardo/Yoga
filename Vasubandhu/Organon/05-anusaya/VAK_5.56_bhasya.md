@@ -13,66 +13,62 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    daurmanasyena kāṅkṣā.
-
-saṃśayito hi niścayenārthī durmanāyate.
-
-    anye saumanasyena.
-
-anye 'nuśayāḥ saumanasyenaiva saṃprayuktāḥ.
-ke punar anye? catasro dṛṣṭano mānaś ca.
-harṣākāravartitvāt. kiṃpratisaṃyuktā ime
-'nuśayā nirdiṣṭāḥ? āha:
-
-    kāmajāḥ.
-
-evaṃ pratiniyataṃ saṃprayogam uktvā sāmānyenāha:
-
-    sarve 'py upekṣayā.
-
-sarve 'py ete 'nuśayā upekṣendriyeṇa saṃprayuktāḥ.
-pravāhacchedakāle kila kleśānām avaśyam upekṣā
-saṃtiṣṭhate. adhobhūmikāḥ katham ity āha:
-
-    svaiḥ svair yathābhumy ūrdhvabhūmikāḥ.
-
-svaiḥ svair indriyair ūrdhvabhūmikā anuśayāḥ
-saṃprayujyante, yasyāṃ bhūmau yāvantīndriyāṇi.
-tatrāpi cāturvijñānakāyikāś cāturvijñānakāyikair
-manobhūmikā manobhūmikaireva yathāsaṃbhavam.
-uktaḥ kleśānām indriyasaṃprayogaḥ.
+daurmanasyena kāṅkṣā
+saṃśayito hi niścayenārthī durmanāyate /
+anye saumanasyena
+anye 'nuśayāḥ saumanasyenaiva saṃprayuktāḥ /
+ke punaranye /
+catasro dṛṣṭano mānaśca /
+harṣākāravartitvāt /
+kiṃpratisaṃyuktā ime 'nuśayā nirdiṣṭāḥ /
+āha /
+kāmajāḥ /
+evaṃ pratiniyataṃ saṃprayogamuktvā sāmānyenāha
+sarve 'pyupekṣayā
+sarve 'pyete 'nuśayā upekṣendriyeṇa saṃprayuktāḥ /
+pravāhacchedakāle kila kleśānāmavaśyamupekṣā saṃtiṣṭhate /
+adhobhūmikāḥ kathamityāha
+svaiḥ svairyathābhumyūrdhvabhūmikāḥ
+svaiḥ svairindriyairurdhvabhūmikā anuśayāḥ saṃprayujyante /
+yasyāṃ bhūmau yāvantīndriyāṇi /
+tatrāpi cāturvijñānakāyikāścāturvijñānakāyikairmanobhūmikā manobhūmikaireva yathāsaṃbhavam /
+uktaḥ kleśānāmindriyasaṃprayogaḥ /
 ```
 
 The unit runs [316|15–317|08] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next sentence
 at [317|09] opens the upakleśa-feeling inquiry of 5.57.
-The verse is distributed across the prose. Word division
-and punctuation are editorial. The running text's
+The verse is distributed across the prose. The block retains
+the working witness's word division and punctuation; only
+page labels, indentation, and the verse tag are omitted. The running text's
 `dṛṣṭano`, `yathābhumy`, and the prose question
 `adhobhūmikāḥ` beside a verse about `ūrdhvabhūmikāḥ`
-remain visible as witness problems for later review.
+remain visible as witness problems. The local prose resolves
+the first as a count of four views and the last clause as a
+higher-level rule; the Sanskrit is not silently emended.
 
 ## 3. Continuous Translation
 
 Doubt is conjoined with mental distress, for a person in
 doubt seeks certainty and becomes distressed. The other
-anuśayas are conjoined with mental gladness: the four other
-views and conceit, because they operate in a glad mode.
-These specific conjunctions concern anuśayas arising in
-the Desire Realm.
+anuśayas are conjoined with mental gladness in this specific
+assignment. Which others? Four views and conceit, because
+they operate in a glad mode. With reference to which
+anuśayas is this stated? Those born in the Desire Realm.
 
 After stating their specific conjunctions, the text speaks
 generally: all these anuśayas can also be conjoined with
 the equanimity faculty. It is said that equanimity
 necessarily remains when the stream of the kleśas is being
-cut off. Higher-level anuśayas are conjoined with the
-feeling faculties proper to their respective levels,
-according to which faculties are present there. Within
-those levels, factors belonging to four cognition
-groups go with the corresponding faculties, and mental-
-level factors with mental-level faculties, as applicable.
-Thus the kleśas' conjunction with faculties has been
-explained.
+cut off. The prose then asks, “How about those of lower
+levels?”; the verse and its explanation answer for the
+higher-level anuśayas. They are conjoined with their own
+feeling faculties according to the faculties present at
+each level. There too, factors belonging to four Cognition
+groups are conjoined with faculties of those groups, and
+mental-level factors with mental-level faculties, as
+applicable. Thus the afflictions' conjunction with the
+faculties has been explained.
 
 ## 4. Argument and Doctrinal Determination
 
@@ -82,7 +78,9 @@ It cannot be translated as every remaining affliction.
 `Kāmajāḥ` limits these fixed feeling assignments to
 Desire Realm occurrences. Doubt and distress are conjoined,
 not identified; the commentary gives the doubter's search
-for certainty as their local connection.
+for certainty as their local connection. The `eva` in
+`saumanasyenaiva` belongs to this specific assignment;
+the general equanimity rule follows immediately.
 
 `Sarve 'py upekṣayā` changes from the specific assignments
 to a general rule. All the anuśayas discussed can occur with
@@ -97,8 +95,8 @@ The final clause adds a level constraint. Higher-level
 anuśayas take the faculties available on their own *bhūmi*;
 the Desire Realm matrix is not copied upward without that
 restriction. The prose further distinguishes factors of
-the four cognition groups from those confined to the
-mental level. This preserves the cognitive-support axis of
+the four Cognition groups from those confined to the
+mental level. This preserves the cognitive Basis axis of
 5.54 alongside the feeling-conjunction axis here.
 
 ## 5. Translation and Interpretation
@@ -112,7 +110,7 @@ proper to its own level. The apparent `adhobhūmikāḥ` /
 the ensuing prose clearly explains the higher-level rule.
 
 **Organon reconstruction.** The feeling relation is indexed
-to affliction, domain, and cognitive support. A specific
+to affliction, domain, and cognitive Basis. A specific
 pairing and a general equanimity pairing can both be true
 without changing the factor's identity. This is a
 project-level use of the Kośa's constraints for the Science
@@ -121,7 +119,11 @@ from any implemented schema.
 
 ## 6. Review Status
 
-Provisional. The complete distributed verse and explicit
-closure before 5.57 were checked against the running IAST
-source. The anomalous forms and the lower/higher-level
-wording need philological review.
+Coverage checked against the complete unit [316|15–317|08]:
+the distributed verse, scope questions, reported equanimity
+rationale, higher-level rule, and explicit closure are in the
+continuous translation. The 20-line Sanskrit block matches
+the working witness after page labels, indentation, and the
+verse tag are removed. The next sentence begins 5.57 at
+[317|09]. The anomalous forms and lower/higher wording remain
+open for philological review.

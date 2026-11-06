@@ -6,29 +6,24 @@
 > ālambana-prahāṇāc ca pratipakṣodayāt kṣayaḥ || 5.60 ||
 
 > An affliction is exhausted through complete knowledge of its cognitive
-> condition, through exhaustion of what takes it as a cognitive condition,
-> through abandonment of its cognitive condition, or through the arising of
+> Support, through exhaustion of what takes it as a Support,
+> through abandonment of its Support, or through the arising of
 > its counteragent.
 
 ## 2. Continuous Sanskrit
 
 ```iast
 idaṃ vicāryate /
-visabhāgadhātusarvatragāṇāṃ nirodhamārgadarśanaprahātavyānāṃ ca
-sāsravālambanānāṃ yadālambanaṃ parijñāyate tadā na prahīyante /
-yadā prahīyante tadālambanaṃ na parijñāyate iti
-kathameṣāṃ prahāṇam /
+visabhāgadhātusarvatragāṇāṃ nirodhamārgadarśanaprahātavyānāṃ ca sāsravālambanānāṃ yadālambanaṃ parijñāyate tadā na prahīyante /
+yadā prahīyante tadālambanaṃ na parijñāyate iti kathameṣāṃ prahāṇam /
 nāvaśyamālambanaparijñānāt kleśānāṃ kṣayo bhavati /
 kim tarhi /
 caturbhiḥ prakāraiḥ /
 katamaiścaturbhiḥ /
 darśanaheyānāṃ tāvat
-
-    ālambanaparijñānāttadālambanasaṃkṣayāt /
-    ālambanagrahāṇācca
-
-tatrālambanaparijñānād duḥkhasamudayadarśanaheyānāṃ
-svabhūmyālambanānāmanāsravālambanānāṃ ca /
+ālambanaparijñānāttadālambanasaṃkṣayāt /
+ālambanagrahāṇācca
+tatrālambanaparijñānād duḥkhasamudayadarśanaheyānāṃ svabhūmyālambanānāmanāsravālambanānāṃ ca /
 tadālambanasaṃkṣayād visabhāgadhātusarvatragāṇām /
 tadālambanā hi sabhāgadhātusarvatragāḥ /
 teṣu prahīṇeṣu te 'pi prahīṇā bhavanti /
@@ -36,22 +31,19 @@ teṣu prahīṇeṣu te 'pi prahīṇā bhavanti /
 te hyanāsravālambanāsteṣāmālambanam /
 atasteṣu prahīṇeṣu te 'piprahīṇā bhavanti /
 bhāvanāheyānāṃ punaḥ
-
-    pratipakṣodayāt kṣayaḥ
-
-yasya hi kleśaprakārasya pratipakṣo mārga utpadyate
-sa prahīyate /
+pratipakṣodayāt kṣayaḥ
+yasya hi kleśaprakārasya pratipakṣo mārga utpadyate sa prahīyate /
 kasya punaḥ kaḥ pratipakṣaḥ /
-adhimātrādhimātrasya mṛdumṛduriti vistāreṇa
-paścāt pravedayiṣyāmaḥ /
+adhimātrādhimātrasya mṛdumṛduriti vistāreṇa paścāt pravedayiṣyāmaḥ /
 ```
 
 The unit runs [319|19–320|06] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question
 `katividhaś ca pratipakṣaḥ` at [320|07] opens 5.61's
 fourfold classification of counteragents. The verse is
-distributed across the prose. Line division and omission
-of the source's verse identifier are editorial. The
+distributed across the prose. The block retains the working
+witness's word division and punctuation; only page labels,
+indentation, and the verse tag are omitted. The
 running source's `ālambanagrahāṇāc`, `kim tarhi`, and
 `te 'piprahīṇā` remain visible; only the first is a
 substantive conflict with the prose and separate verse.
@@ -63,59 +55,58 @@ The third member of the anchor follows the separate kārikā's
 ## 3. Continuous Translation
 
 This is to be examined. Consider universal afflictions of
-a different domain and contaminated-condition afflictions
+a different domain and afflictions with contaminated Supports
 abandoned through seeing cessation or the path. When their
-condition is completely known, they are not then abandoned;
-when they are abandoned, their condition is not then being
+Support is completely known, they are not then abandoned;
+when they are abandoned, their Support is not then being
 completely known. How, therefore, are they abandoned?
 Afflictions do not necessarily cease through complete
-knowledge of their own condition. They cease in four ways.
+knowledge of their own Support. How, then? In four ways.
+Which four?
 
 For afflictions abandoned through seeing, first: through
-complete knowledge of the condition, through exhaustion of
-what takes that as condition, and, as the running verse reads,
-through “taking the condition.” The subsequent prose explains
-the third as **abandonment** of the condition. The first way
+complete knowledge of the Support, through exhaustion of
+what takes that as Support, and, as the anomalous running verse reads,
+through “grasping the Support.” The subsequent prose explains
+the third as **abandonment** of the Support. The first way
 applies to afflictions abandoned through seeing suffering
-and origin that take conditions on their own level, and to
-those taking uncontaminated conditions. The second applies to
+and origin that take Supports on their own level, and to
+those taking uncontaminated Supports. The second applies to
 universal afflictions of a different domain: universal
-afflictions of the same domain take them as conditions; when
+afflictions of the same domain take them as Supports; when
 the latter are abandoned, the former are abandoned too.
-The third applies to contaminated-condition afflictions
+The third applies to afflictions with contaminated Supports
 abandoned through seeing cessation or the path. Afflictions
-that take uncontaminated conditions are themselves the conditions
+that take uncontaminated Supports are themselves the Supports
 of these; when those are abandoned, these too are abandoned.
 
 For afflictions abandoned through cultivation, exhaustion
 occurs when the counteragent arises. When the path opposing
 a particular type of affliction arises, that type is
-abandoned. Which counteragent opposes which type? The
-graded relation from the strongest to the weakest will be
-explained later.
+abandoned. Which counteragent opposes which type? For a very
+strong affliction, the counteragent is very weak; the graded
+account will be explained later.
 
 ## 4. Argument and Doctrinal Determination
 
 The opening problem rejects a universal rule that the
-condition of each affliction must be directly known at the
-moment that affliction is abandoned. `Ālambana` names the
-cognitive Condition taken by an affliction, distinct from Object as the
-comprehended truth of a thing. It is not interchangeable with a cognitive
-faculty or with the affliction itself.
-Knowing a condition and abandoning an affliction are thus
+Support of each affliction must be directly known at the
+moment that affliction is abandoned. `Ālambana` names what
+an affliction takes as Support.
+Knowing a Support and abandoning an affliction are thus
 different relations, with different timing in the cases
 that motivate the question.
 
 The first three grounds are assigned to **darśana-heya**
 cases. In the direct case, complete knowledge of the
-relevant condition is the ground. The next two cases are
+relevant Support is the ground. The next two cases are
 mediated: the target affliction is removed when a different
-affliction that takes it as condition, or an affliction serving
-as its own condition, is abandoned. The local prose names the
+affliction that takes it as Support, or an affliction serving
+as its own Support, is abandoned. The local prose names the
 same-domain and different-domain universal factors in the
-second case, and contaminated-condition and
-uncontaminated-condition factors in the third. Those directions
-must be kept; “the condition is abandoned” does not license a
+second case, and factors with contaminated and uncontaminated
+Supports in the third. Those directions
+must be kept; “the Support is abandoned” does not license a
 general claim that material things disappear when known.
 
 The fourth ground changes the class to **bhāvanā-heya**.
@@ -135,8 +126,8 @@ running verse's `ālambanagrahāṇācca`. The conventional
 translation states that conflict rather than disguising it.
 `Tadālambana` is relational: in the second case the
 same-domain universals take the different-domain universals
-as condition. The third case likewise turns on which affliction
-is condition for which. “Or” in the anchor makes the
+as Support. The third case likewise turns on which affliction
+is Support for which. “Or” in the anchor makes the
 Bhāṣya's case allocation readable; the verse itself uses
 coordinated ablatives.
 
@@ -150,7 +141,12 @@ every instance of seeing an afflictive appropriation.
 
 ## 6. Review Status
 
-Provisional. The whole 5.60 commentary unit and its boundary
-with 5.61 were checked against the running IAST source. The
-`grahāṇa` / `prahāṇa` verse conflict and the exact syntax of
-the first allocation need later textual review.
+Coverage checked against the complete unit [319|19–320|06]:
+the initial counterexample, all four grounds and their case
+allocations, the two mediated Support directions, and the
+strong/weak counteragent preview are represented in the
+continuous translation. The 22-line Sanskrit block matches
+the working witness after page labels, indentation, and the
+verse tag are removed. The 5.61 question begins at [320|07].
+The `grahāṇa` / `prahāṇa` conflict and the exact syntax of
+the first allocation remain open for textual review.

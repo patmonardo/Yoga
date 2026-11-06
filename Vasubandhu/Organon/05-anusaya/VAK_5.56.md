@@ -19,6 +19,13 @@ specifies further Desire Realm pairings, then states a general equanimity
 rule, and finally constrains higher-level conjunctions by the faculties
 available in each level.
 
+**Textual caution.** The running Bhāṣya reads `dṛṣṭano` in its
+enumeration, `yathābhumy` in the last verse fragment, and
+`adhobhūmikāḥ` in the question before a higher-level answer.
+The local prose gives the count of four views and explicitly
+explains `ūrdhvabhūmikāḥ`; the divergent forms remain in the
+working Sanskrit witness.
+
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
@@ -77,7 +84,7 @@ The final clause is distributive:
 
 The repeated `svaiḥ svaiḥ` assigns to each higher-level affliction the
 faculties proper to its own level. The Bhāṣya further preserves the distinction
-between factors belonging to cognition-bodies and those restricted to the
+between factors belonging to four Cognition bodies and those restricted to the
 mental plane.
 
 ## 5. Translation
@@ -98,9 +105,8 @@ mental plane.
 
 ## 6. Philosophical Translation
 
-> Afflictive doubt seeks determination yet remains unable to attain it, and
-> therefore occurs with mental distress. The remaining four views and conceit
-> can affirm themselves with gladness in the Desire Realm. Yet characteristic
+> Afflictive doubt seeks determination and becomes distressed. The remaining
+> four views and conceit can occur with gladness in the Desire Realm. Yet characteristic
 > affect is not exclusive affect: every anuśaya can also persist with neutral
 > feeling. In higher levels, possible conjunction is governed by the affective
 > and cognitive constitution of each field. Calmness, subtlety, and elevation
@@ -115,7 +121,7 @@ with a domain-indexed structure of possible conjunctions.
 **`Kāṅkṣā` — afflictive doubt**
 
 The Bhāṣya explains doubt through the doubter's desire for certainty
-(`niścayena arthin`) and consequent mental distress. Doubt is the unresolved
+(`niścayenārthī`) and consequent mental distress. Doubt is the unresolved
 cognitive-afflictive orientation; distress is its conjoined painful mental
 tone.
 
@@ -134,8 +140,8 @@ exhilaration or elation (`harṣākāravartitva`).
 
 **`Kāmaja` — arising in the Desire Realm**
 
-A domain predicate delimiting the specific conjunctions established across
-VAK 5.55–5.56. It does not mean merely sensual in an ordinary psychological
+A domain predicate delimiting the specific first-half conjunctions of
+VAK 5.56. It does not mean merely sensual in an ordinary psychological
 sense.
 
 **`Pratiniyata-saṃprayoga` — specifically fixed conjunction**
@@ -163,8 +169,8 @@ constituting each domain or level.
 
 **`Ūrdhvabhūmika` — belonging to a higher level**
 
-Higher in domain does not mean unafflicted. It indicates a subtler field with
-its own available faculties and cognitive supports.
+Higher in domain does not mean unafflicted. The passage indexes
+conjunction to that level's available faculties and cognitive Basis.
 
 ## 8. Logical Determination
 
@@ -200,7 +206,7 @@ The higher-level rule is a constraint on possibility:
 PermitsConjunction(x, f, d)
     → AfflictionAvailableIn(x, d)
       AND FeelingFacultyAvailableIn(f, d)
-      AND CognitiveSupportCompatible(x, f, d)
+      AND CognitiveBasisCompatible(x, f, d)
 ```
 
 At least four coordinates must therefore remain distinct:
@@ -228,17 +234,16 @@ reading of `anye`: only the four views other than false view and conceit are
 meant. It also makes the first-half classification specifically a desire-
 domain matrix.
 
-**Doubt is not inquiry.** The verse concerns afflictive suspension that seeks
-certainty but cannot settle itself, not disciplined investigation whose
-openness is ordered toward knowledge.
+**Organon distinction.** The verse's doubt seeks certainty and becomes
+distressed. A later comparison with disciplined inquiry should preserve
+that afflictive context.
 
 **Neutrality is not liberation.** `Sarve 'py upekṣayā` blocks inference from
 low affective intensity to purity. Attachment, view, ignorance, doubt, or
 conceit can remain operative without vivid pleasure or distress.
 
-**Domain is constitutive.** `Yathābhūmi` does not add an external location to
-an otherwise complete state. Each level determines which feeling-faculties
-and cognitive supports are available, thereby delimiting possible
+**Domain and level.** `Yathābhūmi` indexes which feeling faculties
+and cognitive Basis are available at each level, thereby delimiting possible
 conjunctions.
 
 **Closure and transition.** The Bhāṣya concludes that the conjunction of the
@@ -322,7 +327,7 @@ Rule: Anusaya(?x) AND DomainAppropriate(?x, ?d)
 
 Rule: HigherLevelAffliction(?x) AND OccursIn(?x, ?d)
       AND FeelingAvailableInDomain(?f, ?d)
-      AND CognitiveSupportCompatible(?x, ?f, ?d)
+      AND CognitiveBasisCompatible(?x, ?f, ?d)
     -> MayConjoinWith(?x, ?f, ?d)
 
 Constraint: EquanimousFeeling(?f)

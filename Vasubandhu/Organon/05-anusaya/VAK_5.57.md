@@ -50,7 +50,7 @@ The instrumental `daurmanasyena` governs six coordinated nominatives:
 
 Number and gender vary across the enumerated subjects, while the omitted
 predicate “are associated” is recovered from the continuing topic. The
-Bhāṣya explicitly says `saṃprayuktāni iti vartate`.
+Bhāṣya explicitly says `saṃprayuktānīti vartate`.
 
 The second construction is contrastive:
 
@@ -88,8 +88,8 @@ the ellipsis explicit: `saumanasyena ity arthaḥ`.
 > Pleasant feeling consequently does not certify freedom from affliction; its
 > meaning depends upon the relation enacted within the cognitive event.
 
-The verse determines feeling through operative form, not merely through the
-object-theme shared by different factors.
+The Bhāṣya gives operative mode and mental-level status as grounds for the
+distress group, and greed lineage and exhilarated mode for avarice.
 
 ## 7. Technical Vocabulary
 
@@ -138,12 +138,13 @@ wholesomeness.
 
 **`Lobhānvaya` — belonging to the lineage of greed**
 
-A genetic or classificatory affiliation. For avarice, this lineage explains
-its exhilarated form, which in turn explains its conjunction with gladness.
+An afflictive affiliation. The Bhāṣya names it alongside avarice's
+exhilarated mode as grounds for conjunction with gladness; the local prose
+does not give a temporal sequence between them.
 
 **`Harṣākāra` — mode of exhilaration**
 
-The operative affective form mediating avarice's greed-lineage and its
+The operative affective form the Bhāṣya names in explaining avarice's
 compatibility with `saumanasya`.
 
 **`Manobhūmika` — belonging to the mental plane**
@@ -162,11 +163,11 @@ For x in {Kaukṛtya, Īrṣyā, Krodha, Vihiṃsā, Upanāha, Pradāśa}:
     → PermitsConjunction(x, Daurmanasya)
 ```
 
-For avarice the determination is explicitly mediated:
+For avarice the Bhāṣya states two explanatory grounds:
 
 ```text
 HasAfflictiveLineage(Mātsarya, Lobha)
-    → HasOperativeMode(Mātsarya, Harṣākāra)
+AND HasOperativeMode(Mātsarya, Harṣākāra)
     → PermitsConjunction(Mātsarya, Saumanasya)
 ```
 
@@ -194,12 +195,8 @@ PleasantMentalFeeling(event)
     ⇏ Wholesome(event)
 ```
 
-Envy and avarice also show why thematic object-content is insufficient:
-
-```text
-īrṣyā      another's possession → distressed comparison
-mātsarya   one's own possession → glad withholding
-```
+This model records the local grounds without inferring a distinct object
+for each factor from this short passage.
 
 ## 9. Interpretive Note
 
@@ -212,10 +209,9 @@ harmfulness, rancor, and obstinate indignation under dejected operative form
 and mental-plane status. More elaborate individual psychological derivations
 may illuminate them, but must not replace the stated Bhāṣya rationale.
 
-**Avarice is the countercase.** `Viparyayāt` is resolved as mental gladness,
-and the prose provides a precise chain: greed-lineage, exhilarated mode,
-gladness-conjunction. Lineage grounds the explanation without becoming
-identical to feeling.
+**Avarice is the countercase.** `Viparyayāt` is resolved as mental gladness.
+The prose cites greed lineage and exhilarated mode together; both are
+distinct from the feeling with which avarice is conjoined.
 
 **No hedonic criterion of purity.** Envy feels painful while avarice can feel
 pleasing; both remain afflictive. Feeling-tone must be interpreted through the
@@ -231,7 +227,7 @@ Upakleśa
     permitsConjunctionWith FeelingFaculty
 ```
 
-This representation follows the mediations exposed by the Bhāṣya. It is a
+This representation follows the distinct grounds named by the Bhāṣya. It is a
 project-level model, not terminology attributed to Vasubandhu.
 
 ## 10. OWL++ Seed
@@ -297,5 +293,5 @@ View: UpaklesaFeelingMediation
                FeelingConjunction, CognitivePlane, SourceProvenance
 ```
 
-The seed preserves the verse's mediated determination: lineage and operative
+The seed preserves the verse's distinct grounds: lineage and operative
 form explain a feeling-conjunction without collapsing into it.

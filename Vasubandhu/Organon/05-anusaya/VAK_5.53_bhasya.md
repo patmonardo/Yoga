@@ -13,33 +13,26 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-kati punar eṣāṃ kutastyā veditavyāḥ?
-
-    māyā śāṭhyaṃ ca kāmādyadhyānayoḥ.
-
-etau dvau kāmadhātau prathame ca dhyāne.
-kathaṃ brahmaloke māyāḥ?
-
-    brahmavañcanāt.
-
-sa hi tatra mahābrahmā vitathātmasaṃdarśanatayā
-āyuṣmantam aśvajitaṃ vañcayituṃ pravṛttaḥ.
-uktam api śāṭhyaṃ prasaṅgāgataṃ punar evoktam.
-
-    styānauddhatyamadā dhātutraye.
-
-ete trayas traidhātukāḥ.
-
-    anye kāmadhātujāḥ.
-
-ṣoḍaśabhyaḥ pañcāpanīyānya ekādaśopakleśāḥ
-kāmāvacarā eva. uktā kleśāḥ upakleśāś ca.
+kati punareṣāṃ kutastyā veditavyāḥ /
+māyā śāṭhyaṃ ca kāmādyadhyānayoḥ
+etau dvau kāmadhātau prathame ca dhyāne /
+kathaṃ brahmaloke māyāḥ /
+brahmavañcanāt /
+sa hi tatra mahābrahmā vitathātmasaṃdarśanatayā āyuṣmantamaśvajitaṃ vañcayituṃ pravṛttaḥ /
+uktamapi śāṭhyaṃ prasaṅgāgataṃ punarevoktam /
+styānauddhatyamadā dhātutraye
+ete trayastraidhātukāḥ /
+anye kāmadhātujāḥ //
+ṣoḍaśabhyaḥ pañcāpanīyānya ekādaśopakleśāḥ kāmāvacarā eva /
+uktā kleśāḥ upakleśāśca /
 ```
 
 The unit runs [315|01–11] in
 `Vasubandhu/Sources/kosabhasya.txt`. The next question
 at [315|12] opens 5.54. The verse is distributed across
-the prose. Word division and punctuation are editorial.
+the prose. The Sanskrit block retains the working witness's
+spelling and punctuation; only page labels and the verse tag
+are omitted.
 The running source writes `kutastyā`; the contextual
 question is how many of these factors belong where.
 
@@ -107,8 +100,11 @@ classification, not an implemented system.
 
 ## 6. Review Status
 
-Provisional. All distributed verse fragments, the Brahmā
-example, the sixteen-minus-five count, and the explicit
-section closure were checked against the running IAST
-source. The witness's `kutastyā` and the precise source of
-the Brahmā anecdote remain for later textual review.
+Coverage checked against the complete unit [315|01–11]:
+all distributed verse fragments, the Brahmā example, the
+sixteen-minus-five count, and the explicit section closure
+are translated. The Sanskrit block matches the working
+witness after page labels and the verse tag are removed.
+The next question begins 5.54 at [315|12]. The witness's
+`kutastyā` and the precise source of the Brahmā anecdote
+remain for textual review.

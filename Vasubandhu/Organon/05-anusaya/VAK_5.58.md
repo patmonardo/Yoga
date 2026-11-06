@@ -20,7 +20,7 @@ of intoxication, the universal compatibility of neutral feeling, and four
 pervasive factors compatible with all five feeling-faculties.
 
 **Textual caution.** The working Bhāṣya e-text transmits `athī bhrakṣo` and
-`āhlīkya`; the doctrinally intelligible readings correspond to kārikā
+`āhlīkyam`; the doctrinally intelligible readings correspond to kārikā
 `atho mrakṣo` and to `āhrīkya`. The corrupted prose forms remain untouched in
 the research witness and are not silently substituted into the verse.
 
@@ -84,8 +84,9 @@ catvāri anyāni
     pañcabhiḥ [indriyaiḥ saṃprayuktāni]
 ```
 
-The Bhāṣya identifies the four as `āhrīkya`, `anapatrāpya`, `styāna`, and
-`auddhatya`, and supplies “feeling-faculties” as the ellipsis after `pañcabhiḥ`.
+The Bhāṣya lists the four in its working forms, beginning with `āhlīkyam`;
+the study identifies them as `āhrīkya`, `anapatrāpya`, `styāna`, and
+`auddhatya`. Its prose supplies “feeling-faculties” after `pañcabhiḥ`.
 
 ## 5. Translation
 
@@ -106,12 +107,12 @@ The Bhāṣya identifies the four as `āhrīkya`, `anapatrāpya`, `styāna`, and
 
 ## 6. Philosophical Translation
 
-> Deception, crooked intention, concealment, and sleep retain their afflicted
+> Deceit, crookedness, concealment, and sleepiness retain their afflicted
 > function under either gladness or distress; opposite appearances do not
 > alter what the factor does. Intoxication likewise has no context-free
 > feeling: its affective manifestation changes with the meditative level.
 > Neutral feeling excludes no anuśaya merely by being neutral, while four
-> pervasive derivative factors can inhabit the whole affective range. Feeling
+> specified secondary afflictions can occur with all five feelings. Feeling
 > is therefore neither the identity nor the ethical verdict of an affliction,
 > but one domain-conditioned determination of its occurrence.
 
@@ -162,8 +163,9 @@ above third dhyāna   → upekṣā
 **`Sarvagā upekṣā` — equanimity compatible with all**
 
 A universal compatibility rule for the anuśayas in this analysis. It asserts
-the absence of a prohibition, not that every occurrence of neutral feeling
-contains affliction.
+the absence of a prohibition, analogous to the absence of a prohibition for
+ignorance. It does not say that every occurrence of neutral feeling contains
+affliction.
 
 **The four others**
 
@@ -205,7 +207,7 @@ PermitsConjunction(x, Upekṣā)
     ⇏ EveryUpekṣāEventHas(x)
 ```
 
-The four pervasive derivatives have complete affective range:
+The four specified secondary afflictions have all five feeling faculties:
 
 ```text
 For x in {Āhrīkya, Anapatrāpya, Styāna, Auddhatya}:
@@ -224,7 +226,7 @@ BroadFeelingCompatibility(x)
 The completed analysis therefore requires:
 
 ```text
-CompatibleFeeling(Factor, Feeling, Bhūmi, CognitiveSupport)
+CompatibleFeeling(Factor, Feeling, Bhūmi, CognitiveBasis)
 ```
 
 rather than a unary feeling label attached to a factor.
@@ -241,9 +243,9 @@ above the third dhyāna. A flat lookup table would lose this Bhāṣya-controlle
 determination.
 
 **Neutrality supplies no automatic verdict.** The prose explains universal
-compatibility negatively: equanimity is nowhere prohibited as certain other
-conjunctions are. This does not convert ordinary neutral feeling into either
-affliction or liberation.
+compatibility by saying neutral feeling is nowhere prohibited, just as
+ignorance is nowhere prohibited. This does not convert every occurrence
+of ordinary neutral feeling into affliction.
 
 **Classification grounds relational range.** The final four do not receive
 fivefold range from a modern psychological conjecture. Their great
@@ -261,7 +263,7 @@ FeelingCompatibilityAssertion
     concernsDharma
     permitsFeeling
     atBhūmi
-    underCognitiveSupport
+    underCognitiveBasis
     groundedBy Classification
     supportedBy SourceSpan
 ```
@@ -344,7 +346,7 @@ Constraint: SameFeelingRange(?x, ?y)
     doesNotEntail SameAfflictiveFunction(?x, ?y)
 
 View: CompletedAfflictionFeelingMatrix
-    Preserves: FactorIdentity, FeelingFaculty, Bhumi, CognitiveSupport,
+    Preserves: FactorIdentity, FeelingFaculty, Bhumi, CognitiveBasis,
                MahabhumikaStatus, DoctrinalGround, SourceProvenance
 ```
 

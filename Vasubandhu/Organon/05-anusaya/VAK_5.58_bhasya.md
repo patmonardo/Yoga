@@ -15,44 +15,36 @@
 ## 2. Continuous Sanskrit
 
 ```iast
-    māyā śāṭhyamathī bhrakṣo middhaṃ cobhayathā
-
+māyā śāṭhyamathī bhrakṣo middhaṃ cobhayathā
 saumanasyadaurmanasyābhyāṃ saṃprayujyante /
 kadāciddhi sumanāḥ paraṃ vañcayate /
 kadāciddurmanāḥ /
 evaṃ yāvat svapiti /
-
-    madaḥ /
-    sukhābhyām
-
+madaḥ /
+sukhābhyām
 tṛtīye dhyāne sukhenādhastātsaumanasyena ūrdhvamupekṣayā /
 yasmāt
-
-    sarvagopekṣā
-
+sarvagopekṣā
 atastayā sarve 'nuśayāḥ saṃprayujyante /
 na hi tasyāḥ kvacit pratiṣedho yathā 'vidyāyāḥ /
-
-    cātvāryanyāni pañcabhiḥ /
-
-āhlīkyamanapatrāpyaṃ styānamauddhatyaṃ
-caitānicatvāri paryavasthānāni pañcabhirapīndriyaiḥ
-saṃprayujyante /
+cātvāryanyāni pañcabhiḥ
+āhlīkyamanapatrāpyaṃ styānamauddhatyaṃ caitānicatvāri paryavasthānāni pañcabhirapīndriyaiḥ saṃprayujyante /
 akuśalamahābhūmikatvāt kleśamahābhūmikatvācca /
 ```
 
 The distributed unit runs [317|15–318|07] in
 `Vasubandhu/Sources/kosabhasya.txt`. At [318|08] the
 discussion turns to the five hindrances. The running
-witness's `athī bhrakṣo` and `āhlīkya` are preserved here;
+witness's `athī bhrakṣo` and `āhlīkyam` are preserved here;
 the separate kārikā has `atho mrakṣo`, and the expected
-term for the first of the four is `āhrīkya`. Word division,
-punctuation, and removal of the verse identifier are
-editorial. These discrepancies remain for textual review.
+term for the first of the four is `āhrīkya`. The block
+retains the witness's word division and punctuation; only
+page labels, indentation, and the verse tag are omitted.
+These discrepancies remain for textual review.
 
 ## 3. Continuous Translation
 
-Deception, crookedness, concealment, and sleep are
+Deceit, crookedness, concealment, and sleepiness are
 conjoined in both ways, with mental gladness and mental
 distress. Sometimes a glad person deceives another;
 sometimes a distressed person does. The same applies
@@ -62,11 +54,11 @@ Intoxication is conjoined with the two pleasant feelings:
 with pleasure in the third dhyāna and with mental gladness
 below it; above it, with neutral feeling. For neutral
 feeling goes everywhere: all the anuśayas are conjoined
-with it. There is no exclusion of neutral feeling anywhere,
-as there is in the case of ignorance.
+with it. Neutral feeling is nowhere excluded, just as
+ignorance is not excluded.
 
-The four others are shamelessness, lack of concern for
-reproach, torpor, and restlessness. These four
+The four others are shamelessness, lack of moral concern,
+torpor, and excitation. These four
 *paryavasthānas* are conjoined even with all five feeling
 faculties, because they belong respectively to the great
 unwholesome and the great afflictive classes of factors.
@@ -91,14 +83,14 @@ would omit the prose's higher-level case.
 case and recalls the general rule of 5.56. The prose
 explicitly says **all anuśayas** can be conjoined with
 neutral feeling. It does not explicitly extend this line's
-universal quantifier to every secondary affliction. Its
-comparison with ignorance is compressed and should not be
-expanded into a further rule without checking the wider
-doctrinal context. Neutral feeling alone does not certify
-absence of an anuśaya.
+universal quantifier to every secondary affliction. The
+comparison with ignorance is positive: neither is prohibited
+in any such conjunction. The analogy does not erase the
+different roles of feeling and affliction. Neutral feeling
+alone does not certify absence of an anuśaya.
 
 Finally, `catvāry anyāni` is resolved as four
-*paryavasthānas*: `āhlīkya` (expected `āhrīkya`),
+*paryavasthānas*: `āhlīkyam` (expected `āhrīkya`),
 `anapatrāpya`, `styāna`, and `auddhatya`. Their conjunction
 with all five feeling faculties is grounded in class
 membership: the first pair belongs to the unwholesome
@@ -113,7 +105,7 @@ kārikā witness where the running text is visibly irregular.
 The continuous Sanskrit retains the running witness.
 “Neutral feeling” renders `upekṣā` as a feeling faculty in
 this matrix; it is not a claim of liberative equanimity.
-“Sleep” for `middha` and the English names for the four
+“Sleepiness” for `middha` and the English names for the four
 other factors are working translations pending the later
 lexical review.
 
@@ -127,7 +119,12 @@ kept separate from a proposed implementation.
 
 ## 6. Review Status
 
-Provisional. The full distributed verse and commentary were
-checked against the running IAST source. The damaged verse
-forms, `āhlīkya`, and the compressed ignorance comparison
-require textual and doctrinal review.
+Coverage checked against the complete unit [317|15–318|07]:
+the distributed verse, twofold mental feeling, level-specific
+intoxication, neutral feeling's range and ignorance analogy,
+and the four-factor list with its class grounds are represented
+in the continuous translation. The 15-line Sanskrit block
+matches the working witness after page labels, indentation,
+and the verse tag are removed. The hindrances inquiry begins
+5.59 at [318|08–09]. The damaged verse forms and `āhlīkyam`
+remain open for textual review.

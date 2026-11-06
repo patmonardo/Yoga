@@ -18,7 +18,7 @@ VAK 5.59 leaves the completed feeling-conjunction matrix and reclassifies
 selected afflictive factors by their practical function as hindrances.
 
 **Textual caution.** The kārikā witness transmits `dvayakaitāḥ` and
-`skandhavighāta`; the Bhāṣya anchor gives `dvyekatā` and `skandhavidhāta`, and
+`skandhavighāta`; the running Bhāṣya gives `dvyekatā` and `skandhavidhāta`, and
 the prose explicitly explains `dvayor ekatā dvyekatā`, “the unity of two.”
 The transmitted verse above is preserved verbatim. The translation follows
 the prose-secured sense without silently replacing the witness.
@@ -139,21 +139,21 @@ tandrā              drowsiness or languor
 arati               dissatisfaction with engagement
 vijṛmbhikā           yawning
 bhakte asamatā       immoderation in food
-cetaso līnatva       sinking or slackness of mind
+cetaso līnatva       sinking or slackness of Consciousness
 ```
 
 Its counter-condition is `ālokasaṃjñā`, the perception or conception of
-light. Its shared function is `citta-laya`, driving the mind toward sinking.
+light. Its shared function is `citta-laya`, driving Consciousness toward sinking.
 
 **The nourishment of `auddhatya-kaukṛtya`**
 
 The prose lists discursive preoccupation with relatives, locality, the
-transmitted `amara-vitarka`, and recollection of former laughing, play,
-amusement, and enjoyment. `Amara-vitarka` is preserved as transmitted rather
+transmitted `'maravitarkaḥ`, and recollection of former laughing, play,
+amusement, and enjoyment. The third term is preserved as transmitted rather
 than conjecturally resolved.
 
 Its counter-condition is `śamatha`, calming or tranquility. Its shared
-function is keeping the mind unpacified (`avyupaśānta-citta`).
+function is keeping Consciousness unpacified (`avyupaśānta-citta`).
 
 **`Skandha` — Path-Base in this passage**
 
@@ -233,11 +233,13 @@ the practical relations of nourishment, counter-condition, and obstructive
 function.
 
 **Plural source voices.** A received explanation assigns the pairs to
-discriminative comprehension and concentration; `apare` reverses them according to which factor
-threatens the practitioner exercising each capacity. A further view (`anye`)
-organizes the hindrances sequentially around entry into samādhi, cultivation
-of calming and insight, and subsequent examination of Dharma. The Bhāṣya does
-not flatten these rationales.
+discriminative comprehension and concentration; `apare` reverses them according
+to which factor threatens the practitioner exercising each capacity. A further
+view (`anye`) organizes the hindrances around sign-grasping in agreeable and
+disagreeable Conditions, entry into concentration, cultivation of calm and
+insight, and subsequent examination of Dharma. Its middle sentence lists
+three later hindrances beside two practices with `yathākramam`; the exact
+mapping remains compressed. The Bhāṣya does not flatten these rationales.
 
 **Internal practical reason.** The passage itself already supplies a complete
 intervention schema:

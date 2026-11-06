@@ -34,9 +34,9 @@ kāmadhātorurdhvamavyākṛtāḥ upakleśā yathāsaṃbhavam /
 The unit runs [314|08–19] in
 `Vasubandhu/Sources/kosabhasya.txt`. The question at
 [315|01] opens the distribution by domain in 5.53.
-The Kārikā is distributed through the prose. Word division,
-punctuation, and the line-break hyphen in the long five-name
-compound are editorial. The running source reads `irṣyā`
+The Kārikā is distributed through the prose. The Sanskrit block
+retains the working witness's spelling and punctuation; only page
+labels and the verse tag are omitted. The running source reads `irṣyā`
 and `bhrakṣa` in that compound; these are preserved rather
 than silently normalized.
 
@@ -105,8 +105,11 @@ schema.
 
 ## 6. Review Status
 
-Provisional. All distributed verse fragments and the
-boundary with 5.53 were checked against the running IAST
-source. The anomalous forms in the five-name compound and
-the finer sense of `adhimātrasaṃprayogitva` remain for
-philological review.
+Coverage checked against the complete unit [314|08–19]:
+the five remaining envelopments, their stated independence,
+the six stains, and the ethical valuations by domain are
+translated. The Sanskrit block matches the working witness
+after page labels and the verse tag are removed. The next
+question begins 5.53 at [315|01]. The compound's anomalous
+forms and the finer sense of `adhimātrasaṃprayogitva` remain
+for textual review.

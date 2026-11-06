@@ -27,12 +27,12 @@ preserved verbatim; the four-member interpretation is Bhāṣya-controlled.
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `[prahāṇa-ādhāra-dūrībhāva-vidūṣaṇā]-ākhyaḥ` | reconstructed interpretive division, nominative singular masculine | called abandonment, support, distancing, and discrediting |
+| `[prahāṇa-ādhāra-dūrībhāva-vidūṣaṇā]-ākhyaḥ` | reconstructed interpretive division, nominative singular masculine | called abandonment, maintenance, distancing, and discrediting |
 | `caturvidhaḥ` | nominative singular masculine | fourfold |
 | `pratipakṣaḥ` | nominative singular masculine | counteragent or opposing Path-operation |
 | `prahātavyaḥ` | nominative singular masculine gerundive of `pra-√hā` | to be abandoned |
 | `kleśaḥ` | nominative singular masculine | affliction |
-| `ālambanān` | transmitted ablative form; the running verse has `ālambanāt` | from or with respect to the cognitive Condition |
+| `ālambanān` | transmitted ablative form; the running verse has `ālambanāt` | from or with respect to the Support |
 | `mataḥ` | nominative singular masculine past passive participle of `√man` | held, considered |
 
 
@@ -61,7 +61,7 @@ kleśaḥ
 
 The gerundive agrees with `kleśaḥ`; `mataḥ` marks the position as “held” or
 “considered.” The ablative initially identifies separation from the cognitive
-Condition: the affliction no longer arises taking that condition. The Bhāṣya then
+Support: the affliction no longer arises taking that Support. The Bhāṣya then
 tests and qualifies this answer, especially for past affliction.
 
 The received enumeration order differs from the operational Path-order later
@@ -72,16 +72,16 @@ for temporal sequence.
 
 ### Literal Translation
 
-> The counteragent is held to be fourfold, called abandonment, support,
+> The counteragent is held to be fourfold, called abandonment, maintenance,
 > distancing, and discrediting. An affliction is considered abandoned with
-> respect to its cognitive Condition.
+> respect to its Support.
 
 ### Bhāṣya-informed study translation
 
-> The counteragent has four forms: abandonment; support for an abandonment
+> The counteragent has four forms: abandonment; maintenance of an abandonment
 > already attained; distancing of the severed acquisition; and discrediting a
 > realm by seeing its defects. An affliction is considered abandoned with
-> respect to its cognitive Condition.
+> respect to its Support.
 
 ## 6. Philosophical Translation
 
@@ -90,8 +90,8 @@ for temporal sequence.
 > maintained, and the abolished acquisition is placed progressively farther
 > away. These functions converge upon abandonment without becoming synonyms.
 > Nor is an affliction exhausted merely by detaching it from associated mental
-> factors or by knowing a condition: abandonment must be determined through the
-> precise condition-, association-, and acquisition-relations of the continuum.
+> factors or by knowing a Support: abandonment must be determined through the
+> precise Support-, association-, and acquisition-relations of the continuum.
 
 The Path is thus an articulated transformation whose preparatory, decisive,
 stabilizing, and distancing operations must be kept distinct.
@@ -103,11 +103,12 @@ stabilizing, and distancing operations must be kept distinct.
 The `ānantarya-mārga`, uninterrupted path, insofar as it performs the actual
 severance of the affliction.
 
-**`Ādhāra-pratipakṣa` — counteragent of support or maintenance**
+**`Ādhāra-pratipakṣa` — counteragent of maintenance**
 
 The noble path immediately following the uninterrupted path—identified in
 the operational ordering as `vimukti-mārga`—which maintains the abandonment
-already obtained. `Ādhāra` here is not a support feeding the affliction.
+already obtained. Its maintaining function is distinct from the
+`ālambana` Support relation in the second half of this unit.
 
 **`Dūrībhāva-pratipakṣa` — counteragent of distancing**
 
@@ -119,7 +120,7 @@ include the liberation path because it already performs distancing.
 
 The Path-operation that regards a realm as defective and undermines its
 attractive standing. Vasubandhu places this first operationally as the
-`prayoga-mārga` when suffering and origin are its conditions.
+`prayoga-mārga` when suffering and origin are its Supports.
 
 **Received order and operational order**
 
@@ -138,10 +139,10 @@ An affliction cannot simply be detached from the mental factors conjoined
 with it as though it persisted separately. Hence abandonment is not explained
 as separation from its associated factors.
 
-**`Ālambana` — cognitive Condition**
+**`Ālambana` — Support**
 
 The initial standpoint from which abandonment is described: the affliction no
-longer arises taking that cognitive Condition. This explanation is intelligible for
+longer arises taking that Support. This explanation is intelligible for
 future affliction but does not settle the past case universally.
 
 **`Prāpti-cheda` — severance of acquisition**
@@ -149,7 +150,7 @@ future affliction but does not settle the past case universally.
 The decisive criterion for saying that an affliction belonging to one's own
 continuum has been abandoned. For afflictions in another continuum and for
 material or undefiled dharmas, the relevant abandonment concerns one's own
-afflictions that take them as conditions.
+afflictions that take them as Supports.
 
 ## 8. Logical Determination
 
@@ -186,7 +187,7 @@ TaxonomicOrder(fourCounteragents)
 The second half distinguishes three relations:
 
 ```text
-TakesAsCondition(kleśa, ālambana)
+TakesAsSupport(kleśa, ālambana)
 ConjoinedWith(kleśa, associatedFactor)
 PossessedThrough(continuum, prāptiOfKleśa)
 ```
@@ -201,7 +202,7 @@ Severed(PrāptiOf(kleśa, ownContinuum))
 Therefore neither of these is universally sufficient:
 
 ```text
-CompletelyKnown(CognitiveCondition(kleśa))
+CompletelyKnown(Support(kleśa))
     ⇏ Abandoned(kleśa)
 
 SeparatedFromAssociatedFactors(kleśa)
@@ -224,9 +225,9 @@ difference.
 already begun. The edition preserves the disagreement rather than selecting a
 synthetic formulation.
 
-**The condition answer is provisional.** The statement that affliction is
-abandoned from its cognitive Condition generates a temporal difficulty for past
-affliction. Vasubandhu also rejects complete knowledge of the condition as an
+**The Support answer is provisional.** The statement that affliction is
+abandoned from its Support generates a temporal difficulty for past
+affliction. Vasubandhu also rejects complete knowledge of the Support as an
 exceptionless replacement and turns to severance of acquisition in one's own
 continuum.
 
@@ -256,15 +257,17 @@ Class: Counteragent
 Class: CounteragentFunction
 Class: Path
 Class: Affliction
+Class: Abandonment
 Class: Acquisition
-Class: CognitiveCondition
+Class: Continuum
+Class: Support
 Class: SourceVoice
 
 Individual: DiscreditingCounteragent
     Types: CounteragentFunction
 Individual: AbandonmentCounteragent
     Types: CounteragentFunction
-Individual: SupportCounteragent
+Individual: MaintenanceCounteragent
     Types: CounteragentFunction
 Individual: DistancingCounteragent
     Types: CounteragentFunction
@@ -275,15 +278,15 @@ ObjectProperty: hasCounteragentFunction
 
 ObjectProperty: maintainsAbandonment
     Domain: Path
-    Range: Affliction
+    Range: Abandonment
 
 ObjectProperty: distancesAcquisition
     Domain: Path
     Range: Acquisition
 
-ObjectProperty: takesAsCondition
+ObjectProperty: takesAsSupport
     Domain: Affliction
-    Range: CognitiveCondition
+    Range: Support
 
 ObjectProperty: hasAcquisition
     Domain: Continuum
@@ -295,7 +298,7 @@ ObjectProperty: assertedBy
 
 Assertion: PrayogaPath hasCounteragentFunction DiscreditingCounteragent
 Assertion: AnantaryaPath hasCounteragentFunction AbandonmentCounteragent
-Assertion: VimuktiPath hasCounteragentFunction SupportCounteragent
+Assertion: VimuktiPath hasCounteragentFunction MaintenanceCounteragent
 Assertion: VisesaPath hasCounteragentFunction DistancingCounteragent
 
 AlternativeAssertion: VimuktiPath hasCounteragentFunction DistancingCounteragent
@@ -309,12 +312,12 @@ Rule: OwnContinuumAffliction(?k)
 Constraint: TaxonomicPrecedence(?x, ?y)
     doesNotEntail OperationalPrecedence(?x, ?y)
 
-Constraint: CompletelyKnown(?o) AND takesAsCondition(?k, ?o)
+Constraint: CompletelyKnown(?o) AND takesAsSupport(?k, ?o)
     doesNotEntail Abandoned(?k)
 
 View: FourfoldCounteragentPathMap
     Preserves: CounteragentFunction, PathStage, TaxonomicOrder,
-               OperationalOrder, ConditionRelation, AcquisitionRelation,
+               OperationalOrder, SupportRelation, AcquisitionRelation,
                SourceVoice, SourceProvenance
 ```
 

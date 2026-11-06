@@ -14,7 +14,7 @@ sukhābhyāṃ saṃprayukto hi rāgo dveṣo viparyayāt |
 mohaḥ sarvair asaddṛṣṭir mano-duḥkha-sukhena tu || 5.55 ||
 ```
 
-VAK 5.54 distributed afflictive factors by cognitive support. VAK 5.55 now
+VAK 5.54 distributed afflictive factors by cognitive Basis. VAK 5.55 now
 asks with which of the five feeling-faculties each kleśa or upakleśa can be
 conjoined.
 
@@ -74,7 +74,8 @@ asaddṛṣṭiḥ tu
 
 The singular collective compound embraces the two mental members,
 `daurmanasya` and `saumanasya`. The Bhāṣya fixes `asaddṛṣṭi` here as
-`mithyādṛṣṭi`, not defective view in general.
+`mithyādṛṣṭi`. Its following prose reads `tābhyaṃ`, referring back to
+the two faculties; that witness form is retained in the Bhāṣya study.
 
 ## 5. Translation
 
@@ -129,7 +130,9 @@ kārikā continues and qualifies the matrix.
 
 The Bhāṣya resolves the dual as bodily pleasure and mental gladness.
 Attachment is compatible with both because rāga can occur in sensory as well
-as mental cognition.
+as mental Cognition. The running witness reads `sukhabhyāṃ` in the verse
+fragment; the official kārikā prints `sukhābhyāṃ`, whose dual sense is
+confirmed by the prose's `sukhasaumanasyābhyāṃ`.
 
 **`Viparyayāt` — by reversal**
 
@@ -148,6 +151,12 @@ a free phenomenological generalization.
 Explicitly identified by the Bhāṣya with `mithyādṛṣṭi`. As a mental view it
 can be conjoined with the two mental polarities, distress and gladness, but
 not with bodily pleasure or bodily pain.
+
+**`Yathākramam` — respectively**
+
+The final prose clause pairs mental distress with meritorious actions and
+mental gladness with evil actions in that order. It leaves the precise
+psychological explanation unstated.
 
 **`Harṣa` and `dainya` — gladness and dejection**
 
@@ -188,7 +197,7 @@ VAK 5.54 and 5.55 therefore supply independent coordinates:
 
 ```text
 AfflictiveOccurrence
-    hasCognitiveSupport CognitionGroup
+    hasCognitiveBasis CognitionGroup
     hasConjoinedFeeling FeelingFaculty
 ```
 
@@ -212,18 +221,20 @@ functions in the event.
 no affective polarity by itself establishes clarity. Pleasure, pain, gladness,
 distress, and neutrality can each occur under obscuration.
 
-**False view and mental polarity.** False view is not affectively uniform. It
-can take satisfaction in a false position or be distressed in its negation.
-The invariant is the erroneous view, not one fixed hedonic tone.
+**False view and mental polarity.** The Bhāṣya's `yathākramam`
+links mental distress with meritorious actions and mental gladness
+with evil actions, respectively. It does not explain the precise
+psychological sequence. The erroneous view can occur with either
+mental feeling.
 
-**Organon interpretation.** A semantic Dataset should represent feeling and
+**Organon interpretation.** A semantic Dataset could represent feeling and
 affliction as distinct Features joined through a provenance-bearing event:
 
 ```text
 CognitiveEvent
     hasFeeling FeelingFaculty
     hasAfflictiveOrientation Klesa
-    hasCognitionSupport CognitionGroup
+    hasCognitiveBasis CognitionGroup
     supportedBy SourceSpan
 ```
 
@@ -292,7 +303,7 @@ Constraint: PleasantFeelingEvent doesNotEntail WholesomeEvent
 
 View: AfflictionFeelingCompatibilityMatrix
     Preserves: AfflictionIdentity, FeelingIdentity, BodilyOrMentalRegister,
-               ConjunctionRelation, CognitiveSupport, SourceProvenance
+               ConjunctionRelation, CognitiveBasis, SourceProvenance
 ```
 
 The seed preserves the verse's central distinction: feeling supplies the

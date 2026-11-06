@@ -15,14 +15,17 @@ upakleśāḥ svatantrāś ca ṣaḍ-vijñānāśrayāḥ pare || 5.54 ||
 ```
 
 VAK 5.54 begins a new distribution of the afflictive field by cognitive
-support: factors restricted to the mental-cognition plane and factors
-capable of occurring with the six cognition-groups.
+Basis: factors restricted to the mental-Cognition plane and factors
+capable of occurring with the six Cognition groups.
 
 **Textual caution.** The working e-text reads `samānasiddhā` in the kārikā and
 `saha mānasiddhābhyāṃ` in the prose. The prose securely indicates two
 additional cultivation-abandoned factors that are wholly mental-plane, but
 their names are not safely recoverable from this non-critical witness. No
 silent normalization is introduced here.
+The [Chinese Kośa parallel (T1558)](https://buddhism.lib.ntu.edu.tw/FULLTEXT/sutra/chi_pdf/sutra12/T29n1558.pdf)
+names conceit and sleepiness. This parallel informs identification without
+emending the local Sanskrit.
 
 ## 3. Lexical Analysis
 
@@ -30,16 +33,16 @@ silent normalization is introduced here.
 |---|---|---|
 | `samāna-siddhāḥ` | nominative plural masculine, textually opaque | transmitted designation connected by the prose with two cultivation-abandoned cases |
 | `dṛk-heyāḥ` | nominative plural masculine compound | to be abandoned through seeing |
-| `manas-vijñāna-bhūmikāḥ` | nominative plural masculine compound | belonging to the plane of mental cognition |
-| `upakleśāḥ` | nominative plural masculine | mind-defilements or secondary afflictions |
+| `manas-vijñāna-bhūmikāḥ` | nominative plural masculine compound | belonging to the plane of mental Cognition |
+| `upakleśāḥ` | nominative plural masculine | secondary afflictions |
 | `sva-tantrāḥ` | nominative plural masculine | independently classified |
 | `ca` | conjunction | and, likewise |
-| `ṣaṭ-vijñāna-āśrayāḥ` | nominative plural masculine compound | having the six cognitions as support |
+| `ṣaṭ-vijñāna-āśrayāḥ` | nominative plural masculine compound | having the six Cognitions as Basis |
 | `pare` | nominative plural masculine | the others, the remaining cases |
 
 
-The verse contrasts two support-ranges. `Bhūmi` locates a factor on the
-mental-cognition plane; `āśraya` names the cognition-group upon which
+The verse contrasts two ranges of cognitive Basis. `Bhūmi` locates a factor on the
+mental-Cognition plane; `āśraya` names the Cognition group upon which
 an afflictive occurrence depends.
 
 ## 4. Grammar
@@ -76,24 +79,24 @@ ignorance together with their associated upakleśas.
 
 > The seeing-abandoned [afflictions], together with the cases indicated by the
 > uncertain transmitted expression, belong to the plane of mental
-> cognition; the independent upakleśas do so as well. The others have the
-> six cognitions as support.
+> Cognition; the independent upakleśas do so as well. The others have the
+> six Cognitions as Basis.
 
 ### Bhāṣya-informed study translation
 
 > Those abandoned through seeing, together with two cultivation-abandoned
 > factors whose names are uncertain in this witness, belong to the plane of
-> mental cognition. Independent secondary afflictions do likewise; the
-> remaining afflictions and secondary afflictions have the six cognitions
-> as their support.
+> mental Cognition. Independent secondary afflictions do likewise; the
+> remaining afflictions and secondary afflictions have the six Cognitions
+> as their Basis.
 
 ## 6. Philosophical Translation
 
-> Realm, origin, abandonment, and cognitive support answer different
+> Realm, origin, abandonment, and cognitive Basis answer different
 > questions. An affliction may be cultivation-abandoned yet restricted to
-> mental cognition, as the independent upakleśas show. Conversely, other
+> mental Cognition, as the independent upakleśas show. Conversely, other
 > cultivation-abandoned factors can occur with sensory as well as mental
-> cognition. Support specifies the cognitive field in which an afflictive
+> Cognition. Basis specifies the cognitive field in which an afflictive
 > event becomes possible; it does not identify the event's genetic root or
 > dictate its Path-status. Complete determination therefore requires a matrix
 > of relations rather than a single hierarchy.
@@ -103,15 +106,15 @@ by the present textual transmission.
 
 ## 7. Technical Vocabulary
 
-**`Manovijñāna-bhūmika` — belonging to the mental-cognition plane**
+**`Manovijñāna-bhūmika` — belonging to the mental-Cognition plane**
 
-A factor restricted to occurrence with mental cognition. The Bhāṣya
+A factor restricted to occurrence with mental Cognition. The Bhāṣya
 categorically places all seeing-abandoned afflictions in this class.
 
 **`Dṛg-heya` / `darśana-prahātavya` — abandoned through seeing**
 
 One Path-classification of affliction. VAK 5.54 assigns its entire extension
-to mental cognition without making cognitive support identical to mode of
+to mental Cognition without making cognitive Basis identical to mode of
 abandonment.
 
 **The uncertain additional pair**
@@ -119,6 +122,7 @@ abandonment.
 The prose indicates two factors that are cultivation-abandoned yet wholly
 mental-plane. The transmitted `samānasiddhā` / `mānasiddhābhyām` does not
 permit their secure lexical identification in this provisional edition.
+The Chinese parallel identifies them as conceit and sleepiness.
 
 **`Svatantra upakleśa` — independent upakleśa**
 
@@ -126,10 +130,10 @@ Every factor bearing this status is mental-only. From VAK 5.52 the category
 includes the five remaining paryavasthānas and the six kleśa-malas; its
 independence remains classificatory and relationally grounded.
 
-**`Ṣaḍvijñāna-āśraya` — supported by the six cognitions**
+**`Ṣaḍvijñāna-āśraya` — having the six Cognitions as Basis**
 
 Capable of occurrence with the eye-, ear-, nose-, tongue-, body-, or mental-
-cognition group. The Bhāṣya also uses `ṣaḍvijñāna-bhūmika` and
+Cognition group. The Bhāṣya also uses `ṣaḍvijñāna-bhūmika` and
 `ṣaḍvijñāna-kāyika` for this range.
 
 **The remaining kleśas**
@@ -140,23 +144,23 @@ bhāvanā-prahātavya pratigha
 bhāvanā-prahātavya avidyā
 ```
 
-These cultivation-abandoned forms are six-cognition based.
+These cultivation-abandoned forms have a six-Cognition Basis range.
 
 **Associated upakleśas in the remainder**
 
 The Bhāṣya names shamelessness, lack of moral concern, torpor, excitation, and
 factors previously classified among the `kleśa-mahābhūmikas`.
 
-**`Kleśa-mahābhūmika` — factor universally associated with afflicted mind**
+**`Kleśa-mahābhūmika` — earlier afflictive factor class**
 
 An earlier Chapter 2 classification invoked here to complete the
-six-cognition-supported remainder. The present verse does not re-enumerate
+six-Cognition remainder. The present verse does not re-enumerate
 or redefine that class.
 
-**`Āśraya` — support or basis**
+**`Āśraya` — Basis**
 
-The cognitive support of an occurrence. It must not be confused with
-`niḥṣyanda` source, object-support (`ālambana`), realm-range, or mode of
+The cognitive Basis of an occurrence. It must not be confused with
+`niḥṣyanda` source, object-Support (`ālambana`), realm-range, or mode of
 abandonment.
 
 ## 8. Logical Determination
@@ -165,17 +169,17 @@ The secure mental-only rules are:
 
 ```text
 AbandonedBySeeing(x)
-    → SupportedOnlyBy(x, MentalCognition)
+    → HasOnlyCognitiveBasis(x, MentalCognition)
 
 IndependentUpakleśa(x)
-    → SupportedOnlyBy(x, MentalCognition)
+    → HasOnlyCognitiveBasis(x, MentalCognition)
 ```
 
 The second rule blocks an invalid inference:
 
 ```text
 AbandonedByCultivation(x)
-    ⇏ SupportedByAllSixCognitions(x)
+    ⇏ HasSixCognitionBasisRange(x)
 ```
 
 The remainder is:
@@ -185,13 +189,13 @@ For x in {CultivationAbandonedRāga,
           CultivationAbandonedPratigha,
           CultivationAbandonedAvidyā,
           TheirSpecifiedAssociatedUpakleśas}:
-    HasCognitiveSupportRange(x, SixCognitionGroups)
+    HasCognitiveBasisRange(x, SixCognitionGroups)
 ```
 
-Support remains independent of other relations:
+Basis remains independent of other relations:
 
 ```text
-HasCognitiveSupport(x, vijñāna)
+HasCognitiveBasis(x, vijñāna)
     ≠ HasGeneticGround(x, kleśa)
     ≠ HasObjectSupport(x, ālambana)
     ≠ HasAbandonmentMode(x, pathOperation)
@@ -208,29 +212,27 @@ LexicalIdentity(UncertainMentalOnlyPair) = Unresolved
 
 **Source determination.** After closing the upakleśa block by realm, the
 Bhāṣya asks how many anuśayas belong to the mental plane and how many to the
-six cognition-groups. The answer divides the field by cognitive support.
+six Cognition groups. The answer divides the field by cognitive Basis.
 
 **Textual restraint.** The two extra cultivation-abandoned cases are real
 members of the argument, but their names are not secure in the available
 e-text. A durable provisional edition preserves both determinate cardinality
 and indeterminate identity rather than filling the gap from conjecture.
 
-**Support is not origin.** A visible object may occur in an eye-cognition
-event supporting attachment, but neither the visible object nor eye-
-cognition thereby becomes the affliction's `niḥṣyanda` source. The chapter
-has supplied separate vocabulary for each relation.
+**Basis and origin.** The Cognition group named by `āśraya` and the
+genetic source named by `niḥṣyanda` are separate determinations.
 
-**Support is not abandonment.** Some cultivation-abandoned factors are
-mental-only, while others are six-cognition based. The same Path-status
+**Basis and abandonment.** Some cultivation-abandoned factors are
+mental-only, while others have a six-Cognition Basis range. The same Path-status
 therefore does not determine one cognitive range.
 
-**Organon interpretation.** The Dataset should model a support assertion with
+**Organon interpretation.** The Dataset could model a Basis assertion with
 its own provenance:
 
 ```text
-CognitiveSupportAssertion
+CognitiveBasisAssertion
     concernsFactor
-    hasSupportRange
+    hasBasisRange
     hasAbandonmentContext
     hasTextualCertainty
     supportedBy SourceSpan
@@ -251,7 +253,7 @@ Class: MentalCognition
     SubClassOf: CognitionGroup
 Class: SensoryCognition
     SubClassOf: CognitionGroup
-Class: CognitiveSupportAssertion
+Class: CognitiveBasisAssertion
 Class: TextualCertainty
 Class: UnresolvedIdentity
 
@@ -259,12 +261,12 @@ ObjectProperty: concernsFactor
     Domain: CognitiveSupportAssertion
     Range: AfflictiveFactor
 
-ObjectProperty: hasCognitiveSupport
-    Domain: CognitiveSupportAssertion
+ObjectProperty: hasCognitiveBasis
+    Domain: CognitiveBasisAssertion
     Range: CognitionGroup
 
 ObjectProperty: hasTextualCertainty
-    Domain: CognitiveSupportAssertion
+    Domain: CognitiveBasisAssertion
     Range: TextualCertainty
 
 DataProperty: isMentalOnly
@@ -278,12 +280,12 @@ Rule: IndependentUpaklesa(?x)
     -> isMentalOnly(?x, true)
 
 Rule: RemainingSixfoldAffliction(?x)
-    -> MayBeSupportedBy(?x, EyeCognition)
-    AND MayBeSupportedBy(?x, EarCognition)
-    AND MayBeSupportedBy(?x, NoseCognition)
-    AND MayBeSupportedBy(?x, TongueCognition)
-    AND MayBeSupportedBy(?x, BodyCognition)
-    AND MayBeSupportedBy(?x, MentalCognition)
+    -> MayHaveBasis(?x, EyeCognition)
+    AND MayHaveBasis(?x, EarCognition)
+    AND MayHaveBasis(?x, NoseCognition)
+    AND MayHaveBasis(?x, TongueCognition)
+    AND MayHaveBasis(?x, BodyCognition)
+    AND MayHaveBasis(?x, MentalCognition)
 
 Constraint: CultivationAbandoned(?x)
     doesNotEntail isMentalOnly(?x, false)
@@ -292,10 +294,10 @@ Constraint: UncertainMentalOnlyPair(?group)
     hasMemberCount 2
     AND hasMemberIdentity UnresolvedIdentity
 
-View: AfflictionCognitiveSupportMatrix
+View: AfflictionCognitiveBasisMatrix
     Preserves: FactorIdentity, CognitionRange, AbandonmentMode,
                IndependenceStatus, TextualUncertainty, SourceProvenance
 ```
 
-The seed treats cognitive support as an independent classificatory axis and
+The seed treats cognitive Basis as an independent classificatory axis and
 preserves the unresolved pair without conjectural normalization.

@@ -93,8 +93,8 @@ sixteen-member upakleśa field. The Bhāṣya calculates the result as eleven.
 > ranges are additional determinations alongside origin, operation, ethical
 > value, and mode of abandonment. The Brahmā case also grounds possibility by
 > an attested doctrinal example: higher cosmological position does not by itself
-> negate deceit. A transition of realm removes only those factors whose
-> asserted range excludes the destination.
+> negate deceit. The stated ranges constrain where these factors can occur;
+> they do not by themselves explain abandonment.
 
 The Bhāṣya states the distribution but does not here supply a general causal
 theory explaining why each of the three universal factors can occur throughout
@@ -228,7 +228,7 @@ ethical value
 realm-range
 ```
 
-**Organon interpretation.** realm-range belongs in its own provenance-bearing
+**Organon interpretation.** Realm range belongs in its own provenance-bearing
 assertion:
 
 ```text
@@ -239,8 +239,8 @@ RangeAssertion
     supportedBy TextualSource
 ```
 
-A system should evaluate range before carrying or removing a determination
-across a realm transition. This is an architectural reconstruction of the
+A proposed system would check range before assigning a factor to a realm.
+This is an architectural reconstruction of the
 Bhāṣya's matrix, not a new cosmological doctrine.
 
 ## 10. OWL++ Seed
@@ -249,12 +249,13 @@ Bhāṣya's matrix, not a new cosmological doctrine.
 Class: Upaklesa
 Class: Realm
 Class: DesireRealm
-    SubClassOf: realm
+    SubClassOf: Realm
 Class: FormRealm
-    SubClassOf: realm
+    SubClassOf: Realm
 Class: FormlessRealm
-    SubClassOf: realm
+    SubClassOf: Realm
 Class: FirstDhyana
+    SubClassOf: FormRealm
 Class: RealmRange
 Class: RangeAssertion
 Class: DoctrinalExample
@@ -265,7 +266,7 @@ ObjectProperty: rangeOf
 
 ObjectProperty: includesRealm
     Domain: RangeAssertion
-    Range: realm
+    Range: Realm
 
 ObjectProperty: includesDhyana
     Domain: RangeAssertion
