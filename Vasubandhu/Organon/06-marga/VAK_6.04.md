@@ -272,6 +272,13 @@ SameModeOfApprehension(
 field of realization; 6.04 now discriminates the mode of reality of what is
 spoken and known within that field.
 
+**The origin-truth bridge.** Before this kārikā, the Bhāṣya explains why
+craving is named prominently in one sūtra although action, ignorance,
+Cognition, and other factors also enter accounts of origin. It distinguishes
+action as cause of differentiated rebirth from craving as cause of renewed
+coming into being. This discussion belongs to the 6.04 Bhāṣya unit, but its
+causal distinctions are not predicates of the two-truth kārikā.
+
 **Convention remains truth.** The strongest anti-nihilist control comes from
 the Bhāṣya itself: claims that a pot and water exist are true, not false, under
 convention. Analytical non-finality is not non-being.

@@ -117,42 +117,51 @@ The running witness is [327|11–328|23] in `Vasubandhu/Sources/kosabhasya.txt`.
 
 “Seeing the truths” was mentioned. What are these truths, and how many are
 there? Four have already been stated in the exposition of dharmas with and
-without influx: the Path-truth, cessation, suffering, and origin. Is that
-their sequence here? No. The order is suffering, origin, cessation, and Path;
-“likewise” indicates that their natures are as stated before. Their sequence
-follows direct realization: whichever truth is realized first is taught
-first. Were this causal order, the cause would have been named before the
-result. Some teachings follow an order favorable to arising, as with the
-establishments of mindfulness and meditations; others follow an order
-favorable to exposition, as with the right efforts. The truths are taught in
-an order favorable to direct realization.
+without influx: the Path-truth by its own name in “the without-influx
+[dharmas] are the Path-truth”; the truth of cessation in “cessation through
+discrimination, which is disconnection”; and the truths of suffering and
+origin in “the world is suffering and origin.” Is that their sequence here?
+No. The order is suffering, origin, cessation, and Path; “likewise” indicates
+that their natures are as stated before. Their sequence follows direct
+realization: whichever truth is realized first is taught first. Otherwise
+the cause would have been named first and the result afterward. Some teachings
+follow an order favorable to arising, as with the establishments of
+mindfulness and meditations. Others follow an order favorable to exposition,
+as with the right efforts: there is no fixed rule that one first generates
+the wish to abandon what has already arisen and afterward the wish to prevent
+what has not yet arisen. The truths are taught in an order favorable to direct
+realization.
 
 Why are they realized in this sequence? In the stage of examination one first
 examines the truth of suffering: the condition in which one stands, by which
 one is afflicted, and from which one seeks release. Then one asks for its
 cause, the truth of origin; for its cessation, the truth of cessation; and
-for the Path to that cessation, the truth of the Path. The commentary compares
-this with examining an illness, its cause and removal, and the remedy, and
-mentions a sūtra analogy of the physician. As the truths are examined in the
-preparatory stage, so they are directly realized, through prior penetration.
-The horse simile that follows is textually uncertain in this witness.
+for the Path to that cessation, the truth of the Path. It is like seeing an
+illness and seeking its cause, removal, and medicine; the compressed wording
+of this comparison is uncertain. A sūtra, too, gives this example of the
+truths. Which sūtra? The one that speaks of “a physician endowed with four
+factors”; its closing words are damaged here. As the truths are examined in
+the stage of examination, so they are directly realized in the stage of
+direct realization, through prior penetration, like a horse running freely
+over ground it has already seen. The wording of the horse simile is uncertain.
 
 What does *abhisamaya* mean? Full awakening-knowing, from the verbal sense
 of knowing. Why is it without influx rather than with influx? Because it is
 right knowing oriented toward nirvāṇa; “right” means according to reality.
 The appropriated Bases insofar as they are result are the truth of
-suffering, and insofar as they are cause are the truth of origin. These two
-differ by name, through the result-and-cause relation, not as separate real
-entities. Cessation and Path differ as real entities as well.
+suffering, and insofar as they are cause are the truth of origin: the latter
+name is given because [the result] arises from them. These two differ by name,
+through the result-and-cause relation, not as separate real entities.
+Cessation and Path differ as real entities as well.
 
-The sūtra calls them Noble Truths because the noble see them as they are.
-Does that make them false for others? No: they are truths for all because
-they are non-inverted. Others do not see them as they are and see inversely.
-The commentary cites a verse contrasting noble and other judgments of
-pleasant and painful, then reports another explanation that divides the four
-truths into two called “truths of the noble” and two called both “noble” and
-“truths of the noble.” The precise wording of that attributed division is
-retained in the Sanskrit above.
+The sūtra calls them Noble Truths. What does that mean? The sūtra itself says
+that these are truths of the noble. Are they then false for others? No: they
+are truths for all because they are non-inverted. Noble ones see them as they
+are; others do not and see inversely. A cited verse says: “What noble ones
+call pleasant, others know as painful; what others call pleasant, noble ones
+know as painful.” Its transmitted wording is uncertain. Others explain that
+two are “truths of the noble” and two are both “noble” and “truths of the
+noble.” The precise force of this attributed division remains uncertain.
 
 ## 4. Movement of the Commentary
 
@@ -192,6 +201,7 @@ remain true for all; the term “Noble” marks seeing them according to reality
 
 ## 7. Review Status
 
-Provisional. The complete unit was checked against the running witness at
-[327|11–328|23]. The damaged medical and horse similes and the attributed
-closing division remain visible for later witness comparison.
+Reviewed against the complete running witness at [327|11–328|23]. The 6.01
+unit ends at [327|10]; the question at [328|23–24] opens 6.03. Damaged
+wording in the medical and horse similes, the physician citation, the cited
+verse, and the attributed closing division remains uncertain.

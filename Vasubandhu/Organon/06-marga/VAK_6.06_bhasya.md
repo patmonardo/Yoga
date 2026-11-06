@@ -53,7 +53,7 @@ This is the complete running unit at [335|08–335|18] in `Vasubandhu/Sources/ko
 
 For someone thus engaged in cultivation, how is cultivation accomplished?
 The verse says: for one possessing the two withdrawals. That means withdrawal
-in body and consciousness, by distancing oneself from association and from
+in body and Consciousness, by distancing oneself from association and from
 unskillful thought. For whom are these two withdrawals easy? For one of few
 desires who is content, not for the discontented or greatly desirous. What are
 discontent and great desire?
@@ -70,7 +70,7 @@ desire is desire for excellent and abundant things not yet obtained.
 ## 4. Movement of the Commentary
 
 The commentary first supplies the omitted cultivation predicate, then
-specifies bodily and mental withdrawal by the activities from which they
+specifies bodily withdrawal and withdrawal of Consciousness by the activities from which they
 withdraw. It asks which dispositions make that practice easy. After stating
 the inherited obtained/unobtained division, it finds that division
 insufficient and replaces it with two distinct relations: vexation at what
@@ -78,17 +78,18 @@ one possesses and desire projected toward excellent, abundant goods.
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Vyapakarṣa-dvaya` is bodily and mental
-withdrawal, not a single withdrawal repeated twice. The Bhāṣya specifies
+**Translation decisions.** `Vyapakarṣa-dvaya` is bodily withdrawal and
+withdrawal of Consciousness, not a single withdrawal repeated twice. The
+Bhāṣya specifies
 `citta-vyapakarṣa` as distance from unskillful thought; it does not describe
-the destruction of consciousness. The positive pair, fewness of desires and
-contentment, comes from the prose. The anchor uses the prose's revised
-definitions of discontent and great desire while the continuous translation
-retains the inherited verse formulation and attributed Abhidharmika account.
+the destruction of Consciousness. The positive pair, fewness of desires and
+contentment, comes from the prose. The anchor preserves the inherited verse
+definitions of discontent and great desire; the continuous translation then
+reports the attributed Abhidharmika account and Vasubandhu's revision.
 
 **Organon determination.** Cultivation needs a practical ground in which
-consciousness can sustain its work. A later MetaPlan can distinguish the
-withdrawal's bodily and mental ranges and represent the shift from the
+Consciousness can sustain its work. A later MetaPlan can distinguish the
+withdrawal's bodily and Consciousness-directed ranges and represent the shift from the
 inherited possession test to Vasubandhu's intentional relations. This is a
 project formalization, not source terminology.
 
@@ -105,6 +106,7 @@ present and projected goods rather than possession-status alone.
 
 ## 7. Review Status
 
-Provisional. The complete unit was checked against the running witness at
-[335|08–335|18]. The running verse's variant form and the attributed
-Abhidharmika explanation remain visible for later review.
+Reviewed against the complete running witness at [335|08–335|18]. The 6.05
+unit ends at [335|07], and the next half-verse begins 6.07 at [335|19]. The
+running verse's `mahecchātā` remains uncertain beside the separate kārikā's
+`mahecchatā`; the Abhidharmika explanation stays attributed.

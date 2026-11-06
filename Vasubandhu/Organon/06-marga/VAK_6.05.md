@@ -17,8 +17,8 @@ nāmobhayārthaviṣayāḥ śrutamayyādikā dhiyaḥ || 6.5 ||
 VAK 6.05 begins the practitioner's preparation for seeing the truths. One who
 is established in conduct and possesses learning and reflection applies
 oneself to cultivation. The three cognitions formed from learning, reflection,
-and cultivation are then distinguished by their cognitive fields: name, both name and
-Meaning, and Meaning.
+and cultivation are then distinguished by their Conditions: name, both name
+and Meaning, and Meaning.
 
 ## 3. Lexical Analysis
 
@@ -28,14 +28,14 @@ Meaning, and Meaning.
 | `śruta-cintā-vān` | nominative singular masculine possessive compound | possessing learning and reflection |
 | `bhāvanāyām` | locative singular feminine | in cultivation |
 | `prayujyate` | third-person singular present middle/passive of `pra-√yuj` | applies or engages oneself |
-| `nāma-ubhaya-artha-viṣayāḥ` | nominative plural feminine distributive compound | ranging over name, both name and Meaning, and Meaning respectively |
+| `nāma-ubhaya-artha-viṣayāḥ` | nominative plural feminine distributive compound | having name, both name and Meaning, and Meaning as their respective Conditions |
 | `śruta-mayī-ādikāḥ` | nominative plural feminine | beginning with that formed from learning |
 | `dhiyaḥ` | nominative plural feminine of `dhī` | cognitions or understandings |
 
 
 
 `Ubhaya` abbreviates `nāma-artha`, name and Meaning together. The compact
-compound distributes three cognitive fields across the three cognitions in sequence:
+compound distributes three Conditions across the three cognitions in sequence:
 
 ```text
 nāma
@@ -44,7 +44,7 @@ artha
 ```
 
 The Bhāṣya consistently names these cognitions as three forms of `discriminative comprehension` and
-then supplements the field-based distribution with a causal account of how
+then supplements the Condition-series with a causal account of how
 each is generated.
 
 ## 4. Grammar
@@ -68,7 +68,7 @@ the Meaning, reflects without inversion, and then engages in cultivation.
 
 The second half has the plural subject `dhiyaḥ`, qualified by
 `śrutamayyādikāḥ`. The compound `nāmobhayārthaviṣayāḥ` supplies three
-successive field-relations:
+successive Condition-relations:
 
 ```text
 śrutamayī dhī
@@ -81,7 +81,7 @@ bhāvanāmayī dhī
     artha-viṣayā
 ```
 
-The Bhāṣya renders these as cognitive Conditions (`ālambana`). It then reports an
+The Bhāṣya describes what each takes as Support (`ālambana`). It then reports an
 objection: alternating between name and Meaning does not securely establish
 the intrinsic distinction of reflective discriminative comprehension. Vasubandhu therefore offers a
 causal definition based on authoritative teaching, reasoning, and samādhi.
@@ -94,7 +94,7 @@ three discriminative comprehensions:
 ```text
 PRACTITIONER[NUM=sg, HAS=śruta+cintā] → ENGAGES[bhāvanā]
 DHĪ[NUM=pl, SERIES=śrutamayī+cintāmayī+bhāvanāmayī]
-    → VIṢAYA-SERIES[nāma+(nāma+artha)+artha]
+    → CONDITION-SERIES[nāma+(nāma+artha)+artha]
 ```
 
 This specifies agreement and ordered distribution for a later NLTK Feature
@@ -107,13 +107,14 @@ not another parse of the compound.
 
 > Established in conduct and possessing learning and reflection, one applies
 > oneself to cultivation. The cognitions beginning with that formed from
-> learning range respectively over name, both [name and Meaning], and Meaning.
+> learning have name, both [name and Meaning], and Meaning as their respective
+> Conditions.
 
 ### Bhāṣya-informed study translation
 
 > One established in conduct, possessing learning and reflection, applies
 > oneself to cultivation. The cognitions formed from learning and the rest
-> have name, both [name and Meaning], and Meaning as their respective fields.
+> have name, both [name and Meaning], and Meaning as their respective Conditions.
 
 ## 6. Philosophical Translation
 
@@ -127,7 +128,7 @@ not another parse of the compound.
 Two structures must be held together:
 
 ```text
-cognitive-field structure
+Condition-series
     name → name-and-Meaning → Meaning
 
 genetic structure
@@ -135,7 +136,7 @@ genetic structure
 ```
 
 The Bhāṣya preserves the middle term by insisting that cognition is determined
-not only by what it takes as cognitive field but also by the ground from which it arises.
+by its Condition, its Support, and the ground from which it arises.
 
 ## 7. Technical Vocabulary
 
@@ -154,27 +155,28 @@ starting determination upon which later discriminative comprehension relies.
 **`Cintā` — reflection**
 
 Reasoned examination that must be non-inverted before cultivation begins. In
-the field model, it mediates name and Meaning in both directions. In the
+the first account, it mediates name and Meaning in both directions. In the
 causal model, it is discriminative comprehension born from `yukti-nidhyāna`, sustained examination
 through reasoning.
 
 **`Bhāvanā` — cultivation**
 
 The stage into which the qualified practitioner enters. The Bhāṣya's strongest
-definition is not mere repetition and not Meaning as cognitive field alone:
+definition is not mere repetition and not Meaning as Condition alone:
 `bhāvanāmayī discriminative comprehension` is born from samādhi.
 
 **`Śrutamayī discriminative comprehension` — discriminative comprehension formed from learning**
 
-According to the kārikā model, its cognitive Condition is name. Vasubandhu's causal
+According to the kārikā, its Condition is name; the Bhāṣya calls name its
+Support. Vasubandhu's causal
 definition identifies it as certainty (`niścaya`) born from the authority or
 validity of reliable teaching (`āptavacana-prāmāṇya`).
 
 **`Cintāmayī discriminative comprehension` — discriminative comprehension formed from reflection**
 
-According to the field model, it moves from expression to Meaning and from
+According to the first account, it moves from expression to Meaning and from
 Meaning back to expression. Other teachers object that this alternating
-field-relation fails to define it securely. Vasubandhu's causal account
+Support-relation fails to define it securely. Vasubandhu's causal account
 distinguishes it as born from reasoning and examination.
 
 **`Bhāvanāmayī discriminative comprehension` — discriminative comprehension formed from cultivation**
@@ -185,7 +187,7 @@ It proceeds toward Meaning independently of verbal formulation
 
 **`Nāma` — name**
 
-The verbal designation or linguistic support that first presents the teaching.
+The verbal designation that first presents the teaching.
 It is not discarded as false; its support-function becomes progressively less
 necessary as discriminative comprehension is transformed.
 
@@ -195,12 +197,12 @@ What the teaching is about and what cultivational discriminative comprehension t
 of verbal formulation. Capitalized **Meaning** marks our controlled project
 usage; it does not add a separate Sanskrit technical term beyond `artha`.
 
-**`Viṣaya / ālambana` — cognitive field / cognitive Condition**
+**`Viṣaya / ālambana` — Condition / Support**
 
-The kārikā says `viṣaya`; the Bhāṣya explains through `ālambana`. This
-range of cognitive Conditions is genuine but insufficient by itself to define
-all three forms of discriminative comprehension without ambiguity. It is distinct from Object, the
-comprehended truth of a Thing.
+The kārikā says `viṣaya`, Condition; the Bhāṣya specifies `ālambana`, Support.
+Their ordered targets are genuine but insufficient by themselves to define
+all three forms of discriminative comprehension without ambiguity. Both
+relations are distinct from Object, the comprehended truth of a Thing.
 
 **`Niśritya` — relying upon**
 
@@ -225,7 +227,7 @@ Bhāṣya determination, not wording present in the kārikā.
 **`Yukti-nidhyāna` — reasoned examination**
 
 The generating ground of reflective discriminative comprehension. It prevents the middle form from
-being reduced to an unstable alternation between two field types.
+being reduced to an unstable alternation between two Supports.
 
 **`Samādhija` — born from samādhi**
 
@@ -250,17 +252,17 @@ AND Possesses(person, NonInvertedReflection)
     → EngagesIn(person, Cultivation)
 ```
 
-The kārikā's cognitive-field model is:
+The kārikā's Condition-series is:
 
 ```text
 SrutamayiPrajna
-    hasCognitiveField Name
+    hasCondition Name
 
 CintamayiPrajna
-    hasCognitiveField NameAndMeaning
+    hasCondition NameAndMeaning
 
 BhavanamayiPrajna
-    hasCognitiveField Meaning
+    hasCondition Meaning
     AND independentOf VerbalFormulation
 ```
 
@@ -268,19 +270,19 @@ The genetic dependence is:
 
 ```text
 SrutamayiPrajna
-    → basisFor CintamayiPrajna
+    → reliedUponBy CintamayiPrajna
 
 CintamayiPrajna
-    → basisFor BhavanamayiPrajna
+    → reliedUponBy BhavanamayiPrajna
 ```
 
-The objection exposes underdetermination by field alone:
+The objection exposes underdetermination by Support alone:
 
 ```text
-HasCognitiveField(cognition, Name)
+TakesSupport(cognition, Name)
     → candidate SrutamayiPrajna
 
-HasCognitiveField(cognition, Meaning)
+TakesSupport(cognition, Meaning)
     → candidate BhavanamayiPrajna
 
 AlternatesBetween(Name, Meaning)
@@ -305,13 +307,13 @@ Thus:
 ```text
 CognitionIdentity
     requires
-CognitiveFieldStructure + GeneticGround
+ConditionSeries + SupportSeries + GeneticGround
 ```
 
 ## 9. Interpretive Note
 
 
-**Translation note.** The Bhāṣya specifies the three forms of discriminative comprehension—learning, reflection, and cultivation—and their respective fields: name, name with Meaning, and Meaning without reliance on words; it also supplies a causal account.
+**Translation note.** The verse gives three Conditions; the Bhāṣya specifies the corresponding Supports for learning, reflection, and cultivation—name, name with Meaning, and Meaning without reliance on words—and then supplies a causal account.
 
 **Conduct belongs to the genesis of seeing.** The Bhāṣya answers “How are the
 truths seen?” by beginning with guarding conduct. Ethical formation is internal
@@ -327,11 +329,11 @@ releases and regains it; cultivation crosses without needing that support. The
 analogy concerns support, not the erasure of the preceding formation.
 
 **The Bhāṣya criticizes the elegant surface triad.** Name, both, and Meaning
-give a useful field progression, but the middle cognition threatens to
+give a useful ordered progression, but the middle cognition threatens to
 collapse. The causal definition restores it through its distinctive genesis in
 reasoning.
 
-**Bhāvanā requires samādhi.** Meaning as direct cognitive field does not by itself
+**Bhāvanā requires samādhi.** Meaning as direct Condition does not by itself
 constitute cultivation-born discriminative comprehension. Its determining ground is samādhi. This is
 the textual basis for speaking of a required cultivation-ground without yet
 importing the later Organon term `saṃyama-bhūmi` into Vasubandhu's wording.
@@ -372,13 +374,13 @@ Class: CintamayiPrajna
     SubClassOf: Prajna
 Class: BhavanamayiPrajna
     SubClassOf: Prajna
-Class: CognitiveField
+Class: CognitiveTarget
 Class: Name
-    SubClassOf: CognitiveField
+    SubClassOf: CognitiveTarget
 Class: Meaning
-    SubClassOf: CognitiveField
+    SubClassOf: CognitiveTarget
 Class: NameMeaningComplex
-    SubClassOf: CognitiveField
+    SubClassOf: CognitiveTarget
 Class: GeneticGround
 Class: ReliableTeaching
     SubClassOf: GeneticGround
@@ -391,9 +393,13 @@ ObjectProperty: establishedIn
     Domain: Practitioner
     Range: DisciplinedConduct
 
-ObjectProperty: hasCognitiveField
+ObjectProperty: hasCondition
     Domain: Prajna
-    Range: CognitiveField
+    Range: CognitiveTarget
+
+ObjectProperty: takesSupport
+    Domain: Prajna
+    Range: CognitiveTarget
 
 ObjectProperty: bornFrom
     Domain: Prajna
@@ -407,9 +413,13 @@ ObjectProperty: preparesFor
     Domain: Prajna
     Range: PathOperation
 
-Axiom: SrutamayiPrajna SubClassOf hasCognitiveField some Name
-Axiom: CintamayiPrajna SubClassOf hasCognitiveField some NameMeaningComplex
-Axiom: BhavanamayiPrajna SubClassOf hasCognitiveField some Meaning
+Axiom: SrutamayiPrajna SubClassOf hasCondition some Name
+Axiom: CintamayiPrajna SubClassOf hasCondition some NameMeaningComplex
+Axiom: BhavanamayiPrajna SubClassOf hasCondition some Meaning
+
+Assertion: SrutamayiPrajna takesSupport Name
+Assertion: CintamayiPrajna takesSupport NameMeaningComplex
+Assertion: BhavanamayiPrajna takesSupport Meaning
 
 Axiom: SrutamayiPrajna SubClassOf bornFrom some ReliableTeaching
 Axiom: CintamayiPrajna SubClassOf bornFrom some ReasonedExamination
@@ -419,16 +429,16 @@ Assertion: CintamayiPrajna reliesUpon SrutamayiPrajna
 Assertion: BhavanamayiPrajna reliesUpon CintamayiPrajna
 Assertion: BhavanamayiPrajna independentOf VerbalFormulation
 
-Constraint: ClassificationByFieldAlone
+Constraint: ClassificationBySupportAlone
     insufficientFor DistinguishingAllThreePrajna
 
 View: ThreePrajnaPathGenesis
     Preserves: PractitionerQualification, PrajnaIdentity,
-               CognitiveField, GeneticGround, DependenceRelation,
+               ConditionRelation, SupportRelation, GeneticGround, DependenceRelation,
                VerbalSupportStatus, SourceAttribution,
                SourceProvenance
 ```
 
-The seed keeps cognitive field and genetic ground as distinct dimensions. It
+The seed keeps Condition, Support, and genetic ground as distinct relations. It
 represents the essential Bhāṣya result: cultivational discriminative comprehension is not merely
 about Meaning but is generated from samādhi.

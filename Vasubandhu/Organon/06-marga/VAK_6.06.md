@@ -118,8 +118,9 @@ cannot be supplied by agreement features alone.
 ## 6. Philosophical Translation
 
 > The cultivation of Meaning requires a corresponding organization of life.
-> Bodily withdrawal loosens practical entanglement; mental withdrawal loosens
-> the unskillful thought that reproduces it. Yet withdrawal remains difficult
+> Bodily withdrawal loosens practical entanglement; withdrawal of
+> Consciousness loosens the unskillful thought that reproduces it. Yet
+> withdrawal remains difficult
 > while desire moves in two directions: negatively, as vexation at the
 > deficiency of what is present, and positively, as projection toward a
 > superior future possession. Contentment and fewness of desires interrupt
@@ -142,8 +143,8 @@ present possession
 **`Vyapakarṣa-dvaya` — twofold withdrawal**
 
 The Bhāṣya resolves the compound as bodily withdrawal
-(`kāya-vyapakarṣa`) and mental withdrawal (`citta-vyapakarṣa`). Together they
-make sustained cultivation practicable.
+(`kāya-vyapakarṣa`) and withdrawal of Consciousness
+(`citta-vyapakarṣa`). Together they make sustained cultivation practicable.
 
 **`Kāya-vyapakarṣa` — bodily withdrawal**
 
@@ -151,7 +152,7 @@ Distancing the practitioner from `saṃsarga`, association or social
 entanglement. It reorganizes the external situations that continually solicit
 acquisitive and unskillful activity.
 
-**`Citta-vyapakarṣa` — mental withdrawal**
+**`Citta-vyapakarṣa` — withdrawal of Consciousness**
 
 Distancing the practitioner from `akuśala-vitarka`, unskillful thought. It is
 not reducible to physical solitude, since the relevant entanglement may
@@ -167,8 +168,8 @@ here within the practical conditions for cultivation.
 
 **`Akuśala-vitarka` — unskillful thought**
 
-The mental activity from which inward withdrawal distances the practitioner.
-This is the internal counterpart to external association.
+The thought from which withdrawal of Consciousness distances the
+practitioner. This is the internal counterpart to external association.
 
 **`Alpeccha` / `alpecchatā` — of few desires / fewness of desires**
 
@@ -210,7 +211,7 @@ The conditions favorable to cultivation are:
 
 ```text
 Possesses(person, BodilyWithdrawal)
-AND Possesses(person, MentalWithdrawal)
+AND Possesses(person, ConsciousnessWithdrawal)
 AND HasFewDesires(person)
 AND Content(person)
     → FavorableConditionFor(person, Cultivation)
@@ -222,7 +223,7 @@ The two withdrawals have distinct ranges:
 BodilyWithdrawal
     counters SocialEntanglement
 
-MentalWithdrawal
+ConsciousnessWithdrawal
     counters UnskillfulThought
 ```
 
@@ -274,11 +275,14 @@ GreatDesire
 ## 9. Interpretive Note
 
 
-**Translation note.** The supplied predicate follows the Bhāṣya's question and answer. Its `citta-vyapakarṣa` means distance from unskillful thought, not destruction of consciousness; the Bhāṣya refines the inherited definitions of discontent and great desire.
+**Translation note.** The supplied predicate follows the Bhāṣya's question
+and answer. Its `citta-vyapakarṣa` means distance from unskillful thought,
+not destruction of Consciousness; the Bhāṣya refines the inherited
+definitions of discontent and great desire.
 
 **Cultivation has practical conditions.** VAK 6.05 defines cultivational
 discriminative comprehension as born from samādhi; 6.06 asks what makes such cultivation sustainable.
-The answer reorganizes body, mind, social association, thought, and desire.
+The answer reorganizes body, Consciousness, social association, thought, and desire.
 
 **External and internal withdrawal are irreducible.** Physical solitude does
 not by itself remove unskillful thought, while an inward claim of detachment
@@ -310,7 +314,7 @@ samādhi-born cultivation
 
 practical ground
     bodily withdrawal
-    mental withdrawal
+    withdrawal of Consciousness
     contentment
     fewness of desires
 
@@ -333,7 +337,7 @@ Class: CultivationCondition
 Class: Withdrawal
 Class: BodilyWithdrawal
     SubClassOf: Withdrawal
-Class: MentalWithdrawal
+Class: ConsciousnessWithdrawal
     SubClassOf: Withdrawal
 Class: DesireDisposition
 Class: FewDesires
@@ -371,12 +375,12 @@ ObjectProperty: favorableTo
     Range: PathOperation
 
 Axiom: BodilyWithdrawal SubClassOf CultivationCondition
-Axiom: MentalWithdrawal SubClassOf CultivationCondition
+Axiom: ConsciousnessWithdrawal SubClassOf CultivationCondition
 Axiom: FewDesires SubClassOf CultivationCondition
 Axiom: Contentment SubClassOf CultivationCondition
 
 Assertion: BodilyWithdrawal counters SocialEntanglement
-Assertion: MentalWithdrawal counters UnskillfulThought
+Assertion: ConsciousnessWithdrawal counters UnskillfulThought
 Assertion: FewDesires counters GreatDesire
 Assertion: Contentment counters Discontent
 
@@ -399,6 +403,7 @@ View: CultivationPracticalGround
                SourceProvenance
 ```
 
-The seed records bodily and mental withdrawal as distinct conditions and
+The seed records bodily withdrawal and withdrawal of Consciousness as
+distinct conditions and
 preserves Vasubandhu's revised relational distinction between discontent and
 great desire.

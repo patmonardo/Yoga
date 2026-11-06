@@ -62,8 +62,8 @@ explicit argument. The next question at [336|13] opens 6.08.
 
 By reversal of discontent and great desire, their two counterforces are to be
 understood: contentment and fewness of desires. These two occur in all three
-realms and are also without influx. The commentary explains this as their
-capacity to be either with or without influx. Discontent and great desire,
+realms and are also without influx. The commentary specifies that they may
+be either with or without influx. Discontent and great desire,
 by contrast, belong only to the Desire Realm.
 
 What is the intrinsic nature of fewness of desires and contentment? Non-greed:
@@ -118,6 +118,7 @@ formalization, not source terminology.
 
 ## 7. Review Status
 
-Provisional. The complete unit was checked against the running witness at
-[335|19–336|12]. Its three conspicuous transmitted forms remain visible for
-later textual review. The kārikā anchor exactly matches the study translation.
+Reviewed against the complete running witness at [335|19–336|12]. The 6.06
+unit ends at [335|18]; the question at [336|13] opens 6.08. The transmitted
+`poratisaṃyuktau`, `tuṣṭacyātmakās`, and `jsaṃtuṣṭisvabhāvāḥ` remain
+uncertain. The kārikā anchor matches the paired study translation exactly.

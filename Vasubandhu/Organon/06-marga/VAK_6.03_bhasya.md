@@ -323,9 +323,13 @@ This is the complete running unit at [328|23–333|02] in `Vasubandhu/Sources/ko
 > order. Formations that give rise to those feelings take the same names.
 > Pleasant feeling is suffering by transformation — the sūtra: pleasant in
 > arising and in remaining, suffering in transformation. Painful feeling is
-> suffering by its own painful nature. Neither-painful-nor-pleasant is suffering
-> by formation itself: what is conditioned by conditions, being impermanent, is
-> suffering.
+> suffering by its own painful nature — the sūtra calls it painful on arising
+> and while remaining. Neither-painful-nor-pleasant feeling is suffering through
+> its conditioned formation: what is fabricated by conditions is impermanent,
+> and what is impermanent is suffering. As with the feelings, so with formations
+> that occasion those feelings. Some explain the terms by saying that suffering
+> itself is pain-suffering, and likewise that formations themselves are
+> formation-suffering.
 >
 > Transformation-suffering and pain-suffering are named for the agreeable and
 > disagreeable because those modes are *distinctive* to them. But all formations
@@ -341,68 +345,133 @@ This is the complete running unit at [328|23–333|02] in `Vasubandhu/Sources/ko
 > No. Suffering is what is *adverse*. The arising of the path is not adverse to
 > the noble ones: it brings about the exhaustion of all suffering.
 > When they see nirvāṇa as peace, they see the cessation of what they had seen
-> as suffering, rather than the cessation of the Path. Some explain the name
-> “truth of suffering” by saying that the pleasure present in existence is
-> slight beside its pain. The commentary tests that explanation with an image
-> of a small comfort associated with a painful swelling and returns to the
-> structural account of formation-suffering.
+> as suffering, rather than the cessation of the Path. Why, if there is also
+> pleasure here, is only suffering named a Noble Truth? Some say its quantity
+> is small: a heap is called a heap of black gram although a few mung beans
+> are mixed in. But what wise person would judge a painful swelling pleasant
+> for the tiny pleasure of washing it? A cited verse offers other explanations:
+> pleasure is called suffering because it causes suffering, is joined to much
+> suffering, or is desired amid suffering. The noble ones, however, see all
+> existence together with its pleasures as suffering because it has the one
+> flavor of formation-suffering. Thus suffering, rather than pleasure, is
+> established as the Noble Truth.
 >
-> The noble ones see all existence, together with its pleasures, as suffering —
-> one flavor of formation-suffering. How then do they see a feeling whose own
-> nature is pleasant as suffering? By impermanence, because it is adverse. They
-> see the impermanent as what arises and passes. They see suffering as what is
-> adverse. What is seen as impermanent *becomes* adverse: the aspect of
-> impermanence draws forth the aspect of suffering.
-> Yet suffering is not merely another name for the cause of later pain: that
-> would describe an aspect of origin, not the aspect of suffering. The nobles
-> can see suffering even in form and formless rebirth, where the Bases
-> are not causes of painful feeling for them. Thus the separately named
-> formation-suffering retains its work. Impermanence means arising and
-> passing; suffering means adversity. Seeing the former draws forth the
-> latter without making their aspects identical.
+> How, then, do they see feeling that is pleasant by its own nature as
+> suffering? It is adverse because impermanent. They similarly see Form,
+> Reflection, and the other aggregates as suffering, though these are not
+> painful in the way painful feeling is. If one says they are suffering only
+> because they cause pain, that would be an aspect of origin, not of suffering.
+> And how would noble ones then apprehend suffering in Form and Formless
+> rebirth? Those aggregates do not cause painful feeling for them. Why would
+> the sūtra separately state formation-suffering? Impermanence and suffering
+> have distinct aspects: arising and passing makes a thing impermanent;
+> adversity makes it suffering. Seeing impermanence makes it adverse, so the
+> aspect of impermanence draws forth the aspect of suffering.
 >
 > Some say: there is no pleasant feeling at all; all feeling is only pain.
-> Scripture and reasoning are offered: every felt thing is said to be of
-> suffering; “pleasant” is an inverted designation; supposed causes of pleasure
-> become causes of pain when overused or mistimed; what is called pleasure is
-> only relief from another pain, or a shift of burden.
-> The deniers argue that food, drink, heat, and cold, thought to cause
-> pleasure, cause pain when excessive or ill-timed; increasing a true cause
-> of pleasure should not produce pain. They take apparent pleasure to be
-> relief from hunger, thirst, fatigue, or another discomfort, comparing it
-> with shifting a burden from one shoulder to the other.
+> How is that known? From scripture and reasoning. They cite the Blessed One:
+> “Whatever is felt here is of suffering”; “painful feeling is to be seen as
+> painful”; and “to conceive pleasure in suffering is a distortion of
+> perception.” As reasoning they say that no stable cause of pleasure can be
+> established. Drink, food, heat, and cold are thought pleasurable, yet excess
+> or use at the wrong time makes them painful. If increasing a cause of pleasure
+> could produce pain, or if the same cause produced pain on another occasion,
+> it was a cause of pain from the start; only at the end does accumulated pain
+> become manifest. The same holds for a change of posture. What seems pleasure
+> is merely relief from another pain, or a choice between pains. Nothing is
+> felt as pleasant until one is troubled by hunger, thirst, heat, cold, fatigue,
+> or desire. The unknowing mistake counteraction of pain for pleasure, as a
+> fool mistakes shifting a burden from shoulder to shoulder for relief.
+> Therefore, they say, pleasure does not exist.
 >
-> The Abhidharmikas say: it exists. Ask the denier what pain *is*. If pain is
-> what damages, then what benefits is pleasure. If pain is what is unwanted,
-> then what is wanted is pleasure. A feeling wanted by its own characteristic is
-> not, by that same characteristic, unwanted. The noble ones fault it under
-> *another* aspect — a basis of heedlessness, hard-won, transformable,
-> impermanent — not under the aspect of its own characteristic. Therefore
-> pleasant feeling exists as pleasant by own-characteristic.
-> If pleasant feeling were unwanted in its own characteristic, attachment to
-> it would not arise and there would be no need to regard it under another
-> aspect for the sake of dispassion. The commentary also appeals to the
-> teaching of three feelings and to the distinction between the Buddha's
-> intended sense in saying that all feeling is of suffering and his direct
-> acknowledgment of pleasant feeling.
+> The Abhidharmikas say: pleasure does exist, and this is the sounder account.
+> Ask the denier what pain *is*. If pain is what afflicts, what does that mean?
+> If it harms, what benefits is established as pleasure. If it is unwanted,
+> what is wanted is established as pleasure. One might object that the very
+> thing wanted becomes unwanted for noble persons, and not merely for a short
+> time. But it becomes unwanted under another aspect. A feeling wanted by its
+> own characteristic never becomes unwanted by that same characteristic.
+> Noble ones find fault with it as a place of heedlessness, hard to secure,
+> changeable, and impermanent; they do not fault its own pleasant character.
+> Were it intrinsically unwanted, no one would be attached to it, and there
+> would be no need to view it as faulty under another aspect to induce
+> dispassion. Pleasant feeling therefore exists by its own characteristic.
 >
-> “Whatever is felt is here of suffering” is a statement with purport, not a
-> wiping-out of the three feelings the Blessed One also taught. Pleasantness is
-> there by nature, because it is agreeable; suffering is there by another mode,
-> because of transformation and impermanence. Seen as pleasure and relished, it
-> conduces to bondage. Seen as suffering, it conduces to release, by dispassion.
-> The Buddhas command that it be seen in the way that conduces to release.
-> Treating pleasure as suffering under transformation and impermanence does
-> not cancel the three feelings. Nor does calling the misperception of
-> pleasure an inversion prove pleasant feeling nonexistent: the inversion
-> consists in regarding what is conditionally suffering as pleasure without
-> qualification. Against the proposed reduction of the three feelings to
-> mere degrees of pain, the commentary asks what mild pain corresponds to
-> distinct pleasures of smell, taste, and touch, and presses the same point
-> with changes of bodily condition and posture.
+> The Blessed One himself explains “whatever is felt here is of suffering”:
+> he spoke with the impermanence and transformation of formations in view,
+> addressing Ānanda. He did not mean pain-suffering alone. If all feeling
+> were painful by its own nature, why would Ānanda have asked how to reconcile
+> the three feelings taught by the Blessed One — pleasant, painful, and
+> neither-painful-nor-pleasant — with his statement that all feeling is of
+> suffering? He would instead have asked what was intended by teaching three
+> feelings. Nor did the Blessed One answer by retracting that threefold
+> teaching. Thus there really are three feelings by their own natures; the
+> all-suffering statement has an intended sense.
 >
-> Therefore: pleasant feeling exists. Or, equivalently: all that is contaminated
-> is suffering by connection with the three modes.
+> Likewise, in the instruction to see pleasant feeling as suffering, both
+> determinations obtain. It is pleasant by its own nature because agreeable;
+> it is suffering under another mode because subject to transformation and
+> impermanence. Seen as pleasant and savored, it leads to bondage. Seen as
+> suffering, it leads to liberation through dispassion. The Buddhas instruct
+> people to see it in the way that leads to liberation. A cited verse says
+> that, knowing formations to be impermanent and subject to transformation,
+> the Fully Awakened One called feeling suffering. This citation too has
+> uncertain wording in the running witness.
+>
+> The saying that conceiving pleasure in suffering is a distortion also has
+> an intended sense. Ordinary people conceive pleasure in feeling, sensual
+> qualities, and rebirth. The distortion is to regard pleasant feeling, which
+> is suffering under another mode, as exclusively pleasant; likewise for
+> rebirth. This does not establish the nonexistence of pleasant feeling.
+> If every feeling were painful by nature, what purpose would the threefold
+> teaching serve? One might say it accommodates ordinary speech. But the
+> all-suffering saying itself concerns impermanence and transformation, and
+> the Blessed One also speaks according to reality: after naming the pleasure
+> and joy faculties as pleasant feeling, he says that one who sees the five
+> faculties rightly with wisdom abandons three fetters. The cited wording is
+> abbreviated here; its point is not mere accommodation.
+>
+> How could ordinary people classify one painful feeling into three kinds?
+> Perhaps weak, intense, and middling pain are respectively taken as pleasant,
+> painful, and neutral. No: pleasure itself varies in degree, so that account
+> would make intense pleasure arise from weak pain and similar inversions.
+> When one feels a distinctive pleasure from smell, taste, or touch, which
+> weak pain is supposedly present? If that pain has not arisen or has ceased,
+> the removal of all pain should make pleasure greater still. The same applies
+> to sensual pleasure. How could a clearly felt intense experience in a mild
+> state become indistinct in a middle state? Pleasure is also spoken of in
+> three meditations and neutral feeling above them: the proposed pain scale
+> would wrongly assign mild pain to the former and middling pain to the latter.
+> The three feelings therefore cannot be arranged as mere grades of pain.
+> The Blessed One also tells Mahānāma that if Form were exclusively suffering,
+> with no pleasure or accompaniment of pleasure, the stated consequences would
+> follow. That cited sūtra gives another reason some pleasure exists.
+>
+> Scripture, then, does not establish the absence of pleasant feeling. As for
+> the alleged instability of pleasure's causes: that claim fails to understand
+> the cause. A Condition (*viṣaya*) becomes a cause of pleasure or pain in
+> dependence on the particular Basis (*āśraya*); the Condition alone does not
+> decide it. When it meets the bodily state in which it causes pleasure, it
+> does not fail to do so on another occasion with that same state. A single
+> fire can cook one kind of material to a pleasant taste and another to an
+> unpleasant taste, depending on what is cooked; it does not reverse its
+> effect while all the relevant conditions are the same. How, moreover, could
+> a cause of pleasure in the meditations be dismissed as unstable?
+>
+> The claim that pleasure is only relief from pain has already been answered:
+> when one feels pleasure from a distinctive smell or other Condition, which
+> pain is being counteracted? If that pain had not arisen or had ceased, the
+> supposed pleasure should be even stronger. In pleasure born of meditation,
+> what counteracts what? When bodily states shift, pleasure arises from the
+> new state and lasts while that bodily state lasts; otherwise the feeling of
+> pleasure would grow still stronger afterward. The same applies when a tired
+> person changes posture. One might ask why pain appears at the end if it was
+> absent at the beginning. Because the body has changed: as wine and similar
+> things may end in a sour taste after beginning sweet. Pleasant feeling
+> therefore does exist.
+>
+> Alternatively, all that has influx is suffering through connection with the
+> three modes of suffering.
 
 ## 4. Movement of the Commentary
 
@@ -554,7 +623,8 @@ Declarative seed, not executable OWL.
 
 ## 11. Review Status
 
-Provisional. The complete unit was checked against the running witness at
-[328|23–333|02]. Its damaged forms and citations remain visible for later
-textual comparison. The origin-truth question at [333|02–333|03] belongs to
-6.04.
+Reviewed against the complete running witness at [328|23–333|02]. The
+Noble-Truth discussion in 6.02 ends at [328|23]; the origin-truth question
+at [333|02–03] opens 6.04. The witness's `manāṣā`, `ābhivārmikāḥ`, and
+damaged citations remain visible above, with uncertain readings left open
+for later witness comparison.

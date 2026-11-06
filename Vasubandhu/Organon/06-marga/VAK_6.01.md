@@ -237,6 +237,19 @@ unexplained elevation of consciousness but by its counteractive reach.
 mundane Path lacks the power to abandon the nine seeing-abandonable types at
 once. The distinction is operational rather than honorific.
 
+**The individual Path.** For an individual practitioner, the question is what
+the Path presently cultivated can counteract and whether it can perform this
+decisive abandonment. The twofold cultivation classification alone does not
+settle that person's attainment. This is an Organon question prompted by the
+Bhāṣya's capacity test; 6.01 does not describe a practitioner's sequence.
+
+**Triadic comparison.** The project's comparisons of Buddhi–Ahaṃkāra–Manas,
+Cognition–Name-and-Form–Mind, and Reason–Judgment–Understanding can test how a
+path is individuated, how its field is constituted, and how a decisive change
+becomes possible. Here the Kośa supplies only the two Paths, their statuses,
+and Seeing's two grounds of efficacy. Any mapping among the three triads must
+be established from their own passages; none is named or equated by 6.01.
+
 **Organon interpretation.** Path is the conditioned Concept at the terminus
 of Anuśaya:Mārga: its determinate efficacy is intelligible to the
 Understanding. The subsequent Jñāna:Samāpatti movement takes up practical

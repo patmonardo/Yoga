@@ -71,13 +71,16 @@ livelihood; by the fourth they have work. Sustaining themselves in this way and
 doing this work, they will reach liberation before long.
 
 Why prescribe this livelihood and this work? Because they oppose the production
-of thirst. A sūtra names four occasions of its arising: robes, alms-food,
-lodging, and existence or non-existence. The four noble lineages were taught as
-counterforces to these. The cited sūtra's transmitted wording is uneven; its
-four occasions are explicit.
+of thirst. A sūtra names four occasions of its arising. Because of robes,
+thirst in a monk, when arising, arises; when persisting, persists; when taking
+hold, takes hold. The same applies because of alms-food and lodging, and
+because of existence or non-existence. The four noble lineages were taught as
+counterforces to these productions. The cited sūtra's repetitions are uneven
+in this witness, but its sequence and four occasions are visible.
 
-The verse restates the same meaning in full: the lineages serve the present and
-final pacification of desire concerning the bases of mine-making and I-making.
+The remaining verse clause states the same meaning again: the lineages serve
+the present and final pacification of desire concerning the bases of
+mine-making and I-making.
 Robes and the like are bases of mine-making; one's own existence (`ātmabhāva`)
 is the basis of I-making. Desire here is thirst. The three lineages presently
 pacify desire for the bases of mine-making. The fourth finally pacifies both
@@ -123,6 +126,7 @@ completion of that work.
 
 ## 7. Review Status
 
-Provisional. The complete unit was checked against the running witness at
-[336|13–337|06]; its uneven readings and cited sūtra wording remain visible.
-The kārikā anchor exactly matches the study translation.
+Reviewed against the complete running witness at [336|13–337|06]. The 6.07
+unit ends at [336|12]; the question at [337|07] opens 6.09. The uneven
+`caturyena`, `mamāha kāra`, `uktāmidaṃ`, and sūtra repetitions remain
+visible and uncertain. The kārikā anchor matches the study translation.

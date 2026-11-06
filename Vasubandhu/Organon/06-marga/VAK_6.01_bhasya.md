@@ -45,17 +45,20 @@ and through cultivation: the afflictions to be abandoned through seeing and
 those to be abandoned through cultivation were set out in detail. It must now
 be said whether these two Paths, Seeing and Cultivation, are without influx
 or with influx. Therefore the verse says that the Path of Cultivation is
-twofold, mundane and supramundane. The Path of Seeing is solely supramundane,
-because it is a counteragent to all three realms and because it abandons at
-once the nine kinds to be abandoned through seeing. The mundane Path does not
-have this power.
+twofold, while the Path called Seeing is without influx. The Path of
+Cultivation is mundane or supramundane; the Path of Seeing is solely
+supramundane, because it is a counteragent to all three realms and because it
+abandons at once the nine kinds to be abandoned through seeing. The mundane
+Path does not have this power.
 
 ## 4. Movement of the Commentary
 
 The opening recalls 5.68–5.70's account of when abandonment is designated
 *parijñā*. It then recalls the seeing-abandonable and cultivation-abandonable
 afflictions. These established classes become the premise for a new question:
-what status must the Paths that remove them have?
+what status must the Paths that remove them have? The verse answers with
+`anāsrava` for Seeing; the prose then specifies `lokottara` and argues for
+that status from counteractive range and once-for-all abandonment.
 
 ## 5. Translation and Interpretation
 
@@ -85,6 +88,8 @@ Path. The nine kinds are invoked here, not re-enumerated.
 
 ## 7. Review Status
 
-Provisional. The unit was checked against the running witness at
-[327|03–327|10]. The damaged witness forms are visible above; the separate
-kārikā supplies the normalized reading used in the anchor.
+Reviewed against the complete running witness at [327|03–10]. The previous
+Chapter 5 colophon ends at [326|17], and the next natural unit opens with the
+four truths at [327|11]. The witness forms `darśanakhya`, `bhavanāmārgo`, and
+`laukikok` remain uncertain; the separate kārikā supplies the normalized
+reading used in the anchor.

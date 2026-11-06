@@ -7,7 +7,7 @@
 
 > One established in conduct, possessing learning and reflection, applies
 > oneself to cultivation. The cognitions formed from learning and the rest
-> have name, both [name and Meaning], and Meaning as their respective fields.
+> have name, both [name and Meaning], and Meaning as their respective Conditions.
 
 The Bhāṣya supplies the non-inverted reflection, identifies the three
 `dhiyaḥ` as forms of Prajñā, and explains the final form's independence from
@@ -89,18 +89,18 @@ hearing, Prajñā formed from reflection arises; relying on that, Prajñā forme
 from cultivation arises.
 
 What marks these Prajñās? The cognitions beginning with that formed from
-learning range over name, both, and Meaning. Prajñā from hearing, they say,
-takes name as its cognitive Condition. Prajñā from reflection takes name and
-Meaning: sometimes it draws Meaning from wording, sometimes wording from
-Meaning. Prajñā from cultivation takes Meaning alone: it proceeds toward
-Meaning without depending on wording.
+learning have name, both, and Meaning as their respective Conditions. Prajñā
+from hearing, they say, takes name as its Support. Prajñā from reflection
+takes name and Meaning as Supports: sometimes it draws Meaning from wording,
+sometimes wording from Meaning. Prajñā from cultivation takes Meaning alone
+as Support: it proceeds toward Meaning without depending on wording.
 
 The Vaibhāṣikas give a swimming analogy. One untrained in water does not let
 go of a support; one somewhat trained sometimes releases it and sometimes
 grasps it; one well trained crosses without depending on it. Others object:
 on this account, Prajñā from reflection is not established. What takes name
-as its cognitive Condition can fall under hearing-born Prajñā, and what takes
-Meaning can fall under cultivation-born Prajñā. That proposed mark is not
+as Support can fall under hearing-born Prajñā, and what takes Meaning can
+fall under cultivation-born Prajñā. That proposed mark is not
 free from fault.
 
 Rather, hearing-born Prajñā is certainty born from the authority of reliable
@@ -113,40 +113,41 @@ cause, as in life formed from food and cows formed from grass.
 ```text
 how is seeing? → śīla, śruta, cintā, bhāvanā
 niśritya: each prajñā relies on the one before
-field-marks, then the swimmer, then the middle fails
+Condition-series, then the swimmer, then the middle fails
 cause-marks: āpta-vacana / yukti-nidhyāna / samādhi
 ```
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Viṣaya` names the cognitive field in the verse;
-the Bhāṣya restates it with `ālambana`, cognitive Condition. Neither is
-Object, the comprehended truth of a Thing. `Ubhaya` is name together with
-Meaning. The verse gives an ordered threefold range; after reporting the
-Vaibhāṣika explanation and its objection, the Bhāṣya defines the forms
+**Translation decisions.** `Viṣaya` names Condition in the verse; the Bhāṣya
+specifies what each Prajñā takes as Support (`ālambana`). The two relations
+are kept distinct, and neither is Object, the comprehended truth of a Thing.
+`Ubhaya` is name together with Meaning. The verse gives an ordered threefold
+range; after reporting the Vaibhāṣika explanation and its objection, the Bhāṣya defines the forms
 more securely by their causes. The causal definition is therefore explained
 here, rather than inserted into the kārikā's anchor.
 
 **Organon determination.** A future Feature Grammar can model the ordered
 distribution of name, both, and Meaning over the three Prajñās. The MetaPlan
-can then keep cognitive field and genetic ground as distinct features when
+can then keep Condition, Support, and genetic ground as distinct features when
 mediating toward a LogicFrame. These are prospective Report functions, not
 the Bhāṣya's own technical vocabulary.
 
-## 6. Cognitive Field and Genetic Ground
+## 6. Condition, Support, and Genetic Ground
 
-| Prajñā | Cognitive field in the first account | Born from in the later account |
+| Prajñā | Condition in the verse; Support in the first prose account | Born from in the later account |
 |---|---|---|
 | śrutamayī | nāma | certainty from reliable speech |
 | cintāmayī | nāma and artha | examination by reasoning |
 | bhāvanāmayī | artha, without wording | samādhi |
 
-The three fields remain useful, but the middle form is not secured by
+The three-part series remains useful, but the middle form is not secured by
 alternating between name and Meaning: each side could be assigned to one of
 the neighboring forms. The suffix `-maya` can instead mark causal origin.
 
 ## 7. Review Status
 
-Provisional. The complete unit was checked against the running witness at
-[334|13–335|07]. The damaged witness forms remain visible above. The
-Vaibhāṣika and alternative accounts are kept attributed and separate.
+Reviewed against the complete running witness at [334|13–335|07]. The 6.04
+truth discussion ends at [334|12–13]; the question at [335|08] opens 6.06.
+The damaged witness forms remain visible above. The Vaibhāṣika account,
+its criticism, and the causal definition remain distinct.

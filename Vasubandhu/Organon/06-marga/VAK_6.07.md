@@ -200,9 +200,10 @@ alobha in relation to what is unpossessed
 
 **`Āryavaṃśa` — noble lineage**
 
-Not a biological descent. The Bhāṣya explains that they are called lineages of
-the noble because noble persons arise from them. They are transmitted and
-repeatable modes of life and practice with `alobha` as their nature.
+The Bhāṣya explains the name through noble persons arising from these
+lineages, without specifying hereditary descent. It counts four and gives
+`alobha` as their common nature; their organization as a repeatable form of
+life is an Organon interpretation developed below.
 
 **`Cīvara-saṃtuṣṭi` — contentment with robes**
 
