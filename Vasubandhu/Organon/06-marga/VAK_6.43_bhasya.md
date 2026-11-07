@@ -100,15 +100,18 @@ yathāntarāparinirvāyiṇa evaṃ yavadūrdhvasrotasa ityabhisamasya sarve cat
 This is the complete running unit from [363|06] through [364|08-364|09]
 in `Vasubandhu/Sources/kosabhasya.txt`; [364|10] begins 6.44.
 Source labels are removed and line breaks editorial. The witness's
-uneven `vacyavakīrṇa`, `saṃmukhīdriyante`, `savijñānakāṃ`, and
-`ṣaṇṇṇavakāni` remain uncorrected pending collation.
+uneven `vacyavakīrṇa`, `saṃmukhīdriyante`, `savijñānakāṃ`,
+`vānavatāni pañcaviṃśatiḥ śatāni`, and `ṣaṇṇṇavakāni` remain
+uncorrected pending collation. The following multiplication and
+explicit final total establish the intended intermediate count of
+2,592 without silently replacing that damaged numeral.
 
 ## 3. Continuous Translation
 
 Why are there exactly five rebirths in the Pure Abodes? The fourth
 dhyāna cultivated through intermingling is fivefold, graded from mild
 through increasingly strong forms. In the first grade, three moments
-of consciousness are made present: uncontaminated, contaminated,
+of Consciousness are made present: uncontaminated, contaminated,
 uncontaminated. In the second there are six; in the third, nine; in
 the fourth, twelve; and in the fifth, fifteen. The five Pure Abodes
 are the corresponding results in order. It is the contaminated part
@@ -119,8 +122,8 @@ beginning with faith.
 The verse then calls a non-returner who possesses the attainment of
 cessation a bodily witness. Why? One explanation says that a Dharma
 resembling Nirvāṇa is directly realized through the body: during
-cessation there is no consciousness, and the attainment arises with
-the body as its basis. But the more exact explanation is this: on
+cessation there is no Consciousness, and the attainment arises with
+the body as its Basis. But the more exact explanation is this: on
 emerging, the practitioner receives a bodily tranquility never
 previously obtained, together with Cognition. The practitioner then
 recognizes how peaceful the cessation attainment is, how like
@@ -129,33 +132,38 @@ Making something directly present involves attainment and Knowing;
 this is the sense of direct realization here.
 
 Why is the bodily witness not separately listed in the sūtra of
-eighteen trainees? The required basis for another trainee type is
+eighteen trainees? The required reason for another trainee type is
 absent. The trainee distinctions are made by the three uncontaminated
-trainings and their fruits, whereas cessation attainment is not a
-fruit classified as trainee or non-trainee. Possessing it therefore
+trainings and their fruits, whereas cessation attainment supplies
+neither such a training nor its fruit. Possessing it therefore
 does not add another basic trainee class.
 
 This is the coarse division of non-returners. At finer resolution
 there are thousands of differences. Intermediate-existence
-completers differ by mild, medium, or strong faculty; further
-differences arise by ground, by six lineage types, by sixteen
-stations, and by the degree of detachment within a ground. For a
-station, six lineages are distinguished, each with nine practitioner
-positions, from full binding through abandonment of eight grades.
-Across stations and faculty divisions the count multiplies. A person
-who has abandoned all nine grades on a lower ground can be counted
-as fully bound on the next higher ground for consistent enumeration.
-Applying the scheme to the types through the upward-streamers gives
-12,960 non-returner positions in the received calculation. The
-source's compressed intermediate arithmetic and uneven numerals
-await collation; this final total is given explicitly.
+completers differ threefold by mild, medium, or strong faculty,
+fourfold by ground, sixfold by lineage, sixteenfold by station, and
+thirty-sixfold by detachment on the grounds of the form realm: from
+being fully bound through detachment from eight grades in the fourth
+dhyāna. Distinguishing station, lineage, detachment, and faculty
+yields a stated intermediate total whose numeral is damaged in this
+witness. Here is the reckoning: at each station there are six
+lineages; in each lineage, nine practitioner positions, from full
+binding through detachment from eight grades on that ground. This
+gives 54 per station and 864 across sixteen stations. The three
+faculty grades make 2,592 for an intermediate-existence completer.
+For even enumeration, one who has abandoned all nine grades on a
+lower dhyāna is counted as fully bound on the next higher one.
+The same reckoning applies from intermediate-existence completers
+through upward-streamers. Together these give 13,000 less 40, or
+12,960 non-returner positions. The intermediate numeral in the
+running Sanskrit still awaits collation.
 
 ## 4. Movement of the Commentary
 
 The Bhāṣya derives the five Pure Abodes from five grades of
 intermingled cultivation, assigning rebirth to the contaminated
-portion. It then defines the bodily witness, rejects a merely
-body-support explanation as insufficient, and locates recognition
+portion. It then defines the bodily witness, finds the initial
+explanation through the bodily Basis insufficient, and locates recognition
 upon emergence with Cognition. A classificatory objection shows why
 this is not another basic trainee class. The close multiplies the
 coarse non-returner types by faculty, ground, lineage, station, and
@@ -163,14 +171,14 @@ detachment.
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Citta` is “consciousness” in the moment
+**Translation decisions.** `Citta` is “Consciousness” in the moment
 counts; `vijñāna` in `savijñānakāṃ` is Cognition upon emergence.
 `Jñāna` is Knowing. The Bhāṣya's `evaṃ tu bhavitavyam` marks its
-preferred clarification after the first body-support gloss.
+preferred clarification after the first gloss through the bodily Basis.
 `Sāsrava` conditions rebirth; it is not interchangeable with the
 uncontaminated part of the mixed practice. The fine numerical
-calculation is reported with its explicit total while its damaged
-intermediate forms remain open for collation.
+calculation is translated through its component counts and explicit
+total while damaged intermediate forms remain open for collation.
 
 **Organon determination.** Attainment of cessation, bodily continuity,
 and subsequent Cognition and Knowing are temporally distinct. The
@@ -185,13 +193,13 @@ new fruits. These are project syntheses.
 | Five cultivation grades | Three, six, nine, twelve, fifteen *cittas* | Ordered development |
 | Five Pure Abodes | `yathāsaṃkhyaṃ` and `sāsrava` | Corresponding rebirth from contaminated portion |
 | Bodily witness | Non-returner with cessation attainment | Additional designation |
-| Cognition during cessation | `cittābhāva` | Absent |
+| Consciousness during cessation | `cittābhāva` | Absent |
 | Cognition and Knowing on emergence | `savijñānakāṃ kāyaśāntiṃ`, `jñāna` | Recognition of attained peace |
 | Fine classification | Final received count of 12,960 | More detail within non-returning |
 
 ## 7. Review Status
 
 The complete running unit [363|06]–[364|08-364|09] is present.
-Uneven readings and the compressed intermediate arithmetic await
+Uneven readings, especially the intermediate numeral, await
 collation. The kārikā anchor copies the study's Bhāṣya-informed
 translation exactly. Next: 6.44.

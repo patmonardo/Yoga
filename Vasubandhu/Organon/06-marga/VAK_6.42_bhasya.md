@@ -68,7 +68,12 @@ This is the complete running unit from [362|10] through [363|05] in
 question. Source labels are removed and line breaks editorial. The
 source has the anomalous label `[363|02-362|03]`; uneven forms such
 as `katamaddhacyānaṃ`, `niṣpatti`, and `pravāhāprahāsena` remain
-unrepaired in the witness.
+unrepaired in the witness. The local `āsvādanāsaṃprayuktasamādhi` is
+also uncertain: its apparent negative segmentation conflicts with the
+“concentration associated with savoring” in [Xuanzang's Kośa
+translation](https://web.ss.ncu.edu.tw/~calin/scripture/t29/T29n1558.pdf).
+The English follows that parallel sense while retaining the local
+Sanskrit reading.
 
 ## 3. Continuous Translation
 
@@ -78,7 +83,8 @@ fourth. It is a concentration serviceable for all work and foremost
 among pleasant modes of practice. An arhat or non-returner enters the
 uncontaminated fourth dhyāna in a continuous stream. On emerging,
 that practitioner enters the same fourth dhyāna as a contaminated
-stream and then enters the uncontaminated again. In preparation the
+stream and then enters the uncontaminated again. In the reported
+preparation the
 streams are shortened to two uncontaminated moments, two contaminated
 moments, and two uncontaminated moments.
 
@@ -123,7 +129,9 @@ the Vaibhāṣika completion claim, signaled by `iti vaibhāṣikāḥ`.
 `Paśyāmaḥ` introduces Vasubandhu's alternative: completion through
 voluntary entry into three streams. `Upapatti`, `vihāra`, and
 `kleśabhīrutā` are allocated by practitioner and faculty in the prose.
-The witness's damaged forms are not silently regularized.
+The savoring-associated concentration in §3 follows the Chinese
+parallel; the running Sanskrit's `āsvādanāsaṃprayukta` remains
+unrepaired. The other damaged forms are not silently regularized.
 
 **Organon determination.** A formal moment-level account can exceed
 the faculty available to a practitioner. The reported practice has a
@@ -144,5 +152,6 @@ according to Path position. This is project synthesis.
 ## 7. Review Status
 
 The complete running unit [362|10]–[363|05] is present. The anomalous
-source label and uneven readings await collation. The kārikā anchor
+source label and uneven readings, especially the savoring compound,
+await collation. The kārikā anchor
 copies the study's Bhāṣya-informed translation exactly. Next: 6.43.

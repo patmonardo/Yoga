@@ -5,7 +5,7 @@
 > vimuktyānantaryapathā laukikās tu yathākramam |
 > śāntādyudārādyākārā uttarādharagocarāḥ || 6.49 ||
 
-> Mundane liberation Paths have aspects beginning with peacefulness and take higher grounds as their cognitive field; uninterrupted Paths have aspects beginning with coarseness and take lower grounds as their cognitive field.
+> Mundane liberation Paths have aspects beginning with peacefulness and take the higher ground as their cognitive field; uninterrupted Paths have aspects beginning with coarseness and take the lower ground as their cognitive field.
 
 The two mundane Path functions take different grounds as their
 cognitive fields and determine them through opposed aspect triads.
@@ -48,10 +48,9 @@ The next topic opens at [368|18].
 
 Mundane liberation and uninterrupted Paths operate, respectively,
 with aspects beginning with peacefulness and coarseness. Liberation
-Paths have the higher ground as their cognitive field; uninterrupted
-Paths have the lower. The commentary first assigns the aspect series:
-liberation Paths take peacefulness and the rest, uninterrupted Paths
-coarseness and the rest. It then names their respective fields.
+Paths take aspects beginning with peacefulness; uninterrupted Paths
+take aspects beginning with coarseness. Their respective cognitive
+fields are the higher and lower grounds.
 
 A liberation Path considers the higher ground peaceful, excellent,
 and an exit, as these aspects are applicable. An uninterrupted Path

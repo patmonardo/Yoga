@@ -83,7 +83,7 @@ Neither the Noble who has undergone another Desire Realm birth nor
 a Noble born in a higher realm transfers faculties or falls away in
 any way. Why are these transitions excluded? Because they do not occur.
 Why not? Residence through another birth has made the faculties more
-mature, and the practitioner has acquired a superior basis.
+mature, and the practitioner has acquired a superior Basis.
 
 Why does a trainee already free from desire not reach final Nirvāṇa
 in the intermediate existence? The Vaibhāṣikas answer that the Path
@@ -100,7 +100,7 @@ The passage restricts realm transition for a Noble after another
 Desire Realm birth, distinguishes the Form Realm upward-streamer, and
 responds to Śakra's statement. It then excludes faculty transfer and
 regression for the two named positions through faculty maturation and
-superior basis. A final Vaibhāṣika explanation denies that mere
+superior Basis. A final Vaibhāṣika explanation denies that mere
 desire-detachment suffices for intermediate-existence completion.
 
 ## 5. Translation and Interpretation
@@ -108,13 +108,13 @@ desire-detachment suffices for intermediate-existence completion.
 **Translation decisions.** The first-line `kāme` scopes the rule
 against realm transfer to another birth in the Desire Realm. The
 Form Realm case is an explicit contrast. `Akṣa` in the verse is read
-through the prose's `indriyāṇi`, the faculties. `Āśraya` is “basis.” The Vaibhāṣika
+through the prose's `indriyāṇi`, the faculties. `Āśraya` is “Basis.” The Vaibhāṣika
 response to Śakra and its compressed follow-up are marked rather
 than silently made into an agreed historical fact. The explanation
 of the desire-detached trainee is likewise attributed.
 
 **Organon determination.** Another Noble birth is a condition of
-faculty maturation and a more adequate basis; this narrows the
+faculty maturation and a more adequate Basis; this narrows the
 available transitions. The restriction must be indexed to realm and
 practitioner position rather than generalized to all Nobles. This is
 project synthesis.
@@ -125,7 +125,7 @@ project synthesis.
 |---|---|---|
 | Noble after another Desire Realm birth | Non-returning and final Nirvāṇa occur within that life | No subsequent move to another realm |
 | Noble after another Form Realm birth | May enter the formless realm | Summit-bound upward course |
-| That Desire Realm Noble and a higher-born Noble | No faculty transfer or falling away | Mature faculties and superior basis |
+| That Desire Realm Noble and a higher-born Noble | No faculty transfer or falling away | Mature faculties and superior Basis |
 | Desire-detached trainee in an intermediate existence | Remaining Path work is too great | Vaibhāṣika explanation |
 
 ## 7. Review Status

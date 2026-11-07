@@ -5,7 +5,7 @@
 > laukikenārya-vairāgye visaṃyogāptayo dvidhā |
 > lokottareṇa cety eke tyakte kleśāsamanvayāt || 6.46 ||
 
-> When a Noble gains dispassion through a mundane Path, the attainments of separation are twofold. Some say the same holds through a supramundane Path, lest relinquishing its attainment entail possession of the afflictions.
+> When a Noble gains dispassion through a mundane Path, the attainments of separation are twofold. Some say the same holds through a supramundane Path, to account for non-possession of the afflictions when its attainment is relinquished.
 
 The first twofold acquisition is asserted. `Eke` introduces a
 reported extension, and the Bhāṣya tests the argument for it.
@@ -43,7 +43,9 @@ This is the complete running unit from the transition `tatra punaḥ`
 at [366|16] through [367|10] in `Vasubandhu/Sources/kosabhasya.txt`.
 Source labels are removed and line breaks editorial. The running
 verse reads `tyavate` where the study uses `tyakte`; the witness is
-preserved pending collation. The question at [367|11] begins 6.47.
+preserved pending collation. The answer at [367|05]–[367|10] is also
+included in the adjacent 6.47 study because its first half restates
+these counterexamples; the new question begins at [367|11].
 
 ## 3. Continuous Translation
 
@@ -56,8 +58,8 @@ who has become dispassionate from the Essence of nothingness by that
 Path. Relying on a dhyāna, that person changes faculties. Because
 the previous Path is relinquished all at once and only the fruit Path
 is acquired, the defender argues that the person would lack separation
-from higher-ground afflictions. With that attainment relinquished, the
-person would again possess those afflictions.
+from higher-ground afflictions. If that too were relinquished, the
+person would again possess those afflictions, according to the defender.
 
 The answer denies this inference. Even without a mundane attainment
 of separation, renewed possession of those afflictions need not
@@ -82,10 +84,13 @@ counterexamples show that the inference fails.
 
 **Translation decisions.** `Visaṃyogaprāpti` denotes an attainment of
 separation, not the abandoning act itself. `Eke` and `apare` mark the
-reported position. `Tyavate` is retained in the Sanskrit witness,
+reported position. `Kleśāsamanvayāt` gives non-possession, while the
+defender's prose argues that possession would return without a second
+attainment. The referent of `tasmin` in `tyakte ca tasmin` is left
+unresolved in English. `Tyavate` is retained in the Sanskrit witness,
 while the normalized study reading `tyakte` follows the prose's
-scenario of relinquishment. The verdict `ajñāpaka` says this reason
-does not establish the proposed extension; it does not by itself
+relinquishment scenario. The verdict `ajñāpaka` says this reason does
+not establish the proposed extension; it does not by itself
 settle whether the extension is false in every case.
 
 **Organon determination.** Abandonment, attainment of separation, and
@@ -111,5 +116,6 @@ between the established case and the reported extension.
 ## 7. Review Status
 
 The full running unit [366|16]–[367|10] is present, including the
-variant `tyavate`. The kārikā anchor copies the study's
+variant `tyavate`. Its [367|05]–[367|10] answer overlaps the 6.47
+study. The kārikā anchor copies the study's
 Bhāṣya-informed translation exactly. Next: 6.47.

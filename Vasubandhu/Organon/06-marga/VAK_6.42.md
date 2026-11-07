@@ -149,7 +149,12 @@ For sharp-faculty non-returners and arhats, the practice also serves pleasant ab
 
 **`Kleśa-bhīrutā` — wariness of affliction**
 
-The mild-faculty non-returner or arhat additionally cultivates mixed dhyāna from wariness of affliction. It distances samādhi associated with savoring and protects against falling away. This is not generalized anxiety; it is technically directed caution appropriate to a less stable faculty.
+The mild-faculty non-returner or arhat additionally cultivates mixed
+dhyāna from wariness of affliction. It distances samādhi associated
+with savoring and protects against falling away. The local Sanskrit
+`āsvādanāsaṃprayukta` is uneven here; Xuanzang's parallel supports
+the associated-with-savoring sense. This is technically directed
+caution appropriate to a less stable faculty.
 
 **`Indriya / phala / upapatti-vihārārtham` — faculty, fruit, and stated purposes**
 

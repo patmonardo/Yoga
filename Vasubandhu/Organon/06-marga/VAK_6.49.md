@@ -78,7 +78,7 @@ field, and aspect series; the Bhāṣya supplies the full triads.
 
 ### Bhāṣya-informed study translation
 
-> Mundane liberation Paths have aspects beginning with peacefulness and take higher grounds as their cognitive field; uninterrupted Paths have aspects beginning with coarseness and take lower grounds as their cognitive field.
+> Mundane liberation Paths have aspects beginning with peacefulness and take the higher ground as their cognitive field; uninterrupted Paths have aspects beginning with coarseness and take the lower ground as their cognitive field.
 
 ## 6. Philosophical Translation
 

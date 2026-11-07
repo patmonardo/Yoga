@@ -142,9 +142,9 @@ vimukti-mārga
 
 Maximal Path-power does not collapse action and fruit into one moment.
 
-**`Jñāna-ākāra-ālambana-bheda` — variants by knowledge, aspect, and Condition**
+**`Jñāna-ākāra-ālambana-bheda` — variants by Knowing, aspect, and Condition**
 
-The Bhāṣya reports differentiations of diamond-like concentrations by cognitive Condition, knowledge aspect, meditative ground, lineage, and faculty. One count gives 52 variants associated with the preliminary concentration; another doctrinal option increases such counts, and further multiplication follows from lineage and faculty.
+The Bhāṣya reports differentiations of diamond-like concentrations by cognitive Condition, Knowing aspect, meditative ground, lineage, and faculty. On the preliminary ground, eight configurations concern suffering and origin, eight cessation and Path through Dharma-Knowing, thirty-two cessation through Anvaya-Knowing across eight grounds, and four Path through Anvaya-Knowing: **8 + 8 + 32 + 4 = 52**. An attributed alternative that treats each ground's counteractive Path separately adds twenty-eight, yielding eighty. For the three lower formless Essences the running source gives **28, 24, 20** under the first account and **40, 32, 24** under the alternative. Further differences follow from lineage and faculty.
 
 The arithmetic is a fine scholastic analysis rather than the minimal doctrinal core. Its important implication is functional:
 
@@ -197,11 +197,11 @@ In Organon terms, explicitly as project synthesis, complete universality is not 
 **Translation note.** The Bhāṣya supplies the full candidate range, extends candidacy through the final uninterrupted Path, and explains the diamond image through counteractive power. The source verse's `pratipakṣakaḥ` is retained in the continuous witness; `pratipannakaḥ` follows the explicit prose gloss in this study. Arhatship as attained fruit belongs to the following transition. The diamond-like Path is described as the strongest uninterrupted Path, capable of breaking every latent affliction although only the final grade remains its present target.
 
 
-VAK 6.44 provides another exact reason not to burden Seeing with total reflective machinery. The diamond-like Path does not represent and reprocess the entire history of affliction. Its power is universal, but its present perception and operation are perfectly local: the final remaining grade is seen and broken.
+VAK 6.44 locates the diamond-like Path within Cultivation. In the Organon reading, its universal power does not require it to reprocess every previously abandoned affliction. Its present operation has one target: the final remaining grade is broken.
 
 This is the mature relation between universality and determinacy. A merely abstract universal would survey all possible conditions. The concrete universal is the capacity adequate to the whole field while acting without remainder upon the single obstruction that is actual now.
 
-The arhatship-candidate range, final uninterrupted Path, and diamond-like designation belong to the kārikā. Their expanded range, strongest-Path explanation, capacity/actuality distinction, and many scholastic variants belong to the Bhāṣya; the numerical variants are reported Vaibhāṣika analysis. The concrete-universal interpretation and its relation to non-reflective Seeing are Organon synthesis.
+The arhatship-candidate range, final uninterrupted Path, and diamond-like designation belong to the kārikā. Their expanded range, strongest-Path explanation, capacity/actuality distinction, and many scholastic variants belong to the Bhāṣya. The concrete-universal interpretation is Organon synthesis.
 
 ## 10. OWL++ Seed
 

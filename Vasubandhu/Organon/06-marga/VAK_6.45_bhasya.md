@@ -5,7 +5,7 @@
 > tat-kṣayāptyā kṣaya-jñānam aśaikṣo 'rhann asau tadā |
 > lokottareṇa vairāgyaṃ bhavāgrād anyato dvidhā || 6.45 ||
 
-> With attainment of exhaustion, knowledge of exhaustion arises; then one is an arhat, beyond training. Dispassion from the summit of existence is through the supramundane Path; from other grounds, it is twofold.
+> With attainment of exhaustion, Knowing of exhaustion arises; then one is an arhat, beyond training. Dispassion from the summit of existence is through the supramundane Path; from other grounds, it is twofold.
 
 The candidate of 6.44 becomes an arhat with the last liberation Path.
 The second half distinguishes the summit from all lower grounds in
@@ -107,7 +107,11 @@ bhavāgrādanyataḥ sarvato bhūmelaukikenāopi vairāgyaṃ lokottareṇāpi /
 This is the running unit [365|10]–[366|16] in
 `Vasubandhu/Sources/kosabhasya.txt`; source labels are removed and line
 breaks editorial. The final `tatra punaḥ` introduces the next unit and
-is excluded. Uneven spellings and sandhi remain as transmitted.
+is excluded. Uneven spellings and sandhi remain as transmitted. The
+source has `svabhūmikasya vā pratipakṣatvāt`, apparently lacking the
+negative required by the following question `kasmānna pratipakṣaḥ`
+and its answer. The arhat-etymology phrase `paramārtaṃ
+karaṇārthatvāt` is also uneven. Both remain open for collation.
 
 ## 3. Continuous Translation
 
@@ -118,19 +122,22 @@ after diamond-like concentration; it is the first Knowing of exhaustion
 because it arises together with attainment of the exhaustion of all
 influxes. When it arises, the former candidate attains the arhat fruit
 and becomes an arhat beyond training. Beyond training means there is
-no further fruit for which to train. The arhat is one whose required
-work is complete and who is worthy of veneration even by those still
-subject to attachment.
+no further fruit for which to train. The arhat is described as fit to
+accomplish a supreme purpose and worthy of veneration by all who are
+still subject to attachment. The transmitted phrase about that
+purpose, `paramārtaṃ karaṇārthatvāt`, remains uncertain.
 
 The other seven Noble persons are trainees. They continually train for
-exhaustion of the influxes in the three higher trainings: discipline,
-consciousness or concentration, and discriminative Knowing. An ordinary
+exhaustion of the influxes in the three higher trainings: higher
+discipline, higher Consciousness, and higher Prajñā. Their respective
+natures are discipline, collectedness, and Prajñā. An ordinary
 person may practice the same three, but is not thereby a Noble trainee:
-that person has not understood the Truths as they are and may still
-train contrary to them. The sūtra's repeated expression about training
-marks one who trains and does not train against this course. A Noble
-person resting without manifest Path activity remains a trainee through
-orientation and the continuing acquisition of the three trainings.
+that person has not understood the Truths as they are and can abandon
+the training. The sūtra's repeated expression about training marks
+one who trains and does not abandon that course. A Noble person
+resting without manifest Path activity remains a trainee through
+orientation, like a traveler who stops yet remains a traveler, and
+through the continuing acquisition of the three trainings.
 The uncontaminated dharmas of a trainee are trainee dharmas; those of
 one beyond training are beyond-training dharmas. Nirvāṇa itself is
 neither, since persons of both statuses and ordinary persons can stand
@@ -142,17 +149,19 @@ stream-enterer through the candidate for arhatship and the arhat. On
 the sequential course, they are five in distinct positions: the first
 candidate and the four fruit-holders. The three later candidates are
 not distinct from holders of the preceding fruits. This accounting
-is expressly for sequential attainment; someone already detached from
-much of the desire realm may enter the Path of Seeing as a candidate
-for a later fruit without occupying the earlier fruit positions.
+is expressly for sequential attainment. On the Path of Seeing, one
+already detached from most Desire Realm attachment may be a candidate
+for the once-returner fruit without being a stream-enterer, while one
+fully detached from Desire Realm attachment may be a candidate for the
+non-returner fruit without being a once-returner.
 
 The cultivation Path is either mundane or supramundane. By which does
 a trainee gain dispassion from which ground? From the summit of existence,
-only by the supramundane Path. There is no higher mundane ground; a Path
-on the same ground cannot counteract its own latent affliction. An
-affliction cannot be abandoned by the very basis in which it lies
-latent, and it cannot lie latent in its own counteragent. From every
-other ground, dispassion can be gained by either a mundane or a
+only by the supramundane Path. There is no higher mundane Path; a Path
+on the same ground cannot counteract its own latent affliction. A
+thing in which an affliction lies latent cannot serve to abandon it;
+conversely, an affliction cannot lie latent in its own counteragent.
+From every other ground, dispassion can be gained by either a mundane or a
 supramundane Path.
 
 ## 4. Movement of the Commentary
@@ -168,8 +177,10 @@ from the summit alone requires a supramundane Path.
 a generic awareness of an earlier severance. `Kṣayaprāpti` is attainment
 of exhaustion; it arises with that Knowing. The severing Path belongs
 to 6.44, while the liberation Path and fruit belong here. `Adhicitta`
-retains consciousness in the three trainings, where the commentary
-relates it to concentration. The eight names and five distinct
+retains Consciousness in the three trainings, whose corresponding
+nature the commentary calls collectedness (*samādhi*). `Adhiprajñā`
+remains higher Prajñā, distinct from `jñāna` as Knowing. The eight
+names and five distinct
 positions describe the sequential course; the commentary gives an
 exception for prior detachment.
 
@@ -186,11 +197,13 @@ mediation is project synthesis.
 | Arhat | Candidate receives the fruit | No further liberating fruit to train toward |
 | Trainee | Other seven Noble names | Trains toward exhaustion in three higher trainings |
 | Eight and five | Four candidates and four fruits on sequential course | Later candidates share preceding fruit positions |
-| Summit dispassion | No higher mundane ground; own-ground affliction latent | Supramundane Path only |
-| Lower-ground dispassion | Higher mundane ground available | Mundane or supramundane Path |
+| Summit dispassion | No higher mundane Path; own-ground affliction latent | Supramundane Path only |
+| Lower-ground dispassion | Higher mundane Path available | Mundane or supramundane Path |
 
 ## 7. Review Status
 
-The running source [365|10]–[366|16] is present, and the kārikā
-anchor copies the study's Bhāṣya-informed translation exactly.
+The running source [365|10]–[366|16] is present, excluding the closing
+`tatra punaḥ` that opens 6.46. The disputed negative and arhat phrase remain
+marked for collation, and the kārikā anchor copies the study's
+Bhāṣya-informed translation exactly.
 Next: 6.46.

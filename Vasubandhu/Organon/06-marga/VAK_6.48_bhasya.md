@@ -1,14 +1,14 @@
-# VAK_6.48 Bhāṣya — Final Liberation Path and Eight Noble Bases
+# VAK_6.48 Bhāṣya — Final Liberation Path and Eight Noble Meditative Grounds
 
 ## 1. Kārikā Anchor
 
 > dhyānāt sāmantakād vāntyo muktimārgas tribhūjaye |
 > nordhvaṃ sāmantakād āryair aṣṭābhiḥ svordhvabhūjayaḥ || 6.48 ||
 
-> In conquering three grounds, the final liberation Path arises from either a dhyāna or preliminary concentration; above these, it does not arise from preliminary concentration. Through eight noble supports, dispassion is attained from their own and higher grounds.
+> In conquering three grounds, the final liberation Path arises from either a dhyāna or preliminary concentration; above these, it does not arise from preliminary concentration. Through eight noble meditative grounds, dispassion is attained from their own and higher grounds.
 
 The first claim concerns the support of the final liberation Path;
-the second concerns the counteractive range of eight noble bases.
+the second concerns the counteractive range of eight noble meditative grounds.
 
 ## 2. Continuous Sanskrit
 
@@ -66,8 +66,8 @@ well as the dhyāna.
 
 The preceding verse said that an uncontaminated Path based on
 *anāgamya* can produce dispassion from every ground, but had not
-yet stated what the other bases can do. Eight noble uncontaminated
-bases—the four dhyānas, the intermediate dhyāna, and three formless
+yet stated what the other meditative grounds can do. Eight noble uncontaminated
+meditative grounds—the four dhyānas, the intermediate dhyāna, and three formless
 attainments—produce dispassion from their own and higher grounds,
 not lower ones, since those have already been abandoned. Supramundane
 uninterrupted and liberation Paths take the Truths as their cognitive
@@ -79,7 +79,7 @@ The commentary first fixes the three-ground scope and explains why
 the last liberation Path can sometimes use a preliminary support.
 It then excludes that support above the three-ground conquest. A new
 question extends the preceding verse's *anāgamya* claim to eight
-noble bases, fixes their own-and-higher range, and identifies Truths
+noble meditative grounds, fixes their own-and-higher range, and identifies Truths
 as the cognitive Condition of supramundane Paths.
 
 ## 5. Translation and Interpretation
@@ -102,7 +102,7 @@ on each come from the verse and commentary.
 |---|---|---|
 | Three-ground conquest | Desire realm through second dhyāna | Last liberation Path from preliminary or fundamental support |
 | Above three grounds | Equanimity faculty shared | Last liberation Path from fundamental concentration only |
-| Eight noble bases | Four dhyānas, intermediate dhyāna, three formless attainments | Own and higher grounds counteracted |
+| Eight noble meditative grounds | Four dhyānas, intermediate dhyāna, three formless attainments | Own and higher grounds counteracted |
 | Lower grounds | Already abandoned | No renewed conquest |
 | Supramundane Path | Truths as cognitive Condition | Uninterrupted and liberation Paths proceed in Truth-forms |
 

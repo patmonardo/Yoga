@@ -75,7 +75,10 @@ labels are removed and line breaks editorial. The running verse reads
 `pratipakṣakaḥ` in its first half, while the prose twice uses
 `arhattvapratipannaka`; the study verse follows that prose in reading
 `pratipannakaḥ`. Uneven numerical and compound forms remain as
-transmitted pending collation.
+transmitted pending collation. In particular, the local alternative
+formless counts read 40, 32, 24; Lodrö Sangpo's English rendering
+(*Abhidharmakośa-Bhāṣya*, vol. 3, p. 1966) gives 20, 32, 48, so the
+disagreement remains open.
 
 ## 3. Continuous Translation
 
@@ -99,29 +102,32 @@ take suffering and origin at the summit as cognitive Conditions.
 Eight further configurations are associated with aspects of
 Dharma-Knowing concerning cessation and Path. Four taking cessation
 of the first dhyāna as cognitive Condition are associated with
-Anvaya-Knowing aspects of cessation; corresponding sets continue
-through cessation at the summit. Another four are associated with
-Anvaya-Knowing aspects of Path and take the entire corresponding
-Path range as cognitive Condition. Differentiated by Knowing, aspect,
-and cognitive Condition, these yield fifty-two diamond-like Paths
-for that ground. The same pattern extends through the fourth dhyāna.
+Anvaya-Knowing aspects of cessation; four such configurations are
+counted for each ground through cessation at the summit, yielding
+thirty-two. Another four are associated with Anvaya-Knowing aspects
+of Path and take its whole Anvaya-Knowing side as cognitive Condition.
+Thus eight plus eight plus thirty-two plus four, differentiated by
+Knowing, aspect, and cognitive Condition, yield fifty-two diamond-like
+concentrations for that ground. The same pattern extends through the
+fourth dhyāna.
 
 For the Essences of infinite space, infinite Cognition, and nothingness,
 the stated counts are twenty-eight, twenty-four, and twenty,
-respectively. The reason given is the absence there of some
-Dharma-Knowing configurations taking lower-ground cessation as
-Condition and of certain Anvaya-Knowing configurations; a Path
-counteracting a lower ground can still be a Condition because of
-mutual causal relation.
+respectively. The reason given is that Dharma-Knowing is absent there,
+as is Anvaya-Knowing that takes cessation on a lower ground as its
+cognitive Condition. Anvaya-Knowing can nevertheless take a Path
+counteracting a lower ground as its cognitive Condition, because
+those Paths stand in a mutual causal relation.
 
 Those who allow Anvaya-Knowing concerning Path to take each ground's
 counteractive Path separately add twenty-eight variants, bringing
 the count on the preliminary ground to eighty. Corresponding counts
 extend through the fourth dhyāna; in the three formless spheres the
-alternative counts are forty, thirty-two, and twenty-four. Further
-distinctions of lineage and faculty yield still more variants. These
-are counts of cognitive and meditative configurations of the same
-final counteractive function, not separate arhat fruits.
+running witness's alternative counts are forty, thirty-two, and
+twenty-four. Further distinctions of lineage and faculty yield still
+more variants. These are counts of cognitive and meditative
+configurations of the same final counteractive function, not separate
+arhat fruits.
 
 ## 4. Movement of the Commentary
 
@@ -142,7 +148,9 @@ bheditva` expresses capacity to break all latent afflictions,
 qualified by the fact that earlier ones are already broken.
 `Ālambana` is a cognitive Condition, while the last grade is the
 Path's present target. Numerical alternatives remain attributed to
-those who describe or accept them.
+those who describe or accept them. The local 40, 32, 24 sequence is
+translated as transmitted; Sangpo's 20, 32, 48 sequence requires
+edition-level collation.
 
 **Organon determination.** The Path's counteractive capacity can be
 universal while its present work is determinate. Candidate status,
@@ -168,6 +176,6 @@ final uninterrupted counteraction.
 ## 7. Review Status
 
 The complete running unit [364|10]–[365|09] is present. The
-first-half reading and numerical variants are marked for collation.
-The kārikā anchor copies the study's Bhāṣya-informed translation
-exactly. Next: 6.45.
+first-half reading and the disputed alternative formless counts are
+marked for collation. The kārikā anchor copies the study's
+Bhāṣya-informed translation exactly. Next: 6.45.

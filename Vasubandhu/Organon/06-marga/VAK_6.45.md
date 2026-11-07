@@ -1,4 +1,4 @@
-# VAK_6.45 — Knowledge of Exhaustion and the Arhat Fruit
+# VAK_6.45 — Knowing of Exhaustion and the Arhat Fruit
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -23,7 +23,7 @@ from the two ways available for lower grounds.
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | **tat-kṣaya-āptyā** | feminine instrumental singular compound | with or through attainment of the destruction of that final grade |
-| **kṣaya-jñānam** | neuter nominative singular compound | knowledge of exhaustion |
+| **kṣaya-jñānam** | neuter nominative singular compound | Knowing of exhaustion |
 | **aśaikṣaḥ** | masculine nominative singular | one beyond further training toward another fruit |
 | **arhan** | masculine nominative singular | arhat; one whose required liberating work is accomplished |
 | **asau** | masculine nominative singular pronoun | that same practitioner |
@@ -43,7 +43,7 @@ The first line completes the final fruit-transition. The second begins a retrosp
 
 ## 4. Grammar
 
-The instrumental **tat-kṣayāptyā** gives the condition simultaneous with the arising of **kṣayajñānam**. The Bhāṣya makes this temporal relation exact: knowledge of exhaustion arises together with attainment of the destruction of the ninth grade, as the final liberation Path immediately following diamond-like concentration.
+The instrumental **tat-kṣayāptyā** gives the condition simultaneous with the arising of **kṣayajñānam**. The Bhāṣya makes this temporal relation exact: Knowing of exhaustion arises together with attainment of the destruction of the ninth grade, as the final liberation Path immediately following diamond-like concentration.
 
 **asau tadā** resumes the arhatship-candidate and fixes the change of status: that practitioner is **then** an **`Aśaikṣa` — beyond training for another fruit** and **`Arhat` — possessor of the completed fruit**.
 
@@ -53,7 +53,7 @@ In the second line, **lokottareṇa vairāgyam bhavāgrāt** states that dispass
 
 ```text
 FINAL-LIBERATION-PATH[AFTER=diamond-like-concentration]
-  → KNOWLEDGE[TYPE=exhaustion, WITH=attainment-of-total-influx-exhaustion]
+  → KNOWING[TYPE=exhaustion, WITH=attainment-of-total-influx-exhaustion]
 PRACTITIONER[AT=arhat-fruit]
   → STATUS[beyond-training]
 DISPASSION[GROUND=summit-of-existence]
@@ -69,23 +69,23 @@ it is not a parsing rule licensed by the verse alone.
 
 ### Literal Translation
 
-> With attainment of its destruction, knowledge of exhaustion arises;
+> With attainment of its destruction, Knowing of exhaustion arises;
 > that one is then beyond training, an arhat. Dispassion from the
 > summit of existence is by the supramundane Path; from elsewhere it is twofold.
 
 ### Bhāṣya-informed study translation
 
-> With attainment of exhaustion, knowledge of exhaustion arises; then one is an arhat, beyond training. Dispassion from the summit of existence is through the supramundane Path; from other grounds, it is twofold.
+> With attainment of exhaustion, Knowing of exhaustion arises; then one is an arhat, beyond training. Dispassion from the summit of existence is through the supramundane Path; from other grounds, it is twofold.
 
 ## 6. Philosophical Translation
 
-The final obstruction is first destroyed; its destruction is then attained, known as the completion of the entire afflictive field, and possessed as a new Path-status. No member can substitute for the others. Negation becomes completed liberation only through the knowledge adequate to its accomplished result.
+The final obstruction is first destroyed; its destruction is then attained, known as the completion of the entire afflictive field, and possessed as a new Path-status. No member can substitute for the others. Negation becomes completed liberation through the Knowing adequate to its accomplished result.
 
-At the highest conditioned level, the Path must also exceed the field it negates. No higher mundane basis exists, and a determination in which the summit's own affliction can remain latent cannot be the principle of its final release. Only the supramundane Path can complete that dispassion.
+At the highest conditioned level, the Path must also exceed the field it negates. No higher mundane Path exists, and a same-ground Path in which the summit's own affliction can remain latent cannot be its counteragent. Only the supramundane Path can complete that dispassion.
 
 ## 7. Technical Vocabulary
 
-**`Kṣaya / kṣaya-prāpti / kṣaya-jñāna` — exhaustion, its attainment, and knowledge**
+**`Kṣaya / kṣaya-prāpti / kṣaya-jñāna` — exhaustion, its attainment, and Knowing**
 
 The Bhāṣya articulates the final event without collapsing its moments:
 
@@ -98,11 +98,11 @@ kṣaya-prāpti
     attainment of the accomplished destruction
 
 kṣaya-jñāna
-    knowledge arising with complete attainment of exhaustion
+    Knowing arising with complete attainment of exhaustion
     → final liberation Path
 ```
 
-**Kṣaya-jñāna** is not detached reflection upon an earlier fact. It arises together with attainment of the destruction of all *āsravas*. The entire prior history of abandonment is recollected in this final accomplished result.
+**Kṣaya-jñāna** arises together with attainment of the destruction of all *āsravas*, on the final liberation Path immediately after diamond-like concentration.
 
 **`Aśaikṣa` — beyond training for another fruit**
 
@@ -122,7 +122,7 @@ The term does not mean that cognition, action, meditation, or development of eve
 
 **`Arhat` — possessor of the completed fruit**
 
-The Bhāṣya explains the Arhat as one whose required work has been accomplished and who is worthy of veneration. Arhatship is not bare absence of affliction; it is a fruit-position possessed through the final liberation Path and its knowledge.
+The Bhāṣya explains the Arhat as fit to accomplish a supreme purpose and worthy of veneration. The transmitted purpose phrase `paramārtaṃ karaṇārthatvāt` is uneven; Lodrö Sangpo's English rendering (*Abhidharmakośa-Bhāṣya*, vol. 3, p. 1967) takes it as fitness to benefit others. Arhatship is a fruit-position possessed through the final liberation Path and its Knowing.
 
 **`Adhiśīla / adhicitta / adhiprajñā` — the three higher trainings**
 
@@ -133,25 +133,25 @@ adhiśīla
     higher discipline
 
 adhicitta
-    higher mind, samādhi
+    higher Consciousness, whose nature here is samādhi
 
 adhiprajñā
-    higher discriminative knowledge
+    higher Prajñā
 ```
 
-An ordinary person may practice discipline, concentration, and wisdom but is not thereby technically a **śaikṣa**. The Noble trainee knows the Truths as they are and does not train contrary to that liberating orientation.
+An ordinary person may practice discipline, concentration, and Prajñā but is not thereby technically a **śaikṣa**: the Truths have not been understood as they are, and the training can be abandoned. The Noble trainee knows the Truths as they are and does not abandon the liberating course.
 
 **`Āśaya / prāpti` — orientation and continuing acquisition**
 
-A Noble person remains a trainee even while no explicit Path-cognition is manifest, through underlying orientation (*āśaya*) and continuing acquisition of the trainings. Path-status therefore determines the continuum, not merely isolated mental episodes.
+A Noble person remains a trainee even while no explicit Path-cognition is manifest, through underlying orientation (*āśaya*) and continuing acquisition of the trainings. The Bhāṣya compares such a person to a traveler who has stopped yet remains a traveler. Path-status therefore determines the continuum, not merely isolated mental episodes.
 
 **`Nirvāṇa` — neither trainee nor beyond-training**
 
-These predicates classify the uncontaminated dharmas of trainee and beyond-training persons. Nirvāṇa itself is neither, because trainees, Arhats, and ordinary persons can stand in different relations to it. **Aśaikṣa** should therefore not be mistaken for an ontological species of cessation, including *apratisaṃkhyā-nirodha*.
+These predicates classify the uncontaminated dharmas of trainee and beyond-training persons. Nirvāṇa itself is neither, because trainees, Arhats, and ordinary persons can stand in different relations to it.
 
 **`Aṣṭāv āryapudgalāḥ / pañca dravyataḥ` — eight names, five distinct positions**
 
-The Bhāṣya gathers four candidates and four fruit-holders as eight named Noble persons. Yet they are five in real distinction: the initial candidate plus the four fruit-positions. The three later candidates are persons already established in earlier fruits functioning toward later ones.
+The Bhāṣya gathers four candidates and four fruit-holders as eight named Noble persons. On the sequential course they are five in real distinction: the initial candidate plus the four fruit-positions. The three later candidates are persons already established in earlier fruits functioning toward later ones. It also states the exception: prior detachment from most Desire Realm attachment can make one a once-returner candidate during Seeing without being a stream-enterer; complete prior detachment can make one a non-returner candidate without being a once-returner.
 
 ```text
 functional Path-designations = 8
@@ -165,13 +165,13 @@ This is a difference of relational role, not a multiplication of substantial per
 Dispassion from the summit of existence can arise only through the supramundane Path:
 
 ```text
-no higher mundane basis exists
-    + same-level basis admits latency of its own kleśa
+no higher mundane Path exists
+    + same-ground Path admits latency of its own kleśa
     → same field cannot be its final counteragent
     → supramundane Path required
 ```
 
-From every lower level, a higher mundane basis is available; dispassion may therefore be obtained either mundanely or supramundanely.
+From every lower ground, a higher mundane Path is available; dispassion may therefore be obtained either mundanely or supramundanely.
 
 ## 8. Logical Determination
 
@@ -183,7 +183,7 @@ FinalUninterruptedPath
 
 FinalLiberationPath
     co-arises-with AttainmentOfTotalExhaustion
-    has-knowledge KnowledgeOfExhaustion
+    has-knowing KnowingOfExhaustion
     establishes ArhatFruit
     establishes BeyondTrainingStatus
 ```
@@ -193,7 +193,7 @@ The sequence must preserve both distinction and inseparability:
 ```text
 destruction
     ≠ attainment of destruction
-    ≠ knowledge of exhaustion
+    ≠ Knowing of exhaustion
     ≠ completed person-status
 
 yet:
@@ -204,10 +204,10 @@ yet:
 The counteraction rule is:
 
 ```text
-if Affliction can remain latent in Basis:
-    Basis cannot be FinalCounteragent to that Affliction
+if Affliction can remain latent in SameGroundMundanePath:
+    SameGroundMundanePath cannot counteract that Affliction
 
-Bhavagra has no HigherMundaneBasis
+Bhavagra has no HigherMundanePath
     → only SupramundanePath yields its dispassion
 ```
 
@@ -215,14 +215,14 @@ In Organon terms, explicitly as project synthesis, the Middle is not a third ite
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya identifies the knowledge of exhaustion with the last liberation Path after diamond-like concentration. Its arising is simultaneous with attainment of complete influx-exhaustion; the preceding uninterrupted Path performs the final severance. The two ways below the summit are mundane and supramundane. `Jñāna` is knowledge, and `citta` is consciousness. The commentary distinguishes five positions in the transition and notes an exception for prior dispassion.
+**Translation note.** The Bhāṣya identifies Knowing of exhaustion with the last liberation Path after diamond-like concentration. Its arising is simultaneous with attainment of complete influx-exhaustion; the preceding uninterrupted Path performs the final severance. The two ways below the summit are mundane and supramundane. `Jñāna` is Knowing, `citta` is Consciousness, and `prajñā` is Prajñā. The commentary distinguishes five person-positions on the sequential course and notes an exception for prior dispassion. The running source's `svabhūmikasya vā pratipakṣatvāt` appears to lack a negative; the next question and answer require that a same-ground Path is *not* its own counteragent. The Sanskrit remains open for collation.
 
 
-VAK 6.45 shows why the earlier wheel-diagram was misleadingly simple. The return from action to fruit is not one curved arrow. It contains a sequence of irreducible determinations: the counteractive act, actual destruction, acquisition of that destruction, knowledge of universal exhaustion, and the changed status of the continuum.
+VAK 6.45 shows why the earlier wheel-diagram was misleadingly simple. The return from action to fruit is not one curved arrow. It contains a sequence of irreducible determinations: the counteractive act, actual destruction, acquisition of that destruction, Knowing of universal exhaustion, and the changed status of the continuum.
 
 The decisive Middle is this mediation itself. It neither stands outside the extremes nor merely reconciles them after they have been independently formed. It projects action and fruit as distinguishable, carries the accomplished content from one into the other, and exists concretely as their lawful transition.
 
-The verse's knowledge of exhaustion, Aśaikṣa/Arhat transition, and twofold dispassion statement belong to the kārikā. The final-liberation-Path identification, three trainings, person counts, latent-affliction counteraction rule, and exact scope of mundane and supramundane dispassion belong to the Bhāṣya. The articulated Copular Middle is Organon synthesis.
+The verse's Knowing of exhaustion, Aśaikṣa/Arhat transition, and twofold dispassion statement belong to the kārikā. The final-liberation-Path identification, three trainings, person counts, latent-affliction counteraction rule, and exact scope of mundane and supramundane dispassion belong to the Bhāṣya. The articulated Copular Middle is Organon synthesis.
 
 ## 10. OWL++ Seed
 
@@ -232,7 +232,7 @@ Class: FinalLiberationPath
 Class: FinalObstruction
 Class: AttainmentOfExhaustion
   SanskritLabel: kṣayaprāpti
-Class: KnowledgeOfExhaustion
+Class: KnowingOfExhaustion
   SanskritLabel: kṣayajñāna
 Class: BeyondTraining
   SanskritLabel: aśaikṣa
@@ -256,16 +256,16 @@ ObjectProperty: producesDispassionFrom
 
 FinalUninterruptedPath destroys FinalObstruction
 FinalObstruction attainedAs AttainmentOfExhaustion
-AttainmentOfExhaustion knownThrough KnowledgeOfExhaustion
-KnowledgeOfExhaustion arisesTogetherWith AttainmentOfTotalInfluxExhaustion
+AttainmentOfExhaustion knownThrough KnowingOfExhaustion
+KnowingOfExhaustion arisesTogetherWith AttainmentOfTotalInfluxExhaustion
 FinalLiberationPath establishes Arhat
 Arhat qualifiesAs BeyondTraining
 SupramundanePath producesDispassionFrom SummitOfExistence
-LatentAffliction canLieLatentIn SameLevelMundaneBasis
+LatentAffliction canLieLatentIn SameGroundMundanePath
 
-KārikāRule: knowledge of exhaustion arises with attainment of the final destruction.
+KārikāRule: Knowing of exhaustion arises with attainment of the final destruction.
 KārikāRule: At that moment the practitioner becomes Aśaikṣa and Arhat.
-BhāṣyaRule: A basis admitting an affliction's latency cannot be its final counteragent.
+BhāṣyaRule: A same-ground Path admitting an affliction's latency cannot counteract it.
 BhāṣyaRule: Only the supramundane Path produces dispassion from bhavāgra.
 ProjectRule: CopularMiddle articulates destruction into attained, known, and personally established liberation.
 ```

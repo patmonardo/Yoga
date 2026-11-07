@@ -5,7 +5,7 @@
 > bhavāgrādhavimuktordhvajātavattvasamanvayaḥ |
 > anāsraveṇa vairāgyam anāgāmyena sarvataḥ || 6.47 ||
 
-> As with one partly dispassionate from the summit of existence, or with one born higher, there is no renewed possession. Through an uncontaminated Path based on the preliminary concentration *anāgamya*, dispassion is attained from all grounds.
+> As with one partly freed from the summit of existence, or with one born higher, there is no renewed possession. Through an uncontaminated Path based on the preliminary concentration *anāgamya*, dispassion is attained from all grounds.
 
 The first half completes the answer to 6.46. The second half states
 the range of dispassion obtainable from an uncontaminated Path based
@@ -54,14 +54,15 @@ above the first dhyāna does not regain Desire Realm afflictions when
 a previous mundane attainment of separation is relinquished. Thus
 the reason proposed in 6.46 does not establish its conclusion.
 
-Then the commentary asks: from which ground, and from what range, is
-dispassion gained? Through an uncontaminated Path based on the
-preliminary concentration *anāgamya*, dispassion can be gained from
-every ground, through the summit of existence. A further question
-asks whether someone relying on a preliminary concentration for
-dispassion from a lower ground also has every liberation Path arise
-from that preliminary concentration, just as the uninterrupted Paths
-do. The answer is no; the next verse specifies the alternatives.
+Then the commentary asks: by means of which meditative ground, and
+from which grounds, is dispassion gained? Through an uncontaminated
+Path based on the preliminary concentration *anāgamya*, dispassion
+can be gained from every ground, through the summit of existence.
+A further question asks whether someone relying on a preliminary
+concentration for dispassion from a lower ground also has every
+liberation Path arise from that preliminary concentration, just as
+the uninterrupted Paths do. The answer is no; the next verse
+specifies the alternatives.
 
 ## 4. Movement of the Commentary
 
@@ -83,7 +84,7 @@ answer to that question.
 
 **Organon determination.** A changed acquisition need not undo
 non-possession of an affliction. Likewise a Path's local meditative
-support need not set the outer limit of its counteractive range.
+ground need not set the outer limit of its counteractive range.
 These are two distinguishable source claims joined in the project's
 interpretation of an operative relation.
 

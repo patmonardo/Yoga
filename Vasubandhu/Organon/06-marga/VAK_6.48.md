@@ -1,4 +1,4 @@
-# VAK_6.48 — Meditative Support and Truth-Determined Path
+# VAK_6.48 — Meditative Grounds and Truth-Formed Paths
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,9 +14,9 @@ dhyānāt sāmantakād vāntyo muktimārgas tribhūjaye |
 nordhvaṃ sāmantakād āryair aṣṭābhiḥ svordhvabhūjayaḥ || 6.48 ||
 ```
 
-The final liberation Path may use either of two supports within the
-first three ground conquests. The verse then sets the range of eight
-noble uncontaminated meditative bases.
+The final liberation Path may arise from either of two concentrations
+within the first three ground conquests. The verse then sets the range
+of eight noble uncontaminated meditative grounds.
 
 ## 3. Lexical Analysis
 
@@ -29,7 +29,7 @@ noble uncontaminated meditative bases.
 | **mukti-mārgaḥ** | masculine nominative singular compound | path of liberation, equivalent here to *vimukti-mārga* |
 | **tri-bhū-jaye** | masculine locative singular compound | in the conquest of three grounds |
 | **na ūrdhvam** | negation plus adverb | not above [that three-ground conquest] |
-| **āryaiḥ aṣṭābhiḥ** | masculine instrumental plural with numeral | by the eight noble [uncontaminated meditative bases] |
+| **āryaiḥ aṣṭābhiḥ** | instrumental plural with numeral | by the eight noble [uncontaminated meditative grounds] |
 | **sva-ūrdhva-bhū-jayaḥ** | masculine nominative singular compound | conquest of one's own and higher grounds |
 
 ```text
@@ -37,15 +37,15 @@ dhyānāt | sāmantakāt | vā | antyaḥ | mukti-mārgaḥ | tri-bhū-jaye |
 na | ūrdhvam | sāmantakāt | āryaiḥ | aṣṭābhiḥ | sva-ūrdhva-bhū-jayaḥ
 ```
 
-The Bhāṣya defines **tri-bhū-jaya** as the conquest extending through dispassion from the second dhyāna: Desire Realm, first-dhyāna, and second-dhyāna grounds. It identifies the eight noble bases as the four dhyānas, *dhyānāntara*, and three relevant formless concentrations.
+The Bhāṣya defines **tri-bhū-jaya** as the conquest extending through dispassion from the second dhyāna: Desire Realm, first-dhyāna, and second-dhyāna grounds. It identifies the eight noble meditative grounds as the four dhyānas, *dhyānāntara*, and three formless concentrations.
 
 ## 4. Grammar
 
-In the first half, the ablatives **dhyānāt** and **sāmantakāt** express the alternative bases from which **antyaḥ mukti-mārgaḥ** arises. The locative **tri-bhū-jaye** delimits this alternation: it applies to the final liberation-path in the conquest of the first three grounds, not indiscriminately to every liberation-path.
+In the first half, the ablatives **dhyānāt** and **sāmantakāt** express the alternative concentrations from which **antyaḥ mukti-mārgaḥ** arises. The locative **tri-bhū-jaye** delimits this alternation: it applies to the final liberation-path in the conquest of the first three grounds, not indiscriminately to every liberation-path.
 
 In **na ūrdhvaṃ sāmantakāt**, **ūrdhvam** means “above” the just-defined three-ground conquest. The ellipsed subject remains the final liberation-path: above that range it does not arise from a preliminary concentration, but only from the fundamental concentration, as the Bhāṣya explains.
 
-The second statement compresses both instrument and result. **āryaiḥ aṣṭābhiḥ** denotes eight noble, uncontaminated meditative bases; **sva-ūrdhva-bhū-jayaḥ** states their directional efficacy—the conquest of their own and higher grounds. Lower grounds are excluded because they have already been abandoned.
+The second statement compresses both instrument and result. **āryaiḥ aṣṭābhiḥ** denotes eight noble, uncontaminated meditative grounds; **sva-ūrdhva-bhū-jayaḥ** states their directional efficacy—the conquest of their own and higher grounds. Lower grounds are excluded because they have already been abandoned.
 
 **Future Feature Grammar sketch (not executable):**
 
@@ -54,7 +54,7 @@ FINAL-LIBERATION-PATH[RANGE=first-three-ground-conquests]
   → SUPPORT[fundamental-dhyāna-or-preliminary-concentration]
 FINAL-LIBERATION-PATH[RANGE=above-three-ground-conquests]
   → SUPPORT[fundamental-dhyāna]
-NOBLE-BASIS[COUNT=eight, QUALITY=uncontaminated]
+NOBLE-MEDITATIVE-GROUND[COUNT=eight, QUALITY=uncontaminated]
   → COUNTERACTIVE-RANGE[own-and-higher-ground]
 ```
 
@@ -68,17 +68,17 @@ alternative, and the exclusion of already abandoned lower grounds.
 > In the conquest of three grounds, the final liberation Path arises
 > from a dhyāna or a preliminary concentration; above that, it does
 > not arise from a preliminary concentration. Through eight noble
-> bases there is conquest of their own and higher grounds.
+> meditative grounds there is conquest of their own and higher grounds.
 
 ### Bhāṣya-informed study translation
 
-> In conquering three grounds, the final liberation Path arises from either a dhyāna or preliminary concentration; above these, it does not arise from preliminary concentration. Through eight noble supports, dispassion is attained from their own and higher grounds.
+> In conquering three grounds, the final liberation Path arises from either a dhyāna or preliminary concentration; above these, it does not arise from preliminary concentration. Through eight noble meditative grounds, dispassion is attained from their own and higher grounds.
 
 ## 6. Philosophical Translation
 
 The Path's actual support and the range of its liberating operation are related but not identical. Within the first three conquests, the same final liberating function can be actualized from either a preliminary or a fundamental concentration because the practitioner's formed capacity does not always permit an immediate transition. Above them, the required support is more strictly determined.
 
-Yet the noble Path is not measured simply by the level from which it operates. A basis can support conquest of its own and higher grounds because supramundane cognition takes the Truths as its cognitive Condition. The Path's locality belongs to its condition of actualization; its direction and reach belong to its truth-formed operation.
+The eight noble meditative grounds are specified as counteracting their own and higher grounds. The Bhāṣya then adds that supramundane uninterrupted and liberation Paths take the Truths as their cognitive Condition and operate in the forms of the Truths. The source does not derive the stated range from their Truth forms.
 
 ## 7. Technical Vocabulary
 
@@ -109,15 +109,15 @@ In this range the final liberation-path may arise from *sāmantaka* or *maula-dh
 
 The dual possibility is explained through **indriya-saṃcāra**, transition of faculty. In the first three dhyāna relations, the preliminary and fundamental concentrations can differ in faculty; because transition is difficult, the practitioner may complete the liberating series without immediately entering the fundamental dhyāna. The Bhāṣya thus makes the practitioner's *indriya* a concrete condition of Path-support, not the source of liberating truth.
 
-**`Āryair aṣṭābhiḥ` — eight noble bases**
+**`Āryair aṣṭābhiḥ` — eight noble meditative grounds**
 
-The Bhāṣya unpacks **aṣṭābhiḥ** as eight uncontaminated bases:
+The Bhāṣya unpacks **aṣṭābhiḥ** as eight uncontaminated meditative grounds:
 
 ```text
 four dhyānas
     + dhyānāntara
     + three relevant ārūpya concentrations
-    = eight noble bases
+    = eight noble meditative grounds
 ```
 
 Each can counteract its own and higher grounds. None reconquers lower grounds, because dispassion from them has already been attained.
@@ -132,7 +132,7 @@ The verse distinguishes three variables:
 
 ```text
 meditative support
-    sāmantaka / maula / one of eight noble bases
+    sāmantaka / maula / one of eight noble meditative grounds
 
 path-function
     ānantarya-mārga / vimukti-mārga
@@ -153,8 +153,8 @@ MeditativeSupport
 TruthAsCognitiveCondition
     → determines TruthFormOf(NoblePathCognition)
 
-TruthFormOf(NoblePathCognition)
-    → enables Counteraction(ownGround, higherGrounds)
+EightNobleMeditativeGrounds
+    → CounteractiveRange(ownGround, higherGrounds)
 ```
 
 Therefore:
@@ -163,18 +163,18 @@ Therefore:
 support of Path ≠ function of Path ≠ range of Path
 ```
 
-The higher reach of the Path is not the mere effect of occupying a higher contemplative state. It follows from an uncontaminated cognition whose operation is formed by the Truths.
+The range of the eight noble meditative grounds and the Truth forms of supramundane Paths are both established here. Their deeper relation requires further argument; it is not specified by this passage.
 
 ## 9. Interpretive Note
 
-**Translation note.** `Tribhūjaya` covers dispassion through the second dhyāna, counting the desire realm and first dhyāna as the other two grounds. The Bhāṣya attributes the preliminary-support option to the difficulty of changing faculties, and enumerates the eight noble bases. It says supramundane uninterrupted and liberation Paths move in Truth-forms because the Truths are their cognitive Condition (`satyālambana`). The commentary explains that lower grounds are already abandoned and that the preliminary-support option addresses difficulty in changing faculties.
+**Translation note.** `Tribhūjaya` covers dispassion through the second dhyāna, counting the desire realm and first dhyāna as the other two grounds. The Bhāṣya attributes the preliminary-concentration option to the difficulty of changing faculties, and enumerates the eight noble meditative grounds. It says supramundane uninterrupted and liberation Paths move in Truth-forms because the Truths are their cognitive Condition (`satyālambana`). Lower grounds have already been abandoned.
 
 
-This verse gives a more exact morphology of the Path than a ladder or simple wheel can represent. The Path-moment is one articulated relation: a practitioner's present faculty makes a meditative support available; that support makes noble cognition actual; the Truths determine the cognition's form; and that form performs uninterrupted or liberating work across a definite range.
+This verse gives a more exact morphology of the Path than a ladder or simple wheel can represent. The Path-moment joins a practitioner's available concentration and faculty, its uninterrupted or liberating function, and its specified counteractive range. The Bhāṣya also identifies the Truths as the cognitive Condition of supramundane Paths and therefore as determining their forms.
 
 In the Organon reconstruction, the “Middle” is therefore not another state inserted spatially between two extremes. It is the determinate copular operation that joins local capacity to a reach exceeding locality. The beginning-side is the given morphology of *dhātu–indriya* and concentration; the end-side is conquest and liberation; their unity is the Path acting in truth-form.
 
-This last formulation is project synthesis. The textual and Bhāṣya-controlled result is narrower but decisive: meditative basis, Path-function, and counteractive range must not be collapsed, and supramundane paths operate through the forms of the Truths because the Truths are their cognitive Condition.
+This last formulation is project synthesis. The textual and Bhāṣya-controlled result distinguishes meditative ground, Path function, and counteractive range; supramundane paths operate through the forms of the Truths because the Truths are their cognitive Condition.
 
 ## 10. OWL++ Seed
 
@@ -187,7 +187,7 @@ Class: FundamentalConcentration
   SanskritLabel: maula-dhyāna
 Class: ThreeGroundConquest
   SanskritLabel: tribhūmi-jaya
-Class: NobleUncontaminatedBasis
+Class: NobleUncontaminatedMeditativeGround
 Class: FacultyTransition
   SanskritLabel: indriya-saṃcāra
 Class: TruthCognitiveCondition
@@ -208,8 +208,8 @@ ThreeGroundConquest allowsSupport FundamentalConcentration
 FinalLiberationPath conditionedBy AvailableFaculty
 PreliminaryConcentration supports FinalLiberationPath
 FundamentalConcentration supports FinalLiberationPath
-NobleUncontaminatedBasis conquers OwnGround
-NobleUncontaminatedBasis conquers HigherGround
+NobleUncontaminatedMeditativeGround conquers OwnGround
+NobleUncontaminatedMeditativeGround conquers HigherGround
 SupramundanePath hasCognitiveCondition TruthCognitiveCondition
 SupramundanePath operatesInFormOf TruthFormOperation
 

@@ -48,7 +48,8 @@ In the first line, **kāme** locates **parāvṛtta-janmā āryaḥ**: “the No
 
 In the second line, the correlatives **saḥ ca ... ūrdhvajaḥ ca** join two subjects—the Desire Realm Noble after another birth and the Noble born in an upper realm. Both fall under **na eva ... bhāk**. The compound coordinates **akṣasaṃcāra** and **parihāṇi** as excluded possibilities.
 
-The kārikā states the exclusions. Greater faculty-maturity and acquisition of a superior support as their causes belong to the Bhāṣya.
+The kārikā states the exclusions. Greater faculty maturity and acquisition
+of a superior Basis as their causes belong to the Bhāṣya.
 
 **Future Feature Grammar sketch (not executable):**
 
@@ -60,7 +61,7 @@ NOBLE[BIRTH=another-within-Desire Realm|higher-realm]
 ```
 
 The prose explains the second rule through ripened faculties and a
-superior basis; the first rule is expressly scoped to the Desire Realm
+superior Basis; the first rule is expressly scoped to the Desire Realm
 case.
 
 ## 5. Translation
@@ -77,9 +78,15 @@ case.
 
 ## 6. Philosophical Translation
 
-The Path does not leave every earlier possibility perpetually open. Its continuation through another birth matures the capacity already formed and gives it a more adequate basis. As this formation ripens, certain changes that were once possible—alteration of faculty and loss of attainment—cease to belong to the practitioner's transition-space.
+The Path does not leave every earlier possibility perpetually open. Its
+continuation through another birth matures the capacity already formed
+and gives it a more adequate Basis. As this formation ripens, certain
+changes that were once possible—alteration of faculty and loss of
+attainment—cease to belong to the practitioner's transition-space.
 
-Irreversibility is therefore not imposed as an external prohibition. It is the positive consequence of maturation: the developed faculty and its superior support no longer admit the former mode of instability.
+Irreversibility is therefore not imposed as an external prohibition. It
+is the positive consequence of maturation: the developed faculty and
+its superior Basis no longer admit the former mode of instability.
 
 ## 7. Technical Vocabulary
 
@@ -113,13 +120,14 @@ intervening Noble birth
 
 Time here is not empty duration. It is the causal maturation of an already determined Path-capacity.
 
-**`Āśraya-viśeṣa-lābha` — acquisition of a superior basis**
+**`Āśraya-viśeṣa-lābha` — acquisition of a superior Basis**
 
-The second cause is acquisition of a superior **āśraya**, basis or support. The faculty is stabilized not in abstraction but through a transformed supporting condition:
+The second cause is acquisition of a superior **āśraya**, or Basis. The
+faculty is stabilized through that transformed Basis:
 
 ```text
 greater faculty-maturity
-    + superior support acquired
+    + superior Basis acquired
     → narrowed transition-space
 ```
 
@@ -176,12 +184,12 @@ In Organon terms, explicitly as project synthesis, maturation converts a previou
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya explains why the first restriction is local, cites Śakra's statement about Akaniṣṭha with a Vaibhāṣika response, and gives faculty maturation and a superior basis as grounds for the second restriction. Its later question about an already desire-detached trainee is answered by the Vaibhāṣikas and remains attributed to them. The Bhāṣya explains the realm restriction through the contrast with a Form Realm Noble who may enter the formless realm; it also gives same-life non-return and final Nirvāṇa as the result in the desire realm. Its faculty-maturation explanation and exchange about a desire-detached trainee remain attributed to their speakers.
+**Translation note.** The Bhāṣya explains why the first restriction is local, cites Śakra's statement about Akaniṣṭha with a Vaibhāṣika response, and gives faculty maturation and a superior Basis as grounds for the second restriction. Its later question about an already desire-detached trainee is answered by the Vaibhāṣikas and remains attributed to them. The Bhāṣya explains the realm restriction through the contrast with a Form Realm Noble who may enter the formless realm; it also gives same-life non-return and final Nirvāṇa as the result in the desire realm. Its faculty-maturation explanation and exchange about a desire-detached trainee remain attributed to their speakers.
 
 
-VAK 6.40 defined the strict good course through irreversible wholesome operation. VAK 6.41 now gives that irreversibility a causal morphology: faculty becomes mature and receives a superior support. The restriction on possible transitions is the result of positive development, not an arbitrary ban.
+VAK 6.40 defined the strict good course through irreversible wholesome operation. VAK 6.41 now gives that irreversibility a causal morphology: faculty becomes mature and receives a superior Basis. The restriction on possible transitions is the result of positive development, not an arbitrary ban.
 
-This supports the methodological priority of Seeing. A Path begun in direct Noble discrimination is not perfected by replacing Seeing with increasingly heavy representation. Its certainty is carried forward by maturation of the faculty and transformation of its basis. Reflection has a legitimate role in cultivation, but it must serve the actuality first disclosed rather than reconstruct it as a merely conceptual object.
+This supports the methodological priority of Seeing. A Path begun in direct Noble discrimination is not perfected by replacing Seeing with increasingly heavy representation. Its certainty is carried forward by maturation of the faculty and transformation of its Basis. Reflection has a legitimate role in cultivation, but it must serve the actuality first disclosed rather than reconstruct it as a merely conceptual object.
 
 The domain and transition exclusions belong to the kārikā. Their exact scope, maturation causes, qualifications, and the analysis of remaining work belong to the Bhāṣya; the latter explanation is explicitly Vaibhāṣika. The contrast between perceptual disclosure and reflective machinery is Organon synthesis and is not attributed to Vasubandhu's wording.
 
@@ -219,7 +227,7 @@ InterveningNobleBirth acquires SuperiorBasis
 SuperiorBasis supports StableNobleFaculty
 
 KārikāRule: The two specified matured Noble positions admit neither faculty-transfer nor falling away.
-BhāṣyaRule: Greater faculty-maturity and superior support explain the excluded transitions.
+BhāṣyaRule: Greater faculty maturity and superior Basis explain the excluded transitions.
 BhāṣyaRule: Desire-detachment alone does not entail capacity to complete all remaining Path-work.
 ProjectRule: MaturedPathMorphology excludes regression without reflective reconstruction of its original disclosure.
 ```

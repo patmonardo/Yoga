@@ -29,11 +29,11 @@ Bhāṣya tests the proposed reason for that extension.
 | **lokottareṇa ca** | masculine instrumental singular plus conjunction | also by the supramundane Path |
 | **iti eke** | quotative plus pronoun | so some hold; marks a reported position |
 | **tyakte** | locative absolute or compact conditional form | when the relevant attainment is relinquished |
-| **kleśa-samanvayāt** | masculine ablative singular compound | because [otherwise] possession of the affliction would follow |
+| **kleśa-asamanvayāt** | masculine ablative singular compound | because the afflictions are not possessed |
 
 ```text
 laukikena | ārya-vairāgye | visaṃyoga-āptayaḥ | dvidhā |
-lokottareṇa | ca | iti | eke | tyakte | kleśa-samanvayāt
+lokottareṇa | ca | iti | eke | tyakte | kleśa-asamanvayāt
 ```
 
 The running verse reads `tyavate` where the study gives the normalized
@@ -43,7 +43,7 @@ The running verse reads `tyavate` where the study gives the normalized
 
 The stable first statement is **laukikena ... āryavairāgye visaṃyogāptayo dvidhā**: when an Ārya gains dispassion by a mundane Path, two attainments of separation arise.
 
-**lokottareṇa ca iti eke** introduces a reported extension: some say the same twofold acquisition also arises when dispassion is gained supramundanely. **tyakte kleśasamanvayāt** supplies their argument by consequence—otherwise, upon relinquishment of the supramundane acquisition, renewed possession of the affliction would allegedly follow.
+**lokottareṇa ca iti eke** introduces a reported extension: some say the same twofold acquisition also arises when dispassion is gained supramundanely. **tyakte kleśāsamanvayāt** gives their stated reason in terms of continued non-possession when an attainment is relinquished. The Bhāṣya expands the feared contrary consequence: without a parallel mundane attainment, loss of the supramundane one would allegedly restore possession of the affliction.
 
 The Bhāṣya rejects the probative force of that reason. Translation must therefore preserve thesis, reported extension, argument, and Vasubandhu's later counterexample as distinct voices.
 
@@ -67,12 +67,12 @@ belong to the Bhāṣya's response.
 
 > When an Ārya gains dispassion by the mundane Path, the attainments
 > of separation are twofold. Some say they are twofold also by the
-> supramundane Path, arguing that when its attainment is relinquished,
-> possession of the afflictions would otherwise follow.
+> supramundane Path, because the afflictions remain unpossessed when
+> its attainment is relinquished.
 
 ### Bhāṣya-informed study translation
 
-> When a Noble gains dispassion through a mundane Path, the attainments of separation are twofold. Some say the same holds through a supramundane Path, lest relinquishing its attainment entail possession of the afflictions.
+> When a Noble gains dispassion through a mundane Path, the attainments of separation are twofold. Some say the same holds through a supramundane Path, to account for non-possession of the afflictions when its attainment is relinquished.
 
 ## 6. Philosophical Translation
 
@@ -196,7 +196,7 @@ In Organon terms, explicitly as project synthesis, the fruit is genetically medi
 
 ## 9. Interpretive Note
 
-**Translation note.** The first twofold result is asserted; `eke` attributes the extension to some interlocutors. The final clause gives their reason, which the Bhāṣya judges `ajñāpaka`, non-probative. The witness reads `tyavate` in that clause, while this study uses `tyakte` to follow the prose's relinquishment scenario; the textual difference remains open. The Bhāṣya tests the interlocutors’ proposed extension with two counterexamples: loss of an attainment does not itself establish renewed possession of an abandoned affliction. Its judgment that the reason is non-probative does not settle every possible case. The witness has *tyavate*; the prose-based study reading *tyakte* remains an editorial normalization.
+**Translation note.** The first twofold result is asserted; `eke` attributes the extension to some interlocutors. The final clause says **non-possession** of afflictions when an attainment is relinquished; the prose develops the defender's fear that possession would otherwise return. The Bhāṣya judges that reason `ajñāpaka`, non-probative, through two counterexamples. The witness reads `tyavate`, while this study uses `tyakte` to follow the prose's relinquishment scenario; the textual difference remains open. The verdict does not settle every possible version of the reported extension.
 
 
 VAK 6.46 gives the precise correction to a simple action–fruit wheel. The result is neither independent of the action that produced it nor identical with a present representation or acquisition of that result. It is the achieved determination preserved through the continuum's genesis.
