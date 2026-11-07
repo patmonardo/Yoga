@@ -25,7 +25,7 @@ prāk tebhyo mokṣabhāgīyaṃ kṣipraṃ mokṣas tribhir bhavaiḥ || 6.24 
 | **śāstṛ-khaḍgayoḥ** | masculine genitive dual | of the Teacher and the Rhinoceros-like solitary Buddha |
 | **prāk tebhyaḥ** | adverb with ablative plural | prior to those factors conducive to penetration |
 | **mokṣa-bhāgīyam** | neuter nominative singular derivative compound | a wholesome root conducive to liberation |
-| **kṣipram** | adverb | quickly; in the fastest ordinary case |
+| **kṣipram** | adverb | quickly; in the quickest course |
 | **mokṣaḥ** | masculine nominative singular | liberation |
 | **tribhiḥ bhavaiḥ** | masculine instrumental plural | through or within three existences |
 
@@ -42,9 +42,9 @@ The opening construction is elliptical. **śāstṛkhaḍgayoḥ** is a genitive
 
 The second line contains two nominal statements. **prāk tebhyaḥ mokṣabhāgīyam [utpadyate]** means “prior to those, what is conducive to liberation [arises].” The ablative plural **tebhyaḥ** refers to the four *nirvedhabhāgīyas*.
 
-**kṣipraṃ mokṣas tribhir bhavaiḥ** states the shortest ordinary sequence: “quickly, liberation [occurs] through three existences.” **kṣipram** qualifies the manner or limiting case, while **tribhir bhavaiḥ** supplies the temporal-causal span.
+**kṣipraṃ mokṣas tribhir bhavaiḥ** states the shortest sequence: “quickly, liberation [occurs] through three existences.” **kṣipram** qualifies the manner or limiting case, while **tribhir bhavaiḥ** supplies the temporal-causal span.
 
-The grammar therefore juxtaposes an exceptional one-sitting completion with the fastest ordinary maturation across three lives.
+The grammar therefore juxtaposes a one-sitting completion with the quickest maturation across three lives. The one sitting concerns the final course from penetration-conducive roots to Awakening; the three lives include the earlier liberation-conducive root.
 
 **Future Feature Grammar sketch (not executable):**
 
@@ -82,7 +82,7 @@ and the three-life distribution of entry, maturation, and release.
 
 For the two exceptional forms of awakening, the entire decisive Path becomes continuous within one stable and penetrating concentration. Yet even this concentrated ascent belongs to a causal architecture: prior orientation toward liberation, maturation into preparation for penetration, and culmination in supramundane release.
 
-The ordinary three-life sequence makes this architecture visible. Liberation is not an isolated event added to an unchanged continuum. A liberative direction must first be established, then ripened as cultivated truth-capacity, and finally brought to fruit in the Noble Path.
+The quickest three-life sequence makes this architecture visible. Liberation is not an isolated event added to an unchanged continuum. A liberative direction must first be established, then ripened as cultivated truth-capacity, and finally brought to fruit in the Noble Path.
 
 ## 7. Technical Vocabulary
 
@@ -120,7 +120,7 @@ Exceptional course:
     one sitting
     fourth-dhyāna support
 
-Fastest ordinary course:
+Quickest course:
     life 1 → liberation-conducive root
     life 2 → penetration-conducive roots
     life 3 → Noble Path and liberation
@@ -208,7 +208,7 @@ ThreeLifeSequence Structure:
 LiberationConduciveAction governedBy LiberativeAspiration
 
 Constraint: Penetration-conducive roots require a prior liberation-conducive root.
-Constraint: The three-life sequence states the fastest ordinary course, not every practitioner's timetable.
+Constraint: The three-life sequence states the quickest course, not every practitioner's timetable.
 BhāṣyaRule: Liberation-conducive discriminative comprehension is hearing-born or reflection-born, not cultivation-born.
 ProjectRule: GeneticCopula = liberative orientation + cultivated maturation + supramundane efficacy.
 ```

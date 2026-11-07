@@ -7,10 +7,10 @@
 
 > Recollection of inhalation and exhalation is discriminative comprehension by
 > nature. It occurs on five grounds, has wind as its cognitive field, and
-> rests on a Desire Realm basis. It does not belong to outsiders; it is
+> rests on a Desire Realm Basis. It does not belong to outsiders; it is
 > sixfold, beginning with counting.
 
-The Bhāṣya distinguishes nature, name, ground, cognitive field, and basis,
+The Bhāṣya distinguishes nature, name, ground, cognitive field, and Basis,
 then develops the six modes through which this practice becomes complete.
 
 ## 2. Continuous Sanskrit
@@ -116,20 +116,24 @@ The next unit begins at [340|15].
 ## 3. Continuous Translation
 
 The verse calls recollection of inhalation and exhalation Prajñā, occurring on
-five grounds, with wind as its cognitive field and a Desire Realm basis.
-Inhalation is wind entering; exhalation is wind leaving. Recollection of the
-two is called recollection of breathing, yet its intrinsic nature is Prajñā.
+five grounds, with wind as its cognitive field and a Desire Realm Basis.
+Inhalation is wind entering; exhalation is wind leaving. The transmitted name
+glosses `ānanamāna` and `apānanamapānaḥ` are uneven. Recollection of the two is
+called recollection of breathing, yet its intrinsic nature is Prajñā.
 It is called recollection, as with the establishments of recollection, because
 its activity draws on recollection's power.
 
 The five grounds are the three neighboring concentrations, the intermediate
 concentration, and the Desire Realm, because the practice is associated with
-equanimity. The prose connects this with its counteractive relation to
-discursive thought and with conditions for attention; that sentence is
-textually uneven. Those who admit equanimity in the principal dhyānas instead
+equanimity. It is said to be unassociated with pleasure and pain because these
+accord with discursive thought, to which the practice is a counteragent; and
+with pleasure and joy because they impede attentive application, by which the
+practice is accomplished. The first clause has a damaged initial character and
+compressed syntax, so the exact rationale remains provisional. Those who admit
+equanimity in the principal dhyānas instead
 make it eight-grounded. Beyond that range, inhalation and exhalation are not
-grounded. Wind is its cognitive Condition (`ālambana`); the Desire Realm is its
-basis (`āśraya`). It occurs among gods and humans and may be developed through
+grounded. Wind is its cognitive Support (`ālambana`); the Desire Realm is its
+Basis (`āśraya`). It occurs among gods and humans and may be developed through
 application or gained through detachment. It is attention according to
 actuality (`tattva-manaskāra`). The practice belongs to those of the Dharma,
 not outsiders, who lack instruction and do not themselves awaken to the subtle
@@ -137,55 +141,59 @@ dharmas.
 
 The verse calls it sixfold beginning with counting. The six factors that make
 it complete are counting, following, establishing, discerning, turning, and
-purification. In counting, one attends to inhalations and exhalations while
-leaving body and consciousness (`citta`) unforced, counting by recollection
-alone from one to ten. The count is not shorter or longer, lest consciousness
-be scattered. Its three faults are counting two as one, counting one as two,
+purification. In counting, one places Consciousness (`citta`) on inhalations and
+exhalations and, without contrivance, sets body and Consciousness aside,
+counting by recollection alone from one to ten. The count is neither shorter
+nor longer, for fear of compressing or dispersing Consciousness. Its three
+faults are counting two as one, counting one as two,
 and mistaking inhalation for exhalation or the reverse. Correct counting avoids
 these errors. If attention wanders, one starts again until concentration is
 attained.
 
-Following tracks the breath's course without forcing it, asking how far it
-enters or leaves and whether it moves through the whole body or a part. An
-attributed account follows it from throat through successive bodily regions
-to the feet, then outward to distant winds. The commentary rejects that
-extension as incompatible with attention according to actuality.
+Following tracks the breath's course without contrivance, asking how far it
+enters or leaves and whether it moves through the whole body or a part. The
+incoming breath is followed through the throat, heart, navel, waist, thighs,
+and shins as far as the feet. Others extend the outgoing breath for a span or
+fathom, up to the wind circle and the Vairambha winds. The commentary rejects
+this extension as incompatible with attention according to actuality.
 Establishing observes the breath as stationed from the nose-tip to the big
 toe, like jewels on a thread, while considering whether it helps or harms and
 whether it is cold or warm.
 
-Discerning recognizes that these are more than wind alone: the four great
-Elements, derivative material form, and the consciousness and mental factors
+Discerning recognizes that these are more than wind alone: the four Great
+Elements, derivative Form, and the Consciousness and mental factors
 that depend on them disclose the five Bases. Turning redirects the
-development that used wind as its Condition toward higher wholesome roots, as
+development that used wind as its Support toward higher wholesome roots, as
 far as the highest mundane dharmas. Purification is entry into the Path of
 Seeing and subsequent Paths. Others extend turning from the establishments
 of recollection through the diamond-like concentration, and reserve
-purification for knowledge of exhaustion and what follows. The unit closes
-with a summary verse naming the six modes.
+purification for knowledge of exhaustion and what follows. A closing summary
+verse restates counting, following, stationing, discerning, turning, and
+purification as the six modes; its compressed `lakṣaṇārthavivarttnā` remains
+textually uncertain.
 
 ## 4. Movement of the Commentary
 
 The commentary first explains why a practice named for recollection has
 Prajñā as its nature. It distinguishes five grounds from an attributed
-eight-ground alternative, then separates wind as cognitive field and Condition
-from the Desire Realm basis. It specifies practitioners and the grounds of the
+eight-ground alternative, then separates wind as cognitive field and Support
+from the Desire Realm Basis. It specifies practitioners and the grounds of the
 exclusion of outsiders. The second half unfolds the six modes, their
 operational checks, and an alternative allocation of the final two stages.
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Smṛti` names a supporting power, while `prajñā`
+**Translation decisions.** `Smṛti` names a sustaining power, while `prajñā`
 names intrinsic nature. `Gocara` gives a cognitive field; the prose's
-`ālambana` specifies the cognitive Condition, and `āśraya` names the
-supporting basis. The anchor's five grounds follow the verse's standard count;
+`ālambana` specifies the cognitive Support, and `āśraya` names the
+Basis. The anchor's five grounds follow the verse's standard count;
 the eight-ground position is attributed in the prose. `Na bāhyānām` concerns
 this taught practice, not whether outsiders breathe. `Gaṇanādibhiḥ`
 announces six modes, whose names and ordered account belong to the Bhāṣya.
 
 **Organon determination.** The source offers a structured transition from a
 repeatable bodily event to discriminative knowing. On a future reflective
-surface, name, nature, field, basis, ground, instruction, mode, and outcome
+surface, name, nature, field, Basis, ground, instruction, mode, and outcome
 should remain separate features. A later LogicFrame can express how counting
 supports following, discerning, and Path entry. This is a project
 formalization of the source's sequence.
@@ -194,7 +202,7 @@ formalization of the source's sequence.
 
 | Mode | Immediate work |
 |---|---|
-| Counting (`gaṇanā`) | Maintain a correct one-to-ten sequence without forcing body or consciousness |
+| Counting (`gaṇanā`) | Maintain a correct one-to-ten sequence without forcing body or Consciousness |
 | Following (`anugama`) | Track the actual course of breath |
 | Establishing (`sthāpanā`) | Steady attention at a bodily location |
 | Discerning (`upalakṣaṇā`) | Recognize Elements, derived Form, and the five Bases |
@@ -206,7 +214,9 @@ them farther along the Path. The two accounts remain attributed separately.
 
 ## 7. Review Status
 
-Provisional. The complete unit was checked against the running witness at
-[339|05–340|14], including the closing summary verse and the alternative
-account of the final two modes. The kārikā anchor exactly matches the study
+Reviewed against the complete running unit at [339|05–340|14], including the
+closing summary verse and the alternative account of the final two modes. The
+preceding 6.11 ends at [339|03–04], and 6.13 opens at [340|15]. Damaged readings
+including `gīcarā`, `lsukhaduḥkhayoḥ`, `praveśakram4ṇa`, and the compressed
+summary phrase remain unresolved. The kārikā anchor exactly matches the study
 translation.

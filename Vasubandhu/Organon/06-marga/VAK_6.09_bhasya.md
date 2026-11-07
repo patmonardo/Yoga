@@ -7,7 +7,7 @@
 
 > Entry is through the unattractive and through recollection of breathing,
 > respectively for those dominated by desire and by discursive thought. For
-> all who are affected by desire, the skeleton is [the contemplative support].
+> all who are affected by desire, the skeleton is [the contemplative Support].
 
 The Bhāṣya distributes the two entry practices, differentiates desire's
 counter-supports, and limits the effect of unattractive contemplation to
@@ -67,27 +67,29 @@ The next prose unit at [338|02–338|03] opens 6.10.
 For one thus become a suitable vessel, how does entry into cultivation occur?
 It is through the unattractive and through recollection of inhalation and
 exhalation. The commentary explains the form `smṛtam` by `smṛti`. For whom is
-each practice intended? In order, for those dominated by desire and those
-dominated by discursive thought. The first enters by the unattractive; the
-second by recollection of breathing.
+each practice intended? In order, for those in whom desire and discursive
+thought, respectively, are excessive. One whose desire is especially strong
+and close at hand enters by the unattractive; one of discursive character
+enters by recollection of breathing.
 
 Some explain that breath recollection cuts off discursive thought because its
-cognitive Condition is not variegated, whereas the unattractive, taking a
-particular bodily configuration as its Condition, can occasion further thought.
+Support is not variegated, whereas the unattractive, taking a particular bodily
+configuration as its Support, can occasion further thought.
 Others explain the difference through outward orientation: contemplation of the
-unattractive is outward-facing like eye-cognition (`cakṣurvijñāna`), through
-attention to its cognitive field. The running text's wording for this second
+unattractive is outward-facing like eye-Cognition (`cakṣurvijñāna`), through
+attention to its Condition (`viṣaya`). The running text's wording for this second
 explanation is uneven, so its precise phrasing remains provisional.
 
 Desire is then divided into attachment to color, configuration, touch, and
-bodily bearing or presentation. The commentary assigns a corresponding
-unattractive presentation to each: discoloration for color; a gnawed or
-scattered body for configuration; putrefaction or exposed bone for touch; and
-the motionless corpse for bodily bearing. For all these types, the skeletal
-framework is recommended in common, since none of the four attractive features
-is present in it. Because contemplation of the unattractive employs resolutive
-attention to a limited field, it does not abandon the affliction; it suppresses
-it.
+bodily bearing or presentation. Against the first, the text names unattractive
+contemplation taking a discolored corpse and the like as Support, but its verb
+reads `varjayanti` (“they exclude”); the direction of this clause remains
+uncertain. Against the second, it names a gnawed or scattered body as Support;
+against the third, putrefaction or exposed bone; against the fourth, a
+motionless corpse. For all these types, the skeletal framework is recommended
+without distinction, since the fourfold desire is absent in it. Because
+contemplation of the unattractive employs resolutive attention to a limited
+field, it does not abandon the affliction; it suppresses it.
 
 ## 4. Movement of the Commentary
 
@@ -103,19 +105,21 @@ abandonment.
 
 **Translation decisions.** `Yathākramam` supplies the respective distribution
 of two instrumentals over two practitioner types. `Śaṃkalā` is a common
-contemplative support for all desire-dominant subtypes, not a third entry
+contemplative Support for all desire-dominant subtypes, not a third entry
 practice paired with the first two. The anchor stays close to these kārikā
 determinations. The prose gives the finer subtype mapping and the decisive
 limit: `viṣkambhaṇaṃ tu` rather than `kleśa-prahāṇam`. In the attributed
-explanation, `cakṣurvijñāna` is eye-cognition; `viṣaya` is its cognitive field
-and `ālambana` the practice's cognitive Condition.
+explanation, `cakṣurvijñāna` is eye-Cognition; `viṣaya` is Condition
+and `ālambana` the practice's Support. The first subtype clause retains
+`varjayanti`; its counteragent context does not justify silently translating
+it as “they prescribe.”
 
 **Organon determination.** Entry is diagnostic: a predominant obstruction
 selects an adequate counter-operation. One practice changes the represented
 body, while the other steadies attention to breathing. Their preparatory
 success must be recorded as suppression, leaving definitive abandonment as a
 further Path determination. A future LogicFrame can track character,
-selected practice, cognitive Condition, and effect scope separately.
+selected practice, Support, and effect scope separately.
 
 ## 6. Diagnosis and Effect
 
@@ -126,7 +130,7 @@ selected practice, cognitive Condition, and effect scope separately.
 
 | Desire subtype | Counter-presentation |
 |---|---|
-| Color | Discoloration |
+| Color | Discoloration (verb `varjayanti` uncertain) |
 | Configuration | Gnawed or scattered body |
 | Touch | Putrefaction or exposed bone |
 | Bearing or presentation | Motionless corpse |
@@ -137,6 +141,8 @@ The stated effect of unattractive contemplation is suppression
 
 ## 7. Review Status
 
-Provisional. The complete unit was checked against the running witness at
-[337|07–338|02]. Its uncertain forms remain visible for later textual review.
-The kārikā anchor exactly matches the study translation.
+Reviewed against the complete running unit at [337|07–338|02]. The preceding
+6.08 closes at [337|05–06]; 6.10 begins at [338|02–03]. The first subtype's
+`varjayanti`, the outward-orientation explanation, and the transmitted forms
+noted above remain uncertain. The kārikā anchor exactly matches the study
+translation.

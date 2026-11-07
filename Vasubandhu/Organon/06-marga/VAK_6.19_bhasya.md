@@ -5,9 +5,9 @@
 > kāmāptaduḥkhaviṣayā tv adhimātrā kṣaṇaṃ ca sā |
 > tathāgradharmāḥ sarve tu pañcaskandhā vināptibhiḥ || 6.19 ||
 
-> Strong Acceptance takes Desire Realm suffering as its cognitive Condition
-> and lasts one moment. So too do all the Highest Mundane Dharmas. All [these
-> stages] comprise five Bases without acquisitions.
+> Strong Acceptance has Desire Realm suffering as its Condition and Support
+> and lasts one moment. The Highest Mundane Dharmas are likewise. With their
+> associates, all these stages comprise five Bases, excluding acquisitions.
 
 The Bhāṣya explains the one-moment contraction, the causal power of the last
 mundane stage, and the difference between intrinsic nature and constitution
@@ -84,67 +84,74 @@ collation. The next unit starts at [345|21].
 
 ## 3. Continuous Translation
 
-“Strong” still qualifies Acceptance. Its cognitive Condition is only
-suffering belonging to the Desire Realm. Because no corresponding restriction
-was stated for Heat and the earlier stages, their range can include suffering
-and the other truths across the three realms. The commentary reports a
-progressive contraction: one sets aside the counteractions of form and
-formless realms and the broader truth Conditions until Desire Realm suffering
-alone is attended to. When two moments remain, this is still medium
-Acceptance; when only one moment remains, it is strong Acceptance. This
-Acceptance is momentary rather than an extended series.
+“Strong” still qualifies Acceptance. It has Desire Realm suffering as its
+Condition. Because of its connection with the [Highest] Dharmas—the witness
+has the uncertain `apradharmasaṃśleṣād`—only Desire Realm suffering is its
+Support. Since no such restriction was stated for Heat and the earlier
+stages, they can have suffering and the other truths throughout the three
+realms as Supports. It is said that, as Supports for individual truths are
+reduced, beginning with the counteragents to Form and Formless, attention
+comes down to Desire Realm suffering alone. While that is attended to for
+two moments, the whole is still medium Acceptance; at one moment it is strong
+Acceptance. It is momentary, not extended.
 
-The Highest Dharmas are likewise directed to Desire Realm suffering and last
-one moment. They are mundane and highest, hence called Highest Mundane
-Dharmas: supreme among mundane dharmas. Although they are not a homogeneous
-cause of the Path, they draw the Path in through their own causal efficacy.
-Heat and the subsequent preparatory stages are called Prajñā-natured because
-they are establishments of recollection in intrinsic nature. With their
-associated complex counted, all comprise five Bases. Acquisitions
-(`prāpti`) are excluded: otherwise an ārya who possesses the acquisition of
-one of these stages could be wrongly counted as presently manifesting Heat
-or a related mundane stage.
+The Highest Dharmas are likewise supported by Desire Realm suffering and are
+momentary. They are mundane and highest, hence called Highest Mundane
+Dharmas: supreme among mundane dharmas. Without being a homogeneous cause
+of the Path, they draw it in through their own causal efficacy. Heat and the
+subsequent preparatory stages are called Prajñā-natured because, in intrinsic
+nature, they are establishments of recollection. Including their associates,
+all comprise five Bases. Acquisitions (`prāpti`) are excluded from these
+stages; otherwise an ārya's present acquisition could be taken to mean
+that Heat or another preparatory stage itself is presently manifest.
 
-The remaining prose gives a case-by-case matrix for cultivation of present
-and future establishments and their aspects. In forming Heat with three
-truths as Conditions, the dharma establishment is present while all four are
-cultivated for the future; with cessation as Condition, the same
-establishment is cultivated in both ways. Corresponding aspects accompany
-them. In strengthening Heat, one of the four establishments is present and
-all four may be cultivated for the future. The cessation-Condition case
-singles out the last establishment; the text also invokes prior acquisition
-of dispositions in explaining the future aspects. The formation and
-strengthening of Summits receive analogous cases, with a distinction between
-cessation and the other three truths. For Acceptances, the last establishment
-is present throughout while four are future, with all aspects mentioned. For
-the Highest Mundane Dharmas, the last establishment is present, four are
-future, and only four aspects are specified. Some transmitted phrases in this
-matrix are compressed; its broad distribution is secure, while finer
-case-by-case inflections remain provisional.
+When Heat is initially formed with three Truths as Supports, the dharma
+establishment is present and all four establishments are cultivated for the
+future. With cessation as Support, that same establishment is cultivated
+both presently and for the future. In every case the aspects are of the
+corresponding kind. In strengthening Heat, any one of the four establishments
+is present and all four are cultivated for the future. In that strengthening,
+when cessation is Support, the last establishment is present and all four
+are future; all aspects are cultivated, because the lineages have been
+attained.
+
+When Summits are initially formed with all Four Truths as Supports, and when
+they are strengthened with cessation as Support, the last establishment is
+present, all four are future, and all aspects are cultivated. When they are
+strengthened with the other three Truths as Supports, any one of the four
+establishments is present, all four are future, and all aspects are
+cultivated. For Acceptances, the last establishment is present in every
+case, all four are future, and all aspects are cultivated. For the Highest
+Mundane Dharmas, the last establishment is present and all four are future,
+but there are precisely four aspects, because there are no others and
+because these dharmas resemble the Path of Seeing.
 
 ## 4. Movement of the Commentary
 
 The commentary first confines strong Acceptance to one moment of
-Desire Realm suffering. It assigns the same field and duration to the Highest
+Desire Realm suffering. It assigns the same Support and duration to the Highest
 Mundane Dharmas and explains their causal relation to the Path. It then
 separates Prajñā as intrinsic nature from the five-Base associated
 event, excluding acquisition from that event. The closing matrix classifies
-present and future cultivation across the preparatory stages.
+present and future cultivation, aspect range, and the final four-aspect
+limit across the preparatory stages.
 
 ## 5. Translation and Interpretation
 
-**Translation decisions.** `Viṣaya` gives a cognitive field; the prose's
-`ālambana` names its cognitive Condition. `Tathā` transfers the contracted
-field and one-moment duration to the Highest Mundane Dharmas. The phrase
+**Translation decisions.** `Viṣaya` gives a Condition; the prose's
+`ālambana` names the Support. `Tathā` transfers the contracted
+Support and one-moment duration to the Highest Mundane Dharmas. The phrase
 `vinā sabhāgahetunā` denies homogeneous causation, while `ākarṣaṇa` names
 causal drawing-in of the Path. `Sarve tu pañcaskandhāḥ` counts the full
 associated event, and `vināptibhiḥ` excludes `prāpti`; neither revises the
-prose's Prajñā-nature determination. The case matrix is translated in its
-secure structure and marked provisional where the witness is compressed.
+prose's Prajñā-nature determination. `Apradharmasaṃśleṣād`, the reduction
+word `apahlāsena`, and several matrix compounds remain uncertain. The
+translation follows their local syntax without normalizing the Sanskrit;
+the antecedents of `gotrāṇām` and `anyābhāvāt` remain underdetermined.
 
 **Organon determination.** The final mundane threshold is a precisely
-contracted field and duration with causal power to draw in a new Path
-function. Intrinsic nature, associated constitution, possession, and present
+contracted Condition, Support, and duration with causal power to draw in a
+new Path function. Intrinsic nature, associated constitution, possession, and present
 manifestation remain distinct. A future Feature Grammar can type these
 predicates; LogicFrame can test the threshold relation without treating
 mundane and supramundane as identical. This formalization belongs to the
@@ -154,7 +161,7 @@ project layer.
 
 | Determination | Strong Acceptance | Highest Mundane Dharmas |
 |---|---|---|
-| Cognitive Condition | Desire Realm suffering alone | Same |
+| Condition and Support | Desire Realm suffering alone | Same |
 | Duration | One moment | One moment |
 | Status | Preparatory Acceptance | Supreme within mundane dharmas |
 | Causal role | Precedes the last mundane stage | Draws in the Path without homogeneous causation |
@@ -167,7 +174,9 @@ project layer.
 
 ## 7. Review Status
 
-Provisional. The full unit, including its closing cultivation matrix, was
-checked against [344|16–345|20]. The matrix's compressed readings remain
-available for later collation. The kārikā anchor exactly matches the study
-translation.
+Reviewed against the full unit [344|16–345|20], including every line of the
+closing cultivation matrix. The 6.18 unit ends at [344|15], and 6.20 opens
+at [345|21]. The witness's `apradharmasaṃśleṣād`, `kāvāvacaram`, `dukhaṃ`,
+and compressed matrix phrases remain visible; the `gotrāṇām` and
+`anyābhāvāt` explanations need further collation. The kārikā anchor exactly
+matches the paired study translation.

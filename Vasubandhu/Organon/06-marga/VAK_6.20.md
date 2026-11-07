@@ -1,4 +1,4 @@
-# VAK 6.20 — The Four Factors Conducive to Penetration
+# VAK 6.20 — The Four Roots Conducive to Penetration
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -67,18 +67,18 @@ The ground extension is a named Bhāṣya alternative, not a seventh ground asse
 
 ### Bhāṣya-informed study translation
 
-> Thus the class conducive to determinate penetration is fourfold, born of
-> cultivation, and grounded in preliminary concentration, intermediate
-> concentration, and the four dhyānas. But the two may also occur on a lower
-> ground.
+> Thus the four wholesome roots conducive to determinate penetration are born
+> of cultivation and grounded in preliminary concentration, intermediate
+> concentration, and the four dhyānas. On Ghoṣaka's alternative, Heat and
+> Summits may also occur on the Desire Realm level.
 
 ## 6. Philosophical Translation
 
 The preparatory sequence is now comprehended as one function differentiated into four degrees. Its unity lies in bringing on penetration; its internal differences mark increasing stability and force. These roots are no longer merely heard or reflectively entertained determinations. They are discriminative comprehension made operative through cultivation.
 
-Their meditative grounds specify the conditions under which this practical cognition can arise. The principal account assigns all four to six concentration-levels, while a preserved alternative widens the basis of the first two stages to include the Desire Realm.
+Their meditative grounds specify where this practical cognition can arise. The principal account assigns all four to six concentration levels, while Ghoṣaka's alternative adds the Desire Realm as a ground for the first two stages.
 
-The preparations do not yet perform the Noble Path's penetration. They become its determinate conditions: cultivated truth-cognition is progressively organized until it can bring on the Path that abandons doubt and discriminates the Truths decisively.
+The preparations do not yet perform the Noble Path's penetration. Cultivated truth-cognition is progressively organized until these roots can bring on the Path that abandons doubt and discriminates the Truths decisively.
 
 ## 7. Technical Vocabulary
 
@@ -96,7 +96,7 @@ All four are produced through cultivation, not through hearing (*śrutamayī*) o
 
 **`Anāgamya` / `dhyānāntara` — access and intermediate concentration**
 
-Two of the six principal grounds, together with the four dhyānas. The roots belong to the entourage of the Path of Seeing, whose cognitive Condition is the Desire Realm.
+Two of the six principal grounds, together with the four dhyānas. The roots belong to the entourage of the Path of Seeing, which here takes the Desire Realm as Support.
 
 **`Bhadanta Ghoṣaka` — the named alternative**
 
@@ -134,11 +134,11 @@ cultivated discrimination of the Truths
     → bringing on determinate penetration
 ```
 
-The Bhāṣya's karmic qualification adds a change in causal direction:
+The Bhāṣya's Form Realm maturation claim adds a causal distinction:
 
 ```text
-ordinary world-supporting efficacy → projection of further becoming
-nirvedhabhāgīya efficacy           → completion without projection
+these roots in the Form Realm → five-Base maturation
+                            → completion without projection of renewed existence
 ```
 
 In Organon terms, explicitly as project synthesis, Practical Meaning has become a **threshold-form**: one articulated truth-content is cultivated through graded powers until it functions as the condition for a qualitatively distinct operation. The Path is the movement of that determination, not a repository added beside it.
@@ -205,6 +205,6 @@ AlternativeView_Ghoṣaka:
 
 Constraint: The four preparatory stages are cultivation-born, not hearing-born or reflection-born.
 Constraint: Being conducive to penetration does not entail already being DeterminatePenetration.
-BhāṣyaRule: FactorConduciveToPenetration completes maturation without projecting renewed existence.
+BhāṣyaRule: FactorConduciveToPenetration occurring in FormRealm completes five-Base maturation without projecting renewed existence.
 ProjectRule: ThresholdForm = articulated truth + cultivated stability + causal orientation toward breakthrough.
 ```

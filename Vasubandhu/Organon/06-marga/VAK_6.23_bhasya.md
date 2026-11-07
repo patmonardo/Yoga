@@ -62,7 +62,7 @@ pratyekabuddhagotrāṇi tu vyāvartayitumaśakyāni /
 This is the complete running unit at [348|01–348|19] in
 `Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line
 breaks are editorial. The transmitted `mṛdvacyā`, `vacyāvartya`, and
-`parahitkriyā` remain unregularized; their precise segmentation awaits
+`buddhādibhavaḥ` remain unregularized; their precise construal awaits
 collation. The next unit begins at [348|20].
 
 ## 3. Continuous Translation
@@ -74,15 +74,16 @@ One who attained Acceptance does not return to painful destinies even
 when Acceptance has been lost, because the karma and afflictions connected
 with those levels have been driven far away.
 
-From obtaining Acceptance one acquires a condition in which certain future
-states cannot arise. The commentary lists painful destinies; egg-born and
-moisture-born modes of birth; births among non-percipient beings, in
-Uttarakuru, and among Great Brahmās; particular bodily supports named in
-the received classification; an eighth and later existence; and afflictions
-abandoned through seeing. These exclusions are distributed by grade: weak
-Acceptance excludes painful destinies, while strong Acceptance excludes
-the other listed possibilities. The exact scope of the list remains
-subject to collation where the witness is compressed.
+From obtaining Acceptance one acquires a condition in which certain
+destinies, modes of birth, rebirths, bodily Bases, later existences, and
+afflictions cannot arise. The commentary specifies painful destinies;
+egg-born and moisture-born birth; rebirth among non-percipient beings, in
+Uttarakuru, or among Great Brahmās; bodily Bases called *śaṇḍha* and
+*paṇḍaka* and a Basis with both sex characteristics; an eighth and later
+existence; and afflictions abandoned through Seeing. These exclusions are
+distributed by grade: weak Acceptance excludes painful destinies, while
+strong Acceptance excludes the other listed possibilities. The precise
+construal of the compressed grade clause remains open to collation.
 
 The roots conducive to penetration occur in three lineages, differentiated
 beginning with the disciple lineage. One may turn away after Heat and
@@ -109,7 +110,9 @@ lineage toward complete Buddhahood or Pratyekabuddhahood.
 **Translation decisions.** `Mūlacchit` concerns severance of wholesome
 roots, not all grave action. `Anapāyaga` excludes painful destiny after
 Acceptance, including after its loss. `Anutpattidharmatā` expresses the
-non-arising of specified futures, with a grade-dependent scope. `Itaraḥ`
+non-arising of specified futures, with a grade-dependent scope. The three
+bodily Basis categories remain named in the source's own terms; only
+`ubhayavyañjana` is glossed as bearing both sex characteristics. `Itaraḥ`
 is explicitly resolved as Pratyekabuddha. The `kila` explanation about
 Bodhisattvas and painful destinies is reported as such; the commentary's
 following `tu` favors non-reversibility of the lineage itself.
@@ -124,13 +127,15 @@ they exclude different futures. This is project synthesis.
 | Prior attainment or trajectory | Excluded future | Remaining possibility |
 |---|---|---|
 | Summits | Severance of wholesome roots | Grave action and painful destiny remain possible |
-| Acceptance | Painful destiny, with further grade-specific exclusions | Its past attainment still matters after loss |
+| Weak Acceptance | Painful destiny | Its past attainment still matters after loss |
+| Strong Acceptance | Other listed rebirths, bodily Bases, later existences, and afflictions | The grade clause remains compressed |
 | Disciple lineage after first two | Complete Buddhahood still reachable by redirection | Acceptance will close this turn |
 | Disciple lineage after first three | Pratyekabuddhahood still reachable by redirection | Different limit from complete Buddhahood |
 | Pratyekabuddha lineage | Redirection from that lineage is unavailable | Lineage is fixed in this account |
 
 ## 7. Review Status
 
-The complete source unit [348|01–348|19] is present. The detailed
-non-arising list and compressed forms remain marked for collation. The
-kārikā anchor exactly matches the study's Bhāṣya-informed translation.
+Reviewed against the complete source unit [348|01–348|19]. The preceding
+unit ends at [347|24], and 6.24 begins at [348|20]. The compressed forms
+and grade clause remain marked for collation. The kārikā anchor exactly
+matches the study's Bhāṣya-informed translation.

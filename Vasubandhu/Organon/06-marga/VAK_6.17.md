@@ -36,7 +36,7 @@ specifies how the latter surpass Heat while remaining vulnerable to falling.
 
 The Bhāṣya resolves `tataḥ` as the repeatedly cultivated dharma
 establishment. It specifies the resemblance in `tādṛśāḥ` as Four-Truth
-Condition and sixteen-aspect structure.
+Support and sixteen-aspect structure.
 
 ## 4. Grammar
 
@@ -72,8 +72,9 @@ additional features for later reflection.
 
 ### Bhāṣya-informed study translation
 
-> From that arises Heat, with the Four Truths as its cognitive Condition and
-> sixteen aspects. From Heat arise the Summits; they too are of that kind.
+> From that arises Heat. The Four Truths are its cognitive range and Support,
+> and it has sixteen aspects. From Heat arise the Summits; they share that
+> Support and those aspects.
 
 ## 6. Philosophical Translation
 
@@ -107,8 +108,9 @@ irreversibility or definitive abandonment.
 **`Catuḥsatya-gocara` — Four Truths as cognitive field**
 
 Heat ranges over suffering, origin, cessation, and Path. The prose also calls
-these truths its cognitive Condition (`catuḥsatya-ālambana`). The field is
-newly specified in relation to 6.16's combined contemplation.
+these truths its Support (`catuḥsatya-ālambana`), citing Heat's extended
+course (`prākarṣikatvāt`). The precise force of that reason here remains
+open. The truth range is newly specified after 6.16's combined contemplation.
 
 **`Ṣoḍaśākāra` — having sixteen aspects**
 
@@ -117,8 +119,8 @@ The Bhāṣya assigns four modes to each truth:
 | Truth | Four aspects |
 |---|---|
 | Suffering | Impermanent (`anitya`), suffering (`duḥkha`), empty (`śūnya`), not-self (`anātman`) |
-| Origin | Cause (`hetu`), arising (`samudaya`), production (`prabhava`), condition (`pratyaya`) |
-| Cessation | Cessation (`nirodha`), peace (`śānta`), excellent (`praṇīta`), release (`niḥsaraṇa`) |
+| Origin | Cause (`hetu`), arising (`samudaya`), production (`prabhava`), conditioning factor (`pratyaya`) |
+| Cessation | Cessation (`nirodha`), peace (`śānta`), excellent (`praṇīta`), escape (`niḥsaraṇa`) |
 | Path | Path (`mārga`), right method (`nyāya`), practice (`pratipatti`), leading out (`nairyāṇika`) |
 
 The kārikā gives the number sixteen; the prose gives the list and postpones
@@ -133,7 +135,7 @@ remains possible from it.
 
 **`Tādṛśa` — of the same kind**
 
-The Summits share Heat's Four-Truth cognitive Condition and sixteen aspects.
+The Summits share Heat's Four-Truth Support and sixteen aspects.
 The likeness does not erase their difference in development or guarantee
 irreversibility.
 
@@ -193,9 +195,9 @@ Class: Summit
 Class: CognitiveField
 Class: FourTruthField
     SubClassOf: CognitiveField
-Class: CognitiveCondition
-Class: FourTruthCondition
-    SubClassOf: CognitiveCondition
+Class: CognitiveSupport
+Class: FourTruthSupport
+    SubClassOf: CognitiveSupport
 Class: AspectStructure
 Class: SixteenAspectStructure
     SubClassOf: AspectStructure
@@ -209,9 +211,9 @@ ObjectProperty: hasCognitiveField
     Domain: PreparatoryWholesomeRoot
     Range: CognitiveField
 
-ObjectProperty: hasCognitiveCondition
+ObjectProperty: takesSupport
     Domain: PreparatoryWholesomeRoot
-    Range: CognitiveCondition
+    Range: CognitiveSupport
 
 ObjectProperty: hasAspectStructure
     Domain: PreparatoryWholesomeRoot
@@ -223,11 +225,11 @@ ObjectProperty: moreDevelopedThan
 
 Assertion: Heat arisesFrom CultivatedDharmaEstablishment
 Assertion: Heat hasCognitiveField FourTruthField
-Assertion: Heat hasCognitiveCondition FourTruthCondition
+Assertion: Heat takesSupport FourTruthSupport
 Assertion: Heat hasAspectStructure SixteenAspectStructure
 Assertion: Summit arisesFrom Heat
 Assertion: Summit hasCognitiveField FourTruthField
-Assertion: Summit hasCognitiveCondition FourTruthCondition
+Assertion: Summit takesSupport FourTruthSupport
 Assertion: Summit hasAspectStructure SixteenAspectStructure
 Assertion: Summit moreDevelopedThan Heat
 
@@ -235,7 +237,7 @@ Constraint: Summit mayFallAway
 Constraint: Summit mayPassBeyond
 
 View: HeatAndSummit
-    Preserves: Genesis, TruthField, CognitiveCondition,
+    Preserves: Genesis, TruthField, CognitiveSupport,
                AspectStructure, Development, Reversibility,
                SourceProvenance
 ```

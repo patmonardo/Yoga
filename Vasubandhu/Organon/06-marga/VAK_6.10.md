@@ -17,7 +17,8 @@ pādāsthna ā kapālārdha-tyāgāt kṛtajayaḥ smṛtaḥ || 6.10 ||
 VAK 6.10 describes two stages in the cultivation of the unattractive. The
 beginner learns to establish, expand, and contract the skeletal representation.
 The practitioner who has gained mastery progressively relinquishes that
-representation from the bones of the feet until only half the skull remains.
+representation from the bones of the feet through one half of the skull,
+attending to the other half.
 
 The transmitted `pādāsthna` is morphologically difficult. Its practical sense
 is secured by the Bhāṣya: progressive removal begins with the bones of the feet.
@@ -30,7 +31,7 @@ is secured by the Bhāṣya: progressive removal begins with the bones of the fe
 | `asthi-vistāra-saṃkṣepāt` | ablative singular compound | through expansion and contraction of the skeletal representation |
 | `ādikarmikaḥ` | nominative singular masculine | beginner in the practice |
 | `pādāsthna` | transmitted difficult form | beginning from the bones of the feet |
-| `ā-kapāla-ardha-tyāgāt` | ablative singular compound | through relinquishing progressively up to half the skull |
+| `ā-kapāla-ardha-tyāgāt` | ablative singular compound | through progressive relinquishment through half the skull |
 | `kṛta-jayaḥ` | nominative singular masculine compound | one who has achieved mastery |
 | `smṛtaḥ` | nominative singular masculine past passive participle of `√smṛ` | is considered or designated |
 
@@ -57,10 +58,10 @@ asthi-vistāra-saṃkṣepāt
 ```
 
 The Bhāṣya expands the compressed operation into a sequence. The practitioner
-fixes attention on a readily accessible part of the body, removes flesh and
-other coverings in imagination, establishes the complete skeleton, extends
-that determination through progressively wider surroundings to the ocean, and
-then contracts it back to the practitioner's own skeleton.
+fixes Consciousness on a body part they find agreeable, resolves on the bones
+as cleared of flesh and other coverings, establishes the complete skeleton,
+extends that determination through progressively wider surroundings to the
+ocean, and then contracts it back to the practitioner's own skeleton.
 
 The second half predicates mastery:
 
@@ -69,14 +70,15 @@ pādāsthna [ārabhya]
     beginning with the bones of the feet
 
 ā kapālārdha-tyāgāt
-    through relinquishment up to half the skull
+    through relinquishment through one half of the skull
 
 kṛtajayaḥ smṛtaḥ
     one is considered to have achieved mastery
 ```
 
-The prose makes clear that only half the skull remains after the progressive
-subtraction; the counter-representation has been brought under controlled removal.
+The prose makes clear that after setting aside one half of the skull, the
+practitioner attends to the other half; the counter-representation has been
+brought under controlled removal.
 
 **Future Feature Grammar sketch (not executable):**
 
@@ -99,14 +101,14 @@ features sketch a future reflective model of those relations.
 
 > Through expansion and contraction of the skeletal representation as far as
 > the ocean, one is [known as] a beginner. Through relinquishing [the
-> represented bones] beginning with those of the feet until half the skull
-> [remains], one is considered to have achieved mastery.
+> represented bones] beginning with those of the feet through one half of the
+> skull, one is considered to have achieved mastery.
 
 ### Bhāṣya-informed study translation
 
 > Through expansion and contraction of the bones as far as the ocean, one is a
-> beginner. Through relinquishing [the bones] from the feet up to half the
-> skull, one is considered to have gained mastery.
+> beginner. Through successively setting aside [the bones], from the feet
+> through one half of the skull, one is considered to have gained mastery.
 
 ## 6. Philosophical Translation
 
@@ -132,7 +134,7 @@ local fixation
 **`Ādikarmika` — beginner**
 
 The practitioner at the initial stage of the actual exercise. The beginner
-must establish the skeletal support and acquire control over its extension and
+must establish the skeletal Support and acquire control over its extension and
 contraction before proceeding to its systematic removal.
 
 **`Asthi` — bone or skeletal framework**
@@ -151,7 +153,7 @@ The Bhāṣya assigns this operation the purpose of increasing `adhimokṣa`.
 
 The return from the ocean-wide skeletal field to the singular representation
 of one's own skeleton. Its stated purpose is `citta-saṃkṣepa`, gathering or
-contracting consciousness.
+contracting Consciousness.
 
 **`Adhimokṣa` — determinate imaginative resolution**
 
@@ -160,10 +162,10 @@ be held across an increasingly broad field. The operation is deliberate
 resolution, not a claim that the earth is literally perceived as filled with
 skeletons.
 
-**`Citta-saṃkṣepa` — gathering of consciousness**
+**`Citta-saṃkṣepa` — gathering of Consciousness**
 
-The function of contraction. The representation is drawn back from universal
-extension into a stable concentrated field.
+The function of contraction. The representation is drawn back from its
+extension as far as the ocean into a stable concentrated field.
 
 **`Kṛtajaya` / `kṛtaparijaya` — accomplished mastery**
 
@@ -242,7 +244,7 @@ Relinquishment
 ## 9. Interpretive Note
 
 
-**Translation note.** The Bhāṣya supplies the local starting point, expansion through the world, contraction to one's own skeleton, removal of coverings, purposes, and detailed subtraction. The transmitted `pādāsthna` remains difficult, with its practical sense dependent on the commentary.
+**Translation note.** The Bhāṣya supplies the local starting point, expansion through the world, contraction to one's own skeleton, clearing of flesh, purposes, and detailed subtraction. The clearing phrase `māṃsakledapītā dhimokṣakrameṇa` and `pādāsthna` remain difficult; their practical sense depends on the surrounding prose.
 
 **Aśubha is an operation, not a static image.** The exercise consists in fixing,
 constructing, extending, contracting, and subtracting. Reducing it to “visualize
@@ -254,7 +256,7 @@ with skeletons is the governed scope of the counter-representation, not a claim
 about the world's literal appearance.
 
 **Contraction is not reversal through failure.** It performs another task:
-gathering consciousness (`citta`). The practitioner must command both extension
+gathering Consciousness (`citta`). The practitioner must command both extension
 and concentration.
 
 **Mastery includes relinquishing the antidote.** The skeleton is a functional
@@ -263,8 +265,8 @@ therapeutic representation that cannot be released would remain another
 dependency.
 
 **The practice remains preparatory.** This mastery concerns the construction
-and governance of a cognitive Condition. It does not erase 6.09's distinction
-between suppression and definitive abandonment.
+and governance of a constructed skeletal Support. It does not erase 6.09's
+distinction between suppression and definitive abandonment.
 
 **Organon interpretation.** VAK 6.10 exhibits bhāvanāmayī discriminative comprehension as governed
 transformation of the cognitive field. This is project synthesis:

@@ -38,7 +38,7 @@ counter-presentation for all forms of bodily desire.
 The two instrumental forms state means of entry. The Bhāṣya distributes them
 diagnostically rather than cumulatively: `aśubha` for the desire-dominant and
 `ānāpānasmṛti` for the thought-dominant. The final genitive marks the skeleton
-as the recommended common support for every subtype of bodily desire.
+as the recommended common Support for every subtype of bodily desire.
 
 ## 4. Grammar
 
@@ -84,7 +84,7 @@ sarvarāgiṇām
 ```
 
 The supplied `ālambana` relation and recommendation come from the Bhāṣya. It
-explains that the skeleton jointly removes the attractive supports upon which
+explains that the skeleton jointly removes the attractive features upon which
 the differentiated forms of bodily desire depend.
 
 **Future Feature Grammar sketch (not executable):**
@@ -107,14 +107,14 @@ future representation of that distribution, not an executable source grammar.
 
 > Entry there is through the unattractive and through recollection of
 > inhalation and exhalation, for those dominated by desire and discursive
-> thought [respectively]. The skeleton is [the support] for all those affected
+> thought [respectively]. The skeleton is [the Support] for all those affected
 > by desire.
 
 ### Bhāṣya-informed study translation
 
 > Entry is through the unattractive and through recollection of breathing,
 > respectively for those dominated by desire and by discursive thought. For
-> all who are affected by desire, the skeleton is [the contemplative support].
+> all who are affected by desire, the skeleton is [the contemplative Support].
 
 ## 6. Philosophical Translation
 
@@ -129,7 +129,7 @@ The basic architecture is:
 
 ```text
 diagnosed predominance
-    → corresponding cognitive Condition
+    → corresponding cognitive Support
     → typed counter-operation
     → suppression
     → preparation for deeper Path-capacity
@@ -146,13 +146,13 @@ question in terms of one who has become a suitable vessel (`pātrībhūta`).
 **`Aśubha-bhāvanā` — cultivation of the unattractive**
 
 The entry-practice for the desire-dominant practitioner. It counters the
-constructed attractiveness of the body by presenting a cognitive Condition from
+constructed attractiveness of the body by presenting a cognitive Support from
 which the relevant attractive feature is absent.
 
 **`Ānāpānasmṛti` — recollection of inhalation and exhalation**
 
 The entry-practice for the practitioner dominated by discursive thought. One
-reported explanation emphasizes its non-variegated cognitive Condition: cognition
+reported explanation emphasizes its non-variegated cognitive Support: cognition
 is constrained to the simple recurring process of breathing.
 
 **`Rāgacarita` — desire-dominant character**
@@ -166,7 +166,7 @@ particular counter-presentations.
 A practitioner-type defined by excessive `vitarka`. Breath-recollection is
 selected for its capacity to reduce proliferating cognitive movement.
 
-**`Avicitrālambana` — non-variegated cognitive Condition**
+**`Avicitrālambana` — non-variegated cognitive Support**
 
 One attributed explanation of why breath-recollection counteracts discursive
 thought. Multiplicity supplies proliferation with material; a simple repeated
@@ -175,8 +175,9 @@ this rationale should not be presented as its sole uncontested account.
 
 **`Varṇa-rāga` — attachment to color or complexion**
 
-Desire organized around bodily color. The Bhāṣya assigns it unattractive
-representations involving discoloration and decomposition.
+Desire organized around bodily color. The Bhāṣya names an unattractive
+representation involving discoloration in a counteragent context, but its verb
+`varjayanti` (“they exclude”) leaves the exact direction of the clause uncertain.
 
 **`Saṃsthāna-rāga` — attachment to bodily configuration**
 
@@ -186,7 +187,7 @@ counter the synthetic bodily configuration upon which it depends.
 **`Sparśa-rāga` — attachment to touch**
 
 Desire organized around tactile qualities. Putrefaction and exposed bone
-remove the tactile support represented as desirable.
+remove the tactile feature represented as desirable.
 
 **`Upacāra-rāga` — attachment to bodily behavior or presentation**
 
@@ -196,7 +197,7 @@ The inert corpse counters this practical presentation.
 **`Śaṃkalā` — skeletal framework**
 
 The common counter-presentation for all forms of bodily desire because the attractive
-features supporting color, configuration, touch, and animated presentation are
+features of color, configuration, touch, and animated presentation are
 absent together. It is not merely one more special image but a general
 analytical reduction of the attractive body.
 
@@ -242,7 +243,7 @@ BreathRecollection
     counteracts DiscursiveProliferation
 ```
 
-The desire subtypes require differentiated cognitive Conditions:
+The desire subtypes require differentiated cognitive Supports:
 
 ```text
 ColorDesire
@@ -284,7 +285,7 @@ CounteractiveEfficacy
 ## 9. Interpretive Note
 
 
-**Translation note.** The Bhāṣya fixes the respective suitability of practitioners and the skeleton support for all forms of bodily desire; its diagnostic categories distinguish suppression from abandonment.
+**Translation note.** The Bhāṣya fixes the respective suitability of practitioners and the skeleton Support for all forms of bodily desire; its diagnostic categories distinguish suppression from abandonment. The subtype map follows the counteragent context, while the first clause's `varjayanti` remains unresolved.
 
 **Path-entry is diagnostic.** A common liberating end does not entail one
 identical first practice. The counterforce must correspond to the obstruction
@@ -296,11 +297,11 @@ The two practices intervene at these different functional sites.
 
 **Aśubha is a family of counter-representations.** The four types of desire
 prevent “contemplation of the unattractive” from becoming an undifferentiated
-generic technique. Its cognitive Condition is selected according to the feature
+generic technique. Its cognitive Support is selected according to the feature
 through which attraction operates.
 
-**The skeleton is a common analytical support.** Its universality lies in the
-joint absence of the several attractive supports. It dismantles the synthetic
+**The skeleton is a common analytical Support.** Its universality lies in the
+joint absence of the several attractive features. It dismantles the synthetic
 presentation upon which bodily desire relies.
 
 **Suppression is not abandonment.** `Viṣkambhaṇa` is a real Path-effect and a
@@ -327,7 +328,7 @@ effect
 
 The comparison with 6.04 is limited but exact: analysis there tests whether a
 configured cognition survives decomposition; here the skeletal representation
-decomposes bodily attractiveness so that desire loses its operative support.
+decomposes bodily attractiveness so that desire loses its operative basis.
 Yet this constructed intervention remains within preparatory `saṃvṛti`; it
 does not by itself constitute the definitive realization of `paramārtha` or
 the abandonment of kleśa.
@@ -385,7 +386,7 @@ ObjectProperty: counteracts
     Domain: PathEntryPractice
     Range: Affliction
 
-ObjectProperty: hasCognitiveCondition
+ObjectProperty: takesSupport
     Domain: PathEntryPractice
     Range: CognitiveSupport
 
@@ -403,8 +404,8 @@ Assertion: AsubhaCultivation counteracts Desire
 Assertion: AsubhaCultivation operatesOn RepresentedBody
 Assertion: BreathRecollection counteracts DiscursiveProliferation
 Assertion: BreathRecollection operatesOn CognitiveProcess
-Assertion: AsubhaCultivation hasCognitiveCondition SkeletonRepresentation
-Assertion: BreathRecollection hasCognitiveCondition BreathingProcess
+Assertion: AsubhaCultivation takesSupport SkeletonRepresentation
+Assertion: BreathRecollection takesSupport BreathingProcess
 Assertion: AsubhaCultivation producesEffect Suppression
 
 Constraint: AsubhaCultivation
@@ -413,7 +414,7 @@ Constraint: AsubhaCultivation
 View: DiagnosticPathEntry
     Preserves: PractitionerIdentity, PredominantCharacter,
                AfflictionSubtype, SelectedPractice,
-               CognitiveCondition, InterventionSite,
+               CognitiveSupport, InterventionSite,
                EffectType, EffectScope,
                SourceAttribution, SourceProvenance
 ```

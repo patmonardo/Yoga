@@ -122,7 +122,7 @@ VAK 6.23 determines advancement by excluded futures:
 | attainment of Acceptance | entry into painful destinies |
 | stabilization of gotra | incompatible awakening-trajectories |
 
-The exclusions survive loss of present attainment:
+The first two exclusions survive loss of present attainment:
 
 ```text
 Summit attained → Summit later lost → no severance of wholesome roots
@@ -198,7 +198,7 @@ AcceptanceAttainment Facts:
 ŚrāvakaAfterThreePreparations mayRedirectToward PratyekabuddhaLineage
 
 Constraint: Summit attainment does not exclude every grave action or painful destiny.
-Constraint: Acceptance attainment establishes non-arising for specified future states.
+Constraint: Weak Acceptance excludes painful destinies; strong Acceptance excludes the further specified states.
 Constraint: Lineage redirection is stage-dependent and becomes progressively restricted.
 BhāṣyaRule: The impossibility of later Buddha-lineage redirection is grounded in lineage non-reversibility.
 ProjectRule: CounterfactualEfficacy = determinate exclusion of futures incompatible with the cultivated Path.

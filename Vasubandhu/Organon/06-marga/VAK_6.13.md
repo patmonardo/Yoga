@@ -14,26 +14,27 @@
 naiḥṣyandikau nādhareṇa lakṣyete manasā ca tau || 6.13 ||
 ```
 
-VAK 6.13 classifies the breaths that serve as the cognitive field of the discriminative comprehension
-analyzed in 6.12. Inhalation and exhalation belong to the same level as the
-body, are counted within the sentient continuum, remain unappropriated, arise
-as homogeneous-flow products, and are apprehended by cognition of their own or
-a higher level rather than by a lower-level cognition.
+VAK 6.13 classifies the breaths that serve as the cognitive field of the
+discriminative comprehension analyzed in 6.12. Inhalation and exhalation
+belong to the same ground as the body, are counted within the sentient
+continuum, remain unappropriated, arise
+as homogeneous-flow products, and can be apprehended by Consciousness of their
+own or a higher ground, while a lower-ground Mind does not discern them.
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
 | `ānāpānau` | nominative dual masculine compound | inhalation and exhalation |
-| `yataḥ` | relative adverb | from whatever level; wherefrom |
+| `yataḥ` | relative adverb | from whatever ground; wherefrom |
 | `kāyaḥ` | nominative singular masculine | body |
 | `sattva-ākhyau` | nominative dual masculine compound | designated or counted within a sentient being |
 | `anupāttakau` | nominative dual masculine | unappropriated |
 | `naiḥṣyandikau` | nominative dual masculine | homogeneous-flow products |
 | `na` | negative particle | not |
-| `adhareṇa` | instrumental singular comparative | by a lower [level cognition] |
+| `adhareṇa` | instrumental singular comparative | by a lower [ground] |
 | `lakṣyete` | third-person dual present passive of `√lakṣ` | are discerned or apprehended |
-| `manasā` | instrumental singular neuter of `manas` | by mind or cognition |
+| `manasā` | instrumental singular neuter of `manas` | by Mind |
 | `ca` | conjunction | and, also |
 | `tau` | nominative dual masculine demonstrative | those two |
 
@@ -41,8 +42,8 @@ a higher level rather than by a lower-level cognition.
 
 The dual morphology consistently treats inhalation and exhalation as two
 members of one classified process. The Bhāṣya supplies the comparison implicit
-in the compressed final clause: cognition of the same or a higher `bhūmi` can
-apprehend them; cognition of a lower `bhūmi` cannot.
+in the compressed final clause: Consciousness of the same or a higher `bhūmi`
+can apprehend them; a Mind of a lower `bhūmi` cannot.
 
 ## 4. Grammar
 
@@ -79,10 +80,10 @@ tau [ānāpānau]
     those two breaths
 
 na adhareṇa manasā lakṣyete
-    are not apprehended by lower-level cognition
+    are not apprehended by lower-ground Mind
 
 [svabhūmi-uparibhūmikena cittena lakṣyete]
-    are apprehended by cognition of their own or a higher level
+    can be apprehended by Consciousness of their own or a higher ground
 ```
 
 The positive comparison in brackets is explicit in the Bhāṣya and should not
@@ -109,22 +110,22 @@ The feature slots offer a future reflective model of their distinct relations.
 
 > Inhalation and exhalation belong to whatever level the body [belongs to].
 > They are designated within a sentient being, are unappropriated, and are
-> homogeneous-flow products. Those two are not apprehended by a lower-level
-> mind [but by cognition of their own or a higher level].
+> homogeneous-flow products. Those two are not apprehended by a lower-ground
+> Mind [but can be apprehended by Consciousness of their own or a higher ground].
 
 ### Bhāṣya-informed study translation
 
-> Inhalation and exhalation share the body's level, are counted as sentient,
-> are unappropriated, and are homogeneous-flow products; lower-level
-> consciousness does not discern them, but consciousness of their own or a
-> higher level does.
+> Inhalation and exhalation share the body's ground, are counted within a
+> sentient being, are unappropriated, and are products of homogeneous flow. A
+> lower-ground Mind does not discern them; Consciousness at their own or a
+> higher ground can.
 
 ## 6. Philosophical Translation
 
 > Breath becomes an adequate cognitive field of discriminative comprehension only when its distinct relations
 > are discriminated. It belongs to embodied life without being an appropriated
 > Faculty; it continues causally without being a substance or direct maturation
-> product; it depends upon a specific body–consciousness (`citta`) configuration rather than
+> product; it depends upon a specific body–Consciousness (`citta`) configuration rather than
 > accompanying every possible embodied state; and its accessibility varies
 > with cognitive level. The possessive immediacy “my breath” is therefore
 > resolved into level, continuum, appropriation, causal, conditional, and
@@ -152,16 +153,17 @@ The Bhāṣya's expanded rule. Breath belongs to the body's `bhūmi` because it 
 a bodily part. This is a level-classification, not merely the claim that breath
 is spatially located inside a body.
 
-**`Kāyacittaviśeṣasaṃniśrita` — dependent upon a specific body–consciousness configuration**
+**`Kāyacittaviśeṣasaṃniśrita` — dependent upon a specific body–Consciousness configuration**
 
-Breathing occurs only when the requisite bodily openness and cognition of a
-breathing-level are present. This prevents the body alone from being treated as
+Breathing occurs only when the requisite bodily openness and Consciousness of a
+ground permitting breathing are present. This prevents the body alone from being treated as
 a sufficient cause.
 
 **States without breathing**
 
-The Bhāṣya excludes the formless realm, the `kalala` embryonic state,
-attainment without consciousness, and fourth dhyāna. Breath begins at birth and upon
+The Bhāṣya excludes the formless realm, the `kalala` embryonic state and similar
+states,
+attainment without Consciousness, and fourth dhyāna. Breath begins at birth and upon
 emergence from fourth dhyāna; it ceases at death and upon entry into fourth
 dhyāna.
 
@@ -200,11 +202,11 @@ material quantity.
 After breathing has been interrupted it can reconnect. The Bhāṣya treats this
 as incompatible with classifying the breaths as maturation-born material form.
 
-**`Nādhareṇa` — not by a lower-level cognition**
+**`Nādhareṇa` — not by a lower-ground Mind**
 
 The restriction concerns `bhūmi`, not a vague judgment of intellectual
-inferiority. Cognition of the same or a higher level apprehends the breaths;
-lower-level cognition does not.
+inferiority. Consciousness of the same or a higher ground can apprehend the
+breaths; a lower-ground Mind does not.
 
 **`Lakṣyete` — are discerned or apprehended**
 
@@ -224,7 +226,7 @@ BreathProcess {
     appropriationStatus: Unappropriated
     causalType: HomogeneousFlowProduct
     sufficientContext: SpecificBodyCittaConfiguration
-    cognitiveAccess: SameOrHigherLevelCognition
+    cognitiveAccess: SameOrHigherGroundConsciousness
 }
 ```
 
@@ -240,7 +242,7 @@ Its occurrence requires a conjunction of conditions:
 
 ```text
 SuitableBodilyOpenness(person)
-AND CognitionAtBreathingLevel(person)
+AND ConsciousnessAtBreathingGround(person)
     → CanOccur(BreathProcess, person)
 ```
 
@@ -277,20 +279,20 @@ AND SeparableFrom(BreathProcess, Faculties)
 Its epistemic constraint is:
 
 ```text
-Level(cognition) >= Level(breath)
-    → CanApprehend(cognition, breath)
+Ground(consciousness) >= Ground(breath)
+    → CanApprehend(consciousness, breath)
 
-Level(cognition) < Level(breath)
-    → CannotApprehend(cognition, breath)
+Ground(mind) < Ground(breath)
+    → CannotApprehend(mind, breath)
 ```
 
 ## 9. Interpretive Note
 
 
-**Translation note.** The Bhāṣya supplies body-and-consciousness conditions and absence-cases, explains non-appropriation by separability from the Faculties, excludes other causal types, and specifies own-or-higher-level cognition; the transmitted wording for the death case and visible-Form range is uneven.
+**Translation note.** The Bhāṣya supplies body-and-Consciousness conditions and absence cases, explains non-appropriation by separability from the Faculties, excludes other causal types, and specifies own-or-higher-ground Consciousness. The transmitted death form and final `īryāpathika`–`nairmāṇika` clause remain uneven.
 
 **Breath is not universally present wherever there is body.** A specific
-body–consciousness (`citta`) configuration is required. The absence and transition cases make
+body–Consciousness (`citta`) configuration is required. The absence and transition cases make
 that dependency explicit.
 
 **Belonging is not appropriation.** `Sattvākhyā` includes breath within the
@@ -304,10 +306,10 @@ of 6.12 is therefore a process, not a self-identical thing passing unchanged
 through time.
 
 **Cognitive accessibility is level-sensitive.** `Nādhareṇa` must retain its
-Abhidharma precision: a lower `bhūmi` cognition cannot apprehend the relevant
-breath, while same- or higher-level cognition can.
+Abhidharma precision: a lower-ground Mind cannot apprehend the breaths, while
+Consciousness on their own or a higher ground can.
 
-**discriminative comprehension and its cognitive field must be determined together.** VAK 6.12 classified the
+**Discriminative comprehension and its cognitive field must be determined together.** VAK 6.12 classified the
 cognition; 6.13 classifies the wind-process it knows. Neither a powerful
 cognitive label nor an underdetermined cognitive field is sufficient for Path-science.
 
@@ -333,7 +335,7 @@ operation
     homogeneous conditioned flow
 
 access condition
-    cognition of same or higher level
+    Consciousness of same or higher ground
 ```
 
 Meaning does not arise by replacing breath with a dictionary gloss or by

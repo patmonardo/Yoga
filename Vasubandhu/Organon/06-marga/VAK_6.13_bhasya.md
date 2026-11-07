@@ -5,10 +5,10 @@
 > ānāpānau yataḥ kāyaḥ sattvākhyāv anupāttakau |
 > naiḥṣyandikau nādhareṇa lakṣyete manasā ca tau || 6.13 ||
 
-> Inhalation and exhalation share the body's level, are counted as sentient,
-> are unappropriated, and are homogeneous-flow products; lower-level
-> consciousness does not discern them, but consciousness of their own or a
-> higher level does.
+> Inhalation and exhalation share the body's ground, are counted within a
+> sentient being, are unappropriated, and are products of homogeneous flow. A
+> lower-ground Mind does not discern them; Consciousness at their own or a
+> higher ground can.
 
 The Bhāṣya gives the conditions under which breathing occurs and explains
 how it can belong to a sentient continuum while remaining unappropriated.
@@ -64,10 +64,10 @@ The latter clause is not silently resolved; the next unit starts at [341|07].
 
 The two breaths must be understood further. Inhalation and exhalation belong
 to the same ground as the body, because they are parts of it. They occur in
-dependence on a specific configuration of body and consciousness (`citta`).
+dependence on a specific configuration of body and Consciousness (`citta`).
 They are absent in the formless realm, the early embryonic state and similar
-conditions, and in states without consciousness or in fourth dhyāna. Breathing
-occurs when the body has the requisite openness and consciousness belonging to
+conditions, and in states without Consciousness or in fourth dhyāna. Breathing
+occurs when the body has the requisite openness and Consciousness belonging to
 a ground where breathing occurs is present. The breaths enter at birth and on
 emerging from fourth dhyāna; they leave at death and on entering fourth
 dhyāna. The transmitted word for the dying person is uneven, but the sequence
@@ -80,10 +80,10 @@ accumulation or karmic maturation: bodily increase does not entail a matching
 increase in breathing, and breathing can resume after interruption. The prose
 says that this resumption does not belong to maturation-born form.
 
-The breaths are not discerned by a lower-ground mind. The commentary states
-the positive range: consciousness of their own or a higher ground discerns
-them. The final transmitted clause also mentions `īryāpathika` and
-`nairmāṇika` after the lower-ground exclusion; its syntax remains unsettled
+The breaths are not discerned by a lower-ground Mind (`manas`). The commentary
+states the positive range: Consciousness (`citta`) of their own or a higher
+ground can discern them. The final transmitted clause also mentions
+`īryāpathika` and `nairmāṇika` after the lower-ground exclusion; its syntax remains unsettled
 in this witness.
 
 ## 4. Movement of the Commentary
@@ -92,7 +92,7 @@ The commentary first specifies the breath's ground from its bodily relation,
 then gives the bodily and conscious conditions required for its occurrence. It
 places breathing within a sentient continuum while denying faculty
 appropriation. Two causal exclusions clarify its homogeneous-flow status. The
-closing comparison determines which ground of consciousness can discern the
+closing comparison determines which ground of Consciousness can discern the
 breaths, with one compressed final clause left for textual review.
 
 ## 5. Translation and Interpretation
@@ -102,7 +102,7 @@ same-ground relation between body and breath. `Sattvākhyau` says how the
 breaths are counted; `anupāttakau` says that they are separable from the
 faculties, so the predicates are compatible. `Naiḥṣyandikau` gives their
 causal type. `Nādhareṇa` negates apprehension by a lower ground; the prose
-adds apprehension by consciousness of their own or a higher ground. The
+adds apprehension by Consciousness of their own or a higher ground. The
 ambiguous `īryāpathika` and `nairmāṇika` phrase remains unresolved rather
 than being made a stronger doctrinal claim.
 
@@ -118,11 +118,11 @@ discernment. This is a project formalization of the source's relations.
 | Axis | Determination |
 |---|---|
 | Ground | Same as the body |
-| Occurrence | Appropriate body and consciousness configuration |
+| Occurrence | Appropriate body and Consciousness configuration |
 | Continuum | Counted within a sentient being |
 | Appropriation | Unappropriated; separable from faculties |
 | Causal type | Homogeneous flow |
-| Cognitive access | Discerned by consciousness on their own or a higher ground |
+| Cognitive access | Discernible by Consciousness on their own or a higher ground |
 
 The breath's membership in embodied life does not make it an appropriated
 faculty. Its presence is conditional, rather than automatic in every bodily
@@ -130,6 +130,7 @@ state.
 
 ## 7. Review Status
 
-Provisional. The complete unit was checked against the running witness at
-[340|15–341|06]. Its final compressed clause remains open for textual review.
-The kārikā anchor exactly matches the study translation.
+Reviewed against the complete running unit at [340|15–341|06]. The preceding
+6.12 closes at [340|13–14], and 6.14 begins at [341|07]. The transmitted
+`bhiyamāṇasya`, `chhinnānāṃ`, `lakṣayete`, and final compressed clause remain
+visible and unresolved. The kārikā anchor exactly matches the study translation.

@@ -5,10 +5,10 @@
 > iti nirvedhabhāgīyaṃ caturdhā bhāvanāmayam |
 > anāgamyāntaradhyānabhūmikaṃ dve tv adho 'pi vā || 6.20 ||
 
-> Thus the class conducive to determinate penetration is fourfold, born of
-> cultivation, and grounded in preliminary concentration, intermediate
-> concentration, and the four dhyānas. But the two may also occur on a lower
-> ground.
+> Thus the four wholesome roots conducive to determinate penetration are born
+> of cultivation and grounded in preliminary concentration, intermediate
+> concentration, and the four dhyānas. On Ghoṣaka's alternative, Heat and
+> Summits may also occur on the Desire Realm level.
 
 The commentary determines penetration, the roots' efficacy, their grounds,
 and the scope of the attributed alternative.
@@ -75,15 +75,16 @@ are of medium strength; the Highest Dharmas are strongest.
 What does “conducive to penetration” mean? The root *vidh* means division.
 Determinate penetration is the Noble Path: through it doubt is abandoned
 and the truths are distinguished as suffering and so on through Path.
-A part of it is a portion of the Path of Seeing. These four roots are called
-conducive to penetration because they are beneficial in bringing it on.
+A portion of that penetration is a part of the Path of Seeing. These four
+roots are called conducive to penetration because they are beneficial in
+bringing that portion about.
 
 This fourfold class is cultivation-born, not born of hearing or reflection.
 Its grounds are the preliminary concentration, the intermediate
 concentration, and the four dhyānas, because it is included in those
 levels. It does not occur above them: these roots accompany the Path of
 Seeing, which is absent above because it takes the Desire Realm as its
-cognitive Condition, and that realm must first be fully known and
+Support, and that realm must first be fully known and
 abandoned. In the form realm the roots have a five-Base maturation.
 They are completing rather than projecting causes, because they turn
 against continued existence.
@@ -107,7 +108,7 @@ that abandons doubt and discriminates the truths; `bhāgīya` names the
 roots' beneficial, bringing-on relation to it. The text does not identify
 these mundane roots with the Noble Path. `Bhāvanāmayam` excludes both
 hearing-born and reflection-born formation. The commentary's
-`kāmadhātvālambana` is the Desire Realm as cognitive Condition, while the
+`kāmadhātvālambana` is the Desire Realm as Support, while the
 final `kāmāvacare` is a proposed ground on which the first two roots may
 occur. The irregular readings listed above remain visible rather than being
 silently regularized.
@@ -126,11 +127,12 @@ additional label for the roots themselves. This is project synthesis.
 | Grounds | Preliminary concentration, intermediate concentration, four dhyānas | Desire Realm added for Heat and Summits only |
 | Strength | First two weak; Acceptances medium; Highest Dharmas strongest | No different ranking stated |
 | Production | Cultivation-born, excluding hearing and reflection | No different mode stated |
-| Causal role | Bring on penetration; complete rather than project continued existence | No different causal role stated |
+| Causal role | Bring on penetration; in the Form Realm, complete rather than project continued existence | No different causal role stated |
 
 ## 7. Review Status
 
-The complete source unit [345|21–346|16] is present. The irregular source
+Reviewed against the complete source unit [345|21–346|16]. The preceding
+unit ends at [345|20], and 6.21 begins at [346|17]. The irregular source
 forms are marked for future collation; the continuous translation renders
 the contextually secure sense without pretending to settle them. The
 kārikā anchor matches the study translation exactly.

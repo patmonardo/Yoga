@@ -21,10 +21,10 @@ apūrvāptir vihīneṣu hānī dve asamanvitiḥ || 6.22 ||
 | **ādye dve** | neuter nominative dual | the first two preparatory roots: Heat and the Summits |
 | **parihāṇyā** | feminine instrumental singular | through regression or decline |
 | **ca** | connective particle | also; adds regression to the previously stated modes of loss |
-| **mauleḥ** | genitive singular of *maula* | belonging to a principal dhyāna |
+| **mauleḥ** | genitive or ablative singular of *maula* | belonging to or arising from a principal dhyāna |
 | **tatra eva** | adverbial expression | there itself; in that very birth, according to the Bhāṣya |
 | **satya-dṛk** | masculine nominative singular compound | one who sees the Truths |
-| **apūrva-āptiḥ** | feminine nominative singular compound | a new acquisition; acquisition of what did not exist immediately before |
+| **apūrva-āptiḥ** | feminine nominative singular compound | a new acquisition; acquisition of new dharmas rather than the ones formerly relinquished |
 | **vihīneṣu** | locative plural past passive participle from *vi-√hā* | when the preparatory roots have been relinquished or lost |
 | **hānī dve** | feminine nominative dual | the two losses: relinquishment and regression |
 | **asamanvitiḥ** | feminine nominative singular | non-possession, no longer being endowed with the relevant dharmas |
@@ -83,7 +83,7 @@ The preparatory Path crosses a threshold of modal stability. Heat and Summit can
 
 Yet stability does not imply the persistence of an identical cognitive entity. If a lost preparation is obtained again, a new dharma arises rather than the old one returning. Continuity belongs to the causal formation of the series, not to an enduring substance.
 
-Finally, the cessation of possession must be read genetically. Regression and relinquishment have non-possession as their common result, but only regression is necessarily caused by a defect. A prior state may also be relinquished because a different or superior determination has superseded it.
+Finally, the cessation of possession must be read genetically. Regression and relinquishment have non-possession as their common result, but only regression is necessarily caused by a fault. A difference in quality can also occasion relinquishment.
 
 ## 7. Technical Vocabulary
 
@@ -93,7 +93,7 @@ Decline from an attainment, produced by a fault (*doṣakṛta*). Heat and Summi
 
 **`Vihāni` — relinquishment**
 
-Complete loss of possession, not necessarily fault-conditioned: it may occur through a superior quality-condition (*guṇaviśeṣa*), as when advancing leaves the prior ground.
+Loss of possession, not necessarily caused by a fault: it may occur through a difference in quality (*guṇaviśeṣa*).
 
 **`Asamanviti` / `asamanvāgama` — non-possession**
 
@@ -131,7 +131,7 @@ common result:
 
 different genesis:
     regression     → caused by defect
-    relinquishment → may result from a superior transition
+    relinquishment → may result from a difference in quality
 ```
 
 Reacquisition introduces numerical discontinuity within causal continuity:
@@ -185,7 +185,7 @@ Class: NewAcquisition
 Class: PrincipalDhyānaPreparation
 Class: SameLifeTruthSeeing
 Class: DefectCondition
-Class: SuperiorTransition
+Class: DifferenceOfQuality
 
 ObjectProperty: mayRegressThrough
 ObjectProperty: cannotRegressFrom
@@ -205,7 +205,7 @@ Regression Facts:
 
 Relinquishment Facts:
   hasResult NonPossession
-  mayBeCausedBy SuperiorTransition
+  mayBeCausedBy DifferenceOfQuality
 
 PrincipalDhyānaPreparation ensures SameLifeTruthSeeing
 NewAcquisition reacquiresAs NewPreparatoryDharma

@@ -16,28 +16,28 @@ alobho daśabhūḥ kāma-dṛśyālambā nṛjāśubhā || 6.11 ||
 
 VAK 6.11 completes the three-stage training of `aśubha` and then classifies the
 practice. After relinquishing even the final skeletal remainder, the
-practitioner sustains consciousness (`citta`) between the eyebrows and is called one whose
-attention has passed beyond the support. The practice has non-greed as its
-intrinsic nature, occurs on ten grounds, takes Desire Realm visible Form as
-its cognitive Condition, and is generated among humans.
+practitioner sustains Consciousness (`citta`) between the eyebrows and is called
+one whose attention has passed beyond the Support. The practice has non-greed as
+its intrinsic nature, occurs on ten grounds, takes Desire Realm visible Form as
+its cognitive Support, and is generated among humans.
 
 ## 3. Lexical Analysis
 
 | Pada | Morphology | Force in this passage |
 |---|---|---|
-| `atikrānta-manaskāraḥ` | nominative singular masculine compound | one whose mode of attention has passed beyond the support |
+| `atikrānta-manaskāraḥ` | nominative singular masculine compound | one whose mode of attention has passed beyond the Support |
 | `bhrū-madhye` | locative singular neuter compound | between the eyebrows |
-| `citta-dhāraṇāt` | ablative singular compound | through sustaining or fixing consciousness |
+| `citta-dhāraṇāt` | ablative singular compound | through sustaining or fixing Consciousness |
 | `alobhaḥ` | nominative singular masculine | non-greed; intrinsic nature of the practice |
 | `daśa-bhūḥ` | nominative singular compound | belonging to ten grounds |
-| `kāma-dṛśya-ālambā` | nominative singular feminine compound | having Desire Realm visible Form as cognitive Condition |
+| `kāma-dṛśya-ālambā` | nominative singular feminine compound | having Desire Realm visible Form as cognitive Support |
 | `nṛ-jā` | nominative singular feminine compound | generated among humans |
 | `aśubhā` | nominative singular feminine | cultivation of the unattractive |
 
 
 
 The final four predicates classify `aśubhā` along distinct axes: intrinsic
-nature, meditative level, Condition range, and locus of production. `Alobhaḥ` is
+nature, meditative level, Support range, and locus of production. `Alobhaḥ` is
 masculine because it names the masculine noun `alobha` as the practice's
 intrinsic nature, while the remaining compounds agree with feminine `aśubhā`.
 
@@ -50,15 +50,15 @@ bhrūmadhye
     between the eyebrows
 
 citta-dhāraṇāt
-    through sustaining consciousness
+    through sustaining Consciousness
 
 atikrānta-manaskāraḥ
     one whose attention has passed beyond [is so called]
 ```
 
 The Bhāṣya supplies the preceding act: after the progressive relinquishment of
-6.10, the practitioner abandons even the remaining half-skull and fixes consciousness
-between the eyebrows. The compound is explicitly restricted to mastery “with
+6.10, the practitioner abandons even the remaining half-skull and fixes
+Consciousness between the eyebrows. The compound is explicitly restricted to mastery “with
 respect to `aśubha`”; it does not predicate transcendence of cognition in
 general.
 
@@ -73,7 +73,7 @@ aśubhā
         range: ten grounds
 
     kāmāvacara-dṛśyālambanā
-        cognitive Condition: Desire Realm visible Form
+        cognitive Support: Desire Realm visible Form
 
     nṛjā
         locus of arising: human
@@ -90,28 +90,28 @@ PRACTITIONER[STAGE=attention-passed-beyond, PRACTICE=aśubha,
              REMAINDER=none, ATTENTION=brow-center]
   ← atikrānta-manaskāraḥ + bhrūmadhye citta-dhāraṇāt
 PRACTICE[TYPE=aśubha, NATURE=alobha, GROUNDS=ten,
-         CONDITION=Desire Realm-visible-form, ORIGIN=human]
+         SUPPORT=Desire Realm-visible-form, ORIGIN=human]
   ← alobhaḥ + daśabhūḥ + kāma-dṛśyālambā + nṛjā
 ```
 
 The first features depend on the prose's removal of the last half-skull. The
-second set separates the kārikā's predicates; contamination status and
+second set separates the kārikā's predicates; influx status and
 provenance are additional prose determinations.
 
 ## 5. Translation
 
 ### Literal Translation
 
-> Through sustaining consciousness between the eyebrows, one is [called] a practitioner
+> Through sustaining Consciousness between the eyebrows, one is [called] a practitioner
 > whose attention has passed beyond. The unattractive [cultivation] is
 > non-greed, belongs to ten grounds, takes visible Form of the Desire Realm as
-> its cognitive Condition, and is generated among humans.
+> its cognitive Support, and is generated among humans.
 
 ### Bhāṣya-informed study translation
 
-> Through holding consciousness between the eyebrows, one is called one whose
+> Through holding Consciousness between the eyebrows, one is called one whose
 > attention has passed beyond. The unattractive is non-greed, has ten grounds,
-> takes visible Form of the Desire Realm as its cognitive Condition, and
+> takes visible Form of the Desire Realm as its cognitive Support, and
 > arises among humans.
 
 ## 6. Philosophical Translation
@@ -119,10 +119,10 @@ provenance are additional prose determinations.
 > The practitioner completes mastery not by absolutizing the therapeutic image
 > but by passing beyond dependence upon it. Yet command over the construction
 > does not transform it into supramundane realization. The practice remains
-> exactly typed: its nature is non-appropriation, its range is limited to
-> determinate meditative grounds, its cognitive Condition is Desire Realm visible Form, its
-> embodied genesis is human, and its constructed mode of attention remains
-> contaminated. Mastery of a tool and liberation from affliction are therefore
+> exactly typed: its nature is non-greed; its range is limited to determinate
+> meditative grounds; its cognitive Support is visible Form in the Desire Realm;
+> its embodied genesis is human; and its constructed mode of attention remains
+> with influx. Mastery of a tool and liberation from affliction are therefore
 > distinct achievements.
 
 The full progression is:
@@ -142,10 +142,10 @@ produce the counter-support
 
 The third `aśubha` practitioner-stage. The Bhāṣya restricts the designation to
 this particular practice: the practitioner has passed beyond dependence upon
-the constructed skeletal support, not beyond citta, cognition, or attention in
-an unrestricted metaphysical sense.
+the constructed skeletal Support, not beyond Consciousness, cognition, or
+attention in an unrestricted metaphysical sense.
 
-**`Bhrūmadhye citta-dhāraṇā` — sustaining citta between the eyebrows**
+**`Bhrūmadhye citta-dhāraṇā` — sustaining Consciousness between the eyebrows**
 
 The operation marking the third stage after the last half-skull representation
 has been relinquished. It demonstrates stability after removal of the
@@ -164,19 +164,19 @@ Desire Realm together with the relevant dhyānas and their neighboring or
 preparatory levels in the Vaibhāṣika enumeration. The number records a
 delimited practice-range, not ten meanings of `aśubha`.
 
-**`Kāma-dṛśya-ālambana` — Desire Realm visible Form as cognitive Condition**
+**`Kāma-dṛśya-ālambana` — Desire Realm visible Form as cognitive Support**
 
 The practice takes the visible bodily configuration of the Desire Realm as
-its cognitive Condition (`ālambana`). The Bhāṣya raises a further question
-about visible Form and `artha`, but the local witness is damaged; that finer
-distinction remains open. The Condition is intentionally configured through
+its cognitive Support (`ālambana`). The Bhāṣya raises a further question about
+visible Form, followed by the damaged `arthālamvana`; the precise distinction
+remains open. The Support is intentionally configured through
 resolutive attention.
 
 **`Nṛja` — human-generated**
 
 The practice arises only in the human destiny, and the Bhāṣya further excludes
 Uttarakuru. This situates the technique in a determinate embodied and
-existential support rather than treating it as a disembodied cognitive
+existential setting rather than treating it as a disembodied cognitive
 algorithm.
 
 **`Adhimukti-manaskāra` — constructed resolutive attention**
@@ -185,18 +185,25 @@ The intentional mode through which the practitioner establishes the
 unattractive representation. It explains both the practice's manipulability
 and its doctrinal limitation.
 
-**`Sāsrava` — contaminated**
+**`Sāsrava` — with influx**
 
-The Bhāṣya's additional status-classification. `Aśubha` may be wholesome,
-non-greed-natured, effective, and fully mastered while remaining contaminated.
+The Bhāṣya's additional status classification. `Aśubha` may be wholesome,
+non-greed-natured, effective, and fully mastered while remaining with influx.
 Wholesomeness and supramundane status are therefore not interchangeable.
 
-**Condition extent and mastery**
+**Support extent and mastery**
 
 The Bhāṣya analyzes these as independent dimensions. A practice may have a
-small Condition range with mastery, or a large Condition range without mastery.
+small Support range with mastery, or a large Support range without mastery.
 Neither the size of the represented field nor mastery can be inferred directly
 from the other.
+
+**Temporal Support**
+
+The prose says a practice of a given time takes that time as Support. A
+practice that cannot arise may instead take Supports across different times.
+This temporal exception does not change the visible Form specified as the
+practice's Support in the kārikā.
 
 **Acquired and produced `aśubha`**
 
@@ -227,9 +234,9 @@ The practice classification is multi-axial:
 AsubhaCultivation {
     intrinsicNature: NonGreed
     levelRange: TenGrounds
-    cognitiveCondition: DesireRealmVisibleForm
+    cognitiveSupport: DesireRealmVisibleForm
     productionLocus: HumanDestinyExcludingUttarakuru
-    contaminationStatus: Sasrava
+    influxStatus: Sasrava
     attentionMode: ConstructedResolutiveAttention
 }
 ```
@@ -237,10 +244,10 @@ AsubhaCultivation {
 Extent and mastery vary independently:
 
 ```text
-ConditionExtent(x) ∈ {Restricted, Extensive}
+SupportExtent(x) ∈ {Restricted, Extensive}
 MasteryStatus(x) ∈ {Unmastered, Mastered}
 
-ConditionExtent(x)
+SupportExtent(x)
     ↛ MasteryStatus(x)
 ```
 
@@ -267,10 +274,10 @@ MasteryOver(AsubhaCultivation)
 ## 9. Interpretive Note
 
 
-**Translation note.** The Bhāṣya supplies release of the remaining half-skull before brow-focus, restricts the stage-name to attention beyond the unattractive practice, and specifies its ten grounds, cognitive Condition, human occurrence, and contaminated status.
+**Translation note.** The Bhāṣya supplies release of the remaining half-skull before brow-focus, restricts the stage-name to attention beyond the unattractive practice, and specifies its ten grounds, cognitive Support, human occurrence, and influx status.
 
 **Passing beyond is locally scoped.** The compound
-`atikrānta-manaskāra` names freedom from a particular constructed support. It
+`atikrānta-manaskāra` names freedom from a particular constructed Support. It
 must not become a generalized claim about cessation or transcendence of mind.
 
 **Aśubha is non-greed, not aversion.** The imagery removes the appropriative
@@ -278,8 +285,8 @@ conditions of attraction. If the operation were interpreted as hatred of the
 body, its stated intrinsic nature would be lost.
 
 **Practice identity requires several dimensions.** Name alone is insufficient.
-Intrinsic nature, ground-range, cognitive Condition, production locus, attention
-mode, contamination status, provenance, and degree of mastery must remain
+Intrinsic nature, ground-range, cognitive Support, production locus, attention
+mode, influx status, provenance, and degree of mastery must remain
 distinct.
 
 **Mastery and extent are independent.** A vast represented field does not
@@ -299,7 +306,7 @@ Path-component. This is project synthesis:
 operation
     what transformation is performed
 
-condition
+support
     the cognitive field it takes up
 
 ground
@@ -317,7 +324,7 @@ effect
 
 This is precisely why Practical Meaning cannot be represented by a detached
 name or an impressive outcome alone. The whole relational determination must
-travel with the practice. Passing beyond the therapeutic support is real
+travel with the practice. Passing beyond the therapeutic Support is real
 mastery within `saṃvṛti`; it does not silently promote the practice into
 `paramārtha` realization or supramundane Path.
 
@@ -337,9 +344,9 @@ Class: NonGreed
     SubClassOf: MentalFactor
 Class: MeditativeGround
 Class: TenGroundRange
-Class: CognitiveCondition
+Class: CognitiveSupport
 Class: DesireRealmVisibleForm
-    SubClassOf: CognitiveCondition
+    SubClassOf: CognitiveSupport
 Class: ProductionLocus
 Class: HumanDestiny
     SubClassOf: ProductionLocus
@@ -348,16 +355,16 @@ Class: HumanDestinyExcludingUttarakuru
 Class: AttentionMode
 Class: ConstructedResolutiveAttention
     SubClassOf: AttentionMode
-Class: ContaminationStatus
+Class: InfluxStatus
 Class: SasravaStatus
-    SubClassOf: ContaminationStatus
+    SubClassOf: InfluxStatus
 Class: PracticeEffect
 Class: Suppression
     SubClassOf: PracticeEffect
 Class: DefinitiveAbandonment
     SubClassOf: PracticeEffect
 Class: PracticeMastery
-Class: ConditionExtent
+Class: SupportExtent
 
 ObjectProperty: hasIntrinsicNature
     Domain: Practice
@@ -367,9 +374,9 @@ ObjectProperty: validOnGround
     Domain: Practice
     Range: MeditativeGround
 
-ObjectProperty: hasCognitiveCondition
+ObjectProperty: takesSupport
     Domain: Practice
-    Range: CognitiveCondition
+    Range: CognitiveSupport
 
 ObjectProperty: generatedIn
     Domain: Practice
@@ -379,9 +386,9 @@ ObjectProperty: usesAttentionMode
     Domain: Practice
     Range: AttentionMode
 
-ObjectProperty: hasContaminationStatus
+ObjectProperty: hasInfluxStatus
     Domain: Practice
-    Range: ContaminationStatus
+    Range: InfluxStatus
 
 ObjectProperty: producesEffect
     Domain: Practice
@@ -391,16 +398,16 @@ ObjectProperty: hasMasteryStatus
     Domain: Practice
     Range: PracticeMastery
 
-ObjectProperty: hasConditionExtent
+ObjectProperty: hasSupportExtent
     Domain: Practice
-    Range: ConditionExtent
+    Range: SupportExtent
 
 Assertion: AsubhaCultivation hasIntrinsicNature NonGreed
 Assertion: AsubhaCultivation validOnGround TenGroundRange
-Assertion: AsubhaCultivation hasCognitiveCondition DesireRealmVisibleForm
+Assertion: AsubhaCultivation takesSupport DesireRealmVisibleForm
 Assertion: AsubhaCultivation generatedIn HumanDestinyExcludingUttarakuru
 Assertion: AsubhaCultivation usesAttentionMode ConstructedResolutiveAttention
-Assertion: AsubhaCultivation hasContaminationStatus SasravaStatus
+Assertion: AsubhaCultivation hasInfluxStatus SasravaStatus
 Assertion: AsubhaCultivation producesEffect Suppression
 
 Constraint: AttentionPassedBeyondPractitioner
@@ -411,17 +418,17 @@ Constraint: AsubhaCultivation
     doesNotEntail DefinitiveAbandonment
 
 Constraint: PracticeMastery
-    independentOf ConditionExtent
+    independentOf SupportExtent
 
 View: ClassifiedAsubhaPractice
     Preserves: PractitionerStage, IntrinsicNature,
-               GroundRange, CognitiveCondition, ProductionLocus,
-               AttentionMode, ContaminationStatus,
-               ProvenanceType, MasteryStatus, ConditionExtent,
+               GroundRange, CognitiveSupport, ProductionLocus,
+               AttentionMode, InfluxStatus,
+               ProvenanceType, MasteryStatus, SupportExtent,
                EffectType, SourceAttribution,
                SourceProvenance
 ```
 
 The seed records the full practice type and prevents mastery, wholesomeness,
-and large Condition range from being confused with uncontaminated status or
+and large Support range from being confused with the absence of influx or
 definitive abandonment.

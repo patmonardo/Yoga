@@ -68,15 +68,17 @@ or the Highest Mundane Dharmas.
 Whoever produces roots conducive to penetration on the ground of a
 principal dhyāna necessarily sees the Truths in that very birth, because
 of intense impetus. If roots are obtained again after being relinquished,
-new ones are obtained, not the very ones relinquished before. This
-resembles the restraint of prātimokṣa in requiring renewed effort. The
-following compressed sentence distinguishes renewal under an intervening
-condition from starting again at the beginning; its precise wording is
-provisional pending collation.
+new ones are obtained, not the very ones relinquished before. As with
+prātimokṣa restraint, they are not established by habituation and are
+accomplished through effort. If there is someone who indicates the prior
+limit, one produces them from the later point; if there is no such
+indicator, one starts again from the root. The compressed
+`pratisīmādaiśike pareṇa` leaves the identity of that indicator and the
+precise force of “later” open to collation.
 
 What are the two losses, relinquishment and regression, by nature? Both
 are non-possession. Regression is caused by a fault; relinquishment need
-not be. It may also be caused by a difference in quality. Even one who
+not be. Relinquishment may be caused by a difference in quality. Even one who
 has regressed after obtaining Heat is determined toward final nirvāṇa.
 How does that differ from having a root conducive to liberation? One is
 closer to seeing the Truths, provided no obstacle intervenes.
@@ -97,8 +99,9 @@ fault; `vihāni` is relinquishment and need not arise from a fault.
 `Asamanviti` in the verse and `asamanvāgama` in the prose name the shared
 state of non-possession. `Apūrvāpti` names acquisition of numerically new
 dharmas after prior loss. `Tatraiva` is fixed by the prose to the same
-birth. The uncertain renewal sentence remains visible in the witness and
-its sense is only provisionally summarized.
+birth. The uncertain renewal sentence remains visible in the witness; its
+conditional structure is translated, while the exact force of `pareṇa`
+remains provisional.
 
 **Organon determination.** A reflective Model may record acquisition,
 regressibility, loss cause, non-possession, and retained causal orientation
@@ -112,13 +115,14 @@ cancel the causal history of the continuum. This is project synthesis.
 | Heat and Summits | Ordinary practitioners can regress; Noble practitioners do not |
 | Acceptance and Highest Mundane Dharmas | Even ordinary practitioners do not regress |
 | Principal-dhyāna preparation | Truths necessarily seen in the same life |
-| Reacquisition after loss | New dharmas, rather than return of the old ones |
+| Reacquisition after loss | New dharmas; with an indicator of the prior limit, from a later point; otherwise from the root |
 | Regression | Non-possession caused by a fault |
 | Relinquishment | Non-possession that may follow a difference in quality |
 | Regression from Heat | Nearness to Truth-seeing can remain, absent an obstacle |
 
 ## 7. Review Status
 
-The complete source unit [347|08–347|24] is present. The compressed renewal
-sentence is provisional pending collation. The kārikā anchor exactly
-matches the study's Bhāṣya-informed translation.
+Reviewed against the complete source unit [347|08–347|24]. The preceding
+unit ends at [347|07], and 6.23 starts at [348|01]. The compressed renewal
+sentence remains partly provisional pending collation. The kārikā anchor
+exactly matches the study's Bhāṣya-informed translation.

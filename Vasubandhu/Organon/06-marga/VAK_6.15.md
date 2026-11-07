@@ -15,7 +15,7 @@ yathotpatti catuṣkaṃ tu viparyāsavipakṣataḥ || 6.15 ||
 ```
 
 This verse determines the establishments of recollection by intrinsic nature,
-associated factors, and cognitive Condition. Their sequence follows arising;
+associated factors, and Support. Their sequence follows arising;
 their fourfold division counters four inversions.
 
 ## 3. Lexical Analysis
@@ -25,7 +25,7 @@ their fourfold division counters four inversions.
 | `prajñā` | nominative singular feminine | discriminative comprehension as intrinsic nature |
 | `śrutādimayī` | nominative singular feminine compound | formed through learning and the succeeding modes |
 | `anye` | nominative plural masculine | the other, associated dharmas |
-| `saṃsargālambanāḥ` | nominative plural masculine compound | the designations by association and cognitive Condition |
+| `saṃsargālambanāḥ` | nominative plural masculine compound | the designations by association and Support |
 | `kramaḥ` | nominative singular masculine | sequence of the four establishments |
 | `yathotpatti` | adverbial compound | according to their arising |
 | `catuṣkam` | nominative singular neuter | the fourfold set |
@@ -36,7 +36,7 @@ their fourfold division counters four inversions.
 
 `Saṃsargālambanāḥ` is resolved by the Bhāṣya into two applications of the
 name: to dharmas associated with discriminative comprehension and to what discriminative comprehension takes as its
-cognitive Condition (`ālambana`). The same prose expands `śrutādi` into
+Support (`ālambana`). The same prose expands `śrutādi` into
 learning, reflection, and cultivation.
 
 ## 4. Grammar
@@ -45,7 +45,7 @@ The opening nominative **discriminative comprehension** answers the question con
 
 **śrutādimayī** is a feminine nominative singular predicate agreeing with **discriminative comprehension**. The compound member **ādi** expands the compressed expression: discriminative comprehension may be *śrutamayī*, *cintāmayī*, or *bhāvanāmayī*—produced through hearing, reflection, or cultivation.
 
-In **anye saṃsargālambanāḥ**, the understood noun after **anye** is supplied by the Bhāṣya as the other dharmas involved in the practice. The compound **saṃsarga-ālambana** distributes two determinations across two extensions of the designation: the associated dharmas receive the name through association, while the cognized field receives it as cognitive Condition.
+In **anye saṃsargālambanāḥ**, the understood noun after **anye** is supplied by the Bhāṣya as the other dharmas involved in the practice. The compound **saṃsarga-ālambana** distributes two determinations across two extensions of the designation: the associated dharmas receive the name through association, while the cognized field receives it as Support.
 
 **kramaḥ yathotpatti** forms an elliptical nominal clause: “the sequence is according to arising.” The verse thus distinguishes the reason for the order of the four establishments from the reason for their number.
 
@@ -66,7 +66,7 @@ ESTABLISHMENT[SENSE=intrinsic, NATURE=discriminative comprehension,
   ← discriminative comprehension + śrutādimayī
 ESTABLISHMENT[SENSE=association, REFERENT=co-arising-dharmas]
   ← anye + saṃsarga
-ESTABLISHMENT[SENSE=cognitive-Condition, REFERENT=ālambana]
+ESTABLISHMENT[SENSE=Support, REFERENT=ālambana]
   ← ālambana
 FOURFOLD[ORDER=arising,
          COUNTERS=purity|pleasure|permanence|self]
@@ -83,21 +83,21 @@ assignment; these labels are a future reflective model of that syntax.
 
 > discriminative comprehension formed through learning and the succeeding modes [is the establishment
 > by intrinsic nature]; others [receive the name] by association and cognitive
-> Condition. The sequence accords with arising; the fourfold division is due
+> Support. The sequence accords with arising; the fourfold division is due
 > to counteraction against the inversions.
 
 ### Bhāṣya-informed study translation
 
 > The establishment of recollection by nature is discriminative comprehension
 > formed from learning and the rest; the others are by association and by
-> cognitive Condition. Their order follows arising; the fourfold arrangement
+> Support. Their order follows arising; the fourfold arrangement
 > counters the inversions.
 
 ## 6. Philosophical Translation
 
-An establishment of recollection is intrinsically the discriminative comprehension that sees its field in accordance with how it is. Yet the practice is not exhausted by naming this cognitive factor in isolation. Its associated dharmas and the cognitive Condition it takes up also receive the name because they belong to the same operative complex.
+An establishment of recollection is intrinsically the discriminative comprehension that sees its field in accordance with how it is. Yet the practice is not exhausted by naming this cognitive factor in isolation. Its associated dharmas and the Support it takes up also receive the name because they belong to the same operative complex.
 
-The four establishments form a path-order rather than a static classification. Contemplation proceeds through body, feeling, consciousness, and dharmas according to the order of its arising. Their number is governed by a corrective necessity: body counters the inversion of purity, feeling the inversion of pleasure, consciousness (`citta`) the inversion of permanence, and dharmas the inversion of self.
+The four establishments form a path-order rather than a static classification. Contemplation proceeds through body, feeling, Consciousness, and dharmas according to the order of its arising. Their number is governed by a corrective necessity: body counters the inversion of purity, feeling the inversion of pleasure, Consciousness (`citta`) the inversion of permanence, and dharmas the inversion of self.
 
 Thus recollection becomes an establishment through discriminative comprehension's determinate operation upon a field of error. The Path does not merely collect fields without their counteractive roles. It organizes seeing so that each entrenched inversion meets its corresponding counterforce.
 
@@ -105,9 +105,9 @@ Thus recollection becomes an establishment through discriminative comprehension'
 
 **Discriminative comprehension**
 
-Here **discriminative comprehension** is the intrinsic nature (*svabhāva*) of an establishment of recollection. The Bhāṣya identifies the contemplative “seeing” (*anupaśyanā*) with discriminative comprehension: it discriminates its cognitive Condition in the mode required by the practice.
+Here **discriminative comprehension** is the intrinsic nature (*svabhāva*) of an establishment of recollection. The Bhāṣya identifies the contemplative “seeing” (*anupaśyanā*) with discriminative comprehension: it discriminates its Support in the mode required by the practice.
 
-This discriminative comprehension is genetically differentiated as:
+This discriminative comprehension is differentiated by its mode of formation:
 
 - **śrutamayī discriminative comprehension** — discriminative comprehension produced through hearing or learning;
 - **cintāmayī discriminative comprehension** — discriminative comprehension produced through reflection;
@@ -121,10 +121,10 @@ The Bhāṣya distinguishes three senses of “establishment of recollection”:
 
 1. **svabhāva-smṛtyupasthāna** — the establishment in its intrinsic nature: discriminative comprehension itself;
 2. **saṃsarga-smṛtyupasthāna** — the establishment by association: the dharmas arising together with discriminative comprehension;
-3. **ālambana-smṛtyupasthāna** — the establishment by cognitive Condition: the field discriminative comprehension takes up.
+3. **ālambana-smṛtyupasthāna** — the establishment by Support: the field discriminative comprehension takes up.
 
 The term names one practice through three distinct relations: its intrinsic
-nature, associated dharmas, and cognitive Condition.
+nature, associated dharmas, and Support.
 
 **Why the name “recollection” when the nature is discriminative comprehension?**
 
@@ -136,12 +136,12 @@ Vasubandhu presents another explanation as preferable: recollection is establish
 
 **Yathotpatti** means that the four establishments are stated in their order of arising. The Bhāṣya records an explanation by relative coarseness: the coarser field is taken first. It also gives the Vaibhāṣika causal sequence:
 
-- the body is the basis for attachment to sensual pleasure;
-- feeling is desired on account of the body;
-- consciousness (`citta`) is undisciplined because of that desire;
-- this condition persists because the afflictive dharmas have not been abandoned.
+- the body is the ground of sensual desire;
+- sensual desire comes from longing for feeling;
+- that longing comes from undisciplined Consciousness (`citta`);
+- Consciousness remains undisciplined because afflictions have not been abandoned.
 
-The ordered practice reverses this implicated structure by making each moment an explicit field of contemplation.
+The ordered practice examines these fields in the sequence reported by the commentary.
 
 **`Viparyāsa` and `vipakṣa` — inversion and counterforce**
 
@@ -151,19 +151,19 @@ The ordered practice reverses this implicated structure by making each moment an
 |---|---|
 | contemplation of body | taking the impure to be pure |
 | contemplation of feeling | taking suffering to be pleasure |
-| contemplation of consciousness (`citta`) | taking the impermanent to be permanent |
+| contemplation of Consciousness (`citta`) | taking the impermanent to be permanent |
 | contemplation of dharmas | taking what is not-self to be self |
 
 The four are therefore functionally determined by the four errors they counter.
 
-**`Ālambana` — cognitive Condition**
+**`Ālambana` — Support**
 
-**Ālambana** marks what cognition takes as its Condition. It remains tied to the cognitive operation. The first three establishments have unmixed Conditions: body, feeling, and consciousness (`citta`). The establishment concerned with dharmas may take dharmas alone or a mixed field including body, feeling, consciousness, and dharmas.
+**Ālambana** marks what contemplation takes as its Support. It remains tied to the cognitive operation. The first three establishments have unmixed Supports: body, feeling, and Consciousness (`citta`). The establishment concerned with dharmas may take dharmas alone or a mixed field including body, feeling, Consciousness, and dharmas.
 
 **`Sva-para-ubhaya-saṃtati` — one's own, another's, or both continua**
 
 The Bhāṣya further triples each establishment according to whose continuum
-it takes as its cognitive Condition. This is an additional scope distinction
+it takes as its Support. This is an additional scope distinction
 within each of the four, separate from the fourfold counterforce relation.
 
 ## 8. Logical Determination
@@ -175,7 +175,7 @@ First, one practice is extended through three senses:
 ```text
 Intrinsic nature:  discriminative comprehension
 Association:       dharmas conjoined with discriminative comprehension
-Cognitive Condition: the field discriminative comprehension takes up
+Support: the field discriminative comprehension takes up
 ```
 
 Second, that practice is differentiated into four counteractive operations:
@@ -183,11 +183,11 @@ Second, that practice is differentiated into four counteractive operations:
 ```text
 body     → counters purity-inversion
 feeling  → counters pleasure-inversion
-consciousness    → counters permanence-inversion
+Consciousness    → counters permanence-inversion
 dharmas  → counters self-inversion
 ```
 
-The verse thereby prevents two reductions. An establishment is not merely an internal mental event, because it necessarily has associates and a cognitive Condition. Nor is it merely an externally given field, because its path-character lies in the discriminative comprehension that transforms the field’s mode of apprehension.
+The verse thereby prevents two reductions. The three names pick out Prajñā, its associated dharmas, and what it takes as Support. The path character of the practice lies in discriminative comprehension applied to the examined field.
 
 The sequence and the number also answer different questions:
 
@@ -202,23 +202,23 @@ In Organon terms, explicitly as project synthesis rather than source doctrine, t
 genesis      = hearing → reflection → cultivation
 operation    = discriminative comprehension
 associates   = conjoined dharmas
-cognitive Condition = ālambana
+Support = ālambana
 defect       = viparyāsa
 counterforce = the corresponding smṛtyupasthāna
 ```
 
-Meaning here is systematic because the Path determines a cognition by its genesis, operation, associates, cognitive Condition, opposed error, and corrective consequence. None of these moments alone constitutes the whole practice.
+Meaning here is systematic because the Path determines a cognition by its genesis, operation, associates, Support, opposed error, and corrective consequence. None of these moments alone constitutes the whole practice.
 
 ## 9. Interpretive Note
 
 
-**Translation note.** The Bhāṣya explains the three designations—by intrinsic nature, association, and cognitive Condition—the sources of discriminative comprehension, and the pairing of the four establishments with the inversions.
+**Translation note.** The Bhāṣya explains the three designations—by intrinsic nature, association, and Support—the sources of discriminative comprehension, and the pairing of the four establishments with the inversions.
 
 VAK 6.14 established the functional transition from tranquility to the establishments of recollection and from those establishments to insight. VAK 6.15 now determines what the establishments are. Their intrinsic nature is not bare recollection but discriminative comprehension; nevertheless, they bear the name of recollection because the discriminative operation and the establishment of recollection are internally connected.
 
-For the Path as Practical Meaning, The fourfold field is not a catalogue placed beside the practitioner. Body, feeling, consciousness, and dharmas become path-determinations only within a corrective act of seeing. Conversely, discriminative comprehension is not an indeterminate power that could operate without a field. It is specified by what it takes as support and by the inversion it overcomes.
+For the Path as Practical Meaning, the fourfold field is not a catalogue placed beside the practitioner. Body, feeling, Consciousness, and dharmas become path-determinations only within a corrective act of seeing. Conversely, discriminative comprehension is not an indeterminate power that could operate without a field. It is specified by what it takes as Support and by the inversion it overcomes.
 
-The source doctrine establishes the three uses of *smṛtyupasthāna*, the arising-order of the four, and their opposition to four inversions. The further formulation—practice as the unity of genesis, cognitive operation, association, cognitive Condition, defect, and counterforce—is an Organon reconstruction of that doctrinal structure. It should not be attributed verbatim to Vasubandhu.
+The source doctrine establishes the three uses of *smṛtyupasthāna*, the arising-order of the four, and their opposition to four inversions. The further formulation—practice as the unity of genesis, cognitive operation, association, Support, defect, and counterforce—is an Organon reconstruction of that doctrinal structure. It should not be attributed verbatim to Vasubandhu.
 
 The result is a precise sense in which the Path itself bears Meaning: a field becomes practically meaningful through the form of error under which it is grasped and the determinate insight by which that error is undone. Paramārtha is not supplied here as a detached item of Knowledge. It is approached through the ordered transformation of apprehension.
 
@@ -230,51 +230,52 @@ Class: EstablishmentOfRecollection
 
 Class: IntrinsicEstablishment
   SubClassOf: EstablishmentOfRecollection
-  EquivalentTo: hasIntrinsicNature some discriminative comprehension
+  EquivalentTo: hasIntrinsicNature some DiscriminativeComprehension
 
 Class: AssociatedEstablishment
   SubClassOf: EstablishmentOfRecollection
   EquivalentTo: hasAssociatedFactor some ConjoinedDharma
 
-Class: CognitiveConditionEstablishment
+Class: SupportEstablishment
   SubClassOf: EstablishmentOfRecollection
-  EquivalentTo: hasCognitiveCondition some Ālambana
+  EquivalentTo: takesSupport some CognitiveSupport
 
-Class: discriminative comprehension
+Class: DiscriminativeComprehension
+Class: CognitiveSupport
 Class: HearingProducedPrajñā
-  SubClassOf: discriminative comprehension
+  SubClassOf: DiscriminativeComprehension
 Class: ReflectionProducedPrajñā
-  SubClassOf: discriminative comprehension
+  SubClassOf: DiscriminativeComprehension
 Class: CultivationProducedPrajñā
-  SubClassOf: discriminative comprehension
+  SubClassOf: DiscriminativeComprehension
 
 Class: BodyEstablishment
   SubClassOf: EstablishmentOfRecollection
   Facts:
-    hasCognitiveCondition Body
+    takesSupport Body
     countersInversion PurityInversion
 
 Class: FeelingEstablishment
   SubClassOf: EstablishmentOfRecollection
   Facts:
-    hasCognitiveCondition Feeling
+    takesSupport Feeling
     countersInversion PleasureInversion
 
 Class: CittaEstablishment
   SubClassOf: EstablishmentOfRecollection
   Facts:
-    hasCognitiveCondition Citta
+    takesSupport Citta
     countersInversion PermanenceInversion
 
 Class: DharmaEstablishment
   SubClassOf: EstablishmentOfRecollection
   Facts:
-    hasCognitiveCondition DharmaField
+    takesSupport DharmaField
     countersInversion SelfInversion
 
 ObjectProperty: hasIntrinsicNature
 ObjectProperty: hasAssociatedFactor
-ObjectProperty: hasCognitiveCondition
+ObjectProperty: takesSupport
 ObjectProperty: countersInversion
 ObjectProperty: arisesAfter
 
@@ -283,7 +284,7 @@ FeelingEstablishment arisesAfter BodyEstablishment
 CittaEstablishment arisesAfter FeelingEstablishment
 DharmaEstablishment arisesAfter CittaEstablishment
 
-Constraint: Every EstablishmentOfRecollection has an intrinsic cognitive determination, an associated complex, or a cognitive Condition determination.
+Constraint: Every EstablishmentOfRecollection has an intrinsic cognitive determination, an associated complex, or a Support determination.
 Constraint: The fourfold division is functionally grounded in opposition to four inversions.
-ProjectRule: PracticalMeaning = genesis + operation + associates + cognitive Condition + opposed error + counterforce.
+ProjectRule: PracticalMeaning = genesis + operation + associates + Support + opposed error + counterforce.
 ```

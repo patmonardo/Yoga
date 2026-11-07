@@ -30,7 +30,7 @@ their development, but its strengthening follows a narrower rule.
 | `kṣāntiḥ` | nominative singular feminine | Acceptance |
 | `dvidhā` | adverb | in two grades here |
 | `tadvat` | indeclinable | in the same manner as the preceding formation |
-| `kṣāntyā` | transmitted form in the compound construction | of Acceptance, in the Bhāṣya's reading of the final clause |
+| `kṣāntyā` | instrumental singular feminine | Acceptance is the topic of the final strengthening clause; the construction is compressed |
 | `dharmeṇa vardhanam` | instrumental and action noun | strengthening through the dharma establishment |
 
 
@@ -82,10 +82,10 @@ as well as the distinct scope of each operation.
 
 ### Bhāṣya-informed study translation
 
-> The initial formation of both is through the dharma establishment, but they
-> are strengthened through the others as well. From them arises Acceptance,
-> formed in two grades in the same way; Acceptance is strengthened through the
-> dharma establishment.
+> Heat and Summits are initially formed through the dharma establishment and
+> strengthened through all four establishments. Acceptance arises from them;
+> its weak and medium grades form in the same way, while all its grades are
+> strengthened through the dharma establishment alone.
 
 ## 6. Philosophical Translation
 
@@ -108,8 +108,8 @@ first placement of truth aspects
 
 **`Ākaraṇa` — initial formation**
 
-The Bhāṣya defines it as `satyeṣv ākārāṇāṃ prathamato vinyasanam`, first
-placing the aspects on the Truths. The witness's `akārāṇāṃ` is uneven, but
+The Bhāṣya's witness reads `satyeṣv akārāṇāṃ prathamato vinyasanam`, locally
+understood as first placing the aspects on the Truths. `Akārāṇāṃ` is uneven, but
 the context of the sixteen aspects in 6.17 secures the practical sense.
 Formation makes the truth-aspect structure operative for the first time.
 
@@ -123,21 +123,22 @@ later strengthening are distinct.
 **`Dharma-smṛtyupasthāna` — dharma establishment**
 
 The sole means of initially forming Heat and Summits, and the sole means of
-strengthening Acceptance. It is the combined cognitive Condition developed
-in 6.16, now serving a new generative role.
+strengthening Acceptance. The immediately preceding instance in 6.16 has a
+combined Support; 6.18 assigns the establishment these further roles.
 
 **`Anye smṛtyupasthānāni` — the other establishments**
 
-Body, feeling, and consciousness (`citta`) join the dharma establishment as
+Body, feeling, and Consciousness (`citta`) join the dharma establishment as
 means of strengthening Heat and Summits. `Anyaiḥ api` allows these additional
 means after initial formation.
 
 **`Kṣānti` — Acceptance**
 
-A preparatory stage arising from the matured Summits. It is not merely
-ordinary patience. The commentary connects the name with acceptance of the
-highest grade without decline and distinguishes weak, medium, and strong
-grades.
+A preparatory stage arising from developed Summits. The commentary connects
+its name with acceptance of the strong [degree] and non-decline, then
+distinguishes weak, medium, and strong grades. The referent of the witness's
+`adhimātrasya` is unstated; the name explanation does not identify it as a
+particular Summit or Acceptance grade.
 
 **`Mṛdu / madhya / adhimātra` — weak / medium / strong**
 
@@ -154,8 +155,8 @@ and what is currently manifest.
 
 **`Aparihāṇi` — non-decline**
 
-The commentary uses it in explaining the name Acceptance, tied to accepting
-the highest grade without falling away. It does not make every earlier
+The commentary uses it in explaining the name Acceptance, alongside
+acceptance of the strong [degree]. It does not make every earlier
 preparatory grade irreversible.
 
 ## 8. Logical Determination

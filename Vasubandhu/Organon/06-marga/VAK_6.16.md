@@ -1,4 +1,4 @@
-# VAK_6.16 — The Combined Cognitive Condition and Four Aspects of Seeing
+# VAK_6.16 — The Combined Support and Four Aspects of Seeing
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,9 +14,9 @@ sa dharmasmṛtyupasthāne samastālambane sthitaḥ |
 ānityaduḥkhataḥ śūnyānātmatas tān vipaśyati || 6.16 ||
 ```
 
-The preceding establishments preserve body, feeling, consciousness, and
-dharmas as distinct fields. This verse joins them in the combined cognitive
-Condition of the dharma establishment and specifies four aspects of seeing.
+The preceding establishments preserve body, feeling, Consciousness, and
+dharmas as distinct fields. This verse joins them in the combined Support
+of the dharma establishment and specifies four aspects of seeing.
 
 ## 3. Lexical Analysis
 
@@ -24,7 +24,7 @@ Condition of the dharma establishment and specifies four aspects of seeing.
 |---|---|---|
 | `saḥ` | nominative singular masculine pronoun | the practitioner formed by the preceding cultivation |
 | `dharmasmṛtyupasthāne` | locative singular neuter compound | in the establishment of recollection concerning dharmas |
-| `samastālambane` | locative singular neuter compound | with a combined cognitive Condition |
+| `samastālambane` | locative singular neuter compound | with a combined Support |
 | `sthitaḥ` | nominative singular masculine participle of `√sthā` | established in that practice |
 | `ānitya-` | first member of a compressed series | as impermanent; explained by prose `anityataḥ` |
 | `duḥkhataḥ` | adverbial ablative | as suffering |
@@ -35,7 +35,7 @@ Condition of the dharma establishment and specifies four aspects of seeing.
 
 
 
-The separate kārikā has `ānitya-`; the running verse has `ānaty-`, while the
+The separate kārikā has `ānitya-`; the running verse has `ānatyaduḥkhataḥ`, while the
 prose gives `anityataḥ`. The latter fixes the local sense without silently
 altering either Sanskrit witness.
 
@@ -44,10 +44,10 @@ altering either Sanskrit witness.
 The main construction is `saḥ ... sthitaḥ ... tān vipaśyati`: the practitioner,
 established in the dharma establishment, sees those previously distinguished
 fields. The locatives `dharmasmṛtyupasthāne` and `samastālambane` agree; the
-second specifies its combined cognitive Condition. The Bhāṣya calls this a
+second specifies its combined Support. The Bhāṣya calls this a
 `saṃbhinna-ālambana`.
 
-`Tān` refers to body, feeling, consciousness (`citta`), and dharmas together.
+`Tān` refers to body, feeling, Consciousness (`citta`), and dharmas together.
 The prose resolves the four seeing-aspects as parallel expressions:
 
 ```text
@@ -66,8 +66,8 @@ all dharmas. Combination of the fields does not erase those differences.
 ```text
 PRACTITIONER[STATE=established, PRACTICE=dharma-establishment]
   ← saḥ + dharmasmṛtyupasthāne + sthitaḥ
-CONDITION[COMPOSITION=combined,
-          FIELDS=body+feeling+consciousness+dharmas]
+SUPPORT[COMPOSITION=combined,
+          FIELDS=body+feeling+Consciousness+dharmas]
   ← samastālambane + tān
 SEEING[ASPECTS=impermanent+suffering+empty+not-self,
        SCOPE=conditioned|with-influx|all-dharmas]
@@ -82,20 +82,20 @@ for later reflective modeling.
 
 ### Literal Translation
 
-> Established in the dharma establishment with a combined cognitive Condition,
+> Established in the dharma establishment with a combined Support,
 > the practitioner sees those [fields] as impermanent, suffering, empty, and
 > not-self.
 
 ### Bhāṣya-informed study translation
 
-> Established in the establishment of recollection for dharmas, with all as
-> its cognitive Condition, the practitioner sees those [four establishments]
-> as impermanent, suffering, empty, and not-self.
+> Established in the establishment of recollection for dharmas with a
+> combined Support, the practitioner sees those [four fields] as impermanent,
+> suffering, empty, and not-self.
 
 ## 6. Philosophical Translation
 
 > The practitioner has examined four fields and can now hold them together as
-> one articulated cognitive Condition. Distinct seeing works across that
+> one articulated Support. Distinct seeing works across that
 > whole through impermanence, suffering, emptiness, and not-self, while each
 > aspect keeps the range proper to it. The synthesis belongs to the operation
 > of discriminative comprehension rather than to a loss of the fields' differences.
@@ -104,7 +104,7 @@ The movement in this unit is:
 
 ```text
 separately examined fields
-    → combined cognitive Condition
+    → combined Support
     → four scoped aspects of distinct seeing
 ```
 
@@ -113,19 +113,20 @@ separately examined fields
 **`Dharma-smṛtyupasthāna` — establishment of recollection concerning dharmas**
 
 The fourth establishment can take dharmas alone or, as here, a combined
-Condition comprising body, feeling, consciousness, and dharmas. discriminative comprehension remains
-its intrinsic nature under the distinction established in 6.15.
+Support comprising body, feeling, Consciousness, and dharmas. Discriminative
+comprehension remains its intrinsic nature under the distinction established
+in 6.15.
 
-**`Samasta-ālambana` — combined cognitive Condition**
+**`Samasta-ālambana` — combined Support**
 
 The kārikā names the whole taken up in this contemplation. Its components
-remain differentiated; the total Condition is their articulated combination.
+remain differentiated; the combined Support is their articulated combination.
 
-**`Saṃbhinna-ālambana` / `asaṃbhinna-ālambana` — mixed / unmixed Condition**
+**`Saṃbhinna-ālambana` / `asaṃbhinna-ālambana` — mixed / unmixed Support**
 
-The Bhāṣya calls the Condition in 6.16 `saṃbhinna`. The end of 6.15 contrasts
-it with an unmixed Condition that takes one field alone. The distinction
-concerns composition of the cognitive Condition, not clarity or confusion.
+The Bhāṣya calls the Support in 6.16 `saṃbhinna`. The end of 6.15 contrasts
+it with an unmixed Support that takes one field alone. The distinction
+concerns composition of the Support, not clarity or confusion.
 
 **`Sthita` — established**
 
@@ -135,8 +136,8 @@ Path stage.
 
 **`Tān` — those fields**
 
-The plural retains body, feeling, consciousness, and dharmas within the
-combined Condition. The Bhāṣya explicitly resolves the reference as all the
+The plural retains body, feeling, Consciousness, and dharmas within the
+combined Support. The Bhāṣya explicitly resolves the reference as all the
 fields beginning with body.
 
 **`Vipaśyati` — sees distinctly**
@@ -148,9 +149,9 @@ which the combined field is seen.
 **`Anityataḥ / duḥkhataḥ / śūnyataḥ / anātmataḥ` — as impermanent / suffering / empty / not-self**
 
 These are the prose's parallel forms. The separate kārikā starts with
-`ānitya-`, while the running verse transmits `ānaty-`. The preceding Bhāṣya
+`ānitya-`, while the running verse transmits `ānatyaduḥkhataḥ`. The preceding Bhāṣya
 assigns impermanence to conditioned dharmas, suffering to those with influx,
-and emptiness and not-self to all dharmas. The combined Condition does not
+and emptiness and not-self to all dharmas. The combined Support does not
 broaden the first two beyond those ranges.
 
 ## 8. Logical Determination
@@ -158,10 +159,10 @@ broaden the first two beyond those ranges.
 The source's structure can be represented as:
 
 ```text
-Members(CombinedCondition) = {Body, Feeling, Consciousness, Dharmas}
+Members(CombinedSupport) = {Body, Feeling, Consciousness, Dharmas}
 EstablishedIn(practitioner, DharmaEstablishment)
-TakesCondition(DharmaEstablishment, CombinedCondition)
-SeesThrough(practitioner, CombinedCondition,
+TakesSupport(DharmaEstablishment, CombinedSupport)
+SeesThrough(practitioner, CombinedSupport,
             {Impermanence, Suffering, Emptiness, NotSelf})
 ```
 
@@ -175,12 +176,12 @@ Dharma(x)     → Applicable(NotSelf, x)
 ```
 
 A later LogicFrame can evaluate these predications for each member without
-turning a combined Condition into an undifferentiated class.
+turning a combined Support into an undifferentiated class.
 
 ## 9. Interpretive Note
 
 
-**Translation note.** The Bhāṣya identifies “those” as the four establishments cultivated together and explains their combined cognitive Condition.
+**Translation note.** The Bhāṣya identifies “those” as all the fields beginning with body and explains their combined Support.
 
 **The whole retains its fields.** The practitioner sees the four examined
 fields together; `tān` and the Bhāṣya's `kāyādīn sarvān` preserve their
@@ -190,7 +191,7 @@ plurality.
 Their role is to determine how the field is comprehended in practice, with
 the applicability rules established in 6.14.
 
-**Organon interpretation.** The combined Condition offers a reflective
+**Organon interpretation.** The combined Support offers a reflective
 surface on which a field's identity, membership, and applicable aspects can
 be held together. A future Model can carry those features into LogicFrame
 without suppressing the differences required for correct predication. This
@@ -202,9 +203,9 @@ is project formalization of the source's contemplative relation.
 Class: EstablishmentOfRecollection
 Class: DharmaEstablishment
     SubClassOf: EstablishmentOfRecollection
-Class: CognitiveCondition
-Class: CombinedCondition
-    SubClassOf: CognitiveCondition
+Class: CognitiveSupport
+Class: CombinedSupport
+    SubClassOf: CognitiveSupport
 Class: ExaminationField
 Class: BodyField
     SubClassOf: ExaminationField
@@ -224,23 +225,23 @@ Class: EmptinessAspect
 Class: NotSelfAspect
     SubClassOf: SeeingAspect
 
-ObjectProperty: hasCognitiveCondition
+ObjectProperty: takesSupport
     Domain: EstablishmentOfRecollection
-    Range: CognitiveCondition
+    Range: CognitiveSupport
 
 ObjectProperty: combinesField
-    Domain: CombinedCondition
+    Domain: CombinedSupport
     Range: ExaminationField
 
 ObjectProperty: seesThroughAspect
     Domain: DharmaEstablishment
     Range: SeeingAspect
 
-Assertion: DharmaEstablishment hasCognitiveCondition CombinedCondition
-Assertion: CombinedCondition combinesField BodyField
-Assertion: CombinedCondition combinesField FeelingField
-Assertion: CombinedCondition combinesField ConsciousnessField
-Assertion: CombinedCondition combinesField DharmaField
+Assertion: DharmaEstablishment takesSupport CombinedSupport
+Assertion: CombinedSupport combinesField BodyField
+Assertion: CombinedSupport combinesField FeelingField
+Assertion: CombinedSupport combinesField ConsciousnessField
+Assertion: CombinedSupport combinesField DharmaField
 
 Constraint: ImpermanenceAspect appliesTo ConditionedDharma
 Constraint: SufferingAspect appliesTo WithInfluxDharma
@@ -248,9 +249,9 @@ Constraint: EmptinessAspect appliesTo AllDharmas
 Constraint: NotSelfAspect appliesTo AllDharmas
 
 View: CombinedFourAspectSeeing
-    Preserves: FieldIdentity, CombinedMembership, CognitiveCondition,
+    Preserves: FieldIdentity, CombinedMembership, CognitiveSupport,
                SeeingAspect, ApplicabilityScope, SourceProvenance
 ```
 
-The seed is a project schema for the combined Condition and the aspects of
+The seed is a project schema for the combined Support and the aspects of
 seeing. It carries forward the scope distinctions from 6.14.

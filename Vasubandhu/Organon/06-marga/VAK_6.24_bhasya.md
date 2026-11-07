@@ -109,13 +109,14 @@ sowing seed, growing a crop, and producing fruit. The continuum enters
 this Dharma process, matures, and is liberated in order.
 
 The liberation-conducive root is described as hearing-born or
-reflection-born, not cultivation-born. Of the three actions, mental action
-is primary. Bodily and verbal action also become conducive to liberation
+reflection-born, not cultivation-born. How many kinds of action can project
+it? Three; mental action is primary. Bodily and verbal action also become
+conducive to liberation
 when embraced by that resolve. Even giving a single portion of alms or
 undertaking one rule of training can project such roots through the power
 of aspiration for liberation. They are first projected only among humans
-of the three continents, where the necessary Prajñā and penetration are
-available as appropriate; not elsewhere.
+of the three continents, and not elsewhere, because Prajñā or
+disenchantment is absent elsewhere as appropriate.
 
 This has been a digression on what is conducive to liberation. The
 commentary returns to the sequence of direct realization: it has reached
@@ -136,7 +137,8 @@ rhinoceros-like Pratyekabuddha. `Ekatra` is explained by one sitting,
 `dhyānāntya` by the fourth dhyāna, and `ābodheḥ` sets Awakening as the
 terminus. `Mokṣabhāgīya` precedes `nirvedhabhāgīya`; its Prajñā is
 hearing-born or reflection-born. `Kṣipram` bounds the quickest
-three-existence course, not every practitioner's timetable. The reported
+three-existence course, not every practitioner's timetable. The prose's
+`prajñānirveda` names Prajñā and disenchantment, not penetration. The reported
 `apare` view and Pratyekabuddha qualification remain attributed.
 
 **Organon determination.** A reflective Model may keep prior liberative
@@ -158,6 +160,7 @@ through hearing, reflection, and actions taken under liberative aspiration.
 
 ## 7. Review Status
 
-The complete source unit [348|20–349|22] is present. Uneven witness forms
-and the Pratyekabuddha qualification remain marked for later collation.
-The kārikā anchor exactly matches the study's Bhāṣya-informed translation.
+Reviewed against the complete source unit [348|20–349|22]. The preceding
+unit ends at [348|19], and 6.25 begins at [350|01]. Uneven witness forms
+and the Pratyekabuddha qualification remain marked for collation. The
+kārikā anchor exactly matches the study's Bhāṣya-informed translation.

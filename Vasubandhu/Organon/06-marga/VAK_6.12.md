@@ -16,8 +16,8 @@ kāmāśrayā na bāhyānāṃ ṣaḍvidhā gaṇanādibhiḥ || 6.12 ||
 
 VAK 6.12 classifies recollection of inhalation and exhalation and introduces
 its sixfold completion. Although the practice is named `smṛti`, its intrinsic
-nature is discriminative comprehension. It occurs on five grounds, takes breath as wind for its
-cognitive field, depends upon a Desire Realm support, does not belong to
+nature is discriminative comprehension. It occurs on five grounds, takes breath
+as wind for its cognitive field, depends upon a Desire Realm Basis, does not belong to
 outsiders, and develops through six operations beginning with counting.
 
 ## 3. Lexical Analysis
@@ -28,7 +28,7 @@ outsiders, and develops through six operations beginning with counting.
 | `prajñā` | nominative singular feminine | discriminative comprehension; intrinsic nature of the practice |
 | `pañca-bhūḥ` | nominative singular compound | belonging to five grounds |
 | `vāyuḥ-gocarā` | nominative singular feminine compound | having wind as its cognitive range |
-| `kāma-āśrayā` | nominative singular feminine compound | having a Desire Realm basis |
+| `kāma-āśrayā` | nominative singular feminine compound | having a Desire Realm Basis |
 | `na` | negative particle | not |
 | `bāhyānām` | genitive plural masculine | belonging to outsiders |
 | `ṣaṭ-vidhā` | nominative singular feminine compound | sixfold |
@@ -53,8 +53,8 @@ recollection of breathing
 ```
 
 The Bhāṣya supplies `svabhāva` and explains the apparent difference of names:
-the practice is designated `smṛti` because it functions through the force or
-support of recollection.
+the practice is designated `smṛti` because it functions through the power of
+recollection.
 
 The remaining predicates answer distinct classificatory questions:
 
@@ -66,7 +66,7 @@ vāyurgocarā
     what is its cognitive field? wind
 
 kāmāśrayā
-    what is its basis? the Desire Realm
+    what is its Basis? the Desire Realm
 
 na bāhyānām
     to whom does it not belong? outsiders
@@ -101,7 +101,7 @@ model, not executable source grammar.
 ### Literal Translation
 
 > Recollection of inhalation and exhalation is discriminative comprehension; it belongs to five
-> grounds and has wind as its cognitive field. It has a Desire Realm basis,
+> grounds and has wind as its cognitive field. It has a Desire Realm Basis,
 > does not belong to outsiders, and is sixfold through counting and the other
 > operations.
 
@@ -109,7 +109,7 @@ model, not executable source grammar.
 
 > Recollection of inhalation and exhalation is discriminative comprehension by
 > nature. It occurs on five grounds, has wind as its cognitive field, and
-> rests on a Desire Realm basis. It does not belong to outsiders; it is
+> rests on a Desire Realm Basis. It does not belong to outsiders; it is
 > sixfold, beginning with counting.
 
 ## 6. Philosophical Translation
@@ -118,8 +118,8 @@ model, not executable source grammar.
 > through an ordered transformation of cognition. Recollection supplies
 > continuity; discriminative comprehension discriminates what that continuity contains. Counting
 > establishes reliable sequence, following tracks process, establishing
-> stabilizes the cognitive Condition, discerning opens breath into its dharma-complex,
-> turning redirects the practice toward the highest mundane Path-conditions,
+> stabilizes the cognitive Support, discerning opens breath into its dharma-complex,
+> turning redirects the practice toward higher wholesome roots,
 > and purification enters Seeing and the subsequent Paths. The breath is not
 > itself liberating; its disciplined determination becomes continuous with
 > liberating cognition.
@@ -129,7 +129,7 @@ The movement is:
 ```text
 embodied wind-process
     → recollected sequence
-    → stable cognitive Condition
+    → stable cognitive Support
     → discriminated Base-field
     → higher wholesome roots
     → Path of Seeing and beyond
@@ -150,7 +150,7 @@ emphasizes recollective continuity, while its intrinsic nature is discriminative
 
 **`Smṛti` — recollection**
 
-The stabilizing force or support through which the practice functions. The
+The stabilizing power through which the practice functions. The
 Bhāṣya explains the name through `tad-balādhāna-vṛtti`: the practice proceeds
 through reliance upon the power of recollection.
 
@@ -158,7 +158,7 @@ through reliance upon the power of recollection.
 
 The intrinsic nature of breath-recollection. This prevents the practice from
 being reduced to bare attention to sensation. Its development discriminates
-Great Elements, derivative Form, consciousness (`citta`) and mental factors (`caitta`), and ultimately the five
+Great Elements, derivative Form, Consciousness (`citta`) and mental factors (`caitta`), and ultimately the five
 Bases.
 
 **`Pañcabhū` — belonging to five grounds**
@@ -171,13 +171,18 @@ eight grounds if equanimity is allowed in the principal dhyānas.
 **`Vāyur-gocarā` — having wind as cognitive field**
 
 The cognitive field is breath as a moving wind-process. `Gocara` marks what the
-cognition ranges over and must remain distinct from `āśraya`, the support upon
+cognition ranges over and must remain distinct from `āśraya`, the Basis upon
 which the practice arises.
 
-**`Kāmāśraya` — having a Desire Realm basis**
+**`Vāyv-ālambana` — wind as cognitive Support**
 
-The embodied basis of the practice belongs to the Desire Realm even when the
-cognition itself occurs on a more refined meditative ground. Cognitive field, basis,
+The Bhāṣya adds this Support relation to the kārikā's field relation. Both
+refer to wind here, but they state distinct relations of the practice to it.
+
+**`Kāmāśraya` — having a Desire Realm Basis**
+
+The embodied Basis of the practice belongs to the Desire Realm even when the
+cognition itself occurs on a more refined meditative ground. Cognitive field, Basis,
 and level are independent coordinates.
 
 **`Na bāhyānām` — not belonging to outsiders**
@@ -196,7 +201,7 @@ accounts conflict with the actual process.
 **`Gaṇanā` — counting**
 
 Counting inhalations and exhalations from one to ten through recollection,
-without forcing body or consciousness. Distraction requires restarting until samādhi is
+without forcing body or Consciousness. Distraction requires restarting until samādhi is
 obtained.
 
 **The three counting faults**
@@ -234,7 +239,7 @@ Analytical expansion of the breath beyond “mere wind”:
 ```text
 four Great Elements
     → derivative material form
-    → dependent consciousness (`citta`) and mental factors (`caitta`)
+    → dependent Consciousness (`citta`) and mental factors (`caitta`)
     → five Bases
 ```
 
@@ -243,7 +248,7 @@ complex.
 
 **`Vivarta` — turning**
 
-Turning away from mere increase of cognition centered on the wind Condition and
+Turning away from mere increase of cognition centered on wind as Support and
 connecting the practice with higher wholesome roots through the Highest
 Mundane Dharmas. It redirects stabilization into explicit Path-preparation.
 
@@ -260,10 +265,10 @@ The practice type is:
 ```text
 Anapanasmrti {
     intrinsicNature: Prajna
-    functionalSupport: Recollection
+    functionalPower: Recollection
     standardLevelRange: FiveGrounds
     cognitiveField: BreathAsWind
-    existentialSupport: DesireDomainEmbodiment
+    basis: DesireDomainEmbodiment
     productionLocus: GodsAndHumans
     attentionMode: TattvaManaskara
 }
@@ -329,8 +334,8 @@ AND CannotSelfAwakenTo(person, SubtleDharmas)
 force; discriminative comprehension defines the practice. A Dataset that classifies only by the
 surface name would miss its operative cognitive type.
 
-**Field, basis, and ground remain distinct.** The breath-wind is the cognitive
-field; Desire Realm embodiment is the basis; five meditative grounds give the
+**Field, Basis, and ground remain distinct.** The breath-wind is the cognitive
+field; Desire Realm embodiment is the Basis; five meditative grounds give the
 standard operating range. None should be inferred from either of the others.
 
 **The ground-count has an attributed alternative.** The five-ground account is
@@ -349,7 +354,7 @@ practice does not remain enclosed within one isolated sensation.
 **Purification enters Mārga.** The final operations transform a stabilizing
 exercise into continuity with the Highest Mundane Dharmas, the Path of Seeing,
 and subsequent Paths. This is stronger than a generic claim that breath calms
-consciousness.
+Consciousness.
 
 **Organon interpretation.** VAK 6.12 offers an extraordinary native pipeline of
 Practical Meaning. This is project synthesis, while the six operations and
@@ -396,13 +401,13 @@ Class: MeditativeGround
 Class: FiveGroundRange
 Class: EightGroundAlternative
 Class: CognitiveField
-Class: CognitiveCondition
+Class: CognitiveSupport
 Class: WindProcess
     SubClassOf: CognitiveField
-    SubClassOf: CognitiveCondition
-Class: PracticeSupport
+    SubClassOf: CognitiveSupport
+Class: PracticeBasis
 Class: DesireRealmEmbodiment
-    SubClassOf: PracticeSupport
+    SubClassOf: PracticeBasis
 Class: AttentionMode
 Class: TattvaManaskara
     SubClassOf: AttentionMode
@@ -443,13 +448,13 @@ ObjectProperty: hasCognitiveField
     Domain: Practice
     Range: CognitiveField
 
-ObjectProperty: hasCognitiveCondition
+ObjectProperty: takesSupport
     Domain: Practice
-    Range: CognitiveCondition
+    Range: CognitiveSupport
 
-ObjectProperty: hasSupport
+ObjectProperty: hasBasis
     Domain: Practice
-    Range: PracticeSupport
+    Range: PracticeBasis
 
 ObjectProperty: usesAttentionMode
     Domain: Practice
@@ -471,8 +476,8 @@ Assertion: BreathRecollection hasIntrinsicNature Prajna
 Assertion: BreathRecollection functionsThrough Recollection
 Assertion: BreathRecollection validOnGround FiveGroundRange
 Assertion: BreathRecollection hasCognitiveField WindProcess
-Assertion: BreathRecollection hasCognitiveCondition WindProcess
-Assertion: BreathRecollection hasSupport DesireRealmEmbodiment
+Assertion: BreathRecollection takesSupport WindProcess
+Assertion: BreathRecollection hasBasis DesireRealmEmbodiment
 Assertion: BreathRecollection usesAttentionMode TattvaManaskara
 
 Assertion: Counting precedes Following
@@ -494,8 +499,8 @@ AlternativeAssertion: BreathRecollection validOnGround EightGroundAlternative
 
 View: SixfoldBreathRecollectionPipeline
     Preserves: PracticeName, IntrinsicNature,
-               FunctionalSupport, GroundRange,
-               CognitiveField, ExistentialSupport,
+               FunctionalPower, GroundRange,
+               CognitiveField, CognitiveSupport, PracticeBasis,
                AttentionMode, OperationOrder,
                OperationOutput, ErrorType,
                DoctrinalAlternative, SourceAttribution,
