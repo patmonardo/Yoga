@@ -57,17 +57,16 @@ There is a specific qualification: someone detached from the third
 dhyāna who enters the determinate order relying on a lower ground
 necessarily brings the superior Path into present manifestation.
 Otherwise, if reborn above that ground, the practitioner would not be
-endowed with the pleasure faculty. The commentary concludes its account
-of persons entering the determinate order with prior Desire Realm
-detachment. The gradual case follows in the next unit.
+endowed with the pleasure faculty. This completes the classification,
+principally of persons entering the determinate order with prior Desire
+Realm detachment.
 
 ## 4. Movement of the Commentary
 
 The Bhāṣya answers the five-grade puzzle with a rule separating fruit
 attainment from acquisition of a Path beyond that fruit. It extends the
 rule to the other fruits, states a local supporting-ground qualification,
-and closes the classification by prior detachment before turning to the
-gradual case.
+and closes the classification by prior detachment.
 
 ## 5. Translation and Interpretation
 
@@ -98,6 +97,7 @@ automatic acquisition of its superior Path.
 
 ## 7. Review Status
 
-The complete source unit [354|18–355|03] is present. The uneven source
-reading is marked for collation. The kārikā anchor exactly matches the
-study's Bhāṣya-informed translation.
+The complete source unit [354|18–355|03] is present. The gradual-case
+announcement begins the next unit at [355|04]. The uneven source reading
+is marked for collation. The kārikā anchor exactly matches the study's
+Bhāṣya-informed translation.

@@ -1,4 +1,4 @@
-# VAK_6.27 — Seeing, Cognitive Condition, and Work in Direct Realization
+# VAK_6.27 — Seeing, Support, and Work in Direct Realization
 
 ## 1. Sanskrit (Devanāgarī)
 
@@ -14,9 +14,11 @@ iti ṣoḍaśacitto 'yaṃ satyābhisamayas tridhā |
 darśanālambakāryākhyaḥ so 'gradharmaikabhūmikaḥ || 6.27 ||
 ```
 
-The sixteen moments of the Path of Seeing form one direct realization. The
-Bhāṣya distinguishes seeing, a shared cognitive Condition, and accomplished
+The sixteen moments of Truth realization form one ordered sequence. The
+Bhāṣya distinguishes seeing, a shared Support, and accomplished
 work, while keeping the moments on the ground of the Highest Mundane Dharmas.
+The next verse identifies the first fifteen as the Path of Seeing and the
+sixteenth as belonging to the Path of Cultivation.
 
 ## 3. Lexical Analysis
 
@@ -27,7 +29,7 @@ work, while keeping the moments on the ground of the Highest Mundane Dharmas.
 | `ayam` | masculine nominative singular demonstrative | this; the immediately preceding ordered sequence |
 | `satya-abhisamayaḥ` | masculine nominative singular compound | direct realization of the Truths |
 | `tridhā` | indeclinable adverb | threefold; spoken of in three senses |
-| `darśana-ālambana-kārya-ākhyaḥ` | masculine nominative singular coordinate compound | called realization as seeing, cognitive Condition, and accomplished function |
+| `darśana-ālambana-kārya-ākhyaḥ` | masculine nominative singular coordinate compound | called realization as seeing, Support, and accomplished work |
 | `saḥ` | masculine nominative singular pronoun | it; the sixteen-moment direct realization |
 | `agra-dharma-eka-bhūmikaḥ` | masculine nominative singular compound | belonging to the same meditative ground as the Highest Mundane Dharmas |
 
@@ -50,7 +52,7 @@ one realization
 sixteen successive moments of consciousness
 ```
 
-**tridhā** does not divide the sixteen moments into three temporal groups. It introduces three senses in which realization is named. The coordinate compound **darśana-ālambana-kārya-ākhyaḥ** supplies those names according to seeing, shared cognitive Condition, and accomplished work.
+**tridhā** does not divide the sixteen moments into three temporal groups. It introduces three senses in which realization is named. The coordinate compound **darśana-ālambana-kārya-ākhyaḥ** supplies those names according to seeing, shared Support, and accomplished work.
 
 The final predicate **agradharmaikabhūmikaḥ** says that the realization has one and the same **bhūmi** as the Highest Mundane Dharmas. The supporting concentration remains continuous across the change from mundane preparation to uncontaminated realization.
 
@@ -59,7 +61,7 @@ The final predicate **agradharmaikabhūmikaḥ** says that the realization has o
 ```text
 REALIZATION[NAME=Truth-direct-realization, MOMENTS=16, ORDER=successive]
   ← iti ṣoḍaśacitto 'yaṃ satyābhisamayaḥ
-REALIZATION[SENSE=seeing|shared-Condition|accomplished-work]
+REALIZATION[SENSE=seeing|shared-Support|accomplished-work]
   ← tridhā darśanālambakāryākhyaḥ
 REALIZATION[GROUND=same-as-Highest-Mundane-Dharmas]
   ← so 'gradharmaikabhūmikaḥ
@@ -73,20 +75,20 @@ scheme, not a claim that all sixteen moments see the Truths simultaneously.
 ### Literal Translation
 
 > Thus direct realization of the Truths comprises sixteen moments of
-> consciousness. It is called threefold: seeing, cognitive Condition, and
+> consciousness. It is called threefold: seeing, Support, and
 > work. It has the same ground as the Highest Mundane Dharmas.
 
 ### Bhāṣya-informed study translation
 
 > Thus this realization of the Truths has sixteen moments of consciousness and
-> is threefold, named by seeing, cognitive Condition, and function; it occurs
+> is threefold, named by seeing, Support, and work; it occurs
 > on the same ground as the Highest Mundane Dharmas.
 
 ## 6. Philosophical Translation
 
-Direct realization is one movement internally articulated into sixteen moments. Its unity does not abolish the distinct Truths or the successive forms under which they are seen. Rather, each determinate seeing participates in one system of Condition relation and accomplished transformation.
+Direct realization is one movement internally articulated into sixteen moments. Its unity does not abolish the distinct Truths or the successive forms under which they are seen. Rather, each determinate seeing participates in one system of Support relations and accomplished transformation.
 
-The Path-event therefore exceeds a private intuition. discriminative comprehension sees; associated factors participate by taking the same Truth as support; and the realization accomplishes work throughout the practitioner's continuum. One movement is thus determined through its cognitive operation, cognitive field, and effective End.
+The Path event exceeds a private intuition. Prajñā sees; associated factors participate by taking the same Truth as Support; and the realization accomplishes work throughout the practitioner's continuum. One movement is thus determined through its cognitive operation, Support, and effective End.
 
 ## 7. Technical Vocabulary
 
@@ -99,17 +101,17 @@ The Path-event therefore exceeds a private intuition. discriminative comprehensi
 The compound means “consisting of sixteen moments of consciousness,” not sixteen enduring consciousnesses or agents. Each of the Four Truths is realized through:
 
 ```text
-Dharma-Knowledge-Acceptance
-Dharma-Knowledge
-Anvaya-Knowledge-Acceptance
-Anvaya-Knowledge
+Dharma-Knowing-Acceptance
+Dharma-Knowing
+Anvaya-Knowing-Acceptance
+Anvaya-Knowing
 ```
 
 The result is one realization with sixteen internally ordered moments.
 
 **`Darśanābhisamaya` — realization by seeing**
 
-The Bhāṣya defines realization as seeing through **uncontaminated discriminative comprehension**. discriminative comprehension is the factor that strictly sees and discriminates the Truth:
+The Bhāṣya defines realization as seeing through **uncontaminated Prajñā**. Prajñā is the factor that strictly sees and discriminates the Truth:
 
 ```text
 anāsrava-prajñā
@@ -119,21 +121,21 @@ anāsrava-prajñā
 
 This is the narrow cognitive sense of realization. It should not be extended indiscriminately to every factor associated with the moment.
 
-**`Ālambanābhisamaya` — realization by cognitive Condition**
+**`Ālambanābhisamaya` — realization by Support**
 
-Realization through cognitive Condition includes the mental factors associated with discriminative comprehension, such as feeling. They do not all perform discriminative comprehension's seeing-function, but they share the same Truth as **ālambana**.
+Realization by Support includes the mental factors associated with Prajñā, such as feeling. They do not all perform Prajñā's seeing function, but they share the same Truth as **ālambana**.
 
 Thus one cognitive event is internally complex:
 
 ```text
-discriminative comprehension                → seeing-function
-associated caittas    → shared cognitive Condition
+Prajñā                → seeing function
+associated caittas    → shared Support
 whole associated event → ālambanābhisamaya
 ```
 
 **`Kāryābhisamaya` — realization by accomplished work**
 
-Functional realization includes even dissociated factors, such as discipline and status-related factors, insofar as the Path accomplishes work in relation to them. Something need not itself see the Truth or take it as a mental Condition to belong to realization in this functional sense.
+Functional realization includes even dissociated factors, such as discipline and birth, insofar as the Path accomplishes work in relation to them. Something need not itself see the Truth or take it as Support to belong to realization in this functional sense.
 
 The classical tasks of the Truths make this efficacy explicit:
 
@@ -158,7 +160,7 @@ The balanced result is:
 
 ```text
 strict seeing      → sequential and Truth-specific
-Condition-sharing → shared within each cognitive complex
+Support sharing → shared within each cognitive complex
 functional efficacy → integrated across the Truth-system
 ```
 
@@ -190,15 +192,15 @@ It then differentiates that unity through three ranges:
 
 | Sense of realization | Proper range |
 |---|---|
-| **darśana** | uncontaminated discriminative comprehension that sees |
-| **ālambana** | associated factors sharing the Truth as cognitive Condition |
+| **darśana** | uncontaminated Prajñā that sees |
+| **ālambana** | associated factors sharing the Truth as Support |
 | **kārya** | broader factors and effects transformed by its work |
 
 These form widening circles, not three unrelated realizations:
 
 ```text
 seeing-operation
-    ⊂ Condition-sharing cognitive complex
+    ⊂ Support sharing cognitive complex
         ⊂ functionally transformed Path-complex
 ```
 
@@ -211,7 +213,7 @@ one Path-operation
     + coordinated work across the whole system
 ```
 
-In Organon terms, explicitly as project synthesis, the Beginning–End principle becomes concrete here:
+In Organon terms, explicitly as project synthesis, the Beginning–End Principle becomes concrete here:
 
 ```text
 ālambana — determinate field from which the operation begins
@@ -223,7 +225,7 @@ This is not the order in which the kārikā lists the three terms, nor an equati
 
 ## 9. Interpretive Note
 
-**Translation note.** The Bhāṣya distributes the three senses across discriminative comprehension,
+**Translation note.** The Bhāṣya distributes the three senses across Prajñā,
 associated factors, and dissociated factors. It allows a qualified unity of
 realization while rejecting simultaneous seeing of the four Truths. The source
 also states that cultivation follows the form disclosed in Seeing.
@@ -231,7 +233,7 @@ also states that cultivation follows the form disclosed in Seeing.
 
 VAK 6.26 displayed direct realization as a rigorous succession. VAK 6.27 now prevents two opposed reductions. The Path is not sixteen disconnected flashes, but neither is it one featureless intuition. It is a single functionally integrated realization whose seeing remains sequentially differentiated.
 
-This directly advances the objective genesis of the Path. Every moment possesses a determinate cognitive Condition, an operative cognitive morphology, and an accomplished or incipient function. The End is not added after seeing; the task belonging to each Truth already governs what counts as its adequate realization.
+This directly advances the objective genesis of the Path. Every moment possesses a determinate Support, an operative cognitive morphology, and an accomplished or incipient function. The End is not added after seeing; the task belonging to each Truth already governs what counts as its adequate realization.
 
 The relation to the earlier Kośa architecture can therefore be stated carefully as project synthesis:
 
@@ -254,11 +256,11 @@ Class: DirectRealizationOfTruths
 Class: SixteenMomentSequence
 Class: SeeingRealization
   SanskritLabel: darśanābhisamaya
-Class: CognitiveConditionRealization
+Class: SupportRealization
   SanskritLabel: ālambanābhisamaya
 Class: FunctionalRealization
   SanskritLabel: kāryābhisamaya
-Class: Uncontaminateddiscriminative comprehension
+Class: UncontaminatedPrajna
 Class: AssociatedMentalFactor
 Class: DissociatedPathFactor
 Class: HighestMundaneDharma
@@ -267,18 +269,18 @@ Class: TruthSpecificMode
 
 ObjectProperty: consistsOf
 ObjectProperty: seesThrough
-ObjectProperty: sharesCognitiveConditionWith
+ObjectProperty: sharesSupportWith
 ObjectProperty: accomplishesWorkThrough
 ObjectProperty: occursOnSameGroundAs
 ObjectProperty: determinesCultivationOf
 
 DirectRealizationOfTruths Facts:
   consistsOf SixteenMomentSequence
-  seesThrough Uncontaminateddiscriminative comprehension
+  seesThrough UncontaminatedPrajna
   occursOnSameGroundAs HighestMundaneDharma
 
-SeeingRealization seesThrough Uncontaminateddiscriminative comprehension
-CognitiveConditionRealization sharesCognitiveConditionWith AssociatedMentalFactor
+SeeingRealization seesThrough UncontaminatedPrajna
+SupportRealization sharesSupportWith AssociatedMentalFactor
 FunctionalRealization accomplishesWorkThrough DissociatedPathFactor
 SeeingRealization determinesCultivationOf PathOfCultivation
 

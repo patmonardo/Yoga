@@ -135,6 +135,8 @@ The strongest Path cannot be present at the outset; once it is present, the stro
 
 Vasubandhu compares the process to cleaning cloth: coarse dirt is removed before subtle dirt. He also compares it to illumination: slight light dispels coarse darkness, while stronger light is required to eliminate subtle darkness. The final task is difficult not because its affliction is greater, but because its residue is finer.
 
+The closing comparison adds a small measure of *trivṛt* drawing out long accumulated bodily faults and a momentary small lamp dispelling vast darkness. The running wording `trivṛtkarṣavat ... opaghātavacya` is damaged, so the medicinal image remains a provisional construal, distinct from the two earlier analogies.
+
 **Bright and dark dharmas — causal asymmetry**
 
 The Bhāṣya says that bright or wholesome dharmas are powerful whereas dark or unwholesome dharmas are weak. This explains why even a momentary mild Noble Path can uproot a strong affliction reinforced throughout beginningless saṃsāra. This is a local account of causal asymmetry, not a general metaphysics of good and evil.
@@ -184,8 +186,10 @@ In Organon terms, explicitly as project synthesis, VAK 6.33 articulates the inte
 
 **Translation note.** The Bhāṣya identifies the `guṇas` as the paired Path
 functions, extends the grading through the summit of existence, and gives the
-inverse order of Path-power and affliction. The cloth and light analogies
-remain in the continuous translation.
+inverse order of Path-power and affliction. The cloth, light, and provisional
+*trivṛt* comparisons remain in the continuous translation. Its reading that
+the strongest Path cannot arise at the outset is contextual: the running
+Sanskrit lacks the expected negation in `ādita evādhimātramārgasaṃbhavād`.
 
 
 VAK 6.32 established that fruit-position does not automatically become further candidacy. VAK 6.33 now supplies the morphology of the renewed course. The practitioner does not merely resolve to “advance”; the field itself is differentiated into finite tasks, and each Path-grade has a determinate work.

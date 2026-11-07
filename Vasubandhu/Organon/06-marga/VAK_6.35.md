@@ -46,7 +46,10 @@ The preverb-like **ā** in **ā-pañcama** sets an inclusive terminus: abandonme
 
 In the contrasting clause, **kṣīṇa-ṣaṣṭha-prakāraḥ** is a possessive description: the sixth grade has become exhausted for that practitioner. **asau** resumes the same person, while **punaḥ** marks the next determination in the sequence. **sakṛdāgāmī** is then predicated: that candidate is now a once-returner.
 
-The verse itself states the grade-boundary. Its restriction to cultivation-abandonable Desire Realm afflictions and the causal explanation of once-returning are supplied by the Bhāṣya.
+The verse itself states the grade boundary. The preceding nine-grade
+sequence supplies its Desire Realm scope; the Bhāṣya identifies the prior
+fruit and explains once-returning by the return to human life, absence
+of further birth, and attenuation of greed, hatred, and delusion.
 
 **Future Feature Grammar sketch (not executable):**
 
@@ -168,8 +171,9 @@ In Organon terms, explicitly as project synthesis, grades one through five artic
 **Translation note.** The Bhāṣya supplies the prior fruit-position, explicitly
 identifies sixth-grade exhaustion with attainment of the second fruit, and
 explains both the once-return name and attenuation of the three afflictions.
-The source's `pareṇa janmāghāvāt` is uneven; its precise contribution to the
-birth account remains provisional.
+The source's `pareṇa janmāghāvāt` is uneven. A parallel manuscript reads
+`pareṇa janmābhāvāt`, supporting the Bhāṣya translation's “no birth beyond
+that return”; the running source reading remains open to collation.
 
 
 VAK 6.34 excludes five abandoned grades as a family-to-family fruit

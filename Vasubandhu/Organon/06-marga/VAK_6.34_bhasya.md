@@ -142,7 +142,7 @@ janmato dvitrijanmāvaśeṣatvāt /
 
 śloke tu dvayorgrahaṇaṃ srota āpannasya paścātprahīṇe sati tatpratipakṣānāsravendriyasyānuktasiddhatvāt /
 
-janma tu kadācidalpīyaḥ syāt /[35715]
+janma tu kadācidalpīyaḥ syāt /
 pareṇa bhavyatvād /
 
 ato 'sya grahaṇam /
@@ -163,10 +163,16 @@ manuṣyakulaṅkulo yo manuṣyeṣu tatra vā 'nyatra va dvīpe parinirvāti /
 This is the complete running unit from [355|22] through [357|19-357|20]
 in `Vasubandhu/Sources/kosabhasya.txt`; [357|20] begins the next unit.
 Source labels are removed and line breaks editorial; the source has an
-anomalous `[257|05]` label within this unit. Readings including
+anomalous `[257|05]` label and an embedded `[35715]` marker within this
+unit. Readings including
 `srota āpanaḥ`, `pounarubhayeṣv`, `tatprāptivivandha`, and `kulaṅkulaḥ`
 remain uncorrected in the witness.
 The study verse prints `kulaṃkulaḥ`.
+The quoted stanza is damaged in the running witness: its first line has
+`budho` where a [parallel quotation](https://www.dsbcproject.org/public/canon-text/content/930/3059)
+has `abuddho`, and its third line has `majjanyadho` where the parallel has
+`majjatyayo`. The translation follows the intelligible parallel for the
+stanza's contrast; the Sanskrit above retains the running readings.
 
 ## 3. Continuous Translation
 
@@ -181,20 +187,26 @@ The Path is the stream toward Nirvāṇa, and the person who has reached it
 is a stream-enterer. If initial acquisition of the Path alone sufficed,
 the “eighth person” would have this name too. If acquisition of the first
 fruit alone sufficed without qualification, the person already detached
-from the Desire Realm would also be so named. The reply considers the
-first fruit common to fruit-attainers and the acquisition of the Path
-proper to its candidate, both Seeing and Cultivation Paths, and complete
-realization of the stream at Anvaya-Knowing concerning the Path.
+from the Desire Realm would also be so named. The reply specifies acquisition
+of the first fruit with reference to those who attain fruits. Why, then, is
+this person the stream-enterer rather than the eighth person? The paths
+of the candidate and the fruit have been attained, as have the Paths of
+Seeing and Cultivation, and the entire stream is realized at Anvaya-Knowing
+concerning the Path.
 
 The Vaibhāṣikas count seven human births, seven intermediate existences
 between them, and corresponding divine births and intermediate
-existences, while retaining the general designation “seven at most.”
+existences: twenty-eight existences in all. They retain the general
+designation “seven at most,” as with the expressions “skill concerning
+seven stations” and “seven-leaved tree.”
 The scriptural statement that a person endowed with Seeing cannot
 produce an eighth existence prompts a restriction to one destination.
 A literal application to every destination would also exclude
 intermediate existence and conflict with a case of an upward-streaming
 practitioner; the reply limits the statement's intent to the Desire Realm.
-What proves the proposed distribution? One recitation speaks of seven
+What scripture or reasoning supports that restriction? And what proves
+seven separately among gods and humans rather than seven in both together?
+One recitation speaks of seven
 times among gods and humans together; the Kāśyapīya recitation speaks
 of seven times among gods and seven among humans. The commentary says
 not to insist on one reading. One who enters the stream among humans
@@ -215,9 +227,10 @@ would lead there is not newly accumulated, and the continuum is no
 longer apt to yield the fruit of such action already accumulated.
 Strong wholesome habituation, application, and purity of intention
 support this. Were bad-destination action about to ripen, even
-Acceptance would not arise. The cited verse contrasts a small amount
-of water that sinks when uncontained with a larger amount that floats
-when held in a vessel: the condition of support changes its effect.
+Acceptance would not arise. The cited stanza says that an unwise person
+falls after even a little wrongdoing, while a wise person casts off harm
+even after a great wrong: a small solid piece of iron sinks in water,
+whereas a larger piece shaped into a vessel floats.
 
 What is the “end of suffering” that the stream-enterer makes? It may
 mean a limit beyond which no suffering connected with rebirth occurs.
@@ -256,7 +269,10 @@ then explains why five abandoned grades do not form a separate position.
 
 **Translation decisions.** `Akṣīṇa` includes even one unabandoned grade;
 `para` is a maximum. `Srotas` is the Path toward Nirvāṇa. The debate over
-seven counts is attributed rather than harmonized. `Tatprāptivivandhāpanayana`
+seven counts is attributed rather than harmonized: the twenty-eight-existence
+reckoning belongs to the Vaibhāṣikas. The stanza's unwise/wise and iron/vessel
+contrast follows the parallel quotation while its damaged running reading
+remains visible above. `Tatprāptivivandhāpanayana`
 is rendered as removal of obstruction to attainment; the witness's
 `vivandha` is retained in Sanskrit. The witness's `kulaṅkulaḥ` is
 represented by the study's established designation “family-to-family.”
@@ -277,6 +293,7 @@ attained; it does not manufacture Nirvāṇa. This is project synthesis.
 ## 7. Review Status
 
 The complete running source unit [355|22]–[357|19-357|20] is present.
-The source's anomalous label and uneven readings await collation.
+The source's anomalous labels and uneven readings await collation; the
+parallel stanza supports the translation without silently emending the source.
 The kārikā anchor copies the study's Bhāṣya-informed translation exactly.
 Next: 6.35.

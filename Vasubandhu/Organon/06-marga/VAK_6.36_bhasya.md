@@ -73,7 +73,7 @@ birth remaining.
 
 How can a single remaining grade obstruct the fruit? Because this
 requires crossing a realm. As said earlier, actions stand in the way at
-three transitions; afflictions should be understood similarly. The
+three stages; afflictions should be understood similarly. The
 crossing of the ground of ripening and derivative fruit is at issue.
 *Vīci* means an interval: this practitioner is separated from Nirvāṇa
 by one birth, or from the non-return fruit by one affliction grade.
@@ -104,6 +104,10 @@ the five-fetter formula groups earlier and later abandonments.
 
 **Translation decisions.** `Ekavīcika` is rendered “one-interval” so
 that its birth and affliction-grade explanations remain distinct.
+The one-birth description covers both seven and eight abandoned grades;
+the alternative one-grade etymology fits the eight-grade case directly,
+while the text also calls the seven-grade case one-interval. The prose
+does not resolve that numerical asymmetry.
 `Dhātvatikrama` is “crossing a realm” here, specifically leaving the
 possibility of Desire Realm return. `Samukhīkṛtaḥ` is kept in the
 witness; the conventional translation gives its contextual sense “made
@@ -120,7 +124,7 @@ synthesis.
 
 | Position or issue | Source ground | Determination |
 |---|---|---|
-| One-interval | Seven or eight grades abandoned; opposing uncontaminated faculty acquired; one birth left | Candidate for the third fruit |
+| One-interval | Seven or eight grades abandoned; opposing uncontaminated faculty acquired; one birth left | Candidate for the third fruit; the one-grade etymology directly fits the eight-grade case |
 | Remaining obstruction | `dhātvatikramāt` | One grade can bar a whole realm crossing |
 | Prior abandonment | Superior Path not yet made present | Grade count alone does not confer the new position |
 | Non-returner | Ninth grade destroyed; no Desire Realm return | Third fruit attained |

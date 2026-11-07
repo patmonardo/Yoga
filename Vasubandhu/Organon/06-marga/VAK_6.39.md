@@ -165,6 +165,14 @@ temporal disposition of karma
     → determinate completion-trajectory
 ```
 
+The prose pairs them in the stated order across the three base types:
+
+| Base type | Karma result | Affliction | Faculty |
+|---|---|---|---|
+| Intermediate completer | At coming-to-be | Mild | Strong |
+| After-arising completer | At rebirth | Medium | Medium |
+| Upward-streamer | In a later existence | Strong | Mild |
+
 For the first two triads, the Bhāṣya emphasizes differentiation by affliction and faculty. For the three upward-streamers, the route-difference is tied especially to karma bearing fruit in a later subsequent existence.
 
 **`Nava-prakāra` — recurrence of the ninefold scale**
@@ -232,7 +240,7 @@ This synthesis does not claim that the kārikā itself states an Objective/Subje
 ## 9. Interpretive Note
 
 **Translation note.** The first half, absent from the previous study text, is
-restored from the running source. The Bhāṣya identifies the three base types
+restored from the running source in an earlier pass. The Bhāṣya identifies the three base types
 and offers more than one way to subdivide them; it then correlates types with
 temporal karma, active affliction, and faculty strength. The study's long `ū`
 in `rūpopagāḥ` remains a normalization of source `rupopagāḥ`, not an unmarked

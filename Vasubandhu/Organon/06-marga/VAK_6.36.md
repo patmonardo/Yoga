@@ -97,6 +97,12 @@ Path-functional interval:
 
 Both express extreme proximity, but they should not be flattened into one identical count. The term relates remaining existence to remaining Path-work.
 
+The one-birth condition applies to practitioners with either seven or
+eight grades destroyed. The alternative gloss, “one affliction grade,”
+directly fits the eight-grade case, since two grades remain after seven
+have been destroyed. The Bhāṣya still names both cases one-interval;
+it does not explain away this difference between the two glosses.
+
 **`Prahāṇa / anāsravendriya / janma` — abandonment, faculty, birth**
 
 The Bhāṣya explains the one-interval position through three determinations:
@@ -187,7 +193,9 @@ In Organon terms, explicitly as project synthesis, the final fault is the domain
 **Translation note.** The three grounds for the one-interval designation, the
 domain-crossing argument, and the explanation of non-returning come from the
 Bhāṣya. Its `vīci` can point to the one remaining birth before Nirvāṇa or the
-one affliction grade before the third fruit. Previously abandoned grades do
+one affliction grade before the third fruit; the latter gloss directly fits
+the eight-grade case within the stated seven-or-eight range. Previously
+abandoned grades do
 not confer this position until the superior Path becomes present.
 
 

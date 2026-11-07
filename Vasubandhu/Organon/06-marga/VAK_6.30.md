@@ -82,10 +82,10 @@ the upper extent of higher detachment.
 
 ### Bhāṣya-informed study translation
 
-> When no more than five grades have been destroyed, the two remain candidates
-> for the first fruit; after six to eight grades, they are candidates for the
-> second [fruit]. When detached from desire, or from a higher realm, they are
-> candidates for the third [fruit].
+> With up to five grades destroyed, the two still proceed toward the first
+> fruit; with six to eight destroyed, they proceed toward the second. Once
+> detached from the Desire Realm, or further above it, they proceed toward the
+> third fruit.
 
 ## 6. Philosophical Translation
 

@@ -70,12 +70,11 @@ traverser of every station. Alternatively, each of the three groups
 may be distinguished by rapid, less rapid, and delayed completion.
 
 Their difference depends on differences of karma, affliction, and
-faculty. The three principal types and the nine subdivisions are
-explained by the accumulation of action whose result is experienced
-at coming-to-be, at rebirth, or in a later existence, respectively;
-by mild, medium, and strong active manifestation of affliction; and
-by strong, medium, and mild faculties. The inverse ordering of
-manifest affliction and faculty is explicit.
+faculty. For the three principal types in the order just given, the
+accumulated actions bear results at coming-to-be, at rebirth, and in a
+later existence, respectively. Their active afflictions are mild,
+medium, and strong, respectively, while their faculties are strong,
+medium, and mild. The ordering of affliction and faculty is inverse.
 
 The nine within these groups are differentiated as appropriate. For
 the first two triads, affliction and faculty distinguish their members
@@ -110,11 +109,11 @@ being collapsed into a single mandatory taxonomy.
 
 ## 6. Three Base Types and Nine Forms
 
-| Base type | Threefold differentiation given in the prose | Relevant condition |
-|---|---|---|
-| Intermediate completion | Rapid, less rapid, delayed | Affliction and faculty |
-| After-arising completion | Soon after arising, with exertion, without exertion | Affliction and faculty |
-| Upward-streaming | Leaper, half-leaper, all-stations traverser | Later-result karma |
+| Base type | Base profile, in the stated order | Threefold subdivision | Distinguishing condition within the triad |
+|---|---|---|---|
+| Intermediate completion | Coming-to-be result karma; mild affliction; strong faculty | Rapid, less rapid, delayed | Affliction and faculty |
+| After-arising completion | Rebirth result karma; medium affliction and faculty | Soon after arising, with exertion, without exertion | Affliction and faculty |
+| Upward-streaming | Later-result karma; strong affliction; mild faculty | Leaper, half-leaper, all-stations traverser | Later-result karma |
 
 The Bhāṣya also allows each base type to be divided by speed of
 completion. These are nine form-going non-returners, not nine fruits.
@@ -122,7 +121,7 @@ completion. These are nine form-going non-returners, not nine fruits.
 ## 7. Review Status
 
 The complete running unit [360|13]–[361|04] is present through the
-first sentence at [361|04]. The previously omitted verse half is
-restored in the study and anchor. Uneven source readings await
+first sentence at [361|04]. The first verse half restored in an earlier
+pass remains present in the study and anchor. Uneven source readings await
 collation. The kārikā anchor copies the study's Bhāṣya-informed
 translation exactly. Next: 6.40.

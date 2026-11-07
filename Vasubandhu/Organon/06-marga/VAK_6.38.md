@@ -82,7 +82,11 @@ prescribe every practitioner's actual itinerary.
 
 ## 6. Philosophical Translation
 
-The upward Path does not have one necessary itinerary. A practitioner may leap over the intervening stations, traverse only part of them, or make every station a moment of the ascent. Another course carries the continuum through form and the formless attainments to the highest conditioned existence.
+The upward Path does not have one necessary itinerary. A practitioner
+may leap over the intervening stations, traverse only part of them, or
+make every station a moment of the ascent. Another course proceeds
+through Form Realm stations without entering the Pure Abodes, then
+through formless rebirths to the highest conditioned existence.
 
 But no future trajectory is absolutely required: the remaining course may also be completed here. The Path is therefore determined by its cultivated disposition and causal history, not by a universal demand to occupy every possible higher domain.
 
@@ -117,11 +121,18 @@ The half-leaper enters the Pure-Abode sequence but bypasses one or more stations
 
 Here **sarvacyuta** must not be rendered from bare etymology as simply “fallen from everything.” The Bhāṣya explicitly explains the practitioner as passing through all relevant intermediate stations before entering Akaniṣṭha.
 
-The route remains strictly directional: the non-returner does not take a second birth in the same sphere and does not return to a lower state. This is **viśeṣagāmitva**, movement toward a superior condition.
+The route remains strictly directional: the non-returner does not take
+a second birth in the same station and does not return to a lower one.
+This is **viśeṣagāmitva**, movement toward a superior condition.
 
 **`Bhavāgraga` — summit-bound upward-streamer**
 
-Another upward-streamer has *bhavāgra*, the summit of existence, as the maximal destination. The Bhāṣya associates this route with unmixed dhyāna. The practitioner delights successively in the intervening attainments, traverses the form and formless stations, reaches the summit, and attains final nirvāṇa there.
+Another upward-streamer has *bhavāgra*, the summit of existence, as the
+maximal destination. The Bhāṣya associates this route with unmixed
+dhyāna. The practitioner delights successively in the intervening
+attainments and is reborn at intervening stations, **without entering
+the Pure Abodes**. The subsequent formless rebirths lead to the summit,
+where final nirvāṇa is attained.
 
 Akaniṣṭha and *bhavāgra* are maximal possible termini, not mandatory destinations in every case. Like “seven-at-most,” the designation fixes an upper bound; completion may occur earlier.
 
@@ -143,7 +154,12 @@ This is a local Abhidharma causal classification. It should not be expanded here
 
 **`Ārūpyaga` — Formless Realm goer**
 
-The Formless Realm non-returner is already detached from form and is reborn among the formless attainments. This type is fourfold: post-arising, effortful, effortless, or upward-streaming. The intermediate-state completion type is absent, consistently with the lack of an intermediate-state form-body in the formless trajectory.
+The Formless Realm non-returner is already detached from form and is
+reborn among the formless attainments. The Bhāṣya says this type is
+fourfold, “beginning with after-arising.” Reading the other three as
+effortful, effortless, and upward-streaming carries forward the preceding
+taxonomy; the local prose does not enumerate them or explain the absence
+of intermediate-state completion.
 
 In this verse **ārūpya** names the literal formless existential realm and its attainments. It must remain distinct from the project's broader use of “formless” for transcendental non-fixation upon achieved forms.
 
@@ -168,6 +184,7 @@ The alternative upward route is:
 UnmixedDhyāna
     + CalmDisposition
     → SuccessiveAttainments
+    → BypassPureAbodes
     → FormlessStations
     → SummitOfExistence
     → Parinirvāṇa
@@ -197,9 +214,10 @@ In Organon terms, explicitly as project synthesis, a Path is not defined by dest
 ## 9. Interpretive Note
 
 **Translation note.** The Bhāṣya expands the three Akaniṣṭha routes, assigns
-unmixed dhyāna and a calm disposition to the summit-bound course, and explains
-both endpoints as maxima. It identifies the fourfold Formless Realm type by
-the completion modes that remain available there and names the present-life
+unmixed dhyāna and a calm disposition to the summit-bound course, excludes
+the Pure Abodes from that route, and explains
+both endpoints as maxima. It names the fourfold Formless Realm type,
+specifies after-arising as its first member, and names the present-life
 completer `dṛṣṭadharmaparinirvāyin`.
 
 

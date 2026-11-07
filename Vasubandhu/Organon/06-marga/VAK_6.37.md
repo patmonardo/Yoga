@@ -121,7 +121,13 @@ anabhisaṃskāra
     → completion occurs without renewed effort
 ```
 
-The Bhāṣya rejects the alternative explanation that merely contrasts Paths taking conditioned and unconditioned objects, because that interpretation would overextend the classification. The operative distinction is attainment through effort or without effort.
+The Bhāṣya rejects the alternative explanation that contrasts Paths
+taking conditioned and unconditioned things as Supports, because that
+interpretation would overextend the classification. The operative
+distinction is attainment through effort or without effort. The source
+also names two corresponding Paths in `vāhyavāhimārgayor`; the first
+member's precise force remains open, while their relation to effort is
+explicit.
 
 **`Vāhimārga / anuśaya` — carrying Path and residual affliction**
 
@@ -201,7 +207,7 @@ In Organon terms, explicitly as project synthesis, a completed domain-transcende
 **Translation note.** The Bhāṣya unfolds four compressed designations and adds
 the upward-streamer as a fifth. It reads the effort distinction in terms of
 Path application, rejects an alternative based on conditioned and
-unconditioned cognitive Conditions, and specifies the intermingled dhyāna case
+unconditioned Supports, and specifies the intermingled dhyāna case
 by Akaniṣṭha as its endpoint. The contrasting upward-stream case belongs to
 the following verse.
 

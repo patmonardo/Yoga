@@ -58,7 +58,10 @@ This is the complete running unit from [355|04] through the line labeled
 `Vasubandhu/Sources/kosabhasya.txt`. Source labels are removed and line
 breaks are editorial. Uneven forms including `vacyavasthāpyate`,
 `nirdūyate`, `valavanto`, and `opaghātavacya` remain as transmitted and
-await collation. The next unit begins at [355|22].
+await collation. The phrase `ādita evādhimātramārgasaṃbhavād` lacks the
+negation expected by its argument; the translation follows the contextual
+negative sense without changing the witness. The closing `trivṛtkarṣavat`
+image also remains uncertain. The next unit begins at [355|22].
 
 ## 3. Continuous Translation
 
@@ -82,9 +85,9 @@ first, then subtle dirt. A slight light dispels coarse darkness, while
 strong light dispels subtle darkness. This is the point of the analogy.
 Bright dharmas are powerful and dark dharmas weak. Even a momentary mild
 Noble Path can uproot strong afflictions nourished through the succession
-of beginningless saṃsāra. The closing line adds two compressed images,
-including a momentary small lamp dispelling great darkness; the precise
-reading of the other image remains provisional.
+of beginningless saṃsāra. As a small measure of *trivṛt* draws out bodily
+faults long accumulated, so a small lamp lasting only a moment dispels
+great darkness. The wording of the first comparison remains provisional.
 
 ## 4. Movement of the Commentary
 
@@ -102,7 +105,9 @@ darkness explain why the subtler residue calls for a stronger Path.
 `bhavāgra`. `Mṛdu`, `madhya`, and `adhimātra` are primary and then
 internal grades. The inverse order of Path and affliction is established
 by the prose, not directly by the kārikā. Damaged source readings
-remain visible.
+remain visible. The negative sense of the strongest Path's impossibility
+at the outset is contextual; the running witness lacks the expected
+negation. The final *trivṛt* comparison is translated provisionally.
 
 **Organon determination.** A reflective Model may record ground, fault
 grade, opposing Path grade, and order of removal separately. The next
@@ -128,6 +133,7 @@ explain the developmental order, not an equality of Path and fault power.
 
 ## 7. Review Status
 
-The complete source unit from [355|04] through [355|21-355|22] is present. Uneven readings
+The complete source unit from [355|04] through [355|21-355|22] is present. Uneven readings,
+especially the apparent missing negation and the closing *trivṛt* image,
 are marked for collation. The kārikā anchor exactly matches the study's
 Bhāṣya-informed translation.

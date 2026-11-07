@@ -5,9 +5,9 @@
 > kṣāntijñānāny ānantaryamuktimārgā yathākramam |
 > adṛṣṭadṛṣṭer dṛṅmārgas tatra pañcadaśa kṣaṇāḥ || 6.28 ||
 
-> Acceptances and Knowledges are, respectively, uninterrupted Paths and
-> liberation Paths. Because it sees what was not seen, this is the Path of
-> Seeing, with fifteen moments.
+> Acceptances and Knowings are, respectively, uninterrupted paths and
+> liberation paths. Because it sees what was not seen, the Path of Seeing
+> has fifteen moments.
 
 The commentary assigns the two path-functions and distinguishes the
 sixteen-moment realization from the fifteen-moment Path of Seeing.
@@ -86,7 +86,9 @@ This is the complete running unit at [352|12–353|11] in
 breaks are editorial. The source transmits `dṛṇṭṅmārga` in the second
 kārikā line; the study uses the separate kārikā reading `dṛṅmārga`.
 Other uneven forms, including `kṣāṇā`, `apoūrvaṃ`, `dedāram`, and
-`pravandhikatvācca`, remain unregularized for collation. The next unit
+`pravandhikatvācca`, remain unregularized for collation. The separate
+kārikā witness `vakobhau.txt` reads `dṛṅgmārga`; this supports the study's
+normalized `dṛṅmārga` without altering the continuous witness. The next unit
 begins at [353|12].
 
 ## 3. Continuous Translation
@@ -101,7 +103,7 @@ closing the door.
 
 If acquisition of disconnection arose only with the next uninterrupted
 path, a Knowing free of the abandoned doubt would not arise concerning
-the same cognitive Condition. Someone objects that a treatise calls nine
+the same Support. Someone objects that a treatise calls nine
 groups of fetters “destroyed by Knowing,” although Acceptance abandons
 afflictions. The reply is that Acceptances belong to Knowing's retinue;
 what the king's retinue does can be called the king's act.
@@ -118,10 +120,11 @@ An objection says the sixteenth moment sees the preceding
 Anvaya-Knowing-Acceptance concerning Path, which itself had not been seen.
 The reply fixes the criterion on the Truth rather than on an individual
 moment. A moment that has not been seen does not make the Truth unseen,
-just as one unharvested strip does not make an entire field unharvested.
+just as one uncut tuft of grain does not make an entire field unharvested.
 Anvaya-Knowing concerning Path is Cultivation because it is a result,
-because it cultivates eight Knowings and sixteen aspects, and because it
-continues the earlier Path. It also maintains the abandonment of
+because it cultivates eight Knowings and sixteen aspects, because it
+relinquishes the previous Path, and because it belongs to a continuing
+series. It does not regress, since it maintains the abandonment of
 seeing-abandonable afflictions. If that maintenance made it Seeing, the
 classification would extend too far. The preceding seven Knowing moments
 still belong to Seeing because the overall first-seeing of the Truths is
@@ -150,7 +153,7 @@ anchor follows the study's separate reading. The source's objections are
 kept distinct from the replies.
 
 **Organon determination.** A reflective Model can type each moment's
-path function, afflictive acquisition, disconnection, Truth condition,
+path function, afflictive acquisition, disconnection, Truth as Support,
 and place in the whole sequence. The completion condition for first seeing
 then explains the transition to Cultivation. This is project synthesis.
 

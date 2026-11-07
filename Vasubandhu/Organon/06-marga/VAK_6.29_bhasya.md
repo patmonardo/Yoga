@@ -5,9 +5,9 @@
 > mṛdutīkṣṇendriyau teṣu śraddhādharmānusāriṇau |
 > ahīnabhāvanāheyau phalādyapratipannakau || 6.29 ||
 
-> Among these [fifteen moments], practitioners with mild and sharp Faculties are
-> respectively Faith-Followers and Dharma-Followers; neither has exhausted
-> afflictions abandoned through cultivation, and both are candidates for the
+> Among these [fifteen moments], practitioners of gentle and sharp faculties are,
+> respectively, Faith-Followers and Dharma-Followers; if they have not
+> previously abandoned what Cultivation must abandon, both proceed toward the
 > first fruit.
 
 The commentary classifies two practitioners within the same Seeing sequence
@@ -57,10 +57,11 @@ The commentary now explains how persons in whom the Noble Path has arisen
 are classified. The fifteen moments described as belonging to the Path
 of Seeing are the relevant span. In them, one of gentle faculty is called
 a Faith-Follower, and one of sharp faculty is called a Dharma-Follower.
-A Faith-Follower follows by faith, or has a disposition to follow by
-faith. Earlier this person followed Meaning through another's assurance.
-The Dharma-Follower earlier followed Meaning independently through
-Dharma, such as the sūtras.
+A following through faith is faith-following; a Faith-Follower is one who
+has such following, or is disposed to follow through faith. Earlier this
+person followed Meaning through another's assurance. Likewise, the
+Dharma-Follower earlier followed Meaning independently through dharmas
+such as the sūtras.
 
 When these two have not abandoned the afflictions that cultivation must
 abandon, they proceed toward the first fruit. The first of the fruits is

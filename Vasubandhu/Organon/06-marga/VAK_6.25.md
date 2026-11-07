@@ -23,7 +23,7 @@ laukikebhyo 'gradharmebhyo dharmakṣāntir anāsravā || 6.25 ||
 | **ākṣipyate** | third-person singular present passive from *ā-√kṣip* | is projected, planted, or initiated |
 | **nṛṣu** | masculine locative plural | among human beings |
 | **laukikebhyaḥ agra-dharmebhyaḥ** | masculine ablative plural | immediately from or after the Highest Mundane Dharmas |
-| **dharma-kṣāntiḥ** | feminine nominative singular compound | Dharma-Acceptance; expanded by the Bhāṣya as Dharma-Knowledge-Acceptance |
+| **dharma-kṣāntiḥ** | feminine nominative singular compound | Dharma-Acceptance; expanded by the Bhāṣya as Dharma-Knowing-Acceptance |
 | **anāsravā** | feminine nominative singular | uncontaminated, without outflows; agreeing with *dharmakṣāntiḥ* |
 
 ```text
@@ -55,13 +55,13 @@ uncontaminated Dharma-Acceptance
 ROOT[NAME=liberation-conducive, FORMATION=hearing+reflection,
      ACTION=bodily|verbal|mental, FIRST-LOCI=humans]
   ← śrutacintāmayaṃ trīṇi karmāṇy ākṣipyate nṛṣu
-PATH-MOMENT[NAME=Dharma-Knowledge-Acceptance, PURITY=uncontaminated,
+PATH-MOMENT[NAME=Dharma-Knowing-Acceptance, PURITY=uncontaminated,
             PRECEDING=Highest-Mundane-Dharmas, SUCCESSION=immediate]
   ← laukikebhyo 'gradharmebhyo dharmakṣāntir anāsravā
 ```
 
-The prose supplies mental-action primacy, the first moment's cognitive
-Condition, and its status as entry into the determinate Noble order.
+The prose supplies mental-action primacy, the first moment's Support,
+and its status as entry into the determinate Noble order.
 
 ## 5. Translation
 
@@ -75,7 +75,7 @@ Condition, and its status as entry into the determinate Noble order.
 
 > The root conducive to liberation is hearing-born or reflection-born, involves
 > the three actions, and is projected among humans. After the Highest Mundane
-> Dharmas, uncontaminated Dharma-Knowledge-Acceptance arises.
+> Dharmas, uncontaminated Dharma-Knowing-Acceptance arises.
 
 ## 6. Philosophical Translation
 
@@ -93,9 +93,9 @@ The wholesome root conducive to liberation: formed through hearing and reflectio
 
 The final mundane preparation. Dharma-Acceptance follows immediately: the threshold from mundane to uncontaminated.
 
-**`Dharmajñānakṣānti` — Dharma-Knowledge-Acceptance**
+**`Dharmajñānakṣānti` — Dharma-Knowing-Acceptance**
 
-The kārikā's *dharmakṣānti*, already uncontaminated but not identical with the Knowing that follows it. Related to it as flower to fruit. Its cognitive Condition is Desire Realm suffering.
+The kārikā's *dharmakṣānti*, already uncontaminated but distinct from the Knowing that follows it. It is named for that outflowing result, as a tree may be named for its flowers or fruit. Its Support is Desire Realm suffering.
 
 **`Anāsrava` — uncontaminated**
 
@@ -118,7 +118,7 @@ LiberationConduciveRoot {
     genesis: hearing + reflection
     expression: bodily + verbal + mental action
     primaryMode: mental action
-    firstSupport: human existence
+    firstProductionSetting: human existence
 }
 
 HighestMundaneDharmas
@@ -133,19 +133,19 @@ The Bhāṣya coordinates four transformations in one arising:
 
 ```text
 temporal:     immediately after the final mundane moment
-cognitive:    Dharma-Knowledge-Acceptance
+cognitive:    Dharma-Knowing-Acceptance
 purity:       uncontaminated
 practitioner: ordinary person → Noble Person
 ```
 
 This is a prepared discontinuity in its complete form. The long causal preparation is necessary, but its result is not homogeneous with its final mundane condition.
 
-In Organon terms, explicitly as project synthesis, the **Ideal Copula becomes Path-entry**: the cultivated relation between Truth, cognitive Condition, aspiration, and practice no longer merely prepares Meaning; it becomes an uncontaminated operation whose arising determines both what is seen and who the practitioner now is within the Path.
+In Organon terms, explicitly as project synthesis, the **Ideal Copula becomes Path-entry**: the cultivated relation between Truth, Support, aspiration, and practice no longer merely prepares Meaning; it becomes an uncontaminated operation whose arising determines both what is seen and who the practitioner now is within the Path.
 
 ## 9. Interpretive Note
 
 **Translation note.** The Bhāṣya supplies mental-action primacy, the desire-
-realm suffering Condition, the expanded name `dharmajñānakṣānti`, entry into
+realm suffering Support, the expanded name `dharmajñānakṣānti`, entry into
 determinate rightness, and the resulting Noble status. It reports three
 accounts of what displaces ordinary-person status; those remain attributed
 separately in the continuous translation.
@@ -155,20 +155,20 @@ VAK 6.24 completed the architecture of preparation. VAK 6.25 crosses its boundar
 
 This is the first place where the project's intuition that Meaning itself is Path becomes textually concrete. The decisive event is not the addition of a proposition about suffering. A determinate Truth is apprehended through an uncontaminated operation, and the arising of that operation is simultaneously entry into the Noble order.
 
-Still, Acceptance must not be collapsed prematurely into Knowing. The Bhāṣya's flower–fruit analogy preserves a generated distinction between *kṣānti* and the *jñāna* that follows. VAK 6.26 will begin to articulate that sequence, and the present study stops before completing it.
+Acceptance remains distinct from Knowing. The Bhāṣya's comparison with a flower or fruit tree explains naming by what will issue from Acceptance. VAK 6.26 will begin to articulate the subsequent Knowing, and the present study stops before completing that sequence.
 
-The kārikā states the constitution and human projection of the liberation-conducive root, immediate succession from the Highest Mundane Dharmas, and uncontaminated Dharma-Acceptance. Mental primacy, aspiration-governed action, the determinate cognitive Condition, the flower–fruit relation, *niyāmāvakrānti*, Noble status, and the three accounts of displacing ordinary-person status are Bhāṣya determinations. “Ideal Copula becomes Path-entry” is the Organon's reconstruction.
+The kārikā states the constitution and human projection of the liberation-conducive root, immediate succession from the Highest Mundane Dharmas, and uncontaminated Dharma-Acceptance. Mental primacy, aspiration-governed action, the determinate Support, naming by outflowing result, *niyāmāvakrānti*, Noble status, and the three accounts of displacing ordinary-person status are Bhāṣya determinations. “Ideal Copula becomes Path-entry” is the Organon's reconstruction.
 
 ## 10. OWL++ Seed
 
 ```text
 Class: LiberationConduciveRoot
-Class: HearingBorndiscriminative comprehension
-Class: ReflectionBorndiscriminative comprehension
+Class: HearingBornPrajñā
+Class: ReflectionBornPrajñā
 Class: BodilyAction
 Class: VerbalAction
 Class: MentalAction
-Class: HumanSupport
+Class: HumanBirthSetting
 Class: HighestMundaneDharma
 Class: DharmaKnowingAcceptance
   SanskritLabel: dharmajñānakṣānti
@@ -188,13 +188,13 @@ ObjectProperty: constitutesEntryInto
 ObjectProperty: transformsStatusTo
 
 LiberationConduciveRoot Facts:
-  formedThrough HearingBorndiscriminative comprehension
-  formedThrough ReflectionBorndiscriminative comprehension
+  formedThrough HearingBornPrajñā
+  formedThrough ReflectionBornPrajñā
   expressedThrough BodilyAction
   expressedThrough VerbalAction
   expressedThrough MentalAction
   primarilyExpressedThrough MentalAction
-  firstProjectedIn HumanSupport
+  firstProjectedIn HumanBirthSetting
 
 HighestMundaneDharma immediatelyPrecedes DharmaKnowingAcceptance
 

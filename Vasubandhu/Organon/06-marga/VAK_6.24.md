@@ -118,7 +118,7 @@ The verse contrasts two temporal forms of one causal architecture:
 Exceptional course:
     penetration-conducive roots → Awakening
     one sitting
-    fourth-dhyāna support
+    fourth-dhyāna ground
 
 Quickest course:
     life 1 → liberation-conducive root
@@ -126,7 +126,7 @@ Quickest course:
     life 3 → Noble Path and liberation
 ```
 
-The Bhāṣya expresses the ordinary sequence through an organic analogy:
+The Bhāṣya expresses the quickest three-life sequence through an organic analogy:
 
 ```text
 sowing the seed → growth of the crop → production of fruit

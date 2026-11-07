@@ -37,7 +37,11 @@ sentence at [358|03] in `Vasubandhu/Sources/kosabhasya.txt`. The second
 `sa eva punaḥ phalasthaḥ /` at [358|03] opens the 6.36 discussion.
 Source labels are removed and line breaks editorial. The verse's
 `dvitīyapratīpannakaḥ`, the prose's `ekaprakāroyāvat`, and
-`janmāghāvāt` remain as transmitted; they await collation.
+`janmāghāvāt` remain as transmitted. A [Tocharian manuscript's Sanskrit
+quotation](https://titus.fkidg1.uni-frankfurt.de/texte/tocharic/tht/01/0198.htm)
+reads `pareṇa janmābhāvāt` at the last phrase, supporting “because there
+is no birth beyond that”; the running witness has not been silently
+corrected. The other uneven readings await collation.
 
 ## 3. Continuous Translation
 
@@ -50,9 +54,9 @@ proceeding toward the second fruit.
 When the sixth grade is exhausted, that same person becomes a
 once-returner: the second fruit has been attained. The name is explained
 by one coming back to the human world after going among the gods. The
-following compressed phrase concerning a further birth is uncertain
-in this witness (`pareṇa janmāghāvāt`). The name is also explained by
-the thinning of greed, hatred, and delusion: only mild grades remain.
+following phrase adds that there is no birth beyond that return. The name
+is also explained by the thinning of greed, hatred, and delusion: only mild
+grades remain.
 
 ## 4. Movement of the Commentary
 
@@ -68,8 +72,9 @@ and by the attenuation of greed, hatred, and delusion.
 `pratipannaka` designates one proceeding toward a fruit, whereas
 `dvitīyaphalaprāpta` marks its attainment. The study prints the
 received `pratipannakaḥ` while preserving the source's
-`pratīpannakaḥ` in §2. The unclear `janmāghāvāt` is not made to bear a
-precise birth count beyond the explicit once-return explanation.
+`pratīpannakaḥ` in §2. The parallel manuscript supports reading the
+damaged `janmāghāvāt` as `janmābhāvāt`; the source reading remains visible
+and the English limits the claim to no birth beyond the stated return.
 
 **Organon determination.** A fruit already attained and candidacy for
 a subsequent fruit can coexist. Grade removal must be typed with the
@@ -92,6 +97,7 @@ classification; the two claims have different status scopes.
 ## 7. Review Status
 
 The complete running unit [357|20]–[358|03] is present through the
-first sentence at [358|03]. Uneven readings are marked for collation.
+first sentence at [358|03]. The damaged birth phrase has parallel
+support; other uneven readings remain for collation.
 The kārikā anchor copies the study's Bhāṣya-informed translation exactly.
 Next: 6.36.

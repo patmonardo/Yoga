@@ -106,8 +106,8 @@ of the Akaniṣṭha-goer whose dhyāna is intermingled.
 
 Another upward-streamer goes to the summit of existence. With
 unmixed dhyāna, this practitioner delights in the intervening
-attainments, is born through the stations in succession, passes beyond
-the Pure Abodes through the formless sequence, reaches the summit,
+attainments, is born through the stations in succession without entering
+the Pure Abodes, follows the sequence of formless rebirths, reaches the summit,
 and there completes final Nirvāṇa. This person is disposed toward
 calm; the earlier Akaniṣṭha-goer is disposed toward insight. An
 upward-streamer may also complete final Nirvāṇa partway through the
@@ -117,8 +117,8 @@ stream-enterer. These are the five form-going non-returners.
 
 Another non-returner goes to the formless realm: detached from form,
 that person departs this life and is reborn in a formless station.
-There are four types according to completion after arising and the
-other available completion modes. With this type the classification
+There are four types, beginning with completion after arising; the
+remaining modes are left implicit here. With this type the classification
 reaches six non-returners. A further practitioner completes final
 Nirvāṇa here, in this very life, and is called the present-life
 completer (*dṛṣṭadharmaparinirvāyin*), the seventh.
@@ -135,10 +135,12 @@ fourfold Formless Realm type and present-life completion.
 
 **Translation decisions.** `Sarvacyuta` is read from the prose as one
 who traverses all stations. `Bhavāgraga` marks the summit as a maximal
-endpoint, not a required stop for every upward-streamer. The four
-formless types are the after-arising, with-exertion, without-exertion,
-and upward-streaming modes carried forward from the preceding taxonomy;
-this verse does not name them individually. `Iha` is kept emphatic:
+endpoint, not a required stop for every upward-streamer. The summit-bound
+description's `apraviśyaiva śuddhāvāsān` excludes entry into the Pure
+Abodes. The four formless types are inferred as the after-arising,
+with-exertion, without-exertion, and upward-streaming modes from the
+preceding taxonomy; the local prose names only the first with
+`upapadyādi`. `Iha` is kept emphatic:
 completion may occur in this life. The witness's `ārugyagaḥ` remains
 visible, while the study uses `ārūpyagaḥ` in accord with the prose.
 
@@ -155,7 +157,7 @@ project synthesis.
 | Leaper | Skips the middle stations | Akaniṣṭha maximum |
 | Half-leaper | Skips at least one Pure-Abode station | Akaniṣṭha maximum |
 | All-stations traverser | Moves through every intervening station | Akaniṣṭha maximum |
-| Other upward-streamer | Unmixed dhyāna and calm disposition | Summit of existence maximum |
+| Other upward-streamer | Unmixed dhyāna and calm disposition; bypasses the Pure Abodes | Summit of existence maximum |
 | Formless Realm non-returner | Detached from form; four completion modes | Formless rebirth |
 | Present-life completer | Completes here | No further itinerary required |
 

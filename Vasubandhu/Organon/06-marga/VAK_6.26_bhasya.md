@@ -5,9 +5,9 @@
 > kāmaduḥkhe tato 'traiva dharmajñānaṃ tathā punaḥ |
 > śeṣe duḥkhe 'nvayakṣāntijñāne satyatraye tathā || 6.26 ||
 
-> For suffering in the desire realm comes Dharma-Knowledge; then, for the
-> remaining suffering, Anvaya-Acceptance and Anvaya-Knowledge; and likewise
-> for each of the other three Truths.
+> Then, concerning that same Desire Realm suffering, Dharma-Knowing arises;
+> for the remaining suffering, Anvaya-Knowing-Acceptance and Anvaya-Knowing
+> arise in turn. The same sequence holds for the other three Truths.
 
 The commentary expands the verse's ellipses into an ordered series of
 Acceptance and Knowing for each Truth and domain range.
@@ -69,7 +69,7 @@ As that Acceptance and Knowing arise concerning Desire Realm suffering,
 so, concerning the remaining suffering, arise Anvaya-Knowing-Acceptance
 and Anvaya-Knowing. Immediately after Dharma-Knowing concerning suffering,
 Anvaya-Knowing-Acceptance arises with suffering in the form and formless
-realms taken together as its cognitive Condition. It is called
+realms taken together as its Support. It is called
 Anvaya-Knowing-Acceptance regarding suffering; then Anvaya-Knowing arises
 regarding that suffering. Dharma-Knowing is named from the first knowing
 of the truth of the dharma. Anvaya-Knowing concerning higher suffering
@@ -97,22 +97,22 @@ other three Truths.
 ## 5. Translation and Interpretation
 
 **Translation decisions.** `Atraiva` holds the Desire Realm suffering
-Condition constant for the first Dharma pair. `Śeṣe duḥkhe` gathers the
+Support constant for the first Dharma pair. `Śeṣe duḥkhe` gathers the
 form and formless realms as one `samastālambana`, a combined cognitive
-Condition. `Anvaya` marks following in accordance with prior Knowing;
+Support. `Anvaya` marks following in accordance with prior Knowing;
 this passage does not require an inference from one realm to another.
 `Satyatraye tathā` extends the four-moment pattern to origin, cessation,
 and Path. The Bhāṣya explicitly says uncontaminated status holds
 throughout.
 
 **Organon determination.** A reflective Model can register Truth, domain,
-cognitive Condition, moment function, purity, and immediate predecessor
+Support, moment function, purity, and immediate predecessor
 for each arising. The ordered correspondence across domain ranges is a
 feature of direct realization. This is project synthesis.
 
 ## 6. Four Moments for Each Truth
 
-| Order | Moment | Cognitive Condition |
+| Order | Moment | Support |
 |---|---|---|
 | 1 | Dharma-Knowing-Acceptance | Desire Realm form of the Truth |
 | 2 | Dharma-Knowing | The same Desire Realm Truth |
@@ -125,7 +125,8 @@ of Desire Realm suffering for the Dharma pair.
 
 ## 7. Review Status
 
-The complete source unit [350|12–351|06] is present, including the
-explicit enumeration for the remaining three Truths. Uneven transmitted
+Reviewed against the complete source unit [350|12–351|06], including the
+explicit enumeration for the remaining three Truths. The preceding 6.25
+unit ends at [350|11], and 6.27 starts at [351|07]. Uneven transmitted
 forms are marked for collation. The kārikā anchor exactly matches the
 study's Bhāṣya-informed translation.

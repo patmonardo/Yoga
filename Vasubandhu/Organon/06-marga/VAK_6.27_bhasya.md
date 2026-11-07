@@ -6,7 +6,7 @@
 > darśanālambakāryākhyaḥ so 'gradharmaikabhūmikaḥ || 6.27 ||
 
 > Thus this realization of the Truths has sixteen moments of consciousness and
-> is threefold, named by seeing, cognitive Condition, and function; it occurs
+> is threefold, named by seeing, Support, and work; it occurs
 > on the same ground as the Highest Mundane Dharmas.
 
 The commentary distinguishes unity of work from the successive seeing
@@ -92,11 +92,11 @@ precise readings await collation. The next discussion begins at [352|12].
 By the sequence just set out, direct realization of the Truths comprises
 sixteen moments of consciousness. Other schools speak of a single direct
 realization of the Truths. Their intended meaning must be examined.
-Realization is spoken of in three senses: seeing, cognitive Condition, and
+Realization is spoken of in three senses: seeing, Support, and
 work. Seeing-realization occurs through uncontaminated Prajñā regarding
-the Truths. Realization by cognitive Condition includes associated factors
+the Truths. Realization by Support includes associated factors
 such as feeling. Realization by work extends even to dissociated factors,
-such as discipline and status. While suffering is seen, it is realized in
+such as discipline and birth. While suffering is seen, it is realized in
 all three senses; the other Truths are realized by work, through
 abandoning, directly actualizing, and cultivating.
 
@@ -110,15 +110,18 @@ and discrimination of dharmas. If one replies that this specificity
 belongs only to the Path of Cultivation, the commentary answers that
 cultivation proceeds according to Seeing.
 
-If “one realization” instead means that seeing one Truth confers a
-capacity regarding the others, there is no immediate objection, though
+If “one realization” instead means that seeing one Truth confers
+mastery regarding the others (the witness reading is damaged), there is
+no immediate objection, though
 the possibility of an intervening emergence still requires examination.
 If it means that fully knowing suffering also abandons origin, directly
 actualizes cessation, and cultivates Path, there is likewise no objection:
 these are work-realizations of the other Truths. Regarding strict seeing,
 however, scripture indicates successive realization of the Truths. The
-commentary adduces three sūtras with examples about prior realization,
-and answers a further sūtra about freedom from doubt by pointing to its
+commentary adduces three sūtras with examples, including a damaged quotation
+addressed to a householder concerning one realization and a prior
+realization. It answers a further sūtra, “Whoever has no uncertainty or doubt
+about suffering has none about the Buddha either,” by pointing to its
 intended sense of non-manifestation and necessary abandonment. These
 scriptural references do not establish simultaneous seeing.
 
@@ -140,13 +143,13 @@ sixteen moments continuous with the final mundane preparation.
 consciousness,” retaining the controlled distinction between `citta` and
 `vijñāna`. `Darśanābhisamaya` belongs specifically to uncontaminated
 Prajñā; `ālambanābhisamaya` includes associated factors sharing the
-Truth as cognitive Condition; `kāryābhisamaya` extends even to
+Truth as Support; `kāryābhisamaya` extends even to
 dissociated factors through accomplished work. The reported
 `nikāyāntarīya` position and the Bhāṣya's qualified replies remain
 attributed separately.
 
 **Organon determination.** A reflective Model can register ordered seeing,
-shared cognitive Condition, and system-wide Path work as distinct
+shared Support, and system-wide Path work as distinct
 relations. Functional integration of the Truths does not make their
 seeing simultaneous. This is project synthesis.
 
@@ -155,8 +158,8 @@ seeing simultaneous. This is project synthesis.
 | Sense | Immediate range | Relation to the other Truths |
 |---|---|---|
 | Seeing | Uncontaminated Prajñā | Successive and Truth-specific |
-| Cognitive Condition | Associated factors, including feeling | Share the currently taken Truth |
-| Work | Even dissociated factors, including discipline and status | Tasks concerning other Truths can be accomplished together |
+| Support | Associated factors, including feeling | Share the currently taken Truth as Support |
+| Work | Even dissociated factors, including discipline and birth | Tasks concerning other Truths can be accomplished together |
 
 All sixteen moments remain on the same meditative ground as the Highest
 Mundane Dharmas that immediately precede them. The change in purity and

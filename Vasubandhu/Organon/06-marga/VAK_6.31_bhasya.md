@@ -6,8 +6,8 @@
 > śraddhādhimuktadṛṣṭyāptau mṛdutīkṣṇendriyau tadā || 6.31 ||
 
 > At the sixteenth moment, the two are established in whichever fruit each was
-> approaching. Then, with mild and sharp Faculties, they are respectively
-> Faith-Resolved and Attained through Seeing.
+> approaching. Then, as practitioners of gentle and sharp faculties, they are
+> respectively Faith-Resolved and Attained through Seeing.
 
 The commentary links the sixteenth moment to each practitioner's already
 determined fruit and explains the new faculty-based names.
@@ -62,12 +62,12 @@ attained at this initial completion because the Path of Seeing does not
 abandon afflictions to be abandoned through cultivation and because
 prior dispassion from the summit of existence is impossible.
 
-“At that time the practitioners of gentle and sharp faculty are
-Faith-Resolved and attained through Seeing.” The one of gentle faculty
+"At that time the practitioners of gentle and sharp faculty are
+Faith-Resolved and Attained through Seeing." The one of gentle faculty
 who was previously a Faith-Follower is called `śraddhādhimukta`.
 The one of sharp faculty who was previously a Dharma-Follower is called
-`dṛṣṭiprāpta`. Their names reflect predominance of faith and Prajñā,
-and corresponding influence of resolve and Seeing.
+`dṛṣṭiprāpta`. Their names reflect the respective predominance of faith
+and Prajñā, with resolve and Seeing shaping the designations.
 
 ## 4. Movement of the Commentary
 

@@ -124,8 +124,8 @@ The **Path superior to the fruit** is the new course capable of carrying the pra
 ```text
 present fruit
     → renewed application
-    → superior Path
-    → candidacy toward another fruit
+    → possible manifestation of a superior Path
+    → possible candidacy toward another fruit
 ```
 
 Elapsed time or passive possession of the current fruit cannot substitute for this operation.
@@ -141,8 +141,8 @@ The Bhāṣya says the same rule applies to the other fruits. It is not an excep
 ```text
 attain fruit N
     → stand in fruit N
-    → undertake application toward further distinction
-    → become candidate toward fruit N+1
+    → if applying toward further distinction, a further Path may arise
+    → then become candidate toward fruit N+1
 ```
 
 **Third-dhyāna qualification**
@@ -151,9 +151,9 @@ The Bhāṣya records a special case: one already detached from the third dhyān
 
 This is a local qualification involving supporting ground and faculty. It does not cancel the general distinction between fruit-position and renewed transition.
 
-**`Ānupūrvika` — the gradual sequence**
+**Boundary to the gradual sequence**
 
-At the end of the passage, Vasubandhu closes the classification of those entering the Noble order with varying degrees of prior detachment and announces the gradual or sequential case (*ānupūrvika*). This transition prepares the following analysis but does not belong to the kārikā's wording.
+This unit closes the classification of those entering the Noble order with prior detachment. The term *ānupūrvika*, announcing the gradual case, begins the next Bhāṣya unit at [355|04].
 
 ## 8. Logical Determination
 
@@ -165,13 +165,13 @@ fruit N attained
     ⇏ candidacy toward fruit N+1 automatically active
 ```
 
-The valid transition is:
+The necessary condition for a further transition is:
 
 ```text
 FruitEstablished
     + ApplicationTowardFurtherDistinction
-    → SuperiorPathActive
-    → CandidateTowardHigherFruit
+    → possible SuperiorPathActive
+    → possible CandidateTowardHigherFruit
 ```
 
 It therefore separates two modes of actuality:
@@ -206,9 +206,9 @@ VAK 6.31 converted fruit-candidacy into fruit-establishment. VAK 6.32 protects t
 
 Instead, the fruit is a determinate resting position. A new course begins only when a further End becomes operative through renewed application. This strengthens the root principle: Beginning and End reciprocally determine a movement, but one movement's End is not identical without mediation to the Beginning of another.
 
-The verse thereby gives **prayoga** a copular function. It joins attained actuality to a new possibility by orienting the practitioner toward *viśeṣa*. The new End selects the superior Path, and active application makes that Path present.
+The verse thereby gives **prayoga** a copular function. It joins attained actuality to a new possibility by orienting the practitioner toward *viśeṣa*. The new End specifies the superior Path, and application is required before the practitioner can be classed as proceeding toward it.
 
-The kārikā states the non-simultaneity of fruit and superior-Path attainment and denies further candidacy without application. The fixed-rule formulation, its generalization to all fruits, the special supporting-ground case, and the transition to the gradual analysis are Bhāṣya determinations. The distinction between completed position, possible ground, and mediated new Beginning is Organon synthesis.
+The kārikā states the non-simultaneity of fruit and superior-Path attainment and denies further candidacy without application. The fixed-rule formulation, its generalization to all fruits, and the special supporting-ground case are Bhāṣya determinations. The gradual-case announcement belongs to the next unit. The distinction between completed position, possible ground, and mediated new Beginning is Organon synthesis.
 
 ## 10. OWL++ Seed
 
@@ -230,7 +230,7 @@ Class: ActiveTransition
 
 ObjectProperty: establishedIn
 ObjectProperty: appliesToward
-ObjectProperty: activates
+ObjectProperty: mayActivate
 ObjectProperty: progressesToward
 ObjectProperty: superiorTo
 ObjectProperty: requires
@@ -238,7 +238,7 @@ ObjectProperty: requires
 FruitEstablishedPerson establishedIn PresentFruit
 SuperiorPath superiorTo PresentFruit
 ApplicationTowardDistinction appliesToward FurtherDistinction
-ApplicationTowardDistinction activates SuperiorPath
+ApplicationTowardDistinction mayActivate SuperiorPath
 FruitCandidate progressesToward HigherFruit
 FruitCandidate requires ApplicationTowardDistinction
 
@@ -246,6 +246,6 @@ Constraint: Attainment of PresentFruit does not simultaneously entail attainment
 Constraint: FruitEstablishedPerson without renewed application is not FruitCandidate toward HigherFruit.
 Constraint: Position and transition are distinct path-determinations.
 BhāṣyaRule: The non-simultaneity rule applies across the Noble fruits.
-ProjectRule: NewBeginning = EndAttained + NewDeterminateEnd + RenewedApplication.
+ProjectRule: NewBeginning requires EndAttained + NewDeterminateEnd + RenewedApplication.
 ProjectRule: Prayoga mediates completed position and active superior transition.
 ```

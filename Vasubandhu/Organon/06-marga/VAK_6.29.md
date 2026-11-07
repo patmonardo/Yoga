@@ -77,9 +77,9 @@ stream-entry as the first fruit.
 
 ### Bhāṣya-informed study translation
 
-> Among these [fifteen moments], practitioners with mild and sharp Faculties are
-> respectively Faith-Followers and Dharma-Followers; neither has exhausted
-> afflictions abandoned through cultivation, and both are candidates for the
+> Among these [fifteen moments], practitioners of gentle and sharp faculties are,
+> respectively, Faith-Followers and Dharma-Followers; if they have not
+> previously abandoned what Cultivation must abandon, both proceed toward the
 > first fruit.
 
 ## 6. Philosophical Translation

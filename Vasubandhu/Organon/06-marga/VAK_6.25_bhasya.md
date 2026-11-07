@@ -7,7 +7,7 @@
 
 > The root conducive to liberation is hearing-born or reflection-born, involves
 > the three actions, and is projected among humans. After the Highest Mundane
-> Dharmas, uncontaminated Dharma-Knowledge-Acceptance arises.
+> Dharmas, uncontaminated Dharma-Knowing-Acceptance arises.
 
 The Bhāṣya completes the account of the earlier root and then identifies
 the first uncontaminated moment after the final mundane preparation.
@@ -96,24 +96,25 @@ await collation. The next unit begins at [350|12].
 
 ## 3. Continuous Translation
 
-The liberation-conducive root is described as hearing-born and
+The liberation-conducive root is described as hearing-born or
 reflection-born, not cultivation-born. How many actions are involved?
 Three; mental action is primary. Bodily and verbal action also become
 conducive to liberation when embraced by that resolve. Someone may give
 even a single portion of alms or undertake one rule of training and
 thereby project liberation-conducive roots through the power of aspiration
 for liberation. Such roots are first projected only among humans of the
-three continents, not elsewhere, owing to the absence of the relevant
-Prajñā and penetration as applicable.
+three continents, not elsewhere, owing to the absence of Prajñā or
+disenchantment elsewhere, as appropriate.
 
 The digression on what is conducive to liberation ends. The sequence of
 direct realization resumes where the Highest Mundane Dharmas were reached.
 Immediately after them, uncontaminated Dharma-Knowing-Acceptance arises.
-What is its cognitive Condition? Desire Realm suffering. Accordingly it
-is called Dharma-Knowing-Acceptance regarding suffering. The commentary
-relates the Acceptance to the uncontaminated Knowing toward which it tends,
-like flower and fruit on a tree. The transmitted explanatory compounds are
-compressed, so the exact philological account remains provisional.
+What is its Support? Desire Realm suffering. Accordingly it is called
+Dharma-Knowing-Acceptance regarding suffering. To indicate the
+uncontaminated Knowing, Acceptance is qualified by its outflowing result;
+it is named for the Dharma-Knowing it is directed toward, as a tree may be
+named for the flowers or fruit it bears. The transmitted `karmajñānārthaṃ`
+remains uncertain in this explanation.
 
 This same moment is called entry into determinate rightness
 (`niyāmāvakrānti`). Rightness is identified with Nirvāṇa in a sūtra;
@@ -131,7 +132,7 @@ by analogy with the uninterrupted and liberation paths.
 
 The Bhāṣya closes the prior-root discussion, returns to direct
 realization, and identifies the first uncontaminated Path moment, its
-cognitive Condition, and its entry function. It then reports three
+Support, and its entry function. It then reports three
 accounts of the transition from ordinary to Noble status without
 collapsing their disagreement.
 
@@ -139,15 +140,19 @@ collapsing their disagreement.
 
 **Translation decisions.** `Śrutacintāmaya` qualifies the earlier
 `mokṣabhāgīya` root, while `dharmakṣānti` begins the direct-realization
-sequence. `Ālambana` is cognitive Condition, not a generic Object.
+sequence. `Ālambana` is Support. The preceding `prajñānirveda` names Prajñā
+and disenchantment, not penetration.
 `Anāsrava` distinguishes the new moment categorically from its immediate
 mundane predecessor. `Dharmajñānakṣānti` is rendered
 Dharma-Knowing-Acceptance, keeping Acceptance distinct from the Knowing
-to which it is related. The three views concerning `pṛthagjanatva` are
-kept attributed.
+to which it is related. Its name derives from its outflowing result, as
+in the flower or fruit tree analogy. A [published Sanskrit study](https://icabs.repo.nii.ac.jp/record/363/files/sbp-ms-18.pdf)
+reads `dharmajñānārthaṃ` where the working witness has `karmajñānārthaṃ`;
+the Sanskrit block retains the working witness. The three views concerning
+`pṛthagjanatva` are kept attributed.
 
 **Organon determination.** A reflective Model may track immediate
-succession, cognitive Condition, purity status, and practitioner status
+succession, Support, purity status, and practitioner status
 in separate features. Preparation brings on the first Noble Path moment,
 but the mundane preparation is not itself uncontaminated. This is project
 synthesis.
@@ -158,7 +163,7 @@ synthesis.
 |---|---|---|
 | Stage | Highest Mundane Dharmas | First uncontaminated Path moment |
 | Purity | Mundane | Uncontaminated |
-| Cognitive Condition | Desire Realm suffering at the final preparatory moment | Desire Realm suffering |
+| Support | Desire Realm suffering at the final preparatory moment | Desire Realm suffering |
 | Practitioner status | Ordinary | Called a Noble Person at arising |
 
 The source reports three explanations of what displaces ordinary-person
@@ -166,6 +171,7 @@ status: the future Acceptance, the Highest Mundane Dharmas, or both.
 
 ## 7. Review Status
 
-The complete running span [349|10–350|11] is present. Compressed readings
-and the three attributed accounts remain visible. The kārikā anchor
-exactly matches the study's Bhāṣya-informed translation.
+Reviewed against the complete running span [349|10–350|11]. Its first half
+overlaps the 6.24 unit [348|20–349|22]; 6.26 begins at [350|12]. Compressed
+readings and the three attributed accounts remain visible. The kārikā
+anchor exactly matches the study's Bhāṣya-informed translation.

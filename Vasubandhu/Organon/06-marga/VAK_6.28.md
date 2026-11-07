@@ -40,7 +40,7 @@ The distribution controlled by **yathākramam** is exact: the Acceptances are un
 
 The first line is a nominal equation with coordinated subjects and predicates. **kṣāntijñānāni** names the two alternating kinds of moment; **ānantaryamuktimārgāḥ** supplies their respective path-functions; **yathākramam** explicitly enforces the one-to-one distribution.
 
-The second line defines **dṛṅmārgaḥ** by the genitive compound **adṛṣṭadṛṣṭeḥ**: it is the Path of Seeing because it sees what was previously unseen. This is not a definition by the mere occurrence of a novel temporal moment. The Bhāṣya clarifies that the relevant novelty belongs to the Truth as cognitive Condition.
+The second line defines **dṛṅmārgaḥ** by the genitive compound **adṛṣṭadṛṣṭeḥ**: it is the Path of Seeing because it sees what was previously unseen. This is not a definition by the mere occurrence of a novel temporal moment. The Bhāṣya clarifies that the relevant novelty belongs to the Truth as Support.
 
 **tatra pañcadaśa kṣaṇāḥ** restricts the strict Path of Seeing to fifteen moments within the sixteen-moment direct realization. The verse therefore distinguishes the extension of *satyābhisamaya* from the extension of *darśanamārga*.
 
@@ -70,13 +70,13 @@ the Path of Cultivation.
 
 ### Bhāṣya-informed study translation
 
-> Acceptances and Knowledges are, respectively, uninterrupted Paths and
-> liberation Paths. Because it sees what was not seen, this is the Path of
-> Seeing, with fifteen moments.
+> Acceptances and Knowings are, respectively, uninterrupted paths and
+> liberation paths. Because it sees what was not seen, the Path of Seeing
+> has fifteen moments.
 
 ## 6. Philosophical Translation
 
-Every realization-pair performs one complete operation. Acceptance interrupts the affliction's hold without interval; Knowing establishes the achieved disconnection on that same cognitive field. The first moment removes the obstruction, and the second possesses the resulting freedom.
+Every realization-pair performs one complete operation. Acceptance interrupts the affliction's hold without interval; Knowing establishes the achieved disconnection on that same Support. The first moment removes the obstruction, and the second possesses the resulting freedom.
 
 This operation is finite by its own End. The Path of Seeing exists only while some Truth remains not yet directly seen. By accomplishing its purpose at the fifteenth moment, it removes the condition under which it could continue as Seeing. The sixteenth moment must therefore become Cultivation: the development of the field already disclosed.
 
@@ -106,7 +106,7 @@ afflictive possession severed
     → acquisition of disconnection
 ```
 
-The liberated field is not simply abandoned behind the process. Knowing arises with that same cognitive Condition after doubt concerning it has been removed.
+The Support is not simply abandoned behind the process. Knowing arises with that same Support after doubt concerning it has been removed.
 
 **`Kṣānti` and `jñāna` — why both are necessary**
 
@@ -148,19 +148,19 @@ The strict Path of Seeing extends:
 
 ```text
 moment 1:
-    Dharma-Knowledge-Acceptance concerning suffering
+    Dharma-Knowing-Acceptance concerning suffering
 
 through moment 15:
-    Anvaya-Knowledge-Acceptance concerning Path
+    Anvaya-Knowing-Acceptance concerning Path
 ```
 
 At the fifteenth moment, the final obstruction opposed to first seeing is severed. The complete Truth-field has now been directly seen.
 
-The sixteenth moment is Anvaya-Knowledge concerning Path. It remains part of the sixteen-moment direct realization but no longer performs a first seeing.
+The sixteenth moment is Anvaya-Knowing concerning Path. It remains part of the sixteen-moment direct realization but no longer performs a first seeing.
 
 **`Bhāvanāmārga` — cultivation of what has been seen**
 
-The sixteenth moment begins the Path of Cultivation because it develops what has already been seen (*yathādṛṣṭābhyasana*). It functions as result and continues the established Knowing-and-aspect structure.
+The sixteenth moment begins the Path of Cultivation because it develops what has already been seen (*yathādṛṣṭābhyasana*). The Bhāṣya also calls it a result, says it cultivates eight Knowings and sixteen aspects, relinquishes the previous Path, and belongs to a continuing series. Its nonretrogression preserves the abandonment achieved by Seeing; that preservation alone does not make it a Seeing moment.
 
 The first seven Knowing-moments still count within the Path of Seeing because the total first-seeing operation is not yet complete. The eighth and final Knowing differs because nothing remains unseen at the level of the Four-Truth sequence.
 
@@ -203,7 +203,7 @@ when the Truth-field is completely seen:
     begin Cultivation
 ```
 
-In Organon terms, explicitly as project synthesis, this realizes the root principle of Beginning and End:
+In Organon terms, explicitly as project synthesis, this realizes the root Principle of Beginning and End:
 
 ```text
 Beginning = a determinate unseen Truth and its afflictive obstruction
@@ -221,7 +221,7 @@ and sixteenth moments and distinguishes first seeing of a Truth from the
 novelty of a moment within the sequence.
 
 
-VAK 6.27 showed one realization through seeing, cognitive Condition, and accomplished function. VAK 6.28 identifies the microstructure of that function. Acceptance severs; Knowing secures release. Every pair is a finite course of liberative action.
+VAK 6.27 showed one realization through seeing, Support, and accomplished work. VAK 6.28 identifies the microstructure of that work. Acceptance severs; Knowing secures release. Every pair is a finite course of liberative action.
 
 This gives a precise Mārga form of the earlier Karma insight. Karma presented objective courses of action as proto-Dharma. Here the course becomes explicitly Truth-governed and self-terminating: it operates upon a determinate obstruction until its End has been accomplished.
 
@@ -274,7 +274,7 @@ SixteenthMoment initiates PathOfCultivation
 
 Constraint: Acceptance and Knowing perform distinct but necessarily paired functions.
 Constraint: The Path of Seeing contains fifteen, not sixteen, moments.
-Constraint: Novelty of a moment does not entail that its Truth as cognitive Condition remains unseen.
+Constraint: Novelty of a moment does not entail that its Truth as Support remains unseen.
 BhāṣyaRule: The first seven Knowing-moments remain within Seeing because the total first-seeing sequence is unfinished.
 ProjectRule: FinitePathOperation = determinate Beginning + ordered Course + completion-governed End.
 ProjectRule: Accomplishing an End terminates one movement and generates its successor.

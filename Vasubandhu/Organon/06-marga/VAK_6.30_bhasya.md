@@ -5,10 +5,10 @@
 > yāvat pañcaprakāraghnau dvitīye 'rvāṅ navakṣayāt |
 > kāmād viraktāv ūrdhvaṃ vā tṛtīyapratipannakau || 6.30 ||
 
-> When no more than five grades have been destroyed, the two remain candidates
-> for the first fruit; after six to eight grades, they are candidates for the
-> second [fruit]. When detached from desire, or from a higher realm, they are
-> candidates for the third [fruit].
+> With up to five grades destroyed, the two still proceed toward the first
+> fruit; with six to eight destroyed, they proceed toward the second. Once
+> detached from the Desire Realm, or further above it, they proceed toward the
+> third fruit.
 
 The commentary maps prior mundane abandonment to the fruit each follower
 approaches within the same Path of Seeing.
@@ -57,16 +57,16 @@ as many as five grades among Desire Realm afflictions to be abandoned by
 cultivation, the two followers are still said to be proceeding toward
 the first fruit.
 
-“Toward the second, short of destruction of the ninth”: if six, seven,
-or eight grades in total were previously abandoned, these
-two are called practitioners proceeding toward the second fruit. The
-second fruit is once-return.
+"Toward the second, short of destruction of the ninth": "toward the
+second" means toward the second fruit. If six, seven, or eight grades in
+total were previously abandoned, these two are called practitioners
+proceeding toward it. What is the second fruit? Once-return.
 
-“Detached from the Desire Realm, or higher”: if the ninth grade has also
-been abandoned, the two are free of attachment to the Desire Realm.
-If detachment extends still higher, as far as the Essence of Nothingness,
-they are called practitioners proceeding toward the third fruit. The
-third fruit is non-return.
+"Detached from the Desire Realm, or higher": if the ninth grade has also
+been abandoned, the two are free of attachment to the Desire Realm; their
+detachment may also extend higher, as far as the Essence of Nothingness.
+In either case they are called practitioners proceeding toward the third
+fruit. What is the third fruit? Non-return.
 
 ## 4. Movement of the Commentary
 

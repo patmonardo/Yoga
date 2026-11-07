@@ -70,7 +70,9 @@ This is the complete running unit from [358|19] through [359|13-359|14]
 in `Vasubandhu/Sources/kosabhasya.txt`; [359|15] begins the next verse.
 Source labels are removed and line breaks editorial. The witness's
 `dvivadho`, `vyavakorṇa`, `tatriva`, `tvaṃnabhisaṃskāreṇa`, and other
-uneven forms remain uncorrected pending collation.
+uneven forms remain uncorrected pending collation. The compound
+`vāhyavāhimārgayor` names two contrasting Paths, but its first member's
+precise force in this context remains open.
 
 ## 3. Continuous Translation
 
@@ -89,10 +91,10 @@ after rebirth and reaches final Nirvāṇa through effort and the operation
 of the carrying Path. The one who completes without exertion does so
 without that renewed effort, lacking the same engaged carrying Path.
 Others distinguish these types by Paths taking conditioned and
-unconditioned cognitive Conditions; the commentary rejects this as
+unconditioned things as Supports; the commentary rejects this as
 overextending the distinction. Scripture lists the effortless type
-first, and this ordering is fitting: one completion comes without
-striving and the other through striving. The after-arising type has
+first, and this ordering is fitting: their corresponding Paths are
+attained respectively without and with exertion. The after-arising type has
 an even stronger carrying Path and milder residual anuśayas.
 
 An upward-streamer is one whose course rises higher and who does not
@@ -119,7 +121,10 @@ course and gives cause and result as two bases of differentiation.
 `asaṃskāra` are expanded as alternative completion modes; the compound
 is not one person's sequence of four events. The effort distinction
 is tied to `prayoga` and the carrying Path, whereas the rejected
-alternative turns on the Path's cognitive Condition (`ālambana`).
+alternative turns on the Path's Support (`ālambana`). The two Path
+terms in `vāhyavāhimārgayor` are left unexpanded in §3 because the
+first member's precise sense is unsettled; their contrasting relation
+to effort is explicit in the prose.
 `Vyavakīrṇa-dhyāna` is kept technical; the source here determines its
 upward-course function without fully analyzing its composition.
 
@@ -135,7 +140,7 @@ synthesis.
 | Intermediate completion | In the intermediate existence | Before a new birth is established |
 | After-arising completion | Shortly after rebirth | Strong carrying Path, milder residue |
 | With-exertion completion | Through continued Path application | Deliberate effort remains operative |
-| Without-exertion completion | Without renewed effort | Object-based explanation rejected |
+| Without-exertion completion | Without renewed effort | Support-based explanation rejected |
 | Upward-streamer | After movement to higher loci | Intermingled dhyāna leads to Akaniṣṭha here |
 
 The five are modes of a non-returner, not five separate fruits.
